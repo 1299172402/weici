@@ -35,6 +35,8 @@ html 版
 * [Xx](html/weici_X.html)
 * [Yy](html/weici_Y.html)
 * [Zz](html/weici_Z.html)
+* [词组](html/weici_仅词组2542.html)
+* [所有词](html/weici_全10112.html)
 
 md 版
 ---
@@ -64,3 +66,6 @@ md 版
 * [Xx](md/weici_X.md)
 * [Yy](md/weici_Y.md)
 * [Zz](md/weici_Z.md)
+* [单词](md/weici_仅单词7570.md)
+* [词组](md/weici_仅词组2542.md)
+* [所有词](md/weici_全10112.md)
