@@ -1,0 +1,509 @@
+<!doctype html>
+<html>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+<title>weici_Y</title><link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
+iframe { margin: auto; }
+a.url { word-break: break-all; }
+a:active, a:hover { outline: 0px; }
+.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 40px; }
+#write.first-line-indent p { text-indent: 2em; }
+#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
+#write.first-line-indent li { margin-left: 2em; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
+@media screen and (max-width: 500px) {
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  #write { padding-left: 20px; padding-right: 20px; }
+  .CodeMirror-sizer { margin-left: 0px !important; }
+  .CodeMirror-gutters { display: none !important; }
+}
+#write li > figure:last-child { margin-bottom: 0.5rem; }
+#write ol, #write ul { position: relative; }
+img { max-width: 100%; vertical-align: middle; }
+button, input, select, textarea { color: inherit; font: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+*, ::after, ::before { box-sizing: border-box; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
+p { line-height: inherit; }
+h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 2; }
+p { orphans: 4; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; cursor: pointer; }
+sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
+figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
+figure > table { margin: 0px !important; }
+tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+table.md-table td { min-width: 32px; }
+.CodeMirror-gutters { border-right: 0px; background-color: inherit; }
+.CodeMirror-linenumber { user-select: none; }
+.CodeMirror { text-align: left; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+#write pre { white-space: pre-wrap; }
+#write.fences-no-line-wrapping pre { white-space: pre; }
+#write pre.ty-contain-cm { white-space: normal; }
+.CodeMirror-gutters { margin-right: 4px; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background: inherit; position: relative !important; }
+.md-diagram-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+#write .md-fences.mock-cm { white-space: pre-wrap; }
+.md-fences.md-fences-with-lineno { padding-left: 0px; }
+#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
+.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
+.CodeMirror-line, twitterwidget { break-inside: avoid; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
+.footnotes + .footnotes { margin-top: 0px; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li .mathjax-block, li p { margin: 0.5rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child, li > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
+#write .footnote-line { white-space: pre-wrap; }
+@media print {
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; }
+  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
+  .typora-export * { -webkit-print-color-adjust: exact; }
+  html.blink-to-pdf { font-size: 13px; }
+  .typora-export #write { padding-left: 32px; padding-right: 32px; padding-bottom: 0px; break-after: avoid; }
+  .typora-export #write::after { height: 0px; }
+}
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+a img, img a { cursor: pointer; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
+p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
+p > .md-image:only-child { display: inline-block; width: 100%; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.md-math-block { width: 100%; }
+.md-math-block:not(:empty)::after { display: none; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus { outline: 0px; box-shadow: none; }
+.md-task-list-item { position: relative; list-style-type: none; }
+.task-list-item.md-task-list-item { padding-left: 0px; }
+.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc-content::after, .md-toc::after { display: none; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-item a { text-decoration: none; }
+.md-toc-inner:hover { text-decoration: underline; }
+.md-toc-inner { display: inline-block; cursor: pointer; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
+@media screen and (max-width: 48em) {
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
+}
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+code, pre, samp, tt { font-family: var(--monospace); }
+kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.8; font-family: var(--monospace); }
+code { text-align: left; vertical-align: initial; }
+a.md-print-anchor { white-space: pre !important; border-width: initial !important; border-style: none !important; border-color: initial !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; background: 0px 0px !important; text-decoration: initial !important; text-shadow: initial !important; }
+.md-inline-math .MathJax_SVG .noError { display: none !important; }
+.html-for-mac .inline-math-svg .MathJax_SVG { vertical-align: 0.2px; }
+.md-math-block .MathJax_SVG_Display { text-align: center; margin: 0px; position: relative; text-indent: 0px; max-width: none; max-height: none; min-height: 0px; min-width: 100%; width: auto; overflow-y: hidden; display: block !important; }
+.MathJax_SVG_Display, .md-inline-math .MathJax_SVG_Display { width: auto; margin: inherit; display: inline-block !important; }
+.MathJax_SVG .MJX-monospace { font-family: var(--monospace); }
+.MathJax_SVG .MJX-sans-serif { font-family: sans-serif; }
+.MathJax_SVG { display: inline; font-style: normal; font-weight: 400; line-height: normal; zoom: 90%; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; overflow-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; }
+.MathJax_SVG * { transition: none 0s ease 0s; }
+.MathJax_SVG_Display svg { vertical-align: middle !important; margin-bottom: 0px !important; margin-top: 0px !important; }
+.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
+.md-diagram-panel > svg { max-width: 100%; }
+[lang="mermaid"] svg, [lang="flow"] svg { max-width: 100%; height: auto; }
+[lang="mermaid"] .node text { font-size: 1rem; }
+table tr th { border-bottom: 0px; }
+video { max-width: 100%; display: block; margin: 0px auto; }
+iframe { max-width: 100%; width: 100%; border: none; }
+.highlight td, .highlight tr { border: 0px; }
+svg[id^="mermaidChart"] { line-height: 1em; }
+mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
+mark .md-meta { color: rgb(0, 0, 0); opacity: 0.3 !important; }
+
+
+:root {
+    --side-bar-bg-color: #fafafa;
+    --control-text-color: #777;
+}
+
+@include-when-export url(https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
+
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: "Open Sans","Clear Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: rgb(51, 51, 51);
+    line-height: 1.6;
+}
+
+#write {
+    max-width: 860px;
+  	margin: 0 auto;
+  	padding: 30px;
+    padding-bottom: 100px;
+}
+#write > ul:first-child,
+#write > ol:first-child{
+    margin-top: 30px;
+}
+
+a {
+    color: #4183C4;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    position: relative;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    line-height: 1.4;
+    cursor: text;
+}
+h1:hover a.anchor,
+h2:hover a.anchor,
+h3:hover a.anchor,
+h4:hover a.anchor,
+h5:hover a.anchor,
+h6:hover a.anchor {
+    text-decoration: none;
+}
+h1 tt,
+h1 code {
+    font-size: inherit;
+}
+h2 tt,
+h2 code {
+    font-size: inherit;
+}
+h3 tt,
+h3 code {
+    font-size: inherit;
+}
+h4 tt,
+h4 code {
+    font-size: inherit;
+}
+h5 tt,
+h5 code {
+    font-size: inherit;
+}
+h6 tt,
+h6 code {
+    font-size: inherit;
+}
+h1 {
+    padding-bottom: .3em;
+    font-size: 2.25em;
+    line-height: 1.2;
+    border-bottom: 1px solid #eee;
+}
+h2 {
+   padding-bottom: .3em;
+    font-size: 1.75em;
+    line-height: 1.225;
+    border-bottom: 1px solid #eee;
+}
+h3 {
+    font-size: 1.5em;
+    line-height: 1.43;
+}
+h4 {
+    font-size: 1.25em;
+}
+h5 {
+    font-size: 1em;
+}
+h6 {
+   font-size: 1em;
+    color: #777;
+}
+p,
+blockquote,
+ul,
+ol,
+dl,
+table{
+    margin: 0.8em 0;
+}
+li>ol,
+li>ul {
+    margin: 0 0;
+}
+hr {
+    height: 2px;
+    padding: 0;
+    margin: 16px 0;
+    background-color: #e7e7e7;
+    border: 0 none;
+    overflow: hidden;
+    box-sizing: content-box;
+}
+
+li p.first {
+    display: inline-block;
+}
+ul,
+ol {
+    padding-left: 30px;
+}
+ul:first-child,
+ol:first-child {
+    margin-top: 0;
+}
+ul:last-child,
+ol:last-child {
+    margin-bottom: 0;
+}
+blockquote {
+    border-left: 4px solid #dfe2e5;
+    padding: 0 15px;
+    color: #777777;
+}
+blockquote blockquote {
+    padding-right: 0;
+}
+table {
+    padding: 0;
+    word-break: initial;
+}
+table tr {
+    border-top: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 0;
+}
+table tr:nth-child(2n),
+thead {
+    background-color: #f8f8f8;
+}
+table tr th {
+    font-weight: bold;
+    border: 1px solid #dfe2e5;
+    border-bottom: 0;
+    margin: 0;
+    padding: 6px 13px;
+}
+table tr td {
+    border: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 6px 13px;
+}
+table tr th:first-child,
+table tr td:first-child {
+    margin-top: 0;
+}
+table tr th:last-child,
+table tr td:last-child {
+    margin-bottom: 0;
+}
+
+.CodeMirror-lines {
+    padding-left: 4px;
+}
+
+.code-tooltip {
+    box-shadow: 0 1px 1px 0 rgba(0,28,36,.3);
+    border-top: 1px solid #eef2f2;
+}
+
+.md-fences,
+code,
+tt {
+    border: 1px solid #e7eaed;
+    background-color: #f8f8f8;
+    border-radius: 3px;
+    padding: 0;
+    padding: 2px 4px 0px 4px;
+    font-size: 0.9em;
+}
+
+code {
+    background-color: #f3f4f4;
+    padding: 0 2px 0 2px;
+}
+
+.md-fences {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding-top: 8px;
+    padding-bottom: 6px;
+}
+
+
+.md-task-list-item > input {
+  margin-left: -1.3em;
+}
+
+@media print {
+    html {
+        font-size: 13px;
+    }
+    table,
+    pre {
+        page-break-inside: avoid;
+    }
+    pre {
+        word-wrap: break-word;
+    }
+}
+
+.md-fences {
+	background-color: #f8f8f8;
+}
+#write pre.md-meta-block {
+	padding: 1rem;
+    font-size: 85%;
+    line-height: 1.45;
+    background-color: #f7f7f7;
+    border: 0;
+    border-radius: 3px;
+    color: #777777;
+    margin-top: 0 !important;
+}
+
+.mathjax-block>.code-tooltip {
+	bottom: .375rem;
+}
+
+.md-mathjax-midline {
+    background: #fafafa;
+}
+
+#write>h3.md-focus:before{
+	left: -1.5625rem;
+	top: .375rem;
+}
+#write>h4.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+#write>h5.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+#write>h6.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+.md-image>.md-meta {
+    /*border: 1px solid #ddd;*/
+    border-radius: 3px;
+    padding: 2px 0px 0px 4px;
+    font-size: 0.9em;
+    color: inherit;
+}
+
+.md-tag {
+    color: #a7a7a7;
+    opacity: 1;
+}
+
+.md-toc { 
+    margin-top:20px;
+    padding-bottom:20px;
+}
+
+.sidebar-tabs {
+    border-bottom: none;
+}
+
+#typora-quick-open {
+    border: 1px solid #ddd;
+    background-color: #f8f8f8;
+}
+
+#typora-quick-open-item {
+    background-color: #FAFAFA;
+    border-color: #FEFEFE #e5e5e5 #e5e5e5 #eee;
+    border-style: solid;
+    border-width: 1px;
+}
+
+/** focus mode */
+.on-focus-mode blockquote {
+    border-left-color: rgba(85, 85, 85, 0.12);
+}
+
+header, .context-menu, .megamenu-content, footer{
+    font-family: "Segoe UI", "Arial", sans-serif;
+}
+
+.file-node-content:hover .file-node-icon,
+.file-node-content:hover .file-node-open-state{
+    visibility: visible;
+}
+
+.mac-seamless-mode #typora-sidebar {
+    background-color: #fafafa;
+    background-color: var(--side-bar-bg-color);
+}
+
+.md-lang {
+    color: #b4654d;
+}
+
+.html-for-mac .context-menu {
+    --item-hover-bg-color: #E6F0FE;
+}
+
+#md-notification .btn {
+    border: 0;
+}
+
+.dropdown-menu .divider {
+    border-color: #e5e5e5;
+}
+
+.ty-preferences .window-content {
+    background-color: #fafafa;
+}
+
+.ty-preferences .nav-group-item.active {
+    color: white;
+    background: #999;
+}
+
+
+</style>
+</head>
+<body class='typora-export os-windows' >
+<div  id='write'  class = 'is-node'><h1><a name="yeti-n" class="md-header-anchor"></a><strong><em><span>Yeti</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;jeti     美音 &#39;jeti</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><strong><span>雪人，野人 (= Abominable Snowman)</span></strong><span>  </span></li></ol><h2><a name="固定搭配" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="yak-n" class="md-header-anchor"></a><strong><em><span>yak</span></em></strong><span> n</span></h1><hr /><p><span>英音 jæk     美音 jæk</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n25" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>牦牛</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n30" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n32" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n34" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="yard-n" class="md-header-anchor"></a><strong><em><span>yard</span></em></strong><span> n</span></h1><hr /><p><span>英音 jɑːd     美音 jɑːrd</span></p><p><span>词频 4 | 口语 2 | 书面 2 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n43" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>院子；庭院：</span></strong><span>  </span></li></ol><blockquote><p><span>a farm yard </span><br/><span>农家院</span></p></blockquote><blockquote><p><span>a yard sale </span><br/><span>(在自家院子进行的)旧货出售</span></p></blockquote><blockquote><p><span>We cleaned up the yard and painted the house. </span><br/><span>我们打扫了院子，粉刷了房子。</span></p></blockquote><ol start='2' ><li><em><span>高义频：</span></em><span> </span><strong><span>[长度单位，=0.914米] 码</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n58" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n60" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n62" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="yawn-n" class="md-header-anchor"></a><strong><em><span>yawn</span></em></strong><span> n</span></h1><hr /><p><span>英音 jɔːn     美音 jɔːn</span></p><p><span>词频 2 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n71" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>哈欠：</span></strong><span>  </span></li></ol><blockquote><p><span>He gave a yawn and then fell asleep.</span><br/><span>他打了个哈欠，然后就睡着了。</span></p></blockquote><h2><a name="固定搭配-n79" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n81" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n83" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="yawn-vi" class="md-header-anchor"></a><strong><em><span>yawn</span></em></strong><span> vi</span></h1><hr /><p><span>英音 jɔːn     美音 jɔːn</span></p><p><span>词频 2 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n91" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>打哈欠：</span></strong><span>  </span></li></ol><blockquote><p><span>His speech made the audience yawn. </span><br/><span>他的演讲令听众直打哈欠。</span></p></blockquote><h2><a name="固定搭配-n99" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n101" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n103" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="yeah-adv" class="md-header-anchor"></a><strong><em><span>yeah</span></em></strong><span> adv</span></h1><hr /><p><span>英音 jeə     美音 jeə</span></p><p><span>词频 4 | 口语 3 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n111" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>[口语] 是；对 (yes)</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n116" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n118" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n120" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="year-n" class="md-header-anchor"></a><strong><em><span>year</span></em></strong><span> n</span></h1><hr /><p><span>英音 jɪə(r), jɜ:(r)     美音 jɪr</span></p><p><span>词频 5 | 口语 3 | 书面 3 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n129" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>(日历) 年</span></strong><span>  </span></li></ol><ol start='2' ><li><em><span>低义频：</span></em><span> </span><strong><span>年度；学年：</span></strong><span>  </span></li></ol><blockquote><p><span>I am in my first year at high school. </span><br/><span>我是高中一年级学生。</span></p></blockquote><ol start='3' ><li><em><span>高义频：</span></em><span> </span><strong><span>...岁</span></strong><span>  </span></li></ol><ol start='4' ><li><em><span>高义频：</span></em><span> </span><strong><span>[非正式用语] 很长时间：</span></strong><span>  </span></li></ol><blockquote><p><span>I haven’t played the piano for years. </span><br/><span>我很久没弹钢琴了。</span></p></blockquote><h2><a name="固定搭配-n151" class="md-header-anchor"></a><span>固定搭配</span></h2><ul><li><h4><a name="all-the-year-round" class="md-header-anchor"></a><span>all (the) year round </span></h4></li></ul><ol start='' ><li><strong><span>一年到头：</span></strong><span>  </span></li></ol><blockquote><p><span>The Antarctic is covered with snow and ice all year round. </span><br/><span>南极地区终年被冰雪覆盖。</span></p></blockquote><ul><li><h4><a name="year-after-year" class="md-header-anchor"></a><span>year after year </span></h4></li></ul><ol start='' ><li><strong><span>年复一年：</span></strong><span>  </span></li></ol><blockquote><p><span>Year after year he had to work hard to get out of debt. </span><br/><span>年复一年，为了还债他不得不拼命工作。</span></p></blockquote><ul><li><h4><a name="year-by-year" class="md-header-anchor"></a><span>year by year </span></h4></li></ul><ol start='' ><li><strong><span>年年；逐年：</span></strong><span>  </span></li></ol><blockquote><p><span>Year by year my father became weaker. </span><br/><span>我父亲的身体一年比一年差。</span></p></blockquote><h2><a name="派生词汇-n180" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n182" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="yearly-adj" class="md-header-anchor"></a><strong><em><span>yearly</span></em></strong><span> adj</span></h1><hr /><p><span>英音 &#39;jɜ:li, &#39;jɪəli     美音 &#39;jɪrli</span></p><p><span>词频 2 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n190" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>每年的；一年一度的：</span></strong><span>  </span></li></ol><blockquote><p><span>Mr Davis takes a yearly trip to Europe. </span><br/><span>戴维斯先生每年去欧洲旅行一次。</span></p></blockquote><h2><a name="固定搭配-n198" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n200" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n202" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="yearly-adv" class="md-header-anchor"></a><strong><em><span>yearly</span></em></strong><span> adv</span></h1><hr /><p><span>英音  &#39;jɜ:li, &#39;jɪəli     美音 &#39;jɪrli</span></p><p><span>词频 2 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n210" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>每年；一年一次地：</span></strong><span>  </span></li></ol><blockquote><p><span>Interest is paid yearly. </span><br/><span>利息每年支付一次。</span></p></blockquote><h2><a name="固定搭配-n218" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n220" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n222" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="yell-v" class="md-header-anchor"></a><strong><em><span>yell</span></em></strong><span> v</span></h1><hr /><p><span>英音 jel     美音 jel</span></p><p><span>词频 2 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n230" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>vi &amp; vt 叫喊；大声喊 (说)：</span></strong><span>  </span></li></ol><ul><li><h4><a name="yell-sth-at-sb-to-do-sth" class="md-header-anchor"></a><span>yell (sth) at sb to do sth:</span></h4></li></ul><blockquote><p><span>He yelled at her to be careful. </span><br/><span>他大声叫她小心。</span></p></blockquote><blockquote><p><strong><span>yelled at the top of,voice</span></strong><span></span><br/><span>“Help me!”she yelled at the top of her voice (= very loudly).</span><br/><span>“救救我！”她声嘶力竭地喊道。</span></p></blockquote><h2><a name="固定搭配-n243" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n245" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n247" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="yell-n" class="md-header-anchor"></a><strong><em><span>yell</span></em></strong><span> n</span></h1><hr /><p><span>英音 jel     美音 jel</span></p><p><span>词频 2 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n255" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><strong><span>叫喊，大喊，吼叫</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n260" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n262" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n264" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="yellow-n" class="md-header-anchor"></a><strong><em><span>yellow</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;jeləʊ     美音 &#39;jeloʊ</span></p><p><span>词频 4 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [C] &amp; [U]</span></p><h2><a name="英文释义-n273" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>黄色</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n278" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n280" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n282" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="yellow-adj" class="md-header-anchor"></a><strong><em><span>yellow</span></em></strong><span> adj</span></h1><hr /><p><span>英音 &#39;jeləʊ     美音 &#39;jeloʊ</span></p><p><span>词频 4 | 口语 2 | 书面 1 | 阅读 0</span></p><h2><a name="英文释义-n290" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>黄色的；发黄的</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n295" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n297" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n299" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="yes-n" class="md-header-anchor"></a><strong><em><span>yes</span></em></strong><span> n</span></h1><hr /><p><span>英音 jes     美音 jes</span></p><p><span>词频 5 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n308" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>是：</span></strong><span>  </span></li></ol><blockquote><p><span>Answer with a yes or a no. </span><br/><span>回答是或不是。</span></p></blockquote><h2><a name="固定搭配-n316" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n318" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n320" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="yes-adv" class="md-header-anchor"></a><strong><em><span>yes</span></em></strong><span> adv</span></h1><hr /><p><span>英音 jes     美音 jes</span></p><p><span>词频 5 | 口语 3 | 书面 3 | 阅读 0</span></p><h2><a name="英文释义-n328" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>[对肯定的问句的回答] 是；是的：</span></strong><span>  </span></li></ol><blockquote><p><span>— Will you come? </span><br/><span>你要来吗?</span></p></blockquote><blockquote><p><span>— Yes, I will. </span><br/><span>对，我要来。</span></p></blockquote><ol start='2' ><li><em><span>高义频：</span></em><span> </span><strong><span>[对否定的问句的回答] 不：</span></strong><span>  </span></li></ol><blockquote><p><span>— You weren’t invited, were you? </span><br/><span>没有邀请您，是吗？</span></p></blockquote><blockquote><p><span>— Yes, I was. </span><br/><span>不，邀请了。</span></p></blockquote><ol start='3' ><li><em><span>高义频：</span></em><span> </span><strong><span>[同意对方的话或对自己的话加以肯定] 对；是的：</span></strong><span>  </span></li></ol><blockquote><p><span>Your work is good, yes, very good. </span><br/><span>你的工作干得很好，对，干得很好。</span></p></blockquote><h2><a name="固定搭配-n352" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n354" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n356" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="yesterday-adv" class="md-header-anchor"></a><strong><em><span>yesterday</span></em></strong><span> adv</span></h1><hr /><p><span>英音 &#39;jestədeɪ, &#39;jestədi     美音 &#39;jestərdeɪ, &#39;jestərdi</span></p><p><span>词频 5 | 口语 3 | 书面 3 | 阅读 0</span></p><p><span>用法点拨  [U]</span></p><h2><a name="英文释义-n365" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>昨天：</span></strong><span>  </span></li></ol><blockquote><p><span>He arrived yesterday. </span><br/><span>他昨天到达。</span></p></blockquote><h2><a name="固定搭配-n373" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n375" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n377" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="yesterday-n" class="md-header-anchor"></a><strong><em><span>yesterday</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;jestədeɪ, &#39;jestədi     美音 &#39;jestərdeɪ, &#39;jestərdi</span></p><p><span>词频 5 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [U]</span></p><h2><a name="英文释义-n386" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>昨天：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>the day before yesterday</span></strong><span></span><br/><span>the day before yesterday</span><br/><span>前天</span></p></blockquote><blockquote><p><span>yesterday morning / afternoon / evening </span><br/><span>昨天上午/下午/晚上</span></p></blockquote><blockquote><p><span>Yesterday will not be called again. </span><br/><span>昨日一去不复返。</span></p></blockquote><h2><a name="固定搭配-n398" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n400" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n402" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="yet-conj" class="md-header-anchor"></a><strong><em><span>yet</span></em></strong><span> conj</span></h1><hr /><p><span>英音 jet     美音 jet</span></p><p><span>词频 5 | 口语 0 | 书面 2 | 阅读 0</span></p><h2><a name="英文释义-n410" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>[与but相比，比较的意味较强，常与and连用] 然而；可是：</span></strong><span>  </span></li></ol><blockquote><p><span>The story is simple yet interesting. </span><br/><span>这个故事简单但很有趣。</span></p></blockquote><blockquote><p><span>She is a funny girl, and yet you can’t help liking her.</span><br/><span>她是个滑稽的姑娘，可你会禁不住喜欢她。</span></p></blockquote><h2><a name="固定搭配-n420" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n422" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n424" class="md-header-anchor"></a><span>真题解析</span></h2><h5><a name="题目" class="md-header-anchor"></a><span>题目  </span></h5><ol start='' ><li><span>Mike was usually so careful, </span><strong><span>__</span></strong><span>__ this time he made a small mistake. </span><br/><span>A.yet </span><br/><span>B.still</span><br/><span>C.even </span><br/><span>D.thus  </span></li></ol><h5><a name="答案-a" class="md-header-anchor"></a><span>答案 A  </span></h5><p>&nbsp;</p><h1><a name="yet-adv" class="md-header-anchor"></a><strong><em><span>yet</span></em></strong><span> adv</span></h1><hr /><p><span>英音 jet     美音 jet</span></p><p><span>词频 5 | 口语 3 | 书面 3 | 阅读 0</span></p><h2><a name="英文释义-n436" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>[用于否定句中，常置于句末以及not后] 还；尚 (没)：</span></strong><span>  </span></li></ol><blockquote><p><span>We haven’t finished the work yet. </span><br/><span>我们还没有完成这项工作。</span></p></blockquote><p><span>在肯定句中用still或already。</span></p><blockquote><p><span>She is still young. </span><br/><span>她还年轻。</span></p></blockquote><blockquote><p><span>He has already come back. 他已经回来了 。  </span></p></blockquote><ol start='2' ><li><em><span>高义频：</span></em><span> </span><strong><span>[用于表示肯定的疑问句] 已经：</span></strong><span>  </span></li></ol><blockquote><p><span>Have you seen the film yet? </span><br/><span>你看过那部电影了吗？</span></p></blockquote><ol start='3' ><li><em><span>低义频：</span></em><span> </span><strong><span>[与if, whether从句连用] 已经：</span></strong><span>  </span></li></ol><blockquote><p><span>I doubt if she has written the paper yet. </span><br/><span>我怀疑她是否已经写了论文。</span></p></blockquote><ol start='4' ><li><em><span>低义频：</span></em><span> </span><strong><span>[用于肯定句中等于still，但有较强的感情色彩] 甚至；更：</span></strong><span>  </span></li></ol><blockquote><p><span>I have yet more exciting news to tell you. </span><br/><span>我还有更令人激动的消息告诉你。</span></p></blockquote><h2><a name="固定搭配-n467" class="md-header-anchor"></a><span>固定搭配</span></h2><ul><li><h4><a name="not-yet" class="md-header-anchor"></a><span>not yet</span></h4></li></ul><ol start='' ><li><strong><span>还没：</span></strong><span>  </span></li></ol><blockquote><p><span>— Are you ready? </span><br/><span>准备好了吗？</span></p></blockquote><blockquote><p><span>— Not yet.</span><br/><span>还没有。</span></p></blockquote><h2><a name="派生词汇-n480" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n482" class="md-header-anchor"></a><span>真题解析</span></h2><h5><a name="题目-n483" class="md-header-anchor"></a><span>题目  </span></h5><p><span>— Have you finished your first paper?</span></p><p><span>— </span><strong><span>__</span></strong><span>__ (还没有). Just half of it, how about you?  </span></p><h5><a name="答案-not-yet" class="md-header-anchor"></a><span>答案 Not yet  </span></h5><p>&nbsp;</p><h1><a name="yield-n" class="md-header-anchor"></a><strong><em><span>yield</span></em></strong><span> n</span></h1><hr /><p><span>英音 jiːld     美音 jiːld</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n493" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><strong><span>产量</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n498" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n500" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n502" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="yoga-n" class="md-header-anchor"></a><strong><em><span>yoga</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;jəʊɡə     美音 &#39;joʊɡə</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n510" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><strong><span>瑜伽术</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n515" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n517" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n519" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="yoghurt-n" class="md-header-anchor"></a><strong><em><span>yoghurt</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;jɒɡət     美音 &#39;joʊɡərt</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [C] &amp; [U]</span></p><h2><a name="英文释义-n528" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>酸乳；酸奶</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n533" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n535" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n537" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="you-pron" class="md-header-anchor"></a><strong><em><span>you</span></em></strong><span> pron</span></h1><hr /><p><span>英音 juː, ju     美音 juː, jə</span></p><p><span>词频 5 | 口语 3 | 书面 3 | 阅读 0</span></p><h2><a name="英文释义-n545" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>你；你们</span></strong><span>  </span></li></ol><ol start='2' ><li><em><span>高义频：</span></em><span> </span><strong><span>人；任何人：</span></strong><span>  </span></li></ol><blockquote><p><span>You have to be careful with people you don’t know.</span><br/><span>对不认识的人要小心。</span></p></blockquote><h2><a name="固定搭配-n557" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n559" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n561" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="young-n" class="md-header-anchor"></a><strong><em><span>young</span></em></strong><span> n</span></h1><hr /><p><span>英音 jʌŋ     美音 jʌŋ</span></p><p><span>词频 5 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n569" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>[集合名词，常与the连用] 年轻人；青年：</span></strong><span>  </span></li></ol><blockquote><p><span>Microbloging is popular with the young. </span><br/><span>年轻人很喜欢发微博。</span></p></blockquote><ol start='2' ><li><em><span>高义频：</span></em><span> </span><strong><span>幼小动物；崽</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n580" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n582" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n584" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="young-adj" class="md-header-anchor"></a><strong><em><span>young</span></em></strong><span> adj</span></h1><hr /><p><span>英音 jʌŋ     美音 jʌŋ</span></p><p><span>词频 5 | 口语 3 | 书面 3 | 阅读 0</span></p><h2><a name="英文释义-n592" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>年轻的；年幼的：</span></strong><span></span><br/><span>反义词 old </span></li></ol><blockquote><p><span>a young mother </span><br/><span>年轻的母亲</span></p></blockquote><blockquote><p><span>Young babies sleep a great deal. </span><br/><span>幼儿睡的时间长。</span></p></blockquote><ol start='2' ><li><em><span>高义频：</span></em><span> </span><strong><span>新兴的；新的：</span></strong><span>  </span></li></ol><blockquote><p><span>a young company </span><br/><span>新兴的企业</span></p></blockquote><ol start='3' ><li><em><span>高义频：</span></em><span> </span><strong><span>年轻有活力的；青春的：</span></strong><span>  </span></li></ol><blockquote><p><span>She looks young for her age. </span><br/><span>她看起来比实际年龄小。</span></p></blockquote><h2><a name="固定搭配-n613" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n615" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n617" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="youngster-n" class="md-header-anchor"></a><strong><em><span>youngster</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;jʌŋstə(r)     美音 &#39;jʌŋstər</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n625" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><strong><span>年轻人</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n630" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n632" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n634" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="your-pron" class="md-header-anchor"></a><strong><em><span>your</span></em></strong><span> pron</span></h1><hr /><p><span>英音 jɔː(r)     美音 jʊr</span></p><p><span>词频 5 | 口语 3 | 书面 3 | 阅读 0</span></p><h2><a name="英文释义-n642" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>[形容词性物主代词，只作定语] 你的；你们的</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n647" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n649" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n651" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="yours-pron" class="md-header-anchor"></a><strong><em><span>yours</span></em></strong><span> pron</span></h1><hr /><p><span>英音 jɔːz     美音 jərz</span></p><p><span>词频 4 | 口语 3 | 书面 1 | 阅读 0</span></p><h2><a name="英文释义-n659" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>[名词性物主代词，可作主语、宾语、表语] 你的；你们的：</span></strong><span>  </span></li></ol><blockquote><p><span>My hands are clean, but yours are dirty.</span><br/><span>我的手干净，但你的(手)很脏。</span></p></blockquote><blockquote><p><span>I like my toy. I don’t like yours. </span><br/><span>我喜欢我的玩具，我不喜欢你的(玩具)。</span></p></blockquote><blockquote><p><span>That book is yours. </span><br/><span>那本书是你的。</span></p></blockquote><ol start='2' ><li><em><span>高义频：</span></em><span> </span><strong><span>[在信末署名前与truly, faithfully, sincerely等连用] 敬上</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n674" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n676" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n678" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="yourself-pron" class="md-header-anchor"></a><strong><em><span>yourself</span></em></strong><span> pron</span></h1><hr /><p><span>英音 jɔː&#39;self     美音 jɔːr&#39;self</span></p><p><span>词频 5 | 口语 3 | 书面 2 | 阅读 0</span></p><p><span>用法点拨  (pl yourselves) </span></p><h2><a name="英文释义-n687" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>你自己；你亲自：</span></strong><span>  </span></li></ol><blockquote><p><span>Self-image is your own mind’s picture of yourself.  </span><br/><span>自我形象是你内心对自己的评价。</span></p></blockquote><blockquote><p><span>You yourself told me the news. </span><br/><span>是你亲自把这消息告诉我的。</span></p></blockquote><h2><a name="固定搭配-n697" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n699" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n701" class="md-header-anchor"></a><span>真题解析</span></h2><h5><a name="题目-n702" class="md-header-anchor"></a><span>题目  </span></h5><p><span>Treat </span><strong><span>__</span></strong><span>__ (you) to a glass of wine to help you relax at the end of the day.   </span></p><h5><a name="答案-yourself" class="md-header-anchor"></a><span>答案 yourself  </span></h5><p>&nbsp;</p><h1><a name="youth-n" class="md-header-anchor"></a><strong><em><span>youth</span></em></strong><span> n</span></h1><hr /><p><span>英音 juːθ     美音 juːθ</span></p><p><span>词频 4 | 口语 2 | 书面 2 | 阅读 0</span></p><p><span>用法点拨  (pl youths)</span></p><h2><a name="英文释义-n712" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>[U] 青少年时代：</span></strong><span>  </span></li></ol><blockquote><p><span>He worked with wood during his early youth. 年轻时，他做过木匠。   </span></p></blockquote><ol start='2' ><li><em><span>高义频：</span></em><span> </span><strong><span>[U] 青春；朝气：</span></strong><span>  </span></li></ol><blockquote><p><span>Her face still kept its youth. </span><br/><span>她的面容青春尤驻。</span></p></blockquote><ol start='3' ><li><em><span>高义频：</span></em><span> </span><strong><span>[集合名词，常与the连用] 年轻人；青年：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>The youth of today</span></strong><span></span><br/><span>The youth of today has / have greater opportunities than ever before. </span><br/><span>现在的年轻人拥有的机会比以往任何时候都要多。</span></p></blockquote><h2><a name="固定搭配-n732" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n734" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n736" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="yummy-adj" class="md-header-anchor"></a><strong><em><span>yummy</span></em></strong><span> adj</span></h1><hr /><p><span>英音 &#39;jʌmi     美音 &#39;jʌmi</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n744" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>美味的；可口的；赏心悦目的</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n749" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n751" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n753" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><p>&nbsp;</p></div>
+</body>
+</html>
