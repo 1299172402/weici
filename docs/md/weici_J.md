@@ -1,348 +1,4 @@
-
-# ***Jamaica*** n
----
-英音 dʒə'meɪkə     美音 dʒə'meɪkə
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **牙买加**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Jamie*** n
----
-英音 'dʒeɪmɪ     美音 'dʒeɪmɪ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **杰米 (男名)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Janice*** 
----
-英音 ˈdʒænɪs     美音 ˈdʒænɪs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **贾尼丝 (女名)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Janson*** 
----
-英音 ˈdʒænsn     美音 ˈdʒænsn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **詹森 (姓)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***January*** n
----
-英音 'dʒænjuəri     美音 'dʒænjueri
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **一月 (Jan.)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Japan*** n
----
-英音 dʒə'pæn     美音 dʒə'pæn
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **日本**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Japanese*** adj
----
-英音 ˌdʒæpə'niːz     美音 ˌdʒæpə'niːz
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **日本的；日本人的；日语的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Japanese*** n
----
-英音 ˌdʒæpə'niːz     美音 ˌdʒæpə'niːz
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **日本人；日语**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Jesus*** n
----
-英音 'dʒiːzəs     美音 'dʒiːzəs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **(= Jesus Christ) 耶稣**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Jew*** n
----
-英音 dʒuː     美音 dʒuː
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **犹太人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Jewish*** adj
----
-英音 'dʒuːɪʃ     美音 'dʒuːɪʃ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **犹太人的；犹太族的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Julie*** n
----
-英音 'dʒulɪ     美音 'dʒulɪ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **朱莉 (女名)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***July*** n
----
-英音 dʒu'laɪ     美音 dʒu'laɪ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **七月（Jul.）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***June*** n
----
-英音 dʒuːn     美音 dʒuːn
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **六月（Jun.）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Jupiter*** n
----
-英音 'dʒuːpɪtə(r)     美音 'dʒuːpɪtər
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **木星**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
+# Jj
 
 # ***jacket*** n
 ---
@@ -356,16 +12,6 @@
 ---
 1. *高义频：* **短上衣；夹克**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***jam*** n
@@ -384,16 +30,6 @@
 > Have you ever been stuck in a traffic jam?  
 > 你是否碰到过交通阻塞？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***jar*** n
 ---
@@ -407,16 +43,6 @@
 ---
 1. **罐子；坛子；一罐的量**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***jaw*** n
@@ -432,16 +58,6 @@
 1. *高义频：* **颌；颚**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***jazz*** n
 ---
@@ -455,16 +71,6 @@
 ---
 1. *高义频：* **爵士乐；爵士舞 (曲)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***jealous*** adj
@@ -483,16 +89,6 @@
 > I'm jealous of her success.  
 > 我嫉妒她的成功。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***jeans*** n
 ---
@@ -506,16 +102,6 @@
 ---
 1. *高义频：* **牛仔裤； (牛仔) 工作服**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***jeep*** n
@@ -531,16 +117,6 @@
 1. *高义频：* **吉普车**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***jelly*** n
 ---
@@ -555,16 +131,6 @@
 1. *高义频：* **果冻；(不含水果块的) 果酱**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***jerk*** n
 ---
@@ -577,16 +143,6 @@
 ---
 1. **猛拉, 猛的一动**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***jet*** n
@@ -605,16 +161,6 @@
 > jet lag   
 > 飞行时差综合征；时差反应
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***jewel*** n
 ---
@@ -631,16 +177,6 @@
 
 > She loves wearing shining jewels.  
 > 她喜欢佩戴闪亮的珠宝首饰。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***jewellery*** n
@@ -659,16 +195,6 @@
 > a piece of jewellery  
 > 一件首饰
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***jewelry*** n
 ---
@@ -682,16 +208,6 @@
 ---
 1. *高义频：* **珠宝；首饰：**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***job*** n
@@ -727,16 +243,10 @@
 > It's not my job.  
 > 这不是我的职责。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 jobless  /'dʒɒbləs/ adj 
-真题解析
----
-[null]
-
 
 # ***jog*** vi
 ---
@@ -753,16 +263,10 @@ jobless  /'dʒɒbləs/ adj
 > When I was young, my parents liked jogging on the beach.   
 > 我小时候，父母喜欢在海滩上慢跑。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 jogging  /'dʒɒɡɪŋ/ n [U] 
-真题解析
----
-[null]
-
 
 # ***jog*** n
 ---
@@ -776,16 +280,6 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 1. **慢跑**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***jogging*** n
 ---
@@ -798,16 +292,6 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 ---
 1. **慢跑**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***join*** v
@@ -854,6 +338,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 > I wonder if it is convenient for you to join me in visiting the exhibition.  
 > 我想知道你是否方便和我一起去参观展览。
 
+
 固定搭配
 ---
 - #### join in
@@ -865,13 +350,6 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 ### 辨析 join, join in, take part in, attend
 四者都常译为“参加”。
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***joint*** n
 ---
@@ -889,16 +367,6 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 > **ankle / knee joints**  
 > ankle / knee joints  
 > 踝/膝关节
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***joint*** adj
@@ -918,16 +386,6 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 > The foreign minister calls for joint efforts to protect global free trade.  
 > 外交部长呼吁共同努力来保护全球自由贸易。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***join…to…*** 
 ---
@@ -943,16 +401,6 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 > Join one section of pipe to the next.  
 > 将一段管子与相邻的管子连接起来。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***joke*** n
@@ -976,16 +424,6 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 > I don't want anyone to make a joke about me!  
 > 我不希望任何人开我的玩笑！
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***joke*** vi
 ---
@@ -1007,6 +445,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 > He joked with me about the matter.  
 > 他在这件事上跟我开了个玩笑。
 
+
 固定搭配
 ---
 - #### play a joke / jokes on 
@@ -1016,16 +455,13 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 > They decided to play a joke on their father by hiding his glasses.   
 > 他们决定把父亲的眼镜藏起来和他开个玩笑。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Everyone thought he was j________, but in fact he was completely serious.  
 ##### 答案 joking  
   
-
 
 # ***journal*** n
 ---
@@ -1049,16 +485,6 @@ Everyone thought he was j________, but in fact he was completely serious.
 > keep a journal   
 > 记日记
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***journalism*** n
 ---
@@ -1071,16 +497,6 @@ Everyone thought he was j________, but in fact he was completely serious.
 ---
 1. **新闻业，新闻工作**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***journalist*** n
@@ -1095,16 +511,6 @@ Everyone thought he was j________, but in fact he was completely serious.
 ---
 1. *高义频：* **记者；新闻工作者**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***journey*** n
@@ -1137,16 +543,6 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 ### 辨析 voyage, journey, trip, tour
 四者都含“旅行”之意，但具体含义不同。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***joust*** vi
 ---
@@ -1159,16 +555,6 @@ Everyone thought he was j________, but in fact he was completely serious.
 ---
 1. *高义频：* **(指中世纪骑士) 骑着马用长矛打斗**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***joy*** n
@@ -1200,16 +586,6 @@ Everyone thought he was j________, but in fact he was completely serious.
 > Listening to music is one of my greatest joys.   
 > 听音乐是我的一大乐事。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***judge*** n
 ---
@@ -1229,16 +605,6 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 > Two hours later, the judge read a list of the girls for a second tryout.   
 > 两小时后，裁判宣读了参加第二轮选拔的女孩的名单。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***judge*** v
@@ -1292,16 +658,6 @@ to be critical about sb, to decide whether sb is good or bad：
 > judge a case / judge sb guilty   
 > 判案/判某人有罪
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***judgement*** n
 ---
@@ -1333,16 +689,6 @@ an opinion that you form after thinking carefully：
 
 3. *低义频：* **审判**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***judgment*** n
@@ -1376,16 +722,6 @@ an opinion that you form after thinking carefully：
 3. *低义频：* **审判**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***juice*** n
 ---
@@ -1399,16 +735,6 @@ an opinion that you form after thinking carefully：
 ---
 1. *高义频：* **(水果、蔬菜、肉类等的) 汁、液**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***jump*** v
@@ -1443,18 +769,12 @@ an opinion that you form after thinking carefully：
 > jump from one subject to another  
 > 从一个话题跳到另一个话题
 
+
 固定搭配
 ---
 - #### jump at sth
 1. **迫不及待地接受某事物；欣然接受某事物**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***jump*** n
@@ -1478,16 +798,6 @@ an opinion that you form after thinking carefully：
 > the high / long jump   
 > 跳高/跳远
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***jump*** vt
 ---
@@ -1503,16 +813,6 @@ an opinion that you form after thinking carefully：
 
 > How can you jump those hurdles?  
 > 你如何才能跳过那些跨栏？
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***junction*** n
@@ -1531,16 +831,6 @@ an opinion that you form after thinking carefully：
 > the T-junction   
 > 丁字路口
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***jungle*** n
 ---
@@ -1554,16 +844,6 @@ an opinion that you form after thinking carefully：
 ---
 1. *高义频：* **丛林；密林**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***junior*** adj
@@ -1586,16 +866,6 @@ an opinion that you form after thinking carefully：
 > She is 4 years junior to me.   
 > 她比我小四岁。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***junior*** n
 ---
@@ -1609,16 +879,6 @@ an opinion that you form after thinking carefully：
 ---
 1. *高义频：* **青少年；职位较低者；(高中 / 四年制大学中)三年级学生**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***just*** adv
@@ -1685,6 +945,7 @@ an opinion that you form after thinking carefully：
 > Anytime you want me, just send for me.   
 > 无论什么时候需要，只管派人来叫我。
 
+
 固定搭配
 ---
 - #### just about 
@@ -1694,9 +955,7 @@ an opinion that you form after thinking carefully：
 > Some people will do just about anything to save money.  
 > 为了省钱，有的人几乎愿意做任何事情。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -1713,7 +972,6 @@ D.just
 ##### 答案 D  
   
 
-
 # ***just*** adj
 ---
 英音 dʒʌst     美音 dʒʌst
@@ -1728,16 +986,6 @@ D.just
 
 > a just man  
 > 正直的人
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***justice*** n
@@ -1765,16 +1013,6 @@ D.just
 > Justice has long arms.   
 > 天网恢恢，疏而不漏。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***justifiably*** adv
 ---
@@ -1787,16 +1025,6 @@ D.just
 ---
 1. **有正当理由地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***justify*** vt
@@ -1814,13 +1042,4 @@ D.just
 > How can we justify spending so much money on dinner?   
 > 我们怎么解释花这么多钱吃饭呢？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 

@@ -1,234 +1,4 @@
-
-# ***Garcia*** 
----
-英音 'ɡɑ:ʃjə     美音 ɡɑ:r'sɪə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **加西亚 (姓)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***German*** adj
----
-英音 'dʒɜːmən     美音 'dʒɜːrmən
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **德国的；德国人的；德语的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***German*** n
----
-英音 'dʒɜːmən     美音 'dʒɜːrmən
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **德国人；德语**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Germanic*** n
----
-英音 dʒɜː'mænɪk     美音 dʒɜːr'mænɪk
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **日耳曼语（族）的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Germany*** n
----
-英音 'dʒɜːməni     美音 'dʒɜːrməni
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **德国**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Gothic*** adj
----
-英音 'ɡɒθɪk     美音 'ɡɑːθɪk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **哥特式的；哥特风格的（指12至16世纪流行于西欧的建筑风格）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Greece*** n
----
-英音 ɡriːs     美音 ɡriːs
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **希腊**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Greek*** adj
----
-英音 ɡriːk     美音 ɡriːk
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **希腊 (人) 的；希腊语的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Greek*** n
----
-英音 ɡriːk     美音 ɡriːk
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
-
-英文释义
----
-1. *高义频：* **希腊人；希腊语**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Greenwich*** n
----
-英音 ˈɡrinidʒ     美音 ˈgrɪnɪdʒ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **格林尼治 (英城市)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
+# Gg
 
 # ***gadget*** n
 ---
@@ -242,16 +12,6 @@
 1. **小巧的装置; 小玩意儿**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gaily*** adv
 ---
@@ -264,16 +24,6 @@
 ---
 1. *高义频：* **快乐地；轻松地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***gain*** v
@@ -334,18 +84,12 @@ to gradually get more of sth：
 > My watch gains (by) several minutes a day.  
 > 我的表一天快几分钟。
 
+
 固定搭配
 ---
 - #### gain ground
 1. **变得更强大 / 更成功 / 更有效；逼近**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***gain*** n
@@ -384,16 +128,6 @@ to gradually get more of sth：
 > Regular exercise is the best way of preventing weight gain.  
 > 经常锻炼是防止体重增加的最佳方法。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***galaxy*** n
 ---
@@ -406,16 +140,6 @@ to gradually get more of sth：
 ---
 1. **星系**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***gallery*** n
@@ -438,16 +162,6 @@ to gradually get more of sth：
 2. *低义频：* **长廊；门廊；走廊**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gallon*** n
 ---
@@ -462,16 +176,6 @@ to gradually get more of sth：
 1. *高义频：* **(液量单位) 加仑**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gallop*** v
 ---
@@ -484,16 +188,6 @@ to gradually get more of sth：
 ---
 1. **（马）飞奔，疾驰**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***game*** n
@@ -530,16 +224,6 @@ to gradually get more of sth：
 > the Olympic Games  
 > 奥林匹克运动会
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gang*** n
 ---
@@ -557,16 +241,6 @@ to gradually get more of sth：
 > **gang of**  
 > a gang of criminals  
 > 一伙罪犯
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***gap*** n
@@ -598,16 +272,6 @@ to gradually get more of sth：
 > Some students are taking a gap year to earn money before going to university.  
 > 有些学生在上大学前空出一年时间去挣钱。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***garage*** n
 ---
@@ -621,16 +285,6 @@ to gradually get more of sth：
 ---
 1. *高义频：* **汽车间 / 库；汽车修理厂**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***garbage*** n
@@ -655,16 +309,6 @@ to gradually get more of sth：
 > Their advice turned out to be nothing but garbage.  
 > 他们给的建议结果一点价值都没有。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***garden*** n
 ---
@@ -683,17 +327,11 @@ to gradually get more of sth：
 > a front / back garden  
 > 前/后花园
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 gardener /'ɡɑːdnə(r)/ n [C]
 gardening /'ɡɑːdnɪŋ/ n [U]
-真题解析
----
-[null]
-
 
 # ***garlic*** n
 ---
@@ -707,16 +345,6 @@ gardening /'ɡɑːdnɪŋ/ n [U]
 ---
 1. *高义频：* **大蒜；蒜**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***garment*** n
@@ -736,16 +364,6 @@ gardening /'ɡɑːdnɪŋ/ n [U]
 > 这家商店出售各式各样的衣服。
 
 在日常生活中，表达“一件衣服”用a piece of clothing。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gas*** n
 ---
@@ -772,16 +390,6 @@ gardening /'ɡɑːdnɪŋ/ n [U]
 > turn on / off the gas  
 > 打开/关上煤气
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gate*** n
 ---
@@ -801,16 +409,6 @@ gardening /'ɡɑːdnɪŋ/ n [U]
 
 > the gate to success  
 > 通往成功的大门
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***gather*** v
@@ -859,16 +457,10 @@ gardening /'ɡɑːdnɪŋ/ n [U]
 > He gathered (up) all his strength and decided to attend a job interview.  
 > 他鼓起所有的勇气，决定去参加求职面试。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 gathering /'ɡæðərɪŋ/ n [C]
-真题解析
----
-[null]
-
 
 # ***gatherer*** n
 ---
@@ -882,16 +474,6 @@ gathering /'ɡæðərɪŋ/ n [C]
 1. **采集者**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gay*** adj
 ---
@@ -904,16 +486,6 @@ gathering /'ɡæðərɪŋ/ n [C]
 ---
 1. *高义频：* **(男) 同性恋的；[已过时] 快乐的；愉快的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***gear*** n
@@ -929,16 +501,6 @@ gathering /'ɡæðərɪŋ/ n [C]
 1. *高义频：* **(汽车等的) 排挡；挡位**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gem*** n
 ---
@@ -951,16 +513,6 @@ gathering /'ɡæðərɪŋ/ n [C]
 ---
 1. **宝石, 珠宝**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***gender*** n
@@ -976,16 +528,6 @@ gathering /'ɡæðərɪŋ/ n [C]
 1. *高义频：* **性别**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gene*** n
 ---
@@ -1000,16 +542,6 @@ gathering /'ɡæðərɪŋ/ n [C]
 1. *高义频：* **遗传因子；基因**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gene-therapy*** n
 ---
@@ -1022,16 +554,6 @@ gathering /'ɡæðərɪŋ/ n [C]
 ---
 1. **基因疗法**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***general*** adj
@@ -1085,6 +607,7 @@ gathering /'ɡæðərɪŋ/ n [C]
 > the general manager  
 > 总经理
 
+
 固定搭配
 ---
 - #### in general
@@ -1102,16 +625,13 @@ as a whole：
 > In general, her work has been good, but this essay is terrible.  
 > 总的说来，她的作品不错，不过这篇文章很糟糕。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 ____________ general, the northerners are keen on dumplings while the southerners are fond of rice.  
 ##### 答案 In  
   
-
 
 # ***general*** n
 ---
@@ -1128,16 +648,6 @@ ____________ general, the northerners are keen on dumplings while the southerner
 
 > He is a great general.  
 > 他是一位伟大的将军。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***generally*** adv
@@ -1168,6 +678,7 @@ ____________ general, the northerners are keen on dumplings while the southerner
 > Generally, I am in favour of the view.  
 > 总的来说，我赞成这个看法。
 
+
 固定搭配
 ---
 - #### generally speaking
@@ -1177,16 +688,13 @@ ____________ general, the northerners are keen on dumplings while the southerner
 > Generally speaking, the more you pay, the more you get.  
 > 一般来说，付出的越多，得到的越多。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 ________ (一般来说), the more expensive the camera, the better its quality.  
 ##### 答案 Generally speaking / In general  
   
-
 
 # ***generate*** v
 ---
@@ -1202,16 +710,6 @@ ________ (一般来说), the more expensive the camera, the better its quality.
 
 > generate electricity / profits  
 > 发电/创造利润
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***generation*** n
@@ -1247,16 +745,6 @@ ________ (一般来说), the more expensive the camera, the better its quality.
 > the generation of electricity by steam  
 > 蒸汽发电
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***generosity*** n
 ---
@@ -1269,16 +757,6 @@ ________ (一般来说), the more expensive the camera, the better its quality.
 ---
 1. **慷慨，大方**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***generous*** adj
@@ -1309,20 +787,18 @@ ________ (一般来说), the more expensive the camera, the better its quality.
 > I couldn't have gone through that bitter period without your generous help.  
 > 没有您的慷慨帮助，我不可能度过那段艰难时光。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 generosity /ˌdʒenə'rɒsəti/ n [U]
 generously /'dʒenərəsli/ adv 
+
 真题解析
 ---
 ##### 题目  
 He didn't selfishly keep for himself the money inherited from his uncle. Instead, he made a(n) __________ (慷慨的) contribution to help the community.  
 ##### 答案 generous  
   
-
 
 # ***genetic*** adj
 ---
@@ -1339,16 +815,6 @@ He didn't selfishly keep for himself the money inherited from his uncle. Instead
 > a genetic disease  
 > 遗传性疾病
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***genetically*** adv
 ---
@@ -1361,16 +827,6 @@ He didn't selfishly keep for himself the money inherited from his uncle. Instead
 ---
 1. **从基因上，与基因相关**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***genetics*** adj
@@ -1385,16 +841,6 @@ He didn't selfishly keep for himself the money inherited from his uncle. Instead
 1. **基因的，遗传基因的；遗传学的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***genetics*** n
 ---
@@ -1407,16 +853,6 @@ He didn't selfishly keep for himself the money inherited from his uncle. Instead
 ---
 1. **遗传学**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***genius*** n
@@ -1438,16 +874,6 @@ He didn't selfishly keep for himself the money inherited from his uncle. Instead
 2. *高义频：* **天才人物**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gentle*** adj
 ---
@@ -1467,16 +893,10 @@ He didn't selfishly keep for himself the money inherited from his uncle. Instead
 > a gentle voice  
 > 柔和的嗓音
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 gently /'dʒentli/ adv 
-真题解析
----
-[null]
-
 
 # ***gentleman*** n
 ---
@@ -1490,16 +910,6 @@ gently /'dʒentli/ adv
 ---
 1. *高义频：* **绅士；君子；先生**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***genuine*** adj
@@ -1520,16 +930,10 @@ gently /'dʒentli/ adv
 > a genuine Rolex watch  
 > 真劳力士手表
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 genuinely /'dʒenjuɪnli/ adv 
-真题解析
----
-[null]
-
 
 # ***geographical*** adj
 ---
@@ -1542,16 +946,6 @@ genuinely /'dʒenjuɪnli/ adv
 ---
 1. *高义频：* **(=geographic) 地理 (学) 的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***geography*** n
@@ -1572,20 +966,18 @@ genuinely /'dʒenjuɪnli/ adv
 > the geography of New York City  
 > 纽约市的地貌
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 geographical /ˌdʒiːə'ɡræfɪkl/ adj 
 geographic /ˌdʒiːə'ɡræfɪk/ adj 
+
 真题解析
 ---
 ##### 题目  
 In _________ (地理) lessons we learn about countries and people in them.  
 ##### 答案 geography  
   
-
 
 # ***geologist*** n
 ---
@@ -1599,16 +991,6 @@ In _________ (地理) lessons we learn about countries and people in them.
 ---
 1. *高义频：* **地质学家**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***geology*** n
@@ -1624,16 +1006,6 @@ In _________ (地理) lessons we learn about countries and people in them.
 1. *高义频：* **地质学**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***geometry*** n
 ---
@@ -1646,16 +1018,6 @@ In _________ (地理) lessons we learn about countries and people in them.
 ---
 1. *高义频：* **几何学；[常用单数] 几何形状**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***germ*** n
@@ -1670,16 +1032,6 @@ In _________ (地理) lessons we learn about countries and people in them.
 ---
 1. *高义频：* **微生物；细菌**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***gesture*** v
@@ -1704,16 +1056,6 @@ In _________ (地理) lessons we learn about countries and people in them.
 
 > She gestured her disappointment by laying her hand on her forehead.  
 > 她把手放在额头上，以表示失望。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***gesture*** n
@@ -1741,16 +1083,6 @@ In _________ (地理) lessons we learn about countries and people in them.
 > **gesture of**  
 > Handshake is a gesture of friendship.  
 > 握手是一种友好的表示。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***get*** vt  重难点词汇
@@ -1853,19 +1185,13 @@ In _________ (地理) lessons we learn about countries and people in them.
 > We are going to be late — let's get a taxi.  
 > 我们要迟到了，打车吧。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 1.Before driving into the city, you are required to get your car  _________ (wash).  
 ##### 答案 washed  
   
-
 
 # ***get*** vi  重难点词汇
 ---
@@ -1924,6 +1250,7 @@ In _________ (地理) lessons we learn about countries and people in them.
 > **get to know**  
 > It'll take some time for you to get to know everyone.  
 > 你得过段时间才能了解每一个人。
+
 
 固定搭配
 ---
@@ -2203,9 +1530,7 @@ to reach sb / sth：
 > When called, he got up from his chair.  
 > 叫到他时，他从椅子上站了起来。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2245,7 +1570,6 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 ##### 答案 along / on  
   
 
-
 # ***get-together*** n
 ---
 英音 ɡettəˌɡeðə(r)     美音 ɡet tə'ɡeðər
@@ -2262,16 +1586,6 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 > hold a get-together  
 > 举办一场联欢会
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ghost*** n
 ---
@@ -2285,16 +1599,6 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 ---
 1. *高义频：* **鬼；鬼魂；幽灵**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***giant*** n
@@ -2312,16 +1616,6 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 
 > Shakespeare is a giant among writers.  
 > 莎士比亚是一位文坛巨匠。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***giant*** adj
@@ -2341,16 +1635,6 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 
 > a giant panda  
 > 大熊猫
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***gift*** n
@@ -2388,16 +1672,6 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 > He has a gift for music.  
 > 他有音乐天赋。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gifted*** adj
 ---
@@ -2414,16 +1688,6 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 > gifted children  
 > 天才儿童
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***giggle*** vi
 ---
@@ -2436,16 +1700,6 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 ---
 1. **咯咯地傻笑**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***giraffe*** n
@@ -2461,16 +1715,6 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 1. *高义频：* **长颈鹿**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gird*** v
 ---
@@ -2483,16 +1727,6 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 ---
 1. **围绕**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***girl*** n
@@ -2508,16 +1742,6 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 1. *高义频：* **女孩子；姑娘；女儿**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***girlfriend*** n
 ---
@@ -2531,16 +1755,6 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 ---
 1. *高义频：* **女朋友**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***give*** v  重难点词汇
@@ -2628,6 +1842,7 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 > **give a party**  
 > give a party / concert / reception  
 > 举办聚会/音乐会/招待会
+
 
 固定搭配
 ---
@@ -2738,9 +1953,7 @@ give out意为“耗尽”时，不用于被动语态。
 1. **对…不抱希望**  
 
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2761,7 +1974,6 @@ What shall we use for power when all the oil in the world has given__________ ?
 ##### 答案 out  
   
 
-
 # ***given*** prep
 ---
 英音 'ɡɪvn     美音 'ɡɪvn
@@ -2777,6 +1989,7 @@ What shall we use for power when all the oil in the world has given__________ ?
 > Given their inexperience, they've done a good job.  
 > 考虑到他们缺乏经验，他们已经做得不错了。
 
+
 固定搭配
 ---
 - #### given that
@@ -2788,13 +2001,6 @@ What shall we use for power when all the oil in the world has given__________ ?
 
 > Given that he can get another chance, he will surely succeed.  
 > 如果能再次得到机会的话，他肯定会成功。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***given*** adj
@@ -2821,16 +2027,6 @@ already stated or decided：
 > Which are you more likely to have with you at any given moment — your cell phone or your wallet?  
 > 在任何一个特定的时刻，你更可能随身带手机还是钱包？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***glacier*** n
 ---
@@ -2844,16 +2040,6 @@ already stated or decided：
 ---
 1. *高义频：* **冰川**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***glad*** adj
@@ -2901,16 +2087,10 @@ already stated or decided：
 > I'd be glad if you could help me.  
 > 如果你能帮我，我会很感激。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 gladly /'ɡlædli/ adv 
-真题解析
----
-[null]
-
 
 # ***glance*** vi
 ---
@@ -2939,16 +2119,6 @@ gladly /'ɡlædli/ adv
 > As he glanced down the page, a notice caught his eye.  
 > 他往下浏览时，一则布告吸引了他的注意力。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***glance*** n
 ---
@@ -2974,16 +2144,6 @@ gladly /'ɡlædli/ adv
 > **at first glance**  
 > He fell in love with her at first glance.  
 > 他对她一见钟情。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***glare*** vi
@@ -3012,16 +2172,6 @@ gladly /'ɡlædli/ adv
 > Noah was annoyed but he didn't shout; he just glared at me silently.  
 > 诺亚很恼火，但是他没大喊大叫，只是默默地瞪着我。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***glare*** n
 ---
@@ -3043,16 +2193,6 @@ gladly /'ɡlædli/ adv
 
 > look at sb with a glare  
 > 怒视某人
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***glass*** n
@@ -3087,16 +2227,6 @@ gladly /'ɡlædli/ adv
 > I must put on my glasses to read this letter.  
 > 我必须戴上眼镜读这封信。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gleam*** n
 ---
@@ -3109,16 +2239,6 @@ gladly /'ɡlædli/ adv
 ---
 1. **亮光，反光**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***global*** adj
@@ -3149,16 +2269,6 @@ gladly /'ɡlædli/ adv
 > take a global view (of)  
 > 从整体上看
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***globalize*** vt
 ---
@@ -3171,16 +2281,6 @@ gladly /'ɡlædli/ adv
 ---
 1. **使 ... 全球化**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***globe*** n
@@ -3204,16 +2304,6 @@ gladly /'ɡlædli/ adv
 > He sailed round the globe.  
 > 他环球航行。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***glorious*** adj
 ---
@@ -3232,16 +2322,6 @@ gladly /'ɡlædli/ adv
 
 > Better a glorious death than a shameful life.  
 > 与其忍辱偷生不如光荣赴死。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***glory*** n
@@ -3276,16 +2356,6 @@ fame or honour that you get for achieving sth：
 > The house has now been restored to its former glory.  
 > 现在这栋房子又恢复了它往日的辉煌。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***glossy*** adj
 ---
@@ -3298,16 +2368,6 @@ fame or honour that you get for achieving sth：
 ---
 1. **有光泽的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***glove*** n
@@ -3326,16 +2386,6 @@ fame or honour that you get for achieving sth：
 > **pair of gloves**  
 > a pair of gloves  
 > 一副手套
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***glow*** n
@@ -3358,16 +2408,6 @@ fame or honour that you get for achieving sth：
 > a glow of pleasure / satisfaction / pride  
 > 强烈的愉悦感/满足感/自豪感
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***glow*** vi
 ---
@@ -3388,16 +2428,6 @@ fame or honour that you get for achieving sth：
 > His face glowed with delight.  
 > 他高兴得红光满面。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***glowing*** adj
 ---
@@ -3410,16 +2440,6 @@ fame or honour that you get for achieving sth：
 ---
 1. **炽热的，发光的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***glue*** vt
@@ -3438,16 +2458,6 @@ fame or honour that you get for achieving sth：
 > People of all ages walk happily along the pavement with eyes glued to the mobile phone.  
 > 各个年龄段的人都高高兴兴地走在人行道上，目不转睛地盯着手机。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***glue*** n
 ---
@@ -3463,16 +2473,6 @@ fame or honour that you get for achieving sth：
 
 > Common goals are the glue that holds our group together.  
 > 共同目标是把我们这个团体结合起来的凝聚力。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***go*** n  重难点词汇
@@ -3496,18 +2496,12 @@ fame or honour that you get for achieving sth：
 > I doubt if he'll listen to advice from me, but I'll give it a go.  
 > 我不确定他会不会听我的建议，但我想试试看。
 
+
 固定搭配
 ---
 - #### (be) on the go
 1. **忙个不停**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***go*** vi  重难点词汇
@@ -3628,6 +2622,7 @@ go意为“变为”时，后接形容词作表语，通常表示情况由好变
 
 > We're going to call a meeting to discuss it.  
 > 我们打算开个会讨论一下。
+
 
 固定搭配
 ---
@@ -3972,9 +2967,7 @@ to experience or suffer sth：
 > Something has gone wrong with the radio.   
 > 这台收音机出毛病了。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3998,7 +2991,6 @@ To get a better grade, you should go _________ the notes again before the test.
 I don't go in ________ rock 'n' roll. It's much too noisy for my taste.  
 ##### 答案 for  
   
-
 
 # ***goal*** n
 ---
@@ -4034,16 +3026,6 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 > get / make / score a goal  
 > 进球
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***goat*** n
 ---
@@ -4057,16 +3039,6 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 ---
 1. *高义频：* **山羊**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***god*** n
@@ -4093,16 +3065,6 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 > Money is his god.  
 > 钱就是他的命。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***goddess*** n
 ---
@@ -4116,16 +3078,6 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 ---
 1. *高义频：* **女神**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***gold*** n
@@ -4155,16 +3107,6 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 > win an Olympic gold  
 > 获得奥运金牌
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gold*** adj
 ---
@@ -4180,16 +3122,6 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 > a gold card  
 > (信用卡)金卡
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***golden*** adj
@@ -4218,16 +3150,6 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 > I think those golden days at school were the happiest of my life.   
 > 我觉得上学的那段黄金岁月是我一生中最幸福的时光。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***golf*** n
 ---
@@ -4241,16 +3163,6 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 ---
 1. *高义频：* **高尔夫球运动**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***good*** n
@@ -4283,6 +3195,7 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 > He did a lot of good for us.  
 > 他为我们做了许多好事。
 
+
 固定搭配
 ---
 - #### be no good
@@ -4313,13 +3226,6 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 > The murderer will stay in prison for good.  
 > 那个谋杀犯将被终身监禁。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***good*** adj
@@ -4394,16 +3300,6 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 > Good morning!  
 > 早上好！
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***good-looking*** adj
 ---
@@ -4416,16 +3312,6 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 ---
 1. **好看的；漂亮的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***goodbye*** n
@@ -4445,16 +3331,6 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 > Murray was at the port to wave goodbye to his friend.  
 > 默里在港口向他的朋友挥手告别。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***goodbye*** int
 ---
@@ -4467,16 +3343,6 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 ---
 1. *高义频：* **再见**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***goodness*** n
@@ -4500,16 +3366,6 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 > He did it out of the goodness of his heart.  
 > 他出于好心做了那件事。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***goods*** n
 ---
@@ -4529,16 +3385,6 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 > In Europe, people paid for goods with gold or silver.  
 > 在欧洲，人们当时用金、银买卖货物。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***goodwill*** n
 ---
@@ -4551,16 +3397,6 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 ---
 1. **友好；善意**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***goose*** n
@@ -4585,16 +3421,6 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 > Kill the goose that lays the golden egg(s).  
 > 杀鸡取卵。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gorge*** n
 ---
@@ -4607,16 +3433,6 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 ---
 1. **峡谷**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***gorgeous*** adj
@@ -4631,16 +3447,6 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 1. **美丽的；宜人的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gorilla*** n
 ---
@@ -4653,16 +3459,6 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 ---
 1. **大猩猩**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***gosh*** 
@@ -4677,16 +3473,6 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 1. *高义频：* **[非正式用语] [表示惊讶] 啊呀**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gospel*** n
 ---
@@ -4699,16 +3485,6 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 ---
 1. **福音音乐（通常由黑人歌手有力地大声演唱的基督教歌曲）**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***gossip*** vi
@@ -4730,16 +3506,6 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 > She's been gossiping about you.  
 > 她一直在说你的闲话。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gossip*** n
 ---
@@ -4759,16 +3525,6 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 > have a gossip with friends  
 > 与朋友闲聊
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***govern*** v
@@ -4795,16 +3551,10 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 > Prices are very much governed by market demand.  
 > 价格在很大程度上取决于市场需求。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 governor /'ɡʌvənə(r)/ n [C] 
-真题解析
----
-[null]
-
 
 # ***government*** n
 ---
@@ -4838,16 +3588,6 @@ government作主语时，如果作为整体看待，谓语动词用单数；如�
 > communist government  
 > 共产政体
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***governor*** n
 ---
@@ -4861,16 +3601,6 @@ government作主语时，如果作为整体看待，谓语动词用单数；如�
 ---
 1. *高义频：* **州长；总督**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***grab*** v
@@ -4893,16 +3623,6 @@ government作主语时，如果作为整体看待，谓语动词用单数；如�
 
 > From this point on, you'll have free time to explore the city and grab some lunch.  
 > 从这一刻开始，你将有自由时间探寻这座城市，吃点儿午餐。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***grace*** n
@@ -4928,16 +3648,10 @@ government作主语时，如果作为整体看待，谓语动词用单数；如�
 > He definitely lacked social graces.  
 > 他显然缺少社交风度。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 graceful /'ɡreɪsfl/ adj 
-真题解析
----
-[null]
-
 
 # ***graceful*** adj
 ---
@@ -4954,16 +3668,6 @@ graceful /'ɡreɪsfl/ adj
 > a graceful apology  
 > 得体的道歉
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gracious*** int
 ---
@@ -4977,16 +3681,6 @@ graceful /'ɡreɪsfl/ adj
 1. **（表惊讶）天哪！哎呀！**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***graciously*** adv
 ---
@@ -4999,16 +3693,6 @@ graceful /'ɡreɪsfl/ adj
 ---
 1. **优雅地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***grade*** n
@@ -5040,16 +3724,6 @@ graceful /'ɡreɪsfl/ adj
 > achieve / attain / get / receive good grades  
 > 取得好成绩
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***grade*** vt
 ---
@@ -5070,16 +3744,6 @@ graceful /'ɡreɪsfl/ adj
 > **graded on**  
 > You'll be graded on lab notebooks and quizzes.  
 > 你们的成绩将根据实验笔记和测验来定。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***gradual*** adj
@@ -5104,16 +3768,6 @@ graceful /'ɡreɪsfl/ adj
 > Recently, we have seen a gradual trend towards healthier food.  
 > 近来，我们注意到人们逐渐倾向于更加健康的食品。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gradually*** adv
 ---
@@ -5136,12 +3790,7 @@ graceful /'ɡreɪsfl/ adj
 > In the good care of the nurses, the boy is gradually recovering from his heart operation.  
 > 在护士的精心照料下，这个男孩在心脏手术之后正逐渐恢复。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -5152,7 +3801,6 @@ The girl used to be shy, but is ________ (gradual) getting active in group work 
 You'll ________ (逐渐) get better at it — it's just a question of practice.  
 ##### 答案 gradually  
   
-
 
 # ***graduate*** n
 ---
@@ -5177,16 +3825,6 @@ You'll ________ (逐渐) get better at it — it's just a question of practice.
 
 > He's a graduate of Harvard.  
 > 他是哈佛大学的毕业生。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***graduate*** v
@@ -5215,16 +3853,6 @@ You'll ________ (逐渐) get better at it — it's just a question of practice.
 > The college graduated 500 students last year.  
 > 去年有500名学生从这所学院毕业。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***graduation*** n
 ---
@@ -5250,16 +3878,6 @@ You'll ________ (逐渐) get better at it — it's just a question of practice.
 > attend the graduation   
 > 出席毕业典礼
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***graffiti*** n
 ---
@@ -5272,16 +3890,6 @@ You'll ________ (逐渐) get better at it — it's just a question of practice.
 ---
 1. **涂鸦,乱涂乱抹**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***grain*** n
@@ -5300,16 +3908,6 @@ You'll ________ (逐渐) get better at it — it's just a question of practice.
 > China grows most of the grains the world knows.   
 > 世界上已知的大多数谷类作物在中国都有种植。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gram*** n
 ---
@@ -5323,16 +3921,6 @@ You'll ________ (逐渐) get better at it — it's just a question of practice.
 ---
 1. *高义频：* **[重量单位，略作g] 克**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***grammar*** n
@@ -5351,16 +3939,10 @@ You'll ________ (逐渐) get better at it — it's just a question of practice.
 > I've made a mistake in grammar.  
 > 我犯了一个语法错误。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 grammatical /ɡrə'mætɪkl/ adj 
-真题解析
----
-[null]
-
 
 # ***gramophone*** n
 ---
@@ -5373,16 +3955,6 @@ grammatical /ɡrə'mætɪkl/ adj
 ---
 1. **留声机**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***grand*** adj
@@ -5419,16 +3991,6 @@ grammatical /ɡrə'mætɪkl/ adj
 > the Grand Old Man of British theatre  
 > 英国戏剧泰斗
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***grandchild*** n
 ---
@@ -5442,16 +4004,6 @@ grammatical /ɡrə'mætɪkl/ adj
 ---
 1. *高义频：* **(外) 孙子；(外) 孙女**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***granddaughter*** n
@@ -5467,16 +4019,6 @@ grammatical /ɡrə'mætɪkl/ adj
 1. *高义频：* **(外) 孙女**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***grandma*** n
 ---
@@ -5490,16 +4032,6 @@ grammatical /ɡrə'mætɪkl/ adj
 ---
 1. *高义频：* **[非正式用语]奶奶；外婆(grandmother)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***grandpa*** n
@@ -5515,16 +4047,6 @@ grammatical /ɡrə'mætɪkl/ adj
 1. *高义频：* **[非正式用语]爷爷； 外公(grandfather)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***grandparent*** n
 ---
@@ -5538,16 +4060,6 @@ grammatical /ɡrə'mætɪkl/ adj
 ---
 1. *高义频：* **(外) 祖父；(外) 祖母**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***grandson*** n
@@ -5563,16 +4075,6 @@ grammatical /ɡrə'mætɪkl/ adj
 1. *高义频：* **(外) 孙子**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***granite*** n
 ---
@@ -5585,16 +4087,6 @@ grammatical /ɡrə'mætɪkl/ adj
 ---
 1. **花岗岩**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***granny*** n
@@ -5609,16 +4101,6 @@ grammatical /ɡrə'mætɪkl/ adj
 ---
 1. *高义频：* **[非正式用语] 奶奶；外婆**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***grant*** vt
@@ -5644,6 +4126,7 @@ grammatical /ɡrə'mætɪkl/ adj
 > I had to grant him the reasonableness of his argument.  
 > 我不得不承认他说得有理。
 
+
 固定搭配
 ---
 - #### take ... for granted (that)
@@ -5652,13 +4135,6 @@ grammatical /ɡrə'mætɪkl/ adj
 
 > Some of us always take it for granted (that) our parents or grandparents should take care of us.  
 > 我们中的有些人总是理所当然地认为，父母或者祖父母应该照顾我们。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***grant*** n
@@ -5681,16 +4157,6 @@ grammatical /ɡrə'mætɪkl/ adj
 > a grant of $50,000  
 > 50000美元的补助金
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***grape*** n
 ---
@@ -5709,16 +4175,6 @@ grammatical /ɡrə'mætɪkl/ adj
 > sour grapes  
 > 酸葡萄[贬义]
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***graph*** n
 ---
@@ -5732,16 +4188,6 @@ grammatical /ɡrə'mætɪkl/ adj
 ---
 1. *高义频：* **曲线 (图)；图表**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***grasp*** vt
@@ -5785,16 +4231,6 @@ to understand sth completely：
 > I don't understand French / the instructions.  
 > 我不懂法语。/我看不懂这个说明书。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***grasp*** n
 ---
@@ -5824,16 +4260,6 @@ to understand sth completely：
 > I've always had a good grasp of English language thanks to my mum who started me reading when I was very little.  
 > 我一直精通英语是由于我妈妈，她在我很小的时候就让我开始读英文。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***grass*** n
 ---
@@ -5858,16 +4284,6 @@ to understand sth completely：
 > Keep off the grass.  
 > 请勿践踏草坪。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***grassland*** n
 ---
@@ -5881,16 +4297,6 @@ to understand sth completely：
 ---
 1. *高义频：* **草原；草场；草地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***grateful*** adj
@@ -5913,19 +4319,13 @@ to understand sth completely：
 > I would be grateful if you could give me a kind consideration.  
 > 如果你能考虑我的话，我将不胜感激。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I'm so grateful________ all those volunteers because they helped my terrible day end happily.  
 ##### 答案 to  
   
-
 
 # ***grave*** n
 ---
@@ -5939,16 +4339,6 @@ I'm so grateful________ all those volunteers because they helped my terrible day
 ---
 1. *高义频：* **坟墓；墓地：**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***gravity*** n
@@ -5976,16 +4366,6 @@ I'm so grateful________ all those volunteers because they helped my terrible day
 > I don't think you realize the gravity of the situation.  
 > 我认为你没有意识到形势的严重性。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gravy*** n
 ---
@@ -5998,16 +4378,6 @@ I'm so grateful________ all those volunteers because they helped my terrible day
 ---
 1. **(调味用的) 肉汁**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***gray*** adj
@@ -6031,16 +4401,6 @@ I'm so grateful________ all those volunteers because they helped my terrible day
 > He was still looking gray and very tired.  
 > 他看上去仍然面色苍白，疲惫不堪。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gray*** n
 ---
@@ -6054,16 +4414,6 @@ I'm so grateful________ all those volunteers because they helped my terrible day
 ---
 1. *高义频：* **灰色**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***great*** adj
@@ -6109,12 +4459,7 @@ I'm so grateful________ all those volunteers because they helped my terrible day
 > — That's great!  
 > 好极了！
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -6126,7 +4471,6 @@ C.Yes, please.
 D.Oh, that would be great.  
 ##### 答案 D  
   
-
 
 # ***great*** adv
 ---
@@ -6142,16 +4486,6 @@ D.Oh, that would be great.
 
 > You're doing great!  
 > 你做得很好！
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***greatly*** adv
@@ -6169,16 +4503,6 @@ D.Oh, that would be great.
 > I'm greatly moved by his kindness.  
 > 他的善意使我大为感动。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***greed*** n
 ---
@@ -6192,16 +4516,6 @@ D.Oh, that would be great.
 1. **贪心；贪婪**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***greedily*** adv
 ---
@@ -6214,16 +4528,6 @@ D.Oh, that would be great.
 ---
 1. **贪婪地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***greedy*** adj
@@ -6244,16 +4548,6 @@ D.Oh, that would be great.
 
 > The little boy looked at the cakes with greedy eyes.  
 > 那个小男孩用贪婪的目光看着这些蛋糕。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***green*** adj
@@ -6289,16 +4583,6 @@ D.Oh, that would be great.
 > green products  
 > 绿色产品
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***green*** n
 ---
@@ -6322,16 +4606,6 @@ D.Oh, that would be great.
 > Eat your greens.  
 > 吃了你那份青菜吧。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***greengrocer*** n
 ---
@@ -6345,16 +4619,6 @@ D.Oh, that would be great.
 ---
 1. *高义频：* **蔬菜水果商**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***greenhouse*** n
@@ -6373,16 +4637,6 @@ D.Oh, that would be great.
 > **greenhouse effect**  
 > greenhouse effect  
 > 温室效应
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***greet*** vt
@@ -6410,16 +4664,6 @@ D.Oh, that would be great.
 
 > He greeted his teacher by saying “Good morning!”.  
 > 他向老师说了句“早安”。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***greeting*** n
@@ -6458,16 +4702,6 @@ D.Oh, that would be great.
 > My mother sends her greetings to you all.  
 > 我母亲向你们大家问好。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***grey*** n
 ---
@@ -6481,16 +4715,6 @@ D.Oh, that would be great.
 ---
 1. *高义频：* **灰色**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***grey*** adj
@@ -6514,16 +4738,6 @@ D.Oh, that would be great.
 > He was still looking gray and very tired.  
 > 他看上去仍然面色苍白，疲惫不堪。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***grief*** n
 ---
@@ -6541,16 +4755,6 @@ D.Oh, that would be great.
 > die of grief  
 > 忧伤而死
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***grill*** vt
 ---
@@ -6567,16 +4771,6 @@ D.Oh, that would be great.
 > This TV hostess is used to grilling guests on the sofa.  
 > 这位电视节目女主持人习惯于坐在沙发上盘问嘉宾。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***grill*** n
 ---
@@ -6590,16 +4784,6 @@ D.Oh, that would be great.
 ---
 1. *高义频：* **烤架；烧烤的肉类食物；烧烤店**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***grizzly*** n
@@ -6615,16 +4799,6 @@ D.Oh, that would be great.
 1. *高义频：* **(北美洲) 灰熊 (= grizzly bear)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***grizzly*** adj
 ---
@@ -6637,16 +4811,6 @@ D.Oh, that would be great.
 ---
 1. *高义频：* **灰色的；有灰斑的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***grocer*** n
@@ -6662,16 +4826,6 @@ D.Oh, that would be great.
 1. *高义频：* **食品杂货商**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***groceries*** n
 ---
@@ -6684,16 +4838,6 @@ D.Oh, that would be great.
 ---
 1. **食品杂货**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***grocery*** n
@@ -6717,16 +4861,6 @@ D.Oh, that would be great.
 
 > Most of these ingredients can be found at your local grocery.   
 > 这些材料大多数都可以在你当地的食品杂货店里找到。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ground*** n
@@ -6781,6 +4915,7 @@ D.Oh, that would be great.
 > I object to the plan on the grounds that it is too expensive.   
 > 我反对该项计划，理由是花费太大。
 
+
 固定搭配
 ---
 - #### give / lose ground
@@ -6789,13 +4924,6 @@ D.Oh, that would be great.
 
 > The team began to lose ground because Phil's leg was broken.  
 > 由于菲尔的腿骨折了，这个队开始失去优势。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***group*** n
@@ -6815,6 +4943,7 @@ D.Oh, that would be great.
 > In the town square, people are standing about in small groups.  
 > 在城市广场，人们三五成群地站着。
 
+
 固定搭配
 ---
 - #### a group of
@@ -6826,13 +4955,6 @@ D.Oh, that would be great.
 
 > A group of children went by, singing and dancing.  
 > 一群孩子边唱边跳地过去了。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***group*** vt
@@ -6847,16 +4969,6 @@ D.Oh, that would be great.
 1. **把…分类 / 分组**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***grove*** n
 ---
@@ -6869,16 +4981,6 @@ D.Oh, that would be great.
 ---
 1. **（尤其树木排列成行的）树丛,小树林**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***grow*** vi
@@ -6931,16 +5033,6 @@ D.Oh, that would be great.
 > The best friendships are the ones that grow naturally.  
 > 自然形成的友谊才是最好的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***grow*** vt
 ---
@@ -6967,6 +5059,7 @@ D.Oh, that would be great.
 
 > He grows roses in the garden.  
 > 他在花园里种玫瑰。
+
 
 固定搭配
 ---
@@ -7000,13 +5093,6 @@ D.Oh, that would be great.
 > The boy grew up (to be) a great scientist.  
 > 这个男孩长大后成了一名伟大的科学家。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***grown-up*** n
 ---
@@ -7021,16 +5107,6 @@ D.Oh, that would be great.
 1. *高义频：* **成年人**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***grown-up*** adj
 ---
@@ -7043,16 +5119,6 @@ D.Oh, that would be great.
 ---
 1. *高义频：* **成年人的；成熟的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***growth*** n
@@ -7078,16 +5144,6 @@ D.Oh, that would be great.
 
 > There are no such things as limits to growth, because there are no limits on the human capacity for intelligence, imagination and wonder.   
 > 成长没有极限，因为人类的智慧、想象力和创造奇迹的能力没有极限。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***guarantee*** n  重难点词汇
@@ -7117,16 +5173,6 @@ a firm promise that sth will be done or that sth will happen：
 
 > They offer a two-year guarantee on all their electrical goods.   
 > 他们所有的电器商品都有两年的保修期。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***guarantee*** vt  重难点词汇
@@ -7164,16 +5210,6 @@ a firm promise that sth will be done or that sth will happen：
 > If you have the watch cleaned here, we can guarantee it for an additional three months.  
 > 如果你在这里清洗手表，我们可以额外保修三个月。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***guard*** n
 ---
@@ -7198,6 +5234,7 @@ a firm promise that sth will be done or that sth will happen：
 > be under heavy guard  
 > 在严密的看管下
 
+
 固定搭配
 ---
 - #### on guard
@@ -7213,13 +5250,6 @@ a firm promise that sth will be done or that sth will happen：
 
 > He struck me while I was off guard.  
 > 他趁我不备打了我。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***guard*** vt
@@ -7246,16 +5276,6 @@ a firm promise that sth will be done or that sth will happen：
 
 ### 辨析 defend, guard, protect
 1. 三者都含有“保护”之意。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***guess*** n
 ---
@@ -7272,16 +5292,6 @@ a firm promise that sth will be done or that sth will happen：
 
 > That was only a guess of mine.  
 > 那只不过是我的猜测。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***guess*** v
@@ -7327,12 +5337,7 @@ a firm promise that sth will be done or that sth will happen：
 > — I guess so / not.  
 > 我想是的/没有。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -7353,7 +5358,6 @@ C.I don’t guess so
 D.I guess not  
 ##### 答案 D  
   
-
 
 # ***guest*** n
 ---
@@ -7380,16 +5384,6 @@ D.I guess not
 > We have invited David to be one of our guest speakers.  
 > 我们已邀请大卫担任我们的发言嘉宾之一。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***guidance*** n
 ---
@@ -7411,16 +5405,6 @@ D.I guess not
 > a book for the guidance of beginners in English  
 > 英语初学者指导用书
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***guide*** vt
 ---
@@ -7440,16 +5424,6 @@ D.I guess not
 > **guide,in**  
 > Her warm heart would surely guide her in the right direction.  
 > 她的热心肠必定会引导她向正确的方向走。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***guide*** n
@@ -7482,16 +5456,6 @@ D.I guess not
 > a guide to grammar  
 > 语法指南
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***guideline*** n
 ---
@@ -7505,16 +5469,6 @@ D.I guess not
 ---
 1. *高义频：* **指导方针；指导原则**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***guilty*** adj
@@ -7540,16 +5494,6 @@ D.I guess not
 > be guilty of a crime  
 > 犯罪
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***guitar*** n
 ---
@@ -7567,16 +5511,6 @@ D.I guess not
 > play the guitar  
 > 弹吉他
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gum*** n
 ---
@@ -7590,16 +5524,6 @@ D.I guess not
 ---
 1. *高义频：* **树胶**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***gun*** n
@@ -7622,16 +5546,6 @@ D.I guess not
 > When guns speak it is too late to argue.  
 > 待到炮声响，辩论已莫及。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gunpowder*** n
 ---
@@ -7644,16 +5558,6 @@ D.I guess not
 ---
 1. **火药**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***gutter*** n
@@ -7668,16 +5572,6 @@ D.I guess not
 ---
 1. *高义频：* **排水沟；阴沟；贫民区**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***guy*** n
@@ -7699,16 +5593,6 @@ D.I guess not
 > Come on, you guys!  
 > 快点，伙计们！
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gym*** n
 ---
@@ -7728,16 +5612,6 @@ D.I guess not
 > We did an hour of gym.  
 > 我们进行了一小时活动。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gymnasium*** n
 ---
@@ -7750,16 +5624,6 @@ D.I guess not
 ---
 1. **体育馆；健身房**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***gymnast*** n
@@ -7774,16 +5638,6 @@ D.I guess not
 1. **体操运动员**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***gymnastic*** adj
 ---
@@ -7796,16 +5650,6 @@ D.I guess not
 ---
 1. **体操的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***gymnastics*** n
@@ -7821,13 +5665,4 @@ D.I guess not
 1. *高义频：* **体操；体操训练**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 

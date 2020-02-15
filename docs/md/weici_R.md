@@ -1,210 +1,4 @@
-
-# ***RSVP*** 
----
-
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **（请帖等用语）请答复**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Roderick*** n
----
-英音 'rɔdərik     美音 'rɔdərik
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **罗德里克 (男名)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Roman*** n
----
-英音 'rəʊmən     美音 'roʊmən
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **(古)　罗马人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Roman*** adj
----
-英音 'rəʊmən     美音 'roʊmən
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **(古)　罗马的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Rosalyn*** n
----
-英音 'rɒzəlɪn     美音 'rɒzəlɪn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **罗莎琳 (女名)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Rotura*** n
----
-英音 ˌrəʊ'tjuːrə     美音 ˌrəʊ'tjuːrə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **罗吐鲁阿（新西兰地名，毛利文化故乡）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Russia*** n
----
-英音 'rʌʃə     美音 'rʌʃə
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **俄罗斯**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Russian*** adj
----
-英音 'rʌʃn     美音 'rʌʃn
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **俄国的；俄国人的；俄语的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Russian*** n
----
-英音 'rʌʃn     美音 'rʌʃn
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **俄国人；俄语**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
+# Rr
 
 # ***rabbit*** n
 ---
@@ -218,16 +12,6 @@
 ---
 1. *高义频：* **兔子**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***race*** n
@@ -255,16 +39,6 @@
 > The race is on to develop more environmentally friendly forms of energy.   
 > 人们正在竞相开发更加环保的能源。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***race*** v
 ---
@@ -282,16 +56,10 @@
 > I’ll race you to the corner.  
 > 我和你比赛看谁先跑到拐弯处。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 racing /'reɪsɪŋ/  
-真题解析
----
-[null]
-
 
 # ***race*** n
 ---
@@ -315,16 +83,6 @@ racing /'reɪsɪŋ/
 > The human race is using up Earth’s resources.   
 > 人类正在逐渐用尽地球的资源。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***racer*** n
 ---
@@ -337,16 +95,6 @@ racing /'reɪsɪŋ/
 ---
 1. **赛车手**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***racial*** adj
@@ -364,16 +112,6 @@ racing /'reɪsɪŋ/
 > racial discrimination   
 > 种族歧视
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***racism*** n
 ---
@@ -386,16 +124,6 @@ racing /'reɪsɪŋ/
 ---
 1. **种族主义**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***radar*** n
@@ -410,16 +138,6 @@ racing /'reɪsɪŋ/
 ---
 1. *高义频：* **雷达**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***radiation*** n
@@ -437,16 +155,6 @@ racing /'reɪsɪŋ/
 
 > nuclear radiation   
 > 核辐射
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***radio*** n
@@ -479,16 +187,6 @@ racing /'reɪsɪŋ/
 > turn up / down the radio   
 > 把收音机的音量调大/小
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***radioactive*** adj
 ---
@@ -501,16 +199,6 @@ racing /'reɪsɪŋ/
 ---
 1. *高义频：* **放射性的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***radioactivity*** n
@@ -526,16 +214,6 @@ racing /'reɪsɪŋ/
 1. *高义频：* **放射性**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***radium*** n
 ---
@@ -550,16 +228,6 @@ racing /'reɪsɪŋ/
 1. *高义频：* **镭(符号Ra)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***raft*** n
 ---
@@ -572,16 +240,6 @@ racing /'reɪsɪŋ/
 ---
 1. **木排；木筏**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rag*** n
@@ -597,18 +255,12 @@ racing /'reɪsɪŋ/
 1. *高义频：* **抹布；破布**  
 
 
+
 固定搭配
 ---
 - #### in rags 
 1. **衣衫褴褛：**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***raid*** n
@@ -623,16 +275,6 @@ racing /'reɪsɪŋ/
 1. **（警方的）突击搜查**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***raid*** vt
 ---
@@ -645,16 +287,6 @@ racing /'reɪsɪŋ/
 ---
 1. **（警方的）突击搜查**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rail*** n
@@ -679,16 +311,6 @@ racing /'reɪsɪŋ/
 3. *高义频：* **[C] 栏杆；扶手：**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***railway*** n
 ---
@@ -705,16 +327,6 @@ racing /'reɪsɪŋ/
 
 > high-speed railways  
 > 高速铁路
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rain*** n
@@ -738,16 +350,6 @@ racing /'reɪsɪŋ/
 > It looks like rain.  
 > 好像要下雨了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rain*** vi
 ---
@@ -765,16 +367,6 @@ racing /'reɪsɪŋ/
 > It’s raining cats and dogs outside.   
 > 外面正下着倾盆大雨。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rainbow*** n
 ---
@@ -788,16 +380,6 @@ racing /'reɪsɪŋ/
 ---
 1. *高义频：* **彩虹**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***raincoat*** n
@@ -813,16 +395,6 @@ racing /'reɪsɪŋ/
 1. *高义频：* **雨衣**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rainfall*** n
 ---
@@ -836,16 +408,6 @@ racing /'reɪsɪŋ/
 ---
 1. *高义频：* **(降) 雨量**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rainforest*** n
@@ -861,16 +423,6 @@ racing /'reɪsɪŋ/
 1. *高义频：* **热带雨林**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rainy*** adj
 ---
@@ -883,16 +435,6 @@ racing /'reɪsɪŋ/
 ---
 1. *高义频：* **下雨的；多雨的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***raise*** vt  重难点词汇
@@ -963,12 +505,7 @@ to introduce a subject that needs to be talked about or dealt with (bring up)：
 > tomatoes raised in greenhouses   
 > 温室中种植的西红柿
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -976,7 +513,6 @@ _________ (raise) in the poorest area of Glasgow, he had a long, hard road to be
   
 ##### 答案 Raised  
   
-
 
 # ***raised*** adj
 ---
@@ -989,16 +525,6 @@ _________ (raise) in the poorest area of Glasgow, he had a long, hard road to be
 ---
 1. **凸起的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***random*** adj
@@ -1017,16 +543,6 @@ _________ (raise) in the poorest area of Glasgow, he had a long, hard road to be
 > make a random choice  
 > 随机选择
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***random*** n
 ---
@@ -1036,9 +552,6 @@ _________ (raise) in the poorest area of Glasgow, he had a long, hard road to be
 
 用法点拨  [用于以下惯用语]
 
-英文释义
----
-[null]
 固定搭配
 ---
 - #### at random 
@@ -1047,13 +560,6 @@ _________ (raise) in the poorest area of Glasgow, he had a long, hard road to be
 
 > Choose any number at random.   
 > 随机抽取一个数字。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***range*** n  重难点词汇
@@ -1106,6 +612,7 @@ a variety of things of a particular type：
 > Between Italy and France, there is a mountain range called the Alps.  
 > 在意大利和法国之间，有一座被称作阿尔卑斯山的山脉。
 
+
 固定搭配
 ---
 - #### in / within range (of) 
@@ -1116,16 +623,13 @@ a variety of things of a particular type：
 1. **超出(…的) 范围：**  
 
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 This restaurant has become popular for its wide ________ (一系列) of foods that suit all tastes and pockets.  
 ##### 答案 range  
   
-
 
 # ***range*** v  重难点词汇
 ---
@@ -1156,19 +660,13 @@ This restaurant has become popular for its wide ________ (一系列) of foods th
 > The polar bears range all the way across the Arctic.  
 > 北极熊的活动范围遍及整个北极。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The national park has a large collection of wildlife, ________ (range) from butterflies to elephants.  
 ##### 答案 ranging  
   
-
 
 # ***rank*** n
 ---
@@ -1200,16 +698,6 @@ The national park has a large collection of wildlife, ________ (range) from butt
 > That summer I was fired and joined the ranks of the unemployed.   
 > 那年夏天，我被解雇了，加入了失业者的行列。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rank*** v
 ---
@@ -1234,16 +722,6 @@ The national park has a large collection of wildlife, ________ (range) from butt
 > — Very well. I rank high in my class.  
 > 很好。我在班里名列前茅。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ranking*** n
 ---
@@ -1256,16 +734,6 @@ The national park has a large collection of wildlife, ________ (range) from butt
 ---
 1. **排行,排名**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rap*** n
@@ -1281,16 +749,6 @@ The national park has a large collection of wildlife, ________ (range) from butt
 1. *高义频：* **说唱乐**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rap*** v
 ---
@@ -1304,16 +762,6 @@ The national park has a large collection of wildlife, ________ (range) from butt
 1. **敲击；（说唱歌中的）念白**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rape*** n
 ---
@@ -1326,16 +774,6 @@ The national park has a large collection of wildlife, ________ (range) from butt
 ---
 1. **强奸**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rapid*** adj
@@ -1359,16 +797,6 @@ The national park has a large collection of wildlife, ________ (range) from butt
 
 ### 辨析 fast, quick, rapid, swift
 四者都可用作形容词，表示“快的”、“迅速的”等意。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rapidly*** adv
 ---
@@ -1385,16 +813,6 @@ The national park has a large collection of wildlife, ________ (range) from butt
 > Sharing economy has been developing rapidly in recent years.  
 > 近几年，共享经济发展迅猛。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rapids*** n
 ---
@@ -1408,16 +826,6 @@ The national park has a large collection of wildlife, ________ (range) from butt
 1. *高义频：* **(pl)急流；湍流**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rapper*** n
 ---
@@ -1430,16 +838,6 @@ The national park has a large collection of wildlife, ________ (range) from butt
 ---
 1. **说唱乐歌手**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rare*** adj
@@ -1459,16 +857,6 @@ The national park has a large collection of wildlife, ________ (range) from butt
 
 2. *低义频：* **(肉) 半熟的；半生的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rarely*** adv
@@ -1491,12 +879,7 @@ rarely作状语置于句首时，句子往往用部分倒装语序。
 > 我难得见到如此美丽的日落景色。
 
 rarely和seldom都表示“很少”、“不经常”，但seldom更正式或更多用于书面语。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -1504,7 +887,6 @@ rarely和seldom都表示“很少”、“不经常”，但seldom更正式或�
 — Super!  ________ (rare) did a debate attrace so much media attention.  
 ##### 答案 Rarely  
   
-
 
 # ***rascal*** n
 ---
@@ -1517,16 +899,6 @@ rarely和seldom都表示“很少”、“不经常”，但seldom更正式或�
 ---
 1. **恶棍；无赖**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rat*** n
@@ -1541,16 +913,6 @@ rarely和seldom都表示“很少”、“不经常”，但seldom更正式或�
 ---
 1. *高义频：* **老鼠**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rate*** n
@@ -1588,6 +950,7 @@ rarely和seldom都表示“很少”、“不经常”，但seldom更正式或�
 > be sold at a high rate  
 > 以高价出售
 
+
 固定搭配
 ---
 - #### at any rate 
@@ -1608,16 +971,13 @@ rarely和seldom都表示“很少”、“不经常”，但seldom更正式或�
 1. **一流的 / 二流的 / 三流的**  
 
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The car is running at a ________ of eighty kilometers an hour.  
 ##### 答案 speed / rate  
   
-
 
 # ***rate*** vt
 ---
@@ -1645,16 +1005,6 @@ The car is running at a ________ of eighty kilometers an hour.
 
 > When students rate subjects according to their importance, the arts are unavoidably at the bottom of the list.   
 > 当学生按照学科的重要性对其划分等级时，文科不可避免地被列在最后。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rather*** adv  重难点词汇
@@ -1685,6 +1035,7 @@ quite：
 > **but rather**  
 > Online voting sometimes does not depend on the strong points of the competitors, but rather on how many social networking resources they have.  
 > 在线投票有时不是靠选手的实力，而是靠有多少社交网络资源。
+
 
 固定搭配
 ---
@@ -1728,9 +1079,7 @@ would rather后的that从句要用虚拟语气。从句用“一般过去时”�
 > I’d rather you hadn’t told my mother the truth.   
 > 我真希望你没有把真相告诉我妈妈。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -1741,7 +1090,6 @@ What we expect from you is working hard ________ (而不是) hardly working.
 If what your friend comes up with surprises you, don’t reject it immediately. R________, imagine that it is true.  
 ##### 答案 Rather  
   
-
 
 # ***rating*** n
 ---
@@ -1762,16 +1110,6 @@ If what your friend comes up with surprises you, don’t reject it immediately. 
 > a rating of the Top Ten Restaurants  
 > 前10名最好的餐馆排名
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ratio*** n
 ---
@@ -1786,16 +1124,6 @@ If what your friend comes up with surprises you, don’t reject it immediately. 
 1. *高义频：* **比；比例；比率**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rational*** adj
 ---
@@ -1809,16 +1137,6 @@ If what your friend comes up with surprises you, don’t reject it immediately. 
 1. **理智的；合理的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rattle*** v
 ---
@@ -1831,16 +1149,6 @@ If what your friend comes up with surprises you, don’t reject it immediately. 
 ---
 1. **（使）发出咔嗒咔嗒的声音；使紧张或恐惧**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***raw*** adj
@@ -1864,16 +1172,6 @@ If what your friend comes up with surprises you, don’t reject it immediately. 
 > raw materials   
 > 原材料
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ray*** n
 ---
@@ -1891,16 +1189,6 @@ If what your friend comes up with surprises you, don’t reject it immediately. 
 > the rays of the sun / the sun’s rays  
 > 太阳光线
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***razor*** n
 ---
@@ -1915,16 +1203,6 @@ If what your friend comes up with surprises you, don’t reject it immediately. 
 1. *高义频：* **剃刀；剃须刀**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***re-*** prefix
 ---
@@ -1937,16 +1215,6 @@ If what your friend comes up with surprises you, don’t reject it immediately. 
 ---
 1. *高义频：* **再；重新**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***reach*** v  重难点词汇
@@ -2035,6 +1303,7 @@ to communicate with sb, especially by phone：
 > His book reached an even wider audience when it was made into a movie.  
 > 他的书被搬上银幕后被更广大的观众所熟知。
 
+
 固定搭配
 ---
 - #### reach out to sb 
@@ -2044,16 +1313,13 @@ to communicate with sb, especially by phone：
 > When you need help, reach out to the people who care about you.  
 > 当你需要帮助时，向那些关心你的人寻求帮助。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Despite the previous rounds of talks, no agreement ________ (reach) so far by the two sides.  
 ##### 答案 has been reached  
   
-
 
 # ***reach*** n  重难点词汇
 ---
@@ -2085,12 +1351,7 @@ Despite the previous rounds of talks, no agreement ________ (reach) so far by th
 > the upper reaches of the Nile   
 > 尼罗河上游
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2102,7 +1363,6 @@ Despite the previous rounds of talks, no agreement ________ (reach) so far by th
 Always remember to put such dangerous things as knives ________ children’s reach.  
 ##### 答案 out of / beyond  
   
-
 
 # ***react*** vi
 ---
@@ -2134,16 +1394,6 @@ to become ill after eating, breathing, etc. a particular substance：
 > It shows us how iron reacts with air and with water.  
 > 它向我们展示了铁是如何与空气和水起反应的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***reaction*** n
 ---
@@ -2168,16 +1418,6 @@ to become ill after eating, breathing, etc. a particular substance：
 > **reaction to**  
 > the public reaction to the news  
 > 公众对这条新闻的反应
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***read*** v
@@ -2226,22 +1466,24 @@ to become ill after eating, breathing, etc. a particular substance：
 > I was shocked when I read about / of his death in today’s newspaper.   
 > 当我从今天的报纸上获悉他的死讯时，感到很震惊。
 
+
 固定搭配
 ---
 - #### read out 
 1. **大声读出；宣读**  
 
 
+
 派生词汇
 ---
 reader  /'riːdə(r)/ n [C] 
+
 真题解析
 ---
 ##### 题目  
 I ________ (read) half of the English novel, and I’ll try to finish it at the weekend.  
 ##### 答案 have read  
   
-
 
 # ***read*** n
 ---
@@ -2255,16 +1497,10 @@ I ________ (read) half of the English novel, and I’ll try to finish it at the 
 1. **【单数】【非正式用语】阅读；【C】读物**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 reader /'riːdə(r)/ n [C]
-真题解析
----
-[null]
-
 
 # ***reading*** n
 ---
@@ -2285,16 +1521,6 @@ reader /'riːdə(r)/ n [C]
 > **light reading**  
 > I borrowed a bit of light reading for my holiday.   
 > 我借了一些假期里看的轻松读物。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ready*** adj
@@ -2340,16 +1566,10 @@ reader /'riːdə(r)/ n [C]
 > Don’t be so ready to find fault.   
 > 不要动不动就挑毛病。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 readily  /'redɪli/ adv 
-真题解析
----
-[null]
-
 
 # ***real*** adj
 ---
@@ -2375,16 +1595,6 @@ readily  /'redɪli/ adv
 
 ### 辨析 real, true
 二者都常译为“真的”。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***real-life*** adj
 ---
@@ -2397,16 +1607,6 @@ readily  /'redɪli/ adv
 ---
 1. **真实的，现实生活中的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***realise*** vt  重难点词汇
@@ -2446,19 +1646,17 @@ to become conscious of sth or that sth has happened, usually some time later：
 > — Oh, sorry, I didn’t realize that.  
 > 哦，对不起，我没意识到那一点。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n 
+
 真题解析
 ---
 ##### 题目  
 When I got on the bus, I ________ (realize) I had left my wallet at home.   
 ##### 答案 realized  
   
-
 
 # ***realist*** n
 ---
@@ -2471,16 +1669,6 @@ When I got on the bus, I ________ (realize) I had left my wallet at home.
 ---
 1. **现实主义作家**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***realistic*** adj
@@ -2503,16 +1691,6 @@ When I got on the bus, I ________ (realize) I had left my wallet at home.
 
 > a realistic novel   
 > 现实主义小说
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***reality*** n
@@ -2543,6 +1721,7 @@ When I got on the bus, I ________ (realize) I had left my wallet at home.
 > Will time travel ever become a reality?  
 > 时光旅行真的会变成现实吗？
 
+
 固定搭配
 ---
 - #### in reality 
@@ -2551,13 +1730,6 @@ When I got on the bus, I ________ (realize) I had left my wallet at home.
 
 > Outwardly she seemed confident but in reality she felt extremely nervous.   
 > 表面上她似乎很自信，其实她感到极其紧张。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***realize*** vt  重难点词汇
@@ -2597,19 +1769,17 @@ to understand or become aware of sth or that sth has happened, usually some time
 > — Oh, sorry, I didn’t realize that.   
 > 哦，对不起，我没意识到那一点。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n 
+
 真题解析
 ---
 ##### 题目  
 When I got on the bus, I _________ (realize) I had left my wallet at home.  
 ##### 答案 realized  
   
-
 
 # ***really*** adv
 ---
@@ -2641,15 +1811,14 @@ When I got on the bus, I _________ (realize) I had left my wallet at home.
 > — Oh, really?   
 > 哦，真的吗？
 
+
 固定搭配
 ---
 - #### Not really. 
 1. **[表示否定，语气较弱] 不是。**  
 
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2663,7 +1832,6 @@ When I got on the bus, I _________ (realize) I had left my wallet at home.
 ##### 答案 Not really  
   
 
-
 # ***realm*** n
 ---
 英音 relm     美音 relm
@@ -2675,16 +1843,6 @@ When I got on the bus, I _________ (realize) I had left my wallet at home.
 ---
 1. **王国；国度；领域；范围**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***reason*** n
@@ -2719,6 +1877,7 @@ sensible judgment and understanding：
 > There is reason in what you say.   
 > 你讲得有道理。
 
+
 固定搭配
 ---
 - #### by reason of 
@@ -2749,13 +1908,6 @@ sensible judgment and understanding：
 > He argued with much reason.   
 > 他辩论得头头是道。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***reason*** v
 ---
@@ -2779,16 +1931,6 @@ sensible judgment and understanding：
 > **reasoned,that**  
 > We reasoned (that) if we started early in the morning, we would get there by noon.  
 > 我们推断如果一大早出发的话，中午之前就能到达那里。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***reasonable*** adj
@@ -2822,19 +1964,17 @@ sensible judgment and understanding：
 > We have a strong team and a reasonable chance of winning the game.   
 > 我们的团队很有实力，很有可能赢得比赛。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 reasonably /'riːznəbli/ adv 
+
 真题解析
 ---
 ##### 题目  
 Be ________ (reason) — you can’t expect me to finish all this work in so little time.  
 ##### 答案 reasonable  
   
-
 
 # ***reasonably*** adv
 ---
@@ -2847,16 +1987,6 @@ Be ________ (reason) — you can’t expect me to finish all this work in so lit
 ---
 1. **适度地；相当地；合理地；有理性地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rebel*** n
@@ -2871,16 +2001,6 @@ Be ________ (reason) — you can’t expect me to finish all this work in so lit
 1. **造反者, 反叛者**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rebirth*** n
 ---
@@ -2894,16 +2014,6 @@ Be ________ (reason) — you can’t expect me to finish all this work in so lit
 ---
 1. *高义频：* **再生；复活；复兴**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rebuild*** vt
@@ -2921,16 +2031,6 @@ Be ________ (reason) — you can’t expect me to finish all this work in so lit
 
 > The streets are clear, and many houses have been rebuilt.  
 > 街道整洁一新，重建了许多房屋
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***recall*** vt
@@ -2954,19 +2054,13 @@ Be ________ (reason) — you can’t expect me to finish all this work in so lit
 > More than 3,000 cars were recalled yesterday because of a brake problem.   
 > 昨天3000多辆汽车因为刹车问题被召回。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Legend has it that the origin of the Dragon Boat Festival is to ________ (召回) the soul of Qu Yuan.  
 ##### 答案 recall  
   
-
 
 # ***receipt*** n
 ---
@@ -2989,16 +2083,6 @@ Legend has it that the origin of the Dragon Boat Festival is to ________ (召回
 
 > make out / write a receipt   
 > 开收据
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***receive*** vt  重难点词汇
@@ -3044,19 +2128,13 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
 > The hall can receive 4,000 people.  
 > 这个大厅能容纳4000人。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Project Hope aims at helping the poor children in remote areas to ________ (接受) education.  
 ##### 答案 receive  
   
-
 
 # ***receiver*** n
 ---
@@ -3073,16 +2151,6 @@ Project Hope aims at helping the poor children in remote areas to ________ (接�
 
 > a radio receiver   
 > 无线电接收器
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***recent*** adj
@@ -3101,16 +2169,6 @@ Project Hope aims at helping the poor children in remote areas to ________ (接�
 > In recent years, learning Chinese has become popular among people around the world.  
 > 近年来，学习汉语在世界各地的人当中流行起来。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***recently*** adv
 ---
@@ -3128,19 +2186,13 @@ not long ago：
 > I caught a bad cold recently.   
 > 我最近得了重感冒。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Chinese scientists ________ (recent) had a chance to study a wild female panda with a newborn baby.  
 ##### 答案 recently  
   
-
 
 # ***reception*** n
 ---
@@ -3182,16 +2234,6 @@ Chinese scientists ________ (recent) had a chance to study a wild female panda w
 > There was very poor reception on my cell phone.  
 > 我手机的信号很差。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***receptionist*** n
 ---
@@ -3205,16 +2247,6 @@ Chinese scientists ________ (recent) had a chance to study a wild female panda w
 ---
 1. *高义频：* **接待员**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***recipe*** n
@@ -3237,16 +2269,6 @@ Chinese scientists ________ (recent) had a chance to study a wild female panda w
 > — Living every day to the full, definitely.  
 > 当然是充分度过每一天。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***recite*** v
 ---
@@ -3263,16 +2285,10 @@ Chinese scientists ________ (recent) had a chance to study a wild female panda w
 > recite a poem  
 > 背诗
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 recitation /ˌresɪ'teɪʃn/ n 
-真题解析
----
-[null]
-
 
 # ***reckon*** vt
 ---
@@ -3287,16 +2303,6 @@ recitation /ˌresɪ'teɪʃn/ n
 1. *高义频：* **认为；估计**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***recognisable*** adj
 ---
@@ -3309,16 +2315,6 @@ recitation /ˌresɪ'teɪʃn/ n
 ---
 1. **能辨认的；能认出的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***recognise*** vt
@@ -3361,12 +2357,7 @@ to accept or admit that sth is true：
 > The Canadian National Institute for the Blind recognized Doris Low for her great contributions.  
 > 加拿大国家盲人协会因其重大贡献表彰了多丽丝·娄。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3377,7 +2368,6 @@ Lisa, I didn’t _________ (认出) you — you’ve had your hair cut!
 China's image is improvung steadily, with more countries ________ (recognize) its role in international affairs.  
 ##### 答案 recognizing  
   
-
 
 # ***recognition*** n
 ---
@@ -3403,19 +2393,13 @@ China's image is improvung steadily, with more countries ________ (recognize) it
 > face / speech recognition  
 > 面部 / 语音识别
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I haven’t seen Sara since she was a little girl, and she has changed beyond ________ (recognize).  
 ##### 答案 recognition  
   
-
 
 # ***recognize*** vt
 ---
@@ -3455,19 +2439,13 @@ I haven’t seen Sara since she was a little girl, and she has changed beyond __
 > The Canadian National Institute for the Blind recognized Doris Low for her great contributions.  
 > 加拿大国家盲人协会因其重大贡献表彰了多丽丝·娄。2014天津
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Lisa, I didn’t ________ (认出) you — you’ve had your hair cut!  
 ##### 答案 recognise / recognize  
   
-
 
 # ***recommend*** vt  重难点词汇
 ---
@@ -3518,12 +2496,7 @@ to tell sb what you strongly believe they should do：
 > I recommend meeting him first.  
 > 我建议先见见他。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3534,7 +2507,6 @@ Eye doctors recommend that a child’s first eye exam ________ (be) at the age o
 Our hosts shared many of their experiences and ________ (recommend) wonderful places to eat, shop, and visit.  
 ##### 答案 recommended  
   
-
 
 # ***recommendation*** n
 ---
@@ -3557,16 +2529,6 @@ Our hosts shared many of their experiences and ________ (recommend) wonderful pl
 > follow sb’s recommendations   
 > 听从某人的劝告
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***reconstruct*** v
 ---
@@ -3579,16 +2541,6 @@ Our hosts shared many of their experiences and ________ (recommend) wonderful pl
 ---
 1. **重建,再建**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***record*** vt
@@ -3608,16 +2560,6 @@ Our hosts shared many of their experiences and ________ (recommend) wonderful pl
 
 > Musicians record their songs in a studio.   
 > 音乐家在录音棚录制歌曲。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***record*** n
@@ -3657,6 +2599,7 @@ Our hosts shared many of their experiences and ________ (recommend) wonderful pl
 > make a record  
 > 录制唱片
 
+
 固定搭配
 ---
 - #### break / beat / cut the / a record 
@@ -3665,13 +2608,6 @@ Our hosts shared many of their experiences and ________ (recommend) wonderful pl
 
 > She’s hoping to break the record for the 100 metres.  
 > 她希望能打破百米纪录。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***recorder*** n
@@ -3687,16 +2623,6 @@ Our hosts shared many of their experiences and ________ (recommend) wonderful pl
 1. *高义频：* **录音机**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***recording*** 
 ---
@@ -3709,16 +2635,6 @@ Our hosts shared many of their experiences and ________ (recommend) wonderful pl
 ---
 1. **n [U] 记录；录制；[C] 录制品**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***recover*** v  重难点词汇
@@ -3765,16 +2681,6 @@ to find or get back sth that was lost or stolen：
 > We worked hard to recover the lost time.   
 > 我们努力工作以弥补失去的时间。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***recovery*** n
 ---
@@ -3797,16 +2703,6 @@ to find or get back sth that was lost or stolen：
 > an economic recovery   
 > 经济复苏
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***recreation*** n
 ---
@@ -3823,16 +2719,6 @@ to find or get back sth that was lost or stolen：
 > We play basketball once a week for recreation.   
 > 我们每周打一次篮球作为娱乐。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rectangle*** n
 ---
@@ -3847,16 +2733,6 @@ to find or get back sth that was lost or stolen：
 1. *高义频：* **矩形；长方形**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rectangular*** adj
 ---
@@ -3869,16 +2745,6 @@ to find or get back sth that was lost or stolen：
 ---
 1. *高义频：* **长方形的；矩形的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***recycle*** v
@@ -3896,19 +2762,13 @@ to find or get back sth that was lost or stolen：
 > Steel, iron, glass, cloth and paper can all be recycled.  
 > 钢、铁、玻璃、布和纸都可以回收再利用。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 recycling /ˌriː'saɪklɪŋ/ n [U]
 > **recycling system**  
 > a recycling system  
 > 回收利用系统
-
-真题解析
----
-[null]
 
 
 # ***red*** adj
@@ -3933,16 +2793,6 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 > the Red Army   
 > 红军
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***red*** n
 ---
@@ -3960,16 +2810,6 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 > a little girl in red   
 > 穿着红衣服的小女孩
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rediscover*** vt
 ---
@@ -3982,16 +2822,6 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 ---
 1. **重新发现**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***reduce*** v
@@ -4018,16 +2848,6 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 > There lay my house, reduced to ruins, smelly and dirty.  
 > 我的房子坍塌在那里，已沦为废墟，又臭又脏。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***reduction*** n
 ---
@@ -4042,16 +2862,6 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 1. *高义频：* **缩减；减少**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***reef*** n
 ---
@@ -4065,16 +2875,6 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 1. **礁**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***refer*** v  重难点词汇
 ---
@@ -4083,9 +2883,6 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 词频 5 | 口语 3 | 书面 3 | 阅读 0
 
 
-英文释义
----
-[null]
 固定搭配
 ---
 - #### refer (...) to
@@ -4124,16 +2921,13 @@ to describe or be connected to sb / sth：
 > My colleague said that as the situation was unusual he would refer the matter to his editor.  
 > 我同事说由于情况非同寻常，他会把这个问题交给他的编辑处理。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The president spoke at the business meeting for nearly an hour without referring ________ his notes.  
 ##### 答案 to  
   
-
 
 # ***referee*** n
 ---
@@ -4147,16 +2941,6 @@ The president spoke at the business meeting for nearly an hour without referring
 ---
 1. *高义频：* **裁判员；仲裁人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***reference*** n
@@ -4188,6 +2972,7 @@ The president spoke at the business meeting for nearly an hour without referring
 3. *高义频：* **推荐信；推荐人**  
 
 
+
 固定搭配
 ---
 - #### in / with reference to
@@ -4197,16 +2982,13 @@ The president spoke at the business meeting for nearly an hour without referring
 > In reference to your question about cost, the tickets for the film are 35 yuan each.  
 > 关于你询问的价格，那部电影的票价是每张35元。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 You’d better write down the phone number of that restaurant for future ________ (refer).  
 ##### 答案 reference  
   
-
 
 # ***reflect*** v
 ---
@@ -4247,19 +3029,13 @@ You’d better write down the phone number of that restaurant for future _______
 > I reflect on / upon how my day's gone and think about the rest of the week.  
 > 我反思一下我这一天是如何度过的，并思考着这周剩下几天怎么过。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 A city is the product of the human hand and mind, ________ (reflect) man's intelligence and creativity.  
 ##### 答案 reflecting  
   
-
 
 # ***reflection*** n
 ---
@@ -4293,16 +3069,6 @@ A city is the product of the human hand and mind, ________ (reflect) man's intel
 4. *低义频：* **[C] & [U] 反复思考；仔细考虑**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***reform*** v
 ---
@@ -4322,16 +3088,6 @@ A city is the product of the human hand and mind, ________ (reflect) man's intel
 > The criminal has promised to reform.   
 > 这名罪犯许诺要改过自新。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***reform*** n
 ---
@@ -4350,16 +3106,6 @@ A city is the product of the human hand and mind, ________ (reflect) man's intel
 > social / political / medical reform  
 > 社会 / 政治变革 / 医疗改革
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***refresh*** vt
 ---
@@ -4376,16 +3122,6 @@ A city is the product of the human hand and mind, ________ (reflect) man's intel
 > I refreshed myself with a cup of coffee.  
 > 我喝了杯咖啡提提神。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***refreshing*** adj
 ---
@@ -4398,16 +3134,6 @@ A city is the product of the human hand and mind, ________ (reflect) man's intel
 ---
 1. **令人耳目一新的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***refrigerator*** n
@@ -4422,16 +3148,6 @@ A city is the product of the human hand and mind, ________ (reflect) man's intel
 ---
 1. *高义频：* **冰箱；冷藏库**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***refund*** vt
@@ -4449,16 +3165,6 @@ A city is the product of the human hand and mind, ________ (reflect) man's intel
 > We will refund your money if you’re not satisfied.  
 > 如果您不满意我们会退款给您。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***refund*** n
 ---
@@ -4472,16 +3178,6 @@ A city is the product of the human hand and mind, ________ (reflect) man's intel
 ---
 1. *高义频：* **退款：**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***refuse*** v
@@ -4507,19 +3203,17 @@ A city is the product of the human hand and mind, ________ (reflect) man's intel
 > If given something you don’t want to eat, just refuse politely.   
 > 如果别人给你一些你不想吃的东西，你就礼貌地拒绝。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 refusal /rɪ'fjuːzl/ n 
+
 真题解析
 ---
 ##### 题目  
 Alice wanted to borrow Jack’s computer, but he ________ (拒绝).  
 ##### 答案 refused  
   
-
 
 # ***regard*** vt  重难点词汇
 ---
@@ -4547,16 +3241,6 @@ to look at sb / sth in a particular way：
 
 > She stood back and regarded him coldly.   
 > 她退后站着，冷冷地看着他。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***regard*** n  重难点词汇
@@ -4589,6 +3273,7 @@ attention to or care for sb / sth：
 > Please give my regards to your parents.   
 > 请代我向你的父母问好。
 
+
 固定搭配
 ---
 - #### with / in regard to sth
@@ -4598,11 +3283,13 @@ attention to or care for sb / sth：
 > With / In regard to his suggestions, we shall discuss them fully.   
 > 关于他的建议，我们将充分讨论。
 
+
 派生词汇
 ---
 regarding /rɪ'ɡɑːdɪŋ/ prep  [正式用语] (尤用于信函中) 
 > Regarding your recent inquiry, I have enclosed a copy of our new brochure.   
 > 关于您最近的咨询，我已随信附上一份我们新的小册子。
+
 
 真题解析
 ---
@@ -4610,7 +3297,6 @@ regarding /rɪ'ɡɑːdɪŋ/ prep  [正式用语] (尤用于信函中)
 I am always delighted when I receive an e-mail from you. With regard ________ the party on July 1st, I shall be pleased to attend.  
 ##### 答案 to  
   
-
 
 # ***regarding*** prep
 ---
@@ -4623,16 +3309,6 @@ I am always delighted when I receive an e-mail from you. With regard ________ th
 ---
 1. **关于**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***regardless*** adv
@@ -4647,6 +3323,7 @@ I am always delighted when I receive an e-mail from you. With regard ________ th
 1. *高义频：* **不顾；不加理会**  
 
 
+
 固定搭配
 ---
 - #### regardless of 
@@ -4656,16 +3333,13 @@ I am always delighted when I receive an e-mail from you. With regard ________ th
 > Nobody has the right to spit in the street regardless of their social position or age.   
 > 不管社会地位或年龄如何，没人有权当街吐痰。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Our club is open to everyone ________ (不管) age, sex or educational background.  
 ##### 答案 regardless of  
   
-
 
 # ***reggae*** n
 ---
@@ -4678,16 +3352,6 @@ Our club is open to everyone ________ (不管) age, sex or educational backgroun
 ---
 1. **雷盖（西印度群岛的一种节奏强劲的流行音乐）**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***region*** n
@@ -4712,16 +3376,10 @@ Our club is open to everyone ________ (不管) age, sex or educational backgroun
 2. *高义频：* **范围；领域**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 regional /'riːdʒənl/ adj [常用于名词前] 
-真题解析
----
-[null]
-
 
 # ***register*** n
 ---
@@ -4742,16 +3400,6 @@ regional /'riːdʒənl/ adj [常用于名词前]
 > **call / take the register**  
 > call / take the register  
 > 点名
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***register*** v
@@ -4774,13 +3422,12 @@ regional /'riːdʒənl/ adj [常用于名词前]
 > All visitors should register with the British Embassy.   
 > 所有游客都必须到英国大使馆登记。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 registration /ˌredʒɪ'streɪʃn/ n 
 1. **登记；注册；挂号**  
+
 
 
 真题解析
@@ -4789,7 +3436,6 @@ registration /ˌredʒɪ'streɪʃn/ n
 According to the law, all foreigners have to register ________ the local police within two weeks of arrival.  
 ##### 答案 with  
   
-
 
 # ***registration*** n
 ---
@@ -4802,16 +3448,6 @@ According to the law, all foreigners have to register ________ the local police 
 ---
 1. **登记；注册；挂号**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***regret*** vt  重难点词汇
@@ -4862,19 +3498,13 @@ used to say in a formal way that you are sorry about a situation：
 > It is much to be regretted that you can’t join us in the trip.   
 > 你不能和我们一道去旅行，真是遗憾。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 It’s no use _________ (后悔) what you have done.  
 ##### 答案 regretting  
   
-
 
 # ***regret*** n  重难点词汇
 ---
@@ -4900,16 +3530,6 @@ It’s no use _________ (后悔) what you have done.
 > **with great / deep regret**  
 > It is with great / deep regret that I accept your resignation.  
 > 接受你的辞呈，我感到非常遗憾。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***regular*** adj
@@ -4968,19 +3588,13 @@ lasting or happening over a long period：
 5. *低义频：* **[语法] 规则的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I suggest that we have _________ (定期) meetings.  
 ##### 答案 regular  
   
-
 
 # ***regularly*** adv
 ---
@@ -5000,19 +3614,13 @@ I suggest that we have _________ (定期) meetings.
 > We meet regularly, once a month.  
 > 我们每月一次定期见面。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Recent studies show that we are far more productive at work if we take short breaks ________ (regular).  
 ##### 答案 regularly  
   
-
 
 # ***regulate*** vt
 ---
@@ -5034,16 +3642,6 @@ Recent studies show that we are far more productive at work if we take short bre
 
 > regulate a watch   
 > 校准手表
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***regulation*** n
@@ -5068,16 +3666,6 @@ Recent studies show that we are far more productive at work if we take short bre
 > the regulation of affairs   
 > 事务管理
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***reheat*** v
 ---
@@ -5090,16 +3678,6 @@ Recent studies show that we are far more productive at work if we take short bre
 ---
 1. **重新加热**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***reinforce*** vt
@@ -5114,16 +3692,6 @@ Recent studies show that we are far more productive at work if we take short bre
 1. *高义频：* **加强；强化**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***reiterate*** v
 ---
@@ -5136,16 +3704,6 @@ Recent studies show that we are far more productive at work if we take short bre
 ---
 1. **反复地说，重述**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***reject*** vt
@@ -5166,16 +3724,10 @@ Recent studies show that we are far more productive at work if we take short bre
 > I’ve been rejected by all the universities I applied to.  
 > 所有我申请的大学都没有录取我。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 rejection /rɪ'dʒekʃn/ n 
-真题解析
----
-[null]
-
 
 # ***relate*** v
 ---
@@ -5211,16 +3763,6 @@ rejection /rɪ'dʒekʃn/ n
 > I love technology and try to keep up with it so I can relate to my students.    
 > 我热爱技术，并试图跟上技术的发展，因此我可以理解学生的想法。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***related*** adj
 ---
@@ -5237,6 +3779,7 @@ rejection /rɪ'dʒekʃn/ n
 > water-related diseases   
 > 与水有关的疾病
 
+
 固定搭配
 ---
 - #### (be) related to 
@@ -5245,13 +3788,6 @@ rejection /rɪ'dʒekʃn/ n
 
 > The “new four great inventions” are all related to China’s high-tech innovation.  
 > “新四大发明”都与中国高科技创新有关。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***relation*** n
@@ -5284,6 +3820,7 @@ rejection /rɪ'dʒekʃn/ n
 > a distant relation  
 > 远亲
 
+
 固定搭配
 ---
 - #### in relation to 
@@ -5295,13 +3832,6 @@ rejection /rɪ'dʒekʃn/ n
 
 > Women’s earnings are still low in relation to men’s.  
 > 女性的收入相对于男性而言还是偏低。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***relationship*** n
@@ -5329,16 +3859,6 @@ rejection /rɪ'dʒekʃn/ n
 > have a direct relationship to   
 > 与…有直接关系
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***relative*** n
 ---
@@ -5354,16 +3874,6 @@ rejection /rɪ'dʒekʃn/ n
 
 > friends and relatives  
 > 亲友
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***relative*** adj
@@ -5388,18 +3898,12 @@ rejection /rɪ'dʒekʃn/ n
 > a question relative to my plan   
 > 与我的计划有关的问题
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 relatively /'relətɪvli/ adv 
 > Spanish is a relatively easy language to learn.   
 > 西班牙语是一门相对较容易学的语言。
-
-真题解析
----
-[null]
 
 
 # ***relativity*** n
@@ -5413,16 +3917,6 @@ relatively /'relətɪvli/ adv
 ---
 1. **相对论**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***relax*** v
@@ -5443,18 +3937,12 @@ relatively /'relətɪvli/ adv
 > We get so much homework that I don’t have free time to relax.   
 > 我们有很多作业要做，没有空闲时间放松。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 relaxation /ˌriːlæk'seɪʃn/ n [U]
 relaxed /rɪ'lækst/ adj 
 relaxing /rɪ'læksɪŋ/ adj 
-真题解析
----
-[null]
-
 
 # ***relaxation*** n
 ---
@@ -5469,16 +3957,6 @@ relaxing /rɪ'læksɪŋ/ adj
 1. *高义频：* **放松；松弛**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***relaxed*** adj
 ---
@@ -5492,16 +3970,6 @@ relaxing /rɪ'læksɪŋ/ adj
 1. **轻松的；松懈的；宽松的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***relaxing*** adj
 ---
@@ -5514,16 +3982,6 @@ relaxing /rɪ'læksɪŋ/ adj
 ---
 1. **使人放松的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***relay*** n
@@ -5547,16 +4005,6 @@ relaxing /rɪ'læksɪŋ/ adj
 > a relay race   
 > 接力赛
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***relay*** vt
 ---
@@ -5572,16 +4020,6 @@ relaxing /rɪ'læksɪŋ/ adj
 
 > In ancient times the Chinese used to relay messages along the Great Wall by lighting fires.  
 > 在古代，中国人通过沿着长城点燃烽火传递信息。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***release*** vt  重难点词汇
@@ -5616,16 +4054,6 @@ to let sb / sth come out of a place where they have been kept or trapped：
 > release a movie / new version   
 > 发行影片/发布新版本
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***release*** n  重难点词汇
 ---
@@ -5658,16 +4086,6 @@ to let sb / sth come out of a place where they have been kept or trapped：
 > the latest release  
 > 最新发行的产品
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***relevant*** adj
 ---
@@ -5689,19 +4107,13 @@ to let sb / sth come out of a place where they have been kept or trapped：
 > relevant experience / information  
 > 相关经验 / 信息
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I don’t think what he said is relevant ________ the topic we are discussing. He has missed the point.  
 ##### 答案 to  
   
-
 
 # ***reliability*** n
 ---
@@ -5714,16 +4126,6 @@ I don’t think what he said is relevant ________ the topic we are discussing. H
 ---
 1. **可靠性**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***reliable*** adj
@@ -5744,19 +4146,13 @@ I don’t think what he said is relevant ________ the topic we are discussing. H
 > Tom is clever while Jack is honest and reliable.   
 > 汤姆聪明，而杰克诚实可靠。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 John is very ________ (rely) — if he promises to do something he’ll do it.  
 ##### 答案 reliable  
   
-
 
 # ***relic*** n
 ---
@@ -5773,16 +4169,6 @@ John is very ________ (rely) — if he promises to do something he’ll do it.
 
 > cultural relics   
 > 文化遗产
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***relief*** n
@@ -5815,6 +4201,7 @@ John is very ________ (rely) — if he promises to do something he’ll do it.
 > send relief to flood victims   
 > 将救济物资运送给遭受洪灾的灾民
 
+
 固定搭配
 ---
 - #### in / with relief
@@ -5824,9 +4211,7 @@ John is very ________ (rely) — if he promises to do something he’ll do it.
 > Hearing that he had passed the exam, he sighed in / with relief.  
 > 听说自己通过了考试，他松了口气。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -5834,7 +4219,6 @@ John is very ________ (rely) — if he promises to do something he’ll do it.
 — What relief! I’ll tell Dad there’s nothing serious.  
 ##### 答案 relief 前加 a  
   
-
 
 # ***relieve*** vt
 ---
@@ -5851,16 +4235,10 @@ John is very ________ (rely) — if he promises to do something he’ll do it.
 > Anxiety may be relieved by talking to a friend.   
 > 和朋友谈谈可以减轻焦虑。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 relieved /rɪ'liːvd/ adj 
-真题解析
----
-[null]
-
 
 # ***religion*** n
 ---
@@ -5874,16 +4252,6 @@ relieved /rɪ'liːvd/ adj
 ---
 1. *高义频：* **宗教；宗教信仰**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***religious*** adj
@@ -5904,16 +4272,6 @@ relieved /rɪ'liːvd/ adj
 2. *低义频：* **笃信宗教的；虔诚的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***reluctant*** adj
 ---
@@ -5927,16 +4285,6 @@ relieved /rɪ'liːvd/ adj
 1. *高义频：* **勉强的；不情愿的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rely*** vi
 ---
@@ -5945,9 +4293,6 @@ relieved /rɪ'liːvd/ adj
 词频 4 | 口语 1 | 书面 2 | 阅读 0
 
 
-英文释义
----
-[null]
 固定搭配
 ---
 - #### rely on / upon
@@ -5972,13 +4317,6 @@ to trust or have faith in sb / sth：
 
 > I can rely on David to keep my secret.  
 > 我信任大卫，他一定会为我保密。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***remain*** vi  重难点词汇
@@ -6043,12 +4381,11 @@ to trust or have faith in sb / sth：
 > There remains a certain doubt among the people as to the practical value of the project.  
 > 关于这个项目的实用价值，人们还是有一些疑虑。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 remaining /rɪ'meɪnɪŋ/ adj 
+
 真题解析
 ---
 ##### 题目  
@@ -6059,7 +4396,6 @@ It was already past midnight and only three young men ________ (逗留) in the t
 It remains ________ (see) whether Jim’ll be fit enough to play in the finals.   
 ##### 答案 to be seen  
   
-
 
 # ***remains*** n
 ---
@@ -6083,16 +4419,6 @@ It remains ________ (see) whether Jim’ll be fit enough to play in the finals.
 > Human remains of ancient settlements will be reburied.  
 > 古代定居点的人类遗骸将被重新安葬。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***remark*** n
 ---
@@ -6113,16 +4439,6 @@ It remains ________ (see) whether Jim’ll be fit enough to play in the finals.
 > **make a remark**  
 > make a remark  
 > 发表评论
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***remark*** v
@@ -6145,16 +4461,6 @@ It remains ________ (see) whether Jim’ll be fit enough to play in the finals.
 > It would be rude to remark on / upon other’s appearance.   
 > 对他人的相貌品头论足是不礼貌的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***remarkable*** adj
 ---
@@ -6168,16 +4474,10 @@ It remains ________ (see) whether Jim’ll be fit enough to play in the finals.
 1. *高义频：* **非凡的；卓越的；引人注目的 (astonishing)**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 remarkably /rɪ'mɑːkəbli/ adv [句子副词] 
-真题解析
----
-[null]
-
 
 # ***remember*** v  重难点词汇
 ---
@@ -6229,6 +4529,7 @@ remarkably /rɪ'mɑːkəbli/ adv [句子副词]
 > Will you kindly remember me to your family?   
 > 请代我向你的家人问好，好吗?
 
+
 固定搭配
 ---
 - #### be remembered as / for 
@@ -6241,16 +4542,13 @@ remarkably /rɪ'mɑːkəbli/ adv [句子副词]
 > Margaret Mitchell is best remembered for her book, Gone with the Wind.   
 > 玛格丽特·米歇尔因其著作《飘》而著名。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I still remember ________ (visit) a friend who’d lived here for fi ve years.  
 ##### 答案 visiting  
   
-
 
 # ***remind*** vt  重难点词汇
 ---
@@ -6302,14 +4600,13 @@ to make sb remember sb that they know or sth that happened in the past：
 > — No wonder he reminded me so much of Jane!  
 > 难怪他让我觉得他那么像简呢。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 reminder /rɪ'maɪndə(r)/ n 
 > He placed the brochure on his desk as a reminder.   
 > 他把手册放在桌上作为提醒。
+
 
 真题解析
 ---
@@ -6321,7 +4618,6 @@ The photo will remind me ________ the days when we were together.
 In our childhood, we were often ________ (提醒) by Grandma to pay attention to our table manners.  
 ##### 答案 reminded  
   
-
 
 # ***remote*** adj
 ---
@@ -6337,16 +4633,6 @@ In our childhood, we were often ________ (提醒) by Grandma to pay attention to
 
 > a remote village / area  
 > 偏僻的村庄 / 偏远地区
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***remove*** vt
@@ -6393,19 +4679,17 @@ In our childhood, we were often ________ (提醒) by Grandma to pay attention to
 > remove a man from office   
 > 免除一个人的职务
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 removal /rɪ'muːvl/ n [C] & [U] 
+
 真题解析
 ---
 ##### 题目  
 When fat and salt _________________ (remove) from food, the food tastes as if it is missing something.   
 ##### 答案 are removed  
   
-
 
 # ***renaissance*** n
 ---
@@ -6419,16 +4703,6 @@ When fat and salt _________________ (remove) from food, the food tastes as if it
 ---
 1. *高义频：* **复兴**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***renew*** vt
@@ -6460,18 +4734,12 @@ When fat and salt _________________ (remove) from food, the food tastes as if it
 3. *高义频：* **更换；更新**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 renewable /rɪ'njuːəbl/ adj 
 > renewable energy / resources   
 > 可再生能源/资源
-
-真题解析
----
-[null]
 
 
 # ***renewable*** adj
@@ -6485,16 +4753,6 @@ renewable /rɪ'njuːəbl/ adj
 ---
 1. *高义频：* **能再生的；可更新的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rent*** v
@@ -6520,16 +4778,6 @@ renewable /rɪ'njuːəbl/ adj
 > The apartment rents at / for $2,000 a month.  
 > 这套公寓以每月2000美元出租。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rent*** n
 ---
@@ -6548,16 +4796,10 @@ renewable /rɪ'njuːəbl/ adj
 > pay the rent   
 > 付租金
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 rented /'rentɪd/ adj 
-真题解析
----
-[null]
-
 
 # ***repair*** vt
 ---
@@ -6573,16 +4815,6 @@ rented /'rentɪd/ adj
 
 > repair a broken watch   
 > 修理坏掉的手表
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***repair*** n
@@ -6601,6 +4833,7 @@ rented /'rentɪd/ adj
 > A man should keep his friendship in constant repair.   
 > 只有经常维系，方能保持友谊天长地久。
 
+
 固定搭配
 ---
 - #### beyond repair 
@@ -6614,16 +4847,13 @@ rented /'rentɪd/ adj
 > The castle built in 1432 is under repair.   
 > 这座建于1432年的城堡正在修缮中。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 My washing machine ________ (repair) this week, so I have to wash my clothes by hand.  
 ##### 答案 is being repaired  
   
-
 
 # ***repay*** vt
 ---
@@ -6643,16 +4873,6 @@ My washing machine ________ (repair) this week, so I have to wash my clothes by 
 
 > The hard work that you do now will be repaid later in life.   
 > 你现在所做的艰苦工作将在以后的生活中获得回报。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***repeat*** v
@@ -6674,21 +4894,19 @@ My washing machine ________ (repair) this week, so I have to wash my clothes by 
 > Will you repeat what you said just now?   
 > 把你刚才说的再重复一遍好吗？
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 repeated /rɪ'piːtɪd/ adj 
 repeatedly /rɪ'piːtɪdli/ adv 
 repetition /ˌrepə'tɪʃn/ n 
+
 真题解析
 ---
 ##### 题目  
 The teacher asked one student to ________ (重复) what he had heard from the tape recorder.   
 ##### 答案 repeat  
   
-
 
 # ***repeat*** n
 ---
@@ -6703,16 +4921,6 @@ The teacher asked one student to ________ (重复) what he had heard from the ta
 1. *高义频：* **重复 (事物)；重播**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***repertoire*** n
 ---
@@ -6725,16 +4933,6 @@ The teacher asked one student to ________ (重复) what he had heard from the ta
 ---
 1. **演奏曲目，演出节目**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***repetition*** n
@@ -6749,16 +4947,6 @@ The teacher asked one student to ________ (重复) what he had heard from the ta
 ---
 1. *高义频：* **重复**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***replace*** vt
@@ -6785,6 +4973,7 @@ The teacher asked one student to ________ (重复) what he had heard from the ta
 > We’d be happy to replace the radio for you.   
 > 我们乐意为您更换这台收音机。
 
+
 固定搭配
 ---
 - #### replace ... with / by 
@@ -6794,13 +4983,10 @@ The teacher asked one student to ________ (重复) what he had heard from the ta
 > They replaced their beloved old cars with expensive new sports cars.   
 > 他们用昂贵的新跑车替代了钟爱的旧车。
 
+
 派生词汇
 ---
 replacement /rɪ'pleɪsmənt/ n 
-真题解析
----
-[null]
-
 
 # ***reply*** v
 ---
@@ -6821,16 +5007,6 @@ replacement /rɪ'pleɪsmənt/ n
 > **replied that**  
 > He replied that he knew nothing about it.   
 > 他回答说对此一无所知。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***reply*** n
@@ -6853,6 +5029,7 @@ replacement /rɪ'pleɪsmənt/ n
 > make no reply   
 > 不作答复
 
+
 固定搭配
 ---
 - #### in reply to 
@@ -6862,13 +5039,6 @@ replacement /rɪ'pleɪsmənt/ n
 > **in reply to**  
 > I’m writing in reply to your letter of June 1st.   
 > 我写这封信是为了回复你6月1日的来信。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***report*** v  重难点词汇
@@ -6917,16 +5087,6 @@ replacement /rɪ'pleɪsmənt/ n
 > All visitors must report to the reception desk on arrival.   
 > 所有来访者到达后务必在接待处报到。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***report*** n  重难点词汇
 ---
@@ -6952,16 +5112,6 @@ replacement /rɪ'pleɪsmənt/ n
 > a news / weather / book / research report  
 > 新闻报道 / 天气预报 / 读书报告 / 研究报告
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***reportedly*** adv
 ---
@@ -6974,16 +5124,6 @@ replacement /rɪ'pleɪsmənt/ n
 ---
 1. **据报道；据说**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***reporter*** n
@@ -6998,16 +5138,6 @@ replacement /rɪ'pleɪsmənt/ n
 ---
 1. *高义频：* **记者；报告人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***represent*** v  重难点词汇
@@ -7053,16 +5183,6 @@ to be or be equal to sth：
 > A salary rise of 10% represents an annual increase of $3,600 for me.   
 > 对我来说，加薪10%相当于全年收入增加3600美元。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***representative*** n
 ---
@@ -7088,16 +5208,6 @@ to be or be equal to sth：
 >   
 > House of Representatives
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***representative*** adj
 ---
@@ -7114,16 +5224,6 @@ to be or be equal to sth：
 > **representative of**  
 > be representative of the people   
 > 代表人民
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***reproduce*** v
@@ -7144,16 +5244,6 @@ to be or be equal to sth：
 2. *高义频：* **生殖；繁殖**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***reptile*** n
 ---
@@ -7167,16 +5257,6 @@ to be or be equal to sth：
 ---
 1. *高义频：* **爬行动物**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***republic*** n
@@ -7195,19 +5275,13 @@ to be or be equal to sth：
 > the People’s Republic of China   
 > 中华人民共和国
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Andorra is a small mountain _________ (共和国) between France and Spain.   
 ##### 答案 republic  
   
-
 
 # ***reputation*** n
 ---
@@ -7230,19 +5304,13 @@ Andorra is a small mountain _________ (共和国) between France and Spain.
 > earn / gain / acquire a good reputation as a doctor  
 > 作为医生获得好名声
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The doctor is skilled at treating heart trouble and never accepts any gift from his patients, so he has a very good ________ (名声).  
 ##### 答案 reputation  
   
-
 
 # ***request*** n  重难点词汇
 ---
@@ -7269,6 +5337,7 @@ The doctor is skilled at treating heart trouble and never accepts any gift from 
 > The pianist listened to our request that he (should) play in public again.   
 > 那位钢琴家听从了我们的请求，答应再次公演。
 
+
 固定搭配
 ---
 - #### at sb’s request / at the request of sb 
@@ -7278,9 +5347,7 @@ The doctor is skilled at treating heart trouble and never accepts any gift from 
 > The students were there at the teacher’s request.   
 > 学生们应老师的要求到了那里。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -7291,7 +5358,6 @@ C.doubts
 D.promises  
 ##### 答案 B  
   
-
 
 # ***request*** vt  重难点词汇
 ---
@@ -7319,19 +5385,13 @@ to ask for sth or ask sb to do sth in a polite or formal way：
 > You can request a free ticket for the show at the reception desk.   
 > 你可以在前台要一张这场演出的免费票。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Don’t respond to any e-mails _________ (request) personal information, no matter how official they look.  
 ##### 答案 requesting   
   
-
 
 # ***require*** vt  重难点词汇
 ---
@@ -7368,19 +5428,13 @@ Don’t respond to any e-mails _________ (request) personal information, no matt
 > If you require further information, phone during office hours.   
 > 如需了解更多信息，请在工作时间致电询问。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Though it may appear simple, it required a lot of ideas and efforts.  
 ##### 答案 required➜requires  
   
-
 
 # ***requirement*** n
 ---
@@ -7402,16 +5456,6 @@ Though it may appear simple, it required a lot of ideas and efforts.
 > meet / satisfy a requirement  
 > 满足要求
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rescue*** vt
 ---
@@ -7428,16 +5472,6 @@ Though it may appear simple, it required a lot of ideas and efforts.
 > **rescued from**  
 > She was rescued from a burning building.   
 > 她从着火的楼里被救了出来。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rescue*** n
@@ -7461,16 +5495,6 @@ Though it may appear simple, it required a lot of ideas and efforts.
 > Some of the rescue workers and doctors were trapped under the ruins.   
 > 一些救援人员和医生被困在了废墟下面。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***research*** n
 ---
@@ -7488,16 +5512,6 @@ Though it may appear simple, it required a lot of ideas and efforts.
 > **do research on / in / into**  
 > do research on / in / into Roman history   
 > 从事关于古罗马历史的研究
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***research*** v
@@ -7520,16 +5534,6 @@ Though it may appear simple, it required a lot of ideas and efforts.
 > research into / on ways of improving people’s diet  
 > 研究改进人们饮食的方法
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***researcher*** n
 ---
@@ -7543,16 +5547,6 @@ Though it may appear simple, it required a lot of ideas and efforts.
 ---
 1. *高义频：* **研究人员**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***resemble*** vt
@@ -7570,16 +5564,6 @@ to look like or be similar to sb / sth：
 
 > Often the lives of writers resemble the lives of the characters they create.   
 > 通常，作家的生活和他们所创作的人物的生活非常相似。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***reservation*** n
@@ -7604,16 +5588,6 @@ to look like or be similar to sb / sth：
 > **make a reservation**  
 > I’ll call the restaurant to make a reservation.   
 > 我来给餐馆打电话预定。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***reserve*** vt
@@ -7646,19 +5620,13 @@ to look like or be similar to sb / sth：
 > I’ll reserve (my) judgment until I’ve looked at the details of the proposal.   
 > 在看过提议的细节之前我将保留意见。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I’d prefer to ________ (保留) my judgement until I find all the evidence.  
 ##### 答案 reserve  
   
-
 
 # ***reserve*** n
 ---
@@ -7683,16 +5651,6 @@ I’d prefer to ________ (保留) my judgement until I find all the evidence.
 > This coastal area was named a national wildlife reserve last year.   
 > 这个沿海地区去年被命名为国家野生动物保护区。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***reservoir*** n
 ---
@@ -7705,16 +5663,6 @@ I’d prefer to ________ (保留) my judgement until I find all the evidence.
 ---
 1. **水库**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***resident*** n
@@ -7733,16 +5681,10 @@ I’d prefer to ________ (保留) my judgement until I find all the evidence.
 > rural / urban residents   
 > 农村/城市居民
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 residential /ˌrezɪ'denʃl/ adj 
-真题解析
----
-[null]
-
 
 # ***resident*** adj
 ---
@@ -7755,16 +5697,6 @@ residential /ˌrezɪ'denʃl/ adj
 ---
 1. **（在某地）居住的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***resign*** v
@@ -7788,16 +5720,6 @@ residential /ˌrezɪ'denʃl/ adj
 
 > Tom has resigned his membership of the golf club.  
 > 汤姆已经退出了高尔夫球俱乐部。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***resist*** v
@@ -7840,16 +5762,10 @@ residential /ˌrezɪ'denʃl/ adj
 > resist an enemy attack   
 > 抵抗敌人的进攻
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 resistance /rɪ'zɪstəns/ n 
-真题解析
----
-[null]
-
 
 # ***resistance*** n
 ---
@@ -7863,16 +5779,6 @@ resistance /rɪ'zɪstəns/ n
 1. **反抗；抵制**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***resolution*** n
 ---
@@ -7885,16 +5791,6 @@ resistance /rɪ'zɪstəns/ n
 ---
 1. **决心要做的事**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***resolve*** v
@@ -7921,18 +5817,12 @@ resistance /rɪ'zɪstəns/ n
 > Instead of resolving to lose weight, try an actionable resolution: “I’ll stop having dessert for lunch.”    
 > 不要光下决心减肥，要尝试一个可行性的决心：“我午餐不再吃甜品。”
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 resolution /ˌrezə'luːʃn/ n [C] & [U]
 > conflict resolution  
 > 冲突解决
-
-真题解析
----
-[null]
 
 
 # ***resort*** n
@@ -7947,16 +5837,6 @@ resolution /ˌrezə'luːʃn/ n [C] & [U]
 ---
 1. *高义频：* **度假胜地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***resource*** n
@@ -7980,16 +5860,6 @@ resolution /ˌrezə'luːʃn/ n [C] & [U]
 > She had no financial resources.   
 > 她没有钱。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***respect*** vt
 ---
@@ -8012,19 +5882,13 @@ resolution /ˌrezə'luːʃn/ n [C] & [U]
 > In practice, few drivers respect the rules.   
 > 实际上，很少有司机遵守这些规则。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 respectable /rɪ'spektəbl/ adj 
 respectful /rɪ'spektfl/ adj 
 respective /rɪ'spektɪv/ adj 
 respectively /rɪ'spektɪvli/ adv 
-真题解析
----
-[null]
-
 
 # ***respect*** n
 ---
@@ -8059,6 +5923,7 @@ respectively /rɪ'spektɪvli/ adv
 > In this respect, new technologies have shaped our culture.   
 > 在这一方面，新技术塑造了我们的文化。
 
+
 固定搭配
 ---
 - #### in respect of 
@@ -8068,13 +5933,6 @@ respectively /rɪ'spektɪvli/ adv
 - #### with respect to 
 1. **关于；就…而言**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***respectful*** adj
@@ -8088,16 +5946,6 @@ respectively /rɪ'spektɪvli/ adv
 ---
 1. *高义频：* **恭敬的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***respond*** v
@@ -8129,16 +5977,6 @@ respectively /rɪ'spektɪvli/ adv
 > Knowing basic first-aid techniques will help you respond quickly to emergencies.   
 > 懂得基本的急救技能将有助于你对紧急情况做出迅速反应。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***response*** n
 ---
@@ -8163,6 +6001,7 @@ respectively /rɪ'spektɪvli/ adv
 > bring / produce response   
 > 引起/产生反响
 
+
 固定搭配
 ---
 - #### in response (to) 
@@ -8171,13 +6010,6 @@ respectively /rɪ'spektɪvli/ adv
 
 > The government acted in response to economic pressure.   
 > 政府为应对经济压力采取了行动。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***responsibility*** n  重难点词汇
@@ -8205,16 +6037,6 @@ respectively /rɪ'spektɪvli/ adv
 > The media has a moral responsibility to report news truthfully.   
 > 媒体有如实报道新闻的道德责任。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***responsible*** adj
 ---
@@ -8235,16 +6057,6 @@ respectively /rɪ'spektɪvli/ adv
 > Human activity is not responsible for all water shortages.   
 > 水资源短缺不完全是由人类活动造成的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rest*** v
 ---
@@ -8263,16 +6075,6 @@ respectively /rɪ'spektɪvli/ adv
 
 > She never had a moment to rest.   
 > 她从没得到过片刻休息。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rest*** n
@@ -8305,19 +6107,13 @@ respectively /rɪ'spektɪvli/ adv
 > 剩下的钱就送给她吧。
 
 the rest (of sth) 作主语时，若指代可数名词，谓语动词用复数；若指代不可数名词，谓语动词用单数。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The factory used 65 percent of the raw materials, the rest of which _______ (be) saved for other purposes.   
 ##### 答案 were  
   
-
 
 # ***restaurant*** n
 ---
@@ -8335,16 +6131,6 @@ The factory used 65 percent of the raw materials, the rest of which _______ (be)
 > run / operate a restaurant   
 > 经营餐馆
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***restore*** vt
 ---
@@ -8361,16 +6147,6 @@ The factory used 65 percent of the raw materials, the rest of which _______ (be)
 > Her job is restoring old paintings.   
 > 她的工作是修复古画。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***restrict*** vt
 ---
@@ -8386,16 +6162,6 @@ The factory used 65 percent of the raw materials, the rest of which _______ (be)
 
 > restrict one’s freedom   
 > 限制某人的自由
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***restriction*** n
@@ -8419,16 +6185,6 @@ The factory used 65 percent of the raw materials, the rest of which _______ (be)
 > a restriction on smoking in schools  
 > 禁止在学校吸烟
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***restrictive*** adj
 ---
@@ -8441,16 +6197,6 @@ The factory used 65 percent of the raw materials, the rest of which _______ (be)
 ---
 1. *高义频：* **限制 (性) 的；约束(性) 的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***result*** n  重难点词汇
@@ -8482,6 +6228,7 @@ The factory used 65 percent of the raw materials, the rest of which _______ (be)
 > get good results   
 > 取得好成绩
 
+
 固定搭配
 ---
 - #### as a result (of) 
@@ -8494,9 +6241,7 @@ The factory used 65 percent of the raw materials, the rest of which _______ (be)
 > About 21 million people died during the 1990s as a result of smoking.   
 > 20世纪90年代约有2100万人死于吸烟。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -8508,7 +6253,6 @@ My friend Martin was very sick with a strange fever; ________ (结果), he could
 ##### 答案 as a result  
   
 
-
 # ***result*** vi  重难点词汇
 ---
 英音 rɪ'zʌlt     美音 rɪ'zʌlt
@@ -8519,6 +6263,7 @@ My friend Martin was very sick with a strange fever; ________ (结果), he could
 英文释义
 ---
 1. *高义频：* **发生；导致**  
+
 
 
 固定搭配
@@ -8536,13 +6281,6 @@ My friend Martin was very sick with a strange fever; ________ (结果), he could
 
 > I learned that shouting and threats of punishment would result in a disaster.  
 > 我认识到叫嚣和威胁惩罚会导致祸端。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***resume*** vt
@@ -8564,16 +6302,6 @@ My friend Martin was very sick with a strange fever; ________ (结果), he could
 > We resumed our work after a rest.   
 > 休息之后我们重新开始工作。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***resume*** n
 ---
@@ -8590,16 +6318,6 @@ My friend Martin was very sick with a strange fever; ________ (结果), he could
 
 > Your reporter gave me a copy of his resume.   
 > 你们的记者给了我一份他的简历。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***retell*** vt
@@ -8618,19 +6336,13 @@ My friend Martin was very sick with a strange fever; ________ (结果), he could
 > retell the story   
 > 复述这个故事
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The students are required to ________ (复述) the story after reading it.   
 ##### 答案 retell  
   
-
 
 # ***retire*** v
 ---
@@ -8652,17 +6364,11 @@ The students are required to ________ (复述) the story after reading it.
 > The work of a great sportsman does not finish when he retires from the sport.    
 > 当一个伟大的运动员退役后他的工作并没有结束。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 retired /rɪ'taɪəd/ adj 
 retirement /rɪ'taɪəmənt/ n [C] & [U]
-真题解析
----
-[null]
-
 
 # ***retired*** adj
 ---
@@ -8675,16 +6381,6 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ---
 1. **退休的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***retirement*** n
@@ -8699,16 +6395,6 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 1. **退休**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***retreat*** v
 ---
@@ -8721,16 +6407,6 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ---
 1. **撤退，后退**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***return*** n
@@ -8767,6 +6443,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 > Your satisfaction is guaranteed, with our 30-day return privilege.    
 > 我们有30天退货特权，保证您满意。
 
+
 固定搭配
 ---
 - #### in return (for sth) 
@@ -8779,16 +6456,13 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 > I wish I could do something in return for the kindness I have received from him.   
 > 我希望自己能做点什么以回报他对我的好意。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 While staying in the village, James unselfishly shared whatever he had with the villagers without asking for anything ________ return.  
 ##### 答案 in  
   
-
 
 # ***return*** v
 ---
@@ -8827,6 +6501,7 @@ While staying in the village, James unselfishly shared whatever he had with the 
 > Thanks for helping me. I’ll try to return the favour some day.   
 > 谢谢你对我的帮助，有朝一日我会报答你的。
 
+
 固定搭配
 ---
 - #### return to
@@ -8836,13 +6511,6 @@ While staying in the village, James unselfishly shared whatever he had with the 
 > **return to normal**  
 > Even with treatment, they may never return to normal.    
 > 即使经过治疗，他们也可能无法恢复正常。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***reunite*** vt
@@ -8862,16 +6530,6 @@ While staying in the village, James unselfishly shared whatever he had with the 
 > The children were finally reunited with their families.   
 > 孩子们终于和自己的家人重聚了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***reusable*** adj
 ---
@@ -8884,16 +6542,6 @@ While staying in the village, James unselfishly shared whatever he had with the 
 ---
 1. **可再度使用的，可多次使用的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***reuse*** vt
@@ -8910,16 +6558,6 @@ While staying in the village, James unselfishly shared whatever he had with the 
 
 > When the waste water from factory is made clean and reused, a lot of money is saved.   
 > 工厂的废水净化后重新使用，可以节约很多钱。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***reveal*** vt
@@ -8938,16 +6576,6 @@ While staying in the village, James unselfishly shared whatever he had with the 
 > He did not reveal his secret plan to us.   
 > 他没有向我们透露他的秘密计划。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***revenge*** v
 ---
@@ -8961,16 +6589,6 @@ While staying in the village, James unselfishly shared whatever he had with the 
 1. **报仇，复仇**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***revenge*** n
 ---
@@ -8983,16 +6601,6 @@ While staying in the village, James unselfishly shared whatever he had with the 
 ---
 1. **复仇；报复**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***revenue*** n
@@ -9008,16 +6616,6 @@ While staying in the village, James unselfishly shared whatever he had with the 
 1. *高义频：* **收入；税收**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***reverse*** v
 ---
@@ -9030,16 +6628,6 @@ While staying in the village, James unselfishly shared whatever he had with the 
 ---
 1. *高义频：* **vt 颠倒；改变；vt & vi 倒 (车)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***reverse*** n
@@ -9054,16 +6642,6 @@ While staying in the village, James unselfishly shared whatever he had with the 
 ---
 1. *高义频：* **相反；反面；(机动车的) 倒挡**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***review*** vt  重难点词汇
@@ -9099,19 +6677,13 @@ While staying in the village, James unselfishly shared whatever he had with the 
 > I only go to see films that are reviewed favourably.  
 > 我只去看评价好的电影。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Don’t worry if you don’t understand everything. The teacher will ________ (复习) the main points at the end.  
 ##### 答案 review / revise  
   
-
 
 # ***review*** n  重难点词汇
 ---
@@ -9141,16 +6713,6 @@ Don’t worry if you don’t understand everything. The teacher will ________ (�
 > His first novel has received good reviews since it came out last month.   
 > 他的第一部小说自上月出版以来一直备受好评。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***revise*** v
 ---
@@ -9173,19 +6735,13 @@ Don’t worry if you don’t understand everything. The teacher will ________ (�
 > I spent the weekend revising for my exam.   
 > 我花了整个周末来复习备考。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The old rules have to be ________ (修正) because they only applied to the circumstances that existed when they were made a hundred years ago.  
 ##### 答案 revised  
   
-
 
 # ***revision*** n
 ---
@@ -9205,16 +6761,6 @@ The old rules have to be ________ (修正) because they only applied to the circ
 2. *高义频：* **[C] & [U] 修订；修正**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***revival*** n
 ---
@@ -9231,16 +6777,6 @@ The old rules have to be ________ (修正) because they only applied to the circ
 > An economic revival is sweeping the country.  
 > 一股经济艺术复兴的大潮正席卷全国。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***revive*** vt
 ---
@@ -9256,16 +6792,6 @@ The old rules have to be ________ (修正) because they only applied to the circ
 
 > The economy is beginning to revive.  
 > 经济开始复苏。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***revolution*** n
@@ -9284,16 +6810,6 @@ The old rules have to be ________ (修正) because they only applied to the circ
 > the Industrial Revolution   
 > 工业革命
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***revolutionary*** adj
 ---
@@ -9310,16 +6826,6 @@ The old rules have to be ________ (修正) because they only applied to the circ
 > Copernicus’ revolutionary theory  
 > 哥白尼的革命性理论
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***revolve*** v
 ---
@@ -9332,16 +6838,6 @@ The old rules have to be ________ (修正) because they only applied to the circ
 ---
 1. *高义频：* **(使) 旋转**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***reward*** n  重难点词汇
@@ -9380,16 +6876,6 @@ sth that you are given because you have done sth good, worked hard, etc.：
 
 ### 辨析 reward, award, prize
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***reward*** vt  重难点词汇
 ---
@@ -9410,18 +6896,12 @@ sth that you are given because you have done sth good, worked hard, etc.：
 > The students have been working hard on their lessons and their efforts will be rewarded with success in the end.  
 > 学生们一直努力学习功课，他们的努力最终会带来成功。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 rewarding /rɪ'wɔːdɪŋ/ adj 
 > When asked for his views about his teaching job, Philip said he found it very interesting and rewarding.   
 > 当被问及对教学工作的看法时，菲利普说它既有趣又有意义。
-
-真题解析
----
-[null]
 
 
 # ***rewind*** v
@@ -9440,16 +6920,6 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 > rewind the tape   
 > 倒带
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rewrite*** vt
 ---
@@ -9464,16 +6934,6 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 1. *高义频：* **重写；改写 (故事等)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rhetorical*** adj
 ---
@@ -9487,16 +6947,6 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 1. **修辞的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rhino*** n
 ---
@@ -9509,16 +6959,6 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 ---
 1. *高义频：* **[pl rhinos] 犀牛**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rhyme*** n
@@ -9543,16 +6983,6 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 > children’s rhymes and stories   
 > 儿歌和童话
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rhyme*** v
 ---
@@ -9569,16 +6999,6 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 > **rhymes with**  
 > “Though” rhymes with “low”.   
 > though和low押韵。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rhythm*** n
@@ -9597,16 +7017,6 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 > She started dancing to the rhythm of the music.   
 > 她开始随着音乐的节拍跳舞。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rhythmic*** adj
 ---
@@ -9621,16 +7031,6 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 1. *高义频：* **有节奏的；节奏强劲的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ribbon*** n
 ---
@@ -9644,16 +7044,6 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 ---
 1. *高义频：* **丝带；带状物**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rice*** n
@@ -9671,16 +7061,6 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 
 > Rice is an important food in India, China, and Japan.   
 > 大米是印度、中国和日本的主食。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rich*** adj
@@ -9704,6 +7084,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 > rich soil   
 > 肥沃的土地
 
+
 固定搭配
 ---
 - #### be rich in 
@@ -9713,14 +7094,11 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 > The country is rich in resources.   
 > 这个国家资源丰富。
 
+
 派生词汇
 ---
 richly /'rɪtʃli/ adv 
 richness /'rɪtʃnəs/ n 
-真题解析
----
-[null]
-
 
 # ***rickets*** n
 ---
@@ -9735,16 +7113,6 @@ richness /'rɪtʃnəs/ n
 1. *高义频：* **佝偻病**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rid*** vt
 ---
@@ -9754,9 +7122,6 @@ richness /'rɪtʃnəs/ n
 
 用法点拨  (rid, rid)
 
-英文释义
----
-[null]
 固定搭配
 ---
 - #### be / get rid of 
@@ -9779,13 +7144,6 @@ richness /'rɪtʃnəs/ n
 > rid oneself of debt   
 > 还清债务
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***riddle*** n
 ---
@@ -9803,16 +7161,6 @@ richness /'rɪtʃnəs/ n
 > **solve,riddle**  
 > solve / answer a riddle   
 > 猜谜；解谜
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ride*** v
@@ -9838,16 +7186,6 @@ richness /'rɪtʃnəs/ n
 > ride an elevator   
 > 乘电梯
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ride*** n
 ---
@@ -9869,17 +7207,11 @@ richness /'rɪtʃnəs/ n
 > Although Dollywood has rides, the park’s main attraction is its culture.   
 > 尽管多莱坞有骑乘游乐设施，但是这里最具吸引力的还是它的文化。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 rider /'raɪdə(r)/ n [C]
 riding /'raɪdɪŋ/ n [U]
-真题解析
----
-[null]
-
 
 # ***ridge*** n
 ---
@@ -9894,16 +7226,6 @@ riding /'raɪdɪŋ/ n [U]
 1. *高义频：* **山脊；屋脊**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ridiculous*** adj
 ---
@@ -9916,16 +7238,6 @@ riding /'raɪdɪŋ/ n [U]
 ---
 1. *高义频：* **荒谬的；可笑的；滑稽的 (absurd)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***right*** adj
@@ -9965,16 +7277,6 @@ riding /'raɪdɪŋ/ n [U]
 > Are you right now?   
 > 你这会儿感觉好吗?
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***right*** adv
 ---
@@ -10004,6 +7306,7 @@ riding /'raɪdɪŋ/ n [U]
 > After getting off the train, turn right and you’ll see a hill in front of you.   
 > 下火车后向右转，你就会看见面前有一座山。
 
+
 固定搭配
 ---
 - #### right now 
@@ -10019,13 +7322,6 @@ riding /'raɪdɪŋ/ n [U]
 
 > Imagine your home begins to shake and you must leave it right away.   
 > 设想一下你家开始摇晃了，你必须立刻离开。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***right*** n
@@ -10060,16 +7356,10 @@ riding /'raɪdɪŋ/ n [U]
 > I believe that children have the right to live in a world that is safe.   
 > 我认为孩子们有权生活在一个安全的世界中。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 rightly /'raɪtli/ adv 
-真题解析
----
-[null]
-
 
 # ***right-handed*** adj
 ---
@@ -10085,16 +7375,6 @@ rightly /'raɪtli/ adv
 
 > Most of us are right-handed men.   
 > 我们绝大多数人是惯用右手的。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rigid*** adj
@@ -10117,16 +7397,6 @@ rightly /'raɪtli/ adv
 
 > rigid attitudes   
 > 固执的态度
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ring*** v
@@ -10164,6 +7434,7 @@ rightly /'raɪtli/ adv
 > I’ll ring you this evening.   
 > 我今晚给你打电话。
 
+
 固定搭配
 ---
 - #### ring off 
@@ -10176,13 +7447,6 @@ rightly /'raɪtli/ adv
 
 > I’ll ring him up again.   
 > 我会再打电话给他。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ring*** n
@@ -10200,16 +7464,6 @@ rightly /'raɪtli/ adv
 
 2. *高义频：* **铃声；钟声**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ripe*** adj
@@ -10231,16 +7485,6 @@ rightly /'raɪtli/ adv
 > The time is ripe for a reform.   
 > 改革的时机已经成熟。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ripen*** v
 ---
@@ -10257,16 +7501,6 @@ rightly /'raɪtli/ adv
 
 > The rice has ripened.   
 > 稻子已经成熟了。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rise*** vi
@@ -10321,19 +7555,13 @@ rightly /'raɪtli/ adv
 
 ### 辨析 rise, raise
 两者都有“上升”、“增长”之意，但是用法不同。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The next thing he saw was smoke ________ (rise) from behind the house.   
 ##### 答案 rising   
   
-
 
 # ***rise*** n
 ---
@@ -10362,6 +7590,7 @@ The next thing he saw was smoke ________ (rise) from behind the house.
 > the rise of electronic commerce (e-commerce)    
 > 电子商务的兴起
 
+
 固定搭配
 ---
 - #### give rise to 
@@ -10370,13 +7599,6 @@ The next thing he saw was smoke ________ (rise) from behind the house.
 
 > This may give rise to prejudices of the educated against those with little knowledge of English.  
 > 这可能导致受过教育的人对那些不太懂英语的人产生偏见。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***risk*** n  重难点词汇
@@ -10405,6 +7627,7 @@ The next thing he saw was smoke ________ (rise) from behind the house.
 > **health / fire risk**  
 > a major health / fire risk  
 > 健康/火灾的一大隐患
+
 
 固定搭配
 ---
@@ -10440,13 +7663,6 @@ The next thing he saw was smoke ________ (rise) from behind the house.
 > Mary couldn’t take the risk of leaving her baby alone even for a short time.   
 > 玛丽不敢冒险让她的孩子独自待着，即使是很短的时间。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***risk*** vt  重难点词汇
 ---
@@ -10469,19 +7685,17 @@ The next thing he saw was smoke ________ (rise) from behind the house.
 > You risked your life to save the children.   
 > 你冒着生命危险去救那些孩子。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 risky /'rɪski/ adj 
+
 真题解析
 ---
 ##### 题目  
 Young people may risk ________ (go) deaf if they are exposed to very loud music every day.  
 ##### 答案 going  
   
-
 
 # ***risky*** adj
 ---
@@ -10494,16 +7708,6 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 ---
 1. **危险的；冒险的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rival*** n
@@ -10519,16 +7723,6 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 1. *高义频：* **对手**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rivalry*** n
 ---
@@ -10541,16 +7735,6 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 ---
 1. **（不断的）竞争**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***river*** n
@@ -10565,16 +7749,6 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 ---
 1. *高义频：* **河；江**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***road*** n
@@ -10600,16 +7774,6 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 
 ### 辨析 way, road, path, street, avenue
 五者都可作“路”解，但含义有所不同。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***roadwork*** n
 ---
@@ -10622,16 +7786,6 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 ---
 1. **（常作复数）道路施工**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***roar*** v
@@ -10646,16 +7800,6 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 1. *高义频：* **吼叫；大声喊叫**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***roar*** n
 ---
@@ -10669,16 +7813,6 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 ---
 1. *高义频：* **吼叫声；喊叫声**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***roast*** v
@@ -10699,16 +7833,6 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 > The meat is roasting in the oven.   
 > 肉正在炉子里烤着。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***roast*** adj
 ---
@@ -10725,16 +7849,6 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 > roast pork   
 > 烤猪肉
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***roast*** n
 ---
@@ -10747,16 +7861,6 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 ---
 1. **烤，烘**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rob*** vt
@@ -10774,6 +7878,7 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 > They robbed the rich to help the poor.   
 > 他们劫富济贫。
 
+
 固定搭配
 ---
 - #### rob sb of sth 
@@ -10783,14 +7888,11 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 > The young man robbed her of her bag.   
 > 那个年轻人抢走了她的包。
 
+
 派生词汇
 ---
 robber /'rɒbə(r)/ n 
 robbery /'rɒbəri/ n 
-真题解析
----
-[null]
-
 
 # ***robbery*** n
 ---
@@ -10805,16 +7907,6 @@ robbery /'rɒbəri/ n
 1. *高义频：* **抢劫；盗窃**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***robe*** n
 ---
@@ -10827,16 +7919,6 @@ robbery /'rɒbəri/ n
 ---
 1. **长袍**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***robot*** n
@@ -10851,16 +7933,6 @@ robbery /'rɒbəri/ n
 ---
 1. *高义频：* **机器人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rock*** n
@@ -10888,16 +7960,6 @@ robbery /'rɒbəri/ n
 > Rock’ n’ Roll / a rock band  
 > 摇滚乐/摇滚乐队
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rock*** v
 ---
@@ -10917,16 +7979,6 @@ robbery /'rɒbəri/ n
 > The news rocked the household with surprise.   
 > 这个消息使全家震惊。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rock'n'roll*** 
 ---
@@ -10940,16 +7992,6 @@ robbery /'rɒbəri/ n
 1. **摇滚乐**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rockabilly*** n
 ---
@@ -10962,16 +8004,6 @@ robbery /'rɒbəri/ n
 ---
 1. **乡村摇滚乐（一种由乡村音乐与摇滚音乐结合而成的旋律狂热的轻音乐）**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rocket*** n
@@ -10991,16 +8023,6 @@ robbery /'rɒbəri/ n
 > launch a rocket   
 > 发射火箭
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rocket*** vi
 ---
@@ -11018,16 +8040,6 @@ robbery /'rɒbəri/ n
 > Unemployment has rocketed up again.   
 > 失业人数再次猛增。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rod*** n
 ---
@@ -11041,16 +8053,6 @@ robbery /'rɒbəri/ n
 ---
 1. *高义频：* **杆；竿；棒**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***role*** n
@@ -11084,6 +8086,7 @@ robbery /'rɒbəri/ n
 > a leading role   
 > 重要作用
 
+
 固定搭配
 ---
 - #### play a(n) … role in 
@@ -11092,13 +8095,6 @@ robbery /'rɒbəri/ n
 
 > Farming plays an important role in the country’s economy.   
 > 农业在该国经济中起着重要的作用。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***roll*** v
@@ -11129,18 +8125,12 @@ robbery /'rɒbəri/ n
 > He rolled up the map.   
 > 他卷起地图。
 
+
 固定搭配
 ---
 - #### roll over 
 1. **翻身；打滚**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***roll*** n
@@ -11162,16 +8152,6 @@ robbery /'rɒbəri/ n
 > a chicken / ham roll   
 > 鸡肉卷/火腿卷
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***romance*** n
 ---
@@ -11184,16 +8164,6 @@ robbery /'rɒbəri/ n
 ---
 1. *高义频：* **[U] 浪漫的气氛；[C] 爱情故事**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***romantic*** adj
@@ -11220,16 +8190,6 @@ robbery /'rɒbəri/ n
 > a romantic report   
 > 夸大的报道
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***romantic*** n
 ---
@@ -11243,16 +8203,6 @@ robbery /'rɒbəri/ n
 ---
 1. *高义频：* **浪漫的人；浪漫主义作家 / 音乐家 / 艺术家**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***roof*** n
@@ -11268,16 +8218,6 @@ robbery /'rɒbəri/ n
 1. *高义频：* **(pl roofs) 屋顶**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rooftop*** n
 ---
@@ -11290,16 +8230,6 @@ robbery /'rɒbəri/ n
 ---
 1. **屋顶**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***room*** n
@@ -11330,19 +8260,13 @@ robbery /'rɒbəri/ n
 > There is still much room for improvement.  
 > 还有很大改进的余地。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 James took the magazines off the little table to make room ________ the television.  
 ##### 答案 for  
   
-
 
 # ***rooster*** n
 ---
@@ -11356,16 +8280,6 @@ James took the magazines off the little table to make room ________ the televisi
 ---
 1. *高义频：* **公鸡**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***root*** n
@@ -11391,16 +8305,6 @@ James took the magazines off the little table to make room ________ the televisi
 > Money is often said to be the root of all evil.   
 > 金钱常被说成是万恶之源。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***root*** v
 ---
@@ -11422,16 +8326,6 @@ James took the magazines off the little table to make room ________ the televisi
 > With mother’s words deeply rooted in my soul, I never doubted we would succeed.   
 > 母亲的话深深地根植于我的灵魂，我坚信我们一定会成功。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***roots*** n
 ---
@@ -11444,16 +8338,6 @@ James took the magazines off the little table to make room ________ the televisi
 ---
 1. **根，根基**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rope*** n
@@ -11469,16 +8353,6 @@ James took the magazines off the little table to make room ________ the televisi
 1. *高义频：* **绳；索**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rose*** n
 ---
@@ -11493,16 +8367,6 @@ James took the magazines off the little table to make room ________ the televisi
 1. *高义频：* **玫瑰花**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rosebud*** n
 ---
@@ -11516,16 +8380,6 @@ James took the magazines off the little table to make room ________ the televisi
 ---
 1. *高义频：* **玫瑰花蕾**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rot*** v
@@ -11547,16 +8401,6 @@ James took the magazines off the little table to make room ________ the televisi
 > The warm humid air helped to rot the old fruit.   
 > 空气闷热潮湿，使得放久了的水果加快腐烂。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rot*** n
 ---
@@ -11570,16 +8414,6 @@ James took the magazines off the little table to make room ________ the televisi
 1. **（细菌引起的）腐败病；腐蚀病**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rotating*** adj
 ---
@@ -11592,16 +8426,6 @@ James took the magazines off the little table to make room ________ the televisi
 ---
 1. **旋转的；循环的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rough*** adj
@@ -11651,18 +8475,12 @@ James took the magazines off the little table to make room ________ the televisi
 > It was a rough neighbourhood and it was already dark.   
 > 这是一个暴力多发的地段，并且天已经黑了。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 roughly /'rʌfli/ adv 
 > The paper examined health and welfare surveys from roughly 40,000 Germans.    
 > 这篇论文考察了大约40000名德国人健康与福利的调查报告。
-
-真题解析
----
-[null]
 
 
 # ***roughly*** adv
@@ -11676,16 +8494,6 @@ roughly /'rʌfli/ adv
 ---
 1. *高义频：* **粗略地；粗糙地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***round*** adj
@@ -11715,16 +8523,6 @@ roughly /'rʌfli/ adv
 > a round dozen / day   
 > 一整打/一整天
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***round*** adv
 ---
@@ -11741,16 +8539,6 @@ roughly /'rʌfli/ adv
 > He looked round, but could see nobody.   
 > 他环顾四周，但谁也没看见。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***round*** prep
 ---
@@ -11766,16 +8554,6 @@ roughly /'rʌfli/ adv
 
 > There are eight planets going round the sun.   
 > 有八大行星围绕着太阳转。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***round*** v
@@ -11796,16 +8574,6 @@ roughly /'rʌfli/ adv
 > He rounded the building on his bike several times.  
 > 他骑车绕大厦转了几圈。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***round*** n
 ---
@@ -11820,16 +8588,6 @@ roughly /'rʌfli/ adv
 1. *高义频：* **轮次；一回合；一局**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***round-faced*** adj
 ---
@@ -11842,16 +8600,6 @@ roughly /'rʌfli/ adv
 ---
 1. **圆脸的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***roundabout*** adj
@@ -11873,16 +8621,6 @@ roughly /'rʌfli/ adv
 > You speak in a roundabout way.   
 > 你说话拐弯抹角。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***roundabout*** n
 ---
@@ -11896,16 +8634,6 @@ roughly /'rʌfli/ adv
 ---
 1. *高义频：* **(道路交叉处的) 环形路；迂回路线**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***route*** n
@@ -11924,16 +8652,6 @@ roughly /'rʌfli/ adv
 > **take / follow a route**  
 > take / follow a route   
 > 走某条路线
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***routine*** n
@@ -11962,12 +8680,7 @@ roughly /'rʌfli/ adv
 > a dance routine   
 > 一套舞步
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -11978,7 +8691,6 @@ C.regulation
 D.routine  
 ##### 答案 D  
   
-
 
 # ***routine*** adj
 ---
@@ -11994,16 +8706,6 @@ D.routine
 
 > a routine report   
 > 例行报告
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***row*** n
@@ -12026,6 +8728,7 @@ D.routine
 > He said thanks and smiled a row of perfect teeth.   
 > 他笑着道谢，露出一排整齐美观的牙齿。
 
+
 固定搭配
 ---
 - #### in a row 
@@ -12037,13 +8740,6 @@ D.routine
 
 > I’ve beaten the record three times in a row.   
 > 我已经连续三次打破这一记录了。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***row*** v
@@ -12062,16 +8758,6 @@ D.routine
 > She had to row across the bay to reach the other side.    
 > 她必须划船去海湾的另一边。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***row*** n
 ---
@@ -12088,16 +8774,6 @@ D.routine
 
 > go for a row  
 > 去划船
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***royal*** adj
@@ -12117,16 +8793,6 @@ D.routine
 
 > a royal welcome   
 > 盛大的欢迎
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rub*** vt
@@ -12156,16 +8822,6 @@ D.routine
 > The back of my shoe is rubbing.   
 > 我的鞋后跟磨脚。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rubber*** n
 ---
@@ -12178,16 +8834,6 @@ D.routine
 ---
 1. *高义频：* **[C] 橡皮；黑板擦；[U] 橡胶**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rubbish*** n
@@ -12213,16 +8859,6 @@ D.routine
 > Don’t talk rubbish!   
 > 别说废话！
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rude*** adj
 ---
@@ -12247,6 +8883,7 @@ D.routine
 > in a rude manner   
 > 以一种粗鲁的方式
 
+
 固定搭配
 ---
 - #### be rude to sb 
@@ -12256,13 +8893,10 @@ D.routine
 > You mustn’t be rude to teachers.  
 > 不能对老师无礼。
 
+
 派生词汇
 ---
 rudely /'ruːdli/ adv 
-真题解析
----
-[null]
-
 
 # ***rugby*** n
 ---
@@ -12276,16 +8910,6 @@ rudely /'ruːdli/ adv
 ---
 1. *高义频：* **橄榄球**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ruin*** vt
@@ -12315,16 +8939,6 @@ to make sb lose all his / her money：
 
 > If she loses the court case it will ruin her.   
 > 如果败诉，她就倾家荡产了。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ruin*** n
@@ -12356,6 +8970,7 @@ to make sb lose all his / her money：
 > the ruins of Rome   
 > 古罗马遗迹
 
+
 固定搭配
 ---
 - #### in ruins 
@@ -12366,13 +8981,10 @@ to make sb lose all his / her money：
 > In fifteen terrible seconds a large city lay in ruins.  
 > 在可怕的15秒内，一座大城市就沦为一片废墟。
 
+
 派生词汇
 ---
 ruined /'ruːɪnd/ adj [只用于名词前]
-真题解析
----
-[null]
-
 
 # ***rule*** n
 ---
@@ -12399,16 +9011,6 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 2. *高义频：* **[U] 统治**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rule*** v
 ---
@@ -12429,6 +9031,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 > In the 18th century California was ruled by Spain.   
 > 在18世纪，加利福尼亚由西班牙统治。
 
+
 固定搭配
 ---
 - #### rule out 
@@ -12438,16 +9041,13 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 > We can’t rule out the possibility that he’ll come after all.   
 > 我们不能排除他最终会来的可能性。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The experiment has ________ (排除) the possibility of the existence of any life on that planet, but it does not mean there is no life on other planets. (rule)  
 ##### 答案 ruled out  
   
-
 
 # ***ruler*** n
 ---
@@ -12461,16 +9061,6 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 ---
 1. *高义频：* **尺子；统治者；管理者**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rumor*** n
@@ -12493,16 +9083,6 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 > the rumor about / of his death   
 > 有关他死亡的传言
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rumour*** n
 ---
@@ -12523,16 +9103,6 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 > **rumor about / of**  
 > the rumor about / of his death   
 > 有关他死亡的传言
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***run*** v  重难点词汇
@@ -12586,6 +9156,7 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 
 > We’ve run short of milk.   
 > 我们没牛奶了。
+
 
 固定搭配
 ---
@@ -12656,9 +9227,7 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 1. **跑着穿过；把…匆匆过一遍**  
 
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -12671,7 +9240,6 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 — Oh, you’ll miss the deadline. Time is running ________.  
 ##### 答案 out  
   
-
 
 # ***run*** n  重难点词汇
 ---
@@ -12698,6 +9266,7 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 > the run of the market   
 > 市场走势
 
+
 固定搭配
 ---
 - #### in / over the long run 
@@ -12707,13 +9276,10 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 > A true friend will advise us to do what he thinks is best for us in the long run.   
 > 真正的朋友会建议我们做从长远来看对我们有利的事。
 
+
 派生词汇
 ---
 runner /'rʌnə(r)/ n [C]
-真题解析
----
-[null]
-
 
 # ***running*** adj
 ---
@@ -12743,16 +9309,6 @@ runner /'rʌnə(r)/ n [C]
 > a fast-running river   
 > 湍急的河流
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***running*** n
 ---
@@ -12767,16 +9323,6 @@ runner /'rʌnə(r)/ n [C]
 1. *高义频：* **奔跑；赛跑；运行；运转**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rural*** adj
 ---
@@ -12789,16 +9335,6 @@ runner /'rʌnə(r)/ n [C]
 ---
 1. *高义频：* **农村的；乡民的：**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***rush*** v
@@ -12825,16 +9361,6 @@ runner /'rʌnə(r)/ n [C]
 > rush sb off his feet   
 > 使某人忙得不可开交
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rush*** n
 ---
@@ -12856,16 +9382,6 @@ runner /'rʌnə(r)/ n [C]
 > the rush hour   
 > 高峰时间
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***rust*** vi
 ---
@@ -12879,13 +9395,4 @@ runner /'rʌnə(r)/ n [C]
 1. **生锈**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 

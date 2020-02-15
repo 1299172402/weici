@@ -1,303 +1,4 @@
-
-# ***DJ*** n
----
-英音 'diːdʒeɪ     美音 'diːdʒeɪ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **（电台）音乐唱片节目主持人；舞曲唱片播放员**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***DNA*** n
----
-英音 ˌdiːen'eɪ     美音 ˌdiːen'eɪ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
-
-英文释义
----
-1. *高义频：* **脱氧核糖核酸**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***DVD*** n
----
-英音 ˌdiːviː'diː     美音 ˌdiːviː'diː
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **[C] 数字视盘 (digital versatile disk)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***DVD*** 
----
-英音 ˌdiːviː'diː     美音 ˌdiːviː'diː
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **[C] 数字视盘 (digital versatile disk)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Daisy*** n
----
-英音 'deɪzi     美音 'deɪzi
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **戴茜 (女名)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Danish*** n
----
-英音 'deɪnɪʃ     美音 'deɪnɪʃ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **丹麦语**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Danish*** adj
----
-英音 'deɪnɪʃ     美音 'deɪnɪʃ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **丹麦的；丹麦人的；丹麦语的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***December*** n
----
-英音 dɪ'sembə(r)     美音 dɪ'sembər
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **十二月（Dec.）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Denmark*** n
----
-英音 'denmɑːk     美音 'denmɑːrk
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **丹麦 (北欧国家)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Dollywood*** n
----
-英音 'dɒliwʊd     美音 'dɒliwʊd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **多莱坞 (公园名，位于美国)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Dr*** n
----
-英音 'dɒktə(r)     美音 'dɑːktər
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **[C] 博士；医生 (Doctor)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Dutch*** adj
----
-英音 dʌtʃ     美音 dʌtʃ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **荷兰的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Dutch*** n
----
-英音 dʌtʃ     美音 dʌtʃ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **荷兰人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
+# Dd
 
 # ***dad*** n
 ---
@@ -311,16 +12,6 @@
 1. *高义频：* **[C] 爸爸；爹爹 (daddy)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***daffodil*** n
 ---
@@ -333,16 +24,6 @@
 ---
 1. **水仙花**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***daily*** n
@@ -362,16 +43,6 @@
 
 > The Times is Britain’s oldest national daily.  
 > 《泰晤士报》是英国历史最悠久的全国性日报。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***daily*** adj
@@ -395,16 +66,6 @@
 > be paid on a daily basis  
 > 按日领薪
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***daily*** adv
 ---
@@ -421,16 +82,6 @@
 > Experts say that 20 minutes of walking daily can make you feel less anxious.  
 > 专家说每天走路20分钟有利于减少焦虑。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dairy*** n
 ---
@@ -443,16 +94,6 @@
 ---
 1. **牛奶场**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dam*** n
@@ -472,16 +113,6 @@
 
 > build / construct a dam  
 > 建水坝
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***damage*** vt  重难点词汇
@@ -506,16 +137,6 @@
 四者都有“破坏”之意。
 ### 辨析 damage, hurt, injure, wound
 四者皆有“伤害”之意。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***damage*** n  重难点词汇
 ---
@@ -553,19 +174,13 @@ harm or injury caused when sth is broken or spoiled：
 > He was ordered to pay damages of $30,000.  
 > 他被责令支付3万美元的损害赔偿金。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The accident caused some ________ (损坏) to my car, but it’s nothing serious.  
 ##### 答案 damage  
   
-
 
 # ***damn*** int
 ---
@@ -581,16 +196,6 @@ The accident caused some ________ (损坏) to my car, but it’s nothing serious
 
 > Oh damn! I forgot he was coming.   
 > 真该死！我忘了他要来。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***damp*** n
@@ -608,16 +213,6 @@ The accident caused some ________ (损坏) to my car, but it’s nothing serious
 > The old house smells of damp.  
 > 这所老房子散发着潮湿的气味。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***damp*** adj
 ---
@@ -633,16 +228,6 @@ The accident caused some ________ (损坏) to my car, but it’s nothing serious
 
 > The city where I grew up is very hot and damp in summer.  
 > 我成长的城市夏天又闷热又潮湿。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dance*** v
@@ -666,16 +251,6 @@ The accident caused some ________ (损坏) to my car, but it’s nothing serious
 
 > Life isn’t about how to live through the storm, but how to dance in the rain.  
 > 人生不是如何度过风暴，而是如何在风雨中起舞。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dance*** n
@@ -711,9 +286,7 @@ The accident caused some ________ (损坏) to my car, but it’s nothing serious
 > an evening of music and dance  
 > 歌舞晚会
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 dancer /'dɑːnsə(r)/ n 
@@ -721,10 +294,6 @@ dancer /'dɑːnsə(r)/ n
 > 他舞跳得好/不好。
 
 dancing /'dɑːnsɪŋ/ n [U] 
-真题解析
----
-[null]
-
 
 # ***danger*** n
 ---
@@ -771,16 +340,6 @@ dancing /'dɑːnsɪŋ/ n [U]
 > Among the many dangers which sailors have to face, probably the greatest of all is fog.  
 > 水手们不得不面对的众多危险中，最大的危险可能就是雾了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dangerous*** adj
 ---
@@ -801,16 +360,10 @@ dancing /'dɑːnsɪŋ/ n [U]
 > A little knowledge is a dangerous thing.   
 > 浅学误人。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 dangerously /'deɪndʒərəsli/ adv 
-真题解析
----
-[null]
-
 
 # ***dare*** modal v
 ---
@@ -833,16 +386,6 @@ dangerously /'deɪndʒərəsli/ adv
 
 > No one dared speak of it.  
 > 无人敢提及此事。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dare*** v
@@ -873,16 +416,6 @@ dangerously /'deɪndʒərəsli/ adv
 > They dared Tom to steal a bottle of his father’s whiskey.  
 > 他们激汤姆去偷爸爸的一瓶威士忌。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dare*** aux v
 ---
@@ -896,16 +429,6 @@ dangerously /'deɪndʒərəsli/ adv
 1. **敢于，胆敢**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dare*** n
 ---
@@ -918,16 +441,6 @@ dangerously /'deɪndʒərəsli/ adv
 ---
 1. *高义频：* **[C] 激将；挑战**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dark*** adj
@@ -964,19 +477,17 @@ dangerously /'deɪndʒərəsli/ adv
 > Everything has its dark side.  
 > 任何事物都有其阴暗面。
 
+
 固定搭配
 ---
 - #### a dark horse
 1. **黑马；出乎意料的获胜者**  
 
 
+
 派生词汇
 ---
 darken /'dɑːkən/ v 
-真题解析
----
-[null]
-
 
 # ***dark*** n
 ---
@@ -997,6 +508,7 @@ darken /'dɑːkən/ v
 > She was certainly not afraid of the dark.  
 > 她一点儿也不怕黑。
 
+
 固定搭配
 ---
 - #### in the dark
@@ -1005,13 +517,6 @@ darken /'dɑːkən/ v
 
 > Please tell me how the accident came about. I am still in the dark.  
 > 请告诉我事故的经过。我还蒙在鼓里呢。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dark-skinned*** adj
@@ -1026,16 +531,6 @@ darken /'dɑːkən/ v
 1. **深肤色的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***darken*** v
 ---
@@ -1048,16 +543,6 @@ darken /'dɑːkən/ v
 ---
 1. **变暗；使阴郁；使变暗**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***darkness*** n
@@ -1079,16 +564,6 @@ darken /'dɑːkən/ v
 > Then a man’s voice came out of the darkness.  
 > 接着，黑暗中传来了一个男人的声音。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***darling*** n
 ---
@@ -1102,16 +577,6 @@ darken /'dɑːkən/ v
 1. *高义频：* **[口语] 亲爱的；宝贝儿**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***darling*** adj
 ---
@@ -1124,16 +589,6 @@ darken /'dɑːkən/ v
 ---
 1. *高义频：* **心爱的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dash*** v
@@ -1160,16 +615,6 @@ darken /'dɑːkən/ v
 > dash a vase to bits / pieces   
 > 把花瓶砸得粉碎
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dash*** n
 ---
@@ -1193,16 +638,6 @@ darken /'dɑːkən/ v
 2. *低义频：* **[C] 破折号**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***data*** n
 ---
@@ -1222,16 +657,6 @@ darken /'dɑːkən/ v
 > The data was / were collected through an online survey.  
 > 数据是通过在线调查收集起来的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***database*** n
 ---
@@ -1244,16 +669,6 @@ darken /'dɑːkən/ v
 ---
 1. *高义频：* **[C] 数据库；资料库**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***date*** n
@@ -1295,6 +710,7 @@ darken /'dɑːkən/ v
 4. *低义频：* **[C] 枣**  
 
 
+
 固定搭配
 ---
 - #### out of date 
@@ -1320,13 +736,6 @@ darken /'dɑːkən/ v
 
 > This model is the newest and most up to date.  
 > 这一款是最新的，也是最时尚的。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***date*** v
@@ -1359,6 +768,7 @@ darken /'dɑːkən/ v
 > His designs are so classic; they’ve hardly dated at all.  
 > 他的设计很经典，一点儿也不显得过时。
 
+
 固定搭配
 ---
 - #### date back (to) / date from 
@@ -1370,13 +780,6 @@ darken /'dɑːkən/ v
 
 > Most of the Great Wall dates from the Ming Dynasty.  
 > 大部分长城始建于明朝。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***daughter*** n
@@ -1390,16 +793,6 @@ darken /'dɑːkən/ v
 ---
 1. *高义频：* **[C] 女儿**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dawn*** vi
@@ -1420,16 +813,6 @@ darken /'dɑːkən/ v
 > **It dawned on,that**  
 > It dawned on me that Jo had been right all along.  
 > 我开始明白了乔一直都是对的。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dawn*** n
@@ -1462,16 +845,6 @@ darken /'dɑːkən/ v
 > The book is about the dawn of civilization.   
 > 这本书讲述文明的起源。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dawning*** adj
 ---
@@ -1484,16 +857,6 @@ darken /'dɑːkən/ v
 ---
 1. **开始出现的，开始发展的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***day*** n
@@ -1565,6 +928,7 @@ darken /'dɑːkən/ v
 
 > National Day   
 > 国庆节
+
 
 固定搭配
 ---
@@ -1638,13 +1002,6 @@ darken /'dɑːkən/ v
 > I didn’t find time to say good-bye to you before I left. I regret it to this day.   
 > 走之前来不及跟你告别，我至今后悔不已。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***daylight*** n
 ---
@@ -1660,16 +1017,6 @@ darken /'dɑːkən/ v
 
 > in / at daylight  
 > 在白天/黎明时
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***daytime*** n
@@ -1687,16 +1034,6 @@ darken /'dɑːkən/ v
 > in the daytime   
 > 在白天
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dazzling*** adj
 ---
@@ -1709,16 +1046,6 @@ darken /'dɑːkən/ v
 ---
 1. **令人印象深刻的,特别吸引人的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dead*** adj
@@ -1776,16 +1103,6 @@ darken /'dɑːkən/ v
 > (a) dead silence (= in complete silence)  
 > 死寂；完全安静
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dead*** adv
 ---
@@ -1809,16 +1126,6 @@ darken /'dɑːkən/ v
 > I’m dead tired. I can’t walk any farther.   
 > 我累死了，再也走不动了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***deadline*** n
 ---
@@ -1836,16 +1143,6 @@ darken /'dɑːkən/ v
 > The deadline for applications is this Friday.   
 > 申请截止到本周五。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***deadly*** adv
 ---
@@ -1861,16 +1158,6 @@ darken /'dɑːkən/ v
 
 > deadly serious   
 > 非常严肃
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***deadly*** adj
@@ -1893,16 +1180,6 @@ darken /'dɑːkən/ v
 
 > deadly enemies   
 > 不共戴天的仇敌
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***deaf*** adj
@@ -1934,6 +1211,7 @@ darken /'dɑːkən/ v
 > be deaf to all advice / requests  
 > 对一切劝告/要求充耳不闻
 
+
 固定搭配
 ---
 - #### turn a deaf ear (to) 
@@ -1943,13 +1221,10 @@ darken /'dɑːkən/ v
 > Many of them turned a deaf ear to his advice, even though they knew it to be valuable.   
 > 他们中的许多人对他的建议置之不理，即使他们知道他的建议是有益的。
 
+
 派生词汇
 ---
 deafen /'defn/ vt [常用于被动语态] 
-真题解析
----
-[null]
-
 
 # ***deal*** vi  重难点词汇
 ---
@@ -1959,9 +1234,6 @@ deafen /'defn/ vt [常用于被动语态]
 
 用法点拨  (dealt, dealt)
 
-英文释义
----
-[null]
 固定搭配
 ---
 - #### deal in
@@ -1994,13 +1266,10 @@ to do business with sb：
 > In many people’s opinion, that company, though relatively small, is pleasant to deal with.    
 > 许多人认为那家公司虽小，但跟它做生意却很愉快。
 
+
 派生词汇
 ---
 dealer /'diːlə(r)/ n [C] 
-真题解析
----
-[null]
-
 
 # ***deal*** n  重难点词汇
 ---
@@ -2029,6 +1298,7 @@ an agreement or arrangement, especially in business or politics：
 
 > It’s not a big deal.   
 > 没多大的事。
+
 
 固定搭配
 ---
@@ -2073,13 +1343,6 @@ an agreement or arrangement, especially in business or politics：
 > He and I both knew what the deal was, but we didn't talk about it.  
 > 我和他都知道出了什么事，但是我们都心照不宣。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dealer*** n
 ---
@@ -2093,16 +1356,6 @@ an agreement or arrangement, especially in business or politics：
 1. **（尤指买卖贵重商品的）商人**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dear*** n
 ---
@@ -2115,16 +1368,6 @@ an agreement or arrangement, especially in business or politics：
 ---
 1. *高义频：* **[C] 可爱的人；亲爱的人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dear*** int
@@ -2146,16 +1389,6 @@ an agreement or arrangement, especially in business or politics：
 > **Oh,dear**  
 > Oh, dear!  
 > 哦，天哪！
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dear*** adj
@@ -2185,16 +1418,6 @@ an agreement or arrangement, especially in business or politics：
 
 > Land gets dearer and dearer these years.  
 > 近些年土地越来越贵。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***death*** n
@@ -2227,6 +1450,7 @@ an agreement or arrangement, especially in business or politics：
 > The latest booming is the death of all our hopes.   
 > 最近的爆炸事件使我们所有的希望都化为乌有。
 
+
 固定搭配
 ---
 - #### be bored / scared / frightened to death 
@@ -2235,13 +1459,6 @@ an agreement or arrangement, especially in business or politics：
 
 > She was scared to death of what might happen next.  
 > 她对接下来可能发生的事怕得要死。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***debate*** v  重难点词汇
@@ -2281,16 +1498,6 @@ to think about or discuss sth before deciding what to do：
 > This Christmas I was debating what to give my father.   
 > 我在考虑这个圣诞节送给父亲什么礼物。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***debate*** n  重难点词汇
 ---
@@ -2315,16 +1522,6 @@ to think about or discuss sth before deciding what to do：
 > There is a fierce / heated debate about / on / over the question whether the experiment should be allowed.  
 > 在是否进行这个实验的问题上展开了激烈的争论。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***debt*** n
 ---
@@ -2340,6 +1537,7 @@ to think about or discuss sth before deciding what to do：
 
 > They will send kids to college whatever it takes, even if that means a huge amount of debts.  
 > 他们将不惜一切代价送孩子上大学，即使这会使他们债台高筑。
+
 
 固定搭配
 ---
@@ -2368,13 +1566,6 @@ to think about or discuss sth before deciding what to do：
 1. **还清债务**  
 
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***decade*** n
 ---
@@ -2390,16 +1581,6 @@ to think about or discuss sth before deciding what to do：
 
 > Student borrowing has more than doubled in the past / last decade.  
 > 助学贷款数量在过去的十年中增长了一倍多。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***decay*** v
@@ -2417,16 +1598,6 @@ to think about or discuss sth before deciding what to do：
 > decaying teeth / food   
 > 蛀牙/腐烂的食物
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***deceive*** v
 ---
@@ -2439,16 +1610,6 @@ to think about or discuss sth before deciding what to do：
 ---
 1. **欺骗**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***decent*** adj
@@ -2463,16 +1624,6 @@ to think about or discuss sth before deciding what to do：
 1. **正派的；得体的；相当好的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***decibel*** n
 ---
@@ -2485,16 +1636,6 @@ to think about or discuss sth before deciding what to do：
 ---
 1. **分贝（音量单位）**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***decide*** v
@@ -2533,6 +1674,7 @@ to think about or discuss sth before deciding what to do：
 > We decided against going on a holiday abroad for lack of money.    
 > 因为缺钱，我们决定不去国外度假了。
 
+
 固定搭配
 ---
 - #### decide on / upon 
@@ -2541,13 +1683,6 @@ to think about or discuss sth before deciding what to do：
 
 > Have you decided on a date for the wedding?  
 > 你们定好婚礼日期了吗？
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***decision*** n
@@ -2585,9 +1720,7 @@ to think about or discuss sth before deciding what to do：
 > pass a decision   
 > 通过一项决议
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 decisive /dɪ'saɪsɪv/ adj 
@@ -2601,10 +1734,6 @@ decisive /dɪ'saɪsɪv/ adj
 > She has played a decisive role in the peace negotiations.   
 > 她在和谈中起了决定性作用。
 
-真题解析
----
-[null]
-
 
 # ***deck*** n
 ---
@@ -2617,16 +1746,6 @@ decisive /dɪ'saɪsɪv/ adj
 ---
 1. **甲板**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***declare*** v  重难点词汇
@@ -2678,16 +1797,6 @@ to state sth firmly and clearly：
 > If you have nothing to declare, go through the Green Channel.    
 > 如果你没有东西要申报，那就走绿色通道。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***decline*** n
 ---
@@ -2708,16 +1817,6 @@ to state sth firmly and clearly：
 > **sharp decline in**  
 > There was a sharp decline in population.  
 > 人口急剧下降。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***decline*** v
@@ -2757,12 +1856,7 @@ to state sth firmly and clearly：
 > Mary declined Jay’s invitation to dinner.   
 > 玛丽谢绝了杰伊吃饭的邀请。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2773,7 +1867,6 @@ C.fail
 D.decline  
 ##### 答案 D  
   
-
 
 # ***decorate*** v
 ---
@@ -2795,16 +1888,6 @@ D.decline
 > We plan to spend the weekend decorating.  
 > 我们打算利用这个周末的时间来装饰房间。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***decoration*** n
 ---
@@ -2823,16 +1906,6 @@ D.decline
 
 > Christmas decorations   
 > 圣诞节装饰品
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***decrease*** n
@@ -2854,16 +1927,6 @@ D.decline
 > **a decrease of**  
 > There has been a decrease of nearly 6% in the number of visitors to the museum.   
 > 参观博物馆的人数下降近6%。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***decrease*** v
@@ -2889,16 +1952,6 @@ D.decline
 > People planted trees on the waste hills to decrease water and soil loss.   
 > 人们在荒丘上种植了树木，以减少水土流失。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dedicated*** adj
 ---
@@ -2911,16 +1964,6 @@ D.decline
 ---
 1. **专心致志的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dedication*** n
@@ -2935,16 +1978,6 @@ D.decline
 1. **专心致志**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***deduce*** vt
 ---
@@ -2958,16 +1991,6 @@ D.decline
 1. *高义频：* **推论；推断 (infer)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***deduction*** n
 ---
@@ -2980,16 +2003,6 @@ D.decline
 ---
 1. **推理；推断**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***deed*** n
@@ -3012,16 +2025,6 @@ D.decline
 
 > Their deeds did not agree with their words.   
 > 他们言行不一。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***deep*** adj
@@ -3080,16 +2083,10 @@ D.decline
 > In the painting, a young woman sits alone and is deep in thought.   
 > 画中的年轻女子独自静坐，陷入沉思。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 deepen /'diːpən/ v 
-真题解析
----
-[null]
-
 
 # ***deep*** adv
 ---
@@ -3113,18 +2110,12 @@ deepen /'diːpən/ v
 > I want students to dig deep within themselves for inspiration and ideas.    
 > 我想让学生深刻挖掘内心的灵感和思想。
 
+
 固定搭配
 ---
 - #### deep down
 1. **心底；本质上**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***deep-breathing*** adj
@@ -3139,16 +2130,6 @@ deepen /'diːpən/ v
 1. **深呼吸的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***deepen*** vt
 ---
@@ -3162,16 +2143,6 @@ deepen /'diːpən/ v
 1. **使 ... 加深； 使 ... 强烈**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***deepen*** vi
 ---
@@ -3184,16 +2155,6 @@ deepen /'diːpən/ v
 ---
 1. **加深； 变浓**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***deeply*** adv
@@ -3223,19 +2184,13 @@ deepen /'diːpən/ v
 > breathe deeply   
 > 深呼吸
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I have been _______(深深地) impressed by a number of experiences in her life.   
 ##### 答案 deeply  
   
-
 
 # ***deer*** n
 ---
@@ -3248,16 +2203,6 @@ I have been _______(深深地) impressed by a number of experiences in her life.
 ---
 1. *高义频：* **[C] (pl deer ) 鹿**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***defeat*** n
@@ -3279,16 +2224,6 @@ I have been _______(深深地) impressed by a number of experiences in her life.
 > **admit / accept defeat**  
 > admit / accept defeat  
 > 承认失败
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***defeat*** vt
@@ -3316,16 +2251,6 @@ to stop sth from being successful：
 > **defeat the object / purpose of**  
 > Don’t let your arms relax as that would defeat the object / purpose of the exercise.  
 > 不要放松手臂，那样会失去锻炼的效果。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***defence*** n
@@ -3365,16 +2290,6 @@ to stop sth from being successful：
 4. *低义频：* **[C] (体育运动中) 后卫；防守队员**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***defend*** v
 ---
@@ -3410,16 +2325,6 @@ to stop sth from being successful：
 
 ### 辨析 defend, guard, protect
 1. 三者都含有“保护”之意。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***defense*** n
 ---
@@ -3458,16 +2363,6 @@ to stop sth from being successful：
 4. *低义频：* **[C] (体育运动中) 后卫；防守队员**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***define*** vt
 ---
@@ -3493,16 +2388,6 @@ to stop sth from being successful：
 > The Constitution defines the powers of the President.  
 > 《宪法》规定了总统的权力。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***definite*** adj
 ---
@@ -3522,16 +2407,6 @@ to stop sth from being successful：
 > It’s definite that he’ll come.   
 > 他肯定要来。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***definitely*** adv
 ---
@@ -3547,16 +2422,6 @@ to stop sth from being successful：
 
 > The museum is deﬁnitely worth visiting.  
 > 这家博物馆绝对值得参观。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***definition*** n
@@ -3576,16 +2441,6 @@ to stop sth from being successful：
 
 > My definition of happiness is “the capacity for enjoyment”.  
 > 我对幸福的定义是“快乐的能力”。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***degree*** n
@@ -3623,6 +2478,7 @@ to stop sth from being successful：
 > In most countries, a university degree can give you a flying start in life.    
 > 在大多数国家，大学学位能给你的人生一个展翅高飞的起点。
 
+
 固定搭配
 ---
 - #### to a (certain) degree / to some degree
@@ -3631,13 +2487,6 @@ to stop sth from being successful：
 
 > To a certain degree, it’s a matter of logic.   
 > 在一定程度上，这是个逻辑问题。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***delay*** v  重难点词汇
@@ -3663,16 +2512,6 @@ to stop sth from being successful：
 > My flight was delayed because of the heavy rain.   
 > 我乘坐的航班因为大雨而延误了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***delay*** n  重难点词汇
 ---
@@ -3697,19 +2536,13 @@ to stop sth from being successful：
 > Please send him the urgent information without delay.  
 > 请马上把这紧急的消息发给他。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The World Health Organization gave a warning to the public without any ________ (延误) when the virus of H1N1 hit Mexico in April, 2009.   
 ##### 答案 delay   
   
-
 
 # ***delegate*** n
 ---
@@ -3723,16 +2556,6 @@ The World Health Organization gave a warning to the public without any ________ 
 1. **代表**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***delete*** n
 ---
@@ -3745,16 +2568,6 @@ The World Health Organization gave a warning to the public without any ________ 
 ---
 1. *高义频：* **[C] (键盘) 删除键**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***delete*** vt
@@ -3771,16 +2584,6 @@ The World Health Organization gave a warning to the public without any ________ 
 
 > delete a document by mistake   
 > 误删文档
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***deliberate*** adj
@@ -3800,16 +2603,6 @@ The World Health Organization gave a warning to the public without any ________ 
 
 > She spoke in a slow and deliberate way.   
 > 她说话慢条斯理，不慌不忙。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***deliberately*** adv
@@ -3833,12 +2626,7 @@ The World Health Organization gave a warning to the public without any ________ 
 > He packed up his possessions slowly and deliberately.  
 > 他慢慢地、小心翼翼地收拾好自己的物品。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3849,7 +2637,6 @@ C.deliberately
 D.clumsily  
 ##### 答案 deliberately  
   
-
 
 # ***delicacy*** n
 ---
@@ -3862,16 +2649,6 @@ D.clumsily
 ---
 1. **佳肴；珍馐**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***delicate*** adj
@@ -3915,16 +2692,6 @@ D.clumsily
 > the delicate international situation  
 > 微妙的国际形势
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***delicious*** adj
 ---
@@ -3941,19 +2708,13 @@ D.clumsily
 > Doesn’t it smell delicious!   
 > 闻起来真香啊！
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Honestly I thought the fried chicken was ________ (可口的).   
 ##### 答案 delicious  
   
-
 
 # ***delight*** n  重难点词汇
 ---
@@ -3995,16 +2756,6 @@ great pleasure：
 > It is a delight to see my parents so fit and healthy.   
 > 看到父母身体这么健康我真高兴。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***delight*** vt  重难点词汇
 ---
@@ -4025,6 +2776,7 @@ great pleasure：
 > What delighted the fans was that the player performed extremely well in the table tennis tournament.   
 > 使球迷们欣喜的是这位运动员在乒乓球锦标赛上表现极为出色。
 
+
 固定搭配
 ---
 - #### delight in
@@ -4033,13 +2785,6 @@ great pleasure：
 
 > The boss delights in complicating a problem, which makes others confused.   
 > 这位老板喜欢把问题复杂化，这让其他人摸不着头脑。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***delighted*** adj
@@ -4074,16 +2819,6 @@ very pleased and happy：
 > 高兴的神情
 
 不能用very修饰delighted。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***delightful*** adj
 ---
@@ -4096,16 +2831,6 @@ very pleased and happy：
 ---
 1. *高义频：* **(事物) 令人高兴的；使人快乐的； (人) 讨人喜欢的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***deliver*** vt
@@ -4150,16 +2875,6 @@ to give a speech, talk, etc. or other official statement：
 > Her husband had to deliver the baby himself.   
 > 她丈夫不得不亲自接生。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***delivery*** n
 ---
@@ -4187,16 +2902,6 @@ to give a speech, talk, etc. or other official statement：
 2. *低义频：* **分娩；生产**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***delta*** n
 ---
@@ -4210,16 +2915,6 @@ to give a speech, talk, etc. or other official statement：
 ---
 1. *高义频：* **三角洲**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***demand*** n  重难点词汇
@@ -4257,6 +2952,7 @@ to give a speech, talk, etc. or other official statement：
 > In America the demand for oil has grown by 22 percent since 1990.  
 > 1990年以来，美国对石油的需求增长了22%。
 
+
 固定搭配
 ---
 - #### in demand 
@@ -4270,16 +2966,13 @@ to give a speech, talk, etc. or other official statement：
 1. **[正式用语] 一经要求**  
 
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The Harry Potter books are quite popular; they are ________ great demand  in this city.   
 ##### 答案 in  
   
-
 
 # ***demand*** vt  重难点词汇
 ---
@@ -4313,16 +3006,6 @@ The Harry Potter books are quite popular; they are ________ great demand  in thi
 > This work demands care and patience.   
 > 这项工作需要细心和耐心。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***demanding*** adj
 ---
@@ -4349,16 +3032,6 @@ always wanting attention or expecting very high standards of people：
 
 > a demanding boss   
 > 苛刻的老板
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***demonstrate*** v
@@ -4389,16 +3062,6 @@ always wanting attention or expecting very high standards of people：
 > demonstrate against sb / sth   
 > 示威反对某人/某事
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dentist*** n
 ---
@@ -4411,16 +3074,6 @@ always wanting attention or expecting very high standards of people：
 ---
 1. *高义频：* **[C] 牙医**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***deny*** vt
@@ -4460,12 +3113,7 @@ always wanting attention or expecting very high standards of people：
 > No one should be denied a good education. / A good education should be denied to no one.  
 > 任何人都不能被剥夺接受良好教育的权利。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4477,7 +3125,6 @@ C.reject
 D.decline  
 ##### 答案 deny  
   
-
 
 # ***depart*** vi
 ---
@@ -4498,16 +3145,6 @@ D.decline
 > **departed for**  
 > The flight departed for Paris.   
 > 这趟航班飞往巴黎。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***department*** n
@@ -4532,16 +3169,6 @@ D.decline
 > the English department  
 > 英语系
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***departure*** n
 ---
@@ -4563,16 +3190,6 @@ D.decline
 > a departure from normal practice  
 > 对常规做法的偏离
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***depend*** vi  重难点词汇
 ---
@@ -4584,6 +3201,7 @@ D.decline
 英文释义
 ---
 1. 
+
 
 固定搭配
 ---
@@ -4630,11 +3248,13 @@ D.decline
 > — I don’t know. It depends.   
 > 我不知道，那得看情况。
 
+
 派生词汇
 ---
 dependence /dɪ'pendəns/ n 
 > He is his mother’s dependence.   
 > 他是母亲的依靠。
+
 
 真题解析
 ---
@@ -4651,7 +3271,6 @@ D.It depends
 Don’t always d________ on others. You should learn to rely on yourself.  
 ##### 答案 depend  
   
-
 
 # ***dependent*** adj
 ---
@@ -4672,16 +3291,6 @@ Don’t always d________ on others. You should learn to rely on yourself.
 > **dependent on**  
 > Children as young as ten are becoming dependent on social media for their sense of self-worth.  
 > 年仅十岁的孩子都开始依赖社交媒体来寻找他们的自我价值感。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***deposit*** n
@@ -4709,16 +3318,6 @@ Don’t always d________ on others. You should learn to rely on yourself.
 
 > They usually ask you to pay $100 as a deposit.   
 > 他们通常要求支付100美元作为订金。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***deposit*** vt
@@ -4757,16 +3356,6 @@ Don’t always d________ on others. You should learn to rely on yourself.
 > As the river slows down, it deposits a layer of soil.  
 > 河水流速变慢时，一层泥沙便沉积下来。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***depress*** vt
 ---
@@ -4795,9 +3384,7 @@ Don’t always d________ on others. You should learn to rely on yourself.
 > Several factors combined to depress the housing market.   
 > 几个因素加在一起令房地产市场低迷。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 depressed /dɪ'prest/ adj 
@@ -4806,10 +3393,6 @@ depressed /dɪ'prest/ adj
 > 覆水难收，不要因此沮丧。
 
 depressing /dɪ'presɪŋ/ adj 
-真题解析
----
-[null]
-
 
 # ***depressed*** adj
 ---
@@ -4827,16 +3410,6 @@ depressing /dɪ'presɪŋ/ adj
 > There’s no point in getting depressed about it now — it’s no use crying over spilt milk.   
 > 现在为这事沮丧没有用——覆水难收。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***depressing*** adj
 ---
@@ -4849,16 +3422,6 @@ depressing /dɪ'presɪŋ/ adj
 ---
 1. **令人沮丧的；令人抑郁的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***depression*** n
@@ -4881,16 +3444,6 @@ depressing /dɪ'presɪŋ/ adj
 
 > His family business was ruined in the Great Depression of the early l930s.    
 > 他的家族企业毁于20世纪30年代初期的经济大萧条。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***depth*** n
@@ -4921,6 +3474,7 @@ depressing /dɪ'presɪŋ/ adj
 > We have expressed the depth of our gratitude to them.   
 > 我们向他们表达了深深的谢意。
 
+
 固定搭配
 ---
 - #### in depth 
@@ -4933,16 +3487,13 @@ depressing /dɪ'presɪŋ/ adj
 > I haven’t looked at the report in depth yet.   
 > 我还没有仔细阅读这份报告。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 On June 27, 2012, the Jiaolong reached a ________ (深度) of 7,062 meters in the Pacific Ocean.  
 ##### 答案 depth  
   
-
 
 # ***descend*** v
 ---
@@ -4955,16 +3506,6 @@ On June 27, 2012, the Jiaolong reached a ________ (深度) of 7,062 meters in th
 ---
 1. **下来；下降**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***descendant*** n
@@ -4981,16 +3522,6 @@ On June 27, 2012, the Jiaolong reached a ________ (深度) of 7,062 meters in th
 
 > Many of them are descendants of the original settlers.  
 > 他们中许多人都是早期移民的后裔。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***describe*** vt
@@ -5023,16 +3554,10 @@ On June 27, 2012, the Jiaolong reached a ________ (深度) of 7,062 meters in th
 > Words cannot describe my joy.   
 > 我的快乐难以言表。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 descriptive /dɪ'skrɪptɪv/ adj 
-真题解析
----
-[null]
-
 
 # ***description*** n
 ---
@@ -5050,6 +3575,7 @@ descriptive /dɪ'skrɪptɪv/ adj
 > He gave us a brief description of the accident.   
 > 他向我们简单地描述了那次事故的经过。
 
+
 固定搭配
 ---
 - #### beyond description
@@ -5059,16 +3585,13 @@ descriptive /dɪ'skrɪptɪv/ adj
 > The grand sight of Mount Huangshan is beyond description.   
 > 黄山的壮丽美景难以形容。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The book gives a short ________ (描述) of the city.   
 ##### 答案 description  
   
-
 
 # ***desert*** n
 ---
@@ -5081,16 +3604,6 @@ The book gives a short ________ (描述) of the city.
 ---
 1. *高义频：* **[C] & [U] 沙漠；荒原**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***desert*** vt
@@ -5114,18 +3627,12 @@ The book gives a short ________ (描述) of the city.
 > Mike’s confidence seemed to have deserted him.   
 > 迈克似乎丧失了信心。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 deserted /dɪ'zɜːtɪd/ adj 
 > a deserted village   
 > 荒芜的村庄
-
-真题解析
----
-[null]
 
 
 # ***desertification*** n
@@ -5139,16 +3646,6 @@ deserted /dɪ'zɜːtɪd/ adj
 ---
 1. **（土地的）沙漠化**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***deserve*** vt  重难点词汇
@@ -5185,9 +3682,7 @@ to earn sth, either good or bad, because of sth that you have done：
 > What comes first is to keep an open mind, because everyone’s ideas deserve consideration.    
 > 首先要保持一个开放的心态，因为每个人的想法都值得考虑。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 deserved /dɪ'zɜːvd/ adj 
@@ -5202,10 +3697,6 @@ deserving /dɪ'zɜːvɪŋ/ adj
 
 > the deserving poor   
 > 值得帮助的穷人
-
-真题解析
----
-[null]
 
 
 # ***design*** n
@@ -5239,16 +3730,6 @@ deserving /dɪ'zɜːvɪŋ/ adj
 > **has designs on**  
 > She has designs on his money.  
 > 她对他的钱财有企图。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***design*** vt
@@ -5286,16 +3767,6 @@ to plan or develop sth for a specific purpose：
 > It is said that the early European playing-cards were designed for entertainment and education.   
 > 据说早期欧洲的纸牌游戏是为娱乐和教育而设计的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***designer*** adj
 ---
@@ -5312,16 +3783,6 @@ to plan or develop sth for a specific purpose：
 > designer clothes   
 > 名牌服装
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***designer*** n
 ---
@@ -5337,16 +3798,6 @@ to plan or develop sth for a specific purpose：
 
 > I hope I’ll work in a computer company as a program designer.  
 > 我希望自己在一家电脑公司当一名程序设计师。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***desire*** n  重难点词汇
@@ -5371,16 +3822,6 @@ to plan or develop sth for a specific purpose：
 
 > Confucius once said, “At seventy I can follow my heart’s desire.”   
 > 孔子说过：“七十而从心所欲。”
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***desire*** vt  重难点词汇
@@ -5408,16 +3849,6 @@ to plan or develop sth for a specific purpose：
 
 ### 辨析 desire, wish, want
 三者都含有“想”、“希望”之意。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***desk*** n
 ---
@@ -5433,16 +3864,6 @@ to plan or develop sth for a specific purpose：
 
 > be / sit at the / one’s desk   
 > 在办公；在读书
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***despair*** n
@@ -5467,6 +3888,7 @@ to plan or develop sth for a specific purpose：
 > He has never fallen into despair.   
 > 他从不悲观失望。
 
+
 固定搭配
 ---
 - #### in despair 
@@ -5475,13 +3897,6 @@ to plan or develop sth for a specific purpose：
 
 > Lance put his head on the doctor’s desk in despair.    
 > 兰斯绝望地趴在医生的桌子上。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***despair*** vi
@@ -5502,16 +3917,6 @@ to plan or develop sth for a specific purpose：
 > **despair of**  
 > He did not despair of victory in the end.  
 > 他没有失去赢得最后胜利的信心。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***desperate*** adj
@@ -5544,16 +3949,10 @@ to plan or develop sth for a specific purpose：
 > The man lost in the desert was desperate for water.  
 > 在沙漠中迷路的人极度渴望得到水。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 desperately   /'despərətli/ adv 
-真题解析
----
-[null]
-
 
 # ***despite*** prep
 ---
@@ -5571,12 +3970,7 @@ desperately   /'despərətli/ adv
 > 尽管又矮又胖，乔依然是个优秀的篮球运动员。
 
 despite 与 in spite of 意思相同，但 despite 较文雅一些。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -5587,7 +3981,6 @@ C.in
 D.to  
 ##### 答案 B  
   
-
 
 # ***dessert*** n
 ---
@@ -5600,16 +3993,6 @@ D.to
 ---
 1. *高义频：* **[C] & [U] (饭后) 甜点**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***destination*** n
@@ -5627,16 +4010,6 @@ D.to
 > They were eager to reach their destination before lunchtime.  
 > 他们急于在午餐前到达目的地。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***destiny*** n
 ---
@@ -5649,16 +4022,6 @@ D.to
 ---
 1. **命运；天命**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***destroy*** vt  重难点词汇
@@ -5691,16 +4054,6 @@ to damage sth so badly that it can no longer be used or no longer exists：
 > The dog attacked a child and had to be destroyed.   
 > 那只狗袭击了一个小孩，所以要被杀掉。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***destruction*** n
 ---
@@ -5716,16 +4069,6 @@ to damage sth so badly that it can no longer be used or no longer exists：
 
 > The flood caused serious destruction to the railway.  
 > 洪水严重毁坏了铁路。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***detail*** n
@@ -5743,6 +4086,7 @@ to damage sth so badly that it can no longer be used or no longer exists：
 > Tell me more details about the job.   
 > 多告诉我一些关于这项工作的具体情况。
 
+
 固定搭配
 ---
 - #### in detail 
@@ -5759,16 +4103,17 @@ to damage sth so badly that it can no longer be used or no longer exists：
 > I can’t go into details now; it would take too long.  
 > 我现在不能细说，太费时间了。
 
+
 派生词汇
 ---
 detailed /'diːteɪld/ adj 
+
 真题解析
 ---
 ##### 题目  
 We’d better discuss everything _______ (详细地) before we work out the plan.   
 ##### 答案 in detail  
   
-
 
 # ***detect*** vt
 ---
@@ -5788,16 +4133,6 @@ We’d better discuss everything _______ (详细地) before we work out the plan
 > Many forms of cancer can be cured if detected early.  
 > 如果发现得早，许多癌症都可以治愈。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***detective*** n
 ---
@@ -5813,16 +4148,6 @@ We’d better discuss everything _______ (详细地) before we work out the plan
 
 > a detective story   
 > 侦探小说
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***determination*** n
@@ -5846,16 +4171,6 @@ We’d better discuss everything _______ (详细地) before we work out the plan
 > **the determination to**  
 > The important thing in life is to have a great aim, and the determination to attain it  
 > 人生最重要的事情是确定一个伟大的目标，并下定决心去实现它。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***determine*** v
@@ -5903,16 +4218,6 @@ We’d better discuss everything _______ (详细地) before we work out the plan
 > He has determined on going tomorrow.   
 > 他已决定明天去。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***determined*** adj
 ---
@@ -5942,16 +4247,6 @@ We’d better discuss everything _______ (详细地) before we work out the plan
 > She gave me a determined look — the kind that said she wouldn’t change her mind.  
 > 她给了我一个坚定的眼神——表明她是不会改变主意的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***detour*** n
 ---
@@ -5964,16 +4259,6 @@ We’d better discuss everything _______ (详细地) before we work out the plan
 ---
 1. **迂路；绕行之路**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***develop*** v  重难点词汇
@@ -6032,20 +4317,18 @@ We’d better discuss everything _______ (详细地) before we work out the plan
 > When they got back home, they developed the photos.   
 > 他们回到家后，把照片冲洗了出来。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 developed /dɪ'veləpt/ adj 
 developing /dɪ'veləpɪŋ/ adj 
+
 真题解析
 ---
 ##### 题目  
 Hopefully in 2025 we will no longer be e-mailing each other, for we_______(develop) more convenient electronic communication tools by then.  
 ##### 答案 will have developed  
   
-
 
 # ***development*** n
 ---
@@ -6074,16 +4357,6 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 > Technological developments in the last few decades have been breathtaking.   
 > 过去几十年里的技术进步非常惊人。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***device*** n
 ---
@@ -6100,16 +4373,6 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 > a water-saving device   
 > 节水装置
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***devil*** n
 ---
@@ -6122,16 +4385,6 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 ---
 1. *高义频：* **[常与the连用] 魔鬼**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***devote*** vt
@@ -6154,6 +4407,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 > She devoted all her life to medical work for Chinese women and children.   
 > 她为中国的妇女儿童医疗事业贡献了毕生精力。
 
+
 固定搭配
 ---
 - #### devote oneself to
@@ -6162,13 +4416,6 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 
 > If you have a job, do devote yourself to it and finally you’ll succeed.   
 > 如果你有一份工作，务必全身心地投入，最终你会成功的。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***devoted*** adj
@@ -6186,16 +4433,6 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 > **to,devoted**  
 > Her son, to whom she was so devoted, went abroad ten years ago.  
 > 她深爱的儿子10年前出国了。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***devotion*** n
@@ -6218,16 +4455,6 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 > I respected his devotion to teaching.   
 > 我敬重他对教学的热爱。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***diabetes*** n
 ---
@@ -6240,16 +4467,6 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 ---
 1. **糖尿病**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***diagnose*** vt
@@ -6264,16 +4481,6 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 1. **诊断**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***diagram*** n
 ---
@@ -6287,16 +4494,6 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 1. *高义频：* **[C] 图表；示意图**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dial*** n
 ---
@@ -6309,16 +4506,6 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 ---
 1. *高义频：* **[C] (电话机的) 拨号盘**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dial*** v
@@ -6339,16 +4526,6 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 > To get the police, dial 110.   
 > 报警请拨打110。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dialect*** n
 ---
@@ -6361,16 +4538,6 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 ---
 1. *高义频：* **[C] & [U] 地方话；方言**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dialog*** n
@@ -6385,16 +4552,6 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 1. *高义频：* **[C] 对话；对白：**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dialogue*** n
 ---
@@ -6407,16 +4564,6 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 ---
 1. *高义频：* **[C] 对话；对白：**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***diamond*** n
@@ -6437,16 +4584,6 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 2. *高义频：* **[C] 菱形**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***diary*** n
 ---
@@ -6463,16 +4600,6 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 > **keep a diary**  
 > It’s a good habit to keep a diary.   
 > 记日记是个好习惯。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dictation*** n
@@ -6500,19 +4627,13 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 > Hand in your dictations, please.   
 > 请把你们的听写交上来。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The English teacher gives the class a ________ (听写) almost every day.   
 ##### 答案 dictation  
   
-
 
 # ***dictionary*** n
 ---
@@ -6528,16 +4649,6 @@ The English teacher gives the class a ________ (听写) almost every day.
 
 > look up a word in a dictionary   
 > 查词典
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***die*** vi  重难点词汇
@@ -6567,6 +4678,7 @@ The English teacher gives the class a ________ (听写) almost every day.
 
 > He watched his cigarette die.   
 > 他看着他的香烟渐渐熄灭。
+
 
 固定搭配
 ---
@@ -6627,9 +4739,7 @@ to slowly become less strong：
 > As a result, many species are quickly dying out.   
 > 结果，许多物种正在迅速灭绝。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -6640,7 +4750,6 @@ You may drink, smoke, be overweight and still reduce your risk of _____ (die) ea
 Although the wind has died ________, the rain remains steady, so you still need a raincoat.  
 ##### 答案 away / down  
   
-
 
 # ***diet*** vi
 ---
@@ -6656,16 +4765,6 @@ Although the wind has died ________, the rain remains steady, so you still need 
 
 > She’s always dieting but she never seems to lose any weight.   
 > 她总在节食，但体重似乎从未减轻。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***diet*** n
@@ -6690,6 +4789,7 @@ Although the wind has died ________, the rain remains steady, so you still need 
 2. *高义频：* **[C] (为健康或减肥的) 规定饮食**  
 
 
+
 固定搭配
 ---
 - #### be / go on a diet
@@ -6698,13 +4798,6 @@ Although the wind has died ________, the rain remains steady, so you still need 
 
 > When I go on a diet, I eat only cucumbers, and that reduces my weight quickly.   
 > 我节食的时候只吃黄瓜，迅速减轻了体重。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***differ*** vi
@@ -6733,6 +4826,7 @@ Although the wind has died ________, the rain remains steady, so you still need 
 > We differ on / over the matter.   
 > 我们在这件事上意见不一致。
 
+
 固定搭配
 ---
 - #### I beg to differ
@@ -6744,13 +4838,6 @@ Although the wind has died ________, the rain remains steady, so you still need 
 
 > — I beg to differ. Opposites sometimes do attract.  
 > 抱歉，我不敢苟同。意见相反的人有时也会互相吸引。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***difference*** n
@@ -6785,6 +4872,7 @@ Although the wind has died ________, the rain remains steady, so you still need 
 > They settled their differences and became friends again.  
 > 他们消除了分歧，言归于好。
 
+
 固定搭配
 ---
 - #### make a / no difference
@@ -6797,13 +4885,6 @@ Although the wind has died ________, the rain remains steady, so you still need 
 > **make,difference**  
 > Whatever she says will not make any difference to our arrangements.   
 > 无论她说什么，都不会对我们的安排有影响。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***different*** adj
@@ -6832,12 +4913,11 @@ Although the wind has died ________, the rain remains steady, so you still need 
 > She resigned and moved to a different job.  
 > 她辞了职，改做另一份工作。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 differently /'dɪfrəntli/ adv 
+
 真题解析
 ---
 ##### 题目  
@@ -6848,7 +4928,6 @@ I enjoyed studying difference kinds of cars and planes. (改错)
 The way he did it was different _______ what we were used to.  
 ##### 答案 from  
   
-
 
 # ***differentiate*** v
 ---
@@ -6861,16 +4940,6 @@ The way he did it was different _______ what we were used to.
 ---
 1. *低义频：* **vi & vt 区别；使...不同于 (distinguish); vi 区别对待**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***difficult*** adj
@@ -6902,16 +4971,10 @@ The way he did it was different _______ what we were used to.
 > He is a difficult child.  
 > 他是个难相处的孩子。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 difficultly /'dɪfɪkəlt/ adv 
-真题解析
----
-[null]
-
 
 # ***difficulty*** n
 ---
@@ -6971,19 +5034,13 @@ difficultly /'dɪfɪkəlt/ adv
 > The tests vary in difficulty.  
 > 测试的难易程度有所不同。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 You can’t imagine what difficulty we had ________ (walk) home in the snowstorm.  
 ##### 答案 walking  
   
-
 
 # ***dig*** v
 ---
@@ -7001,6 +5058,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 > **dig for**  
 > dig for gold / dig a hole  
 > 掘金/挖洞
+
 
 固定搭配
 ---
@@ -7034,13 +5092,6 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 > People in many places are digging up the old folk stories.    
 > 许多地区的人都在搜集古老的民间故事。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***digest*** v
 ---
@@ -7066,16 +5117,6 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 > As Francis Bacon once said, “Some books are to be tasted, others to be swallowed, and some few to be chewed and digested.”   
 > 诚如弗朗西斯·培根曾经说过的：“书有可浅尝者，有可吞食者，少数则须咀嚼消化。”
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***digest*** n
 ---
@@ -7088,16 +5129,6 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 ---
 1. *高义频：* **[C] 摘要；文摘**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***digital*** adj
@@ -7114,16 +5145,6 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 > the digital age / a digital camera  
 > 数字时代/数码相机
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dignity*** n
@@ -7149,16 +5170,6 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 > Ladies and gentlemen should always act with great dignity.   
 > 绅士、淑女应该始终保持端庄得体的举止。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dilemma*** n
 ---
@@ -7180,16 +5191,6 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 > She faced a dilemma about whether to accept the invitation or not.  
 > 她陷入两难境地，不知是否接受邀请。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***diligence*** n
 ---
@@ -7205,16 +5206,6 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 > Diligence is the mother of good luck.  
 > 好运来自勤奋。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***diligent*** adj
@@ -7232,16 +5223,6 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 > a diligent student  
 > 勤奋的学生
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dim*** v
 ---
@@ -7258,16 +5239,6 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 > The light in the theater begins to dim when the film is about to be shown.   
 > 即将放映电影时，电影院里的灯光开始逐渐变暗。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dim*** adj
 ---
@@ -7283,16 +5254,6 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 > The light is too dim for me to see.   
 > 光线太暗，我看不见。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dimension*** n
@@ -7323,16 +5284,6 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 > Her job added a new dimension to her life.  
 > 她的工作为她的生活增添了新的内容。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dine*** vi
 ---
@@ -7350,16 +5301,6 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 > The couple would dine out together once a week.   
 > 这对夫妻每星期一起出去吃顿饭。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dining*** n
 ---
@@ -7376,16 +5317,6 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 > a dining hall  
 > 餐厅；食堂
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dining-room*** n
 ---
@@ -7398,16 +5329,6 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 ---
 1. **餐厅；食堂**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dinner*** n
@@ -7434,16 +5355,6 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 > give a dinner for / in honour of sb  
 > 设宴款待某人
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dinosaur*** n
 ---
@@ -7456,16 +5367,6 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 ---
 1. *高义频：* **[C] 恐龙**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dioxide*** n
@@ -7483,16 +5384,6 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 > carbon dioxide  
 > 二氧化碳
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dip*** vi
 ---
@@ -7505,16 +5396,6 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 ---
 1. *高义频：* **浸一浸；浸水**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dip*** vt
@@ -7537,16 +5418,6 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 > Joe stepped aside and dipped his head down.   
 > 乔闪到一边，低下了头。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dip*** v
 ---
@@ -7559,16 +5430,6 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 ---
 1. **下降**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***diploma*** n
@@ -7590,16 +5451,6 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 > At the end of the twelfth grade, American students receive the high school diploma.   
 > 美国学生在十二年级结束时获得高中学历证书。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***diplomacy*** n
 ---
@@ -7613,16 +5464,10 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 1. *高义频：* **[U] 外交；外交手腕：**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 diplomat /'dɪpləmæt/ n [C]
-真题解析
----
-[null]
-
 
 # ***direct*** adj
 ---
@@ -7647,16 +5492,6 @@ diplomat /'dɪpləmæt/ n [C]
 > a direct flight (= a flight that doesn’t stop) to London  
 > 直达伦敦的航班
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***direct*** adv
 ---
@@ -7673,16 +5508,6 @@ diplomat /'dɪpləmæt/ n [C]
 > **go direct to**  
 > I must go direct to Paris.   
 > 我必须直达巴黎。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***direct*** v
@@ -7727,16 +5552,6 @@ to control or be in charge of sb / sth：
 > I want to direct my efforts more towards my own projects.  
 > 我想把精力更多地投入到自己的项目中去。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***direction*** n
 ---
@@ -7774,16 +5589,6 @@ to control or be in charge of sb / sth：
 > She asks directions and then tells her friends.  
 > 她先问路，然后再告诉她的朋友们。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***directly*** conj
 ---
@@ -7799,16 +5604,6 @@ to control or be in charge of sb / sth：
 
 > Directly the teacher came in everyone was quiet.   
 > 老师一进来大家就安静了。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***directly*** adv
@@ -7826,16 +5621,6 @@ to control or be in charge of sb / sth：
 > She drove directly to the hospital.  
 > 她驱车直奔医院。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***director*** n
 ---
@@ -7849,16 +5634,6 @@ to control or be in charge of sb / sth：
 1. *高义频：* **[C] 导演；校长；经理；指挥**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***directory*** n
 ---
@@ -7871,16 +5646,6 @@ to control or be in charge of sb / sth：
 ---
 1. *高义频：* **[C] 名录；号码簿；目录**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dirt*** n
@@ -7901,16 +5666,6 @@ to control or be in charge of sb / sth：
 > Wash the dirt off / out of the car.  
 > 洗掉汽车上的污泥。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dirty*** adj
 ---
@@ -7929,16 +5684,6 @@ to control or be in charge of sb / sth：
 
 > He’s a dirty player.  
 > 他是个没有体育道德的运动员。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***disability*** n
@@ -7961,16 +5706,6 @@ to control or be in charge of sb / sth：
 > I had a learning disability from an early age.  
 > 从小我就在学习方面有障碍。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***disabled*** adj
 ---
@@ -7992,16 +5727,6 @@ to control or be in charge of sb / sth：
 > The children here are mentally disabled, but physically capable.   
 > 这里的孩子都是智障儿童，但他们的体格是健全的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***disadvantage*** n
 ---
@@ -8022,6 +5747,7 @@ to control or be in charge of sb / sth：
 > Every advantage has its disadvantage.  
 > 有利必有弊。
 
+
 固定搭配
 ---
 - #### at a disadvantage
@@ -8030,13 +5756,6 @@ to control or be in charge of sb / sth：
 
 > I feel rather at a disadvantage talking to her because she’s so clever.   
 > 她太伶俐，我跟她讲话总觉得吃亏。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***disagree*** vi
@@ -8066,19 +5785,13 @@ to control or be in charge of sb / sth：
 > Onions disagree with me.  
 > 我一吃洋葱就不舒服。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 They failed to reach a settlement, because they ________ (不同意) too much with each other.   
 ##### 答案 disagreed  
   
-
 
 # ***disagreement*** n
 ---
@@ -8099,16 +5812,6 @@ They failed to reach a settlement, because they ________ (不同意) too much wi
 > **disagreements among,about**  
 > There were disagreements among doctors about the best way to treat the disease.   
 > 对治疗这种疾病的最佳方案医生们意见不一。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***disappear*** vi
@@ -8135,19 +5838,17 @@ They failed to reach a settlement, because they ________ (不同意) too much wi
 > That species disappeared in the Ice Age.  
 > 那个物种早在冰河时代就绝迹了。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 disappearance /ˌdɪsə'pɪərəns/ n 
+
 真题解析
 ---
 ##### 题目  
 The symptoms of flu may be unpleasant, but they ________ (消失) within a few days.  
 ##### 答案 disappear  
   
-
 
 # ***disappearance*** n
 ---
@@ -8167,16 +5868,6 @@ The symptoms of flu may be unpleasant, but they ________ (消失) within a few d
 
 > Police are investigating the woman’s disappearance.   
 > 警方正在调查这名女子的失踪案。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***disappoint*** vt
@@ -8198,18 +5889,12 @@ The symptoms of flu may be unpleasant, but they ________ (消失) within a few d
 > I’m sorry to disappoint you, but I can’t come after all.  
 > 真抱歉让你失望，可我实在不能来。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 disappointing /ˌdɪsə'pɔɪntɪŋ/ adj 
 > a disappointing exam result  
 > 令人失望的考试成绩
-
-真题解析
----
-[null]
 
 
 # ***disappointed*** adj
@@ -8251,16 +5936,6 @@ disappointing /ˌdɪsə'pɔɪntɪŋ/ adj
 > One by one, the applicants left the interviewer’s office with disappointed looks on their faces.  
 > 一个接着一个，求职者面带失望的表情离开了面试间。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***disappointing*** adj
 ---
@@ -8273,16 +5948,6 @@ disappointing /ˌdɪsə'pɔɪntɪŋ/ adj
 ---
 1. **令人失望的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***disappointment*** n
@@ -8311,16 +5976,6 @@ disappointing /ˌdɪsə'pɔɪntɪŋ/ adj
 > The performance was a big disappointment to us.  
 > 表演让我们大失所望。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***disapprove*** v
 ---
@@ -8341,17 +5996,11 @@ disappointing /ˌdɪsə'pɔɪntɪŋ/ adj
 2. *高义频：* **不批准；不同意**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
  disapproval /ˌdɪsə'pruːvl/ n [U] 
 disapproving /ˌdɪsə'pruːvɪŋ/ adj 
-真题解析
----
-[null]
-
 
 # ***disaster*** n
 ---
@@ -8377,16 +6026,6 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 > Because of the weather, the activity was a total disaster.  
 > 由于天气不好，活动彻底搞砸了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***disbelief*** n
 ---
@@ -8400,16 +6039,6 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 1. **不信；怀疑；疑惑**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***disc*** n
 ---
@@ -8422,16 +6051,6 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 ---
 1. **唱片；（计算机）磁盘**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***discharge*** vt
@@ -8449,16 +6068,6 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 > They discharged the cargo at New York.   
 > 他们在纽约卸下了货物。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***discharge*** n
 ---
@@ -8471,16 +6080,6 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 ---
 1. *高义频：* **[C] & [U] 卸货；排出；释放；退役：**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***discipline*** n
@@ -8517,16 +6116,6 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 > Studying at home requires a good deal of discipline.  
 > 在家学习需要具备良好的自制力。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***disco*** n
 ---
@@ -8541,16 +6130,6 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 1. *高义频：* **迪斯科舞会；迪斯科舞厅**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***disconnect*** v
 ---
@@ -8563,16 +6142,6 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 ---
 1. **使不连接；切断**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***discount*** n
@@ -8599,16 +6168,6 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 > Visit the website and you can buy the book at a 20% discount.   
 > 访问网站，你就可以以八折的优惠买这本书。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***discount*** vt
 ---
@@ -8627,16 +6186,6 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 
 > At first, in spite of disliking him, she did not discount his affection.   
 > 起初，虽然不喜欢他，但她并没有漠视他的爱。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***discourage*** vt
@@ -8659,17 +6208,11 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 > Do not let any failure discourage you, for you can never tell how close you may be to victory.   
 > 不要因任何失败而灰心，因为你永远不清楚自己离成功可能有多近。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 discouraged /dɪs'kʌrɪdʒd/ adj 
 discouraging /dɪs'kʌrɪdʒɪŋ/ adj 
-真题解析
----
-[null]
-
 
 # ***discover*** vt
 ---
@@ -8702,16 +6245,10 @@ discouraging /dɪs'kʌrɪdʒɪŋ/ adj
 > Did you know when Columbus discovered the New World?  
 > 你知道哥伦布何时发现新大陆的吗？
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 discoverer /dɪ'skʌvərə(r)/ n 
-真题解析
----
-[null]
-
 
 # ***discovery*** n
 ---
@@ -8732,16 +6269,6 @@ discoverer /dɪ'skʌvərə(r)/ n
 > **make,discoveries**  
 > The Hubble Telescope has allowed astronomers to make significant discoveries.   
 > 哈勃望远镜使天文学家有了重大发现。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***discrimination*** n
@@ -8771,16 +6298,6 @@ discoverer /dɪ'skʌvərə(r)/ n
 > He showed great discrimination in his choice of friends.   
 > 他在择友方面颇具慧眼。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***discuss*** vt
 ---
@@ -8803,16 +6320,6 @@ discoverer /dɪ'skʌvərə(r)/ n
 
 > We discussed how to do it and who should do it.  
 > 我们讨论了怎样做这件事和由谁做这件事。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***discussion*** n
@@ -8841,16 +6348,6 @@ discoverer /dɪ'skʌvərə(r)/ n
 > His remarks didn’t relate to the topic under discussion (= being talked about).  
 > 他说的话与正在讨论的话题无关。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***disease*** n
 ---
@@ -8867,16 +6364,6 @@ discoverer /dɪ'skʌvərə(r)/ n
 > A disease known is half cured.   
 > 病情弄清楚，病根除一半。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***disguise*** n
 ---
@@ -8891,16 +6378,6 @@ discoverer /dɪ'skʌvərə(r)/ n
 1. *高义频：* **伪装**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***disguise*** vt
 ---
@@ -8914,16 +6391,6 @@ discoverer /dɪ'skʌvərə(r)/ n
 1. *高义频：* **伪装；假扮；遮掩**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***disgust*** vt
 ---
@@ -8936,16 +6403,6 @@ discoverer /dɪ'skʌvərə(r)/ n
 ---
 1. *高义频：* **(使) 反感；(使) 恶心**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***disgust*** n
@@ -8961,16 +6418,6 @@ discoverer /dɪ'skʌvərə(r)/ n
 1. *高义频：* **厌恶；反感；气愤**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***disgusted*** adj
 ---
@@ -8983,16 +6430,6 @@ discoverer /dɪ'skʌvərə(r)/ n
 ---
 1. *高义频：* **厌恶的；反感的；气愤的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***disgusting*** adj
@@ -9010,16 +6447,6 @@ discoverer /dɪ'skʌvərə(r)/ n
 > It was disgusting to find that rubbish was piled everywhere.   
 > 看到垃圾堆得到处都是，真恶心啊。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dish*** vt
 ---
@@ -9033,6 +6460,7 @@ discoverer /dɪ'skʌvərə(r)/ n
 1. *高义频：* **盛…于盘中：**  
 
 
+
 固定搭配
 ---
 - #### dish up
@@ -9042,16 +6470,13 @@ discoverer /dɪ'skʌvərə(r)/ n
 > Familyfun magazine dishes up these and more interesting activities in over 180 colorful pages.  
 > 《家庭娱乐》杂志用180多页彩页把这些内容和更多有趣的活动娓娓道来。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Making Chinese______ (dish) is seen as especially troublesome.   
 ##### 答案 dishes  
   
-
 
 # ***dish*** n
 ---
@@ -9083,16 +6508,6 @@ Making Chinese______ (dish) is seen as especially troublesome.
 > We have at least three Italian dishes on the menu.    
 > 我们的菜单上至少有3种意大利菜。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dishwasher*** n
 ---
@@ -9105,16 +6520,6 @@ Making Chinese______ (dish) is seen as especially troublesome.
 ---
 1. **洗碗碟机**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***disk*** n
@@ -9131,16 +6536,6 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 > a hard disk  
 > 硬盘
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dislike*** vt
@@ -9162,16 +6557,6 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 > I dislike big cities.  
 > 我不喜欢大都市。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dislike*** n
@@ -9199,16 +6584,6 @@ Making Chinese______ (dish) is seen as especially troublesome.
 > **likes and dislikes**  
 > A good manager should know his regular guests’ likes and dislikes.  
 > 称职的经理应该知道老主顾的好恶。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dismiss*** vt
@@ -9250,16 +6625,6 @@ Making Chinese______ (dish) is seen as especially troublesome.
 > He just laughed and dismissed my proposal as unrealistic.   
 > 他只是笑，认为我的建议不切实际，拒绝考虑。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***disobey*** v
 ---
@@ -9272,16 +6637,6 @@ Making Chinese______ (dish) is seen as especially troublesome.
 ---
 1. *高义频：* **不服从；违抗**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***disorder*** n
@@ -9316,16 +6671,6 @@ Making Chinese______ (dish) is seen as especially troublesome.
 > Men are more likely to suffer from stress-related disorders.   
 > 男人更易患上因压力而导致的疾病。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***disorganised*** adj
 ---
@@ -9338,16 +6683,6 @@ Making Chinese______ (dish) is seen as especially troublesome.
 ---
 1. **杂乱无章的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***display*** n
@@ -9375,6 +6710,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 > He made a display of his learning.   
 > 他卖弄了一下自己的学问。
 
+
 固定搭配
 ---
 - #### on display
@@ -9383,13 +6719,6 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 > Jane paused in front of a counter where some attractive ties were on display.  
 > 简在一个柜台前停了下来，柜台上面展示着一些好看的领带。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***display*** vt
@@ -9410,16 +6739,6 @@ Making Chinese______ (dish) is seen as especially troublesome.
 > Prices have to be displayed outside restaurants.   
 > 必须在饭店外面公示价格。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***disposal*** n
 ---
@@ -9434,16 +6753,6 @@ Making Chinese______ (dish) is seen as especially troublesome.
 1. *高义频：* **清除；处理**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dispose*** vt
 ---
@@ -9457,16 +6766,6 @@ Making Chinese______ (dish) is seen as especially troublesome.
 1. *高义频：* **布置；安排**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dispute*** vt
 ---
@@ -9479,16 +6778,6 @@ Making Chinese______ (dish) is seen as especially troublesome.
 ---
 1. *高义频：* **对...表示异议 / 反对**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dispute*** n
@@ -9508,16 +6797,6 @@ Making Chinese______ (dish) is seen as especially troublesome.
 > be involved in / get into a dispute   
 > 介入争论/卷入纠纷
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***disqualify*** v
 ---
@@ -9530,16 +6809,6 @@ Making Chinese______ (dish) is seen as especially troublesome.
 ---
 1. **（因犯规而）取消……的资格**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dissolve*** v
@@ -9559,16 +6828,6 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 > Water dissolves organic matter and minerals from the soil.  
 > 水溶解土壤中的有机物和矿物质。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***distance*** n
@@ -9607,6 +6866,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 > The coldness and distance in her voice took me by surprise.  
 > 她话语中透出的冷淡和疏远让我感到意外。
 
+
 固定搭配
 ---
 - #### at / from a distance
@@ -9627,16 +6887,13 @@ Making Chinese______ (dish) is seen as especially troublesome.
 1. **保持距离　**  
 
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The faces of four famous American presidents on Mount Rushmore can be seen ________ a distance of 60 miles.  
 ##### 答案 at / from  
   
-
 
 # ***distance*** v
 ---
@@ -9649,16 +6906,6 @@ The faces of four famous American presidents on Mount Rushmore can be seen _____
 ---
 1. **使与……保持距离，撇清和……的关系**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***distant*** adj
@@ -9697,16 +6944,6 @@ The faces of four famous American presidents on Mount Rushmore can be seen _____
 > He is my distant cousin / relative.  
 > 他是我的远房表兄弟/远亲。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***distinct*** adj
 ---
@@ -9735,16 +6972,6 @@ easily or clearly seen, heard, smelled, etc.：
 > distinct writing  
 > 清晰的笔迹
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***distinction*** n
 ---
@@ -9768,16 +6995,6 @@ easily or clearly seen, heard, smelled, etc.：
 > the chief distinction of Chinese poetry  
 > 中国诗歌的主要特征
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***distinctive*** adj
 ---
@@ -9790,16 +7007,6 @@ easily or clearly seen, heard, smelled, etc.：
 ---
 1. **与众不同的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***distinguish*** v
@@ -9835,16 +7042,10 @@ to recognize the difference between two things or people：
 > He distinguished himself by winning 4 prizes.  
 > 他因获得4个奖项而名声大噪。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 distinguished /dɪ'stɪŋɡwɪʃt/ adj 
-真题解析
----
-[null]
-
 
 # ***distraction*** n
 ---
@@ -9857,16 +7058,6 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 ---
 1. **分心；分散注意力**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***distribute*** vt
@@ -9885,16 +7076,6 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 > Clothes and blankets have been distributed among / to the earthquake victims.   
 > 已经向地震灾民发放了衣服和毯子。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***distribution*** n
 ---
@@ -9908,16 +7089,6 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 ---
 1. *高义频：* **[U] 分配；配送；[C] & [U] 分布**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***district*** n
@@ -9936,16 +7107,6 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 > The parks in the coastal district are very pretty.   
 > 沿海地区的公园很美。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***disturb*** vt
 ---
@@ -9963,16 +7124,6 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 > Sorry to disturb you, but can I talk to you for a minute?   
 > 抱歉打扰您，我能跟您聊一会儿吗？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***disturbing*** adj
 ---
@@ -9988,16 +7139,6 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 
 > a disturbing piece of news  
 > 令人不安的消息
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dive*** vi
@@ -10029,16 +7170,6 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 > I know I am smart enough to dive into an area that is totally unknown.  
 > 我知道自己足够聪明去潜心研究一个完全未知的领域。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dive*** n
 ---
@@ -10056,16 +7187,6 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 > She made a beautiful dive.  
 > 她做了一个漂亮的跳水动作。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***diver*** n
 ---
@@ -10079,16 +7200,6 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 ---
 1. *高义频：* **潜水员**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***diverse*** adj
@@ -10106,16 +7217,6 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 > Living in the city will put you in touch with people from diverse cultures.   
 > 生活在城市里会让你接触到来自各种文化背景的人。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***diversity*** n
 ---
@@ -10130,16 +7231,6 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 1. *高义频：* **多种多样；多样性**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***divert*** v
 ---
@@ -10152,16 +7243,6 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 ---
 1. **使改道**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***divide*** v
@@ -10206,19 +7287,13 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 > We can achieve a lot when we learn to let our differences unite, rather than divide us.  
 > 当我们学会让差异将我们团结起来而不是彼此对立，我们就能收获颇丰。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 There is much work to do, so we’ll have to ________ (分) it between us.  
 ##### 答案 divide  
   
-
 
 # ***division*** n
 ---
@@ -10252,16 +7327,6 @@ There is much work to do, so we’ll have to ________ (分) it between us.
 > Division of opinion among themselves contributed to their defeat.   
 > 他们之间的意见分歧导致了他们的失败。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***divorce*** v
 ---
@@ -10281,16 +7346,6 @@ There is much work to do, so we’ll have to ________ (分) it between us.
 > They divorced when I was four.  
 > 我四岁的时候他们离婚了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***divorce*** n
 ---
@@ -10304,16 +7359,10 @@ There is much work to do, so we’ll have to ________ (分) it between us.
 1. *高义频：* **[U] & [C] 离婚；分离**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 divorced /dɪ'vɔːst/ adj 
-真题解析
----
-[null]
-
 
 # ***dizzy*** adj
 ---
@@ -10329,16 +7378,6 @@ divorced /dɪ'vɔːst/ adj
 
 > The airplane climbed to a dizzy height.  
 > 飞机升到令人头晕目眩的高度。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***do*** n
@@ -10357,19 +7396,13 @@ divorced /dɪ'vɔːst/ adj
 > dos and don’ts / do’s and don’ts  
 > 该做和不该做的事情；注意事项
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 done /dʌn/ adj ［不用于名词前］
 > **Are you done with**  
 > Are you done with the book?  
 > 你看完这本书了吗？
-
-真题解析
----
-[null]
 
 
 # ***do*** aux v
@@ -10413,12 +7446,7 @@ done /dʌn/ adj ［不用于名词前］
 > My secretary worked later than I did at the office.  
 > 秘书下班比我晚。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -10429,7 +7457,6 @@ C.don’t they
 D.do they  
 ##### 答案 B  
   
-
 
 # ***do*** v
 ---
@@ -10500,6 +7527,7 @@ D.do they
 > — Sure. will $20 do?  
 > 当然可以，20美元够吗？
 
+
 固定搭配
 ---
 - #### be / have to do with
@@ -10551,9 +7579,7 @@ D.do they
 > I don’t have any sugar so you’ll have to do without.  
 > 我没有糖了，所以你只好将就一下。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -10569,7 +7595,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 ##### 答案 without  
   
 
-
 # ***dock*** n
 ---
 英音 dɒk     美音 dɑːk
@@ -10581,16 +7606,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 ---
 1. **码头**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dock*** vi
@@ -10604,16 +7619,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 ---
 1. **驶入码头**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***doctor*** n
@@ -10635,16 +7640,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 > Doctor of Laws / Medicine  
 > 法学/医学博士
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***document*** n
 ---
@@ -10657,16 +7652,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 ---
 1. *高义频：* **文件；公文；文档**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***document*** vt
@@ -10681,16 +7666,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 1. **记录；记载（详情）**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***documentary*** n
 ---
@@ -10703,16 +7678,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 ---
 1. **纪录片**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dog*** n
@@ -10736,16 +7701,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 > Dog does not eat dog.  
 > 同类不相残。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***doll*** n
 ---
@@ -10758,16 +7713,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 ---
 1. *高义频：* **[C] 玩偶；玩具娃娃**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dollar*** n
@@ -10782,16 +7727,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 1. *高义频：* **[C] (美国、加拿大等国的货币单位) 元**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dolphin*** n
 ---
@@ -10804,16 +7739,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 ---
 1. **海豚**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***domain*** n
@@ -10830,16 +7755,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 > domain name  
 > ［计算机］域名
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***domestic*** adj
@@ -10866,16 +7781,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 > domestic and foreign news  
 > 国内外新闻
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dominate*** v
 ---
@@ -10897,16 +7802,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 > The Acropolis dominates the city of Athens.   
 > 雅典的卫城高耸于雅典全城之上。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***donate*** v
@@ -10931,16 +7826,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 > It is more meaningful to donate / contribute books and sports goods to children in need.  
 > 把书和体育用品捐给需要的孩子们更有意义。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***donate…to…*** 
 ---
@@ -10956,16 +7841,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 > The retired man donated most of his savings to the school damaged by the earthquake.  
 > 这位退休老人把大部分积蓄都捐给了那所在地震中受到破坏的学校。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***donation*** n
@@ -10983,16 +7858,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 > a generous / large / small donation  
 > 慷慨的/大量的/少量的捐助
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***donkey*** n
 ---
@@ -11008,16 +7873,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 > as stubborn as a donkey  
 > 非常固执
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***door*** n
@@ -11035,6 +7890,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 > at the door  
 > 在门口
 
+
 固定搭配
 ---
 - #### (from) door to door
@@ -11043,13 +7899,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 > On the ﬁrst day of the Spring Festival, most families go out to say greetings from door to door.  
 > 春节第一天，大多数家庭挨家挨户去拜年。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***doormat*** n
@@ -11063,16 +7912,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 ---
 1. **门前擦鞋垫**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***doorway*** n
@@ -11093,16 +7932,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 > There were no windows and the doorway was just big enough to get through.    
 > 这里没有窗户，房门只够一个人进出。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***doping*** n
 ---
@@ -11116,16 +7945,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 1. **服兴奋剂**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dormitory*** n
 ---
@@ -11138,16 +7957,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 ---
 1. *高义频：* **[C] 寝室；宿舍 (dorm)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dot*** vt
@@ -11166,16 +7975,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 > The sky was dotted with stars.   
 > 繁星满天。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dot*** n
 ---
@@ -11192,18 +7991,12 @@ During the war there was a serious lack of food. It was not unusual that even th
 > a blue tie with white dots  
 > 带白点的蓝领带
 
+
 固定搭配
 ---
 - #### on the dot
 1. **[非正式用语] 准时地**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***double*** v
@@ -11223,16 +8016,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 > As a matter of fact, the prices may double at Christmas time.   
 > 事实上，圣诞期间价格可能会上涨一倍。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***double*** adj
@@ -11267,16 +8050,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 > My name is Green with a double “e” and my phone number is two four double 2.   
 > 我叫格林，有两个e字母，我的电话号码是2422。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***double*** n
 ---
@@ -11309,16 +8082,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 > Is that a single or a double you want?   
 > 你要的是单人间还是双人间？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***double*** adv
 ---
@@ -11336,16 +8099,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 > She often sees double and can’t tell how far away things are.    
 > 她总是看重影，判断不出东西离她有多远。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***double-decker*** n
 ---
@@ -11358,16 +8111,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 ---
 1. **双层公共汽车**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***doubt*** n  重难点词汇
@@ -11413,6 +8156,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 > Doubt is the key to knowledge.  
 > 怀疑是知识的钥匙。
 
+
 固定搭配
 ---
 - #### in doubt
@@ -11438,13 +8182,6 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 > Without doubt, the number of jobs in information technology will multiply.   
 > 毫无疑问，信息技术方面的工作会大大增加。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***doubt*** vt  重难点词汇
@@ -11477,16 +8214,10 @@ doubt后接宾语从句时，如果主句为疑问句或否定 句，连接词�
 > — I doubt it.   
 > 我看是没有了。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 doubtful /'daʊtfl/ adj 
-真题解析
----
-[null]
-
 
 # ***doubtful*** adj
 ---
@@ -11500,16 +8231,6 @@ doubtful /'daʊtfl/ adj
 1. **怀疑的, 不肯定的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dove*** n
 ---
@@ -11522,16 +8243,6 @@ doubtful /'daʊtfl/ adj
 ---
 1. **鸽子**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***down*** adj
@@ -11548,16 +8259,6 @@ doubtful /'daʊtfl/ adj
 
 > Tim’s been feeling down because of his low test scores.  
 > 因为考试分数不高，蒂姆最近情绪很低落。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***down*** prep
@@ -11579,16 +8280,6 @@ doubtful /'daʊtfl/ adj
 > 顺流而下
 
 从首都去边远地区、从城市去农村、从北方去南方、从上游到下游、从内地去沿海等通常用down， 反之常用up。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***down*** adv
 ---
@@ -11632,16 +8323,6 @@ doubtful /'daʊtfl/ adj
 > Please write down your answers on the paper.  
 > 请将答案写在纸上。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***downhill*** adj
 ---
@@ -11655,16 +8336,6 @@ doubtful /'daʊtfl/ adj
 1. **向山下的，下坡的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***downhill*** adv
 ---
@@ -11677,16 +8348,6 @@ doubtful /'daʊtfl/ adj
 ---
 1. **向山下，下坡**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***download*** v
@@ -11704,19 +8365,13 @@ doubtful /'daʊtfl/ adj
 > He used to download information from the Internet and made good use of it.   
 > 他过去常常从网上下载资料并充分利用。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I’m happy that my 80-year-old grandma has learned how to ________ (下载) from the Internet.  
 ##### 答案 download  
   
-
 
 # ***download*** n
 ---
@@ -11729,16 +8384,6 @@ I’m happy that my 80-year-old grandma has learned how to ________ (下载) fro
 ---
 1. **下载；已下载的数据资料**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***downstairs*** adv
@@ -11756,19 +8401,13 @@ I’m happy that my 80-year-old grandma has learned how to ________ (下载) fro
 > He went downstairs to have breakfast.  
 > 他下楼吃早饭。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Rose rushed ________ (向楼下) to answer the door.   
 ##### 答案 downstairs  
   
-
 
 # ***downstairs*** adj
 ---
@@ -11785,16 +8424,6 @@ Rose rushed ________ (向楼下) to answer the door.
 > a downstairs room  
 > 楼下的房间
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***downstream*** adv
 ---
@@ -11807,16 +8436,6 @@ Rose rushed ________ (向楼下) to answer the door.
 ---
 1. **向下游；随波而下**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***downtown*** n
@@ -11834,16 +8453,6 @@ Rose rushed ________ (向楼下) to answer the door.
 > Do you like living in the downtown?   
 > 你喜欢住在市中心吗？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***downtown*** adj
 ---
@@ -11859,16 +8468,6 @@ Rose rushed ________ (向楼下) to answer the door.
 
 > We live in the downtown area, so it is easy to go anywhere from the hotel by public transport.   
 > 我们住在市中心，所以乘坐公共交通从旅馆去任何地方都很方便。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***downtown*** adv
@@ -11887,16 +8486,6 @@ Rose rushed ________ (向楼下) to answer the door.
 > Let’s go downtown shopping this afternoon.   
 > 我们今天下午到商业区去购物吧。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***downward*** adj
 ---
@@ -11912,16 +8501,6 @@ Rose rushed ________ (向楼下) to answer the door.
 
 > He is on the downward path.  
 > 他正在走下坡路。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***downward*** adv
@@ -11943,16 +8522,6 @@ Rose rushed ________ (向楼下) to answer the door.
 > Man struggles upwards, water flows downwards.  
 > 人往高处走，水往低处流。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dozen*** n
 ---
@@ -11973,6 +8542,7 @@ Rose rushed ________ (向楼下) to answer the door.
 > More than a dozen students in that school were sent abroad to study medicine last year.   
 > 去年，那所学校派了十几个学生到国外学医。
 
+
 固定搭配
 ---
 - #### dozens of
@@ -11982,16 +8552,13 @@ Rose rushed ________ (向楼下) to answer the door.
 > The hurricane blew away dozens of farming villages and brought down thousands of trees.  
 > 飓风刮走了很多村庄，刮倒了数千棵树。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 She went to the bookstore and bought dozens ________ books.  
 ##### 答案 of  
   
-
 
 # ***draft*** vt
 ---
@@ -12007,16 +8574,6 @@ She went to the bookstore and bought dozens ________ books.
 
 > draft a bill  
 > 起草法案
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***draft*** n
@@ -12044,16 +8601,6 @@ She went to the bookstore and bought dozens ________ books.
 
 > One day in 1918, my Uncle Milton received his draft notice.   
 > 1918年的一天，我叔叔弥尔顿收到了征兵通知。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***drag*** v
@@ -12098,6 +8645,7 @@ She went to the bookstore and bought dozens ________ books.
 > We all have a good laugh, so the time never drags.  
 > 我们都很开心，所以时间总是过得很快。
 
+
 固定搭配
 ---
 - #### drag one’s feet
@@ -12106,13 +8654,6 @@ She went to the bookstore and bought dozens ________ books.
 
 > It is not a good idea to drag your feet when the work needs to be done.  
 > 拖延需要完成的工作不好。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dragon*** n
@@ -12127,16 +8668,6 @@ She went to the bookstore and bought dozens ________ books.
 ---
 1. *高义频：* **龙**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***drama*** n
@@ -12164,16 +8695,6 @@ She went to the bookstore and bought dozens ________ books.
 
 > a drama school  
 > 戏剧学校
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dramatic*** adj
@@ -12205,16 +8726,10 @@ exciting and impressive：
 > a dramatic victory  
 > 激动人心的胜利
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 dramatically /drə'mætɪkli/ adv 
-真题解析
----
-[null]
-
 
 # ***dramatically*** adv
 ---
@@ -12227,16 +8742,6 @@ dramatically /drə'mætɪkli/ adv
 ---
 1. **戏剧性地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***draw*** v  重难点词汇
@@ -12293,6 +8798,7 @@ draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘画颜�
 > The seaside here draws a lot of tourists every summer.  
 > 这儿的海滨每年夏天都吸引很多游客。
 
+
 固定搭配
 ---
 - #### draw in
@@ -12316,13 +8822,6 @@ draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘画颜�
 1. *高义频：* **拖延；拉长：**  
 
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***draw*** n  重难点词汇
 ---
@@ -12339,16 +8838,6 @@ draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘画颜�
 > **ended in a draw**  
 > The game ended in a draw.   
 > 比赛结果是平局。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***drawback*** n
@@ -12370,16 +8859,6 @@ draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘画颜�
 > What some people regard as a drawback is seen as a plus by many others.   
 > 一些人眼里的缺点在另一些人眼里就是优点。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***drawer*** n
 ---
@@ -12392,16 +8871,6 @@ draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘画颜�
 ---
 1. *高义频：* **[C] 抽屉**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***drawing*** n
@@ -12428,16 +8897,6 @@ draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘画颜�
 > A famous artist did the drawing.   
 > 这幅画出自名家之手。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dread*** v
 ---
@@ -12450,16 +8909,6 @@ draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘画颜�
 ---
 1. *高义频：* **害怕；畏惧**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dreadful*** adj
@@ -12474,16 +8923,10 @@ draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘画颜�
 1. *高义频：* **糟糕透顶的；极糟的；可怕的 (terrible)**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
  dreadfully /'dredfəli/ adv 
-真题解析
----
-[null]
-
 
 # ***dream*** v
 ---
@@ -12521,16 +8964,10 @@ draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘画颜�
 > I never dreamed (that) I’d actually get the job.  
 > 我从没想过会真的得到那份工作。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 dreamer /'driːmə(r)/ n 
-真题解析
----
-[null]
-
 
 # ***dream*** n
 ---
@@ -12567,12 +9004,7 @@ dreamer /'driːmə(r)/ n
 > That meal was an absolute dream.   
 > 那顿饭真是太棒了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -12583,7 +9015,6 @@ My uncle says that he never dreams becoming rich in a short period of time.
 Owning a house of their own is a _______ (梦想) for the young couple.   
 ##### 答案 dream  
   
-
 
 # ***dreamland*** n
 ---
@@ -12596,16 +9027,6 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 ---
 1. **梦境；梦乡；理想中的境界**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dress*** v  重难点词汇
@@ -12632,6 +9053,7 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 
 ### 辨析 wear, put on, dress
 三者均可作“穿”解，但意义、用法不同。
+
 固定搭配
 ---
 - #### dress down
@@ -12647,13 +9069,6 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 
 > They dress up and try to frighten people.   
 > 他们乔装打扮去吓唬别人。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dress*** n  重难点词汇
@@ -12675,19 +9090,13 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 2. *高义频：* **[C] 连衣裙：**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
  dressed /drest/ adj [不用于名词前] 
 > **Dressed in**  
 > Dressed in a white uniform, he looks more like a cook than a doctor.   
 > 他穿着白色的制服，看起来不像个医生，倒更像个厨师。
-
-真题解析
----
-[null]
 
 
 # ***drift*** v
@@ -12702,16 +9111,6 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 1. **漂流；漂泊**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***driftnet*** n
 ---
@@ -12725,16 +9124,6 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 ---
 1. *高义频：* **流网**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***drill*** v
@@ -12758,16 +9147,6 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 
 > drill pupils in grammar   
 > 训练学生的语法
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***drill*** n
@@ -12793,16 +9172,6 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 
 > a ﬁre drill  
 > 消防演习
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***drink*** v
@@ -12833,6 +9202,7 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 > 切勿酒后驾车。
 
 “喝水”要说drink water；用汤匙“喝汤”要 说eat soup，用杯子“喝汤”用drink soup；“吃药”要说take medicine。
+
 固定搭配
 ---
 - #### drink sb’s health
@@ -12845,13 +9215,6 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 
 > Let's drink to your success in your new job.  
 > 让我们为你在新工作中取得成功而干杯。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***drink*** n
@@ -12872,16 +9235,10 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 > go for a drink  
 > 去喝一杯
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 drinker /'drɪŋkə(r)/ n 
-真题解析
----
-[null]
-
 
 # ***drive*** v
 ---
@@ -12922,6 +9279,7 @@ drinker /'drɪŋkə(r)/ n
 > Curiosity drives us through our lives so that we never stop wondering about the things beyond our knowledge.   
 > 我们一生都受到好奇心的驱使，从未停止对未知事物的探索。
 
+
 固定搭配
 ---
 - #### drive away 
@@ -12930,13 +9288,6 @@ drinker /'drɪŋkə(r)/ n
 
 > After two and a half years, the mother drove the young panda away.  
 > 两年半后，熊猫妈妈把小熊猫赶跑了。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***drive*** n
@@ -12959,16 +9310,10 @@ drinker /'drɪŋkə(r)/ n
 > Nanjing is about 4 hours’drive from Xuzhou.  
 > 从徐州到南京开车大约要4个小时。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
  driving /'draɪvɪŋ/ n [U] 
-真题解析
----
-[null]
-
 
 # ***driver*** n
 ---
@@ -12982,16 +9327,6 @@ drinker /'drɪŋkə(r)/ n
 1. *高义频：* **[C] 驾驶员；司机**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***droop*** vi
 ---
@@ -13004,16 +9339,6 @@ drinker /'drɪŋkə(r)/ n
 ---
 1. *高义频：* **低垂；凋萎；萎靡**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***drop*** v  重难点词汇
@@ -13052,6 +9377,7 @@ drinker /'drɪŋkə(r)/ n
 > **Drop everything**  
 > Drop everything and come at once!  
 > 放下所有事情赶快来吧！
+
 
 固定搭配
 ---
@@ -13106,16 +9432,13 @@ drinker /'drɪŋkə(r)/ n
 > She started an engineering degree but dropped out after only a year.   
 > 她开始攻读工程学学位，但仅一年后就辍学了。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Joe Jones, the eldest of the eight children, had to ________ （退学）high school at the age of 16 to help his father on the farm.  
 ##### 答案 drop out of  
   
-
 
 # ***drop*** n  重难点词汇
 ---
@@ -13158,16 +9481,6 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 4. *低义频：* **[常用单数] 倾斜或垂直的距离**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***drought*** n
 ---
@@ -13181,16 +9494,6 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 ---
 1. *高义频：* **旱灾；干旱**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***drown*** v
@@ -13222,16 +9525,6 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 > He would drown his sadness in coffee.   
 > 他会借咖啡解愁。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***drug*** n
 ---
@@ -13248,16 +9541,6 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 > Yes to life, no to drugs.  
 > 珍爱生命，远离毒品。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***drugstore*** n
 ---
@@ -13272,16 +9555,6 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 1. *高义频：* **药店 (chemist’s)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***drum*** n
 ---
@@ -13295,16 +9568,6 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 1. *高义频：* **[C] 鼓**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***drummer*** n
 ---
@@ -13317,16 +9580,6 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 ---
 1. **鼓手**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***drunk*** adj
@@ -13349,16 +9602,6 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 > be drunk with joy / success   
 > 陶醉于欢乐/胜利中
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***drunk*** n
 ---
@@ -13371,16 +9614,6 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 ---
 1. **醉汉，酒鬼**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dry*** v
@@ -13405,6 +9638,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 > Nylon dries quickly.  
 > 尼龙织物干得快。
 
+
 固定搭配
 ---
 - #### dry off 
@@ -13421,13 +9655,6 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 
 > Over the centuries, the water dried up.  
 > 经过几个世纪，水完全干了。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dry*** adj
@@ -13448,16 +9675,6 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 > It was the driest summer in years.   
 > 这是数年来最干旱的夏天。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***duchess*** n
 ---
@@ -13472,16 +9689,6 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 1. *高义频：* **公爵夫人；女公爵**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***duck*** n
 ---
@@ -13495,16 +9702,6 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 1. *高义频：* **[C] 鸭；[U] 鸭肉**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***duck*** 
 ---
@@ -13517,16 +9714,6 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 ---
 1. **低下 (头)；弯下 (身)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***due*** adj  重难点词汇
@@ -13579,6 +9766,7 @@ proper or suitable：
 > No matter how ordinary a job is, it plays a part in society and therefore deserves our due respect.  
 > 无论工作多么普通，都在社会中起着作用，因此值得我们尊敬。
 
+
 固定搭配
 ---
 - #### due to
@@ -13590,13 +9778,6 @@ proper or suitable：
 
 > The water shortage is severe mainly due to global warming, environmental pollution and the everincreasing population.  
 > 水资源严重短缺主要是由全球变暖、环境污染和人口持续增长造成的。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dull*** adj
@@ -13629,16 +9810,6 @@ proper or suitable：
 > All work and no play makes Jack a dull boy.  
 > 只工作不玩耍，聪明孩子也变傻。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dumb*** adj
 ---
@@ -13655,16 +9826,6 @@ proper or suitable：
 > deaf and dumb children  
 > 聋哑儿童
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dump*** n
 ---
@@ -13680,16 +9841,6 @@ proper or suitable：
 
 > This town’s a real dump.  
 > 这个小镇真是又脏又乱。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dump*** vt
@@ -13708,16 +9859,6 @@ proper or suitable：
 > Some people just dump their rubbish in the river.  
 > 有些人径直往河里倒垃圾。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dumpling*** n
 ---
@@ -13730,16 +9871,6 @@ proper or suitable：
 ---
 1. *高义频：* **[C] 饺子**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dune*** n
@@ -13754,16 +9885,6 @@ proper or suitable：
 1. **沙丘**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***duration*** n
 ---
@@ -13776,16 +9897,6 @@ proper or suitable：
 ---
 1. *高义频：* **[U] 持续；期间**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***during*** prep
@@ -13805,16 +9916,6 @@ proper or suitable：
 
 > What is the most important rule during the tour of the national park?  
 > 游览国家公园时，最应遵守的规定是什么？
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dusk*** n
@@ -13836,16 +9937,6 @@ proper or suitable：
 > One cannot see very far in the dusk.  
 > 人们在暮色苍茫中看不远。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dust*** n
 ---
@@ -13862,6 +9953,7 @@ proper or suitable：
 > Brush / Wipe the dust off the desk.  
 > 把桌上的灰尘掸/擦掉。
 
+
 固定搭配
 ---
 - #### (as) dry as dust
@@ -13870,13 +9962,6 @@ proper or suitable：
 
 > “You’re a very silly person,” the figure in the doorway said, his voice dry as dust.  
 > “你真是个蠢人！”门口那人说，声音干巴巴的。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dust*** vt
@@ -13894,16 +9979,6 @@ proper or suitable：
 > dust a cap / room  
 > 掸掉帽子上的灰/打扫房间
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dustbin*** n
 ---
@@ -13916,16 +9991,6 @@ proper or suitable：
 ---
 1. *高义频：* **[C] 垃圾箱**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dusty*** adj
@@ -13942,16 +10007,6 @@ proper or suitable：
 
 > The house had been vacant for a long time and so it was very dusty.  
 > 这所房子闲置了很长时间，所以灰尘遍布。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***duty*** n
@@ -14003,6 +10058,7 @@ proper or suitable：
 > import duties  
 > 进口关税
 
+
 固定搭配
 ---
 - #### do one’s duty
@@ -14019,13 +10075,6 @@ proper or suitable：
 > He goes on duty at 8 am and comes off duty at 5 pm.  
 > 他上午8点上班，下午5点下班。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dwarf*** n
 ---
@@ -14038,16 +10087,6 @@ proper or suitable：
 ---
 1. **侏儒，小矮人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dye*** v
@@ -14068,16 +10107,6 @@ proper or suitable：
 > She dyed her hair brown.  
 > 她把头发染成了褐色。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dye*** n
 ---
@@ -14090,16 +10119,6 @@ proper or suitable：
 ---
 1. *高义频：* **[C] & [U] 染料；染液：**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***dying*** adj
@@ -14122,16 +10141,6 @@ proper or suitable：
 > A man should study till his dying day.  
 > 活到老，学到老。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dynamic*** adj
 ---
@@ -14151,16 +10160,6 @@ proper or suitable：
 > Having an enthusiastic and dynamic personality is important.  
 > 拥有充满激情和活力的个性很重要。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***dynasty*** n
 ---
@@ -14174,13 +10173,4 @@ proper or suitable：
 1. *高义频：* **[C] 王朝；朝代**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 

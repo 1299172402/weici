@@ -1,144 +1,4 @@
-
-# ***Laos*** n
----
-英音 laʊs     美音 laʊs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **老挝 (东南亚国家)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Laotian*** adj
----
-英音 'laʊʃn     美音 'laʊʃn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **老挝 (人) 的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Latin*** n
----
-英音 'lætɪn     美音 'lætn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **[U] 拉丁语**  
-
-
-2. *高义频：* **[C] 拉丁美洲人；拉丁人 (指欧洲南部如西班牙、葡萄牙或意大利的拉丁语系的人)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Latin*** adj
----
-英音 'lætɪn     美音 'lætn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **拉丁语的；拉丁美洲的；拉丁语系国家的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Lia*** n
----
-英音 lɪə     美音 lɪə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **莉亚 (女名)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Lima*** n
----
-英音 'li:mə     美音 'li:mə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **利马 (秘鲁首都)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
+# Ll
 
 # ***lab*** n
 ---
@@ -156,16 +16,6 @@
 > They work not only inside a laboratory, but also out in the field.  
 > 他们不仅在实验室里工作，还要出去进行实地考察。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***label*** vt
 ---
@@ -181,16 +31,6 @@
 
 > The file was labelled "Top secret" .  
 > 这份文件上标明“绝密”。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***label*** n
@@ -208,16 +48,6 @@
 
 > put / place a label on a box   
 > 在箱子上贴标签
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***labor*** n
@@ -253,16 +83,6 @@ a period time of work：
 > the fruits of my labours  
 > 我的劳动成果
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***labor*** vi
 ---
@@ -278,16 +98,6 @@ a period time of work：
 
 > More than 20,000 workers laboured nearly 22 years to complete the Taj Mahal.  
 > 两万多名工人苦干了近22年才完成泰姬陵。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***laboratory*** n
@@ -305,16 +115,6 @@ a period time of work：
 
 > They work not only inside a laboratory, but also out in the field.   
 > 他们不仅在实验室里工作，还要出去进行实地考察。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***labour*** n
@@ -349,16 +149,6 @@ a period time of work：
 > the fruits of my labours   
 > 我的劳动成果
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***labour*** vi
 ---
@@ -375,16 +165,6 @@ a period time of work：
 > More than 20,000 workers laboured nearly 22 years to complete the construction.  
 > 两万多名工人苦干了近22年才完成这项建筑。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lace*** n
 ---
@@ -398,16 +178,6 @@ a period time of work：
 ---
 1. *高义频：* **饰带；花边；鞋带**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lack*** v  重难点词汇
@@ -428,6 +198,7 @@ a period time of work：
 > They lacked the money to send him to university.  
 > 他们没钱送他上大学。
 
+
 固定搭配
 ---
 - #### lack (for) nothing 
@@ -437,11 +208,13 @@ a period time of work：
 > As he is very rich he lacks for nothing.   
 > 他很富有，什么都不缺。
 
+
 派生词汇
 ---
 lacking /'lækɪŋ/ adj 
 - #### be lacking in sth
 1. **缺少某物**  
+
 
 
 真题解析
@@ -450,7 +223,6 @@ lacking /'lækɪŋ/ adj
 Though lacking of money, his parents managed to send him to university.  
 ##### 答案 去掉 of  
   
-
 
 # ***lack*** n  重难点词汇
 ---
@@ -472,6 +244,7 @@ Though lacking of money, his parents managed to send him to university.
 > These children have health problems linked to poor diet and a lack of exercise.  
 > 这些孩子有与不良饮食和缺乏运动相关的健康问题。
 
+
 固定搭配
 ---
 - #### for lack of 
@@ -484,9 +257,7 @@ Though lacking of money, his parents managed to send him to university.
 > The leaves turned yellow for lack of light.   
 > 由于缺少光照，叶子变黄了。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -497,7 +268,6 @@ More and more high-rise buildings have been built in big cities ________ (因缺
 Health problems are closely connected with bad eating habits and ________ (缺乏) exercise.  
 ##### 答案 a lack of  
   
-
 
 # ***ladder*** n
 ---
@@ -515,16 +285,6 @@ Health problems are closely connected with bad eating habits and ________ (缺�
 > a ladder to / of success   
 > 成功的阶梯
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lady*** n
 ---
@@ -538,16 +298,6 @@ Health problems are closely connected with bad eating habits and ________ (缺�
 ---
 1. *高义频：* **女士；夫人；小姐；贵妇人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lake*** n
@@ -563,16 +313,6 @@ Health problems are closely connected with bad eating habits and ________ (缺�
 1. *高义频：* **湖**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lamb*** n
 ---
@@ -586,16 +326,6 @@ Health problems are closely connected with bad eating habits and ________ (缺�
 1. *低义频：* **[C] 羔羊；小羊；[U] 羔羊肉**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lame*** adj
 ---
@@ -608,16 +338,6 @@ Health problems are closely connected with bad eating habits and ________ (缺�
 ---
 1. *高义频：* **跛的；瘸的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lamp*** n
@@ -635,16 +355,6 @@ Health problems are closely connected with bad eating habits and ________ (缺�
 
 > a table / desk lamp  
 > 台灯／工作台灯
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***land*** n
@@ -672,16 +382,6 @@ Health problems are closely connected with bad eating habits and ________ (缺�
 > **foreign lands**  
 > They dreamed of travelling to foreign lands.  
 > 他们梦想到国外旅游。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***land*** v
@@ -728,18 +428,12 @@ to arrive unexpectedly and cause problems：
 > He landed himself a new job.  
 > 他得到了一份新工作。
 
+
 固定搭配
 ---
 - #### land (sb) in
 1. **使 (某人) 陷入 (困境)**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***landfill*** n
@@ -753,16 +447,6 @@ to arrive unexpectedly and cause problems：
 ---
 1. **垃圾填埋地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***landlord*** n
@@ -778,16 +462,6 @@ to arrive unexpectedly and cause problems：
 1. **地主；房东；旅店老板 (女房东、旅店老板娘为landlady)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***landmark*** n
 ---
@@ -800,16 +474,6 @@ to arrive unexpectedly and cause problems：
 ---
 1. **标志性建筑**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***landmine*** n
@@ -825,16 +489,6 @@ to arrive unexpectedly and cause problems：
 1. *高义频：* **地雷**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***landowner*** n
 ---
@@ -847,16 +501,6 @@ to arrive unexpectedly and cause problems：
 ---
 1. **地主,土地拥有者**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***landscape*** n
@@ -878,16 +522,6 @@ to arrive unexpectedly and cause problems：
 > an exhibit of landscapes   
 > 风景画展
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***landslide*** n
 ---
@@ -900,16 +534,6 @@ to arrive unexpectedly and cause problems：
 ---
 1. **(landfall)（山地或悬崖的）崩塌；滑坡**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lane*** n
@@ -930,16 +554,6 @@ to arrive unexpectedly and cause problems：
 
 > a single / double lane   
 > 单/双向车道
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***language*** n
@@ -967,16 +581,6 @@ to arrive unexpectedly and cause problems：
 > master a language   
 > 掌握一门语言
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lantern*** n
 ---
@@ -993,16 +597,6 @@ to arrive unexpectedly and cause problems：
 
 > the Lantern Festival  
 > 元宵节
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lap*** n
@@ -1028,16 +622,6 @@ to arrive unexpectedly and cause problems：
 > She began to pass the other runners on the last lap.  
 > 她跑最后一圈时开始超过其他选手。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***laptop*** n
 ---
@@ -1051,16 +635,6 @@ to arrive unexpectedly and cause problems：
 ---
 1. *高义频：* **笔记本电脑；便携式电脑**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***large*** adj
@@ -1084,16 +658,10 @@ to arrive unexpectedly and cause problems：
 > a large population   
 > 人口众多
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 largely /'lɑːdʒli/ adv 
-真题解析
----
-[null]
-
 
 # ***largely*** adv
 ---
@@ -1107,16 +675,6 @@ largely /'lɑːdʒli/ adv
 1. **大部分；主要地**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lass*** n
 ---
@@ -1129,16 +687,6 @@ largely /'lɑːdʒli/ adv
 ---
 1. **<方言>女孩，少女**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***last*** adj  重难点词汇
@@ -1181,16 +729,6 @@ used to emphasize that sb / sth is the least likely or suitable：
 > I was the last person in the world he wanted to accept assistance from.  
 > 在这个世界上他最不想接受帮助的人是我。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***last*** adv  重难点词汇
 ---
@@ -1216,6 +754,7 @@ used to emphasize that sb / sth is the least likely or suitable：
 > Believe it or not, we last met more than thirty years ago.   
 > 信不信由你，我们上次见面是在30多年前。
 
+
 固定搭配
 ---
 - #### last but not least 
@@ -1224,13 +763,6 @@ used to emphasize that sb / sth is the least likely or suitable：
 
 > Last but not least, we should make good use of water in our daily life.  
 > 最后但同样重要的是，我们日常生活中应该充分利用水。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***last*** n  重难点词汇
@@ -1247,6 +779,7 @@ used to emphasize that sb / sth is the least likely or suitable：
 
 > Sorry I'm late — am I the last?  
 > 对不起，我迟到了——我是最后一个吗？
+
 
 固定搭配
 ---
@@ -1268,13 +801,6 @@ used to emphasize that sb / sth is the least likely or suitable：
 
 > They fought to the last.   
 > 他们战斗到最后一刻。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***last*** v  重难点词汇
@@ -1322,20 +848,18 @@ to be enough for sb to use, especially for a particular period of time：
 > enough food to last (us) three days   
 > 足够我们吃3天的食物
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 lasting /'lɑːstɪŋ/ adj 
 lastly /'læstli/ adv 
+
 真题解析
 ---
 ##### 题目  
 The performance ________ (持续) nearly three hours, but few people left the theater early.  
 ##### 答案 lasted  
   
-
 
 # ***late*** adv
 ---
@@ -1361,16 +885,6 @@ The performance ________ (持续) nearly three hours, but few people left the th
 > In some European countries it is rude to arrive late for dinner.   
 > 在有些欧洲国家，赴宴迟到是很不礼貌的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***late*** adj
 ---
@@ -1394,6 +908,7 @@ The performance ________ (持续) nearly three hours, but few people left the th
 > in the late 19th century   
 > 在19世纪末
 
+
 固定搭配
 ---
 - #### be too late 
@@ -1402,13 +917,6 @@ The performance ________ (持续) nearly three hours, but few people left the th
 
 > By the time he realizes he has walked into a trap, it'll be too late for him to do anything about it.  
 > 等他意识到自己已落入圈套时，那就做什么都来不及了。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lately*** adv
@@ -1425,16 +933,6 @@ The performance ________ (持续) nearly three hours, but few people left the th
 
 > Hi, John. I haven't heard much from you lately.  
 > 嗨，约翰。我近来很少听到你的消息。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***later*** adj
@@ -1456,19 +954,13 @@ The performance ________ (持续) nearly three hours, but few people left the th
 > The match has been postponed to a later date.   
 > 比赛已延期举行。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 A few minutes late, the instructor asked me to stop the car.  
 ##### 答案 late → later  
   
-
 
 # ***later*** adv
 ---
@@ -1491,6 +983,7 @@ A few minutes late, the instructor asked me to stop the car.
 > Eating breakfast keeps you from overeating later in the day.    
 > 吃早餐可防止你一天其他时间过量饮食。
 
+
 固定搭配
 ---
 - #### later on 
@@ -1499,13 +992,6 @@ A few minutes late, the instructor asked me to stop the car.
 
 > Later on he realized his mistake.   
 > 后来他认识到了自己的错误。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***latest*** n
@@ -1516,9 +1002,6 @@ A few minutes late, the instructor asked me to stop the car.
 
 用法点拨  [U]
 
-英文释义
----
-[null]
 固定搭配
 ---
 - #### the latest
@@ -1538,13 +1021,6 @@ A few minutes late, the instructor asked me to stop the car.
 > I shall be back by five o'clock at the latest.  
 > 我最晚5点回来。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***latest*** adj
 ---
@@ -1561,16 +1037,6 @@ A few minutes late, the instructor asked me to stop the car.
 > We want to hear all about the latest events and happenings in our school.  
 > 我们想知道学校最近发生的所有事情。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***latitude*** n
 ---
@@ -1583,16 +1049,6 @@ A few minutes late, the instructor asked me to stop the car.
 ---
 1. **纬度**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***latter*** adj
@@ -1610,16 +1066,6 @@ A few minutes late, the instructor asked me to stop the car.
 > Listen to the latter part of Barry’s story.   
 > 听巴里讲述故事的后半部分。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***latter*** n
 ---
@@ -1636,6 +1082,7 @@ A few minutes late, the instructor asked me to stop the car.
 > Of the two choices, I prefer the latter.   
 > 在这两种选择中，我更愿选后者。
 
+
 固定搭配
 ---
 - #### the former ... the latter 
@@ -1644,13 +1091,6 @@ A few minutes late, the instructor asked me to stop the car.
 
 > John and James are brothers. The former is a teacher; the latter is an engineer.   
 > 约翰和詹姆斯是兄弟，前者是老师，后者是工程师。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***laugh*** v
@@ -1679,6 +1119,7 @@ A few minutes late, the instructor asked me to stop the car.
 > Doctors have discovered that people who laugh a lot live longer!   
 > 医生发现笑得多的人更长寿。
 
+
 固定搭配
 ---
 - #### laugh at
@@ -1687,13 +1128,6 @@ A few minutes late, the instructor asked me to stop the car.
 
 > She laughed at me and said that I was not grown-up enough.   
 > 她笑话我，说我不够成熟。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***laugh*** n
@@ -1713,18 +1147,12 @@ A few minutes late, the instructor asked me to stop the car.
 > We had a good laugh over the funny story.  
 > 这个有趣的故事让我们大笑了一场。
 
+
 固定搭配
 ---
 - #### have the last laugh 
 1. **笑到最后；取得最后的成功**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***laughter*** n
@@ -1746,18 +1174,12 @@ A few minutes late, the instructor asked me to stop the car.
 > Laughter burst from the crowd.   
 > 人群中爆发出笑声。
 
+
 固定搭配
 ---
 - #### burst into laughter 
 1. **突然大笑起来**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***launch*** vt  重难点词汇
@@ -1802,16 +1224,6 @@ to make a new product available for sale for the first time：
 > They held a special party to launch the new book.   
 > 他们为发行这本新书特意开了一次招待会。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***launch*** n  重难点词汇
 ---
@@ -1827,16 +1239,6 @@ to make a new product available for sale for the first time：
 
 > the launch of the first artificial satellite   
 > 首颗人造卫星的发射
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***laundry*** n
@@ -1861,16 +1263,6 @@ to make a new product available for sale for the first time：
 > She did the laundry (= washed the clothes) and hung it out to dry.  
 > 她洗了衣服，然后挂出去晾干。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lava*** n
 ---
@@ -1884,16 +1276,6 @@ to make a new product available for sale for the first time：
 ---
 1. *高义频：* **(火山喷出的) 熔岩；火山岩**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***law*** n
@@ -1938,19 +1320,17 @@ to make a new product available for sale for the first time：
 > the law of nature  
 > 自然规律
 
+
 固定搭配
 ---
 - #### law and order
 1. **法治**  
 
 
+
 派生词汇
 ---
 lawful /'lɔːfl/ adj 
-真题解析
----
-[null]
-
 
 # ***lawn*** n
 ---
@@ -1968,16 +1348,6 @@ lawful /'lɔːfl/ adj
 > keep off the lawn   
 > 勿踏草坪
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lawyer*** n
 ---
@@ -1992,19 +1362,13 @@ lawful /'lɔːfl/ adj
 1. *高义频：* **律师；法学家**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Sydney wants to become a ________ (律师) in the future.  
 ##### 答案 lawyer  
   
-
 
 # ***lay*** v
 ---
@@ -2047,6 +1411,7 @@ Sydney wants to become a ________ (律师) in the future.
 > **lay eggs**  
 > He collects butterflies and brings them into a lab to lay eggs.   
 > 他收集蝴蝶，然后带到实验室产卵。
+
 
 固定搭配
 ---
@@ -2091,13 +1456,6 @@ to stop employing sb because there is no work to do：
 > The exhibition is laid out in the classrooms on the second floor.  
 > 展览安排在二层的教室里。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***layer*** n
 ---
@@ -2111,16 +1469,6 @@ to stop employing sb because there is no work to do：
 ---
 1. *高义频：* **层；层次**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lazy*** adj
@@ -2138,17 +1486,11 @@ to stop employing sb because there is no work to do：
 > He was not stupid, just lazy.  
 > 他不傻，只是懒。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 lazily /'leɪzɪlɪ/ adv 
 laziness /'leɪzinəs/ n [U] 
-真题解析
----
-[null]
-
 
 # ***lead*** v  重难点词汇
 ---
@@ -2216,6 +1558,7 @@ to cause sth to happen or cause sb to do sth：
 > lead a happy / hard / comfortable / simple life   
 > 过着幸福的/艰苦的/舒适的/简朴的生活
 
+
 固定搭配
 ---
 - #### lead up to
@@ -2225,16 +1568,13 @@ to cause sth to happen or cause sb to do sth：
 > the events leading up to the strike   
 > 导致罢工的事件
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 We firmly believe that war never settles anything. It only leads _______ violence.  
 ##### 答案 to  
   
-
 
 # ***lead*** n  重难点词汇
 ---
@@ -2257,16 +1597,6 @@ We firmly believe that war never settles anything. It only leads _______ violenc
 > Near the end of the race, he took the lead.   
 > 比赛快结束时，他领先了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***leader*** n
 ---
@@ -2280,16 +1610,6 @@ We firmly believe that war never settles anything. It only leads _______ violenc
 ---
 1. *高义频：* **领袖；领导人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***leadership*** n
@@ -2307,16 +1627,6 @@ We firmly believe that war never settles anything. It only leads _______ violenc
 
 > under the leadership of sb / under sb's leadership  
 > 在某人的领导下
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***leading*** adj
@@ -2349,16 +1659,6 @@ best, most important or most successful：
 > the leading runners in the race  
 > 比赛中跑在前面的人
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***leaf*** n
 ---
@@ -2377,19 +1677,13 @@ best, most important or most successful：
 > turn over a new leaf   
 > 翻开崭新的一页；悔过自新
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Spring has come, and the trees are thick with green ________ (leaf).  
 ##### 答案 leaves  
   
-
 
 # ***leaflet*** n
 ---
@@ -2402,16 +1696,6 @@ Spring has come, and the trees are thick with green ________ (leaf).
 ---
 1. **传单；印刷品**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***league*** n
@@ -2435,16 +1719,6 @@ Spring has come, and the trees are thick with green ________ (leaf).
 > a football league   
 > 足球联赛
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***leak*** n
 ---
@@ -2464,16 +1738,6 @@ Spring has come, and the trees are thick with green ________ (leaf).
 
 > a gas leak  
 > 煤气泄漏
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***leak*** v
@@ -2503,16 +1767,6 @@ Spring has come, and the trees are thick with green ________ (leaf).
 > **leaked out**  
 > Details of the plan soon leaked out.   
 > 计划的细节很快就泄露出去了。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lean*** v
@@ -2545,16 +1799,6 @@ Spring has come, and the trees are thick with green ________ (leaf).
 > The fence will break if you lean your weight on it.   
 > 如果你靠在栅栏上，它会断的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***leap*** n
 ---
@@ -2575,16 +1819,6 @@ Spring has come, and the trees are thick with green ________ (leaf).
 > Her income went up with a leap.   
 > 她的收入猛增。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***leap*** v
 ---
@@ -2604,16 +1838,6 @@ Spring has come, and the trees are thick with green ________ (leaf).
 
 > He tried to leap over the wall but did not succeed.   
 > 他企图跃过墙，但没能成功。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***learn*** v  重难点词汇
@@ -2691,6 +1915,7 @@ to become aware of sth by hearing about it：
 > learn the lines of a play   
 > 背台词
 
+
 固定搭配
 ---
 - #### learn ... by heart 
@@ -2700,17 +1925,18 @@ to become aware of sth by hearing about it：
 > I had to learn a poem by heart for the school concert.  
 > 我必须熟记一首诗歌在校音乐会上朗诵。
 
+
 派生词汇
 ---
 learned /'lɜːnɪd/ adj 
 learner /'lɜːnə(r)/ n [C] 
+
 真题解析
 ---
 ##### 题目  
 __________ (learn) more about Chinese culture, Jack has decided to take Chinese folk music as an elective course.  
 ##### 答案 To learn  
   
-
 
 # ***learning*** n
 ---
@@ -2733,16 +1959,6 @@ __________ (learn) more about Chinese culture, Jack has decided to take Chinese 
 
 > a man of great learning   
 > 学识渊博的人
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***least*** pron
@@ -2769,6 +1985,7 @@ __________ (learn) more about Chinese culture, Jack has decided to take Chinese 
 > I could take you to the office for your interview. It's the least I could do.  
 > 我可以送你去公司面试，这是我起码可以做的事。
 
+
 固定搭配
 ---
 - #### at (the) least
@@ -2791,9 +2008,7 @@ __________ (learn) more about Chinese culture, Jack has decided to take Chinese 
 > I didn't know his name or the least bit about him.  
 > 我不知道他的名字，或者说一点儿也不了解他。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2808,7 +2023,6 @@ C.worse
 D.the least  
 ##### 答案 D  
   
-
 
 # ***least*** adj
 ---
@@ -2837,16 +2051,6 @@ D.the least
 > I haven't the least idea what you are talking about.  
 > 我根本不知道你在说什么。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***least*** adv
 ---
@@ -2868,16 +2072,6 @@ D.the least
 > Happiness doesn't always come from a pursuit. Sometimes it comes when we least expect it.  
 > 幸福并不总是追求来的。它有时在我们最意料不到的时候来临。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***leather*** n
 ---
@@ -2894,16 +2088,6 @@ D.the least
 
 > The pair of shoes is made of genuine leather.  
 > 这双鞋是用真皮做的。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***leave*** v  重难点词汇
@@ -2998,6 +2182,7 @@ to allow sb to take care of sth：
 > You can leave the cooking to me.   
 > 你可以把做饭的事交给我。
 
+
 固定搭配
 ---
 - #### leave behind
@@ -3066,9 +2251,7 @@ to allow sb to take care of sth：
 1. **为…留有余地**  
 
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3092,7 +2275,6 @@ Go and join in the party. Leave it ________ me to do the washing-up.
 ##### 答案 to / with  
   
 
-
 # ***leave*** n  重难点词汇
 ---
 英音 liːv     美音 liːv
@@ -3108,16 +2290,6 @@ Go and join in the party. Leave it ________ me to do the washing-up.
 
 > She asked for three days'  leave to take care of her sick son.  
 > 她请了3天假照顾生病的儿子。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lecture*** v
@@ -3143,16 +2315,10 @@ Go and join in the party. Leave it ________ me to do the washing-up.
 > He's always lecturing me about the way I dress.  
 > 他总是对我的穿着说三道四。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 lecturer /'lektʃərə(r)/ n [C] 
-真题解析
----
-[null]
-
 
 # ***lecture*** n
 ---
@@ -3182,16 +2348,6 @@ lecturer /'lektʃərə(r)/ n [C]
 > I know I should stop drinking — don't give me a lecture about it.  
 > 我知道我该戒酒，别教训我了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lecturer*** n
 ---
@@ -3204,16 +2360,6 @@ lecturer /'lektʃərə(r)/ n [C]
 ---
 1. **（大学的）讲师**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***left*** adj
@@ -3230,16 +2376,6 @@ lecturer /'lektʃərə(r)/ n [C]
 
 > on the left side of the street   
 > 在街道左侧
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***left*** n
@@ -3259,16 +2395,6 @@ lecturer /'lektʃərə(r)/ n [C]
 > He was sitting on my left.   
 > 他坐我的左边。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***left*** adv
 ---
@@ -3285,16 +2411,6 @@ lecturer /'lektʃərə(r)/ n [C]
 > Go down this path and turn left at the first crossing.   
 > 沿着这条道走下去，在第一个十字路口左转。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***leftover*** n
 ---
@@ -3309,16 +2425,6 @@ lecturer /'lektʃərə(r)/ n [C]
 1. *高义频：* **剩饭菜**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***leftover*** adj
 ---
@@ -3331,16 +2437,6 @@ lecturer /'lektʃərə(r)/ n [C]
 ---
 1. **剩余的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***leg*** n
@@ -3355,16 +2451,6 @@ lecturer /'lektʃərə(r)/ n [C]
 ---
 1. *高义频：* **腿**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***legal*** adj
@@ -3391,16 +2477,10 @@ lecturer /'lektʃərə(r)/ n [C]
 > It's legal to turn right at a red light in most states.  
 > 大部分州的法律允许红灯时右转。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 legally /'liːɡəli/ adv 
-真题解析
----
-[null]
-
 
 # ***legend*** n
 ---
@@ -3422,16 +2502,10 @@ legally /'liːɡəli/ adv
 > a tennis / music legend  
 > 网坛/音乐界的传奇人物
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 legendary /'ledʒəndri/ adj 
-真题解析
----
-[null]
-
 
 # ***legendary*** adj
 ---
@@ -3444,16 +2518,6 @@ legendary /'ledʒəndri/ adj
 ---
 1. **传说中的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***leisure*** n
@@ -3475,16 +2539,6 @@ legendary /'ledʒəndri/ adj
 > the leisure industry  
 > 休闲娱乐行业
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lemon*** n
 ---
@@ -3499,16 +2553,6 @@ legendary /'ledʒəndri/ adj
 1. *高义频：* **柠檬；柠檬树**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lemon*** adj
 ---
@@ -3522,16 +2566,6 @@ legendary /'ledʒəndri/ adj
 1. *高义频：* **柠檬色的；柠檬味的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lemonade*** n
 ---
@@ -3544,16 +2578,6 @@ legendary /'ledʒəndri/ adj
 ---
 1. *高义频：* **[U] 柠檬汽水 / 饮料；[C] 一杯 / 瓶柠檬饮料**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lend*** vt
@@ -3574,6 +2598,7 @@ legendary /'ledʒəndri/ adj
 > Could you lend me some money? / Could you lend some money to me?  
 > 你能借给我些钱吗？
 
+
 固定搭配
 ---
 - #### give / lend (sb) a hand
@@ -3585,16 +2610,13 @@ legendary /'ledʒəndri/ adj
 
 ### 辨析 lend, borrow
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 If you are in trouble, Mike is always willing to ________ (帮忙). (lend)  
 ##### 答案 lend a hand  
   
-
 
 # ***length*** n
 ---
@@ -3624,6 +2646,7 @@ If you are in trouble, Mike is always willing to ________ (帮忙). (lend)
 > the probable length of Beijing Man's life  
 > 北京猿人的大概寿命
 
+
 固定搭配
 ---
 - #### at length
@@ -3639,13 +2662,10 @@ If you are in trouble, Mike is always willing to ________ (帮忙). (lend)
 > I set up an interview with her and we discussed her project at length.   
 > 我安排了与她会面，我们详细讨论了她的计划。
 
+
 派生词汇
 ---
 lengthen /'leŋθən/ v 
-真题解析
----
-[null]
-
 
 # ***lengthen*** v
 ---
@@ -3658,16 +2678,6 @@ lengthen /'leŋθən/ v
 ---
 1. **加长；延长**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***leopard*** n
@@ -3682,16 +2692,6 @@ lengthen /'leŋθən/ v
 ---
 1. *高义频：* **豹**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***less*** adv
@@ -3710,19 +2710,13 @@ lengthen /'leŋθən/ v
 > Tom is less clever than his brother.   
 > 汤姆不如他兄弟聪明。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I used to earn ________ (不到) a pound a week when I first started work.   
 ##### 答案 less than  
   
-
 
 # ***less*** adj
 ---
@@ -3742,16 +2736,6 @@ I used to earn ________ (不到) a pound a week when I first started work.
 > These days, music fans spend less money in buying records than people used to do.   
 > 如今，音乐迷花在买唱片上的钱比以前的人要少。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***less*** pron
 ---
@@ -3768,6 +2752,7 @@ I used to earn ________ (不到) a pound a week when I first started work.
 > **less of**  
 > Flying is less of a risk than driving.   
 > 乘飞机比开车风险小。
+
 
 固定搭配
 ---
@@ -3802,16 +2787,17 @@ I used to earn ________ (不到) a pound a week when I first started work.
 > He paid no less than 100, 000 dollars for the house.  
 > 他买这座房子花了多达10万美元。
 
+
 派生词汇
 ---
 lessen 'lesn v 
+
 真题解析
 ---
 ##### 题目  
 Tony can hardly boil an egg,  ________ (更不用说) cook dinner.  
 ##### 答案 even / much / still less / let alone  
   
-
 
 # ***lessen*** v
 ---
@@ -3824,16 +2810,6 @@ Tony can hardly boil an egg,  ________ (更不用说) cook dinner.
 ---
 1. *高义频：* **减少；减轻**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lesson*** n
@@ -3877,6 +2853,7 @@ Tony can hardly boil an egg,  ________ (更不用说) cook dinner.
 > We should learn lessons from the past, and not repeat the mistakes.  
 > 我们要从过去吸取教训，不能重复错误。
 
+
 固定搭配
 ---
 - #### teach sb a lesson 
@@ -3885,13 +2862,6 @@ Tony can hardly boil an egg,  ________ (更不用说) cook dinner.
 
 > It was painful but it has taught me a good lesson.   
 > 这很痛苦，但给了我一个很好的教训。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***let*** vt  重难点词汇
@@ -3939,6 +2909,7 @@ Tony can hardly boil an egg,  ________ (更不用说) cook dinner.
 
 > a house to let   
 > 待出租的房屋
+
 
 固定搭配
 ---
@@ -4012,9 +2983,7 @@ Tony can hardly boil an egg,  ________ (更不用说) cook dinner.
 > It remains unknown who let out the secret.   
 > 目前尚不清楚是谁泄露了秘密。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4025,7 +2994,6 @@ Let those in need ________ (understand) that we will go all out to help them.
 He accidentally let ________ he had quarrelled with his wife and that he hadn't been home for a couple of weeks.  
 ##### 答案 out  
   
-
 
 # ***letter*** n
 ---
@@ -4056,16 +3024,6 @@ He accidentally let ________ he had quarrelled with his wife and that he hadn't 
 > **capital,letter**  
 > a capital / small letter  
 > 大/小写字母
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***level*** n
@@ -4115,16 +3073,6 @@ He accidentally let ________ he had quarrelled with his wife and that he hadn't 
 4. *高义频：* **[C] 楼层**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***level*** adj
 ---
@@ -4144,16 +3092,6 @@ He accidentally let ________ he had quarrelled with his wife and that he hadn't 
 > The boy's head is level with his father's shoulder.  
 > 这个男孩头与他父亲的肩膀齐平。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***liar*** n
 ---
@@ -4166,16 +3104,6 @@ He accidentally let ________ he had quarrelled with his wife and that he hadn't 
 ---
 1. **撒谎者**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***liberal*** n
@@ -4191,16 +3119,6 @@ He accidentally let ________ he had quarrelled with his wife and that he hadn't 
 1. *高义频：* **自由主义者；开明的人**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***liberal*** adj
 ---
@@ -4213,16 +3131,6 @@ He accidentally let ________ he had quarrelled with his wife and that he hadn't 
 ---
 1. *高义频：* **自由主义的；开明的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***liberation*** n
@@ -4244,16 +3152,6 @@ He accidentally let ________ he had quarrelled with his wife and that he hadn't 
 > When I got to the end of the article, I felt a sense of liberation.   
 > 论文快完成时，我有一种解脱感。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***liberty*** n
 ---
@@ -4271,6 +3169,7 @@ He accidentally let ________ he had quarrelled with his wife and that he hadn't 
 > We fought to defend our liberty.   
 > 我们为捍卫自由而战。
 
+
 固定搭配
 ---
 - #### at liberty 
@@ -4279,13 +3178,6 @@ He accidentally let ________ he had quarrelled with his wife and that he hadn't 
 
 > You're at liberty to say what you like.  
 > 你尽可畅所欲言。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***librarian*** n
@@ -4301,16 +3193,6 @@ He accidentally let ________ he had quarrelled with his wife and that he hadn't 
 1. *高义频：* **图书管理员**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***library*** n
 ---
@@ -4324,16 +3206,6 @@ He accidentally let ________ he had quarrelled with his wife and that he hadn't 
 ---
 1. *高义频：* **图书馆**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***licence*** n
@@ -4359,16 +3231,6 @@ He accidentally let ________ he had quarrelled with his wife and that he hadn't 
 > She sells cigarettes under license.   
 > 她被特许销售香烟。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***license*** n
 ---
@@ -4393,16 +3255,6 @@ He accidentally let ________ he had quarrelled with his wife and that he hadn't 
 > She sells cigarettes under license.   
 > 她被特许销售香烟。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lichen*** n
 ---
@@ -4415,16 +3267,6 @@ He accidentally let ________ he had quarrelled with his wife and that he hadn't 
 ---
 1. **地衣**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lid*** n
@@ -4439,16 +3281,6 @@ He accidentally let ________ he had quarrelled with his wife and that he hadn't 
 ---
 1. *高义频：* **(坛子、壶等的) 盖子；眼睑 (eyelid)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lie*** vi  重难点词汇
@@ -4504,6 +3336,7 @@ to be, remain or be kept in a particular state：
 > For centuries, Pompeii lay buried under stone and ash.   
 > 在几个世纪的时间里，庞贝城被埋在岩石和灰烬之下。
 
+
 固定搭配
 ---
 - #### lie around / about
@@ -4526,16 +3359,13 @@ to be, remain or be kept in a particular state：
 > I'm not going to take this lying down.  
 > 这件事我是不会罢休的。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 There is no doubt that this candidate’s advantage lies ________ his ability to communicate with foreigners in English.  
 ##### 答案 in  
   
-
 
 # ***lie*** n
 ---
@@ -4567,16 +3397,6 @@ There is no doubt that this candidate’s advantage lies ________ his ability to
 > 你在撒谎！
 
 ### 辨析 lay, lie
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***life*** n
@@ -4635,6 +3455,7 @@ There is no doubt that this candidate’s advantage lies ________ his ability to
 > She looks like any other schoolgirl, fresh-faced and full of life.  
 > 她看起来和其他女生一样，有张稚嫩的脸并充满活力。
 
+
 固定搭配
 ---
 - #### all one's life
@@ -4671,16 +3492,13 @@ There is no doubt that this candidate’s advantage lies ________ his ability to
 > a life and death decision  
 > 生死攸关的决定
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 You can change your job, you can move house, but friendship is meant to be _______ life.  
 ##### 答案 for  
   
-
 
 # ***life-saving*** adj
 ---
@@ -4693,16 +3511,6 @@ You can change your job, you can move house, but friendship is meant to be _____
 ---
 1. **救命的，救生的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lifeboat*** n
@@ -4717,16 +3525,6 @@ You can change your job, you can move house, but friendship is meant to be _____
 1. **救生船**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lifespan*** n
 ---
@@ -4740,16 +3538,6 @@ You can change your job, you can move house, but friendship is meant to be _____
 ---
 1. *高义频：* **平均寿命；使用寿命**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lifestyle*** n
@@ -4772,16 +3560,6 @@ You can change your job, you can move house, but friendship is meant to be _____
 > It was a big change in lifestyle when we moved to the country.   
 > 搬到乡下后，我们生活方式发生了巨大改变。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lifetime*** n
 ---
@@ -4799,16 +3577,6 @@ You can change your job, you can move house, but friendship is meant to be _____
 > **During his lifetime**  
 > During his lifetime, he discovered many amazing things.  
 > 他在一生中发现了很多令人惊奇的事物。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lift*** n
@@ -4847,6 +3615,7 @@ You can change your job, you can move house, but friendship is meant to be _____
 4. *低义频：* **振奋；鼓舞**  
 
 
+
 固定搭配
 ---
 - #### give sb a lift 
@@ -4855,13 +3624,6 @@ You can change your job, you can move house, but friendship is meant to be _____
 
 > The new park has given everyone in the neighbourhood a lift.   
 > 新公园让附近的每个人都很开心。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lift*** v
@@ -4899,16 +3661,6 @@ You can change your job, you can move house, but friendship is meant to be _____
 > The fog began to lift.   
 > 雾开始消散。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***light*** n
 ---
@@ -4939,6 +3691,7 @@ You can change your job, you can move house, but friendship is meant to be _____
 > traffic lights   
 > 交通信号灯
 
+
 固定搭配
 ---
 - #### bring … to light 
@@ -4968,13 +3721,6 @@ You can change your job, you can move house, but friendship is meant to be _____
 
 > This book throws light on the effects of global climate change.  
 > 这本书使人了解全球气候变化带来的影响。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***light*** adj
@@ -5022,16 +3768,6 @@ You can change your job, you can move house, but friendship is meant to be _____
 > I didn't eat much for lunch, just a light snack.  
 > 我午饭吃得不多，只吃了一点儿小吃。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***light*** v
 ---
@@ -5061,6 +3797,7 @@ You can change your job, you can move house, but friendship is meant to be _____
 > Almost six hundred candles lit the room.   
 > 近六百根蜡烛照亮了这个房间。
 
+
 固定搭配
 ---
 - #### light up 
@@ -5073,6 +3810,7 @@ You can change your job, you can move house, but friendship is meant to be _____
 > Her face lit up with pleasure.   
 > 她的脸上露出欣喜的神色。
 
+
 派生词汇
 ---
 lighten /'laɪtn/ v 
@@ -5080,10 +3818,6 @@ lighten /'laɪtn/ v
 > 减轻负担
 
 lighter /'laɪtə(r)/ n [C] 
-真题解析
----
-[null]
-
 
 # ***light-headedness*** n
 ---
@@ -5096,16 +3830,6 @@ lighter /'laɪtə(r)/ n [C]
 ---
 1. **头晕，眩晕**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lightly*** adv
@@ -5130,16 +3854,6 @@ lighter /'laɪtə(r)/ n [C]
 > This is not a problem we should take lightly.  
 > 这个问题我们可不能掉以轻心。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lightning*** n
 ---
@@ -5156,16 +3870,6 @@ lighter /'laɪtə(r)/ n [C]
 
 > He got out of the water fast as lightning and climbed up a tree.   
 > 他闪电般地上了岸，爬上了一棵树。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***like*** vt  重难点词汇
@@ -5223,6 +3927,7 @@ lighter /'laɪtə(r)/ n [C]
 > You can choose anything you like from the menu.   
 > 菜单上的你可以随便点。
 
+
 固定搭配
 ---
 - #### How do you like ...? 
@@ -5243,9 +3948,7 @@ lighter /'laɪtə(r)/ n [C]
 > I can take you there in my car, if you like.   
 > 如果你愿意，我可以开车送你去那里。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -5253,7 +3956,6 @@ lighter /'laɪtə(r)/ n [C]
 — Oh, ____________ (我愿意).  
 ##### 答案 I’d like / love to  
   
-
 
 # ***like*** prep  重难点词汇
 ---
@@ -5279,16 +3981,6 @@ lighter /'laɪtə(r)/ n [C]
 > You had to be good at something, like sport, or reading the news, or acting.   
 > 你一定要有所擅长，比如体育、新闻播报或表演。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***like*** conj  重难点词汇
 ---
@@ -5312,16 +4004,6 @@ lighter /'laɪtə(r)/ n [C]
 > It sounds like they don't know what's going on either.  
 > 听起来似乎他们也不知道发生了什么事。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***like*** n  重难点词汇
 ---
@@ -5341,16 +4023,6 @@ lighter /'laɪtə(r)/ n [C]
 
 > The post has received more than 184,000 shares and 61,500 likes in just three days.  
 > 帖子仅发出三天就被分享了184000次，收到了61500个赞
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***likely*** adj  重难点词汇
@@ -5384,19 +4056,13 @@ probable：
 > 如果某人求职面试迟到，他不可能得到这份工作。
 
 likely 的主语既可以是人或物，也可以是it。其结构为sb / sth is likely to do sth 和 it is likely + (that) 从句。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 If you find something you love doing outside of the office, you'll be less likely ________ (bring) your work home.  
 ##### 答案 to bring  
   
-
 
 # ***likely*** adv  重难点词汇
 ---
@@ -5415,6 +4081,7 @@ probably：
 > When one wolf starts to howl, very likely others will follow.    
 > 当一只狼嚎叫起来，其他的狼很可能也跟着叫。
 
+
 固定搭配
 ---
 - #### Not likely!
@@ -5427,16 +4094,13 @@ probably：
 > — Not likely!    
 > 不会！
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Studies show that people are more ________ (可能) to suffer from back problems if they always sit before computer screens for long hours.  
 ##### 答案 likely  
   
-
 
 # ***likewise*** adv
 ---
@@ -5449,16 +4113,6 @@ Studies show that people are more ________ (可能) to suffer from back problems
 ---
 1. *高义频：* **同样地；相似地 (similarly)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lily*** n
@@ -5474,16 +4128,6 @@ Studies show that people are more ________ (可能) to suffer from back problems
 1. *高义频：* **百合；百合花**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***limestone*** n
 ---
@@ -5496,16 +4140,6 @@ Studies show that people are more ________ (可能) to suffer from back problems
 ---
 1. **石灰石**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***limit*** n
@@ -5547,6 +4181,7 @@ Studies show that people are more ________ (可能) to suffer from back problems
 > The limits of a person's intelligence are fixed at birth, but whether he reaches these limits will depend on his environment.  
 > 一个人的智力极限是生来就确定了的，但是否能达到这些极限取决于他所处的环境。
 
+
 固定搭配
 ---
 - #### within limits 
@@ -5555,13 +4190,6 @@ Studies show that people are more ________ (可能) to suffer from back problems
 
 > I'm willing to help, within limits.  
 > 我愿意帮忙，可是有一定限度。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***limit*** v
@@ -5582,6 +4210,7 @@ Studies show that people are more ________ (可能) to suffer from back problems
 > A lack of formal education will limit your job opportunities.   
 > 缺乏正规教育会限制你的就业机会。
 
+
 固定搭配
 ---
 - #### limit … to 
@@ -5594,18 +4223,19 @@ Studies show that people are more ________ (可能) to suffer from back problems
 > I limit myself to two cups of coffee a day.   
 > 我只允许自己一天喝两杯咖啡。
 
+
 派生词汇
 ---
 limitation  /ˌlɪmɪ'teɪʃn/ n [U] & [C] 
 limiting /'lɪmɪtɪŋ/ adj 
 limitless /'lɪmɪtləs/ adj 
+
 真题解析
 ---
 ##### 题目  
 Knowledge and learning are important if we want to be successful, but they may also ________ (限制) our thinking.  
 ##### 答案 limit  
   
-
 
 # ***limited*** adj
 ---
@@ -5628,16 +4258,6 @@ Knowledge and learning are important if we want to be successful, but they may a
 > The amount of money we have is limited.  
 > 我们现有的钱不多。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***limitless*** adj
 ---
@@ -5650,16 +4270,6 @@ Knowledge and learning are important if we want to be successful, but they may a
 ---
 1. **无限的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***line*** n
@@ -5729,18 +4339,12 @@ Knowledge and learning are important if we want to be successful, but they may a
 > For weeks my mother had helped me practice my lines.  
 > 这几周以来，妈妈一直帮我练台词。
 
+
 固定搭配
 ---
 - #### in line with sth
 1. **与某事物一致；与某事物紧密相连**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***line*** vt
@@ -5757,6 +4361,7 @@ Knowledge and learning are important if we want to be successful, but they may a
 
 > Thousands of people lined the streets to welcome them.   
 > 成千上万的人夹道欢迎他们。
+
 
 固定搭配
 ---
@@ -5780,13 +4385,6 @@ Knowledge and learning are important if we want to be successful, but they may a
 > Your next task is to find a good band and line them up for the dance.   
 > 你下一个任务是去找个好乐队，然后排好他们在舞会上的位置。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***linguist*** n
 ---
@@ -5800,16 +4398,6 @@ Knowledge and learning are important if we want to be successful, but they may a
 1. **语言学家**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***linguistics*** n
 ---
@@ -5822,16 +4410,6 @@ Knowledge and learning are important if we want to be successful, but they may a
 ---
 1. **语言学**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***link*** n
@@ -5865,16 +4443,6 @@ Knowledge and learning are important if we want to be successful, but they may a
 > a rail / road / telephone link  
 > 铁路/公路/电话线
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***link*** vt
 ---
@@ -5892,6 +4460,7 @@ Knowledge and learning are important if we want to be successful, but they may a
 > He walked with her, linking arms.  
 > 他与她挽臂同行。
 
+
 固定搭配
 ---
 - #### link ... to / with
@@ -5903,13 +4472,6 @@ Knowledge and learning are important if we want to be successful, but they may a
 
 > Yellow is linked with confidence, self-respect and friendliness.    
 > 黄色一般与自信、自尊和友好相关。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lion*** n
@@ -5928,16 +4490,6 @@ Knowledge and learning are important if we want to be successful, but they may a
 > Better be the head of a dog than the tail of a lion.   
 > 宁为犬首，不作狮尾。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lip*** n
 ---
@@ -5954,16 +4506,6 @@ Knowledge and learning are important if we want to be successful, but they may a
 
 > We are closely related as lips and teeth.   
 > 我们唇齿相依。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***liquid*** n
@@ -5982,16 +4524,6 @@ Knowledge and learning are important if we want to be successful, but they may a
 > Most matter has three states: solid, liquid and gas.  
 > 大多数物质有三种形态：固态、液态和气态。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***liquid*** adj
 ---
@@ -6007,16 +4539,6 @@ Knowledge and learning are important if we want to be successful, but they may a
 
 > liquid food   
 > 流质食品
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***list*** vt
@@ -6036,16 +4558,6 @@ Knowledge and learning are important if we want to be successful, but they may a
 
 > Zhoukoudian was listed as a world heritage site in December 1987.   
 > 1987年12月，周口店被列为世界遗产之一。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***list*** n
@@ -6067,16 +4579,6 @@ Knowledge and learning are important if we want to be successful, but they may a
 
 > He has been on the waiting list for an operation for 6 months.   
 > 他排号等待做手术已经6个月了。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***listen*** vi
@@ -6108,6 +4610,7 @@ Knowledge and learning are important if we want to be successful, but they may a
 3. *高义频：* **[口语] 听着；听好**  
 
 
+
 固定搭配
 ---
 - #### listen for 
@@ -6125,13 +4628,10 @@ Knowledge and learning are important if we want to be successful, but they may a
 > Never read other people's mails or listen in on personal conversations.  
 > 不要读他人的信件或偷听私人谈话。
 
+
 派生词汇
 ---
 listener /'lɪsənə(r)/ n [C]
-真题解析
----
-[null]
-
 
 # ***literally*** adv
 ---
@@ -6144,16 +4644,6 @@ listener /'lɪsənə(r)/ n [C]
 ---
 1. *高义频：* **照字义；根据字面意思**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***literary*** adj
@@ -6170,16 +4660,6 @@ listener /'lɪsənə(r)/ n [C]
 
 > literary works / reviews   
 > 文学作品/评论
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***literature*** n
@@ -6198,16 +4678,6 @@ listener /'lɪsənə(r)/ n [C]
 > classical / modern literature   
 > 古典/现代文学
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***litre*** n
 ---
@@ -6225,16 +4695,6 @@ listener /'lɪsənə(r)/ n [C]
 > three litres of water   
 > 三升水
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***litter*** v
 ---
@@ -6250,16 +4710,6 @@ listener /'lɪsənə(r)/ n [C]
 
 > I think that people who litter should be fined.   
 > 我认为乱扔垃圾的人应该被罚款。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***litter*** n
@@ -6280,16 +4730,6 @@ listener /'lɪsənə(r)/ n [C]
 
 > Please do not leave litter after your picnic.  
 > 野餐后请勿留下垃圾。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***little*** adj
@@ -6332,19 +4772,13 @@ listener /'lɪsənə(r)/ n [C]
 > 没有时间讨论细枝末节了。
 
 形容词的比较级和最高级更常用smaller和 smallest，而littler和littlest很少见。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 There's ________ cooking oil left in the house. Would you go to the corner store and get some?  
 ##### 答案 little  
   
-
 
 # ***little*** adv
 ---
@@ -6369,19 +4803,13 @@ There's ________ cooking oil left in the house. Would you go to the corner store
 > 他一点儿也不知道可能会发生什么事。
 
 little作状语置于句首时，句子往往部分倒装，结构为：little + 助动词 / be 动词 / 情态动词 + 主语 + 谓语动词。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Little ________ (罗斯在乎) her own safety, though she was in great danger herself.  
 ##### 答案 did Rose care about  
   
-
 
 # ***little*** pron
 ---
@@ -6400,6 +4828,7 @@ Little ________ (罗斯在乎) her own safety, though she was in great danger he
 
 > I understood little of his speech.   
 > 他的演讲我没怎么听懂。
+
 
 固定搭配
 ---
@@ -6435,13 +4864,6 @@ a little可修饰不可数名词、形容词、副词和动词等。
 1. **相当多**  
 
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***little-known*** adj
 ---
@@ -6454,16 +4876,6 @@ a little可修饰不可数名词、形容词、副词和动词等。
 ---
 1. **鲜为人知的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***live*** adv  重难点词汇
@@ -6481,16 +4893,6 @@ a little可修饰不可数名词、形容词、副词和动词等。
 > **broadcast live**  
 > The concert was broadcast live on BBC.   
 > 那场音乐会由英国广播公司现场直播。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***live*** adj  重难点词汇
@@ -6518,16 +4920,6 @@ a little可修饰不可数名词、形容词、副词和动词等。
 
 > We watched the football match on live television.   
 > 我们看了电视现场直播的足球赛。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***live*** v  重难点词汇
@@ -6561,6 +4953,7 @@ a little可修饰不可数名词、形容词、副词和动词等。
 > **lived happily**  
 > Finally they got married and lived happily ever after.  
 > 最后，他们结婚了，从此过着幸福的生活。
+
 
 固定搭配
 ---
@@ -6615,9 +5008,7 @@ a little可修饰不可数名词、形容词、副词和动词等。
 > You might not like the situation, but you'll have to learn to live with it.  
 > 你可能不喜欢这种情况，但你必须学会忍受。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -6628,7 +5019,6 @@ Had she ________ (遵守) her promise, she would have made it to Yale University
 In modern times, people have to learn to live ________ all kinds of pressure although they are leading a comfortable life.  
 ##### 答案 with  
   
-
 
 # ***livelihood*** n
 ---
@@ -6646,16 +5036,6 @@ In modern times, people have to learn to live ________ all kinds of pressure alt
 > He strongly believed in the three principles: nationalism; people’s rights; people’s livelihood.   
 > 他坚定地相信这三项原则：民主、民权、民生。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***liveliness*** n
 ---
@@ -6668,16 +5048,6 @@ In modern times, people have to learn to live ________ all kinds of pressure alt
 ---
 1. **活泼，快乐，生动**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lively*** adj
@@ -6707,19 +5077,13 @@ In modern times, people have to learn to live ________ all kinds of pressure alt
 > a lively description of a basketball game   
 > 对一场篮球赛的生动描述
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The lessons given by Mr Smith are always ________ (生动的) and interesting.  
 ##### 答案 lively  
   
-
 
 # ***liver*** n
 ---
@@ -6732,16 +5096,6 @@ The lessons given by Mr Smith are always ________ (生动的) and interesting.
 ---
 1. **肝脏**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***living*** adj
@@ -6766,16 +5120,6 @@ The lessons given by Mr Smith are always ________ (生动的) and interesting.
 > **living languages**  
 > living languages (= languages still spoken)  
 > 现用语言
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***living*** n
@@ -6808,6 +5152,7 @@ The lessons given by Mr Smith are always ________ (生动的) and interesting.
 > 对我们来说，活着的比死去的人更重要。
 
 the living表示“活着的人”，作主语时，谓语动词用复数。
+
 固定搭配
 ---
 - #### make / earn a living 
@@ -6822,13 +5167,6 @@ the living表示“活着的人”，作主语时，谓语动词用复数。
 
 ### 辨析 living, alive
 二者均可用作形容词，有“活着的”、“在世的”之意，但用法不尽相同。
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***load*** n
 ---
@@ -6857,6 +5195,7 @@ the living表示“活着的人”，作主语时，谓语动词用复数。
 > She is under great pressure from heavy study loads.  
 > 面对沉重的学业负担，她压力很大。
 
+
 固定搭配
 ---
 - #### loads of / a load of 
@@ -6865,13 +5204,6 @@ the living表示“活着的人”，作主语时，谓语动词用复数。
 
 > There are loads of great places to see in Australia.   
 > 在澳大利亚有很多值得一看的好地方。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***load*** vt
@@ -6894,16 +5226,6 @@ the living表示“活着的人”，作主语时，谓语动词用复数。
 > Even pizza can be healthy if it's loaded with vegetables.  
 > 如果配上蔬菜，比萨也可以成为健康食品。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***loaf*** n
 ---
@@ -6921,16 +5243,6 @@ the living表示“活着的人”，作主语时，谓语动词用复数。
 > a loaf of bread   
 > 一条面包
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***loan*** n
 ---
@@ -6944,16 +5256,6 @@ the living表示“活着的人”，作主语时，谓语动词用复数。
 ---
 1. *高义频：* **贷款；借款**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***local*** adj
@@ -6974,16 +5276,10 @@ the living表示“活着的人”，作主语时，谓语动词用复数。
 > local people  
 > 本地人
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 locally /'ləʊkəli/ adv 
-真题解析
----
-[null]
-
 
 # ***local*** n
 ---
@@ -6996,16 +5292,6 @@ locally /'ləʊkəli/ adv
 ---
 1. **[C] [常用复数] 当地人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***locate*** vt
@@ -7029,16 +5315,6 @@ locally /'ləʊkəli/ adv
 > The company located its branch office in the suburbs.  
 > 这家公司在郊区设立了办事处。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***located*** adj
 ---
@@ -7052,6 +5328,7 @@ locally /'ləʊkəli/ adv
 1. *高义频：* **坐落于；位于**  
 
 
+
 固定搭配
 ---
 - #### (be) located in / on
@@ -7063,13 +5340,6 @@ locally /'ləʊkəli/ adv
 
 > Qingdao is an attractive city located on the eastern coast of China.   
 > 青岛是一座迷人的城市，位于中国东部沿海地区。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***location*** n
@@ -7089,16 +5359,6 @@ locally /'ləʊkəli/ adv
 > The location of the factory is close to the railway.  
 > 工厂地处铁路沿线。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***loch*** n
 ---
@@ -7111,16 +5371,6 @@ locally /'ləʊkəli/ adv
 ---
 1. **（狭长的）海湾**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lock*** v
@@ -7145,16 +5395,6 @@ locally /'ləʊkəli/ adv
 > Oliver was immediately locked in a room.    
 > 奥利弗立刻被锁进一间屋子里。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lock*** n
 ---
@@ -7175,18 +5415,12 @@ locally /'ləʊkəli/ adv
 > a bicycle lock   
 > 自行车车锁
 
+
 固定搭配
 ---
 - #### lock up
 1. **锁好 (门窗)；把…锁藏好**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***locker*** n
@@ -7201,16 +5435,6 @@ locally /'ləʊkəli/ adv
 1. **（带锁的）衣物柜**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***log*** v
 ---
@@ -7224,6 +5448,7 @@ locally /'ləʊkəli/ adv
 1. *高义频：* **vt & vi 记录 (record)**  
 
 
+
 固定搭配
 ---
 - #### log in / on
@@ -7232,13 +5457,6 @@ locally /'ləʊkəli/ adv
 
 > You need a password to log on.  
 > 你需要密码才能登录。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***logic*** n
@@ -7254,16 +5472,6 @@ locally /'ləʊkəli/ adv
 1. *高义频：* **逻辑 (学)；道理**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***logical*** adj
 ---
@@ -7276,16 +5484,6 @@ locally /'ləʊkəli/ adv
 ---
 1. *高义频：* **符合逻辑的；合乎情理的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***logically*** adv
@@ -7300,16 +5498,6 @@ locally /'ləʊkəli/ adv
 1. *高义频：* **逻辑上；合逻辑地；有条理地**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***logo*** n
 ---
@@ -7322,16 +5510,6 @@ locally /'ləʊkəli/ adv
 ---
 1. **（公司或组织的）标识；标志**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***loneliness*** n
@@ -7349,16 +5527,6 @@ locally /'ləʊkəli/ adv
 
 > The study surveyed 500 families and found the main psychological problem people suffered was tiredness, followed by loneliness and anxiety.   
 > 这项研究对500个家庭进行了调查，发现人们承受的主要心理问题是疲劳，其次是孤独和焦虑。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lonely*** adj
@@ -7385,16 +5553,6 @@ locally /'ləʊkəli/ adv
 
 > a lonely place / road  
 > 荒凉的地方/偏僻的道路
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***long*** adj  重难点词汇
@@ -7425,16 +5583,6 @@ locally /'ləʊkəli/ adv
 > **in the long run**  
 > All our hard work will be worth it in the long run.  
 > 从长远来看，我们的辛苦都是值得的。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***long*** adv  重难点词汇
@@ -7467,6 +5615,7 @@ locally /'ləʊkəli/ adv
 > **all day,night long**  
 > all day / night long  
 > 整天/整夜
+
 
 固定搭配
 ---
@@ -7507,9 +5656,7 @@ locally /'ləʊkəli/ adv
 > No longer has she kept in touch with us since she went abroad for further education.   
 > 自从出国留学后，她就不再和我们保持联系了。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -7524,7 +5671,6 @@ C.as if
 D.ever since  
 ##### 答案 as / so long as  
   
-
 
 # ***long*** vi  重难点词汇
 ---
@@ -7553,16 +5699,6 @@ D.ever since
 > She longed for him to ask her to dance.   
 > 她巴不得他邀请自己跳舞。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***long-haired*** adj
 ---
@@ -7575,16 +5711,6 @@ D.ever since
 ---
 1. **长发的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***long-term*** adj
@@ -7602,16 +5728,6 @@ D.ever since
 > a long-term plan   
 > 长期计划
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***longing*** n
 ---
@@ -7624,16 +5740,6 @@ D.ever since
 ---
 1. **渴望**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***longitude*** n
@@ -7648,16 +5754,6 @@ D.ever since
 ---
 1. *高义频：* **经线；经度**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***look*** v  重难点词汇
@@ -7717,6 +5813,7 @@ D.ever since
 
 > Please look what time the train starts.   
 > 请留心一下火车什么时候开。
+
 
 固定搭配
 ---
@@ -7881,9 +5978,7 @@ D.ever since
 > Her first novel was published in 2014 and since then she hasn't looked back.  
 > 她的第一部小说于2014年发表，自此她便一发不可收拾。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -7910,7 +6005,6 @@ It is reported that the police will soon look ________ the case of two missing c
 Would you please look ________ the paper for me and see if there are any obvious mistakes?   
 ##### 答案 through  
   
-
 
 # ***look*** n  重难点词汇
 ---
@@ -7966,16 +6060,6 @@ a fashion or a style：
 > They’ve given the shop a completely new look to appeal to young customers.  
 > 他们把商店装修一新以便吸引年轻的顾客。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***loop*** n
 ---
@@ -7989,16 +6073,6 @@ a fashion or a style：
 ---
 1. *高义频：* **圈；环**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***loose*** adj
@@ -8028,16 +6102,6 @@ a fashion or a style：
 > a loose term  
 > 不严密的术语
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***loose*** vt
 ---
@@ -8051,16 +6115,10 @@ a fashion or a style：
 1. *高义频：* **松开；释放**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 loosely /'luːsli/ adv 
-真题解析
----
-[null]
-
 
 # ***loosen*** vt
 ---
@@ -8074,16 +6132,6 @@ loosely /'luːsli/ adv
 1. **松开；放松；放宽**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***loosen*** vi
 ---
@@ -8096,16 +6144,6 @@ loosely /'luːsli/ adv
 ---
 1. **变松；松弛**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lord*** n
@@ -8121,16 +6159,6 @@ loosely /'luːsli/ adv
 1. *高义频：* **贵族；领主；君主；[常大写首字母] 上帝**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lorry*** n
 ---
@@ -8144,16 +6172,6 @@ loosely /'luːsli/ adv
 ---
 1. *高义频：* **卡车；运货汽车 (AmE truck)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lose*** v
@@ -8216,6 +6234,7 @@ loosely /'luːsli/ adv
 > Come on, there’s no time to lose.   
 > 快点儿，没时间磨蹭了。
 
+
 固定搭配
 ---
 - #### lose oneself in 
@@ -8225,13 +6244,10 @@ loosely /'luːsli/ adv
 > She listened attentively to the music, losing herself in its beauty.   
 > 她专注地听着音乐，完全沉浸在美妙的旋律之中。
 
+
 派生词汇
 ---
 loser /'luːzə(r)/ n [C]
-真题解析
----
-[null]
-
 
 # ***loss*** n
 ---
@@ -8287,6 +6303,7 @@ loser /'luːzə(r)/ n [C]
 > If she leaves, it will be a big loss to the school.  
 > 如果她离开，这将是学校的一大损失。
 
+
 固定搭配
 ---
 - #### at a loss
@@ -8299,13 +6316,6 @@ loser /'luːzə(r)/ n [C]
 > **at a loss for words**  
 > Their snowy mountaintops form a beautiful picture that will leave you at a loss for words (= unable to think what to say).  
 > 它们那些白雪皑皑的山顶构成了一幅美丽的图画，美得让你无法用语言形容。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lost*** adj
@@ -8348,6 +6358,7 @@ loser /'luːzə(r)/ n [C]
 > It’ll be impossible to make up the lost time.   
 > 逝去的时间无法弥补。
 
+
 固定搭配
 ---
 - #### (be) lost in 
@@ -8359,13 +6370,6 @@ loser /'luːzə(r)/ n [C]
 
 > Lost in thought, he almost ran into the car in front of him.   
 > 由于陷入了沉思，他差点儿撞上前面的车。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lot*** pron
@@ -8386,6 +6390,7 @@ loser /'luːzə(r)/ n [C]
 > He has invited nearly a hundred people but a lot aren’t able to come.   
 > 他邀请了差不多100人，但很多人来不了。
 
+
 固定搭配
 ---
 - #### a lot of / lots of
@@ -8398,13 +6403,6 @@ loser /'luːzə(r)/ n [C]
 > There were lots of people in the shop.   
 > 商店里的人很多。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lot*** adv
 ---
@@ -8416,6 +6414,7 @@ loser /'luːzə(r)/ n [C]
 英文释义
 ---
 1. *高义频：* **很；非常**  
+
 
 
 固定搭配
@@ -8439,13 +6438,6 @@ loser /'luːzə(r)/ n [C]
 > These days, he drinks lots more than before.   
 > 他最近喝得比以前多多了。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lot*** n
 ---
@@ -8462,16 +6454,6 @@ loser /'luːzə(r)/ n [C]
 > **parking lot**  
 > a parking lot  
 > 停车场
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***loud*** adj
@@ -8491,16 +6473,6 @@ loser /'luːzə(r)/ n [C]
 
 > The noise was so loud that I couldn’t go on studying.   
 > 噪音太大，我无法继续学习。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***loud*** adv
@@ -8523,16 +6495,6 @@ loser /'luːzə(r)/ n [C]
 
 ### 辨析 loud, loudly, aloud
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***loudly*** adv
 ---
@@ -8551,16 +6513,6 @@ loser /'luːzə(r)/ n [C]
 
 ### 辨析 loud, loudly, aloud
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***loudspeaker*** n
 ---
@@ -8575,16 +6527,6 @@ loser /'luːzə(r)/ n [C]
 1. *高义频：* **扬声器；喇叭**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lounge*** n
 ---
@@ -8598,16 +6540,6 @@ loser /'luːzə(r)/ n [C]
 ---
 1. *高义频：* **(旅馆等处的) 休息厅；(私宅的) 起居室**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***love*** vt  重难点词汇
@@ -8655,16 +6587,10 @@ loser /'luːzə(r)/ n [C]
 > I’d love you to come with me.   
 > 我想让你跟我一起去。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 lover /'lʌvə(r)/ n [C]
-真题解析
----
-[null]
-
 
 # ***love*** n  重难点词汇
 ---
@@ -8697,6 +6623,7 @@ lover /'lʌvə(r)/ n [C]
 > Their love for each other grew deeper every day.   
 > 他们之间的爱与日俱增。
 
+
 固定搭配
 ---
 - #### be in love (with)
@@ -8712,13 +6639,6 @@ lover /'lʌvə(r)/ n [C]
 
 > If you fall in love with something and do it all the time, you will get better at it.  
 > 如果你喜欢上某件事，并一直坚持做下去，就会做得更好。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lovely*** adj
@@ -8742,16 +6662,6 @@ lover /'lʌvə(r)/ n [C]
 
 > We had a lovely holiday.   
 > 我们度过了一个愉快的假期。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***low*** adj
@@ -8791,6 +6701,7 @@ lover /'lʌvə(r)/ n [C]
 > He was feeling a bit low, so I did my best to cheer him up.   
 > 他的情绪有点儿低落，所以我尽力让他高兴起来。
 
+
 固定搭配
 ---
 - #### be low in 
@@ -8799,13 +6710,6 @@ lover /'lʌvə(r)/ n [C]
 
 > For good heart health, eat a diet that is low in fat and salt.   
 > 为了心脏健康，饮食要低脂少盐。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***low*** adv
@@ -8829,16 +6733,6 @@ lover /'lʌvə(r)/ n [C]
 > She bought it low.   
 > 这东西她买得便宜。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***low-carbon*** adj
 ---
@@ -8852,16 +6746,6 @@ lover /'lʌvə(r)/ n [C]
 1. **低碳的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lowdown*** adj
 ---
@@ -8874,16 +6758,6 @@ lover /'lʌvə(r)/ n [C]
 ---
 1. **卑鄙的, 卑劣的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lower*** vt
@@ -8914,16 +6788,6 @@ lover /'lʌvə(r)/ n [C]
 > This shop has lowered its prices.   
 > 这家商店已降低了价格。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lower*** adj
 ---
@@ -8942,16 +6806,6 @@ lover /'lʌvə(r)/ n [C]
 
 > Temperatures will be lower over the weekend.   
 > 周末气温会更低。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***loyal*** adj
@@ -8974,16 +6828,10 @@ lover /'lʌvə(r)/ n [C]
 > He has remained loyal to his political principles.  
 > 他坚持自己的政治原则。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 loyalty /'lɔɪəlti/ n [U] 
-真题解析
----
-[null]
-
 
 # ***luck*** n
 ---
@@ -9019,6 +6867,7 @@ loyalty /'lɔɪəlti/ n [U]
 > He had the luck to escape death in the accident.   
 > 他在事故中幸免于难。
 
+
 固定搭配
 ---
 - #### good luck (with sth) 
@@ -9028,9 +6877,7 @@ loyalty /'lɔɪəlti/ n [U]
 > Good luck with your exams.   
 > 祝你考试成功！
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -9038,7 +6885,6 @@ Tom: Mike, our team will play against the Rockets this weekend. I’m sure we wi
 Mike: ________(祝你好运)!  
 ##### 答案 Good luck  
   
-
 
 # ***luckily*** adv
 ---
@@ -9054,16 +6900,6 @@ Mike: ________(祝你好运)!
 
 > Luckily nobody was killed in that incident.   
 > 幸运的是，没有人在那次事件中丧生。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lucky*** adj
@@ -9092,16 +6928,6 @@ Mike: ________(祝你好运)!
 > a lucky charm  
 > 护身符。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***luggage*** n
 ---
@@ -9119,16 +6945,6 @@ Mike: ________(祝你好运)!
 > an article / a piece of luggage   
 > 一件行李
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lump*** n
 ---
@@ -9141,16 +6957,6 @@ Mike: ________(祝你好运)!
 ---
 1. **团, 块**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lunar*** adj
@@ -9167,16 +6973,6 @@ Mike: ________(祝你好运)!
 
 > the lunar calendar  
 > 阴历
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lunch*** n
@@ -9203,6 +6999,7 @@ Mike: ________(祝你好运)!
 > What do you have for lunch?   
 > 你午餐吃什么？
 
+
 固定搭配
 ---
 - #### at lunch 
@@ -9211,13 +7008,6 @@ Mike: ________(祝你好运)!
 
 > They were at lunch when we got there.   
 > 我们到那里时，他们正在吃午饭。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***lung*** n
@@ -9232,16 +7022,6 @@ Mike: ________(祝你好运)!
 ---
 1. *高义频：* **肺**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***luxury*** n
@@ -9260,16 +7040,6 @@ Mike: ________(祝你好运)!
 > lead a life of luxury  
 > 过奢侈的生活
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***lyrics*** n
 ---
@@ -9283,13 +7053,4 @@ Mike: ________(祝你好运)!
 1. **（复）歌词**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 

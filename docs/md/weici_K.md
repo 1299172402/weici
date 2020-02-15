@@ -1,198 +1,4 @@
-
-# ***Kaiser*** n
----
-英音 'kaɪzə(r)     美音 'kaɪzər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **德国皇帝（1888-1918）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Kakado*** n
----
-英音 'kækədu:     美音 'kækədu:
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **卡喀杜（澳大利亚地名，卡喀杜国家公园所在地）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Kenya*** n
----
-英音 'kenjə     美音 'kenjə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **肯尼亚 (非洲国家)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Kingdom*** n
----
-英音 'kɪŋdəm     美音 'kɪŋdəm
-
-词频 2 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
-
-英文释义
----
-1. *高义频：* **王国：**  
-
-
-> the United Kingdom of Great Britain and Northern Ireland  
-> 大不列颠及北爱尔兰联合王国
-
-2. *低义频：* **(生物等的) 界：**  
-
-
-> **the animal kingdom**  
-> the animal kingdom   
-> 动物界
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Koala*** n
----
-英音 kəʊ'ɑːlə     美音 koʊ'ɑːlə
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **树袋熊；考拉**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Korea*** n
----
-英音 kə'riə     美音 kə'riə
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **韩国；朝鲜**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Korean*** n
----
-英音 kə'riən     美音 kə'riən
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **韩国/朝鲜人；朝鲜/韩语**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Korean*** adj
----
-英音 kə'riən     美音 kə'riən
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **韩国 (人 / 语) 的；朝鲜 (人 / 语) 的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
+# Kk
 
 # ***kangaroo*** n
 ---
@@ -206,16 +12,6 @@
 ---
 1. *高义频：* **袋鼠**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***karaoke*** n
@@ -231,16 +27,6 @@
 1. *高义频：* **卡拉OK录音；自动伴奏录音**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***kebab*** n
 ---
@@ -253,16 +39,6 @@
 ---
 1. *高义频：* **(= kabob) (印度) 烤腌羊肉串；肉串上的肉块**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***keen*** adj
@@ -306,16 +82,6 @@ very interested in sth：
 > **a keen eye for**  
 > She has a keen eye for (= is good at noticing) talent.  
 > 她慧眼识才。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***keep*** v  重难点词汇
@@ -389,6 +155,7 @@ very interested in sth：
 
 > keep a diary  
 > 写日记
+
 
 固定搭配
 ---
@@ -486,9 +253,11 @@ to continue：
 > I had to walk fast to keep up with him.  
 > 我要快走才能跟上他。
 
+
 派生词汇
 ---
 keeper /'kiːpə(r)/ n [C]
+
 真题解析
 ---
 ##### 题目  
@@ -514,7 +283,6 @@ Would you slow down a bit, please? I can't keep up ________ you.
 ##### 答案 with  
   
 
-
 # ***kettle*** n
 ---
 英音 'ketl     美音 'ketl
@@ -527,16 +295,6 @@ Would you slow down a bit, please? I can't keep up ________ you.
 ---
 1. *高义频：* **水壶**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***key*** adj
@@ -554,16 +312,6 @@ Would you slow down a bit, please? I can't keep up ________ you.
 > **key figure / key points**  
 > a key figure / key points  
 > 关键人物/要点
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***key*** n
@@ -617,19 +365,13 @@ Would you slow down a bit, please? I can't keep up ________ you.
 > Don't hit / strike the keys of the computer so hard.  
 > 不要那么用力地敲电脑的按键。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The key to ________ (overcome) this problem is to believe in yourself.  
 ##### 答案 overcoming  
   
-
 
 # ***keyboard*** n
 ---
@@ -644,16 +386,6 @@ The key to ________ (overcome) this problem is to believe in yourself.
 1. *高义频：* **(钢琴、计算机等的)键盘**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***keyword*** n
 ---
@@ -666,16 +398,6 @@ The key to ________ (overcome) this problem is to believe in yourself.
 ---
 1. **密码; 口令**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***kick*** n
@@ -706,16 +428,6 @@ a feeling of great pleasure, excitement, etc.：
 > The kid will get a kick out of finding the answer by himself.   
 > 孩子自己找到答案会极其兴奋。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***kick*** v
 ---
@@ -731,6 +443,7 @@ a feeling of great pleasure, excitement, etc.：
 
 > A boy was kicking a ball around in the yard.   
 > 一个男孩正在院子里踢球。
+
 
 固定搭配
 ---
@@ -748,13 +461,6 @@ a feeling of great pleasure, excitement, etc.：
 > Beijing Arts Festival will kick off on April 27 and run through May 31.  
 > 北京艺术节将在4月27日开始，持续到5月31日。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***kid*** n
 ---
@@ -769,16 +475,6 @@ a feeling of great pleasure, excitement, etc.：
 1. *高义频：* **小孩；小伙子**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***kidney*** n
 ---
@@ -791,16 +487,6 @@ a feeling of great pleasure, excitement, etc.：
 ---
 1. **肾, 肾脏**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***kill*** v
@@ -831,16 +517,10 @@ a feeling of great pleasure, excitement, etc.：
 > I was killing my time at home when I discovered the online computer courses.  
 > 我正在家里消磨时间，这时我发现了在线的电脑课程。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 killing /'kɪlɪŋ/ n [C]
-真题解析
----
-[null]
-
 
 # ***kilo*** n
 ---
@@ -854,16 +534,6 @@ killing /'kɪlɪŋ/ n [C]
 ---
 1. *高义频：* **千克 (kilogram)；千米；公里 (kilometre / kilometer)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***kilogram*** n
@@ -879,16 +549,6 @@ killing /'kɪlɪŋ/ n [C]
 1. *高义频：* **千克 (kg)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***kilogramme*** n
 ---
@@ -902,16 +562,6 @@ killing /'kɪlɪŋ/ n [C]
 ---
 1. *高义频：* **千克 (kg)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***kilometer*** n
@@ -927,16 +577,6 @@ killing /'kɪlɪŋ/ n [C]
 1. *高义频：* **千米；公里 (k / km)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***kilometre*** n
 ---
@@ -950,16 +590,6 @@ killing /'kɪlɪŋ/ n [C]
 ---
 1. *高义频：* **千米；公里 (k / km)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***kind*** n
@@ -978,6 +608,7 @@ killing /'kɪlɪŋ/ n [C]
 > **all kinds of**  
 > You can find all kinds of information in just a few minutes on the Internet.   
 > 在互联网上，只要几分钟你就能找到各种各样的信息。
+
 
 固定搭配
 ---
@@ -998,13 +629,6 @@ slightly; in some ways：
 
 > I was kind of upset that you weren't there.  
 > 你没出现我有点不安。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***kind*** adj
@@ -1027,6 +651,7 @@ slightly; in some ways：
 > To avoid conflicts, we should be kind to one another.  
 > 为了避免冲突，我们应该友好相待。
 
+
 固定搭配
 ---
 - #### be so kind as to / be kind enough to 
@@ -1035,13 +660,6 @@ slightly; in some ways：
 
 > Will you be so kind as to shut the door?   
 > 请您关上门好吗？
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***kindergarten*** n
@@ -1057,19 +675,13 @@ slightly; in some ways：
 1. *高义频：* **幼儿园**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Callie will start  ________ ( 幼儿园) in September.   
 ##### 答案 kindergarten  
   
-
 
 # ***kindly*** adv
 ---
@@ -1083,16 +695,6 @@ Callie will start  ________ ( 幼儿园) in September.
 1. *高义频：* **友善地；亲切地；[正式用语] [用于客套语] 请**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***kindly*** adj
 ---
@@ -1105,16 +707,6 @@ Callie will start  ________ ( 幼儿园) in September.
 ---
 1. *高义频：* **友善的；亲切的 (kind)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***kindness*** n
@@ -1145,16 +737,6 @@ Callie will start  ________ ( 幼儿园) in September.
 > Will you do me a kindness?   
 > 你能帮帮我吗?
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***king*** n
 ---
@@ -1168,16 +750,6 @@ Callie will start  ________ ( 幼儿园) in September.
 ---
 1. *高义频：* **国王；大王**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***kiss*** v
@@ -1199,6 +771,7 @@ Callie will start  ________ ( 幼儿园) in September.
 > kiss sb good night / goodbye   
 > 与某人亲吻道晚安/说再见
 
+
 固定搭配
 ---
 - #### kiss sth goodbye / kiss goodbye to sth
@@ -1207,13 +780,6 @@ Callie will start  ________ ( 幼儿园) in September.
 
 > I might as well kiss the scholarship goodbye.   
 > 我还是放弃奖学金算了。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***kiss*** n
@@ -1233,16 +799,6 @@ Callie will start  ________ ( 幼儿园) in September.
 > The mother gave her little daughter a kiss.   
 > 妈妈亲了一下小女儿。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***kit*** n
 ---
@@ -1259,16 +815,6 @@ Callie will start  ________ ( 幼儿园) in September.
 > a first-aid kit  
 > 一套急救用品
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***kitchen*** n
 ---
@@ -1283,19 +829,13 @@ Callie will start  ________ ( 幼儿园) in September.
 1. *高义频：* **厨房**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Mum is cooking in the k________ while Dad is watching TV.   
 ##### 答案 kitchen  
   
-
 
 # ***kite*** n
 ---
@@ -1313,16 +853,6 @@ Mum is cooking in the k________ while Dad is watching TV.
 > fly / send up a kite  
 > 放风筝
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***kitten*** n
 ---
@@ -1336,16 +866,6 @@ Mum is cooking in the k________ while Dad is watching TV.
 ---
 1. *高义频：* **小猫**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***knee*** n
@@ -1368,16 +888,6 @@ Mum is cooking in the k________ while Dad is watching TV.
 > be / fall on one's knees  
 > 跪着/跪下
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***knife*** n
 ---
@@ -1391,16 +901,6 @@ Mum is cooking in the k________ while Dad is watching TV.
 ---
 1. *高义频：* **(pl knives) 刀；餐刀：**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***knight*** n
@@ -1416,16 +916,6 @@ Mum is cooking in the k________ while Dad is watching TV.
 1. *高义频：* **骑士；爵士**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***knighthood*** n
 ---
@@ -1438,16 +928,6 @@ Mum is cooking in the k________ while Dad is watching TV.
 ---
 1. **（英国的）爵士封号或头衔**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***knock*** v
@@ -1477,6 +957,7 @@ Mum is cooking in the k________ while Dad is watching TV.
 > **knocked,on**  
 > She had knocked her head on a stone.   
 > 她的头撞上了石头。
+
 
 固定搭配
 ---
@@ -1521,13 +1002,6 @@ Mum is cooking in the k________ while Dad is watching TV.
 > Roy’s father was knocked over by a car.   
 > 罗伊的爸爸被车撞倒了。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***knock*** n
 ---
@@ -1546,16 +1020,6 @@ Mum is cooking in the k________ while Dad is watching TV.
 > There is a knock at / on the door.   
 > 有人敲门。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***knot*** n
 ---
@@ -1571,16 +1035,6 @@ Mum is cooking in the k________ while Dad is watching TV.
 
 > Chinese knots  
 > 中国结
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***know*** v
@@ -1630,6 +1084,7 @@ Mum is cooking in the k________ while Dad is watching TV.
 > Sometimes I felt lonely because I hardly knew any people.  
 > 有时我感到孤单，因为我几乎不认识什么人。
 
+
 固定搭配
 ---
 - #### be known as 
@@ -1674,13 +1129,6 @@ Mum is cooking in the k________ while Dad is watching TV.
 > I don't know him, but I know of him.  
 > 我不认识他，但听说过他。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***knowledge*** n
 ---
@@ -1714,22 +1162,20 @@ Mum is cooking in the k________ while Dad is watching TV.
 > We had no knowledge of that incident.   
 > 我们对那次事件一无所知。
 
+
 固定搭配
 ---
 - #### to (the best of) sb's knowledge
 1. **据某人所知**  
 
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 If we go on a trip abroad, we can broaden our view and gain knowledges we cannot get from books.  
 ##### 答案 knowledges → knowledge  
   
-
 
 # ***knuckle*** n
 ---
@@ -1743,13 +1189,4 @@ If we go on a trip abroad, we can broaden our view and gain knowledges we cannot
 1. **指节；掌指关节**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 

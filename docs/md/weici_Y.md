@@ -1,26 +1,4 @@
-
-# ***Yeti*** n
----
-英音 'jeti     美音 'jeti
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **雪人，野人 (= Abominable Snowman)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
+# Yy
 
 # ***yak*** n
 ---
@@ -34,16 +12,6 @@
 ---
 1. *高义频：* **牦牛**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***yard*** n
@@ -71,16 +39,6 @@
 2. *高义频：* **[长度单位，=0.914米] 码**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***yawn*** n
 ---
@@ -98,16 +56,6 @@
 > He gave a yawn and then fell asleep.  
 > 他打了个哈欠，然后就睡着了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***yawn*** vi
 ---
@@ -124,16 +72,6 @@
 > His speech made the audience yawn.   
 > 他的演讲令听众直打哈欠。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***yeah*** adv
 ---
@@ -146,16 +84,6 @@
 ---
 1. *高义频：* **[口语] 是；对 (yes)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***year*** n
@@ -186,6 +114,7 @@
 > I haven’t played the piano for years.   
 > 我很久没弹钢琴了。
 
+
 固定搭配
 ---
 - #### all (the) year round 
@@ -209,13 +138,6 @@
 > Year by year my father became weaker.   
 > 我父亲的身体一年比一年差。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***yearly*** adj
 ---
@@ -232,16 +154,6 @@
 > Mr Davis takes a yearly trip to Europe.   
 > 戴维斯先生每年去欧洲旅行一次。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***yearly*** adv
 ---
@@ -257,16 +169,6 @@
 
 > Interest is paid yearly.   
 > 利息每年支付一次。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***yell*** v
@@ -290,16 +192,6 @@
 > “Help me!”she yelled at the top of her voice (= very loudly).  
 > “救救我！”她声嘶力竭地喊道。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***yell*** n
 ---
@@ -312,16 +204,6 @@
 ---
 1. **叫喊，大喊，吼叫**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***yellow*** n
@@ -337,16 +219,6 @@
 1. *高义频：* **黄色**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***yellow*** adj
 ---
@@ -359,16 +231,6 @@
 ---
 1. *高义频：* **黄色的；发黄的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***yes*** n
@@ -386,16 +248,6 @@
 
 > Answer with a yes or a no.   
 > 回答是或不是。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***yes*** adv
@@ -431,16 +283,6 @@
 > Your work is good, yes, very good.   
 > 你的工作干得很好，对，干得很好。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***yesterday*** adv
 ---
@@ -457,16 +299,6 @@
 
 > He arrived yesterday.   
 > 他昨天到达。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***yesterday*** n
@@ -492,16 +324,6 @@
 > Yesterday will not be called again.   
 > 昨日一去不复返。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***yet*** conj
 ---
@@ -521,12 +343,7 @@
 > She is a funny girl, and yet you can’t help liking her.  
 > 她是个滑稽的姑娘，可你会禁不住喜欢她。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -537,7 +354,6 @@ C.even
 D.thus  
 ##### 答案 A  
   
-
 
 # ***yet*** adv
 ---
@@ -579,6 +395,7 @@ D.thus
 > I have yet more exciting news to tell you.   
 > 我还有更令人激动的消息告诉你。
 
+
 固定搭配
 ---
 - #### not yet
@@ -591,9 +408,7 @@ D.thus
 > — Not yet.  
 > 还没有。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -601,7 +416,6 @@ D.thus
 — ________ (还没有). Just half of it, how about you?  
 ##### 答案 Not yet  
   
-
 
 # ***yield*** n
 ---
@@ -614,16 +428,6 @@ D.thus
 ---
 1. **产量**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***yoga*** n
@@ -638,16 +442,6 @@ D.thus
 1. **瑜伽术**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***yoghurt*** n
 ---
@@ -661,16 +455,6 @@ D.thus
 ---
 1. *高义频：* **酸乳；酸奶**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***you*** pron
@@ -691,16 +475,6 @@ D.thus
 > You have to be careful with people you don’t know.  
 > 对不认识的人要小心。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***young*** n
 ---
@@ -719,16 +493,6 @@ D.thus
 
 2. *高义频：* **幼小动物；崽**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***young*** adj
@@ -761,16 +525,6 @@ D.thus
 > She looks young for her age.   
 > 她看起来比实际年龄小。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***youngster*** n
 ---
@@ -784,16 +538,6 @@ D.thus
 1. **年轻人**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***your*** pron
 ---
@@ -806,16 +550,6 @@ D.thus
 ---
 1. *高义频：* **[形容词性物主代词，只作定语] 你的；你们的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***yours*** pron
@@ -842,16 +576,6 @@ D.thus
 2. *高义频：* **[在信末署名前与truly, faithfully, sincerely等连用] 敬上**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***yourself*** pron
 ---
@@ -872,19 +596,13 @@ D.thus
 > You yourself told me the news.   
 > 是你亲自把这消息告诉我的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Treat ________ (you) to a glass of wine to help you relax at the end of the day.   
 ##### 答案 yourself  
   
-
 
 # ***youth*** n
 ---
@@ -915,16 +633,6 @@ Treat ________ (you) to a glass of wine to help you relax at the end of the day.
 > The youth of today has / have greater opportunities than ever before.   
 > 现在的年轻人拥有的机会比以往任何时候都要多。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***yummy*** adj
 ---
@@ -938,13 +646,4 @@ Treat ________ (you) to a glass of wine to help you relax at the end of the day.
 1. *高义频：* **美味的；可口的；赏心悦目的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 

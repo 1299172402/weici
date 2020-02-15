@@ -1,534 +1,4 @@
-
-# ***BBC*** 
----
-
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **英国广播公司=British Broadcasting Corporation**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***BBQ*** n
----
-
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **(barbecue的缩写) 烧烤野餐**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Bangladesh*** n
----
-英音 ˌbɑ:ŋgləˈdeʃ     美音 ˌbɑŋɡləˈdeʃ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **孟加拉国 (亚洲国家)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Belgian*** adj
----
-英音 'beldʒən     美音 'beldʒən
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **比利时（人）的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Belgian*** n
----
-英音 'beldʒən     美音 'beldʒən
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **比利时人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Belgium*** n
----
-英音 'beldʒəm     美音 'beldʒəm
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **比利时**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Berlin*** n
----
-英音 bə:ˈlin     美音 bə:ˈlin
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **柏林 (德国首都)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Bible*** n
----
-英音 'baɪbl     美音 'baɪbl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [与the连用]
-
-英文释义
----
-1. *高义频：* **圣经**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Bigfoot*** n
----
-英音 'bɪɡfʊt     美音 'bɪɡfʊt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **北美野人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Boston*** n
----
-英音 'bɒstən     美音 'bɔːstənˌ 'bɑːstən
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **波士顿 (美国东北部城市)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Brazil*** n
----
-英音 brə'zɪl     美音 brə'zɪl
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **巴西**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Brazilian*** adj
----
-英音 brə'zɪliən     美音 brə'zɪliən
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **巴西的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Brazilian*** n
----
-英音 brə'zɪliən     美音 brə'zɪliən
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **巴西人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Brit*** n
----
-英音 brɪt     美音 brɪt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **英国人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Britain*** n
----
-英音 'brɪtn     美音 'brɪtn
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **英国（U.K.） （UK=the United Kingdom）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***British*** n
----
-英音 'brɪtɪʃ     美音 'brɪtɪʃ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **英国人；英式英语**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***British*** adj
----
-英音 'brɪtɪʃ     美音 'brɪtɪʃ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **英国的；不列颠的；英国人的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Brunei*** n
----
-英音 'bru:naɪ     美音 bru:'naɪ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **文莱**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Buddha*** n
----
-英音 'bʊdə     美音 'bʊdə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **佛**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Buddhism*** n
----
-英音 'bʊdɪzəm     美音 'bʊdɪzəm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
-
-英文释义
----
-1. *高义频：* **佛教**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Buddhist*** n
----
-英音 'bʊdɪst     美音 'bʊdɪst
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **佛教徒**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Buddhist*** adj
----
-英音 'bʊdɪst     美音 'bʊdɪst
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **佛教的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Burmese*** adj
----
-英音 bɜː'miːz     美音 bɜːr'miːz
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **缅甸的；缅甸人的；缅甸语的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
+# Bb
 
 # ***baby*** n
 ---
@@ -551,16 +21,6 @@
 
 > baby birds  
 > 雏鸟
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bachelor*** n
@@ -585,16 +45,6 @@
 
 2. *低义频：* **未婚男子；单身汉**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***back*** n
@@ -631,18 +81,12 @@
 > Two men were sitting in the back of the car.   
 > 两名男子正坐在汽车的后排。
 
+
 固定搭配
 ---
 - #### back to back
 1. **背靠背**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***back*** v
@@ -667,6 +111,7 @@
 > a government-backed programme  
 > 政府支持的项目
 
+
 固定搭配
 ---
 - #### back away (from)
@@ -687,13 +132,6 @@
 > Reminder: Your computer is not backed up.  
 > 提醒：您的电脑没有备份。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***back*** adj
 ---
@@ -712,16 +150,6 @@
 
 > The magazine is a back number. You can take it out of the reading room.   
 > 这是本过期的杂志，你可以把它带出阅览室。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***back*** adv
@@ -765,6 +193,7 @@
 > I remember back in high school I spent most of my day at school.  
 > 我记得中学时我一天的大部分时间都是在学校度过的。
 
+
 固定搭配
 ---
 - #### back and forth 
@@ -773,13 +202,6 @@
 
 > They are dressed in beautiful clothes, skipping back and forth to the rhythm of loud drums.  
 > 他们身着亮丽的服装，和着响亮的鼓点扭来扭去。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***backflip*** n
@@ -793,16 +215,6 @@
 ---
 1. **直体后空翻**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***background*** n
@@ -846,16 +258,6 @@
 > red letters on a white background   
 > 白底红字
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***backpack*** n
 ---
@@ -868,16 +270,6 @@
 ---
 1. *高义频：* **[C] (登山者或旅行者用的) 背包**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***backpack*** vi
@@ -896,16 +288,6 @@
 > Many go backpacking in the mountains of the west.  
 > 许多人背包去西部的山上旅行。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***backstage*** 
 ---
@@ -918,16 +300,6 @@
 ---
 1. **在后台（的）；在幕后（的）；私下（的）**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***backward*** adj
@@ -951,16 +323,6 @@
 > an economically backward area   
 > 经济落后地区
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***backward*** adv
 ---
@@ -979,16 +341,6 @@
 
 > I am a slow walker, but I never walk backwards.  
 > 我走得很慢，但是我决不后退。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***backwards*** adv
@@ -1009,16 +361,6 @@
 > I am a slow walker, but I never walk backwards.   
 > 我走得很慢，但是我决不后退。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bacon*** n
 ---
@@ -1031,16 +373,6 @@
 ---
 1. *高义频：* **咸肉；熏肉；培根**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bacteria*** n
@@ -1055,16 +387,6 @@
 1. **细菌**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bacterium*** n
 ---
@@ -1077,16 +399,6 @@
 ---
 1. *高义频：* **[C] (pl bacteria) 细菌**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bad*** adj
@@ -1144,18 +456,12 @@
 > be bad at singing  
 > 不擅长唱歌
 
+
 固定搭配
 ---
 - #### from bad to worse
 1. **每况愈下**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bad-tempered*** adj
@@ -1169,16 +475,6 @@
 ---
 1. *高义频：* **脾气暴躁的；易怒的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***badly*** adv
@@ -1207,6 +503,7 @@
 > want / need sth badly   
 > 急需某物
 
+
 固定搭配
 ---
 - #### badly off 
@@ -1216,16 +513,13 @@
 > I've been quite badly off recently.  
 > 最近我经济上很拮据。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 It’s hard for him playing against me. I’ve got nothing to play for, but for him, he needs to win so________(bad).  
 ##### 答案 badly  
   
-
 
 # ***badminton*** n
 ---
@@ -1241,16 +535,6 @@ It’s hard for him playing against me. I’ve got nothing to play for, but for 
 
 > play badminton  
 > 打羽毛球
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bag*** n
@@ -1268,6 +552,7 @@ It’s hard for him playing against me. I’ve got nothing to play for, but for 
 > eye bags  
 > 眼袋
 
+
 固定搭配
 ---
 - #### be in the bag 
@@ -1276,13 +561,6 @@ It’s hard for him playing against me. I’ve got nothing to play for, but for 
 
 > It was a good interview and I thought the job was in the bag.  
 > 面试很不错，我想得到那份工作是十拿九稳的事。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***baggage*** n
@@ -1303,16 +581,6 @@ It’s hard for him playing against me. I’ve got nothing to play for, but for 
 > five pieces / articles of baggage   
 > 5件行李
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bagpipes*** n
 ---
@@ -1326,16 +594,6 @@ It’s hard for him playing against me. I’ve got nothing to play for, but for 
 1. **【pl】风笛**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***baid*** adj
 ---
@@ -1348,16 +606,6 @@ It’s hard for him playing against me. I’ve got nothing to play for, but for 
 ---
 1. **急忙拼凑的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bake*** v
@@ -1378,16 +626,6 @@ It’s hard for him playing against me. I’ve got nothing to play for, but for 
 > a half-baked idea  
 > 不成熟的想法
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bakery*** n
 ---
@@ -1400,16 +638,6 @@ It’s hard for him playing against me. I’ve got nothing to play for, but for 
 ---
 1. *高义频：* **[C] 面包烘房；面包店**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***balance*** n  重难点词汇
@@ -1451,6 +679,7 @@ It’s hard for him playing against me. I’ve got nothing to play for, but for 
 > They were due to pay the balance on delivery.  
 > 他们须将余款在到货时付清。
 
+
 固定搭配
 ---
 - #### on balance
@@ -1461,9 +690,7 @@ after considering all the information：
 > On balance, I think we made the right decision.  
 > 总的来说，我认为我们做的决定是正确的。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -1478,7 +705,6 @@ I’ve got a good sense of ________ (平衡) and learnt to ski quite quickly.
 You are working too hard. You’d better ________ (保持平衡) between work and relaxation.   
 ##### 答案 keep a balance   
   
-
 
 # ***balance*** v  重难点词汇
 ---
@@ -1500,16 +726,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 > Hobbies help people balance between work and play.  
 > 业余爱好有助于人们平衡工作和娱乐。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***balcony*** n
 ---
@@ -1522,16 +738,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 ---
 1. *高义频：* **[C] 阳台**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bald*** adj
@@ -1546,16 +752,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 1. *高义频：* **秃头的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***baleen*** n
 ---
@@ -1569,16 +765,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 1. *高义频：* **鲸须**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ball*** n
 ---
@@ -1591,16 +777,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 ---
 1. *高义频：* **[C] 球；球状物；球类运动；舞会**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ballad*** n
@@ -1616,16 +792,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 1. *高义频：* **歌谣; 情歌；民谣**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ballet*** n
 ---
@@ -1640,16 +806,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 1. *高义频：* **芭蕾舞；芭蕾舞剧；芭蕾舞乐曲**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***balloon*** n
 ---
@@ -1662,16 +818,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 ---
 1. *高义频：* **[C] 气球**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ballroom*** n
@@ -1686,16 +832,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 1. **舞厅, 跳舞场**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bamboo*** n
 ---
@@ -1708,16 +844,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 ---
 1. *高义频：* **[C] & [U] 竹；竹子**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ban*** vt
@@ -1740,16 +866,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 > The Government has banned the use of chemical weapons.   
 > 政府已经禁止使用化学武器。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ban*** n
 ---
@@ -1767,16 +883,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 > They are now protected by an international ban on whaling.  
 > 现在它们受到国际鲸鱼禁捕令的保护。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***banana*** n
 ---
@@ -1789,16 +895,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 ---
 1. *高义频：* **[C] 香蕉**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***band*** n
@@ -1833,16 +929,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 > broad-band connection   
 > 宽带连接
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bandage*** n
 ---
@@ -1856,16 +942,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 1. *高义频：* **[C] 绷带**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bandage*** vt
 ---
@@ -1878,16 +954,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 ---
 1. **用绷带包扎（bandage up）**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bang*** v
@@ -1915,16 +981,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 > She walked so far back that she banged into another painting on the wall.   
 > 她向后退得很远，撞到墙上的另一张画作上。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bang*** n
 ---
@@ -1948,16 +1004,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 
 > He gave the drum a bang.   
 > 他用力敲了一下鼓。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bank*** n
@@ -1989,16 +1035,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 > a river bank   
 > 河岸
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bankrupt*** adj
 ---
@@ -2016,16 +1052,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 > They get deep in debt, and they can even go bankrupt and get sent to prison.  
 > 他们会债台高筑，甚至可能破产并被捕入狱。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***banquet*** n
 ---
@@ -2038,16 +1064,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 ---
 1. *高义频：* **[C] 宴会；筵席**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bar*** n
@@ -2078,18 +1094,12 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 > a coffee / snack / wine bar  
 > 咖啡馆/小吃店/酒吧
 
+
 固定搭配
 ---
 - #### behind bars 
 1. **坐牢**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bar*** v
@@ -2104,16 +1114,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 1. **摒除；阻挡**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***barbecue*** n
 ---
@@ -2127,16 +1127,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 ---
 1. *高义频：* **烤肉；烤架；烧烤野餐(BBQ)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***barber*** n
@@ -2154,16 +1144,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 > go to the barber’s   
 > 去理发店；去理发
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***barbershop*** n
 ---
@@ -2178,16 +1158,6 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 
 
 英式英语中理发店为the barber’s。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bare*** adj
 ---
@@ -2219,16 +1189,6 @@ just enough; the most basic or simple：
 > the bare minimum of furniture   
 > 最基本的家具
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bare*** n
 ---
@@ -2242,16 +1202,6 @@ just enough; the most basic or simple：
 1. **最基本的要素**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bare*** v
 ---
@@ -2264,16 +1214,6 @@ just enough; the most basic or simple：
 ---
 1. **使暴露，露出**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***barely*** adv
@@ -2293,16 +1233,6 @@ just enough; the most basic or simple：
 
 > In fact, I barely slept the night before.   
 > 事实上前一天晚上我几乎没睡觉。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bargain*** n  重难点词汇
@@ -2332,12 +1262,7 @@ just enough; the most basic or simple：
 > He made a bargain with his wife, “You take care of the children and I’ll cook.”  
 > 他跟妻子讲条件：“你看孩子，我做饭。”
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2348,7 +1273,6 @@ You can get even better deals if you are prepared to________ (讨价还价).
 I bought a dress for only 10 dollars in a sale; it was  ________(真便宜).    
 ##### 答案  a real bargain  
   
-
 
 # ***bargain*** vi  重难点词汇
 ---
@@ -2365,16 +1289,6 @@ I bought a dress for only 10 dollars in a sale; it was  ________(真便宜).
 > **bargain with ,about,over,for**  
 > bargain with sb about / over / for the price   
 > 与某人讲价
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bark*** v
@@ -2393,16 +1307,6 @@ I bought a dress for only 10 dollars in a sale; it was  ________(真便宜).
 > The dog barked madly at her.  
 > 那只狗对着她狂叫。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bark*** n
 ---
@@ -2419,16 +1323,6 @@ I bought a dress for only 10 dollars in a sale; it was  ________(真便宜).
 2. *低义频：* **[U] 树皮**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***barrel*** n
 ---
@@ -2441,16 +1335,6 @@ I bought a dress for only 10 dollars in a sale; it was  ________(真便宜).
 ---
 1. **圆桶**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***barrier*** n
@@ -2484,12 +1368,7 @@ I bought a dress for only 10 dollars in a sale; it was  ________(真便宜).
 > He overcame the language barrier.   
 > 他克服了语言障碍。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2500,7 +1379,6 @@ C.connection
 D.barrier  
 ##### 答案 D  
   
-
 
 # ***base*** n
 ---
@@ -2524,16 +1402,6 @@ D.barrier
 > revolutionary bases   
 > 革命根据地
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***base*** vt
 ---
@@ -2545,6 +1413,7 @@ D.barrier
 英文释义
 ---
 1. *高义频：* **以…为基地；基地设在…：**  
+
 
 
 固定搭配
@@ -2562,6 +1431,7 @@ D.barrier
 > Basing an important decision more on emotion than on reason, you will regret it sooner or later.   
 > 依据情感而不是理智作出重要决定的话，你迟早会为此后悔。
 
+
 派生词汇
 ---
 based /beɪst/ adj 
@@ -2577,10 +1447,6 @@ based /beɪst/ adj
 > computer-based teaching  
 > 计算机化教学
 
-真题解析
----
-[null]
-
 
 # ***baseball*** n
 ---
@@ -2593,16 +1459,6 @@ based /beɪst/ adj
 ---
 1. *高义频：* **[C] 棒球；[U] 棒球运动**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***based*** adj
@@ -2617,16 +1473,6 @@ based /beɪst/ adj
 1. **以（某事）为基础的；以……为重要部分（或特征）的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***basement*** n
 ---
@@ -2639,16 +1485,6 @@ based /beɪst/ adj
 ---
 1. *高义频：* **[C] 地下室**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***basic*** adj
@@ -2674,16 +1510,6 @@ based /beɪst/ adj
 > the basic principles of physics   
 > 物理学的基本原理
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***basically*** adv
 ---
@@ -2700,16 +1526,6 @@ based /beɪst/ adj
 > Critics say these programmes are basically bad television, but people watch them.   
 > 评论说这些电视节目基本上不怎么样，可人们还在看。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***basin*** n
 ---
@@ -2722,16 +1538,6 @@ based /beɪst/ adj
 ---
 1. *高义频：* **盆；脸盆；盆地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***basis*** n
@@ -2757,16 +1563,6 @@ based /beɪst/ adj
 > On the basis of those facts, we can reach the following conclusion.   
 > 根据那些事实，我们可以得出以下结论。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***basket*** n
 ---
@@ -2783,19 +1579,13 @@ based /beɪst/ adj
 > Don’t put all your eggs in one basket.   
 > 不要把所有的鸡蛋放在一个篮子里。/不要孤注一掷。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The little girl picked some grapes and put them into her ________ (篮子).  
 ##### 答案  basket  
   
-
 
 # ***basketball*** n
 ---
@@ -2808,16 +1598,6 @@ The little girl picked some grapes and put them into her ________ (篮子).
 ---
 1. *高义频：* **[C] 篮球；[U] 篮球运动**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bat*** n
@@ -2842,16 +1622,6 @@ The little girl picked some grapes and put them into her ________ (篮子).
 2. *低义频：* **蝙蝠**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bath*** n
 ---
@@ -2872,16 +1642,6 @@ The little girl picked some grapes and put them into her ________ (篮子).
 
 2. *高义频：* **浴缸；澡盆 ( AmE bathtub )**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bathe*** v
@@ -2919,16 +1679,6 @@ The little girl picked some grapes and put them into her ________ (篮子).
 > a city bathed in a festival atmosphere   
 > 沉浸在节日气氛里的城市
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bathroom*** n
 ---
@@ -2943,16 +1693,6 @@ The little girl picked some grapes and put them into her ________ (篮子).
 1. *高义频：* **浴室；卫生间；盥洗室**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bathtub*** n
 ---
@@ -2965,16 +1705,6 @@ The little girl picked some grapes and put them into her ________ (篮子).
 ---
 1. *高义频：* **[C] 浴缸；澡盆 ( BrE bath )**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bathwater*** n
@@ -2989,16 +1719,6 @@ The little girl picked some grapes and put them into her ________ (篮子).
 1. **浴水，洗澡水**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***battery*** n
 ---
@@ -3011,16 +1731,6 @@ The little girl picked some grapes and put them into her ________ (篮子).
 ---
 1. *高义频：* **[C] 电池 (组)；电瓶**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***battle*** n
@@ -3049,16 +1759,6 @@ The little girl picked some grapes and put them into her ________ (篮子).
 > I realized running was a battle against myself.  
 > 我意识到跑步是一场与自己的较量。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***battle*** v
 ---
@@ -3083,16 +1783,6 @@ The little girl picked some grapes and put them into her ________ (篮子).
 > How did our ancestors battle nature with the basic tools they had?  
 > 我们的祖先是如何用他们的简单工具与大自然抗争的？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bay*** n
 ---
@@ -3105,16 +1795,6 @@ The little girl picked some grapes and put them into her ________ (篮子).
 ---
 1. *高义频：* **[C] 湾；海湾**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***be*** vi
@@ -3180,12 +1860,7 @@ The little girl picked some grapes and put them into her ________ (篮子).
 > Have you ever been to Beijing?   
 > 你去过北京吗？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3204,7 +1879,6 @@ Confucius believed knives would remind people of killings and _______ (be) too v
 Albert Einstein was born in 1879. As a child, few people guessed that he  _______(be) a famous scientist whose theories would change the world.  
 ##### 答案  was going to / would be  
   
-
 
 # ***be*** aux v
 ---
@@ -3246,16 +1920,6 @@ Albert Einstein was born in 1879. As a child, few people guessed that he  ______
 > All these things are to be done.  
 > 所有这些事情都得做完。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***beach*** n
 ---
@@ -3272,16 +1936,6 @@ Albert Einstein was born in 1879. As a child, few people guessed that he  ______
 > on a beautiful sandy beach   
 > 在美丽的海边沙滩上
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bead*** n
 ---
@@ -3295,16 +1949,6 @@ Albert Einstein was born in 1879. As a child, few people guessed that he  ______
 ---
 1. *高义频：* **小珠子；滴**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bean*** n
@@ -3325,16 +1969,6 @@ Albert Einstein was born in 1879. As a child, few people guessed that he  ______
 > coffee / cocoa beans  
 > 咖啡/可可豆
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bear*** n
 ---
@@ -3347,16 +1981,6 @@ Albert Einstein was born in 1879. As a child, few people guessed that he  ______
 ---
 1. *高义频：* **[C] 熊**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bear*** vt
@@ -3435,6 +2059,7 @@ to give birth to：
 > She has borne him 3 children.   
 > 她已经给他生了3个孩子。
 
+
 固定搭配
 ---
 - #### bear … in mind / bear in mind that ...
@@ -3461,13 +2086,6 @@ to give birth to：
 > Could you bear with me a moment, please?   
 > 请你稍等片刻，行吗？
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***beard*** n
 ---
@@ -3481,16 +2099,6 @@ to give birth to：
 1. *高义频：* **[C] & [U] (下巴上的) 胡须；络腮胡子**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***beast*** n
 ---
@@ -3503,16 +2111,6 @@ to give birth to：
 ---
 1. *高义频：* **n [C] 兽；牲畜**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***beat*** v
@@ -3558,6 +2156,7 @@ to give birth to：
 > Last night Liverpool beat Barcelona 3 to 1.  
 > 昨晚利物浦队三比一战胜了巴塞罗那队。
 
+
 固定搭配
 ---
 - #### beat about / around the bush
@@ -3581,13 +2180,6 @@ to give birth to：
 
 ### 辨析 beat, hit, strike
 三个词都有“打”、“击”的意思，但用法不完全相同。
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***beat*** n
 ---
@@ -3606,16 +2198,6 @@ to give birth to：
 
 > My heart missed a beat.   
 > 我的心跳顿了一下。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***beautiful*** adj
@@ -3642,18 +2224,12 @@ to give birth to：
 > — Beautiful!  
 > 棒极了！
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 beautifully /'bju:tɪfli/ adv 
 > You play the piano beautifully.   
 > 你钢琴弹得好极了。
-
-真题解析
----
-[null]
 
 
 # ***beauty*** n
@@ -3687,16 +2263,6 @@ beautifully /'bju:tɪfli/ adv
 > Photos record the beauties of nature.   
 > 照片记录了大自然的美景。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***beaver*** n
 ---
@@ -3710,16 +2276,6 @@ beautifully /'bju:tɪfli/ adv
 ---
 1. *高义频：* **海狸**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***because*** conj
@@ -3742,6 +2298,7 @@ beautifully /'bju:tɪfli/ adv
 > They say this is because when you laugh, your brain sends chemicals around your body that are good for you.  
 > 他们说这是因为，笑的时候大脑会向全身发送有益的化学物质。
 
+
 固定搭配
 ---
 - #### because of 
@@ -3753,9 +2310,7 @@ beautifully /'bju:tɪfli/ adv
 
 ### 辨析 because, since, as, for
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3766,7 +2321,6 @@ I really enjoy listening to music b_________ it helps me relax and takes my mind
 The open-air celebration has been put off because ________ the bad weather.  
 ##### 答案 of  
   
-
 
 # ***become*** vi
 ---
@@ -3793,6 +2347,7 @@ The open-air celebration has been put off because ________ the bad weather.
 > He loved experimenting and his aim was to become a scientist like his father.   
 > 他热爱做实验，他的目标就是要成为一个像父亲那样的科学家。
 
+
 固定搭配
 ---
 - #### what became / has become of …? / what will become of …?
@@ -3805,9 +2360,7 @@ The open-air celebration has been put off because ________ the bad weather.
 > What will become of you if you lose the game?  
 > 比赛要是输了，你会怎么样？
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3818,7 +2371,6 @@ While regularly eating out seems to_______(become) common for many young people 
 Silk  _______ (become) one of the primary goods traded along the Silk Road by about 100 BC.   
 ##### 答案 had become  
   
-
 
 # ***bed*** n
 ---
@@ -3839,16 +2391,6 @@ Silk  _______ (become) one of the primary goods traded along the Silk Road by ab
 > make the bed   
 > 铺床
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bedding*** n
 ---
@@ -3866,16 +2408,6 @@ Silk  _______ (become) one of the primary goods traded along the Silk Road by ab
 > The bedding was a pillow, a sheet, and a thin quilt.   
 > 寝具包括一个枕头、一张床单和一床薄被。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bedroom*** n
 ---
@@ -3889,16 +2421,6 @@ Silk  _______ (become) one of the primary goods traded along the Silk Road by ab
 ---
 1. *高义频：* **卧室**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bee*** n
@@ -3914,16 +2436,6 @@ Silk  _______ (become) one of the primary goods traded along the Silk Road by ab
 1. *高义频：* **蜜蜂**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***beef*** n
 ---
@@ -3938,16 +2450,6 @@ Silk  _______ (become) one of the primary goods traded along the Silk Road by ab
 1. *高义频：* **牛肉**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***beer*** n
 ---
@@ -3961,16 +2463,6 @@ Silk  _______ (become) one of the primary goods traded along the Silk Road by ab
 ---
 1. *高义频：* **啤酒；一杯/瓶/灌啤酒**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***before*** prep
@@ -4013,16 +2505,6 @@ Silk  _______ (become) one of the primary goods traded along the Silk Road by ab
 > Business before pleasure.   
 > 正事要紧。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***before*** adv
 ---
@@ -4063,16 +2545,6 @@ Silk  _______ (become) one of the primary goods traded along the Silk Road by ab
 > She said that she had heard of it long before.  
 > 她说她很早以前就听说过此事。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***before*** conj
 ---
@@ -4099,12 +2571,7 @@ Silk  _______ (become) one of the primary goods traded along the Silk Road by ab
 > 那对年轻的夫妇归还了我丢失的钱包，我还没有来得及问他们的名字他们就走了。
 
 before 的译法很灵活，在不同的语境下可译为：(没过多久) 就…”，“(过… ) 才…”，“还没来得及… 就…”，“趁… (还没有) 时”。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4124,7 +2591,6 @@ The meaning of the word “nice” changed a few times ________ it finally came 
 ##### 答案 before  
   
 
-
 # ***befriend*** vt
 ---
 英音 bɪ'frend     美音 bɪ'frend
@@ -4139,16 +2605,6 @@ The meaning of the word “nice” changed a few times ________ it finally came 
 
 > Nigel decided to befriend Alicia.   
 > 尼格尔决定把艾丽西亚当朋友看待。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***beg*** v
@@ -4192,18 +2648,12 @@ The meaning of the word “nice” changed a few times ________ it finally came 
 > He was so poor that he had to beg ( for ) food from passers-by.  
 > 他穷得要向过路人乞讨食物。
 
+
 固定搭配
 ---
 - #### I beg your pardon
 1. **[口语] 对不起，请再说一遍**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***beggar*** n
@@ -4218,16 +2668,6 @@ The meaning of the word “nice” changed a few times ________ it finally came 
 ---
 1. *高义频：* **乞丐；叫花子**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***begin*** v
@@ -4262,6 +2702,7 @@ The meaning of the word “nice” changed a few times ________ it finally came 
 > Knowledge begins with practice.   
 > 知识来源于实践。
 
+
 固定搭配
 ---
 - #### to begin with 
@@ -4271,16 +2712,13 @@ The meaning of the word “nice” changed a few times ________ it finally came 
 > To begin with, it is important to create a positive attitude.  
 > 首先，要有积极的态度，这点很重要
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 It was Monday morning, and the writing class had just begin. (改错)   
 ##### 答案 begin → begun  
   
-
 
 # ***beginner*** n
 ---
@@ -4294,16 +2732,6 @@ It was Monday morning, and the writing class had just begin. (改错)
 ---
 1. *高义频：* **初学者；生手**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***beginning*** n
@@ -4334,16 +2762,6 @@ It was Monday morning, and the writing class had just begin. (改错)
 > John became a football coach in a middle school at the beginning of March.  
 > 三月初，约翰成为一所中学的足球教练。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***behalf*** n
 ---
@@ -4355,6 +2773,7 @@ It was Monday morning, and the writing class had just begin. (改错)
 英文释义
 ---
 1. 
+
 
 固定搭配
 ---
@@ -4381,16 +2800,13 @@ It was Monday morning, and the writing class had just begin. (改错)
 > Don’t worry on my behalf.  
 > 别为我担心。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 ________ (代表) everyone here, I wish you a pleasant journey back to your country.  
 ##### 答案 On behalf of  
   
-
 
 # ***behave*** v  重难点词汇
 ---
@@ -4422,19 +2838,13 @@ to act in a correct or appropriate way：
 > badly- / well-behaved children   
 > 不守规矩/守规矩的孩子
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Tom, ________ (规矩点). Did you forget the school rules?  
 ##### 答案 behave yourself  
   
-
 
 # ***behavior*** n
 ---
@@ -4463,16 +2873,6 @@ Tom, ________ (规矩点). Did you forget the school rules?
 
 > Nobody before Jane fully understood chimp behaviour.   
 > 在简之前没有人能够全面了解大猩猩的行为。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***behaviour*** n
@@ -4503,16 +2903,6 @@ Tom, ________ (规矩点). Did you forget the school rules?
 > Nobody before Jane fully understood chimp behaviour.  
 > 在简之前没有人能够全面了解大猩猩的行为。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***behind*** adv
 ---
@@ -4537,16 +2927,6 @@ Tom, ________ (规矩点). Did you forget the school rules?
 
 > They are three weeks behind with the rent.   
 > 他们已经拖欠了3个星期的房租。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***behind*** prep
@@ -4582,16 +2962,6 @@ Tom, ________ (规矩点). Did you forget the school rules?
 > New York is 12 hours behind Beijing.   
 > 纽约时间比北京晚12个小时。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***beholder*** n
 ---
@@ -4604,16 +2974,6 @@ Tom, ________ (规矩点). Did you forget the school rules?
 ---
 1. **观看者**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***being*** n
@@ -4649,16 +3009,6 @@ Tom, ________ (规矩点). Did you forget the school rules?
 > I am staying at a friend’s house for the time being.   
 > 我暂时寄住在一个朋友家里。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***being*** vi
 ---
@@ -4693,16 +3043,6 @@ Tom, ________ (规矩点). Did you forget the school rules?
 > The matter was being discussed.   
 > 当时正在讨论这件事。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***belief*** n
 ---
@@ -4736,19 +3076,13 @@ Tom, ________ (规矩点). Did you forget the school rules?
 > religious beliefs   
 > 宗教信仰
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Increases in bear sightings around human settlements have led to a ______(believe) that polar bear populations are increasing.  
 ##### 答案 belief  
   
-
 
 # ***believe*** v  重难点词汇
 ---
@@ -4812,6 +3146,7 @@ Increases in bear sightings around human settlements have led to a ______(believ
 > — I believe so / not.   
 > 我想是的/不是。
 
+
 固定搭配
 ---
 - #### believe in
@@ -4838,9 +3173,7 @@ believe sb表示相信某人所说的话，believe in sb表示相信某人是好
 > Believe it or not, there is no such thing as standard English.  
 > 信不信由你，并没有标准英语这回事。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4848,7 +3181,6 @@ believe sb表示相信某人所说的话，believe in sb表示相信某人是好
 — _______（信不信由你）, scientists agree with her.   
 ##### 答案 Believe it or not  
   
-
 
 # ***believer*** n
 ---
@@ -4862,16 +3194,6 @@ believe sb表示相信某人所说的话，believe in sb表示相信某人是好
 ---
 1. *高义频：* **信徒；教徒**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bell*** n
@@ -4889,16 +3211,6 @@ believe sb表示相信某人所说的话，believe in sb表示相信某人是好
 
 > ring the bell   
 > 摇铃
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***belly*** n
@@ -4920,16 +3232,6 @@ believe sb表示相信某人所说的话，believe in sb表示相信某人是好
 > She was lying on her belly.   
 > 她正趴着。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***belong*** vi  重难点词汇
 ---
@@ -4945,6 +3247,7 @@ believe sb表示相信某人所说的话，believe in sb表示相信某人是好
 
 > Put the chair back where it belongs.  
 > 把椅子放回原处。
+
 
 固定搭配
 ---
@@ -4965,11 +3268,13 @@ believe sb表示相信某人所说的话，believe in sb表示相信某人是好
 > 狮子和老虎属于猫科动物。
 
 belong to不能用于进行时态和被动语态。
+
 派生词汇
 ---
 belonging /bɪ'lɒŋɪŋ/ n 
 > a sense of belonging   
 > 归属感
+
 
 真题解析
 ---
@@ -4977,7 +3282,6 @@ belonging /bɪ'lɒŋɪŋ/ n
 Professor Williams keeps telling his students that the future ________ (belong) to the well-educated.  
 ##### 答案 belongs  
   
-
 
 # ***belongings*** n
 ---
@@ -4995,16 +3299,6 @@ Professor Williams keeps telling his students that the future ________ (belong) 
 > **personal belongings**  
 > Look after your personal belongings.   
 > 照看好你的个人财物。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***below*** adv
@@ -5024,16 +3318,6 @@ Professor Williams keeps telling his students that the future ________ (belong) 
 
 > Below is a housing guide for students going to London.   
 > 下面是一则住房指南，供前往伦敦的学生参考。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***below*** prep
@@ -5061,16 +3345,6 @@ Professor Williams keeps telling his students that the future ________ (belong) 
 > The temperature was five degrees below freezing.  
 > 气温是零下5度。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***belt*** n
 ---
@@ -5096,19 +3370,17 @@ Professor Williams keeps telling his students that the future ________ (belong) 
 > the Belt and Road  
 > 一带一路（“丝绸之路经济带和21世纪海上丝绸之路”的简称）
 
+
 固定搭配
 ---
 - #### tighten one’s belt
 1. **[非正式用语] 勒紧裤腰带过日子**  
 
 
+
 派生词汇
 ---
 belted /'beltɪd/ adj 
-真题解析
----
-[null]
-
 
 # ***bench*** n
 ---
@@ -5126,16 +3398,6 @@ belted /'beltɪd/ adj
 > **the bench**  
 > the bench  
 > (场边的)运动员休息区；替补席
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bend*** v
@@ -5167,18 +3429,12 @@ belted /'beltɪd/ adj
 > The road bends to the right after a few yards.   
 > 这条路在几码远的地方转向右方。
 
+
 固定搭配
 ---
 - #### bend to sb’s will 
 1. **[正式用语] 屈服于某人的意愿**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bend*** n
@@ -5197,16 +3453,6 @@ belted /'beltɪd/ adj
 > a sharp bend in the road   
 > 路上的一个急拐弯
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***beneath*** adv
 ---
@@ -5223,16 +3469,6 @@ belted /'beltɪd/ adj
 
 > He was standing on the bridge looking at the river beneath.  
 > 他站在桥上，看着下面的河水。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***beneath*** prep
@@ -5256,16 +3492,6 @@ belted /'beltɪd/ adj
 
 ### 辨析 above, on, over
 三者都含有“在…上”之意。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***beneficial*** adj
 ---
@@ -5287,16 +3513,6 @@ having a helpful or useful effect：
 > **beneficial,for**  
 > In fact, music education is beneficial and important for all students.   
 > 事实上，音乐教育对于所有的学生都是有益而且重要的。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***benefit*** v
@@ -5322,16 +3538,6 @@ having a helpful or useful effect：
 > **benefit ,from**  
 > I am sure everyone will benefit a lot from this activity.  
 > 我相信大家都会从这个活动中获益良多。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***benefit*** n
@@ -5362,6 +3568,7 @@ an advantage, improvement, or help that you get from sth：
 2. *低义频：* **津贴；救济金(welfare)**  
 
 
+
 固定搭配
 ---
 - #### be of benefit to
@@ -5378,16 +3585,13 @@ an advantage, improvement, or help that you get from sth：
 > The money is to be used for the benefit of the poor.  
 > 该款项将用于救助穷人。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 China has been pushing the reform of public hospitals ________ (为了…的利益) all its citizens.  
 ##### 答案 for the benefit of  
   
-
 
 # ***bent*** n
 ---
@@ -5404,16 +3608,6 @@ China has been pushing the reform of public hospitals ________ (为了…的利�
 > **a,bent for**  
 > She has a natural bent for music.   
 > 她有音乐天赋。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bent*** adj
@@ -5434,18 +3628,12 @@ China has been pushing the reform of public hospitals ________ (为了…的利�
 > a bent old man  
 > 驼背老人
 
+
 固定搭配
 ---
 - #### (be) bent on (doing) sth
 1. **下决心做某事**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***beside*** prep
@@ -5463,18 +3651,12 @@ China has been pushing the reform of public hospitals ________ (为了…的利�
 > She sat beside me.   
 > 她坐在我旁边。
 
+
 固定搭配
 ---
 - #### (be) beside the point 
 1. **离题；与主题无关**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***besides*** adv
@@ -5492,19 +3674,13 @@ China has been pushing the reform of public hospitals ________ (为了…的利�
 > I’m too busy to go for a walk; besides, it is too late.  
 > 我太忙了，没时间散步，况且天也太晚了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Bicycling is good exercise; except, it does not pollute the air.    
 ##### 答案 except → besides  
   
-
 
 # ***besides*** prep
 ---
@@ -5523,19 +3699,13 @@ Bicycling is good exercise; except, it does not pollute the air.
 
 ### 辨析 besides, except
 二者都可用作介词；都含有“除…之外”之意。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Some people choose jobs for other reasons ________(除…之外) money these days.  
 ##### 答案 besides  
   
-
 
 # ***best*** n
 ---
@@ -5553,6 +3723,7 @@ Some people choose jobs for other reasons ________(除…之外) money these day
 > **the very best**  
 > One day, you will do something great that will set you among the very best.   
 > 有一天，你会大有作为，令你跻身于最优秀者的行列。
+
 
 固定搭配
 ---
@@ -5585,9 +3756,7 @@ Some people choose jobs for other reasons ________(除…之外) money these day
 > If you cannot have the best, make the best of what you have.  
 > 如果没有最好的，就充分利用现有的。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -5598,7 +3767,6 @@ Andy is content with the toy. It is ________ (good) he has ever got.
 The school isn’t the one I really wanted to go to, but I suppose I’ll just have to ________ (充分利用) it. (best)   
 ##### 答案 make the best of  
   
-
 
 # ***best*** adv
 ---
@@ -5618,19 +3786,13 @@ The school isn’t the one I really wanted to go to, but I suppose I’ll just h
 > Let me know what time suits you best.  
 > 告诉我什么时间你最方便。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Next to biology, I ________(最喜欢物理).  
 ##### 答案 like physics best  
   
-
 
 # ***best*** adj
 ---
@@ -5654,16 +3816,6 @@ Next to biology, I ________(最喜欢物理).
 > The Godfather is popularly regarded as one of the best American films ever made.  
 > 《教父》被普遍认为是美国有史以来最好的影片之一。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***best-seller*** n
 ---
@@ -5678,16 +3830,10 @@ Next to biology, I ________(最喜欢物理).
 1. *高义频：* **畅销书**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 best-selling /best 'selɪŋ/ adj [只用于名词前]
-真题解析
----
-[null]
-
 
 # ***best-selling*** adj
 ---
@@ -5700,16 +3846,6 @@ best-selling /best 'selɪŋ/ adj [只用于名词前]
 ---
 1. **畅销的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bet*** v
@@ -5740,6 +3876,7 @@ best-selling /best 'selɪŋ/ adj [只用于名词前]
 > I bet it will rain tomorrow.   
 > 我相信明天一定会下雨。
 
+
 固定搭配
 ---
 - #### You bet! 
@@ -5752,9 +3889,7 @@ best-selling /best 'selɪŋ/ adj [只用于名词前]
 > — You bet! Will you go with me?  
 > 当然去！你跟我一起去吗？
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -5767,7 +3902,6 @@ C.Forget it
 D.No kidding  
 ##### 答案 A  
   
-
 
 # ***bet*** n
 ---
@@ -5786,16 +3920,10 @@ D.No kidding
 > Have you ever made a bet with a friend?   
 > 你曾经和朋友打过赌吗？
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 betting /'betɪŋ/ n [U] 
-真题解析
----
-[null]
-
 
 # ***betray*** vt
 ---
@@ -5816,16 +3944,6 @@ betting /'betɪŋ/ n [U]
 > They betray themselves every time they open their mouths.   
 > 他们一张嘴就会露出马脚。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***better*** n
 ---
@@ -5838,6 +3956,7 @@ betting /'betɪŋ/ n [U]
 英文释义
 ---
 1. *高义频：* **[可用单数] 较好的事物：**  
+
 
 
 固定搭配
@@ -5857,16 +3976,13 @@ betting /'betɪŋ/ n [U]
 > If they can do them both at the same time, then so much the better.   
 > 如果他们可以同时做这两件事，那当然更好。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The result is not very important to us, but if we do win, then so much ________better.  
 ##### 答案 the  
   
-
 
 # ***better*** v
 ---
@@ -5886,16 +4002,6 @@ The result is not very important to us, but if we do win, then so much ________b
 > Immediate actions should be taken to better the environment.  
 > 应当立即采取行动来改善环境。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***better*** adv
 ---
@@ -5914,6 +4020,7 @@ The result is not very important to us, but if we do win, then so much ________b
 
 > You play the piano better than your sister.   
 > 你钢琴弹得比你姐姐好。
+
 
 固定搭配
 ---
@@ -5942,13 +4049,6 @@ The result is not very important to us, but if we do win, then so much ________b
 > 如果你不立刻烹饪的话，最好把鱼储藏在冰箱里。
 
 had better常缩写成’d better，后接动词原形。
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***better*** adj
 ---
@@ -5978,6 +4078,7 @@ had better常缩写成’d better，后接动词原形。
 > You will feel better after a night’s sleep.   
 > 睡上一晚，你会感觉好些。
 
+
 固定搭配
 ---
 - #### nothing better 
@@ -5998,9 +4099,7 @@ had better常缩写成’d better，后接动词原形。
 1. **三个臭皮匠，顶个诸葛亮。**  
 
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -6015,7 +4114,6 @@ had better常缩写成’d better，后接动词原形。
 It is ________ (good) to spend money on preventing illnesses by promoting healthy living rather than spending it trying to make people ________ (good) after they are ill.   
 ##### 答案 better; better  
   
-
 
 # ***between*** prep
 ---
@@ -6048,6 +4146,7 @@ It is ________ (good) to spend money on preventing illnesses by promoting health
 > between you and me   
 > 你我私下说说；仅限于我俩之间(不得外传)
 
+
 固定搭配
 ---
 - #### in between 
@@ -6057,9 +4156,7 @@ It is ________ (good) to spend money on preventing illnesses by promoting health
 > We have two lessons this morning, and there’s some free time in between.   
 > 今天上午我们有两节课，课间有休息时间。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -6075,7 +4172,6 @@ D.during
 — Yes, I see. I will keep the secret ________ you and me.  
 ##### 答案 between  
   
-
 
 # ***beyond*** prep  重难点词汇
 ---
@@ -6128,6 +4224,7 @@ D.during
 > I know nothing of it beyond what he told me.   
 > 除了他告诉我的以外，别的我什么都不知道。
 
+
 固定搭配
 ---
 - #### be beyond sb 
@@ -6137,9 +4234,7 @@ D.during
 > The whole problem was quite beyond him.   
 > 他根本无法理解这个问题。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -6163,7 +4258,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 ##### 答案 beyond me  
   
 
-
 # ***beyond*** adv  重难点词汇
 ---
 英音 bɪ'jɒnd     美音 bɪ'jɑːnd
@@ -6179,16 +4273,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 > look beyond  
 > 往更远处看
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bicycle*** n
 ---
@@ -6202,16 +4286,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 ---
 1. *高义频：* **自行车 (bike)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bicycle*** vi
@@ -6228,16 +4302,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 
 > In the morning, we bicycled to the suburbs to plant trees.  
 > 早上我们骑自行车去郊区种树。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bid*** n
@@ -6260,16 +4324,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 > If a city has plenty of parks, this could help its bid to be an Olympic city.   
 > 如果一个城市拥有众多公园，这将有助于它申请成为奥运会的主办城市。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bid*** v
 ---
@@ -6290,16 +4344,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 > **bid against,on / for**  
 > They bid against each other on / for a new project.  
 > 他们为一个新项目相互竞标。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***big*** adj
@@ -6326,16 +4370,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 > He is a big man.   
 > 他是个大人物。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bike*** n
 ---
@@ -6350,16 +4384,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. *高义频：* **自行车 (bicycle)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bilingual*** adj
 ---
@@ -6372,16 +4396,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 ---
 1. **双语的；会讲两种语言的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bill*** n
@@ -6423,16 +4437,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 > a concert bill   
 > 音乐会节目单
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***billboard*** n
 ---
@@ -6447,16 +4451,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. *高义频：* **广告牌**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***billion*** num
 ---
@@ -6470,6 +4464,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. *高义频：* **十亿**  
 
 
+
 固定搭配
 ---
 - #### billions of 
@@ -6478,13 +4473,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 
 > The government is spending billions of dollars on new urban rail projects.  
 > 政府正把数十亿美元花在新城市轨道交通项目上。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***billionaire*** n
@@ -6498,16 +4486,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 ---
 1. **亿万富翁，巨富**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***billy-goat*** n
@@ -6523,16 +4501,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. *高义频：* **公山羊**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bin*** n
 ---
@@ -6546,16 +4514,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 ---
 1. *高义频：* **垃圾箱；(有盖的) 大容器；箱**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bind*** vt
@@ -6578,16 +4536,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 > He is binding a book.   
 > 他正在装订一本书。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bingo*** int
 ---
@@ -6600,16 +4548,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 ---
 1. *高义频：* **嘿；赢了；中了**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bingo*** n
@@ -6624,16 +4562,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 ---
 1. *高义频：* **宾戈 (一种赌博游戏)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***binoculars*** n
@@ -6651,16 +4579,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 > a pair of binoculars  
 > 一副双筒望远镜
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***biochemist*** n
 ---
@@ -6673,16 +4591,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 ---
 1. **生物化学家**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***biochemistry*** n
@@ -6698,16 +4606,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. *高义频：* **生物化学**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***biodiversity*** n
 ---
@@ -6720,16 +4618,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 ---
 1. **生物多样性**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***biography*** n
@@ -6745,16 +4633,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. *高义频：* **传记**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bioinformatician*** n
 ---
@@ -6768,16 +4646,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. **生物信息学 (研究) 者**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***biologist*** n
 ---
@@ -6790,16 +4658,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 ---
 1. *高义频：* **生物学家**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***biology*** n
@@ -6815,16 +4673,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. *高义频：* **生物学**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bird*** n
 ---
@@ -6838,16 +4686,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 ---
 1. *高义频：* **鸟；禽**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***birth*** n
@@ -6871,6 +4709,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 
 > birth father / mother  
 > 生父/母
+
 
 固定搭配
 ---
@@ -6896,13 +4735,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 > The endless choice gives birth to anxiety in people’s lives.  
 > 无休止的选择引发了人们生活中的焦虑情绪。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***birthday*** n
 ---
@@ -6916,16 +4748,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 ---
 1. *高义频：* **生日**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***birthplace*** n
@@ -6941,16 +4763,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. *高义频：* **出生地；发祥地**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***biscuit*** n
 ---
@@ -6964,16 +4776,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 ---
 1. *高义频：* **饼干 (BrE)； 面包干 (AmE)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bishop*** n
@@ -6989,16 +4791,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. *高义频：* **主教**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bison*** n
 ---
@@ -7012,16 +4804,6 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 ---
 1. *高义频：* **北美或欧洲野牛**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bit*** n
@@ -7043,6 +4825,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 
 > He ate every bit of his dinner.   
 > 他把饭吃得精光。
+
 
 固定搭配
 ---
@@ -7090,16 +4873,13 @@ a bit常用作副词，相当于a little。修饰名词时， 需加of。
 > 他一点也没见好。
 
 not a little意为“非常” 、 “很多”。
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 You’re driving too fast. Can you drive ________(慢一点儿)?   
 ##### 答案 a bit / a little more slowly  
   
-
 
 # ***bite*** n
 ---
@@ -7124,16 +4904,6 @@ You’re driving too fast. Can you drive ________(慢一点儿)?
 > insect bites   
 > 虫子叮咬的伤
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bite*** v
 ---
@@ -7150,16 +4920,6 @@ You’re driving too fast. Can you drive ________(慢一点儿)?
 
 > Bitten by the snake in the bush, Susan was sent back to the camp.    
 > 由于被灌木丛中的蛇咬伤，苏珊被送回了营地。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bitter*** adj
@@ -7197,16 +4957,10 @@ You’re driving too fast. Can you drive ________(慢一点儿)?
 > He was bitter about losing the job.   
 > 他丢掉了工作，心里愤愤不平。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 bitterly  /'bɪtərli/ adv 
-真题解析
----
-[null]
-
 
 # ***bitterly*** adv
 ---
@@ -7219,16 +4973,6 @@ bitterly  /'bɪtərli/ adv
 ---
 1. **痛苦地，愤恨地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***black*** vt
@@ -7243,16 +4987,10 @@ bitterly  /'bɪtərli/ adv
 1. *高义频：* **弄黑；弄脏**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 blacken /'blækən/  
-真题解析
----
-[null]
-
 
 # ***black*** adj
 ---
@@ -7284,18 +5022,12 @@ blacken /'blækən/
 > I like my coffee black.   
 > 我喜欢喝不加牛奶的咖啡。
 
+
 固定搭配
 ---
 - #### black humour 
 1. **黑色幽默**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***black*** n
@@ -7316,16 +5048,6 @@ blacken /'blækən/
 2. *高义频：* **[C] (亦作Black) 黑人**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***black-and-white*** adj
 ---
@@ -7338,16 +5060,6 @@ blacken /'blækən/
 ---
 1. **黑白的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***blackboard*** n
@@ -7362,16 +5074,6 @@ blacken /'blækən/
 ---
 1. *高义频：* **黑板**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***blackout*** n
@@ -7390,16 +5092,6 @@ blacken /'blækən/
 > Solar storms may cause a communications blackout.   
 > 太阳风暴可能导致通讯中断。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***blade*** n
 ---
@@ -7413,16 +5105,6 @@ blacken /'blækən/
 ---
 1. *高义频：* **刀刃；刀锋：刀片**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***blame*** n  重难点词汇
@@ -7450,16 +5132,6 @@ responsibility for a mistake or sth bad：
 > **put the blame on**  
 > Lots of people find it hard to get up in the morning, and put the blame on the alarm clock.  
 > 很多人发现早上起床很难，就把责任推到闹钟上。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***blame*** vt  重难点词汇
@@ -7491,6 +5163,7 @@ to say or think that sb / sth is responsible for sth bad：
 > You’ve failed to do what you were expected to and I’m afraid the teacher will blame you.   
 > 你没做成期望你做的事，我恐怕老师会责备你。
 
+
 固定搭配
 ---
 - #### be to blame (for sth) 
@@ -7503,16 +5176,13 @@ to say or think that sb / sth is responsible for sth bad：
 > Who is to blame for the fire?   
 > 着火是谁的责任？
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Mr Green stood up in defence of the 16- year-old boy, saying that he was not the one________ (blame).   
 ##### 答案 to blame  
   
-
 
 # ***blank*** n
 ---
@@ -7532,16 +5202,6 @@ Mr Green stood up in defence of the 16- year-old boy, saying that he was not the
 
 > a blank in one’s memory  
 > 记忆中的空白
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***blank*** adj
@@ -7568,19 +5228,13 @@ Mr Green stood up in defence of the 16- year-old boy, saying that he was not the
 > If your mind goes blank, try not to panic.   
 > 如果你头脑中一片空白，尽量不要恐慌。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The professor could tell by the __________ (茫然的) look in Mary’s eyes that she didn’t understand a single word of his lecture.   
 ##### 答案 blank  
   
-
 
 # ***blanket*** n
 ---
@@ -7600,22 +5254,20 @@ The professor could tell by the __________ (茫然的) look in Mary’s eyes tha
 > a blanket of snow / fog  
 > 厚厚的一层雪/雾
 
+
 固定搭配
 ---
 - #### a wet blanket 
 1. **扫兴的人；泼冷水的人**  
 
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 It’s cold today. Please put another ________ (毯子) on the bed.  
 ##### 答案 blanket  
   
-
 
 # ***bleed*** v
 ---
@@ -7640,16 +5292,6 @@ It’s cold today. Please put another ________ (毯子) on the bed.
 2. *低义频：* **榨取 (钱财)：**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bleeding*** n
 ---
@@ -7662,16 +5304,6 @@ It’s cold today. Please put another ________ (毯子) on the bed.
 ---
 1. **流血，失血**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***blend*** v
@@ -7694,16 +5326,6 @@ It’s cold today. Please put another ________ (毯子) on the bed.
 > Oil does not blend with water.  
 > 油不溶于水。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***blend*** n
 ---
@@ -7716,16 +5338,6 @@ It’s cold today. Please put another ________ (毯子) on the bed.
 ---
 1. *高义频：* **混合物；不同事物的融合：**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bless*** vt
@@ -7749,6 +5361,7 @@ It’s cold today. Please put another ________ (毯子) on the bed.
 > Fortune blessed him with success.   
 > 命运之神赐予他成功。
 
+
 固定搭配
 ---
 - #### (be) blessed with
@@ -7758,16 +5371,13 @@ It’s cold today. Please put another ________ (毯子) on the bed.
 > I was blessed with a happy childhood, one that most people would want to have.  
 > 我有幸拥有一个幸福的童年，一个多数人想拥有的童年。
 
+
 派生词汇
 ---
 blessing /'blesɪŋ/ n 
 > **with,blessing**  
 > He went with his parents’ blessing.  
 > 他是得到父母的同意才去的。
-
-真题解析
----
-[null]
 
 
 # ***blind*** adj
@@ -7800,23 +5410,25 @@ blessing /'blesɪŋ/ n
 > Mothers are sometimes blind to the faults of their children.   
 > 母亲们有时觉察不到自己孩子的过错。
 
+
 固定搭配
 ---
 - #### turn a blind eye to 
 1. **对…视而不见**  
 
 
+
 派生词汇
 ---
 blindly   /'blaɪndli/ adv 
 blindness /'blaɪndnəs/ n 
+
 真题解析
 ---
 ##### 题目  
 The aim of education is to teach young people to think for themselves and not follow others _________(blind).  
 ##### 答案 blindly  
   
-
 
 # ***blind*** vt
 ---
@@ -7833,16 +5445,6 @@ The aim of education is to teach young people to think for themselves and not fo
 > The thick fog blinds us.   
 > 大雾使我们看不见。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***blind*** n
 ---
@@ -7856,16 +5458,6 @@ The aim of education is to teach young people to think for themselves and not fo
 1. *高义频：* **[C] 百叶窗**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***blink*** v
 ---
@@ -7878,16 +5470,6 @@ The aim of education is to teach young people to think for themselves and not fo
 ---
 1. **眨眼睛**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***blister*** n
@@ -7903,16 +5485,6 @@ The aim of education is to teach young people to think for themselves and not fo
 1. *高义频：* **水泡**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***blister*** v
 ---
@@ -7926,16 +5498,6 @@ The aim of education is to teach young people to think for themselves and not fo
 1. *高义频：* **(使) 起泡**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***blizzard*** n
 ---
@@ -7948,16 +5510,6 @@ The aim of education is to teach young people to think for themselves and not fo
 ---
 1. **暴风雪**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***block*** n
@@ -8008,16 +5560,6 @@ The aim of education is to teach young people to think for themselves and not fo
 > Allow your children to study in blocks of time, such as for half an hour with a five-minute break in the middle.   
 > 允许孩子用成组的时间学习，比如每学习半小时中间休息5分钟。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***block*** vt
 ---
@@ -8040,16 +5582,6 @@ The aim of education is to teach young people to think for themselves and not fo
 > Someone is blocking our plan.   
 > 有人在妨碍我们的计划。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***blog*** n
 ---
@@ -8066,16 +5598,6 @@ The aim of education is to teach young people to think for themselves and not fo
 > **blog post**  
 > write a blog post  
 > 写博文
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***blog*** vi
@@ -8094,16 +5616,10 @@ The aim of education is to teach young people to think for themselves and not fo
 > I was encouraged to blog about the whole experience.  
 > 我被鼓励写下这次经历。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 blogger /'blɒɡə(r)/ n [C]
-真题解析
----
-[null]
-
 
 # ***blogger*** n
 ---
@@ -8116,16 +5632,6 @@ blogger /'blɒɡə(r)/ n [C]
 ---
 1. **博客作者；博主**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***blond(e)*** adj
@@ -8140,16 +5646,6 @@ blogger /'blɒɡə(r)/ n [C]
 1. *高义频：* **头发浅色的；金色的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***blond(e)*** n
 ---
@@ -8163,16 +5659,6 @@ blogger /'blɒɡə(r)/ n [C]
 ---
 1. *高义频：* **金发女子**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***blood*** n
@@ -8214,6 +5700,7 @@ blogger /'blɒɡə(r)/ n [C]
 > He is of the noble blood.   
 > 他出身贵族。
 
+
 固定搭配
 ---
 - #### make sb’s blood boil 
@@ -8223,15 +5710,12 @@ blogger /'blɒɡə(r)/ n [C]
 > The way he treats his parents really makes my blood boil.   
 > 他这样对待父母真的让我非常气愤。
 
+
 派生词汇
 ---
 bloody /'blʌdi/ adj 
 > a bloody nose / murderer  
 > 流血的鼻子/残忍的凶手
-
-真题解析
----
-[null]
 
 
 # ***bloom*** n
@@ -8253,6 +5737,7 @@ bloody /'blʌdi/ adj
 > come into bloom   
 > 开花
 
+
 固定搭配
 ---
 - #### in (full) bloom 
@@ -8261,13 +5746,6 @@ bloody /'blʌdi/ adj
 
 > The roses are in full bloom now.   
 > 玫瑰盛开着。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bloom*** vi
@@ -8285,16 +5763,6 @@ bloody /'blʌdi/ adj
 > Many plants bloom in the spring.   
 > 许多植物春天开花。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***blossom*** n
 ---
@@ -8309,16 +5777,6 @@ bloody /'blʌdi/ adj
 1. *高义频：* **花**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***blossom*** vi
 ---
@@ -8331,16 +5789,6 @@ bloody /'blʌdi/ adj
 ---
 1. *高义频：* **开花**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***blouse*** n
@@ -8355,16 +5803,6 @@ bloody /'blʌdi/ adj
 ---
 1. *高义频：* **女衬衫：**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***blow*** v
@@ -8419,6 +5857,7 @@ bloody /'blʌdi/ adj
 > The tire blew.   
 > 轮胎爆了。
 
+
 固定搭配
 ---
 - #### blow down 
@@ -8447,13 +5886,6 @@ bloody /'blʌdi/ adj
 
 > A police officer was killed when his car blew up.   
 > 一名警察在其汽车爆炸时遇难。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***blow*** n
@@ -8489,19 +5921,13 @@ bloody /'blʌdi/ adj
 > Try to put the candles out in one blow.   
 > 用力一口气把蜡烛都吹灭。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The failure was a big blow _______ him, but he wasn’t discouraged and soon got as enthusiastic as ever.   
 ##### 答案 to  
   
-
 
 # ***blow-hole*** n
 ---
@@ -8515,16 +5941,6 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 ---
 1. *高义频：* **(鲸鱼的) 鼻孔； (隧道的) 通风口**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***blue*** adj
@@ -8553,18 +5969,12 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 > I’m feeling rather blue today.   
 > 我今天心情很差。
 
+
 固定搭配
 ---
 - #### black and blue
 1. **被打得青一块紫一块的；伤痕累累的**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***blue*** n
@@ -8585,16 +5995,6 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 > be in the blues   
 > 闷闷不乐
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***blues*** n
 ---
@@ -8608,16 +6008,6 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 ---
 1. *高义频：* **布鲁斯音乐；蓝调**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***board*** n
@@ -8654,6 +6044,7 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 > When his family fell on hard times, he was offered free room and board.  
 > 艰难的时候他家里接济不上，有人给他提供了免费食宿。
 
+
 固定搭配
 ---
 - #### on board 
@@ -8662,13 +6053,6 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 
 > On board the ship, you will be well taken care of.   
 > 你在船上会受到很好的照顾。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***board*** v
@@ -8700,16 +6084,6 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 > a boarding school   
 > 寄宿学校
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***boarding*** adj
 ---
@@ -8722,16 +6096,6 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 ---
 1. **提供食宿的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***boast*** v
@@ -8749,16 +6113,6 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 > **boasts that**  
 > He boasts that he is one of the best singers in the country.   
 > 他吹嘘自己是全国最好的歌手之一。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***boat*** n
@@ -8778,6 +6132,7 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 > cross the river in a boat / by boat   
 > 乘船过河
 
+
 固定搭配
 ---
 - #### in the same boat 
@@ -8786,13 +6141,6 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 
 > She and I are in the same boat: we both failed the exam.   
 > 我和她同病相怜,考试都没及格。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***boat*** vi
@@ -8807,16 +6155,10 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 1. *高义频：* **划船；乘船**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 boating /'boʊtɪŋ/ n [U] 
-真题解析
----
-[null]
-
 
 # ***body*** n
 ---
@@ -8868,6 +6210,7 @@ boating /'boʊtɪŋ/ n [U]
 > The governing body of the school is / are concerned about discipline.   
 > 学校行政部门很关心纪律问题。
 
+
 固定搭配
 ---
 - #### body and soul 
@@ -8880,13 +6223,6 @@ boating /'boʊtɪŋ/ n [U]
 
 > She hardly earns enough to keep body and soul together.   
 > 她几乎挣不够维持温饱的钱。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***boil*** v
@@ -8918,19 +6254,13 @@ boating /'boʊtɪŋ/ n [U]
 > His rudeness made her boil with anger.   
 > 他的无礼使她怒不可遏。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 100℃ is the temperature _______ which water will boil.   
 ##### 答案 at  
   
-
 
 # ***bold*** n
 ---
@@ -8949,16 +6279,6 @@ boating /'boʊtɪŋ/ n [U]
 > Highlight the important words in bold.   
 > 用粗体字突出重要的词语。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bold*** adj
 ---
@@ -8974,16 +6294,6 @@ boating /'boʊtɪŋ/ n [U]
 
 > a bold action / idea  
 > 大胆的举动/想法
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bomb*** n
@@ -9002,16 +6312,6 @@ boating /'boʊtɪŋ/ n [U]
 > The bomb exploded / went off.   
 > 炸弹爆炸了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bomb*** vt
 ---
@@ -9027,16 +6327,6 @@ boating /'boʊtɪŋ/ n [U]
 
 > The houses of Martin Luther King, Jr and the other leaders were bombed.   
 > 马丁·路德·金和其他领导人的房屋被炸了。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bond*** n
@@ -9062,16 +6352,6 @@ boating /'boʊtɪŋ/ n [U]
 > In some cultures friendship means a strong lifelong bond between two people.   
 > 在有些文化中友谊就是两个人之间终生的深厚关系。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bond*** v
 ---
@@ -9088,16 +6368,6 @@ boating /'boʊtɪŋ/ n [U]
 
 > These two different materials won’t bond together.  
 > 这两种不同的材料无法黏合起来。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bone*** n
@@ -9120,16 +6390,6 @@ boating /'boʊtɪŋ/ n [U]
 > The poor horse looked all skin and bone.   
 > 这匹可怜的马瘦得皮包骨。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bonfire*** n
 ---
@@ -9143,16 +6403,6 @@ boating /'boʊtɪŋ/ n [U]
 1. **（在室外为庆祝而燃起的）大火堆，篝火**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bonnie*** adj
 ---
@@ -9165,16 +6415,6 @@ boating /'boʊtɪŋ/ n [U]
 ---
 1. **<方言>十分漂亮的，有魅力的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bonus*** n
@@ -9197,16 +6437,6 @@ boating /'boʊtɪŋ/ n [U]
 > As a bonus for their fans, nearly every Cantopop singer also acts in the movies, from Jackie Cheung to Faye Wong.   
 > 让歌迷感到意外惊喜的是，从张学友到王菲，几乎每个粤语歌手也会出演电影。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***book*** n
 ---
@@ -9226,16 +6456,6 @@ boating /'boʊtɪŋ/ n [U]
 
 > an address / a phone book  
 > 地址/电话簿
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***book*** vt
@@ -9263,16 +6483,10 @@ boating /'boʊtɪŋ/ n [U]
 > Group bookers benefit from a direct free telephone booking line, and don’t pay booking fees.   
 > 团体订票可以享受直接拨打免费电话订票热线，无须支付预订费用。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 booking   
-真题解析
----
-[null]
-
 
 # ***bookcase*** n
 ---
@@ -9286,16 +6500,6 @@ booking
 ---
 1. *高义频：* **书架；书柜**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***booklet*** n
@@ -9311,16 +6515,6 @@ booking
 1. *高义频：* **小册子**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bookseller*** n
 ---
@@ -9334,16 +6528,6 @@ booking
 ---
 1. *高义频：* **书店业主；书商**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bookshelf*** n
@@ -9359,19 +6543,13 @@ booking
 1. *高义频：* **书架**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Her ________ (书架) are filled with books and photos.   
 ##### 答案 bookshelves / bookcases  
   
-
 
 # ***bookshop*** n
 ---
@@ -9386,16 +6564,6 @@ Her ________ (书架) are filled with books and photos.
 1. *高义频：* **书店(AmE bookstore)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bookworm*** n
 ---
@@ -9408,16 +6576,6 @@ Her ________ (书架) are filled with books and photos.
 ---
 1. **极爱读书的人，书迷，书虫**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***boom*** n
@@ -9444,16 +6602,6 @@ Her ________ (书架) are filled with books and photos.
 > The economic boom in recent years has created more job opportunities.   
 > 近年的经济繁荣创造了更多的就业机会。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***boom*** vi
 ---
@@ -9470,16 +6618,6 @@ Her ________ (书架) are filled with books and photos.
 > Bike-sharing is booming in China.  
 > 共享单车在中国很火爆。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***boomerang*** n
 ---
@@ -9492,16 +6630,6 @@ Her ________ (书架) are filled with books and photos.
 ---
 1. **回力镖（澳大利亚土著人使用的武器或狩猎工具）**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***boost*** vt
@@ -9522,16 +6650,6 @@ Her ________ (书架) are filled with books and photos.
 > Researches have shown that smiling can lower blood pressure, reduce stress and boost happiness.   
 > 研究表明微笑可以降低血压、舒缓压力、增进快乐。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***boot*** n
 ---
@@ -9545,16 +6663,6 @@ Her ________ (书架) are filled with books and photos.
 ---
 1. *高义频：* **靴子；长靴**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***booth*** n
@@ -9572,16 +6680,6 @@ Her ________ (书架) are filled with books and photos.
 
 > a telephone booth   
 > 电话亭
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***border*** n
@@ -9615,16 +6713,6 @@ Her ________ (书架) are filled with books and photos.
 > cross the border   
 > 穿越边境
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***border*** vt
 ---
@@ -9637,16 +6725,6 @@ Her ________ (书架) are filled with books and photos.
 ---
 1. *高义频：* **与…接壤；与…毗邻**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bore*** vt
@@ -9664,16 +6742,6 @@ Her ________ (书架) are filled with books and photos.
 > Will it bore you to hear the story again?   
 > 再听一遍这个故事你会烦吗？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bored*** adj
 ---
@@ -9690,6 +6758,7 @@ Her ________ (书架) are filled with books and photos.
 > There was a bored expression on her face.   
 > 她脸上有一种厌倦的表情。
 
+
 固定搭配
 ---
 - #### (be / get) bored with
@@ -9698,13 +6767,6 @@ Her ________ (书架) are filled with books and photos.
 
 > Bored with life in the city, he moved to a remote village.  
 > 因为厌倦了城市的生活，他搬到了一个偏远的村庄。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***boring*** adj
@@ -9726,19 +6788,13 @@ Her ________ (书架) are filled with books and photos.
 > They say it’s boring to hear the same songs all the time.  
 > 他们说总是听相同的歌曲令人感到厌烦。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Mr Smith, ________ (tire) of the ________ (bore) speech, started to read a novel.  
 ##### 答案 tired; boring  
   
-
 
 # ***born*** vt
 ---
@@ -9776,6 +6832,7 @@ to start to exist：
 > My parents have raised twelve kids and I am their first-born son.   
 > 我父母养育了12个孩子，我是他们的长子。
 
+
 固定搭配
 ---
 - #### be born to do / be sth 
@@ -9784,13 +6841,6 @@ to start to exist：
 
 > He was born to be a politician.   
 > 他天生就是个政治家。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***born*** adj
@@ -9809,16 +6859,6 @@ to start to exist：
 > He was a born leader.   
 > 他天生就是当领袖的料。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***borough*** n
 ---
@@ -9831,16 +6871,6 @@ to start to exist：
 ---
 1. **（自治）区**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***borrow*** v
@@ -9872,16 +6902,6 @@ to start to exist：
 > English has borrowed many words from French.  
 > 英语借用了许多法语单词。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***boss*** n
 ---
@@ -9896,16 +6916,10 @@ to start to exist：
 1. *高义频：* **老板；工头**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 bossy /'bɒsi/ adj 
-真题解析
----
-[null]
-
 
 # ***boss*** vt
 ---
@@ -9921,16 +6935,6 @@ bossy /'bɒsi/ adj
 
 > I’m sick of you bossing me around!   
 > 我讨厌你对我呼来喝去的！
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***botanical*** adj
@@ -9948,16 +6952,6 @@ bossy /'bɒsi/ adj
 > a botanical garden   
 > 植物园
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***botany*** n
 ---
@@ -9971,16 +6965,6 @@ bossy /'bɒsi/ adj
 ---
 1. *高义频：* **植物学**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***both*** adj
@@ -9997,16 +6981,6 @@ bossy /'bɒsi/ adj
 
 > Both his younger brothers are in the army.   
 > 他的两个弟弟都在服兵役。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***both*** pron
@@ -10026,6 +7000,7 @@ bossy /'bɒsi/ adj
 
 > He likes John and Mary both.   
 > 约翰和玛丽他都喜欢。
+
 
 固定搭配
 ---
@@ -10069,9 +7044,7 @@ both 的用法：
 > Both the women were not French.  
 > 这两位女士不都是法国人。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -10082,7 +7055,6 @@ Mr and Mrs Zhang all work in our school.
 Both Dad or I planned to do something on Mother’s Day.  
 ##### 答案 or → and  
   
-
 
 # ***bother*** v
 ---
@@ -10131,12 +7103,7 @@ to annoy, worry or upset sb; to cause sb trouble or pain:
 > Sorry to bother you, but the manager is on the line.  
 > 对不起，打扰一下，经理打电话找你。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -10149,7 +7116,6 @@ D.What for
 ##### 答案 A  
   
 
-
 # ***bother*** n
 ---
 英音 'bɒðə(r)     美音 'bɑːðər
@@ -10161,16 +7127,6 @@ D.What for
 ---
 1. **烦扰**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bottle*** n
@@ -10185,16 +7141,6 @@ D.What for
 1. *高义频：* **瓶；奶瓶；一瓶的量；[the bottle] 酒**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bottle*** v
 ---
@@ -10208,18 +7154,12 @@ D.What for
 1. **vt 把……装入瓶中**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 bottled /'bɒtld/ adj 
 > bottled water  
 > 瓶装水
-
-真题解析
----
-[null]
 
 
 # ***bottom*** n
@@ -10262,6 +7202,7 @@ bottled /'bɒtld/ adj
 > He started at the bottom of the career.   
 > 他从这项事业的最基层干起。
 
+
 固定搭配
 ---
 - #### from the bottom of one’s heart 
@@ -10270,13 +7211,6 @@ bottled /'bɒtld/ adj
 
 > From the bottom of my heart, thank you.   
 > 我从心底里感激你。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bottom*** adj
@@ -10309,16 +7243,6 @@ bottled /'bɒtld/ adj
 > We came bottom with 12 points.   
 > 我们以12分垫底。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***boulevard*** n
 ---
@@ -10331,16 +7255,6 @@ bottled /'bɒtld/ adj
 ---
 1. **林荫大道，大街**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bounce*** v
@@ -10358,16 +7272,6 @@ bottled /'bɒtld/ adj
 > The children were bouncing a ball.   
 > 孩子们在拍球。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bounce*** n
 ---
@@ -10380,16 +7284,6 @@ bottled /'bɒtld/ adj
 ---
 1. **（使球等）反弹；（使）弹回**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bound*** adj
@@ -10422,16 +7316,6 @@ certain to do sth：
 > a Paris-bound plane   
 > 飞往巴黎的飞机
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bound*** vi
 ---
@@ -10447,16 +7331,6 @@ certain to do sth：
 
 > Polly came bounding into the room holding a letter.  
 > 波利拿着一封信蹦蹦跳跳地进入了房间。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bound*** n
@@ -10480,16 +7354,6 @@ certain to do sth：
 > Julie’s reading is improving in leaps and bounds.   
 > 朱莉的阅读能力提高得很快。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***boundary*** n
 ---
@@ -10506,16 +7370,6 @@ certain to do sth：
 
 > the national / state / city boundary   
 > 国/州/市界
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bow*** v
@@ -10535,16 +7389,6 @@ certain to do sth：
 
 > bow one’s head  
 > 低头
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bow*** n
@@ -10572,16 +7416,6 @@ certain to do sth：
 > Ella wore a bow in her hair.   
 > 埃拉头上戴着一个蝴蝶结。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bowl*** n
 ---
@@ -10595,16 +7429,6 @@ certain to do sth：
 ---
 1. *高义频：* **碗；一碗的量；碗状物**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bowling*** n
@@ -10622,16 +7446,6 @@ certain to do sth：
 
 > go bowling   
 > 去打保龄球
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***box*** n
@@ -10660,16 +7474,6 @@ certain to do sth：
 > box office  
 > 售票处；票房
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***boxer*** n
 ---
@@ -10682,16 +7486,6 @@ certain to do sth：
 ---
 1. **拳击手，拳击运动员**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***boxing*** n
@@ -10706,16 +7500,6 @@ certain to do sth：
 ---
 1. *高义频：* **拳击**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***boy*** n
@@ -10736,16 +7520,6 @@ certain to do sth：
 
 2. *高义频：* **儿子**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***boy*** int
@@ -10769,16 +7543,6 @@ certain to do sth：
 > Oh boy! Betty’s sick again.   
 > 哎！贝蒂又病了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***boycott*** vt
 ---
@@ -10795,16 +7559,6 @@ certain to do sth：
 > We boycott all products tested on animals.   
 > 我们抵制所有拿动物做试验的产品。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***boycott*** n
 ---
@@ -10817,16 +7571,6 @@ certain to do sth：
 ---
 1. *高义频：* **[C] (对某事物的) 抵制**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***boyfriend*** n
@@ -10841,16 +7585,6 @@ certain to do sth：
 1. *高义频：* **男朋友**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***boyhood*** n
 ---
@@ -10864,16 +7598,6 @@ certain to do sth：
 ---
 1. *高义频：* **少年时代**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***brain*** n
@@ -10906,16 +7630,6 @@ certain to do sth：
 > Some of the best brains in our company are here tonight.   
 > 今晚我们公司的一些智囊人物云集于此。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***brainstorm*** v
 ---
@@ -10928,16 +7642,6 @@ certain to do sth：
 ---
 1. **集思广益**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***brake*** n
@@ -10960,16 +7664,6 @@ certain to do sth：
 > put on / apply the emergency brakes  
 > 使用紧急刹车
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***brake*** v
 ---
@@ -10987,16 +7681,6 @@ certain to do sth：
 > **braked,sharply,hard**  
 > The driver braked (the bus) sharply / hard.  
 > (公共汽车)司机突然急刹车。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***branch*** n
@@ -11030,12 +7714,7 @@ certain to do sth：
 > a branch of the Rhine  
 > 莱茵河的支流
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -11043,7 +7722,6 @@ The head office of the bank is in Beijing, but it has ________ (分部) all over
   
 ##### 答案 branches  
   
-
 
 # ***brand*** n
 ---
@@ -11064,16 +7742,6 @@ The head office of the bank is in Beijing, but it has ________ (分部) all over
 > Being the cautious type, I fancied a reliable brand.   
 > 作为一个谨慎的人，我喜欢可靠的品牌。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***brand-new*** adj
 ---
@@ -11090,16 +7758,6 @@ The head office of the bank is in Beijing, but it has ________ (分部) all over
 > a brand-new car   
 > 崭新的轿车
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***brass*** n
 ---
@@ -11113,16 +7771,6 @@ The head office of the bank is in Beijing, but it has ________ (分部) all over
 ---
 1. *高义频：* **黄铜；黄铜器**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***brave*** adj
@@ -11144,19 +7792,17 @@ The head office of the bank is in Beijing, but it has ________ (分部) all over
 > It was brave of you to speak in front of all those people.   
 > 能在那些人面前讲话，你很勇敢。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 bravely   /'breɪvli/ adv 
+
 真题解析
 ---
 ##### 题目  
 It was ________ (勇敢的) of Mary to quit her job and start her own business.  
 ##### 答案 brave  
   
-
 
 # ***brave*** vt
 ---
@@ -11172,16 +7818,6 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 
 > Thousands braved the rain to attend the flag-raising ceremony (= attended the flag-raising ceremony even though it’s raining).  
 > 数千人冒雨参加了这次升旗仪式。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bravery*** n
@@ -11199,16 +7835,6 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 
 > The man of true bravery is not frightened by death.  
 > 真正的勇士是不畏惧死亡的。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bread*** n
@@ -11235,18 +7861,12 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 > bread and butter  
 > 黄油面包；生计
 
+
 固定搭配
 ---
 - #### bread and butter
 1. **黄油面包；生计**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***break*** v  重难点词汇
@@ -11347,6 +7967,7 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 
 > No sooner had we set out than a thunderstorm broke.   
 > 我们刚动身突然雷雨大作。
+
 
 固定搭配
 ---
@@ -11485,9 +8106,7 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 > The police came running and broke up the crowd.  
 > 警察跑过来把人群驱散了。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -11502,7 +8121,6 @@ Old-fashioned phones matter when wireless networks break ________ in disasters.
 I was still sleeping when the fire broke ________, and then it spread quickly.   
 ##### 答案 out  
   
-
 
 # ***break*** n  重难点词汇
 ---
@@ -11545,16 +8163,6 @@ I was still sleeping when the fire broke ________, and then it spread quickly.
 > at the break of day / at daybreak  
 > 拂晓时分
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***breakdance*** n
 ---
@@ -11568,16 +8176,6 @@ I was still sleeping when the fire broke ________, and then it spread quickly.
 1. **霹雳舞**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***breakdown*** n
 ---
@@ -11590,16 +8188,6 @@ I was still sleeping when the fire broke ________, and then it spread quickly.
 ---
 1. **故障**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***breakfast*** n
@@ -11625,16 +8213,6 @@ I was still sleeping when the fire broke ________, and then it spread quickly.
 > She likes eggs for breakfast.   
 > 她早餐喜欢吃鸡蛋。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***breakthrough*** n
 ---
@@ -11653,16 +8231,6 @@ I was still sleeping when the fire broke ________, and then it spread quickly.
 > make a great scientific breakthrough  
 > 取得科学上的重大突破
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***breast*** n
 ---
@@ -11676,16 +8244,6 @@ I was still sleeping when the fire broke ________, and then it spread quickly.
 ---
 1. *高义频：* **胸 (脯)；乳房**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***breath*** n
@@ -11709,6 +8267,7 @@ I was still sleeping when the fire broke ________, and then it spread quickly.
 > draw in a breath of fresh air   
 > 吸一口清新的空气
 
+
 固定搭配
 ---
 - #### catch one’s breath
@@ -11726,9 +8285,7 @@ I was still sleeping when the fire broke ________, and then it spread quickly.
 > Reaching the top of the tower, he was out of breath.  
 > 到了塔顶他就上气不接下气了。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -11739,7 +8296,6 @@ Jack took a deep ________ (呼吸) and then dived into the water.
 Eric came running into the room, out of b________ .   
 ##### 答案 breath  
   
-
 
 # ***breathe*** v
 ---
@@ -11760,6 +8316,7 @@ Eric came running into the room, out of b________ .
 > People are concerned about the air quality they breathe.  
 > 人们很担心他们所呼吸的空气的质量。
 
+
 固定搭配
 ---
 - #### breathe in 
@@ -11779,16 +8336,17 @@ Eric came running into the room, out of b________ .
 > Humans take in oxygen and breathe out carbon dioxide.   
 > 人吸入氧气，呼出二氧化碳。
 
+
 派生词汇
 ---
 breathing  /'briːðɪŋ/ n [U] 
+
 真题解析
 ---
 ##### 题目  
 We had great difficulty in ________ (呼吸), for the air was thin.   
 ##### 答案 breathing  
   
-
 
 # ***breathless*** adj
 ---
@@ -11805,16 +8363,10 @@ We had great difficulty in ________ (呼吸), for the air was thin.
 > I was breathless after climbing the stairs.   
 > 爬上楼梯后我气喘吁吁。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 breathlessly /'breθləsli/ adv 
-真题解析
----
-[null]
-
 
 # ***breathtaking*** adj
 ---
@@ -11827,16 +8379,6 @@ breathlessly /'breθləsli/ adv
 ---
 1. **令人赞叹的；壮观的；惊险的；吃惊的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***breed*** v
@@ -11864,16 +8406,6 @@ breathlessly /'breθləsli/ adv
 > He was bred to be a doctor.   
 > 他被培养成了一名医生。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***breed*** n
 ---
@@ -11888,16 +8420,10 @@ breathlessly /'breθləsli/ adv
 1. *高义频：* **(动植物的) 品种：**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 breeding /'briːdɪŋ/ n [U]
-真题解析
----
-[null]
-
 
 # ***breeding*** n
 ---
@@ -11910,16 +8436,6 @@ breeding /'briːdɪŋ/ n [U]
 ---
 1. **[U] 繁殖；育种；教养**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***breeze*** n
@@ -11942,16 +8458,6 @@ breeding /'briːdɪŋ/ n [U]
 > Studying was a breeze for Nigel.   
 > 对于尼格尔来说学习是小菜一碟。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***brewery*** n
 ---
@@ -11965,16 +8471,6 @@ breeding /'briːdɪŋ/ n [U]
 ---
 1. *高义频：* **酿酒厂；啤酒厂**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***brick*** n
@@ -11990,16 +8486,6 @@ breeding /'briːdɪŋ/ n [U]
 1. *高义频：* **砖；砖块：**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bride*** n
 ---
@@ -12014,16 +8500,6 @@ breeding /'briːdɪŋ/ n [U]
 1. *高义频：* **新娘；新媳妇**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bridegroom*** n
 ---
@@ -12037,16 +8513,6 @@ breeding /'briːdɪŋ/ n [U]
 ---
 1. *高义频：* **新郎**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bridge*** n
@@ -12076,16 +8542,6 @@ breeding /'briːdɪŋ/ n [U]
 > play bridge   
 > 打桥牌
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bridge*** vt
 ---
@@ -12102,16 +8558,6 @@ breeding /'briːdɪŋ/ n [U]
 > **bridges the gap between,and**  
 > A snack in the afternoon bridges the gap between lunch and supper.  
 > 在午餐和晚餐之间，下午吃些点心补充一下。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***brief*** adj
@@ -12133,6 +8579,7 @@ breeding /'briːdɪŋ/ n [U]
 > We’re running out of time, so let’s be brief.  
 > 我们时间不多了，所以长话短说吧。
 
+
 固定搭配
 ---
 - #### in brief 
@@ -12142,13 +8589,10 @@ breeding /'briːdɪŋ/ n [U]
 > His success was a long story, but in brief, he succeeded after many failures.  
 > 他的成功说来话长。但简单地说，经历多次失败后，他成功了。
 
+
 派生词汇
 ---
 briefly /'briːfli/ adv 
-真题解析
----
-[null]
-
 
 # ***briefly*** adv
 ---
@@ -12161,16 +8605,6 @@ briefly /'briːfli/ adv
 ---
 1. *高义频：* **简要地；短暂地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bright*** adj
@@ -12217,17 +8651,11 @@ briefly /'briːfli/ adv
 > You have a bright future.   
 > 你前途光明。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 brighten /'braɪtn/ v 
 brightly /brightly/ adv 
-真题解析
----
-[null]
-
 
 # ***bright-coloured*** adj
 ---
@@ -12240,16 +8668,6 @@ brightly /brightly/ adv
 ---
 1. **颜色鲜艳的，鲜亮的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***brighten*** vt
@@ -12264,16 +8682,6 @@ brightly /brightly/ adv
 1. *高义频：* **(使) 明亮；变开心**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***brightness*** n
 ---
@@ -12287,16 +8695,6 @@ brightly /brightly/ adv
 ---
 1. *高义频：* **明亮；亮度；聪颖**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***brilliant*** adj
@@ -12331,16 +8729,10 @@ brightly /brightly/ adv
 > That’s quite brilliant! How did you do that, may I ask?   
 > 太棒了！请问你是怎么做到的？
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 brilliantly /'brɪliəntli/ adv 
-真题解析
----
-[null]
-
 
 # ***brimful*** adj
 ---
@@ -12354,16 +8746,6 @@ brilliantly /'brɪliəntli/ adv
 ---
 1. *高义频：* **盈满的；满到边际的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bring*** vt  重难点词汇
@@ -12422,6 +8804,7 @@ brilliantly /'brɪliəntli/ adv
 > **brought,to an end**  
 > The teacher brought the discussion to an end.   
 > 老师终止了讨论。
+
 
 固定搭配
 ---
@@ -12554,9 +8937,7 @@ to make sth bad or unpleasant happen：
 > He brought up all his dinner.   
 > 他把吃的饭全都吐出来了。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -12572,7 +8953,6 @@ The Internet has brought ________ big changes in the way we work.
 ##### 答案 about  
   
 
-
 # ***brink*** n
 ---
 英音 brɪŋk     美音 brɪŋk
@@ -12584,16 +8964,6 @@ The Internet has brought ________ big changes in the way we work.
 ---
 1. **边缘**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***broad*** adj
@@ -12632,6 +9002,7 @@ The Internet has brought ________ big changes in the way we work.
 > She showed us the broad outline of a new project.   
 > 她向我们介绍了新项目的概况。
 
+
 固定搭配
 ---
 - #### in broad daylight 
@@ -12640,6 +9011,7 @@ The Internet has brought ________ big changes in the way we work.
 
 ### 辨析 broad, wide
 两者都有“宽的”之意。　
+
 派生词汇
 ---
 broaden  /'brɔːdn/ v 
@@ -12655,10 +9027,6 @@ broadly /'brɔːdli/ adv
 > **smile broadly**  
 > smile broadly  
 > 开怀地笑
-
-真题解析
----
-[null]
 
 
 # ***broadcast*** v
@@ -12677,19 +9045,13 @@ broadly /'brɔːdli/ adv
 > The concert was broadcast live and attracted the largest audience in the history.  
 > 演唱会现场直播，并吸引了有史以来最多的观众。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 This football game was ________ (播出) live on TV across Europe.  
 ##### 答案 broadcast / broadcasted  
   
-
 
 # ***broadcast*** n
 ---
@@ -12711,16 +9073,6 @@ This football game was ________ (播出) live on TV across Europe.
 > I missed the live broadcast of the Olympics.   
 > 我没赶上看奥运会的直播。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***broadcasting*** n
 ---
@@ -12733,16 +9085,6 @@ This football game was ________ (播出) live on TV across Europe.
 ---
 1. **（无线电和电视的）节目制作和播放；广播**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***brochure*** n
@@ -12757,16 +9099,6 @@ This football game was ________ (播出) live on TV across Europe.
 ---
 1. *高义频：* **小册子**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***broken*** adj
@@ -12820,16 +9152,6 @@ This football game was ________ (播出) live on TV across Europe.
 > broken English   
 > 蹩脚的英语
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bronchitis*** n
 ---
@@ -12843,16 +9165,6 @@ This football game was ________ (播出) live on TV across Europe.
 1. **支气管炎**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bronze*** n
 ---
@@ -12865,16 +9177,6 @@ This football game was ________ (播出) live on TV across Europe.
 ---
 1. *高义频：* **[U] 青铜；[C] & [U] 铜牌**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***broom*** n
@@ -12893,16 +9195,6 @@ This football game was ________ (播出) live on TV across Europe.
 > A new broom sweeps clean.   
 > 新官上任三把火。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***brother*** n
 ---
@@ -12917,16 +9209,10 @@ This football game was ________ (播出) live on TV across Europe.
 1. *高义频：* **兄弟；同胞；同事**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 brotherhood /'brʌðərhʊd/ n [U] 
-真题解析
----
-[null]
-
 
 # ***brown*** adj
 ---
@@ -12939,16 +9225,6 @@ brotherhood /'brʌðərhʊd/ n [U]
 ---
 1. *高义频：* **褐色的；棕色的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***brown*** n
@@ -12964,16 +9240,6 @@ brotherhood /'brʌðərhʊd/ n [U]
 1. *高义频：* **棕色；褐色**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bruise*** n
 ---
@@ -12988,16 +9254,6 @@ brotherhood /'brʌðərhʊd/ n [U]
 1. *高义频：* **瘀伤；擦伤**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bruise*** vi
 ---
@@ -13010,16 +9266,6 @@ brotherhood /'brʌðərhʊd/ n [U]
 ---
 1. *高义频：* **(使)碰伤，(使) 成瘀伤**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***brunch*** n
@@ -13034,16 +9280,6 @@ brotherhood /'brʌðərhʊd/ n [U]
 ---
 1. *高义频：* **早午餐 (早吃的午餐或晚吃的早餐)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***brush*** n
@@ -13061,16 +9297,6 @@ brotherhood /'brʌðərhʊd/ n [U]
 
 > a toothbrush / paintbrush   
 > 牙刷/画笔
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***brush*** v
@@ -13102,16 +9328,6 @@ brotherhood /'brʌðərhʊd/ n [U]
 > He brushed past / by me in the street.   
 > 他和我在街上擦肩而过。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bubble*** n
 ---
@@ -13126,16 +9342,6 @@ brotherhood /'brʌðərhʊd/ n [U]
 1. *高义频：* **气泡；泡沫**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bubble*** v
 ---
@@ -13148,16 +9354,6 @@ brotherhood /'brʌðərhʊd/ n [U]
 ---
 1. **起泡；沸腾；汩汩的流动**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bucket*** n
@@ -13176,16 +9372,6 @@ brotherhood /'brʌðərhʊd/ n [U]
 > a bucket of water   
 > 一桶水
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bud*** n
 ---
@@ -13198,16 +9384,6 @@ brotherhood /'brʌðərhʊd/ n [U]
 ---
 1. **（花、枝、叶等的）苞，蓓蕾**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***budget*** n
@@ -13234,16 +9410,6 @@ brotherhood /'brʌðərhʊd/ n [U]
 > Travellers on a tight budget might prefer to backpack.  
 > 预算紧张的旅行者可能更喜欢背包游。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***budget*** v
 ---
@@ -13256,16 +9422,6 @@ brotherhood /'brʌðərhʊd/ n [U]
 ---
 1. **制定预算；按预算来安排**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***buffet*** n
@@ -13284,16 +9440,6 @@ brotherhood /'brʌðərhʊd/ n [U]
 > **buffet lunch**  
 > a buffet lunch 自助午餐  
 > 自助午餐
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bug*** n
@@ -13319,16 +9465,6 @@ brotherhood /'brʌðərhʊd/ n [U]
 
 > a bug in the software  
 > 软件上的问题
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***build*** v
@@ -13373,6 +9509,7 @@ to create or develop sth：
 > Lifting weights will build arm and shoulder muscles.  
 > 举重会使手臂和肩部的肌肉发达。
 
+
 固定搭配
 ---
 - #### build on / upon
@@ -13395,9 +9532,11 @@ to create or develop sth：
 > Outdoor activities are really helpful in building up my body and enrich my school life.  
 > 户外活动确实对我增强体质和丰富学校生活有益。
 
+
 派生词汇
 ---
 builder /'bɪldə(r)/ n [C]
+
 真题解析
 ---
 ##### 题目  
@@ -13408,7 +9547,6 @@ It is reported that a space station _______ (build) on the moon in years to come
 Bears build ________ fat stores throughout the summer and fall to have energy enough to last them through their winter sleep.  
 ##### 答案 up  
   
-
 
 # ***build*** n
 ---
@@ -13427,16 +9565,6 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 > a man of strong build   
 > 体格健壮的人
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***build-up*** n
 ---
@@ -13449,16 +9577,6 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 ---
 1. **增强；积聚；积累；宣传；吹捧；组成；堆起**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***building*** n
@@ -13485,16 +9603,6 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 > The building of the hotel took seven months.   
 > 这家宾馆的修建耗时7个月。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***built-in*** adj
 ---
@@ -13507,16 +9615,6 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 ---
 1. **内置的，嵌入式的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bulb*** n
@@ -13532,16 +9630,6 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 1. *高义频：* **电灯泡**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bull*** n
 ---
@@ -13555,16 +9643,6 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 ---
 1. *高义频：* **公牛**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bullet*** n
@@ -13580,16 +9658,6 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 1. *高义频：* **子弹；弹丸**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bulletin*** n
 ---
@@ -13602,16 +9670,6 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 ---
 1. **小型报刊; 短新闻; 报告**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bump*** v
@@ -13635,6 +9693,7 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 > Su Hua and Li Jiang bumped into each other, trying to catch the ball.  
 > 苏华和李江在抢球的时候，撞到了一起。
 
+
 固定搭配
 ---
 - #### bump into 
@@ -13643,13 +9702,6 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 
 > Guess who I bumped into this afternoon?  
 > 你猜今天下午我撞见了谁？
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bump*** n
@@ -13667,16 +9719,6 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 
 > fall to the ground with a bump  
 > 砰的一声摔倒在地
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bunch*** n
@@ -13696,16 +9738,6 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 > a bunch of flowers / bananas  
 > 一束花/一串香蕉
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bungalow*** n
 ---
@@ -13719,16 +9751,6 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 ---
 1. *高义频：* **平房**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***burden*** n
@@ -13751,16 +9773,6 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 > The burden of government sits heavily on my shoulders.  
 > 治理国家的重担落在我的肩上。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***burden*** vt
 ---
@@ -13778,16 +9790,6 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 > be burdened with heavy debts  
 > 承担沉重的债务
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bureaucratic*** adj
 ---
@@ -13801,16 +9803,10 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 1. *高义频：* **官僚 (政治) 的；官僚主义的**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 bureaucracy /bjʊ'rɑːkrəsi/ n [U]
-真题解析
----
-[null]
-
 
 # ***burglar*** n
 ---
@@ -13828,16 +9824,6 @@ bureaucracy /bjʊ'rɑːkrəsi/ n [U]
 > a burglar alarm  
 > 防盗报警器
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***burglary*** n
 ---
@@ -13850,16 +9836,6 @@ bureaucracy /bjʊ'rɑːkrəsi/ n [U]
 ---
 1. **盗窃；窃案；盗窃罪**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***burn*** v
@@ -13922,6 +9898,7 @@ bureaucracy /bjʊ'rɑːkrəsi/ n [U]
 > His face burned with shame.  
 > 他因羞愧而感到脸上发烫。
 
+
 固定搭配
 ---
 - #### burn down
@@ -13942,13 +9919,6 @@ bureaucracy /bjʊ'rɑːkrəsi/ n [U]
 1. **挑灯夜战；开夜车**  
 
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***burn*** n
 ---
@@ -13963,16 +9933,10 @@ bureaucracy /bjʊ'rɑːkrəsi/ n [U]
 1. *高义频：* **烧伤；烫伤；烧伤处**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 burnt /bɜːrnt/ adj 
-真题解析
----
-[null]
-
 
 # ***burst*** v
 ---
@@ -14006,6 +9970,7 @@ burnt /bɜːrnt/ adj
 > The storm burst and we all got wet.  
 > 突然下起暴雨，我们都淋湿了。
 
+
 固定搭配
 ---
 - #### burst in on / upon
@@ -14030,13 +9995,6 @@ burnt /bɜːrnt/ adj
 > burst out crying / laughing / cheering   
 > 突然大哭/大笑/欢呼起来
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***burst*** n
 ---
@@ -14056,16 +10014,6 @@ burnt /bɜːrnt/ adj
 
 > a burst of laughter / anger  
 > 一阵大笑/勃然大怒
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bury*** vt
@@ -14094,6 +10042,7 @@ burnt /bɜːrnt/ adj
 > He buried his face in his hands.   
 > 他双手掩面。
 
+
 固定搭配
 ---
 - #### be buried in / bury oneself in
@@ -14102,13 +10051,6 @@ burnt /bɜːrnt/ adj
 
 > As you know, I’m still buried in books at the school you are so familiar with.   
 > 如你所知，我还在你所熟悉的那所学校埋头读书。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bus*** n
@@ -14124,16 +10066,6 @@ burnt /bɜːrnt/ adj
 1. *高义频：* **公共汽车**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***bush*** n
 ---
@@ -14147,16 +10079,6 @@ burnt /bɜːrnt/ adj
 ---
 1. *高义频：* **矮灌木；灌木丛**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***business*** n
@@ -14243,6 +10165,7 @@ the buying or selling of goods or services for money (commerce / trade)：
 > run a family business  
 > 经营家族企业
 
+
 固定搭配
 ---
 - #### get down to business
@@ -14263,13 +10186,6 @@ the buying or selling of goods or services for money (commerce / trade)：
 > One day, the boss told us that the company was out of business.   
 > 一天，老板告诉我们公司倒闭了。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***businessman*** n
 ---
@@ -14284,16 +10200,6 @@ the buying or selling of goods or services for money (commerce / trade)：
 1. *高义频：* **(pl businessmen) 商人；实业家**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***businesswoman*** n
 ---
@@ -14307,16 +10213,6 @@ the buying or selling of goods or services for money (commerce / trade)：
 ---
 1. *高义频：* **(pl businesswomen) 女商人；女实业家**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***busy*** adj
@@ -14363,16 +10259,6 @@ the buying or selling of goods or services for money (commerce / trade)：
 > Every time I call the number, I get a busy signal.   
 > 我每次拨打那个号码都会听到忙音。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***but*** conj
 ---
@@ -14399,19 +10285,13 @@ the buying or selling of goods or services for money (commerce / trade)：
 > I had no other choice but to eat out.  
 > 我没有别的选择，只能在外面吃饭。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I work not because I have to, _________ because I want to.  
 ##### 答案 but  
   
-
 
 # ***but*** prep
 ---
@@ -14427,16 +10307,6 @@ I work not because I have to, _________ because I want to.
 
 > There’s no one here but me.  
 > 这里除了我没别人。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***but*** adv
@@ -14457,6 +10327,7 @@ I work not because I have to, _________ because I want to.
 > He left but an hour ago.  
 > 他一小时前才离去。
 
+
 固定搭配
 ---
 - #### but for
@@ -14473,9 +10344,7 @@ I work not because I have to, _________ because I want to.
 > She speaks very good English. But then she did live in London for two years.  
 > 她英语讲得很好，不过她毕竟在伦敦生活过两年。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -14486,7 +10355,6 @@ C.aside from
 D.but for  
 ##### 答案 D  
   
-
 
 # ***butcher*** n
 ---
@@ -14501,16 +10369,6 @@ D.but for
 1. *高义频：* **屠夫；卖肉者**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***butcher*** vt
 ---
@@ -14523,16 +10381,6 @@ D.but for
 ---
 1. *高义频：* **屠宰；屠杀**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***butter*** n
@@ -14548,16 +10396,6 @@ D.but for
 1. *高义频：* **黄油**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***butter*** vt
 ---
@@ -14570,16 +10408,6 @@ D.but for
 ---
 1. **涂黄油于**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***butterfly*** n
@@ -14594,16 +10422,6 @@ D.but for
 ---
 1. *高义频：* **蝴蝶**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***button*** n
@@ -14628,16 +10446,6 @@ D.but for
 > click / press / push / touch the button  
 > 按按钮
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***button*** v
 ---
@@ -14656,16 +10464,6 @@ D.but for
 
 > Men’s clothes tend to button from the right, and women’s from the left.  
 > 男装通常是从右边扣的，而女装则是从左边。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***buy*** v
@@ -14709,19 +10507,17 @@ D.but for
 > He said it was a mistake, but I don’t buy it.  
 > 他说那是个失误，但我不相信。
 
+
 固定搭配
 ---
 - #### buy up
 1. **迅速地囤积；大量买下**  
 
 
+
 派生词汇
 ---
 buyer /baɪər/ n [C]
-真题解析
----
-[null]
-
 
 # ***buzz*** vi
 ---
@@ -14738,16 +10534,6 @@ buyer /baɪər/ n [C]
 > Bees were buzzing around the picnic tables.  
 > 蜜蜂嗡嗡地围着野餐桌。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***buzz*** n
 ---
@@ -14761,16 +10547,6 @@ buyer /baɪər/ n [C]
 ---
 1. *高义频：* **嗡嗡声；蜂鸣声；叽叽喳喳的说话声；嘈杂声**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***by*** prep
@@ -14877,12 +10653,7 @@ buyer /baɪər/ n [C]
 > day by day / one by one / step by step  
 > 一天天/一个接一个/一步步
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -14905,7 +10676,6 @@ D.out
 A great man shows his greatness ________ the way he treats little men.  
 ##### 答案 by  
   
-
 
 # ***by*** adv
 ---
@@ -14931,6 +10701,7 @@ A great man shows his greatness ________ the way he treats little men.
 > The happy days went by.  
 > 那些快乐的日子过去了。
 
+
 固定搭配
 ---
 - #### by and by
@@ -14940,13 +10711,6 @@ A great man shows his greatness ________ the way he treats little men.
 - #### by and large
 1. **大体上；总体上**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***bye*** int
@@ -14960,16 +10724,6 @@ A great man shows his greatness ________ the way he treats little men.
 ---
 1. *高义频：* **再见**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***byproduct*** n
@@ -14985,13 +10739,4 @@ A great man shows his greatness ________ the way he treats little men.
 1. *高义频：* **副产品**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 

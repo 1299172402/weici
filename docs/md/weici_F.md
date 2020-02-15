@@ -1,349 +1,4 @@
-
-# ***Fahrenheit*** adj
----
-英音 'færənhaɪt     美音 'færənhaɪt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **华氏的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Fahrenheit*** n
----
-英音 'færənhaɪt     美音 'færənhaɪt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U] 
-
-英文释义
----
-1. *高义频：* **华氏温度计**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***February*** n
----
-英音 'februəri     美音 'februeri
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **二月（Feb.）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Filipino*** n
----
-英音 ˌfɪlɪ'piːnəʊ     美音 ˌfɪlɪ'piːnoʊ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **菲律宾人；菲律宾语**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Finland*** n
----
-英音 'fɪnlənd     美音 'fɪnlənd
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **芬兰**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Finn*** n
----
-英音 fɪn     美音 fɪn
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **芬兰人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Finnish*** adj
----
-英音 'fɪnɪʃ     美音 'fɪnɪʃ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **芬兰人的；芬兰语的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Florida*** n
----
-英音 'flɒrɪdə     美音 'flɔːrədə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **佛罗里达镇 (位于密苏里州)； 佛罗里达州 (美国州名)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Foster*** 
----
-英音 'fɒstə(r)     美音 'fɔːstər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **福斯特 (姓或男名)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***France*** n
----
-英音 frɑːns     美音 fræns
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **法国**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Freddy*** n
----
-英音 'fredi     美音 'fredi
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **弗雷迪 (男名)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***French*** adj
----
-英音 frentʃ     美音 frentʃ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **法国人的；法国的；法语的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***French*** n
----
-英音 frentʃ     美音 frentʃ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **法国人；法语**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Friday*** n
----
-英音 'fraɪdeɪ     美音 'fraɪdeɪ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **星期五（Fri.）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Futuroscope*** n
----
-英音 ˌfjuː'tʃʊərəskəʊp     美音 ˌfjuː'tʃʊərəskoʊp
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **观测未来 (公园名，位于法国)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
+# Ff
 
 # ***fabric*** n
 ---
@@ -356,16 +11,6 @@
 ---
 1. **[U] & [C] 织物；织品；结构**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***face*** n
@@ -418,6 +63,7 @@
 > red-faced  
 > 尴尬的；羞愧的
 
+
 固定搭配
 ---
 - #### face to face
@@ -458,13 +104,6 @@
 > They called Tony “Fatty” but never to his face.  
 > 他们叫托尼“胖子”,但从未当面叫过他。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***face*** v
 ---
@@ -503,6 +142,7 @@
 > With more and more forests cut down, some animals are facing the danger of dying out.  
 > 由于越来越多的森林被砍伐，一些动物正面临着灭绝的危险。
 
+
 固定搭配
 ---
 - #### face up to 
@@ -513,16 +153,13 @@
 > 勇于面对自己的问题而不是逃避是解决事情的最好办法。
 
 - #### (be) faced with
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 ________ (face) with so much trouble, we failed to complete the task on time.  
 ##### 答案 Faced  
   
-
 
 # ***face-to-face*** adj
 ---
@@ -535,16 +172,6 @@ ________ (face) with so much trouble, we failed to complete the task on time.
 ---
 1. **当面的；面对面的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***facial*** adj
@@ -562,16 +189,6 @@ ________ (face) with so much trouble, we failed to complete the task on time.
 > The most universal facial expression is, of course, the smile.  
 > 世界最通用的面部表情当然是微笑。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***facilitate*** vt
 ---
@@ -587,16 +204,6 @@ ________ (face) with so much trouble, we failed to complete the task on time.
 
 > Computers can be used to facilitate language learning.  
 > 计算机可为语言学习带来便利。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***facility*** n
@@ -626,16 +233,6 @@ ________ (face) with so much trouble, we failed to complete the task on time.
 > a pet care facility   
 > 宠物护理中心
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fact*** n
 ---
@@ -658,6 +255,7 @@ ________ (face) with so much trouble, we failed to complete the task on time.
 > **The fact that**  
 > The fact that she was foreign made it difficult for her to get a job in that country.  
 > 她是外国人这一事实使她在那个国家很难找到工作。
+
 
 固定搭配
 ---
@@ -684,16 +282,13 @@ ________ (face) with so much trouble, we failed to complete the task on time.
 > In fact, exercise produces chemicals that are good for your brain.  
 > 事实上，运动产生对大脑有益的化学物质。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 There’s no reason to be disappointed. ________ (事实上), this could be rather amusing.  
 ##### 答案 As a matter of fact / In fact / Actually  
   
-
 
 # ***factor*** n
 ---
@@ -714,16 +309,6 @@ There’s no reason to be disappointed. ________ (事实上), this could be rath
 > the key factor   
 > 关键因素
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***factory*** n
 ---
@@ -737,16 +322,6 @@ There’s no reason to be disappointed. ________ (事实上), this could be rath
 1. *高义频：* **[C] 工厂**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***factual*** adj
 ---
@@ -759,16 +334,6 @@ There’s no reason to be disappointed. ________ (事实上), this could be rath
 ---
 1. **实际的；事实的；确实的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fade*** v
@@ -801,6 +366,7 @@ There’s no reason to be disappointed. ________ (事实上), this could be rath
 > All memory of her childhood had faded (away) from her mind.  
 > 她对童年的一切记忆逐渐从脑海中消逝了。
 
+
 固定搭配
 ---
 - #### fade out
@@ -809,13 +375,6 @@ There’s no reason to be disappointed. ________ (事实上), this could be rath
 
 > The closing music fades out when the hero rides off into the sunset.  
 > 随着男主角策马向夕阳驰去，尾声音乐逐渐消失。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fail*** v  重难点词汇
@@ -895,19 +454,13 @@ to become weak：
 > Words failed me (= I could not express how I felt) when I wanted to express my thanks to him.  
 > 当我想要对他表示感谢的时候，不知道说什么好。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 William found it increasingly diffi cult to read, for his eyesight was beginning to ________ (衰退).  
 ##### 答案 fail  
   
-
 
 # ***fail*** n  重难点词汇
 ---
@@ -924,16 +477,6 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
 - #### without fail
 1. **必定；总是；务必**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***failure*** n
@@ -990,16 +533,6 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
 > Paris had suffered a sudden heart failure.  
 > 帕里斯曾突然间心脏衰竭。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***faint*** adj
 ---
@@ -1035,16 +568,6 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
 > a faint hope / chance  
 > 很小的希望/机会
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***faint*** vi
 ---
@@ -1060,16 +583,6 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
 
 > Many people in the crowd fainted in the heat.  
 > 人群里有许多人热得晕了过去。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fair*** adj
@@ -1118,16 +631,6 @@ quite good, large, etc.：
 > It will be fair tomorrow.  
 > 明天会是个好天。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fair*** n
 ---
@@ -1151,16 +654,6 @@ quite good, large, etc.：
 > a world / trade fair   
 > 世界博览会/商品交易会
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fair-skinned*** adj
 ---
@@ -1173,16 +666,6 @@ quite good, large, etc.：
 ---
 1. **浅肤色的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fairly*** adv
@@ -1205,16 +688,6 @@ quite good, large, etc.：
 
 ### 辨析 fairly, quite, rather, pretty
 四者都有“相当”之意。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fairy*** n
 ---
@@ -1231,16 +704,6 @@ quite good, large, etc.：
 > a fairy tale  
 > 童话；神话
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fairytale*** n
 ---
@@ -1253,16 +716,6 @@ quite good, large, etc.：
 ---
 1. **童话**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***faith*** n
@@ -1294,17 +747,11 @@ quite good, large, etc.：
 > people of different faiths  
 > 信仰不同宗教的人士
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 faithful /'feɪθfl/ adj 
 faithfully /'feɪθfəli/ adv 
-真题解析
----
-[null]
-
 
 # ***faithfully*** adv
 ---
@@ -1320,16 +767,6 @@ faithfully /'feɪθfəli/ adv
 
 > He had served the family faithfully for forty years.   
 > 他已经为这一家人忠心耿耿地服务了40年。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fake*** adj
@@ -1347,16 +784,6 @@ faithfully /'feɪθfəli/ adv
 > a fake $20 bill  
 > 一张20美元的假钞
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fake*** n
 ---
@@ -1369,16 +796,6 @@ faithfully /'feɪθfəli/ adv
 ---
 1. *高义频：* **[C] 假货；赝品：**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fall*** vi  重难点词汇
@@ -1487,6 +904,7 @@ faithfully /'feɪθfəli/ adv
 > To be successful, the first thing to do is to fall in love with your work.  
 > 成功的第一要素就是热爱你的工作。
 
+
 固定搭配
 ---
 - #### fall apart
@@ -1561,13 +979,6 @@ faithfully /'feɪθfəli/ adv
 > The hunter fired and the deer fell over dead.  
 > 猎人一开枪，鹿应声倒下，死了。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fall*** n  重难点词汇
 ---
@@ -1602,19 +1013,13 @@ faithfully /'feɪθfəli/ adv
 > the rise and fall of UK  
 > 大英帝国的兴衰
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I am awfully tired, but I know I'll never fall sleep.  
 ##### 答案 sleep → asleep  
   
-
 
 # ***fall*** n
 ---
@@ -1627,16 +1032,6 @@ I am awfully tired, but I know I'll never fall sleep.
 ---
 1. **[C] 秋天 (BrE autumn)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***false*** adj
@@ -1656,16 +1051,6 @@ I am awfully tired, but I know I'll never fall sleep.
 
 > false teeth / hair  
 > 假牙/假发
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fame*** n
@@ -1691,16 +1076,6 @@ I am awfully tired, but I know I'll never fall sleep.
 > rise to fame  
 > 声名鹊起
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***familiar*** adj
 ---
@@ -1725,16 +1100,10 @@ I am awfully tired, but I know I'll never fall sleep.
 > The theme park you are probably most familiar with is Disneyland.  
 > 你最熟悉的主题公园大概就是迪士尼乐园。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 familiarity /fəˌmɪli'ærəti/ n 
-真题解析
----
-[null]
-
 
 # ***family*** n
 ---
@@ -1764,16 +1133,6 @@ family作主语时，若指“各个家庭成员”，谓语动词用复数；�
 > My family is very large.  
 > 我家是个大家庭。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***famine*** n
 ---
@@ -1789,16 +1148,6 @@ family作主语时，若指“各个家庭成员”，谓语动词用复数；�
 
 > When there is a shortage of food, there is a famine.  
 > 食物短缺就会有饥荒。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***famous*** adj
@@ -1828,19 +1177,13 @@ family作主语时，若指“各个家庭成员”，谓语动词用复数；�
 > Zhejiang is famous for tea and silk.  
 > 浙江以茶叶和丝绸而闻名。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Zhejiang is f________ for tea and silk.  
 ##### 答案 famous  
   
-
 
 # ***fan*** n
 ---
@@ -1867,16 +1210,6 @@ Zhejiang is f________ for tea and silk.
 > **a big fan of**  
 > The boy is a big fan of Marvel movies.  
 > 那个男孩是漫威电影的狂热粉丝。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fancy*** vt
@@ -1914,18 +1247,12 @@ to believe or imagine sth：
 > Which team do you fancy this year?  
 > 你认为今年哪支队会赢？
 
+
 固定搭配
 ---
 - #### fancy oneself (as) sth
 1. **自以为是某种人**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fancy*** n
@@ -1948,6 +1275,7 @@ to believe or imagine sth：
 > She said she wanted a dog but it was only a passing fancy.  
 > 她说想要条狗，但那只是一时的兴致而已。
 
+
 固定搭配
 ---
 - #### take sb's fancy
@@ -1956,13 +1284,6 @@ to believe or imagine sth：
 
 > I could do without TV because few shows take my fancy.  
 > 我不看电视也行，因为很少有节目能引起我的兴趣。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fancy*** adj
@@ -1990,16 +1311,6 @@ to believe or imagine sth：
 > The design of the room was in the fancy style popular in those days.  
 > 屋子的设计是当时流行的别致的样式。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fantastic*** adj
 ---
@@ -2023,16 +1334,6 @@ extremely good, attractive, enjoyable, etc.：
 > a fantastic place / trip  
 > 极好的地方/旅行
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fantasy*** n
 ---
@@ -2054,16 +1355,6 @@ extremely good, attractive, enjoyable, etc.：
 
 > The whole story is a fantasy.  
 > 整个故事都是虚构的。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***far*** adj  重难点词汇
@@ -2097,16 +1388,6 @@ extremely good, attractive, enjoyable, etc.：
 > **far right**  
 > The girl on the far right of the photo is our monitor.  
 > 照片中最右边那个女孩是我们的班长。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***far*** adv  重难点词汇
@@ -2153,6 +1434,7 @@ extremely good, attractive, enjoyable, etc.：
 > **get far**  
 > He started to explain, but he didn't get far before Mary interrupted him.  
 > 他开始解释起来，但没说几句就被玛丽打断了。
+
 
 固定搭配
 ---
@@ -2217,9 +1499,7 @@ extremely good, attractive, enjoyable, etc.：
 > 到目前为止，我们学过的英语单词累计约三千五百个。
 
 so far 常与现在完成时连用。
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2244,7 +1524,6 @@ Progress ________ (be) so far very good and we are sure that the work will be fi
 ##### 答案 has been  
   
 
-
 # ***far-reaching*** adj
 ---
 英音 fɑː 'riːtʃɪŋ     
@@ -2256,16 +1535,6 @@ Progress ________ (be) so far very good and we are sure that the work will be fi
 ---
 1. **深远的；伸至远处的；广大的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fare*** n
@@ -2284,16 +1553,6 @@ Progress ________ (be) so far very good and we are sure that the work will be fi
 > 车费
 
 fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费用。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***farewell*** n
 ---
@@ -2309,16 +1568,6 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 
 > a farewell party  
 > 欢送会
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***farewell*** int
@@ -2336,16 +1585,6 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 > a farewell party  
 > 欢送会
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***farm*** n
 ---
@@ -2362,16 +1601,6 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 > **on the farm**  
 > They work on the farm.  
 > 他们在农场工作。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***farm*** v
@@ -2392,16 +1621,6 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 > My parents used to farm for a living.  
 > 我父母过去以务农为生。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***farmer*** n
 ---
@@ -2414,16 +1633,6 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 ---
 1. *高义频：* **[C] 农民；农场主**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***farming*** n
@@ -2438,16 +1647,6 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 1. *高义频：* **[U] 务农；养殖业**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***farmyard*** n
 ---
@@ -2461,16 +1660,6 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 ---
 1. *高义频：* **农场；农家**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***farther*** adj & adv
@@ -2501,16 +1690,6 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 > Africa is further / farther from England than France.  
 > 非洲距离英国比距离法国远。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***farthest*** adj & adv
 ---
@@ -2526,16 +1705,6 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 
 > Which of the stars is the farthest from the earth?  
 > 这些星星中哪颗离地球最远？
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fascinate*** v
@@ -2557,19 +1726,13 @@ to attract or interest sb very much：
 > It seems that the private lives of movie stars never fail to fascinate.  
 > 电影明星的私生活似乎总是让人津津乐道。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 fascinated /'fæsɪneɪtɪd/ adj 
 > **fascinated by**  
 > I was fascinated by her beautiful voice.  
 > 我被她美妙的声音迷住了。
-
-真题解析
----
-[null]
 
 
 # ***fascinated*** adj
@@ -2583,16 +1746,6 @@ fascinated /'fæsɪneɪtɪd/ adj
 ---
 1. **被迷住的，被吸引住的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fascinating*** adj
@@ -2610,16 +1763,6 @@ fascinated /'fæsɪneɪtɪd/ adj
 > Behind our house is the start of a fascinating trail.  
 > 一条迷人的小径从我们房子后面延伸出去。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fascination*** n
 ---
@@ -2632,16 +1775,6 @@ fascinated /'fæsɪneɪtɪd/ adj
 ---
 1. **着迷；迷恋；吸引力**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fashion*** n
@@ -2684,6 +1817,7 @@ fascinated /'fæsɪneɪtɪd/ adj
 > a fashion show / designer  
 > 时装表演/设计师
 
+
 固定搭配
 ---
 - #### in (a) … fashion
@@ -2696,9 +1830,7 @@ fascinated /'fæsɪneɪtɪd/ adj
 > He behaves in a strange fashion.  
 > 他表现得很奇怪。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2706,7 +1838,6 @@ Those who change mobile phones frequently will pay a heavy price for being______
   
 ##### 答案 fashionable  
   
-
 
 # ***fashionable*** adj
 ---
@@ -2726,19 +1857,13 @@ Those who change mobile phones frequently will pay a heavy price for being______
 > fashionable clothes / ideas  
 > 时髦的衣服/理念
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Those who change mobile phones frequently will pay a heavy price for being________ (fashion).  
 ##### 答案 fashionable  
   
-
 
 # ***fast*** adj
 ---
@@ -2761,6 +1886,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
 
 ### 辨析 fast, quick, rapid, swift
 四者都可用作形容词，表示“快的”、“迅速的”等意。
+
 固定搭配
 ---
 - #### hard and fast
@@ -2769,13 +1895,6 @@ Those who change mobile phones frequently will pay a heavy price for being______
 
 > There are basically no hard and fast rules about public speaking.  
 > 公众演讲基本上没有一成不变的规则。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fast*** adv
@@ -2792,16 +1911,6 @@ Those who change mobile phones frequently will pay a heavy price for being______
 
 > At first, I could not run very fast and fell behind.  
 > 起初，我跑得不是很快，落在了后面。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fasten*** vt
@@ -2831,16 +1940,6 @@ Those who change mobile phones frequently will pay a heavy price for being______
 > fasten a lock to the door  
 > 用锁把门锁好
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fat*** adj
 ---
@@ -2868,16 +1967,6 @@ Those who change mobile phones frequently will pay a heavy price for being______
 
 > fat profits   
 > 丰厚的利润
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fat*** n
@@ -2907,16 +1996,6 @@ Those who change mobile phones frequently will pay a heavy price for being______
 > low-fat food  
 > 低脂食物
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fate*** n
 ---
@@ -2934,16 +2013,6 @@ Those who change mobile phones frequently will pay a heavy price for being______
 > decide / change sb's fate  
 > 决定/改变某人的命运
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fateful*** adj
 ---
@@ -2956,16 +2025,6 @@ Those who change mobile phones frequently will pay a heavy price for being______
 ---
 1. *高义频：* **(一般用于名词前) 重要的；决定性的；命中注定的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***father*** n
@@ -2999,16 +2058,6 @@ Those who change mobile phones frequently will pay a heavy price for being______
 4. *低义频：* **[Father] 神父**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fathom*** n
 ---
@@ -3022,16 +2071,6 @@ Those who change mobile phones frequently will pay a heavy price for being______
 ---
 1. *高义频：* **英寻 (= 6英尺，测量水深的单位)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fault*** n
@@ -3072,6 +2111,7 @@ a weak aspect of sb's character or sth that is wrong or not perfect：
 
 ### 辨析 error, mistake, fault
 
+
 固定搭配
 ---
 - #### at fault 
@@ -3094,9 +2134,11 @@ a weak aspect of sb's character or sth that is wrong or not perfect：
 > Life can be great when you are not busy finding fault with it.  
 > 如果你不忙于挑剔生活，生活可以很美好。
 
+
 派生词汇
 ---
 faultless /'fɔːltləs/ adj 
+
 真题解析
 ---
 ##### 题目  
@@ -3107,7 +2149,6 @@ He is such a man who is always finding fault ________ other people.
 "I don't think it's ________ (我的过错) that the TV blew up. I just turned it on, that's all," said the boy.  
 ##### 答案 my fault  
   
-
 
 # ***fault*** vt
 ---
@@ -3124,16 +2165,10 @@ He is such a man who is always finding fault ________ other people.
 > Nobody will fault you for it.   
 > 没人会因此指责你。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 faultless /'fɔːltləs/ adj 
-真题解析
----
-[null]
-
 
 # ***favo(u)r*** vt
 ---
@@ -3154,19 +2189,17 @@ to prefer sb / sth to another：
 > We favour your proposal.   
 > 我们赞成你的建议。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 favo(u)rable /'feɪvərəbl/ adj 
+
 真题解析
 ---
 ##### 题目  
 When asked about their opinions about the schoolmaster, many teachers would prefer to see him step aside ________ favor of younger men.  
 ##### 答案 in  
   
-
 
 # ***favo(u)r*** n
 ---
@@ -3210,6 +2243,7 @@ When asked about their opinions about the schoolmaster, many teachers would pref
 3. *高义频：* **赞同；支持**  
 
 
+
 固定搭配
 ---
 - #### in favour of
@@ -3225,13 +2259,6 @@ When asked about their opinions about the schoolmaster, many teachers would pref
 
 > We voted for the monitor, and the result was 28 to 15 in Wang Hong's favor.  
 > 我们选举班长，结果是28比15，王红当选。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***favo(u)rite*** adj
@@ -3250,12 +2277,7 @@ When asked about their opinions about the schoolmaster, many teachers would pref
 > What's your favourite sport?  
 > 你最喜欢的运动是什么？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3266,7 +2288,6 @@ The dishes that I cooked were Mom's favoritest.
 What is your ________(最喜欢的) color?  
 ##### 答案 favo(u)rite  
   
-
 
 # ***favo(u)rite*** n
 ---
@@ -3282,16 +2303,6 @@ What is your ________(最喜欢的) color?
 
 > Jane is her mother's favourite.  
 > 简是妈妈的最爱。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fax*** n
@@ -3316,16 +2327,6 @@ What is your ________(最喜欢的) color?
 > send faxes by e-mail  
 > 用电子邮件发传真信件
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fax*** vt
 ---
@@ -3342,16 +2343,6 @@ What is your ________(最喜欢的) color?
 > **faxed_2,to**  
 > I faxed them the list of hotels. / I faxed the list of hotels to them.  
 > 我把旅馆名单传真给了他们。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fear*** n  重难点词汇
@@ -3377,6 +2368,7 @@ What is your ________(最喜欢的) color?
 > **a fear of**  
 > He has a fear of heights.  
 > 他恐高。
+
 
 固定搭配
 ---
@@ -3406,13 +2398,6 @@ What is your ________(最喜欢的) color?
 
 > Team members must be able to express their opinions freely without fear of being criticized.  
 > 团队成员必须能够自由表达自己的观点，不怕被责备。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fear*** v  重难点词汇
@@ -3451,20 +2436,18 @@ What is your ________(最喜欢的) color?
 > I really feared (that) I might miss the train.  
 > 我真担心自己可能赶不上火车了。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 fearful /'fɪəfl/ adj 
 fearless /'fɪələs/ adj 
+
 真题解析
 ---
 ##### 题目  
 He got to the station early, ________ fear of missing his train.  
 ##### 答案 for  
   
-
 
 # ***feast*** n
 ---
@@ -3490,16 +2473,6 @@ He got to the station early, ________ fear of missing his train.
 > The film festival should be a real feast for film fans.  
 > 这个电影节会让影迷们大饱眼福。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***feather*** n
 ---
@@ -3516,18 +2489,12 @@ He got to the station early, ________ fear of missing his train.
 > Fine feathers make fine birds.  
 > 人要衣装，佛要金装。
 
+
 固定搭配
 ---
 - #### birds of a feather (flock together)
 1. **物以类聚，人以群分**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***feature*** n
@@ -3574,16 +2541,6 @@ a special article or programme about sb / sth：
 > She showed great interest in a special feature on education in today's newspaper.  
 > 她对今天报纸上一个关于教育的专栏特别感兴趣。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***feature*** v
 ---
@@ -3615,16 +2572,6 @@ to have an important part in sth：
 > Fish features in the Japanese diet.  
 > 鱼在日本人的饮食中占重要地位。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***federal*** adj
 ---
@@ -3644,16 +2591,6 @@ to have an important part in sth：
 > the Federal Bureau of Investigation (FBI)  
 > 联邦调查局
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***federation*** n
 ---
@@ -3666,16 +2603,6 @@ to have an important part in sth：
 ---
 1. *高义频：* **[C] & [U] 联盟；联邦**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fee*** n
@@ -3708,16 +2635,6 @@ fee指进入或加入某组织所付的费用，还可指为专业服务所支�
 > The insurance company paid all my medical fees.  
 > 保险公司为我支付了所有的医疗费。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fee*** vt
 ---
@@ -3733,16 +2650,6 @@ fee指进入或加入某组织所付的费用，还可指为专业服务所支�
 
 > fee a waiter  
 > 给服务员小费
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***feed*** v
@@ -3788,6 +2695,7 @@ to satisfy a strong need：
 > Our exhibits will feed your mind.  
 > 我们的展品会给你提供精神食粮。
 
+
 固定搭配
 ---
 - #### (be) fed up with
@@ -3815,9 +2723,7 @@ to satisfy a strong need：
 > Bats fly at night and feed on insects.  
 > 蝙蝠在夜间飞行，以昆虫为食。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3825,7 +2731,6 @@ Butterflies feed ________ a sweet liquid produced by flowers, which other insect
 B.   
 ##### 答案 on  
   
-
 
 # ***feed*** n
 ---
@@ -3845,16 +2750,6 @@ B.
 2. *低义频：* **[U] 饲料；牧草**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***feedback*** n
 ---
@@ -3870,16 +2765,6 @@ B.
 
 > To my surprise, I got some wonderful feedback on my novel.  
 > 令我惊讶的是，我得到了一些关于我的小说的很好的反馈意见。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***feel*** vt  重难点词汇
@@ -3947,16 +2832,6 @@ B.
 
 > Jerry did not regret giving the comment but felt that he could have expressed it differently.  
 > 杰瑞对自己所给出的评价并不后悔，但他觉得要是换一种方式表达就好了。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***feel*** v  重难点词汇
@@ -4070,6 +2945,7 @@ B.
 > Jerry did not regret giving the comment but felt that he could have expressed it differently.  
 > 杰瑞对自己所给出的评价并不后悔，但他觉得要是换一种方式表达就好了。
 
+
 固定搭配
 ---
 - #### feel at home
@@ -4096,9 +2972,7 @@ B.
 > I don’t feel quite myself today.  
 > 我今天感到不太舒服。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4113,7 +2987,6 @@ Lydia doesn’t feel like _______ (study) abroad. Her parents are old.
 The water________ (feel) cool when I jumped into the pool for morning exercise.  
 ##### 答案 felt  
   
-
 
 # ***feel*** n  重难点词汇
 ---
@@ -4132,16 +3005,6 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
 
 > She is proud of her middle-sized city with the small town feel and big city dreams.  
 > 她很自豪，她的城市中等规模，有着小镇气氛和大城市的梦想。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***feeling*** n
@@ -4209,16 +3072,6 @@ the ability to understand sb / sth：
 > She had a wonderful feeling for music.  
 > 她的乐感很强。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fellow*** n
 ---
@@ -4249,16 +3102,6 @@ the ability to understand sb / sth：
 > She has a very good reputation among her fellows.  
 > 她在同事中口碑甚佳。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fellow*** adj
 ---
@@ -4277,16 +3120,6 @@ the ability to understand sb / sth：
 
 > fellow workers / students / travellers  
 > 同事/同学/旅伴
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***female*** adj
@@ -4307,16 +3140,6 @@ the ability to understand sb / sth：
 > a female dog  
 > 母狗
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***female*** n
 ---
@@ -4329,16 +3152,6 @@ the ability to understand sb / sth：
 ---
 1. *高义频：* **女子；雌性动 / 植物**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fence*** n
@@ -4359,16 +3172,6 @@ the ability to understand sb / sth：
 > Good fences make good neighbours.  
 > 一篱间隔，友谊长青。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fence*** vt
 ---
@@ -4385,16 +3188,6 @@ the ability to understand sb / sth：
 > Dad fenced the backyard.   
 > 爸爸用篱笆把后院围了起来。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ferry*** n
 ---
@@ -4409,16 +3202,6 @@ the ability to understand sb / sth：
 1. *高义频：* **渡船；摆渡；渡口**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ferry*** vt
 ---
@@ -4431,16 +3214,6 @@ the ability to understand sb / sth：
 ---
 1. **摆渡；渡运**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fertile*** adj
@@ -4458,16 +3231,6 @@ the ability to understand sb / sth：
 > fertile ground / eggs   
 > 沃土/受精卵
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fertilizer*** n
 ---
@@ -4481,16 +3244,6 @@ the ability to understand sb / sth：
 ---
 1. *高义频：* **肥料；化肥**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***festival*** n
@@ -4521,16 +3274,6 @@ the ability to understand sb / sth：
 > a beer festival   
 > 啤酒节
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fetch*** vt
 ---
@@ -4550,16 +3293,6 @@ the ability to understand sb / sth：
 > **Fetch_2,for**  
 > Fetch me my umbrella. / Fetch my umbrella for me.  
 > 去把我的雨伞拿来。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fever*** n
@@ -4585,19 +3318,13 @@ the ability to understand sb / sth：
 > A really powerful speaker can work up the feelings of the crowd to a fever of excitement.  
 > 一个真正有感染力的演讲者可以把群众的情绪激发到狂热程度。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 He caught a high f________ . His body temperature was as high as 40°C.  
 ##### 答案 fever  
   
-
 
 # ***few*** adj
 ---
@@ -4617,16 +3344,6 @@ He caught a high f________ . His body temperature was as high as 40°C.
 > There're few differences between the two.  
 > 二者之间差别很小。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***few*** pron
 ---
@@ -4642,6 +3359,7 @@ He caught a high f________ . His body temperature was as high as 40°C.
 
 > Few of his friends have been there.  
 > 他的朋友没几个人去过那儿。
+
 
 固定搭配
 ---
@@ -4680,9 +3398,7 @@ few不论作形容词还是作代词，在句中大都表示否定，a few则表
 1. **稀少；罕见**  
 
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4693,7 +3409,6 @@ There are a small number of people involved, possibly as little as twenty.
 I hear ________ (相当多) boys in your school like playing football in their spare time, though others prefer basketball. (few)  
 ##### 答案 a good few / quite a few / not a few  
   
-
 
 # ***fiancé*** n
 ---
@@ -4707,16 +3422,6 @@ I hear ________ (相当多) boys in your school like playing football in their s
 1. **未婚夫**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fiancée*** n
 ---
@@ -4729,16 +3434,6 @@ I hear ________ (相当多) boys in your school like playing football in their s
 ---
 1. **未婚妻**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fiction*** n
@@ -4763,16 +3458,6 @@ I hear ________ (相当多) boys in your school like playing football in their s
 > For years he managed to keep up the fiction that he was not married.  
 > 多年来他一直设法给人一种未婚的假象。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fictional*** adj
 ---
@@ -4785,16 +3470,6 @@ I hear ________ (相当多) boys in your school like playing football in their s
 ---
 1. **虚构的，编造的,小说 (中)的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***field*** n
@@ -4851,16 +3526,6 @@ I hear ________ (相当多) boys in your school like playing football in their s
 > in the field of entertainment  
 > 在娱乐圈
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fierce*** adj
 ---
@@ -4884,19 +3549,17 @@ I hear ________ (相当多) boys in your school like playing football in their s
 > fierce competition   
 > 激烈的竞争
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 fiercely /fɪəsli/ adv 
+
 真题解析
 ---
 ##### 题目  
 They look like the teeth of a ________ (凶猛的) animal.  
 ##### 答案 fierce  
   
-
 
 # ***fiery*** adj
 ---
@@ -4909,16 +3572,6 @@ They look like the teeth of a ________ (凶猛的) animal.
 ---
 1. **燃烧的, 如火的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fight*** v
@@ -4988,6 +3641,7 @@ to try hard to do or get sth：
 > fight poverty / cancer  
 > 与贫穷/癌症抗争
 
+
 固定搭配
 ---
 - #### fight back
@@ -4999,13 +3653,6 @@ to try hard to do or get sth：
 
 > She looked away, fighting back her tears.  
 > 她看着别处，强忍着泪。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fight*** n
@@ -5035,17 +3682,11 @@ to try hard to do or get sth：
 > They had a fight with their neighbours.  
 > 他们和邻居吵了一架。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 fighter /'faɪtə(r)/ n 
 fighting /'faɪtɪŋ/ n 
-真题解析
----
-[null]
-
 
 # ***figurative*** adj
 ---
@@ -5058,16 +3699,6 @@ fighting /'faɪtɪŋ/ n
 ---
 1. **比喻的；借喻的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***figure*** n  重难点词汇
@@ -5126,16 +3757,6 @@ a person who is important or famous：
 > A triangle is a three-sided figure.  
 > 三角形是有三条边的几何图形。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***figure*** v  重难点词汇
 ---
@@ -5176,6 +3797,7 @@ to think or guess sth：
 > I'm just figuring my expenses.  
 > 我在计算我的开销。
 
+
 固定搭配
 ---
 - #### figure out
@@ -5194,9 +3816,7 @@ to think or guess sth：
 > Ben figured out how to guess the right answers, so he got good grades.  
 > 本弄清楚了如何猜对答案，所以得了高分。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -5204,7 +3824,6 @@ The present situation is very complex, so I think it will take me some time to f
 B.   
 ##### 答案 out  
   
-
 
 # ***file*** n
 ---
@@ -5229,16 +3848,6 @@ B.
 > **keeps files on**  
 > The school keeps files on all students.  
 > 学校存有所有学生的档案。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***file*** vt
@@ -5268,16 +3877,6 @@ B.
 
 > file one's nails  
 > 锉指甲
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fill*** v
@@ -5343,6 +3942,7 @@ B.
 > There aren't enough qualified graduates to fill the jobs in American agriculture.  
 > 没有足够的合格毕业生在美国从事农业。
 
+
 固定搭配
 ---
 - #### fill in / out 
@@ -5367,13 +3967,6 @@ B.
 > Shall I fill the car up (with petrol)?   
 > 要不要我给车加满汽油？
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***filling*** n
 ---
@@ -5386,16 +3979,6 @@ B.
 ---
 1. **馅**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***film*** n
@@ -5436,16 +4019,6 @@ B.
 > The whole incident was recorded / captured on film.  
 > 事件的整个过程都被拍摄了下来。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***film*** v
 ---
@@ -5468,16 +4041,6 @@ B.
 > They are filming in Moscow right now.  
 > 目前他们正在莫斯科拍电影。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***filthy*** adj
 ---
@@ -5490,16 +4053,6 @@ B.
 ---
 1. **十分肮脏的，污秽的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fin*** n
@@ -5514,16 +4067,6 @@ B.
 1. **鱼鳍；[飞机的]垂直尾翼**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fin*** v
 ---
@@ -5536,16 +4079,6 @@ B.
 ---
 1. **切去（鱼的）鳍**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***final*** adj
@@ -5578,16 +4111,6 @@ B.
 > I'm not coming, and that's final (= I won't change my mind).  
 > 我不去了，就这么定了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***final*** n
 ---
@@ -5607,16 +4130,6 @@ B.
 
 > How did he score in the 1972 World Cup final?  
 > 他在1972年世界杯决赛中成绩如何？
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***finally*** adv
@@ -5639,19 +4152,13 @@ B.
 
 ### 辨析 finally, eventually, in the end, at last, lastly  
 五者都有“最后”之意。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Do you think shopping online will ________ (final) take the place of shopping in stores?   
 ##### 答案 finally  
   
-
 
 # ***finance*** n
 ---
@@ -5689,16 +4196,6 @@ the management of money：
 > She refused to answer questions about her personal finances.  
 > 她拒绝回答个人收入方面的问题。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***finance*** vt
 ---
@@ -5714,16 +4211,6 @@ the management of money：
 
 > Who finances this organization?  
 > 为这个组织提供资金？
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***financial*** adj
@@ -5749,16 +4236,10 @@ the management of money：
 > Hong Kong is an international financial center  
 > 香港是个国际金融中心。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 financially /fai'nænʃəli; fə'nænʃəli/ adv 
-真题解析
----
-[null]
-
 
 # ***financially*** adv
 ---
@@ -5771,16 +4252,6 @@ financially /fai'nænʃəli; fə'nænʃəli/ adv
 ---
 1. **财政上地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***find*** vt  重难点词汇
@@ -5840,6 +4311,7 @@ financially /fai'nænʃəli; fə'nænʃəli/ adv
 > The two girls are so alike that strangers find it difficult to tell one from the other.  
 > 这两个女孩长得很像，陌生人发觉很难把她们区分开。
 
+
 固定搭配
 ---
 - #### find out
@@ -5862,16 +4334,13 @@ financially /fai'nænʃəli; fə'nænʃəli/ adv
 > I need to find out more about these night courses.  
 > 我需要更多地了解这些夜校课程。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 A cook will be immediately fired if he is found _________ (smoke) in the kitchen.  
 ##### 答案 smoking  
   
-
 
 # ***find*** n  重难点词汇
 ---
@@ -5892,16 +4361,6 @@ sth very good or useful that is discovered by chance：
 > important prehistoric finds  
 > 重大的史前发现
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***finding*** n
 ---
@@ -5917,16 +4376,6 @@ sth very good or useful that is discovered by chance：
 
 > Scientists have recently provided us with some worrying findings.  
 > 科学家们最近向我们提供了一些令人担忧的研究结果。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fine*** adj
@@ -5998,16 +4447,6 @@ sth very good or useful that is discovered by chance：
 > — Fine, thanks.   
 > 很好，谢谢。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fine*** adv
 ---
@@ -6029,16 +4468,10 @@ sth very good or useful that is discovered by chance：
 > Keep going like that—you're doing fine.  
 > 就这样做下去——你做得不错。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 finely /'faɪnli/ adv 
-真题解析
----
-[null]
-
 
 # ***fine*** vt
 ---
@@ -6059,16 +4492,6 @@ finely /'faɪnli/ adv
 > The police fined me for driving too fast.  
 > 因开车超速我被警察罚了款。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fine*** n
 ---
@@ -6085,16 +4508,6 @@ finely /'faɪnli/ adv
 > **pay a heavy,large fine**  
 > pay a heavy / large fine  
 > 付巨额罚款
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***finger*** n
@@ -6113,16 +4526,6 @@ finely /'faɪnli/ adv
 > She ran her fingers through her hair.  
 > 她用手指梳理头发。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***finger*** vt
 ---
@@ -6139,16 +4542,6 @@ finely /'faɪnli/ adv
 > He fingered the wood to see if it was smooth.  
 > 他用手指摸了摸那块木头，看是否平滑。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fingernail*** n
 ---
@@ -6161,16 +4554,6 @@ finely /'faɪnli/ adv
 ---
 1. *高义频：* **[C] 手指甲**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***finish*** v  重难点词汇
@@ -6213,6 +4596,7 @@ finely /'faɪnli/ adv
 > She was delighted to finish second in the 100 metres.  
 > 她在百米赛跑中得了第二名，非常高兴。
 
+
 固定搭配
 ---
 - #### finish off 
@@ -6236,15 +4620,12 @@ finely /'faɪnli/ adv
 > Please return the paper to me when you have finished with it.  
 > 看完报纸之后请还给我。
 
+
 派生词汇
 ---
 finished /'fɪnɪʃt/ adj 
 > I'm not finished with my dinner yet.  
 > 我还没吃完饭呢。
-
-真题解析
----
-[null]
 
 
 # ***finish*** n  重难点词汇
@@ -6265,16 +4646,6 @@ finished /'fɪnɪʃt/ adj
 > **from start to finish**  
 > The story was a lie from start to finish.  
 > 这个故事自始至终都是骗人的。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fire*** n
@@ -6324,6 +4695,7 @@ finished /'fɪnɪʃt/ adj
 > The gunmen opened fire on the police.  
 > 持枪歹徒向警察开枪。
 
+
 固定搭配
 ---
 - #### catch fire 
@@ -6360,13 +4732,6 @@ finished /'fɪnɪʃt/ adj
 > Police believe that someone set fire to the factory deliberately.  
 > 警方认为有人故意纵火烧工厂。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fire*** v
 ---
@@ -6398,16 +4763,6 @@ finished /'fɪnɪʃt/ adj
 > The airline fired him for being drunk.  
 > 他因为醉酒被航空公司开除了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***firearm*** n
 ---
@@ -6420,16 +4775,6 @@ finished /'fɪnɪʃt/ adj
 ---
 1. **火器**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***firefighter*** n
@@ -6444,16 +4789,6 @@ finished /'fɪnɪʃt/ adj
 1. *高义频：* **消防员 (fireman)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***firework*** n
 ---
@@ -6466,16 +4801,6 @@ finished /'fɪnɪʃt/ adj
 ---
 1. *高义频：* **[C] 烟火；烟花；[常用复数] 烟火表演**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***firm*** n
@@ -6492,16 +4817,6 @@ finished /'fɪnɪʃt/ adj
 
 > an electronics / an advertising / a law firm  
 > 电子公司/广告公司/律师事务所
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***firm*** adj
@@ -6534,16 +4849,6 @@ finished /'fɪnɪʃt/ adj
 > Have a firm handshake.  
 > 握手要坚实有力。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***firm*** adv
 ---
@@ -6563,16 +4868,6 @@ finished /'fɪnɪʃt/ adj
 > **hold firm to**  
 > Always hold firm to your beliefs.  
 > 始终要坚持自己的信仰。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***firmly*** adv
@@ -6595,16 +4890,6 @@ finished /'fɪnɪʃt/ adj
 
 > The woman held her daughter firmly in her arms.  
 > 这个女人把女儿紧紧地搂在怀里。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***first*** adj
@@ -6638,16 +4923,6 @@ finished /'fɪnɪʃt/ adj
 > an issue of first importance  
 > 首要问题
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***first*** n
 ---
@@ -6676,19 +4951,17 @@ finished /'fɪnɪʃt/ adj
 > He is always the first to come and the last to leave.  
 > 他总是第一个来最后一个走。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 firstly // adv [句子副词]
+
 真题解析
 ---
 ##### 题目  
 At the first, I thought I knew everything and could make decisions by myself.  
 ##### 答案 去掉 the  
   
-
 
 # ***first*** adv
 ---
@@ -6709,6 +4982,7 @@ At the first, I thought I knew everything and could make decisions by myself.
 > First I want to talk about wildlife protection.  
 > 首先我想谈谈野生动植物的保护问题。
 
+
 固定搭配
 ---
 - #### at first 
@@ -6724,13 +4998,6 @@ At the first, I thought I knew everything and could make decisions by myself.
 
 > I don't think Helen should go — first of all, she is too young.  
 > 我认为海伦不应该去，首先，她太年轻了。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fish*** n
@@ -6763,16 +5030,6 @@ At the first, I thought I knew everything and could make decisions by myself.
 > fish and chips   
 > 炸鱼薯条(英国代表性的大众食品)
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fish*** v
 ---
@@ -6792,16 +5049,6 @@ At the first, I thought I knew everything and could make decisions by myself.
 > I often fish at weekends.   
 > 我常在周末钓鱼。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fisherman*** n
 ---
@@ -6814,16 +5061,6 @@ At the first, I thought I knew everything and could make decisions by myself.
 ---
 1. *高义频：* **[C] (pl fishermen) 渔民；渔夫**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fishing*** n
@@ -6842,16 +5079,6 @@ At the first, I thought I knew everything and could make decisions by myself.
 > go fishing   
 > 去钓鱼
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fist*** n
 ---
@@ -6868,16 +5095,6 @@ At the first, I thought I knew everything and could make decisions by myself.
 > **shake,fist**  
 > shake / swing one's fist at  
 > 向…挥拳
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fit*** v  重难点词汇
@@ -6936,6 +5153,7 @@ to agree with, match or be suitable for sth：
 > His experience fitted him for / to do the job.  
 > 他的经验使他胜任这个工作。
 
+
 固定搭配
 ---
 - #### fit … in / into
@@ -6970,16 +5188,13 @@ to agree with, match or be suitable for sth：
 > She fitted into the team very well.  
 > 她与队友相处得十分融洽。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Amy joined a painting group but didn't seem to fit ________, so she left.  
 ##### 答案 in  
   
-
 
 # ***fit*** adj  重难点词汇
 ---
@@ -7014,16 +5229,6 @@ Amy joined a painting group but didn't seem to fit ________, so she left.
 > Sports can help you keep fit and get in touch with nature.  
 > 运动有助你保持健康和接触自然。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fit*** n  重难点词汇
 ---
@@ -7056,19 +5261,13 @@ Amy joined a painting group but didn't seem to fit ________, so she left.
 > She quit her job in a fit of temper  
 > 她一怒之下辞掉了工作。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 fitness /'fɪtnəs/ n [U] 
 > **a fitness centre**  
 > a fitness centre  
 > 健身中心
-
-真题解析
----
-[null]
 
 
 # ***fitness*** n
@@ -7083,16 +5282,6 @@ fitness /'fɪtnəs/ n [U]
 ---
 1. *高义频：* **健康；健壮**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fix*** vt  重难点词汇
@@ -7139,6 +5328,7 @@ fitness /'fɪtnəs/ n [U]
 > 在我的记忆中，他能解决任何问题。
 
 fix更常用来指修理机器、车辆等，没有repair 正式。
+
 固定搭配
 ---
 - #### fix … on / upon 
@@ -7163,13 +5353,6 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 > They fixed me up for the night in a hotel.  
 > 他们安排我在一家旅馆过夜。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fix*** n  重难点词汇
 ---
@@ -7186,16 +5369,6 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 > **quick fix**  
 > a quick fix   
 > 即时的解决方法
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fixed*** adj
@@ -7220,16 +5393,6 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 > The classes begin and end at fixed times.  
 > 上课和下课的时间都是固定不变的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***flag*** n
 ---
@@ -7242,16 +5405,6 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 ---
 1. *高义频：* **旗；旗帜；国旗**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***flame*** n
@@ -7276,16 +5429,6 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 > **burst into flames**  
 > The house burst into flames.   
 > 房子突然燃烧起来。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***flash*** n
@@ -7331,16 +5474,6 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 > Just wait here. I'll be back in a flash.  
 > 就在这里等着，我马上回来。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***flash*** v
 ---
@@ -7385,16 +5518,6 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 > Images of the war flashed across the screen.  
 > 屏幕上闪过战争的画面。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***flashback*** n
 ---
@@ -7409,16 +5532,6 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 1. *高义频：* **闪回；倒叙**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***flashlight*** n
 ---
@@ -7432,16 +5545,6 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 1. *高义频：* **[C] 手电筒 (BrE torch)；闪光信号灯**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***flat*** n
 ---
@@ -7454,16 +5557,6 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 ---
 1. *高义频：* **[C] 公寓；一套房间 (BrE apartment)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***flat*** adj
@@ -7490,16 +5583,6 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 > a flat plate   
 > 浅盘子
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***flavo(u)r*** n
 ---
@@ -7518,16 +5601,6 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 
 > The stories have a strong regional flavour.  
 > 这些故事带有浓郁的地方特色。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***flee*** v
@@ -7549,16 +5622,6 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 > **fled to**  
 > Many of the people have fled to the mountains to escape the floods.   
 > 许多人为躲避洪水逃到了山上。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***flesh*** n
@@ -7585,6 +5648,7 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 > The spirit is willing, but the flesh is weak.  
 > 心有余而力不足。
 
+
 固定搭配
 ---
 - #### flesh and blood 
@@ -7597,13 +5661,6 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 
 > We won't have to go there in the flesh at all!  
 > 我们无需亲自前往！
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***flexible*** adj
@@ -7639,19 +5696,17 @@ able to change to suit any new situation：
 > Good job candidates must show a flexible approach to problems.  
 > 优秀的求职人员必须具备灵活处理问题的能力。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 flexibility /ˌfleksə'bɪləti/ n [U]
+
 真题解析
 ---
 ##### 题目  
 Mothers holding jobs outside the home should have ________ (灵活的) schedules to make it easier to care for their children.  
 ##### 答案 flexible  
   
-
 
 # ***flick*** n
 ---
@@ -7664,16 +5719,6 @@ Mothers holding jobs outside the home should have ________ (灵活的) schedules
 ---
 1. **轻打,轻弹,抖动**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***flight*** n
@@ -7720,16 +5765,6 @@ Mothers holding jobs outside the home should have ________ (灵活的) schedules
 > a flight of stairs / steps  
 > 一段楼梯/台阶
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***float*** v
 ---
@@ -7749,19 +5784,13 @@ Mothers holding jobs outside the home should have ________ (灵活的) schedules
 > Wood floats on water.   
 > 木头浮在水面上。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 If steel is heavier than water, why are ships able to _______ (漂浮) on the sea?  
 ##### 答案 float  
   
-
 
 # ***flock*** vi
 ---
@@ -7774,16 +5803,6 @@ If steel is heavier than water, why are ships able to _______ (漂浮) on the se
 ---
 1. **聚集**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***flood*** n
@@ -7817,16 +5836,6 @@ If steel is heavier than water, why are ships able to _______ (漂浮) on the se
 > A simple click can even bring us a flood of music, movies and PC games.  
 > 轻松一点鼠标，就能带来海量的音乐、电影和电脑游戏。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***flood*** v
 ---
@@ -7854,17 +5863,11 @@ If steel is heavier than water, why are ships able to _______ (漂浮) on the se
 > When we visited my old family home, memory came flooding back.   
 > 当参观我的故居时，回忆涌上了心头。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 flooded /flʌdɪd/ adj 
 flooding /flʌdɪŋ/ n [U] 
-真题解析
----
-[null]
-
 
 # ***floor*** n
 ---
@@ -7893,16 +5896,6 @@ flooding /flʌdɪŋ/ n [U]
 > This is a six-storeyed / six-storied building  
 > 这是一座六层楼房。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***flour*** n
 ---
@@ -7915,16 +5908,6 @@ flooding /flʌdɪŋ/ n [U]
 ---
 1. *高义频：* **[U] 面粉；粉末**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***flow*** vi
@@ -7955,16 +5938,6 @@ flooding /flʌdɪŋ/ n [U]
 > Trucks and cars flowed along the highway.  
 > 卡车和汽车在公路上川流不息。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***flow*** n
 ---
@@ -7984,16 +5957,6 @@ flooding /flʌdɪŋ/ n [U]
 > **free flow of**  
 > free flow of information  
 > 信息的自由交流
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***flower*** n
@@ -8015,16 +5978,6 @@ flooding /flʌdɪŋ/ n [U]
 > It's a beautiful season because the flowers start to bloom.  
 > 这是个美丽的季节，因为此时鲜花开始绽放。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***flower*** vi
 ---
@@ -8041,16 +5994,6 @@ flooding /flʌdɪŋ/ n [U]
 > Most fruit trees flower in the spring.  
 > 大多数果树在春天开花。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***flu*** n
 ---
@@ -8063,16 +6006,6 @@ flooding /flʌdɪŋ/ n [U]
 ---
 1. *高义频：* **[U] [常作the flu] 流行性感冒 (influenza)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fluency*** n
@@ -8089,16 +6022,6 @@ flooding /flʌdɪŋ/ n [U]
 
 > He speaks English with great fluency.  
 > 他的英语说得非常流利。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fluent*** adj
@@ -8123,16 +6046,10 @@ flooding /flʌdɪŋ/ n [U]
 > I've been learning English for 10 years, and I speak fluent English.  
 > 我学习英语已经10年了，能说一口流利的英语。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 fluently /'fluːəntli/ adv 
-真题解析
----
-[null]
-
 
 # ***fluently*** adv
 ---
@@ -8145,16 +6062,6 @@ fluently /'fluːəntli/ adv
 ---
 1. **流利地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fluid*** n
@@ -8170,16 +6077,6 @@ fluently /'fluːəntli/ adv
 1. *高义频：* **流体；液体**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***flute*** n
 ---
@@ -8193,16 +6090,6 @@ fluently /'fluːəntli/ adv
 1. **长笛**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***flutter*** v
 ---
@@ -8215,16 +6102,6 @@ fluently /'fluːəntli/ adv
 ---
 1. **飘扬；飘动；拍打（翅膀）**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fly*** v
@@ -8292,20 +6169,18 @@ fluently /'fluːəntli/ adv
 > The thief flew from justice.   
 > 小偷逃避了审判。
 
+
 固定搭配
 ---
 - #### fly off the handle
 1. **[非正式用语] 大发雷霆**  
 
 
+
 派生词汇
 ---
 flying /'flaɪɪŋ/ n [U] 
 flying /'flaɪɪŋ/ adj [只用于名词前] 
-真题解析
----
-[null]
-
 
 # ***fly*** n
 ---
@@ -8318,16 +6193,6 @@ flying /'flaɪɪŋ/ adj [只用于名词前]
 ---
 1. *高义频：* **[C] 苍蝇**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***focus*** n
@@ -8353,6 +6218,7 @@ flying /'flaɪɪŋ/ adj [只用于名词前]
 > The focus on my camera isn't working properly.  
 > 我的照相机上的调焦装置有毛病。
 
+
 固定搭配
 ---
 - #### come into focus
@@ -8366,13 +6232,6 @@ flying /'flaɪɪŋ/ adj [只用于名词前]
 - #### out of focus 
 1. **焦点未对准的；模糊不清的**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***focus*** v
@@ -8390,6 +6249,7 @@ flying /'flaɪɪŋ/ adj [只用于名词前]
 > The other team was brilliant and we really had to focus.  
 > 另一队很优秀，我们必须集中精力。
 
+
 固定搭配
 ---
 - #### focus on / upon
@@ -8402,11 +6262,13 @@ flying /'flaɪɪŋ/ adj [只用于名词前]
 > By focusing on saving oil, water, paper, food, and clothing, we are playing a part in cutting down on waste.  
 > 通过注重节约油、水、纸张、食品和衣物，我们在减少浪费方面正发挥着作用。
 
+
 派生词汇
 ---
 focus(s)ed /'fəʊkəst/ adj 
 > Anxious all the time, I was unable to keep focused for more than an hour at a time.  
 > 我一直处于焦虑状态，每次集中注意力不超过一小时。
+
 
 真题解析
 ---
@@ -8414,7 +6276,6 @@ focus(s)ed /'fəʊkəst/ adj
 Most of us are more focused ________ our tasks in the morning than we are later in the day.  
 ##### 答案 on  
   
-
 
 # ***fog*** n
 ---
@@ -8440,16 +6301,6 @@ Most of us are more focused ________ our tasks in the morning than we are later 
 > be lost in a fog   
 > 困惑不解
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***foggy*** adj
 ---
@@ -8468,16 +6319,6 @@ Most of us are more focused ________ our tasks in the morning than we are later 
 
 > His ideas on this subject are a bit foggy.  
 > 他对这个问题的看法有些模糊。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fold*** v
@@ -8516,16 +6357,6 @@ Most of us are more focused ________ our tasks in the morning than we are later 
 > fold a baby in a blanket  
 > 把婴儿裹在毯子里
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fold*** n
 ---
@@ -8545,18 +6376,12 @@ Most of us are more focused ________ our tasks in the morning than we are later 
 > Cut the paper along the fold.   
 > 沿着褶痕把纸剪开。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 folding /'fəʊldɪŋ/ adj [只用于名词前]
 > a folding bike  
 > 可折叠自行车
-
-真题解析
----
-[null]
 
 
 # ***folk*** n
@@ -8584,16 +6409,6 @@ folding /'fəʊldɪŋ/ adj [只用于名词前]
 > He likes listening to Chinese folk.   
 > 他喜欢听中国民歌。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***folk*** adj
 ---
@@ -8613,16 +6428,6 @@ folding /'fəʊldɪŋ/ adj [只用于名词前]
 > **folk songs**  
 > folk songs  
 > 民歌
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***follow*** v  重难点词汇
@@ -8694,6 +6499,7 @@ to happen immediately after sth else：
 > I'm sorry, but I don't quite follow you. Did you say you wanted to return on September 20?  
 > 抱歉，我没听清。你说的是想9月20号回来吗？
 
+
 固定搭配
 ---
 - #### as follows
@@ -8724,16 +6530,17 @@ to happen immediately after sth else：
 > If there is no reply to your letter, follow it up with a phone call.  
 > 要是你的信没人回复，就打个电话追问一下。
 
+
 派生词汇
 ---
 follower /'fɒləʊə(r)/ n [C]
+
 真题解析
 ---
 ##### 题目  
 He hurried home, never once looking back to see if he________ (follow).  
 ##### 答案 was being followed  
   
-
 
 # ***following*** adj
 ---
@@ -8753,16 +6560,6 @@ He hurried home, never once looking back to see if he________ (follow).
 > answer the following questions   
 > 回答下列问题
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***following*** n
 ---
@@ -8779,6 +6576,7 @@ He hurried home, never once looking back to see if he________ (follow).
 > The band has a big following in Europe.  
 > 这支乐队在欧洲有一大批追随者。
 
+
 固定搭配
 ---
 - #### the following 
@@ -8787,13 +6585,6 @@ He hurried home, never once looking back to see if he________ (follow).
 
 > The following is about the BBC and some other broadcasting stations in Britain.  
 > 下面是关于BBC和其他一些英国广播电台的介绍。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***following*** prep
@@ -8810,16 +6601,6 @@ He hurried home, never once looking back to see if he________ (follow).
 
 > Following severe rains the fields were flooded.  
 > 几场大雨过后，田地都被水淹了。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fond*** adj
@@ -8848,19 +6629,13 @@ He hurried home, never once looking back to see if he________ (follow).
 > a fond look / farewell  
 > 慈爱的目光/深情的道别
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 More and more young people are fond ________ playing tennis nowadays  
 ##### 答案 of  
   
-
 
 # ***food*** n
 ---
@@ -8891,16 +6666,6 @@ More and more young people are fond ________ playing tennis nowadays
 > mental food   
 > 精神食粮
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fool*** n
 ---
@@ -8918,6 +6683,7 @@ More and more young people are fond ________ playing tennis nowadays
 > I felt a fool when I realized my mistake.  
 > 当我意识到自己的错误时，感到自己很傻。
 
+
 固定搭配
 ---
 - #### make a fool of sb
@@ -8930,13 +6696,6 @@ More and more young people are fond ________ playing tennis nowadays
 - #### make a fool of oneself 
 1. **干蠢事；出洋相**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fool*** v
@@ -8972,16 +6731,6 @@ More and more young people are fond ________ playing tennis nowadays
 > Stop fooling around and get back to work.  
 > 你别再胡闹了！工作去吧！
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fool*** adj
 ---
@@ -8994,16 +6743,6 @@ More and more young people are fond ________ playing tennis nowadays
 ---
 1. **傻的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***foolish*** adj
@@ -9021,16 +6760,6 @@ More and more young people are fond ________ playing tennis nowadays
 > It's foolish of you to waste your time like this.  
 > 你如此浪费时间，真是愚蠢。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***foolishly*** adv
 ---
@@ -9047,19 +6776,13 @@ More and more young people are fond ________ playing tennis nowadays
 > Don't act foolishly.  
 > 别干傻事。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Well, you've acted ________ (愚蠢地) and you will pay for it.  
 ##### 答案 foolishly / stupidly  
   
-
 
 # ***foolishness*** n
 ---
@@ -9072,16 +6795,6 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 ---
 1. **愚蠢**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***foot*** n
@@ -9118,6 +6831,7 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 3. *高义频：* **[C] (pl foot / feet) 英尺**  
 
 
+
 固定搭配
 ---
 - #### on foot 
@@ -9142,13 +6856,6 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 1. **独立自主**  
 
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***football*** n
 ---
@@ -9165,16 +6872,6 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 > play football   
 > 踢足球
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***footprint*** n
 ---
@@ -9188,16 +6885,6 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 1. **脚印；足迹**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***footstep*** n
 ---
@@ -9210,16 +6897,6 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 ---
 1. *高义频：* **[C] 脚步声**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***for*** prep
@@ -9318,12 +6995,7 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 > an appointment for Monday   
 > 星期一的约会
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -9339,7 +7011,6 @@ We have more time with after-school activities.
 Nothing is so easy as ________ parents to raise their expectations of their children too high.  
 ##### 答案 for  
   
-
 
 # ***for*** conj
 ---
@@ -9358,19 +7029,13 @@ Nothing is so easy as ________ parents to raise their expectations of their chil
 
 ### 辨析 because, since, as, for
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I am not afraid of tomorrow, ________ I have seen yesterday and I love today.  
 ##### 答案 for / because  
   
-
 
 # ***forbid*** vt
 ---
@@ -9411,9 +7076,7 @@ I am not afraid of tomorrow, ________ I have seen yesterday and I love today.
 > The American government forbids the sales of any alcohol to those under age 21.  
 > 美国政府禁止向不满21岁的人售酒。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 forbidden /fə'bɪdn/ adj 
@@ -9423,10 +7086,6 @@ forbidden /fə'bɪdn/ adj
 
 > the Forbidden City   
 > 紫禁城
-
-真题解析
----
-[null]
 
 
 # ***force*** n  重难点词汇
@@ -9478,6 +7137,7 @@ forbidden /fə'bɪdn/ adj
 > Science can be a force for evil as well as for good.  
 > 科学既可以成为善的力量，也可以成为恶的力量。
 
+
 固定搭配
 ---
 - #### in force 
@@ -9493,13 +7153,6 @@ forbidden /fə'bɪdn/ adj
 
 ### 辨析 force, energy, strength, power
 四者都有“力”、“力量”之意，但具体意思不同。
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***force*** vt  重难点词汇
 ---
@@ -9541,9 +7194,7 @@ forbidden /fə'bɪdn/ adj
 > He forced a smile.   
 > 他强颜欢笑。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 forced /'fɔːst/ adj 
@@ -9554,10 +7205,6 @@ forceful  /'fɔːsfl/ adj
 
 > a forceful speech   
 > 有说服力的演讲
-
-真题解析
----
-[null]
 
 
 # ***forecast*** vt
@@ -9576,16 +7223,6 @@ forceful  /'fɔːsfl/ adj
 > Who can forecast the future?   
 > 谁能预言未来？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***forecast*** n
 ---
@@ -9603,16 +7240,6 @@ forceful  /'fɔːsfl/ adj
 > a weather forecast  
 > 天气预报
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***foreground*** n
 ---
@@ -9626,16 +7253,6 @@ forceful  /'fɔːsfl/ adj
 1. **（图片或照片的）前景**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***forehead*** n
 ---
@@ -9648,16 +7265,6 @@ forceful  /'fɔːsfl/ adj
 ---
 1. *高义频：* **[C] 额；前额**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***foreign*** adj
@@ -9675,19 +7282,13 @@ forceful  /'fɔːsfl/ adj
 > foreign trade / a foreign language   
 > 对外贸易/外语
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Do you speak any________ (外国) languages?  
 ##### 答案 foreign  
   
-
 
 # ***foreigner*** n
 ---
@@ -9700,16 +7301,6 @@ Do you speak any________ (外国) languages?
 ---
 1. *高义频：* **[C] 外国人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***foresee*** vt
@@ -9728,16 +7319,6 @@ Do you speak any________ (外国) languages?
 > foresee the future  
 > 预见未来
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***forest*** n
 ---
@@ -9753,16 +7334,6 @@ Do you speak any________ (外国) languages?
 
 > Most of the ancient forests of England have been cut down.  
 > 英格兰大多数原始森林都被砍伐光了。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***forever*** adv
@@ -9782,16 +7353,6 @@ Do you speak any________ (外国) languages?
 
 > She is forever talking.   
 > 她总是喋喋不休。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***forget*** v  重难点词汇
@@ -9845,6 +7406,7 @@ Do you speak any________ (外国) languages?
 > Let's forget our difference and be friends.  
 > 咱们别把分歧放在心上，做朋友吧。
 
+
 固定搭配
 ---
 - #### forget it
@@ -9875,9 +7437,7 @@ Do you speak any________ (外国) languages?
 > — Forget it; it doesn't matter.  
 > 别提了，那无关紧要。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -9889,7 +7449,6 @@ C.help yourself
 D.pardon me  
 ##### 答案 A  
   
-
 
 # ***forgetful*** adj
 ---
@@ -9909,16 +7468,6 @@ D.pardon me
 > **forgetful of**  
 > be forgetful of others   
 > 不顾及别人
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***forgive*** vt
@@ -9947,6 +7496,7 @@ D.pardon me
 > Forgive me for interrupting, but I have something urgent to tell you.  
 > 请原谅我打断一下，但是我有要紧事要告诉你。
 
+
 固定搭配
 ---
 - #### forgive and forget 
@@ -9956,16 +7506,13 @@ D.pardon me
 > It is a virtue to forgive and forget, especially in such a competitive and stressful society.  
 > 不记仇是一种美德，特别是在这样一个竞争激烈、有压力的社会中。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 One of my favourite sayings is "Understand all and ________ (宽恕) all."  
 ##### 答案 forgive  
   
-
 
 # ***fork*** n
 ---
@@ -9982,16 +7529,6 @@ One of my favourite sayings is "Understand all and ________ (宽恕) all."
 > **knife and fork**  
 > the knife and fork   
 > 刀叉
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***form*** n  重难点词汇
@@ -10053,19 +7590,13 @@ One of my favourite sayings is "Understand all and ________ (宽恕) all."
 > Complete the sentences with the correct form of the verbs.  
 > 用动词的正确形式完成句子。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 You'd sound a lot more polite if you make a request ________ (以…形式) a question.  
 ##### 答案 in the form of  
   
-
 
 # ***form*** v  重难点词汇
 ---
@@ -10110,9 +7641,7 @@ You'd sound a lot more polite if you make a request ________ (以…形式) a qu
 > We can form a good habit of putting the rubbish in the trash can.  
 > 我们要养成把垃圾投进垃圾箱的好习惯。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 formation /fɔː'meɪʃn/ n [U] & [C]
@@ -10121,10 +7650,6 @@ formation /fɔː'meɪʃn/ n [U] & [C]
 
 > One way to understand thousands of new words is to gain a good knowledge of basic word formation.  
 > 理解大量新词的一个方法是掌握好基本的构词法。
-
-真题解析
----
-[null]
 
 
 # ***formal*** adj
@@ -10154,16 +7679,10 @@ formation /fɔː'meɪʃn/ n [U] & [C]
 > a formal leader   
 > 名义上的领导人
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 formally  /'fɔːməli/ adv 正式地；形式上
-真题解析
----
-[null]
-
 
 # ***format*** n
 ---
@@ -10180,16 +7699,6 @@ formally  /'fɔːməli/ adv 正式地；形式上
 > They've brought out the magazine in a new format.  
 > 他们已用新的版式出版这本杂志。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***format*** vt
 ---
@@ -10202,16 +7711,6 @@ formally  /'fɔːməli/ adv 正式地；形式上
 ---
 1. *高义频：* **(书刊等) 安排版式；格式化 (磁盘)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***formation*** n
@@ -10231,16 +7730,6 @@ formally  /'fɔːməli/ adv 正式地；形式上
 
 > One way to understand thousands of new words is to gain a good knowledge of basic word formation.  
 > 理解大量新词的一个方法是掌握好基本的构词法。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***former*** adj
@@ -10274,19 +7763,17 @@ formally  /'fɔːməli/ adv 正式地；形式上
 > The former option would be much more sensible.  
 > 前一种选择要明智得多。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 formerly /'fɔːməli/ adv 
+
 真题解析
 ---
 ##### 题目  
 Most of us, if we know even a little about where our food comes from, understand that every bite put into our  _______ (former) alive.  
 ##### 答案 formerly  
   
-
 
 # ***formula*** n
 ---
@@ -10311,16 +7798,6 @@ Most of us, if we know even a little about where our food comes from, understand
 > There's no magic formula for success.  
 > 成功没有法宝。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***forth*** adv
 ---
@@ -10341,18 +7818,12 @@ Most of us, if we know even a little about where our food comes from, understand
 > From this day forth I will work harder.  
 > 从今以后我要更加努力地学习。
 
+
 固定搭配
 ---
 - #### and so forth / and so on (and so forth) 
 1. **等等**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fortnight*** n
@@ -10370,19 +7841,13 @@ Most of us, if we know even a little about where our food comes from, understand
 > We had a big snow here a fortnight ago.  
 > 两周前我们这里下了一场大雪。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I hope to be back in a________ (两星期).  
 ##### 答案 fortnight  
   
-
 
 # ***fortunate*** adj
 ---
@@ -10418,16 +7883,6 @@ I hope to be back in a________ (两星期).
 > Red is a fortunate colour in Chinese culture.  
 > 在中国文化中，红色是喜庆的颜色。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fortunately*** adv
 ---
@@ -10446,16 +7901,6 @@ I hope to be back in a________ (两星期).
 
 > I was late in getting to the station, but fortunately for me the train was late, too.  
 > 我去火车站晚了，但幸运的是，火车恰好也晚点了。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fortune*** n
@@ -10508,16 +7953,6 @@ a large amount of money：
 > The fortune sets him free from financial worries.  
 > 这笔钱使他不用为经济问题担忧。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***forum*** n
 ---
@@ -10530,16 +7965,6 @@ a large amount of money：
 ---
 1. **（因特网上的）论坛，讨论区**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***forward*** adj
@@ -10560,16 +7985,6 @@ a large amount of money：
 > He is forward in both work and study.  
 > 他在工作和学习上都是佼佼者。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***forward*** adv
 ---
@@ -10586,16 +8001,6 @@ a large amount of money：
 > He ran forward(s) to get his things.  
 > 他跑上前来取他的东西。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***forward*** n
 ---
@@ -10611,16 +8016,6 @@ a large amount of money：
 
 > Ronaldo is undoubtedly considered to be one of the best forwards.  
 > 毫无疑问，罗纳尔多被公认为最出色的足球前锋之一。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***forward*** vt
@@ -10643,16 +8038,6 @@ a large amount of money：
 > Upon my death, please forward this box and its contents to Jack Bennett.  
 > 在我死后，请把这个盒子和盒子里的东西寄给杰克·贝内特。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fossil*** n
 ---
@@ -10672,16 +8057,6 @@ a large amount of money：
 
 > Our literature teacher is an old fossil.  
 > 我们的文学老师是个老顽固。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***foster*** vt
@@ -10705,16 +8080,6 @@ a large amount of money：
 2. *低义频：* **(在一定时间内) 养育；代养 (别人的孩子)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***foster*** adj
 ---
@@ -10731,16 +8096,6 @@ a large amount of money：
 > a foster father / mother / child  
 > 养父/养母/养子
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***foul*** n
 ---
@@ -10753,16 +8108,6 @@ a large amount of money：
 ---
 1. **（运动比赛中的）犯规动作**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***found*** vt
@@ -10798,16 +8143,10 @@ a large amount of money：
 > The hospital was founded on a donation fund.   
 > 这所医院是用捐赠基金建造的。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 founder /'faʊndə(r)/ n 
-真题解析
----
-[null]
-
 
 # ***foundation*** n
 ---
@@ -10846,16 +8185,6 @@ the idea, principle, or fact on which sth is based：
 > Children's Foundation of China  
 > 中国少年儿童基金会
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fountain*** n
 ---
@@ -10876,16 +8205,6 @@ the idea, principle, or fact on which sth is based：
 > Ancient Greece was a fountain of wisdom and philosophy.  
 > 古希腊是智慧和哲学的发源地。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fountain*** v
 ---
@@ -10902,16 +8221,6 @@ the idea, principle, or fact on which sth is based：
 > Red hot lava was fountaining hundreds of metres into the air.  
 > 滚烫的红色岩浆喷到空中，高达数百米。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fox*** n
 ---
@@ -10927,16 +8236,6 @@ the idea, principle, or fact on which sth is based：
 
 > A fox may grow grey but never good.  
 > 狐狸可以变老，却永远不会变好。/江山易改，本性难移。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fragile*** adj
@@ -10964,16 +8263,6 @@ the idea, principle, or fact on which sth is based：
 > The old lady looks very fragile.  
 > 这位老太太看起来很虚弱。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fragrant*** adj
 ---
@@ -10989,16 +8278,6 @@ the idea, principle, or fact on which sth is based：
 
 > fragrant flowers   
 > 香花
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***frame*** n
@@ -11019,16 +8298,6 @@ the idea, principle, or fact on which sth is based：
 > the frame of society   
 > 社会结构
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***framework*** n
 ---
@@ -11046,16 +8315,6 @@ the idea, principle, or fact on which sth is based：
 > This bridge over the river has a steel framework.  
 > 这座跨江大桥是钢结构的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***franc*** n
 ---
@@ -11068,16 +8327,6 @@ the idea, principle, or fact on which sth is based：
 ---
 1. *高义频：* **[C] 法郎**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***frankly*** adv
@@ -11094,16 +8343,6 @@ the idea, principle, or fact on which sth is based：
 
 > frankly speaking   
 > 坦率地说
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***free*** adj
@@ -11158,6 +8397,7 @@ free常与名词构成合成词，意为“不含…的”、 “无…的”。
 > carefree  
 > 无忧无虑的
 
+
 固定搭配
 ---
 - #### for free 
@@ -11197,13 +8437,6 @@ free常与名词构成合成词，意为“不含…的”、 “无…的”。
 > Set your imagination free when you think about the future.  
 > 展望未来时要尽情想象。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***free*** adv
 ---
@@ -11222,16 +8455,6 @@ free常与名词构成合成词，意为“不含…的”、 “无…的”。
 
 > Children are admitted free.   
 > 儿童免费入场。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***free*** vt
@@ -11262,19 +8485,13 @@ free常与名词构成合成词，意为“不含…的”、 “无…的”。
 > To free ourselves from the physical and mental tensions, we each need deep thought and inner quietness.  
 > 为了摆脱自己身心上的压力，我们每个人都需要深入的思考和内心的平静。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I felt my parents couldn't understand me so I hoped I could be freely from them.  
 ##### 答案 freely → free  
   
-
 
 # ***freedom*** n
 ---
@@ -11294,16 +8511,6 @@ I felt my parents couldn't understand me so I hoped I could be freely from them.
 
 > Young people today earn more and have more freedom to live where they want.  
 > 如今的年轻人赚钱更多，也有更多的自由选择自己想住的地方。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***freely*** adv
@@ -11341,16 +8548,6 @@ I felt my parents couldn't understand me so I hoped I could be freely from them.
 > She gave freely to charity.   
 > 她慷慨捐献善款。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***freeway*** n
 ---
@@ -11363,16 +8560,6 @@ I felt my parents couldn't understand me so I hoped I could be freely from them.
 ---
 1. *高义频：* **[C] 高速公路；高速干道**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***freeze*** v
@@ -11435,9 +8622,7 @@ to stop moving suddenly：
 > The smile froze on his face.  
 > 笑容在他脸上僵住了。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 frozen /'frəʊzn/ adj 
@@ -11446,10 +8631,6 @@ frozen /'frəʊzn/ adj
 
 > Americans always drive to supermarkets to buy canned and frozen foods for the week.  
 > 美国人总是开车去超市买一个星期所需的罐头食品和冷冻食品。
-
-真题解析
----
-[null]
 
 
 # ***freezer*** n
@@ -11463,16 +8644,6 @@ frozen /'frəʊzn/ adj
 ---
 1. **冰箱**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***freezing*** adj
@@ -11492,16 +8663,6 @@ extremely cold：
 > freezing point  
 > 冰点
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***freezing*** n
 ---
@@ -11519,16 +8680,6 @@ extremely cold：
 > above  /  below freezing   
 > 在冰点以上/以下
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***freezing*** adv
 ---
@@ -11545,16 +8696,6 @@ extremely cold：
 > freezing cold   
 > 非常冷的
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***frequency*** n
 ---
@@ -11567,16 +8708,6 @@ extremely cold：
 ---
 1. **频繁；发生率**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***frequent*** adj
@@ -11598,19 +8729,13 @@ extremely cold：
 > Rain is frequent here in spring.   
 > 这儿春季常下雨。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Drunk driving, which was once a ________ (经常的) occurrence, is now under control.  
 ##### 答案 frequent  
   
-
 
 # ***frequently*** adv
 ---
@@ -11629,16 +8754,6 @@ Drunk driving, which was once a ________ (经常的) occurrence, is now under co
 
 > We should take an active part in sports and outdoor activities frequently.  
 > 我们应该经常积极参加体育运动和户外活动。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fresh*** adj
@@ -11695,17 +8810,11 @@ Drunk driving, which was once a ________ (经常的) occurrence, is now under co
 > Tom is not fit for the job; he is a fresh hand.  
 > 汤姆不适合干这工作，他还是个新手。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 freshly /'freʃli/ adv 
 freshness /freʃnəs/ n [U]
-真题解析
----
-[null]
-
 
 # ***freshman*** n
 ---
@@ -11718,16 +8827,6 @@ freshness /freʃnəs/ n [U]
 ---
 1. **(especially NAmE) （中学）九年级学生；（大学）一年级新生**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***friction*** n
@@ -11752,16 +8851,6 @@ freshness /freʃnəs/ n [U]
 > trade friction  
 > 贸易摩擦
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fridge*** n
 ---
@@ -11774,16 +8863,6 @@ freshness /freʃnəs/ n [U]
 ---
 1. *高义频：* **[C] 冰箱 (AmE refrigerator)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***friend*** n
@@ -11801,6 +8880,7 @@ freshness /freʃnəs/ n [U]
 > All the splendor in the world is not worth a good friend.  
 > 人世间所有的荣华富贵不如有一个好朋友。
 
+
 固定搭配
 ---
 - #### be / make friends (with) 
@@ -11814,13 +8894,6 @@ freshness /freʃnəs/ n [U]
 - #### make friends again 
 1. **言归于好；重修旧好**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***friendly*** adj
@@ -11852,12 +8925,7 @@ freshness /freʃnəs/ n [U]
 > environmentally friendly   
 > 环保的
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -11868,7 +8936,6 @@ In spite of repeated wrongs done to him, he looks ________ (friend) to people gr
 Green products are becoming more and more popular because they are________ (环保的).  
 ##### 答案 environmentally friendly  
   
-
 
 # ***friendship*** n
 ---
@@ -11894,16 +8961,6 @@ Green products are becoming more and more popular because they are________ (环�
 > True friendship is seen through the heart not through the eyes.  
 > 真正的友谊不是用眼睛看到的，而是用心体验的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fright*** n
 ---
@@ -11916,16 +8973,6 @@ Green products are becoming more and more popular because they are________ (环�
 ---
 1. **恐惧；害怕**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***frighten*** v
@@ -11947,6 +8994,7 @@ Green products are becoming more and more popular because they are________ (环�
 > She doesn't frighten easily.  
 > 她不是轻易就能吓到的。
 
+
 固定搭配
 ---
 - #### frighten away / off 
@@ -11967,13 +9015,6 @@ Green products are becoming more and more popular because they are________ (环�
 > 蜘蛛把她吓得要死。
 
 frighten用法及意义同scare，但比scare稍正式。
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***frightened*** adj
 ---
@@ -12001,16 +9042,6 @@ frighten用法及意义同scare，但比scare稍正式。
 > Don't be frightened. We're not going to hurt you.  
 > 别害怕，我们不会伤害你的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***frightening*** adj
 ---
@@ -12030,16 +9061,6 @@ frighten用法及意义同scare，但比scare稍正式。
 > Going into hospital can be very frightening for a child.  
 > 对孩子来说上医院可能很可怕。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***frog*** n
 ---
@@ -12052,16 +9073,6 @@ frighten用法及意义同scare，但比scare稍正式。
 ---
 1. *高义频：* **[C] 蛙；青蛙**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***from*** prep
@@ -12121,19 +9132,13 @@ frighten用法及意义同scare，但比scare稍正式。
 > Why was he absent from school yesterday?  
 > 他昨天为什么没上学？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Shirley, a real book lover, often brings home many books to read ________ the library.  
 ##### 答案 from  
   
-
 
 # ***front*** n
 ---
@@ -12171,6 +9176,7 @@ Shirley, a real book lover, often brings home many books to read ________ the li
 > a cold / warm front   
 > 冷/暖锋
 
+
 固定搭配
 ---
 - #### in front (of)
@@ -12197,13 +9203,6 @@ Shirley, a real book lover, often brings home many books to read ________ the li
 > 教室前面有张大讲桌。
 
 in front (of) 指在某物外的前面；in the front (of) 指在某物内的前部。
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***front*** adj
 ---
@@ -12220,16 +9219,6 @@ in front (of) 指在某物外的前面；in the front (of) 指在某物内的前
 > **front row**  
 > We had seats in the front row.   
 > 我们坐在前排。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***frontier*** n
@@ -12257,16 +9246,6 @@ in front (of) 指在某物外的前面；in the front (of) 指在某物内的前
 > the frontiers of physics   
 > 物理学的新领域
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***frost*** n
 ---
@@ -12284,16 +9263,6 @@ in front (of) 指在某物外的前面；in the front (of) 指在某物内的前
 > The windows were covered with heavy frost.  
 > 窗户的玻璃上结了一层厚厚的霜。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***frown*** vi
 ---
@@ -12306,16 +9275,6 @@ in front (of) 指在某物外的前面；in the front (of) 指在某物内的前
 ---
 1. *高义频：* **皱眉；蹙额**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fruit*** n
@@ -12353,6 +9312,7 @@ fruits表示“各种水果”。
 > The book is the fruit of years of research.  
 > 这本书是多年研究的成果。
 
+
 固定搭配
 ---
 - #### bear fruit 
@@ -12361,13 +9321,6 @@ fruits表示“各种水果”。
 
 > A plan can bear no fruit without being actually carried out.  
 > 一项计划若不真正付诸实施，就会毫无结果。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***frustration*** n
@@ -12384,16 +9337,6 @@ fruits表示“各种水果”。
 
 2. **[C] 令人懊丧 / 懊恼的事物**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fry*** v
@@ -12414,16 +9357,6 @@ fruits表示“各种水果”。
 > Never fry a fish till it's caught.  
 > 不要高兴得太早。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fuel*** n
 ---
@@ -12443,19 +9376,13 @@ fruits表示“各种水果”。
 > Most cars use fuels which pollute the environment very badly.  
 > 大多数汽车使用严重污染环境的燃料。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Most air pollution is caused by the burning of ________ (燃料) like coal, gas and oil.  
 ##### 答案 fuel(s)  
   
-
 
 # ***fuel*** v
 ---
@@ -12478,16 +9405,6 @@ to increase sth; to make sth stronger：
 
 > Research suggests warm colors fuel our appetites.   
 > 研究表明暖色会刺激我们的食欲。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fulfil(l)*** vt
@@ -12514,16 +9431,6 @@ to increase sth; to make sth stronger：
 > fulfill one's dream / ambition  
 > 实现梦想/抱负
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fulfilling*** adj
 ---
@@ -12536,16 +9443,6 @@ to increase sth; to make sth stronger：
 ---
 1. *高义频：* **令人满意的；令人愉快的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***full*** adj
@@ -12595,6 +9492,7 @@ to increase sth; to make sth stronger：
 > Her life was too full to find time for hobbies.  
 > 她生活太忙，抽不出时间做业余爱好的事。
 
+
 固定搭配
 ---
 - #### (be) full of 
@@ -12621,13 +9519,6 @@ to increase sth; to make sth stronger：
 > It is important to use your spare time to the fullest.  
 > 充分利用你的空闲时间很重要。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***full-length*** adj
 ---
@@ -12640,16 +9531,6 @@ to increase sth; to make sth stronger：
 ---
 1. **足本的；全身的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fully*** adv
@@ -12680,16 +9561,6 @@ to increase sth; to make sth stronger：
 > The journey will take fully two hours.  
 > 这个行程要花整整两个小时。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fun*** n
 ---
@@ -12717,6 +9588,7 @@ to increase sth; to make sth stronger：
 > **good fun**  
 > Skating is good fun.   
 > 滑冰很有趣。
+
 
 固定搭配
 ---
@@ -12751,16 +9623,13 @@ to increase sth; to make sth stronger：
 > Don't feel sorry for the disabled or make fun of them, and don't ignore them either.  
 > 不要感到残疾人可怜，或者取笑他们，也别不理睬他们。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 This is not a match. We're playing chess just ________ fun.   
 ##### 答案 for  
   
-
 
 # ***fun*** adj
 ---
@@ -12779,16 +9648,6 @@ This is not a match. We're playing chess just ________ fun.
 
 > There are lots of fun things for young people to do here.  
 > 这里有许多供年轻人做的有趣的事情。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***function*** n
@@ -12810,16 +9669,6 @@ This is not a match. We're playing chess just ________ fun.
 > In your new job you will perform a variety of functions.  
 > 在新的工作岗位上，你将要履行许多不同的职责。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***function*** vi
 ---
@@ -12840,16 +9689,6 @@ This is not a match. We're playing chess just ________ fun.
 > **functioned as**  
 > During World War II, when London was bombed, many underground stations functioned as bomb shelters.  
 > 第二次世界大战期间，当伦敦被轰炸时，许多地铁站成了防空洞。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fund*** n
@@ -12884,16 +9723,6 @@ This is not a match. We're playing chess just ________ fun.
 > the United Nation's Children's Fund  
 > 联合国儿童基金会
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fund*** vt
 ---
@@ -12909,16 +9738,6 @@ This is not a match. We're playing chess just ________ fun.
 
 > a government-funded programme   
 > 政府资助的项目
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***fundamental*** adj
@@ -12944,16 +9763,6 @@ This is not a match. We're playing chess just ________ fun.
 > Perugia made a fundamental mistake.  
 > 佩鲁吉亚犯了一个根本性的错误。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fundamental*** n
 ---
@@ -12969,16 +9778,6 @@ This is not a match. We're playing chess just ________ fun.
 
 > the fundamentals of mathematics   
 > 数学基本原理
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***funeral*** n
@@ -12996,16 +9795,6 @@ This is not a match. We're playing chess just ________ fun.
 > **attend,funeral**  
 > attend a funeral  
 > 参加葬礼
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***funny*** adj
@@ -13028,16 +9817,6 @@ This is not a match. We're playing chess just ________ fun.
 > It's funny how things never happen the way you expect them to.  
 > 真是奇怪，事情总是出人意料。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fur*** n
 ---
@@ -13051,16 +9830,6 @@ This is not a match. We're playing chess just ________ fun.
 1. *高义频：* **[U] (兽类的) 软毛；毛皮 (衣服)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***furnish*** v
 ---
@@ -13073,16 +9842,6 @@ This is not a match. We're playing chess just ________ fun.
 ---
 1. **为（房屋或房间）配备家具**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***furnished*** adj
@@ -13099,16 +9858,6 @@ This is not a match. We're playing chess just ________ fun.
 
 > The apartment is well furnished.  
 > 那间公寓家具齐全。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***furniture*** n
@@ -13131,19 +9880,13 @@ This is not a match. We're playing chess just ________ fun.
 > This old table is a very valuable piece of furniture.  
 > 这张旧桌子是一件很有价值的家具。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The only piece of f________ he has in his room is a bed.  
 ##### 答案 furniture  
   
-
 
 # ***further*** adj
 ---
@@ -13172,16 +9915,6 @@ The only piece of f________ he has in his room is a bed.
 > Visit our website for further details / information.  
 > 欲知详情，请访问我们的网站。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***further*** adv
 ---
@@ -13208,16 +9941,6 @@ The only piece of f________ he has in his room is a bed.
 > Africa is further / farther from England than France.  
 > 非洲距离英国比距离法国远。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***furthermore*** adv
 ---
@@ -13233,16 +9956,6 @@ The only piece of f________ he has in his room is a bed.
 
 > The house isn't big enough for us, and furthermore, it's too far from the town.  
 > 这所房子对我们来说不够大，另外，它离市区也太远。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***furthest*** adj & adv
@@ -13268,16 +9981,6 @@ The only piece of f________ he has in his room is a bed.
 > His book has gone furthest in explaining these events.  
 > 对于这些事件，他的书解释得最透彻。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***fusion*** n
 ---
@@ -13290,16 +9993,6 @@ The only piece of f________ he has in his room is a bed.
 ---
 1. **合并；合成**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***future*** n
@@ -13334,6 +10027,7 @@ The only piece of f________ he has in his room is a bed.
 > **has a great future**  
 > She has a great future ahead of her.  
 > 她前程远大。
+
 
 固定搭配
 ---
@@ -13373,13 +10067,6 @@ soon：
 > He felt there was no future in farming.  
 > 他觉得务农没有前途。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***future*** adj
 ---
@@ -13392,16 +10079,6 @@ soon：
 ---
 1. *高义频：* **将来的；未来的；[语法] 将来 (时) 的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***futurologist*** n
@@ -13416,16 +10093,6 @@ soon：
 1. **未来学家**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***futurology*** n
 ---
@@ -13439,13 +10106,4 @@ soon：
 1. **未来学**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 

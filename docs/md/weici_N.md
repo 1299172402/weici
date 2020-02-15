@@ -1,256 +1,4 @@
-
-# ***Nagoya*** n
----
-英音 nəˈɡɔɪə     美音 nɑ:ˈɡəujɑ:
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **名古屋 (日本港市)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Nazi*** n
----
-英音 'nɑːtsi     美音 'nɑːtsi
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **纳粹党人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Nazi*** adj
----
-英音 'nɑːtsi     美音 'nɑːtsi
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **纳粹党的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Nepal*** n
----
-英音 nə'pɔːl     美音 nə'pɔːl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **尼泊尔 (亚洲国家)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Netherlands*** n
----
-英音 'neðələndz     美音 'neðərləndz
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **荷兰 (西欧国家)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***No.*** 
----
-英音 'nʌmbə(r)     美音 'nʌmbər
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **拉丁文numero的缩写 (number)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Norman*** n
----
-英音 'nɔːmən     美音 'nɔːrmən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **诺曼人；诺曼语**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Norman*** adj
----
-英音 'nɔːmən     美音 'nɔːrmən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **诺曼的；诺曼人 (语) 的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Norway*** n
----
-英音 'nɔːweɪ     美音 'nɔːrweɪ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **挪威**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***November*** n
----
-英音 nəʊ'vembə(r)     美音 noʊ'vembər
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **十一月（Nov.）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Nunavut*** n
----
-英音 'nʊnəvʊt     美音 'nʊnəvʊt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **努纳武特区（加拿大地区名）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
+# Nn
 
 # ***nail*** n
 ---
@@ -264,16 +12,6 @@
 1. *高义频：* **指甲；爪；钉子**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***naked*** adj
 ---
@@ -286,16 +24,6 @@
 ---
 1. *高义频：* **裸体的；赤条条的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***name*** vt
@@ -322,6 +50,7 @@
 > We went 10-1 and I was named most valuable player.  
 > 我们队以10:1取胜，我也被评选为最有价值球员。
 
+
 固定搭配
 ---
 - #### name ... after 
@@ -340,13 +69,6 @@
 
 > Activities available include cooking, swimming and fishing, to name but a few.  
 > 可进行的活动包括烹饪，游泳和钓鱼，略举几例。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***name*** n
@@ -380,6 +102,7 @@
 > Some of the biggest names in the show business were at the party.  
 > 演艺界的一些大牌明星参加了聚会。
 
+
 固定搭配
 ---
 - #### by the name of 
@@ -410,13 +133,6 @@
 1. **以…为别名**  
 
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***namely*** adv
 ---
@@ -433,16 +149,6 @@
 > Only one person can do the job, namely you.   
 > 只有一个人能做这项工作，那就是你。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***nap*** n
 ---
@@ -455,16 +161,6 @@
 ---
 1. **小睡, 打盹**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***narrator*** n
@@ -479,16 +175,6 @@
 ---
 1. *高义频：* **讲述者，叙述者**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***narrow*** adj
@@ -524,16 +210,6 @@
 > a narrow victory   
 > 险胜
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***narrow*** v
 ---
@@ -558,19 +234,13 @@
 > narrow the generation gap  
 > 缩小代沟
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Parents and children should communicate more to n________ the gap between them so that they can understand each other better.  
 ##### 答案 narrow  
   
-
 
 # ***narrowly*** adv
 ---
@@ -587,19 +257,13 @@ Parents and children should communicate more to n________ the gap between them s
 > The car narrowly missed a cyclist.   
 > 汽车差点儿撞上一位骑自行车的人。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The final score of the basketball match was 93-94. We were only  ________ (narrow) beaten.  
 ##### 答案 narrowly  
   
-
 
 # ***nasty*** adj
 ---
@@ -612,16 +276,6 @@ The final score of the basketball match was 93-94. We were only  ________ (narro
 ---
 1. *高义频：* **令人极不愉快的；不友善的；下流的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***nation*** n
@@ -654,16 +308,6 @@ The final score of the basketball match was 93-94. We were only  ________ (narro
 > the Chinese nation  
 > 中华民族
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***national*** adj
 ---
@@ -689,16 +333,6 @@ The final score of the basketball match was 93-94. We were only  ________ (narro
 > a national park / museum  
 > 国家公园 / 国家博物馆
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***nationalism*** n
 ---
@@ -711,16 +345,6 @@ The final score of the basketball match was 93-94. We were only  ________ (narro
 ---
 1. *高义频：* **民族主义；国家主义**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***nationality*** n
@@ -745,19 +369,13 @@ The final score of the basketball match was 93-94. We were only  ________ (narro
 > the Chinese people of all nationalities   
 > 中国各族人民
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 David Beckham’s ________ (国籍) is British.  
 ##### 答案 nationality  
   
-
 
 # ***nationwide*** adj
 ---
@@ -774,16 +392,6 @@ David Beckham’s ________ (国籍) is British.
 > China began a nationwide public service advertising campaign in 1996.   
 > 1996年中国开展了一次全国性的公益广告活动。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***nationwide*** adv
 ---
@@ -799,16 +407,6 @@ David Beckham’s ________ (国籍) is British.
 
 > The company has over 500 chain stores nationwide.  
 > 这个公司在全国有500多家连锁店。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***native*** adj
@@ -831,16 +429,6 @@ David Beckham’s ________ (国籍) is British.
 > My wife’s a native New Yorker, but I’m from Atlanta.  
 > 我妻子是纽约本地人，而我来自亚特兰大。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***native*** n
 ---
@@ -854,16 +442,6 @@ David Beckham’s ________ (国籍) is British.
 ---
 1. **本地人；当地人 (local)：**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***natural*** adj
@@ -894,16 +472,6 @@ David Beckham’s ________ (国籍) is British.
 > She has a natural talent for music.  
 > 她有音乐天赋。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***naturally*** adv
 ---
@@ -924,19 +492,13 @@ David Beckham’s ________ (国籍) is British.
 > My hair is naturally curly.  
 > 我的头发天生就是卷曲的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 You will be better accepted if you can speak more ________ (自然地) in public.   
 ##### 答案 naturally  
   
-
 
 # ***nature*** n
 ---
@@ -963,6 +525,7 @@ nature意为“大自然”时，其前不加冠词。
 3. *低义频：* **特点；性质**  
 
 
+
 固定搭配
 ---
 - #### (get / go) back to nature
@@ -986,13 +549,6 @@ nature意为“大自然”时，其前不加冠词。
 > It is not in his nature to be “selfish” and “rude”.  
 > “自私”和“粗鲁”不是他的本性。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***naughty*** adj
 ---
@@ -1005,16 +561,6 @@ nature意为“大自然”时，其前不加冠词。
 ---
 1. *高义频：* **顽皮的；淘气的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***navigation*** n
@@ -1030,16 +576,6 @@ nature意为“大自然”时，其前不加冠词。
 1. *高义频：* **导航；航行**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***navigator*** n
 ---
@@ -1052,16 +588,6 @@ nature意为“大自然”时，其前不加冠词。
 ---
 1. **领航员；（飞机的）驾驶员**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***navy*** n
@@ -1080,16 +606,6 @@ nature意为“大自然”时，其前不加冠词。
 > **join the navy**  
 > join the navy  
 > 参加海军
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***near*** prep
@@ -1112,16 +628,6 @@ nature意为“大自然”时，其前不加冠词。
 
 ### 辨析 by, near
 二者都可作介词，表示“在附近”，但也有细微差别。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***near*** adj
 ---
@@ -1145,16 +651,6 @@ nature意为“大自然”时，其前不加冠词。
 > in the near future   
 > 在不久的将来
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***near*** adv
 ---
@@ -1176,16 +672,6 @@ nature意为“大自然”时，其前不加冠词。
 > The exams are drawing near.   
 > 考试越来越近了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***near*** v
 ---
@@ -1202,16 +688,6 @@ nature意为“大自然”时，其前不加冠词。
 
 > As the wedding day neared, I started to have second thoughts about getting married.  
 > 随着结婚日期的临近，我开始重新考虑结婚的事。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***nearby*** adv
@@ -1232,16 +708,6 @@ nature意为“大自然”时，其前不加冠词。
 > There was an old man sitting quietly on a bench nearby.   
 > 有位老人静静地坐在旁边的长凳上。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***nearby*** adj
 ---
@@ -1257,16 +723,6 @@ nature意为“大自然”时，其前不加冠词。
 
 > a shop in a nearby street   
 > 附近街道的一家商店
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***nearly*** adv
@@ -1289,6 +745,7 @@ nature意为“大自然”时，其前不加冠词。
 
 ### 辨析 almost, nearly
 二者都是副词，在肯定句中常可换用。区别如下：
+
 固定搭配
 ---
 - #### not nearly 
@@ -1297,13 +754,6 @@ nature意为“大自然”时，其前不加冠词。
 
 > It’s not nearly as hot as last year.   
 > 天气远没有去年那么热。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***neat*** adj
@@ -1327,16 +777,10 @@ nature意为“大自然”时，其前不加冠词。
 > a very neat woman   
 > 装束十分整洁的女人
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 neatly /niːtli/ adv 
-真题解析
----
-[null]
-
 
 # ***necessarily*** adv
 ---
@@ -1353,16 +797,6 @@ neatly /niːtli/ adv
 > **not necessarily**  
 > Expensive restaurants are not necessarily the best.  
 > 贵的饭店未必是最好的。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***necessary*** adj
@@ -1409,6 +843,7 @@ neatly /niːtli/ adv
 > Some don’t agree that environmental pollution is a necessary consequence of development.  
 > 有些人认为环境污染并不是发展的必然结果。
 
+
 固定搭配
 ---
 - #### do the necessary
@@ -1429,9 +864,7 @@ neatly /niːtli/ adv
 > The army needs men who are willing to fight, when necessary.  
 > 军队需要必要时愿意投入战斗的人。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -1439,7 +872,6 @@ neatly /niːtli/ adv
 — I agree, but the problem is that he has refused to.  
 ##### 答案 (should) not be sent  
   
-
 
 # ***necessity*** n
 ---
@@ -1467,16 +899,6 @@ neatly /niːtli/ adv
 > For many Americans the automobile is a necessity.  
 > 对于很多美国人来说，汽车是必需品。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***neck*** n
 ---
@@ -1498,16 +920,6 @@ neatly /niːtli/ adv
 > She wears a gold necklace around her neck.   
 > 她脖子上戴着金项链。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***necklace*** n
 ---
@@ -1521,16 +933,6 @@ neatly /niːtli/ adv
 ---
 1. *高义频：* **项链；项圈**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***need*** n  重难点词汇
@@ -1564,6 +966,7 @@ neatly /niːtli/ adv
 > meet / satisfy sb’s needs   
 > 满足某人的需要
 
+
 固定搭配
 ---
 - #### in need 
@@ -1583,16 +986,17 @@ neatly /niːtli/ adv
 > The gentleman never fails to help whoever is in need of help.  
 > 这位先生总是帮助任何需要帮助的人。
 
+
 派生词汇
 ---
 needy /'niːdi/ adj 
+
 真题解析
 ---
 ##### 题目  
 Many Chinese universities provide scholarships for students ________ need of financial aid.  
 ##### 答案 in  
   
-
 
 # ***need*** vt  重难点词汇
 ---
@@ -1629,19 +1033,13 @@ need后接动词-ing时，用主动形式表示被动含义。
 > These students badly needed an improvement in confidence.   
 > 这些学生迫切需要增强自信心。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 We’ve had a good start, but next, more work needs ________ (do) to achieve the final success.  
 ##### 答案 to be done / doing  
   
-
 
 # ***need*** modal v  重难点词汇
 ---
@@ -1664,6 +1062,7 @@ We’ve had a good start, but next, more work needs ________ (do) to achieve the
 > — Yes, you must. / No, you needn’t.   
 > 是的，你们必须来。/不，你们不必来。
 
+
 固定搭配
 ---
 - #### needn’t have done sth 
@@ -1673,9 +1072,7 @@ We’ve had a good start, but next, more work needs ________ (do) to achieve the
 > As you worked late yesterday, you needn’t have come this morning.  
 > 你昨天工作到很晚，今天早上你原本可以不来。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -1686,7 +1083,6 @@ I love the weekend, because I ________ (不必) get up early on Saturdays and Su
 I ________ (原不必担心) before I came to the new school, for my classmates here are very friendly to me. (need)  
 ##### 答案 needn’t have worried  
   
-
 
 # ***needle*** n
 ---
@@ -1703,16 +1099,6 @@ I ________ (原不必担心) before I came to the new school, for my classmates 
 
 > a needle and thread   
 > 针线
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***negative*** adj
@@ -1750,16 +1136,6 @@ I ________ (原不必担心) before I came to the new school, for my classmates 
 > a negative number / charge / trade balance  
 > 负数 / 负电荷 / 贸易逆差
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***negative*** n
 ---
@@ -1772,16 +1148,6 @@ I ________ (原不必担心) before I came to the new school, for my classmates 
 ---
 1. **底片；否定**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***neglect*** vt
@@ -1805,16 +1171,6 @@ I ________ (原不必担心) before I came to the new school, for my classmates 
 > **neglected to**  
 > I neglected to lock the door.   
 > 我忘了锁门。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***negotiate*** v
@@ -1844,19 +1200,13 @@ to try to reach an agreement by formal discussion, especially in business or pol
 > negotiate a deal / contract  
 > 达成交易 / 确立合同
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The minister said, “We are ready for discussions with any legal parties, but we’ll never negotiate ________ criminals.”  
 ##### 答案 with  
   
-
 
 # ***neigh*** n
 ---
@@ -1870,16 +1220,6 @@ The minister said, “We are ready for discussions with any legal parties, but w
 1. **（马）嘶鸣**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***neigh*** v
 ---
@@ -1892,16 +1232,6 @@ The minister said, “We are ready for discussions with any legal parties, but w
 ---
 1. **（马）嘶鸣**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***neighbo(u)r*** n
@@ -1926,19 +1256,13 @@ The minister said, “We are ready for discussions with any legal parties, but w
 > A good neighbour is better than a brother far off.   
 > 远亲不如近邻。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 One of our ________ (邻居) kept a very beautiful garden.  
 ##### 答案 neighbo(u)rs  
   
-
 
 # ***neighbo(u)rhood*** n
 ---
@@ -1969,16 +1293,6 @@ One of our ________ (邻居) kept a very beautiful garden.
 > I want to live in the neighbourhood of my office.   
 > 我想住在公司附近。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***neighbourhood*** n
 ---
@@ -1991,16 +1305,6 @@ One of our ________ (邻居) kept a very beautiful garden.
 ---
 1. **街坊；邻近地区**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***neither*** pron
@@ -2023,12 +1327,7 @@ One of our ________ (邻居) kept a very beautiful garden.
 > 他们两个都没车。
 
 “neither of + 复数名词 / 代词”作主语时，谓语动词既可以用单数，也可以用复数。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2043,7 +1342,6 @@ She’d lived in London and Manchester, but she liked ________ and moved to Camb
 Larry asks Bill and Peter to go on a picnic with him, but ________ of them wants to, because they have work to do.   
 ##### 答案 neither   
   
-
 
 # ***neither*** adv
 ---
@@ -2066,6 +1364,7 @@ Larry asks Bill and Peter to go on a picnic with him, but ________ of them wants
 > 我以前没去过纽约，简也没去过。
 
 neither意为“也不”时，承接在否定句后面,表示与前面提到的情况一样，常引起部分倒装。其结构为“neither＋助动词 / 情态动词 / be动词 ＋主语”。
+
 固定搭配
 ---
 - #### Me neither. 
@@ -2089,9 +1388,7 @@ neither意为“也不”时，承接在否定句后面,表示与前面提到的
 > 天气不冷不热。
 
 neither ... nor可连接并列的主语、宾语、谓语、表语等。连接并列主语时，谓语与靠近它的主语一致。
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2099,7 +1396,6 @@ neither ... nor可连接并列的主语、宾语、谓语、表语等。连接�
 — Me ________. He has changed so much.   
 ##### 答案 neither  
   
-
 
 # ***neither*** adj
 ---
@@ -2117,16 +1413,6 @@ neither ... nor可连接并列的主语、宾语、谓语、表语等。连接�
 > 两个答案都不对。
 
 neither与单数名词连用时，谓语动词用单数。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***nephew*** n
 ---
@@ -2141,19 +1427,13 @@ neither与单数名词连用时，谓语动词用单数。
 1. *高义频：* **侄子；外甥**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Bob’s ________ (侄子) is a freshman at Harvard University.   
 ##### 答案 nephew  
   
-
 
 # ***nerve*** n
 ---
@@ -2174,6 +1454,7 @@ Bob’s ________ (侄子) is a freshman at Harvard University.
 2. *高义频：* **[用复数] 神经紧张；焦躁：**  
 
 
+
 固定搭配
 ---
 - #### get on sb’s nerves 
@@ -2182,13 +1463,6 @@ Bob’s ________ (侄子) is a freshman at Harvard University.
 
 > Stop whistling! It’s getting on my nerves!  
 > 别吹口哨了!扰得我心烦!
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***nervous*** adj
@@ -2213,16 +1487,10 @@ Bob’s ________ (侄子) is a freshman at Harvard University.
 > We were all nervous about the approaching examinations.  
 > 我们当时都对即将到来的考试感到紧张不安。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 nervously /'nɜːvəsli/ adv 
-真题解析
----
-[null]
-
 
 # ***nest*** n
 ---
@@ -2239,16 +1507,6 @@ nervously /'nɜːvəsli/ adv
 
 > an ants’ nest  
 > 蚁穴
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***net*** n
@@ -2271,16 +1529,6 @@ nervously /'nɜːvəsli/ adv
 > cast / throw a net   
 > 撒网
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***net*** adj
 ---
@@ -2293,16 +1541,6 @@ nervously /'nɜːvəsli/ adv
 ---
 1. **净得的；纯的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***network*** n
@@ -2332,16 +1570,6 @@ nervously /'nɜːvəsli/ adv
 > TV / wireless networks  
 > 电视网 / 无线网络
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***network*** v
 ---
@@ -2358,16 +1586,6 @@ nervously /'nɜːvəsli/ adv
 2. **建立工作关系**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***neutral*** n
 ---
@@ -2382,16 +1600,6 @@ nervously /'nɜːvəsli/ adv
 1. *高义频：* **中立国；中立者**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***neutral*** adj
 ---
@@ -2404,16 +1612,6 @@ nervously /'nɜːvəsli/ adv
 ---
 1. *高义频：* **中立的；不偏不倚的；中性的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***never*** adv
@@ -2455,12 +1653,7 @@ never在句首时，句子要用部分倒装结构，即“Never + 助动词 / �
 > For the safety of yourself and other road users, never drive after consuming alcohol.   
 > 为了你自己和其他行人的安全，切勿酒后驾车。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2485,7 +1678,6 @@ I can ________ (永不) be a teacher. I’m not a very patient person.
 ##### 答案 never  
   
 
-
 # ***nevertheless*** adv
 ---
 英音 ˌnevəðə'les     美音 ˌnevərðə'les
@@ -2503,16 +1695,6 @@ I can ________ (永不) be a teacher. I’m not a very patient person.
 
 > The weather turned bad, but the music festival was a great success nevertheless.  
 > 天气变糟了，但是尽管如此，音乐节办得很成功。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***new*** adj
@@ -2540,16 +1722,10 @@ I can ________ (永不) be a teacher. I’m not a very patient person.
 > He is new to the job.  
 > 他对这项工作不熟悉。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 newly /'njuːli/ adv 
-真题解析
----
-[null]
-
 
 # ***news*** n
 ---
@@ -2576,16 +1752,6 @@ newly /'njuːli/ adv
 > No news is good news.   
 > 没有消息就是好消息。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***newsflash*** n
 ---
@@ -2598,16 +1764,6 @@ newly /'njuːli/ adv
 ---
 1. **新闻快讯**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***newsletter*** n
@@ -2622,16 +1778,6 @@ newly /'njuːli/ adv
 ---
 1. *高义频：* **通讯；简报**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***newspaper*** n
@@ -2659,16 +1805,6 @@ newly /'njuːli/ adv
 > She works for a local newspaper.   
 > 她在当地的一家报社工作。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***next*** n & pron
 ---
@@ -2688,6 +1824,7 @@ newly /'njuːli/ adv
 > Who will be the next to choose a gift?   
 > 谁是下一个选礼物的人？
 
+
 固定搭配
 ---
 - #### next to 
@@ -2699,13 +1836,6 @@ newly /'njuːli/ adv
 
 > Next to biology, I like physics best.   
 > 除生物外，我最喜欢物理。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***next*** adj
@@ -2739,16 +1869,6 @@ newly /'njuːli/ adv
 > I was sick during the night but felt better the next day.  
 > 我那天晚上生病了，不过第二天感觉好些了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***next*** adv
 ---
@@ -2771,16 +1891,6 @@ newly /'njuːli/ adv
 > **the next best thing after / to**  
 > For me, the next best thing after / to playing football is listening to music.  
 > 对我来说，最好玩的是踢足球，其次是听音乐。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***nice*** adj
@@ -2825,16 +1935,10 @@ newly /'njuːli/ adv
 > be nice to sb  
 > 对某人友善
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 nicely /'naɪsli/ adv 
-真题解析
----
-[null]
-
 
 # ***nickname*** n
 ---
@@ -2856,16 +1960,6 @@ nicely /'naɪsli/ adv
 > We had cute nicknames for some of our classmates.  
 > 我们给一些同学起了有意思的外号。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***nicotine*** n
 ---
@@ -2880,16 +1974,6 @@ nicely /'naɪsli/ adv
 1. *高义频：* **尼古丁**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***niece*** n
 ---
@@ -2903,16 +1987,6 @@ nicely /'naɪsli/ adv
 ---
 1. *高义频：* **侄女；外甥女**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***night*** n
@@ -2939,6 +2013,7 @@ nicely /'naɪsli/ adv
 > I advise that you watch less TV at night.    
 > 我建议你晚上少看点儿电视。
 
+
 固定搭配
 ---
 - #### all night (long) 
@@ -2955,13 +2030,6 @@ nicely /'naɪsli/ adv
 > He was so diligent that he worked day and night.  
 > 他非常勤奋，夜以继日地工作。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***nightfall*** n
 ---
@@ -2976,16 +2044,6 @@ nicely /'naɪsli/ adv
 1. *高义频：* **黄昏，傍晚 (=dusk)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***nightmare*** n
 ---
@@ -2998,16 +2056,6 @@ nicely /'naɪsli/ adv
 ---
 1. **噩梦**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***nitrogen*** n
@@ -3022,16 +2070,6 @@ nicely /'naɪsli/ adv
 ---
 1. *高义频：* **氮**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***no*** adv
@@ -3067,16 +2105,6 @@ nicely /'naɪsli/ adv
 > We went no further than the bridge.   
 > 我们走到桥边就不再往前了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***no*** adj
 ---
@@ -3108,6 +2136,7 @@ nicely /'naɪsli/ adv
 > No smoking!   
 > 禁止吸烟！
 
+
 固定搭配
 ---
 - #### there’s no doing sth
@@ -3119,13 +2148,6 @@ nicely /'naɪsli/ adv
 
 > One thing is certain about globalization — there is no turning back.   
 > 关于全球化有一点是可以确定的，那就是它不可逆转。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***noble*** adj
@@ -3147,16 +2169,6 @@ nicely /'naɪsli/ adv
 > a noble mind / soul   
 > 崇高的思想/高尚的心灵
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***noble*** n
 ---
@@ -3170,16 +2182,6 @@ nicely /'naɪsli/ adv
 ---
 1. *高义频：* **贵族**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***nobody*** n
@@ -3198,16 +2200,6 @@ nicely /'naɪsli/ adv
 > I want to be somebody, and I’m tired of being a nobody.   
 > 我想成为大人物，不愿做无名小卒。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***nobody*** pron
 ---
@@ -3225,12 +2217,7 @@ nicely /'naɪsli/ adv
 > 很幸运，那次事件中没人受伤。
 
 在英语口语中，nobody比no one更常用。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3241,7 +2228,6 @@ When every pupil in the school wears the uniform, nobody ________ (have) to worr
 The meeting will be held in September, but ________ (没人) knows the date for sure.  
 ##### 答案 nobody / no one  
   
-
 
 # ***nod*** n
 ---
@@ -3262,16 +2248,6 @@ The meeting will be held in September, but ________ (没人) knows the date for 
 > **gave me a,nod**  
 > He gave me a friendly nod as he came in.   
 > 他进来时向我友好地点了点头。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***nod*** v
@@ -3297,16 +2273,6 @@ The meeting will be held in September, but ________ (没人) knows the date for 
 > She was phoning someone, so I nodded to / at her and went away.  
 > 她正在给人打电话，所以我向她点头示意后就离开了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***noise*** n
 ---
@@ -3330,16 +2296,6 @@ The meeting will be held in September, but ________ (没人) knows the date for 
 
 ### 辨析 noise, sound, voice
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***noisy*** adj
 ---
@@ -3362,16 +2318,10 @@ The meeting will be held in September, but ________ (没人) knows the date for 
 > the noisy crowds   
 > 嘈杂的人群
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 noisily  /'nɔɪzɪli/ adv 
-真题解析
----
-[null]
-
 
 # ***non-smoker*** n
 ---
@@ -3386,16 +2336,6 @@ noisily  /'nɔɪzɪli/ adv
 1. *高义频：* **不抽烟的人**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***non-smoking*** adj
 ---
@@ -3408,16 +2348,6 @@ noisily  /'nɔɪzɪli/ adv
 ---
 1. **禁止吸烟的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***none*** pron
@@ -3450,6 +2380,7 @@ noisily  /'nɔɪzɪli/ adv
 > We have many friends but none of them live / lives nearby.  
 > 我们有许多朋友，但他们都不住在附近。
 
+
 固定搭配
 ---
 - #### none but
@@ -3459,9 +2390,7 @@ noisily  /'nɔɪzɪli/ adv
 > None but he knew the truth.  
 > 只有他知道真相。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3477,7 +2406,6 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
 — Great! ________ but a musical genius could perform so successfully.   
 ##### 答案 None  
   
-
 
 # ***nonsense*** n
 ---
@@ -3496,16 +2424,6 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
 > They are talking nonsense again.   
 > 他们又在胡说。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***nonstop*** adv
 ---
@@ -3521,16 +2439,6 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
 
 > The train goes from Beijing to Shenyang nonstop.   
 > 这列火车从北京直达沈阳。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***nonstop*** adj
@@ -3551,16 +2459,6 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
 > He is on a long and nonstop journey.   
 > 他在进行一次不间断的长途旅行。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***nonverbal*** adj
 ---
@@ -3573,16 +2471,6 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
 ---
 1. *高义频：* **不用语言的；不用言辞表达的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***noodle*** n
@@ -3597,16 +2485,6 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
 ---
 1. *高义频：* **[常用复数] 面条**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***noon*** n
@@ -3625,16 +2503,6 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
 > **at noon**  
 > at noon   
 > 在中午
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***nor*** conj
@@ -3661,12 +2529,7 @@ nor承接在否定句后面表示与前面提到的情况一样时，常引起�
 > I never saw him again, nor did I hear from him.   
 > 我再也没见过他，也没有收到他的信。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3686,7 +2549,6 @@ D.he will even give
 ##### 答案 C  
   
 
-
 # ***normal*** n
 ---
 英音 'nɔːml     美音 'nɔːrml
@@ -3704,6 +2566,7 @@ D.he will even give
 > above / below normal   
 > 高/低于正常水平
 
+
 固定搭配
 ---
 - #### go back / return to normal 
@@ -3712,13 +2575,6 @@ D.he will even give
 
 > The crisis has passed and life will go back to normal soon.   
 > 危机已经过去，生活很快就会恢复正常。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***normal*** adj
@@ -3748,19 +2604,13 @@ typical, usual or expected：
 2. *高义频：* **智力正常的；精神健全的**  
 反义词 abnormal 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Such a blood pressure is  ________ (正常的) for  a person of his age.  
 ##### 答案 normal  
   
-
 
 # ***normally*** adv
 ---
@@ -3783,16 +2633,6 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 > When we’re happy, our body works normally and we feel relaxed and positive.  
 > 开心时，我们的身体运作正常，我们感觉轻松、积极乐观。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***north*** n
 ---
@@ -3813,16 +2653,6 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 > in the north (of)   
 > 在(…的)北方
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***north*** adj
 ---
@@ -3841,16 +2671,6 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 
 > North China   
 > 华北
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***north*** adv
@@ -3872,16 +2692,6 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 > Fengning is about 180 km north of Beijing.  
 > 丰宁在北京以北约180公里处。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***north-east*** n
 ---
@@ -3895,16 +2705,6 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 1. **东北**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***north-west*** n
 ---
@@ -3917,16 +2717,6 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 ---
 1. **西北**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***northeast*** adj
@@ -3947,16 +2737,6 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 > a northeast wind   
 > 东北风
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***northeast*** n
 ---
@@ -3974,16 +2754,6 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 > Jilin Province lies in the northeast of China.   
 > 吉林省位于中国东北。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***northeast*** adv
 ---
@@ -3999,16 +2769,6 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 
 > At this point the road turns northeast.   
 > 这条路在这里转向东北。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***northern*** adj
@@ -4029,16 +2789,10 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 > a northern accent   
 > 北方口音
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 northerner /'nɔːðənə(r)/ n [C]
-真题解析
----
-[null]
-
 
 # ***northwest*** adv
 ---
@@ -4055,16 +2809,6 @@ northerner /'nɔːðənə(r)/ n [C]
 > The road runs northwest.  
 > 道路向西北延伸。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***northwest*** adj
 ---
@@ -4080,16 +2824,6 @@ northerner /'nɔːðənə(r)/ n [C]
 
 > the northwest coast   
 > 西北海岸
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***northwest*** n
@@ -4108,16 +2842,6 @@ northerner /'nɔːðənə(r)/ n [C]
 > Xinjiang lies in the northwest of China.  
 > 新疆位于中国西北地区。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***northwestern*** adj
 ---
@@ -4130,16 +2854,6 @@ northerner /'nɔːðənə(r)/ n [C]
 ---
 1. *高义频：* **西北部的；来自西北部的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***nose*** n
@@ -4173,16 +2887,6 @@ northerner /'nɔːðənə(r)/ n [C]
 > We say a good journalist must have a good “ nose ” for a story.   
 > 我们说，一个好记者必须对新闻具有敏锐的“嗅觉”。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***nosebleed*** n
 ---
@@ -4196,16 +2900,6 @@ northerner /'nɔːðənə(r)/ n [C]
 ---
 1. *高义频：* **鼻出血；流鼻血**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***not*** adv
@@ -4285,6 +2979,7 @@ northerner /'nɔːðənə(r)/ n [C]
 > There’s not much I can do about that.   
 > 关于那件事，我能做的不多。
 
+
 固定搭配
 ---
 - #### not a / one 
@@ -4312,16 +3007,13 @@ northerner /'nɔːðənə(r)/ n [C]
 > She didn’t attend the meeting; not that she was busy.  
 > 她没有参加会议，倒不是因为忙。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 It is often said that the joy of travelling is not in arriving at your destination ________ in the journey itself.  
 ##### 答案 but  
   
-
 
 # ***note*** n
 ---
@@ -4375,6 +3067,7 @@ It is often said that the joy of travelling is not in arriving at your destinati
 > a five-pound note  
 > 一张5英镑的钞票
 
+
 固定搭配
 ---
 - #### compare notes (with sb) 
@@ -4397,13 +3090,6 @@ It is often said that the joy of travelling is not in arriving at your destinati
 
 > Next time you chat with a friend, take note of how you’re sitting.    
 > 下次你和朋友聊天时，注意一下你的坐姿。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***note*** vt
@@ -4436,6 +3122,7 @@ It is often said that the joy of travelling is not in arriving at your destinati
 > The speaker noted that it was very important to set a goal for our life.   
 > 演说者指出为我们的生活设定目标是非常重要的。
 
+
 固定搭配
 ---
 - #### note down
@@ -4445,16 +3132,13 @@ It is often said that the joy of travelling is not in arriving at your destinati
 > The policeman noted down what I said.  
 > 警察记下了我说的话。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Scientists have responded by ________ (note) that hungry bears may be congregating(聚集) around human settlements.  
 ##### 答案 noting  
   
-
 
 # ***notebook*** n
 ---
@@ -4469,16 +3153,6 @@ Scientists have responded by ________ (note) that hungry bears may be congregati
 1. *高义频：* **笔记本；笔记本电脑**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***notepad*** n
 ---
@@ -4492,16 +3166,6 @@ Scientists have responded by ________ (note) that hungry bears may be congregati
 ---
 1. *高义频：* **便条本；记事本**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***nothing*** pron
@@ -4536,6 +3200,7 @@ Scientists have responded by ________ (note) that hungry bears may be congregati
 > **it was nothing**  
 > — Oh, it was nothing.  
 > 噢，没什么。
+
 
 固定搭配
 ---
@@ -4580,9 +3245,7 @@ Scientists have responded by ________ (note) that hungry bears may be congregati
 > There’s nothing like an ice-cold drink on a hot day.  
 > 炎热的日子里，什么都比不上喝杯冰镇饮料。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4601,7 +3264,6 @@ Swimming is my favorite sport. There is nothing ________ swimming as a means of 
 I got this bicycle ________ nothing: My friend gave it to me when she bought a new one.  
 ##### 答案 for  
   
-
 
 # ***nothing*** n
 ---
@@ -4626,6 +3288,7 @@ I got this bicycle ________ nothing: My friend gave it to me when she bought a n
 > **it was nothing**  
 > — Oh, it was nothing.   
 > 噢，没什么。
+
 
 固定搭配
 ---
@@ -4673,9 +3336,7 @@ I got this bicycle ________ nothing: My friend gave it to me when she bought a n
 > There’s nothing like an ice-cold drink on a hot day.  
 > 炎热的日子里，什么都比不上喝杯冰镇饮料。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4694,7 +3355,6 @@ Swimming is my favorite sport. There is nothing ________ swimming as a means of 
 I got this bicycle for _________: My friend gave it to me when she bought a new one.  
 ##### 答案 nothing  
   
-
 
 # ***notice*** n
 ---
@@ -4737,16 +3397,6 @@ I got this bicycle for _________: My friend gave it to me when she bought a new 
 > This shop will be closed for repairs until further notice.    
 > 本店因修缮停止营业，开业时间另行通知。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***notice*** v
 ---
@@ -4782,19 +3432,17 @@ I got this bicycle for _________: My friend gave it to me when she bought a new 
 > When he came back, he noticed something strange.  
 > 回来后，他注意到情况有些异常。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 noticeable /'nəʊtɪsəbl/ adj 
+
 真题解析
 ---
 ##### 题目  
 I looked up and noticed a snake ________ (wind) its way up the tree to catch its breakfast.   
 ##### 答案 winding  
   
-
 
 # ***novel*** n
 ---
@@ -4809,16 +3457,6 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 1. *高义频：* **(长篇) 小说**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***novel*** adj
 ---
@@ -4831,16 +3469,6 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 ---
 1. **新奇的；异常的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***novelist*** n
@@ -4858,16 +3486,6 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 > Charles Dickens is one of England’s most famous novelists.   
 > 查尔斯·狄更斯是英国最著名的小说家之一。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***now*** adv
@@ -4900,6 +3518,7 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 > Now, open your books to page 15.   
 > 现在，打开书翻到15页。
+
 
 固定搭配
 ---
@@ -4944,13 +3563,6 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 > Up to / Until now, the program has saved thousands of children who would otherwise have died.  
 > 到目前为止，这项计划已经挽救了成千上万名原本会死亡的那些孩子。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***now*** n
 ---
@@ -4981,16 +3593,6 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 > From now on I will try to do better.   
 > 从现在起我要争取做得更好。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***now*** conj
 ---
@@ -5010,16 +3612,6 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 > Now that I have made this first visit, I hope I can come many more times.    
 > 既然有了第一次的造访，我希望以后能常来。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***nowadays*** adv
 ---
@@ -5036,16 +3628,6 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 > Nowadays people separate their waste to make it easier for it to be reused.   
 > 现在人们把垃圾分类，以便于废物再利用。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***noway*** adv
 ---
@@ -5058,16 +3640,6 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 ---
 1. *高义频：* **(AmE) 决不； 一点儿也不**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***nowhere*** adv
@@ -5084,6 +3656,7 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 > I’m going nowhere until you are back.   
 > 你回来之前我哪儿都不去。
+
 
 固定搭配
 ---
@@ -5102,9 +3675,7 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 > I left my necklace on the table by the bed, but it is just nowhere to be found.  
 > 我把项链放在床边的桌子上了，但是现在哪儿也找不到。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -5115,7 +3686,6 @@ C.enough near nowhere
 D.near nowhere enough  
 ##### 答案 A.  
   
-
 
 # ***nuclear*** adj
 ---
@@ -5137,16 +3707,6 @@ D.near nowhere enough
 > a nuclear family  
 > (仅由父母和子女组成的) 核心家庭；小家庭
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***nucleus*** n
 ---
@@ -5161,16 +3721,6 @@ D.near nowhere enough
 1. *高义频：* **(pl nuclei) 原子核；中心**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***nudge*** v
 ---
@@ -5183,16 +3733,6 @@ D.near nowhere enough
 ---
 1. **摊开**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***nudge*** n
@@ -5207,16 +3747,6 @@ D.near nowhere enough
 1. **（通常用肘）轻推**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***nuisance*** n
 ---
@@ -5229,16 +3759,6 @@ D.near nowhere enough
 ---
 1. **令人讨厌的人或事**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***numb*** adj
@@ -5259,16 +3779,6 @@ D.near nowhere enough
 
 > Our hands and feet became numb from the cold weather.  
 > 天气寒冷，我们的手脚都冻僵了。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***number*** n
@@ -5312,16 +3822,6 @@ D.near nowhere enough
 > 目前学习中文的人数正在迅速增加。
 
 a number of后接复数名词，作主语时，谓语动词用复数。the number of后接复数名词，作主语时，谓语动词用单数。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***numerology*** n
 ---
@@ -5334,16 +3834,6 @@ a number of后接复数名词，作主语时，谓语动词用复数。the numbe
 ---
 1. **数字命理学（以出生年月日及其他数字测定之学）**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***numerous*** adj
@@ -5362,16 +3852,6 @@ a number of后接复数名词，作主语时，谓语动词用复数。the numbe
 > The individuals who have contributed to this book are far too numerous to mention.   
 > 为本书做过贡献的人数不胜数。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***nurse*** n
 ---
@@ -5385,16 +3865,6 @@ a number of后接复数名词，作主语时，谓语动词用复数。the numbe
 ---
 1. *高义频：* **护士；保姆**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***nursery*** n
@@ -5413,16 +3883,6 @@ a number of后接复数名词，作主语时，谓语动词用复数。the numbe
 > a nursery school  
 > 幼儿园
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***nut*** n
 ---
@@ -5440,16 +3900,6 @@ a number of后接复数名词，作主语时，谓语动词用复数。the numbe
 > **a hard / tough nut to crack**  
 > a hard / tough nut to crack  
 > 棘手的问题
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***nutrition*** n
@@ -5472,16 +3922,6 @@ a number of后接复数名词，作主语时，谓语动词用复数。the numbe
 > A balanced diet provides nutrition for your body.   
 > 均衡的饮食为身体提供营养。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***nutshell*** n
 ---
@@ -5495,13 +3935,4 @@ a number of后接复数名词，作主语时，谓语动词用复数。the numbe
 1. **坚果壳；简单的一句话**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 

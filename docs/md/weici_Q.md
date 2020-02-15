@@ -1,50 +1,4 @@
-
-# ***Qomolangma*** n
----
-英音 ˌtʃəʊmə'lʊŋmə     美音 ˌtʃəʊmə'lʊŋmə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **珠穆朗玛峰**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Quaker*** n
----
-英音 'kweɪkə(r)     美音 'kweɪkər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
-
-英文释义
----
-1. *高义频：* **教友派信徒；贵格会会员**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
+# Qq
 
 # ***quagga*** n
 ---
@@ -57,16 +11,6 @@
 ---
 1. *高义频：* **白氏斑马 (已灭绝)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***quake*** n
@@ -81,16 +25,6 @@
 ---
 1. *高义频：* **地震 (earthquake)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***quake*** vi
@@ -111,16 +45,6 @@
 > **quake with fear**  
 > quake with fear  
 > 害怕得发抖
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***qualification*** n
@@ -147,16 +71,6 @@
 2. *低义频：* **资格证书**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***qualified*** adj
 ---
@@ -182,16 +96,6 @@
 > a qualified dental nurse  
 > 合格的牙科护士
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***qualify*** v
 ---
@@ -210,16 +114,6 @@
 
 > He’s been informed that he doesn’t qualify for the scholarship because of his academic background.  
 > 他已被告知因学历背景不合格他不具备获得奖学金的资格。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***quality*** n
@@ -260,16 +154,6 @@
 > products of quality  
 > 优质产品
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***quality*** adj
 ---
@@ -282,16 +166,6 @@
 ---
 1. **优质的；高质量的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***quantity*** n
@@ -310,6 +184,7 @@
 > The change of quantity causes the change of quality.  
 > 量变引起质变。
 
+
 固定搭配
 ---
 - #### a large quantity of / large quantities of
@@ -327,16 +202,13 @@ a large quantity of / large quantities of 后既可以接可数名词也可以�
 > They buy cotton in quantity.  
 > 他们大量收购棉花。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 As a result of destroying the forests, a large quantity of desert ________ (have) covered the land.  
 ##### 答案 has  
   
-
 
 # ***quarrel*** vi
 ---
@@ -354,16 +226,6 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 
 > She quarrelled with her brother over his schoolwork.  
 > 她因弟弟的功课而与他发生了争执。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***quarrel*** n
@@ -387,16 +249,6 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 > **quarrel,between**  
 > A quarrel broke out between them.  
 > 他们之间发生了口角。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***quarter*** n
@@ -436,16 +288,6 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 4. *低义频：* **(美国和加拿大的) 两角五分的硬币**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***queen*** n
 ---
@@ -460,16 +302,6 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 1. *高义频：* **女王；王后**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***quest*** n
 ---
@@ -482,16 +314,6 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 ---
 1. **(长期的) 寻求,探索,追求**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***question*** n
@@ -518,6 +340,7 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 > He is by far the best. There is no question about it (= it is completely certain).  
 > 他显然是最好的。这毫无疑问。
 
+
 固定搭配
 ---
 - #### out of question
@@ -531,13 +354,6 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 - #### in question
 1. **讨论中的；有疑问的；不确定的**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***question*** vt
@@ -564,16 +380,6 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 > Soon you will also question whether the voice you're hearing is actually real.  
 > 不久你也会怀疑你听到的声音是否不是真人。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***questionnaire*** n
 ---
@@ -591,16 +397,6 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 > **fill in / out**  
 > fill in / out a questionnaire  
 > 填写调查表
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***queue*** n
@@ -623,16 +419,6 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 > form / jump a queue  
 > 排/插队
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***queue*** vi
 ---
@@ -649,16 +435,6 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 > **queu(e)ing (up) for**  
 > Some of the people queu(e)ing (up) for tickets had been there since dawn.  
 > 买票队伍中的有些人从天刚亮就开始在排队了。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***quick*** adj
@@ -692,16 +468,10 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 > She is a quick learner.  
 > 她学得很快啊。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 quicken /'kwɪkən/ v 
-真题解析
----
-[null]
-
 
 # ***quicken*** v
 ---
@@ -714,16 +484,6 @@ quicken /'kwɪkən/ v
 ---
 1. **使加快；使活跃；刺激；变快；(孕妇) 进入胎动期；变活跃**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***quickly*** adv
@@ -741,19 +501,13 @@ quicken /'kwɪkən/ v
 > How quickly time passed!  
 > 时间过得真快啊！
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 There are only five minutes left. We’ll have to walk q________ to get there on time.  
 ##### 答案 quickly  
   
-
 
 # ***quiet*** adj
 ---
@@ -782,6 +536,7 @@ There are only five minutes left. We’ll have to walk q________ to get there on
 > She was quiet and shy.  
 > 她文静而又腼腆。
 
+
 固定搭配
 ---
 - #### keep sth quiet / keep quiet about sth
@@ -791,13 +546,10 @@ There are only five minutes left. We’ll have to walk q________ to get there on
 > We want to give him a surprise, so please keep quiet about it.  
 > 我们想给他一个惊喜，所以对此事务必要保密。
 
+
 派生词汇
 ---
 quietly /'kwaɪətli/ adv 
-真题解析
----
-[null]
-
 
 # ***quiet*** n
 ---
@@ -817,16 +569,6 @@ quietly /'kwaɪətli/ adv
 
 ### 辨析 quiet, calm, still, silent
 四者均可用作形容词，均含有“静”的意思。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***quilt*** n
 ---
@@ -840,16 +582,6 @@ quietly /'kwaɪətli/ adv
 ---
 1. *高义频：* **被子；被褥：**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***quit*** v
@@ -881,16 +613,6 @@ quietly /'kwaɪətli/ adv
 
 3. *高义频：* **关闭 / 退出 (计算机程序等)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***quite*** adv
@@ -925,12 +647,7 @@ quietly /'kwaɪətli/ adv
 quite修饰与不定冠词连用的形容词时，须放在不定冠词之前。
 ### 辨析 fairly, quite, rather, pretty
 四者都有“相当”之意。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -941,7 +658,6 @@ C.rather
 D.much  
 ##### 答案 A  
   
-
 
 # ***quiz*** n
 ---
@@ -958,16 +674,6 @@ D.much
 
 > a quiz show  
 > 智力游戏节目
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***quote*** v
@@ -986,16 +692,6 @@ D.much
 > He quoted the Bible.  
 > 他引用了《圣经》中的话。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***quote*** n
 ---
@@ -1010,13 +706,8 @@ D.much
 1. *高义频：* **引语；引文 (quotation)**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 quotation /kwəʊ'teɪʃn/ n [C]
-真题解析
----
-[null]
 

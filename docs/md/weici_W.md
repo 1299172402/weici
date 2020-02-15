@@ -1,120 +1,4 @@
-
-# ***WWF*** 
----
-英音 wɜːld 'waɪldlaɪf fʌnd     美音 wɜːld 'waɪldlaɪf fʌnd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **世界野生生物基金会 (World Wildlife Fund)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Wales*** 
----
-英音 weɪlz     美音 weɪlz
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **威尔士(英国)**  
-
-
-固定搭配
----
-[null]
-
-派生词汇
----
-[null]
-
-真题解析
----
-[null]
-
-
-# ***Wednesday*** n
----
-英音 'wenzdeɪ     美音 'wenzdeɪ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **星期三（Wed.或Weds.）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Whitney*** 
----
-英音 'wɪtnɪ     美音 'wɪtnɪ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **惠特尼**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Wi-Fi*** n
----
-英音 'waɪfaɪ     美音 'waɪfaɪ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **无线保真（用无线电波而非网线在计算机网络传输数据的系统）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
+# Ww
 
 # ***wag*** v
 ---
@@ -130,16 +14,6 @@
 
 > Dogs wag their tails when they are pleased.  
 > 狗一高兴就摇尾巴。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wage*** n
@@ -164,16 +38,6 @@
 
 ### 辨析 pay, salary, wage
 三者都可用作名词，含“报酬”之意，都常译为“工资”。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wagon*** n
 ---
@@ -187,16 +51,6 @@
 ---
 1. *高义频：* **四轮运货马车；运货车**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***waist*** n
@@ -215,16 +69,6 @@
 > She has a slim waist.  
 > 她腰身纤细。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wait*** n
 ---
@@ -242,16 +86,6 @@
 > **wait for**  
 > He now faces a painful two-month wait for the test result.  
 > 如今考试成绩还没公布，他要痛苦地等两个月。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wait*** v
@@ -296,6 +130,7 @@
 > Sorry to have kept you waiting.  
 > 对不起，让您久等了。
 
+
 固定搭配
 ---
 - #### be waiting
@@ -318,13 +153,6 @@
 > I can't wait for his return.  
 > 我急切地等他回来。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***waiter*** n
 ---
@@ -338,16 +166,6 @@
 ---
 1. *高义频：* **男服务员；男侍应生**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***waiting-room*** n
@@ -363,16 +181,6 @@
 1. *高义频：* **候诊室；候车 / 船 / 机室**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***waitress*** n
 ---
@@ -386,16 +194,6 @@
 ---
 1. *高义频：* **女服务员**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wake*** v
@@ -427,16 +225,6 @@
 
 > I was woken by the sound of someone moving around.  
 > 有人来回走动，把我吵醒了。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***walk*** v
@@ -472,18 +260,12 @@
 > I will walk you to the bus stop.  
 > 我要陪你走到公交车站。
 
+
 固定搭配
 ---
 - #### walk up (to)
 1. **走近**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***walk*** n
@@ -518,6 +300,7 @@
 > The office is a ten - minute walk from here.  
 > 从这里到办公室要步行10分钟。
 
+
 固定搭配
 ---
 - #### a walk of life
@@ -527,13 +310,6 @@
 > **from all walks of life**  
 > Our volunteers include people from all walks of life.  
 > 我们的志愿者包括各界人士。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wall*** n
@@ -558,16 +334,6 @@
 > go / get / climb over the wall  
 > 翻墙
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wallet*** n
 ---
@@ -583,16 +349,6 @@
 
 
 带拉链或按扣的女用钱包为purse。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***walnut*** n
 ---
@@ -607,16 +363,6 @@
 1. *高义频：* **核桃；胡桃；胡桃树**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***waltz*** n
 ---
@@ -629,16 +375,6 @@
 ---
 1. **华尔兹舞**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wander*** v
@@ -665,16 +401,6 @@
 
 > My mind began to wander. What job would I do?  
 > 我开始天马行空地思考，我应该做什么样的工作呢？
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***want*** vt  重难点词汇
@@ -733,16 +459,6 @@
 > This sort of work wants patience.  
 > 这种工作需要耐心。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***war*** n
 ---
@@ -760,6 +476,7 @@
 > World War II broke out in 1939.  
 > 第二次世界大战爆发于1939年。
 
+
 固定搭配
 ---
 - #### at war (with)
@@ -772,13 +489,6 @@
 - #### declare war on
 1. **对…宣战**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ward*** n
@@ -794,16 +504,6 @@
 1. *高义频：* **病房**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***warden*** n
 ---
@@ -817,16 +517,6 @@
 1. **管理员**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wardrobe*** n
 ---
@@ -839,16 +529,6 @@
 ---
 1. **衣橱**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***warehouse*** n
@@ -864,16 +544,6 @@
 1. *高义频：* **仓库**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wariness*** n
 ---
@@ -886,16 +556,6 @@
 ---
 1. **谨慎，小心**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***warm*** v
@@ -916,6 +576,7 @@
 > The water is warming in the pot over the fire.  
 > 水在壶里，正在火上加热。
 
+
 固定搭配
 ---
 - #### warm up
@@ -927,13 +588,6 @@
 
 > He seemed surprised and then his weather-beaten face warmed up with a huge smile.  
 > 他看起来非常惊讶，接着他那沧桑的脸上露出了灿烂的笑容，显得很兴奋。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***warm*** adj
@@ -967,16 +621,6 @@
 > The speaker was given a warm welcome.  
 > 发言人受到热烈的欢迎。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***warm-hearted*** adj
 ---
@@ -992,16 +636,6 @@
 
 > Li Wei is always warm-hearted and cares a lot about the class.   
 > 李伟总是很热心，并且对同学们关爱有加。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***warmth*** n
@@ -1019,16 +653,6 @@
 
 > Walking in the fields on a March afternoon, he could feel the warmth of spring.  
 > 三月的一个下午走在田野上，他能感觉到春天的温暖。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***warn*** vt  重难点词汇
@@ -1066,19 +690,13 @@
 > I tried to warn him, but he wouldn’t listen.  
 > 我试图警告过他，但他不听。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 My father warned me ________ going to the West Coast because it was crowded with tourists.  
 ##### 答案 against  
-
-
+  
 
 # ***warning*** n
 ---
@@ -1101,16 +719,6 @@ My father warned me ________ going to the West Coast because it was crowded with
 > She gave her children a warning not to bite their nails.  
 > 她告诫孩子们不要咬指甲。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***warrior*** n
 ---
@@ -1124,16 +732,6 @@ My father warned me ________ going to the West Coast because it was crowded with
 ---
 1. *高义频：* **(尤指旧时的) 武士；勇士；战士**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wash*** v
@@ -1171,6 +769,7 @@ My father warned me ________ going to the West Coast because it was crowded with
 > Soil has been washed into the river from the riverbank or from the nearby fields.  
 > 泥土从河岸或者附近的田地被冲进河里。
 
+
 固定搭配
 ---
 - #### wash away
@@ -1191,13 +790,6 @@ My father warned me ________ going to the West Coast because it was crowded with
 
 > It’s your turn to wash up today.  
 > 今天轮到你洗碗。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wash*** n
@@ -1220,16 +812,6 @@ My father warned me ________ going to the West Coast because it was crowded with
 > The floor needs a good wash.  
 > 地板要好好冲洗一下。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***washing*** n
 ---
@@ -1247,16 +829,6 @@ My father warned me ________ going to the West Coast because it was crowded with
 > do some washing  
 > 洗洗涮涮
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***washroom*** n
 ---
@@ -1270,16 +842,6 @@ My father warned me ________ going to the West Coast because it was crowded with
 ---
 1. *高义频：* **盥洗室；厕所**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***waste*** vt  重难点词汇
@@ -1314,19 +876,13 @@ My father warned me ________ going to the West Coast because it was crowded with
 > She’s wasted in her present job.  
 > 她做现在的工作真是屈才。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Keep in mind that it is a shame to ________ (浪费) food.  
 ##### 答案 waste  
-
-
+  
 
 # ***waste*** n  重难点词汇
 ---
@@ -1358,20 +914,14 @@ Keep in mind that it is a shame to ________ (浪费) food.
 > They’re working hard to turn waste into useful materials.  
 > 他们正努力把废物转化为有用的材料。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 — He says that my new car is ________ (浪费钱).
 — Don’t you think those words are just sour grapes?  
 ##### 答案 a waste of money  
-
-
+  
 
 # ***waste*** adj  重难点词汇
 ---
@@ -1387,16 +937,6 @@ Keep in mind that it is a shame to ________ (浪费) food.
 
 > waste water / paper  
 > 废水/纸
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***watch*** v  重难点词汇
@@ -1458,6 +998,7 @@ Keep in mind that it is a shame to ________ (浪费) food.
 > Could you please watch my bags for me while I buy a paper?  
 > 我去买份报纸，你能帮我看一下包吗？
 
+
 固定搭配
 ---
 - #### watch out(for)
@@ -1476,13 +1017,6 @@ Keep in mind that it is a shame to ________ (浪费) food.
 
 > My parents watched over me day and night while I was ill.  
 > 我生病期间，父母日夜照看我。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***watch*** n  重难点词汇
@@ -1509,6 +1043,7 @@ Keep in mind that it is a shame to ________ (浪费) food.
 > wear a watch  
 > 戴手表
 
+
 固定搭配
 ---
 - #### keep watch (for)
@@ -1525,13 +1060,6 @@ Keep in mind that it is a shame to ________ (浪费) food.
 > He was standing there on watch.  
 > 他正站在那儿值班。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***watchtower*** n
 ---
@@ -1544,16 +1072,6 @@ Keep in mind that it is a shame to ________ (浪费) food.
 ---
 1. **望台**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***water*** vt
@@ -1570,16 +1088,6 @@ Keep in mind that it is a shame to ________ (浪费) food.
 
 > water flowers  
 > 浇花
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***water*** n
@@ -1617,18 +1125,12 @@ Keep in mind that it is a shame to ________ (浪费) food.
 > We were still in British waters.  
 > 我们仍在英国领海上。
 
+
 固定搭配
 ---
 - #### hold water
 1. **(容器等) 盛得住水；(论点等) 站得住脚**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***watercolour*** n
@@ -1642,16 +1144,6 @@ Keep in mind that it is a shame to ________ (浪费) food.
 ---
 1. **水彩画**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***waterfall*** n
@@ -1667,16 +1159,6 @@ Keep in mind that it is a shame to ________ (浪费) food.
 1. *高义频：* **瀑布**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***watermelon*** n
 ---
@@ -1691,16 +1173,6 @@ Keep in mind that it is a shame to ________ (浪费) food.
 1. *高义频：* **西瓜**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***waterproof*** adj
 ---
@@ -1714,16 +1186,6 @@ Keep in mind that it is a shame to ________ (浪费) food.
 1. *高义频：* **不透水的；防水的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***watery*** adj
 ---
@@ -1736,16 +1198,6 @@ Keep in mind that it is a shame to ________ (浪费) food.
 ---
 1. *高义频：* **(似) 水的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wave*** v
@@ -1780,16 +1232,6 @@ Keep in mind that it is a shame to ________ (浪费) food.
 > He waved until they were out of sight.  
 > 他向他们挥手，直到看不见他们为止。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wave*** n
 ---
@@ -1821,16 +1263,6 @@ Keep in mind that it is a shame to ________ (浪费) food.
 > sound waves  
 > 声波
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wavy*** adj
 ---
@@ -1843,16 +1275,6 @@ Keep in mind that it is a shame to ________ (浪费) food.
 ---
 1. **波状的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wax*** n
@@ -1867,16 +1289,6 @@ Keep in mind that it is a shame to ________ (浪费) food.
 ---
 1. *高义频：* **蜡；蜂蜡**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***way*** n  重难点词汇
@@ -1960,6 +1372,7 @@ a method that you use to do or achieve sth：
 
 > British ways of living  
 > 英国人的生活方式
+
 
 固定搭配
 ---
@@ -2057,22 +1470,18 @@ a method that you use to do or achieve sth：
 
 ### 辨析 way, road, path, street, avenue
 五者都可作“路”解，但含义有所不同。
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Mrs. Smith finds it hard to clear up the mess, as her children are always ________ the way whenever she tries to.  
 ##### 答案 in  
-
+  
 ##### 题目  
-— I think he is taking an active part in social work.
-
+— I think he is taking an active part in social work.
 — I agree with you ________ (在某种程度上).  
 ##### 答案 in a way  
-
-
+  
 
 # ***we*** pron
 ---
@@ -2094,16 +1503,6 @@ Mrs. Smith finds it hard to clear up the mess, as her children are always ______
 
 > We’ve had about fifty centimeters of snow these few hours.  
 > 短短几小时内，积雪已有50厘米厚。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***weak*** adj
@@ -2132,16 +1531,10 @@ Mrs. Smith finds it hard to clear up the mess, as her children are always ______
 > He is weak in mathematics, but good at English.  
 > 他数学差，但英语好。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 weakly /'wiːkli/ adv 
-真题解析
----
-[null]
-
 
 # ***weaken*** v
 ---
@@ -2157,16 +1550,6 @@ weakly /'wiːkli/ adv
 
 > HIV weakens a person’s immune system.  
 > HIV病毒会削弱人的免疫系统。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***weakness*** n
@@ -2191,19 +1574,13 @@ weakly /'wiːkli/ adv
 > Think about the job and write down your strengths and weaknesses.  
 > 考虑一下这份工作，然后写下你的优点和不足。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 We should know our own strengths and ________ (弱点) and think what could be done about them.  
 ##### 答案 weaknesses  
-
-
+  
 
 # ***wealth*** n
 ---
@@ -2221,16 +1598,6 @@ We should know our own strengths and ________ (弱点) and think what could be d
 > Good health is worth more than wealth.  
 > 健康比财富更重要。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wealthy*** adj
 ---
@@ -2247,16 +1614,6 @@ We should know our own strengths and ________ (弱点) and think what could be d
 > He became wealthy through hard work and careful savings.  
 > 他通过辛勤工作和精打细算致富。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***weapon*** n
 ---
@@ -2270,16 +1627,6 @@ We should know our own strengths and ________ (弱点) and think what could be d
 ---
 1. *高义频：* **武器；兵器**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wear*** v
@@ -2321,6 +1668,7 @@ We should know our own strengths and ________ (弱点) and think what could be d
 > wear a smile  
 > 面带微笑
 
+
 固定搭配
 ---
 - #### wear off
@@ -2342,16 +1690,13 @@ We should know our own strengths and ________ (弱点) and think what could be d
 
 ### 辨析 wear, put on, dress
 三者均可作“穿”解，但意义、用法不同。
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Mother always complains that children ________ (穿破) their shoes very quickly.  
 ##### 答案 wear out  
-
-
+  
 
 # ***weary*** v
 ---
@@ -2364,16 +1709,6 @@ Mother always complains that children ________ (穿破) their shoes very quickly
 ---
 1. **使人疲倦，使人厌烦**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***weather*** n
@@ -2389,19 +1724,13 @@ Mother always complains that children ________ (穿破) their shoes very quickly
 1. *高义频：* **天气**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The w________ in the hills can change very quickly, so take suitable clothes.  
 ##### 答案 weather  
-
-
+  
 
 # ***weave*** v
 ---
@@ -2415,16 +1744,6 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 ---
 1. *高义频：* **(编) 织；编造；迂回行进**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***web*** n
@@ -2456,16 +1775,6 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 > I found the information on the Web.  
 > 我在网上查到了信息。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***website*** n
 ---
@@ -2484,16 +1793,6 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 > build / visit a website   
 > 建/访问网站
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wedding*** n
 ---
@@ -2511,16 +1810,6 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 > arrange / attend / have a wedding  
 > 筹备/参加/举行婚礼
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wedding*** n
 ---
@@ -2537,16 +1826,6 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 > arrange / attend / have a wedding  
 > 筹备/参加/举行婚礼
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***weed*** n
 ---
@@ -2561,16 +1840,6 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 1. *高义频：* **杂草**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***weed*** v
 ---
@@ -2583,16 +1852,6 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 ---
 1. **vt. & vi.除杂草**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***week*** n
@@ -2617,16 +1876,6 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 > the week before last  
 > 上上一周
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***weekday*** n
 ---
@@ -2646,16 +1895,6 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 > He is always busy on weekdays.  
 > 他在工作日总是很忙。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***weekend*** n
@@ -2682,16 +1921,6 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 > go for a weekend  
 > 去度周末
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***weekly*** adj
 ---
@@ -2707,16 +1936,6 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 > a weekly newspaper  
 > 周报
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***weekly*** adv
@@ -2734,16 +1953,6 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 > We have four English classes weekly.  
 > 我们每周有4节英语课。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***weekly*** n
 ---
@@ -2756,16 +1965,6 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 ---
 1. **周刊；周报**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***weep*** vi
@@ -2789,16 +1988,6 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 > When Claire got home, she wept with anger in her armchair.  
 > 回家后，克莱尔气得坐在椅子上哭了起来。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***weep*** n
 ---
@@ -2811,16 +2000,6 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 ---
 1. **哭；哭泣**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***weigh*** v
@@ -2856,16 +2035,6 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 > We weighed the benefits of the plan against the risks involved.  
 > 我们权衡了这个计划的好处和相关的风险。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***weight*** n
 ---
@@ -2895,16 +2064,6 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 > Bananas are sold by weight.  
 > 香蕉按重量出售。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***weight-loss*** n
 ---
@@ -2918,16 +2077,6 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 1. **减肥，瘦身**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***weightlessly*** adv
 ---
@@ -2940,16 +2089,6 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 ---
 1. *高义频：* **失重地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***weird*** adj
@@ -2966,16 +2105,6 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 > a weird dream / idea  
 > 离奇的梦/怪异的想法
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***welcome*** n  重难点词汇
@@ -2997,16 +2126,6 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 > **warm welcome**  
 > Their warm welcome made me feel comfortable.  
 > 他们的热情接待让我感到很舒服。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***welcome*** vt  重难点词汇
@@ -3033,19 +2152,13 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 > I’ll welcome any suggestions.  
 > 任何建议我都会欣然接受。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Brown stood at the door, ________ (欢迎) newcomers with a large smile.  
 ##### 答案 welcoming  
-
-
+  
 
 # ***welcome*** adj  重难点词汇
 ---
@@ -3086,18 +2199,12 @@ allowed to do sth：
 > You are welcome to stay here as long as you like.  
 > 你在这里愿意住多久就住多久。
 
+
 固定搭配
 ---
 - #### you’re welcome
 1. **别客气；不用谢**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***welcome*** int  重难点词汇
@@ -3116,16 +2223,10 @@ allowed to do sth：
 > Welcome to our school!   
 > 欢迎光临我校!
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 welcoming /'welkəmɪŋ/ adj 
-真题解析
----
-[null]
-
 
 # ***welfare*** n
 ---
@@ -3146,16 +2247,6 @@ welcoming /'welkəmɪŋ/ adj
 > Parents are responsible for the welfare of their children.  
 > 父母要对子女的幸福负责。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***well*** n
 ---
@@ -3169,16 +2260,6 @@ welcoming /'welkəmɪŋ/ adj
 ---
 1. *高义频：* **井**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***well*** adv  重难点词汇
@@ -3228,6 +2309,7 @@ welcoming /'welkəmɪŋ/ adj
 > They should be well prepared for the possible difficulties they may come across in the process.   
 > 他们应该为在这一过程中可能会遇到的困难做好充分准备。
 
+
 固定搭配
 ---
 - #### as well
@@ -3270,20 +2352,17 @@ as well as 连接主语时，谓语动词应与as well as前的主语保持人�
 > Since we haven’t gone very far, we might just as well  turn around to get the map.   
 > 既然我们还没走远，我们不妨返回去取地图。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The famous musician, as well as his students, _______ (invite) to perform at the opening ceremony of the 2012 Taipei Flower Expo.   
 ##### 答案 was invited  
-
+  
 ##### 题目  
 This training program can give you a lift at work, as good as increase your income by 40%.  
 ##### 答案 good → well  
-
-
+  
 
 # ***well*** adj  重难点词汇
 ---
@@ -3302,16 +2381,6 @@ This training program can give you a lift at work, as good as increase your inco
 > I don’t feel very well today.   
 > 我今天感觉不太舒服。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***well*** int  重难点词汇
 ---
@@ -3326,16 +2395,6 @@ This training program can give you a lift at work, as good as increase your inco
 1. *高义频：* **是啊；那么；嗯；哎呀**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***well-behaved*** adj
 ---
@@ -3348,16 +2407,6 @@ This training program can give you a lift at work, as good as increase your inco
 ---
 1. **很乖的；行为端正的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***well-being*** n
@@ -3376,16 +2425,6 @@ This training program can give you a lift at work, as good as increase your inco
 > For your own safety and the well-being of the animals, please do not feed wildlife.    
 > 为了您自身的安全和动物的健康，请不要喂野生动物。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***well-dressed*** adj
 ---
@@ -3399,16 +2438,6 @@ This training program can give you a lift at work, as good as increase your inco
 1. **穿着入时的；穿着考究的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***well-educated*** adj
 ---
@@ -3421,16 +2450,6 @@ This training program can give you a lift at work, as good as increase your inco
 ---
 1. **受过良好教育的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***well-known*** adj
@@ -3460,16 +2479,6 @@ This training program can give you a lift at work, as good as increase your inco
 > He is well-known as an artist.   
 > 他是一个著名的艺术家。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***well-off*** adj
 ---
@@ -3482,16 +2491,6 @@ This training program can give you a lift at work, as good as increase your inco
 ---
 1. **富有的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***west*** n
@@ -3514,16 +2513,6 @@ This training program can give you a lift at work, as good as increase your inco
 > The sun rises in the east and sets in the west.  
 > 太阳从东方升起，在西方落下。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***west*** adj
 ---
@@ -3543,16 +2532,6 @@ This training program can give you a lift at work, as good as increase your inco
 > a west wind  
 > 一阵西风
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***west*** adv
 ---
@@ -3568,16 +2547,6 @@ This training program can give you a lift at work, as good as increase your inco
 
 > He sat facing west, watching the sun go down.  
 > 他面朝西坐着，看着太阳落山。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***western*** adj
@@ -3601,16 +2570,10 @@ This training program can give you a lift at work, as good as increase your inco
 > Western culture / nation  
 > 西方国家的文化/民族
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 westerner /'westənə(r)/ n [C] 
-真题解析
----
-[null]
-
 
 # ***westward*** adj & adv
 ---
@@ -3630,16 +2593,6 @@ westerner /'westənə(r)/ n [C]
 > The plane took off westward.  
 > 飞机向西起飞。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***westwards*** adj & adv
 ---
@@ -3658,16 +2611,6 @@ westerner /'westənə(r)/ n [C]
 
 > The plane took off westward.  
 > 飞机向西起飞。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wet*** adj
@@ -3689,16 +2632,6 @@ westerner /'westənə(r)/ n [C]
 > Generally speaking, I do not like wet weather.  
 > 总的来说，我不喜欢下雨天。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***whale*** n
 ---
@@ -3713,16 +2646,6 @@ westerner /'westənə(r)/ n [C]
 1. *高义频：* **鲸**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wharf*** n
 ---
@@ -3736,16 +2659,6 @@ westerner /'westənə(r)/ n [C]
 ---
 1. *高义频：* **(pl wharves) 码头**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***what*** pron
@@ -3784,6 +2697,7 @@ westerner /'westənə(r)/ n [C]
 > Wisdom is to the mind what health is to the body.  
 > 智慧之于头脑，犹如健康之于身体。
 
+
 固定搭配
 ---
 - #### (and) what is more
@@ -3810,36 +2724,33 @@ westerner /'westənə(r)/ n [C]
 > What if the train is late?   
 > 火车要是晚点怎么办？
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 My classmates and I are talking about how to do during the holiday.  
 ##### 答案 how → what 或during前加it  
-
+  
 ##### 题目  
 A ship in harbor is safe, but that’s not _______ ships are built for.   
 ##### 答案 what  
-
+  
 ##### 题目  
 Reading her biography, I was lost in admiration for _______ Doris Lessing had achieved in literature.   
 ##### 答案 what  
-
+  
 ##### 题目  
 If you swim in a river or lake, be sure to investigate _______ is below the water surface. Often there are rocks or branches hidden in the water.   
 ##### 答案 what  
-
+  
 ##### 题目  
 ________ I want to tell you is the deep love and respect I have for my parents.  
 ##### 答案 What  
-
+  
 ##### 题目  
 _______ a strange plant! I’ve never seen it before.   
 ##### 答案 What  
-
-
+  
 
 # ***what*** adj
 ---
@@ -3861,16 +2772,6 @@ _______ a strange plant! I’ve never seen it before.
 
 > What a great place to stay in!  
 > 多么好的一个居住地啊！
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***whatever*** pron
@@ -3909,6 +2810,7 @@ _______ a strange plant! I’ve never seen it before.
 > The building must be saved, whatever the cost.   
 > 无论代价有多大，这座建筑必须要保留。
 
+
 固定搭配
 ---
 - #### or whatever 
@@ -3918,9 +2820,7 @@ _______ a strange plant! I’ve never seen it before.
 > I can share with her our traveling experiences, taking care of pets, or whatever we have in common.   
 > 我可以跟她分享我们的旅行经历，怎样照顾宠物或任何我们有共同之处的事情。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3930,17 +2830,16 @@ B.whenever
 C.wherever  
 D.however  
 ##### 答案 A  
-
+  
 ##### 题目  
-— How about camping this weekend, just for a change?
-
+— How about camping this weekend, just for a change?
 — OK, ________ you want.   
 A.whichever  
 B.however  
 C.whatever  
 D.whoever  
 ##### 答案 C  
-
+  
 ##### 题目  
 The lawyer seldom wears anything other than a suit ________ the season.  
 A.whatever  
@@ -3948,7 +2847,7 @@ B.wherever
 C.whenever  
 D.however  
 ##### 答案 A  
-
+  
 ##### 题目  
 ________ tomorrow, our ship will set sail for Macao.  
 A.However the weather is like  
@@ -3956,8 +2855,7 @@ B.However is the weather like
 C.Whatever is the weather like  
 D.Whatever the weather is like  
 ##### 答案 D  
-
-
+  
 
 # ***whatever*** adj
 ---
@@ -3977,16 +2875,6 @@ D.Whatever the weather is like
 > Whatever dictionary you have, lend it to me.   
 > 不管你有什么字典，借给我。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***whatever*** adv
 ---
@@ -4003,16 +2891,6 @@ D.Whatever the weather is like
 > We told him we’d back him whatever.   
 > 我们告诉他，不管发生什么事我们都会支持他。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wheat*** n
 ---
@@ -4026,16 +2904,6 @@ D.Whatever the weather is like
 ---
 1. *高义频：* **小麦**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wheel*** n
@@ -4051,16 +2919,6 @@ D.Whatever the weather is like
 1. *高义频：* **车轮；方向盘**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wheelchair*** n
 ---
@@ -4074,16 +2932,6 @@ D.Whatever the weather is like
 ---
 1. *高义频：* **轮椅**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***when*** adv
@@ -4120,23 +2968,17 @@ D.Whatever the weather is like
 > The last time I went to Scotland was in May, when the weather was beautiful.   
 > 我上次去苏格兰是在五月份，那时的天气好极了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Exactly ________ the potato was introduced into Europe is uncertain, but it was probably around 1565.  
 ##### 答案 when  
-
+  
 ##### 题目  
 As the smallest child of his family, Alex is always longing for the time _______ he should be able to be independent.   
 ##### 答案 when  
-
-
+  
 
 # ***when*** conj
 ---
@@ -4187,23 +3029,17 @@ As the smallest child of his family, Alex is always longing for the time _______
 > She claimed to be 18, when I knew she was only 16.  
 > 她自称18岁，可是据我所知她才16岁。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 It was April 29, 2011 _______ Prince William and Kate Middleton walked into the palace hall of the wedding ceremony.   
 ##### 答案 when  
-
+  
 ##### 题目  
 She had just finished her homework ________ her mother asked her to practise playing the piano yesterday.  
 ##### 答案 when  
-
-
+  
 
 # ***when*** pron
 ---
@@ -4226,19 +3062,13 @@ She had just finished her homework ________ her mother asked her to practise pla
 > We came back on Tuesday, since when we have been working in the repair shop.   
 > 我们星期二回来的，从那时起就一直在修理车间工作。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The last time we had great fun was ________ we were visiting the Water Park.  
 ##### 答案 when  
-
-
+  
 
 # ***whenever*** conj
 ---
@@ -4265,12 +3095,7 @@ The last time we had great fun was ________ we were visiting the Water Park.
 > When I was a child, I could watch TV whenever I wanted to.  
 > 我小的时候，无论什么时候想看电视都能看。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4280,7 +3105,7 @@ B.Whenever
 C.Whoever  
 D.However  
 ##### 答案 B  
-
+  
 ##### 题目  
 The map is one of the best tools a man has ________ he goes to a new place.  
 A.whenever  
@@ -4288,8 +3113,7 @@ B.whatever
 C.wherever  
 D.however  
 ##### 答案 A  
-
-
+  
 
 # ***whenever*** adv
 ---
@@ -4306,16 +3130,6 @@ D.however
 
 > Whenever did I make such a promise?   
 > 我究竟什么时候许过这样的诺言？
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***where*** adv
@@ -4364,35 +3178,29 @@ D.however
 > What are some situations where body language is the only form of communication?    
 > 在哪些情况下肢体语言是唯一的沟通方式？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 My uncle is the owner of a restaurant close to that I live.  
 ##### 答案 that → where  
-
+  
 ##### 题目  
  ________he once felt like giving up, he now has the determination to push further and keep on going.  
 ##### 答案 Where  
-
+  
 ##### 题目  
 Opposite is St. Paul’s Church, ________ you can hear some lovely music.  
 ##### 答案 where  
-
+  
 ##### 题目  
 The boss of the company is trying to create an easy atmosphere ________ his employees enjoy their work.  
 ##### 答案 where  
-
+  
 ##### 题目  
 You have to know ________ you’re going if you are to plan the best way of getting there.  
 ##### 答案 where  
-
-
+  
 
 # ***where*** conj
 ---
@@ -4424,16 +3232,6 @@ You have to know ________ you’re going if you are to plan the best way of gett
 > Where there is a will, there is a way.   
 > 有志者，事竟成。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***where*** pron
 ---
@@ -4454,16 +3252,6 @@ You have to know ________ you’re going if you are to plan the best way of gett
 > — Where to?  
 > 去哪里？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***whereabouts*** adv
 ---
@@ -4476,16 +3264,6 @@ You have to know ________ you’re going if you are to plan the best way of gett
 ---
 1. **在哪里**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***whereas*** conj
@@ -4503,16 +3281,6 @@ You have to know ________ you’re going if you are to plan the best way of gett
 
 > He must be about sixty, whereas his wife looks about thirty.   
 > 他肯定六十岁左右，而他妻子看起来只有大约三十岁。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wherever*** conj
@@ -4534,12 +3302,7 @@ You have to know ________ you’re going if you are to plan the best way of gett
 > Keep in touch with family members wherever you are in the world.    
 > 不管你在世界上的什么地方，都要跟家人保持联系。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4549,8 +3312,7 @@ B.whoever
 C.wherever  
 D.whichever  
 ##### 答案 C  
-
-
+  
 
 # ***wherever*** adv
 ---
@@ -4567,16 +3329,6 @@ D.whichever
 
 > Wherever did you find that beautiful sweater?   
 > 你到底在哪里发现那件漂亮的毛衣的？
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***whether*** conj
@@ -4630,27 +3382,21 @@ whether 的以上用法中，只有引导宾语从句时可以与if 互换，但
 > Quality input ensures quality output, whether it is speaking or writing.   
 > 不管是说还是写，高质量的输入才能确保高质量的输出。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 It remains to be seen ________ the newly formed committee’s policy can be put into practice.  
 ##### 答案 whether / if  
-
+  
 ##### 题目  
 Everyone in the village is very friendly. It doesn’t matter ________ you have lived there for a short or a long time.  
 ##### 答案 whether  
-
+  
 ##### 题目  
 All people, ________ they are old or young, rich or poor, have been trying their best to help those in need since the disaster.  
 ##### 答案 whether  
-
-
+  
 
 # ***which*** pron
 ---
@@ -4699,26 +3445,21 @@ All people, ________ they are old or young, rich or poor, have been trying their
 
 ### 辨析 as, which
 二者都可引导非限制性定语从句，指代主句的全部或部分，作从句中的主语或宾语，其用法、意义区别如下：
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Scientists have advanced many theories about why human beings cry tears, none of ________ has been proved.  
 ##### 答案 which  
-
+  
 ##### 题目  
 China Today attracts a worldwide readership, ________ shows that more and more people all over the world want to learn about China.  
 ##### 答案 which  
-
+  
 ##### 题目  
 Creating an atmosphere ________ which employees fell part of a team is a big challenge.  
 ##### 答案 in  
-
+  
 ##### 题目  
 The exact year ________ Angela and her family spent together in China was 2008.  
 A.when   
@@ -4726,8 +3467,7 @@ B.where
 C.why   
 D.which  
 ##### 答案 D  
-
-
+  
 
 # ***which*** adj
 ---
@@ -4746,16 +3486,6 @@ D.which
 
 > Which university did you go to, Oxford or Cambridge?  
 > 你去的是哪所大学，牛津还是剑桥?
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***whichever*** pron
@@ -4788,12 +3518,7 @@ D.which
 > Whichever they choose, we must accept their decision.  
 > 无论他们如何选择，我们都必须接受他们的决定。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4803,8 +3528,7 @@ B.whichever
 C.whenever  
 D.wherever  
 ##### 答案 B  
-
-
+  
 
 # ***whichever*** adj
 ---
@@ -4827,12 +3551,7 @@ D.wherever
 > You will be there by 5, whichever train you take.  
 > 无论你乘坐哪趟火车，5点前都可以到那儿。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4842,8 +3561,7 @@ B.Whatever
 C.whichever  
 D.Wherever  
 ##### 答案 C  
-
-
+  
 
 # ***while*** conj
 ---
@@ -4884,24 +3602,18 @@ D.Wherever
 > While there’s life there’s hope.  
 > 只要活着就有希望。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
-Give your body and brain a rest by stepping outside for________ while, exercising, or doing something you enjoy.
-
-
+Give your body and brain a rest by stepping outside for________ while, exercising, or doing something you enjoy.
+  
 ##### 答案 a  
-
+  
 ##### 题目  
 ________ (尽管) the students came from different countries, they got along quite well in the summer camp.  
 ##### 答案 While / Although / Though  
-
+  
 ##### 题目  
 There’s no way of knowing why one man makes an important discovery ________ another man, also intelligent, fails.  
 A.since  
@@ -4909,12 +3621,11 @@ B.if
 C.as  
 D.while  
 ##### 答案 D  
-
+  
 ##### 题目  
 Mary made coffee ________ her guests were finishing their meal.  
 ##### 答案 while  
-
-
+  
 
 # ***while*** n
 ---
@@ -4941,16 +3652,6 @@ Mary made coffee ________ her guests were finishing their meal.
 > The file may take a short while to download.  
 > 下载这个文件可能需要点儿时间。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***whilst*** conj
 ---
@@ -4963,16 +3664,6 @@ Mary made coffee ________ her guests were finishing their meal.
 ---
 1. **=while**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***whip*** n
@@ -4987,16 +3678,6 @@ Mary made coffee ________ her guests were finishing their meal.
 ---
 1. *高义频：* **鞭子**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***whip*** vt
@@ -5014,16 +3695,6 @@ Mary made coffee ________ her guests were finishing their meal.
 > whipped a horse on   
 > 策马前行
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***whirlpool*** n
 ---
@@ -5037,16 +3708,6 @@ Mary made coffee ________ her guests were finishing their meal.
 1. **漩涡**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***whisker*** n
 ---
@@ -5059,16 +3720,6 @@ Mary made coffee ________ her guests were finishing their meal.
 ---
 1. **（猫的）胡须；触须**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***whisper*** v
@@ -5090,23 +3741,17 @@ Mary made coffee ________ her guests were finishing their meal.
 > You’ll have to whisper or he’ll hear you.   
 > 你得小声说，否则他会听到的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 What are you girls ________ (耳语) about?  
 ##### 答案 whispering  
-
+  
 ##### 题目  
 Mum whispered_________ us, “Be quiet! Your little sister’s sleeping.”   
 ##### 答案 to   
-
-
+  
 
 # ***whisper*** n
 ---
@@ -5124,16 +3769,6 @@ Mum whispered_________ us, “Be quiet! Your little sister’s sleeping.”
 > **in a whisper**  
 > speak in a whisper   
 > 低声说话
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***whistle*** n
@@ -5157,16 +3792,6 @@ Mum whispered_________ us, “Be quiet! Your little sister’s sleeping.”
 > The lifeguard blew his whistle.  
 > 救生员吹响了哨子。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***whistle*** vi
 ---
@@ -5186,16 +3811,6 @@ Mum whispered_________ us, “Be quiet! Your little sister’s sleeping.”
 > You probably sing or whistle when you are happy.  
 > 当你高兴的时候，很可能会唱歌或吹口哨。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***white*** adj
 ---
@@ -5212,16 +3827,6 @@ Mum whispered_________ us, “Be quiet! Your little sister’s sleeping.”
 > His face was white with fear.  
 > 他吓得脸色苍白。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***white*** n
 ---
@@ -5234,16 +3839,6 @@ Mum whispered_________ us, “Be quiet! Your little sister’s sleeping.”
 ---
 1. *高义频：* **[U] 白色；[C] 白种人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***who*** pron
@@ -5289,27 +3884,21 @@ who还可用于强调句型 it is / was ... who ...，此时被强调部分是�
 > It was Charles Dickens who wrote the novel Oliver Twist.  
 > 《雾都孤儿》这部小说是查尔斯·狄更斯写的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Happiness and success often come to those ________ are good at recognizing their own strengths.  
 ##### 答案 who  
-
+  
 ##### 题目  
 After the flooding, people were suffering in that area, ________ urgently needed clean water, medicine and shelter to survive.  
 ##### 答案 who  
-
+  
 ##### 题目  
 How much one enjoys himself travelling depends largely on ________ he goes with, whether his friends or relatives.  
 ##### 答案 who / whom  
-
-
+  
 
 # ***whoever*** pron
 ---
@@ -5341,12 +3930,7 @@ How much one enjoys himself travelling depends largely on ________ he goes with,
 > To show our respect, we usually have to take our gloves off whoever we are to shake hands with.  
 > 为表示我们的敬意，通常无论我们要和谁握手都必须脱下手套。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -5356,7 +3940,7 @@ B.whom
 C.whoever  
 D.whomever  
 ##### 答案 C  
-
+  
 ##### 题目  
 When you are done with the book, just give it to Lucy or Helen or ________.  
 A.whoever  
@@ -5364,7 +3948,7 @@ B.wherever
 C.Whatever  
 D.however  
 ##### 答案 A  
-
+  
 ##### 题目  
 The how-to book can be of help to ________ wants to do the job.  
 A.who  
@@ -5372,8 +3956,7 @@ B.whomever
 C.no matter who  
 D.whoever  
 ##### 答案 D  
-
-
+  
 
 # ***whole*** adj
 ---
@@ -5399,16 +3982,6 @@ D.whoever
 > a whole cake  
 > 整个蛋糕
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***whole*** n
 ---
@@ -5429,6 +4002,7 @@ D.whoever
 > Nature is a whole.  
 > 自然界是一个统一体。
 
+
 固定搭配
 ---
 - #### as a whole 
@@ -5444,13 +4018,6 @@ D.whoever
 
 > On the whole the warming of the earth is a phenomenon that causes great concern.  
 > 总的说来，地球变暖是一个引起极大关注的现象。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***whom*** pron
@@ -5496,31 +4063,25 @@ D.whoever
 > Many people, some of whom are not overweight, are going on diets.    
 > 许多人在节食，可其中有些人并没有超重。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Many young people, most of ________ were well-educated, headed for remote regions to chase their dreams.  
 ##### 答案 whom  
-
+  
 ##### 题目  
 Have you sent thank-you notes to the relatives from ________ you received gifts?  
 ##### 答案 whom  
-
+  
 ##### 题目  
 In our class there are 46 students, ________ whom half wear glasses.  
 ##### 答案 of  
-
+  
 ##### 题目  
 She brought with her three friends, none of ________ I had ever met before.  
 ##### 答案 whom  
-
-
+  
 
 # ***whose*** pron
 ---
@@ -5559,27 +4120,21 @@ She brought with her three friends, none of ________ I had ever met before.
 > The school shop, whose customers are mainly students, is closed for the holidays.  
 > 这个学校商店的顾客主要是学生，它在假期时不营业。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I live next door to a couple ________ children often make a lot of noise.  
 ##### 答案 whose  
-
+  
 ##### 题目  
 The books on the desk, ________ covers are shiny, are prizes for us.  
 ##### 答案 whose  
-
+  
 ##### 题目  
 I wish to thank Professor Smith, without ________ help I would never have got this far.  
 ##### 答案 whose  
-
-
+  
 
 # ***why*** adv
 ---
@@ -5614,6 +4169,7 @@ I wish to thank Professor Smith, without ________ help I would never have got th
 > This is probably the number one reason why this class is so popular.   
 > 这很可能是这门课如此受欢迎的首要原因。
 
+
 固定搭配
 ---
 - #### why not
@@ -5636,23 +4192,19 @@ I wish to thank Professor Smith, without ________ help I would never have got th
 1. **为什么是某人？**  
 
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
-— Let’s go to the New Year’s Eve party, shall we?
-
+— Let’s go to the New Year’s Eve party, shall we?
 — ________ (为什么不)? I guess it will be fun.  
 ##### 答案 Why not  
-
+  
 ##### 题目  
-— Jim, can you work this Sunday?
-
+— Jim, can you work this Sunday?
 — ________(为什么是我)?  I’ve been working for two weeks on end.  
 ##### 答案 Why me  
-
+  
 ##### 题目  
 The exhibition tells us ________ we should do something to stop air pollution.  
 A.where  
@@ -5660,14 +4212,12 @@ B.why
 C.what  
 D.which  
 ##### 答案 B  
-
+  
 ##### 题目  
-— Is it true that Mike refused an offer from Yale University yesterday?
-
+— Is it true that Mike refused an offer from Yale University yesterday?
 — Yeah, but I have no idea ________ he did it; that’s one of his favorite universities.  
 ##### 答案 why  
-
-
+  
 
 # ***why*** int
 ---
@@ -5684,16 +4234,6 @@ D.which
 > Why, look who’s here!  
 > 哎呀，看看这是谁！
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wicked*** adj
 ---
@@ -5706,16 +4246,6 @@ D.which
 ---
 1. **邪恶的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wide*** adj
@@ -5758,16 +4288,6 @@ D.which
 > Jenny has a wide circle of friends.  
 > 珍妮交友广泛。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wide*** adv
 ---
@@ -5794,16 +4314,10 @@ D.which
 
 ### 辨析 wide, widely
 二者均可作副词。
-固定搭配
----
-[null]
+
 派生词汇
 ---
 widen /'waɪdn/ v 
-真题解析
----
-[null]
-
 
 # ***wide-eyed*** adj
 ---
@@ -5816,16 +4330,6 @@ widen /'waɪdn/ v
 ---
 1. **睁大眼睛的；吃惊的；天真的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***widely*** adv
@@ -5858,19 +4362,13 @@ widen /'waɪdn/ v
 > The two books are widely different.  
 > 这两本书截然不同。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 China Daily is ________ (广泛地) read in North America.  
 ##### 答案 widely  
-
-
+  
 
 # ***widen*** v
 ---
@@ -5883,16 +4381,6 @@ China Daily is ________ (广泛地) read in North America.
 ---
 1. **加宽；使变宽；扩大**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***widespread*** adj
@@ -5917,16 +4405,6 @@ China Daily is ________ (广泛地) read in North America.
 > The high cost prohibits the widespread use of the drug.   
 > 这种药品因价格昂贵而不能广泛使用。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***widow*** n
 ---
@@ -5940,16 +4418,6 @@ China Daily is ________ (广泛地) read in North America.
 ---
 1. *高义频：* **寡妇**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***width*** n
@@ -5975,16 +4443,6 @@ China Daily is ________ (广泛地) read in North America.
 > What’s the width of the Thames at London?   
 > 泰晤士河在伦敦地区的宽度是多少?
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wife*** n
 ---
@@ -5998,16 +4456,6 @@ China Daily is ________ (广泛地) read in North America.
 ---
 1. *高义频：* **妻子**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wild*** adj
@@ -6048,16 +4496,10 @@ China Daily is ________ (广泛地) read in North America.
 > His rock music makes the audience go wild.   
 > 他的摇滚乐使听众疯狂。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 wildly /'waɪldli/ adv 
-真题解析
----
-[null]
-
 
 # ***wild*** n
 ---
@@ -6076,16 +4518,6 @@ wildly /'waɪldli/ adv
 > He went to Africa to see lions, giraffes, and elephants in the wild.   
 > 他到非洲去看野外的狮子、长颈鹿和大象。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wildlife*** n
 ---
@@ -6099,16 +4531,6 @@ wildly /'waɪldli/ adv
 ---
 1. *高义频：* **野生生物**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***will*** n
@@ -6138,6 +4560,7 @@ wildly /'waɪldli/ adv
 > make a will   
 > 立遗嘱
 
+
 固定搭配
 ---
 - #### against one’s will 
@@ -6153,13 +4576,6 @@ wildly /'waɪldli/ adv
 
 > They could travel at will, and the clock was not their master.   
 > 他们能随意旅行，不受时间支配。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***will*** modal v
@@ -6205,12 +4621,7 @@ wildly /'waɪldli/ adv
 > She’ll listen to music, alone in her room, for hours.   
 > 她总是独自一个人在房间听音乐，一听就是几个小时。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -6220,26 +4631,23 @@ B.couldn’t
 C.wouldn’t  
 D.mightn’t  
 ##### 答案 C  
-
+  
 ##### 题目  
-— Goodbye, John. Come back again sometime.
-
+— Goodbye, John. Come back again sometime.
 — Sure. I ________.   
 A.I did  
 B.I do  
 C.I shall  
 ##### 答案 will  
-
+  
 ##### 题目  
-— Mr Gordon asked me to remind you of the meeting this afternoon. Don’t you forget it!
-
+— Mr Gordon asked me to remind you of the meeting this afternoon. Don’t you forget it!
 — OK, I ________.  
 B.don’t  
 C.will  
 D.do  
 ##### 答案 won’t  
-
-
+  
 
 # ***willing*** adj
 ---
@@ -6264,17 +4672,11 @@ D.do
 > a willing helper  
 > 自愿帮助别人的人
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
  willingly  /'wɪlɪŋli/ adv 
 willingness /'wɪlɪŋnəs/ n [U] 
-真题解析
----
-[null]
-
 
 # ***willow*** n
 ---
@@ -6287,16 +4689,6 @@ willingness /'wɪlɪŋnəs/ n [U]
 ---
 1. **柳树**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***win*** v
@@ -6334,16 +4726,10 @@ willingness /'wɪlɪŋnəs/ n [U]
 > He is a good teacher and wins respect from his students.  
 > 他是一名好老师，赢得了学生们的尊重。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 winning /winning/ adj [只用于名词前]
-真题解析
----
-[null]
-
 
 # ***wind*** n
 ---
@@ -6360,16 +4746,6 @@ winning /winning/ adj [只用于名词前]
 
 > strong / high winds   
 > 大风
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wind*** v
@@ -6404,18 +4780,12 @@ winning /winning/ adj [只用于名词前]
 > Highway 90 winds its way along the coast.  
 > 90号高速公路沿着海岸线蜿蜒而去。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 winding  /winding/ adj 
 > a winding path  
 > 蜿蜒的小路
-
-真题解析
----
-[null]
 
 
 # ***window*** n
@@ -6434,16 +4804,6 @@ winding  /winding/ adj
 > The thief entered by / through the window.   
 > 小偷从窗户进来的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***windsurfing*** n
 ---
@@ -6457,16 +4817,6 @@ winding  /winding/ adj
 1. **风帆滑浪**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***windy*** adj
 ---
@@ -6479,16 +4829,6 @@ winding  /winding/ adj
 ---
 1. *高义频：* **有风的；风大的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wine*** n
@@ -6504,16 +4844,6 @@ winding  /winding/ adj
 1. *高义频：* **葡萄酒；酒**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wing*** n
 ---
@@ -6527,16 +4857,6 @@ winding  /winding/ adj
 ---
 1. *高义频：* **翅膀；机翼**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***winner*** n
@@ -6552,16 +4872,6 @@ winding  /winding/ adj
 1. *高义频：* **获胜者；成功者**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***winning*** adj
 ---
@@ -6574,16 +4884,6 @@ winding  /winding/ adj
 ---
 1. **制胜的，获胜的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***winter*** n
@@ -6602,16 +4902,6 @@ winding  /winding/ adj
 > **in ( the ) winter**  
 > in ( the ) winter   
 > 在冬季
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wipe*** vt
@@ -6652,6 +4942,7 @@ winding  /winding/ adj
 > Don’t wipe the scales off the fish.   
 > 不要把鱼鳞剔除。
 
+
 固定搭配
 ---
 - #### wipe out 
@@ -6660,13 +4951,6 @@ winding  /winding/ adj
 
 > A volcanic eruption nearly wiped out the small island of Montserrat in 1997.   
 > 1997年的一次火山喷发差点把蒙塞拉特这个小岛给毁灭了。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wire*** n
@@ -6682,16 +4966,6 @@ winding  /winding/ adj
 1. *高义频：* **金属丝 / 线；电线；电话线**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wireless*** adj
 ---
@@ -6704,16 +4978,6 @@ winding  /winding/ adj
 ---
 1. *高义频：* **无线的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wisdom*** n
@@ -6734,16 +4998,6 @@ winding  /winding/ adj
 
 > We are inspired by his wisdom and virtue to nobler deed.  
 > 他的智慧和美德激励着我们，使我们的行为更加高尚。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wise*** adj
@@ -6775,16 +5029,6 @@ winding  /winding/ adj
 > It is wise to have some money put away for old age.  
 > 存钱养老是明智之举。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wisely*** adv
 ---
@@ -6797,16 +5041,6 @@ winding  /winding/ adj
 ---
 1. *高义频：* **明智地；精明地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wish*** v
@@ -6865,23 +5099,17 @@ winding  /winding/ adj
 > I wish you every success.   
 > 祝你万事如意。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Ellen is a fantastic dancer. I wish I ________ (dance) as well as her.  
 ##### 答案 danced  
-
+  
 ##### 题目  
 I wish I ________ (be) at my sister’s wedding last Tuesday, but I was on a business trip in New York then.  
 ##### 答案 had been  
-
-
+  
 
 # ***wish*** n
 ---
@@ -6906,16 +5134,6 @@ I wish I ________ (be) at my sister’s wedding last Tuesday, but I was on a bus
 
 ### 辨析 desire, wish, want
 三者都含有“想”、“希望”之意。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***witch*** n
 ---
@@ -6928,16 +5146,6 @@ I wish I ________ (be) at my sister’s wedding last Tuesday, but I was on a bus
 ---
 1. **女巫，巫婆**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***with*** prep
@@ -7034,22 +5242,17 @@ I wish I ________ (be) at my sister’s wedding last Tuesday, but I was on a bus
 > The workforce is made up of 400 workers, with most of them women.   
 > 职工一共400人，其中大多数是女性。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 In India, for example, most people traditionally eat ________ their hands.  
 ##### 答案 with  
-
+  
 ##### 题目  
 The Scottish girl ________ blue eyes won the first prize in the Fifth Chinese Speech Contest.  
 ##### 答案 with  
-
+  
 ##### 题目  
 The wine industry in the area has developed in a special way, ________little foreign ownership.   
 A.by   
@@ -7057,12 +5260,11 @@ B.of
 C.with   
 D.from  
 ##### 答案 C  
-
+  
 ##### 题目  
 You have no idea how she finished the relay race ________her foot wounded so much.  
 ##### 答案 with  
-
-
+  
 
 # ***withdraw*** v
 ---
@@ -7091,16 +5293,6 @@ You have no idea how she finished the relay race ________her foot wounded so muc
 > I made the choice to withdraw from college to care for her.  
 > 我选择了退学来照顾她。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***withdrawal*** n
 ---
@@ -7114,16 +5306,6 @@ You have no idea how she finished the relay race ________her foot wounded so muc
 ---
 1. *高义频：* **收回；撤退；戒毒 (或脱瘾) 过程**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***within*** prep
@@ -7148,12 +5330,7 @@ You have no idea how she finished the relay race ________her foot wounded so muc
 > Should they keep their conclusion within the team or share it with other employees?   
 > 他们是应该将结论保留在团队内，还是与其他员工分享？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -7162,8 +5339,7 @@ A.near
 B.upon  
 D.around  
 ##### 答案 within   
-
-
+  
 
 # ***without*** prep
 ---
@@ -7183,12 +5359,7 @@ D.around
 > She went to the party without being invited.   
 > 她未受到邀请就去参加了聚会
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -7198,7 +5369,7 @@ B.before
 C.beyond   
 D.without  
 ##### 答案 D  
-
+  
 ##### 题目  
 ________passion, people won’t have the motivation or the joy necessary for creative thinking.   
 A.For   
@@ -7206,8 +5377,7 @@ B.Without
 C.Beneath   
 D.By  
 ##### 答案 B  
-
-
+  
 
 # ***witness*** n
 ---
@@ -7225,18 +5395,12 @@ D.By
 > We have a witness to the killing.   
 > 我们有一位这起杀人案的目击者。
 
+
 固定搭配
 ---
 - #### be (a) witness to
 1. **是…的目击者；是…的见证人**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***witness*** vt
@@ -7257,16 +5421,6 @@ D.By
 > The year 1849 witnessed a great war in that country.   
 > 1849年那个国家发生了一场大战。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wizard*** n
 ---
@@ -7280,16 +5434,6 @@ D.By
 ---
 1. *高义频：* **巫师；能手；奇才**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wolf*** n
@@ -7305,16 +5449,6 @@ D.By
 1. *高义频：* **狼**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***woman*** n
 ---
@@ -7328,16 +5462,6 @@ D.By
 ---
 1. *高义频：* **妇女；女人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wonder*** v  重难点词汇
@@ -7371,6 +5495,7 @@ D.By
 > Do you ever stop to wonder why you’re going to college?  
 > 你停下来想过为什么要上大学吗？
 
+
 固定搭配
 ---
 - #### I wonder if / whether
@@ -7382,13 +5507,6 @@ D.By
 
 > I was wondering if we could have lunch together  
 > 不知道我们是否能一起吃午饭。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wonder*** n  重难点词汇
@@ -7422,6 +5540,7 @@ D.By
 > Jim, you’re a wonder! I would never have thought of doing that.   
 > 吉姆，你真是个人才！我怎么也想不到可以那么做。
 
+
 固定搭配
 ---
 - #### (it is) no wonder (that)
@@ -7433,13 +5552,6 @@ D.By
 
 > Her child is missing. It is no wonder that she is so upset.  
 > 她的孩子不见了，难怪她如此心神不宁。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wonder*** adj  重难点词汇
@@ -7457,20 +5569,14 @@ D.By
 > Do you believe that “wonder drugs” will be invented to treat diseases like AIDS in the future?   
 > 你相信未来将会研制出“灵丹妙药”来治疗像艾滋病这样的疾病吗？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 He hasn’t slept at all for three days. ________ (难怪) he is tired out.  
 A.	  
 ##### 答案 It is no wonder / No wonder  
-
-
+  
 
 # ***wonderful*** adj
 ---
@@ -7490,16 +5596,6 @@ A.
 > The human brain is a wonderful organ.   
 > 人的大脑是一个奇妙的器官。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wonderland*** n
 ---
@@ -7512,16 +5608,6 @@ A.
 ---
 1. **(故事中的) 仙境,奇境**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wood*** n
@@ -7542,16 +5628,6 @@ A.
 > **the woods**  
 > As kids, my friends and I spent a lot of time out in the woods.   
 > 小时候，我和朋友们经常在树林里玩。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wooden*** adj
@@ -7575,16 +5651,6 @@ A.
 > wooden movements   
 > 僵硬的动作
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wool*** n
 ---
@@ -7598,16 +5664,6 @@ A.
 ---
 1. *高义频：* **羊毛；毛线；羊毛织物**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wool(l)en*** adj
@@ -7625,16 +5681,6 @@ A.
 > She is wearing a woolen coat.   
 > 她穿着一件羊毛外套。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***woolen*** adj
 ---
@@ -7651,16 +5697,6 @@ A.
 > She is wearing a woolen coat.   
 > 她穿着一件羊毛外套。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***woollen*** adj
 ---
@@ -7676,16 +5712,6 @@ A.
 
 > She is wearing a woolen coat.   
 > 她穿着一件羊毛外套。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***word*** n
@@ -7733,6 +5759,7 @@ A.
 > He is a man of his word.   
 > 他是个守信的人
 
+
 固定搭配
 ---
 - #### break one’s word 
@@ -7776,13 +5803,6 @@ A.
 
 > She said she would be there at seven o’ clock, and he thought she would keep her word.   
 > 她说她7点钟到，他以为她不会食言。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***work*** v  重难点词汇
@@ -7837,6 +5857,7 @@ A.
 > We won’t know how the plan works till we have tried it out.   
 > 直到我们尝试后才能知道这个计划是否行得通。
 
+
 固定搭配
 ---
 - #### work on 
@@ -7885,15 +5906,13 @@ to develop or progress, especially in a good way：
 > I go to the sports club and work out once a week.   
 > 我一周去一次体育馆锻炼。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I had as much fun sailing the seas as I now do ________ (work) with students.  
 ##### 答案 working  
-
+  
 ##### 题目  
 Marty ________ (work) really hard on his book and he thinks he’ll have finished it by Friday.  
 A.worked  
@@ -7901,12 +5920,11 @@ B.has been working
 C.had worked  
 D.has worked  
 ##### 答案 B  
-
+  
 ##### 题目  
 You can’t predict everything. Often things don’t work ________as you expect.  
 ##### 答案 out  
-
-
+  
 
 # ***work*** n  重难点词汇
 ---
@@ -7945,6 +5963,7 @@ You can’t predict everything. Often things don’t work ________as you expect.
 > a steel works   
 > 钢铁厂
 
+
 固定搭配
 ---
 - #### at work 
@@ -7964,6 +5983,7 @@ You can’t predict everything. Often things don’t work ________as you expect.
 > I was worried about whether I would be out of work.  
 > 我担心自己是否会丢掉工作。
 
+
 派生词汇
 ---
 working /'wɜːkɪŋ/ adj [只用于名词前]
@@ -7975,10 +5995,6 @@ working /'wɜːkɪŋ/ n [常用复数]
 > **workings of**  
 > the workings of the human mind  
 > 人大脑的工作方式
-
-真题解析
----
-[null]
 
 
 # ***workaholic*** n
@@ -7993,16 +6009,6 @@ working /'wɜːkɪŋ/ n [常用复数]
 1. **工作狂**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***workday*** n
 ---
@@ -8015,16 +6021,6 @@ working /'wɜːkɪŋ/ n [常用复数]
 ---
 1. **工作日**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***worker*** n
@@ -8040,16 +6036,6 @@ working /'wɜːkɪŋ/ n [常用复数]
 1. *高义频：* **工人；劳动者；工作者**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***workhouse*** n
 ---
@@ -8062,16 +6048,6 @@ working /'wɜːkɪŋ/ n [常用复数]
 ---
 1. **（英国昔日的）济贫院；贫民习艺所**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***workplace*** n
@@ -8087,16 +6063,6 @@ working /'wɜːkɪŋ/ n [常用复数]
 1. *高义频：* **工作场所；工作地点**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***workshop*** n
 ---
@@ -8110,16 +6076,6 @@ working /'wɜːkɪŋ/ n [常用复数]
 ---
 1. *高义频：* **车间；研讨会；研习班**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***world*** n
@@ -8162,6 +6118,7 @@ working /'wɜːkɪŋ/ n [常用复数]
 > When she lost her son, her entire world changed.   
 > 自从失去儿子以后，她的整个世界完全改变了。
 
+
 固定搭配
 ---
 - #### in the world
@@ -8176,13 +6133,6 @@ working /'wɜːkɪŋ/ n [常用复数]
 
 > Her eyes glaring, she shouted, “What in the world were you thinking?”  
 > 她瞪着眼睛喊道：“你究竟在想什么？”
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***worldwide*** adj
@@ -8203,16 +6153,6 @@ working /'wɜːkɪŋ/ n [常用复数]
 > Gasoline now has an almost worldwide use.   
 > 现在差不多全世界都在使用汽油。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***worldwide*** adv
 ---
@@ -8229,16 +6169,6 @@ working /'wɜːkɪŋ/ n [常用复数]
 > About 400 earthquakes occur worldwide every day.   
 > 全球每天发生大约400次地震。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***worm*** n
 ---
@@ -8252,16 +6182,6 @@ working /'wɜːkɪŋ/ n [常用复数]
 ---
 1. *高义频：* **虫；蠕虫**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***worn*** adj
@@ -8288,6 +6208,7 @@ working /'wɜːkɪŋ/ n [常用复数]
 > a worn face   
 > 一脸倦容
 
+
 固定搭配
 ---
 - #### worn out 
@@ -8299,13 +6220,6 @@ working /'wɜːkɪŋ/ n [常用复数]
 
 > I was worn out after a day of shopping.   
 > 逛了一天商店，我都累坏了。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***worn-out*** adj
@@ -8319,16 +6233,6 @@ working /'wɜːkɪŋ/ n [常用复数]
 ---
 1. *高义频：* **磨破的；穿旧的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***worried*** adj
@@ -8354,16 +6258,6 @@ working /'wɜːkɪŋ/ n [常用复数]
 > **worried that**  
 > I’m worried that something bad has happened to him.   
 > 我担心他遭遇不测。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***worry*** v
@@ -8404,16 +6298,6 @@ to be anxious or unhappy about sb or sth：
 > Frank doesn’t worry about making mistakes.  
 > 弗兰克不担心犯错。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***worry*** n
 ---
@@ -8434,16 +6318,10 @@ to be anxious or unhappy about sb or sth：
 2. *高义频：* **令人担忧的事；让人发愁的事**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 worrying /'wʌriɪŋ/ adj 
-真题解析
----
-[null]
-
 
 # ***worse*** adj
 ---
@@ -8463,19 +6341,13 @@ worrying /'wʌriɪŋ/ adj
 > The patient is worse this morning.   
 > 今早病人的病情恶化了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 It looks like the weather is changing ________ the worse . Shall we stick to our plan?   
 ##### 答案 for  
-
-
+  
 
 # ***worse*** adv
 ---
@@ -8495,6 +6367,7 @@ It looks like the weather is changing ________ the worse . Shall we stick to our
 > It is raining worse than ever.   
 > 雨下得比以往都大。
 
+
 固定搭配
 ---
 - #### worse and worse 
@@ -8503,13 +6376,6 @@ It looks like the weather is changing ________ the worse . Shall we stick to our
 
 > The weather is getting worse and worse.   
 > 天气变得越来越坏。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***worse*** n
@@ -8524,6 +6390,7 @@ It looks like the weather is changing ________ the worse . Shall we stick to our
 1. *高义频：* **更坏的事**  
 
 
+
 固定搭配
 ---
 - #### for the worse 
@@ -8532,13 +6399,6 @@ It looks like the weather is changing ________ the worse . Shall we stick to our
 
 > The sick man’s condition changed for the worse.   
 > 这位病人的病情恶化了。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***worship*** n
@@ -8554,16 +6414,6 @@ It looks like the weather is changing ________ the worse . Shall we stick to our
 1. *高义频：* **崇拜；敬神**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***worship*** v
 ---
@@ -8576,16 +6426,6 @@ It looks like the weather is changing ________ the worse . Shall we stick to our
 ---
 1. *高义频：* **崇拜；敬奉**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***worst*** adj
@@ -8606,16 +6446,6 @@ It looks like the weather is changing ________ the worse . Shall we stick to our
 > This is the worst accident for years.   
 > 这是多年来最严重的一次事故。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***worst*** adv
 ---
@@ -8631,16 +6461,6 @@ It looks like the weather is changing ________ the worse . Shall we stick to our
 
 > Of the four of us, I sang the worst.   
 > 四个人当中，我唱得最糟糕。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***worst*** n
@@ -8659,16 +6479,6 @@ It looks like the weather is changing ________ the worse . Shall we stick to our
 > **The worst of**  
 > The worst of the storm seemed to be over.   
 > 最猛烈的一阵暴风雨似乎已经过去。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***worth*** adj
@@ -8718,16 +6528,6 @@ It looks like the weather is changing ________ the worse . Shall we stick to our
 > It is worth visiting the art museum.  
 > 那个美术馆值得一去。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***worth*** n
 ---
@@ -8745,9 +6545,7 @@ It looks like the weather is changing ________ the worse . Shall we stick to our
 > millions of pounds’ worth of damage  
 > 价值数百万英镑的损失
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 worthless /'wɜːθləs/ adj 
@@ -8755,10 +6553,6 @@ worthless /'wɜːθləs/ adj
 反义词 valuable 
 
 ### 辨析 worthless, invaluable, valueless, priceless
-
-真题解析
----
-[null]
 
 
 # ***worth*** prep
@@ -8772,16 +6566,6 @@ worthless /'wɜːθləs/ adj
 ---
 1. **值得的;相当于……的价值**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***worthless*** adj
@@ -8797,16 +6581,6 @@ worthless /'wɜːθləs/ adj
 反义词 valuable 
 
 ### 辨析 worthless, invaluable, valueless, priceless
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***worthwhile*** adj
@@ -8833,19 +6607,13 @@ worthless /'wɜːθləs/ adj
 > The smile on her face made it all worthwhile.   
 > 她脸上的笑容使得这一切都很值得。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Mistakes don’t just happen; they occur for a reason. Find out the reason, and then making the mistake becomes ________ (值得的).   
 ##### 答案 worthwhile  
-
-
+  
 
 # ***worthy*** adj
 ---
@@ -8886,16 +6654,6 @@ Mistakes don’t just happen; they occur for a reason. Find out the reason, and 
 
 > The young man is worthy to be taught.   
 > 孺子可教。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***would*** modal v
@@ -8953,18 +6711,13 @@ Mistakes don’t just happen; they occur for a reason. Find out the reason, and 
 > What would you do if they should disagree?   
 > 万一他们反对，你会怎么办？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Without his wartime experiences, Hemingway ________ (不会写出) his famous novel A Farewell to Arms.  
 ##### 答案 wouldn’t have written  
-
+  
 ##### 题目  
 I still remember my happy childhood when my mother ________ take me to Disneyland at weekends.   
 A.might   
@@ -8972,11 +6725,11 @@ B.must
 C.would   
 D.should  
 ##### 答案 C  
-
+  
 ##### 题目  
 They were abroad during the months when we were carrying out the investigation, or they ________(come) to our help.  
 ##### 答案 would have come  
-
+  
 ##### 题目  
 Days later, my brother called to say he was all right, but ________say where he was.  
 A.mustn’t  
@@ -8984,7 +6737,7 @@ B.shouldn’t
 C.wouldn’t   
 D.mightn’t  
 ##### 答案 C  
-
+  
 ##### 题目  
 I’m sure you’d rather she went to school by bus, ________?   
 A.hadn’t you   
@@ -8992,8 +6745,7 @@ B.wouldn’t you
 C.aren’t I   
 D.didn’t she  
 ##### 答案 B  
-
-
+  
 
 # ***wound*** vt
 ---
@@ -9015,16 +6767,6 @@ D.didn’t she
 
 ### 辨析 damage, hurt, injure, wound
 四者皆有“伤害”之意。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wound*** n
 ---
@@ -9045,16 +6787,10 @@ D.didn’t she
 > Do not rub, as the wound may get infected.  
 > 不要擦拭，因为伤口可能会感染。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 wounded /'wuːndɪd/ adj 
-真题解析
----
-[null]
-
 
 # ***wrap*** vt
 ---
@@ -9083,16 +6819,10 @@ wounded /'wuːndɪd/ adj
 > He wrapped a scarf around his neck.   
 > 他在脖子上围了一条围巾。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 wrapping /'ræpɪŋ/ n [C] & [U]
-真题解析
----
-[null]
-
 
 # ***wreath*** n
 ---
@@ -9106,16 +6836,6 @@ wrapping /'ræpɪŋ/ n [C] & [U]
 ---
 1. *高义频：* **花圈；花冠；圈状物**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wreck*** vt
@@ -9135,16 +6855,6 @@ wrapping /'ræpɪŋ/ n [C] & [U]
 
 > The accident wrecked his health.  
 > 这次意外事故损坏了他的健康。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wreck*** n
@@ -9166,16 +6876,6 @@ wrapping /'ræpɪŋ/ n [C] & [U]
 > My car was a total wreck after the accident.   
 > 那次事故后，我的车成了一堆废铁。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wrestle*** v
 ---
@@ -9189,16 +6889,10 @@ wrapping /'ræpɪŋ/ n [C] & [U]
 1. *高义频：* **(与...) 摔跤；扭打**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 wrestling  /'reslɪŋ/ n [U] 
-真题解析
----
-[null]
-
 
 # ***wrestling*** n
 ---
@@ -9211,16 +6905,6 @@ wrestling  /'reslɪŋ/ n [U]
 ---
 1. **摔跤（运动）**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wrinkle*** n
@@ -9238,16 +6922,6 @@ wrestling  /'reslɪŋ/ n [U]
 
 > Grandfather has many wrinkles on his face.   
 > 祖父的脸上有许多皱纹。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wrinkle*** v
@@ -9268,16 +6942,6 @@ wrestling  /'reslɪŋ/ n [U]
 > His face wrinkled when he smiled.   
 > 他微笑时脸上出现了皱纹。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***wrinkled*** adj
 ---
@@ -9290,16 +6954,6 @@ wrestling  /'reslɪŋ/ n [U]
 ---
 1. **（皮肤等）布满皱纹的，具有褶皱的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wrist*** n
@@ -9314,16 +6968,6 @@ wrestling  /'reslɪŋ/ n [U]
 ---
 1. *高义频：* **腕；腕关节**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***write*** v
@@ -9349,6 +6993,7 @@ wrestling  /'reslɪŋ/ n [U]
 > Don’t forget to write to me.   
 > 记得写信给我。
 
+
 固定搭配
 ---
 - #### write back 
@@ -9365,16 +7010,17 @@ wrestling  /'reslɪŋ/ n [U]
 > I wrote down new words and added them to my collection.   
 > 我记下新单词，加入到我自己的词汇表里。
 
+
 派生词汇
 ---
 writer  /'raɪtə(r)/ n [C] 
+
 真题解析
 ---
 ##### 题目  
 The article was w ________in German and translated into Chinese.   
 ##### 答案 written  
-
-
+  
 
 # ***writer*** n
 ---
@@ -9387,16 +7033,6 @@ The article was w ________in German and translated into Chinese.
 ---
 1. **作者, 作家**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***writing*** n
@@ -9422,16 +7058,6 @@ The article was w ________in German and translated into Chinese.
 
 > writing paper  
 > 信纸
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wrong*** adj
@@ -9480,6 +7106,7 @@ The article was w ________in German and translated into Chinese.
 > This is the wrong time to make a visit.   
 > 这不是拜访的时候。
 
+
 固定搭配
 ---
 - #### What’s wrong with …?
@@ -9488,13 +7115,6 @@ The article was w ________in German and translated into Chinese.
 
 > I don’t know what’s wrong with the engine.   
 > 我不知道引擎出了什么问题。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wrong*** adv
@@ -9511,16 +7131,6 @@ The article was w ________in German and translated into Chinese.
 
 > You’ve spelt the word wrong.   
 > 你把这个单词拼错了。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***wrong*** n
@@ -9553,13 +7163,8 @@ The article was w ________in German and translated into Chinese.
 > They have done me a great wrong.   
 > 他们对我非常不公平。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
  wrongly  /'rɒŋli/ adv 
-真题解析
----
-[null]
 

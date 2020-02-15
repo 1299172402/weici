@@ -1,1121 +1,4 @@
-
-# ***A.M.*** n
----
-英音 ˌeɪ'em     美音 ˌeɪ'em
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [用于表示时间的数字后]
-
-英文释义
----
-1. **上午；午前**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***AIDS*** n
----
-英音 eɪdz     美音 eɪdz
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
-
-英文释义
----
-1. *高义频：* **艾滋病；获得性免疫缺损综合症 (Acquired Immune Deficiency Syndrome的缩写)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***ANC*** n
----
-英音 ˌeɪen'siː     美音 ˌeɪen'siː
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **非国大；非洲人国民大会；非洲民族会议 (African National Congress)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Abigail*** n
----
-英音 ˈæbiɡeil     美音 ˈæbɪˌɡel
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **阿比盖尔 (女名)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Absolutely!*** 
----
-
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **正是；当然：**  
-
-
-> — They could have told us, couldn't they?  
-> 他们本来可以告诉我们的，不是吗？
-
-> — Absolutely!   
-> 正是！
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Afghan*** n
----
-英音 'æfɡæn     美音 'æfɡæn
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **阿富汗人；阿富汗语；阿富汗毛毯**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Afghan*** adj
----
-英音 'æfɡæn     美音 'æfɡæn
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **阿富汗的；阿富汗人的；阿富汗语的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Afghanistan*** n
----
-英音 æf'ɡænɪstæn     美音 æf'ɡænɪstæn
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **阿富汗**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Africa*** n
----
-英音 'æfrɪkə     美音 'æfrɪkə
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **非洲**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***African*** n
----
-英音 'æfrɪkən     美音 'æfrɪkən
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **非洲人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***African*** adj
----
-英音 'æfrɪkən     美音 'æfrɪkən
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **非洲 (人) 的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Alaska*** n
----
-英音 əˈlæskə     美音 əˈlæskə
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **阿拉斯加 (州)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Aldebaran*** n
----
-英音 ælˈdebərən     美音 ælˈdebərən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **毕宿五；金牛座中的红色巨星**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Algeria*** n
----
-英音 æl'dʒɪəriə     美音 æl'dʒɪriə
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **阿尔及利亚**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Algerian*** n
----
-英音 æl'dʒɪəriən     美音 æl'dʒɪriən
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **阿尔及利亚人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Algerian*** adj
----
-英音 æl'dʒɪəriən     美音 æl'dʒɪriən
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **阿尔及利亚的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***America*** n
----
-英音 ə'merɪkə     美音 ə'merɪkə
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **美洲；美国**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***American*** adj
----
-英音 ə'merɪkən     美音 ə'merɪkən
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **美国的；美洲的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***American*** n
----
-英音 ə'merɪkən     美音 ə'merɪkən
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **美国人；美洲人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Amsterdam*** n
----
-英音 ˈæmstəˈdæm     美音 ˈæmstəˈdæm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **阿姆斯特丹 (荷兰首都)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Amy*** n
----
-英音 ˈemɪ     美音 ˈemɪ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **艾米 (女名)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Anglo-Saxon*** n
----
-英音 'æŋɡləʊ 'sæksn     美音 'æŋɡləʊ 'sæksn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **盎格鲁–撒克逊人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Anglo-Saxon*** adj
----
-英音 'æŋɡləʊ 'sæksn     美音 'æŋɡləʊ 'sæksn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **盎格鲁-撒克逊人的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Antarctic*** n
----
-英音 æn'tɑːktɪk     美音 æn'tɑːrktɪk
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **南极地区**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Antarctic*** adj
----
-英音 æn'tɑːktɪk     美音 æn'tɑːrktɪk
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **南极的；南极地区的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Antarctica*** n
----
-英音 æn'tɑːktɪkə     美音 æn'tɑːrktɪkə
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **南极洲**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***April*** n
----
-英音 'eɪprəl     美音 'eɪprəl
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **四月（Apr.）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Arab*** n
----
-英音 'ærəb     美音 'ærəb
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **阿拉伯人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Arab*** adj
----
-英音 'ærəb     美音 'ærəb
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **阿拉伯（人）的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Arctic*** adj
----
-英音 'ɑːktɪk     美音 'ɑːrktɪk
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [只用于名词前]
-
-英文释义
----
-1. *高义频：* **北极的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Arctic*** n
----
-英音 'ɑːktɪk     美音 'ɑːrktɪk
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [与the连用]
-
-英文释义
----
-1. *高义频：* **北极；北极圈**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Argentina*** n
----
-英音 ˌɑːdʒən'tiːnə     美音 ˌɑːrdʒən'tiːnə
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **阿根廷**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Argentinian*** n
----
-英音 ˌɑːdʒən'tɪniən     美音 ˌɑːrdʒən'tɪniən
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **阿根廷人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Argentinian*** adj
----
-英音 ˌɑːdʒən'tɪniən     美音 ˌɑːrdʒən'tɪniən
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **阿根廷（人）的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Armstrong*** 
----
-英音 ˈɑ:mstrɒŋ     美音 ˈɑrmˌstrɔŋ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **阿姆斯特朗 (姓)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Asia*** n
----
-英音 'eɪʒə;'eɪʃə     美音 'eɪʒə
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **亚洲**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Asian*** n
----
-英音 'eɪʃn;'eɪʒn     美音 'eɪʒn
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
-
-英文释义
----
-1. *高义频：* **亚洲人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Asian*** adj
----
-英音 'eɪʃn;'eɪʒn     美音 'eɪʒn
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **亚洲 (人) 的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Athens*** n
----
-英音 'æθənz     美音 'æθənz
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **雅典 (希腊首都)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Atlanta*** n
----
-英音 ætˈlæntə     美音 ætˈlæntə
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **亚特兰大 (女名；城市名)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Atlantic*** adj
----
-英音 æt'læntɪk     美音 æt'læntɪk
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **大西洋的：**  
-
-
-> the Atlantic Ocean   
-> 大西洋
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***August*** n
----
-英音 'ɔːɡəst     美音 'ɔːɡəst
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **八月（Aug.）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Australia*** n
----
-英音 ɒ'streɪlɪə     美音 ɔ'streljə
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **澳大利亚**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Australian*** adj
----
-英音 ɒ'streɪliən     美音 ɒ'streɪliən
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **澳大利亚的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Australian*** n
----
-英音 ɒ'streɪliən     美音 ɒ'streɪliən
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **澳大利亚人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Austria*** n
----
-英音 'ɒstriə     美音 'ɔːstriə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **奥地利**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Austrian*** adj
----
-英音 'ɒstriən     美音 'ɔːstriən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **奥地利的；奥地利人的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Austrian*** n
----
-英音 'ɒstriən     美音 'ɔːstriən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **奥地利人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
+# Aa
 
 # ***a*** art
 ---
@@ -1163,12 +46,7 @@
 > Brian is gifted in writing music; he is very likely to be a Beethoven.  
 > 布莱恩有作曲天赋，他很有可能成为又一个贝多芬。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -1193,7 +71,6 @@ A.a; the
 ##### 答案 a; the  
   
 
-
 # ***abacus*** n
 ---
 英音 'æbəkəs     美音 'æbəkəs
@@ -1206,16 +83,6 @@ A.a; the
 ---
 1. *高义频：* **算盘**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***abandon*** vt
@@ -1258,18 +125,12 @@ to leave a place, vehicle etc., especially because it is impossible or dangerous
 > Fearing further attacks, most of the population had abandoned the city.  
 > 由于害怕遭受更多的袭击，大多数市民逃离了这座城市。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 abandoned /ə'bændənd/ adj 
 > A shared bike is left abandoned at a bus stop.  
 > 一辆共享单车被遗弃在公交车站。
-
-真题解析
----
-[null]
 
 
 # ***abandoned*** adj
@@ -1286,16 +147,6 @@ abandoned /ə'bændənd/ adj
 
 > A shared bike is left abandoned at a bus stop.  
 > 一辆共享单车被遗弃在公交车站。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ability*** n
@@ -1331,6 +182,7 @@ a level of skill at doing sth：
 > Students of all abilities will get together and study for two weeks.    
 > 各种水平的学生将聚集在一起学习两个星期。
 
+
 固定搭配
 ---
 - #### to the best of one's ability
@@ -1339,13 +191,6 @@ a level of skill at doing sth：
 
 > I try to do my job to the best of my ability.  
 > 我尽全力做好我的工作。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***able*** adj
@@ -1374,16 +219,10 @@ a level of skill at doing sth：
 > Even the most able students found the test difficult.  
 > 连能力最强的学生都觉得这次测验很难。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 ably / 'eɪbl/ adv 
-真题解析
----
-[null]
-
 
 # ***abnormal*** adj
 ---
@@ -1399,16 +238,6 @@ ably / 'eɪbl/ adv
 
 > abnormal behaviour   
 > 反常行为
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***aboard*** adv
@@ -1430,16 +259,6 @@ ably / 'eɪbl/ adv
 > The train's about to leave. All aboard!  
 > 火车即将离站，请所有乘客上车！
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***aboard*** prep
 ---
@@ -1456,16 +275,6 @@ ably / 'eɪbl/ adv
 > Welcome aboard Flight BA98 for Paris!  
 > 欢迎乘坐飞往巴黎的BA98次航班！
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***abolish*** vt
 ---
@@ -1478,16 +287,6 @@ ably / 'eɪbl/ adv
 ---
 1. *高义频：* **废除；废止：**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***abolition*** n
@@ -1503,16 +302,6 @@ ably / 'eɪbl/ adv
 1. *高义频：* **废除；废止**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***aborigine*** n
 ---
@@ -1525,16 +314,6 @@ ably / 'eɪbl/ adv
 ---
 1. **（澳大利亚）土著居民**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***abortion*** n
@@ -1549,16 +328,6 @@ ably / 'eɪbl/ adv
 ---
 1. *高义频：* **人工流产；堕胎**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***about*** prep
@@ -1595,6 +364,7 @@ ably / 'eɪbl/ adv
 > Tiger parenting is all about raising independent,creative and brave kids.  
 > “虎妈家教”的目的是培养独立、有创造力和勇敢的孩子。
 
+
 固定搭配
 ---
 - #### What / How about ...? 
@@ -1607,16 +377,13 @@ ably / 'eɪbl/ adv
 > What / How about meeting at the nearby restaurant?   
 > 在附近的饭店见面怎么样？
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Modern equipment and no smoking are two of the things I like ________ working here.  
 ##### 答案 about  
   
-
 
 # ***about*** adv
 ---
@@ -1648,6 +415,7 @@ Modern equipment and no smoking are two of the things I like ________ working he
 > My stomach is about full.   
 > 我的肚子差不多饱了。
 
+
 固定搭配
 ---
 - #### be about to do sth 
@@ -1658,16 +426,13 @@ Modern equipment and no smoking are two of the things I like ________ working he
 > 我正准备关电脑,这时收到了一封电子邮件。
 
 be about to常与when连用，表示“刚要…突然…”。
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Tom was about to close the window ________ his attention was caught by a bird.  
 ##### 答案 when  
   
-
 
 # ***above*** prep
 ---
@@ -1700,6 +465,7 @@ Tom was about to close the window ________ his attention was caught by a bird.
 > above and beyond the call of duty (=more than the duty)  
 > 超越职责要求
 
+
 固定搭配
 ---
 - #### above all
@@ -1709,9 +475,7 @@ Tom was about to close the window ________ his attention was caught by a bird.
 > I’d like to buy a house — modern, comfortable, and above all in a quiet neighborhood.   
 > 我要买一座房子，要现代、要舒适，最重要的是周围要安静。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -1726,7 +490,6 @@ To be great, you must be smart, confident, and, _________(最重要的是), hone
 A great person is always putting others’ interests  ________ his own.  
 ##### 答案 above  
   
-
 
 # ***above*** adv
 ---
@@ -1753,16 +516,6 @@ A great person is always putting others’ interests  ________ his own.
 > I hope what’s mentioned above might be helpful.   
 > 我希望上述内容会有帮助。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***above*** adj
 ---
@@ -1778,16 +531,6 @@ A great person is always putting others’ interests  ________ his own.
 
 > for the above reasons  
 > 因为上述原因
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***abroad*** adv
@@ -1820,16 +563,6 @@ A great person is always putting others’ interests  ________ his own.
 > She had just returned from abroad. 她刚从国外回来。  
 > 她刚从国外回来。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***abrupt*** adj
 ---
@@ -1847,16 +580,6 @@ A great person is always putting others’ interests  ________ his own.
 > an abrupt change in the weather  
 > 天气的骤变
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***abruptly*** adv
 ---
@@ -1869,16 +592,6 @@ A great person is always putting others’ interests  ________ his own.
 ---
 1. *高义频：* **突然地；意外地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***absence*** n
@@ -1904,6 +617,7 @@ A great person is always putting others’ interests  ________ his own.
 > Her absence of mind during driving nearly caused an accident.  
 > 她驾车时心不在焉，差点造成事故。
 
+
 固定搭配
 ---
 - #### in / during sb’s absence
@@ -1919,13 +633,6 @@ A great person is always putting others’ interests  ________ his own.
 
 > In the absence of gray wolves, the deer population grew quickly.  
 > 没有了灰狼，鹿的数量迅速增长
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***absent*** adj
@@ -1950,16 +657,6 @@ A great person is always putting others’ interests  ________ his own.
 > Snow is absent in some countries.   
 > 有些国家终年无雪。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***absent-minded*** adj
 ---
@@ -1975,16 +672,6 @@ A great person is always putting others’ interests  ________ his own.
 
 > Grandpa’s been getting rather absent-minded lately.   
 > 爷爷最近变得很健忘。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***absolute*** adj
@@ -2004,16 +691,6 @@ A great person is always putting others’ interests  ________ his own.
 
 > I have absolute confidence in her.   
 > 我完全信任她。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***absolutely*** adv
@@ -2051,6 +728,7 @@ A great person is always putting others’ interests  ________ his own.
 > — No, none.  
 > 是的，没有。
 
+
 固定搭配
 ---
 - #### Absolutely! 
@@ -2072,13 +750,6 @@ A great person is always putting others’ interests  ________ his own.
 
 > — Absolutely not!   
 > 当然不!
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***absorb*** vt  重难点词汇
@@ -2130,9 +801,7 @@ to interest sb so much that they don’t pay attention to other things：
 > Well-designed sports shoes should absorb the impact on your feet.  
 > 设计精良的运动鞋可以缓解脚部受到的冲击。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 absorbed /əb'sɔːbd/ adj 
@@ -2146,13 +815,13 @@ absorbed /əb'sɔːbd/ adj
 > When deeply absorbed in work, he always forgets all about eating or sleeping.  
 > 他专注工作时，总是废寝忘食。
 
+
 真题解析
 ---
 ##### 题目  
 ________ (absorb) in painting, John didn’t notice evening approaching.  
 ##### 答案 Absorbed  
   
-
 
 # ***absorbed*** adj
 ---
@@ -2165,16 +834,6 @@ ________ (absorb) in painting, John didn’t notice evening approaching.
 ---
 1. **专心致志的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***abstract*** adj
@@ -2193,16 +852,6 @@ ________ (absorb) in painting, John didn’t notice evening approaching.
 > an abstract idea / concept  
 > 抽象概念
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***abstract*** n
 ---
@@ -2220,16 +869,6 @@ ________ (absorb) in painting, John didn’t notice evening approaching.
 > make an abstract of a speech  
 > 做演讲摘要
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***absurd*** adj
 ---
@@ -2246,16 +885,6 @@ ________ (absorb) in painting, John didn’t notice evening approaching.
 > It seems quite absurd to drive for 10 hours just for a 20-minute meeting.   
 > 开车10小时只为参加一个20分钟的会议似乎很荒唐。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***abundant*** adj
 ---
@@ -2271,16 +900,6 @@ ________ (absorb) in painting, John didn’t notice evening approaching.
 
 > an abundant supply of fresh water   
 > 充足的淡水供应
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***abuse*** vt
@@ -2302,16 +921,6 @@ ________ (absorb) in painting, John didn’t notice evening approaching.
 > Cindy has a difficult life and is often abused by her stepmother.   
 > 辛迪生活艰难，经常遭到继母的虐待。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***abuse*** n
 ---
@@ -2330,16 +939,6 @@ ________ (absorb) in painting, John didn’t notice evening approaching.
 > drug abuse   
 > 滥用药物
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***academic*** n
 ---
@@ -2353,18 +952,12 @@ ________ (absorb) in painting, John didn’t notice evening approaching.
 1. *高义频：* **大学教师**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 academically /ˌækə'demɪkli/ adv 
 > In fact, reading early has very little to do with whether a child is successful academically.   
 > 事实上，孩子的早期阅读与其学业是否成功关系不大。
-
-真题解析
----
-[null]
 
 
 # ***academic*** adj
@@ -2402,16 +995,6 @@ connected with studying from books, opposite to practical skills：
 > Being unable to use a computer makes it more difficult for him to do his academic research.   
 > 不会用电脑使他的学术研究更加困难。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***academy*** n
 ---
@@ -2441,16 +1024,6 @@ connected with studying from books, opposite to practical skills：
 3. *低义频：* **(美国的) 私立学校**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***accelerate*** v
 ---
@@ -2469,16 +1042,6 @@ connected with studying from books, opposite to practical skills：
 
 > The car accelerated smoothly away.   
 > 那辆汽车平稳地加速离开。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***accent*** n
@@ -2499,16 +1062,6 @@ connected with studying from books, opposite to practical skills：
 > **with a broad / strong,accent**  
 > He spoke with a broad / strong northern accent.  
 > 他说话时带有浓重的北方口音。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***accept*** v  重难点词汇
@@ -2581,12 +1134,7 @@ to admit that you’re responsible or to blame for sth：
 > It seems that most people don’t want to accept the responsibility for having made a mistake.  
 > 似乎大多数人不想对已犯的错误负责。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2597,7 +1145,6 @@ If ______ (accept) for the job, you’ll be informed soon.
 It was pouring with rain so I ______ (接受) his offer of a lift.  
 ##### 答案 accepted  
   
-
 
 # ***acceptable*** adj
 ---
@@ -2618,16 +1165,6 @@ It was pouring with rain so I ______ (接受) his offer of a lift.
 > **socially acceptable**  
 > It is not socially acceptable for parents to leave children unattended at that age.  
 > 父母丢下那个年纪的孩子不照看，社会是不接受这种做法的。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***acceptance*** n
@@ -2656,16 +1193,6 @@ It was pouring with rain so I ______ (接受) his offer of a lift.
 
 > He nodded in delighted acceptance.  
 > 他愉快地点头赞同。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***access*** n  重难点词汇
@@ -2710,16 +1237,6 @@ the opportunity or right to use sth or to see sb / sth：
 > 她喜欢城市生活的一个原因是去哪儿都很方便，比如去商店和餐馆。
 
   access ≠ way, access作为名词，其含义中包含了某种动作。 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***access*** vt  重难点词汇
 ---
@@ -2745,12 +1262,7 @@ the opportunity or right to use sth or to see sb / sth：
 > We need a better way to access information.  
 > 我们需要更好的方式来获取信息。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2758,7 +1270,6 @@ The system has been designed to give students quick and easy access ________ the
 the library.   
 ##### 答案 to  
   
-
 
 # ***accessible*** adj
 ---
@@ -2785,19 +1296,13 @@ the library.
 3. *低义频：* **(人) 易接近的；平易近人的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Frank put the medicine in the top drawer to make sure it would not be ________ (access) to the kids.  
 ##### 答案 accessible  
   
-
 
 # ***accident*** n
 ---
@@ -2829,6 +1334,7 @@ sth that happens unexpectedly and is not planned in advance：
 > The discovery was a happy accident.   
 > 这个发现是机缘巧合。
 
+
 固定搭配
 ---
 - #### by accident
@@ -2840,16 +1346,17 @@ sth that happens unexpectedly and is not planned in advance：
 
 ### 辨析 accident, incident, event
 三者都含有“事件”之意。
+
 派生词汇
 ---
 accidental /ˌæksɪ'dentl/ adj 
+
 真题解析
 ---
 ##### 题目  
 Lucy was badly hurt in a traffic a________ last week.   
 ##### 答案 accident  
   
-
 
 # ***accidentally*** adv
 ---
@@ -2866,16 +1373,6 @@ Lucy was badly hurt in a traffic a________ last week.
 > I stepped on a young man’s foot accidentally.  
 > 我不小心踩到一个年轻人的脚。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***accommodate*** vt
 ---
@@ -2888,16 +1385,6 @@ Lucy was badly hurt in a traffic a________ last week.
 ---
 1. **容纳 (乘客等)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***accommodation*** n
@@ -2920,19 +1407,13 @@ a place to live, work or stay in：
 > 电视台搬入新的工作场所后，其运作似乎不太令人满意。
 
 美语中常用复数 accommodations。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 After the earthquake, the first thing the local government did was to provide _______ (住处) for the homeless families.  
 ##### 答案 accommodation(s)  
   
-
 
 # ***accompany*** vt
 ---
@@ -2959,16 +1440,6 @@ After the earthquake, the first thing the local government did was to provide __
 > Mary sang and I accompanied her on the piano.   
 > 玛丽唱歌，我弹钢琴伴奏。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***accomplish*** vt
 ---
@@ -2986,16 +1457,10 @@ After the earthquake, the first thing the local government did was to provide __
 > The workers were not better organized, otherwise they would have accomplished the task in half the time.  
 > 工人们没有得到很好的组织安排，否则他们用一半的时间就能完成任务了。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 accomplishment /ə'kʌmplɪʃmənt/ n 
-真题解析
----
-[null]
-
 
 # ***accomplishment*** 
 ---
@@ -3008,16 +1473,6 @@ accomplishment /ə'kʌmplɪʃmənt/ n
 ---
 1. **[C] 成就 (achievement)；[U] [正式用语] 完成**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***account*** n  重难点词汇
@@ -3071,6 +1526,7 @@ accomplishment /ə'kʌmplɪʃmənt/ n
 > While this book tells the stories of famous people in history, it also gives an account of the lives of lesserknown individuals.  
 > 这本书在讲述历史名人的故事的同时，还讲述不太出名的人的生活。
 
+
 固定搭配
 ---
 - #### on account of 
@@ -3098,16 +1554,13 @@ on no account置于句首，其所在的句子要用倒装语序。
 > One must take the audience into account when making speeches.   
 > 人们在演讲时必须要考虑听众。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I ________ (开了个银行账户) after I made $1,000 by doing a part-time job during the summer vacation.  
 ##### 答案 opened/set up a bank account  
   
-
 
 # ***account*** v  重难点词汇
 ---
@@ -3116,9 +1569,6 @@ I ________ (开了个银行账户) after I made $1,000 by doing a part-time job 
 词频 4 | 口语 1 | 书面 2 | 阅读 3
 
 
-英文释义
----
-[null]
 固定搭配
 ---
 - #### account for
@@ -3140,13 +1590,6 @@ I ________ (开了个银行账户) after I made $1,000 by doing a part-time job 
 > The poor weather may have accounted for the small crowd.   
 > 天气不好可能是人来得少的原因。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***accountant*** n
 ---
@@ -3159,16 +1602,6 @@ I ________ (开了个银行账户) after I made $1,000 by doing a part-time job 
 ---
 1. *高义频：* **[C] 会计 (员)； 会计师**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***accumulate*** v
@@ -3192,16 +1625,6 @@ I ________ (开了个银行账户) after I made $1,000 by doing a part-time job 
 > Dust and dirt soon accumulate if a house is not cleaned regularly.  
 > 房屋不经常打扫，尘土很快就会积聚起来。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***accuracy*** n
 ---
@@ -3217,16 +1640,6 @@ I ________ (开了个银行账户) after I made $1,000 by doing a part-time job 
 
 > with accuracy   
 > 准确地
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***accurate*** adj
@@ -3247,16 +1660,10 @@ I ________ (开了个银行账户) after I made $1,000 by doing a part-time job 
 > As his best friend, I can make accurate guesses about what he will do or think.   
 > 作为他最好的朋友，我能准确猜出他要做什么或想什么。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 accurately /'ækjərətli/ adv 
-真题解析
----
-[null]
-
 
 # ***accurately*** adv
 ---
@@ -3269,16 +1676,6 @@ accurately /'ækjərətli/ adv
 ---
 1. **精确地, 准确地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***accusation*** n
@@ -3293,16 +1690,6 @@ accurately /'ækjərətli/ adv
 ---
 1. *高义频：* **指责；谴责；控告**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***accuse*** vt
@@ -3328,16 +1715,6 @@ accurately /'ækjərətli/ adv
 > the accused  
 > 被告
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***accustom*** vt
 ---
@@ -3350,16 +1727,6 @@ accurately /'ækjərətli/ adv
 ---
 1. *高义频：* **使习惯于**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***accustomed*** adj
@@ -3384,12 +1751,7 @@ accurately /'ækjərətli/ adv
 > 保守的中国父母从来不习惯直接表达他们多么以孩子为荣。
 
 口语中更常用 (be) used to (doing) sth。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3397,7 +1759,6 @@ accurately /'ækjərətli/ adv
 — Yes. They are accustomed to not _________ (talk) at meals  
 ##### 答案 talking  
   
-
 
 # ***ache*** vi
 ---
@@ -3416,16 +1777,6 @@ accurately /'ækjərətli/ adv
 > 站这么久，我的脚都疼了。
 
 ache常与表示身体部位的单词构成合成词， 如：headache, stomachache, toothache等。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ache*** n
 ---
@@ -3445,16 +1796,6 @@ ache常与表示身体部位的单词构成合成词， 如：headache, stomacha
 
 > She felt an ache in her chest.   
 > 她感到胸口痛。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***achieve*** v  重难点词汇
@@ -3498,19 +1839,13 @@ to be successful：
 > He is an excellent lawyer with a good brain and a determination to achieve.   
 > 他是位优秀的律师，具有好的头脑和取得成功的决心。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Lucy has ________ (达到) all of the goals she set for herself in high school and is ready for new challenges at university.  
 ##### 答案 achieved / attained  
   
-
 
 # ***achievement*** n
 ---
@@ -3541,19 +1876,13 @@ the act or process of achieving sth：
 > He was awarded a prize for his achievements in physics.  
 > 他因在物理学上的成就而获奖。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Handle the most important tasks first so you’ll feel a real sense of ________ (achieve).  
 ##### 答案 achievement  
   
-
 
 # ***acid*** adj
 ---
@@ -3567,16 +1896,6 @@ Handle the most important tasks first so you’ll feel a real sense of ________ 
 1. *高义频：* **酸的；酸性的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***acid*** n
 ---
@@ -3589,16 +1908,6 @@ Handle the most important tasks first so you’ll feel a real sense of ________ 
 ---
 1. *高义频：* **[C] & [U] 酸；酸性物质**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***acknowledge*** vt
@@ -3641,16 +1950,10 @@ to publicly express thanks for help you have been given：
 > I should like to acknowledge all the help I have received from my family.  
 > 我要感谢我的家人给予我的所有帮助。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 acknowledgement /ək'nɒlɪdʒmənt/ n 
-真题解析
----
-[null]
-
 
 # ***acknowledgement*** n
 ---
@@ -3663,16 +1966,6 @@ acknowledgement /ək'nɒlɪdʒmənt/ n
 ---
 1. **[C] & [U] 承认；确认；[常用复数] 鸣谢**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***acquaintance*** n
@@ -3690,16 +1983,6 @@ acknowledgement /ək'nɒlɪdʒmənt/ n
 > **make your acquaintance**  
 > I came to England to make your acquaintance!  
 > 我来英国想跟你结识！
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***acquire*** vt  重难点词汇
@@ -3726,12 +2009,7 @@ to obtain sth by buying or being given it：
 > How did the gallery come to acquire so many Picassos?  
 > 那个美术馆是如何得到如此多的毕加索画作的？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3743,7 +2021,6 @@ C.teach
 D.test  
 ##### 答案 B  
   
-
 
 # ***acquisition*** n
 ---
@@ -3760,16 +2037,6 @@ D.test
 > a seminar on second language acquisition.  
 > 关于第二语言习得的研讨会。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***acre*** n
 ---
@@ -3783,16 +2050,6 @@ D.test
 1. *高义频：* **n [C] 英亩 (约4 047㎡)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***acrobatics*** n
 ---
@@ -3805,16 +2062,6 @@ D.test
 ---
 1. **杂技**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***across*** prep
@@ -3852,12 +2099,7 @@ D.test
 > Nelson Mandela is respected and admired across the world.  
 > 纳尔逊·曼德拉在世界各地受到尊重和敬仰。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3868,7 +2110,6 @@ C.over; into
 D.across; through  
 ##### 答案 D  
   
-
 
 # ***across*** adv
 ---
@@ -3890,16 +2131,6 @@ D.across; through
 
 > The river is one mile across.  
 > 这条河宽一英里。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***act*** v  重难点词汇
@@ -3945,6 +2176,7 @@ to pretend to have feelings, qualities, etc. that are different from your true o
 > Who’s acting (the part of) Hamlet?  
 > 谁来扮演哈姆雷特（的角色）？
 
+
 固定搭配
 ---
 - #### act as
@@ -3977,16 +2209,13 @@ to pretend to have feelings, qualities, etc. that are different from your true o
 > act out a theory   
 > 把理论付诸实践
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 We went to Canada to travel and my cousin acted ________ our guide.  
 ##### 答案 as  
   
-
 
 # ***act*** n  重难点词汇
 ---
@@ -4037,16 +2266,6 @@ We went to Canada to travel and my cousin acted ________ our guide.
 > Some of the greatest acts in music history, such as Elvis Presley and the Rolling Stones, have been awarded very few Grammys.  
 > 音乐史上的一些最伟大表演者，如猫王和滚石乐队，很少获得过格莱美奖。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***action*** n
 ---
@@ -4083,6 +2302,7 @@ We went to Canada to travel and my cousin acted ________ our guide.
 > the action of sunlight on the skin  
 > 阳光对皮肤的作用
 
+
 固定搭配
 ---
 - #### in action 
@@ -4107,13 +2327,6 @@ We went to Canada to travel and my cousin acted ________ our guide.
 > We must take action to fight pollution.   
 > 我们必须采取行动防治污染。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***activate*** v
 ---
@@ -4126,16 +2339,6 @@ We went to Canada to travel and my cousin acted ________ our guide.
 ---
 1. **激活；使活动；起动**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***active*** adj
@@ -4188,19 +2391,13 @@ We went to Canada to travel and my cousin acted ________ our guide.
 > “Tom told me.” is an active sentence, and “I was told by Tom.” is passive.  
 > “汤姆告诉我。”是主动句，“我被汤姆告知。”是被动句。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 While a person is asleep, a part of his brain is still _________(活跃的).  
 ##### 答案 active  
   
-
 
 # ***actively*** adv
 ---
@@ -4217,19 +2414,13 @@ While a person is asleep, a part of his brain is still _________(活跃的).
 > She was actively looking for a job.  
 > 她正积极找工作。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 It is good for elderly people to be ________ (active) involved in community service.  
 ##### 答案 actively  
   
-
 
 # ***activity*** n
 ---
@@ -4271,16 +2462,6 @@ a situation in which sth is happening or a lot of things are happening or being 
 > Regular physical activity helps to control your weight.  
 > 经常活动身体有助于控制体重。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***actor*** n
 ---
@@ -4294,16 +2475,6 @@ a situation in which sth is happening or a lot of things are happening or being 
 1. *高义频：* **[C] 男演员；行动者**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***actress*** n
 ---
@@ -4316,16 +2487,6 @@ a situation in which sth is happening or a lot of things are happening or being 
 ---
 1. *高义频：* **[C] 女演员**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***actual*** adj
@@ -4345,16 +2506,6 @@ a situation in which sth is happening or a lot of things are happening or being 
 
 > Photojournalists make an actual record of what they see.  
 > 摄影记者真实记录他们所看到的事物。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***actually*** adv
@@ -4385,12 +2536,7 @@ a situation in which sth is happening or a lot of things are happening or being 
 > Actually, on second thoughts, I don’t think I want to go out tonight.  
 > 说实在的，又想了想，今晚我不打算出去了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4398,7 +2544,6 @@ a situation in which sth is happening or a lot of things are happening or being 
 — ________ (actual), I do. I think it’s a great idea.  
 ##### 答案 Actually  
   
-
 
 # ***acupuncture*** n
 ---
@@ -4412,16 +2557,6 @@ a situation in which sth is happening or a lot of things are happening or being 
 1. **针刺疗法**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***acupuncturist*** n
 ---
@@ -4434,16 +2569,6 @@ a situation in which sth is happening or a lot of things are happening or being 
 ---
 1. **针炙师，针疗医师**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***acute*** adj
@@ -4477,16 +2602,6 @@ a situation in which sth is happening or a lot of things are happening or being 
 4. *低义频：* **（数学）锐角的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ad*** n
 ---
@@ -4499,16 +2614,6 @@ a situation in which sth is happening or a lot of things are happening or being 
 ---
 1. *高义频：* **[C][非正式用语]广告 (advertisement)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***adapt*** v  重难点词汇
@@ -4539,19 +2644,13 @@ a situation in which sth is happening or a lot of things are happening or being 
 > Three of his novels have been adapted for television.  
 > 他有三部小说已被改编成了电视剧。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The good thing about children is that they adapt very easily ________ new environments.  
 ##### 答案 to  
   
-
 
 # ***adaptation*** n
 ---
@@ -4564,16 +2663,6 @@ The good thing about children is that they adapt very easily ________ new enviro
 ---
 1. *高义频：* **[C] & [U] 适应； 改编；改编的作品**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***add*** v
@@ -4611,6 +2700,7 @@ The good thing about children is that they adapt very easily ________ new enviro
 > The President agreed, adding that he hoped for a peaceful solution.  
 > 总统表示赞同，补充说他希望一个和平的解决方法。
 
+
 固定搭配
 ---
 - #### add to 
@@ -4637,16 +2727,13 @@ The good thing about children is that they adapt very easily ________ new enviro
 > Remember: little steps add up to big dreams.   
 > 记住：小进步成就大梦想。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The engine of the ship was out of order and the bad weather added ________ the helplessness of the crew at sea.  
 ##### 答案 to  
   
-
 
 # ***addict*** n
 ---
@@ -4666,16 +2753,6 @@ The engine of the ship was out of order and the bad weather added ________ the h
 
 > a TV / football / video game addict   
 > 电视迷/足球迷/电子游戏迷
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***addicted*** adj
@@ -4698,16 +2775,6 @@ The engine of the ship was out of order and the bad weather added ________ the h
 > He was addicted to football.   
 > 他迷上了足球。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***addiction*** n
 ---
@@ -4729,16 +2796,6 @@ The engine of the ship was out of order and the bad weather added ________ the h
 > She kicked her three-pack-a-day cigarette habit, and overcame her addiction to alcohol.   
 > 她改掉了一天三包烟的恶习，并戒掉了酒瘾。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***addictive*** adj
 ---
@@ -4751,16 +2808,6 @@ The engine of the ship was out of order and the bad weather added ________ the h
 ---
 1. **（药物等）上瘾的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***addition*** n
@@ -4789,6 +2836,7 @@ The engine of the ship was out of order and the bad weather added ________ the h
 > I love roses, and I think they make a beautiful addition to any garden.   
 > 我喜欢玫瑰，我认为它们可以给任何花园增添姿色。
 
+
 固定搭配
 ---
 - #### in addition 
@@ -4805,16 +2853,17 @@ The engine of the ship was out of order and the bad weather added ________ the h
 > In addition to reading for knowledge, we read for fun and inspiration.  
 > 我们读书除了为获取知识外，还可以得到乐趣和灵感。
 
+
 派生词汇
 ---
 additional   /ə'dɪʃənl/ adj 
+
 真题解析
 ---
 ##### 题目  
 In addition________the school, the village has a clinic, which was also built with government support.  
 ##### 答案 to  
   
-
 
 # ***additionally*** adv
 ---
@@ -4827,16 +2876,6 @@ In addition________the school, the village has a clinic, which was also built wi
 ---
 1. **另外；同时；此外**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***address*** n  重难点词汇
@@ -4866,19 +2905,13 @@ a formal speech：
 > The president gave / delivered an address over the radio.   
 > 总统作了一个广播演说。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Fill in the form with your name, home a ________, and phone number.   
 ##### 答案 address  
   
-
 
 # ***address*** vt  重难点词汇
 ---
@@ -4923,19 +2956,13 @@ to try to deal with a problem：
 > address a problem / question  
 > 处理问题
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Fill in the form with your name, home a____________, and phone number.  
 ##### 答案 address  
   
-
 
 # ***adequate*** adj
 ---
@@ -4960,18 +2987,12 @@ enough in quantity or good enough in quality for a particular purpose
 > He didn't give an adequate answer to the question.  
 > 他没有对于这个问题给出满意的答复。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 adequately  /'ædɪkwətli/ adv 
 > I hope I will not be called on in class as I’m not yet adequately prepared.   
 > 我希望课上不要叫到我，因为我还没准备好。
-
-真题解析
----
-[null]
 
 
 # ***adjust*** v
@@ -5016,18 +3037,12 @@ adequately  /'ædɪkwətli/ adv
 > well-adjusted  
 > 能适应环境的
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 adjustable  /ə'dʒʌstəbl/ adj 
 > an adjustable seat   
 > 可调节座椅
-
-真题解析
----
-[null]
 
 
 # ***adjustable*** adj
@@ -5041,16 +3056,6 @@ adjustable  /ə'dʒʌstəbl/ adj
 ---
 1. **可调整的,可调节的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***adjustment*** n
@@ -5069,12 +3074,7 @@ adjustable  /ə'dʒʌstəbl/ adj
 > I tried to make the necessary adjustment to this new situation.  
 > 我努力适应这里的新环境。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -5085,7 +3085,6 @@ C.comments
 D.achievements  
 ##### 答案 B  
   
-
 
 # ***administration*** n
 ---
@@ -5111,16 +3110,6 @@ D.achievements
 > the Obama Administration’s foreign policies  
 > 奥巴马政府的外交政策
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***administrative*** adj
 ---
@@ -5133,16 +3122,6 @@ D.achievements
 ---
 1. *高义频：* **行政的；管理的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***admirable*** adj
@@ -5159,16 +3138,6 @@ D.achievements
 
 > While still at primary school, Rowan had already shown admirable acting talent.  
 > 还在上小学时，罗恩就已经表现出令人赞叹的表演天分。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***admire*** vt
@@ -5199,16 +3168,10 @@ to look at sth with pleasure：
 > China and Japan have mid-autumn festivals, when people admire the moon and in China, enjoy mooncakes.   
 > 中国和日本都有中秋节，过节时人们会赏月，在中国还吃月饼。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 admiration /ˌædmə'reɪʃn/ n 
-真题解析
----
-[null]
-
 
 # ***admission*** n
 ---
@@ -5245,16 +3208,6 @@ admiration /ˌædmə'reɪʃn/ n
 > **admission charges / prices**  
 > admission charges / prices  
 > 入场费
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***admit*** v  重难点词汇
@@ -5318,14 +3271,13 @@ to say that you have done sth wrong or illegal：
 > She admitted ( to ) having stolen / stealing the car.  
 > 她供认偷了那辆车。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 admittedly /əd'mɪtɪdli/ adv 
 > The technique is painful, admittedly, but it benefits the patient greatly.  
 > 这项技术诚然会有些痛苦，但是病人会大大受益。
+
 
 真题解析
 ---
@@ -5333,7 +3285,6 @@ admittedly /əd'mɪtɪdli/ adv
 If you leave the club, you will not ________ (admit)back in.   
 ##### 答案 be admitted  
   
-
 
 # ***adolescence*** n
 ---
@@ -5346,16 +3297,6 @@ If you leave the club, you will not ________ (admit)back in.
 ---
 1. *高义频：* **[U] 青春期；青春**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***adolescent*** adj
@@ -5370,16 +3311,6 @@ If you leave the club, you will not ________ (admit)back in.
 1. *高义频：* **青春期的；青少年的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***adolescent*** n
 ---
@@ -5392,16 +3323,6 @@ If you leave the club, you will not ________ (admit)back in.
 ---
 1. *高义频：* **[C] 青少年**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***adopt*** v
@@ -5432,9 +3353,7 @@ to take and use sth：
 > The school decided to adopt new methods of teaching foreign languages.  
 > 学校决定采用新的外语教学方法。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 adopted  /ə'dɑːptɪd/ adj 
@@ -5450,10 +3369,6 @@ adopted  /ə'dɑːptɪd/ adj
 > one's adopted country  
 > 某人的移居国
 
-真题解析
----
-[null]
-
 
 # ***adorable*** adj
 ---
@@ -5466,16 +3381,6 @@ adopted  /ə'dɑːptɪd/ adj
 ---
 1. **讨人喜欢的；可爱的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***adore*** vt
@@ -5493,16 +3398,6 @@ adopted  /ə'dɑːptɪd/ adj
 > I adore you more than anything else in the whole world.   
 > 我深爱您胜于世界上的一切。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***adult*** n
 ---
@@ -5516,16 +3411,6 @@ adopted  /ə'dɑːptɪd/ adj
 1. *高义频：* **[C] 成年人**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***adult*** adj
 ---
@@ -5538,16 +3423,6 @@ adopted  /ə'dɑːptɪd/ adj
 ---
 1. **成年的；成熟的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***advance*** v
@@ -5590,16 +3465,6 @@ adopted  /ə'dɑːptɪd/ adj
 > advance an idea / a theory / a plan  
 > 提出想法 / 理论 / 计划
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***advance*** n
 ---
@@ -5633,6 +3498,7 @@ adopted  /ə'dɑːptɪd/ adj
 > pay sb a $500 advance   
 > 预付某人500美元
 
+
 固定搭配
 ---
 - #### in advance (of ) 
@@ -5645,16 +3511,13 @@ adopted  /ə'dɑːptɪd/ adj
 > When students were told my rule in advance of the class, some of them were not happy.   
 > 当同学们在课前得知我的规矩后，他们中的一些人感到不快。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 This meeting room is a non-smoking area. I would like to warn you _______ advance that if you smoked here you would be fined.  
 ##### 答案 in  
   
-
 
 # ***advance*** adj
 ---
@@ -5673,16 +3536,6 @@ This meeting room is a non-smoking area. I would like to warn you _______ advanc
 
 > We received no advance warning of smog.   
 > 我们没有收到雾霾预警。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***advanced*** adj
@@ -5710,16 +3563,6 @@ very modern and highly developed：
 
 > She was educated at Peking University, after which she went on to have her advanced study abroad.  
 > 她先在北京大学学习，然后出国深造。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***advantage*** n
@@ -5759,6 +3602,7 @@ a good or useful quality or condition that sth has：
 > The hotel is not very modern, but it does have the advantage of being close to the city centre.   
 > 那家酒店不是很现代，但好处是离市中心近。
 
+
 固定搭配
 ---
 - #### be / work to sb's advantage
@@ -5772,9 +3616,7 @@ a good or useful quality or condition that sth has：
 > Parents should actively urge their children to take advantage of the opportunity to join sports teams.  
 > 父母应积极催促孩子利用这一机会参加运动队。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -5785,7 +3627,6 @@ I’m going to________ advantage of this tour to explore the history of the cast
 For a goalkeeper, it’s a great ________ (优势) to have big hands.   
 ##### 答案 advantage  
   
-
 
 # ***adventure*** n
 ---
@@ -5811,16 +3652,6 @@ For a goalkeeper, it’s a great ________ (优势) to have big hands.
 > Columbus’ discovery of the New World was an adventure.  
 > 哥伦布发现新大陆是一次奇遇。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***adventurer*** n
 ---
@@ -5834,16 +3665,6 @@ For a goalkeeper, it’s a great ________ (优势) to have big hands.
 ---
 1. *高义频：* **冒险家**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***advertise*** v
@@ -5865,16 +3686,10 @@ For a goalkeeper, it’s a great ________ (优势) to have big hands.
 > We should advertise for someone to look after the garden.   
 > 我们该登个广告聘人来照管花园。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 advertising /'ædvərtaɪzɪŋ/ n [U] 
-真题解析
----
-[null]
-
 
 # ***advertisement*** n
 ---
@@ -5892,16 +3707,6 @@ advertising /'ædvərtaɪzɪŋ/ n [U]
 > put an advertisement in a newspaper   
 > 在报纸上刊登广告
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***advertiser*** n
 ---
@@ -5915,16 +3720,6 @@ advertising /'ædvərtaɪzɪŋ/ n [U]
 1. **广告人**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***advertising*** n
 ---
@@ -5937,16 +3732,6 @@ advertising /'ædvərtaɪzɪŋ/ n [U]
 ---
 1. **做广告；广告活动；广告业**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***advertize*** v
@@ -5968,16 +3753,10 @@ advertising /'ædvərtaɪzɪŋ/ n [U]
 > We should advertise for someone to look after the garden.   
 > 我们该登个广告聘人来照管花园。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 advertising / advertizing  // n [U]
-真题解析
----
-[null]
-
 
 # ***advice*** n
 ---
@@ -6003,16 +3782,6 @@ advertising / advertizing  // n [U]
 > **accept / follow / take sb’s advice**  
 > accept / follow / take sb’s advice   
 > 接受某人的意见
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***advise*** v  重难点词汇
@@ -6076,16 +3845,10 @@ to officially tell sb sth：
 > I regret to advise you that the course is now full.  
 > 很遗憾地通知你，这门课程现在已满额。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 adviser / advisor /əd'vaɪzə(r)/ n [C]
-真题解析
----
-[null]
-
 
 # ***adviser*** n
 ---
@@ -6099,16 +3862,6 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
 1. **顾问**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***advocate*** n
 ---
@@ -6121,16 +3874,6 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
 ---
 1. *高义频：* **提倡者；拥护者**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***advocate*** vt
@@ -6155,16 +3898,6 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
 > The leader advocates that each member (should) play their part.  
 > 领导主张每个成员都发挥各自的作用。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***aeroplane*** n
 ---
@@ -6178,16 +3911,6 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
 ---
 1. *高义频：* **飞机 (plane, AmE airplane)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***affair*** n
@@ -6234,6 +3957,7 @@ an event or situation：
 > a love affair  
 > 风流韵事；酷爱；热爱
 
+
 固定搭配
 ---
 - #### state of affairs
@@ -6245,13 +3969,6 @@ an event or situation：
 
 ### 辨析 matter, affair, event
 三者都有“事情”之意。
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***affect*** vt
 ---
@@ -6286,16 +4003,6 @@ to make sb have strong feelings of sadness, pity, etc.：
 > Diseases affect almost everyone at some time during their lives.  
 > 生活中几乎每个人都会生病。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***affection*** n
 ---
@@ -6316,16 +4023,6 @@ to make sb have strong feelings of sadness, pity, etc.：
 > **affection for**  
 > I feel a lot of affection for my mother.   
 > 我深爱我的妈妈。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***afford*** vt  重难点词汇
@@ -6368,12 +4065,11 @@ to make sb have strong feelings of sadness, pity, etc.：
 > Reading affords pleasure.   
 > 读书予人快乐。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 affordable  /ə'fɔːdəbl/ adj 
+
 真题解析
 ---
 ##### 题目  
@@ -6384,7 +4080,6 @@ Eating out once or twice a week may be __________(afford) but doing this most da
 More and more Chinese people are able to ________ (付得起) to travel abroad.   
 ##### 答案 afford  
   
-
 
 # ***affordably*** adv
 ---
@@ -6398,19 +4093,13 @@ More and more Chinese people are able to ________ (付得起) to travel abroad.
 1. *高义频：* **支付得起地**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Those poor and needy teenagers were excited to find a shop at the corner where they could buy ________ (affordable) priced bikes.  
 ##### 答案 affordably  
   
-
 
 # ***afraid*** adj
 ---
@@ -6453,6 +4142,7 @@ Those poor and needy teenagers were excited to find a shop at the corner where t
 > He is afraid (that) other kids will laugh at him.  
 > 他担心其他孩子会嘲笑他。
 
+
 固定搭配
 ---
 - #### I’m afraid 
@@ -6476,9 +4166,7 @@ Those poor and needy teenagers were excited to find a shop at the corner where t
 > — I’m afraid so.   
 > 恐怕迟到了。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -6486,7 +4174,6 @@ Those poor and needy teenagers were excited to find a shop at the corner where t
 — ________ (恐怕不行). Wait till you are old enough, dear.  
 ##### 答案 I’m afraid not  
   
-
 
 # ***after*** prep
 ---
@@ -6541,6 +4228,7 @@ Those poor and needy teenagers were excited to find a shop at the corner where t
 > The police were after him.  
 > 警察正在追捕他。
 
+
 固定搭配
 ---
 - #### after all 
@@ -6550,16 +4238,13 @@ Those poor and needy teenagers were excited to find a shop at the corner where t
 > Of course I admire him — after all, he is a great writer.  
 > 我当然钦佩他，毕竟他是一位伟大的作家。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Bob thought he couldn’t go to the party because he had to write a report, but he went_______all.  
 ##### 答案 after  
   
-
 
 # ***after*** conj
 ---
@@ -6581,16 +4266,6 @@ Bob thought he couldn’t go to the party because he had to write a report, but 
 > We found the letter long after he had gone away.  
 > 他走了很久以后我们才发现那封信。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***after*** adv
 ---
@@ -6610,16 +4285,6 @@ Bob thought he couldn’t go to the party because he had to write a report, but 
 > He came here on Monday and left three days after(=three days later/after three days).  
 > 他星期一来到这里，三天后就走了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***after-school*** adj
 ---
@@ -6633,16 +4298,6 @@ Bob thought he couldn’t go to the party because he had to write a report, but 
 1. **校外的，课外的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***afternoon*** n
 ---
@@ -6655,16 +4310,6 @@ Bob thought he couldn’t go to the party because he had to write a report, but 
 ---
 1. *高义频：* **下午；午后**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***afterward(s)*** adv
@@ -6686,16 +4331,6 @@ Bob thought he couldn’t go to the party because he had to write a report, but 
 > We'll have supper in a Chinese restaurant and return to the hotel afterwards.  
 > 我们将在一家中餐馆吃晚饭，然后返回宾馆。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***afterwards*** adv
 ---
@@ -6708,16 +4343,6 @@ Bob thought he couldn’t go to the party because he had to write a report, but 
 ---
 1. **然后, 后来**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***again*** adv
@@ -6741,6 +4366,7 @@ Bob thought he couldn’t go to the party because he had to write a report, but 
 > Again, spending too long at the computer results in painful wrists and fingers.  
 > 另外，长时间使用电脑还会导致手腕和手指疼痛。
 
+
 固定搭配
 ---
 - #### again and again 
@@ -6756,13 +4382,6 @@ Bob thought he couldn’t go to the party because he had to write a report, but 
 
 > Parents feel that it is difficult to live with teenagers. Then again, teenagers have similar feelings about their parents.  
 > 父母们觉得很难与青少年一起生活。不过，青少年对父母也有相似的感受。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***against*** prep
@@ -6821,12 +4440,7 @@ Bob thought he couldn’t go to the party because he had to write a report, but 
 > The picture looks good against the white wall.   
 > 在白墙的衬托下这幅画很好看。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -6837,7 +4451,6 @@ Bob thought he couldn’t go to the party because he had to write a report, but 
 An agreement seems to be impossible because the majority of the committee members are _______ (反对) it.  
 ##### 答案 against  
   
-
 
 # ***age*** n
 ---
@@ -6883,6 +4496,7 @@ An agreement seems to be impossible because the majority of the committee member
 > the Middle Ages / the Stone Age  
 > 中世纪/石器时代
 
+
 固定搭配
 ---
 - #### come of age 
@@ -6895,13 +4509,6 @@ An agreement seems to be impossible because the majority of the committee member
 - #### under age 
 1. **未到法定年龄**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***age*** vi
@@ -6922,9 +4529,7 @@ An agreement seems to be impossible because the majority of the committee member
 > The sun's rays can age and harm our skin.  
 > 阳光会老化和伤害我们的皮肤。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 aging / ageing /'eɪdʒɪŋ/ n [U]
@@ -6935,10 +4540,6 @@ aging / ageing  adj
 > **ageing population**  
 > China is faced with the challenges of an ageing population.  
 > 中国正面临着人口老龄化的挑战。
-
-真题解析
----
-[null]
 
 
 # ***aged*** adj
@@ -6964,16 +4565,6 @@ aging / ageing  adj
 
 > an aged man/the aged  
 > 一位老人/老年人
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***agency*** n
@@ -7012,16 +4603,6 @@ aging / ageing  adj
 > the Environmental Protection Agency   
 > 环保局
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***agenda*** n
 ---
@@ -7039,16 +4620,6 @@ aging / ageing  adj
 > be high on the agenda / be top of the agenda  
 > 是当务之急/是优先考虑的事
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***agent*** n
 ---
@@ -7061,16 +4632,6 @@ aging / ageing  adj
 ---
 1. *高义频：* **代理人；代理商；经纪人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***aggressive*** adj
@@ -7097,12 +4658,7 @@ aging / ageing  adj
 > A good salesman has to be aggressive.   
 > 好的推销员要有股闯劲。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -7113,7 +4669,6 @@ C.aggressive
 D.heroic  
 ##### 答案 C  
   
-
 
 # ***ago*** adv
 ---
@@ -7148,16 +4703,6 @@ D.heroic
 > I called him up yesterday, but his wife told me that he had left for Wuhan three days before.  
 > 我昨天给他打过电话，但他妻子说他三天前去武汉了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***agony*** n
 ---
@@ -7170,16 +4715,6 @@ D.heroic
 ---
 1. **痛楚，苦难**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***agree*** v  重难点词汇
@@ -7225,6 +4760,7 @@ to say yes to sth：
 > 确保每个小组成员都明白并且同意派给他或她的任务。
 
 agree to后面常接表示“提议”、“办法”、“计划”或“安排”等的词作宾语。
+
 固定搭配
 ---
 - #### agree with
@@ -7252,9 +4788,11 @@ to be the same as sth：
 > Too much meat doesn’t agree with her.   
 > 她不宜吃太多肉。
 
+
 派生词汇
 ---
 agreeable  /ə'ɡriːəbl/ adj 
+
 真题解析
 ---
 ##### 题目  
@@ -7266,7 +4804,6 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 — He phoned me this morning, and we agreed ________ a time and place to meet.  
 ##### 答案 on  
   
-
 
 # ***agreement*** n
 ---
@@ -7305,16 +4842,6 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 > They had an agreement never to talk about work at home.  
 > 他们约定在家中绝不谈工作。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***agricultural*** adj
 ---
@@ -7331,16 +4858,6 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 > agricultural crops  
 > 农作物
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***agriculture*** n
 ---
@@ -7355,16 +4872,6 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 1. *高义频：* **农业；农学**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ah*** int
 ---
@@ -7378,16 +4885,6 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 ---
 1. *高义频：* **啊；呀**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ahead*** adv
@@ -7411,6 +4908,7 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 > We were ten points ahead in the basketball game.   
 > 在篮球比赛中，我们领先10分。
 
+
 固定搭配
 ---
 - #### ahead of
@@ -7425,13 +4923,6 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 
 > The time here is 9 hours ahead of London.   
 > 这里的时间比伦敦早9个小时。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***aid*** n
@@ -7460,6 +4951,7 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 > A dictionary is an important aid in learning a new language.   
 > 词典是学习新语言的重要工具。
 
+
 固定搭配
 ---
 - #### come / go to sb’s aid 
@@ -7471,13 +4963,6 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 
 - #### in aid of
 1. 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***aid*** v
@@ -7497,16 +4982,6 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 
 ### 辨析 assist, help, aid
 三者都有“帮助”之意，但侧重点有所不同。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***aim*** n
 ---
@@ -7539,6 +5014,7 @@ sth you intend to do; a purpose：
 > The aim of this is to reduce air pollution.   
 > 这样做的目的是减少空气污染。
 
+
 固定搭配
 ---
 - #### take aim at
@@ -7548,13 +5024,6 @@ sth you intend to do; a purpose：
 - #### with the aim of
 1. **旨在；目的是：**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***aim*** v
@@ -7599,17 +5068,11 @@ to try to do or achieve sth：
 > a programme aimed at teenagers  
 > 针对青少年的节目
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 aimless  /'eɪmləs/ adj 
 aimlessly /'eɪmləsli/ adv 
-真题解析
----
-[null]
-
 
 # ***air*** n
 ---
@@ -7642,6 +5105,7 @@ aimlessly /'eɪmləsli/ adv
 > The dog hardly ate anything and had such an air of sadness.  
 > 这条狗没怎么吃东西，一副很忧郁的样子。
 
+
 固定搭配
 ---
 - #### in the air 
@@ -7660,13 +5124,6 @@ aimlessly /'eɪmləsli/ adv
 
 > We’ll be on air in three minutes.   
 > 我们三分钟后开始广播。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***air*** v
@@ -7698,16 +5155,10 @@ aimlessly /'eɪmləsli/ adv
 > The TV play is due to air next week.   
 > 这部电视剧定于下周播出。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 airless  /'eələs/ adj 
-真题解析
----
-[null]
-
 
 # ***air-conditioned*** adj
 ---
@@ -7720,16 +5171,6 @@ airless  /'eələs/ adj
 ---
 1. **带空调的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***aircraft*** n
@@ -7745,16 +5186,6 @@ airless  /'eələs/ adj
 1. *高义频：* **飞机； 航空器；飞行器**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***airfield*** n
 ---
@@ -7767,16 +5198,6 @@ airless  /'eələs/ adj
 ---
 1. **（军用）机场**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***airline*** n
@@ -7798,16 +5219,6 @@ airless  /'eələs/ adj
 > international airlines   
 > 国际航空公司
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***airmail*** n
 ---
@@ -7828,16 +5239,6 @@ airless  /'eələs/ adj
 > by airmail   
 > 空邮递送
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***airplane*** n
 ---
@@ -7851,16 +5252,6 @@ airless  /'eələs/ adj
 ---
 1. *高义频：* **飞机 (plane,BrE aeroplane)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***airport*** n
@@ -7879,16 +5270,6 @@ airless  /'eələs/ adj
 > We’ll meet him at the airport.   
 > 我们要去机场接他。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***airsick*** adj
 ---
@@ -7901,16 +5282,6 @@ airless  /'eələs/ adj
 ---
 1. **晕机的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***airspace*** n
@@ -7925,16 +5296,6 @@ airless  /'eələs/ adj
 ---
 1. *高义频：* **领空；空域**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***alarm*** n
@@ -7970,16 +5331,6 @@ airless  /'eələs/ adj
 3. *高义频：* **惊恐；惊悚**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***alarm*** vt
 ---
@@ -7996,17 +5347,11 @@ airless  /'eələs/ adj
 > The news that the enemies were near alarmed everybody.  
 > 敌军迫近的消息使大家感到恐慌。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 alarmed /ə'lɑːrmd/ adj 
 alarming /ə'lɑːrmɪŋ/ adj 
-真题解析
----
-[null]
-
 
 # ***alarmed*** adj
 ---
@@ -8020,16 +5365,6 @@ alarming /ə'lɑːrmɪŋ/ adj
 1. *高义频：* **担心的；害怕的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***alarming*** adj
 ---
@@ -8042,16 +5377,6 @@ alarming /ə'lɑːrmɪŋ/ adj
 ---
 1. **令人担忧的；令人恐惧的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***album*** n
@@ -8070,16 +5395,6 @@ alarming /ə'lɑːrmɪŋ/ adj
 > She kept all the photographs she took recently in an album.  
 > 她把她最近拍的所有照片都放到相册里。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***alcohol*** n
 ---
@@ -8097,16 +5412,6 @@ alarming /ə'lɑːrmɪŋ/ adj
 > drink / consume alcohol  
 > 喝/饮酒
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***alcoholic*** adj
 ---
@@ -8123,16 +5428,6 @@ alarming /ə'lɑːrmɪŋ/ adj
 > In some countries advertising alcoholic drinks or tobacco is banned altogether.   
 > 有些国家彻底禁止做烟酒广告。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***alcoholic*** n
 ---
@@ -8147,16 +5442,6 @@ alarming /ə'lɑːrmɪŋ/ adj
 1. *高义频：* **酗酒者**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***alertly*** adv
 ---
@@ -8169,16 +5454,6 @@ alarming /ə'lɑːrmɪŋ/ adj
 ---
 1. **警觉地，警惕地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***algae*** n
@@ -8193,16 +5468,6 @@ alarming /ə'lɑːrmɪŋ/ adj
 1. **藻类（植物）**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***algebra*** n
 ---
@@ -8216,16 +5481,6 @@ alarming /ə'lɑːrmɪŋ/ adj
 ---
 1. *高义频：* **代数 (学)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***alien*** adj
@@ -8243,16 +5498,6 @@ alarming /ə'lɑːrmɪŋ/ adj
 > alien cultures  
 > 异域文化
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***alien*** n
 ---
@@ -8266,16 +5511,6 @@ alarming /ə'lɑːrmɪŋ/ adj
 ---
 1. *高义频：* **侨民；外星人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***alike*** adj
@@ -8294,16 +5529,6 @@ alarming /ə'lɑːrmɪŋ/ adj
 > All happy families are alike; each unhappy family is unhappy in its own way.  
 > 幸福的家庭都是相似的，不幸的家庭各有各的不幸。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***alike*** adv
 ---
@@ -8319,16 +5544,6 @@ alarming /ə'lɑːrmɪŋ/ adj
 
 > These science play-lands are great fun for kids and grown-ups alike.   
 > 这些科学乐园能给孩子极大的乐趣，对于成人也同样如此。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***alive*** adj
@@ -8364,6 +5579,7 @@ alarming /ə'lɑːrmɪŋ/ adj
 > 爱德华高兴得眉飞色舞。
 
 alive 可作表语、补语或后置定语；无比较级和最高级。
+
 固定搭配
 ---
 - #### come alive
@@ -8385,13 +5601,6 @@ alive 可作表语、补语或后置定语；无比较级和最高级。
 > The fishing villages come alive in spring.   
 > 渔村在春季变得繁忙起来。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***all*** adj  重难点词汇
 ---
@@ -8411,16 +5620,6 @@ alive 可作表语、补语或后置定语；无比较级和最高级。
 > All roads lead to Rome.   
 > 条条道路通罗马。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***all*** adv  重难点词汇
 ---
@@ -8439,6 +5638,7 @@ alive 可作表语、补语或后置定语；无比较级和最高级。
 
 > She was dressed all in white.   
 > 她穿了一身白。
+
 
 固定搭配
 ---
@@ -8465,13 +5665,6 @@ alive 可作表语、补语或后置定语；无比较级和最高级。
 
 > All too often, people buy a pen based only on looks.  
 > 人们买笔时往往都只看外表。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***all*** pron  重难点词汇
@@ -8500,6 +5693,7 @@ alive 可作表语、补语或后置定语；无比较级和最高级。
 
 > All is not gold that glitters.   
 > 闪光的未必都是金子。
+
 
 固定搭配
 ---
@@ -8534,9 +5728,7 @@ alive 可作表语、补语或后置定语；无比较级和最高级。
 > — Not at all.   
 > 不客气。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -8561,7 +5753,6 @@ All we need _______ (be) a small piece of land where we can plant various kinds 
 ##### 答案 is  
   
 
-
 # ***all-round*** adj
 ---
 英音 ˌɔːl'raʊnd     美音 ˌɔːl'raʊnd
@@ -8573,16 +5764,6 @@ All we need _______ (be) a small piece of land where we can plant various kinds 
 ---
 1. **功能齐全的；全面的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***allergic*** adj
@@ -8601,19 +5782,13 @@ All we need _______ (be) a small piece of land where we can plant various kinds 
 > He was allergic to cat fur and started sneezing when she brought her pet into the room.   
 > 他对猫的毛过敏，只要她把小猫带进屋他就开始打喷嚏。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 David is allergic ________ animal fur, so he won’t visit anyone who has cats or dogs in the house.   
 ##### 答案 to  
   
-
 
 # ***alley*** n
 ---
@@ -8628,16 +5803,6 @@ David is allergic ________ animal fur, so he won’t visit anyone who has cats o
 1. *高义频：* **小巷；胡同**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***alligator*** n
 ---
@@ -8650,16 +5815,6 @@ David is allergic ________ animal fur, so he won’t visit anyone who has cats o
 ---
 1. **短吻鳄**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***allocate*** vt
@@ -8677,16 +5832,6 @@ David is allergic ________ animal fur, so he won’t visit anyone who has cats o
 > **allocated,to**  
 > I have divided the kingdom into three parts, and allocated one part to each of you.   
 > 我已把国家一分为三，给你们每个人一份。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***allow*** v  重难点词汇
@@ -8754,6 +5899,7 @@ to provide money, time, etc. for sb / sth：
 > Have you allowed yourself enough time to get to the airport?   
 > 你已留出足够的时间去机场了吗？
 
+
 固定搭配
 ---
 - #### allow for 
@@ -8766,9 +5912,11 @@ to provide money, time, etc. for sb / sth：
 > Has everything been allowed for in your plan?   
 > 你的计划是否把各种情况都考虑进去了？
 
+
 派生词汇
 ---
 allowable  /ə'laʊəbl/ adj 
+
 真题解析
 ---
 ##### 题目  
@@ -8784,7 +5932,6 @@ The writing point of the pen should allow the ink ________ (flow) evenly (均匀
 — Sorry. We don’t allow ________ (smoke) here.  
 ##### 答案 smoking  
   
-
 
 # ***allowance*** n
 ---
@@ -8808,6 +5955,7 @@ The writing point of the pen should allow the ink ________ (flow) evenly (均匀
 > We had to earn our allowance by doing chores around the house.  
 > 我们只好靠在家里做杂活来挣零用钱。
 
+
 固定搭配
 ---
 - #### make allowance(s) for 
@@ -8816,13 +5964,6 @@ The writing point of the pen should allow the ink ________ (flow) evenly (均匀
 
 > Making allowances for his poor health, his boss allowed him to work six hours a day instead of eight.  
 > 老板体谅他身体不好，让他每天工作六小时而不是八小时。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***almost*** adv
@@ -8845,16 +5986,6 @@ The writing point of the pen should allow the ink ________ (flow) evenly (均匀
 
 ### 辨析 almost, nearly
 二者都是副词，在肯定句中常可换用。区别如下：
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***alone*** adj
 ---
@@ -8892,6 +6023,7 @@ The writing point of the pen should allow the ink ________ (flow) evenly (均匀
 > In the United States alone, over 100 million cellphones are thrown away each year  
 > 仅在美国，每年就有超过1亿部手机被扔掉。
 
+
 固定搭配
 ---
 - #### leave / let sb alone
@@ -8908,9 +6040,7 @@ The writing point of the pen should allow the ink ________ (flow) evenly (均匀
 > Leave the cakes alone. They’re for the guests.  
 > 别动那些蛋糕，那是给客人吃的。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -8922,7 +6052,6 @@ C.I’m afraid not
 D.It’s up to you  
 ##### 答案 A  
   
-
 
 # ***alone*** adv
 ---
@@ -8939,16 +6068,6 @@ D.It’s up to you
 > He prefers to travel alone.  
 > 他更喜欢独自旅行。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***along*** prep
 ---
@@ -8964,16 +6083,6 @@ D.It’s up to you
 
 > Sean has formed the habit of jogging along the tree-lined avenue for two hours every day.  
 > 肖恩养成了每天沿着林荫道跑步两小时的习惯。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***along*** adv
@@ -8998,6 +6107,7 @@ D.It’s up to you
 > Would you like me to come along with you?   
 > 你愿意让我跟你一起去吗？
 
+
 固定搭配
 ---
 - #### along with
@@ -9008,9 +6118,7 @@ D.It’s up to you
 > 合理饮食和定期锻炼是减肥的最佳途径。
 
 主语后跟有along with短语时，谓语动词的单复数应和along with前面的主语保持一致。
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -9018,7 +6126,6 @@ Nowadays, cycling, along with jogging and swimming, ______
 (be) regarded as one of the best all-round forms of exercise.   
 ##### 答案 is  
   
-
 
 # ***alongside*** adv
 ---
@@ -9034,16 +6141,6 @@ Nowadays, cycling, along with jogging and swimming, ______
 
 > He waited several minutes for a taxi to pull up alongside.   
 > 他等了几分钟，直到一辆出租车靠边停下。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***alongside*** prep
@@ -9070,16 +6167,6 @@ Nowadays, cycling, along with jogging and swimming, ______
 > The robot is not intended to replace workers, but to work alongside other employees.  
 > 这个机器人不是为了替代工人，而是和其他员工一起工作。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***aloud*** adv
 ---
@@ -9104,16 +6191,6 @@ Nowadays, cycling, along with jogging and swimming, ______
 
 ### 辨析 loud, loudly, aloud
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***alphabet*** n
 ---
@@ -9128,16 +6205,6 @@ Nowadays, cycling, along with jogging and swimming, ______
 1. *高义频：* **字母表；入门**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***alphabetical*** adj
 ---
@@ -9150,16 +6217,6 @@ Nowadays, cycling, along with jogging and swimming, ______
 ---
 1. *高义频：* **字母 (表) 的；按字母顺序的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***already*** adv
@@ -9188,16 +6245,6 @@ Nowadays, cycling, along with jogging and swimming, ______
 > 你不会又饿了吧——你可是两小时前刚吃完午饭！
 
 already一般用在肯定句中，在否定句和疑问句中多用yet。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***also*** adv
 ---
@@ -9215,16 +6262,6 @@ already一般用在肯定句中，在否定句和疑问句中多用yet。
 > 肯是名优秀的摄影师，他还喜欢绘画。
 
 also多用于肯定句中，否定句中多用either。 also多用于书面语，口语中多用too或as well。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***alter*** v
 ---
@@ -9237,16 +6274,6 @@ also多用于肯定句中，否定句中多用either。 also多用于书面语�
 ---
 1. *高义频：* **(使) 改变；(使) 变化**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***alternative*** n  重难点词汇
@@ -9269,6 +6296,7 @@ also多用于肯定句中，否定句中多用either。 also多用于书面语�
 > In pursuing a dream, we might focus on only one way of making it come true, forgetting that there may be alternatives.  
 > 追求梦想时，我们可能会只聚焦于实现梦想的一种方式，而忘记也许还有其他的选择。
 
+
 固定搭配
 ---
 - #### have no alternative but to do sth
@@ -9278,16 +6306,13 @@ also多用于肯定句中，否定句中多用either。 also多用于书面语�
 > I had no alternative but to report him to the police.   
 > 除了向警察举报他，我别无选择。
 
+
 派生词汇
 ---
 alternatively /ɔːl'tɜːrnətɪvli/ adv 
 > **or alternatively**  
 > I could come to your house, or alternatively we could meet in town.  
 > 我可以来你家找你，或者我们也可以在城里见面。
-
-真题解析
----
-[null]
 
 
 # ***alternative*** adj  重难点词汇
@@ -9318,10 +6343,12 @@ different from what is usual or traditional ：
 > an alternative lifestyle  
 > 另类的生活方式
 
+
 固定搭配
 ---
 - #### alternative energy 
 1. **替代能源 (指太阳能、风能、水能等)**  
+
 
 
 派生词汇
@@ -9330,6 +6357,7 @@ alternatively /ɔːl'tɜːrnətɪvli/ adv
 > **or alternatively**  
 > I could come to your house, or alternatively we could meet in town.  
 > 我可以来你家找你，或者我们也可以在城里见面。
+
 
 真题解析
 ---
@@ -9345,7 +6373,6 @@ D.apparent
 As there is less and less coal and oil, scientists are exploring new ways of making use of ________(替代能源), such as sunlight, wind and water for power and fuel.  
 ##### 答案 alternative energy  
   
-
 
 # ***although*** conj
 ---
@@ -9370,12 +6397,7 @@ As there is less and less coal and oil, scientists are exploring new ways of mak
 > 我想我们以前没见过，不过我得说你看上去的确面熟。
 
 although不与but连用，但可以与yet, still等表转折的副词连用。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -9391,7 +6413,6 @@ D.Once
 ##### 答案 C  
   
 
-
 # ***altitude*** n
 ---
 英音 'æltɪtjuːd     美音 'æltɪtuːd
@@ -9403,16 +6424,6 @@ D.Once
 ---
 1. **[C] (海拔) 高度；高处**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***altogether*** adv
@@ -9442,16 +6453,6 @@ D.Once
 > The train went slower and slower until it stopped altogether.  
 > 火车速度越来越慢，最后彻底停了下来。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***aluminium*** n
 ---
@@ -9465,16 +6466,6 @@ D.Once
 ---
 1. *高义频：* **铝**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***always*** adv
@@ -9502,6 +6493,7 @@ always与进行时连用，有时表示因一件事情多次重复，说话人�
 > Dear Mom, wherever I am, I will always love you.  
 > 亲爱的妈妈，无论我身在何处都永远爱您。
 
+
 固定搭配
 ---
 - #### as always
@@ -9510,13 +6502,6 @@ always与进行时连用，有时表示因一件事情多次重复，说话人�
 
 > As always, he puts on his shoes and goes for a walk.  
 > 他和平时一样，穿上鞋出去散步了。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***am*** 
@@ -9530,16 +6515,6 @@ always与进行时连用，有时表示因一件事情多次重复，说话人�
 ---
 1. **午前,上午**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***amateur*** n
@@ -9557,16 +6532,6 @@ always与进行时连用，有时表示因一件事情多次重复，说话人�
 > The tournament is open to amateurs as well as professionals.  
 > 这次比赛不仅职业选手可以参加，而且业余选手也可以参加。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***amateur*** adj
 ---
@@ -9582,16 +6547,6 @@ always与进行时连用，有时表示因一件事情多次重复，说话人�
 
 > an amateur photographer  
 > 业余摄影爱好者
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***amaze*** vt
@@ -9610,16 +6565,10 @@ to surprise sb very much：
 > Her knowledge amazes me.  
 > 她的学识令我吃惊。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 amazement /ə'meɪzmənt/ n 
-真题解析
----
-[null]
-
 
 # ***amazed*** adj
 ---
@@ -9648,12 +6597,7 @@ amazement /ə'meɪzmənt/ n
 > I was amazed that he knew a lot about stamps.  
 > 我很惊讶他对邮票懂得很多。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -9664,7 +6608,6 @@ I was amazing at the fact that a sick person could feel much more better after s
 Little Tom sat_______(amaze) watching the monkey dancing in front of him.  
 ##### 答案 amazed  
   
-
 
 # ***amazement*** n
 ---
@@ -9678,16 +6621,6 @@ Little Tom sat_______(amaze) watching the monkey dancing in front of him.
 ---
 1. *高义频：* **惊讶；惊愕**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***amazing*** adj
@@ -9704,16 +6637,6 @@ Little Tom sat_______(amaze) watching the monkey dancing in front of him.
 
 > It is really amazing that the once-ruined place has now been turned into a beautiful school.  
 > 曾被摧毁的地方现在已变成了一所美丽的学校，真让人难以相信。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ambassador*** n
@@ -9732,16 +6655,6 @@ Little Tom sat_______(amaze) watching the monkey dancing in front of him.
 > the British ambassador to Greece  
 > 英国驻希腊大使
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ambassadress*** n
 ---
@@ -9754,16 +6667,6 @@ Little Tom sat_______(amaze) watching the monkey dancing in front of him.
 ---
 1. *高义频：* **[C] 女大使；大使夫人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***amber*** n
@@ -9778,16 +6681,6 @@ Little Tom sat_______(amaze) watching the monkey dancing in front of him.
 ---
 1. *高义频：* **琥珀；琥珀色**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ambiguous*** adj
@@ -9804,16 +6697,6 @@ Little Tom sat_______(amaze) watching the monkey dancing in front of him.
 
 > Body language can sometimes be ambiguous.   
 > 身势语有时会产生歧义。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ambition*** n
@@ -9837,16 +6720,6 @@ Little Tom sat_______(amaze) watching the monkey dancing in front of him.
 > Until all is over ambition never dies.  
 > 不到黄河心不死。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ambitious*** adj
 ---
@@ -9859,16 +6732,6 @@ Little Tom sat_______(amaze) watching the monkey dancing in front of him.
 ---
 1. *高义频：* **有抱负的；野心勃勃的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ambulance*** n
@@ -9883,16 +6746,6 @@ Little Tom sat_______(amaze) watching the monkey dancing in front of him.
 1. *高义频：* **[C] 救护车**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***amid*** prep
 ---
@@ -9905,16 +6758,6 @@ Little Tom sat_______(amaze) watching the monkey dancing in front of him.
 ---
 1. **在……中**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***among*** prep
@@ -9935,16 +6778,6 @@ Little Tom sat_______(amaze) watching the monkey dancing in front of him.
 
 > Wuhan is among the largest industrial cities in China.  
 > 武汉是中国最大的工业城市之一。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***amount*** n
@@ -9974,16 +6807,6 @@ amounts of / a large (huge / small) amount of 尤与不可数名词连用。作�
 > There’s only a small amount of food.   
 > 只有一点儿食物。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***amount*** vi
 ---
@@ -9992,9 +6815,6 @@ amounts of / a large (huge / small) amount of 尤与不可数名词连用。作�
 词频 5 | 口语 3 | 书面 3 | 阅读 0
 
 
-英文释义
----
-[null]
 固定搭配
 ---
 - #### amount to:
@@ -10010,13 +6830,6 @@ amounts of / a large (huge / small) amount of 尤与不可数名词连用。作�
 > Keeping what belongs to another amounts to stealing.   
 > 占有别人的东西就相当于偷窃。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***amphibian*** n
 ---
@@ -10031,16 +6844,6 @@ amounts of / a large (huge / small) amount of 尤与不可数名词连用。作�
 1. *高义频：* **两栖动物**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***amphibious*** adj
 ---
@@ -10053,16 +6856,6 @@ amounts of / a large (huge / small) amount of 尤与不可数名词连用。作�
 ---
 1. *高义频：* **两栖 (类) 的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ample*** adj
@@ -10082,16 +6875,6 @@ more than enough:
 > They gave him ample time to do this research.  
 > 他们给他充裕的时间来做这项研究。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***amuse*** vt
 ---
@@ -10109,16 +6892,10 @@ more than enough:
 > The children amused themselves by playing hide-and-seek games.  
 > 孩子们玩捉迷藏游戏来取乐。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 amusing /ə'mjuːzɪŋ/ adj 
-真题解析
----
-[null]
-
 
 # ***amused*** adj
 ---
@@ -10140,19 +6917,13 @@ amusing /ə'mjuːzɪŋ/ adj
 > Playing with water can keep children amused for hours.  
 > 嬉水可以使孩子们玩好几个小时都不烦。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Lucy has a great sense of humour and always keeps her colleagues ________ (amuse) with her stories.  
 ##### 答案 amused  
   
-
 
 # ***amusement*** n
 ---
@@ -10178,16 +6949,6 @@ Lucy has a great sense of humour and always keeps her colleagues ________ (amuse
 > Big cities have many amusements.  
 > 大城市有许多娱乐活动。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***amusing*** adj
 ---
@@ -10200,16 +6961,6 @@ Lucy has a great sense of humour and always keeps her colleagues ________ (amuse
 ---
 1. *高义频：* **好笑的；有趣的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***an*** art
@@ -10258,12 +7009,7 @@ Lucy has a great sense of humour and always keeps her colleagues ________ (amuse
 > Brian is gifted in writing music; he is very likely to be a Beethoven.  
 > 布莱恩有作曲天赋，他很有可能成为又一个贝多芬。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -10290,7 +7036,6 @@ The paper is due next month, and I am working seven days ________ week, often lo
 ##### 答案 a; the  
   
 
-
 # ***analyse*** vt
 ---
 英音 'ænəlaɪz     美音 'ænəlaɪz
@@ -10308,16 +7053,6 @@ The paper is due next month, and I am working seven days ________ week, often lo
 
 > With his help, we’ve learned how to analyze and settle problems.  
 > 在他的帮助下，我们学会了如何分析问题、解决问题。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***analysis*** n
@@ -10341,16 +7076,6 @@ The paper is due next month, and I am working seven days ________ week, often lo
 > Blood samples were sent to the laboratory for analysis.  
 > 血样被送到实验室作分析。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***analyst*** n
 ---
@@ -10364,16 +7089,6 @@ The paper is due next month, and I am working seven days ________ week, often lo
 1. **分析家；分析师**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***analytical*** adj
 ---
@@ -10386,16 +7101,6 @@ The paper is due next month, and I am working seven days ________ week, often lo
 ---
 1. *高义频：* **分析的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***analyze*** vt
@@ -10416,16 +7121,6 @@ The paper is due next month, and I am working seven days ________ week, often lo
 > With his help, we’ve learned how to analyze and settle problems.  
 > 在他的帮助下，我们学会了如何分析问题、解决问题。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ancestor*** n
 ---
@@ -10440,16 +7135,6 @@ The paper is due next month, and I am working seven days ________ week, often lo
 1. *高义频：* **祖宗；祖先**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***anchor*** n
 ---
@@ -10463,16 +7148,6 @@ The paper is due next month, and I am working seven days ________ week, often lo
 ---
 1. *高义频：* **锚**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***anchor*** v
@@ -10489,16 +7164,6 @@ The paper is due next month, and I am working seven days ________ week, often lo
 
 2. **使稳固；使固定**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ancient*** adj
@@ -10518,16 +7183,6 @@ The paper is due next month, and I am working seven days ________ week, often lo
 
 > This is a well-known story from an ancient Chinese idiom.  
 > 这是个有名的中国古代成语故事。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***and*** conj
@@ -10566,12 +7221,7 @@ The paper is due next month, and I am working seven days ________ week, often lo
 > Find ways to praise your children often, and you'll ﬁnd they will open their hearts to you.  
 > 想办法经常表扬你的孩子，你就会发现他们会对你敞开心扉。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -10591,7 +7241,6 @@ D.so
 ##### 答案 A  
   
 
-
 # ***android*** n
 ---
 英音 'ændrɔɪd     美音 'ændrɔɪd
@@ -10604,16 +7253,6 @@ D.so
 ---
 1. *高义频：* **机器人；安卓系统 (Google开发的基于Linux平台的手机操作系统)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***anecdote*** n
@@ -10629,16 +7268,6 @@ D.so
 1. *高义频：* **轶事；奇闻**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***angel*** n
 ---
@@ -10652,16 +7281,6 @@ D.so
 ---
 1. *高义频：* **天使；仁慈、善良或可爱的人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***anger*** n
@@ -10689,16 +7308,6 @@ D.so
 > He is easily angered.  
 > 他很容易被激怒。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***anger*** vt
 ---
@@ -10714,16 +7323,6 @@ D.so
 
 > He is easily angered.  
 > 他很容易被激怒。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***angle*** n
@@ -10751,16 +7350,6 @@ D.so
 > **from a,angle**  
 > Try looking at the affair from a different angle.  
 > 试着从另一个角度来看这件事。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***angry*** adj
@@ -10791,16 +7380,10 @@ D.so
 > The teacher got angry that Jenny was late again.  
 > 詹妮又迟到了，老师很生气。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 angrily /'æŋɡrəli/ adv 
-真题解析
----
-[null]
-
 
 # ***animal*** n
 ---
@@ -10819,19 +7402,13 @@ angrily /'æŋɡrəli/ adv
 > wild animals  
 > 野生动物
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Plants and a________, including humans, need food and water to survive.  
 ##### 答案 animals  
   
-
 
 # ***ankle*** n
 ---
@@ -10845,16 +7422,6 @@ Plants and a________, including humans, need food and water to survive.
 ---
 1. *高义频：* **踝；脚踝；踝骨**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***anniversary*** n
@@ -10872,16 +7439,6 @@ Plants and a________, including humans, need food and water to survive.
 
 > the fortieth wedding anniversary  
 > 结婚40周年纪念日
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***announce*** vt
@@ -10914,16 +7471,10 @@ Plants and a________, including humans, need food and water to survive.
 > Would you announce the guests as they come in?  
 > 客人来时你通报一声好吗？
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 announcer /ə'naʊnsə(r)/ n [C]
-真题解析
----
-[null]
-
 
 # ***announcement*** n
 ---
@@ -10945,16 +7496,6 @@ announcer /ə'naʊnsə(r)/ n [C]
 > I read the announcement of the summer camp that you have posted on the Internet and I am interested in it.  
 > 阅读了你们在网上发布的夏令营布告，对此我很感兴趣。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***announcer*** n
 ---
@@ -10968,16 +7509,6 @@ announcer /ə'naʊnsə(r)/ n [C]
 ---
 1. *高义频：* **广播员；告知者；报幕员**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***annoy*** vt
@@ -10999,16 +7530,10 @@ to make sb feel slightly angry and unhappy：
 > It really annoys me when I see people dropping litter.  
 > 看到别人乱丢垃圾我真的很生气。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 annoying /ə'nɔɪɪŋ/ adj 
-真题解析
----
-[null]
-
 
 # ***annoyance*** n
 ---
@@ -11022,16 +7547,6 @@ annoying /ə'nɔɪɪŋ/ adj
 ---
 1. *高义频：* **烦恼，气恼**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***annoyed*** adj
@@ -11061,16 +7576,6 @@ annoying /ə'nɔɪɪŋ/ adj
 > Mr Davies was annoyed that the books were missing.  
 > 那些图书不见了，戴维斯先生很生气。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***annual*** adj
 ---
@@ -11095,16 +7600,10 @@ annoying /ə'nɔɪɪŋ/ adj
 > Our school's annual sports day took place yesterday in 30-degree heat.  
 > 昨天在30度的高温下，学校举行了一年一度的运动会。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 annually /'ænjuəli/ adv 
-真题解析
----
-[null]
-
 
 # ***anonymous*** adj
 ---
@@ -11122,16 +7621,6 @@ annually /'ænjuəli/ adv
 > an anonymous letter  
 > 匿名信
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***another*** pron
 ---
@@ -11147,6 +7636,7 @@ annually /'ænjuəli/ adv
 
 > I don’t like this hat. Show me another.  
 > 我不喜欢这顶帽子，再给我拿一顶。
+
 
 固定搭配
 ---
@@ -11165,16 +7655,13 @@ annually /'ænjuəli/ adv
 > Saying is one thing and doing another.  
 > 说是一回事，做又是另一回事。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Recycling is one way to protect the environment;reusing is ________.  
 ##### 答案 another  
   
-
 
 # ***another*** adj
 ---
@@ -11196,16 +7683,6 @@ Recycling is one way to protect the environment;reusing is ________.
 
 > — Sorry, let’s make it another time.  
 > 抱歉，我们换个时间吧。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***answer*** v
@@ -11241,6 +7718,7 @@ Recycling is one way to protect the environment;reusing is ________.
 > answer sb’s call  
 > 响应某人的号召
 
+
 固定搭配
 ---
 - #### answer for
@@ -11249,13 +7727,6 @@ Recycling is one way to protect the environment;reusing is ________.
 
 > You’ll have to answer for your wrongdoing one day.  
 > 总有一天，你要对你所做的错事负责。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***answer*** n
@@ -11290,6 +7761,7 @@ Recycling is one way to protect the environment;reusing is ________.
 > There is no easy answer to the problem.  
 > 这个问题没有简易的解决办法。
 
+
 固定搭配
 ---
 - #### in answer to
@@ -11298,13 +7770,6 @@ Recycling is one way to protect the environment;reusing is ________.
 
 > The doctor came at once in answer to my telephone call.  
 > 医生接了我的电话后就立即赶过来了。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ant*** n
@@ -11320,16 +7785,6 @@ Recycling is one way to protect the environment;reusing is ________.
 1. *高义频：* **蚂蚁**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***antelope*** n
 ---
@@ -11343,16 +7798,6 @@ Recycling is one way to protect the environment;reusing is ________.
 ---
 1. *高义频：* **羚；羚类动物**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***anti-*** prefix
@@ -11373,16 +7818,6 @@ Recycling is one way to protect the environment;reusing is ________.
 > anti-virus software  
 > 杀毒软件
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***anti-black*** adj
 ---
@@ -11396,16 +7831,6 @@ Recycling is one way to protect the environment;reusing is ________.
 1. *高义频：* **反黑人的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***anti-smoking*** n
 ---
@@ -11418,16 +7843,6 @@ Recycling is one way to protect the environment;reusing is ________.
 ---
 1. **反对吸烟**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***anticipate*** vt
@@ -11445,16 +7860,6 @@ Recycling is one way to protect the environment;reusing is ________.
 > A good speaker is able to anticipate an audience’s needs.  
 > 优秀的演讲者能够预先考虑到听众的需求。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***antique*** adj
 ---
@@ -11470,16 +7875,6 @@ Recycling is one way to protect the environment;reusing is ________.
 
 > Never will they sell their antique furniture.  
 > 他们永远也不会卖掉自己的古式家具。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***antique*** n
@@ -11497,16 +7892,6 @@ Recycling is one way to protect the environment;reusing is ________.
 
 > Priceless antiques were destroyed in the fire.  
 > 极其贵重的古董在大火中被焚毁了。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***anxiety*** n
@@ -11543,16 +7928,6 @@ Recycling is one way to protect the environment;reusing is ________.
 > **anxiety to**  
 > His anxiety to win the vote was obvious.  
 > 很明显，他渴望赢得选举的胜利。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***anxious*** adj  重难点词汇
@@ -11600,19 +7975,17 @@ wanting sth very much (keen)：
 > He was anxious that they should have all they want.  
 > 他希望他们得到所有想要的东西。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 anxiously /'æŋkʃəsli/ adv 
+
 真题解析
 ---
 ##### 题目  
 My mother always gets a bit ________ (焦虑的) if we don’t arrive when we say we will.  
 ##### 答案 anxious / worried  
   
-
 
 # ***any*** adv
 ---
@@ -11632,12 +8005,7 @@ My mother always gets a bit ________ (焦虑的) if we don’t arrive when we sa
 > I couldn’t come any sooner.  
 > 我不可能来得更早。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -11648,7 +8016,6 @@ Jane was asked a lot of questions, but she didn’t answer ________ of them.
 We had three sets of garden tools and we seemed to have no use for ________ .  
 ##### 答案 any  
   
-
 
 # ***any*** adj
 ---
@@ -11677,16 +8044,6 @@ We had three sets of garden tools and we seemed to have no use for ________ .
 > Any time you want me, just send for me.  
 > 无论何时，只要需要我，就派人来找我。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***any*** pron
 ---
@@ -11712,16 +8069,6 @@ We had three sets of garden tools and we seemed to have no use for ________ .
 > I haven’t seen any of his movies.  
 > 他的电影我一部都没看过。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***anybody*** pron
 ---
@@ -11746,16 +8093,6 @@ We had three sets of garden tools and we seemed to have no use for ________ .
 > There’s no need to hurt anyone’s / anybody’s feelings.  
 > 没有必要伤害别人的感情。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***anyhow*** adv
 ---
@@ -11775,16 +8112,6 @@ We had three sets of garden tools and we seemed to have no use for ________ .
 
 > There's nothing to eat. Anyhow, I'm not really hungry.  
 > 没有吃的了。反正我也不饿。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***anyone*** pron
@@ -11810,12 +8137,7 @@ We had three sets of garden tools and we seemed to have no use for ________ .
 > There’s no need to hurt anyone’s / anybody’s feelings.  
 > 没有必要伤害任何人的感情。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -11827,7 +8149,6 @@ C.someone else
 D.nobody else  
 ##### 答案 B  
   
-
 
 # ***anything*** pron
 ---
@@ -11863,6 +8184,7 @@ D.nobody else
 > I want something to eat; anything will do.  
 > 我想吃点东西，随便什么都行。
 
+
 固定搭配
 ---
 - #### anything but
@@ -11888,13 +8210,6 @@ D.nobody else
 
 > Sam didn’t seem too disappointed at losing. If anything, he seemed relieved that it was all over.  
 > 对于失败山姆看起来并不怎么失望，要是说有什么的话，倒是这事儿结束了，他好像松了一口气。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***anyway*** adv
@@ -11937,12 +8252,7 @@ D.nobody else
 > Anyway, doing what you love is wonderful.  
 > 总之，做自己喜欢的事是令人愉快的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -11953,7 +8263,6 @@ C.Otherwise
 D.Therefore  
 ##### 答案 A  
   
-
 
 # ***anywhere*** adv
 ---
@@ -11983,6 +8292,7 @@ D.Therefore
 > Rome has tried to protect fish more than anywhere else in the world.  
 > 罗马比世界上其他任何地方都努力保护鱼类。
 
+
 固定搭配
 ---
 - #### anywhere between … and … / from … to …
@@ -11995,9 +8305,7 @@ D.Therefore
 > The training can last anywhere from one to six years.  
 > 该训练能持续一到六年。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -12012,7 +8320,6 @@ C.anywhere
 D.somewhere  
 ##### 答案 C  
   
-
 
 # ***apart*** adv
 ---
@@ -12058,6 +8365,7 @@ D.somewhere
 > His marriage fell apart.  
 > 他的婚姻破裂了。
 
+
 固定搭配
 ---
 - #### apart from
@@ -12080,16 +8388,13 @@ D.somewhere
 > Their experience of life is worlds apart.  
 > 他们的生活经历完全不同。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Apart________ good service, the restaurant offers different kinds of traditional Fujian dishes.   
 ##### 答案 from  
   
-
 
 # ***apartment*** n
 ---
@@ -12103,16 +8408,6 @@ Apart________ good service, the restaurant offers different kinds of traditional
 ---
 1. *高义频：* **(AmE) 一套公寓房间；公寓大楼 (BrE  flat)：**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***apologise*** vi
@@ -12135,19 +8430,17 @@ Apart________ good service, the restaurant offers different kinds of traditional
 > I think I’ll buy her a present and apologize.  
 > 我想给她买份礼物来赔个不是。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 apologetic /əˌpɑːlə'dʒetɪk/ adj 
+
 真题解析
 ---
 ##### 题目  
 Yesterday Michael a________ to his boss for being late.  
 ##### 答案 apologised / apologized  
   
-
 
 # ***apologize*** vi
 ---
@@ -12169,19 +8462,17 @@ Yesterday Michael a________ to his boss for being late.
 > I think I’ll buy her a present and apologize.  
 > 我想给她买份礼物来赔个不是。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 apologetic /əˌpɑːlə'dʒetɪk/ adj 
+
 真题解析
 ---
 ##### 题目  
 Yesterday Michael a________ to his boss for being late.  
 ##### 答案 apologized / apologised  
   
-
 
 # ***apology*** n
 ---
@@ -12212,12 +8503,7 @@ Yesterday Michael a________ to his boss for being late.
 > I must make an apology to him for not going to his party.  
 > 没有参加他的聚会，我得向他道歉。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -12234,7 +8520,6 @@ I have an ________ (道歉) to make to you — I’m afraid I opened your letter
 ##### 答案 apology  
   
 
-
 # ***apostrophe*** n
 ---
 英音 ə'pɒstrəfi     美音 ə'pɑːstrəfi
@@ -12246,16 +8531,6 @@ I have an ________ (道歉) to make to you — I’m afraid I opened your letter
 ---
 1. **表示所有格的撇号**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***app*** n
@@ -12269,16 +8544,6 @@ I have an ________ (道歉) to make to you — I’m afraid I opened your letter
 ---
 1. **应用程序；应用软件（application的缩略形式）**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***apparent*** adj
@@ -12307,16 +8572,6 @@ I have an ________ (道歉) to make to you — I’m afraid I opened your letter
 > He did well in his exams, despite his apparent lack of interest in his work.  
 > 他考得很好，尽管表面上他对功课不感兴趣。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***apparently*** adv
 ---
@@ -12336,16 +8591,6 @@ I have an ________ (道歉) to make to you — I’m afraid I opened your letter
 
 > I wasn’t there, but apparently the concert was amazing.  
 > 我当时不在场，但据说音乐会很精彩。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***appeal*** v  重难点词汇
@@ -12402,9 +8647,7 @@ to influence sb’s feelings or thoughts so that they will do sth you want：
 > They needed to appeal to his sense of justice.   
 > 他们需要激发他的正义感。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 appealing /ə'piːlɪŋ/ adj 
@@ -12415,13 +8658,13 @@ appealing /ə'piːlɪŋ/ adj
 > The pet dog looked at her master with an appealing and frightened look.  
 > 这只宠物狗带着一副哀求和惊恐的表情看着她的主人。
 
+
 真题解析
 ---
 ##### 题目  
 We tend to have a better memory for things that excite our senses or appeal ______ our emotions than for straight facts.  
 ##### 答案 to  
   
-
 
 # ***appeal*** n  重难点词汇
 ---
@@ -12469,16 +8712,6 @@ We tend to have a better memory for things that excite our senses or appeal ____
 > The sentence was reduced to three years on appeal.  
 > 通过上诉，刑期减为三年。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***appealing*** adj
 ---
@@ -12491,16 +8724,6 @@ We tend to have a better memory for things that excite our senses or appeal ____
 ---
 1. **有吸引力的,有趣的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***appear*** vi  重难点词汇
@@ -12559,16 +8782,6 @@ We tend to have a better memory for things that excite our senses or appeal ____
 
 ### 辨析 appear, look, seem
 三者都有“看起来”之意。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***appearance*** n
 ---
@@ -12610,16 +8823,6 @@ We tend to have a better memory for things that excite our senses or appeal ____
 > This well-known singer made his fi rst appearance in 1997.  
 > 这位著名歌手首次登台演出是在1997年。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***appendix*** n
 ---
@@ -12634,16 +8837,6 @@ We tend to have a better memory for things that excite our senses or appeal ____
 1. *高义频：* **附录；附属品；阑尾**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***appetising*** adj
 ---
@@ -12656,16 +8849,6 @@ We tend to have a better memory for things that excite our senses or appeal ____
 ---
 1. **开胃的；增进食欲的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***appetite*** n
@@ -12694,16 +8877,6 @@ We tend to have a better memory for things that excite our senses or appeal ____
 > He has an appetite for reading.  
 > 他喜欢看书。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***applaud*** v
 ---
@@ -12723,16 +8896,6 @@ We tend to have a better memory for things that excite our senses or appeal ____
 > I applaud your decision.  
 > 我赞成你的决定。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***applause*** n
 ---
@@ -12751,16 +8914,6 @@ We tend to have a better memory for things that excite our senses or appeal ____
 > deafening / thunderous applause  
 > 震耳欲聋/雷鸣般的掌声
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***apple*** n
 ---
@@ -12775,18 +8928,12 @@ We tend to have a better memory for things that excite our senses or appeal ____
 1. *高义频：* **苹果**  
 
 
+
 固定搭配
 ---
 - #### the apple of sb’s eye
 1. **某人的掌上明珠 / 心肝宝贝：**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***appliance*** n
@@ -12801,16 +8948,6 @@ We tend to have a better memory for things that excite our senses or appeal ____
 ---
 1. *高义频：* **用具；工具；器具**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***applicant*** n
@@ -12830,19 +8967,13 @@ We tend to have a better memory for things that excite our senses or appeal ____
 > successful applicants  
 > 被录用的申请人
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The advertisement for engineers in the local paper attracted many ________ (申请人).   
 ##### 答案 applicants  
   
-
 
 # ***application*** n
 ---
@@ -12881,16 +9012,6 @@ The advertisement for engineers in the local paper attracted many ________ (申�
 
 > This is a new invention that will have a wide range of applications in industry.  
 > 这是一项可在工业上广泛应用的新发明。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***apply*** v  重难点词汇
@@ -12966,16 +9087,6 @@ to make a formal request, usually in writing：
 > He slowed the bleeding by applying pressure to the wounds.  
 > 他按住伤口以减少流血。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***appoint*** vt
 ---
@@ -13014,16 +9125,6 @@ to make a formal request, usually in writing：
 > Everyone has assembled in the hall at the appointed time.  
 > 所有人都在指定时间到大厅里集合了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***appointed*** adj
 ---
@@ -13036,16 +9137,6 @@ to make a formal request, usually in writing：
 ---
 1. **约定的，指定的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***appointment*** n
@@ -13082,19 +9173,13 @@ to make a formal request, usually in writing：
 > They congratulated him on his appointment as chairman.  
 > 他们祝贺他被任命为主席。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I have an appointment ______ Dr. Smith, but I need to change it.   
 ##### 答案 with  
   
-
 
 # ***appreciate*** vt  重难点词汇
 ---
@@ -13154,19 +9239,13 @@ to understand that sth is ture(realize)：
 > appreciate the significance / value of sth  
 > 理解某事的重要性/意义
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I really appreciate ________ (have) time to relax with you on this nice island.  
 ##### 答案 having  
   
-
 
 # ***appreciation*** n
 ---
@@ -13204,16 +9283,6 @@ I really appreciate ________ (have) time to relax with you on this nice island.
 > **appreciation of**  
 > She had no appreciation of the difﬁculties we were facing.  
 > 她没有认识到我们所面临的困难。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***approach*** n  重难点词汇
@@ -13254,19 +9323,13 @@ a way of dealing with sb / sth：
 > The job market has changed and our approach to finding work must change as well.  
 > 就业市场变了，我们找工作的方法也必须改变。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 At the meeting they discussed three different approaches ________ the study of mathematics.  
 ##### 答案 to  
   
-
 
 # ***approach*** v  重难点词汇
 ---
@@ -13309,16 +9372,6 @@ to start dealing with a problem, task, etc.：
 > What's the best way of approaching this problem / matter / task?  
 > 处理这个问题/事情/任务的最佳方法是什么呢？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***appropriate*** adj
 ---
@@ -13340,16 +9393,10 @@ to start dealing with a problem, task, etc.：
 > I didn’t feel that this was an appropriate time / place to mention the subject.  
 > 我觉得这个时候/地方不适合提这个话题。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 appropriately /ə'proʊpriət/ adv 
-真题解析
----
-[null]
-
 
 # ***appropriately*** adv
 ---
@@ -13362,16 +9409,6 @@ appropriately /ə'proʊpriət/ adv
 ---
 1. **适当地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***approval*** n
@@ -13398,16 +9435,6 @@ appropriately /ə'proʊpriət/ adv
 > **meet with your approval**  
 > I hope my suggestions will meet with your approval.  
 > 希望我的建议能够得到您的认可。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***approve*** v
@@ -13436,16 +9463,10 @@ to officially accept a plan, proposal, etc.：
 > I approve of you / your trying to make some money, but please don’t neglect your studies.  
 > 我赞成你设法赚些钱，但不要荒废学业。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 approving /ə'pruːvɪŋ/ adj 
-真题解析
----
-[null]
-
 
 # ***approximate*** adj
 ---
@@ -13461,16 +9482,6 @@ approving /ə'pruːvɪŋ/ adj
 
 > an approximate price / fi gure / amount  
 > 大概的价钱/数字/数量
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***approximately*** adv
@@ -13488,19 +9499,13 @@ approving /ə'pruːvɪŋ/ adj
 > Approximately two thirds of people have lied about reading a book which they haven’t.  
 > 大约有三分之二的人撒谎说自己读了实际上没读的书。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The questionnaire takes ________ (大约) ten to fifteen minutes to complete and can be used along with the assessment interview.  
 ##### 答案 approximately / about / around  
   
-
 
 # ***apron*** n
 ---
@@ -13515,16 +9520,6 @@ The questionnaire takes ________ (大约) ten to fifteen minutes to complete and
 1. *高义频：* **围裙**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***aquarium*** n
 ---
@@ -13538,16 +9533,6 @@ The questionnaire takes ________ (大约) ten to fifteen minutes to complete and
 ---
 1. *高义频：* **(pl aquarium 或aquaria) 水族馆；水族箱；养鱼缸**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***arbitrary*** adj
@@ -13568,19 +9553,13 @@ The questionnaire takes ________ (大约) ten to fifteen minutes to complete and
 > The choice of poems wasn’t arbitrary but specially chosen.  
 > 这些诗的选择并不是随意的，而是经过精挑细选的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 People complain that decisions to approve or deny a permit are often ________ （随意的）rather than based on fixed criteria.  
 ##### 答案 arbitrary  
   
-
 
 # ***arch*** n
 ---
@@ -13595,16 +9574,6 @@ People complain that decisions to approve or deny a permit are often ________ �
 1. *高义频：* **拱门；弓形结构；拱形**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***arch*** v
 ---
@@ -13618,16 +9587,6 @@ People complain that decisions to approve or deny a permit are often ________ �
 1. *高义频：* **(使) 弯成弓形**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***archaeological*** adj
 ---
@@ -13640,16 +9599,6 @@ People complain that decisions to approve or deny a permit are often ________ �
 ---
 1. *高义频：* **考古学的；与考古学有关的 (=archeological)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***archaeologist*** n
@@ -13665,16 +9614,6 @@ People complain that decisions to approve or deny a permit are often ________ �
 1. *高义频：* **考古学家 (=archeologist)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***archaeology*** n
 ---
@@ -13689,16 +9628,6 @@ People complain that decisions to approve or deny a permit are often ________ �
 1. *高义频：* **考古学 (= archeology)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***architect*** n
 ---
@@ -13712,16 +9641,6 @@ People complain that decisions to approve or deny a permit are often ________ �
 ---
 1. *高义频：* **建筑师；设计师；缔造者**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***architecture*** n
@@ -13739,16 +9658,6 @@ People complain that decisions to approve or deny a permit are often ________ �
 
 > It's a great island with some really interesting architecture.  
 > 那是个很棒的岛屿，岛上的建筑风格饶有趣味。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***area*** n
@@ -13798,16 +9707,6 @@ a part of a room, building or particular space that is used for a special purpos
 > Choosing the right food has become an area of study in modern life.  
 > 选择适当的食物已成为现代生活的一个研究领域。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***arena*** n
 ---
@@ -13821,16 +9720,6 @@ a part of a room, building or particular space that is used for a special purpos
 1. **舞台**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***arguably*** adv
 ---
@@ -13843,16 +9732,6 @@ a part of a room, building or particular space that is used for a special purpos
 ---
 1. **有争议地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***argue*** v  重难点词汇
@@ -13886,16 +9765,6 @@ to give reasons that support your opinion about sth：
 > **It has been argued,that**  
 > It has been argued by some that gifted children should be grouped in special classes.  
 > 有些人论证说有天赋的孩子应该被分在专门的班级里。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***argument*** n
@@ -13931,16 +9800,6 @@ to give reasons that support your opinion about sth：
 > We all found his argument convincing and interesting.  
 > 我们都觉得他的观点令人信服又有意思。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***arise*** vi
 ---
@@ -13968,6 +9827,7 @@ to give reasons that support your opinion about sth：
 > He arose from his seat.  
 > 他从座位上站了起来。
 
+
 固定搭配
 ---
 - #### arise from / out of 
@@ -13976,13 +9836,6 @@ to give reasons that support your opinion about sth：
 
 > Accidents often arise from / out of carelessness.   
 > 事故往往由粗心引起。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***arithmetic*** n
@@ -13997,16 +9850,6 @@ to give reasons that support your opinion about sth：
 ---
 1. *高义频：* **算术**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***arm*** n
@@ -14040,6 +9883,7 @@ to give reasons that support your opinion about sth：
 > The soldiers took up arms to fight.  
 > 士兵们拿起武器战斗。
 
+
 固定搭配
 ---
 - #### arm in arm 
@@ -14055,13 +9899,6 @@ to give reasons that support your opinion about sth：
 
 > They are sure to welcome you with open arms.  
 > 他们肯定会热情地欢迎你。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***arm*** vt
@@ -14087,9 +9924,7 @@ to give reasons that support your opinion about sth：
 > The book arms the reader with a mass of useful information.   
 > 这本书为读者提供大量有用的信息。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 armed /ɑːrmd/ adj 
@@ -14107,10 +9942,6 @@ armed /ɑːrmd/ adj
 > A birdwatcher, armed with a telescope, found a bird sitting on a rock.  
 > 观鸟者带着望远镜，看到岩石上落着一只鸟。
 
-真题解析
----
-[null]
-
 
 # ***armchair*** n
 ---
@@ -14124,16 +9955,6 @@ armed /ɑːrmd/ adj
 ---
 1. *高义频：* **扶手椅**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***army*** n
@@ -14155,16 +9976,6 @@ armed /ɑːrmd/ adj
 
 > an army of ants   
 > 一大群蚂蚁
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***around*** prep
@@ -14195,16 +10006,6 @@ armed /ɑːrmd/ adj
 > On my holidays, I'll travel around the world.  
 > 在假日里，我要去世界各地旅行。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***around*** adv
 ---
@@ -14233,16 +10034,6 @@ armed /ɑːrmd/ adj
 > It cost me around $10.   
 > 这个东西花了我大约10美元。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***arouse*** vt
 ---
@@ -14262,16 +10053,6 @@ armed /ɑːrmd/ adj
 
 > arouse sb’s enthusiasm / interest / anger  
 > 激起某人的热情/兴趣/愤怒
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***arrange*** v  重难点词汇
@@ -14333,18 +10114,12 @@ to write or change a piece of music：
 > write and arrange musical compositions   
 > 编写并改编音乐作品
 
+
 固定搭配
 ---
 - #### arranged marriage
 1. **包办婚姻**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***arrangement*** n
@@ -14389,16 +10164,6 @@ sth that has been organized or agreed on (agreement)：
 > We have come to an arrangement — she gives me a ride to school and I help her with her English.  
 > 我们商定，她让我搭便车上学，我辅导她英语。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***arrest*** vt
 ---
@@ -14418,16 +10183,6 @@ sth that has been organized or agreed on (agreement)：
 > **arrested for**  
 > My brother was arrested for drunk driving.   
 > 我哥哥因为酒后驾车被拘留。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***arrest*** n
@@ -14450,16 +10205,6 @@ sth that has been organized or agreed on (agreement)：
 > **under arrest**  
 > He is under arrest.   
 > 他被捕了。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***arrival*** n
@@ -14489,16 +10234,6 @@ sth that has been organized or agreed on (agreement)：
 
 > early / late / new arrivals  
 > 早到/晚到/新到者
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***arrive*** vi
@@ -14530,6 +10265,7 @@ sth that has been organized or agreed on (agreement)：
 arrive in指到达相对大的地方，arrive at指到达相对小的地点。
 ### 辨析 arrive, get, reach
 三者均有“到达”之意。
+
 固定搭配
 ---
 - #### arrive at
@@ -14542,13 +10278,6 @@ arrive in指到达相对大的地方，arrive at指到达相对小的地点。
 > **arrive at a conclusion**  
 > It took a long time to arrive at a conclusion.  
 > 花了很长时间才得出结论。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***arrow*** n
@@ -14570,16 +10299,6 @@ arrive in指到达相对大的地方，arrive at指到达相对小的地点。
 > Follow the arrows to the X-ray department.   
 > 跟着箭头指示的方向去放射科。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***arrowhead*** n
 ---
@@ -14593,16 +10312,6 @@ arrive in指到达相对大的地方，arrive at指到达相对小的地点。
 ---
 1. *高义频：* **箭头**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***art*** n
@@ -14641,16 +10350,6 @@ arrive in指到达相对大的地方，arrive at指到达相对小的地点。
 > the art of selling   
 > 销售技巧
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***article*** n
 ---
@@ -14688,16 +10387,6 @@ arrive in指到达相对大的地方，arrive at指到达相对小的地点。
 4. *低义频：* **(法律) 条款**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***artificial*** adj
 ---
@@ -14721,16 +10410,6 @@ arrive in指到达相对大的地方，arrive at指到达相对小的地点。
 > an artificial smile   
 > 假笑
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***artillery*** n
 ---
@@ -14743,16 +10422,6 @@ arrive in指到达相对大的地方，arrive at指到达相对小的地点。
 ---
 1. **大炮**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***artist*** n
@@ -14768,19 +10437,17 @@ arrive in指到达相对大的地方，arrive at指到达相对小的地点。
 1. *高义频：* **艺术家；画家**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 artistic /ɑːr'tɪstɪk/ adj 
+
 真题解析
 ---
 ##### 题目  
 The open exhibition will allow local ________ (艺术家) to show their talents.   
 ##### 答案 artists  
   
-
 
 # ***as*** conj
 ---
@@ -14831,6 +10498,7 @@ as意为“尽管”时，引导的从句要用倒装语序，其结构为：形
 > She looks forward, as does her secretary, to the completion of the building.   
 > 和她的秘书一样，她也盼望着大楼竣工。
 
+
 固定搭配
 ---
 - #### as for
@@ -14871,9 +10539,7 @@ as if / though常用于引导表语从句或状语从句，如果是不真实的
 > I’m in a puzzle as to what to do next.  
 > 关于下一步该做什么我也不知道。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -14910,7 +10576,6 @@ D.unless
 ##### 答案 C  
   
 
-
 # ***as*** adv
 ---
 英音 əz     美音 əz
@@ -14936,16 +10601,6 @@ D.unless
 > Maybe things are not as / so bad as they seem to be.  
 > 也许事情并不像看上去那么糟。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***as*** prep
 ---
@@ -14961,16 +10616,6 @@ D.unless
 
 > I hope I’ll work in a computer company as a program designer.  
 > 我希望会在电脑公司上班，从事程序设计员的工作。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***as*** pron
@@ -15000,16 +10645,6 @@ D.unless
 
 ### 辨析 as, which
 二者都可引导非限制性定语从句，指代主句的全部或部分，作从句中的主语或宾语，其用法、意义区别如下：
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ash*** n
 ---
@@ -15038,16 +10673,6 @@ D.unless
 > **turned to ashes**  
 > All her dreams had turned to ashes.   
 > 她所有的梦想都化为泡影。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ashamed*** adj
@@ -15082,19 +10707,13 @@ D.unless
 > He was ashamed that he couldn’t give an answer.   
 > 他因回答不出问题而感到羞愧。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Tom was ________ (羞愧) of having lied to his parents.   
 ##### 答案 ashamed  
   
-
 
 # ***ashtray*** n
 ---
@@ -15107,16 +10726,6 @@ Tom was ________ (羞愧) of having lied to his parents.
 ---
 1. **烟灰缸**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***aside*** adv
@@ -15138,6 +10747,7 @@ Tom was ________ (羞愧) of having lied to his parents.
 > I told her that I couldn’t put her to that trouble, but she brushed aside (=ignored) my words.  
 > 我告诉她我不能给她添麻烦，但她不理会我的话。
 
+
 固定搭配
 ---
 - #### aside from 
@@ -15146,13 +10756,6 @@ Tom was ________ (羞愧) of having lied to his parents.
 
 > Aside from being good exercise, swimming is a very useful skill.   
 > 除了是一项好的运动外，游泳还是一种非常有用的技能。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ask*** v
@@ -15216,15 +10819,14 @@ Tom was ________ (羞愧) of having lied to his parents.
 > He’s asking ￡80 a month rent for that flat.   
 > 那套公寓月租他要价80英镑。
 
+
 固定搭配
 ---
 - #### ask for trouble 
 1. **自找麻烦；自讨苦吃**  
 
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -15239,7 +10841,6 @@ I wasn’t able to hide my eagerness when I _______ (ask), “What do you wish m
 Before building a house, you will have to ask _______ the government’s permission.  
 ##### 答案 for  
   
-
 
 # ***asleep*** adj
 ---
@@ -15263,6 +10864,7 @@ Before building a house, you will have to ask _______ the government’s permiss
 > 她睡得很熟。
 
 asleep常用fast, sound修饰，不用very修饰。
+
 固定搭配
 ---
 - #### fall / drop asleep
@@ -15271,13 +10873,6 @@ asleep常用fast, sound修饰，不用very修饰。
 
 > I was so tired that I fell asleep the moment my head touched the pillow.  
 > 我太累了，头一碰到枕头就睡着了。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***asparagus*** n
@@ -15291,16 +10886,6 @@ asleep常用fast, sound修饰，不用very修饰。
 ---
 1. **芦笋**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***aspect*** n
@@ -15328,16 +10913,6 @@ asleep常用fast, sound修饰，不用very修饰。
 > We became afraid of the angry aspect of the man.   
 > 我们害怕见到这个人生气的样子。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***aspirin*** n
 ---
@@ -15350,16 +10925,6 @@ asleep常用fast, sound修饰，不用very修饰。
 ---
 1. **阿司匹林**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***assemble*** v
@@ -15380,16 +10945,10 @@ asleep常用fast, sound修饰，不用very修饰。
 > assemble furniture  
 > 组装家具
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 assembly /'sembli/ n 
-真题解析
----
-[null]
-
 
 # ***assembly*** n
 ---
@@ -15402,16 +10961,6 @@ assembly /'sembli/ n
 ---
 1. **集会，会议**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***assess*** vt
@@ -15441,16 +10990,6 @@ to calculate the value or cost of sth (estimate)：
 > Damage to the building was assessed at £40 000.  
 > 该建筑物的损失估定为4万英镑。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***assessment*** n
 ---
@@ -15464,16 +11003,6 @@ to calculate the value or cost of sth (estimate)：
 ---
 1. *高义频：* **评定；评价；估价；估算**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***assign*** vt
@@ -15490,16 +11019,6 @@ to calculate the value or cost of sth (estimate)：
 
 > High school teachers should assign homework no more than twice a week.  
 > 中学老师给学生留作业每周不应超过两次。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***assignment*** n
@@ -15520,16 +11039,6 @@ to calculate the value or cost of sth (estimate)：
 
 > I have completed every assignment you gave me.  
 > 我已完成你交给我的每一项任务。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***assist*** v
@@ -15554,16 +11063,6 @@ to calculate the value or cost of sth (estimate)：
 
 ### 辨析 assist, help, aid
 三者都有“帮助”之意，但侧重点有所不同。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***assistance*** n
 ---
@@ -15594,16 +11093,6 @@ to calculate the value or cost of sth (estimate)：
 > Can we be of assistance (= can we help you) in any way?  
 > 我们能帮上什么忙吗？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***assistant*** n
 ---
@@ -15619,16 +11108,6 @@ to calculate the value or cost of sth (estimate)：
 
 > a teaching / shop assistant  
 > 助教/店员
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***assistant*** adj
@@ -15646,16 +11125,6 @@ having a rank below a senior person and helping them in their work：
 
 > an assistant manager  
 > 助理经理
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***associate*** v  重难点词汇
@@ -15687,16 +11156,6 @@ to spend time with sb, especially sb that other people disapprove of：
 > I don’t like you associating with such people.   
 > 我不喜欢你和那些人混在一起。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***associate*** n  重难点词汇
 ---
@@ -15712,16 +11171,6 @@ to spend time with sb, especially sb that other people disapprove of：
 
 > business associates   
 > 生意伙伴
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***associate*** adj  重难点词汇
@@ -15741,19 +11190,13 @@ having fewer rights in a particular profession or organization：
 > an associate editor / professor  
 > 副主编/副教授
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 associated /ə'soʊʃieɪtɪd/ adj 
 > **associated,with**  
 > Some people say that classical music is associated only with old people.  
 > 有些人称古典音乐仅仅与老年人有关。
-
-真题解析
----
-[null]
 
 
 # ***association*** n
@@ -15792,16 +11235,6 @@ associated /ə'soʊʃieɪtɪd/ adj
 > Disneyland has all kinds of happy associations for people.  
 > 迪士尼乐园带给人们各种各样愉快的联想。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***assume*** vt  重难点词汇
 ---
@@ -15838,18 +11271,12 @@ to accept or think that sth is true although you have no proof：
 > Where unemployment and crime are high, it can be assumed that the latter is due to the former.  
 > 在失业率和犯罪率高的地方，我们可以假定高犯罪率是由高失业率造成的。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 assuming [ə'suːmɪŋ] conj 
 > Assuming (that) you’re chosen to be the leader, what will you do?  
 > 假设你被选为领导，你会怎么做？
-
-真题解析
----
-[null]
 
 
 # ***assumption*** n
@@ -15869,16 +11296,6 @@ assuming [ə'suːmɪŋ] conj
 > We are working on the assumption that everyone invited will turn up.   
 > 我们假设每个人都会应邀出席，并正在就此作安排。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***assure*** vt
 ---
@@ -15896,16 +11313,6 @@ assuming [ə'suːmɪŋ] conj
 > I assure you that this medicine cannot harm you.  
 > 我向你保证这药对你没有害处。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***asthma*** n
 ---
@@ -15918,16 +11325,6 @@ assuming [ə'suːmɪŋ] conj
 ---
 1. **哮喘 (病)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***astonish*** vt
@@ -15945,17 +11342,11 @@ assuming [ə'suːmɪŋ] conj
 > What he said at the meeting astonished everybody present.  
 > 他在会上所说的话令在场的所有人感到吃惊。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 astonishing /ə'stɑːnɪʃɪŋ/ adj 
 astonishment /ə'stɑːnɪʃmənt/ n [U] 
-真题解析
----
-[null]
-
 
 # ***astonished*** adj
 ---
@@ -15980,16 +11371,6 @@ very surprised (amazed)：
 > You look astonished at / by the news.  
 > 你看上去对这个消息感到很惊讶。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***astonishing*** adj
 ---
@@ -16002,16 +11383,6 @@ very surprised (amazed)：
 ---
 1. *高义频：* **令人感到惊讶的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***astonishment*** n
@@ -16035,16 +11406,6 @@ very surprised (amazed)：
 > He stared in complete astonishment at the child.    
 > 他瞪着那孩子，完全惊呆了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***astronaut*** n
 ---
@@ -16059,16 +11420,6 @@ very surprised (amazed)：
 1. *高义频：* **宇航员**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***astronomer*** n
 ---
@@ -16082,16 +11433,6 @@ very surprised (amazed)：
 1. *高义频：* **[C] 天文学家**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***astronomy*** n
 ---
@@ -16104,16 +11445,6 @@ very surprised (amazed)：
 ---
 1. *高义频：* **[U] 天文学**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***at*** prep
@@ -16181,16 +11512,6 @@ very surprised (amazed)：
 > at a speed of   
 > 以…速度
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***athlete*** n
 ---
@@ -16204,16 +11525,6 @@ very surprised (amazed)：
 ---
 1. *高义频：* **运动员：**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***athletic*** adj
@@ -16234,16 +11545,6 @@ very surprised (amazed)：
 > athletic ability  
 > 运动能力
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***athletics*** n
 ---
@@ -16258,16 +11559,6 @@ very surprised (amazed)：
 1. *高义频：* **(pl) 体育运动；竞技**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***atlas*** n
 ---
@@ -16281,16 +11572,6 @@ very surprised (amazed)：
 ---
 1. *高义频：* **地图；地图集**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***atmosphere*** n
@@ -16319,19 +11600,13 @@ very surprised (amazed)：
 > His appearance created an atmosphere of tension.  
 > 他的出现使气氛紧张起来。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The top leaders of the two countries are holding talks in a friendly ________ (气氛).  
 ##### 答案 atmosphere  
   
-
 
 # ***atom*** n
 ---
@@ -16349,16 +11624,10 @@ The top leaders of the two countries are holding talks in a friendly ________ (�
 > an atom bomb  
 > 原子弹
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 atomic /ə'tɑːmɪk/ adj 
-真题解析
----
-[null]
-
 
 # ***attach*** v  重难点词汇
 ---
@@ -16400,9 +11669,7 @@ to believe that sth is important or worth thinking about：
 > Learning strategies, to which teachers attach importance / significance, haven’t drawn enough attention of students.    
 > 老师重视的学习策略还没有引起学生们足够的注意。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 attached /ə'tætʃt/ adj 
@@ -16439,13 +11706,13 @@ attachment /ə'tætʃmənt/ n
 > a child’s attachment to its mother  
 > 孩子对母亲的依恋
 
+
 真题解析
 ---
 ##### 题目  
 My parents always ________ (对…很重视) my getting a good education.  
 ##### 答案 attach great importance to  
   
-
 
 # ***attack*** n
 ---
@@ -16484,16 +11751,6 @@ My parents always ________ (对…很重视) my getting a good education.
 > He suffered a heart attack.  
 > 他心脏病发作了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***attack*** v
 ---
@@ -16526,16 +11783,6 @@ to criticize sb / sth strongly：
 > Recently, the H7N9 bird flu has attacked many cities.  
 > H7N9型禽流感最近侵袭了许多城市。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***attain*** v
 ---
@@ -16554,16 +11801,6 @@ to criticize sb / sth strongly：
 
 > After several years of study and practice he attained fluency in English.  
 > 经过几年的学习和实践，他的英语达到了流利程度。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***attempt*** n  重难点词汇
@@ -16595,16 +11832,6 @@ to criticize sb / sth strongly：
 > He made no attempt to hide his feelings.  
 > 他毫不掩饰自己的情感。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***attempt*** vt  重难点词汇
 ---
@@ -16627,16 +11854,6 @@ to try to do sth, especially sth difficult：
 > He did not attempt the last question in the examination.  
 > 在考试中他放弃了最后一道题。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***attempted*** adj
 ---
@@ -16652,16 +11869,6 @@ to try to do sth, especially sth difficult：
 
 > attempted murder / robbery   
 > 谋杀/抢劫未遂
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***attend*** v  重难点词汇
@@ -16697,6 +11904,7 @@ to try to do sth, especially sth difficult：
 > The patient was attended by a nurse.  
 > 病人由一名护士照料。
 
+
 固定搭配
 ---
 - #### attend to
@@ -16715,17 +11923,18 @@ to try to do sth, especially sth difficult：
 > Excuse me, sir. Are you being attended to?  
 > 先生，打扰下。有人接待你吗？
 
+
 派生词汇
 ---
 attendance /ə'tendəns/ n [U] & [C] 
 attendant /ə'tendənt/ n [C] 
+
 真题解析
 ---
 ##### 题目  
 We will ________ (参加) a meeting to celebrate the sixtieth birthday of the P.R. China.   
 ##### 答案 attend  
   
-
 
 # ***attention*** n
 ---
@@ -16782,6 +11991,7 @@ We will ________ (参加) a meeting to celebrate the sixtieth birthday of the P.
 > They are standing at attention.  
 > 他们在立正站着。
 
+
 固定搭配
 ---
 - #### attract / catch / get the attention of …
@@ -16829,13 +12039,6 @@ We will ________ (参加) a meeting to celebrate the sixtieth birthday of the P.
 > The lawyer listened with full attention, trying not to miss any point.  
 > 这位律师全神贯注地听着，竭力不漏掉任何要点。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***attentive*** adj
 ---
@@ -16853,16 +12056,10 @@ We will ________ (参加) a meeting to celebrate the sixtieth birthday of the P.
 > They want their children to be attentive to their studies.  
 > 他们希望自己的孩子用心学习。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 attentively /ə'tentɪvli/ adv 
-真题解析
----
-[null]
-
 
 # ***attic*** n
 ---
@@ -16875,16 +12072,6 @@ attentively /ə'tentɪvli/ adv
 ---
 1. **阁楼，顶楼**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***attitude*** n
@@ -16918,19 +12105,13 @@ attentively /ə'tentɪvli/ adv
 > He knelt in an attitude of prayer.   
 > 他以祈祷的姿势跪着。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Despite such a big difference in ________ (对…的态度) what one eats, there is no doubt that people in the west regard the Chinese food as something special  
 ##### 答案 attitude towards / to  
   
-
 
 # ***attract*** vt
 ---
@@ -16952,12 +12133,7 @@ Despite such a big difference in ________ (对…的态度) what one eats, there
 > Dickens' style of writing attracted audiences from all walks of life.  
 > 狄更斯的写作风格吸引了来自各行各业的读者。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -16968,7 +12144,6 @@ Thousands of foreigners  ________ (attract) to the Shanghai World Expo the day i
 The company is starting a new advertising campaign to ________ (吸引) new customers to its stores.  
 ##### 答案 attract  
   
-
 
 # ***attraction*** n
 ---
@@ -16992,16 +12167,6 @@ The company is starting a new advertising campaign to ________ (吸引) new cust
 > Hampton Court Palace is open to the public as a major tourist attraction.   
 > 汉普顿宫作为重要的旅游景点对公众开放。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***attractive*** adj
 ---
@@ -17017,16 +12182,6 @@ The company is starting a new advertising campaign to ________ (吸引) new cust
 
 > This is one of the most attractive places I’ve been to.  
 > 这是我到过的最迷人的地方之一。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***attribute*** vt
@@ -17045,16 +12200,6 @@ The company is starting a new advertising campaign to ________ (吸引) new cust
 
 > Jim attributes his success to hard work.  
 > 吉姆把自己的成功归因于工作努力。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***audience*** n
@@ -17084,16 +12229,6 @@ audience是集体名词，作主语时，如果作为整体看待，谓语动词
 > The audience are dressed in a variety of ways.   
 > 观众的穿着各不相同。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***audio*** adj
 ---
@@ -17108,16 +12243,6 @@ audience是集体名词，作主语时，如果作为整体看待，谓语动词
 1. *高义频：* **音频的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***auld*** adj
 ---
@@ -17130,16 +12255,6 @@ audience是集体名词，作主语时，如果作为整体看待，谓语动词
 ---
 1. **老的，旧的（苏格兰语）=old**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***aunt*** n
@@ -17155,16 +12270,6 @@ audience是集体名词，作主语时，如果作为整体看待，谓语动词
 1. *高义频：* **姑母；姨妈；舅妈；婶母； 伯母**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***aurochs*** n
 ---
@@ -17177,16 +12282,6 @@ audience是集体名词，作主语时，如果作为整体看待，谓语动词
 ---
 1. *高义频：* **原牛 (古代欧洲野牛，已灭绝)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***authentic*** adj
@@ -17207,16 +12302,6 @@ audience是集体名词，作主语时，如果作为整体看待，谓语动词
 > Is the painting in the Louvre the authentic work by Leonardo da Vinci — or just a copy?    
 > 在卢浮宫保存的这幅画是达·芬奇的真迹还是复制品？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***author*** n
 ---
@@ -17230,16 +12315,6 @@ audience是集体名词，作主语时，如果作为整体看待，谓语动词
 ---
 1. *高义频：* **作者；作家**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***authority*** n
@@ -17291,16 +12366,6 @@ the official right or permission to do sth：
 > We reported the train accident to the authorities.  
 > 我们向主管部门报告了这起火车事故。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***autograph*** n
 ---
@@ -17313,16 +12378,6 @@ the official right or permission to do sth：
 ---
 1. **亲笔签名**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***automatic*** adj
@@ -17343,16 +12398,10 @@ the official right or permission to do sth：
 > Breathing is an automatic function of the body.   
 > 呼吸是一种无意识的身体功能。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 automatically /ˌɔːtə'mætɪkli/ adv 
-真题解析
----
-[null]
-
 
 # ***automatically*** adv
 ---
@@ -17365,16 +12414,6 @@ automatically /ˌɔːtə'mætɪkli/ adv
 ---
 1. *高义频：* **无意识地；自动地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***automobile*** n
@@ -17389,16 +12428,6 @@ automatically /ˌɔːtə'mætɪkli/ adv
 ---
 1. *高义频：* **汽车 (AmE auto)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***autonomous*** adj
@@ -17419,16 +12448,6 @@ automatically /ˌɔːtə'mætɪkli/ adv
 > Like the states in America, Australian states are autonomous in some areas of government.   
 > 像美国的州一样，澳大利亚州政府的某些部门实行自治。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***autonomy*** n
 ---
@@ -17442,16 +12461,6 @@ automatically /ˌɔːtə'mætɪkli/ adv
 ---
 1. *高义频：* **自治；自治权**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***autumn*** n
@@ -17472,16 +12481,6 @@ automatically /ˌɔːtə'mætɪkli/ adv
 
 > No autumn fruit without spring blossoms.   
 > 没有春华便没有秋实。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***available*** adj  重难点词汇
@@ -17518,12 +12517,11 @@ able to be used or can easily be bought or found：
 > I would have gone to my cousin’s birthday party last night, but I was not available.    
 > 昨天晚上我本想去参加堂兄的生日聚会，但我没空。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 availability /əˌveɪlə'bɪləti/ n [U]
+
 真题解析
 ---
 ##### 题目  
@@ -17537,7 +12535,6 @@ availability /əˌveɪlə'bɪləti/ n [U]
 ##### 答案 available   
   
 
-
 # ***avalanche*** n
 ---
 英音 'ævəlɑːnʃ     美音 'ævəlæntʃ
@@ -17549,16 +12546,6 @@ availability /əˌveɪlə'bɪləti/ n [U]
 ---
 1. **雪崩**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***avenge*** v
@@ -17572,16 +12559,6 @@ availability /əˌveɪlə'bɪləti/ n [U]
 ---
 1. **替……报仇；报复**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***avenue*** n
@@ -17602,16 +12579,6 @@ availability /əˌveɪlə'bɪləti/ n [U]
 
 ### 辨析 way, road, path, street, avenue
 五者都可作“路”解，但含义有所不同。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***average*** n  重难点词汇
 ---
@@ -17644,6 +12611,7 @@ availability /əˌveɪlə'bɪləti/ n [U]
 > the national average  
 > 全国平均水平
 
+
 固定搭配
 ---
 - #### on average 
@@ -17656,9 +12624,7 @@ availability /əˌveɪlə'bɪləti/ n [U]
 > Women, on average, live longer.  
 > 女性一般更长寿。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -17673,7 +12639,6 @@ He was a good student and scored__________ (高于平均水平) in most subjects
 On ________ (平均), people who don’t smoke are healthier than people who do.   
 ##### 答案 average  
   
-
 
 # ***average*** adj  重难点词汇
 ---
@@ -17713,16 +12678,6 @@ not special; ordinary：
 > Freddy was an average student, but not an average person.  
 > 弗雷迪是一名普通的学生，但却不是一个普通的人。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***avoid*** vt  重难点词汇
 ---
@@ -17758,19 +12713,13 @@ to stay away from sb or sth, or to deliberately not do sth：
 > 我们通常不喜欢争吵，会回避引起争执的话题。
 
 avoid不接不定式作宾语。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I quickly lower myself, ducking my head to avoid_________(look) directly into his eyes.   
 ##### 答案 looking  
   
-
 
 # ***await*** vt
 ---
@@ -17786,16 +12735,6 @@ I quickly lower myself, ducking my head to avoid_________(look) directly into hi
 
 > They are anxiously awaiting the result.   
 > 他们正焦急地等待结果。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***awake*** adj
@@ -17819,16 +12758,6 @@ I quickly lower myself, ducking my head to avoid_________(look) directly into hi
 > A cup of coffee will keep me awake all night.  
 > 只喝一杯咖啡就会使我整晚睡不着。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***awake*** v
 ---
@@ -17849,19 +12778,13 @@ I quickly lower myself, ducking my head to avoid_________(look) directly into hi
 > They awoke to find that snow had fallen.  
 > 他们醒来后发现下雪了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The baby in the next room ________ (睡醒) and began to cry.  
 ##### 答案 awoke  
   
-
 
 # ***award*** n
 ---
@@ -17895,16 +12818,6 @@ The baby in the next room ________ (睡醒) and began to cry.
 
 ### 辨析 reward, award, prize
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***award*** vt
 ---
@@ -17928,16 +12841,6 @@ The baby in the next room ________ (睡醒) and began to cry.
 
 > The court awarded damages of $5,000 to the injured man.   
 > 法庭判给伤者5000美元的赔偿金。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***aware*** adj  重难点词汇
@@ -17966,16 +12869,10 @@ The baby in the next room ________ (睡醒) and began to cry.
 > If she had been aware that the mushrooms were poisonous, she would not have picked them for dinner.  
 > 要是知道这些蘑菇有毒，她就不会采来做晚餐了。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 awareness /ə'wernəs/ n [U]
-真题解析
----
-[null]
-
 
 # ***awareness*** n
 ---
@@ -17988,16 +12885,6 @@ awareness /ə'wernəs/ n [U]
 ---
 1. **意识，认识，感悟能力**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***away*** adv
@@ -18053,16 +12940,6 @@ awareness /ə'wernəs/ n [U]
 > The snow melted away.   
 > 雪融化了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***awesome*** adj
 ---
@@ -18085,16 +12962,6 @@ very impressive or very difﬁcult and perhaps rather frightening：
 
 > There is only one word to describe the best player in the world — awesome!  
 > 只有一个词能够形容这位世界上最好的球员——了不起！
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***awful*** adj
@@ -18127,6 +12994,7 @@ very impressive or very difﬁcult and perhaps rather frightening：
 3. *高义频：* **可怕的；骇人听闻的 (terrible)**  
 
 
+
 固定搭配
 ---
 - #### look / feel awful
@@ -18138,13 +13006,10 @@ very impressive or very difﬁcult and perhaps rather frightening：
 > You look awful. Do you have a cold?  
 > 你气色很不好，感冒了吗？
 
+
 派生词汇
 ---
 awfully /'ɔːfli/ adv 
-真题解析
----
-[null]
-
 
 # ***awfully*** adv
 ---
@@ -18157,16 +13022,6 @@ awfully /'ɔːfli/ adv
 ---
 1. **非常地；极端地；令人嫌恶地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***awkward*** adj
@@ -18204,16 +13059,10 @@ embarrasing：
 > Please arrange the next meeting at a less awkward time.   
 > 请把下次会议时间安排得方便些。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 awkwardly /'ɔːkwədli/ adv 
-真题解析
----
-[null]
-
 
 # ***axe*** n
 ---
@@ -18228,13 +13077,4 @@ awkwardly /'ɔːkwədli/ adv
 1. *高义频：* **(=ax) 斧；斧子**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 

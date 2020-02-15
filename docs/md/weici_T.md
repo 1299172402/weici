@@ -1,441 +1,4 @@
-
-# ***T-Rex*** n
----
-英音 'tiːreks     美音 'tiːreks
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **(= Tyrannosaurus Rex) 霸王龙**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***T-shirt*** n
----
-英音 'ti:ʃɜːt     美音 'tiʃɜːrt
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
-
-英文释义
----
-1. *高义频：* **T恤衫；短袖汗衫**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***TV*** n
----
-英音 ˌtiː'viː     美音 ˌtiː'viː
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **电视；电视机 [television的缩写形式]**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Tanzania*** n
----
-英音 ˌtænzəˈni:ə     美音 ˌtænzəˈniə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **坦桑尼亚 (东非国家)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Texas*** n
----
-英音 ˈteksəs     美音 ˈtɛksəs
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **得克萨斯州 (美国州名)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Thai*** n
----
-英音 taɪ     美音 taɪ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **泰国人；泰国语**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Thai*** adj
----
-英音 taɪ     美音 taɪ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **泰国（人）的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Thailand*** n
----
-英音 'taɪlænd     美音 'taɪlænd
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **泰国**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Thursday*** n
----
-英音 'θɜːzdeɪ     美音 'θɜːrzdeɪ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **星期四（Thur.或Thurs.）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Tibet*** n
----
-英音 tɪ'bet     美音 tɪ'bet
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **西藏**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Tibetan*** n
----
-英音 tɪ'betn     美音 tɪ'betn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **西藏人；藏族人；藏语**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Tibetan*** adj
----
-英音 tɪ'betn     美音 tɪ'betn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **西藏的；藏语的；藏族（人）的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Titan*** 
----
-英音 'taɪtn     美音 'taɪtn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **土卫六（土星卫星中最大的一颗）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Toronto*** n
----
-英音 tə'rɔntəu     美音 tə'rɑnto
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **多伦多 (加拿大城市)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Trinidad*** n
----
-英音 ˈtrinidæd     美音 'trɪnɪ,dæd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **特立尼达岛**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Tuesday*** n
----
-英音 'tjuːzdeɪ     美音 'tuːzdeɪ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **星期二（Tue.或Tues.）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Turk*** n
----
-英音 tɜːk     美音 tɜːrk
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **突厥人；土耳其人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Turkey*** n
----
-英音 'tɜːki     美音 'tɜːrki
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **土耳其**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Turkish*** adj
----
-英音 'tɜːkɪʃ     美音 'tɜːrkɪʃ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **土耳其的；土耳其人的；土耳其语的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
+# Tt
 
 # ***tabby*** n
 ---
@@ -448,16 +11,6 @@
 ---
 1. **斑猫**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***table*** n
@@ -488,6 +41,7 @@
 > a table of contents   
 > 目录表
 
+
 固定搭配
 ---
 - #### at table 
@@ -496,13 +50,6 @@
 
 > It’s not acceptable to talk with food in mouth at table.   
 > 进餐时嘴里含着食物讲话的行为是不可接受的。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tablet*** n
@@ -521,16 +68,6 @@
 2. *低义频：* **平板电脑;便签本 (pad)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***taboo*** n
 ---
@@ -544,16 +81,6 @@
 1. **禁忌**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tackle*** vt
 ---
@@ -566,16 +93,6 @@
 ---
 1. *高义频：* **处理；对付；与...交涉**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tadpole*** n
@@ -591,16 +108,6 @@
 1. *高义频：* **蝌蚪**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***taikonaut*** n
 ---
@@ -613,16 +120,6 @@
 ---
 1. **太空人；宇航员**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tail*** n
@@ -641,16 +138,6 @@
 > the tail of Halley’s Comet   
 > 哈雷彗星的彗尾
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tailor*** n
 ---
@@ -668,16 +155,6 @@
 > at the tailor’s   
 > 在裁缝店
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tailor*** vt
 ---
@@ -694,16 +171,6 @@
 > **tailored,to**  
 > The account offered by the bank will be tailored exactly to your needs.   
 > 银行提供的账户会完全根据您的需求来定制。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***take*** vt
@@ -883,6 +350,7 @@
 > I was joking, but he took me seriously.   
 > 我在开玩笑，他却当真了。
 
+
 固定搭配
 ---
 - #### take apart 
@@ -1059,9 +527,7 @@ to accept sth that is offered or available
 > Rick took up the challenge and cycled alone for 250 miles.  
 > 里克接受了挑战，独自骑行250英里。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -1088,7 +554,6 @@ We tried to find a table for seven, but they were all taken ________.
 I take it ________ a basic principle of the company that suppliers of raw materials should be given a fair price for their products.  
 ##### 答案 as  
   
-
 
 # ***tale*** n
 ---
@@ -1117,16 +582,6 @@ I take it ________ a basic principle of the company that suppliers of raw materi
 
 2. *低义频：* **假话；谣言**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***talent*** n
@@ -1163,16 +618,10 @@ a natural ability to do sth well(gift)：
 > There’s a wealth of talent in English football.  
 > 英格兰足球界人才济济。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 talented /'tæləntɪd/ adj 
-真题解析
----
-[null]
-
 
 # ***talented*** adj
 ---
@@ -1185,16 +634,6 @@ talented /'tæləntɪd/ adj
 ---
 1. **有天资的；有才能的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***talk*** v
@@ -1248,16 +687,10 @@ talented /'tæləntɪd/ adj
 > Sometimes I act as a listening ear for fellow students to talk over what is bothering them.  
 > 有时我会充当同学们的听众，聊一聊他们的烦恼。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 talker /'tɔːkə(r)/ n 
-真题解析
----
-[null]
-
 
 # ***talk*** n
 ---
@@ -1294,16 +727,6 @@ talker /'tɔːkə(r)/ n
 > summit talks   
 > 峰会
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***talking*** n
 ---
@@ -1320,16 +743,6 @@ talker /'tɔːkə(r)/ n
 
 > Talking mends no holes.   
 > 空谈无益。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tall*** adj
@@ -1350,16 +763,6 @@ talker /'tɔːkə(r)/ n
 
 ### 辨析 high, tall
 二者均有“高”之意，均可指建筑物。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tangible*** adj
 ---
@@ -1372,16 +775,6 @@ talker /'tɔːkə(r)/ n
 ---
 1. **有形的，可触摸的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tangled*** adj
@@ -1396,16 +789,6 @@ talker /'tɔːkə(r)/ n
 1. **纠结的；复杂的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tango*** n
 ---
@@ -1418,16 +801,6 @@ talker /'tɔːkə(r)/ n
 ---
 1. **探戈舞**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tank*** n
@@ -1448,16 +821,6 @@ talker /'tɔːkə(r)/ n
 
 2. *高义频：* **坦克**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tap*** n
@@ -1484,16 +847,6 @@ talker /'tɔːkə(r)/ n
 > She felt a tap on her shoulder.   
 > 她感到有人在她肩上拍了一下。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tap*** v
 ---
@@ -1518,16 +871,6 @@ talker /'tɔːkə(r)/ n
 
 > I tap my feet and sing along with him.   
 > 我用脚踩着节拍跟他唱起来。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tape*** n
@@ -1555,16 +898,6 @@ talker /'tɔːkə(r)/ n
 2. *低义频：* **终点线；卷尺**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tape*** v
 ---
@@ -1586,16 +919,6 @@ talker /'tɔːkə(r)/ n
 
 > Would you mind if I taped this conversation?   
 > 你介意我把这次谈话录下来吗？
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***target*** n
@@ -1622,16 +945,6 @@ talker /'tɔːkə(r)/ n
 > The target audience for the TV series are young people aged 13 to 18.   
 > 这部电视连续剧的目标受众是13岁至18岁的年轻人。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***target*** v
 ---
@@ -1644,16 +957,6 @@ talker /'tɔːkə(r)/ n
 ---
 1. **瞄准；以……为目标**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***task*** n
@@ -1678,16 +981,6 @@ a piece of work that has to be done, especially an unpleasant or difficult one�
 > undertake a task   
 > 承担任务
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***task-based*** adj
 ---
@@ -1700,16 +993,6 @@ a piece of work that has to be done, especially an unpleasant or difficult one�
 ---
 1. **基于作业的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***taste*** n  重难点词汇
@@ -1755,19 +1038,13 @@ a piece of work that has to be done, especially an unpleasant or difficult one�
 > It also gave my kids the sweet taste of helping others.    
 > 这也让我的孩子体验到帮助别人的美好感受。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 While she was in Paris, she ________ (开始喜欢) for fine art. (taste)  
 ##### 答案 developed / acquired a taste for  
   
-
 
 # ***taste*** v  重难点词汇
 ---
@@ -1807,19 +1084,13 @@ While she was in Paris, she ________ (开始喜欢) for fine art. (taste)
 > I have never tasted the delights of country life.  
 > 我从未体验过乡村生活的乐趣。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 This cake t________ delicious. Would you like a try?   
 ##### 答案 tastes  
   
-
 
 # ***tasteless*** adj
 ---
@@ -1842,16 +1113,6 @@ This cake t________ delicious. Would you like a try?
 > a set of tasteless furniture  
 > 一套俗气的家具
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tasty*** adj
 ---
@@ -1868,16 +1129,6 @@ This cake t________ delicious. Would you like a try?
 > a simple but tasty meal  
 > 简单而美味的菜肴
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tattoo*** n
 ---
@@ -1890,16 +1141,6 @@ This cake t________ delicious. Would you like a try?
 ---
 1. **纹身**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tax*** n
@@ -1922,16 +1163,6 @@ This cake t________ delicious. Would you like a try?
 > lay a tax on sth  
 > 对某物征税
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tax*** vt
 ---
@@ -1947,16 +1178,6 @@ This cake t________ delicious. Would you like a try?
 
 > It is reasonable to tax the rich more heavily than the poor.  
 > 富人课税重于穷人是合理的。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***taxi*** n
@@ -1979,16 +1200,6 @@ This cake t________ delicious. Would you like a try?
 > go home by taxi  
 > 乘出租汽车回家
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***taxpayer*** n
 ---
@@ -2001,16 +1212,6 @@ This cake t________ delicious. Would you like a try?
 ---
 1. *高义频：* **[C] 纳税人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tea*** n
@@ -2030,16 +1231,6 @@ This cake t________ delicious. Would you like a try?
 
 > make (the) tea  
 > 沏茶
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***teach*** v  重难点词汇
@@ -2093,18 +1284,12 @@ to make sb. think, feel, or act in a new or different way：
 > Years of school life has taught me a lot of things, of which teamwork is the most important for me.  
 > 多年的学校生活教会了我很多事情，其中，团队合作对我来说是最重要的。
 
+
 固定搭配
 ---
 - #### teach sb a lesson
 1. **给某人一个教训**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***teacher*** n
@@ -2121,16 +1306,6 @@ to make sb. think, feel, or act in a new or different way：
 
 > Experience is the best teacher.  
 > 经验是最好的老师。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***teaching*** n
@@ -2157,16 +1332,6 @@ to make sb. think, feel, or act in a new or different way：
 > the teachings of Confucius and Mencius  
 > 孔孟之道
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***team*** n
 ---
@@ -2186,16 +1351,6 @@ to make sb. think, feel, or act in a new or different way：
 > The team are driving to the game in their own cars.  
 > 队员们开自己的车去参加比赛。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***teammate*** n
 ---
@@ -2209,16 +1364,6 @@ to make sb. think, feel, or act in a new or different way：
 ---
 1. *高义频：* **同伴；伙伴**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***teamwork*** n
@@ -2236,16 +1381,6 @@ to make sb. think, feel, or act in a new or different way：
 > Teamwork is necessary to produce good results.  
 > 要想取得好结果，团队协作是必需的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***teapot*** n
 ---
@@ -2258,16 +1393,6 @@ to make sb. think, feel, or act in a new or different way：
 ---
 1. *高义频：* **[C] 茶壶**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tear*** v
@@ -2305,6 +1430,7 @@ to make sb. think, feel, or act in a new or different way：
 > He tore his clothes off and dived into the lake.  
 > 他把衣服从身上扯下，跳进湖里。
 
+
 固定搭配
 ---
 - #### tear down
@@ -2324,13 +1450,6 @@ to make sb. think, feel, or act in a new or different way：
 > The tree was torn up by the strong wind.  
 > 大风把树连根拔起。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tear*** n
 ---
@@ -2347,16 +1466,6 @@ to make sb. think, feel, or act in a new or different way：
 > **burst into tears**  
 > I don’t know what it was in the novel that made him burst into tears.  
 > 我不知道是小说中的什么内容使他突然哭了。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tease*** v
@@ -2378,16 +1487,6 @@ to make sb. think, feel, or act in a new or different way：
 > Don’t take what he said seriously; he was only teasing.  
 > 别拿他的话当真，他不过是在开玩笑。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***technical*** adj
 ---
@@ -2407,16 +1506,10 @@ to make sb. think, feel, or act in a new or different way：
 > technical terms  
 > 术语
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 technically /'teknɪkli/ adv 
-真题解析
----
-[null]
-
 
 # ***technically*** adv
 ---
@@ -2430,16 +1523,6 @@ technically /'teknɪkli/ adv
 1. *高义频：* **技术上:；工艺上**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***technician*** n
 ---
@@ -2452,16 +1535,6 @@ technically /'teknɪkli/ adv
 ---
 1. *高义频：* **[C] 技师；技术员**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***technique*** n
@@ -2485,16 +1558,6 @@ technically /'teknɪkli/ adv
 > He’s a great player, with brilliant technique.  
 > 他是个伟大的球员，球技十分精湛。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***techno*** n
 ---
@@ -2508,16 +1571,6 @@ technically /'teknɪkli/ adv
 1. **泰克诺音乐（一种节奏快、通常无歌声相伴的音乐）**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***technological*** adj
 ---
@@ -2530,16 +1583,6 @@ technically /'teknɪkli/ adv
 ---
 1. *高义频：* **科技的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***technology*** n
@@ -2561,18 +1604,12 @@ technically /'teknɪkli/ adv
 > high technology  
 > 高科技
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 technological /ˌteknə'lɒdʒɪkl/ adj 
 > technological developments / advances   
 > 技术发展/科技进步
-
-真题解析
----
-[null]
 
 
 # ***teen*** n
@@ -2599,16 +1636,6 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 > in one ’ s teens  
 > 在某人十几岁时
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***teen*** adj
 ---
@@ -2621,16 +1648,6 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 ---
 1. *高义频：* **青少年的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***teenage*** adj
@@ -2645,16 +1662,6 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 1. **十几岁的（指13至19岁）；青少年的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***teenager*** n
 ---
@@ -2667,16 +1674,6 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 ---
 1. *高义频：* **[C] (13 ~ 19岁的) 青少年**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***teens*** n
@@ -2699,16 +1696,6 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 > We moved to London when I was in my early teens.   
 > 我十三四岁时我们家搬到了伦敦。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***telecommunication*** n
 ---
@@ -2722,16 +1709,6 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 1. **（常复）电信**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***telegraph*** n
 ---
@@ -2744,16 +1721,6 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 ---
 1. *高义频：* **(指通讯方式) 电报；电报机**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***telephone*** n
@@ -2775,16 +1742,6 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 > You are wanted on the telephone.  
 > 你的电话。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***telephone*** v
 ---
@@ -2805,16 +1762,6 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 > Telephone to me tomorrow.  
 > 明天打电话给我。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***telescope*** n
 ---
@@ -2828,16 +1775,6 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 1. *高义频：* **[C] 望远镜**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***telesurgery*** n
 ---
@@ -2850,16 +1787,6 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 ---
 1. **远距离手术**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***television*** n
@@ -2883,16 +1810,6 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 
 > on (the) television  
 > 在电视上播放；通过电视
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tell*** v  重难点词汇
@@ -2983,19 +1900,17 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 > As far as I can tell, he’s enjoying the course.  
 > 据我判断，他喜欢这门课。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 teller /'telə(r)/ n 
+
 真题解析
 ---
 ##### 题目  
 Why didn’t you tell me about your trouble last week? If you  ________ (tell) me, I could have helped.  
 ##### 答案 had told  
   
-
 
 # ***telly*** n
 ---
@@ -3008,16 +1923,6 @@ Why didn’t you tell me about your trouble last week? If you  ________ (tell) m
 ---
 1. **（非正式）电视**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***temper*** n
@@ -3041,16 +1946,6 @@ Why didn’t you tell me about your trouble last week? If you  ________ (tell) m
 > good-tempered / bad-tempered  
 > 脾气好的/不好的
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***temperature*** n
 ---
@@ -3072,19 +1967,13 @@ Why didn’t you tell me about your trouble last week? If you  ________ (tell) m
 > have / be running a temperature  
 > 发烧
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 His nose ran, he coughed, and his ________ (体温) was a little up.  
 ##### 答案 temperature  
   
-
 
 # ***temple*** n
 ---
@@ -3097,16 +1986,6 @@ His nose ran, he coughed, and his ________ (体温) was a little up.
 ---
 1. *高义频：* **[C] 庙宇；寺院；神殿**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***temporary*** adj
@@ -3127,12 +2006,11 @@ His nose ran, he coughed, and his ________ (体温) was a little up.
 > a temporary job  
 > 临时工作
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 temporarily /'temprərəli/ adv 
+
 真题解析
 ---
 ##### 题目  
@@ -3144,7 +2022,6 @@ D.cautious
 ##### 答案 temporary  
   
 
-
 # ***tend*** vi
 ---
 英音 tend     美音 tend
@@ -3153,9 +2030,6 @@ D.cautious
 
 用法点拨  [用于以下惯用语]
 
-英文释义
----
-[null]
 固定搭配
 ---
 - #### tend to / toward(s) sth
@@ -3175,13 +2049,6 @@ to usually do or be sth：
 
 > Readers tended to share articles that were exciting or funny.  
 > 读者往往分享那些令人兴奋或者有趣的文章。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tend*** v
@@ -3203,16 +2070,6 @@ to usually do or be sth：
 
 > I would like to tend the store for you while you’re away.  
 > 你不在时我愿意替你照看店铺。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tendency*** n
@@ -3237,16 +2094,6 @@ to usually do or be sth：
 > **has a tendency to**  
 > He has a tendency to forget things.  
 > 他好忘事。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tender*** adj
@@ -3276,16 +2123,6 @@ to usually do or be sth：
 > tender young plants  
 > 娇嫩的幼苗
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tennis*** n
 ---
@@ -3298,16 +2135,6 @@ to usually do or be sth：
 ---
 1. *高义频：* **[U] 网球 (运动)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tense*** adj
@@ -3337,16 +2164,6 @@ to usually do or be sth：
 > a tense political situation  
 > 紧张的政治局势
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tense*** n
 ---
@@ -3362,16 +2179,6 @@ to usually do or be sth：
 
 > the present / past / future tense  
 > 现在/过去/将来时
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tension*** n
@@ -3402,16 +2209,6 @@ to usually do or be sth：
 > international tension  
 > 国际紧张局势
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tent*** n
 ---
@@ -3427,16 +2224,6 @@ to usually do or be sth：
 
 > put up / take down a tent  
 > 搭/拆帐篷
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tentative*** adj
@@ -3466,19 +2253,17 @@ done without confidence：
 > a tentative greeting  
 > 怯声怯气的问候
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 tentatively /'tentətɪvli/ adv 
+
 真题解析
 ---
 ##### 题目  
 “Perhaps we need to send for Dr. Smith to see what we can do about it,” Father suggested ________ (tentative) to his neighbor who had come to discuss the problem.  
 ##### 答案 tentatively  
   
-
 
 # ***tentatively*** adv
 ---
@@ -3491,16 +2276,6 @@ tentatively /'tentətɪvli/ adv
 ---
 1. **不完全地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***term*** n
@@ -3533,18 +2308,12 @@ tentatively /'tentətɪvli/ adv
 > scientific / medical terms  
 > 科学/医学术语
 
+
 固定搭配
 ---
 - #### in the long / short term
 1. **从长远 / 眼前看**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***terminal*** adj
@@ -3564,16 +2333,6 @@ tentatively /'tentətɪvli/ adv
 
 > a terminal examination  
 > 期末考试
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***terminal*** n
@@ -3600,16 +2359,6 @@ tentatively /'tentətɪvli/ adv
 3. *高义频：* **[计算机] 终端；终端机**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***terms*** n
 ---
@@ -3621,6 +2370,7 @@ tentatively /'tentətɪvli/ adv
 英文释义
 ---
 1. *高义频：* **[复数] 条文；条款；表达方式：**  
+
 
 
 固定搭配
@@ -3639,9 +2389,7 @@ tentatively /'tentətɪvli/ adv
 > We were on good terms with everyone in the village.  
 > 我们与村子里的每个人都相处得很好。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3652,7 +2400,6 @@ C.As a result of
 D.In face of  
 ##### 答案 A  
   
-
 
 # ***terrace*** n
 ---
@@ -3665,16 +2412,6 @@ D.In face of
 ---
 1. **梯田**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***terrible*** adj
@@ -3714,16 +2451,6 @@ making you feel afraid or shocked：
 > — Well, the rice is terrible, but the vegetable soup is OK.  
 > 嗯，米饭很难吃，但是蔬菜汤还不错。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***terribly*** adv
 ---
@@ -3746,16 +2473,6 @@ making you feel afraid or shocked：
 2. *高义频：* **可怕地；惊人地**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***terrified*** adj
 ---
@@ -3768,16 +2485,6 @@ making you feel afraid or shocked：
 ---
 1. *高义频：* **恐惧的；受惊吓的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***terrify*** vt
@@ -3801,16 +2508,10 @@ to make sb extremely afraid：
 > The creature, which is unusually large and strong, is extremely ugly, and terrifies all those who see it.  
 > 那个怪物异乎寻常地高大、强壮，长相极其丑陋，所有人见了都很害怕。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 terrifying /'terɪfaɪŋ/ adj 
-真题解析
----
-[null]
-
 
 # ***terrifying*** adj
 ---
@@ -3823,16 +2524,6 @@ terrifying /'terɪfaɪŋ/ adj
 ---
 1. **吓人的；可怕的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***territory*** n
@@ -3857,16 +2548,6 @@ terrifying /'terɪfaɪŋ/ adj
 
 > a sales territory   
 > 销售地区
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***terror*** n
@@ -3895,17 +2576,11 @@ terrifying /'terɪfaɪŋ/ adj
 > These street gangs have become the terror of the neighbourhood.  
 > 这些街头团伙使得周围邻居谈之色变。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 terrorism /'terərɪzəm/ n 
 terrorist /'terərɪst/ n 
-真题解析
----
-[null]
-
 
 # ***terrorist*** n
 ---
@@ -3918,16 +2593,6 @@ terrorist /'terərɪst/ n
 ---
 1. **恐怖分子**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***test*** vt
@@ -3953,16 +2618,6 @@ terrorist /'terərɪst/ n
 > 我最终用小游戏考验了他们的勇气。
 
 ### 辨析 check, examine, inspect, test
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***test*** n
@@ -3996,16 +2651,6 @@ terrorist /'terərɪst/ n
 > Practice is the only reliable test of a theory.  
 > 实践是检验真理的唯一标准。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tetrahedron*** n
 ---
@@ -4019,16 +2664,6 @@ terrorist /'terərɪst/ n
 1. *高义频：* **四面体**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***text*** n
 ---
@@ -4041,16 +2676,6 @@ terrorist /'terərɪst/ n
 ---
 1. *高义频：* **[C] 课文；正文**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***text*** v
@@ -4069,16 +2694,6 @@ terrorist /'terərɪst/ n
 > text a message  
 > 发短信
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***textbook*** n
 ---
@@ -4094,16 +2709,6 @@ terrorist /'terərɪst/ n
 
 > Difficult circumstances serve as a textbook of life for people.  
 > 困境是人生的教科书。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***than*** conj & prep
@@ -4130,6 +2735,7 @@ terrorist /'terərɪst/ n
 > What I learned from the job was much more important than what I earned.  
 > 我在工作中所学到的比所赚到的要重要得多。
 
+
 固定搭配
 ---
 - #### more than
@@ -4155,13 +2761,6 @@ terrorist /'terərɪst/ n
 - #### would rather ... (than)
 1. **见 rather**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***thank*** vt
@@ -4192,12 +2791,7 @@ terrorist /'terərɪst/ n
 > Anyone who has ever been helped by a social worker has Jane Addams to thank.  
 > 任何曾经被社工帮助过的人都应感谢简·亚当斯。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4215,7 +2809,6 @@ D.No, you needn’t
 ##### 答案 Thank you / Thanks very much / Thanks a lot  
   
 
-
 # ***thank*** n
 ---
 英音 θæŋk     美音 θæŋk
@@ -4228,6 +2821,7 @@ D.No, you needn’t
 1. *高义频：* **[复数] 谢谢；愿意：**  
 
 
+
 固定搭配
 ---
 - #### thanks to
@@ -4236,13 +2830,6 @@ D.No, you needn’t
 
 > Thanks to his help, my speech was so successful that everyone cheered for me.  
 > 多亏他的帮助，我的演讲才如此成功，人人都为我喝彩。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***thankful*** adj
@@ -4264,19 +2851,17 @@ D.No, you needn’t
 > My mother is thankful that I have won the scholarship.  
 > 我获得了奖学金，妈妈很欣慰。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 thankfully /'θæŋkfəli/ adv 
+
 真题解析
 ---
 ##### 题目  
 ________ (thankful), I managed to get through the game and the pain was worth it in the end.  
 ##### 答案 Thankfully  
   
-
 
 # ***thankfully*** adv
 ---
@@ -4289,16 +2874,6 @@ ________ (thankful), I managed to get through the game and the pain was worth it
 ---
 1. **感激地；满怀感谢地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***thanksgiving*** n
@@ -4313,16 +2888,6 @@ ________ (thankful), I managed to get through the game and the pain was worth it
 ---
 1. *高义频：* **感恩 (节)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***that*** pron
@@ -4358,16 +2923,6 @@ ________ (thankful), I managed to get through the game and the pain was worth it
 > The books (that) you lent me are very useful.  
 > 你借给我的那些书很有用。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***that*** adj
 ---
@@ -4390,16 +2945,6 @@ ________ (thankful), I managed to get through the game and the pain was worth it
 > He was angry to that degree that he turned pale.  
 > 他怒火中烧，脸色苍白。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***that*** adv
 ---
@@ -4415,16 +2960,6 @@ ________ (thankful), I managed to get through the game and the pain was worth it
 
 > I’m sorry. I hadn’t realized the situation was that bad.  
 > 很抱歉，我没有意识到情况会那么糟糕。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***that*** conj
@@ -4471,6 +3006,7 @@ ________ (thankful), I managed to get through the game and the pain was worth it
 > It’s not doing the things we like, but liking the things we have to do that makes life happy.  
 > 生活的快乐不在于做自己喜欢的事，而在于喜欢自己不得不做的事。
 
+
 固定搭配
 ---
 - #### in that
@@ -4480,9 +3016,7 @@ ________ (thankful), I managed to get through the game and the pain was worth it
 > We all long for sincere friendship in that it can deeply influence our lives.  
 > 我们都渴望真诚的友谊，因为它对我们的生活会产生深刻的影响。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4505,7 +3039,6 @@ You are waiting at a wrong place. It is at the hotel________ the coach picks up 
 I truly believe________ beauty comes from within.  
 ##### 答案 that  
   
-
 
 # ***the*** art
 ---
@@ -4624,12 +3157,7 @@ I truly believe________ beauty comes from within.
 > buy at ten dollars by the kilogram  
 > 以每千克10美元的价格买入
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4657,7 +3185,6 @@ As is known to all, ________ People’s Republic of China is ________ biggest de
 ##### 答案 the; the  
   
 
-
 # ***theater*** n
 ---
 英音 'θɪətə(r)     美音 'θiːətər
@@ -4675,16 +3202,6 @@ As is known to all, ________ People’s Republic of China is ________ biggest de
 
 > I like music, theatre and cinema.  
 > 我喜欢音乐、戏剧和电影。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***theatre*** n
@@ -4705,16 +3222,6 @@ As is known to all, ________ People’s Republic of China is ________ biggest de
 > I like music, theatre and cinema.  
 > 我喜欢音乐、戏剧和电影。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***thee*** pron
 ---
@@ -4727,16 +3234,6 @@ As is known to all, ________ People’s Republic of China is ________ biggest de
 ---
 1. **<旧>（第二人称单数的宾语）你**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***theft*** n
@@ -4753,16 +3250,6 @@ As is known to all, ________ People’s Republic of China is ________ biggest de
 
 > car theft  
 > 盗窃汽车
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***their*** pron
@@ -4786,16 +3273,6 @@ As is known to all, ________ People’s Republic of China is ________ biggest de
 > Let us give everybody their due.  
 > 让我们公平对待每个人。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***theirs*** pron
 ---
@@ -4813,16 +3290,6 @@ As is known to all, ________ People’s Republic of China is ________ biggest de
 > She managed to hold on to her job when several of her colleagues lost theirs.  
 > 她的几位同事都失业了，而她却设法保住了自己的职位。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***them*** pron
 ---
@@ -4838,16 +3305,6 @@ As is known to all, ________ People’s Republic of China is ________ biggest de
 
 > I know both of them.  
 > 他们两个我都认识。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***theme*** n
@@ -4868,16 +3325,6 @@ As is known to all, ________ People’s Republic of China is ________ biggest de
 > **theme park**  
 > Disneyland is the world’s biggest theme park.  
 > 迪士尼乐园是世界上最大的主题公园。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***themselves*** pron
@@ -4901,19 +3348,13 @@ As is known to all, ________ People’s Republic of China is ________ biggest de
 > Doctors themselves are the first to admit the treatment has side effects.  
 > 医生们自己最先承认这种治疗有副作用。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Many fast-growing countries are less concerned with protecting ________ (them) against climate change.  
 ##### 答案 themselves  
   
-
 
 # ***then*** adv
 ---
@@ -4952,16 +3393,6 @@ Many fast-growing countries are less concerned with protecting ________ (them) a
 > She has been very busy at work and then there was all that trouble with her son.  
 > 她工作一直很忙，另外还有儿子的一大堆麻烦事。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***then*** n
 ---
@@ -4984,16 +3415,6 @@ Many fast-growing countries are less concerned with protecting ________ (them) a
 > since then  
 > 自那时以来
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***theoretical*** adj
 ---
@@ -5006,16 +3427,6 @@ Many fast-growing countries are less concerned with protecting ________ (them) a
 ---
 1. *高义频：* **理论上的；假设的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***theory*** n
@@ -5046,6 +3457,7 @@ Many fast-growing countries are less concerned with protecting ________ (them) a
 > I have this theory that most people prefer being at work to being at home.  
 > 依我看，大多数人喜欢工作而不愿意呆在家里。
 
+
 固定搭配
 ---
 - #### in theory
@@ -5054,13 +3466,6 @@ Many fast-growing countries are less concerned with protecting ________ (them) a
 
 > It sounds fine in theory, but will it work?  
 > 理论上讲这是不错，但能否行得通?
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***there*** int
@@ -5077,16 +3482,6 @@ Many fast-growing countries are less concerned with protecting ________ (them) a
 
 > There, there, don’t cry.  
 > 好啦，好啦，别哭了。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***there*** adv
@@ -5145,6 +3540,7 @@ Many fast-growing countries are less concerned with protecting ________ (them) a
 > There I disagree with you.  
 > 在那点上我不同意你的看法。
 
+
 固定搭配
 ---
 - #### over there
@@ -5161,9 +3557,7 @@ Many fast-growing countries are less concerned with protecting ________ (them) a
 > My father was always there for me with good advice.  
 > 我父亲总能给我好建议。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -5174,7 +3568,6 @@ C.It remains
 D.There remains  
 ##### 答案 D  
   
-
 
 # ***therefore*** adv
 ---
@@ -5194,19 +3587,13 @@ D.There remains
 > We don’t need to do so much homework. Therefore, we have more time for after-school activities.  
 > 我们不需要做太多作业，因此，有更多的时间参加课外活动。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 It’s our hope that we will play a greater role in the market place and, ________ (因此), supply more jobs.  
 ##### 答案 therefore  
   
-
 
 # ***thermometer*** n
 ---
@@ -5220,16 +3607,6 @@ It’s our hope that we will play a greater role in the market place and, ______
 1. **体温计**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***thermos*** n
 ---
@@ -5242,16 +3619,6 @@ It’s our hope that we will play a greater role in the market place and, ______
 ---
 1. *高义频：* **[C] 热水瓶；保温瓶**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***these*** adj
@@ -5272,16 +3639,6 @@ It’s our hope that we will play a greater role in the market place and, ______
 > What I want to say is about these two topics: the protection of the environment and the importance of action.  
 > 我将就以下两个话题进行发言：环境保护和行动的重要性。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***these*** pron
 ---
@@ -5297,16 +3654,6 @@ It’s our hope that we will play a greater role in the market place and, ______
 
 > We’ll discuss these in detail below.  
 > 我们将在下面详细讨论这些。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***they*** pron
@@ -5335,16 +3682,6 @@ It’s our hope that we will play a greater role in the market place and, ______
 
 > Stay here and you’ll be able to see everybody as they come in.  
 > 呆在这儿，这样无论谁进来你都能看见。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***thick*** adj
@@ -5389,17 +3726,11 @@ It’s our hope that we will play a greater role in the market place and, ______
 > a thick Russian accent  
 > 浓重的俄罗斯口音
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 thicken /'θɪkən/ v 
 thickness /'θɪknəs/ n 
-真题解析
----
-[null]
-
 
 # ***thief*** n
 ---
@@ -5412,16 +3743,6 @@ thickness /'θɪknəs/ n
 ---
 1. *高义频：* **[C] (pl thieves) 窃贼；小偷**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***thin*** adj
@@ -5457,16 +3778,6 @@ thickness /'θɪknəs/ n
 > thin air  
 > 稀薄的空气
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***thin-faced*** adj
 ---
@@ -5479,16 +3790,6 @@ thickness /'θɪknəs/ n
 ---
 1. **面孔消瘦的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***thing*** n
@@ -5524,6 +3825,7 @@ thickness /'θɪknəs/ n
 > Take your things and go.  
 > 带上你的东西走吧。
 
+
 固定搭配
 ---
 - #### for one thing …, for another (thing) …
@@ -5532,13 +3834,6 @@ thickness /'θɪknəs/ n
 
 > For one thing, reading literary books help to improve my writing skills and broaden my horizons. For another, they can enrich my life.  
 > 首先，阅读文学书籍有助于提高我的写作技能并开阔视野。再者，还能丰富我的生活。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***think*** v
@@ -5597,6 +3892,7 @@ thickness /'θɪknəs/ n
 
 > He was trying to think where he’d seen her before.  
 > 他在努力回想以前在哪儿见过她。
+
 
 固定搭配
 ---
@@ -5661,9 +3957,11 @@ to remember sth：
 > I wish I could think up some ways of convincing them of their mistakes.  
 > 但愿我能想出一些方法，使他们相信自己错了。
 
+
 派生词汇
 ---
 thinker /'θɪŋkə(r)/ n 
+
 真题解析
 ---
 ##### 题目  
@@ -5676,7 +3974,6 @@ D.I don’t think so
 ##### 答案 D  
   
 
-
 # ***thinker*** n
 ---
 英音 'θɪŋkə(r)     美音 'θɪŋkər
@@ -5688,16 +3985,6 @@ D.I don’t think so
 ---
 1. **思想家**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***thinking*** n
@@ -5717,16 +4004,6 @@ D.I don’t think so
 
 > What’s your thinking on this question?  
 > 你对此事有何见解？
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***thirst*** n
@@ -5751,16 +4028,6 @@ D.I don’t think so
 > **thirst for knowledge**  
 > My thirst for knowledge was greater than my pains of hunger.  
 > 我对知识的渴望胜过饥饿的煎熬。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***thirsty*** adj
@@ -5791,16 +4058,6 @@ D.I don’t think so
 > Printing answered a need because people were thirsty for knowledge.  
 > 人们渴求知识，印刷术满足了这一需求。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***this*** pron
 ---
@@ -5827,16 +4084,6 @@ D.I don’t think so
 > You’d better remember this: Smile to everyone.  
 > 你最好记住这一点：对每个人微笑。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***this*** adj
 ---
@@ -5859,16 +4106,6 @@ D.I don’t think so
 > this evening / year  
 > 今晚/今年
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***this*** adv
 ---
@@ -5885,16 +4122,6 @@ D.I don’t think so
 > You need to cut about this much off the end of the pipe.  
 > 你需要把管头切下大约这么多。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***thistle*** n
 ---
@@ -5908,16 +4135,6 @@ D.I don’t think so
 1. **蓟 (一种野生植物, 叶片带刺, 开紫花)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***thistledown*** n
 ---
@@ -5930,16 +4147,6 @@ D.I don’t think so
 ---
 1. **蓟种子冠毛（蓟种子上的软翅，可帮助种子漂浮在空中）**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***thorough*** adj
@@ -5963,16 +4170,10 @@ D.I don’t think so
 > He was determined to be thorough in his research.  
 > 他决心细致深入地进行研究。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 thoroughly /'θʌrəli/ adv 
-真题解析
----
-[null]
-
 
 # ***those*** pron
 ---
@@ -5992,12 +4193,7 @@ thoroughly /'θʌrəli/ adv
 > Only those who will risk going too far can possibly find out how far one can go.    
 > 只有那些愿意冒险不断前行的人，才能知道自己能够走多远。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -6008,7 +4204,6 @@ Half of ________ surveyed in 16 countries say they go first to their closest fri
 At our factory there are a few machines similar to ________ described in this magazine.  
 ##### 答案 those  
   
-
 
 # ***those*** adj
 ---
@@ -6025,16 +4220,6 @@ At our factory there are a few machines similar to ________ described in this ma
 > Those two problems are hard.  
 > 那两道题很难解。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***thou*** pron
 ---
@@ -6047,16 +4232,6 @@ At our factory there are a few machines similar to ________ described in this ma
 ---
 1. **<旧>（第二人称单数的主格）你**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***though*** conj
@@ -6090,12 +4265,7 @@ though意为“虽然”，引导状语从句时，可将从句中的表语、�
 > He’ll probably say no, though it’s worth asking.   
 > 他很可能会拒绝，不过问一下也没什么坏处。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -6116,7 +4286,6 @@ D.was he though
 ##### 答案 B  
   
 
-
 # ***though*** adv
 ---
 英音 ðəʊ     美音 ðoʊ
@@ -6132,6 +4301,7 @@ D.was he though
 > Our team lost. It was a good game, though.   
 > 我们队输了，可是也不失为一场很好的比赛。
 
+
 固定搭配
 ---
 - #### even though 
@@ -6141,9 +4311,7 @@ D.was he though
 > My grandfather still plays tennis now and then, even though he’s in his nineties.   
 > 我爷爷尽管90多岁了，仍然时不时地打打网球。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -6154,7 +4322,6 @@ C.either
 D.too  
 ##### 答案 A  
   
-
 
 # ***thought*** n  重难点词汇
 ---
@@ -6231,6 +4398,7 @@ a feeling of care or worry：
 > Life is measured by thought and action, not by time.   
 > 衡量生命的尺度是思想和行为，而不是时间。
 
+
 固定搭配
 ---
 - #### at the thought of 
@@ -6254,9 +4422,11 @@ a feeling of care or worry：
 > He dived in after her without a second thought.  
 > 他不假思索地随她跳入水中。
 
+
 派生词汇
 ---
 thoughtful /'θɔːtfl/ adj 
+
 真题解析
 ---
 ##### 题目  
@@ -6264,7 +4434,6 @@ There is no need to tell me your answer now.  _________ (考虑一下) and then 
   
 ##### 答案 Give it some thought  
   
-
 
 # ***thoughtful*** adj
 ---
@@ -6277,16 +4446,6 @@ There is no need to tell me your answer now.  _________ (考虑一下) and then 
 ---
 1. *高义频：* **关切的；体贴的；深思的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***thousand*** num
@@ -6304,6 +4463,7 @@ There is no need to tell me your answer now.  _________ (考虑一下) and then 
 > One may overcome a thousand men in battle, but he who conquers himself is the greatest victor.   
 > 一个人也许能在战场上制胜千军，可战胜自己才是最伟大的胜利者。
 
+
 固定搭配
 ---
 - #### thousands of 
@@ -6312,13 +4472,6 @@ There is no need to tell me your answer now.  _________ (考虑一下) and then 
 
 > Thousands of people left the countryside to work in the city.   
 > 成千上万的人离开乡村到城里工作。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***thread*** n
@@ -6338,16 +4491,6 @@ There is no need to tell me your answer now.  _________ (考虑一下) and then 
 
 > a thread running through the film   
 > 贯穿这部电影的一条主线
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***threat*** n
@@ -6380,16 +4523,6 @@ There is no need to tell me your answer now.  _________ (考虑一下) and then 
 > There was a threat of typhoon.   
 > 有刮台风的征兆。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***threaten*** v
 ---
@@ -6417,12 +4550,11 @@ There is no need to tell me your answer now.  _________ (考虑一下) and then 
 > The dark clouds threatened rain.   
 > 乌云密布预示大雨将至。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 threatening /'θretnɪŋ/ adj 
+
 真题解析
 ---
 ##### 题目  
@@ -6430,7 +4562,6 @@ David threatened ________ (report) his neighbour to the police if the damages we
   
 ##### 答案 to report  
   
-
 
 # ***threatening*** adj
 ---
@@ -6443,16 +4574,6 @@ David threatened ________ (report) his neighbour to the police if the damages we
 ---
 1. **恐吓的；具有威胁的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***thrill*** n
@@ -6477,16 +4598,6 @@ David threatened ________ (report) his neighbour to the police if the damages we
 > Meeting the famous footballer was a great thrill for the children.   
 > 跟这位著名的足球运动员见面对孩子们来说是一件非常激动人心的事。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***thrill*** v
 ---
@@ -6504,17 +4615,11 @@ David threatened ________ (report) his neighbour to the police if the damages we
 > She was thrilled by so many wonderful treasures from different cultures displayed in the museum.   
 > 博物馆展出的那些文化风格迥异的精美珍宝，让她兴奋不已。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 thrilled  /θrɪld/ adj [不用于名词前]
 thrilling /'θrɪlɪŋ/ adj 
-真题解析
----
-[null]
-
 
 # ***thriller*** n
 ---
@@ -6529,16 +4634,6 @@ thrilling /'θrɪlɪŋ/ adj
 1. *高义频：* **惊险小说 / 电影；恐怖小说 / 电影**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***throat*** n
 ---
@@ -6552,16 +4647,6 @@ thrilling /'θrɪlɪŋ/ adj
 ---
 1. *高义频：* **喉咙；咽喉；喉头**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***through*** prep  重难点词汇
@@ -6614,12 +4699,7 @@ thrilling /'θrɪlɪŋ/ adj
 > From then on, we’ve kept in touch with each other through e-mails.   
 > 从那时起，我们通过电子邮件保持联系。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -6630,7 +4710,6 @@ C.with
 D.from  
 ##### 答案 A  
   
-
 
 # ***through*** adv  重难点词汇
 ---
@@ -6666,16 +4745,6 @@ D.from
 > Please hold the line and I’ll put you through.   
 > 请别挂断电话，我给您转接过去。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***throughout*** prep
 ---
@@ -6695,16 +4764,6 @@ D.from
 > throughout history / one’s life   
 > 纵观历史/毕生
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***throughout*** adv
 ---
@@ -6723,16 +4782,6 @@ D.from
 
 > The ceremony lasted two hours and we had to stand throughout.   
 > 仪式进行了两个小时，我们自始至终都得站着。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***throw*** v
@@ -6761,6 +4810,7 @@ D.from
 > **threw open**  
 > She drew the curtains and threw open the windows.  
 > 她拉开窗帘，一把推开窗户。
+
 
 固定搭配
 ---
@@ -6821,13 +4871,10 @@ D.from
 > throw up one’s hands in fear   
 > 恐惧地举起双手
 
+
 派生词汇
 ---
 thrower /'θrəʊə(r)/ n [C] 
-真题解析
----
-[null]
-
 
 # ***thumb*** n
 ---
@@ -6842,16 +4889,6 @@ thrower /'θrəʊə(r)/ n [C]
 1. *高义频：* **拇指**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***thump*** v
 ---
@@ -6864,16 +4901,6 @@ thrower /'θrəʊə(r)/ n [C]
 ---
 1. **（由于生气、恐惧或兴奋等心脏）怦怦直跳**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***thunder*** n
@@ -6895,16 +4922,6 @@ thrower /'θrəʊə(r)/ n [C]
 > the thunder of applause   
 > 雷鸣般的掌声
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***thunder*** vi
 ---
@@ -6924,16 +4941,6 @@ thrower /'θrəʊə(r)/ n [C]
 > The train thundered through the small station.   
 > 火车轰隆隆地驶过那个小站。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***thunderstorm*** n
 ---
@@ -6947,16 +4954,6 @@ thrower /'θrəʊə(r)/ n [C]
 ---
 1. *高义频：* **雷雨；雷暴**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***thus*** adv
@@ -6982,16 +4979,6 @@ in this way; like this：
 > We failed to find enough evidence; thus we concluded that he was innocent.   
 > 我们未能找到足够的证据，因此，我们认定他是无罪的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tick*** n
 ---
@@ -7005,16 +4992,6 @@ in this way; like this：
 ---
 1. *高义频：* **(核对用的) 记号；[常用单数] 滴答声**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tick*** v
@@ -7034,16 +5011,6 @@ in this way; like this：
 
 2. *高义频：* **(钟表等) 嘀嗒嘀嗒响：**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ticket*** n
@@ -7070,16 +5037,6 @@ in this way; like this：
 > Admission by ticket only.   
 > 凭票入场。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tidal*** adj
 ---
@@ -7092,16 +5049,6 @@ in this way; like this：
 ---
 1. **受潮水影响的；有涨落的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tide*** n
@@ -7123,16 +5070,6 @@ in this way; like this：
 > It takes courage to speak out against the tide of opinion.  
 > 跟舆论唱反调需要勇气。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tidy*** adj
 ---
@@ -7152,16 +5089,6 @@ in this way; like this：
 > A neat person likes to keep things tidy.   
 > 爱整洁的人喜欢把东西摆放整齐。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tidy*** v
 ---
@@ -7178,16 +5105,6 @@ in this way; like this：
 > **tidy up**  
 > I must tidy myself up.   
 > 我得梳理一下。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tie*** n
@@ -7216,16 +5133,6 @@ in this way; like this：
 > Each team scored twice and the game ended in a tie.  
 > 每个队都得分两次，比赛最终打成了平局。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tie*** vt
 ---
@@ -7243,6 +5150,7 @@ in this way; like this：
 > Tie your bike to a tree so as to prevent it from being stolen.  
 > 把自行车拴在树上以防被偷。
 
+
 固定搭配
 ---
 - #### tie up 
@@ -7251,13 +5159,6 @@ in this way; like this：
 
 > Susan handed him the string so he could tie up the box.  
 > 苏珊把绳子递给他，让他能绑好盒子。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tiger*** n
@@ -7272,16 +5173,6 @@ in this way; like this：
 ---
 1. *高义频：* **虎；老虎**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tight*** adj
@@ -7328,12 +5219,7 @@ in this way; like this：
 > The airport security is very tight.   
 > 机场的安保工作很严格。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -7341,7 +5227,6 @@ My schedule is very ________ (紧凑的) right now, but I’ll try to fit you in
   
 ##### 答案 tight  
   
-
 
 # ***tight*** adv
 ---
@@ -7363,17 +5248,11 @@ My schedule is very ________ (紧凑的) right now, but I’ll try to fit you in
 > Sleep tight!  
 > 睡个好觉！
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 tighten /'taɪtn/ v 
 tightly /'taɪtli/ adv 
-真题解析
----
-[null]
-
 
 # ***tightly*** adv
 ---
@@ -7386,16 +5265,6 @@ tightly /'taɪtli/ adv
 ---
 1. *高义频：* **紧地；牢牢地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***till*** prep
@@ -7420,16 +5289,6 @@ tightly /'taɪtli/ adv
 > I didn’t know about the news till just now.  
 > 直到现在我才知道那个消息。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***till*** conj
 ---
@@ -7451,16 +5310,6 @@ tightly /'taɪtli/ adv
 
 > You will never know what you can do till you try.   
 > 直到你去尝试你才知道自己能做什么。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***time*** n  重难点词汇
@@ -7521,6 +5370,7 @@ tightly /'taɪtli/ adv
 
 > There were three times as many girls as boys in class.   
 > 班上女孩的数量是男孩的三倍。
+
 
 固定搭配
 ---
@@ -7674,9 +5524,7 @@ tightly /'taɪtli/ adv
 > I listened to the sentence time after time, but still can’t follow its meaning.   
 > 我反复听这个句子，但还是不明白它的意思。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -7706,7 +5554,6 @@ The new stadium being built for the next Asian Games will be ________ (…的三
 ##### 答案 three times as big as  
   
 
-
 # ***time*** vt  重难点词汇
 ---
 英音 taɪm     美音 taɪm
@@ -7722,16 +5569,6 @@ The new stadium being built for the next Asian Games will be ________ (…的三
 > I saw from the station clock that I had timed my arrival perfectly.   
 > 从车站的大钟上，我看到自己到达的时间算得分秒不差。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***time-consuming*** adj
 ---
@@ -7744,16 +5581,6 @@ The new stadium being built for the next Asian Games will be ________ (…的三
 ---
 1. **耗费时间的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***timetable*** n
@@ -7772,16 +5599,6 @@ The new stadium being built for the next Asian Games will be ________ (…的三
 > a railway timetable   
 > 火车时刻表
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tin*** n
 ---
@@ -7798,16 +5615,6 @@ The new stadium being built for the next Asian Games will be ________ (…的三
 2. *高义频：* **(食物等的) 罐头；听**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tiny*** adj
 ---
@@ -7823,16 +5630,6 @@ The new stadium being built for the next Asian Games will be ________ (…的三
 
 > This is the tiniest car I’ve seen.  
 > 这是我见过的最小的汽车。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tip*** n
@@ -7865,16 +5662,6 @@ The new stadium being built for the next Asian Games will be ________ (…的三
 > learning tips on grammar   
 > 语法学习建议
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tip*** vt
 ---
@@ -7890,16 +5677,6 @@ The new stadium being built for the next Asian Games will be ________ (…的三
 
 > I tipped the waitress 50 yuan.   
 > 我给了女服务员50元小费。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tire*** v
@@ -7927,18 +5704,12 @@ The new stadium being built for the next Asian Games will be ________ (…的三
 > She never tires of talking about her children.  
 > 她总是不厌其烦地谈她的孩子。
 
+
 固定搭配
 ---
 - #### tire out
 1. **使精疲力竭**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tire*** n
@@ -7957,16 +5728,6 @@ The new stadium being built for the next Asian Games will be ________ (…的三
 > **flat tyre**  
 > a flat tyre  
 > 轮胎瘪了
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tired*** adj
@@ -7995,16 +5756,6 @@ The new stadium being built for the next Asian Games will be ________ (…的三
 > He was tired of the urban life and hoped to move to the country, expecting a change in his current life style.   
 > 他厌倦了城市生活，希望迁居乡村，改变目前的生活方式。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tiresome*** adj
 ---
@@ -8021,16 +5772,6 @@ The new stadium being built for the next Asian Games will be ________ (…的三
 > a tiresome child / job   
 > 烦人的孩子/工作
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tiring*** adj
 ---
@@ -8046,16 +5787,6 @@ The new stadium being built for the next Asian Games will be ________ (…的三
 
 > a tiring job   
 > 累人的工作
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tissue*** n
@@ -8079,16 +5810,6 @@ The new stadium being built for the next Asian Games will be ________ (…的三
 > face / facial tissues  
 > 面巾纸
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***title*** n
 ---
@@ -8109,16 +5830,6 @@ The new stadium being built for the next Asian Games will be ________ (…的三
 > How many times did Michael Jordan’s team win the NBA title?   
 > 迈克尔·乔丹所在的球队得过几次NBA冠军？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***title*** vt
 ---
@@ -8131,16 +5842,6 @@ The new stadium being built for the next Asian Games will be ________ (…的三
 ---
 1. *高义频：* **加标题于；授予...称号**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***to*** prep
@@ -8246,12 +5947,7 @@ to还可与动词原形连用构成动词不定式。
 > I want to know the answer.   
 > 我想知道答案。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -8263,7 +5959,6 @@ Most Americans would prefer to keep their problems ________ themselves, and solv
   
 ##### 答案 to; by  
   
-
 
 # ***toast*** n
 ---
@@ -8287,16 +5982,6 @@ Most Americans would prefer to keep their problems ________ themselves, and solv
 > I’d like to propose a toast to the bride and groom.  
 > 我建议为新郎新娘干杯。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***toast*** vt
 ---
@@ -8316,16 +6001,6 @@ Most Americans would prefer to keep their problems ________ themselves, and solv
 > I toast your health.   
 > 我为你的健康干杯。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tobacco*** n
 ---
@@ -8340,19 +6015,13 @@ Most Americans would prefer to keep their problems ________ themselves, and solv
 1. *高义频：* **烟草；烟草制品**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The international ________ (烟草) industry is making a lot of money from the developing countries.  
 ##### 答案 tobacco  
   
-
 
 # ***today*** adv
 ---
@@ -8371,16 +6040,6 @@ The international ________ (烟草) industry is making a lot of money from the d
 
 > More women have jobs today than in the past.   
 > 现在就业的妇女比以前多了。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***today*** n
@@ -8402,16 +6061,6 @@ The international ________ (烟草) industry is making a lot of money from the d
 > Today must borrow nothing of tomorrow.   
 > 今日事，今日毕。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***toe*** n
 ---
@@ -8426,16 +6075,6 @@ The international ________ (烟草) industry is making a lot of money from the d
 1. *高义频：* **脚趾**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tofu*** n
 ---
@@ -8448,16 +6087,6 @@ The international ________ (烟草) industry is making a lot of money from the d
 ---
 1. **豆腐**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***together*** adv
@@ -8475,6 +6104,7 @@ The international ________ (烟草) industry is making a lot of money from the d
 > travel together   
 > 一起旅行
 
+
 固定搭配
 ---
 - #### together with 
@@ -8485,9 +6115,7 @@ The international ________ (烟草) industry is making a lot of money from the d
 > 我的朋友安要和我一起去野外考察。
 
 句子的谓语动词应该与together with前面的主语保持人称与数的一致。
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -8495,7 +6123,6 @@ Dr Smith, together with his wife and daughters, _______ (be) going to visit Beij
   
 ##### 答案 is  
   
-
 
 # ***toil*** n
 ---
@@ -8508,16 +6135,6 @@ Dr Smith, together with his wife and daughters, _______ (be) going to visit Beij
 ---
 1. **辛劳,辛苦**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***toilet*** n
@@ -8533,16 +6150,6 @@ Dr Smith, together with his wife and daughters, _______ (be) going to visit Beij
 1. *高义频：* **厕所；卫生间 (AmE bathroom / restroom)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***token*** n
 ---
@@ -8555,16 +6162,6 @@ Dr Smith, together with his wife and daughters, _______ (be) going to visit Beij
 ---
 1. **象征,标志**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tolerant*** adj
@@ -8583,12 +6180,7 @@ Dr Smith, together with his wife and daughters, _______ (be) going to visit Beij
 > Luckily, my parents were tolerant of my choice of books.  
 > 幸运的是，我父母对我选择读什么书持宽容态度。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -8599,7 +6191,6 @@ C.tolerant
 D.wild  
 ##### 答案 C  
   
-
 
 # ***tolerate*** vt
 ---
@@ -8615,16 +6206,6 @@ D.wild
 
 > Those who know how to tolerate others can naturally lead a happy life.   
 > 那些懂得容忍他人的人自然可以过得幸福。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***toll*** n
@@ -8643,16 +6224,6 @@ D.wild
 2. *高义频：* **(事故、疾病等的) 伤亡人数**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tomato*** n
 ---
@@ -8667,16 +6238,6 @@ D.wild
 1. *高义频：* **西红柿；番茄**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tomb*** n
 ---
@@ -8690,16 +6251,6 @@ D.wild
 ---
 1. *高义频：* **坟；墓碑**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tomorrow*** adv
@@ -8716,16 +6267,6 @@ D.wild
 
 > See you tomorrow.   
 > 明天见。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tomorrow*** n
@@ -8744,16 +6285,6 @@ D.wild
 > Never leave that until tomorrow, which you can do today.   
 > 今天能做的事不要拖到明天。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ton*** n
 ---
@@ -8767,16 +6298,6 @@ D.wild
 ---
 1. *高义频：* **(重量单位) 吨**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tone*** n
@@ -8801,16 +6322,6 @@ D.wild
 > He talks in a very slow but humourous tone and nobody falls asleep in his class.   
 > 他讲话慢条斯理但富有幽默感，所以他的课上没人睡觉。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tongs*** n
 ---
@@ -8823,16 +6334,6 @@ D.wild
 ---
 1. **（复）夹子；小钳子**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tongue*** n
@@ -8859,16 +6360,6 @@ a language：
 > in one’s own tongue   
 > 用本国语说
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tonight*** adv
 ---
@@ -8884,16 +6375,6 @@ a language：
 
 > Professor Li asked us to finish reading the book tonight.   
 > 李教授让我们今晚读完这本书。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tonight*** n
@@ -8912,16 +6393,6 @@ a language：
 > on tonight’s TV  
 > 在今晚的电视上
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tonne*** n
 ---
@@ -8935,16 +6406,6 @@ a language：
 ---
 1. *高义频：* **公吨**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***too*** adv  重难点词汇
@@ -8984,6 +6445,7 @@ a language：
 > The coat is too large for me.  
 > 这件外套我穿太大了。
 
+
 固定搭配
 ---
 - #### all too 
@@ -9005,9 +6467,7 @@ a language：
 
 ### 辨析 much too, too much
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -9015,7 +6475,6 @@ a language：
 — Thanks.________ (你也是).  
 ##### 答案 You, too  
   
-
 
 # ***tool*** n
 ---
@@ -9035,16 +6494,6 @@ a language：
 
 > E-mail is a tool which helps people all over the world to communicate conveniently.  
 > 电子邮件是一种工具，能帮助世界各地的人方便地交流。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tooth*** n
@@ -9067,16 +6516,6 @@ a language：
 > I’ve just had a tooth out at the dentist’s.   
 > 我刚在牙医那里拔了颗牙。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***toothache*** n
 ---
@@ -9094,16 +6533,6 @@ a language：
 > I rarely get (a) toothache.   
 > 我很少牙疼。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***toothbrush*** n
 ---
@@ -9118,16 +6547,6 @@ a language：
 1. *高义频：* **牙刷**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***toothpaste*** n
 ---
@@ -9141,16 +6560,6 @@ a language：
 ---
 1. *高义频：* **牙膏**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***top*** n
@@ -9182,6 +6591,7 @@ a language：
 > She is at the top of her class in French.  
 > 她的法语在班上名列前茅。
 
+
 固定搭配
 ---
 - #### on top 
@@ -9204,13 +6614,6 @@ a language：
 > He gave me a meal and, on top of that, money for my journey.   
 > 他管了我一顿饭，除此之外，还给了我路费。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***top*** adj
 ---
@@ -9231,16 +6634,6 @@ a language：
 > I became one of the top students in my class.  
 > 我成为班上最优秀的学生之一。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***top-class*** adj
 ---
@@ -9254,16 +6647,6 @@ a language：
 1. **最优秀的；第一流的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***top-ranking*** adj
 ---
@@ -9276,16 +6659,6 @@ a language：
 ---
 1. **最高等级的，最重要的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***topic*** n
@@ -9303,16 +6676,6 @@ a language：
 
 > a hot / sensitive topic   
 > 热门/敏感话题
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***torch*** n
@@ -9334,16 +6697,6 @@ a language：
 > the Olympic torch relay   
 > 奥运火炬传递
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tornado*** n
 ---
@@ -9358,16 +6711,6 @@ a language：
 1. *高义频：* **龙卷风；旋风**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tortoise*** n
 ---
@@ -9381,16 +6724,6 @@ a language：
 ---
 1. *高义频：* **乌龟**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***total*** adj
@@ -9415,16 +6748,6 @@ a language：
 > total darkness / silence   
 > 漆黑/寂静
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***total*** n
 ---
@@ -9446,6 +6769,7 @@ a language：
 > His income reached a total of $1,000.  
 > 他的总收入达到1000美元。
 
+
 固定搭配
 ---
 - #### in total 
@@ -9454,13 +6778,6 @@ a language：
 
 > In total, these astronauts have spent more than 26,000 days in space.   
 > 这些宇航员已在太空中总共待了26000多天。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***total*** vt
@@ -9478,16 +6795,6 @@ a language：
 > The visitors totaled 250.   
 > 来宾总计250人。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***totally*** adv
 ---
@@ -9500,16 +6807,6 @@ a language：
 ---
 1. *高义频：* **全然地；完全地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***touch*** v  重难点词汇
@@ -9555,6 +6852,7 @@ a language：
 > The article touches many of the issues which are currently popular.  
 > 这篇文章涉及到了很多时下热门的话题。
 
+
 固定搭配
 ---
 - #### touch down 
@@ -9563,13 +6861,6 @@ a language：
 
 > The plane finally touched down at the airport around midday.   
 > 中午前后，飞机终于在机场降落。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***touch*** n  重难点词汇
@@ -9603,6 +6894,7 @@ a way or style of doing sth：
 > **losing,touch**  
 > This meal is awful. I think I’m losing my touch (= lost my ability).   
 > 这顿饭太难吃了。我想我的烹调水平下降了。
+
 
 固定搭配
 ---
@@ -9641,6 +6933,7 @@ a way or style of doing sth：
 > I regret to say that I have lost touch with four or five friends.   
 > 很遗憾，我已与四五个朋友失去了联系。
 
+
 派生词汇
 ---
 touched /tʌtʃt/ adj 
@@ -9649,10 +6942,6 @@ touched /tʌtʃt/ adj
 > 你的关心让我们深受感动。
 
 touching /'tʌtʃɪŋ/ adj 
-真题解析
----
-[null]
-
 
 # ***touchstone*** n
 ---
@@ -9665,16 +6954,6 @@ touching /'tʌtʃɪŋ/ adj
 ---
 1. **试金石，检验标准**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tough*** adj
@@ -9724,18 +7003,12 @@ touching /'tʌtʃɪŋ/ adj
 > It is tough to make a decision.   
 > 很难作决定。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 toughen /'tʌfn/ v 
 toughly /tʌfli/ adv 
 toughness /tʌfnəs/ n [U]
-真题解析
----
-[null]
-
 
 # ***tour*** n
 ---
@@ -9775,16 +7048,6 @@ a short journey made for pleasure：
 > The England cricket team is on tour in Pakistan.   
 > 英格兰板球队正在巴基斯坦巡回比赛。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tour*** vt
 ---
@@ -9801,16 +7064,6 @@ a short journey made for pleasure：
 > While he was still a teenager, Mozart was already a big star and toured Europe giving concerts.   
 > 年仅十几岁时，莫扎特就已经是大明星了，并在欧洲各地举办巡回音乐会。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tourism*** n
 ---
@@ -9825,16 +7078,6 @@ a short journey made for pleasure：
 1. *高义频：* **观光旅行；旅游业**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tourist*** n
 ---
@@ -9848,16 +7091,6 @@ a short journey made for pleasure：
 ---
 1. *高义频：* **观光旅行者；游客**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tournament*** n
@@ -9875,16 +7108,6 @@ a short journey made for pleasure：
 
 > tennis tournaments   
 > 网球锦标赛
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***toward*** n
@@ -9917,16 +7140,6 @@ a short journey made for pleasure：
 > Towards the end of the game she fell asleep.   
 > 她在比赛快结束时睡着了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***towards*** prep
 ---
@@ -9958,16 +7171,6 @@ a short journey made for pleasure：
 > Towards the end of the game she fell asleep.   
 > 她在比赛快结束时睡着了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***towel*** n
 ---
@@ -9981,16 +7184,6 @@ a short journey made for pleasure：
 ---
 1. *高义频：* **毛巾；纸巾**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tower*** n
@@ -10009,16 +7202,6 @@ a short journey made for pleasure：
 > a television tower   
 > 电视塔
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tower*** vi
 ---
@@ -10031,16 +7214,6 @@ a short journey made for pleasure：
 ---
 1. **高耸，屹立；超过**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***town*** n
@@ -10070,16 +7243,6 @@ a short journey made for pleasure：
 > He had to go up to town that morning on business.  
 > 那天早上他得去市中心办公事。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***toy*** n
 ---
@@ -10094,16 +7257,6 @@ a short journey made for pleasure：
 1. *高义频：* **玩具；玩物**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***trace*** vt
 ---
@@ -10116,16 +7269,6 @@ a short journey made for pleasure：
 ---
 1. *高义频：* **跟踪；追踪**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***trace*** n
@@ -10140,16 +7283,6 @@ a short journey made for pleasure：
 ---
 1. *高义频：* **踪迹；痕迹**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***track*** n
@@ -10192,6 +7325,7 @@ a short journey made for pleasure：
 > They ran five times round the track.   
 > 他们绕跑道跑了五圈。
 
+
 固定搭配
 ---
 - #### keep track of 
@@ -10211,13 +7345,6 @@ a short journey made for pleasure：
 > I had so much fun that I lost track of time.   
 > 我玩得很愉快，以至于都忘了时间。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***track*** vt
 ---
@@ -10230,16 +7357,6 @@ a short journey made for pleasure：
 ---
 1. *高义频：* **跟踪；追踪**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tracksuit*** n
@@ -10254,16 +7371,6 @@ a short journey made for pleasure：
 1. **运动服**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tractor*** n
 ---
@@ -10277,16 +7384,6 @@ a short journey made for pleasure：
 ---
 1. *高义频：* **拖拉机**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***trade*** n
@@ -10317,16 +7414,6 @@ a short journey made for pleasure：
 > My father is a doctor by trade.   
 > 我爸爸的职业是医生。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***trade*** v
 ---
@@ -10351,16 +7438,10 @@ a short journey made for pleasure：
 > He traded his pen for a knife with me.  
 > 他用笔跟我换了一把刀。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 trading /'treɪdɪŋ/ n [U]
-真题解析
----
-[null]
-
 
 # ***trademark*** n
 ---
@@ -10375,16 +7456,6 @@ trading /'treɪdɪŋ/ n [U]
 1. *高义频：* **商标**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***trader*** n
 ---
@@ -10397,16 +7468,6 @@ trading /'treɪdɪŋ/ n [U]
 ---
 1. **商人；买卖人；经商者**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tradition*** n
@@ -10425,12 +7486,7 @@ trading /'treɪdɪŋ/ n [U]
 > The tradition of the Dragon Boat Festival started more than 2,000 years ago.   
 > 端午节的传统始于两千多年前。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -10438,7 +7494,6 @@ There’s a ________(传统) in our office that when it’s somebody’s birthda
   
 ##### 答案 tradition  
   
-
 
 # ***traditional*** adj
 ---
@@ -10455,12 +7510,11 @@ There’s a ________(传统) in our office that when it’s somebody’s birthda
 > Do you like traditional Chinese art using brush and ink?   
 > 你喜欢中国传统水墨画吗？
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 traditionally /trə'dɪʃənəli/ adv 
+
 真题解析
 ---
 ##### 题目  
@@ -10468,7 +7522,6 @@ In ________ (tradition) Chinese culture, marriage decisions were often made by p
   
 ##### 答案 traditional  
   
-
 
 # ***traditionally*** adv
 ---
@@ -10481,16 +7534,6 @@ In ________ (tradition) Chinese culture, marriage decisions were often made by p
 ---
 1. **传统地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***traffic*** n
@@ -10519,16 +7562,6 @@ In ________ (tradition) Chinese culture, marriage decisions were often made by p
 > the traffic of goods between one country and another  
 > 一国与另一国间的货物运输
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tragedy*** n
 ---
@@ -10555,16 +7588,6 @@ In ________ (tradition) Chinese culture, marriage decisions were often made by p
 > Shakespeare’s tragedy of Hamlet   
 > 莎士比亚的悲剧《哈姆雷特》
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***trail*** n
 ---
@@ -10588,16 +7611,6 @@ In ________ (tradition) Chinese culture, marriage decisions were often made by p
 > Behind our house is the start of a fascinating trail.  
 > 从我们房后延伸出去一条迷人的小路。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***trail*** v
 ---
@@ -10617,16 +7630,6 @@ to pull or be pulled along behind sb / sth：
 
 > The bride’s dress trailed behind her.  
 > 新娘的礼服拖在身后。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***train*** n
@@ -10659,16 +7662,6 @@ to pull or be pulled along behind sb / sth：
 > A train of nice recollections runs across my mind when speaking about my college years.   
 > 一说起大学时代，我的脑中就闪过一串美好的回忆。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***train*** v
 ---
@@ -10689,12 +7682,11 @@ to pull or be pulled along behind sb / sth：
 > The school basketball team is training hard for the league match.   
 > 校篮球队正在刻苦训练备战联赛。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 trainer /'treɪnə(r)/ n [C] 
+
 真题解析
 ---
 ##### 题目  
@@ -10703,7 +7695,6 @@ C.by
 D.of  
 ##### 答案 for  
   
-
 
 # ***trainer*** n
 ---
@@ -10716,16 +7707,6 @@ D.of
 ---
 1. **运动鞋；教练员**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***training*** n
@@ -10752,16 +7733,6 @@ D.of
 > a training course   
 > 培训课程
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tram*** n
 ---
@@ -10779,16 +7750,6 @@ D.of
 > a tram track / service / stop   
 > 有轨电车轨道/服务/站
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tramp*** n
 ---
@@ -10803,16 +7764,6 @@ D.of
 1. *高义频：* **流浪汉；行乞者**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tranquil*** adj
 ---
@@ -10825,16 +7776,6 @@ D.of
 ---
 1. **平静的, 宁静的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***transaction*** n
@@ -10850,16 +7791,6 @@ D.of
 1. *高义频：* **交易；业务；买卖(deal)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***transfer*** v
 ---
@@ -10872,16 +7803,6 @@ D.of
 ---
 1. *高义频：* **转移；调动；换乘**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***transfer*** n
@@ -10896,16 +7817,6 @@ D.of
 ---
 1. *高义频：* **(地点的) 转移；(工作的)调动**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***transform*** vt
@@ -10925,16 +7836,6 @@ to completely change sth / sb, especially in a way that improves it or them：
 > Water can transform a desert into a garden.   
 > 水能使沙漠变为花园。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***transfusion*** n
 ---
@@ -10948,16 +7849,6 @@ to completely change sth / sb, especially in a way that improves it or them：
 ---
 1. *高义频：* **输血**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***transistor*** n
@@ -10973,16 +7864,6 @@ to completely change sth / sb, especially in a way that improves it or them：
 1. *高义频：* **晶体管**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***transition*** n
 ---
@@ -10996,16 +7877,6 @@ to completely change sth / sb, especially in a way that improves it or them：
 ---
 1. *高义频：* **过渡；转变；变迁**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***translate*** v
@@ -11035,19 +7906,13 @@ to change sth from oneform into another：
 > It’s time to translate words into action.  
 > 是把言语转化成行动的时候了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The story was first written in English and later ________ (翻译) into Chinese.  
 ##### 答案 translated  
   
-
 
 # ***translation*** n
 ---
@@ -11072,16 +7937,6 @@ The story was first written in English and later ________ (翻译) into Chinese.
 > a Chinese translation of Harry Potter and the Half-Blood Prince   
 > 《哈里·波特与混血王子》的汉译本
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***translator*** n
 ---
@@ -11095,16 +7950,6 @@ The story was first written in English and later ________ (翻译) into Chinese.
 ---
 1. *高义频：* **译员；翻译家**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***transmit*** vt
@@ -11136,16 +7981,6 @@ The story was first written in English and later ________ (翻译) into Chinese.
 > This infection is transmitted to humans by mosquitoes.   
 > 这种传染病是由蚊子传染给人类的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***transparent*** adj
 ---
@@ -11165,19 +8000,13 @@ The story was first written in English and later ________ (翻译) into Chinese.
 > a transparent lie   
 > 明显的谎言
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The state-run company is required to make its accounts as ________ as possible for its staff to monitor the use of money.   
 ##### 答案 transparent / clear  
   
-
 
 # ***transplant*** n
 ---
@@ -11191,16 +8020,6 @@ The state-run company is required to make its accounts as ________ as possible f
 ---
 1. *高义频：* **移植手术**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***transplant*** vt
@@ -11218,16 +8037,6 @@ The state-run company is required to make its accounts as ________ as possible f
 > He transplanted the little tree to the garden when it was the best time for it.  
 > 趁着时机正合适，他把小树苗移到了花园里。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***transport*** vt
 ---
@@ -11244,16 +8053,6 @@ The state-run company is required to make its accounts as ________ as possible f
 > **transported,to**  
 > At present, lots of food and medicine are being transported from all over China  to the earthquakestricken areas.    
 > 目前，大量的食品和药品正从中国各地运往地震灾区。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***transport*** n
@@ -11283,16 +8082,6 @@ The state-run company is required to make its accounts as ________ as possible f
 > Which kind of transport do you prefer to use: bus or train?   
 > 你更喜欢使用哪种交通工具：公共汽车还是火车？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***transportation*** n
 ---
@@ -11306,16 +8095,6 @@ The state-run company is required to make its accounts as ________ as possible f
 ---
 1. *高义频：* **运输；客运；货运；运输工具**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***trap*** n
@@ -11349,16 +8128,6 @@ The state-run company is required to make its accounts as ________ as possible f
 > Some people feel that marriage is a trap.   
 > 有些人认为婚姻是牢笼。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***trap*** vt
 ---
@@ -11391,16 +8160,6 @@ The state-run company is required to make its accounts as ________ as possible f
 > Because of the greenhouse effect the Earth is warmed by gases trapped in the atmosphere.   
 > 由于温室效应，储存在大气层中的气体使地球变暖。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***trap*** v
 ---
@@ -11417,16 +8176,6 @@ The state-run company is required to make its accounts as ________ as possible f
 2. *低义频：* **留存；储存 (气 / 水等)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***trash*** n
 ---
@@ -11440,16 +8189,6 @@ The state-run company is required to make its accounts as ________ as possible f
 ---
 1. *高义频：* **垃圾；废物 (BrE rubbish)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***travel*** vi
@@ -11478,16 +8217,6 @@ The state-run company is required to make its accounts as ________ as possible f
 
 > The good news traveled quickly.   
 > 喜讯不胫而走。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***travel*** n
@@ -11518,16 +8247,6 @@ journeys to places that are far away, usually for pleasure：
 > We met some very interesting people on our travels in Thailand.  
 > 我们在泰国旅游时碰到一些非常有趣的人。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***traveler*** n
 ---
@@ -11541,16 +8260,6 @@ journeys to places that are far away, usually for pleasure：
 ---
 1. *高义频：* **旅行者；旅客**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***traveling*** n
@@ -11568,16 +8277,6 @@ journeys to places that are far away, usually for pleasure：
 
 > go travelling   
 > 去旅行
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***traveling*** adj
@@ -11598,16 +8297,6 @@ journeys to places that are far away, usually for pleasure：
 > a travelling performer   
 > 巡回表演者
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***traveller*** n
 ---
@@ -11621,16 +8310,6 @@ journeys to places that are far away, usually for pleasure：
 ---
 1. *高义频：* **旅行者；旅客**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***travelling*** n
@@ -11648,16 +8327,6 @@ journeys to places that are far away, usually for pleasure：
 
 > go travelling  
 > 去旅行
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***travelling*** adj
@@ -11678,16 +8347,6 @@ journeys to places that are far away, usually for pleasure：
 > a travelling performer  
 > 巡回表演者
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tread*** v
 ---
@@ -11700,16 +8359,6 @@ journeys to places that are far away, usually for pleasure：
 ---
 1. **踩，踏**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***treasure*** vt
@@ -11729,16 +8378,6 @@ journeys to places that are far away, usually for pleasure：
 
 > She treasured those memories.   
 > 她珍藏着那些记忆。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***treasure*** n
@@ -11762,16 +8401,6 @@ journeys to places that are far away, usually for pleasure：
 > This photograph from our wedding is my greatest treasure.   
 > 我们婚礼上的这张照片是我最珍贵的物品。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***treat*** n
 ---
@@ -11788,16 +8417,6 @@ journeys to places that are far away, usually for pleasure：
 
 > He took his son to the cinema, as a birthday treat.  
 > 他带儿子去看了场电影，作为生日的款待。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***treat*** vt
@@ -11850,6 +8469,7 @@ journeys to places that are far away, usually for pleasure：
 > Don’t worry about the cost; I’ll treat you.   
 > 别担心费用，我请客。
 
+
 固定搭配
 ---
 - #### treat sb to 
@@ -11860,16 +8480,13 @@ journeys to places that are far away, usually for pleasure：
 > In a childlike act, she left the hospital and treated herself to a box of chocolates.  
 > 她孩子气地离开了医院，并给自己买了一盒巧克力糖吃。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Young people should always  ________ (对待) the elders with respect.  
 ##### 答案 treat  
   
-
 
 # ***treatment*** n
 ---
@@ -11895,16 +8512,6 @@ Young people should always  ________ (对待) the elders with respect.
 > First aid is a very important first step in the treatment of burns.    
 > 在治疗烧伤的过程中，急救处理是非常重要的第一步。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***treaty*** n
 ---
@@ -11917,16 +8524,6 @@ Young people should always  ________ (对待) the elders with respect.
 ---
 1. **（国家或政府间的）条约；公约**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tree*** n
@@ -11944,16 +8541,6 @@ Young people should always  ________ (对待) the elders with respect.
 
 > a family tree  
 > 家谱
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tremble*** vi
@@ -11979,16 +8566,6 @@ to shake especially because you are nervous, frightened, or excited：
 > The leaves trembled in the wind.  
 > 树叶在风中摇曳。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tremble*** n
 ---
@@ -12006,16 +8583,6 @@ to shake especially because you are nervous, frightened, or excited：
 > a tremble of excitement / fear   
 > 激动/恐惧得发抖
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tremendous*** adj
 ---
@@ -12029,16 +8596,6 @@ to shake especially because you are nervous, frightened, or excited：
 1. *高义频：* **巨大的；极快的；强有力的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***trench*** n
 ---
@@ -12051,16 +8608,6 @@ to shake especially because you are nervous, frightened, or excited：
 ---
 1. **沟，壕**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***trend*** n
@@ -12089,16 +8636,6 @@ to shake especially because you are nervous, frightened, or excited：
 > the trend towards long hair   
 > 流行长发
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***trial*** n
 ---
@@ -12126,6 +8663,7 @@ to shake especially because you are nervous, frightened, or excited：
 > In a trial, a judge must decide which eyewitnesses to believe and which not to believe.  
 > 在审判过程中，法官必须判断哪些证人可以相信，哪些证人不能相信。
 
+
 固定搭配
 ---
 - #### on trial 
@@ -12146,13 +8684,6 @@ to shake especially because you are nervous, frightened, or excited：
 > Children learn technical skills by trial and error.   
 > 孩子们通过不断摸索来掌握技能。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***triangle*** n
 ---
@@ -12167,16 +8698,6 @@ to shake especially because you are nervous, frightened, or excited：
 1. *高义频：* **三角；三角形**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***triathlon*** n
 ---
@@ -12189,16 +8710,6 @@ to shake especially because you are nervous, frightened, or excited：
 ---
 1. **铁人三项运动**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tribe*** n
@@ -12213,16 +8724,6 @@ to shake especially because you are nervous, frightened, or excited：
 ---
 1. *高义频：* **部落；部族**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***trick*** n
@@ -12260,12 +8761,7 @@ a way of doing sth that works well; a good method：
 > Patience is the trick of doing this job well.  
 > 耐心是做好这份工作的诀窍。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -12277,7 +8773,6 @@ C.cost
 D.trick  
 ##### 答案 trick  
   
-
 
 # ***trick*** vt
 ---
@@ -12298,16 +8793,6 @@ D.trick
 > An advertiser might be trying to trick customers into buying a product or a service.  
 > 广告商可能试图哄骗顾客购买产品或服务。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tricky*** adj
 ---
@@ -12324,16 +8809,6 @@ D.trick
 > a tricky question / task  
 > 棘手的问题/艰难的任务
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tricycle*** n
 ---
@@ -12348,16 +8823,6 @@ D.trick
 1. *高义频：* **三轮车**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***trilogy*** n
 ---
@@ -12371,16 +8836,6 @@ D.trick
 ---
 1. *高义频：* **三部曲**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***trip*** n
@@ -12407,16 +8862,6 @@ a short round journey instead of one-way, usually for a particular purpose:
 
 ### 辨析 voyage, journey, trip, tour
 四者都含“旅行”之意，但具体含义不同。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***troll*** n
 ---
@@ -12429,16 +8874,6 @@ a short round journey instead of one-way, usually for a particular purpose:
 ---
 1. **发挑衅帖子的人；恶意挑衅的帖子**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***trolleybus*** n
@@ -12453,16 +8888,6 @@ a short round journey instead of one-way, usually for a particular purpose:
 ---
 1. *高义频：* **无轨电车**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***troop*** n
@@ -12484,16 +8909,6 @@ a short round journey instead of one-way, usually for a particular purpose:
 > a troop of guests   
 > 一群客人
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tropical*** adj
 ---
@@ -12506,16 +8921,6 @@ a short round journey instead of one-way, usually for a particular purpose:
 ---
 1. *高义频：* **来自热带的；(天气) 湿热的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***trouble*** n  重难点词汇
@@ -12574,6 +8979,7 @@ extra effort or work：
 > I can call back later — it’s no trouble.  
 > 我可以过一会儿回电话，这不费事。
 
+
 固定搭配
 ---
 - #### get (sb) into trouble
@@ -12614,16 +9020,13 @@ extra effort or work：
 > The work is badly done; he didn’t take much trouble to do it.  
 > 这项工作做得很糟糕，他没有尽心尽力地去做。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 When Peter speaks in public, he always has trouble ________  (think) of the right things to say.   
 ##### 答案 thinking  
   
-
 
 # ***trouble*** vt  重难点词汇
 ---
@@ -12657,16 +9060,10 @@ When Peter speaks in public, he always has trouble ________  (think) of the righ
 > Sorry to trouble you, but could you tell me the time?  
 > 对不起打扰您一下，请问几点了？
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 troubled /'trʌbld/ adj 
-真题解析
----
-[null]
-
 
 # ***troublesome*** adj
 ---
@@ -12683,16 +9080,6 @@ causing problems, in an annoying way：
 
 > a troublesome boy / task  
 > 让人头疼的男孩/工作
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***trousers*** n
@@ -12712,16 +9099,6 @@ causing problems, in an annoying way：
 > a pair of trousers   
 > 一条裤子
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***truck*** n
 ---
@@ -12735,16 +9112,6 @@ causing problems, in an annoying way：
 ---
 1. *高义频：* **卡车；货运汽车**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***true*** adj
@@ -12794,6 +9161,7 @@ causing problems, in an annoying way：
 > It is true ( that ) you can’t judge a book by its cover.  
 > 确实不能以貌取人。
 
+
 固定搭配
 ---
 - #### come true
@@ -12802,13 +9170,6 @@ causing problems, in an annoying way：
 
 > These predictions will come true if technology continues to develop.  
 > 如果技术不断发展，这些预言将会成真。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***true-to-life*** adj
@@ -12822,16 +9183,6 @@ causing problems, in an annoying way：
 ---
 1. **逼真的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***truly*** adv
@@ -12858,18 +9209,12 @@ causing problems, in an annoying way：
 > In theatres and teahouses you can experience a truly Chinese way of life.  
 > 在剧院和茶馆，你可以感受到真正的中国生活方式。
 
+
 固定搭配
 ---
 - #### Yours truly
 1. **[用于书信结尾、签名之前] 你忠实的**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***trumpet*** n
@@ -12885,16 +9230,6 @@ causing problems, in an annoying way：
 1. *高义频：* **小号；喇叭**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***trunk*** n
 ---
@@ -12908,16 +9243,6 @@ causing problems, in an annoying way：
 ---
 1. *高义频：* **树干；躯干；皮箱；象鼻**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***trust*** n
@@ -12937,16 +9262,6 @@ causing problems, in an annoying way：
 > If you put your trust in me, I’ll not let you down.   
 > 如果你信赖我，我不会让你失望。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***trust*** vt
 ---
@@ -12963,6 +9278,7 @@ causing problems, in an annoying way：
 > According to Anne, a true friend is a person whom you can trust.   
 > 安妮认为，真正的朋友是一个你可以信任的人。
 
+
 固定搭配
 ---
 - #### I trust (that) 
@@ -12971,13 +9287,6 @@ causing problems, in an annoying way：
 
 > I trust that everything will go all right.   
 > 我相信一切都会很顺利。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***truth*** n
@@ -13014,6 +9323,7 @@ causing problems, in an annoying way：
 > Truth is the daughter of time.   
 > 真理经得起时间的检验。
 
+
 固定搭配
 ---
 - #### in truth 
@@ -13030,14 +9340,11 @@ causing problems, in an annoying way：
 > To tell you the truth, I’m very worried about the final examinations next month.   
 > 老实说，我很担心下个月的期末考试。
 
+
 派生词汇
 ---
 truthful /'truːθfl/ adj 
 truthfully /'truːθfəli/ adv 
-真题解析
----
-[null]
-
 
 # ***try*** v  重难点词汇
 ---
@@ -13094,6 +9401,7 @@ truthfully /'truːθfəli/ adv
 > try sb’s courage   
 > 考验某人的胆量
 
+
 固定搭配
 ---
 - #### try on 
@@ -13117,16 +9425,13 @@ truthfully /'truːθfəli/ adv
 > All the students in the class tried out for the basketball match.   
 > 班上的全体学生都参加了篮球选拔赛。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Susan wanted to be independent of her parents. She tried ________ (live) alone, but she didn’t like it and moved back home.   
 ##### 答案 living  
   
-
 
 # ***try*** n  重难点词汇
 ---
@@ -13144,16 +9449,6 @@ Susan wanted to be independent of her parents. She tried ________ (live) alone, 
 > With another try, they may gain what they dream of.  
 > 再试一次，他们也许能获得他们梦想的东西。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tsunami*** n
 ---
@@ -13167,16 +9462,6 @@ Susan wanted to be independent of her parents. She tried ________ (live) alone, 
 ---
 1. *高义频：* **海啸**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tube*** n
@@ -13201,16 +9486,6 @@ Susan wanted to be independent of her parents. She tried ________ (live) alone, 
 > go by tube   
 > 乘地铁
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tuna*** n
 ---
@@ -13223,16 +9498,6 @@ Susan wanted to be independent of her parents. She tried ________ (live) alone, 
 ---
 1. **金枪鱼**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tune*** n
@@ -13251,6 +9516,7 @@ Susan wanted to be independent of her parents. She tried ________ (live) alone, 
 > 我演奏哀伤的乐曲时，自己内心也在哭泣。
 
 2. *低义频：* **[U] 和谐**  
+
 
 
 固定搭配
@@ -13275,13 +9541,6 @@ Susan wanted to be independent of her parents. She tried ________ (live) alone, 
 > be out of tune with the times   
 > 与时代格格不入
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tune*** vi
 ---
@@ -13295,6 +9554,7 @@ Susan wanted to be independent of her parents. She tried ________ (live) alone, 
 1. *高义频：* **为 (音乐) 调音；调 (收音机，电视频道)**  
 
 
+
 固定搭配
 ---
 - #### tune in 
@@ -13303,13 +9563,6 @@ Susan wanted to be independent of her parents. She tried ________ (live) alone, 
 
 > tune in to a radio station   
 > 收听一个电台
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tunnel*** n
@@ -13331,16 +9584,6 @@ Susan wanted to be independent of her parents. She tried ________ (live) alone, 
 > the Channel Tunnel   
 > 英吉利海峡隧道
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***turkey*** n
 ---
@@ -13355,16 +9598,6 @@ Susan wanted to be independent of her parents. She tried ________ (live) alone, 
 1. *高义频：* **火鸡**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***turkey*** n
 ---
@@ -13377,16 +9610,6 @@ Susan wanted to be independent of her parents. She tried ________ (live) alone, 
 ---
 1. **(电影或戏剧的) 失败之作**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***turn*** v  重难点词汇
@@ -13476,6 +9699,7 @@ turn表示“(使) 变成、(使) 变为”，作不及物动词时，是连系�
 
 > It’s turned midnight.   
 > 已经过了午夜了。
+
 
 固定搭配
 ---
@@ -13653,9 +9877,7 @@ to arrive at a place：
 > Don’t worry about the letter — I’m sure it’ll turn up.  
 > 别为那封信担心，我相信会找到的。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -13679,7 +9901,6 @@ When the sports hero turned ________ at our party, he was welcomed with open arm
 She’s having a lot of trouble with the new computer, but she doesn’t know whom to turn ________.   
 ##### 答案 to  
   
-
 
 # ***turn*** n  重难点词汇
 ---
@@ -13730,6 +9951,7 @@ She’s having a lot of trouble with the new computer, but she doesn’t know wh
 > It’s finally our turn to do the wallboard in the school hall!  
 > 终于轮到我们负责学校礼堂的墙报了！
 
+
 固定搭配
 ---
 - #### by turns
@@ -13761,9 +9983,7 @@ She’s having a lot of trouble with the new computer, but she doesn’t know wh
 > We take turns to do the housework.   
 > 我们轮流做家务。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -13778,7 +9998,6 @@ D.lead
 People try to avoid public transportation delays by using their own cars, and ________ (反过来) this creates further problems.   
 ##### 答案 in turn  
   
-
 
 # ***turning*** n
 ---
@@ -13803,16 +10022,6 @@ People try to avoid public transportation delays by using their own cars, and __
 2. *低义频：* **旋转**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***turnover*** n
 ---
@@ -13825,16 +10034,6 @@ People try to avoid public transportation delays by using their own cars, and __
 ---
 1. **营业额；流动；成交量；翻覆；半圆卷饼**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***turnover*** adj
@@ -13849,16 +10048,6 @@ People try to avoid public transportation delays by using their own cars, and __
 1. **可翻转的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***turntable*** n
 ---
@@ -13871,16 +10060,6 @@ People try to avoid public transportation delays by using their own cars, and __
 ---
 1. **（唱机的）转盘，唱盘**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***turtle*** n
@@ -13896,16 +10075,6 @@ People try to avoid public transportation delays by using their own cars, and __
 1. *高义频：* **海龟；龟；甲鱼**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***tusk*** n
 ---
@@ -13918,16 +10087,6 @@ People try to avoid public transportation delays by using their own cars, and __
 ---
 1. **长牙**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tutor*** n
@@ -13942,16 +10101,6 @@ People try to avoid public transportation delays by using their own cars, and __
 ---
 1. *高义频：* **家庭教师； (大学中的) 导师； (辅导学生备考的) 辅导教师**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***twice*** adv
@@ -13972,16 +10121,6 @@ People try to avoid public transportation delays by using their own cars, and __
 > He is nearly twice as heavy as you.   
 > 他几乎是你的两倍重。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***twin*** n
 ---
@@ -13999,16 +10138,6 @@ People try to avoid public transportation delays by using their own cars, and __
 > Twins often look just alike.   
 > 双胞胎往往长得很像。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***twin*** adj
 ---
@@ -14024,16 +10153,6 @@ People try to avoid public transportation delays by using their own cars, and __
 
 > a twin sister   
 > 孪生姐姐/妹妹
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***twist*** v
@@ -14087,16 +10206,6 @@ People try to avoid public transportation delays by using their own cars, and __
 > The papers twisted everything I said.   
 > 报纸把我说的一切都歪曲了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***twist*** n
 ---
@@ -14117,16 +10226,10 @@ People try to avoid public transportation delays by using their own cars, and __
 > a twist of fate   
 > 命运的转变
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 twisted /'twɪstɪd/ adj 
-真题解析
----
-[null]
-
 
 # ***twisting*** adj
 ---
@@ -14140,16 +10243,6 @@ twisted /'twɪstɪd/ adj
 1. **扭曲的，弯曲的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***twitch*** v
 ---
@@ -14162,16 +10255,6 @@ twisted /'twɪstɪd/ adj
 ---
 1. **抽动,颤动**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***type*** n
@@ -14199,16 +10282,6 @@ twisted /'twɪstɪd/ adj
 > I don’t think she’s the sporty type.   
 > 我认为她不是那种喜欢运动的人。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***type*** vt
 ---
@@ -14225,16 +10298,6 @@ twisted /'twɪstɪd/ adj
 > She typed the letter carefully.   
 > 她认真地把信打了出来。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***typewriter*** n
 ---
@@ -14249,16 +10312,6 @@ twisted /'twɪstɪd/ adj
 1. *高义频：* **打字机**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***typhoon*** n
 ---
@@ -14272,16 +10325,6 @@ twisted /'twɪstɪd/ adj
 ---
 1. *高义频：* **台风**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***typical*** adj
@@ -14311,19 +10354,17 @@ twisted /'twɪstɪd/ adj
 > The painting, named Poppy, is a typical example of Chen’s style.   
 > 这幅名为“罂粟”的画是陈(逸飞)艺术风格的代表作。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 typically /'tɪpɪkli/ adv 
+
 真题解析
 ---
 ##### 题目  
 Jack is late again.  ________ (是他的特点) to keep others waiting.   
 ##### 答案 It is typical of him  
   
-
 
 # ***typically*** adv
 ---
@@ -14336,16 +10377,6 @@ Jack is late again.  ________ (是他的特点) to keep others waiting.
 ---
 1. **典型地；有代表性地；向来；一向**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***typist*** n
@@ -14360,16 +10391,6 @@ Jack is late again.  ________ (是他的特点) to keep others waiting.
 ---
 1. *高义频：* **打字员**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***tyre*** n
@@ -14389,13 +10410,4 @@ Jack is late again.  ________ (是他的特点) to keep others waiting.
 > a flat tyre  
 > 轮胎瘪了
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 

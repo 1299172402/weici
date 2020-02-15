@@ -1,166 +1,4 @@
-
-# ***VCD*** n
----
-英音 ˌviːsiː'diː     美音 ˌviːsiː'diː
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
-
-英文释义
----
-1. *高义频：* **影视光碟**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Vancouver*** n
----
-英音 væn'kuːvə(r)     美音 væn'kuːvər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **温哥华 (加拿大城市)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Venus*** n
----
-英音 'viːnəs     美音 'viːnəs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **金星**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Vietnam*** n
----
-英音 ˌvjet'næm     美音 ˌvjet'næm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **越南 (东南亚国家)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Vietnamese*** adj
----
-英音 ˌvjetnə'miːz     美音 ˌvjetnə'miːz
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **越南的；越南人(语)的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Vietnamese*** n
----
-英音 ˌvjetnə'miːz     美音 ˌvjetnə'miːz
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **越南人；越南语**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Viking*** n
----
-英音 'vaɪkɪŋ     美音 'vaɪkɪŋ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 1
-
-用法点拨  [C] 
-
-英文释义
----
-1. *高义频：* **北欧海盗；斯堪的纳维亚人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
+# Vv
 
 # ***vacant*** adj
 ---
@@ -180,16 +18,6 @@
 > The house had been vacant for a long time and so it was very dusty.   
 > 这所房子空置了很久，布满了灰尘。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***vacation*** n
 ---
@@ -208,6 +36,7 @@
 > the summer / Christmas vacation  
 > 暑假/圣诞假期
 
+
 固定搭配
 ---
 - #### have / take a vacation 
@@ -224,13 +53,6 @@
 > Some people write postcards while they are on vacation and send them to friends.   
 > 一些人在度假的时候写明信片并寄给朋友。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***vaccination*** n
 ---
@@ -245,16 +67,6 @@
 1. *高义频：* **接种疫苗**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***vacuum*** n
 ---
@@ -267,16 +79,6 @@
 ---
 1. **真空；空白**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***vague*** adj
@@ -299,16 +101,6 @@
 > I usually remember people’s faces but I am often vague about their names.   
 > 我通常能记住人们的面孔，但经常记不清他们的名字。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***vain*** adj
 ---
@@ -322,6 +114,7 @@
 1. *高义频：* **徒劳的；自负的：**  
 
 
+
 固定搭配
 ---
 - #### in vain 
@@ -331,16 +124,13 @@
 > I have tried very hard to find a solution to the problem, but in vain.   
 > 我曾苦苦地探求解决问题的办法，但都是徒劳。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 His efforts to raise money for his program were________vain because no one showed any intention to take a cent out of their pockets.  
 ##### 答案 in  
   
-
 
 # ***valid*** adj
 ---
@@ -360,16 +150,6 @@ His efforts to raise money for his program were________vain because no one showe
 > Oversleeping is not a valid excuse for being late for school.   
 > 睡过头并不是上学迟到的正当理由。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***valley*** n
 ---
@@ -383,16 +163,6 @@ His efforts to raise money for his program were________vain because no one showe
 ---
 1. *高义频：* **山谷；溪谷；流域**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***valuable*** adj
@@ -421,16 +191,10 @@ very useful or important：
 > This gave him a valuable clue about the cause of the disease.   
 > 这为他查明病因提供了一条很有价值的线索。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 invaluable /ɪn'væljuəbl/ adj 
-真题解析
----
-[null]
-
 
 # ***value*** n
 ---
@@ -480,6 +244,7 @@ mor a l or professional standards of behaviour; principles：
 > During the Renaissance, new ideas and values gradually replaced those held in the Middle Ages.  
 > 文艺复兴时期，新思想和新观念逐渐取代了中世纪的思想和观念。
 
+
 固定搭配
 ---
 - #### of value 
@@ -489,13 +254,6 @@ mor a l or professional standards of behaviour; principles：
 > **of great value**  
 > Sports can be of great value, especially to people who work with their brains most of the day.   
 > 体育运动很有益处，对那些每天大部分时间都在从事脑力劳动的人来说更是如此。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***value*** vt
@@ -525,16 +283,6 @@ mor a l or professional standards of behaviour; principles：
 > We should value what we have and try our best to overcome any difficulty in life.  
 > 我们应该珍惜我们所拥有的，并尽最大努力克服生活中的困难。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***valued*** adj
 ---
@@ -548,16 +296,6 @@ mor a l or professional standards of behaviour; principles：
 1. **有价值的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***vanguard*** n
 ---
@@ -570,16 +308,6 @@ mor a l or professional standards of behaviour; principles：
 ---
 1. **先头部队**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***vanish*** vi
@@ -601,16 +329,6 @@ mor a l or professional standards of behaviour; principles：
 > Many kinds of animals have vanished from the earth.   
 > 许多种动物已在地球上绝迹。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***vapour*** n
 ---
@@ -624,16 +342,6 @@ mor a l or professional standards of behaviour; principles：
 ---
 1. *高义频：* **(=vapor) 蒸气；水蒸气**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***variation*** n
@@ -656,16 +364,6 @@ mor a l or professional standards of behaviour; principles：
 > After all, there is probably as much variation of pronunciation within the two countries as between them.   
 > 毕竟，两个国家各自内部的口音差别可能跟两国之间的口音差别一样大。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***varied*** adj
 ---
@@ -678,16 +376,6 @@ mor a l or professional standards of behaviour; principles：
 ---
 1. **多变化的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***variety*** n
@@ -715,6 +403,7 @@ mor a l or professional standards of behaviour; principles：
 > a new variety of rose  
 > 玫瑰的新品种
 
+
 固定搭配
 ---
 - #### a variety of
@@ -725,16 +414,13 @@ mor a l or professional standards of behaviour; principles：
 > The club offers a wide variety of games to the local teenagers.  
 > 俱乐部给当地的青少年提供丰富多样的游戏。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 More and more people choose to shop in a supermarket as it offers ________ (丰富多样的)goods.  
 ##### 答案 a great / wide variety of  
   
-
 
 # ***various*** adj
 ---
@@ -757,16 +443,10 @@ More and more people choose to shop in a supermarket as it offers ________ (丰�
 > We may have various ways to deal with such a situation.  
 > 也许我们有各种各样的方法来应对这一情况。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 variously /'veəriəsli/ adv 
-真题解析
----
-[null]
-
 
 # ***vary*** v
 ---
@@ -798,16 +478,10 @@ variously /'veəriəsli/ adv
 > My doctor said I should vary my diet more.  
 > 医生说我的日常饮食应该更多样化。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 varied /'veərid/ adj 
-真题解析
----
-[null]
-
 
 # ***vase*** n
 ---
@@ -821,16 +495,6 @@ varied /'veərid/ adj
 ---
 1. *高义频：* **花瓶；(装饰用的) 瓶**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***vast*** adj
@@ -851,16 +515,6 @@ varied /'veərid/ adj
 > a vast sum of funds  
 > 一大笔资金
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***vault*** n
 ---
@@ -873,16 +527,6 @@ varied /'veərid/ adj
 ---
 1. **跳马（体操项目）；腾跳**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***vegetable*** n
@@ -898,19 +542,13 @@ varied /'veərid/ adj
 1. *高义频：* **蔬菜；植物**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Cabbage, carrots, and tomatoes are my favorite v________ .  
 ##### 答案 vegetables  
   
-
 
 # ***vegetarian*** adj
 ---
@@ -923,16 +561,6 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 ---
 1. **(全是) 蔬菜的没有肉类的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***vehicle*** n
@@ -951,16 +579,6 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 > Cars and trucks are vehicles.  
 > 小汽车和大卡车都是运载工具。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***vein*** n
 ---
@@ -975,16 +593,6 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 1. *高义频：* **静脉**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***vengeful*** adj
 ---
@@ -997,16 +605,6 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 ---
 1. **复仇的，报复心切的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***venture*** vt
@@ -1024,16 +622,6 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 > **Nothing ventured,nothing gained**  
 > Nothing ventured, nothing gained.  
 > 不入虎穴，焉得虎子。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***venture*** n
@@ -1056,16 +644,6 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 > a joint - venture  
 > 合资企业
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***venue*** n
 ---
@@ -1079,16 +657,6 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 1. **会场，举办地点**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***verbal*** adj
 ---
@@ -1101,16 +669,6 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 ---
 1. *高义频：* **口头的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***version*** n
@@ -1138,16 +696,6 @@ sb’s description of sth that has happened：
 > The two newspapers gave different versions of what happened.  
 > 对所发生的事，两家报纸说法不一。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***vertical*** adj
 ---
@@ -1167,16 +715,6 @@ sb’s description of sth that has happened：
 > **vertical line**  
 > a vertical line  
 > 垂直线
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***very*** adj
@@ -1206,16 +744,6 @@ sb’s description of sth that has happened：
 > The very thought of speaking before many people frightens me.  
 > 一想到要在许多人面前讲话，我就发怵。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***very*** adv
 ---
@@ -1241,6 +769,7 @@ sb’s description of sth that has happened：
 > the very best quality  
 > 近乎完美的品质
 
+
 固定搭配
 ---
 - #### not very
@@ -1254,13 +783,6 @@ sb’s description of sth that has happened：
 > **not very**  
 > I am not very keen on going there.  
 > 我根本不想去那里。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***vest*** n
@@ -1276,16 +798,6 @@ sb’s description of sth that has happened：
 1. *高义频：* **汗衫；马甲**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***vet*** n
 ---
@@ -1299,16 +811,6 @@ sb’s description of sth that has happened：
 ---
 1. *高义频：* **兽医**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***via*** prep
@@ -1329,16 +831,6 @@ sb’s description of sth that has happened：
 > send the letter via airmail  
 > 通过空邮寄信
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***vibration*** n
 ---
@@ -1351,16 +843,6 @@ sb’s description of sth that has happened：
 ---
 1. **震颤，震动**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***vice*** n
@@ -1381,16 +863,6 @@ sb’s description of sth that has happened：
 > a vice-president (VP)   
 > 副总统/副总裁
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***victim*** n
 ---
@@ -1409,18 +881,12 @@ sb’s description of sth that has happened：
 > She was the victim of a road accident.  
 > 她是一场交通事故的受害者。
 
+
 固定搭配
 ---
 - #### fall victim to / become a victim to
 1. **成为…的牺牲品**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***victory*** n
@@ -1440,16 +906,6 @@ sb’s description of sth that has happened：
 > achieve / gain / win a victory over the enemy  
 > 战胜敌人
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***video*** n
 ---
@@ -1463,16 +919,6 @@ sb’s description of sth that has happened：
 ---
 1. *高义频：* **录像 (带)；视频**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***video*** adj
@@ -1491,16 +937,6 @@ sb’s description of sth that has happened：
 > a video camera / game  
 > 摄像机/电子游戏
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***video*** vt
 ---
@@ -1517,16 +953,6 @@ sb’s description of sth that has happened：
 > A friend videoed the wedding.   
 > 一位朋友把婚礼录了下来。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***videophone*** n
 ---
@@ -1540,16 +966,6 @@ sb’s description of sth that has happened：
 ---
 1. *高义频：* **电视电话；可视电话**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***view*** vt  重难点词汇
@@ -1575,16 +991,10 @@ sb’s description of sth that has happened：
 > We view film as a type of contemporary art.  
 > 我们把电影视作一种当代艺术。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 viewer /'vjuːə(r)/ n [C]
-真题解析
----
-[null]
-
 
 # ***view*** n  重难点词汇
 ---
@@ -1653,6 +1063,7 @@ a personal opinion about sth; an attitude towards sth (opinion)：
 > Your view of life is different from mine.  
 > 你的人生观跟我的不同。
 
+
 固定搭配
 ---
 - #### in view of
@@ -1669,13 +1080,6 @@ a personal opinion about sth; an attitude towards sth (opinion)：
 > The painting is currently on view at the gallery.  
 > 那幅画目前在美术馆展出。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***viewer*** n
 ---
@@ -1688,16 +1092,6 @@ a personal opinion about sth; an attitude towards sth (opinion)：
 ---
 1. **电视观众；观看者**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***village*** n
@@ -1713,16 +1107,6 @@ a personal opinion about sth; an attitude towards sth (opinion)：
 1. *高义频：* **村庄；[常与the连用] 村民**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***villager*** n
 ---
@@ -1737,16 +1121,6 @@ a personal opinion about sth; an attitude towards sth (opinion)：
 1. *高义频：* **村民；乡下人**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***vinegar*** n
 ---
@@ -1760,16 +1134,6 @@ a personal opinion about sth; an attitude towards sth (opinion)：
 ---
 1. *高义频：* **醋**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***violate*** vt
@@ -1790,16 +1154,6 @@ a personal opinion about sth; an attitude towards sth (opinion)：
 > The sound of guns violated the usual calm of Sunday morning.  
 > 枪炮声打破了星期日早晨一贯的宁静。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***violence*** n
 ---
@@ -1817,16 +1171,6 @@ a personal opinion about sth; an attitude towards sth (opinion)：
 > **domestic violence**  
 > domestic violence  
 > 家庭暴力
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***violent*** adj
@@ -1850,16 +1194,10 @@ a personal opinion about sth; an attitude towards sth (opinion)：
 > violent winds  
 > 猛烈的大风
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 violently /'vaɪələntli/ adv 
-真题解析
----
-[null]
-
 
 # ***violet*** n
 ---
@@ -1872,16 +1210,6 @@ violently /'vaɪələntli/ adv
 ---
 1. **紫罗兰**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***violin*** n
@@ -1900,16 +1228,6 @@ violently /'vaɪələntli/ adv
 > play the violin  
 > 拉小提琴
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***violinist*** n
 ---
@@ -1923,16 +1241,6 @@ violently /'vaɪələntli/ adv
 ---
 1. *高义频：* **小提琴手**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***virtual*** adj
@@ -1956,16 +1264,10 @@ violently /'vaɪələntli/ adv
 > the virtual worlds  
 > 虚拟世界
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 virtually /'vɜːtʃuəli/ adv 
-真题解析
----
-[null]
-
 
 # ***virtue*** n
 ---
@@ -1989,16 +1291,6 @@ virtually /'vɜːtʃuəli/ adv
 > One of his virtues is that he never gets angry.  
 > 他的一个优点是从不生气。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***virus*** n
 ---
@@ -2019,16 +1311,6 @@ virtually /'vɜːtʃuəli/ adv
 > An unknown virus has just attacked my computer.  
 > 一种未知的病毒刚刚攻击了我的电脑。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***visa*** n
 ---
@@ -2042,16 +1324,6 @@ virtually /'vɜːtʃuəli/ adv
 ---
 1. *高义频：* **(护照等的) 签证**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***visible*** adj
@@ -2072,16 +1344,6 @@ virtually /'vɜːtʃuəli/ adv
 > **highly visible**  
 > For several hours I made myself highly visible, making sure everyone could see me.  
 > 我在非常显眼的地方站了几个小时，确保每个人都能看见我。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***vision*** n
@@ -2114,16 +1376,6 @@ a picture in your imagination：
 > a man of great vision  
 > 具有远见卓识的人
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***visit*** n
 ---
@@ -2141,6 +1393,7 @@ a picture in your imagination：
 > a short-term visit to the UK  
 > 到英国的短期旅行
 
+
 固定搭配
 ---
 - #### pay a visit to
@@ -2149,13 +1402,6 @@ a picture in your imagination：
 
 > If you have time, pay a visit to the local museum.  
 > 你若有空，参观一下当地的这家博物馆。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***visit*** vt
@@ -2188,16 +1434,6 @@ a picture in your imagination：
 > To find out more information, visit this website.  
 > 预知详情，请访问这个网站。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***visitor*** n
 ---
@@ -2211,16 +1447,6 @@ a picture in your imagination：
 ---
 1. *高义频：* **访问者；参观者；游客**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***visual*** adj
@@ -2241,16 +1467,6 @@ a picture in your imagination：
 > the visual field (the field of vision / view)  
 > 视野
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***visually*** adv
 ---
@@ -2263,16 +1479,6 @@ a picture in your imagination：
 ---
 1. **外表上；视觉地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***vital*** adj
@@ -2303,19 +1509,13 @@ very important or necessary (essential)：
 > If the injuries are second or third degree burns, it is vital to get the victim to the doctor or hospital at once.  
 > 如果是二级或三级烧伤，那么立刻带伤者去看医生或者去医院是性命攸关的事。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Interest is as vital to________ (learn) as the ability to understand, even more so.  
 ##### 答案 learning  
   
-
 
 # ***vitamin*** n
 ---
@@ -2329,16 +1529,6 @@ Interest is as vital to________ (learn) as the ability to understand, even more 
 ---
 1. *高义频：* **维生素**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***vivid*** adj
@@ -2365,12 +1555,7 @@ Interest is as vital to________ (learn) as the ability to understand, even more 
 > I’ve got vivid memories of my happy childhood.  
 > 我对自己快乐的童年记忆犹新。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2381,7 +1566,6 @@ C.funny
 D.vivid  
 ##### 答案 vivid  
   
-
 
 # ***vividly*** adv
 ---
@@ -2394,16 +1578,6 @@ D.vivid
 ---
 1. **生动地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***vocabulary*** n
@@ -2428,16 +1602,6 @@ D.vivid
 2. *高义频：* **词汇表**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***vocal*** adj
 ---
@@ -2450,16 +1614,6 @@ D.vivid
 ---
 1. **嗓音的，与嗓音有关的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***voice*** vt
@@ -2476,16 +1630,6 @@ D.vivid
 
 > I am writing to you to voice my opinions.  
 > 此刻我正给你写信来表达我的看法。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***voice*** n
@@ -2532,12 +1676,7 @@ a particular feeling, attitude or opinion that you have or express：
 > the active / passive voice  
 > 主动/被动语态
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2548,7 +1687,6 @@ C.Arts
 D.Voices  
 ##### 答案 D  
   
-
 
 # ***volcanic*** adj
 ---
@@ -2561,16 +1699,6 @@ D.Voices
 ---
 1. *高义频：* **火山的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***volcano*** n
@@ -2586,16 +1714,10 @@ D.Voices
 1. *高义频：* **火山**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 volcanic /vɒl'kænɪk/ adj 
-真题解析
----
-[null]
-
 
 # ***volcanologist*** n
 ---
@@ -2610,16 +1732,6 @@ volcanic /vɒl'kænɪk/ adj
 1. *高义频：* **火山学家**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***volcanology*** n
 ---
@@ -2632,16 +1744,6 @@ volcanic /vɒl'kænɪk/ adj
 ---
 1. *高义频：* **火山学**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***volleyball*** n
@@ -2659,16 +1761,6 @@ volcanic /vɒl'kænɪk/ adj
 
 > play volleyball  
 > 打排球
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***volume*** n
@@ -2707,16 +1799,6 @@ volcanic /vɒl'kænɪk/ adj
 > The television is too loud; turn the volume down.  
 > 电视声音太大了,把音量调低点。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***voluntary*** adj
 ---
@@ -2735,16 +1817,6 @@ volcanic /vɒl'kænɪk/ adj
 
 > She is a voluntary worker at the hospital.  
 > 她是这家医院的志愿者。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***volunteer*** v
@@ -2770,16 +1842,6 @@ volcanic /vɒl'kænɪk/ adj
 > Volunteering gives you a chance to change lives, including your own.  
 > 当志愿者为你提供了改变生活的机会，包括你自己的生活。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***volunteer*** n
 ---
@@ -2797,16 +1859,6 @@ volcanic /vɒl'kænɪk/ adj
 > Volunteers don’t expect any kind of pay.  
 > 志愿者不期待任何报酬。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***volunteer*** adj
 ---
@@ -2819,16 +1871,6 @@ volcanic /vɒl'kænɪk/ adj
 ---
 1. **志愿的；义务的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***vote*** v
@@ -2857,16 +1899,10 @@ to choose sb for a particular position or prize：
 > Six of Zindel’s books have been voted the Best Books for Young Adults.  
 > 金代尔有6本书已被选为“最佳青少年读物”。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 voter /'vəʊtə(r)/ n [C]
-真题解析
----
-[null]
-
 
 # ***vote*** n
 ---
@@ -2890,16 +1926,6 @@ voter /'vəʊtə(r)/ n [C]
 > New Zealand was the first country in the world to give the vote to women in 1893.  
 > 1893年新西兰成为世界上第一个赋予妇女选举权的国家。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***vowel*** n
 ---
@@ -2913,16 +1939,6 @@ voter /'vəʊtə(r)/ n [C]
 ---
 1. *高义频：* **元音；元音字母**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***voyage*** n
@@ -2953,16 +1969,6 @@ voter /'vəʊtə(r)/ n [C]
 
 ### 辨析 voyage, journey, trip, tour
 四者都含“旅行”之意，但具体含义不同。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***vulnerable*** adj
 ---
@@ -2976,13 +1982,4 @@ voter /'vəʊtə(r)/ n [C]
 1. *高义频：* **易受伤的；脆弱的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 

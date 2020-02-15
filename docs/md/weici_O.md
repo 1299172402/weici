@@ -1,289 +1,4 @@
-
-# ***OK*** adj
----
-英音 əʊ'keɪ     美音 oʊ'keɪ
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **可以；可行；不错 (all right)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***OK*** adv
----
-英音 əʊ'keɪ     美音 oʊ'keɪ
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **令人满意地**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***OK*** int
----
-英音 əʊ'keɪ     美音 oʊ'keɪ
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **行；好：**  
-
-
-> OK, you can go.  
-> 好，你去吧。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Obon*** n
----
-英音 ə'bɔn     美音 ə'bɔn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **(日本) 盂兰盆节**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Oceania*** n
----
-英音 ˌəʊsi'ɑːniə, ˌəʊʃi'ɑːniə     美音 ˌoʊʃi'ɑːniə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **大洋洲**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***October*** n
----
-英音 ɒk'təʊbə(r)     美音 ɑːk'toʊbər
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **十月（Oct.）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Oliver*** n
----
-英音 ˈɔlivə     美音 ˈɑləvə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **奥利弗 (男名)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Olympia*** n
----
-英音 əˈlimpiə     美音 əˈlimpiə
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **奥林匹亚（希腊古城）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Olympic*** adj
----
-英音 ə'lɪmpɪk     美音 ə'lɪmpɪk
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **奥林匹克运动会的：**  
-
-
-> the Olympic flame  
-> 奥林匹克圣火
-
-> **the Olympic Games**  
-> the Olympic Games  
-> 奥林匹克运动会
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Olympic*** n
----
-英音 ə'lɪmpɪk     美音 ə'lɪmpɪk
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **[the Olympics]奥林匹克运动会**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Oscar*** n
----
-英音 'ɒskə(r)     美音 'ɑːskər
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **奥斯卡**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Ottawa*** n
----
-英音 'ɒtəwə     美音 'ɑːtəwə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **渥太华 (加拿大首都)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
+# Oo
 
 # ***o'clock*** adv
 ---
@@ -296,16 +11,6 @@
 ---
 1. *高义频：* **[of the clock的缩写，只用于正点] …点钟**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***o'clock*** adv
@@ -321,16 +26,6 @@
 1. *高义频：* **... 点钟**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***oar*** n
 ---
@@ -345,16 +40,6 @@
 1. *高义频：* **桨；橹**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***obesity*** n
 ---
@@ -368,16 +53,6 @@
 ---
 1. *高义频：* **过度肥胖**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***obey*** v
@@ -398,16 +73,6 @@
 
 > He refused to obey (her).  
 > 他拒绝服从 (她)。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***object*** n
@@ -443,16 +108,6 @@
 4. *低义频：* **[语法] 宾语**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***object*** v
 ---
@@ -486,16 +141,6 @@
 > They objected that the schedule was too tight.  
 > 他们表示反对，说日程安排得太紧。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***objection*** n
 ---
@@ -513,16 +158,6 @@
 > **made,objections to**  
 > Grey decided to move to the countryside and his wife made no objections to it.  
 > 格雷决定搬到乡下，他的妻子没有反对。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***objective*** n
@@ -545,16 +180,6 @@
 > Another way of setting realistic goals is to analyze your short and long term objectives.  
 > 另一种设定实际目标的方法是分析你的短期和长期目标。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***objective*** adj
 ---
@@ -572,16 +197,6 @@
 > an objective assessment / analysis  
 > 客观的评价/分析
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***obligation*** n
 ---
@@ -596,16 +211,6 @@
 1. *高义频：* **义务；职责**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***obscure*** adj
 ---
@@ -618,16 +223,6 @@
 ---
 1. **难理解的；晦涩的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***observation*** n
@@ -642,16 +237,6 @@
 1. *高义频：* **观察；观测**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***observatory*** n
 ---
@@ -665,16 +250,6 @@
 ---
 1. *高义频：* **观象台；天文台；气象台**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***observe*** v  重难点词汇
@@ -743,21 +318,19 @@ to say or white what you have noticed about a situation
 > Do you observe Christmas in your country?  
 > 你们国家庆祝圣诞节吗？
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 observation /ˌɒbzə'veɪʃn/ n [U] & [C] 
 observatory /əb'zɜːvətri/ n [C]
 observer /əb'zɜːvə(r)/ n [C] 
+
 真题解析
 ---
 ##### 题目  
 Though having lived abroad for years, many Chinese still ________ (奉行) the traditional customs.  
 ##### 答案 observe  
   
-
 
 # ***obsess*** v
 ---
@@ -771,16 +344,6 @@ Though having lived abroad for years, many Chinese still ________ (奉行) the t
 1. **使着迷**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***obsess*** vt
 ---
@@ -793,16 +356,6 @@ Though having lived abroad for years, many Chinese still ________ (奉行) the t
 ---
 1. **使着迷**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***obtain*** vt
@@ -826,16 +379,6 @@ to get sth, especially by making an effort (get)：
 > These national parks obtained financial support from tourist companies.  
 > 这些国家公园得到了旅游公司的财力支持。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***obvious*** adj
 ---
@@ -856,16 +399,6 @@ to get sth, especially by making an effort (get)：
 > It is obvious to the students that they should get well prepared for their future.  
 > 学生们很清楚他们应该为将来做好充分的准备。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***obviously*** adv
 ---
@@ -882,19 +415,13 @@ to get sth, especially by making an effort (get)：
 > Obviously, the ability to talk is something that marks humans off from animals.  
 > 显然，说话的能力把人类和动物区分开来。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Most people on this island are recreational fishers, and ________ (obvious), fishing forms an actual part of their leisure time.  
 ##### 答案 obviously  
   
-
 
 # ***occasion*** n
 ---
@@ -942,6 +469,7 @@ a special event, ceremony, celebration, etc：
 > The Mid-Autumn Festival is significant because it is a special occasion for family reunion.  
 > 中秋节之所以重要是因为这是阖家团聚的特殊日子。
 
+
 固定搭配
 ---
 - #### on occasion(s)
@@ -959,16 +487,13 @@ a special event, ceremony, celebration, etc：
 > I traveled back to my hometown on the sad occasion of Dad’s death.  
 > 在父亲去世的悲痛时刻我回到了家乡。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I saw Bob play the piano at John’s party and ________ that occasion he was simply brilliant.  
 ##### 答案 on  
   
-
 
 # ***occasional*** adj
 ---
@@ -984,16 +509,6 @@ I saw Bob play the piano at John’s party and ________ that occasion he was sim
 
 > He is only an occasional workman.  
 > 他只是个临时工。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***occasionally*** adv
@@ -1011,19 +526,13 @@ I saw Bob play the piano at John’s party and ________ that occasion he was sim
 > Occasionally, I would read a novel that was assigned, but I didn't enjoy this type of reading.  
 > 偶尔我会读（老师）布置的小说，但我不喜欢这种类型的读物。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I’ve been writing this report ________ (occasional) for the last two weeks, but it has to be handed in tomorrow.  
 ##### 答案 occasionally  
   
-
 
 # ***occupation*** n
 ---
@@ -1049,16 +558,6 @@ I’ve been writing this report ________ (occasional) for the last two weeks, bu
 
 > What do you imagine will be your future occupation?  
 > 你认为自己将来会从事什么职业呢？
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***occupied*** adj
@@ -1094,16 +593,6 @@ I’ve been writing this report ________ (occasional) for the last two weeks, bu
 > You can imagine how fully occupied I became, raising four boys under the age of 8!  
 > 你能想象我抚养四个不到八岁的小男孩会有多忙了吧！
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***occupy*** vt
 ---
@@ -1135,16 +624,6 @@ I’ve been writing this report ________ (occasional) for the last two weeks, bu
 > His work occupies him for the whole day.  
 > 工作使他忙了一整天。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***occur*** vi  重难点词汇
 ---
@@ -1173,6 +652,7 @@ to exist or be found somewhere：
 > Cultural differences occur wherever you go.  
 > 无论你到哪儿都存在着文化差异。
 
+
 固定搭配
 ---
 - #### occur to sb 
@@ -1192,6 +672,7 @@ to exist or be found somewhere：
 > Not once did it occur to Michael that he could one day become a top student in his class.  
 > 迈克尔从未想到过有一天他能成为班上的优等生。
 
+
 派生词汇
 ---
 occurrence /ə'kʌrəns/ n 
@@ -1204,13 +685,13 @@ occurrence /ə'kʌrəns/ n
 2. *低义频：* **发生；出现**  
 
 
+
 真题解析
 ---
 ##### 题目  
 It suddenly occurred to him ________ he had left his keys in the office.  
 ##### 答案 that  
   
-
 
 # ***ocean*** n
 ---
@@ -1224,16 +705,6 @@ It suddenly occurred to him ________ he had left his keys in the office.
 ---
 1. *高义频：* **海洋**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***odd*** adj
@@ -1263,16 +734,6 @@ It suddenly occurred to him ________ he had left his keys in the office.
 > **odd socks / gloves / shoes**  
 > odd socks / gloves / shoes  
 > 不配对的短袜 / 手套 / 鞋
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***of*** prep
@@ -1353,12 +814,7 @@ It suddenly occurred to him ________ he had left his keys in the office.
 > news of importance  
 > 重大消息
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -1369,7 +825,6 @@ A common memory they all have ________ their school days is the school uniform.
 ________ all the animals I’ve ever had, these two dogs are the most sensitive to the spoken word.  
 ##### 答案 Of  
   
-
 
 # ***off*** adv
 ---
@@ -1422,19 +877,13 @@ ________ all the animals I’ve ever had, these two dogs are the most sensitive 
 > Don’t put off your work.  
 > 不要拖延工作。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 She drove so fast at the turn that the car almost went _________ the road.  
 ##### 答案 off  
   
-
 
 # ***off*** prep
 ---
@@ -1472,19 +921,13 @@ She drove so fast at the turn that the car almost went _________ the road.
 > 50 percent off the price  
 > 5折的价格
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The Well Hotel stands in a quiet place ________ the main road at the far end of the lake.  
 ##### 答案 off  
   
-
 
 # ***offence*** n
 ---
@@ -1509,16 +952,6 @@ The Well Hotel stands in a quiet place ________ the main road at the far end of 
 > Don’t be upset by what he said; he meant no offense.  
 > 不要为他的话感到不快，他没有冒犯你的意思。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***offend*** v
 ---
@@ -1535,12 +968,7 @@ The Well Hotel stands in a quiet place ________ the main road at the far end of 
 > Please follow your project supervisor’s instructions, or you’ll offend him.  
 > 要听从你项目主管的指示，否则你会使他生气。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -1551,7 +979,6 @@ C.disturb
 D.bother  
 ##### 答案 B  
   
-
 
 # ***offense*** n
 ---
@@ -1576,16 +1003,6 @@ D.bother
 > Don’t be upset by what he said; he meant no offense.  
 > 不要为他的话感到不快，他没有冒犯你的意思。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***offensive*** adj
 ---
@@ -1601,16 +1018,6 @@ D.bother
 
 > offensive words  
 > 无礼的话
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***offer*** vt  重难点词汇
@@ -1667,19 +1074,13 @@ to make sth available or to provide the opportunity for sth：
 > They offered (him) 8,000 dollars for the house.  
 > 他们(向他) 出价8 000美元买这栋房子。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 A good listener takes part in the conversation, ________ (offer) ideas and raising questions to keep the talk flowing.  
 ##### 答案 offering  
   
-
 
 # ***offer*** n  重难点词汇
 ---
@@ -1719,6 +1120,7 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 > free offers / a special offer   
 > 免费赠品/特价优惠
 
+
 固定搭配
 ---
 - #### on offer
@@ -1731,9 +1133,7 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 > Come down to our restaurant to enjoy the special dishes on offer.  
 > 来我们餐馆享受提供的特价菜吧。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -1741,7 +1141,6 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 — I appreciate your ________ (好意), but I can manage it myself.  
 ##### 答案 offer  
   
-
 
 # ***offer*** vi  重难点词汇
 ---
@@ -1755,16 +1154,6 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 1. **(主动) 提出 (愿意做某事)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***offering*** n
 ---
@@ -1777,16 +1166,6 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 ---
 1. **供品, 祭品**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***office*** n
@@ -1818,18 +1197,12 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 > leave / take office  
 > 辞职/就职；上任
 
+
 固定搭配
 ---
 - #### office hours 
 1. **办公时间；营业时间**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***officer*** n
@@ -1848,16 +1221,6 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 > **police officer**  
 > a customs / police officer  
 > 海关官员/警官
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***official*** adj
@@ -1888,16 +1251,6 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 > English is one of the official languages used in India.  
 > 英语是印度使用的官方语言之一。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***official*** n
 ---
@@ -1918,16 +1271,6 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 > bank officials   
 > 银行高级职员
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***official-looking*** adj
 ---
@@ -1940,16 +1283,6 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 ---
 1. **貌似官方的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***officially*** adv
@@ -1967,19 +1300,13 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 > Shooting became an Olympic event officially in 1896.  
 > 射击于1896年正式成为奥运会比赛项目。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The title will be ________ (official) given to me at a ceremony in London.  
 ##### 答案 officially  
   
-
 
 # ***offshore*** adj
 ---
@@ -1996,16 +1323,6 @@ The title will be ________ (official) given to me at a ceremony in London.
 > an offshore island   
 > 近海岛屿
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***offshore*** adv
 ---
@@ -2021,16 +1338,6 @@ The title will be ________ (official) given to me at a ceremony in London.
 
 > The storm moved offshore.   
 > 风暴向近海移动。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***often*** adv
@@ -2053,15 +1360,14 @@ The title will be ________ (official) given to me at a ceremony in London.
 > Do you fly quite / very often for your job?  
 > 你的工作需要经常坐飞机吗？
 
+
 固定搭配
 ---
 - #### more often than not / as often as not 
 1. **通常；往往**  
 
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2069,7 +1375,6 @@ The title will be ________ (official) given to me at a ceremony in London.
 — Every other day.  
 ##### 答案 often  
   
-
 
 # ***oh*** int
 ---
@@ -2082,16 +1387,6 @@ The title will be ________ (official) given to me at a ceremony in London.
 ---
 1. *高义频：* **[表示惊讶、快乐、悲哀、痛苦、责难、招呼等] 哦；噢；啊；呀；哎**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***oil*** n
@@ -2107,16 +1402,6 @@ The title will be ________ (official) given to me at a ceremony in London.
 1. *高义频：* **油；石油**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***oilfield*** n
 ---
@@ -2131,16 +1416,6 @@ The title will be ________ (official) given to me at a ceremony in London.
 1. *高义频：* **油田**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ointment*** n
 ---
@@ -2154,16 +1429,6 @@ The title will be ________ (official) given to me at a ceremony in London.
 ---
 1. *高义频：* **药膏；油膏**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***old*** adj
@@ -2206,16 +1471,6 @@ The title will be ________ (official) given to me at a ceremony in London.
 > the good old days  
 > 往昔的美好时光
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***old-fashioned*** adj
 ---
@@ -2228,16 +1483,6 @@ The title will be ________ (official) given to me at a ceremony in London.
 ---
 1. *高义频：* **老式的；过时的；(人) 守旧的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***olive*** n
@@ -2253,16 +1498,6 @@ The title will be ________ (official) given to me at a ceremony in London.
 1. *高义频：* **橄榄树；橄榄叶；橄榄枝；橄榄色**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***omit*** vt
 ---
@@ -2276,16 +1511,6 @@ The title will be ________ (official) given to me at a ceremony in London.
 ---
 1. *高义频：* **删除；忽略：**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***on*** prep
@@ -2377,12 +1602,7 @@ The title will be ________ (official) given to me at a ceremony in London.
 > on business / holiday  
 > 在工作/度假
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2393,7 +1613,6 @@ Nick, it’s good for you to read some books ________ China before you start you
 He invited me to a dance after the show ________ Christmas Eve.  
 ##### 答案 on  
   
-
 
 # ***on*** adv
 ---
@@ -2440,16 +1659,6 @@ He invited me to a dance after the show ________ Christmas Eve.
 > What’s on at the movie?  
 > 电影院在上演什么片子？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***once*** adv  重难点词汇
 ---
@@ -2475,6 +1684,7 @@ He invited me to a dance after the show ________ Christmas Eve.
 
 > I once lived in London.  
 > 我曾经在伦敦住过。
+
 
 固定搭配
 ---
@@ -2538,16 +1748,13 @@ never / not once位于句首时，句子用部分倒装语序。
 > I have been there once or twice.  
 > 我去过那儿一两次。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Mary and I see each other ________ (偶尔), but not as often as we used to.  
 ##### 答案 once in a while  
   
-
 
 # ***once*** conj  重难点词汇
 ---
@@ -2564,19 +1771,13 @@ Mary and I see each other ________ (偶尔), but not as often as we used to.
 > Once you form a bad habit, it’s very difficult to get rid of it.  
 > 一旦养成了坏习惯，你就很难改掉它。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 ________ (一旦) the damage is done, it will take many years for the farmland to recover.  
 ##### 答案 Once  
   
-
 
 # ***one*** adj
 ---
@@ -2610,16 +1811,6 @@ ________ (一旦) the damage is done, it will take many years for the farmland t
 
 > one beautiful afternoon  
 > 某个晴朗的午后
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***one*** pron
@@ -2668,6 +1859,7 @@ ________ (一旦) the damage is done, it will take many years for the farmland t
 > To be happy, one must keep busy and think about positive things.  
 > 想要快乐，就必须忙碌起来并且想想积极的事情。
 
+
 固定搭配
 ---
 - #### one after another / the other
@@ -2691,9 +1883,7 @@ ________ (一旦) the damage is done, it will take many years for the farmland t
 > As the bell rang, the students went out one by one.  
 > 铃声响了，学生们鱼贯而出。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2712,7 +1902,6 @@ D.one
 Charles was alone at home, with no ________ looking after him.  
 ##### 答案 one  
   
-
 
 # ***oneself*** pron
 ---
@@ -2739,6 +1928,7 @@ Charles was alone at home, with no ________ looking after him.
 > One likes to do it oneself.  
 > 人都喜欢亲自去做。
 
+
 固定搭配
 ---
 - #### be oneself
@@ -2748,13 +1938,6 @@ Charles was alone at home, with no ________ looking after him.
 - #### (all) by oneself
 1. **独自地；独立地**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***onion*** n
@@ -2770,16 +1953,6 @@ Charles was alone at home, with no ________ looking after him.
 1. *高义频：* **洋葱；葱头**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***online*** adj
 ---
@@ -2793,16 +1966,6 @@ Charles was alone at home, with no ________ looking after him.
 1. *高义频：* **在线的；联网的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***online*** adv
 ---
@@ -2815,16 +1978,6 @@ Charles was alone at home, with no ________ looking after him.
 ---
 1. *高义频：* **在网上**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***only*** adj  重难点词汇
@@ -2849,16 +2002,6 @@ Charles was alone at home, with no ________ looking after him.
 
 > She’s the only person for the job.  
 > 她是这项工作的最佳人选。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***only*** adv  重难点词汇
@@ -2894,6 +2037,7 @@ Charles was alone at home, with no ________ looking after him.
 > After school we went to the reading-room to do some reading, only to be told that it was being decorated.  
 > 放学后我们去阅览室读书，结果却被告知阅览室正在装修。
 
+
 固定搭配
 ---
 - #### if only
@@ -2915,9 +2059,7 @@ not only … but (also) 连接两个并列分句时，not only所在的句子要
 > Not only can a beautiful smile make ourselves happy, but also it enables others to feel delighted.  
 > 一个灿烂的笑容不仅能使我们自己高兴，而且能使他人感到愉快。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2932,7 +2074,6 @@ Only when Lily walked into the office ________ (她才意识到) that she had le
 Anxiously, she took the dress out of the package and tried it on, only ________ (find) it didn’t fit.  
 ##### 答案 to find  
   
-
 
 # ***onto*** prep
 ---
@@ -2952,16 +2093,6 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
 > The car rolled over onto its side.  
 > 这辆车侧翻了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***onwards*** adv
 ---
@@ -2975,16 +2106,6 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
 1. *高义频：* **(=onward) 向前地；前进地**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***oolong*** n
 ---
@@ -2997,16 +2118,6 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
 ---
 1. **乌龙茶**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***open*** adj
@@ -3067,18 +2178,12 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
 > It’s not a good idea to camp in the middle of an open field.  
 > 在旷野之中宿营不是个好主意。
 
+
 固定搭配
 ---
 - #### have / keep an open mind (about / on)
 1. **对…不怀成见 / 对…不先入为主**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***open*** v
@@ -3140,6 +2245,7 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
 > Cherry blossoms were opening everywhere over the country.  
 > 全国各地的樱花都开了。
 
+
 固定搭配
 ---
 - #### open sb’s eyes to sth
@@ -3156,13 +2262,6 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
 > **open up to**  
 > People have few real friends. And they need to open up to each other.  
 > 人们没有几个真正的朋友，他们需要向彼此敞开心扉。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***open*** n
@@ -3186,18 +2285,12 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
 > They advised us to keep the formula a secret, but we wanted it in the open.  
 > 他们建议我们对配方要保密，但是我们想要公开。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 openly /'əʊpənli/ adv 
 > cty openly  
 > 当众哭泣
-
-真题解析
----
-[null]
 
 
 # ***open-mouthed*** adj
@@ -3211,16 +2304,6 @@ openly /'əʊpənli/ adv
 ---
 1. **目瞪口呆的；惊愕得张大嘴的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***opener*** n
@@ -3239,16 +2322,6 @@ openly /'əʊpənli/ adv
 > **bottle opener**  
 > a bottle opener  
 > 开瓶器；起子
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***opening*** n
@@ -3286,16 +2359,6 @@ openly /'əʊpənli/ adv
 4. *低义频：* **空缺**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***opening*** adj
 ---
@@ -3312,16 +2375,6 @@ openly /'əʊpənli/ adv
 
 > the opening ceremony  
 > 开幕式
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***opera*** n
@@ -3344,18 +2397,12 @@ openly /'əʊpənli/ adv
 > Beijing Opera  
 > 京剧
 
+
 固定搭配
 ---
 - #### soap opera
 1. **肥皂剧**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***operate*** v  重难点词汇
@@ -3410,16 +2457,10 @@ to act or have an effect：
 > operate a restaurant / company  
 > 经营餐馆 / 公司
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 operator  n 
-真题解析
----
-[null]
-
 
 # ***operation*** n
 ---
@@ -3484,6 +2525,7 @@ an activity, often highly organized, that involves many people, actions, days, e
 > perform various mathematical operations  
 > 进行各种数学运算
 
+
 固定搭配
 ---
 - #### put ... into operation
@@ -3492,13 +2534,6 @@ an activity, often highly organized, that involves many people, actions, days, e
 
 > It’s time to put our plan into operation.  
 > 现在应该实施我们的计划了。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***operational*** adj
@@ -3513,16 +2548,6 @@ an activity, often highly organized, that involves many people, actions, days, e
 1. **工作着的；即可使用的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***operator*** n
 ---
@@ -3536,16 +2561,6 @@ an activity, often highly organized, that involves many people, actions, days, e
 ---
 1. *高义频：* **话务员；操作员；经营者**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***opinion*** n  重难点词汇
@@ -3607,18 +2622,12 @@ what people in general think about sth：
 > I’d like a second opinion (= advice from another person) before I make a decision.  
 > 在作决定前我想再听听别人的意见。
 
+
 固定搭配
 ---
 - #### have a high / low / good / poor opinion of
 1. **对…评价高 / 低 / 好 / 差**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***opponent*** n
@@ -3633,16 +2642,6 @@ what people in general think about sth：
 ---
 1. *高义频：* **对手；反对者**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***opportunity*** n
@@ -3686,16 +2685,6 @@ what people in general think about sth：
 > There’ll be plenty of opportunity for relaxing / to relax once the work is done.  
 > 工作一旦完成，就有很多放松的机会。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***oppose*** vt
 ---
@@ -3717,9 +2706,7 @@ what people in general think about sth：
 > All the members present opposed the plan bitterly.  
 > 所有与会的成员都坚决反对这个计划。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 opposed /ə'pəʊzd/ adj [不用于名词前]
@@ -3738,10 +2725,6 @@ opposed /ə'pəʊzd/ adj [不用于名词前]
 > 我们雇你是让你干活的，而不是让你光坐着。
 
 opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
-真题解析
----
-[null]
-
 
 # ***opposed*** adj
 ---
@@ -3755,16 +2738,6 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 1. **反对的；对立的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***opposing*** adj
 ---
@@ -3777,16 +2750,6 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 ---
 1. **（观点、意见等）相反的，相对立的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***opposite*** adj  重难点词汇
@@ -3820,19 +2783,13 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 > I thought this medicine would make me sleep, but it had the opposite effect.  
 > 我以为这种药能让我睡着，但效果却恰恰相反。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 David turned and walked off in the ________ (相反) direction.  
 ##### 答案 opposite  
   
-
 
 # ***opposite*** prep  重难点词汇
 ---
@@ -3848,16 +2805,6 @@ David turned and walked off in the ________ (相反) direction.
 
 > The hotel is only 5 blocks away opposite the bank.  
 > 那家宾馆离这里只有5个街区，在银行的对面。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***opposite*** n  重难点词汇
@@ -3881,16 +2828,6 @@ David turned and walked off in the ________ (相反) direction.
 > I didn’t feel sleepy at all — just the opposite, in fact.  
 > 我一点儿都不困，事实上正好相反。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***opposition*** n
 ---
@@ -3909,16 +2846,6 @@ David turned and walked off in the ________ (相反) direction.
 > There was a great deal of opposition to the decision.  
 > 对这个决定有很多反对意见。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***optimism*** n
 ---
@@ -3932,16 +2859,6 @@ David turned and walked off in the ________ (相反) direction.
 ---
 1. *高义频：* **乐观；乐观主义**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***optimistic*** adj
@@ -3963,19 +2880,13 @@ David turned and walked off in the ________ (相反) direction.
 > I admire Helen because she is optimistic about life.  
 > 我敬佩海伦，因为她对生活积极乐观。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 My good performance in the job interview left me optimistic ________ my future.  
 ##### 答案 about  
   
-
 
 # ***option*** n
 ---
@@ -3997,16 +2908,6 @@ My good performance in the job interview left me optimistic ________ my future.
 > You have no option but to (= have to) refuse his proposal.  
 > 你别无选择，只能拒绝他的提议。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***optional*** adj
 ---
@@ -4027,19 +2928,13 @@ My good performance in the job interview left me optimistic ________ my future.
 > The service would be optional for cell phone users.  
 > 手机用户可以自由选择这项服务。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 In that school, English is compulsory for all students, but French and Russian are ________ (option).  
 ##### 答案 optional  
   
-
 
 # ***or*** conj
 ---
@@ -4081,19 +2976,13 @@ In that school, English is compulsory for all students, but French and Russian a
 > He never smokes or drinks.  
 > 他从不吸烟，也从不喝酒。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Don’t turn off the computer before closing all programs, ________ you could have problems.  
 ##### 答案 or   
   
-
 
 # ***oral*** adj
 ---
@@ -4113,16 +3002,10 @@ Don’t turn off the computer before closing all programs, ________ you could ha
 > An oral agreement is not enough; we must have a written promise.  
 > 口头协议是不够的，我们必须有书面承诺。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 orally /'ɔːrəli/ adv 
-真题解析
----
-[null]
-
 
 # ***orange*** n
 ---
@@ -4135,16 +3018,6 @@ orally /'ɔːrəli/ adv
 ---
 1. *高义频：* **[C] 柑橘；橙子； [U] 橘色**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***orange*** adj
@@ -4160,16 +3033,6 @@ orally /'ɔːrəli/ adv
 1. *高义频：* **柑橘的；橘色的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***orangutan*** n
 ---
@@ -4182,16 +3045,6 @@ orally /'ɔːrəli/ adv
 ---
 1. **猩猩**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***orbit*** n
@@ -4211,16 +3064,6 @@ orally /'ɔːrəli/ adv
 > The man-made satellite has been put into orbit around the earth.   
 > 这颗人造卫星已被送入环绕地球运行的轨道。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***orbit*** v
 ---
@@ -4238,16 +3081,6 @@ orally /'ɔːrəli/ adv
 > The earth takes a year to orbit (around) the sun.  
 > 地球绕太阳一周需要一年的时间。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***orchestra*** n
 ---
@@ -4261,16 +3094,6 @@ orally /'ɔːrəli/ adv
 ---
 1. *高义频：* **(大型的) 管弦乐队**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***order*** n  重难点词汇
@@ -4348,6 +3171,7 @@ orally /'ɔːrəli/ adv
 > an order on the Bank of China  
 > 向中国银行提款的汇票
 
+
 固定搭配
 ---
 - #### in order
@@ -4399,9 +3223,7 @@ orally /'ɔːrəli/ adv
 > I’m sorry, but this phone is out of order.  
 > 很抱歉，这部电话出故障了。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4412,7 +3234,6 @@ ________ (order) over a week ago, the books are expected to arrive any time now.
 The police officers in our city work hard ________ (为了) the rest of us can live a safe life.   
 ##### 答案 in order that / so that  
   
-
 
 # ***order*** v  重难点词汇
 ---
@@ -4457,18 +3278,12 @@ The police officers in our city work hard ________ (为了) the rest of us can l
 > Are you ready to order?  
 > 您可以点菜了吗？
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 ordered /'ɔːdəd/ adj 
 > the well-ordered world  
 > 井然有序的世界
-
-真题解析
----
-[null]
 
 
 # ***orderly*** adj
@@ -4486,16 +3301,6 @@ ordered /'ɔːdəd/ adj
 > **in an orderly way**  
 > Traffic lights are there to guide traffic in an orderly way.  
 > 红绿灯的存在是为了有序地引导交通。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ordinary*** adj
@@ -4516,19 +3321,13 @@ ordered /'ɔːdəd/ adj
 
 ### 辨析 common, normal, ordinary, usual
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 What I want is not just an ordinarily cafe but a vey special one.  
 ##### 答案 ordinarily-ordinary  
   
-
 
 # ***organ*** n
 ---
@@ -4556,16 +3355,6 @@ What I want is not just an ordinarily cafe but a vey special one.
 > play the organ  
 > 演奏管风琴
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***organic*** adj
 ---
@@ -4585,16 +3374,6 @@ What I want is not just an ordinarily cafe but a vey special one.
 > **organic food**  
 > organic food  
 > 有机食品
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***organisation*** n
@@ -4622,16 +3401,6 @@ What I want is not just an ordinarily cafe but a vey special one.
 > He is engaged in the organization of a new club.  
 > 他正忙于筹建一个新的俱乐部。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***organisational*** adj
 ---
@@ -4644,16 +3413,6 @@ What I want is not just an ordinarily cafe but a vey special one.
 ---
 1. **组织上的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***organise*** v
@@ -4695,9 +3454,7 @@ to put or arrange things into a system or logical order：
 > The scientists need to organize themselves into a team.  
 > 这些科学家需要组成一个团队。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 organized / organised /'ɔːɡənaɪzd/ adj 
@@ -4719,10 +3476,6 @@ organized / organised /'ɔːɡənaɪzd/ adj
 > 很有条理的人
 
  organizer / organiser  /'ɔːgənaɪzə/ n  [C] 
-真题解析
----
-[null]
-
 
 # ***organised*** adj
 ---
@@ -4749,16 +3502,6 @@ organized / organised /'ɔːɡənaɪzd/ adj
 > a very organized person  
 > 很有条理的人
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***organism*** n
 ---
@@ -4775,16 +3518,6 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
 > Plants let out oxygen which is needed by nearly every organism on earth.  
 > 植物会释放出几乎地球上所有生物都需要的氧气。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***organization*** n
@@ -4811,16 +3544,6 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
 > He is engaged in the organization of a new club.  
 > 他正忙于筹建一个新的俱乐部。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***organize*** v
@@ -4863,9 +3586,7 @@ to put or arrange things into order, or into a system or logical order：
 > The scientists need to organize themselves into a team.  
 > 这些科学家需要组成一个团队。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 organized / organised /'ɔːɡənaɪzd/ adj 
@@ -4887,10 +3608,6 @@ organized / organised /'ɔːɡənaɪzd/ adj
 > 很有条理的人
 
  organizer / organiser  /'ɔːɡənaɪzə(r)/ n [C] 
-真题解析
----
-[null]
-
 
 # ***orientation*** n
 ---
@@ -4903,16 +3620,6 @@ organized / organised /'ɔːɡənaɪzd/ adj
 ---
 1. **（新工作或学习课程开始前一段时间的）培训，迎新**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***origin*** n
@@ -4942,16 +3649,6 @@ organized / organised /'ɔːɡənaɪzd/ adj
 > **has its origins in**  
 > This particular custom has its origins in Wales.  
 > 这种特别的习俗源于威尔士。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***original*** adj  重难点词汇
@@ -4983,16 +3680,6 @@ new and interesting; different from others of its type：
 > That’s not a very original suggestion.  
 > 那个建议没什么新意。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***original*** n  重难点词汇
 ---
@@ -5010,16 +3697,6 @@ new and interesting; different from others of its type：
 > **in the original**  
 > the book in the original  
 > 原著
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***originally*** adv
@@ -5040,16 +3717,6 @@ new and interesting; different from others of its type：
 > Originally, we had planned a tour of Scotland, but we didn’t go in the end.  
 > 起先，我们计划到苏格兰旅游，但最后没有成行。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ornate*** adj
 ---
@@ -5062,16 +3729,6 @@ new and interesting; different from others of its type：
 ---
 1. **华丽的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***orphan*** n
@@ -5087,16 +3744,6 @@ new and interesting; different from others of its type：
 1. *高义频：* **孤儿**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***orphan*** adj
 ---
@@ -5109,16 +3756,6 @@ new and interesting; different from others of its type：
 ---
 1. *高义频：* **孤儿的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***other*** adj  重难点词汇
@@ -5166,6 +3803,7 @@ new and interesting; different from others of its type：
 > every other day  
 > 每隔一天
 
+
 固定搭配
 ---
 - #### no other than
@@ -5185,9 +3823,7 @@ new and interesting; different from others of its type：
 > We are going away in June but other than that I’ll be here all summer.  
 > 我们六月份外出，除此之外，我整个夏天都会在这里。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -5202,7 +3838,6 @@ I’ll spend half of my holiday practising English and ________ half learning dr
 I got the story from Tom and ________ (其他的一些) people who had worked with him.  
 ##### 答案 some other  
   
-
 
 # ***other*** pron  重难点词汇
 ---
@@ -5242,12 +3877,7 @@ I got the story from Tom and ________ (其他的一些) people who had worked wi
 
 ### 辨析 other, others, the other, the others
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -5262,7 +3892,6 @@ In some countries, people eat with chopsticks, while in ________, knives and for
 You are a team star! Working with other is really your cup of tea.  
 ##### 答案 other → others  
   
-
 
 # ***otherwise*** adv  重难点词汇
 ---
@@ -5299,16 +3928,6 @@ You are a team star! Working with other is really your cup of tea.
 > I can’t meet you on Sunday. I’ll be otherwise occupied / engaged (= doing sth else).  
 > 我星期日不能见你了，我有别的事要忙。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ouch*** int
 ---
@@ -5321,16 +3940,6 @@ You are a team star! Working with other is really your cup of tea.
 ---
 1. *高义频：* **哎哟**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ought*** aux v
@@ -5345,16 +3954,6 @@ You are a team star! Working with other is really your cup of tea.
 1. **应当；应该**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***our*** pron
 ---
@@ -5367,16 +3966,6 @@ You are a team star! Working with other is really your cup of tea.
 ---
 1. *高义频：* **我们的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ours*** pron
@@ -5400,16 +3989,6 @@ You are a team star! Working with other is really your cup of tea.
 > Ours is a large family.  
 > 我们的家是一个大家庭。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ourselves*** pron
 ---
@@ -5431,16 +4010,6 @@ You are a team star! Working with other is really your cup of tea.
 
 > We saw it ourselves.  
 > 我们亲眼看到的。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***out*** adv & prep
@@ -5488,6 +4057,7 @@ You are a team star! Working with other is really your cup of tea.
 
 > Speak out!  
 > 大声说！
+
 
 固定搭配
 ---
@@ -5540,13 +4110,6 @@ You are a team star! Working with other is really your cup of tea.
 > make a box out of wood  
 > 用木头做个盒子
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***outbreak*** n
 ---
@@ -5560,16 +4123,6 @@ You are a team star! Working with other is really your cup of tea.
 ---
 1. *高义频：* **爆发；发作 (尤指疾病或战争)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***outcome*** n
@@ -5590,16 +4143,6 @@ the result or effect of an action or an event (result)：
 > We were both happy with the outcome of the debate.  
 > 我们双方对辩论的结果都很满意。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***outdoor*** adj
 ---
@@ -5617,16 +4160,6 @@ the result or effect of an action or an event (result)：
 > outdoor activities  
 > 户外活动
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***outdoors*** adv
 ---
@@ -5642,16 +4175,6 @@ the result or effect of an action or an event (result)：
 
 > The Impressionists were the first painters to work outdoors.  
 > 印象派是最先到户外作画的画家。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***outdoors*** n
@@ -5669,16 +4192,6 @@ the result or effect of an action or an event (result)：
 
 > Tom is a sports fan and a lover of the outdoors.  
 > 汤姆是个运动迷，并且热爱户外运动。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***outer*** adj
@@ -5700,16 +4213,6 @@ the result or effect of an action or an event (result)：
 > The outer door was wide open, but the inner one was locked.  
 > 外面的门大开着，但里面的门却紧锁着。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***outgoing*** adj
 ---
@@ -5725,16 +4228,6 @@ the result or effect of an action or an event (result)：
 
 > He is usually cheerful and outgoing, but he has been really quiet and looks sad.  
 > 他通常乐观外向，但近来很安静，看起来很悲伤。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***outing*** n
@@ -5756,16 +4249,6 @@ the result or effect of an action or an event (result)：
 > **go on an outing**  
 > go on an outing  
 > 去远足
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***outline*** n
@@ -5796,16 +4279,6 @@ the result or effect of an action or an event (result)：
 > an outline map of China  
 > 中国略图
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***outline*** vt
 ---
@@ -5828,16 +4301,6 @@ the result or effect of an action or an event (result)：
 > **outlined against**  
 > They saw the huge building outlined against the sky.  
 > 他们看见天空映衬下那座巨型建筑的轮廓。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***outlook*** n
@@ -5866,16 +4329,6 @@ what will probably happen：
 > The outlook for world peace is bright.  
 > 世界和平的前景是光明的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***outnumber*** v
 ---
@@ -5889,16 +4342,6 @@ what will probably happen：
 1. **在数量上胜过……；比……多**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***outpatient*** n
 ---
@@ -5911,16 +4354,6 @@ what will probably happen：
 ---
 1. **门诊病人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***output*** n
@@ -5943,16 +4376,6 @@ the amount that a person or machine produces：
 > She intended to have an output of one book a year.  
 > 她计划每年出一本书。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***outside*** adv
 ---
@@ -5971,16 +4394,6 @@ the amount that a person or machine produces：
 
 > He went outside for a smoke.  
 > 他到外面抽了支烟。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***outside*** prep
@@ -6001,16 +4414,6 @@ the amount that a person or machine produces：
 > He achieved a lot in life outside school.  
 > 他的校外生活收获颇丰。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***outside*** adj
 ---
@@ -6030,16 +4433,6 @@ the amount that a person or machine produces：
 
 > We must get outside help.  
 > 我们必须寻求外援。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***outside*** n
@@ -6062,16 +4455,6 @@ the amount that a person or machine produces：
 > The outside of the house needs painting.  
 > 房子的外墙需要粉刷。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***outspoken*** adj
 ---
@@ -6087,16 +4470,6 @@ the amount that a person or machine produces：
 
 > an outspoken person  
 > 直率的人
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***outstanding*** adj
@@ -6116,16 +4489,6 @@ the amount that a person or machine produces：
 
 > Tsinghua University, founded in 1911, is home to a great number of outstanding figures.  
 > 清华大学，建于1911年，是很多杰出人才的摇篮。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***outward*** adj
@@ -6149,16 +4512,6 @@ the amount that a person or machine produces：
 > She gives no outward sign of the sadness she must feel.  
 > 她一定很难过，但没表现出来。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***outward(s)*** adv
 ---
@@ -6178,16 +4531,6 @@ the amount that a person or machine produces：
 > He put on his raincoat and went outwards.  
 > 他穿上雨衣向外走去。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***outwards*** adv
 ---
@@ -6201,16 +4544,6 @@ the amount that a person or machine produces：
 1. **向外地**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***oval*** adj
 ---
@@ -6223,16 +4556,6 @@ the amount that a person or machine produces：
 ---
 1. *高义频：* **椭圆形的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***oval*** n
@@ -6248,16 +4571,6 @@ the amount that a person or machine produces：
 1. *高义频：* **椭圆 (形)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***oven*** n
 ---
@@ -6271,16 +4584,6 @@ the amount that a person or machine produces：
 ---
 1. *高义频：* **烤炉；烤箱**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***over*** prep
@@ -6363,6 +4666,7 @@ over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原因。
 > He would laugh the loudest over fun and be the saddest over anyone’s misfortune.  
 > 他会因为有趣的事而放声大笑，也会为任何人的不幸而极度悲伤。
 
+
 固定搭配
 ---
 - #### all over
@@ -6375,9 +4679,7 @@ over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原因。
 > He made speeches all over the USA about his experiences.  
 > 他在美国各地发表演说讲述自己的经历。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -6392,7 +4694,6 @@ You can’t wear a blue jacket _________ that shirt — it’ll look terrible.
 They had a pleasant chat ________ a cup of coffee.  
 ##### 答案 over  
   
-
 
 # ***over*** adv
 ---
@@ -6455,6 +4756,7 @@ They had a pleasant chat ________ a cup of coffee.
 > The birthday party is over and we don’t need the cake any more.  
 > 生日聚会已经结束，我们不再需要蛋糕了。
 
+
 固定搭配
 ---
 - #### (all) over again
@@ -6471,13 +4773,6 @@ They had a pleasant chat ________ a cup of coffee.
 > As you know, if you do the same thing over and over again, you begin to do it automatically.  
 > 你知道，如果反反复复地做同样的事，动作就会变得自如起来。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***over-fishing*** n
 ---
@@ -6490,16 +4785,6 @@ They had a pleasant chat ________ a cup of coffee.
 ---
 1. **过度捕捞**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***overall*** adj
@@ -6519,16 +4804,6 @@ including everything; total：
 > the overall cost  
 > 全部费用
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***overall*** adv
 ---
@@ -6546,16 +4821,6 @@ when you consider everything; generally：
 > Overall, this is a very useful book.  
 > 总的来说，这是一本很有用的书。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***overboard*** adv
 ---
@@ -6568,16 +4833,6 @@ when you consider everything; generally：
 ---
 1. *高义频：* **越过船舷进入水中**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***overcoat*** n
@@ -6592,16 +4847,6 @@ when you consider everything; generally：
 ---
 1. *高义频：* **大衣；外套**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***overcome*** vt
@@ -6633,16 +4878,6 @@ when you consider everything; generally：
 > Her parents were overcome with great sadness at the funeral.  
 > 在葬礼上她的父母悲痛欲绝。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***overhead*** adv
 ---
@@ -6658,16 +4893,6 @@ when you consider everything; generally：
 
 > Birds flew overhead and cried out in joy.  
 > 鸟儿在空中飞过，发出欢快的叫声。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***overhead*** adj
@@ -6687,16 +4912,6 @@ when you consider everything; generally：
 
 > an overhead projector  
 > 投影仪
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***overlook*** vt
@@ -6726,16 +4941,6 @@ when you consider everything; generally：
 > I overlooked his fault.  
 > 我没有追究他的过错。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***overnight*** adv
 ---
@@ -6759,16 +4964,6 @@ when you consider everything; generally：
 > become famous overnight  
 > 一夜成名
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***overnight*** adj
 ---
@@ -6791,16 +4986,6 @@ when you consider everything; generally：
 > The show was an overnight success.  
 > 这场演出一举成功。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***overpass*** n
 ---
@@ -6814,16 +4999,6 @@ when you consider everything; generally：
 ---
 1. *高义频：* **天桥；立交桥**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***overseas*** adv
@@ -6842,16 +5017,6 @@ when you consider everything; generally：
 > He is going to work overseas.  
 > 他将去国外工作。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***overseas*** adj
 ---
@@ -6867,16 +5032,6 @@ when you consider everything; generally：
 
 > I received an overseas phone call from my friend in Paris.  
 > 我接到了一个在巴黎的朋友打来的越洋电话。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***overtake*** vt
@@ -6895,16 +5050,6 @@ when you consider everything; generally：
 > China overtook Japan and became the world’s second largest economy in 2010.  
 > 2010年中国超越日本，成为世界第二大经济体。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***overtime*** n
 ---
@@ -6918,16 +5063,6 @@ when you consider everything; generally：
 1. **加时赛**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***overview*** n
 ---
@@ -6940,16 +5075,6 @@ when you consider everything; generally：
 ---
 1. **概要；综述**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***overweight*** adj
@@ -6970,16 +5095,6 @@ when you consider everything; generally：
 > This parcel is overweight by two kilos.  
 > 这个包裹超重两公斤。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***overwhelm*** vt
 ---
@@ -6998,16 +5113,10 @@ when you consider everything; generally：
 > I was overwhelmed by all the flowers and letters of support I received.  
 > 收到那么多的鲜花和支持信，我激动得不知如何是好。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 overwhelming /ˌəʊvə'welmɪŋ/ adj 
-真题解析
----
-[null]
-
 
 # ***owe*** vt
 ---
@@ -7045,16 +5154,6 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 > These early settlers owed their survival to hard work and determination to succeed.   
 > 这些早期的移民把他们的幸存归功于艰苦的劳动和必胜的决心。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***own*** adj
 ---
@@ -7071,16 +5170,6 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 
 > I won’t believe you until I’ve seen it with my own eyes.  
 > 直到我亲眼看到我才会相信你的话。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***own*** pron
@@ -7107,6 +5196,7 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 > I’d like to have a house of my own.  
 > 我想有一套自己的房子。
 
+
 固定搭配
 ---
 - #### (all) on one’s own
@@ -7118,13 +5208,6 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 
 > It is working in teams instead of on my own that has made my work more efficient.  
 > 是团队协作而不是自己独自工作使我的工作效率更高。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***own*** vt
@@ -7142,16 +5225,6 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 > A hundred years ago, very few people owned cars.  
 > 一百年前，很少有人拥有汽车。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***owner*** n
 ---
@@ -7165,16 +5238,6 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 ---
 1. *高义频：* **物主；所有者**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ownership*** n
@@ -7193,16 +5256,6 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 > The property remained in the ownership of Shakespeare’s family until 1806.  
 > 此房产在1806年之前一直归莎士比亚家族所有。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ox*** n
 ---
@@ -7217,16 +5270,6 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 1. *高义频：* **牛；公牛**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***oxide*** n
 ---
@@ -7239,16 +5282,6 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 ---
 1. **氧化物**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***oxygen*** n
@@ -7264,13 +5297,4 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 1. *高义频：* **氧；氧气**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 

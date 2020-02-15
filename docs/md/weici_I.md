@@ -1,505 +1,4 @@
-
-# ***I*** pron
----
-英音 aɪ     美音 aɪ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **我 (主格)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***India*** n
----
-英音 'ɪndɪə     美音 'ɪndɪə
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **印度**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Indian*** adj
----
-英音 'ɪndiən     美音 'ɪndiən
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **印度的；印度人的；印第安人的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Indian*** n
----
-英音 'ɪndiən     美音 'ɪndiən
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **印度人；印第安人；印第安语**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Indonesia*** n
----
-英音 ˌɪndəʊ'niːzjə     美音 ˌɪndəʊ'niːzjə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **印度尼西亚 (东南亚岛国)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Indonesian*** adj
----
-英音 ˌɪndə'niːzɪən, ˌɪndə'niːʒn     美音 ˌɪndə'niːʒn
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **印尼的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Indonesian*** n
----
-英音 ˌɪndə'niːzɪən, ˌɪndə'niːʒn     美音 ˌɪndə'niːʒn
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **印尼人；印尼语群**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Initiative*** n
----
-英音 ɪ'nɪʃətɪv     美音 ɪ'nɪʃətɪv
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **[C] 倡议：**  
-
-
-> China’s Belt and Road Initiative  
-> 中国“一带一路”倡议
-
-2. *高义频：* **[U] 主动性：**  
-
-
-> use one’s initiative  
-> 发挥主动性
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Innovation*** n
----
-英音 ˌɪnə'veɪʃn     美音 ˌɪnə'veɪʃn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **[C] 新观念 / 方法； [U] 创新；革新**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Integrity*** 
----
-英音 ɪn'teɡrəti     美音 ɪn'teɡrəti
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **[U] 完整；完好；诚实；正直：**  
-
-
-> **territorial integrity**  
-> the territorial integrity of the country  
-> 国家领土完整
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Interaction*** 
----
-英音 ˌɪntər'ækʃn     美音 ˌɪntər'ækʃn
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **[C] & [U] 交流；互动；相互作用**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Internet*** n
----
-英音 'ɪntənet     美音 'ɪntənet
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [常与the连用]
-
-英文释义
----
-1. *高义频：* **(国际) 互联网；因特网**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Intervention*** n
----
-英音 ˌɪntə'venʃn     美音 ˌɪntə'venʃn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **[C] & [U] 干涉； 干预；介入：**  
-
-
-> **armed,military intervention**  
-> armed / military intervention  
-> 武装/军事干涉
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Inuit*** n
----
-英音 'ɪnjʊɪt     美音 'ɪnjʊɪt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **因纽特人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Iran*** n
----
-英音 ɪ'rɑːn     美音 aɪ'ræn
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **伊朗**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Ireland*** n
----
-英音 'aɪələnd     美音 'aɪrlənd
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **爱尔兰**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Irish*** n
----
-英音 'aɪrɪʃ     美音 'aɪrɪʃ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **爱尔兰人；爱尔兰语**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Irish*** adj
----
-英音 'aɪrɪʃ     美音 'aɪrɪʃ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **爱尔兰的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Italian*** n
----
-英音 ɪ'tæliən     美音 ɪ'tæliən
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
-
-英文释义
----
-1. *高义频：* **意大利人；意大利语**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Italian*** adj
----
-英音 ɪ'tæliən     美音 ɪ'tæliən
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **意大利人的；意大利语的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Italy*** n
----
-英音 'ɪtəli     美音 'ɪtəli
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **意大利 (欧洲国家)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
+# Ii
 
 # ***i.e.*** abbr
 ---
@@ -513,16 +12,6 @@
 1. *高义频：* **即；也就是**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ibis*** n
 ---
@@ -535,16 +24,6 @@
 ---
 1. **鹮**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ice*** n
@@ -566,16 +45,6 @@
 > be (skating / walking) on thin ice  
 > 如履薄冰
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ice-cream*** n
 ---
@@ -590,16 +59,6 @@
 1. *高义频：* **冰淇淋**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***iceberg*** n
 ---
@@ -613,16 +72,6 @@
 ---
 1. *高义频：* **冰山**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***idea*** n  重难点词汇
@@ -694,12 +143,7 @@ the aim or purpose of sth：
 > Besides the words people speak, learning a foreign language includes their body language, dress, manners, ideas and so on.  
 > 学习外语除了学习外国人讲的语言，还包括身势语、穿着、礼仪和思想观念等。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -712,7 +156,6 @@ the aim or purpose of sth：
 — ________ (好主意), honey. You do need a break.  
 ##### 答案 Great / Good idea  
   
-
 
 # ***ideal*** adj
 ---
@@ -728,16 +171,6 @@ the aim or purpose of sth：
 
 > Ideal study times are after dinner or right after school before dinner.   
 > 理想的学习时间是晚餐后，或放学后晚餐前。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ideal*** n
@@ -756,16 +189,6 @@ the aim or purpose of sth：
 > Ideals are like the stars — we never reach them, but like sailors, we chart our course by them.  
 > 理想犹如天上的星星，我们虽不能触及，却可以像水手一样靠它们调整航向。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***identical*** adj
 ---
@@ -778,16 +201,6 @@ the aim or purpose of sth：
 ---
 1. *高义频：* **同一的；完全相同的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***identification*** n
@@ -815,16 +228,6 @@ when you recognize sth or discover exactly what it is：
 
 > We are all asked to show some identification — an identity card or a passport — before boarding the plane.   
 > 登机前，我们都需要出示身份证明，如身份证或护照。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***identify*** vt
@@ -865,6 +268,7 @@ to find or discover sb / sth：
 > His accent identified him as a Frenchman.   
 > 他的口音表明他是法国人。
 
+
 固定搭配
 ---
 - #### identify sb / sth with sth
@@ -881,13 +285,6 @@ to find or discover sb / sth：
 
 > I didn't enjoy the book because I couldn' identify with any of the main characters.  
 > 我不喜欢这本书，因为我无法与其中任何一个主角产生共鸣。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***identity*** n
@@ -917,19 +314,13 @@ to find or discover sb / sth：
 > The college years are supposed to be a time for the development of adult identity.  
 > 大学阶段应该是培养成年人个性特征的一段时间。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 He gave himself a new name to hide his ________ (身份) when he went to carry out the secret task.  
 ##### 答案 identity  
   
-
 
 # ***idiom*** n
 ---
@@ -943,16 +334,6 @@ He gave himself a new name to hide his ________ (身份) when he went to carry o
 1. *高义频：* **[C] 习语；成语**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***idiomatic*** adj
 ---
@@ -965,16 +346,6 @@ He gave himself a new name to hide his ________ (身份) when he went to carry o
 ---
 1. *高义频：* **惯用的；合乎语言习惯的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***if*** conj
@@ -1014,6 +385,7 @@ He gave himself a new name to hide his ________ (身份) when he went to carry o
 > Brian rarely, if ever, goes to bed before 11:00 p.m.  
 > 布莱恩难得在晚上11点之前睡觉。
 
+
 固定搭配
 ---
 - #### if so 
@@ -1023,9 +395,7 @@ He gave himself a new name to hide his ________ (身份) when he went to carry o
 > Have you ever been here? And if so how many times?   
 > 你来过这儿吗？如果来过，来过几次呢？
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -1053,7 +423,6 @@ At fi rst he hated the new job but decided to give himself a few months to see _
 ##### 答案 if / whether  
   
 
-
 # ***ignorance*** n
 ---
 英音 'ɪɡnərəns     美音 'ɪɡnərəns
@@ -1069,16 +438,6 @@ At fi rst he hated the new job but decided to give himself a few months to see _
 
 > Excuse my ignorance, but how does this machine work?  
 > 请原谅我的无知，但请问这台机器是怎么工作的？
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ignorant*** adj
@@ -1096,16 +455,6 @@ At fi rst he hated the new job but decided to give himself a few months to see _
 > **ignorant about / of**  
 > He's ignorant about / of the danger of too much sun.  
 > 他对日晒过度的危害一无所知。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ignore*** vt
@@ -1130,19 +479,13 @@ At fi rst he hated the new job but decided to give himself a few months to see _
 > Did you think I'd ignore the fact that you were suffering from shock?  
 > 你受了惊吓，你以为我会置之不理吗？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the pain, believing that it would go away sooner or later.   
 ##### 答案 ignore  
   
-
 
 # ***ill*** adj
 ---
@@ -1173,16 +516,6 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
 > Ill news flies fast.   
 > 坏事传千里。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ill*** adv
 ---
@@ -1203,16 +536,6 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
 
 > Don't speak ill of the dead.  
 > 不要说已逝者的坏话。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***illegal*** adj
@@ -1238,16 +561,6 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
 > It's illegal to drive a car without a driver's license.  
 > 无照驾车是违法的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***illegally*** adv
 ---
@@ -1260,16 +573,6 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
 ---
 1. **不合法地；违法地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***illness*** n
@@ -1299,16 +602,6 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
 > develop a rare illness  
 > 得一种罕见的病
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***illuminate*** vt
 ---
@@ -1321,16 +614,6 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
 ---
 1. **照明, 照亮**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***illustrate*** vt
@@ -1358,17 +641,11 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
 > To illustrate my point, let me tell you a little story.  
 > 为了说明我的观点，我给你们讲个小故事吧。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 illustration /ˌɪlə'streɪʃn/ n [U] 
 illustrator /'ɪləstreɪtə(r)/ n [C]
-真题解析
----
-[null]
-
 
 # ***image*** n
 ---
@@ -1393,16 +670,6 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
 > Interestingly, our self-images are often quite different from the images others hold about us.  
 > 有趣的是，我们的自我形象和别人对我们的印象往往大相径庭。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***imaginary*** adj
 ---
@@ -1415,16 +682,6 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
 ---
 1. *高义频：* **想象中的；假想的；虚构的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***imagination*** n
@@ -1458,16 +715,6 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
 > You didn't really see anything — it was only imagination.  
 > 实际上你什么也没有看见，那只不过是幻觉而已。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***imaginative*** adj
 ---
@@ -1480,16 +727,6 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
 ---
 1. *高义频：* **富于想象力的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***imagine*** vt  重难点词汇
@@ -1554,15 +791,14 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
 > — I imagine so.   
 > 我想可以吧。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 imaginative /ɪ'mædʒɪnətɪv/ adj 
 imaginary /ɪ'mædʒɪnəri/ adj 
 > an imaginary world / friend  
 > 虚构的世界/假想的朋友
+
 
 真题解析
 ---
@@ -1574,7 +810,6 @@ There is nothing there — you are just ________ (想象) things!
 It is difficult to imagine his ________ (accept) the decision without any consideration.  
 ##### 答案 accepting  
   
-
 
 # ***imitate*** vt
 ---
@@ -1592,16 +827,10 @@ It is difficult to imagine his ________ (accept) the decision without any consid
 > 不要模仿他人，做你自己。
 
 当表示做和其他人一样的事情时用copy，不用imitate。
-固定搭配
----
-[null]
+
 派生词汇
 ---
 imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
-真题解析
----
-[null]
-
 
 # ***imitation*** n
 ---
@@ -1614,16 +843,6 @@ imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
 ---
 1. **模仿**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***immediate*** adj
@@ -1649,19 +868,13 @@ imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
 > Many species of parrots are in immediate danger of dying out.   
 > 许多种类的鹦鹉濒临灭绝的危险。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 If I find someone who looks like the suspect, my ________ (立即的) reaction will be to tell the police.   
 ##### 答案 immediate  
   
-
 
 # ***immediately*** adv
 ---
@@ -1677,16 +890,6 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 
 > When facing a hard question, most people can’t give an answer immediately.   
 > 面对棘手的问题，大多数人不能立即给出答案。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***immediately*** conj
@@ -1704,16 +907,6 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 > I left immediately the clock struck 12.  
 > 12点的钟声一响我就离开了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***immense*** adj
 ---
@@ -1726,16 +919,6 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 ---
 1. **极大的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***immigrant*** n
@@ -1751,16 +934,6 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 1. *高义频：* **(外来) 移民**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***immigrant*** adj
 ---
@@ -1773,16 +946,6 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 ---
 1. **移民的；移居的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***immigrate*** vi
@@ -1799,16 +962,6 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 
 > immigrate into a country  
 > 移居某一国家
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***immigration*** n
@@ -1830,16 +983,6 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 > Did the immigration people ask to see your visa?   
 > 移民局官员要求你出示签证了吗?
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***immune*** adj
 ---
@@ -1852,16 +995,6 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 ---
 1. **有免疫力的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***impact*** n
@@ -1888,16 +1021,6 @@ a powerful effect or influence：
 > French had a major impact on the English language.  
 > 法语对英语产生了重大影响。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***impair*** vt
 ---
@@ -1910,16 +1033,6 @@ a powerful effect or influence：
 ---
 1. **削弱；损伤**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***imperative*** n
@@ -1934,16 +1047,6 @@ a powerful effect or influence：
 1. **祈使语气；命令**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***imperial*** adj
 ---
@@ -1956,16 +1059,6 @@ a powerful effect or influence：
 ---
 1. **皇帝的，皇家的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***imply*** vt
@@ -1989,16 +1082,10 @@ a powerful effect or influence：
 > The teacher's smile implied that she had forgiven me.  
 > 老师的微笑表明她已经原谅了我。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
-真题解析
----
-[null]
-
 
 # ***impolite*** adj
 ---
@@ -2011,16 +1098,6 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
 ---
 1. **不礼貌的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***import*** vt
@@ -2039,16 +1116,6 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
 > China imports sugar from Cuba.   
 > 中国从古巴进口食糖。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***import*** n
 ---
@@ -2065,16 +1132,6 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
 > **Imports from**  
 > Imports from Africa included coffee, cocoa and olive oil.  
 > 从非洲进口的商品包括咖啡、可可和橄榄油。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***importance*** n
@@ -2102,16 +1159,6 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
 > As we all know, friendship is of great importance to everyone.   
 > 众所周知，友谊对每个人都很重要。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***important*** adj
 ---
@@ -2133,16 +1180,10 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
 > It is greatly important to try to keep a good relationship with other classmates.  
 > 努力和其他同学保持良好关系非常重要。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 importantly /ɪm'pɔːtntli/ adv [句子副词]
-真题解析
----
-[null]
-
 
 # ***impose*** vt
 ---
@@ -2155,16 +1196,6 @@ importantly /ɪm'pɔːtntli/ adv [句子副词]
 ---
 1. *高义频：* **强制实行；强加于**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***impossible*** adj
@@ -2186,19 +1217,17 @@ importantly /ɪm'pɔːtntli/ adv [句子副词]
 > It's impossible for me to be there before eight.  
 > 我不可能八点前到那里。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 impossibility /ɪmˌpɒsə'bɪləti/ n 
+
 真题解析
 ---
 ##### 题目  
 I consider it ________ (不可能) to believe a single word you say.  
 ##### 答案 impossible  
   
-
 
 # ***impress*** vt  重难点词汇
 ---
@@ -2236,16 +1265,6 @@ to try to make sb understand how important sth is：
 > The teacher impressed the importance of English on / upon me.   
 > 老师让我意识到英语的重要性。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***impression*** n
 ---
@@ -2275,12 +1294,11 @@ to try to make sb understand how important sth is：
 > I had the impression (that) we had met before.  
 > 我感觉我们以前见过。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 impressionist /ɪm'preʃənɪst/ n  [C]
+
 真题解析
 ---
 ##### 题目  
@@ -2288,7 +1306,6 @@ My ________ (第一印象) of him was that he was a kind and thoughtful young ma
   
 ##### 答案 first impression  
   
-
 
 # ***impressionism*** n
 ---
@@ -2301,16 +1318,6 @@ My ________ (第一印象) of him was that he was a kind and thoughtful young ma
 ---
 1. **印象主义；印象派**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***impressionist*** adj
@@ -2325,16 +1332,6 @@ My ________ (第一印象) of him was that he was a kind and thoughtful young ma
 1. **印象派的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***impressionist*** n
 ---
@@ -2347,16 +1344,6 @@ My ________ (第一印象) of him was that he was a kind and thoughtful young ma
 ---
 1. **印象派艺术家**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***impressive*** adj
@@ -2374,19 +1361,13 @@ My ________ (第一印象) of him was that he was a kind and thoughtful young ma
 > She was very impressive in the interview.   
 > 她在面试中表现得非常出色。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 What was so ________ (impress) about Jasmine Westland’s victory was that she came first in the marathon bare-footed.  
 ##### 答案 impressive  
   
-
 
 # ***improve*** v
 ---
@@ -2410,6 +1391,7 @@ What was so ________ (impress) about Jasmine Westland’s victory was that she c
 > We had better ask our teachers or classmates for advice on how to improve our writing.  
 > 我们最好向老师或同学们咨询如何提高写作水平。
 
+
 固定搭配
 ---
 - #### improve on / upon
@@ -2419,13 +1401,10 @@ What was so ________ (impress) about Jasmine Westland’s victory was that she c
 > Lily has scored 98 in the maths test, and I don't think anyone will improve on that.  
 > 莉莉数学考了98分，我看没人能超过这个分数。
 
+
 派生词汇
 ---
 improvement /ɪm'pruːvmənt/ n [U] & [C]
-真题解析
----
-[null]
-
 
 # ***improvisation*** n
 ---
@@ -2438,16 +1417,6 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 ---
 1. **即席演奏**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***improvise*** v
@@ -2462,16 +1431,6 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 1. **即兴演奏,即兴表演**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***impulse*** n
 ---
@@ -2484,16 +1443,6 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 ---
 1. **脉冲**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***in*** prep
@@ -2574,12 +1523,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 > in cash  
 > 用现金
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2590,7 +1534,6 @@ Jane is in a hurry because the train to the airport leaves ________ half an hour
 Try on this red skirt; you will look great ________ it.  
 ##### 答案 in  
   
-
 
 # ***in*** adv
 ---
@@ -2613,16 +1556,6 @@ Try on this red skirt; you will look great ________ it.
 > I’ll ring and see if he is in.  
 > 我要按门铃看他是否在家。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***in*** adj
 ---
@@ -2637,16 +1570,6 @@ Try on this red skirt; you will look great ________ it.
 1. *高义频：* **时尚的**  
 反义词 out 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***incense*** n
 ---
@@ -2660,16 +1583,6 @@ Try on this red skirt; you will look great ________ it.
 ---
 1. *高义频：* **熏香；熏香的烟**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***inch*** n
@@ -2688,6 +1601,7 @@ Try on this red skirt; you will look great ________ it.
 > I'm five feet six inches tall.  
 > 我身高5英尺6英寸。
 
+
 固定搭配
 ---
 - #### by an inch / inches
@@ -2703,13 +1617,6 @@ Try on this red skirt; you will look great ________ it.
 
 > I crawled in inch by inch.  
 > 我慢慢地爬了进去。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***incident*** n
@@ -2740,16 +1647,6 @@ sth that happens, especially sth unusual or unpleasant：
 
 ### 辨析 accident, incident, event
 三者都含有“事件”之意。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***include*** vt
 ---
@@ -2783,19 +1680,13 @@ to make sb / sth part of sth：
 > Robert had always wanted to include such a man in a story.  
 > 罗伯特一直希望故事里有这样一个人物。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 My duties will include ________ (introduce) British visitors to the 120 plus pandas at Chengdu.  
 ##### 答案 introducing  
   
-
 
 # ***including*** prep
 ---
@@ -2814,16 +1705,6 @@ My duties will include ________ (introduce) British visitors to the 120 plus pan
 
 > The table-tennis team will hold a range of activities,including some training and matches.  
 > 乒乓球队将举办一系列的活动，包括一些训练和比赛。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***income*** n
@@ -2846,19 +1727,13 @@ My duties will include ________ (introduce) British visitors to the 120 plus pan
 > The company has an income of $1 billion a year.  
 > 这家公司一年有十亿美元的收益。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Tourism is the major source of________(收入) for this area.   
 ##### 答案 income  
   
-
 
 # ***incorrectly*** adv
 ---
@@ -2871,16 +1746,6 @@ Tourism is the major source of________(收入) for this area.
 ---
 1. **不正确地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***increase*** v
@@ -2905,16 +1770,6 @@ Tourism is the major source of________(收入) for this area.
 > Travel increases one’s knowledge of the world.   
 > 旅行增进人们对世界的了解。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***increase*** n
 ---
@@ -2932,6 +1787,7 @@ Tourism is the major source of________(收入) for this area.
 > Not only do the nurses want a pay increase, they want reduced hours as well.  
 > 护士们不仅想要涨工资，还想要减少工作时间。
 
+
 固定搭配
 ---
 - #### on the increase
@@ -2941,9 +1797,7 @@ Tourism is the major source of________(收入) for this area.
 > A few years ago it was an endangered species, but now the population is on the increase.   
 > 几年前，它还是濒临灭绝的物种，但现在它们的数量在不断增加。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2951,7 +1805,6 @@ One of the consequences of our planet’s being warming up is a(n) ________ (增
 D.increase  
 ##### 答案 increase  
   
-
 
 # ***increasingly*** adv
 ---
@@ -2968,19 +1821,13 @@ D.increase
 > Reading is increasingly popular among children.  
 > 阅读越来越受孩子们喜欢。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Volunteering is becoming ________ (increasing) popular in China.  
 ##### 答案 increasingly  
   
-
 
 # ***incredible*** adj
 ---
@@ -3000,16 +1847,6 @@ Volunteering is becoming ________ (increasing) popular in China.
 > Incredible! See how much he has changed now.  
 > 真令人难以置信！看看他现在变化多大啊！
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***incredibly*** adv
 ---
@@ -3022,16 +1859,6 @@ Volunteering is becoming ________ (increasing) popular in China.
 ---
 1. **难以置信地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***indeed*** adv
@@ -3070,12 +1897,7 @@ Volunteering is becoming ________ (increasing) popular in China.
 > I was very sad indeed to hear about it.  
 > 听到这件事，我确实很难过。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3083,7 +1905,6 @@ Volunteering is becoming ________ (increasing) popular in China.
 — Yes, ________ (确实). The hosts know how to host a party.   
 ##### 答案 indeed  
   
-
 
 # ***independence*** n
 ---
@@ -3105,16 +1926,6 @@ Volunteering is becoming ________ (increasing) popular in China.
 > In 1821, the people of Mexico gained their independence from Spain.   
 > 1821年，墨西哥人民脱离西班牙获得了独立。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***independent*** adj
 ---
@@ -3135,16 +1946,10 @@ Volunteering is becoming ________ (increasing) popular in China.
 > Are you quite independent of your parents now?   
 > 你现在脱离父母自立了吗？
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 independently /ˌɪndɪ'pendəntli/ adv 
-真题解析
----
-[null]
-
 
 # ***index*** n
 ---
@@ -3158,16 +1963,6 @@ independently /ˌɪndɪ'pendəntli/ adv
 ---
 1. *高义频：* **(pl indexes / indices) 指数**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***indicate*** vt
@@ -3204,16 +1999,10 @@ to say or do sth to make your wishes, intentions etc. clearly：
 > He smiles and nods, indicating that everything is fine.  
 > 他微笑着点了点头，示意一切顺利。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 indication /ˌɪndɪ'keɪʃn/ n [C] & [U]
-真题解析
----
-[null]
-
 
 # ***indigenous*** adj
 ---
@@ -3226,16 +2015,6 @@ indication /ˌɪndɪ'keɪʃn/ n [C] & [U]
 ---
 1. **本地的,土生土长的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***individual*** adj
@@ -3257,16 +2036,6 @@ indication /ˌɪndɪ'keɪʃn/ n [C] & [U]
 > It is difficult for a teacher to give individual attention to children in a large class.  
 > 在人数多的班上教师很难照顾到每个孩子。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***individual*** n
 ---
@@ -3284,17 +2053,11 @@ indication /ˌɪndɪ'keɪʃn/ n [C] & [U]
 > Together, individuals can make a difference.  
 > 万众一心，众志成城。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 individualism /ˌɪndɪ'vɪdʒuəlɪzəm/ n [U] 
 individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
-真题解析
----
-[null]
-
 
 # ***indoor*** adj
 ---
@@ -3310,16 +2073,6 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 
 > an indoor swimming pool  
 > 室内游泳池
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***indoors*** adv
@@ -3337,16 +2090,6 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 > It rained all day so we had to stay indoors.  
 > 雨下了一整天，我们只好留在屋里。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***induce*** vt
 ---
@@ -3359,16 +2102,6 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 ---
 1. *高义频：* **劝诱；劝使**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***industrial*** adj
@@ -3386,16 +2119,6 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 > the Industrial Revolution  
 > 工业革命
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***industrialisation*** n
 ---
@@ -3408,16 +2131,6 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 ---
 1. **工业化**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***industry*** n
@@ -3440,16 +2153,6 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 > My ambition is to work in the computer industry when I grow up.  
 > 我的理想是长大后投身计算机行业。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***inequality*** n
 ---
@@ -3462,16 +2165,6 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 ---
 1. **不平等**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***inescapable*** adj
@@ -3486,16 +2179,6 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 1. **不可避免的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***infamous*** adj
 ---
@@ -3509,16 +2192,6 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 1. **臭名昭著的；声名狼藉的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***infant*** n
 ---
@@ -3531,16 +2204,6 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 ---
 1. *高义频：* **婴儿；幼儿**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***infect*** vt
@@ -3559,9 +2222,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 > Officials say that few patients are infected with the virus owing to the effective prevention.  
 > 官员说，由于有效预防，几乎没有几个人感染那种病毒。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 infected /ɪn'fektɪd/ adj 
@@ -3570,10 +2231,6 @@ infected /ɪn'fektɪd/ adj
 
 infection /ɪn'fekʃn/ n 
 infectious /ɪn'fekʃəs/ adj 
-真题解析
----
-[null]
-
 
 # ***infection*** n
 ---
@@ -3587,16 +2244,6 @@ infectious /ɪn'fekʃəs/ adj
 1. *高义频：* **[U] 传染 [C] 传染病**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***infectious*** adj
 ---
@@ -3609,16 +2256,6 @@ infectious /ɪn'fekʃəs/ adj
 ---
 1. *高义频：* **传染的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***infer*** vt
@@ -3641,16 +2278,10 @@ infectious /ɪn'fekʃəs/ adj
 > I inferred from his attitude that he didn't like her.  
 > 我从他的态度推断出他不喜欢她。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 inference  n 
-真题解析
----
-[null]
-
 
 # ***inflation*** n
 ---
@@ -3664,16 +2295,6 @@ inference  n
 ---
 1. *高义频：* **通货膨胀**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***influence*** n
@@ -3707,16 +2328,6 @@ the power to affect, change or control sb / sth：
 > His friends were a bad influence on him.  
 > 他的朋友对他产生了不良影响。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***influence*** vt
 ---
@@ -3733,19 +2344,13 @@ the power to affect, change or control sb / sth：
 > Confucius greatly influenced the development of China's culture and education.  
 > 孔子对中国文化和教育的发展产生了深远的影响。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Through the course of my schooling, I met many teachers, two ________ me greatly. 上学时遇到过很多老师，其中两位对我影响很大。  
 ##### 答案 of whom (have) influenced / of them having influenced  
   
-
 
 # ***influential*** adj
 ---
@@ -3758,16 +2363,6 @@ Through the course of my schooling, I met many teachers, two ________ me greatly
 ---
 1. **有影响的；有势力的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***inform*** vt
@@ -3793,16 +2388,6 @@ to tell sb about sth, especially in an official way：
 > We would like to inform all passengers that the restaurant car is now open.  
 > 我们想通知所有乘客，餐车现在开始营业。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***informal*** adj
 ---
@@ -3821,16 +2406,6 @@ to tell sb about sth, especially in an official way：
 
 > informal language  
 > 非正式语言
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***information*** n
@@ -3855,19 +2430,13 @@ to tell sb about sth, especially in an official way：
 > information age  
 > 信息时代
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Besides, they often get some useful informations from the Internet.  
 ##### 答案 informations → information  
   
-
 
 # ***informed*** adj
 ---
@@ -3893,16 +2462,6 @@ Besides, they often get some useful informations from the Internet.
 > I became well-informed about the subject.  
 > 我很了解这个主题。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ingredient*** n
 ---
@@ -3926,16 +2485,6 @@ Besides, they often get some useful informations from the Internet.
 > Hard work is a vital ingredient for success.  
 > 勤奋是成功的一个重要因素。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***inhabit*** v
 ---
@@ -3949,16 +2498,6 @@ Besides, they often get some useful informations from the Internet.
 1. **居住**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***inhabitant*** n
 ---
@@ -3971,16 +2510,6 @@ Besides, they often get some useful informations from the Internet.
 ---
 1. **居民**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***inherit*** v
@@ -4006,16 +2535,6 @@ Besides, they often get some useful informations from the Internet.
 > She inherited her mother's curly hair. / She inherited curly hair from her mother.  
 > 她遗传了她妈妈的卷发。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***inhospitable*** adj
 ---
@@ -4028,16 +2547,6 @@ Besides, they often get some useful informations from the Internet.
 ---
 1. **荒凉的；不适宜居住的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***initial*** adj
@@ -4058,16 +2567,6 @@ Besides, they often get some useful informations from the Internet.
 > the initial letter of a word  
 > 单词的首字母
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***initial*** n
 ---
@@ -4080,16 +2579,6 @@ Besides, they often get some useful informations from the Internet.
 ---
 1. **首字母**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***initially*** adv
@@ -4104,16 +2593,6 @@ Besides, they often get some useful informations from the Internet.
 1. **起初**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***inject*** vt
 ---
@@ -4127,16 +2606,10 @@ Besides, they often get some useful informations from the Internet.
 1. *高义频：* **注射；注入**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 injection /ɪn'dʒekʃn/ n [C] & [U] 
-真题解析
----
-[null]
-
 
 # ***injection*** n
 ---
@@ -4150,16 +2623,6 @@ injection /ɪn'dʒekʃn/ n [C] & [U]
 ---
 1. *高义频：* **注射；注射剂**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***injure*** vt
@@ -4186,19 +2649,13 @@ injection /ɪn'dʒekʃn/ n [C] & [U]
 
 ### 辨析 damage, hurt, injure, wound
 四者皆有“伤害”之意。
-固定搭配
----
-[null]
+
 派生词汇
 ---
 injured /'ɪndʒəd/ adj 
 > **be seriously,injured**  
 > be seriously / slightly injured  
 > 受重/轻伤
-
-真题解析
----
-[null]
 
 
 # ***injured*** adj
@@ -4212,16 +2669,6 @@ injured /'ɪndʒəd/ adj
 ---
 1. **受伤的；委屈的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***injury*** n
@@ -4252,16 +2699,6 @@ injured /'ɪndʒəd/ adj
 > personal injury  
 > 人身伤害
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ink*** n
 ---
@@ -4276,16 +2713,6 @@ injured /'ɪndʒəd/ adj
 1. *高义频：* **墨水**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***inland*** adj
 ---
@@ -4298,16 +2725,6 @@ injured /'ɪndʒəd/ adj
 ---
 1. **内地的；内陆的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***inn*** n
@@ -4322,16 +2739,6 @@ injured /'ɪndʒəd/ adj
 ---
 1. *高义频：* **小旅馆；客栈**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***inner*** adj
@@ -4351,16 +2758,6 @@ injured /'ɪndʒəd/ adj
 
 > the inner feelings   
 > 内心的感情
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***innocent*** adj
@@ -4388,16 +2785,10 @@ injured /'ɪndʒəd/ adj
 > an innocent face   
 > 一张天真无邪的脸
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 innocence /'ɪnəsns/ n [U] 
-真题解析
----
-[null]
-
 
 # ***innovate*** v
 ---
@@ -4410,16 +2801,6 @@ innocence /'ɪnəsns/ n [U]
 ---
 1. *高义频：* **创新；革新**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***input*** n
@@ -4437,16 +2818,6 @@ innocence /'ɪnəsns/ n [U]
 > The input you give your children during study periods will help make studying enjoyable.  
 > 在学习期间，你对孩子们的倾注会使得学习更有乐趣。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***inquisitive*** adj
 ---
@@ -4459,16 +2830,6 @@ innocence /'ɪnəsns/ n [U]
 ---
 1. **好奇的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***insect*** n
@@ -4483,16 +2844,6 @@ innocence /'ɪnəsns/ n [U]
 ---
 1. *高义频：* **昆虫；虫**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***insert*** vt
@@ -4510,16 +2861,6 @@ innocence /'ɪnəsns/ n [U]
 > insert a key in / into a lock   
 > 将钥匙插入锁孔
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***inside*** prep
 ---
@@ -4535,16 +2876,6 @@ innocence /'ɪnəsns/ n [U]
 
 > She has many memories locked inside her heart.   
 > 她内心深藏着许多记忆。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***inside*** adv
@@ -4565,16 +2896,6 @@ innocence /'ɪnəsns/ n [U]
 > Let's go inside.  
 > 我们到里面去。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***inside*** n
 ---
@@ -4592,6 +2913,7 @@ innocence /'ɪnəsns/ n [U]
 > The door is locked from the inside.   
 > 门从里面反锁上了。
 
+
 固定搭配
 ---
 - #### inside out 
@@ -4600,13 +2922,6 @@ innocence /'ɪnəsns/ n [U]
 
 > The kids were wearing their shirts inside out.   
 > 孩子们把衬衫穿反了。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***inside*** adj
@@ -4624,16 +2939,6 @@ innocence /'ɪnəsns/ n [U]
 > inside information  
 > 内部消息
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***insight*** n
 ---
@@ -4646,16 +2951,6 @@ innocence /'ɪnəsns/ n [U]
 ---
 1. *高义频：* **[C] 深入了解；顿悟；[U] 洞察力；眼光：**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***insist*** v  重难点词汇
@@ -4707,12 +3002,7 @@ to say firmly that sth is true, especially when others don’t believe you：
 > 他坚持认为自己是对的。
 
 insist表示“坚持”和“坚决要求”时，that从句中用虚拟语气；而表示“坚持说”和“坚持认为”时则不用。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4720,7 +3010,6 @@ The man insisted on________ (find) a taxi for me even though I told him I lived 
   
 ##### 答案 finding  
   
-
 
 # ***inspect*** vt
 ---
@@ -4742,16 +3031,10 @@ The man insisted on________ (find) a taxi for me even though I told him I lived 
 
 ### 辨析 check, examine, inspect, test
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 inspector /ɪn'spektə(r)/ n [C]
-真题解析
----
-[null]
-
 
 # ***inspiration*** n
 ---
@@ -4770,16 +3053,6 @@ inspector /ɪn'spektə(r)/ n [C]
 
 > He gave me the inspiration to pick up my pen again.  
 > 他鼓舞我重新拿起笔（写作）。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***inspire*** vt
@@ -4818,17 +3091,11 @@ to give sb the idea for sth：
 > This piece of music was inspired by dolphin sounds.  
 > 这首乐曲的创作灵感来自海豚的叫声。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 inspired /ɪn'spaɪəd/ adj 
 inspiring /ɪn'spaɪərɪŋ/ adj 
-真题解析
----
-[null]
-
 
 # ***inspiring*** adj
 ---
@@ -4842,16 +3109,6 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 1. **鼓舞人心的，启发灵感的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***install*** vt
 ---
@@ -4864,16 +3121,6 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 ---
 1. *高义频：* **安装；设置**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***instance*** n
@@ -4893,16 +3140,6 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 > for instance (= for example)  
 > 例如
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***instant*** adj
 ---
@@ -4921,16 +3158,6 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 
 > instant coffee / noodles   
 > 速溶咖啡/方便面
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***instant*** n
@@ -4954,6 +3181,7 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 > In an instant, he took off his coat and jumped into the water.  
 > 他立即脱下外衣，跳入水中。
 
+
 固定搭配
 ---
 - #### the instant (that) 
@@ -4963,13 +3191,10 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 > The instant (= As soon as) she stopped asking questions, I got up and went out of the room.  
 > 她一停止问问题，我就起身走出了房间。
 
+
 派生词汇
 ---
 instantly /'ɪnstəntli/ adv 
-真题解析
----
-[null]
-
 
 # ***instantly*** adv
 ---
@@ -4982,16 +3207,6 @@ instantly /'ɪnstəntli/ adv
 ---
 1. **立即；马上**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***instead*** adv
@@ -5009,6 +3224,7 @@ instantly /'ɪnstəntli/ adv
 > Jack didn't study law. Instead, he decided to become a doctor.  
 > 杰克没有学习法律，而是决定当医生。
 
+
 固定搭配
 ---
 - #### instead of
@@ -5024,16 +3240,13 @@ instantly /'ɪnstəntli/ adv
 > Instead of blaming each other, we should communicate more.  
 > 我们应该多沟通，而不是互相指责。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The young man couldn't afford a new car. ________ (作为替代), he bought a used one.  
 ##### 答案 Instead  
   
-
 
 # ***institute*** n
 ---
@@ -5054,16 +3267,6 @@ The young man couldn't afford a new car. ________ (作为替代), he bought a us
 > an institute for research in English teaching   
 > 英语教学研究所
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***institution*** n
 ---
@@ -5083,16 +3286,6 @@ The young man couldn't afford a new car. ________ (作为替代), he bought a us
 
 > institutions of higher education  
 > 高等学校
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***instruct*** vt
@@ -5134,17 +3327,11 @@ to officially tell sb to do sth (order)：
 3. *低义频：* **[常用于被动语态] 通知**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 instructive /ɪn'strʌktɪv/ adj 
 instructor /ɪn'strʌktə(r)/ n [C]
-真题解析
----
-[null]
-
 
 # ***instruction*** n
 ---
@@ -5179,19 +3366,13 @@ instructor /ɪn'strʌktə(r)/ n [C]
 > Read the instructions on medicine thoroughly.  
 > 仔细阅读药品说明。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Always read the ________ (instruction) on the bottle carefully and take the right amount of medicine.  
 ##### 答案 instructions  
   
-
 
 # ***instructor*** n
 ---
@@ -5204,16 +3385,6 @@ Always read the ________ (instruction) on the bottle carefully and take the righ
 ---
 1. **教练；导师**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***instrument*** n
@@ -5232,16 +3403,6 @@ Always read the ________ (instruction) on the bottle carefully and take the righ
 > musical / scientific instruments   
 > 乐器/科学仪器
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***insult*** vt
 ---
@@ -5257,16 +3418,6 @@ Always read the ________ (instruction) on the bottle carefully and take the righ
 
 > insult sb's intelligence  
 > 侮辱某人的智商
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***insult*** n
@@ -5285,16 +3436,10 @@ Always read the ________ (instruction) on the bottle carefully and take the righ
 > Their offer was so low I took it as an insult.   
 > 他们的出价太低，我认为是一种侮辱。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 insulting /ɪn'sʌltɪŋ/ adj 
-真题解析
----
-[null]
-
 
 # ***insurance*** n
 ---
@@ -5321,16 +3466,6 @@ insulting /ɪn'sʌltɪŋ/ adj
 > A balanced diet is an insurance against malnutrition.  
 > 均衡的饮食可以防止营养不良。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***insure*** vt
 ---
@@ -5348,16 +3483,6 @@ insulting /ɪn'sʌltɪŋ/ adj
 > My house is insured against fire and theft.   
 > 我的房子上了火灾险和防盗险。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***intact*** adj
 ---
@@ -5370,16 +3495,6 @@ insulting /ɪn'sʌltɪŋ/ adj
 ---
 1. **完好无损的，完整的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***intake*** n
@@ -5394,16 +3509,6 @@ insulting /ɪn'sʌltɪŋ/ adj
 1. **吸入；招收；入口；通风口**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***intangible*** adj
 ---
@@ -5417,16 +3522,6 @@ insulting /ɪn'sʌltɪŋ/ adj
 1. **无形的，难以捉摸的，无法形容的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***intellectual*** adj
 ---
@@ -5439,16 +3534,6 @@ insulting /ɪn'sʌltɪŋ/ adj
 ---
 1. *高义频：* **智力的；脑力的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***intelligence*** n
@@ -5475,16 +3560,6 @@ insulting /ɪn'sʌltɪŋ/ adj
 > Use your intelligence, and you’re sure to achieve something.   
 > 发挥你的聪明才智，你一定能取得成就。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***intelligent*** adj
 ---
@@ -5500,16 +3575,6 @@ insulting /ɪn'sʌltɪŋ/ adj
 
 > intelligent students / questions  
 > 聪明的学生/机智的问题
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***intend*** vt
@@ -5547,9 +3612,7 @@ to plan or mean to do sth：
 > I intend no harm.   
 > 我没有恶意。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 intended /ɪn'tendɪd/ adj 
@@ -5560,10 +3623,6 @@ intended /ɪn'tendɪd/ adj
 > **is intended to**  
 > His visit is intended to strengthen ties between the two countries.  
 > 他此次访问旨在增进两国间的关系。
-
-真题解析
----
-[null]
 
 
 # ***intense*** adj
@@ -5578,16 +3637,6 @@ intended /ɪn'tendɪd/ adj
 1. *高义频：* **强烈的；激烈的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***intensity*** n
 ---
@@ -5600,16 +3649,6 @@ intended /ɪn'tendɪd/ adj
 ---
 1. **（光、声等的）强度**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***intention*** n
@@ -5637,16 +3676,6 @@ intended /ɪn'tendɪd/ adj
 > This program was set up with the intention of providing help for homeless people.  
 > 设立这个项目是为了帮助无家可归的人。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***interact*** vi
 ---
@@ -5663,16 +3692,6 @@ intended /ɪn'tendɪd/ adj
 > **interacts,with**  
 > Lucy interacts well with other children in the class.  
 > 露西和班里的其他孩子相处得很好。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***interest*** n
@@ -5730,16 +3749,6 @@ intended /ɪn'tendɪd/ adj
 > Make decisions in the best interests of (= be the best thing for) their own.  
 > 作对他们最有利的决定。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***interest*** vt
 ---
@@ -5755,16 +3764,6 @@ intended /ɪn'tendɪd/ adj
 
 > Here's an article which might interest you.  
 > 这里有篇文章，也许你会感兴趣。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***interested*** adj
@@ -5797,19 +3796,13 @@ intended /ɪn'tendɪd/ adj
 > I'm quite interested to learn what you think.  
 > 我很有兴趣了解你的想法。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 In their spare time, they are interesting in planting vegetables in their garden.  
 ##### 答案 interesting → interested  
   
-
 
 # ***interesting*** adj
 ---
@@ -5832,16 +3825,6 @@ In their spare time, they are interesting in planting vegetables in their garden
 > You can write anything relevant so long as it's interesting and informative.  
 > 你可以写任何相关的内容，只要它能寓教于乐。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***interestingly*** adv
 ---
@@ -5854,16 +3837,6 @@ In their spare time, they are interesting in planting vegetables in their garden
 ---
 1. **有趣地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***interfere*** vi
@@ -5881,16 +3854,6 @@ In their spare time, they are interesting in planting vegetables in their garden
 > I wish my mother would stop interfering and let me make my own decisions.  
 > 我希望妈妈不再干预我，让我自己作决定。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***interior*** n
 ---
@@ -5903,16 +3866,6 @@ In their spare time, they are interesting in planting vegetables in their garden
 ---
 1. *高义频：* **内部；里面**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***interior*** adj
@@ -5931,16 +3884,6 @@ In their spare time, they are interesting in planting vegetables in their garden
 > interior design  
 > 室内设计
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***intermediate*** adj
 ---
@@ -5953,16 +3896,6 @@ In their spare time, they are interesting in planting vegetables in their garden
 ---
 1. *高义频：* **(班级 / 课程等) 中级的；(水平) 中等的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***internal*** adj
@@ -5986,16 +3919,6 @@ In their spare time, they are interesting in planting vegetables in their garden
 > internal doubts   
 > 内心的疑虑
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***international*** adj
 ---
@@ -6012,16 +3935,6 @@ In their spare time, they are interesting in planting vegetables in their garden
 > a pianist with an international reputation   
 > 具有国际声誉的钢琴家
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***internationalize*** vt
 ---
@@ -6035,16 +3948,6 @@ In their spare time, they are interesting in planting vegetables in their garden
 1. **使国际化； 把 ... 置于国际共管之下**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***interpersonal*** adj
 ---
@@ -6057,16 +3960,6 @@ In their spare time, they are interesting in planting vegetables in their garden
 ---
 1. **人际关系的，人与人之间的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***interpret*** v
@@ -6092,16 +3985,10 @@ to explain the meaning of sth：
 > She couldn't speak English so her children had to interpret for her.  
 > 她不会讲英语，所以她的孩子们得给她翻译。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 interpretation /ɪnˌtɜːprɪ'teɪʃn/ n [C] & [U]
-真题解析
----
-[null]
-
 
 # ***interpreter*** n
 ---
@@ -6115,16 +4002,6 @@ interpretation /ɪnˌtɜːprɪ'teɪʃn/ n [C] & [U]
 ---
 1. *高义频：* **传译员；口译者**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***interrupt*** v
@@ -6151,19 +4028,17 @@ interpretation /ɪnˌtɜːprɪ'teɪʃn/ n [C] & [U]
 > Traffic was interrupted by floods.   
 > 交通被洪水阻断。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 interruption /ˌɪntə'rʌpʃn/ n [U] & [C] 
+
 真题解析
 ---
 ##### 题目  
 Will you stop _______ (打断) me when I’m talking?  
 ##### 答案 interrupting  
   
-
 
 # ***interval*** n
 ---
@@ -6188,16 +4063,6 @@ Will you stop _______ (打断) me when I’m talking?
 > In between parts of a play, there is often an interval.  
 > 在一场剧的两部分之间，常有幕间休息。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***interview*** n
 ---
@@ -6217,16 +4082,6 @@ Will you stop _______ (打断) me when I’m talking?
 
 > attend / go for an interview   
 > 参加面试
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***interview*** vt
@@ -6249,17 +4104,11 @@ Will you stop _______ (打断) me when I’m talking?
 > We interviewed ten people for the job.   
 > 这个职位我们面试了10个人。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 interviewee /ˌɪntəvjuː'iː/ n [C]
 interviewer  /'ɪntəvjuːə(r)/ n [C] 
-真题解析
----
-[null]
-
 
 # ***interviewee*** n
 ---
@@ -6274,16 +4123,6 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 1. *高义频：* **参加面试者；接受采访者**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***interviewer*** n
 ---
@@ -6296,16 +4135,6 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 ---
 1. **（面试时的）主考官；面谈者**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***intestine*** n
@@ -6320,16 +4149,6 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 1. **（常复）肠**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***intimate*** adj
 ---
@@ -6342,16 +4161,6 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 ---
 1. **亲密的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***into*** prep
@@ -6393,16 +4202,6 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 > The police made an investigation into the events leading up to her death.   
 > 警方对导致她死亡的事件进行了调查。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***intonation*** n
 ---
@@ -6415,16 +4214,6 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 ---
 1. **语调**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***introduce*** vt
@@ -6469,16 +4258,6 @@ introduce不接双宾语。
 > Some friends introduced me to camping.  
 > 一些朋友让我初次尝试露营。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***introduction*** n
 ---
@@ -6515,19 +4294,13 @@ introduce不接双宾语。
 > He made the introductions at the party.   
 > 他在晚会上对大家做了介绍。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 This development was only possible with the ________ (introduce) of electric-powered engines and lifts.  
 ##### 答案 introduction  
   
-
 
 # ***invade*** v
 ---
@@ -6548,16 +4321,10 @@ This development was only possible with the ________ (introduce) of electric-pow
 > invade sb's privacy  
 > 侵犯某人的隐私
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 invasion /ɪn'veɪʒn/ n [C] & [U]
-真题解析
----
-[null]
-
 
 # ***invader*** n
 ---
@@ -6572,16 +4339,6 @@ invasion /ɪn'veɪʒn/ n [C] & [U]
 1. *高义频：* **侵略者**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***invaluable*** adj
 ---
@@ -6594,16 +4351,6 @@ invasion /ɪn'veɪʒn/ n [C] & [U]
 ---
 1. *高义频：* **无价的；极宝贵的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***invasion*** n
@@ -6622,16 +4369,6 @@ invasion /ɪn'veɪʒn/ n [C] & [U]
 > **invasion of**  
 > an invasion of privacy   
 > 对隐私的侵犯
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***invent*** vt
@@ -6655,16 +4392,10 @@ invasion /ɪn'veɪʒn/ n [C] & [U]
 > We must invent an excuse for being late.   
 > 我们得为迟到编一个理由。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 inventor  /ɪn'ventə(r)/ n [C] 
-真题解析
----
-[null]
-
 
 # ***invention*** n
 ---
@@ -6693,16 +4424,6 @@ inventor  /ɪn'ventə(r)/ n [C]
 > The story was a complete invention.   
 > 本故事纯属虚构。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***inventor*** n
 ---
@@ -6715,16 +4436,6 @@ inventor  /ɪn'ventə(r)/ n [C]
 ---
 1. **发明家**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***invest*** v
@@ -6746,16 +4457,6 @@ inventor  /ɪn'ventə(r)/ n [C]
 > I invested all my energy in my job.  
 > 我把全部精力投入到工作中。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***investigate*** v
 ---
@@ -6772,16 +4473,10 @@ inventor  /ɪn'ventə(r)/ n [C]
 > The police are investigating the robbery.   
 > 警方正在调查这起抢劫案。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 investigation /ɪnˌvestɪ'ɡeɪʃn/ n [U] & [C] 
-真题解析
----
-[null]
-
 
 # ***investigation*** n
 ---
@@ -6799,16 +4494,6 @@ investigation /ɪnˌvestɪ'ɡeɪʃn/ n [U] & [C]
 > We all agree that once the conclusion of the investigation is drawn, it will be made known to the public as soon as possible.   
 > 我们一致同意一旦得出调查结论，就尽早让公众知晓。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***invisible*** adj
 ---
@@ -6824,16 +4509,6 @@ investigation /ɪnˌvestɪ'ɡeɪʃn/ n [U] & [C]
 
 > You can see the stars on a clear night, but in the daytime they are invisible.   
 > 你可以在晴朗的夜空看到这些星星，但是在白天它们是看不到的。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***invitation*** n
@@ -6873,19 +4548,13 @@ investigation /ɪnˌvestɪ'ɡeɪʃn/ n [U] & [C]
 > Leaving the car unlocked is just an open invitation to thieves.   
 > 汽车不上锁容易招贼。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 She has turned down several ________ (invitation) to star at shows in order to concentrate on her studies.  
 ##### 答案 invitations  
   
-
 
 # ***invite*** vt
 ---
@@ -6922,19 +4591,13 @@ to ask sb formally to do sth：
 3. *低义频：* **招致 (尤指坏事)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 When summer comes, they will invite their students pick the fresh vegetables!  
 ##### 答案 pick 前加to  
   
-
 
 # ***involve*** vt  重难点词汇
 ---
@@ -6976,19 +4639,17 @@ to make sb take part in sth：
 > Students should involve themselves in community activities where they can gain experience for growth.  
 > 学生应该参加社区活动，在那里他们能够获得成长的经验。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 involvement /ɪn'vɒlvmənt/ n [U]
+
 真题解析
 ---
 ##### 题目  
 Michelle found a job as a high school teacher which involves ________ (spend) quite a lot of time with students.  
 ##### 答案 spending  
   
-
 
 # ***involved*** adj
 ---
@@ -7014,16 +4675,6 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 > Fathers are encouraged to be more involved with their children.  
 > 父亲应该更多和自己的孩子在一起。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***iron*** n
 ---
@@ -7046,16 +4697,6 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 > an electric iron   
 > 电熨斗
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***iron*** v
 ---
@@ -7071,16 +4712,6 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 
 > I'll need to iron that dress.  
 > 我得把那件连衣裙熨一熨。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***iron*** adj
@@ -7099,16 +4730,6 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 > an iron will / a will of iron  
 > 坚强的意志
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***irregular*** adj
 ---
@@ -7121,16 +4742,6 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 ---
 1. **不规则的；无规律的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***irrigation*** n
@@ -7146,16 +4757,6 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 1. *高义频：* **灌溉**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***irritate*** v
 ---
@@ -7168,16 +4769,6 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 ---
 1. **（尤指不断重复做某事而）使（人长期）烦躁**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***island*** n
@@ -7193,16 +4784,6 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 1. *高义频：* **岛；岛状物**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***isolated*** adj
 ---
@@ -7215,16 +4796,6 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 ---
 1. **孤单的；孤立的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***issue*** n  重难点词汇
@@ -7267,16 +4838,6 @@ one of a regular series of magazines or newspapers：
 > I'm reading the last issue of the paper.  
 > 我在读上一期的报纸。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***issue*** vt  重难点词汇
 ---
@@ -7313,16 +4874,6 @@ one of a regular series of magazines or newspapers：
 
 > issue a set of stamps   
 > 发行一套邮票
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***it*** pron
@@ -7396,12 +4947,7 @@ one of a regular series of magazines or newspapers：
 > It was on Monday night that all this happened.   
 > 所有这一切都是在周一夜里发生的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -7422,7 +4968,6 @@ Why don't you bring _______ to his attention that you're too ill to work on?
 ##### 答案 it  
   
 
-
 # ***italics*** n
 ---
 英音 ɪ'tælɪks     美音 ɪ'tælɪks
@@ -7434,16 +4979,6 @@ Why don't you bring _______ to his attention that you're too ill to work on?
 ---
 1. *高义频：* **(pl) 斜体 (字)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***item*** n
@@ -7474,16 +5009,6 @@ Why don't you bring _______ to his attention that you're too ill to work on?
 > What is the first news item mainly about?   
 > 第一条新闻主要是关于什么的？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***its*** pron
 ---
@@ -7501,19 +5026,13 @@ Why don't you bring _______ to his attention that you're too ill to work on?
 > The book has lost its cover.   
 > 这本书的封面没了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 On my recent visit, I held a lively three-monthold panda that had been rejected by ________  (it) mother.  
 ##### 答案 its  
   
-
 
 # ***itself*** pron
 ---
@@ -7533,6 +5052,7 @@ On my recent visit, I held a lively three-monthold panda that had been rejected 
 > History repeats itself.  
 > 历史重演。
 
+
 固定搭配
 ---
 - #### by itself 
@@ -7542,9 +5062,7 @@ On my recent visit, I held a lively three-monthold panda that had been rejected 
 > The tree stands by itself in the garden.   
 > 那棵树孤零零地立在花园中。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -7556,7 +5074,6 @@ Surprisingly, Susan's beautiful hair reached below her knees and made ________ (
 Isn't it amazing how the human body heals ________ (it) after an injury?  
 ##### 答案 itself  
   
-
 
 # ***ivory*** n
 ---
@@ -7571,13 +5088,4 @@ Isn't it amazing how the human body heals ________ (it) after an injury?
 1. *高义频：* **象牙**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 

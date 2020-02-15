@@ -1,236 +1,4 @@
-
-# ***HIV*** 
----
-英音 ˌeɪtʃaɪ'viː     美音 ˌeɪtʃaɪ'viː
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  (Human Immunodeficiency Virus) 
-
-英文释义
----
-1. *高义频：* **人体免疫缺损病毒 (艾滋病病毒)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Halloween*** n
----
-英音 ˌhæləʊ'iːn     美音 ˌhæloʊ'iːn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
-
-英文释义
----
-1. *高义频：* **万圣节前夕；诸圣日前夕**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Hannibal*** n
----
-英音 ˈhænibəl     美音 ˈhænibəl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **汉尼拔 (美国城市)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Hari*** n
----
-英音 'hæri     美音 'hæri
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **哈利 (男名)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Higgins*** 
----
-英音 'hɪɡɪns     美音 'hɪɡɪns
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **希金斯 (姓)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Hindu*** n
----
-英音 'hɪnduː     美音 'hɪnduː
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **印度人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Hippomenes*** n
----
-英音 hi'pɔməni:z     美音 hi'pɔməni:z
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **希波墨涅斯 (男名；古希腊人名)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Hispanic*** n
----
-英音 hɪ'spænɪk     美音 hɪ'spænɪk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
-
-英文释义
----
-1. *高义频：* **(美) 讲西班牙语的美国人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Hispanic*** adj
----
-英音 hɪ'spænɪk     美音 hɪ'spænɪk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **与说西班牙语 (葡萄牙语) 国家有关的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Hollywood*** n
----
-英音 'hɒliwʊd     美音 'hɑːliwʊd
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **好莱坞**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
+# Hh
 
 # ***ha*** int
 ---
@@ -243,16 +11,6 @@
 ---
 1. *高义频：* **[表示惊异、愉快、怀疑、胜利等] 嘿；哈；看；瞧**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***habit*** n
@@ -273,6 +31,7 @@
 
 > Habit is second nature.   
 > 习惯成自然。
+
 
 固定搭配
 ---
@@ -314,9 +73,7 @@
 > I only do it out of habit.  
 > 我这么做仅仅是出于习惯。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -327,7 +84,6 @@ Jeff has the ________(习惯) of listening to music while reading.
 I'm trying to ________ (改掉习惯) of getting up too late.  
 ##### 答案 break / kick the habit  
   
-
 
 # ***habitat*** n
 ---
@@ -340,16 +96,6 @@ I'm trying to ________ (改掉习惯) of getting up too late.
 ---
 1. *高义频：* **[C] & [U] (动物) 栖息地；(植物) 生长地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hacker*** n
@@ -364,16 +110,6 @@ I'm trying to ________ (改掉习惯) of getting up too late.
 1. **电脑黑客**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***haiku*** n
 ---
@@ -387,16 +123,6 @@ I'm trying to ________ (改掉习惯) of getting up too late.
 ---
 1. *高义频：* **俳句**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hair*** n
@@ -426,16 +152,6 @@ hair作为不可数名词时，指“头发”这种物 质；作为可数名词
 > There are two grey hairs on her collar.   
 > 她衣领上有两根白发。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***haircut*** n
 ---
@@ -459,16 +175,6 @@ hair作为不可数名词时，指“头发”这种物 质；作为可数名词
 > What do you think of my new haircut?  
 > 你觉得我的新发型怎么样？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hairdresser*** n
 ---
@@ -487,16 +193,6 @@ hair作为不可数名词时，指“头发”这种物 质；作为可数名词
 > the hairdresser's  
 > 理发店；发廊
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hairpin*** n
 ---
@@ -509,16 +205,6 @@ hair作为不可数名词时，指“头发”这种物 质；作为可数名词
 ---
 1. **发卡,发夹**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hairstyle*** n
@@ -533,16 +219,6 @@ hair作为不可数名词时，指“头发”这种物 质；作为可数名词
 1. **发型**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hairy*** adj
 ---
@@ -555,16 +231,6 @@ hair作为不可数名词时，指“头发”这种物 质；作为可数名词
 ---
 1. **毛的；多毛的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***half*** n
@@ -597,16 +263,6 @@ hair作为不可数名词时，指“头发”这种物 质；作为可数名词
 > France played very well in the first half.   
 > 上半场，法国队发挥得不错。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***half*** pron
 ---
@@ -629,16 +285,6 @@ hair作为不可数名词时，指“头发”这种物 质；作为可数名词
 > 这五十个问题中只有一半回答正确。
 
  half of …，some of …，all of …，most of … 等作主语时，谓语动词的数与of后的词一致。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***half*** adj
 ---
@@ -661,16 +307,6 @@ hair作为不可数名词时，指“头发”这种物 质；作为可数名词
 > 我们不仅损失了一部分钱，而且还失去了一部分旅行的乐趣。
 
 half，all，both等作定语时，常位于定冠词或物主代词之前。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***half*** adv
 ---
@@ -693,16 +329,6 @@ half，all，both等作定语时，常位于定冠词或物主代词之前。
 
 > Don't leave the work half done.  
 > 工作不要半途而废。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***halfway*** adj
@@ -728,16 +354,6 @@ half，all，both等作定语时，常位于定冠词或物主代词之前。
 > When we reached the halfway point of the project, things began to get more difficult.  
 > 当我们的项目做到一半时，情况开始变得更加困难。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***halfway*** adv
 ---
@@ -761,16 +377,6 @@ half，all，both等作定语时，常位于定冠词或物主代词之前。
 > **halfway there**  
 > Establish the right relationship at work and you're halfway there.  
 > 在工作中建立良好的人际关系，你就成功了一半。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hall*** n
@@ -798,16 +404,6 @@ half，all，both等作定语时，常位于定冠词或物主代词之前。
 > She ran into the hall and up the stairs.   
 > 她跑进门厅，冲上楼梯。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ham*** n
 ---
@@ -820,16 +416,6 @@ half，all，both等作定语时，常位于定冠词或物主代词之前。
 ---
 1. *高义频：* **[C] & [U] 火腿**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hamburger*** n
@@ -844,16 +430,6 @@ half，all，both等作定语时，常位于定冠词或物主代词之前。
 1. *高义频：* **[C] 汉堡包**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hammer*** n
 ---
@@ -866,16 +442,6 @@ half，all，both等作定语时，常位于定冠词或物主代词之前。
 ---
 1. *高义频：* **[C] 锤子；榔头**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hammer*** v
@@ -893,16 +459,6 @@ half，all，both等作定语时，常位于定冠词或物主代词之前。
 > **hammered,into**  
 > He hammered a nail into the wood with a hammer.  
 > 他用锤子把钉子敲进木头里。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hand*** n  重难点词汇
@@ -949,6 +505,7 @@ half，all，both等作定语时，常位于定冠词或物主代词之前。
 > **lent a helping hand**  
 > I have lent a helping hand to my teacher in several English activities of my class.  
 > 在班里举行的几次英语活动中，我都给老师帮忙了。
+
 
 固定搭配
 ---
@@ -997,16 +554,13 @@ half，all，both等作定语时，常位于定冠词或物主代词之前。
 > On the one hand, computers improve the working efficiency; on the other hand, they also bring about some new problems.   
 > 一方面，计算机提高了人们的工作效率，另一方面，也引起了一些新的问题。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Starting your own business could be a way to achieving financial independence. __________ (另一方面), it could just put you in debt.  
 ##### 答案 On the other (hand)  
   
-
 
 # ***hand*** vt  重难点词汇
 ---
@@ -1023,6 +577,7 @@ Starting your own business could be a way to achieving financial independence. _
 > **hand_2,to**  
 > Please hand me that chair. / Please hand that chair to me.  
 > 请把那把椅子递给我。
+
 
 固定搭配
 ---
@@ -1062,16 +617,13 @@ Starting your own business could be a way to achieving financial independence. _
 > On his retirement, he handed the business over to his son.  
 > 他退休时把生意移交给了他的儿子。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 It is certain that he will hand_________his business to his son when he gets old.  
 ##### 答案 over  
   
-
 
 # ***handbag*** n
 ---
@@ -1085,16 +637,6 @@ It is certain that he will hand_________his business to his son when he gets old
 1. *高义频：* **(女用) 手提包 (AmE purse)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***handclap*** n
 ---
@@ -1107,16 +649,6 @@ It is certain that he will hand_________his business to his son when he gets old
 ---
 1. **拍手**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***handful*** n
@@ -1139,16 +671,6 @@ It is certain that he will hand_________his business to his son when he gets old
 > three handfuls of beans   
 > 三把豆子
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***handkerchief*** n
 ---
@@ -1161,16 +683,6 @@ It is certain that he will hand_________his business to his son when he gets old
 ---
 1. *高义频：* **手帕；纸巾**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***handle*** n
@@ -1191,16 +703,6 @@ It is certain that he will hand_________his business to his son when he gets old
 
 > turn a door handle  
 > 转动门把手
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***handle*** v
@@ -1247,19 +749,13 @@ to deal with a situation, a person, etc.：
 > A new man was appointed to handle the crisis.   
 > 新指派了一个人来处理这场危机。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 As nobody here knows what is wrong with the machine, we must send for an engineer to _________ (处理) the problem.  
 ##### 答案 handle  
   
-
 
 # ***handshake*** n
 ---
@@ -1272,16 +768,6 @@ As nobody here knows what is wrong with the machine, we must send for an enginee
 ---
 1. *高义频：* **握手**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***handsome*** adj
@@ -1308,16 +794,6 @@ As nobody here knows what is wrong with the machine, we must send for an enginee
 > a handsome building   
 > 富丽堂皇的建筑物
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***handwriting*** n
 ---
@@ -1334,16 +810,6 @@ As nobody here knows what is wrong with the machine, we must send for an enginee
 > He recognized her handwriting on the envelope.   
 > 他认出了信封上她的笔迹。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***handwritten*** adj
 ---
@@ -1356,16 +822,6 @@ As nobody here knows what is wrong with the machine, we must send for an enginee
 ---
 1. **手写的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***handy*** adj
@@ -1399,16 +855,6 @@ near and easy to reach：
 > This house is handy for the market.   
 > 这房子离市场很近。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hang*** v  重难点词汇
 ---
@@ -1438,6 +884,7 @@ near and easy to reach：
 
 > Give a dog a bad name and hang him.  
 > 欲加之罪，何患无辞。
+
 
 固定搭配
 ---
@@ -1490,9 +937,7 @@ near and easy to reach：
 > Someone called me up just now, but he hung up before I could answer the phone.  
 > 刚才有人给我打电话，但我还没来得及接就挂断了。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -1504,7 +949,6 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
 — OK, I'll call back later.  
 ##### 答案 hang up  
   
-
 
 # ***happen*** vi
 ---
@@ -1550,16 +994,6 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
 
 ### 辨析 happen, take place
 二者都可指“发生”。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***happening*** n
 ---
@@ -1580,16 +1014,6 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
 > strange / unusual happenings  
 > 怪/不寻常的事
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***happiness*** n
 ---
@@ -1606,16 +1030,6 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
 
 > Money doesn't always bring happiness.  
 > 金钱并不总是带来快乐。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***happy*** adj
@@ -1657,16 +1071,10 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
 > All were very happy with those unexpected gifts.  
 > 所有人都对那些意想不到的礼物感到非常满意。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
  happily  /'hæpɪli/ adv 
-真题解析
----
-[null]
-
 
 # ***harbo(u)r*** n
 ---
@@ -1680,16 +1088,6 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
 ---
 1. *高义频：* **海港；港湾**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hard*** adj
@@ -1780,18 +1178,12 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
 > hard liquor   
 > 烈酒
 
+
 固定搭配
 ---
 - #### hard facts 
 1. **确切的证据**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hard*** adv
@@ -1816,16 +1208,10 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
 > It is raining hard.   
 > 雨下得很大。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 harden /'hɑːdn/ v 
-真题解析
----
-[null]
-
 
 # ***harden*** v
 ---
@@ -1838,16 +1224,6 @@ harden /'hɑːdn/ v
 ---
 1. **（使）变硬；（使）坚强**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hardly*** adv  重难点词汇
@@ -1869,6 +1245,7 @@ harden /'hɑːdn/ v
 
 > Lying in a hardly noticeable street corner, the restaurant still attracts many customers.  
 > 这家餐馆虽然位于不太引人注意的街角，但仍然吸引了很多顾客。
+
 
 固定搭配
 ---
@@ -1896,9 +1273,7 @@ harden /'hɑːdn/ v
 > 我刚开始欣赏画，老师就说离开博物馆的时间到了。
 
 hardly ... when结构中，由when引导的从句用过去时，主句用过去完成时；hardly置于句首时句子要倒装，通常用于非常正式的书面语中。
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -1909,7 +1284,6 @@ I had hardly got to the office________my wife phoned me to go back home at once.
 I must be getting fat — I can hard do my trousers up.  
 ##### 答案 hard → hardly  
   
-
 
 # ***hardship*** n
 ---
@@ -1930,16 +1304,6 @@ I must be getting fat — I can hard do my trousers up.
 > Not until he went through real hardship did he realize the love we have for our families is important.   
 > 直到经历了真正的苦难，他才意识到我们对家人的爱很重要。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hardware*** n
 ---
@@ -1953,16 +1317,6 @@ I must be getting fat — I can hard do my trousers up.
 ---
 1. *高义频：* **(计算机) 硬件；五金制品**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hardworking*** adj
@@ -1980,19 +1334,13 @@ I must be getting fat — I can hard do my trousers up.
 > The Chinese people are a hardworking people.  
 > 中华民族是一个勤劳的民族。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 My brother is really ________ (勤奋). He often works in his office far into the night.   
 ##### 答案 hard-working  
   
-
 
 # ***harm*** n
 ---
@@ -2011,6 +1359,7 @@ My brother is really ________ (勤奋). He often works in his office far into th
 > He may not be able to help but there's no harm in asking him.  
 > 他可能帮不上忙，但是问他一下倒也无妨。
 
+
 固定搭配
 ---
 - #### do harm to / do ... harm 
@@ -2019,13 +1368,6 @@ My brother is really ________ (勤奋). He often works in his office far into th
 
 > Too much drinking will do great harm to you. / Too much drinking will do you great harm.  
 > 饮酒过量危害甚大。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***harm*** vt
@@ -2046,16 +1388,10 @@ My brother is really ________ (勤奋). He often works in his office far into th
 > Too much TV-watching can harm children's ability to learn.  
 > 看电视过多会影响孩子的学习能力。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 harmless /'hɑːmləs/ adj 
-真题解析
----
-[null]
-
 
 # ***harmful*** adj
 ---
@@ -2076,16 +1412,6 @@ harmless /'hɑːmləs/ adj
 > Air pollution will get worse and this will be harmful to people.   
 > 空气污染会加剧，这会对人们造成危害。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***harmonica*** n
 ---
@@ -2098,16 +1424,6 @@ harmless /'hɑːmləs/ adj
 ---
 1. **口琴**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***harmony*** n
@@ -2136,19 +1452,13 @@ harmless /'hɑːmləs/ adj
 > sing in harmony  
 > 用和声演唱
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Human life is regarded as part of nature and, as such, the only way for us to survive is to live________ (与…协调) nature.  
 ##### 答案 in harmony with  
   
-
 
 # ***harness*** vt
 ---
@@ -2162,16 +1472,6 @@ Human life is regarded as part of nature and, as such, the only way for us to su
 1. **利用; 将 (自然力) 变成动力**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***harp*** n
 ---
@@ -2184,16 +1484,6 @@ Human life is regarded as part of nature and, as such, the only way for us to su
 ---
 1. **竖琴**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***harpoon*** n
@@ -2209,16 +1499,6 @@ Human life is regarded as part of nature and, as such, the only way for us to su
 1. *高义频：* **(捕鲸用的) 鱼叉**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***harsh*** adj
 ---
@@ -2231,16 +1511,6 @@ Human life is regarded as part of nature and, as such, the only way for us to su
 ---
 1. **刺耳的, 刺眼的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***harvest*** n
@@ -2267,19 +1537,13 @@ Human life is regarded as part of nature and, as such, the only way for us to su
 > a rich harvest of knowledge  
 > 丰富的知识成果
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Farmers are reporting a very big ________(收成) this year.   
 ##### 答案 harvest  
   
-
 
 # ***harvest*** v
 ---
@@ -2305,16 +1569,6 @@ Farmers are reporting a very big ________(收成) this year.
 > The stem cells are harvested from a donor.  
 > 干细胞是从一位捐献者身上采集的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hat*** n
 ---
@@ -2328,16 +1582,6 @@ Farmers are reporting a very big ________(收成) this year.
 ---
 1. *高义频：* **(有檐的) 帽子**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hatch*** v
@@ -2357,16 +1601,6 @@ Farmers are reporting a very big ________(收成) this year.
 
 > Don't count your chickens before they're hatched.  
 > 不要高兴得太早。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hate*** vt
@@ -2402,12 +1636,7 @@ Farmers are reporting a very big ________(收成) this year.
 > People hate it when you don't say what you mean.  
 > 人们厌恶口是心非。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2415,7 +1644,6 @@ Farmers are reporting a very big ________(收成) this year.
 — Oh, I'm sorry. I'll turn it down right now.   
 ##### 答案 hate to say this / it  
   
-
 
 # ***hate*** n
 ---
@@ -2432,16 +1660,6 @@ Farmers are reporting a very big ________(收成) this year.
 
 > A successful apology can turn hate into harmony.   
 > 一个成功的道歉能化干戈为玉帛。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hatred*** n
@@ -2460,16 +1678,6 @@ Farmers are reporting a very big ________(收成) this year.
 > **hatred for**  
 > He felt it was absurd to be filled with hatred for someone he had never met.   
 > 他觉得对自己从未见过的人充满仇恨很荒谬。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***have*** vt  重难点词汇
@@ -2569,6 +1777,7 @@ Farmers are reporting a very big ________(收成) this year.
 > She has her TV on all day.   
 > 她整天开着电视。
 
+
 固定搭配
 ---
 - #### have ... on
@@ -2588,9 +1797,7 @@ Farmers are reporting a very big ________(收成) this year.
 > I've got to prepare for the chemistry test this week.  
 > 这个星期我得准备化学考试。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2610,7 +1817,6 @@ C.
 Could you please tell me where you bought the shoes you had ________yesterday?  
 ##### 答案 on  
   
-
 
 # ***have*** aux v  重难点词汇
 ---
@@ -2636,19 +1842,13 @@ Could you please tell me where you bought the shoes you had ________yesterday?
 > Had we followed his plan, we could have done the work better with less money and fewer people.  
 > 如果当初我们采纳了他的计划，就可以用更少的人力和财力把工作做得更好。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 It might have saved me some trouble ________ (如果我知道) the schedule.  
 ##### 答案 had I known / if I had known  
   
-
 
 # ***he*** pron
 ---
@@ -2682,16 +1882,6 @@ It might have saved me some trouble ________ (如果我知道) the schedule.
 
 > Everybody did what he could.  
 > 每个人都尽了力。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***head*** n
@@ -2751,6 +1941,7 @@ It might have saved me some trouble ________ (如果我知道) the schedule.
 > 10头牛
 
 表示牲畜的头数时，单复数同形，都用head。
+
 固定搭配
 ---
 - #### hold one's head high
@@ -2763,13 +1954,6 @@ It might have saved me some trouble ________ (如果我知道) the schedule.
 - #### off the top of one's head
 1. **不假思索的；即兴的**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***head*** v
@@ -2799,6 +1983,7 @@ It might have saved me some trouble ________ (如果我知道) the schedule.
 > The page was headed "My Childhood".  
 > 这一页的标题为“我的童年”。
 
+
 固定搭配
 ---
 - #### head for 
@@ -2808,13 +1993,10 @@ It might have saved me some trouble ________ (如果我知道) the schedule.
 > After the game, the fans headed for the exit.   
 > 比赛结束后，球迷们朝出口走去。
 
+
 派生词汇
 ---
 heading /'hedɪŋ/ n [C]
-真题解析
----
-[null]
-
 
 # ***headache*** n
 ---
@@ -2836,16 +2018,6 @@ heading /'hedɪŋ/ n [C]
 > Grammar is a headache for me.  
 > 语法让我头疼。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***heading*** n
 ---
@@ -2859,16 +2031,6 @@ heading /'hedɪŋ/ n [C]
 ---
 1. *高义频：* **标题**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***headline*** n
@@ -2884,16 +2046,6 @@ heading /'hedɪŋ/ n [C]
 1. *高义频：* **(报纸的) 标题；[the headlines] 新闻提要**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***headmaster*** n
 ---
@@ -2907,16 +2059,6 @@ heading /'hedɪŋ/ n [C]
 ---
 1. *高义频：* **(中小学)校长 (AmE principal)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***headmistress*** n
@@ -2932,16 +2074,6 @@ heading /'hedɪŋ/ n [C]
 1. *高义频：* **(中小学)女校长 (AmE principal)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***headphone*** n
 ---
@@ -2954,16 +2086,6 @@ heading /'hedɪŋ/ n [C]
 ---
 1. **头戴式受话机, 耳机**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***headquarters*** n
@@ -2979,16 +2101,6 @@ heading /'hedɪŋ/ n [C]
 1. *高义频：* **司令部；总部**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***headset*** n
 ---
@@ -3001,16 +2113,6 @@ heading /'hedɪŋ/ n [C]
 ---
 1. **头戴式耳机**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***headteacher*** n
@@ -3025,16 +2127,6 @@ heading /'hedɪŋ/ n [C]
 ---
 1. *高义频：* **(BrE) 校长**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***heal*** v
@@ -3052,18 +2144,12 @@ heading /'hedɪŋ/ n [C]
 > My foot still hadn't healed from an earlier injury.  
 > 我上次的脚伤还没好。
 
+
 固定搭配
 ---
 - #### heal over / up
 1. **愈合；痊愈**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***health*** n
@@ -3090,6 +2176,7 @@ heading /'hedɪŋ/ n [C]
 > Going to bed early and getting up early does good to your health.  
 > 早睡早起有益健康。
 
+
 固定搭配
 ---
 - #### (be) in good / poor health
@@ -3101,13 +2188,6 @@ heading /'hedɪŋ/ n [C]
 
 > My grandpa is 78 and in poor health.  
 > 我爷爷78岁了，身体不太好。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***healthy*** adj
@@ -3128,16 +2208,6 @@ heading /'hedɪŋ/ n [C]
 > **healthy diet**  
 > He began to have a balanced, healthy diet.  
 > 他开始吃健康均衡的膳食。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hear*** v  重难点词汇
@@ -3201,6 +2271,7 @@ hear强调听的结果，listen强调听的动作。如：
 > We listened but could hear nothing.  
 > 我们听了听，但什么也没听见。
 
+
 固定搭配
 ---
 - #### hear about
@@ -3233,9 +2304,7 @@ hear强调听的结果，listen强调听的动作。如：
 > We're all very glad to hear of your success.  
 > 听说你成功了，我们都非常高兴。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3247,7 +2316,6 @@ Listen! Do you hear someone________ (call) for help?
 —  He phoned me this morning, and we agreed ________ a time and place to meet.  
 ##### 答案 from; on  
   
-
 
 # ***hearing*** n
 ---
@@ -3271,16 +2339,6 @@ Listen! Do you hear someone________ (call) for help?
 > **within hearing**  
 > Please stay within hearing.  
 > 请保持在相互能听得到的范围内。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***heart*** n
@@ -3338,6 +2396,7 @@ Listen! Do you hear someone________ (call) for help?
 > We must get to the heart of the problem.  
 > 我们必须抓住问题的核心。
 
+
 固定搭配
 ---
 - #### at heart
@@ -3375,16 +2434,17 @@ Listen! Do you hear someone________ (call) for help?
 > Don't lose heart, whatever happens.  
 > 无论发生什么事，都不要灰心。
 
+
 派生词汇
 ---
 hearty /'hɑːti/ adj 
+
 真题解析
 ---
 ##### 题目  
 No matter what you do, you should ________ (用心于) it.  
 ##### 答案 put your heart into  
   
-
 
 # ***heartbeat*** n
 ---
@@ -3398,16 +2458,6 @@ No matter what you do, you should ________ (用心于) it.
 1. **心跳**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***heartily*** adv
 ---
@@ -3420,16 +2470,6 @@ No matter what you do, you should ________ (用心于) it.
 ---
 1. *高义频：* **尽情地；热心地；痛快地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***heat*** n
@@ -3471,16 +2511,6 @@ No matter what you do, you should ________ (用心于) it.
 > The heat wasn't on, and the house was freezing.  
 > 暖气没有开，房子里冰冷。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***heat*** v
 ---
@@ -3497,6 +2527,7 @@ No matter what you do, you should ________ (用心于) it.
 > Heat the milk until it boils.  
 > 把牛奶煮开为止。
 
+
 固定搭配
 ---
 - #### heat up
@@ -3509,13 +2540,10 @@ No matter what you do, you should ________ (用心于) it.
 > The election contest is heating up.  
 > 选举竞争正在白热化。
 
+
 派生词汇
 ---
 heater /heater/ n [C] 
-真题解析
----
-[null]
-
 
 # ***heated*** adj
 ---
@@ -3532,16 +2560,6 @@ heater /heater/ n [C]
 > a heated debate / discussion  
 > 激烈的辩论/讨论
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***heather*** n
 ---
@@ -3554,16 +2572,6 @@ heater /heater/ n [C]
 ---
 1. **石南属植物**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***heating*** n
@@ -3581,16 +2589,6 @@ heater /heater/ n [C]
 > the central heating system  
 > 中央供暖系统
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***heating*** adj
 ---
@@ -3603,16 +2601,6 @@ heater /heater/ n [C]
 ---
 1. *高义频：* **加热的；供暖的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***heaven*** n
@@ -3635,16 +2623,6 @@ heater /heater/ n [C]
 > Good heavens. / Heaven knows.  
 > 天啊！/天知道！
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***heavily*** adv
 ---
@@ -3665,19 +2643,13 @@ heater /heater/ n [C]
 > It was dark and raining heavily.  
 > 天很黑，雨下得很大。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Mr Smith used to smoke ________ (heavy) but he has given it up.  
 ##### 答案 heavily  
   
-
 
 # ***heavy*** adj
 ---
@@ -3749,6 +2721,7 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 > I feel sick with all this fat and heavy food.  
 > 这油腻的食物让我觉得恶心。
 
+
 固定搭配
 ---
 - #### be heavy with sth
@@ -3757,13 +2730,6 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 
 > Every hill was heavy with the past.  
 > 每座小山都承载着过往。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***heavyweight*** n
@@ -3777,16 +2743,6 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 ---
 1. **重量级拳击手；有影响力的人或事物**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hectare*** n
@@ -3802,16 +2758,6 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 1. *高义频：* **公顷**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hedge*** n
 ---
@@ -3824,16 +2770,6 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 ---
 1. **灌木（或小树）树篱**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***heel*** n
@@ -3849,18 +2785,12 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 1. *高义频：* **脚后跟；(鞋、袜等的) 后跟**  
 
 
+
 固定搭配
 ---
 - #### Achilles' heel
 1. **致命弱点；死穴**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***height*** n
@@ -3884,16 +2814,6 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 > He is at the height of his career.  
 > 他正处于事业的巅峰。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***helicopter*** n
 ---
@@ -3907,16 +2827,6 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 ---
 1. *高义频：* **直升机**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hell*** n
@@ -3939,16 +2849,6 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 > It's been hell trying to keep this secret for so long.  
 > 费尽心机保守这个秘密这么久，真是不容易。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hello*** int
 ---
@@ -3961,16 +2861,6 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 ---
 1. *高义频：* **喂；你好**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hello*** n
@@ -3989,16 +2879,6 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 > Let's drive over and say hello to him.  
 > 我们开车过去向他问好吧。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***helmet*** n
 ---
@@ -4012,16 +2892,6 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 ---
 1. *高义频：* **头盔；钢盔**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***help*** v  重难点词汇
@@ -4100,6 +2970,7 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 > I can't help it if it rains.  
 > 如果天下雨，我也没办法。
 
+
 固定搭配
 ---
 - #### can't help (doing) sth / can't help but do sth
@@ -4148,9 +3019,7 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 > She said she had to leave him for a while; it couldn't be helped.  
 > 她说自己不得不暂时离开他，那是没办法的事。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4166,7 +3035,6 @@ D.help
 — Yes, ______ (用吧).  
 ##### 答案 help yourself  
   
-
 
 # ***help*** n  重难点词汇
 ---
@@ -4209,6 +3077,7 @@ D.help
 > She is screaming for help.  
 > 她正在大声呼救。
 
+
 固定搭配
 ---
 - #### (be) of … help
@@ -4233,13 +3102,6 @@ D.help
 > With their help, I have made great progress.  
 > 在他们的帮助下，我取得了很大进步。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***helper*** n
 ---
@@ -4252,16 +3114,6 @@ D.help
 ---
 1. **帮助者**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***helpful*** adj
@@ -4284,16 +3136,6 @@ D.help
 > Such a positive attitude towards life can be helpful in lifting your spirits.  
 > 这样一种积极的生活态度有助于你振奋精神。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***helpless*** adj
 ---
@@ -4313,16 +3155,6 @@ D.help
 > a helpless child  
 > 无依无靠的孩子
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hen*** n
 ---
@@ -4337,16 +3169,6 @@ D.help
 1. *高义频：* **母鸡**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hence*** adv
 ---
@@ -4360,16 +3182,6 @@ D.help
 1. *高义频：* **因此；所以**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***her*** pron
 ---
@@ -4382,16 +3194,6 @@ D.help
 ---
 1. *高义频：* **[宾格] 她；[所有格] 她的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***herb*** n
@@ -4407,16 +3209,6 @@ D.help
 1. *高义频：* **药草；香草**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***herd*** n
 ---
@@ -4430,16 +3222,6 @@ D.help
 ---
 1. *高义频：* **牧群；兽群**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***here*** adv
@@ -4466,6 +3248,7 @@ D.help
 > I can't agree with you here.  
 > 在这点上我与你意见不同。
 
+
 固定搭配
 ---
 - #### here and now
@@ -4486,13 +3269,6 @@ D.help
 1. **给你**  
 
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***heritage*** n
 ---
@@ -4512,16 +3288,6 @@ D.help
 
 > a World Heritage Site  
 > 世界遗址
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hero*** n
@@ -4546,16 +3312,10 @@ D.help
 > The hero of this novel is a poor peasant.  
 > 这部小说的男主人公是一位贫苦的农民。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 heroic /hə'rəʊɪk/ adj 
-真题解析
----
-[null]
-
 
 # ***heroine*** n
 ---
@@ -4573,16 +3333,6 @@ heroic /hə'rəʊɪk/ adj
 > The heroine is a young girl called Lyra and the hero is a boy called Will.  
 > 女主角是一个叫莱若的年轻女孩，男主角是一个叫威尔的男孩子。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***heroism*** n
 ---
@@ -4595,16 +3345,6 @@ heroic /hə'rəʊɪk/ adj
 ---
 1. **英雄主义, 英雄气概**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hers*** pron
@@ -4619,16 +3359,6 @@ heroic /hə'rəʊɪk/ adj
 ---
 1. *高义频：* **她的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***herself*** pron
@@ -4653,19 +3383,13 @@ heroic /hə'rəʊɪk/ adj
 > She's not quite herself today.  
 > 她今天不太舒服/情绪不好。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Catherine bought a postcard of the place she was visiting, addressed it to ________(her) and then posted it at the nearby post office.  
 ##### 答案 herself  
   
-
 
 # ***hesitate*** vi  重难点词汇
 ---
@@ -4698,19 +3422,13 @@ Catherine bought a postcard of the place she was visiting, addressed it to _____
 > He hesitated before he replied.  
 > 回答前，他犹豫了一下。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 We are at your service. Don’t hesitate ________ (turn) to us if you have any further problems.  
 ##### 答案 to turn  
   
-
 
 # ***hesitation*** n
 ---
@@ -4729,16 +3447,6 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 > I accepted the job without hesitation.    
 > 我毫不犹疑地接受了这份工作。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hey*** int
 ---
@@ -4751,16 +3459,6 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 ---
 1. *高义频：* **[用以唤起注意或表示问候] 嘿；喂**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hi*** int
@@ -4775,16 +3473,6 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 1. *高义频：* **嗨**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hibernate*** vi
 ---
@@ -4797,16 +3485,6 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 ---
 1. *高义频：* **(动物) 冬眠**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hibernation*** n
@@ -4821,16 +3499,6 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 ---
 1. *高义频：* **冬眠**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hide*** v
@@ -4865,16 +3533,6 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 > They hid the sad news from their son.  
 > 他们对儿子隐瞒了这个伤心的消息。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hide-and-seek*** n
 ---
@@ -4889,16 +3547,6 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 1. *高义频：* **捉迷藏**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hieroglyphic*** adj
 ---
@@ -4911,16 +3559,6 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 ---
 1. **象形文字的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***high*** adj
@@ -4985,16 +3623,6 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 > It's high time you started. / It's high time for you to start.  
 > 你该动身了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***high*** adv
 ---
@@ -5016,16 +3644,6 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 
 ### 辨析 high, tall
 二者均有“高”之意，均可指建筑物。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***high-class*** adj
 ---
@@ -5038,16 +3656,6 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 ---
 1. **上层社会的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***high-rise*** adj
@@ -5065,16 +3673,6 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 > high-rise buildings   
 > 高层建筑
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***high-rise*** n
 ---
@@ -5091,16 +3689,6 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 
 > live in a high-rise  
 > 住在高楼里
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***highlight*** vt
@@ -5121,16 +3709,6 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 > The way people do things highlights many of the differences between cultures.  
 > 人们做事的方式凸显了许多文化差异。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***highlight*** n
 ---
@@ -5143,16 +3721,6 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 ---
 1. **[C] 最精彩的场面 / 部分**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***highly*** adv
@@ -5177,19 +3745,13 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 > think / speak highly of  
 > 对…高度评价
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Food safety is ________ (high) important, so the government spares no effort to prevent food pollution.  
 ##### 答案 highly  
   
-
 
 # ***highway*** n
 ---
@@ -5205,16 +3767,6 @@ Food safety is ________ (high) important, so the government spares no effort to 
 
 
 美语里高速公路是freeway或expressway。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hike*** vi
 ---
@@ -5231,16 +3783,6 @@ Food safety is ________ (high) important, so the government spares no effort to 
 > go hiking  
 > 远足；徒步旅行
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hike*** n
 ---
@@ -5254,16 +3796,6 @@ Food safety is ________ (high) important, so the government spares no effort to 
 ---
 1. *高义频：* **徒步**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hill*** n
@@ -5279,16 +3811,6 @@ Food safety is ________ (high) important, so the government spares no effort to 
 1. *高义频：* **丘陵；小山**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hillside*** n
 ---
@@ -5303,16 +3825,6 @@ Food safety is ________ (high) important, so the government spares no effort to 
 1. *高义频：* **小山坡**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hilly*** adj
 ---
@@ -5325,16 +3837,6 @@ Food safety is ________ (high) important, so the government spares no effort to 
 ---
 1. *高义频：* **山丘的；丘陵的；多山的：**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***him*** pron
@@ -5349,16 +3851,6 @@ Food safety is ________ (high) important, so the government spares no effort to 
 ---
 1. *高义频：* **他**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***himself*** pron
@@ -5382,12 +3874,7 @@ Food safety is ________ (high) important, so the government spares no effort to 
 > He wanted to do it himself.  
 > 他想自己来做。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -5395,7 +3882,6 @@ Food safety is ________ (high) important, so the government spares no effort to 
 — A man calling ________ (him) Robert.  
 ##### 答案 himself  
   
-
 
 # ***hint*** n
 ---
@@ -5414,16 +3900,6 @@ Food safety is ________ (high) important, so the government spares no effort to 
 > give ( sb ) a hint  
 > 给(某人)暗示
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hip-hop*** n
 ---
@@ -5436,16 +3912,6 @@ Food safety is ________ (high) important, so the government spares no effort to 
 ---
 1. **嘻哈音乐；嘻哈文化**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hire*** v
@@ -5477,6 +3943,7 @@ Food safety is ________ (high) important, so the government spares no effort to 
 > She hired some technical experts and started her own company in 2004.  
 > 2004年她聘请了一些技术专家，开办了自己的公司。
 
+
 固定搭配
 ---
 - #### hire out 
@@ -5485,13 +3952,6 @@ Food safety is ________ (high) important, so the government spares no effort to 
 
 > The company hires out cars.  
 > 这家公司出租小汽车。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hire*** n
@@ -5514,16 +3974,6 @@ Food safety is ________ (high) important, so the government spares no effort to 
 > cars on / for hire   
 > 供租用的汽车
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***his*** pron
 ---
@@ -5536,16 +3986,6 @@ Food safety is ________ (high) important, so the government spares no effort to 
 ---
 1. *高义频：* **他的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***historic*** adj
@@ -5565,16 +4005,6 @@ famous or important in history：
 > a historic event   
 > 历史性事件
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***historical*** adj
 ---
@@ -5593,16 +4023,6 @@ connected with history or the past：
 > **of historical interest**  
 > places of historical interest  
 > 历史名胜
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***history*** n
@@ -5628,6 +4048,7 @@ connected with history or the past：
 > Suzhou is a city with a 2,500-year history.  
 > 苏州是一个拥有2500年历史的城市。
 
+
 固定搭配
 ---
 - #### make history 
@@ -5644,13 +4065,10 @@ connected with history or the past：
 > He will go down in history as a great leader.  
 > 他作为一名伟大的领袖将载入史册。
 
+
 派生词汇
 ---
 historian /hɪ'stɔːriən/ n [C]
-真题解析
----
-[null]
-
 
 # ***hit*** vt  重难点词汇
 ---
@@ -5701,6 +4119,7 @@ historian /hɪ'stɔːriən/ n [C]
 > I couldn't remember where I'd seen him before, and then it suddenly hit me.  
 > 我想不起以前在哪里见过他，后来猛然想起来了。
 
+
 固定搭配
 ---
 - #### hit on / upon 
@@ -5712,13 +4131,6 @@ historian /hɪ'stɔːriən/ n [C]
 
 > At last we hit on a way out of this difficulty.  
 > 我们终于想出了一个解决这个困难的办法。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hit*** n  重难点词汇
@@ -5750,18 +4162,12 @@ historian /hɪ'stɔːriən/ n [C]
 > When he first arrived in the US, Yao was an instant hit among basketball fans nationwide.  
 > 初到美国，姚明就在全美的篮球爱好者中一夜成名。
 
+
 固定搭配
 ---
 - #### take a hit
 1. **遭到破坏；受到严重影响**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hoarfrost*** n
@@ -5775,16 +4181,6 @@ historian /hɪ'stɔːriən/ n [C]
 ---
 1. **白霜**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hobby*** n
@@ -5805,16 +4201,6 @@ historian /hɪ'stɔːriən/ n [C]
 
 > Happy is the man who is living by his hobby.  
 > 醉心于某种嗜好的人是幸福的。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hold*** v  重难点词汇
@@ -5940,6 +4326,7 @@ historian /hɪ'stɔːriən/ n [C]
 > I think you've just got to learn to hold your tongue.  
 > 我认为你该学会管好你的嘴巴。
 
+
 固定搭配
 ---
 - #### hold back
@@ -6053,9 +4440,7 @@ historian /hɪ'stɔːriən/ n [C]
 > The bus got held up in traffic.  
 > 公共汽车被堵在了路上。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -6076,7 +4461,6 @@ We want to rent a bus which can ________ (容纳)40 people for our trip to Beiji
 ##### 答案 hold  
   
 
-
 # ***hold*** n  重难点词汇
 ---
 英音 həʊld     美音 hoʊld
@@ -6096,6 +4480,7 @@ We want to rent a bus which can ________ (容纳)40 people for our trip to Beiji
 
 > Make sure you've got a steady hold on the camera.  
 > 确保把相机拿稳。
+
 
 固定搭配
 ---
@@ -6127,17 +4512,18 @@ We want to rent a bus which can ________ (容纳)40 people for our trip to Beiji
 > While matters of money won't be settled for weeks, Jane hardly puts her project on hold.  
 > 虽然几周的时间也将无法解决钱的问题，但简不会中断自己的项目。
 
+
 派生词汇
 ---
 holder /'həʊldə(r)/ n 
 holding /'həʊldɪŋ/ n 
+
 真题解析
 ---
 ##### 题目  
 As a grassroots singer, she reads everything she can get hold _________ concerning music, and takes every opportunity to improve herself.  
 ##### 答案 of  
   
-
 
 # ***hole*** n
 ---
@@ -6155,16 +4541,6 @@ As a grassroots singer, she reads everything she can get hold _________ concerni
 > **hole in**  
 > There was a huge hole in the road.  
 > 路上有个大坑。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***holiday*** n
@@ -6197,16 +4573,6 @@ As a grassroots singer, she reads everything she can get hold _________ concerni
 > She usually goes on holiday in the summer.  
 > 她通常夏天时出去度假。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hollow*** adj
 ---
@@ -6219,16 +4585,6 @@ As a grassroots singer, she reads everything she can get hold _________ concerni
 ---
 1. *高义频：* **空心的；中空的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***holy*** adj
@@ -6246,16 +4602,6 @@ As a grassroots singer, she reads everything she can get hold _________ concerni
 > **Holy Bible**  
 > the Holy Bible  
 > 《圣经》
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***home*** n
@@ -6298,6 +4644,7 @@ As a grassroots singer, she reads everything she can get hold _________ concerni
 > an old people's home  
 > 老人之家；养老院
 
+
 固定搭配
 ---
 - #### at home
@@ -6311,16 +4658,13 @@ As a grassroots singer, she reads everything she can get hold _________ concerni
 > feel at home  
 > 舒适自在
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I began to feel ________ home in the new school when I saw some familiar faces.  
 ##### 答案 at  
   
-
 
 # ***home*** adv
 ---
@@ -6336,16 +4680,6 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 
 > I saw him on his way home.  
 > 我在他回家的路上看见了他。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***home*** adj
@@ -6367,16 +4701,6 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 > a home computer  
 > 家用电脑
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***home-made*** adj
 ---
@@ -6389,16 +4713,6 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 ---
 1. **自制的；家里做的；国产的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***homeland*** n
@@ -6413,16 +4727,6 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 ---
 1. *高义频：* **家园；祖国**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***homeless*** adj
@@ -6440,16 +4744,6 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 > Thousands of homeless earthquake survivors were in urgent need of tents and food.  
 > 成千上万的无家可归的地震幸存者急需帐篷和食物。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***homelessness*** n
 ---
@@ -6462,16 +4756,6 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 ---
 1. **无家可归**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***homemade*** adj
@@ -6486,16 +4770,6 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 1. **自制的,家里做的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***homesick*** adj
 ---
@@ -6509,16 +4783,6 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 1. **想家的；思乡的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***homesickness*** n
 ---
@@ -6531,16 +4795,6 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 ---
 1. **想家, 思乡**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hometown*** n
@@ -6556,16 +4810,6 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 1. *高义频：* **家乡；故乡**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***homework*** n
 ---
@@ -6580,16 +4824,6 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 1. *高义频：* **家庭作业**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***homosexual*** n
 ---
@@ -6603,16 +4837,6 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 1. **同性恋**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***homosexual*** adj
 ---
@@ -6625,16 +4849,6 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 ---
 1. **同性恋的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***honest*** adj
@@ -6663,6 +4877,7 @@ not hiding the truth about sth：
 > Your answer should be honest.  
 > 你应如实回答。
 
+
 固定搭配
 ---
 - #### to be honest
@@ -6672,16 +4887,13 @@ not hiding the truth about sth：
 > To be honest, I don't think I was helping very much.  
 > 老实说，我认为自己没帮上多少忙。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 ________ (老实说), the pay isn't attractive enough, though the job itself is quite interesting.  
 ##### 答案 To be honest / Honestly  
   
-
 
 # ***honestly*** adv
 ---
@@ -6704,16 +4916,6 @@ ________ (老实说), the pay isn't attractive enough, though the job itself is 
 > Honestly, that's all the money I have.  
 > 说实在的，我所有的钱就这些。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***honesty*** n
 ---
@@ -6731,6 +4933,7 @@ ________ (老实说), the pay isn't attractive enough, though the job itself is 
 > Honesty, my mum always used to tell me, is the best policy.  
 > 我妈妈过去总是跟我说，诚实是最好的策略。
 
+
 固定搭配
 ---
 - #### in all honesty
@@ -6739,13 +4942,6 @@ ________ (老实说), the pay isn't attractive enough, though the job itself is 
 
 > In all honesty, my university is not as well-known as my "dream" university.  
 > 说实话，我上的那所大学不如我理想中的大学出名。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***honey*** n
@@ -6768,16 +4964,6 @@ ________ (老实说), the pay isn't attractive enough, though the job itself is 
 
 2. *低义频：* **[C] [口语] 亲爱的；宝贝**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hono(u)r*** n  重难点词汇
@@ -6838,6 +5024,7 @@ the quality of knowing and doing what is morally right：
 > She’s an honour to her family and her country.  
 > 她是家人和国家的光荣。
 
+
 固定搭配
 ---
 - #### have the honour of (doing) sth
@@ -6856,13 +5043,6 @@ the quality of knowing and doing what is morally right：
 
 > A ceremony was held in those soldiers' honour.  
 > 人们举行了一个仪式来纪念那些战士。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hono(u)r*** vt  重难点词汇
@@ -6892,6 +5072,7 @@ the quality of knowing and doing what is morally right：
 > Next month the city will open a new park to honour those who died in the terrible disaster.  
 > 下个月本市将开放一座新公园，以纪念此次重大灾难中的遇难者。
 
+
 固定搭配
 ---
 - #### be / feel honoured to do sth
@@ -6904,16 +5085,13 @@ the quality of knowing and doing what is morally right：
 > I feel very honoured to have been able to take on this role.  
 > 能够担当这一角色，我感到非常荣幸。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I feel greatly honored ________ (welcome) into their society.  
 ##### 答案 to be welcomed  
   
-
 
 # ***hono(u)rable*** adj
 ---
@@ -6926,16 +5104,6 @@ I feel greatly honored ________ (welcome) into their society.
 ---
 1. *高义频：* **可敬的；光荣的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hoof*** n
@@ -6950,16 +5118,6 @@ I feel greatly honored ________ (welcome) into their society.
 1. **（猪、牛等的）蹄**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hook*** n
 ---
@@ -6973,16 +5131,6 @@ I feel greatly honored ________ (welcome) into their society.
 ---
 1. *高义频：* **钩子；挂钩**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hook*** v
@@ -7000,19 +5148,13 @@ I feel greatly honored ________ (welcome) into their society.
 > The unlucky fisherman hooked an old shoe.  
 > 这个渔夫很不走运，钓起了一只旧鞋。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 hooked /hʊkt/ adj [不用于名词前]
 > **hooked on**  
 > They are hooked on shopping and usually buy things that they don't need.  
 > 她们购物成瘾，往往买些自己不需要的东西。
-
-真题解析
----
-[null]
 
 
 # ***hoop*** n
@@ -7027,16 +5169,6 @@ hooked /hʊkt/ adj [不用于名词前]
 1. **圈**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hop*** v
 ---
@@ -7050,16 +5182,6 @@ hooked /hʊkt/ adj [不用于名词前]
 1. **单足蹦跳**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hop*** vi
 ---
@@ -7072,16 +5194,6 @@ hooked /hʊkt/ adj [不用于名词前]
 ---
 1. **单脚跳**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hope*** n
@@ -7117,6 +5229,7 @@ hooked /hʊkt/ adj [不用于名词前]
 > He is the hope of his family.  
 > 他是全家人的希望。
 
+
 固定搭配
 ---
 - #### be beyond hope (of)
@@ -7132,13 +5245,6 @@ hooked /hʊkt/ adj [不用于名词前]
 
 > I'm writing the letter in the hope that you can consider these problems and make some improvements.  
 > 我写这封信是希望你们能考虑这些问题并有所改进。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hope*** v
@@ -7183,16 +5289,6 @@ hooked /hʊkt/ adj [不用于名词前]
 > They're hoping for their son's early marriage.  
 > 他们希望儿子早点结婚。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hopeful*** adj
 ---
@@ -7220,16 +5316,6 @@ hooked /hʊkt/ adj [不用于名词前]
 > Only in this way will our society be more harmonious and hopeful.  
 > 只有这样我们的社会才会更加和谐、更加有希望。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hopefully*** adv
 ---
@@ -7249,12 +5335,7 @@ hooked /hʊkt/ adj [不用于名词前]
 > Hopefully, I'll be able to stay at home for three weeks this time.  
 > 我这次有望在家待3周。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -7265,7 +5346,6 @@ If we leave right away, ________ (hopeful) we'll arrive on time.
 The boy looked at his father ________ (满怀希望地) because he thought his father had brought him a present.  
 ##### 答案 hopefully  
   
-
 
 # ***hopeless*** adj
 ---
@@ -7289,17 +5369,11 @@ The boy looked at his father ________ (满怀希望地) because he thought his f
 > I'm hopeless at maths.  
 > 我的数学很差。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 hopelessly /'həʊpləsli/ adv 
 hopelessness /'həʊpləsnəs/ n 
-真题解析
----
-[null]
-
 
 # ***horizon*** n
 ---
@@ -7323,16 +5397,6 @@ hopelessness /'həʊpləsnəs/ n
 > Travel is a kind of study because it broadens one's horizons.  
 > 旅游是一种学习，因为它开阔人们的视野。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***horizontal*** adj
 ---
@@ -7345,16 +5409,6 @@ hopelessness /'həʊpləsnəs/ n
 ---
 1. **水平的，与地平线平行的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***horn*** n
@@ -7378,16 +5432,6 @@ hopelessness /'həʊpləsnəs/ n
 > be on the horns of a dilemma  
 > 进退维谷；左右为难
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hornbeam*** n
 ---
@@ -7400,16 +5444,6 @@ hopelessness /'həʊpləsnəs/ n
 ---
 1. **角树，【植】鹅耳枥**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***horrible*** adj
@@ -7438,16 +5472,10 @@ very bad or unpleasant：
 > What horrible weather!  
 > 这鬼天气!
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 horribly /'hɒrəbli/ adv 
-真题解析
----
-[null]
-
 
 # ***horrify*** v
 ---
@@ -7460,16 +5488,6 @@ horribly /'hɒrəbli/ adv
 ---
 1. **使恐惧；使惊骇；使反感**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***horror*** n
@@ -7497,6 +5515,7 @@ horribly /'hɒrəbli/ adv
 > The horrors of war are beyond description.  
 > 战争的恐怖难以言表。
 
+
 固定搭配
 ---
 - #### to sb's horror / to the horror of sb
@@ -7505,13 +5524,6 @@ horribly /'hɒrəbli/ adv
 
 > To my horror, a child fell from the roof.  
 > 令我感到惊恐的是，有个孩子从房顶上掉了下来。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***horse*** n
@@ -7536,16 +5548,6 @@ horribly /'hɒrəbli/ adv
 > eat like a horse  
 > 吃得很多
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***horse-drawn*** adj
 ---
@@ -7559,16 +5561,6 @@ horribly /'hɒrəbli/ adv
 1. **用马拉的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***horseshoe*** n
 ---
@@ -7581,16 +5573,6 @@ horribly /'hɒrəbli/ adv
 ---
 1. **马掌；马蹄铁**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hospitable*** adj
@@ -7607,16 +5589,6 @@ horribly /'hɒrəbli/ adv
 
 > The local people are very hospitable to strangers.  
 > 当地人对陌生人很热情好客。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hospital*** n
@@ -7640,6 +5612,7 @@ horribly /'hɒrəbli/ adv
 > go to (the) hospital  
 > 去医院
 
+
 固定搭配
 ---
 - #### (be) in (the) hospital
@@ -7650,16 +5623,13 @@ horribly /'hɒrəbli/ adv
 > 她丈夫在住院。
 
 美式英语习惯在hospital前加定冠词，英式英语则习惯不加定冠词。
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 In a week, Lucy has already been interviewed by six ________ (医院).  
 ##### 答案 hospitals  
   
-
 
 # ***hospitality*** n
 ---
@@ -7673,16 +5643,6 @@ In a week, Lucy has already been interviewed by six ________ (医院).
 ---
 1. *高义频：* **好客；殷勤**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***host*** n
@@ -7715,16 +5675,6 @@ In a week, Lucy has already been interviewed by six ________ (医院).
 > a television host  
 > 电视节目主持人
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***host*** vt
 ---
@@ -7741,16 +5691,6 @@ In a week, Lucy has already been interviewed by six ________ (医院).
 > When choosing a city to host the Olympics, there are certain things we need to consider.  
 > 选择一个城市主办奥运会时，有一些情况我们需要考虑。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hostel*** n
 ---
@@ -7763,16 +5703,6 @@ In a week, Lucy has already been interviewed by six ________ (医院).
 ---
 1. **旅社, 招待所**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hostess*** n
@@ -7787,16 +5717,6 @@ In a week, Lucy has already been interviewed by six ________ (医院).
 ---
 1. *高义频：* **女主人；女主持人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hot*** adj
@@ -7842,16 +5762,6 @@ In a week, Lucy has already been interviewed by six ________ (医院).
 > hot sellers / hot news  
 > 畅销品/最新消息
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hotdog*** n
 ---
@@ -7866,16 +5776,6 @@ In a week, Lucy has already been interviewed by six ________ (医院).
 1. *高义频：* **热狗 (红肠面包)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hotel*** n
 ---
@@ -7889,16 +5789,6 @@ In a week, Lucy has already been interviewed by six ________ (医院).
 ---
 1. *高义频：* **旅馆**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hour*** n
@@ -7937,6 +5827,7 @@ In a week, Lucy has already been interviewed by six ________ (医院).
 > work long / regular hours  
 > 工作时间长/工作时间固定
 
+
 固定搭配
 ---
 - #### by the hour
@@ -7957,17 +5848,18 @@ In a week, Lucy has already been interviewed by six ________ (医院).
 1. **早睡早起 / 晚睡晚起**  
 
 
+
 派生词汇
 ---
 hourly /'aʊəli/ adj 
 hourly /'aʊəli/ adv 
+
 真题解析
 ---
 ##### 题目  
 As a rule, domestic servants doing odd jobs are paid ________ the hour.  
 ##### 答案 by   
   
-
 
 # ***house*** n
 ---
@@ -8020,16 +5912,6 @@ As a rule, domestic servants doing odd jobs are paid ________ the hour.
 > the House of Commons / Lords  
 > (英国的)下/上议院
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***house*** vt
 ---
@@ -8052,16 +5934,6 @@ As a rule, domestic servants doing odd jobs are paid ________ the hour.
 > The museum houses many of the treasures from Tang Dynasty.  
 > 博物馆收藏了许多唐代珍品。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***household*** n
 ---
@@ -8079,16 +5951,6 @@ all the people living together in a house：
 
 > An average US household produces about 150 pounds of CO₂ a day by driving cars.  
 > 一个普通的美国家庭每天开车大约会产生150磅的二氧化碳。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***household*** adj
@@ -8109,18 +5971,12 @@ all the people living together in a house：
 > a household object from Ancient Greece  
 > 一件古希腊时期的家用器具
 
+
 固定搭配
 ---
 - #### be a household name / word
 1. **家喻户晓的名字 / 词**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***housewife*** n
@@ -8135,16 +5991,6 @@ all the people living together in a house：
 ---
 1. *高义频：* **家庭妇女；家庭主妇**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***housework*** n
@@ -8162,16 +6008,6 @@ all the people living together in a house：
 
 > do (the) housework  
 > 做家务
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***housing*** n
@@ -8193,16 +6029,6 @@ all the people living together in a house：
 > provide affordable housing for local people  
 > 为当地民众提供买得起的住房
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hover*** vi
 ---
@@ -8215,16 +6041,6 @@ all the people living together in a house：
 ---
 1. **盘旋**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***how*** adv
@@ -8274,6 +6090,7 @@ all the people living together in a house：
 
 > How high the kite is flying!  
 > 那风筝飞得多高啊！
+
 
 固定搭配
 ---
@@ -8328,9 +6145,7 @@ all the people living together in a house：
 > How soon can you be ready?  
 > 你什么时候能准备好？
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -8359,7 +6174,6 @@ Twenty students want to attend the class that aims to teach how ________ (read) 
 Students are always interested in finding out how ________ they can go with a new teacher.  
 ##### 答案 far  
   
-
 
 # ***however*** adv
 ---
@@ -8401,12 +6215,7 @@ Students are always interested in finding out how ________ they can go with a ne
 > 他最初的反应是不同意，但是，他后来改变了主意。
 
 however作此用法时，可置于句首、句中或句末，但必须与句子的其他成分用逗号分隔开来。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -8422,7 +6231,6 @@ However ________ (一个严重的问题) you may have, you should gather your co
 ##### 答案 serious a problem  
   
 
-
 # ***however*** conj
 ---
 英音 haʊ'evə(r)     美音 haʊ'evər
@@ -8437,16 +6245,6 @@ However ________ (一个严重的问题) you may have, you should gather your co
 
 > However I approached the problem, I couldn't find a solution.  
 > 不管用什么办法，我都无法解决这个问题。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***howl*** vi
@@ -8471,16 +6269,6 @@ However ________ (一个严重的问题) you may have, you should gather your co
 > The wind howled through the trees.  
 > 风在林间怒号。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***howl*** n
 ---
@@ -8497,16 +6285,6 @@ However ________ (一个严重的问题) you may have, you should gather your co
 
 > She let out a howl of pain.  
 > 她发出了一声痛苦的叫喊。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hug*** vt
@@ -8527,16 +6305,6 @@ However ________ (一个严重的问题) you may have, you should gather your co
 > The boat hugged the coast.  
 > 那艘船紧靠海岸行驶。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hug*** n
 ---
@@ -8554,16 +6322,6 @@ However ________ (一个严重的问题) you may have, you should gather your co
 > **gave,hug**  
 > I bent and gave the little girl a hug.  
 > 我弯下腰拥抱了小女孩。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***huge*** adj
@@ -8586,16 +6344,6 @@ However ________ (一个严重的问题) you may have, you should gather your co
 > That's a huge success!  
 > 那是极大的成功！
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***human*** n
 ---
@@ -8613,16 +6361,10 @@ However ________ (一个严重的问题) you may have, you should gather your co
 > Sharks only attack humans in certain situations.  
 > 鲨鱼仅在某些情况下袭击人。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 humanism /'hjuːmənɪzəm/ n 
-真题解析
----
-[null]
-
 
 # ***human*** adj
 ---
@@ -8659,16 +6401,10 @@ humanism /'hjuːmənɪzəm/ n
 > The President has been accused of lacking the human touch.  
 > 总统被指责不近人情。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 humanism /'hjuːmənɪzəm/ n 
-真题解析
----
-[null]
-
 
 # ***humanistic*** adj
 ---
@@ -8681,16 +6417,6 @@ humanism /'hjuːmənɪzəm/ n
 ---
 1. **人道主义的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***humanity*** n
@@ -8712,18 +6438,12 @@ humanism /'hjuːmənɪzəm/ n
 > The listeners felt a deep humanity and warmth in his music.  
 > 听众从他的音乐中深深地感受到仁爱和温暖。
 
+
 固定搭配
 ---
 - #### the humanities
 1. **人文学科 (the arts)**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***humble*** adj
@@ -8737,16 +6457,6 @@ humanism /'hjuːmənɪzəm/ n
 ---
 1. **谦卑的；地位低下的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***humo(u)r*** n
@@ -8769,16 +6479,6 @@ humanism /'hjuːmənɪzəm/ n
 > She was very friendly and had a great sense of humour.  
 > 她很友好，而且很有幽默感。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***humorous*** adj
 ---
@@ -8797,16 +6497,6 @@ humanism /'hjuːmənɪzəm/ n
 
 > The play tells humorous stories that happen in Green's family.  
 > 这部电视剧讲述了格林家发生的各种趣事。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hundred*** num
@@ -8828,6 +6518,7 @@ humanism /'hjuːmənɪzəm/ n
 > 这个账户被提走了三百(英镑)。
 
 hundred / thousand / million前有two, several等词修饰时，hundred / thousand / million后面不加s。若前面没有数目或数量时，可用hundreds / thousands / millions of。
+
 固定搭配
 ---
 - #### hundreds of
@@ -8836,13 +6527,6 @@ hundred / thousand / million前有two, several等词修饰时，hundred / thousa
 
 > Hundreds of people queued up to view modern paintings.  
 > 成百上千的人排队来观赏当代绘画作品。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hunger*** n
@@ -8870,16 +6554,6 @@ hundred / thousand / million前有two, several等词修饰时，hundred / thousa
 > a hunger for knowledge / success  
 > 渴求知识/渴望成功
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hunger*** vi
 ---
@@ -8892,6 +6566,7 @@ hundred / thousand / million前有two, several等词修饰时，hundred / thousa
 ---
 1. 
 
+
 固定搭配
 ---
 - #### hunger for / after
@@ -8900,13 +6575,6 @@ hundred / thousand / million前有two, several等词修饰时，hundred / thousa
 
 > The whole world hungers for / after peace.  
 > 全世界的人都渴望和平。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hungry*** adj
@@ -8941,6 +6609,7 @@ hundred / thousand / million前有two, several等词修饰时，hundred / thousa
 > Stay hungry, stay foolish.  
 > 求知若饥，虚心若愚！
 
+
 固定搭配
 ---
 - #### go hungry
@@ -8949,13 +6618,6 @@ hundred / thousand / million前有two, several等词修饰时，hundred / thousa
 
 > As long as you have an ability you won't go hungry.  
 > 只要有一技之长，你就不会挨饿。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hunt*** v
@@ -8987,6 +6649,7 @@ hundred / thousand / million前有two, several等词修饰时，hundred / thousa
 > The kids were hunting for shells on the beach.  
 > 孩子们在海滩上寻找贝壳。
 
+
 固定搭配
 ---
 - #### hunt out
@@ -8995,13 +6658,6 @@ hundred / thousand / million前有two, several等词修饰时，hundred / thousa
 
 > He hunted out an old diary.  
 > 他找出一本旧日记。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hunt*** n
@@ -9017,9 +6673,7 @@ hundred / thousand / million前有two, several等词修饰时，hundred / thousa
 1. *高义频：* **打猎；搜索；搜寻**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 hunting /'hʌntɪŋ/ n 
@@ -9030,10 +6684,6 @@ hunting /'hʌntɪŋ/ n
 > **job-hunting / house-hunting**  
 > job-hunting / house-hunting  
 > 找工作/找房子
-
-真题解析
----
-[null]
 
 
 # ***hunter*** n
@@ -9057,16 +6707,6 @@ hunting /'hʌntɪŋ/ n
 > a job hunter  
 > 求职者
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hurdle*** n
 ---
@@ -9079,16 +6719,6 @@ hunting /'hʌntɪŋ/ n
 ---
 1. **跨栏；难关，障碍**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hurray*** int
@@ -9103,16 +6733,6 @@ hunting /'hʌntɪŋ/ n
 1. *高义频：* **好哇**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hurricane*** n
 ---
@@ -9126,16 +6746,6 @@ hunting /'hʌntɪŋ/ n
 ---
 1. *高义频：* **飓风；暴风雨**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hurry*** n
@@ -9154,6 +6764,7 @@ hunting /'hʌntɪŋ/ n
 > **there is no hurry**  
 > Take your time; there is no hurry.  
 > 慢慢来，不用急。
+
 
 固定搭配
 ---
@@ -9174,9 +6785,7 @@ hunting /'hʌntɪŋ/ n
 > I don't mind waiting — I'm in no hurry / I'm not in a hurry.  
 > 我可以等，我不着急。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -9193,7 +6802,6 @@ C.No way
 D.No use  
 ##### 答案 B  
   
-
 
 # ***hurry*** v
 ---
@@ -9219,6 +6827,7 @@ D.No use
 > Hurry him, or he'll be late.  
 > 催他一下，不然他要迟到了。
 
+
 固定搭配
 ---
 - #### hurry up
@@ -9234,6 +6843,7 @@ D.No use
 > Please hurry up the dinner.  
 > 请催一下快点开饭。
 
+
 派生词汇
 ---
 hurried /'hʌrid/ adj 
@@ -9241,6 +6851,7 @@ hurried /'hʌrid/ adj
 > 匆匆吃一顿饭
 
 hurriedly /'hʌridli/ adv 
+
 真题解析
 ---
 ##### 题目  
@@ -9248,7 +6859,6 @@ hurriedly /'hʌridli/ adv
 — Hurry _________. It's high time we left for the airport.  
 ##### 答案 up  
   
-
 
 # ***hurt*** v
 ---
@@ -9303,6 +6913,7 @@ hurriedly /'hʌridli/ adv
 > Many people on low incomes will be hurt by the government’s plans.  
 > 政府的计划会损害许多低收入者的利益。
 
+
 固定搭配
 ---
 - #### it won’t / doesn’t hurt (sb) to do sth
@@ -9312,9 +6923,7 @@ hurriedly /'hʌridli/ adv
 > It wouldn’t hurt you to help with the housework occasionally.  
 > 你不妨偶尔帮忙做下家务。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -9326,7 +6935,6 @@ hurriedly /'hʌridli/ adv
 Mike didn’t play football yesterday because he ________ (把腿弄伤了).  
 ##### 答案 had hurt his leg(s)  
   
-
 
 # ***hurt*** n
 ---
@@ -9347,16 +6955,6 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 > It was a real hurt to his feelings.  
 > 这真的伤害了他的感情。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hurt*** adj
 ---
@@ -9376,16 +6974,6 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 > a hurt expression / look  
 > 伤心的表情
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***husband*** n
 ---
@@ -9400,16 +6988,6 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 1. *高义频：* **丈夫**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hush*** v
 ---
@@ -9423,16 +7001,6 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 1. *高义频：* **(使某人) 安静下来**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hustle*** v
 ---
@@ -9445,16 +7013,6 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 ---
 1. **拼命干，努力干**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hut*** n
@@ -9470,16 +7028,6 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 1. *高义频：* **小屋；棚屋**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hybrid*** adj
 ---
@@ -9492,16 +7040,6 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 ---
 1. **混合的；杂种的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hybrid*** n
@@ -9516,16 +7054,6 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 1. **杂交种；混血儿**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hydro-electric*** adj
 ---
@@ -9538,16 +7066,6 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 ---
 1. **水力发电的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***hydrogen*** n
@@ -9563,16 +7081,6 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 1. *高义频：* **氢气**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***hysteria*** n
 ---
@@ -9586,13 +7094,4 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 1. **歇斯底里**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 

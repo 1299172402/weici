@@ -1,215 +1,4 @@
-
-# ***Easter*** n
----
-英音 'iːstə(r)     美音 'iːstər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **[C] & [U] (耶稣) 复活节 (Easter Day)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Egypt*** n
----
-英音 'iːdʒɪpt     美音 'iːdʒɪpt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **埃及 (东北非国家)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Egyptian*** adj
----
-英音 i'dʒɪpʃn     美音 i'dʒɪpʃn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **埃及的；埃及人的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Egyptian*** n
----
-英音 i'dʒɪpʃn     美音 i'dʒɪpʃn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **埃及人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***English*** n
----
-英音 'ɪŋɡlɪʃ     美音 'ɪŋɡlɪʃ
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **[U] & [C] 英语；英文；[U] 英语学科**  
-
-
-2. **[the English] 英格兰人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***English*** adj
----
-英音 'ɪŋɡlɪʃ     美音 'ɪŋɡlɪʃ
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **英语的；英格兰 (人) 的；英国 (人) 的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Europe*** n
----
-英音 'jʊərəp     美音 'jʊrəp
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
-
-英文释义
----
-1. *高义频：* **欧洲**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***European*** adj
----
-英音 ˌjʊərə'piːən     美音 ˌjʊərə'piːən
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
-
-英文释义
----
-1. *高义频：* **欧洲的；欧洲人的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***European*** n
----
-英音 ˌjʊərə'piːən     美音 ˌjʊrə'piːən
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **欧洲人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
+# Ee
 
 # ***e-mail*** n
 ---
@@ -227,16 +16,6 @@
 > A person whose e-mail account is full won’t be able to send or receive any e-mails.  
 > 一个人的电子邮箱账户满了就无法收发任何邮件。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***e-mail*** vt
 ---
@@ -253,16 +32,6 @@
 > Will you e-mail me the document by 3:00 pm?   
 > 你下午3点前把文件用电子邮件发给我好吗？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***each*** adj
 ---
@@ -278,16 +47,6 @@
 
 > Each man has his name.   
 > 每个人都有自己的名字。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***each*** pron
@@ -312,6 +71,7 @@
 1. each不用于否定句，否定句中要用 none。 如：None of the answers were / was correct. 没有一个答案是正确的。 2. 若不想表明谈到的人是男性还是女性，可以用 they, them, their等指代。 如：Each child has their own room. 每个孩子都有自己的房间。
 ### 辨析 each, every
 
+
 固定搭配
 ---
 - #### each and every
@@ -328,13 +88,6 @@
 > We waved good-bye to each other.   
 > 我们互相挥手告别。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***each*** adv
 ---
@@ -350,16 +103,6 @@
 
 > We will give you ten yuan each.   
 > 我们会给你们每人10元。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***eager*** adj
@@ -387,13 +130,12 @@
 > His classes were crowded with eager students.   
 > 他的课上挤满了求知若渴的学生。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 eagerly /'iːgəlɪ/ adv 
 eagerness /'iːgənəs/ n 
+
 真题解析
 ---
 ##### 题目  
@@ -404,7 +146,6 @@ The teacher is glad that everyone in her class is________(渴望的) to learn.
 Some of us were confident and eager take part in the class activity.________(改错题）  
 ##### 答案 eager后加to  
   
-
 
 # ***eagerness*** n
 ---
@@ -418,16 +159,6 @@ Some of us were confident and eager take part in the class activity.________(改
 1. **热切，渴望**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***eagle*** n
 ---
@@ -440,16 +171,6 @@ Some of us were confident and eager take part in the class activity.________(改
 ---
 1. *高义频：* **[C] 雕；鹰**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ear*** n
@@ -473,6 +194,7 @@ Some of us were confident and eager take part in the class activity.________(改
 > have a keen ear   
 > 听觉灵敏
 
+
 固定搭配
 ---
 - #### be all ears 
@@ -486,13 +208,6 @@ Some of us were confident and eager take part in the class activity.________(改
 - #### lend an ear to
 1. **倾听**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***early*** adj
@@ -518,16 +233,6 @@ Some of us were confident and eager take part in the class activity.________(改
 > The early bird catches the worm.   
 > 早起的鸟儿有虫吃。/先下手为强。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***early*** adv
 ---
@@ -547,16 +252,6 @@ Some of us were confident and eager take part in the class activity.________(改
 > **early in the morning**  
 > The next day, we set off early in the morning.  
 > 第二天，我们一大早就出发了。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***earn*** v
@@ -590,6 +285,7 @@ Some of us were confident and eager take part in the class activity.________(改
 > He earned praise for honesty.   
 > 他因诚实而赢得了赞扬。
 
+
 固定搭配
 ---
 - #### earn a / one's living
@@ -599,16 +295,17 @@ Some of us were confident and eager take part in the class activity.________(改
 > He earns a / his living by doing odd jobs.   
 > 他靠打零工谋生。
 
+
 派生词汇
 ---
 earnings /'ɜːnɪŋz/ n [C] [复数]
+
 真题解析
 ---
 ##### 题目  
 You are old enough to ________ (自谋生路).  
 ##### 答案 earn / make your own living  
   
-
 
 # ***earnest*** adj
 ---
@@ -625,16 +322,6 @@ very serious and sincere：
 
 > He is so earnest over his studies.  
 > 他学习非常认真。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***earnest*** n
@@ -653,16 +340,6 @@ very serious and sincere：
 > Are you joking or in earnest?   
 > 你是开玩笑还是认真的？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***earphone*** n
 ---
@@ -675,16 +352,6 @@ very serious and sincere：
 ---
 1. *高义频：* **(常用复数) 耳机**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***earth*** n
@@ -720,6 +387,7 @@ very serious and sincere：
 > The earth in the garden is good soil.   
 > 花园里的土壤很肥沃。
 
+
 固定搭配
 ---
 - #### on earth
@@ -739,13 +407,6 @@ very serious and sincere：
 > Why on earth do you need a phone?  
 > 你到底为什么要一部手机？
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***earthquake*** n
 ---
@@ -764,16 +425,6 @@ very serious and sincere：
 
 > On May 12, 2008, a severe earthquake destroyed almost everything in the school, leaving badly-damaged buildings.  
 > 2008年5月12日，一场强烈的地震几乎摧毁了学校里的一切，楼房受损严重。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ease*** n
@@ -800,6 +451,7 @@ very serious and sincere：
 > He passed the exam with ease (= easily).  
 > 他轻而易举地通过了考试。
 
+
 固定搭配
 ---
 - #### at ease
@@ -815,13 +467,6 @@ very serious and sincere：
 
 > He was nervous at first but her warm welcome soon put him at ease.   
 > 起初他有些紧张，但是她的热情欢迎很快使他放松了下来。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ease*** v
@@ -853,6 +498,7 @@ very serious and sincere：
 > She eased her injured foot into her shoe.   
 > 她小心翼翼地把受伤的脚伸进鞋里。
 
+
 固定搭配
 ---
 - #### ease (sb / oneself) into
@@ -861,13 +507,6 @@ very serious and sincere：
 
 > After the baby, she eased herself back into work.   
 > 生完孩子她又重新开始工作了。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***easily*** adv
@@ -888,16 +527,6 @@ very serious and sincere：
 > **could easily**  
 > You could easily add to your happiness with more love.  
 > 拥有更多的爱就有可能增添几分快乐。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***east*** n
@@ -925,16 +554,6 @@ very serious and sincere：
 > Japan is to the east of China.   
 > 日本在中国的东面。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***east*** adj
 ---
@@ -954,16 +573,6 @@ very serious and sincere：
 > They live on the east coast.   
 > 他们住在东海岸。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***east*** adv
 ---
@@ -979,16 +588,6 @@ very serious and sincere：
 
 > The ship sailed east.   
 > 船向东航行。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***eastern*** adj
@@ -1009,16 +608,6 @@ very serious and sincere：
 > in eastern England  
 > 在英格兰东部
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***eastward*** adv
 ---
@@ -1032,16 +621,6 @@ very serious and sincere：
 1. *高义频：* **向东 (的)；朝东 (的)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***eastwards*** adv
 ---
@@ -1054,16 +633,6 @@ very serious and sincere：
 ---
 1. *高义频：* **向东 (的)；朝东 (的)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***easy*** adj
@@ -1108,16 +677,6 @@ very serious and sincere：
 > She is gentle and easy to approach.   
 > 她很温柔，也容易相处。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***easy*** adv
 ---
@@ -1136,6 +695,7 @@ very serious and sincere：
 
 > Easier said than done.   
 > 说起来容易做起来难。
+
 
 固定搭配
 ---
@@ -1156,13 +716,6 @@ very serious and sincere：
 > Try not to work yourself too hard. Take it easy.  
 > 别太辛苦了，轻松点
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***easy-going*** adj
 ---
@@ -1178,16 +731,6 @@ very serious and sincere：
 
 > We get along very well because he is so easy-going.  
 > 我们相处得很好，因为他很随和。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***eat*** v
@@ -1208,6 +751,7 @@ very serious and sincere：
 
 > I eat to live, but you live to eat.   
 > 我是为活而吃，但你是为吃而活。
+
 
 固定搭配
 ---
@@ -1232,13 +776,6 @@ very serious and sincere：
 > Eat up your dinner before it gets cold.   
 > 饭凉之前把它吃完。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***eccentric*** adj
 ---
@@ -1251,16 +788,6 @@ very serious and sincere：
 ---
 1. **古怪的，反常的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***echo*** n
@@ -1282,16 +809,6 @@ very serious and sincere：
 > The speech found an echo in the hearts of many of the audience.   
 > 这次演讲在许多观众的心中引起共鸣。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***echo*** v
 ---
@@ -1308,16 +825,6 @@ very serious and sincere：
 > The thunder echoed among hills.   
 > 雷声在山间回响。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ecology*** n
 ---
@@ -1330,16 +837,6 @@ very serious and sincere：
 ---
 1. *高义频：* **生态；生态学**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***economic*** adj
@@ -1361,19 +858,13 @@ connected with trade, industry and the management of money：
 > economic theory   
 > 经济学理论
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 economics /ˌiːkə'nɒmɪks;ˌekə'nɒmɪks/ n [U] 
 > **home economics**  
 > home economics   
 > 家政学
-
-真题解析
----
-[null]
 
 
 # ***economical*** adj
@@ -1392,14 +883,13 @@ using money, time, goods, etc. carefully and without wasting any：
 > an economical car   
 > 经济型轿车
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 economically /ˌiːkə'nɒmɪkli;ˌekə'nɒmɪkli/ adv 
 > Although the country has had political independence for over a century, economically it needs the support of its neighbors.  
 > 虽然这个国家政治上取得独立已有一个多世纪了，但经济上还依靠邻国的支持。
+
 
 真题解析
 ---
@@ -1407,7 +897,6 @@ economically /ˌiːkə'nɒmɪkli;ˌekə'nɒmɪkli/ adv
 Small cars are ________ (economic) of fuel, so they have more appeal for consumers.  
 ##### 答案 economical  
   
-
 
 # ***economy*** n
 ---
@@ -1440,16 +929,6 @@ Small cars are ________ (economic) of fuel, so they have more appeal for consume
 > Do you want to fly first or economy class?   
 > 你要乘头等舱还是经济舱？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ecosystem*** n
 ---
@@ -1463,16 +942,6 @@ Small cars are ________ (economic) of fuel, so they have more appeal for consume
 ---
 1. *高义频：* **生态系统**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***edge*** n
@@ -1513,16 +982,6 @@ Small cars are ________ (economic) of fuel, so they have more appeal for consume
 > I can't beat you at tennis, but I have / gain an edge on you in ping-pong.  
 > 我打网球不如你，但打乒乓球我比你强。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***edit*** vt
 ---
@@ -1545,16 +1004,6 @@ Small cars are ________ (economic) of fuel, so they have more appeal for consume
 > MeituPic is one of the most popular photo editing apps in China.  
 > 美图秀秀是中国最流行的图片编辑应用程序之一。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***edition*** n
 ---
@@ -1576,16 +1025,6 @@ Small cars are ________ (economic) of fuel, so they have more appeal for consume
 > The book reached its fourth edition.   
 > 该书出到了第四版。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***editor*** n
 ---
@@ -1600,17 +1039,11 @@ Small cars are ________ (economic) of fuel, so they have more appeal for consume
 1. *高义频：* **编辑；编者；剪辑者**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 editorial /ˌedɪ'tɔːriəl/ adj 
 editorial /ˌedɪ'tɔːriəl/ n [C] 
-真题解析
----
-[null]
-
 
 # ***educate*** vt
 ---
@@ -1645,9 +1078,7 @@ editorial /ˌedɪ'tɔːriəl/ n [C]
 > You should educate your son to study hard.  
 > 你应当教导你儿子努力学习。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 educated /'edʒukeɪtɪd/ adj 
@@ -1657,10 +1088,6 @@ educated /'edʒukeɪtɪd/ adj
 
 > the highly educated woman   
 > 很有修养的女子
-
-真题解析
----
-[null]
 
 
 # ***educated*** adj
@@ -1680,16 +1107,6 @@ educated /'edʒukeɪtɪd/ adj
 
 > the highly educated woman   
 > 很有修养的女子
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***education*** n
@@ -1717,9 +1134,7 @@ educated /'edʒukeɪtɪd/ adj
 > Unfortunately, he got / received little education.  
 > 遗憾的是，他没受过多少教育。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 educational /ˌedʒu'keɪʃənl/ adj 
@@ -1728,10 +1143,6 @@ educational /ˌedʒu'keɪʃənl/ adj
 
 > In addition, we'll be providing more educational programs.  
 > 另外，我们将提供更多的教育项目。
-
-真题解析
----
-[null]
 
 
 # ***educational*** adj
@@ -1745,16 +1156,6 @@ educational /ˌedʒu'keɪʃənl/ adj
 ---
 1. *高义频：* **教育的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***educator*** n
@@ -1770,16 +1171,6 @@ educational /ˌedʒu'keɪʃənl/ adj
 1. *高义频：* **[正式用语] 教育工作者；教师；教育学家；教育家**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***eel*** n
 ---
@@ -1793,16 +1184,6 @@ educational /ˌedʒu'keɪʃənl/ adj
 ---
 1. *高义频：* **鳗；鳝**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***effect*** n
@@ -1830,6 +1211,7 @@ educational /ˌedʒu'keɪʃənl/ adj
 > Global warming is having a great effect on hundreds of plant and animal species around the world.   
 > 全球变暖正在对世界上数百种动植物物种产生重大影响。
 
+
 固定搭配
 ---
 - #### bring / put ... into effect
@@ -1856,13 +1238,6 @@ educational /ˌedʒu'keɪʃənl/ adj
 > These measures are just beginning to take effect.   
 > 这些措施刚开始见效。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***effective*** adj
 ---
@@ -1882,17 +1257,11 @@ educational /ˌedʒu'keɪʃənl/ adj
 > The more I understood fish, the more I became effective at finding and catching them.  
 > 对鱼越了解，我越能有效地发现和捕捉到鱼。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 effectively /ɪ'fektɪvli/ adv 
 effectiveness /ɪˌfek'tɪvnɪs/ n [U]
-真题解析
----
-[null]
-
 
 # ***effectively*** adv
 ---
@@ -1905,16 +1274,6 @@ effectiveness /ɪˌfek'tɪvnɪs/ n [U]
 ---
 1. *高义频：* **有效地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***efficiency*** n
@@ -1935,16 +1294,6 @@ effectiveness /ɪˌfek'tɪvnɪs/ n [U]
 
 > improve work efficiency  
 > 提高工作效率
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***efficient*** adj
@@ -1969,19 +1318,17 @@ able to do sth well without wasting time, money or energy
 > You must find a more efficient way of organizing your time.  
 > 你必须找到一个能更有效地安排时间的方法。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 efficiently /ɪ'fɪʃntli/ adv 
+
 真题解析
 ---
 ##### 题目  
 With online shopping increasingly popular, the Internet is seen as a (n) ________ (高效率的) way of reaching target customers.  
 ##### 答案 efficient  
   
-
 
 # ***effort*** n  重难点词汇
 ---
@@ -2038,16 +1385,10 @@ an attempt to do sth that's difficult：
 > the international relief effort  
 > 国际救济行动
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 effortless /'efətləs/ adj 
-真题解析
----
-[null]
-
 
 # ***egg*** n
 ---
@@ -2062,16 +1403,6 @@ effortless /'efətləs/ adj
 1. *高义频：* **蛋；卵；鸡蛋**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***eggplant*** n
 ---
@@ -2085,16 +1416,6 @@ effortless /'efətləs/ adj
 ---
 1. *高义频：* **茄子**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***either*** pron
@@ -2112,19 +1433,13 @@ effortless /'efətləs/ adj
 > Either of the plans is satisfactory.   
 > 两个计划都令人满意。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I've lived in New York and Chicago, but don't like________of them very much.  
 ##### 答案 either  
   
-
 
 # ***either*** adj
 ---
@@ -2140,16 +1455,6 @@ I've lived in New York and Chicago, but don't like________of them very much.
 
 > There are trees on either bank of the river.   
 > 河两岸都有树。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***either*** adv
@@ -2167,12 +1472,7 @@ I've lived in New York and Chicago, but don't like________of them very much.
 > It won't do them any good, but it won't do them any harm either.  
 > 这对他们没好处，但也没什么害处。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2184,7 +1484,6 @@ Jane won't join us for dinner tonight and Tom won't ________ .
 ##### 答案 either  
   
 
-
 # ***either*** conj
 ---
 英音 'aɪðə(r)     美音 'iðər
@@ -2195,6 +1494,7 @@ Jane won't join us for dinner tonight and Tom won't ________ .
 英文释义
 ---
 1. *高义频：* **或者；要么**  
+
 
 
 固定搭配
@@ -2216,9 +1516,7 @@ Jane won't join us for dinner tonight and Tom won't ________ .
 > 不是你错就是我错。
 
 either ... or ... 连接主语时，谓语在人称和数上要与邻近的主语一致。
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2230,7 +1528,6 @@ either ... or ... 连接主语时，谓语在人称和数上要与邻近的主�
 Either you or one of your students________ (be) to attend the meeting that is due tomorrow.   
 ##### 答案 is  
   
-
 
 # ***elder*** adj
 ---
@@ -2249,16 +1546,6 @@ Either you or one of your students________ (be) to attend the meeting that is du
 
 ### 辨析 older, elder
 两个词均为old的比较级，但older更常用。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***elder*** n
 ---
@@ -2283,16 +1570,6 @@ Either you or one of your students________ (be) to attend the meeting that is du
 
 ### 辨析 older, elder
 两个词均为old的比较级，但older更常用。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***elderly*** adj
 ---
@@ -2312,16 +1589,6 @@ Either you or one of your students________ (be) to attend the meeting that is du
 > **the elderly**  
 > Chongyang, the traditional Chinese festival for the elderly, is coming around.  
 > 重阳节——中国传统的老年人的节日——即将来临。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***elect*** vt
@@ -2356,12 +1623,7 @@ to choose to do sth：
 > He has elected to become a doctor.   
 > 他决定当医生。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2369,7 +1631,6 @@ The school board is made up of parents who have been elected _________ (make) de
 affairs.  
 ##### 答案 to make  
   
-
 
 # ***electric*** adj
 ---
@@ -2386,16 +1647,6 @@ producing or using electricity：
 
 > an electric iron / fan / light   
 > 电熨斗/电扇/电灯
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***electrical*** adj
@@ -2417,16 +1668,6 @@ producing or using electricity：
 > It's OK to leave an electrical appliance on so long as you are using it — if not, turn it off!  
 > 在使用电器设备时可以让它开着，如果不用就关掉。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***electrician*** n
 ---
@@ -2439,16 +1680,6 @@ producing or using electricity：
 ---
 1. **电工；电器技师**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***electricity*** n
@@ -2473,16 +1704,6 @@ producing or using electricity：
 > turn on / off electricity   
 > 接通/切断电流
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***electrify*** v
 ---
@@ -2495,16 +1716,6 @@ producing or using electricity：
 ---
 1. **通电；使触电；使激动；使震惊**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***electronic*** adj
@@ -2525,16 +1736,6 @@ producing or using electricity：
 > an electronic dictionary   
 > 电子词典
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***elegant*** adj
 ---
@@ -2551,16 +1752,6 @@ producing or using electricity：
 > an elegant dress / restaurant   
 > 高雅的连衣裙/雅致的餐馆
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***elegantly*** adv
 ---
@@ -2573,16 +1764,6 @@ producing or using electricity：
 ---
 1. **优雅地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***element*** n
@@ -2609,16 +1790,6 @@ producing or using electricity：
 2. *高义频：* **(化学)元素**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***elephant*** n
 ---
@@ -2632,16 +1803,6 @@ producing or using electricity：
 ---
 1. *高义频：* **象**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***elevator*** n
@@ -2657,16 +1818,6 @@ producing or using electricity：
 1. *高义频：* **电梯 (BrE lift)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***elf*** n
 ---
@@ -2679,16 +1830,6 @@ producing or using electricity：
 ---
 1. **小精灵**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***else*** adv
@@ -2712,6 +1853,7 @@ producing or using electricity：
 > I've tried to phone her six times today; what else can I do?  
 > 我今天已给她打了6次电话，我还能做什么呢？
 
+
 固定搭配
 ---
 - #### or else
@@ -2725,16 +1867,13 @@ producing or using electricity：
 > 你最好马上来，要不你等着瞧！
 
 else构成所有格时，-'s加在else之后，构成else's， 如somebody else's。
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I don't think we met before. You're taking me for someone ________ .  
 ##### 答案 else  
   
-
 
 # ***elsewhere*** adv
 ---
@@ -2750,16 +1889,6 @@ I don't think we met before. You're taking me for someone ________ .
 
 > If the restaurant is full, we can go elsewhere.   
 > 如果这家餐馆客满了，我们就到别处去。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***email*** n
@@ -2778,16 +1907,6 @@ I don't think we met before. You're taking me for someone ________ .
 > A person whose e-mail account is full won’t be able to send or receive any e-mails.  
 > 一个人的电子邮箱账户满了就无法收发任何邮件。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***email*** vt
 ---
@@ -2804,16 +1923,6 @@ I don't think we met before. You're taking me for someone ________ .
 > Will you e-mail me the document by 3:00 pm?  
 > 你下午3点前把文件用电子邮件发给我好吗？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***embarrass*** vt
 ---
@@ -2829,16 +1938,6 @@ I don't think we met before. You're taking me for someone ________ .
 
 > Her questions about my private life embarrassed me.  
 > 她询问我的私生活使我感到很尴尬。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***embarrassed*** adj
@@ -2861,16 +1960,6 @@ I don't think we met before. You're taking me for someone ________ .
 > Ken gave me an embarrassed smile when I asked where he'd been.  
 > 当我问他去了哪里时，肯尴尬地朝我笑了笑。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***embarrassing*** adj
 ---
@@ -2887,16 +1976,6 @@ I don't think we met before. You're taking me for someone ________ .
 > **an embarrassing question,situation**  
 > an embarrassing question / situation  
 > 令人难堪的问题/处境
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***embarrassment*** n
@@ -2933,16 +2012,6 @@ I don't think we met before. You're taking me for someone ________ .
 > Her resignation will be a severe embarrassment to the company.  
 > 她的辞职将使该公司处于极度的困境。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***embassy*** n
 ---
@@ -2957,16 +2026,6 @@ I don't think we met before. You're taking me for someone ________ .
 1. *高义频：* **大使馆**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***embrace*** v
 ---
@@ -2979,16 +2038,6 @@ I don't think we met before. You're taking me for someone ________ .
 ---
 1. **欣然接受,乐意采纳 (新思想、意见等)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***embroidery*** n
@@ -3003,16 +2052,6 @@ I don't think we met before. You're taking me for someone ________ .
 1. **刺绣图案，刺绣品**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***embryo*** n
 ---
@@ -3026,16 +2065,6 @@ I don't think we met before. You're taking me for someone ________ .
 ---
 1. *高义频：* **(pl embryos) 胚；胚胎；萌芽时期**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***emerge*** vi
@@ -3056,16 +2085,6 @@ I don't think we met before. You're taking me for someone ________ .
 
 2. *低义频：* **兴起**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***emergency*** n
@@ -3088,16 +2107,6 @@ I don't think we met before. You're taking me for someone ________ .
 > **emergency room**  
 > an emergency room (AmE)   
 > 急诊室
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***emotion*** n
@@ -3122,16 +2131,6 @@ I don't think we met before. You're taking me for someone ________ .
 
 > The decision was based on emotion rather than on reason.   
 > 这个决定是以感性而非理性作出的。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***emotional*** adj
@@ -3168,16 +2167,10 @@ I don't think we met before. You're taking me for someone ________ .
 > an emotional person   
 > 感性的人
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 emotionally /ɪ'məʊʃənəli/ adv 
-真题解析
----
-[null]
-
 
 # ***emperor*** n
 ---
@@ -3191,16 +2184,6 @@ emotionally /ɪ'məʊʃənəli/ adv
 ---
 1. *高义频：* **皇帝**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***emphasis*** n
@@ -3231,16 +2214,6 @@ emotionally /ɪ'məʊʃənəli/ adv
 > She said with emphasis that he was innocent.   
 > 她强调说他是无辜的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***emphasise*** vt
 ---
@@ -3253,16 +2226,6 @@ emotionally /ɪ'məʊʃənəli/ adv
 ---
 1. **强调**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***emphasize*** vt
@@ -3283,16 +2246,6 @@ emotionally /ɪ'məʊʃənəli/ adv
 > I'd just like to emphasize how important it is for people to learn foreign languages.  
 > 我只是想强调学习外语是多么重要。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***empire*** n
 ---
@@ -3306,16 +2259,6 @@ emotionally /ɪ'məʊʃənəli/ adv
 ---
 1. *高义频：* **帝国；大企业**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***employ*** vt  重难点词汇
@@ -3351,6 +2294,7 @@ emotionally /ɪ'məʊʃənəli/ adv
 > They are not allowed to employ tools that use electricity.   
 > 他们不准用电动工具。
 
+
 固定搭配
 ---
 - #### be employed in doing sth 
@@ -3359,13 +2303,6 @@ emotionally /ɪ'məʊʃənəli/ adv
 
 > She was employed in making a list of all the jobs to be done.  
 > 她忙着把要做的所有工作列一个清单。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***employe(e)*** n
@@ -3381,16 +2318,6 @@ emotionally /ɪ'məʊʃənəli/ adv
 1. *高义频：* **受雇者；雇员**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***employee*** n
 ---
@@ -3405,16 +2332,6 @@ emotionally /ɪ'məʊʃənəli/ adv
 1. *高义频：* **受雇者；雇员**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***employer*** n
 ---
@@ -3428,16 +2345,6 @@ emotionally /ɪ'məʊʃənəli/ adv
 ---
 1. *高义频：* **雇主；雇用者**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***employment*** n
@@ -3468,16 +2375,6 @@ emotionally /ɪ'məʊʃənəli/ adv
 > **full-time,part-time employment**  
 > full-time / part-time employment  
 > 全职/兼职工作
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***empty*** adj
@@ -3512,16 +2409,6 @@ emotionally /ɪ'məʊʃənəli/ adv
 > Her life felt empty and meaningless.  
 > 她的生活让人感觉既空虚又无聊。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***empty*** v
 ---
@@ -3541,16 +2428,6 @@ emotionally /ɪ'məʊʃənəli/ adv
 > In most cities the sky looks as though it had been emptied of stars.  
 > 在大多数城市，天空看起来就像一颗星星都没有似的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***empty-handed*** adj
 ---
@@ -3563,16 +2440,6 @@ emotionally /ɪ'məʊʃənəli/ adv
 ---
 1. **空手；一无所获**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***enable*** vt
@@ -3596,16 +2463,6 @@ to make it possible for sb to do sth, or for sth to happen
 > Technology will enable us to make the library's content and services open to citizens as never before.  
 > 技术将使我们能够把图书馆的内容和服务向公众开放，这是前所未有的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***enclose*** vt
 ---
@@ -3622,16 +2479,6 @@ to make it possible for sb to do sth, or for sth to happen
 > Please enclose a resume with your application letter.  
 > 请在求职信中附上一份简历。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***encounter*** vt
 ---
@@ -3647,16 +2494,6 @@ to make it possible for sb to do sth, or for sth to happen
 
 > encounter an old friend  
 > 偶然遇到一位老朋友
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***encounter*** n
@@ -3675,16 +2512,6 @@ to make it possible for sb to do sth, or for sth to happen
 > **chance encounter**  
 > a chance encounter  
 > 偶遇
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***encourage*** vt  重难点词汇
@@ -3744,9 +2571,7 @@ to make sth happen more easily：
 > Dark environments are more likely to encourage overeating.  
 > 黑暗的环境更可能会促使人暴饮暴食。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 encouraged /ɪn'kʌrɪdʒd/ adj [不用于名词前]
@@ -3758,6 +2583,7 @@ encouraging /ɪn'kʌrɪdʒɪŋ/ adj
 > I'm glad to hear the encouraging news.  
 > 听到这个鼓舞人心的消息，我很高兴。
 
+
 真题解析
 ---
 ##### 题目  
@@ -3768,7 +2594,6 @@ When things aren't going well, my parents always ________(鼓励) me, telling me
 My advisor encouraged me ________ (take) a summer course to improve my writing skills.  
 ##### 答案 to take  
   
-
 
 # ***encouragement*** n
 ---
@@ -3789,16 +2614,6 @@ My advisor encouraged me ________ (take) a summer course to improve my writing s
 > Their words were a great encouragement to me.   
 > 他们的话对我是极大的鼓励。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***encyclopedia*** n
 ---
@@ -3811,16 +2626,6 @@ My advisor encouraged me ________ (take) a summer course to improve my writing s
 ---
 1. **百科全书**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***end*** n  重难点词汇
@@ -3841,6 +2646,7 @@ My advisor encouraged me ________ (take) a summer course to improve my writing s
 
 > Jo joined the end of the line.   
 > 乔站到了队尾。
+
 
 固定搭配
 ---
@@ -3919,13 +2725,6 @@ My advisor encouraged me ________ (take) a summer course to improve my writing s
 > They argued for two hours on end.  
 > 他们持续争论了两个小时。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***end*** v  重难点词汇
 ---
@@ -3948,6 +2747,7 @@ My advisor encouraged me ________ (take) a summer course to improve my writing s
 
 > All's well that ends well.  
 > 结局好一切都好。
+
 
 固定搭配
 ---
@@ -3975,16 +2775,13 @@ to find yourself in a place or situation that you did not expect to：
 > Joining the firm as a clerk, he got rapid promotion, and ended up as a manager.  
 > 尽管加入公司时他是个职员，但很快得到了提升，最终当上了经理。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Smell the flowers before you go to sleep, and you may just end up ________ sweet dreams.  
 ##### 答案 with  
   
-
 
 # ***end-of-term*** n
 ---
@@ -3997,16 +2794,6 @@ Smell the flowers before you go to sleep, and you may just end up ________ sweet
 ---
 1. **学期末**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***endanger*** vt
@@ -4023,16 +2810,6 @@ Smell the flowers before you go to sleep, and you may just end up ________ sweet
 
 > Smoking endangers your health.   
 > 吸烟有害健康。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***endangered*** adj
@@ -4052,16 +2829,6 @@ Smell the flowers before you go to sleep, and you may just end up ________ sweet
 
 > The Tibetan antelope in China is endangered now.  
 > 中国的藏羚羊现在濒临灭绝。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ending*** n
@@ -4084,16 +2851,6 @@ Smell the flowers before you go to sleep, and you may just end up ________ sweet
 > There was a happy ending to the story.   
 > 故事有个美满的结局。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***endless*** adj
 ---
@@ -4112,16 +2869,6 @@ Smell the flowers before you go to sleep, and you may just end up ________ sweet
 
 > Online learning resources seem to be endless.   
 > 网上的学习资源似乎无穷无尽。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***enemy*** n
@@ -4155,16 +2902,6 @@ Smell the flowers before you go to sleep, and you may just end up ________ sweet
 > Ignorance is the enemy of progress.   
 > 无知是进步的大敌。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***energetic*** adj
 ---
@@ -4181,12 +2918,11 @@ Smell the flowers before you go to sleep, and you may just end up ________ sweet
 > My father is lively and energetic, but he is not very patient.   
 > 我父亲性格开朗且精力旺盛，但不是很有耐心。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 energetically /ˌenə'dʒetɪkli/ adv 
+
 真题解析
 ---
 ##### 题目  
@@ -4197,7 +2933,6 @@ My grandfather is as ________ (energy) as a young man and hates sitting around d
 Running is cheap, easy and it's always________(energy).  
 ##### 答案 energetic  
   
-
 
 # ***energy*** n
 ---
@@ -4242,12 +2977,7 @@ the ability to be very active or do a lot of work without getting tired：
 
 ### 辨析 force, energy, strength, power
 四者都有“力”、“力量”之意，但具体意思不同。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4255,7 +2985,6 @@ the ability to be very active or do a lot of work without getting tired：
 — Taking plenty of exercise every day.  
 ##### 答案 energy  
   
-
 
 # ***energy-saving*** adj
 ---
@@ -4269,16 +2998,6 @@ the ability to be very active or do a lot of work without getting tired：
 1. **节能**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***enforce*** vt
 ---
@@ -4291,16 +3010,6 @@ the ability to be very active or do a lot of work without getting tired：
 ---
 1. **实施；执行**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***engage*** v  重难点词汇
@@ -4354,9 +3063,7 @@ to employ sb to do a particular job
 > Her father engaged a tutor to improve her maths.   
 > 她爸爸请了一位家庭教师给她补习数学。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 engaged /ɪn'ɡeɪdʒd/ adj 
@@ -4392,10 +3099,6 @@ engagement /ɪn'ɡeɪdʒmənt/ n [C]
 > If we invest little time in a person, our engagement with that person will decline.   
 > 如果我们不在一个人身上投入时间，我们跟那人的亲密关系就会变淡。
 
-真题解析
----
-[null]
-
 
 # ***engine*** n
 ---
@@ -4414,16 +3117,6 @@ engagement /ɪn'ɡeɪdʒmənt/ n [C]
 > a search engine / a fire engine  
 > 搜索引擎/消防车
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***engineer*** n
 ---
@@ -4441,16 +3134,10 @@ engagement /ɪn'ɡeɪdʒmənt/ n [C]
 > a chief / computer engineer  
 > 总/计算机工程师
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
-真题解析
----
-[null]
-
 
 # ***engineering*** n
 ---
@@ -4464,16 +3151,6 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
 1. **(土木) 工程**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***enhance*** vt
 ---
@@ -4486,16 +3163,6 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
 ---
 1. **增强**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***enjoy*** vt  重难点词汇
@@ -4530,6 +3197,7 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
 > Men and women should enjoy equal rights.   
 > 男女应当享有平等权利。
 
+
 固定搭配
 ---
 - #### enjoy oneself 
@@ -4542,9 +3210,7 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
 > Parents and coaches should teach children to enjoy themselves whether they win or not.   
 > 不管孩子是输还是赢，父母和教练都应该教会孩子享受乐趣。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4555,7 +3221,6 @@ The park was full of people, ________ (enjoy) themselves in the sunshine.
 In this seaside resort, you can ________ (享受) all the comfort and convenience of modern tourism.  
 ##### 答案 enjoy  
   
-
 
 # ***enjoyable*** adj
 ---
@@ -4571,16 +3236,6 @@ In this seaside resort, you can ________ (享受) all the comfort and convenienc
 
 > The first lesson was very enjoyable — I liked it a lot!  
 > 第一堂课很有趣，我非常喜欢！
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***enjoyment*** n
@@ -4607,16 +3262,6 @@ In this seaside resort, you can ________ (享受) all the comfort and convenienc
 > Children like to share interests and enjoyments with their parents.   
 > 孩子们喜欢同父母一起分享各种兴趣和乐事。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***enlarge*** v
 ---
@@ -4635,16 +3280,6 @@ In this seaside resort, you can ________ (享受) all the comfort and convenienc
 
 > We are going to have this picture enlarged.   
 > 我们准备将这张照片放大。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***enormous*** adj
@@ -4667,16 +3302,6 @@ extremely large (huge)：
 > He knows so much about the subject. His knowledge is enormous.   
 > 他对这门学科懂得很多，他的知识极其渊博。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***enormously*** adv
 ---
@@ -4689,16 +3314,6 @@ extremely large (huge)：
 ---
 1. **非常，极其**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***enough*** adj
@@ -4719,16 +3334,6 @@ extremely large (huge)：
 > **enough_1,enough for**  
 > There is enough food / food enough for ten people.  
 > 有足够10个人吃的食物。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***enough*** adv
@@ -4756,16 +3361,6 @@ extremely large (huge)：
 > He is old enough to look after his younger sister.  
 > 他长大了，能照看妹妹了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***enough*** pron
 ---
@@ -4786,6 +3381,7 @@ extremely large (huge)：
 > We have enough to do to finish the job on time.   
 > 要按时完成这项工作，我们还得加倍努力。
 
+
 固定搭配
 ---
 - #### have had enough (of)
@@ -4795,9 +3391,7 @@ extremely large (huge)：
 > I have had enough of your rudeness.   
 > 我受够了你的无礼！
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4805,7 +3399,6 @@ Although she did not know Boston well, she made her way ________ (足够容易) 
 Building.  
 ##### 答案 easily enough  
   
-
 
 # ***enrich*** vt
 ---
@@ -4824,16 +3417,6 @@ Building.
 
 > Books enrich the mind.   
 > 书籍充实头脑。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ensure*** vt
@@ -4855,16 +3438,6 @@ Building.
 
 > We must ensure the purity of drinking water.   
 > 我们必须确保饮用水的纯净。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***enter*** v
@@ -4903,6 +3476,7 @@ Building.
 > He showed me how to enter data into the computer.  
 > 他给我演示了如何将数据输入计算机。
 
+
 固定搭配
 ---
 - #### enter into
@@ -4926,13 +3500,6 @@ Building.
 > Her illness didn't enter into my plan.  
 > 在我的计划中未考虑到她会生病。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***enterprise*** n
 ---
@@ -4954,16 +3521,6 @@ Building.
 
 2. *低义频：* **事业心；进取心**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***entertain*** v
@@ -4994,17 +3551,11 @@ Building.
 > A museum should aim to entertain as well as educate.   
 > 博物馆的目标应该娱乐与教育并重。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 entertainer /ˌentə'teɪnə(r)/ n [C]
 entertaining /ˌentə'teɪnɪŋ/ adj 
-真题解析
----
-[null]
-
 
 # ***entertaining*** adj
 ---
@@ -5017,16 +3568,6 @@ entertaining /ˌentə'teɪnɪŋ/ adj
 ---
 1. *高义频：* **使人愉快的；有趣的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***entertainment*** n
@@ -5057,16 +3598,6 @@ entertaining /ˌentə'teɪnɪŋ/ adj
 > She was busy with the entertainment of the guests.  
 > 她正忙着招待客人。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***enthusiasm*** n
 ---
@@ -5087,16 +3618,6 @@ entertaining /ˌentə'teɪnɪŋ/ adj
 > **with enthusiasm**  
 > We shouldn't get discouraged right after failures.Rather, we should keep trying with enthusiasm.  
 > 失败后我们不应该马上泄气。相反，我们应该充满热情地继续努力。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***enthusiastic*** adj
@@ -5119,16 +3640,10 @@ entertaining /ˌentə'teɪnɪŋ/ adj
 > an enthusiastic supporter   
 > 热心的支持者
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 enthusiastically /ɪnˌθjuːzi'æstɪkli/ adv 
-真题解析
----
-[null]
-
 
 # ***entice*** v
 ---
@@ -5141,16 +3656,6 @@ enthusiastically /ɪnˌθjuːzi'æstɪkli/ adv
 ---
 1. **吸引，诱使**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***entire*** adj
@@ -5175,16 +3680,6 @@ enthusiastically /ɪnˌθjuːzi'æstɪkli/ adv
 > I am in entire agreement with you.   
 > 我完全赞同你的意见。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***entirely*** adv
 ---
@@ -5201,19 +3696,13 @@ enthusiastically /ɪnˌθjuːzi'æstɪkli/ adv
 > Towns only a few miles apart can have entirely different dialects.   
 > 相距仅几英里的城镇也许会说完全不同的方言。(十里不同音。)
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 She devoted herself ________ (entire) to her research and it earned her a good reputation in her field.  
 ##### 答案 entirely  
   
-
 
 # ***entitle*** vt
 ---
@@ -5239,19 +3728,13 @@ She devoted herself ________ (entire) to her research and it earned her a good r
 > We are all entitled to equal protection under the law.  
 > 我们都有权受到法律的同等保护。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Her talent and experience entitled her ________ the respect of her colleagues.  
 ##### 答案 to  
   
-
 
 # ***entrance*** n
 ---
@@ -5295,16 +3778,6 @@ Her talent and experience entitled her ________ the respect of her colleagues.
 > **Entrance to**  
 > Entrance to the museum is free.  
 > 该博物馆免费入场。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***entry*** n
@@ -5355,16 +3828,6 @@ Her talent and experience entitled her ________ the respect of her colleagues.
 > This painting is my entry for the art competition.   
 > 这幅画是我参加绘画比赛的作品。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***envelope*** n
 ---
@@ -5378,16 +3841,6 @@ Her talent and experience entitled her ________ the respect of her colleagues.
 ---
 1. *高义频：* **信封；封皮**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***environment*** n
@@ -5420,9 +3873,7 @@ the place where people live and work：
 > It was the culture, rather than the language, that made it hard for him to adapt to the new environment abroad.  
 > 是文化而不是语言使他很难适应国外的新环境。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 environmental /ɪnˌvaɪrən'mentl/ adj 
@@ -5443,10 +3894,6 @@ environmentally /ɪnˌvaɪrən'mentəli/ adv
 > 环保的
 
 environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
-真题解析
----
-[null]
-
 
 # ***environmental*** adj
 ---
@@ -5459,16 +3906,6 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 ---
 1. *高义频：* **环境的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***environmentalist*** n
@@ -5483,16 +3920,6 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 ---
 1. *高义频：* **环境保护论者**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***envy*** n
@@ -5520,18 +3947,12 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 > I felt envy at / of his success.   
 > 我羡慕他的成功。
 
+
 固定搭配
 ---
 - #### be the envy of 
 1. **是令…羡慕或嫉妒的对象**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***envy*** vt
@@ -5555,12 +3976,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 > I envy you having such a close family.   
 > 我羡慕你有这么亲密的一个家庭。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -5568,7 +3984,6 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 — I really _________ (羡慕) you.  
 ##### 答案 envy  
   
-
 
 # ***enzyme*** n
 ---
@@ -5581,16 +3996,6 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 ---
 1. **酶**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***epic*** n
@@ -5605,16 +4010,6 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 1. **史诗，叙事诗**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***epic*** adj
 ---
@@ -5627,16 +4022,6 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 ---
 1. **史诗般的,壮丽的,宏大的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***epidemic*** n
@@ -5651,16 +4036,6 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 1. **流行病**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***episode*** n
 ---
@@ -5673,16 +4048,6 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 ---
 1. **(电视连续剧或广播剧的) 一集**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***equal*** adj  重难点词汇
@@ -5711,6 +4076,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 > All human beings are equal.   
 > 人人平等。
 
+
 固定搭配
 ---
 - #### be equal to
@@ -5732,16 +4098,13 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 > He is equal to anything.   
 > 他无所不能。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Boys and girls are e________, and thus they should be treated fairly.  
 ##### 答案 equal  
   
-
 
 # ***equal*** v  重难点词汇
 ---
@@ -5760,16 +4123,6 @@ Boys and girls are e________, and thus they should be treated fairly.
 
 > No one equals him in strength.   
 > 论力气，谁也比不上他。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***equal*** n  重难点词汇
@@ -5791,16 +4144,6 @@ Boys and girls are e________, and thus they should be treated fairly.
 > **have no equal**  
 > When it comes to the art of war, ants have no equal.  
 > 在战术方面谁也比不上蚂蚁。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***equality*** n
@@ -5824,16 +4167,6 @@ Boys and girls are e________, and thus they should be treated fairly.
 > racial equality   
 > 种族平等
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***equally*** adv
 ---
@@ -5850,12 +4183,7 @@ Boys and girls are e________, and thus they should be treated fairly.
 > People are born equal and should be treated equally.  
 > 人生来平等，应该同等对待。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -5866,7 +4194,6 @@ Men and women must be treated ________ (平等地) in education and employment.
 Anyone, whether he is an official or a bus driver, should be ________ (equal) respected.  
 ##### 答案 equally  
   
-
 
 # ***equate*** vt
 ---
@@ -5884,16 +4211,6 @@ Anyone, whether he is an official or a bus driver, should be ________ (equal) re
 > Some parents equate education with exam success.  
 > 有些父母把教育和考试成绩优秀等同起来。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***equator*** n
 ---
@@ -5906,16 +4223,6 @@ Anyone, whether he is an official or a bus driver, should be ________ (equal) re
 ---
 1. *高义频：* **[用单数，常用作the equator] 赤道**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***equip*** vt
@@ -5969,16 +4276,6 @@ to prepare sb for an activity or task by giving them the information and skills�
 > A good education should equip you for life.   
 > 良好的教育能使你受用终生。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***equipment*** n
 ---
@@ -5995,16 +4292,6 @@ to prepare sb for an activity or task by giving them the information and skills�
 > **pieces of equipment**  
 > There are a lot of pieces of equipment in the gym.  
 > 健身馆里有很多设备。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***era*** n
@@ -6027,16 +4314,6 @@ to prepare sb for an activity or task by giving them the information and skills�
 > We are now in a great new era of information.   
 > 我们现在正处于一个崭新的伟大的信息时代。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***erase*** vt
 ---
@@ -6049,16 +4326,6 @@ to prepare sb for an activity or task by giving them the information and skills�
 ---
 1. *高义频：* **删除；擦掉；消除**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***eraser*** n
@@ -6073,16 +4340,6 @@ to prepare sb for an activity or task by giving them the information and skills�
 1. *高义频：* **橡皮擦**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***erosion*** n
 ---
@@ -6095,16 +4352,6 @@ to prepare sb for an activity or task by giving them the information and skills�
 ---
 1. **侵蚀, (土壤) 流失**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***error*** n
@@ -6127,6 +4374,7 @@ to prepare sb for an activity or task by giving them the information and skills�
 > Carelessness often leads to errors.   
 > 粗心常常导致错误。
 
+
 固定搭配
 ---
 - #### in error 
@@ -6137,13 +4385,6 @@ to prepare sb for an activity or task by giving them the information and skills�
 > 恐怕他那样说是弄错了。
 
 ### 辨析 error, mistake, fault
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***erupt*** vi
@@ -6164,16 +4405,6 @@ to prepare sb for an activity or task by giving them the information and skills�
 > Violence erupted after the football match.   
 > 足球赛后发生了暴力事件。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***erupt*** vt
 ---
@@ -6187,16 +4418,6 @@ to prepare sb for an activity or task by giving them the information and skills�
 1. **（火山的）爆发；喷发**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***eruption*** n
 ---
@@ -6209,16 +4430,6 @@ to prepare sb for an activity or task by giving them the information and skills�
 ---
 1. **火山爆发；（战争等）爆发**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***escape*** v
@@ -6263,16 +4474,6 @@ to prepare sb for an activity or task by giving them the information and skills�
 > A small hole allowed smoke to escape from the top.  
 > 一个小孔能让烟从顶部冒出来。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***escape*** n
 ---
@@ -6307,16 +4508,6 @@ to prepare sb for an activity or task by giving them the information and skills�
 > a fire escape   
 > 安全门
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***especially*** adv
 ---
@@ -6338,12 +4529,7 @@ to prepare sb for an activity or task by giving them the information and skills�
 
 ### 辨析 especially, specially
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -6354,7 +4540,6 @@ According to the recent survey, cancer is the leading cause of death among young
 A sudden stop can be a very frightening experience,________(尤其) if you are travelling at high speed.  
 ##### 答案 especially / particularly  
   
-
 
 # ***essay*** n
 ---
@@ -6374,16 +4559,6 @@ A sudden stop can be a very frightening experience,________(尤其) if you are t
 
 > Last week, I even forgot to do / write my English essay.  
 > 上周，我甚至忘了写英语作文。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***essential*** adj
@@ -6416,16 +4591,10 @@ A sudden stop can be a very frightening experience,________(尤其) if you are t
 > The words are essential for everybody to learn English.   
 > 这些词对于每一个英语学习者来说，都是必备的。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 essentially /ɪ'senʃəli/ adv 
-真题解析
----
-[null]
-
 
 # ***establish*** vt  重难点词汇
 ---
@@ -6464,9 +4633,7 @@ essentially /ɪ'senʃəli/ adv
 > By then she was established as a famous star.   
 > 那时她的明星地位已得到确立。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 established /ɪ'stæblɪʃt/ adj 
@@ -6476,13 +4643,13 @@ established /ɪ'stæblɪʃt/ adj
 > an established fact  
 > 既定事实
 
+
 真题解析
 ---
 ##### 题目  
 By 1909, Picasso had established himself ________ a painter of great talent in Paris.  
 ##### 答案 as  
   
-
 
 # ***establishment*** n
 ---
@@ -6506,16 +4673,6 @@ By 1909, Picasso had established himself ________ a painter of great talent in P
 > an educational establishment   
 > 教育机构
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***estate*** n
 ---
@@ -6538,16 +4695,6 @@ By 1909, Picasso had established himself ________ a painter of great talent in P
 
 3. *低义频：* **[常用单数] 个人全部财产 (尤指遗产)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***estimate*** vt
@@ -6580,16 +4727,6 @@ By 1909, Picasso had established himself ________ a painter of great talent in P
 > It is estimated that 80% of all conversation in English is small talk.   
 > 据估计，英语中80%的谈话都是闲谈。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***estimate*** n
 ---
@@ -6607,16 +4744,6 @@ By 1909, Picasso had established himself ________ a painter of great talent in P
 > a conservative / rough estimate  
 > 保守的/粗略的估算
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***etc*** abbr
 ---
@@ -6629,16 +4756,6 @@ By 1909, Picasso had established himself ________ a painter of great talent in P
 ---
 1. *高义频：* **诸如此类；等等**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***etc*** adv
@@ -6654,16 +4771,6 @@ By 1909, Picasso had established himself ________ a painter of great talent in P
 1. *高义频：* **诸如此类的事物；等等**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ethnic*** adj
 ---
@@ -6677,16 +4784,6 @@ By 1909, Picasso had established himself ________ a painter of great talent in P
 1. *高义频：* **种族的；民族的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***euro*** n
 ---
@@ -6699,16 +4796,6 @@ By 1909, Picasso had established himself ________ a painter of great talent in P
 ---
 1. *高义频：* **(pl euro / euros) 欧元**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***evacuate*** v
@@ -6738,16 +4825,6 @@ By 1909, Picasso had established himself ________ a painter of great talent in P
 > Locals were told to evacuate.  
 > 当地居民已收到撤离的通知。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***evaluate*** vt
 ---
@@ -6768,19 +4845,13 @@ to judge how good, useful, or successful sth is (assess)：
 > We need to evaluate how well the policy is working.  
 > 我们需要对这一政策产生的效果作出评价。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 It is widely acknowledged that students should be ________ (评价) in terms of overall quality.  
 ##### 答案 evaluated / assessed  
   
-
 
 # ***eve*** n
 ---
@@ -6802,16 +4873,6 @@ It is widely acknowledged that students should be ________ (评价) in terms of 
 > **on the eve of**  
 > on the eve of an election   
 > 在选举前夕
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***even*** adv
@@ -6849,6 +4910,7 @@ even可用以强调句子的任何成分，置于被修饰的词语前；若有�
 > The screen turned even brighter.   
 > 屏幕变得更亮了。
 
+
 固定搭配
 ---
 - #### even if / though
@@ -6872,13 +4934,6 @@ even可用以强调句子的任何成分，置于被修饰的词语前；若有�
 > Your uncle seems to be a good driver; even so, I wouldn't dare to travel in his car.  
 > 你叔叔看上去开车技术不错；即便如此，我也不敢坐他的车。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***even*** adj
 ---
@@ -6892,19 +4947,13 @@ even可用以强调句子的任何成分，置于被修饰的词语前；若有�
 1. *高义频：* **平坦的；平的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Much of the power of the trade unions has been lost. _________ (尽管如此), their political infl uence should be very great.  
 ##### 答案 Even so  
   
-
 
 # ***evening*** n
 ---
@@ -6937,16 +4986,6 @@ Much of the power of the trade unions has been lost. _________ (尽管如此), t
 
 > an English evening   
 > 英语晚会
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***event*** n  重难点词汇
@@ -6990,6 +5029,7 @@ sth happens, especially sth important or unusual：
 > The 2008 Olympic Games is the biggest sporting event ever held in Beijing.   
 > 2008年奥运会是北京有史以来举办的最大规模的体育赛事。
 
+
 固定搭配
 ---
 - #### at all events / in any event 
@@ -7016,13 +5056,6 @@ sth happens, especially sth important or unusual：
 > In the event that she has not been informed, I will tell her.  
 > 如果她还不知道，我会告诉她的。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***eventual*** adj
 ---
@@ -7042,16 +5075,6 @@ sth happens, especially sth important or unusual：
 
 > the eventual outcome   
 > 最终结果
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***eventually*** adv
@@ -7075,19 +5098,13 @@ after a long time, or after a lot of things have happened：
 
 ### 辨析 finally, eventually, in the end, at last, lastly  
 五者都有“最后”之意。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 There was such a long queue for coffee at the interval that we ________ (eventual) gave up.  
 ##### 答案 eventually  
   
-
 
 # ***ever*** adv
 ---
@@ -7124,6 +5141,7 @@ ever常用于否定句、一般疑问句以及表示条件和比较的从句，�
 > Why ever did you do so?   
 > 你究竟为什么要这么做？
 
+
 固定搭配
 ---
 - #### ever after 
@@ -7140,9 +5158,7 @@ ever常用于否定句、一般疑问句以及表示条件和比较的从句，�
 > The Project Hope has helped numerous poor students ever since it was founded.  
 > 希望工程自创建以来已经帮助了无数的贫困学生。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -7162,7 +5178,6 @@ D.never
 ##### 答案 B  
   
 
-
 # ***everlasting*** adj
 ---
 英音 ˌevə'lɑːstɪŋ     
@@ -7174,16 +5189,6 @@ D.never
 ---
 1. **永恒的；持久的；无止境的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***every*** adj
@@ -7226,6 +5231,7 @@ D.never
 > We have every reason to dismiss him.   
 > 我们有充足的理由解雇他。
 
+
 固定搭配
 ---
 - #### every now and then 
@@ -7236,13 +5242,6 @@ D.never
 > 我时不时会去朋友家看肥皂剧。
 
 ### 辨析 each, every
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***everybody*** pron
@@ -7266,16 +5265,6 @@ D.never
 句中常用they或he指代everybody / everyone。
 > Everyone has their / his duty.   
 > 人人都有自己的职责。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***everyday*** adj
@@ -7301,16 +5290,6 @@ everyday是形容词，通常作前置定语，而everyday是副词短语，常�
 > We speak English every day.  
 > 我们每天都说英语。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***everyone*** pron
 ---
@@ -7331,12 +5310,7 @@ everyday是形容词，通常作前置定语，而everyday是副词短语，常�
 > Everyone has their / his duty.   
 > 人人都有自己的职责。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -7347,7 +5321,6 @@ C.Everyone
 D.Someone  
 ##### 答案 C  
   
-
 
 # ***everything*** pron
 ---
@@ -7378,19 +5351,13 @@ D.Someone
 > In learning English, grammar is not everything.   
 > 学英语，语法不是最重要的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Make sure you've got the passports and tickets and anything before you leave.  
 ##### 答案 anything → everything  
   
-
 
 # ***everywhere*** adv
 ---
@@ -7414,19 +5381,13 @@ everywhere可引导地点状语从句。
 > My dog followed me everywhere I went. 无论我走到哪里，我的狗都跟着我。  
 > 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 There were piles of newspapers ________(到处) in the house.  
 ##### 答案 everywhere  
   
-
 
 # ***evidence*** n
 ---
@@ -7457,16 +5418,6 @@ There were piles of newspapers ________(到处) in the house.
 > Before making his decision, the judge heard the evidence.   
 > 法官听取证词后才作决定。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***evident*** adj
 ---
@@ -7487,16 +5438,10 @@ There were piles of newspapers ________(到处) in the house.
 > It is evident that the education of the young is vital to the future of a country.   
 > 很明显，青年人的教育对一个国家的未来是至关重要的。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 evidently /'evɪdəntli/ adv 
-真题解析
----
-[null]
-
 
 # ***evil*** adj
 ---
@@ -7512,16 +5457,6 @@ evidently /'evɪdəntli/ adv
 
 > evil thoughts   
 > 邪念
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***evil*** n
@@ -7542,16 +5477,6 @@ evidently /'evɪdəntli/ adv
 
 > Money is often said to be the root of all evil.   
 > 人们常说金钱是万恶之源。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***evolution*** n
@@ -7577,16 +5502,6 @@ evidently /'evɪdəntli/ adv
 > the evolution of the computer  
 > 计算机的发展
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***evolve*** v
 ---
@@ -7608,16 +5523,6 @@ evidently /'evɪdəntli/ adv
 > Do you think man has evolved from the ape?  
 > 你认为人是从类人猿进化而来的吗？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ex-*** prefix
 ---
@@ -7631,16 +5536,6 @@ evidently /'evɪdəntli/ adv
 1. *高义频：* **以前的；前任的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ex-husband*** n
 ---
@@ -7653,16 +5548,6 @@ evidently /'evɪdəntli/ adv
 ---
 1. **前夫**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***exact*** adj
@@ -7687,6 +5572,7 @@ evidently /'evɪdəntli/ adv
 > an exact scholar   
 > 治学严谨的学者
 
+
 固定搭配
 ---
 - #### to be exact 
@@ -7695,13 +5581,6 @@ evidently /'evɪdəntli/ adv
 
 > I read an article about paper, to be exact, about how much Americans use up each year.   
 > 我读到一篇有关纸的文章，确切地说，是关于美国人每年用纸量的文章。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***exactly*** adv
@@ -7729,6 +5608,7 @@ evidently /'evɪdəntli/ adv
 > — Exactly.   
 > 正是。
 
+
 固定搭配
 ---
 - #### not exactly 
@@ -7744,9 +5624,7 @@ evidently /'evɪdəntli/ adv
 > — Not exactly. It's 3:20 now.  
 > 根本不可能。现在都3:20了。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -7760,7 +5638,6 @@ evidently /'evɪdəntli/ adv
 ##### 答案 Exactly  
   
 
-
 # ***exaggerate*** v
 ---
 英音 ɪɡ'zædʒəreɪt     美音 ɪɡ'zædʒəreɪt
@@ -7772,16 +5649,6 @@ evidently /'evɪdəntli/ adv
 ---
 1. *高义频：* **夸张；夸大**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***exaggerated*** adj
@@ -7795,16 +5662,6 @@ evidently /'evɪdəntli/ adv
 ---
 1. **(声音或动作) 夸张的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***exam*** n
@@ -7824,16 +5681,6 @@ evidently /'evɪdəntli/ adv
 
 > an eye exam  
 > 眼科检查
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***examination*** n
@@ -7861,16 +5708,6 @@ evidently /'evɪdəntli/ adv
 > a medical examination   
 > 体格检查
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***examine*** vt
 ---
@@ -7892,17 +5729,11 @@ evidently /'evɪdəntli/ adv
 
 ### 辨析 check, examine, inspect, test
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 examinee /ɪɡˌzæmɪ'niː/ n [C]
 examiner /ɪɡ'zæmɪnə(r)/ n [C]
-真题解析
----
-[null]
-
 
 # ***example*** n
 ---
@@ -7927,6 +5758,7 @@ examiner /ɪɡ'zæmɪnə(r)/ n [C]
 
 > For many cities in the world, there is no room to spread out further, of which New York is an example.  
 > 对于世界上的许多城市来说，已经没有空间再进一步扩展，纽约就是个例子。
+
 
 固定搭配
 ---
@@ -7955,13 +5787,6 @@ examiner /ɪɡ'zæmɪnə(r)/ n [C]
 > You can take your research work for example.   
 > 你可以拿你的研究工作做个例子。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***excavate*** vt
 ---
@@ -7974,16 +5799,6 @@ examiner /ɪɡ'zæmɪnə(r)/ n [C]
 ---
 1. *高义频：* **挖掘；发掘**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***excavation*** n
@@ -7999,16 +5814,6 @@ examiner /ɪɡ'zæmɪnə(r)/ n [C]
 1. *高义频：* **挖掘；发掘**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***exceed*** vt
 ---
@@ -8022,19 +5827,13 @@ examiner /ɪɡ'zæmɪnə(r)/ n [C]
 1. *高义频：* **超过；超出； 超越**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Around 13,500 new jobs were created during the period,________ (exceed) the expected number of 12,000 held by market analysts.  
 ##### 答案 exceeding  
   
-
 
 # ***excellent*** adj
 ---
@@ -8058,16 +5857,6 @@ extremely good：
 
 > Both the food and the service are excellent here.   
 > 这里的饭菜和服务都是一流的。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***except*** conj & prep
@@ -8098,6 +5887,7 @@ extremely good：
 
 ### 辨析 besides, except
 二者都可用作介词；都含有“除…之外”之意。
+
 固定搭配
 ---
 - #### except for 
@@ -8110,6 +5900,7 @@ extremely good：
 > The room is empty except for a bookshelf standing in one corner.   
 > 除了角落里立着一个书架外，房间内空荡荡的。
 
+
 派生词汇
 ---
 exception /ɪk'sepʃn/ n [C] & [U]
@@ -8121,13 +5912,13 @@ exception /ɪk'sepʃn/ n [C] & [U]
 > I don't usually lend people money, but in your case I'll make an exception.  
 > 我一般不借钱给别人，但就你的情况我可以破例。
 
+
 真题解析
 ---
 ##### 题目  
 Everything was perfect for the picnic except ________ the weather.  
 ##### 答案 for  
   
-
 
 # ***except*** conj
 ---
@@ -8156,6 +5947,7 @@ Everything was perfect for the picnic except ________ the weather.
 
 ### 辨析 besides, except
 二者都可用作介词；都含有“除…之外”之意。
+
 固定搭配
 ---
 - #### except for
@@ -8168,6 +5960,7 @@ Everything was perfect for the picnic except ________ the weather.
 > The room is empty except for a bookshelf standing in one corner.  
 > 除了角落里立着一个书架外，房间内空荡荡的。
 
+
 派生词汇
 ---
 exception /ɪk'sepʃn/ n [C] & [U]
@@ -8179,13 +5972,13 @@ exception /ɪk'sepʃn/ n [C] & [U]
 > I don't usually lend people money, but in your case I'll make an exception.  
 > 我一般不借钱给别人，但就你的情况我可以破例。
 
+
 真题解析
 ---
 ##### 题目  
 Everything was perfect for the picnic except ________ the weather.   
 ##### 答案 for  
   
-
 
 # ***exception*** n
 ---
@@ -8198,16 +5991,6 @@ Everything was perfect for the picnic except ________ the weather.
 ---
 1. **例外**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***exceptional*** adj
@@ -8222,16 +6005,6 @@ Everything was perfect for the picnic except ________ the weather.
 1. **杰出的 (outstanding)；罕见的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***exceptionally*** adv
 ---
@@ -8245,16 +6018,6 @@ Everything was perfect for the picnic except ________ the weather.
 1. **极其，非常**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***excerpt*** n
 ---
@@ -8267,16 +6030,6 @@ Everything was perfect for the picnic except ________ the weather.
 ---
 1. **摘录，节录**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***exchange*** n  重难点词汇
@@ -8326,16 +6079,6 @@ Everything was perfect for the picnic except ________ the weather.
 > New York Stock Exchange   
 > 纽约证券交易所
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***exchange*** vt  重难点词汇
 ---
@@ -8368,19 +6111,13 @@ Everything was perfect for the picnic except ________ the weather.
 > You can exchange your currency for dollars in the hotel.   
 > 你可以在旅馆把钱兑换成美元。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 It is illegal for a public official to ask people for gifts or money in exchange ________ favors to them.  
 ##### 答案  for  
   
-
 
 # ***excite*** vt
 ---
@@ -8404,16 +6141,6 @@ It is illegal for a public official to ask people for gifts or money in exchange
 > **excite,interest**  
 > The museum offers a variety of activities to excite your kids' interest.  
 > 博物馆提供很多活动来激发孩子们的兴趣。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***excited*** adj
@@ -8447,16 +6174,6 @@ It is illegal for a public official to ask people for gifts or money in exchange
 > I'm very excited (that) we're going to New York.  
 > 我们要去纽约了，对此我感到非常兴奋。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***excitement*** n
 ---
@@ -8480,16 +6197,6 @@ It is illegal for a public official to ask people for gifts or money in exchange
 > The visiting circus was an excitement to every child in town.   
 > 马戏团的到来使镇上的每个孩子都很兴奋。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***exciting*** adj
 ---
@@ -8509,16 +6216,6 @@ It is illegal for a public official to ask people for gifts or money in exchange
 > The marathon is an exciting event in any year.   
 > 马拉松比赛无论在哪一年都是一件令人兴奋的体育赛事。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***exclaim*** v
 ---
@@ -8531,16 +6228,6 @@ It is illegal for a public official to ask people for gifts or money in exchange
 ---
 1. **惊叫，大叫**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***exclude*** vt
@@ -8559,16 +6246,6 @@ It is illegal for a public official to ask people for gifts or money in exchange
 > Some of the data was specifically excluded from the report.   
 > 这篇报道特意没包括某些数据。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***excluding*** prep
 ---
@@ -8581,16 +6258,6 @@ It is illegal for a public official to ask people for gifts or money in exchange
 ---
 1. *高义频：* **不包括；除去**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***excuse*** vt  重难点词汇
@@ -8628,6 +6295,7 @@ It is illegal for a public official to ask people for gifts or money in exchange
 > She excused herself and left the meeting early.  
 > 她礼貌地告辞后，就提前离开了会场。
 
+
 固定搭配
 ---
 - #### excuse me 
@@ -8636,13 +6304,6 @@ It is illegal for a public official to ask people for gifts or money in exchange
 
 > Excuse me, could you please move in a bit to let me pass?   
 > 对不起，请挪一下，让我过去好吗？
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***excuse*** n  重难点词汇
@@ -8665,12 +6326,7 @@ It is illegal for a public official to ask people for gifts or money in exchange
 > Birthdays are always a good excuse for a party.   
 > 生日总是聚会的好理由。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -8678,7 +6334,6 @@ It is illegal for a public official to ask people for gifts or money in exchange
 — There is no excuse ________ this while you are on duty.  
 ##### 答案 for  
   
-
 
 # ***executive*** n
 ---
@@ -8695,16 +6350,6 @@ It is illegal for a public official to ask people for gifts or money in exchange
 
 > Chief Executive Officer (CEO)  
 > 首席执行官
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***exercise*** n
@@ -8742,16 +6387,6 @@ It is illegal for a public official to ask people for gifts or money in exchange
 > Do the exercises on page fifty.   
 > 做第50页的练习。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***exercise*** v
 ---
@@ -8783,16 +6418,6 @@ It is illegal for a public official to ask people for gifts or money in exchange
 > Caution must be exercised when you operate this equipment.  
 > 使用这台设备时你务必要小心。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***exhaust*** vt
 ---
@@ -8805,16 +6430,6 @@ It is illegal for a public official to ask people for gifts or money in exchange
 ---
 1. *高义频：* **使精疲力竭；用完；耗尽**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***exhausted*** adj
@@ -8835,19 +6450,13 @@ It is illegal for a public official to ask people for gifts or money in exchange
 > We were all rather exhausted when we got to the top of the mountain.   
 > 我们到达山顶时都相当疲倦了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 After his journey from abroad, Richard Jones returned home, _______ (exhaust).  
 ##### 答案 exhausted  
   
-
 
 # ***exhausting*** adj
 ---
@@ -8861,16 +6470,6 @@ After his journey from abroad, Richard Jones returned home, _______ (exhaust).
 1. *高义频：* **使人精疲力竭的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***exhaustion*** n
 ---
@@ -8883,16 +6482,6 @@ After his journey from abroad, Richard Jones returned home, _______ (exhaust).
 ---
 1. **疲惫；精疲力竭**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***exhibit*** v
@@ -8919,16 +6508,6 @@ After his journey from abroad, Richard Jones returned home, _______ (exhaust).
 > She exhibited no fear in the face of danger.   
 > 面对危险她毫无惧色。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***exhibit*** n
 ---
@@ -8944,16 +6523,6 @@ After his journey from abroad, Richard Jones returned home, _______ (exhaust).
 
 > Please do not touch the exhibits.   
 > 请勿触摸展品。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***exhibition*** n
@@ -8977,19 +6546,13 @@ After his journey from abroad, Richard Jones returned home, _______ (exhaust).
 > We are organizing an art exhibition for high school students in the city.   
 > 我们在为本市的高中学生组织艺术展。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Xi'an International ________(展览) Center has attracted many business people.  
 ##### 答案 Exhibition  
   
-
 
 # ***exist*** vi
 ---
@@ -9015,16 +6578,10 @@ Xi'an International ________(展览) Center has attracted many business people.
 > One cannot exist without air.   
 > 没有空气人就不能生存。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 existing /ɪɡ'zɪstɪŋ/ adj [只用于名词前] 
-真题解析
----
-[null]
-
 
 # ***existence*** n
 ---
@@ -9051,19 +6608,13 @@ existing /ɪɡ'zɪstɪŋ/ adj [只用于名词前]
 2. *高义频：* **生存；生活 (尤指不幸的生活)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The development of industry has been a gradual process throughout human ________ (exist), from stone tools to modern technology.   
 ##### 答案 existence  
   
-
 
 # ***exit*** n
 ---
@@ -9089,16 +6640,6 @@ The development of industry has been a gradual process throughout human ________
 > make an exit  
 > 退场
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***exit*** v
 ---
@@ -9112,16 +6653,6 @@ The development of industry has been a gradual process throughout human ________
 1. **离开；退出 (电脑程序)；退场**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***exit*** v
 ---
@@ -9134,16 +6665,6 @@ The development of industry has been a gradual process throughout human ________
 ---
 1. **离开；退出 (电脑程序)；退场**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***expand*** v
@@ -9167,16 +6688,6 @@ The development of industry has been a gradual process throughout human ________
 > When you heat a metal, it expands.   
 > 金属遇热膨胀。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***expansion*** n
 ---
@@ -9190,16 +6701,6 @@ The development of industry has been a gradual process throughout human ________
 1. **扩张**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***expansion*** n
 ---
@@ -9212,16 +6713,6 @@ The development of industry has been a gradual process throughout human ________
 ---
 1. **扩大；扩张；扩充**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***expect*** vt  重难点词汇
@@ -9300,6 +6791,7 @@ to demand that sb will do sth because it is their duty：
 > — I expect so / not.   
 > 我想会的/不会。
 
+
 固定搭配
 ---
 - #### be expecting a baby / child 
@@ -9309,9 +6801,11 @@ to demand that sb will do sth because it is their duty：
 > If you are expecting a baby, your smoking habit might cause problems for it.   
 > 如果你怀孕了，吸烟的习惯可能会对胎儿产生不良影响。
 
+
 派生词汇
 ---
 expected /ɪk'spektɪd/ adj 
+
 真题解析
 ---
 ##### 题目  
@@ -9322,7 +6816,6 @@ C.suggest
 D.suppose  
 ##### 答案 B  
   
-
 
 # ***expectancy*** n
 ---
@@ -9335,16 +6828,6 @@ D.suppose
 ---
 1. **(根据概率得出的) 预期数额**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***expectation*** n
@@ -9372,6 +6855,7 @@ D.suppose
 > They closed the windows in expectation of rain.   
 > 他们预料会下雨，就关上了窗户。
 
+
 固定搭配
 ---
 - #### beyond (sb's) expectation(s)
@@ -9380,13 +6864,6 @@ D.suppose
 
 > It was an A+, which was beyond my modest expectations.  
 > 我得了个A+，这大大出乎我的意料。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***expedition*** n
@@ -9404,16 +6881,6 @@ D.suppose
 
 > make an expedition   
 > 远征；探险
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***expense*** n  重难点词汇
@@ -9449,6 +6916,7 @@ D.suppose
 > I don't think we can afford the expense.  
 > 我认为我们负担不起这个费用。
 
+
 固定搭配
 ---
 - #### at sb's expense
@@ -9465,16 +6933,13 @@ D.suppose
 > He finished the job at the expense of his health.   
 > 他以健康为代价完成了这项工作。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 One thousand dollars a month is not a fortune but would help cover my living ________ (开支).  
 ##### 答案 expenses  
   
-
 
 # ***expensive*** adj
 ---
@@ -9498,16 +6963,6 @@ One thousand dollars a month is not a fortune but would help cover my living ___
 > **expensive to run**  
 > Some cars are cheap to buy, but expensive to run.  
 > 一些车买的时候便宜，但是养起来贵。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***experience*** n  重难点词汇
@@ -9551,16 +7006,6 @@ sth that happens to you or sth you do：
 > He thought the trip was a life changing experience.  
 > 他认为这次旅行是改变人生的一次经历。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***experience*** vt  重难点词汇
 ---
@@ -9589,12 +7034,7 @@ sth that happens to you or sth you do：
 > New companies often experience a loss in their first few years.   
 > 新公司在它们的最初几年中往往会遭受亏损。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -9605,7 +7045,6 @@ If you come to visit China, you will _______ (体验到) a culture of amazing de
 Jumping out of ________airplane at ten thousand feet is quite ________exciting experience.  
 ##### 答案 an; an  
   
-
 
 # ***experienced*** adj
 ---
@@ -9625,16 +7064,6 @@ Jumping out of ________airplane at ten thousand feet is quite ________exciting e
 > **experienced in**  
 > be experienced in teaching   
 > 教学经验丰富
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***experiment*** n
@@ -9656,16 +7085,6 @@ Jumping out of ________airplane at ten thousand feet is quite ________exciting e
 
 > These experiments showed that our body clocks are affected by light and temperature.   
 > 这些实验表明我们的生物钟受光和温度的影响。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***experiment*** vi
@@ -9692,16 +7111,10 @@ Jumping out of ________airplane at ten thousand feet is quite ________exciting e
 > The school is experimenting with new teaching methods.  
 > 这所学校正在尝试新的教学法。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 experimental /ɪkˌsperɪ'mentl/ adj 
-真题解析
----
-[null]
-
 
 # ***expert*** n
 ---
@@ -9724,16 +7137,6 @@ experimental /ɪkˌsperɪ'mentl/ adj
 > an expert at playing golf  
 > 打高尔夫球的高手
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***expert*** adj
 ---
@@ -9751,16 +7154,6 @@ experimental /ɪkˌsperɪ'mentl/ adj
 > He is expert at / in driving cars.  
 > 他开车技术娴熟。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***expertise*** n
 ---
@@ -9774,16 +7167,6 @@ experimental /ɪkˌsperɪ'mentl/ adj
 ---
 1. *高义频：* **专家意见；专门知识 (技能等)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***explain*** v
@@ -9817,6 +7200,7 @@ explain不可接双宾语。
 > It was a small book explaining how to cut the death rate from having and caring for babies.  
 > 这是一本小册子，介绍如何在生育和护理婴儿的过程中降低死亡率。
 
+
 固定搭配
 ---
 - #### explain oneself
@@ -9828,13 +7212,6 @@ explain不可接双宾语。
 
 > I'm going to give you five minutes to explain yourself.  
 > 我给你五分钟解释自己的所作所为。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***explanation*** n
@@ -9861,16 +7238,6 @@ explain不可接双宾语。
 > He left the room without explanation.  
 > 他未加解释就离开了房间。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***explicit*** adj
 ---
@@ -9893,16 +7260,6 @@ explain不可接双宾语。
 
 > His comprehensive surveys have provided the most explicit statements of how, and on what basis, data are collected.  
 > 他的综合调查非常清楚地说明了应该以什么样的方式、以什么为基础收集数据。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***explode*** v
@@ -9933,16 +7290,6 @@ explain不可接双宾语。
 > Florida's population exploded after World War II.  
 > 二战后，佛罗里达州的人口迅速增加。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***exploit*** vt
 ---
@@ -9956,16 +7303,6 @@ explain不可接双宾语。
 1. *高义频：* **开发；开采；利用；剥削**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***exploration*** n
 ---
@@ -9978,16 +7315,6 @@ explain不可接双宾语。
 ---
 1. **（对某地区的）勘查**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***explore*** v
@@ -10018,16 +7345,10 @@ explain不可接双宾语。
 > We need to explore ways of improving work efficiency.  
 > 我们需要探讨如何提高工作效率。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 explorer /ɪk'splɔːrə(r)/ n 
-真题解析
----
-[null]
-
 
 # ***explorer*** n
 ---
@@ -10040,16 +7361,6 @@ explorer /ɪk'splɔːrə(r)/ n
 ---
 1. **探险者**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***explosion*** n
@@ -10077,16 +7388,6 @@ explorer /ɪk'splɔːrə(r)/ n
 > an explosion in oil price  
 > 油价猛涨
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***explosive*** adj
 ---
@@ -10099,16 +7400,6 @@ explorer /ɪk'splɔːrə(r)/ n
 ---
 1. **爆炸 (式)的,爆发的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***export*** n
@@ -10133,16 +7424,6 @@ explorer /ɪk'splɔːrə(r)/ n
 > Wool is one of the chief exports of Australia.  
 > 羊毛是澳大利亚的主要出口商品之一。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***export*** v
 ---
@@ -10158,16 +7439,6 @@ explorer /ɪk'splɔːrə(r)/ n
 
 > Australia actually exports the most diamonds and coal in the world!  
 > 事实上，澳大利亚是世界上出口钻石和煤炭最多的国家！
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***expose*** vt  重难点词汇
@@ -10222,18 +7493,12 @@ to give sb the chance to experience sth：
 > I am repeatedly exposed to the basic words and learn how they are used to explain objects and ideas.  
 > 我反复地接触这些基础词汇并学习如何用它们解释实物和思想。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 exposed /ɪk'spəʊzd/ adj 
 > My heart was beating wildly — I felt very exposed in such deep clear water.  
 > 我心跳得厉害——在这么深而且清的水里我感到很无助。
-
-真题解析
----
-[null]
 
 
 # ***exposure*** n
@@ -10257,16 +7522,6 @@ exposed /ɪk'spəʊzd/ adj
 > **exposure of**  
 > the exposure of illegal deals  
 > 非法交易的揭露
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***express*** n
@@ -10293,16 +7548,10 @@ exposed /ɪk'spəʊzd/ adj
 > I sent the parcel by express.  
 > 我用快递寄的包裹。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 expressive /ɪk'spresɪv/ adj 
-真题解析
----
-[null]
-
 
 # ***express*** adj
 ---
@@ -10326,16 +7575,6 @@ expressive /ɪk'spresɪv/ adj
 > **express mail**  
 > Here is your express mail from New York.  
 > 这封来自纽约的快件是你的。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***express*** vt
@@ -10369,16 +7608,6 @@ expressive /ɪk'spresɪv/ adj
 
 > express a package  
 > 把包裹特快发送
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***expression*** n  重难点词汇
@@ -10426,19 +7655,13 @@ expressive /ɪk'spresɪv/ adj
 > read / play with expression  
 > 有感情地朗读/表演
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The ________ (express) on his face told me that he was angry.  
 ##### 答案 expression  
   
-
 
 # ***extend*** v
 ---
@@ -10478,16 +7701,6 @@ The ________ (express) on his face told me that he was angry.
 > The company extended its services to Hong Kong.  
 > 该公司将其业务扩展到香港。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***extension*** n
 ---
@@ -10522,16 +7735,6 @@ The ________ (express) on his face told me that he was angry.
 > Extension 326, please!  
 > 请接326分机。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***extensive*** adj
 ---
@@ -10547,16 +7750,6 @@ The ________ (express) on his face told me that he was angry.
 
 > extensive reading / research   
 > 泛读/广泛的研究
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***extent*** n
@@ -10575,6 +7768,7 @@ The ________ (express) on his face told me that he was angry.
 > I was amazed at the extent of his knowledge.  
 > 我对他知识的渊博感到吃惊。
 
+
 固定搭配
 ---
 - #### to … extent
@@ -10588,13 +7782,6 @@ The ________ (express) on his face told me that he was angry.
 > His success depended to a large extent on his family's support.  
 > 他的成功在很大程度上得益于家人的支持。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***external*** 
 ---
@@ -10607,16 +7794,6 @@ The ________ (express) on his face told me that he was angry.
 ---
 1. **外 (面) 的；外部的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***extinct*** adj
@@ -10634,16 +7811,6 @@ The ________ (express) on his face told me that he was angry.
 > **become extinct**  
 > Sadly, many species have become extinct and many are in danger of extinction.   
 > 不幸的是，很多物种已经灭绝，而很多正濒临灭绝。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***extinction*** n
@@ -10665,16 +7832,6 @@ The ________ (express) on his face told me that he was angry.
 > on the edge of extinction   
 > 濒临灭绝
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***extra*** adv
 ---
@@ -10695,16 +7852,6 @@ The ________ (express) on his face told me that he was angry.
 > I paid extra for a good room.  
 > 为了住个好房间，我额外付费了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***extra*** n
 ---
@@ -10720,16 +7867,6 @@ The ________ (express) on his face told me that he was angry.
 
 > The service charge is an extra.  
 > 服务费另计。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***extra*** adj
@@ -10756,16 +7893,6 @@ The ________ (express) on his face told me that he was angry.
 > In our hotel room service is not extra.  
 > 我们旅馆不另收房间服务费。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***extra-curricular*** adj
 ---
@@ -10778,16 +7905,6 @@ The ________ (express) on his face told me that he was angry.
 ---
 1. **课外的；课程以外的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***extraordinary*** adj
@@ -10809,16 +7926,6 @@ The ________ (express) on his face told me that he was angry.
 > I think he's an extraordinary artist.  
 > 我认为他是位非凡的艺术家。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***extraterrestrial*** adj
 ---
@@ -10831,16 +7938,6 @@ The ________ (express) on his face told me that he was angry.
 ---
 1. **天外的；地球外的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***extreme*** adj
@@ -10875,16 +7972,6 @@ very unusual and severe or serious：
 > the extreme north of China   
 > 中国的最北端
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***extreme*** n
 ---
@@ -10908,18 +7995,12 @@ very unusual and severe or serious：
 > He used to be shy, but now he's gone / run to the opposite extreme.  
 > 他以前很腼腆，现在却走向了另一个极端。
 
+
 固定搭配
 ---
 - #### extreme sports
 1. **极限运动**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***extremely*** adv
@@ -10939,16 +8020,6 @@ very unusual and severe or serious：
 
 > No matter what the season is, it's extremely important to wear sunglasses.  
 > 无论是什么季节，戴太阳镜非常重要。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***eye*** n
@@ -10989,6 +8060,7 @@ very unusual and severe or serious：
 > **through the eyes of**  
 > The book tells stories of the earthquake through the eyes of (= from the point of view of) those whose lives were affected.  
 > 这本书通过生活受到地震影响的人的视角讲述地震的故事。
+
 
 固定搭配
 ---
@@ -11041,13 +8113,6 @@ very unusual and severe or serious：
 > You can't just close your eyes to his violence.  
 > 你不能对他的暴行视而不见。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***eye*** vt
 ---
@@ -11064,16 +8129,6 @@ very unusual and severe or serious：
 > I did not like the way he eyed me.   
 > 我不喜欢他看我的样子。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***eye-catching*** adj
 ---
@@ -11086,16 +8141,6 @@ very unusual and severe or serious：
 ---
 1. **引人注目的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***eyebrow*** n
@@ -11110,16 +8155,6 @@ very unusual and severe or serious：
 ---
 1. *高义频：* **眉毛**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***eyesight*** n
@@ -11142,16 +8177,6 @@ very unusual and severe or serious：
 > have good / bad / poor eyesight   
 > 视力好/差
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***eyewitness*** n
 ---
@@ -11166,13 +8191,4 @@ very unusual and severe or serious：
 1. *高义频：* **目击者；证人**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 

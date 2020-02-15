@@ -1,95 +1,4 @@
-
-# ***U.S.A.*** n
----
-英音 juː es 'eɪ     美音 juː es 'eɪ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **美国 （=the United States of America）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***UFO*** abbr
----
-英音 ˌjuːef'əʊ     美音 ˌjuːef'oʊ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **不明飞行物（unidentified flying object的缩写）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Uganda*** n
----
-英音 ju(:)'ɡændə     美音 ju'ɡændə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **乌干达**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Utopia*** n
----
-英音 juː'təʊpiə     美音 juː'toʊpiə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **乌托邦；理想中的完美社会**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
+# Uu
 
 # ***ugly*** adj
 ---
@@ -116,16 +25,6 @@
 > an ugly incident   
 > 可怕的事件
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ultimate*** adj
 ---
@@ -150,16 +49,10 @@
 > This race will be the ultimate test of your skill.  
 > 这次竞赛将是对你的技能的最大考验。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 ultimately /'ʌltɪmətli/ adv [句子副词]
-真题解析
----
-[null]
-
 
 # ***ultraviolet*** adj
 ---
@@ -172,16 +65,6 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 ---
 1. **紫外线的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***umbrella*** n
@@ -205,16 +88,6 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 > under the umbrella of  
 > 在…的保护下
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***unable*** adj
 ---
@@ -234,16 +107,6 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 > He tried to make a telephone call, but was unable to get through.   
 > 他试图打电话，但没能打通。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***unaware*** adj
 ---
@@ -256,16 +119,6 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 ---
 1. **未觉察到的，未意识到的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***unbearable*** adj
@@ -283,16 +136,6 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 > A toothache can be really unbearable.   
 > 牙痛确实难以忍受。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***unbelievable*** adj
 ---
@@ -308,16 +151,6 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 
 > She eats an unbelievable amount of food.   
 > 她的饭量大得惊人。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***uncertain*** adj
@@ -359,16 +192,10 @@ likely to change and become worse：
 > The uncertain weather delayed our journey.   
 > 天气变化不定，延误了我们的行程。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 uncertainty /ʌn'sɜːtnti/ n 
-真题解析
----
-[null]
-
 
 # ***uncle*** n
 ---
@@ -386,16 +213,6 @@ uncertainty /ʌn'sɜːtnti/ n
 2. *低义频：* **(对年长者的称呼) 大伯；大叔**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***unclear*** adj
 ---
@@ -408,16 +225,6 @@ uncertainty /ʌn'sɜːtnti/ n
 ---
 1. **不清楚的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***uncomfortable*** adj
@@ -444,16 +251,6 @@ uncertainty /ʌn'sɜːtnti/ n
 > an uncomfortable chair  
 > 令人不舒服的椅子
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***uncomfortably*** adv
 ---
@@ -466,16 +263,6 @@ uncertainty /ʌn'sɜːtnti/ n
 ---
 1. *高义频：* **不舒服地；不自在地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***unconditional*** adj
@@ -493,16 +280,6 @@ uncertainty /ʌn'sɜːtnti/ n
 > unconditional love   
 > 无条件的爱
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***unconditionally*** adv
 ---
@@ -515,16 +292,6 @@ uncertainty /ʌn'sɜːtnti/ n
 ---
 1. **无条件地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***unconscious*** adj
@@ -555,16 +322,6 @@ uncertainty /ʌn'sɜːtnti/ n
 > We see examples of unconscious body language very often.   
 > 我们经常看到无意识的身势语。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***uncontrolled*** adj
 ---
@@ -577,16 +334,6 @@ uncertainty /ʌn'sɜːtnti/ n
 ---
 1. *高义频：* **不受控制的；不加克制的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***uncover*** vt
@@ -612,16 +359,6 @@ uncertainty /ʌn'sɜːtnti/ n
 
 > uncover their tricks   
 > 揭露他们的阴谋诡计
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***under*** prep
@@ -676,16 +413,6 @@ uncertainty /ʌn'sɜːtnti/ n
 > Mary Ann Evans wrote under the name of George Eliot.   
 > 玛丽·安·埃文斯用乔治·艾略特作笔名进行创作。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***under*** adv
 ---
@@ -702,16 +429,6 @@ uncertainty /ʌn'sɜːtnti/ n
 > The ship went under.  
 > 船沉了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***underdog*** n
 ---
@@ -725,16 +442,6 @@ uncertainty /ʌn'sɜːtnti/ n
 ---
 1. *高义频：* **失败者；处于劣势的一方**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***undergo*** vt
@@ -752,16 +459,6 @@ uncertainty /ʌn'sɜːtnti/ n
 
 > Our astronauts undergo a long period of testing and training.  
 > 我们的宇航员要经历长时间的考验和训练。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***underground*** adj
@@ -782,16 +479,6 @@ uncertainty /ʌn'sɜːtnti/ n
 > underground shopping areas   
 > 地下购物区
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***underground*** n
 ---
@@ -811,16 +498,6 @@ uncertainty /ʌn'sɜːtnti/ n
 > underground stations   
 > 地铁站
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***underline*** vt
 ---
@@ -837,16 +514,10 @@ uncertainty /ʌn'sɜːtnti/ n
 > Find and underline the topic sentence of each paragraph.   
 > 找出每段的主题句并在其下画线。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 underlined /ˌʌndə'laɪnd/ adj 
-真题解析
----
-[null]
-
 
 # ***underneath*** prep
 ---
@@ -863,16 +534,6 @@ underlined /ˌʌndə'laɪnd/ adj
 > He went to his desk to look for some papers and found them underneath some books.   
 > 他走向桌子想找些报纸，发现它们放在一堆书下面。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***underpants*** n
 ---
@@ -885,16 +546,6 @@ underlined /ˌʌndə'laɪnd/ adj
 ---
 1. **内衣裤**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***understand*** v
@@ -927,6 +578,7 @@ underlined /ˌʌndə'laɪnd/ adj
 > We understand him to be our new monitor.   
 > 我们得知他将成为我们的新班长。
 
+
 固定搭配
 ---
 - #### make oneself understood 
@@ -936,13 +588,10 @@ underlined /ˌʌndə'laɪnd/ adj
 > Can you make yourself understood in English?  
 > 你能用英语说清楚自己的意思吗？
 
+
 派生词汇
 ---
 understandable /ˌʌndə'stændəbl/ adj 
-真题解析
----
-[null]
-
 
 # ***understanding*** n
 ---
@@ -968,16 +617,6 @@ understandable /ˌʌndə'stændəbl/ adj
 > **come to,reach an understanding**  
 > come to / arrive at / reach an understanding with sb  
 > 和某人达成共识
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***undertake*** vt
@@ -1010,16 +649,6 @@ to agree or promise to do sth：
 > He undertook to finish the job by Friday.   
 > 他同意星期五之前完成这项工作。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***underwater*** adj
 ---
@@ -1032,16 +661,6 @@ to agree or promise to do sth：
 ---
 1. *高义频：* **在水下的；在水中生长的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***underwater*** adv
@@ -1056,16 +675,6 @@ to agree or promise to do sth：
 1. *高义频：* **在水下；在水中**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***underway*** adj
 ---
@@ -1078,16 +687,6 @@ to agree or promise to do sth：
 ---
 1. **在进行中的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***underwear*** n
@@ -1102,16 +701,6 @@ to agree or promise to do sth：
 ---
 1. *高义频：* **[总称] 内衣；衬衣**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***undo*** vt
@@ -1140,16 +729,6 @@ to agree or promise to do sth：
 > undo his post   
 > 撤销他的职位
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***undoubtedly*** adv
 ---
@@ -1166,16 +745,6 @@ to agree or promise to do sth：
 > Undoubtedly, technology is an important development, and it will have an even bigger impact on our lives.  
 > 毫无疑问，科技的发展非常重要，它甚至会对我们的生活产生更大的影响。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***unearth*** vt
 ---
@@ -1188,16 +757,6 @@ to agree or promise to do sth：
 ---
 1. **挖掘；发掘**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***uneasy*** adj
@@ -1220,16 +779,6 @@ to agree or promise to do sth：
 > feel uneasy about the future   
 > 担心未来
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***unemployed*** adj
 ---
@@ -1245,16 +794,6 @@ to agree or promise to do sth：
 
 > The unemployed hunger for jobs.  
 > 失业者渴望得到工作。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***unemployment*** n
@@ -1277,16 +816,6 @@ to agree or promise to do sth：
 > high / low unemployment   
 > 高/低失业率
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***unexpected*** adj
 ---
@@ -1307,12 +836,11 @@ to agree or promise to do sth：
 > Police officers must be prepared for the unexpected.  
 > 警察必须为意外情况做好准备。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 unexpectedly /ˌʌnɪk'spektɪdli/ adv 
+
 真题解析
 ---
 ##### 题目  
@@ -1323,7 +851,6 @@ C.unfamiliar
 D.unbelievable  
 ##### 答案 B  
   
-
 
 # ***unexplained*** adj
 ---
@@ -1336,16 +863,6 @@ D.unbelievable
 ---
 1. **无法解释的；神秘的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***unfair*** adj
@@ -1370,17 +887,11 @@ D.unbelievable
 > by unfair means   
 > 用不正当的手段
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 unfairly /ˌʌn'feə(r)li/ adv 
 unfairness /ˌʌn'feə(r)nes/ n 
-真题解析
----
-[null]
-
 
 # ***unfamiliar*** adj
 ---
@@ -1393,16 +904,6 @@ unfairness /ˌʌn'feə(r)nes/ n
 ---
 1. **不熟悉的，不了解的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***unfit*** adj
@@ -1429,16 +930,6 @@ unfairness /ˌʌn'feə(r)nes/ n
 > As a child he was very unfit and was not at all interested in sports.  
 > 他小时候身体很不好，一点儿也不喜欢运动。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***unfold*** vt
 ---
@@ -1451,16 +942,6 @@ unfairness /ˌʌn'feə(r)nes/ n
 ---
 1. **（卷着的东西）展开，打开**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***unforgettable*** adj
@@ -1478,16 +959,6 @@ unfairness /ˌʌn'feə(r)nes/ n
 > an unforgettable experience / moment / memory  
 > 难忘的经历/时刻/回忆
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***unfortunate*** adj
 ---
@@ -1503,16 +974,6 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 > an unfortunate accident  
 > 不幸的事故
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***unfortunately*** adv
@@ -1531,16 +992,6 @@ unfairness /ˌʌn'feə(r)nes/ n
 > Unfortunately, instead of hitting the ball, he hit his own false teeth!   
 > 不幸的是，他没打到球，反而打到了自己的假牙!
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***unhappy*** adj
 ---
@@ -1558,16 +1009,6 @@ unfairness /ˌʌn'feə(r)nes/ n
 > He was unhappy at / with / about being left out of the school team.  
 > 他因未能入选校队而闷闷不乐。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***unhealthy*** adj
 ---
@@ -1580,16 +1021,6 @@ unfairness /ˌʌn'feə(r)nes/ n
 ---
 1. *高义频：* **不健康的；身心不健全的；不良的**  
 反义词 healthy 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***uniform*** n
@@ -1613,16 +1044,6 @@ unfairness /ˌʌn'feə(r)nes/ n
 > in uniform   
 > 穿着制服
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***unify*** v
 ---
@@ -1635,16 +1056,6 @@ unfairness /ˌʌn'feə(r)nes/ n
 ---
 1. **统一；（使）成一体**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***union*** n
@@ -1677,16 +1088,6 @@ unfairness /ˌʌn'feə(r)nes/ n
 > Union gives strength.   
 > 团结就是力量。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***unique*** adj
 ---
@@ -1706,16 +1107,6 @@ unfairness /ˌʌn'feə(r)nes/ n
 > **unique to**  
 > The koala is unique to Australia.   
 > 树袋熊是澳大利亚独有的动物。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***unit*** n
@@ -1751,16 +1142,6 @@ unfairness /ˌʌn'feə(r)nes/ n
 4. *高义频：* **(设备等的) 一套；一组**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***unite*** v
 ---
@@ -1781,16 +1162,10 @@ unfairness /ˌʌn'feə(r)nes/ n
 > England and Scotland united in 1706.   
 > 英格兰和苏格兰于1706年合并。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 unity /'juːnəti/ n 
-真题解析
----
-[null]
-
 
 # ***united*** adj
 ---
@@ -1809,16 +1184,6 @@ unity /'juːnəti/ n
 
 > make a united effort   
 > 同心协力
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***universal*** adj
@@ -1846,16 +1211,6 @@ unity /'juːnəti/ n
 > Envy is a universal weakness of people.   
 > 嫉妒是人们共同的弱点。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***universe*** n
 ---
@@ -1872,16 +1227,6 @@ unity /'juːnəti/ n
 
 > Our world is but a small part of the universe.  
 > 我们的世界只是宇宙的一小部分。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***university*** n
@@ -1905,16 +1250,6 @@ unity /'juːnəti/ n
 > go to university   
 > 去上大学
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***unknown*** adj
 ---
@@ -1930,16 +1265,6 @@ unity /'juːnəti/ n
 
 > an unknown artist  
 > 不知名的艺术家
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***unless*** conj
@@ -1960,12 +1285,7 @@ unity /'juːnəti/ n
 > He told me that I’d probably have a heart attack unless I started eating less.    
 > 他告诉我，如果我再不减少食量，就有可能患心脏病。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -1989,7 +1309,6 @@ D. if
 ##### 答案 A  
   
 
-
 # ***unlike*** prep
 ---
 英音 ˌʌn'laɪk     美音 ˌʌn'laɪk
@@ -2008,16 +1327,6 @@ D. if
 > Many, unlike their parents, want to live in the cities.  
 > 跟自己的父母不同，很多人想住在城市里。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***unlike*** adj
 ---
@@ -2034,16 +1343,6 @@ D. if
 
 > I never saw twins who were unlike.   
 > 之前我从未见过长得不像的双胞胎。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***unlikely*** adj
@@ -2071,16 +1370,6 @@ D. if
 > I met him at the most unlikely place.   
 > 我在最意想不到的地方遇到了他。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***unload*** v
 ---
@@ -2093,16 +1382,6 @@ D. if
 ---
 1. **卸下**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***unnecessary*** adj
@@ -2123,16 +1402,6 @@ D. if
 > It is unnecessary that you (should) do so.  
 > 你不必这样做。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***unpaid*** adj
 ---
@@ -2145,16 +1414,6 @@ D. if
 ---
 1. *高义频：* **未付款的；不收报酬的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***unpleasant*** adj
@@ -2175,16 +1434,6 @@ D. if
 > The minerals in the water made it unpleasant to drink.   
 > 水里的矿物质弄得这水很难喝。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***unpredictable*** adj
 ---
@@ -2198,16 +1447,6 @@ D. if
 1. **变化莫测的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***unrecognisable*** adj
 ---
@@ -2220,16 +1459,6 @@ D. if
 ---
 1. **无法辨认的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***unrest*** n
@@ -2252,16 +1481,6 @@ D. if
 > be in a state of unrest   
 > 处于不安的状态之中
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***unspoken*** adj
 ---
@@ -2274,16 +1493,6 @@ D. if
 ---
 1. *高义频：* **未说出口的；非口语的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***until*** conj
@@ -2318,6 +1527,7 @@ D. if
 > 直到最近他们才鼓励在农村开展与旅游相关的活动。
 
 not until 放在句首时，主句的主语和谓语通常要用部分倒装语序。
+
 固定搭配
 ---
 - #### it is not until … that 
@@ -2327,9 +1537,7 @@ not until 放在句首时，主句的主语和谓语通常要用部分倒装语�
 > It was not until he was thirty that he started to paint.  
 > 直到30岁，他才开始画画。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2352,7 +1560,6 @@ C.since
 D.when  
 ##### 答案 A  
   
-
 
 # ***until*** prep
 ---
@@ -2386,6 +1593,7 @@ D.when
 > 直到最近他们才鼓励在农村开展与旅游相关的活动。
 
 not until 放在句首时，主句的主语和谓语通常要用部分倒装语序。
+
 固定搭配
 ---
 - #### it is not until … that
@@ -2395,9 +1603,7 @@ not until 放在句首时，主句的主语和谓语通常要用部分倒装语�
 > It was not until he was thirty that he started to paint.  
 > 直到30岁，他才开始画画。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2421,7 +1627,6 @@ D.when
 ##### 答案 A  
   
 
-
 # ***unusual*** adj
 ---
 英音 ʌn'juːʒuəl     美音 ʌn'juːʒuəl
@@ -2441,16 +1646,10 @@ D.when
 > It is unusual for you to catch a cold on hot days.   
 > 你在大热天感冒实在少见。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 unusually /ʌn'juːʒuəli; ʌn'juːʒəli/ adv 
-真题解析
----
-[null]
-
 
 # ***unwilling*** adj
 ---
@@ -2467,16 +1666,10 @@ unusually /ʌn'juːʒuəli; ʌn'juːʒəli/ adv
 > If your child is unwilling to discuss something, don’t insist he tell you what’s on his mind.   
 > 如果你的孩子不愿说，就别强求他告诉你他的想法。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 unwillingly /ʌn'wɪlɪŋli/ adv 
-真题解析
----
-[null]
-
 
 # ***unzip*** v
 ---
@@ -2489,16 +1682,6 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 ---
 1. **解开**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***up*** adv
@@ -2566,6 +1749,7 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 > 我们要到纽约待一天。
 
 从边远地区、农村、南方、下游、海边去首都、城市、北方、上游、大学等地用up。
+
 固定搭配
 ---
 - #### be up to sb
@@ -2620,9 +1804,7 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 > They are only allowed to play music up until 10:30 on week nights, and it’s already 11:30.   
 > 平时只允许他们在晚上10点半之前放音乐，可是现在已经11点半了。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2636,7 +1818,6 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 ##### 答案 It’s up to you / Up to you  
   
 
-
 # ***up*** n
 ---
 英音 ʌp     美音 ʌp
@@ -2645,9 +1826,6 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 
 用法点拨  [用于以下惯用语]
 
-英文释义
----
-[null]
 固定搭配
 ---
 - #### ups and downs
@@ -2656,13 +1834,6 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 
 > In spite of ups and downs, she never takes her fate lying down.  
 > 尽管起起伏伏，但她从不甘心任凭命运摆布。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***up*** prep
@@ -2685,16 +1856,6 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 
 > walk up the road   
 > 沿着公路走
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***up*** adj
@@ -2721,16 +1882,6 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 > His blood is up.   
 > 他怒火中烧。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***up-to-date*** adj
 ---
@@ -2752,16 +1903,6 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 > up - to - date equipment   
 > 现代化设备
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***upbringing*** n
 ---
@@ -2774,16 +1915,6 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 ---
 1. **抚育，养育**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***update*** vt
@@ -2804,16 +1935,6 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 > It’s important for the figures to be updated regularly.  
 > 定期更新数据很重要。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***update*** n
 ---
@@ -2827,16 +1948,6 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 ---
 1. *高义频：* **最新信息；最新情况；(程序的) 更新**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***upgrade*** vt
@@ -2858,16 +1969,6 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 > **upgraded to**  
 > On the flight back, we were upgraded to business class.  
 > 返航时，我们被升级到公务舱。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***upon*** prep
@@ -2898,16 +1999,6 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 > Upon learning the word “volunteer”, what comes to your mind?   
 > 听到“志愿者”这个词，你会想到什么？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***upper*** adj
 ---
@@ -2926,16 +2017,6 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 
 > the upper class  
 > 上流社会
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***upset*** vt
@@ -2973,16 +2054,10 @@ to make sb worry or feel unhappy：
 4. *低义频：* **使 (肠胃) 不适**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 upsetting /ʌp'setɪŋ/ adj 
-真题解析
----
-[null]
-
 
 # ***upset*** adj
 ---
@@ -3027,16 +2102,6 @@ worried and unhappy：
 > Then the friend moved away and the writer was extremely upset.   
 > 后来这个朋友搬走了，作者感到特别难过。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***upstairs*** adv
 ---
@@ -3052,16 +2117,6 @@ worried and unhappy：
 
 > I ran upstairs and found her in the bedroom, crying.   
 > 我跑到了楼上，发现她正在卧室里哭泣。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***upstairs*** adj
@@ -3079,16 +2134,6 @@ worried and unhappy：
 > an upstairs room   
 > 楼上的房间
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***upward*** adj & adv
 ---
@@ -3101,16 +2146,6 @@ worried and unhappy：
 ---
 1. *高义频：* **向上 (的)；上升 (的)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***upwards*** adj & adv
@@ -3128,16 +2163,6 @@ worried and unhappy：
 > I climbed upwards until I reached the top of the mountain.   
 > 我向上一直爬到山顶。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***upwards*** adv
 ---
@@ -3150,16 +2175,6 @@ worried and unhappy：
 ---
 1. **向上地；上升地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***urban*** adj
@@ -3180,16 +2195,6 @@ worried and unhappy：
 
 > 67% of urban residents use the Internet.   
 > 67%的城市居民使用互联网。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***urge*** vt
@@ -3225,16 +2230,6 @@ to recommend sth strongly：
 > He urged that we (should) take such steps.   
 > 他极力主张我们采取这些措施。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***urge*** n
 ---
@@ -3252,16 +2247,6 @@ to recommend sth strongly：
 > **urge to**  
 > I was embarrassed, but I fought the urge to run off the stage.   
 > 我感到很尴尬，但是我抑制住了想跑下台的冲动。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***urgent*** adj
@@ -3283,16 +2268,6 @@ to recommend sth strongly：
 > Every minute of the day is filled with urgent matters.  
 > 一天中的每分钟都排满了亟待解决的事情。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***us*** pron
 ---
@@ -3307,19 +2282,13 @@ to recommend sth strongly：
 1. *高义频：* **我们**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Our neighbors gave_________ (we) a baby bird yesterday that hurt itself when it fell from its nest.  
 ##### 答案 us  
   
-
 
 # ***usage*** n
 ---
@@ -3333,16 +2302,6 @@ Our neighbors gave_________ (we) a baby bird yesterday that hurt itself when it 
 ---
 1. *高义频：* **使用；用注；词语惯用法**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***use*** vt
@@ -3388,6 +2347,7 @@ Our neighbors gave_________ (we) a baby bird yesterday that hurt itself when it 
 > This type of heater uses a lot of electricity.  
 > 这种热水器很费电。
 
+
 固定搭配
 ---
 - #### use up 
@@ -3399,13 +2359,6 @@ Our neighbors gave_________ (we) a baby bird yesterday that hurt itself when it 
 
 > Don’t let yesterday use up too much of today.   
 > 今日事，今日毕。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***use*** n
@@ -3439,6 +2392,7 @@ Our neighbors gave_________ (we) a baby bird yesterday that hurt itself when it 
 
 > I believe I will recover the use of my hand fully in the near future.   
 > 我相信,要不了多久我这只手的功能就会完全恢复了。
+
 
 固定搭配
 ---
@@ -3494,9 +2448,7 @@ Our neighbors gave_________ (we) a baby bird yesterday that hurt itself when it 
 > It was time to put the tips he had learned to use.  
 > 到了运用他所学到的窍门的时候了。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3511,7 +2463,6 @@ People probably cooked their food in large pots, ________ (use) twigs (树枝) t
 It is no use ________(complain) without taking action.   
 ##### 答案 complaining  
   
-
 
 # ***used*** adj
 ---
@@ -3539,16 +2490,6 @@ It is no use ________(complain) without taking action.
 > a used car   
 > 二手车
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***useful*** adj
 ---
@@ -3569,16 +2510,10 @@ It is no use ________(complain) without taking action.
 > These activities are useful in helping them prepare for their future.   
 > 这些活动有助于他们为将来做好准备。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 usefully /'juːsfəli/ adv 
-真题解析
----
-[null]
-
 
 # ***useless*** adj
 ---
@@ -3598,16 +2533,6 @@ usefully /'juːsfəli/ adv
 > It’s useless worrying about it.   
 > 为这件事担心无济于事。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***user*** n
 ---
@@ -3622,16 +2547,6 @@ usefully /'juːsfəli/ adv
 1. *高义频：* **使用者；用户**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***user-friendly*** adj
 ---
@@ -3644,16 +2559,6 @@ usefully /'juːsfəli/ adv
 ---
 1. **方便用户的，便于使用的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***usual*** adj
@@ -3673,6 +2578,7 @@ usefully /'juːsfəli/ adv
 
 ### 辨析 common, normal, ordinary, usual
 
+
 固定搭配
 ---
 - #### as usual
@@ -3681,13 +2587,6 @@ usefully /'juːsfəli/ adv
 
 > Wang Wei rode in front of me as usual.   
 > 像平时那样，王薇骑车在我的前面。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***usually*** adv
@@ -3705,19 +2604,13 @@ usefully /'juːsfəli/ adv
 > In communication, a smile is usually a strong sign of a friendly and open attitude.   
 > 在交流时，微笑通常是一个友好和开放态度的明显信号。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I u________ go to bed at 10:00 p.m., but I stayed up till 11:00 last night.  
 ##### 答案 usually  
   
-
 
 # ***utter*** vt
 ---
@@ -3732,16 +2625,6 @@ I u________ go to bed at 10:00 p.m., but I stayed up till 11:00 last night.
 1. *高义频：* **说；讲；发出 (声音)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***utterly*** adv
 ---
@@ -3755,13 +2638,4 @@ I u________ go to bed at 10:00 p.m., but I stayed up till 11:00 last night.
 1. **完全地,绝对地**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 

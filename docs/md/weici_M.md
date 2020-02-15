@@ -1,869 +1,4 @@
-
-# ***MC-ing*** n
----
-英音 ˌem'siːɪŋ     美音 ˌem'siːɪŋ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **司仪；节目主持**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Malawi*** n
----
-英音 mɑ:ˈlɑ:wi     美音 mɑˈlɑwi
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **马拉维 (非洲国家)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Malaysia*** n
----
-英音 mə'leɪʒə     美音 mə'leɪʒə
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **马来西亚 (东南亚国家) ;马来群岛**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Malaysian*** n
----
-英音 mə'leɪʒn     美音 mə'leɪʒn
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **马来西亚人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Malaysian*** adj
----
-英音 mə'leɪʒn     美音 mə'leɪʒn
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **马来西亚的；马亚群岛的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Manchu*** adj
----
-英音 ˈmæntʃu:     美音 ˈmæntʃu
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **满族的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Manchu*** n
----
-英音 ˈmæntʃu:     美音 ˈmæntʃu
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **满人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Manhattan*** n
----
-英音 mæn'hætn     美音 mæn'hætnː
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **曼哈顿岛；曼哈顿区 (纽约市中心)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Maori*** n
----
-英音 'maʊri     美音 'maʊri
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **（新西兰）毛利人（语）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Maori*** adj
----
-英音 'maʊri     美音 'maʊri
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **毛利人（语）的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***March*** n
----
-英音 mɑːtʃ     美音 mɑːrtʃ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **三月（Mar.）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Marion*** n
----
-英音 ˈmæriən     美音 ˈmæriən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **玛丽昂 (女名)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Mars*** n
----
-英音 mɑːz     美音 mɑːrz
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **火星**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Masaccio*** n
----
-英音 mə'sɑ:tʃɪəʊ     美音 mə'sɑ:tʃɪəʊ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **马萨其奥 (意大利画家)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Massive*** adj
----
-英音 'mæsɪv     美音 'mæsɪv
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **大而重的；大规模的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Matisse*** n
----
-英音 mə'ti:s     美音 mə'ti:s
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **马蒂斯 (法国画家)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Mauritius*** n
----
-英音 mə'rɪʃəs     美音 mə'rɪʃəs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **毛里求斯 (非洲|东部岛国)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***May*** n
----
-英音 meɪ     美音 meɪ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **五月**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Mexican*** n
----
-英音 'meksɪkən     美音 'meksɪkən
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **墨西哥人；墨西哥语**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Mexican*** adj
----
-英音 'meksɪkən     美音 'meksɪkən
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **墨西哥的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Mexico*** n
----
-英音 'meksɪkəʊ     美音 'meksɪkoʊ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **墨西哥 (拉丁美洲国家)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Michelangelo*** 
----
-英音 ˌmaɪkəl'ændʒələʊ     美音 ˌmaɪkəl'ændʒələʊ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **米开朗琪罗 (意大利文艺复兴时期的雕刻家、画家、建筑师和诗人)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Midlands*** 
----
-英音 'mɪdləndz     美音 'mɪdləndz
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **英格兰中部地区　(英)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Mississippi*** n
----
-英音 ˌmɪsɪ'sɪpi     美音 ˌmɪsɪ'sɪpi
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **密西西比河；密西西比州 (美国州名)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Missouri*** n
----
-英音 mɪ'zʊəri     美音 mɪ'zʊri
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **密苏里州 (美国州名)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Monday*** n
----
-英音 'mʌndeɪ     美音 'mʌndeɪ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **星期一（Mon.）**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Monet*** 
----
-英音 mʌ'nɪt     美音 mʌ'nɪt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **莫奈 (法国画家)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Moslem*** n
----
-英音 'mɒzləm     美音 'mɑːzləm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  (Muslim)
-
-英文释义
----
-1. *高义频：* **[C] 穆斯林；伊斯兰教信徒**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Moslem*** adj
----
-英音 'mɒzləm     美音 'mɑːzləm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  (Muslim)
-
-英文释义
----
-1. *高义频：* **穆斯林的；伊斯兰教的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Mr*** n
----
-英音 'mɪstə(r)     美音 'mɪstər
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **[用于男子的姓、姓名或职务前] 先生 (mister)：**  
-
-
-> Mr Smith / John Brown  
-> 史密斯先生/约翰·布朗先生
-
-> Mr President   
-> 总统先生
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Mr.*** n
----
-英音 'mɪstə(r)     美音 'mɪstər
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **[用于男子的姓、姓名或职务前] 先生 (mister)：**  
-
-
-> Mr Smith / John Brown  
-> 史密斯先生/约翰·布朗先生
-
-> Mr President   
-> 总统先生
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Mrs*** n
----
-英音 'mɪsɪz     美音 'mɪsɪz
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **夫人；太太 (mistress)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Mrs.*** n
----
-英音 'mɪsɪz     美音 'mɪsɪz
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **夫人；太太 (mistress)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Ms*** n
----
-英音 mɪz     美音 mɪz
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **女士**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Ms.*** n
----
-英音 mɪz     美音 mɪz
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **女士**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Muslim*** n
----
-英音 'mʊzlɪm     美音 'mʊzlɪm
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
-
-英文释义
----
-1. *高义频：* **穆斯林；伊斯兰教信徒**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Muslim*** adj
----
-英音 'mʊzlɪm     美音 'mʊzlɪm
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **穆斯林的；伊斯兰教信徒的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
+# Mm
 
 # ***machine*** n
 ---
@@ -888,16 +23,6 @@
 > The machine works well.   
 > 这台机器运转良好。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***machinery*** n
 ---
@@ -915,16 +40,6 @@
 > **agricultural / industrial machinery**  
 > agricultural / industrial machinery   
 > 农业/工业机械
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mad*** adj
@@ -967,16 +82,10 @@
 > He is mad about computer games.  
 > 他迷上了电脑游戏。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 madly  /'mædli/ adv 
-真题解析
----
-[null]
-
 
 # ***madam*** n
 ---
@@ -990,16 +99,6 @@ madly  /'mædli/ adv
 ---
 1. *高义频：* **女士；夫人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***magazine*** n
@@ -1017,16 +116,6 @@ madly  /'mædli/ adv
 
 > She has written many articles for a popular women's magazine.  
 > 她为一家妇女杂志写过很多文章。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***magic*** n
@@ -1055,16 +144,6 @@ madly  /'mædli/ adv
 > the magic of music  
 > 音乐的魅力
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***magic*** adj
 ---
@@ -1088,16 +167,6 @@ madly  /'mædli/ adv
 > magic beauty   
 > 迷人的美
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***magical*** adj
 ---
@@ -1110,16 +179,6 @@ madly  /'mædli/ adv
 ---
 1. *高义频：* **巫术的；魔术的；有魔力的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***magnesium*** n
@@ -1134,16 +193,6 @@ madly  /'mædli/ adv
 1. **镁**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***magnetic*** adj
 ---
@@ -1156,16 +205,6 @@ madly  /'mædli/ adv
 ---
 1. **磁的；磁性的；磁场的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***magnificent*** adj
@@ -1183,16 +222,6 @@ madly  /'mædli/ adv
 > a magnificent view / ceremony  
 > 壮丽的景色/盛大的庆典
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***magnitude*** n
 ---
@@ -1205,16 +234,6 @@ madly  /'mædli/ adv
 ---
 1. **（地）震级；重大**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***magpie*** n
@@ -1230,16 +249,6 @@ madly  /'mædli/ adv
 1. *高义频：* **喜鹊**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***maid*** n
 ---
@@ -1253,16 +262,6 @@ madly  /'mædli/ adv
 ---
 1. *高义频：* **女仆；少女；未婚的年轻女子**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mail*** n
@@ -1294,16 +293,6 @@ madly  /'mædli/ adv
 3. *高义频：* **电子邮件 (e-mail)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mail*** vt
 ---
@@ -1321,16 +310,6 @@ madly  /'mædli/ adv
 > Don’t forget to mail this letter to your mother.   
 > 别忘了把这封信寄给你妈妈。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mailbox*** n
 ---
@@ -1344,16 +323,6 @@ madly  /'mædli/ adv
 ---
 1. *高义频：* **邮筒；邮箱；(收信人的) 信箱**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***main*** adj
@@ -1376,16 +345,6 @@ being the largest or most important of its kind：
 > I took notes of the main points of his lecture.   
 > 我把他讲座的要点记了笔记。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***main*** n
 ---
@@ -1403,16 +362,6 @@ being the largest or most important of its kind：
 > The new house is not yet connected to the mains.  
 > 新房子(的水电)还没有与总管道接通。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mainland*** n
 ---
@@ -1429,16 +378,6 @@ being the largest or most important of its kind：
 
 > Chinese mainland  
 > 中国大陆
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mainly*** adv
@@ -1459,16 +398,6 @@ being the largest or most important of its kind：
 > You are mainly responsible for the trouble.   
 > 你应该对这次事故负主要责任。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mainstream*** n
 ---
@@ -1481,16 +410,6 @@ being the largest or most important of its kind：
 ---
 1. *高义频：* **主流；主要倾向**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***maintain*** vt
@@ -1527,16 +446,6 @@ to keep saying that sth is true even when others disagree or do not believe it (
 > He maintained that such things should never be done again.  
 > 他坚持认为再也不能做这样的事情了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***maize*** n
 ---
@@ -1550,16 +459,6 @@ to keep saying that sth is true even when others disagree or do not believe it (
 1. **玉米**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***majesty*** n
 ---
@@ -1572,16 +471,6 @@ to keep saying that sth is true even when others disagree or do not believe it (
 ---
 1. **陛下**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***major*** adj
@@ -1614,16 +503,6 @@ to keep saying that sth is true even when others disagree or do not believe it (
 > the major subjects   
 > 主修课程
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***major*** n
 ---
@@ -1644,16 +523,6 @@ to keep saying that sth is true even when others disagree or do not believe it (
 > Are most of you English majors?   
 > 你们大多数是英语专业的学生吗？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***major*** vi
 ---
@@ -1669,16 +538,6 @@ to keep saying that sth is true even when others disagree or do not believe it (
 
 > He inspires me to major in English in college, to be a bridge between China and the world.  
 > 他鼓励我在大学主修英语，在中国和世界之间起沟通作用。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***majority*** n
@@ -1714,12 +573,7 @@ majority 常与of连用，后接复数可数名词。 当“majority of + 复数
 > Who says the majority is always able to make the minority agree with their idea?  
 > 谁说多数人总能使少数人同意他们的想法？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -1727,7 +581,6 @@ One-third of the country ________ (be) covered with trees and the majority of th
   
 ##### 答案 is; are  
   
-
 
 # ***make*** vt  重难点词汇
 ---
@@ -1799,6 +652,7 @@ One-third of the country ________ (be) covered with trees and the majority of th
 
 > You would make an excellent physician.   
 > 你有望成为一名优秀的内科医生。
+
 
 固定搭配
 ---
@@ -1923,9 +777,7 @@ be made from通常指从制成品中看不出原料，而be made of通常从成�
 > Westerners should take advantage of the ancient Chinese wisdom to make up for the drawbacks of Western philosophy.  
 > 西方人应当利用古老的中国智慧弥补西方哲学的不足。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -1964,7 +816,6 @@ The idea puzzled me so much that I stopped for a few seconds to try to make it _
 ##### 答案 out  
   
 
-
 # ***make*** n  重难点词汇
 ---
 英音 meɪk     美音 meɪk
@@ -1985,16 +836,6 @@ The idea puzzled me so much that I stopped for a few seconds to try to make it _
 > There are so many different makes of computers to choose from.  
 > 有很多不同的型号的电脑可供选择。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***make-up*** n
 ---
@@ -2013,16 +854,6 @@ The idea puzzled me so much that I stopped for a few seconds to try to make it _
 > She seldom wears make-up.  
 > 她很少化妆。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***makeover*** n
 ---
@@ -2036,16 +867,6 @@ The idea puzzled me so much that I stopped for a few seconds to try to make it _
 1. **改头换面**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***malaria*** n
 ---
@@ -2058,16 +879,6 @@ The idea puzzled me so much that I stopped for a few seconds to try to make it _
 ---
 1. **疟疾**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***male*** adj
@@ -2085,16 +896,6 @@ The idea puzzled me so much that I stopped for a few seconds to try to make it _
 > Male animals are often larger than the females.   
 > 雄性动物常常比雌性动物大。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***male*** n
 ---
@@ -2108,16 +909,6 @@ The idea puzzled me so much that I stopped for a few seconds to try to make it _
 ---
 1. *高义频：* **男子；雄性**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mall*** n
@@ -2137,16 +928,6 @@ The idea puzzled me so much that I stopped for a few seconds to try to make it _
 > a huge shopping mall  
 > 大型购物中心
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mammal*** n
 ---
@@ -2160,16 +941,6 @@ The idea puzzled me so much that I stopped for a few seconds to try to make it _
 ---
 1. *高义频：* **哺乳动物**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***man*** n
@@ -2201,16 +972,6 @@ The idea puzzled me so much that I stopped for a few seconds to try to make it _
 > Man has caused much damage to the environment.  
 > 人类已对环境造成了很大的破坏。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***man-made*** adj
 ---
@@ -2226,16 +987,6 @@ The idea puzzled me so much that I stopped for a few seconds to try to make it _
 
 > a man-made satellite  
 > 人造卫星
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***manage*** v  重难点词汇
@@ -2298,12 +1049,7 @@ to be able to live without having much money：
 
 ### 辨析 manage, try
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2313,7 +1059,6 @@ C.adapt
 D.construct  
 ##### 答案 manage  
   
-
 
 # ***management*** n
 ---
@@ -2336,16 +1081,6 @@ D.construct
 > top / senior management  
 > 高层 / 高级管理人员
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***manager*** n
 ---
@@ -2364,16 +1099,6 @@ D.construct
 > the general manager   
 > 总经理
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mane*** n
 ---
@@ -2386,16 +1111,6 @@ D.construct
 ---
 1. **鬃毛**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mankind*** n
@@ -2410,16 +1125,6 @@ D.construct
 ---
 1. **人类 (man)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***manner*** n
@@ -2462,6 +1167,7 @@ polite ways of behaving in social situations：
 > In any case, a lot can be accomplished by a smile and good manners.   
 > 在任何情况下，微笑和有礼貌都会让你有很大收获。
 
+
 固定搭配
 ---
 - #### all manner of 
@@ -2481,13 +1187,6 @@ polite ways of behaving in social situations：
 > She greeted me in a friendly manner.   
 > 她友好地和我打招呼。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***manners*** n
 ---
@@ -2501,16 +1200,6 @@ polite ways of behaving in social situations：
 1. **礼貌**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mansion*** n
 ---
@@ -2523,16 +1212,6 @@ polite ways of behaving in social situations：
 ---
 1. **公馆；宅第**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***manual*** n
@@ -2552,16 +1231,6 @@ polite ways of behaving in social situations：
 > a user manual  
 > 用户手册
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***manual*** adj
 ---
@@ -2579,16 +1248,6 @@ polite ways of behaving in social situations：
 > manual labour   
 > 体力劳动
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***manufacture*** vt
 ---
@@ -2601,16 +1260,6 @@ polite ways of behaving in social situations：
 ---
 1. *高义频：* **(用机器大量) 生产；制造 (mass-produce)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***manufacture*** n
@@ -2626,17 +1275,11 @@ polite ways of behaving in social situations：
 1. *高义频：* **(大量的) 生产；制造**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 manufacturer /ˌmænju'fæktʃərə(r)/ n [C]
 manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
-真题解析
----
-[null]
-
 
 # ***manuscript*** n
 ---
@@ -2649,16 +1292,6 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 ---
 1. **底稿；手稿**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***many*** adj
@@ -2677,16 +1310,6 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 > I don't have many friends.  
 > 我的朋友不多。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***many*** pron
 ---
@@ -2703,6 +1326,7 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 
 > Many of us did not know him.  
 > 我们之中很多人不认识他。
+
 
 固定搭配
 ---
@@ -2733,9 +1357,7 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 
 ### 辨析 much more, many more
 二者意义相同，意为“多得多的”，但搭配不同。
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -2746,7 +1368,6 @@ I have always enjoyed all the events you organized and I hope to attend much mor
 It is reported that many a new house ________ (be) being built at present in the disaster area.  
 ##### 答案 is  
   
-
 
 # ***map*** n
 ---
@@ -2769,16 +1390,6 @@ It is reported that many a new house ________ (be) being built at present in the
 > Do you know how to read a map (= understand the information it gives)?  
 > 你会看地图吗？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***maple*** n
 ---
@@ -2792,16 +1403,6 @@ It is reported that many a new house ________ (be) being built at present in the
 ---
 1. *高义频：* **枫树；槭树**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***marathon*** n
@@ -2817,16 +1418,6 @@ It is reported that many a new house ________ (be) being built at present in the
 1. *高义频：* **马拉松赛跑 (全长 42 195米)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***marble*** n
 ---
@@ -2839,16 +1430,6 @@ It is reported that many a new house ________ (be) being built at present in the
 ---
 1. *高义频：* **[U] 大理石；[C] 大理石制品**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***march*** vi
@@ -2866,16 +1447,6 @@ It is reported that many a new house ________ (be) being built at present in the
 > **marching along**  
 > The troops are marching along the street.   
 > 军队正在街上行进。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***march*** n
@@ -2898,16 +1469,10 @@ It is reported that many a new house ________ (be) being built at present in the
 > go on a march  
 > 参加游行
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 marcher /'mɑːtʃə(r)/ n [C]
-真题解析
----
-[null]
-
 
 # ***margin*** n
 ---
@@ -2925,16 +1490,6 @@ marcher /'mɑːtʃə(r)/ n [C]
 > **profit margins**  
 > profit margins  
 > 毛利润
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mark*** n
@@ -2987,6 +1542,7 @@ marcher /'mɑːtʃə(r)/ n [C]
 > hit / miss the mark   
 > 命中/未命中靶子；达成/未达成目标
 
+
 固定搭配
 ---
 - #### leave one's mark (on)
@@ -2995,13 +1551,6 @@ marcher /'mɑːtʃə(r)/ n [C]
 
 > Winston Churchill has surely left his mark on world history.  
 > 温斯顿 · 丘吉尔已然在世界历史上留下了大名。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mark*** vt
@@ -3049,16 +1598,6 @@ to celebrate an important event：
 > I have fifty exam papers to mark tonight.   
 > 我今晚有50份考卷要评分。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***market*** n
 ---
@@ -3086,6 +1625,7 @@ to celebrate an important event：
 > The product will find a good market in Asia.   
 > 这种产品会在亚洲畅销。
 
+
 固定搭配
 ---
 - #### on the market 
@@ -3094,13 +1634,6 @@ to celebrate an important event：
 
 > There are several new models on the market.   
 > 市面上有好几种新型号在售。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***market*** vt
@@ -3118,16 +1651,6 @@ to celebrate an important event：
 > These toys were among the first to be marketed primarily through TV cartoons.  
 > 这些玩具是首批主要通过电视动画片来推销的产品之一。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***marketing*** n
 ---
@@ -3144,16 +1667,6 @@ to celebrate an important event：
 
 > a marketing service / strategy / tool   
 > 营销服务/策略/手段
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***marriage*** n
@@ -3178,16 +1691,6 @@ to celebrate an important event：
 2. *高义频：* **[C] 结婚仪式；婚礼 (wedding)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***married*** adj
 ---
@@ -3207,6 +1710,7 @@ to celebrate an important event：
 > How do you like married life?   
 > 你认为婚后的生活怎样？
 
+
 固定搭配
 ---
 - #### be married to 
@@ -3222,13 +1726,6 @@ to celebrate an important event：
 
 > Jane got married to her husband immediately after graduation.   
 > 简一毕业就嫁给了她丈夫。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***marry*** v
@@ -3260,16 +1757,6 @@ to celebrate an important event：
 > My uncle didn’t marry until he was forty-five.   
 > 我叔叔直到45岁才结婚。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***marvellous*** adj
 ---
@@ -3285,16 +1772,6 @@ to celebrate an important event：
 
 > No matter what happens, you’re going to have a marvelous time.   
 > 无论发生什么，你都会度过一段精彩的时光。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***marvelous*** adj
@@ -3312,16 +1789,6 @@ to celebrate an important event：
 > No matter what happens, you’re going to have a marvelous time.  
 > 无论发生什么，你都会度过一段精彩的时光。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mascot*** n
 ---
@@ -3336,16 +1803,6 @@ to celebrate an important event：
 1. *高义频：* **吉祥物**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mash*** v
 ---
@@ -3358,16 +1815,6 @@ to celebrate an important event：
 ---
 1. **捣烂；捣成泥状**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mask*** n
@@ -3390,16 +1837,6 @@ to celebrate an important event：
 > Halloween masks   
 > 万圣节面具
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mask*** vt
 ---
@@ -3415,16 +1852,6 @@ to celebrate an important event：
 
 > She masked her anger with a smile.   
 > 她用微笑掩饰愤怒。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mass*** n
@@ -3468,16 +1895,6 @@ to celebrate an important event：
 4. *低义频：* **(物理学) 质量**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mass*** adj
 ---
@@ -3497,16 +1914,6 @@ to celebrate an important event：
 > **mass production**  
 > mass production  
 > 大量生产
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***master*** n
@@ -3547,16 +1954,6 @@ to celebrate an important event：
 > a Master of Arts / Science   
 > 文科/理科硕士
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***master*** vt
 ---
@@ -3576,16 +1973,6 @@ to celebrate an important event：
 > She struggled to master her fear of heights.   
 > 她努力克服自己的恐高症。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***masterpiece*** n
 ---
@@ -3600,16 +1987,6 @@ to celebrate an important event：
 1. *高义频：* **杰作；名著**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mat*** n
 ---
@@ -3623,16 +2000,6 @@ to celebrate an important event：
 ---
 1. *高义频：* **垫子**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***match*** n
@@ -3688,16 +2055,6 @@ to celebrate an important event：
 > a box of matches  
 > 一盒火柴
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***match*** v
 ---
@@ -3739,12 +2096,11 @@ to celebrate an important event：
 > When it comes to speaking in public, no one can match him.  
 > 提到在公开场合演讲，没人能比得上他。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 matching /'mætʃɪŋ/ adj [只用于名词前]
+
 真题解析
 ---
 ##### 题目  
@@ -3754,7 +2110,6 @@ B.fitted
 C.equipped  
 ##### 答案 matched / matches  
   
-
 
 # ***mate*** n
 ---
@@ -3768,16 +2123,6 @@ C.equipped
 ---
 1. *高义频：* **配偶；同伴；朋友**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***material*** n
@@ -3812,19 +2157,13 @@ C.equipped
 > She’s collecting material for her latest novel.   
 > 她正在为其最新的小说搜集素材。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 When building ________ (材料) cost more, the price of houses increases.   
 ##### 答案 materials  
   
-
 
 # ***material*** adj
 ---
@@ -3839,16 +2178,10 @@ When building ________ (材料) cost more, the price of houses increases.
 1. *高义频：* **物质的；物质上的**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 materially /mə'tɪəriəli/ adv 
-真题解析
----
-[null]
-
 
 # ***mathematical*** adj
 ---
@@ -3861,16 +2194,6 @@ materially /mə'tɪəriəli/ adv
 ---
 1. *高义频：* **数学的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mathematics*** n
@@ -3885,16 +2208,6 @@ materially /mə'tɪəriəli/ adv
 ---
 1. *高义频：* **数学**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***matter*** n
@@ -3948,6 +2261,7 @@ a subject or situation that you must think about and give your attention to：
 > You can improve the soil by adding organic matter.  
 > 你可以通过施用有机肥料来改良土壤。
 
+
 固定搭配
 ---
 - #### a matter of
@@ -3979,9 +2293,7 @@ a subject or situation that you must think about and give your attention to：
 > Alia took matters into her own hands.  
 > 阿利亚把事情揽过来自己处理。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3996,7 +2308,6 @@ C.matter
 D.variety  
 ##### 答案 a matter of  
   
-
 
 # ***matter*** vi
 ---
@@ -4022,16 +2333,6 @@ D.variety
 > 重要的是你做了什么，而不是你说了什么。
 
 matter作动词用时，主要用于疑问句和否定句，并且不用于进行时态。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mature*** adj
 ---
@@ -4052,16 +2353,6 @@ matter作动词用时，主要用于疑问句和否定句，并且不用于进�
 > a mature peach   
 > 成熟的桃子
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mature*** v
 ---
@@ -4074,16 +2365,6 @@ matter作动词用时，主要用于疑问句和否定句，并且不用于进�
 ---
 1. **成熟，使充分发展**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***maximum*** n
@@ -4103,16 +2384,6 @@ matter作动词用时，主要用于疑问句和否定句，并且不用于进�
 > You can borrow a maximum of ten books from the library.   
 > 你最多可从图书馆借10本书。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***maximum*** adj
 ---
@@ -4129,16 +2400,6 @@ matter作动词用时，主要用于疑问句和否定句，并且不用于进�
 
 > the maximum speed   
 > 最高速度
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***may*** modal v
@@ -4188,6 +2449,7 @@ matter作动词用时，主要用于疑问句和否定句，并且不用于进�
 > Hold the flag higher so that all may see.   
 > 把旗子举得高一点儿，好让大家都能看到。
 
+
 固定搭配
 ---
 - #### may as well (do) 
@@ -4197,9 +2459,7 @@ matter作动词用时，主要用于疑问句和否定句，并且不用于进�
 > You may as well go home. He isn’t coming.   
 > 你还是回家去吧，他不来了。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4228,7 +2488,6 @@ D.would
 ##### 答案 B  
   
 
-
 # ***maybe*** adv
 ---
 英音 'meɪbi     美音 'meɪbi
@@ -4252,16 +2511,6 @@ D.would
 > — Maybe. / Maybe not.  
 > 也许会吧。/可能不会。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mayor*** n
 ---
@@ -4276,16 +2525,6 @@ D.would
 1. *高义频：* **市长**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***maze*** n
 ---
@@ -4298,16 +2537,6 @@ D.would
 ---
 1. **迷宫，曲径**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***me*** pron
@@ -4322,16 +2551,6 @@ D.would
 ---
 1. *高义频：* **我**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***meal*** n
@@ -4354,16 +2573,6 @@ D.would
 > **cook,prepare a meal**  
 > cook / prepare a meal  
 > 做饭
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mean*** v
@@ -4455,6 +2664,7 @@ to intend to do sth or intend that sb should do sth：
 > This is the last time I’m waiting for you. I mean it (= I’m serious).  
 > 这是我最后一次等你。我说到做到！
 
+
 固定搭配
 ---
 - #### be meant to be 
@@ -4491,9 +2701,7 @@ to intend to do sth or intend that sb should do sth：
 > What do you mean, you thought I don’t mind?  
 > 你这是什么意思？你以为我会不在意吗？
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4504,7 +2712,6 @@ I didn't mean ________ (eat) anything but the ice cream looked so good that I co
 If you think that treating a woman well means always ________ (get) her permission for things, think again.   
 ##### 答案 getting  
   
-
 
 # ***mean*** adj
 ---
@@ -4528,16 +2735,6 @@ If you think that treating a woman well means always ________ (get) her permissi
 > It is mean to speak ill of others.   
 > 说别人坏话是卑鄙的行为。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***meander*** n
 ---
@@ -4550,16 +2747,6 @@ If you think that treating a woman well means always ________ (get) her permissi
 ---
 1. *高义频：* **(指河流等) 蜿蜒缓慢流动**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***meaning*** n
@@ -4584,19 +2771,13 @@ If you think that treating a woman well means always ________ (get) her permissi
 > the meaning of life  
 > 生活的意义
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 meaningful /'miːnɪŋfl/ adj 
 meaningless  /'miːnɪŋləs/ adj 
 > Never fill our lives with meaningless tasks.  
 > 不要让毫无意义的事充斥我们的生活。
-
-真题解析
----
-[null]
 
 
 # ***means*** n
@@ -4619,6 +2800,7 @@ a way of doing sth or achieving sth：
 
 > Watching films is regarded as a good means of entertainment.  
 > 看电影被视为一种很好的娱乐方式。
+
 
 固定搭配
 ---
@@ -4656,9 +2838,7 @@ by no means位于句首时，句子多用部分倒装语序。
 > I’ve tried very hard to improve my English. But by no means is the teacher satisfied with my progress.  
 > 我已很努力来提高英语水平，但老师对我的进步根本不满意。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4666,7 +2846,6 @@ by no means位于句首时，句子多用部分倒装语序。
 — Yes, ________all means!  
 ##### 答案 by  
   
-
 
 # ***meantime*** adv
 ---
@@ -4680,6 +2859,7 @@ by no means位于句首时，句子多用部分倒装语序。
 1. *高义频：* **其间；同时**  
 
 
+
 固定搭配
 ---
 - #### in the meantime
@@ -4688,13 +2868,6 @@ by no means位于句首时，句子多用部分倒装语序。
 
 > The doctor will be here soon. In the meantime, try and relax.  
 > 医生很快就来。现在尽量放松一下吧。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***meanwhile*** adv
@@ -4713,16 +2886,6 @@ by no means位于句首时，句子多用部分倒装语序。
 > Mother went shopping; meanwhile, I cleaned the house.   
 > 妈妈去买东西，与此同时，我打扫房间。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***meanwhile*** n
 ---
@@ -4737,6 +2900,7 @@ by no means位于句首时，句子多用部分倒装语序。
 1. *高义频：* **其时；其间**  
 
 
+
 固定搭配
 ---
 - #### in the meanwhile / meantime 
@@ -4746,16 +2910,13 @@ by no means位于句首时，句子多用部分倒装语序。
 > Please find a taxi, and in the meanwhile I’ll pack some food.   
 > 你去叫辆出租车，趁这工夫我打包点吃的。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 It will be a big help if you go to the store and get what we need for dinner. ________ the meanwhile I’ll set the table.  
 ##### 答案 In  
   
-
 
 # ***measure*** n  重难点词汇
 ---
@@ -4800,16 +2961,6 @@ an official action (step)：
 > It is high time that we should take some measures to protect endangered animals.  
 > 是时候我们应该采取措施保护濒危动物了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***measure*** v  重难点词汇
 ---
@@ -4841,9 +2992,7 @@ an official action (step)：
 > Scientists haven’t measured the positive effects of laughter on children.   
 > 笑对孩子们的正面影响有多大，科学家还没有对此作出评估。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 measurement /'meʒəmənt/ n 
@@ -4851,13 +3000,13 @@ measurement /'meʒəmənt/ n
 > take sb’s measurements  
 > 给某人量尺寸
 
+
 真题解析
 ---
 ##### 题目  
 They finished ________ (测量) that piece of land last week.   
 ##### 答案 measuring  
   
-
 
 # ***measurement*** n
 ---
@@ -4871,16 +3020,6 @@ They finished ________ (测量) that piece of land last week.
 ---
 1. *高义频：* **衡量；测量；尺寸**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***meat*** n
@@ -4907,16 +3046,6 @@ They finished ________ (测量) that piece of land last week.
 > We then got down to the real meat of the debate.  
 > 我们接下来进入了辩论的最精彩部分。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mechanic*** n
 ---
@@ -4933,16 +3062,6 @@ They finished ________ (测量) that piece of land last week.
 
 > a car mechanic  
 > 汽车修理工
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mechanical*** adj
@@ -4964,16 +3083,6 @@ They finished ________ (测量) that piece of land last week.
 > He was asked the same question so many times that the answer became mechanical.  
 > 被问过无数次同样的问题，他的回答变得十分机械。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***medal*** n
 ---
@@ -4991,16 +3100,6 @@ They finished ________ (测量) that piece of land last week.
 > **winning,gold medal**  
 > I’ll never forget winning my first gold medal.   
 > 我永远不会忘记夺得第一枚金牌时的情景。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***media*** n
@@ -5020,16 +3119,6 @@ They finished ________ (测量) that piece of land last week.
 > The mass media was / were accused of influencing the final decision.  
 > 人们指责大众传媒影响了最终的决定。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mediator*** n
 ---
@@ -5042,16 +3131,6 @@ They finished ________ (测量) that piece of land last week.
 ---
 1. **调解员；斡旋者**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***medical*** adj
@@ -5071,16 +3150,6 @@ They finished ________ (测量) that piece of land last week.
 
 > a medical student / school  
 > 医科学生；医学院/医科大学
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***medicine*** n
@@ -5108,19 +3177,13 @@ They finished ________ (测量) that piece of land last week.
 > My daughter has decided to study medicine.   
 > 我女儿决定学医。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Modern m________ has cured many diseases that used to kill many people.  
 ##### 答案 medicine  
   
-
 
 # ***medieval*** adj
 ---
@@ -5133,16 +3196,6 @@ Modern m________ has cured many diseases that used to kill many people.
 ---
 1. **中世纪的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***medium*** n
@@ -5171,16 +3224,6 @@ Modern m________ has cured many diseases that used to kill many people.
 > Television can be an excellent medium for education.  
 > 电视会是一种绝好的教育手段。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***medium*** adj
 ---
@@ -5197,16 +3240,6 @@ Modern m________ has cured many diseases that used to kill many people.
 > **medium height**  
 > a man of medium height  
 > 中等身高的男子
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***meet*** v
@@ -5280,6 +3313,7 @@ Modern m________ has cured many diseases that used to kill many people.
 > This new smartphone will meet almost all our requirements.  
 > 这种新的智能手机几乎能满足我们所有的需求。
 
+
 固定搭配
 ---
 - #### meet up
@@ -5307,13 +3341,6 @@ Modern m________ has cured many diseases that used to kill many people.
 > Whatever problem he meets with, he never gives up.  
 > 无论遇到什么问题，他从不放弃。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***meet*** n
 ---
@@ -5330,16 +3357,6 @@ Modern m________ has cured many diseases that used to kill many people.
 
 > There is going to be a sports meet next week.   
 > 下周要举行运动会。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***meeting*** n
@@ -5377,16 +3394,6 @@ Modern m________ has cured many diseases that used to kill many people.
 3. *低义频：* **运动会**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***melodie*** n
 ---
@@ -5400,16 +3407,6 @@ Modern m________ has cured many diseases that used to kill many people.
 1. **<旧>乐曲，歌曲**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***melody*** n
 ---
@@ -5422,16 +3419,6 @@ Modern m________ has cured many diseases that used to kill many people.
 ---
 1. **旋律**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***melon*** n
@@ -5449,16 +3436,6 @@ Modern m________ has cured many diseases that used to kill many people.
 > a watermelon   
 > 西瓜
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***melt*** v
 ---
@@ -5474,16 +3451,6 @@ Modern m________ has cured many diseases that used to kill many people.
 
 > The ice which covers the South Pole has begun to melt.  
 > 覆盖南极的冰已经开始融化了。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***member*** n
@@ -5501,16 +3468,6 @@ Modern m________ has cured many diseases that used to kill many people.
 
 > a family / group / team member   
 > 家庭成员/组员/队员
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***membership*** n
@@ -5539,16 +3496,6 @@ Modern m________ has cured many diseases that used to kill many people.
 > How large / big is the membership?   
 > 总共有多少会员？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***memorable*** adj
 ---
@@ -5561,16 +3508,6 @@ Modern m________ has cured many diseases that used to kill many people.
 ---
 1. **难忘的，特别的，值得回忆的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***memorial*** adj
@@ -5587,16 +3524,6 @@ Modern m________ has cured many diseases that used to kill many people.
 
 > a memorial festival / prize  
 > 纪念日/纪念奖
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***memorial*** n
@@ -5616,16 +3543,6 @@ Modern m________ has cured many diseases that used to kill many people.
 > The statue is a memorial to all the soldiers who died in the wars.   
 > 这尊塑像是纪念全体阵亡战士的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***memorize*** v
 ---
@@ -5638,16 +3555,6 @@ Modern m________ has cured many diseases that used to kill many people.
 ---
 1. **记住；记录；记下**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***memory*** n
@@ -5692,6 +3599,7 @@ Modern m________ has cured many diseases that used to kill many people.
 > Personal computers now have much increased memory capacity.   
 > 现在个人计算机的存储量已经得到了很大的提高。
 
+
 固定搭配
 ---
 - #### in memory of 
@@ -5700,13 +3608,6 @@ Modern m________ has cured many diseases that used to kill many people.
 
 > A film will be made in memory of those brave fire fighters.   
 > 为了纪念那些勇敢的消防战士，一部电影即将开拍。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mend*** v
@@ -5726,16 +3627,6 @@ Modern m________ has cured many diseases that used to kill many people.
 
 > Most troubled friendships can be mended.   
 > 大多数受损的友谊是可以修复的。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mental*** adj
@@ -5758,18 +3649,12 @@ Modern m________ has cured many diseases that used to kill many people.
 > It's important to maintain good mental health.  
 > 保持心理健康很重要。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 mentally /'mentəli/ adv 
 > Mentally, I began making a list of things I had to do.  
 > 我开始在脑子里盘算我该做哪些事情。
-
-真题解析
----
-[null]
 
 
 # ***mentally*** adv
@@ -5783,16 +3668,6 @@ mentally /'mentəli/ adv
 ---
 1. *高义频：* **精神上；智力上**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mention*** vt
@@ -5825,6 +3700,7 @@ mentally /'mentəli/ adv
 > Did she mention where she was going?  
 > 她说过她要去哪儿吗？
 
+
 固定搭配
 ---
 - #### Don’t mention it. 
@@ -5838,16 +3714,13 @@ mentally /'mentəli/ adv
 > When starting your own business, you shouldn’t think of a free day, not to mention flying off for a month’s vacation.   
 > 创业期间，你别想有一天的空闲时间，更别说乘飞机去度一个月的假了。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I hear they’ve promoted Tom, but he didn’t mention ________ (promote) when we talked on the phone.   
 ##### 答案 being / having been promoted  
   
-
 
 # ***mention*** n
 ---
@@ -5865,16 +3738,6 @@ I hear they’ve promoted Tom, but he didn’t mention ________ (promote) when w
 > **made no mention of**  
 > She made no mention of her mother’s illness.  
 > 她没有提到她母亲的病。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***menu*** n
@@ -5897,16 +3760,6 @@ I hear they’ve promoted Tom, but he didn’t mention ________ (promote) when w
 > a pull-down menu  
 > 下拉式菜单
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***merchant*** n
 ---
@@ -5920,16 +3773,6 @@ I hear they’ve promoted Tom, but he didn’t mention ________ (promote) when w
 ---
 1. **商人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***merchant*** adj
@@ -5948,16 +3791,6 @@ I hear they’ve promoted Tom, but he didn’t mention ________ (promote) when w
 > a merchant ship   
 > 商船
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***merciful*** adj
 ---
@@ -5973,16 +3806,6 @@ I hear they’ve promoted Tom, but he didn’t mention ________ (promote) when w
 
 > The merciful king saved him from death.   
 > 仁慈的国王救了他一命。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mercy*** n
@@ -6006,6 +3829,7 @@ I hear they’ve promoted Tom, but he didn’t mention ________ (promote) when w
 > They showed little mercy to the prisoners.   
 > 他们对囚犯毫不留情。
 
+
 固定搭配
 ---
 - #### at the mercy of 
@@ -6014,13 +3838,6 @@ I hear they’ve promoted Tom, but he didn’t mention ________ (promote) when w
 
 > The little ship was at the mercy of the storm.   
 > 小船在暴风雨中失去控制。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mere*** adj
@@ -6045,16 +3862,6 @@ I hear they’ve promoted Tom, but he didn’t mention ________ (promote) when w
 > The merest mention of snake makes her feel sick.  
 > 仅仅一提到蛇都会使她恶心。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***merely*** adv
 ---
@@ -6075,19 +3882,13 @@ I hear they’ve promoted Tom, but he didn’t mention ________ (promote) when w
 > It is not merely a job, but a way of life.  
 > 这不仅仅是一份工作，而是一种生活方式。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I wasn’t blaming anyone; I ________ (mere) said errors like this could be avoided.  
 ##### 答案 merely  
   
-
 
 # ***merrily*** adv
 ---
@@ -6100,16 +3901,6 @@ I wasn’t blaming anyone; I ________ (mere) said errors like this could be avoi
 ---
 1. *高义频：* **高兴地；愉快地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***merry*** adj
@@ -6130,16 +3921,6 @@ I wasn’t blaming anyone; I ________ (mere) said errors like this could be avoi
 
 > Every family in the village is living a merry life.   
 > 村子里家家都过着快乐的生活。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mess*** n
@@ -6170,16 +3951,6 @@ I wasn’t blaming anyone; I ________ (mere) said errors like this could be avoi
 > I feel I’ve made a mess of things.   
 > 我觉得我把事情弄得一团糟。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mess*** vt
 ---
@@ -6191,6 +3962,7 @@ I wasn’t blaming anyone; I ________ (mere) said errors like this could be avoi
 英文释义
 ---
 1. *高义频：* **弄脏；麻烦；弄乱**  
+
 
 
 固定搭配
@@ -6208,13 +3980,6 @@ I wasn’t blaming anyone; I ________ (mere) said errors like this could be avoi
 - #### mess with
 1. **与…有牵连；欺骗；试图改变**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***message*** n
@@ -6246,6 +4011,7 @@ I wasn’t blaming anyone; I ________ (mere) said errors like this could be avoi
 > The message of the film is that good always wins over evil.   
 > 这部影片的要义是正义总能战胜邪恶。
 
+
 固定搭配
 ---
 - #### get the message 
@@ -6258,16 +4024,13 @@ I wasn’t blaming anyone; I ________ (mere) said errors like this could be avoi
 > — I get the message.   
 > 我明白了。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 There’s a ________(留言) from Karen on the phone.   
 ##### 答案 message  
   
-
 
 # ***messenger*** n
 ---
@@ -6281,16 +4044,6 @@ There’s a ________(留言) from Karen on the phone.
 ---
 1. *高义频：* **送信者；通信员**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***messy*** adj
@@ -6317,16 +4070,6 @@ There’s a ________(留言) from Karen on the phone.
 > Quite a difficult and messy task!   
 > 真是相当棘手的任务！
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***metal*** n
 ---
@@ -6340,16 +4083,6 @@ There’s a ________(留言) from Karen on the phone.
 ---
 1. *高义频：* **金属；金属制品**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***metaphor*** n
@@ -6365,16 +4098,6 @@ There’s a ________(留言) from Karen on the phone.
 1. **暗喻；隐喻**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***metaphorical*** adj
 ---
@@ -6388,16 +4111,6 @@ There’s a ________(留言) from Karen on the phone.
 1. **隐喻的；暗喻的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***meteorite*** n
 ---
@@ -6410,16 +4123,6 @@ There’s a ________(留言) from Karen on the phone.
 ---
 1. **陨石**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***meter*** n
@@ -6438,16 +4141,6 @@ There’s a ________(留言) from Karen on the phone.
 > a gas / taxi meter  
 > 煤气表 / 出租车计价器
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***methane*** n
 ---
@@ -6461,16 +4154,6 @@ There’s a ________(留言) from Karen on the phone.
 ---
 1. *高义频：* **甲烷；沼气**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***method*** n
@@ -6493,19 +4176,13 @@ There’s a ________(留言) from Karen on the phone.
 > the proper method of / for brushing teeth  
 > 刷牙的正确方法
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Modern methods ________ tracking polar bear populations have been employed only since the mid-1980s.  
 ##### 答案 of/for  
   
-
 
 # ***metre*** n
 ---
@@ -6523,16 +4200,6 @@ Modern methods ________ tracking polar bear populations have been employed only 
 > This room is 20 square metres.  
 > 这个房间的面积为20平方米。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***metropolitan*** adj
 ---
@@ -6545,16 +4212,6 @@ Modern methods ________ tracking polar bear populations have been employed only 
 ---
 1. *高义频：* **主要都市的；大城市的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***microphone*** n
@@ -6570,16 +4227,6 @@ Modern methods ________ tracking polar bear populations have been employed only 
 1. *高义频：* **麦克风；话筒**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***microscope*** n
 ---
@@ -6593,16 +4240,6 @@ Modern methods ________ tracking polar bear populations have been employed only 
 ---
 1. *高义频：* **显微镜**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***microwave*** n
@@ -6621,16 +4258,6 @@ Modern methods ________ tracking polar bear populations have been employed only 
 > microwave ovens   
 > 微波炉
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mid-*** prefix
 ---
@@ -6643,16 +4270,6 @@ Modern methods ________ tracking polar bear populations have been employed only 
 ---
 1. *高义频：* **中部；中间；当中**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***midday*** n
@@ -6667,16 +4284,6 @@ Modern methods ________ tracking polar bear populations have been employed only 
 ---
 1. *高义频：* **正午；日中**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***middle*** adj
@@ -6704,19 +4311,13 @@ Modern methods ________ tracking polar bear populations have been employed only 
 > a middle-income family   
 > 中等收入家庭
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 It was a relief and I came to a sudden stop just in the middle on the road.  
 ##### 答案 on → of  
   
-
 
 # ***middle*** n
 ---
@@ -6750,16 +4351,6 @@ It was a relief and I came to a sudden stop just in the middle on the road.
 > I was in the middle of packing up my things when suddenly the power went out in the neighborhood.  
 > 我正在收拾东西，突然整个街区都停电了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***middle-aged*** adj
 ---
@@ -6772,16 +4363,6 @@ It was a relief and I came to a sudden stop just in the middle on the road.
 ---
 1. **中年的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***midnight*** n
@@ -6805,16 +4386,6 @@ It was a relief and I came to a sudden stop just in the middle on the road.
 > burn the midnight oil  
 > 工作/学习到深夜；开夜车
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***midwestern*** adj
 ---
@@ -6827,16 +4398,6 @@ It was a relief and I came to a sudden stop just in the middle on the road.
 ---
 1. *高义频：* **中西部的; 有中西部特性的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***might*** modal v
@@ -6890,12 +4451,7 @@ It was a relief and I came to a sudden stop just in the middle on the road.
 > 你该多经常锻炼才是。
 
 might相当于may，但更带迟疑、婉转、谦逊等色彩。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -6916,7 +4472,6 @@ D. should
 ##### 答案 A  
   
 
-
 # ***migrant*** n
 ---
 英音 'maɪɡrənt     美音 'maɪɡrənt
@@ -6928,16 +4483,6 @@ D. should
 ---
 1. **移民**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***migrate*** v
@@ -6951,16 +4496,6 @@ D. should
 ---
 1. **移栖，迁徙**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***migration*** n
@@ -6978,16 +4513,6 @@ D. should
 
 > The process of urbanization — the migration of people from the countryside to the city — was the result of modernization.  
 > 城市化进程——人们从农村移居到城市——是现代化的结果。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mild*** adj
@@ -7029,16 +4554,6 @@ D. should
 > mild cheese   
 > 味道清淡的奶酪
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mildly*** adv
 ---
@@ -7051,16 +4566,6 @@ D. should
 ---
 1. *高义频：* **轻微地；温和地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mile*** n
@@ -7079,16 +4584,6 @@ D. should
 > go the / that extra mile  
 > 孜孜以求；加倍努力
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***military*** adj
 ---
@@ -7106,16 +4601,6 @@ D. should
 > take military action   
 > 采取军事行动
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***milk*** n
 ---
@@ -7129,16 +4614,6 @@ D. should
 ---
 1. *高义频：* **奶；牛奶； (植物的) 乳液**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***milk*** vt
@@ -7156,16 +4631,6 @@ D. should
 > milk the cows   
 > 挤牛奶
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mill*** n
 ---
@@ -7178,16 +4643,6 @@ D. should
 ---
 1. **工厂；制造厂**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***millennium*** n
@@ -7202,16 +4657,6 @@ D. should
 1. **千年**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***millimetre*** n
 ---
@@ -7225,16 +4670,6 @@ D. should
 ---
 1. **毫米 (mm)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***million*** num
@@ -7253,16 +4688,6 @@ D. should
 > Tens of thousands of cows would never give milk again. Half a million pigs and millions of chickens were dead.  
 > 成千上万的奶牛不再产奶，五十万头猪和千百万只小鸡全都死了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***millionaire*** n
 ---
@@ -7276,16 +4701,6 @@ D. should
 ---
 1. *高义频：* **百万富翁；巨富**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***millipede*** n
@@ -7301,16 +4716,6 @@ D. should
 1. *高义频：* **(= millepede) 千足虫**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mime*** n
 ---
@@ -7324,16 +4729,6 @@ D. should
 ---
 1. *高义频：* **哑剧**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mind*** n  重难点词汇
@@ -7379,6 +4774,7 @@ D. should
 
 > Great minds think alike.   
 > 英雄所见略同。
+
 
 固定搭配
 ---
@@ -7445,16 +4841,13 @@ D. should
 > She could have been a brilliant pianist if she’d put her mind to it.   
 > 如果她专心致志，本可以成为一名杰出的钢琴家。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 He and his wife are ________ the same mind; they both want their son to go to college.  
 ##### 答案 of  
   
-
 
 # ***mind*** v  重难点词汇
 ---
@@ -7503,6 +4896,7 @@ He and his wife are ________ the same mind; they both want their son to go to co
 > Could you mind my bag for a moment?   
 > 你介意帮我看一会儿包吗？
 
+
 固定搭配
 ---
 - #### mind your own business
@@ -7516,9 +4910,7 @@ He and his wife are ________ the same mind; they both want their son to go to co
 1. **不要紧。/ 没关系。**  
 
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -7548,7 +4940,6 @@ D.Never mind
 Why don’t you just ________ (别管闲事) and leave me alone?  
 ##### 答案 mind your own business  
   
-
 
 # ***minded*** adj
 ---
@@ -7584,16 +4975,6 @@ Why don’t you just ________ (别管闲事) and leave me alone?
 > They want to enjoy relaxed time, with like-minded people.   
 > 他们想和志趣相投的人一起享受轻松的时光。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mine*** pron
 ---
@@ -7614,16 +4995,6 @@ Why don’t you just ________ (别管闲事) and leave me alone?
 
 > That wasn’t his fault; it was mine.   
 > 那不是他的错，是我的错。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mine*** n
@@ -7646,16 +5017,6 @@ Why don’t you just ________ (别管闲事) and leave me alone?
 > a gold mine   
 > 金矿
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mine*** v
 ---
@@ -7674,16 +5035,6 @@ Why don’t you just ________ (别管闲事) and leave me alone?
 > mine for gold   
 > 掘金
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***miner*** n
 ---
@@ -7696,16 +5047,6 @@ Why don’t you just ________ (别管闲事) and leave me alone?
 ---
 1. **矿工**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mineral*** n
@@ -7720,16 +5061,6 @@ Why don’t you just ________ (别管闲事) and leave me alone?
 ---
 1. *高义频：* **矿物**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mineral*** adj
@@ -7747,16 +5078,6 @@ Why don’t you just ________ (别管闲事) and leave me alone?
 > mineral water   
 > 矿泉水
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mini-skirt*** n
 ---
@@ -7769,16 +5090,6 @@ Why don’t you just ________ (别管闲事) and leave me alone?
 ---
 1. **迷你裙, 超短裙**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***miniature*** n
@@ -7793,16 +5104,6 @@ Why don’t you just ________ (别管闲事) and leave me alone?
 1. **微型复制品**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***minibus*** n
 ---
@@ -7816,16 +5117,6 @@ Why don’t you just ________ (别管闲事) and leave me alone?
 ---
 1. *高义频：* **小型公共汽车**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***minimum*** n
@@ -7844,16 +5135,6 @@ Why don’t you just ________ (别管闲事) and leave me alone?
 > We have a minimum of 28 people living here in the winter and a maximum of 125 in the summer.   
 > 冬天我们最少有28人住在这里，夏天最多有125人。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***minimum*** adj
 ---
@@ -7870,16 +5151,6 @@ Why don’t you just ________ (别管闲事) and leave me alone?
 
 > minimum requirements  
 > 最低要求
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***minister*** n
@@ -7901,16 +5172,6 @@ Why don’t you just ________ (别管闲事) and leave me alone?
 > the Minister of Foreign Affairs   
 > 外交部长
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ministry*** n
 ---
@@ -7927,16 +5188,6 @@ Why don’t you just ________ (别管闲事) and leave me alone?
 
 > the Ministry of Education   
 > 教育部
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***minor*** adj
@@ -7958,16 +5209,6 @@ Why don’t you just ________ (别管闲事) and leave me alone?
 
 > Luckily it was only a minor problem.   
 > 幸运的是，那只是个小问题。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***minority*** n
@@ -7993,16 +5234,6 @@ Why don’t you just ________ (别管闲事) and leave me alone?
 > minority languages   
 > 少数民族语言
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***minus*** prep
 ---
@@ -8018,16 +5249,6 @@ Why don’t you just ________ (别管闲事) and leave me alone?
 
 > Four minus two is two.  
 > 4减去2等于2。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***minus*** adj
@@ -8053,16 +5274,6 @@ Why don’t you just ________ (别管闲事) and leave me alone?
 > get a grade of A minus  
 > 得到A-的成绩
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***minus*** n
 ---
@@ -8076,16 +5287,6 @@ Why don’t you just ________ (别管闲事) and leave me alone?
 ---
 1. **减号，负号，缺点**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***minute*** n
@@ -8117,6 +5318,7 @@ Why don’t you just ________ (别管闲事) and leave me alone?
 > **Do you have a minute**  
 > Do you have a minute? I’ve got something to tell you.   
 > 你有时间吗？我有事要告诉你。
+
 
 固定搭配
 ---
@@ -8166,13 +5368,6 @@ Why don’t you just ________ (别管闲事) and leave me alone?
 1. **等一会儿； 等一下**  
 
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mirror*** n
 ---
@@ -8202,19 +5397,13 @@ Why don’t you just ________ (别管闲事) and leave me alone?
 > Dickens’ novels are a mirror of his times.  
 > 狄更斯的小说是他那个时代的写照。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Jenny spends hours in front of the ________ (镜子)!   
 ##### 答案 mirror  
   
-
 
 # ***mirror*** vt
 ---
@@ -8234,16 +5423,6 @@ Jenny spends hours in front of the ________ (镜子)!
 > The trees were mirrored in the still water of the lake.  
 > 树木倒映在静静的湖水中。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***misadventure*** n
 ---
@@ -8256,16 +5435,6 @@ Jenny spends hours in front of the ________ (镜子)!
 ---
 1. **事故，灾难**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***miserable*** adj
@@ -8282,16 +5451,6 @@ Jenny spends hours in front of the ________ (镜子)!
 
 > a miserable life   
 > 悲惨的生活
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***misery*** n
@@ -8310,16 +5469,6 @@ Jenny spends hours in front of the ________ (镜子)!
 > the misery of unemployment  
 > 失业的痛苦
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***misfortune*** n
 ---
@@ -8335,16 +5484,6 @@ Jenny spends hours in front of the ________ (镜子)!
 
 > Misfortunes never come singly.   
 > 祸不单行。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mislead*** vt
@@ -8363,16 +5502,6 @@ Jenny spends hours in front of the ________ (镜子)!
 > Don’t be misled by his words.   
 > 不要被他的话误导。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***misread*** vt
 ---
@@ -8386,16 +5515,6 @@ Jenny spends hours in front of the ________ (镜子)!
 ---
 1. *高义频：* **读错；误解**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***miss*** v
@@ -8459,6 +5578,7 @@ Jenny spends hours in front of the ________ (镜子)!
 > I still miss the days when she was with us.   
 > 我仍然怀念她和我们在一起的日子。
 
+
 固定搭配
 ---
 - #### miss out 
@@ -8471,9 +5591,7 @@ Jenny spends hours in front of the ________ (镜子)!
 > Some children miss out because their parents worry about the safety of school trips.  
 > 一些孩子由于父母担心学校组织的旅行的安全问题而失去了参加的机会。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -8484,7 +5602,6 @@ Cecily, I shall ________ (想念) our pleasant talks when you leave.
 We ________ (未赶上) the last bus and didn’t have any money for taxi, so we had to walk home.  
 ##### 答案 missed  
   
-
 
 # ***miss*** n
 ---
@@ -8505,16 +5622,6 @@ We ________ (未赶上) the last bus and didn’t have any money for taxi, so we
 2. *低义频：* **[对女服务员的称呼] 小姐；[对女老师的称呼] 老师**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***missile*** n
 ---
@@ -8528,16 +5635,6 @@ We ________ (未赶上) the last bus and didn’t have any money for taxi, so we
 ---
 1. *高义频：* **导弹；投射物**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***missing*** adj
@@ -8566,19 +5663,13 @@ We ________ (未赶上) the last bus and didn’t have any money for taxi, so we
 > 书丢了，图书馆罚了我款。
 
 be missing表示状态；get lost表示动作。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Police are now searching for a woman who is reported to ________ (miss) since the flood hit the area last Friday.   
 ##### 答案 have been missing  
   
-
 
 # ***mission*** n
 ---
@@ -8603,16 +5694,6 @@ Police are now searching for a woman who is reported to ________ (miss) since th
 > His mission was to help young people in his local community.  
 > 他的职责是帮助当地社区的年轻人。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mist*** n
 ---
@@ -8631,16 +5712,10 @@ Police are now searching for a woman who is reported to ________ (miss) since th
 > We could just see the outline of the house through the mist.  
 > 透过薄雾我们仅能看到房屋的轮廓。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 misty /'mɪsti/ adj 
-真题解析
----
-[null]
-
 
 # ***mistake*** n
 ---
@@ -8665,6 +5740,7 @@ misty /'mɪsti/ adj
 
 ### 辨析 error, mistake, fault
 
+
 固定搭配
 ---
 - #### by mistake
@@ -8673,13 +5749,6 @@ misty /'mɪsti/ adj
 
 > Someone has taken my dictionary by mistake.  
 > 有人错拿了我的字典。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mistake*** vt
@@ -8698,6 +5767,7 @@ misty /'mɪsti/ adj
 > The headmaster has mistaken her idea.   
 > 校长误会了她的意思。
 
+
 固定搭配
 ---
 - #### mistake ... for 
@@ -8706,13 +5776,6 @@ misty /'mɪsti/ adj
 
 > Perhaps he had mistaken me for someone else.   
 > 他可能误把我当成其他人了。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mistaken*** adj
@@ -8734,16 +5797,6 @@ misty /'mɪsti/ adj
 > mistaken views / ideas  
 > 错误的观点 / 想法
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mistress*** n
 ---
@@ -8757,16 +5810,6 @@ misty /'mɪsti/ adj
 1. **女主人**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***misty*** adj
 ---
@@ -8779,16 +5822,6 @@ misty /'mɪsti/ adj
 ---
 1. *高义频：* **有薄雾的；模糊的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***misunderstand*** v
@@ -8810,16 +5843,10 @@ misty /'mɪsti/ adj
 > Don’t misunderstand. My job isn’t always easy.   
 > 别误会，我的工作并不总是轻松的。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 misunderstood /ˌmɪsʌndə'stʊd/ adj 
-真题解析
----
-[null]
-
 
 # ***misunderstanding*** n
 ---
@@ -8836,16 +5863,6 @@ misunderstood /ˌmɪsʌndə'stʊd/ adj
 
 > clear up a misunderstanding   
 > 澄清误会
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mix*** v
@@ -8896,6 +5913,7 @@ misunderstood /ˌmɪsʌndə'stʊd/ adj
 > In his job, he often mixes with all sorts of people.  
 > 他的工作使他经常与各种人打交道。
 
+
 固定搭配
 ---
 - #### mix up
@@ -8920,6 +5938,7 @@ misunderstood /ˌmɪsʌndə'stʊd/ adj
 > His explanation mixed me up more.  
 > 他的解释让我更糊涂了。
 
+
 派生词汇
 ---
 mixture /'mɪkstʃə(r)/ n [C] & [U]
@@ -8939,10 +5958,6 @@ mixed /mɪkst/ adj
 > mixed feelings / emotions  
 > 复杂的心情
 
-真题解析
----
-[null]
-
 
 # ***mix*** n
 ---
@@ -8961,9 +5976,7 @@ mixed /mɪkst/ adj
 > a good mix of people  
 > 一群形形色色的人
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 mixed /mɪkst/ adj 
@@ -8973,10 +5986,6 @@ mixed /mɪkst/ adj
 
 > a mixed school  
 > 男女同校的学校
-
-真题解析
----
-[null]
 
 
 # ***mixture*** n
@@ -9000,16 +6009,6 @@ mixed /mɪkst/ adj
 > She felt a strange mixture of excitement and fear.  
 > 她有一种既兴奋又害怕的奇怪感觉。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mm*** n
 ---
@@ -9023,16 +6022,6 @@ mixed /mɪkst/ adj
 ---
 1. *高义频：* **毫米 (millimetre / millimeter)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mobile*** adj
@@ -9051,16 +6040,6 @@ mixed /mɪkst/ adj
 > a mobile shop  
 > 流动商店
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mobile*** n
 ---
@@ -9078,16 +6057,6 @@ mixed /mɪkst/ adj
 > Have you tried phoning her on her mobile?   
 > 你试着打过她的手机了吗？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mockingbird*** n
 ---
@@ -9101,16 +6070,6 @@ mixed /mɪkst/ adj
 ---
 1. *高义频：* **嘲鸫 (一种鸟，能模仿其他鸟的叫声)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mode*** n
@@ -9128,16 +6087,6 @@ mixed /mɪkst/ adj
 
 > flight mode  
 > 飞行模式
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***model*** n
@@ -9174,16 +6123,6 @@ mixed /mɪkst/ adj
 > Don’t compare yourself with the models and actors in the media.  
 > 不要把自己和媒体上的模特、演员作比较。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***model*** v
 ---
@@ -9197,18 +6136,12 @@ mixed /mɪkst/ adj
 1. *高义频：* **当模特**  
 
 
+
 固定搭配
 ---
 - #### be modeled on / after
 1. **模仿；仿照**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***modem*** n
@@ -9223,16 +6156,6 @@ mixed /mɪkst/ adj
 ---
 1. *高义频：* **调制解调器**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***modern*** adj
@@ -9255,19 +6178,13 @@ mixed /mɪkst/ adj
 > modern technology / medicine  
 > 现代科技 / 医学
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The ________ (现代) history of Italy dates from 1860.   
 ##### 答案 modern  
   
-
 
 # ***modern-day*** adj
 ---
@@ -9281,16 +6198,6 @@ The ________ (现代) history of Italy dates from 1860.
 1. **现代的；当代的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***modernize*** v
 ---
@@ -9303,16 +6210,6 @@ The ________ (现代) history of Italy dates from 1860.
 ---
 1. **（使）现代化**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***modest*** adj
@@ -9343,16 +6240,6 @@ not very great, big or expensive：
 > The living quarters are modest, with few luxuries, but cosy.  
 > 住处规模不大，也不奢华，但很舒适。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***modify*** vt
 ---
@@ -9365,16 +6252,6 @@ not very great, big or expensive：
 ---
 1. **调整，修改；修饰**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***molten*** adj
@@ -9390,16 +6267,6 @@ not very great, big or expensive：
 1. *高义频：* **熔化的；熔融的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mom*** n
 ---
@@ -9413,16 +6280,6 @@ not very great, big or expensive：
 ---
 1. *高义频：* **妈妈 (BrE mum)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***moment*** n  重难点词汇
@@ -9464,6 +6321,7 @@ a particular time for doing sth：
 > **the right moment**  
 > I’m waiting for the right moment to tell him the bad news.   
 > 我正在等待适当的时机告诉他这个坏消息。
+
 
 固定搭配
 ---
@@ -9526,9 +6384,7 @@ a particular time for doing sth：
 > Be careful! The machine starts the moment you press the button.    
 > 小心！这台机器一按按钮就会启动。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -9536,7 +6392,6 @@ a particular time for doing sth：
 — Sorry. This is not ________ (适当的时机) to invite me. I am too tired to walk.  
 ##### 答案 the right moment  
   
-
 
 # ***mommy*** n
 ---
@@ -9551,16 +6406,6 @@ a particular time for doing sth：
 1. *高义频：* **妈妈 (BrE mummy)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***monarch*** n
 ---
@@ -9573,16 +6418,6 @@ a particular time for doing sth：
 ---
 1. **君主，国王**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***money*** n
@@ -9610,18 +6445,12 @@ a particular time for doing sth：
 > spend / save money  
 > 花钱 / 存钱
 
+
 固定搭配
 ---
 - #### make money 
 1. **赚钱；获利**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***monitor*** n
@@ -9646,16 +6475,6 @@ a particular time for doing sth：
 > the monitor of the computer   
 > 计算机的显示器
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***monitor*** vt
 ---
@@ -9672,16 +6491,6 @@ a particular time for doing sth：
 > Scientists may be able to monitor the behaviour of sharks to predict bad weather.   
 > 科学家们也许可以监控鲨鱼的行为来预测坏天气。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***monk*** n
 ---
@@ -9694,16 +6503,6 @@ a particular time for doing sth：
 ---
 1. **和尚**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***monkey*** n
@@ -9719,16 +6518,6 @@ a particular time for doing sth：
 1. *高义频：* **猴子；淘气鬼**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***monster*** n
 ---
@@ -9742,16 +6531,6 @@ a particular time for doing sth：
 ---
 1. *高义频：* **怪兽；怪物；恶人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***month*** n
@@ -9774,16 +6553,6 @@ a particular time for doing sth：
 > All employees are paid by the month.   
 > 所有员工都是按月发工资。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***monthly*** adj
 ---
@@ -9800,16 +6569,6 @@ a particular time for doing sth：
 > a monthly magazine   
 > 月刊
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***monthly*** adv
 ---
@@ -9825,16 +6584,6 @@ a particular time for doing sth：
 
 > These machines have to be checked monthly.   
 > 这些机器必须每月检查一次。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***monthly*** n
@@ -9853,16 +6602,6 @@ a particular time for doing sth：
 > This magazine is a monthly.   
 > 这本杂志是月刊。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***monument*** n
 ---
@@ -9876,16 +6615,6 @@ a particular time for doing sth：
 ---
 1. *高义频：* **纪念碑；纪念馆**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mood*** n
@@ -9920,16 +6649,6 @@ a particular time for doing sth：
 > I’m not in the mood to talk about it now.  
 > 我现在没心情谈论这件事。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***moody*** adj
 ---
@@ -9942,16 +6661,6 @@ a particular time for doing sth：
 ---
 1. **喜怒无常的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***moon*** n
@@ -9969,16 +6678,6 @@ a particular time for doing sth：
 2. *高义频：* **月亮**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mop*** n
 ---
@@ -9992,16 +6691,6 @@ a particular time for doing sth：
 ---
 1. *高义频：* **拖把**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mop*** vt
@@ -10019,6 +6708,7 @@ a particular time for doing sth：
 > mop the floor / sweat   
 > 拖地/擦汗
 
+
 固定搭配
 ---
 - #### mop up 
@@ -10030,13 +6720,6 @@ a particular time for doing sth：
 
 > Rainforests are important for mopping up CO2 from the atmosphere and helping to slow global warming.  
 > 雨林很重要，它们能吸收大气中的二氧化碳，有助于减缓全球变暖。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***moral*** adj
@@ -10058,16 +6741,6 @@ a particular time for doing sth：
 
 > a moral victory / support  
 > 道义 / 精神上的胜利 / 支持
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***moral*** n
@@ -10092,16 +6765,10 @@ a particular time for doing sth：
 > There are traditional proverbs which express a moral or a piece of advice.   
 > 有许多传统谚语含有寓意或忠告。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 morally  /'mɒrəli/ adv 
-真题解析
----
-[null]
-
 
 # ***more*** adj  重难点词汇
 ---
@@ -10128,16 +6795,6 @@ morally  /'mɒrəli/ adv
 > Would you like to have some more cake?  
 > 要不要再吃点蛋糕？
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***more*** pron  重难点词汇
 ---
@@ -10157,16 +6814,6 @@ morally  /'mɒrəli/ adv
 > **a little more**  
 > Give me a little more.   
 > 再给我一些。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***more*** adv  重难点词汇
@@ -10196,6 +6843,7 @@ morally  /'mɒrəli/ adv
 > **was more,than**  
 > The boy was more frightened than hurt.   
 > 这个男孩的伤倒不算什么，只是受惊不小。
+
 
 固定搭配
 ---
@@ -10289,9 +6937,7 @@ morally  /'mɒrəli/ adv
 > He studies very hard, and what’s more, he is ready to help others.   
 > 他学习非常刻苦，更重要的是他乐于助人。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -10306,7 +6952,6 @@ Many people have donated that type of blood; however, the blood bank needs _____
 It took ________ (不止) building supplies to construct these energy-saving houses. It took brains, too.  
 ##### 答案 more than  
   
-
 
 # ***moreover*** adv
 ---
@@ -10324,16 +6969,6 @@ It took ________ (不止) building supplies to construct these energy-saving hou
 > I don’t like skating; moreover, the ice is too thin.   
 > 我不喜欢溜冰；而且，这冰也太薄了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***morning*** n
 ---
@@ -10347,16 +6982,6 @@ It took ________ (不止) building supplies to construct these energy-saving hou
 ---
 1. *高义频：* **早晨；上午：**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mosquito*** n
@@ -10372,16 +6997,6 @@ It took ________ (不止) building supplies to construct these energy-saving hou
 1. *高义频：* **蚊子**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***moss*** n
 ---
@@ -10394,16 +7009,6 @@ It took ________ (不止) building supplies to construct these energy-saving hou
 ---
 1. **藓；苔藓**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***most*** adj  重难点词汇
@@ -10430,16 +7035,6 @@ It took ________ (不止) building supplies to construct these energy-saving hou
 > In India, most people traditionally eat with their hands.  
 > 在印度，大多数人历来是用手吃饭。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***most*** pron  重难点词汇
 ---
@@ -10462,6 +7057,7 @@ It took ________ (不止) building supplies to construct these energy-saving hou
 > About 150,000 bicycles are stolen every year and most are never found.   
 > 每年大约有15万辆自行车被偷，大多数都找不回来。
 
+
 固定搭配
 ---
 - #### at (the) most
@@ -10477,13 +7073,6 @@ It took ________ (不止) building supplies to construct these energy-saving hou
 
 > I hope you will all make the most of this chance to share information and opinions.   
 > 我希望你们大家都充分利用这个机会分享信息、交流意见。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***most*** adv  重难点词汇
@@ -10507,6 +7096,7 @@ It took ________ (不止) building supplies to construct these energy-saving hou
 > I was most surprised to hear of your engagement.   
 > 听说你订婚了，我特别惊讶。
 
+
 固定搭配
 ---
 - #### most of all 
@@ -10519,16 +7109,13 @@ It took ________ (不止) building supplies to construct these energy-saving hou
 > — Most of all, I don’t have enough money.   
 > 最主要是因为我没有足够的钱。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 The children loved their day trip, and they enjoyed the horse ride ________ (much).  
 ##### 答案 most  
   
-
 
 # ***mostly*** adv
 ---
@@ -10545,16 +7132,6 @@ The children loved their day trip, and they enjoyed the horse ride ________ (muc
 > Those who came to dance were mostly young.   
 > 来跳舞的多半是年轻人。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mother*** n
 ---
@@ -10569,16 +7146,6 @@ The children loved their day trip, and they enjoyed the horse ride ________ (muc
 1. *高义频：* **母亲；妈妈 (mum)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***motherland*** n
 ---
@@ -10592,16 +7159,6 @@ The children loved their day trip, and they enjoyed the horse ride ________ (muc
 ---
 1. *高义频：* **祖国**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***motion*** n
@@ -10619,16 +7176,6 @@ The children loved their day trip, and they enjoyed the horse ride ________ (muc
 
 > Newton’s laws of motion  
 > 牛顿(三大)运动定律
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***motivate*** vt
@@ -10650,18 +7197,12 @@ The children loved their day trip, and they enjoyed the horse ride ________ (muc
 > While some people are motivated by a need for success, others are motivated by a fear of failure.  
 > 有些人的动力源于对成功的渴望，而另一些人则源于害怕失败。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 motivated /'məʊtɪveɪtɪd/ adj 
 > After every run I feel fitter, happier and motivated to keep progressing.  
 > 每次跑步后，我都感到更健康、更快乐、更有动力继续前进。
-
-真题解析
----
-[null]
 
 
 # ***motivation*** n
@@ -10689,19 +7230,13 @@ the need or reason for doing sth：
 > Escape can be a strong motivation for travel.  
 > 逃避现实可以成为旅游的一种强烈动机。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Her motivation ________ writing was a desire for women to get the right to higher education.  
 ##### 答案 for  
   
-
 
 # ***motor*** n
 ---
@@ -10719,16 +7254,6 @@ Her motivation ________ writing was a desire for women to get the right to highe
 > The machine is driven by an electric motor.   
 > 这部机器是用电动马达驱动的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***motor*** adj
 ---
@@ -10745,16 +7270,6 @@ Her motivation ________ writing was a desire for women to get the right to highe
 > motor vehicles   
 > 机动车
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***motorbike*** n
 ---
@@ -10768,16 +7283,6 @@ Her motivation ________ writing was a desire for women to get the right to highe
 ---
 1. *高义频：* **(轻型) 摩托车**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***motorcycle*** n
@@ -10793,16 +7298,6 @@ Her motivation ________ writing was a desire for women to get the right to highe
 1. *高义频：* **摩托车**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***motorist*** n
 ---
@@ -10815,16 +7310,6 @@ Her motivation ________ writing was a desire for women to get the right to highe
 ---
 1. **驾驶汽车的人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***motorway*** n
@@ -10839,16 +7324,6 @@ Her motivation ________ writing was a desire for women to get the right to highe
 ---
 1. *高义频：* **(BrE) 高速公路**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***motto*** n
@@ -10867,16 +7342,6 @@ Her motivation ________ writing was a desire for women to get the right to highe
 > My motto is: live one day at a time.   
 > 我的座右铭是：过好每一天。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mould*** n
 ---
@@ -10889,16 +7354,6 @@ Her motivation ________ writing was a desire for women to get the right to highe
 ---
 1. **霉，霉菌**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mount*** n
@@ -10915,16 +7370,6 @@ Her motivation ________ writing was a desire for women to get the right to highe
 
 > Mount Everest / Mount Tai  
 > 珠穆朗玛峰/泰山
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mount*** v
@@ -10951,16 +7396,6 @@ Her motivation ________ writing was a desire for women to get the right to highe
 3. *高义频：* **逐步增加**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mountain*** n
 ---
@@ -10986,6 +7421,7 @@ Her motivation ________ writing was a desire for women to get the right to highe
 > I’m going to go camping in the mountains.  
 > 我要去山里露营。
 
+
 固定搭配
 ---
 - #### a mountain of / mountains of 
@@ -10997,13 +7433,6 @@ Her motivation ________ writing was a desire for women to get the right to highe
 
 > The books are more precious to her than mountains of gold.  
 > 这些书对她来说比金山还珍贵。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mountainous*** adj
@@ -11021,16 +7450,6 @@ Her motivation ________ writing was a desire for women to get the right to highe
 > We live in a mountainous area in the northwest.   
 > 我们生活在西北山区。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mountaintop*** n
 ---
@@ -11044,16 +7463,6 @@ Her motivation ________ writing was a desire for women to get the right to highe
 1. **山顶**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mounting*** adj
 ---
@@ -11066,16 +7475,6 @@ Her motivation ________ writing was a desire for women to get the right to highe
 ---
 1. **越来越强烈的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mourn*** v
@@ -11099,16 +7498,6 @@ Her motivation ________ writing was a desire for women to get the right to highe
 > London is very different today, and few people mourn the passing of the old city.   
 > 如今伦敦焕然一新，很少有人为旧城的消失而感到遗憾。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mouse*** n
 ---
@@ -11122,16 +7511,6 @@ Her motivation ________ writing was a desire for women to get the right to highe
 ---
 1. *高义频：* **鼠 (pl mice)；鼠标 (pl mouses)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***moustache*** n
@@ -11147,16 +7526,6 @@ Her motivation ________ writing was a desire for women to get the right to highe
 1. *高义频：* **小胡子；髭**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mouth*** n
 ---
@@ -11171,10 +7540,12 @@ Her motivation ________ writing was a desire for women to get the right to highe
 1. *高义频：* **嘴；口；(出入) 口：**  
 
 
+
 固定搭配
 ---
 - #### keep one’s mouth shut 
 1. **保守秘密；守口如瓶**  
+
 
 
 派生词汇
@@ -11185,10 +7556,6 @@ mouthful /'maʊθfʊl/ n [C]
 
 > He eats each mouthful with great enjoyment.  
 > 他每一口都吃得津津有味。
-
-真题解析
----
-[null]
 
 
 # ***mouthful*** n
@@ -11204,16 +7571,6 @@ mouthful /'maʊθfʊl/ n [C]
 1. *高义频：* **一口；满口**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***movable*** adj
 ---
@@ -11226,16 +7583,6 @@ mouthful /'maʊθfʊl/ n [C]
 ---
 1. **活动的；可移动的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***move*** v
@@ -11285,6 +7632,7 @@ mouthful /'maʊθfʊl/ n [C]
 > His speech moved the audience to tears.   
 > 他的演讲感动得听众都流泪了。
 
+
 固定搭配
 ---
 - #### move about / around
@@ -11303,13 +7651,6 @@ mouthful /'maʊθfʊl/ n [C]
 
 > I think we’ve talked enough about that subject; let’s move on.   
 > 我认为这个话题我们已经谈得够多了，咱们换个话题吧。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***move*** n
@@ -11337,16 +7678,10 @@ mouthful /'maʊθfʊl/ n [C]
 > An elephant group is on the move in the national park.   
 > 一群大象在国家公园里活动着。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 mov(e)able /'muːvəbl/ adj 
-真题解析
----
-[null]
-
 
 # ***moveable*** adj
 ---
@@ -11359,16 +7694,6 @@ mov(e)able /'muːvəbl/ adj
 ---
 1. *高义频：* **可移动的；活动的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***movement*** n
@@ -11393,16 +7718,6 @@ mov(e)able /'muːvəbl/ adj
 > The artistic movement called the Renaissance began in Florence.   
 > 这场被称为文艺复兴的运动开始于佛罗伦萨。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***movie*** n
 ---
@@ -11426,16 +7741,6 @@ mov(e)able /'muːvəbl/ adj
 
 > I’ve always wanted to work in the movies.   
 > 我一直想投身电影业。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***moving*** adj
@@ -11463,16 +7768,6 @@ mov(e)able /'muːvəbl/ adj
 > Reading in a moving car is harmful to your eyes.   
 > 在行驶的车上阅读对眼睛有害。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***much*** adj
 ---
@@ -11495,19 +7790,13 @@ mov(e)able /'muːvəbl/ adj
 > I hope the change will not cause you too much trouble.  
 > 我希望这个变化不会给你带来太多麻烦。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 He doesn’t have many furniture in his room — just an old desk.  
 ##### 答案 many → much  
   
-
 
 # ***much*** pron
 ---
@@ -11523,16 +7812,6 @@ He doesn’t have many furniture in his room — just an old desk.
 
 > The two girls are getting on very well and share much with each other.  
 > 这两个女孩相处融洽，彼此分享很多东西。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***much*** adv
@@ -11574,6 +7853,7 @@ He doesn’t have many furniture in his room — just an old desk.
 
 > This is much the best way to do it.   
 > 这是做这件事最好的方法。
+
 
 固定搭配
 ---
@@ -11632,9 +7912,7 @@ He doesn’t have many furniture in his room — just an old desk.
 > So much for all those introductions. It’s time to get down to business.   
 > 就介绍这么多吧，该开始工作了。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -11664,7 +7942,6 @@ He doesn’t have many furniture in his room — just an old desk.
 ##### 答案 many → much  
   
 
-
 # ***mud*** n
 ---
 英音 mʌd     美音 mʌd
@@ -11677,16 +7954,6 @@ He doesn’t have many furniture in his room — just an old desk.
 ---
 1. *高义频：* **泥；淤泥**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***muddy*** adj
@@ -11701,16 +7968,6 @@ He doesn’t have many furniture in his room — just an old desk.
 1. *高义频：* **多泥的；泥泞的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***muffler*** n
 ---
@@ -11723,16 +7980,6 @@ He doesn’t have many furniture in his room — just an old desk.
 ---
 1. **围巾**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mug*** n
@@ -11748,16 +7995,6 @@ He doesn’t have many furniture in his room — just an old desk.
 1. *高义频：* **大杯；大杯的量：**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mug*** v
 ---
@@ -11772,16 +8009,6 @@ He doesn’t have many furniture in his room — just an old desk.
 1. *高义频：* **(对...) 行凶抢劫；(拍照时) 做鬼脸**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***multi-cultural*** adj
 ---
@@ -11794,16 +8021,6 @@ He doesn’t have many furniture in his room — just an old desk.
 ---
 1. **多种文化的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***multicultural*** adj
@@ -11818,16 +8035,6 @@ He doesn’t have many furniture in his room — just an old desk.
 1. *高义频：* **多元文化的；多文化融合的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***multiple*** adj
 ---
@@ -11840,16 +8047,6 @@ He doesn’t have many furniture in his room — just an old desk.
 ---
 1. *高义频：* **多个 (人 / 事件 / 物组成) 的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***multiple*** n
@@ -11864,16 +8061,6 @@ He doesn’t have many furniture in his room — just an old desk.
 ---
 1. *高义频：* **倍数**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***multiply*** v
@@ -11902,16 +8089,6 @@ He doesn’t have many furniture in his room — just an old desk.
 > Microorganisms multiply rapidly in dirty places and in warm temperatures.  
 > 微生物在肮脏的地方和温暖的环境下繁殖迅速。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mummy*** n
 ---
@@ -11925,16 +8102,6 @@ He doesn’t have many furniture in his room — just an old desk.
 1. **（儿语）妈咪**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mural*** n
 ---
@@ -11947,16 +8114,6 @@ He doesn’t have many furniture in his room — just an old desk.
 ---
 1. **壁画**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***murder*** n
@@ -11977,16 +8134,6 @@ He doesn’t have many furniture in his room — just an old desk.
 > There occurred two murders this month in the town.  
 > 本月镇上发生了两起谋杀案。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***murder*** vt
 ---
@@ -12003,16 +8150,10 @@ He doesn’t have many furniture in his room — just an old desk.
 > He was accused of murdering a policeman.   
 > 他被控谋杀了一名警员。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 murderer /'mɜːdərə(r)/ n [C] 
-真题解析
----
-[null]
-
 
 # ***murderer*** n
 ---
@@ -12025,16 +8166,6 @@ murderer /'mɜːdərə(r)/ n [C]
 ---
 1. **凶手；谋杀犯**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***murmur*** v
@@ -12049,16 +8180,6 @@ murderer /'mɜːdərə(r)/ n [C]
 ---
 1. *高义频：* **小声说；低语；喃喃道**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***muscle*** n
@@ -12085,16 +8206,6 @@ murderer /'mɜːdərə(r)/ n [C]
 > muscle labour   
 > 力气活
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***museum*** n
 ---
@@ -12108,16 +8219,6 @@ murderer /'mɜːdərə(r)/ n [C]
 ---
 1. *高义频：* **博物馆；博物院**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mushroom*** n
@@ -12133,16 +8234,6 @@ murderer /'mɜːdərə(r)/ n [C]
 1. *高义频：* **蘑菇**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mushroom*** vi
 ---
@@ -12155,16 +8246,6 @@ murderer /'mɜːdərə(r)/ n [C]
 ---
 1. *高义频：* **快速成长；迅速发展**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***music*** n
@@ -12187,16 +8268,6 @@ murderer /'mɜːdərə(r)/ n [C]
 > turn up / down the music   
 > 调高/低音乐
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***musical*** adj
 ---
@@ -12213,16 +8284,6 @@ murderer /'mɜːdərə(r)/ n [C]
 > musical instruments   
 > 乐器
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***musical*** n
 ---
@@ -12237,16 +8298,6 @@ murderer /'mɜːdərə(r)/ n [C]
 1. *高义频：* **音乐喜剧；(电影) 音乐片**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***musician*** n
 ---
@@ -12260,16 +8311,6 @@ murderer /'mɜːdərə(r)/ n [C]
 ---
 1. *高义频：* **音乐家；作曲家**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***must*** modal v
@@ -12326,6 +8367,7 @@ must表示推测时，一般用于肯定句。
 > He said he must see you.   
 > 他说一定要见你。
 
+
 固定搭配
 ---
 - #### if you must (do sth)
@@ -12335,9 +8377,7 @@ must表示推测时，一般用于肯定句。
 > If you must smoke, please go outside.  
 > 如果你一定要抽烟的话，请去外面抽。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -12371,7 +8411,6 @@ D.may
 ##### 答案 C  
   
 
-
 # ***must*** n
 ---
 英音 mʌst     美音 mʌst
@@ -12388,16 +8427,6 @@ D.may
 > His new novel is a must for all lovers of crime fiction.  
 > 他的新作是所有侦探小说爱好者的必读书。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mustard*** n
 ---
@@ -12412,16 +8441,6 @@ D.may
 1. *高义频：* **芥末；芥末酱**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***mutton*** n
 ---
@@ -12435,16 +8454,6 @@ D.may
 ---
 1. *高义频：* **羊肉**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mutual*** adj
@@ -12463,16 +8472,6 @@ D.may
 > mutual efforts / support  
 > 共同的努力/相互的支持
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***my*** pron
 ---
@@ -12489,19 +8488,13 @@ D.may
 > I washed my face as soon as I brushed my teeth.   
 > 我刷完牙后，紧接着洗脸。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 This picture often brings back to me many happy memories of your high school days.  
 ##### 答案 your → my  
   
-
 
 # ***myself*** pron
 ---
@@ -12524,19 +8517,13 @@ This picture often brings back to me many happy memories of your high school day
 > Well, you’ve given me a great preview of Australia. Now I need to see it myself!   
 > 你们已预先让我见识了澳大利亚。现在我要亲自去看看。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 “She thought I had hurt ________ (I),” says Pahlsson.  
 ##### 答案 myself  
   
-
 
 # ***mysterious*** adj
 ---
@@ -12549,16 +8536,6 @@ This picture often brings back to me many happy memories of your high school day
 ---
 1. *高义频：* **神秘的；不可思议的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mystery*** n
@@ -12582,16 +8559,6 @@ This picture often brings back to me many happy memories of your high school day
 2. *高义频：* **推理 / 侦探作品**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***myth*** n
 ---
@@ -12604,16 +8571,6 @@ This picture often brings back to me many happy memories of your high school day
 ---
 1. **神话；神话故事**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***mythology*** n
@@ -12628,13 +8585,4 @@ This picture often brings back to me many happy memories of your high school day
 1. **神话**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 

@@ -1,729 +1,4 @@
-
-# ***CD*** n
----
-英音 ˌsiː'diː     美音 ˌsiː'diː
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **激光唱盘 (Compact Disc)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Calgary*** n
----
-英音 'kælɡəri     美音 'kælɡəri
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **卡尔加里 (加拿大城市)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***California*** n
----
-英音 ˌkælɪ'fɔːnjə     美音 ˌkælɪ'fɔːrnjə
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **加利福尼亚 (州)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Californian*** n
----
-英音 ˌkæliˈfɔ:njən     美音 ˌkælɪ'fɔrnjən
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **加利福尼亚 (州) 人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Californian*** adj
----
-英音 ˌkæliˈfɔ:njən     美音 ˌkælɪ'fɔrnjən
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **加利福尼亚 (州) 人的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Cambodian*** n
----
-英音 kæm'bəʊdiən     美音 kæm'boʊdiən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **柬埔寨人；柬埔寨语**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Canada*** n
----
-英音 'kænədə     美音 'kænədə
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **加拿大**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Canadian*** n
----
-英音 kə'neɪdiən     美音 kə'neɪdiən
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **加拿大人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Canadian*** adj
----
-英音 kə'neɪdiən     美音 kə'neɪdiən
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **加拿大的；加拿大人的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Cantonese*** n
----
-英音 ˌkæntə'niːz     美音 ˌkæntə'niːz
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
-
-英文释义
----
-1. *高义频：* **广东人；广州人；广东话**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Cantonese*** adj
----
-英音 ˌkæntə'niːz     美音 ˌkæntə'niːz
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **广东人的；广州人的；广东话的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Carla*** n
----
-英音 ˈkɑ:lə     美音 ˈkɑrlə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **卡拉 (女名)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Casey*** 
----
-英音 ˈkeisi     美音 ˈkeisi
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **凯西 (姓)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Catholic*** n
----
-英音 'kæθlɪk     美音 'kæθlɪk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
-
-英文释义
----
-1. *高义频：* **天主教徒**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Catholic*** adj
----
-英音 'kæθlɪk      美音 'kæθlɪk 
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **天主教的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Celsius*** adj
----
-英音 'selsiəs     美音 'selsiəs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **(温度) 摄氏的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Celtic*** n
----
-英音 'keltɪk     美音 'keltɪk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **凯尔特语**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Chinatown*** n
----
-英音 'tʃaɪnətaʊn     美音 'tʃaɪnətaʊn
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **唐人街**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Chinese*** adj
----
-英音 ˌtʃaɪ'niːz     美音 ˌtʃaɪ'niːz
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **中国的；中国人的；汉语的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Chinese*** n
----
-英音 ˌtʃaɪ'niːz     美音 ˌtʃaɪ'niːz
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **中国人；汉语**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Christian*** adj
----
-英音 'krɪstʃən     美音 'krɪstʃən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **基督的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Christian*** n
----
-英音 'krɪstʃən     美音 'krɪstʃən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
-
-英文释义
----
-1. *高义频：* **基督教徒**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Christmas*** n
----
-英音 'krɪsməs     美音 'krɪsməs
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
-
-英文释义
----
-1. *高义频：* **圣诞节：**  
-
-
-> on Christmas Day  
-> 在圣诞节那天
-
-> Merry Christmas!  
-> 圣诞快乐！
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-##### 题目  
-The day after ________ (圣诞节) is called Boxing Day.  
-##### 答案 Christmas  
-  
-
-
-# ***Claire*** n
----
-英音 klɛə     美音 klɛər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **克莱尔 (女名)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Clancy*** n
----
-英音 'klænsɪ     美音 'klænsɪ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **克兰西 (男名)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Colombia*** n
----
-英音 kə'lɒmbiə     美音 kə'loʊmbiə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **哥伦比亚 (南美洲国家)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Colombian*** n
----
-英音 kə'lɒmbiən     美音 kə'loʊmbiən
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **哥伦比亚人**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Colombian*** adj
----
-英音 kə'lɒmbiən     美音 kə'loʊmbiən
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **哥伦比亚的；哥伦比亚人的**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Confucius*** n
----
-英音 kən'fjuʃəs     美音 kən'fjuʃəs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **孔子**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Cubism*** n
----
-英音 'kjuːbɪzəm     美音 'kjuːbɪzəm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. **立体主义，立体派**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
-
-# ***Cuzco*** n
----
-英音 'ku:skəu     美音 'kuskəu
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
-英文释义
----
-1. *高义频：* **库斯科 (秘鲁南部城市)**  
-
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
+# Cc
 
 # ***cab*** n
 ---
@@ -737,16 +12,6 @@ The day after ________ (圣诞节) is called Boxing Day.
 ---
 1. **出租车**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cabbage*** n
@@ -762,16 +27,6 @@ The day after ________ (圣诞节) is called Boxing Day.
 1. *高义频：* **卷心菜；洋白菜**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cabin*** n
 ---
@@ -786,16 +41,6 @@ The day after ________ (圣诞节) is called Boxing Day.
 1. *高义频：* **小屋；船舱**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cabinet*** n
 ---
@@ -808,16 +53,6 @@ The day after ________ (圣诞节) is called Boxing Day.
 ---
 1. *高义频：* **贮藏柜；(BrE) 内阁**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cable*** n
@@ -840,16 +75,6 @@ The day after ________ (圣诞节) is called Boxing Day.
 > cable television  
 > 有线电视（缩略为CATV）
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cafe*** n
 ---
@@ -867,16 +92,6 @@ The day after ________ (圣诞节) is called Boxing Day.
 > an Internet cafe   
 > 网吧
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cafeteria*** n
 ---
@@ -890,16 +105,6 @@ The day after ________ (圣诞节) is called Boxing Day.
 ---
 1. *高义频：* **自助餐厅**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cage*** n
@@ -915,16 +120,6 @@ The day after ________ (圣诞节) is called Boxing Day.
 1. *高义频：* **笼；鸟笼**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cake*** n
 ---
@@ -939,16 +134,6 @@ The day after ________ (圣诞节) is called Boxing Day.
 1. *高义频：* **蛋糕；饼**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***calcium*** n
 ---
@@ -961,16 +146,6 @@ The day after ________ (圣诞节) is called Boxing Day.
 ---
 1. **钙**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***calculate*** v  重难点词汇
@@ -1012,20 +187,18 @@ The day after ________ (圣诞节) is called Boxing Day.
 > This painting is so valuable that it is difficult to calculate what its price would be.  
 > 这幅画非常珍贵，很难估算出它的价格。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 calculation /ˌkælkju'leɪʃn/ n [C] & [U] 
 calculator /'kælkjuleɪtə(r)/ n [C]
+
 真题解析
 ---
 ##### 题目  
 The loss has not yet been ________ accurately, but it is believed to be well beyond a hundred million dollars.   
 ##### 答案 calculated  
   
-
 
 # ***calculator*** n
 ---
@@ -1039,16 +212,6 @@ The loss has not yet been ________ accurately, but it is believed to be well bey
 ---
 1. *高义频：* **计算器**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***calendar*** n
@@ -1064,16 +227,6 @@ The loss has not yet been ________ accurately, but it is believed to be well bey
 1. *高义频：* **日历；历法**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***calf*** n
 ---
@@ -1087,16 +240,6 @@ The loss has not yet been ________ accurately, but it is believed to be well bey
 ---
 1. *高义频：* **小牛；(象、鲸等的) 幼兽**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***call*** v  重难点词汇
@@ -1144,6 +287,7 @@ The loss has not yet been ________ accurately, but it is believed to be well bey
 
 > Please call again later.   
 > 请稍后再打电话。
+
 
 固定搭配
 ---
@@ -1215,9 +359,7 @@ The loss has not yet been ________ accurately, but it is believed to be well bey
 > This picture called up memories of our class trip.   
 > 这张照片使我想起我们班的那次旅行。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -1237,7 +379,6 @@ The Somali robbers’ frequent attacks on the sea urged the United Nations to ca
 As I grew up in a small town at the foot of a mountain, the visit to the village called ________ scenes of my childhood.  
 ##### 答案 up  
   
-
 
 # ***call*** n  重难点词汇
 ---
@@ -1280,18 +421,12 @@ As I grew up in a small town at the foot of a mountain, the visit to the village
 > There have been calls for national unity.  
 > 一直有国家统一的呼声。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 called /kɔːld/ adj [不用于名词前] 
 > a boy called Jack   
 > 名叫杰克的男孩
-
-真题解析
----
-[null]
 
 
 # ***calligraphy*** n
@@ -1305,16 +440,6 @@ called /kɔːld/ adj [不用于名词前]
 ---
 1. **[U] 书法**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***calm*** adj
@@ -1341,16 +466,10 @@ called /kɔːld/ adj [不用于名词前]
 
 ### 辨析 quiet, calm, still, silent
 四者均可用作形容词，均含有“静”的意思。
-固定搭配
----
-[null]
+
 派生词汇
 ---
 calmly /'kɑːmli/ adv 
-真题解析
----
-[null]
-
 
 # ***calm*** v
 ---
@@ -1362,6 +481,7 @@ calmly /'kɑːmli/ adv
 英文释义
 ---
 1. *高义频：* **(使) 平静；平静下来**  
+
 
 
 固定搭配
@@ -1376,13 +496,6 @@ calmly /'kɑːmli/ adv
 > **calm himself down**  
 > When he gets upset, he will take a few deep breaths to calm himself down.  
 > 心烦时，他会深深地吸几口气以使自己平静下来。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***calm*** n
@@ -1401,16 +514,6 @@ calmly /'kɑːmli/ adv
 > After a storm comes a calm.  
 > 暴风雨之后是平静。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***calorie*** n
 ---
@@ -1425,16 +528,6 @@ calmly /'kɑːmli/ adv
 1. *高义频：* **卡路里 (食物的热量单位)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***camel*** n
 ---
@@ -1448,16 +541,6 @@ calmly /'kɑːmli/ adv
 ---
 1. *高义频：* **骆驼**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***camera*** n
@@ -1475,16 +558,6 @@ calmly /'kɑːmli/ adv
 
 > a built-in camera  
 > 内置摄像头
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***camp*** n
@@ -1512,16 +585,6 @@ calmly /'kɑːmli/ adv
 > They belong to different political camps.  
 > 他们属于不同的政治阵营。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***camp*** vi
 ---
@@ -1535,6 +598,7 @@ calmly /'kɑːmli/ adv
 1. *高义频：* **野营；宿营**  
 
 
+
 固定搭配
 ---
 - #### camp out
@@ -1544,16 +608,13 @@ calmly /'kɑːmli/ adv
 > He planned to camp out in the wild.  
 > 他计划在野外露营。
 
+
 派生词汇
 ---
 camping /'kæmpɪŋ/ n [U] 
 > **go camping**  
 > go camping   
 > 去野营
-
-真题解析
----
-[null]
 
 
 # ***campaign*** n
@@ -1573,16 +634,6 @@ camping /'kæmpɪŋ/ n [U]
 > The government is launching an advertising campaign in order to tell people about the dangers of drugs.  
 > 政府正在开展宣传活动，以告诫人们毒品的危害。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***campus*** n
 ---
@@ -1600,16 +651,6 @@ camping /'kæmpɪŋ/ n [U]
 > **on campus**  
 > on campus  
 > 在校园内
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***can*** modal v
@@ -1666,6 +707,7 @@ can表示推测时常用于否定句和疑问句。对现在和将来的推测�
 > How can so many bad things happen to one person?  
 > 一个人怎么能碰上那么多倒霉事呢？
 
+
 固定搭配
 ---
 - #### cannot but 
@@ -1682,9 +724,7 @@ can表示推测时常用于否定句和疑问句。对现在和将来的推测�
 > One cannot be too careful in choosing friends.   
 > 择友越谨慎越好。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -1720,7 +760,6 @@ D.needn’t
 ##### 答案 B  
   
 
-
 # ***can*** n
 ---
 英音 kæn     美音 kæn
@@ -1741,16 +780,6 @@ D.needn’t
 > He drank a can of beer.  
 > 他喝了一听啤酒。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***canal*** n
 ---
@@ -1767,16 +796,6 @@ D.needn’t
 
 > the Suez Canal  
 > 苏伊士运河
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cancel*** v
@@ -1801,18 +820,12 @@ to end an agreement or arrangement that you don’t want any more：
 > Is it too late to cancel my order?  
 > 我现在撤销订单是不是太晚了？
 
+
 固定搭配
 ---
 - #### cancel out
 1. **抵消**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cancer*** n
@@ -1827,16 +840,6 @@ to end an agreement or arrangement that you don’t want any more：
 ---
 1. *高义频：* **癌；癌症**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***candidate*** n
@@ -1856,16 +859,6 @@ to end an agreement or arrangement that you don’t want any more：
 > Please send us all the information about the candidate for the position.  
 > 请你把申请这个职位的候选人的全部信息发给我们。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***candle*** n
 ---
@@ -1883,16 +876,6 @@ to end an agreement or arrangement that you don’t want any more：
 > A candle lights others and consumes itself.  
 > 蜡烛照亮别人，燃烧自己。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***candy*** n
 ---
@@ -1907,16 +890,6 @@ to end an agreement or arrangement that you don’t want any more：
 1. *高义频：* **糖果**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cannabis*** n
 ---
@@ -1929,16 +902,6 @@ to end an agreement or arrangement that you don’t want any more：
 ---
 1. **大麻**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***canoe*** vi
@@ -1953,16 +916,6 @@ to end an agreement or arrangement that you don’t want any more：
 1. **乘独木舟**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***canoe*** n
 ---
@@ -1975,16 +928,6 @@ to end an agreement or arrangement that you don’t want any more：
 ---
 1. **独木舟**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***canteen*** n
@@ -2000,16 +943,6 @@ to end an agreement or arrangement that you don’t want any more：
 1. *高义频：* **食堂**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***canvas*** n
 ---
@@ -2024,16 +957,6 @@ to end an agreement or arrangement that you don’t want any more：
 1. *高义频：* **帆布；画布**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***canyon*** n
 ---
@@ -2046,16 +969,6 @@ to end an agreement or arrangement that you don’t want any more：
 ---
 1. **峡谷**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cap*** n
@@ -2070,16 +983,6 @@ to end an agreement or arrangement that you don’t want any more：
 ---
 1. *高义频：* **帽子；（钢笔、瓶子等的）帽；盖**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cap*** vt
@@ -2096,16 +999,6 @@ to end an agreement or arrangement that you don’t want any more：
 
 > mountains capped with snow  
 > 积雪覆盖的大山
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***capable*** adj
@@ -2126,16 +1019,6 @@ to end an agreement or arrangement that you don’t want any more：
 > **capable of**  
 > The program is capable of calculating our budget for the year.  
 > 这个程序能计算出我们的年度预算。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***capacity*** n
@@ -2158,16 +1041,6 @@ to end an agreement or arrangement that you don’t want any more：
 > **capacity to,for**  
 > a capacity to learn / for learning languages  
 > 学习语言的能力
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***capital*** n
@@ -2196,16 +1069,6 @@ an amount of money that is used to start a business：
 > You’ll need more capital if you want to open your own business.  
 > 要创办自己的企业，你还需要更多的资金。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***capital*** adj
 ---
@@ -2228,16 +1091,6 @@ an amount of money that is used to start a business：
 > capital investments  
 > 资本投资
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***capitalized*** adj
 ---
@@ -2250,16 +1103,6 @@ an amount of money that is used to start a business：
 ---
 1. **大写的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***capsule*** n
@@ -2281,16 +1124,6 @@ an amount of money that is used to start a business：
 > a space capsule   
 > 太空舱
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***captain*** n
 ---
@@ -2311,16 +1144,6 @@ an amount of money that is used to start a business：
 3. *高义频：* **上校；上尉**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***caption*** n
 ---
@@ -2337,16 +1160,6 @@ an amount of money that is used to start a business：
 
 > I am not sure whether I should write captions for these pictures or not.  
 > 我不确定是否应该给这些图片配上文字说明。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***capture*** vt
@@ -2370,16 +1183,6 @@ an amount of money that is used to start a business：
 > **captured on**  
 > The robbery was captured on police video cameras.  
 > 抢劫过程被警方的摄像机拍了下来。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***car*** n
@@ -2405,16 +1208,6 @@ an amount of money that is used to start a business：
 > a sleeping car  
 > 卧铺车厢
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***carbon*** n
 ---
@@ -2431,16 +1224,6 @@ an amount of money that is used to start a business：
 
 > As long as everyone can adopt a low-carbon lifestyle from now on, the environment will greatly change.  
 > 只要每个人能够从现在起采取低碳的生活方式，环境将会得到很大改善。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***card*** n
@@ -2467,16 +1250,6 @@ an amount of money that is used to start a business：
 > play cards  
 > 玩纸牌
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cardboard*** n
 ---
@@ -2490,16 +1263,6 @@ an amount of money that is used to start a business：
 1. *高义频：* **(硬) 纸板；卡纸**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cardboard*** adj
 ---
@@ -2512,16 +1275,6 @@ an amount of money that is used to start a business：
 ---
 1. *高义频：* **硬纸板制的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***care*** n  重难点词汇
@@ -2565,6 +1318,7 @@ an amount of money that is used to start a business：
 > He still can’t understand the cares of his parents.  
 > 他始终不理解那些让父母烦心的事。
 
+
 固定搭配
 ---
 - #### take care
@@ -2598,13 +1352,6 @@ an amount of money that is used to start a business：
 
 > Will you take care of buying fruit for tonight's party?  
 > 你负责为今晚的聚会买水果好吗？
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***care*** v  重难点词汇
@@ -2655,6 +1402,7 @@ an amount of money that is used to start a business：
 > They have taught me to care about other people more than about myself.  
 > 他们一直教导我要多关心他人而不是自己。
 
+
 固定搭配
 ---
 - #### care for
@@ -2676,13 +1424,10 @@ an amount of money that is used to start a business：
 1. **［口语］［正式用语］您想要某物吗？**  
 
 
+
 派生词汇
 ---
 caring /'kerɪŋ/ adj 
-真题解析
----
-[null]
-
 
 # ***career*** n
 ---
@@ -2707,16 +1452,6 @@ the time in your life that you spend working：
 
 > an academic / an artistic / a commercial career   
 > 学术/艺术/经商生涯
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***careful*** adj
@@ -2754,20 +1489,18 @@ the time in your life that you spend working：
 > He’s a careful driver.  
 > 他开车很小心。
 
+
 固定搭配
 ---
 - #### careful with money
 1. **花钱精打细算；不乱花钱**  
 
 
+
 派生词汇
 ---
 carefully /'keəfəli/ adv 
 carefulness /'keəfəlnəs/ n [U]
-真题解析
----
-[null]
-
 
 # ***careless*** adj
 ---
@@ -2803,16 +1536,10 @@ not at all worried about sth：
 > He is careless about / of his appearance.  
 > 他不修边幅。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 carelessly /'keələsli/ adv 
-真题解析
----
-[null]
-
 
 # ***carnival*** n
 ---
@@ -2827,16 +1554,6 @@ carelessly /'keələsli/ adv
 1. *高义频：* **狂欢节；(四旬斋前的) 饮宴狂欢；嘉年华 (会)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***carol*** n
 ---
@@ -2849,16 +1566,6 @@ carelessly /'keələsli/ adv
 ---
 1. **(尤指) 圣诞节颂歌**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***carpenter*** n
@@ -2874,16 +1581,6 @@ carelessly /'keələsli/ adv
 1. *高义频：* **木匠；木工**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***carpet*** n
 ---
@@ -2898,16 +1595,6 @@ carelessly /'keələsli/ adv
 1. *高义频：* **地毯；毛毯**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***carriage*** n
 ---
@@ -2921,16 +1608,6 @@ carelessly /'keələsli/ adv
 ---
 1. *高义频：* **(火车的) 车厢 (AmE car)；四轮马车**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***carrier*** n
@@ -2952,16 +1629,6 @@ carelessly /'keələsli/ adv
 > a plastic carrier bag   
 > 塑料手提购物袋
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***carrot*** n
 ---
@@ -2975,16 +1642,6 @@ carelessly /'keələsli/ adv
 ---
 1. *高义频：* **胡萝卜**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***carry*** vt  重难点词汇
@@ -3044,6 +1701,7 @@ carelessly /'keələsli/ adv
 > Letters to the editor must carry the writer’s full name, address and telephone number.  
 > 给编辑的信一定要附有作者的全名、地址和电话号码。
 
+
 固定搭配
 ---
 - #### be / get carried away
@@ -3094,9 +1752,7 @@ carelessly /'keələsli/ adv
 > He asked us to assist him in carrying through his plan.   
 > 他请求我们帮他完成计划。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3109,7 +1765,6 @@ I hate it when she calls me at work — I’m always too busy to carry _______ a
 ##### 答案 on  
   
 
-
 # ***carsick*** adj
 ---
 英音 'kɑːsɪk     美音 'kɑːrsɪk
@@ -3121,16 +1776,6 @@ I hate it when she calls me at work — I’m always too busy to carry _______ a
 ---
 1. **晕车的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cart*** n
@@ -3154,16 +1799,6 @@ I hate it when she calls me at work — I’m always too busy to carry _______ a
 > put the cart before the horse  
 > 本末倒置；颠倒办事程序
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cartoon*** n
 ---
@@ -3177,16 +1812,6 @@ I hate it when she calls me at work — I’m always too busy to carry _______ a
 ---
 1. *高义频：* **动画片；漫画**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***carve*** vt
@@ -3205,16 +1830,6 @@ I hate it when she calls me at work — I’m always too busy to carry _______ a
 > carve a statue from marble / carve marble into a statue  
 > 用大理石雕刻雕像
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***carving*** n
 ---
@@ -3227,16 +1842,6 @@ I hate it when she calls me at work — I’m always too busy to carry _______ a
 ---
 1. **(尤指木头、象牙等的) 雕刻(品)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***case*** n  重难点词汇
@@ -3390,12 +1995,7 @@ a set of reasons why sth should happen or be done：
 > a pencil case / a packing case  
 > 铅笔盒/包装箱
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3421,7 +2021,6 @@ ________ (万一) fire, all exits must be kept clear.
 ##### 答案 in that case  
   
 
-
 # ***cash*** n
 ---
 英音 kæʃ     美音 kæʃ
@@ -3438,16 +2037,6 @@ ________ (万一) fire, all exits must be kept clear.
 > **in cash**  
 > You can pay either in cash or by cheque.  
 > 你可用现金或支票付款。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cash*** vt
@@ -3466,16 +2055,10 @@ ________ (万一) fire, all exits must be kept clear.
 > Before you cash a cheque, make sure it has the correct signature.  
 > 在你兑现支票之前，要先确认署名正确。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 cashier /kæ'ʃɪə(r)/ n 
-真题解析
----
-[null]
-
 
 # ***cassette*** n
 ---
@@ -3489,16 +2072,6 @@ cashier /kæ'ʃɪə(r)/ n
 ---
 1. *高义频：* **盒式录音带；磁带盒**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cast*** vt
@@ -3538,18 +2111,12 @@ cashier /kæ'ʃɪə(r)/ n
 > People not only cast on-line votes themselves, but also urge others to vote for competitions.  
 > 人们不仅自己在网上投票，还劝别人也为比赛投票。
 
+
 固定搭配
 ---
 - #### (be) cast down
 1. **沮丧的：**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cast*** n
@@ -3574,16 +2141,6 @@ cashier /kæ'ʃɪə(r)/ n
 > an all-star cast 全明星阵容  
 > 全明星阵容
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***castle*** n
 ---
@@ -3597,16 +2154,6 @@ cashier /kæ'ʃɪə(r)/ n
 ---
 1. *高义频：* **城堡**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***casual*** adj
@@ -3647,16 +2194,10 @@ cashier /kæ'ʃɪə(r)/ n
 > a casual worker / visitor  
 > 临时工/不速之客
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 casually /'kæʒuəli/ adv 
-真题解析
----
-[null]
-
 
 # ***casually*** adv
 ---
@@ -3670,16 +2211,6 @@ casually /'kæʒuəli/ adv
 1. **偶然地；无意地**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cat*** n
 ---
@@ -3692,16 +2223,6 @@ casually /'kæʒuəli/ adv
 ---
 1. *高义频：* **[C] 猫**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***catalog*** n
@@ -3719,16 +2240,6 @@ casually /'kæʒuəli/ adv
 > Please send me your catalog and information on the service you offer.   
 > 请把你们所提供的这项服务的目录和相关信息寄给我。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***catalogue*** n
 ---
@@ -3745,16 +2256,6 @@ casually /'kæʒuəli/ adv
 > Please send me your catalog and information on the service you offer.  
 > 请把你们所提供的这项服务的目录和相关信息寄给我。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***catastrophe*** n
 ---
@@ -3770,16 +2271,6 @@ casually /'kæʒuəli/ adv
 
 > environmental / nuclear catastrophe   
 > 环境/核灾难
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***catch*** v  重难点词汇
@@ -3889,6 +2380,7 @@ casually /'kæʒuəli/ adv
 > She caught sight of a car in the distance.   
 > 她看到远处有辆汽车。
 
+
 固定搭配
 ---
 - #### catch on
@@ -3922,9 +2414,7 @@ casually /'kæʒuəli/ adv
 > I ran faster and faster till I caught up with all the other runners.    
 > 我越跑越快，直到追上其他所有选手。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -3935,7 +2425,6 @@ _______ (catch) the early flight, we ordered a taxi in advance and got up very e
 In order to catch up ________ the advanced countries, we must keep learning.   
 ##### 答案 with  
   
-
 
 # ***catchy*** adj
 ---
@@ -3948,16 +2437,6 @@ In order to catch up ________ the advanced countries, we must keep learning.
 ---
 1. **动人的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***category*** n
@@ -3974,16 +2453,6 @@ In order to catch up ________ the advanced countries, we must keep learning.
 
 > Literature can be divided into two main categories: fiction and non-fiction.   
 > 文学可分为两大类：小说和纪实文学。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cater*** vi
@@ -4006,12 +2475,7 @@ In order to catch up ________ the advanced countries, we must keep learning.
 > Children are well catered for with apple-themed games.  
 > 苹果主题的游戏让孩子们感到非常满足。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4019,7 +2483,6 @@ The university started some new language programs to cater_______ the country’
   
 ##### 答案 for  
   
-
 
 # ***caterpillar*** n
 ---
@@ -4032,16 +2495,6 @@ The university started some new language programs to cater_______ the country’
 ---
 1. **毛虫（蝴蝶等昆虫的幼虫）**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***catfish*** n
@@ -4057,16 +2510,6 @@ The university started some new language programs to cater_______ the country’
 1. *高义频：* **鲶鱼；鲇鱼**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cathedral*** n
 ---
@@ -4079,16 +2522,6 @@ The university started some new language programs to cater_______ the country’
 ---
 1. **大教堂**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cattle*** n
@@ -4109,16 +2542,6 @@ The university started some new language programs to cater_______ the country’
 > 二十头牛（head不用复数）
 
 cattle 指牛的总称，不能说a cattle。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cause*** n  重难点词汇
 ---
@@ -4166,12 +2589,7 @@ an organization, belief, or aim that people support or fight for：
 > The club is raising a fund in support of this good cause.  
 > 该俱乐部正在为赞助这项有益的事业集资。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -4182,7 +2600,6 @@ A mere five to 10 minutes a day of running reduced the risk of heart disease and
 According to the recent research, heavy coffee drinking and heart attack is not necessarily ________ (因果).  
 ##### 答案 cause and effect  
   
-
 
 # ***cause*** vt  重难点词汇
 ---
@@ -4219,16 +2636,6 @@ to make sth happen, especially sth bad：
 > Everyone believes that global warming is caused by human activities.  
 > 人们普遍认为全球变暖是由人类活动所导致的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***caution*** n
 ---
@@ -4259,16 +2666,6 @@ to make sth happen, especially sth bad：
 > Just a  word of caution— these glasses are very delicate so handle them with care.  
 > 提醒一句，这些玻璃杯很容易打碎，所以要小心放置。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***caution*** vt
 ---
@@ -4289,16 +2686,6 @@ to make sth happen, especially sth bad：
 > **cautioned,to**  
 > She cautioned Tom not to drive too fast.  
 > 她提醒汤姆开车不要太快。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cautious*** adj
@@ -4321,16 +2708,10 @@ to make sth happen, especially sth bad：
 > She is very cautious about hurting his feelings.  
 > 她小心翼翼，唯恐伤了他的感情。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 cautiously /'kɔːʃəsli/ adv 
-真题解析
----
-[null]
-
 
 # ***cave*** n
 ---
@@ -4344,16 +2725,6 @@ cautiously /'kɔːʃəsli/ adv
 1. *高义频：* **[C] 山洞；洞穴**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***caveman*** n
 ---
@@ -4366,16 +2737,6 @@ cautiously /'kɔːʃəsli/ adv
 ---
 1. **（远古时的）穴居人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cease*** v
@@ -4393,16 +2754,6 @@ cautiously /'kɔːʃəsli/ adv
 > cease fire   
 > 停火
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ceiling*** n
 ---
@@ -4416,19 +2767,13 @@ cautiously /'kɔːʃəsli/ adv
 1. *高义频：* **[C] 天花板；顶篷；平顶：**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 He turned on the television set hanging from the ________ (天花板).   
 ##### 答案 ceiling  
   
-
 
 # ***celebrate*** v
 ---
@@ -4454,19 +2799,17 @@ He turned on the television set hanging from the ________ (天花板).
 > His work celebrates the energy and enthusiasm of the young.  
 > 他的作品歌颂了年轻人的朝气和热情。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 celebrated /'selɪbreɪtɪd/ adj 
+
 真题解析
 ---
 ##### 题目  
 They’re going to ________ (庆祝) their victory with music and dancing.  
 ##### 答案 celebrate  
   
-
 
 # ***celebration*** n
 ---
@@ -4494,16 +2837,6 @@ They’re going to ________ (庆祝) their victory with music and dancing.
 > in celebration of one’s promotion  
 > 庆祝某人升职
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***celebrity*** n
 ---
@@ -4519,16 +2852,6 @@ They’re going to ________ (庆祝) their victory with music and dancing.
 
 > If fame is so troublesome, why aren’t all celebrities running away from it?   
 > 如果名气让人如此烦恼，名人们为何不远离它呢？
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cell*** n
@@ -4550,16 +2873,6 @@ They’re going to ________ (庆祝) their victory with music and dancing.
 > a dry cell / police cell  
 > 干电池/警局里的单人牢房
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cement*** n
 ---
@@ -4572,16 +2885,6 @@ They’re going to ________ (庆祝) their victory with music and dancing.
 ---
 1. *高义频：* **[U] 水泥；胶合剂**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cemetery*** n
@@ -4596,16 +2899,6 @@ They’re going to ________ (庆祝) their victory with music and dancing.
 ---
 1. **墓地；公墓**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cent*** n
@@ -4626,16 +2919,6 @@ They’re going to ________ (庆祝) their victory with music and dancing.
 
 > five per cent   
 > 百分之五
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***center*** n
@@ -4661,16 +2944,6 @@ They’re going to ________ (庆祝) their victory with music and dancing.
 > My number is nine, in the centre of the front row.   
 > 我是9号，在前排中间。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***center*** vt
 ---
@@ -4683,16 +2956,6 @@ They’re going to ________ (庆祝) their victory with music and dancing.
 ---
 1. **集中；使……处于中心位置**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***centigrade*** adj
@@ -4710,16 +2973,6 @@ They’re going to ________ (庆祝) their victory with music and dancing.
 > a temperature of 40 degrees centigrade   
 > 40摄氏度的温度
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***centigrade*** n
 ---
@@ -4736,16 +2989,6 @@ They’re going to ________ (庆祝) their victory with music and dancing.
 > temperature in centigrade   
 > 摄氏温度
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***centimeter*** n
 ---
@@ -4760,16 +3003,6 @@ They’re going to ________ (庆祝) their victory with music and dancing.
 1. *高义频：* **厘米**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***centimetre*** n
 ---
@@ -4783,16 +3016,6 @@ They’re going to ________ (庆祝) their victory with music and dancing.
 ---
 1. *高义频：* **厘米**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***central*** adj
@@ -4816,16 +3039,6 @@ They’re going to ________ (庆祝) their victory with music and dancing.
 
 > China Central Television (CCTV)  
 > 中国中央电视台
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***centre*** n
@@ -4851,16 +3064,6 @@ They’re going to ________ (庆祝) their victory with music and dancing.
 > My number is nine, in the centre of the front row.   
 > 我是9号，在前排中间。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***centre*** vt
 ---
@@ -4873,16 +3076,6 @@ They’re going to ________ (庆祝) their victory with music and dancing.
 ---
 1. **集中；使……处于中心位置**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***century*** n
@@ -4897,16 +3090,6 @@ They’re going to ________ (庆祝) their victory with music and dancing.
 1. *高义频：* **世纪；百年**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cereal*** n
 ---
@@ -4920,16 +3103,6 @@ They’re going to ________ (庆祝) their victory with music and dancing.
 1. **（燕麦片、玉米片等）谷类早餐食品**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***ceremonial*** adj
 ---
@@ -4942,16 +3115,6 @@ They’re going to ________ (庆祝) their victory with music and dancing.
 ---
 1. **仪式性的；正式的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***ceremony*** n
@@ -4977,16 +3140,6 @@ They’re going to ________ (庆祝) their victory with music and dancing.
 
 > There is too much ceremony at official dinners.  
 > 正式宴会上礼节太多。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***certain*** adj
@@ -5057,18 +3210,12 @@ certain和sure作表语时， 均译为“确信 的”“肯定的”，常可�
 > to a certain degree   
 > 在一定程度上
 
+
 固定搭配
 ---
 - #### for certain
 1. **确定；无疑**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***certain*** pron
@@ -5082,16 +3229,6 @@ certain和sure作表语时， 均译为“确信 的”“肯定的”，常可�
 ---
 1. **某些**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***certainly*** adv
@@ -5128,12 +3265,7 @@ certain和sure作表语时， 均译为“确信 的”“肯定的”，常可�
 > — Certainly not.   
 > 当然不会。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -5141,7 +3273,6 @@ certain和sure作表语时， 均译为“确信 的”“肯定的”，常可�
 — ________(certain), but not during my lunch break.  
 ##### 答案 Certainly  
   
-
 
 # ***certainty*** n
 ---
@@ -5155,16 +3286,6 @@ certain和sure作表语时， 均译为“确信 的”“肯定的”，常可�
 ---
 1. *高义频：* **确信；确实**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***certificate*** n
@@ -5184,16 +3305,6 @@ certain和sure作表语时， 均译为“确信 的”“肯定的”，常可�
 
 > a birth / marriage certificate  
 > 出生证明/结婚证
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***chain*** n
@@ -5236,16 +3347,6 @@ certain和sure作表语时， 均译为“确信 的”“肯定的”，常可�
 > a supermarket chain  
 > 超市连锁店
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***chain*** vt
 ---
@@ -5261,16 +3362,6 @@ certain和sure作表语时， 均译为“确信 的”“肯定的”，常可�
 
 > Chain the horse to the tree.  
 > 把马拴在树上。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***chair*** n
@@ -5295,16 +3386,6 @@ certain和sure作表语时， 均译为“确信 的”“肯定的”，常可�
 > the chair of the Student Union   
 > 学生会主席
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***chair*** vt
 ---
@@ -5321,16 +3402,6 @@ certain和sure作表语时， 均译为“确信 的”“肯定的”，常可�
 > He chairs the committee.  
 > 他担任委员会主席。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***chairman*** n
 ---
@@ -5345,16 +3416,6 @@ certain和sure作表语时， 均译为“确信 的”“肯定的”，常可�
 1. *高义频：* **(pl chairmen)主席；董事长**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***chairwoman*** n
 ---
@@ -5368,16 +3429,6 @@ certain和sure作表语时， 均译为“确信 的”“肯定的”，常可�
 ---
 1. *高义频：* **女主席；女董事长**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***chalk*** n
@@ -5394,16 +3445,6 @@ certain和sure作表语时， 均译为“确信 的”“肯定的”，常可�
 
 > a piece / stick of chalk  
 > 一支粉笔
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***challenge*** vt  重难点词汇
@@ -5440,16 +3481,6 @@ to test sb’s ability and skills：
 
 > The job doesn’t really challenge her.  
 > 这项工作对她并不难。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***challenge*** n  重难点词汇
@@ -5495,16 +3526,6 @@ an invitation or a suggestion from sb to fight, play, argue etc.：
 > They threw down the challenge that he couldn’t wash 40 cars in one hour.  
 > 他们向他发出挑战，说他不可能在一小时内洗40辆车。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***challenging*** adj
 ---
@@ -5521,16 +3542,6 @@ an invitation or a suggestion from sb to fight, play, argue etc.：
 > a challenging role for an inexperienced performer  
 > 对一个没有经验的演员来说具有挑战性的角色
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***chamber*** n
 ---
@@ -5545,16 +3556,6 @@ an invitation or a suggestion from sb to fight, play, argue etc.：
 1. *高义频：* **(人体内或机器中的) 室；腔；(作特定用途的) 房间 / 室**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***chamber*** adj
 ---
@@ -5567,16 +3568,6 @@ an invitation or a suggestion from sb to fight, play, argue etc.：
 ---
 1. **室内（音乐）的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***champion*** n
@@ -5591,16 +3582,6 @@ an invitation or a suggestion from sb to fight, play, argue etc.：
 1. *高义频：* **[C] 冠军；优胜者**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***championship*** n
 ---
@@ -5613,16 +3594,6 @@ an invitation or a suggestion from sb to fight, play, argue etc.：
 ---
 1. *高义频：* **[C] 冠军地位 / 称号；［复数］锦标赛；冠军赛**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***chance*** adj
@@ -5639,16 +3610,6 @@ an invitation or a suggestion from sb to fight, play, argue etc.：
 
 > a chance discovery  
 > 偶然的发现
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***chance*** n
@@ -5711,6 +3672,7 @@ a possibility of sth happening, especially sth that you want：
 > Chance plays an important part in many card games.   
 > 在许多纸牌游戏中运气很重要。
 
+
 固定搭配
 ---
 - #### by chance
@@ -5744,9 +3706,7 @@ a possibility of sth happening, especially sth that you want：
 > If you invite her, the chances are she'll say no.  
 > 如果你邀请她，很可能她会拒绝。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -5761,7 +3721,6 @@ An artist who was recently traveling on a ferry to the southern island discovere
 Volunteering gives you a chance _______ (change) lives, including your own.  
 ##### 答案 to change  
   
-
 
 # ***change*** n  重难点词汇
 ---
@@ -5803,6 +3762,7 @@ Volunteering gives you a chance _______ (change) lives, including your own.
 > The journey involved three changes.   
 > 这次旅程要换乘三次。
 
+
 固定搭配
 ---
 - #### a change for the better / worse 
@@ -5811,13 +3771,6 @@ Volunteering gives you a chance _______ (change) lives, including your own.
 
 > There was a change for the better in the patient’s condition.   
 > 病人的情况有所好转。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***change*** v  重难点词汇
@@ -5912,16 +3865,6 @@ Volunteering gives you a chance _______ (change) lives, including your own.
 > Madam, I want to change this shirt for a larger size.  
 > 女士，我想把这件衬衣换成大一号的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***changeable*** adj
 ---
@@ -5941,16 +3884,6 @@ Volunteering gives you a chance _______ (change) lives, including your own.
 > a changeable mood / temper   
 > 喜怒无常的情绪/脾气
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***channel*** vt
 ---
@@ -5967,16 +3900,6 @@ Volunteering gives you a chance _______ (change) lives, including your own.
 > **channeled into**  
 > Most of his energy was channeled into writing.   
 > 他把大部分精力都放到了写作上。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***channel*** n
@@ -6021,16 +3944,6 @@ Volunteering gives you a chance _______ (change) lives, including your own.
 > the English Channel  
 > 英吉利海峡
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***chant*** n
 ---
@@ -6044,16 +3957,6 @@ Volunteering gives you a chance _______ (change) lives, including your own.
 1. **[C] （单调的）歌；圣歌；赞美诗**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***chant*** v
 ---
@@ -6066,16 +3969,6 @@ Volunteering gives you a chance _______ (change) lives, including your own.
 ---
 1. **vt & vi 吟唱；吟诵；反复唱 / 呼喊**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***chaos*** n
@@ -6094,16 +3987,6 @@ Volunteering gives you a chance _______ (change) lives, including your own.
 > The city was in chaos after the earthquake.   
 > 地震后城市陷入一片混乱。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***chap*** n
 ---
@@ -6116,16 +3999,6 @@ Volunteering gives you a chance _______ (change) lives, including your own.
 ---
 1. **小伙子，家伙**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***chapter*** n
@@ -6146,16 +4019,6 @@ Volunteering gives you a chance _______ (change) lives, including your own.
 > Steamboat travel opened a new chapter in America’s exploration of the West.   
 > 汽船旅行为开发美国西部翻开了新的篇章。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***char*** vi
 ---
@@ -6168,16 +4031,6 @@ Volunteering gives you a chance _______ (change) lives, including your own.
 ---
 1. *高义频：* **烧焦**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***character*** n  重难点词汇
@@ -6243,14 +4096,13 @@ strong personal qualities：
 > Chinese characters  
 > 汉字
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 characterize / characterise  /'kærɪktəraɪz/ vt 
 > An elephant is characterized by a long trunk.   
 > 大象的特征是鼻子长。
+
 
 真题解析
 ---
@@ -6263,7 +4115,6 @@ health. It may also be good for ________ (良好品格的培养).
 He proved himself a true gentleman and the beauty of his ________ (性格) was seen at its best when he worked with others.  
 ##### 答案 character  
   
-
 
 # ***characteristic*** n
 ---
@@ -6283,16 +4134,6 @@ He proved himself a true gentleman and the beauty of his ________ (性格) was s
 > key / personal charateristics  
 > 重要的 / 个人的特征
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***characteristic*** adj
 ---
@@ -6308,16 +4149,6 @@ He proved himself a true gentleman and the beauty of his ________ (性格) was s
 
 > Sunny, hot days are the characteristic weather of the summer months.   
 > 晴朗、炎热是夏季的典型天气。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***charge*** v  重难点词汇
@@ -6368,16 +4199,10 @@ He proved himself a true gentleman and the beauty of his ________ (性格) was s
 > When lions are hiding for an attack by a water hole, they wait patiently and can charge at any second.  
 > 当狮子隐藏在水坑边上准备攻击时，它们会耐心地等待着，随时都会发起攻击。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 charger /'tʃɑːdʒə(r)/ n 
-真题解析
----
-[null]
-
 
 # ***charge*** n  重难点词汇
 ---
@@ -6445,16 +4270,6 @@ charger /'tʃɑːdʒə(r)/ n
 > a positive / negative charge  
 > 正/负电荷
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***charity*** n
 ---
@@ -6486,16 +4301,6 @@ charger /'tʃɑːdʒə(r)/ n
 > Newspaper reports showed him little charity.  
 > 报纸的报道对他毫不宽容。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***charm*** n
 ---
@@ -6519,16 +4324,6 @@ charger /'tʃɑːdʒə(r)/ n
 > He always carries a lucky charm with him.  
 > 他总是随身带着一个护身符。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***charm*** vt
 ---
@@ -6545,16 +4340,10 @@ charger /'tʃɑːdʒə(r)/ n
 > As they build a musical bridge between east and west, Twelve Girls Band charms the people of many nations around the world.  
 > 由于她们架起了中西方音乐的桥梁，女子十二乐坊吸引了世界各地许多国家的人。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 charming /'tʃɑːmɪŋ/ adj 
-真题解析
----
-[null]
-
 
 # ***charming*** adj
 ---
@@ -6570,16 +4359,6 @@ charming /'tʃɑːmɪŋ/ adj
 
 > It’s a charming small French clock, made of brass and dating from the nineteenth century.   
 > 这是一个漂亮的19世纪铜制法式小闹钟。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***chart*** n
@@ -6597,16 +4376,6 @@ charming /'tʃɑːmɪŋ/ adj
 > As is shown on chart 2, only 10% of the time is taken up with sports activities.  
 > 如图表2所示，只有10%的时间被用于体育活动。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***chart*** vt
 ---
@@ -6619,16 +4388,6 @@ charming /'tʃɑːmɪŋ/ adj
 ---
 1. *高义频：* **绘制...的海图**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***chase*** v
@@ -6666,16 +4425,6 @@ charming /'tʃɑːmɪŋ/ adj
 > Top graduates from universities are chased by major companies.  
 > 优秀的大学毕业生受到大公司的青睐。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***chase*** n
 ---
@@ -6691,16 +4440,6 @@ charming /'tʃɑːmɪŋ/ adj
 
 > Catching elephants is an adventure and the excitement lasts for days after the chase.  
 > 捕象是种冒险经历，那种兴奋在追逐过后几天都不会消失。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***chat*** n
@@ -6730,16 +4469,6 @@ charming /'tʃɑːmɪŋ/ adj
 > I like to chat online and to meet new people in chat rooms.  
 > 我喜欢网上聊天，在聊天室结识新朋友。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***chat*** vi
 ---
@@ -6756,16 +4485,6 @@ charming /'tʃɑːmɪŋ/ adj
 > **chat with,about**  
 > I like to chat with her now and then about school life.  
 > 我喜欢偶尔和她聊一聊我的学校生活。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cheap*** adj
@@ -6792,16 +4511,6 @@ charming /'tʃɑːmɪŋ/ adj
 > cheap jewellery   
 > 廉价珠宝
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cheap*** adv
 ---
@@ -6823,19 +4532,17 @@ charming /'tʃɑːmɪŋ/ adj
 > Violins like this don’t come cheap.  
 > 像这样的小提琴不会便宜。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 cheaply /'tʃiːpli/ adv 
+
 真题解析
 ---
 ##### 题目  
 Bread is c________ in this shop; it costs twice as much across the street.  
 ##### 答案 cheap / cheaper  
   
-
 
 # ***cheat*** v
 ---
@@ -6863,16 +4570,6 @@ Bread is c________ in this shop; it costs twice as much across the street.
 > It is wrong to cheat in examinations.  
 > 考试作弊是不对的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cheat*** n
 ---
@@ -6885,16 +4582,6 @@ Bread is c________ in this shop; it costs twice as much across the street.
 ---
 1. *高义频：* **骗子；欺诈；欺骗行为**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***check*** v  重难点词汇
@@ -6936,6 +4623,7 @@ Bread is c________ in this shop; it costs twice as much across the street.
 > Claire had her luggage checked an hour before her plane left.  
 > 克莱尔在飞机起飞前一小时把行李托运了。
 
+
 固定搭配
 ---
 - #### check in
@@ -6974,9 +4662,7 @@ Bread is c________ in this shop; it costs twice as much across the street.
 1. **核实某事**  
 
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -6984,7 +4670,6 @@ Bread is c________ in this shop; it costs twice as much across the street.
 — Oh, really! I haven’t__________ (查看) my mailbox yet.  
 ##### 答案 checked  
   
-
 
 # ***check*** n  重难点词汇
 ---
@@ -7015,16 +4700,6 @@ Bread is c________ in this shop; it costs twice as much across the street.
 > pay by check  
 > 用支票付款
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***check-in*** n
 ---
@@ -7037,16 +4712,6 @@ Bread is c________ in this shop; it costs twice as much across the street.
 ---
 1. *高义频：* **[C] & [U] (在机场、旅馆、医院等办理登记手续的) 登记处；办理登记手续**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***checkout*** n
@@ -7062,16 +4727,6 @@ Bread is c________ in this shop; it costs twice as much across the street.
 1. *高义频：* **付款处；收银台；退房时间**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cheek*** n
 ---
@@ -7084,16 +4739,6 @@ Bread is c________ in this shop; it costs twice as much across the street.
 ---
 1. *高义频：* **[C] 面颊；脸蛋**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cheekbone*** n
@@ -7108,16 +4753,6 @@ Bread is c________ in this shop; it costs twice as much across the street.
 ---
 1. *高义频：* **(一般用复数) 颧骨**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cheer*** n
@@ -7135,16 +4770,6 @@ Bread is c________ in this shop; it costs twice as much across the street.
 > burst into cheers   
 > 突然欢呼起来
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cheer*** v
 ---
@@ -7160,6 +4785,7 @@ Bread is c________ in this shop; it costs twice as much across the street.
 
 > The fans cheer (for) their team.  
 > 粉丝们为自己的队欢呼加油。
+
 
 固定搭配
 ---
@@ -7180,9 +4806,7 @@ Bread is c________ in this shop; it costs twice as much across the street.
 > Cheer up! Things will work out for the best.  
 > 高兴点儿！事情会圆满解决的。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -7190,7 +4814,6 @@ Bread is c________ in this shop; it costs twice as much across the street.
 —__________ (振作点儿)! I’m sure you’ll make it.  
 ##### 答案 Cheer up  
   
-
 
 # ***cheerful*** adj
 ---
@@ -7210,16 +4833,10 @@ Bread is c________ in this shop; it costs twice as much across the street.
 > a bright, cheerful restaurant  
 > 明亮宜人的餐馆
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 cheerfully /'tʃɪəfəli/ adv 
-真题解析
----
-[null]
-
 
 # ***cheerleader*** n
 ---
@@ -7232,16 +4849,6 @@ cheerfully /'tʃɪəfəli/ adv
 ---
 1. **拉拉队队员**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cheerleading*** n
@@ -7256,16 +4863,6 @@ cheerfully /'tʃɪəfəli/ adv
 1. **当拉拉队队员**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cheers*** int
 ---
@@ -7278,16 +4875,6 @@ cheerfully /'tʃɪəfəli/ adv
 ---
 1. *高义频：* **[敬酒时用语] 干杯！祝你健康！[非正式用语] 再见**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cheese*** n
@@ -7302,16 +4889,6 @@ cheerfully /'tʃɪəfəli/ adv
 1. *高义频：* **[C] & [U] 干酪；乳酪**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cheesecake*** n
 ---
@@ -7325,16 +4902,6 @@ cheerfully /'tʃɪəfəli/ adv
 1. **干酪蛋糕**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***chef*** n
 ---
@@ -7347,16 +4914,6 @@ cheerfully /'tʃɪəfəli/ adv
 ---
 1. *高义频：* **[C] 主厨；厨师；厨师长**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***chemical*** adj
@@ -7377,16 +4934,6 @@ cheerfully /'tʃɪəfəli/ adv
 > a chemical change / reaction  
 > 化学变化/化学反应
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***chemical*** n
 ---
@@ -7403,16 +4950,6 @@ cheerfully /'tʃɪəfəli/ adv
 > Often, chemicals used for industrial production cause dangerous forms of waste.  
 > 用于工业生产的化学物质通常会产生危险的废弃物。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***chemist*** n
 ---
@@ -7426,16 +4963,6 @@ cheerfully /'tʃɪəfəli/ adv
 ---
 1. *高义频：* **化学家；药剂师**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***chemistry*** n
@@ -7451,19 +4978,13 @@ cheerfully /'tʃɪəfəli/ adv
 1. *高义频：* **化学**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Our class president went up to Cambridge at the age of 15 to study _______ (化学) .  
 ##### 答案 chemistry  
   
-
 
 # ***cheque*** n
 ---
@@ -7478,16 +4999,6 @@ Our class president went up to Cambridge at the age of 15 to study _______ (化�
 1. *高义频：* **支票 (AmE check)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cherry*** n
 ---
@@ -7501,16 +5012,6 @@ Our class president went up to Cambridge at the age of 15 to study _______ (化�
 ---
 1. *高义频：* **樱桃；樱桃树**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***chess*** n
@@ -7528,16 +5029,6 @@ Our class president went up to Cambridge at the age of 15 to study _______ (化�
 
 > play chess  
 > 下国际象棋
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***chest*** n
@@ -7562,16 +5053,6 @@ Our class president went up to Cambridge at the age of 15 to study _______ (化�
 > a medicine chest  
 > 药箱
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***chew*** v
 ---
@@ -7595,16 +5076,6 @@ Our class president went up to Cambridge at the age of 15 to study _______ (化�
 > Rose chewed (on) her lip and stared at the floor.  
 > 罗斯咬着嘴唇，眼睛盯着地板。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***chick*** n
 ---
@@ -7619,16 +5090,6 @@ Our class president went up to Cambridge at the age of 15 to study _______ (化�
 1. *高义频：* **小鸡；小鸟**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***chicken*** n
 ---
@@ -7642,19 +5103,13 @@ Our class president went up to Cambridge at the age of 15 to study _______ (化�
 1. *高义频：* **[C] 鸡；[U] 鸡肉**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 They had a big separate house to raise dozens of chicken. (改错)  
 ##### 答案 chicken → chickens  
   
-
 
 # ***chief*** n
 ---
@@ -7680,16 +5135,6 @@ They had a big separate house to raise dozens of chicken. (改错)
 > **editor-in-chief**  
 > an editor-in-chief  
 > 主编；总编
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***chief*** adj
@@ -7717,16 +5162,6 @@ highest in rank：
 > a chief editor / engineer / excutive  
 > 总编/总工程师/主管
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***child*** n
 ---
@@ -7741,16 +5176,6 @@ highest in rank：
 1. *高义频：* **小孩；儿童**  
 kid
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***childhood*** n
@@ -7770,16 +5195,6 @@ kid
 > Abraham Lincoln only received a limited education in / during his childhood.  
 > 亚伯拉罕·林肯童年时仅受过很少的教育。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***childish*** adj
 ---
@@ -7792,16 +5207,6 @@ kid
 ---
 1. **孩子的, 幼稚的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***chimney*** n
@@ -7817,16 +5222,6 @@ kid
 1. *高义频：* **烟囱；烟筒**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***chimp*** n
 ---
@@ -7841,16 +5236,6 @@ kid
 1. *高义频：* **(非洲) 黑猩猩 (=chimpanzee)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***chimpanzee*** n
 ---
@@ -7864,16 +5249,6 @@ kid
 1. **黑猩猩**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***chin*** n
 ---
@@ -7886,16 +5261,6 @@ kid
 ---
 1. **下巴，下颌**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***china*** n
@@ -7913,16 +5278,6 @@ kid
 > a piece of china  
 > 一件瓷器
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***chip*** n
 ---
@@ -7936,16 +5291,6 @@ kid
 ---
 1. *高义频：* **碎片；薯片 / 条；芯片；晶片**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***chocolate*** n
@@ -7970,16 +5315,6 @@ kid
 
 > a cup of hot chocolate  
 > 一杯巧克力热饮
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***choice*** n
@@ -8016,6 +5351,7 @@ kid
 > We offer a wide choice of courses for students.  
 > 我们有各种各样的课程供学生们选择。
 
+
 固定搭配
 ---
 - #### have no choice (but to do sth)
@@ -8032,16 +5368,13 @@ kid
 > It is the drug of choice for this type of illness.  
 > 这是治疗这种病的首选药。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 You have to ________ a choice. Are you going to leave the job or stay?  
 ##### 答案 make  
   
-
 
 # ***choir*** n
 ---
@@ -8055,16 +5388,6 @@ You have to ________ a choice. Are you going to leave the job or stay?
 ---
 1. *高义频：* **(教堂的) 唱诗班；合唱团**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***choke*** v
@@ -8092,6 +5415,7 @@ You have to ________ a choice. Are you going to leave the job or stay?
 > The pipe was choked up with leaves.  
 > 这条管子被树叶堵塞了。
 
+
 固定搭配
 ---
 - #### choke back
@@ -8108,13 +5432,6 @@ You have to ________ a choice. Are you going to leave the job or stay?
 > Unfortunately, the increased number of vehicles on the road choked off traffic.  
 > 不幸的是，马路上增加的车辆把道路堵得水泄不通。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cholera*** n
 ---
@@ -8128,16 +5445,6 @@ You have to ________ a choice. Are you going to leave the job or stay?
 ---
 1. *高义频：* **霍乱**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***choose*** v  重难点词汇
@@ -8189,6 +5496,7 @@ to prefer or decide to do sth：
 > You can drop in on me if you choose.  
 > 如果你愿意可以顺便来我家坐坐。
 
+
 固定搭配
 ---
 - #### cannot choose but (do)
@@ -8198,16 +5506,13 @@ to prefer or decide to do sth：
 > He cannot choose but attend the party.  
 > 他只好去参加这次聚会。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 To my delight, I _______ (choose) from hundreds of applicants to attend the opening ceremony.   
 ##### 答案 was chosen  
   
-
 
 # ***chop*** vt
 ---
@@ -8221,18 +5526,12 @@ To my delight, I _______ (choose) from hundreds of applicants to attend the open
 1. *高义频：* **砍；劈；剥开；切碎**  
 
 
+
 固定搭配
 ---
 - #### chop down 
 1. **砍倒；伐倒 (树木)**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***chopstick*** n
@@ -8248,16 +5547,6 @@ To my delight, I _______ (choose) from hundreds of applicants to attend the open
 1. *高义频：* **[常用复数] 筷子**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***choral*** adj
 ---
@@ -8270,16 +5559,6 @@ To my delight, I _______ (choose) from hundreds of applicants to attend the open
 ---
 1. *高义频：* **唱诗班的; 合唱队的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***chorus*** n
@@ -8301,6 +5580,7 @@ To my delight, I _______ (choose) from hundreds of applicants to attend the open
 > a chorus of complaints  
 > 一片抱怨声
 
+
 固定搭配
 ---
 - #### in chorus
@@ -8309,13 +5589,6 @@ To my delight, I _______ (choose) from hundreds of applicants to attend the open
 
 > “Thank you,” they said in chorus.  
 > “谢谢。”他们齐声说道。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***chorus*** v
@@ -8331,16 +5604,6 @@ To my delight, I _______ (choose) from hundreds of applicants to attend the open
 to sing or say sth all together
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***chum*** n
 ---
@@ -8353,16 +5616,6 @@ to sing or say sth all together
 ---
 1. **好朋友**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***church*** n
@@ -8394,16 +5647,6 @@ to sing or say sth all together
 > go to church  
 > 去做礼拜
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cigar*** n
 ---
@@ -8418,16 +5661,6 @@ to sing or say sth all together
 1. *高义频：* **雪茄烟**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cigarette*** n
 ---
@@ -8441,16 +5674,6 @@ to sing or say sth all together
 ---
 1. *高义频：* **纸烟；香烟**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cinema*** n
@@ -8470,16 +5693,6 @@ to sing or say sth all together
 > go to the cinema  
 > 去看电影
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cinematic*** adj
 ---
@@ -8493,16 +5706,6 @@ to sing or say sth all together
 1. **电影的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cinquain*** n
 ---
@@ -8515,16 +5718,6 @@ to sing or say sth all together
 ---
 1. *高义频：* **五行诗**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***circle*** 
@@ -8545,16 +5738,6 @@ to sing or say sth all together
 
 > Our plane circled the airport for an hour before landing.  
 > 我们乘坐的飞机着陆前在机场上空盘旋了一个小时。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***circle*** n
@@ -8595,16 +5778,6 @@ to sing or say sth all together
 > business / political circle  
 > 商/政界
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***circuit*** n
 ---
@@ -8622,16 +5795,6 @@ to sing or say sth all together
 > We made a circuit of the lake.  
 > 我们绕湖走了一圈。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***circular*** adj
 ---
@@ -8644,16 +5807,6 @@ to sing or say sth all together
 ---
 1. *高义频：* **圆形的；环形的；循环的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***circulate*** v
@@ -8680,16 +5833,6 @@ to sing or say sth all together
 > People who circulate false news are to blame.  
 > 散布流言者应负责任。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***circumstance*** n
 ---
@@ -8715,6 +5858,7 @@ the conditions of a person’s life, especially the money they have：
 > financial / social circumstances   
 > 经济/社会状况
 
+
 固定搭配
 ---
 - #### in / under ... circumstances
@@ -8735,13 +5879,6 @@ the conditions of a person’s life, especially the money they have：
 > 在任何情况下，你都不能借钱给保罗。
 
 in / under no circumstances置于句首，句子要用部分倒装语序。 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***circus*** n
 ---
@@ -8762,16 +5899,6 @@ in / under no circumstances置于句首，句子要用部分倒装语序。
 > Oxford Circus  
 > 牛津广场
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cite*** vt
 ---
@@ -8785,16 +5912,6 @@ in / under no circumstances置于句首，句子要用部分倒装语序。
 ---
 1. *高义频：* **引用 (quote)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***citizen*** n
@@ -8816,16 +5933,6 @@ in / under no circumstances置于句首，句子要用部分倒装语序。
 > Dikembe became a star in the NBA, and a citizen of the United States.  
 > 迪肯贝成了NBA篮球明星，并成了美国公民。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***city*** n
 ---
@@ -8839,16 +5946,6 @@ in / under no circumstances置于句首，句子要用部分倒装语序。
 ---
 1. *高义频：* **都市；城市**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***civil*** adj
@@ -8881,16 +5978,6 @@ in / under no circumstances置于句首，句子要用部分倒装语序。
 > His manner was civil, though not particularly friendly.  
 > 他有礼貌，尽管并不怎么友好。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***civilian*** n
 ---
@@ -8907,16 +5994,6 @@ in / under no circumstances置于句首，句子要用部分倒装语序。
 
 > soldiers and civilians  
 > 士兵和平民
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***civilian*** adj
@@ -8937,16 +6014,6 @@ in / under no circumstances置于句首，句子要用部分倒装语序。
 > a civilian life  
 > 平民生活
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***civilisation*** n
 ---
@@ -8965,16 +6032,6 @@ in / under no circumstances置于句首，句子要用部分倒装语序。
 
 > Athens, the capital of Greece, is known as the birthplace of western civilisation.  
 > 希腊首都雅典作为西方文明的发源地而闻名遐迩。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***claim*** n  重难点词汇
@@ -9010,16 +6067,6 @@ in / under no circumstances置于句首，句子要用部分倒装语序。
 > **make a claim**  
 > You can make a claim on insurance policy.  
 > 你可以按保险单索赔。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***claim*** v  重难点词汇
@@ -9070,16 +6117,6 @@ to cause sb’s death：
 > Earthquakes have claimed more than 1.6 million lives in the last hundred years.  
 > 在过去的100年中，地震夺去了超过160万人的生命。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***clam*** n
 ---
@@ -9092,16 +6129,6 @@ to cause sb’s death：
 ---
 1. *高义频：* **蛤**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***clap*** v
@@ -9122,16 +6149,6 @@ to cause sb’s death：
 > **clapping their hands**  
 > They were clapping their hands to the music.  
 > 他们随着音乐的节奏拍起手来。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***clap*** n
@@ -9157,16 +6174,6 @@ to cause sb’s death：
 > Sibson was shaken by a clap of thunder.  
 > 辛伯森被雷声吓得哆嗦了一下。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***clarify*** vt
 ---
@@ -9186,16 +6193,6 @@ to make sth clearer and easy to understand：
 
 > You can clarify this question if you study British history.  
 > 研究一下英国历史，你就能够弄明白这个问题。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***class*** n
@@ -9252,16 +6249,6 @@ to make sth clearer and easy to understand：
 > Given time, he’ll make a first-class tennis player.   
 > 假以时日，他会成为一名一流的网球选手。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***class*** vt
 ---
@@ -9278,16 +6265,6 @@ to make sth clearer and easy to understand：
 > **classed as**  
 > Whales are classed as mammals.  
 > 鲸被归入哺乳动物。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***classic*** n
@@ -9310,16 +6287,6 @@ to make sth clearer and easy to understand：
 > the great classics of English literature  
 > 英国文学中的伟大经典著作
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***classic*** adj
 ---
@@ -9339,16 +6306,6 @@ to make sth clearer and easy to understand：
 > **classic mistake / example**  
 > a classic mistake / example  
 > 典型错误/实例
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***classical*** adj
@@ -9370,16 +6327,6 @@ to make sth clearer and easy to understand：
 > Susan enjoys classical music while her little brother likes pop music.  
 > 苏珊喜爱古典音乐而她的弟弟喜欢流行音乐。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***classical*** n
 ---
@@ -9392,16 +6339,6 @@ to make sth clearer and easy to understand：
 ---
 1. **古典音乐**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***classification*** n
@@ -9416,16 +6353,6 @@ to make sth clearer and easy to understand：
 ---
 1. *高义频：* **归类；分类；分级**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***classify*** vt
@@ -9447,16 +6374,6 @@ to make sth clearer and easy to understand：
 > We can classify these expressions into four types.  
 > 我们可以把这些表达方法分为四种类型。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***classmate*** n
 ---
@@ -9470,16 +6387,6 @@ to make sth clearer and easy to understand：
 ---
 1. *高义频：* **同班同学**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***classroom*** n
@@ -9495,16 +6402,6 @@ to make sth clearer and easy to understand：
 1. *高义频：* **教室**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***clause*** n
 ---
@@ -9518,16 +6415,6 @@ to make sth clearer and easy to understand：
 ---
 1. *高义频：* **[语法] 从句；分句；(法律等文件中的) 条款**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***claw*** vt
@@ -9545,16 +6432,6 @@ to make sth clearer and easy to understand：
 > The cat clawed the chair.  
 > 猫抓挠椅子。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***claw*** n
 ---
@@ -9569,16 +6446,6 @@ to make sth clearer and easy to understand：
 1. *高义频：* **爪；脚爪；爪状物**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***clay*** n
 ---
@@ -9592,16 +6459,6 @@ to make sth clearer and easy to understand：
 ---
 1. *高义频：* **黏土；泥土**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***clean*** v
@@ -9621,6 +6478,7 @@ to make sth clearer and easy to understand：
 
 > Fresh air cleans our lungs.  
 > 新鲜空气能清洁我们的肺部。
+
 
 固定搭配
 ---
@@ -9644,13 +6502,6 @@ to make sth clearer and easy to understand：
 > It may now be too late to clean up the river after such heavy pollution.  
 > 这条河遭到如此严重的污染，现在净化它可能太迟了。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***clean*** adj
 ---
@@ -9671,16 +6522,6 @@ to make sth clearer and easy to understand：
 > You must keep your clothes clean.  
 > 你必须保持衣着整洁。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***clean-up*** n
 ---
@@ -9695,16 +6536,6 @@ to make sth clearer and easy to understand：
 1. *高义频：* **打扫；清扫**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cleaner*** n
 ---
@@ -9718,16 +6549,6 @@ to make sth clearer and easy to understand：
 ---
 1. *高义频：* **清洁工；清洁剂**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***clear*** v  重难点词汇
@@ -9775,6 +6596,7 @@ to make sth clearer and easy to understand：
 > As my mind cleared, I remembered what had happened.  
 > 头脑清醒后，我想起了所发生的一切。
 
+
 固定搭配
 ---
 - #### clear away
@@ -9818,13 +6640,6 @@ to make sth clearer and easy to understand：
 
 > clear up a mystery / difficulty / misunderstanding  
 > 揭开谜团/解决困难/消除误会
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***clear*** adj  重难点词汇
@@ -9889,16 +6704,10 @@ to make sth clearer and easy to understand：
 > keep a clear head / mind  
 > 保持清醒的头脑
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 clearly /ˈklɪəli/ adv 
-真题解析
----
-[null]
-
 
 # ***clear*** adv  重难点词汇
 ---
@@ -9915,16 +6724,6 @@ clearly /ˈklɪəli/ adv
 > Please stand clear of the train doors.  
 > 请不要靠近列车车门站立。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***clerk*** n
 ---
@@ -9937,16 +6736,6 @@ clearly /ˈklɪəli/ adv
 ---
 1. *高义频：* **[C] 文员；办事员；职员**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***clever*** adj
@@ -9970,6 +6759,7 @@ clearly /ˈklɪəli/ adv
 > What a clever idea!   
 > 多么聪明的想法！
 
+
 固定搭配
 ---
 - #### be clever at
@@ -9979,14 +6769,11 @@ clearly /ˈklɪəli/ adv
 > The Germans were very clever at inventing things.  
 > 德国人非常善于发明东西。
 
+
 派生词汇
 ---
 cleverly /'klevəli/ adv 
 cleverness /'klevənəs/ n 
-真题解析
----
-[null]
-
 
 # ***click*** v
 ---
@@ -10020,16 +6807,6 @@ cleverness /'klevənəs/ n
 > To click with someone means to like each other and understand each other.  
 > “click with someone”的意思是情投意合。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***click*** n
 ---
@@ -10050,16 +6827,6 @@ cleverness /'klevənəs/ n
 > Students can answer with a tap of the keyboard or a click of the mouse.  
 > 学生可轻敲键盘或点击鼠标来作答。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***client*** n
 ---
@@ -10073,16 +6840,6 @@ cleverness /'klevənəs/ n
 1. *高义频：* **[C] 委托人；顾客；客户**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cliff*** n
 ---
@@ -10095,16 +6852,6 @@ cleverness /'klevənəs/ n
 ---
 1. **悬崖; 峭壁**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***climate*** n
@@ -10132,16 +6879,6 @@ cleverness /'klevənəs/ n
 2. *高义频：* **风气；环境气氛**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***climb*** v
 ---
@@ -10161,19 +6898,13 @@ cleverness /'klevənəs/ n
 > The plane climbed to 40,000 feet.  
 > 飞机上升到4万英尺的高空。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 We left the road and________ (爬) the hill towards the wood.  
 ##### 答案 climbed  
   
-
 
 # ***climb*** n
 ---
@@ -10193,16 +6924,10 @@ We left the road and________ (爬) the hill towards the wood.
 > After a rest we continued our climb.  
 > 休息了一会儿，我们继续攀登。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 climbing /'klaɪmɪŋ/ n [U] 
-真题解析
----
-[null]
-
 
 # ***clinic*** n
 ---
@@ -10215,16 +6940,6 @@ climbing /'klaɪmɪŋ/ n [U]
 ---
 1. *高义频：* **[C] 诊所；医务室**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***clip*** n
@@ -10239,16 +6954,6 @@ climbing /'klaɪmɪŋ/ n [U]
 1. *高义频：* **[C] 回形针；夹子**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***clip*** vi
 ---
@@ -10262,16 +6967,6 @@ climbing /'klaɪmɪŋ/ n [U]
 1. *高义频：* **夹住；扣住**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cloakroom*** n
 ---
@@ -10284,16 +6979,6 @@ climbing /'klaɪmɪŋ/ n [U]
 ---
 1. **衣帽间，临时寄物处**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***clock*** n
@@ -10315,16 +7000,10 @@ climbing /'klaɪmɪŋ/ n [U]
 > an alarm clock / a wall clock  
 > 闹钟/挂钟
 
+
 固定搭配
 ---
 - #### around the clock
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***clone*** n
 ---
@@ -10338,16 +7017,6 @@ climbing /'klaɪmɪŋ/ n [U]
 1. *高义频：* **[C] 克隆；克隆体**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***clone*** vt
 ---
@@ -10360,16 +7029,6 @@ climbing /'klaɪmɪŋ/ n [U]
 ---
 1. *高义频：* **无性繁殖；克隆**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***close*** v  重难点词汇
@@ -10423,6 +7082,7 @@ climbing /'klaɪmɪŋ/ n [U]
 > These measures are aimed at closing the gap between the rich and poor.  
 > 这些措施旨在缩小贫富差距。
 
+
 固定搭配
 ---
 - #### close down
@@ -10431,13 +7091,6 @@ climbing /'klaɪmɪŋ/ n [U]
 
 > If I had stayed in this business just for the money, I would have closed down years ago.  
 > 从事这个行业如果只是为了钱，那么多年前我就不干了。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***close*** n  重难点词汇
@@ -10459,6 +7112,7 @@ climbing /'klaɪmɪŋ/ n [U]
 > At the close of the journey, he said, “This was a really wonderful week.”   
 > 旅行结束时，他说：“这真是美妙的一周。“
 
+
 固定搭配
 ---
 - #### bring … to a close 
@@ -10474,13 +7128,6 @@ climbing /'klaɪmɪŋ/ n [U]
 
 > Most of the volunteers breathe a sigh of relif when the season comes to a close.  
 > 当这一赛季结束时，大多数的志愿者松了一口气。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***close*** adj
@@ -10556,16 +7203,6 @@ almost in a particular state; likely to do sth soon：
 > a close finish  
 > 几乎平手的结局
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***close*** adv
 ---
@@ -10586,16 +7223,6 @@ almost in a particular state; likely to do sth soon：
 > The girl held the puppy close.  
 > 女孩紧紧地抱着小狗。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***closed*** adj
 ---
@@ -10614,16 +7241,6 @@ almost in a particular state; likely to do sth soon：
 
 > He has a closed mind.  
 > 他思想僵化。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***closely*** adv
@@ -10645,16 +7262,6 @@ almost in a particular state; likely to do sth soon：
 > Watch the pets closely when they are left outdoors.  
 > 把宠物放在室外时要仔细照看他们。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***closet*** n
 ---
@@ -10667,16 +7274,6 @@ almost in a particular state; likely to do sth soon：
 ---
 1. *高义频：* **壁橱**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cloth*** n
@@ -10703,16 +7300,6 @@ almost in a particular state; likely to do sth soon：
 > They handed each of us a hot wet cloth to wipe our hands.  
 > 他们递给我们每个人一块温热的湿布擦手。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***clothes*** n
 ---
@@ -10731,16 +7318,6 @@ almost in a particular state; likely to do sth soon：
 
 ### 辨析 clothing, clothes
 二者都指“衣服”。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***clothing*** n
 ---
@@ -10760,16 +7337,6 @@ almost in a particular state; likely to do sth soon：
 
 ### 辨析 clothing, clothes
 二者都指“衣服”。
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cloud*** n
 ---
@@ -10795,16 +7362,10 @@ almost in a particular state; likely to do sth soon：
 > in the clouds  
 > 在云层中；空想着；心不在焉
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 cloudless /'klaʊdləs/ adj 
-真题解析
----
-[null]
-
 
 # ***cloudy*** adj
 ---
@@ -10821,16 +7382,6 @@ cloudless /'klaʊdləs/ adj
 > It was cloudy this morning, but it turned out fine.  
 > 今天上午阴天，但后来放晴了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***clown*** n
 ---
@@ -10843,16 +7394,6 @@ cloudless /'klaʊdləs/ adj
 ---
 1. **小丑**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***club*** n
@@ -10878,16 +7419,6 @@ cloudless /'klaʊdləs/ adj
 2. *低义频：* **(高尔夫) 球杆**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***clue*** n
 ---
@@ -10911,16 +7442,6 @@ cloudless /'klaʊdləs/ adj
 > Write a conversation with the help of the clues.  
 > 根据提示编写一段对话。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***clumsy*** adj
 ---
@@ -10937,16 +7458,6 @@ cloudless /'klaʊdləs/ adj
 > Claire tried to help once but was too clumsy.  
 > 有一次，克莱尔想要帮忙，但是太笨手笨脚了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***co-operative*** adj
 ---
@@ -10959,16 +7470,6 @@ cloudless /'klaʊdləs/ adj
 ---
 1. *高义频：* **(= cooperative) 合作的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***coach*** n
@@ -10996,16 +7497,6 @@ cloudless /'klaʊdləs/ adj
 3. *高义频：* **(火车) 旅客车厢(carriage / car)**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***coach*** vt
 ---
@@ -11027,16 +7518,6 @@ to train or teach sb, especially to compete in a sport or pass an exam：
 > He coached her for English examinations.  
 > 他辅导她准备英语考试。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***coal*** n
 ---
@@ -11049,16 +7530,6 @@ to train or teach sb, especially to compete in a sport or pass an exam：
 ---
 1. *高义频：* **[C] & [U] 煤；煤块**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***coast*** n
@@ -11076,6 +7547,7 @@ to train or teach sb, especially to compete in a sport or pass an exam：
 > Why not take them for a walk along the coast?  
 > 为什么不带他们沿着海边散散步呢？
 
+
 固定搭配
 ---
 - #### on the coast
@@ -11092,13 +7564,10 @@ to train or teach sb, especially to compete in a sport or pass an exam：
 > There are many islands off the coast.  
 > 沿海有许多岛屿。
 
+
 派生词汇
 ---
 coastal /'kəʊstl/ adj 
-真题解析
----
-[null]
-
 
 # ***coastal*** adj
 ---
@@ -11111,16 +7580,6 @@ coastal /'kəʊstl/ adj
 ---
 1. **沿海的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***coat*** n
@@ -11144,16 +7603,6 @@ coastal /'kəʊstl/ adj
 > a coat of dust  
 > 一层灰
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***coat*** vt
 ---
@@ -11171,16 +7620,6 @@ coastal /'kəʊstl/ adj
 > Coat the fish with flour.  
 > 给鱼裹上一层面粉。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cobbled*** adj
 ---
@@ -11193,16 +7632,6 @@ coastal /'kəʊstl/ adj
 ---
 1. **铺鹅卵石的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cocaine*** n
@@ -11217,16 +7646,6 @@ coastal /'kəʊstl/ adj
 1. **可卡因**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cockney*** n
 ---
@@ -11240,16 +7659,6 @@ coastal /'kəʊstl/ adj
 1. **伦敦东区土话**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cocoa*** n
 ---
@@ -11262,16 +7671,6 @@ coastal /'kəʊstl/ adj
 ---
 1. *高义频：* **[U] 可可粉**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***code*** n
@@ -11311,16 +7710,6 @@ coastal /'kəʊstl/ adj
 > break a code  
 > 破译密码
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***code*** vt
 ---
@@ -11336,16 +7725,6 @@ coastal /'kəʊstl/ adj
 
 > Each order is coded separately  
 > 每条命令都单独编码。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***coffee*** n
@@ -11373,16 +7752,6 @@ coastal /'kəʊstl/ adj
 > —I wouldn’t mind a coffee.  
 > 一杯咖啡就好。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***coffin*** n
 ---
@@ -11396,16 +7765,6 @@ coastal /'kəʊstl/ adj
 ---
 1. *高义频：* **棺材**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***coin*** n
@@ -11430,16 +7789,6 @@ coastal /'kəʊstl/ adj
 > the other / opposite side of the coin  
 > 事情的另一面
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***coincidence*** n
 ---
@@ -11457,6 +7806,7 @@ coastal /'kəʊstl/ adj
 > What a coincidence!  
 > 多么巧合的事啊！/真巧啊！
 
+
 固定搭配
 ---
 - #### by coincidence
@@ -11466,17 +7816,18 @@ coastal /'kəʊstl/ adj
 > By coincidence a bus arrived as we reached the empty bus stop.  
 > 碰巧的是，当我们到达空荡荡的公交车站时，一辆公交车过来了。
 
+
 派生词汇
 ---
 coincident /kəʊ'ɪnsɪdənt/ adj [正式用语]
 coincidental /kəʊˌɪnsɪ'dentl/ adj 
+
 真题解析
 ---
 ##### 题目  
 It can’t be a(n) ________ （巧合）that four jewelry stores were robbed in one night.  
 ##### 答案 coincidence  
   
-
 
 # ***coke*** n
 ---
@@ -11489,16 +7840,6 @@ It can’t be a(n) ________ （巧合）that four jewelry stores were robbed in 
 ---
 1. *高义频：* **可口可乐 (Coke)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cola*** n
@@ -11513,16 +7854,6 @@ It can’t be a(n) ________ （巧合）that four jewelry stores were robbed in 
 ---
 1. *高义频：* **可乐饮料**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cold*** adj
@@ -11557,16 +7888,6 @@ It can’t be a(n) ________ （巧合）that four jewelry stores were robbed in 
 > A few minutes later, the headmaster walked towards the couple with a cold face.  
 > 几分钟后，校长一脸冷漠地走向那对夫妇。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cold*** n
 ---
@@ -11597,17 +7918,11 @@ It can’t be a(n) ________ （巧合）that four jewelry stores were robbed in 
 > If you take more physical exercises, you will not catch a cold so easily.  
 > 多参加些体育锻炼，你就不那么容易感冒了。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 coldly /'kəʊldli/ adv 
 coldness /'kəʊldnəs/ n 
-真题解析
----
-[null]
-
 
 # ***collapse*** vi
 ---
@@ -11624,16 +7939,6 @@ coldness /'kəʊldnəs/ n
 > Having been attacked by terrorists, the tall building collapsed.   
 > 遭受恐怖分子袭击后，大厦倒塌了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***collar*** n
 ---
@@ -11647,16 +7952,6 @@ coldness /'kəʊldnəs/ n
 1. *高义频：* **[C] 衣领；领子**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***colleague*** n
 ---
@@ -11669,16 +7964,6 @@ coldness /'kəʊldnəs/ n
 ---
 1. *高义频：* **[C] 同事；同僚**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***collect*** v
@@ -11729,6 +8014,7 @@ coldness /'kəʊldnəs/ n
 > I’ve got to collect the children from school  
 > 我得去学校接孩子。
 
+
 固定搭配
 ---
 - #### collect one’s thoughts
@@ -11737,13 +8023,6 @@ coldness /'kəʊldnəs/ n
 
 > I collected my thoughts, took a deep breath, and entered the interview room.  
 > 我镇定了一下，深吸一口气，走进面试的房间。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***collection*** n
@@ -11796,16 +8075,6 @@ coldness /'kəʊldnəs/ n
 > The library has a collection of 80,000 books and 90 kinds of newspapers and magazines.  
 > 图书馆有8万册藏书和90种报刊杂志。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***collective*** adj
 ---
@@ -11824,16 +8093,6 @@ coldness /'kəʊldnəs/ n
 
 > collective responsibility  
 > 共同的责任
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***college*** n
@@ -11854,16 +8113,6 @@ coldness /'kəʊldnəs/ n
 > **go to college**  
 > attend / go to college  
 > 上大学
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***collide*** vi
@@ -11886,16 +8135,6 @@ coldness /'kəʊldnəs/ n
 > Our opinions collided over the matter.  
 > 在那件事上我们的意见不一致。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***collision*** n
 ---
@@ -11916,16 +8155,6 @@ coldness /'kəʊldnəs/ n
 > **in,collision with**  
 > He was injured in a collision with another player.  
 > 他和另外一名选手撞在一起受了伤。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***colo(u)r*** n
@@ -11963,19 +8192,13 @@ coldness /'kəʊldnəs/ n
 > As her illness got worse she lost more and more colour.  
 > 随着病情加重，她的脸色越来越苍白。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 With new technology, pictures of underwater valleys can be taken _______ colour.  
 ##### 答案 in  
   
-
 
 # ***colo(u)r*** v
 ---
@@ -11998,17 +8221,11 @@ With new technology, pictures of underwater valleys can be taken _______ colour.
 2. *低义频：* **变色；脸红**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 colo(u)red /'kʌləd/ adj 
 colo(u)rless /'kʌlələs/ adj 
-真题解析
----
-[null]
-
 
 # ***colo(u)rful*** adj
 ---
@@ -12028,16 +8245,10 @@ colo(u)rless /'kʌlələs/ adj
 > My life will be much richer and more colourful.  
 > 我的生活将会更加富裕、更加丰富多彩。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 colo(u)rfully /'kʌləfəli/ adv 
-真题解析
----
-[null]
-
 
 # ***colo(u)ring*** n
 ---
@@ -12054,16 +8265,6 @@ colo(u)rfully /'kʌləfəli/ adv
 2. *低义频：* **[U](皮肤、头发、眼睛的) 颜色**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***colonel*** n
 ---
@@ -12078,16 +8279,6 @@ colo(u)rfully /'kʌləfəli/ adv
 1. *高义频：* **(陆军) 上校**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***colony*** n
 ---
@@ -12100,16 +8291,6 @@ colo(u)rfully /'kʌləfəli/ adv
 ---
 1. **殖民地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***column*** n
@@ -12142,16 +8323,6 @@ colo(u)rfully /'kʌləfəli/ adv
 > I would like the magazine to have three columns: News, Teachers’ Advice and Students’ Voice.  
 > 我希望这份杂志有三个栏目：“新闻”、“教师指导”和“学生之声”。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***coma*** vi
 ---
@@ -12165,16 +8336,6 @@ colo(u)rfully /'kʌləfəli/ adv
 1. **（因严重疾病或重伤引起的）昏迷**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***comb*** n
 ---
@@ -12187,16 +8348,6 @@ colo(u)rfully /'kʌləfəli/ adv
 ---
 1. *高义频：* **[C] 梳子**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***comb*** v
@@ -12219,16 +8370,6 @@ colo(u)rfully /'kʌləfəli/ adv
 > They combed (through) old newspapers and other materials for clues.  
 > 他们搜寻旧报纸和其他资料查找线索。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***combat*** n
 ---
@@ -12242,16 +8383,6 @@ colo(u)rfully /'kʌləfəli/ adv
 1. *高义频：* **[U] & [C] 战斗；格斗； 搏斗**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***combat*** vt
 ---
@@ -12264,16 +8395,6 @@ colo(u)rfully /'kʌləfəli/ adv
 ---
 1. *高义频：* **防止；抑制**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***combination*** n
@@ -12292,16 +8413,6 @@ colo(u)rfully /'kʌləfəli/ adv
 > **in combination**  
 > Some drugs which are safe when taken separately are dangerous in combination.   
 > 某些药品在分开服用时是安全的，但在混合服用时则很危险。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***combine*** v
@@ -12342,12 +8453,11 @@ colo(u)rfully /'kʌləfəli/ adv
 > Like her mother Marie Curie, Irene combined family and career.  
 > 像她的母亲居里夫人一样，艾琳也兼顾了家庭与事业。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 combination /ˌkɒmbɪ'neɪʃn/ n [C] 
+
 真题解析
 ---
 ##### 题目  
@@ -12359,7 +8469,6 @@ In recent years an English word “infosphere” has appeared, _______ (combine)
 — I can’t agree more. It’s great to have the two ________(combine).  
 ##### 答案 combined  
   
-
 
 # ***come*** vi  重难点词汇
 ---
@@ -12435,6 +8544,7 @@ In recent years an English word “infosphere” has appeared, _______ (combine)
 > **come in**  
 > When do strawberries come in?  
 > 草莓什么时候上市？
+
 
 固定搭配
 ---
@@ -12704,9 +8814,7 @@ In recent years an English word “infosphere” has appeared, _______ (combine)
 > When it comes to friends, I desire those who will share my happiness.   
 > 说到朋友，我渴望那些会分享我的快乐的人。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -12750,7 +8858,6 @@ It’s already 10 o’clock. I wonder how it came ________ that she was two hour
 ##### 答案 about  
   
 
-
 # ***comedian*** n
 ---
 英音 kə'miːdiən     美音 kə'miːdiən
@@ -12762,16 +8869,6 @@ It’s already 10 o’clock. I wonder how it came ________ that she was two hour
 ---
 1. **喜剧演员，滑稽演员**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***comedy*** n
@@ -12790,16 +8887,6 @@ It’s already 10 o’clock. I wonder how it came ________ that she was two hour
 > The Big Bang Theory is a highly successfully TV comedy.  
 > 《生活大爆炸》是一部极为成功的电视喜剧。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***comet*** n
 ---
@@ -12813,16 +8900,6 @@ It’s already 10 o’clock. I wonder how it came ________ that she was two hour
 ---
 1. *高义频：* **彗星**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***comfort*** n
@@ -12866,16 +8943,6 @@ It’s already 10 o’clock. I wonder how it came ________ that she was two hour
 > A hot cup of milk on a cold night is a real comfort.  
 > 在寒冷的夜晚喝杯热牛奶真舒服。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***comfort*** vt
 ---
@@ -12891,16 +8958,6 @@ It’s already 10 o’clock. I wonder how it came ________ that she was two hour
 
 > My teacher comforted me, saying “Don’t worry. You can do better next time.”  
 > 老师安慰我说：“别担心，下次你会做得更好。”
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***comfortable*** adj
@@ -12935,18 +8992,12 @@ It’s already 10 o’clock. I wonder how it came ________ that she was two hour
 > My parents are not wealthy but they’re quite comfortable.   
 > 我的父母虽不富有，但他们生活还算宽裕。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 comfortably /'kʌmftəbli;'kʌmfətəbli/ adv 
 > All the rooms were comfortably furnished.  
 > 所有的房间都配有舒适的家具。
-
-真题解析
----
-[null]
 
 
 # ***comic*** adj
@@ -12961,16 +9012,6 @@ comfortably /'kʌmftəbli;'kʌmfətəbli/ adv
 1. *高义频：* **滑稽的；喜剧的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***comic*** n
 ---
@@ -12983,16 +9024,6 @@ comfortably /'kʌmftəbli;'kʌmfətəbli/ adv
 ---
 1. *高义频：* **[C] 连环漫画**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***coming*** adj
@@ -13009,16 +9040,6 @@ comfortably /'kʌmftəbli;'kʌmfətəbli/ adv
 
 > the coming week  
 > 下周
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***command*** n  重难点词汇
@@ -13060,16 +9081,6 @@ the knowledge of sth or ability to use sth, especially a language：
 4. *高义频：* **[C] (计算机的) 指令**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***command*** vt  重难点词汇
 ---
@@ -13103,16 +9114,10 @@ the knowledge of sth or ability to use sth, especially a language：
 > Large football clubs benefit financially from TV income and the top players can command very large salaries.  
 > 大型足球俱乐部从电视收入中获得利润，顶尖的运动员也能得到高额的薪水。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 commander /kə'mɑːndə(r)/ n 
-真题解析
----
-[null]
-
 
 # ***commander*** n
 ---
@@ -13125,16 +9130,6 @@ commander /kə'mɑːndə(r)/ n
 ---
 1. **指挥官**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***comment*** n
@@ -13158,16 +9153,6 @@ commander /kə'mɑːndə(r)/ n
 > It is impolite to make unfavourable comments on a person’s appearance.   
 > 对他人的外貌作负面评价是不礼貌的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***comment*** v
 ---
@@ -13189,16 +9174,6 @@ commander /kə'mɑːndə(r)/ n
 > The discovery is hardly commented by the press.  
 > 这个发现新闻界几乎未作评论。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***commentary*** n
 ---
@@ -13212,16 +9187,6 @@ commander /kə'mɑːndə(r)/ n
 1. **解说**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***commentator*** n
 ---
@@ -13234,16 +9199,6 @@ commander /kə'mɑːndə(r)/ n
 ---
 1. **（实况）解说员**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***commerce*** n
@@ -13260,16 +9215,6 @@ commander /kə'mɑːndə(r)/ n
 
 > electronic commerce (e-commerce)   
 > 电子商务
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***commercial*** adj
@@ -13294,16 +9239,6 @@ commander /kə'mɑːndə(r)/ n
 > Intellectual property is a product of the mind that has commercial value.   
 > 知识产权是具有商业价值的脑力劳动产品。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***commercial*** n
 ---
@@ -13319,16 +9254,6 @@ commander /kə'mɑːndə(r)/ n
 
 > a radio / TV commercial  
 > 广播/电视广告
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***commission*** n
@@ -13352,16 +9277,6 @@ a group of people in charge of finding out about sth or controlling sth：
 
 > We take a commission charge of 2.25% of each cash withdrawal you make.  
 > 对你提取的每笔现金，我们都收取2.25%的手续费。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***commit*** vt  重难点词汇
@@ -13402,9 +9317,7 @@ to spend money or time on sth / sb：
 > commit an hour to reading the newspapers every morning   
 > 每天早上抽出一小时读报
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 committed /kə'mɪtɪd/ adj 
@@ -13414,10 +9327,6 @@ committed /kə'mɪtɪd/ adj
 > **committed to**  
 > He loved playing this instrument, and was committed to practicing it.  
 > 他喜欢演奏这种乐器并坚持练习。
-
-真题解析
----
-[null]
 
 
 # ***commitment*** n
@@ -13450,12 +9359,7 @@ a promise or agreement to do sth; a responsibility：
 > I’m overworked at the moment — I’ve taken on too many commitments.  
 > 我目前劳累过度，承担的事情太多了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -13466,7 +9370,6 @@ C.competition
 D.ambition  
 ##### 答案 B  
   
-
 
 # ***committed*** adj
 ---
@@ -13479,16 +9382,6 @@ D.ambition
 ---
 1. **尽心尽力的；坚信的；坚定的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***committee*** n
@@ -13507,16 +9400,6 @@ a group of people chosen to do a particular job, make decisions etc：
 > The committee has / have decided to dismiss him.   
 > 委员会已决定辞退他。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***commodity*** n
 ---
@@ -13529,16 +9412,6 @@ a group of people chosen to do a particular job, make decisions etc：
 ---
 1. *高义频：* **商品**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***common*** adj
@@ -13580,16 +9453,10 @@ common的比较级和最高级有两种形式： commoner / commonest和more com
 
 ### 辨析 common, normal, ordinary, usual
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 commonly /'kɑːmənli/ adv 
-真题解析
----
-[null]
-
 
 # ***common*** n
 ---
@@ -13599,9 +9466,6 @@ commonly /'kɑːmənli/ adv
 
 用法点拨  [只用于以下惯用语]
 
-英文释义
----
-[null]
 固定搭配
 ---
 - #### have ... in common (with)
@@ -13621,9 +9485,11 @@ commonly /'kɑːmənli/ adv
 > In common with other students, Tom is seldom late for school.   
 > 和其他学生一样，汤姆很少上学迟到。
 
+
 派生词汇
 ---
 commonly ['kɒmənli] adv 
+
 真题解析
 ---
 ##### 题目  
@@ -13634,7 +9500,6 @@ C.ordinary
 D.usual  
 ##### 答案 A  
   
-
 
 # ***communicate*** v
 ---
@@ -13686,16 +9551,6 @@ to let sb know your feelings and desires so that you can have a good relationshi
 > The disease is communicated through dirty drinking water.   
 > 这种疾病通过不干净的饮用水传染。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***communication*** n
 ---
@@ -13727,16 +9582,6 @@ to let sb know your feelings and desires so that you can have a good relationshi
 > Big cities usually have excellent rail and road communications.   
 > 大城市通常有完备的铁路和公路交通网。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***communism*** n
 ---
@@ -13751,16 +9596,6 @@ to let sb know your feelings and desires so that you can have a good relationshi
 1. *高义频：* **共产主义**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***communist*** n
 ---
@@ -13773,16 +9608,6 @@ to let sb know your feelings and desires so that you can have a good relationshi
 ---
 1. *高义频：* **[C] 共产主义者**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***communist*** adj
@@ -13799,16 +9624,6 @@ to let sb know your feelings and desires so that you can have a good relationshi
 
 > the international communist movement   
 > 国际共产主义运动
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***community*** n
@@ -13851,16 +9666,6 @@ a group of people who have the same interests, religion, etc.：
 > Give back to the community — it can be just as rewarding for you as those you choose to help.   
 > 回馈社会——你在帮助他人的同时，自己也会获益良多。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***compact*** adj
 ---
@@ -13876,16 +9681,6 @@ a group of people who have the same interests, religion, etc.：
 
 > a compact disc (CD)   
 > 激光唱片；光碟；光盘
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***companion*** n
@@ -13906,16 +9701,6 @@ a person or animal with whom you spend a lot of time or go somewhere：
 
 > The dog may be a good companion for the old.   
 > 对老人而言，狗也许是很好的伙伴。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***company*** n
@@ -13958,6 +9743,7 @@ a person or animal with whom you spend a lot of time or go somewhere：
 > A man is known by the company he keeps.  
 > 什么人交什么朋友。/观其友，知其人。
 
+
 固定搭配
 ---
 - #### for company
@@ -13985,16 +9771,13 @@ a person or animal with whom you spend a lot of time or go somewhere：
 > I’ve promised to keep my sister company when her husband is away.   
 > 我答应妹妹在她丈夫不在的时候陪伴她。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 It is said that dogs will ________ (陪伴你) for as long as you want when you are feeling lonely.  
 ##### 答案 keep you company  
   
-
 
 # ***comparable*** adj
 ---
@@ -14019,16 +9802,6 @@ It is said that dogs will ________ (陪伴你) for as long as you want when you 
 > His handwriting is not bad, but it’s hardly comparable with / to yours.  
 > 他的书法不错，但是很难和你的相比。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***comparative*** adj
 ---
@@ -14045,16 +9818,6 @@ It is said that dogs will ________ (陪伴你) for as long as you want when you 
 > **comparative comfort**  
 > We live in comparative comfort.  
 > 我们过着比较舒适的生活。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***compare*** v  重难点词汇
@@ -14110,6 +9873,7 @@ to be similar to sb / sth else, either better or worse than sb / sth else：
 > Young people are often compared to the rising sun.  
 > 年轻人常被比作冉冉升起的太阳。
 
+
 固定搭配
 ---
 - #### compare notes (with sb)
@@ -14119,9 +9883,7 @@ to be similar to sb / sth else, either better or worse than sb / sth else：
 > I intended to compare notes with my friends on current affairs.  
 > 我想跟朋友们就时事交换意见。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -14132,7 +9894,6 @@ Film has a much shorter history, especially when _______ (compare) to such art f
 Worst of all, I get a larger quantity of homework,________ (对比) to them.  
 ##### 答案 compared  
   
-
 
 # ***compare…with/to…*** 
 ---
@@ -14145,16 +9906,6 @@ Worst of all, I get a larger quantity of homework,________ (对比) to them.
 ---
 1. **与…… 比较**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***comparison*** n
@@ -14176,16 +9927,6 @@ Worst of all, I get a larger quantity of homework,________ (对比) to them.
 > **By / In comparison with**  
 > By / In comparison with last year, the price of beef has increased.  
 > 与去年相比，牛肉的价格上涨了。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***compass*** n
@@ -14209,16 +9950,6 @@ Worst of all, I get a larger quantity of homework,________ (对比) to them.
 > a pair of compasses  
 > 一副圆规
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***compassion*** n
 ---
@@ -14235,16 +9966,6 @@ Worst of all, I get a larger quantity of homework,________ (对比) to them.
 > **lack of compassion**  
 > I was shocked by his lack of compassion.  
 > 他如此缺乏同情心，让我很震惊。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***compensate*** v
@@ -14266,16 +9987,6 @@ Worst of all, I get a larger quantity of homework,________ (对比) to them.
 > **compensate me for**  
 > I suggest that you also compensate me for the injuries that I have received.   
 > 我认为你还要对我所受的伤害进行赔偿。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***compete*** vi
@@ -14310,19 +10021,13 @@ to try to be more successful or better than sb else who is trying to do the same
 > Women were first allowed to compete in the Olympic shooting in 1968.  
 > 1968年，妇女首次被允许参加奥运射击比赛。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Several companies have announced their intention to ________ (竞争) for the construction project.  
 ##### 答案 compete  
   
-
 
 # ***competence*** n
 ---
@@ -14340,16 +10045,6 @@ the ability to do sth well：
 > Teachers have to constantly update their knowledge in order to maintain their professional competence.  
 > 教师必须不断更新知识以保持他们的专业能力。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***competent*** adj
 ---
@@ -14362,16 +10057,6 @@ the ability to do sth well：
 ---
 1. *高义频：* **能胜任的；有能力的；称职的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***competition*** n
@@ -14404,16 +10089,6 @@ the ability to do sth well：
 > Last week we held an English story-telling competition.  
 > 我们在上星期举办了一场用英语讲故事的比赛。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***competitive*** adj
 ---
@@ -14436,16 +10111,6 @@ the ability to do sth well：
 > Competitive people want to be the best at everything.  
 > 要强的人什么事都想是最好的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***competitor*** n
 ---
@@ -14462,16 +10127,6 @@ the ability to do sth well：
 > In the long jump, competitors try to jump as far forward as possible.   
 > 跳远比赛时，选手们尽可能往前跳。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***compile*** vt
 ---
@@ -14484,16 +10139,6 @@ the ability to do sth well：
 ---
 1. *高义频：* **编写；编纂；汇编**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***complain*** v  重难点词汇
@@ -14526,16 +10171,6 @@ the ability to do sth well：
 
 > “I didn't like that meal at all,” complained the customer.  
 > 顾客抱怨说：“我一点儿也不喜欢那饭菜。”
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***complaint*** n
@@ -14572,16 +10207,6 @@ the ability to do sth well：
 > I have a number of complaints about the hotel room you’ve given me.   
 > 我对你给我的旅馆房间有许多不满。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***complete*** vt  重难点词汇
 ---
@@ -14614,16 +10239,6 @@ to make sth whole or perfect：
 
 > complete the Application Form   
 > 填写申请表
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***complete*** adj  重难点词汇
@@ -14670,9 +10285,7 @@ to make sth whole or perfect：
 > The book, complete with CD, costs $35.   
 > 这本书配有光盘，售价35美元。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 completely /kəm'pliːtli/ adv 
@@ -14681,10 +10294,6 @@ completely /kəm'pliːtli/ adv
 
 > I like my English classes to be taught completely in English.   
 > 我希望英语课完全用英语授课。
-
-真题解析
----
-[null]
 
 
 # ***completely*** adv
@@ -14699,16 +10308,6 @@ completely /kəm'pliːtli/ adv
 1. **十分地；完全地**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***completion*** n
 ---
@@ -14721,16 +10320,6 @@ completely /kəm'pliːtli/ adv
 ---
 1. **完成，结束**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***complex*** adj
@@ -14751,16 +10340,6 @@ completely /kəm'pliːtli/ adv
 > The link between money and happiness is complex.   
 > 金钱与幸福之间关系复杂。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***complex*** n
 ---
@@ -14780,16 +10359,10 @@ completely /kəm'pliːtli/ adv
 > an industrial complex consisting of ten manufacturing plants   
 > 拥有10家制造工厂的工业联合企业
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 complexity /kəm'pleksəti/ n 
-真题解析
----
-[null]
-
 
 # ***complexity*** n
 ---
@@ -14802,16 +10375,6 @@ complexity /kəm'pleksəti/ n
 ---
 1. **复杂性，错综复杂**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***complicate*** vt
@@ -14830,16 +10393,6 @@ complexity /kəm'pleksəti/ n
 > The issue is complicated by the fact that a vital document is missing.   
 > 一份重要文件的遗失使得这个问题变得更加复杂。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***complicated*** adj
 ---
@@ -14855,16 +10408,6 @@ complexity /kəm'pleksəti/ n
 
 > The rules of the game are too complicated to explain in a few words.   
 > 这个游戏的规则太复杂，三言两语解释不清楚。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***compliment*** n
@@ -14883,19 +10426,13 @@ complexity /kəm'pleksəti/ n
 > My deskmate admires my fluent English very much and I usually feel encouraged by his compliments.  
 > 我同桌非常欣赏我流利的英语，他的称赞也经常使我很受鼓舞。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 When Richard said, “You are much more agreeable and prettier now,” Joan’s face turned red at the unexpected  ________ (称赞).  
 ##### 答案 compliment  
   
-
 
 # ***component*** n
 ---
@@ -14916,16 +10453,6 @@ When Richard said, “You are much more agreeable and prettier now,” Joan’s 
 > Exercise is one of the key components of a healthy lifestyle.   
 > 锻炼是健康生活方式的重要组成部分之一。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***component*** adj
 ---
@@ -14942,16 +10469,6 @@ When Richard said, “You are much more agreeable and prettier now,” Joan’s 
 > **component parts**  
 > component parts   
 > 零部件
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***compose*** v
@@ -14981,6 +10498,7 @@ When Richard said, “You are much more agreeable and prettier now,” Joan’s 
 > What I have in my heart must come out; that is the reason why I compose.   
 > 我心里所想的一定要表达出来，这就是我创作的原因。
 
+
 固定搭配
 ---
 - #### be composed of
@@ -14989,13 +10507,6 @@ When Richard said, “You are much more agreeable and prettier now,” Joan’s 
 
 > What is water composed of ?   
 > 水是由什么构成的？
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***composer*** n
@@ -15009,16 +10520,6 @@ When Richard said, “You are much more agreeable and prettier now,” Joan’s 
 ---
 1. **作曲者；作曲家**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***composition*** n
@@ -15051,16 +10552,6 @@ When Richard said, “You are much more agreeable and prettier now,” Joan’s 
 > He is writing a composition.   
 > 他正在写作文。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***compound*** n
 ---
@@ -15074,16 +10565,6 @@ When Richard said, “You are much more agreeable and prettier now,” Joan’s 
 ---
 1. *高义频：* **混合体；复合物；化合物；合成词**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***comprehension*** n
@@ -15105,16 +10586,6 @@ When Richard said, “You are much more agreeable and prettier now,” Joan’s 
 > beyond comprehension   
 > 不可理解的
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***comprehensive*** n
 ---
@@ -15128,16 +10599,6 @@ When Richard said, “You are much more agreeable and prettier now,” Joan’s 
 ---
 1. *高义频：* **综合中学**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***comprehensive*** adj
@@ -15156,12 +10617,7 @@ When Richard said, “You are much more agreeable and prettier now,” Joan’s 
 > a comprehensive review / study  
 > 全面的审查/研究
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -15172,7 +10628,6 @@ C.conscious
 D.crucial  
 ##### 答案 A  
   
-
 
 # ***comprise*** vt
 ---
@@ -15185,16 +10640,6 @@ D.crucial
 ---
 1. *高义频：* **包括；构成**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***compromise*** n
@@ -15220,16 +10665,6 @@ D.crucial
 > Most important of all, it is always wise to make decisions by compromise and agreement.   
 > 最重要的是，通过相互妥协、相互协商来作决定总是明智的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***compromise*** vi
 ---
@@ -15249,16 +10684,6 @@ D.crucial
 > **compromise with,on**  
 > I had to compromise with him on this point.  
 > 在这一点上我不得不对他让步。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***compulsory*** adj
@@ -15285,16 +10710,6 @@ D.crucial
 > It is compulsory for winners to be tested but other players are only tested at random.   
 > 获胜者是必须要检测的，而其他选手则是抽检。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***compute*** vt
 ---
@@ -15308,16 +10723,6 @@ D.crucial
 1. *高义频：* **计算；估计**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***computer*** n
 ---
@@ -15330,16 +10735,6 @@ D.crucial
 ---
 1. *高义频：* **计算机；电脑**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***concentrate*** v
@@ -15374,16 +10769,6 @@ D.crucial
 > When you concentrate on one task you can get it done faster and better.  
 > 当你全神贯注于一项任务时，你会完成得又快又好。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***concentrate*** n
 ---
@@ -15400,16 +10785,10 @@ D.crucial
 > orange juice concentrate   
 > 浓缩橙汁
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 concentrated ['kɑːnsntreɪtɪd] adj 
-真题解析
----
-[null]
-
 
 # ***concentration*** n
 ---
@@ -15429,16 +10808,6 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
 > Driving requires total concentration.  
 > 开车时需要全神贯注。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***concept*** n
@@ -15460,16 +10829,6 @@ concentrated ['kɑːnsntreɪtɪd] adj
 > **concept of**  
 > The concept of happiness changes as we grow.  
 > 随着我们的成长，对幸福的看法也在发生着变化。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***concern*** vt  重难点词汇
@@ -15504,6 +10863,7 @@ concentrated ['kɑːnsntreɪtɪd] adj
 > It concerned her that her son hadn’t been back home.  
 > 儿子还没回家让她很担心。
 
+
 固定搭配
 ---
 - #### concern oneself with
@@ -15512,13 +10872,6 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
 > A good doctor should always concern himself with his patients.   
 > 好医生应当时时刻刻关心他的病人。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***concern*** n  重难点词汇
@@ -15557,16 +10910,6 @@ sth that worries you or that is important to you：
 
 > What are your main concerns as a student?  
 > 作为学生，你最关心什么？
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***concerned*** adj
@@ -15613,6 +10956,7 @@ sth that worries you or that is important to you：
 > Many of my students were more concerned with their grades than with the knowledge they gained.  
 > 我的很多学生更关注成绩，而不是学到的知识。
 
+
 固定搭配
 ---
 - #### as far as … be concerned
@@ -15627,13 +10971,6 @@ sth that worries you or that is important to you：
 
 > As far as I’m concerned, you can do what you like.  
 > 就我个人而言，你想做什么都可以。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***concerning*** prep
@@ -15650,16 +10987,6 @@ sth that worries you or that is important to you：
 
 > various questions concerning pollution and environment   
 > 有关污染和环境的各种问题
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***concert*** n
@@ -15684,16 +11011,6 @@ sth that worries you or that is important to you：
 > at a concert  
 > 在音乐会上
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***concise*** adj
 ---
@@ -15706,16 +11023,6 @@ sth that worries you or that is important to you：
 ---
 1. *高义频：* **简明的；简练的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***conclude*** v
@@ -15759,19 +11066,13 @@ to end or to bring sth to an end：
 > To conclude, I’d like to express my thanks to my family.   
 > 最后，我要对我的家人表示感谢。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 When the group discussion is nearing its end, make sure to conclude it ________ important points.  
 ##### 答案 with  
   
-
 
 # ***conclusion*** n  重难点词汇
 ---
@@ -15801,6 +11102,7 @@ When the group discussion is nearing its end, make sure to conclude it ________ 
 > bring the discussion to a conclusion  
 > 结束讨论
 
+
 固定搭配
 ---
 - #### arrive at / come to / draw / reach a conclusion
@@ -15823,13 +11125,6 @@ When the group discussion is nearing its end, make sure to conclude it ________ 
 > In conclusion, people around the world should protect the water resources.  
 > 总之，全世界的人都应当保护水资源。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***concrete*** adj
 ---
@@ -15849,16 +11144,6 @@ When the group discussion is nearing its end, make sure to conclude it ________ 
 > the lack of any concrete evidence  
 > 缺少具体的证据
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***concrete*** n
 ---
@@ -15872,16 +11157,6 @@ When the group discussion is nearing its end, make sure to conclude it ________ 
 1. *高义频：* **[U] 混凝土**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***concubine*** n
 ---
@@ -15894,16 +11169,6 @@ When the group discussion is nearing its end, make sure to conclude it ________ 
 ---
 1. **（旧时某些社会里的）妾，姨太太**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***condemn*** vt
@@ -15928,16 +11193,6 @@ When the group discussion is nearing its end, make sure to conclude it ________ 
 > **condemned to death**  
 > He was found guilty and condemned to death.   
 > 他被裁定有罪，判了死刑。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***condition*** n  重难点词汇
@@ -16022,6 +11277,7 @@ When the group discussion is nearing its end, make sure to conclude it ________ 
 > no conditions attached  
 > 没有附加条款
 
+
 固定搭配
 ---
 - #### on / under no condition
@@ -16041,16 +11297,13 @@ When the group discussion is nearing its end, make sure to conclude it ________ 
 > I would consider studying abroad, on the condition that I get a scholarship.   
 > 倘若获得奖学金，我会考虑出国学习。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I agree to his suggestion ________ the condition that he drops all charges.  
 ##### 答案 on   
   
-
 
 # ***condom*** n
 ---
@@ -16064,16 +11317,6 @@ I agree to his suggestion ________ the condition that he drops all charges.
 ---
 1. *高义频：* **避孕套**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***conduct*** vt  重难点词汇
@@ -16119,16 +11362,6 @@ to organize or do a particular activity：
 > Make sure you conduct yourself as a good neighbor should.  
 > 确保你的行为举止是一个好邻居应该有的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***conduct*** n  重难点词汇
 ---
@@ -16154,19 +11387,13 @@ to organize or do a particular activity：
 > His conduct of the business was very successful.   
 > 他经商非常成功。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 To return to the problem of water pollution, I’d like you to look at a study ______ (conduct) in Australia in 2012.  
 ##### 答案 conducted  
   
-
 
 # ***conductor*** n
 ---
@@ -16183,16 +11410,6 @@ To return to the problem of water pollution, I’d like you to look at a study _
 
 2. *高义频：* **(BrE) (公共汽车) 售票员；(AmE) 列车长**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***conference*** n
@@ -16225,16 +11442,6 @@ To return to the problem of water pollution, I’d like you to look at a study _
 > **in conference**  
 > The director is in conference with his secretary now.  
 > 主管正在与他的秘书开会。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***confidence*** n
@@ -16296,16 +11503,6 @@ the feeling that sth will happen or is true：
 > say / speak with confidence  
 > 有把握地说
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***confident*** adj
 ---
@@ -16344,19 +11541,17 @@ the feeling that sth will happen or is true：
 > We are confident that the environment will be improved by our further efforts.  
 > 我们相信，通过我们进一步的努力环境将会得到改善。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 confidently /'kɒnfədəntlɪ/ adv 
+
 真题解析
 ---
 ##### 题目  
 The little girl walked ________ (自信地) onto the stage, ready for her first speech.  
 ##### 答案 confidently  
   
-
 
 # ***confidential*** adj
 ---
@@ -16373,16 +11568,6 @@ The little girl walked ________ (自信地) onto the stage, ready for her first 
 > confidential papers  
 > 机密文件
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***confidently*** adv
 ---
@@ -16395,16 +11580,6 @@ The little girl walked ________ (自信地) onto the stage, ready for her first 
 ---
 1. **自信地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***confirm*** vt
@@ -16438,16 +11613,6 @@ The little girl walked ________ (自信地) onto the stage, ready for her first 
 > Six people have confirmed that they will be attending the conference.   
 > 已经有6人确定要参加这次会议。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***confirmation*** n
 ---
@@ -16461,16 +11626,6 @@ The little girl walked ________ (自信地) onto the stage, ready for her first 
 1. **证实，证明**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***confiscate*** vt
 ---
@@ -16483,16 +11638,6 @@ The little girl walked ________ (自信地) onto the stage, ready for her first 
 ---
 1. **没收**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***conflict*** n
@@ -16533,16 +11678,6 @@ The little girl walked ________ (自信地) onto the stage, ready for her first 
 > Her diary was a record of her inner conflict.  
 > 她的日记记录了自己内心的矛盾。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***conflict*** vi
 ---
@@ -16563,16 +11698,6 @@ The little girl walked ________ (自信地) onto the stage, ready for her first 
 > His opinions conflicted with mine.   
 > 他的意见和我的不一致。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***confront*** v
 ---
@@ -16586,16 +11711,6 @@ The little girl walked ________ (自信地) onto the stage, ready for her first 
 1. **面对（危险、困难）**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***confucianism*** n
 ---
@@ -16608,16 +11723,6 @@ The little girl walked ________ (自信地) onto the stage, ready for her first 
 ---
 1. *高义频：* **[U] 孔子学说；儒教**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***confuse*** vt
@@ -16646,16 +11751,6 @@ The little girl walked ________ (自信地) onto the stage, ready for her first 
 > I always confuse her with her twin sister: they look so alike.   
 > 我总分不清这对双胞胎姐妹，她们长得太像了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***confused*** adj
 ---
@@ -16681,16 +11776,6 @@ not clear or not easy to understand：
 > The children gave a confused account of what had happened.   
 > 孩子们把发生的事描述得颠三倒四。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***confusing*** adj
 ---
@@ -16703,16 +11788,6 @@ not clear or not easy to understand：
 ---
 1. *高义频：* **令人困惑的；令人混淆的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***confusion*** n
@@ -16739,16 +11814,6 @@ not clear or not easy to understand：
 > To avoid confusion, the teams wore different colours.  
 > 为避免混淆，各队都穿了不同颜色的服装。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***congestion*** n
 ---
@@ -16761,16 +11826,6 @@ not clear or not easy to understand：
 ---
 1. **拥塞；堆积**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***congratulate*** vt
@@ -16793,16 +11848,6 @@ not clear or not easy to understand：
 > I’d like to congratulate you on your wonderful performance.  
 > 我对您的精彩表演表示祝贺。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***congratulation*** n
 ---
@@ -16824,12 +11869,7 @@ not clear or not easy to understand：
 > I want to express my congratulations on your success.  
 > 我对你的成功表示祝贺。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -16841,7 +11881,6 @@ not clear or not easy to understand：
 Please give my ________ (祝贺) when you see her.   
 ##### 答案 congratulations  
   
-
 
 # ***congress*** n
 ---
@@ -16855,16 +11894,6 @@ Please give my ________ (祝贺) when you see her.
 ---
 1. *高义频：* **代表大会；(美国) 国会**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***connect*** v
@@ -16924,16 +11953,6 @@ Please give my ________ (祝贺) when you see her.
 > The key to successful small talk is learning how to connect with others.  
 > 成功的闲聊的关键在于要学会如何与他人沟通交流。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***connected*** adj
 ---
@@ -16957,16 +11976,6 @@ Please give my ________ (祝贺) when you see her.
 > **is connected with**  
 > The discussion is connected with the incident.  
 > 这次讨论与这件事有关。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***connection*** n
@@ -17012,6 +12021,7 @@ Please give my ________ (祝贺) when you see her.
 > personal / social connections   
 > 私人/社会关系
 
+
 固定搭配
 ---
 - #### in connection with 
@@ -17020,13 +12030,6 @@ Please give my ________ (祝贺) when you see her.
 
 > I’m writing to you in connection with your job application.   
 > 我写此信是想谈一谈你找工作的事。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***conquer*** vt
@@ -17054,16 +12057,6 @@ Please give my ________ (祝贺) when you see her.
 > The only way to conquer a fear is to face it.  
 > 克服恐惧的唯一方法就是正视它。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***conscience*** n
 ---
@@ -17084,16 +12077,6 @@ Please give my ________ (祝贺) when you see her.
 > **clear / good conscience**  
 > have a clear / good conscience  
 > 问心无愧
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***conscious*** adj
@@ -17133,16 +12116,6 @@ Please give my ________ (祝贺) when you see her.
 > environmentally conscious consumers   
 > 有环保意识的消费者
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***consciousness*** n
 ---
@@ -17168,16 +12141,6 @@ Please give my ________ (祝贺) when you see her.
 > race / class consciousness  
 > 民族/阶级意识
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***consecutive*** adj
 ---
@@ -17190,16 +12153,6 @@ Please give my ________ (祝贺) when you see her.
 ---
 1. **连续的，不间断的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***consensus*** n
@@ -17221,16 +12174,6 @@ Please give my ________ (祝贺) when you see her.
 > The consensus of most people is that the music is very good.   
 > 大多数人一致认为这些音乐非常好听。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***consent*** n
 ---
@@ -17245,16 +12188,6 @@ Please give my ________ (祝贺) when you see her.
 1. *高义频：* **同意；允许**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***consent*** vi
 ---
@@ -17267,16 +12200,6 @@ Please give my ________ (祝贺) when you see her.
 ---
 1. *高义频：* **同意；允许**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***consequence*** n  重难点词汇
@@ -17308,6 +12231,7 @@ importance：
 > Don't worry. It's of little consequence.  
 > 别担心，这并不重要。
 
+
 固定搭配
 ---
 - #### as a consequence / in consequence
@@ -17328,13 +12252,6 @@ as a result：
 > My father coughs frequently as a consequence of / in consequence of smoking.  
 > 因为吸烟，我父亲经常咳嗽。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***consequent*** adj
 ---
@@ -17349,16 +12266,10 @@ as a result：
 1. *高义频：* **随之发生的；作为结果的**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 consequently /'kɒnsɪkwəntli/ adv 
-真题解析
----
-[null]
-
 
 # ***consequently*** adv
 ---
@@ -17371,16 +12282,6 @@ consequently /'kɒnsɪkwəntli/ adv
 ---
 1. *高义频：* **结果；因此；所以 (as a result)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***conservation*** n
@@ -17410,16 +12311,6 @@ consequently /'kɒnsɪkwəntli/ adv
 > the conservation of old buildings  
 > 古建筑的保护
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***conservative*** adj
 ---
@@ -17443,16 +12334,6 @@ consequently /'kɒnsɪkwəntli/ adv
 > make a conservative estimate / guess at  
 > 对…作保守估计
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***conservatory*** n
 ---
@@ -17465,16 +12346,6 @@ consequently /'kɒnsɪkwəntli/ adv
 ---
 1. **音乐学院**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***consider*** v  重难点词汇
@@ -17546,6 +12417,7 @@ consequently /'kɒnsɪkwəntli/ adv
 > You’ve got to learn to consider other people.  
 > 你得学会体谅别人。
 
+
 固定搭配
 ---
 - #### all things considered
@@ -17554,6 +12426,7 @@ consequently /'kɒnsɪkwəntli/ adv
 
 > All things considered, the planned trip will have to be called off.  
 > 考虑到所有情况，计划好的旅行不得不取消了。
+
 
 派生词汇
 ---
@@ -17564,10 +12437,6 @@ considered /kən'sɪdəd/ adj
 considering /kən'sɪdərɪŋ/ prep 
 > Considering his ability and experience, he might have done better.  
 > 考虑到他的能力和经验，他本可以做得更好。
-
-真题解析
----
-[null]
 
 
 # ***considerable*** adj
@@ -17588,16 +12457,6 @@ great in amount, size, importance, etc. (significant)：
 
 > a considerable person / problem  
 > 重要的人/问题
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***considerate*** adj
@@ -17620,19 +12479,17 @@ great in amount, size, importance, etc. (significant)：
 > It was very considerate of you to let us know you were going to be late.  
 > 你告知我们你会迟到，真是考虑周到。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 considerately /kən'sɪdərətli/ adv 
+
 真题解析
 ---
 ##### 题目  
 It was considerate _______ Michael to inform us of his delay in case we got worried.   
 ##### 答案 of  
   
-
 
 # ***consideration*** n
 ---
@@ -17670,6 +12527,7 @@ It was considerate _______ Michael to inform us of his delay in case we got worr
 > The price and condition are two considerations in / for buying a used car.  
 > 价格和车况是购买二手车时应考虑的两个因素。
 
+
 固定搭配
 ---
 - #### in consideration of / for
@@ -17689,13 +12547,6 @@ It was considerate _______ Michael to inform us of his delay in case we got worr
 > I would appreciate it if you could take my proposal into consideration.  
 > 如果您能考虑我的建议，我将不胜感激。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***consist*** vi
 ---
@@ -17705,9 +12556,6 @@ It was considerate _______ Michael to inform us of his delay in case we got worr
 
 用法点拨  [不用于进行时和被动语态]
 
-英文释义
----
-[null]
 固定搭配
 ---
 - #### consist in
@@ -17730,13 +12578,6 @@ It was considerate _______ Michael to inform us of his delay in case we got worr
 > Life consists of not only sunshine but also storms.  
 > 生活不仅有阳光，还有风雨。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***consistent*** adj
 ---
@@ -17756,6 +12597,7 @@ It was considerate _______ Michael to inform us of his delay in case we got worr
 > You’re not very consistent: first you condemn me, then you praise me.  
 > 你前后矛盾：先是责备我，接着又夸奖我。
 
+
 固定搭配
 ---
 - #### be consistent with sth
@@ -17765,13 +12607,10 @@ It was considerate _______ Michael to inform us of his delay in case we got worr
 > The pattern of injuries is consistent with an attack with a knife.  
 > 这些伤口的类型与刀伤吻合。
 
+
 派生词汇
 ---
 consistently /kən'sɪstəntlɪ/ adv 
-真题解析
----
-[null]
-
 
 # ***constant*** adj
 ---
@@ -17803,19 +12642,17 @@ consistently /kən'sɪstəntlɪ/ adv
 > She needed constant medical attention.  
 > 她需要不间断的医疗护理。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 constantly /'kɒnstəntli/ adv 
+
 真题解析
 ---
 ##### 题目  
 The Forbidden City attracts ________  (络绎不绝的游客) every day, especially during national holidays.  
 ##### 答案 a constant stream of visitors / tourists  
   
-
 
 # ***constantly*** adv
 ---
@@ -17828,16 +12665,6 @@ The Forbidden City attracts ________  (络绎不绝的游客) every day, especia
 ---
 1. **不断地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***constitution*** n
@@ -17863,16 +12690,6 @@ The Forbidden City attracts ________  (络绎不绝的游客) every day, especia
 > A hard life and a weak constitution shortened Robert Burn’s life.   
 > 艰辛的生活和虚弱的体质缩短了罗伯特·彭斯的寿命。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***construct*** vt
 ---
@@ -17891,16 +12708,6 @@ The Forbidden City attracts ________  (络绎不绝的游客) every day, especia
 
 > a well-constructed novel  
 > 构思巧妙的小说
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***construction*** n
@@ -17925,6 +12732,7 @@ The Forbidden City attracts ________  (络绎不绝的游客) every day, especia
 > The shelter is a brick construction.  
 > 这个避难所是砖结构的。
 
+
 固定搭配
 ---
 - #### under construction
@@ -17933,13 +12741,6 @@ The Forbidden City attracts ________  (络绎不绝的游客) every day, especia
 
 > There are four underground lines in the city, and several lines are under construction.   
 > 这座城市现有4条地铁线路，还有几条正在建设中。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***consult*** v
@@ -17967,19 +12768,13 @@ The Forbidden City attracts ________  (络绎不绝的游客) every day, especia
 > consult a dictionary / map  
 > 查词典/地图
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 If you have any doubts about your health, you’d better _______ (咨询) your doctor at once.  
 ##### 答案 consult  
   
-
 
 # ***consultant*** n
 ---
@@ -17993,16 +12788,6 @@ If you have any doubts about your health, you’d better _______ (咨询) your d
 1. *高义频：* **[C] 顾问；商议者；咨询者**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***consultation*** n
 ---
@@ -18015,16 +12800,6 @@ If you have any doubts about your health, you’d better _______ (咨询) your d
 ---
 1. **[U] 商量；咨询**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***consume*** vt
@@ -18052,16 +12827,6 @@ If you have any doubts about your health, you’d better _______ (咨询) your d
 > He consumed all the cookies.  
 > 他吃光了所有的饼干。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***consumer*** n
 ---
@@ -18075,16 +12840,6 @@ If you have any doubts about your health, you’d better _______ (咨询) your d
 1. *高义频：* **[C] 消费者；用户；客户**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***consumption*** n
 ---
@@ -18097,16 +12852,6 @@ If you have any doubts about your health, you’d better _______ (咨询) your d
 ---
 1. *高义频：* **消费 (量)；消耗 (量)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***contact*** n
@@ -18158,16 +12903,6 @@ If you have any doubts about your health, you’d better _______ (咨询) your d
 > In the past, it was always easy to get a job if you had friends and contacts.  
 > 过去，如果你有朋友和关系，找工作往往很容易。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***contact*** vt
 ---
@@ -18183,16 +12918,6 @@ If you have any doubts about your health, you’d better _______ (咨询) your d
 
 > Please contact me by e-mail if you are interested.  
 > 如有兴趣，请发电邮与我联系。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***contain*** vt
@@ -18220,19 +12945,13 @@ If you have any doubts about your health, you’d better _______ (咨询) your d
 > My father could hardly contain his pride in me.  
 > 父亲无法抑制以我为傲的心情。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Little Johnny felt the bag, curious to know what it _________ (装有).  
 ##### 答案 contained  
   
-
 
 # ***container*** n
 ---
@@ -18245,16 +12964,6 @@ Little Johnny felt the bag, curious to know what it _________ (装有).
 ---
 1. *高义频：* **[C] 器皿；容器；集装箱**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***contemporary*** adj
@@ -18282,16 +12991,6 @@ Little Johnny felt the bag, curious to know what it _________ (装有).
 > Dickens was contemporary with Thackeray.  
 > 狄更斯和萨克雷是同时代的人。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***contemporary*** n
 ---
@@ -18304,16 +13003,6 @@ Little Johnny felt the bag, curious to know what it _________ (装有).
 ---
 1. *高义频：* **同时代的人；同辈**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***content*** n
@@ -18351,16 +13040,6 @@ Little Johnny felt the bag, curious to know what it _________ (装有).
 > food with a high fat content  
 > 脂肪含量高的食物
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***content*** vt
 ---
@@ -18378,16 +13057,10 @@ Little Johnny felt the bag, curious to know what it _________ (装有).
 > We should never content ourselves with book knowledge only.  
 > 我们切不可仅仅满足于书本知识。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 contentment /kən'tentmənt/ n 
-真题解析
----
-[null]
-
 
 # ***content*** adj
 ---
@@ -18414,6 +13087,7 @@ happy and satisﬁed：
 > Happy is he who is content.  
 > 知足者常乐。
 
+
 固定搭配
 ---
 - #### (be) content (for sb) to do sth
@@ -18423,13 +13097,10 @@ happy and satisﬁed：
 > She is content to live quietly by herself.  
 > 她愿意独自安静地生活。
 
+
 派生词汇
 ---
 contentment /kən'tentmənt/ n 
-真题解析
----
-[null]
-
 
 # ***contest*** n
 ---
@@ -18448,16 +13119,6 @@ contentment /kən'tentmənt/ n
 
 > I finally came out of the contest as the first prize winner.  
 > 我最终获得比赛一等奖。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***context*** n
@@ -18479,16 +13140,6 @@ contentment /kən'tentmənt/ n
 > political / social / historical context  
 > 政治/社会/历史背景
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***continent*** n
 ---
@@ -18505,16 +13156,6 @@ contentment /kən'tentmənt/ n
 > the Asian continent / the continent of Asia  
 > 亚洲大陆
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***continental*** adj
 ---
@@ -18527,16 +13168,6 @@ contentment /kən'tentmənt/ n
 ---
 1. **大陆的；大洲的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***continue*** v
@@ -18580,10 +13211,12 @@ contentment /kən'tentmənt/ n
 > She continues in good health.  
 > 她身体依然很好。
 
+
 固定搭配
 ---
 - #### to be continued 
 1. **未完待续**  
+
 
 
 派生词汇
@@ -18592,13 +13225,13 @@ continued /kən'tɪnjuːd/ adj [只用于名词前]
 > continued / continuing effort  
 > 不断的努力
 
+
 真题解析
 ---
 ##### 题目  
 The rain c________ for days, so we could not go out to play.  
 ##### 答案 continued  
   
-
 
 # ***continuous*** adj
 ---
@@ -18618,16 +13251,10 @@ The rain c________ for days, so we could not go out to play.
 > The rain has been continuous since this morning.  
 > 从今天早上开始到现在雨一直下个不停。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 continuously /kən'tɪnjuəsli/ adv 
-真题解析
----
-[null]
-
 
 # ***contract*** v
 ---
@@ -18646,16 +13273,6 @@ continuously /kən'tɪnjuəsli/ adv
 
 2. *低义频：* **签 (合同)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***contract*** n
@@ -18679,16 +13296,6 @@ continuously /kən'tɪnjuəsli/ adv
 > Being punctual is a contract that is silently agreed.   
 > 守时是默默签订的协议。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***contradict*** v
 ---
@@ -18711,16 +13318,6 @@ continuously /kən'tɪnjuəsli/ adv
 > Your actions contradicted your principles.  
 > 你的行为违背了自己的原则。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***contradictory*** adj
 ---
@@ -18736,16 +13333,6 @@ continuously /kən'tɪnjuəsli/ adv
 
 > Harry has contradictory feelings about his new life.  
 > 哈利对新生活有一种矛盾的心情。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***contrary*** n
@@ -18763,6 +13350,7 @@ continuously /kən'tɪnjuəsli/ adv
 > Being too anxious to help an event develop often results in the contrary to our intention.  
 > “拔苗助长”往往会事与愿违。
 
+
 固定搭配
 ---
 - #### on the contrary
@@ -18779,16 +13367,13 @@ continuously /kən'tɪnjuəsli/ adv
 > Unless I hear anything to the contrary, I shall assume the meeting will be held on time.  
 > 除非有人反对，否则我会认为会议将准时召开。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 He seems to be giving the impression that he didn’t enjoy himself in Paris. ________ (正相反) he had a wonderful time.  
 ##### 答案 On the contrary  
   
-
 
 # ***contrary*** adj
 ---
@@ -18813,19 +13398,13 @@ He seems to be giving the impression that he didn’t enjoy himself in Paris. __
 > have a contrary opinion  
 > 持相反意见
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 He seems to be giving the impression that he didn’t enjoy himself in Paris. ________(正相反) he had a wonderful time.   
 ##### 答案 On the contrary  
   
-
 
 # ***contrast*** v
 ---
@@ -18847,16 +13426,6 @@ He seems to be giving the impression that he didn’t enjoy himself in Paris. __
 > His actions contrast sharply with his promises.  
 > 他的行动与诺言形成鲜明对比。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***contrast*** n
 ---
@@ -18876,6 +13445,7 @@ He seems to be giving the impression that he didn’t enjoy himself in Paris. __
 
 > Careful contrast of the two plans shows up some key differences.  
 > 把这两个计划仔细地加以对比就可以看出一些关键性的差异。
+
 
 固定搭配
 ---
@@ -18900,16 +13470,13 @@ He seems to be giving the impression that he didn’t enjoy himself in Paris. __
 > The white walls make a contrast with the black carpet.  
 > 白色的墙壁与黑色的地毯形成了鲜明的对比。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Most people work because it’s unavoidable. _______ (相比之下), there are some people who actually enjoy work.   
 ##### 答案 By / In contrast  
   
-
 
 # ***contribute*** v  重难点词汇
 ---
@@ -18966,16 +13533,10 @@ to help to make sth happen ：
 > She contributed a number of articles to the magazine.  
 > 她给这家杂志撰写了多篇文章。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 contributor /kən'trɪbjʊtə/ n 
-真题解析
----
-[null]
-
 
 # ***contribution*** n
 ---
@@ -19006,16 +13567,6 @@ contributor /kən'trɪbjʊtə/ n
 
 > This is a magazine with contributions from well-known travel writers.  
 > 这是一本由著名旅行作家撰稿的杂志。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***control*** n
@@ -19051,6 +13602,7 @@ contributor /kən'trɪbjʊtə/ n
 
 > a remote control  
 > 遥控器
+
 
 固定搭配
 ---
@@ -19111,13 +13663,10 @@ contributor /kən'trɪbjʊtə/ n
 > All schools are under the control of the Ministry of Education.  
 > 所有的学校都归教育部管辖。
 
+
 派生词汇
 ---
 controlled  /kən'trəʊld/ adj 
-真题解析
----
-[null]
-
 
 # ***control*** vt
 ---
@@ -19159,16 +13708,6 @@ controlled  /kən'trəʊld/ adj
 > He couldn’t control his anger.  
 > 他抑制不住愤怒。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***controversial*** adj
 ---
@@ -19182,19 +13721,13 @@ controlled  /kən'trəʊld/ adj
 1. *高义频：* **引起争论的； 有争议的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Whether the buildings in this area should be pulled down has remained ________ (有争议的); people are still looking for other possible solutions.  
 ##### 答案 controversial  
   
-
 
 # ***convenience*** n
 ---
@@ -19229,6 +13762,7 @@ Whether the buildings in this area should be pulled down has remained ________ (
 > It was a great convenience to live near my school.  
 > 住在学校附近对我是一大便利。
 
+
 固定搭配
 ---
 - #### at sb’s convenience
@@ -19244,13 +13778,6 @@ Whether the buildings in this area should be pulled down has remained ________ (
 
 > We would appreciate it if you could reply at your earliest convenience.  
 > 如果您能尽早回复，我们将不胜感激。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***convenient*** adj  重难点词汇
@@ -19280,12 +13807,7 @@ Whether the buildings in this area should be pulled down has remained ________ (
 > a restaurant convenient for shops and theatres  
 > 靠近商店和剧院的餐馆
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -19296,7 +13818,6 @@ The secretary arranged a(n) ________ (方便的) time and place for the applican
 Would it  ________(对…方便) you to pick me up at four o’clock and take me to the airport?  
 ##### 答案  be convenient for  
   
-
 
 # ***conventional*** adj
 ---
@@ -19323,16 +13844,6 @@ Would it  ________(对…方便) you to pick me up at four o’clock and take me
 > conventional forces  
 > 常规部队
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***conversation*** n
 ---
@@ -19353,16 +13864,6 @@ Would it  ________(对…方便) you to pick me up at four o’clock and take me
 > I had an interesting conversation with a reporter about job hunting recently.  
 > 最近我和一位记者就找工作进行了一次有趣的交谈。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***convert*** v
 ---
@@ -19381,16 +13882,6 @@ Would it  ________(对…方便) you to pick me up at four o’clock and take me
 
 2. *高义频：* **(使) 改变信仰**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***convey*** vt
@@ -19427,16 +13918,6 @@ Would it  ________(对…方便) you to pick me up at four o’clock and take me
 > If you see James, do convey my apologies to him.  
 > 见到詹姆斯，一定要向他转达我的歉意。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***convict*** n
 ---
@@ -19449,16 +13930,6 @@ Would it  ________(对…方便) you to pick me up at four o’clock and take me
 ---
 1. **囚犯**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***convince*** vt
@@ -19495,19 +13966,13 @@ to make sb / yourself believe that sth is true：
 > Oscar convinced the manager to look in the record of advance ticket sales.  
 > 奥斯卡说服了经理查看预售票记录。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 I don’t believe what you said, but if you can prove it, you may be able to ________ (使我相信).  
 ##### 答案 convince me  
   
-
 
 # ***convinced*** adj
 ---
@@ -19528,16 +13993,6 @@ I don’t believe what you said, but if you can prove it, you may be able to ___
 > I am convinced of her innocence.  
 > 我坚信她是无辜的。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***convincing*** adj
 ---
@@ -19553,16 +14008,6 @@ I don’t believe what you said, but if you can prove it, you may be able to ___
 
 > convincing evidence   
 > 有力的证据
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cook*** v
@@ -19583,16 +14028,6 @@ I don’t believe what you said, but if you can prove it, you may be able to ___
 > Don’t let the potatoes cook too long.  
 > 别把土豆烧得太久。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cook*** n
 ---
@@ -19610,16 +14045,6 @@ I don’t believe what you said, but if you can prove it, you may be able to ___
 > His wife is a good cook.  
 > 他太太很会做饭。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cooker*** n
 ---
@@ -19633,16 +14058,6 @@ I don’t believe what you said, but if you can prove it, you may be able to ___
 1. *高义频：* **[C] 炊具**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cookery*** n
 ---
@@ -19655,16 +14070,6 @@ I don’t believe what you said, but if you can prove it, you may be able to ___
 ---
 1. *高义频：* **[U] 烹饪法；烹饪术**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cookie*** n
@@ -19681,16 +14086,6 @@ I don’t believe what you said, but if you can prove it, you may be able to ___
 (BrE biscuit)
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cooking*** adj
 ---
@@ -19704,16 +14099,6 @@ I don’t believe what you said, but if you can prove it, you may be able to ___
 1. *高义频：* **烹调用的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cooking*** n
 ---
@@ -19726,16 +14111,6 @@ I don’t believe what you said, but if you can prove it, you may be able to ___
 ---
 1. *高义频：* **[U] 烹调；烹饪法**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cool*** adj
@@ -19786,16 +14161,6 @@ I don’t believe what you said, but if you can prove it, you may be able to ___
 > — Cool. / That’s cool.  
 > 没问题。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cool*** v
 ---
@@ -19807,6 +14172,7 @@ I don’t believe what you said, but if you can prove it, you may be able to ___
 英文释义
 ---
 1. *高义频：* **(使) 冷却；(使) 变凉**  
+
 
 
 固定搭配
@@ -19827,13 +14193,6 @@ I don’t believe what you said, but if you can prove it, you may be able to ___
 > She went for a walk to cool herself down / off.  
 > 她出去走走，让自己冷静一下。
 
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cooperate*** vi
 ---
@@ -19851,16 +14210,10 @@ I don’t believe what you said, but if you can prove it, you may be able to ___
 > I find it hard to cooperate with those who always stick to their own opinions.  
 > 我发现很难与那些一贯固执己见的人合作。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 cooperation /kəʊˌɒpə'reɪʃn/ n 
-真题解析
----
-[null]
-
 
 # ***cooperation*** n
 ---
@@ -19879,16 +14232,6 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 > A study was undertaken in cooperation with oil companies.   
 > 与石油公司合作进行过一项研究。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cope*** vi
 ---
@@ -19906,16 +14249,6 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 > He’ll cope with all the work.  
 > 他会妥善处理所有的工作。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***copper*** n
 ---
@@ -19928,16 +14261,6 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 ---
 1. **铜**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***copy*** v
@@ -19964,16 +14287,6 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 > Jeremy had copied from the girl next to him.  
 > 杰里米曾抄袭他邻座的女孩。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***copy*** n
 ---
@@ -19999,6 +14312,7 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 > He took a copy of the newspaper and began to read.  
 > 他拿了一份报纸读了起来。
 
+
 固定搭配
 ---
 - #### hard copy 
@@ -20008,13 +14322,6 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 - #### soft copy 
 1. **软副本 (指存在计算机里或显示在屏幕上的资料)**  
 
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***copyright*** n
@@ -20029,16 +14336,6 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 1. *高义频：* **[U] & [C] 版权；著作权**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***coral*** n
 ---
@@ -20051,16 +14348,6 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 ---
 1. **珊瑚**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***core*** n
@@ -20075,16 +14362,6 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 ---
 1. *高义频：* **果核；核心；最重要的部分**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***core*** adj
@@ -20103,16 +14380,6 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 > core curriculum / subjects / values  
 > 核心课程/科目/价值
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***corn*** n
 ---
@@ -20125,16 +14392,6 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 ---
 1. *高义频：* **[U] 谷物；玉米**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***corner*** vt
@@ -20151,16 +14408,6 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 
 > If cornered, the snake will defend itself.  
 > 蛇被逼得走投无路时会自卫的。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***corner*** n
@@ -20200,6 +14447,7 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 > Traveling to all corners of the world gets easier and easier.  
 > 去世界各地旅游变得越来越容易。
 
+
 固定搭配
 ---
 - #### (just) around / round the corner
@@ -20212,16 +14460,13 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 > Victory is just around the corner.  
 > 胜利在望。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 They believe that there are transport developments _______ the corner that will bring a lot of changes for the better.   
 ##### 答案 around / round  
   
-
 
 # ***corporate*** adj
 ---
@@ -20235,16 +14480,6 @@ They believe that there are transport developments _______ the corner that will 
 1. **公司的；团体的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***corporation*** n
 ---
@@ -20257,16 +14492,6 @@ They believe that there are transport developments _______ the corner that will 
 ---
 1. *高义频：* **大公司 / 企业；法人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***correct*** vt
@@ -20287,16 +14512,10 @@ They believe that there are transport developments _______ the corner that will 
 > The new glasses will correct your sight.  
 > 这副新眼镜会矫正你的视力。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 correctly /kə'rektli/ adv 
-真题解析
----
-[null]
-
 
 # ***correct*** adj
 ---
@@ -20331,16 +14550,6 @@ formal and polite
 > It’s not correct to speak like that.  
 > 那样说话不妥。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***correction*** n
 ---
@@ -20357,16 +14566,6 @@ formal and polite
 > **made,corrections**  
 > I’ve made a few small corrections to your report.  
 > 我对你的报告作了几处小的修改。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***correspond*** vi
@@ -20404,16 +14603,6 @@ to be similar to：
 > She corresponds regularly with her former teacher.  
 > 她和以前的老师定期通信。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***correspondence*** n
 ---
@@ -20427,16 +14616,6 @@ to be similar to：
 1. *高义频：* **一致；相似；通信；信件**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***corridor*** n
 ---
@@ -20449,16 +14628,6 @@ to be similar to：
 ---
 1. *高义频：* **[C] 走廊；通道**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***corrupt*** vt
@@ -20476,16 +14645,6 @@ to be similar to：
 > He was corrupted by power and ambition.  
 > 权力和野心使他腐化堕落。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***corrupt*** adj
 ---
@@ -20502,16 +14661,6 @@ to be similar to：
 > corrupt officials  
 > 贪官污吏
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***corruption*** n
 ---
@@ -20524,16 +14673,6 @@ to be similar to：
 ---
 1. **腐败；堕落**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***corset*** n
@@ -20548,16 +14687,6 @@ to be similar to：
 1. **紧身胸衣**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cosmology*** n
 ---
@@ -20570,16 +14699,6 @@ to be similar to：
 ---
 1. **宇宙生成学；宇宙论**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cosmonaut*** n
@@ -20594,16 +14713,6 @@ to be similar to：
 1. **宇航员**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cosmopolitan*** adj
 ---
@@ -20616,16 +14725,6 @@ to be similar to：
 ---
 1. **兼容并包的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cost*** n
@@ -20663,6 +14762,7 @@ to be similar to：
 > He’s determined to win, whatever the cost.  
 > 他决心不惜一切代价也要获胜。
 
+
 固定搭配
 ---
 - #### at all costs / at any cost
@@ -20679,13 +14779,10 @@ to be similar to：
 > He succeeded at the cost of his health.  
 > 他获得了成功，但损害了身体。
 
+
 派生词汇
 ---
 costly ['kɒstli] adj 
-真题解析
----
-[null]
-
 
 # ***cost*** vt
 ---
@@ -20732,16 +14829,10 @@ costly ['kɒstli] adj
 
 ### 辨析 cost, spend, pay, take
 这四个词都经常译为“花费”，但用法各不相同。
-固定搭配
----
-[null]
+
 派生词汇
 ---
 costly /'kɒstli/ adj 
-真题解析
----
-[null]
-
 
 # ***costume*** n
 ---
@@ -20759,16 +14850,6 @@ costly /'kɒstli/ adj
 > wear / be in traditional / national costume  
 > 穿着传统/民族服装
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cosy*** adj
 ---
@@ -20781,16 +14862,6 @@ costly /'kɒstli/ adj
 ---
 1. **暖和舒适的；感觉舒服的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cottage*** n
@@ -20805,16 +14876,6 @@ costly /'kɒstli/ adj
 1. *高义频：* **[C] 小屋；村舍**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cotton*** n
 ---
@@ -20828,16 +14889,6 @@ costly /'kɒstli/ adj
 1. *高义频：* **[U] 棉花；棉布；棉织物**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***couch*** n
 ---
@@ -20850,16 +14901,6 @@ costly /'kɒstli/ adj
 ---
 1. **长沙发, 睡椅**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cough*** v
@@ -20881,19 +14922,17 @@ costly /'kɒstli/ adj
 > Sometimes she coughed ( up ) blood.  
 > 她有时咳血。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 coughing   /kɒfɪŋ/ n [U] 
+
 真题解析
 ---
 ##### 题目  
 Don’t ________ (咳嗽) more than you can help.  
 ##### 答案 cough  
   
-
 
 # ***cough*** n
 ---
@@ -20909,16 +14948,6 @@ Don’t ________ (咳嗽) more than you can help.
 
 > I had a bad cough.  
 > 我咳得厉害。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***could*** modal v
@@ -20957,12 +14986,7 @@ Don’t ________ (咳嗽) more than you can help.
 > If I could have gone with you, I should have felt very glad.  
 > 要是我当时能同你们一起去，我会非常开心。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -20999,7 +15023,6 @@ D.could have wished
 ##### 答案 D  
   
 
-
 # ***council*** n
 ---
 英音 'kaʊnsl     美音 'kaʊnsl
@@ -21014,16 +15037,6 @@ D.could have wished
 
 > the UN Security Council  
 > 联合国安理会
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***count*** n  重难点词汇
@@ -21046,16 +15059,6 @@ D.could have wished
 > **lost count of**  
 > He lost count of the number of cars he had washed.  
 > 他数不清自己洗过多少辆车。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***count*** v  重难点词汇
@@ -21129,6 +15132,7 @@ to consider：
 > I count her as one of my best friends.  
 > 我把她视为我最好的一个朋友。
 
+
 固定搭配
 ---
 - #### count on / upon
@@ -21146,6 +15150,7 @@ to consider：
 > She has been counting down to the big day.   
 > 她已经在对这个重大的日子倒计时了。
 
+
 派生词汇
 ---
 countable /'kaʊntəbl/ adj 
@@ -21153,6 +15158,7 @@ countless /'kaʊntləs/ adj
 > **countless times**  
 > My mother and I conflicted countless times over the years.  
 > 这些年来我和母亲发生了无数次冲突。
+
 
 真题解析
 ---
@@ -21164,7 +15170,6 @@ The whole team count _______ Cristiano Ronaldo, and he seldom lets them down.
 Surely it doesn’t matter where the student associations get their money from; what ________ (count) is what they do with it.  
 ##### 答案 counts  
   
-
 
 # ***counter*** n
 ---
@@ -21188,16 +15193,6 @@ Surely it doesn’t matter where the student associations get their money from; 
 2. *低义频：* **计算器；计数器**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***counter*** v
 ---
@@ -21210,16 +15205,6 @@ Surely it doesn’t matter where the student associations get their money from; 
 ---
 1. **反驳，抵制，抵消**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***country*** n
@@ -21252,16 +15237,6 @@ Surely it doesn’t matter where the student associations get their money from; 
 > They have the support of most of the country.  
 > 他们得到了大多数国民的支持。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***country*** adj
 ---
@@ -21281,16 +15256,6 @@ Surely it doesn’t matter where the student associations get their money from; 
 > a country singer  
 > 乡村音乐歌手
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***countryside*** n
 ---
@@ -21303,16 +15268,6 @@ Surely it doesn’t matter where the student associations get their money from; 
 ---
 1. *高义频：* **[U] [常与the连用]乡村；农村 (the country)**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***county*** n
@@ -21327,16 +15282,6 @@ Surely it doesn’t matter where the student associations get their money from; 
 ---
 1. *高义频：* **[C] (英国的) 郡；(美国的) 县**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***couple*** n
@@ -21355,6 +15300,7 @@ Surely it doesn’t matter where the student associations get their money from; 
 > We rent this house to a married couple.  
 > 我们把这套房子租给了一对夫妇。
 
+
 固定搭配
 ---
 - #### a couple of
@@ -21366,13 +15312,6 @@ Surely it doesn’t matter where the student associations get their money from; 
 
 > I played tennis a couple of times and watched several movies.  
 > 我打了几次网球，还看了几场电影。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***courage*** n
@@ -21399,16 +15338,6 @@ Surely it doesn’t matter where the student associations get their money from; 
 
 > He would never walk again but he started a new life with great courage.  
 > 他再也不能走路了，但是他勇敢地开始了新生活。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***course*** n  重难点词汇
@@ -21480,6 +15409,7 @@ Surely it doesn’t matter where the student associations get their money from; 
 > Choose four main courses from the menu.  
 > 从菜单上选四道主菜。
 
+
 固定搭配
 ---
 - #### in / during / over / through(out) the course of
@@ -21501,13 +15431,6 @@ Surely it doesn’t matter where the student associations get their money from; 
 
 > — Of course I do.  
 > 我当然知道。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***court*** n
@@ -21542,16 +15465,6 @@ Surely it doesn’t matter where the student associations get their money from; 
 4. *低义频：* **[C] & [U] 王宫；宫殿；宫廷**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***courtroom*** n
 ---
@@ -21566,16 +15479,6 @@ Surely it doesn’t matter where the student associations get their money from; 
 1. *高义频：* **法庭；审判室**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***courtyard*** n
 ---
@@ -21589,16 +15492,6 @@ Surely it doesn’t matter where the student associations get their money from; 
 1. *高义频：* **[C] 庭院；院子；天井**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cousin*** n
 ---
@@ -21611,16 +15504,6 @@ Surely it doesn’t matter where the student associations get their money from; 
 ---
 1. *高义频：* **[C] 堂兄弟 / 姐妹；表兄弟 /姐妹**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cover*** n  重难点词汇
@@ -21657,16 +15540,6 @@ Surely it doesn’t matter where the student associations get their money from; 
 > **forest cover**  
 > forest cover  
 > 森林植被
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cover*** vt  重难点词汇
@@ -21728,6 +15601,7 @@ to provide enough money for sth：
 > To cover the cost of hiring a bus, each student will have to pay $10 each time.  
 > 为了能够支付租车的费用，每个学生每次要付10美元。
 
+
 固定搭配
 ---
 - #### cover up
@@ -21747,6 +15621,7 @@ to provide enough money for sth：
 > He got his powerful friends to cover up for him.  
 > 他让他那些有权有势的朋友来包庇自己。
 
+
 派生词汇
 ---
 covered /'kʌvəd/ adj 
@@ -21756,6 +15631,7 @@ covered /'kʌvəd/ adj
 covering /'kʌvərɪŋ/ n 
 > The wall includes a waterproof covering.   
 > 这道墙有防水层。
+
 
 真题解析
 ---
@@ -21779,7 +15655,6 @@ About 71 percent of the earth’s surface is c________ by water.
 ##### 答案 covered  
   
 
-
 # ***coverage*** n
 ---
 英音 'kʌvərɪdʒ     美音 'kʌvərɪdʒ
@@ -21791,16 +15666,6 @@ About 71 percent of the earth’s surface is c________ by water.
 ---
 1. **[U] 覆盖（范围）； 新闻报道；保险（范围）**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cow*** n
@@ -21815,16 +15680,6 @@ About 71 percent of the earth’s surface is c________ by water.
 1. *高义频：* **[C] 母牛；(尤指) 奶牛**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cowboy*** n
 ---
@@ -21837,16 +15692,6 @@ About 71 percent of the earth’s surface is c________ by water.
 ---
 1. *高义频：* **[C] 牧童；(美国西部的) 牛仔**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cozy*** adj
@@ -21861,16 +15706,6 @@ About 71 percent of the earth’s surface is c________ by water.
 1. **舒适的, 安逸的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***crab*** n
 ---
@@ -21883,16 +15718,6 @@ About 71 percent of the earth’s surface is c________ by water.
 ---
 1. **蟹**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***crack*** v
@@ -21910,16 +15735,6 @@ About 71 percent of the earth’s surface is c________ by water.
 > Don’t put boiling water in the glass or it will crack.  
 > 不要把沸水倒进这个玻璃杯里，否则它会破裂。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***crack*** n
 ---
@@ -21936,16 +15751,6 @@ About 71 percent of the earth’s surface is c________ by water.
 > **crack between**  
 > a crack between two rocks  
 > 两块岩石间的缝隙
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***craft*** n
@@ -21969,16 +15774,6 @@ About 71 percent of the earth’s surface is c________ by water.
 > an aircraft / a spacecraft  
 > 飞机/宇宙飞船
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***craftsman*** n
 ---
@@ -21992,16 +15787,6 @@ About 71 percent of the earth’s surface is c________ by water.
 ---
 1. *高义频：* **匠人；能工巧匠**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***craftsmanship*** n
@@ -22017,16 +15802,6 @@ About 71 percent of the earth’s surface is c________ by water.
 1. *高义频：* **技艺；手艺；精工细作**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***crane*** n
 ---
@@ -22040,16 +15815,6 @@ About 71 percent of the earth’s surface is c________ by water.
 ---
 1. *高义频：* **鹤；吊车；起重机**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***crash*** n
@@ -22083,16 +15848,6 @@ About 71 percent of the earth’s surface is c________ by water.
 
 > tips for fixing computer system crashes  
 > 应对计算机系统崩溃的窍门
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***crash*** v
@@ -22137,16 +15892,6 @@ crash最初是一个象声词，模仿断裂的声音， “哗啦…”。
 > The computers that we use at the moment are old and slow, and they often crash.  
 > 我们现在使用的计算机又旧又慢，还经常死机。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***crater*** n
 ---
@@ -22161,16 +15906,6 @@ crash最初是一个象声词，模仿断裂的声音， “哗啦…”。
 1. *高义频：* **火山口；弹坑**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***crawl*** vi
 ---
@@ -22184,16 +15919,6 @@ crash最初是一个象声词，模仿断裂的声音， “哗啦…”。
 1. **爬行；匍匐前进**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***crayon*** n
 ---
@@ -22206,16 +15931,6 @@ crash最初是一个象声词，模仿断裂的声音， “哗啦…”。
 ---
 1. *高义频：* **[C] (绘画用的) 铅笔；彩色粉笔；蜡笔**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***crazy*** adj
@@ -22254,16 +15969,6 @@ crash最初是一个象声词，模仿断裂的声音， “哗啦…”。
 > I’m crazy about football.  
 > 我很痴迷足球。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cream*** n
 ---
@@ -22277,16 +15982,6 @@ crash最初是一个象声词，模仿断裂的声音， “哗啦…”。
 1. *高义频：* **奶油；含乳脂食品；乳霜**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***creamy*** adj
 ---
@@ -22299,16 +15994,6 @@ crash最初是一个象声词，模仿断裂的声音， “哗啦…”。
 ---
 1. **似奶油的,软厚平滑的,光滑细软的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***create*** vt
@@ -22343,19 +16028,13 @@ to produce a particular feeling or impression ：
 > It was with faithfulness that we created a harmonious atmosphere.  
 > 正是因为真诚，我们才创造了一个和谐的氛围。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 Skilled workers also combine various hardwoods and metal ______ (create) special designs.  
 ##### 答案 to create  
   
-
 
 # ***creation*** n
 ---
@@ -22375,16 +16054,6 @@ Skilled workers also combine various hardwoods and metal ______ (create) special
 
 > a literary creation   
 > 文学作品
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***creative*** adj
@@ -22406,16 +16075,6 @@ Skilled workers also combine various hardwoods and metal ______ (create) special
 > The idea for the advertisement is creative.  
 > 这个广告的构思很有创意。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***creatively*** adv
 ---
@@ -22429,16 +16088,6 @@ Skilled workers also combine various hardwoods and metal ______ (create) special
 1. **创造性地；有创造力地**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***creator*** n
 ---
@@ -22451,16 +16100,6 @@ Skilled workers also combine various hardwoods and metal ______ (create) special
 ---
 1. **创造者**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***creature*** n
@@ -22481,16 +16120,6 @@ Skilled workers also combine various hardwoods and metal ______ (create) special
 > **a creature of habit**  
 > He always goes to bed at ten — he’s a creature of habit.  
 > 他总是10点钟上床睡觉，是个严守生活习惯的人。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***credit*** n  重难点词汇
@@ -22553,6 +16182,7 @@ praise or approval that you give to sb for sth they have done well：
 > The teacher made it clear that our credits would be hard-earned.  
 > 老师明确说明，我们的学分将来之不易。
 
+
 固定搭配
 ---
 - #### to sb’s credit
@@ -22561,13 +16191,6 @@ praise or approval that you give to sb for sth they have done well：
 
 > To their credit the four countries do work together in some areas, but they still have very different institutions.  
 > 值得赞扬的是这四个国家在很多领域共同协作，但在制度上它们还是大不相同。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***credit*** vt  重难点词汇
@@ -22589,16 +16212,6 @@ praise or approval that you give to sb for sth they have done well：
 > **credited to**  
 > Much of the team’s success can be credited to their manager.  
 > 这个团队的成功大部分应归于他们的经理。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***crew*** n
@@ -22622,16 +16235,6 @@ a group of people with special skills working together：
 
 > a camera crew  
 > 摄制组
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***crime*** n
@@ -22670,16 +16273,6 @@ sth that is to blame：
 > It’s a crime to waste food.  
 > 浪费食物是可耻的行为。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***criminal*** adj
 ---
@@ -22696,16 +16289,6 @@ sth that is to blame：
 > You’ve got a criminal record.  
 > 你有犯罪记录了。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***criminal*** n
 ---
@@ -22718,16 +16301,6 @@ sth that is to blame：
 ---
 1. *高义频：* **[C] 罪犯；犯人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***crisis*** n
@@ -22754,16 +16327,6 @@ sth that is to blame：
 > the financial crisis  
 > 金融危机
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***crisp*** adj
 ---
@@ -22776,16 +16339,6 @@ sth that is to blame：
 ---
 1. *高义频：* **脆的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***crisp*** n
@@ -22800,16 +16353,6 @@ sth that is to blame：
 1. *高义频：* **炸薯片 (AmE chip)；酥脆的东西**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***criteria*** n
 ---
@@ -22823,16 +16366,6 @@ sth that is to blame：
 ---
 1. **(评判的) 标准**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***criterion*** n
@@ -22851,16 +16384,6 @@ sth that is to blame：
 > To qualify for a grant, students must satisfy certain criteria.  
 > 要获得领取助学金的资格，学生必须满足某些标准。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***critic*** n
 ---
@@ -22873,16 +16396,6 @@ sth that is to blame：
 ---
 1. *高义频：* **[C] 批评家；评论家**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***critical*** adj
@@ -22911,16 +16424,6 @@ extremely important：
 > These talks are critical to the future of the peace process.  
 > 这些谈判对和平进程的前景至关重要。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***criticise*** v
 ---
@@ -22948,16 +16451,6 @@ extremely important：
 > He criticized the American film favorably.  
 > 他对那部美国电影给予了好评。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***criticism*** n
 ---
@@ -22973,16 +16466,6 @@ extremely important：
 
 > literary criticism  
 > 文学评论
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***criticize*** v
@@ -23011,16 +16494,6 @@ extremely important：
 > He criticized the American film favorably.  
 > 他对那部美国电影给予了好评。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***crocodile*** n
 ---
@@ -23033,16 +16506,6 @@ extremely important：
 ---
 1. **鳄鱼**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***crop*** n
@@ -23067,16 +16530,6 @@ extremely important：
 > I had a poor crop of apples.  
 > 我的苹果收成不好。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***crop*** vt
 ---
@@ -23092,16 +16545,6 @@ extremely important：
 
 > The land has been too wet for cropping.  
 > 这块土地太湿，不适合种庄稼。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cross*** n
@@ -23124,16 +16567,6 @@ extremely important：
 
 > She wore a small gold cross on a chain around her neck.  
 > 她脖子上戴着一条项链，上面挂着一个小的金质十字架。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cross*** v
@@ -23164,6 +16597,7 @@ extremely important：
 > Don’t cross. The light is red.  
 > 别过去，现在是红灯。
 
+
 固定搭配
 ---
 - #### cross out / off
@@ -23172,13 +16606,6 @@ extremely important：
 
 > You’ve spelt it wrong. Cross it out and try again.  
 > 你拼错了。划掉再写一遍。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cross-talk*** n
@@ -23192,16 +16619,6 @@ extremely important：
 ---
 1. **相声**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***crossing*** n
@@ -23223,16 +16640,6 @@ extremely important：
 3. *低义频：* **渡口；(铁路 ) 道口；(人行) 横道**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***crossroads*** n
 ---
@@ -23246,16 +16653,6 @@ extremely important：
 1. *高义频：* **[C] (pl crossroads) 十字路口；交叉路口**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***crosstalk*** n
 ---
@@ -23268,16 +16665,6 @@ extremely important：
 ---
 1. **相声**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***crowd*** n
@@ -23298,6 +16685,7 @@ extremely important：
 > The band played and the crowd cheered.  
 > 乐队表演，观众欢呼。
 
+
 固定搭配
 ---
 - #### a crowd of / crowds of
@@ -23306,13 +16694,6 @@ extremely important：
 
 > After making my way through crowds of people, I finally found a subway line that was operating.  
 > 从一大群人中间挤过去之后，我终于看到了一条还在运营的地铁线路。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***crowd*** v
@@ -23347,16 +16728,6 @@ extremely important：
 > Thousands of people have crowded into the small town.  
 > 成千上万的人涌入了这个小镇。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***crowded*** adj
 ---
@@ -23377,16 +16748,6 @@ extremely important：
 > The restaurant is always crowded with customers at meal times.  
 > 这家餐馆在用餐时间总是客满。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***crown*** n
 ---
@@ -23401,16 +16762,6 @@ extremely important：
 1. *高义频：* **王冠；冕**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***crucial*** adj
 ---
@@ -23424,16 +16775,6 @@ extremely important：
 1. *高义频：* **关键性的；至关重要的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***crucible*** n
 ---
@@ -23446,16 +16787,6 @@ extremely important：
 ---
 1. **坩埚**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cruel*** adj
@@ -23477,17 +16808,11 @@ extremely important：
 > It was cruel of Jim to ignore her.  
 > 吉姆存心不理会她，真是无情。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 cruelly /'kruːəli/ adv 
 cruelty /'kruːəlti/ n 
-真题解析
----
-[null]
-
 
 # ***cruelty*** n
 ---
@@ -23500,16 +16825,6 @@ cruelty /'kruːəlti/ n
 ---
 1. *高义频：* **残忍；残酷**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cruise*** n
@@ -23524,16 +16839,6 @@ cruelty /'kruːəlti/ n
 1. **（乘游轮的）漫游；巡航**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***crunch*** n
 ---
@@ -23546,16 +16851,6 @@ cruelty /'kruːəlti/ n
 ---
 1. **嘎吱嘎吱的声音**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***crush*** n
@@ -23571,16 +16866,6 @@ cruelty /'kruːəlti/ n
 1. *高义频：* **拥挤的人群**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***crush*** vt
 ---
@@ -23593,16 +16878,6 @@ cruelty /'kruːəlti/ n
 ---
 1. *高义频：* **压碎；压坏；捣碎**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cry*** v
@@ -23633,6 +16908,7 @@ cruelty /'kruːəlti/ n
 > She cried the news all over the neighborhood.  
 > 她在街坊邻里大肆宣扬这个消息。
 
+
 固定搭配
 ---
 - #### cry out
@@ -23652,13 +16928,6 @@ cruelty /'kruːəlti/ n
 
 > The company is crying out for fresh new talent.  
 > 这家公司急需新的人才。
-
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cry*** n
@@ -23684,19 +16953,13 @@ cruelty /'kruːəlti/ n
 > We heard a cry for help.  
 > 我们听到了呼救声。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
 People won’t pay attention to you when they still have a lot of ideas of their own crying ________ expression.  
 ##### 答案 for  
   
-
 
 # ***cube*** n
 ---
@@ -23710,16 +16973,6 @@ People won’t pay attention to you when they still have a lot of ideas of their
 1. *高义频：* **[C] 立方体；立方形**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cubic*** adj
 ---
@@ -23732,16 +16985,6 @@ People won’t pay attention to you when they still have a lot of ideas of their
 ---
 1. *高义频：* **立方体的；立方的**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cucumber*** n
@@ -23757,16 +17000,6 @@ People won’t pay attention to you when they still have a lot of ideas of their
 1. *高义频：* **黄瓜**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cuisine*** n
 ---
@@ -23779,16 +17012,6 @@ People won’t pay attention to you when they still have a lot of ideas of their
 ---
 1. *高义频：* **[C] & [U] 烹调法；烹饪；菜肴**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cultivate*** vt
@@ -23813,16 +17036,6 @@ People won’t pay attention to you when they still have a lot of ideas of their
 > You will benefit a lot from cultivating a positive mental attitude.  
 > 养成积极的心态你会受益匪浅。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cultural*** adj
 ---
@@ -23846,16 +17059,6 @@ People won’t pay attention to you when they still have a lot of ideas of their
 > **cultural life**  
 > The city has rich and varied cultural life.  
 > 这个城市有丰富多彩的文化生活。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***culture*** n
@@ -23886,16 +17089,6 @@ People won’t pay attention to you when they still have a lot of ideas of their
 > moral, intellectual, and physical culture  
 > 德育、智育和体育
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cup*** n
 ---
@@ -23909,16 +17102,6 @@ People won’t pay attention to you when they still have a lot of ideas of their
 1. *高义频：* **[C] 杯子；一杯的量；奖杯**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cupboard*** n
 ---
@@ -23931,16 +17114,6 @@ People won’t pay attention to you when they still have a lot of ideas of their
 ---
 1. *高义频：* **[C] 碗柜；橱柜**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cure*** vt
@@ -23972,16 +17145,6 @@ to make sb well again after he has been ill：
 
 > Many bad habits can be especially difficult to cure.  
 > 许多坏习惯特别难以纠正。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cure*** n
@@ -24021,16 +17184,6 @@ to make sb well again after he has been ill：
 > Empathy can be a cure for loneliness, sadness, anxiety, and fear.  
 > 同情是应付孤独、悲伤、焦虑和恐惧的对策。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***curiosity*** n
 ---
@@ -24061,16 +17214,6 @@ to make sb well again after he has been ill：
 
 > The museum is full of historical curiosities.  
 > 这座博物馆有许多珍奇的历史文物。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***curious*** adj
@@ -24110,12 +17253,11 @@ strange or unusual：
 > curious behavior  
 > 怪异的举止
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 curiously /'kjʊəriəsli/ adv 
+
 真题解析
 ---
 ##### 题目  
@@ -24126,7 +17268,6 @@ He was ________ (好奇) to know what was happening in the office.
 People have always been curious ________ how living things on the earth exactly began.  
 ##### 答案 about  
   
-
 
 # ***curiously*** adv
 ---
@@ -24139,16 +17280,6 @@ People have always been curious ________ how living things on the earth exactly 
 ---
 1. **奇怪地；好奇地**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***curl*** v
@@ -24163,16 +17294,6 @@ People have always been curious ________ how living things on the earth exactly 
 1. *高义频：* **(使) 卷曲；(使) 旋绕**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***curly*** adj
 ---
@@ -24186,16 +17307,6 @@ People have always been curious ________ how living things on the earth exactly 
 1. *高义频：* **卷曲的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***currency*** n
 ---
@@ -24208,16 +17319,6 @@ People have always been curious ________ how living things on the earth exactly 
 ---
 1. *高义频：* **[C] & [U] 通货；货币；支付手段**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***current*** n
@@ -24249,16 +17350,6 @@ People have always been curious ________ how living things on the earth exactly 
 > go with / against the current of the times  
 > 顺应/违背时代潮流
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***current*** adj
 ---
@@ -24287,16 +17378,10 @@ People have always been curious ________ how living things on the earth exactly 
 > a current account  
 > 活期存款账户
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 currently /'kʌrəntli/ adv 
-真题解析
----
-[null]
-
 
 # ***currently*** adv
 ---
@@ -24309,16 +17394,6 @@ currently /'kʌrəntli/ adv
 ---
 1. **现在；通常；当前**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***curriculum*** n
@@ -24333,16 +17408,6 @@ currently /'kʌrəntli/ adv
 1. *高义频：* **[C] (pl curriculums /curricula) 全部课程；(一门) 课程**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***curse*** vt
 ---
@@ -24356,16 +17421,6 @@ currently /'kʌrəntli/ adv
 1. *高义频：* **诅咒；咒骂**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***curse*** n
 ---
@@ -24378,16 +17433,6 @@ currently /'kʌrəntli/ adv
 ---
 1. *高义频：* **[C] 诅咒；咒骂；骂人话**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***curtain*** n
@@ -24413,16 +17458,6 @@ currently /'kʌrəntli/ adv
 > As the curtain rises, a cottage is seen on the stage.  
 > 幕布升起时，舞台上出现了一所农舍。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***curtsy*** vi
 ---
@@ -24436,16 +17471,6 @@ currently /'kʌrəntli/ adv
 1. *高义频：* **(also curtsey) 行屈膝礼**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***curtsy*** n
 ---
@@ -24458,16 +17483,6 @@ currently /'kʌrəntli/ adv
 ---
 1. *高义频：* **(女子行的) 屈膝礼**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***curve*** n
@@ -24483,16 +17498,6 @@ currently /'kʌrəntli/ adv
 1. *高义频：* **曲线；弧线**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***curve*** v
 ---
@@ -24506,16 +17511,10 @@ currently /'kʌrəntli/ adv
 1. *高义频：* **(使) 弯曲**  
 
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 curved /kɜːvd/ adj 
-真题解析
----
-[null]
-
 
 # ***cushion*** n
 ---
@@ -24528,16 +17527,6 @@ curved /kɜːvd/ adj
 ---
 1. *高义频：* **[C] 垫子；坐垫；靠垫**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***custom*** n
@@ -24565,16 +17554,6 @@ curved /kɜːvd/ adj
 > It was her custom to rise early.  
 > 她有早起的习惯。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***customer*** n
 ---
@@ -24591,16 +17570,6 @@ curved /kɜːvd/ adj
 > **a regular customer**  
 > a regular customer  
 > 老顾客；常客
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***customs*** n
@@ -24623,16 +17592,6 @@ curved /kɜːvd/ adj
 
 > I paid 40 dollars in customs on the Swiss watch.  
 > 我为这块瑞士表付了40美元关税。
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cut*** v  重难点词汇
@@ -24706,6 +17665,7 @@ curved /kɜːvd/ adj
 
 > Cutting carbon has an immediate effect as costs drop.  
 > 减少碳排放量的直接效果就是降低成本。
+
 
 固定搭配
 ---
@@ -24787,9 +17747,7 @@ to reduce the amount of sth：
 > Cut up the carrots before you put them into the pot.  
 > 把胡萝卜切碎后放入锅内。
 
-派生词汇
----
-[null]
+
 真题解析
 ---
 ##### 题目  
@@ -24804,7 +17762,6 @@ My uncle hasn’t been able to quit smoking, but at least he has cut ________.
 I was just talking to Margaret when Jackson cut ________.  
 ##### 答案 in  
   
-
 
 # ***cut*** n  重难点词汇
 ---
@@ -24838,16 +17795,6 @@ I was just talking to Margaret when Jackson cut ________.
 > The government are planning further cuts in income tax.  
 > 政府正计划进一步削减所得税。
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cute*** adj
 ---
@@ -24861,16 +17808,6 @@ I was just talking to Margaret when Jackson cut ________.
 1. *高义频：* **漂亮的；逗人喜爱的**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cutlet*** n
 ---
@@ -24883,16 +17820,6 @@ I was just talking to Margaret when Jackson cut ________.
 ---
 1. **（供烤或煎的）肉片；肉排**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cutting*** n
@@ -24908,16 +17835,6 @@ I was just talking to Margaret when Jackson cut ________.
 1. *高义频：* **剪枝；剪报；剪纸**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cyberbully*** n
 ---
@@ -24930,16 +17847,6 @@ I was just talking to Margaret when Jackson cut ________.
 ---
 1. **网霸**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cyberbully*** v
@@ -24954,16 +17861,6 @@ I was just talking to Margaret when Jackson cut ________.
 1. **网络欺凌**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cybercrime*** n
 ---
@@ -24977,16 +17874,6 @@ I was just talking to Margaret when Jackson cut ________.
 1. *高义频：* **[C] & [U] 网络犯罪**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
-
 
 # ***cyberspace*** n
 ---
@@ -24999,16 +17886,6 @@ I was just talking to Margaret when Jackson cut ________.
 ---
 1. **网络空间**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cycle*** n
@@ -25040,16 +17917,10 @@ I was just talking to Margaret when Jackson cut ________.
 > The seasons of a year make a cycle.  
 > 一年四季构成一个周期。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 cycling /'saɪklɪŋ/ n 
-真题解析
----
-[null]
-
 
 # ***cycle*** v
 ---
@@ -25072,16 +17943,10 @@ cycling /'saɪklɪŋ/ n
 > It’s frightening to be cycling to work in a sandstorm.  
 > 在沙尘暴天气里骑车去上班很可怕。
 
-固定搭配
----
-[null]
+
 派生词汇
 ---
 cycling /'saɪklɪŋ/ n 
-真题解析
----
-[null]
-
 
 # ***cyclist*** n
 ---
@@ -25094,16 +17959,6 @@ cycling /'saɪklɪŋ/ n
 ---
 1. *高义频：* **[C] 骑自行车 / 摩托车的人**  
 
-
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
 
 # ***cypress*** n
@@ -25118,13 +17973,4 @@ cycling /'saɪklɪŋ/ n
 1. **柏树**  
 
 
-固定搭配
----
-[null]
-派生词汇
----
-[null]
-真题解析
----
-[null]
 
