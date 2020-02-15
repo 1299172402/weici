@@ -1,12 +1,8 @@
 # Nn
 
 # ***nail*** n
----
-英音 neɪl     美音 neɪl
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 neɪl     美音 neɪl  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **指甲；爪；钉子**  
@@ -14,12 +10,8 @@
 
 
 # ***naked*** adj
----
-英音 'neɪkɪd     美音 'neɪkɪd
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'neɪkɪd     美音 'neɪkɪd  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **裸体的；赤条条的**  
@@ -27,12 +19,8 @@
 
 
 # ***name*** vt
----
-英音 neɪm     美音 neɪm
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 neɪm     美音 neɪm  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **给…取 / 命名 (call)：**  
@@ -72,12 +60,8 @@
 
 
 # ***name*** n
----
-英音 neɪm     美音 neɪm
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 neɪm     美音 neɪm  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -135,12 +119,8 @@
 
 
 # ***namely*** adv
----
-英音 'neɪmli     美音 'neɪmli
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'neɪmli     美音 'neɪmli  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **即；也就是：**  
@@ -151,12 +131,8 @@
 
 
 # ***nap*** n
----
-英音 næp     美音 næp
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 næp     美音 næp  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **小睡, 打盹**  
@@ -164,12 +140,8 @@
 
 
 # ***narrator*** n
----
-英音 nə'reɪtə(r)     美音 nə'reɪtər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 nə'reɪtə(r)     美音 nə'reɪtər  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -178,12 +150,8 @@
 
 
 # ***narrow*** adj
----
-英音 'nærəʊ     美音 'næroʊ
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 'nærəʊ     美音 'næroʊ  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(宽度等) 狭窄的**  
@@ -212,12 +180,8 @@
 
 
 # ***narrow*** v
----
-英音 'nærəʊ     美音 'næroʊ
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 'nærəʊ     美音 'næroʊ  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(使) 变窄；(使) 变小：**  
@@ -243,12 +207,8 @@ Parents and children should communicate more to n________ the gap between them s
   
 
 # ***narrowly*** adv
----
-英音 'nærəʊli     美音 'næroʊli
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'nærəʊli     美音 'næroʊli  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **勉强地；差点儿 (没)：**  
@@ -266,12 +226,8 @@ The final score of the basketball match was 93-94. We were only  ________ (narro
   
 
 # ***nasty*** adj
----
-英音 'nɑːsti     美音 'næsti
-
-词频 1 | 口语 2 | 书面 0 | 阅读 0
-
-
+英音 'nɑːsti     美音 'næsti  
+词频 1 | 口语 2 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **令人极不愉快的；不友善的；下流的**  
@@ -279,12 +235,8 @@ The final score of the basketball match was 93-94. We were only  ________ (narro
 
 
 # ***nation*** n
----
-英音 'neɪʃn     美音 'neɪʃn
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'neɪʃn     美音 'neɪʃn  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -310,12 +262,8 @@ The final score of the basketball match was 93-94. We were only  ________ (narro
 
 
 # ***national*** adj
----
-英音 'næʃnəl     美音 'næʃnəl
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'næʃnəl     美音 'næʃnəl  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **国家的；全国性的；民族的：**  
@@ -335,12 +283,8 @@ The final score of the basketball match was 93-94. We were only  ________ (narro
 
 
 # ***nationalism*** n
----
-英音 'næʃnəlɪzəm     美音 'næʃnəlɪzəm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'næʃnəlɪzəm     美音 'næʃnəlɪzəm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **民族主义；国家主义**  
@@ -348,12 +292,8 @@ The final score of the basketball match was 93-94. We were only  ________ (narro
 
 
 # ***nationality*** n
----
-英音 ˌnæʃə'næləti     美音 ˌnæʃə'næləti
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌnæʃə'næləti     美音 ˌnæʃə'næləti  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 国籍：**  
@@ -378,12 +318,8 @@ David Beckham’s ________ (国籍) is British.
   
 
 # ***nationwide*** adj
----
-英音 ˌneɪʃn'waɪd     美音 ˌneɪʃn'waɪd
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌneɪʃn'waɪd     美音 ˌneɪʃn'waɪd  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **全国性的；遍及全国的：**  
@@ -394,12 +330,8 @@ David Beckham’s ________ (国籍) is British.
 
 
 # ***nationwide*** adv
----
-英音 ˌneɪʃn'waɪd     美音 ˌneɪʃn'waɪd
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌneɪʃn'waɪd     美音 ˌneɪʃn'waɪd  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **在全国：**  
@@ -410,12 +342,8 @@ David Beckham’s ________ (国籍) is British.
 
 
 # ***native*** adj
----
-英音 'neɪtɪv     美音 'neɪtɪv
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 'neɪtɪv     美音 'neɪtɪv  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[只用于名词前]出生地的；本国的；本土的：**  
@@ -431,12 +359,8 @@ David Beckham’s ________ (国籍) is British.
 
 
 # ***native*** n
----
-英音 'neɪtɪv     美音 'neɪtɪv
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'neɪtɪv     美音 'neɪtɪv  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -445,12 +369,8 @@ David Beckham’s ________ (国籍) is British.
 
 
 # ***natural*** adj
----
-英音 'nætʃrəl     美音 'nætʃrəl
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 'nætʃrəl     美音 'nætʃrəl  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **大自然的；天然的：**  
@@ -474,12 +394,8 @@ David Beckham’s ________ (国籍) is British.
 
 
 # ***naturally*** adv
----
-英音 'nætʃrəli     美音 'nætʃrəli
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 'nætʃrəli     美音 'nætʃrəli  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **自然地；当然地；天生地：**  
@@ -501,12 +417,8 @@ You will be better accepted if you can speak more ________ (自然地) in public
   
 
 # ***nature*** n
----
-英音 'neɪtʃə(r)     美音 'neɪtʃər
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'neɪtʃə(r)     美音 'neɪtʃər  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 大自然；自然界：**  
@@ -551,12 +463,8 @@ nature意为“大自然”时，其前不加冠词。
 
 
 # ***naughty*** adj
----
-英音 'nɔːti     美音 'nɔːti
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'nɔːti     美音 'nɔːti  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **顽皮的；淘气的**  
@@ -564,12 +472,8 @@ nature意为“大自然”时，其前不加冠词。
 
 
 # ***navigation*** n
----
-英音 ˌnævɪ'ɡeɪʃn     美音 ˌnævɪ'ɡeɪʃn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 ˌnævɪ'ɡeɪʃn     美音 ˌnævɪ'ɡeɪʃn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -578,12 +482,8 @@ nature意为“大自然”时，其前不加冠词。
 
 
 # ***navigator*** n
----
-英音 'nævɪɡeɪtə(r)     美音 'nævɪɡeɪtər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'nævɪɡeɪtə(r)     美音 'nævɪɡeɪtər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **领航员；（飞机的）驾驶员**  
@@ -591,12 +491,8 @@ nature意为“大自然”时，其前不加冠词。
 
 
 # ***navy*** n
----
-英音 'neɪvi     美音 'neɪvi
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'neɪvi     美音 'neɪvi  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -609,12 +505,8 @@ nature意为“大自然”时，其前不加冠词。
 
 
 # ***near*** prep
----
-英音 nɪə(r)     美音 nɪr
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 nɪə(r)     美音 nɪr  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(空间、时间) 接近；靠近：**  
@@ -630,12 +522,8 @@ nature意为“大自然”时，其前不加冠词。
 二者都可作介词，表示“在附近”，但也有细微差别。
 
 # ***near*** adj
----
-英音 nɪə(r)     美音 nɪr
-
-词频 5 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 nɪə(r)     美音 nɪr  
+词频 5 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(空间、时间) 近的；接近的 (close)：**  
@@ -653,12 +541,8 @@ nature意为“大自然”时，其前不加冠词。
 
 
 # ***near*** adv
----
-英音 nɪə(r)     美音 nɪr
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 nɪə(r)     美音 nɪr  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(空间、时间) 接近；靠近：**  
@@ -674,12 +558,8 @@ nature意为“大自然”时，其前不加冠词。
 
 
 # ***near*** v
----
-英音 nɪə(r)     美音 nɪr
-
-词频 5 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  vt & vi
+英音 nɪə(r)     美音 nɪr  
+词频 5 | 口语 2 | 书面 1 | 阅读 0  用法点拨  vt & vi
 
 英文释义
 ---
@@ -691,12 +571,8 @@ nature意为“大自然”时，其前不加冠词。
 
 
 # ***nearby*** adv
----
-英音 ˌnɪə'baɪ     美音 ˌnɪr'baɪ
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌnɪə'baɪ     美音 ˌnɪr'baɪ  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **在附近：**  
@@ -710,12 +586,8 @@ nature意为“大自然”时，其前不加冠词。
 
 
 # ***nearby*** adj
----
-英音 ˌnɪə'baɪ     美音 ˌnɪr'baɪ
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 ˌnɪə'baɪ     美音 ˌnɪr'baɪ  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **附近的：**  
@@ -726,12 +598,8 @@ nature意为“大自然”时，其前不加冠词。
 
 
 # ***nearly*** adv
----
-英音 'nɪəli     美音 'nɪəli
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'nɪəli     美音 'nɪəli  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **几乎；差不多：**  
@@ -757,12 +625,8 @@ nature意为“大自然”时，其前不加冠词。
 
 
 # ***neat*** adj
----
-英音 niːt     美音 niːt
-
-词频 2 | 口语 2 | 书面 0 | 阅读 0
-
-
+英音 niːt     美音 niːt  
+词频 2 | 口语 2 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(场所) 整洁的；整齐的：**  
@@ -783,12 +647,8 @@ nature意为“大自然”时，其前不加冠词。
 neatly /niːtli/ adv 
 
 # ***necessarily*** adv
----
-英音 ˌnesə'serəli,'nesəsərəli     美音 ˌnesə'serəli
-
-词频 3 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 ˌnesə'serəli,'nesəsərəli     美音 ˌnesə'serəli  
+词频 3 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **必然地；必需地：**  
@@ -800,12 +660,8 @@ neatly /niːtli/ adv
 
 
 # ***necessary*** adj
----
-英音 'nesəsəri     美音 'nesəseri
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 'nesəsəri     美音 'nesəseri  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **必需的；必要的 (essential)：**  
@@ -874,12 +730,8 @@ neatly /niːtli/ adv
   
 
 # ***necessity*** n
----
-英音 nə'sesəti     美音 nə'sesəti
-
-词频 2 | 口语 0 | 书面 0 | 阅读 2
-
-
+英音 nə'sesəti     美音 nə'sesəti  
+词频 2 | 口语 0 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **[U] 必要 (性)；需要：**  
@@ -901,12 +753,8 @@ neatly /niːtli/ adv
 
 
 # ***neck*** n
----
-英音 nek     美音 nek
-
-词频 3 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 nek     美音 nek  
+词频 3 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -922,12 +770,8 @@ neatly /niːtli/ adv
 
 
 # ***necklace*** n
----
-英音 'nekləs     美音 'nekləs
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'nekləs     美音 'nekləs  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -936,12 +780,8 @@ neatly /niːtli/ adv
 
 
 # ***need*** n  重难点词汇
----
-英音 niːd     美音 niːd
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 niːd     美音 niːd  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] [单数] 需要；必要：**  
@@ -999,12 +839,8 @@ Many Chinese universities provide scholarships for students ________ need of fin
   
 
 # ***need*** vt  重难点词汇
----
-英音 niːd     美音 niːd
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 niːd     美音 niːd  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **需要；必需**  
@@ -1042,12 +878,8 @@ We’ve had a good start, but next, more work needs ________ (do) to achieve the
   
 
 # ***need*** modal v  重难点词汇
----
-英音 niːd     美音 niːd
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 niːd     美音 niːd  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[无时态、人称变化，多用于否定句和疑问句] 需要；必须：**  
@@ -1085,12 +917,8 @@ I ________ (原不必担心) before I came to the new school, for my classmates 
   
 
 # ***needle*** n
----
-英音 'niːdl     美音 'niːdl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'niːdl     美音 'niːdl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1102,12 +930,8 @@ I ________ (原不必担心) before I came to the new school, for my classmates 
 
 
 # ***negative*** adj
----
-英音 'neɡətɪv     美音 'neɡətɪv
-
-词频 4 | 口语 2 | 书面 2 | 阅读 3
-
-
+英音 'neɡətɪv     美音 'neɡətɪv  
+词频 4 | 口语 2 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **否定的：**  
@@ -1138,12 +962,8 @@ I ________ (原不必担心) before I came to the new school, for my classmates 
 
 
 # ***negative*** n
----
-英音 'neɡətɪv     美音 'neɡətɪv
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'neɡətɪv     美音 'neɡətɪv  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **底片；否定**  
@@ -1151,12 +971,8 @@ I ________ (原不必担心) before I came to the new school, for my classmates 
 
 
 # ***neglect*** vt
----
-英音 nɪ'ɡlekt     美音 nɪ'ɡlekt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 nɪ'ɡlekt     美音 nɪ'ɡlekt  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **忽视；疏忽；漏做 (某事)：**  
@@ -1174,12 +990,8 @@ I ________ (原不必担心) before I came to the new school, for my classmates 
 
 
 # ***negotiate*** v
----
-英音 nɪ'ɡəʊʃieɪt     美音 nɪ'ɡoʊʃieɪt
-
-词频 2 | 口语 1 | 书面 1 | 阅读 1
-
-
+英音 nɪ'ɡəʊʃieɪt     美音 nɪ'ɡoʊʃieɪt  
+词频 2 | 口语 1 | 书面 1 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **谈判；协商**  
@@ -1209,12 +1021,8 @@ The minister said, “We are ready for discussions with any legal parties, but w
   
 
 # ***neigh*** n
----
-英音 neɪ     美音 neɪ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 neɪ     美音 neɪ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（马）嘶鸣**  
@@ -1222,12 +1030,8 @@ The minister said, “We are ready for discussions with any legal parties, but w
 
 
 # ***neigh*** v
----
-英音 neɪ     美音 neɪ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 neɪ     美音 neɪ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（马）嘶鸣**  
@@ -1235,12 +1039,8 @@ The minister said, “We are ready for discussions with any legal parties, but w
 
 
 # ***neighbo(u)r*** n
----
-英音 'neɪbə(r)     美音 'neɪbər
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'neɪbə(r)     美音 'neɪbər  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1265,12 +1065,8 @@ One of our ________ (邻居) kept a very beautiful garden.
   
 
 # ***neighbo(u)rhood*** n
----
-英音 'neɪbəhʊd     美音 'neɪbərhʊd
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 'neɪbəhʊd     美音 'neɪbərhʊd  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 社区；街坊；(某特定的) 地段：**  
@@ -1295,12 +1091,8 @@ One of our ________ (邻居) kept a very beautiful garden.
 
 
 # ***neighbourhood*** n
----
-英音 'neɪbəhʊd     美音 'neɪbərhʊd
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'neɪbəhʊd     美音 'neɪbərhʊd  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **街坊；邻近地区**  
@@ -1308,12 +1100,8 @@ One of our ________ (邻居) kept a very beautiful garden.
 
 
 # ***neither*** pron
----
-英音 'naɪðə(r),'niːðə(r)     美音 'naɪðər,'niːðər
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 'naɪðə(r),'niːðə(r)     美音 'naɪðər,'niːðər  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(两者之中) 无一个：**  
@@ -1344,12 +1132,8 @@ Larry asks Bill and Peter to go on a picnic with him, but ________ of them wants
   
 
 # ***neither*** adv
----
-英音 'naɪðə(r),'niːðə(r)     美音 'naɪðər,'niːðər
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 'naɪðə(r),'niːðə(r)     美音 'naɪðər,'niːðər  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **也不：**  
@@ -1398,12 +1182,8 @@ neither ... nor可连接并列的主语、宾语、谓语、表语等。连接�
   
 
 # ***neither*** adj
----
-英音 'naɪðə(r),'niːðə(r)     美音 'naɪðər,'niːðər
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 'naɪðə(r),'niːðə(r)     美音 'naɪðər,'niːðər  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(两者) 都不的：**  
@@ -1415,12 +1195,8 @@ neither ... nor可连接并列的主语、宾语、谓语、表语等。连接�
 neither与单数名词连用时，谓语动词用单数。
 
 # ***nephew*** n
----
-英音 'nefjuː, 'nevjuː     美音 'nefjuː, 'nevjuː
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'nefjuː, 'nevjuː     美音 'nefjuː, 'nevjuː  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1436,12 +1212,8 @@ Bob’s ________ (侄子) is a freshman at Harvard University.
   
 
 # ***nerve*** n
----
-英音 nɜːv     美音 nɜːrv
-
-词频 2 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 nɜːv     美音 nɜːrv  
+词频 2 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1466,12 +1238,8 @@ Bob’s ________ (侄子) is a freshman at Harvard University.
 
 
 # ***nervous*** adj
----
-英音 'nɜːvəs     美音 'nɜːrvəs
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 'nɜːvəs     美音 'nɜːrvəs  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **神经的；神经方面的：**  
@@ -1493,12 +1261,8 @@ Bob’s ________ (侄子) is a freshman at Harvard University.
 nervously /'nɜːvəsli/ adv 
 
 # ***nest*** n
----
-英音 nest     美音 nest
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 nest     美音 nest  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1510,12 +1274,8 @@ nervously /'nɜːvəsli/ adv
 
 
 # ***net*** n
----
-英音 net     美音 net
-
-词频 3 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 net     美音 net  
+词频 3 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1531,12 +1291,8 @@ nervously /'nɜːvəsli/ adv
 
 
 # ***net*** adj
----
-英音 net     美音 net
-
-词频 3 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 net     美音 net  
+词频 3 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. **净得的；纯的**  
@@ -1544,12 +1300,8 @@ nervously /'nɜːvəsli/ adv
 
 
 # ***network*** n
----
-英音 'netwɜːk     美音 'netwɜːrk
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'netwɜːk     美音 'netwɜːrk  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1572,12 +1324,8 @@ nervously /'nɜːvəsli/ adv
 
 
 # ***network*** v
----
-英音 'netwɜːk     美音 'netwɜːrk
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 'netwɜːk     美音 'netwɜːrk  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. **将…连接成网络；联播**  
@@ -1588,12 +1336,8 @@ nervously /'nɜːvəsli/ adv
 
 
 # ***neutral*** n
----
-英音 'njuːtrəl     美音 'nuːtrəl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'njuːtrəl     美音 'nuːtrəl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1602,12 +1346,8 @@ nervously /'nɜːvəsli/ adv
 
 
 # ***neutral*** adj
----
-英音 'njuːtrəl     美音 'nuːtrəl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'njuːtrəl     美音 'nuːtrəl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **中立的；不偏不倚的；中性的**  
@@ -1615,12 +1355,8 @@ nervously /'nɜːvəsli/ adv
 
 
 # ***never*** adv
----
-英音 'nevə(r)     美音 'nevər
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'nevə(r)     美音 'nevər  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **从不；从未；永不：**  
@@ -1679,12 +1415,8 @@ I can ________ (永不) be a teacher. I’m not a very patient person.
   
 
 # ***nevertheless*** adv
----
-英音 ˌnevəðə'les     美音 ˌnevərðə'les
-
-词频 2 | 口语 1 | 书面 2 | 阅读 1
-
-
+英音 ˌnevəðə'les     美音 ˌnevərðə'les  
+词频 2 | 口语 1 | 书面 2 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **然而；不过：**  
@@ -1698,12 +1430,8 @@ I can ________ (永不) be a teacher. I’m not a very patient person.
 
 
 # ***new*** adj
----
-英音 njuː     美音 nuː
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 njuː     美音 nuː  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **新的【反:old】；重新的：**  
@@ -1728,12 +1456,8 @@ I can ________ (永不) be a teacher. I’m not a very patient person.
 newly /'njuːli/ adv 
 
 # ***news*** n
----
-英音 njuːz     美音 nuːz
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [U]
+英音 njuːz     美音 nuːz  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -1754,12 +1478,8 @@ newly /'njuːli/ adv
 
 
 # ***newsflash*** n
----
-英音 'njuːzflæʃ     美音 'nuːzflæʃ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'njuːzflæʃ     美音 'nuːzflæʃ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **新闻快讯**  
@@ -1767,12 +1487,8 @@ newly /'njuːli/ adv
 
 
 # ***newsletter*** n
----
-英音 'njuːzletə(r)     美音 'nuːzletər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'njuːzletə(r)     美音 'nuːzletər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1781,12 +1497,8 @@ newly /'njuːli/ adv
 
 
 # ***newspaper*** n
----
-英音 'njuːzpeɪpə(r)     美音 'nuːzpeɪpər
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'njuːzpeɪpə(r)     美音 'nuːzpeɪpər  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1807,12 +1519,8 @@ newly /'njuːli/ adv
 
 
 # ***next*** n & pron
----
-英音 nekst     美音 nekst
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 nekst     美音 nekst  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **下一个人 / 物：**  
@@ -1839,12 +1547,8 @@ newly /'njuːli/ adv
 
 
 # ***next*** adj
----
-英音 nekst     美音 nekst
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 nekst     美音 nekst  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[只用于名词前] 下一个的；接下来的：**  
@@ -1871,12 +1575,8 @@ newly /'njuːli/ adv
 
 
 # ***next*** adv
----
-英音 nekst     美音 nekst
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 nekst     美音 nekst  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **接下来；下次：**  
@@ -1894,12 +1594,8 @@ newly /'njuːli/ adv
 
 
 # ***nice*** adj
----
-英音 naɪs     美音 naɪs
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 naɪs     美音 naɪs  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **美好的；极好的：**  
@@ -1941,12 +1637,8 @@ newly /'njuːli/ adv
 nicely /'naɪsli/ adv 
 
 # ***nickname*** n
----
-英音 'nɪkneɪm     美音 'nɪkneɪm
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'nɪkneɪm     美音 'nɪkneɪm  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1962,12 +1654,8 @@ nicely /'naɪsli/ adv
 
 
 # ***nicotine*** n
----
-英音 'nɪkətiːn     美音 'nɪkətiːn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U] 
+英音 'nɪkətiːn     美音 'nɪkətiːn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U] 
 
 英文释义
 ---
@@ -1976,12 +1664,8 @@ nicely /'naɪsli/ adv
 
 
 # ***niece*** n
----
-英音 niːs     美音 niːs
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 niːs     美音 niːs  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1990,12 +1674,8 @@ nicely /'naɪsli/ adv
 
 
 # ***night*** n
----
-英音 naɪt     美音 naɪt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C] & [U] 
+英音 naɪt     美音 naɪt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C] & [U] 
 
 英文释义
 ---
@@ -2032,12 +1712,8 @@ nicely /'naɪsli/ adv
 
 
 # ***nightfall*** n
----
-英音 'naɪtfɔːl     美音 'naɪtfɔːl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'naɪtfɔːl     美音 'naɪtfɔːl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -2046,12 +1722,8 @@ nicely /'naɪsli/ adv
 
 
 # ***nightmare*** n
----
-英音 'naɪtmeə(r)     美音 'naɪtmer
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'naɪtmeə(r)     美音 'naɪtmer  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **噩梦**  
@@ -2059,12 +1731,8 @@ nicely /'naɪsli/ adv
 
 
 # ***nitrogen*** n
----
-英音 'naɪtrədʒən     美音 'naɪtrədʒən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'naɪtrədʒən     美音 'naɪtrədʒən  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -2073,12 +1741,8 @@ nicely /'naɪsli/ adv
 
 
 # ***no*** adv
----
-英音 nəʊ     美音 noʊ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 nəʊ     美音 noʊ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[表示否定回答] 不；不是：**  
@@ -2107,12 +1771,8 @@ nicely /'naɪsli/ adv
 
 
 # ***no*** adj
----
-英音 nəʊ     美音 noʊ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 nəʊ     美音 noʊ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **没有的 (not any / not a)：**  
@@ -2151,12 +1811,8 @@ nicely /'naɪsli/ adv
 
 
 # ***noble*** adj
----
-英音 'nəʊbl     美音 'noʊbl
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'nəʊbl     美音 'noʊbl  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **贵族的；高贵的；崇高的：**  
@@ -2171,12 +1827,8 @@ nicely /'naɪsli/ adv
 
 
 # ***noble*** n
----
-英音 'nəʊbl     美音 'noʊbl
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'nəʊbl     美音 'noʊbl  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2185,12 +1837,8 @@ nicely /'naɪsli/ adv
 
 
 # ***nobody*** n
----
-英音 'nəʊbədi     美音 'noʊbədi
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'nəʊbədi     美音 'noʊbədi  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2202,12 +1850,8 @@ nicely /'naɪsli/ adv
 
 
 # ***nobody*** pron
----
-英音 'nəʊbədi     美音 'noʊbədi
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 'nəʊbədi     美音 'noʊbədi  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **没有人；无人 (no one)：**  
@@ -2230,12 +1874,8 @@ The meeting will be held in September, but ________ (没人) knows the date for 
   
 
 # ***nod*** n
----
-英音 nɒd     美音 nɑːd
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 nɒd     美音 nɑːd  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2251,12 +1891,8 @@ The meeting will be held in September, but ________ (没人) knows the date for 
 
 
 # ***nod*** v
----
-英音 nɒd     美音 nɑːd
-
-词频 3 | 口语 0 | 书面 2 | 阅读 0
-
-
+英音 nɒd     美音 nɑːd  
+词频 3 | 口语 0 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **vi & vt [表示同意或打招呼等] 点头：**  
@@ -2275,12 +1911,8 @@ The meeting will be held in September, but ________ (没人) knows the date for 
 
 
 # ***noise*** n
----
-英音 nɔɪz     美音 nɔɪz
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 nɔɪz     美音 nɔɪz  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -2298,12 +1930,8 @@ The meeting will be held in September, but ________ (没人) knows the date for 
 
 
 # ***noisy*** adj
----
-英音 'nɔɪzi     美音 'nɔɪzi
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'nɔɪzi     美音 'nɔɪzi  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **吵闹的；喧闹的；嘈杂的：**  
@@ -2324,12 +1952,8 @@ The meeting will be held in September, but ________ (没人) knows the date for 
 noisily  /'nɔɪzɪli/ adv 
 
 # ***non-smoker*** n
----
-英音 nɒn'sməʊkə(r)     美音 nɒn'smoʊkər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 nɒn'sməʊkə(r)     美音 nɒn'smoʊkər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2338,12 +1962,8 @@ noisily  /'nɔɪzɪli/ adv
 
 
 # ***non-smoking*** adj
----
-英音 ˌnɒn 'sməʊkɪŋ     美音 ˌnɒn 'smoʊkɪŋ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌnɒn 'sməʊkɪŋ     美音 ˌnɒn 'smoʊkɪŋ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **禁止吸烟的**  
@@ -2351,12 +1971,8 @@ noisily  /'nɔɪzɪli/ adv
 
 
 # ***none*** pron
----
-英音 nʌn     美音 nʌn
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 nʌn     美音 nʌn  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[三个或三个以上的人或事中] 没有一个：**  
@@ -2408,12 +2024,8 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
   
 
 # ***nonsense*** n
----
-英音 'nɒnsns     美音 'nɑːnsens
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'nɒnsns     美音 'nɑːnsens  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -2426,12 +2038,8 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
 
 
 # ***nonstop*** adv
----
-英音 ˌnɒn'stɒp     美音 ˌnɒn'stɒp
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌnɒn'stɒp     美音 ˌnɒn'stɒp  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **不停地；连续不断地；直达地：**  
@@ -2442,12 +2050,8 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
 
 
 # ***nonstop*** adj
----
-英音 ˌnɒn'stɒp     美音 ˌnɒn'stɒp
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌnɒn'stɒp     美音 ˌnɒn'stɒp  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **不停的；连续不断的 (continuous)；直达的 (direct)：**  
@@ -2461,12 +2065,8 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
 
 
 # ***nonverbal*** adj
----
-英音 ˌnɒn'vɜːbl     美音 ˌnɒn'vɜːbəl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌnɒn'vɜːbl     美音 ˌnɒn'vɜːbəl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **不用语言的；不用言辞表达的**  
@@ -2474,12 +2074,8 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
 
 
 # ***noodle*** n
----
-英音 'nuːdl     美音 'nuːdl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'nuːdl     美音 'nuːdl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2488,12 +2084,8 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
 
 
 # ***noon*** n
----
-英音 nuːn     美音 nuːn
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 nuːn     美音 nuːn  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -2506,12 +2098,8 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
 
 
 # ***nor*** conj
----
-英音 nɔː(r)     美音 nɔːr
-
-词频 4 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 nɔː(r)     美音 nɔːr  
+词频 4 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **也不；也没有：**  
@@ -2550,12 +2138,8 @@ D.he will even give
   
 
 # ***normal*** n
----
-英音 'nɔːml     美音 'nɔːrml
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'nɔːml     美音 'nɔːrml  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -2578,12 +2162,8 @@ D.he will even give
 
 
 # ***normal*** adj
----
-英音 'nɔːml     美音 'nɔːrml
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'nɔːml     美音 'nɔːrml  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **正常的；平常的**  
@@ -2613,12 +2193,8 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
   
 
 # ***normally*** adv
----
-英音 'nɔːməli     美音 'nɔːrməli
-
-词频 4 | 口语 3 | 书面 2 | 阅读 3
-
-
+英音 'nɔːməli     美音 'nɔːrməli  
+词频 4 | 口语 3 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **通常；平常 usually：**  
@@ -2635,12 +2211,8 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 
 
 # ***north*** n
----
-英音 nɔːθ     美音 nɔːrθ
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-用法点拨  [U]
+英音 nɔːθ     美音 nɔːrθ  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -2655,12 +2227,8 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 
 
 # ***north*** adj
----
-英音 nɔːθ     美音 nɔːrθ
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 nɔːθ     美音 nɔːrθ  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **北的；北方的；北部的：**  
@@ -2674,12 +2242,8 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 
 
 # ***north*** adv
----
-英音 nɔːθ     美音 nɔːrθ
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 nɔːθ     美音 nɔːrθ  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **向北方；在北方：**  
@@ -2694,12 +2258,8 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 
 
 # ***north-east*** n
----
-英音 ˌnɔ:θˈi:st     美音 ˌnɔrθˈist
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌnɔ:θˈi:st     美音 ˌnɔrθˈist  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **东北**  
@@ -2707,12 +2267,8 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 
 
 # ***north-west*** n
----
-英音 ˌnɔ:θˈwest     美音 ˌnɔrθˈwɛst
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌnɔ:θˈwest     美音 ˌnɔrθˈwɛst  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **西北**  
@@ -2720,12 +2276,8 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 
 
 # ***northeast*** adj
----
-英音 .nɔːθ'iːst     美音 .nɔːθr'iːst
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 .nɔːθ'iːst     美音 .nɔːθr'iːst  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **东北的；东北部的：**  
@@ -2739,12 +2291,8 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 
 
 # ***northeast*** n
----
-英音 ˌnɔːθ'iːst     美音 ˌnɔːθr'iːst
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 ˌnɔːθ'iːst     美音 ˌnɔːθr'iːst  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -2756,12 +2304,8 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 
 
 # ***northeast*** adv
----
-英音 ˌnɔːθ'iːst     美音 ˌnɔːθr'iːst
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌnɔːθ'iːst     美音 ˌnɔːθr'iːst  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **向东北；在东北：**  
@@ -2772,12 +2316,8 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 
 
 # ***northern*** adj
----
-英音 'nɔːðən     美音 'nɔːrðərn
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'nɔːðən     美音 'nɔːrðərn  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[常作Northern] 北方的；北部的：**  
@@ -2795,12 +2335,8 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 northerner /'nɔːðənə(r)/ n [C]
 
 # ***northwest*** adv
----
-英音 ˌnɔːθ'west     美音 ˌnɔːθr'west
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌnɔːθ'west     美音 ˌnɔːθr'west  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **向西北；在西北：**  
@@ -2811,12 +2347,8 @@ northerner /'nɔːðənə(r)/ n [C]
 
 
 # ***northwest*** adj
----
-英音 ˌnɔːθ'west     美音 ˌnɔːθr'west
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌnɔːθ'west     美音 ˌnɔːθr'west  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **西北的；西北部的：**  
@@ -2827,12 +2359,8 @@ northerner /'nɔːðənə(r)/ n [C]
 
 
 # ***northwest*** n
----
-英音 ˌnɔːθ'west     美音 ˌnɔːθr'west
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 ˌnɔːθ'west     美音 ˌnɔːθr'west  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -2844,12 +2372,8 @@ northerner /'nɔːðənə(r)/ n [C]
 
 
 # ***northwestern*** adj
----
-英音 'nɔːθ'westən     美音 'nɔːθ'westən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'nɔːθ'westən     美音 'nɔːθ'westən  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **西北部的；来自西北部的**  
@@ -2857,12 +2381,8 @@ northerner /'nɔːðənə(r)/ n [C]
 
 
 # ***nose*** n
----
-英音 nəʊz     美音 noʊz
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 nəʊz     美音 noʊz  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2889,12 +2409,8 @@ northerner /'nɔːðənə(r)/ n [C]
 
 
 # ***nosebleed*** n
----
-英音 'nəʊzbliːd     美音 'noʊzbliːd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'nəʊzbliːd     美音 'noʊzbliːd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2903,12 +2419,8 @@ northerner /'nɔːðənə(r)/ n [C]
 
 
 # ***not*** adv
----
-英音 nɒt     美音 nɑːt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 nɒt     美音 nɑːt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **不；没；不是：**  
@@ -3016,12 +2528,8 @@ It is often said that the joy of travelling is not in arriving at your destinati
   
 
 # ***note*** n
----
-英音 nəʊt     美音 noʊt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 nəʊt     美音 noʊt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3093,12 +2601,8 @@ It is often said that the joy of travelling is not in arriving at your destinati
 
 
 # ***note*** vt
----
-英音 nəʊt     美音 noʊt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [正式用语]
+英音 nəʊt     美音 noʊt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [正式用语]
 
 英文释义
 ---
@@ -3141,12 +2645,8 @@ Scientists have responded by ________ (note) that hungry bears may be congregati
   
 
 # ***notebook*** n
----
-英音 'nəʊtbʊk     美音 'noʊtbʊk
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'nəʊtbʊk     美音 'noʊtbʊk  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3155,12 +2655,8 @@ Scientists have responded by ________ (note) that hungry bears may be congregati
 
 
 # ***notepad*** n
----
-英音 'nəʊtpæd     美音 'noʊtpæd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'nəʊtpæd     美音 'noʊtpæd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3169,12 +2665,8 @@ Scientists have responded by ________ (note) that hungry bears may be congregati
 
 
 # ***nothing*** pron
----
-英音 'nʌθɪŋ     美音 'nʌθɪŋ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'nʌθɪŋ     美音 'nʌθɪŋ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **没有东西；没有事情：**  
@@ -3266,12 +2758,8 @@ I got this bicycle ________ nothing: My friend gave it to me when she bought a n
   
 
 # ***nothing*** n
----
-英音 'nʌθɪŋ     美音 'nʌθɪŋ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [U]
+英音 'nʌθɪŋ     美音 'nʌθɪŋ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -3357,12 +2845,8 @@ I got this bicycle for _________: My friend gave it to me when she bought a new 
   
 
 # ***notice*** n
----
-英音 'nəʊtɪs     美音 'noʊtɪs
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'nəʊtɪs     美音 'noʊtɪs  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 注意：**  
@@ -3399,12 +2883,8 @@ I got this bicycle for _________: My friend gave it to me when she bought a new 
 
 
 # ***notice*** v
----
-英音 'nəʊtɪs     美音 'noʊtɪs
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 'nəʊtɪs     美音 'noʊtɪs  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[通常不用于进行时] 察觉 (到)；注意 (到)：**  
@@ -3445,12 +2925,8 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
   
 
 # ***novel*** n
----
-英音 'nɒvl     美音 'nɑːvl
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 'nɒvl     美音 'nɑːvl  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3459,12 +2935,8 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 
 # ***novel*** adj
----
-英音 'nɒvl     美音 'nɑːvl
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'nɒvl     美音 'nɑːvl  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **新奇的；异常的**  
@@ -3472,12 +2944,8 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 
 # ***novelist*** n
----
-英音 'nɒvəlɪst     美音 'nɑːvəlɪst
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'nɒvəlɪst     美音 'nɑːvəlɪst  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3489,12 +2957,8 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 
 # ***now*** adv
----
-英音 naʊ     美音 naʊ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 naʊ     美音 naʊ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[表示时间段] 现在；目前：**  
@@ -3565,12 +3029,8 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 
 # ***now*** n
----
-英音 naʊ     美音 naʊ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [U]
+英音 naʊ     美音 naʊ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -3595,12 +3055,8 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 
 # ***now*** conj
----
-英音 naʊ     美音 naʊ
-
-词频 5 | 口语 3 | 书面 1 | 阅读 0
-
-
+英音 naʊ     美音 naʊ  
+词频 5 | 口语 3 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[常用now that] 既然；由于：**  
@@ -3614,12 +3070,8 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 
 # ***nowadays*** adv
----
-英音 'naʊədeɪz     美音 'naʊədeɪz
-
-词频 4 | 口语 2 | 书面 0 | 阅读 0
-
-
+英音 'naʊədeɪz     美音 'naʊədeɪz  
+词频 4 | 口语 2 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(与过去相比) 如今；现在：**  
@@ -3630,12 +3082,8 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 
 # ***noway*** adv
----
-英音 ˌnəʊ'weɪ     美音 ˌnoʊ'weɪ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌnəʊ'weɪ     美音 ˌnoʊ'weɪ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(AmE) 决不； 一点儿也不**  
@@ -3643,12 +3091,8 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 
 # ***nowhere*** adv
----
-英音 'nəʊweə(r)     美音 'noʊwer
-
-词频 3 | 口语 2 | 书面 0 | 阅读 0
-
-
+英音 'nəʊweə(r)     美音 'noʊwer  
+词频 3 | 口语 2 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **任何地方都不 (not anywhere)：**  
@@ -3688,12 +3132,8 @@ D.near nowhere enough
   
 
 # ***nuclear*** adj
----
-英音 'njuːkliə(r)     美音 'nuːkliər
-
-词频 3 | 口语 0 | 书面 1 | 阅读 2
-
-
+英音 'njuːkliə(r)     美音 'nuːkliər  
+词频 3 | 口语 0 | 书面 1 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **核的；核能的；核心的：**  
@@ -3709,12 +3149,8 @@ D.near nowhere enough
 
 
 # ***nucleus*** n
----
-英音 'njuːkliəs     美音 'nuːkliəs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'njuːkliəs     美音 'nuːkliəs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3723,12 +3159,8 @@ D.near nowhere enough
 
 
 # ***nudge*** v
----
-英音 nʌdʒ     美音 nʌdʒ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 nʌdʒ     美音 nʌdʒ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **摊开**  
@@ -3736,12 +3168,8 @@ D.near nowhere enough
 
 
 # ***nudge*** n
----
-英音 nʌdʒ     美音 nʌdʒ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 nʌdʒ     美音 nʌdʒ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（通常用肘）轻推**  
@@ -3749,12 +3177,8 @@ D.near nowhere enough
 
 
 # ***nuisance*** n
----
-英音 'njuːsns     美音 'nuːsns
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'njuːsns     美音 'nuːsns  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **令人讨厌的人或事**  
@@ -3762,12 +3186,8 @@ D.near nowhere enough
 
 
 # ***numb*** adj
----
-英音 nʌm     美音 nʌm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 nʌm     美音 nʌm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **失去知觉的；麻木的：**  
@@ -3782,12 +3202,8 @@ D.near nowhere enough
 
 
 # ***number*** n
----
-英音 'nʌmbə(r)     美音 'nʌmbər
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'nʌmbə(r)     美音 'nʌmbər  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3824,12 +3240,8 @@ D.near nowhere enough
 a number of后接复数名词，作主语时，谓语动词用复数。the number of后接复数名词，作主语时，谓语动词用单数。
 
 # ***numerology*** n
----
-英音 ˌnjuːmə'rɒlədʒi     美音 ˌnuːmə'rɑːlədʒi
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌnjuːmə'rɒlədʒi     美音 ˌnuːmə'rɑːlədʒi  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **数字命理学（以出生年月日及其他数字测定之学）**  
@@ -3837,12 +3249,8 @@ a number of后接复数名词，作主语时，谓语动词用复数。the numbe
 
 
 # ***numerous*** adj
----
-英音 'njuːmərəs     美音 'nuːmərəs
-
-词频 2 | 口语 0 | 书面 1 | 阅读 2
-
-
+英音 'njuːmərəs     美音 'nuːmərəs  
+词频 2 | 口语 0 | 书面 1 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **[正式用语] [修饰复数名词] 许多的 (many)：**  
@@ -3854,12 +3262,8 @@ a number of后接复数名词，作主语时，谓语动词用复数。the numbe
 
 
 # ***nurse*** n
----
-英音 nɜːs     美音 nɜːrs
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 nɜːs     美音 nɜːrs  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3868,12 +3272,8 @@ a number of后接复数名词，作主语时，谓语动词用复数。the numbe
 
 
 # ***nursery*** n
----
-英音 'nɜːsəri     美音 'nɜːrsəri
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'nɜːsəri     美音 'nɜːrsəri  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3885,12 +3285,8 @@ a number of后接复数名词，作主语时，谓语动词用复数。the numbe
 
 
 # ***nut*** n
----
-英音 nʌt     美音 nʌt
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 nʌt     美音 nʌt  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3903,12 +3299,8 @@ a number of后接复数名词，作主语时，谓语动词用复数。the numbe
 
 
 # ***nutrition*** n
----
-英音 nju'trɪʃn     美音 nu'trɪʃn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 nju'trɪʃn     美音 nu'trɪʃn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -3924,12 +3316,8 @@ a number of后接复数名词，作主语时，谓语动词用复数。the numbe
 
 
 # ***nutshell*** n
----
-英音 'nʌtʃel     美音 'nʌtʃel
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'nʌtʃel     美音 'nʌtʃel  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **坚果壳；简单的一句话**  

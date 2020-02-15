@@ -1,12 +1,8 @@
 # Ss
 
 # ***sack*** n
----
-英音 sæk     美音 sæk
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 sæk     美音 sæk  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -15,12 +11,8 @@
 
 
 # ***sacred*** adj
----
-英音 'seɪkrɪd     美音 'seɪkrɪd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'seɪkrɪd     美音 'seɪkrɪd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **神圣的；宗教 (性) 的：**  
@@ -40,12 +32,8 @@
 
 
 # ***sacrifice*** vt
----
-英音 'sækrɪfaɪs     美音 'sækrɪfaɪs
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 'sækrɪfaɪs     美音 'sækrɪfaɪs  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **牺牲；献祭：**  
@@ -66,12 +54,8 @@
 
 
 # ***sacrifice*** n
----
-英音 'sækrɪfaɪs     美音 'sækrɪfaɪs
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-用法点拨  [C] & [U]
+英音 'sækrɪfaɪs     美音 'sækrɪfaɪs  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -83,12 +67,8 @@
 
 
 # ***sad*** adj
----
-英音 sæd     美音 sæd
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 sæd     美音 sæd  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **难过的；令人悲痛的：**  
@@ -110,12 +90,8 @@
 
 
 # ***sadly*** adv
----
-英音 'sædli     美音 'sædli
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sædli     美音 'sædli  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **悲哀地；伤心地**  
@@ -123,12 +99,8 @@
 
 
 # ***sadness*** n
----
-英音 'sædnəs     美音 'sædnəs
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sædnəs     美音 'sædnəs  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 悲伤；难过：**  
@@ -142,12 +114,8 @@
 
 
 # ***safari*** n
----
-英音 sə'fɑːri     美音 sə'fɑːri
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sə'fɑːri     美音 sə'fɑːri  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（尤指在东非或中非的）游猎，探险旅行**  
@@ -155,12 +123,8 @@
 
 
 # ***safe*** adj
----
-英音 seɪf     美音 seɪf
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 seɪf     美音 seɪf  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **安全的；平安的；无害的：**  
@@ -176,12 +140,8 @@
 
 
 # ***safe*** n
----
-英音 seɪf     美音 seɪf
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 seɪf     美音 seɪf  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -190,12 +150,8 @@
 
 
 # ***safeguard*** v
----
-英音 'seɪfɡɑːd     美音 'seɪfɡɑːrd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'seɪfɡɑːd     美音 'seɪfɡɑːrd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **保护；捍卫：**  
@@ -207,12 +163,8 @@
 
 
 # ***safeguard*** n
----
-英音 'seɪfɡɑːd     美音 'seɪfɡɑːrd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'seɪfɡɑːd     美音 'seɪfɡɑːrd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -221,12 +173,8 @@
 
 
 # ***safely*** adv
----
-英音 'seɪfli     美音 'seɪfli
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'seɪfli     美音 'seɪfli  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **安全地；平安地**  
@@ -234,12 +182,8 @@
 
 
 # ***safety*** n
----
-英音 'seɪfti     美音 'seɪfti
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [U]
+英音 'seɪfti     美音 'seɪfti  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -266,12 +210,8 @@ For your own _______ (安全), please keep away from the tiger cage.
   
 
 # ***sail*** n
----
-英音 seɪl     美音 seɪl
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 seɪl     美音 seɪl  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 帆：**  
@@ -307,12 +247,8 @@ For your own _______ (安全), please keep away from the tiger cage.
 
 
 # ***sail*** v
----
-英音 seɪl     美音 seɪl
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 seɪl     美音 seɪl  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **航行 (于)；驾驶 (船)；起航：**  
@@ -339,12 +275,8 @@ For your own _______ (安全), please keep away from the tiger cage.
 
 
 # ***sailing*** n
----
-英音 'seɪlɪŋ     美音 'seɪlɪŋ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'seɪlɪŋ     美音 'seɪlɪŋ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 航行；帆船运动：**  
@@ -359,12 +291,8 @@ For your own _______ (安全), please keep away from the tiger cage.
 
 
 # ***sailor*** n
----
-英音 'seɪlə(r)     美音 'seɪlər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'seɪlə(r)     美音 'seɪlər  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -373,12 +301,8 @@ For your own _______ (安全), please keep away from the tiger cage.
 
 
 # ***sake*** n
----
-英音 seɪk     美音 seɪk
-
-词频 1 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [常用于以下惯用语]
+英音 seɪk     美音 seɪk  
+词频 1 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [常用于以下惯用语]
 
 固定搭配
 ---
@@ -391,12 +315,8 @@ For your own _______ (安全), please keep away from the tiger cage.
 
 
 # ***salaam*** n
----
-英音 sə'lɑːm     美音 sə'lɑːm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sə'lɑːm     美音 sə'lɑːm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（穆斯林的）额手礼（用右手抚额鞠躬的礼节）**  
@@ -404,12 +324,8 @@ For your own _______ (安全), please keep away from the tiger cage.
 
 
 # ***salad*** n
----
-英音 'sæləd     美音 'sæləd
-
-词频 2 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'sæləd     美音 'sæləd  
+词频 2 | 口语 2 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -421,12 +337,8 @@ For your own _______ (安全), please keep away from the tiger cage.
 
 
 # ***salary*** n
----
-英音 'sæləri     美音 'sæləri
-
-词频 3 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'sæləri     美音 'sæləri  
+词频 3 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -438,12 +350,8 @@ the money that employees receive for the work they have done, usually every mont
 三者都可用作名词，含“报酬”之意，都常译为“工资”。
 
 # ***sale*** n
----
-英音 seɪl     美音 seɪl
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 seɪl     美音 seɪl  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **出售；卖；销路：**  
@@ -492,12 +400,8 @@ the money that employees receive for the work they have done, usually every mont
 
 
 # ***salesgirl*** n
----
-英音 'seɪlzɡɜːl     美音 'seɪlzɡɜːrl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'seɪlzɡɜːl     美音 'seɪlzɡɜːrl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -506,12 +410,8 @@ the money that employees receive for the work they have done, usually every mont
 
 
 # ***salesman*** n
----
-英音 'seɪlzmən     美音 'seɪlzmən
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'seɪlzmən     美音 'seɪlzmən  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -520,12 +420,8 @@ the money that employees receive for the work they have done, usually every mont
 
 
 # ***saleswoman*** n
----
-英音 'seɪlzˌwʊmən     美音 'seɪlzˌwʊmən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'seɪlzˌwʊmən     美音 'seɪlzˌwʊmən  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -534,12 +430,8 @@ the money that employees receive for the work they have done, usually every mont
 
 
 # ***saliva*** n
----
-英音 sə'laɪvə     美音 sə'laɪvə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sə'laɪvə     美音 sə'laɪvə  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **唾液, 口水**  
@@ -547,12 +439,8 @@ the money that employees receive for the work they have done, usually every mont
 
 
 # ***salt*** n
----
-英音 sɔːlt; sɔlt     美音 sɔːlt
-
-词频 2 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [U]
+英音 sɔːlt; sɔlt     美音 sɔːlt  
+词频 2 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -564,12 +452,8 @@ the money that employees receive for the work they have done, usually every mont
 
 
 # ***salt*** vt
----
-英音 sɔːlt; sɔlt     美音 sɔːlt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sɔːlt; sɔlt     美音 sɔːlt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **加 / 擦盐于；腌：**  
@@ -581,12 +465,8 @@ the money that employees receive for the work they have done, usually every mont
 
 
 # ***salt*** adj
----
-英音 sɔːlt; sɔlt     美音 sɔːlt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [只用于名词前]
+英音 sɔːlt; sɔlt     美音 sɔːlt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [只用于名词前]
 
 英文释义
 ---
@@ -599,12 +479,8 @@ the money that employees receive for the work they have done, usually every mont
 
 
 # ***salty*** adj
----
-英音 'sɔːlti     美音 'sɔːlti
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sɔːlti     美音 'sɔːlti  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **咸的；含盐的**  
@@ -612,12 +488,8 @@ the money that employees receive for the work they have done, usually every mont
 
 
 # ***salute*** v
----
-英音 sə'luːt     美音 sə'luːt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sə'luːt     美音 sə'luːt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(向...) 打招呼；(向...) 行礼：**  
@@ -631,12 +503,8 @@ the money that employees receive for the work they have done, usually every mont
 
 
 # ***salute*** n
----
-英音 sə'luːt     美音 sə'luːt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 sə'luːt     美音 sə'luːt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -651,12 +519,8 @@ the money that employees receive for the work they have done, usually every mont
 
 
 # ***same*** adj  重难点词汇
----
-英音 seɪm     美音 seɪm
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [只用于名词前] [无比较级变化，常与the连用]
+英音 seɪm     美音 seɪm  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [只用于名词前] [无比较级变化，常与the连用]
 
 英文释义
 ---
@@ -687,12 +551,8 @@ the money that employees receive for the work they have done, usually every mont
 
 
 # ***same*** pron  重难点词汇
----
-英音 seɪm     美音 seɪm
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [常与the, this, that等连用]
+英音 seɪm     美音 seɪm  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [常与the, this, that等连用]
 
 英文释义
 ---
@@ -731,12 +591,8 @@ the money that employees receive for the work they have done, usually every mont
 
 
 # ***same*** adv  重难点词汇
----
-英音 seɪm     美音 seɪm
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 seɪm     美音 seɪm  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **同样地：**  
@@ -748,12 +604,8 @@ the money that employees receive for the work they have done, usually every mont
 
 
 # ***samosa*** n
----
-英音 sə'məʊsə     美音 sə'moʊsə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sə'məʊsə     美音 sə'moʊsə  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **萨莫萨炸三角饺**  
@@ -761,12 +613,8 @@ the money that employees receive for the work they have done, usually every mont
 
 
 # ***sample*** n
----
-英音 'sɑːmpl     美音 'sæmpl
-
-词频 3 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'sɑːmpl     美音 'sæmpl  
+词频 3 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -781,12 +629,8 @@ the money that employees receive for the work they have done, usually every mont
 
 
 # ***sample*** v
----
-英音 'sɑːmpl     美音 'sæmpl
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sɑːmpl     美音 'sæmpl  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **采样，尝试，品尝**  
@@ -794,12 +638,8 @@ the money that employees receive for the work they have done, usually every mont
 
 
 # ***sand*** n
----
-英音 sænd     美音 sænd
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 sænd     美音 sænd  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 沙：**  
@@ -816,12 +656,8 @@ the money that employees receive for the work they have done, usually every mont
 
 
 # ***sandstorm*** n
----
-英音 'sændstɔːm     美音 'sændstɔːrm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sændstɔːm     美音 'sændstɔːrm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **沙尘暴**  
@@ -829,12 +665,8 @@ the money that employees receive for the work they have done, usually every mont
 
 
 # ***sandwich*** n
----
-英音 'sænwɪtʃ, 'sænwɪdʒ     美音 'sænwɪtʃ, 'sænwɪdʒ
-
-词频 4 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'sænwɪtʃ, 'sænwɪdʒ     美音 'sænwɪtʃ, 'sænwɪdʒ  
+词频 4 | 口语 2 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -850,12 +682,8 @@ I usually just have a __________ (三明治) for lunch.
   
 
 # ***sandy*** adj
----
-英音 'sændi     美音 'sændi
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sændi     美音 'sændi  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **含沙的；多沙的**  
@@ -863,12 +691,8 @@ I usually just have a __________ (三明治) for lunch.
 
 
 # ***sarcastic*** adj
----
-英音 sɑː'kæstɪk     美音 sɑːr'kæstɪk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sɑː'kæstɪk     美音 sɑːr'kæstɪk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **讽刺的**  
@@ -876,12 +700,8 @@ I usually just have a __________ (三明治) for lunch.
 
 
 # ***satchel*** n
----
-英音 'sætʃəl     美音 'sætʃəl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sætʃəl     美音 'sætʃəl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **书包，小背包**  
@@ -889,12 +709,8 @@ I usually just have a __________ (三明治) for lunch.
 
 
 # ***satellite*** n
----
-英音 'sætəlaɪt     美音 'sætəlaɪt
-
-词频 3 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 'sætəlaɪt     美音 'sætəlaɪt  
+词频 3 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -906,12 +722,8 @@ I usually just have a __________ (三明治) for lunch.
 
 
 # ***satisfaction*** n
----
-英音 ˌsætɪs'fækʃn     美音 ˌsætɪs'fækʃn
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 ˌsætɪs'fækʃn     美音 ˌsætɪs'fækʃn  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -945,12 +757,8 @@ I usually just have a __________ (三明治) for lunch.
 
 
 # ***satisfactory*** adj
----
-英音 ˌsætɪs'fæktəri     美音 ˌsætɪs'fæktəri
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌsætɪs'fæktəri     美音 ˌsætɪs'fæktəri  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **令人满意的；恰当的：**  
@@ -965,12 +773,8 @@ I usually just have a __________ (三明治) for lunch.
 satisfactorily /ˌsætɪs'fæktərəli/ adv 
 
 # ***satisfied*** adj
----
-英音 'sætɪsfaɪd     美音 'sætɪsfaɪd
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'sætɪsfaɪd     美音 'sætɪsfaɪd  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **满足的；满意的**  
@@ -994,12 +798,8 @@ satisfactorily /ˌsætɪs'fæktərəli/ adv
 
 
 # ***satisfy*** vt
----
-英音 'sætɪsfaɪ     美音 'sætɪsfaɪ
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 'sætɪsfaɪ     美音 'sætɪsfaɪ  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(使) 满足；(使) 满意：**  
@@ -1021,12 +821,8 @@ satisfying /'sætɪsfaɪɪŋ/ adj
 
 
 # ***satisfying*** adj
----
-英音 'sætɪsfaɪɪŋ     美音 'sætɪsfaɪɪŋ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sætɪsfaɪɪŋ     美音 'sætɪsfaɪɪŋ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **令人满意的**  
@@ -1034,12 +830,8 @@ satisfying /'sætɪsfaɪɪŋ/ adj
 
 
 # ***sauce*** n
----
-英音 sɔːs     美音 sɔːs
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 sɔːs     美音 sɔːs  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -1048,12 +840,8 @@ satisfying /'sætɪsfaɪɪŋ/ adj
 
 
 # ***saucer*** n
----
-英音 'sɔːsə(r)     美音 'sɔːsər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'sɔːsə(r)     美音 'sɔːsər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1062,12 +850,8 @@ satisfying /'sætɪsfaɪɪŋ/ adj
 
 
 # ***sausage*** n
----
-英音 'sɒsɪdʒ     美音 'sɔːsɪdʒ
-
-词频 1 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'sɒsɪdʒ     美音 'sɔːsɪdʒ  
+词频 1 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -1076,12 +860,8 @@ satisfying /'sætɪsfaɪɪŋ/ adj
 
 
 # ***save*** v
----
-英音 seɪv     美音 seɪv
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 seɪv     美音 seɪv  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **挽救；救助：**  
@@ -1137,12 +917,8 @@ Have a good rest; you need to ________ (保存) your energy for the tennis match
   
 
 # ***saving*** n
----
-英音 'seɪvɪŋ     美音 'seɪvɪŋ
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 'seɪvɪŋ     美音 'seɪvɪŋ  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1158,12 +934,8 @@ Have a good rest; you need to ________ (保存) your energy for the tennis match
 
 
 # ***saxophone*** n
----
-英音 'sæksəfəʊn     美音 'sæksəfoʊn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sæksəfəʊn     美音 'sæksəfoʊn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **萨克斯管**  
@@ -1171,12 +943,8 @@ Have a good rest; you need to ________ (保存) your energy for the tennis match
 
 
 # ***say*** v
----
-英音 seɪ     美音 seɪ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (said, said)
+英音 seɪ     美音 seɪ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (said, said)
 
 英文释义
 ---
@@ -1266,12 +1034,8 @@ D.say
   
 
 # ***saying*** n
----
-英音 'seɪɪŋ     美音 'seɪɪŋ
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'seɪɪŋ     美音 'seɪɪŋ  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1317,12 +1081,8 @@ D.goes as old the saying
   
 
 # ***scald*** v
----
-英音 skɔːld     美音 skɔːld
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 skɔːld     美音 skɔːld  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **热泪盈眶**  
@@ -1330,12 +1090,8 @@ D.goes as old the saying
 
 
 # ***scale*** n
----
-英音 skeɪl     美音 skeɪl
-
-词频 3 | 口语 2 | 书面 2 | 阅读 2
-
-
+英音 skeɪl     美音 skeɪl  
+词频 3 | 口语 2 | 书面 2 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **[U] [用单数] 规模；程度：**  
@@ -1356,12 +1112,8 @@ D.goes as old the saying
 
 
 # ***scan*** vt
----
-英音 skæn     美音 skæn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 skæn     美音 skæn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **细看**  
@@ -1394,12 +1146,8 @@ Tony is _________(浏览) the guidebook, looking for information about Japan, wh
   
 
 # ***scan*** n
----
-英音 skæn     美音 skæn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 skæn     美音 skæn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **扫描**  
@@ -1407,12 +1155,8 @@ Tony is _________(浏览) the guidebook, looking for information about Japan, wh
 
 
 # ***scar*** n
----
-英音 skɑː(r)     美音 skɑːr
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 skɑː(r)     美音 skɑːr  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1424,12 +1168,8 @@ Tony is _________(浏览) the guidebook, looking for information about Japan, wh
 
 
 # ***scarce*** adj
----
-英音 skeəs     美音 skers
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 skeəs     美音 skers  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **不足的；缺乏的：**  
@@ -1440,12 +1180,8 @@ Tony is _________(浏览) the guidebook, looking for information about Japan, wh
 
 
 # ***scare*** vt
----
-英音 skeə(r)     美音 sker
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 skeə(r)     美音 sker  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **使恐惧；使害怕 (frighten)：**  
@@ -1463,12 +1199,8 @@ Tony is _________(浏览) the guidebook, looking for information about Japan, wh
 
 
 # ***scared*** adj
----
-英音 skeəd     美音 skerd
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 skeəd     美音 skerd  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **对...感到惊慌的；吓坏了的(afraid)：**  
@@ -1494,12 +1226,8 @@ Tony is _________(浏览) the guidebook, looking for information about Japan, wh
 
 
 # ***scarf*** n
----
-英音 skɑːf     美音 skɑːrf
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 skɑːf     美音 skɑːrf  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1508,12 +1236,8 @@ Tony is _________(浏览) the guidebook, looking for information about Japan, wh
 
 
 # ***scary*** adj
----
-英音 'skeəri     美音 'skeri
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'skeəri     美音 'skeri  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **恐吓的；吓人的**  
@@ -1521,12 +1245,8 @@ Tony is _________(浏览) the guidebook, looking for information about Japan, wh
 
 
 # ***scene*** n
----
-英音 siːn     美音 siːn
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 siːn     美音 siːn  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1574,12 +1294,8 @@ a view that you see：
 
 
 # ***scenery*** n
----
-英音 'siːnəri     美音 'siːnəri
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'siːnəri     美音 'siːnəri  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -1594,12 +1310,8 @@ natural things such as trees, hills, and lakes that you can see in a particular 
 四者都有“风景”之意。
 
 # ***scenic*** adj
----
-英音 'siːnɪk     美音 'siːnɪk
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'siːnɪk     美音 'siːnɪk  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **自然景色的, 风景优美的**  
@@ -1607,12 +1319,8 @@ natural things such as trees, hills, and lakes that you can see in a particular 
 
 
 # ***scent*** n
----
-英音 sent     美音 sent
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 sent     美音 sent  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -1621,12 +1329,8 @@ natural things such as trees, hills, and lakes that you can see in a particular 
 
 
 # ***sceptical*** adj
----
-英音 'skeptɪkl     美音 'skeptɪkl
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 'skeptɪkl     美音 'skeptɪkl  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **(持)怀疑态度的：**  
@@ -1647,12 +1351,8 @@ natural things such as trees, hills, and lakes that you can see in a particular 
 
 
 # ***schedule*** n  重难点词汇
----
-英音 'ʃedjuːl; 'skedʒuːl     美音 'skedʒuːl
-
-词频 4 | 口语 2 | 书面 1 | 阅读 3
-
-用法点拨  [C] & [U]
+英音 'ʃedjuːl; 'skedʒuːl     美音 'skedʒuːl  
+词频 4 | 口语 2 | 书面 1 | 阅读 3  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -1680,12 +1380,8 @@ a plan of things that will happen or of work that must be done (timetable)：
 
 
 # ***schedule*** vt  重难点词汇
----
-英音 'ʃedjuːl; 'skedʒuːl     美音 'skedʒuːl
-
-词频 4 | 口语 1 | 书面 0 | 阅读 3
-
-
+英音 'ʃedjuːl; 'skedʒuːl     美音 'skedʒuːl  
+词频 4 | 口语 1 | 书面 0 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **[常用被动语态] 安排；将...列入进度表**  
@@ -1704,12 +1400,8 @@ to plan that sth will happen at a particular time：
 
 
 # ***scheme*** n
----
-英音 skiːm     美音 skiːm
-
-词频 1 | 口语 2 | 书面 3 | 阅读 1
-
-用法点拨  [C]
+英音 skiːm     美音 skiːm  
+词频 1 | 口语 2 | 书面 3 | 阅读 1  用法点拨  [C]
 
 英文释义
 ---
@@ -1726,12 +1418,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***scholar*** n
----
-英音 'skɒlə(r)     美音 'skɑːlər
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'skɒlə(r)     美音 'skɑːlər  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1743,12 +1431,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***scholarship*** n
----
-英音 'skɒləʃɪp     美音 'skɑːlərʃɪp
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'skɒləʃɪp     美音 'skɑːlərʃɪp  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1761,12 +1445,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***school*** n
----
-英音 skuːl     美音 skuːl
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 skuːl     美音 skuːl  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] (中、小) 学校；专科学校；(大学的) 学院：**  
@@ -1792,12 +1472,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***school*** vt
----
-英音 skuːl     美音 skuːl
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 skuːl     美音 skuːl  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **教育；培养**  
@@ -1805,12 +1481,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***schoolbag*** n
----
-英音 'skuːlˌbæg     美音 'skuːlˌbæg
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'skuːlˌbæg     美音 'skuːlˌbæg  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1819,12 +1491,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***schoolboy*** n
----
-英音 'skuːlbɔɪ     美音 'skuːlbɔɪ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'skuːlbɔɪ     美音 'skuːlbɔɪ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1833,12 +1501,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***schoolchildren*** n
----
-英音 'skuːltʃɪldrən     美音 'skuːltʃɪldrən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'skuːltʃɪldrən     美音 'skuːltʃɪldrən  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **小学生，学童**  
@@ -1846,12 +1510,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***schoolgirl*** n
----
-英音 'skuːlɡɜːl     美音 'skuːlɡɜːrl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'skuːlɡɜːl     美音 'skuːlɡɜːrl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1860,12 +1520,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***schooling*** n
----
-英音 'skuːlɪŋ     美音 'skuːlɪŋ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'skuːlɪŋ     美音 'skuːlɪŋ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -1877,12 +1533,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***schoolmate*** n
----
-英音 'skuːlmeɪt     美音 'skuːlmeɪt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'skuːlmeɪt     美音 'skuːlmeɪt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1891,12 +1543,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***sci-fi*** adj
----
-英音 'saɪfaɪ     美音 'saɪfaɪ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'saɪfaɪ     美音 'saɪfaɪ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **科幻的**  
@@ -1904,12 +1552,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***science*** n
----
-英音 'saɪəns     美音 'saɪəns
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'saɪəns     美音 'saɪəns  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 科学：**  
@@ -1936,12 +1580,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***scientific*** adj
----
-英音 ˌsaɪən'tɪfɪk     美音 ˌsaɪən'tɪfɪk
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 ˌsaɪən'tɪfɪk     美音 ˌsaɪən'tɪfɪk  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **科学 (上) 的：**  
@@ -1955,12 +1595,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***scientist*** n
----
-英音 'saɪəntɪst     美音 'saɪəntɪst
-
-词频 5 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'saɪəntɪst     美音 'saɪəntɪst  
+词频 5 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1969,12 +1605,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***scissors*** n
----
-英音 'sɪzəz     美音 'sɪzərz
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sɪzəz     美音 'sɪzərz  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[复数] 剪刀**  
@@ -1982,12 +1614,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***scold*** v
----
-英音 skəʊld     美音 skoʊld
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 skəʊld     美音 skoʊld  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **责骂；斥责：**  
@@ -2003,12 +1631,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***scoop*** n
----
-英音 skuːp     美音 skuːp
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] 
+英音 skuːp     美音 skuːp  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] 
 
 英文释义
 ---
@@ -2017,12 +1641,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***score*** n
----
-英音 skɔː(r)     美音 skɔː
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 skɔː(r)     美音 skɔː  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] (比赛中的) 得分；比分：**  
@@ -2054,12 +1674,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***score*** v
----
-英音 skɔː(r)     美音 skɔː
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 skɔː(r)     美音 skɔː  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **得 (分)：**  
@@ -2073,12 +1689,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***scorer*** n
----
-英音 'skɔːrə(r)     美音 'skɔːrər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'skɔːrə(r)     美音 'skɔːrər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（进球得分的）运动员**  
@@ -2086,12 +1698,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***scramble*** v
----
-英音 'skræmbl     美音 'skræmbl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'skræmbl     美音 'skræmbl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **爬，攀**  
@@ -2099,12 +1707,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***scrape*** v
----
-英音 skreɪp     美音 skreɪp
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 skreɪp     美音 skreɪp  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **刮；擦：**  
@@ -2115,12 +1719,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***scrape*** n
----
-英音 skreɪp     美音 skreɪp
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 skreɪp     美音 skreɪp  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2129,12 +1729,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***scraper*** n
----
-英音 'skreɪpə(r)     美音 'skreɪpər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'skreɪpə(r)     美音 'skreɪpər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2143,12 +1739,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***scratch*** v
----
-英音 skrætʃ     美音 skrætʃ
-
-词频 2 | 口语 1 | 书面 0 | 阅读 2
-
-
+英音 skrætʃ     美音 skrætʃ  
+词频 2 | 口语 1 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **搔；抓：**  
@@ -2159,12 +1751,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***scratch*** n
----
-英音 skrætʃ     美音 skrætʃ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 2
-
-用法点拨  [C]
+英音 skrætʃ     美音 skrætʃ  
+词频 2 | 口语 0 | 书面 0 | 阅读 2  用法点拨  [C]
 
 英文释义
 ---
@@ -2176,12 +1764,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***scream*** vi
----
-英音 skriːm     美音 skriːm
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 skriːm     美音 skriːm  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(动物等) 尖叫；(机器等) 发出尖锐刺耳的声音；(风) 呼啸：**  
@@ -2196,12 +1780,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***scream*** vt
----
-英音 skriːm     美音 skriːm
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 skriːm     美音 skriːm  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **尖叫着说；尖叫着发出：**  
@@ -2212,12 +1792,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***scream*** n
----
-英音 skriːm     美音 skriːm
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 skriːm     美音 skriːm  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2233,12 +1809,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***screen*** n
----
-英音 skriːn     美音 skriːn
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 skriːn     美音 skriːn  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2247,12 +1819,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***screenwriter*** n
----
-英音 'skriːnraɪtə(r)     美音 'skriːnraɪtər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'skriːnraɪtə(r)     美音 'skriːnraɪtər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（电影）编剧，剧作家**  
@@ -2260,12 +1828,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***script*** n
----
-英音 skrɪpt     美音 skrɪpt
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 skrɪpt     美音 skrɪpt  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 剧本；手稿**  
@@ -2273,12 +1837,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***sculpt*** v
----
-英音 [skʌlpt]     美音 [skʌlpt]
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 [skʌlpt]     美音 [skʌlpt]  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **雕刻，雕塑**  
@@ -2286,12 +1846,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***sculptor*** n
----
-英音 'skʌlptə(r)     美音 'skʌlptər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] 
+英音 'skʌlptə(r)     美音 'skʌlptər  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] 
 
 英文释义
 ---
@@ -2300,12 +1856,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***sculpture*** n
----
-英音 'skʌlptʃə(r)     美音 'skʌlptʃər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'skʌlptʃə(r)     美音 'skʌlptʃər  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -2317,12 +1869,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***sculpture*** vt
----
-英音 'skʌlptʃə(r)     美音 'skʌlptʃər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'skʌlptʃə(r)     美音 'skʌlptʃər  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **雕刻；雕塑：**  
@@ -2333,12 +1881,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***scurvy*** n
----
-英音 'skɜːvi     美音 'skɜːrvi
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'skɜːvi     美音 'skɜːrvi  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -2347,12 +1891,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***sea*** n
----
-英音 siː     美音 siː
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  [U]
+英音 siː     美音 siː  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -2392,12 +1932,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***sea-slug*** n
----
-英音 'siːslʌɡ     美音 'siːslʌɡ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'siːslʌɡ     美音 'siːslʌɡ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2406,12 +1942,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***seafood*** n
----
-英音 'siːfuːd     美音 'siːfuːd
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'siːfuːd     美音 'siːfuːd  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **海味；海鲜**  
@@ -2419,12 +1951,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***seagull*** n
----
-英音 'siːɡʌl     美音 'siːɡʌl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'siːɡʌl     美音 'siːɡʌl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2433,12 +1961,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***seal*** n
----
-英音 siːl     美音 siːl
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 siːl     美音 siːl  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2459,12 +1983,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***seal*** vt
----
-英音 siːl     美音 siːl
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 siːl     美音 siːl  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **密封；封；盖章于：**  
@@ -2475,12 +1995,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***seal*** n
----
-英音 siːl     美音 siːl
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 siːl     美音 siːl  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2489,12 +2005,8 @@ a clever plan to do sth that is bad or illegal
 
 
 # ***search*** v  重难点词汇
----
-英音 sɜːtʃ     美音 sɜːrtʃ
-
-词频 5 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 sɜːtʃ     美音 sɜːrtʃ  
+词频 5 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(在...中) 搜寻**  
@@ -2535,12 +2047,8 @@ to try to find an answer to a problem：
 
 
 # ***search*** n  重难点词汇
----
-英音 sɜːtʃ     美音 sɜːrtʃ
-
-词频 5 | 口语 0 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 sɜːtʃ     美音 sɜːrtʃ  
+词频 5 | 口语 0 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2570,12 +2078,8 @@ to try to find an answer to a problem：
 
 
 # ***seashell*** n
----
-英音 'siːʃel     美音 'siːʃel
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'siːʃel     美音 'siːʃel  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2584,12 +2088,8 @@ to try to find an answer to a problem：
 
 
 # ***seasick*** adj
----
-英音 'siːsɪk     美音 'siːsɪk
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'siːsɪk     美音 'siːsɪk  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **晕船的**  
@@ -2597,12 +2097,8 @@ to try to find an answer to a problem：
 
 
 # ***seaside*** n
----
-英音 'siːsaɪd     美音 'siːsaɪd
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'siːsaɪd     美音 'siːsaɪd  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -2615,12 +2111,8 @@ to try to find an answer to a problem：
 
 
 # ***seaside*** adj
----
-英音 'siːsaɪd     美音 'siːsaɪd
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [只用于名词前]
+英音 'siːsaɪd     美音 'siːsaɪd  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [只用于名词前]
 
 英文释义
 ---
@@ -2633,12 +2125,8 @@ to try to find an answer to a problem：
 
 
 # ***season*** n
----
-英音 'siːzn     美音 'siːzn
-
-词频 4 | 口语 1 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'siːzn     美音 'siːzn  
+词频 4 | 口语 1 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2662,12 +2150,8 @@ to try to find an answer to a problem：
 
 
 # ***seasonal*** adj
----
-英音 'siːzənl     美音 'siːzənl
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'siːzənl     美音 'siːzənl  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **季节的；季节性的**  
@@ -2675,12 +2159,8 @@ to try to find an answer to a problem：
 
 
 # ***seat*** n  重难点词汇
----
-英音 siːt     美音 siːt
-
-词频 4 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 siːt     美音 siːt  
+词频 4 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2724,12 +2204,8 @@ to try to find an answer to a problem：
 
 
 # ***seat*** vt  重难点词汇
----
-英音 siːt     美音 siːt
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 siːt     美音 siːt  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **使坐下；使就座：**  
@@ -2774,12 +2250,8 @@ Ladies and gentlemen, please remain __________ (seat) until the plane has come t
   
 
 # ***seaweed*** n
----
-英音 'siːwiːd     美音 'siːwiːd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'siːwiːd     美音 'siːwiːd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -2788,12 +2260,8 @@ Ladies and gentlemen, please remain __________ (seat) until the plane has come t
 
 
 # ***second*** adj  重难点词汇
----
-英音 'sekənd     美音 'sekənd
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'sekənd     美音 'sekənd  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **第二的；次要的：**  
@@ -2817,12 +2285,8 @@ Ladies and gentlemen, please remain __________ (seat) until the plane has come t
 
 
 # ***second*** adv  重难点词汇
----
-英音 'sekənd     美音 'sekənd
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sekənd     美音 'sekənd  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **第二 (位) 地：**  
@@ -2846,12 +2310,8 @@ Ladies and gentlemen, please remain __________ (seat) until the plane has come t
 
 
 # ***second*** n  重难点词汇
----
-英音 'sekənd     美音 'sekənd
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 'sekənd     美音 'sekənd  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **[U] 第二：**  
@@ -2878,12 +2338,8 @@ Ladies and gentlemen, please remain __________ (seat) until the plane has come t
 
 
 # ***second-hand*** adj
----
-英音 'sekənd'hænd     美音 'sekənd'hænd
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sekənd'hænd     美音 'sekənd'hænd  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **二手的；旧的：**  
@@ -2894,12 +2350,8 @@ Ladies and gentlemen, please remain __________ (seat) until the plane has come t
 
 
 # ***secondary*** adj
----
-英音 'sekəndri     美音 'sekənderi
-
-词频 2 | 口语 1 | 书面 2 | 阅读 2
-
-
+英音 'sekəndri     美音 'sekənderi  
+词频 2 | 口语 1 | 书面 2 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **第二位的；中等的：**  
@@ -2916,12 +2368,8 @@ Ladies and gentlemen, please remain __________ (seat) until the plane has come t
 
 
 # ***secondly*** adv
----
-英音 'sekəndli     美音 'sekəndli
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [句子副词]
+英音 'sekəndli     美音 'sekəndli  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [句子副词]
 
 英文释义
 ---
@@ -2930,12 +2378,8 @@ Ladies and gentlemen, please remain __________ (seat) until the plane has come t
 
 
 # ***secret*** n
----
-英音 'siːkrət     美音 'siːkrət
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 'siːkrət     美音 'siːkrət  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 秘密：**  
@@ -2972,12 +2416,8 @@ Ladies and gentlemen, please remain __________ (seat) until the plane has come t
 
 
 # ***secret*** adj
----
-英音 'siːkrət     美音 'siːkrət
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 'siːkrət     美音 'siːkrət  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **秘密的；不引人注意的：**  
@@ -2996,12 +2436,8 @@ Ladies and gentlemen, please remain __________ (seat) until the plane has come t
 secretly /'siːkrətli/ adv 
 
 # ***secretary*** n
----
-英音 'sekrətri     美音 'sekrəteri
-
-词频 4 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'sekrətri     美音 'sekrəteri  
+词频 4 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3010,12 +2446,8 @@ secretly /'siːkrətli/ adv
 
 
 # ***secretive*** adj
----
-英音 'siːkrətɪv     美音 'siːkrətɪv
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'siːkrətɪv     美音 'siːkrətɪv  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **秘而不宣的；隐藏的**  
@@ -3023,12 +2455,8 @@ secretly /'siːkrətli/ adv
 
 
 # ***section*** n
----
-英音 'sekʃn     美音 'sekʃn
-
-词频 3 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'sekʃn     美音 'sekʃn  
+词频 3 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3053,12 +2481,8 @@ secretly /'siːkrətli/ adv
 
 
 # ***sector*** n
----
-英音 'sektə(r)     美音 'sektər
-
-词频 1 | 口语 0 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'sektə(r)     美音 'sektər  
+词频 1 | 口语 0 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3067,12 +2491,8 @@ secretly /'siːkrətli/ adv
 
 
 # ***secure*** adj
----
-英音 sɪ'kjʊə(r)     美音 sə'kjʊr
-
-词频 2 | 口语 0 | 书面 1 | 阅读 1
-
-
+英音 sɪ'kjʊə(r)     美音 sə'kjʊr  
+词频 2 | 口语 0 | 书面 1 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **安全的；可靠的 (safe)：**  
@@ -3091,12 +2511,8 @@ secretly /'siːkrətli/ adv
 
 
 # ***secure*** vt
----
-英音 sɪ'kjʊə(r)     美音 sə'kjʊr
-
-词频 2 | 口语 0 | 书面 1 | 阅读 1
-
-
+英音 sɪ'kjʊə(r)     美音 sə'kjʊr  
+词频 2 | 口语 0 | 书面 1 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **使安全；保证；获得：**  
@@ -3120,12 +2536,8 @@ secretly /'siːkrətli/ adv
 
 
 # ***security*** n
----
-英音 sə'kjʊrəti     美音 sə'kjʊrəti
-
-词频 4 | 口语 0 | 书面 3 | 阅读 3
-
-用法点拨  [U] & [C]
+英音 sə'kjʊrəti     美音 sə'kjʊrəti  
+词频 4 | 口语 0 | 书面 3 | 阅读 3  用法点拨  [U] & [C]
 
 英文释义
 ---
@@ -3144,12 +2556,8 @@ secretly /'siːkrətli/ adv
 
 
 # ***see*** v  重难点词汇
----
-英音 siː     美音 siː
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (saw, seen)
+英音 siː     美音 siː  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (saw, seen)
 
 英文释义
 ---
@@ -3341,12 +2749,8 @@ John is leaving for London tomorrow and I will see him _________ at the airport.
   
 
 # ***seed*** n
----
-英音 siːd     美音 siːd
-
-词频 3 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 siːd     美音 siːd  
+词频 3 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3355,12 +2759,8 @@ John is leaving for London tomorrow and I will see him _________ at the airport.
 
 
 # ***seedling*** n
----
-英音 'siːdlɪŋ     美音 'siːdlɪŋ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'siːdlɪŋ     美音 'siːdlɪŋ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3369,12 +2769,8 @@ John is leaving for London tomorrow and I will see him _________ at the airport.
 
 
 # ***seek*** v  重难点词汇
----
-英音 siːk     美音 siːk
-
-词频 4 | 口语 2 | 书面 3 | 阅读 3
-
-用法点拨  (sought, sought) [正式用语或书面用语]
+英音 siːk     美音 siːk  
+词频 4 | 口语 2 | 书面 3 | 阅读 3  用法点拨  (sought, sought) [正式用语或书面用语]
 
 英文释义
 ---
@@ -3438,12 +2834,8 @@ to ask sb for sth：
 
 
 # ***seem*** vi  重难点词汇
----
-英音 siːm     美音 siːm
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 siːm     美音 siːm  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **好像；似乎(appear)：**  
@@ -3495,12 +2887,8 @@ seem后既可以接从句又可以接不定式，通常可以相互转换。
 三者都有“看起来”之意。
 
 # ***seize*** vt
----
-英音 siːz     美音 siːz
-
-词频 3 | 口语 0 | 书面 1 | 阅读 2
-
-
+英音 siːz     美音 siːz  
+词频 3 | 口语 0 | 书面 1 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **抓住 (grab)；逮捕：**  
@@ -3538,12 +2926,8 @@ seem后既可以接从句又可以接不定式，通常可以相互转换。
 
 
 # ***seldom*** adv
----
-英音 'seldəm     美音 'seldəm
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'seldəm     美音 'seldəm  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **很少；不常(rarely)：**  
@@ -3580,12 +2964,8 @@ D.do we think
   
 
 # ***select*** vt
----
-英音 sɪ'lekt     美音 sɪ'lekt
-
-词频 4 | 口语 2 | 书面 2 | 阅读 3
-
-
+英音 sɪ'lekt     美音 sɪ'lekt  
+词频 4 | 口语 2 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **(经过认真思考而) 挑选；选择；选拔**  
@@ -3618,12 +2998,8 @@ to choose sb / sth, usually carefully, from a number of similar things：
 selective /sɪ'lektɪv/ adj 
 
 # ***selection*** n
----
-英音 sɪ'lekʃn     美音 sɪ'lekʃn
-
-词频 3 | 口语 1 | 书面 2 | 阅读 2
-
-用法点拨  [C] & [U]
+英音 sɪ'lekʃn     美音 sɪ'lekʃn  
+词频 3 | 口语 1 | 书面 2 | 阅读 2  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -3639,12 +3015,8 @@ selective /sɪ'lektɪv/ adj
 
 
 # ***self*** n
----
-英音 self     美音 self
-
-词频 5 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 self     美音 self  
+词频 5 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **自己；本身：**  
@@ -3666,12 +3038,8 @@ selective /sɪ'lektɪv/ adj
 self-用于构成复合名词或复合形容词，表示“自身的”、“靠自身的”、“为自身的”。
 
 # ***self-assessment*** n
----
-英音 self ə'sesmənt     美音 self ə'sesmənt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 self ə'sesmənt     美音 self ə'sesmənt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **自我评估**  
@@ -3679,12 +3047,8 @@ self-用于构成复合名词或复合形容词，表示“自身的”、“靠
 
 
 # ***self-conscious*** adj
----
 
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **自觉的；难为情的；不自然的**  
@@ -3692,12 +3056,8 @@ self-用于构成复合名词或复合形容词，表示“自身的”、“靠
 
 
 # ***self-educated*** adj
----
 
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **自修的；自学的；自我教育的**  
@@ -3705,12 +3065,8 @@ self-用于构成复合名词或复合形容词，表示“自身的”、“靠
 
 
 # ***self-employed*** adj
----
-英音 self ɪm'plɔɪd     美音 self ɪm'plɔɪd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 self ɪm'plɔɪd     美音 self ɪm'plɔɪd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **自己经营的**  
@@ -3718,12 +3074,8 @@ self-用于构成复合名词或复合形容词，表示“自身的”、“靠
 
 
 # ***selfie*** n
----
-英音 ˈselfi     美音 ˈselfi
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˈselfi     美音 ˈselfi  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **自拍照**  
@@ -3731,12 +3083,8 @@ self-用于构成复合名词或复合形容词，表示“自身的”、“靠
 
 
 # ***selfish*** adj
----
-英音 'selfɪʃ     美音 'selfɪʃ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'selfɪʃ     美音 'selfɪʃ  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **自私的：**  
@@ -3752,12 +3100,8 @@ selfishly /'selfɪʃli/ adv
 selfishness /'selfɪʃnəs/ n 
 
 # ***sell*** v
----
-英音 sel     美音 sel
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (sold, sold)
+英音 sel     美音 sel  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (sold, sold)
 
 英文释义
 ---
@@ -3814,12 +3158,8 @@ selfishness /'selfɪʃnəs/ n
 seller /'selə(r)/ n 
 
 # ***semester*** n
----
-英音 sɪ'mestə(r)     美音 sɪ'mestər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 sɪ'mestə(r)     美音 sɪ'mestər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3832,12 +3172,8 @@ seller /'selə(r)/ n
 
 
 # ***semi-circle*** n
----
-英音 'semɪsɜːkl     美音 'semɪsɜːrkl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'semɪsɜːkl     美音 'semɪsɜːrkl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **半圆**  
@@ -3845,12 +3181,8 @@ seller /'selə(r)/ n
 
 
 # ***semicircle*** n
----
-英音 'semisɜːkl     美音 'semisɜːrkl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'semisɜːkl     美音 'semisɜːrkl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3859,12 +3191,8 @@ seller /'selə(r)/ n
 
 
 # ***seminar*** n
----
-英音 'semɪnɑː(r)     美音 'semɪnɑːr
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'semɪnɑː(r)     美音 'semɪnɑːr  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3873,12 +3201,8 @@ seller /'selə(r)/ n
 
 
 # ***senate*** n
----
-英音 'senət     美音 'senət
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'senət     美音 'senət  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3887,12 +3211,8 @@ seller /'selə(r)/ n
 
 
 # ***send*** vt
----
-英音 send     美音 send
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (sent, sent)
+英音 send     美音 send  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (sent, sent)
 
 英文释义
 ---
@@ -3971,12 +3291,8 @@ seller /'selə(r)/ n
 
 
 # ***senior*** adj
----
-英音 'siːniər     美音 'siːniə(r)
-
-词频 4 | 口语 0 | 书面 2 | 阅读 0
-
-
+英音 'siːniər     美音 'siːniə(r)  
+词频 4 | 口语 0 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **较年长的；地位较高的；(学校) 高年级的：**  
@@ -3991,12 +3307,8 @@ seller /'selə(r)/ n
 
 
 # ***senior*** n
----
-英音 'siːniər     美音 'siːniə(r)
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 'siːniər     美音 'siːniə(r)  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4005,12 +3317,8 @@ seller /'selə(r)/ n
 
 
 # ***sense*** n  重难点词汇
----
-英音 sens     美音 sens
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 sens     美音 sens  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] (五种) 感官 (之一)：**  
@@ -4169,12 +3477,8 @@ What’s the ________ (意义) of having a public open space where you can’t e
   
 
 # ***sense*** vt  重难点词汇
----
-英音 sens     美音 sens
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sens     美音 sens  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **感觉到；察觉到：**  
@@ -4188,12 +3492,8 @@ What’s the ________ (意义) of having a public open space where you can’t e
 
 
 # ***senseless*** adj
----
-英音 'sensləs     美音 'sensləs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sensləs     美音 'sensləs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **失去知觉的；无意义的；不明智的：**  
@@ -4207,12 +3507,8 @@ What’s the ________ (意义) of having a public open space where you can’t e
 
 
 # ***sensible*** adj
----
-英音 'sensəbl     美音 'sensəbl
-
-词频 1 | 口语 1 | 书面 1 | 阅读 2
-
-
+英音 'sensəbl     美音 'sensəbl  
+词频 1 | 口语 1 | 书面 1 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **明智的；合理的(wise)；可觉察到的：**  
@@ -4227,12 +3523,8 @@ What’s the ________ (意义) of having a public open space where you can’t e
 
 
 # ***sensitive*** adj
----
-英音 'sensətɪv     美音 'sensətɪv
-
-词频 3 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 'sensətɪv     美音 'sensətɪv  
+词频 3 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **善解人意的；体恤的：**  
@@ -4279,12 +3571,8 @@ Compared with his sister, Jerry is even more sensitive ________, and more easily
   
 
 # ***sensory*** adj
----
-英音 'sensəri     美音 'sensəri
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sensəri     美音 'sensəri  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **感觉的；感官的**  
@@ -4292,12 +3580,8 @@ Compared with his sister, Jerry is even more sensitive ________, and more easily
 
 
 # ***sentence*** n
----
-英音 'sentəns     美音 'sentəns
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 'sentəns     美音 'sentəns  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 句子**  
@@ -4320,12 +3604,8 @@ Compared with his sister, Jerry is even more sensitive ________, and more easily
 
 
 # ***sentence*** vt
----
-英音 'sentəns     美音 'sentəns
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 'sentəns     美音 'sentəns  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **判决；宣判：**  
@@ -4337,12 +3617,8 @@ Compared with his sister, Jerry is even more sensitive ________, and more easily
 
 
 # ***sentimental*** adj
----
-英音 ˌsentɪ'mentl     美音 ˌsentɪ'mentl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌsentɪ'mentl     美音 ˌsentɪ'mentl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **多愁善感的**  
@@ -4350,12 +3626,8 @@ Compared with his sister, Jerry is even more sensitive ________, and more easily
 
 
 # ***separate*** adj  重难点词汇
----
-英音 'sepərət     美音 'sepərət
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [无比较级]
+英音 'sepərət     美音 'sepərət  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [无比较级]
 
 英文释义
 ---
@@ -4387,12 +3659,8 @@ Compared with his sister, Jerry is even more sensitive ________, and more easily
 
 
 # ***separate*** v  重难点词汇
----
-英音 'sepəreɪt     美音 'sepəreɪt
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'sepəreɪt     美音 'sepəreɪt  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(使) 分离；(使) 分开**  
@@ -4454,12 +3722,8 @@ Hospital staff burst into cheers after doctors completed a 20-hour operation to 
   
 
 # ***separation*** n
----
-英音 ˌsepə'reɪʃn     美音 ˌsepə'reɪʃn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 ˌsepə'reɪʃn     美音 ˌsepə'reɪʃn  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **[U] 分离；分开：**  
@@ -4477,12 +3741,8 @@ Hospital staff burst into cheers after doctors completed a 20-hour operation to 
 
 
 # ***sequence*** n
----
-英音 'siːkwəns     美音 'siːkwəns
-
-词频 1 | 口语 0 | 书面 2 | 阅读 0
-
-
+英音 'siːkwəns     美音 'siːkwəns  
+词频 1 | 口语 0 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **顺序；次序 (order)：**  
@@ -4500,12 +3760,8 @@ Hospital staff burst into cheers after doctors completed a 20-hour operation to 
 
 
 # ***series*** n
----
-英音 'sɪəriːz     美音 'sɪriːz
-
-词频 4 | 口语 2 | 书面 3 | 阅读 3
-
-用法点拨  [C] [单复数同]
+英音 'sɪəriːz     美音 'sɪriːz  
+词频 4 | 口语 2 | 书面 3 | 阅读 3  用法点拨  [C] [单复数同]
 
 英文释义
 ---
@@ -4530,12 +3786,8 @@ Hospital staff burst into cheers after doctors completed a 20-hour operation to 
 
 
 # ***serious*** adj
----
-英音 'sɪəriəs     美音 'sɪriəs
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'sɪəriəs     美音 'sɪriəs  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **严重的：**  
@@ -4591,12 +3843,8 @@ He was wearing a very ________ (严肃的) expression and I knew something was w
   
 
 # ***seriously*** adv
----
-英音 'sɪəriəsli     美音 'sɪriəsli
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'sɪəriəsli     美音 'sɪriəsli  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **严重地；认真地：**  
@@ -4625,12 +3873,8 @@ He began to take political science ________ (serious) only when he left school.
   
 
 # ***servant*** n
----
-英音 'sɜːvənt     美音 'sɜːrvənt
-
-词频 3 | 口语 0 | 书面 2 | 阅读 0
-
-用法点拨  [C] 
+英音 'sɜːvənt     美音 'sɜːrvənt  
+词频 3 | 口语 0 | 书面 2 | 阅读 0  用法点拨  [C] 
 
 英文释义
 ---
@@ -4639,12 +3883,8 @@ He began to take political science ________ (serious) only when he left school.
 
 
 # ***serve*** v
----
-英音 sɜːv     美音 sɜːrv
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 sɜːv     美音 sɜːrv  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **vt & vi (在饮食方面) 服务；接待：**  
@@ -4704,12 +3944,8 @@ He began to take political science ________ (serious) only when he left school.
 
 
 # ***service*** n
----
-英音 'sɜːvɪs     美音 'sɜːrvɪs
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'sɜːvɪs     美音 'sɜːrvɪs  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **公共服务系统；公共事业机构：**  
@@ -4760,12 +3996,8 @@ He began to take political science ________ (serious) only when he left school.
 
 
 # ***session*** n
----
-英音 'seʃn     美音 'seʃn
-
-词频 2 | 口语 2 | 书面 2 | 阅读 2
-
-用法点拨  [C]
+英音 'seʃn     美音 'seʃn  
+词频 2 | 口语 2 | 书面 2 | 阅读 2  用法点拨  [C]
 
 英文释义
 ---
@@ -4789,12 +4021,8 @@ a formal meeting or group of meetings, especially for a law court or parliament�
 
 
 # ***set*** v  重难点词汇
----
-英音 set     美音 set
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (set, set)
+英音 set     美音 set  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (set, set)
 
 英文释义
 ---
@@ -5002,12 +4230,8 @@ For all three years I have been working for others. I’m hoping I’ll set ____
   
 
 # ***set*** n  重难点词汇
----
-英音 set     美音 set
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 set     美音 set  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5025,12 +4249,8 @@ For all three years I have been working for others. I’m hoping I’ll set ____
 
 
 # ***setting*** n
----
-英音 'setɪŋ     美音 'setɪŋ
-
-词频 4 | 口语 0 | 书面 2 | 阅读 0
-
-
+英音 'setɪŋ     美音 'setɪŋ  
+词频 4 | 口语 0 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 环境；背景：**  
@@ -5044,12 +4264,8 @@ For all three years I have been working for others. I’m hoping I’ll set ____
 
 
 # ***settle*** v  重难点词汇
----
-英音 'setl     美音 'setl
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'setl     美音 'setl  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **坐下；(使) 处于舒适的位置**  
@@ -5184,12 +4400,8 @@ to become or make sb / sth become calm or quiet：
 
 
 # ***settlement*** n
----
-英音 'setlmənt     美音 'setlmənt
-
-词频 2 | 口语 0 | 书面 2 | 阅读 0
-
-
+英音 'setlmənt     美音 'setlmənt  
+词频 2 | 口语 0 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **[C] 协议：**  
@@ -5216,12 +4428,8 @@ to become or make sb / sth become calm or quiet：
 
 
 # ***settler*** n
----
-英音 'setlə(r)     美音 'setlər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'setlə(r)     美音 'setlər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5230,12 +4438,8 @@ to become or make sb / sth become calm or quiet：
 
 
 # ***several*** adj
----
-英音 'sevrəl     美音 'sevrəl
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sevrəl     美音 'sevrəl  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **几个的；数个的 (至少三个)：**  
@@ -5246,12 +4450,8 @@ to become or make sb / sth become calm or quiet：
 
 
 # ***several*** pron
----
-英音 'sevrəl     美音 'sevrəl
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'sevrəl     美音 'sevrəl  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **几个；数个：**  
@@ -5262,12 +4462,8 @@ to become or make sb / sth become calm or quiet：
 
 
 # ***severe*** adj
----
-英音 sɪ'vɪə(r)     美音 sɪ'vɪr
-
-词频 3 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 sɪ'vɪə(r)     美音 sɪ'vɪr  
+词频 3 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **严重的**  
@@ -5304,12 +4500,8 @@ severely /sə'vɪrlɪ/ adv
 
 
 # ***sew*** v
----
-英音 səʊ     美音 soʊ
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  (sewed, sewn / sewed)
+英音 səʊ     美音 soʊ  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  用法点拨  (sewed, sewn / sewed)
 
 英文释义
 ---
@@ -5321,12 +4513,8 @@ severely /sə'vɪrlɪ/ adv
 
 
 # ***sewing*** n
----
-英音 'səʊɪŋ     美音 'soʊɪŋ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'səʊɪŋ     美音 'soʊɪŋ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **缝纫, 缝制品**  
@@ -5334,12 +4522,8 @@ severely /sə'vɪrlɪ/ adv
 
 
 # ***sex*** n
----
-英音 seks     美音 seks
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 seks     美音 seks  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -5348,12 +4532,8 @@ severely /sə'vɪrlɪ/ adv
 
 
 # ***sexual*** adj
----
-英音 'sekʃuəl     美音 'sekʃuəl
-
-词频 1 | 口语 2 | 书面 2 | 阅读 1
-
-
+英音 'sekʃuəl     美音 'sekʃuəl  
+词频 1 | 口语 2 | 书面 2 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **性的；性别的**  
@@ -5365,12 +4545,8 @@ severely /sə'vɪrlɪ/ adv
 sexually /'sekʃəli/ adv 
 
 # ***shabby*** adj
----
-英音 'ʃæbi     美音 'ʃæbi
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ʃæbi     美音 'ʃæbi  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **破旧的；寒酸的：**  
@@ -5381,12 +4557,8 @@ sexually /'sekʃəli/ adv
 
 
 # ***shade*** n
----
-英音 ʃeɪd     美音 ʃeɪd
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 ʃeɪd     美音 ʃeɪd  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -5408,12 +4580,8 @@ sexually /'sekʃəli/ adv
 shady /'ʃeɪdi/ adj 
 
 # ***shadow*** n
----
-英音 'ʃædəʊ     美音 'ʃædoʊ
-
-词频 3 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 'ʃædəʊ     美音 'ʃædoʊ  
+词频 3 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 影子；阴影：**  
@@ -5445,12 +4613,8 @@ shady /'ʃeɪdi/ adj
 shadowy /'ʃædəʊi/ adj 
 
 # ***shake*** v
----
-英音 ʃeɪk     美音 ʃeɪk
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  (shook, shaken)
+英音 ʃeɪk     美音 ʃeɪk  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  用法点拨  (shook, shaken)
 
 英文释义
 ---
@@ -5506,12 +4670,8 @@ shadowy /'ʃædəʊi/ adj
 
 
 # ***shake*** n
----
-英音 ʃeɪk     美音 ʃeɪk
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] [常用单数]
+英音 ʃeɪk     美音 ʃeɪk  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] [常用单数]
 
 英文释义
 ---
@@ -5526,12 +4686,8 @@ shadowy /'ʃædəʊi/ adj
 
 
 # ***shall*** modal v
----
-英音 ʃəl;ʃæl     美音 ʃəl;ʃæl
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [过去式should; shall not可缩写成shan’t]
+英音 ʃəl;ʃæl     美音 ʃəl;ʃæl  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [过去式should; shall not可缩写成shan’t]
 
 英文释义
 ---
@@ -5614,12 +4770,8 @@ D.Might
   
 
 # ***shallow*** adj
----
-英音 'ʃæləʊ     美音 'ʃæloʊ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 'ʃæləʊ     美音 'ʃæloʊ  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **浅的 反 deep；肤浅的：**  
@@ -5633,12 +4785,8 @@ D.Might
 
 
 # ***shame*** n
----
-英音 ʃeɪm     美音 ʃeɪm
-
-词频 3 | 口语 2 | 书面 0 | 阅读 0
-
-
+英音 ʃeɪm     美音 ʃeɪm  
+词频 3 | 口语 2 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 羞耻 (心)；羞愧 (感)：**  
@@ -5688,12 +4836,8 @@ shameful /'ʃeɪmfl/ adj
 shameless /'ʃeɪmləs/ adj 
 
 # ***shampoo*** n
----
-英音 ʃæm'puː     美音 ʃæm'puː
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ʃæm'puː     美音 ʃæm'puː  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **洗发精；洗发香波**  
@@ -5701,12 +4845,8 @@ shameless /'ʃeɪmləs/ adj
 
 
 # ***shape*** vt
----
-英音 ʃeɪp     美音 ʃeɪp
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ʃeɪp     美音 ʃeɪp  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **使成形：**  
@@ -5736,12 +4876,8 @@ shameless /'ʃeɪmləs/ adj
 
 
 # ***shape*** n
----
-英音 ʃeɪp     美音 ʃeɪp
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 ʃeɪp     美音 ʃeɪp  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -5807,12 +4943,8 @@ You have been sitting on my hat and now it is badly ________ (变形).
   
 
 # ***share*** n  重难点词汇
----
-英音 ʃeə(r)     美音 ʃer
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 ʃeə(r)     美音 ʃer  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5829,12 +4961,8 @@ You have been sitting on my hat and now it is badly ________ (变形).
 
 
 # ***share*** v  重难点词汇
----
-英音 ʃeə(r)     美音 ʃer
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 ʃeə(r)     美音 ʃer  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **vt & vi 分享；合用；共用**  
@@ -5897,12 +5025,8 @@ The two friends ________ (分享) all that they had when they were studying abro
   
 
 # ***shark*** n
----
-英音 ʃɑːk     美音 ʃɑːrk
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ʃɑːk     美音 ʃɑːrk  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 鲨鱼**  
@@ -5910,12 +5034,8 @@ The two friends ________ (分享) all that they had when they were studying abro
 
 
 # ***sharp*** adv
----
-英音 ʃɑːp     美音 ʃɑːrp
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ʃɑːp     美音 ʃɑːrp  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **正 (指时刻)；整：**  
@@ -5926,12 +5046,8 @@ The two friends ________ (分享) all that they had when they were studying abro
 
 
 # ***sharp*** adj
----
-英音 ʃɑːp     美音 ʃɑːrp
-
-词频 3 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 ʃɑːp     美音 ʃɑːrp  
+词频 3 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **锋利的；尖的：**  
@@ -6022,12 +5138,8 @@ Nowadays, there is a ________ (急剧的) increase in children’s creativity, f
   
 
 # ***sharpen*** vt
----
-英音 'ʃɑːpən     美音 'ʃɑːrpən
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ʃɑːpən     美音 'ʃɑːrpən  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **削尖；磨快：**  
@@ -6047,12 +5159,8 @@ Nowadays, there is a ________ (急剧的) increase in children’s creativity, f
 
 
 # ***sharpener*** n
----
-英音 'ʃɑːpnə(r)     美音 'ʃɑːrpnər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ʃɑːpnə(r)     美音 'ʃɑːrpnər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 磨具；削具；铅笔刀**  
@@ -6060,12 +5168,8 @@ Nowadays, there is a ________ (急剧的) increase in children’s creativity, f
 
 
 # ***shave*** v
----
-英音 ʃeɪv     美音 ʃeɪv
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  (shaved, shaved / shaven)
+英音 ʃeɪv     美音 ʃeɪv  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  用法点拨  (shaved, shaved / shaven)
 
 英文释义
 ---
@@ -6085,12 +5189,8 @@ I washed and ________ (剃须), then hurried out of the house.
   
 
 # ***shave*** n
----
-英音 ʃeɪv     美音 ʃeɪv
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ʃeɪv     美音 ʃeɪv  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6102,12 +5202,8 @@ I washed and ________ (剃须), then hurried out of the house.
 
 
 # ***shaver*** n
----
-英音 'ʃeɪvə(r)     美音 'ʃeɪvər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'ʃeɪvə(r)     美音 'ʃeɪvər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6116,12 +5212,8 @@ I washed and ________ (剃须), then hurried out of the house.
 
 
 # ***shawl*** n
----
-英音 ʃɔːl     美音 ʃɔːl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ʃɔːl     美音 ʃɔːl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **披肩**  
@@ -6129,12 +5221,8 @@ I washed and ________ (剃须), then hurried out of the house.
 
 
 # ***she*** pron
----
-英音 ʃi;ʃi:     美音 ʃi;ʃi:
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 ʃi;ʃi:     美音 ʃi;ʃi:  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **[主格] 她**  
@@ -6151,12 +5239,8 @@ I washed and ________ (剃须), then hurried out of the house.
 
 
 # ***sheep*** n
----
-英音 ʃiːp     美音 ʃiːp
-
-词频 3 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [C] [单复数同形]
+英音 ʃiːp     美音 ʃiːp  
+词频 3 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [C] [单复数同形]
 
 英文释义
 ---
@@ -6165,12 +5249,8 @@ I washed and ________ (剃须), then hurried out of the house.
 
 
 # ***sheer*** adj
----
-英音 ʃɪə(r)     美音 ʃɪr
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ʃɪə(r)     美音 ʃɪr  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **垂直的；陡峭的**  
@@ -6178,12 +5258,8 @@ I washed and ________ (剃须), then hurried out of the house.
 
 
 # ***sheet*** n
----
-英音 ʃiːt     美音 ʃiːt
-
-词频 3 | 口语 3 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 ʃiːt     美音 ʃiːt  
+词频 3 | 口语 3 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6201,12 +5277,8 @@ I washed and ________ (剃须), then hurried out of the house.
 
 
 # ***shelf*** n
----
-英音 ʃelf     美音 ʃelf
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 ʃelf     美音 ʃelf  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6223,12 +5295,8 @@ I washed and ________ (剃须), then hurried out of the house.
 
 
 # ***shell*** vt
----
-英音 ʃel     美音 ʃel
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ʃel     美音 ʃel  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **剥 (...壳)：**  
@@ -6240,12 +5308,8 @@ I washed and ________ (剃须), then hurried out of the house.
 
 
 # ***shell*** n
----
-英音 ʃel     美音 ʃel
-
-词频 2 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 ʃel     美音 ʃel  
+词频 2 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6254,12 +5318,8 @@ I washed and ________ (剃须), then hurried out of the house.
 
 
 # ***shellfish*** n
----
-英音 'ʃelfɪʃ     美音 'ʃelfɪʃ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'ʃelfɪʃ     美音 'ʃelfɪʃ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -6268,12 +5328,8 @@ I washed and ________ (剃须), then hurried out of the house.
 
 
 # ***shelter*** n  重难点词汇
----
-英音 'ʃeltə(r)     美音 'ʃeltər
-
-词频 4 | 口语 0 | 书面 1 | 阅读 3
-
-
+英音 'ʃeltə(r)     美音 'ʃeltər  
+词频 4 | 口语 0 | 书面 1 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **[C] 遮盖物；躲避处；避难所：**  
@@ -6306,12 +5362,8 @@ I washed and ________ (剃须), then hurried out of the house.
 
 
 # ***shelter*** v  重难点词汇
----
-英音 'ʃeltə(r)     美音 'ʃeltər
-
-词频 4 | 口语 0 | 书面 0 | 阅读 3
-
-
+英音 'ʃeltə(r)     美音 'ʃeltər  
+词频 4 | 口语 0 | 书面 0 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **vt 掩蔽；保护；为...提供避难所：**  
@@ -6341,12 +5393,8 @@ Some parents are just too protective. They want to shelter their kids  ________ 
   
 
 # ***shepherd*** n
----
-英音 'ʃepəd     美音 'ʃepərd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ʃepəd     美音 'ʃepərd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **牧羊人**  
@@ -6354,12 +5402,8 @@ Some parents are just too protective. They want to shelter their kids  ________ 
 
 
 # ***shift*** n
----
-英音 ʃɪft     美音 ʃɪft
-
-词频 2 | 口语 0 | 书面 0 | 阅读 3
-
-
+英音 ʃɪft     美音 ʃɪft  
+词频 2 | 口语 0 | 书面 0 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **[C] 转移；转换：**  
@@ -6381,12 +5425,8 @@ Some parents are just too protective. They want to shelter their kids  ________ 
 
 
 # ***shift*** v
----
-英音 ʃɪft     美音 ʃɪft
-
-词频 2 | 口语 1 | 书面 1 | 阅读 3
-
-
+英音 ʃɪft     美音 ʃɪft  
+词频 2 | 口语 1 | 书面 1 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **vi & vt (使) 移动；(使) 转移：**  
@@ -6416,12 +5456,8 @@ to change your opinion of or attitude towards sb / sth：
 
 
 # ***shilling*** n
----
-英音 'ʃɪlɪŋ     美音 'ʃɪlɪŋ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'ʃɪlɪŋ     美音 'ʃɪlɪŋ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6430,12 +5466,8 @@ to change your opinion of or attitude towards sb / sth：
 
 
 # ***shine*** v
----
-英音 ʃaɪn     美音 ʃaɪn
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  (shone, shone)
+英音 ʃaɪn     美音 ʃaɪn  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  用法点拨  (shone, shone)
 
 英文释义
 ---
@@ -6455,12 +5487,8 @@ to change your opinion of or attitude towards sb / sth：
 shiny /'ʃaɪni/ adj 
 
 # ***shine*** n
----
-英音 ʃaɪn     美音 ʃaɪn
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ʃaɪn     美音 ʃaɪn  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **光亮，光泽**  
@@ -6468,12 +5496,8 @@ shiny /'ʃaɪni/ adj
 
 
 # ***ship*** n
----
-英音 ʃɪp     美音 ʃɪp
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 ʃɪp     美音 ʃɪp  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6482,12 +5506,8 @@ shiny /'ʃaɪni/ adj
 
 
 # ***ship*** vt
----
-英音 ʃɪp     美音 ʃɪp
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ʃɪp     美音 ʃɪp  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **把...装上船；用船运送：**  
@@ -6498,12 +5518,8 @@ shiny /'ʃaɪni/ adj
 
 
 # ***shipyard*** n
----
-英音 'ʃɪpjɑːd     美音 'ʃɪpjɑːrd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ʃɪpjɑːd     美音 'ʃɪpjɑːrd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **造（修）船厂；船坞**  
@@ -6511,12 +5527,8 @@ shiny /'ʃaɪni/ adj
 
 
 # ***shirt*** n
----
-英音 ʃɜːt     美音 ʃɜːrt
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 ʃɜːt     美音 ʃɜːrt  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6525,12 +5537,8 @@ shiny /'ʃaɪni/ adj
 
 
 # ***shock*** n
----
-英音 ʃɒk     美音 ʃɑːk
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 ʃɒk     美音 ʃɑːk  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] (爆炸、地震等引起的) 剧烈震动；冲击：**  
@@ -6581,12 +5589,8 @@ shiny /'ʃaɪni/ adj
 
 
 # ***shock*** vt
----
-英音 ʃɒk     美音 ʃɑːk
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ʃɒk     美音 ʃɑːk  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **使震惊；使气愤：**  
@@ -6621,12 +5625,8 @@ shocking /'ʃɒkɪŋ/ adj
 
 
 # ***shocked*** adj
----
-英音 ʃɒkt     美音 ʃɒkt
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ʃɒkt     美音 ʃɒkt  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（感到）震惊的，惊骇的**  
@@ -6634,12 +5634,8 @@ shocking /'ʃɒkɪŋ/ adj
 
 
 # ***shoe*** n
----
-英音 ʃuː     美音 ʃuː
-
-词频 5 | 口语 3 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 ʃuː     美音 ʃuː  
+词频 5 | 口语 3 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6662,12 +5658,8 @@ shocking /'ʃɒkɪŋ/ adj
 
 
 # ***shoot*** n
----
-英音 ʃuːt     美音 ʃuːt
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ʃuːt     美音 ʃuːt  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6682,12 +5674,8 @@ shocking /'ʃɒkɪŋ/ adj
 
 
 # ***shoot*** v
----
-英音 ʃuːt     美音 ʃuːt
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  (shot, shot)
+英音 ʃuːt     美音 ʃuːt  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  (shot, shot)
 
 英文释义
 ---
@@ -6744,12 +5732,8 @@ shocking /'ʃɒkɪŋ/ adj
 shooting /'ʃuːtɪŋ/ n 
 
 # ***shop*** n
----
-英音 ʃɒp     美音 ʃɑːp
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 ʃɒp     美音 ʃɑːp  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6764,12 +5748,8 @@ shooting /'ʃuːtɪŋ/ n
 
 
 # ***shop*** vi
----
-英音 ʃɒp     美音 ʃɑːp
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 ʃɒp     美音 ʃɑːp  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **到商店去购物：**  
@@ -6781,12 +5761,8 @@ shooting /'ʃuːtɪŋ/ n
 
 
 # ***shopkeeper*** n
----
-英音 'ʃɒpkiːpə(r)     美音 'ʃɑːpkiːpər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'ʃɒpkiːpə(r)     美音 'ʃɑːpkiːpər  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6795,12 +5771,8 @@ shooting /'ʃuːtɪŋ/ n
 
 
 # ***shoplifting*** n
----
-英音 'ʃɒplɪftɪŋ     美音 'ʃɑːplɪftɪŋ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ʃɒplɪftɪŋ     美音 'ʃɑːplɪftɪŋ  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **逛商店时偷窃商品的行为**  
@@ -6808,12 +5780,8 @@ shooting /'ʃuːtɪŋ/ n
 
 
 # ***shopping*** n
----
-英音 'ʃɒpɪŋ     美音 'ʃɑːpɪŋ
-
-词频 5 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [U]
+英音 'ʃɒpɪŋ     美音 'ʃɑːpɪŋ  
+词频 5 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -6825,12 +5793,8 @@ shooting /'ʃuːtɪŋ/ n
 
 
 # ***shore*** n
----
-英音 ʃɔː(r)     美音 ʃɔːr
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 ʃɔː(r)     美音 ʃɔːr  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -6842,12 +5806,8 @@ shooting /'ʃuːtɪŋ/ n
 
 
 # ***short*** n
----
-英音 ʃɔːt     美音 ʃɔːrt
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ʃɔːt     美音 ʃɔːrt  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6866,12 +5826,8 @@ shooting /'ʃuːtɪŋ/ n
 
 
 # ***short*** adj
----
-英音 ʃɔːt     美音 ʃɔːrt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 ʃɔːt     美音 ʃɔːrt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(长度、时间) 短的 反 long；近的；矮的 反 tall：**  
@@ -6936,12 +5892,8 @@ That young man is honest, cooperative, always there when you need his help. ____
   
 
 # ***shortage*** n
----
-英音 'ʃɔːtɪdʒ     美音 'ʃɔːrtɪdʒ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 2
-
-用法点拨  [C] & [U]
+英音 'ʃɔːtɪdʒ     美音 'ʃɔːrtɪdʒ  
+词频 3 | 口语 0 | 书面 0 | 阅读 2  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -6958,12 +5910,8 @@ That young man is honest, cooperative, always there when you need his help. ____
 
 
 # ***shortcoming*** n
----
-英音 'ʃɔːtkʌmɪŋ     美音 'ʃɔːrtkʌmɪŋ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] [常用复数]
+英音 'ʃɔːtkʌmɪŋ     美音 'ʃɔːrtkʌmɪŋ  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] [常用复数]
 
 英文释义
 ---
@@ -6975,12 +5923,8 @@ That young man is honest, cooperative, always there when you need his help. ____
 
 
 # ***shorten*** v
----
-英音 'ʃɔːtn     美音 'ʃɔːrtn
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ʃɔːtn     美音 'ʃɔːrtn  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **vt & vi (使) 变短；缩短：**  
@@ -6997,12 +5941,8 @@ That young man is honest, cooperative, always there when you need his help. ____
 
 
 # ***shortly*** adv
----
-英音 'ʃɔːtli     美音 'ʃɔːrtli
-
-词频 2 | 口语 1 | 书面 1 | 阅读 2
-
-
+英音 'ʃɔːtli     美音 'ʃɔːrtli  
+词频 2 | 口语 1 | 书面 1 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **立刻；不久：**  
@@ -7014,12 +5954,8 @@ That young man is honest, cooperative, always there when you need his help. ____
 
 
 # ***shorts*** n
----
-英音 ʃɔːts     美音 ʃɔːrts
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [只用复数]
+英音 ʃɔːts     美音 ʃɔːrts  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [只用复数]
 
 英文释义
 ---
@@ -7028,12 +5964,8 @@ That young man is honest, cooperative, always there when you need his help. ____
 
 
 # ***shot*** n
----
-英音 ʃɒt     美音 ʃɑːt
-
-词频 3 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 ʃɒt     美音 ʃɑːt  
+词频 3 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -7089,12 +6021,8 @@ That young man is honest, cooperative, always there when you need his help. ____
 
 
 # ***should*** modal v
----
-英音 ʃəd, ʃʊd     美音 ʃəd, ʃʊd
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 ʃəd, ʃʊd     美音 ʃəd, ʃʊd  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[表示责任、义务] 应该：**  
@@ -7190,12 +6118,8 @@ D.might
   
 
 # ***shoulder*** vt
----
-英音 'ʃəʊldə(r)     美音 'ʃoʊldər
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ʃəʊldə(r)     美音 'ʃoʊldər  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **承担；担负：**  
@@ -7207,12 +6131,8 @@ D.might
 
 
 # ***shoulder*** n
----
-英音 'ʃəʊldə(r)     美音 'ʃoʊldər
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'ʃəʊldə(r)     美音 'ʃoʊldər  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -7225,12 +6145,8 @@ D.might
 
 
 # ***shoulder-length*** adj
----
-英音 'ʃəʊldə(r)leŋθ     美音 'ʃoʊldərleŋθ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ʃəʊldə(r)leŋθ     美音 'ʃoʊldərleŋθ  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **齐肩的**  
@@ -7238,12 +6154,8 @@ D.might
 
 
 # ***shout*** n
----
-英音 ʃaʊt     美音 ʃaʊt
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ʃaʊt     美音 ʃaʊt  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -7256,12 +6168,8 @@ D.might
 
 
 # ***shout*** v
----
-英音 ʃaʊt     美音 ʃaʊt
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 ʃaʊt     美音 ʃaʊt  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **vi & vt 呼喊；大声说；斥责：**  
@@ -7280,12 +6188,8 @@ D.might
 
 
 # ***show*** n  重难点词汇
----
-英音 ʃəʊ     美音 ʃoʊ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 ʃəʊ     美音 ʃoʊ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -7308,12 +6212,8 @@ D.might
 
 
 # ***show*** v  重难点词汇
----
-英音 ʃəʊ     美音 ʃoʊ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (showed, showed / shown)
+英音 ʃəʊ     美音 ʃoʊ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (showed, showed / shown)
 
 英文释义
 ---
@@ -7426,12 +6326,8 @@ D.might
 
 
 # ***shower*** n
----
-英音 'ʃaʊə(r)     美音 'ʃaʊər
-
-词频 3 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'ʃaʊə(r)     美音 'ʃaʊər  
+词频 3 | 口语 2 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -7447,12 +6343,8 @@ D.might
 
 
 # ***shrimp*** n
----
-英音 ʃrɪmp     美音 ʃrɪmp
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] (pl shrimp / shrimps)
+英音 ʃrɪmp     美音 ʃrɪmp  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] (pl shrimp / shrimps)
 
 英文释义
 ---
@@ -7461,12 +6353,8 @@ D.might
 
 
 # ***shrink*** v
----
-英音 ʃrɪŋk     美音 ʃrɪŋk
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-用法点拨  (shrank / shrunk, shrunk)
+英音 ʃrɪŋk     美音 ʃrɪŋk  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  用法点拨  (shrank / shrunk, shrunk)
 
 英文释义
 ---
@@ -7493,12 +6381,8 @@ D.might
 
 
 # ***shrug*** v
----
-英音 ʃrʌɡ     美音 ʃrʌɡ
-
-词频 2 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 ʃrʌɡ     美音 ʃrʌɡ  
+词频 2 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **vt & vi (为表示冷漠、无奈、蔑视、不满等) 耸 (肩)：**  
@@ -7509,12 +6393,8 @@ D.might
 
 
 # ***shudder*** n
----
-英音 'ʃʌdə(r)     美音 'ʃʌdər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ʃʌdə(r)     美音 'ʃʌdər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **战栗，发抖**  
@@ -7522,12 +6402,8 @@ D.might
 
 
 # ***shut*** v
----
-英音 ʃʌt     美音 ʃʌt
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-用法点拨  (shut, shut)
+英音 ʃʌt     美音 ʃʌt  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  用法点拨  (shut, shut)
 
 英文释义
 ---
@@ -7599,12 +6475,8 @@ D.might
 
 
 # ***shuttle*** n
----
-英音 'ʃʌtl     美音 'ʃʌtl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'ʃʌtl     美音 'ʃʌtl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -7613,12 +6485,8 @@ D.might
 
 
 # ***shy*** adj
----
-英音 ʃaɪ     美音 ʃaɪ
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ʃaɪ     美音 ʃaɪ  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **害羞的；羞怯的：**  
@@ -7633,12 +6501,8 @@ D.might
 shyly /ʃaɪli/ adv 
 
 # ***sick*** adj
----
-英音 sɪk     美音 sɪk
-
-词频 4 | 口语 3 | 书面 1 | 阅读 0
-
-
+英音 sɪk     美音 sɪk  
+词频 4 | 口语 3 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **有病的；患病的：**  
@@ -7680,12 +6544,8 @@ shyly /ʃaɪli/ adv
 
 
 # ***sickness*** n
----
-英音 'sɪknəs     美音 'sɪknəs
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sɪknəs     美音 'sɪknəs  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] & [C] 患病；疾病 (illness)：**  
@@ -7699,12 +6559,8 @@ shyly /ʃaɪli/ adv
 
 
 # ***side*** n
----
-英音 saɪd     美音 saɪd
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 saɪd     美音 saɪd  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -7768,12 +6624,8 @@ shyly /ʃaɪli/ adv
 
 
 # ***sideroad*** n
----
-英音 'saɪdrəʊd     美音 'saɪdroʊd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'saɪdrəʊd     美音 'saɪdroʊd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -7782,12 +6634,8 @@ shyly /ʃaɪli/ adv
 
 
 # ***sidewalk*** n
----
-英音 'saɪdwɔːk     美音 'saɪdwɔːk
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'saɪdwɔːk     美音 'saɪdwɔːk  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -7796,12 +6644,8 @@ shyly /ʃaɪli/ adv
 
 
 # ***sideway*** n
----
-英音 'saɪdweɪ     美音 'saɪdweɪ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'saɪdweɪ     美音 'saɪdweɪ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -7810,12 +6654,8 @@ shyly /ʃaɪli/ adv
 
 
 # ***sideways*** adv
----
-英音 'saɪdweɪz     美音 'saɪdweɪz
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'saɪdweɪz     美音 'saɪdweɪz  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **斜向旁边；侧着身子：**  
@@ -7826,12 +6666,8 @@ shyly /ʃaɪli/ adv
 
 
 # ***sideways*** adj
----
-英音 'saɪdweɪz     美音 'saɪdweɪz
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'saɪdweɪz     美音 'saɪdweɪz  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **往旁边的；侧的：**  
@@ -7842,12 +6678,8 @@ shyly /ʃaɪli/ adv
 
 
 # ***sigh*** n
----
-英音 saɪ     美音 saɪ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 saɪ     美音 saɪ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -7860,12 +6692,8 @@ shyly /ʃaɪli/ adv
 
 
 # ***sigh*** vi
----
-英音 saɪ     美音 saɪ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 saɪ     美音 saɪ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **叹息；叹气；悲叹：**  
@@ -7877,12 +6705,8 @@ shyly /ʃaɪli/ adv
 
 
 # ***sight*** n  重难点词汇
----
-英音 saɪt     美音 saɪt
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 saɪt     美音 saɪt  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 视力；视觉：**  
@@ -7997,12 +6821,8 @@ The practice of hanging clothes across the street is a common ________ (景象) 
   
 
 # ***sighting*** n
----
-英音 'saɪtɪŋ     美音 'saɪtɪŋ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'saɪtɪŋ     美音 'saɪtɪŋ  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（珍奇动物等的）目击；发现**  
@@ -8010,12 +6830,8 @@ The practice of hanging clothes across the street is a common ________ (景象) 
 
 
 # ***sightseeing*** n
----
-英音 'saɪtsiːɪŋ     美音 'saɪtsiːɪŋ
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'saɪtsiːɪŋ     美音 'saɪtsiːɪŋ  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -8031,12 +6847,8 @@ The practice of hanging clothes across the street is a common ________ (景象) 
 
 
 # ***sign*** n
----
-英音 saɪn     美音 saɪn
-
-词频 5 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 saɪn     美音 saɪn  
+词频 5 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 符号：**  
@@ -8075,12 +6887,8 @@ The practice of hanging clothes across the street is a common ________ (景象) 
 
 
 # ***sign*** v
----
-英音 saɪn     美音 saɪn
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 saɪn     美音 saɪn  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **签 (名)；签字 (于信、文件等)：**  
@@ -8111,12 +6919,8 @@ The practice of hanging clothes across the street is a common ________ (景象) 
 
 
 # ***signal*** n
----
-英音 'sɪɡnəl     美音 'sɪɡnəl
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'sɪɡnəl     美音 'sɪɡnəl  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -8139,12 +6943,8 @@ In our class, when the bell rang and the teacher closed his book, it was a signa
   
 
 # ***signal*** v
----
-英音 'sɪɡnəl     美音 'sɪɡnəl
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sɪɡnəl     美音 'sɪɡnəl  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **vi & vt 发信号；示意：**  
@@ -8167,12 +6967,8 @@ In order not to be heard, she pointed her finger upwards to ________ (示意) th
   
 
 # ***signature*** n
----
-英音 'sɪɡnətʃə(r)     美音 'sɪɡnətʃər
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'sɪɡnətʃə(r)     美音 'sɪɡnətʃər  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -8184,12 +6980,8 @@ In order not to be heard, she pointed her finger upwards to ________ (示意) th
 
 
 # ***significance*** n
----
-英音 sɪɡ'nɪfɪkəns     美音 sɪɡ'nɪfɪkəns
-
-词频 2 | 口语 0 | 书面 2 | 阅读 1
-
-用法点拨   [U] &[C]
+英音 sɪɡ'nɪfɪkəns     美音 sɪɡ'nɪfɪkəns  
+词频 2 | 口语 0 | 书面 2 | 阅读 1  用法点拨   [U] &[C]
 
 英文释义
 ---
@@ -8210,12 +7002,8 @@ In order not to be heard, she pointed her finger upwards to ________ (示意) th
 
 
 # ***significant*** adj
----
-英音 sɪɡ'nɪfɪkənt     美音 sɪɡ'nɪfɪkənt
-
-词频 3 | 口语 2 | 书面 3 | 阅读 3
-
-
+英音 sɪɡ'nɪfɪkənt     美音 sɪɡ'nɪfɪkənt  
+词频 3 | 口语 2 | 书面 3 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **重要的；重大的；显著的：**  
@@ -8254,12 +7042,8 @@ significantly /sɪɡ'nɪfɪkəntli/ adv
 
 
 # ***significantly*** adv
----
-英音 sɪɡ'nɪfɪkəntli     美音 sɪɡ'nɪfɪkəntli
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sɪɡ'nɪfɪkəntli     美音 sɪɡ'nɪfɪkəntli  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **重大地，显著地**  
@@ -8267,12 +7051,8 @@ significantly /sɪɡ'nɪfɪkəntli/ adv
 
 
 # ***signify*** v
----
-英音 'sɪɡnɪfaɪ     美音 'sɪɡnɪfaɪ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sɪɡnɪfaɪ     美音 'sɪɡnɪfaɪ  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **表示，表明**  
@@ -8280,12 +7060,8 @@ significantly /sɪɡ'nɪfɪkəntli/ adv
 
 
 # ***silence*** vt
----
-英音 'saɪləns     美音 'saɪləns
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'saɪləns     美音 'saɪləns  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **使沉默；使哑口无言：**  
@@ -8296,12 +7072,8 @@ significantly /sɪɡ'nɪfɪkəntli/ adv
 
 
 # ***silence*** n
----
-英音 'saɪləns     美音 'saɪləns
-
-词频 4 | 口语 0 | 书面 2 | 阅读 0
-
-
+英音 'saɪləns     美音 'saɪləns  
+词频 4 | 口语 0 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **沉默；默不作声：**  
@@ -8335,12 +7107,8 @@ significantly /sɪɡ'nɪfɪkəntli/ adv
 
 
 # ***silent*** adj
----
-英音 'saɪlənt     美音 'saɪlənt
-
-词频 3 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 'saɪlənt     美音 'saɪlənt  
+词频 3 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **沉默的；不作声的：**  
@@ -8377,12 +7145,8 @@ significantly /sɪɡ'nɪfɪkəntli/ adv
 silently /'saɪləntli/ adv 
 
 # ***silk*** n
----
-英音 sɪlk     美音 sɪlk
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sɪlk     美音 sɪlk  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **丝；丝绸；丝线：**  
@@ -8400,12 +7164,8 @@ silently /'saɪləntli/ adv
 silky /'sɪlki/ adj 
 
 # ***silly*** adj
----
-英音 'sɪli     美音 'sɪli
-
-词频 3 | 口语 2 | 书面 0 | 阅读 0
-
-
+英音 'sɪli     美音 'sɪli  
+词频 3 | 口语 2 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **傻的；愚蠢的**  
@@ -8419,12 +7179,8 @@ silky /'sɪlki/ adj
 
 
 # ***silver*** n
----
-英音 'sɪlvə(r)     美音 'sɪlvər
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'sɪlvə(r)     美音 'sɪlvər  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -8439,12 +7195,8 @@ silky /'sɪlki/ adj
 
 
 # ***silver*** adj
----
-英音 'sɪlvə(r)     美音 'sɪlvər
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sɪlvə(r)     美音 'sɪlvər  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **银制的；银白色的：**  
@@ -8458,12 +7210,8 @@ silky /'sɪlki/ adj
 
 
 # ***similar*** adj
----
-英音 'sɪmələ(r)     美音 'sɪmələr
-
-词频 4 | 口语 3 | 书面 3 | 阅读 3
-
-
+英音 'sɪmələ(r)     美音 'sɪmələr  
+词频 4 | 口语 3 | 书面 3 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **相似的；类似的**  
@@ -8483,12 +7231,8 @@ silky /'sɪlki/ adj
 similarly /'sɪmələli/ adv 
 
 # ***similarity*** n
----
-英音 ˌsɪmə'lærəti     美音 ˌsɪmə'lærəti
-
-词频 3 | 口语 0 | 书面 0 | 阅读 2
-
-用法点拨  [U] & [C]
+英音 ˌsɪmə'lærəti     美音 ˌsɪmə'lærəti  
+词频 3 | 口语 0 | 书面 0 | 阅读 2  用法点拨  [U] & [C]
 
 英文释义
 ---
@@ -8497,12 +7241,8 @@ similarly /'sɪmələli/ adv
 
 
 # ***similarly*** adv
----
-英音 'sɪmələli     美音 'sɪmələrli
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sɪmələli     美音 'sɪmələrli  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **同样地，类似地**  
@@ -8510,12 +7250,8 @@ similarly /'sɪmələli/ adv
 
 
 # ***simile*** n
----
-英音 'sɪməli     美音 'sɪməli
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sɪməli     美音 'sɪməli  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **明喻**  
@@ -8526,12 +7262,8 @@ similarly /'sɪmələli/ adv
 
 
 # ***simple*** adj  重难点词汇
----
-英音 'sɪmpl     美音 'sɪmpl
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'sɪmpl     美音 'sɪmpl  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **简单的：(easy)**  
@@ -8570,12 +7302,8 @@ I am surprised that you should have been fooled by such a(n) ________ (简单的
   
 
 # ***simplify*** vt
----
-英音 'sɪmplɪfaɪ     美音 'sɪmplɪfaɪ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 'sɪmplɪfaɪ     美音 'sɪmplɪfaɪ  
+词频 1 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **简化：**  
@@ -8593,12 +7321,8 @@ While intelligent people can often ________ (simple) the complex, a fool is more
   
 
 # ***simply*** adv
----
-英音 'sɪmpli     美音 'sɪmpli
-
-词频 4 | 口语 3 | 书面 3 | 阅读 3
-
-
+英音 'sɪmpli     美音 'sɪmpli  
+词频 4 | 口语 3 | 书面 3 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **简单地；简明地：**  
@@ -8638,12 +7362,8 @@ Running a company is not _______ (simple) a matter of hiring people — they als
   
 
 # ***sin*** n
----
-英音 sɪn     美音 sɪn
-
-词频 1 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 sɪn     美音 sɪn  
+词频 1 | 口语 2 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -8652,12 +7372,8 @@ Running a company is not _______ (simple) a matter of hiring people — they als
 
 
 # ***since*** adv
----
-英音 sɪns     美音 sɪns
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [常与现在或过去完成时连用]
+英音 sɪns     美音 sɪns  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [常与现在或过去完成时连用]
 
 英文释义
 ---
@@ -8679,12 +7395,8 @@ Running a company is not _______ (simple) a matter of hiring people — they als
 
 
 # ***since*** prep
----
-英音 sɪns     美音 sɪns
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [常与现在或过去完成时连用]
+英音 sɪns     美音 sɪns  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [常与现在或过去完成时连用]
 
 英文释义
 ---
@@ -8696,12 +7408,8 @@ Running a company is not _______ (simple) a matter of hiring people — they als
 
 
 # ***since*** conj
----
-英音 sɪns     美音 sɪns
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 sɪns     美音 sɪns  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[常与现在或过去完成时连用] 自...以来；从...以后：**  
@@ -8730,12 +7438,8 @@ I have heard a lot of good things about you ________ I came back from abroad.
   
 
 # ***sincere*** adj
----
-英音 sɪn'sɪə(r)     美音 sɪn'sɪr
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sɪn'sɪə(r)     美音 sɪn'sɪr  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **真诚的；诚挚的；诚恳的**  
@@ -8743,12 +7447,8 @@ I have heard a lot of good things about you ________ I came back from abroad.
 
 
 # ***sincerely*** adv
----
-英音 sɪn'sɪəli     美音 sɪn'sɪrli
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sɪn'sɪəli     美音 sɪn'sɪrli  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **真诚地；诚实地：**  
@@ -8769,12 +7469,8 @@ I have heard a lot of good things about you ________ I came back from abroad.
 
 
 # ***sing*** v
----
-英音 sɪŋ     美音 sɪŋ
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-用法点拨  (sang, sung) 
+英音 sɪŋ     美音 sɪŋ  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  用法点拨  (sang, sung) 
 
 英文释义
 ---
@@ -8796,12 +7492,8 @@ I have heard a lot of good things about you ________ I came back from abroad.
 singing /'sɪŋɪŋ/ n [U]
 
 # ***singer*** n
----
-英音 'sɪŋə(r)     美音 'sɪŋər
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'sɪŋə(r)     美音 'sɪŋər  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -8810,12 +7502,8 @@ singing /'sɪŋɪŋ/ n [U]
 
 
 # ***single*** adj
----
-英音 'sɪŋɡl     美音 'sɪŋɡl
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'sɪŋɡl     美音 'sɪŋɡl  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **单个的；单一的：**  
@@ -8845,12 +7533,8 @@ singing /'sɪŋɪŋ/ n [U]
 
 
 # ***single*** n
----
-英音 'sɪŋɡl     美音 'sɪŋɡl
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sɪŋɡl     美音 'sɪŋɡl  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **单程票；单人间**  
@@ -8858,12 +7542,8 @@ singing /'sɪŋɪŋ/ n [U]
 
 
 # ***single-minded*** adj
----
-英音 ˌsɪŋɡl'maɪndɪd     美音 ˌsɪŋɡl'maɪndɪd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌsɪŋɡl'maɪndɪd     美音 ˌsɪŋɡl'maɪndɪd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **一心一意的**  
@@ -8871,12 +7551,8 @@ singing /'sɪŋɪŋ/ n [U]
 
 
 # ***sink*** vi
----
-英音 sɪŋk     美音 sɪŋk
-
-词频 3 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  (sank, sunk)
+英音 sɪŋk     美音 sɪŋk  
+词频 3 | 口语 0 | 书面 1 | 阅读 0  用法点拨  (sank, sunk)
 
 英文释义
 ---
@@ -8923,12 +7599,8 @@ Fred entered without knocking and, very out of breath, sank ________ a chair.
   
 
 # ***sink*** vt
----
-英音 sɪŋk     美音 sɪŋk
-
-词频 3 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  (sank, sunk)
+英音 sɪŋk     美音 sɪŋk  
+词频 3 | 口语 0 | 书面 1 | 阅读 0  用法点拨  (sank, sunk)
 
 英文释义
 ---
@@ -8940,12 +7612,8 @@ Fred entered without knocking and, very out of breath, sank ________ a chair.
 
 
 # ***sink*** n
----
-英音 sɪŋk     美音 sɪŋk
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sɪŋk     美音 sɪŋk  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **水池，水槽，洗碗池**  
@@ -8953,12 +7621,8 @@ Fred entered without knocking and, very out of breath, sank ________ a chair.
 
 
 # ***sip*** n
----
-英音 sɪp     美音 sɪp
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sɪp     美音 sɪp  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **一抿之量；小口喝**  
@@ -8966,12 +7630,8 @@ Fred entered without knocking and, very out of breath, sank ________ a chair.
 
 
 # ***sir*** n
----
-英音 sɜː(r),sə(r)     美音 sɜːr,sər
-
-词频 4 | 口语 0 | 书面 3 | 阅读 0
-
-
+英音 sɜː(r),sə(r)     美音 sɜːr,sər  
+词频 4 | 口语 0 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[对不相识的男子、上级、长辈的尊称] 先生；长官**  
@@ -8982,12 +7642,8 @@ Fred entered without knocking and, very out of breath, sank ________ a chair.
 
 
 # ***sister*** n
----
-英音 'sɪstə(r)     美音 'sɪstər
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'sɪstə(r)     美音 'sɪstər  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -8996,12 +7652,8 @@ Fred entered without knocking and, very out of breath, sank ________ a chair.
 
 
 # ***sit*** v
----
-英音 sɪt     美音 sɪt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (sat, sat)
+英音 sɪt     美音 sɪt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (sat, sat)
 
 英文释义
 ---
@@ -9051,12 +7703,8 @@ Fred entered without knocking and, very out of breath, sank ________ a chair.
 
 
 # ***site*** n
----
-英音 saɪt     美音 saɪt
-
-词频 4 | 口语 3 | 书面 2 | 阅读 3
-
-用法点拨  [C]
+英音 saɪt     美音 saɪt  
+词频 4 | 口语 3 | 书面 2 | 阅读 3  用法点拨  [C]
 
 英文释义
 ---
@@ -9075,12 +7723,8 @@ Fred entered without knocking and, very out of breath, sank ________ a chair.
 
 
 # ***sitting-room*** n
----
 英音 'sɪtɪŋrʊm     
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **起居室**  
@@ -9088,12 +7732,8 @@ Fred entered without knocking and, very out of breath, sank ________ a chair.
 
 
 # ***situated*** adj
----
-英音 'sɪtʃueɪtɪd     美音 'sɪtʃueɪtɪd
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sɪtʃueɪtɪd     美音 'sɪtʃueɪtɪd  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **坐落（某处）的；位于（某处）的**  
@@ -9101,12 +7741,8 @@ Fred entered without knocking and, very out of breath, sank ________ a chair.
 
 
 # ***situation*** n
----
-英音 ˌsɪtʃu'eɪʃn     美音 ˌsɪtʃu'eɪʃn
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 ˌsɪtʃu'eɪʃn     美音 ˌsɪtʃu'eɪʃn  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -9136,12 +7772,8 @@ School children must be taught how to deal with dangerous _______(情形).
   
 
 # ***size*** n
----
-英音 saɪz     美音 saɪz
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 saɪz     美音 saɪz  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **大小；规模：**  
@@ -9166,12 +7798,8 @@ School children must be taught how to deal with dangerous _______(情形).
 
 
 # ***skate*** n
----
-英音 skeɪt     美音 skeɪt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 skeɪt     美音 skeɪt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -9186,12 +7814,8 @@ School children must be taught how to deal with dangerous _______(情形).
 
 
 # ***skate*** vi
----
-英音 skeɪt     美音 skeɪt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 skeɪt     美音 skeɪt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **滑冰：**  
@@ -9205,12 +7829,8 @@ School children must be taught how to deal with dangerous _______(情形).
 
 
 # ***skateboard*** n
----
-英音 'skeɪtbɔːd     美音 'skeɪtbɔːrd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'skeɪtbɔːd     美音 'skeɪtbɔːrd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -9219,12 +7839,8 @@ School children must be taught how to deal with dangerous _______(情形).
 
 
 # ***skateboard*** vi
----
-英音 'skeɪtbɔːd     美音 'skeɪtbɔːrd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'skeɪtbɔːd     美音 'skeɪtbɔːrd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **用滑板滑行**  
@@ -9232,12 +7848,8 @@ School children must be taught how to deal with dangerous _______(情形).
 
 
 # ***skateboarding*** n
----
-英音 'skeɪtbɔːdɪŋ     美音 'skeɪtbɔːdɪŋ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'skeɪtbɔːdɪŋ     美音 'skeɪtbɔːdɪŋ  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **滑板运动**  
@@ -9245,12 +7857,8 @@ School children must be taught how to deal with dangerous _______(情形).
 
 
 # ***skeptical*** adj
----
-英音 'skeptɪkl     美音 'skeptɪkl
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 'skeptɪkl     美音 'skeptɪkl  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **(持)怀疑态度的：**  
@@ -9271,12 +7879,8 @@ School children must be taught how to deal with dangerous _______(情形).
 
 
 # ***ski*** n
----
-英音 skiː     美音 skiː
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 skiː     美音 skiː  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -9285,12 +7889,8 @@ School children must be taught how to deal with dangerous _______(情形).
 
 
 # ***ski*** vi
----
-英音 skiː     美音 skiː
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 skiː     美音 skiː  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **滑雪**  
@@ -9298,12 +7898,8 @@ School children must be taught how to deal with dangerous _______(情形).
 
 
 # ***ski*** adj
----
-英音 skiː     美音 skiː
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 skiː     美音 skiː  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **滑雪的**  
@@ -9311,12 +7907,8 @@ School children must be taught how to deal with dangerous _______(情形).
 
 
 # ***skilful*** adj
----
-英音 'skɪlfl     美音 'skɪlfl
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'skɪlfl     美音 'skɪlfl  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **有技术的；熟练的**  
@@ -9346,12 +7938,8 @@ skilfully /'skɪlfəli/ adv
   
 
 # ***skill*** n
----
-英音 skɪl     美音 skɪl
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 skɪl     美音 skɪl  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **技巧；技艺**  
@@ -9392,12 +7980,8 @@ skilled /skɪld/ adj
 
 
 # ***skilled*** adj
----
-英音 skɪld     美音 skɪld
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 skɪld     美音 skɪld  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **有技巧的；熟练的**  
@@ -9409,12 +7993,8 @@ skilled /skɪld/ adj
 
 
 # ***skillful*** adj
----
-英音 'skɪlfl     美音 'skɪlfl
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'skɪlfl     美音 'skɪlfl  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **有技术的；熟练的**  
@@ -9444,12 +8024,8 @@ skillfully /'skɪlfʊlɪ/ adv
   
 
 # ***skim*** v
----
-英音 skɪm     美音 skɪm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 skɪm     美音 skɪm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **略读；浏览**  
@@ -9468,12 +8044,8 @@ to read sth quickly to find the main points：
 scan, skim和skip是阅读文章时所采取的三种策略。
 
 # ***skin*** vt
----
-英音 skɪn     美音 skɪn
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 skɪn     美音 skɪn  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **剥去...的皮：**  
@@ -9484,12 +8056,8 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 
 
 # ***skin*** n
----
-英音 skɪn     美音 skɪn
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 skɪn     美音 skɪn  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -9508,12 +8076,8 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 
 
 # ***skip*** v
----
-英音 skɪp     美音 skɪp
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 skɪp     美音 skɪp  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **跳；跳过：**  
@@ -9555,12 +8119,8 @@ to not do sth that you usually do or should do (miss)：
 
 
 # ***skirt*** n
----
-英音 skɜːt     美音 skɜːrt
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 skɜːt     美音 skɜːrt  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -9569,12 +8129,8 @@ to not do sth that you usually do or should do (miss)：
 
 
 # ***skull*** n
----
-英音 skʌl     美音 skʌl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 skʌl     美音 skʌl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -9583,12 +8139,8 @@ to not do sth that you usually do or should do (miss)：
 
 
 # ***sky*** n
----
-英音 skaɪ     美音 skaɪ
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 skaɪ     美音 skaɪ  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -9606,12 +8158,8 @@ to not do sth that you usually do or should do (miss)：
 sky 常与定冠词连用；有形容词修饰时，可与不定冠词连用。
 
 # ***skyscraper*** n
----
-英音 'skaɪskreɪpə(r)     美音 'skaɪskreɪpər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'skaɪskreɪpə(r)     美音 'skaɪskreɪpər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -9620,12 +8168,8 @@ sky 常与定冠词连用；有形容词修饰时，可与不定冠词连用。
 
 
 # ***slacks*** n
----
-英音 slæks     美音 slæks
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 slæks     美音 slæks  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **宽松长裤，便裤**  
@@ -9633,12 +8177,8 @@ sky 常与定冠词连用；有形容词修饰时，可与不定冠词连用。
 
 
 # ***slap*** v
----
-英音 slæp     美音 slæp
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 slæp     美音 slæp  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **用巴掌打；掴：**  
@@ -9657,12 +8197,8 @@ sky 常与定冠词连用；有形容词修饰时，可与不定冠词连用。
 
 
 # ***slave*** n
----
-英音 sleɪv     美音 sleɪv
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 sleɪv     美音 sleɪv  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -9674,12 +8210,8 @@ sky 常与定冠词连用；有形容词修饰时，可与不定冠词连用。
 
 
 # ***slavery*** n
----
-英音 'sleɪvəri     美音 'sleɪvəri
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'sleɪvəri     美音 'sleɪvəri  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -9694,12 +8226,8 @@ sky 常与定冠词连用；有形容词修饰时，可与不定冠词连用。
 
 
 # ***sled*** n
----
-英音 sled     美音 sled
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sled     美音 sled  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **雪橇**  
@@ -9707,12 +8235,8 @@ sky 常与定冠词连用；有形容词修饰时，可与不定冠词连用。
 
 
 # ***sledge*** n
----
-英音 sledʒ     美音 sledʒ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sledʒ     美音 sledʒ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **雪车, 雪橇**  
@@ -9720,12 +8244,8 @@ sky 常与定冠词连用；有形容词修饰时，可与不定冠词连用。
 
 
 # ***sleep*** v
----
-英音 sliːp     美音 sliːp
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 sliːp     美音 sliːp  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **睡：**  
@@ -9740,12 +8260,8 @@ sky 常与定冠词连用；有形容词修饰时，可与不定冠词连用。
 
 
 # ***sleep*** n
----
-英音 sliːp     美音 sliːp
-
-词频 5 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [U] & [C]
+英音 sliːp     美音 sliːp  
+词频 5 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [U] & [C]
 
 英文释义
 ---
@@ -9770,12 +8286,8 @@ sky 常与定冠词连用；有形容词修饰时，可与不定冠词连用。
 sleepless /'sliːpləs/ adj 
 
 # ***sleepy*** adj
----
-英音 'sliːpi     美音 'sliːpi
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sliːpi     美音 'sliːpi  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **困的；欲睡的：**  
@@ -9792,12 +8304,8 @@ sleepless /'sliːpləs/ adj
 
 
 # ***sleeve*** n
----
-英音 sliːv     美音 sliːv
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 sliːv     美音 sliːv  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -9813,12 +8321,8 @@ sleepless /'sliːpləs/ adj
 
 
 # ***sleigh*** n
----
-英音 sleɪ     美音 sleɪ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sleɪ     美音 sleɪ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **雪车, 雪橇**  
@@ -9826,12 +8330,8 @@ sleepless /'sliːpləs/ adj
 
 
 # ***slice*** n
----
-英音 slaɪs     美音 slaɪs
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 slaɪs     美音 slaɪs  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -9855,12 +8355,8 @@ sleepless /'sliːpləs/ adj
 
 
 # ***slide*** n
----
-英音 slaɪd     美音 slaɪd
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 slaɪd     美音 slaɪd  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -9876,12 +8372,8 @@ sleepless /'sliːpləs/ adj
 
 
 # ***slide*** v
----
-英音 slaɪd     美音 slaɪd
-
-词频 1 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  (slid, slid)
+英音 slaɪd     美音 slaɪd  
+词频 1 | 口语 1 | 书面 1 | 阅读 0  用法点拨  (slid, slid)
 
 英文释义
 ---
@@ -9917,12 +8409,8 @@ sleepless /'sliːpləs/ adj
 
 
 # ***slight*** adj
----
-英音 slaɪt     美音 slaɪt
-
-词频 3 | 口语 2 | 书面 1 | 阅读 2
-
-
+英音 slaɪt     美音 slaɪt  
+词频 3 | 口语 2 | 书面 1 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **轻微的；少量的：**  
@@ -9944,12 +8432,8 @@ Although I can walk about, there is still a ________ (轻微的) pain in my leg.
   
 
 # ***slightly*** adv
----
-英音 'slaɪtli     美音 'slaɪtli
-
-词频 4 | 口语 3 | 书面 2 | 阅读 3
-
-
+英音 'slaɪtli     美音 'slaɪtli  
+词频 4 | 口语 3 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **略微；稍微**  
@@ -9971,12 +8455,8 @@ It is _______ (slight) colder today than it was yesterday.
   
 
 # ***slim*** vi
----
-英音 slɪm     美音 slɪm
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 slɪm     美音 slɪm  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **减轻体重；变苗条**  
@@ -9998,12 +8478,8 @@ It is _______ (slight) colder today than it was yesterday.
 
 
 # ***slim*** adj
----
-英音 slɪm     美音 slɪm
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 slɪm     美音 slɪm  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **苗条的：**  
@@ -10024,12 +8500,8 @@ It is _______ (slight) colder today than it was yesterday.
 
 
 # ***slip*** n
----
-英音 slɪp     美音 slɪp
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 slɪp     美音 slɪp  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -10041,12 +8513,8 @@ It is _______ (slight) colder today than it was yesterday.
 
 
 # ***slip*** v
----
-英音 slɪp     美音 slɪp
-
-词频 2 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 slɪp     美音 slɪp  
+词频 2 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **滑动；滑倒；滑落：**  
@@ -10091,12 +8559,8 @@ Seeing the big crowd coming towards him, he started to run down the hill, but __
   
 
 # ***slippery*** adj
----
-英音 'slɪpəri     美音 'slɪpəri
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'slɪpəri     美音 'slɪpəri  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **滑的**  
@@ -10104,12 +8568,8 @@ Seeing the big crowd coming towards him, he started to run down the hill, but __
 
 
 # ***slogan*** n
----
-英音 'sləʊɡən     美音 'sloʊɡən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'sləʊɡən     美音 'sloʊɡən  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -10122,12 +8582,8 @@ Seeing the big crowd coming towards him, he started to run down the hill, but __
 
 
 # ***slope*** n
----
-英音 sləʊp     美音 sloʊp
-
-词频 2 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 sləʊp     美音 sloʊp  
+词频 2 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -10136,12 +8592,8 @@ Seeing the big crowd coming towards him, he started to run down the hill, but __
 
 
 # ***slow*** adj
----
-英音 sləʊ     美音 sloʊ
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 sləʊ     美音 sloʊ  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **慢的；缓慢的：**  
@@ -10177,12 +8629,8 @@ Seeing the big crowd coming towards him, he started to run down the hill, but __
 slowly /'sləʊli/ adv 
 
 # ***slow*** adv
----
-英音 sləʊ     美音 sloʊ
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sləʊ     美音 sloʊ  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **缓慢地；慢慢地：**  
@@ -10196,12 +8644,8 @@ slowly /'sləʊli/ adv
 
 
 # ***slow*** v
----
-英音 sləʊ     美音 sloʊ
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 sləʊ     美音 sloʊ  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **放慢 (速度)；(使) 变得缓慢**  
@@ -10219,12 +8663,8 @@ slowly /'sləʊli/ adv
 
 
 # ***small*** adj
----
-英音 smɔːl     美音 smɔːl
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 smɔːl     美音 smɔːl  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **小的；(数量) 少的；(字母) 小写的：**  
@@ -10257,12 +8697,8 @@ slowly /'sləʊli/ adv
 
 
 # ***smart*** adj
----
-英音 smɑːt     美音 smɑːrt
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 smɑːt     美音 smɑːrt  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **聪明的；精明的：**  
@@ -10283,12 +8719,8 @@ slowly /'sləʊli/ adv
 
 
 # ***smartly*** adv
----
-英音 smɑːtli     美音 smartly
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 smɑːtli     美音 smartly  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **潇洒地；漂亮地**  
@@ -10296,12 +8728,8 @@ slowly /'sləʊli/ adv
 
 
 # ***smell*** n
----
-英音 smel     美音 smel
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 smel     美音 smel  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **气味；[用单数] 臭味：**  
@@ -10333,12 +8761,8 @@ slowly /'sləʊli/ adv
 smelly /'smeli/ adj 
 
 # ***smell*** v
----
-英音 smel     美音 smel
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  (smelt / smelled, smelt / smelled)
+英音 smel     美音 smel  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  用法点拨  (smelt / smelled, smelt / smelled)
 
 英文释义
 ---
@@ -10400,12 +8824,8 @@ smelly /'smeli/ adj
 
 
 # ***smelly*** adj
----
-英音 'smeli     美音 'smeli
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'smeli     美音 'smeli  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **发臭的；有臭味的**  
@@ -10413,12 +8833,8 @@ smelly /'smeli/ adj
 
 
 # ***smile*** n
----
-英音 smaɪl     美音 smaɪl
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 smaɪl     美音 smaɪl  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -10434,12 +8850,8 @@ smelly /'smeli/ adj
 
 
 # ***smile*** v
----
-英音 smaɪl     美音 smaɪl
-
-词频 5 | 口语 1 | 书面 3 | 阅读 0
-
-
+英音 smaɪl     美音 smaɪl  
+词频 5 | 口语 1 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **微笑：**  
@@ -10457,12 +8869,8 @@ smelly /'smeli/ adj
 
 
 # ***smog*** n
----
-英音 smɒɡ     美音 smɑːɡ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U] & [C]
+英音 smɒɡ     美音 smɑːɡ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U] & [C]
 
 英文释义
 ---
@@ -10471,12 +8879,8 @@ smelly /'smeli/ adj
 
 
 # ***smoke*** v
----
-英音 sməʊk     美音 smoʊk
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 sməʊk     美音 smoʊk  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **抽 (烟)；吸 (烟)：**  
@@ -10499,12 +8903,8 @@ smelly /'smeli/ adj
 
 
 # ***smoke*** n
----
-英音 sməʊk     美音 smoʊk
-
-词频 5 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 sməʊk     美音 smoʊk  
+词频 5 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **烟：**  
@@ -10522,12 +8922,8 @@ smelly /'smeli/ adj
 
 
 # ***smoker*** n
----
-英音 'sməʊkə(r)     美音 'smoʊkər
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'sməʊkə(r)     美音 'smoʊkər  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -10540,12 +8936,8 @@ smelly /'smeli/ adj
 
 
 # ***smoking*** n
----
-英音 'sməʊkɪŋ     美音 'smoʊkɪŋ
-
-词频 4 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'sməʊkɪŋ     美音 'smoʊkɪŋ  
+词频 4 | 口语 2 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -10558,12 +8950,8 @@ smelly /'smeli/ adj
 
 
 # ***smooth*** vt
----
-英音 smuːð     美音 smuːð
-
-词频 3 | 口语 0 | 书面 0 | 阅读 3
-
-
+英音 smuːð     美音 smuːð  
+词频 3 | 口语 0 | 书面 0 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **使平滑；使光滑；把...弄平：**  
@@ -10586,12 +8974,8 @@ smelly /'smeli/ adj
 
 
 # ***smooth*** adj
----
-英音 smuːð     美音 smuːð
-
-词频 3 | 口语 0 | 书面 1 | 阅读 3
-
-
+英音 smuːð     美音 smuːð  
+词频 3 | 口语 0 | 书面 1 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **平滑的 反 rough;平静的；平稳的:**  
@@ -10629,12 +9013,8 @@ Everything seemed to be going ________ (smooth) for the first two days after I m
   
 
 # ***snack*** n
----
-英音 snæk     美音 snæk
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 snæk     美音 snæk  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -10643,12 +9023,8 @@ Everything seemed to be going ________ (smooth) for the first two days after I m
 
 
 # ***snake*** n
----
-英音 sneɪk     美音 sneɪk
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 sneɪk     美音 sneɪk  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -10657,12 +9033,8 @@ Everything seemed to be going ________ (smooth) for the first two days after I m
 
 
 # ***snap*** n
----
-英音 snæp     美音 snæp
-
-词频 1 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 snæp     美音 snæp  
+词频 1 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -10671,12 +9043,8 @@ Everything seemed to be going ________ (smooth) for the first two days after I m
 
 
 # ***snap*** v
----
-英音 snæp     美音 snæp
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 snæp     美音 snæp  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **崩溃；支持不住**  
@@ -10684,12 +9052,8 @@ Everything seemed to be going ________ (smooth) for the first two days after I m
 
 
 # ***sneak*** n
----
-英音 sniːk     美音 sniːk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 sniːk     美音 sniːk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -10698,12 +9062,8 @@ Everything seemed to be going ________ (smooth) for the first two days after I m
 
 
 # ***sneak*** v
----
-英音 sniːk     美音 sniːk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sniːk     美音 sniːk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **偷偷地走；vt 偷偷携带；偷拿**  
@@ -10711,12 +9071,8 @@ Everything seemed to be going ________ (smooth) for the first two days after I m
 
 
 # ***sneaker*** n
----
-英音 'sniːkə(r)     美音 'sniːkər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'sniːkə(r)     美音 'sniːkər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -10725,12 +9081,8 @@ Everything seemed to be going ________ (smooth) for the first two days after I m
 
 
 # ***sneeze*** vi
----
-英音 sniːz     美音 sniːz
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sniːz     美音 sniːz  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **打喷嚏：**  
@@ -10741,12 +9093,8 @@ Everything seemed to be going ________ (smooth) for the first two days after I m
 
 
 # ***sniff*** v
----
-英音 snɪf     美音 snɪf
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 snɪf     美音 snɪf  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **嗅；闻；(用鼻子) 吸 (气)：**  
@@ -10757,12 +9105,8 @@ Everything seemed to be going ________ (smooth) for the first two days after I m
 
 
 # ***snorkel*** vi
----
-英音 'snɔːkl     美音 'snɔːrkl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'snɔːkl     美音 'snɔːrkl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **戴潜水通气管潜泳**  
@@ -10770,12 +9114,8 @@ Everything seemed to be going ________ (smooth) for the first two days after I m
 
 
 # ***snorkel*** n
----
-英音 'snɔːkl     美音 'snɔːrkl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'snɔːkl     美音 'snɔːrkl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(潜水艇或潜水者的) 通气管**  
@@ -10783,12 +9123,8 @@ Everything seemed to be going ________ (smooth) for the first two days after I m
 
 
 # ***snow*** n
----
-英音 snəʊ     美音 snoʊ
-
-词频 5 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 snəʊ     美音 snoʊ  
+词频 5 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **雪：**  
@@ -10809,12 +9145,8 @@ Everything seemed to be going ________ (smooth) for the first two days after I m
 
 
 # ***snow*** vi
----
-英音 snəʊ     美音 snoʊ
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 snəʊ     美音 snoʊ  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **下雪；雪一般地落下：**  
@@ -10825,12 +9157,8 @@ Everything seemed to be going ________ (smooth) for the first two days after I m
 
 
 # ***snowboarding*** n
----
-英音 'snəʊbɔːdɪŋ     美音 'snoʊbɔːrdɪŋ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'snəʊbɔːdɪŋ     美音 'snoʊbɔːrdɪŋ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **单板滑雪**  
@@ -10838,12 +9166,8 @@ Everything seemed to be going ________ (smooth) for the first two days after I m
 
 
 # ***snowrafting*** n
----
-英音 'snəʊrɑːftɪŋ     美音 'snoʊræftɪŋ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'snəʊrɑːftɪŋ     美音 'snoʊræftɪŋ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **动力雪橇滑降**  
@@ -10851,12 +9175,8 @@ Everything seemed to be going ________ (smooth) for the first two days after I m
 
 
 # ***snowstorm*** n
----
-英音 'snəʊstɔːm     美音 'snoʊstɔːrm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'snəʊstɔːm     美音 'snoʊstɔːrm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -10865,12 +9185,8 @@ Everything seemed to be going ________ (smooth) for the first two days after I m
 
 
 # ***snowy*** adj
----
-英音 'snəʊi     美音 'snoʊi
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'snəʊi     美音 'snoʊi  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **降雪的；多雪的；被雪覆盖的：**  
@@ -10881,12 +9197,8 @@ Everything seemed to be going ________ (smooth) for the first two days after I m
 
 
 # ***so*** conj  重难点词汇
----
-英音 səʊ     美音 soʊ
-
-词频 5 | 口语 3 | 书面 1 | 阅读 0
-
-
+英音 səʊ     美音 soʊ  
+词频 5 | 口语 3 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **因此；所以：**  
@@ -10948,12 +9260,8 @@ Some animals carry seeds from one place to another, ________ (所以) plants can
   
 
 # ***so*** adv  重难点词汇
----
-英音 səʊ     美音 soʊ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 səʊ     美音 soʊ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **[表示方式、方法、情况等] 像这样；像那样：**  
@@ -11095,12 +9403,8 @@ I haven’t seen Ann for ________ long that I’ve forgotten what she looks like
   
 
 # ***soap*** n
----
-英音 səʊp     美音 soʊp
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 səʊp     美音 soʊp  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -11113,12 +9417,8 @@ I haven’t seen Ann for ________ long that I’ve forgotten what she looks like
 
 
 # ***soar*** vi
----
-英音 sɔː(r)     美音 sɔːr
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sɔː(r)     美音 sɔːr  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **升空, 升腾**  
@@ -11126,12 +9426,8 @@ I haven’t seen Ann for ________ long that I’ve forgotten what she looks like
 
 
 # ***sob*** n
----
-英音 sɒb     美音 sɑːb
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 sɒb     美音 sɑːb  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -11143,12 +9439,8 @@ I haven’t seen Ann for ________ long that I’ve forgotten what she looks like
 
 
 # ***sob*** v
----
-英音 sɒb     美音 sɑːb
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sɒb     美音 sɑːb  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **抽泣 (着说)；呜咽 (着说)：**  
@@ -11159,12 +9451,8 @@ I haven’t seen Ann for ________ long that I’ve forgotten what she looks like
 
 
 # ***soccer*** n
----
-英音 'sɒkə(r)     美音 'sɑːkər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'sɒkə(r)     美音 'sɑːkər  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -11173,12 +9461,8 @@ I haven’t seen Ann for ________ long that I’ve forgotten what she looks like
 
 
 # ***social*** adj
----
-英音 'səʊʃl     美音 'soʊʃl
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'səʊʃl     美音 'soʊʃl  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **社会的；社交的：**  
@@ -11196,12 +9480,8 @@ I haven’t seen Ann for ________ long that I’ve forgotten what she looks like
 socially /'səʊʃəli/ adv 
 
 # ***socialism*** n
----
-英音 'səʊʃəlɪzəm     美音 'soʊʃəlɪzəm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'səʊʃəlɪzəm     美音 'soʊʃəlɪzəm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -11210,12 +9490,8 @@ socially /'səʊʃəli/ adv
 
 
 # ***socialist*** adj
----
-英音 'səʊʃəlɪst     美音 'soʊʃəlɪst
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'səʊʃəlɪst     美音 'soʊʃəlɪst  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **社会主义 (者) 的：**  
@@ -11226,12 +9502,8 @@ socially /'səʊʃəli/ adv
 
 
 # ***socialist*** n
----
-英音 'səʊʃəlɪst     美音 'soʊʃəlɪst
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'səʊʃəlɪst     美音 'soʊʃəlɪst  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -11240,12 +9512,8 @@ socially /'səʊʃəli/ adv
 
 
 # ***society*** n
----
-英音 sə'saɪəti     美音 sə'saɪəti
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 sə'saɪəti     美音 sə'saɪəti  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[不与the连用] 社会：**  
@@ -11265,12 +9533,8 @@ socially /'səʊʃəli/ adv
 
 
 # ***sock*** n
----
-英音 sɒk     美音 sɑːk
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 sɒk     美音 sɑːk  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -11279,12 +9543,8 @@ socially /'səʊʃəli/ adv
 
 
 # ***socket*** n
----
-英音 'sɒkɪt     美音 'sɑːkɪt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'sɒkɪt     美音 'sɑːkɪt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -11296,12 +9556,8 @@ socially /'səʊʃəli/ adv
 
 
 # ***sodium*** n
----
-英音 'səʊdiəm     美音 'soʊdiəm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'səʊdiəm     美音 'soʊdiəm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **钠**  
@@ -11309,12 +9565,8 @@ socially /'səʊʃəli/ adv
 
 
 # ***sofa*** n
----
-英音 'səʊfə     美音 'soʊfə
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'səʊfə     美音 'soʊfə  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -11323,12 +9575,8 @@ socially /'səʊʃəli/ adv
 
 
 # ***soft*** adj
----
-英音 sɒft     美音 sɔːft
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 sɒft     美音 sɔːft  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **柔软的【反:hard】；柔和的；轻柔的；**  
@@ -11368,12 +9616,8 @@ soften /'sɒfn/ v
 softly /'sɒftli/ adv 
 
 # ***softball*** n
----
-英音 'sɒftbɔːl     美音 'sɔːftbɔːl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sɒftbɔːl     美音 'sɔːftbɔːl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **垒球（运动）**  
@@ -11381,12 +9625,8 @@ softly /'sɒftli/ adv
 
 
 # ***software*** n
----
-英音 'sɒftweə(r)     美音 'sɔːftwer
-
-词频 3 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  [U]
+英音 'sɒftweə(r)     美音 'sɔːftwer  
+词频 3 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -11395,12 +9635,8 @@ softly /'sɒftli/ adv
 
 
 # ***soil*** n
----
-英音 sɔɪl     美音 sɔɪl
-
-词频 4 | 口语 0 | 书面 2 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 sɔɪl     美音 sɔɪl  
+词频 4 | 口语 0 | 书面 2 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -11420,12 +9656,8 @@ softly /'sɒftli/ adv
 
 
 # ***solar*** adj
----
-英音 'səʊlə(r)     美音 'soʊlər
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'səʊlə(r)     美音 'soʊlər  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **太阳的；利用太阳能的：**  
@@ -11439,12 +9671,8 @@ softly /'sɒftli/ adv
 
 
 # ***soldier*** n
----
-英音 'səʊldʒə(r)     美音 'soʊldʒər
-
-词频 3 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'səʊldʒə(r)     美音 'soʊldʒər  
+词频 3 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -11453,12 +9681,8 @@ softly /'sɒftli/ adv
 
 
 # ***solid*** n
----
-英音 'sɒlɪd     美音 'sɑːlɪd
-
-词频 3 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 'sɒlɪd     美音 'sɑːlɪd  
+词频 3 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -11470,12 +9694,8 @@ softly /'sɒftli/ adv
 
 
 # ***solid*** adj
----
-英音 'sɒlɪd     美音 'sɑːlɪd
-
-词频 3 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 'sɒlɪd     美音 'sɑːlɪd  
+词频 3 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **固体的：**  
@@ -11521,12 +9741,8 @@ D.potential
   
 
 # ***solo*** n
----
-英音 'səʊləʊ     美音 'soʊloʊ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'səʊləʊ     美音 'soʊloʊ  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -11538,12 +9754,8 @@ D.potential
 
 
 # ***solo*** adj
----
-英音 'səʊləʊ     美音 'soʊloʊ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'səʊləʊ     美音 'soʊloʊ  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **单独的；独自的：**  
@@ -11560,12 +9772,8 @@ D.potential
 
 
 # ***soloist*** n
----
-英音 'səʊləʊɪst     美音 'soʊloʊɪst
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'səʊləʊɪst     美音 'soʊloʊɪst  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **独奏者；独唱者**  
@@ -11573,12 +9781,8 @@ D.potential
 
 
 # ***solution*** n
----
-英音 sə'luːʃn     美音 sə'luːʃn
-
-词频 4 | 口语 2 | 书面 3 | 阅读 3
-
-用法点拨  [C][常与to连用]
+英音 sə'luːʃn     美音 sə'luːʃn  
+词频 4 | 口语 2 | 书面 3 | 阅读 3  用法点拨  [C][常与to连用]
 
 英文释义
 ---
@@ -11598,12 +9802,8 @@ The school advisors help you talk through your problems but they don’t give yo
   
 
 # ***solve*** vt
----
-英音 sɒlv     美音 sɑːlv
-
-词频 4 | 口语 2 | 书面 1 | 阅读 3
-
-
+英音 sɒlv     美音 sɑːlv  
+词频 4 | 口语 2 | 书面 1 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **解决；解答：**  
@@ -11614,12 +9814,8 @@ The school advisors help you talk through your problems but they don’t give yo
 
 
 # ***somatic*** adj
----
-英音 səʊ'mætɪk     美音 soʊ'mætɪk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 səʊ'mætɪk     美音 soʊ'mætɪk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **躯体的；肉体的；细胞体的**  
@@ -11627,12 +9823,8 @@ The school advisors help you talk through your problems but they don’t give yo
 
 
 # ***some*** adj  重难点词汇
----
-英音 səm,sʌm     美音 səm,sʌm
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 səm,sʌm     美音 səm,sʌm  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[多用于肯定句，与不可数名词或可数名词复数连用] 若干的；一些的：**  
@@ -11695,12 +9887,8 @@ D.a; little
   
 
 # ***some*** pron  重难点词汇
----
-英音 səm,sʌm     美音 səm,sʌm
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 səm,sʌm     美音 səm,sʌm  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **一些：**  
@@ -11717,12 +9905,8 @@ D.a; little
 
 
 # ***some*** adv  重难点词汇
----
-英音 səm,sʌm     美音 səm,sʌm
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [用在few及数词之前]
+英音 səm,sʌm     美音 səm,sʌm  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [用在few及数词之前]
 
 英文释义
 ---
@@ -11734,12 +9918,8 @@ D.a; little
 
 
 # ***somebody*** n
----
-英音 'sʌmbədi     美音 'sʌmbədi
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'sʌmbədi     美音 'sʌmbədi  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -11751,12 +9931,8 @@ D.a; little
 
 
 # ***somebody*** pron
----
-英音 'sʌmbədi     美音 'sʌmbədi
-
-词频 4 | 口语 3 | 书面 1 | 阅读 0
-
-
+英音 'sʌmbədi     美音 'sʌmbədi  
+词频 4 | 口语 3 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **有人；某人：(someone)**  
@@ -11767,12 +9943,8 @@ D.a; little
 
 
 # ***someday*** adv
----
-英音 'sʌmdeɪ     美音 'sʌmˌdeɪ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sʌmdeɪ     美音 'sʌmˌdeɪ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **将来有一天；有朝一日(some day)：**  
@@ -11783,12 +9955,8 @@ D.a; little
 
 
 # ***somehow*** adv
----
-英音 'sʌmhaʊ     美音 'sʌmhaʊ
-
-词频 3 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'sʌmhaʊ     美音 'sʌmhaʊ  
+词频 3 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **以某种方式；用某种方法：**  
@@ -11805,12 +9973,8 @@ D.a; little
 
 
 # ***someone*** pron
----
-英音 'sʌmwʌn     美音 'sʌmwʌn
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'sʌmwʌn     美音 'sʌmwʌn  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **某人 (somebody)**  
@@ -11818,12 +9982,8 @@ D.a; little
 
 
 # ***something*** n  重难点词汇
----
-英音 'sʌmθɪŋ     美音 'sʌmθɪŋ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [U]
+英音 'sʌmθɪŋ     美音 'sʌmθɪŋ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -11875,12 +10035,8 @@ D.everything
   
 
 # ***something*** pron  重难点词汇
----
-英音 'sʌmθɪŋ     美音 'sʌmθɪŋ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'sʌmθɪŋ     美音 'sʌmθɪŋ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[常用于陈述句中；当表示说话者期望得到肯定的回答时，可以用在疑问句中] 某物；某事：**  
@@ -11923,12 +10079,8 @@ something, anything, nothing, somebody,anybody, nobody, everyone, anyone, no one
   
 
 # ***sometime*** adv
----
-英音 'sʌmtaɪm     美音 'sʌmtaɪm
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sʌmtaɪm     美音 'sʌmtaɪm  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **在 (过去或将来) 某个时候 (some time)：**  
@@ -11939,12 +10091,8 @@ something, anything, nothing, somebody,anybody, nobody, everyone, anyone, no one
 
 
 # ***sometimes*** adv
----
-英音 'sʌmtaɪmz     美音 'sʌmtaɪmz
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'sʌmtaɪmz     美音 'sʌmtaɪmz  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **不时；有时：**  
@@ -11965,12 +10113,8 @@ Father ________ (有时) goes to the gym with us although he dislikes going ther
   
 
 # ***somewhat*** adv
----
-英音 'sʌmwɒt     美音 'sʌmwʌt
-
-词频 2 | 口语 2 | 书面 2 | 阅读 2
-
-
+英音 'sʌmwɒt     美音 'sʌmwʌt  
+词频 2 | 口语 2 | 书面 2 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **稍微；有点：**  
@@ -11981,12 +10125,8 @@ Father ________ (有时) goes to the gym with us although he dislikes going ther
 
 
 # ***somewhere*** adv
----
-英音 'sʌmweə(r)     美音 'sʌmwer
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 'sʌmweə(r)     美音 'sʌmwer  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **在某处；到某处：**  
@@ -11998,12 +10138,8 @@ Father ________ (有时) goes to the gym with us although he dislikes going ther
 somewhere通常用于肯定句中。但当表示说话者期望得到肯定的回答时，可以用在疑问句中。
 
 # ***somewhere*** pron
----
-英音 'sʌmweə(r)     美音 'sʌmwer
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 'sʌmweə(r)     美音 'sʌmwer  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **某处：**  
@@ -12014,12 +10150,8 @@ somewhere通常用于肯定句中。但当表示说话者期望得到肯定的�
 
 
 # ***son*** n
----
-英音 sʌn     美音 sʌn
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 sʌn     美音 sʌn  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -12037,12 +10169,8 @@ somewhere通常用于肯定句中。但当表示说话者期望得到肯定的�
 
 
 # ***song*** n
----
-英音 sɒŋ     美音 sɔːŋ
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 sɒŋ     美音 sɔːŋ  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -12059,12 +10187,8 @@ somewhere通常用于肯定句中。但当表示说话者期望得到肯定的�
 
 
 # ***songbird*** n
----
-英音 ˈsɒŋbɜ:d     美音 ˈsɔ:ŋbɜ:rd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˈsɒŋbɜ:d     美音 ˈsɔ:ŋbɜ:rd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **鸣禽**  
@@ -12072,12 +10196,8 @@ somewhere通常用于肯定句中。但当表示说话者期望得到肯定的�
 
 
 # ***sonnet*** n
----
-英音 'sɒnɪt     美音 'sɑːnɪt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sɒnɪt     美音 'sɑːnɪt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **十四行诗（每行十个音节，韵律规范的诗体）**  
@@ -12085,12 +10205,8 @@ somewhere通常用于肯定句中。但当表示说话者期望得到肯定的�
 
 
 # ***soon*** adv
----
-英音 suːn     美音 suːn
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 suːn     美音 suːn  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **不久：**  
@@ -12161,12 +10277,8 @@ Just use this room for the time being, and we’ll offer you a larger one ______
   
 
 # ***sophisticated*** adj
----
-英音 sə'fɪstɪkeɪtɪd     美音 sə'fɪstɪkeɪtɪd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sə'fɪstɪkeɪtɪd     美音 sə'fɪstɪkeɪtɪd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **复杂的，高级的**  
@@ -12174,12 +10286,8 @@ Just use this room for the time being, and we’ll offer you a larger one ______
 
 
 # ***sore*** adj
----
-英音 sɔː(r)     美音 sɔːr
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 sɔː(r)     美音 sɔːr  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **疼痛的；(肌肉) 酸痛的：**  
@@ -12191,12 +10299,8 @@ Just use this room for the time being, and we’ll offer you a larger one ______
 
 
 # ***sorghum*** n
----
-英音 'sɔːɡəm     美音 'sɔːrɡəm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'sɔːɡəm     美音 'sɔːrɡəm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -12205,12 +10309,8 @@ Just use this room for the time being, and we’ll offer you a larger one ______
 
 
 # ***sorrow*** n
----
-英音 'sɒrəʊ     美音 'sɑːroʊ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sɒrəʊ     美音 'sɑːroʊ  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **悲伤；悲痛：**  
@@ -12232,12 +10332,8 @@ Just use this room for the time being, and we’ll offer you a larger one ______
 
 
 # ***sorry*** int  重难点词汇
----
-英音 'sɒri     美音 'sɑːri
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 'sɒri     美音 'sɑːri  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **对不起；不好意思：**  
@@ -12248,12 +10344,8 @@ Just use this room for the time being, and we’ll offer you a larger one ______
 
 
 # ***sorry*** adj  重难点词汇
----
-英音 'sɒri     美音 'sɑːri
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-用法点拨  [不用于名词前]
+英音 'sɒri     美音 'sɑːri  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  用法点拨  [不用于名词前]
 
 英文释义
 ---
@@ -12315,12 +10407,8 @@ Just use this room for the time being, and we’ll offer you a larger one ______
 
 
 # ***sort*** n  重难点词汇
----
-英音 sɔːt     美音 sɔːrt
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 sɔːt     美音 sɔːrt  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -12354,12 +10442,8 @@ Just use this room for the time being, and we’ll offer you a larger one ______
 
 
 # ***sort*** vt  重难点词汇
----
-英音 sɔːt     美音 sɔːrt
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 sɔːt     美音 sɔːrt  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **把...分类 / 整理：**  
@@ -12384,12 +10468,8 @@ Just use this room for the time being, and we’ll offer you a larger one ______
 
 
 # ***soul*** n
----
-英音 səʊl     美音 soʊl
-
-词频 3 | 口语 1 | 书面 1 | 阅读 3
-
-用法点拨  [C]
+英音 səʊl     美音 soʊl  
+词频 3 | 口语 1 | 书面 1 | 阅读 3  用法点拨  [C]
 
 英文释义
 ---
@@ -12416,12 +10496,8 @@ Just use this room for the time being, and we’ll offer you a larger one ______
 
 
 # ***sound*** n  重难点词汇
----
-英音 saʊnd     美音 saʊnd
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 saʊnd     美音 saʊnd  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **声；声音：**  
@@ -12453,12 +10529,8 @@ Just use this room for the time being, and we’ll offer you a larger one ______
 
 
 # ***sound*** v  重难点词汇
----
-英音 saʊnd     美音 saʊnd
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 saʊnd     美音 saʊnd  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(使) 发声；(使) 响：**  
@@ -12508,12 +10580,8 @@ Just use this room for the time being, and we’ll offer you a larger one ______
   
 
 # ***sound*** adj  重难点词汇
----
-英音 saʊnd     美音 saʊnd
-
-词频 5 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 saʊnd     美音 saʊnd  
+词频 5 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **明智的；合理的；正确的**  
@@ -12548,12 +10616,8 @@ healthy and strong; in good condition：
 
 
 # ***sound*** adv  重难点词汇
----
-英音 saʊnd     美音 saʊnd
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 saʊnd     美音 saʊnd  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **彻底地；充分地：**  
@@ -12565,12 +10629,8 @@ healthy and strong; in good condition：
 
 
 # ***soundproof*** adj
----
-英音 'saʊndpruːf     美音 'saʊndpruːf
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'saʊndpruːf     美音 'saʊndpruːf  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **隔音的**  
@@ -12578,12 +10638,8 @@ healthy and strong; in good condition：
 
 
 # ***soundtrack*** n
----
-英音 'saʊndtræk     美音 'saʊndtræk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'saʊndtræk     美音 'saʊndtræk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **电影配乐**  
@@ -12591,12 +10647,8 @@ healthy and strong; in good condition：
 
 
 # ***soup*** n
----
-英音 suːp     美音 suːp
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 suːp     美音 suːp  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -12605,12 +10657,8 @@ healthy and strong; in good condition：
 
 
 # ***sour*** adj
----
-英音 'saʊə(r)     美音 'saʊər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'saʊə(r)     美音 'saʊər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **酸的；酸味的**  
@@ -12618,12 +10666,8 @@ healthy and strong; in good condition：
 
 
 # ***source*** n
----
-英音 sɔːs     美音 sɔːrs
-
-词频 4 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 sɔːs     美音 sɔːrs  
+词频 4 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -12672,12 +10716,8 @@ D.root
   
 
 # ***south*** n
----
-英音 saʊθ     美音 saʊθ
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U] [多与the连用]
+英音 saʊθ     美音 saʊθ  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U] [多与the连用]
 
 英文释义
 ---
@@ -12689,12 +10729,8 @@ D.root
 
 
 # ***south*** adj
----
-英音 saʊθ     美音 saʊθ
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [只用于名词前] (South)
+英音 saʊθ     美音 saʊθ  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [只用于名词前] (South)
 
 英文释义
 ---
@@ -12706,12 +10742,8 @@ D.root
 
 
 # ***south*** adv
----
-英音 saʊθ     美音 saʊθ
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 saʊθ     美音 saʊθ  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **向南；向南方：**  
@@ -12725,12 +10757,8 @@ D.root
 
 
 # ***south-west*** n
----
-英音 ˌsauθˈwest     美音 saʊθˈwɛst
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌsauθˈwest     美音 saʊθˈwɛst  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **西南**  
@@ -12738,12 +10766,8 @@ D.root
 
 
 # ***southeast*** n
----
-英音 ˌsaʊθ'iːst     美音 ˌsaʊθ'iːst
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U](Southeast)
+英音 ˌsaʊθ'iːst     美音 ˌsaʊθ'iːst  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U](Southeast)
 
 英文释义
 ---
@@ -12755,12 +10779,8 @@ D.root
 
 
 # ***southeast*** adj
----
-英音 ˌsaʊθ'iːst     美音 ˌsaʊθ'iːst
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  (Southeast)
+英音 ˌsaʊθ'iːst     美音 ˌsaʊθ'iːst  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  (Southeast)
 
 英文释义
 ---
@@ -12769,12 +10789,8 @@ D.root
 
 
 # ***southeast*** adv
----
-英音 ˌsaʊθ'iːst     美音 ˌsaʊθ'iːst
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  (Southeast)
+英音 ˌsaʊθ'iːst     美音 ˌsaʊθ'iːst  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  (Southeast)
 
 英文释义
 ---
@@ -12783,12 +10799,8 @@ D.root
 
 
 # ***southeastern*** adj
----
-英音 saʊθ'iːstən     美音 saʊθ'iːstən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 saʊθ'iːstən     美音 saʊθ'iːstən  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **东南部的；来自东南部的**  
@@ -12796,12 +10808,8 @@ D.root
 
 
 # ***southern*** adj
----
-英音 'sʌðən     美音 'sʌðərn
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sʌðən     美音 'sʌðərn  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **南方的；南部的**  
@@ -12813,12 +10821,8 @@ D.root
 southerner /'sʌðənə(r)/ n [C]
 
 # ***southward*** adj & adv
----
-英音 'saʊθwəd     美音 'saʊθwərd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'saʊθwəd     美音 'saʊθwərd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **向南方 (的)：**  
@@ -12829,12 +10833,8 @@ southerner /'sʌðənə(r)/ n [C]
 
 
 # ***southwards*** adj & adv
----
-英音 'saʊθwədz     美音 'saʊθwərdz
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'saʊθwədz     美音 'saʊθwərdz  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **向南方 (的)：**  
@@ -12845,12 +10845,8 @@ southerner /'sʌðənə(r)/ n [C]
 
 
 # ***southwest*** n
----
-英音 ˌsaʊθ'west     美音 ˌsaʊθ'west
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  (Southwest)
+英音 ˌsaʊθ'west     美音 ˌsaʊθ'west  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  (Southwest)
 
 英文释义
 ---
@@ -12859,12 +10855,8 @@ southerner /'sʌðənə(r)/ n [C]
 
 
 # ***southwest*** adj
----
-英音 ˌsaʊθ'west     美音 ˌsaʊθ'west
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  (Southwest)
+英音 ˌsaʊθ'west     美音 ˌsaʊθ'west  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  (Southwest)
 
 英文释义
 ---
@@ -12873,12 +10865,8 @@ southerner /'sʌðənə(r)/ n [C]
 
 
 # ***southwest*** adv
----
-英音 ˌsaʊθ'west     美音 ˌsaʊθ'west
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  (Southwest)
+英音 ˌsaʊθ'west     美音 ˌsaʊθ'west  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  (Southwest)
 
 英文释义
 ---
@@ -12887,12 +10875,8 @@ southerner /'sʌðənə(r)/ n [C]
 
 
 # ***souvenir*** n
----
-英音 ˌsuːvə'nɪə(r)     美音 ˌsuːvə'nɪr
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ˌsuːvə'nɪə(r)     美音 ˌsuːvə'nɪr  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -12901,12 +10885,8 @@ southerner /'sʌðənə(r)/ n [C]
 
 
 # ***sow*** v
----
-英音 səʊ     美音 saʊ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  (sowed, sown / sowed)
+英音 səʊ     美音 saʊ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  (sowed, sown / sowed)
 
 英文释义
 ---
@@ -12921,12 +10901,8 @@ southerner /'sʌðənə(r)/ n [C]
 
 
 # ***soybean*** n
----
-英音 'sɔɪbiːn     美音 'sɔɪbiːn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'sɔɪbiːn     美音 'sɔɪbiːn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -12935,12 +10911,8 @@ southerner /'sʌðənə(r)/ n [C]
 
 
 # ***space*** n
----
-英音 speɪs     美音 speɪs
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 speɪs     美音 speɪs  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **空间；空地 (room)：**  
@@ -12967,12 +10939,8 @@ southerner /'sʌðənə(r)/ n [C]
 in space表示“在太空中”，space前不用冠词。
 
 # ***spaceman*** n
----
-英音 'speɪsmæn     美音 'speɪsmæn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨   [C] (= astronaut)
+英音 'speɪsmæn     美音 'speɪsmæn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨   [C] (= astronaut)
 
 英文释义
 ---
@@ -12981,12 +10949,8 @@ in space表示“在太空中”，space前不用冠词。
 
 
 # ***spaceport*** n
----
-英音 'speɪspɔːt     美音 'speɪspɔːt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'speɪspɔːt     美音 'speɪspɔːt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **宇航基地**  
@@ -12994,12 +10958,8 @@ in space表示“在太空中”，space前不用冠词。
 
 
 # ***spaceship*** n
----
-英音 'speɪsʃɪp     美音 'speɪsʃɪp
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'speɪsʃɪp     美音 'speɪsʃɪp  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -13011,12 +10971,8 @@ in space表示“在太空中”，space前不用冠词。
 
 
 # ***spade*** n
----
-英音 speɪd     美音 speɪd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 speɪd     美音 speɪd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -13025,12 +10981,8 @@ in space表示“在太空中”，space前不用冠词。
 
 
 # ***spaghetti*** n
----
-英音 spə'ɡeti     美音 spə'ɡeti
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 spə'ɡeti     美音 spə'ɡeti  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -13039,12 +10991,8 @@ in space表示“在太空中”，space前不用冠词。
 
 
 # ***span*** n
----
-英音 spæn     美音 spæn
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 spæn     美音 spæn  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **时距，期间**  
@@ -13052,12 +11000,8 @@ in space表示“在太空中”，space前不用冠词。
 
 
 # ***spare*** n  重难点词汇
----
-英音 speə(r)     美音 sper
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 speə(r)     美音 sper  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -13069,12 +11013,8 @@ in space表示“在太空中”，space前不用冠词。
 
 
 # ***spare*** adj  重难点词汇
----
-英音 speə(r)     美音 sper
-
-词频 4 | 口语 2 | 书面 0 | 阅读 0
-
-
+英音 speə(r)     美音 sper  
+词频 4 | 口语 2 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **不用的；闲置的**  
@@ -13112,12 +11052,8 @@ time when you are not working (free)：
 
 
 # ***spare*** vt  重难点词汇
----
-英音 speə(r)     美音 sper
-
-词频 4 | 口语 2 | 书面 0 | 阅读 0
-
-
+英音 speə(r)     美音 sper  
+词频 4 | 口语 2 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **抽出；腾出；剩下：**  
@@ -13174,12 +11110,8 @@ They started off late and got to the airport with minutes to ________ (剩下).
   
 
 # ***sparrow*** n
----
-英音 'spærəʊ     美音 'spæroʊ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'spærəʊ     美音 'spæroʊ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -13188,12 +11120,8 @@ They started off late and got to the airport with minutes to ________ (剩下).
 
 
 # ***speak*** vi  重难点词汇
----
-英音 spiːk     美音 spiːk
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (spoke, spoken)
+英音 spiːk     美音 spiːk  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (spoke, spoken)
 
 英文释义
 ---
@@ -13240,12 +11168,8 @@ D.Are you John?
   
 
 # ***speak*** vt  重难点词汇
----
-英音 spiːk     美音 spiːk
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (spoke, spoken)
+英音 spiːk     美音 spiːk  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (spoke, spoken)
 
 英文释义
 ---
@@ -13296,12 +11220,8 @@ speaking常与某些副词连用，作插入语。
 
 
 # ***speaker*** n
----
-英音 'spiːkə(r)     美音 'spiːkər
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'spiːkə(r)     美音 'spiːkər  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -13313,12 +11233,8 @@ speaking常与某些副词连用，作插入语。
 
 
 # ***spear*** n
----
-英音 spɪə(r)     美音 spɪr
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 spɪə(r)     美音 spɪr  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -13327,12 +11243,8 @@ speaking常与某些副词连用，作插入语。
 
 
 # ***special*** adj
----
-英音 'speʃl     美音 'speʃl
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'speʃl     美音 'speʃl  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[常用于名词前] 特别的；特殊的：**  
@@ -13358,12 +11270,8 @@ for a particular purpose：
 
 
 # ***special*** n
----
-英音 'speʃl     美音 'speʃl
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'speʃl     美音 'speʃl  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -13375,12 +11283,8 @@ for a particular purpose：
 
 
 # ***specialise*** vi
----
-英音 'speʃəlaɪz     美音 'speʃəlaɪz
-
-词频 3 | 口语 0 | 书面 0 | 阅读 2
-
-
+英音 'speʃəlaɪz     美音 'speʃəlaɪz  
+词频 3 | 口语 0 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **专门研究；专门从事：**  
@@ -13396,12 +11300,8 @@ for a particular purpose：
 
 
 # ***specialist*** n
----
-英音 'speʃəlɪst     美音 'speʃəlɪst
-
-词频 3 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 'speʃəlɪst     美音 'speʃəlɪst  
+词频 3 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -13414,12 +11314,8 @@ for a particular purpose：
 
 
 # ***specialize*** vi
----
-英音 'speʃəlaɪz     美音 'speʃəlaɪz
-
-词频 3 | 口语 0 | 书面 0 | 阅读 2
-
-
+英音 'speʃəlaɪz     美音 'speʃəlaɪz  
+词频 3 | 口语 0 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **专门研究；专门从事：**  
@@ -13435,12 +11331,8 @@ for a particular purpose：
 
 
 # ***specially*** adv
----
-英音 'speʃəli     美音 'speʃəli
-
-词频 3 | 口语 0 | 书面 0 | 阅读 3
-
-
+英音 'speʃəli     美音 'speʃəli  
+词频 3 | 口语 0 | 书面 0 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **特别地；专门；格外**  
@@ -13450,12 +11342,8 @@ for a particular purpose：
 
 
 # ***species*** n
----
-英音 'spiːʃiːz     美音 'spiːʃiːz
-
-词频 4 | 口语 0 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'spiːʃiːz     美音 'spiːʃiːz  
+词频 4 | 口语 0 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -13464,12 +11352,8 @@ for a particular purpose：
 
 
 # ***specific*** adj
----
-英音 spə'sɪfɪk     美音 spə'sɪfɪk
-
-词频 4 | 口语 3 | 书面 3 | 阅读 3
-
-
+英音 spə'sɪfɪk     美音 spə'sɪfɪk  
+词频 4 | 口语 3 | 书面 3 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **明确的；详细的**  
@@ -13494,12 +11378,8 @@ detailed and exact (precise)：
 
 
 # ***specifically*** adv
----
-英音 spə'sɪfɪkli     美音 spə'sɪfɪkli
-
-词频 2 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 spə'sɪfɪkli     美音 spə'sɪfɪkli  
+词频 2 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **尤其；具体地：**  
@@ -13510,12 +11390,8 @@ detailed and exact (precise)：
 
 
 # ***specify*** v
----
 英音 'spesɪfaɪ     
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **详细说明；指定；阐述**  
@@ -13523,12 +11399,8 @@ detailed and exact (precise)：
 
 
 # ***spectacular*** adj
----
-英音 spek'tækjələ(r)     美音 spek'tækjələr
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 spek'tækjələ(r)     美音 spek'tækjələr  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **引人入胜的；壮观的**  
@@ -13536,12 +11408,8 @@ detailed and exact (precise)：
 
 
 # ***speech*** n
----
-英音 spiːtʃ     美音 spiːtʃ
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 spiːtʃ     美音 spiːtʃ  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **演说；发言：**  
@@ -13566,12 +11434,8 @@ detailed and exact (precise)：
 
 
 # ***speed*** n  重难点词汇
----
-英音 spiːd     美音 spiːd
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 spiːd     美音 spiːd  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -13592,12 +11456,8 @@ detailed and exact (precise)：
 
 
 # ***speed*** v  重难点词汇
----
-英音 spiːd     美音 spiːd
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  (sped / speeded, sped / speeded)
+英音 spiːd     美音 spiːd  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  用法点拨  (sped / speeded, sped / speeded)
 
 英文释义
 ---
@@ -13645,12 +11505,8 @@ They are broadening the bridge to speed ________ the flow of traffic.
   
 
 # ***spell*** v
----
-英音 spel     美音 spel
-
-词频 2 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  (spelt / spelled, spelt / spelled) vt & vi
+英音 spel     美音 spel  
+词频 2 | 口语 2 | 书面 0 | 阅读 0  用法点拨  (spelt / spelled, spelt / spelled) vt & vi
 
 英文释义
 ---
@@ -13663,12 +11519,8 @@ They are broadening the bridge to speed ________ the flow of traffic.
 
 
 # ***spellbind*** vt
----
-英音 'spelbaɪnd     美音 'spelˌbaɪnd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  (spellbound, spellbound) 
+英音 'spelbaɪnd     美音 'spelˌbaɪnd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  (spellbound, spellbound) 
 
 英文释义
 ---
@@ -13677,12 +11529,8 @@ They are broadening the bridge to speed ________ the flow of traffic.
 
 
 # ***spelling*** n
----
-英音 'spelɪŋ     美音 'spelɪŋ
-
-词频 2 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'spelɪŋ     美音 'spelɪŋ  
+词频 2 | 口语 2 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -13691,12 +11539,8 @@ They are broadening the bridge to speed ________ the flow of traffic.
 
 
 # ***spend*** vt
----
-英音 spend     美音 spend
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (spent, spent)
+英音 spend     美音 spend  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (spent, spent)
 
 英文释义
 ---
@@ -13743,12 +11587,8 @@ Much time ________ (spend) sitting at a desk, office workers are generally troub
   
 
 # ***spice*** n
----
-英音 spaɪs     美音 spaɪs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 spaɪs     美音 spaɪs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **香料**  
@@ -13756,12 +11596,8 @@ Much time ________ (spend) sitting at a desk, office workers are generally troub
 
 
 # ***spicy*** adj
----
-英音 'spaɪsi     美音 'spaɪsi
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'spaɪsi     美音 'spaɪsi  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(食物) 加有香料的；辛辣的**  
@@ -13769,12 +11605,8 @@ Much time ________ (spend) sitting at a desk, office workers are generally troub
 
 
 # ***spider*** n
----
-英音 'spaɪdə(r)     美音 'spaɪdər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'spaɪdə(r)     美音 'spaɪdər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **蜘蛛**  
@@ -13782,12 +11614,8 @@ Much time ________ (spend) sitting at a desk, office workers are generally troub
 
 
 # ***spill*** v
----
-英音 spɪl     美音 spɪl
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 spɪl     美音 spɪl  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(使) 溢出；(使) 洒出：**  
@@ -13799,12 +11627,8 @@ Much time ________ (spend) sitting at a desk, office workers are generally troub
 
 
 # ***spin*** n
----
-英音 spɪn     美音 spɪn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 spɪn     美音 spɪn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -13813,12 +11637,8 @@ Much time ________ (spend) sitting at a desk, office workers are generally troub
 
 
 # ***spin*** v
----
-英音 spɪn     美音 spɪn
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  (spun, spun)
+英音 spɪn     美音 spɪn  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  用法点拨  (spun, spun)
 
 英文释义
 ---
@@ -13830,12 +11650,8 @@ Much time ________ (spend) sitting at a desk, office workers are generally troub
 
 
 # ***spin-off*** n
----
-英音 'spɪnɒf     美音 'spɪnɔːf
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'spɪnɒf     美音 'spɪnɔːf  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **附带的结果；副产品**  
@@ -13843,12 +11659,8 @@ Much time ________ (spend) sitting at a desk, office workers are generally troub
 
 
 # ***spirit*** n
----
-英音 'spɪrɪt     美音 'spɪrɪt
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'spɪrɪt     美音 'spɪrɪt  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **精神：**  
@@ -13889,12 +11701,8 @@ Much time ________ (spend) sitting at a desk, office workers are generally troub
 
 
 # ***spiritual*** adj
----
-英音 'spɪrɪtʃuəl     美音 'spɪrɪtʃuəl
-
-词频 2 | 口语 0 | 书面 1 | 阅读 2
-
-
+英音 'spɪrɪtʃuəl     美音 'spɪrɪtʃuəl  
+词频 2 | 口语 0 | 书面 1 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **精神 (上) 的；心灵的：**  
@@ -13916,12 +11724,8 @@ Much time ________ (spend) sitting at a desk, office workers are generally troub
 spiritually /'spɪrɪtʃuəli/ adv 
 
 # ***spit*** v
----
-英音 spɪt     美音 spɪt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  (spat / spit, spat / spit)
+英音 spɪt     美音 spɪt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  (spat / spit, spat / spit)
 
 英文释义
 ---
@@ -13937,12 +11741,8 @@ spiritually /'spɪrɪtʃuəli/ adv
 
 
 # ***spite*** n
----
-英音 spaɪt     美音 spaɪt
-
-词频 3 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [U]
+英音 spaɪt     美音 spaɪt  
+词频 3 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -13961,12 +11761,8 @@ spiritually /'spɪrɪtʃuəli/ adv
 
 
 # ***splash*** v
----
-英音 splæʃ     美音 splæʃ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 splæʃ     美音 splæʃ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（液体）溅落；飞溅**  
@@ -13974,12 +11770,8 @@ spiritually /'spɪrɪtʃuəli/ adv
 
 
 # ***splendid*** adj
----
-英音 'splendɪd     美音 'splendɪd
-
-词频 3 | 口语 0 | 书面 0 | 阅读 3
-
-
+英音 'splendɪd     美音 'splendɪd  
+词频 3 | 口语 0 | 书面 0 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **壮丽的；辉煌的；灿烂的 (magnificent)：**  
@@ -14002,12 +11794,8 @@ spiritually /'spɪrɪtʃuəli/ adv
 
 
 # ***split*** v
----
-英音 splɪt     美音 splɪt
-
-词频 2 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  (split, split)
+英音 splɪt     美音 splɪt  
+词频 2 | 口语 2 | 书面 1 | 阅读 0  用法点拨  (split, split)
 
 英文释义
 ---
@@ -14029,12 +11817,8 @@ spiritually /'spɪrɪtʃuəli/ adv
 
 
 # ***spoil*** vt
----
-英音 spɔɪl     美音 spɔɪl
-
-词频 2 | 口语 1 | 书面 0 | 阅读 1
-
-用法点拨  (spoilt / spoiled, spoilt / spoiled)
+英音 spɔɪl     美音 spɔɪl  
+词频 2 | 口语 1 | 书面 0 | 阅读 1  用法点拨  (spoilt / spoiled, spoilt / spoiled)
 
 英文释义
 ---
@@ -14063,12 +11847,8 @@ to change sth good into sth bad, unpleasant, etc.; to ruin sth：
 spoiled/spoilt /spɔɪld/ /spɔɪlt/ adj 
 
 # ***spoken*** adj
----
-英音 'spəʊkən     美音 'spoʊkən
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'spəʊkən     美音 'spoʊkən  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **口头的；口语的：**  
@@ -14080,12 +11860,8 @@ spoiled/spoilt /spɔɪld/ /spɔɪlt/ adj
 
 
 # ***spokesman*** n
----
-英音 'spəʊksmən     美音 'spoʊksmən
-
-词频 2 | 口语 0 | 书面 2 | 阅读 0
-
-用法点拨  [C] (pl spokesmen)
+英音 'spəʊksmən     美音 'spoʊksmən  
+词频 2 | 口语 0 | 书面 2 | 阅读 0  用法点拨  [C] (pl spokesmen)
 
 英文释义
 ---
@@ -14094,12 +11870,8 @@ spoiled/spoilt /spɔɪld/ /spɔɪlt/ adj
 
 
 # ***spokeswoman*** n
----
-英音 'spəʊkswʊmən     美音 'spoʊkswʊmən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] (pl spokeswomen)
+英音 'spəʊkswʊmən     美音 'spoʊkswʊmən  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] (pl spokeswomen)
 
 英文释义
 ---
@@ -14108,12 +11880,8 @@ spoiled/spoilt /spɔɪld/ /spɔɪlt/ adj
 
 
 # ***sponsor*** vt
----
-英音 'spɒnsə(r)     美音 'spɑːnsər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 2
-
-
+英音 'spɒnsə(r)     美音 'spɑːnsər  
+词频 2 | 口语 0 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **赞助；发起：**  
@@ -14135,12 +11903,8 @@ D.plan
   
 
 # ***sponsor*** n
----
-英音 'spɒnsə(r)     美音 'spɑːnsər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 2
-
-用法点拨  [C]
+英音 'spɒnsə(r)     美音 'spɑːnsər  
+词频 2 | 口语 0 | 书面 0 | 阅读 2  用法点拨  [C]
 
 英文释义
 ---
@@ -14159,12 +11923,8 @@ D.plan
 
 
 # ***spoon*** n
----
-英音 spuːn     美音 spuːn
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 spuːn     美音 spuːn  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -14173,12 +11933,8 @@ D.plan
 
 
 # ***spoonful*** n
----
-英音 'spuːnfʊl     美音 'spuːnfʊl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'spuːnfʊl     美音 'spuːnfʊl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -14190,12 +11946,8 @@ D.plan
 
 
 # ***sport*** n
----
-英音 spɔːt     美音 spɔːrt
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 spɔːt     美音 spɔːrt  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -14213,12 +11965,8 @@ D.plan
 
 
 # ***sportsman*** n
----
-英音 'spɔːrtsmən     美音 'spɔːtsmən
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'spɔːrtsmən     美音 'spɔːtsmən  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -14227,12 +11975,8 @@ D.plan
 
 
 # ***sportswear*** n
----
-英音 'spɔːtsweə(r)     美音 'spɔːrtswer
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'spɔːtsweə(r)     美音 'spɔːrtswer  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **运动服装；休闲服装**  
@@ -14240,12 +11984,8 @@ D.plan
 
 
 # ***sportswoman*** n
----
-英音 'spɔːtswʊmən     美音 'spɔːrtswʊmən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'spɔːtswʊmən     美音 'spɔːrtswʊmən  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -14254,12 +11994,8 @@ D.plan
 
 
 # ***spot*** vt
----
-英音 spɒt     美音 spɑːt
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 spɒt     美音 spɑːt  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **发现；认出：**  
@@ -14274,12 +12010,8 @@ D.plan
 spotted /'spɒtɪd/ adj 
 
 # ***spot*** n
----
-英音 spɒt     美音 spɑːt
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 spɒt     美音 spɑːt  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -14320,12 +12052,8 @@ spotted /'spɒtɪd/ adj
 
 
 # ***spotted*** adj
----
-英音 'spɒtɪd     美音 'spɑːtɪd
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'spɒtɪd     美音 'spɑːtɪd  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **有污迹的,有斑点的**  
@@ -14333,12 +12061,8 @@ spotted /'spɒtɪd/ adj
 
 
 # ***sprain*** vt
----
-英音 spreɪn     美音 spreɪn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 spreɪn     美音 spreɪn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **扭伤**  
@@ -14346,12 +12070,8 @@ spotted /'spɒtɪd/ adj
 
 
 # ***sprained*** adj
----
-英音 spreɪnd     美音 spreɪnd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 spreɪnd     美音 spreɪnd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **扭伤的**  
@@ -14359,12 +12079,8 @@ spotted /'spɒtɪd/ adj
 
 
 # ***spray*** n
----
-英音 spreɪ     美音 spreɪ
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 spreɪ     美音 spreɪ  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -14373,12 +12089,8 @@ spotted /'spɒtɪd/ adj
 
 
 # ***spray*** vt
----
-英音 spreɪ     美音 spreɪ
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 spreɪ     美音 spreɪ  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **向...喷射：**  
@@ -14389,12 +12101,8 @@ spotted /'spɒtɪd/ adj
 
 
 # ***spread*** n  重难点词汇
----
-英音 spred     美音 spred
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 spred     美音 spred  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **传播；蔓延：**  
@@ -14415,12 +12123,8 @@ spotted /'spɒtɪd/ adj
 
 
 # ***spread*** v  重难点词汇
----
-英音 spred     美音 spred
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  (spread, spread)
+英音 spred     美音 spred  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  用法点拨  (spread, spread)
 
 英文释义
 ---
@@ -14493,12 +12197,8 @@ The idea started in Standlake and has ________ (传开) throughout the country.
   
 
 # ***spring*** vi
----
-英音 sprɪŋ     美音 sprɪŋ
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  (sprang / sprung, sprung / sprung)
+英音 sprɪŋ     美音 sprɪŋ  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  (sprang / sprung, sprung / sprung)
 
 英文释义
 ---
@@ -14514,12 +12214,8 @@ The idea started in Standlake and has ________ (传开) throughout the country.
 
 
 # ***spring*** n
----
-英音 sprɪŋ     美音 sprɪŋ
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 sprɪŋ     美音 sprɪŋ  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **春天；春季：**  
@@ -14537,12 +12233,8 @@ The idea started in Standlake and has ________ (传开) throughout the country.
 
 
 # ***spy*** v
----
-英音 spaɪ     美音 spaɪ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 spaɪ     美音 spaɪ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **侦探；侦察：**  
@@ -14558,12 +12250,8 @@ The idea started in Standlake and has ________ (传开) throughout the country.
 
 
 # ***spy*** n
----
-英音 spaɪ     美音 spaɪ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 spaɪ     美音 spaɪ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -14572,12 +12260,8 @@ The idea started in Standlake and has ________ (传开) throughout the country.
 
 
 # ***spyglass*** n
----
-英音 'spaɪɡlɑːs     美音 'spaɪɡlæs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'spaɪɡlɑːs     美音 'spaɪɡlæs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **小型望远镜**  
@@ -14585,12 +12269,8 @@ The idea started in Standlake and has ________ (传开) throughout the country.
 
 
 # ***squad*** n
----
-英音 skwɒd     美音 skwɑːd
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 skwɒd     美音 skwɑːd  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **拉拉队**  
@@ -14598,12 +12278,8 @@ The idea started in Standlake and has ________ (传开) throughout the country.
 
 
 # ***square*** n
----
-英音 skweə(r)     美音 skwer
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 skweə(r)     美音 skwer  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -14621,12 +12297,8 @@ The idea started in Standlake and has ________ (传开) throughout the country.
 
 
 # ***square*** adj
----
-英音 skweə(r)     美音 skwer
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 skweə(r)     美音 skwer  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **方形的：**  
@@ -14644,12 +12316,8 @@ The idea started in Standlake and has ________ (传开) throughout the country.
 
 
 # ***squeeze*** v
----
-英音 skwiːz     美音 skwiːz
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 skwiːz     美音 skwiːz  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **挤；握紧；压榨：**  
@@ -14667,12 +12335,8 @@ The idea started in Standlake and has ________ (传开) throughout the country.
 
 
 # ***squire*** n
----
-英音 skwaɪə(r)     美音 'skwaɪər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] 
+英音 skwaɪə(r)     美音 'skwaɪər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] 
 
 英文释义
 ---
@@ -14681,12 +12345,8 @@ The idea started in Standlake and has ________ (传开) throughout the country.
 
 
 # ***squirrel*** n
----
-英音 'skwɪrəl     美音 'skwɜːrəl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'skwɪrəl     美音 'skwɜːrəl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -14695,12 +12355,8 @@ The idea started in Standlake and has ________ (传开) throughout the country.
 
 
 # ***stab*** v
----
-英音 stæb     美音 stæb
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  (stabbed, stabbed)
+英音 stæb     美音 stæb  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  (stabbed, stabbed)
 
 英文释义
 ---
@@ -14709,12 +12365,8 @@ The idea started in Standlake and has ________ (传开) throughout the country.
 
 
 # ***stable*** adj
----
-英音 'steɪbl     美音 'steɪbl
-
-词频 2 | 口语 0 | 书面 1 | 阅读 2
-
-
+英音 'steɪbl     美音 'steɪbl  
+词频 2 | 口语 0 | 书面 1 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **稳定的；牢固的 (steady)：**  
@@ -14738,12 +12390,8 @@ Water can absorb and give off a lot of heat without big changes in temperature, 
   
 
 # ***stable*** n
----
-英音 'steɪbl     美音 'steɪbl
-
-词频 2 | 口语 0 | 书面 0 | 阅读 2
-
-用法点拨  [C]
+英音 'steɪbl     美音 'steɪbl  
+词频 2 | 口语 0 | 书面 0 | 阅读 2  用法点拨  [C]
 
 英文释义
 ---
@@ -14752,12 +12400,8 @@ Water can absorb and give off a lot of heat without big changes in temperature, 
 
 
 # ***stadium*** n
----
-英音 'steɪdiəm     美音 'steɪdiəm
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] 
+英音 'steɪdiəm     美音 'steɪdiəm  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] 
 
 英文释义
 ---
@@ -14766,12 +12410,8 @@ Water can absorb and give off a lot of heat without big changes in temperature, 
 
 
 # ***staff*** n
----
-英音 stɑːf     美音 stæf
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C][集体名词]
+英音 stɑːf     美音 stæf  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C][集体名词]
 
 英文释义
 ---
@@ -14786,12 +12426,8 @@ Water can absorb and give off a lot of heat without big changes in temperature, 
 
 
 # ***stage*** n
----
-英音 steɪdʒ     美音 steɪdʒ
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 steɪdʒ     美音 steɪdʒ  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -14816,12 +12452,8 @@ one part of the progress or development of sth：
 
 
 # ***stain*** n
----
-英音 steɪn     美音 steɪn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 steɪn     美音 steɪn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -14841,12 +12473,8 @@ one part of the progress or development of sth：
 
 
 # ***stain*** v
----
-英音 steɪn     美音 steɪn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 steɪn     美音 steɪn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(被) 弄污；(被) 玷污：**  
@@ -14863,12 +12491,8 @@ one part of the progress or development of sth：
 
 
 # ***stainless*** adj
----
-英音 'steɪnlɪs     美音 'steɪnlɪs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'steɪnlɪs     美音 'steɪnlɪs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(金属) 不生锈的；没有污点的：**  
@@ -14880,12 +12504,8 @@ one part of the progress or development of sth：
 
 
 # ***stair*** n
----
-英音 steə(r)     美音 ster
-
-词频 3 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [C][常用复数]
+英音 steə(r)     美音 ster  
+词频 3 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [C][常用复数]
 
 英文释义
 ---
@@ -14902,12 +12522,8 @@ one part of the progress or development of sth：
 
 
 # ***stall*** n
----
-英音 stɔːl     美音 stɔːl
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 stɔːl     美音 stɔːl  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -14916,12 +12532,8 @@ one part of the progress or development of sth：
 
 
 # ***stamina*** n
----
-英音 'stæmɪnə     美音 'stæmɪnə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'stæmɪnə     美音 'stæmɪnə  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **持久力；耐力；毅力**  
@@ -14929,12 +12541,8 @@ one part of the progress or development of sth：
 
 
 # ***stamp*** v
----
-英音 stæmp     美音 stæmp
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 stæmp     美音 stæmp  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **在...上面贴 (邮票)；在...上盖 (章等)：**  
@@ -14959,12 +12567,8 @@ one part of the progress or development of sth：
 
 
 # ***stamp*** n
----
-英音 stæmp     美音 stæmp
-
-词频 4 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 stæmp     美音 stæmp  
+词频 4 | 口语 2 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -14976,12 +12580,8 @@ one part of the progress or development of sth：
 
 
 # ***stampede*** n
----
-英音 stæm'piːd     美音 stæm'piːd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 stæm'piːd     美音 stæm'piːd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -14990,12 +12590,8 @@ one part of the progress or development of sth：
 
 
 # ***stand*** n
----
-英音 stænd     美音 stænd
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 stænd     美音 stænd  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -15017,12 +12613,8 @@ one part of the progress or development of sth：
 
 
 # ***stand*** vi
----
-英音 stænd     美音 stænd
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (stood, stood)
+英音 stænd     美音 stænd  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (stood, stood)
 
 英文释义
 ---
@@ -15059,12 +12651,8 @@ one part of the progress or development of sth：
 
 
 # ***stand*** vt
----
-英音 stænd     美音 stænd
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 stænd     美音 stænd  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **使直立；使站立：**  
@@ -15170,12 +12758,8 @@ I can’t stand ________ (work) with Jane in the same office. She just refuses _
   
 
 # ***stand-by*** adj
----
 
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **备用的**  
@@ -15183,12 +12767,8 @@ I can’t stand ________ (work) with Jane in the same office. She just refuses _
 
 
 # ***stand-up*** n
----
-英音 'stændʌp     美音 'stændʌp
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'stændʌp     美音 'stændʌp  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **单口喜剧**  
@@ -15196,12 +12776,8 @@ I can’t stand ________ (work) with Jane in the same office. She just refuses _
 
 
 # ***stand-up*** adj
----
-英音 'stændʌp     美音 'stændʌp
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'stændʌp     美音 'stændʌp  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（喜剧）单人表演的**  
@@ -15209,12 +12785,8 @@ I can’t stand ________ (work) with Jane in the same office. She just refuses _
 
 
 # ***standard*** adj
----
-英音 'stændəd     美音 'stændərd
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'stændəd     美音 'stændərd  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **标准的：**  
@@ -15228,12 +12800,8 @@ I can’t stand ________ (work) with Jane in the same office. She just refuses _
 
 
 # ***standard*** n
----
-英音 'stændəd     美音 'stændərd
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'stændəd     美音 'stændərd  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -15254,12 +12822,8 @@ I can’t stand ________ (work) with Jane in the same office. She just refuses _
 
 
 # ***staple*** adj
----
-英音 'steɪpl     美音 'steɪpl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'steɪpl     美音 'steɪpl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[只用于名词前]主要的；最重要的**  
@@ -15267,12 +12831,8 @@ I can’t stand ________ (work) with Jane in the same office. She just refuses _
 
 
 # ***star*** v
----
-英音 stɑː(r)     美音 stɑːr
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  (starred, starred, starring)
+英音 stɑː(r)     美音 stɑːr  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  (starred, starred, starring)
 
 英文释义
 ---
@@ -15285,12 +12845,8 @@ I can’t stand ________ (work) with Jane in the same office. She just refuses _
 
 
 # ***star*** n
----
-英音 stɑː(r)     美音 stɑːr
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 stɑː(r)     美音 stɑːr  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -15311,12 +12867,8 @@ I can’t stand ________ (work) with Jane in the same office. She just refuses _
 
 
 # ***stare*** n
----
-英音 steə(r)     美音 ster
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 steə(r)     美音 ster  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -15329,12 +12881,8 @@ I can’t stand ________ (work) with Jane in the same office. She just refuses _
 
 
 # ***stare*** v
----
-英音 steə(r)     美音 ster
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 steə(r)     美音 ster  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **盯；凝视：**  
@@ -15352,12 +12900,8 @@ I can’t stand ________ (work) with Jane in the same office. She just refuses _
 
 
 # ***starry*** adj
----
-英音 'stɑːri     美音 'stɑːri
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'stɑːri     美音 'stɑːri  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **布满星星的；像星星的，明亮的**  
@@ -15365,12 +12909,8 @@ I can’t stand ________ (work) with Jane in the same office. She just refuses _
 
 
 # ***start*** v
----
-英音 stɑːt     美音 stɑːrt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 stɑːt     美音 stɑːrt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **开始(begin)：**  
@@ -15456,12 +12996,8 @@ I can’t stand ________ (work) with Jane in the same office. She just refuses _
 
 
 # ***start*** n
----
-英音 stɑːt     美音 stɑːrt
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 stɑːt     美音 stɑːrt  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **开始：**  
@@ -15484,12 +13020,8 @@ I can’t stand ________ (work) with Jane in the same office. She just refuses _
 
 
 # ***starvation*** n
----
-英音 stɑː'veɪʃn     美音 stɑːr'veɪʃn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 stɑː'veɪʃn     美音 stɑːr'veɪʃn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -15502,12 +13034,8 @@ I can’t stand ________ (work) with Jane in the same office. She just refuses _
 
 
 # ***starve*** v
----
-英音 stɑːv     美音 stɑːrv
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 stɑːv     美音 stɑːrv  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(使) 挨饿；饿死：**  
@@ -15533,12 +13061,8 @@ I can’t stand ________ (work) with Jane in the same office. She just refuses _
 
 
 # ***starving*** adj
----
-英音 'stɑːvɪŋ     美音 'stɑːvɪŋ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'stɑːvɪŋ     美音 'stɑːvɪŋ  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **挨饿的,即将饿死的**  
@@ -15546,12 +13070,8 @@ I can’t stand ________ (work) with Jane in the same office. She just refuses _
 
 
 # ***state*** vt
----
-英音 steɪt     美音 steɪt
-
-词频 5 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 steɪt     美音 steɪt  
+词频 5 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **陈述；说明**  
@@ -15563,12 +13083,8 @@ to say or write sth, especially formally：
 
 
 # ***state*** n
----
-英音 steɪt     美音 steɪt
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 steɪt     美音 steɪt  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -15600,12 +13116,8 @@ the mental, emotional or physical condition that sb / sth is in：
 三者都含有“国家”的意思。
 
 # ***state-owned*** adj
----
 英音 steɪt'əʊnd     
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **州立的；国营的**  
@@ -15613,12 +13125,8 @@ the mental, emotional or physical condition that sb / sth is in：
 
 
 # ***statement*** n
----
-英音 'steɪtmənt     美音 'steɪtmənt
-
-词频 4 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'steɪtmənt     美音 'steɪtmənt  
+词频 4 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -15639,12 +13147,8 @@ the mental, emotional or physical condition that sb / sth is in：
 
 
 # ***statesman*** n
----
-英音 'steɪtsmən     美音 'steɪtsmən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] 
+英音 'steɪtsmən     美音 'steɪtsmən  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] 
 
 英文释义
 ---
@@ -15653,12 +13157,8 @@ the mental, emotional or physical condition that sb / sth is in：
 
 
 # ***stateswoman*** n
----
-英音 'steɪtsˌwʊmən     美音 'steɪtsˌwʊmən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] 
+英音 'steɪtsˌwʊmən     美音 'steɪtsˌwʊmən  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] 
 
 英文释义
 ---
@@ -15667,12 +13167,8 @@ the mental, emotional or physical condition that sb / sth is in：
 
 
 # ***station*** n
----
-英音 'steɪʃn     美音 'steɪʃn
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'steɪʃn     美音 'steɪʃn  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -15700,12 +13196,8 @@ the mental, emotional or physical condition that sb / sth is in：
 
 
 # ***station*** vt
----
-英音 'steɪʃn     美音 'steɪʃn
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'steɪʃn     美音 'steɪʃn  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **使驻扎；派驻**  
@@ -15713,12 +13205,8 @@ the mental, emotional or physical condition that sb / sth is in：
 
 
 # ***statistics*** n
----
-英音 stə'tɪstɪks     美音 stə'tɪstɪks
-
-词频 2 | 口语 0 | 书面 0 | 阅读 2
-
-
+英音 stə'tɪstɪks     美音 stə'tɪstɪks  
+词频 2 | 口语 0 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *低义频：* **统计数字：**  
@@ -15736,12 +13224,8 @@ the mental, emotional or physical condition that sb / sth is in：
 
 
 # ***statue*** n
----
-英音 'stætʃuː     美音 'stætʃuː
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'stætʃuː     美音 'stætʃuː  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -15753,12 +13237,8 @@ the mental, emotional or physical condition that sb / sth is in：
 
 
 # ***statuette*** n
----
-英音 ˌstætʃu'et     美音 ˌstætʃu'et
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌstætʃu'et     美音 ˌstætʃu'et  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **小雕（塑）像**  
@@ -15766,12 +13246,8 @@ the mental, emotional or physical condition that sb / sth is in：
 
 
 # ***status*** n
----
-英音 'steɪtəs     美音 'steɪtəs
-
-词频 2 | 口语 0 | 书面 2 | 阅读 2
-
-用法点拨  [C] & [U]
+英音 'steɪtəs     美音 'steɪtəs  
+词频 2 | 口语 0 | 书面 2 | 阅读 2  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -15791,12 +13267,8 @@ the mental, emotional or physical condition that sb / sth is in：
 
 
 # ***staunch*** adj
----
-英音 stɔːntʃ     美音 stɔːntʃ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 stɔːntʃ     美音 stɔːntʃ  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **坚定的，忠实可靠的**  
@@ -15804,12 +13276,8 @@ the mental, emotional or physical condition that sb / sth is in：
 
 
 # ***stay*** n
----
-英音 steɪ     美音 steɪ
-
-词频 5 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 steɪ     美音 steɪ  
+词频 5 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -15825,12 +13293,8 @@ the mental, emotional or physical condition that sb / sth is in：
 
 
 # ***stay*** vi
----
-英音 steɪ     美音 steɪ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 steɪ     美音 steɪ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **停留；逗留：**  
@@ -15924,12 +13388,8 @@ D.stay
   
 
 # ***steadily*** adv
----
-英音 'stedɪlɪ     美音 'stedəlɪ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'stedɪlɪ     美音 'stedəlɪ  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **平稳地；持续地**  
@@ -15937,12 +13397,8 @@ D.stay
 
 
 # ***steady*** adj
----
-英音 'stedi     美音 'stedi
-
-词频 2 | 口语 0 | 书面 1 | 阅读 2
-
-
+英音 'stedi     美音 'stedi  
+词频 2 | 口语 0 | 书面 1 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **稳定的；稳固的；持续的**  
@@ -15971,12 +13427,8 @@ The old engineer’s eyes still shone bright in the wrinkled brown face and his 
   
 
 # ***steak*** n
----
-英音 steɪk     美音 steɪk
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 steɪk     美音 steɪk  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -15985,12 +13437,8 @@ The old engineer’s eyes still shone bright in the wrinkled brown face and his 
 
 
 # ***steal*** v
----
-英音 stiːl     美音 stiːl
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  (stole, stolen) vt & vi
+英音 stiːl     美音 stiːl  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  用法点拨  (stole, stolen) vt & vi
 
 英文释义
 ---
@@ -16017,12 +13465,8 @@ The old engineer’s eyes still shone bright in the wrinkled brown face and his 
 
 
 # ***steal*** n
----
-英音 stiːl     美音 stiːl
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 stiːl     美音 stiːl  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -16041,12 +13485,8 @@ The old engineer’s eyes still shone bright in the wrinkled brown face and his 
 
 
 # ***steam*** n
----
-英音 stiːm     美音 stiːm
-
-词频 2 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [U]
+英音 stiːm     美音 stiːm  
+词频 2 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -16063,12 +13503,8 @@ The old engineer’s eyes still shone bright in the wrinkled brown face and his 
 steamer /'stiːmə(r)/ n [C]
 
 # ***steam*** v
----
-英音 stiːm     美音 stiːm
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 stiːm     美音 stiːm  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **散发 (蒸汽)**  
@@ -16080,12 +13516,8 @@ steamer /'stiːmə(r)/ n [C]
 steamer /'stiːmə(r)/ n [C]
 
 # ***steed*** n
----
-英音 stiːd     美音 stiːd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 stiːd     美音 stiːd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **骏马**  
@@ -16093,12 +13525,8 @@ steamer /'stiːmə(r)/ n [C]
 
 
 # ***steel*** n
----
-英音 stiːl     美音 stiːl
-
-词频 3 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [U]
+英音 stiːl     美音 stiːl  
+词频 3 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -16113,12 +13541,8 @@ steamer /'stiːmə(r)/ n [C]
 
 
 # ***steep*** adj
----
-英音 stiːp     美音 stiːp
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 stiːp     美音 stiːp  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **陡峭的；险峻的；急剧的：**  
@@ -16133,12 +13557,8 @@ steamer /'stiːmə(r)/ n [C]
 
 
 # ***stem*** n
----
-英音 stem     美音 stem
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨   [C]
+英音 stem     美音 stem  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨   [C]
 
 英文释义
 ---
@@ -16147,12 +13567,8 @@ steamer /'stiːmə(r)/ n [C]
 
 
 # ***step*** vi  重难点词汇
----
-英音 step     美音 step
-
-词频 5 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 step     美音 step  
+词频 5 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **跨步；踏脚：**  
@@ -16175,12 +13591,8 @@ steamer /'stiːmə(r)/ n [C]
 
 
 # ***step*** n  重难点词汇
----
-英音 step     美音 step
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 step     美音 step  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -16243,12 +13655,8 @@ steps 常指室外的台阶，stairs 常指屋内的楼梯。
 
 
 # ***stepmother*** n
----
-英音 'stepmʌðə(r)     美音 'stepmʌðər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'stepmʌðə(r)     美音 'stepmʌðər  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **继母**  
@@ -16256,12 +13664,8 @@ steps 常指室外的台阶，stairs 常指屋内的楼梯。
 
 
 # ***stepsister*** n
----
-英音 'stepsɪstə(r)     美音 'stepsɪstər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'stepsɪstə(r)     美音 'stepsɪstər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **异父（异母）姊妹**  
@@ -16269,12 +13673,8 @@ steps 常指室外的台阶，stairs 常指屋内的楼梯。
 
 
 # ***sterile*** adj
----
-英音 'steraɪl     美音 'sterəl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'steraɪl     美音 'sterəl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（指生物）不孕育的；不结果实的**  
@@ -16282,12 +13682,8 @@ steps 常指室外的台阶，stairs 常指屋内的楼梯。
 
 
 # ***stew*** n
----
-英音 stjuː     美音 stuː
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 stjuː     美音 stuː  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **炖菜（有肉和蔬菜）**  
@@ -16295,12 +13691,8 @@ steps 常指室外的台阶，stairs 常指屋内的楼梯。
 
 
 # ***stew*** v
----
-英音 stjuː     美音 stuː
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 stjuː     美音 stuː  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **炖；煨**  
@@ -16308,12 +13700,8 @@ steps 常指室外的台阶，stairs 常指屋内的楼梯。
 
 
 # ***steward*** n
----
-英音 'stjuːəd     美音 'stuːərd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'stjuːəd     美音 'stuːərd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -16322,12 +13710,8 @@ steps 常指室外的台阶，stairs 常指屋内的楼梯。
 
 
 # ***stewardess*** n
----
-英音 ˌstjuːə'des, 'stjuːədes     美音 'stuːərdəs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ˌstjuːə'des, 'stjuːədes     美音 'stuːərdəs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -16336,12 +13720,8 @@ steps 常指室外的台阶，stairs 常指屋内的楼梯。
 
 
 # ***stick*** v  重难点词汇
----
-英音 stɪk     美音 stɪk
-
-词频 4 | 口语 3 | 书面 1 | 阅读 0
-
-用法点拨  (stuck, stuck)
+英音 stɪk     美音 stɪk  
+词频 4 | 口语 3 | 书面 1 | 阅读 0  用法点拨  (stuck, stuck)
 
 英文释义
 ---
@@ -16454,12 +13834,8 @@ Once a decision has been made, all of us should stick _______ it.
   
 
 # ***stick*** n  重难点词汇
----
-英音 stɪk     美音 stɪk
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 stɪk     美音 stɪk  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -16484,12 +13860,8 @@ Once a decision has been made, all of us should stick _______ it.
 
 
 # ***sticky*** adj
----
-英音 'stɪki     美音 'stɪki
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'stɪki     美音 'stɪki  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **粘的, 粘性的**  
@@ -16497,12 +13869,8 @@ Once a decision has been made, all of us should stick _______ it.
 
 
 # ***stiff*** adj
----
-英音 stɪf     美音 stɪf
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 stɪf     美音 stɪf  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **硬的；僵硬的；生硬的**  
@@ -16510,12 +13878,8 @@ Once a decision has been made, all of us should stick _______ it.
 
 
 # ***stiffly*** adv
----
-英音 stɪfli     美音 stɪfli
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 stɪfli     美音 stɪfli  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **僵硬地**  
@@ -16523,12 +13887,8 @@ Once a decision has been made, all of us should stick _______ it.
 
 
 # ***still*** adv  重难点词汇
----
-英音 stɪl     美音 stɪl
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 stɪl     美音 stɪl  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **还；仍然：**  
@@ -16565,12 +13925,8 @@ The hotel is almost finished, but it _________ needs one or two weeks to get rea
   
 
 # ***still*** adj  重难点词汇
----
-英音 stɪl     美音 stɪl
-
-词频 5 | 口语 1 | 书面 3 | 阅读 0
-
-
+英音 stɪl     美音 stɪl  
+词频 5 | 口语 1 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **不动的；寂静的：**  
@@ -16591,12 +13947,8 @@ The hotel is almost finished, but it _________ needs one or two weeks to get rea
 四者均可用作形容词，均含有“静”的意思。
 
 # ***stimulate*** v
----
-英音 'stɪmjuleɪt     美音 'stɪmjuleɪt
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'stɪmjuleɪt     美音 'stɪmjuleɪt  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **刺激，促使，促进**  
@@ -16604,12 +13956,8 @@ The hotel is almost finished, but it _________ needs one or two weeks to get rea
 
 
 # ***sting*** v
----
-英音 stɪŋ     美音 stɪŋ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  (stung, stung) vi & vt
+英音 stɪŋ     美音 stɪŋ  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  (stung, stung) vi & vt
 
 英文释义
 ---
@@ -16618,12 +13966,8 @@ The hotel is almost finished, but it _________ needs one or two weeks to get rea
 
 
 # ***sting*** n
----
-英音 stɪŋ     美音 stɪŋ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 stɪŋ     美音 stɪŋ  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -16632,12 +13976,8 @@ The hotel is almost finished, but it _________ needs one or two weeks to get rea
 
 
 # ***stinky*** adj
----
-英音 'stɪŋki     美音 'stɪŋki
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'stɪŋki     美音 'stɪŋki  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **难闻的,有臭味的**  
@@ -16645,12 +13985,8 @@ The hotel is almost finished, but it _________ needs one or two weeks to get rea
 
 
 # ***stir*** vt
----
-英音 stɜː(r)     美音 stɜːr
-
-词频 1 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 stɜː(r)     美音 stɜːr  
+词频 1 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **搅动；搅拌**  
@@ -16658,12 +13994,8 @@ The hotel is almost finished, but it _________ needs one or two weeks to get rea
 
 
 # ***stir-fry*** vt
----
-英音 stərˌfraɪ     美音 stərˌfraɪ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 stərˌfraɪ     美音 stərˌfraɪ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **用旺火炒 (或煎、煽)**  
@@ -16671,12 +14003,8 @@ The hotel is almost finished, but it _________ needs one or two weeks to get rea
 
 
 # ***stock*** vt
----
-英音 stɒk     美音 stɑːk
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 stɒk     美音 stɑːk  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **存货；储备；储存：**  
@@ -16688,12 +14016,8 @@ The hotel is almost finished, but it _________ needs one or two weeks to get rea
 
 
 # ***stock*** n
----
-英音 stɒk     美音 stɑːk
-
-词频 2 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 stɒk     美音 stɑːk  
+词频 2 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **存货；现货**  
@@ -16711,12 +14035,8 @@ The hotel is almost finished, but it _________ needs one or two weeks to get rea
 
 
 # ***stocking*** n
----
-英音 'stɒkɪŋ     美音 'stɑːkɪŋ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C][常用复数]
+英音 'stɒkɪŋ     美音 'stɑːkɪŋ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C][常用复数]
 
 英文释义
 ---
@@ -16725,12 +14045,8 @@ The hotel is almost finished, but it _________ needs one or two weeks to get rea
 
 
 # ***stockings*** n
----
-英音 s'tɒkɪŋz     美音 s'tɑːkɪŋz
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 s'tɒkɪŋz     美音 s'tɑːkɪŋz  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（常复）（女式）长袜**  
@@ -16738,12 +14054,8 @@ The hotel is almost finished, but it _________ needs one or two weeks to get rea
 
 
 # ***stomach*** n
----
-英音 'stʌmək     美音 'stʌmək
-
-词频 3 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C] 
+英音 'stʌmək     美音 'stʌmək  
+词频 3 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C] 
 
 英文释义
 ---
@@ -16767,12 +14079,8 @@ John missed the game because of _________ (胃) pains.
   
 
 # ***stone*** n
----
-英音 stəʊn     美音 stoʊn
-
-词频 4 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 stəʊn     美音 stoʊn  
+词频 4 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **石头；石料**  
@@ -16804,12 +14112,8 @@ John missed the game because of _________ (胃) pains.
 stony /'stəʊni/ adj 
 
 # ***stony*** adj
----
-英音 'stəʊni     美音 'stoʊni
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'stəʊni     美音 'stoʊni  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **石头的，多石的**  
@@ -16817,12 +14121,8 @@ stony /'stəʊni/ adj
 
 
 # ***stoop*** v
----
-英音 stuːp     美音 stuːp
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 stuːp     美音 stuːp  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **俯身，弯腰**  
@@ -16830,12 +14130,8 @@ stony /'stəʊni/ adj
 
 
 # ***stop*** v
----
-英音 stɒp     美音 stɑːp
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 stɒp     美音 stɑːp  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(使) 停止；防止；中断：**  
@@ -16872,12 +14168,8 @@ stop to do 表示停下来去做其他事情；stop doing 表示停止正在做�
 
 
 # ***stop*** n
----
-英音 stɒp     美音 stɑːp
-
-词频 5 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 stɒp     美音 stɑːp  
+词频 5 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -16918,12 +14210,8 @@ stop to do 表示停下来去做其他事情；stop doing 表示停止正在做�
 
 
 # ***stor(e)y*** n
----
-英音 'stɔːri     美音 'stɔːri
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'stɔːri     美音 'stɔːri  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -16935,12 +14223,8 @@ stop to do 表示停下来去做其他事情；stop doing 表示停止正在做�
 
 
 # ***storage*** n
----
-英音 'stɔːrɪdʒ     美音 'stɔːrɪdʒ
-
-词频 2 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [U]
+英音 'stɔːrɪdʒ     美音 'stɔːrɪdʒ  
+词频 2 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -16956,12 +14240,8 @@ stop to do 表示停下来去做其他事情；stop doing 表示停止正在做�
 
 
 # ***store*** vt
----
-英音 stɔː(r)     美音 stɔːr
-
-词频 5 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 stɔː(r)     美音 stɔːr  
+词频 5 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **贮存；储存：**  
@@ -16976,12 +14256,8 @@ stop to do 表示停下来去做其他事情；stop doing 表示停止正在做�
 
 
 # ***store*** n
----
-英音 stɔː(r)     美音 stɔːr
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 stɔː(r)     美音 stɔːr  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -17031,12 +14307,8 @@ When she first arrived in China, she wondered what the future might have _______
   
 
 # ***storm*** n
----
-英音 stɔːm     美音 stɔːrm
-
-词频 5 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 stɔːm     美音 stɔːrm  
+词频 5 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -17059,12 +14331,8 @@ When she first arrived in China, she wondered what the future might have _______
 stormy /'stɔːmi/ adj 
 
 # ***story*** n
----
-英音 'stɔːri     美音 'stɔːri
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'stɔːri     美音 'stɔːri  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -17092,12 +14360,8 @@ stormy /'stɔːmi/ adj
 
 
 # ***storytelling*** n
----
-英音 'stɔːritelɪŋ     美音 'stɔːritelɪŋ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'stɔːritelɪŋ     美音 'stɔːritelɪŋ  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **讲故事,说书**  
@@ -17105,12 +14369,8 @@ stormy /'stɔːmi/ adj
 
 
 # ***stout*** adj
----
-英音 staʊt     美音 staʊt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 staʊt     美音 staʊt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **肥胖的；强壮的：**  
@@ -17121,12 +14381,8 @@ stormy /'stɔːmi/ adj
 
 
 # ***stove*** n
----
-英音 stəʊv     美音 stoʊv
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 stəʊv     美音 stoʊv  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -17138,12 +14394,8 @@ stormy /'stɔːmi/ adj
 
 
 # ***straight*** adv
----
-英音 streɪt     美音 streɪt
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 streɪt     美音 streɪt  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **笔直地；成直线地：**  
@@ -17183,12 +14435,8 @@ stormy /'stɔːmi/ adj
 
 
 # ***straight*** adj
----
-英音 streɪt     美音 streɪt
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 streɪt     美音 streɪt  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(笔) 直的；平直的；**  
@@ -17235,12 +14483,8 @@ stormy /'stɔːmi/ adj
 straighten /'streɪtn/ vt 
 
 # ***straightforward*** adv
----
-英音 ˌstreɪt'fɔːwəd     美音 ˌstreɪt'fɔːrwərd
-
-词频 2 | 口语 1 | 书面 0 | 阅读 1
-
-
+英音 ˌstreɪt'fɔːwəd     美音 ˌstreɪt'fɔːrwərd  
+词频 2 | 口语 1 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **坦率地；直截了当地**  
@@ -17248,12 +14492,8 @@ straighten /'streɪtn/ vt
 
 
 # ***straightforward*** adj
----
-英音 ˌstreɪt'fɔːwəd     美音 ˌstreɪt'fɔːrwərd
-
-词频 2 | 口语 1 | 书面 0 | 阅读 1
-
-
+英音 ˌstreɪt'fɔːwəd     美音 ˌstreɪt'fɔːrwərd  
+词频 2 | 口语 1 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **坦率的：**  
@@ -17270,12 +14510,8 @@ straighten /'streɪtn/ vt
 
 
 # ***strain*** n
----
-英音 streɪn     美音 streɪn
-
-词频 1 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 streɪn     美音 streɪn  
+词频 1 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -17287,12 +14523,8 @@ straighten /'streɪtn/ vt
 
 
 # ***strait*** n
----
-英音 streɪt     美音 streɪt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 streɪt     美音 streɪt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -17304,12 +14536,8 @@ straighten /'streɪtn/ vt
 
 
 # ***strange*** adj
----
-英音 streɪndʒ     美音 streɪndʒ
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 streɪndʒ     美音 streɪndʒ  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **奇怪的：**  
@@ -17336,12 +14564,8 @@ straighten /'streɪtn/ vt
 strangely /'streɪndʒli/ adv 
 
 # ***stranger*** n
----
-英音 'streɪndʒə(r)     美音 'streɪndʒər
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'streɪndʒə(r)     美音 'streɪndʒər  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -17357,12 +14581,8 @@ strangely /'streɪndʒli/ adv
 
 
 # ***strategy*** n
----
-英音 'strætədʒi     美音 'strætədʒi
-
-词频 3 | 口语 0 | 书面 2 | 阅读 2
-
-用法点拨  [C]
+英音 'strætədʒi     美音 'strætədʒi  
+词频 3 | 口语 0 | 书面 2 | 阅读 2  用法点拨  [C]
 
 英文释义
 ---
@@ -17382,12 +14602,8 @@ a plan that you use to achieve sth：
 strategic /strə'tiːdʒɪk/ adj 
 
 # ***straw*** n
----
-英音 strɔː     美音 strɔː
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 strɔː     美音 strɔː  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -17406,12 +14622,8 @@ strategic /strə'tiːdʒɪk/ adj
 
 
 # ***strawberry*** n
----
-英音 'strɔːbəri     美音 'strɔːberi
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'strɔːbəri     美音 'strɔːberi  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -17420,12 +14632,8 @@ strategic /strə'tiːdʒɪk/ adj
 
 
 # ***stream*** vi
----
-英音 striːm     美音 striːm
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 striːm     美音 striːm  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **流动：**  
@@ -17436,12 +14644,8 @@ strategic /strə'tiːdʒɪk/ adj
 
 
 # ***stream*** n
----
-英音 striːm     美音 striːm
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 striːm     美音 striːm  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -17463,12 +14667,8 @@ strategic /strə'tiːdʒɪk/ adj
 
 
 # ***street*** n
----
-英音 striːt     美音 striːt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 striːt     美音 striːt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -17490,12 +14690,8 @@ strategic /strə'tiːdʒɪk/ adj
 五者都可作“路”解，但含义有所不同。
 
 # ***strength*** n
----
-英音 streŋθ     美音 streŋθ
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 streŋθ     美音 streŋθ  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **体力；力气**  
@@ -17566,12 +14762,8 @@ To make members of a team perform better, the trainer first of all has to know t
   
 
 # ***strengthen*** v
----
-英音 'streŋθn     美音 'streŋθn
-
-词频 3 | 口语 0 | 书面 1 | 阅读 3
-
-
+英音 'streŋθn     美音 'streŋθn  
+词频 3 | 口语 0 | 书面 1 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **加强；巩固**  
@@ -17585,12 +14777,8 @@ To make members of a team perform better, the trainer first of all has to know t
 
 
 # ***stress*** vt
----
-英音 stres     美音 stres
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 stres     美音 stres  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **强调；着重；重读：**  
@@ -17607,12 +14795,8 @@ stressed  /strest/ adj [不用于名词前]
 stressful /'stresfl/ adj 
 
 # ***stress*** n
----
-英音 stres     美音 stres
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 stres     美音 stres  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -17655,12 +14839,8 @@ A.stress
   
 
 # ***stressful*** adj
----
-英音 'stresfl     美音 'stresfl
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'stresfl     美音 'stresfl  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **产生压力的；紧张的**  
@@ -17668,12 +14848,8 @@ A.stress
 
 
 # ***stretch*** v
----
-英音 stretʃ     美音 stretʃ
-
-词频 2 | 口语 1 | 书面 1 | 阅读 2
-
-用法点拨  vt & vi
+英音 stretʃ     美音 stretʃ  
+词频 2 | 口语 1 | 书面 1 | 阅读 2  用法点拨  vt & vi
 
 英文释义
 ---
@@ -17692,12 +14868,8 @@ A.stress
 
 
 # ***stretch*** n
----
-英音 stretʃ     美音 stretʃ
-
-词频 2 | 口语 1 | 书面 1 | 阅读 2
-
-用法点拨  [C] & [U]
+英音 stretʃ     美音 stretʃ  
+词频 2 | 口语 1 | 书面 1 | 阅读 2  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -17712,12 +14884,8 @@ A.stress
 
 
 # ***strict*** adj
----
-英音 strɪkt     美音 strɪkt
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 strɪkt     美音 strɪkt  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **严格的：**  
@@ -17738,12 +14906,8 @@ A.stress
 
 
 # ***strictly*** adv
----
-英音 'strɪktli     美音 'strɪktli
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'strɪktli     美音 'strɪktli  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **严格地**  
@@ -17758,12 +14922,8 @@ The acceptance of new members is _________ (严格) controlled.
   
 
 # ***strike*** v  重难点词汇
----
-英音 straɪk     美音 straɪk
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  (struck, struck / stricken)
+英音 straɪk     美音 straɪk  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  用法点拨  (struck, struck / stricken)
 
 英文释义
 ---
@@ -17843,12 +15003,8 @@ to give sb a particular impression：
 
 
 # ***strike*** n  重难点词汇
----
-英音 straɪk     美音 straɪk
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 straɪk     美音 straɪk  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -17870,12 +15026,8 @@ striker /'straɪkə(r)/ n [C]
 striking /'straɪkɪŋ/ adj 
 
 # ***striker*** n
----
-英音 'straɪkə(r)     美音 'straɪkər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'straɪkə(r)     美音 'straɪkər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **敲击者；(足球的)前锋**  
@@ -17883,12 +15035,8 @@ striking /'straɪkɪŋ/ adj
 
 
 # ***striking*** adj
----
-英音 'straɪkɪŋ     美音 'straɪkɪŋ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'straɪkɪŋ     美音 'straɪkɪŋ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **惊人的；显著的；引人注目的**  
@@ -17896,12 +15044,8 @@ striking /'straɪkɪŋ/ adj
 
 
 # ***string*** n
----
-英音 strɪŋ     美音 strɪŋ
-
-词频 3 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 strɪŋ     美音 strɪŋ  
+词频 3 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -17910,12 +15054,8 @@ striking /'straɪkɪŋ/ adj
 
 
 # ***stringed*** adj
----
-英音 strɪŋd     美音 strɪŋd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 strɪŋd     美音 strɪŋd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **有弦的**  
@@ -17923,12 +15063,8 @@ striking /'straɪkɪŋ/ adj
 
 
 # ***strip*** n
----
-英音 strɪp     美音 strɪp
-
-词频 1 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 strɪp     美音 strɪp  
+词频 1 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -17937,12 +15073,8 @@ striking /'straɪkɪŋ/ adj
 
 
 # ***stripe*** n
----
-英音 straɪp     美音 straɪp
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 straɪp     美音 straɪp  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -17955,12 +15087,8 @@ striking /'straɪkɪŋ/ adj
 striped /straɪpt/ adj 
 
 # ***stroke*** n
----
-英音 strəʊk     美音 stroʊk
-
-词频 2 | 口语 1 | 书面 0 | 阅读 2
-
-用法点拨  [C]
+英音 strəʊk     美音 stroʊk  
+词频 2 | 口语 1 | 书面 0 | 阅读 2  用法点拨  [C]
 
 英文释义
 ---
@@ -17975,12 +15103,8 @@ striped /straɪpt/ adj
 
 
 # ***stroke*** vt
----
-英音 strəʊk     美音 stroʊk
-
-词频 2 | 口语 1 | 书面 0 | 阅读 2
-
-
+英音 strəʊk     美音 stroʊk  
+词频 2 | 口语 1 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **抚摸：**  
@@ -17991,12 +15115,8 @@ striped /straɪpt/ adj
 
 
 # ***strong*** adj
----
-英音 strɒŋ     美音 strɔːŋ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 strɒŋ     美音 strɔːŋ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **强壮的；强劲的：**  
@@ -18051,12 +15171,8 @@ striped /straɪpt/ adj
 strongly /strɒŋli/ adv 
 
 # ***strong-willed*** adj
----
 
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **意志坚强的；固执已见的**  
@@ -18064,12 +15180,8 @@ strongly /strɒŋli/ adv
 
 
 # ***strongly*** adv
----
-英音 strɒŋli     美音 strɒŋli
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 strɒŋli     美音 strɒŋli  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **强有力地；坚强地；激烈地；气味浓地**  
@@ -18077,12 +15189,8 @@ strongly /strɒŋli/ adv
 
 
 # ***structure*** n
----
-英音 'strʌktʃə(r)     美音 'strʌktʃər
-
-词频 4 | 口语 1 | 书面 2 | 阅读 3
-
-
+英音 'strʌktʃə(r)     美音 'strʌktʃər  
+词频 4 | 口语 1 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **结构；构造：**  
@@ -18107,12 +15215,8 @@ structural /'strʌktʃərəl/ adj
 structured /'strʌktʃəd/ adj 
 
 # ***struggle*** vi  重难点词汇
----
-英音 'strʌɡl     美音 'strʌɡl
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 'strʌɡl     美音 'strʌɡl  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(与某人) 搏斗；斗争；奋力前进；挣扎：**  
@@ -18139,12 +15243,8 @@ structured /'strʌktʃəd/ adj
 
 
 # ***struggle*** n  重难点词汇
----
-英音 'strʌɡl     美音 'strʌɡl
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 'strʌɡl     美音 'strʌɡl  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -18164,12 +15264,8 @@ structured /'strʌktʃəd/ adj
 
 
 # ***stubborn*** adj
----
-英音 'stʌbən     美音 'stʌbərn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'stʌbən     美音 'stʌbərn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **倔强的；顽强的：**  
@@ -18192,12 +15288,8 @@ structured /'strʌktʃəd/ adj
 
 
 # ***stuck*** adj
----
-英音 stʌk     美音 stʌk
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 stʌk     美音 stʌk  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **卡住；陷（入）；困（于）**  
@@ -18205,12 +15297,8 @@ structured /'strʌktʃəd/ adj
 
 
 # ***student*** n
----
-英音 'stjuːdnt     美音 'stuːdnt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'stjuːdnt     美音 'stuːdnt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -18222,12 +15310,8 @@ structured /'strʌktʃəd/ adj
 
 
 # ***studio*** n
----
-英音 'stjuːdiəʊ     美音 'stuːdioʊ
-
-词频 3 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'stjuːdiəʊ     美音 'stuːdioʊ  
+词频 3 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -18248,12 +15332,8 @@ structured /'strʌktʃəd/ adj
 
 
 # ***study*** v
----
-英音 'stʌdi     美音 'stʌdi
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'stʌdi     美音 'stʌdi  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **学习；攻读：**  
@@ -18270,12 +15350,8 @@ structured /'strʌktʃəd/ adj
 
 
 # ***study*** n
----
-英音 'stʌdi     美音 'stʌdi
-
-词频 5 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 'stʌdi     美音 'stʌdi  
+词频 5 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **学习；求学：**  
@@ -18299,12 +15375,8 @@ structured /'strʌktʃəd/ adj
 
 
 # ***stuff*** n
----
-英音 stʌf     美音 stʌf
-
-词频 2 | 口语 3 | 书面 1 | 阅读 0
-
-用法点拨  [U]
+英音 stʌf     美音 stʌf  
+词频 2 | 口语 3 | 书面 1 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -18313,12 +15385,8 @@ structured /'strʌktʃəd/ adj
 
 
 # ***stupefied*** adj
----
-英音 'stjuːpɪfaɪd     美音 'stjuːpɪfaɪd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'stjuːpɪfaɪd     美音 'stjuːpɪfaɪd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **神志不清的；昏昏沉沉的**  
@@ -18326,12 +15394,8 @@ structured /'strʌktʃəd/ adj
 
 
 # ***stupid*** adj
----
-英音 'stjuːpɪd     美音 'stuːpɪd
-
-词频 3 | 口语 3 | 书面 1 | 阅读 0
-
-
+英音 'stjuːpɪd     美音 'stuːpɪd  
+词频 3 | 口语 3 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **愚蠢的(foolish / silly)；笨的：**  
@@ -18354,12 +15418,8 @@ Well, you’ve acted _________ (愚蠢地) and you will pay for it.
   
 
 # ***style*** n
----
-英音 staɪl     美音 staɪl
-
-词频 4 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 staɪl     美音 staɪl  
+词频 4 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(文学／艺术／音乐／建筑等的) 风格；文体：**  
@@ -18417,12 +15477,8 @@ the ability to do things in a way that other people admire：
 
 
 # ***subject*** n
----
-英音 'sʌbdʒɪkt, 'sʌbdʒekt     美音 'sʌbdʒɪkt, 'sʌbdʒekt
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 'sʌbdʒɪkt, 'sʌbdʒekt     美音 'sʌbdʒɪkt, 'sʌbdʒekt  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **主题：**  
@@ -18461,12 +15517,8 @@ the ability to do things in a way that other people admire：
 
 
 # ***subjective*** adj
----
-英音 səb'dʒektɪv     美音 səb'dʒektɪv
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 səb'dʒektɪv     美音 səb'dʒektɪv  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **主观 (上) 的；个人的:**  
@@ -18480,12 +15532,8 @@ the ability to do things in a way that other people admire：
 
 
 # ***submarine*** n
----
-英音 ˌsʌbmə'riːn     美音 ˌsʌbmə'riːn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ˌsʌbmə'riːn     美音 ˌsʌbmə'riːn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -18494,12 +15542,8 @@ the ability to do things in a way that other people admire：
 
 
 # ***submerge*** vt
----
-英音 səb'mɜːdʒ     美音 səb'mɜːrdʒ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 səb'mɜːdʒ     美音 səb'mɜːrdʒ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **浸入水中; 淹没**  
@@ -18507,12 +15551,8 @@ the ability to do things in a way that other people admire：
 
 
 # ***submission*** n
----
-英音 səb'mɪʃn     美音 səb'mɪʃn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 səb'mɪʃn     美音 səb'mɪʃn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **[C] & [U] 提交 (物)；呈递 (书)；呈交：**  
@@ -18529,12 +15569,8 @@ the ability to do things in a way that other people admire：
 
 
 # ***submit*** v
----
-英音 səb'mɪt     美音 səb'mɪt
-
-词频 2 | 口语 1 | 书面 1 | 阅读 1
-
-
+英音 səb'mɪt     美音 səb'mɪt  
+词频 2 | 口语 1 | 书面 1 | 阅读 1  
 英文释义
 ---
 1. *低义频：* **提交；呈递：**  
@@ -18561,12 +15597,8 @@ the ability to do things in a way that other people admire：
 
 
 # ***subscribe*** vi
----
-英音 səb'skraɪb     美音 səb'skraɪb
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 səb'skraɪb     美音 səb'skraɪb  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **订阅 (报纸、杂志等)：**  
@@ -18595,12 +15627,8 @@ the ability to do things in a way that other people admire：
 
 
 # ***substance*** n
----
-英音 'sʌbstəns     美音 'sʌbstəns
-
-词频 1 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 'sʌbstəns     美音 'sʌbstəns  
+词频 1 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 物质；东西; [U] 事实基础；根据：**  
@@ -18614,12 +15642,8 @@ the ability to do things in a way that other people admire：
 
 
 # ***substantial*** adj
----
-英音 səb'stænʃl     美音 səb'stænʃl
-
-词频 1 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 səb'stænʃl     美音 səb'stænʃl  
+词频 1 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **大量的；多的(considerable)**  
@@ -18627,12 +15651,8 @@ the ability to do things in a way that other people admire：
 
 
 # ***substitute*** n
----
-英音 'sʌbstɪtjuːt     美音 'sʌbstɪtuːt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 'sʌbstɪtjuːt     美音 'sʌbstɪtuːt  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **[C] 代替品；代替者：**  
@@ -18644,12 +15664,8 @@ the ability to do things in a way that other people admire：
 
 
 # ***substitute*** v
----
-英音 'sʌbstɪtjuːt     美音 'sʌbstɪtuːt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-用法点拨  vt & vi
+英音 'sʌbstɪtjuːt     美音 'sʌbstɪtuːt  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  用法点拨  vt & vi
 
 英文释义
 ---
@@ -18666,12 +15682,8 @@ the ability to do things in a way that other people admire：
 
 
 # ***subtitle*** n
----
-英音 'sʌbtaɪtl     美音 'sʌbtaɪtl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sʌbtaɪtl     美音 'sʌbtaɪtl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[常用单数] 副标题；小标题；[用复数] (外国电影的) 字幕**  
@@ -18679,12 +15691,8 @@ the ability to do things in a way that other people admire：
 
 
 # ***subtle*** adj
----
-英音 'sʌtl     美音 'sʌtl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 'sʌtl     美音 'sʌtl  
+词频 1 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **难以察觉的；微妙的；精巧的：**  
@@ -18713,12 +15721,8 @@ D.subtle
   
 
 # ***suburb*** n
----
-英音 'sʌbɜːb     美音 'sʌbɜːrb
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sʌbɜːb     美音 'sʌbɜːrb  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] [常用复数] 市郊；郊区：**  
@@ -18733,12 +15737,8 @@ D.subtle
 
 
 # ***suburban*** adj
----
-英音 sə'bɜːbən     美音 sə'bɜːrbən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sə'bɜːbən     美音 sə'bɜːrbən  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **郊区的；市郊的**  
@@ -18746,12 +15746,8 @@ D.subtle
 
 
 # ***subway*** n
----
-英音 'sʌbweɪ     美音 'sʌbweɪ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sʌbweɪ     美音 'sʌbweɪ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **地道**  
@@ -18773,12 +15769,8 @@ D.subtle
 
 
 # ***succeed*** v  重难点词汇
----
-英音 sək'siːd     美音 sək'siːd
-
-词频 5 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 sək'siːd     美音 sək'siːd  
+词频 5 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **成功；办成**  
@@ -18839,12 +15831,8 @@ Very few people ________ (成功) in losing weight these days.
   
 
 # ***success*** n
----
-英音 sək'ses     美音 sək'ses
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 sək'ses     美音 sək'ses  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 成功；成就：**  
@@ -18879,12 +15867,8 @@ It is important to remember that success _______ (be) a sum of small efforts mad
   
 
 # ***successful*** adj
----
-英音 sək'sesfl     美音 sək'sesfl
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 sək'sesfl     美音 sək'sesfl  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **成功的；有成就的:**  
@@ -18907,12 +15891,8 @@ It is important to remember that success _______ (be) a sum of small efforts mad
 successfully  /sək'sesfəli/ adv 
 
 # ***such*** pron
----
-英音 sʌtʃ     美音 sʌtʃ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 sʌtʃ     美音 sʌtʃ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **这样的人 / 事物：**  
@@ -18958,12 +15938,8 @@ D.So
   
 
 # ***such*** adj
----
-英音 sʌtʃ     美音 sʌtʃ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 sʌtʃ     美音 sʌtʃ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[无最高级和比较级] 这样的；那样的；此类的：**  
@@ -19051,12 +16027,8 @@ D.no such a
   
 
 # ***such...as*** 
----
 
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. 
@@ -19070,12 +16042,8 @@ D.no such a
 
 
 # ***suck*** v
----
-英音 sʌk     美音 sʌk
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  vt & vi
+英音 sʌk     美音 sʌk  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  用法点拨  vt & vi
 
 英文释义
 ---
@@ -19091,12 +16059,8 @@ D.no such a
 
 
 # ***suck*** n
----
-英音 sʌk     美音 sʌk
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C] [常用单数]
+英音 sʌk     美音 sʌk  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C] [常用单数]
 
 英文释义
 ---
@@ -19108,12 +16072,8 @@ D.no such a
 
 
 # ***sudden*** adj
----
-英音 'sʌdn     美音 'sʌdn
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 'sʌdn     美音 'sʌdn  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **突然的；意外的：**  
@@ -19137,12 +16097,8 @@ D.no such a
 
 
 # ***suddenly*** adv
----
-英音 'sʌdənli     美音 'sʌdənli
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'sʌdənli     美音 'sʌdənli  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **突然地；意外地：**  
@@ -19160,12 +16116,8 @@ We were talking on the phone when, ________ (突然), the line went dead.
   
 
 # ***suffer*** v  重难点词汇
----
-英音 'sʌfə(r)     美音 'sʌfər
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'sʌfə(r)     美音 'sʌfər  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **遭受；蒙受**  
@@ -19204,12 +16156,8 @@ to become worse：
 
 
 # ***suffering*** n
----
-英音 'sʌfərɪŋ     美音 'sʌfərɪŋ
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sʌfərɪŋ     美音 'sʌfərɪŋ  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(身体或精神上) 疼痛；痛苦：**  
@@ -19229,12 +16177,8 @@ to become worse：
 
 
 # ***sufficient*** adj
----
-英音 sə'fɪʃnt     美音 sə'fɪʃnt
-
-词频 2 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [正式用语]
+英音 sə'fɪʃnt     美音 sə'fɪʃnt  
+词频 2 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [正式用语]
 
 英文释义
 ---
@@ -19248,12 +16192,8 @@ to become worse：
 
 
 # ***sugar*** n
----
-英音 'ʃʊɡə(r)     美音 'ʃʊɡər
-
-词频 3 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [U]
+英音 'ʃʊɡə(r)     美音 'ʃʊɡər  
+词频 3 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -19262,12 +16202,8 @@ to become worse：
 
 
 # ***sugary*** adj
----
-英音 'ʃʊɡəri     美音 'ʃʊɡəri
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ʃʊɡəri     美音 'ʃʊɡəri  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **含糖的；甜的**  
@@ -19275,12 +16211,8 @@ to become worse：
 
 
 # ***suggest*** vt  重难点词汇
----
-英音 sə'dʒest     美音 sə'dʒest
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 sə'dʒest     美音 sə'dʒest  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **建议；提议；提出：**  
@@ -19347,12 +16279,8 @@ He came to my class every week, but his attitude __________ (表明) he was not 
   
 
 # ***suggestion*** n  重难点词汇
----
-英音 sə'dʒestʃən     美音 sə'dʒestʃən
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 sə'dʒestʃən     美音 sə'dʒestʃən  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 建议：**  
@@ -19393,12 +16321,8 @@ He came to my class every week, but his attitude __________ (表明) he was not 
   
 
 # ***suicide*** n
----
-英音 'suːɪsaɪd     美音 'suːɪsaɪd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'suːɪsaɪd     美音 'suːɪsaɪd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -19410,12 +16334,8 @@ He came to my class every week, but his attitude __________ (表明) he was not 
 
 
 # ***suit*** n
----
-英音 suːt, sjuːt     美音 suːt
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 suːt, sjuːt     美音 suːt  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -19430,12 +16350,8 @@ He came to my class every week, but his attitude __________ (表明) he was not 
 
 
 # ***suit*** vt
----
-英音 suːt, sjuːt      美音 suːt
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 suːt, sjuːt      美音 suːt  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(服装、颜色等) 适合；对 (某人) 方便；中...的意：**  
@@ -19473,12 +16389,8 @@ suited /'suːtɪd/ adj [不用于名词前，与for / to连用]
   
 
 # ***suitable*** adj
----
-英音 'suːtəbl, 'sjuːtəbl     美音 'suːtəbl
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 'suːtəbl, 'sjuːtəbl     美音 'suːtəbl  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **适合的；适宜的：**  
@@ -19498,12 +16410,8 @@ suited /'suːtɪd/ adj [不用于名词前，与for / to连用]
 
 
 # ***suitcase*** n
----
-英音 'suːtkeɪs, 'sjuːtkeɪs     美音 'suːtkeɪs
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'suːtkeɪs, 'sjuːtkeɪs     美音 'suːtkeɪs  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -19512,12 +16420,8 @@ suited /'suːtɪd/ adj [不用于名词前，与for / to连用]
 
 
 # ***suite*** n
----
-英音 swiːt     美音 swiːt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 swiːt     美音 swiːt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -19533,12 +16437,8 @@ suited /'suːtɪd/ adj [不用于名词前，与for / to连用]
 
 
 # ***sum*** n
----
-英音 sʌm     美音 sʌm
-
-词频 3 | 口语 2 | 书面 2 | 阅读 3
-
-用法点拨  [C]
+英音 sʌm     美音 sʌm  
+词频 3 | 口语 2 | 书面 2 | 阅读 3  用法点拨  [C]
 
 英文释义
 ---
@@ -19568,12 +16468,8 @@ suited /'suːtɪd/ adj [不用于名词前，与for / to连用]
 
 
 # ***sum*** v
----
-英音 sʌm     美音 sʌm
-
-词频 3 | 口语 0 | 书面 0 | 阅读 3
-
-用法点拨  vi & vt
+英音 sʌm     美音 sʌm  
+词频 3 | 口语 0 | 书面 0 | 阅读 3  用法点拨  vi & vt
 
 固定搭配
 ---
@@ -19590,12 +16486,8 @@ suited /'suːtɪd/ adj [不用于名词前，与for / to连用]
 
 
 # ***summary*** adj
----
-英音 'sʌməri     美音 'sʌməri
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 'sʌməri     美音 'sʌməri  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **概括的；扼要的：**  
@@ -19606,12 +16498,8 @@ suited /'suːtɪd/ adj [不用于名词前，与for / to连用]
 
 
 # ***summary*** n
----
-英音 'sʌməri     美音 'sʌməri
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-用法点拨  [C]
+英音 'sʌməri     美音 'sʌməri  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  用法点拨  [C]
 
 英文释义
 ---
@@ -19635,12 +16523,8 @@ summarise / summarize /'sʌməraɪz/ v vi & vt
 
 
 # ***summer*** n
----
-英音 'sʌmə(r)     美音 'sʌmər
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [U] & [C]
+英音 'sʌmə(r)     美音 'sʌmər  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [U] & [C]
 
 英文释义
 ---
@@ -19649,12 +16533,8 @@ summarise / summarize /'sʌməraɪz/ v vi & vt
 
 
 # ***sun*** n
----
-英音 sʌn     美音 sʌn
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 sʌn     美音 sʌn  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[常与the连用] 太阳：**  
@@ -19681,12 +16561,8 @@ sun与某一特定形容词连用时，用不定冠词。
 
 
 # ***sunburnt*** adj
----
-英音 'sʌnbɜːnt     美音 'sʌnbɜːnt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sʌnbɜːnt     美音 'sʌnbɜːnt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **晒黑的；晒伤的(sunburned)：**  
@@ -19697,12 +16573,8 @@ sun与某一特定形容词连用时，用不定冠词。
 
 
 # ***suncream*** n
----
-英音 'sʌnkriːm     美音 'sʌnkriːm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sʌnkriːm     美音 'sʌnkriːm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **防晒霜**  
@@ -19710,12 +16582,8 @@ sun与某一特定形容词连用时，用不定冠词。
 
 
 # ***sunflower*** n
----
-英音 'sʌnflaʊə(r)     美音 'sʌnflaʊər
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sʌnflaʊə(r)     美音 'sʌnflaʊər  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **向日葵**  
@@ -19723,12 +16591,8 @@ sun与某一特定形容词连用时，用不定冠词。
 
 
 # ***sunglasses*** n
----
-英音 'sʌnɡlɑːsɪz     美音 'sʌnɡlæsɪz
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [用复数]
+英音 'sʌnɡlɑːsɪz     美音 'sʌnɡlæsɪz  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [用复数]
 
 英文释义
 ---
@@ -19740,12 +16604,8 @@ sun与某一特定形容词连用时，用不定冠词。
 
 
 # ***sunlight*** n
----
-英音 'sʌnlaɪt     美音 'sʌnlaɪt
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'sʌnlaɪt     美音 'sʌnlaɪt  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -19760,12 +16620,8 @@ sun与某一特定形容词连用时，用不定冠词。
 
 
 # ***sunny*** adj
----
-英音 'sʌni     美音 'sʌni
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sʌni     美音 'sʌni  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **阳光充足的；欢乐的**  
@@ -19773,12 +16629,8 @@ sun与某一特定形容词连用时，用不定冠词。
 
 
 # ***sunrise*** n
----
-英音 'sʌnraɪz     美音 'sʌnraɪz
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'sʌnraɪz     美音 'sʌnraɪz  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -19791,12 +16643,8 @@ sun与某一特定形容词连用时，用不定冠词。
 
 
 # ***sunset*** n
----
-英音 'sʌnset     美音 'sʌnset
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'sʌnset     美音 'sʌnset  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -19805,12 +16653,8 @@ sun与某一特定形容词连用时，用不定冠词。
 
 
 # ***sunshine*** n
----
-英音 'sʌnʃaɪn     美音 'sʌnʃaɪn
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'sʌnʃaɪn     美音 'sʌnʃaɪn  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -19826,12 +16670,8 @@ sun与某一特定形容词连用时，用不定冠词。
 
 
 # ***super*** adj
----
-英音 'suːpə(r), 'sjuːpə(r)     美音 'suːpər
-
-词频 2 | 口语 2 | 书面 0 | 阅读 0
-
-
+英音 'suːpə(r), 'sjuːpə(r)     美音 'suːpər  
+词频 2 | 口语 2 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **极好的；超级的：**  
@@ -19842,12 +16682,8 @@ sun与某一特定形容词连用时，用不定冠词。
 
 
 # ***superb*** adj
----
-英音 suː'pɜːb, sjuː'pɜːb     美音 suː'pɜːrb
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 suː'pɜːb, sjuː'pɜːb     美音 suː'pɜːrb  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **极好的；壮丽的：**  
@@ -19861,12 +16697,8 @@ sun与某一特定形容词连用时，用不定冠词。
 
 
 # ***superhero*** n
----
-英音 'suːpəhɪərəʊ     美音 'suːpərhɪroʊ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'suːpəhɪərəʊ     美音 'suːpərhɪroʊ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **超级英雄**  
@@ -19874,12 +16706,8 @@ sun与某一特定形容词连用时，用不定冠词。
 
 
 # ***superior*** adj
----
-英音 suː'pɪəriə(r), sjuː'pɪəriə(r)     美音 suː'pɪriər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 suː'pɪəriə(r), sjuː'pɪəriə(r)     美音 suː'pɪriər  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *低义频：* **更好的；优越的；有优越感的：**  
@@ -19903,12 +16731,8 @@ sun与某一特定形容词连用时，用不定冠词。
 
 
 # ***superior*** n
----
-英音 suː'pɪəriə(r)     美音 suː'pɪriər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 suː'pɪəriə(r)     美音 suː'pɪriər  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **上级；长官**  
@@ -19916,12 +16740,8 @@ sun与某一特定形容词连用时，用不定冠词。
 
 
 # ***superman*** n
----
-英音 'suːpəmæn     美音 'suːpərmæn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'suːpəmæn     美音 'suːpərmæn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **超人**  
@@ -19929,12 +16749,8 @@ sun与某一特定形容词连用时，用不定冠词。
 
 
 # ***supermarket*** n
----
-英音 'suːpəmɑːkɪt, 'sjuːpəmɑːkɪt     美音 'suːpərmɑːrkət
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'suːpəmɑːkɪt, 'sjuːpəmɑːkɪt     美音 'suːpərmɑːrkət  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -19943,12 +16759,8 @@ sun与某一特定形容词连用时，用不定冠词。
 
 
 # ***supper*** n
----
-英音 'sʌpə(r)     美音 'sʌpər
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'sʌpə(r)     美音 'sʌpər  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -19960,12 +16772,8 @@ sun与某一特定形容词连用时，用不定冠词。
 
 
 # ***supplement*** n
----
-英音 'sʌplɪmənt     美音 'sʌplɪmənt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'sʌplɪmənt     美音 'sʌplɪmənt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -19974,12 +16782,8 @@ sun与某一特定形容词连用时，用不定冠词。
 
 
 # ***supply*** n  重难点词汇
----
-英音 sə'plaɪ     美音 sə'plaɪ
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 sə'plaɪ     美音 sə'plaɪ  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 供应量；补给量：**  
@@ -20020,12 +16824,8 @@ As the world’s population continues to grow, the ________ (供给) of food bec
   
 
 # ***supply*** vt  重难点词汇
----
-英音 sə'plaɪ     美音 sə'plaɪ
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 sə'plaɪ     美音 sə'plaɪ  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **供给；供应；提供：**  
@@ -20040,12 +16840,8 @@ As the world’s population continues to grow, the ________ (供给) of food bec
 三者都有“供给、提供”的意思，但用法不同。
 
 # ***support*** vt  重难点词汇
----
-英音 sə'pɔːt     美音 sə'pɔːrt
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 sə'pɔːt     美音 sə'pɔːrt  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **支撑；承受：**  
@@ -20087,12 +16883,8 @@ As the world’s population continues to grow, the ________ (供给) of food bec
 supporter /sə'pɔːtə(r)/ n 
 
 # ***support*** n  重难点词汇
----
-英音 sə'pɔːt     美音 sə'pɔːrt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 sə'pɔːt     美音 sə'pɔːrt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -20123,12 +16915,8 @@ supporter /sə'pɔːtə(r)/ n
 
 
 # ***supporting*** adj
----
-英音 sə'pɔːtɪŋ     美音 sə'pɔːrtɪŋ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sə'pɔːtɪŋ     美音 sə'pɔːrtɪŋ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **支持的；支撑的**  
@@ -20136,12 +16924,8 @@ supporter /sə'pɔːtə(r)/ n
 
 
 # ***suppose*** vt  重难点词汇
----
-英音 sə'pəʊz     美音 sə'poʊz
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 sə'pəʊz     美音 sə'poʊz  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **认为；猜想**  
@@ -20257,12 +17041,8 @@ The message is very important, so it is supposed __________ (send) as soon as po
   
 
 # ***supposing*** conj
----
-英音 sə'pəʊzɪŋ     美音 sə'poʊzɪŋ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sə'pəʊzɪŋ     美音 sə'poʊzɪŋ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **假如；如果**  
@@ -20273,12 +17053,8 @@ The message is very important, so it is supposed __________ (send) as soon as po
 
 
 # ***supreme*** adj
----
-英音 suː'priːm, sjuː'priːm     美音 suː'priːm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 suː'priːm, sjuː'priːm     美音 suː'priːm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **(地位、权利等) 最高的：**  
@@ -20296,12 +17072,8 @@ The message is very important, so it is supposed __________ (send) as soon as po
 
 
 # ***sure*** adj
----
-英音 ʃʊə(r), ʃɔː(r)     美音 ʃʊr
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 ʃʊə(r), ʃɔː(r)     美音 ʃʊr  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[不用于名词前；无比较级变化] 肯定的；有把握的 (certain)：**  
@@ -20387,12 +17159,8 @@ D.Why bother?
   
 
 # ***sure*** adv
----
-英音 ʃʊə(r), ʃɔː(r)     美音 ʃʊr
-
-词频 5 | 口语 1 | 书面 3 | 阅读 0
-
-
+英音 ʃʊə(r), ʃɔː(r)     美音 ʃʊr  
+词频 5 | 口语 1 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[主要用于口语] 肯定地；当然：**  
@@ -20422,12 +17190,8 @@ D.You are welcome
   
 
 # ***surf*** v
----
-英音 sɜːf     美音 sɜːrf
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  vi & vt
+英音 sɜːf     美音 sɜːrf  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  vi & vt
 
 英文释义
 ---
@@ -20440,12 +17204,8 @@ D.You are welcome
 
 
 # ***surface*** n
----
-英音 'sɜːfɪs     美音 'sɜːrfɪs
-
-词频 4 | 口语 1 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'sɜːfɪs     美音 'sɜːrfɪs  
+词频 4 | 口语 1 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -20460,12 +17220,8 @@ D.You are welcome
 
 
 # ***surface*** adj
----
-英音 'sɜːfɪs     美音 'sɜːrfɪs
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sɜːfɪs     美音 'sɜːrfɪs  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **表面的；肤浅的**  
@@ -20473,12 +17229,8 @@ D.You are welcome
 
 
 # ***surfing*** n
----
-英音 'sɜːfɪŋ     美音 'sɜːrfɪŋ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sɜːfɪŋ     美音 'sɜːrfɪŋ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **冲浪**  
@@ -20486,12 +17238,8 @@ D.You are welcome
 
 
 # ***surgeon*** n
----
-英音 'sɜːdʒən     美音 'sɜːrdʒən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 2
-
-用法点拨  [C]
+英音 'sɜːdʒən     美音 'sɜːrdʒən  
+词频 1 | 口语 0 | 书面 0 | 阅读 2  用法点拨  [C]
 
 英文释义
 ---
@@ -20500,12 +17248,8 @@ D.You are welcome
 
 
 # ***surgery*** n
----
-英音 'sɜːdʒəri     美音 'sɜːrdʒəri
-
-词频 2 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'sɜːdʒəri     美音 'sɜːrdʒəri  
+词频 2 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **[U] 外科手术：**  
@@ -20520,12 +17264,8 @@ D.You are welcome
 
 
 # ***surname*** n
----
-英音 'sɜːneɪm     美音 'sɜːrneɪm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'sɜːneɪm     美音 'sɜːrneɪm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -20534,12 +17274,8 @@ D.You are welcome
 
 
 # ***surplus*** n
----
-英音 'sɜːpləs     美音 'sɜːrpləs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'sɜːpləs     美音 'sɜːrpləs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -20552,12 +17288,8 @@ D.You are welcome
 
 
 # ***surplus*** adj
----
-英音 'sɜːpləs     美音 'sɜːrpləs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sɜːpləs     美音 'sɜːrpləs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **过剩的；剩余的：**  
@@ -20568,12 +17300,8 @@ D.You are welcome
 
 
 # ***surprise*** vt
----
-英音 sə'praɪz     美音 sər'praɪz
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sə'praɪz     美音 sər'praɪz  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **使惊奇；使震惊：**  
@@ -20589,12 +17317,8 @@ D.You are welcome
 
 
 # ***surprise*** n
----
-英音 sə'praɪz     美音 sər'praɪz
-
-词频 5 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 sə'praɪz     美音 sər'praɪz  
+词频 5 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] & [C] 惊奇；诧异：**  
@@ -20638,12 +17362,8 @@ D.You are welcome
 
 
 # ***surprised*** adj
----
-英音 sə'praɪzd     美音 sər'praɪzd
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 sə'praɪzd     美音 sər'praɪzd  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **吃惊的；感到惊讶的：**  
@@ -20669,12 +17389,8 @@ D.You are welcome
 
 
 # ***surprising*** adj
----
-英音 sə'praɪzɪŋ     美音 sər'praɪzɪŋ
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 sə'praɪzɪŋ     美音 sər'praɪzɪŋ  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **令人吃惊的；惊人的；出人意料的：**  
@@ -20701,12 +17417,8 @@ It seems that living green is _______ (surprising) easy and affordable. A small 
   
 
 # ***surrender*** v
----
-英音 sə'rendə(r)     美音 sə'rendər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sə'rendə(r)     美音 sə'rendər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **投降**  
@@ -20714,12 +17426,8 @@ It seems that living green is _______ (surprising) easy and affordable. A small 
 
 
 # ***surround*** vt
----
-英音 sə'raʊnd     美音 sə'raʊnd
-
-词频 3 | 口语 0 | 书面 2 | 阅读 0
-
-
+英音 sə'raʊnd     美音 sə'raʊnd  
+词频 3 | 口语 0 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **包围；环绕；围困：**  
@@ -20744,12 +17452,8 @@ It seems that living green is _______ (surprising) easy and affordable. A small 
 
 
 # ***surrounding*** adj
----
-英音 sə'raʊndɪŋ     美音 sə'raʊndɪŋ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [只用于名词前]
+英音 sə'raʊndɪŋ     美音 sə'raʊndɪŋ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [只用于名词前]
 
 英文释义
 ---
@@ -20761,12 +17465,8 @@ It seems that living green is _______ (surprising) easy and affordable. A small 
 
 
 # ***surroundings*** n
----
-英音 sə'raʊndɪŋz     美音 sə'raʊndɪŋz
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [用复数]
+英音 sə'raʊndɪŋz     美音 sə'raʊndɪŋz  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [用复数]
 
 英文释义
 ---
@@ -20779,12 +17479,8 @@ everything that is near or around you (environment)：
 
 
 # ***survey*** n
----
-英音 'sɜːveɪ     美音 'sɜːrveɪ
-
-词频 4 | 口语 2 | 书面 2 | 阅读 3
-
-用法点拨  [C]
+英音 'sɜːveɪ     美音 'sɜːrveɪ  
+词频 4 | 口语 2 | 书面 2 | 阅读 3  用法点拨  [C]
 
 英文释义
 ---
@@ -20804,12 +17500,8 @@ everything that is near or around you (environment)：
 
 
 # ***survey*** vt
----
-英音 sɜ'veɪ     美音 sɜːr'veɪ
-
-词频 4 | 口语 0 | 书面 0 | 阅读 3
-
-
+英音 sɜ'veɪ     美音 sɜːr'veɪ  
+词频 4 | 口语 0 | 书面 0 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **调查；全面审视：**  
@@ -20826,12 +17518,8 @@ everything that is near or around you (environment)：
 
 
 # ***survival*** n
----
-英音 sə'vaɪvl     美音 sər'vaɪvl
-
-词频 4 | 口语 0 | 书面 1 | 阅读 3
-
-
+英音 sə'vaɪvl     美音 sər'vaɪvl  
+词频 4 | 口语 0 | 书面 1 | 阅读 3  
 英文释义
 ---
 1. *低义频：* **[U] 幸存；继续生存：**  
@@ -20854,12 +17542,8 @@ everything that is near or around you (environment)：
 
 
 # ***survive*** v
----
-英音 sə'vaɪv     美音 sər'vaɪv
-
-词频 4 | 口语 2 | 书面 2 | 阅读 3
-
-
+英音 sə'vaɪv     美音 sər'vaɪv  
+词频 4 | 口语 2 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **幸存 (于)；艰难度过：**  
@@ -20903,12 +17587,8 @@ everything that is near or around you (environment)：
 survivor /sə'vaɪvə(r)/ n 
 
 # ***survivor*** n
----
-英音 sə'vaɪvə(r)     美音 sər'vaɪvər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 sə'vaɪvə(r)     美音 sər'vaɪvər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -20917,12 +17597,8 @@ survivor /sə'vaɪvə(r)/ n
 
 
 # ***suspect*** vt
----
-英音 sə'spekt     美音 sə'spekt
-
-词频 3 | 口语 2 | 书面 1 | 阅读 3
-
-用法点拨  [不用于进行时]
+英音 sə'spekt     美音 sə'spekt  
+词频 3 | 口语 2 | 书面 1 | 阅读 3  用法点拨  [不用于进行时]
 
 英文释义
 ---
@@ -20955,12 +17631,8 @@ to think that sb is probably guilty of a crime：
 
 
 # ***suspect*** n
----
-英音 'sʌspekt     美音 'sʌspekt
-
-词频 3 | 口语 0 | 书面 0 | 阅读 3
-
-用法点拨  [C]
+英音 'sʌspekt     美音 'sʌspekt  
+词频 3 | 口语 0 | 书面 0 | 阅读 3  用法点拨  [C]
 
 英文释义
 ---
@@ -20972,12 +17644,8 @@ to think that sb is probably guilty of a crime：
 
 
 # ***suspect*** adj
----
-英音 'sʌspekt     美音 'sʌspekt
-
-词频 3 | 口语 0 | 书面 0 | 阅读 3
-
-
+英音 'sʌspekt     美音 'sʌspekt  
+词频 3 | 口语 0 | 书面 0 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **不可信的；可疑的：**  
@@ -20988,12 +17656,8 @@ to think that sb is probably guilty of a crime：
 
 
 # ***suspension*** n
----
-英音 sə'spenʃn     美音 sə'spenʃn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 sə'spenʃn     美音 sə'spenʃn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -21006,12 +17670,8 @@ to think that sb is probably guilty of a crime：
 
 
 # ***suspicious*** adj
----
-英音 sə'spɪʃəs     美音 sə'spɪʃəs
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 sə'spɪʃəs     美音 sə'spɪʃəs  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **怀疑的；可疑的**  
@@ -21019,12 +17679,8 @@ to think that sb is probably guilty of a crime：
 
 
 # ***sustain*** vt
----
-英音 sə'steɪn     美音 sə'steɪn
-
-词频 1 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 sə'steɪn     美音 sə'steɪn  
+词频 1 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **保持；维持**  
@@ -21032,12 +17688,8 @@ to think that sb is probably guilty of a crime：
 
 
 # ***sustainable*** adj
----
-英音 sə'steɪnəbl     美音 sə'steɪnəbl
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sə'steɪnəbl     美音 sə'steɪnəbl  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **可持续的；不破坏环境的：**  
@@ -21051,12 +17703,8 @@ to think that sb is probably guilty of a crime：
 
 
 # ***sutra*** n
----
-英音 'suːtrə     美音 'suːtrə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'suːtrə     美音 'suːtrə  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **(佛教的) 经**  
@@ -21064,12 +17712,8 @@ to think that sb is probably guilty of a crime：
 
 
 # ***swallow*** v
----
-英音 'swɒləʊ     美音 'swɑːloʊ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 3
-
-
+英音 'swɒləʊ     美音 'swɑːloʊ  
+词频 2 | 口语 0 | 书面 0 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **吞下；咽下：**  
@@ -21103,12 +17747,8 @@ to think that sb is probably guilty of a crime：
 
 
 # ***swallow*** n
----
-英音 'swɒləʊ     美音 'swɑːloʊ
-
-词频 2 | 口语 1 | 书面 0 | 阅读 3
-
-用法点拨  [C]
+英音 'swɒləʊ     美音 'swɑːloʊ  
+词频 2 | 口语 1 | 书面 0 | 阅读 3  用法点拨  [C]
 
 英文释义
 ---
@@ -21120,12 +17760,8 @@ to think that sb is probably guilty of a crime：
 
 
 # ***swan*** n
----
-英音 swɒn     美音 swɑːn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 swɒn     美音 swɑːn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **天鹅**  
@@ -21133,12 +17769,8 @@ to think that sb is probably guilty of a crime：
 
 
 # ***swap*** v
----
-英音 swɒp     美音 swɑːp
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 swɒp     美音 swɑːp  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(进行) 交换；交流：**  
@@ -21150,12 +17782,8 @@ to think that sb is probably guilty of a crime：
 
 
 # ***swear*** v
----
-英音 sweə(r)     美音 swer
-
-词频 1 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  (swore, sworn)
+英音 sweə(r)     美音 swer  
+词频 1 | 口语 2 | 书面 0 | 阅读 0  用法点拨  (swore, sworn)
 
 英文释义
 ---
@@ -21185,12 +17813,8 @@ to think that sb is probably guilty of a crime：
 
 
 # ***sweat*** n
----
-英音 swet     美音 swet
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 swet     美音 swet  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -21199,12 +17823,8 @@ to think that sb is probably guilty of a crime：
 
 
 # ***sweat*** vi
----
-英音 swet     美音 swet
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 swet     美音 swet  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **出汗：**  
@@ -21215,12 +17835,8 @@ to think that sb is probably guilty of a crime：
 
 
 # ***sweater*** n
----
-英音 'swetə(r)     美音 'swetər
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'swetə(r)     美音 'swetər  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -21229,12 +17845,8 @@ to think that sb is probably guilty of a crime：
 
 
 # ***sweaty*** adj
----
-英音 'sweti     美音 'sweti
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sweti     美音 'sweti  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **满是汗的,被汗水湿透的**  
@@ -21242,12 +17854,8 @@ to think that sb is probably guilty of a crime：
 
 
 # ***sweep*** v
----
-英音 swiːp     美音 swiːp
-
-词频 3 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  (swept, swept) vt & vi
+英音 swiːp     美音 swiːp  
+词频 3 | 口语 0 | 书面 1 | 阅读 0  用法点拨  (swept, swept) vt & vi
 
 英文释义
 ---
@@ -21276,12 +17884,8 @@ to think that sb is probably guilty of a crime：
 
 
 # ***sweet*** adj
----
-英音 swiːt     美音 swiːt
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 swiːt     美音 swiːt  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **香甜的；甜美的；新鲜的：**  
@@ -21302,12 +17906,8 @@ to think that sb is probably guilty of a crime：
 sweetly /'swiːtli/ adv 
 
 # ***sweet*** n
----
-英音 swiːt     美音 swiːt
-
-词频 4 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 swiːt     美音 swiːt  
+词频 4 | 口语 2 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -21316,12 +17916,8 @@ sweetly /'swiːtli/ adv
 
 
 # ***sweetness*** n
----
-英音 'swiːtnəs     美音 'swiːtnəs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'swiːtnəs     美音 'swiːtnəs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **甜蜜, 温柔**  
@@ -21329,12 +17925,8 @@ sweetly /'swiːtli/ adv
 
 
 # ***sweets*** n
----
-英音 swiːts     美音 swiːts
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 swiːts     美音 swiːts  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **糖果**  
@@ -21342,12 +17934,8 @@ sweetly /'swiːtli/ adv
 
 
 # ***swell*** v
----
-英音 swel     美音 swel
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  (swelled, swollen / swelled)
+英音 swel     美音 swel  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  (swelled, swollen / swelled)
 
 英文释义
 ---
@@ -21370,12 +17958,8 @@ swollen /'swəʊlən/ adj
 swelling /'swelɪŋ/ n 
 
 # ***swift*** adj
----
-英音 swɪft     美音 swɪft
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 swɪft     美音 swɪft  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **快的；迅速的；敏捷的：**  
@@ -21394,12 +17978,8 @@ swelling /'swelɪŋ/ n
 swiftly /swɪftli/ adv 
 
 # ***swiftly*** adv
----
-英音 swɪftli     美音 swɪftli
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 swɪftli     美音 swɪftli  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **迅速地**  
@@ -21407,12 +17987,8 @@ swiftly /swɪftli/ adv
 
 
 # ***swim*** vi
----
-英音 swɪm     美音 swɪm
-
-词频 5 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  (swam, swum)
+英音 swɪm     美音 swɪm  
+词频 5 | 口语 1 | 书面 0 | 阅读 0  用法点拨  (swam, swum)
 
 英文释义
 ---
@@ -21434,12 +18010,8 @@ swiftly /swɪftli/ adv
 swimmer /'swɪmə(r)/ n 
 
 # ***swim*** n
----
-英音 swɪm     美音 swɪm
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [常用单数]
+英音 swɪm     美音 swɪm  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [常用单数]
 
 英文释义
 ---
@@ -21452,12 +18024,8 @@ swimmer /'swɪmə(r)/ n
 
 
 # ***swimming*** n
----
-英音 'swɪmɪŋ     美音 'swɪmɪŋ
-
-词频 4 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'swɪmɪŋ     美音 'swɪmɪŋ  
+词频 4 | 口语 2 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -21481,12 +18049,8 @@ The village children like to go _________ (游泳) in the nearby river.
   
 
 # ***swing*** v
----
-英音 swɪŋ     美音 swɪŋ
-
-词频 3 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  (swung, swung) vt & vi
+英音 swɪŋ     美音 swɪŋ  
+词频 3 | 口语 0 | 书面 1 | 阅读 0  用法点拨  (swung, swung) vt & vi
 
 英文释义
 ---
@@ -21506,12 +18070,8 @@ The village children like to go _________ (游泳) in the nearby river.
 
 
 # ***swing*** n
----
-英音 swɪŋ     美音 swɪŋ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 swɪŋ     美音 swɪŋ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -21520,12 +18080,8 @@ The village children like to go _________ (游泳) in the nearby river.
 
 
 # ***switch*** n
----
-英音 swɪtʃ     美音 swɪtʃ
-
-词频 4 | 口语 2 | 书面 0 | 阅读 3
-
-用法点拨  [C]
+英音 swɪtʃ     美音 swɪtʃ  
+词频 4 | 口语 2 | 书面 0 | 阅读 3  用法点拨  [C]
 
 英文释义
 ---
@@ -21541,12 +18097,8 @@ The village children like to go _________ (游泳) in the nearby river.
 
 
 # ***switch*** v
----
-英音 swɪtʃ     美音 swɪtʃ
-
-词频 4 | 口语 2 | 书面 1 | 阅读 3
-
-用法点拨  vt & vi
+英音 swɪtʃ     美音 swɪtʃ  
+词频 4 | 口语 2 | 书面 1 | 阅读 3  用法点拨  vt & vi
 
 英文释义
 ---
@@ -21601,12 +18153,8 @@ to exchange one thing for another：
 
 
 # ***swollen*** adj
----
-英音 'swəʊlən     美音 'swoʊlən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'swəʊlən     美音 'swoʊlən  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **肿胀的**  
@@ -21619,12 +18167,8 @@ swollen /'swəʊlən/ adj
 swelling /'swelɪŋ/ n 
 
 # ***sword*** n
----
-英音 sɔːd     美音 sɔːrd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 sɔːd     美音 sɔːrd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -21640,12 +18184,8 @@ swelling /'swelɪŋ/ n
 
 
 # ***syllable*** n
----
-英音 'sɪləbl     美音 'sɪləbl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'sɪləbl     美音 'sɪləbl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -21654,12 +18194,8 @@ swelling /'swelɪŋ/ n
 
 
 # ***symbol*** n
----
-英音 'sɪmbl     美音 'sɪmbl
-
-词频 4 | 口语 0 | 书面 1 | 阅读 3
-
-用法点拨  [C]
+英音 'sɪmbl     美音 'sɪmbl  
+词频 4 | 口语 0 | 书面 1 | 阅读 3  用法点拨  [C]
 
 英文释义
 ---
@@ -21697,12 +18233,8 @@ D.statue
   
 
 # ***symbolic*** adj
----
-英音 sɪm'bɒlɪk     美音 sɪm'bɑːlɪk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 sɪm'bɒlɪk     美音 sɪm'bɑːlɪk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **象征的，作为象征的**  
@@ -21710,12 +18242,8 @@ D.statue
 
 
 # ***sympathetic*** adj
----
-英音 ˌsɪmpə'θetɪk     美音 ˌsɪmpə'θetɪk
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌsɪmpə'θetɪk     美音 ˌsɪmpə'θetɪk  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **同情的；表示同情的：**  
@@ -21730,12 +18258,8 @@ D.statue
 
 
 # ***sympathy*** n
----
-英音 'sɪmpəθi     美音 'sɪmpəθi
-
-词频 3 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'sɪmpəθi     美音 'sɪmpəθi  
+词频 3 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -21751,12 +18275,8 @@ D.statue
 
 
 # ***symphony*** n
----
-英音 'sɪmfəni     美音 'sɪmfəni
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'sɪmfəni     美音 'sɪmfəni  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -21769,12 +18289,8 @@ D.statue
 
 
 # ***symptom*** n
----
-英音 'sɪmptəm     美音 'sɪmptəm
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sɪmptəm     美音 'sɪmptəm  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **症状；征兆：**  
@@ -21796,12 +18312,8 @@ D.shadow
   
 
 # ***syncopation*** n
----
-英音 ˌsɪŋkə'peɪʃn     美音 ˌsɪŋkə'peɪʃn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌsɪŋkə'peɪʃn     美音 ˌsɪŋkə'peɪʃn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（音乐的）切分音，切分节奏**  
@@ -21809,12 +18321,8 @@ D.shadow
 
 
 # ***syndrome*** n
----
-英音 'sɪndrəʊm     美音 'sɪndroʊm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'sɪndrəʊm     美音 'sɪndroʊm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -21823,12 +18331,8 @@ D.shadow
 
 
 # ***syrup*** n
----
-英音 'sɪrəp     美音 'sɪrəp
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'sɪrəp     美音 'sɪrəp  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **糖浆**  
@@ -21836,12 +18340,8 @@ D.shadow
 
 
 # ***system*** n
----
-英音 'sɪstəm     美音 'sɪstəm
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'sɪstəm     美音 'sɪstəm  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 系统：**  
@@ -21864,12 +18364,8 @@ D.shadow
 
 
 # ***systematic*** adj
----
-英音 ˌsɪstə'mætɪk     美音 ˌsɪstə'mætɪk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌsɪstə'mætɪk     美音 ˌsɪstə'mætɪk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **有系统的；有计划步骤的：**  

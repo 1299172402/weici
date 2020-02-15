@@ -1,12 +1,8 @@
 # Ii
 
 # ***i.e.*** abbr
----
-英音 ˌaɪ'iː     美音 ˌaɪ'iː
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌaɪ'iː     美音 ˌaɪ'iː  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **即；也就是**  
@@ -14,12 +10,8 @@
 
 
 # ***ibis*** n
----
-英音 'aɪbɪs     美音 'aɪbɪs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'aɪbɪs     美音 'aɪbɪs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **鹮**  
@@ -27,12 +19,8 @@
 
 
 # ***ice*** n
----
-英音 aɪs     美音 aɪs
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [U]
+英音 aɪs     美音 aɪs  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -47,12 +35,8 @@
 
 
 # ***ice-cream*** n
----
-英音 aɪskriːm     美音 aɪskriːm
-
-词频 2 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  [U] & [C]
+英音 aɪskriːm     美音 aɪskriːm  
+词频 2 | 口语 2 | 书面 0 | 阅读 0  用法点拨  [U] & [C]
 
 英文释义
 ---
@@ -61,12 +45,8 @@
 
 
 # ***iceberg*** n
----
-英音 'aɪsbɜːɡ     美音 'aɪsbɜːrɡ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'aɪsbɜːɡ     美音 'aɪsbɜːrɡ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -75,12 +55,8 @@
 
 
 # ***idea*** n  重难点词汇
----
-英音 aɪ'dɪə     美音 aɪ'diːə
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 aɪ'dɪə     美音 aɪ'diːə  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **想法；主意：**  
@@ -158,12 +134,8 @@ the aim or purpose of sth：
   
 
 # ***ideal*** adj
----
-英音 aɪ'diːəl     美音 aɪ'diːəl
-
-词频 3 | 口语 1 | 书面 1 | 阅读 2
-
-
+英音 aɪ'diːəl     美音 aɪ'diːəl  
+词频 3 | 口语 1 | 书面 1 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **理想的；完美的：**  
@@ -174,12 +146,8 @@ the aim or purpose of sth：
 
 
 # ***ideal*** n
----
-英音 aɪ'diːəl     美音 aɪ'diːəl
-
-词频 3 | 口语 0 | 书面 0 | 阅读 2
-
-用法点拨  [C]
+英音 aɪ'diːəl     美音 aɪ'diːəl  
+词频 3 | 口语 0 | 书面 0 | 阅读 2  用法点拨  [C]
 
 英文释义
 ---
@@ -191,12 +159,8 @@ the aim or purpose of sth：
 
 
 # ***identical*** adj
----
-英音 aɪ'dentɪkl     美音 aɪ'dentɪkl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 aɪ'dentɪkl     美音 aɪ'dentɪkl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **同一的；完全相同的**  
@@ -204,12 +168,8 @@ the aim or purpose of sth：
 
 
 # ***identification*** n
----
-英音 aɪˌdentɪfɪ'keɪʃn     美音 aɪˌdentɪfɪ'keɪʃn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 aɪˌdentɪfɪ'keɪʃn     美音 aɪˌdentɪfɪ'keɪʃn  
+词频 1 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *低义频：* **识别；鉴定；确认**  
@@ -231,12 +191,8 @@ when you recognize sth or discover exactly what it is：
 
 
 # ***identify*** vt
----
-英音 aɪ'dentɪfaɪ     美音 aɪ'dentɪfaɪ
-
-词频 3 | 口语 2 | 书面 3 | 阅读 2
-
-
+英音 aɪ'dentɪfaɪ     美音 aɪ'dentɪfaɪ  
+词频 3 | 口语 2 | 书面 3 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **认出；识别**  
@@ -288,12 +244,8 @@ to find or discover sb / sth：
 
 
 # ***identity*** n
----
-英音 aɪ'dentəti     美音 aɪ'dentəti
-
-词频 2 | 口语 0 | 书面 2 | 阅读 0
-
-
+英音 aɪ'dentəti     美音 aɪ'dentəti  
+词频 2 | 口语 0 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **身份：**  
@@ -323,12 +275,8 @@ He gave himself a new name to hide his ________ (身份) when he went to carry o
   
 
 # ***idiom*** n
----
-英音 'ɪdiəm     美音 'ɪdiəm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɪdiəm     美音 'ɪdiəm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 习语；成语**  
@@ -336,12 +284,8 @@ He gave himself a new name to hide his ________ (身份) when he went to carry o
 
 
 # ***idiomatic*** adj
----
-英音 ˌɪdiə'mætɪk     美音 ˌɪdiə'mætɪk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌɪdiə'mætɪk     美音 ˌɪdiə'mætɪk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **惯用的；合乎语言习惯的**  
@@ -349,12 +293,8 @@ He gave himself a new name to hide his ________ (身份) when he went to carry o
 
 
 # ***if*** conj
----
-英音 ɪf     美音 ɪf
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 ɪf     美音 ɪf  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **如果：**  
@@ -424,12 +364,8 @@ At fi rst he hated the new job but decided to give himself a few months to see _
   
 
 # ***ignorance*** n
----
-英音 'ɪɡnərəns     美音 'ɪɡnərəns
-
-词频 1 | 口语 0 | 书面 0 | 阅读 1
-
-用法点拨  [U]
+英音 'ɪɡnərəns     美音 'ɪɡnərəns  
+词频 1 | 口语 0 | 书面 0 | 阅读 1  用法点拨  [U]
 
 英文释义
 ---
@@ -441,12 +377,8 @@ At fi rst he hated the new job but decided to give himself a few months to see _
 
 
 # ***ignorant*** adj
----
-英音 'ɪɡnərənt     美音 'ɪɡnərənt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 'ɪɡnərənt     美音 'ɪɡnərənt  
+词频 1 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **无知的；愚昧的：**  
@@ -458,12 +390,8 @@ At fi rst he hated the new job but decided to give himself a few months to see _
 
 
 # ***ignore*** vt
----
-英音 ɪɡ'nɔːr     美音 ɪɡ'nɔː(r)
-
-词频 4 | 口语 2 | 书面 2 | 阅读 3
-
-
+英音 ɪɡ'nɔːr     美音 ɪɡ'nɔː(r)  
+词频 4 | 口语 2 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **(故意) 不理会；忽视：**  
@@ -488,12 +416,8 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
   
 
 # ***ill*** adj
----
-英音 ɪl     美音 ɪl
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  (worse, worst)
+英音 ɪl     美音 ɪl  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  用法点拨  (worse, worst)
 
 英文释义
 ---
@@ -518,12 +442,8 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
 
 
 # ***ill*** adv
----
-英音 ɪl     美音 ɪl
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  (worse, worst)
+英音 ɪl     美音 ɪl  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  (worse, worst)
 
 英文释义
 ---
@@ -539,12 +459,8 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
 
 
 # ***illegal*** adj
----
-英音 ɪ'liːɡl     美音 ɪ'liːɡl
-
-词频 3 | 口语 0 | 书面 1 | 阅读 1
-
-
+英音 ɪ'liːɡl     美音 ɪ'liːɡl  
+词频 3 | 口语 0 | 书面 1 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **不合法的；违法的：**  
@@ -563,12 +479,8 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
 
 
 # ***illegally*** adv
----
-英音 ɪ'liːɡəli     美音 ɪ'liːɡəli
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪ'liːɡəli     美音 ɪ'liːɡəli  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **不合法地；违法地**  
@@ -576,12 +488,8 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
 
 
 # ***illness*** n
----
-英音 'ɪlnəs     美音 'ɪlnəs
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'ɪlnəs     美音 'ɪlnəs  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -604,12 +512,8 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
 
 
 # ***illuminate*** vt
----
-英音 ɪ'luːmɪneɪt     美音 ɪ'luːmɪneɪt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪ'luːmɪneɪt     美音 ɪ'luːmɪneɪt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **照明, 照亮**  
@@ -617,12 +521,8 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
 
 
 # ***illustrate*** vt
----
-英音 'ɪləstreɪt     美音 'ɪləstreɪt
-
-词频 2 | 口语 0 | 书面 2 | 阅读 0
-
-
+英音 'ɪləstreɪt     美音 'ɪləstreɪt  
+词频 2 | 口语 0 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **给…作插图：**  
@@ -648,12 +548,8 @@ illustration /ˌɪlə'streɪʃn/ n [U]
 illustrator /'ɪləstreɪtə(r)/ n [C]
 
 # ***image*** n
----
-英音 'ɪmɪdʒ     美音 'ɪmɪdʒ
-
-词频 4 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'ɪmɪdʒ     美音 'ɪmɪdʒ  
+词频 4 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -672,12 +568,8 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
 
 
 # ***imaginary*** adj
----
-英音 ɪ'mædʒɪnəri     美音 ɪ'mædʒɪneri
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪ'mædʒɪnəri     美音 ɪ'mædʒɪneri  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **想象中的；假想的；虚构的**  
@@ -685,12 +577,8 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
 
 
 # ***imagination*** n
----
-英音 ɪˌmædʒɪ'neɪʃn     美音 ɪˌmædʒɪ'neɪʃn
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 ɪˌmædʒɪ'neɪʃn     美音 ɪˌmædʒɪ'neɪʃn  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **想象；想象力：**  
@@ -717,12 +605,8 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
 
 
 # ***imaginative*** adj
----
-英音 ɪ'mædʒɪnətɪv     美音 ɪ'mædʒɪnətɪv
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪ'mædʒɪnətɪv     美音 ɪ'mædʒɪnətɪv  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **富于想象力的**  
@@ -730,12 +614,8 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
 
 
 # ***imagine*** vt  重难点词汇
----
-英音 ɪ'mædʒɪn     美音 ɪ'mædʒɪn
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 ɪ'mædʒɪn     美音 ɪ'mædʒɪn  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **想象；设想：**  
@@ -812,12 +692,8 @@ It is difficult to imagine his ________ (accept) the decision without any consid
   
 
 # ***imitate*** vt
----
-英音 'ɪmɪteɪt     美音 'ɪmɪteɪt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɪmɪteɪt     美音 'ɪmɪteɪt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **模仿；仿效：**  
@@ -833,12 +709,8 @@ It is difficult to imagine his ________ (accept) the decision without any consid
 imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
 
 # ***imitation*** n
----
-英音 ˌɪmɪ'teɪʃn     美音 ˌɪmɪ'teɪʃn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌɪmɪ'teɪʃn     美音 ˌɪmɪ'teɪʃn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **模仿**  
@@ -846,12 +718,8 @@ imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
 
 
 # ***immediate*** adj
----
-英音 ɪ'miːdiət     美音 ɪ'miːdiət
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 ɪ'miːdiət     美音 ɪ'miːdiət  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **立即的；[只用于名词前] 当前的： Without immediate medical**  
@@ -877,12 +745,8 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
   
 
 # ***immediately*** adv
----
-英音 ɪ'miːdiətli     美音 ɪ'miːdiətli
-
-词频 4 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 ɪ'miːdiətli     美音 ɪ'miːdiətli  
+词频 4 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **立即；马上：(at once)**  
@@ -893,12 +757,8 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 
 
 # ***immediately*** conj
----
-英音 ɪ'miːdiətli     美音 ɪ'miːdiətli
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪ'miːdiətli     美音 ɪ'miːdiətli  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **一...就... (as soon as)：**  
@@ -909,12 +769,8 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 
 
 # ***immense*** adj
----
-英音 ɪ'mens     美音 ɪ'mens
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪ'mens     美音 ɪ'mens  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **极大的**  
@@ -922,12 +778,8 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 
 
 # ***immigrant*** n
----
-英音 'ɪmɪɡrənt     美音 'ɪmɪɡrənt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 1
-
-用法点拨  [C]
+英音 'ɪmɪɡrənt     美音 'ɪmɪɡrənt  
+词频 1 | 口语 0 | 书面 0 | 阅读 1  用法点拨  [C]
 
 英文释义
 ---
@@ -936,12 +788,8 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 
 
 # ***immigrant*** adj
----
-英音 'ɪmɪɡrənt     美音 'ɪmɪɡrənt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɪmɪɡrənt     美音 'ɪmɪɡrənt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **移民的；移居的**  
@@ -949,12 +797,8 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 
 
 # ***immigrate*** vi
----
-英音 'ɪmɪˌɡreɪt     美音 'ɪmɪɡreɪt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɪmɪˌɡreɪt     美音 'ɪmɪɡreɪt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(从外国) 移入；作为移民定居：**  
@@ -965,12 +809,8 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 
 
 # ***immigration*** n
----
-英音 ˌɪmɪ'ɡreɪʃn     美音 ˌɪmɪ'ɡreɪʃn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 ˌɪmɪ'ɡreɪʃn     美音 ˌɪmɪ'ɡreɪʃn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -985,12 +825,8 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 
 
 # ***immune*** adj
----
-英音 ɪ'mjuːn     美音 ɪ'mjuːn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪ'mjuːn     美音 ɪ'mjuːn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **有免疫力的**  
@@ -998,12 +834,8 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 
 
 # ***impact*** n
----
-英音 'ɪmpækt     美音 'ɪmpækt
-
-词频 3 | 口语 0 | 书面 0 | 阅读 2
-
-用法点拨  [U] & [C]
+英音 'ɪmpækt     美音 'ɪmpækt  
+词频 3 | 口语 0 | 书面 0 | 阅读 2  用法点拨  [U] & [C]
 
 英文释义
 ---
@@ -1023,12 +855,8 @@ a powerful effect or influence：
 
 
 # ***impair*** vt
----
-英音 ɪm'peə(r)     美音 ɪm'per
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪm'peə(r)     美音 ɪm'per  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **削弱；损伤**  
@@ -1036,12 +864,8 @@ a powerful effect or influence：
 
 
 # ***imperative*** n
----
-英音 ɪm'perətɪv     美音 ɪm'perətɪv
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪm'perətɪv     美音 ɪm'perətɪv  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **祈使语气；命令**  
@@ -1049,12 +873,8 @@ a powerful effect or influence：
 
 
 # ***imperial*** adj
----
-英音 ɪm'pɪəriəl     美音 ɪm'pɪriəl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪm'pɪəriəl     美音 ɪm'pɪriəl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **皇帝的，皇家的**  
@@ -1062,12 +882,8 @@ a powerful effect or influence：
 
 
 # ***imply*** vt
----
-英音 ɪm'plaɪ     美音 ɪm'plaɪ
-
-词频 4 | 口语 0 | 书面 2 | 阅读 0
-
-
+英音 ɪm'plaɪ     美音 ɪm'plaɪ  
+词频 4 | 口语 0 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **含有…的意思；暗示；暗指：**  
@@ -1088,12 +904,8 @@ a powerful effect or influence：
 implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
 
 # ***impolite*** adj
----
-英音 ˌɪmpə'laɪt     美音 ˌɪmpə'laɪt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌɪmpə'laɪt     美音 ˌɪmpə'laɪt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **不礼貌的**  
@@ -1101,12 +913,8 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
 
 
 # ***import*** vt
----
-英音 ɪm'pɔːt     美音 ɪm'pɔːt
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪm'pɔːt     美音 ɪm'pɔːt  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **进口；输入；引进：**  
@@ -1118,12 +926,8 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
 
 
 # ***import*** n
----
-英音 'ɪmpɔːt     美音 'ɪmpɔːt
-
-词频 3 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 'ɪmpɔːt     美音 'ɪmpɔːt  
+词频 3 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 进口物品；[U] 进口；输入：**  
@@ -1135,12 +939,8 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
 
 
 # ***importance*** n
----
-英音 ɪm'pɔːtns     美音 ɪm'pɔːrtns
-
-词频 4 | 口语 1 | 书面 3 | 阅读 0
-
-用法点拨  [U]
+英音 ɪm'pɔːtns     美音 ɪm'pɔːrtns  
+词频 4 | 口语 1 | 书面 3 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -1161,12 +961,8 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
 
 
 # ***important*** adj
----
-英音 ɪm'pɔːtnt     美音 ɪm'pɔːrtnt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 ɪm'pɔːtnt     美音 ɪm'pɔːrtnt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **重要的；重大的；(人) 有影响力的**  
@@ -1186,12 +982,8 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
 importantly /ɪm'pɔːtntli/ adv [句子副词]
 
 # ***impose*** vt
----
-英音 ɪm'pəʊz     美音 ɪm'poʊz
-
-词频 1 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 ɪm'pəʊz     美音 ɪm'poʊz  
+词频 1 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **强制实行；强加于**  
@@ -1199,12 +991,8 @@ importantly /ɪm'pɔːtntli/ adv [句子副词]
 
 
 # ***impossible*** adj
----
-英音 ɪm'pɒsəbl     美音 ɪm'pɑːsəbl
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 ɪm'pɒsəbl     美音 ɪm'pɑːsəbl  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **不可能的：**  
@@ -1230,12 +1018,8 @@ I consider it ________ (不可能) to believe a single word you say.
   
 
 # ***impress*** vt  重难点词汇
----
-英音 ɪm'pres     美音 ɪm'pres
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 ɪm'pres     美音 ɪm'pres  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **印；盖 (印) 于**  
@@ -1267,12 +1051,8 @@ to try to make sb understand how important sth is：
 
 
 # ***impression*** n
----
-英音 ɪm'preʃn     美音 ɪm'preʃn
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 ɪm'preʃn     美音 ɪm'preʃn  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1308,12 +1088,8 @@ My ________ (第一印象) of him was that he was a kind and thoughtful young ma
   
 
 # ***impressionism*** n
----
-英音 ɪm'preʃənɪzəm     美音 ɪm'preʃənɪzəm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪm'preʃənɪzəm     美音 ɪm'preʃənɪzəm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **印象主义；印象派**  
@@ -1321,12 +1097,8 @@ My ________ (第一印象) of him was that he was a kind and thoughtful young ma
 
 
 # ***impressionist*** adj
----
-英音 ɪm'preʃənɪst     美音 ɪm'preʃənɪst
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪm'preʃənɪst     美音 ɪm'preʃənɪst  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **印象派的**  
@@ -1334,12 +1106,8 @@ My ________ (第一印象) of him was that he was a kind and thoughtful young ma
 
 
 # ***impressionist*** n
----
-英音 ɪm'preʃənɪst     美音 ɪm'preʃənɪst
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪm'preʃənɪst     美音 ɪm'preʃənɪst  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **印象派艺术家**  
@@ -1347,12 +1115,8 @@ My ________ (第一印象) of him was that he was a kind and thoughtful young ma
 
 
 # ***impressive*** adj
----
-英音 ɪm'presɪv     美音 ɪm'presɪv
-
-词频 3 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 ɪm'presɪv     美音 ɪm'presɪv  
+词频 3 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **给人深刻印象的； 令人钦佩的：**  
@@ -1370,12 +1134,8 @@ What was so ________ (impress) about Jasmine Westland’s victory was that she c
   
 
 # ***improve*** v
----
-英音 ɪm'pruːv     美音 ɪm'pruːv
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  vt & vi
+英音 ɪm'pruːv     美音 ɪm'pruːv  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  用法点拨  vt & vi
 
 英文释义
 ---
@@ -1407,12 +1167,8 @@ What was so ________ (impress) about Jasmine Westland’s victory was that she c
 improvement /ɪm'pruːvmənt/ n [U] & [C]
 
 # ***improvisation*** n
----
-英音 ˌɪmprəvaɪ'zeɪʃn     美音 ˌɪmprəvaɪ'zeɪʃn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌɪmprəvaɪ'zeɪʃn     美音 ˌɪmprəvaɪ'zeɪʃn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **即席演奏**  
@@ -1420,12 +1176,8 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 
 
 # ***improvise*** v
----
-英音 'ɪmprəvaɪz     美音 'ɪmprəvaɪz
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɪmprəvaɪz     美音 'ɪmprəvaɪz  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **即兴演奏,即兴表演**  
@@ -1433,12 +1185,8 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 
 
 # ***impulse*** n
----
-英音 'ɪmpʌls     美音 'ɪmpʌls
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɪmpʌls     美音 'ɪmpʌls  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **脉冲**  
@@ -1446,12 +1194,8 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 
 
 # ***in*** prep
----
-英音 ɪn     美音 ɪn
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 ɪn     美音 ɪn  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **在…内；在…之中：**  
@@ -1536,12 +1280,8 @@ Try on this red skirt; you will look great ________ it.
   
 
 # ***in*** adv
----
-英音 ɪn     美音 ɪn
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 ɪn     美音 ɪn  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **在里面；向里面：**  
@@ -1558,12 +1298,8 @@ Try on this red skirt; you will look great ________ it.
 
 
 # ***in*** adj
----
-英音 ɪn     美音 ɪn
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [非正式用语]
+英音 ɪn     美音 ɪn  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [非正式用语]
 
 英文释义
 ---
@@ -1572,12 +1308,8 @@ Try on this red skirt; you will look great ________ it.
 
 
 # ***incense*** n
----
-英音 'ɪnsens     美音 'ɪnsens
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'ɪnsens     美音 'ɪnsens  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -1586,12 +1318,8 @@ Try on this red skirt; you will look great ________ it.
 
 
 # ***inch*** n
----
-英音 ɪntʃ     美音 ɪntʃ
-
-词频 3 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 ɪntʃ     美音 ɪntʃ  
+词频 3 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1620,12 +1348,8 @@ Try on this red skirt; you will look great ________ it.
 
 
 # ***incident*** n
----
-英音 'ɪnsɪdənt     美音 'ɪnsɪdənt
-
-词频 2 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'ɪnsɪdənt     美音 'ɪnsɪdənt  
+词频 2 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1649,12 +1373,8 @@ sth that happens, especially sth unusual or unpleasant：
 三者都含有“事件”之意。
 
 # ***include*** vt
----
-英音 ɪn'kluːd     美音 ɪn'kluːd
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 ɪn'kluːd     美音 ɪn'kluːd  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[不用于进行时] 包括；包含**  
@@ -1689,12 +1409,8 @@ My duties will include ________ (introduce) British visitors to the 120 plus pan
   
 
 # ***including*** prep
----
-英音 ɪn'kluːdɪŋ     美音 ɪn'kluːdɪŋ
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 ɪn'kluːdɪŋ     美音 ɪn'kluːdɪŋ  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **包括…在内：**  
@@ -1708,12 +1424,8 @@ My duties will include ________ (introduce) British visitors to the 120 plus pan
 
 
 # ***income*** n
----
-英音 'ɪnkʌm,'ɪnkəm     美音 'ɪnkʌm
-
-词频 4 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'ɪnkʌm,'ɪnkəm     美音 'ɪnkʌm  
+词频 4 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -1736,12 +1448,8 @@ Tourism is the major source of________(收入) for this area.
   
 
 # ***incorrectly*** adv
----
-英音 ˌɪnkə'rektli     美音 ˌɪnkə'rektli
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌɪnkə'rektli     美音 ˌɪnkə'rektli  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **不正确地**  
@@ -1749,12 +1457,8 @@ Tourism is the major source of________(收入) for this area.
 
 
 # ***increase*** v
----
-英音 ɪn'kriːs     美音 ɪn'kriːs
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 ɪn'kriːs     美音 ɪn'kriːs  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **增加；增长：**  
@@ -1772,12 +1476,8 @@ Tourism is the major source of________(收入) for this area.
 
 
 # ***increase*** n
----
-英音 'ɪŋkriːs     美音 'ɪŋkriːs
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'ɪŋkriːs     美音 'ɪŋkriːs  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -1807,12 +1507,8 @@ D.increase
   
 
 # ***increasingly*** adv
----
-英音 ɪn'kriːsɪŋli     美音 ɪn'kriːsɪŋli
-
-词频 4 | 口语 0 | 书面 2 | 阅读 3
-
-
+英音 ɪn'kriːsɪŋli     美音 ɪn'kriːsɪŋli  
+词频 4 | 口语 0 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **渐增地：**  
@@ -1830,12 +1526,8 @@ Volunteering is becoming ________ (increasing) popular in China.
   
 
 # ***incredible*** adj
----
-英音 ɪn'kredəbl     美音 ɪn'kredəbl
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 ɪn'kredəbl     美音 ɪn'kredəbl  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **难以置信的；无法相信的；[口语] 极好的：**  
@@ -1849,12 +1541,8 @@ Volunteering is becoming ________ (increasing) popular in China.
 
 
 # ***incredibly*** adv
----
-英音 ɪn'kredəbli     美音 ɪn'kredəbli
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'kredəbli     美音 ɪn'kredəbli  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **难以置信地**  
@@ -1862,12 +1550,8 @@ Volunteering is becoming ________ (increasing) popular in China.
 
 
 # ***indeed*** adv
----
-英音 ɪn'diːd     美音 ɪn'diːd
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 ɪn'diːd     美音 ɪn'diːd  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **真正地；当然；确实：**  
@@ -1907,12 +1591,8 @@ Volunteering is becoming ________ (increasing) popular in China.
   
 
 # ***independence*** n
----
-英音 ˌɪndɪ'pendəns     美音 ˌɪndɪ'pendəns
-
-词频 2 | 口语 0 | 书面 2 | 阅读 0
-
-用法点拨  [U]
+英音 ˌɪndɪ'pendəns     美音 ˌɪndɪ'pendəns  
+词频 2 | 口语 0 | 书面 2 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -1928,12 +1608,8 @@ Volunteering is becoming ________ (increasing) popular in China.
 
 
 # ***independent*** adj
----
-英音 ˌɪndɪ'pendənt     美音 ˌɪndɪ'pendənt
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 ˌɪndɪ'pendənt     美音 ˌɪndɪ'pendənt  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **独立的；自立的**  
@@ -1952,12 +1628,8 @@ Volunteering is becoming ________ (increasing) popular in China.
 independently /ˌɪndɪ'pendəntli/ adv 
 
 # ***index*** n
----
-英音 'ɪndeks     美音 'ɪndeks
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'ɪndeks     美音 'ɪndeks  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1966,12 +1638,8 @@ independently /ˌɪndɪ'pendəntli/ adv
 
 
 # ***indicate*** vt
----
-英音 'ɪndɪkeɪt     美音 'ɪndɪkeɪt
-
-词频 4 | 口语 3 | 书面 0 | 阅读 3
-
-
+英音 'ɪndɪkeɪt     美音 'ɪndɪkeɪt  
+词频 4 | 口语 3 | 书面 0 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **指示；指出**  
@@ -2005,12 +1673,8 @@ to say or do sth to make your wishes, intentions etc. clearly：
 indication /ˌɪndɪ'keɪʃn/ n [C] & [U]
 
 # ***indigenous*** adj
----
-英音 ɪn'dɪdʒənəs     美音 ɪn'dɪdʒənəs
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'dɪdʒənəs     美音 ɪn'dɪdʒənəs  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **本地的,土生土长的**  
@@ -2018,12 +1682,8 @@ indication /ˌɪndɪ'keɪʃn/ n [C] & [U]
 
 
 # ***individual*** adj
----
-英音 ˌɪndɪ'vɪdʒuəl     美音 ˌɪndɪ'vɪdʒuəl
-
-词频 4 | 口语 2 | 书面 3 | 阅读 3
-
-
+英音 ˌɪndɪ'vɪdʒuəl     美音 ˌɪndɪ'vɪdʒuəl  
+词频 4 | 口语 2 | 书面 3 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **单独的；个人的：**  
@@ -2038,12 +1698,8 @@ indication /ˌɪndɪ'keɪʃn/ n [C] & [U]
 
 
 # ***individual*** n
----
-英音 ˌɪndɪ'vɪdʒuəl     美音 ˌɪndɪ'vɪdʒuəl
-
-词频 4 | 口语 2 | 书面 3 | 阅读 3
-
-用法点拨  [C]
+英音 ˌɪndɪ'vɪdʒuəl     美音 ˌɪndɪ'vɪdʒuəl  
+词频 4 | 口语 2 | 书面 3 | 阅读 3  用法点拨  [C]
 
 英文释义
 ---
@@ -2060,12 +1716,8 @@ individualism /ˌɪndɪ'vɪdʒuəlɪzəm/ n [U]
 individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 
 # ***indoor*** adj
----
-英音 'ɪndɔː(r)     美音 'ɪndɔːr
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɪndɔː(r)     美音 'ɪndɔːr  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(在) 室内的**  
@@ -2076,12 +1728,8 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 
 
 # ***indoors*** adv
----
-英音 ˌɪn'dɔːz     美音 ˌɪn'dɔːrz
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌɪn'dɔːz     美音 ˌɪn'dɔːrz  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **在室内；往室内：**  
@@ -2092,12 +1740,8 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 
 
 # ***induce*** vt
----
-英音 ɪn'djuːs     美音 ɪn'duːs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'djuːs     美音 ɪn'duːs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **劝诱；劝使**  
@@ -2105,12 +1749,8 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 
 
 # ***industrial*** adj
----
-英音 ɪn'dʌstriəl     美音 ɪn'dʌstriəl
-
-词频 2 | 口语 1 | 书面 3 | 阅读 0
-
-
+英音 ɪn'dʌstriəl     美音 ɪn'dʌstriəl  
+词频 2 | 口语 1 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **工业的；产业的：**  
@@ -2121,12 +1761,8 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 
 
 # ***industrialisation*** n
----
-英音 ɪnˌdʌstriəlaɪ'zeɪʃn     美音 ɪnˌdʌstriəlaɪ'zeɪʃn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪnˌdʌstriəlaɪ'zeɪʃn     美音 ɪnˌdʌstriəlaɪ'zeɪʃn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **工业化**  
@@ -2134,12 +1770,8 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 
 
 # ***industry*** n
----
-英音 'ɪndəstri     美音 'ɪndəstri
-
-词频 4 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'ɪndəstri     美音 'ɪndəstri  
+词频 4 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -2155,12 +1787,8 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 
 
 # ***inequality*** n
----
-英音 ˌɪnɪ'kwɒləti     美音 ˌɪnɪ'kwɑːləti
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌɪnɪ'kwɒləti     美音 ˌɪnɪ'kwɑːləti  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **不平等**  
@@ -2168,12 +1796,8 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 
 
 # ***inescapable*** adj
----
-英音 ˌɪnɪ'skeɪpəbl     美音 ˌɪnɪ'skeɪpəbl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌɪnɪ'skeɪpəbl     美音 ˌɪnɪ'skeɪpəbl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **不可避免的**  
@@ -2181,12 +1805,8 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 
 
 # ***infamous*** adj
----
-英音 'ɪnfəməs     美音 'ɪnfəməs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɪnfəməs     美音 'ɪnfəməs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **臭名昭著的；声名狼藉的**  
@@ -2194,12 +1814,8 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 
 
 # ***infant*** n
----
-英音 'ɪnfənt     美音 'ɪnfənt
-
-词频 1 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 'ɪnfənt     美音 'ɪnfənt  
+词频 1 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **婴儿；幼儿**  
@@ -2207,12 +1823,8 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 
 
 # ***infect*** vt
----
-英音 ɪn'fekt     美音 ɪn'fekt
-
-词频 3 | 口语 0 | 书面 0 | 阅读 3
-
-
+英音 ɪn'fekt     美音 ɪn'fekt  
+词频 3 | 口语 0 | 书面 0 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **传染；染上：**  
@@ -2233,12 +1845,8 @@ infection /ɪn'fekʃn/ n
 infectious /ɪn'fekʃəs/ adj 
 
 # ***infection*** n
----
-英音 ɪn'fekʃn     美音 ɪn'fekʃn
-
-词频 1 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 ɪn'fekʃn     美音 ɪn'fekʃn  
+词频 1 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 传染 [C] 传染病**  
@@ -2246,12 +1854,8 @@ infectious /ɪn'fekʃəs/ adj
 
 
 # ***infectious*** adj
----
-英音 ɪn'fekʃəs     美音 ɪn'fekʃəs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'fekʃəs     美音 ɪn'fekʃəs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **传染的**  
@@ -2259,12 +1863,8 @@ infectious /ɪn'fekʃəs/ adj
 
 
 # ***infer*** vt
----
-英音 ɪn'fɜː(r)     美音 ɪn'fɜːr
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'fɜː(r)     美音 ɪn'fɜːr  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **推断：**  
@@ -2284,12 +1884,8 @@ infectious /ɪn'fekʃəs/ adj
 inference  n 
 
 # ***inflation*** n
----
-英音 ɪn'fleɪʃn     美音 ɪn'fleɪʃn
-
-词频 1 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  [U]
+英音 ɪn'fleɪʃn     美音 ɪn'fleɪʃn  
+词频 1 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -2298,12 +1894,8 @@ inference  n
 
 
 # ***influence*** n
----
-英音 'ɪnfluəns     美音 'ɪnfluəns
-
-词频 5 | 口语 1 | 书面 3 | 阅读 0
-
-
+英音 'ɪnfluəns     美音 'ɪnfluəns  
+词频 5 | 口语 1 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **影响**  
@@ -2330,12 +1922,8 @@ the power to affect, change or control sb / sth：
 
 
 # ***influence*** vt
----
-英音 'ɪnfluəns     美音 'ɪnfluəns
-
-词频 5 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 'ɪnfluəns     美音 'ɪnfluəns  
+词频 5 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **影响：**  
@@ -2353,12 +1941,8 @@ Through the course of my schooling, I met many teachers, two ________ me greatly
   
 
 # ***influential*** adj
----
-英音 ˌɪnflu'enʃl     美音 ˌɪnflu'enʃl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌɪnflu'enʃl     美音 ˌɪnflu'enʃl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **有影响的；有势力的**  
@@ -2366,12 +1950,8 @@ Through the course of my schooling, I met many teachers, two ________ me greatly
 
 
 # ***inform*** vt
----
-英音 ɪn'fɔːm     美音 ɪn'fɔːrm
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 ɪn'fɔːm     美音 ɪn'fɔːrm  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. **[正式用语] 通知；告诉**  
@@ -2390,12 +1970,8 @@ to tell sb about sth, especially in an official way：
 
 
 # ***informal*** adj
----
-英音 ɪn'fɔːml     美音 ɪn'fɔːrml
-
-词频 3 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 ɪn'fɔːml     美音 ɪn'fɔːrml  
+词频 3 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **非正式的**  
@@ -2409,12 +1985,8 @@ to tell sb about sth, especially in an official way：
 
 
 # ***information*** n
----
-英音 ˌɪnfə'meɪʃn     美音 ˌɪnfər'meɪʃn
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [U]
+英音 ˌɪnfə'meɪʃn     美音 ˌɪnfər'meɪʃn  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -2439,12 +2011,8 @@ Besides, they often get some useful informations from the Internet.
   
 
 # ***informed*** adj
----
-英音 ɪn'fɔːmd     美音 ɪn'fɔːrmd
-
-词频 2 | 口语 0 | 书面 0 | 阅读 3
-
-
+英音 ɪn'fɔːmd     美音 ɪn'fɔːrmd  
+词频 2 | 口语 0 | 书面 0 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **有知识的；见多识广的；消息灵通的：**  
@@ -2464,12 +2032,8 @@ Besides, they often get some useful informations from the Internet.
 
 
 # ***ingredient*** n
----
-英音 ɪn'ɡriːdiənt     美音 ɪn'ɡriːdiənt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ɪn'ɡriːdiənt     美音 ɪn'ɡriːdiənt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2487,12 +2051,8 @@ Besides, they often get some useful informations from the Internet.
 
 
 # ***inhabit*** v
----
-英音 ɪn'hæbɪt     美音 ɪn'hæbɪt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'hæbɪt     美音 ɪn'hæbɪt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **居住**  
@@ -2500,12 +2060,8 @@ Besides, they often get some useful informations from the Internet.
 
 
 # ***inhabitant*** n
----
-英音 ɪn'hæbɪtənt     美音 ɪn'hæbɪtənt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'hæbɪtənt     美音 ɪn'hæbɪtənt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **居民**  
@@ -2513,12 +2069,8 @@ Besides, they often get some useful informations from the Internet.
 
 
 # ***inherit*** v
----
-英音 ɪn'herɪt     美音 ɪn'herɪt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'herɪt     美音 ɪn'herɪt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **继承 (遗产等)：**  
@@ -2537,12 +2089,8 @@ Besides, they often get some useful informations from the Internet.
 
 
 # ***inhospitable*** adj
----
-英音 ˌɪnhɒ'spɪtəbl     美音 ˌɪnhɑː'spɪtəbl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌɪnhɒ'spɪtəbl     美音 ˌɪnhɑː'spɪtəbl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **荒凉的；不适宜居住的**  
@@ -2550,12 +2098,8 @@ Besides, they often get some useful informations from the Internet.
 
 
 # ***initial*** adj
----
-英音 ɪ'nɪʃl     美音 ɪ'nɪʃl
-
-词频 2 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 ɪ'nɪʃl     美音 ɪ'nɪʃl  
+词频 2 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **最初的；词首的：**  
@@ -2569,12 +2113,8 @@ Besides, they often get some useful informations from the Internet.
 
 
 # ***initial*** n
----
-英音 ɪ'nɪʃl     美音 ɪ'nɪʃl
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪ'nɪʃl     美音 ɪ'nɪʃl  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **首字母**  
@@ -2582,12 +2122,8 @@ Besides, they often get some useful informations from the Internet.
 
 
 # ***initially*** adv
----
-英音 ɪ'nɪʃəli     美音 ɪ'nɪʃəli
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪ'nɪʃəli     美音 ɪ'nɪʃəli  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **起初**  
@@ -2595,12 +2131,8 @@ Besides, they often get some useful informations from the Internet.
 
 
 # ***inject*** vt
----
-英音 ɪn'dʒekt     美音 ɪn'dʒekt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'dʒekt     美音 ɪn'dʒekt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **注射；注入**  
@@ -2612,12 +2144,8 @@ Besides, they often get some useful informations from the Internet.
 injection /ɪn'dʒekʃn/ n [C] & [U] 
 
 # ***injection*** n
----
-英音 ɪn'dʒekʃn     美音 ɪn'dʒekʃn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 ɪn'dʒekʃn     美音 ɪn'dʒekʃn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -2626,12 +2154,8 @@ injection /ɪn'dʒekʃn/ n [C] & [U]
 
 
 # ***injure*** vt
----
-英音 'ɪndʒə(r)     美音 'ɪndʒər
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'ɪndʒə(r)     美音 'ɪndʒər  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **使受伤；伤害：**  
@@ -2659,12 +2183,8 @@ injured /'ɪndʒəd/ adj
 
 
 # ***injured*** adj
----
-英音 'ɪndʒəd     美音 'ɪndʒərd
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɪndʒəd     美音 'ɪndʒərd  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **受伤的；委屈的**  
@@ -2672,12 +2192,8 @@ injured /'ɪndʒəd/ adj
 
 
 # ***injury*** n
----
-英音 'ɪndʒəri     美音 'ɪndʒəri
-
-词频 3 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'ɪndʒəri     美音 'ɪndʒəri  
+词频 3 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -2701,12 +2217,8 @@ injured /'ɪndʒəd/ adj
 
 
 # ***ink*** n
----
-英音 ɪŋk     美音 ɪŋk
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 ɪŋk     美音 ɪŋk  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -2715,12 +2227,8 @@ injured /'ɪndʒəd/ adj
 
 
 # ***inland*** adj
----
-英音 ˌɪn'lænd     美音 ˌɪn'lænd
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌɪn'lænd     美音 ˌɪn'lænd  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **内地的；内陆的**  
@@ -2728,12 +2236,8 @@ injured /'ɪndʒəd/ adj
 
 
 # ***inn*** n
----
-英音 ɪn     美音 ɪn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ɪn     美音 ɪn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2742,12 +2246,8 @@ injured /'ɪndʒəd/ adj
 
 
 # ***inner*** adj
----
-英音 'ɪnə(r)     美音 'ɪnər
-
-词频 2 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 'ɪnə(r)     美音 'ɪnər  
+词频 2 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **内部的；内心的：**  
@@ -2761,12 +2261,8 @@ injured /'ɪndʒəd/ adj
 
 
 # ***innocent*** adj
----
-英音 'ɪnəsnt     美音 'ɪnəsnt
-
-词频 2 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 'ɪnəsnt     美音 'ɪnəsnt  
+词频 2 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **无罪的；无辜的：**  
@@ -2791,12 +2287,8 @@ injured /'ɪndʒəd/ adj
 innocence /'ɪnəsns/ n [U] 
 
 # ***innovate*** v
----
-英音 'ɪnəveɪt     美音 'ɪnəveɪt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɪnəveɪt     美音 'ɪnəveɪt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **创新；革新**  
@@ -2804,12 +2296,8 @@ innocence /'ɪnəsns/ n [U]
 
 
 # ***input*** n
----
-英音 'ɪnpʊt     美音 'ɪnpʊt
-
-词频 2 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 'ɪnpʊt     美音 'ɪnpʊt  
+词频 2 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **投入 (时间、知识等)；(计算机) 输入：**  
@@ -2820,12 +2308,8 @@ innocence /'ɪnəsns/ n [U]
 
 
 # ***inquisitive*** adj
----
-英音 ɪn'kwɪzətɪv     美音 ɪn'kwɪzətɪv
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'kwɪzətɪv     美音 ɪn'kwɪzətɪv  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **好奇的**  
@@ -2833,12 +2317,8 @@ innocence /'ɪnəsns/ n [U]
 
 
 # ***insect*** n
----
-英音 'ɪnsekt     美音 'ɪnsekt
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 'ɪnsekt     美音 'ɪnsekt  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2847,12 +2327,8 @@ innocence /'ɪnəsns/ n [U]
 
 
 # ***insert*** vt
----
-英音 ɪn'sɜːt     美音 ɪn'sɜːrt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'sɜːt     美音 ɪn'sɜːrt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **插入；嵌入：**  
@@ -2863,12 +2339,8 @@ innocence /'ɪnəsns/ n [U]
 
 
 # ***inside*** prep
----
-英音 ˌɪn'saɪd     美音 ˌɪn'saɪd
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 ˌɪn'saɪd     美音 ˌɪn'saɪd  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **在…的里面：**  
@@ -2879,12 +2351,8 @@ innocence /'ɪnəsns/ n [U]
 
 
 # ***inside*** adv
----
-英音 ˌɪn'saɪd     美音 ˌɪn'saɪd
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 ˌɪn'saɪd     美音 ˌɪn'saɪd  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **在 / 向里面；在 / 向室内；在心里：**  
@@ -2898,12 +2366,8 @@ innocence /'ɪnəsns/ n [U]
 
 
 # ***inside*** n
----
-英音 ˌɪn'saɪd     美音 ˌɪn'saɪd
-
-词频 5 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 ˌɪn'saɪd     美音 ˌɪn'saɪd  
+词频 5 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 内部；内侧：**  
@@ -2925,12 +2389,8 @@ innocence /'ɪnəsns/ n [U]
 
 
 # ***inside*** adj
----
-英音 ˌɪn'saɪd     美音 ˌɪn'saɪd
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌɪn'saɪd     美音 ˌɪn'saɪd  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **内部的；里面的：**  
@@ -2941,12 +2401,8 @@ innocence /'ɪnəsns/ n [U]
 
 
 # ***insight*** n
----
-英音 'ɪnsaɪt     美音 'ɪnsaɪt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɪnsaɪt     美音 'ɪnsaɪt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 深入了解；顿悟；[U] 洞察力；眼光：**  
@@ -2954,12 +2410,8 @@ innocence /'ɪnəsns/ n [U]
 
 
 # ***insist*** v  重难点词汇
----
-英音 ɪn'sɪst     美音 ɪn'sɪst
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  vt & vi
+英音 ɪn'sɪst     美音 ɪn'sɪst  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  用法点拨  vt & vi
 
 英文释义
 ---
@@ -3012,12 +2464,8 @@ The man insisted on________ (find) a taxi for me even though I told him I lived 
   
 
 # ***inspect*** vt
----
-英音 ɪn'spekt     美音 ɪn'spekt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 ɪn'spekt     美音 ɪn'spekt  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **仔细检查 (examine)；视察；检阅：**  
@@ -3037,12 +2485,8 @@ The man insisted on________ (find) a taxi for me even though I told him I lived 
 inspector /ɪn'spektə(r)/ n [C]
 
 # ***inspiration*** n
----
-英音 ˌɪnspə'reɪʃn     美音 ˌɪnspə'reɪʃn
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌɪnspə'reɪʃn     美音 ˌɪnspə'reɪʃn  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 灵感；[C] 鼓舞人心的人 / 事：**  
@@ -3056,12 +2500,8 @@ inspector /ɪn'spektə(r)/ n [C]
 
 
 # ***inspire*** vt
----
-英音 ɪn'spaɪə(r)     美音 ɪn'spaɪər
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'spaɪə(r)     美音 ɪn'spaɪər  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **激励；鼓舞**  
@@ -3098,12 +2538,8 @@ inspired /ɪn'spaɪəd/ adj
 inspiring /ɪn'spaɪərɪŋ/ adj 
 
 # ***inspiring*** adj
----
-英音 ɪn'spaɪərɪŋ     美音 ɪn'spaɪərɪŋ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'spaɪərɪŋ     美音 ɪn'spaɪərɪŋ  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **鼓舞人心的，启发灵感的**  
@@ -3111,12 +2547,8 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 
 
 # ***install*** vt
----
-英音 ɪn'stɔːl     美音 ɪn'stɔːl
-
-词频 2 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 ɪn'stɔːl     美音 ɪn'stɔːl  
+词频 2 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **安装；设置**  
@@ -3124,12 +2556,8 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 
 
 # ***instance*** n
----
-英音 'ɪnstəns     美音 'ɪnstəns
-
-词频 3 | 口语 1 | 书面 2 | 阅读 2
-
-用法点拨  [C]
+英音 'ɪnstəns     美音 'ɪnstəns  
+词频 3 | 口语 1 | 书面 2 | 阅读 2  用法点拨  [C]
 
 英文释义
 ---
@@ -3142,12 +2570,8 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 
 
 # ***instant*** adj
----
-英音 'ɪnstənt     美音 'ɪnstənt
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'ɪnstənt     美音 'ɪnstənt  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **立刻的；马上的 (immediate)；即食的：**  
@@ -3161,12 +2585,8 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 
 
 # ***instant*** n
----
-英音 'ɪnstənt     美音 'ɪnstənt
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'ɪnstənt     美音 'ɪnstənt  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3197,12 +2617,8 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 instantly /'ɪnstəntli/ adv 
 
 # ***instantly*** adv
----
-英音 'ɪnstəntli     美音 'ɪnstəntli
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɪnstəntli     美音 'ɪnstəntli  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **立即；马上**  
@@ -3210,12 +2626,8 @@ instantly /'ɪnstəntli/ adv
 
 
 # ***instead*** adv
----
-英音 ɪn'sted     美音 ɪn'sted
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 ɪn'sted     美音 ɪn'sted  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **作为替代；反而：**  
@@ -3249,12 +2661,8 @@ The young man couldn't afford a new car. ________ (作为替代), he bought a us
   
 
 # ***institute*** n
----
-英音 'ɪnstɪtjuːt     美音 'ɪnstɪtjuːt
-
-词频 4 | 口语 0 | 书面 1 | 阅读 3
-
-用法点拨  [C]
+英音 'ɪnstɪtjuːt     美音 'ɪnstɪtjuːt  
+词频 4 | 口语 0 | 书面 1 | 阅读 3  用法点拨  [C]
 
 英文释义
 ---
@@ -3269,12 +2677,8 @@ The young man couldn't afford a new car. ________ (作为替代), he bought a us
 
 
 # ***institution*** n
----
-英音 ˌɪnstɪ'tjuːʃn     美音 ˌɪnstɪ'tjuːʃn
-
-词频 2 | 口语 0 | 书面 3 | 阅读 2
-
-用法点拨  [C]
+英音 ˌɪnstɪ'tjuːʃn     美音 ˌɪnstɪ'tjuːʃn  
+词频 2 | 口语 0 | 书面 3 | 阅读 2  用法点拨  [C]
 
 英文释义
 ---
@@ -3289,12 +2693,8 @@ The young man couldn't afford a new car. ________ (作为替代), he bought a us
 
 
 # ***instruct*** vt
----
-英音 ɪn'strʌkt     美音 ɪn'strʌkt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [正式用语]
+英音 ɪn'strʌkt     美音 ɪn'strʌkt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [正式用语]
 
 英文释义
 ---
@@ -3334,12 +2734,8 @@ instructive /ɪn'strʌktɪv/ adj
 instructor /ɪn'strʌktə(r)/ n [C]
 
 # ***instruction*** n
----
-英音 ɪn'strʌkʃn     美音 ɪn'strʌkʃn
-
-词频 4 | 口语 1 | 书面 2 | 阅读 2
-
-
+英音 ɪn'strʌkʃn     美音 ɪn'strʌkʃn  
+词频 4 | 口语 1 | 书面 2 | 阅读 2  
 英文释义
 ---
 1. *低义频：* **[正式用语] 教授；指导：**  
@@ -3375,12 +2771,8 @@ Always read the ________ (instruction) on the bottle carefully and take the righ
   
 
 # ***instructor*** n
----
-英音 ɪn'strʌktə(r)     美音 ɪn'strʌktər
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'strʌktə(r)     美音 ɪn'strʌktər  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **教练；导师**  
@@ -3388,12 +2780,8 @@ Always read the ________ (instruction) on the bottle carefully and take the righ
 
 
 # ***instrument*** n
----
-英音 'ɪnstrəmənt     美音 'ɪnstrəmənt
-
-词频 3 | 口语 0 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'ɪnstrəmənt     美音 'ɪnstrəmənt  
+词频 3 | 口语 0 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3405,12 +2793,8 @@ Always read the ________ (instruction) on the bottle carefully and take the righ
 
 
 # ***insult*** vt
----
-英音 ɪn'sʌlt     美音 ɪn'sʌlt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'sʌlt     美音 ɪn'sʌlt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **侮辱；辱骂；冒犯：**  
@@ -3421,12 +2805,8 @@ Always read the ________ (instruction) on the bottle carefully and take the righ
 
 
 # ***insult*** n
----
-英音 ɪn'sʌlt     美音 ɪn'sʌlt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ɪn'sʌlt     美音 ɪn'sʌlt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3442,12 +2822,8 @@ Always read the ________ (instruction) on the bottle carefully and take the righ
 insulting /ɪn'sʌltɪŋ/ adj 
 
 # ***insurance*** n
----
-英音 ɪn'ʃʊərəns     美音 ɪn'ʃʊərəns
-
-词频 3 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 ɪn'ʃʊərəns     美音 ɪn'ʃʊərəns  
+词频 3 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -3468,12 +2844,8 @@ insulting /ɪn'sʌltɪŋ/ adj
 
 
 # ***insure*** vt
----
-英音 ɪn'ʃʊə(r),ɪn'ʃɔː(r)     美音 ɪn'ʃʊr
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'ʃʊə(r),ɪn'ʃɔː(r)     美音 ɪn'ʃʊr  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **给…购买保险：**  
@@ -3485,12 +2857,8 @@ insulting /ɪn'sʌltɪŋ/ adj
 
 
 # ***intact*** adj
----
-英音 ɪn'tækt     美音 ɪn'tækt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'tækt     美音 ɪn'tækt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **完好无损的，完整的**  
@@ -3498,12 +2866,8 @@ insulting /ɪn'sʌltɪŋ/ adj
 
 
 # ***intake*** n
----
 英音 'ɪnteɪk     
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **吸入；招收；入口；通风口**  
@@ -3511,12 +2875,8 @@ insulting /ɪn'sʌltɪŋ/ adj
 
 
 # ***intangible*** adj
----
-英音 ɪn'tændʒəbl     美音 ɪn'tændʒəbl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'tændʒəbl     美音 ɪn'tændʒəbl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **无形的，难以捉摸的，无法形容的**  
@@ -3524,12 +2884,8 @@ insulting /ɪn'sʌltɪŋ/ adj
 
 
 # ***intellectual*** adj
----
-英音 ˌɪntə'lektʃuəl     美音 ˌɪntə'lektʃuəl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌɪntə'lektʃuəl     美音 ˌɪntə'lektʃuəl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **智力的；脑力的**  
@@ -3537,12 +2893,8 @@ insulting /ɪn'sʌltɪŋ/ adj
 
 
 # ***intelligence*** n
----
-英音 ɪn'telɪdʒəns     美音 ɪn'telɪdʒəns
-
-词频 3 | 口语 1 | 书面 1 | 阅读 3
-
-用法点拨  [U]
+英音 ɪn'telɪdʒəns     美音 ɪn'telɪdʒəns  
+词频 3 | 口语 1 | 书面 1 | 阅读 3  用法点拨  [U]
 
 英文释义
 ---
@@ -3562,12 +2914,8 @@ insulting /ɪn'sʌltɪŋ/ adj
 
 
 # ***intelligent*** adj
----
-英音 ɪn'telɪdʒənt     美音 ɪn'telɪdʒənt
-
-词频 3 | 口语 1 | 书面 0 | 阅读 3
-
-
+英音 ɪn'telɪdʒənt     美音 ɪn'telɪdʒənt  
+词频 3 | 口语 1 | 书面 0 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **聪明的；有才智的；有智力的：**  
@@ -3578,12 +2926,8 @@ insulting /ɪn'sʌltɪŋ/ adj
 
 
 # ***intend*** vt
----
-英音 ɪn'tend     美音 ɪn'tend
-
-词频 4 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 ɪn'tend     美音 ɪn'tend  
+词频 4 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **打算；想要：**  
@@ -3626,12 +2970,8 @@ intended /ɪn'tendɪd/ adj
 
 
 # ***intense*** adj
----
-英音 ɪn'tens     美音 ɪn'tens
-
-词频 1 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 ɪn'tens     美音 ɪn'tens  
+词频 1 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **强烈的；激烈的**  
@@ -3639,12 +2979,8 @@ intended /ɪn'tendɪd/ adj
 
 
 # ***intensity*** n
----
-英音 ɪn'tensəti     美音 ɪn'tensəti
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'tensəti     美音 ɪn'tensəti  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（光、声等的）强度**  
@@ -3652,12 +2988,8 @@ intended /ɪn'tendɪd/ adj
 
 
 # ***intention*** n
----
-英音 ɪn'tenʃn     美音 ɪn'tenʃn
-
-词频 3 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 ɪn'tenʃn     美音 ɪn'tenʃn  
+词频 3 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -3678,12 +3010,8 @@ intended /ɪn'tendɪd/ adj
 
 
 # ***interact*** vi
----
-英音 ˌɪntər'ækt     美音 ˌɪntər'ækt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌɪntər'ækt     美音 ˌɪntər'ækt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **相互交流；相互影响：**  
@@ -3695,12 +3023,8 @@ intended /ɪn'tendɪd/ adj
 
 
 # ***interest*** n
----
-英音 'ɪntrəst     美音 'ɪntrəst
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'ɪntrəst     美音 'ɪntrəst  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **兴趣：**  
@@ -3751,12 +3075,8 @@ intended /ɪn'tendɪd/ adj
 
 
 # ***interest*** vt
----
-英音 'ɪntrəst     美音 'ɪntrəst
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɪntrəst     美音 'ɪntrəst  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **使…感兴趣：**  
@@ -3767,12 +3087,8 @@ intended /ɪn'tendɪd/ adj
 
 
 # ***interested*** adj
----
-英音 'ɪntrəstɪd     美音 'ɪntrəstɪd
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 'ɪntrəstɪd     美音 'ɪntrəstɪd  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **感兴趣的：**  
@@ -3805,12 +3121,8 @@ In their spare time, they are interesting in planting vegetables in their garden
   
 
 # ***interesting*** adj
----
-英音 'ɪntrəstɪŋ,'ɪntrestɪŋ     美音 'ɪntrəstɪŋ
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 'ɪntrəstɪŋ,'ɪntrestɪŋ     美音 'ɪntrəstɪŋ  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **令人感兴趣的；有意思的：**  
@@ -3827,12 +3139,8 @@ In their spare time, they are interesting in planting vegetables in their garden
 
 
 # ***interestingly*** adv
----
 
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **有趣地**  
@@ -3840,12 +3148,8 @@ In their spare time, they are interesting in planting vegetables in their garden
 
 
 # ***interfere*** vi
----
-英音 ˌɪntə'fɪə(r)     美音 ˌɪntər'fɪr
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌɪntə'fɪə(r)     美音 ˌɪntər'fɪr  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **干预；干涉：**  
@@ -3856,12 +3160,8 @@ In their spare time, they are interesting in planting vegetables in their garden
 
 
 # ***interior*** n
----
-英音 ɪn'tɪəriə(r)     美音 ɪn'tɪriər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'tɪəriə(r)     美音 ɪn'tɪriər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **内部；里面**  
@@ -3869,12 +3169,8 @@ In their spare time, they are interesting in planting vegetables in their garden
 
 
 # ***interior*** adj
----
-英音 ɪn'tɪəriə(r)     美音 ɪn'tɪriər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'tɪəriə(r)     美音 ɪn'tɪriər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **内部的；里面的：**  
@@ -3886,12 +3182,8 @@ In their spare time, they are interesting in planting vegetables in their garden
 
 
 # ***intermediate*** adj
----
-英音 ˌɪntə'miːdiət     美音 ˌɪntər'miːdiət
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌɪntə'miːdiət     美音 ˌɪntər'miːdiət  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(班级 / 课程等) 中级的；(水平) 中等的**  
@@ -3899,12 +3191,8 @@ In their spare time, they are interesting in planting vegetables in their garden
 
 
 # ***internal*** adj
----
-英音 ɪn'tɜːnl     美音 ɪn'tɜːrnl
-
-词频 2 | 口语 0 | 书面 2 | 阅读 2
-
-
+英音 ɪn'tɜːnl     美音 ɪn'tɜːrnl  
+词频 2 | 口语 0 | 书面 2 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **内部的；体内的； 内心的：**  
@@ -3921,12 +3209,8 @@ In their spare time, they are interesting in planting vegetables in their garden
 
 
 # ***international*** adj
----
-英音 ˌɪntə'næʃnəl     美音 ˌɪntə'næʃnəl
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 ˌɪntə'næʃnəl     美音 ˌɪntə'næʃnəl  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **国际的；世界的：**  
@@ -3937,12 +3221,8 @@ In their spare time, they are interesting in planting vegetables in their garden
 
 
 # ***internationalize*** vt
----
 英音 ˌɪntə'næʃnəlaɪz     
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **使国际化； 把 ... 置于国际共管之下**  
@@ -3950,12 +3230,8 @@ In their spare time, they are interesting in planting vegetables in their garden
 
 
 # ***interpersonal*** adj
----
-英音 ˌɪntə'pɜːsənl     美音 ˌɪntər'pɜːrsənl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌɪntə'pɜːsənl     美音 ˌɪntər'pɜːrsənl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **人际关系的，人与人之间的**  
@@ -3963,12 +3239,8 @@ In their spare time, they are interesting in planting vegetables in their garden
 
 
 # ***interpret*** v
----
-英音 ɪn'tɜːprɪt     美音 ɪn'tɜːrprɪt
-
-词频 1 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 ɪn'tɜːprɪt     美音 ɪn'tɜːrprɪt  
+词频 1 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **解释；阐述**  
@@ -3991,12 +3263,8 @@ to explain the meaning of sth：
 interpretation /ɪnˌtɜːprɪ'teɪʃn/ n [C] & [U]
 
 # ***interpreter*** n
----
-英音 ɪn'tɜːprɪtə(r)     美音 ɪn'tɜːrprɪtər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ɪn'tɜːprɪtə(r)     美音 ɪn'tɜːrprɪtər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4005,12 +3273,8 @@ interpretation /ɪnˌtɜːprɪ'teɪʃn/ n [C] & [U]
 
 
 # ***interrupt*** v
----
-英音 ˌɪntə'rʌpt     美音 ˌɪntə'rʌpt
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌɪntə'rʌpt     美音 ˌɪntə'rʌpt  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **打断；打扰：**  
@@ -4041,12 +3305,8 @@ Will you stop _______ (打断) me when I’m talking?
   
 
 # ***interval*** n
----
-英音 'ɪntəvl     美音 'ɪntəvl
-
-词频 2 | 口语 0 | 书面 1 | 阅读 1
-
-用法点拨  [C]
+英音 'ɪntəvl     美音 'ɪntəvl  
+词频 2 | 口语 0 | 书面 1 | 阅读 1  用法点拨  [C]
 
 英文释义
 ---
@@ -4065,12 +3325,8 @@ Will you stop _______ (打断) me when I’m talking?
 
 
 # ***interview*** n
----
-英音 'ɪntəvjuː     美音 'ɪntəvjuː
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'ɪntəvjuː     美音 'ɪntəvjuː  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4085,12 +3341,8 @@ Will you stop _______ (打断) me when I’m talking?
 
 
 # ***interview*** vt
----
-英音 'ɪntəvjuː     美音 'ɪntəvjuː
-
-词频 4 | 口语 2 | 书面 0 | 阅读 0
-
-
+英音 'ɪntəvjuː     美音 'ɪntəvjuː  
+词频 4 | 口语 2 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **采访；面试；会见：**  
@@ -4111,12 +3363,8 @@ interviewee /ˌɪntəvjuː'iː/ n [C]
 interviewer  /'ɪntəvjuːə(r)/ n [C] 
 
 # ***interviewee*** n
----
-英音 ˌɪntəvjuː'iː     美音 ˌɪntərvjuː'iː
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ˌɪntəvjuː'iː     美音 ˌɪntərvjuː'iː  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4125,12 +3373,8 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 
 
 # ***interviewer*** n
----
-英音 'ɪntəvjuːə(r)     美音 'ɪntərvjuːər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɪntəvjuːə(r)     美音 'ɪntərvjuːər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（面试时的）主考官；面谈者**  
@@ -4138,12 +3382,8 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 
 
 # ***intestine*** n
----
-英音 ɪn'testɪn     美音 ɪn'testɪn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'testɪn     美音 ɪn'testɪn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（常复）肠**  
@@ -4151,12 +3391,8 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 
 
 # ***intimate*** adj
----
-英音 'ɪntɪmət     美音 'ɪntɪmət
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɪntɪmət     美音 'ɪntɪmət  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **亲密的**  
@@ -4164,12 +3400,8 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 
 
 # ***into*** prep
----
-英音 'ɪntə,'ɪntu，'ɪntuː     美音 'ɪntə,'ɪntu，'ɪntuː
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'ɪntə,'ɪntu，'ɪntuː     美音 'ɪntə,'ɪntu，'ɪntuː  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **到…里；直到：**  
@@ -4204,12 +3436,8 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 
 
 # ***intonation*** n
----
-英音 ˌɪntə'neɪʃn     美音 ˌɪntə'neɪʃn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌɪntə'neɪʃn     美音 ˌɪntə'neɪʃn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **语调**  
@@ -4217,12 +3445,8 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 
 
 # ***introduce*** vt
----
-英音 ˌɪntrə'djuːs     美音 ˌɪntrə'djuːs
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 ˌɪntrə'djuːs     美音 ˌɪntrə'djuːs  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **引进；传入：**  
@@ -4260,12 +3484,8 @@ introduce不接双宾语。
 
 
 # ***introduction*** n
----
-英音 ˌɪntrə'dʌkʃn     美音 ˌɪntrə'dʌkʃn
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 ˌɪntrə'dʌkʃn     美音 ˌɪntrə'dʌkʃn  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **引进；采用：**  
@@ -4303,12 +3523,8 @@ This development was only possible with the ________ (introduce) of electric-pow
   
 
 # ***invade*** v
----
-英音 ɪn'veɪd     美音 ɪn'veɪd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  vt & vi
+英音 ɪn'veɪd     美音 ɪn'veɪd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  vt & vi
 
 英文释义
 ---
@@ -4327,12 +3543,8 @@ This development was only possible with the ________ (introduce) of electric-pow
 invasion /ɪn'veɪʒn/ n [C] & [U]
 
 # ***invader*** n
----
-英音 ɪn'veɪdə(r)     美音 ɪn'veɪdər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ɪn'veɪdə(r)     美音 ɪn'veɪdər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4341,12 +3553,8 @@ invasion /ɪn'veɪʒn/ n [C] & [U]
 
 
 # ***invaluable*** adj
----
-英音 ɪn'væljuəbl     美音 ɪn'væljuəbl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'væljuəbl     美音 ɪn'væljuəbl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **无价的；极宝贵的**  
@@ -4354,12 +3562,8 @@ invasion /ɪn'veɪʒn/ n [C] & [U]
 
 
 # ***invasion*** n
----
-英音 ɪn'veɪʒn     美音 ɪn'veɪʒn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 ɪn'veɪʒn     美音 ɪn'veɪʒn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -4372,12 +3576,8 @@ invasion /ɪn'veɪʒn/ n [C] & [U]
 
 
 # ***invent*** vt
----
-英音 ɪn'vent     美音 ɪn'vent
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'vent     美音 ɪn'vent  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **发明；创造：**  
@@ -4398,12 +3598,8 @@ invasion /ɪn'veɪʒn/ n [C] & [U]
 inventor  /ɪn'ventə(r)/ n [C] 
 
 # ***invention*** n
----
-英音 ɪn'venʃn     美音 ɪn'venʃn
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'venʃn     美音 ɪn'venʃn  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **发明；研制：**  
@@ -4426,12 +3622,8 @@ inventor  /ɪn'ventə(r)/ n [C]
 
 
 # ***inventor*** n
----
-英音 ɪn'ventə(r)     美音 ɪn'ventər
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'ventə(r)     美音 ɪn'ventər  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **发明家**  
@@ -4439,12 +3631,8 @@ inventor  /ɪn'ventə(r)/ n [C]
 
 
 # ***invest*** v
----
-英音 ɪn'vest     美音 ɪn'vest
-
-词频 3 | 口语 1 | 书面 1 | 阅读 2
-
-
+英音 ɪn'vest     美音 ɪn'vest  
+词频 3 | 口语 1 | 书面 1 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **投资；投入：**  
@@ -4459,12 +3647,8 @@ inventor  /ɪn'ventə(r)/ n [C]
 
 
 # ***investigate*** v
----
-英音 ɪn'vestɪɡeɪt     美音 ɪn'vestɪɡeɪt
-
-词频 2 | 口语 0 | 书面 2 | 阅读 1
-
-
+英音 ɪn'vestɪɡeɪt     美音 ɪn'vestɪɡeɪt  
+词频 2 | 口语 0 | 书面 2 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **调查； 调查研究；侦查：**  
@@ -4479,12 +3663,8 @@ inventor  /ɪn'ventə(r)/ n [C]
 investigation /ɪnˌvestɪ'ɡeɪʃn/ n [U] & [C] 
 
 # ***investigation*** n
----
-英音 ɪnˌvestɪ'ɡeɪʃn     美音 ɪnˌvestɪ'ɡeɪʃn
-
-词频 2 | 口语 0 | 书面 2 | 阅读 0
-
-用法点拨  [C] & [U] 
+英音 ɪnˌvestɪ'ɡeɪʃn     美音 ɪnˌvestɪ'ɡeɪʃn  
+词频 2 | 口语 0 | 书面 2 | 阅读 0  用法点拨  [C] & [U] 
 
 英文释义
 ---
@@ -4496,12 +3676,8 @@ investigation /ɪnˌvestɪ'ɡeɪʃn/ n [U] & [C]
 
 
 # ***invisible*** adj
----
-英音 ɪn'vɪzəbl     美音 ɪn'vɪzəbl
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'vɪzəbl     美音 ɪn'vɪzəbl  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **看不见的 【反:visible】；无形的：**  
@@ -4512,12 +3688,8 @@ investigation /ɪnˌvestɪ'ɡeɪʃn/ n [U] & [C]
 
 
 # ***invitation*** n
----
-英音 ˌɪnvɪ'teɪʃn     美音 ˌɪnvɪ'teɪʃn
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌɪnvɪ'teɪʃn     美音 ˌɪnvɪ'teɪʃn  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **邀请：**  
@@ -4557,12 +3729,8 @@ She has turned down several ________ (invitation) to star at shows in order to c
   
 
 # ***invite*** vt
----
-英音 ɪn'vaɪt     美音 ɪn'vaɪt
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 ɪn'vaɪt     美音 ɪn'vaɪt  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **邀请：**  
@@ -4600,12 +3768,8 @@ When summer comes, they will invite their students pick the fresh vegetables!
   
 
 # ***involve*** vt  重难点词汇
----
-英音 ɪn'vɒlv     美音 ɪn'vɑːlv
-
-词频 4 | 口语 2 | 书面 3 | 阅读 3
-
-
+英音 ɪn'vɒlv     美音 ɪn'vɑːlv  
+词频 4 | 口语 2 | 书面 3 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **包含；需要**  
@@ -4652,12 +3816,8 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
   
 
 # ***involved*** adj
----
-英音 ɪn'vɒlvd     美音 ɪn'vɑːlvd
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪn'vɒlvd     美音 ɪn'vɑːlvd  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **参与的：投入的：**  
@@ -4677,12 +3837,8 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 
 
 # ***iron*** n
----
-英音 'aɪən     美音 'aɪən
-
-词频 2 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 'aɪən     美音 'aɪən  
+词频 2 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **铁：**  
@@ -4699,12 +3855,8 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 
 
 # ***iron*** v
----
-英音 'aɪən     美音 'aɪən
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'aɪən     美音 'aɪən  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **熨烫：**  
@@ -4715,12 +3867,8 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 
 
 # ***iron*** adj
----
-英音 'aɪən     美音 'aɪən
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'aɪən     美音 'aɪən  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[只用于名词前] 坚强的：**  
@@ -4732,12 +3880,8 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 
 
 # ***irregular*** adj
----
-英音 ɪ'reɡjələ(r)     美音 ɪ'reɡjələr
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪ'reɡjələ(r)     美音 ɪ'reɡjələr  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **不规则的；无规律的**  
@@ -4745,12 +3889,8 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 
 
 # ***irrigation*** n
----
-英音 ˌɪrɪ'ɡeɪʃn     美音 ˌɪrɪ'ɡeɪʃn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 ˌɪrɪ'ɡeɪʃn     美音 ˌɪrɪ'ɡeɪʃn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -4759,12 +3899,8 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 
 
 # ***irritate*** v
----
-英音 'ɪrɪteɪt     美音 'ɪrɪteɪt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɪrɪteɪt     美音 'ɪrɪteɪt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（尤指不断重复做某事而）使（人长期）烦躁**  
@@ -4772,12 +3908,8 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 
 
 # ***island*** n
----
-英音 'aɪlənd     美音 'aɪlənd
-
-词频 5 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'aɪlənd     美音 'aɪlənd  
+词频 5 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4786,12 +3918,8 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 
 
 # ***isolated*** adj
----
-英音 'aɪsəleɪtɪd     美音 'aɪsəleɪtɪd
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'aɪsəleɪtɪd     美音 'aɪsəleɪtɪd  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **孤单的；孤立的**  
@@ -4799,12 +3927,8 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 
 
 # ***issue*** n  重难点词汇
----
-英音 'ɪʃuː     美音 'ɪʃuː
-
-词频 4 | 口语 3 | 书面 3 | 阅读 3
-
-用法点拨  [C]
+英音 'ɪʃuː     美音 'ɪʃuː  
+词频 4 | 口语 3 | 书面 3 | 阅读 3  用法点拨  [C]
 
 英文释义
 ---
@@ -4840,12 +3964,8 @@ one of a regular series of magazines or newspapers：
 
 
 # ***issue*** vt  重难点词汇
----
-英音 'ɪʃuː     美音 'ɪʃuː
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 'ɪʃuː     美音 'ɪʃuː  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **公布；发布：**  
@@ -4877,12 +3997,8 @@ one of a regular series of magazines or newspapers：
 
 
 # ***it*** pron
----
-英音 ɪt     美音 ɪt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 ɪt     美音 ɪt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **它；这；那：**  
@@ -4969,12 +4085,8 @@ Why don't you bring _______ to his attention that you're too ill to work on?
   
 
 # ***italics*** n
----
-英音 ɪ'tælɪks     美音 ɪ'tælɪks
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɪ'tælɪks     美音 ɪ'tælɪks  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(pl) 斜体 (字)**  
@@ -4982,12 +4094,8 @@ Why don't you bring _______ to his attention that you're too ill to work on?
 
 
 # ***item*** n
----
-英音 'aɪtəm     美音 'aɪtəm
-
-词频 4 | 口语 1 | 书面 2 | 阅读 3
-
-用法点拨  [C]
+英音 'aɪtəm     美音 'aɪtəm  
+词频 4 | 口语 1 | 书面 2 | 阅读 3  用法点拨  [C]
 
 英文释义
 ---
@@ -5011,12 +4119,8 @@ Why don't you bring _______ to his attention that you're too ill to work on?
 
 
 # ***its*** pron
----
-英音 ɪts     美音 ɪts
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [it的形容词性、名词性物主代词]
+英音 ɪts     美音 ɪts  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [it的形容词性、名词性物主代词]
 
 英文释义
 ---
@@ -5035,12 +4139,8 @@ On my recent visit, I held a lively three-monthold panda that had been rejected 
   
 
 # ***itself*** pron
----
-英音 ɪt'self     美音 ɪt'self
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 ɪt'self     美音 ɪt'self  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **它自己；它本身：**  
@@ -5076,12 +4176,8 @@ Isn't it amazing how the human body heals ________ (it) after an injury?
   
 
 # ***ivory*** n
----
-英音 'aɪvəri     美音 'aɪvəri
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'aɪvəri     美音 'aɪvəri  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---

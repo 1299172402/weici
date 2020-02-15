@@ -1,12 +1,8 @@
 # Pp
 
 # ***p.m.*** adv
----
-英音 ˌpiː'em     美音 ˌpiː'em
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌpiː'em     美音 ˌpiː'em  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **午后；下午**  
@@ -14,12 +10,8 @@
 
 
 # ***pace*** n
----
-英音 peɪs     美音 peɪs
-
-词频 3 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 peɪs     美音 peɪs  
+词频 3 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 一步：**  
@@ -52,12 +44,8 @@
 
 
 # ***pace*** vi
----
-英音 peɪs     美音 peɪs
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 peɪs     美音 peɪs  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **vi & vt 踱步**  
@@ -65,12 +53,8 @@
 
 
 # ***pace*** v
----
-英音 peɪs     美音 peɪs
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 peɪs     美音 peɪs  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **踱步走**  
@@ -78,12 +62,8 @@
 
 
 # ***pack*** v
----
-英音 pæk     美音 pæk
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 pæk     美音 pæk  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(把…) 打包；(把…) 装进 (箱子等) ：**  
@@ -136,12 +116,8 @@ The workers ________ (把…打包) the glasses and marked on each box “This S
   
 
 # ***pack*** n
----
-英音 pæk     美音 pæk
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 pæk     美音 pæk  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -176,12 +152,8 @@ The workers ________ (把…打包) the glasses and marked on each box “This S
 
 
 # ***package*** n
----
-英音 'pækɪdʒ     美音 'pækɪdʒ
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'pækɪdʒ     美音 'pækɪdʒ  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -203,12 +175,8 @@ The workers ________ (把…打包) the glasses and marked on each box “This S
 
 
 # ***package*** v
----
-英音 'pækɪdʒ     美音 'pækɪdʒ
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [常用于被动语态]
+英音 'pækɪdʒ     美音 'pækɪdʒ  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [常用于被动语态]
 
 英文释义
 ---
@@ -224,12 +192,8 @@ The workers ________ (把…打包) the glasses and marked on each box “This S
 packaging /'pækɪdʒɪŋ/ n [U]
 
 # ***packet*** n
----
-英音 'pækɪt     美音 'pækɪt
-
-词频 2 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'pækɪt     美音 'pækɪt  
+词频 2 | 口语 2 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -238,12 +202,8 @@ packaging /'pækɪdʒɪŋ/ n [U]
 
 
 # ***pad*** n
----
-英音 pæd     美音 pæd
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 pæd     美音 pæd  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -252,12 +212,8 @@ packaging /'pækɪdʒɪŋ/ n [U]
 
 
 # ***pad*** vi
----
-英音 pæd     美音 pæd
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pæd     美音 pæd  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **轻轻地走；放轻脚步走**  
@@ -265,12 +221,8 @@ packaging /'pækɪdʒɪŋ/ n [U]
 
 
 # ***paddle*** n
----
-英音 'pædl     美音 'pædl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'pædl     美音 'pædl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -279,12 +231,8 @@ packaging /'pækɪdʒɪŋ/ n [U]
 
 
 # ***paddle*** v
----
-英音 'pædl     美音 'pædl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pædl     美音 'pædl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **用桨划 (船)：**  
@@ -292,12 +240,8 @@ packaging /'pækɪdʒɪŋ/ n [U]
 
 
 # ***page*** n
----
-英音 peɪdʒ     美音 peɪdʒ
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 peɪdʒ     美音 peɪdʒ  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -325,12 +269,8 @@ packaging /'pækɪdʒɪŋ/ n [U]
 
 
 # ***pain*** n
----
-英音 peɪn     美音 peɪn
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 peɪn     美音 peɪn  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -373,12 +313,8 @@ packaging /'pækɪdʒɪŋ/ n [U]
 painless /'peɪnləs/ adj 
 
 # ***painful*** adj
----
-英音 'peɪnfl     美音 'peɪnfl
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'peɪnfl     美音 'peɪnfl  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **令人疼痛的；引起痛苦的**  
@@ -397,12 +333,8 @@ painless /'peɪnləs/ adj
 painfully /'peɪnfəli/ adv 
 
 # ***paint*** n
----
-英音 peɪnt     美音 peɪnt
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 peɪnt     美音 peɪnt  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 油漆；涂料**  
@@ -416,12 +348,8 @@ painfully /'peɪnfəli/ adv
 
 
 # ***paint*** v
----
-英音 peɪnt     美音 peɪnt
-
-词频 5 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 peɪnt     美音 peɪnt  
+词频 5 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **涂油漆 (于)：**  
@@ -441,12 +369,8 @@ painfully /'peɪnfəli/ adv
 
 
 # ***paintbrush*** n
----
-英音 'peɪntbrʌʃ     美音 'peɪntbrʌʃ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'peɪntbrʌʃ     美音 'peɪntbrʌʃ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **画笔**  
@@ -454,12 +378,8 @@ painfully /'peɪnfəli/ adv
 
 
 # ***painter*** n
----
-英音 'peɪntə(r)     美音 'peɪntər
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'peɪntə(r)     美音 'peɪntər  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -468,12 +388,8 @@ painfully /'peɪnfəli/ adv
 
 
 # ***painting*** n
----
-英音 'peɪntɪŋ     美音 'peɪntɪŋ
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 'peɪntɪŋ     美音 'peɪntɪŋ  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] (一张) 画：**  
@@ -493,12 +409,8 @@ painfully /'peɪnfəli/ adv
 
 
 # ***pair*** n
----
-英音 peə(r)     美音 per
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 peə(r)     美音 per  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -534,12 +446,8 @@ painfully /'peɪnfəli/ adv
 
 
 # ***palace*** n
----
-英音 'pæləs     美音 'pæləs
-
-词频 3 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 'pæləs     美音 'pæləs  
+词频 3 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -557,12 +465,8 @@ painfully /'peɪnfəli/ adv
 
 
 # ***pale*** adj
----
-英音 peɪl     美音 peɪl
-
-词频 2 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 peɪl     美音 peɪl  
+词频 2 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(颜色) 淡的；浅的：**  
@@ -589,12 +493,8 @@ painfully /'peɪnfəli/ adv
 
 
 # ***palm*** n
----
-英音 pɑːm     美音 pɑːm
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 pɑːm     美音 pɑːm  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -603,12 +503,8 @@ painfully /'peɪnfəli/ adv
 
 
 # ***pan*** n
----
-英音 pæn     美音 pæn
-
-词频 1 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 pæn     美音 pæn  
+词频 1 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -617,12 +513,8 @@ painfully /'peɪnfəli/ adv
 
 
 # ***pancake*** n
----
-英音 'pænkeɪk     美音 'pænkeɪk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'pænkeɪk     美音 'pænkeɪk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -631,12 +523,8 @@ painfully /'peɪnfəli/ adv
 
 
 # ***panda*** n
----
-英音 'pændə     美音 'pændə
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'pændə     美音 'pændə  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -652,12 +540,8 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
   
 
 # ***panel*** n
----
-英音 'pænl     美音 'pænl
-
-词频 1 | 口语 3 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'pænl     美音 'pænl  
+词频 1 | 口语 3 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -666,12 +550,8 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 
 
 # ***panic*** v
----
-英音 'pænɪk     美音 'pænɪk
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  (panicked, panicked, panicking)
+英音 'pænɪk     美音 'pænɪk  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  用法点拨  (panicked, panicked, panicking)
 
 英文释义
 ---
@@ -684,12 +564,8 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 
 
 # ***panic*** n
----
-英音 'pænɪk     美音 'pænɪk
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'pænɪk     美音 'pænɪk  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -712,12 +588,8 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
   
 
 # ***pants*** n
----
-英音 pænts     美音 pænts
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]复数
+英音 pænts     美音 pænts  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]复数
 
 英文释义
 ---
@@ -726,12 +598,8 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 
 
 # ***paparazzi*** n
----
-英音 ˌpæpə'rætsi     美音 ˌpæpə'rætsi
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌpæpə'rætsi     美音 ˌpæpə'rætsi  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **对名人作猎奇报道的新闻记者**  
@@ -739,12 +607,8 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 
 
 # ***paper*** n
----
-英音 'peɪpə(r)     美音 'peɪpər
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'peɪpə(r)     美音 'peɪpər  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 纸：**  
@@ -785,12 +649,8 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 
 
 # ***paperwork*** n
----
-英音 'peɪpəwɜːk     美音 'peɪpərwɜːrk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'peɪpəwɜːk     美音 'peɪpərwɜːrk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -799,12 +659,8 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 
 
 # ***parachute*** n
----
-英音 'pærəʃuːt     美音 'pærəʃuːt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'pærəʃuːt     美音 'pærəʃuːt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -813,12 +669,8 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 
 
 # ***parade*** n
----
-英音 pə'reɪd     美音 pə'reɪd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 pə'reɪd     美音 pə'reɪd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -827,12 +679,8 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 
 
 # ***parade*** vi
----
-英音 pə'reɪd     美音 pə'reɪd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pə'reɪd     美音 pə'reɪd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **游行庆祝；游行示威**  
@@ -840,12 +688,8 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 
 
 # ***paragraph*** n
----
-英音 'pærəɡrɑːf     美音 'pærəɡræf
-
-词频 5 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 'pærəɡrɑːf     美音 'pærəɡræf  
+词频 5 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -854,12 +698,8 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 
 
 # ***parallel*** n
----
-英音 'pærəlel     美音 'pærəlel
-
-词频 1 | 口语 0 | 书面 0 | 阅读 1
-
-用法点拨  [C]
+英音 'pærəlel     美音 'pærəlel  
+词频 1 | 口语 0 | 书面 0 | 阅读 1  用法点拨  [C]
 
 英文释义
 ---
@@ -872,12 +712,8 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 
 
 # ***parallel*** adj
----
-英音 'pærəlel     美音 'pærəlel
-
-词频 1 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 'pærəlel     美音 'pærəlel  
+词频 1 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **平行的：**  
@@ -888,12 +724,8 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 
 
 # ***paramount*** adj
----
-英音 'pærəmaʊnt     美音 'pærəmaʊnt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pærəmaʊnt     美音 'pærəmaʊnt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **至为重要的，首要的；至高无上的，权力最大的**  
@@ -901,12 +733,8 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 
 
 # ***paraphrase*** n
----
-英音 'pærəfreɪz     美音 'pærəfreɪz
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pærəfreɪz     美音 'pærəfreɪz  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（用更容易理解的文字）解释**  
@@ -914,12 +742,8 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 
 
 # ***paraphrase*** v
----
-英音 'pærəfreɪz     美音 'pærəfreɪz
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pærəfreɪz     美音 'pærəfreɪz  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（用更容易理解的文字）解释**  
@@ -927,12 +751,8 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 
 
 # ***parcel*** n
----
-英音 'pɑːsl     美音 'pɑːrsl
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'pɑːsl     美音 'pɑːrsl  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -944,12 +764,8 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 
 
 # ***pardon*** n
----
-英音 'pɑːdn     美音 'pɑːrdn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'pɑːdn     美音 'pɑːrdn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -984,12 +800,8 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 
 
 # ***pardon*** vt
----
-英音 'pɑːdn     美音 'pɑːrdn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pɑːdn     美音 'pɑːrdn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[正式用语] [不用于进行时] 原谅；宽恕 (forgive)：**  
@@ -1020,12 +832,8 @@ D.Pardon me
   
 
 # ***parent*** n
----
-英音 'peərənt     美音 'perənt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'peərənt     美音 'perənt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1034,12 +842,8 @@ D.Pardon me
 
 
 # ***park*** n
----
-英音 pɑːk     美音 pɑːrk
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 pɑːk     美音 pɑːrk  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1048,12 +852,8 @@ D.Pardon me
 
 
 # ***park*** v
----
-英音 pɑːk     美音 pɑːrk
-
-词频 4 | 口语 2 | 书面 0 | 阅读 0
-
-
+英音 pɑːk     美音 pɑːrk  
+词频 4 | 口语 2 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **停放 (车辆)：**  
@@ -1067,12 +867,8 @@ D.Pardon me
 
 
 # ***parking*** n
----
-英音 'pɑːkɪŋ     美音 'pɑːrkɪŋ
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'pɑːkɪŋ     美音 'pɑːrkɪŋ  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -1088,12 +884,8 @@ D.Pardon me
 
 
 # ***parkland*** n
----
-英音 'pɑːklænd     美音 'pɑːrklænd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pɑːklænd     美音 'pɑːrklænd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **公共绿地**  
@@ -1101,12 +893,8 @@ D.Pardon me
 
 
 # ***parliament*** n
----
-英音 'pɑːləmənt     美音 'pɑːrləmənt
-
-词频 2 | 口语 0 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'pɑːləmənt     美音 'pɑːrləmənt  
+词频 2 | 口语 0 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1115,12 +903,8 @@ D.Pardon me
 
 
 # ***parrot*** n
----
-英音 'pærət     美音 'pærət
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'pærət     美音 'pærət  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1129,12 +913,8 @@ D.Pardon me
 
 
 # ***part*** n
----
-英音 pɑːt     美音 pɑːrt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 pɑːt     美音 pɑːrt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1215,12 +995,8 @@ take part in是固定搭配，part前一般不用冠词，但part前有形容词
 四者都常译为“参加”。
 
 # ***part*** v
----
-英音 pɑːt     美音 pɑːrt
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pɑːt     美音 pɑːrt  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **(使) 分开；(使) 分离：**  
@@ -1250,12 +1026,8 @@ take part in是固定搭配，part前一般不用冠词，但part前有形容词
 
 
 # ***part*** adv
----
-英音 pɑːt     美音 pɑːrt
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pɑːt     美音 pɑːrt  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **部分地；某种程度上：**  
@@ -1266,12 +1038,8 @@ take part in是固定搭配，part前一般不用冠词，但part前有形容词
 
 
 # ***part-time*** adv
----
-英音 'pɑːt taɪm     美音 'pɑːrt taɪm
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'pɑːt taɪm     美音 'pɑːrt taɪm  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **兼职地；以部分时间：**  
@@ -1282,12 +1050,8 @@ take part in是固定搭配，part前一般不用冠词，但part前有形容词
 
 
 # ***part-time*** adj
----
-英音 'pɑːt taɪm     美音 'pɑːrt taɪm
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'pɑːt taɪm     美音 'pɑːrt taɪm  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **兼职的；部分时间的：**  
@@ -1298,12 +1062,8 @@ take part in是固定搭配，part前一般不用冠词，但part前有形容词
 
 
 # ***partial*** adj
----
-英音 'pɑːʃl     美音 'pɑːrʃl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pɑːʃl     美音 'pɑːrʃl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **部分的；局部的**  
@@ -1311,12 +1071,8 @@ take part in是固定搭配，part前一般不用冠词，但part前有形容词
 
 
 # ***participant*** n
----
-英音 pɑː'tɪsɪpənt     美音 pɑːr'tɪsɪpənt
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pɑː'tɪsɪpənt     美音 pɑːr'tɪsɪpənt  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **参与者；参加者**  
@@ -1324,12 +1080,8 @@ take part in是固定搭配，part前一般不用冠词，但part前有形容词
 
 
 # ***participate*** vi
----
-英音 pɑː'tɪsɪpeɪt     美音 pɑːr'tɪsɪpeɪt
-
-词频 3 | 口语 0 | 书面 1 | 阅读 2
-
-用法点拨  [正式用语]
+英音 pɑː'tɪsɪpeɪt     美音 pɑːr'tɪsɪpeɪt  
+词频 3 | 口语 0 | 书面 1 | 阅读 2  用法点拨  [正式用语]
 
 英文释义
 ---
@@ -1349,12 +1101,8 @@ take part in是固定搭配，part前一般不用冠词，但part前有形容词
 participant /pɑː'tɪsɪpənt/ n [C]
 
 # ***participation*** n
----
-英音 pɑːˌtɪsɪ'peɪʃn     美音 pɑːrˌtɪsɪ'peɪʃn
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 pɑːˌtɪsɪ'peɪʃn     美音 pɑːrˌtɪsɪ'peɪʃn  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -1367,12 +1115,8 @@ participant /pɑː'tɪsɪpənt/ n [C]
 
 
 # ***particular*** adj
----
-英音 pə'tɪkjələ(r)     美音 pər'tɪkjələr
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 pə'tɪkjələ(r)     美音 pər'tɪkjələr  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[只用于名词前] 特定的**  
@@ -1427,12 +1171,8 @@ She has already tried her best. Please don’t be too particular ________ her jo
   
 
 # ***particularly*** adv
----
-英音 pə'tɪkjələli     美音 pər'tɪkjələrli
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 pə'tɪkjələli     美音 pər'tɪkjələrli  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **特别；尤其 (especially)：**  
@@ -1446,12 +1186,8 @@ She has already tried her best. Please don’t be too particular ________ her jo
 
 
 # ***partly*** adv
----
-英音 'pɑːtli     美音 'pɑːrtli
-
-词频 3 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 'pɑːtli     美音 'pɑːrtli  
+词频 3 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **部分地；在一定程度上：**  
@@ -1462,12 +1198,8 @@ She has already tried her best. Please don’t be too particular ________ her jo
 
 
 # ***partner*** n
----
-英音 'pɑːtnə(r)     美音 'pɑːrtnər
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'pɑːtnə(r)     美音 'pɑːrtnər  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1483,12 +1215,8 @@ She has already tried her best. Please don’t be too particular ________ her jo
 partnership /'pɑːtnəʃɪp/ n [U] & [C] 
 
 # ***party*** n
----
-英音 'pɑːti     美音 'pɑːrti
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'pɑːti     美音 'pɑːrti  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1524,12 +1252,8 @@ partnership /'pɑːtnəʃɪp/ n [U] & [C]
 
 
 # ***pass*** v
----
-英音 pɑːs     美音 pæs
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 pɑːs     美音 pæs  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **经过：**  
@@ -1654,12 +1378,8 @@ passing /'pɑːsɪŋ/ adj
 
 
 # ***pass*** n
----
-英音 pɑːs     美音 pæs
-
-词频 5 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 pɑːs     美音 pæs  
+词频 5 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1674,12 +1394,8 @@ passing /'pɑːsɪŋ/ adj
 
 
 # ***passage*** n
----
-英音 'pæsɪdʒ     美音 'pæsɪdʒ
-
-词频 5 | 口语 0 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'pæsɪdʒ     美音 'pæsɪdʒ  
+词频 5 | 口语 0 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1706,12 +1422,8 @@ passing /'pɑːsɪŋ/ adj
 
 
 # ***passbook*** n
----
-英音 'pæsbʊk     美音 'pɑːsbʊk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'pæsbʊk     美音 'pɑːsbʊk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1720,12 +1432,8 @@ passing /'pɑːsɪŋ/ adj
 
 
 # ***passenger*** n
----
-英音 'pæsɪndʒə(r)     美音 'pæsɪndʒər
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'pæsɪndʒə(r)     美音 'pæsɪndʒər  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1734,12 +1442,8 @@ passing /'pɑːsɪŋ/ adj
 
 
 # ***passer-by*** n
----
-英音 'pɑːsə baɪ     美音 'pɑːsə baɪ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C](pl passers-by)
+英音 'pɑːsə baɪ     美音 'pɑːsə baɪ  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C](pl passers-by)
 
 英文释义
 ---
@@ -1748,12 +1452,8 @@ passing /'pɑːsɪŋ/ adj
 
 
 # ***passerby*** n
----
-英音 'pɑːsə'baɪ     美音 'pɑːsə'baɪ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pɑːsə'baɪ     美音 'pɑːsə'baɪ  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **过路人，行人**  
@@ -1761,12 +1461,8 @@ passing /'pɑːsɪŋ/ adj
 
 
 # ***passion*** n
----
-英音 'pæʃn     美音 'pæʃn
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'pæʃn     美音 'pæʃn  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -1778,12 +1474,8 @@ passing /'pɑːsɪŋ/ adj
 
 
 # ***passive*** adj
----
-英音 'pæsɪv     美音 'pæsɪv
-
-词频 3 | 口语 0 | 书面 0 | 阅读 2
-
-
+英音 'pæsɪv     美音 'pæsɪv  
+词频 3 | 口语 0 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **消极的；被动的：**  
@@ -1811,12 +1503,8 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
   
 
 # ***passport*** n
----
-英音 'pɑːspɔːt     美音 'pæspɔːrt
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'pɑːspɔːt     美音 'pæspɔːrt  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1828,12 +1516,8 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
 
 
 # ***past*** adj
----
-英音 pɑːst     美音 pæst
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 pɑːst     美音 pæst  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **过去的；以往的；结束了的：**  
@@ -1853,12 +1537,8 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
 
 
 # ***past*** adv
----
-英音 pɑːst     美音 pæst
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 pɑːst     美音 pæst  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **经过；(时间) 流逝：**  
@@ -1872,12 +1552,8 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
 
 
 # ***past*** prep
----
-英音 pɑːst     美音 pæst
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 pɑːst     美音 pæst  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **经过... (的旁边)：**  
@@ -1897,12 +1573,8 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
 
 
 # ***past*** n
----
-英音 pɑːst     美音 pæst
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 pɑːst     美音 pæst  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[the past] 过去；[语法] 过去式：**  
@@ -1924,12 +1596,8 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
 
 
 # ***pat*** vt
----
-英音 pæt     美音 pæt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pæt     美音 pæt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(给予安慰的) 轻拍**  
@@ -1937,12 +1605,8 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
 
 
 # ***pat*** n
----
-英音 pæt     美音 pæt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pæt     美音 pæt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **轻拍；拍**  
@@ -1950,12 +1614,8 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
 
 
 # ***patch*** n
----
-英音 pætʃ     美音 pætʃ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pætʃ     美音 pætʃ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（与周围部分不同的）小块，斑**  
@@ -1963,12 +1623,8 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
 
 
 # ***patent*** n
----
-英音 'pætnt; 'peɪtnt     美音 'pætnt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-用法点拨  [C] & [U]
+英音 'pætnt; 'peɪtnt     美音 'pætnt  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -1981,12 +1637,8 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
 
 
 # ***patent*** vt
----
-英音 'pætnt; 'peɪtnt     美音 'pætnt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 'pætnt; 'peɪtnt     美音 'pætnt  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **取得...的专利权：**  
@@ -1997,12 +1649,8 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
 
 
 # ***path*** n
----
-英音 pɑːθ     美音 pæθ
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 pɑːθ     美音 pæθ  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2030,12 +1678,8 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
 
 
 # ***pathologist*** n
----
-英音 pə'θɒlədʒɪst     美音 pə'θɑːlədʒɪst
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pə'θɒlədʒɪst     美音 pə'θɑːlədʒɪst  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **病理学家**  
@@ -2043,12 +1687,8 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
 
 
 # ***patience*** n
----
-英音 'peɪʃns     美音 'peɪʃns
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'peɪʃns     美音 'peɪʃns  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -2075,12 +1715,8 @@ Whenever I made mistakes, the teacher pointed them out with ________ (耐心).
   
 
 # ***patient*** n
----
-英音 'peɪʃnt     美音 'peɪʃnt
-
-词频 4 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'peɪʃnt     美音 'peɪʃnt  
+词频 4 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2089,12 +1725,8 @@ Whenever I made mistakes, the teacher pointed them out with ________ (耐心).
 
 
 # ***patient*** adj
----
-英音 'peɪʃnt     美音 'peɪʃnt
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'peɪʃnt     美音 'peɪʃnt  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **有耐心的；容忍的：**  
@@ -2110,12 +1742,8 @@ Whenever I made mistakes, the teacher pointed them out with ________ (耐心).
 patiently /'peɪʃntli/ adv 
 
 # ***patrol*** v
----
-英音 pə'trəʊl     美音 pə'troʊl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pə'trəʊl     美音 pə'troʊl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **巡逻，巡查**  
@@ -2123,12 +1751,8 @@ patiently /'peɪʃntli/ adv
 
 
 # ***pattern*** n
----
-英音 'pætn     美音 'pætərn
-
-词频 4 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'pætn     美音 'pætərn  
+词频 4 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2166,12 +1790,8 @@ the regular way in which sth happens or is done：
 
 
 # ***pause*** vi
----
-英音 pɔːz     美音 pɔːz
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 pɔːz     美音 pɔːz  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **中断；暂停；暂停播放：**  
@@ -2183,12 +1803,8 @@ the regular way in which sth happens or is done：
 
 
 # ***pause*** n
----
-英音 pɔːz     美音 pɔːz
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 pɔːz     美音 pɔːz  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2203,12 +1819,8 @@ the regular way in which sth happens or is done：
 
 
 # ***pavement*** n
----
-英音 'peɪvmənt     美音 'peɪvmənt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'peɪvmənt     美音 'peɪvmənt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2217,12 +1829,8 @@ the regular way in which sth happens or is done：
 
 
 # ***paw*** n
----
-英音 pɔː     美音 pɔː
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pɔː     美音 pɔː  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **爪子**  
@@ -2230,12 +1838,8 @@ the regular way in which sth happens or is done：
 
 
 # ***pay*** n  重难点词汇
----
-英音 peɪ     美音 peɪ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [U]
+英音 peɪ     美音 peɪ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -2250,12 +1854,8 @@ the regular way in which sth happens or is done：
 三者都可用作名词，含“报酬”之意，都常译为“工资”。
 
 # ***pay*** v  重难点词汇
----
-英音 peɪ     美音 peɪ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (paid, paid)
+英音 peɪ     美音 peɪ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (paid, paid)
 
 英文释义
 ---
@@ -2374,12 +1974,8 @@ The athlete’s years of hard training paid ________ when she finally won the Ol
   
 
 # ***payment*** n
----
-英音 'peɪmənt     美音 'peɪmənt
-
-词频 3 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 'peɪmənt     美音 'peɪmənt  
+词频 3 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 付款：**  
@@ -2404,12 +2000,8 @@ The athlete’s years of hard training paid ________ when she finally won the Ol
 
 
 # ***pea*** n
----
-英音 piː     美音 piː
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 piː     美音 piː  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2418,12 +2010,8 @@ The athlete’s years of hard training paid ________ when she finally won the Ol
 
 
 # ***peace*** n
----
-英音 piːs     美音 piːs
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [U]
+英音 piːs     美音 piːs  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -2482,12 +2070,8 @@ the state of being quiet：
 
 
 # ***peaceful*** adj
----
-英音 'piːsfl     美音 'piːsfl
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'piːsfl     美音 'piːsfl  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **和平的；爱好和平的：**  
@@ -2509,12 +2093,8 @@ the state of being quiet：
 peacefully /'piːsfəli/ adv 
 
 # ***peacefully*** adv
----
-英音 'piːsfəli     美音 'piːsfəli
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'piːsfəli     美音 'piːsfəli  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **和平地, 平静地**  
@@ -2522,12 +2102,8 @@ peacefully /'piːsfəli/ adv
 
 
 # ***peacekeeper*** n
----
-英音 'piːskiːpə(r)     美音 'piːskiːpər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'piːskiːpə(r)     美音 'piːskiːpər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **维和人员**  
@@ -2535,12 +2111,8 @@ peacefully /'piːsfəli/ adv
 
 
 # ***peach*** n
----
-英音 piːtʃ     美音 piːtʃ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 piːtʃ     美音 piːtʃ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C]桃子；桃树；[U] 桃 (红) 色**  
@@ -2548,12 +2120,8 @@ peacefully /'piːsfəli/ adv
 
 
 # ***peacock*** n
----
-英音 'piːkɒk     美音 'piːkɑːk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'piːkɒk     美音 'piːkɑːk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **孔雀**  
@@ -2561,12 +2129,8 @@ peacefully /'piːsfəli/ adv
 
 
 # ***peak*** vi
----
-英音 piːk     美音 piːk
-
-词频 3 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 piːk     美音 piːk  
+词频 3 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **达到最高点；达到高峰：**  
@@ -2578,12 +2142,8 @@ peacefully /'piːsfəli/ adv
 
 
 # ***peak*** adj
----
-英音 piːk     美音 piːk
-
-词频 3 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 piːk     美音 piːk  
+词频 3 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **最高的；高峰的：**  
@@ -2598,12 +2158,8 @@ peacefully /'piːsfəli/ adv
 
 
 # ***peak*** n
----
-英音 piːk     美音 piːk
-
-词频 3 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 piːk     美音 piːk  
+词频 3 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2623,12 +2179,8 @@ peacefully /'piːsfəli/ adv
 
 
 # ***peanut*** n
----
-英音 'piːnʌt     美音 'piːnʌt
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'piːnʌt     美音 'piːnʌt  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2637,12 +2189,8 @@ peacefully /'piːsfəli/ adv
 
 
 # ***pear*** n
----
-英音 peə(r)     美音 per
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 peə(r)     美音 per  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2651,12 +2199,8 @@ peacefully /'piːsfəli/ adv
 
 
 # ***pearl*** n
----
-英音 pɜːl     美音 pɜːrl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] 
+英音 pɜːl     美音 pɜːrl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] 
 
 英文释义
 ---
@@ -2665,12 +2209,8 @@ peacefully /'piːsfəli/ adv
 
 
 # ***peasant*** n
----
-英音 'peznt     美音 'peznt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'peznt     美音 'peznt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2679,12 +2219,8 @@ peacefully /'piːsfəli/ adv
 
 
 # ***pedal*** n
----
-英音 'pedl     美音 'pedl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'pedl     美音 'pedl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2693,12 +2229,8 @@ peacefully /'piːsfəli/ adv
 
 
 # ***pedal*** v
----
-英音 'pedl     美音 'pedl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  vi & vt
+英音 'pedl     美音 'pedl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  vi & vt
 
 英文释义
 ---
@@ -2707,12 +2239,8 @@ peacefully /'piːsfəli/ adv
 
 
 # ***pedestrian*** n
----
-英音 pə'destriən     美音 pə'destriən
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 pə'destriən     美音 pə'destriən  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2721,12 +2249,8 @@ peacefully /'piːsfəli/ adv
 
 
 # ***pedestrian*** adj
----
-英音 pə'destriən     美音 pə'destriən
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pə'destriən     美音 pə'destriən  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **行人（使用）的**  
@@ -2734,12 +2258,8 @@ peacefully /'piːsfəli/ adv
 
 
 # ***peer*** n
----
-英音 pɪə(r)     美音 pɪr
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pɪə(r)     美音 pɪr  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **同龄人**  
@@ -2747,12 +2267,8 @@ peacefully /'piːsfəli/ adv
 
 
 # ***pen*** n
----
-英音 pen     美音 pen
-
-词频 4 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 pen     美音 pen  
+词频 4 | 口语 2 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2761,12 +2277,8 @@ peacefully /'piːsfəli/ adv
 
 
 # ***penalty*** n
----
-英音 'penəlti     美音 'penəlti
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'penəlti     美音 'penəlti  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2775,12 +2287,8 @@ peacefully /'piːsfəli/ adv
 
 
 # ***pence*** n
----
-英音 pens     美音 pens
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [penny的复数]
+英音 pens     美音 pens  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [penny的复数]
 
 英文释义
 ---
@@ -2789,12 +2297,8 @@ peacefully /'piːsfəli/ adv
 
 
 # ***pencil*** n
----
-英音 'pensl     美音 'pensl
-
-词频 3 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'pensl     美音 'pensl  
+词频 3 | 口语 2 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2803,12 +2307,8 @@ peacefully /'piːsfəli/ adv
 
 
 # ***penguin*** n
----
-英音 'peŋɡwɪn     美音 'peŋɡwɪn
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'peŋɡwɪn     美音 'peŋɡwɪn  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2817,12 +2317,8 @@ peacefully /'piːsfəli/ adv
 
 
 # ***penicillin*** n
----
-英音 ˌpenɪ'sɪlɪn     美音 ˌpenɪ'sɪlɪn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌpenɪ'sɪlɪn     美音 ˌpenɪ'sɪlɪn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **盘尼西林，青霉素**  
@@ -2830,12 +2326,8 @@ peacefully /'piːsfəli/ adv
 
 
 # ***penniless*** adj
----
-英音 'peniləs     美音 'peniləs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'peniləs     美音 'peniləs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **贫困的；身无分文的**  
@@ -2843,12 +2335,8 @@ peacefully /'piːsfəli/ adv
 
 
 # ***penny*** n
----
-英音 'peni     美音 'peni
-
-词频 1 | 口语 3 | 书面 0 | 阅读 0
-
-用法点拨  [C](pl pennies / pence)
+英音 'peni     美音 'peni  
+词频 1 | 口语 3 | 书面 0 | 阅读 0  用法点拨  [C](pl pennies / pence)
 
 英文释义
 ---
@@ -2861,12 +2349,8 @@ peacefully /'piːsfəli/ adv
 penniless /'peniləs/ adj 
 
 # ***pension*** n
----
-英音 'penʃn     美音 'penʃn
-
-词频 1 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'penʃn     美音 'penʃn  
+词频 1 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2875,12 +2359,8 @@ penniless /'peniləs/ adj
 
 
 # ***pensioner*** n
----
-英音 'penʃənə(r)     美音 'penʃənər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'penʃənə(r)     美音 'penʃənər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2889,12 +2369,8 @@ penniless /'peniləs/ adj
 
 
 # ***people*** n
----
-英音 'piːpl     美音 'piːpl
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'piːpl     美音 'piːpl  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[复数概念，谓语动词用复数形式] 人；人们：**  
@@ -2920,12 +2396,8 @@ penniless /'peniləs/ adj
 
 
 # ***pepper*** n
----
-英音 'pepə(r)     美音 'pepər
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'pepə(r)     美音 'pepər  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 胡椒；[U] 胡椒粉**  
@@ -2933,12 +2405,8 @@ penniless /'peniləs/ adj
 
 
 # ***per*** prep
----
-英音 pə(r)     美音 pər
-
-词频 4 | 口语 1 | 书面 3 | 阅读 0
-
-
+英音 pə(r)     美音 pər  
+词频 4 | 口语 1 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **每；每一：**  
@@ -2949,12 +2417,8 @@ penniless /'peniləs/ adj
 
 
 # ***perceive*** vt
----
-英音 pə'siːv     美音 pər'sːv
-
-词频 1 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [正式用语]
+英音 pə'siːv     美音 pər'sːv  
+词频 1 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [正式用语]
 
 英文释义
 ---
@@ -2963,12 +2427,8 @@ penniless /'peniləs/ adj
 
 
 # ***percent*** n
----
-英音 pə'sent     美音 pə'sent
-
-词频 5 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  [亦作per cent，单复数相同]
+英音 pə'sent     美音 pə'sent  
+词频 5 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [亦作per cent，单复数相同]
 
 英文释义
 ---
@@ -2988,12 +2448,8 @@ penniless /'peniləs/ adj
 
 
 # ***percent*** adj & adv
----
-英音 pə'sent     美音 pə'sent
-
-词频 5 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 pə'sent     美音 pə'sent  
+词频 5 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. **每一百中**  
@@ -3001,12 +2457,8 @@ penniless /'peniləs/ adj
 
 
 # ***percentage*** n
----
-英音 pə'sentɪdʒ     美音 pər'sentɪdʒ
-
-词频 2 | 口语 0 | 书面 1 | 阅读 2
-
-用法点拨  [C] & [U]
+英音 pə'sentɪdʒ     美音 pər'sentɪdʒ  
+词频 2 | 口语 0 | 书面 1 | 阅读 2  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -3021,12 +2473,8 @@ penniless /'peniləs/ adj
 
 
 # ***percentage*** adj & adv
----
-英音 pə'sentɪdʒ     美音 pər'sentɪdʒ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 2
-
-
+英音 pə'sentɪdʒ     美音 pər'sentɪdʒ  
+词频 2 | 口语 0 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. **每一百中**  
@@ -3037,12 +2485,8 @@ penniless /'peniləs/ adj
 
 
 # ***percussion*** n
----
-英音 pə'kʌʃn     美音 pə'rkʌʃn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pə'kʌʃn     美音 pə'rkʌʃn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **打击乐器**  
@@ -3050,12 +2494,8 @@ penniless /'peniləs/ adj
 
 
 # ***perfect*** adj
----
-英音 'pɜːfɪkt     美音 'pɜːrfɪkt
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'pɜːfɪkt     美音 'pɜːrfɪkt  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **完美的；极好的**  
@@ -3090,12 +2530,8 @@ penniless /'peniləs/ adj
 perfection /pə'fekʃn/ n [U] 
 
 # ***perfectly*** adv
----
-英音 'pɜːfɪktli     美音 'pɜːrfɪktli
-
-词频 3 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 'pɜːfɪktli     美音 'pɜːrfɪktli  
+词频 3 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **非常；十分；完全地：**  
@@ -3112,12 +2548,8 @@ perfection /pə'fekʃn/ n [U]
 
 
 # ***perform*** v  重难点词汇
----
-英音 pə'fɔːm     美音 pər'fɔːrm
-
-词频 4 | 口语 1 | 书面 2 | 阅读 3
-
-
+英音 pə'fɔːm     美音 pər'fɔːrm  
+词频 4 | 口语 1 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **vt履行；执行；做 (carry out)：**  
@@ -3163,12 +2595,8 @@ Listening to music at home is one thing, going to hear it ________ (perform) liv
   
 
 # ***performance*** n
----
-英音 pə'fɔːməns     美音 pər'fɔːrməns
-
-词频 4 | 口语 2 | 书面 3 | 阅读 3
-
-
+英音 pə'fɔːməns     美音 pər'fɔːrməns  
+词频 4 | 口语 2 | 书面 3 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **表演；演出：**  
@@ -3208,12 +2636,8 @@ Your ________ (perform) as a student will be excellent if you develop a habit of
   
 
 # ***performance-enhancing*** adj
----
-英音 pə'fɔːməns ɪn'hɑːns     美音 pər'fɔːrməns ɪn'hæns
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pə'fɔːməns ɪn'hɑːns     美音 pər'fɔːrməns ɪn'hæns  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **增强表现的**  
@@ -3221,12 +2645,8 @@ Your ________ (perform) as a student will be excellent if you develop a habit of
 
 
 # ***performer*** n
----
-英音 pə'fɔːmə(r)     美音 pər'fɔːrmər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 pə'fɔːmə(r)     美音 pər'fɔːrmər  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3235,12 +2655,8 @@ Your ________ (perform) as a student will be excellent if you develop a habit of
 
 
 # ***perfume*** n
----
-英音 'pɜːfjuːm     美音 pər'fjuːm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'pɜːfjuːm     美音 pər'fjuːm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -3252,12 +2668,8 @@ Your ________ (perform) as a student will be excellent if you develop a habit of
 
 
 # ***perhaps*** adv
----
-英音 pə'hæps, præps     美音 pər'hæps
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 pə'hæps, præps     美音 pər'hæps  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **也许；大概 (maybe)：**  
@@ -3268,12 +2680,8 @@ Your ________ (perform) as a student will be excellent if you develop a habit of
 
 
 # ***period*** n
----
-英音 'pɪəriəd     美音 'pɪriəd
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'pɪəriəd     美音 'pɪriəd  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3305,12 +2713,8 @@ Your ________ (perform) as a student will be excellent if you develop a habit of
 
 
 # ***permanent*** adj
----
-英音 'pɜːmənənt     美音 'pɜːrmənənt
-
-词频 1 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'pɜːmənənt     美音 'pɜːrmənənt  
+词频 1 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **永久的；长久的**  
@@ -3339,12 +2743,8 @@ D.beneficial
   
 
 # ***permission*** n
----
-英音 pə'mɪʃn     美音 pər'mɪʃn
-
-词频 3 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [U]
+英音 pə'mɪʃn     美音 pər'mɪʃn  
+词频 3 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -3366,12 +2766,8 @@ D.beneficial
 
 
 # ***permit*** v  重难点词汇
----
-英音 pə'mɪt     美音 pər'mɪt
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [正式用语]
+英音 pə'mɪt     美音 pər'mɪt  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [正式用语]
 
 英文释义
 ---
@@ -3426,12 +2822,8 @@ Passengers are permitted ________ (carry) only one piece of hand luggage onto th
   
 
 # ***permit*** n  重难点词汇
----
-英音 'pɜːmɪt      美音 'pɜːmɪt 
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 'pɜːmɪt      美音 'pɜːmɪt   
+词频 4 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3444,12 +2836,8 @@ Passengers are permitted ________ (carry) only one piece of hand luggage onto th
 
 
 # ***perseverance*** n
----
-英音 ˌpɜːsɪ'vɪərəns     美音 ˌpɜːrsə'vɪrəns
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌpɜːsɪ'vɪərəns     美音 ˌpɜːrsə'vɪrəns  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **不屈不挠，坚持不懈**  
@@ -3457,12 +2845,8 @@ Passengers are permitted ________ (carry) only one piece of hand luggage onto th
 
 
 # ***person*** n
----
-英音 'pɜːsn     美音 'pɜːrsn
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'pɜːsn     美音 'pɜːrsn  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3490,12 +2874,8 @@ Passengers are permitted ________ (carry) only one piece of hand luggage onto th
 
 
 # ***personal*** adj
----
-英音 'pɜːsənl     美音 'pɜːrsənl
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'pɜːsənl     美音 'pɜːrsənl  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[只用于名词前] 个人的；私人的：**  
@@ -3530,12 +2910,8 @@ In this lecture, I can only give you a purely ________ (个人的) view of how w
   
 
 # ***personality*** n
----
-英音 ˌpɜːsə'næləti     美音 ˌpɜːrsə'næləti
-
-词频 4 | 口语 0 | 书面 0 | 阅读 3
-
-用法点拨  [C] & [U]
+英音 ˌpɜːsə'næləti     美音 ˌpɜːrsə'næləti  
+词频 4 | 口语 0 | 书面 0 | 阅读 3  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -3548,12 +2924,8 @@ In this lecture, I can only give you a purely ________ (个人的) view of how w
 
 
 # ***personally*** adv
----
-英音 'pɜːsənəli     美音 'pɜːrsənəli
-
-词频 3 | 口语 2 | 书面 0 | 阅读 0
-
-
+英音 'pɜːsənəli     美音 'pɜːrsənəli  
+词频 3 | 口语 2 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **亲自 (in person)；个别地：**  
@@ -3580,12 +2952,8 @@ They gave money to the old people’s home either ________ (personal) or through
   
 
 # ***personification*** n
----
-英音 pəˌsɒnɪfɪ'keɪʃn     美音 pərˌsɑːnɪfɪ'keɪʃn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pəˌsɒnɪfɪ'keɪʃn     美音 pərˌsɑːnɪfɪ'keɪʃn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **拟人；人格化；化身**  
@@ -3593,12 +2961,8 @@ They gave money to the old people’s home either ________ (personal) or through
 
 
 # ***personnel*** n
----
-英音 ˌpɜːsə'nel     美音 ˌpɜːrsə'nel
-
-词频 2 | 口语 1 | 书面 1 | 阅读 1
-
-
+英音 ˌpɜːsə'nel     美音 ˌpɜːrsə'nel  
+词频 2 | 口语 1 | 书面 1 | 阅读 1  
 英文释义
 ---
 1. *低义频：* **[总称] 全体人员：**  
@@ -3615,12 +2979,8 @@ They gave money to the old people’s home either ________ (personal) or through
 
 
 # ***perspective*** n
----
-英音 pə'spektɪv     美音 pər'spektɪv
-
-词频 1 | 口语 0 | 书面 0 | 阅读 1
-
-用法点拨  [C]
+英音 pə'spektɪv     美音 pər'spektɪv  
+词频 1 | 口语 0 | 书面 0 | 阅读 1  用法点拨  [C]
 
 英文释义
 ---
@@ -3633,12 +2993,8 @@ They gave money to the old people’s home either ________ (personal) or through
 
 
 # ***persuade*** vt  重难点词汇
----
-英音 pə'sweɪd     美音 pər'sweɪd
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 pə'sweɪd     美音 pər'sweɪd  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **说服；劝服 (talk into)：**  
@@ -3693,12 +3049,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
   
 
 # ***persuasion*** n
----
-英音 pə'sweɪʒn     美音 pər'sweɪʒn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 pə'sweɪʒn     美音 pər'sweɪʒn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -3707,12 +3059,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 
 
 # ***pessimistic*** adj
----
-英音 ˌpesɪ'mɪstɪk     美音 ˌpesɪ'mɪstɪk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌpesɪ'mɪstɪk     美音 ˌpesɪ'mɪstɪk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **悲观的**  
@@ -3724,12 +3072,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 
 
 # ***pest*** n
----
-英音 pest     美音 pest
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 pest     美音 pest  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3738,12 +3082,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 
 
 # ***pet*** n
----
-英音 pet     美音 pet
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 pet     美音 pet  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3752,12 +3092,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 
 
 # ***petrol*** n
----
-英音 'petrəl     美音 'petrəl
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'petrəl     美音 'petrəl  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -3766,12 +3102,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 
 
 # ***phase*** n
----
-英音 feɪz     美音 feɪz
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 feɪz     美音 feɪz  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **[C] 阶段；时期**  
@@ -3779,12 +3111,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 
 
 # ***phenomenon*** n
----
-英音 fə'nɒmɪnən     美音 fə'nɑːmɪnən
-
-词频 3 | 口语 0 | 书面 1 | 阅读 2
-
-用法点拨  [C](pl phenomena)
+英音 fə'nɒmɪnən     美音 fə'nɑːmɪnən  
+词频 3 | 口语 0 | 书面 1 | 阅读 2  用法点拨  [C](pl phenomena)
 
 英文释义
 ---
@@ -3800,12 +3128,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 
 
 # ***philosopher*** n
----
-英音 fə'lɒsəfə(r)     美音 fə'lɑːsəfər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 2
-
-用法点拨  [C]
+英音 fə'lɒsəfə(r)     美音 fə'lɑːsəfər  
+词频 2 | 口语 0 | 书面 0 | 阅读 2  用法点拨  [C]
 
 英文释义
 ---
@@ -3814,12 +3138,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 
 
 # ***philosophical*** adj
----
-英音 ˌfɪlə'sɒfɪkl     美音 ˌfɪlə'sɑːfɪkl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌfɪlə'sɒfɪkl     美音 ˌfɪlə'sɑːfɪkl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **哲学的,达观的**  
@@ -3827,12 +3147,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 
 
 # ***philosophy*** n
----
-英音 fə'lɒsəfi     美音 fə'lɑːsəfi
-
-词频 3 | 口语 0 | 书面 1 | 阅读 1
-
-
+英音 fə'lɒsəfi     美音 fə'lɑːsəfi  
+词频 3 | 口语 0 | 书面 1 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **[U] 哲学；[C] 哲学体系**  
@@ -3846,12 +3162,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 
 
 # ***phoenix*** n
----
-英音 'fiːnɪks     美音 'fiːnɪks
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fiːnɪks     美音 'fiːnɪks  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **凤凰**  
@@ -3859,12 +3171,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 
 
 # ***phone*** v
----
-英音 fəʊn     美音 foʊn
-
-词频 5 | 口语 3 | 书面 0 | 阅读 0
-
-
+英音 fəʊn     美音 foʊn  
+词频 5 | 口语 3 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(给某人) 打电话：**  
@@ -3878,12 +3186,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 
 
 # ***phone*** n
----
-英音 fəʊn     美音 foʊn
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 fəʊn     美音 foʊn  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3909,12 +3213,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 
 
 # ***phonetics*** n
----
-英音 fə'netɪks     美音 fə'netɪks
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 fə'netɪks     美音 fə'netɪks  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -3923,12 +3223,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 
 
 # ***photo*** n
----
-英音 'fəʊtəʊ     美音 'foʊtoʊ
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C] [非正式用语] (photograph的缩写，pl photos) 
+英音 'fəʊtəʊ     美音 'foʊtoʊ  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C] [非正式用语] (photograph的缩写，pl photos) 
 
 英文释义
 ---
@@ -3944,12 +3240,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 
 
 # ***photocopy*** n
----
-英音 'fəʊtəʊkɒpi     美音 'foʊtoʊkɑːpi
-
-词频 1 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 'fəʊtəʊkɒpi     美音 'foʊtoʊkɑːpi  
+词频 1 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3958,12 +3250,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 
 
 # ***photocopy*** vt
----
-英音 'fəʊtəʊkɒpi     美音 'foʊtoʊkɑːpi
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fəʊtəʊkɒpi     美音 'foʊtoʊkɑːpi  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **影印；复印**  
@@ -3971,12 +3259,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 
 
 # ***photograph*** n
----
-英音 'fəʊtəɡrɑːf     美音 'foʊtəɡræf
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'fəʊtəɡrɑːf     美音 'foʊtəɡræf  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3988,12 +3272,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 
 
 # ***photograph*** v
----
-英音 'fəʊtəɡrɑːf     美音 'foʊtəɡræf
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fəʊtəɡrɑːf     美音 'foʊtəɡræf  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(为...) 拍照：**  
@@ -4008,12 +3288,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 
 
 # ***photographer*** n
----
-英音 fə'tɒɡrəfə(r)     美音 fə'tɑːɡrəfər
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 fə'tɒɡrəfə(r)     美音 fə'tɑːɡrəfər  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4022,12 +3298,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 
 
 # ***photography*** n
----
-英音 fə'tɒɡrəfi     美音 fə'tɑːɡrəfi
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 fə'tɒɡrəfi     美音 fə'tɑːɡrəfi  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -4036,12 +3308,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 
 
 # ***phrase*** n
----
-英音 freɪz     美音 freɪz
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 freɪz     美音 freɪz  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4053,12 +3321,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 
 
 # ***physical*** adj
----
-英音 'fɪzɪkl     美音 'fɪzɪkl
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 'fɪzɪkl     美音 'fɪzɪkl  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **物理的；自然的：**  
@@ -4092,12 +3356,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 physically /'fɪzɪkli/ adv 
 
 # ***physician*** n
----
-英音 fɪ'zɪʃn     美音 fɪ'zɪʃn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 fɪ'zɪʃn     美音 fɪ'zɪʃn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4106,12 +3366,8 @@ physically /'fɪzɪkli/ adv
 
 
 # ***physicist*** n
----
-英音 'fɪzɪsɪst     美音 'fɪzɪsɪst
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'fɪzɪsɪst     美音 'fɪzɪsɪst  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4120,12 +3376,8 @@ physically /'fɪzɪkli/ adv
 
 
 # ***physics*** n
----
-英音 'fɪzɪks     美音 'fɪzɪks
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'fɪzɪks     美音 'fɪzɪks  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -4134,12 +3386,8 @@ physically /'fɪzɪkli/ adv
 
 
 # ***pianist*** n
----
-英音 'pɪənɪst     美音 'pɪənɪst
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'pɪənɪst     美音 'pɪənɪst  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4148,12 +3396,8 @@ physically /'fɪzɪkli/ adv
 
 
 # ***piano*** n
----
-英音 pi'ænəʊ     美音 pi'ænoʊ
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C](pl pianos)
+英音 pi'ænəʊ     美音 pi'ænoʊ  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C](pl pianos)
 
 英文释义
 ---
@@ -4165,12 +3409,8 @@ physically /'fɪzɪkli/ adv
 
 
 # ***pick*** vt  重难点词汇
----
-英音 pɪk     美音 pɪk
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 pɪk     美音 pɪk  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **摘；采：**  
@@ -4339,12 +3579,8 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
   
 
 # ***pickpocket*** n
----
-英音 'pɪkpɒkɪt     美音 'pɪkpɑːkɪt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'pɪkpɒkɪt     美音 'pɪkpɑːkɪt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4353,12 +3589,8 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 
 
 # ***picnic*** n
----
-英音 'pɪknɪk     美音 'pɪknɪk
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'pɪknɪk     美音 'pɪknɪk  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4375,12 +3607,8 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 
 
 # ***picture*** n
----
-英音 'pɪktʃə(r)     美音 'pɪktʃər
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'pɪktʃə(r)     美音 'pɪktʃər  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4403,12 +3631,8 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 
 
 # ***picture*** vt
----
-英音 'pɪktʃə(r)     美音 'pɪktʃər
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pɪktʃə(r)     美音 'pɪktʃər  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **想象；设想：**  
@@ -4420,12 +3644,8 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 
 
 # ***pie*** n
----
-英音 paɪ     美音 paɪ
-
-词频 1 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 paɪ     美音 paɪ  
+词频 1 | 口语 2 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4434,12 +3654,8 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 
 
 # ***piece*** n
----
-英音 piːs     美音 piːs
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 piːs     美音 piːs  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4475,12 +3691,8 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 
 
 # ***pierce*** v
----
-英音 pɪəs     美音 pɪrs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pɪəs     美音 pɪrs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（声音、光、痛苦等）被突然听到（看到、感觉到等）**  
@@ -4488,12 +3700,8 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 
 
 # ***pig*** n
----
-英音 pɪɡ     美音 pɪɡ
-
-词频 2 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 pɪɡ     美音 pɪɡ  
+词频 2 | 口语 2 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4502,12 +3710,8 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 
 
 # ***pigeon*** n
----
-英音 'pɪdʒɪn     美音 'pɪdʒɪn
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'pɪdʒɪn     美音 'pɪdʒɪn  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4516,12 +3720,8 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 
 
 # ***pile*** n
----
-英音 paɪl     美音 paɪl
-
-词频 4 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 paɪl     美音 paɪl  
+词频 4 | 口语 2 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4544,12 +3744,8 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 
 
 # ***pile*** vt
----
-英音 paɪl     美音 paɪl
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 paɪl     美音 paɪl  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **把...堆积；聚集：**  
@@ -4574,12 +3770,8 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 
 
 # ***pilgrim*** n
----
-英音 'pɪlɡrɪm     美音 'pɪlɡrɪm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pɪlɡrɪm     美音 'pɪlɡrɪm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **朝圣者**  
@@ -4587,12 +3779,8 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 
 
 # ***pill*** n
----
-英音 pɪl     美音 pɪl
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 pɪl     美音 pɪl  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4604,12 +3792,8 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 
 
 # ***pillar*** n
----
-英音 'pɪlə(r)     美音 'pɪlər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pɪlə(r)     美音 'pɪlər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **支柱**  
@@ -4617,12 +3801,8 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 
 
 # ***pillow*** n
----
-英音 'pɪləʊ     美音 'pɪloʊ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'pɪləʊ     美音 'pɪloʊ  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4638,12 +3818,8 @@ The old lady needs a few feather ________ (枕头) to make herself comfortable.
   
 
 # ***pilot*** n
----
-英音 'paɪlət     美音 'paɪlət
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 'paɪlət     美音 'paɪlət  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4652,12 +3828,8 @@ The old lady needs a few feather ________ (枕头) to make herself comfortable.
 
 
 # ***pin*** vt
----
-英音 pɪn     美音 pɪn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pɪn     美音 pɪn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(用别针等) 别住；固定：**  
@@ -4668,12 +3840,8 @@ The old lady needs a few feather ________ (枕头) to make herself comfortable.
 
 
 # ***pin*** n
----
-英音 pɪn     美音 pɪn
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 pɪn     美音 pɪn  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4682,12 +3850,8 @@ The old lady needs a few feather ________ (枕头) to make herself comfortable.
 
 
 # ***pine*** n
----
-英音 paɪn     美音 paɪn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 paɪn     美音 paɪn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -4696,12 +3860,8 @@ The old lady needs a few feather ________ (枕头) to make herself comfortable.
 
 
 # ***pineapple*** n
----
-英音 'paɪnæpl     美音 'paɪnæpl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'paɪnæpl     美音 'paɪnæpl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4710,12 +3870,8 @@ The old lady needs a few feather ________ (枕头) to make herself comfortable.
 
 
 # ***ping-pong*** n
----
-英音 pɪŋ pɒŋ     美音 pɪŋ pɔːŋ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 pɪŋ pɒŋ     美音 pɪŋ pɔːŋ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -4727,12 +3883,8 @@ The old lady needs a few feather ________ (枕头) to make herself comfortable.
 
 
 # ***pink*** adj
----
-英音 pɪŋk     美音 pɪŋk
-
-词频 2 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 pɪŋk     美音 pɪŋk  
+词频 2 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **粉红色的**  
@@ -4747,12 +3899,8 @@ The little girl is wearing a ________ (粉红色) dress.
   
 
 # ***pink*** n
----
-英音 pɪŋk     美音 pɪŋk
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 pɪŋk     美音 pɪŋk  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -4761,12 +3909,8 @@ The little girl is wearing a ________ (粉红色) dress.
 
 
 # ***pint*** n
----
-英音 paɪnt     美音 paɪnt
-
-词频 1 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 paɪnt     美音 paɪnt  
+词频 1 | 口语 2 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4778,12 +3922,8 @@ The little girl is wearing a ________ (粉红色) dress.
 
 
 # ***pioneer*** vt
----
-英音 ˌpaɪə'nɪə(r)     美音 ˌpaɪə'nɪr
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌpaɪə'nɪə(r)     美音 ˌpaɪə'nɪr  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **开创；开辟；倡导：**  
@@ -4794,12 +3934,8 @@ The little girl is wearing a ________ (粉红色) dress.
 
 
 # ***pioneer*** n
----
-英音 ˌpaɪə'nɪə(r)     美音 ˌpaɪə'nɪr
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ˌpaɪə'nɪə(r)     美音 ˌpaɪə'nɪr  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4808,12 +3944,8 @@ The little girl is wearing a ________ (粉红色) dress.
 
 
 # ***pipe*** n
----
-英音 paɪp     美音 paɪp
-
-词频 3 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 paɪp     美音 paɪp  
+词频 3 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -4822,12 +3954,8 @@ The little girl is wearing a ________ (粉红色) dress.
 
 
 # ***piracy*** n
----
-英音 'paɪrəsi     美音 'paɪrəsi
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'paɪrəsi     美音 'paɪrəsi  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **盗版；海上抢劫**  
@@ -4835,12 +3963,8 @@ The little girl is wearing a ________ (粉红色) dress.
 
 
 # ***pirate*** n
----
-英音 'paɪrət     美音 'paɪrət
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'paɪrət     美音 'paɪrət  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4849,12 +3973,8 @@ The little girl is wearing a ________ (粉红色) dress.
 
 
 # ***pitch*** n
----
-英音 pɪtʃ     美音 pɪtʃ
-
-词频 1 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 pɪtʃ     美音 pɪtʃ  
+词频 1 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4863,12 +3983,8 @@ The little girl is wearing a ________ (粉红色) dress.
 
 
 # ***pitter-patter*** n
----
-英音 'pɪtəpætə(r)     美音 'pɪtəpætər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pɪtəpætə(r)     美音 'pɪtəpætər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **劈里啪啦的声音,劈劈啪啪的声音**  
@@ -4876,12 +3992,8 @@ The little girl is wearing a ________ (粉红色) dress.
 
 
 # ***pity*** n
----
-英音 'pɪti     美音 'pɪti
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'pɪti     美音 'pɪti  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 同情；怜悯：**  
@@ -4923,12 +4035,8 @@ The little girl is wearing a ________ (粉红色) dress.
   
 
 # ***pity*** vt
----
-英音 'pɪti     美音 'pɪti
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pɪti     美音 'pɪti  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **可怜；为...觉得可惜：**  
@@ -4939,12 +4047,8 @@ The little girl is wearing a ________ (粉红色) dress.
 
 
 # ***pizza*** n
----
-英音 'piːtsə     美音 'piːtsə
-
-词频 1 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'piːtsə     美音 'piːtsə  
+词频 1 | 口语 2 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -4953,12 +4057,8 @@ The little girl is wearing a ________ (粉红色) dress.
 
 
 # ***pizzeria*** n
----
-英音 ˌpiːtsə'riːə     美音 ˌpiːtsə'riːə
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌpiːtsə'riːə     美音 ˌpiːtsə'riːə  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **比萨饼餐厅**  
@@ -4966,12 +4066,8 @@ The little girl is wearing a ________ (粉红色) dress.
 
 
 # ***place*** n
----
-英音 pleɪs     美音 pleɪs
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 pleɪs     美音 pleɪs  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5069,12 +4165,8 @@ The little girl is wearing a ________ (粉红色) dress.
 
 
 # ***place*** vt
----
-英音 pleɪs     美音 pleɪs
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 pleɪs     美音 pleɪs  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **放置；安置：**  
@@ -5105,12 +4197,8 @@ The furniture, with its modern style and bright colors, suits modern houses and 
   
 
 # ***plain*** n
----
-英音 pleɪn     美音 pleɪn
-
-词频 3 | 口语 0 | 书面 0 | 阅读 3
-
-用法点拨  [C]
+英音 pleɪn     美音 pleɪn  
+词频 3 | 口语 0 | 书面 0 | 阅读 3  用法点拨  [C]
 
 英文释义
 ---
@@ -5123,12 +4211,8 @@ The furniture, with its modern style and bright colors, suits modern houses and 
 plainly /'pleɪnli/ adv 
 
 # ***plain*** adj
----
-英音 pleɪn     美音 pleɪn
-
-词频 3 | 口语 2 | 书面 1 | 阅读 3
-
-
+英音 pleɪn     美音 pleɪn  
+词频 3 | 口语 2 | 书面 1 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **清楚的；明白的；易懂的 (clear / obvious)：**  
@@ -5171,12 +4255,8 @@ without anything added or without decoration：
 
 
 # ***plain*** adv
----
-英音 pleɪn     美音 pleɪn
-
-词频 3 | 口语 0 | 书面 0 | 阅读 3
-
-用法点拨  [非正式用语] [用于强调]
+英音 pleɪn     美音 pleɪn  
+词频 3 | 口语 0 | 书面 0 | 阅读 3  用法点拨  [非正式用语] [用于强调]
 
 英文释义
 ---
@@ -5188,12 +4268,8 @@ without anything added or without decoration：
 
 
 # ***plan*** v
----
-英音 plæn     美音 plæn
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 plæn     美音 plæn  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **计划；筹划：**  
@@ -5230,12 +4306,8 @@ without anything added or without decoration：
 
 
 # ***plan*** n
----
-英音 plæn     美音 plæn
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 plæn     美音 plæn  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5259,12 +4331,8 @@ without anything added or without decoration：
 
 
 # ***plane*** n
----
-英音 pleɪn     美音 pleɪn
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 pleɪn     美音 pleɪn  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5273,12 +4341,8 @@ without anything added or without decoration：
 
 
 # ***planet*** n
----
-英音 'plænɪt     美音 'plænɪt
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C] 
+英音 'plænɪt     美音 'plænɪt  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C] 
 
 英文释义
 ---
@@ -5290,12 +4354,8 @@ without anything added or without decoration：
 
 
 # ***plank*** n
----
-英音 plæŋk     美音 plæŋk
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 plæŋk     美音 plæŋk  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **平板支撑**  
@@ -5303,12 +4363,8 @@ without anything added or without decoration：
 
 
 # ***planning*** n
----
-英音 'plænɪŋ     美音 'plænɪŋ
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'plænɪŋ     美音 'plænɪŋ  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **规划；制订计划**  
@@ -5316,12 +4372,8 @@ without anything added or without decoration：
 
 
 # ***plant*** n
----
-英音 plɑːnt     美音 plænt
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 plɑːnt     美音 plænt  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5339,12 +4391,8 @@ without anything added or without decoration：
 
 
 # ***plant*** vt
----
-英音 plɑːnt     美音 plænt
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 plɑːnt     美音 plænt  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **种植；栽种；播种；稳固地放置：**  
@@ -5359,12 +4407,8 @@ without anything added or without decoration：
 
 
 # ***plantation*** n
----
-英音 plɑːn'teɪʃn     美音 plæn'teɪʃn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 plɑːn'teɪʃn     美音 plæn'teɪʃn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **农庄；庄园**  
@@ -5372,12 +4416,8 @@ without anything added or without decoration：
 
 
 # ***plaster*** n
----
-英音 'plɑːstə(r)     美音 'plæstər
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'plɑːstə(r)     美音 'plæstər  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **创可贴**  
@@ -5385,12 +4425,8 @@ without anything added or without decoration：
 
 
 # ***plastic*** n
----
-英音 'plæstɪk     美音 'plæstɪk
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [U] & [C]
+英音 'plæstɪk     美音 'plæstɪk  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [U] & [C]
 
 英文释义
 ---
@@ -5402,12 +4438,8 @@ without anything added or without decoration：
 
 
 # ***plastic*** adj
----
-英音 'plæstɪk     美音 'plæstɪk
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'plæstɪk     美音 'plæstɪk  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **塑料的；可塑的：**  
@@ -5428,12 +4460,8 @@ If you cannot find wooden boxes, you may use either ________ (塑料的) or meta
   
 
 # ***plate*** n
----
-英音 pleɪt     美音 pleɪt
-
-词频 3 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 pleɪt     美音 pleɪt  
+词频 3 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5465,12 +4493,8 @@ If you cannot find wooden boxes, you may use either ________ (塑料的) or meta
 
 
 # ***plateau*** n
----
-英音 'plætəʊ     美音 plæ'toʊ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'plætəʊ     美音 plæ'toʊ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5479,12 +4503,8 @@ If you cannot find wooden boxes, you may use either ________ (塑料的) or meta
 
 
 # ***platform*** n
----
-英音 'plætfɔːm     美音 'plætfɔːrm
-
-词频 3 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C] 
+英音 'plætfɔːm     美音 'plætfɔːrm  
+词频 3 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C] 
 
 英文释义
 ---
@@ -5505,12 +4525,8 @@ If you cannot find wooden boxes, you may use either ________ (塑料的) or meta
 
 
 # ***play*** v
----
-英音 pleɪ     美音 pleɪ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  vt & vi
+英音 pleɪ     美音 pleɪ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  vt & vi
 
 英文释义
 ---
@@ -5574,12 +4590,8 @@ If you cannot find wooden boxes, you may use either ________ (塑料的) or meta
 
 
 # ***play*** n
----
-英音 pleɪ     美音 pleɪ
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 pleɪ     美音 pleɪ  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 玩耍；游戏；嬉戏：**  
@@ -5608,12 +4620,8 @@ If you cannot find wooden boxes, you may use either ________ (塑料的) or meta
 playful /playful/ adj 
 
 # ***player*** n
----
-英音 'pleɪə(r)     美音 'pleɪər
-
-词频 4 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'pleɪə(r)     美音 'pleɪər  
+词频 4 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5638,12 +4646,8 @@ All the football player on the playground cheered loudly.
   
 
 # ***playground*** n
----
-英音 'pleɪɡraʊnd     美音 'pleɪɡraʊnd
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'pleɪɡraʊnd     美音 'pleɪɡraʊnd  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5652,12 +4656,8 @@ All the football player on the playground cheered loudly.
 
 
 # ***playmate*** n
----
-英音 'pleɪmeɪt     美音 'pleɪmeɪt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'pleɪmeɪt     美音 'pleɪmeɪt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5666,12 +4666,8 @@ All the football player on the playground cheered loudly.
 
 
 # ***pleasant*** adj
----
-英音 'pleznt     美音 'pleznt
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 'pleznt     美音 'pleznt  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **令人愉快的；舒适的 (nice)；礼貌而友善的：**  
@@ -5693,12 +4689,8 @@ All the football player on the playground cheered loudly.
 pleasantly /'plezntli/ adv 
 
 # ***please*** v
----
-英音 pliːz     美音 pliːz
-
-词频 5 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 pliːz     美音 pliːz  
+词频 5 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(使) 高兴；(使) 满意；讨好：**  
@@ -5728,12 +4720,8 @@ pleasing /'pliːzɪŋ/ adj
 
 
 # ***please*** int
----
-英音 pliːz     美音 pliːz
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 pliːz     美音 pliːz  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[表示有礼貌地请求对方] 请；好吗：**  
@@ -5753,12 +4741,8 @@ pleasing /'pliːzɪŋ/ adj
 
 
 # ***pleased*** adj
----
-英音 pliːzd     美音 pliːzd
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 pliːzd     美音 pliːzd  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[不用于名词前]高兴的；满意的：**  
@@ -5796,12 +4780,8 @@ pleasing /'pliːzɪŋ/ adj
   
 
 # ***pleasure*** n
----
-英音 'pleʒə(r)     美音 'pleʒər
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'pleʒə(r)     美音 'pleʒər  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 快乐 (enjoyment)；娱乐：**  
@@ -5867,12 +4847,8 @@ pleasing /'pliːzɪŋ/ adj
   
 
 # ***plenty*** pron
----
-英音 'plenti     美音 'plenti
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'plenti     美音 'plenti  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **丰富；大量；充足：**  
@@ -5911,12 +4887,8 @@ We always keep plenty ________ spare paper, in case we run out.
   
 
 # ***plot*** n
----
-英音 plɒt     美音 plɑːt
-
-词频 2 | 口语 0 | 书面 1 | 阅读 1
-
-用法点拨  [C]
+英音 plɒt     美音 plɑːt  
+词频 2 | 口语 0 | 书面 1 | 阅读 1  用法点拨  [C]
 
 英文释义
 ---
@@ -5938,12 +4910,8 @@ We always keep plenty ________ spare paper, in case we run out.
 
 
 # ***plot*** v
----
-英音 plɒt     美音 plɑːt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 plɒt     美音 plɑːt  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **vt & vi 设计 (作品情节)；密谋；策划；绘制：**  
@@ -5954,12 +4922,8 @@ We always keep plenty ________ spare paper, in case we run out.
 
 
 # ***plough*** n
----
-英音 plaʊ     美音 plaʊ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  (AmE plow)[C]
+英音 plaʊ     美音 plaʊ  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  (AmE plow)[C]
 
 英文释义
 ---
@@ -5968,12 +4932,8 @@ We always keep plenty ________ spare paper, in case we run out.
 
 
 # ***plough*** v
----
-英音 plaʊ     美音 plaʊ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  (AmE plow)
+英音 plaʊ     美音 plaʊ  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  (AmE plow)
 
 英文释义
 ---
@@ -5985,12 +4945,8 @@ We always keep plenty ________ spare paper, in case we run out.
 
 
 # ***plug*** n
----
-英音 plʌɡ     美音 plʌɡ
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 plʌɡ     美音 plʌɡ  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6005,12 +4961,8 @@ We always keep plenty ________ spare paper, in case we run out.
 
 
 # ***plug*** vt
----
-英音 plʌɡ     美音 plʌɡ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 plʌɡ     美音 plʌɡ  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **塞；堵；用...塞住；给...接通电源：**  
@@ -6029,12 +4981,8 @@ We always keep plenty ________ spare paper, in case we run out.
 
 
 # ***plural*** n
----
-英音 'plʊərəl     美音 'plʊrəl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C][语法] 
+英音 'plʊərəl     美音 'plʊrəl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C][语法] 
 
 英文释义
 ---
@@ -6043,12 +4991,8 @@ We always keep plenty ________ spare paper, in case we run out.
 
 
 # ***plural*** adj
----
-英音 'plʊərəl     美音 'plʊrəl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'plʊərəl     美音 'plʊrəl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **复数的**  
@@ -6056,12 +5000,8 @@ We always keep plenty ________ spare paper, in case we run out.
 
 
 # ***plus*** adj
----
-英音 plʌs     美音 plʌs
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 plʌs     美音 plʌs  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **表示加的；正的；零上的 【反 minus】；多；余：**  
@@ -6075,12 +5015,8 @@ We always keep plenty ________ spare paper, in case we run out.
 
 
 # ***plus*** prep
----
-英音 plʌs     美音 plʌs
-
-词频 3 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 plʌs     美音 plʌs  
+词频 3 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **加；加上【反:minus】；外加；另有：**  
@@ -6094,12 +5030,8 @@ We always keep plenty ________ spare paper, in case we run out.
 
 
 # ***plus*** n
----
-英音 plʌs     美音 plʌs
-
-词频 3 | 口语 3 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 plʌs     美音 plʌs  
+词频 3 | 口语 3 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6115,12 +5047,8 @@ We always keep plenty ________ spare paper, in case we run out.
 
 
 # ***plus*** conj
----
-英音 plʌs     美音 plʌs
-
-词频 3 | 口语 3 | 书面 2 | 阅读 0
-
-用法点拨  [非正式用语]
+英音 plʌs     美音 plʌs  
+词频 3 | 口语 3 | 书面 2 | 阅读 0  用法点拨  [非正式用语]
 
 英文释义
 ---
@@ -6132,12 +5060,8 @@ We always keep plenty ________ spare paper, in case we run out.
 
 
 # ***pneumonia*** n
----
-英音 njuː'məʊniə     美音 nuː'moʊniə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 njuː'məʊniə     美音 nuː'moʊniə  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **肺炎**  
@@ -6145,12 +5069,8 @@ We always keep plenty ________ spare paper, in case we run out.
 
 
 # ***poacher*** n
----
-英音 'pəʊtʃə(r)     美音 'poʊtʃər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pəʊtʃə(r)     美音 'poʊtʃər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **盗猎者；偷猎者**  
@@ -6158,12 +5078,8 @@ We always keep plenty ________ spare paper, in case we run out.
 
 
 # ***pocket*** n
----
-英音 'pɒkɪt     美音 'pɑːkɪt
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'pɒkɪt     美音 'pɑːkɪt  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6190,12 +5106,8 @@ We always keep plenty ________ spare paper, in case we run out.
 
 
 # ***pocket*** vt
----
-英音 'pɒkɪt     美音 'pɑːkɪt
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pɒkɪt     美音 'pɑːkɪt  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **把...放进口袋：**  
@@ -6206,12 +5118,8 @@ We always keep plenty ________ spare paper, in case we run out.
 
 
 # ***poem*** n
----
-英音 'pəʊɪm     美音 'poʊəm
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 'pəʊɪm     美音 'poʊəm  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6220,12 +5128,8 @@ We always keep plenty ________ spare paper, in case we run out.
 
 
 # ***poet*** n
----
-英音 'pəʊɪt     美音 'poʊət
-
-词频 3 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 'pəʊɪt     美音 'poʊət  
+词频 3 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6234,12 +5138,8 @@ We always keep plenty ________ spare paper, in case we run out.
 
 
 # ***poetic*** adj
----
-英音 pəʊ'etɪk     美音 poʊ'etɪk
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pəʊ'etɪk     美音 poʊ'etɪk  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **有诗意的；诗的**  
@@ -6247,12 +5147,8 @@ We always keep plenty ________ spare paper, in case we run out.
 
 
 # ***poetry*** n
----
-英音 'pəʊətri     美音 'poʊətri
-
-词频 3 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [U]
+英音 'pəʊətri     美音 'poʊətri  
+词频 3 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -6261,12 +5157,8 @@ We always keep plenty ________ spare paper, in case we run out.
 
 
 # ***point*** v  重难点词汇
----
-英音 pɔɪnt     美音 pɔɪnt
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 pɔɪnt     美音 pɔɪnt  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[不用于被动语态] 用 (手指等) 指；指向：**  
@@ -6319,12 +5211,8 @@ We always keep plenty ________ spare paper, in case we run out.
 
 
 # ***point*** n  重难点词汇
----
-英音 pɔɪnt     美音 pɔɪnt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 pɔɪnt     美音 pɔɪnt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 尖端；点；小数点：**  
@@ -6440,12 +5328,8 @@ I like Mr Miner’s speech; it was clear and ________ the point.
   
 
 # ***poison*** n
----
-英音 'pɔɪzn     美音 'pɔɪzn
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'pɔɪzn     美音 'pɔɪzn  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -6457,12 +5341,8 @@ I like Mr Miner’s speech; it was clear and ________ the point.
 
 
 # ***poison*** vt
----
-英音 'pɔɪzn     美音 'pɔɪzn
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pɔɪzn     美音 'pɔɪzn  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **使中毒；毒死；使受污染：**  
@@ -6473,12 +5353,8 @@ I like Mr Miner’s speech; it was clear and ________ the point.
 
 
 # ***poisonous*** adj
----
-英音 'pɔɪzənəs     美音 'pɔɪzənəs
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pɔɪzənəs     美音 'pɔɪzənəs  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **有毒的；有害的；恶毒的：**  
@@ -6494,12 +5370,8 @@ I like Mr Miner’s speech; it was clear and ________ the point.
 
 
 # ***polar*** adj
----
-英音 'pəʊlə(r)     美音 'poʊlər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 'pəʊlə(r)     美音 'poʊlər  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **极地的；近极地的：**  
@@ -6510,12 +5382,8 @@ I like Mr Miner’s speech; it was clear and ________ the point.
 
 
 # ***pole*** n
----
-英音 pəʊl     美音 poʊl
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 pəʊl     美音 poʊl  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6534,12 +5402,8 @@ I like Mr Miner’s speech; it was clear and ________ the point.
 
 
 # ***police*** n
----
-英音 pə'liːs     美音 pə'liːs
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [集体名词，作主语时，谓语动词常用复数] 
+英音 pə'liːs     美音 pə'liːs  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [集体名词，作主语时，谓语动词常用复数] 
 
 英文释义
 ---
@@ -6551,12 +5415,8 @@ I like Mr Miner’s speech; it was clear and ________ the point.
 
 
 # ***police*** vt
----
-英音 pə'liːs     美音 pə'liːs
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pə'liːs     美音 pə'liːs  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **监督；管制 (monitor)**  
@@ -6564,12 +5424,8 @@ I like Mr Miner’s speech; it was clear and ________ the point.
 
 
 # ***policeman*** n
----
-英音 pə'liːsmən     美音 pə'liːsmən
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [C] (pl policemen)
+英音 pə'liːsmən     美音 pə'liːsmən  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [C] (pl policemen)
 
 英文释义
 ---
@@ -6578,12 +5434,8 @@ I like Mr Miner’s speech; it was clear and ________ the point.
 
 
 # ***policewoman*** n
----
-英音 pə'liːswʊmən     美音 pə'liːswʊmən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] (pl policewomen)
+英音 pə'liːswʊmən     美音 pə'liːswʊmən  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] (pl policewomen)
 
 英文释义
 ---
@@ -6592,12 +5444,8 @@ I like Mr Miner’s speech; it was clear and ________ the point.
 
 
 # ***policy*** n
----
-英音 'pɒləsi     美音 'pɑːləsi
-
-词频 4 | 口语 1 | 书面 3 | 阅读 3
-
-
+英音 'pɒləsi     美音 'pɑːləsi  
+词频 4 | 口语 1 | 书面 3 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **政策；方针：**  
@@ -6614,12 +5462,8 @@ I like Mr Miner’s speech; it was clear and ________ the point.
 
 
 # ***polish*** vt
----
-英音 'pɒlɪʃ     美音 'pɑːlɪʃ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 'pɒlɪʃ     美音 'pɑːlɪʃ  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **磨光；擦亮：**  
@@ -6647,12 +5491,8 @@ D.folded
   
 
 # ***polished*** adj
----
-英音 'pɒlɪʃt     美音 'pɑːlɪʃt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pɒlɪʃt     美音 'pɑːlɪʃt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **优雅的, 精致的**  
@@ -6660,12 +5500,8 @@ D.folded
 
 
 # ***polite*** adj
----
-英音 pə'laɪt     美音 pə'laɪt
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 pə'laɪt     美音 pə'laɪt  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **有礼貌的；有教养的【反: impolite / rude】；客套的：**  
@@ -6696,12 +5532,8 @@ After knocking _________ (礼貌地) at the door, the applicant entered the offi
   
 
 # ***political*** adj
----
-英音 pə'lɪtɪkl     美音 pə'lɪtɪkl
-
-词频 4 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 pə'lɪtɪkl     美音 pə'lɪtɪkl  
+词频 4 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **政治的；政治上的：**  
@@ -6712,12 +5544,8 @@ After knocking _________ (礼貌地) at the door, the applicant entered the offi
 
 
 # ***politician*** n
----
-英音 ˌpɒlə'tɪʃn     美音 ˌpɑːlə'tɪʃn
-
-词频 1 | 口语 0 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 ˌpɒlə'tɪʃn     美音 ˌpɑːlə'tɪʃn  
+词频 1 | 口语 0 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6726,12 +5554,8 @@ After knocking _________ (礼貌地) at the door, the applicant entered the offi
 
 
 # ***politics*** n
----
-英音 'pɒlətɪks     美音 'pɑːlətɪks
-
-词频 3 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'pɒlətɪks     美音 'pɑːlətɪks  
+词频 3 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **政治；政治学；政治活动：**  
@@ -6753,12 +5577,8 @@ After knocking _________ (礼貌地) at the door, the applicant entered the offi
 politics单复数同形，指政治学、政治制度时视为单数，指政治见解时常用作复数。
 
 # ***pollute*** vt
----
-英音 pə'luːt     美音 pə'luːt
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pə'luːt     美音 pə'luːt  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **弄脏；污染：**  
@@ -6776,12 +5596,8 @@ politics单复数同形，指政治学、政治制度时视为单数，指政治
 
 
 # ***polluted*** adj
----
-英音 pə'luːtɪd     美音 pə'luːtɪd
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pə'luːtɪd     美音 pə'luːtɪd  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **受到污染的**  
@@ -6789,12 +5605,8 @@ politics单复数同形，指政治学、政治制度时视为单数，指政治
 
 
 # ***pollution*** n
----
-英音 pə'luːʃn     美音 pə'luːʃn
-
-词频 4 | 口语 0 | 书面 2 | 阅读 0
-
-用法点拨  [U]
+英音 pə'luːʃn     美音 pə'luːʃn  
+词频 4 | 口语 0 | 书面 2 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -6818,12 +5630,8 @@ This switch has decreased ________ (pollute) in the country’s major lakes and 
   
 
 # ***polyphony*** n
----
-英音 pə'lɪfəni     美音 pə'lɪfəni
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pə'lɪfəni     美音 pə'lɪfəni  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **复调音乐（作品）**  
@@ -6831,12 +5639,8 @@ This switch has decreased ________ (pollute) in the country’s major lakes and 
 
 
 # ***pompom*** n
----
-英音 'pɒmpɒm     美音 'pɑːmpɑːm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pɒmpɒm     美音 'pɑːmpɑːm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（拉拉队队员用的）彩色塑料线球，绒球**  
@@ -6844,12 +5648,8 @@ This switch has decreased ________ (pollute) in the country’s major lakes and 
 
 
 # ***pond*** n
----
-英音 pɒnd     美音 pɑːnd
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 pɒnd     美音 pɑːnd  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6858,12 +5658,8 @@ This switch has decreased ________ (pollute) in the country’s major lakes and 
 
 
 # ***pool*** n
----
-英音 puːl     美音 puːl
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 puːl     美音 puːl  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6872,12 +5668,8 @@ This switch has decreased ________ (pollute) in the country’s major lakes and 
 
 
 # ***poor*** adj
----
-英音 pɔː(r); pʊə     美音 pɔːr
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 pɔː(r); pʊə     美音 pɔːr  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **贫穷的；贫困的；贫乏的**  
@@ -6923,12 +5715,8 @@ It is difficult to figure out a global population of polar bears as much of the 
   
 
 # ***pop*** adj
----
-英音 pɒp     美音 pɑːp
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pɒp     美音 pɑːp  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **通俗的；流行的：**  
@@ -6939,12 +5727,8 @@ It is difficult to figure out a global population of polar bears as much of the 
 
 
 # ***pop*** n
----
-英音 pɒp     美音 pɑːp
-
-词频 3 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [U]
+英音 pɒp     美音 pɑːp  
+词频 3 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -6953,12 +5737,8 @@ It is difficult to figure out a global population of polar bears as much of the 
 
 
 # ***pop*** v
----
-英音 pɒp     美音 pɑːp
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pɒp     美音 pɑːp  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **vi & vt (使) 发出砰砰声；突然出现：**  
@@ -6977,12 +5757,8 @@ It is difficult to figure out a global population of polar bears as much of the 
 
 
 # ***popcorn*** n
----
-英音 'pɒpkɔːn     美音 'pɑːpkɔːrn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'pɒpkɔːn     美音 'pɑːpkɔːrn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -6991,12 +5767,8 @@ It is difficult to figure out a global population of polar bears as much of the 
 
 
 # ***popular*** adj  重难点词汇
----
-英音 'pɒpjələ(r)     美音 'pɑːpjələr
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 'pɒpjələ(r)     美音 'pɑːpjələr  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **流行的；受欢迎的**  
@@ -7038,12 +5810,8 @@ This magazine is very popular ________ young people, who like its content and st
   
 
 # ***popularity*** n
----
-英音 ˌpɒpju'lærəti     美音 ˌpɑːpju'lærəti
-
-词频 4 | 口语 0 | 书面 0 | 阅读 3
-
-用法点拨  [U]
+英音 ˌpɒpju'lærəti     美音 ˌpɑːpju'lærəti  
+词频 4 | 口语 0 | 书面 0 | 阅读 3  用法点拨  [U]
 
 英文释义
 ---
@@ -7060,12 +5828,8 @@ This magazine is very popular ________ young people, who like its content and st
 
 
 # ***popularize*** vt
----
 英音 'pɒpjələraɪz     
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **普及；使流行；使通俗化**  
@@ -7073,12 +5837,8 @@ This magazine is very popular ________ young people, who like its content and st
 
 
 # ***population*** n  重难点词汇
----
-英音 ˌpɒpju'leɪʃn     美音 ˌpɑːpju'leɪʃn
-
-词频 4 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 ˌpɒpju'leɪʃn     美音 ˌpɑːpju'leɪʃn  
+词频 4 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -7121,12 +5881,8 @@ D.are growing
   
 
 # ***porcelain*** n
----
-英音 'pɔːsəlɪn     美音 'pɔːrsəlɪn
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pɔːsəlɪn     美音 'pɔːrsəlɪn  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **瓷器**  
@@ -7134,12 +5890,8 @@ D.are growing
 
 
 # ***pork*** n
----
-英音 pɔːk     美音 pɔːrk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 pɔːk     美音 pɔːrk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -7148,12 +5900,8 @@ D.are growing
 
 
 # ***porridge*** n
----
-英音 'pɒrɪdʒ     美音 'pɔːrɪdʒ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'pɒrɪdʒ     美音 'pɔːrɪdʒ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -7162,12 +5910,8 @@ D.are growing
 
 
 # ***port*** n
----
-英音 pɔːt     美音 pɔːrt
-
-词频 3 | 口语 0 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 pɔːt     美音 pɔːrt  
+词频 3 | 口语 0 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -7176,12 +5920,8 @@ D.are growing
 
 
 # ***portable*** adj
----
-英音 'pɔːtəbl     美音 'pɔːrtəbl
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pɔːtəbl     美音 'pɔːrtəbl  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **便于携带的；手提式的；轻便的：**  
@@ -7192,12 +5932,8 @@ D.are growing
 
 
 # ***porter*** n
----
-英音 'pɔːtə(r)     美音 'pɔːrtər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'pɔːtə(r)     美音 'pɔːrtər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -7206,12 +5942,8 @@ D.are growing
 
 
 # ***portrait*** n
----
-英音 'pɔːtreɪt     美音 'pɔːrtrət
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pɔːtreɪt     美音 'pɔːrtrət  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **画像；肖像；人像**  
@@ -7219,12 +5951,8 @@ D.are growing
 
 
 # ***pose*** vi
----
-英音 pəʊz     美音 poʊz
-
-词频 1 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 pəʊz     美音 poʊz  
+词频 1 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **摆好姿势；佯装：**  
@@ -7236,12 +5964,8 @@ D.are growing
 
 
 # ***pose*** n
----
-英音 pəʊz     美音 poʊz
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 pəʊz     美音 poʊz  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -7250,12 +5974,8 @@ D.are growing
 
 
 # ***position*** n  重难点词汇
----
-英音 pə'zɪʃn     美音 pə'zɪʃn
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 pə'zɪʃn     美音 pə'zɪʃn  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **位置；方位；(恰当或正确的) 位置：**  
@@ -7342,12 +6062,8 @@ From their ________ (位置) on the top of the TV Tower, visitors can have a bet
   
 
 # ***position*** v  重难点词汇
----
-英音 pə'zɪʃn     美音 pə'zɪʃn
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pə'zɪʃn     美音 pə'zɪʃn  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **放置；安放：**  
@@ -7359,12 +6075,8 @@ From their ________ (位置) on the top of the TV Tower, visitors can have a bet
 
 
 # ***positive*** adj
----
-英音 'pɒzətɪv     美音 'pɑːzətɪv
-
-词频 4 | 口语 2 | 书面 2 | 阅读 3
-
-
+英音 'pɒzətɪv     美音 'pɑːzətɪv  
+词频 4 | 口语 2 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **正面的；积极乐观的；有益的**  
@@ -7403,12 +6115,8 @@ From their ________ (位置) on the top of the TV Tower, visitors can have a bet
 
 
 # ***possess*** vt
----
-英音 pə'zes     美音 pə'zes
-
-词频 3 | 口语 0 | 书面 1 | 阅读 2
-
-用法点拨  [正式用语] [不用于进行时]
+英音 pə'zes     美音 pə'zes  
+词频 3 | 口语 0 | 书面 1 | 阅读 2  用法点拨  [正式用语] [不用于进行时]
 
 英文释义
 ---
@@ -7424,12 +6132,8 @@ to have or own sth：
 
 
 # ***possession*** n
----
-英音 pə'zeʃn     美音 pə'zeʃn
-
-词频 3 | 口语 0 | 书面 1 | 阅读 2
-
-
+英音 pə'zeʃn     美音 pə'zeʃn  
+词频 3 | 口语 0 | 书面 1 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **拥有；占有：**  
@@ -7481,12 +6185,8 @@ Technical progress would put our firm in ________ (possess) of the home market.
   
 
 # ***possibility*** n
----
-英音 ˌpɒsə'bɪləti     美音 ˌpɑːsə'bɪləti
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 ˌpɒsə'bɪləti     美音 ˌpɑːsə'bɪləti  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **可能性；可能：**  
@@ -7527,12 +6227,8 @@ There is no possibility ________ Bob can win the first prize in the match.
   
 
 # ***possible*** adj
----
-英音 'pɒsəbl     美音 'pɑːsəbl
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'pɒsəbl     美音 'pɑːsəbl  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **可能的**  
@@ -7617,12 +6313,8 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
   
 
 # ***possibly*** adv
----
-英音 'pɒsəbli     美音 'pɑːsəbli
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 'pɒsəbli     美音 'pɑːsəbli  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **可能；也许(maybe / perhaps)：**  
@@ -7659,12 +6351,8 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 
 
 # ***post*** n
----
-英音 pəʊst     美音 poʊst
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [U]
+英音 pəʊst     美音 poʊst  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -7680,12 +6368,8 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 
 
 # ***post*** vt
----
-英音 pəʊst     美音 poʊst
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 pəʊst     美音 poʊst  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **邮寄 (AmE mail)：**  
@@ -7698,12 +6382,8 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 
 
 # ***post*** n
----
-英音 poʊst     美音 pəʊst
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 poʊst     美音 pəʊst  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -7721,12 +6401,8 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 
 
 # ***post*** vt
----
-英音 pəʊst     美音 poʊst
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 pəʊst     美音 poʊst  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **张贴；宣布；发布：**  
@@ -7744,12 +6420,8 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 
 
 # ***post*** n
----
-英音 pəʊst     美音 poʊst
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 pəʊst     美音 poʊst  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -7772,12 +6444,8 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 
 
 # ***post*** vt
----
-英音 pəʊst     美音 poʊst
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 pəʊst     美音 poʊst  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **任命；派驻**  
@@ -7788,12 +6456,8 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 
 
 # ***post-impressionist*** adj
----
-英音 pəʊst ɪm'preʃənɪst     美音 poʊst ɪm'preʃənɪst
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pəʊst ɪm'preʃənɪst     美音 poʊst ɪm'preʃənɪst  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **后印象派的**  
@@ -7801,12 +6465,8 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 
 
 # ***post-impressionist*** n
----
-英音 pəʊst ɪm'preʃənɪst     美音 poʊst ɪm'preʃənɪst
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] 
+英音 pəʊst ɪm'preʃənɪst     美音 poʊst ɪm'preʃənɪst  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] 
 
 英文释义
 ---
@@ -7815,12 +6475,8 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 
 
 # ***postage*** n
----
-英音 'pəʊstɪdʒ     美音 'poʊstɪdʒ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'pəʊstɪdʒ     美音 'poʊstɪdʒ  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -7832,12 +6488,8 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 
 
 # ***postcard*** n
----
-英音 'pəʊstkɑːd     美音 'poʊstkɑːrd
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'pəʊstkɑːd     美音 'poʊstkɑːrd  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -7846,12 +6498,8 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 
 
 # ***postcode*** n
----
-英音 'pəʊstkəʊd     美音 'poʊstkoʊd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U] & [C]
+英音 'pəʊstkəʊd     美音 'poʊstkoʊd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U] & [C]
 
 英文释义
 ---
@@ -7860,12 +6508,8 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 
 
 # ***poster*** n
----
-英音 'pəʊstə(r)     美音 'poʊstər
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'pəʊstə(r)     美音 'poʊstər  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -7874,12 +6518,8 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 
 
 # ***postman*** n
----
-英音 'pəʊstmən     美音 'poʊstmən
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] (pl postmen)
+英音 'pəʊstmən     美音 'poʊstmən  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] (pl postmen)
 
 英文释义
 ---
@@ -7888,12 +6528,8 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 
 
 # ***postpone*** vt
----
-英音 pə'spəʊn     美音 poʊ'spoʊn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pə'spəʊn     美音 poʊ'spoʊn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **使延迟；使延期 (put off / back)：**  
@@ -7910,12 +6546,8 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 
 
 # ***posture*** n
----
-英音 'pɒstʃə(r)     美音 'pɑːstʃər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'pɒstʃə(r)     美音 'pɑːstʃər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -7924,12 +6556,8 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 
 
 # ***pot*** n
----
-英音 pɒt     美音 pɑːt
-
-词频 2 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 pɒt     美音 pɑːt  
+词频 2 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -7947,12 +6575,8 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 
 
 # ***potassium*** n
----
-英音 pə'tæsiəm     美音 pə'tæsiəm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pə'tæsiəm     美音 pə'tæsiəm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **钾**  
@@ -7960,12 +6584,8 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 
 
 # ***potato*** n
----
-英音 pə'teɪtəʊ     美音 pə'teɪtoʊ
-
-词频 2 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U] (pl potatoes)
+英音 pə'teɪtəʊ     美音 pə'teɪtoʊ  
+词频 2 | 口语 2 | 书面 0 | 阅读 0  用法点拨  [C] & [U] (pl potatoes)
 
 英文释义
 ---
@@ -7974,12 +6594,8 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 
 
 # ***potential*** adj
----
-英音 pə'tenʃl     美音 pə'tenʃl
-
-词频 4 | 口语 1 | 书面 2 | 阅读 3
-
-
+英音 pə'tenʃl     美音 pə'tenʃl  
+词频 4 | 口语 1 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **可能的 (possible)；潜在的：**  
@@ -7998,12 +6614,8 @@ likely to become a parcicular type of person or thong in the future:
 potentially  /pə'tenʃəli/ adv 
 
 # ***potential*** n
----
-英音 pə'tenʃl     美音 pə'tenʃl
-
-词频 4 | 口语 0 | 书面 1 | 阅读 3
-
-用法点拨  [U]
+英音 pə'tenʃl     美音 pə'tenʃl  
+词频 4 | 口语 0 | 书面 1 | 阅读 3  用法点拨  [U]
 
 英文释义
 ---
@@ -8019,12 +6631,8 @@ potentially  /pə'tenʃəli/ adv
 
 
 # ***pottery*** n
----
-英音 'pɒtəri     美音 'pɑːtəri
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'pɒtəri     美音 'pɑːtəri  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -8033,12 +6641,8 @@ potentially  /pə'tenʃəli/ adv
 
 
 # ***pound*** n
----
-英音 paʊnd     美音 paʊnd
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 paʊnd     美音 paʊnd  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -8047,12 +6651,8 @@ potentially  /pə'tenʃəli/ adv
 
 
 # ***pour*** v
----
-英音 pɔː(r)     美音 pɔːr
-
-词频 3 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 pɔː(r)     美音 pɔːr  
+词频 3 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **倒；注；灌：**  
@@ -8090,12 +6690,8 @@ potentially  /pə'tenʃəli/ adv
 
 
 # ***poutine*** n
----
-英音 puːˈtɪn     美音 puːˈtɪn
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 puːˈtɪn     美音 puːˈtɪn  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **肉汁乳酪薯条 (加拿大一种食品)**  
@@ -8103,12 +6699,8 @@ potentially  /pə'tenʃəli/ adv
 
 
 # ***poverty*** n
----
-英音 'pɒvəti     美音 'pɑːvərti
-
-词频 3 | 口语 0 | 书面 1 | 阅读 3
-
-用法点拨  [U]
+英音 'pɒvəti     美音 'pɑːvərti  
+词频 3 | 口语 0 | 书面 1 | 阅读 3  用法点拨  [U]
 
 英文释义
 ---
@@ -8124,12 +6716,8 @@ potentially  /pə'tenʃəli/ adv
 
 
 # ***powder*** n
----
-英音 'paʊdə(r)     美音 'paʊdər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'paʊdə(r)     美音 'paʊdər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -8141,12 +6729,8 @@ potentially  /pə'tenʃəli/ adv
 
 
 # ***powder-free*** adj
----
-英音 'paʊdəfriː     美音 'paʊdərfriː
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'paʊdəfriː     美音 'paʊdərfriː  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **无需洗衣粉的**  
@@ -8154,12 +6738,8 @@ potentially  /pə'tenʃəli/ adv
 
 
 # ***power*** n  重难点词汇
----
-英音 'paʊə(r)     美音 'paʊər
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'paʊə(r)     美音 'paʊər  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **能力；[可用复数] (生理) 机能：**  
@@ -8242,12 +6822,8 @@ potentially  /pə'tenʃəli/ adv
 
 
 # ***power*** vt  重难点词汇
----
-英音 'paʊə(r)     美音 'paʊər
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'paʊə(r)     美音 'paʊər  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **驱动；推动：**  
@@ -8258,12 +6834,8 @@ potentially  /pə'tenʃəli/ adv
 
 
 # ***power-free*** adj
----
-英音 'paʊəfriː     美音 'paʊəfriː
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'paʊəfriː     美音 'paʊəfriː  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **不用电的**  
@@ -8271,12 +6843,8 @@ potentially  /pə'tenʃəli/ adv
 
 
 # ***powerful*** adj
----
-英音 'paʊəfl     美音 'paʊərfl
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 'paʊəfl     美音 'paʊərfl  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **强壮的；强健的：**  
@@ -8311,12 +6879,8 @@ having a strong effect：
 powerfully  /'paʊəfəli/ adv 
 
 # ***practical*** adj
----
-英音 'præktɪkl     美音 'præktɪkl
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 'præktɪkl     美音 'præktɪkl  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(事物) 实际的；实践的：**  
@@ -8349,12 +6913,8 @@ When we plan our vacation, mother often offers ________ (practice) suggestions.
   
 
 # ***practically*** adv
----
-英音 'præktɪkli     美音 'præktɪkli
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'præktɪkli     美音 'præktɪkli  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[口语] 几乎；差不多：**  
@@ -8372,12 +6932,8 @@ When we plan our vacation, mother often offers ________ (practice) suggestions.
 
 
 # ***practice*** n  重难点词汇
----
-英音 'præktɪs     美音 'præktɪs
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 'præktɪs     美音 'præktɪs  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(反复) 训练；练习：**  
@@ -8438,12 +6994,8 @@ the usual or expected way of doing sth; a habit or custom：
 
 
 # ***practice*** v
----
-英音 'præktɪs     美音 'præktɪs
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  vt & vi
+英音 'præktɪs     美音 'præktɪs  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  用法点拨  vt & vi
 
 英文释义
 ---
@@ -8473,12 +7025,8 @@ As a new driver, I have to practise ________ (park) the car in my small garage a
   
 
 # ***practise*** v
----
-英音 'præktɪs     美音 'præktɪs
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  vt & vi
+英音 'præktɪs     美音 'præktɪs  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  用法点拨  vt & vi
 
 英文释义
 ---
@@ -8508,12 +7056,8 @@ As a new driver, I have to practise ________ (park) the car in my small garage a
   
 
 # ***practitioner*** n
----
-英音 præk'tɪʃənə(r)     美音 præk'tɪʃənər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 præk'tɪʃənə(r)     美音 præk'tɪʃənər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（尤指医学或法律界的）从业人员**  
@@ -8521,12 +7065,8 @@ As a new driver, I have to practise ________ (park) the car in my small garage a
 
 
 # ***praise*** vt
----
-英音 'preɪz     美音 'preɪz
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'preɪz     美音 'preɪz  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **赞扬；称赞：**  
@@ -8548,12 +7088,8 @@ The Smiths are praised _________ the way they bring up their children.
   
 
 # ***praise*** n
----
-英音 'preɪz     美音 'preɪz
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 'preɪz     美音 'preɪz  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U]赞扬；表扬：**  
@@ -8578,12 +7114,8 @@ The Smiths are praised _________ the way they bring up their children.
 
 
 # ***pray*** v
----
-英音 preɪ     美音 preɪ
-
-词频 1 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  vt & vi
+英音 preɪ     美音 preɪ  
+词频 1 | 口语 1 | 书面 1 | 阅读 0  用法点拨  vt & vi
 
 英文释义
 ---
@@ -8595,12 +7127,8 @@ The Smiths are praised _________ the way they bring up their children.
 
 
 # ***prayer*** n
----
-英音 preə(r)     美音 prer
-
-词频 1 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 preə(r)     美音 prer  
+词频 1 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **祈祷 (的内容)；祈祷文：**  
@@ -8617,12 +7145,8 @@ The Smiths are praised _________ the way they bring up their children.
 
 
 # ***precious*** adj
----
-英音 'preʃəs     美音 'preʃəs
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'preʃəs     美音 'preʃəs  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **宝贵的；珍贵的：**  
@@ -8637,12 +7161,8 @@ The Smiths are praised _________ the way they bring up their children.
 
 
 # ***precise*** adj
----
-英音 prɪ'saɪs     美音 prɪ'saɪs
-
-词频 1 | 口语 0 | 书面 1 | 阅读 1
-
-
+英音 prɪ'saɪs     美音 prɪ'saɪs  
+词频 1 | 口语 0 | 书面 1 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **精确的；准确的；确切的 (exact)：**  
@@ -8670,12 +7190,8 @@ precisely  /prɪ'saɪsli/ adv
 
 
 # ***precisely*** adv
----
-英音 prɪ'saɪsli     美音 prɪ'saɪsli
-
-词频 1 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 prɪ'saɪsli     美音 prɪ'saɪsli  
+词频 1 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. **精确地；确切地 (exactly)；恰好：**  
@@ -8687,12 +7203,8 @@ precisely  /prɪ'saɪsli/ adv
 
 
 # ***predict*** vt
----
-英音 prɪ'dɪkt     美音 prɪ'dɪkt
-
-词频 4 | 口语 0 | 书面 1 | 阅读 3
-
-
+英音 prɪ'dɪkt     美音 prɪ'dɪkt  
+词频 4 | 口语 0 | 书面 1 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **预言；预计 (forecast)：**  
@@ -8728,12 +7240,8 @@ No matter how carefully you plan your finances, no one can ________ (预测) whe
   
 
 # ***prediction*** n
----
-英音 prɪ'dɪkʃn     美音 prɪ'dɪkʃn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 prɪ'dɪkʃn     美音 prɪ'dɪkʃn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -8742,12 +7250,8 @@ No matter how carefully you plan your finances, no one can ________ (预测) whe
 
 
 # ***prefer*** vt  重难点词汇
----
-英音 prɪ'fɜː(r)     美音 prɪ'fɜːr
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  (preferred, preferred)
+英音 prɪ'fɜː(r)     美音 prɪ'fɜːr  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  用法点拨  (preferred, preferred)
 
 英文释义
 ---
@@ -8809,12 +7313,8 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
   
 
 # ***preference*** n
----
-英音 'prefrəns     美音 'prefrəns
-
-词频 2 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 'prefrəns     美音 'prefrəns  
+词频 2 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **偏爱；优先 (权)：**  
@@ -8836,12 +7336,8 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
 
 
 # ***prefer…to…*** 
----
 
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **喜欢……多于……**  
@@ -8852,12 +7348,8 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
 
 
 # ***pregnant*** adj
----
-英音 'preɡnənt     美音 'preɡnənt
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'preɡnənt     美音 'preɡnənt  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **怀孕的；怀胎的：**  
@@ -8868,12 +7360,8 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
 
 
 # ***prehistoric*** adj
----
-英音 ˌpriːhɪ'stɒrɪk     美音 ˌpriːhɪ'stɔːrɪk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌpriːhɪ'stɒrɪk     美音 ˌpriːhɪ'stɔːrɪk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **有文字记载以前的；史前的**  
@@ -8881,12 +7369,8 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
 
 
 # ***prejudice*** n
----
-英音 'predʒudɪs     美音 'predʒudɪs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U] & [C]
+英音 'predʒudɪs     美音 'predʒudɪs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U] & [C]
 
 英文释义
 ---
@@ -8902,12 +7386,8 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
 
 
 # ***prejudice*** vt
----
-英音 'predʒudɪs     美音 'predʒudɪs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'predʒudɪs     美音 'predʒudɪs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **使怀有（或形成）偏见**  
@@ -8915,12 +7395,8 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
 
 
 # ***premier*** n
----
-英音 'premiə(r)     美音 prɪ'mɪr
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'premiə(r)     美音 prɪ'mɪr  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -8929,12 +7405,8 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
 
 
 # ***premier*** adj
----
-英音 'premiə(r)     美音 prɪ'mɪr
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'premiə(r)     美音 prɪ'mɪr  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **首要的；最成功的：**  
@@ -8942,12 +7414,8 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
 
 
 # ***premiere*** n
----
-英音 'premieə(r)     美音 prɪ'mɪr
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'premieə(r)     美音 prɪ'mɪr  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **首次公演, 公映**  
@@ -8955,12 +7423,8 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
 
 
 # ***preparation*** n
----
-英音 ˌprepə'reɪʃn     美音 ˌprepə'reɪʃn
-
-词频 3 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 ˌprepə'reɪʃn     美音 ˌprepə'reɪʃn  
+词频 3 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **准备；预备：**  
@@ -8996,12 +7460,8 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
 
 
 # ***prepare*** v  重难点词汇
----
-英音 prɪ'peə(r)     美音 prɪ'per
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  vt & vi
+英音 prɪ'peə(r)     美音 prɪ'per  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  vt & vi
 
 英文释义
 ---
@@ -9047,12 +7507,8 @@ to make yourself ready to do sth or for sth that you expect to happen：
 
 
 # ***prepared*** adj
----
-英音 prɪ'peəd     美音 prɪ'perd
-
-词频 4 | 口语 2 | 书面 0 | 阅读 0
-
-
+英音 prɪ'peəd     美音 prɪ'perd  
+词频 4 | 口语 2 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **准备好的；有所准备的：**  
@@ -9078,12 +7534,8 @@ to make yourself ready to do sth or for sth that you expect to happen：
 
 
 # ***preposition*** n
----
-英音 ˌprepə'zɪʃn     美音 ˌprepə'zɪʃn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌprepə'zɪʃn     美音 ˌprepə'zɪʃn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **介词**  
@@ -9091,12 +7543,8 @@ to make yourself ready to do sth or for sth that you expect to happen：
 
 
 # ***prescription*** n
----
-英音 prɪ'skrɪpʃn     美音 prɪ'skrɪpʃn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 prɪ'skrɪpʃn     美音 prɪ'skrɪpʃn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -9108,12 +7556,8 @@ to make yourself ready to do sth or for sth that you expect to happen：
 
 
 # ***presence*** n
----
-英音 'prezns     美音 'prezns
-
-词频 2 | 口语 1 | 书面 2 | 阅读 2
-
-用法点拨  [U]
+英音 'prezns     美音 'prezns  
+词频 2 | 口语 1 | 书面 2 | 阅读 2  用法点拨  [U]
 
 英文释义
 ---
@@ -9135,12 +7579,8 @@ to make yourself ready to do sth or for sth that you expect to happen：
 
 
 # ***present*** n  重难点词汇
----
-英音 'preznt     美音 'preznt
-
-词频 5 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 'preznt     美音 'preznt  
+词频 5 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -9157,12 +7597,8 @@ to make yourself ready to do sth or for sth that you expect to happen：
 
 
 # ***present*** vt  重难点词汇
----
-英音 prɪ'zent     美音 prɪ'zent
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 prɪ'zent     美音 prɪ'zent  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **颁发；授予；赠送**  
@@ -9217,12 +7653,8 @@ to show or describe sth / sb in a particular way：
 presenter /prɪ'zentə(r)/ n [C]
 
 # ***present*** n  重难点词汇
----
-英音 'preznt     美音 'preznt
-
-词频 5 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [常用the present]
+英音 'preznt     美音 'preznt  
+词频 5 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [常用the present]
 
 英文释义
 ---
@@ -9254,12 +7686,8 @@ presenter /prɪ'zentə(r)/ n [C]
 
 
 # ***present*** adj  重难点词汇
----
-英音 'preznt     美音 'preznt
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'preznt     美音 'preznt  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **现在的；如今的：**  
@@ -9289,12 +7717,8 @@ presenter /prɪ'zentə(r)/ n [C]
 presently /'prezntli/ adv 
 
 # ***present-day*** adj
----
-英音 ˌpreznt'deɪ     美音 ˌpreznt'deɪ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌpreznt'deɪ     美音 ˌpreznt'deɪ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **当今的, 现代的**  
@@ -9302,12 +7726,8 @@ presently /'prezntli/ adv
 
 
 # ***presentation*** n
----
-英音 ˌprezn'teɪʃn     美音 ˌpriːzen'teɪʃn
-
-词频 2 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 ˌprezn'teɪʃn     美音 ˌpriːzen'teɪʃn  
+词频 2 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **介绍；展示：**  
@@ -9325,12 +7745,8 @@ presently /'prezntli/ adv
 
 
 # ***presenter*** n
----
-英音 prɪ'zentə(r)     美音 prɪ'zentər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 prɪ'zentə(r)     美音 prɪ'zentər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **节目主持人**  
@@ -9338,12 +7754,8 @@ presently /'prezntli/ adv
 
 
 # ***preservation*** n
----
-英音 ˌprezə'veɪʃn     美音 ˌprezər'veɪʃn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌprezə'veɪʃn     美音 ˌprezər'veɪʃn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **维护；保存**  
@@ -9351,12 +7763,8 @@ presently /'prezntli/ adv
 
 
 # ***preserve*** vt
----
-英音 prɪ'zɜːv     美音 prɪ'zɜːrv
-
-词频 2 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 prɪ'zɜːv     美音 prɪ'zɜːrv  
+词频 2 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **保护；保存 (save)：**  
@@ -9385,12 +7793,8 @@ preservation /ˌprezə'veɪʃn/ n [U]
   
 
 # ***preserve*** n
----
-英音 prɪ'zɜːv     美音 prɪ'zɜːrv
-
-词频 2 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 prɪ'zɜːv     美音 prɪ'zɜːrv  
+词频 2 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. **保护区**  
@@ -9398,12 +7802,8 @@ preservation /ˌprezə'veɪʃn/ n [U]
 
 
 # ***president*** n
----
-英音 'prezɪdənt     美音 'prezɪdənt
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'prezɪdənt     美音 'prezɪdənt  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -9419,12 +7819,8 @@ presidential /ˌprezɪ'denʃl/ adj
 
 
 # ***press*** v
----
-英音 pres     美音 pres
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-用法点拨  vt & vi
+英音 pres     美音 pres  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  用法点拨  vt & vi
 
 英文释义
 ---
@@ -9466,12 +7862,8 @@ He ________ (按下) the button and the doorbell rang.
   
 
 # ***press*** n
----
-英音 pres     美音 pres
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 pres     美音 pres  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -9500,12 +7892,8 @@ He ________ (按下) the button and the doorbell rang.
 
 
 # ***pressure*** n
----
-英音 'preʃə(r)     美音 'preʃər
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'preʃə(r)     美音 'preʃər  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **挤压；(物理学) 压力；压强：**  
@@ -9534,12 +7922,8 @@ He ________ (按下) the button and the doorbell rang.
 
 
 # ***pretend*** v
----
-英音 prɪ'tend     美音 prɪ'tend
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  vt & vi
+英音 prɪ'tend     美音 prɪ'tend  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  用法点拨  vt & vi
 
 英文释义
 ---
@@ -9568,12 +7952,8 @@ Miss Harper closed her eyes and ________ to be asleep.
   
 
 # ***pretty*** adj
----
-英音 'prɪti     美音 'prɪti
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 'prɪti     美音 'prɪti  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **漂亮的；美丽的：**  
@@ -9584,12 +7964,8 @@ Miss Harper closed her eyes and ________ to be asleep.
 
 
 # ***pretty*** adv
----
-英音 'prɪti     美音 'prɪti
-
-词频 4 | 口语 3 | 书面 1 | 阅读 0
-
-
+英音 'prɪti     美音 'prɪti  
+词频 4 | 口语 3 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[口语] 相当；很：**  
@@ -9609,12 +7985,8 @@ Miss Harper closed her eyes and ________ to be asleep.
 四者都有“相当”之意。
 
 # ***prevent*** vt
----
-英音 prɪ'vent     美音 prɪ'vent
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 prɪ'vent     美音 prɪ'vent  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **阻止；预防；防止：**  
@@ -9644,12 +8016,8 @@ prevention /prɪ'venʃn/ n [U]
 
 
 # ***preview*** vt
----
-英音 'priːvjuː     美音 'priːvjuː
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'priːvjuː     美音 'priːvjuː  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **预习；预看；预演：**  
@@ -9660,12 +8028,8 @@ prevention /prɪ'venʃn/ n [U]
 
 
 # ***preview*** n
----
-英音 'priːvjuː     美音 'priːvjuː
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'priːvjuː     美音 'priːvjuː  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -9674,12 +8038,8 @@ prevention /prɪ'venʃn/ n [U]
 
 
 # ***previous*** adj
----
-英音 'priːviəs     美音 'priːviəs
-
-词频 3 | 口语 3 | 书面 3 | 阅读 3
-
-
+英音 'priːviəs     美音 'priːviəs  
+词频 3 | 口语 3 | 书面 3 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **以前的；先前的：**  
@@ -9708,12 +8068,8 @@ prevention /prɪ'venʃn/ n [U]
 previously /'priːviəsli/ adv 
 
 # ***price*** n
----
-英音 praɪs     美音 praɪs
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 praɪs     美音 praɪs  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **价格；价钱：**  
@@ -9742,12 +8098,8 @@ previously /'priːviəsli/ adv
 
 
 # ***price*** vt
----
-英音 praɪs     美音 praɪs
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [常用于被动语态] 
+英音 praɪs     美音 praɪs  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [常用于被动语态] 
 
 英文释义
 ---
@@ -9760,12 +8112,8 @@ previously /'priːviəsli/ adv
 
 
 # ***priceless*** adj
----
-英音 'praɪsləs     美音 'praɪsləs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'praɪsləs     美音 'praɪsləs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **无价的；贵重的：**  
@@ -9778,12 +8126,8 @@ previously /'priːviəsli/ adv
 
 
 # ***pride*** n
----
-英音 praɪd     美音 praɪd
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 praɪd     美音 praɪd  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **自豪；骄傲：**  
@@ -9844,12 +8188,8 @@ Rebecca was the ________ (骄傲) of her family.
   
 
 # ***priest*** n
----
-英音 priːst     美音 priːst
-
-词频 1 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 priːst     美音 priːst  
+词频 1 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -9858,12 +8198,8 @@ Rebecca was the ________ (骄傲) of her family.
 
 
 # ***primary*** adj
----
-英音 'praɪməri     美音 'praɪmeri
-
-词频 3 | 口语 2 | 书面 2 | 阅读 3
-
-
+英音 'praɪməri     美音 'praɪmeri  
+词频 3 | 口语 2 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **最重要的；基本的；主要的 (main / prime)：**  
@@ -9892,12 +8228,8 @@ In those days, our ________ (主要的) concern was to provide people who were s
   
 
 # ***prime*** adj
----
-英音 praɪm     美音 praɪm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [只用于名词前]
+英音 praɪm     美音 praɪm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [只用于名词前]
 
 英文释义
 ---
@@ -9906,12 +8238,8 @@ In those days, our ________ (主要的) concern was to provide people who were s
 
 
 # ***prime*** n
----
-英音 praɪm     美音 praɪm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 praɪm     美音 praɪm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **盛年；鼎盛时期**  
@@ -9919,12 +8247,8 @@ In those days, our ________ (主要的) concern was to provide people who were s
 
 
 # ***primitive*** adj
----
-英音 'prɪmətɪv     美音 'prɪmətɪv
-
-词频 2 | 口语 0 | 书面 0 | 阅读 2
-
-
+英音 'prɪmətɪv     美音 'prɪmətɪv  
+词频 2 | 口语 0 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **原始的；远古的：**  
@@ -9941,12 +8265,8 @@ In those days, our ________ (主要的) concern was to provide people who were s
 
 
 # ***prince*** n
----
-英音 prɪns     美音 prɪns
-
-词频 2 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 prɪns     美音 prɪns  
+词频 2 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -9955,12 +8275,8 @@ In those days, our ________ (主要的) concern was to provide people who were s
 
 
 # ***princess*** n
----
-英音 ˌprɪn'ses     美音 ˌprɪn'ses
-
-词频 1 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 ˌprɪn'ses     美音 ˌprɪn'ses  
+词频 1 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -9969,12 +8285,8 @@ In those days, our ________ (主要的) concern was to provide people who were s
 
 
 # ***principal*** n
----
-英音 'prɪnsəpl     美音 'prɪnsəpl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 1
-
-用法点拨  [C]
+英音 'prɪnsəpl     美音 'prɪnsəpl  
+词频 1 | 口语 0 | 书面 0 | 阅读 1  用法点拨  [C]
 
 英文释义
 ---
@@ -9983,12 +8295,8 @@ In those days, our ________ (主要的) concern was to provide people who were s
 
 
 # ***principle*** n
----
-英音 'prɪnsəpl     美音 'prɪnsəpl
-
-词频 3 | 口语 2 | 书面 3 | 阅读 1
-
-
+英音 'prɪnsəpl     美音 'prɪnsəpl  
+词频 3 | 口语 2 | 书面 3 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **原理；原则**  
@@ -10054,12 +8362,8 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
   
 
 # ***print*** v
----
-英音 prɪnt     美音 prɪnt
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 prɪnt     美音 prɪnt  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **打印；印刷：**  
@@ -10095,12 +8399,8 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
 
 
 # ***print*** n
----
-英音 prɪnt     美音 prɪnt
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [U]
+英音 prɪnt     美音 prɪnt  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -10126,12 +8426,8 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
 
 
 # ***printer*** n
----
-英音 'prɪntə(r)     美音 'prɪntər
-
-词频 1 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 'prɪntə(r)     美音 'prɪntər  
+词频 1 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -10140,12 +8436,8 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
 
 
 # ***printing*** n
----
-英音 'prɪntɪŋ     美音 'prɪntɪŋ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'prɪntɪŋ     美音 'prɪntɪŋ  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **印刷；印刷术：**  
@@ -10165,12 +8457,8 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
 
 
 # ***prior*** 
----
-英音 'praɪə(r)     美音 'praɪər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'praɪə(r)     美音 'praɪər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **[正式用语] [只用于名词前]先前的；早前的**  
@@ -10185,12 +8473,8 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
 
 
 # ***priority*** n
----
-英音 praɪ'ɒrəti     美音 praɪ'ɔːrəti
-
-词频 2 | 口语 2 | 书面 2 | 阅读 1
-
-
+英音 praɪ'ɒrəti     美音 praɪ'ɔːrəti  
+词频 2 | 口语 2 | 书面 2 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **[C] 优先事项**  
@@ -10212,12 +8496,8 @@ sth that is more important or that you must do before anything else：
 
 
 # ***prison*** n
----
-英音 'prɪzn     美音 'prɪzn
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'prɪzn     美音 'prɪzn  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -10242,12 +8522,8 @@ sth that is more important or that you must do before anything else：
 
 
 # ***prisoner*** n
----
-英音 'prɪznə(r)     美音 'prɪznər
-
-词频 3 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'prɪznə(r)     美音 'prɪznər  
+词频 3 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -10259,12 +8535,8 @@ sth that is more important or that you must do before anything else：
 
 
 # ***privacy*** n
----
-英音 'prɪvəsi     美音 'praɪvəsi
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'prɪvəsi     美音 'praɪvəsi  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **隐私；私密**  
@@ -10272,12 +8544,8 @@ sth that is more important or that you must do before anything else：
 
 
 # ***private*** adj
----
-英音 'praɪvət     美音 'praɪvət
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'praɪvət     美音 'praɪvət  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **私人 (用) 的；个人的；私有的**  
@@ -10304,12 +8572,8 @@ sth that is more important or that you must do before anything else：
 
 
 # ***private*** n
----
-英音 'praɪvət     美音 'praɪvət
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'praɪvət     美音 'praɪvət  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -10328,12 +8592,8 @@ sth that is more important or that you must do before anything else：
 
 
 # ***privately*** adv
----
-英音 'praɪvətli     美音 'praɪvətli
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'praɪvətli     美音 'praɪvətli  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **私下地；私立地**  
@@ -10341,12 +8601,8 @@ sth that is more important or that you must do before anything else：
 
 
 # ***privilege*** n
----
-英音 'prɪvəlɪdʒ     美音 'prɪvəlɪdʒ
-
-词频 1 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 'prɪvəlɪdʒ     美音 'prɪvəlɪdʒ  
+词频 1 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **特权；优待：**  
@@ -10364,12 +8620,8 @@ sth that is more important or that you must do before anything else：
 
 
 # ***privileged*** adj
----
-英音 'prɪvəlɪdʒd     美音 'prɪvəlɪdʒd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'prɪvəlɪdʒd     美音 'prɪvəlɪdʒd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **荣幸的**  
@@ -10377,12 +8629,8 @@ sth that is more important or that you must do before anything else：
 
 
 # ***prize*** n
----
-英音 praɪz     美音 praɪz
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 praɪz     美音 praɪz  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -10400,12 +8648,8 @@ sth that is more important or that you must do before anything else：
 
 
 # ***probable*** adj
----
-英音 'prɒbəbl     美音 'prɑːbəbl
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'prɒbəbl     美音 'prɑːbəbl  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **很可能的：**  
@@ -10424,12 +8668,8 @@ sth that is more important or that you must do before anything else：
 probability /ˌprɒbə'bɪləti/ n 
 
 # ***probably*** adv
----
-英音 'prɒbəbli     美音 'prɑːbəbli
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'prɒbəbli     美音 'prɑːbəbli  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **很可能；大概：**  
@@ -10447,12 +8687,8 @@ probability /ˌprɒbə'bɪləti/ n
 
 
 # ***probe*** n
----
-英音 prəʊb     美音 proʊb
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 prəʊb     美音 proʊb  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **宇宙探测器；航天探测器**  
@@ -10460,12 +8696,8 @@ probability /ˌprɒbə'bɪləti/ n
 
 
 # ***problem*** n
----
-英音 'prɒbləm     美音 'prɑːbləm
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'prɒbləm     美音 'prɑːbləm  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -10525,12 +8757,8 @@ probability /ˌprɒbə'bɪləti/ n
   
 
 # ***problem-solving*** adj
----
 
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **问题解决的**  
@@ -10538,12 +8766,8 @@ probability /ˌprɒbə'bɪləti/ n
 
 
 # ***procedure*** n
----
-英音 prə'siːdʒə(r)     美音 prə'siːdʒər
-
-词频 2 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 prə'siːdʒə(r)     美音 prə'siːdʒər  
+词频 2 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -10561,12 +8785,8 @@ probability /ˌprɒbə'bɪləti/ n
 
 
 # ***proceed*** vi
----
-英音 prə'siːd     美音 proʊ'siːd
-
-词频 2 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [正式用语]
+英音 prə'siːd     美音 proʊ'siːd  
+词频 2 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [正式用语]
 
 英文释义
 ---
@@ -10575,12 +8795,8 @@ probability /ˌprɒbə'bɪləti/ n
 
 
 # ***process*** n
----
-英音 'prəʊses     美音 'prɑːses
-
-词频 4 | 口语 3 | 书面 3 | 阅读 3
-
-用法点拨  [C]
+英音 'prəʊses     美音 'prɑːses  
+词频 4 | 口语 3 | 书面 3 | 阅读 3  用法点拨  [C]
 
 英文释义
 ---
@@ -10616,12 +8832,8 @@ probability /ˌprɒbə'bɪləti/ n
 
 
 # ***process*** vt
----
-英音 'prəʊses     美音 'prɑːses
-
-词频 4 | 口语 0 | 书面 0 | 阅读 3
-
-
+英音 'prəʊses     美音 'prɑːses  
+词频 4 | 口语 0 | 书面 0 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **加工：**  
@@ -10653,12 +8865,8 @@ D.download
   
 
 # ***produce*** vt
----
-英音 prə'djuːs     美音 prə'duːs
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 prə'djuːs     美音 prə'duːs  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **产生；引起**  
@@ -10704,12 +8912,8 @@ to make, write etc. sth to be bought, used or enjoyed by people：
 producer /prə'djuːsə(r)/ n 
 
 # ***produce*** n
----
-英音 'prɒdjuːs     美音 'prɑːduːs
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'prɒdjuːs     美音 'prɑːduːs  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -10722,12 +8926,8 @@ producer /prə'djuːsə(r)/ n
 
 
 # ***producer*** n
----
-英音 prə'djuːsə(r)     美音 prə'duːsər
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 prə'djuːsə(r)     美音 prə'duːsər  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -10736,12 +8936,8 @@ producer /prə'djuːsə(r)/ n
 
 
 # ***product*** n
----
-英音 'prɒdʌkt     美音 'prɑːdʌkt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'prɒdʌkt     美音 'prɑːdʌkt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **产品；制品：**  
@@ -10767,12 +8963,8 @@ producer /prə'djuːsə(r)/ n
 productive /prə'dʌktɪv/ adj 
 
 # ***production*** n
----
-英音 prə'dʌkʃn     美音 prə'dʌkʃn
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 prə'dʌkʃn     美音 prə'dʌkʃn  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 生产；制造：**  
@@ -10800,12 +8992,8 @@ productive /prə'dʌktɪv/ adj
 
 
 # ***profession*** n
----
-英音 prə'feʃn     美音 prə'feʃn
-
-词频 3 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 prə'feʃn     美音 prə'feʃn  
+词频 3 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -10821,12 +9009,8 @@ productive /prə'dʌktɪv/ adj
 
 
 # ***professional*** adj
----
-英音 prə'feʃənl     美音 prə'feʃənl
-
-词频 4 | 口语 2 | 书面 3 | 阅读 3
-
-
+英音 prə'feʃənl     美音 prə'feʃənl  
+词频 4 | 口语 2 | 书面 3 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **职业的；专业的：**  
@@ -10840,12 +9024,8 @@ productive /prə'dʌktɪv/ adj
 
 
 # ***professional*** n
----
-英音 prə'feʃənl     美音 prə'feʃənl
-
-词频 4 | 口语 0 | 书面 1 | 阅读 3
-
-用法点拨  [C]
+英音 prə'feʃənl     美音 prə'feʃənl  
+词频 4 | 口语 0 | 书面 1 | 阅读 3  用法点拨  [C]
 
 英文释义
 ---
@@ -10858,12 +9038,8 @@ productive /prə'dʌktɪv/ adj
 
 
 # ***professor*** n
----
-英音 prə'fesə(r)     美音 prə'fesər
-
-词频 5 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 prə'fesə(r)     美音 prə'fesər  
+词频 5 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -10876,12 +9052,8 @@ productive /prə'dʌktɪv/ adj
 用作称呼时，可略写作Prof.。
 
 # ***profile*** n
----
-英音 'prəʊfaɪl     美音 'proʊfaɪl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'prəʊfaɪl     美音 'proʊfaɪl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **[C]侧面 (像)；外形；轮 廓；简介；概况**  
@@ -10889,12 +9061,8 @@ productive /prə'dʌktɪv/ adj
 
 
 # ***profit*** n
----
-英音 'prɒfɪt     美音 'prɑːfɪt
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'prɒfɪt     美音 'prɑːfɪt  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **利润；赢利**  
@@ -10915,12 +9083,8 @@ productive /prə'dʌktɪv/ adj
 
 
 # ***profit*** v
----
-英音 'prɒfɪt     美音 'prɑːfɪt
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  vt & vi
+英音 'prɒfɪt     美音 'prɑːfɪt  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  vt & vi
 
 英文释义
 ---
@@ -10940,12 +9104,8 @@ productive /prə'dʌktɪv/ adj
 profitable /'prɒfɪtəbl/ adj 
 
 # ***profound*** adj
----
-英音 prə'faʊnd     美音 prə'faʊnd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 prə'faʊnd     美音 prə'faʊnd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **(影响) 深刻的; 极大的**  
@@ -10953,12 +9113,8 @@ profitable /'prɒfɪtəbl/ adj
 
 
 # ***profoundly*** adv
----
-英音 prə'faʊndli     美音 prə'faʊndli
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 prə'faʊndli     美音 prə'faʊndli  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **深深地，极度地**  
@@ -10966,12 +9122,8 @@ profitable /'prɒfɪtəbl/ adj
 
 
 # ***program*** n
----
-英音 'prəʊɡræm     美音 'proʊɡræm
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'prəʊɡræm     美音 'proʊɡræm  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -11008,12 +9160,8 @@ profitable /'prɒfɪtəbl/ adj
 
 
 # ***program*** vt
----
-英音 'prəʊɡræm     美音 'proʊɡræm
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'prəʊɡræm     美音 'proʊɡræm  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **计划；安排；[program] 编程**  
@@ -11025,12 +9173,8 @@ profitable /'prɒfɪtəbl/ adj
 programmer /'prəʊɡræmə(r)/ n [C] 
 
 # ***programme*** n
----
-英音 'prəʊɡræm     美音 'proʊɡræm
-
-词频 5 | 口语 0 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'prəʊɡræm     美音 'proʊɡræm  
+词频 5 | 口语 0 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -11071,12 +9215,8 @@ programmer /'prəʊɡræmə(r)/ n [C]
 
 
 # ***programme*** vt
----
-英音 'prəʊɡræm     美音 'proʊɡræm
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'prəʊɡræm     美音 'proʊɡræm  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **计划；安排；[program] 编程**  
@@ -11089,12 +9229,8 @@ programmer /'prəʊɡræmə(r)/ n [C]
 programming /'prəʊɡræmɪŋ/ n 
 
 # ***programmer*** n
----
-英音 'prəʊɡræmə(r)     美音 'proʊɡræmər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'prəʊɡræmə(r)     美音 'proʊɡræmər  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -11103,12 +9239,8 @@ programming /'prəʊɡræmɪŋ/ n
 
 
 # ***programming*** n
----
-英音 'prəʊɡræmɪŋ     美音 'proʊɡræmɪŋ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'prəʊɡræmɪŋ     美音 'proʊɡræmɪŋ  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（计算机）编程**  
@@ -11116,12 +9248,8 @@ programming /'prəʊɡræmɪŋ/ n
 
 
 # ***progress*** n
----
-英音 'prəʊɡres     美音 'prɑːɡres
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [U]
+英音 'prəʊɡres     美音 'prɑːɡres  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -11157,12 +9285,8 @@ programming /'prəʊɡræmɪŋ/ n
 
 
 # ***progress*** vi
----
-英音 prə'ɡres     美音 prə'ɡres
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 prə'ɡres     美音 prə'ɡres  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **前进；进展：**  
@@ -11173,12 +9297,8 @@ programming /'prəʊɡræmɪŋ/ n
 
 
 # ***progressive*** adj
----
-英音 prə'ɡresɪv     美音 prə'ɡresɪv
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 prə'ɡresɪv     美音 prə'ɡresɪv  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *低义频：* **进步的；先进的：**  
@@ -11195,12 +9315,8 @@ programming /'prəʊɡræmɪŋ/ n
 
 
 # ***prohibit*** vt
----
-英音 prə'hɪbɪt     美音 prə'hɪbɪt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 prə'hɪbɪt     美音 prə'hɪbɪt  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **[正式用语] [常用于被动语态] 禁止 (ban / forbid)：**  
@@ -11220,12 +9336,8 @@ programming /'prəʊɡræmɪŋ/ n
 prohibition /ˌprəʊɪ'bɪʃn/ n 
 
 # ***project*** n
----
-英音 'prɒdʒekt     美音 'prɑːdʒekt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 3
-
-用法点拨  [C]
+英音 'prɒdʒekt     美音 'prɑːdʒekt  
+词频 5 | 口语 3 | 书面 3 | 阅读 3  用法点拨  [C]
 
 英文释义
 ---
@@ -11253,12 +9365,8 @@ a carefully planned piece of work to get information about sth, to build sth, to
 
 
 # ***project*** vt
----
-英音 prə'dʒekt     美音 prə'dʒekt
-
-词频 5 | 口语 0 | 书面 0 | 阅读 3
-
-
+英音 prə'dʒekt     美音 prə'dʒekt  
+词频 5 | 口语 0 | 书面 0 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **规划；预计；放映：**  
@@ -11269,12 +9377,8 @@ a carefully planned piece of work to get information about sth, to build sth, to
 
 
 # ***prolong*** vt
----
-英音 prə'lɒŋ     美音 prə'lɔːŋ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 prə'lɒŋ     美音 prə'lɔːŋ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **延长**  
@@ -11282,12 +9386,8 @@ a carefully planned piece of work to get information about sth, to build sth, to
 
 
 # ***prom*** n
----
-英音 prɒm     美音 prɑːm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 prɒm     美音 prɑːm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（美）（常在学年末举行的）高中生的正式舞会**  
@@ -11295,12 +9395,8 @@ a carefully planned piece of work to get information about sth, to build sth, to
 
 
 # ***promise*** n  重难点词汇
----
-英音 'prɒmɪs     美音 'prɑːmɪs
-
-词频 5 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 'prɒmɪs     美音 'prɑːmɪs  
+词频 5 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **诺言；许诺；承诺：**  
@@ -11347,12 +9443,8 @@ The young man made a promise ________ his parents that he would try to earn his 
   
 
 # ***promise*** v  重难点词汇
----
-英音 'prɒmɪs     美音 'prɑːmɪs
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'prɒmɪs     美音 'prɑːmɪs  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **许诺；保证；答应：**  
@@ -11409,12 +9501,8 @@ The new movie promises ________ (be) one of the biggest money-makers of all time
   
 
 # ***promote*** vt
----
-英音 prə'məʊt     美音 prə'moʊt
-
-词频 4 | 口语 1 | 书面 2 | 阅读 3
-
-
+英音 prə'məʊt     美音 prə'moʊt  
+词频 4 | 口语 1 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **促进；推动**  
@@ -11448,12 +9536,8 @@ to help sth to happen or develop (encourage)：
 
 
 # ***promotion*** n
----
-英音 prə'məʊʃn     美音 prə'moʊʃn
-
-词频 2 | 口语 1 | 书面 1 | 阅读 2
-
-
+英音 prə'məʊʃn     美音 prə'moʊʃn  
+词频 2 | 口语 1 | 书面 1 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 晋升；推销；[U] 促进：**  
@@ -11464,12 +9548,8 @@ to help sth to happen or develop (encourage)：
 
 
 # ***prompt*** adj
----
-英音 prɒmpt     美音 prɑːmpt
-
-词频 1 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 prɒmpt     美音 prɑːmpt  
+词频 1 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **及时的；准时的；迅速的**  
@@ -11477,12 +9557,8 @@ to help sth to happen or develop (encourage)：
 
 
 # ***pronounce*** vt
----
-英音 prə'naʊns     美音 prə'naʊns
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 prə'naʊns     美音 prə'naʊns  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **发...的音；读 (音)：**  
@@ -11493,12 +9569,8 @@ to help sth to happen or develop (encourage)：
 
 
 # ***pronunciation*** n
----
-英音 prəˌnʌnsi'eɪʃn     美音 prəˌnʌnsi'eɪʃn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U] & [C]
+英音 prəˌnʌnsi'eɪʃn     美音 prəˌnʌnsi'eɪʃn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U] & [C]
 
 英文释义
 ---
@@ -11510,12 +9582,8 @@ to help sth to happen or develop (encourage)：
 
 
 # ***proof*** n
----
-英音 pruːf     美音 pruːf
-
-词频 3 | 口语 1 | 书面 1 | 阅读 3
-
-用法点拨  [U] & [C]
+英音 pruːf     美音 pruːf  
+词频 3 | 口语 1 | 书面 1 | 阅读 3  用法点拨  [U] & [C]
 
 英文释义
 ---
@@ -11527,12 +9595,8 @@ to help sth to happen or develop (encourage)：
 
 
 # ***proper*** adj
----
-英音 'prɒpə(r)     美音 'prɑːpər
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 'prɒpə(r)     美音 'prɑːpər  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **适当的；恰当的：**  
@@ -11553,12 +9617,8 @@ to help sth to happen or develop (encourage)：
 
 
 # ***properly*** adv
----
-英音 'prɒpəli     美音 'prɑːpərli
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 'prɒpəli     美音 'prɑːpərli  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **正确地；适当地；恰当地 (right)：**  
@@ -11589,12 +9649,8 @@ A dog's eating habit requires regular training before it is ________ (proper) es
   
 
 # ***property*** n
----
-英音 'prɒpəti     美音 'prɑːpərti
-
-词频 3 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  [U]
+英音 'prɒpəti     美音 'prɑːpərti  
+词频 3 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -11610,12 +9666,8 @@ A dog's eating habit requires regular training before it is ________ (proper) es
 
 
 # ***proportion*** n
----
-英音 prə'pɔːʃn     美音 prə'pɔːrʃn
-
-词频 1 | 口语 2 | 书面 2 | 阅读 1
-
-
+英音 prə'pɔːʃn     美音 prə'pɔːrʃn  
+词频 1 | 口语 2 | 书面 2 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **[U] 比例；比；[C] 部分；份额：**  
@@ -11641,12 +9693,8 @@ A dog's eating habit requires regular training before it is ________ (proper) es
 
 
 # ***proposal*** n
----
-英音 prə'pəʊzl     美音 prə'poʊzl
-
-词频 2 | 口语 2 | 书面 3 | 阅读 1
-
-用法点拨  [C] & [U]
+英音 prə'pəʊzl     美音 prə'poʊzl  
+词频 2 | 口语 2 | 书面 3 | 阅读 1  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -11664,12 +9712,8 @@ a formal suggestion or plan：
 
 
 # ***propose*** v  重难点词汇
----
-英音 prə'pəʊz     美音 prə'poʊz
-
-词频 2 | 口语 2 | 书面 2 | 阅读 1
-
-
+英音 prə'pəʊz     美音 prə'poʊz  
+词频 2 | 口语 2 | 书面 2 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **[正式用语] 提出；提议；建议**  
@@ -11707,12 +9751,8 @@ to intend to do sth：
 
 
 # ***proposition*** n
----
-英音 ˌprɒpə'zɪʃn     美音 ˌprɑːpə'zɪʃn
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌprɒpə'zɪʃn     美音 ˌprɑːpə'zɪʃn  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **事业，生意**  
@@ -11720,12 +9760,8 @@ to intend to do sth：
 
 
 # ***prospect*** n
----
-英音 'prɒspekt     美音 'prɑːspekt
-
-词频 1 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'prɒspekt     美音 'prɑːspekt  
+词频 1 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 可能性；预期；设想：**  
@@ -11747,12 +9783,8 @@ to intend to do sth：
 
 
 # ***prosperity*** n
----
-英音 prɒ'sperəti     美音 prɑː'sperəti
-
-词频 1 | 口语 0 | 书面 0 | 阅读 1
-
-用法点拨  [U]
+英音 prɒ'sperəti     美音 prɑː'sperəti  
+词频 1 | 口语 0 | 书面 0 | 阅读 1  用法点拨  [U]
 
 英文释义
 ---
@@ -11764,12 +9796,8 @@ to intend to do sth：
 
 
 # ***prosperous*** adj
----
-英音 'prɒspərəs     美音 'prɑːspərəs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'prɒspərəs     美音 'prɑːspərəs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **繁荣的；兴旺的：**  
@@ -11780,12 +9808,8 @@ to intend to do sth：
 
 
 # ***protect*** v
----
-英音 prə'tekt     美音 prə'tekt
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 prə'tekt     美音 prə'tekt  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **vt & vi 保护；防护：**  
@@ -11829,12 +9853,8 @@ He was wearing dark glasses to ________ (保护) his eyes from the sun.
   
 
 # ***protection*** n
----
-英音 prə'tekʃn     美音 prə'tekʃn
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 prə'tekʃn     美音 prə'tekʃn  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 保护；防护：**  
@@ -11858,12 +9878,8 @@ He was wearing dark glasses to ________ (保护) his eyes from the sun.
 
 
 # ***protective*** adj
----
-英音 prə'tektɪv     美音 prə'tektɪv
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 prə'tektɪv     美音 prə'tektɪv  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **给予保护的；保护的**  
@@ -11871,12 +9887,8 @@ He was wearing dark glasses to ________ (保护) his eyes from the sun.
 
 
 # ***protein*** n
----
-英音 'prəʊtiːn     美音 'proʊtiːn
-
-词频 2 | 口语 0 | 书面 2 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'prəʊtiːn     美音 'proʊtiːn  
+词频 2 | 口语 0 | 书面 2 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -11885,12 +9897,8 @@ He was wearing dark glasses to ________ (保护) his eyes from the sun.
 
 
 # ***protest*** v
----
-英音 prə'test     美音 prə'test
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 prə'test     美音 prə'test  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **抗议；反对：**  
@@ -11905,12 +9913,8 @@ He was wearing dark glasses to ________ (保护) his eyes from the sun.
 
 
 # ***protest*** n
----
-英音 'prəʊtest     美音 'proʊtest
-
-词频 2 | 口语 0 | 书面 1 | 阅读 1
-
-用法点拨  [C] & [U]
+英音 'prəʊtest     美音 'proʊtest  
+词频 2 | 口语 0 | 书面 1 | 阅读 1  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -11923,12 +9927,8 @@ He was wearing dark glasses to ________ (保护) his eyes from the sun.
 
 
 # ***proud*** adj
----
-英音 praʊd     美音 praʊd
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 praʊd     美音 praʊd  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **骄傲的；自豪的**  
@@ -11971,12 +9971,8 @@ Hans Zhang was ________ (自豪的) of himself for not giving up.
   
 
 # ***prove*** v  重难点词汇
----
-英音 pruːv     美音 pruːv
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  (proved, proved / proven)
+英音 pruːv     美音 pruːv  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  用法点拨  (proved, proved / proven)
 
 英文释义
 ---
@@ -12041,12 +10037,8 @@ To ________ (证明) his point, Professor Brown mentioned several other experime
   
 
 # ***proverb*** n
----
-英音 'prɒvɜːb     美音 'prɑːvɜːrb
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'prɒvɜːb     美音 'prɑːvɜːrb  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **谚语**  
@@ -12054,12 +10046,8 @@ To ________ (证明) his point, Professor Brown mentioned several other experime
 
 
 # ***provide*** vt  重难点词汇
----
-英音 prə'vaɪd     美音 prə'vaɪd
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 prə'vaɪd     美音 prə'vaɪd  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **提供；供应：**  
@@ -12111,12 +10099,8 @@ provided /prə'vaɪdɪd/ conj
 
 
 # ***province*** n
----
-英音 'prɒvɪns     美音 'prɑːvɪns
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'prɒvɪns     美音 'prɑːvɪns  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -12129,12 +10113,8 @@ provided /prə'vaɪdɪd/ conj
 provincial /prə'vɪnʃl/ adj 
 
 # ***psychological*** adj
----
-英音 ˌsaɪkə'lɒdʒɪkl     美音 ˌsaɪkə'lɑːdʒɪkl
-
-词频 3 | 口语 0 | 书面 1 | 阅读 3
-
-
+英音 ˌsaɪkə'lɒdʒɪkl     美音 ˌsaɪkə'lɑːdʒɪkl  
+词频 3 | 口语 0 | 书面 1 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **心理 (学) 的**  
@@ -12142,12 +10122,8 @@ provincial /prə'vɪnʃl/ adj
 
 
 # ***psychologically*** adv
----
-英音 ˌsaɪkə'lɒdʒɪkli     美音 ˌsaɪkə'lɒdʒɪkli
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌsaɪkə'lɒdʒɪkli     美音 ˌsaɪkə'lɒdʒɪkli  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **心理 (学) 地；精神上地**  
@@ -12155,12 +10131,8 @@ provincial /prə'vɪnʃl/ adj
 
 
 # ***psychologist*** n
----
-英音 saɪ'kɒlədʒɪst     美音 saɪ'kɑːlədʒɪst
-
-词频 4 | 口语 0 | 书面 0 | 阅读 3
-
-用法点拨  [C]
+英音 saɪ'kɒlədʒɪst     美音 saɪ'kɑːlədʒɪst  
+词频 4 | 口语 0 | 书面 0 | 阅读 3  用法点拨  [C]
 
 英文释义
 ---
@@ -12169,12 +10141,8 @@ provincial /prə'vɪnʃl/ adj
 
 
 # ***psychology*** n
----
-英音 saɪ'kɒlədʒi     美音 saɪ'kɑːlədʒi
-
-词频 3 | 口语 0 | 书面 1 | 阅读 3
-
-用法点拨  [U]
+英音 saɪ'kɒlədʒi     美音 saɪ'kɑːlədʒi  
+词频 3 | 口语 0 | 书面 1 | 阅读 3  用法点拨  [U]
 
 英文释义
 ---
@@ -12183,12 +10151,8 @@ provincial /prə'vɪnʃl/ adj
 
 
 # ***pub*** n
----
-英音 pʌb     美音 pʌb
-
-词频 3 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 pʌb     美音 pʌb  
+词频 3 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -12197,12 +10161,8 @@ provincial /prə'vɪnʃl/ adj
 
 
 # ***public*** adj
----
-英音 'pʌblɪk     美音 'pʌblɪk
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'pʌblɪk     美音 'pʌblɪk  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[只用于名词前] 大众的；公众的：**  
@@ -12243,12 +10203,8 @@ provincial /prə'vɪnʃl/ adj
 
 
 # ***public*** n
----
-英音 'pʌblɪk     美音 'pʌblɪk
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [与the连用]
+英音 'pʌblɪk     美音 'pʌblɪk  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [与the连用]
 
 英文释义
 ---
@@ -12283,12 +10239,8 @@ His daughter is always shy ________ public and she never dares to make a speech 
   
 
 # ***publication*** n
----
-英音 ˌpʌblɪ'keɪʃn     美音 ˌpʌblɪ'keɪʃn
-
-词频 3 | 口语 0 | 书面 2 | 阅读 0
-
-
+英音 ˌpʌblɪ'keɪʃn     美音 ˌpʌblɪ'keɪʃn  
+词频 3 | 口语 0 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 出版；[C] 出版物：**  
@@ -12310,12 +10262,8 @@ His daughter is always shy ________ public and she never dares to make a speech 
 
 
 # ***publish*** v
----
-英音 'pʌblɪʃ     美音 'pʌblɪʃ
-
-词频 5 | 口语 1 | 书面 3 | 阅读 0
-
-
+英音 'pʌblɪʃ     美音 'pʌblɪʃ  
+词频 5 | 口语 1 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **出版；发行：**  
@@ -12343,12 +10291,8 @@ Sue Wood was only nine when her first short story was ________ (出版).
   
 
 # ***publisher*** n
----
-英音 'pʌblɪʃə(r)     美音 'pʌblɪʃər
-
-词频 3 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 'pʌblɪʃə(r)     美音 'pʌblɪʃər  
+词频 3 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -12357,12 +10301,8 @@ Sue Wood was only nine when her first short story was ________ (出版).
 
 
 # ***pudding*** n
----
-英音 'pʊdɪŋ     美音 'pʊdɪŋ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'pʊdɪŋ     美音 'pʊdɪŋ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -12371,12 +10311,8 @@ Sue Wood was only nine when her first short story was ________ (出版).
 
 
 # ***pull*** v
----
-英音 pʊl     美音 pʊl
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  vt & vi
+英音 pʊl     美音 pʊl  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  vt & vi
 
 英文释义
 ---
@@ -12491,12 +10427,8 @@ Sue Wood was only nine when her first short story was ________ (出版).
 
 
 # ***pull*** n
----
-英音 pʊl     美音 pʊl
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 pʊl     美音 pʊl  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -12512,12 +10444,8 @@ Sue Wood was only nine when her first short story was ________ (出版).
 
 
 # ***pulse*** n
----
-英音 pʌls     美音 pʌls
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] [常用单数]
+英音 pʌls     美音 pʌls  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] [常用单数]
 
 英文释义
 ---
@@ -12530,12 +10458,8 @@ Sue Wood was only nine when her first short story was ________ (出版).
 
 
 # ***pulse*** vi
----
-英音 pʌls     美音 pʌls
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pʌls     美音 pʌls  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **强烈而有规律地跳动；搏动**  
@@ -12543,12 +10467,8 @@ Sue Wood was only nine when her first short story was ________ (出版).
 
 
 # ***pump*** n
----
-英音 pʌmp     美音 pʌmp
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 pʌmp     美音 pʌmp  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -12557,12 +10477,8 @@ Sue Wood was only nine when her first short story was ________ (出版).
 
 
 # ***pump*** vt
----
-英音 pʌmp     美音 pʌmp
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 pʌmp     美音 pʌmp  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **抽 (水)；给...打气：**  
@@ -12573,12 +10489,8 @@ Sue Wood was only nine when her first short story was ________ (出版).
 
 
 # ***punchline*** n
----
-英音 'pʌntʃlaɪn     美音 'pʌntʃlaɪn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] [常用单数] 
+英音 'pʌntʃlaɪn     美音 'pʌntʃlaɪn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] [常用单数] 
 
 英文释义
 ---
@@ -12587,12 +10499,8 @@ Sue Wood was only nine when her first short story was ________ (出版).
 
 
 # ***punctual*** adj
----
-英音 'pʌŋktʃuəl     美音 'pʌŋktʃuəl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pʌŋktʃuəl     美音 'pʌŋktʃuəl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **准时的；守时的：(on time)：**  
@@ -12603,12 +10511,8 @@ Sue Wood was only nine when her first short story was ________ (出版).
 
 
 # ***punctuation*** n
----
-英音 ˌpʌŋktʃu'eɪʃn     美音 ˌpʌŋktʃu'eɪʃn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 ˌpʌŋktʃu'eɪʃn     美音 ˌpʌŋktʃu'eɪʃn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -12617,12 +10521,8 @@ Sue Wood was only nine when her first short story was ________ (出版).
 
 
 # ***punish*** vt
----
-英音 'pʌnɪʃ     美音 'pʌnɪʃ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pʌnɪʃ     美音 'pʌnɪʃ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **惩罚；处罚：**  
@@ -12638,12 +10538,8 @@ Sue Wood was only nine when her first short story was ________ (出版).
 
 
 # ***punishment*** n
----
-英音 'pʌnɪʃmənt     美音 'pʌnɪʃmənt
-
-词频 2 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [U] & [C]
+英音 'pʌnɪʃmənt     美音 'pʌnɪʃmənt  
+词频 2 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [U] & [C]
 
 英文释义
 ---
@@ -12659,12 +10555,8 @@ Sue Wood was only nine when her first short story was ________ (出版).
 
 
 # ***pupil*** n
----
-英音 'pjuːpl     美音 'pjuːpl
-
-词频 4 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'pjuːpl     美音 'pjuːpl  
+词频 4 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -12676,12 +10568,8 @@ Sue Wood was only nine when her first short story was ________ (出版).
 
 
 # ***purchase*** vt
----
-英音 'pɜːtʃəs     美音 'pɜːrtʃəs
-
-词频 4 | 口语 0 | 书面 1 | 阅读 3
-
-用法点拨  [正式用语]
+英音 'pɜːtʃəs     美音 'pɜːrtʃəs  
+词频 4 | 口语 0 | 书面 1 | 阅读 3  用法点拨  [正式用语]
 
 英文释义
 ---
@@ -12697,12 +10585,8 @@ Sue Wood was only nine when her first short story was ________ (出版).
 
 
 # ***purchase*** n
----
-英音 'pɜːtʃəs     美音 'pɜːrtʃəs
-
-词频 4 | 口语 0 | 书面 1 | 阅读 3
-
-用法点拨  [U] & [C] [正式用语]
+英音 'pɜːtʃəs     美音 'pɜːrtʃəs  
+词频 4 | 口语 0 | 书面 1 | 阅读 3  用法点拨  [U] & [C] [正式用语]
 
 英文释义
 ---
@@ -12717,12 +10601,8 @@ Sue Wood was only nine when her first short story was ________ (出版).
 
 
 # ***pure*** adj
----
-英音 pjʊə(r)     美音 pjʊr
-
-词频 1 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 pjʊə(r)     美音 pjʊr  
+词频 1 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **纯的；纯粹的：**  
@@ -12761,12 +10641,8 @@ This T-shirt is made of high quality ________ (纯的) cotton.
   
 
 # ***purely*** adv
----
-英音 'pjʊəli     美音 'pjʊrli
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pjʊəli     美音 'pjʊrli  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **完全地, 仅仅**  
@@ -12774,12 +10650,8 @@ This T-shirt is made of high quality ________ (纯的) cotton.
 
 
 # ***purify*** v
----
 英音 'pjʊərɪfaɪ     
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（使）净化；（使）精炼；涤罪**  
@@ -12787,12 +10659,8 @@ This T-shirt is made of high quality ________ (纯的) cotton.
 
 
 # ***purple*** adj
----
-英音 'pɜːpl     美音 'pɜːrpl
-
-词频 2 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 'pɜːpl     美音 'pɜːrpl  
+词频 2 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **紫的；紫红的**  
@@ -12800,12 +10668,8 @@ This T-shirt is made of high quality ________ (纯的) cotton.
 
 
 # ***purple*** n
----
-英音 'pɜːpl     美音 'pɜːrpl
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'pɜːpl     美音 'pɜːrpl  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -12814,12 +10678,8 @@ This T-shirt is made of high quality ________ (纯的) cotton.
 
 
 # ***purpose*** n  重难点词汇
----
-英音 'pɜːpəs     美音 'pɜːrpəs
-
-词频 5 | 口语 2 | 书面 2 | 阅读 3
-
-
+英音 'pɜːpəs     美音 'pɜːrpəs  
+词频 5 | 口语 2 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **目标；目的**  
@@ -12881,12 +10741,8 @@ purposeful /'pɜːpəsfl/ adj
 purposely /'pɜːpəsli/ adv 
 
 # ***purposely*** adv
----
-英音 'pɜːpəsli     美音 'pɜːrpəsli
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pɜːpəsli     美音 'pɜːrpəsli  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **故意地**  
@@ -12894,12 +10750,8 @@ purposely /'pɜːpəsli/ adv
 
 
 # ***purse*** n
----
-英音 pɜːs     美音 pɜːrs
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 pɜːs     美音 pɜːrs  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -12908,12 +10760,8 @@ purposely /'pɜːpəsli/ adv
 
 
 # ***pursue*** vt
----
-英音 pə'sjuː     美音 pər'suː
-
-词频 1 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  [正式用语]
+英音 pə'sjuː     美音 pər'suː  
+词频 1 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [正式用语]
 
 英文释义
 ---
@@ -12936,12 +10784,8 @@ purposely /'pɜːpəsli/ adv
 
 
 # ***push*** v
----
-英音 pʊʃ     美音 pʊʃ
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 pʊʃ     美音 pʊʃ  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **推 (动) 【反:pull】；按下 (press)：**  
@@ -13023,12 +10867,8 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
   
 
 # ***push*** n
----
-英音 pʊʃ     美音 pʊʃ
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 pʊʃ     美音 pʊʃ  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -13048,12 +10888,8 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
 
 
 # ***push-up*** n
----
 
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（especially  NAmE）俯卧撑**  
@@ -13061,12 +10897,8 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
 
 
 # ***put*** vt
----
-英音 pʊt     美音 pʊt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (put, put)
+英音 pʊt     美音 pʊt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (put, put)
 
 英文释义
 ---
@@ -13473,12 +11305,8 @@ Don’t be so discouraged. If you put ________ such feelings, you will do better
   
 
 # ***puzzle*** n
----
-英音 'pʌzl     美音 'pʌzl
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'pʌzl     美音 'pʌzl  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -13490,12 +11318,8 @@ Don’t be so discouraged. If you put ________ such feelings, you will do better
 
 
 # ***puzzle*** vt
----
-英音 'pʌzl     美音 'pʌzl
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pʌzl     美音 'pʌzl  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **使迷惑：**  
@@ -13513,12 +11337,8 @@ Don’t be so discouraged. If you put ________ such feelings, you will do better
 
 
 # ***puzzled*** adj
----
-英音 'pʌzld     美音 'pʌzld
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pʌzld     美音 'pʌzld  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **困惑的；迷惑的：**  
@@ -13529,12 +11349,8 @@ Don’t be so discouraged. If you put ________ such feelings, you will do better
 
 
 # ***puzzling*** adj
----
-英音 'pʌzlɪŋ     美音 'pʌzlɪŋ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'pʌzlɪŋ     美音 'pʌzlɪŋ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **令人困惑的；费解的：**  
@@ -13545,12 +11361,8 @@ Don’t be so discouraged. If you put ________ such feelings, you will do better
 
 
 # ***pyramid*** n
----
-英音 'pɪrəmɪd     美音 'pɪrəmɪd
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'pɪrəmɪd     美音 'pɪrəmɪd  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---

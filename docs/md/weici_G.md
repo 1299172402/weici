@@ -1,12 +1,8 @@
 # Gg
 
 # ***gadget*** n
----
-英音 'ɡædʒɪt     美音 'ɡædʒɪt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡædʒɪt     美音 'ɡædʒɪt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **小巧的装置; 小玩意儿**  
@@ -14,12 +10,8 @@
 
 
 # ***gaily*** adv
----
-英音 'ɡeɪli     美音 'ɡeɪli
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡeɪli     美音 'ɡeɪli  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **快乐地；轻松地**  
@@ -27,12 +19,8 @@
 
 
 # ***gain*** v
----
-英音 ɡeɪn     美音 ɡeɪn
-
-词频 5 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 ɡeɪn     美音 ɡeɪn  
+词频 5 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(使) 获得；赢得**  
@@ -93,12 +81,8 @@ to gradually get more of sth：
 
 
 # ***gain*** n
----
-英音 ɡeɪn     美音 ɡeɪn
-
-词频 5 | 口语 3 | 书面 1 | 阅读 0
-
-
+英音 ɡeɪn     美音 ɡeɪn  
+词频 5 | 口语 3 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 好处；利益； [U] 利润：**  
@@ -130,12 +114,8 @@ to gradually get more of sth：
 
 
 # ***galaxy*** n
----
-英音 'ɡæləksi     美音 'ɡæləksi
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡæləksi     美音 'ɡæləksi  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **星系**  
@@ -143,12 +123,8 @@ to gradually get more of sth：
 
 
 # ***gallery*** n
----
-英音 'ɡæləri     美音 'ɡæləri
-
-词频 4 | 口语 0 | 书面 1 | 阅读 2
-
-用法点拨  [C]
+英音 'ɡæləri     美音 'ɡæləri  
+词频 4 | 口语 0 | 书面 1 | 阅读 2  用法点拨  [C]
 
 英文释义
 ---
@@ -164,12 +140,8 @@ to gradually get more of sth：
 
 
 # ***gallon*** n
----
-英音 'ɡælən     美音 'ɡælən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'ɡælən     美音 'ɡælən  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -178,12 +150,8 @@ to gradually get more of sth：
 
 
 # ***gallop*** v
----
-英音 'ɡæləp     美音 'ɡæləp
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡæləp     美音 'ɡæləp  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（马）飞奔，疾驰**  
@@ -191,12 +159,8 @@ to gradually get more of sth：
 
 
 # ***game*** n
----
-英音 ɡeɪm     美音 ɡeɪm
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 ɡeɪm     美音 ɡeɪm  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -226,12 +190,8 @@ to gradually get more of sth：
 
 
 # ***gang*** n
----
-英音 ɡæŋ     美音 ɡæŋ
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ɡæŋ     美音 ɡæŋ  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -244,12 +204,8 @@ to gradually get more of sth：
 
 
 # ***gap*** n
----
-英音 ɡæp     美音 ɡæp
-
-词频 3 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 ɡæp     美音 ɡæp  
+词频 3 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -274,12 +230,8 @@ to gradually get more of sth：
 
 
 # ***garage*** n
----
-英音 'ɡærɑːʒ;'ɡærɑːdʒ;'ɡærɪːdʒ     美音 ɡə'rɑːʒ;ɡə'rɑːdʒ
-
-词频 3 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'ɡærɑːʒ;'ɡærɑːdʒ;'ɡærɪːdʒ     美音 ɡə'rɑːʒ;ɡə'rɑːdʒ  
+词频 3 | 口语 2 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -288,12 +240,8 @@ to gradually get more of sth：
 
 
 # ***garbage*** n
----
-英音 'ɡɑːbɪdʒ     美音 'ɡɑːrbɪdʒ
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'ɡɑːbɪdʒ     美音 'ɡɑːrbɪdʒ  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -311,12 +259,8 @@ to gradually get more of sth：
 
 
 # ***garden*** n
----
-英音 'ɡɑːdn     美音 'ɡɑːrdn
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'ɡɑːdn     美音 'ɡɑːrdn  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -334,12 +278,8 @@ gardener /'ɡɑːdnə(r)/ n [C]
 gardening /'ɡɑːdnɪŋ/ n [U]
 
 # ***garlic*** n
----
-英音 'ɡɑːlɪk     美音 'ɡɑːrlɪk
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'ɡɑːlɪk     美音 'ɡɑːrlɪk  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -348,12 +288,8 @@ gardening /'ɡɑːdnɪŋ/ n [U]
 
 
 # ***garment*** n
----
-英音 'ɡɑːmənt     美音 'ɡɑːrmənt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'ɡɑːmənt     美音 'ɡɑːrmənt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -366,12 +302,8 @@ gardening /'ɡɑːdnɪŋ/ n [U]
 在日常生活中，表达“一件衣服”用a piece of clothing。
 
 # ***gas*** n
----
-英音 ɡæs     美音 ɡæs
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-用法点拨  (pl gases / gasses)
+英音 ɡæs     美音 ɡæs  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  用法点拨  (pl gases / gasses)
 
 英文释义
 ---
@@ -392,12 +324,8 @@ gardening /'ɡɑːdnɪŋ/ n [U]
 
 
 # ***gate*** n
----
-英音 ɡeɪt     美音 ɡeɪt
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 ɡeɪt     美音 ɡeɪt  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -412,12 +340,8 @@ gardening /'ɡɑːdnɪŋ/ n [U]
 
 
 # ***gather*** v
----
-英音 'ɡæðə(r)     美音 'ɡæðər
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 'ɡæðə(r)     美音 'ɡæðər  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(使) 聚集；(使) 聚拢：**  
@@ -463,12 +387,8 @@ gardening /'ɡɑːdnɪŋ/ n [U]
 gathering /'ɡæðərɪŋ/ n [C]
 
 # ***gatherer*** n
----
-英音 'ɡæðərə(r)     美音 'ɡæðərər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡæðərə(r)     美音 'ɡæðərər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **采集者**  
@@ -476,12 +396,8 @@ gathering /'ɡæðərɪŋ/ n [C]
 
 
 # ***gay*** adj
----
-英音 ɡeɪ     美音 ɡeɪ
-
-词频 1 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 ɡeɪ     美音 ɡeɪ  
+词频 1 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(男) 同性恋的；[已过时] 快乐的；愉快的**  
@@ -489,12 +405,8 @@ gathering /'ɡæðərɪŋ/ n [C]
 
 
 # ***gear*** n
----
-英音 ɡiə(r)     美音 ɡɪr
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  n[C] & [U]
+英音 ɡiə(r)     美音 ɡɪr  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  用法点拨  n[C] & [U]
 
 英文释义
 ---
@@ -503,12 +415,8 @@ gathering /'ɡæðərɪŋ/ n [C]
 
 
 # ***gem*** n
----
-英音 dʒem     美音 dʒem
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 dʒem     美音 dʒem  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **宝石, 珠宝**  
@@ -516,12 +424,8 @@ gathering /'ɡæðərɪŋ/ n [C]
 
 
 # ***gender*** n
----
-英音 ˈdʒendər     美音 ˈdʒendə(r)
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  n [C] & [U]
+英音 ˈdʒendər     美音 ˈdʒendə(r)  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  n [C] & [U]
 
 英文释义
 ---
@@ -530,12 +434,8 @@ gathering /'ɡæðərɪŋ/ n [C]
 
 
 # ***gene*** n
----
-英音 dʒiːn     美音 dʒiːn
-
-词频 2 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 dʒiːn     美音 dʒiːn  
+词频 2 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -544,12 +444,8 @@ gathering /'ɡæðərɪŋ/ n [C]
 
 
 # ***gene-therapy*** n
----
-英音 dʒiːn'θerəpi     美音 dʒiːn'θerəpi
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 dʒiːn'θerəpi     美音 dʒiːn'θerəpi  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **基因疗法**  
@@ -557,12 +453,8 @@ gathering /'ɡæðərɪŋ/ n [C]
 
 
 # ***general*** adj
----
-英音 'dʒenrəl     美音 'dʒenrəl
-
-词频 4 | 口语 3 | 书面 3 | 阅读 3
-
-用法点拨  [常用于名词前]
+英音 'dʒenrəl     美音 'dʒenrəl  
+词频 4 | 口语 3 | 书面 3 | 阅读 3  用法点拨  [常用于名词前]
 
 英文释义
 ---
@@ -634,12 +526,8 @@ ____________ general, the northerners are keen on dumplings while the southerner
   
 
 # ***general*** n
----
-英音 'dʒenrəl     美音 'dʒenrəl
-
-词频 4 | 口语 0 | 书面 0 | 阅读 3
-
-用法点拨  [C]
+英音 'dʒenrəl     美音 'dʒenrəl  
+词频 4 | 口语 0 | 书面 0 | 阅读 3  用法点拨  [C]
 
 英文释义
 ---
@@ -651,12 +539,8 @@ ____________ general, the northerners are keen on dumplings while the southerner
 
 
 # ***generally*** adv
----
-英音 'dʒenrəli     美音 'dʒenrəli
-
-词频 4 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 'dʒenrəli     美音 'dʒenrəli  
+词频 4 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **普遍地；广泛地 (widely)：**  
@@ -697,12 +581,8 @@ ________ (一般来说), the more expensive the camera, the better its quality.
   
 
 # ***generate*** v
----
-英音 ˈdʒenəreit     美音 ˈdʒenəreit
-
-词频 1 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 ˈdʒenəreit     美音 ˈdʒenəreit  
+词频 1 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **产生；创造：**  
@@ -713,12 +593,8 @@ ________ (一般来说), the more expensive the camera, the better its quality.
 
 
 # ***generation*** n
----
-英音 ˌdʒenə'reɪʃn     美音 ˌdʒenə'reɪʃn
-
-词频 4 | 口语 1 | 书面 2 | 阅读 3
-
-
+英音 ˌdʒenə'reɪʃn     美音 ˌdʒenə'reɪʃn  
+词频 4 | 口语 1 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **代；世代；一代人：**  
@@ -747,12 +623,8 @@ ________ (一般来说), the more expensive the camera, the better its quality.
 
 
 # ***generosity*** n
----
-英音 ˌdʒenə'rɒsəti     美音 ˌdʒenə'rɑːsəti
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌdʒenə'rɒsəti     美音 ˌdʒenə'rɑːsəti  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **慷慨，大方**  
@@ -760,12 +632,8 @@ ________ (一般来说), the more expensive the camera, the better its quality.
 
 
 # ***generous*** adj
----
-英音 'dʒenərəs     美音 'dʒenərəs
-
-词频 3 | 口语 0 | 书面 1 | 阅读 1
-
-
+英音 'dʒenərəs     美音 'dʒenərəs  
+词频 3 | 口语 0 | 书面 1 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **慷慨的；大方的：**  
@@ -801,12 +669,8 @@ He didn't selfishly keep for himself the money inherited from his uncle. Instead
   
 
 # ***genetic*** adj
----
-英音 dʒə'netɪk     美音 dʒə'netɪk
-
-词频 3 | 口语 0 | 书面 0 | 阅读 3
-
-
+英音 dʒə'netɪk     美音 dʒə'netɪk  
+词频 3 | 口语 0 | 书面 0 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **基因的；遗传学的：**  
@@ -817,12 +681,8 @@ He didn't selfishly keep for himself the money inherited from his uncle. Instead
 
 
 # ***genetically*** adv
----
-英音 dʒə'netɪkli     美音 dʒə'netɪkli
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 dʒə'netɪkli     美音 dʒə'netɪkli  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **从基因上，与基因相关**  
@@ -830,12 +690,8 @@ He didn't selfishly keep for himself the money inherited from his uncle. Instead
 
 
 # ***genetics*** adj
----
-英音 dʒə'netɪks     美音 dʒə'netɪks
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 dʒə'netɪks     美音 dʒə'netɪks  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **基因的，遗传基因的；遗传学的**  
@@ -843,12 +699,8 @@ He didn't selfishly keep for himself the money inherited from his uncle. Instead
 
 
 # ***genetics*** n
----
-英音 dʒə'netɪks     美音 dʒə'netɪks
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 dʒə'netɪks     美音 dʒə'netɪks  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **遗传学**  
@@ -856,12 +708,8 @@ He didn't selfishly keep for himself the money inherited from his uncle. Instead
 
 
 # ***genius*** n
----
-英音 'dʒiːniəs     美音 'dʒiːniəs
-
-词频 3 | 口语 0 | 书面 0 | 阅读 2
-
-
+英音 'dʒiːniəs     美音 'dʒiːniəs  
+词频 3 | 口语 0 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *低义频：* **[常用单数] 天才；天赋：**  
@@ -876,12 +724,8 @@ He didn't selfishly keep for himself the money inherited from his uncle. Instead
 
 
 # ***gentle*** adj
----
-英音 'dʒentl     美音 'dʒentl
-
-词频 3 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 'dʒentl     美音 'dʒentl  
+词频 3 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(性格) 温和的【反 rough】 ；轻柔的：**  
@@ -899,12 +743,8 @@ He didn't selfishly keep for himself the money inherited from his uncle. Instead
 gently /'dʒentli/ adv 
 
 # ***gentleman*** n
----
-英音 'dʒentlmən     美音 'dʒentlmən
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C] (pl gentlemen)
+英音 'dʒentlmən     美音 'dʒentlmən  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C] (pl gentlemen)
 
 英文释义
 ---
@@ -913,12 +753,8 @@ gently /'dʒentli/ adv
 
 
 # ***genuine*** adj
----
-英音 'dʒenjuɪn     美音 'dʒenjuɪn
-
-词频 1 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 'dʒenjuɪn     美音 'dʒenjuɪn  
+词频 1 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **真 (实) 的；真诚的：**  
@@ -936,12 +772,8 @@ gently /'dʒentli/ adv
 genuinely /'dʒenjuɪnli/ adv 
 
 # ***geographical*** adj
----
-英音 ˌdʒiːə'ɡræfɪkl     美音 ˌdʒiːə'ɡræfɪkl
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌdʒiːə'ɡræfɪkl     美音 ˌdʒiːə'ɡræfɪkl  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(=geographic) 地理 (学) 的**  
@@ -949,12 +781,8 @@ genuinely /'dʒenjuɪnli/ adv
 
 
 # ***geography*** n
----
-英音 dʒi'ɒɡrəfi     美音 dʒi'ɑːɡrəfi
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 dʒi'ɒɡrəfi     美音 dʒi'ɑːɡrəfi  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **地理；地理学**  
@@ -980,12 +808,8 @@ In _________ (地理) lessons we learn about countries and people in them.
   
 
 # ***geologist*** n
----
-英音 dʒi'ɒlədʒɪst     美音 dʒi'ɑːlədʒɪst
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 dʒi'ɒlədʒɪst     美音 dʒi'ɑːlədʒɪst  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -994,12 +818,8 @@ In _________ (地理) lessons we learn about countries and people in them.
 
 
 # ***geology*** n
----
-英音 dʒi'ɒlədʒi     美音 dʒi'ɑːlədʒi
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U] 
+英音 dʒi'ɒlədʒi     美音 dʒi'ɑːlədʒi  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U] 
 
 英文释义
 ---
@@ -1008,12 +828,8 @@ In _________ (地理) lessons we learn about countries and people in them.
 
 
 # ***geometry*** n
----
-英音 dʒi'ɒmətri     美音 dʒi'ɑːmətri
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 dʒi'ɒmətri     美音 dʒi'ɑːmətri  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **几何学；[常用单数] 几何形状**  
@@ -1021,12 +837,8 @@ In _________ (地理) lessons we learn about countries and people in them.
 
 
 # ***germ*** n
----
-英音 dʒɜːrm     美音 dʒɜːrm
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨   [C] 
+英音 dʒɜːrm     美音 dʒɜːrm  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨   [C] 
 
 英文释义
 ---
@@ -1035,12 +847,8 @@ In _________ (地理) lessons we learn about countries and people in them.
 
 
 # ***gesture*** v
----
-英音 'dʒestʃə(r)     美音 'dʒestʃər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 'dʒestʃə(r)     美音 'dʒestʃər  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **做手势；用手势示意：**  
@@ -1059,12 +867,8 @@ In _________ (地理) lessons we learn about countries and people in them.
 
 
 # ***gesture*** n
----
-英音 'dʒestʃə(r)     美音 'dʒestʃər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 'dʒestʃə(r)     美音 'dʒestʃər  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **姿势；手势：**  
@@ -1086,12 +890,8 @@ In _________ (地理) lessons we learn about countries and people in them.
 
 
 # ***get*** vt  重难点词汇
----
-英音 ɡet     美音 ɡet
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (got, got / gotten)
+英音 ɡet     美音 ɡet  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (got, got / gotten)
 
 英文释义
 ---
@@ -1194,12 +994,8 @@ In _________ (地理) lessons we learn about countries and people in them.
   
 
 # ***get*** vi  重难点词汇
----
-英音 ɡet     美音 ɡet
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (got, got / gotten)
+英音 ɡet     美音 ɡet  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (got, got / gotten)
 
 英文释义
 ---
@@ -1571,12 +1367,8 @@ I used to quarrel a lot with my parents, but now we get ________fine.
   
 
 # ***get-together*** n
----
-英音 ɡettəˌɡeðə(r)     美音 ɡet tə'ɡeðər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ɡettəˌɡeðə(r)     美音 ɡet tə'ɡeðər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1588,12 +1380,8 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 
 
 # ***ghost*** n
----
-英音 ɡəʊst     美音 ɡoʊst
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ɡəʊst     美音 ɡoʊst  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1602,12 +1390,8 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 
 
 # ***giant*** n
----
-英音 'dʒaɪənt     美音 'dʒaɪənt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 2
-
-用法点拨  [C]
+英音 'dʒaɪənt     美音 'dʒaɪənt  
+词频 2 | 口语 0 | 书面 0 | 阅读 2  用法点拨  [C]
 
 英文释义
 ---
@@ -1619,12 +1403,8 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 
 
 # ***giant*** adj
----
-英音 'dʒaɪənt     美音 'dʒaɪənt
-
-词频 2 | 口语 1 | 书面 0 | 阅读 2
-
-
+英音 'dʒaɪənt     美音 'dʒaɪənt  
+词频 2 | 口语 1 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **[只用于名词前] 巨大的：**  
@@ -1638,12 +1418,8 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 
 
 # ***gift*** n
----
-英音 ɡɪft     美音 ɡɪft
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 ɡɪft     美音 ɡɪft  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1674,12 +1450,8 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 
 
 # ***gifted*** adj
----
-英音 'ɡɪftɪd     美音 'ɡɪftɪd
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡɪftɪd     美音 'ɡɪftɪd  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **有天赋的；有才华的(talented)：**  
@@ -1690,12 +1462,8 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 
 
 # ***giggle*** vi
----
-英音 'ɡɪɡl     美音 'ɡɪɡl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡɪɡl     美音 'ɡɪɡl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **咯咯地傻笑**  
@@ -1703,12 +1471,8 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 
 
 # ***giraffe*** n
----
-英音 dʒə'rɑːf     美音 dʒə'ræf
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] (pl giraffe / giraffes)
+英音 dʒə'rɑːf     美音 dʒə'ræf  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] (pl giraffe / giraffes)
 
 英文释义
 ---
@@ -1717,12 +1481,8 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 
 
 # ***gird*** v
----
-英音 ɡɜːd     美音 ɡɜːrd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɡɜːd     美音 ɡɜːrd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **围绕**  
@@ -1730,12 +1490,8 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 
 
 # ***girl*** n
----
-英音 ɡɜːl     美音 ɡɜːrl
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 ɡɜːl     美音 ɡɜːrl  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1744,12 +1500,8 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 
 
 # ***girlfriend*** n
----
-英音 ˈgɜ:rlfrend     美音 ˈgɜ:lfrend
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  n [C]
+英音 ˈgɜ:rlfrend     美音 ˈgɜ:lfrend  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  用法点拨  n [C]
 
 英文释义
 ---
@@ -1758,12 +1510,8 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 
 
 # ***give*** v  重难点词汇
----
-英音 ɡɪv     美音 ɡɪv
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  gave, given
+英音 ɡɪv     美音 ɡɪv  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  gave, given
 
 英文释义
 ---
@@ -1975,12 +1723,8 @@ What shall we use for power when all the oil in the world has given__________ ?
   
 
 # ***given*** prep
----
-英音 'ɡɪvn     美音 'ɡɪvn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡɪvn     美音 'ɡɪvn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **考虑到：**  
@@ -2004,12 +1748,8 @@ What shall we use for power when all the oil in the world has given__________ ?
 
 
 # ***given*** adj
----
-英音 'ɡɪvn     美音 'ɡɪvn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡɪvn     美音 'ɡɪvn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[只用于名词前] 特定的；指定的**  
@@ -2029,12 +1769,8 @@ already stated or decided：
 
 
 # ***glacier*** n
----
-英音 'ɡlæsiə(r)     美音 'ɡleɪʃər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'ɡlæsiə(r)     美音 'ɡleɪʃər  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2043,12 +1779,8 @@ already stated or decided：
 
 
 # ***glad*** adj
----
-英音 ɡlæd     美音 ɡlæd
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [无比较级]
+英音 ɡlæd     美音 ɡlæd  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [无比较级]
 
 英文释义
 ---
@@ -2093,12 +1825,8 @@ already stated or decided：
 gladly /'ɡlædli/ adv 
 
 # ***glance*** vi
----
-英音 ɡlɑːns     美音 ɡlæns
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɡlɑːns     美音 ɡlæns  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(粗略地) 看一下；一瞥：**  
@@ -2121,12 +1849,8 @@ gladly /'ɡlædli/ adv
 
 
 # ***glance*** n
----
-英音 ɡlɑːns     美音 ɡlæns
-
-词频 3 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 ɡlɑːns     美音 ɡlæns  
+词频 3 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2147,12 +1871,8 @@ gladly /'ɡlædli/ adv
 
 
 # ***glare*** vi
----
-英音 ɡleə(r)     美音 ɡler
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɡleə(r)     美音 ɡler  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **发出刺眼的光：**  
@@ -2174,12 +1894,8 @@ gladly /'ɡlædli/ adv
 
 
 # ***glare*** n
----
-英音 ɡleə(r)     美音 ɡler
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɡleə(r)     美音 ɡler  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **[常用单数] 刺眼的强光：**  
@@ -2196,12 +1912,8 @@ gladly /'ɡlædli/ adv
 
 
 # ***glass*** n
----
-英音 ɡlɑːs     美音 ɡlæs
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 ɡlɑːs     美音 ɡlæs  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **玻璃；[总称] 玻璃制品：**  
@@ -2229,12 +1941,8 @@ gladly /'ɡlædli/ adv
 
 
 # ***gleam*** n
----
-英音 ɡliːm     美音 ɡliːm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɡliːm     美音 ɡliːm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **亮光，反光**  
@@ -2242,12 +1950,8 @@ gladly /'ɡlædli/ adv
 
 
 # ***global*** adj
----
-英音 'ɡləʊbl     美音 'ɡloʊbl
-
-词频 4 | 口语 0 | 书面 2 | 阅读 0
-
-用法点拨  [通常只用于名词前]：
+英音 'ɡləʊbl     美音 'ɡloʊbl  
+词频 4 | 口语 0 | 书面 2 | 阅读 0  用法点拨  [通常只用于名词前]：
 
 英文释义
 ---
@@ -2271,12 +1975,8 @@ gladly /'ɡlædli/ adv
 
 
 # ***globalize*** vt
----
 英音 'ɡləʊbəlaɪz     
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **使 ... 全球化**  
@@ -2284,12 +1984,8 @@ gladly /'ɡlædli/ adv
 
 
 # ***globe*** n
----
-英音 ɡləʊb     美音 ɡloʊb
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɡləʊb     美音 ɡloʊb  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **球；球状物；地球仪**  
@@ -2306,12 +2002,8 @@ gladly /'ɡlædli/ adv
 
 
 # ***glorious*** adj
----
-英音 'ɡlɔːriəs     美音 'ɡlɔːriəs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡlɔːriəs     美音 'ɡlɔːriəs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **光荣的；辉煌的；壮丽的：**  
@@ -2325,12 +2017,8 @@ gladly /'ɡlædli/ adv
 
 
 # ***glory*** n
----
-英音 'ɡlɔːri     美音 'ɡlɔːri
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡlɔːri     美音 'ɡlɔːri  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **光荣；荣誉**  
@@ -2358,12 +2046,8 @@ fame or honour that you get for achieving sth：
 
 
 # ***glossy*** adj
----
-英音 'ɡlɒsi     美音 'ɡlɑːsi
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡlɒsi     美音 'ɡlɑːsi  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **有光泽的**  
@@ -2371,12 +2055,8 @@ fame or honour that you get for achieving sth：
 
 
 # ***glove*** n
----
-英音 ɡlʌv     美音 ɡlʌv
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ɡlʌv     美音 ɡlʌv  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2389,12 +2069,8 @@ fame or honour that you get for achieving sth：
 
 
 # ***glow*** n
----
-英音 ɡləʊ     美音 ɡloʊ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɡləʊ     美音 ɡloʊ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **n [常用单数] 稳定柔和的光；红晕；激情：**  
@@ -2410,12 +2086,8 @@ fame or honour that you get for achieving sth：
 
 
 # ***glow*** vi
----
-英音 ɡləʊ     美音 ɡloʊ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɡləʊ     美音 ɡloʊ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **vi 发出微弱而稳定的光；(脸等部位) 发热；发红：**  
@@ -2430,12 +2102,8 @@ fame or honour that you get for achieving sth：
 
 
 # ***glowing*** adj
----
-英音 'ɡləʊɪŋ     美音 'ɡloʊɪŋ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡləʊɪŋ     美音 'ɡloʊɪŋ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **炽热的，发光的**  
@@ -2443,12 +2111,8 @@ fame or honour that you get for achieving sth：
 
 
 # ***glue*** vt
----
-英音 ɡluː     美音 ɡluː
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɡluː     美音 ɡluː  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **vt 胶合；粘贴；粘牢 (stick)：**  
@@ -2460,12 +2124,8 @@ fame or honour that you get for achieving sth：
 
 
 # ***glue*** n
----
-英音 ɡluː     美音 ɡluː
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 ɡluː     美音 ɡluː  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 胶 (水)；胶粘物：**  
@@ -2476,12 +2136,8 @@ fame or honour that you get for achieving sth：
 
 
 # ***go*** n  重难点词汇
----
-英音 ɡəʊ     美音 ɡəʊ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 ɡəʊ     美音 ɡəʊ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2505,12 +2161,8 @@ fame or honour that you get for achieving sth：
 
 
 # ***go*** vi  重难点词汇
----
-英音 ɡəʊ     美音 ɡəʊ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (went, gone)
+英音 ɡəʊ     美音 ɡəʊ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (went, gone)
 
 英文释义
 ---
@@ -2993,12 +2645,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
   
 
 # ***goal*** n
----
-英音 ɡəʊl     美音 ɡoʊl
-
-词频 4 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 ɡəʊl     美音 ɡoʊl  
+词频 4 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3028,12 +2676,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 
 # ***goat*** n
----
-英音 ɡəʊt     美音 ɡoʊt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ɡəʊt     美音 ɡoʊt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3042,12 +2686,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 
 # ***god*** n
----
-英音 ɡɒd     美音 ɡɑːd
-
-词频 3 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 ɡɒd     美音 ɡɑːd  
+词频 3 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[God，首字母大写，不与定冠词the连用] 上帝；天主；真主：**  
@@ -3067,12 +2707,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 
 # ***goddess*** n
----
-英音 'ɡɒdes     美音 'ɡɑːdəs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'ɡɒdes     美音 'ɡɑːdəs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3081,12 +2717,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 
 # ***gold*** n
----
-英音 ɡəʊld     美音 ɡoʊld
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 ɡəʊld     美音 ɡoʊld  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **金；黄金制品；金币：**  
@@ -3109,12 +2741,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 
 # ***gold*** adj
----
-英音 ɡəʊld     美音 ɡoʊld
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 ɡəʊld     美音 ɡoʊld  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **金 (制) 的；金色的；黄金般的：**  
@@ -3125,12 +2753,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 
 # ***golden*** adj
----
-英音 'ɡəʊldən     美音 'ɡoʊldən
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 'ɡəʊldən     美音 'ɡoʊldən  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **金的；金 (黄) 色的；美好的；重要的：**  
@@ -3152,12 +2776,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 
 # ***golf*** n
----
-英音 ɡɒlf     美音 ɡɑːlf
-
-词频 2 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [U]
+英音 ɡɒlf     美音 ɡɑːlf  
+词频 2 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -3166,12 +2786,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 
 # ***good*** n
----
-英音 ɡʊd     美音 ɡʊd
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 ɡʊd     美音 ɡʊd  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -3229,12 +2845,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 
 # ***good*** adj
----
-英音 ɡʊd     美音 ɡʊd
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 ɡʊd     美音 ɡʊd  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **好的；高质量的；符合标准的：**  
@@ -3302,12 +2914,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 
 # ***good-looking*** adj
----
-英音 ɡʊd 'lʊkɪŋ     美音 ɡʊd 'lʊkɪŋ
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɡʊd 'lʊkɪŋ     美音 ɡʊd 'lʊkɪŋ  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **好看的；漂亮的**  
@@ -3315,12 +2923,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 
 # ***goodbye*** n
----
-英音 ˌɡʊd'baɪ     美音 ˌɡʊd'baɪ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ˌɡʊd'baɪ     美音 ˌɡʊd'baɪ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3333,12 +2937,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 
 # ***goodbye*** int
----
-英音 ˌɡʊd'baɪ     美音 ˌɡʊd'baɪ
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 ˌɡʊd'baɪ     美音 ˌɡʊd'baɪ  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **再见**  
@@ -3346,12 +2946,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 
 # ***goodness*** n
----
-英音 'ɡʊdnəs     美音 'ɡʊdnəs
-
-词频 3 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'ɡʊdnəs     美音 'ɡʊdnəs  
+词频 3 | 口语 2 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -3368,12 +2964,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 
 # ***goods*** n
----
-英音 ɡʊdz     美音 ɡʊdz
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 ɡʊdz     美音 ɡʊdz  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[复数] 商品；货物：**  
@@ -3387,12 +2979,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 
 # ***goodwill*** n
----
-英音 ˌɡʊd'wɪl     美音 ˌɡʊd'wɪl
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌɡʊd'wɪl     美音 ˌɡʊd'wɪl  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **友好；善意**  
@@ -3400,12 +2988,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 
 # ***goose*** n
----
-英音 ɡuːs     美音 ɡuːs
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] (pl geese)
+英音 ɡuːs     美音 ɡuːs  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] (pl geese)
 
 英文释义
 ---
@@ -3423,12 +3007,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 
 # ***gorge*** n
----
-英音 ɡɔːdʒ     美音 ɡɔːrdʒ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɡɔːdʒ     美音 ɡɔːrdʒ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **峡谷**  
@@ -3436,12 +3016,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 
 # ***gorgeous*** adj
----
-英音 'ɡɔːdʒəs     美音 'ɡɔːrdʒəs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡɔːdʒəs     美音 'ɡɔːrdʒəs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **美丽的；宜人的**  
@@ -3449,12 +3025,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 
 # ***gorilla*** n
----
-英音 ɡə'rɪlə     美音 ɡə'rɪlə
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɡə'rɪlə     美音 ɡə'rɪlə  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **大猩猩**  
@@ -3462,12 +3034,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 
 # ***gosh*** 
----
-英音 ɡɒʃ     美音 ɡɑːʃ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɡɒʃ     美音 ɡɑːʃ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[非正式用语] [表示惊讶] 啊呀**  
@@ -3475,12 +3043,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 
 # ***gospel*** n
----
-英音 'ɡɒspl     美音 'ɡɑːspl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡɒspl     美音 'ɡɑːspl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **福音音乐（通常由黑人歌手有力地大声演唱的基督教歌曲）**  
@@ -3488,12 +3052,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 
 # ***gossip*** vi
----
-英音 'ɡɒsɪp     美音 'ɡɑːsɪp
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡɒsɪp     美音 'ɡɑːsɪp  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **散布流言：**  
@@ -3508,12 +3068,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 
 # ***gossip*** n
----
-英音 'ɡɒsɪp     美音 'ɡɑːsɪp
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U] & [C]
+英音 'ɡɒsɪp     美音 'ɡɑːsɪp  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U] & [C]
 
 英文释义
 ---
@@ -3528,12 +3084,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 
 # ***govern*** v
----
-英音 'ɡʌvn     美音 'ɡʌvərn
-
-词频 2 | 口语 0 | 书面 1 | 阅读 1
-
-
+英音 'ɡʌvn     美音 'ɡʌvərn  
+词频 2 | 口语 0 | 书面 1 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **统治；管理：**  
@@ -3557,12 +3109,8 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 governor /'ɡʌvənə(r)/ n [C] 
 
 # ***government*** n
----
-英音 'ɡʌvənmənt     美音 'ɡʌvərnmənt
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 'ɡʌvənmənt     美音 'ɡʌvərnmənt  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **政府；内阁：**  
@@ -3590,12 +3138,8 @@ government作主语时，如果作为整体看待，谓语动词用单数；如�
 
 
 # ***governor*** n
----
-英音 'ɡʌvənə(r)     美音 'ɡʌvərnər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'ɡʌvənə(r)     美音 'ɡʌvərnər  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3604,12 +3148,8 @@ government作主语时，如果作为整体看待，谓语动词用单数；如�
 
 
 # ***grab*** v
----
-英音 ɡræb     美音 ɡræb
-
-词频 2 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 ɡræb     美音 ɡræb  
+词频 2 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **抓住 (seize)：**  
@@ -3626,12 +3166,8 @@ government作主语时，如果作为整体看待，谓语动词用单数；如�
 
 
 # ***grace*** n
----
-英音 ɡreɪs     美音 ɡreɪs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 ɡreɪs     美音 ɡreɪs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -3654,12 +3190,8 @@ government作主语时，如果作为整体看待，谓语动词用单数；如�
 graceful /'ɡreɪsfl/ adj 
 
 # ***graceful*** adj
----
-英音 'ɡreɪsfl     美音 'ɡreɪsfl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡreɪsfl     美音 'ɡreɪsfl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **优美的；优雅的；得体的：**  
@@ -3670,12 +3202,8 @@ graceful /'ɡreɪsfl/ adj
 
 
 # ***gracious*** int
----
-英音 'ɡreɪʃəs     美音 'ɡreɪʃəs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡreɪʃəs     美音 'ɡreɪʃəs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（表惊讶）天哪！哎呀！**  
@@ -3683,12 +3211,8 @@ graceful /'ɡreɪsfl/ adj
 
 
 # ***graciously*** adv
----
-英音 'ɡreɪʃəsli     美音 'ɡreɪʃəsli
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡreɪʃəsli     美音 'ɡreɪʃəsli  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **优雅地**  
@@ -3696,12 +3220,8 @@ graceful /'ɡreɪsfl/ adj
 
 
 # ***grade*** n
----
-英音 ɡreɪd     美音 ɡreɪd
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 ɡreɪd     美音 ɡreɪd  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3726,12 +3246,8 @@ graceful /'ɡreɪsfl/ adj
 
 
 # ***grade*** vt
----
-英音 ɡreɪd     美音 ɡreɪd
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɡreɪd     美音 ɡreɪd  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **给...分等级 / 评分：**  
@@ -3747,12 +3263,8 @@ graceful /'ɡreɪsfl/ adj
 
 
 # ***gradual*** adj
----
-英音 'ɡrædʒuəl     美音 'ɡrædʒuəl
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡrædʒuəl     美音 'ɡrædʒuəl  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **逐渐的；逐步的；渐进的：**  
@@ -3770,12 +3282,8 @@ graceful /'ɡreɪsfl/ adj
 
 
 # ***gradually*** adv
----
-英音 'ɡrædʒuəli     美音 'ɡrædʒuəli
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 'ɡrædʒuəli     美音 'ɡrædʒuəli  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **逐渐地：**  
@@ -3803,12 +3311,8 @@ You'll ________ (逐渐) get better at it — it's just a question of practice.
   
 
 # ***graduate*** n
----
-英音 'ɡrædʒuət     美音 'ɡrædʒuət
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'ɡrædʒuət     美音 'ɡrædʒuət  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3828,12 +3332,8 @@ You'll ________ (逐渐) get better at it — it's just a question of practice.
 
 
 # ***graduate*** v
----
-英音 'ɡrædʒueɪt     美音 'ɡrædʒueɪt
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡrædʒueɪt     美音 'ɡrædʒueɪt  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **获得学位；毕业：**  
@@ -3855,12 +3355,8 @@ You'll ________ (逐渐) get better at it — it's just a question of practice.
 
 
 # ***graduation*** n
----
-英音 ˌɡrædʒu'eɪʃn     美音 ˌɡrædʒu'eɪʃn
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌɡrædʒu'eɪʃn     美音 ˌɡrædʒu'eɪʃn  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **毕业：**  
@@ -3880,12 +3376,8 @@ You'll ________ (逐渐) get better at it — it's just a question of practice.
 
 
 # ***graffiti*** n
----
-英音 ɡrə'fiːti     美音 ɡrə'fiːti
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɡrə'fiːti     美音 ɡrə'fiːti  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **涂鸦,乱涂乱抹**  
@@ -3893,12 +3385,8 @@ You'll ________ (逐渐) get better at it — it's just a question of practice.
 
 
 # ***grain*** n
----
-英音 ɡreɪn     美音 ɡreɪn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 ɡreɪn     美音 ɡreɪn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -3910,12 +3398,8 @@ You'll ________ (逐渐) get better at it — it's just a question of practice.
 
 
 # ***gram*** n
----
-英音 ɡræm     美音 ɡræm
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ɡræm     美音 ɡræm  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3924,12 +3408,8 @@ You'll ________ (逐渐) get better at it — it's just a question of practice.
 
 
 # ***grammar*** n
----
-英音 'ɡræmə(r)     美音 'ɡræmər
-
-词频 2 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'ɡræmə(r)     美音 'ɡræmər  
+词频 2 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -3945,12 +3425,8 @@ You'll ________ (逐渐) get better at it — it's just a question of practice.
 grammatical /ɡrə'mætɪkl/ adj 
 
 # ***gramophone*** n
----
-英音 'ɡræməfəʊn     美音 'ɡræməfoʊn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡræməfəʊn     美音 'ɡræməfoʊn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **留声机**  
@@ -3958,12 +3434,8 @@ grammatical /ɡrə'mætɪkl/ adj
 
 
 # ***grand*** adj
----
-英音 ɡrænd     美音 ɡrænd
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 ɡrænd     美音 ɡrænd  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **雄伟的；壮丽的；盛大的；宏大的：**  
@@ -3993,12 +3465,8 @@ grammatical /ɡrə'mætɪkl/ adj
 
 
 # ***grandchild*** n
----
-英音 'ɡræntʃaɪld     美音 'ɡræntʃaɪld
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] (pl grandchildren)
+英音 'ɡræntʃaɪld     美音 'ɡræntʃaɪld  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] (pl grandchildren)
 
 英文释义
 ---
@@ -4007,12 +3475,8 @@ grammatical /ɡrə'mætɪkl/ adj
 
 
 # ***granddaughter*** n
----
-英音 'ɡrændɔːtə(r)     美音 'ɡrændɔːtər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'ɡrændɔːtə(r)     美音 'ɡrændɔːtər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4021,12 +3485,8 @@ grammatical /ɡrə'mætɪkl/ adj
 
 
 # ***grandma*** n
----
-英音 'ɡrænmɑː     美音 'ɡrænmɑː
-
-词频 4 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'ɡrænmɑː     美音 'ɡrænmɑː  
+词频 4 | 口语 2 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4035,12 +3495,8 @@ grammatical /ɡrə'mætɪkl/ adj
 
 
 # ***grandpa*** n
----
-英音 'ɡrænpɑː     美音 'ɡrænpɑː
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [ C ]
+英音 'ɡrænpɑː     美音 'ɡrænpɑː  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [ C ]
 
 英文释义
 ---
@@ -4049,12 +3505,8 @@ grammatical /ɡrə'mætɪkl/ adj
 
 
 # ***grandparent*** n
----
-英音 'ɡrænpeərənt     美音 'ɡrænperənt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'ɡrænpeərənt     美音 'ɡrænperənt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4063,12 +3515,8 @@ grammatical /ɡrə'mætɪkl/ adj
 
 
 # ***grandson*** n
----
-英音 'ɡrænsʌn     美音 'ɡrænsʌn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'ɡrænsʌn     美音 'ɡrænsʌn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4077,12 +3525,8 @@ grammatical /ɡrə'mætɪkl/ adj
 
 
 # ***granite*** n
----
-英音 'ɡrænɪt     美音 'ɡrænɪt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡrænɪt     美音 'ɡrænɪt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **花岗岩**  
@@ -4090,12 +3534,8 @@ grammatical /ɡrə'mætɪkl/ adj
 
 
 # ***granny*** n
----
-英音 'ɡræni     美音 'ɡræni
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'ɡræni     美音 'ɡræni  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4104,12 +3544,8 @@ grammatical /ɡrə'mætɪkl/ adj
 
 
 # ***grant*** vt
----
-英音 ɡrɑːnt     美音 ɡrænt
-
-词频 3 | 口语 2 | 书面 2 | 阅读 2
-
-
+英音 ɡrɑːnt     美音 ɡrænt  
+词频 3 | 口语 2 | 书面 2 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **同意；准予；承认：**  
@@ -4138,12 +3574,8 @@ grammatical /ɡrə'mætɪkl/ adj
 
 
 # ***grant*** n
----
-英音 ɡrɑːnt     美音 ɡrænt
-
-词频 3 | 口语 3 | 书面 2 | 阅读 2
-
-用法点拨  [C]
+英音 ɡrɑːnt     美音 ɡrænt  
+词频 3 | 口语 3 | 书面 2 | 阅读 2  用法点拨  [C]
 
 英文释义
 ---
@@ -4159,12 +3591,8 @@ grammatical /ɡrə'mætɪkl/ adj
 
 
 # ***grape*** n
----
-英音 ɡreɪp     美音 ɡreɪp
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ɡreɪp     美音 ɡreɪp  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4177,12 +3605,8 @@ grammatical /ɡrə'mætɪkl/ adj
 
 
 # ***graph*** n
----
-英音 ɡræf;ɡrɑːf     美音 ɡræf
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ɡræf;ɡrɑːf     美音 ɡræf  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4191,12 +3615,8 @@ grammatical /ɡrə'mætɪkl/ adj
 
 
 # ***grasp*** vt
----
-英音 ɡrɑːsp     美音 ɡræsp
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɡrɑːsp     美音 ɡræsp  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **抓住；紧握**  
@@ -4233,12 +3653,8 @@ to understand sth completely：
 
 
 # ***grasp*** n
----
-英音 ɡrɑːsp     美音 ɡræsp
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [常用单数]
+英音 ɡrɑːsp     美音 ɡræsp  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [常用单数]
 
 英文释义
 ---
@@ -4262,12 +3678,8 @@ to understand sth completely：
 
 
 # ***grass*** n
----
-英音 ɡrɑːs     美音 ɡræs
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [U] & [C]
+英音 ɡrɑːs     美音 ɡræs  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [U] & [C]
 
 英文释义
 ---
@@ -4286,12 +3698,8 @@ to understand sth completely：
 
 
 # ***grassland*** n
----
-英音 'ɡrɑːslænd     美音 'ɡræslænd
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'ɡrɑːslænd     美音 'ɡræslænd  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -4300,12 +3708,8 @@ to understand sth completely：
 
 
 # ***grateful*** adj
----
-英音 'ɡreɪtfl     美音 'ɡreɪtfl
-
-词频 3 | 口语 1 | 书面 1 | 阅读 2
-
-
+英音 'ɡreɪtfl     美音 'ɡreɪtfl  
+词频 3 | 口语 1 | 书面 1 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **感激的；感谢的：**  
@@ -4328,12 +3732,8 @@ I'm so grateful________ all those volunteers because they helped my terrible day
   
 
 # ***grave*** n
----
-英音 ɡreiv     美音 ɡreiv
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ɡreiv     美音 ɡreiv  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4342,12 +3742,8 @@ I'm so grateful________ all those volunteers because they helped my terrible day
 
 
 # ***gravity*** n
----
-英音 'ɡrævəti     美音 'ɡrævəti
-
-词频 3 | 口语 0 | 书面 0 | 阅读 2
-
-用法点拨  [U]
+英音 'ɡrævəti     美音 'ɡrævəti  
+词频 3 | 口语 0 | 书面 0 | 阅读 2  用法点拨  [U]
 
 英文释义
 ---
@@ -4368,12 +3764,8 @@ I'm so grateful________ all those volunteers because they helped my terrible day
 
 
 # ***gravy*** n
----
-英音 'ɡreɪvi     美音 'ɡreɪvi
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡreɪvi     美音 'ɡreɪvi  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **(调味用的) 肉汁**  
@@ -4381,12 +3773,8 @@ I'm so grateful________ all those volunteers because they helped my terrible day
 
 
 # ***gray*** adj
----
-英音 ɡreɪ     美音 ɡreɪ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɡreɪ     美音 ɡreɪ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **灰 (色) 的；(毛发) 灰白的；灰暗的；苍白的：**  
@@ -4403,12 +3791,8 @@ I'm so grateful________ all those volunteers because they helped my terrible day
 
 
 # ***gray*** n
----
-英音 ɡreɪ     美音 ɡreɪ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 ɡreɪ     美音 ɡreɪ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -4417,12 +3801,8 @@ I'm so grateful________ all those volunteers because they helped my terrible day
 
 
 # ***great*** adj
----
-英音 ɡreɪt     美音 ɡreɪt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 ɡreɪt     美音 ɡreɪt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **大的；巨大的；重大的；伟大的：**  
@@ -4473,12 +3853,8 @@ D.Oh, that would be great.
   
 
 # ***great*** adv
----
-英音 ɡreɪt     美音 ɡreɪt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 ɡreɪt     美音 ɡreɪt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[非正式用语] 很好地：**  
@@ -4489,12 +3865,8 @@ D.Oh, that would be great.
 
 
 # ***greatly*** adv
----
-英音 'ɡreɪtli     美音 'ɡreɪtli
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 'ɡreɪtli     美音 'ɡreɪtli  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **非常；大大地：**  
@@ -4505,12 +3877,8 @@ D.Oh, that would be great.
 
 
 # ***greed*** n
----
-英音 ɡriːd     美音 ɡriːd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɡriːd     美音 ɡriːd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **贪心；贪婪**  
@@ -4518,12 +3886,8 @@ D.Oh, that would be great.
 
 
 # ***greedily*** adv
----
-英音 'griːdɪlɪ     美音 'griːdɪlɪ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'griːdɪlɪ     美音 'griːdɪlɪ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **贪婪地**  
@@ -4531,12 +3895,8 @@ D.Oh, that would be great.
 
 
 # ***greedy*** adj
----
-英音 'ɡriːdi     美音 'ɡriːdi
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡriːdi     美音 'ɡriːdi  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **贪吃的；贪婪的；渴望的：**  
@@ -4551,12 +3911,8 @@ D.Oh, that would be great.
 
 
 # ***green*** adj
----
-英音 ɡriːn     美音 ɡriːn
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 ɡriːn     美音 ɡriːn  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **绿 (色) 的；青翠的：**  
@@ -4585,12 +3941,8 @@ D.Oh, that would be great.
 
 
 # ***green*** n
----
-英音 ɡriːn     美音 ɡriːn
-
-词频 5 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 ɡriːn     美音 ɡriːn  
+词频 5 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -4608,12 +3960,8 @@ D.Oh, that would be great.
 
 
 # ***greengrocer*** n
----
-英音 'ɡriːnɡrəʊsə(r)     美音 'ɡriːnɡroʊsər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'ɡriːnɡrəʊsə(r)     美音 'ɡriːnɡroʊsər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4622,12 +3970,8 @@ D.Oh, that would be great.
 
 
 # ***greenhouse*** n
----
-英音 'ɡriːnhaʊs     美音 'ɡriːnhaʊs
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'ɡriːnhaʊs     美音 'ɡriːnhaʊs  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4640,12 +3984,8 @@ D.Oh, that would be great.
 
 
 # ***greet*** vt
----
-英音 ɡriːt     美音 ɡriːt
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɡriːt     美音 ɡriːt  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **打招呼；问候；迎接 (welcome)：**  
@@ -4667,12 +4007,8 @@ D.Oh, that would be great.
 
 
 # ***greeting*** n
----
-英音 'ɡriːtɪŋ     美音 'ɡriːtɪŋ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡriːtɪŋ     美音 'ɡriːtɪŋ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **问候；致意；迎接：**  
@@ -4704,12 +4040,8 @@ D.Oh, that would be great.
 
 
 # ***grey*** n
----
-英音 ɡreɪ     美音 ɡreɪ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 ɡreɪ     美音 ɡreɪ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -4718,12 +4050,8 @@ D.Oh, that would be great.
 
 
 # ***grey*** adj
----
-英音 ɡreɪ     美音 ɡreɪ
-
-词频 3 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 ɡreɪ     美音 ɡreɪ  
+词频 3 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **灰 (色) 的；(毛发) 灰白的；灰暗的；苍白的：**  
@@ -4740,12 +4068,8 @@ D.Oh, that would be great.
 
 
 # ***grief*** n
----
-英音 ɡriːf     美音 ɡriːf
-
-词频 1 | 口语 0 | 书面 0 | 阅读 1
-
-用法点拨  [U] & [C]
+英音 ɡriːf     美音 ɡriːf  
+词频 1 | 口语 0 | 书面 0 | 阅读 1  用法点拨  [U] & [C]
 
 英文释义
 ---
@@ -4757,12 +4081,8 @@ D.Oh, that would be great.
 
 
 # ***grill*** vt
----
-英音 ɡrɪl     美音 ɡrɪl
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɡrɪl     美音 ɡrɪl  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(在烤架上) 烧烤；炙烤；盘问；追问：**  
@@ -4773,12 +4093,8 @@ D.Oh, that would be great.
 
 
 # ***grill*** n
----
-英音 ɡrɪl     美音 ɡrɪl
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ɡrɪl     美音 ɡrɪl  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4787,12 +4103,8 @@ D.Oh, that would be great.
 
 
 # ***grizzly*** n
----
-英音 'grɪzlɪ     美音 'grɪzlɪ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'grɪzlɪ     美音 'grɪzlɪ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4801,12 +4113,8 @@ D.Oh, that would be great.
 
 
 # ***grizzly*** adj
----
-英音 'grɪzlɪ     美音 'grɪzlɪ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'grɪzlɪ     美音 'grɪzlɪ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **灰色的；有灰斑的**  
@@ -4814,12 +4122,8 @@ D.Oh, that would be great.
 
 
 # ***grocer*** n
----
-英音 'ɡrəʊsə(r)     美音 'ɡroʊsər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'ɡrəʊsə(r)     美音 'ɡroʊsər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4828,12 +4132,8 @@ D.Oh, that would be great.
 
 
 # ***groceries*** n
----
-英音 'ɡrəʊsəriz     美音 'ɡroʊsəriz
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡrəʊsəriz     美音 'ɡroʊsəriz  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **食品杂货**  
@@ -4841,12 +4141,8 @@ D.Oh, that would be great.
 
 
 # ***grocery*** n
----
-英音 'ɡrəʊsəri     美音 'ɡroʊsəri
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'ɡrəʊsəri     美音 'ɡroʊsəri  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4864,12 +4160,8 @@ D.Oh, that would be great.
 
 
 # ***ground*** n
----
-英音 ɡraʊnd     美音 ɡraʊnd
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 ɡraʊnd     美音 ɡraʊnd  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **地；地面；土地：**  
@@ -4927,12 +4219,8 @@ D.Oh, that would be great.
 
 
 # ***group*** n
----
-英音 ɡruːp     美音 ɡruːp
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 ɡruːp     美音 ɡruːp  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4958,12 +4246,8 @@ D.Oh, that would be great.
 
 
 # ***group*** vt
----
-英音 ɡruːp     美音 ɡruːp
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɡruːp     美音 ɡruːp  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **把…分类 / 分组**  
@@ -4971,12 +4255,8 @@ D.Oh, that would be great.
 
 
 # ***grove*** n
----
-英音 ɡrəʊv     美音 ɡroʊv
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɡrəʊv     美音 ɡroʊv  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（尤其树木排列成行的）树丛,小树林**  
@@ -4984,12 +4264,8 @@ D.Oh, that would be great.
 
 
 # ***grow*** vi
----
-英音 ɡrəʊ     美音 ɡroʊ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (grew, grown)
+英音 ɡrəʊ     美音 ɡroʊ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (grew, grown)
 
 英文释义
 ---
@@ -5035,12 +4311,8 @@ D.Oh, that would be great.
 
 
 # ***grow*** vt
----
-英音 ɡrəʊ     美音 ɡroʊ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (grew, grown)
+英音 ɡrəʊ     美音 ɡroʊ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (grew, grown)
 
 英文释义
 ---
@@ -5095,12 +4367,8 @@ D.Oh, that would be great.
 
 
 # ***grown-up*** n
----
-英音 ˌɡrəʊn'ʌp     美音 ɡroʊn ʌp
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ˌɡrəʊn'ʌp     美音 ɡroʊn ʌp  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5109,12 +4377,8 @@ D.Oh, that would be great.
 
 
 # ***grown-up*** adj
----
-英音 ˌɡrəʊn'ʌp     美音 ɡroʊn ʌp
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌɡrəʊn'ʌp     美音 ɡroʊn ʌp  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **成年人的；成熟的**  
@@ -5122,12 +4386,8 @@ D.Oh, that would be great.
 
 
 # ***growth*** n
----
-英音 ɡrəʊθ     美音 ɡroʊθ
-
-词频 4 | 口语 1 | 书面 3 | 阅读 0
-
-用法点拨  [U]
+英音 ɡrəʊθ     美音 ɡroʊθ  
+词频 4 | 口语 1 | 书面 3 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -5147,12 +4407,8 @@ D.Oh, that would be great.
 
 
 # ***guarantee*** n  重难点词汇
----
-英音 ˌɡærən'tiː     美音 ˌɡærən'tiː
-
-词频 4 | 口语 1 | 书面 1 | 阅读 2
-
-用法点拨  [C]
+英音 ˌɡærən'tiː     美音 ˌɡærən'tiː  
+词频 4 | 口语 1 | 书面 1 | 阅读 2  用法点拨  [C]
 
 英文释义
 ---
@@ -5176,12 +4432,8 @@ a firm promise that sth will be done or that sth will happen：
 
 
 # ***guarantee*** vt  重难点词汇
----
-英音 ˌɡærən'tiː     美音 ˌɡærən'tiː
-
-词频 4 | 口语 2 | 书面 1 | 阅读 2
-
-
+英音 ˌɡærən'tiː     美音 ˌɡærən'tiː  
+词频 4 | 口语 2 | 书面 1 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **保证；确保；担保：**  
@@ -5212,12 +4464,8 @@ a firm promise that sth will be done or that sth will happen：
 
 
 # ***guard*** n
----
-英音 ɡɑːd     美音 ɡɑːrd
-
-词频 3 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 ɡɑːd     美音 ɡɑːrd  
+词频 3 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **卫兵 (队)；哨兵；警卫员；看守员；(篮球等的) 后卫：**  
@@ -5253,12 +4501,8 @@ a firm promise that sth will be done or that sth will happen：
 
 
 # ***guard*** vt
----
-英音 ɡɑːd     美音 ɡɑːrd
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ɡɑːd     美音 ɡɑːrd  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **保卫；守卫；警卫；看守：**  
@@ -5278,12 +4522,8 @@ a firm promise that sth will be done or that sth will happen：
 1. 三者都含有“保护”之意。
 
 # ***guess*** n
----
-英音 ɡes     美音 ɡes
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 ɡes     美音 ɡes  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5295,12 +4535,8 @@ a firm promise that sth will be done or that sth will happen：
 
 
 # ***guess*** v
----
-英音 ɡes     美音 ɡes
-
-词频 4 | 口语 3 | 书面 1 | 阅读 0
-
-用法点拨  vi & vt
+英音 ɡes     美音 ɡes  
+词频 4 | 口语 3 | 书面 1 | 阅读 0  用法点拨  vi & vt
 
 英文释义
 ---
@@ -5360,12 +4596,8 @@ D.I guess not
   
 
 # ***guest*** n
----
-英音 ɡest     美音 ɡest
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 ɡest     美音 ɡest  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5386,12 +4618,8 @@ D.I guess not
 
 
 # ***guidance*** n
----
-英音 'ɡaɪdns     美音 'ɡaɪdns
-
-词频 3 | 口语 0 | 书面 1 | 阅读 2
-
-用法点拨  [U]
+英音 'ɡaɪdns     美音 'ɡaɪdns  
+词频 3 | 口语 0 | 书面 1 | 阅读 2  用法点拨  [U]
 
 英文释义
 ---
@@ -5407,12 +4635,8 @@ D.I guess not
 
 
 # ***guide*** vt
----
-英音 ɡaɪd     美音 ɡaɪd
-
-词频 5 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 ɡaɪd     美音 ɡaɪd  
+词频 5 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **为…领路；带领 (lead)；引导：**  
@@ -5427,12 +4651,8 @@ D.I guess not
 
 
 # ***guide*** n
----
-英音 ɡaɪd     美音 ɡaɪd
-
-词频 5 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 ɡaɪd     美音 ɡaɪd  
+词频 5 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5458,12 +4678,8 @@ D.I guess not
 
 
 # ***guideline*** n
----
-英音 'ɡaɪdlaɪn     美音 'ɡaɪdlaɪn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-用法点拨  [C] [常用复数]
+英音 'ɡaɪdlaɪn     美音 'ɡaɪdlaɪn  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  用法点拨  [C] [常用复数]
 
 英文释义
 ---
@@ -5472,12 +4688,8 @@ D.I guess not
 
 
 # ***guilty*** adj
----
-英音 'ɡɪlti     美音  'ɡɪlti
-
-词频 3 | 口语 2 | 书面 1 | 阅读 3
-
-
+英音 'ɡɪlti     美音  'ɡɪlti  
+词频 3 | 口语 2 | 书面 1 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **内疚的；惭愧的：**  
@@ -5496,12 +4708,8 @@ D.I guess not
 
 
 # ***guitar*** n
----
-英音 ɡɪ'tɑː(r)     美音 ɡɪ'tɑːr
-
-词频 1 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 ɡɪ'tɑː(r)     美音 ɡɪ'tɑːr  
+词频 1 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5513,12 +4721,8 @@ D.I guess not
 
 
 # ***gum*** n
----
-英音 ɡʌm     美音 ɡʌm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 ɡʌm     美音 ɡʌm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -5527,12 +4731,8 @@ D.I guess not
 
 
 # ***gun*** n
----
-英音 ɡʌn     美音 ɡʌn
-
-词频 3 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 ɡʌn     美音 ɡʌn  
+词频 3 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5548,12 +4748,8 @@ D.I guess not
 
 
 # ***gunpowder*** n
----
-英音 'ɡʌnpaʊdə(r)     美音 'ɡʌnpaʊdər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɡʌnpaʊdə(r)     美音 'ɡʌnpaʊdər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **火药**  
@@ -5561,12 +4757,8 @@ D.I guess not
 
 
 # ***gutter*** n
----
-英音 'ɡʌtə(r)     美音 'ɡʌtər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'ɡʌtə(r)     美音 'ɡʌtər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5575,12 +4767,8 @@ D.I guess not
 
 
 # ***guy*** n
----
-英音 ɡaɪ     美音 ɡaɪ
-
-词频 3 | 口语 3 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 ɡaɪ     美音 ɡaɪ  
+词频 3 | 口语 3 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5595,12 +4783,8 @@ D.I guess not
 
 
 # ***gym*** n
----
-英音 dʒɪm     美音 dʒɪm
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 dʒɪm     美音 dʒɪm  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **体育馆；健身房 (gymnasium)：**  
@@ -5614,12 +4798,8 @@ D.I guess not
 
 
 # ***gymnasium*** n
----
-英音 dʒɪm'neɪziəm     美音 dʒɪm'neɪziəm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 dʒɪm'neɪziəm     美音 dʒɪm'neɪziəm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **体育馆；健身房**  
@@ -5627,12 +4807,8 @@ D.I guess not
 
 
 # ***gymnast*** n
----
-英音 'dʒɪmnæst     美音 'dʒɪmnæst
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'dʒɪmnæst     美音 'dʒɪmnæst  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **体操运动员**  
@@ -5640,12 +4816,8 @@ D.I guess not
 
 
 # ***gymnastic*** adj
----
-英音 dʒɪm'næstɪk     美音 dʒɪm'næstɪk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 dʒɪm'næstɪk     美音 dʒɪm'næstɪk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **体操的**  
@@ -5653,12 +4825,8 @@ D.I guess not
 
 
 # ***gymnastics*** n
----
-英音 dʒɪm'næstɪks     美音 dʒɪm'næstɪks
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 dʒɪm'næstɪks     美音 dʒɪm'næstɪks  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---

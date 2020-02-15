@@ -224,7 +224,7 @@ c = conn.cursor()
 
 path_save = input('请输入保存位置：\n')
 if path_save=='':path_save = r'C:\Users\Administrator\Desktop\victory'
-print('注意：文件将存到%s' % path_save + '\weici_仅单词_去空值.md')
+print('注意：文件将存到%s' % path_save + '\weici_word_7570.md')
 if not os.path.exists(path_save):
     os.makedirs(path_save)
   
@@ -232,7 +232,7 @@ if not os.path.exists(path_save):
 print('请稍后Processing。。。')
 
 
-f = open('%s' % path_save + '\weici_仅单词_去空值.md','w',encoding='utf-8')
+f = open('%s' % path_save + '\weici_word_7570.md','w',encoding='utf-8')
 
 
 cursor = c.execute("select * from fb_word_detail order by word asc")

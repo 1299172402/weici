@@ -72,6 +72,6 @@ md 版
   
 ---
   
-* [单词](weici_word_7570.md)  
+* [单词](md/weici_word_7570.md)  
 * [词组](md/weici_phrase_2542.md)  
 * [所有词](md/weici_all_10112.md)  

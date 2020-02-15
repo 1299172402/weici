@@ -1,12 +1,8 @@
 # Qq
 
 # ***quagga*** n
----
-英音 'kwæɡə     美音 'kwæɡə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'kwæɡə     美音 'kwæɡə  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **白氏斑马 (已灭绝)**  
@@ -14,12 +10,8 @@
 
 
 # ***quake*** n
----
-英音 kweɪk     美音 kweɪk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 kweɪk     美音 kweɪk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -28,12 +20,8 @@
 
 
 # ***quake*** vi
----
-英音 kweɪk     美音 kweɪk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 kweɪk     美音 kweɪk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(地面等的) 震动；颤抖：**  
@@ -48,12 +36,8 @@
 
 
 # ***qualification*** n
----
-英音 ˌkwɒlɪfɪ'keɪʃn     美音 ˌkwɑːlɪfɪ'keɪʃn
-
-词频 2 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 ˌkwɒlɪfɪ'keɪʃn     美音 ˌkwɑːlɪfɪ'keɪʃn  
+词频 2 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -73,12 +57,8 @@
 
 
 # ***qualified*** adj
----
-英音 'kwɒlɪfaɪd     美音 'kwɑːlɪfaɪd
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'kwɒlɪfaɪd     美音 'kwɑːlɪfaɪd  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **有资格的；称职的：**  
@@ -98,12 +78,8 @@
 
 
 # ***qualify*** v
----
-英音 'kwɒlɪfaɪ     美音 'kwɑːlɪfaɪ
-
-词频 1 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 'kwɒlɪfaɪ     美音 'kwɑːlɪfaɪ  
+词频 1 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(使) 具有资格； (使)合格：**  
@@ -117,12 +93,8 @@
 
 
 # ***quality*** n
----
-英音 'kwɒləti     美音 'kwɑːləti
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'kwɒləti     美音 'kwɑːləti  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 质；质量：**  
@@ -156,12 +128,8 @@
 
 
 # ***quality*** adj
----
-英音 'kwɒləti     美音 'kwɑːləti
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'kwɒləti     美音 'kwɑːləti  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. **优质的；高质量的**  
@@ -169,12 +137,8 @@
 
 
 # ***quantity*** n
----
-英音 'kwɒntəti     美音 'kwɑːntəti
-
-词频 3 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'kwɒntəti     美音 'kwɑːntəti  
+词频 3 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -211,12 +175,8 @@ As a result of destroying the forests, a large quantity of desert ________ (have
   
 
 # ***quarrel*** vi
----
-英音 'kwɒrəl     美音 'kwɔːrəl
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'kwɒrəl     美音 'kwɔːrəl  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **争吵；吵架：**  
@@ -229,12 +189,8 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 
 
 # ***quarrel*** n
----
-英音 'kwɒrəl     美音 'kwɔːrəl
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'kwɒrəl     美音 'kwɔːrəl  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -252,12 +208,8 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 
 
 # ***quarter*** n
----
-英音 'kwɔːtə(r)     美音 'kwɔːrtər
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 'kwɔːtə(r)     美音 'kwɔːrtər  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -290,12 +242,8 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 
 
 # ***queen*** n
----
-英音 kwiːn     美音 kwiːn
-
-词频 3 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 kwiːn     美音 kwiːn  
+词频 3 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -304,12 +252,8 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 
 
 # ***quest*** n
----
-英音 kwest     美音 kwest
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 kwest     美音 kwest  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **(长期的) 寻求,探索,追求**  
@@ -317,12 +261,8 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 
 
 # ***question*** n
----
-英音 'kwestʃən     美音 'kwestʃən
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'kwestʃən     美音 'kwestʃən  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **问题 【反 answer】；难题：**  
@@ -357,12 +297,8 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 
 
 # ***question*** vt
----
-英音 'kwestʃən     美音 'kwestʃən
-
-词频 5 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 'kwestʃən     美音 'kwestʃən  
+词频 5 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **询问；审问：**  
@@ -382,12 +318,8 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 
 
 # ***questionnaire*** n
----
-英音 ˌkwestʃə'neə(r)     美音 ˌkwestʃə'ner
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ˌkwestʃə'neə(r)     美音 ˌkwestʃə'ner  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -400,12 +332,8 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 
 
 # ***queue*** n
----
-英音 kjuː     美音 kjuː
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 kjuː     美音 kjuː  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -421,12 +349,8 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 
 
 # ***queue*** vi
----
-英音 kjuː     美音 kjuː
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 kjuː     美音 kjuː  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **排队等候：**  
@@ -438,12 +362,8 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 
 
 # ***quick*** adj
----
-英音 kwɪk     美音 kwɪk
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 kwɪk     美音 kwɪk  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(行动、动作等) 迅速的：**  
@@ -474,12 +394,8 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 quicken /'kwɪkən/ v 
 
 # ***quicken*** v
----
 英音 'kwɪkən     
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **使加快；使活跃；刺激；变快；(孕妇) 进入胎动期；变活跃**  
@@ -487,12 +403,8 @@ quicken /'kwɪkən/ v
 
 
 # ***quickly*** adv
----
-英音 'kwɪkli     美音 'kwɪkli
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'kwɪkli     美音 'kwɪkli  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **很快地；迅速地：**  
@@ -510,12 +422,8 @@ There are only five minutes left. We’ll have to walk q________ to get there on
   
 
 # ***quiet*** adj
----
-英音 'kwaɪət     美音 'kwaɪət
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'kwaɪət     美音 'kwaɪət  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **安静的；平静的；僻静的：**  
@@ -552,12 +460,8 @@ There are only five minutes left. We’ll have to walk q________ to get there on
 quietly /'kwaɪətli/ adv 
 
 # ***quiet*** n
----
-英音 'kwaɪət     美音 'kwaɪət
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'kwaɪət     美音 'kwaɪət  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. **[U] 宁静；安静：**  
@@ -571,12 +475,8 @@ quietly /'kwaɪətli/ adv
 四者均可用作形容词，均含有“静”的意思。
 
 # ***quilt*** n
----
-英音 kwɪlt     美音 kwɪlt
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 kwɪlt     美音 kwɪlt  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -585,12 +485,8 @@ quietly /'kwaɪətli/ adv
 
 
 # ***quit*** v
----
-英音 kwɪt     美音 kwɪt
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  (quit / quitted, quit / quitted) vt & vi [非正式用语]
+英音 kwɪt     美音 kwɪt  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  (quit / quitted, quit / quitted) vt & vi [非正式用语]
 
 英文释义
 ---
@@ -616,12 +512,8 @@ quietly /'kwaɪətli/ adv
 
 
 # ***quite*** adv
----
-英音 kwaɪt     美音 kwaɪt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 kwaɪt     美音 kwaɪt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **完全；十分 (completely / absolutely / entirely)：**  
@@ -660,12 +552,8 @@ D.much
   
 
 # ***quiz*** n
----
-英音 kwɪz     美音 kwɪz
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C](pl quizzes)
+英音 kwɪz     美音 kwɪz  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C](pl quizzes)
 
 英文释义
 ---
@@ -677,12 +565,8 @@ D.much
 
 
 # ***quote*** v
----
-英音 kwəʊt     美音 kwoʊt
-
-词频 2 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  vt & vi
+英音 kwəʊt     美音 kwoʊt  
+词频 2 | 口语 2 | 书面 1 | 阅读 0  用法点拨  vt & vi
 
 英文释义
 ---
@@ -694,12 +578,8 @@ D.much
 
 
 # ***quote*** n
----
-英音 kwəʊt     美音 kwoʊt
-
-词频 2 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 kwəʊt     美音 kwoʊt  
+词频 2 | 口语 2 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---

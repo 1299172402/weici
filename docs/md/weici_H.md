@@ -1,12 +1,8 @@
 # Hh
 
 # ***ha*** int
----
-英音 hɑː     美音 hɑ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 hɑː     美音 hɑ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[表示惊异、愉快、怀疑、胜利等] 嘿；哈；看；瞧**  
@@ -14,12 +10,8 @@
 
 
 # ***habit*** n
----
-英音 'hæbɪt     美音 ˈhæbɪt
-
-词频 5 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 'hæbɪt     美音 ˈhæbɪt  
+词频 5 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 习惯：**  
@@ -86,12 +78,8 @@ I'm trying to ________ (改掉习惯) of getting up too late.
   
 
 # ***habitat*** n
----
-英音 ˈhæbɪtæt     美音 ˈhæbɪˌtæt
-
-词频 3 | 口语 0 | 书面 0 | 阅读 2
-
-
+英音 ˈhæbɪtæt     美音 ˈhæbɪˌtæt  
+词频 3 | 口语 0 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **[C] & [U] (动物) 栖息地；(植物) 生长地**  
@@ -99,12 +87,8 @@ I'm trying to ________ (改掉习惯) of getting up too late.
 
 
 # ***hacker*** n
----
-英音 'hækə(r)     美音 'hækər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hækə(r)     美音 'hækər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **电脑黑客**  
@@ -112,12 +96,8 @@ I'm trying to ________ (改掉习惯) of getting up too late.
 
 
 # ***haiku*** n
----
-英音 'haɪkuː     美音 'haɪkuː
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨   [C]
+英音 'haɪkuː     美音 'haɪkuː  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨   [C]
 
 英文释义
 ---
@@ -126,12 +106,8 @@ I'm trying to ________ (改掉习惯) of getting up too late.
 
 
 # ***hair*** n
----
-英音 heə(r)     美音 her
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 heə(r)     美音 her  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] & [C] 头发；毛发；汗毛：**  
@@ -154,12 +130,8 @@ hair作为不可数名词时，指“头发”这种物 质；作为可数名词
 
 
 # ***haircut*** n
----
-英音 'heəkʌt     美音 'herkʌt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'heəkʌt     美音 'herkʌt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 理发；发型：**  
@@ -177,12 +149,8 @@ hair作为不可数名词时，指“头发”这种物 质；作为可数名词
 
 
 # ***hairdresser*** n
----
-英音 'heədresə(r)     美音 'herdresər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'heədresə(r)     美音 'herdresər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -195,12 +163,8 @@ hair作为不可数名词时，指“头发”这种物 质；作为可数名词
 
 
 # ***hairpin*** n
----
-英音 'heəpɪn     美音 'herpɪn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'heəpɪn     美音 'herpɪn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **发卡,发夹**  
@@ -208,12 +172,8 @@ hair作为不可数名词时，指“头发”这种物 质；作为可数名词
 
 
 # ***hairstyle*** n
----
-英音 'heəstaɪl     美音 'herstaɪl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'heəstaɪl     美音 'herstaɪl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **发型**  
@@ -221,12 +181,8 @@ hair作为不可数名词时，指“头发”这种物 质；作为可数名词
 
 
 # ***hairy*** adj
----
-英音 'heəri     美音 'heri
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'heəri     美音 'heri  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **毛的；多毛的**  
@@ -234,12 +190,8 @@ hair作为不可数名词时，指“头发”这种物 质；作为可数名词
 
 
 # ***half*** n
----
-英音 hɑːf     美音 hæf
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  [C] (pl halves)
+英音 hɑːf     美音 hæf  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [C] (pl halves)
 
 英文释义
 ---
@@ -265,12 +217,8 @@ hair作为不可数名词时，指“头发”这种物 质；作为可数名词
 
 
 # ***half*** pron
----
-英音 hɑːf     美音 hæf
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 hɑːf     美音 hæf  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **半；一半：**  
@@ -287,12 +235,8 @@ hair作为不可数名词时，指“头发”这种物 质；作为可数名词
  half of …，some of …，all of …，most of … 等作主语时，谓语动词的数与of后的词一致。
 
 # ***half*** adj
----
-英音 hɑːf     美音 hæf
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 hɑːf     美音 hæf  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **一半的；绝大部分的：**  
@@ -309,12 +253,8 @@ hair作为不可数名词时，指“头发”这种物 质；作为可数名词
 half，all，both等作定语时，常位于定冠词或物主代词之前。
 
 # ***half*** adv
----
-英音 hɑːf     美音 hæf
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 hɑːf     美音 hæf  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **一半地；部分地：**  
@@ -332,12 +272,8 @@ half，all，both等作定语时，常位于定冠词或物主代词之前。
 
 
 # ***halfway*** adj
----
-英音 ˌhɑːfˈweɪ     美音 hæfˈweɪ
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 ˌhɑːfˈweɪ     美音 hæfˈweɪ  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **中间的；中途的：**  
@@ -356,12 +292,8 @@ half，all，both等作定语时，常位于定冠词或物主代词之前。
 
 
 # ***halfway*** adv
----
-英音 ˌhɑːfˈweɪ     美音 ˌhæfˈweɪ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌhɑːfˈweɪ     美音 ˌhæfˈweɪ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **在中途；不彻底地：**  
@@ -380,12 +312,8 @@ half，all，both等作定语时，常位于定冠词或物主代词之前。
 
 
 # ***hall*** n
----
-英音 hɔːl     美音 hɔl
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 hɔːl     美音 hɔl  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -406,12 +334,8 @@ half，all，both等作定语时，常位于定冠词或物主代词之前。
 
 
 # ***ham*** n
----
-英音 hæm     美音 hæm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 hæm     美音 hæm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 火腿**  
@@ -419,12 +343,8 @@ half，all，both等作定语时，常位于定冠词或物主代词之前。
 
 
 # ***hamburger*** n
----
-英音 ˈhæmbɜːɡə(r)     美音 ˈhæmbɜrɡər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˈhæmbɜːɡə(r)     美音 ˈhæmbɜrɡər  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 汉堡包**  
@@ -432,12 +352,8 @@ half，all，both等作定语时，常位于定冠词或物主代词之前。
 
 
 # ***hammer*** n
----
-英音 ˈhæmə(r)     美音 ˈhæmər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˈhæmə(r)     美音 ˈhæmər  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 锤子；榔头**  
@@ -445,12 +361,8 @@ half，all，both等作定语时，常位于定冠词或物主代词之前。
 
 
 # ***hammer*** v
----
-英音 ˈhæmə(r)     美音 ˈhæmər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˈhæmə(r)     美音 ˈhæmər  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **锤击；锤打：**  
@@ -462,12 +374,8 @@ half，all，both等作定语时，常位于定冠词或物主代词之前。
 
 
 # ***hand*** n  重难点词汇
----
-英音 hænd     美音 hænd
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 hænd     美音 hænd  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **手；(钟表等的) 指针：**  
@@ -563,12 +471,8 @@ Starting your own business could be a way to achieving financial independence. _
   
 
 # ***hand*** vt  重难点词汇
----
-英音 hænd     美音 hænd
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 hænd     美音 hænd  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **交；递；给：**  
@@ -626,12 +530,8 @@ It is certain that he will hand_________his business to his son when he gets old
   
 
 # ***handbag*** n
----
-英音 'hændbæɡ     美音 'hændbæɡ
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'hændbæɡ     美音 'hændbæɡ  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(女用) 手提包 (AmE purse)**  
@@ -639,12 +539,8 @@ It is certain that he will hand_________his business to his son when he gets old
 
 
 # ***handclap*** n
----
-英音 'hændklæp     美音 'hændklæp
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hændklæp     美音 'hændklæp  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **拍手**  
@@ -652,12 +548,8 @@ It is certain that he will hand_________his business to his son when he gets old
 
 
 # ***handful*** n
----
-英音 'hændfʊl     美音 'hændfʊl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hændfʊl     美音 'hændfʊl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **一把；一撮；少量：**  
@@ -673,12 +565,8 @@ It is certain that he will hand_________his business to his son when he gets old
 
 
 # ***handkerchief*** n
----
-英音 'hæŋkətʃɪf     美音 'hæŋkərtʃɪf
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hæŋkətʃɪf     美音 'hæŋkərtʃɪf  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **手帕；纸巾**  
@@ -686,12 +574,8 @@ It is certain that he will hand_________his business to his son when he gets old
 
 
 # ***handle*** n
----
-英音 'hændl     美音 'hændl
-
-词频 4 | 口语 1 | 书面 2 | 阅读 3
-
-用法点拨  [C]
+英音 'hændl     美音 'hændl  
+词频 4 | 口语 1 | 书面 2 | 阅读 3  用法点拨  [C]
 
 英文释义
 ---
@@ -706,12 +590,8 @@ It is certain that he will hand_________his business to his son when he gets old
 
 
 # ***handle*** v
----
-英音 'hændl     美音 'hændl
-
-词频 4 | 口语 2 | 书面 2 | 阅读 3
-
-
+英音 'hændl     美音 'hændl  
+词频 4 | 口语 2 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **vt (用手) 触；碰；拿**  
@@ -758,12 +638,8 @@ As nobody here knows what is wrong with the machine, we must send for an enginee
   
 
 # ***handshake*** n
----
-英音 'hændʃeɪk     美音 'hændʃeɪk
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hændʃeɪk     美音 'hændʃeɪk  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **握手**  
@@ -771,12 +647,8 @@ As nobody here knows what is wrong with the machine, we must send for an enginee
 
 
 # ***handsome*** adj
----
-英音 'hænsəm     美音 'hænsəm
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hænsəm     美音 'hænsəm  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(男子) 漂亮的；英俊的；(女子) 健美的：**  
@@ -796,12 +668,8 @@ As nobody here knows what is wrong with the machine, we must send for an enginee
 
 
 # ***handwriting*** n
----
-英音 'hændraɪtɪŋ     美音 'hændraɪtɪŋ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hændraɪtɪŋ     美音 'hændraɪtɪŋ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **笔迹；书法； 手写：**  
@@ -812,12 +680,8 @@ As nobody here knows what is wrong with the machine, we must send for an enginee
 
 
 # ***handwritten*** adj
----
-英音 ˌhænd'rɪtn     美音 ˌhænd'rɪtn
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌhænd'rɪtn     美音 ˌhænd'rɪtn  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **手写的**  
@@ -825,12 +689,8 @@ As nobody here knows what is wrong with the machine, we must send for an enginee
 
 
 # ***handy*** adj
----
-英音 'hændi     美音 'hændi
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'hændi     美音 'hændi  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **便于使用的；方便的**  
@@ -857,12 +717,8 @@ near and easy to reach：
 
 
 # ***hang*** v  重难点词汇
----
-英音 hæŋ     美音 hæŋ
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-用法点拨  vt & vi
+英音 hæŋ     美音 hæŋ  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  用法点拨  vt & vi
 
 英文释义
 ---
@@ -951,12 +807,8 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
   
 
 # ***happen*** vi
----
-英音 'hæpən     美音 'hæpən
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [不用于被动语态]
+英音 'hæpən     美音 'hæpən  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [不用于被动语态]
 
 英文释义
 ---
@@ -996,12 +848,8 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
 二者都可指“发生”。
 
 # ***happening*** n
----
-英音 'hæpənɪŋ     美音 'hæpənɪŋ
-
-词频 4 | 口语 0 | 书面 0 | 阅读 3
-
-
+英音 'hæpənɪŋ     美音 'hæpənɪŋ  
+词频 4 | 口语 0 | 书面 0 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **事件；偶然发生的事：**  
@@ -1016,12 +864,8 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
 
 
 # ***happiness*** n
----
-英音 'hæpinəs     美音 'hæpinəs
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'hæpinəs     美音 'hæpinəs  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -1033,12 +877,8 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
 
 
 # ***happy*** adj
----
-英音 'hæpi     美音 'hæpi
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'hæpi     美音 'hæpi  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **幸福的；高兴的；快乐的：**  
@@ -1077,12 +917,8 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
  happily  /'hæpɪli/ adv 
 
 # ***harbo(u)r*** n
----
-英音 'hɑːbə(r)     美音 'hɑːrbər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'hɑːbə(r)     美音 'hɑːrbər  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -1091,12 +927,8 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
 
 
 # ***hard*** adj
----
-英音 hɑːd     美音 hɑːrd
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 hɑːd     美音 hɑːrd  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **硬的；坚固的；结实的 ：**  
@@ -1187,12 +1019,8 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
 
 
 # ***hard*** adv
----
-英音 hɑːd     美音 hɑːrd
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 hɑːd     美音 hɑːrd  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **努力地；艰苦地**  
@@ -1214,12 +1042,8 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
 harden /'hɑːdn/ v 
 
 # ***harden*** v
----
-美音 'hɑːrdn
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+美音 'hɑːrdn  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（使）变硬；（使）坚强**  
@@ -1227,12 +1051,8 @@ harden /'hɑːdn/ v
 
 
 # ***hardly*** adv  重难点词汇
----
-英音 'hɑːdli     美音 'hɑːrdli
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [常与can, could连用] 
+英音 'hɑːdli     美音 'hɑːrdli  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [常与can, could连用] 
 
 英文释义
 ---
@@ -1286,12 +1106,8 @@ I must be getting fat — I can hard do my trousers up.
   
 
 # ***hardship*** n
----
-英音 'hɑːdʃɪp     美音 'hɑːrdʃɪp
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'hɑːdʃɪp     美音 'hɑːrdʃɪp  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -1306,12 +1122,8 @@ I must be getting fat — I can hard do my trousers up.
 
 
 # ***hardware*** n
----
-英音 'hɑːdweə(r)     美音 'hɑːrdwer
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-用法点拨  [U]
+英音 'hɑːdweə(r)     美音 'hɑːrdwer  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  用法点拨  [U]
 
 英文释义
 ---
@@ -1320,12 +1132,8 @@ I must be getting fat — I can hard do my trousers up.
 
 
 # ***hardworking*** adj
----
-英音 hɑːd'wɜːkɪŋ     美音 'hɑːd'wɜːkɪŋ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 hɑːd'wɜːkɪŋ     美音 'hɑːd'wɜːkɪŋ  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **辛勤工作的； 勤勉的 (hard-working)：**  
@@ -1343,12 +1151,8 @@ My brother is really ________ (勤奋). He often works in his office far into th
   
 
 # ***harm*** n
----
-英音 hɑːm     美音 hɑːrm
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [U]
+英音 hɑːm     美音 hɑːrm  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -1371,12 +1175,8 @@ My brother is really ________ (勤奋). He often works in his office far into th
 
 
 # ***harm*** vt
----
-英音 hɑːrm     美音 hɑːrm
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 hɑːrm     美音 hɑːrm  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **伤害；损害：**  
@@ -1394,12 +1194,8 @@ My brother is really ________ (勤奋). He often works in his office far into th
 harmless /'hɑːmləs/ adj 
 
 # ***harmful*** adj
----
-英音 'hɑːmfl     美音 'hɑːrmfl
-
-词频 4 | 口语 0 | 书面 0 | 阅读 3
-
-
+英音 'hɑːmfl     美音 'hɑːrmfl  
+词频 4 | 口语 0 | 书面 0 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **有害的：**  
@@ -1414,12 +1210,8 @@ harmless /'hɑːmləs/ adj
 
 
 # ***harmonica*** n
----
-英音 hɑː'mɒnɪkə     美音 hɑːr'mɑːnɪkə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 hɑː'mɒnɪkə     美音 hɑːr'mɑːnɪkə  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **口琴**  
@@ -1427,12 +1219,8 @@ harmless /'hɑːmləs/ adj
 
 
 # ***harmony*** n
----
-英音 'hɑːməni     美音 ˈhɑːrməni
-
-词频 2 | 口语 0 | 书面 0 | 阅读 2
-
-
+英音 'hɑːməni     美音 ˈhɑːrməni  
+词频 2 | 口语 0 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **和谐；和睦；融洽：**  
@@ -1461,12 +1249,8 @@ Human life is regarded as part of nature and, as such, the only way for us to su
   
 
 # ***harness*** vt
----
-英音 'hɑːnɪs     美音 'hɑːrnɪs
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hɑːnɪs     美音 'hɑːrnɪs  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **利用; 将 (自然力) 变成动力**  
@@ -1474,12 +1258,8 @@ Human life is regarded as part of nature and, as such, the only way for us to su
 
 
 # ***harp*** n
----
-英音 hɑːp     美音 hɑːrp
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 hɑːp     美音 hɑːrp  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **竖琴**  
@@ -1487,12 +1267,8 @@ Human life is regarded as part of nature and, as such, the only way for us to su
 
 
 # ***harpoon*** n
----
-英音 hɑː'puːn     美音 hɑːr'puːn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 hɑː'puːn     美音 hɑːr'puːn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1501,12 +1277,8 @@ Human life is regarded as part of nature and, as such, the only way for us to su
 
 
 # ***harsh*** adj
----
-英音 hɑːʃ     美音 hɑːrʃ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 hɑːʃ     美音 hɑːrʃ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **刺耳的, 刺眼的**  
@@ -1514,12 +1286,8 @@ Human life is regarded as part of nature and, as such, the only way for us to su
 
 
 # ***harvest*** n
----
-英音 'hɑːvɪst     美音 'hɑːrvɪst
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'hɑːvɪst     美音 'hɑːrvɪst  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -1546,12 +1314,8 @@ Farmers are reporting a very big ________(收成) this year.
   
 
 # ***harvest*** v
----
-英音 'hɑːrvɪst     美音 'hɑːrvɪst
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hɑːrvɪst     美音 'hɑːrvɪst  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **收获；收割：**  
@@ -1571,12 +1335,8 @@ Farmers are reporting a very big ________(收成) this year.
 
 
 # ***hat*** n
----
-英音 hæt     美音 hæt
-
-词频 4 | 口语 3 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 hæt     美音 hæt  
+词频 4 | 口语 3 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1585,12 +1345,8 @@ Farmers are reporting a very big ________(收成) this year.
 
 
 # ***hatch*** v
----
-英音 hætʃ     美音 hætʃ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 hætʃ     美音 hætʃ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **孵出；孵 (卵)：**  
@@ -1604,12 +1360,8 @@ Farmers are reporting a very big ________(收成) this year.
 
 
 # ***hate*** vt
----
-英音 heɪt     美音 heɪt
-
-词频 4 | 口语 3 | 书面 1 | 阅读 0
-
-
+英音 heɪt     美音 heɪt  
+词频 4 | 口语 3 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[不用于进行时]讨厌；不喜欢；憎恨：**  
@@ -1646,12 +1398,8 @@ Farmers are reporting a very big ________(收成) this year.
   
 
 # ***hate*** n
----
-英音 heɪt     美音 heɪt
-
-词频 4 | 口语 3 | 书面 1 | 阅读 0
-
-用法点拨  [U]
+英音 heɪt     美音 heɪt  
+词频 4 | 口语 3 | 书面 1 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -1663,12 +1411,8 @@ Farmers are reporting a very big ________(收成) this year.
 
 
 # ***hatred*** n
----
-英音 'heɪtrɪd     美音 'heɪtrɪd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'heɪtrɪd     美音 'heɪtrɪd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -1681,12 +1425,8 @@ Farmers are reporting a very big ________(收成) this year.
 
 
 # ***have*** vt  重难点词汇
----
-英音 həv     美音 həv
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (has, had, had)[通常不用于被动语态]
+英音 həv     美音 həv  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (has, had, had)[通常不用于被动语态]
 
 英文释义
 ---
@@ -1819,12 +1559,8 @@ Could you please tell me where you bought the shoes you had ________yesterday?
   
 
 # ***have*** aux v  重难点词汇
----
-英音 həv     美音 həv
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 həv     美音 həv  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. 
@@ -1851,12 +1587,8 @@ It might have saved me some trouble ________ (如果我知道) the schedule.
   
 
 # ***he*** pron
----
-英音 hi:     美音 hi:
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 hi:     美音 hi:  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **他：**  
@@ -1885,12 +1617,8 @@ It might have saved me some trouble ________ (如果我知道) the schedule.
 
 
 # ***head*** n
----
-英音 hed     美音 hed
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 hed     美音 hed  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1957,12 +1685,8 @@ It might have saved me some trouble ________ (如果我知道) the schedule.
 
 
 # ***head*** v
----
-英音 hed     美音 hed
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 hed     美音 hed  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(朝...) 出发；动身：**  
@@ -1999,12 +1723,8 @@ It might have saved me some trouble ________ (如果我知道) the schedule.
 heading /'hedɪŋ/ n [C]
 
 # ***headache*** n
----
-英音 'hedeɪk     美音 'hedeɪk
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'hedeɪk     美音 'hedeɪk  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2020,12 +1740,8 @@ heading /'hedɪŋ/ n [C]
 
 
 # ***heading*** n
----
-英音 'hedɪŋ     美音 'hedɪŋ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨   [C]
+英音 'hedɪŋ     美音 'hedɪŋ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨   [C]
 
 英文释义
 ---
@@ -2034,12 +1750,8 @@ heading /'hedɪŋ/ n [C]
 
 
 # ***headline*** n
----
-英音 'hedlaɪn     美音 'hedlaɪn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'hedlaɪn     美音 'hedlaɪn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2048,12 +1760,8 @@ heading /'hedɪŋ/ n [C]
 
 
 # ***headmaster*** n
----
-英音 ˌhed'mɑːstə(r)     美音 ˌhed'mæstər
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 ˌhed'mɑːstə(r)     美音 ˌhed'mæstər  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2062,12 +1770,8 @@ heading /'hedɪŋ/ n [C]
 
 
 # ***headmistress*** n
----
-英音 'hed'mɪstrɪs     美音 'hed'mɪstrɪs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'hed'mɪstrɪs     美音 'hed'mɪstrɪs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2076,12 +1780,8 @@ heading /'hedɪŋ/ n [C]
 
 
 # ***headphone*** n
----
-英音 'hedfəʊn     美音 'hedfoʊn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hedfəʊn     美音 'hedfoʊn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **头戴式受话机, 耳机**  
@@ -2089,12 +1789,8 @@ heading /'hedɪŋ/ n [C]
 
 
 # ***headquarters*** n
----
-英音 ˌhed'kwɔːtəz     美音 'hedkwɔːrtərz
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] [单复数同形]
+英音 ˌhed'kwɔːtəz     美音 'hedkwɔːrtərz  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] [单复数同形]
 
 英文释义
 ---
@@ -2103,12 +1799,8 @@ heading /'hedɪŋ/ n [C]
 
 
 # ***headset*** n
----
-英音 'hedset     美音 'hedset
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hedset     美音 'hedset  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **头戴式耳机**  
@@ -2116,12 +1808,8 @@ heading /'hedɪŋ/ n [C]
 
 
 # ***headteacher*** n
----
-英音 hed'tiːtʃər     美音 hed'tiːtʃər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 hed'tiːtʃər     美音 hed'tiːtʃər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2130,12 +1818,8 @@ heading /'hedɪŋ/ n [C]
 
 
 # ***heal*** v
----
-英音 hiːl     美音 hiːl
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 hiːl     美音 hiːl  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **治愈；(使) 愈合；(使) 康复：**  
@@ -2153,12 +1837,8 @@ heading /'hedɪŋ/ n [C]
 
 
 # ***health*** n
----
-英音 helθ     美音 helθ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [U]
+英音 helθ     美音 helθ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -2191,12 +1871,8 @@ heading /'hedɪŋ/ n [C]
 
 
 # ***healthy*** adj
----
-英音 'helθi     美音 'helθi
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 'helθi     美音 'helθi  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **健康的：**  
@@ -2211,12 +1887,8 @@ heading /'hedɪŋ/ n [C]
 
 
 # ***hear*** v  重难点词汇
----
-英音 hɪə(r)     美音 hɪr
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (heard, heard)v
+英音 hɪə(r)     美音 hɪr  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (heard, heard)v
 
 英文释义
 ---
@@ -2318,12 +1990,8 @@ Listen! Do you hear someone________ (call) for help?
   
 
 # ***hearing*** n
----
-英音 'hɪərɪŋ     美音 'hɪrɪŋ
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  [U]
+英音 'hɪərɪŋ     美音 'hɪrɪŋ  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -2342,12 +2010,8 @@ Listen! Do you hear someone________ (call) for help?
 
 
 # ***heart*** n
----
-英音 hɑːt     美音 hɑːrt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 hɑːt     美音 hɑːrt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **心；心脏；心形：**  
@@ -2447,12 +2111,8 @@ No matter what you do, you should ________ (用心于) it.
   
 
 # ***heartbeat*** n
----
-英音 'hɑːtbiːt     美音 'hɑːrtbiːt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hɑːtbiːt     美音 'hɑːrtbiːt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **心跳**  
@@ -2460,12 +2120,8 @@ No matter what you do, you should ________ (用心于) it.
 
 
 # ***heartily*** adv
----
-英音 'hɑːtɪli     美音 'hɑːrtɪli
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hɑːtɪli     美音 'hɑːrtɪli  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **尽情地；热心地；痛快地**  
@@ -2473,12 +2129,8 @@ No matter what you do, you should ________ (用心于) it.
 
 
 # ***heat*** n
----
-英音 hiːt     美音 hiːt
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [U]
+英音 hiːt     美音 hiːt  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -2513,12 +2165,8 @@ No matter what you do, you should ________ (用心于) it.
 
 
 # ***heat*** v
----
-英音 hiːt     美音 hiːt
-
-词频 5 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 hiːt     美音 hiːt  
+词频 5 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **vt & vi (使) 变热；(使) 变暖；(使) 激动：**  
@@ -2546,12 +2194,8 @@ No matter what you do, you should ________ (用心于) it.
 heater /heater/ n [C] 
 
 # ***heated*** adj
----
-英音 'hiːtɪd     美音 'hiːtɪd
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hiːtɪd     美音 'hiːtɪd  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **已加热的；热烈的；激烈的：**  
@@ -2562,12 +2206,8 @@ heater /heater/ n [C]
 
 
 # ***heather*** n
----
-英音 'heðə(r)     美音 'heðər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'heðə(r)     美音 'heðər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **石南属植物**  
@@ -2575,12 +2215,8 @@ heater /heater/ n [C]
 
 
 # ***heating*** n
----
-英音 'hiːtɪŋ     美音 'hiːtɪŋ
-
-词频 1 | 口语 2 | 书面 0 | 阅读 0
-
-
+英音 'hiːtɪŋ     美音 'hiːtɪŋ  
+词频 1 | 口语 2 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **供暖；暖气设备 (AmE heat)：**  
@@ -2591,12 +2227,8 @@ heater /heater/ n [C]
 
 
 # ***heating*** adj
----
-英音 'hiːtɪŋ     美音 'hiːtɪŋ
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'hiːtɪŋ     美音 'hiːtɪŋ  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **加热的；供暖的**  
@@ -2604,12 +2236,8 @@ heater /heater/ n [C]
 
 
 # ***heaven*** n
----
-英音 'hevn     美音 'hevn
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'hevn     美音 'hevn  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -2625,12 +2253,8 @@ heater /heater/ n [C]
 
 
 # ***heavily*** adv
----
-英音 'hevɪli     美音 'hevɪli
-
-词频 3 | 口语 0 | 书面 1 | 阅读 2
-
-
+英音 'hevɪli     美音 'hevɪli  
+词频 3 | 口语 0 | 书面 1 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **重重地；沉重地；严重地：**  
@@ -2652,12 +2276,8 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
   
 
 # ***heavy*** adj
----
-英音 'hevi     美音 'hevi
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'hevi     美音 'hevi  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **重的；沉重的；厚重的【反 light】；粗壮的：**  
@@ -2733,12 +2353,8 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 
 
 # ***heavyweight*** n
----
-英音 'heviweɪt     美音 'heviweɪt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'heviweɪt     美音 'heviweɪt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **重量级拳击手；有影响力的人或事物**  
@@ -2746,12 +2362,8 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 
 
 # ***hectare*** n
----
-英音 'hekteə(r)     美音 'hekter
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'hekteə(r)     美音 'hekter  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2760,12 +2372,8 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 
 
 # ***hedge*** n
----
-英音 hedʒ     美音 hedʒ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 hedʒ     美音 hedʒ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **灌木（或小树）树篱**  
@@ -2773,12 +2381,8 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 
 
 # ***heel*** n
----
-英音 hiːl     美音 hiːl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 hiːl     美音 hiːl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2794,12 +2398,8 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 
 
 # ***height*** n
----
-英音 haɪt     美音 haɪt
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 haɪt     美音 haɪt  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -2816,12 +2416,8 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 
 
 # ***helicopter*** n
----
-英音 'helɪkɒptə(r)     美音 'helɪkɑːptər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'helɪkɒptə(r)     美音 'helɪkɑːptər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2830,12 +2426,8 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 
 
 # ***hell*** n
----
-英音 hel     美音 hel
-
-词频 1 | 口语 3 | 书面 1 | 阅读 0
-
-用法点拨  [U]
+英音 hel     美音 hel  
+词频 1 | 口语 3 | 书面 1 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -2851,12 +2443,8 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 
 
 # ***hello*** int
----
-英音 hə'ləʊ     美音 hə'ləʊ
-
-词频 5 | 口语 3 | 书面 0 | 阅读 0
-
-
+英音 hə'ləʊ     美音 hə'ləʊ  
+词频 5 | 口语 3 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **喂；你好**  
@@ -2864,12 +2452,8 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 
 
 # ***hello*** n
----
-英音 hə'ləʊ     美音 hə'ləʊ
-
-词频 5 | 口语 3 | 书面 0 | 阅读 0
-
-
+英音 hə'ləʊ     美音 hə'ləʊ  
+词频 5 | 口语 3 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **招手；问候：**  
@@ -2881,12 +2465,8 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 
 
 # ***helmet*** n
----
-英音 'helmɪt     美音 'helmɪt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'helmɪt     美音 'helmɪt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2895,12 +2475,8 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 
 
 # ***help*** v  重难点词汇
----
-英音 help     美音 help
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 help     美音 help  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **帮助；援助：**  
@@ -3037,12 +2613,8 @@ D.help
   
 
 # ***help*** n  重难点词汇
----
-英音 help     美音 help
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 help     美音 help  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **帮助；帮忙：**  
@@ -3104,12 +2676,8 @@ D.help
 
 
 # ***helper*** n
----
-英音 'helpə(r)     美音 'helpər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'helpə(r)     美音 'helpər  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **帮助者**  
@@ -3117,12 +2685,8 @@ D.help
 
 
 # ***helpful*** adj
----
-英音 'helpfl     美音 'helpfl
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 'helpfl     美音 'helpfl  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **有帮助的；有益的 (useful)；乐于助人的：**  
@@ -3138,12 +2702,8 @@ D.help
 
 
 # ***helpless*** adj
----
-英音 'helpləs     美音 'helpləs
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'helpləs     美音 'helpləs  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **无助的；无依靠的：**  
@@ -3157,12 +2717,8 @@ D.help
 
 
 # ***hen*** n
----
-英音 hen     美音 hen
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 hen     美音 hen  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3171,12 +2727,8 @@ D.help
 
 
 # ***hence*** adv
----
-英音 hens     美音 hens
-
-词频 1 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 hens     美音 hens  
+词频 1 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **因此；所以**  
@@ -3184,12 +2736,8 @@ D.help
 
 
 # ***her*** pron
----
-英音 hə(r); hɜː(r)     美音 hər
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 hə(r); hɜː(r)     美音 hər  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[宾格] 她；[所有格] 她的**  
@@ -3197,12 +2745,8 @@ D.help
 
 
 # ***herb*** n
----
-英音 hɜːb     美音 hɜːrb
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 hɜːb     美音 hɜːrb  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3211,12 +2755,8 @@ D.help
 
 
 # ***herd*** n
----
-英音 hɜːd     美音 hɜːrd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 hɜːd     美音 hɜːrd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3225,12 +2765,8 @@ D.help
 
 
 # ***here*** adv
----
-英音 hɪə(r)     美音 hɪr
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 hɪə(r)     美音 hɪr  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(在 / 向) 这里；此时；在这点上：**  
@@ -3271,12 +2807,8 @@ D.help
 
 
 # ***heritage*** n
----
-英音 'herɪtɪdʒ     美音 'herɪtɪdʒ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 2
-
-用法点拨  [U] [常用单数]
+英音 'herɪtɪdʒ     美音 'herɪtɪdʒ  
+词频 2 | 口语 0 | 书面 0 | 阅读 2  用法点拨  [U] [常用单数]
 
 英文释义
 ---
@@ -3291,12 +2823,8 @@ D.help
 
 
 # ***hero*** n
----
-英音 'hɪərəʊ     美音 'hɪroʊ
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C] (pl heroes)
+英音 'hɪərəʊ     美音 'hɪroʊ  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C] (pl heroes)
 
 英文释义
 ---
@@ -3318,12 +2846,8 @@ D.help
 heroic /hə'rəʊɪk/ adj 
 
 # ***heroine*** n
----
-英音 'herəʊɪn     美音 'heroʊɪn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'herəʊɪn     美音 'heroʊɪn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3335,12 +2859,8 @@ heroic /hə'rəʊɪk/ adj
 
 
 # ***heroism*** n
----
-英音 'herəʊɪzəm     美音 'heroʊɪzəm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'herəʊɪzəm     美音 'heroʊɪzəm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **英雄主义, 英雄气概**  
@@ -3348,12 +2868,8 @@ heroic /hə'rəʊɪk/ adj
 
 
 # ***hers*** pron
----
-英音 hɜːz     美音 hɜːrz
-
-词频 2 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [名词性物主代词]
+英音 hɜːz     美音 hɜːrz  
+词频 2 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [名词性物主代词]
 
 英文释义
 ---
@@ -3362,12 +2878,8 @@ heroic /hə'rəʊɪk/ adj
 
 
 # ***herself*** pron
----
-英音 hɜː'self     美音 hɜːr'self
-
-词频 4 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 hɜː'self     美音 hɜːr'self  
+词频 4 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **她自己；她亲自：**  
@@ -3392,12 +2904,8 @@ Catherine bought a postcard of the place she was visiting, addressed it to _____
   
 
 # ***hesitate*** vi  重难点词汇
----
-英音 'hezɪteɪt     美音 'hezɪteɪt
-
-词频 3 | 口语 0 | 书面 1 | 阅读 2
-
-
+英音 'hezɪteɪt     美音 'hezɪteɪt  
+词频 3 | 口语 0 | 书面 1 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **踌躇；犹豫；顾虑：**  
@@ -3431,12 +2939,8 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
   
 
 # ***hesitation*** n
----
-英音 ˌhezɪ'teɪʃn     美音 ˌhezɪ'teɪʃn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 1
-
-用法点拨  [U] & [C]
+英音 ˌhezɪ'teɪʃn     美音 ˌhezɪ'teɪʃn  
+词频 1 | 口语 0 | 书面 0 | 阅读 1  用法点拨  [U] & [C]
 
 英文释义
 ---
@@ -3449,12 +2953,8 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 
 
 # ***hey*** int
----
-英音 heɪ     美音 heɪ
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 heɪ     美音 heɪ  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[用以唤起注意或表示问候] 嘿；喂**  
@@ -3462,12 +2962,8 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 
 
 # ***hi*** int
----
-英音 haɪ     美音 haɪ
-
-词频 4 | 口语 3 | 书面 0 | 阅读 0
-
-
+英音 haɪ     美音 haɪ  
+词频 4 | 口语 3 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **嗨**  
@@ -3475,12 +2971,8 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 
 
 # ***hibernate*** vi
----
-英音 'haɪbəneɪt     美音 'haɪbərneɪt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'haɪbəneɪt     美音 'haɪbərneɪt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(动物) 冬眠**  
@@ -3488,12 +2980,8 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 
 
 # ***hibernation*** n
----
-英音 ˌhaɪbə'neɪʃn     美音 ˌhaɪbə'neɪʃn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 ˌhaɪbə'neɪʃn     美音 ˌhaɪbə'neɪʃn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -3502,12 +2990,8 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 
 
 # ***hide*** v
----
-英音 haɪd     美音 haɪd
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  (hid, hidden)
+英音 haɪd     美音 haɪd  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  (hid, hidden)
 
 英文释义
 ---
@@ -3535,12 +3019,8 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 
 
 # ***hide-and-seek*** n
----
-英音 ˌhaɪdn'siːk     美音 ˌhaɪdn'siːk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 ˌhaɪdn'siːk     美音 ˌhaɪdn'siːk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -3549,12 +3029,8 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 
 
 # ***hieroglyphic*** adj
----
-英音 ˌhaɪərə'ɡlɪfɪk     美音 ˌhaɪərə'ɡlɪfɪk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌhaɪərə'ɡlɪfɪk     美音 ˌhaɪərə'ɡlɪfɪk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **象形文字的**  
@@ -3562,12 +3038,8 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 
 
 # ***high*** adj
----
-英音 haɪ     美音 haɪ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 haɪ     美音 haɪ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(高度) 高的：**  
@@ -3625,12 +3097,8 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 
 
 # ***high*** adv
----
-英音 haɪ     美音 haɪ
-
-词频 5 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 haɪ     美音 haɪ  
+词频 5 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **高：**  
@@ -3646,12 +3114,8 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 二者均有“高”之意，均可指建筑物。
 
 # ***high-class*** adj
----
-英音 ˌhaɪ'klɑːs     美音 ˌhaɪ'klæs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌhaɪ'klɑːs     美音 ˌhaɪ'klæs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **上层社会的**  
@@ -3659,12 +3123,8 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 
 
 # ***high-rise*** adj
----
-英音 haɪ raɪz     美音 haɪ raɪz
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 haɪ raɪz     美音 haɪ raɪz  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **多层的；高层的：**  
@@ -3675,12 +3135,8 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 
 
 # ***high-rise*** n
----
-英音 haɪ raɪz     美音 haɪ raɪz
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 haɪ raɪz     美音 haɪ raɪz  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3692,12 +3148,8 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 
 
 # ***highlight*** vt
----
-英音 'haɪlaɪt     美音 'haɪlaɪt
-
-词频 2 | 口语 0 | 书面 1 | 阅读 1
-
-
+英音 'haɪlaɪt     美音 'haɪlaɪt  
+词频 2 | 口语 0 | 书面 1 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **突出；强调；使醒目：**  
@@ -3711,12 +3163,8 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 
 
 # ***highlight*** n
----
-英音 'haɪlaɪt     美音 'haɪlaɪt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'haɪlaɪt     美音 'haɪlaɪt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **[C] 最精彩的场面 / 部分**  
@@ -3724,12 +3172,8 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 
 
 # ***highly*** adv
----
-英音 'haɪli     美音 'haɪli
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'haɪli     美音 'haɪli  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **很；非常；高度地：**  
@@ -3754,12 +3198,8 @@ Food safety is ________ (high) important, so the government spares no effort to 
   
 
 # ***highway*** n
----
-英音 'haɪweɪ     美音 'haɪweɪ
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'haɪweɪ     美音 'haɪweɪ  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3769,12 +3209,8 @@ Food safety is ________ (high) important, so the government spares no effort to 
 美语里高速公路是freeway或expressway。
 
 # ***hike*** vi
----
-英音 haɪk     美音 haɪk
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 haɪk     美音 haɪk  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **徒步旅行：**  
@@ -3785,12 +3221,8 @@ Food safety is ________ (high) important, so the government spares no effort to 
 
 
 # ***hike*** n
----
-英音 haɪk     美音 haɪk
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 haɪk     美音 haɪk  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3799,12 +3231,8 @@ Food safety is ________ (high) important, so the government spares no effort to 
 
 
 # ***hill*** n
----
-英音 hɪl     美音 hɪl
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 hɪl     美音 hɪl  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3813,12 +3241,8 @@ Food safety is ________ (high) important, so the government spares no effort to 
 
 
 # ***hillside*** n
----
-英音 'hɪlsaɪd     美音 'hɪlsaɪd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'hɪlsaɪd     美音 'hɪlsaɪd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3827,12 +3251,8 @@ Food safety is ________ (high) important, so the government spares no effort to 
 
 
 # ***hilly*** adj
----
-英音 'hɪli     美音 'hɪli
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hɪli     美音 'hɪli  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **山丘的；丘陵的；多山的：**  
@@ -3840,12 +3260,8 @@ Food safety is ________ (high) important, so the government spares no effort to 
 
 
 # ***him*** pron
----
-英音 hɪm     美音 hɪm
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [宾格]
+英音 hɪm     美音 hɪm  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [宾格]
 
 英文释义
 ---
@@ -3854,12 +3270,8 @@ Food safety is ________ (high) important, so the government spares no effort to 
 
 
 # ***himself*** pron
----
-英音 hɪm'self     美音 hɪm'self
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 hɪm'self     美音 hɪm'self  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **他自己；他本人；他亲自：**  
@@ -3884,12 +3296,8 @@ Food safety is ________ (high) important, so the government spares no effort to 
   
 
 # ***hint*** n
----
-英音 hɪnt     美音 hɪnt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 hɪnt     美音 hɪnt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3902,12 +3310,8 @@ Food safety is ________ (high) important, so the government spares no effort to 
 
 
 # ***hip-hop*** n
----
 
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **嘻哈音乐；嘻哈文化**  
@@ -3915,12 +3319,8 @@ Food safety is ________ (high) important, so the government spares no effort to 
 
 
 # ***hire*** v
----
-英音 'haɪə(r)     美音 'haɪər
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 'haɪə(r)     美音 'haɪər  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(BrE) (短期) 租用 (AmE rent)：**  
@@ -3955,12 +3355,8 @@ Food safety is ________ (high) important, so the government spares no effort to 
 
 
 # ***hire*** n
----
-英音 'haɪə(r)     美音 'haɪər
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'haɪə(r)     美音 'haɪər  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -3976,12 +3372,8 @@ Food safety is ________ (high) important, so the government spares no effort to 
 
 
 # ***his*** pron
----
-英音 hɪz     美音 hɪz
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 hɪz     美音 hɪz  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **他的**  
@@ -3989,12 +3381,8 @@ Food safety is ________ (high) important, so the government spares no effort to 
 
 
 # ***historic*** adj
----
-英音 hɪ'stɒrɪk     美音 hɪ'stɔːrɪk
-
-词频 3 | 口语 0 | 书面 0 | 阅读 2
-
-用法点拨  [常用于名词前]
+英音 hɪ'stɒrɪk     美音 hɪ'stɔːrɪk  
+词频 3 | 口语 0 | 书面 0 | 阅读 2  用法点拨  [常用于名词前]
 
 英文释义
 ---
@@ -4007,12 +3395,8 @@ famous or important in history：
 
 
 # ***historical*** adj
----
-英音 hɪ'stɒrɪkl     美音 hɪ'stɔːrɪkl
-
-词频 4 | 口语 0 | 书面 2 | 阅读 3
-
-用法点拨  [常用于名词前]
+英音 hɪ'stɒrɪkl     美音 hɪ'stɔːrɪkl  
+词频 4 | 口语 0 | 书面 2 | 阅读 3  用法点拨  [常用于名词前]
 
 英文释义
 ---
@@ -4026,12 +3410,8 @@ connected with history or the past：
 
 
 # ***history*** n
----
-英音 'hɪstri     美音 'hɪstri
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'hɪstri     美音 'hɪstri  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -4071,12 +3451,8 @@ connected with history or the past：
 historian /hɪ'stɔːriən/ n [C]
 
 # ***hit*** vt  重难点词汇
----
-英音 hɪt     美音 hɪt
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-用法点拨  (hit, hit)
+英音 hɪt     美音 hɪt  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  用法点拨  (hit, hit)
 
 英文释义
 ---
@@ -4134,12 +3510,8 @@ historian /hɪ'stɔːriən/ n [C]
 
 
 # ***hit*** n  重难点词汇
----
-英音 hɪt     美音 hɪt
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 hɪt     美音 hɪt  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4171,12 +3543,8 @@ historian /hɪ'stɔːriən/ n [C]
 
 
 # ***hoarfrost*** n
----
-英音 'hɔː'frɒst     美音 'hoʊrˌfrɒst
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hɔː'frɒst     美音 'hoʊrˌfrɒst  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **白霜**  
@@ -4184,12 +3552,8 @@ historian /hɪ'stɔːriən/ n [C]
 
 
 # ***hobby*** n
----
-英音 'hɒbi     美音 'hɑːbi
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'hɒbi     美音 'hɑːbi  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4204,12 +3568,8 @@ historian /hɪ'stɔːriən/ n [C]
 
 
 # ***hold*** v  重难点词汇
----
-英音 həʊld     美音 hoʊld
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 həʊld     美音 hoʊld  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **拿着；抓住；抱着：**  
@@ -4462,12 +3822,8 @@ We want to rent a bus which can ________ (容纳)40 people for our trip to Beiji
   
 
 # ***hold*** n  重难点词汇
----
-英音 həʊld     美音 hoʊld
-
-词频 5 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [U] [可用单数]
+英音 həʊld     美音 hoʊld  
+词频 5 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [U] [可用单数]
 
 英文释义
 ---
@@ -4526,12 +3882,8 @@ As a grassroots singer, she reads everything she can get hold _________ concerni
   
 
 # ***hole*** n
----
-英音 həʊl     美音 həʊl
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 həʊl     美音 həʊl  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4544,12 +3896,8 @@ As a grassroots singer, she reads everything she can get hold _________ concerni
 
 
 # ***holiday*** n
----
-英音 'hɒlədeɪ,'hɒlədi     美音 'hɑːlədeɪ
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 'hɒlədeɪ,'hɒlədi     美音 'hɑːlədeɪ  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 假日；节日：**  
@@ -4575,12 +3923,8 @@ As a grassroots singer, she reads everything she can get hold _________ concerni
 
 
 # ***hollow*** adj
----
-英音 'hɒləʊ     美音 'hɑːloʊ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hɒləʊ     美音 'hɑːloʊ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **空心的；中空的**  
@@ -4588,12 +3932,8 @@ As a grassroots singer, she reads everything she can get hold _________ concerni
 
 
 # ***holy*** adj
----
-英音 'həʊli     美音 'hoʊli
-
-词频 1 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 'həʊli     美音 'hoʊli  
+词频 1 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **神圣的；圣洁的；上帝的：**  
@@ -4605,12 +3945,8 @@ As a grassroots singer, she reads everything she can get hold _________ concerni
 
 
 # ***home*** n
----
-英音 həʊm     美音 hoʊm
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 həʊm     美音 hoʊm  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 家；家庭：**  
@@ -4667,12 +4003,8 @@ I began to feel ________ home in the new school when I saw some familiar faces.
   
 
 # ***home*** adv
----
-英音 həʊm     美音 hoʊm
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 həʊm     美音 hoʊm  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **在家；到家；回家：**  
@@ -4683,12 +4015,8 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 
 
 # ***home*** adj
----
-英音 həʊm     美音 hoʊm
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 həʊm     美音 hoʊm  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **家的；家庭的；家用的：**  
@@ -4703,12 +4031,8 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 
 
 # ***home-made*** adj
----
-英音 ˌhəʊmˌmeɪd     美音 ˌhoʊmˌmeɪd
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌhəʊmˌmeɪd     美音 ˌhoʊmˌmeɪd  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **自制的；家里做的；国产的**  
@@ -4716,12 +4040,8 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 
 
 # ***homeland*** n
----
-英音 'həʊmlænd     美音 'hoʊmlænd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [常用单数]
+英音 'həʊmlænd     美音 'hoʊmlænd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [常用单数]
 
 英文释义
 ---
@@ -4730,12 +4050,8 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 
 
 # ***homeless*** adj
----
-英音 'həʊmləs     美音 'hoʊmləs
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'həʊmləs     美音 'hoʊmləs  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **无家可归的：**  
@@ -4746,12 +4062,8 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 
 
 # ***homelessness*** n
----
-英音 'həʊmləsnəs     美音 'hoʊmləsnəs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'həʊmləsnəs     美音 'hoʊmləsnəs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **无家可归**  
@@ -4759,12 +4071,8 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 
 
 # ***homemade*** adj
----
-英音 'həʊm'meɪd     美音 'həʊm'meɪd
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'həʊm'meɪd     美音 'həʊm'meɪd  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **自制的,家里做的**  
@@ -4772,12 +4080,8 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 
 
 # ***homesick*** adj
----
-英音 'həʊmsɪk     美音 'hoʊmsɪk
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'həʊmsɪk     美音 'hoʊmsɪk  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **想家的；思乡的**  
@@ -4785,12 +4089,8 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 
 
 # ***homesickness*** n
----
-英音 'həʊmsɪknəs     美音 'hoʊmsɪknəs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'həʊmsɪknəs     美音 'hoʊmsɪknəs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **想家, 思乡**  
@@ -4798,12 +4098,8 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 
 
 # ***hometown*** n
----
-英音 'həʊmtaʊn     美音 'hoʊmtaʊn
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'həʊmtaʊn     美音 'hoʊmtaʊn  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4812,12 +4108,8 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 
 
 # ***homework*** n
----
-英音 'həʊmwɜːk     美音 'hoʊmwɜːrk
-
-词频 4 | 口语 2 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'həʊmwɜːk     美音 'hoʊmwɜːrk  
+词频 4 | 口语 2 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -4826,12 +4118,8 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 
 
 # ***homosexual*** n
----
-英音 ˌhəʊmə'sekʃuəl     美音 ˌhoʊmə'sekʃuəl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌhəʊmə'sekʃuəl     美音 ˌhoʊmə'sekʃuəl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **同性恋**  
@@ -4839,12 +4127,8 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 
 
 # ***homosexual*** adj
----
-英音 ˌhəʊmə'sekʃuəl     美音 ˌhoʊmə'sekʃuəl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌhəʊmə'sekʃuəl     美音 ˌhoʊmə'sekʃuəl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **同性恋的**  
@@ -4852,12 +4136,8 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 
 
 # ***honest*** adj
----
-英音 'ɒnɪst     美音 'ɑːnɪst
-
-词频 4 | 口语 3 | 书面 1 | 阅读 0
-
-
+英音 'ɒnɪst     美音 'ɑːnɪst  
+词频 4 | 口语 3 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **老实的；诚实的；正直的：**  
@@ -4896,12 +4176,8 @@ ________ (老实说), the pay isn't attractive enough, though the job itself is 
   
 
 # ***honestly*** adv
----
-英音 'ɒnɪstli     美音 'ɑːnɪstli
-
-词频 2 | 口语 2 | 书面 0 | 阅读 0
-
-
+英音 'ɒnɪstli     美音 'ɑːnɪstli  
+词频 2 | 口语 2 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **诚实地；正当地：**  
@@ -4918,12 +4194,8 @@ ________ (老实说), the pay isn't attractive enough, though the job itself is 
 
 
 # ***honesty*** n
----
-英音 'ɒnəsti     美音 'ɑːnəsti
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'ɒnəsti     美音 'ɑːnəsti  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -4945,12 +4217,8 @@ ________ (老实说), the pay isn't attractive enough, though the job itself is 
 
 
 # ***honey*** n
----
-英音 'hʌni     美音 'hʌni
-
-词频 4 | 口语 2 | 书面 0 | 阅读 0
-
-
+英音 'hʌni     美音 'hʌni  
+词频 4 | 口语 2 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 蜂蜜；甜美之物：**  
@@ -4967,12 +4235,8 @@ ________ (老实说), the pay isn't attractive enough, though the job itself is 
 
 
 # ***hono(u)r*** n  重难点词汇
----
-英音 'ɒnə(r)     美音 'ɑːnər
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɒnə(r)     美音 'ɑːnər  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] [常用单数] [正式用语] 荣幸；[U] 荣誉；[C] 荣誉称号：**  
@@ -5046,12 +4310,8 @@ the quality of knowing and doing what is morally right：
 
 
 # ***hono(u)r*** vt  重难点词汇
----
-英音 'ɒnə(r)     美音 'ɑːnər
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 'ɒnə(r)     美音 'ɑːnər  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **使...感到荣幸；[正式用语] 给予...荣誉：**  
@@ -5094,12 +4354,8 @@ I feel greatly honored ________ (welcome) into their society.
   
 
 # ***hono(u)rable*** adj
----
-英音 'ɒnərəbl     美音 'ɑːnərəbl
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'ɒnərəbl     美音 'ɑːnərəbl  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **可敬的；光荣的**  
@@ -5107,12 +4363,8 @@ I feel greatly honored ________ (welcome) into their society.
 
 
 # ***hoof*** n
----
-英音 huːf     美音 huːf
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 huːf     美音 huːf  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（猪、牛等的）蹄**  
@@ -5120,12 +4372,8 @@ I feel greatly honored ________ (welcome) into their society.
 
 
 # ***hook*** n
----
-英音 hʊk     美音 hʊk
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 hʊk     美音 hʊk  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5134,12 +4382,8 @@ I feel greatly honored ________ (welcome) into their society.
 
 
 # ***hook*** v
----
-英音 hʊk     美音 hʊk
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 hʊk     美音 hʊk  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **vt & vi (被) 钩住；引 (人) 上钩；钓 (鱼)：**  
@@ -5158,12 +4402,8 @@ hooked /hʊkt/ adj [不用于名词前]
 
 
 # ***hoop*** n
----
-英音 huːp     美音 huːp
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 huːp     美音 huːp  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **圈**  
@@ -5171,12 +4411,8 @@ hooked /hʊkt/ adj [不用于名词前]
 
 
 # ***hop*** v
----
-英音 hɒp     美音 hɑːp
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 hɒp     美音 hɑːp  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **单足蹦跳**  
@@ -5184,12 +4420,8 @@ hooked /hʊkt/ adj [不用于名词前]
 
 
 # ***hop*** vi
----
-英音 hɒp     美音 hɑːp
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 hɒp     美音 hɑːp  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **单脚跳**  
@@ -5197,12 +4429,8 @@ hooked /hʊkt/ adj [不用于名词前]
 
 
 # ***hope*** n
----
-英音 həʊp     美音 hoʊp
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 həʊp     美音 hoʊp  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 希望；可能：**  
@@ -5248,12 +4476,8 @@ hooked /hʊkt/ adj [不用于名词前]
 
 
 # ***hope*** v
----
-英音 həʊp     美音 hoʊp
-
-词频 5 | 口语 3 | 书面 0 | 阅读 0
-
-
+英音 həʊp     美音 hoʊp  
+词频 5 | 口语 3 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **vi & vt 希望；期待：**  
@@ -5291,12 +4515,8 @@ hooked /hʊkt/ adj [不用于名词前]
 
 
 # ***hopeful*** adj
----
-英音 'həʊpfl     美音 'hoʊpfl
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'həʊpfl     美音 'hoʊpfl  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **怀有希望的 (optimistic)：**  
@@ -5318,12 +4538,8 @@ hooked /hʊkt/ adj [不用于名词前]
 
 
 # ***hopefully*** adv
----
-英音 'həʊpfəli     美音 'hoʊpfəli
-
-词频 3 | 口语 3 | 书面 0 | 阅读 0
-
-
+英音 'həʊpfəli     美音 'hoʊpfəli  
+词频 3 | 口语 3 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **充满希望地； [句子副词] 有望：**  
@@ -5348,12 +4564,8 @@ The boy looked at his father ________ (满怀希望地) because he thought his f
   
 
 # ***hopeless*** adj
----
-英音 'həʊpləs     美音 'hoʊpləs
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'həʊpləs     美音 'hoʊpləs  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **没有希望的；绝望的；无可救药的；糟透的：**  
@@ -5376,12 +4588,8 @@ hopelessly /'həʊpləsli/ adv
 hopelessness /'həʊpləsnəs/ n 
 
 # ***horizon*** n
----
-英音 hə'raɪzn     美音 hə'raɪzn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 hə'raɪzn     美音 hə'raɪzn  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *低义频：* **[与the连用] 地平线：**  
@@ -5399,12 +4607,8 @@ hopelessness /'həʊpləsnəs/ n
 
 
 # ***horizontal*** adj
----
-英音 ˌhɒrɪ'zɒntl     美音 ˌhɔːrə'zɑːntl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌhɒrɪ'zɒntl     美音 ˌhɔːrə'zɑːntl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **水平的，与地平线平行的**  
@@ -5412,12 +4616,8 @@ hopelessness /'həʊpləsnəs/ n
 
 
 # ***horn*** n
----
-英音 hɔːn     美音 hɔːrn
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 hɔːn     美音 hɔːrn  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5434,12 +4634,8 @@ hopelessness /'həʊpləsnəs/ n
 
 
 # ***hornbeam*** n
----
-英音 'hɔːnbiːm     美音 'hɔːrnbiːm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hɔːnbiːm     美音 'hɔːrnbiːm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **角树，【植】鹅耳枥**  
@@ -5447,12 +4643,8 @@ hopelessness /'həʊpləsnəs/ n
 
 
 # ***horrible*** adj
----
-英音 'hɒrəbl     美音 'hɔːrəbl
-
-词频 2 | 口语 2 | 书面 0 | 阅读 0
-
-
+英音 'hɒrəbl     美音 'hɔːrəbl  
+词频 2 | 口语 2 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **可怕的；恐怖的**  
@@ -5478,12 +4670,8 @@ very bad or unpleasant：
 horribly /'hɒrəbli/ adv 
 
 # ***horrify*** v
----
 英音 'hɒrɪfaɪ     
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **使恐惧；使惊骇；使反感**  
@@ -5491,12 +4679,8 @@ horribly /'hɒrəbli/ adv
 
 
 # ***horror*** n
----
-英音 'hɒrə(r)     美音 'hɔːrər
-
-词频 2 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 'hɒrə(r)     美音 'hɔːrər  
+词频 2 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 恐怖；惊恐：**  
@@ -5527,12 +4711,8 @@ horribly /'hɒrəbli/ adv
 
 
 # ***horse*** n
----
-英音 hɔːs     美音 hɔːrs
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 hɔːs     美音 hɔːrs  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5550,12 +4730,8 @@ horribly /'hɒrəbli/ adv
 
 
 # ***horse-drawn*** adj
----
-英音 'hɔːsdrɔːn     美音 'hɔːsdrɔːn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hɔːsdrɔːn     美音 'hɔːsdrɔːn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **用马拉的**  
@@ -5563,12 +4739,8 @@ horribly /'hɒrəbli/ adv
 
 
 # ***horseshoe*** n
----
-英音 'hɔːsʃuː     美音 'hɔːsʃuː
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hɔːsʃuː     美音 'hɔːsʃuː  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **马掌；马蹄铁**  
@@ -5576,12 +4748,8 @@ horribly /'hɒrəbli/ adv
 
 
 # ***hospitable*** adj
----
-英音 hɒ'spɪtəbl     美音 hɑː'spɪtəbl
-
-词频 1 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 hɒ'spɪtəbl     美音 hɑː'spɪtəbl  
+词频 1 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **好客的；殷勤的：**  
@@ -5592,12 +4760,8 @@ horribly /'hɒrəbli/ adv
 
 
 # ***hospital*** n
----
-英音 'hɒspɪtl     美音 'hɑːspɪtl
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'hɒspɪtl     美音 'hɑːspɪtl  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5632,12 +4796,8 @@ In a week, Lucy has already been interviewed by six ________ (医院).
   
 
 # ***hospitality*** n
----
-英音 ˌhɒspɪ'tæləti     美音 ˌhɑːspɪ'tæləti
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 ˌhɒspɪ'tæləti     美音 ˌhɑːspɪ'tæləti  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -5646,12 +4806,8 @@ In a week, Lucy has already been interviewed by six ________ (医院).
 
 
 # ***host*** n
----
-英音 həʊst     美音 hoʊst
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 həʊst     美音 hoʊst  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5677,12 +4833,8 @@ In a week, Lucy has already been interviewed by six ________ (医院).
 
 
 # ***host*** vt
----
-英音 həʊst     美音 hoʊst
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 həʊst     美音 hoʊst  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **主办；主持：**  
@@ -5693,12 +4845,8 @@ In a week, Lucy has already been interviewed by six ________ (医院).
 
 
 # ***hostel*** n
----
-英音 'hɒstl     美音 'hɑːstl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hɒstl     美音 'hɑːstl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **旅社, 招待所**  
@@ -5706,12 +4854,8 @@ In a week, Lucy has already been interviewed by six ________ (医院).
 
 
 # ***hostess*** n
----
-英音 'həʊstəs     美音 'hoʊstəs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'həʊstəs     美音 'hoʊstəs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5720,12 +4864,8 @@ In a week, Lucy has already been interviewed by six ________ (医院).
 
 
 # ***hot*** adj
----
-英音 hɒt     美音 hɑːt
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 hɒt     美音 hɑːt  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **热的；烫的：**  
@@ -5764,12 +4904,8 @@ In a week, Lucy has already been interviewed by six ________ (医院).
 
 
 # ***hotdog*** n
----
-英音 'hɒtˌdɒg     美音 'hɒtˌdɒg
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'hɒtˌdɒg     美音 'hɒtˌdɒg  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5778,12 +4914,8 @@ In a week, Lucy has already been interviewed by six ________ (医院).
 
 
 # ***hotel*** n
----
-英音 həʊ'tel     美音 hoʊ'tel
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 həʊ'tel     美音 hoʊ'tel  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5792,12 +4924,8 @@ In a week, Lucy has already been interviewed by six ________ (医院).
 
 
 # ***hour*** n
----
-英音 'aʊə(r)     美音 'aʊər
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'aʊə(r)     美音 'aʊər  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5862,12 +4990,8 @@ As a rule, domestic servants doing odd jobs are paid ________ the hour.
   
 
 # ***house*** n
----
-英音 haʊs     美音 haʊs
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 haʊs     美音 haʊs  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5914,12 +5038,8 @@ As a rule, domestic servants doing odd jobs are paid ________ the hour.
 
 
 # ***house*** vt
----
-英音 haʊz     美音 haʊz
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 haʊz     美音 haʊz  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **给...房子住：**  
@@ -5936,12 +5056,8 @@ As a rule, domestic servants doing odd jobs are paid ________ the hour.
 
 
 # ***household*** n
----
-英音 'haʊshəʊld     美音 'haʊshoʊld
-
-词频 3 | 口语 1 | 书面 2 | 阅读 2
-
-用法点拨  [C]
+英音 'haʊshəʊld     美音 'haʊshoʊld  
+词频 3 | 口语 1 | 书面 2 | 阅读 2  用法点拨  [C]
 
 英文释义
 ---
@@ -5954,12 +5070,8 @@ all the people living together in a house：
 
 
 # ***household*** adj
----
-英音 'haʊshəʊld     美音 'haʊshoʊld
-
-词频 3 | 口语 0 | 书面 0 | 阅读 2
-
-
+英音 'haʊshəʊld     美音 'haʊshoʊld  
+词频 3 | 口语 0 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **[只用于名词前]家庭的；家用的：**  
@@ -5980,12 +5092,8 @@ all the people living together in a house：
 
 
 # ***housewife*** n
----
-英音 'haʊswaɪf     美音 'haʊswaɪf
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] (pl housewives)
+英音 'haʊswaɪf     美音 'haʊswaɪf  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] (pl housewives)
 
 英文释义
 ---
@@ -5994,12 +5102,8 @@ all the people living together in a house：
 
 
 # ***housework*** n
----
-英音 'haʊswɜːk     美音 'haʊswɜːrk
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'haʊswɜːk     美音 'haʊswɜːrk  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -6011,12 +5115,8 @@ all the people living together in a house：
 
 
 # ***housing*** n
----
-英音 'haʊzɪŋ     美音 'haʊzɪŋ
-
-词频 4 | 口语 0 | 书面 2 | 阅读 0
-
-用法点拨  [U]
+英音 'haʊzɪŋ     美音 'haʊzɪŋ  
+词频 4 | 口语 0 | 书面 2 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -6031,12 +5131,8 @@ all the people living together in a house：
 
 
 # ***hover*** vi
----
-英音 'hɒvə(r)     美音 'hʌvər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hɒvə(r)     美音 'hʌvər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **盘旋**  
@@ -6044,12 +5140,8 @@ all the people living together in a house：
 
 
 # ***how*** adv
----
-英音 haʊ     美音 haʊ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 haʊ     美音 haʊ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[指方式、方法] 怎样；怎么：**  
@@ -6176,12 +5268,8 @@ Students are always interested in finding out how ________ they can go with a ne
   
 
 # ***however*** adv
----
-英音 haʊ'evə(r)     美音 haʊ'evər
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 haʊ'evə(r)     美音 haʊ'evər  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[作how的强调形式] 究竟怎样；到底如何：**  
@@ -6232,12 +5320,8 @@ However ________ (一个严重的问题) you may have, you should gather your co
   
 
 # ***however*** conj
----
-英音 haʊ'evə(r)     美音 haʊ'evər
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 haʊ'evə(r)     美音 haʊ'evər  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[相当于no matter how, 引导让步状语从句] 不管用什么方法 / 方式：**  
@@ -6248,12 +5332,8 @@ However ________ (一个严重的问题) you may have, you should gather your co
 
 
 # ***howl*** vi
----
-英音 haʊl     美音 haʊl
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 haʊl     美音 haʊl  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(狗、狼等) 嚎叫；嚎哭；怒号：**  
@@ -6271,12 +5351,8 @@ However ________ (一个严重的问题) you may have, you should gather your co
 
 
 # ***howl*** n
----
-英音 haʊl     美音 haʊl
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 haʊl     美音 haʊl  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6288,12 +5364,8 @@ However ________ (一个严重的问题) you may have, you should gather your co
 
 
 # ***hug*** vt
----
-英音 hʌɡ     美音 hʌɡ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 hʌɡ     美音 hʌɡ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **紧抱；拥抱；紧靠：**  
@@ -6307,12 +5379,8 @@ However ________ (一个严重的问题) you may have, you should gather your co
 
 
 # ***hug*** n
----
-英音 hʌɡ     美音 hʌɡ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 hʌɡ     美音 hʌɡ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6325,12 +5393,8 @@ However ________ (一个严重的问题) you may have, you should gather your co
 
 
 # ***huge*** adj
----
-英音 hjuːdʒ     美音 hjuːdʒ
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 hjuːdʒ     美音 hjuːdʒ  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **巨大的；庞大的 (enormous / vast)：**  
@@ -6346,12 +5410,8 @@ However ________ (一个严重的问题) you may have, you should gather your co
 
 
 # ***human*** n
----
-英音 'hjuːmən     美音 'hjuːmən
-
-词频 5 | 口语 0 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'hjuːmən     美音 'hjuːmən  
+词频 5 | 口语 0 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6367,12 +5427,8 @@ However ________ (一个严重的问题) you may have, you should gather your co
 humanism /'hjuːmənɪzəm/ n 
 
 # ***human*** adj
----
-英音 'hjuːmən     美音 'hjuːmən
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 'hjuːmən     美音 'hjuːmən  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[只用于名词前] 人的；人类的：**  
@@ -6407,12 +5463,8 @@ humanism /'hjuːmənɪzəm/ n
 humanism /'hjuːmənɪzəm/ n 
 
 # ***humanistic*** adj
----
-英音 ˌhjuːmə'nɪstɪk     美音 ˌhjuːmə'nɪstɪk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌhjuːmə'nɪstɪk     美音 ˌhjuːmə'nɪstɪk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **人道主义的**  
@@ -6420,12 +5472,8 @@ humanism /'hjuːmənɪzəm/ n
 
 
 # ***humanity*** n
----
-英音 hjuː'mænəti     美音 hjuː'mænəti
-
-词频 2 | 口语 0 | 书面 0 | 阅读 2
-
-用法点拨  [U] [总称]
+英音 hjuː'mænəti     美音 hjuː'mænəti  
+词频 2 | 口语 0 | 书面 0 | 阅读 2  用法点拨  [U] [总称]
 
 英文释义
 ---
@@ -6447,12 +5495,8 @@ humanism /'hjuːmənɪzəm/ n
 
 
 # ***humble*** adj
----
-英音 'hʌmbl     美音 'hʌmbl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hʌmbl     美音 'hʌmbl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **谦卑的；地位低下的**  
@@ -6460,12 +5504,8 @@ humanism /'hjuːmənɪzəm/ n
 
 
 # ***humo(u)r*** n
----
-英音 'hjuːmə(r)     美音 'hjuːmər
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'hjuːmə(r)     美音 'hjuːmər  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -6481,12 +5521,8 @@ humanism /'hjuːmənɪzəm/ n
 
 
 # ***humorous*** adj
----
-英音 'hjuːmərəs     美音 'hjuːmərəs
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hjuːmərəs     美音 'hjuːmərəs  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **幽默的；诙谐的：**  
@@ -6500,12 +5536,8 @@ humanism /'hjuːmənɪzəm/ n
 
 
 # ***hundred*** num
----
-英音 'hʌndrəd     美音 'hʌndrəd
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hʌndrəd     美音 'hʌndrəd  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **一百：**  
@@ -6530,12 +5562,8 @@ hundred / thousand / million前有two, several等词修饰时，hundred / thousa
 
 
 # ***hunger*** n
----
-英音 'hʌŋɡə(r)     美音 'hʌŋɡər
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hʌŋɡə(r)     美音 'hʌŋɡər  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 饥饿：**  
@@ -6556,12 +5584,8 @@ hundred / thousand / million前有two, several等词修饰时，hundred / thousa
 
 
 # ***hunger*** vi
----
-英音 'hʌŋɡə(r)     美音 'hʌŋɡər
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hʌŋɡə(r)     美音 'hʌŋɡər  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. 
@@ -6578,12 +5602,8 @@ hundred / thousand / million前有two, several等词修饰时，hundred / thousa
 
 
 # ***hungry*** adj
----
-英音 'hʌŋɡri     美音 'hʌŋɡri
-
-词频 4 | 口语 2 | 书面 0 | 阅读 0
-
-
+英音 'hʌŋɡri     美音 'hʌŋɡri  
+词频 4 | 口语 2 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **饥饿的：**  
@@ -6621,12 +5641,8 @@ hundred / thousand / million前有two, several等词修饰时，hundred / thousa
 
 
 # ***hunt*** v
----
-英音 hʌnt     美音 hʌnt
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 hʌnt     美音 hʌnt  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **追猎；猎取：**  
@@ -6661,12 +5677,8 @@ hundred / thousand / million前有two, several等词修饰时，hundred / thousa
 
 
 # ***hunt*** n
----
-英音 hʌnt     美音 hʌnt
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 hʌnt     美音 hʌnt  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6687,12 +5699,8 @@ hunting /'hʌntɪŋ/ n
 
 
 # ***hunter*** n
----
-英音 'hʌntə(r)     美音 'hʌntər
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'hʌntə(r)     美音 'hʌntər  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6709,12 +5717,8 @@ hunting /'hʌntɪŋ/ n
 
 
 # ***hurdle*** n
----
-英音 'hɜːdl     美音 'hɜːrdl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hɜːdl     美音 'hɜːrdl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **跨栏；难关，障碍**  
@@ -6722,12 +5726,8 @@ hunting /'hʌntɪŋ/ n
 
 
 # ***hurray*** int
----
-英音 hə'rɑː     美音 hə'rɑː
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 hə'rɑː     美音 hə'rɑː  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **好哇**  
@@ -6735,12 +5735,8 @@ hunting /'hʌntɪŋ/ n
 
 
 # ***hurricane*** n
----
-英音 'hʌrɪkən     美音 'hɜːrəkən
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'hʌrɪkən     美音 'hɜːrəkən  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6749,12 +5745,8 @@ hunting /'hʌntɪŋ/ n
 
 
 # ***hurry*** n
----
-英音 'hʌri     美音 'hɜːri
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'hʌri     美音 'hɜːri  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -6804,12 +5796,8 @@ D.No use
   
 
 # ***hurry*** v
----
-英音 'hʌri     美音 'hɜːri
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'hʌri     美音 'hɜːri  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(使) 赶紧；匆忙 (做) (rush)：**  
@@ -6861,12 +5849,8 @@ hurriedly /'hʌridli/ adv
   
 
 # ***hurt*** v
----
-英音 hɜːt     美音 hɜːrt
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  (hurt, hurt)
+英音 hɜːt     美音 hɜːrt  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  用法点拨  (hurt, hurt)
 
 英文释义
 ---
@@ -6937,12 +5921,8 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
   
 
 # ***hurt*** n
----
-英音 hɜːt     美音 hɜːrt
-
-词频 5 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [U] & [C]
+英音 hɜːt     美音 hɜːrt  
+词频 5 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [U] & [C]
 
 英文释义
 ---
@@ -6957,12 +5937,8 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 
 
 # ***hurt*** adj
----
-英音 hɜːt     美音 hɜːrt
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 hɜːt     美音 hɜːrt  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **(身体上、感情上) 受伤的：**  
@@ -6976,12 +5952,8 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 
 
 # ***husband*** n
----
-英音 'hʌzbənd     美音 'hʌzbənd
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'hʌzbənd     美音 'hʌzbənd  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -6990,12 +5962,8 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 
 
 # ***hush*** v
----
-英音 hʌʃ     美音 hʌʃ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 hʌʃ     美音 hʌʃ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(使某人) 安静下来**  
@@ -7003,12 +5971,8 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 
 
 # ***hustle*** v
----
-英音 'hʌsl     美音 'hʌsl
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'hʌsl     美音 'hʌsl  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **拼命干，努力干**  
@@ -7016,12 +5980,8 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 
 
 # ***hut*** n
----
-英音 hʌt     美音 hʌt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 hʌt     美音 hʌt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -7030,12 +5990,8 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 
 
 # ***hybrid*** adj
----
-英音 'haɪbrɪd     美音 'haɪbrɪd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'haɪbrɪd     美音 'haɪbrɪd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **混合的；杂种的**  
@@ -7043,12 +5999,8 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 
 
 # ***hybrid*** n
----
-英音 'haɪbrɪd     美音 'haɪbrɪd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'haɪbrɪd     美音 'haɪbrɪd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **杂交种；混血儿**  
@@ -7056,12 +6008,8 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 
 
 # ***hydro-electric*** adj
----
-英音 'haɪdrəʊɪ'lektrɪk     美音 'haɪdroʊɪ'lektrɪk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'haɪdrəʊɪ'lektrɪk     美音 'haɪdroʊɪ'lektrɪk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **水力发电的**  
@@ -7069,12 +6017,8 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 
 
 # ***hydrogen*** n
----
-英音 'haɪdrədʒən     美音 'haɪdrədʒən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U]
+英音 'haɪdrədʒən     美音 'haɪdrədʒən  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -7083,12 +6027,8 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 
 
 # ***hysteria*** n
----
-英音 hɪ'stɪəriə     美音 hɪ'stɪriə
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 hɪ'stɪəriə     美音 hɪ'stɪriə  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **歇斯底里**  

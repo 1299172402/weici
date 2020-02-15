@@ -1,12 +1,8 @@
 # Ff
 
 # ***fabric*** n
----
-英音 'fæbrɪk     美音 'fæbrɪk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fæbrɪk     美音 'fæbrɪk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **[U] & [C] 织物；织品；结构**  
@@ -14,12 +10,8 @@
 
 
 # ***face*** n
----
-英音 feɪs     美音 feɪs
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 feɪs     美音 feɪs  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -106,12 +98,8 @@
 
 
 # ***face*** v
----
-英音 feɪs     美音 feɪs
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 feɪs     美音 feɪs  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **面向；面朝：**  
@@ -162,12 +150,8 @@ ________ (face) with so much trouble, we failed to complete the task on time.
   
 
 # ***face-to-face*** adj
----
 
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **当面的；面对面的**  
@@ -175,12 +159,8 @@ ________ (face) with so much trouble, we failed to complete the task on time.
 
 
 # ***facial*** adj
----
-英音 'feɪʃl     美音 'feɪʃl
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'feɪʃl     美音 'feɪʃl  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **面部的：**  
@@ -191,12 +171,8 @@ ________ (face) with so much trouble, we failed to complete the task on time.
 
 
 # ***facilitate*** vt
----
-英音 fə'sɪlɪteɪt     美音 fə'sɪlɪteɪt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fə'sɪlɪteɪt     美音 fə'sɪlɪteɪt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **促进；使便利：**  
@@ -207,12 +183,8 @@ ________ (face) with so much trouble, we failed to complete the task on time.
 
 
 # ***facility*** n
----
-英音 fə'sɪləti     美音 fə'sɪləti
-
-词频 4 | 口语 2 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 fə'sɪləti     美音 fə'sɪləti  
+词频 4 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -235,12 +207,8 @@ ________ (face) with so much trouble, we failed to complete the task on time.
 
 
 # ***fact*** n
----
-英音 fækt     美音 fækt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 fækt     美音 fækt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 事实；真相：**  
@@ -291,12 +259,8 @@ There’s no reason to be disappointed. ________ (事实上), this could be rath
   
 
 # ***factor*** n
----
-英音 'fæktə(r)     美音 'fæktər
-
-词频 4 | 口语 1 | 书面 3 | 阅读 3
-
-
+英音 'fæktə(r)     美音 'fæktər  
+词频 4 | 口语 1 | 书面 3 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **[C] 因素；要素：**  
@@ -311,12 +275,8 @@ There’s no reason to be disappointed. ________ (事实上), this could be rath
 
 
 # ***factory*** n
----
-英音 'fækt(ə)ri     美音 'fækt(ə)ri
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'fækt(ə)ri     美音 'fækt(ə)ri  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 工厂**  
@@ -324,12 +284,8 @@ There’s no reason to be disappointed. ________ (事实上), this could be rath
 
 
 # ***factual*** adj
----
-英音 'fæktʃuəl     美音 'fæktʃuəl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fæktʃuəl     美音 'fæktʃuəl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **实际的；事实的；确实的**  
@@ -337,12 +293,8 @@ There’s no reason to be disappointed. ________ (事实上), this could be rath
 
 
 # ***fade*** v
----
-英音 feɪd     美音 feɪd
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 feɪd     美音 feɪd  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(使) 褪色；(使) 变暗：**  
@@ -378,12 +330,8 @@ There’s no reason to be disappointed. ________ (事实上), this could be rath
 
 
 # ***fail*** v  重难点词汇
----
-英音 feɪl     美音 feɪl
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 feɪl     美音 feɪl  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **失败；没做成**  
@@ -463,12 +411,8 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
   
 
 # ***fail*** n  重难点词汇
----
-英音 feɪl     美音 feɪl
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 feɪl     美音 feɪl  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. **[C] (考试) 不及格**  
@@ -480,12 +424,8 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
 
 
 # ***failure*** n
----
-英音 'feɪljə(r)     美音 'feɪljər
-
-词频 4 | 口语 1 | 书面 2 | 阅读 3
-
-
+英音 'feɪljə(r)     美音 'feɪljər  
+词频 4 | 口语 1 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **[U] 失败:**  
@@ -535,12 +475,8 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
 
 
 # ***faint*** adj
----
-英音 feɪnt     美音 feɪnt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 feɪnt     美音 feɪnt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **眩晕的；虚弱的：**  
@@ -570,12 +506,8 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
 
 
 # ***faint*** vi
----
-英音 feɪnt     美音 feɪnt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 feɪnt     美音 feɪnt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **昏厥；晕倒：**  
@@ -586,12 +518,8 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
 
 
 # ***fair*** adj
----
-英音 feə(r)     美音 fer
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 feə(r)     美音 fer  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **公平的；公正的；合理的**  
@@ -633,12 +561,8 @@ quite good, large, etc.：
 
 
 # ***fair*** n
----
-英音 feə(r)     美音 fer
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 feə(r)     美音 fer  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 露天游乐场；集市；展销会；义卖会：**  
@@ -656,12 +580,8 @@ quite good, large, etc.：
 
 
 # ***fair-skinned*** adj
----
-英音 'feərsk'ɪnd     美音 'feərsk'ɪnd
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'feərsk'ɪnd     美音 'feərsk'ɪnd  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **浅肤色的**  
@@ -669,12 +589,8 @@ quite good, large, etc.：
 
 
 # ***fairly*** adv
----
-英音 'feəli     美音 'ferli
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 'feəli     美音 'ferli  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **公平地；相当 (quite)：**  
@@ -690,12 +606,8 @@ quite good, large, etc.：
 四者都有“相当”之意。
 
 # ***fairy*** n
----
-英音 'feəri     美音 'feri
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'feəri     美音 'feri  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 小仙子；小精灵：**  
@@ -706,12 +618,8 @@ quite good, large, etc.：
 
 
 # ***fairytale*** n
----
-英音 'feəriteɪl     美音 'feriteɪl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'feəriteɪl     美音 'feriteɪl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **童话**  
@@ -719,12 +627,8 @@ quite good, large, etc.：
 
 
 # ***faith*** n
----
-英音 feɪθ     美音 feɪθ
-
-词频 3 | 口语 1 | 书面 2 | 阅读 2
-
-
+英音 feɪθ     美音 feɪθ  
+词频 3 | 口语 1 | 书面 2 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **[U] 信任；信心：**  
@@ -754,12 +658,8 @@ faithful /'feɪθfl/ adj
 faithfully /'feɪθfəli/ adv 
 
 # ***faithfully*** adv
----
-英音 'feɪθfəli     美音 'feɪθfəli
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'feɪθfəli     美音 'feɪθfəli  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **忠诚地；忠实地：**  
@@ -770,12 +670,8 @@ faithfully /'feɪθfəli/ adv
 
 
 # ***fake*** adj
----
-英音 feɪk     美音 feɪk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 feɪk     美音 feɪk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **假的；伪造的：**  
@@ -786,12 +682,8 @@ faithfully /'feɪθfəli/ adv
 
 
 # ***fake*** n
----
-英音 feɪk     美音 feɪk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 feɪk     美音 feɪk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 假货；赝品：**  
@@ -799,12 +691,8 @@ faithfully /'feɪθfəli/ adv
 
 
 # ***fall*** vi  重难点词汇
----
-英音 fɔːl     美音 fɔːl
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (fell, fallen)
+英音 fɔːl     美音 fɔːl  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (fell, fallen)
 
 英文释义
 ---
@@ -981,12 +869,8 @@ faithfully /'feɪθfəli/ adv
 
 
 # ***fall*** n  重难点词汇
----
-英音 fɔːl     美音 fɔːl
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fɔːl     美音 fɔːl  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 落下；跌倒；(雨 、雪等) 的降落：**  
@@ -1022,12 +906,8 @@ I am awfully tired, but I know I'll never fall sleep.
   
 
 # ***fall*** n
----
-英音 fɔːl     美音 fɔːl
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fɔːl     美音 fɔːl  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **[C] 秋天 (BrE autumn)**  
@@ -1035,12 +915,8 @@ I am awfully tired, but I know I'll never fall sleep.
 
 
 # ***false*** adj
----
-英音 fɔːls     美音 fɔːls
-
-词频 3 | 口语 0 | 书面 1 | 阅读 3
-
-
+英音 fɔːls     美音 fɔːls  
+词频 3 | 口语 0 | 书面 1 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **假的；不真实的；不正确的；人造的 (artificial)：**  
@@ -1054,12 +930,8 @@ I am awfully tired, but I know I'll never fall sleep.
 
 
 # ***fame*** n
----
-英音 feɪm     美音 feɪm
-
-词频 3 | 口语 0 | 书面 0 | 阅读 2
-
-
+英音 feɪm     美音 feɪm  
+词频 3 | 口语 0 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **[U] 名声；名望；声誉：**  
@@ -1078,12 +950,8 @@ I am awfully tired, but I know I'll never fall sleep.
 
 
 # ***familiar*** adj
----
-英音 fə'mɪliə(r)     美音 fə'mɪliər
-
-词频 4 | 口语 1 | 书面 2 | 阅读 3
-
-
+英音 fə'mɪliə(r)     美音 fə'mɪliər  
+词频 4 | 口语 1 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **熟悉的；常见的：**  
@@ -1106,12 +974,8 @@ I am awfully tired, but I know I'll never fall sleep.
 familiarity /fəˌmɪli'ærəti/ n 
 
 # ***family*** n
----
-英音 'fæməli     美音 'fæməli
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'fæməli     美音 'fæməli  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 家 (庭)；家人；家族；科：**  
@@ -1135,12 +999,8 @@ family作主语时，若指“各个家庭成员”，谓语动词用复数；�
 
 
 # ***famine*** n
----
-英音 'fæmɪn     美音 'fæmɪn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fæmɪn     美音 'fæmɪn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 饥荒：**  
@@ -1151,12 +1011,8 @@ family作主语时，若指“各个家庭成员”，谓语动词用复数；�
 
 
 # ***famous*** adj
----
-英音 'feɪməs     美音 'feɪməs
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'feɪməs     美音 'feɪməs  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **著名的；出名的 (well-known)：**  
@@ -1186,12 +1042,8 @@ Zhejiang is f________ for tea and silk.
   
 
 # ***fan*** n
----
-英音 fæn     美音 fæn
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-用法点拨  [C]
+英音 fæn     美音 fæn  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1213,12 +1065,8 @@ Zhejiang is f________ for tea and silk.
 
 
 # ***fancy*** vt
----
-英音 'fænsi     美音 'fænsi
-
-词频 2 | 口语 2 | 书面 0 | 阅读 0
-
-
+英音 'fænsi     美音 'fænsi  
+词频 2 | 口语 2 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(BrE) [非正式用语] 想要 (feel like)；喜欢：**  
@@ -1256,12 +1104,8 @@ to believe or imagine sth：
 
 
 # ***fancy*** n
----
-英音 'fænsi     美音 'fænsi
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fænsi     美音 'fænsi  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **想要；喜欢：**  
@@ -1287,12 +1131,8 @@ to believe or imagine sth：
 
 
 # ***fancy*** adj
----
-英音 'fænsi     美音 'fænsi
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'fænsi     美音 'fænsi  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **精致的；花哨的；异常复杂的  反:simple ；昂贵的；奢华的：**  
@@ -1313,12 +1153,8 @@ to believe or imagine sth：
 
 
 # ***fantastic*** adj
----
-英音 fæn'tæstɪk     美音 fæn'tæstɪk
-
-词频 2 | 口语 1 | 书面 0 | 阅读 2
-
-
+英音 fæn'tæstɪk     美音 fæn'tæstɪk  
+词频 2 | 口语 1 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **极好的**  
@@ -1336,12 +1172,8 @@ extremely good, attractive, enjoyable, etc.：
 
 
 # ***fantasy*** n
----
-英音 'fæntəsi     美音 'fæntəsi
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 'fæntəsi     美音 'fæntəsi  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 幻想；想象：**  
@@ -1358,12 +1190,8 @@ extremely good, attractive, enjoyable, etc.：
 
 
 # ***far*** adj  重难点词汇
----
-英音 fɑː(r)     美音 fɑːr
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (farther, farthest; further, furthest)
+英音 fɑː(r)     美音 fɑːr  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (farther, farthest; further, furthest)
 
 英文释义
 ---
@@ -1391,12 +1219,8 @@ extremely good, attractive, enjoyable, etc.：
 
 
 # ***far*** adv  重难点词汇
----
-英音 fɑː(r)     美音 fɑːr
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 fɑː(r)     美音 fɑːr  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(距离) 远；(时间) 久：**  
@@ -1525,12 +1349,8 @@ Progress ________ (be) so far very good and we are sure that the work will be fi
   
 
 # ***far-reaching*** adj
----
 英音 fɑː 'riːtʃɪŋ     
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **深远的；伸至远处的；广大的**  
@@ -1538,12 +1358,8 @@ Progress ________ (be) so far very good and we are sure that the work will be fi
 
 
 # ***fare*** n
----
-英音 feə(r)     美音 fer
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 feə(r)     美音 fer  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] (车、船) 费；票价：**  
@@ -1555,12 +1371,8 @@ Progress ________ (be) so far very good and we are sure that the work will be fi
 fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费用。
 
 # ***farewell*** n
----
-英音  ˌfeə'wel     美音 ˌfer'wel
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音  ˌfeə'wel     美音 ˌfer'wel  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] & [C] 告别：**  
@@ -1571,12 +1383,8 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 
 
 # ***farewell*** int
----
-英音 ˌfeə'wel     美音 ˌfer'wel
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌfeə'wel     美音 ˌfer'wel  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **再见，再会**  
@@ -1587,12 +1395,8 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 
 
 # ***farm*** n
----
-英音 fɑːm     美音 fɑːrm
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 fɑːm     美音 fɑːrm  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 农场；饲养场：**  
@@ -1604,12 +1408,8 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 
 
 # ***farm*** v
----
-英音 fɑːm     美音 fɑːrm
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 fɑːm     美音 fɑːrm  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **种 (田)；养殖：**  
@@ -1623,12 +1423,8 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 
 
 # ***farmer*** n
----
-英音 'fɑːmə(r)     美音 'fɑːrmər
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'fɑːmə(r)     美音 'fɑːrmər  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 农民；农场主**  
@@ -1636,12 +1432,8 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 
 
 # ***farming*** n
----
-英音 'fɑːmɪŋ     美音 'fɑːrmɪŋ
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fɑːmɪŋ     美音 'fɑːrmɪŋ  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 务农；养殖业**  
@@ -1649,12 +1441,8 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 
 
 # ***farmyard*** n
----
-英音 'fɑːmjɑːd     美音 'fɑːrmjɑːrd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'fɑːmjɑːd     美音 'fɑːrmjɑːrd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -1663,12 +1451,8 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 
 
 # ***farther*** adj & adv
----
-英音 'fɑːðə(r)     美音 'fɑːrðər
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fɑːðə(r)     美音 'fɑːrðər  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(空间距离) 更远的 / 地：**  
@@ -1692,12 +1476,8 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 
 
 # ***farthest*** adj & adv
----
-英音 'fɑːðɪst     美音 'fɑːrðɪst
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fɑːðɪst     美音 'fɑːrðɪst  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[far的最高级] (空间距离) 最远的 / 地；最长 (距离) 的 / 地：**  
@@ -1708,12 +1488,8 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 
 
 # ***fascinate*** v
----
-英音 'fæsɪneɪt     美音 'fæsɪneɪt
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fæsɪneɪt     美音 'fæsɪneɪt  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(使) 着迷；(使) 迷住**  
@@ -1736,12 +1512,8 @@ fascinated /'fæsɪneɪtɪd/ adj
 
 
 # ***fascinated*** adj
----
-英音 'fæsɪneɪtɪd     美音 'fæsɪneɪtɪd
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fæsɪneɪtɪd     美音 'fæsɪneɪtɪd  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **被迷住的，被吸引住的**  
@@ -1749,12 +1521,8 @@ fascinated /'fæsɪneɪtɪd/ adj
 
 
 # ***fascinating*** adj
----
-英音 'fæsɪneɪtɪŋ     美音 'fæsɪneɪtɪŋ
-
-词频 3 | 口语 1 | 书面 0 | 阅读 2
-
-
+英音 'fæsɪneɪtɪŋ     美音 'fæsɪneɪtɪŋ  
+词频 3 | 口语 1 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **迷人的；极有吸引力的：**  
@@ -1765,12 +1533,8 @@ fascinated /'fæsɪneɪtɪd/ adj
 
 
 # ***fascination*** n
----
-英音 ˌfæsɪ'neɪʃn     美音 ˌfæsɪ'neɪʃn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌfæsɪ'neɪʃn     美音 ˌfæsɪ'neɪʃn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **着迷；迷恋；吸引力**  
@@ -1778,12 +1542,8 @@ fascinated /'fæsɪneɪtɪd/ adj
 
 
 # ***fashion*** n
----
-英音 'fæʃn     美音 'fæʃn
-
-词频 4 | 口语 2 | 书面 2 | 阅读 3
-
-
+英音 'fæʃn     美音 'fæʃn  
+词频 4 | 口语 2 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **[U] & [C] (服饰等的) 流行式样；最新款式：**  
@@ -1840,12 +1600,8 @@ Those who change mobile phones frequently will pay a heavy price for being______
   
 
 # ***fashionable*** adj
----
-英音 'fæʃnəbl     美音 'fæʃnəbl
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 'fæʃnəbl     美音 'fæʃnəbl  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **流行的；时髦的：**  
@@ -1866,12 +1622,8 @@ Those who change mobile phones frequently will pay a heavy price for being______
   
 
 # ***fast*** adj
----
-英音 fɑːst     美音 fæst
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 fɑːst     美音 fæst  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **快的；迅速的 【反:slow】；(钟表) 偏快的：**  
@@ -1898,12 +1650,8 @@ Those who change mobile phones frequently will pay a heavy price for being______
 
 
 # ***fast*** adv
----
-英音 fɑːst     美音 fæst
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 fɑːst     美音 fæst  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **快地；迅速地：**  
@@ -1914,12 +1662,8 @@ Those who change mobile phones frequently will pay a heavy price for being______
 
 
 # ***fasten*** vt
----
-英音 'fɑːsn     美音 'fæsn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fɑːsn     美音 'fæsn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **vt & vi 系牢 (do up)；(门、窗等) 关住；vt 使固定：**  
@@ -1942,12 +1686,8 @@ Those who change mobile phones frequently will pay a heavy price for being______
 
 
 # ***fat*** adj
----
-英音 fæt     美音 fæt
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 fæt     美音 fæt  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **肥胖的；(肉) 肥的；厚的 【反 thin】 ：**  
@@ -1970,12 +1710,8 @@ Those who change mobile phones frequently will pay a heavy price for being______
 
 
 # ***fat*** n
----
-英音 fæt     美音 fæt
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fæt     美音 fæt  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 脂肪；肥肉：**  
@@ -1998,12 +1734,8 @@ Those who change mobile phones frequently will pay a heavy price for being______
 
 
 # ***fate*** n
----
-英音 feɪt     美音 feɪt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 feɪt     美音 feɪt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 命运；[C] 命中注定的事 (尤指不好的事)：**  
@@ -2015,12 +1747,8 @@ Those who change mobile phones frequently will pay a heavy price for being______
 
 
 # ***fateful*** adj
----
-英音 'feɪtfl     美音 'feɪtfl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'feɪtfl     美音 'feɪtfl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(一般用于名词前) 重要的；决定性的；命中注定的**  
@@ -2028,12 +1756,8 @@ Those who change mobile phones frequently will pay a heavy price for being______
 
 
 # ***father*** n
----
-英音 'fɑːðə(r)     美音 'fɑːðər
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 'fɑːðə(r)     美音 'fɑːðər  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2060,12 +1784,8 @@ Those who change mobile phones frequently will pay a heavy price for being______
 
 
 # ***fathom*** n
----
-英音 'fæðəm     美音 'fæðəm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'fæðəm     美音 'fæðəm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -2074,12 +1794,8 @@ Those who change mobile phones frequently will pay a heavy price for being______
 
 
 # ***fault*** n
----
-英音 fɔːlt     美音 fɔːlt
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 fɔːlt     美音 fɔːlt  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(对错误所负的) 责任；过失；过错**  
@@ -2151,12 +1867,8 @@ He is such a man who is always finding fault ________ other people.
   
 
 # ***fault*** vt
----
-英音 fɔːlt     美音 fɔːlt
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 fɔːlt     美音 fɔːlt  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **找…的缺点；指责；挑剔：**  
@@ -2171,12 +1883,8 @@ He is such a man who is always finding fault ________ other people.
 faultless /'fɔːltləs/ adj 
 
 # ***favo(u)r*** vt
----
-英音 'feɪvə(r)     美音 'feɪvər
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 'feɪvə(r)     美音 'feɪvər  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **较喜欢**  
@@ -2202,12 +1910,8 @@ When asked about their opinions about the schoolmaster, many teachers would pref
   
 
 # ***favo(u)r*** n
----
-英音 'feɪvə(r)     美音 'feɪvər
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 'feɪvə(r)     美音 'feɪvər  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **恩惠；善意行为：**  
@@ -2262,12 +1966,8 @@ When asked about their opinions about the schoolmaster, many teachers would pref
 
 
 # ***favo(u)rite*** adj
----
-英音 'feɪvərɪt     美音 'feɪvərɪt
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [只用于名词前]
+英音 'feɪvərɪt     美音 'feɪvərɪt  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [只用于名词前]
 
 英文释义
 ---
@@ -2290,12 +1990,8 @@ What is your ________(最喜欢的) color?
   
 
 # ***favo(u)rite*** n
----
-英音 'feɪvərɪt     美音 'feɪvərɪt
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'feɪvərɪt     美音 'feɪvərɪt  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 心爱的人 / 物；受宠的人：**  
@@ -2306,12 +2002,8 @@ What is your ________(最喜欢的) color?
 
 
 # ***fax*** n
----
-英音 fæks     美音 fæks
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fæks     美音 fæks  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 传真；传真机；传真件：**  
@@ -2329,12 +2021,8 @@ What is your ________(最喜欢的) color?
 
 
 # ***fax*** vt
----
-英音 fæks     美音 fæks
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fæks     美音 fæks  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **用传真传输 (文件)：**  
@@ -2346,12 +2034,8 @@ What is your ________(最喜欢的) color?
 
 
 # ***fear*** n  重难点词汇
----
-英音 fɪə(r)     美音 fɪr
-
-词频 5 | 口语 1 | 书面 3 | 阅读 0
-
-
+英音 fɪə(r)     美音 fɪr  
+词频 5 | 口语 1 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 害怕；恐惧；担忧：**  
@@ -2401,12 +2085,8 @@ What is your ________(最喜欢的) color?
 
 
 # ***fear*** v  重难点词汇
----
-英音 fɪə(r)     美音 fɪr
-
-词频 5 | 口语 0 | 书面 2 | 阅读 0
-
-
+英音 fɪə(r)     美音 fɪr  
+词频 5 | 口语 0 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **害怕；畏惧：**  
@@ -2450,12 +2130,8 @@ He got to the station early, ________ fear of missing his train.
   
 
 # ***feast*** n
----
-英音 fiːst     美音 fiːst
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fiːst     美音 fiːst  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 盛宴；享受；(宗教) 节日：**  
@@ -2475,12 +2151,8 @@ He got to the station early, ________ fear of missing his train.
 
 
 # ***feather*** n
----
-英音 'feðə(r)     美音 'feðər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'feðə(r)     美音 'feðər  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 羽毛：**  
@@ -2498,12 +2170,8 @@ He got to the station early, ________ fear of missing his train.
 
 
 # ***feature*** n
----
-英音 'fiːtʃə(r)     美音 'fiːtʃər
-
-词频 4 | 口语 2 | 书面 3 | 阅读 3
-
-
+英音 'fiːtʃə(r)     美音 'fiːtʃər  
+词频 4 | 口语 2 | 书面 3 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **特征；特点**  
@@ -2543,12 +2211,8 @@ a special article or programme about sb / sth：
 
 
 # ***feature*** v
----
-英音 'fiːtʃə(r)     美音 'fiːtʃər
-
-词频 4 | 口语 0 | 书面 1 | 阅读 3
-
-
+英音 'fiːtʃə(r)     美音 'fiːtʃər  
+词频 4 | 口语 0 | 书面 1 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **是...的特征；以...为特色**  
@@ -2574,12 +2238,8 @@ to have an important part in sth：
 
 
 # ***federal*** adj
----
-英音 'fedərəl     美音 'fedərəl
-
-词频 3 | 口语 0 | 书面 3 | 阅读 2
-
-
+英音 'fedərəl     美音 'fedərəl  
+词频 3 | 口语 0 | 书面 3 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **联盟的；联邦 (制)的；联邦政府的：**  
@@ -2593,12 +2253,8 @@ to have an important part in sth：
 
 
 # ***federation*** n
----
-英音 ˌfedə'reɪʃn     美音 ˌfedə'reɪʃn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 ˌfedə'reɪʃn     美音 ˌfedə'reɪʃn  
+词频 1 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 联盟；联邦**  
@@ -2606,12 +2262,8 @@ to have an important part in sth：
 
 
 # ***fee*** n
----
-英音 fiː     美音 fiː
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 fiː     美音 fiː  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 费；报酬：**  
@@ -2637,12 +2289,8 @@ fee指进入或加入某组织所付的费用，还可指为专业服务所支�
 
 
 # ***fee*** vt
----
-英音 fiː     美音 fiː
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 fiː     美音 fiː  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **付小费给：**  
@@ -2653,12 +2301,8 @@ fee指进入或加入某组织所付的费用，还可指为专业服务所支�
 
 
 # ***feed*** v
----
-英音 fiːd     美音 fiːd
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-用法点拨  (fed,fed)
+英音 fiːd     美音 fiːd  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  用法点拨  (fed,fed)
 
 英文释义
 ---
@@ -2733,12 +2377,8 @@ B.
   
 
 # ***feed*** n
----
-英音 fiːd     美音 fiːd
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fiːd     美音 fiːd  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **[C] 一餐；一顿：**  
@@ -2752,12 +2392,8 @@ B.
 
 
 # ***feedback*** n
----
-英音 'fiːdbæk     美音 'fiːdbæk
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'fiːdbæk     美音 'fiːdbæk  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 反馈意见：**  
@@ -2768,12 +2404,8 @@ B.
 
 
 # ***feel*** vt  重难点词汇
----
-英音 fiːl     美音 fiːl
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (felt,felt)
+英音 fiːl     美音 fiːl  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (felt,felt)
 
 英文释义
 ---
@@ -2835,12 +2467,8 @@ B.
 
 
 # ***feel*** v  重难点词汇
----
-英音 fiːl     美音 fiːl
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (felt, felt)
+英音 fiːl     美音 fiːl  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (felt, felt)
 
 英文释义
 ---
@@ -2989,12 +2617,8 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
   
 
 # ***feel*** n  重难点词汇
----
-英音 fiːl     美音 fiːl
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fiːl     美音 fiːl  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **触摸；感觉；气氛：**  
@@ -3008,12 +2632,8 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
 
 
 # ***feeling*** n
----
-英音 'fiːlɪŋ     美音 'fiːlɪŋ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'fiːlɪŋ     美音 'fiːlɪŋ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] (身体部位的) 感觉；知觉：**  
@@ -3074,12 +2694,8 @@ the ability to understand sb / sth：
 
 
 # ***fellow*** n
----
-英音 'feləʊ     美音 'feloʊ
-
-词频 4 | 口语 0 | 书面 0 | 阅读 3
-
-用法点拨  [C]
+英音 'feləʊ     美音 'feloʊ  
+词频 4 | 口语 0 | 书面 0 | 阅读 3  用法点拨  [C]
 
 英文释义
 ---
@@ -3104,12 +2720,8 @@ the ability to understand sb / sth：
 
 
 # ***fellow*** adj
----
-英音 'feləʊ     美音 'feloʊ
-
-词频 4 | 口语 0 | 书面 1 | 阅读 3
-
-
+英音 'feləʊ     美音 'feloʊ  
+词频 4 | 口语 0 | 书面 1 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **同伴的；同事的；同类的：**  
@@ -3123,12 +2735,8 @@ the ability to understand sb / sth：
 
 
 # ***female*** adj
----
-英音 'fiːmeɪl     美音 'fiːmeɪl
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 'fiːmeɪl     美音 'fiːmeɪl  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **女的；女性的；雌 (性) 的：**  
@@ -3142,12 +2750,8 @@ the ability to understand sb / sth：
 
 
 # ***female*** n
----
-英音 'fiːmeɪl     美音 'fiːmeɪl
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 'fiːmeɪl     美音 'fiːmeɪl  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **女子；雌性动 / 植物**  
@@ -3155,12 +2759,8 @@ the ability to understand sb / sth：
 
 
 # ***fence*** n
----
-英音 fens     美音 fens
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 fens     美音 fens  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 栅栏；围栏；篱笆：**  
@@ -3174,12 +2774,8 @@ the ability to understand sb / sth：
 
 
 # ***fence*** vt
----
-英音 fens     美音 fens
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fens     美音 fens  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **把…用栅 / 篱围住；(筑栅) 防护；隔开：**  
@@ -3190,12 +2786,8 @@ the ability to understand sb / sth：
 
 
 # ***ferry*** n
----
-英音 'feri     美音 'feri
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C]
+英音 'feri     美音 'feri  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3204,12 +2796,8 @@ the ability to understand sb / sth：
 
 
 # ***ferry*** vt
----
-英音 'feri     美音 'feri
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'feri     美音 'feri  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **摆渡；渡运**  
@@ -3217,12 +2805,8 @@ the ability to understand sb / sth：
 
 
 # ***fertile*** adj
----
-英音 'fɜːtaɪl     美音 'fɜːrtl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 'fɜːtaɪl     美音 'fɜːrtl  
+词频 1 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **肥沃的；能生育的；能结果的：**  
@@ -3233,12 +2817,8 @@ the ability to understand sb / sth：
 
 
 # ***fertilizer*** n
----
-英音 'fɜːtəlaɪzə(r)     美音 'fɜːrtəlaɪzər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'fɜːtəlaɪzə(r)     美音 'fɜːrtəlaɪzər  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -3247,12 +2827,8 @@ the ability to understand sb / sth：
 
 
 # ***festival*** n
----
-英音 'festɪvl     美音 'festɪvl
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 'festɪvl     美音 'festɪvl  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3276,12 +2852,8 @@ the ability to understand sb / sth：
 
 
 # ***fetch*** vt
----
-英音 fetʃ     美音 fetʃ
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 fetʃ     美音 fetʃ  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(去) 拿来；(去) 取来；(去) 请来：**  
@@ -3296,12 +2868,8 @@ the ability to understand sb / sth：
 
 
 # ***fever*** n
----
-英音 'fiːvə(r)     美音 'fiːvər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fiːvə(r)     美音 'fiːvər  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 发烧；热度；狂热：**  
@@ -3327,12 +2895,8 @@ He caught a high f________ . His body temperature was as high as 40°C.
   
 
 # ***few*** adj
----
-英音 fjuː     美音 fjuː
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 fjuː     美音 fjuː  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **很少的；几乎没有的：**  
@@ -3346,12 +2910,8 @@ He caught a high f________ . His body temperature was as high as 40°C.
 
 
 # ***few*** pron
----
-英音 fjuː     美音 fjuː
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 fjuː     美音 fjuː  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **很少；几乎没有：**  
@@ -3411,12 +2971,8 @@ I hear ________ (相当多) boys in your school like playing football in their s
   
 
 # ***fiancé*** n
----
-英音 fɪ'ɒnseɪ     美音 ˌfiːɑːn'seɪ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fɪ'ɒnseɪ     美音 ˌfiːɑːn'seɪ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **未婚夫**  
@@ -3424,12 +2980,8 @@ I hear ________ (相当多) boys in your school like playing football in their s
 
 
 # ***fiancée*** n
----
-英音 fɪ'ɒnseɪ     美音 ˌfiːɑːn'seɪ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fɪ'ɒnseɪ     美音 ˌfiːɑːn'seɪ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **未婚妻**  
@@ -3437,12 +2989,8 @@ I hear ________ (相当多) boys in your school like playing football in their s
 
 
 # ***fiction*** n
----
-英音 'fɪkʃn     美音 'fɪkʃn
-
-词频 3 | 口语 0 | 书面 0 | 阅读 2
-
-
+英音 'fɪkʃn     美音 'fɪkʃn  
+词频 3 | 口语 0 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **[U] (虚构) 小说：**  
@@ -3460,12 +3008,8 @@ I hear ________ (相当多) boys in your school like playing football in their s
 
 
 # ***fictional*** adj
----
-英音 'fɪkʃənl     美音 'fɪkʃənl
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fɪkʃənl     美音 'fɪkʃənl  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **虚构的，编造的,小说 (中)的**  
@@ -3473,12 +3017,8 @@ I hear ________ (相当多) boys in your school like playing football in their s
 
 
 # ***field*** n
----
-英音 fiːld     美音 fiːld
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 fiːld     美音 fiːld  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -3528,12 +3068,8 @@ I hear ________ (相当多) boys in your school like playing football in their s
 
 
 # ***fierce*** adj
----
-英音 fɪəs     美音 fɪrs
-
-词频 3 | 口语 0 | 书面 0 | 阅读 2
-
-
+英音 fɪəs     美音 fɪrs  
+词频 3 | 口语 0 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **凶猛的；猛烈的；激烈的：**  
@@ -3562,12 +3098,8 @@ They look like the teeth of a ________ (凶猛的) animal.
   
 
 # ***fiery*** adj
----
-英音 'faɪəri     美音 'faɪəri
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'faɪəri     美音 'faɪəri  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **燃烧的, 如火的**  
@@ -3575,12 +3107,8 @@ They look like the teeth of a ________ (凶猛的) animal.
 
 
 # ***fight*** v
----
-英音 faɪt     美音 faɪt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (fought,fought)vi & vt
+英音 faɪt     美音 faɪt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (fought,fought)vi & vt
 
 英文释义
 ---
@@ -3656,12 +3184,8 @@ to try hard to do or get sth：
 
 
 # ***fight*** n
----
-英音 faɪt     美音 faɪt
-
-词频 5 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 faɪt     美音 faɪt  
+词频 5 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 战斗；打斗；[用单数] 斗争；争吵：**  
@@ -3689,12 +3213,8 @@ fighter /'faɪtə(r)/ n
 fighting /'faɪtɪŋ/ n 
 
 # ***figurative*** adj
----
-英音 'fɪɡərətɪv     美音 'fɪɡərətɪv
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fɪɡərətɪv     美音 'fɪɡərətɪv  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **比喻的；借喻的**  
@@ -3702,12 +3222,8 @@ fighting /'faɪtɪŋ/ n
 
 
 # ***figure*** n  重难点词汇
----
-英音 'fɪɡə(r)     美音 'fɪɡjər
-
-词频 4 | 口语 3 | 书面 3 | 阅读 3
-
-用法点拨  [C]
+英音 'fɪɡə(r)     美音 'fɪɡjər  
+词频 4 | 口语 3 | 书面 3 | 阅读 3  用法点拨  [C]
 
 英文释义
 ---
@@ -3759,12 +3275,8 @@ a person who is important or famous：
 
 
 # ***figure*** v  重难点词汇
----
-英音 'fɪɡə(r)     美音 'fɪɡjər
-
-词频 4 | 口语 3 | 书面 1 | 阅读 3
-
-
+英音 'fɪɡə(r)     美音 'fɪɡjər  
+词频 4 | 口语 3 | 书面 1 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **是重要部分；是...的部分**  
@@ -3826,12 +3338,8 @@ B.
   
 
 # ***file*** n
----
-英音 faɪl     美音 faɪl
-
-词频 2 | 口语 3 | 书面 2 | 阅读 1
-
-
+英音 faɪl     美音 faɪl  
+词频 2 | 口语 3 | 书面 2 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **[C] 文件 (夹)；档案：**  
@@ -3851,12 +3359,8 @@ B.
 
 
 # ***file*** vt
----
-英音 faɪl     美音 faɪl
-
-词频 2 | 口语 1 | 书面 1 | 阅读 1
-
-
+英音 faɪl     美音 faɪl  
+词频 2 | 口语 1 | 书面 1 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **vt 把…归档；vt & vi 提出 (申请等)：**  
@@ -3880,12 +3384,8 @@ B.
 
 
 # ***fill*** v
----
-英音 fɪl     美音 fɪl
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 fɪl     美音 fɪl  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(使) 充满；(使) 装满：**  
@@ -3969,12 +3469,8 @@ B.
 
 
 # ***filling*** n
----
-英音 'fɪlɪŋ     美音 'fɪlɪŋ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fɪlɪŋ     美音 'fɪlɪŋ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **馅**  
@@ -3982,12 +3478,8 @@ B.
 
 
 # ***film*** n
----
-英音 fɪlm     美音 fɪlm
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 fɪlm     美音 fɪlm  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 影片；电影 (AmE movie)：**  
@@ -4021,12 +3513,8 @@ B.
 
 
 # ***film*** v
----
-英音 fɪlm     美音 fɪlm
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fɪlm     美音 fɪlm  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **vt & vi 拍摄 (电影)；(把…) 拍成电影：**  
@@ -4043,12 +3531,8 @@ B.
 
 
 # ***filthy*** adj
----
-英音 'fɪlθi     美音 'fɪlθi
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fɪlθi     美音 'fɪlθi  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **十分肮脏的，污秽的**  
@@ -4056,12 +3540,8 @@ B.
 
 
 # ***fin*** n
----
-英音 fɪn     美音 fɪn
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fɪn     美音 fɪn  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **鱼鳍；[飞机的]垂直尾翼**  
@@ -4069,12 +3549,8 @@ B.
 
 
 # ***fin*** v
----
-英音 fɪn     美音 fɪn
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fɪn     美音 fɪn  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **切去（鱼的）鳍**  
@@ -4082,12 +3558,8 @@ B.
 
 
 # ***final*** adj
----
-英音 'faɪnl     美音 'faɪnl
-
-词频 4 | 口语 3 | 书面 3 | 阅读 3
-
-
+英音 'faɪnl     美音 'faɪnl  
+词频 4 | 口语 3 | 书面 3 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **最后的；最终的：**  
@@ -4113,12 +3585,8 @@ B.
 
 
 # ***final*** n
----
-英音 'faɪnl     美音 'faɪnl
-
-词频 4 | 口语 0 | 书面 1 | 阅读 3
-
-
+英音 'faɪnl     美音 'faɪnl  
+词频 4 | 口语 0 | 书面 1 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **[C] 期终考试；决赛：**  
@@ -4133,12 +3601,8 @@ B.
 
 
 # ***finally*** adv
----
-英音 'faɪnəli     美音 'faɪnəli
-
-词频 5 | 口语 2 | 书面 3 | 阅读 3
-
-
+英音 'faɪnəli     美音 'faɪnəli  
+词频 5 | 口语 2 | 书面 3 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **终于；最终 (eventually)；[句子副词，用于列举] 最后 (lastly)：**  
@@ -4161,12 +3625,8 @@ Do you think shopping online will ________ (final) take the place of shopping in
   
 
 # ***finance*** n
----
-英音 'faɪnæns     美音 'faɪnæns
-
-词频 3 | 口语 1 | 书面 2 | 阅读 1
-
-用法点拨  [U]
+英音 'faɪnæns     美音 'faɪnæns  
+词频 3 | 口语 1 | 书面 2 | 阅读 1  用法点拨  [U]
 
 英文释义
 ---
@@ -4198,12 +3658,8 @@ the management of money：
 
 
 # ***finance*** vt
----
-英音 'faɪnæns     美音 'faɪnæns
-
-词频 3 | 口语 0 | 书面 1 | 阅读 1
-
-
+英音 'faɪnæns     美音 'faɪnæns  
+词频 3 | 口语 0 | 书面 1 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **提供资金给；为…筹措资金(fund)：**  
@@ -4214,12 +3670,8 @@ the management of money：
 
 
 # ***financial*** adj
----
-英音 faɪ'nænʃl     美音 faɪ'nænʃl
-
-词频 4 | 口语 2 | 书面 3 | 阅读 3
-
-
+英音 faɪ'nænʃl     美音 faɪ'nænʃl  
+词频 4 | 口语 2 | 书面 3 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **财政的；金融的：**  
@@ -4242,12 +3694,8 @@ the management of money：
 financially /fai'nænʃəli; fə'nænʃəli/ adv 
 
 # ***financially*** adv
----
-英音 fə'nænʃəli     美音 fə'nænʃəli
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fə'nænʃəli     美音 fə'nænʃəli  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **财政上地**  
@@ -4255,12 +3703,8 @@ financially /fai'nænʃəli; fə'nænʃəli/ adv
 
 
 # ***find*** vt  重难点词汇
----
-英音 faɪnd     美音 faɪnd
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (found, found)vt
+英音 faɪnd     美音 faɪnd  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (found, found)vt
 
 英文释义
 ---
@@ -4343,12 +3787,8 @@ A cook will be immediately fired if he is found _________ (smoke) in the kitchen
   
 
 # ***find*** n  重难点词汇
----
-英音 faɪnd     美音 faɪnd
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 faɪnd     美音 faɪnd  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 发现物**  
@@ -4363,12 +3803,8 @@ sth very good or useful that is discovered by chance：
 
 
 # ***finding*** n
----
-英音 'faɪndɪŋ     美音 'faɪndɪŋ
-
-词频 5 | 口语 0 | 书面 2 | 阅读 3
-
-
+英音 'faɪndɪŋ     美音 'faɪndɪŋ  
+词频 5 | 口语 0 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **[C] [常用复数] 发现；调查 / 研究结果：**  
@@ -4379,12 +3815,8 @@ sth very good or useful that is discovered by chance：
 
 
 # ***fine*** adj
----
-英音 faɪn     美音 faɪn
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 faɪn     美音 faɪn  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **好的；优秀的；美好的：**  
@@ -4449,12 +3881,8 @@ sth very good or useful that is discovered by chance：
 
 
 # ***fine*** adv
----
-英音 faɪn     美音 faɪn
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 faɪn     美音 faɪn  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **很；很好：**  
@@ -4474,12 +3902,8 @@ sth very good or useful that is discovered by chance：
 finely /'faɪnli/ adv 
 
 # ***fine*** vt
----
-英音 faɪn     美音 faɪn
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 faɪn     美音 faɪn  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **处…以罚金：**  
@@ -4494,12 +3918,8 @@ finely /'faɪnli/ adv
 
 
 # ***fine*** n
----
-英音 faɪn     美音 faɪn
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 faɪn     美音 faɪn  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 罚金；罚款：**  
@@ -4511,12 +3931,8 @@ finely /'faɪnli/ adv
 
 
 # ***finger*** n
----
-英音 'fɪŋɡə(r)     美音 'fɪŋɡər
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'fɪŋɡə(r)     美音 'fɪŋɡər  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 手指；指状物：**  
@@ -4528,12 +3944,8 @@ finely /'faɪnli/ adv
 
 
 # ***finger*** vt
----
-英音 'fɪŋɡə(r)     美音 'fɪŋɡər
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fɪŋɡə(r)     美音 'fɪŋɡər  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **用手指触碰；抚摸：**  
@@ -4544,12 +3956,8 @@ finely /'faɪnli/ adv
 
 
 # ***fingernail*** n
----
-英音 'fɪŋɡəneɪl     美音 'fɪŋɡərneɪl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fɪŋɡəneɪl     美音 'fɪŋɡərneɪl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 手指甲**  
@@ -4557,12 +3965,8 @@ finely /'faɪnli/ adv
 
 
 # ***finish*** v  重难点词汇
----
-英音 'fɪnɪʃ     美音 'fɪnɪʃ
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 'fɪnɪʃ     美音 'fɪnɪʃ  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **结束；完成：**  
@@ -4629,12 +4033,8 @@ finished /'fɪnɪʃt/ adj
 
 
 # ***finish*** n  重难点词汇
----
-英音 'fɪnɪʃ     美音 'fɪnɪʃ
-
-词频 5 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'fɪnɪʃ     美音 'fɪnɪʃ  
+词频 5 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] [常用单数] 结束；结局：**  
@@ -4649,12 +4049,8 @@ finished /'fɪnɪʃt/ adj
 
 
 # ***fire*** n
----
-英音 'faɪə(r)     美音 'faɪər
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'faɪə(r)     美音 'faɪər  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 火**  
@@ -4734,12 +4130,8 @@ finished /'fɪnɪʃt/ adj
 
 
 # ***fire*** v
----
-英音 'faɪə(r)     美音 'faɪər
-
-词频 5 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 'faɪə(r)     美音 'faɪər  
+词频 5 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **放 (枪、炮等)；射击：**  
@@ -4765,12 +4157,8 @@ finished /'fɪnɪʃt/ adj
 
 
 # ***firearm*** n
----
-英音 'faɪərɑːm     美音 'faɪərɑːrm
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'faɪərɑːm     美音 'faɪərɑːrm  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **火器**  
@@ -4778,12 +4166,8 @@ finished /'fɪnɪʃt/ adj
 
 
 # ***firefighter*** n
----
-英音 faɪəfaɪtə(r)     美音 'faɪərfaɪtər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 faɪəfaɪtə(r)     美音 'faɪərfaɪtər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **消防员 (fireman)**  
@@ -4791,12 +4175,8 @@ finished /'fɪnɪʃt/ adj
 
 
 # ***firework*** n
----
-英音 'faɪəwɜːk     美音 'faɪərwɜːrk
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'faɪəwɜːk     美音 'faɪərwɜːrk  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 烟火；烟花；[常用复数] 烟火表演**  
@@ -4804,12 +4184,8 @@ finished /'fɪnɪʃt/ adj
 
 
 # ***firm*** n
----
-英音 fɜːm     美音 fɜːrm
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 fɜːm     美音 fɜːrm  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] (合伙) 商行；(小型的) 公司 (business / company)：**  
@@ -4820,12 +4196,8 @@ finished /'fɪnɪʃt/ adj
 
 
 # ***firm*** adj
----
-英音 fɜːm     美音 fɜːrm
-
-词频 3 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 fɜːm     美音 fɜːrm  
+词频 3 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **坚硬的；牢固的；稳固的：**  
@@ -4851,12 +4223,8 @@ finished /'fɪnɪʃt/ adj
 
 
 # ***firm*** adv
----
-英音 fɜːm     美音 fɜːrm
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fɜːm     美音 fɜːrm  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **稳固地；坚定地：**  
@@ -4871,12 +4239,8 @@ finished /'fɪnɪʃt/ adj
 
 
 # ***firmly*** adv
----
-英音 'fɜːmli     美音 'fɜːrmli
-
-词频 3 | 口语 0 | 书面 0 | 阅读 2
-
-
+英音 'fɜːmli     美音 'fɜːrmli  
+词频 3 | 口语 0 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **坚定地；牢牢地：**  
@@ -4893,12 +4257,8 @@ finished /'fɪnɪʃt/ adj
 
 
 # ***first*** adj
----
-英音 fɜːst     美音 fɜːrst
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 fɜːst     美音 fɜːrst  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **第一 (位) 的；最前面的；最初的：**  
@@ -4925,12 +4285,8 @@ finished /'fɪnɪʃt/ adj
 
 
 # ***first*** n
----
-英音 fɜːst     美音 fɜːrst
-
-词频 5 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  [C]
+英音 fɜːst     美音 fɜːrst  
+词频 5 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -4964,12 +4320,8 @@ At the first, I thought I knew everything and could make decisions by myself.
   
 
 # ***first*** adv
----
-英音 fɜːst     美音 fɜːrst
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 fɜːst     美音 fɜːrst  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **最先；首次；[句子副词] 第一 (firstly / first of all)：**  
@@ -5001,12 +4353,8 @@ At the first, I thought I knew everything and could make decisions by myself.
 
 
 # ***fish*** n
----
-英音 fɪʃ     美音 fɪʃ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 fɪʃ     美音 fɪʃ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] (pl fish / fishes) 鱼：**  
@@ -5032,12 +4380,8 @@ At the first, I thought I knew everything and could make decisions by myself.
 
 
 # ***fish*** v
----
-英音 fɪʃ     美音 fɪʃ
-
-词频 5 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 fɪʃ     美音 fɪʃ  
+词频 5 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **vt & vi 捕鱼；钓鱼：**  
@@ -5051,12 +4395,8 @@ At the first, I thought I knew everything and could make decisions by myself.
 
 
 # ***fisherman*** n
----
-英音 'fɪʃəmən     美音 'fɪʃərmən
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fɪʃəmən     美音 'fɪʃərmən  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] (pl fishermen) 渔民；渔夫**  
@@ -5064,12 +4404,8 @@ At the first, I thought I knew everything and could make decisions by myself.
 
 
 # ***fishing*** n
----
-英音 'fɪʃɪŋ     美音 'fɪʃɪŋ
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'fɪʃɪŋ     美音 'fɪʃɪŋ  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 钓鱼；渔业：**  
@@ -5081,12 +4417,8 @@ At the first, I thought I knew everything and could make decisions by myself.
 
 
 # ***fist*** n
----
-英音 fɪst     美音 fɪst
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fɪst     美音 fɪst  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 拳 (头)：**  
@@ -5098,12 +4430,8 @@ At the first, I thought I knew everything and could make decisions by myself.
 
 
 # ***fit*** v  重难点词汇
----
-英音 fɪt     美音 fɪt
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 fɪt     美音 fɪt  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[不用于进行时] (使) 合适；(使) 合身**  
@@ -5197,12 +4525,8 @@ Amy joined a painting group but didn't seem to fit ________, so she left.
   
 
 # ***fit*** adj  重难点词汇
----
-英音 fɪt     美音 fɪt
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 fɪt     美音 fɪt  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **适合的；合格的；能胜任的：**  
@@ -5231,12 +4555,8 @@ Amy joined a painting group but didn't seem to fit ________, so she left.
 
 
 # ***fit*** n  重难点词汇
----
-英音 fɪt     美音 fɪt
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fɪt     美音 fɪt  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **[C] & [U] 适合；合身 (的衣服)：**  
@@ -5271,12 +4591,8 @@ fitness /'fɪtnəs/ n [U]
 
 
 # ***fitness*** n
----
-英音 'fɪtnəs     美音 'fɪtnəs
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [U] 
+英音 'fɪtnəs     美音 'fɪtnəs  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U] 
 
 英文释义
 ---
@@ -5285,12 +4601,8 @@ fitness /'fɪtnəs/ n [U]
 
 
 # ***fix*** vt  重难点词汇
----
-英音 fɪks     美音 fɪks
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 fɪks     美音 fɪks  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **使固定；安装；牢记：**  
@@ -5355,12 +4667,8 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 
 
 # ***fix*** n  重难点词汇
----
-英音 fɪks     美音 fɪks
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fɪks     美音 fɪks  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] [非正式用语] 解决方法：**  
@@ -5372,12 +4680,8 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 
 
 # ***fixed*** adj
----
-英音 fɪkst     美音 fɪkst
-
-词频 3 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 fɪkst     美音 fɪkst  
+词频 3 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **固定的；不变的；固执的：**  
@@ -5395,12 +4699,8 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 
 
 # ***flag*** n
----
-英音 flæɡ     美音 flæɡ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 flæɡ     美音 flæɡ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **旗；旗帜；国旗**  
@@ -5408,12 +4708,8 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 
 
 # ***flame*** n
----
-英音 fleɪm     美音 fleɪm
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fleɪm     美音 fleɪm  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 火焰：**  
@@ -5432,12 +4728,8 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 
 
 # ***flash*** n
----
-英音 flæʃ     美音 flæʃ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 2
-
-
+英音 flæʃ     美音 flæʃ  
+词频 3 | 口语 0 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **[C] 闪光；闪现；(思想、情感的) 突现：**  
@@ -5476,12 +4768,8 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 
 
 # ***flash*** v
----
-英音 flæʃ     美音 flæʃ
-
-词频 3 | 口语 1 | 书面 0 | 阅读 2
-
-
+英音 flæʃ     美音 flæʃ  
+词频 3 | 口语 1 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **(使) 闪光；(使) 闪耀：**  
@@ -5520,12 +4808,8 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 
 
 # ***flashback*** n
----
-英音 'flæʃbæk     美音 'flæʃbæk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 'flæʃbæk     美音 'flæʃbæk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -5534,12 +4818,8 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 
 
 # ***flashlight*** n
----
-英音 'flæʃlaɪt     美音 'flæʃlaɪt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'flæʃlaɪt     美音 'flæʃlaɪt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 手电筒 (BrE torch)；闪光信号灯**  
@@ -5547,12 +4827,8 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 
 
 # ***flat*** n
----
-英音 flæt     美音 flæt
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 flæt     美音 flæt  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 公寓；一套房间 (BrE apartment)**  
@@ -5560,12 +4836,8 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 
 
 # ***flat*** adj
----
-英音 flæt     美音 flæt
-
-词频 3 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 flæt     美音 flæt  
+词频 3 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **平坦的；扁平的；(车胎) 无气的：**  
@@ -5585,12 +4857,8 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 
 
 # ***flavo(u)r*** n
----
-英音 'fleɪvə(r)     美音 'fleɪvər
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'fleɪvə(r)     美音 'fleɪvər  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 味道；风味；特点：**  
@@ -5604,12 +4872,8 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 
 
 # ***flee*** v
----
-英音 fliː     美音 fliː
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  (fled,fled)
+英音 fliː     美音 fliː  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  (fled,fled)
 
 英文释义
 ---
@@ -5625,12 +4889,8 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 
 
 # ***flesh*** n
----
-英音 fleʃ     美音 fleʃ
-
-词频 2 | 口语 0 | 书面 1 | 阅读 1
-
-用法点拨  [U]
+英音 fleʃ     美音 fleʃ  
+词频 2 | 口语 0 | 书面 1 | 阅读 1  用法点拨  [U]
 
 英文释义
 ---
@@ -5664,12 +4924,8 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 
 
 # ***flexible*** adj
----
-英音 'fleksəbl     美音 'fleksəbl
-
-词频 3 | 口语 0 | 书面 0 | 阅读 2
-
-
+英音 'fleksəbl     美音 'fleksəbl  
+词频 3 | 口语 0 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *低义频：* **易弯曲的；柔韧的**  
@@ -5709,12 +4965,8 @@ Mothers holding jobs outside the home should have ________ (灵活的) schedules
   
 
 # ***flick*** n
----
-英音 flɪk     美音 flɪk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 flɪk     美音 flɪk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **轻打,轻弹,抖动**  
@@ -5722,12 +4974,8 @@ Mothers holding jobs outside the home should have ________ (灵活的) schedules
 
 
 # ***flight*** n
----
-英音 flaɪt     美音 flaɪt
-
-词频 5 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 flaɪt     美音 flaɪt  
+词频 5 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 飞翔；飞行：**  
@@ -5767,12 +5015,8 @@ Mothers holding jobs outside the home should have ________ (灵活的) schedules
 
 
 # ***float*** v
----
-英音 fləʊt     美音 floʊt
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fləʊt     美音 floʊt  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **vt & vi (使) 漂浮 【反 sink】；(使) 漂流：**  
@@ -5793,12 +5037,8 @@ If steel is heavier than water, why are ships able to _______ (漂浮) on the se
   
 
 # ***flock*** vi
----
-英音 flɒk     美音 flɑːk
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 flɒk     美音 flɑːk  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **聚集**  
@@ -5806,12 +5046,8 @@ If steel is heavier than water, why are ships able to _______ (漂浮) on the se
 
 
 # ***flood*** n
----
-英音 flʌd     美音 flʌd
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 flʌd     美音 flʌd  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 洪水；水灾：**  
@@ -5838,12 +5074,8 @@ If steel is heavier than water, why are ships able to _______ (漂浮) on the se
 
 
 # ***flood*** v
----
-英音 flʌd     美音 flʌd
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 flʌd     美音 flʌd  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(被) 淹没；(使) 泛滥：**  
@@ -5870,12 +5102,8 @@ flooded /flʌdɪd/ adj
 flooding /flʌdɪŋ/ n [U] 
 
 # ***floor*** n
----
-英音 flɔː(r)     美音 flɔːr
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [C]
+英音 flɔː(r)     美音 flɔːr  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
 
 英文释义
 ---
@@ -5898,12 +5126,8 @@ flooding /flʌdɪŋ/ n [U]
 
 
 # ***flour*** n
----
-英音 'flaʊə(r)     美音 'flaʊər
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'flaʊə(r)     美音 'flaʊər  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 面粉；粉末**  
@@ -5911,12 +5135,8 @@ flooding /flʌdɪŋ/ n [U]
 
 
 # ***flow*** vi
----
-英音 fləʊ     美音 floʊ
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 fləʊ     美音 floʊ  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(液体、气体、电等) 流动；流出：**  
@@ -5940,12 +5160,8 @@ flooding /flʌdɪŋ/ n [U]
 
 
 # ***flow*** n
----
-英音 fləʊ     美音 floʊ
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 fləʊ     美音 floʊ  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 流；流动：**  
@@ -5960,12 +5176,8 @@ flooding /flʌdɪŋ/ n [U]
 
 
 # ***flower*** n
----
-英音 'flaʊə(r)     美音 'flaʊər
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'flaʊə(r)     美音 'flaʊər  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 花；花朵；花卉：**  
@@ -5980,12 +5192,8 @@ flooding /flʌdɪŋ/ n [U]
 
 
 # ***flower*** vi
----
-英音 'flaʊə(r)     美音 'flaʊər
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'flaʊə(r)     美音 'flaʊər  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **开花：**  
@@ -5996,12 +5204,8 @@ flooding /flʌdɪŋ/ n [U]
 
 
 # ***flu*** n
----
-英音 fluː     美音 fluː
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fluː     美音 fluː  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] [常作the flu] 流行性感冒 (influenza)**  
@@ -6009,12 +5213,8 @@ flooding /flʌdɪŋ/ n [U]
 
 
 # ***fluency*** n
----
-英音 'fluːənsi     美音 'fluːənsi
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fluːənsi     美音 'fluːənsi  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 流利；流畅：**  
@@ -6025,12 +5225,8 @@ flooding /flʌdɪŋ/ n [U]
 
 
 # ***fluent*** adj
----
-英音 'fluːənt     美音 'fluːənt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fluːənt     美音 'fluːənt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **流利的；流畅的：**  
@@ -6052,12 +5248,8 @@ flooding /flʌdɪŋ/ n [U]
 fluently /'fluːəntli/ adv 
 
 # ***fluently*** adv
----
-英音 'fluːəntli     美音 'fluːəntli
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fluːəntli     美音 'fluːəntli  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **流利地**  
@@ -6065,12 +5257,8 @@ fluently /'fluːəntli/ adv
 
 
 # ***fluid*** n
----
-英音 'fluːɪd     美音 'fluːɪd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U] 
+英音 'fluːɪd     美音 'fluːɪd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U] 
 
 英文释义
 ---
@@ -6079,12 +5267,8 @@ fluently /'fluːəntli/ adv
 
 
 # ***flute*** n
----
-英音 fluːt     美音 fluːt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fluːt     美音 fluːt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **长笛**  
@@ -6092,12 +5276,8 @@ fluently /'fluːəntli/ adv
 
 
 # ***flutter*** v
----
-英音 'flʌtə(r)     美音 'flʌtər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'flʌtə(r)     美音 'flʌtər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **飘扬；飘动；拍打（翅膀）**  
@@ -6105,12 +5285,8 @@ fluently /'fluːəntli/ adv
 
 
 # ***fly*** v
----
-英音 flaɪ     美音 flaɪ
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-用法点拨  (flew,flown)
+英音 flaɪ     美音 flaɪ  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  用法点拨  (flew,flown)
 
 英文释义
 ---
@@ -6183,12 +5359,8 @@ flying /'flaɪɪŋ/ n [U]
 flying /'flaɪɪŋ/ adj [只用于名词前] 
 
 # ***fly*** n
----
-英音 flaɪ     美音 flaɪ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 flaɪ     美音 flaɪ  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 苍蝇**  
@@ -6196,12 +5368,8 @@ flying /'flaɪɪŋ/ adj [只用于名词前]
 
 
 # ***focus*** n
----
-英音 'fəʊkəs     美音 'foʊkəs
-
-词频 4 | 口语 0 | 书面 2 | 阅读 3
-
-
+英音 'fəʊkəs     美音 'foʊkəs  
+词频 4 | 口语 0 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **(pl focuses / foci) 焦点；中心点；集中点：**  
@@ -6235,12 +5403,8 @@ flying /'flaɪɪŋ/ adj [只用于名词前]
 
 
 # ***focus*** v
----
-英音 'fəʊkəs     美音 'foʊkəs
-
-词频 4 | 口语 0 | 书面 2 | 阅读 3
-
-
+英音 'fəʊkəs     美音 'foʊkəs  
+词频 4 | 口语 0 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **vt & vi (使) 聚焦；(使) 集中；调节 (…的) 焦距：**  
@@ -6278,12 +5442,8 @@ Most of us are more focused ________ our tasks in the morning than we are later 
   
 
 # ***fog*** n
----
-英音 fɒɡ     美音 fɔːɡ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [C] & [U]
+英音 fɒɡ     美音 fɔːɡ  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
 
 英文释义
 ---
@@ -6303,12 +5463,8 @@ Most of us are more focused ________ our tasks in the morning than we are later 
 
 
 # ***foggy*** adj
----
-英音 'fɒɡi     美音 'fɔːɡi
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fɒɡi     美音 'fɔːɡi  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **有雾的；雾蒙蒙的；模糊的：**  
@@ -6322,12 +5478,8 @@ Most of us are more focused ________ our tasks in the morning than we are later 
 
 
 # ***fold*** v
----
-英音 fəʊld     美音 foʊld
-
-词频 3 | 口语 0 | 书面 1 | 阅读 1
-
-
+英音 fəʊld     美音 foʊld  
+词频 3 | 口语 0 | 书面 1 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **vt & vi 折叠；折起来；合拢**  
@@ -6359,12 +5511,8 @@ Most of us are more focused ________ our tasks in the morning than we are later 
 
 
 # ***fold*** n
----
-英音 fəʊld     美音 foʊld
-
-词频 3 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 fəʊld     美音 foʊld  
+词频 3 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **[C] 褶；褶痕：**  
@@ -6385,12 +5533,8 @@ folding /'fəʊldɪŋ/ adj [只用于名词前]
 
 
 # ***folk*** n
----
-英音 fəʊk     美音 foʊk
-
-词频 3 | 口语 2 | 书面 1 | 阅读 2
-
-用法点拨  (pl folk / folks)
+英音 fəʊk     美音 foʊk  
+词频 3 | 口语 2 | 书面 1 | 阅读 2  用法点拨  (pl folk / folks)
 
 英文释义
 ---
@@ -6411,12 +5555,8 @@ folding /'fəʊldɪŋ/ adj [只用于名词前]
 
 
 # ***folk*** adj
----
-英音 fəʊk     美音 foʊk
-
-词频 3 | 口语 0 | 书面 0 | 阅读 2
-
-
+英音 fəʊk     美音 foʊk  
+词频 3 | 口语 0 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **普通百姓的；民间的：**  
@@ -6431,12 +5571,8 @@ folding /'fəʊldɪŋ/ adj [只用于名词前]
 
 
 # ***follow*** v  重难点词汇
----
-英音 'fɒləʊ     美音 'fɑːloʊ
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'fɒləʊ     美音 'fɑːloʊ  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **跟随；跟着：**  
@@ -6543,12 +5679,8 @@ He hurried home, never once looking back to see if he________ (follow).
   
 
 # ***following*** adj
----
-英音 'fɒləʊɪŋ     美音 'fɑːloʊɪŋ
-
-词频 5 | 口语 1 | 书面 3 | 阅读 0
-
-
+英音 'fɒləʊɪŋ     美音 'fɑːloʊɪŋ  
+词频 5 | 口语 1 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **接着的；其次的；下列的：**  
@@ -6562,12 +5694,8 @@ He hurried home, never once looking back to see if he________ (follow).
 
 
 # ***following*** n
----
-英音 'fɒləʊɪŋ     美音 'fɑːloʊɪŋ
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fɒləʊɪŋ     美音 'fɑːloʊɪŋ  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] [常用单数] 一群追随者 / 支持者：**  
@@ -6588,12 +5716,8 @@ He hurried home, never once looking back to see if he________ (follow).
 
 
 # ***following*** prep
----
-英音 'fɒləʊɪŋ     美音 'fɑːloʊɪŋ
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fɒləʊɪŋ     美音 'fɑːloʊɪŋ  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **在...以后；由于：**  
@@ -6604,12 +5728,8 @@ He hurried home, never once looking back to see if he________ (follow).
 
 
 # ***fond*** adj
----
-英音 fɒnd     美音 fɑːnd
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fɒnd     美音 fɑːnd  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **喜爱的；爱好的：**  
@@ -6638,12 +5758,8 @@ More and more young people are fond ________ playing tennis nowadays
   
 
 # ***food*** n
----
-英音 fuːd     美音 fuːd
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 fuːd     美音 fuːd  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 食物：**  
@@ -6668,12 +5784,8 @@ More and more young people are fond ________ playing tennis nowadays
 
 
 # ***fool*** n
----
-英音 fuːl     美音 fuːl
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fuːl     美音 fuːl  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 傻子；笨蛋：**  
@@ -6699,12 +5811,8 @@ More and more young people are fond ________ playing tennis nowadays
 
 
 # ***fool*** v
----
-英音 fuːl     美音 fuːl
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fuːl     美音 fuːl  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **愚弄；欺骗：**  
@@ -6733,12 +5841,8 @@ More and more young people are fond ________ playing tennis nowadays
 
 
 # ***fool*** adj
----
-英音 fuːl     美音 fuːl
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fuːl     美音 fuːl  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **傻的**  
@@ -6746,12 +5850,8 @@ More and more young people are fond ________ playing tennis nowadays
 
 
 # ***foolish*** adj
----
-英音 'fuːlɪʃ     美音 'fuːlɪʃ
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fuːlɪʃ     美音 'fuːlɪʃ  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **愚蠢的；可笑的 (silly / stupid)：**  
@@ -6762,12 +5862,8 @@ More and more young people are fond ________ playing tennis nowadays
 
 
 # ***foolishly*** adv
----
-英音 'fuːlɪʃli     美音 'fuːlɪʃli
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fuːlɪʃli     美音 'fuːlɪʃli  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **傻地；愚蠢地：**  
@@ -6785,12 +5881,8 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
   
 
 # ***foolishness*** n
----
-英音 'fuːlɪʃnəs     美音 'fuːlɪʃnəs
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fuːlɪʃnəs     美音 'fuːlɪʃnəs  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **愚蠢**  
@@ -6798,12 +5890,8 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 
 
 # ***foot*** n
----
-英音 fʊt     美音 fʊt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 fʊt     美音 fʊt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] (pl feet) 脚；足；脚步：**  
@@ -6858,12 +5946,8 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 
 
 # ***football*** n
----
-英音 'fʊtbɔːl     美音 'fʊtbɔːl
-
-词频 4 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 'fʊtbɔːl     美音 'fʊtbɔːl  
+词频 4 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 足球 (运动)：**  
@@ -6874,12 +5958,8 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 
 
 # ***footprint*** n
----
-英音 'fʊtprɪnt     美音 'fʊtprɪnt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fʊtprɪnt     美音 'fʊtprɪnt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **脚印；足迹**  
@@ -6887,12 +5967,8 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 
 
 # ***footstep*** n
----
-英音 'fʊtstep     美音 'fʊtstep
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fʊtstep     美音 'fʊtstep  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 脚步声**  
@@ -6900,12 +5976,8 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 
 
 # ***for*** prep
----
-英音 fə(r)     美音 fər
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 fə(r)     美音 fər  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **对于；供；适合于：**  
@@ -7013,12 +6085,8 @@ Nothing is so easy as ________ parents to raise their expectations of their chil
   
 
 # ***for*** conj
----
-英音 fə(r)     美音 fər
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fə(r)     美音 fər  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **因为；由于：**  
@@ -7038,12 +6106,8 @@ I am not afraid of tomorrow, ________ I have seen yesterday and I love today.
   
 
 # ***forbid*** vt
----
-英音 fə'bɪd     美音 fər'bɪd
-
-词频 3 | 口语 0 | 书面 0 | 阅读 2
-
-用法点拨  (forbade, forbidden)
+英音 fə'bɪd     美音 fər'bɪd  
+词频 3 | 口语 0 | 书面 0 | 阅读 2  用法点拨  (forbade, forbidden)
 
 英文释义
 ---
@@ -7089,12 +6153,8 @@ forbidden /fə'bɪdn/ adj
 
 
 # ***force*** n  重难点词汇
----
-英音 fɔːs     美音 fɔːrs
-
-词频 4 | 口语 1 | 书面 3 | 阅读 0
-
-
+英音 fɔːs     美音 fɔːrs  
+词频 4 | 口语 1 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 力；力量；自然力：**  
@@ -7155,12 +6215,8 @@ forbidden /fə'bɪdn/ adj
 四者都有“力”、“力量”之意，但具体意思不同。
 
 # ***force*** vt  重难点词汇
----
-英音 fɔːs     美音 fɔːrs
-
-词频 4 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 fɔːs     美音 fɔːrs  
+词频 4 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **强迫；迫使：**  
@@ -7208,12 +6264,8 @@ forceful  /'fɔːsfl/ adj
 
 
 # ***forecast*** vt
----
-英音 'fɔːkɑːst     美音 'fɔːrkæst
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  (forecast / forecasted, forecast / forecasted)
+英音 'fɔːkɑːst     美音 'fɔːrkæst  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  (forecast / forecasted, forecast / forecasted)
 
 英文释义
 ---
@@ -7225,12 +6277,8 @@ forceful  /'fɔːsfl/ adj
 
 
 # ***forecast*** n
----
-英音 'fɔːkɑːst     美音 'fɔːrkæst
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fɔːkɑːst     美音 'fɔːrkæst  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 天气预报；预测：**  
@@ -7242,12 +6290,8 @@ forceful  /'fɔːsfl/ adj
 
 
 # ***foreground*** n
----
-英音 'fɔːɡraʊnd     美音 'fɔːɡraʊnd
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fɔːɡraʊnd     美音 'fɔːɡraʊnd  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（图片或照片的）前景**  
@@ -7255,12 +6299,8 @@ forceful  /'fɔːsfl/ adj
 
 
 # ***forehead*** n
----
-英音 'fɔːhed,'fɒrɪd     美音 'fɔːrhed,'fɔːred
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fɔːhed,'fɒrɪd     美音 'fɔːrhed,'fɔːred  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 额；前额**  
@@ -7268,12 +6308,8 @@ forceful  /'fɔːsfl/ adj
 
 
 # ***foreign*** adj
----
-英音 'fɒrən     美音 'fɔːrən
-
-词频 5 | 口语 1 | 书面 3 | 阅读 0
-
-
+英音 'fɒrən     美音 'fɔːrən  
+词频 5 | 口语 1 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **外国的；外来的；对外的**  
@@ -7291,12 +6327,8 @@ Do you speak any________ (外国) languages?
   
 
 # ***foreigner*** n
----
-英音 'fɒrənə(r)     美音 'fɔːrənər
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fɒrənə(r)     美音 'fɔːrənər  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 外国人**  
@@ -7304,12 +6336,8 @@ Do you speak any________ (外国) languages?
 
 
 # ***foresee*** vt
----
-英音 fɔː'siː     美音 fɔːr'siː
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  (foresaw, foreseen)
+英音 fɔː'siː     美音 fɔːr'siː  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  (foresaw, foreseen)
 
 英文释义
 ---
@@ -7321,12 +6349,8 @@ Do you speak any________ (外国) languages?
 
 
 # ***forest*** n
----
-英音 'fɒrɪst     美音 'fɔːrɪst
-
-词频 5 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'fɒrɪst     美音 'fɔːrɪst  
+词频 5 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 森林；林区：**  
@@ -7337,12 +6361,8 @@ Do you speak any________ (外国) languages?
 
 
 # ***forever*** adv
----
-英音 fər'evə(r)     美音 fər'evər
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 fər'evə(r)     美音 fər'evər  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **永远；老是 (for ever)：**  
@@ -7356,12 +6376,8 @@ Do you speak any________ (外国) languages?
 
 
 # ***forget*** v  重难点词汇
----
-英音 fə'ɡet     美音 fər'ɡet
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  (forgot, forgotten)
+英音 fə'ɡet     美音 fər'ɡet  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (forgot, forgotten)
 
 英文释义
 ---
@@ -7451,12 +6467,8 @@ D.pardon me
   
 
 # ***forgetful*** adj
----
-英音 fə'ɡetfl     美音 fər'ɡetfl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fə'ɡetfl     美音 fər'ɡetfl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **健忘的 (absent-minded)；不注意的；疏忽的：**  
@@ -7471,12 +6483,8 @@ D.pardon me
 
 
 # ***forgive*** vt
----
-英音 fə'ɡɪv     美音 fər'ɡɪv
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-用法点拨  (forgave, forgiven)
+英音 fə'ɡɪv     美音 fər'ɡɪv  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  用法点拨  (forgave, forgiven)
 
 英文释义
 ---
@@ -7515,12 +6523,8 @@ One of my favourite sayings is "Understand all and ________ (宽恕) all."
   
 
 # ***fork*** n
----
-英音 fɔːk     美音 fɔːrk
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 fɔːk     美音 fɔːrk  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 餐叉；叉；耙；分叉：**  
@@ -7532,12 +6536,8 @@ One of my favourite sayings is "Understand all and ________ (宽恕) all."
 
 
 # ***form*** n  重难点词汇
----
-英音 fɔːm     美音 fɔːrm
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 fɔːm     美音 fɔːrm  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 形状；外形；体型：**  
@@ -7599,12 +6599,8 @@ You'd sound a lot more polite if you make a request ________ (以…形式) a qu
   
 
 # ***form*** v  重难点词汇
----
-英音 fɔːm     美音 fɔːrm
-
-词频 5 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 fɔːm     美音 fɔːrm  
+词频 5 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(使) 形成；建立；构成：**  
@@ -7653,12 +6649,8 @@ formation /fɔː'meɪʃn/ n [U] & [C]
 
 
 # ***formal*** adj
----
-英音 'fɔːml     美音 'fɔːrml
-
-词频 3 | 口语 2 | 书面 2 | 阅读 3
-
-
+英音 'fɔːml     美音 'fɔːrml  
+词频 3 | 口语 2 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **正式的；正式场合用的；正规的：**  
@@ -7685,12 +6677,8 @@ formation /fɔː'meɪʃn/ n [U] & [C]
 formally  /'fɔːməli/ adv 正式地；形式上
 
 # ***format*** n
----
-英音 'fɔːmæt     美音 'fɔːrmæt
-
-词频 1 | 口语 0 | 书面 1 | 阅读 1
-
-
+英音 'fɔːmæt     美音 'fɔːrmæt  
+词频 1 | 口语 0 | 书面 1 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **[C] (出版物的) 版式；格式；(电视节目等的)构成；安排：**  
@@ -7701,12 +6689,8 @@ formally  /'fɔːməli/ adv 正式地；形式上
 
 
 # ***format*** vt
----
-英音 'fɔːmæt     美音 'fɔːrmæt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 'fɔːmæt     美音 'fɔːrmæt  
+词频 1 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **(书刊等) 安排版式；格式化 (磁盘)**  
@@ -7714,12 +6698,8 @@ formally  /'fɔːməli/ adv 正式地；形式上
 
 
 # ***formation*** n
----
-英音 fɔː'meɪʃn     美音 fɔːr'meɪʃn
-
-词频 1 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 fɔː'meɪʃn     美音 fɔːr'meɪʃn  
+词频 1 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] & [C] 形成；构成；组成：**  
@@ -7733,12 +6713,8 @@ formally  /'fɔːməli/ adv 正式地；形式上
 
 
 # ***former*** adj
----
-英音 'fɔːmə(r)     美音 'fɔːrmər
-
-词频 3 | 口语 2 | 书面 3 | 阅读 0
-
-
+英音 'fɔːmə(r)     美音 'fɔːrmər  
+词频 3 | 口语 2 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[只用于名词前] 以前的；从前的；前任的：**  
@@ -7776,12 +6752,8 @@ Most of us, if we know even a little about where our food comes from, understand
   
 
 # ***formula*** n
----
-英音 'fɔːmjələ     美音 'fɔːrmjələ
-
-词频 1 | 口语 0 | 书面 1 | 阅读 0
-
-用法点拨  (pl formulas / formulae)
+英音 'fɔːmjələ     美音 'fɔːrmjələ  
+词频 1 | 口语 0 | 书面 1 | 阅读 0  用法点拨  (pl formulas / formulae)
 
 英文释义
 ---
@@ -7800,12 +6772,8 @@ Most of us, if we know even a little about where our food comes from, understand
 
 
 # ***forth*** adv
----
-英音 fɔːθ     美音 fɔːrθ
-
-词频 3 | 口语 2 | 书面 0 | 阅读 0
-
-
+英音 fɔːθ     美音 fɔːrθ  
+词频 3 | 口语 2 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **向前；向外：**  
@@ -7827,12 +6795,8 @@ Most of us, if we know even a little about where our food comes from, understand
 
 
 # ***fortnight*** n
----
-英音 'fɔːtnaɪt     美音 'fɔːrtnaɪt
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'fɔːtnaɪt     美音 'fɔːrtnaɪt  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] [常用单数]十四天；两星期：**  
@@ -7850,12 +6814,8 @@ I hope to be back in a________ (两星期).
   
 
 # ***fortunate*** adj
----
-英音 'fɔːtʃənət     美音 'fɔːrtʃənət
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'fɔːtʃənət     美音 'fɔːrtʃənət  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **幸运的；吉利的 (lucky)：**  
@@ -7885,12 +6845,8 @@ I hope to be back in a________ (两星期).
 
 
 # ***fortunately*** adv
----
-英音 'fɔːtʃənətli     美音 'fɔːrtʃənətli
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fɔːtʃənətli     美音 'fɔːrtʃənətli  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **幸运地；幸亏 (luckily)：**  
@@ -7904,12 +6860,8 @@ I hope to be back in a________ (两星期).
 
 
 # ***fortune*** n
----
-英音 'fɔːtʃuːn     美音 'fɔːrtʃən
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 'fɔːtʃuːn     美音 'fɔːrtʃən  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **机遇；运气**  
@@ -7955,12 +6907,8 @@ a large amount of money：
 
 
 # ***forum*** n
----
-英音 'fɔːrəm     美音 'fɔːrəm
-
-词频 0 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fɔːrəm     美音 'fɔːrəm  
+词频 0 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（因特网上的）论坛，讨论区**  
@@ -7968,12 +6916,8 @@ a large amount of money：
 
 
 # ***forward*** adj
----
-英音 'fɔːwəd     美音 'fɔːrwərd
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 'fɔːwəd     美音 'fɔːrwərd  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **在 / 近前部的；向前的**  
@@ -7987,12 +6931,8 @@ a large amount of money：
 
 
 # ***forward*** adv
----
-英音 'fɔːwəd     美音 'fɔːrwərd
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'fɔːwəd     美音 'fɔːrwərd  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **向前 (forwards) 【反:backward(s) 】；将来；提前地：**  
@@ -8003,12 +6943,8 @@ a large amount of money：
 
 
 # ***forward*** n
----
-英音 'fɔːwəd     美音 'fɔːrwərd
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fɔːwəd     美音 'fɔːrwərd  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] (足球、篮球等的) 前锋；前卫**  
@@ -8019,12 +6955,8 @@ a large amount of money：
 
 
 # ***forward*** vt
----
-英音 'fɔːwəd     美音 'fɔːrwərd
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'fɔːwəd     美音 'fɔːrwərd  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **邮寄；转寄 (send on)：**  
@@ -8040,12 +6972,8 @@ a large amount of money：
 
 
 # ***fossil*** n
----
-英音 'fɒsl     美音 'fɑːsl
-
-词频 3 | 口语 0 | 书面 0 | 阅读 2
-
-
+英音 'fɒsl     美音 'fɑːsl  
+词频 3 | 口语 0 | 书面 0 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **n [C] 化石；[非正式用语] 老顽固：**  
@@ -8060,12 +6988,8 @@ a large amount of money：
 
 
 # ***foster*** vt
----
-英音 'fɒstə(r)     美音 'fɔːstər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 'fɒstə(r)     美音 'fɔːstər  
+词频 1 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **培养；鼓励；促进 (encourage / promote)：**  
@@ -8082,12 +7006,8 @@ a large amount of money：
 
 
 # ***foster*** adj
----
-英音 'fɒstə(r)     美音 'fɔːstər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 'fɒstə(r)     美音 'fɔːstər  
+词频 1 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. **收养的；收养孩子的**  
@@ -8098,12 +7018,8 @@ a large amount of money：
 
 
 # ***foul*** n
----
-英音 faʊl     美音 faʊl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 faʊl     美音 faʊl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **（运动比赛中的）犯规动作**  
@@ -8111,12 +7027,8 @@ a large amount of money：
 
 
 # ***found*** vt
----
-英音 faʊnd     美音 faʊnd
-
-词频 3 | 口语 0 | 书面 0 | 阅读 3
-
-
+英音 faʊnd     美音 faʊnd  
+词频 3 | 口语 0 | 书面 0 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **创办；创建 (establish)；建立：**  
@@ -8149,12 +7061,8 @@ a large amount of money：
 founder /'faʊndə(r)/ n 
 
 # ***foundation*** n
----
-英音 faʊn'deɪʃn     美音 faʊn'deɪʃn
-
-词频 3 | 口语 0 | 书面 2 | 阅读 3
-
-
+英音 faʊn'deɪʃn     美音 faʊn'deɪʃn  
+词频 3 | 口语 0 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **[U] 创建；创办 (establishment)：**  
@@ -8187,12 +7095,8 @@ the idea, principle, or fact on which sth is based：
 
 
 # ***fountain*** n
----
-英音 'faʊntən     美音 'faʊntn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'faʊntən     美音 'faʊntn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 喷泉；源泉；来源：**  
@@ -8207,12 +7111,8 @@ the idea, principle, or fact on which sth is based：
 
 
 # ***fountain*** v
----
-英音 'faʊntən     美音 fountain
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'faʊntən     美音 fountain  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(使) 泉水般地喷出 / 涌出：**  
@@ -8223,12 +7123,8 @@ the idea, principle, or fact on which sth is based：
 
 
 # ***fox*** n
----
-英音 fɒks     美音 fɑːks
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fɒks     美音 fɑːks  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 狐狸；狡猾的人：**  
@@ -8239,12 +7135,8 @@ the idea, principle, or fact on which sth is based：
 
 
 # ***fragile*** adj
----
-英音 'frædʒaɪl     美音 'frædʒl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'frædʒaɪl     美音 'frædʒl  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **易碎的；易损坏的 (delicate)：**  
@@ -8265,12 +7157,8 @@ the idea, principle, or fact on which sth is based：
 
 
 # ***fragrant*** adj
----
-英音 'freɪɡrənt     美音 'freɪɡrənt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'freɪɡrənt     美音 'freɪɡrənt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **香的；芬芳的：**  
@@ -8281,12 +7169,8 @@ the idea, principle, or fact on which sth is based：
 
 
 # ***frame*** n
----
-英音 freɪm     美音 freɪm
-
-词频 2 | 口语 1 | 书面 1 | 阅读 1
-
-
+英音 freɪm     美音 freɪm  
+词频 2 | 口语 1 | 书面 1 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **[C] 框架；结构：**  
@@ -8300,12 +7184,8 @@ the idea, principle, or fact on which sth is based：
 
 
 # ***framework*** n
----
-英音 'freɪmwɜːk     美音 'freɪmwɜːrk
-
-词频 1 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 'freɪmwɜːk     美音 'freɪmwɜːrk  
+词频 1 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 构架 (工程)；框架；结构：**  
@@ -8317,12 +7197,8 @@ the idea, principle, or fact on which sth is based：
 
 
 # ***franc*** n
----
-英音 fræŋk     美音 fræŋk
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fræŋk     美音 fræŋk  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 法郎**  
@@ -8330,12 +7206,8 @@ the idea, principle, or fact on which sth is based：
 
 
 # ***frankly*** adv
----
-英音 'fræŋkli     美音 'fræŋkli
-
-词频 1 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'fræŋkli     美音 'fræŋkli  
+词频 1 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **坦率地 (说)：**  
@@ -8346,12 +7218,8 @@ the idea, principle, or fact on which sth is based：
 
 
 # ***free*** adj
----
-英音 friː     美音 friː
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 friː     美音 friː  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **自由的；无约束的；随心所欲的：**  
@@ -8439,12 +7307,8 @@ free常与名词构成合成词，意为“不含…的”、 “无…的”。
 
 
 # ***free*** adv
----
-英音 friː     美音 friː
-
-词频 5 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 friː     美音 friː  
+词频 5 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **自由地；无阻碍地**  
@@ -8458,12 +7322,8 @@ free常与名词构成合成词，意为“不含…的”、 “无…的”。
 
 
 # ***free*** vt
----
-英音 friː     美音 friː
-
-词频 5 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 friː     美音 friː  
+词频 5 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **释放；使摆脱；解除：**  
@@ -8494,12 +7354,8 @@ I felt my parents couldn't understand me so I hoped I could be freely from them.
   
 
 # ***freedom*** n
----
-英音 'friːdəm     美音 'friːdəm
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 'friːdəm     美音 'friːdəm  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 自由；自主；自由权：**  
@@ -8514,12 +7370,8 @@ I felt my parents couldn't understand me so I hoped I could be freely from them.
 
 
 # ***freely*** adv
----
-英音 'friːli     美音 'friːli
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'friːli     美音 'friːli  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **自由地；无拘束地：**  
@@ -8550,12 +7402,8 @@ I felt my parents couldn't understand me so I hoped I could be freely from them.
 
 
 # ***freeway*** n
----
-英音 'friːweɪ     美音 'friːweɪ
-
-词频 1 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 'friːweɪ     美音 'friːweɪ  
+词频 1 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 高速公路；高速干道**  
@@ -8563,12 +7411,8 @@ I felt my parents couldn't understand me so I hoped I could be freely from them.
 
 
 # ***freeze*** v
----
-英音 friːz     美音 friːz
-
-词频 4 | 口语 1 | 书面 1 | 阅读 0
-
-用法点拨  (froze, frozen)
+英音 friːz     美音 friːz  
+词频 4 | 口语 1 | 书面 1 | 阅读 0  用法点拨  (froze, frozen)
 
 英文释义
 ---
@@ -8634,12 +7478,8 @@ frozen /'frəʊzn/ adj
 
 
 # ***freezer*** n
----
-英音 'friːzə(r)     美音 'friːzər
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'friːzə(r)     美音 'friːzər  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **冰箱**  
@@ -8647,12 +7487,8 @@ frozen /'frəʊzn/ adj
 
 
 # ***freezing*** adj
----
-英音 'friːzɪŋ     美音 'friːzɪŋ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'friːzɪŋ     美音 'friːzɪŋ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **极冷的；冰冻的**  
@@ -8665,12 +7501,8 @@ extremely cold：
 
 
 # ***freezing*** n
----
-英音 'friːzɪŋ     美音 'friːzɪŋ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'friːzɪŋ     美音 'friːzɪŋ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] 冰点：**  
@@ -8682,12 +7514,8 @@ extremely cold：
 
 
 # ***freezing*** adv
----
-英音 'friːzɪŋ     美音 'friːzɪŋ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'friːzɪŋ     美音 'friːzɪŋ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **极冷地：**  
@@ -8698,12 +7526,8 @@ extremely cold：
 
 
 # ***frequency*** n
----
-英音 'friːkwənsi     美音 'friːkwənsi
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'friːkwənsi     美音 'friːkwənsi  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **频繁；发生率**  
@@ -8711,12 +7535,8 @@ extremely cold：
 
 
 # ***frequent*** adj
----
-英音 'friːkwənt     美音 'friːkwənt
-
-词频 3 | 口语 0 | 书面 1 | 阅读 2
-
-
+英音 'friːkwənt     美音 'friːkwənt  
+词频 3 | 口语 0 | 书面 1 | 阅读 2  
 英文释义
 ---
 1. *高义频：* **频繁的；经常的；常见的：**  
@@ -8738,12 +7558,8 @@ Drunk driving, which was once a ________ (经常的) occurrence, is now under co
   
 
 # ***frequently*** adv
----
-英音 'friːkwəntli     美音 'friːkwəntli
-
-词频 4 | 口语 1 | 书面 2 | 阅读 3
-
-
+英音 'friːkwəntli     美音 'friːkwəntli  
+词频 4 | 口语 1 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **频繁地；经常地 (often)：**  
@@ -8757,12 +7573,8 @@ Drunk driving, which was once a ________ (经常的) occurrence, is now under co
 
 
 # ***fresh*** adj
----
-英音 freʃ     美音 freʃ
-
-词频 4 | 口语 2 | 书面 2 | 阅读 3
-
-
+英音 freʃ     美音 freʃ  
+词频 4 | 口语 2 | 书面 2 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **新的；新鲜的；(颜色) 鲜艳的：**  
@@ -8817,12 +7629,8 @@ freshly /'freʃli/ adv
 freshness /freʃnəs/ n [U]
 
 # ***freshman*** n
----
-英音 'freʃmən     美音 'freʃmən
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'freʃmən     美音 'freʃmən  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **(especially NAmE) （中学）九年级学生；（大学）一年级新生**  
@@ -8830,12 +7638,8 @@ freshness /freʃnəs/ n [U]
 
 
 # ***friction*** n
----
-英音 'frɪkʃn     美音 'frɪkʃn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'frɪkʃn     美音 'frɪkʃn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **[U] 摩擦；摩擦力**  
@@ -8853,12 +7657,8 @@ freshness /freʃnəs/ n [U]
 
 
 # ***fridge*** n
----
-英音 frɪdʒ     美音 frɪdʒ
-
-词频 2 | 口语 2 | 书面 0 | 阅读 0
-
-
+英音 frɪdʒ     美音 frɪdʒ  
+词频 2 | 口语 2 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 冰箱 (AmE refrigerator)**  
@@ -8866,12 +7666,8 @@ freshness /freʃnəs/ n [U]
 
 
 # ***friend*** n
----
-英音 frend     美音 frend
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 frend     美音 frend  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 朋友；伙伴：**  
@@ -8897,12 +7693,8 @@ freshness /freʃnəs/ n [U]
 
 
 # ***friendly*** adj
----
-英音 'frendli     美音 'frendli
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 'frendli     美音 'frendli  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **友好的；友善的：**  
@@ -8938,12 +7730,8 @@ Green products are becoming more and more popular because they are________ (环�
   
 
 # ***friendship*** n
----
-英音 'frendʃɪp     美音 'frendʃɪp
-
-词频 4 | 口语 0 | 书面 1 | 阅读 0
-
-
+英音 'frendʃɪp     美音 'frendʃɪp  
+词频 4 | 口语 0 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 友谊；友爱；友情：**  
@@ -8963,12 +7751,8 @@ Green products are becoming more and more popular because they are________ (环�
 
 
 # ***fright*** n
----
-英音 fraɪt     美音 fraɪt
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fraɪt     美音 fraɪt  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **恐惧；害怕**  
@@ -8976,12 +7760,8 @@ Green products are becoming more and more popular because they are________ (环�
 
 
 # ***frighten*** v
----
-英音 'fraɪtn     美音 'fraɪtn
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fraɪtn     美音 'fraɪtn  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **(使) 惊恐；(使) 惊吓 (scare)：**  
@@ -9017,12 +7797,8 @@ Green products are becoming more and more popular because they are________ (环�
 frighten用法及意义同scare，但比scare稍正式。
 
 # ***frightened*** adj
----
-英音 'fraɪtnd     美音 'fraɪtnd
-
-词频 4 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'fraɪtnd     美音 'fraɪtnd  
+词频 4 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **受惊的；害怕的：**  
@@ -9044,12 +7820,8 @@ frighten用法及意义同scare，但比scare稍正式。
 
 
 # ***frightening*** adj
----
-英音 'fraɪtnɪŋ     美音 'fraɪtnɪŋ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fraɪtnɪŋ     美音 'fraɪtnɪŋ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **令人害怕的；吓人的：**  
@@ -9063,12 +7835,8 @@ frighten用法及意义同scare，但比scare稍正式。
 
 
 # ***frog*** n
----
-英音 frɒɡ     美音 frɔːɡ
-
-词频 3 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 frɒɡ     美音 frɔːɡ  
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 蛙；青蛙**  
@@ -9076,12 +7844,8 @@ frighten用法及意义同scare，但比scare稍正式。
 
 
 # ***from*** prep
----
-英音 frəm     美音 frəm
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 frəm     美音 frəm  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[表示起点] 从；从...起：**  
@@ -9141,12 +7905,8 @@ Shirley, a real book lover, often brings home many books to read ________ the li
   
 
 # ***front*** n
----
-英音 frʌnt     美音 frʌnt
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 frʌnt     美音 frʌnt  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] [通常与the连用] 前面；前部；正面：**  
@@ -9205,12 +7965,8 @@ Shirley, a real book lover, often brings home many books to read ________ the li
 in front (of) 指在某物外的前面；in the front (of) 指在某物内的前部。
 
 # ***front*** adj
----
-英音 frʌnt     美音 frʌnt
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 frʌnt     美音 frʌnt  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **前面的；前部的；(位置) 在前的：**  
@@ -9222,12 +7978,8 @@ in front (of) 指在某物外的前面；in the front (of) 指在某物内的前
 
 
 # ***frontier*** n
----
-英音 'frʌntɪə(r)     美音 frʌn'tɪr
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'frʌntɪə(r)     美音 frʌn'tɪr  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **[C] 国境；边境：**  
@@ -9248,12 +8000,8 @@ in front (of) 指在某物外的前面；in the front (of) 指在某物内的前
 
 
 # ***frost*** n
----
-英音 frɒst     美音 frɔːst
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 frɒst     美音 frɔːst  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **[U] 霜：**  
@@ -9265,12 +8013,8 @@ in front (of) 指在某物外的前面；in the front (of) 指在某物内的前
 
 
 # ***frown*** vi
----
-英音 fraʊn     美音 fraʊn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fraʊn     美音 fraʊn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **皱眉；蹙额**  
@@ -9278,12 +8022,8 @@ in front (of) 指在某物外的前面；in the front (of) 指在某物内的前
 
 
 # ***fruit*** n
----
-英音 fruːt     美音 fruːt
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 fruːt     美音 fruːt  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **水果；果实：**  
@@ -9324,12 +8064,8 @@ fruits表示“各种水果”。
 
 
 # ***frustration*** n
----
-英音 frʌ'streɪʃn     美音 frʌ'streɪʃn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 frʌ'streɪʃn     美音 frʌ'streɪʃn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **[U] 懊丧；懊恼；**  
@@ -9340,12 +8076,8 @@ fruits表示“各种水果”。
 
 
 # ***fry*** v
----
-英音 fraɪ     美音 fraɪ
-
-词频 3 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 fraɪ     美音 fraɪ  
+词频 3 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **油煎；油炒；油炸：**  
@@ -9359,12 +8091,8 @@ fruits表示“各种水果”。
 
 
 # ***fuel*** n
----
-英音 'fjuːəl     美音 'fjuːəl
-
-词频 4 | 口语 1 | 书面 2 | 阅读 0
-
-
+英音 'fjuːəl     美音 'fjuːəl  
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] & [U] 燃料：**  
@@ -9385,12 +8113,8 @@ Most air pollution is caused by the burning of ________ (燃料) like coal, gas 
   
 
 # ***fuel*** v
----
-英音 'fjuːəl     美音 'fjuːəl
-
-词频 4 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fjuːəl     美音 'fjuːəl  
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *低义频：* **vt & vi (给...) 加燃料：**  
@@ -9408,12 +8132,8 @@ to increase sth; to make sth stronger：
 
 
 # ***fulfil(l)*** vt
----
-英音 fʊl'fɪl     美音 fʊl'fɪl
-
-词频 2 | 口语 0 | 书面 1 | 阅读 1
-
-
+英音 fʊl'fɪl     美音 fʊl'fɪl  
+词频 2 | 口语 0 | 书面 1 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **履行；实现；完成；满足：**  
@@ -9433,12 +8153,8 @@ to increase sth; to make sth stronger：
 
 
 # ***fulfilling*** adj
----
-英音 fʊl'fɪlɪŋ     美音 fʊl'fɪlɪŋ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fʊl'fɪlɪŋ     美音 fʊl'fɪlɪŋ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **令人满意的；令人愉快的**  
@@ -9446,12 +8162,8 @@ to increase sth; to make sth stronger：
 
 
 # ***full*** adj
----
-英音 fʊl     美音 fʊl
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 fʊl     美音 fʊl  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **满的；充满的：**  
@@ -9521,12 +8233,8 @@ to increase sth; to make sth stronger：
 
 
 # ***full-length*** adj
----
-英音 ˌfʊl'leŋθ     美音 ˌfʊl'leŋθ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌfʊl'leŋθ     美音 ˌfʊl'leŋθ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **足本的；全身的**  
@@ -9534,12 +8242,8 @@ to increase sth; to make sth stronger：
 
 
 # ***fully*** adv
----
-英音 'fʊli     美音 'fʊli
-
-词频 4 | 口语 2 | 书面 2 | 阅读 0
-
-
+英音 'fʊli     美音 'fʊli  
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **完全地；充分地；彻底地 (completely)：**  
@@ -9563,12 +8267,8 @@ to increase sth; to make sth stronger：
 
 
 # ***fun*** n
----
-英音 fʌn     美音 fʌn
-
-词频 5 | 口语 2 | 书面 1 | 阅读 0
-
-用法点拨  [U]
+英音 fʌn     美音 fʌn  
+词频 5 | 口语 2 | 书面 1 | 阅读 0  用法点拨  [U]
 
 英文释义
 ---
@@ -9632,12 +8332,8 @@ This is not a match. We're playing chess just ________ fun.
   
 
 # ***fun*** adj
----
-英音 fʌn     美音 fʌn
-
-词频 5 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 fʌn     美音 fʌn  
+词频 5 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **给人欢乐的；有趣的：**  
@@ -9651,12 +8347,8 @@ This is not a match. We're playing chess just ________ fun.
 
 
 # ***function*** n
----
-英音 'fʌŋkʃn     美音 'fʌŋkʃn
-
-词频 4 | 口语 1 | 书面 3 | 阅读 3
-
-
+英音 'fʌŋkʃn     美音 'fʌŋkʃn  
+词频 4 | 口语 1 | 书面 3 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **[C] & [U] (事物的) 功能 / 机能；(人的) 作用 / 职责：**  
@@ -9671,12 +8363,8 @@ This is not a match. We're playing chess just ________ fun.
 
 
 # ***function*** vi
----
-英音 'fʌŋkʃn     美音 'fʌŋkʃn
-
-词频 4 | 口语 0 | 书面 0 | 阅读 3
-
-
+英音 'fʌŋkʃn     美音 'fʌŋkʃn  
+词频 4 | 口语 0 | 书面 0 | 阅读 3  
 英文释义
 ---
 1. *高义频：* **工作；运转；起作用：**  
@@ -9692,12 +8380,8 @@ This is not a match. We're playing chess just ________ fun.
 
 
 # ***fund*** n
----
-英音 fʌnd     美音 fʌnd
-
-词频 3 | 口语 1 | 书面 3 | 阅读 0
-
-
+英音 fʌnd     美音 fʌnd  
+词频 3 | 口语 1 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 基金；专款；[复数]资金：**  
@@ -9725,12 +8409,8 @@ This is not a match. We're playing chess just ________ fun.
 
 
 # ***fund*** vt
----
-英音 fʌnd     美音 fʌnd
-
-词频 3 | 口语 1 | 书面 1 | 阅读 0
-
-
+英音 fʌnd     美音 fʌnd  
+词频 3 | 口语 1 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **为...提供资金；资助：**  
@@ -9741,12 +8421,8 @@ This is not a match. We're playing chess just ________ fun.
 
 
 # ***fundamental*** adj
----
-英音 ˌfʌndə'mentl     美音 ˌfʌndə'mentl
-
-词频 1 | 口语 0 | 书面 2 | 阅读 1
-
-
+英音 ˌfʌndə'mentl     美音 ˌfʌndə'mentl  
+词频 1 | 口语 0 | 书面 2 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **基础的；根本的；十分重大的：**  
@@ -9765,12 +8441,8 @@ This is not a match. We're playing chess just ________ fun.
 
 
 # ***fundamental*** n
----
-英音 ˌfʌndə'mentl     美音 ˌfʌndə'mentl
-
-词频 1 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 ˌfʌndə'mentl     美音 ˌfʌndə'mentl  
+词频 1 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **[C] [常用复数] 基本规律 / 原理；根本法则；基础：**  
@@ -9781,12 +8453,8 @@ This is not a match. We're playing chess just ________ fun.
 
 
 # ***funeral*** n
----
-英音 'fjuːnərəl     美音 'fjuːnərəl
-
-词频 2 | 口语 1 | 书面 0 | 阅读 0
-
-
+英音 'fjuːnərəl     美音 'fjuːnərəl  
+词频 2 | 口语 1 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[C] 葬礼；丧礼：**  
@@ -9798,12 +8466,8 @@ This is not a match. We're playing chess just ________ fun.
 
 
 # ***funny*** adj
----
-英音 'fʌni     美音 'fʌni
-
-词频 4 | 口语 3 | 书面 1 | 阅读 0
-
-
+英音 'fʌni     美音 'fʌni  
+词频 4 | 口语 3 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **滑稽的；好笑的；奇怪的：**  
@@ -9819,12 +8483,8 @@ This is not a match. We're playing chess just ________ fun.
 
 
 # ***fur*** n
----
-英音 fɜː(r)     美音 fɜːr
-
-词频 2 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 fɜː(r)     美音 fɜːr  
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] (兽类的) 软毛；毛皮 (衣服)**  
@@ -9832,12 +8492,8 @@ This is not a match. We're playing chess just ________ fun.
 
 
 # ***furnish*** v
----
-英音 'fɜːnɪʃ     美音 'fɜːrnɪʃ
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fɜːnɪʃ     美音 'fɜːrnɪʃ  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **为（房屋或房间）配备家具**  
@@ -9845,12 +8501,8 @@ This is not a match. We're playing chess just ________ fun.
 
 
 # ***furnished*** adj
----
-英音 'fɜːnɪʃt     美音 'fɜːrnɪʃt
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fɜːnɪʃt     美音 'fɜːrnɪʃt  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **配备家具的；备有家具的 (房间)：**  
@@ -9861,12 +8513,8 @@ This is not a match. We're playing chess just ________ fun.
 
 
 # ***furniture*** n
----
-英音 'fɜːnɪtʃə(r)     美音 'fɜːrnɪtʃər
-
-词频 4 | 口语 2 | 书面 1 | 阅读 0
-
-
+英音 'fɜːnɪtʃə(r)     美音 'fɜːrnɪtʃər  
+词频 4 | 口语 2 | 书面 1 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] (总称) 家具：**  
@@ -9889,12 +8537,8 @@ The only piece of f________ he has in his room is a bed.
   
 
 # ***further*** adj
----
-英音 'fɜːðə(r)     美音 'fɜːrðər
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [far的比较级]
+英音 'fɜːðə(r)     美音 'fɜːrðər  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [far的比较级]
 
 英文释义
 ---
@@ -9917,12 +8561,8 @@ The only piece of f________ he has in his room is a bed.
 
 
 # ***further*** adv
----
-英音 'fɜːðə(r)     美音 'fɜːrðər
-
-词频 4 | 口语 3 | 书面 3 | 阅读 0
-
-用法点拨  [far的比较级]
+英音 'fɜːðə(r)     美音 'fɜːrðər  
+词频 4 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [far的比较级]
 
 英文释义
 ---
@@ -9943,12 +8583,8 @@ The only piece of f________ he has in his room is a bed.
 
 
 # ***furthermore*** adv
----
-英音 ˌfɜːðə'mɔː(r)     美音 ˌfɜːrðər'mɔːr
-
-词频 2 | 口语 0 | 书面 0 | 阅读 1
-
-
+英音 ˌfɜːðə'mɔː(r)     美音 ˌfɜːrðər'mɔːr  
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
 英文释义
 ---
 1. *高义频：* **而且；此外 (moreover)：**  
@@ -9959,12 +8595,8 @@ The only piece of f________ he has in his room is a bed.
 
 
 # ***furthest*** adj & adv
----
-英音 'fɜːðɪst     美音 'fɜːrðɪst
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-用法点拨  [far的最高级]
+英音 'fɜːðɪst     美音 'fɜːrðɪst  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [far的最高级]
 
 英文释义
 ---
@@ -9983,12 +8615,8 @@ The only piece of f________ he has in his room is a bed.
 
 
 # ***fusion*** n
----
-英音 'fjuːʒn     美音 'fjuːʒn
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 'fjuːʒn     美音 'fjuːʒn  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **合并；合成**  
@@ -9996,12 +8624,8 @@ The only piece of f________ he has in his room is a bed.
 
 
 # ***future*** n
----
-英音 'fjuːtʃə(r)     美音 'fjuːtʃər
-
-词频 5 | 口语 3 | 书面 2 | 阅读 0
-
-
+英音 'fjuːtʃə(r)     美音 'fjuːtʃər  
+词频 5 | 口语 3 | 书面 2 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **[U] [与the连用] 将来；未来：**  
@@ -10069,12 +8693,8 @@ soon：
 
 
 # ***future*** adj
----
-英音 'fjuːtʃə(r)     美音 'fjuːtʃər
-
-词频 5 | 口语 3 | 书面 3 | 阅读 0
-
-
+英音 'fjuːtʃə(r)     美音 'fjuːtʃər  
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
 英文释义
 ---
 1. *高义频：* **将来的；未来的；[语法] 将来 (时) 的**  
@@ -10082,12 +8702,8 @@ soon：
 
 
 # ***futurologist*** n
----
-英音 ˌfjuːtʃə'rɒlədʒɪst     美音 ˌfjuːtʃə'rɑːlədʒɪst
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌfjuːtʃə'rɒlədʒɪst     美音 ˌfjuːtʃə'rɑːlədʒɪst  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **未来学家**  
@@ -10095,12 +8711,8 @@ soon：
 
 
 # ***futurology*** n
----
-英音 ˌfjuːtʃə'rɒlədʒi     美音 ˌfjuːtʃə'rɑːlədʒi
-
-词频 1 | 口语 0 | 书面 0 | 阅读 0
-
-
+英音 ˌfjuːtʃə'rɒlədʒi     美音 ˌfjuːtʃə'rɑːlədʒi  
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
 英文释义
 ---
 1. **未来学**  
