@@ -35,7 +35,7 @@ html 版
 * [Xx](html/weici_X.html)
 * [Yy](html/weici_Y.html)
 * [Zz](html/weici_Z.html)
-* [词组](html/weici_phrase_2542.html.html)
+* [词组](html/weici_phrase_2542.html)
 * [所有词(暂未更新)](html/weici_all_10112.html)
 
 md 版
