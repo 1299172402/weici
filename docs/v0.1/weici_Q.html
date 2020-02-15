@@ -1,0 +1,509 @@
+<!doctype html>
+<html>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+<title>weici_Q</title><link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
+iframe { margin: auto; }
+a.url { word-break: break-all; }
+a:active, a:hover { outline: 0px; }
+.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 40px; }
+#write.first-line-indent p { text-indent: 2em; }
+#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
+#write.first-line-indent li { margin-left: 2em; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
+@media screen and (max-width: 500px) {
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  #write { padding-left: 20px; padding-right: 20px; }
+  .CodeMirror-sizer { margin-left: 0px !important; }
+  .CodeMirror-gutters { display: none !important; }
+}
+#write li > figure:last-child { margin-bottom: 0.5rem; }
+#write ol, #write ul { position: relative; }
+img { max-width: 100%; vertical-align: middle; }
+button, input, select, textarea { color: inherit; font: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+*, ::after, ::before { box-sizing: border-box; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
+p { line-height: inherit; }
+h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 2; }
+p { orphans: 4; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; cursor: pointer; }
+sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
+figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
+figure > table { margin: 0px !important; }
+tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+table.md-table td { min-width: 32px; }
+.CodeMirror-gutters { border-right: 0px; background-color: inherit; }
+.CodeMirror-linenumber { user-select: none; }
+.CodeMirror { text-align: left; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+#write pre { white-space: pre-wrap; }
+#write.fences-no-line-wrapping pre { white-space: pre; }
+#write pre.ty-contain-cm { white-space: normal; }
+.CodeMirror-gutters { margin-right: 4px; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background: inherit; position: relative !important; }
+.md-diagram-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+#write .md-fences.mock-cm { white-space: pre-wrap; }
+.md-fences.md-fences-with-lineno { padding-left: 0px; }
+#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
+.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
+.CodeMirror-line, twitterwidget { break-inside: avoid; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
+.footnotes + .footnotes { margin-top: 0px; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li .mathjax-block, li p { margin: 0.5rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child, li > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
+#write .footnote-line { white-space: pre-wrap; }
+@media print {
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; }
+  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
+  .typora-export * { -webkit-print-color-adjust: exact; }
+  html.blink-to-pdf { font-size: 13px; }
+  .typora-export #write { padding-left: 32px; padding-right: 32px; padding-bottom: 0px; break-after: avoid; }
+  .typora-export #write::after { height: 0px; }
+}
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+a img, img a { cursor: pointer; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
+p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
+p > .md-image:only-child { display: inline-block; width: 100%; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.md-math-block { width: 100%; }
+.md-math-block:not(:empty)::after { display: none; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus { outline: 0px; box-shadow: none; }
+.md-task-list-item { position: relative; list-style-type: none; }
+.task-list-item.md-task-list-item { padding-left: 0px; }
+.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc-content::after, .md-toc::after { display: none; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-item a { text-decoration: none; }
+.md-toc-inner:hover { text-decoration: underline; }
+.md-toc-inner { display: inline-block; cursor: pointer; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
+@media screen and (max-width: 48em) {
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
+}
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+code, pre, samp, tt { font-family: var(--monospace); }
+kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.8; font-family: var(--monospace); }
+code { text-align: left; vertical-align: initial; }
+a.md-print-anchor { white-space: pre !important; border-width: initial !important; border-style: none !important; border-color: initial !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; background: 0px 0px !important; text-decoration: initial !important; text-shadow: initial !important; }
+.md-inline-math .MathJax_SVG .noError { display: none !important; }
+.html-for-mac .inline-math-svg .MathJax_SVG { vertical-align: 0.2px; }
+.md-math-block .MathJax_SVG_Display { text-align: center; margin: 0px; position: relative; text-indent: 0px; max-width: none; max-height: none; min-height: 0px; min-width: 100%; width: auto; overflow-y: hidden; display: block !important; }
+.MathJax_SVG_Display, .md-inline-math .MathJax_SVG_Display { width: auto; margin: inherit; display: inline-block !important; }
+.MathJax_SVG .MJX-monospace { font-family: var(--monospace); }
+.MathJax_SVG .MJX-sans-serif { font-family: sans-serif; }
+.MathJax_SVG { display: inline; font-style: normal; font-weight: 400; line-height: normal; zoom: 90%; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; overflow-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; }
+.MathJax_SVG * { transition: none 0s ease 0s; }
+.MathJax_SVG_Display svg { vertical-align: middle !important; margin-bottom: 0px !important; margin-top: 0px !important; }
+.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
+.md-diagram-panel > svg { max-width: 100%; }
+[lang="mermaid"] svg, [lang="flow"] svg { max-width: 100%; height: auto; }
+[lang="mermaid"] .node text { font-size: 1rem; }
+table tr th { border-bottom: 0px; }
+video { max-width: 100%; display: block; margin: 0px auto; }
+iframe { max-width: 100%; width: 100%; border: none; }
+.highlight td, .highlight tr { border: 0px; }
+svg[id^="mermaidChart"] { line-height: 1em; }
+mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
+mark .md-meta { color: rgb(0, 0, 0); opacity: 0.3 !important; }
+
+
+:root {
+    --side-bar-bg-color: #fafafa;
+    --control-text-color: #777;
+}
+
+@include-when-export url(https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
+
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: "Open Sans","Clear Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: rgb(51, 51, 51);
+    line-height: 1.6;
+}
+
+#write {
+    max-width: 860px;
+  	margin: 0 auto;
+  	padding: 30px;
+    padding-bottom: 100px;
+}
+#write > ul:first-child,
+#write > ol:first-child{
+    margin-top: 30px;
+}
+
+a {
+    color: #4183C4;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    position: relative;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    line-height: 1.4;
+    cursor: text;
+}
+h1:hover a.anchor,
+h2:hover a.anchor,
+h3:hover a.anchor,
+h4:hover a.anchor,
+h5:hover a.anchor,
+h6:hover a.anchor {
+    text-decoration: none;
+}
+h1 tt,
+h1 code {
+    font-size: inherit;
+}
+h2 tt,
+h2 code {
+    font-size: inherit;
+}
+h3 tt,
+h3 code {
+    font-size: inherit;
+}
+h4 tt,
+h4 code {
+    font-size: inherit;
+}
+h5 tt,
+h5 code {
+    font-size: inherit;
+}
+h6 tt,
+h6 code {
+    font-size: inherit;
+}
+h1 {
+    padding-bottom: .3em;
+    font-size: 2.25em;
+    line-height: 1.2;
+    border-bottom: 1px solid #eee;
+}
+h2 {
+   padding-bottom: .3em;
+    font-size: 1.75em;
+    line-height: 1.225;
+    border-bottom: 1px solid #eee;
+}
+h3 {
+    font-size: 1.5em;
+    line-height: 1.43;
+}
+h4 {
+    font-size: 1.25em;
+}
+h5 {
+    font-size: 1em;
+}
+h6 {
+   font-size: 1em;
+    color: #777;
+}
+p,
+blockquote,
+ul,
+ol,
+dl,
+table{
+    margin: 0.8em 0;
+}
+li>ol,
+li>ul {
+    margin: 0 0;
+}
+hr {
+    height: 2px;
+    padding: 0;
+    margin: 16px 0;
+    background-color: #e7e7e7;
+    border: 0 none;
+    overflow: hidden;
+    box-sizing: content-box;
+}
+
+li p.first {
+    display: inline-block;
+}
+ul,
+ol {
+    padding-left: 30px;
+}
+ul:first-child,
+ol:first-child {
+    margin-top: 0;
+}
+ul:last-child,
+ol:last-child {
+    margin-bottom: 0;
+}
+blockquote {
+    border-left: 4px solid #dfe2e5;
+    padding: 0 15px;
+    color: #777777;
+}
+blockquote blockquote {
+    padding-right: 0;
+}
+table {
+    padding: 0;
+    word-break: initial;
+}
+table tr {
+    border-top: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 0;
+}
+table tr:nth-child(2n),
+thead {
+    background-color: #f8f8f8;
+}
+table tr th {
+    font-weight: bold;
+    border: 1px solid #dfe2e5;
+    border-bottom: 0;
+    margin: 0;
+    padding: 6px 13px;
+}
+table tr td {
+    border: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 6px 13px;
+}
+table tr th:first-child,
+table tr td:first-child {
+    margin-top: 0;
+}
+table tr th:last-child,
+table tr td:last-child {
+    margin-bottom: 0;
+}
+
+.CodeMirror-lines {
+    padding-left: 4px;
+}
+
+.code-tooltip {
+    box-shadow: 0 1px 1px 0 rgba(0,28,36,.3);
+    border-top: 1px solid #eef2f2;
+}
+
+.md-fences,
+code,
+tt {
+    border: 1px solid #e7eaed;
+    background-color: #f8f8f8;
+    border-radius: 3px;
+    padding: 0;
+    padding: 2px 4px 0px 4px;
+    font-size: 0.9em;
+}
+
+code {
+    background-color: #f3f4f4;
+    padding: 0 2px 0 2px;
+}
+
+.md-fences {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding-top: 8px;
+    padding-bottom: 6px;
+}
+
+
+.md-task-list-item > input {
+  margin-left: -1.3em;
+}
+
+@media print {
+    html {
+        font-size: 13px;
+    }
+    table,
+    pre {
+        page-break-inside: avoid;
+    }
+    pre {
+        word-wrap: break-word;
+    }
+}
+
+.md-fences {
+	background-color: #f8f8f8;
+}
+#write pre.md-meta-block {
+	padding: 1rem;
+    font-size: 85%;
+    line-height: 1.45;
+    background-color: #f7f7f7;
+    border: 0;
+    border-radius: 3px;
+    color: #777777;
+    margin-top: 0 !important;
+}
+
+.mathjax-block>.code-tooltip {
+	bottom: .375rem;
+}
+
+.md-mathjax-midline {
+    background: #fafafa;
+}
+
+#write>h3.md-focus:before{
+	left: -1.5625rem;
+	top: .375rem;
+}
+#write>h4.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+#write>h5.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+#write>h6.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+.md-image>.md-meta {
+    /*border: 1px solid #ddd;*/
+    border-radius: 3px;
+    padding: 2px 0px 0px 4px;
+    font-size: 0.9em;
+    color: inherit;
+}
+
+.md-tag {
+    color: #a7a7a7;
+    opacity: 1;
+}
+
+.md-toc { 
+    margin-top:20px;
+    padding-bottom:20px;
+}
+
+.sidebar-tabs {
+    border-bottom: none;
+}
+
+#typora-quick-open {
+    border: 1px solid #ddd;
+    background-color: #f8f8f8;
+}
+
+#typora-quick-open-item {
+    background-color: #FAFAFA;
+    border-color: #FEFEFE #e5e5e5 #e5e5e5 #eee;
+    border-style: solid;
+    border-width: 1px;
+}
+
+/** focus mode */
+.on-focus-mode blockquote {
+    border-left-color: rgba(85, 85, 85, 0.12);
+}
+
+header, .context-menu, .megamenu-content, footer{
+    font-family: "Segoe UI", "Arial", sans-serif;
+}
+
+.file-node-content:hover .file-node-icon,
+.file-node-content:hover .file-node-open-state{
+    visibility: visible;
+}
+
+.mac-seamless-mode #typora-sidebar {
+    background-color: #fafafa;
+    background-color: var(--side-bar-bg-color);
+}
+
+.md-lang {
+    color: #b4654d;
+}
+
+.html-for-mac .context-menu {
+    --item-hover-bg-color: #E6F0FE;
+}
+
+#md-notification .btn {
+    border: 0;
+}
+
+.dropdown-menu .divider {
+    border-color: #e5e5e5;
+}
+
+.ty-preferences .window-content {
+    background-color: #fafafa;
+}
+
+.ty-preferences .nav-group-item.active {
+    color: white;
+    background: #999;
+}
+
+
+</style>
+</head>
+<body class='typora-export os-windows' >
+<div  id='write'  class = 'is-node'><h1><a name="qomolangma-n" class="md-header-anchor"></a><strong><em><span>Qomolangma</span></em></strong><span> n</span></h1><hr /><p><span>英音 ˌtʃəʊmə&#39;lʊŋmə     美音 ˌtʃəʊmə&#39;lʊŋmə</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>珠穆朗玛峰</span></strong><span>  </span></li></ol><h2><a name="固定搭配" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="quaker-n" class="md-header-anchor"></a><strong><em><span>Quaker</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;kweɪkə(r)     美音 &#39;kweɪkər</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n25" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>教友派信徒；贵格会会员</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n30" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n32" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n34" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="quagga-n" class="md-header-anchor"></a><strong><em><span>quagga</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;kwæɡə     美音 &#39;kwæɡə</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n42" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>白氏斑马 (已灭绝)</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n47" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n49" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n51" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="quake-n" class="md-header-anchor"></a><strong><em><span>quake</span></em></strong><span> n</span></h1><hr /><p><span>英音 kweɪk     美音 kweɪk</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n60" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>地震 (earthquake)</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n65" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n67" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n69" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="quake-vi" class="md-header-anchor"></a><strong><em><span>quake</span></em></strong><span> vi</span></h1><hr /><p><span>英音 kweɪk     美音 kweɪk</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n77" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>(地面等的) 震动；颤抖：</span></strong><span>  </span></li></ol><blockquote><p><span>The earth began to quake.</span><br/><span>大地开始颤动。</span></p></blockquote><blockquote><p><strong><span>quake with fear</span></strong><span></span><br/><span>quake with fear</span><br/><span>害怕得发抖</span></p></blockquote><h2><a name="固定搭配-n87" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n89" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n91" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="qualification-n" class="md-header-anchor"></a><strong><em><span>qualification</span></em></strong><span> n</span></h1><hr /><p><span>英音 ˌkwɒlɪfɪ&#39;keɪʃn     美音 ˌkwɑːlɪfɪ&#39;keɪʃn</span></p><p><span>词频 2 | 口语 0 | 书面 1 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n100" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>[常用复数] 资格；资历：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>acquire / gain qualifications</span></strong><span></span><br/><span>acquire / gain qualifications</span><br/><span>获得资格</span></p></blockquote><blockquote><p><strong><span>qualifications for</span></strong><span></span><br/><span>She has the qualifications for teaching English. / She has the qualifications to teach English.</span><br/><span>她有教英语的资格。</span></p></blockquote><ol start='2' ><li><em><span>低义频：</span></em><span> </span><strong><span>资格证书</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n113" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n115" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n117" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="qualified-adj" class="md-header-anchor"></a><strong><em><span>qualified</span></em></strong><span> adj</span></h1><hr /><p><span>英音 &#39;kwɒlɪfaɪd     美音 &#39;kwɑːlɪfaɪd</span></p><p><span>词频 2 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n125" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>有资格的；称职的：</span></strong><span>  </span></li></ol><ul><li><h4><a name="be-qualified-for--to-do-sth" class="md-header-anchor"></a><span>be qualified for / to do sth:</span></h4></li></ul><blockquote><p><strong><span>well qualified for</span></strong><span></span><br/><span>He took all kinds of tests to prove he was well qualified for this important task.</span><br/><span>他参加各种各样的测试，以证明自己完全有资格接受这项重要任务。</span></p></blockquote><blockquote><p><span>He isn’t qualified to vote.</span><br/><span>他没有投票资格。</span></p></blockquote><blockquote><p><span>a qualified dental nurse</span><br/><span>合格的牙科护士</span></p></blockquote><h2><a name="固定搭配-n140" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n142" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n144" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="qualify-v" class="md-header-anchor"></a><strong><em><span>qualify</span></em></strong><span> v</span></h1><hr /><p><span>英音 &#39;kwɒlɪfaɪ     美音 &#39;kwɑːlɪfaɪ</span></p><p><span>词频 1 | 口语 0 | 书面 1 | 阅读 0</span></p><h2><a name="英文释义-n152" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>(使) 具有资格； (使)合格：</span></strong><span>  </span></li></ol><blockquote><p><span>The test will qualify you to drive heavy vehicles.</span><br/><span>通过这项考试你就有资格驾驶重型车辆。</span></p></blockquote><blockquote><p><span>He’s been informed that he doesn’t qualify for the scholarship because of his academic background.</span><br/><span>他已被告知因学历背景不合格他不具备获得奖学金的资格。</span></p></blockquote><h2><a name="固定搭配-n162" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n164" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n166" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="quality-n" class="md-header-anchor"></a><strong><em><span>quality</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;kwɒləti     美音 &#39;kwɑːləti</span></p><p><span>词频 5 | 口语 3 | 书面 3 | 阅读 0</span></p><h2><a name="英文释义-n174" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>[C] &amp; [U] 质；质量：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>poor quality</span></strong><span></span><br/><span>goods of poor quality / poor-quality goods</span><br/><span>劣质货物</span></p></blockquote><blockquote><p><span>improve the quality of life</span><br/><span>改善生活质量</span></p></blockquote><blockquote><p><strong><span>is of good / high quality</span></strong><span></span><br/><span>This model is of good / high quality, but it’s too expensive.</span><br/><span>这个型号质量好，但太贵。</span></p></blockquote><ol start='2' ><li><em><span>高义频：</span></em><span> </span><strong><span>[C] [常用复数] 品质；品德：</span></strong><span>  </span></li></ol><blockquote><p><span>the quality of honesty</span><br/><span>诚实的品性</span></p></blockquote><blockquote><p><span>What qualities does a great person have?</span><br/><span>伟人具有什么样的品德？</span></p></blockquote><ol start='3' ><li><em><span>高义频：</span></em><span> </span><strong><span>[U] 优质：</span></strong><span>  </span></li></ol><blockquote><p><span>products of quality</span><br/><span>优质产品</span></p></blockquote><h2><a name="固定搭配-n200" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n202" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n204" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="quality-adj" class="md-header-anchor"></a><strong><em><span>quality</span></em></strong><span> adj</span></h1><hr /><p><span>英音 &#39;kwɒləti     美音 &#39;kwɑːləti</span></p><p><span>词频 5 | 口语 3 | 书面 3 | 阅读 0</span></p><h2><a name="英文释义-n212" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><strong><span>优质的；高质量的</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n217" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n219" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n221" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="quantity-n" class="md-header-anchor"></a><strong><em><span>quantity</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;kwɒntəti     美音 &#39;kwɑːntəti</span></p><p><span>词频 3 | 口语 1 | 书面 2 | 阅读 0</span></p><p><span>用法点拨  [C] &amp; [U]</span></p><h2><a name="英文释义-n230" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>数量；大量：</span></strong><span>  </span></li></ol><blockquote><p><span>The change of quantity causes the change of quality.</span><br/><span>量变引起质变。</span></p></blockquote><h2><a name="固定搭配-n238" class="md-header-anchor"></a><span>固定搭配</span></h2><ul><li><h4><a name="a-large-quantity-of--large-quantities-of" class="md-header-anchor"></a><span>a large quantity of / large quantities of</span></h4></li></ul><ol start='' ><li><strong><span>大量的：</span></strong><span>  </span></li></ol><blockquote><p><span>There’s a large quantity of rain in this area.</span><br/><span>这个地区雨量大。</span></p></blockquote><p><span>a large quantity of / large quantities of 后既可以接可数名词也可以接不可数名词。</span></p><ul><li><h4><a name="in-quantity--in-large-quantities" class="md-header-anchor"></a><span>in quantity / in large quantities</span></h4></li></ul><ol start='' ><li><strong><span>大量地：</span></strong><span>  </span></li></ol><blockquote><p><span>They buy cotton in quantity.</span><br/><span>他们大量收购棉花。</span></p></blockquote><h2><a name="派生词汇-n259" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n261" class="md-header-anchor"></a><span>真题解析</span></h2><h5><a name="题目" class="md-header-anchor"></a><span>题目  </span></h5><p><span>As a result of destroying the forests, a large quantity of desert </span><strong><span>__</span></strong><span>__ (have) covered the land.  </span></p><h5><a name="答案-has" class="md-header-anchor"></a><span>答案 has  </span></h5><p>&nbsp;</p><h1><a name="quarrel-vi" class="md-header-anchor"></a><strong><em><span>quarrel</span></em></strong><span> vi</span></h1><hr /><p><span>英音 &#39;kwɒrəl     美音 &#39;kwɔːrəl</span></p><p><span>词频 4 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n271" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>争吵；吵架：</span></strong><span>  </span></li></ol><ul><li><h4><a name="quarrel-with-sb-about--over-sth" class="md-header-anchor"></a><span>quarrel with sb about / over sth:</span></h4></li></ul><blockquote><p><span>She quarrelled with her brother over his schoolwork.</span><br/><span>她因弟弟的功课而与他发生了争执。</span></p></blockquote><h2><a name="固定搭配-n282" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n284" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n286" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="quarrel-n" class="md-header-anchor"></a><strong><em><span>quarrel</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;kwɒrəl     美音 &#39;kwɔːrəl</span></p><p><span>词频 4 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n295" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>争吵；吵架：</span></strong><span>  </span></li></ol><ul><li><h4><a name="have-a-quarrel-with-sb-about--over-sb--sth" class="md-header-anchor"></a><span>have a quarrel with sb about / over sb / sth:</span></h4></li></ul><blockquote><p><span>She had a quarrel with her husband about housework.</span><br/><span>她因家务事与丈夫吵了一架。</span></p></blockquote><blockquote><p><strong><span>quarrel,between</span></strong><span></span><br/><span>A quarrel broke out between them.</span><br/><span>他们之间发生了口角。</span></p></blockquote><h2><a name="固定搭配-n308" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n310" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n312" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="quarter-n" class="md-header-anchor"></a><strong><em><span>quarter</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;kwɔːtə(r)     美音 &#39;kwɔːrtər</span></p><p><span>词频 4 | 口语 3 | 书面 2 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n321" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>四分之一；(橄榄球赛等的) 四分之一场：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>Three quarters of</span></strong><span></span><br/><span>Three quarters of the students in our class are League members.</span><br/><span>我们班四分之三的学生是团员。</span></p></blockquote><blockquote><p><strong><span>the fourth quarter</span></strong><span></span><br/><span>The Rockets led by two points going into the fourth quarter.</span><br/><span>火箭队以领先两分的优势进入第四节。</span></p></blockquote><ol start='2' ><li><em><span>高义频：</span></em><span> </span><strong><span>一刻钟：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>a quarter to</span></strong><span></span><br/><span>I got up at a quarter to seven.</span><br/><span>我6点45分起床。</span></p></blockquote><ol start='3' ><li><em><span>低义频：</span></em><span> </span><strong><span>季度；付款的季度：</span></strong><span>  </span></li></ol><blockquote><p><span>He pays at the end of each quarter.</span><br/><span>他在每个季度末付款。</span></p></blockquote><ol start='4' ><li><em><span>低义频：</span></em><span> </span><strong><span>(美国和加拿大的) 两角五分的硬币</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n346" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n348" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n350" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="queen-n" class="md-header-anchor"></a><strong><em><span>queen</span></em></strong><span> n</span></h1><hr /><p><span>英音 kwiːn     美音 kwiːn</span></p><p><span>词频 3 | 口语 2 | 书面 2 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n359" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>女王；王后</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n364" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n366" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n368" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="quest-n" class="md-header-anchor"></a><strong><em><span>quest</span></em></strong><span> n</span></h1><hr /><p><span>英音 kwest     美音 kwest</span></p><p><span>词频 0 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n376" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><strong><span>(长期的) 寻求,探索,追求</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n381" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n383" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n385" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="question-n" class="md-header-anchor"></a><strong><em><span>question</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;kwestʃən     美音 &#39;kwestʃən</span></p><p><span>词频 5 | 口语 3 | 书面 3 | 阅读 0</span></p><h2><a name="英文释义-n393" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>问题 【反 answer】；难题：</span></strong><span>  </span></li></ol><blockquote><p><span>There is no single answer to the question.</span><br/><span>这个问题的答案不是唯一的。</span></p></blockquote><h3><a name="辨析-problem-question" class="md-header-anchor"></a><span>辨析 problem, question</span></h3><p><span>二者都可译作“问题”。</span></p><ol start='2' ><li><em><span>低义频：</span></em><span> </span><strong><span>[U] 怀疑：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>no question about it</span></strong><span></span><br/><span>He is by far the best. There is no question about it (= it is completely certain).</span><br/><span>他显然是最好的。这毫无疑问。</span></p></blockquote><h2><a name="固定搭配-n409" class="md-header-anchor"></a><span>固定搭配</span></h2><ul><li><h4><a name="out-of-question" class="md-header-anchor"></a><span>out of question</span></h4></li></ul><ol start='' ><li><strong><span>毫无疑问</span></strong><span>  </span></li></ol><ul><li><h4><a name="out-of-the-question" class="md-header-anchor"></a><span>out of the question</span></h4></li></ul><ol start='' ><li><strong><span>不可能的</span></strong><span>  </span></li></ol><ul><li><h4><a name="in-question" class="md-header-anchor"></a><span>in question</span></h4></li></ul><ol start='' ><li><strong><span>讨论中的；有疑问的；不确定的</span></strong><span>  </span></li></ol><h2><a name="派生词汇-n431" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n433" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="question-vt" class="md-header-anchor"></a><strong><em><span>question</span></em></strong><span> vt</span></h1><hr /><p><span>英音 &#39;kwestʃən     美音 &#39;kwestʃən</span></p><p><span>词频 5 | 口语 2 | 书面 1 | 阅读 0</span></p><h2><a name="英文释义-n441" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>询问；审问：</span></strong><span>  </span></li></ol><blockquote><p><span>He was questioned by the police.</span><br/><span>他受到警方的审问。</span></p></blockquote><ol start='2' ><li><em><span>高义频：</span></em><span> </span><strong><span>怀疑；对...表示疑问：</span></strong><span>  </span></li></ol><blockquote><p><span>No one questioned his ideas for almost 2,000 years.</span><br/><span>将近2000年，没有人怀疑过他的看法。</span></p></blockquote><blockquote><p><span>Soon you will also question whether the voice you&#39;re hearing is actually real.</span><br/><span>不久你也会怀疑你听到的声音是否不是真人。</span></p></blockquote><h2><a name="固定搭配-n457" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n459" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n461" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="questionnaire-n" class="md-header-anchor"></a><strong><em><span>questionnaire</span></em></strong><span> n</span></h1><hr /><p><span>英音 ˌkwestʃə&#39;neə(r)     美音 ˌkwestʃə&#39;ner</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n470" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>调查表；问卷：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>fill in / out</span></strong><span></span><br/><span>fill in / out a questionnaire</span><br/><span>填写调查表</span></p></blockquote><h2><a name="固定搭配-n478" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n480" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n482" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="queue-n" class="md-header-anchor"></a><strong><em><span>queue</span></em></strong><span> n</span></h1><hr /><p><span>英音 kjuː     美音 kjuː</span></p><p><span>词频 4 | 口语 1 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n491" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>长队；行列：</span></strong><span>  </span></li></ol><blockquote><p><span>stand / wait in a queue</span><br/><span>排队</span></p></blockquote><blockquote><p><strong><span>jump a queue</span></strong><span></span><br/><span>form / jump a queue</span><br/><span>排/插队</span></p></blockquote><h2><a name="固定搭配-n501" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n503" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n505" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="queue-vi" class="md-header-anchor"></a><strong><em><span>queue</span></em></strong><span> vi</span></h1><hr /><p><span>英音 kjuː     美音 kjuː</span></p><p><span>词频 4 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n513" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>排队等候：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>queu(e)ing (up) for</span></strong><span></span><br/><span>Some of the people queu(e)ing (up) for tickets had been there since dawn.</span><br/><span>买票队伍中的有些人从天刚亮就开始在排队了。</span></p></blockquote><h2><a name="固定搭配-n521" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n523" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n525" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="quick-adj" class="md-header-anchor"></a><strong><em><span>quick</span></em></strong><span> adj</span></h1><hr /><p><span>英音 kwɪk     美音 kwɪk</span></p><p><span>词频 4 | 口语 3 | 书面 2 | 阅读 0</span></p><h2><a name="英文释义-n533" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>(行动、动作等) 迅速的：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>be quick</span></strong><span></span><br/><span>Try to be quick. We’re late already.</span><br/><span>尽量快点儿，我们已经迟到了。</span></p></blockquote><h3><a name="辨析-fast-quick-rapid-swift" class="md-header-anchor"></a><span>辨析 fast, quick, rapid, swift</span></h3><p><span>四者都可用作形容词，表示“快的”、“迅速的”等意。</span></p><ol start='2' ><li><em><span>高义频：</span></em><span> </span><strong><span>(行动、事件等) 短时间的：</span></strong><span>  </span></li></ol><blockquote><p><span>Would you like to join me for a quick lunch before class?</span><br/><span>上课前我们一起吃个午间快餐好吗？</span></p></blockquote><ol start='3' ><li><em><span>高义频：</span></em><span> </span><strong><span>敏锐的；敏捷的；反应快的：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>quick learner</span></strong><span></span><br/><span>She is a quick learner.</span><br/><span>她学得很快啊。</span></p></blockquote><h2><a name="固定搭配-n555" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n557" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>quicken /&#39;kwɪkən/ v </span></p><h2><a name="真题解析-n559" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="quicken-v" class="md-header-anchor"></a><strong><em><span>quicken</span></em></strong><span> v</span></h1><hr /><p><span>英音 &#39;kwɪkən     </span></p><p><span>词频 0 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n567" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><strong><span>使加快；使活跃；刺激；变快；(孕妇) 进入胎动期；变活跃</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n572" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n574" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n576" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="quickly-adv" class="md-header-anchor"></a><strong><em><span>quickly</span></em></strong><span> adv</span></h1><hr /><p><span>英音 &#39;kwɪkli     美音 &#39;kwɪkli</span></p><p><span>词频 5 | 口语 3 | 书面 3 | 阅读 0</span></p><h2><a name="英文释义-n584" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>很快地；迅速地：</span></strong><span>  </span></li></ol><blockquote><p><span>How quickly time passed!</span><br/><span>时间过得真快啊！</span></p></blockquote><h2><a name="固定搭配-n592" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n594" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n596" class="md-header-anchor"></a><span>真题解析</span></h2><h5><a name="题目-n597" class="md-header-anchor"></a><span>题目  </span></h5><p><span>There are only five minutes left. We’ll have to walk q</span><strong><span>__</span></strong><span>__ to get there on time.  </span></p><h5><a name="答案-quickly" class="md-header-anchor"></a><span>答案 quickly  </span></h5><p>&nbsp;</p><h1><a name="quiet-adj" class="md-header-anchor"></a><strong><em><span>quiet</span></em></strong><span> adj</span></h1><hr /><p><span>英音 &#39;kwaɪət     美音 &#39;kwaɪət</span></p><p><span>词频 4 | 口语 2 | 书面 2 | 阅读 0</span></p><h2><a name="英文释义-n606" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>安静的；平静的；僻静的：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>Keep quiet</span></strong><span></span><br/><span>Keep quiet, please.</span><br/><span>请保持安静！</span></p></blockquote><blockquote><p><span>Our school is situated in a quiet area.</span><br/><span>我们学校位于一个僻静的地区。</span></p></blockquote><h3><a name="辨析-quiet-calm-still-silent" class="md-header-anchor"></a><span>辨析 quiet, calm, still, silent</span></h3><p><span>四者均可用作形容词，均含有“静”的意思。</span></p><ol start='2' ><li><em><span>高义频：</span></em><span> </span><strong><span>文静的；少言寡语的 (silent)：</span></strong><span>  </span></li></ol><blockquote><p><span>She was quiet and shy.</span><br/><span>她文静而又腼腆。</span></p></blockquote><h2><a name="固定搭配-n624" class="md-header-anchor"></a><span>固定搭配</span></h2><ul><li><h4><a name="keep-sth-quiet--keep-quiet-about-sth" class="md-header-anchor"></a><span>keep sth quiet / keep quiet about sth</span></h4></li></ul><ol start='' ><li><strong><span>对某事守口如瓶；保密：</span></strong><span>  </span></li></ol><blockquote><p><span>We want to give him a surprise, so please keep quiet about it.</span><br/><span>我们想给他一个惊喜，所以对此事务必要保密。</span></p></blockquote><h2><a name="派生词汇-n635" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>quietly /&#39;kwaɪətli/ adv </span></p><h2><a name="真题解析-n637" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="quiet-n" class="md-header-anchor"></a><strong><em><span>quiet</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;kwaɪət     美音 &#39;kwaɪət</span></p><p><span>词频 4 | 口语 2 | 书面 2 | 阅读 0</span></p><h2><a name="英文释义-n645" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><strong><span>[U] 宁静；安静：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>peace and quiet</span></strong><span></span><br/><span>David’s father wants to spend Christmas in the countryside so he can have some peace and quiet.</span><br/><span>大卫的父亲想在乡下过圣诞节，这样他能清静一下。</span></p></blockquote><h3><a name="辨析-quiet-calm-still-silent-n652" class="md-header-anchor"></a><span>辨析 quiet, calm, still, silent</span></h3><p><span>四者均可用作形容词，均含有“静”的意思。</span></p><h2><a name="固定搭配-n654" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n656" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n658" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="quilt-n" class="md-header-anchor"></a><strong><em><span>quilt</span></em></strong><span> n</span></h1><hr /><p><span>英音 kwɪlt     美音 kwɪlt</span></p><p><span>词频 3 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n667" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>被子；被褥：</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n672" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n674" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n676" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="quit-v" class="md-header-anchor"></a><strong><em><span>quit</span></em></strong><span> v</span></h1><hr /><p><span>英音 kwɪt     美音 kwɪt</span></p><p><span>词频 3 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  (quit / quitted, quit / quitted) vt &amp; vi [非正式用语]</span></p><h2><a name="英文释义-n685" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>离开 (工作、学校等)：</span></strong><span>  </span></li></ol><blockquote><p><span>quit a job / quit school</span><br/><span>辞职/辍学</span></p></blockquote><ol start='2' ><li><em><span>高义频：</span></em><span> </span><strong><span>停止；戒除：</span></strong><span>  </span></li></ol><ul><li><h4><a name="quit-doing-sth" class="md-header-anchor"></a><span>quit doing sth:</span></h4></li></ul><blockquote><p><span>My father has quit smoking at last.</span><br/><span>我父亲终于戒了烟。</span></p></blockquote><blockquote><p><span>He didn’t quit, and he became a great pianist.</span><br/><span>他没有放弃，最终成为一名伟大的钢琴家。</span></p></blockquote><ol start='3' ><li><em><span>高义频：</span></em><span> </span><strong><span>关闭 / 退出 (计算机程序等)</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n707" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n709" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n711" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="quite-adv" class="md-header-anchor"></a><strong><em><span>quite</span></em></strong><span> adv</span></h1><hr /><p><span>英音 kwaɪt     美音 kwaɪt</span></p><p><span>词频 5 | 口语 3 | 书面 3 | 阅读 0</span></p><h2><a name="英文释义-n719" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>完全；十分 (completely / absolutely / entirely)：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>quite agree</span></strong><span></span><br/><span>I quite agree.</span><br/><span>我完全赞同。</span></p></blockquote><blockquote><p><strong><span>not quite</span></strong><span></span><br/><span>I’m not quite sure where he lives. </span><br/><span>我不是很肯定他住在哪里。</span></p></blockquote><ol start='2' ><li><em><span>高义频：</span></em><span> </span><strong><span>相当；颇 (fairly / pretty)：</span></strong><span>  </span></li></ol><blockquote><p><span>quite an expensive restaurant</span><br/><span>相当贵的餐馆</span></p></blockquote><blockquote><p><span>quite good</span><br/><span>很好</span></p></blockquote><p><span>quite修饰与不定冠词连用的形容词时，须放在不定冠词之前。</span></p><h3><a name="辨析-fairly-quite-rather-pretty" class="md-header-anchor"></a><span>辨析 fairly, quite, rather, pretty</span></h3><p><span>四者都有“相当”之意。</span></p><h2><a name="固定搭配-n739" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n741" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n743" class="md-header-anchor"></a><span>真题解析</span></h2><h5><a name="题目-n744" class="md-header-anchor"></a><span>题目  </span></h5><p><span>It is one thing to enjoy listening to good music, but it is </span><strong><span>__</span></strong><span>__ another to play it well yourself.</span><br/><span>A.quite</span><br/><span>B.very</span><br/><span>C.rather</span><br/><span>D.much  </span></p><h5><a name="答案-a" class="md-header-anchor"></a><span>答案 A  </span></h5><p>&nbsp;</p><h1><a name="quiz-n" class="md-header-anchor"></a><strong><em><span>quiz</span></em></strong><span> n</span></h1><hr /><p><span>英音 kwɪz     美音 kwɪz</span></p><p><span>词频 2 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  </span><a href='pl quizzes'><span>C</span></a></p><h2><a name="英文释义-n754" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>问答比赛；智力竞赛；小测验：</span></strong><span>  </span></li></ol><blockquote><p><span>a quiz show</span><br/><span>智力游戏节目</span></p></blockquote><h2><a name="固定搭配-n762" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n764" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n766" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="quote-v" class="md-header-anchor"></a><strong><em><span>quote</span></em></strong><span> v</span></h1><hr /><p><span>英音 kwəʊt     美音 kwoʊt</span></p><p><span>词频 2 | 口语 2 | 书面 1 | 阅读 0</span></p><p><span>用法点拨  vt &amp; vi</span></p><h2><a name="英文释义-n775" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>引用；援引：</span></strong><span>  </span></li></ol><blockquote><p><span>He quoted the Bible.</span><br/><span>他引用了《圣经》中的话。</span></p></blockquote><h2><a name="固定搭配-n783" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n785" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n787" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="quote-n" class="md-header-anchor"></a><strong><em><span>quote</span></em></strong><span> n</span></h1><hr /><p><span>英音 kwəʊt     美音 kwoʊt</span></p><p><span>词频 2 | 口语 2 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n796" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>引语；引文 (quotation)</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n801" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n803" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>quotation /kwəʊ&#39;teɪʃn/ n [C]</span></p><h2><a name="真题解析-n805" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><p>&nbsp;</p></div>
+</body>
+</html>
