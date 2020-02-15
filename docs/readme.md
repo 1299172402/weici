@@ -67,6 +67,6 @@ md 版
 * [Yy](md/weici_Y.md)
 * [Zz](md/weici_Z.md)
 
-* [单词](md/weici_仅单词7570.md)
-* [词组](md/weici_仅词组2542.md)
-* [所有词](md/weici_全10112.md)
+* [单词](weici_word_7570.md.md)
+* [词组](md/weici_phrase_2542.md)
+* [所有词](md/weici_all_10112.md)
