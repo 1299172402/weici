@@ -2,7 +2,7 @@
 
 # ***ugly*** adj
 英音 'ʌɡli     美音 'ʌɡli  
-词频 3 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -23,7 +23,7 @@
 
 # ***ultimate*** adj
 英音 'ʌltɪmət     美音 'ʌltɪmət  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [只用于名词前]
 
 英文释义
@@ -46,7 +46,7 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 
 # ***ultraviolet*** adj
 英音 ˌʌltrə'vaɪələt     美音 ˌʌltrə'vaɪələt  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -55,7 +55,7 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 
 # ***umbrella*** n
 英音 ʌm'brelə     美音 ʌm'brelə  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -73,7 +73,7 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 
 # ***unable*** adj
 英音 ʌn'eɪbl     美音 ʌn'eɪbl  
-词频 4 | 口语 1 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 1 | 书面 2 | 阅读 0 |  
 用法点拨  [不用于名词前]
 
 英文释义
@@ -88,7 +88,7 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 
 # ***unaware*** adj
 英音 ˌʌnə'weə(r)     美音 ˌʌnə'weə(r)  
-词频 0 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 0 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -97,7 +97,7 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 
 # ***unbearable*** adj
 英音 ʌn'beərəbl     美音 ʌn'berəbl  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -109,7 +109,7 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 
 # ***unbelievable*** adj
 英音 ˌʌnbɪ'liːvəbl     美音 ˌʌnbɪ'liːvəbl  
-词频 3 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -121,7 +121,7 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 
 # ***uncertain*** adj
 英音 ʌn'sɜːtn     美音 ʌn'sɜːrtn  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -160,7 +160,7 @@ uncertainty /ʌn'sɜːtnti/ n
 
 # ***uncle*** n
 英音 'ʌŋkl     美音 'ʌŋkl  
-词频 4 | 口语 2 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 1 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -172,7 +172,7 @@ uncertainty /ʌn'sɜːtnti/ n
 
 # ***unclear*** adj
 英音 ˌʌn'klɪə(r)     美音 ˌʌn'klɪr  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -181,7 +181,7 @@ uncertainty /ʌn'sɜːtnti/ n
 
 # ***uncomfortable*** adj
 英音 ʌn'kʌmftəbl, ʌn'kʌmfətəbl     美音 ʌn'kʌmftəbl, ʌn'kʌmfərtəbl  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -201,7 +201,7 @@ uncertainty /ʌn'sɜːtnti/ n
 
 # ***uncomfortably*** adv
 英音 ʌn'kʌmftəbli     美音 ʌn'kʌmftəbli  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -210,7 +210,7 @@ uncertainty /ʌn'sɜːtnti/ n
 
 # ***unconditional*** adj
 英音 ˌʌnkən'dɪʃənl     美音 ˌʌnkən'dɪʃənl  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -222,7 +222,7 @@ uncertainty /ʌn'sɜːtnti/ n
 
 # ***unconditionally*** adv
 英音 ˌʌnkən'dɪʃənəli     美音 ˌʌnkən'dɪʃənəli  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -231,7 +231,7 @@ uncertainty /ʌn'sɜːtnti/ n
 
 # ***unconscious*** adj
 英音 ʌn'kɒnʃəs     美音 ʌn'kɑːnʃəs  
-词频 2 | 口语 0 | 书面 0 | 阅读 2  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 2 |  
 
 英文释义
 ---
@@ -254,7 +254,7 @@ uncertainty /ʌn'sɜːtnti/ n
 
 # ***uncontrolled*** adj
 英音 ˌʌnkən'trəʊld     美音 ˌʌnkən'trəʊld  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -263,7 +263,7 @@ uncertainty /ʌn'sɜːtnti/ n
 
 # ***uncover*** vt
 英音 ʌn'kʌvə(r)     美音 ʌn'kʌvər  
-词频 3 | 口语 0 | 书面 0 | 阅读 2  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 2 |  
 
 英文释义
 ---
@@ -283,7 +283,7 @@ uncertainty /ʌn'sɜːtnti/ n
 
 # ***under*** prep
 英音 'ʌndə(r)     美音 'ʌndər  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -328,7 +328,7 @@ uncertainty /ʌn'sɜːtnti/ n
 
 # ***under*** adv
 英音 'ʌndə(r)     美音 'ʌndər  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -340,7 +340,7 @@ uncertainty /ʌn'sɜːtnti/ n
 
 # ***underdog*** n
 英音 'ʌndədɒɡ     美音 'ʌndərdɔːɡ  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -350,7 +350,7 @@ uncertainty /ʌn'sɜːtnti/ n
 
 # ***undergo*** vt
 英音 ˌʌndə'ɡəʊ     美音 ˌʌndər'ɡoʊ  
-词频 2 | 口语 0 | 书面 0 | 阅读 1  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 1 |  
 用法点拨  (underwent, undergone)
 
 英文释义
@@ -363,7 +363,7 @@ uncertainty /ʌn'sɜːtnti/ n
 
 # ***underground*** adj
 英音 ˌʌndə'ɡraʊnd     美音 ˌʌndə'ɡraʊnd  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -378,7 +378,7 @@ uncertainty /ʌn'sɜːtnti/ n
 
 # ***underground*** n
 英音 'ʌndəɡraʊnd     美音 'ʌndəɡraʊnd  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -393,7 +393,7 @@ uncertainty /ʌn'sɜːtnti/ n
 
 # ***underline*** vt
 英音 ˌʌndə'laɪn     美音 ˌʌndər'laɪn  
-词频 5 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 5 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -409,7 +409,7 @@ underlined /ˌʌndə'laɪnd/ adj
 
 # ***underneath*** prep
 英音 ˌʌndə'niːθ     美音 ˌʌndər'niːθ  
-词频 1 | 口语 2 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 2 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -421,7 +421,7 @@ underlined /ˌʌndə'laɪnd/ adj
 
 # ***underpants*** n
 英音 'ʌndəpænts     美音 'ʌndəpænts  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -430,7 +430,7 @@ underlined /ˌʌndə'laɪnd/ adj
 
 # ***understand*** v
 英音 ˌʌndə'stænd     美音 ˌʌndər'stænd  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 用法点拨  (understood, understood)
 
 英文释义
@@ -469,7 +469,7 @@ understandable /ˌʌndə'stændəbl/ adj
 
 # ***understanding*** n
 英音 ˌʌndə'stændɪŋ     美音 ˌʌndər'stændɪŋ  
-词频 4 | 口语 0 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -490,7 +490,7 @@ understandable /ˌʌndə'stændəbl/ adj
 
 # ***undertake*** vt
 英音 ˌʌndə'teɪk     美音 ˌʌndər'teɪk  
-词频 2 | 口语 0 | 书面 1 | 阅读 1  
+| 词频 2 | 口语 0 | 书面 1 | 阅读 1 |  
 用法点拨  (undertook, undertaken)
 
 英文释义
@@ -516,7 +516,7 @@ to agree or promise to do sth：
 
 # ***underwater*** adj
 英音 ˌʌndə'wɔːtə(r)     美音 ˌʌndər'wɔːtər  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -525,7 +525,7 @@ to agree or promise to do sth：
 
 # ***underwater*** adv
 英音 ˌʌndə'wɔːtə(r)     美音 ˌʌndər'wɔːtər  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -534,7 +534,7 @@ to agree or promise to do sth：
 
 # ***underway*** adj
 英音 ˌʌndə'weɪ     美音 ˌʌndər'weɪ  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -543,7 +543,7 @@ to agree or promise to do sth：
 
 # ***underwear*** n
 英音 'ʌndəweə(r)     美音 'ʌndərwer  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨   [U]
 
 英文释义
@@ -553,7 +553,7 @@ to agree or promise to do sth：
 
 # ***undo*** vt
 英音 ʌn'duː     美音 ʌn'duː  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  (undid, undone)
 
 英文释义
@@ -575,7 +575,7 @@ to agree or promise to do sth：
 
 # ***undoubtedly*** adv
 英音 ʌn'daʊtɪdli     美音 ʌn'daʊtɪdli  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -587,7 +587,7 @@ to agree or promise to do sth：
 
 # ***unearth*** vt
 英音 ʌn'ɜːθ     美音 ʌn'ɜːrθ  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -596,7 +596,7 @@ to agree or promise to do sth：
 
 # ***uneasy*** adj
 英音 ʌn'iːzi     美音 ʌn'iːzi  
-词频 2 | 口语 0 | 书面 0 | 阅读 2  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 2 |  
 
 英文释义
 ---
@@ -613,7 +613,7 @@ to agree or promise to do sth：
 
 # ***unemployed*** adj
 英音 ˌʌnɪm'plɔɪd     美音 ˌʌnɪm'plɔɪd  
-词频 2 | 口语 2 | 书面 1 | 阅读 2  
+| 词频 2 | 口语 2 | 书面 1 | 阅读 2 |  
 
 英文释义
 ---
@@ -625,7 +625,7 @@ to agree or promise to do sth：
 
 # ***unemployment*** n
 英音 ˌʌnɪm'plɔɪmənt     美音 ˌʌnɪm'plɔɪmənt  
-词频 3 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 3 | 口语 2 | 书面 2 | 阅读 0 |  
 用法点拨  [U]
 
 英文释义
@@ -642,7 +642,7 @@ to agree or promise to do sth：
 
 # ***unexpected*** adj
 英音 ˌʌnɪk'spektɪd     美音 ˌʌnɪk'spektɪd  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -673,7 +673,7 @@ D.unbelievable
 
 # ***unexplained*** adj
 英音 ˌʌnɪk'spleɪnd     美音 ˌʌnɪk'spleɪnd  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -682,7 +682,7 @@ D.unbelievable
 
 # ***unfair*** adj
 英音 ˌʌn'feə(r)     美音 ˌʌn'fer  
-词频 2 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -706,7 +706,7 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 # ***unfamiliar*** adj
 英音 ˌʌnfə'mɪliə(r)     美音 ˌʌnfə'mɪliər  
-词频 0 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 0 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -715,7 +715,7 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 # ***unfit*** adj
 英音 ʌn'fɪt     美音 ʌn'fɪt  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -736,7 +736,7 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 # ***unfold*** vt
 英音 ʌn'fəʊld     美音 ʌn'foʊld  
-词频 0 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 0 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -745,7 +745,7 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 # ***unforgettable*** adj
 英音 ˌʌnfə'ɡetəbl     美音 ˌʌnfər'ɡetəbl  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -757,7 +757,7 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 # ***unfortunate*** adj
 英音 ʌn'fɔːtʃənət     美音 ʌn'fɔːrtʃənət  
-词频 2 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -769,7 +769,7 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 # ***unfortunately*** adv
 英音 ʌn'fɔːtʃənətli     美音 ʌn'fɔːrtʃənətli  
-词频 4 | 口语 3 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 3 | 书面 1 | 阅读 0 |  
 用法点拨  [句子副词]
 
 英文释义
@@ -782,7 +782,7 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 # ***unhappy*** adj
 英音 ʌn'hæpi     美音 ʌn'hæpi  
-词频 4 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -795,7 +795,7 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 # ***unhealthy*** adj
 英音 ʌn'helθi     美音 ʌn'helθi  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -804,7 +804,7 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 # ***uniform*** n
 英音 'juːnɪfɔːm     美音 'juːnɪfɔːrm  
-词频 4 | 口语 1 | 书面 0 | 阅读 2  
+| 词频 4 | 口语 1 | 书面 0 | 阅读 2 |  
 用法点拨  [C] & [U]
 
 英文释义
@@ -822,7 +822,7 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 # ***unify*** v
 英音 'juːnɪfaɪ     美音 'juːnɪfaɪ  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -831,7 +831,7 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 # ***union*** n
 英音 'juːniən     美音 'juːniən  
-词频 4 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 4 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -856,7 +856,7 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 # ***unique*** adj
 英音 ju'niːk     美音 ju'niːk  
-词频 4 | 口语 1 | 书面 2 | 阅读 3  
+| 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
 
 英文释义
 ---
@@ -872,7 +872,7 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 # ***unit*** n
 英音 'juːnɪt     美音 'juːnɪt  
-词频 3 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 3 | 口语 2 | 书面 2 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -899,7 +899,7 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 # ***unite*** v
 英音 ju'naɪt     美音 ju'naɪt  
-词频 5 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 5 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -919,7 +919,7 @@ unity /'juːnəti/ n
 
 # ***united*** adj
 英音 ju'naɪtɪd     美音 ju'naɪtɪd  
-词频 5 | 口语 0 | 书面 1 | 阅读 0  
+| 词频 5 | 口语 0 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -934,7 +934,7 @@ unity /'juːnəti/ n
 
 # ***universal*** adj
 英音 ˌjuːnɪ'vɜːsl     美音 ˌjuːnɪ'vɜːrsl  
-词频 3 | 口语 0 | 书面 1 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -955,7 +955,7 @@ unity /'juːnəti/ n
 
 # ***universe*** n
 英音 'juːnɪvɜːs     美音 'juːnɪvɜːrs  
-词频 2 | 口语 0 | 书面 1 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 1 | 阅读 0 |  
 用法点拨  [C] [常与定冠词连用]
 
 英文释义
@@ -968,7 +968,7 @@ unity /'juːnəti/ n
 
 # ***university*** n
 英音 ˌjuːnɪ'vɜːsəti     美音 ˌjuːnɪ'vɜːrsəti  
-词频 5 | 口语 2 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 2 | 书面 3 | 阅读 0 |  
 用法点拨  [C] & [U]
 
 英文释义
@@ -986,7 +986,7 @@ unity /'juːnəti/ n
 
 # ***unknown*** adj
 英音 ˌʌn'nəʊn     美音 ˌʌn'noʊn  
-词频 4 | 口语 2 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -998,7 +998,7 @@ unity /'juːnəti/ n
 
 # ***unless*** conj
 英音 ən'les     美音 ən'les  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -1036,7 +1036,7 @@ D. if
 
 # ***unlike*** prep
 英音 ˌʌn'laɪk     美音 ˌʌn'laɪk  
-词频 4 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1051,7 +1051,7 @@ D. if
 
 # ***unlike*** adj
 英音 ˌʌn'laɪk     美音 ˌʌn'laɪk  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [不用于名词前]
 
 英文释义
@@ -1064,7 +1064,7 @@ D. if
 
 # ***unlikely*** adj
 英音 ʌn'laɪkli     美音 ʌn'laɪkli  
-词频 2 | 口语 1 | 书面 2 | 阅读 0  
+| 词频 2 | 口语 1 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -1086,7 +1086,7 @@ D. if
 
 # ***unload*** v
 英音 ˌʌn'ləʊd     美音 ˌʌn'loʊd  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1095,7 +1095,7 @@ D. if
 
 # ***unnecessary*** adj
 英音 ʌn'nesəsəri     美音 ʌn'nesəseri  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1110,7 +1110,7 @@ D. if
 
 # ***unpaid*** adj
 英音 ˌʌn'peɪd     美音 ˌʌn'peɪd  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1119,7 +1119,7 @@ D. if
 
 # ***unpleasant*** adj
 英音 ʌn'pleznt     美音 ʌn'pleznt  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1134,7 +1134,7 @@ D. if
 
 # ***unpredictable*** adj
 英音 ˌʌnprɪ'dɪktəbl     美音 ˌʌnprɪ'dɪktəbl  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1143,7 +1143,7 @@ D. if
 
 # ***unrecognisable*** adj
 英音 ʌnrekəɡ'naɪzəbl     美音 ʌnrekəɡ'naɪzəbl  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1152,7 +1152,7 @@ D. if
 
 # ***unrest*** n
 英音 ʌn'rest     美音 ʌn'rest  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [U]
 
 英文释义
@@ -1169,7 +1169,7 @@ D. if
 
 # ***unspoken*** adj
 英音 ˌʌn'spəʊkən     美音 ˌʌn'spoʊkən  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1178,7 +1178,7 @@ D. if
 
 # ***until*** conj
 英音 ən'tɪl     美音 ən'tɪl  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -1238,7 +1238,7 @@ D.when
 
 # ***until*** prep
 英音 ən'tɪl     美音 ən'tɪl  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -1298,7 +1298,7 @@ D.when
 
 # ***unusual*** adj
 英音 ʌn'juːʒuəl     美音 ʌn'juːʒuəl  
-词频 4 | 口语 2 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -1318,7 +1318,7 @@ unusually /ʌn'juːʒuəli; ʌn'juːʒəli/ adv
 
 # ***unwilling*** adj
 英音 ʌn'wɪlɪŋ     美音 ʌn'wɪlɪŋ  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1334,7 +1334,7 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 
 # ***unzip*** v
 英音 ˌʌn'zɪp     美音 ˌʌn'zɪp  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1343,7 +1343,7 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 
 # ***up*** adv
 英音 ʌp     美音 ʌp  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -1461,7 +1461,7 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 
 # ***up*** n
 英音 ʌp     美音 ʌp  
-词频 5 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 5 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [用于以下惯用语]
 
 固定搭配
@@ -1475,7 +1475,7 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 
 # ***up*** prep
 英音 ʌp     美音 ʌp  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -1492,7 +1492,7 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 
 # ***up*** adj
 英音 ʌp     美音 ʌp  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -1512,7 +1512,7 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 
 # ***up-to-date*** adj
 英音 'ʌptə'deɪt     美音 'ʌptə'deɪt  
-词频 2 | 口语 0 | 书面 0 | 阅读 2  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 2 |  
 
 英文释义
 ---
@@ -1529,7 +1529,7 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 
 # ***upbringing*** n
 英音 'ʌpbrɪŋɪŋ     美音 'ʌpbrɪŋɪŋ  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1538,7 +1538,7 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 
 # ***update*** vt
 英音 ˌʌp'deɪt     美音 ˌʌp'deɪt  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1553,7 +1553,7 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 
 # ***update*** n
 英音 'ʌpdeɪt     美音 'ʌpdeɪt  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -1563,7 +1563,7 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 
 # ***upgrade*** vt
 英音 ˌʌp'ɡreɪd     美音 ˌʌp'ɡreɪd  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1580,7 +1580,7 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 
 # ***upon*** prep
 英音 ə'pɒn     美音 ə'pɑːn, ə'pɔːn  
-词频 4 | 口语 2 | 书面 3 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 3 | 阅读 0 |  
 用法点拨  [常与on通用]
 
 英文释义
@@ -1603,7 +1603,7 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 
 # ***upper*** adj
 英音 'ʌpə(r)     美音 'ʌpər  
-词频 4 | 口语 0 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -1618,7 +1618,7 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 
 # ***upset*** vt
 英音 ʌp'set     美音 ʌp'set  
-词频 4 | 口语 2 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 0 | 阅读 0 |  
 用法点拨  (upset, upset)
 
 英文释义
@@ -1651,7 +1651,7 @@ upsetting /ʌp'setɪŋ/ adj
 
 # ***upset*** adj
 英音 ˌʌp'set     美音 ˌʌp'set  
-词频 4 | 口语 2 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1690,7 +1690,7 @@ worried and unhappy：
 
 # ***upstairs*** adv
 英音 ˌʌp'steəz     美音 ˌʌp'sterz  
-词频 3 | 口语 2 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 2 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1702,7 +1702,7 @@ worried and unhappy：
 
 # ***upstairs*** adj
 英音 ˌʌp'steəz     美音 ˌʌp'sterz  
-词频 3 | 口语 2 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 2 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1714,7 +1714,7 @@ worried and unhappy：
 
 # ***upward*** adj & adv
 英音 'ʌpwəd     美音 'ʌpwərd  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1723,7 +1723,7 @@ worried and unhappy：
 
 # ***upwards*** adj & adv
 英音 'ʌpwədz     美音 'ʌpwərdz  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1735,7 +1735,7 @@ worried and unhappy：
 
 # ***upwards*** adv
 英音 'ʌpwədz     美音 'ʌpwərdz  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1744,7 +1744,7 @@ worried and unhappy：
 
 # ***urban*** adj
 英音 'ɜːbən     美音 'ɜːrbən  
-词频 3 | 口语 0 | 书面 2 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 2 | 阅读 0 |  
 用法点拨  [只用于名词前]
 
 英文释义
@@ -1760,7 +1760,7 @@ worried and unhappy：
 
 # ***urge*** vt
 英音 ɜːdʒ     美音 ɜːrdʒ  
-词频 3 | 口语 0 | 书面 1 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -1788,7 +1788,7 @@ to recommend sth strongly：
 
 # ***urge*** n
 英音 ɜːdʒ     美音 ɜːrdʒ  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -1802,7 +1802,7 @@ to recommend sth strongly：
 
 # ***urgent*** adj
 英音 'ɜːdʒənt     美音 'ɜːrdʒənt  
-词频 2 | 口语 1 | 书面 0 | 阅读 2  
+| 词频 2 | 口语 1 | 书面 0 | 阅读 2 |  
 
 英文释义
 ---
@@ -1818,7 +1818,7 @@ to recommend sth strongly：
 
 # ***us*** pron
 英音 əs, ʌs     美音 ʌs, əs  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 用法点拨  [we的宾格，主要用作宾语，在口语中也可用作表语] 
 
 英文释义
@@ -1835,7 +1835,7 @@ Our neighbors gave_________ (we) a baby bird yesterday that hurt itself when it 
 
 # ***usage*** n
 英音 'juːsɪdʒ     美音 'juːsɪdʒ  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C] & [U]
 
 英文释义
@@ -1845,7 +1845,7 @@ Our neighbors gave_________ (we) a baby bird yesterday that hurt itself when it 
 
 # ***use*** vt
 英音 juːz     美音 juːz  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -1895,7 +1895,7 @@ Our neighbors gave_________ (we) a baby bird yesterday that hurt itself when it 
 
 # ***use*** n
 英音 juːs     美音 juːs  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -1985,7 +1985,7 @@ It is no use ________(complain) without taking action.
 
 # ***used*** adj
 英音 juːst     美音 juːst  
-词频 5 | 口语 3 | 书面 2 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -2007,7 +2007,7 @@ It is no use ________(complain) without taking action.
 
 # ***useful*** adj
 英音 'juːsfl     美音 'juːsfl  
-词频 4 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 4 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -2027,7 +2027,7 @@ usefully /'juːsfəli/ adv
 
 # ***useless*** adj
 英音 'juːsləs     美音 'juːsləs  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -2042,7 +2042,7 @@ usefully /'juːsfəli/ adv
 
 # ***user*** n
 英音 'juːzə(r)     美音 'juːzər  
-词频 4 | 口语 1 | 书面 3 | 阅读 0  
+| 词频 4 | 口语 1 | 书面 3 | 阅读 0 |  
 用法点拨  [C] 
 
 英文释义
@@ -2052,7 +2052,7 @@ usefully /'juːsfəli/ adv
 
 # ***user-friendly*** adj
 英音 'juːzə 'frendli     美音 'juːzər 'frendli  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -2061,7 +2061,7 @@ usefully /'juːsfəli/ adv
 
 # ***usual*** adj
 英音 'juːʒuəl, 'juːʒəl     美音 'juːʒuəl, 'juːʒəl  
-词频 4 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -2084,7 +2084,7 @@ usefully /'juːsfəli/ adv
 
 # ***usually*** adv
 英音 'juːʒuəli, 'juːʒəli     美音 'juːʒuəli, 'juːʒəli  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -2103,7 +2103,7 @@ I u________ go to bed at 10:00 p.m., but I stayed up till 11:00 last night.
 
 # ***utter*** vt
 英音 'ʌtə(r)     美音 utter  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [正式用语]
 
 英文释义
@@ -2113,7 +2113,7 @@ I u________ go to bed at 10:00 p.m., but I stayed up till 11:00 last night.
 
 # ***utterly*** adv
 英音 'ʌtəli:     美音 'ʌtəli:  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---

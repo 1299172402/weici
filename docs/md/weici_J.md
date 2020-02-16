@@ -2,7 +2,7 @@
 
 # ***jacket*** n
 英音 'dʒækɪt     美音 'dʒækɪt  
-词频 4 | 口语 2 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 1 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -12,7 +12,7 @@
 
 # ***jam*** n
 英音 dʒæm     美音 dʒæm  
-词频 3 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -25,7 +25,7 @@
 
 # ***jar*** n
 英音 dʒɑː(r)     美音 dʒɑːr  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -35,7 +35,7 @@
 
 # ***jaw*** n
 英音 dʒɔ     美音 dʒɔː  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -45,7 +45,7 @@
 
 # ***jazz*** n
 英音 dʒæz     美音 dʒæz  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [U]
 
 英文释义
@@ -55,7 +55,7 @@
 
 # ***jealous*** adj
 英音 'dʒeləs     美音 'dʒeləs  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -68,7 +68,7 @@
 
 # ***jeans*** n
 英音 dʒiːnz     美音 dʒiːnz  
-词频 2 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 1 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -78,7 +78,7 @@
 
 # ***jeep*** n
 英音 dʒiːp     美音 dʒiːp  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -88,7 +88,7 @@
 
 # ***jelly*** n
 英音 'dʒeli     美音 'dʒeli  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C] & [U]
 
 英文释义
@@ -98,7 +98,7 @@
 
 # ***jerk*** n
 英音 dʒɜːk     美音 dʒɜːrk  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -107,7 +107,7 @@
 
 # ***jet*** n
 英音 dʒet     美音 dʒet  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -120,7 +120,7 @@
 
 # ***jewel*** n
 英音 'dʒuːəl     美音 'dʒuːəl  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -133,7 +133,7 @@
 
 # ***jewellery*** n
 英音 'dʒuːəlrɪ     美音 'dʒuːəlrɪ  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [U]
 
 英文释义
@@ -146,7 +146,7 @@
 
 # ***jewelry*** n
 英音 'dʒuːəlri     美音 'dʒuːəlri  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [U]
 
 英文释义
@@ -156,7 +156,7 @@
 
 # ***job*** n
 英音 dʒɒb     美音 dʒɑːb  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -188,7 +188,7 @@ jobless  /'dʒɒbləs/ adj
 
 # ***jog*** vi
 英音 dʒɒɡ     美音 dʒɑːɡ  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -204,7 +204,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 # ***jog*** n
 英音 dʒɒɡ     美音 dʒɑːɡ  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -213,7 +213,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 # ***jogging*** n
 英音 'dʒɒɡɪŋ     美音 'dʒɑːɡɪŋ  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -222,7 +222,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 # ***join*** v
 英音 dʒɔɪn     美音 dʒɔɪn  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -272,7 +272,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 # ***joint*** n
 英音 dʒɔɪnt     美音 dʒɔɪnt  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -286,7 +286,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 # ***joint*** adj
 英音 dʒɔɪnt     美音 dʒɔɪnt  
-词频 1 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 1 | 口语 2 | 书面 2 | 阅读 0 |  
 用法点拨  [只用于名词前]
 
 英文释义
@@ -300,7 +300,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 # ***join…to…*** 
 
-词频 0 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 0 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -312,7 +312,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 # ***joke*** n
 英音 dʒəʊk     美音 dʒoʊk  
-词频 4 | 口语 2 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 1 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -330,7 +330,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 # ***joke*** vi
 英音 dʒəʊk     美音 dʒoʊk  
-词频 4 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -363,7 +363,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 # ***journal*** n
 英音 'dʒɜːnl     美音 'dʒɜːnl  
-词频 3 | 口语 0 | 书面 0 | 阅读 2  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 2 |  
 用法点拨  [C]
 
 英文释义
@@ -381,7 +381,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 # ***journalism*** n
 英音 'dʒɜːnəlɪzəm     美音 'dʒɜːrnəlɪzəm  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -390,7 +390,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 # ***journalist*** n
 英音 'dʒɜːnəlɪst     美音 'dʒɜːnəlɪst  
-词频 3 | 口语 0 | 书面 1 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 1 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -400,7 +400,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 # ***journey*** n
 英音 'dʒɜːni     美音 'dʒɜːrni  
-词频 5 | 口语 1 | 书面 2 | 阅读 0  
+| 词频 5 | 口语 1 | 书面 2 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -427,7 +427,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 # ***joust*** vi
 英音 dʒaʊst     美音 dʒaʊst  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -436,7 +436,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 # ***joy*** n
 英音 dʒɔɪ     美音 dʒɔɪ  
-词频 4 | 口语 0 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -461,7 +461,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 # ***judge*** n
 英音 dʒʌdʒ     美音 dʒʌdʒ  
-词频 4 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -477,7 +477,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 # ***judge*** v
 英音 dʒʌdʒ     美音 dʒʌdʒ  
-词频 4 | 口语 1 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 1 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -521,7 +521,7 @@ to be critical about sb, to decide whether sb is good or bad：
 
 # ***judgement*** n
 英音 'dʒʌdʒmənt     美音 'dʒʌdʒmənt  
-词频 3 | 口语 0 | 书面 2 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -547,7 +547,7 @@ an opinion that you form after thinking carefully：
 
 # ***judgment*** n
 英音 'dʒʌdʒmənt     美音 'dʒʌdʒmənt  
-词频 3 | 口语 0 | 书面 2 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -573,7 +573,7 @@ an opinion that you form after thinking carefully：
 
 # ***juice*** n
 英音 dʒuːs     美音 dʒuːs  
-词频 3 | 口语 2 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 2 | 书面 0 | 阅读 0 |  
 用法点拨  [C] & [U]
 
 英文释义
@@ -583,7 +583,7 @@ an opinion that you form after thinking carefully：
 
 # ***jump*** v
 英音 dʒʌmp     美音 dʒʌmp  
-词频 4 | 口语 2 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -616,7 +616,7 @@ an opinion that you form after thinking carefully：
 
 # ***jump*** n
 英音 dʒʌmp     美音 dʒʌmp  
-词频 4 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 1 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -634,7 +634,7 @@ an opinion that you form after thinking carefully：
 
 # ***jump*** vt
 英音 dʒʌmp     美音 dʒʌmp  
-词频 4 | 口语 2 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -646,7 +646,7 @@ an opinion that you form after thinking carefully：
 
 # ***junction*** n
 英音 'dʒʌŋkʃn     美音 'dʒʌŋkʃn  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -659,7 +659,7 @@ an opinion that you form after thinking carefully：
 
 # ***jungle*** n
 英音 'dʒʌŋɡl     美音 'dʒʌŋɡl  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [U] & [C]
 
 英文释义
@@ -669,7 +669,7 @@ an opinion that you form after thinking carefully：
 
 # ***junior*** adj
 英音 'dʒuːniə(r)     美音 'dʒuːniər  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -686,7 +686,7 @@ an opinion that you form after thinking carefully：
 
 # ***junior*** n
 英音 'dʒuːniə(r)     美音 'dʒuːniər  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -696,7 +696,7 @@ an opinion that you form after thinking carefully：
 
 # ***just*** adv
 英音 dʒʌst     美音 dʒʌst  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -778,7 +778,7 @@ D.just
 
 # ***just*** adj
 英音 dʒʌst     美音 dʒʌst  
-词频 5 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 5 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -790,7 +790,7 @@ D.just
 
 # ***justice*** n
 英音 'dʒʌstɪs     美音 'dʒʌstɪs  
-词频 2 | 口语 0 | 书面 2 | 阅读 1  
+| 词频 2 | 口语 0 | 书面 2 | 阅读 1 |  
 用法点拨  [U]
 
 英文释义
@@ -811,7 +811,7 @@ D.just
 
 # ***justifiably*** adv
 英音 dʒʌstɪ'faɪəbli     美音 dʒʌstɪ'faɪəbli  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -820,7 +820,7 @@ D.just
 
 # ***justify*** vt
 英音 'dʒʌstɪfaɪ     美音 'dʒʌstɪfaɪ  
-词频 1 | 口语 1 | 书面 1 | 阅读 0  
+| 词频 1 | 口语 1 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---

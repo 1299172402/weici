@@ -131,7 +131,7 @@ def chuli(t):
     print(file=f)
     
     #word_level
-    print('词频 ' + str(a['lv_frequency'])+' | 口语 ' + str(a['lv_speak']) + ' | 书面 ' + str(a['lv_write']) + ' | 阅读 ' + str(a['lv_read'])  ,end='  ', file = f)
+    print('| 词频 ' + str(a['lv_frequency'])+' | 口语 ' + str(a['lv_speak']) + ' | 书面 ' + str(a['lv_write']) + ' | 阅读 ' + str(a['lv_read']) + ' |'  ,end='  ', file = f)
     print(file=f)
     
     #word_use_method

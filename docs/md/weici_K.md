@@ -2,7 +2,7 @@
 
 # ***kangaroo*** n
 英音 ˌkæŋɡə'ruː     美音 ˌkæŋɡə'ruː  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -12,7 +12,7 @@
 
 # ***karaoke*** n
 英音 ˌkæri'əʊki     美音 ˌkæri'oʊki  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [U]
 
 英文释义
@@ -22,7 +22,7 @@
 
 # ***kebab*** n
 英音 kɪ'bæb     美音 kɪ'bæb  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -31,7 +31,7 @@
 
 # ***keen*** adj
 英音 kiːn     美音 kiːn  
-词频 2 | 口语 1 | 书面 1 | 阅读 0  
+| 词频 2 | 口语 1 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -68,7 +68,7 @@ very interested in sth：
 
 # ***keep*** v  重难点词汇
 英音 kiːp     美音 kiːp  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 用法点拨  (kept, kept)
 
 英文释义
@@ -248,7 +248,7 @@ Would you slow down a bit, please? I can't keep up ________ you.
 
 # ***kettle*** n
 英音 'ketl     美音 'ketl  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -258,7 +258,7 @@ Would you slow down a bit, please? I can't keep up ________ you.
 
 # ***key*** adj
 英音 kiː     美音 kiː  
-词频 4 | 口语 1 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 1 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -271,7 +271,7 @@ Would you slow down a bit, please? I can't keep up ________ you.
 
 # ***key*** n
 英音 kiː     美音 kiː  
-词频 4 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -323,7 +323,7 @@ The key to ________ (overcome) this problem is to believe in yourself.
 
 # ***keyboard*** n
 英音 'kiːbɔːd     美音 'kiːbɔːrd  
-词频 3 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 1 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -333,7 +333,7 @@ The key to ________ (overcome) this problem is to believe in yourself.
 
 # ***keyword*** n
 英音 'kiːwɜːd     美音 'kiːwɜːrd  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -342,7 +342,7 @@ The key to ________ (overcome) this problem is to believe in yourself.
 
 # ***kick*** n
 英音 kɪk     美音 kɪk  
-词频 4 | 口语 1 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 1 | 书面 1 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -366,7 +366,7 @@ a feeling of great pleasure, excitement, etc.：
 
 # ***kick*** v
 英音 kɪk     美音 kɪk  
-词频 4 | 口语 2 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -393,7 +393,7 @@ a feeling of great pleasure, excitement, etc.：
 
 # ***kid*** n
 英音 kɪd     美音 kɪd  
-词频 5 | 口语 3 | 书面 2 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 2 | 阅读 0 |  
 用法点拨  [C] 
 
 英文释义
@@ -403,7 +403,7 @@ a feeling of great pleasure, excitement, etc.：
 
 # ***kidney*** n
 英音 'kɪdni     美音 'kɪdni  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -412,7 +412,7 @@ a feeling of great pleasure, excitement, etc.：
 
 # ***kill*** v
 英音 kɪl     美音 kɪl  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -440,7 +440,7 @@ killing /'kɪlɪŋ/ n [C]
 
 # ***kilo*** n
 英音 'kiːləʊ     美音 'kiːloʊ  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -450,7 +450,7 @@ killing /'kɪlɪŋ/ n [C]
 
 # ***kilogram*** n
 英音 'kɪləɡræm     美音 'kɪləɡræm  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -460,7 +460,7 @@ killing /'kɪlɪŋ/ n [C]
 
 # ***kilogramme*** n
 英音 'kɪləɡræm     美音 'kɪləɡræm  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -470,7 +470,7 @@ killing /'kɪlɪŋ/ n [C]
 
 # ***kilometer*** n
 英音 'kɪləmiːtə(r)     美音 kɪ'lɑːmɪtər  
-词频 4 | 口语 1 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 1 | 书面 1 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -480,7 +480,7 @@ killing /'kɪlɪŋ/ n [C]
 
 # ***kilometre*** n
 英音 'kɪləmiːtə(r)     美音 kɪ'lɑːmɪtər  
-词频 4 | 口语 1 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 1 | 书面 1 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -490,7 +490,7 @@ killing /'kɪlɪŋ/ n [C]
 
 # ***kind*** n
 英音 kaɪnd     美音 kaɪnd  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -523,7 +523,7 @@ slightly; in some ways：
 
 # ***kind*** adj
 英音 kaɪnd     美音 kaɪnd  
-词频 4 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 4 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -549,7 +549,7 @@ slightly; in some ways：
 
 # ***kindergarten*** n
 英音 'kɪndəɡɑːtn     美音 'kɪndərɡɑːrtn  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C] & [U]
 
 英文释义
@@ -566,7 +566,7 @@ Callie will start  ________ ( 幼儿园) in September.
 
 # ***kindly*** adv
 英音 'kaɪndli     美音 'kaɪndli  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -575,7 +575,7 @@ Callie will start  ________ ( 幼儿园) in September.
 
 # ***kindly*** adj
 英音 'kaɪndli     美音 'kaɪndli  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -584,7 +584,7 @@ Callie will start  ________ ( 幼儿园) in September.
 
 # ***kindness*** n
 英音 'kaɪndnəs     美音 'kaɪndnəs  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -608,7 +608,7 @@ Callie will start  ________ ( 幼儿园) in September.
 
 # ***king*** n
 英音 kɪŋ     美音 kɪŋ  
-词频 4 | 口语 0 | 书面 3 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 3 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -618,7 +618,7 @@ Callie will start  ________ ( 幼儿园) in September.
 
 # ***kiss*** v
 英音 kɪs     美音 kɪs  
-词频 3 | 口语 1 | 书面 1 | 阅读 0  
+| 词频 3 | 口语 1 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -643,7 +643,7 @@ Callie will start  ________ ( 幼儿园) in September.
 
 # ***kiss*** n
 英音 kɪs     美音 kɪs  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -657,7 +657,7 @@ Callie will start  ________ ( 幼儿园) in September.
 
 # ***kit*** n
 英音 kɪt     美音 kɪt  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -669,7 +669,7 @@ Callie will start  ________ ( 幼儿园) in September.
 
 # ***kitchen*** n
 英音 'kɪtʃɪn     美音 'kɪtʃɪn  
-词频 4 | 口语 3 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 3 | 书面 2 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -686,7 +686,7 @@ Mum is cooking in the k________ while Dad is watching TV.
 
 # ***kite*** n
 英音 kaɪt     美音 kaɪt  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -699,7 +699,7 @@ Mum is cooking in the k________ while Dad is watching TV.
 
 # ***kitten*** n
 英音 'kɪtn     美音 'kɪtn  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -709,7 +709,7 @@ Mum is cooking in the k________ while Dad is watching TV.
 
 # ***knee*** n
 英音 niː     美音 niː  
-词频 3 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 3 | 口语 2 | 书面 2 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -726,7 +726,7 @@ Mum is cooking in the k________ while Dad is watching TV.
 
 # ***knife*** n
 英音 naɪf     美音 naɪf  
-词频 2 | 口语 1 | 书面 1 | 阅读 0  
+| 词频 2 | 口语 1 | 书面 1 | 阅读 0 |  
 用法点拨  [C] 
 
 英文释义
@@ -736,7 +736,7 @@ Mum is cooking in the k________ while Dad is watching TV.
 
 # ***knight*** n
 英音 naɪt     美音 naɪt  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -746,7 +746,7 @@ Mum is cooking in the k________ while Dad is watching TV.
 
 # ***knighthood*** n
 英音 'naɪthʊd     美音 'naɪthʊd  
-词频 0 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 0 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -755,7 +755,7 @@ Mum is cooking in the k________ while Dad is watching TV.
 
 # ***knock*** v
 英音 nɒk     美音 nɑːk  
-词频 4 | 口语 3 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 3 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -818,7 +818,7 @@ Mum is cooking in the k________ while Dad is watching TV.
 
 # ***knock*** n
 英音 nɒk     美音 nɑːk  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -832,7 +832,7 @@ Mum is cooking in the k________ while Dad is watching TV.
 
 # ***knot*** n
 英音 nɒt     美音 nɑːt  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -844,7 +844,7 @@ Mum is cooking in the k________ while Dad is watching TV.
 
 # ***know*** v
 英音 nəʊ     美音 noʊ  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 用法点拨  (knew, known) vi & vt
 
 英文释义
@@ -927,7 +927,7 @@ Mum is cooking in the k________ while Dad is watching TV.
 
 # ***knowledge*** n
 英音 'nɒlɪdʒ     美音 'nɑːlɪdʒ  
-词频 5 | 口语 2 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 2 | 书面 3 | 阅读 0 |  
 用法点拨  [U]
 
 英文释义
@@ -968,7 +968,7 @@ If we go on a trip abroad, we can broaden our view and gain knowledges we cannot
 
 # ***knuckle*** n
 英音 'nʌkl     美音 'nʌkl  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---

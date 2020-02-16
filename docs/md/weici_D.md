@@ -2,7 +2,7 @@
 
 # ***dad*** n
 英音 dæd     美音 dæd  
-词频 5 | 口语 3 | 书面 1 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -11,7 +11,7 @@
 
 # ***daffodil*** n
 英音 'dæfədɪl     美音 'dæfədɪl  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -20,7 +20,7 @@
 
 # ***daily*** n
 英音 'deɪli     美音 'deɪli  
-词频 5 | 口语 1 | 书面 2 | 阅读 0  
+| 词频 5 | 口语 1 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -35,7 +35,7 @@
 
 # ***daily*** adj
 英音 'deɪli     美音 'deɪli  
-词频 5 | 口语 1 | 书面 2 | 阅读 0  
+| 词频 5 | 口语 1 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -53,7 +53,7 @@
 
 # ***daily*** adv
 英音 'deɪli     美音 'deɪli  
-词频 5 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 5 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -65,7 +65,7 @@
 
 # ***dairy*** n
 英音 'deəri     美音 'deri  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -74,7 +74,7 @@
 
 # ***dam*** n
 英音 dæm     美音 dæm  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -89,7 +89,7 @@
 
 # ***damage*** vt  重难点词汇
 英音 'dæmɪdʒ     美音 'dæmɪdʒ  
-词频 5 | 口语 1 | 书面 1 | 阅读 0  
+| 词频 5 | 口语 1 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -108,7 +108,7 @@
 
 # ***damage*** n  重难点词汇
 英音 'dæmɪdʒ     美音 'dæmɪdʒ  
-词频 5 | 口语 1 | 书面 2 | 阅读 0  
+| 词频 5 | 口语 1 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -147,7 +147,7 @@ The accident caused some ________ (损坏) to my car, but it’s nothing serious
 
 # ***damn*** int
 英音 dæm     美音 dæm  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -159,7 +159,7 @@ The accident caused some ________ (损坏) to my car, but it’s nothing serious
 
 # ***damp*** n
 英音 dæmp     美音 dæmp  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -171,7 +171,7 @@ The accident caused some ________ (损坏) to my car, but it’s nothing serious
 
 # ***damp*** adj
 英音 dæmp     美音 dæmp  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -183,7 +183,7 @@ The accident caused some ________ (损坏) to my car, but it’s nothing serious
 
 # ***dance*** v
 英音 dɑːns     美音 dæns  
-词频 4 | 口语 2 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -202,7 +202,7 @@ The accident caused some ________ (损坏) to my car, but it’s nothing serious
 
 # ***dance*** n
 英音 dɑːns     美音 dæns  
-词频 4 | 口语 2 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -238,7 +238,7 @@ dancing /'dɑːnsɪŋ/ n [U]
 
 # ***danger*** n
 英音 'deɪndʒə(r)     美音 'deɪndʒər  
-词频 4 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -278,7 +278,7 @@ dancing /'dɑːnsɪŋ/ n [U]
 
 # ***dangerous*** adj
 英音 'deɪndʒərəs     美音 'deɪndʒərəs  
-词频 5 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 5 | 口语 2 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -298,7 +298,7 @@ dangerously /'deɪndʒərəsli/ adv
 
 # ***dare*** modal v
 英音 deə(r)     美音 der  
-词频 3 | 口语 1 | 书面 1 | 阅读 0  
+| 词频 3 | 口语 1 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -317,7 +317,7 @@ dangerously /'deɪndʒərəsli/ adv
 
 # ***dare*** v
 英音 deə(r)     美音 der  
-词频 3 | 口语 1 | 书面 1 | 阅读 0  
+| 词频 3 | 口语 1 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -341,7 +341,7 @@ dangerously /'deɪndʒərəsli/ adv
 
 # ***dare*** aux v
 英音 deə(r)     美音 der  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -350,7 +350,7 @@ dangerously /'deɪndʒərəsli/ adv
 
 # ***dare*** n
 英音 deə(r)     美音 der  
-词频 3 | 口语 1 | 书面 1 | 阅读 0  
+| 词频 3 | 口语 1 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -359,7 +359,7 @@ dangerously /'deɪndʒərəsli/ adv
 
 # ***dark*** adj
 英音 dɑːk     美音 dɑːrk  
-词频 4 | 口语 2 | 书面 3 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -398,7 +398,7 @@ darken /'dɑːkən/ v
 
 # ***dark*** n
 英音 dɑːk     美音 dɑːrk  
-词频 4 | 口语 2 | 书面 3 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -423,7 +423,7 @@ darken /'dɑːkən/ v
 
 # ***dark-skinned*** adj
 英音 'dɑːksk'ɪnd     美音 'dɑːksk'ɪnd  
-词频 0 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 0 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -432,7 +432,7 @@ darken /'dɑːkən/ v
 
 # ***darken*** v
 英音 'dɑːkən     
-词频 0 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 0 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -441,7 +441,7 @@ darken /'dɑːkən/ v
 
 # ***darkness*** n
 英音 'dɑːknəs     美音 'dɑːrknəs  
-词频 3 | 口语 0 | 书面 1 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -457,7 +457,7 @@ darken /'dɑːkən/ v
 
 # ***darling*** n
 英音 'dɑːlɪŋ     美音 'dɑːrlɪŋ  
-词频 2 | 口语 2 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 2 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -466,7 +466,7 @@ darken /'dɑːkən/ v
 
 # ***darling*** adj
 英音 'dɑːlɪŋ     美音 'dɑːrlɪŋ  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -475,7 +475,7 @@ darken /'dɑːkən/ v
 
 # ***dash*** v
 英音 dæʃ     美音 dæʃ  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -495,7 +495,7 @@ darken /'dɑːkən/ v
 
 # ***dash*** n
 英音 dæʃ     美音 dæʃ  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -513,7 +513,7 @@ darken /'dɑːkən/ v
 
 # ***data*** n
 英音 'deɪtə     美音 'deɪtə  
-词频 4 | 口语 3 | 书面 3 | 阅读 3  
+| 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
 
 英文释义
 ---
@@ -528,7 +528,7 @@ darken /'dɑːkən/ v
 
 # ***database*** n
 英音 'deɪtəbeɪs     美音 'deɪtəbeɪs  
-词频 1 | 口语 1 | 书面 1 | 阅读 0  
+| 词频 1 | 口语 1 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -537,7 +537,7 @@ darken /'dɑːkən/ v
 
 # ***date*** n
 英音 deɪt     美音 deɪt  
-词频 4 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 4 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -594,7 +594,7 @@ darken /'dɑːkən/ v
 
 # ***date*** v
 英音 deɪt     美音 deɪt  
-词频 4 | 口语 1 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 1 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -631,7 +631,7 @@ darken /'dɑːkən/ v
 
 # ***daughter*** n
 英音 'dɔːtə(r)     美音 'dɔːtər  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -640,7 +640,7 @@ darken /'dɑːkən/ v
 
 # ***dawn*** vi
 英音 dɔːn     美音 dɔːn  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -656,7 +656,7 @@ darken /'dɑːkən/ v
 
 # ***dawn*** n
 英音 dɔːn     美音 dɔːn  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -682,7 +682,7 @@ darken /'dɑːkən/ v
 
 # ***dawning*** adj
 英音 'dɔːnɪŋ     美音 'dɔːnɪŋ  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -691,7 +691,7 @@ darken /'dɑːkən/ v
 
 # ***day*** n
 英音 deɪ     美音 deɪ  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -817,7 +817,7 @@ darken /'dɑːkən/ v
 
 # ***daylight*** n
 英音 'deɪlaɪt     美音 'deɪlaɪt  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -829,7 +829,7 @@ darken /'dɑːkən/ v
 
 # ***daytime*** n
 英音 'deɪtaɪm     美音 'deɪtaɪm  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -841,7 +841,7 @@ darken /'dɑːkən/ v
 
 # ***dazzling*** adj
 英音 'dæzlɪŋ     美音 'dæzlɪŋ  
-词频 0 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 0 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -850,7 +850,7 @@ darken /'dɑːkən/ v
 
 # ***dead*** adj
 英音 ded     美音 ded  
-词频 4 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 4 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -898,7 +898,7 @@ darken /'dɑːkən/ v
 
 # ***dead*** adv
 英音 ded     美音 ded  
-词频 4 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 1 | 书面 0 | 阅读 0 |  
 用法点拨  [非正式用语]
 
 英文释义
@@ -916,7 +916,7 @@ darken /'dɑːkən/ v
 
 # ***deadline*** n
 英音 'dedlaɪn     美音 'dedlaɪn  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -929,7 +929,7 @@ darken /'dɑːkən/ v
 
 # ***deadly*** adv
 英音 'dedli     美音 'dedli  
-词频 2 | 口语 0 | 书面 0 | 阅读 2  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 2 |  
 
 英文释义
 ---
@@ -941,7 +941,7 @@ darken /'dɑːkən/ v
 
 # ***deadly*** adj
 英音 'dedli     美音 'dedli  
-词频 2 | 口语 0 | 书面 0 | 阅读 2  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 2 |  
 
 英文释义
 ---
@@ -958,7 +958,7 @@ darken /'dɑːkən/ v
 
 # ***deaf*** adj
 英音 def     美音 def  
-词频 3 | 口语 0 | 书面 1 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -996,7 +996,7 @@ deafen /'defn/ vt [常用于被动语态]
 
 # ***deal*** vi  重难点词汇
 英音 diːl     美音 diːl  
-词频 5 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 5 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  (dealt, dealt)
 
 固定搭配
@@ -1034,7 +1034,7 @@ dealer /'diːlə(r)/ n [C]
 
 # ***deal*** n  重难点词汇
 英音 diːl     美音 diːl  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -1098,7 +1098,7 @@ an agreement or arrangement, especially in business or politics：
 
 # ***dealer*** n
 英音 'diːlə(r)     美音 'diːlər  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1107,7 +1107,7 @@ an agreement or arrangement, especially in business or politics：
 
 # ***dear*** n
 英音 dɪə(r)     美音 dɪr  
-词频 5 | 口语 2 | 书面 0 | 阅读 0  
+| 词频 5 | 口语 2 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1116,7 +1116,7 @@ an agreement or arrangement, especially in business or politics：
 
 # ***dear*** int
 英音 dɪə(r)     美音 dɪr  
-词频 5 | 口语 3 | 书面 0 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1133,7 +1133,7 @@ an agreement or arrangement, especially in business or politics：
 
 # ***dear*** adj
 英音 dɪə(r)     美音 dɪr  
-词频 5 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 5 | 口语 2 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -1156,7 +1156,7 @@ an agreement or arrangement, especially in business or politics：
 
 # ***death*** n
 英音 deθ     美音 deθ  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -1191,7 +1191,7 @@ an agreement or arrangement, especially in business or politics：
 
 # ***debate*** v  重难点词汇
 英音 dɪ'beɪt     美音 dɪ'beɪt  
-词频 3 | 口语 0 | 书面 0 | 阅读 3  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 3 |  
 
 英文释义
 ---
@@ -1224,7 +1224,7 @@ to think about or discuss sth before deciding what to do：
 
 # ***debate*** n  重难点词汇
 英音 dɪ'beɪt     美音 dɪ'beɪt  
-词频 3 | 口语 2 | 书面 2 | 阅读 3  
+| 词频 3 | 口语 2 | 书面 2 | 阅读 3 |  
 
 英文释义
 ---
@@ -1244,7 +1244,7 @@ to think about or discuss sth before deciding what to do：
 
 # ***debt*** n
 英音 det     美音 det  
-词频 3 | 口语 1 | 书面 2 | 阅读 0  
+| 词频 3 | 口语 1 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -1280,7 +1280,7 @@ to think about or discuss sth before deciding what to do：
 
 # ***decade*** n
 英音 'dekeɪd     美音 'dekeɪd  
-词频 4 | 口语 1 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 1 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -1292,7 +1292,7 @@ to think about or discuss sth before deciding what to do：
 
 # ***decay*** v
 英音 dɪ'keɪ     美音 dɪ'keɪ  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1304,7 +1304,7 @@ to think about or discuss sth before deciding what to do：
 
 # ***deceive*** v
 英音 dɪ'siːv     美音 dɪ'siːv  
-词频 0 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 0 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1313,7 +1313,7 @@ to think about or discuss sth before deciding what to do：
 
 # ***decent*** adj
 英音 'diːsnt     美音 'diːsnt  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1322,7 +1322,7 @@ to think about or discuss sth before deciding what to do：
 
 # ***decibel*** n
 英音 'desɪbel     美音 'desɪbel  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1331,7 +1331,7 @@ to think about or discuss sth before deciding what to do：
 
 # ***decide*** v
 英音 dɪ'saɪd     美音 dɪ'saɪd  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -1373,7 +1373,7 @@ to think about or discuss sth before deciding what to do：
 
 # ***decision*** n
 英音 dɪ'sɪʒn     美音 dɪ'sɪʒn  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -1417,7 +1417,7 @@ decisive /dɪ'saɪsɪv/ adj
 
 # ***deck*** n
 英音 dek     美音 dek  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1426,7 +1426,7 @@ decisive /dɪ'saɪsɪv/ adj
 
 # ***declare*** v  重难点词汇
 英音 dɪ'kleə(r)     美音 dɪ'kler  
-词频 4 | 口语 0 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -1470,7 +1470,7 @@ to state sth firmly and clearly：
 
 # ***decline*** n
 英音 dɪ'klaɪn     美音 dɪ'klaɪn  
-词频 3 | 口语 0 | 书面 2 | 阅读 2  
+| 词频 3 | 口语 0 | 书面 2 | 阅读 2 |  
 
 英文释义
 ---
@@ -1487,7 +1487,7 @@ to state sth firmly and clearly：
 
 # ***decline*** v
 英音 dɪ'klaɪn     美音 dɪ'klaɪn  
-词频 3 | 口语 0 | 书面 1 | 阅读 2  
+| 词频 3 | 口语 0 | 书面 1 | 阅读 2 |  
 
 英文释义
 ---
@@ -1530,7 +1530,7 @@ D.decline
 
 # ***decorate*** v
 英音 'dekəreɪt     美音 'dekəreɪt  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1547,7 +1547,7 @@ D.decline
 
 # ***decoration*** n
 英音 ˌdekə'reɪʃn     美音 ˌdekə'reɪʃn  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1562,7 +1562,7 @@ D.decline
 
 # ***decrease*** n
 英音 'diːkriːs     美音 'diːkriːs  
-词频 3 | 口语 1 | 书面 0 | 阅读 3  
+| 词频 3 | 口语 1 | 书面 0 | 阅读 3 |  
 
 英文释义
 ---
@@ -1579,7 +1579,7 @@ D.decline
 
 # ***decrease*** v
 英音 dɪ'kriːs     美音 dɪ'kriːs  
-词频 3 | 口语 0 | 书面 0 | 阅读 3  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 3 |  
 
 英文释义
 ---
@@ -1599,7 +1599,7 @@ D.decline
 
 # ***dedicated*** adj
 英音 'dedɪkeɪtɪd     美音 'dedɪkeɪtɪd  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1608,7 +1608,7 @@ D.decline
 
 # ***dedication*** n
 英音 ˌdedɪ'keɪʃn     美音 ˌdedɪ'keɪʃn  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1617,7 +1617,7 @@ D.decline
 
 # ***deduce*** vt
 英音 dɪ'djuːs     美音 dɪ'djuːs  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1626,7 +1626,7 @@ D.decline
 
 # ***deduction*** n
 英音 dɪ'dʌkʃn     美音 dɪ'dʌkʃn  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1635,7 +1635,7 @@ D.decline
 
 # ***deed*** n
 英音 diːd     美音 diːd  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1653,7 +1653,7 @@ D.decline
 
 # ***deep*** adj
 英音 diːp     美音 diːp  
-词频 5 | 口语 2 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 2 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -1707,7 +1707,7 @@ deepen /'diːpən/ v
 
 # ***deep*** adv
 英音 diːp     美音 diːp  
-词频 5 | 口语 2 | 书面 1 | 阅读 0  
+| 词频 5 | 口语 2 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -1732,7 +1732,7 @@ deepen /'diːpən/ v
 
 # ***deep-breathing*** adj
 英音 ˌdi:p ˈbri:ðɪŋ     美音 ˌdip ˈbriðɪŋ  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1741,7 +1741,7 @@ deepen /'diːpən/ v
 
 # ***deepen*** vt
 英音 'diːpən     
-词频 0 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 0 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1750,7 +1750,7 @@ deepen /'diːpən/ v
 
 # ***deepen*** vi
 英音 'diːpən     
-词频 0 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 0 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1759,7 +1759,7 @@ deepen /'diːpən/ v
 
 # ***deeply*** adv
 英音 'diːpli     美音 'diːpli  
-词频 3 | 口语 0 | 书面 1 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -1790,7 +1790,7 @@ I have been _______(深深地) impressed by a number of experiences in her life.
 
 # ***deer*** n
 英音 dɪə(r)     美音 dɪr  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1799,7 +1799,7 @@ I have been _______(深深地) impressed by a number of experiences in her life.
 
 # ***defeat*** n
 英音 dɪ'fiːt     美音 dɪ'fiːt  
-词频 3 | 口语 0 | 书面 1 | 阅读 2  
+| 词频 3 | 口语 0 | 书面 1 | 阅读 2 |  
 
 英文释义
 ---
@@ -1816,7 +1816,7 @@ I have been _______(深深地) impressed by a number of experiences in her life.
 
 # ***defeat*** vt
 英音 dɪ'fiːt     美音 dɪ'fiːt  
-词频 3 | 口语 0 | 书面 1 | 阅读 2  
+| 词频 3 | 口语 0 | 书面 1 | 阅读 2 |  
 
 英文释义
 ---
@@ -1838,7 +1838,7 @@ to stop sth from being successful：
 
 # ***defence*** n
 英音 dɪ'fens     美音 dɪ'fens  
-词频 3 | 口语 2 | 书面 3 | 阅读 2  
+| 词频 3 | 口语 2 | 书面 3 | 阅读 2 |  
 
 英文释义
 ---
@@ -1869,7 +1869,7 @@ to stop sth from being successful：
 
 # ***defend*** v
 英音 dɪ'fend     美音 dɪ'fend  
-词频 3 | 口语 1 | 书面 1 | 阅读 2  
+| 词频 3 | 口语 1 | 书面 1 | 阅读 2 |  
 
 英文释义
 ---
@@ -1898,7 +1898,7 @@ to stop sth from being successful：
 
 # ***defense*** n
 英音 dɪ'fens     美音 dɪ'fens  
-词频 3 | 口语 2 | 书面 3 | 阅读 2  
+| 词频 3 | 口语 2 | 书面 3 | 阅读 2 |  
 
 英文释义
 ---
@@ -1929,7 +1929,7 @@ to stop sth from being successful：
 
 # ***define*** vt
 英音 dɪ'faɪn     美音 dɪ'faɪn  
-词频 2 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 2 | 口语 2 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -1949,7 +1949,7 @@ to stop sth from being successful：
 
 # ***definite*** adj
 英音 'defɪnət     美音 'defɪnət  
-词频 1 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -1964,7 +1964,7 @@ to stop sth from being successful：
 
 # ***definitely*** adv
 英音 'defɪnətli     美音 'defɪnətli  
-词频 3 | 口语 0 | 书面 0 | 阅读 3  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 3 |  
 
 英文释义
 ---
@@ -1976,7 +1976,7 @@ to stop sth from being successful：
 
 # ***definition*** n
 英音 ˌdefɪ'nɪʃn     美音 ˌdefɪ'nɪʃn  
-词频 3 | 口语 2 | 书面 2 | 阅读 3  
+| 词频 3 | 口语 2 | 书面 2 | 阅读 3 |  
 
 英文释义
 ---
@@ -1991,7 +1991,7 @@ to stop sth from being successful：
 
 # ***degree*** n
 英音 dɪ'ɡriː     美音 dɪ'ɡriː  
-词频 4 | 口语 2 | 书面 3 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -2030,7 +2030,7 @@ to stop sth from being successful：
 
 # ***delay*** v  重难点词汇
 英音 dɪ'leɪ     美音 dɪ'leɪ  
-词频 4 | 口语 0 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -2050,7 +2050,7 @@ to stop sth from being successful：
 
 # ***delay*** n  重难点词汇
 英音 dɪ'leɪ     美音 dɪ'leɪ  
-词频 4 | 口语 0 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -2077,7 +2077,7 @@ The World Health Organization gave a warning to the public without any ________ 
 
 # ***delegate*** n
 英音 'delɪɡət     美音 'delɪɡeɪt  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -2086,7 +2086,7 @@ The World Health Organization gave a warning to the public without any ________ 
 
 # ***delete*** n
 英音 dɪ'liːt     美音 dɪ'liːt  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -2095,7 +2095,7 @@ The World Health Organization gave a warning to the public without any ________ 
 
 # ***delete*** vt
 英音 dɪ'liːt     美音 dɪ'liːt  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -2107,7 +2107,7 @@ The World Health Organization gave a warning to the public without any ________ 
 
 # ***deliberate*** adj
 英音 dɪ'lɪbərət     美音 dɪ'lɪbərət  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -2122,7 +2122,7 @@ The World Health Organization gave a warning to the public without any ________ 
 
 # ***deliberately*** adv
 英音 dɪ'lɪbərətli     美音 dɪ'lɪbərətli  
-词频 1 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -2150,7 +2150,7 @@ D.clumsily
 
 # ***delicacy*** n
 英音 'delɪkəsi     美音 'delɪkəsi  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -2159,7 +2159,7 @@ D.clumsily
 
 # ***delicate*** adj
 英音 'delɪkət     美音 'delɪkət  
-词频 2 | 口语 0 | 书面 0 | 阅读 1  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 1 |  
 
 英文释义
 ---
@@ -2194,7 +2194,7 @@ D.clumsily
 
 # ***delicious*** adj
 英音 dɪ'lɪʃəs     美音 dɪ'lɪʃəs  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -2213,7 +2213,7 @@ Honestly I thought the fried chicken was ________ (可口的).
 
 # ***delight*** n  重难点词汇
 英音 dɪ'laɪt     美音 dɪ'laɪt  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -2249,7 +2249,7 @@ great pleasure：
 
 # ***delight*** vt  重难点词汇
 英音 dɪ'laɪt     美音 dɪ'laɪt  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -2274,7 +2274,7 @@ great pleasure：
 
 # ***delighted*** adj
 英音 dɪ'laɪtɪd     美音 dɪ'laɪtɪd  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -2303,7 +2303,7 @@ very pleased and happy：
 
 # ***delightful*** adj
 英音 dɪ'laɪtfl     美音 dɪ'laɪtfl  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -2312,7 +2312,7 @@ very pleased and happy：
 
 # ***deliver*** vt
 英音 dɪ'lɪvə(r)     美音 dɪ'lɪvər  
-词频 4 | 口语 2 | 书面 2 | 阅读 3  
+| 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
 
 英文释义
 ---
@@ -2349,7 +2349,7 @@ to give a speech, talk, etc. or other official statement：
 
 # ***delivery*** n
 英音 dɪ'lɪvəri     美音 dɪ'lɪvəri  
-词频 4 | 口语 1 | 书面 1 | 阅读 3  
+| 词频 4 | 口语 1 | 书面 1 | 阅读 3 |  
 用法点拨  [U] & [C]
 
 英文释义
@@ -2371,7 +2371,7 @@ to give a speech, talk, etc. or other official statement：
 
 # ***delta*** n
 英音 'deltə     美音 'deltə  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -2381,7 +2381,7 @@ to give a speech, talk, etc. or other official statement：
 
 # ***demand*** n  重难点词汇
 英音 dɪ'mɑːnd     美音 dɪ'mænd  
-词频 4 | 口语 2 | 书面 3 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -2431,7 +2431,7 @@ The Harry Potter books are quite popular; they are ________ great demand  in thi
 
 # ***demand*** vt  重难点词汇
 英音 dɪ'mɑːnd     美音 dɪ'mænd  
-词频 4 | 口语 0 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -2459,7 +2459,7 @@ The Harry Potter books are quite popular; they are ________ great demand  in thi
 
 # ***demanding*** adj
 英音 dɪ'mɑːndɪŋ     美音 dɪ'mændɪŋ  
-词频 3 | 口语 0 | 书面 0 | 阅读 2  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 2 |  
 
 英文释义
 ---
@@ -2481,7 +2481,7 @@ always wanting attention or expecting very high standards of people：
 
 # ***demonstrate*** v
 英音 'demənstreɪt     美音 'demənstreɪt  
-词频 2 | 口语 1 | 书面 2 | 阅读 2  
+| 词频 2 | 口语 1 | 书面 2 | 阅读 2 |  
 
 英文释义
 ---
@@ -2504,7 +2504,7 @@ always wanting attention or expecting very high standards of people：
 
 # ***dentist*** n
 英音 'dentɪst     美音 'dentɪst  
-词频 1 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -2513,7 +2513,7 @@ always wanting attention or expecting very high standards of people：
 
 # ***deny*** vt
 英音 dɪ'naɪ     美音 dɪ'naɪ  
-词频 3 | 口语 1 | 书面 2 | 阅读 2  
+| 词频 3 | 口语 1 | 书面 2 | 阅读 2 |  
 
 英文释义
 ---
@@ -2558,7 +2558,7 @@ D.decline
 
 # ***depart*** vi
 英音 dɪ'pɑːt     美音 dɪ'pɑːt  
-词频 2 | 口语 0 | 书面 0 | 阅读 1  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 1 |  
 
 英文释义
 ---
@@ -2575,7 +2575,7 @@ D.decline
 
 # ***department*** n
 英音 dɪ'pɑːtmənt     美音 dɪ'pɑːrtmənt  
-词频 4 | 口语 2 | 书面 3 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 3 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -2594,7 +2594,7 @@ D.decline
 
 # ***departure*** n
 英音 dɪ'pɑːtʃə(r)     美音 dɪ'pɑːrtʃər  
-词频 1 | 口语 0 | 书面 1 | 阅读 1  
+| 词频 1 | 口语 0 | 书面 1 | 阅读 1 |  
 
 英文释义
 ---
@@ -2611,7 +2611,7 @@ D.decline
 
 # ***depend*** vi  重难点词汇
 英音 dɪ'pend     美音 dɪ'pend  
-词频 5 | 口语 3 | 书面 0 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -2684,7 +2684,7 @@ Don’t always d________ on others. You should learn to rely on yourself.
 
 # ***dependent*** adj
 英音 dɪ'pendənt     美音 dɪ'pendənt  
-词频 2 | 口语 0 | 书面 0 | 阅读 2  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 2 |  
 
 英文释义
 ---
@@ -2701,7 +2701,7 @@ Don’t always d________ on others. You should learn to rely on yourself.
 
 # ***deposit*** n
 英音 dɪ'pɒzɪt     美音 dɪ'pɑːzɪt  
-词频 2 | 口语 1 | 书面 1 | 阅读 1  
+| 词频 2 | 口语 1 | 书面 1 | 阅读 1 |  
 用法点拨  [C]
 
 英文释义
@@ -2723,7 +2723,7 @@ Don’t always d________ on others. You should learn to rely on yourself.
 
 # ***deposit*** vt
 英音 dɪ'pɒzɪt     美音 dɪ'pɑːzɪt  
-词频 2 | 口语 0 | 书面 0 | 阅读 1  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 1 |  
 
 英文释义
 ---
@@ -2753,7 +2753,7 @@ Don’t always d________ on others. You should learn to rely on yourself.
 
 # ***depress*** vt
 英音 dɪ'pres     美音 dɪ'pres  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -2784,7 +2784,7 @@ depressing /dɪ'presɪŋ/ adj
 
 # ***depressed*** adj
 英音 dɪ'prest     美音 dɪ'prest  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -2797,7 +2797,7 @@ depressing /dɪ'presɪŋ/ adj
 
 # ***depressing*** adj
 英音 dɪ'presɪŋ     美音 dɪ'presɪŋ  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -2806,7 +2806,7 @@ depressing /dɪ'presɪŋ/ adj
 
 # ***depression*** n
 英音 dɪ'preʃn     美音 dɪ'preʃn  
-词频 3 | 口语 0 | 书面 0 | 阅读 3  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 3 |  
 
 英文释义
 ---
@@ -2823,7 +2823,7 @@ depressing /dɪ'presɪŋ/ adj
 
 # ***depth*** n
 英音 depθ     美音 depθ  
-词频 2 | 口语 1 | 书面 1 | 阅读 0  
+| 词频 2 | 口语 1 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -2866,7 +2866,7 @@ On June 27, 2012, the Jiaolong reached a ________ (深度) of 7,062 meters in th
 
 # ***descend*** v
 英音 dɪ'send     美音 dɪ'send  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -2875,7 +2875,7 @@ On June 27, 2012, the Jiaolong reached a ________ (深度) of 7,062 meters in th
 
 # ***descendant*** n
 英音 dɪ'sendənt     美音 dɪ'sendənt  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -2887,7 +2887,7 @@ On June 27, 2012, the Jiaolong reached a ________ (深度) of 7,062 meters in th
 
 # ***describe*** vt
 英音 dɪ'skraɪb     美音 dɪ'skraɪb  
-词频 5 | 口语 2 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 2 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -2918,7 +2918,7 @@ descriptive /dɪ'skrɪptɪv/ adj
 
 # ***description*** n
 英音 dɪ'skrɪpʃn     美音 dɪ'skrɪpʃn  
-词频 4 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -2947,7 +2947,7 @@ The book gives a short ________ (描述) of the city.
 
 # ***desert*** n
 英音 'dezət     美音 'dezərt  
-词频 4 | 口语 0 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -2956,7 +2956,7 @@ The book gives a short ________ (描述) of the city.
 
 # ***desert*** vt
 英音 dɪ'zɜːt     美音 dɪ'zɜːrt  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -2980,7 +2980,7 @@ deserted /dɪ'zɜːtɪd/ adj
 
 # ***desertification*** n
 英音 dɪˌzɜːtɪfɪ'keɪʃn     美音 dɪˌzɜːrtɪfɪ'keɪʃn  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -2989,7 +2989,7 @@ deserted /dɪ'zɜːtɪd/ adj
 
 # ***deserve*** vt  重难点词汇
 英音 dɪ'zɜːv     美音 dɪ'zɜːrv  
-词频 4 | 口语 1 | 书面 1 | 阅读 3  
+| 词频 4 | 口语 1 | 书面 1 | 阅读 3 |  
 
 英文释义
 ---
@@ -3036,7 +3036,7 @@ deserving /dɪ'zɜːvɪŋ/ adj
 
 # ***design*** n
 英音 dɪ'zaɪn     美音 dɪ'zaɪn  
-词频 5 | 口语 2 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 2 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -3064,7 +3064,7 @@ deserving /dɪ'zɜːvɪŋ/ adj
 
 # ***design*** vt
 英音 dɪ'zaɪn     美音 dɪ'zaɪn  
-词频 5 | 口语 1 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 1 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -3095,7 +3095,7 @@ to plan or develop sth for a specific purpose：
 
 # ***designer*** adj
 英音 dɪ'zaɪnə(r)     美音 dɪ'zaɪnər  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -3107,7 +3107,7 @@ to plan or develop sth for a specific purpose：
 
 # ***designer*** n
 英音 dɪ'zaɪnə(r)     美音 dɪ'zaɪnər  
-词频 4 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -3119,7 +3119,7 @@ to plan or develop sth for a specific purpose：
 
 # ***desire*** n  重难点词汇
 英音 dɪ'zaɪə(r)     美音 dɪ'zaɪər  
-词频 4 | 口语 0 | 书面 2 | 阅读 3  
+| 词频 4 | 口语 0 | 书面 2 | 阅读 3 |  
 
 英文释义
 ---
@@ -3139,7 +3139,7 @@ to plan or develop sth for a specific purpose：
 
 # ***desire*** vt  重难点词汇
 英音 dɪ'zaɪə(r)     美音 dɪ'zaɪər  
-词频 4 | 口语 0 | 书面 0 | 阅读 3  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 3 |  
 
 英文释义
 ---
@@ -3161,7 +3161,7 @@ to plan or develop sth for a specific purpose：
 
 # ***desk*** n
 英音 desk     美音 desk  
-词频 4 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -3173,7 +3173,7 @@ to plan or develop sth for a specific purpose：
 
 # ***despair*** n
 英音 dɪ'speə(r)     美音 dɪ'sper  
-词频 2 | 口语 0 | 书面 0 | 阅读 1  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 1 |  
 
 英文释义
 ---
@@ -3201,7 +3201,7 @@ to plan or develop sth for a specific purpose：
 
 # ***despair*** vi
 英音 dɪ'speə(r)     美音 dɪ'sper  
-词频 2 | 口语 0 | 书面 0 | 阅读 1  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 1 |  
 
 英文释义
 ---
@@ -3217,7 +3217,7 @@ to plan or develop sth for a specific purpose：
 
 # ***desperate*** adj
 英音 'despərət     美音 'despərət  
-词频 1 | 口语 1 | 书面 1 | 阅读 1  
+| 词频 1 | 口语 1 | 书面 1 | 阅读 1 |  
 
 英文释义
 ---
@@ -3246,7 +3246,7 @@ desperately   /'despərətli/ adv
 
 # ***despite*** prep
 英音 dɪ'spaɪt     美音 dɪ'spaɪt  
-词频 4 | 口语 1 | 书面 3 | 阅读 3  
+| 词频 4 | 口语 1 | 书面 3 | 阅读 3 |  
 
 英文释义
 ---
@@ -3270,7 +3270,7 @@ D.to
 
 # ***dessert*** n
 英音 dɪ'zɜːt     美音 dɪ'zɜːrt  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -3279,7 +3279,7 @@ D.to
 
 # ***destination*** n
 英音 ˌdestɪ'neɪʃn     美音 ˌdestɪ'neɪʃn  
-词频 3 | 口语 0 | 书面 0 | 阅读 2  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 2 |  
 
 英文释义
 ---
@@ -3291,7 +3291,7 @@ D.to
 
 # ***destiny*** n
 英音 'destəni     美音 'destəni  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -3300,7 +3300,7 @@ D.to
 
 # ***destroy*** vt  重难点词汇
 英音 dɪ'strɔɪ     美音 dɪ'strɔɪ  
-词频 4 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -3326,7 +3326,7 @@ to damage sth so badly that it can no longer be used or no longer exists：
 
 # ***destruction*** n
 英音 dɪ'strʌkʃn     美音 dɪ'strʌkʃn  
-词频 2 | 口语 0 | 书面 1 | 阅读 2  
+| 词频 2 | 口语 0 | 书面 1 | 阅读 2 |  
 
 英文释义
 ---
@@ -3338,7 +3338,7 @@ to damage sth so badly that it can no longer be used or no longer exists：
 
 # ***detail*** n
 英音 'diːteɪl     美音 'diːteɪl  
-词频 4 | 口语 2 | 书面 3 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -3376,7 +3376,7 @@ We’d better discuss everything _______ (详细地) before we work out the plan
 
 # ***detect*** vt
 英音 dɪ'tekt     美音 dɪ'tekt  
-词频 2 | 口语 0 | 书面 1 | 阅读 1  
+| 词频 2 | 口语 0 | 书面 1 | 阅读 1 |  
 
 英文释义
 ---
@@ -3391,7 +3391,7 @@ We’d better discuss everything _______ (详细地) before we work out the plan
 
 # ***detective*** n
 英音 dɪ'tektɪv     美音 dɪ'tektɪv  
-词频 1 | 口语 0 | 书面 1 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -3403,7 +3403,7 @@ We’d better discuss everything _______ (详细地) before we work out the plan
 
 # ***determination*** n
 英音 dɪˌtɜːmɪ'neɪʃn     美音 dɪˌtɜːrmɪ'neɪʃn  
-词频 3 | 口语 0 | 书面 1 | 阅读 3  
+| 词频 3 | 口语 0 | 书面 1 | 阅读 3 |  
 
 英文释义
 ---
@@ -3422,7 +3422,7 @@ We’d better discuss everything _______ (详细地) before we work out the plan
 
 # ***determine*** v
 英音 dɪ'tɜːmɪn     美音 dɪ'tɜːrmɪn  
-词频 4 | 口语 0 | 书面 3 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 3 | 阅读 0 |  
 用法点拨  [正式用语]
 
 英文释义
@@ -3462,7 +3462,7 @@ We’d better discuss everything _______ (详细地) before we work out the plan
 
 # ***determined*** adj
 英音 dɪ'tɜːmɪnd     美音 dɪ'tɜːmɪnd  
-词频 4 | 口语 0 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -3486,7 +3486,7 @@ We’d better discuss everything _______ (详细地) before we work out the plan
 
 # ***detour*** n
 英音 'diːtʊə(r)     美音 'diːtʊr  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -3495,7 +3495,7 @@ We’d better discuss everything _______ (详细地) before we work out the plan
 
 # ***develop*** v  重难点词汇
 英音 dɪ'veləp     美音 dɪ'veləp  
-词频 5 | 口语 2 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 2 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -3557,7 +3557,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 
 # ***development*** n
 英音 dɪ'veləpmənt     美音 dɪ'veləpmənt  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -3580,7 +3580,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 
 # ***device*** n
 英音 dɪ'vaɪs     美音 dɪ'vaɪs  
-词频 4 | 口语 1 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 1 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -3592,7 +3592,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 
 # ***devil*** n
 英音 'devl     美音 'devl  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -3601,7 +3601,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 
 # ***devote*** vt
 英音 dɪ'vəʊt     美音 dɪ'voʊt  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -3627,7 +3627,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 
 # ***devoted*** adj
 英音 dɪ'vəʊtɪd     美音 dɪ'voʊtɪd  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -3640,7 +3640,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 
 # ***devotion*** n
 英音 dɪ'vəʊʃn     美音 dɪ'voʊʃn  
-词频 3 | 口语 0 | 书面 0 | 阅读 2  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 2 |  
 
 英文释义
 ---
@@ -3657,7 +3657,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 
 # ***diabetes*** n
 英音 ˌdaɪə'biːtiːz     美音 ˌdaɪə'biːtiːz  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -3666,7 +3666,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 
 # ***diagnose*** vt
 英音 'daɪəɡ'nəʊz     美音 ˌdaɪəɡ'noʊs  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -3675,7 +3675,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 
 # ***diagram*** n
 英音 'daɪəɡræm     美音 'daɪəɡræm  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -3684,7 +3684,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 
 # ***dial*** n
 英音 'daɪəl     美音 'daɪəl  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -3693,7 +3693,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 
 # ***dial*** v
 英音 'daɪəl     美音 'daɪəl  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -3708,7 +3708,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 
 # ***dialect*** n
 英音 'daɪəlekt     美音 'daɪəlekt  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -3717,7 +3717,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 
 # ***dialog*** n
 英音 'daɪəlɒg     美音 'daɪəˌlɒg  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -3726,7 +3726,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 
 # ***dialogue*** n
 英音 'daɪəlɒɡ     美音 'daɪəlɑːɡ  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -3735,7 +3735,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 
 # ***diamond*** n
 英音 'daɪəmənd     美音 'daɪəmənd  
-词频 2 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -3749,7 +3749,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 
 # ***diary*** n
 英音 'daɪəri     美音 'daɪəri  
-词频 4 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -3762,7 +3762,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 
 # ***dictation*** n
 英音 dɪk'teɪʃn     美音 dɪk'teɪʃn  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -3790,7 +3790,7 @@ The English teacher gives the class a ________ (听写) almost every day.
 
 # ***dictionary*** n
 英音 'dɪkʃənəri     美音 'dɪkʃəneri  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -3802,7 +3802,7 @@ The English teacher gives the class a ________ (听写) almost every day.
 
 # ***die*** vi  重难点词汇
 英音 daɪ     美音 daɪ  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -3890,7 +3890,7 @@ Although the wind has died ________, the rain remains steady, so you still need 
 
 # ***diet*** vi
 英音 'daɪət     美音 'daɪət  
-词频 5 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 5 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -3902,7 +3902,7 @@ Although the wind has died ________, the rain remains steady, so you still need 
 
 # ***diet*** n
 英音 'daɪət     美音 'daɪət  
-词频 5 | 口语 1 | 书面 2 | 阅读 0  
+| 词频 5 | 口语 1 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -3929,7 +3929,7 @@ Although the wind has died ________, the rain remains steady, so you still need 
 
 # ***differ*** vi
 英音 'dɪfə(r)     美音 'dɪfər  
-词频 3 | 口语 0 | 书面 1 | 阅读 2  
+| 词频 3 | 口语 0 | 书面 1 | 阅读 2 |  
 
 英文释义
 ---
@@ -3963,7 +3963,7 @@ Although the wind has died ________, the rain remains steady, so you still need 
 
 # ***difference*** n
 英音 'dɪfrəns     美音 'dɪfrəns  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -4003,7 +4003,7 @@ Although the wind has died ________, the rain remains steady, so you still need 
 
 # ***different*** adj
 英音 'dɪfrənt     美音 'dɪfrənt  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -4040,7 +4040,7 @@ The way he did it was different _______ what we were used to.
 
 # ***differentiate*** v
 英音 ˌdɪfə'renʃieɪt     美音 ˌdɪfə'renʃieɪt  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4049,7 +4049,7 @@ The way he did it was different _______ what we were used to.
 
 # ***difficult*** adj
 英音 'dɪfɪkəlt     美音 'dɪfɪkəlt  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -4078,7 +4078,7 @@ difficultly /'dɪfɪkəlt/ adv
 
 # ***difficulty*** n
 英音 'dɪfɪkəlti     美音 'dɪfɪkəlti  
-词频 5 | 口语 2 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 2 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -4138,7 +4138,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 # ***dig*** v
 英音 dɪɡ     美音 dɪɡ  
-词频 4 | 口语 2 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 0 | 阅读 0 |  
 用法点拨  (dug, dug)
 
 英文释义
@@ -4182,7 +4182,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 # ***digest*** v
 英音 daɪ'dʒest;dɪ'dʒest     美音 daɪ'dʒest  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4202,7 +4202,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 # ***digest*** n
 英音 'daɪ'dʒest     美音 'daɪdʒest  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4211,7 +4211,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 # ***digital*** adj
 英音 'dɪdʒɪtl     美音 'dɪdʒɪtl  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4223,7 +4223,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 # ***dignity*** n
 英音 'dɪɡnəti     美音 'dɪɡnəti  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [U]
 
 英文释义
@@ -4242,7 +4242,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 # ***dilemma*** n
 英音 dɪ'lemə;daɪ'lemə     美音 dɪ'lemə;daɪ'lemə  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4259,7 +4259,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 # ***diligence*** n
 英音 'dɪlɪdʒəns     美音 'dɪlɪdʒəns  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4271,7 +4271,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 # ***diligent*** adj
 英音 'dɪlɪdʒənt     美音 'dɪlɪdʒənt  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4283,7 +4283,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 # ***dim*** v
 英音 dɪm     美音 dɪm  
-词频 2 | 口语 0 | 书面 0 | 阅读 1  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 1 |  
 
 英文释义
 ---
@@ -4295,7 +4295,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 # ***dim*** adj
 英音 dɪm     美音 dɪm  
-词频 2 | 口语 0 | 书面 0 | 阅读 1  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 1 |  
 
 英文释义
 ---
@@ -4307,7 +4307,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 # ***dimension*** n
 英音 daɪ'menʃn     美音 daɪ'menʃn  
-词频 1 | 口语 0 | 书面 1 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 1 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -4330,7 +4330,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 # ***dine*** vi
 英音 daɪn     美音 daɪn  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4343,7 +4343,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 # ***dining*** n
 英音 /'daɪnɪŋ/     美音 /'daɪnɪŋ/  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4355,7 +4355,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 # ***dining-room*** n
 英音 'daɪnɪŋ rʊm     
-词频 0 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 0 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4364,7 +4364,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 # ***dinner*** n
 英音 'dɪnə(r)     美音 'dɪnər  
-词频 5 | 口语 3 | 书面 2 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -4384,7 +4384,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 # ***dinosaur*** n
 英音 'daɪnəsɔː(r)     美音 'daɪnəsɔːr  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4393,7 +4393,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 # ***dioxide*** n
 英音 daɪ'ɒksaɪd     美音 daɪ'ɑːksaɪd  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4405,7 +4405,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 # ***dip*** vi
 英音 dɪp     美音 dɪp  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4414,7 +4414,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 # ***dip*** vt
 英音 dɪp     美音 dɪp  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4431,7 +4431,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 # ***dip*** v
 英音 dɪp     美音 dɪp  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4440,7 +4440,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 # ***diploma*** n
 英音 dɪ'pləʊmə     美音 dɪ'ploʊmə  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4456,7 +4456,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 # ***diplomacy*** n
 英音 dɪ'pləʊməsi     美音 dɪ'ploʊməsi  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4469,7 +4469,7 @@ diplomat /'dɪpləmæt/ n [C]
 
 # ***direct*** adj
 英音 də'rekt;dɪ'rekt;daɪ'rekt     美音 də'rekt;dɪ'rekt;daɪ'rekt  
-词频 4 | 口语 2 | 书面 3 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -4489,7 +4489,7 @@ diplomat /'dɪpləmæt/ n [C]
 
 # ***direct*** adv
 英音 də'rekt;dɪ'rekt;daɪ'rekt     美音 də'rekt;dɪ'rekt;daɪ'rekt  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4502,7 +4502,7 @@ diplomat /'dɪpləmæt/ n [C]
 
 # ***direct*** v
 英音 də'rekt;dɪ'rekt;daɪ'rekt     美音 də'rekt;dɪ'rekt;daɪ'rekt  
-词频 4 | 口语 1 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 1 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -4537,7 +4537,7 @@ to control or be in charge of sb / sth：
 
 # ***direction*** n
 英音 də'rekʃn;dɪ'rekʃn;daɪ'rekʃn     美音 də'rekʃn;dɪ'rekʃn;daɪ'rekʃn  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -4568,7 +4568,7 @@ to control or be in charge of sb / sth：
 
 # ***directly*** conj
 英音 də'rektli;dɪ'rektli;daɪ'rektli     美音 də'rektli;dɪ'rektli;daɪ'rektli  
-词频 4 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -4580,7 +4580,7 @@ to control or be in charge of sb / sth：
 
 # ***directly*** adv
 英音 də'rektli;dɪ'rektli;daɪ'rektli     美音 də'rektli;dɪ'rektli;daɪ'rektli  
-词频 4 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -4592,7 +4592,7 @@ to control or be in charge of sb / sth：
 
 # ***director*** n
 英音 də'rektə(r);dɪ'rektə(r);daɪ'rektə(r)     美音 də'rektər;dɪ'rektər;daɪ'rektər  
-词频 4 | 口语 2 | 书面 3 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -4601,7 +4601,7 @@ to control or be in charge of sb / sth：
 
 # ***directory*** n
 英音 də'rektəri;dɪ'rektəri;daɪ'rektəri     美音 də'rektəri;dɪ'rektəri;daɪ'rektəri  
-词频 1 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4610,7 +4610,7 @@ to control or be in charge of sb / sth：
 
 # ***dirt*** n
 英音 dɜːt     美音 dɜːrt  
-词频 3 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4625,7 +4625,7 @@ to control or be in charge of sb / sth：
 
 # ***dirty*** adj
 英音 'dɜːti     美音 'dɜːrti  
-词频 4 | 口语 2 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -4640,7 +4640,7 @@ to control or be in charge of sb / sth：
 
 # ***disability*** n
 英音 ˌdɪsə'bɪləti     美音 ˌdɪsə'bɪləti  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4657,7 +4657,7 @@ to control or be in charge of sb / sth：
 
 # ***disabled*** adj
 英音 dɪs'eɪbld     美音 dɪs'eɪbld  
-词频 4 | 口语 1 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 1 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -4674,7 +4674,7 @@ to control or be in charge of sb / sth：
 
 # ***disadvantage*** n
 英音 ˌdɪsəd'vɑːntɪdʒ     美音 ˌdɪsəd'væntɪdʒ  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4699,7 +4699,7 @@ to control or be in charge of sb / sth：
 
 # ***disagree*** vi
 英音 ˌdɪsə'ɡriː     美音 ˌdɪsə'ɡriː  
-词频 3 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4729,7 +4729,7 @@ They failed to reach a settlement, because they ________ (不同意) too much wi
 
 # ***disagreement*** n
 英音 ˌdɪsə'ɡriːmənt     美音 ˌdɪsə'ɡriːmənt  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4746,7 +4746,7 @@ They failed to reach a settlement, because they ________ (不同意) too much wi
 
 # ***disappear*** vi
 英音 ˌdɪsə'pɪə(r)     美音 ˌdɪsə'pɪr  
-词频 4 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -4777,7 +4777,7 @@ The symptoms of flu may be unpleasant, but they ________ (消失) within a few d
 
 # ***disappearance*** n
 英音 ˌdɪsə'pɪərəns     美音 ˌdɪsə'pɪərəns  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C] & [U]
 
 英文释义
@@ -4793,7 +4793,7 @@ The symptoms of flu may be unpleasant, but they ________ (消失) within a few d
 
 # ***disappoint*** vt
 英音 ˌdɪsə'pɔɪnt     美音 ˌdɪsə'pɔɪnt  
-词频 4 | 口语 0 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -4816,7 +4816,7 @@ disappointing /ˌdɪsə'pɔɪntɪŋ/ adj
 
 # ***disappointed*** adj
 英音 ˌdɪsə'pɔɪntɪd     美音 ˌdɪsə'pɔɪntɪd  
-词频 4 | 口语 1 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 1 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -4852,7 +4852,7 @@ disappointing /ˌdɪsə'pɔɪntɪŋ/ adj
 
 # ***disappointing*** adj
 英音 ˌdɪsə'pɔɪntɪŋ     美音 ˌdɪsə'pɔɪntɪŋ  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4861,7 +4861,7 @@ disappointing /ˌdɪsə'pɔɪntɪŋ/ adj
 
 # ***disappointment*** n
 英音 ˌdɪsə'pɔɪntmənt     美音 ˌdɪsə'pɔɪntmənt  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4883,7 +4883,7 @@ disappointing /ˌdɪsə'pɔɪntɪŋ/ adj
 
 # ***disapprove*** v
 英音 ˌdɪsə'pruːv     美音 ˌdɪsə'pruːv  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4903,7 +4903,7 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 
 # ***disaster*** n
 英音 dɪ'zɑːstə(r)     美音 dɪ'zæstər  
-词频 4 | 口语 1 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 1 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -4924,7 +4924,7 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 
 # ***disbelief*** n
 英音 ˌdɪsbɪ'liːf     美音 ˌdɪsbɪ'liːf  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4933,7 +4933,7 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 
 # ***disc*** n
 英音 dɪsk     美音 dɪsk  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4942,7 +4942,7 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 
 # ***discharge*** vt
 英音 dɪs'tʃɑːdʒ     美音 dɪs'tʃɑːrdʒ  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4954,7 +4954,7 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 
 # ***discharge*** n
 英音 'dɪstʃɑːdʒ     美音 'dɪstʃɑːrdʒ  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -4963,7 +4963,7 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 
 # ***discipline*** n
 英音 'dɪsəplɪn     美音 'dɪsəplɪn  
-词频 3 | 口语 1 | 书面 1 | 阅读 1  
+| 词频 3 | 口语 1 | 书面 1 | 阅读 1 |  
 
 英文释义
 ---
@@ -4992,7 +4992,7 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 
 # ***disco*** n
 英音 'dɪskəʊ     美音 'dɪskoʊ  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C] (pl discos)
 
 英文释义
@@ -5002,7 +5002,7 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 
 # ***disconnect*** v
 英音 ˌdɪskə'nekt     美音 ˌdɪskə'nekt  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5011,7 +5011,7 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 
 # ***discount*** n
 英音 'dɪskaʊnt     美音 'dɪskaʊnt  
-词频 2 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5032,7 +5032,7 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 
 # ***discount*** vt
 英音 dɪs'kaʊnt     美音 dɪs'kaʊnt  
-词频 2 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5047,7 +5047,7 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 
 # ***discourage*** vt
 英音 dɪs'kʌrɪdʒ     美音 dɪs'kɜːrɪdʒ  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5069,7 +5069,7 @@ discouraging /dɪs'kʌrɪdʒɪŋ/ adj
 
 # ***discover*** vt
 英音 dɪ'skʌvə(r)     美音 dɪ'skʌvər  
-词频 5 | 口语 2 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 2 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -5101,7 +5101,7 @@ discoverer /dɪ'skʌvərə(r)/ n
 
 # ***discovery*** n
 英音 dɪ'skʌvəri     美音 dɪ'skʌvəri  
-词频 4 | 口语 0 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -5118,7 +5118,7 @@ discoverer /dɪ'skʌvərə(r)/ n
 
 # ***discrimination*** n
 英音 dɪˌskrɪmɪ'neɪʃn     美音 dɪˌskrɪmɪ'neɪʃn  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [U]
 
 英文释义
@@ -5141,7 +5141,7 @@ discoverer /dɪ'skʌvərə(r)/ n
 
 # ***discuss*** vt
 英音 dɪ'skʌs     美音 dɪ'skʌs  
-词频 5 | 口语 2 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 2 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -5160,7 +5160,7 @@ discoverer /dɪ'skʌvərə(r)/ n
 
 # ***discussion*** n
 英音 dɪ'skʌʃn     美音 dɪ'skʌʃn  
-词频 4 | 口语 2 | 书面 3 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -5183,7 +5183,7 @@ discoverer /dɪ'skʌvərə(r)/ n
 
 # ***disease*** n
 英音 dɪ'ziːz     美音 dɪ'ziːz  
-词频 5 | 口语 1 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 1 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -5195,7 +5195,7 @@ discoverer /dɪ'skʌvərə(r)/ n
 
 # ***disguise*** n
 英音 dɪs'ɡaɪz     美音 dɪs'ɡaɪz  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C] & [U]
 
 英文释义
@@ -5205,7 +5205,7 @@ discoverer /dɪ'skʌvərə(r)/ n
 
 # ***disguise*** vt
 英音 dɪs'ɡaɪz     美音 dɪs'ɡaɪz  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5214,7 +5214,7 @@ discoverer /dɪ'skʌvərə(r)/ n
 
 # ***disgust*** vt
 英音 dɪs'ɡʌst     美音 dɪs'ɡʌst  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5223,7 +5223,7 @@ discoverer /dɪ'skʌvərə(r)/ n
 
 # ***disgust*** n
 英音 dɪs'ɡʌst     美音 dɪs'ɡʌst  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [U] 
 
 英文释义
@@ -5233,7 +5233,7 @@ discoverer /dɪ'skʌvərə(r)/ n
 
 # ***disgusted*** adj
 英音 dɪs'ɡʌstɪd     美音 dɪs'ɡʌstɪd  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5242,7 +5242,7 @@ discoverer /dɪ'skʌvərə(r)/ n
 
 # ***disgusting*** adj
 英音 dɪs'ɡʌstɪŋ     美音 dɪs'ɡʌstɪŋ  
-词频 1 | 口语 2 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 2 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5254,7 +5254,7 @@ discoverer /dɪ'skʌvərə(r)/ n
 
 # ***dish*** vt
 英音 dɪʃ     美音 dɪʃ  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5279,7 +5279,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 # ***dish*** n
 英音 dɪʃ     美音 dɪʃ  
-词频 4 | 口语 2 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 1 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -5305,7 +5305,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 # ***dishwasher*** n
 英音 'dɪʃwɒʃə(r)     美音 'dɪʃwɔːʃər  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5314,7 +5314,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 # ***disk*** n
 英音 dɪsk     美音 dɪsk  
-词频 1 | 口语 2 | 书面 1 | 阅读 0  
+| 词频 1 | 口语 2 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -5326,7 +5326,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 # ***dislike*** vt
 英音 dɪs'laɪk     美音 dɪs'laɪk  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5343,7 +5343,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 # ***dislike*** n
 英音 dɪs'laɪk     美音 dɪs'laɪk  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5365,7 +5365,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 # ***dismiss*** vt
 英音 dɪs'mɪs     美音 dɪs'mɪs  
-词频 2 | 口语 0 | 书面 1 | 阅读 1  
+| 词频 2 | 口语 0 | 书面 1 | 阅读 1 |  
 
 英文释义
 ---
@@ -5399,7 +5399,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 # ***disobey*** v
 英音 ˌdɪsə'beɪ     美音 ˌdɪsə'beɪ  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5408,7 +5408,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 # ***disorder*** n
 英音 dɪs'ɔːdə(r)     美音 dɪs'ɔːrdər  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5435,7 +5435,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 # ***disorganised*** adj
 英音 dɪs'ɔːɡənaɪzd     美音 dɪs'ɔːrɡənaɪzd  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5444,7 +5444,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 # ***display*** n
 英音 dɪ'spleɪ     美音 dɪ'spleɪ  
-词频 4 | 口语 1 | 书面 2 | 阅读 3  
+| 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
 用法点拨  [C]
 
 英文释义
@@ -5474,7 +5474,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 # ***display*** vt
 英音 dɪ'spleɪ     美音 dɪ'spleɪ  
-词频 4 | 口语 0 | 书面 2 | 阅读 3  
+| 词频 4 | 口语 0 | 书面 2 | 阅读 3 |  
 
 英文释义
 ---
@@ -5489,7 +5489,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 # ***disposal*** n
 英音 dɪ'spəʊzl     美音 dɪ'spoʊzl  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [U]
 
 英文释义
@@ -5499,7 +5499,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 # ***dispose*** vt
 英音 dɪ'spəʊz     美音 dɪ'spoʊz  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5508,7 +5508,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 # ***dispute*** vt
 英音 dɪ'spjuːt     美音 dɪ'spjuːt  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5517,7 +5517,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 # ***dispute*** n
 英音 dɪ'spjuːt     美音 dɪ'spjuːt  
-词频 1 | 口语 0 | 书面 2 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 2 | 阅读 0 |  
 用法点拨  [C] & [U]
 
 英文释义
@@ -5531,7 +5531,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 # ***disqualify*** v
 英音 dɪs'kwɒlɪfaɪ     美音 dɪs'kwɑːlɪfaɪ  
-词频 0 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 0 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5540,7 +5540,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 # ***dissolve*** v
 英音 dɪ'zɒlv     美音 dɪ'zɑːlv  
-词频 1 | 口语 0 | 书面 0 | 阅读 1  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 1 |  
 
 英文释义
 ---
@@ -5555,7 +5555,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 # ***distance*** n
 英音 'dɪstəns     美音 'dɪstəns  
-词频 4 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -5611,7 +5611,7 @@ The faces of four famous American presidents on Mount Rushmore can be seen _____
 
 # ***distance*** v
 英音 [ˈdɪstəns]     美音 ['dɪstəns]  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5620,7 +5620,7 @@ The faces of four famous American presidents on Mount Rushmore can be seen _____
 
 # ***distant*** adj
 英音 'dɪstənt     美音 'dɪstənt  
-词频 3 | 口语 0 | 书面 1 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -5651,7 +5651,7 @@ The faces of four famous American presidents on Mount Rushmore can be seen _____
 
 # ***distinct*** adj
 英音 dɪ'stɪŋkt     美音 dɪ'stɪŋkt  
-词频 2 | 口语 0 | 书面 1 | 阅读 1  
+| 词频 2 | 口语 0 | 书面 1 | 阅读 1 |  
 
 英文释义
 ---
@@ -5674,7 +5674,7 @@ easily or clearly seen, heard, smelled, etc.：
 
 # ***distinction*** n
 英音 dɪ'stɪŋkʃn     美音 dɪ'stɪŋkʃn  
-词频 2 | 口语 0 | 书面 2 | 阅读 1  
+| 词频 2 | 口语 0 | 书面 2 | 阅读 1 |  
 
 英文释义
 ---
@@ -5692,7 +5692,7 @@ easily or clearly seen, heard, smelled, etc.：
 
 # ***distinctive*** adj
 英音 dɪ'stɪŋktɪv     美音 dɪ'stɪŋktɪv  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5701,7 +5701,7 @@ easily or clearly seen, heard, smelled, etc.：
 
 # ***distinguish*** v
 英音 dɪ'stɪŋɡwɪʃ     美音 dɪ'stɪŋɡwɪʃ  
-词频 3 | 口语 1 | 书面 1 | 阅读 0  
+| 词频 3 | 口语 1 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -5734,7 +5734,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 
 # ***distraction*** n
 英音 dɪ'strækʃn     美音 dɪ'strækʃn  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5743,7 +5743,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 
 # ***distribute*** vt
 英音 dɪ'strɪbjuːt     美音 dɪ'strɪbjuːt  
-词频 2 | 口语 0 | 书面 1 | 阅读 2  
+| 词频 2 | 口语 0 | 书面 1 | 阅读 2 |  
 
 英文释义
 ---
@@ -5756,7 +5756,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 
 # ***distribution*** n
 英音 ˌdɪstrɪ'bjuːʃn     美音 ˌdɪstrɪ'bjuːʃn  
-词频 2 | 口语 0 | 书面 2 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 2 | 阅读 0 |  
 用法点拨  [C] & [U]
 
 英文释义
@@ -5766,7 +5766,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 
 # ***district*** n
 英音 'dɪstrɪkt     美音 'dɪstrɪkt  
-词频 3 | 口语 1 | 书面 2 | 阅读 0  
+| 词频 3 | 口语 1 | 书面 2 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -5779,7 +5779,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 
 # ***disturb*** vt
 英音 dɪ'stɜːb     美音 dɪ'stɜːrb  
-词频 4 | 口语 0 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -5792,7 +5792,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 
 # ***disturbing*** adj
 英音 dɪ'stɜːbɪŋ     美音 dɪ'stɜrːbɪŋ  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5804,7 +5804,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 
 # ***dive*** vi
 英音 daɪv     美音 daɪv  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  (dived / dove, dived)
 
 英文释义
@@ -5830,7 +5830,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 
 # ***dive*** n
 英音 daɪv     美音 daɪv  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5843,7 +5843,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 
 # ***diver*** n
 英音 'daɪvə(r)     美音 'daɪvər  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -5853,7 +5853,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 
 # ***diverse*** adj
 英音 daɪ'vɜːs     美音 daɪ'vɜːrs  
-词频 2 | 口语 0 | 书面 0 | 阅读 1  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 1 |  
 
 英文释义
 ---
@@ -5865,7 +5865,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 
 # ***diversity*** n
 英音 daɪ'vɜːrsəti     美音 daɪ'vɜːrsəti  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [U]
 
 英文释义
@@ -5875,7 +5875,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 
 # ***divert*** v
 英音 daɪ'vɜːt     美音 daɪ'vɜːrt  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5884,7 +5884,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 
 # ***divide*** v
 英音 dɪ'vaɪd     美音 dɪ'vaɪd  
-词频 4 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -5928,7 +5928,7 @@ There is much work to do, so we’ll have to ________ (分) it between us.
 
 # ***division*** n
 英音 dɪ'vɪʒn     美音 dɪ'vɪʒn  
-词频 2 | 口语 1 | 书面 3 | 阅读 1  
+| 词频 2 | 口语 1 | 书面 3 | 阅读 1 |  
 
 英文释义
 ---
@@ -5954,7 +5954,7 @@ There is much work to do, so we’ll have to ________ (分) it between us.
 
 # ***divorce*** v
 英音 dɪ'vɔːs     美音 dɪ'vɔːrs  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5969,7 +5969,7 @@ There is much work to do, so we’ll have to ________ (分) it between us.
 
 # ***divorce*** n
 英音 dɪ'vɔːs     美音 dɪ'vɔːrs  
-词频 2 | 口语 0 | 书面 1 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -5982,7 +5982,7 @@ divorced /dɪ'vɔːst/ adj
 
 # ***dizzy*** adj
 英音 'dɪzi     美音 'dɪzi  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -5994,7 +5994,7 @@ divorced /dɪ'vɔːst/ adj
 
 # ***do*** n
 英音 də:;du:     美音 də:;du  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -6015,7 +6015,7 @@ done /dʌn/ adj ［不用于名词前］
 
 # ***do*** aux v
 英音 də:;du:     美音 də:;du  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -6064,7 +6064,7 @@ D.do they
 
 # ***do*** v
 英音 də:;du:     美音 də:;du  
-词频 5 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 5 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  (did, done)
 
 英文释义
@@ -6187,7 +6187,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***dock*** n
 英音 dɒk     美音 dɑːk  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6196,7 +6196,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***dock*** vi
 英音 dɒk     美音 dɑːk  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6205,7 +6205,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***doctor*** n
 英音 'dɒktə(r)     美音 'dɑːktər  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -6221,7 +6221,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***document*** n
 英音 'dɒkjumənt     美音 'dɑːkjumənt  
-词频 4 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -6230,7 +6230,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***document*** vt
 英音 'dɒkjumənt     美音 'dɑːkjumənt  
-词频 4 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -6239,7 +6239,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***documentary*** n
 英音 ˌdɒkju'mentri     美音 ˌdɑːkju'mentri  
-词频 0 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 0 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6248,7 +6248,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***dog*** n
 英音 dɒɡ     美音 dɔːɡ  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -6266,7 +6266,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***doll*** n
 英音 dɒl     美音 dɑːl  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6275,7 +6275,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***dollar*** n
 英音 'dɒlə(r)     美音 'dɑːlər  
-词频 4 | 口语 3 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 3 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -6284,7 +6284,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***dolphin*** n
 英音 'dɒlfɪn     美音 'dɑːlfɪn  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6293,7 +6293,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***domain*** n
 英音 də'meɪn     美音 doʊ'meɪn  
-词频 1 | 口语 0 | 书面 0 | 阅读 1  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 1 |  
 
 英文释义
 ---
@@ -6305,7 +6305,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***domestic*** adj
 英音 də'mestɪk     美音 də'mestɪk  
-词频 3 | 口语 0 | 书面 2 | 阅读 2  
+| 词频 3 | 口语 0 | 书面 2 | 阅读 2 |  
 
 英文释义
 ---
@@ -6325,7 +6325,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***dominate*** v
 英音 'dɒmɪneɪt     美音 'dɑːmɪneɪt  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6342,7 +6342,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***donate*** v
 英音 dəʊ'neɪt     美音 'doʊneɪt  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6361,7 +6361,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***donate…to…*** 
 
-词频 0 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 0 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6373,7 +6373,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***donation*** n
 英音 dəʊ'neɪʃn     美音 doʊ'neɪʃn  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6385,7 +6385,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***donkey*** n
 英音 'dɒŋki     美音 'dɔːŋki  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6397,7 +6397,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***door*** n
 英音 dɔː(r)     美音 dɔːr  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -6418,7 +6418,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***doormat*** n
 英音 'dɔːmæt     美音 'dɔːrmæt  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6427,7 +6427,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***doorway*** n
 英音 'dɔːweɪ     美音 'dɔːrweɪ  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6442,7 +6442,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***doping*** n
 英音 'dəʊpɪŋ     美音 'doʊpɪŋ  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6451,7 +6451,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***dormitory*** n
 英音 'dɔːmətri     美音 'dɔːrmətɔːri  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6460,7 +6460,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***dot*** vt
 英音 dɒt     美音 dɑːt  
-词频 1 | 口语 2 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 2 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6473,7 +6473,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***dot*** n
 英音 dɒt     美音 dɑːt  
-词频 1 | 口语 2 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 2 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6491,7 +6491,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***double*** v
 英音 'dʌb(ə)l     美音 'dʌbl  
-词频 4 | 口语 0 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -6506,7 +6506,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***double*** adj
 英音 'dʌb(ə)l     美音 'dʌbl  
-词频 4 | 口语 3 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 3 | 书面 2 | 阅读 0 |  
 用法点拨  [多用于名词前]
 
 英文释义
@@ -6534,7 +6534,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***double*** n
 英音 'dʌb(ə)l     美音 'dʌbl  
-词频 4 | 口语 3 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 3 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -6560,7 +6560,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***double*** adv
 英音 'dʌb(ə)l     美音 'dʌbl  
-词频 4 | 口语 3 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 3 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -6573,7 +6573,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***double-decker*** n
 英音 'dʌbl 'dekə     美音 'dʌbl 'dekə  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6582,7 +6582,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***doubt*** n  重难点词汇
 英音 daʊt     美音 daʊt  
-词频 4 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 4 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -6646,7 +6646,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 # ***doubt*** vt  重难点词汇
 英音 daʊt     美音 daʊt  
-词频 4 | 口语 2 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6677,7 +6677,7 @@ doubtful /'daʊtfl/ adj
 
 # ***doubtful*** adj
 英音 'daʊtfl     美音 'daʊtfl  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6686,7 +6686,7 @@ doubtful /'daʊtfl/ adj
 
 # ***dove*** n
 英音 dʌv     美音 dʌv  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6695,7 +6695,7 @@ doubtful /'daʊtfl/ adj
 
 # ***down*** adj
 英音 daʊn     美音 daʊn  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -6707,7 +6707,7 @@ doubtful /'daʊtfl/ adj
 
 # ***down*** prep
 英音 daʊn     美音 daʊn  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -6723,7 +6723,7 @@ doubtful /'daʊtfl/ adj
 
 # ***down*** adv
 英音 daʊn     美音 daʊn  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -6759,7 +6759,7 @@ doubtful /'daʊtfl/ adj
 
 # ***downhill*** adj
 英音 ˌdaʊn'hɪl     美音 ˌdaʊn'hɪl  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6768,7 +6768,7 @@ doubtful /'daʊtfl/ adj
 
 # ***downhill*** adv
 英音 ˌdaʊn'hɪl     美音 ˌdaʊn'hɪl  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6777,7 +6777,7 @@ doubtful /'daʊtfl/ adj
 
 # ***download*** v
 英音 ˌdaʊn'ləʊd     美音 'daʊnloʊd  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6796,7 +6796,7 @@ I’m happy that my 80-year-old grandma has learned how to ________ (下载) fro
 
 # ***download*** n
 英音 ˌdaʊn'ləʊd     美音 'daʊnloʊd  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6805,7 +6805,7 @@ I’m happy that my 80-year-old grandma has learned how to ________ (下载) fro
 
 # ***downstairs*** adv
 英音 ˌdaʊn'steəz     美音 ˌdaʊn'sterz  
-词频 3 | 口语 2 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 2 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6824,7 +6824,7 @@ Rose rushed ________ (向楼下) to answer the door.
 
 # ***downstairs*** adj
 英音 ˌdaʊn'steəz     美音 ˌdaʊn'sterz  
-词频 3 | 口语 2 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 2 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6836,7 +6836,7 @@ Rose rushed ________ (向楼下) to answer the door.
 
 # ***downstream*** adv
 英音 ˌdaʊn'striːm     美音 ˌdaʊn'striːm  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6845,7 +6845,7 @@ Rose rushed ________ (向楼下) to answer the door.
 
 # ***downtown*** n
 英音 daʊn'taʊn     美音 daʊn'taʊn  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6857,7 +6857,7 @@ Rose rushed ________ (向楼下) to answer the door.
 
 # ***downtown*** adj
 英音 daʊn'taʊn     美音 daʊn'taʊn  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6869,7 +6869,7 @@ Rose rushed ________ (向楼下) to answer the door.
 
 # ***downtown*** adv
 英音 daʊn'taʊn     美音 daʊn'taʊn  
-词频 3 | 口语 1 | 书面 1 | 阅读 0  
+| 词频 3 | 口语 1 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -6882,7 +6882,7 @@ Rose rushed ________ (向楼下) to answer the door.
 
 # ***downward*** adj
 英音 'daʊnwəd     美音 'daʊnwərd  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6894,7 +6894,7 @@ Rose rushed ________ (向楼下) to answer the door.
 
 # ***downward*** adv
 英音 'daʊnwəd     美音 'daʊnwərd  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6910,7 +6910,7 @@ Rose rushed ________ (向楼下) to answer the door.
 
 # ***dozen*** n
 英音 'dʌzn     美音 'dʌzn  
-词频 4 | 口语 2 | 书面 1 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 1 | 阅读 0 |  
 用法点拨  (pl dozen / dozens) [C]
 
 英文释义
@@ -6942,7 +6942,7 @@ She went to the bookstore and bought dozens ________ books.
 
 # ***draft*** vt
 英音 drɑːft     美音 dræft  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -6954,7 +6954,7 @@ She went to the bookstore and bought dozens ________ books.
 
 # ***draft*** n
 英音 drɑːft     美音 dræft  
-词频 2 | 口语 2 | 书面 1 | 阅读 0  
+| 词频 2 | 口语 2 | 书面 1 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -6976,7 +6976,7 @@ She went to the bookstore and bought dozens ________ books.
 
 # ***drag*** v
 英音 dræɡ     美音 dræɡ  
-词频 2 | 口语 1 | 书面 1 | 阅读 0  
+| 词频 2 | 口语 1 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -7022,7 +7022,7 @@ She went to the bookstore and bought dozens ________ books.
 
 # ***dragon*** n
 英音 'dræɡən     美音 'dræɡən  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -7032,7 +7032,7 @@ She went to the bookstore and bought dozens ________ books.
 
 # ***drama*** n
 英音 'drɑːmə     美音 'drɑːmə  
-词频 3 | 口语 0 | 书面 1 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -7054,7 +7054,7 @@ She went to the bookstore and bought dozens ________ books.
 
 # ***dramatic*** adj
 英音 drə'mætɪk     美音 drə'mætɪk  
-词频 2 | 口语 0 | 书面 1 | 阅读 1  
+| 词频 2 | 口语 0 | 书面 1 | 阅读 1 |  
 
 英文释义
 ---
@@ -7082,7 +7082,7 @@ dramatically /drə'mætɪkli/ adv
 
 # ***dramatically*** adv
 英音 drə'mætɪkli     美音 drə'mætɪkli  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -7091,7 +7091,7 @@ dramatically /drə'mætɪkli/ adv
 
 # ***draw*** v  重难点词汇
 英音 drɔː     美音 drɔː  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 用法点拨  (drew, drawn)
 
 英文释义
@@ -7159,7 +7159,7 @@ draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘画颜�
 
 # ***draw*** n  重难点词汇
 英音 drɔː     美音 drɔː  
-词频 5 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 5 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -7172,7 +7172,7 @@ draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘画颜�
 
 # ***drawback*** n
 英音 'drɔːbæk     美音 'drɔːbæk  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -7188,7 +7188,7 @@ draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘画颜�
 
 # ***drawer*** n
 英音 drɔː(r)     美音 drɔːr  
-词频 2 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -7197,7 +7197,7 @@ draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘画颜�
 
 # ***drawing*** n
 英音 'drɔːɪŋ     美音 'drɔːɪŋ  
-词频 4 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -7217,7 +7217,7 @@ draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘画颜�
 
 # ***dread*** v
 英音 dred     美音 dred  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -7226,7 +7226,7 @@ draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘画颜�
 
 # ***dreadful*** adj
 英音 'dredfl     美音 'dredfl  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -7239,7 +7239,7 @@ draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘画颜�
 
 # ***dream*** v
 英音 driːm     美音 driːm  
-词频 5 | 口语 1 | 书面 1 | 阅读 0  
+| 词频 5 | 口语 1 | 书面 1 | 阅读 0 |  
 用法点拨  (dreamed / dreamt, dreamed / dreamt)
 
 英文释义
@@ -7275,7 +7275,7 @@ dreamer /'driːmə(r)/ n
 
 # ***dream*** n
 英音 driːm     美音 driːm  
-词频 5 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 5 | 口语 2 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -7316,7 +7316,7 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 
 # ***dreamland*** n
 英音 'driːmlænd     
-词频 0 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 0 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -7325,7 +7325,7 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 
 # ***dress*** v  重难点词汇
 英音 dres     美音 dres  
-词频 4 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -7361,7 +7361,7 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 
 # ***dress*** n  重难点词汇
 英音 dres     美音 dres  
-词频 4 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -7384,7 +7384,7 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 
 # ***drift*** v
 英音 drɪft     美音 drɪft  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -7393,7 +7393,7 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 
 # ***driftnet*** n
 英音 d'rɪftnet     美音 d'rɪftnet  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -7403,7 +7403,7 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 
 # ***drill*** v
 英音 drɪl     美音 drɪl  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -7421,7 +7421,7 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 
 # ***drill*** n
 英音 drɪl     美音 drɪl  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -7441,7 +7441,7 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 
 # ***drink*** v
 英音 drɪŋk     美音 drɪŋk  
-词频 5 | 口语 3 | 书面 2 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 2 | 阅读 0 |  
 用法点拨  (drank, drunk)
 
 英文释义
@@ -7478,7 +7478,7 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 
 # ***drink*** n
 英音 drɪŋk     美音 drɪŋk  
-词频 5 | 口语 3 | 书面 2 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -7497,7 +7497,7 @@ drinker /'drɪŋkə(r)/ n
 
 # ***drive*** v
 英音 draɪv     美音 draɪv  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 用法点拨  (drove, driven)
 
 英文释义
@@ -7541,7 +7541,7 @@ drinker /'drɪŋkə(r)/ n
 
 # ***drive*** n
 英音 draɪv     美音 draɪv  
-词频 5 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 5 | 口语 2 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -7562,7 +7562,7 @@ drinker /'drɪŋkə(r)/ n
 
 # ***driver*** n
 英音 'draɪvə(r)     美音 'draɪvər  
-词频 5 | 口语 3 | 书面 2 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -7571,7 +7571,7 @@ drinker /'drɪŋkə(r)/ n
 
 # ***droop*** vi
 英音 druːp     美音 druːp  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -7580,7 +7580,7 @@ drinker /'drɪŋkə(r)/ n
 
 # ***drop*** v  重难点词汇
 英音 drɒp     美音 drɑːp  
-词频 5 | 口语 2 | 书面 1 | 阅读 0  
+| 词频 5 | 口语 2 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -7667,7 +7667,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 
 # ***drop*** n  重难点词汇
 英音 drɒp     美音 drɑːp  
-词频 5 | 口语 2 | 书面 1 | 阅读 0  
+| 词频 5 | 口语 2 | 书面 1 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -7702,7 +7702,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 
 # ***drought*** n
 英音 draʊt     美音 draʊt  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C] & [U]
 
 英文释义
@@ -7712,7 +7712,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 
 # ***drown*** v
 英音 draʊn     美音 draʊn  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -7737,7 +7737,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 
 # ***drug*** n
 英音 drʌɡ     美音 drʌɡ  
-词频 4 | 口语 2 | 书面 3 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -7749,7 +7749,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 
 # ***drugstore*** n
 英音 'drʌɡstɔː(r)     美音 'drʌɡstɔːr  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨   [C]
 
 英文释义
@@ -7759,7 +7759,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 
 # ***drum*** n
 英音 drʌm     美音 drʌm  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -7768,7 +7768,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 
 # ***drummer*** n
 英音 'drʌmə(r)     美音 'drʌmər  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -7777,7 +7777,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 
 # ***drunk*** adj
 英音 drʌŋk     美音 drʌŋk  
-词频 3 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -7794,7 +7794,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 
 # ***drunk*** n
 英音 drʌŋk     美音 drʌŋk  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -7803,7 +7803,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 
 # ***dry*** v
 英音 draɪ     美音 draɪ  
-词频 4 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -7837,7 +7837,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 
 # ***dry*** adj
 英音 draɪ     美音 draɪ  
-词频 4 | 口语 2 | 书面 2 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
 
 英文释义
 ---
@@ -7852,7 +7852,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 
 # ***duchess*** n
 英音 'dʌtʃəs     美音 'dʌtʃəs  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 用法点拨  [C]
 
 英文释义
@@ -7862,7 +7862,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 
 # ***duck*** n
 英音 dʌk     美音 dʌk  
-词频 2 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -7871,7 +7871,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 
 # ***duck*** 
 英音 dʌk     美音 dʌk  
-词频 2 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -7880,7 +7880,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 
 # ***due*** adj  重难点词汇
 英音 djuː     美音 duː  
-词频 4 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 4 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -7936,7 +7936,7 @@ proper or suitable：
 
 # ***dull*** adj
 英音 dʌl     美音 dʌl  
-词频 5 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 5 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -7961,7 +7961,7 @@ proper or suitable：
 
 # ***dumb*** adj
 英音 dʌm     美音 dʌm  
-词频 1 | 口语 1 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 1 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -7973,7 +7973,7 @@ proper or suitable：
 
 # ***dump*** n
 英音 dʌmp     美音 dʌmp  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -7985,7 +7985,7 @@ proper or suitable：
 
 # ***dump*** vt
 英音 dʌmp     美音 dʌmp  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -7998,7 +7998,7 @@ proper or suitable：
 
 # ***dumpling*** n
 英音 'dʌmplɪŋ     美音 'dʌmplɪŋ  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -8007,7 +8007,7 @@ proper or suitable：
 
 # ***dune*** n
 英音 djuːn     美音 duːn  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -8016,7 +8016,7 @@ proper or suitable：
 
 # ***duration*** n
 英音 dju'reɪʃn     美音 du'reɪʃn  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -8025,7 +8025,7 @@ proper or suitable：
 
 # ***during*** prep
 英音 'djʊərɪŋ     美音 'dʊrɪŋ  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  
+| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -8040,7 +8040,7 @@ proper or suitable：
 
 # ***dusk*** n
 英音 dʌsk     美音 dʌsk  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -8056,7 +8056,7 @@ proper or suitable：
 
 # ***dust*** n
 英音 dʌst     美音 dʌst  
-词频 3 | 口语 1 | 书面 1 | 阅读 0  
+| 词频 3 | 口语 1 | 书面 1 | 阅读 0 |  
 
 英文释义
 ---
@@ -8077,7 +8077,7 @@ proper or suitable：
 
 # ***dust*** vt
 英音 dʌst     美音 dʌst  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -8089,7 +8089,7 @@ proper or suitable：
 
 # ***dustbin*** n
 英音 'dʌstbɪn     美音 'dʌstbɪn  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -8098,7 +8098,7 @@ proper or suitable：
 
 # ***dusty*** adj
 英音 'dʌsti     美音 'dʌsti  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -8110,7 +8110,7 @@ proper or suitable：
 
 # ***duty*** n
 英音 'djuːti     美音 'duːti  
-词频 4 | 口语 2 | 书面 3 | 阅读 0  
+| 词频 4 | 口语 2 | 书面 3 | 阅读 0 |  
 
 英文释义
 ---
@@ -8168,7 +8168,7 @@ proper or suitable：
 
 # ***dwarf*** n
 英音 dwɔːf     美音 dwɔːrf  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -8177,7 +8177,7 @@ proper or suitable：
 
 # ***dye*** v
 英音 daɪ     美音 daɪ  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -8192,7 +8192,7 @@ proper or suitable：
 
 # ***dye*** n
 英音 daɪ     美音 daɪ  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -8201,7 +8201,7 @@ proper or suitable：
 
 # ***dying*** adj
 英音 'daɪɪŋ     美音 'daɪɪŋ  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -8218,7 +8218,7 @@ proper or suitable：
 
 # ***dynamic*** adj
 英音 daɪ'næmɪk     美音 daɪ'næmɪk  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
@@ -8233,7 +8233,7 @@ proper or suitable：
 
 # ***dynasty*** n
 英音 'dɪnəsti     美音 'daɪnəsti  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  
+| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
 
 英文释义
 ---
