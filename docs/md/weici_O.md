@@ -3,50 +3,50 @@
 # ***o'clock*** adv
 英音 ə'klɒk     美音 ə'klɑːk  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **[of the clock的缩写，只用于正点] …点钟**  
 
 
-
 # ***o'clock*** adv
 英音 ə'klɒk     美音 ə'klɑːk  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [of the clock的缩写，只用于正点]
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [of the clock的缩写，只用于正点]
 
 英文释义
 ---
 1. *高义频：* **... 点钟**  
 
 
-
 # ***oar*** n
 英音 ɔː(r)     美音 ɔːr  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **桨；橹**  
 
 
-
 # ***obesity*** n
 英音 əʊ'biːsəti     美音 əʊ'biːsəti  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [U]
 
 英文释义
 ---
 1. *高义频：* **过度肥胖**  
 
 
-
 # ***obey*** v
 英音 ə'beɪ     美音 ə'beɪ  
 词频 3 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **服从；遵守：**  
 反义词 disobey 
-
 > **obey rules / orders**  
 > obey rules / orders  
 > 遵守规则/服从命令
@@ -57,25 +57,23 @@
 
 # ***object*** n
 英音 'ɒbdʒɪkt     美音 'ɑːbdʒekt  
-词频 4 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [C]
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **物体：**  
-
 
 > Signs in the zoo warn people not to feed the animals or throw objects.  
 > 动物园里的告示牌告诫人们不要给动物喂食或向它们扔东西。
 
 2. *低义频：* **对象：**  
 
-
 > **object of study**  
 > an object of study  
 > 研究对象
 
 3. *高义频：* **目标；目的：**  
-
 
 > **object of**  
 > The object of the game is to improve children’s language skills.  
@@ -84,14 +82,13 @@
 4. *低义频：* **[语法] 宾语**  
 
 
-
 # ***object*** v
 英音 əb'dʒekt     美音 əb'dʒekt  
 词频 4 | 口语 2 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **反对；不赞成：**  
-
 
 - #### object to (doing) sth:
 
@@ -107,7 +104,6 @@
 
 2. *低义频：* **提出…作为反对的理由：**  
 
-
 - #### object + that 从句：
 
 > They objected that the schedule was too tight.  
@@ -116,12 +112,12 @@
 
 # ***objection*** n
 英音 əb'dʒekʃn     美音 əb'dʒekʃn  
-词频 1 | 口语 1 | 书面 0 | 阅读 1  用法点拨  [C] & [U]
+词频 1 | 口语 1 | 书面 0 | 阅读 1  
+用法点拨  [C] & [U]
 
 英文释义
 ---
 1. *高义频：* **反对；反对的理由：**  
-
 
 > **made,objections to**  
 > Grey decided to move to the countryside and his wife made no objections to it.  
@@ -130,12 +126,12 @@
 
 # ***objective*** n
 英音 əb'dʒektɪv     美音 əb'dʒektɪv  
-词频 2 | 口语 1 | 书面 1 | 阅读 1  用法点拨  [C]
+词频 2 | 口语 1 | 书面 1 | 阅读 1  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **目的；目标 (goal)：**  
-
 
 > **set / achieve an objective**  
 > set / achieve an objective  
@@ -148,11 +144,11 @@
 # ***objective*** adj
 英音 əb'dʒektɪv     美音 əb'dʒektɪv  
 词频 2 | 口语 1 | 书面 1 | 阅读 1  
+
 英文释义
 ---
 1. *高义频：* **客观的**  
 反义词 subjective： 
-
 > **objective assessment / analysis**  
 > an objective assessment / analysis  
 > 客观的评价/分析
@@ -160,50 +156,50 @@
 
 # ***obligation*** n
 英音 ˌɒblɪ'ɡeɪʃn     美音 ˌɑːblɪ'ɡeɪʃn  
-词频 1 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C] & [U]
+词频 1 | 口语 0 | 书面 1 | 阅读 0  
+用法点拨  [C] & [U]
 
 英文释义
 ---
 1. *高义频：* **义务；职责**  
 
 
-
 # ***obscure*** adj
 英音 əb'skjʊə(r)     美音 əb'skjʊər  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. **难理解的；晦涩的**  
 
 
-
 # ***observation*** n
 英音 ˌɒbzə'veɪʃn     美音 ˌɑːbzər'veɪʃn  
 词频 3 | 口语 0 | 书面 1 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **观察；观测**  
 
 
-
 # ***observatory*** n
 英音 əb'zɜːvətri     美音 əb'zɜːrvətɔːri  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] 
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [C] 
 
 英文释义
 ---
 1. *高义频：* **观象台；天文台；气象台**  
 
 
-
 # ***observe*** v  重难点词汇
 英音 əb'zɜːv     美音 əb'zɜːrv  
 词频 4 | 口语 0 | 书面 2 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **[正式用语] 观察；观测**  
 to watch sb / sth carefully, especially to learn more about them or it (monitor)：
-
 
 - #### observe + wh- 从句:
 
@@ -218,7 +214,6 @@ to watch sb / sth carefully, especially to learn more about them or it (monitor)
 
 2. *高义频：* **[不用于进行时] [正式用语] 察觉到；注意到**  
 to see or notice sb / sth：
-
 
 - #### observe … doing / do sth:
 
@@ -239,9 +234,7 @@ to see or notice sb / sth：
 3. *低义频：* **[正式用语] 说；评论**  
 to say or white what you have noticed about a situation
 
-
 4. *低义频：* **遵守 / 奉行 (法律、习俗等)：**  
-
 
 > observe the law  
 > 遵守法律
@@ -253,7 +246,6 @@ to say or white what you have noticed about a situation
 > 应该制定网络投票的规则并严格遵守。
 
 5. *低义频：* **[正式用语] 举行 (仪式)；庆祝 (节日)：**  
-
 
 > Do you observe Christmas in your country?  
 > 你们国家庆祝圣诞节吗？
@@ -275,30 +267,30 @@ Though having lived abroad for years, many Chinese still ________ (奉行) the t
 # ***obsess*** v
 英音 əb'ses     美音 əb'ses  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. **使着迷**  
-
 
 
 # ***obsess*** vt
 英音 əb'ses     美音 əb'ses  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. **使着迷**  
 
 
-
 # ***obtain*** vt
 英音 əb'teɪn     美音 əb'teɪn  
-词频 3 | 口语 1 | 书面 2 | 阅读 3  用法点拨  [正式用语]
+词频 3 | 口语 1 | 书面 2 | 阅读 3  
+用法点拨  [正式用语]
 
 英文释义
 ---
 1. *高义频：* **获得；得到**  
 to get sth, especially by making an effort (get)：
-
 
 > At Oxford, he obtained his Master’s degree in electrical engineering.  
 > 在牛津大学，他获得了电气工程硕士学位。
@@ -311,10 +303,10 @@ to get sth, especially by making an effort (get)：
 # ***obvious*** adj
 英音 'ɒbviəs     美音 'ɑːbviəs  
 词频 4 | 口语 2 | 书面 2 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **明显的；显而易见的(clear / apparent)：**  
-
 
 > make an obvious mistake  
 > 犯明显的错误
@@ -327,10 +319,10 @@ to get sth, especially by making an effort (get)：
 # ***obviously*** adv
 英音 'ɒbviəsli     美音 'ɑːbviəsli  
 词频 4 | 口语 3 | 书面 2 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **显而易见地 (clearly)：**  
-
 
 > Obviously, the ability to talk is something that marks humans off from animals.  
 > 显然，说话的能力把人类和动物区分开来。
@@ -345,13 +337,13 @@ Most people on this island are recreational fishers, and ________ (obvious), fis
 
 # ***occasion*** n
 英音 ə'keɪʒn     美音 ə'keɪʒn  
-词频 3 | 口语 3 | 书面 2 | 阅读 3  用法点拨  [C]
+词频 3 | 口语 3 | 书面 2 | 阅读 3  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **(某事发生的) 时刻；场合**  
 a particular time when sth happens：
-
 
 > **on this / that occasion**  
 > on this / that occasion  
@@ -368,14 +360,12 @@ a particular time when sth happens：
 2. *高义频：* **[常用单数] 时机；机会**  
 a suitable or favourable time：
 
-
 > **occasion for**  
 > I saw them at the funeral, but it was not a suitable occasion for discussing holiday plans.  
 > 我在葬礼上看到了他们，但那时不是讨论度假计划的时候。
 
 3. *高义频：* **重大 / 特殊活动；盛会**  
 a special event, ceremony, celebration, etc：
-
 
 > **social occasions**  
 > social occasions  
@@ -391,13 +381,11 @@ a special event, ceremony, celebration, etc：
 - #### on occasion(s)
 1. **有时；偶尔：**  
 
-
 > It is said that on occasion Byron swam by moonlight in the lake.  
 > 据说，有时拜伦借着月光在湖里游泳。
 
 - #### on the occasion of
 1. **在…之际：**  
-
 
 > **on the,occasion of**  
 > I traveled back to my hometown on the sad occasion of Dad’s death.  
@@ -414,10 +402,10 @@ I saw Bob play the piano at John’s party and ________ that occasion he was sim
 # ***occasional*** adj
 英音 ə'keɪʒənl     美音 ə'keɪʒənl  
 词频 1 | 口语 1 | 书面 1 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **偶然的；偶尔的：**  
-
 
 > He is only an occasional workman.  
 > 他只是个临时工。
@@ -426,10 +414,10 @@ I saw Bob play the piano at John’s party and ________ that occasion he was sim
 # ***occasionally*** adv
 英音 ə'keɪʒnəli     美音 ə'keɪʒnəli  
 词频 3 | 口语 2 | 书面 1 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **偶尔；间或：**  
-
 
 > Occasionally, I would read a novel that was assigned, but I didn't enjoy this type of reading.  
 > 偶尔我会读（老师）布置的小说，但我不喜欢这种类型的读物。
@@ -445,10 +433,10 @@ I’ve been writing this report ________ (occasional) for the last two weeks, bu
 # ***occupation*** n
 英音 ˌɒkju'peɪʃn     美音 ˌɑːkju'peɪʃn  
 词频 3 | 口语 1 | 书面 1 | 阅读 3  
+
 英文释义
 ---
 1. *低义频：* **[U] 占领；居住：**  
-
 
 > **under occupation**  
 > a country under occupation  
@@ -459,7 +447,6 @@ I’ve been writing this report ________ (occasional) for the last two weeks, bu
 
 2. *高义频：* **[C] 工作；职业：**  
 
-
 > What do you imagine will be your future occupation?  
 > 你认为自己将来会从事什么职业呢？
 
@@ -467,19 +454,17 @@ I’ve been writing this report ________ (occasional) for the last two weeks, bu
 # ***occupied*** adj
 英音 'ɒkjupaɪd     美音 'ɑːkjupaɪd  
 词频 2 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **(地方) 被占领的；被侵占的**  
 反义词 unoccupied 
-
 2. *高义频：* **[不用于名词前] 被占用的；有人使用的：**  
-
 
 > Sorry, this seat is occupied.  
 > 抱歉，这个座位有人了。
 
 3. *高义频：* **[不用于名词前] 忙于...的：**  
-
 
 - #### be occupied with (doing) sth / (in) doing sth:
 
@@ -497,16 +482,15 @@ I’ve been writing this report ________ (occasional) for the last two weeks, bu
 # ***occupy*** vt
 英音 'ɒkjupaɪ     美音 'ɑːkjupaɪ  
 词频 2 | 口语 0 | 书面 2 | 阅读 2  
+
 英文释义
 ---
 1. *高义频：* **占领；占据：**  
-
 
 > During the war, Germany occupied many countries, including France.  
 > 战争期间，德国占领了很多国家，包括法国。
 
 2. *高义频：* **占用 / 占去 (时间、空间) (take up)：**  
-
 
 > His speech occupied only three minutes.  
 > 他的演讲仅用了三分钟。
@@ -516,7 +500,6 @@ I’ve been writing this report ________ (occasional) for the last two weeks, bu
 
 3. *高义频：* **使忙碌：**  
 
-
 > His work occupies him for the whole day.  
 > 工作使他忙了一整天。
 
@@ -524,18 +507,17 @@ I’ve been writing this report ________ (occasional) for the last two weeks, bu
 # ***occur*** vi  重难点词汇
 英音 ə'kɜː(r)     美音 ə'kɜːr  
 词频 4 | 口语 3 | 书面 3 | 阅读 3  
+
 英文释义
 ---
 1. *高义频：* **[正式用语] 发生**  
 to happen：
-
 
 > A great decline in young work force is likely to occur in China.  
 > 年轻劳动力骤减的情况可能会在中国发生。
 
 2. *高义频：* **出现；存在**  
 to exist or be found somewhere：
-
 
 > **occurs,in**  
 > Sugar occurs naturally in fruit.  
@@ -549,7 +531,6 @@ to exist or be found somewhere：
 ---
 - #### occur to sb 
 1. **浮现于脑中；被想起：**  
-
 
 - #### it occurs to sb to do sth:
 
@@ -570,12 +551,10 @@ to exist or be found somewhere：
 occurrence /ə'kʌrəns/ n 
 1. *低义频：* **发生的事情：**  
 
-
 > everyday occurrences  
 > 日常发生的事
 
 2. *低义频：* **发生；出现**  
-
 
 
 真题解析
@@ -587,33 +566,31 @@ It suddenly occurred to him ________ he had left his keys in the office.
 
 # ***ocean*** n
 英音 'əʊʃn     美音 'oʊʃn  
-词频 4 | 口语 1 | 书面 2 | 阅读 0  用法点拨  [C]
+词频 4 | 口语 1 | 书面 2 | 阅读 0  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **海洋**  
 
 
-
 # ***odd*** adj
 英音 ɒd     美音 ɑːd  
 词频 2 | 口语 3 | 书面 1 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **奇怪的；怪异的：**  
-
 
 > an odd way to behave  
 > 古怪的行为
 
 2. *高义频：* **[只用于名词前] 偶尔发生的：**  
 
-
 > odd jobs  
 > 零工
 
 3. *高义频：* **[常用于名词前] (一双或一套中) 不成对的：**  
-
 
 > **odd socks / gloves / shoes**  
 > odd socks / gloves / shoes  
@@ -623,28 +600,25 @@ It suddenly occurred to him ________ he had left his keys in the office.
 # ***of*** prep
 英音 əv,ɒv     美音 əv,ʌv  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **(属于) …的：**  
-
 
 > This is the house of my younger sister.  
 > 这是我妹妹的房子。
 
 2. *高义频：* **由…组成的：**  
 
-
 > a group of three  
 > 3人小组
 
 3. *高义频：* **(关于) …的：**  
 
-
 > a story of adventure  
 > 冒险故事
 
 4. *高义频：* **[表示数量或种类]：**  
-
 
 > three tons of coal  
 > 3吨煤
@@ -654,12 +628,10 @@ It suddenly occurred to him ________ he had left his keys in the office.
 
 5. *高义频：* **由于；因为：**  
 
-
 > be proud of  
 > 为…而自豪
 
 6. *高义频：* **[表示…的部分或全部]：**  
-
 
 > three of us  
 > 我们中的3人
@@ -669,12 +641,10 @@ It suddenly occurred to him ________ he had left his keys in the office.
 
 7. *高义频：* **[表示动宾关系]：**  
 
-
 > the discovery of America  
 > 美洲的发现
 
 8. *高义频：* **来自…的；由…所著的：**  
-
 
 > the people of China  
 > 中国人民
@@ -684,12 +654,10 @@ It suddenly occurred to him ________ he had left his keys in the office.
 
 9. *高义频：* **[表示同位]：**  
 
-
 > the city of New York  
 > 纽约市
 
 10. *高义频：* **[表示具有某种性质、状况等]：**  
-
 
 > news of importance  
 > 重大消息
@@ -709,10 +677,10 @@ ________ all the animals I’ve ever had, these two dogs are the most sensitive 
 # ***off*** adv
 英音 ɒf     美音 ɔːf  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **离开：**  
-
 
 > go / run off  
 > 走/跑开
@@ -722,7 +690,6 @@ ________ all the animals I’ve ever had, these two dogs are the most sensitive 
 
 2. *高义频：* **离；距：**  
 
-
 > The city is 20 miles off.  
 > 那座城市在20英里以外。
 
@@ -730,7 +697,6 @@ ________ all the animals I’ve ever had, these two dogs are the most sensitive 
 > 离五一劳动节只有一个星期了。
 
 3. *高义频：* **脱离掉；去掉；减掉：**  
-
 
 > take 10 percent off  
 > 削减10%
@@ -740,12 +706,10 @@ ________ all the animals I’ve ever had, these two dogs are the most sensitive 
 
 4. *高义频：* **不工作；休息：**  
 
-
 > take a day off  
 > 休假一天
 
 5. *高义频：* **停止；延期：**  
-
 
 > turn off the TV  
 > 关掉电视
@@ -764,16 +728,15 @@ She drove so fast at the turn that the car almost went _________ the road.
 # ***off*** prep
 英音 ɒf     美音 ɔːf  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **从…离开；从…移开：**  
-
 
 > Can you get the lid off this box?  
 > 你能把这个盒子的盖子打开吗？
 
 2. *高义频：* **离；距；偏离：**  
-
 
 > The ship sank 10 miles off the coast.  
 > 那艘船在离海岸10英里处沉没了。
@@ -783,12 +746,10 @@ She drove so fast at the turn that the car almost went _________ the road.
 
 3. *高义频：* **(因病等) 不工作；不上学：**  
 
-
 > I got off work at 10.  
 > 我10点钟下班。
 
 4. *高义频：* **从…减掉：**  
-
 
 > 50 percent off the price  
 > 5折的价格
@@ -804,17 +765,16 @@ The Well Hotel stands in a quiet place ________ the main road at the far end of 
 # ***offence*** n
 英音 ə'fens     美音 ə'fens  
 词频 2 | 口语 1 | 书面 2 | 阅读 1  
+
 英文释义
 ---
 1. *高义频：* **[C] 违法行为；罪行 (crime)：**  
-
 
 > **offence against**  
 > commit an offence against social order  
 > 犯妨害社会秩序罪
 
 2. *高义频：* **[U] 冒犯；侮辱：**  
-
 
 > **meant no offense**  
 > Don’t be upset by what he said; he meant no offense.  
@@ -824,10 +784,10 @@ The Well Hotel stands in a quiet place ________ the main road at the far end of 
 # ***offend*** v
 英音 ə'fend     美音 ə'fend  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **得罪；冒犯；令人不适：**  
-
 
 > Please follow your project supervisor’s instructions, or you’ll offend him.  
 > 要听从你项目主管的指示，否则你会使他生气。
@@ -847,17 +807,16 @@ D.bother
 # ***offense*** n
 英音 ə'fens     美音 ə'fens  
 词频 2 | 口语 1 | 书面 2 | 阅读 1  
+
 英文释义
 ---
 1. *高义频：* **[C] 违法行为；罪行 (crime)：**  
-
 
 > **offence against**  
 > commit an offence against social order  
 > 犯妨害社会秩序罪
 
 2. *高义频：* **[U] 冒犯；侮辱：**  
-
 
 > **meant no offense**  
 > Don’t be upset by what he said; he meant no offense.  
@@ -867,10 +826,10 @@ D.bother
 # ***offensive*** adj
 英音 ə'fensɪv     美音 ə'fensɪv  
 词频 1 | 口语 0 | 书面 0 | 阅读 1  
+
 英文释义
 ---
 1. *高义频：* **令人讨厌的；无礼的：**  
-
 
 > offensive words  
 > 无礼的话
@@ -879,11 +838,11 @@ D.bother
 # ***offer*** vt  重难点词汇
 英音 'ɒfə(r)     美音 'ɔːfər  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **(主动) 提出；给予**  
 to say that you are willing to do sth for sb or give sth to sb：
-
 
 - #### offer sb sth / offer sth to sb:
 
@@ -905,7 +864,6 @@ to say that you are willing to do sth for sb or give sth to sb：
 2. *高义频：* **提供 (东西 / 机会)；供应**  
 to make sth available or to provide the opportunity for sth：
 
-
 > — Why did you leave that position?  
 > 你为什么要离职？
 
@@ -919,7 +877,6 @@ to make sth available or to provide the opportunity for sth：
 ### 辨析 provide, offer, supply
 三者都有“供给、提供”的意思，但用法不同。
 3. *高义频：* **出 (价)；出售：**  
-
 
 - #### offer (sb) sth for sth:
 
@@ -937,10 +894,10 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 # ***offer*** n  重难点词汇
 英音 'ɒfə(r)     美音 'ɔːfər  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **提供 (物)；提议：**  
-
 
 > **accept / refuse an offer**  
 > accept / refuse an offer  
@@ -956,13 +913,11 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 
 2. *高义频：* **开价；报价：**  
 
-
 > **make offers**  
 > He asked the crowd in the auction-room to make offers, or “bids” for the items on sale.  
 > 他让拍卖厅里的人开价或竞拍在售物品。
 
 3. *高义频：* **减价；特价：**  
-
 
 > **free offers,special offer**  
 > free offers / a special offer   
@@ -973,7 +928,6 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 ---
 - #### on offer
 1. **削价 / 特价出售的：**  
-
 
 > This computer was on special offer.  
 > 这款电脑正特价出售。
@@ -993,28 +947,28 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 # ***offer*** vi  重难点词汇
 英音 'ɒfə(r)     美音 'ɔːfər  
 词频 5 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. **(主动) 提出 (愿意做某事)**  
 
 
-
 # ***offering*** n
 英音 'ɒfərɪŋ     美音 'ɔːfərɪŋ  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. **供品, 祭品**  
 
 
-
 # ***office*** n
 英音 'ɒfɪs     美音 'ɔːfɪs  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **[C] 办公室：**  
-
 
 > **at the office**  
 > at the office   
@@ -1022,12 +976,10 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 
 2. *高义频：* **[C] 办事处；营业处；事务所：**  
 
-
 > a booking / post office  
 > 售票处/邮局
 
 3. *高义频：* **[C] & [U] (尤指政府中的) 重要职位：**  
-
 
 > **take office**  
 > leave / take office  
@@ -1040,15 +992,14 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 1. **办公时间；营业时间**  
 
 
-
 # ***officer*** n
 英音 'ɒfɪsə(r)     美音 'ɔːfɪsər  
-词频 4 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [C]
+词频 4 | 口语 3 | 书面 3 | 阅读 0  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **军官；官员；警官：**  
-
 
 > **police officer**  
 > a customs / police officer  
@@ -1058,10 +1009,10 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 # ***official*** adj
 英音 ə'fɪʃl     美音 ə'fɪʃl  
 词频 4 | 口语 1 | 书面 2 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **[只用于名词前] 公职的；公务的：**  
-
 
 > official responsibilities   
 > 公务
@@ -1072,7 +1023,6 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 
 2. *高义频：* **[常用于名词前] 官方的；正式的：**  
 
-
 > an official announcement  
 > 官方公告
 
@@ -1082,12 +1032,12 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 
 # ***official*** n
 英音 ə'fɪʃl     美音 ə'fɪʃl  
-词频 4 | 口语 1 | 书面 3 | 阅读 0  用法点拨  [C]
+词频 4 | 口语 1 | 书面 3 | 阅读 0  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **官员；高级职员：**  
-
 
 > a government official   
 > 政府官员
@@ -1099,19 +1049,19 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 # ***official-looking*** adj
 英音 əˌfɪʃl'lʊkɪŋ     美音 əˌfɪʃl'lʊkɪŋ  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. **貌似官方的**  
 
 
-
 # ***officially*** adv
 英音 ə'fɪʃəli     美音 ə'fɪʃəli  
 词频 2 | 口语 0 | 书面 0 | 阅读 2  
+
 英文释义
 ---
 1. *高义频：* **正式地；官方地：**  
-
 
 > Shooting became an Olympic event officially in 1896.  
 > 射击于1896年正式成为奥运会比赛项目。
@@ -1127,10 +1077,10 @@ The title will be ________ (official) given to me at a ceremony in London.
 # ***offshore*** adj
 英音 ˌɒf'ʃɔː(r)     美音 ˌɒf'ʃɔːr  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **向海的；近海的：**  
-
 
 > an offshore island   
 > 近海岛屿
@@ -1139,10 +1089,10 @@ The title will be ________ (official) given to me at a ceremony in London.
 # ***offshore*** adv
 英音 ˌɒf'ʃɔː(r)     美音 ˌɒf'ʃɔːr  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **向海；在近海：**  
-
 
 > The storm moved offshore.   
 > 风暴向近海移动。
@@ -1151,10 +1101,10 @@ The title will be ________ (official) given to me at a ceremony in London.
 # ***often*** adv
 英音 'ɒfn,'ɒftən     美音 'ɔːfn,'ɔftən  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **经常；通常 (frequently)：**  
-
 
 > **How often**  
 > How often do you listen to live music?  
@@ -1171,7 +1121,6 @@ The title will be ________ (official) given to me at a ceremony in London.
 1. **通常；往往**  
 
 
-
 真题解析
 ---
 ##### 题目  
@@ -1183,56 +1132,55 @@ The title will be ________ (official) given to me at a ceremony in London.
 # ***oh*** int
 英音 əʊ     美音 oʊ  
 词频 5 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **[表示惊讶、快乐、悲哀、痛苦、责难、招呼等] 哦；噢；啊；呀；哎**  
 
 
-
 # ***oil*** n
 英音 ɔɪl     美音 ɔɪl  
-词频 4 | 口语 2 | 书面 3 | 阅读 0  用法点拨  [U]
+词频 4 | 口语 2 | 书面 3 | 阅读 0  
+用法点拨  [U]
 
 英文释义
 ---
 1. *高义频：* **油；石油**  
 
 
-
 # ***oilfield*** n
 英音 'ɔɪlfiːld     美音 'ɔɪlfiːld  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **油田**  
 
 
-
 # ***ointment*** n
 英音 'ɔɪntmənt     美音 'ɔɪntmənt  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [C] & [U]
 
 英文释义
 ---
 1. *高义频：* **药膏；油膏**  
 
 
-
 # ***old*** adj
 英音 əʊld     美音 oʊld  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  (older / elder, oldest / eldest)
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
+用法点拨  (older / elder, oldest / eldest)
 
 英文释义
 ---
 1. *高义频：* **…岁的：**  
 
-
 > The boy is eight years old.  
 > 这个男孩8岁了。
 
 2. *高义频：* **年老的【反:young】；陈旧的【反:new】：**  
-
 
 > **grow old**  
 > grow old  
@@ -1245,12 +1193,10 @@ The title will be ________ (official) given to me at a ceremony in London.
 两个词均为old的比较级，但older更常用。
 3. *高义频：* **结识久的：**  
 
-
 > an old friend  
 > 老朋友
 
 4. *高义频：* **以前的；原来的：**  
-
 
 > the good old days  
 > 往昔的美好时光
@@ -1259,39 +1205,39 @@ The title will be ________ (official) given to me at a ceremony in London.
 # ***old-fashioned*** adj
 英音 'əuld'fæʃənd     美音 'əuld'fæʃənd  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **老式的；过时的；(人) 守旧的**  
 
 
-
 # ***olive*** n
 英音 'ɒlɪv     美音 'ɑːlɪv  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [C] & [U]
 
 英文释义
 ---
 1. *高义频：* **橄榄树；橄榄叶；橄榄枝；橄榄色**  
 
 
-
 # ***omit*** vt
 英音 ə'mɪt     美音 ə'mɪt  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  (omitted, omitted)
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  (omitted, omitted)
 
 英文释义
 ---
 1. *高义频：* **删除；忽略：**  
 
 
-
 # ***on*** prep
 英音 ɒn     美音 ɑːn  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **在…上：**  
-
 
 > Put your book on the desk.   
 > 把你的书放在课桌上。
@@ -1300,30 +1246,25 @@ The title will be ________ (official) given to me at a ceremony in London.
 三者都含有“在…上”之意。
 2. *高义频：* **在…旁；靠近：**  
 
-
 > He sat on my right.  
 > 他坐在我右边。
 
 3. *高义频：* **[表示在特定的日期、时间、机会等] 在…的时候：**  
-
 
 > on Sunday  
 > 在星期天
 
 4. *高义频：* **在…后立即：**  
 
-
 > On arriving home I discovered they had gone.  
 > 我一到家就发现他们已经离开了。
 
 5. *高义频：* **关于：**  
 
-
 > a report on the international situation  
 > 关于国际形势的报告
 
 6. *高义频：* **通过；借助于；凭…；靠…：**  
-
 
 > talk on the phone  
 > 在电话里交谈
@@ -1336,18 +1277,15 @@ The title will be ________ (official) given to me at a ceremony in London.
 
 7. *低义频：* **带在...身上；有：**  
 
-
 > Have you got any money on you?  
 > 你带钱了没有？
 
 8. *高义频：* **在...里：**  
 
-
 > work on a farm  
 > 在农场工作
 
 9. *高义频：* **是…的成员；在…供职：**  
-
 
 > She is on the city basketball team.  
 > 她是市篮球队的队员。
@@ -1357,7 +1295,6 @@ The title will be ________ (official) given to me at a ceremony in London.
 
 10. *高义频：* **[与某些名词或形容词连用，表示影响到]：**  
 
-
 > a ban on smoking  
 > 对吸烟的禁令
 
@@ -1365,7 +1302,6 @@ The title will be ________ (official) given to me at a ceremony in London.
 > 他对青年人的影响
 
 11. *高义频：* **[用于说明活动或状态]：**  
-
 
 > on business / holiday  
 > 在工作/度假
@@ -1385,28 +1321,25 @@ He invited me to a dance after the show ________ Christmas Eve.
 # ***on*** adv
 英音 ɒn     美音 ɑːn  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **在上面：**  
-
 
 > Make sure the lid is on.  
 > 要注意盖上盖子。
 
 2. *高义频：* **穿着；戴着：**  
 
-
 > Put your coat on.  
 > 把外衣穿上。
 
 3. *高义频：* **继续地；向前地：**  
 
-
 > We walked on without speaking.  
 > 我们默默地向前走。
 
 4. *高义频：* **(电、水等) 通着；开着：**  
-
 
 > The light is still on.  
 > 灯还亮着。
@@ -1415,7 +1348,6 @@ He invited me to a dance after the show ________ Christmas Eve.
 > 别让水龙头开着。
 
 5. *高义频：* **进行中；在上演：**  
-
 
 > What’s going on?  
 > 出什么事了？
@@ -1427,10 +1359,10 @@ He invited me to a dance after the show ________ Christmas Eve.
 # ***once*** adv  重难点词汇
 英音 wʌns     美音 wʌns  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **一次；一回：**  
-
 
 > **once a week**  
 > once a week  
@@ -1441,7 +1373,6 @@ He invited me to a dance after the show ________ Christmas Eve.
 
 2. *高义频：* **曾经；从前：**  
 
-
 > I once lived in London.  
 > 我曾经在伦敦住过。
 
@@ -1451,13 +1382,11 @@ He invited me to a dance after the show ________ Christmas Eve.
 - #### all at once
 1. **突然：**  
 
-
 > All at once the answer came to him.  
 > 他突然想到了答案。
 
 - #### at once
 1. **立刻；马上：**  
-
 
 > I have to go home at once.  
 > 我必须马上回家。
@@ -1465,13 +1394,11 @@ He invited me to a dance after the show ________ Christmas Eve.
 - #### (every) once in a while
 1. **偶尔；间或：**  
 
-
 > He was busy writing a story, only stopping once in a while to smoke a cigarette.  
 > 他忙着写故事，只是偶尔停下来抽根烟。
 
 - #### (just) for once / just this once
 1. **(与通常情况对比而言) 仅此一次：**  
-
 
 > Just for once let me make my own decision.  
 > 这一次就让我自己做决定吧。
@@ -1482,7 +1409,6 @@ He invited me to a dance after the show ________ Christmas Eve.
 - #### never / not once
 1. **从未：**  
 
-
 > The old couple have been married for 40 years and never once have they quarreled with each other.  
 > 那对老夫妇已经结婚40年了，彼此从未吵过架。
 
@@ -1490,20 +1416,17 @@ never / not once位于句首时，句子用部分倒装语序。
 - #### once again / once more
 1. **再一次：**  
 
-
 > Tell me just once again.  
 > 你就再告诉我一次吧。
 
 - #### once and for all
 1. **彻底地；一劳永逸地：**  
 
-
 > Let’s settle this matter once and for all.  
 > 我们把这个问题彻底解决了吧。
 
 - #### once or twice
 1. **一两次；几次：**  
-
 
 > I have been there once or twice.  
 > 我去过那儿一两次。
@@ -1519,10 +1442,10 @@ Mary and I see each other ________ (偶尔), but not as often as we used to.
 # ***once*** conj  重难点词汇
 英音 wʌns     美音 wʌns  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **一旦… (就…)：**  
-
 
 > Once you form a bad habit, it’s very difficult to get rid of it.  
 > 一旦养成了坏习惯，你就很难改掉它。
@@ -1538,13 +1461,12 @@ ________ (一旦) the damage is done, it will take many years for the farmland t
 # ***one*** adj
 英音 wʌn     美音 wʌn  
 词频 5 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **一个的；一人的**  
 
-
 2. *高义频：* **[与another 和 (the) other 相对] 一方的；这一个的：**  
-
 
 > from one end to the other  
 > 从一端到另一端
@@ -1554,12 +1476,10 @@ ________ (一旦) the damage is done, it will take many years for the farmland t
 
 3. *高义频：* **唯一的；仅有一个的：**  
 
-
 > The one thing you have to do is to apologize to him.  
 > 你唯一要做的就是向他道歉。
 
 4. *高义频：* **某一的；某个时候的：**  
-
 
 > one beautiful afternoon  
 > 某个晴朗的午后
@@ -1568,10 +1488,10 @@ ________ (一旦) the damage is done, it will take many years for the farmland t
 # ***one*** pron
 英音 wʌn     美音 wʌn  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **一个 (人 / 事物)：**  
-
 
 > teach one-on-one / one-to-one  
 > 一对一教学
@@ -1603,7 +1523,6 @@ ________ (一旦) the damage is done, it will take many years for the farmland t
 
 2. *高义频：* **任何人：**  
 
-
 > To be happy, one must keep busy and think about positive things.  
 > 想要快乐，就必须忙碌起来并且想想积极的事情。
 
@@ -1613,20 +1532,17 @@ ________ (一旦) the damage is done, it will take many years for the farmland t
 - #### one after another / the other
 1. **一个接一个地； 接连地：**  
 
-
 > One after another, people stood up and shared their own stories.  
 > 人们一个接一个地站了起来，分享自己的故事。
 
 - #### one another
 1. **[两者或多者之间] 相互；彼此：**  
 
-
 > They gave presents to one another at the graduation ceremony.  
 > 毕业典礼上他们互赠礼物。
 
 - #### one by one
 1. **逐个地；依次地：**  
-
 
 > As the bell rang, the students went out one by one.  
 > 铃声响了，学生们鱼贯而出。
@@ -1653,12 +1569,12 @@ Charles was alone at home, with no ________ looking after him.
 
 # ***oneself*** pron
 英音 wʌn'self     美音 wʌn'self  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [正式用语]
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [正式用语]
 
 英文释义
 ---
 1. *高义频：* **[反身代词] 自己；自身：**  
-
 
 > teach oneself  
 > 自学
@@ -1667,7 +1583,6 @@ Charles was alone at home, with no ________ looking after him.
 > 大家必须问一问自己锻炼的目的是什么。
 
 2. *低义频：* **[用于加强语气] 亲自：**  
-
 
 > One likes to do it oneself.  
 > 人都喜欢亲自去做。
@@ -1678,55 +1593,52 @@ Charles was alone at home, with no ________ looking after him.
 - #### be oneself
 1. **(人) 处于正常状态：**  
 
-
 - #### (all) by oneself
 1. **独自地；独立地**  
 
 
-
 # ***onion*** n
 英音 'ʌnjən     美音 'ʌnjən  
-词频 1 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
+词频 1 | 口语 1 | 书面 0 | 阅读 0  
+用法点拨  [C] & [U]
 
 英文释义
 ---
 1. *高义频：* **洋葱；葱头**  
 
 
-
 # ***online*** adj
 英音 ˌɒn'laɪn     美音 ˌɑːn'laɪn  
 词频 5 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **在线的；联网的**  
 
 
-
 # ***online*** adv
 英音 ˌɒn'laɪn     美音 ˌɑːn'laɪn  
 词频 5 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **在网上**  
 
 
-
 # ***only*** adj  重难点词汇
 英音 'əʊnli     美音 'oʊnli  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [只用于名词前]
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
+用法点拨  [只用于名词前]
 
 英文释义
 ---
 1. *高义频：* **唯一的；仅有的：**  
-
 
 > **an only child**  
 > an only child  
 > 独生子女
 
 2. *高义频：* **最适合的；最佳的：**  
-
 
 > She’s the only person for the job.  
 > 她是这项工作的最佳人选。
@@ -1735,10 +1647,10 @@ Charles was alone at home, with no ________ looking after him.
 # ***only*** adv  重难点词汇
 英音 'əʊnli     美音 'oʊnli  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **只有；仅仅；才：**  
-
 
 > Don’t be defending. I was only joking.  
 > 别紧张，我只是在开玩笑。
@@ -1755,7 +1667,6 @@ Charles was alone at home, with no ________ looking after him.
 
 2. *低义频：* **反而；结果却；不料：**  
 
-
 - #### only to do:
 
 > After school we went to the reading-room to do some reading, only to be told that it was being decorated.  
@@ -1767,13 +1678,11 @@ Charles was alone at home, with no ________ looking after him.
 - #### if only
 1. **[与虚拟语气连用] 但愿；如果…就好了：**  
 
-
 > If only I knew her name.  
 > 我要是知道她的名字就好了。
 
 - #### not only ... but (also)
 1. **不但…而且：**  
-
 
 not only … but (also) 可以连接并列成分。连接主语时，谓语与靠近它的主语一致。
 > Not only the students but also their teacher is enjoying the film.  
@@ -1802,10 +1711,10 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
 # ***onto*** prep
 英音 'ɒntə,'ɒntu     美音 'ɑːntə,'ɑːntu  
 词频 4 | 口语 3 | 书面 2 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **到...之上；向...之上 (on to)：**  
-
 
 > Don’t jump onto the bus while it’s moving.  
 > 公共汽车在开动时别急着上车。
@@ -1817,29 +1726,29 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
 # ***onwards*** adv
 英音 onwards     美音 'ɒnwədz  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **(=onward) 向前地；前进地**  
 
 
-
 # ***oolong*** n
 英音 'uːlɒŋ     美音 'uːlɒŋ  
 词频 0 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. **乌龙茶**  
 
 
-
 # ***open*** adj
 英音 'əʊpən     美音 'oʊpən  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **开 (着) 的；打开的**  
 反义词 closed： 
-
 > Leave the door open.  
 > 让门开着。
 
@@ -1849,12 +1758,10 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
 
 2. *高义频：* **[通常不用于名词前] 营业的；开门的**  
 反义词 closed: 
-
 > The new store will be open in the spring.  
 > 新商店将在春季开业。
 
 3. *高义频：* **公开的；开放的：**  
-
 
 - #### (be) open to sb:
 
@@ -1871,13 +1778,11 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
 
 4. *高义频：* **坦诚的；坦率的：**  
 
-
 > **open with**  
 > She is always open with her parents.  
 > 她与父母总是无话不谈。
 
 5. *高义频：* **[只用于名词前] 无遮盖的；开阔的：**  
-
 
 > **the open air**  
 > in the open air  
@@ -1893,15 +1798,14 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
 1. **对…不怀成见 / 对…不先入为主**  
 
 
-
 # ***open*** v
 英音 'əʊpən     美音 'oʊpən  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **(打) 开；张开；睁开 (眼睛)**  
 反义词 close： 
-
 > open a door / window / file  
 > 开门 / 开窗 / 打开文档
 
@@ -1917,7 +1821,6 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
 
 2. *高义频：* **开创；开设：**  
 
-
 > open a new business  
 > 开办新公司
 
@@ -1927,12 +1830,10 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
 
 3. *高义频：* **使通行；开放**  
 反义词 close ： 
-
 > The road will be opened again in a few hours.  
 > 道路在几小时内就会重新开放。
 
 4. *高义频：* **开业；开幕；(向…) 开放【反:close】；开始公演 / 公映：**  
-
 
 > In 1863 the first underground passenger railway in the world opened in London.  
 > 世界上第一条地铁客运线于1863年在伦敦开始运营。
@@ -1945,7 +1846,6 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
 
 5. *高义频：* **(花) 开放：**  
 
-
 > Cherry blossoms were opening everywhere over the country.  
 > 全国各地的樱花都开了。
 
@@ -1955,10 +1855,8 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
 - #### open sb’s eyes to sth
 1. **使某人长见识 / 开眼界 / 认清 (事实)**  
 
-
 - #### open up
 1. **打开；开辟；直抒胸怀：**  
-
 
 > Einstein’s theories opened up a new area of study.  
 > 爱因斯坦的理论开创了一个新的研究领域。
@@ -1970,12 +1868,12 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
 
 # ***open*** n
 英音 'əʊpən     美音 'oʊpən  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [与the连用]
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
+用法点拨  [与the连用]
 
 英文释义
 ---
 1. *高义频：* **户外；野外；公开：**  
-
 
 > **in the open**  
 > Children need to play out in the open.  
@@ -1996,20 +1894,20 @@ openly /'əʊpənli/ adv
 # ***open-mouthed*** adj
 
 词频 0 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. **目瞪口呆的；惊愕得张大嘴的**  
 
 
-
 # ***opener*** n
 英音 'əʊpnə(r)     美音 'oʊpnər  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **开启的工具：**  
-
 
 > **bottle opener**  
 > a bottle opener  
@@ -2019,22 +1917,20 @@ openly /'əʊpənli/ adv
 # ***opening*** n
 英音 'əʊpnɪŋ     美音 'oʊpnɪŋ  
 词频 4 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **[C] 孔；洞；缺口：**  
-
 
 > a narrow opening in the fence  
 > 篱笆上的小缺口
 
 2. *高义频：* **[C] [常用单数] 开头；开端：**  
 
-
 > The movie has an exciting opening.  
 > 电影的开头非常令人兴奋。
 
 3. *高义频：* **[C] & [U] 开；开放：**  
-
 
 > **opening of**  
 > the opening of a shop  
@@ -2047,28 +1943,27 @@ openly /'əʊpənli/ adv
 4. *低义频：* **空缺**  
 
 
-
 # ***opening*** adj
 英音 'əʊpnɪŋ     美音 'oʊpnɪŋ  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [只用于名词前]
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [只用于名词前]
 
 英文释义
 ---
 1. *高义频：* **开头的；开始的**  
 反义词 closing ： 
-
 > the opening ceremony  
 > 开幕式
 
 
 # ***opera*** n
 英音 'ɒpər     美音 'ɑːpər  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [C] & [U]
 
 英文释义
 ---
 1. *高义频：* **歌剧；歌剧院：**  
-
 
 > **go to the opera**  
 > go to the opera  
@@ -2084,15 +1979,14 @@ openly /'əʊpənli/ adv
 1. **肥皂剧**  
 
 
-
 # ***operate*** v  重难点词汇
 英音 'ɒpəreɪt     美音 'ɑːpəreɪt  
 词频 4 | 口语 2 | 书面 2 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **(使) 运行；(使) 运转**  
 to work or make sth work; function：
-
 
 > Subway trains operate 24 hours a day in New York.  
 > 纽约的地铁24小时不间断运行。
@@ -2103,7 +1997,6 @@ to work or make sth work; function：
 2. *高义频：* **操作；使用：**  
 to use and control a machine or equipment：
 
-
 > operate a computer  
 > 操作计算机
 
@@ -2113,19 +2006,16 @@ to use and control a machine or equipment：
 3. *高义频：* **起作用；奏效**  
 to act or have an effect：
 
-
 > The medicine began to operate at once.  
 > 药效立竿见影。
 
 4. *高义频：* **动手术；开刀：**  
-
 
 > **operate on**  
 > Having seen the X-ray, the doctor decided to operate on the patient.  
 > 看过X光片后，医生决定为病人做手术。
 
 5. *低义频：* **经营；管理：**  
-
 
 > operating costs  
 > 经营成本
@@ -2141,10 +2031,10 @@ operator  n
 # ***operation*** n
 英音 ˌɒpə'reɪʃn     美音 ˌɑːpə'reɪʃn  
 词频 4 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **[U] 运转；运行；操作：**  
-
 
 > **in operation**  
 > There are three lifts in operation.  
@@ -2154,7 +2044,6 @@ operator  n
 > 在使用这台机器之前你必须阅读操作说明书。
 
 2. *高义频：* **[C] & [U] 经营；运营：**  
-
 
 > meetings concerning all the aspects of hotel operation  
 > 关于酒店运营各方面的会议
@@ -2166,12 +2055,10 @@ operator  n
 3. *低义频：* **[C] 企业；团体：**  
 a business company：
 
-
 > a huge multinational electronics operation  
 > 一家大型跨国电子公司
 
 4. *高义频：* **[C] 手术：**  
-
 
 > **operation on**  
 > He’s recovering from an operation on his shoulder.  
@@ -2184,7 +2071,6 @@ a business company：
 5. *高义频：* **[C] 行动：**  
 an activity, often highly organized, that involves many people, actions, days, etc.：
 
-
 > UN rescue operations  
 > 联合国营救行动
 
@@ -2192,7 +2078,6 @@ an activity, often highly organized, that involves many people, actions, days, e
 > 警方发起了一场大规模的缉毒行动。
 
 6. *高义频：* **[C] (计算机的) 运算；操作：**  
-
 
 > perform various mathematical operations  
 > 进行各种数学运算
@@ -2203,7 +2088,6 @@ an activity, often highly organized, that involves many people, actions, days, e
 - #### put ... into operation
 1. **实施；使…运转；启用：**  
 
-
 > It’s time to put our plan into operation.  
 > 现在应该实施我们的计划了。
 
@@ -2211,30 +2095,30 @@ an activity, often highly organized, that involves many people, actions, days, e
 # ***operational*** adj
 英音 ˌɒpə'reɪʃənl     美音 ˌɑːpə'reɪʃənl  
 词频 2 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. **工作着的；即可使用的**  
 
 
-
 # ***operator*** n
 英音 'ɒpəreɪtə(r)     美音 'ɑːpəreɪtər  
-词频 2 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
+词频 2 | 口语 0 | 书面 1 | 阅读 0  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **话务员；操作员；经营者**  
 
 
-
 # ***opinion*** n  重难点词汇
 英音 ə'pɪnjən     美音 ə'pɪnjən  
 词频 5 | 口语 3 | 书面 2 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **[C] 意见；看法；主张 (view)：**  
 what you think about sb / sth (view)：
-
 
 > **have,an opinion**  
 > have / hold an opinion  
@@ -2263,7 +2147,6 @@ what you think about sb / sth (view)：
 2. *高义频：* **[U] (群体的) 观点；舆论：**  
 what people in general think about sth：
 
-
 > legal / medical opinion  
 > 法律/医学界的观点
 
@@ -2272,7 +2155,6 @@ what people in general think about sth：
 > 公众舆论支持改革。
 
 3. *高义频：* **[C] 专家意见；专业意见：**  
-
 
 > **opinion on**  
 > get a lawyer’s opinion on the question  
@@ -2289,25 +2171,24 @@ what people in general think about sth：
 1. **对…评价高 / 低 / 好 / 差**  
 
 
-
 # ***opponent*** n
 英音 ə'pəʊnənt     美音 ə'poʊnənt  
-词频 2 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
+词频 2 | 口语 0 | 书面 1 | 阅读 0  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **对手；反对者**  
 
 
-
 # ***opportunity*** n
 英音 ˌɒpə'tjuːnəti     美音 ˌɑːpər'tuːnəti  
-词频 4 | 口语 3 | 书面 3 | 阅读 3  用法点拨  [C] & [U]
+词频 4 | 口语 3 | 书面 3 | 阅读 3  
+用法点拨  [C] & [U]
 
 英文释义
 ---
 1. *高义频：* **机会；时机 (chance)：**  
-
 
 > **a,rare,golden,perfect opportunity**  
 > (a) rare / golden / perfect opportunity  
@@ -2341,10 +2222,10 @@ what people in general think about sth：
 # ***oppose*** vt
 英音 ə'pəʊz     美音 ə'poʊz  
 词频 2 | 口语 1 | 书面 1 | 阅读 2  
+
 英文释义
 ---
 1. *高义频：* **反对；抵制：**  
-
 
 - #### oppose doing sth:
 
@@ -2365,7 +2246,6 @@ opposed /ə'pəʊzd/ adj [不用于名词前]
 - #### as opposed to
 1. **而；而非：**  
 
-
 > Two hundred people attended the meeting, as opposed to 300 the previous year.  
 > 200人出席了这次会议，而前一年是300人。
 
@@ -2377,36 +2257,35 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 # ***opposed*** adj
 英音 ə'pəʊzd     美音 ə'poʊzd  
 词频 2 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. **反对的；对立的**  
 
 
-
 # ***opposing*** adj
 英音 ə'pəʊzɪŋ     美音 ə'poʊzɪŋ  
 词频 0 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. **（观点、意见等）相反的，相对立的**  
 
 
-
 # ***opposite*** adj  重难点词汇
 英音 'ɒpəzɪt     美音 'ɑːpəzət  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [无比较级]
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [无比较级]
 
 英文释义
 ---
 1. *高义频：* **[只用于名词前] 相对的；另一边的：**  
-
 
 > **at opposite ends of the country**  
 > His parents work at opposite ends of the country, (= a long distance apart) so they only see each other at weekends.  
 > 他的父母在这个国家相距很远的两个地方工作，因此只能周末见面。
 
 2. *高义频：* **相反的；完全不同的：**  
-
 
 > the opposite sex  
 > 异性
@@ -2430,10 +2309,10 @@ David turned and walked off in the ________ (相反) direction.
 # ***opposite*** prep  重难点词汇
 英音 'ɒpəzɪt     美音 'ɑːpəzət  
 词频 4 | 口语 2 | 书面 2 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **在…的对面：**  
-
 
 > The hotel is only 5 blocks away opposite the bank.  
 > 那家宾馆离这里只有5个街区，在银行的对面。
@@ -2441,12 +2320,12 @@ David turned and walked off in the ________ (相反) direction.
 
 # ***opposite*** n  重难点词汇
 英音 'ɒpəzɪt     美音 'ɑːpəzət  
-词频 4 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] [常用the opposite]
+词频 4 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [C] [常用the opposite]
 
 英文释义
 ---
 1. *高义频：* **反义词；对立面；对立物：**  
-
 
 > **the opposite of**  
 > Long is the opposite of short.  
@@ -2459,12 +2338,12 @@ David turned and walked off in the ________ (相反) direction.
 
 # ***opposition*** n
 英音 ˌɒpə'zɪʃn     美音 ˌɑːpə'zɪʃn  
-词频 1 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [U]
+词频 1 | 口语 1 | 书面 1 | 阅读 0  
+用法点拨  [U]
 
 英文释义
 ---
 1. *高义频：* **反对；相反；敌对：**  
-
 
 > **opposition to**  
 > There was a great deal of opposition to the decision.  
@@ -2473,21 +2352,21 @@ David turned and walked off in the ________ (相反) direction.
 
 # ***optimism*** n
 英音 'ɒptɪmɪzəm     美音 'ɑːptɪmɪzəm  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [U]
 
 英文释义
 ---
 1. *高义频：* **乐观；乐观主义**  
 
 
-
 # ***optimistic*** adj
 英音 ˌɒptɪ'mɪstɪk     美音 ˌɑːptɪ'mɪstɪk  
 词频 2 | 口语 0 | 书面 0 | 阅读 1  
+
 英文释义
 ---
 1. *高义频：* **乐观的；抱乐观看法的：**  
-
 
 > have an optimistic attitude towards  
 > 对…持乐观态度
@@ -2506,12 +2385,12 @@ My good performance in the job interview left me optimistic ________ my future.
 
 # ***option*** n
 英音 'ɒpʃn     美音 'ɑːpʃn  
-词频 1 | 口语 3 | 书面 2 | 阅读 2  用法点拨  [C] & [U]
+词频 1 | 口语 3 | 书面 2 | 阅读 2  
+用法点拨  [C] & [U]
 
 英文释义
 ---
 1. *高义频：* **选择：**  
-
 
 > The Internet increased options of movie lovers.  
 > 互联网增加了电影爱好者的选择。
@@ -2524,10 +2403,10 @@ My good performance in the job interview left me optimistic ________ my future.
 # ***optional*** adj
 英音 'ɒpʃənl     美音 'ɑːpʃənl  
 词频 1 | 口语 0 | 书面 0 | 阅读 1  
+
 英文释义
 ---
 1. *高义频：* **可选择的：**  
-
 
 > **optional subjects**  
 > Taking optional subjects will enrich our mind.  
@@ -2547,22 +2426,20 @@ In that school, English is compulsory for all students, but French and Russian a
 # ***or*** conj
 英音 ɔː(r)     美音 ɔːr  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **[表示选择] 或者；还是：**  
-
 
 > Which do you prefer, white, grey or brown?  
 > 你喜欢哪种颜色，白色、灰色还是褐色?
 
 2. *高义频：* **[表示不明确] 大约：**  
 
-
 > two or three miles  
 > 两三英里
 
 3. *高义频：* **[常与else连用] 否则；要不然：**  
-
 
 > **or,else**  
 > Hurry up, or ( else ) you’ll be late for school.  
@@ -2570,12 +2447,10 @@ In that school, English is compulsory for all students, but French and Russian a
 
 4. *高义频：* **[用以引导同义词或同义语] 或者说；即：**  
 
-
 > It’s 10 kilometres, or 20 li, from here to the city.  
 > 从这儿到城里有10公里，也就是20里。
 
 5. *高义频：* **[用于否定句] 也不：**  
-
 
 > He never smokes or drinks.  
 > 他从不吸烟，也从不喝酒。
@@ -2591,10 +2466,10 @@ Don’t turn off the computer before closing all programs, ________ you could ha
 # ***oral*** adj
 英音 'ɔːrəl     美音 'ɔːrəl  
 词频 2 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **口头的；口述的：**  
-
 
 > an oral examination in English  
 > 英语口试
@@ -2610,39 +2485,39 @@ orally /'ɔːrəli/ adv
 # ***orange*** n
 英音 'ɒrɪndʒ     美音 'ɔːrɪndʒ  
 词频 4 | 口语 1 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **[C] 柑橘；橙子； [U] 橘色**  
 
 
-
 # ***orange*** adj
 英音 'ɒrɪndʒ     美音 'ɔːrɪndʒ  
-词频 4 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [无比较级]
+词频 4 | 口语 1 | 书面 0 | 阅读 0  
+用法点拨  [无比较级]
 
 英文释义
 ---
 1. *高义频：* **柑橘的；橘色的**  
 
 
-
 # ***orangutan*** n
 英音 ɔːˌræŋuː'tæn     美音 ə'ræŋətæn  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. **猩猩**  
 
 
-
 # ***orbit*** n
 英音 'ɔːbɪt     美音 'ɔːrbɪt  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] & [U]
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [C] & [U]
 
 英文释义
 ---
 1. *高义频：* **(天体等运行的) 轨道：**  
-
 
 > **put into orbit**  
 > The man-made satellite has been put into orbit around the earth.   
@@ -2652,10 +2527,10 @@ orally /'ɔːrəli/ adv
 # ***orbit*** v
 英音 'ɔːbɪt     美音 'ɔːrbɪt  
 词频 3 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **沿轨道运行：**  
-
 
 > **orbit,around**  
 > The earth takes a year to orbit (around) the sun.  
@@ -2664,21 +2539,21 @@ orally /'ɔːrəli/ adv
 
 # ***orchestra*** n
 英音 'ɔːkɪstrə     美音 'ɔːrkɪstrə  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **(大型的) 管弦乐队**  
 
 
-
 # ***order*** n  重难点词汇
 英音 'ɔːdə(r)     美音 'ɔːrdər  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **[U] & [C] 顺序；次序：**  
-
 
 > **in the right,correct order**  
 > in the right / correct order  
@@ -2690,7 +2565,6 @@ orally /'ɔːrəli/ adv
 
 2. *高义频：* **[U] 条理；秩序**  
 反义词 disorder： 
-
 > Get your ideas into some sort of order before beginning to write.   
 > 在开始写之前先理清你的思路。
 
@@ -2698,7 +2572,6 @@ orally /'ɔːrəli/ adv
 > 社会 / 公共秩序
 
 3. *高义频：* **[C] [常用复数] 命令；指示：**  
-
 
 - #### order (for sb / sth) to do sth:
 
@@ -2725,7 +2598,6 @@ orally /'ɔːrəli/ adv
 
 4. *高义频：* **[C] 订购；订单；点菜：**  
 
-
 > **placed an order for**  
 > He placed an order for a coat online.  
 > 他在网上订购了一件大衣。
@@ -2735,7 +2607,6 @@ orally /'ɔːrəli/ adv
 > 您现在点菜吗？
 
 5. *低义频：* **[C] 汇票；汇单：**  
-
 
 > a postal order  
 > 邮政汇票
@@ -2749,7 +2620,6 @@ orally /'ɔːrəli/ adv
 - #### in order
 1. **按顺序；有序地；整齐地：**  
 
-
 > Careful people usually put everything in good order.  
 > 细心的人总是把每样东西都放得很整齐。
 
@@ -2759,13 +2629,11 @@ orally /'ɔːrəli/ adv
 - #### in order that
 1. **为了；以便：**  
 
-
 > Leave your telephone number in order that we might contact you.  
 > 请留下你的电话号码，以便于我们跟你联系。
 
 - #### in order to
 1. **为了；以便：**  
-
 
 > In order to find a better job, he decided to study a second foreign language.  
 > 为了能找个更好的工作，他决定再学一门外语。
@@ -2781,13 +2649,11 @@ orally /'ɔːrəli/ adv
 - #### in the order of 
 1. **大约：**  
 
-
 > She earns something in the order of £80,000 a year.  
 > 她的年收入约为8万英镑。
 
 - #### out of order
 1. **次序颠倒；发生故障：**  
-
 
 > The newspaper pages were out of order.  
 > 报纸的版面顺序乱了。
@@ -2810,16 +2676,15 @@ The police officers in our city work hard ________ (为了) the rest of us can l
 # ***order*** v  重难点词汇
 英音 'ɔːdə(r)     美音 'ɔːrdər  
 词频 5 | 口语 2 | 书面 2 | 阅读 0  
+
 英文释义
 ---
 1. *低义频：* **排列；整理：**  
-
 
 > The list is ordered alphabetically.  
 > 这张清单是按字母顺序排列的。
 
 2. *高义频：* **命令；指示：**  
-
 
 - #### order sb to do sth:
 
@@ -2835,7 +2700,6 @@ The police officers in our city work hard ________ (为了) the rest of us can l
 > 她命令他回去。
 
 3. *高义频：* **订购；点(饭菜等)：**  
-
 
 > The day before yesterday we ordered twenty washing machines.  
 > 前天我们订购了20台洗衣机。
@@ -2857,10 +2721,10 @@ ordered /'ɔːdəd/ adj
 # ***orderly*** adj
 英音 'ɔːdəli     美音 'ɔːrdərli  
 词频 1 | 口语 0 | 书面 0 | 阅读 1  
+
 英文释义
 ---
 1. *高义频：* **整齐的；有条理的；守秩序的：**  
-
 
 > **in an orderly way**  
 > Traffic lights are there to guide traffic in an orderly way.  
@@ -2870,10 +2734,10 @@ ordered /'ɔːdəd/ adj
 # ***ordinary*** adj
 英音 'ɔːdnri     美音 'ɔːrdneri  
 词频 4 | 口语 3 | 书面 2 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **普通的；平常的：**  
-
 
 > **ordinary people**  
 > Strange things sometimes happen to ordinary people.   
@@ -2891,12 +2755,12 @@ What I want is not just an ordinarily cafe but a vey special one.
 
 # ***organ*** n
 英音 'ɔːɡən     美音 'ɔːrɡən  
-词频 2 | 口语 0 | 书面 1 | 阅读 0  用法点拨  [C]
+词频 2 | 口语 0 | 书面 1 | 阅读 0  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **器官：**  
-
 
 > **internal organs**  
 > internal organs  
@@ -2907,7 +2771,6 @@ What I want is not just an ordinarily cafe but a vey special one.
 
 2. *低义频：* **风琴；管风琴：**  
 
-
 > play the organ  
 > 演奏管风琴
 
@@ -2915,13 +2778,12 @@ What I want is not just an ordinarily cafe but a vey special one.
 # ***organic*** adj
 英音 ɔː'ɡænɪk     美音 ɔːr'ɡænɪk  
 词频 3 | 口语 0 | 书面 1 | 阅读 1  
+
 英文释义
 ---
 1. *高义频：* **器官的**  
 
-
 2. *高义频：* **有机的；不使用化肥的：**  
-
 
 > **organic food**  
 > organic food  
@@ -2931,10 +2793,10 @@ What I want is not just an ordinarily cafe but a vey special one.
 # ***organisation*** n
 英音 ˌɔːɡənaɪ'zeɪʃn     美音 ˌɔːrɡənə'zeɪʃn  
 词频 5 | 口语 2 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **[C] 组织；团体；机构：**  
-
 
 > **international organization**  
 > form / set up an international organization  
@@ -2945,7 +2807,6 @@ What I want is not just an ordinarily cafe but a vey special one.
 
 2. *高义频：* **[U] 组织工作 (planning)：**  
 
-
 > He is engaged in the organization of a new club.  
 > 他正忙于筹建一个新的俱乐部。
 
@@ -2953,20 +2814,20 @@ What I want is not just an ordinarily cafe but a vey special one.
 # ***organisational*** adj
 英音 ˌɔːgənaɪ'zeɪʃənl     美音 ˌɔːrgənə'zeɪʃənl  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. **组织上的**  
 
 
-
 # ***organise*** v
 英音 'ɔːɡənaɪz     美音 'ɔːrɡənaɪz  
 词频 4 | 口语 3 | 书面 2 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **为...作安排 / 准备；筹备**  
 to plan or arrange an event, activity, etc.：
-
 
 > organize a meeting / party / trip  
 > 安排会议/聚会/旅行
@@ -2977,7 +2838,6 @@ to plan or arrange an event, activity, etc.：
 2. *高义频：* **使有序；使有条理**  
 to put or arrange things into a system or logical order：
 
-
 > You should try and organize your time better.  
 > 你应该更好地安排时间。
 
@@ -2985,7 +2845,6 @@ to put or arrange things into a system or logical order：
 > 写文章时我们要仔细阅读题目并理清思路。
 
 3. *低义频：* **(使) 建立组织：**  
-
 
 > organize into a union / party  
 > 组建工会/政党
@@ -3000,7 +2859,6 @@ to put or arrange things into a system or logical order：
 organized / organised /'ɔːɡənaɪzd/ adj 
 1. *高义频：* **有组织的；有安排的：**  
 
-
 > **organized crime**  
 > organized crime  
 > 有组织的犯罪活动
@@ -3011,7 +2869,6 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
 2. *高义频：* **有序的；有条理的：**  
 
-
 > a very organized person  
 > 很有条理的人
 
@@ -3020,10 +2877,10 @@ organized / organised /'ɔːɡənaɪzd/ adj
 # ***organised*** adj
 英音 'ɔːɡənaɪzd     美音 'ɔːɡənaɪzd  
 词频 4 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **有组织的；有安排的：**  
-
 
 > an organized crime  
 > 有组织的犯罪活动
@@ -3034,19 +2891,18 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
 2. *高义频：* **有序的；有条理的：**  
 
-
 > a very organized person  
 > 很有条理的人
 
 
 # ***organism*** n
 英音 'ɔːɡənɪzəm     美音 'ɔːrɡənɪzəm  
-词频 1 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
+词频 1 | 口语 1 | 书面 0 | 阅读 0  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **生物；有机体：**  
-
 
 > Plants let out oxygen which is needed by nearly every organism on earth.  
 > 植物会释放出几乎地球上所有生物都需要的氧气。
@@ -3055,10 +2911,10 @@ organized / organised /'ɔːɡənaɪzd/ adj
 # ***organization*** n
 英音 ˌɔːɡənaɪ'zeɪʃn     美音 ˌɔːrɡənə'zeɪʃn  
 词频 5 | 口语 2 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **[C] 组织；团体；机构：**  
-
 
 > **international organization**  
 > form / set up an international organization  
@@ -3069,7 +2925,6 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
 2. *高义频：* **[U] 组织工作 (planning)：**  
 
-
 > He is engaged in the organization of a new club.  
 > 他正忙于筹建一个新的俱乐部。
 
@@ -3077,11 +2932,11 @@ organized / organised /'ɔːɡənaɪzd/ adj
 # ***organize*** v
 英音 'ɔːɡənaɪz     美音 'ɔːrɡənaɪz  
 词频 4 | 口语 3 | 书面 2 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **组织；筹备**  
 to plan or arrange an event, activity, etc.：
-
 
 > organize a meeting / party / trip  
 > 安排会议/聚会/旅行
@@ -3092,7 +2947,6 @@ to plan or arrange an event, activity, etc.：
 2. *高义频：* **安排；处理；分配**  
 to put or arrange things into order, or into a system or logical order：
 
-
 > You should try and organize your time better.  
 > 你应该更好地安排时间。
 
@@ -3100,7 +2954,6 @@ to put or arrange things into order, or into a system or logical order：
 > 写文章时我们要仔细阅读题目并理清思路。
 
 3. *低义频：* **(使) 建立组织：**  
-
 
 > **organize into**  
 > organize into a union / party  
@@ -3116,7 +2969,6 @@ to put or arrange things into order, or into a system or logical order：
 organized / organised /'ɔːɡənaɪzd/ adj 
 1. *高义频：* **有组织的；有安排的：**  
 
-
 > **organized crime**  
 > organized crime  
 > 有组织的犯罪活动
@@ -3127,7 +2979,6 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
 2. *高义频：* **有序的；有条理的：**  
 
-
 > a very organized person  
 > 很有条理的人
 
@@ -3136,27 +2987,26 @@ organized / organised /'ɔːɡənaɪzd/ adj
 # ***orientation*** n
 英音 ˌɔːriən'teɪʃn     美音 ˌɔːriən'teɪʃn  
 词频 0 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. **（新工作或学习课程开始前一段时间的）培训，迎新**  
 
 
-
 # ***origin*** n
 英音 'ɒrɪdʒɪn     美音 'ɔːrɪdʒɪn  
-词频 2 | 口语 0 | 书面 2 | 阅读 0  用法点拨  [C] & [U]
+词频 2 | 口语 0 | 书面 2 | 阅读 0  
+用法点拨  [C] & [U]
 
 英文释义
 ---
 1. *高义频：* **出身；血统：**  
-
 
 > **of_2,origin**  
 > Over 80% of the 3.6 million people are of European origin.  
 > 这360万人中有80%的人具有欧洲血统。
 
 2. *高义频：* **起源；起因：**  
-
 
 > **origin of**  
 > The exact origin of table tennis is not known.  
@@ -3170,17 +3020,16 @@ organized / organised /'ɔːɡənaɪzd/ adj
 # ***original*** adj  重难点词汇
 英音 ə'rɪdʒənl     美音 ə'rɪdʒənl  
 词频 4 | 口语 3 | 书面 3 | 阅读 3  
+
 英文释义
 ---
 1. *高义频：* **[只用于名词前] 最初的；原先的**  
 first; earliest (before any changes or developments)：
 
-
 > Sadly the library had moved from its original place into another building.  
 > 遗憾的是，这个图书馆已经从原来的地方搬到另一座大楼里去了。
 
 2. *高义频：* **[只用于名词前] 原创的；原作的：**  
-
 
 > In a word, to read the original work is better than to see the film based on it.  
 > 总之，阅读原著比观看改编的电影更好。
@@ -3188,19 +3037,18 @@ first; earliest (before any changes or developments)：
 3. *高义频：* **独特的；新颖的；创新的**  
 new and interesting; different from others of its type：
 
-
 > That’s not a very original suggestion.  
 > 那个建议没什么新意。
 
 
 # ***original*** n  重难点词汇
 英音 ə'rɪdʒənl     美音 ə'rɪdʒənl  
-词频 4 | 口语 3 | 书面 3 | 阅读 3  用法点拨  [C]
+词频 4 | 口语 3 | 书面 3 | 阅读 3  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **原文；原作；原稿：**  
-
 
 > **in the original**  
 > the book in the original  
@@ -3210,10 +3058,10 @@ new and interesting; different from others of its type：
 # ***originally*** adv
 英音 ə'rɪdʒənəli     美音 ə'rɪdʒənəli  
 词频 2 | 口语 2 | 书面 2 | 阅读 2  
+
 英文释义
 ---
 1. *高义频：* **本来；原来：**  
-
 
 > The store was originally quite small.  
 > 这家商店原来非常小。
@@ -3225,38 +3073,38 @@ new and interesting; different from others of its type：
 # ***ornate*** adj
 英音 ɔː'neɪt     美音 ɔːr'neɪt  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. **华丽的**  
 
 
-
 # ***orphan*** n
 英音 'ɔːfn     美音 'ɔːrfn  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **孤儿**  
 
 
-
 # ***orphan*** adj
 英音 'ɔːfn     美音 'ɔːrfn  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **孤儿的**  
 
 
-
 # ***other*** adj  重难点词汇
 英音 'ʌðə(r)     美音 'ʌðər  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **(两个中) 另一的：**  
-
 
 - #### the other / one’s other + 单数名词：
 
@@ -3267,7 +3115,6 @@ new and interesting; different from others of its type：
 > 我的另一只鞋在哪儿？
 
 2. *高义频：* **(多个中) 另外的；其他的：**  
-
 
 - #### the other + 复数名词：
 
@@ -3287,7 +3134,6 @@ new and interesting; different from others of its type：
 “other + 单数名词” 之前必须有one, any, some, no等词修饰，口语中也可用复数名词。
 3. *低义频：* **隔一个的：**  
 
-
 > every other day  
 > 每隔一天
 
@@ -3297,13 +3143,11 @@ new and interesting; different from others of its type：
 - #### no other than
 1. **正是；恰恰是：**  
 
-
 > He is no other than the writer I have often talked about.  
 > 他正是我常谈起的那位作家。
 
 - #### other than
 1. **除…以外 (except)：**  
-
 
 > I don’t know any French people other than you.  
 > 除了你，我不认识别的法国人。
@@ -3330,22 +3174,20 @@ I got the story from Tom and ________ (其他的一些) people who had worked wi
 # ***other*** pron  重难点词汇
 英音 'ʌðə(r)     美音 'ʌðər  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **[常与the连用] (两个中) 另一人 / 物：**  
-
 
 > One was happy but the other was disappointed.  
 > 一个感到开心，而另一个却感到失望。
 
 2. *高义频：* **[常与the连用] (多个中) 其余的人 / 物：**  
 
-
 > If any one of us had any difficulty in our life and study, the others would help him out.  
 > 如果我们当中的任何一个人在生活和学习上遇到困难的话，其余的人都会帮助他。
 
 3. *高义频：* **[常用复数] 另外的人 / 物；其他的人 / 物：**  
-
 
 > I don’t like these. Can you show me any others?  
 > 我不喜欢这些，可以给我看看其他的吗？
@@ -3354,7 +3196,6 @@ I got the story from Tom and ________ (其他的一些) people who had worked wi
 > 3名乘客死亡，另外1名受重伤。
 
 4. *高义频：* **[常用复数] 他人；别人：**  
-
 
 > Don’t do to others what you wouldn’t like to be done to yourself.  
 > 己所不欲，勿施于人。
@@ -3380,10 +3221,10 @@ You are a team star! Working with other is really your cup of tea.
 # ***otherwise*** adv  重难点词汇
 英音 'ʌðərwaɪz     美音 'ʌðərwaɪz  
 词频 4 | 口语 3 | 书面 2 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **[句子副词] 否则；不然：**  
-
 
 > You’ll have to go now, otherwise you’ll miss your bus.  
 > 你现在得走了，否则就赶不上公共汽车了。
@@ -3393,13 +3234,11 @@ You are a team star! Working with other is really your cup of tea.
 
 2. *低义频：* **[句子副词] 除此以外：**  
 
-
 > There was some music playing upstairs. Otherwise the house was silent.  
 > 楼上有音乐声，除此之外房子里很安静。
 
 3. *低义频：* **以另外方式；别样**  
  in a different way to the way mentioned; differently： 
-
 
 > Unless otherwise assigned a seat by the teacher, I always chose to sit at the back of the classroom.  
 > 除非老师另外指定一个座位，否则我总是坐在教室的后面。
@@ -3412,37 +3251,37 @@ You are a team star! Working with other is really your cup of tea.
 # ***ouch*** int
 英音 aʊtʃ     美音 aʊtʃ  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **哎哟**  
 
 
-
 # ***ought*** aux v
 英音 ɔːt     美音 ɔːt  
 词频 3 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. **应当；应该**  
 
 
-
 # ***our*** pron
 英音 ɑː(r), 'aʊə(r)     美音 'aʊər  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **我们的**  
 
 
-
 # ***ours*** pron
 英音 ɑːz, 'aʊəz     美音 'aʊərz  
 词频 3 | 口语 3 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **我们的：**  
-
 
 > This is ours.  
 > 这是我们的。
@@ -3457,16 +3296,15 @@ You are a team star! Working with other is really your cup of tea.
 # ***ourselves*** pron
 英音 ɑː'selvz     美音 ɑːr'selvz  
 词频 4 | 口语 3 | 书面 1 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **[反身代词] 我们自己：**  
-
 
 > We prepared ourselves for the long journey ahead.  
 > 我们为将要开始的长途旅行做了准备。
 
 2. *高义频：* **[用以加强语气] 我们亲自；我们本人：**  
-
 
 > We saw it ourselves.  
 > 我们亲眼看到的。
@@ -3475,10 +3313,10 @@ You are a team star! Working with other is really your cup of tea.
 # ***out*** adv & prep
 英音 aʊt     美音 aʊt  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **出外；在外；向外：**  
-
 
 > Let’s eat out tonight.  
 > 我们今晚出去吃吧。
@@ -3491,7 +3329,6 @@ You are a team star! Working with other is really your cup of tea.
 
 2. *高义频：* **尽；完：**  
 
-
 > The fire is out.  
 > 火灭了。
 
@@ -3501,7 +3338,6 @@ You are a team star! Working with other is really your cup of tea.
 
 3. *低义频：* **出现；盛开：**  
 
-
 > The stars are out.  
 > 星星出来了。
 
@@ -3509,7 +3345,6 @@ You are a team star! Working with other is really your cup of tea.
 > 花开了。
 
 4. *高义频：* **大声地：**  
-
 
 > Speak out!  
 > 大声说！
@@ -3520,7 +3355,6 @@ You are a team star! Working with other is really your cup of tea.
 - #### out of
 1. *高义频：* **从...中 (出去)：**  
 
-
 > **out of the room**  
 > She went out of the room.  
 > 她走出了房间。
@@ -3529,7 +3363,6 @@ You are a team star! Working with other is really your cup of tea.
 > 全世界10个人中就有6个使用手机。
 
 2. *高义频：* **在... (范围) 之外；脱离 (某状态)：**  
-
 
 > out of control  
 > 失控
@@ -3540,7 +3373,6 @@ You are a team star! Working with other is really your cup of tea.
 
 3. *低义频：* **出于；由于：**  
 
-
 > out of concern for one’s friend  
 > 出于对朋友的关心
 
@@ -3549,7 +3381,6 @@ You are a team star! Working with other is really your cup of tea.
 > 我怕狗，于是跑开了。
 
 4. *高义频：* **缺乏；没有：**  
-
 
 > **out of work**  
 > out of work  
@@ -3561,7 +3392,6 @@ You are a team star! Working with other is really your cup of tea.
 
 5. *高义频：* **凭借；用… (制成)：**  
 
-
 > **make,out of**  
 > make a box out of wood  
 > 用木头做个盒子
@@ -3569,23 +3399,23 @@ You are a team star! Working with other is really your cup of tea.
 
 # ***outbreak*** n
 英音 'aʊtbreɪk     美音 'aʊtbreɪk  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C] 
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [C] 
 
 英文释义
 ---
 1. *高义频：* **爆发；发作 (尤指疾病或战争)**  
 
 
-
 # ***outcome*** n
 英音 'aʊtkʌm     美音 'aʊtkʌm  
-词频 2 | 口语 0 | 书面 1 | 阅读 1  用法点拨  [C]
+词频 2 | 口语 0 | 书面 1 | 阅读 1  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **结果；成果**  
 the result or effect of an action or an event (result)：
-
 
 > **outcome of**  
 > We were both happy with the outcome of the debate.  
@@ -3595,10 +3425,10 @@ the result or effect of an action or an event (result)：
 # ***outdoor*** adj
 英音 'aʊtdɔː(r)     美音 'aʊtdɔːr  
 词频 4 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **(在) 户外的；(在) 野外的：**  
-
 
 > **outdoor activities**  
 > outdoor activities  
@@ -3608,10 +3438,10 @@ the result or effect of an action or an event (result)：
 # ***outdoors*** adv
 英音 ˌaʊt'dɔːz     美音 ˌaʊt'dɔːrz  
 词频 3 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **在 / 往户外；在 / 往野外**  
-
 
 > The Impressionists were the first painters to work outdoors.  
 > 印象派是最先到户外作画的画家。
@@ -3619,12 +3449,12 @@ the result or effect of an action or an event (result)：
 
 # ***outdoors*** n
 英音 ˌaʊt'dɔːz     美音 ˌaʊt'dɔːrz  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [与the连用]
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [与the连用]
 
 英文释义
 ---
 1. *高义频：* **户外；野外：**  
-
 
 > Tom is a sports fan and a lover of the outdoors.  
 > 汤姆是个运动迷，并且热爱户外运动。
@@ -3633,10 +3463,10 @@ the result or effect of an action or an event (result)：
 # ***outer*** adj
 英音 'aʊtə(r)     美音 'aʊtər  
 词频 3 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **外部的；外面的：**  
-
 
 > **outer space**  
 > outer space  
@@ -3649,10 +3479,10 @@ the result or effect of an action or an event (result)：
 # ***outgoing*** adj
 英音 'aʊtɡəʊɪŋ     美音 'aʊtɡoʊɪŋ  
 词频 2 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **喜欢社交的；外向的：**  
-
 
 > He is usually cheerful and outgoing, but he has been really quiet and looks sad.  
 > 他通常乐观外向，但近来很安静，看起来很悲伤。
@@ -3660,12 +3490,12 @@ the result or effect of an action or an event (result)：
 
 # ***outing*** n
 英音 'aʊtɪŋ     美音 'aʊtɪŋ  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **远足；短程旅游：**  
-
 
 > a spring / family outing  
 > 春游/全家远足
@@ -3677,12 +3507,12 @@ the result or effect of an action or an event (result)：
 
 # ***outline*** n
 英音 'aʊtlaɪn     美音 'aʊtlaɪn  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **概要；提纲：**  
-
 
 > **outline of**  
 > make an outline of a composition  
@@ -3694,7 +3524,6 @@ the result or effect of an action or an event (result)：
 
 2. *高义频：* **轮廓；略图：**  
 
-
 > **outline map**  
 > an outline map of China  
 > 中国略图
@@ -3703,16 +3532,15 @@ the result or effect of an action or an event (result)：
 # ***outline*** vt
 英音 'aʊtlaɪn     美音 'aʊtlaɪn  
 词频 2 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **概述；提出...的纲要：**  
-
 
 > The report outlined possible uses for the technology.  
 > 此报告概述了这项技术可能的用途。
 
 2. *高义频：* **[常用于被动语态] 画出...的轮廓：**  
-
 
 > **outlined against**  
 > They saw the huge building outlined against the sky.  
@@ -3721,13 +3549,13 @@ the result or effect of an action or an event (result)：
 
 # ***outlook*** n
 英音 'aʊtlʊk     美音 'aʊtlʊk  
-词频 2 | 口语 0 | 书面 0 | 阅读 1  用法点拨  [C]
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **观点；见解**  
 your general attitude to life and the world：
-
 
 > **outlook on**  
 > He is a man with an optimistic outlook on life.  
@@ -3735,7 +3563,6 @@ your general attitude to life and the world：
 
 2. *低义频：* **[常用单数] 展望；前景**  
 what will probably happen：
-
 
 > **outlook for**  
 > The outlook for world peace is bright.  
@@ -3745,30 +3572,30 @@ what will probably happen：
 # ***outnumber*** v
 英音 ˌaʊt'nʌmbə(r)     美音 ˌaʊt'nʌmbər  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. **在数量上胜过……；比……多**  
 
 
-
 # ***outpatient*** n
 英音 'aʊtpeɪʃnt     美音 'aʊtpeɪʃnt  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. **门诊病人**  
 
 
-
 # ***output*** n
 英音 'aʊtpʊt     美音 'aʊtpʊt  
-词频 1 | 口语 0 | 书面 2 | 阅读 1  用法点拨  [C] & [U]
+词频 1 | 口语 0 | 书面 2 | 阅读 1  
+用法点拨  [C] & [U]
 
 英文释义
 ---
 1. *高义频：* **产量；输出 (量)**  
 the amount that a person or machine produces：
-
 
 > the daily output of a factory  
 > 工厂的日产量
@@ -3780,10 +3607,10 @@ the amount that a person or machine produces：
 # ***outside*** adv
 英音 ˌaʊt'saɪd     美音 ˌaʊt'saɪd  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **在 / 向外面；在 / 向室外：**  
-
 
 > It’s quite noisy outside.  
 > 外边很吵闹。
@@ -3795,10 +3622,10 @@ the amount that a person or machine produces：
 # ***outside*** prep
 英音 ˌaʊt'saɪd     美音 ˌaʊt'saɪd  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **在 / 向...外：**  
-
 
 > He was standing just outside the door.  
 > 他就站在门外。
@@ -3810,10 +3637,10 @@ the amount that a person or machine produces：
 # ***outside*** adj
 英音 'aʊtsaɪd     美音 'aʊtsaɪd  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **[只用于名词前] 外面的；外部的：**  
-
 
 > **the outside world**  
 > the outside world  
@@ -3825,12 +3652,12 @@ the amount that a person or machine produces：
 
 # ***outside*** n
 英音 ˌaʊt'saɪd     美音 ˌaʊt'saɪd  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [U][常用the outside]
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
+用法点拨  [U][常用the outside]
 
 英文释义
 ---
 1. *高义频：* **外部；外 (表)：**  
-
 
 > **from the outside**  
 > You can’t open the door from the outside.  
@@ -3843,10 +3670,10 @@ the amount that a person or machine produces：
 # ***outspoken*** adj
 英音 aʊt'spəʊkən     美音 aʊt'spoʊkən  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **直率的；直言的：**  
-
 
 > an outspoken person  
 > 直率的人
@@ -3855,10 +3682,10 @@ the amount that a person or machine produces：
 # ***outstanding*** adj
 英音 aʊt'stændɪŋ     美音 aʊt'stændɪŋ  
 词频 3 | 口语 0 | 书面 1 | 阅读 2  
+
 英文释义
 ---
 1. *高义频：* **杰出的；突出的：**  
-
 
 > an outstanding player / contribution  
 > 杰出的运动员/突出贡献
@@ -3869,12 +3696,12 @@ the amount that a person or machine produces：
 
 # ***outward*** adj
 英音 'aʊtwəd     美音 'aʊtwərd  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [只用于名词前]
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [只用于名词前]
 
 英文释义
 ---
 1. *高义频：* **外表的；表面的；向外的：**  
-
 
 > **outward journey**  
 > an outward journey  
@@ -3888,10 +3715,10 @@ the amount that a person or machine produces：
 # ***outward(s)*** adv
 英音 'aʊtwədz     美音 'aʊtwərdz  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **向外；朝外：**  
-
 
 > The door opens outward not inward.  
 > 这扇门是向外开的，不是向里开的。
@@ -3903,48 +3730,48 @@ the amount that a person or machine produces：
 # ***outwards*** adv
 英音 'aʊtwədz     美音 'aʊtwərdz  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. **向外地**  
 
 
-
 # ***oval*** adj
 英音 'əʊvl     美音 'oʊvl  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **椭圆形的**  
 
 
-
 # ***oval*** n
 英音 'əʊvl     美音 'oʊvl  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **椭圆 (形)**  
 
 
-
 # ***oven*** n
 英音 'ʌvn     美音 'ʌvn  
-词频 1 | 口语 1 | 书面 0 | 阅读 0  用法点拨  [C]
+词频 1 | 口语 1 | 书面 0 | 阅读 0  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **烤炉；烤箱**  
 
 
-
 # ***over*** prep
 英音 'əʊvə(r)     美音 'oʊvər  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **[表示高于 / 大于]：**  
-
 
 - #### 在…上方 (未触及) 【反:under】：
 
@@ -3976,7 +3803,6 @@ the amount that a person or machine produces：
 
 2. *高义频：* **[表示在空间或时间上从一点到另一点]：**  
 
-
 - #### 越过；穿过：
 
 > The dog jumped over some bushes and saw the little stream.  
@@ -4006,7 +3832,6 @@ the amount that a person or machine produces：
 
 3. *高义频：* **关于；由于：**  
 
-
 > an argument over money  
 > 有关金钱问题的争论
 
@@ -4019,7 +3844,6 @@ over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原因。
 ---
 - #### all over
 1. *高义频：* **到处；各处：**  
-
 
 > Countries all over the world name places in similar ways.  
 > 全世界的国家都用相似的方式给地方命名。
@@ -4046,10 +3870,10 @@ They had a pleasant chat ________ a cup of coffee.
 # ***over*** adv
 英音 'əʊvə(r)     美音 'oʊvər  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **[表示在空间上从一边到另一边]:**  
-
 
 - #### 倒下；翻转：
 
@@ -4080,7 +3904,6 @@ They had a pleasant chat ________ a cup of coffee.
 
 2. *高义频：* **超过；剩下来：**  
 
-
 > students of fourteen and over  
 > 14岁及以上的学生
 
@@ -4090,12 +3913,10 @@ They had a pleasant chat ________ a cup of coffee.
 
 3. *高义频：* **再一次；又：**  
 
-
 > He repeated the text several times over until he could remember it.  
 > 他把课文重复了几遍，直到能记住为止。
 
 4. *高义频：* **结束：**  
-
 
 > The birthday party is over and we don’t need the cake any more.  
 > 生日聚会已经结束，我们不再需要蛋糕了。
@@ -4106,13 +3927,11 @@ They had a pleasant chat ________ a cup of coffee.
 - #### (all) over again
 1. **再一遍；重新：**  
 
-
 > He did the work so badly that I had to do it all over again myself.  
 > 他工作做得太差劲了,我只好亲自重做。
 
 - #### over and over (again)
 1. **反复；再三：**  
-
 
 > As you know, if you do the same thing over and over again, you begin to do it automatically.  
 > 你知道，如果反反复复地做同样的事，动作就会变得自如起来。
@@ -4121,21 +3940,21 @@ They had a pleasant chat ________ a cup of coffee.
 # ***over-fishing*** n
 英音 ˌəʊvəfɪʃɪŋ     美音 ˌoʊvərfɪʃɪŋ  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. **过度捕捞**  
 
 
-
 # ***overall*** adj
 英音 ˌəʊvər'ɔːl     美音 ˌoʊvər'ɔːl  
-词频 2 | 口语 1 | 书面 2 | 阅读 2  用法点拨  [只用于名词前]
+词频 2 | 口语 1 | 书面 2 | 阅读 2  
+用法点拨  [只用于名词前]
 
 英文释义
 ---
 1. *高义频：* **全部的；全面的**  
 including everything; total：
-
 
 > the overall cost  
 > 全部费用
@@ -4144,11 +3963,11 @@ including everything; total：
 # ***overall*** adv
 英音 ˌəʊvər'ɔːl     美音 ˌoʊvər'ɔːl  
 词频 2 | 口语 1 | 书面 2 | 阅读 2  
+
 英文释义
 ---
 1. *高义频：* **总共；[句子副词] 总的说来**  
 when you consider everything; generally：
-
 
 > Overall, this is a very useful book.  
 > 总的来说，这是一本很有用的书。
@@ -4157,30 +3976,30 @@ when you consider everything; generally：
 # ***overboard*** adv
 英音 'əʊvəbɔːd     美音 'əʊvəbɔːd  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **越过船舷进入水中**  
 
 
-
 # ***overcoat*** n
 英音 'əʊvəkəʊt     美音 'oʊvərkoʊt  
-词频 2 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
+词频 2 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **大衣；外套**  
 
 
-
 # ***overcome*** vt
 英音 ˌəʊvə'kʌm     美音 ˌoʊvər'kʌm  
-词频 4 | 口语 1 | 书面 1 | 阅读 3  用法点拨  (overcame, overcome)
+词频 4 | 口语 1 | 书面 1 | 阅读 3  
+用法点拨  (overcame, overcome)
 
 英文释义
 ---
 1. *高义频：* **战胜；克服：**  
-
 
 > overcome the enemy / the difficulties  
 > 战胜敌人/克服困难
@@ -4189,7 +4008,6 @@ when you consider everything; generally：
 > 如果你努力的话，就会克服这个困难。
 
 2. *高义频：* **[常用于被动语态] 受到…的极大影响：**  
-
 
 > Overcome by curiosity, the boy looked out the window.  
 > 受好奇心驱使，小孩向窗外望去。
@@ -4202,10 +4020,10 @@ when you consider everything; generally：
 # ***overhead*** adv
 英音 ˌəʊvə'hed     美音 ˌoʊvər'hed  
 词频 2 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **在头顶上；在空中：**  
-
 
 > Birds flew overhead and cried out in joy.  
 > 鸟儿在空中飞过，发出欢快的叫声。
@@ -4214,10 +4032,10 @@ when you consider everything; generally：
 # ***overhead*** adj
 英音 ˌəʊvə'hed     美音 ˌoʊvər'hed  
 词频 2 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **在头顶上的；高架的：**  
-
 
 > an overhead light / fan  
 > 吊灯/扇
@@ -4229,22 +4047,20 @@ when you consider everything; generally：
 # ***overlook*** vt
 英音 ˌəʊvə'lʊk     美音 ˌoʊvər'lʊk  
 词频 3 | 口语 0 | 书面 0 | 阅读 3  
+
 英文释义
 ---
 1. *低义频：* **俯瞰；眺望：**  
-
 
 > The house was small and charming, overlooking a quiet lake.  
 > 房子小而迷人，俯瞰一个平静的湖。
 
 2. *高义频：* **忽略；未注意 (miss)：**  
 
-
 > It is easy to overlook a small detail like that.  
 > 那样的小细节很容易被忽略。
 
 3. *低义频：* **不追究 (过失等) ：**  
-
 
 > I overlooked his fault.  
 > 我没有追究他的过错。
@@ -4253,17 +4069,16 @@ when you consider everything; generally：
 # ***overnight*** adv
 英音 ˌəʊvə'naɪt     美音 ˌoʊvər'naɪt  
 词频 2 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **整夜地；通宵地：**  
-
 
 > **staying overnight**  
 > After staying overnight in London, we traveled to northern France.  
 > 在伦敦住了一晚后，我们去了法国北部。
 
 2. *低义频：* **一下子；突然：**  
-
 
 > become famous overnight  
 > 一夜成名
@@ -4272,16 +4087,15 @@ when you consider everything; generally：
 # ***overnight*** adj
 英音 'əʊvənaɪt     美音 'oʊvərnaɪt  
 词频 2 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **整夜的；通宵的：**  
-
 
 > We have overnight business service.  
 > 我们提供通宵服务。
 
 2. *低义频：* **突然的：**  
-
 
 > The show was an overnight success.  
 > 这场演出一举成功。
@@ -4289,21 +4103,21 @@ when you consider everything; generally：
 
 # ***overpass*** n
 英音 'əʊvəpɑːs     美音 'oʊvərpæs  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C]
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **天桥；立交桥**  
 
 
-
 # ***overseas*** adv
 英音 ˌəʊvə'siːz     美音 ˌoʊvər'siːz  
 词频 3 | 口语 1 | 书面 1 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **在国外；向海外：**  
-
 
 > **work overseas**  
 > He is going to work overseas.  
@@ -4313,10 +4127,10 @@ when you consider everything; generally：
 # ***overseas*** adj
 英音 ˌəʊvə'siːz     美音 ˌoʊvər'siːz  
 词频 3 | 口语 0 | 书面 1 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **海外的；国外的：**  
-
 
 > I received an overseas phone call from my friend in Paris.  
 > 我接到了一个在巴黎的朋友打来的越洋电话。
@@ -4324,12 +4138,12 @@ when you consider everything; generally：
 
 # ***overtake*** vt
 英音 ˌəʊvə'teɪk     美音 ˌoʊvər'teɪk  
-词频 2 | 口语 0 | 书面 0 | 阅读 1  用法点拨  (overtook, overtaken)
+词频 2 | 口语 0 | 书面 0 | 阅读 1  
+用法点拨  (overtook, overtaken)
 
 英文释义
 ---
 1. *高义频：* **赶上；追上：**  
-
 
 > China overtook Japan and became the world’s second largest economy in 2010.  
 > 2010年中国超越日本，成为世界第二大经济体。
@@ -4338,28 +4152,28 @@ when you consider everything; generally：
 # ***overtime*** n
 英音 'əʊvətaɪm     美音 'oʊvərtaɪm  
 词频 3 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. **加时赛**  
 
 
-
 # ***overview*** n
 英音 'əʊvəvjuː     美音 'oʊvərvjuː  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. **概要；综述**  
 
 
-
 # ***overweight*** adj
 英音 ˌəʊvə'weɪt     美音 ˌoʊvər'weɪt  
 词频 3 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **超重的：**  
-
 
 > Fifteen percent of American children aged between 6 to 18 are overweight.  
 > 6至18岁的美国孩子中，15%的人超重。
@@ -4370,12 +4184,12 @@ when you consider everything; generally：
 
 # ***overwhelm*** vt
 英音 ˌəʊvə'welm     美音 ˌoʊvər'welm  
-词频 1 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [常用于被动语态]
+词频 1 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [常用于被动语态]
 
 英文释义
 ---
 1. *高义频：* **使不知所措；压倒：**  
-
 
 > **was overwhelmed by**  
 > I was overwhelmed by all the flowers and letters of support I received.  
@@ -4389,10 +4203,10 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 # ***owe*** vt
 英音 əʊ     美音 oʊ  
 词频 3 | 口语 2 | 书面 1 | 阅读 2  
+
 英文释义
 ---
 1. *高义频：* **欠 (债)：**  
-
 
 - #### owe sb sth (for sth) / owe sth to sb (for sth):
 
@@ -4401,14 +4215,12 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 
 2. *高义频：* **应给予：**  
 
-
 - #### owe sb sth / owe sth to sb:
 
 > I owe him an apology. / I owe an apology to him.  
 > 我得向他道歉。
 
 3. *低义频：* **应该把...归功于：**  
-
 
 - #### owe sth to sth:
 
@@ -4421,12 +4233,12 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 
 # ***own*** adj
 英音 əʊn     美音 oʊn  
-词频 5 | 口语 3 | 书面 3 | 阅读 0  用法点拨  [用在所有格后以加强语气]
+词频 5 | 口语 3 | 书面 3 | 阅读 0  
+用法点拨  [用在所有格后以加强语气]
 
 英文释义
 ---
 1. *高义频：* **自己的；靠自己的：**  
-
 
 > I won’t believe you until I’ve seen it with my own eyes.  
 > 直到我亲眼看到我才会相信你的话。
@@ -4435,10 +4247,10 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 # ***own*** pron
 英音 əʊn     美音 oʊn  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **自己的东西：**  
-
 
 - #### one’s own:
 
@@ -4458,7 +4270,6 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 - #### (all) on one’s own
 1. **独自地；独立地 (alone)：**  
 
-
 > My grandmother lives all on her own.  
 > 我祖母独自一个人生活。
 
@@ -4469,10 +4280,10 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 # ***own*** vt
 英音 əʊn     美音 oʊn  
 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 英文释义
 ---
 1. *高义频：* **有；拥有：**  
-
 
 > A hundred years ago, very few people owned cars.  
 > 一百年前，很少有人拥有汽车。
@@ -4480,22 +4291,22 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 
 # ***owner*** n
 英音 'əʊnə(r)     美音 'oʊnər  
-词频 4 | 口语 2 | 书面 2 | 阅读 0  用法点拨  [C]
+词频 4 | 口语 2 | 书面 2 | 阅读 0  
+用法点拨  [C]
 
 英文释义
 ---
 1. *高义频：* **物主；所有者**  
 
 
-
 # ***ownership*** n
 英音 'əʊnəʃɪp     美音 'oʊnərʃɪp  
-词频 2 | 口语 1 | 书面 1 | 阅读 0  用法点拨  [U]
+词频 2 | 口语 1 | 书面 1 | 阅读 0  
+用法点拨  [U]
 
 英文释义
 ---
 1. *高义频：* **所有权；物主身份：**  
-
 
 > The property remained in the ownership of Shakespeare’s family until 1806.  
 > 此房产在1806年之前一直归莎士比亚家族所有。
@@ -4503,30 +4314,30 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 
 # ***ox*** n
 英音 ɒks     美音 ɑːks  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [C](pl oxen)
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [C](pl oxen)
 
 英文释义
 ---
 1. *高义频：* **牛；公牛**  
 
 
-
 # ***oxide*** n
 英音 'ɒksaɪd     美音 'ɑːksaɪd  
 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 英文释义
 ---
 1. **氧化物**  
 
 
-
 # ***oxygen*** n
 英音 'ɒksɪdʒən     美音 'ɑːksɪdʒən  
-词频 3 | 口语 0 | 书面 0 | 阅读 0  用法点拨  [U]
+词频 3 | 口语 0 | 书面 0 | 阅读 0  
+用法点拨  [U]
 
 英文释义
 ---
 1. *高义频：* **氧；氧气**  
-
 
 

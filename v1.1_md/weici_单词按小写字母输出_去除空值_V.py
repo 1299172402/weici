@@ -6,11 +6,9 @@ import json
 import sqlite3
 import os
 
-# "gy_biscrimination_word"
 def gy_paraphrase(t): #12568
     if t['translate_frequency']==1:print('*高义频：* ',end='',file=f)
     if t['translate_frequency']==2:print('*低义频：* ',end='',file=f)
-    
     
     b=t['chinese']
     if b!='':
@@ -23,13 +21,9 @@ def gy_paraphrase(t): #12568
     if t['antonym']!='':print('反义词 ' + t['antonym']+' ',end='',file=f)
     if t['synonyms']!='':print('近义词 ' + t['synonyms']+'  ',end='',file=f)
     print(file=f)
-    print(file=f)
     if t['gy_sentential_form']!=[]:
-        #i=1
         for exam in t['gy_sentential_form']:
-            #print('==句型'+str(i),file=f)
             gy_sentential_form(exam) 
-            #=i+1
     if t['gy_example']!=[]:
         for exam in t['gy_example']:
             gy_example(exam)  
@@ -41,12 +35,10 @@ def gy_paraphrase(t): #12568
             gy_biscrimination(exam)  
     if t['gy_fixed_collocation']!=[]:
         for exam in t['gy_fixed_collocation']:
-            gy_fixed_collocation(exam)              
-    #print('---------------------',file=f)       
+            gy_fixed_collocation(exam)             
     
 
 def gy_sentential_form(t): #15924
-    #print('==')
     print('- #### '+t['sentential_form'],file=f)
     print(file=f)
     if t['gy_example']!=[]:
@@ -87,7 +79,6 @@ def gy_biscrimination(t): #16597
     if t['gy_example']!=[]:
         for example in t['gy_example']:
             gy_example(example)
-    #print('==',file=f)
     
 
 def gy_fixed_collocation(t): #26462
@@ -96,10 +87,8 @@ def gy_fixed_collocation(t): #26462
         i=1
         for exam in t['gy_paraphrase']:
             print(str(i) + '. ',end='',file=f)
-            #print('--------释义'+str(i),file=f)
             gy_paraphrase(exam) 
             i=i+1
-            #print('---------------------')
     
     
 
@@ -112,10 +101,8 @@ def gy_derivative(t): #10112
         i=1
         for exam in t['gy_paraphrase']:
             print(str(i) + '. ',end='',file=f)
-            #print('--------释义'+str(i),file=f)
             gy_paraphrase(exam) 
             i=i+1
-            #print('---------------------')
     if t['gy_fixed_collocation']!=[]:
         for exam in t['gy_fixed_collocation']:
             gy_fixed_collocation(exam)  
@@ -130,59 +117,49 @@ def gy_exam_link(exam): #10112
     if exam['answer_d']!='' :print('D.'+exam['answer_d']+'  ',file=f)
     print('##### 答案 '+ exam['answer']+'  ',file=f)
     print('  ',file=f)
-#def gy_word_expand
 #137136
 
 
 
 
 def chuli(t):
-    #print(file=f)  
     a=json.loads(t)
-    #info
-    b=a['word']
     
-    #print(b)
+    #word_info
+    b=a['word']
     while b[0]==' ':
         b=b[1:]
     while b[-1]==' ':
         b=b[:-1]
-    
     print('# ***' + b + '*** ' + a['part_of_speech'],end='', file = f)
     if a['point']==1 :print('  重难点词汇',end='',file=f)
     print(file=f)
-    #print('---',file=f)
+    
+    #word_phonetic
     if a['en_phonetic_symbols']!='':print('英音 ' + a['en_phonetic_symbols'],end='     ',file=f)
     if a['usa_phonetic_symbols']!='':print('美音 ' + a['usa_phonetic_symbols'],end='  ',file=f)
     print(file=f)
-    #print('英音 ' + a['en_phonetic_symbols'] + '       美音 ' + a['usa_phonetic_symbols'], file = f )
+    
+    #word_level
     print('词频 ' + str(a['lv_frequency'])+' | 口语 ' + str(a['lv_speak']) + ' | 书面 ' + str(a['lv_write']) + ' | 阅读 ' + str(a['lv_read'])  ,end='  ', file = f)
     print(file=f)
-    #note
-    #if a['point']==1 :print('重难点词汇',file=f)
-    #if a['not_use']==0 : print('高考从未出现',file=f)
-    #if a['outpoint']==1 : print('课标外词汇',file=f)
-    #if a['outpoint']==2 : print('课标派生/合成词',file=f) 
+    
+    #word_use_method
     if a['use_method']!='' : print('用法点拨  '+ a['use_method'],file=f)
     print(file=f)
-    #if a['area']!='':print('地方性考试说明词汇  '+a['area'],file=f)
     
     #paraphrase
-    #print('===========英文释义===========',file=f)
     if a['gy_paraphrase']!=[]:
         print('英文释义',file=f)
         print('---',file=f)
         i=1
         for exam in a['gy_paraphrase']:
             print(str(i) + '. ',end='',file=f)
-            #print('--------释义'+str(i),file=f)
             gy_paraphrase(exam)    
             i=i+1
         print(file=f)
     
-    
     #fixed_word固定搭配
-    #print('===========固定搭配===========',file=f)   
     if a['gy_fixed_collocation']!=[]:
         print('固定搭配',file=f)
         print('---',file=f) 
@@ -191,7 +168,6 @@ def chuli(t):
         print(file=f)
         
     #derivative派生词
-    #print('===========派生词汇===========',file=f)    
     if a['gy_derivative']!=[]:
         print('派生词汇',file=f)
         print('---',file=f)
@@ -199,8 +175,7 @@ def chuli(t):
             gy_derivative(exam)   
         print(file=f)
         
-    #exam
-    #print('===========真题解析===========',file=f)
+    #exam真题解析
     if a['gy_exam_link']!=[]:
         print('真题解析',file=f)
         print('---',file=f)  
@@ -212,10 +187,8 @@ def chuli(t):
 # 欢迎文字
 print('\n\n')
 print('####### 维克多英语词汇导出程序 #######\n')
-# print('Author~~')
 print('Jellow 看见我请一定一定叫我学习')
 print('Creative By ZhiyuShang With Love\n')
-# print('Thanks for being addicted')
 print('')
 
 path = input('请输入weici_ext.db文件位置：\n')
@@ -226,25 +199,19 @@ c = conn.cursor()
 
 path_save = input('请输入保存位置：\n')
 if path_save=='':path_save = r'C:\Users\Administrator\Desktop\victory'
-#print('注意：文件将存到%s' % path_save + '\weici_仅词组.md')
 if not os.path.exists(path_save):
     os.makedirs(path_save)
 
 print('请稍后Processing。。。')
 
-
 i=1
-#f = open('C:/Users/Administrator/Desktop/victory/weici_A.md','w',encoding='utf-8')
-
-while i<=2:  ###debug
+while i<=26:  
     f = open('%s' % path_save+'\weici_'+chr(ord('A')+i-1)+'.md','w',encoding='utf-8')
     print('%s' % path_save+'\weici_'+chr(ord('A')+i-1)+'.md')
     cursor = c.execute("select * from fb_word_detail order by word asc")
     print('# '+chr(ord('A')+i-1)+chr(ord('a')+i-1),file=f)
     print(file=f)
     for row in cursor:
-        #if row[6]==0 and row[1].find(' ')!=-1:chuli(row[3]) #仅输出词组
-        #if row[6]==0 and row[1].find(' ')==-1:chuli(row[3]) #仅输出单词
         if row[6]==0 and (row[1][0]==chr(ord('a')+i-1)) and row[1].find(' ')==-1:chuli(row[3])
     i=i+1
 input('工作已完成！按Enter退出')
