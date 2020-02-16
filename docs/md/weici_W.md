@@ -2,7 +2,8 @@
 
 # ***wag*** v
 英音 wæɡ     美音 wæɡ  
-| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -14,7 +15,9 @@
 
 # ***wage*** n
 英音 weɪdʒ     美音 weɪdʒ  
-| 词频 2 | 口语 2 | 书面 2 | 阅读 0 |  
+
+ 词频 2 | 口语 2 | 书面 2 | 阅读 0  
+
 用法点拨  [C] [常用复数]
 
 英文释义
@@ -33,7 +36,9 @@
 
 # ***wagon*** n
 英音 'wæɡən     美音 'wæɡən  
-| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -43,7 +48,9 @@
 
 # ***waist*** n
 英音 weɪst     美音 weɪst  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -56,7 +63,9 @@
 
 # ***wait*** n
 英音 weɪt     美音 weɪt  
-| 词频 5 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 5 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C] [常用单数]
 
 英文释义
@@ -70,7 +79,8 @@
 
 # ***wait*** v
 英音 weɪt     美音 weɪt  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -130,7 +140,9 @@
 
 # ***waiter*** n
 英音 'weɪtə(r)     美音 'weɪtər  
-| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -140,7 +152,9 @@
 
 # ***waiting-room*** n
 英音 'weɪtɪŋ'ruːm     美音 'weɪtɪŋ'ruːm  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -150,7 +164,9 @@
 
 # ***waitress*** n
 英音 'weɪtrəs     美音 'weɪtrəs  
-| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -160,7 +176,9 @@
 
 # ***wake*** v
 英音 weɪk     美音 weɪk  
-| 词频 4 | 口语 2 | 书面 1 | 阅读 0 |  
+
+ 词频 4 | 口语 2 | 书面 1 | 阅读 0  
+
 用法点拨  (woke /  woken)
 
 英文释义
@@ -186,7 +204,8 @@
 
 # ***walk*** v
 英音 wɔːk     美音 wɔːk  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -221,7 +240,9 @@
 
 # ***walk*** n
 英音 wɔːk     美音 wɔːk  
-| 词频 5 | 口语 2 | 书面 2 | 阅读 0 |  
+
+ 词频 5 | 口语 2 | 书面 2 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -259,7 +280,9 @@
 
 # ***wall*** n
 英音 wɔːl     美音 wɔːl  
-| 词频 4 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 4 | 口语 3 | 书面 3 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -278,7 +301,9 @@
 
 # ***wallet*** n
 英音 'wɒlɪt     美音 'wɑːlɪt  
-| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -289,7 +314,9 @@
 
 # ***walnut*** n
 英音 'wɔːlnʌt     美音 'wɔːlnʌt  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -299,7 +326,8 @@
 
 # ***waltz*** n
 英音 wɔːls     美音 wɔːls  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -308,7 +336,8 @@
 
 # ***wander*** v
 英音 'wɒndə(r)     美音 'wɑːndər  
-| 词频 2 | 口语 1 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 1 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -329,7 +358,8 @@
 
 # ***want*** vt  重难点词汇
 英音 wɒnt     美音 wɑːnt, wɔːnt  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -381,7 +411,9 @@
 
 # ***war*** n
 英音 wɔː(r)     美音 wɔːr  
-| 词频 5 | 口语 2 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 2 | 书面 3 | 阅读 0  
+
 用法点拨  [C] & [U]
 
 英文释义
@@ -406,7 +438,9 @@
 
 # ***ward*** n
 英音 wɔːd     美音 wɔːrd  
-| 词频 2 | 口语 0 | 书面 1 | 阅读 0 |  
+
+ 词频 2 | 口语 0 | 书面 1 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -416,7 +450,8 @@
 
 # ***warden*** n
 英音 'wɔːdn     美音 'wɔːrdn  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -425,7 +460,8 @@
 
 # ***wardrobe*** n
 英音 'wɔːdrəʊb     美音 'wɔːrdroʊb  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -434,7 +470,9 @@
 
 # ***warehouse*** n
 英音 'weəhaʊs     美音 'werhaʊs  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -444,7 +482,8 @@
 
 # ***wariness*** n
 英音 'weərinəs     美音 'werinəs  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -453,7 +492,8 @@
 
 # ***warm*** v
 英音 wɔːm     美音 wɔːrm  
-| 词频 5 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 5 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -480,7 +520,8 @@
 
 # ***warm*** adj
 英音 wɔːm     美音 wɔːrm  
-| 词频 5 | 口语 2 | 书面 2 | 阅读 0 |  
+
+ 词频 5 | 口语 2 | 书面 2 | 阅读 0  
 
 英文释义
 ---
@@ -507,7 +548,8 @@
 
 # ***warm-hearted*** adj
 英音 wɔːm 'hɑːtɪd     美音 wɔːrm 'hɑːtɪd  
-| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -519,7 +561,9 @@
 
 # ***warmth*** n
 英音 wɔːmθ     美音 wɔːrmθ  
-| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [U]
 
 英文释义
@@ -532,7 +576,8 @@
 
 # ***warn*** vt  重难点词汇
 英音 wɔːn     美音 wɔːrn  
-| 词频 4 | 口语 1 | 书面 2 | 阅读 0 |  
+
+ 词频 4 | 口语 1 | 书面 2 | 阅读 0  
 
 英文释义
 ---
@@ -571,7 +616,9 @@ My father warned me ________ going to the West Coast because it was crowded with
 
 # ***warning*** n
 英音 'wɔːnɪŋ     美音 'wɔːrnɪŋ  
-| 词频 4 | 口语 1 | 书面 2 | 阅读 0 |  
+
+ 词频 4 | 口语 1 | 书面 2 | 阅读 0  
+
 用法点拨  [C] & [U]
 
 英文释义
@@ -589,7 +636,9 @@ My father warned me ________ going to the West Coast because it was crowded with
 
 # ***warrior*** n
 英音 'wɒriə(r)     美音 'wɒriə(r)  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -599,7 +648,8 @@ My father warned me ________ going to the West Coast because it was crowded with
 
 # ***wash*** v
 英音 wɒʃ     美音 wɑːʃ  
-| 词频 4 | 口语 3 | 书面 1 | 阅读 0 |  
+
+ 词频 4 | 口语 3 | 书面 1 | 阅读 0  
 
 英文释义
 ---
@@ -648,7 +698,8 @@ My father warned me ________ going to the West Coast because it was crowded with
 
 # ***wash*** n
 英音 wɒʃ     美音 wɑːʃ  
-| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 4 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -665,7 +716,9 @@ My father warned me ________ going to the West Coast because it was crowded with
 
 # ***washing*** n
 英音 'wɒʃɪŋ     美音 'wɑːʃɪŋ  
-| 词频 4 | 口语 2 | 书面 0 | 阅读 0 |  
+
+ 词频 4 | 口语 2 | 书面 0 | 阅读 0  
+
 用法点拨  [U]
 
 英文释义
@@ -678,7 +731,9 @@ My father warned me ________ going to the West Coast because it was crowded with
 
 # ***washroom*** n
 英音 'wɒʃruːm     美音 'wɑːʃruːm  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -688,7 +743,8 @@ My father warned me ________ going to the West Coast because it was crowded with
 
 # ***waste*** vt  重难点词汇
 英音 weɪst     美音 weɪst  
-| 词频 5 | 口语 2 | 书面 1 | 阅读 0 |  
+
+ 词频 5 | 口语 2 | 书面 1 | 阅读 0  
 
 英文释义
 ---
@@ -724,7 +780,9 @@ Keep in mind that it is a shame to ________ (浪费) food.
 
 # ***waste*** n  重难点词汇
 英音 weɪst     美音 weɪst  
-| 词频 5 | 口语 2 | 书面 1 | 阅读 0 |  
+
+ 词频 5 | 口语 2 | 书面 1 | 阅读 0  
+
 用法点拨  [C] & [U]
 
 英文释义
@@ -758,7 +816,8 @@ Keep in mind that it is a shame to ________ (浪费) food.
 
 # ***waste*** adj  重难点词汇
 英音 weɪst     美音 weɪst  
-| 词频 5 | 口语 0 | 书面 1 | 阅读 0 |  
+
+ 词频 5 | 口语 0 | 书面 1 | 阅读 0  
 
 英文释义
 ---
@@ -770,7 +829,8 @@ Keep in mind that it is a shame to ________ (浪费) food.
 
 # ***watch*** v  重难点词汇
 英音 wɒtʃ     美音 wɑːtʃ  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -842,7 +902,8 @@ Keep in mind that it is a shame to ________ (浪费) food.
 
 # ***watch*** n  重难点词汇
 英音 wɒtʃ     美音 wɑːtʃ  
-| 词频 5 | 口语 2 | 书面 1 | 阅读 0 |  
+
+ 词频 5 | 口语 2 | 书面 1 | 阅读 0  
 
 英文释义
 ---
@@ -877,7 +938,8 @@ Keep in mind that it is a shame to ________ (浪费) food.
 
 # ***watchtower*** n
 英音 'wɒtʃtaʊə(r)     美音 'wɑːtʃtaʊər  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -886,7 +948,8 @@ Keep in mind that it is a shame to ________ (浪费) food.
 
 # ***water*** vt
 英音 'wɔːtə(r)     美音 'wɔːtər  
-| 词频 5 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 5 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -898,7 +961,9 @@ Keep in mind that it is a shame to ________ (浪费) food.
 
 # ***water*** n
 英音 'wɔːtə(r)     美音 'wɔːtər  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 用法点拨  [U]
 
 英文释义
@@ -934,7 +999,8 @@ Keep in mind that it is a shame to ________ (浪费) food.
 
 # ***watercolour*** n
 英音 'wɔːtəkʌlə(r)     美音 'wɔːtərkʌlər  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -943,7 +1009,9 @@ Keep in mind that it is a shame to ________ (浪费) food.
 
 # ***waterfall*** n
 英音 'wɔːtəfɔːl     美音 'wɔːtərfɔːl  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -953,7 +1021,9 @@ Keep in mind that it is a shame to ________ (浪费) food.
 
 # ***watermelon*** n
 英音 'wɔːtəmelən     美音 'wɔːtərmelən  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C] & [U]
 
 英文释义
@@ -963,7 +1033,8 @@ Keep in mind that it is a shame to ________ (浪费) food.
 
 # ***waterproof*** adj
 英音 'wɔːtəpruːf     美音 'wɔːtərpruːf  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -972,7 +1043,8 @@ Keep in mind that it is a shame to ________ (浪费) food.
 
 # ***watery*** adj
 英音 'wɔːtəri     美音 'wɑːtəri  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -981,7 +1053,8 @@ Keep in mind that it is a shame to ________ (浪费) food.
 
 # ***wave*** v
 英音 weɪv     美音 wev  
-| 词频 4 | 口语 1 | 书面 1 | 阅读 0 |  
+
+ 词频 4 | 口语 1 | 书面 1 | 阅读 0  
 
 英文释义
 ---
@@ -1008,7 +1081,9 @@ Keep in mind that it is a shame to ________ (浪费) food.
 
 # ***wave*** n
 英音 weɪv     美音 wev  
-| 词频 4 | 口语 1 | 书面 2 | 阅读 0 |  
+
+ 词频 4 | 口语 1 | 书面 2 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -1033,7 +1108,8 @@ Keep in mind that it is a shame to ________ (浪费) food.
 
 # ***wavy*** adj
 英音 'weɪvi     美音 'weɪvi  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -1042,7 +1118,9 @@ Keep in mind that it is a shame to ________ (浪费) food.
 
 # ***wax*** n
 英音 wæks     美音 wæks  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [U]
 
 英文释义
@@ -1052,7 +1130,9 @@ Keep in mind that it is a shame to ________ (浪费) food.
 
 # ***way*** n  重难点词汇
 英音 weɪ     美音 weɪ  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -1224,7 +1304,8 @@ Mrs. Smith finds it hard to clear up the mess, as her children are always ______
 
 # ***we*** pron
 英音 wɪ:, wɪ     美音 wɪ, wɪ:  
-| 词频 5 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 5 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -1241,7 +1322,8 @@ Mrs. Smith finds it hard to clear up the mess, as her children are always ______
 
 # ***weak*** adj
 英音 wi:k     美音 wi:k  
-| 词频 4 | 口语 1 | 书面 2 | 阅读 0 |  
+
+ 词频 4 | 口语 1 | 书面 2 | 阅读 0  
 
 英文释义
 ---
@@ -1267,7 +1349,8 @@ weakly /'wiːkli/ adv
 
 # ***weaken*** v
 英音 'wi:kən     美音 'wi:kən  
-| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -1279,7 +1362,8 @@ weakly /'wiːkli/ adv
 
 # ***weakness*** n
 英音 'wiːknəs     美音 'wiːknəs  
-| 词频 4 | 口语 0 | 书面 1 | 阅读 0 |  
+
+ 词频 4 | 口语 0 | 书面 1 | 阅读 0  
 
 英文释义
 ---
@@ -1304,7 +1388,9 @@ We should know our own strengths and ________ (弱点) and think what could be d
 
 # ***wealth*** n
 英音 welθ     美音 welθ  
-| 词频 4 | 口语 0 | 书面 1 | 阅读 0 |  
+
+ 词频 4 | 口语 0 | 书面 1 | 阅读 0  
+
 用法点拨  [U]
 
 英文释义
@@ -1317,7 +1403,8 @@ We should know our own strengths and ________ (弱点) and think what could be d
 
 # ***wealthy*** adj
 英音 'welθi     美音 'welθi  
-| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -1329,7 +1416,9 @@ We should know our own strengths and ________ (弱点) and think what could be d
 
 # ***weapon*** n
 英音 'wepən     美音 'wepən  
-| 词频 3 | 口语 1 | 书面 2 | 阅读 0 |  
+
+ 词频 3 | 口语 1 | 书面 2 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -1339,7 +1428,9 @@ We should know our own strengths and ________ (弱点) and think what could be d
 
 # ***wear*** v
 英音 weə(r)     美音 wer  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 用法点拨  (wore, worn)
 
 英文释义
@@ -1399,7 +1490,8 @@ Mother always complains that children ________ (穿破) their shoes very quickly
 
 # ***weary*** v
 英音 'wɪəri     美音 'wɪri  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -1408,7 +1500,9 @@ Mother always complains that children ________ (穿破) their shoes very quickly
 
 # ***weather*** n
 英音 'weðə(r)     美音 'weðər  
-| 词频 5 | 口语 3 | 书面 2 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 2 | 阅读 0  
+
 用法点拨  [U]
 
 英文释义
@@ -1425,7 +1519,9 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 # ***weave*** v
 英音 wiːv     美音 wiːv  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  (wove, woven)
 
 英文释义
@@ -1435,7 +1531,9 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 # ***web*** n
 英音 web     美音 web  
-| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
+
+ 词频 4 | 口语 2 | 书面 2 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -1461,7 +1559,9 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 # ***website*** n
 英音 'websaɪt     美音 'websaɪt  
-| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
+
+ 词频 4 | 口语 2 | 书面 2 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -1475,7 +1575,9 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 # ***wedding*** n
 英音 'wedɪŋ     美音 'wedɪŋ  
-| 词频 4 | 口语 2 | 书面 1 | 阅读 0 |  
+
+ 词频 4 | 口语 2 | 书面 1 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -1488,7 +1590,8 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 # ***wedding*** n
 英音 'wedɪŋ     美音 'wedɪŋ  
-| 词频 4 | 口语 2 | 书面 1 | 阅读 0 |  
+
+ 词频 4 | 口语 2 | 书面 1 | 阅读 0  
 
 英文释义
 ---
@@ -1500,7 +1603,9 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 # ***weed*** n
 英音 wiːd     美音 wiːd  
-| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -1510,7 +1615,8 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 # ***weed*** v
 英音 wiːd     美音 wiːd  
-| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -1519,7 +1625,9 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 # ***week*** n
 英音 wiːk     美音 wiːk  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -1538,7 +1646,9 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 # ***weekday*** n
 英音 'wiːkdeɪ     美音 'wiːkdeɪ  
-| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -1554,7 +1664,9 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 # ***weekend*** n
 英音 ˌwiːk'end     美音 'wiːkend  
-| 词频 5 | 口语 3 | 书面 2 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 2 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -1575,7 +1687,8 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 # ***weekly*** adj
 英音 'wiːkli     美音 'wiːkli  
-| 词频 3 | 口语 0 | 书面 1 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 1 | 阅读 0  
 
 英文释义
 ---
@@ -1587,7 +1700,8 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 # ***weekly*** adv
 英音 'wiːkli     美音 'wiːkli  
-| 词频 3 | 口语 0 | 书面 1 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 1 | 阅读 0  
 
 英文释义
 ---
@@ -1599,7 +1713,8 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 # ***weekly*** n
 英音 'wiːkli     美音 'wiːkli  
-| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -1608,7 +1723,9 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 # ***weep*** vi
 英音 wiːp     美音 wiːp  
-| 词频 1 | 口语 1 | 书面 1 | 阅读 0 |  
+
+ 词频 1 | 口语 1 | 书面 1 | 阅读 0  
+
 用法点拨  (wept, wept)
 
 英文释义
@@ -1626,7 +1743,8 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 # ***weep*** n
 英音 wiːp     美音 wiːp  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -1635,7 +1753,8 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 # ***weigh*** v
 英音 weɪ     美音 weɪ  
-| 词频 3 | 口语 2 | 书面 1 | 阅读 0 |  
+
+ 词频 3 | 口语 2 | 书面 1 | 阅读 0  
 
 英文释义
 ---
@@ -1663,7 +1782,9 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 # ***weight*** n
 英音 weɪt     美音 weɪt  
-| 词频 4 | 口语 3 | 书面 2 | 阅读 0 |  
+
+ 词频 4 | 口语 3 | 书面 2 | 阅读 0  
+
 用法点拨  [C]&[U]
 
 英文释义
@@ -1688,7 +1809,8 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 # ***weight-loss*** n
 英音 'weɪtl'ɒs     美音 'weɪtl'ɒs  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -1697,7 +1819,8 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 # ***weightlessly*** adv
 英音 'weɪtləs     美音 'weɪtləs  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -1706,7 +1829,8 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 # ***weird*** adj
 英音 wɪəd     美音 wɪrd  
-| 词频 1 | 口语 2 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 2 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -1718,7 +1842,9 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 # ***welcome*** n  重难点词汇
 英音 'welkəm     美音 'welkəm  
-| 词频 5 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 5 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C] & [U]
 
 英文释义
@@ -1735,7 +1861,8 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 
 # ***welcome*** vt  重难点词汇
 英音 'welkəm     美音 'welkəm  
-| 词频 5 | 口语 2 | 书面 2 | 阅读 0 |  
+
+ 词频 5 | 口语 2 | 书面 2 | 阅读 0  
 
 英文释义
 ---
@@ -1762,7 +1889,8 @@ Brown stood at the door, ________ (欢迎) newcomers with a large smile.
 
 # ***welcome*** adj  重难点词汇
 英音 'welkəm     美音 'welkəm  
-| 词频 5 | 口语 2 | 书面 1 | 阅读 0 |  
+
+ 词频 5 | 口语 2 | 书面 1 | 阅读 0  
 
 英文释义
 ---
@@ -1802,7 +1930,8 @@ allowed to do sth：
 
 # ***welcome*** int  重难点词汇
 英音 'welkəm     美音 'welkəm  
-| 词频 5 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 5 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -1819,7 +1948,9 @@ welcoming /'welkəmɪŋ/ adj
 
 # ***welfare*** n
 英音 'welfeə(r)     美音 'welfer  
-| 词频 1 | 口语 1 | 书面 2 | 阅读 1 |  
+
+ 词频 1 | 口语 1 | 书面 2 | 阅读 1  
+
 用法点拨  [U]
 
 英文释义
@@ -1835,7 +1966,9 @@ welcoming /'welkəmɪŋ/ adj
 
 # ***well*** n
 英音 wel     美音 wel  
-| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -1845,7 +1978,9 @@ welcoming /'welkəmɪŋ/ adj
 
 # ***well*** adv  重难点词汇
 英音 wel     美音 wel  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 用法点拨  (better, best)
 
 英文释义
@@ -1935,7 +2070,9 @@ This training program can give you a lift at work, as good as increase your inco
 
 # ***well*** adj  重难点词汇
 英音 wel     美音 wel  
-| 词频 5 | 口语 3 | 书面 2 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 2 | 阅读 0  
+
 用法点拨  (better, best)[通常不用于名词前]
 
 英文释义
@@ -1949,7 +2086,9 @@ This training program can give you a lift at work, as good as increase your inco
 
 # ***well*** int  重难点词汇
 英音 wel     美音 wel  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 用法点拨  [用于中断谈话、稍作停顿，表达说话者的态度或心情]
 
 英文释义
@@ -1959,7 +2098,8 @@ This training program can give you a lift at work, as good as increase your inco
 
 # ***well-behaved*** adj
 英音 'welbɪh'eɪvd     
-| 词频 0 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 0 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -1968,7 +2108,9 @@ This training program can give you a lift at work, as good as increase your inco
 
 # ***well-being*** n
 英音 wel 'biːɪŋ     美音 wel 'biːɪŋ  
-| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [U]
 
 英文释义
@@ -1981,7 +2123,8 @@ This training program can give you a lift at work, as good as increase your inco
 
 # ***well-dressed*** adj
 英音 well-dressed     美音 'wel'drest  
-| 词频 0 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 0 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -1990,7 +2133,8 @@ This training program can give you a lift at work, as good as increase your inco
 
 # ***well-educated*** adj
 英音 'wel'edjuːkeɪtɪd     
-| 词频 0 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 0 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -1999,7 +2143,8 @@ This training program can give you a lift at work, as good as increase your inco
 
 # ***well-known*** adj
 英音 'wel'nəʊn     美音 'wel'noʊn  
-| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 4 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -2023,7 +2168,8 @@ This training program can give you a lift at work, as good as increase your inco
 
 # ***well-off*** adj
 英音 ˌwel'ɔf     美音 ˌwel'ɔf  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -2032,7 +2178,9 @@ This training program can give you a lift at work, as good as increase your inco
 
 # ***west*** n
 英音 west     美音 west  
-| 词频 5 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 5 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [U]
 
 英文释义
@@ -2049,7 +2197,8 @@ This training program can give you a lift at work, as good as increase your inco
 
 # ***west*** adj
 英音 west     美音 west  
-| 词频 5 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 5 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -2064,7 +2213,8 @@ This training program can give you a lift at work, as good as increase your inco
 
 # ***west*** adv
 英音 west     美音 west  
-| 词频 5 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 5 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -2076,7 +2226,8 @@ This training program can give you a lift at work, as good as increase your inco
 
 # ***western*** adj
 英音 'westən     美音 'westərn  
-| 词频 4 | 口语 2 | 书面 0 | 阅读 0 |  
+
+ 词频 4 | 口语 2 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -2097,7 +2248,8 @@ westerner /'westənə(r)/ n [C]
 
 # ***westward*** adj & adv
 英音 'westwəd     美音 'westwəd  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -2112,7 +2264,8 @@ westerner /'westənə(r)/ n [C]
 
 # ***westwards*** adj & adv
 英音 'westwədz     美音 'westwərdz  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -2127,7 +2280,8 @@ westerner /'westənə(r)/ n [C]
 
 # ***wet*** adj
 英音 wet     美音 wet  
-| 词频 4 | 口语 2 | 书面 1 | 阅读 0 |  
+
+ 词频 4 | 口语 2 | 书面 1 | 阅读 0  
 
 英文释义
 ---
@@ -2143,7 +2297,9 @@ westerner /'westənə(r)/ n [C]
 
 # ***whale*** n
 英音 weɪl     美音 weɪl  
-| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -2153,7 +2309,9 @@ westerner /'westənə(r)/ n [C]
 
 # ***wharf*** n
 英音 wɔːf     美音 wɔːrf  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -2163,7 +2321,8 @@ westerner /'westənə(r)/ n [C]
 
 # ***what*** pron
 英音 wɒt     美音 wɑːt  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -2246,7 +2405,8 @@ _______ a strange plant! I’ve never seen it before.
 
 # ***what*** adj
 英音 wɒt     美音 wɑːt  
-| 词频 5 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 5 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -2263,7 +2423,8 @@ _______ a strange plant! I’ve never seen it before.
 
 # ***whatever*** pron
 英音 wɒt'evə(r)     美音 wət'evər  
-| 词频 4 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 4 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -2339,7 +2500,8 @@ D.Whatever the weather is like
 
 # ***whatever*** adj
 英音 wɒt'evə(r)     美音 wət'evər  
-| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 4 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -2354,7 +2516,8 @@ D.Whatever the weather is like
 
 # ***whatever*** adv
 英音 wɒt'evə(r)     美音 wət'evər  
-| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 4 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -2366,7 +2529,9 @@ D.Whatever the weather is like
 
 # ***wheat*** n
 英音 wiːt     美音 wiːt  
-| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [U]
 
 英文释义
@@ -2376,7 +2541,9 @@ D.Whatever the weather is like
 
 # ***wheel*** n
 英音 wiːl     美音 wiːl  
-| 词频 4 | 口语 2 | 书面 1 | 阅读 0 |  
+
+ 词频 4 | 口语 2 | 书面 1 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -2386,7 +2553,9 @@ D.Whatever the weather is like
 
 # ***wheelchair*** n
 英音 'wiːltʃeə(r)     美音 'wiːltʃer  
-| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 4 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -2396,7 +2565,8 @@ D.Whatever the weather is like
 
 # ***when*** adv
 英音 wen     美音 wen  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -2436,7 +2606,8 @@ As the smallest child of his family, Alex is always longing for the time _______
 
 # ***when*** conj
 英音 wen     美音 wen  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -2489,7 +2660,8 @@ She had just finished her homework ________ her mother asked her to practise pla
 
 # ***when*** pron
 英音 wen     美音 wen  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -2513,7 +2685,8 @@ The last time we had great fun was ________ we were visiting the Water Park.
 
 # ***whenever*** conj
 英音 wen'evə(r)     美音 wen'evər  
-| 词频 4 | 口语 2 | 书面 1 | 阅读 0 |  
+
+ 词频 4 | 口语 2 | 书面 1 | 阅读 0  
 
 英文释义
 ---
@@ -2553,7 +2726,9 @@ D.however
 
 # ***whenever*** adv
 英音 wen'evə(r)     美音 wen'evər  
-| 词频 4 | 口语 2 | 书面 1 | 阅读 0 |  
+
+ 词频 4 | 口语 2 | 书面 1 | 阅读 0  
+
 用法点拨  [用于问句，表示惊奇]
 
 英文释义
@@ -2566,7 +2741,8 @@ D.however
 
 # ***where*** adv
 英音 weə(r)     美音 wer  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -2630,7 +2806,8 @@ You have to know ________ you’re going if you are to plan the best way of gett
 
 # ***where*** conj
 英音 weə(r)     美音 wer  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -2655,7 +2832,9 @@ You have to know ________ you’re going if you are to plan the best way of gett
 
 # ***where*** pron
 英音 weə(r)     美音 wer  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 用法点拨  [用作 from, to, in 的宾语]
 
 英文释义
@@ -2671,7 +2850,8 @@ You have to know ________ you’re going if you are to plan the best way of gett
 
 # ***whereabouts*** adv
 英音 'weərəbaʊts     美音 'werəbaʊts  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -2680,7 +2860,9 @@ You have to know ________ you’re going if you are to plan the best way of gett
 
 # ***whereas*** conj
 英音 ˌweər'æz     美音 ˌwer'æz  
-| 词频 2 | 口语 2 | 书面 2 | 阅读 2 |  
+
+ 词频 2 | 口语 2 | 书面 2 | 阅读 2  
+
 用法点拨  [引导进行对比、 对照的从句]
 
 英文释义
@@ -2693,7 +2875,9 @@ You have to know ________ you’re going if you are to plan the best way of gett
 
 # ***wherever*** conj
 英音 weər'evə(r)     美音 wer'evər  
-| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [相当于 no matter where，引导让步状语从句]
 
 英文释义
@@ -2720,7 +2904,9 @@ D.whichever
 
 # ***wherever*** adv
 英音 weər'evə(r)     美音 wer'evər  
-| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [用于问句，表示惊讶]
 
 英文释义
@@ -2733,7 +2919,8 @@ D.whichever
 
 # ***whether*** conj
 英音 'weðə(r)     美音 'weðər  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -2795,7 +2982,8 @@ All people, ________ they are old or young, rich or poor, have been trying their
 
 # ***which*** pron
 英音 wɪtʃ     美音 wɪtʃ  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -2860,7 +3048,8 @@ D.which
 
 # ***which*** adj
 英音 wɪtʃ     美音 wɪtʃ  
-| 词频 5 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 5 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -2875,7 +3064,8 @@ D.which
 
 # ***whichever*** pron
 英音 wɪtʃ'evə(r)     美音 wɪtʃ'evər  
-| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -2911,7 +3101,8 @@ D.wherever
 
 # ***whichever*** adj
 英音 wɪtʃ'evə(r)     美音 wɪtʃ'evər  
-| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -2939,7 +3130,8 @@ D.Wherever
 
 # ***while*** conj
 英音 waɪl     美音 waɪl  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -2996,7 +3188,9 @@ Mary made coffee ________ her guests were finishing their meal.
 
 # ***while*** n
 英音 waɪl     美音 waɪl  
-| 词频 5 | 口语 3 | 书面 2 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 2 | 阅读 0  
+
 用法点拨  [U] 
 
 英文释义
@@ -3018,7 +3212,8 @@ Mary made coffee ________ her guests were finishing their meal.
 
 # ***whilst*** conj
 英音 waɪlst     美音 waɪlst  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -3027,7 +3222,9 @@ Mary made coffee ________ her guests were finishing their meal.
 
 # ***whip*** n
 英音 wɪp     美音 wɪp  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -3037,7 +3234,8 @@ Mary made coffee ________ her guests were finishing their meal.
 
 # ***whip*** vt
 英音 wɪp     美音 wɪp  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -3049,7 +3247,8 @@ Mary made coffee ________ her guests were finishing their meal.
 
 # ***whirlpool*** n
 英音 'wɜːlpuːl     美音 'wɜːrlpuːl  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -3058,7 +3257,8 @@ Mary made coffee ________ her guests were finishing their meal.
 
 # ***whisker*** n
 英音 'wɪskə(r)     美音 'wɪskər  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -3067,7 +3267,8 @@ Mary made coffee ________ her guests were finishing their meal.
 
 # ***whisper*** v
 英音 'wɪspə(r)     美音 'wɪspər  
-| 词频 3 | 口语 0 | 书面 1 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 1 | 阅读 0  
 
 英文释义
 ---
@@ -3094,7 +3295,9 @@ Mum whispered_________ us, “Be quiet! Your little sister’s sleeping.”
 
 # ***whisper*** n
 英音 'wɪspə(r)     美音 'wɪspər  
-| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -3108,7 +3311,9 @@ Mum whispered_________ us, “Be quiet! Your little sister’s sleeping.”
 
 # ***whistle*** n
 英音 'wɪsl     美音 'wɪsl  
-| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -3126,7 +3331,8 @@ Mum whispered_________ us, “Be quiet! Your little sister’s sleeping.”
 
 # ***whistle*** vi
 英音 'wɪsl     美音 'wɪsl  
-| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -3141,7 +3347,8 @@ Mum whispered_________ us, “Be quiet! Your little sister’s sleeping.”
 
 # ***white*** adj
 英音 waɪt     美音 waɪt  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -3153,7 +3360,8 @@ Mum whispered_________ us, “Be quiet! Your little sister’s sleeping.”
 
 # ***white*** n
 英音 waɪt     美音 waɪt  
-| 词频 5 | 口语 1 | 书面 2 | 阅读 0 |  
+
+ 词频 5 | 口语 1 | 书面 2 | 阅读 0  
 
 英文释义
 ---
@@ -3162,7 +3370,8 @@ Mum whispered_________ us, “Be quiet! Your little sister’s sleeping.”
 
 # ***who*** pron
 英音 huː     美音 huː  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -3215,7 +3424,8 @@ How much one enjoys himself travelling depends largely on ________ he goes with,
 
 # ***whoever*** pron
 英音 huː'evə(r)     美音 huː'evər  
-| 词频 3 | 口语 2 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 2 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -3267,7 +3477,8 @@ D.whoever
 
 # ***whole*** adj
 英音 həʊl     美音 hoʊl  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -3287,7 +3498,8 @@ D.whoever
 
 # ***whole*** n
 英音 həʊl     美音 hoʊl  
-| 词频 5 | 口语 2 | 书面 2 | 阅读 0 |  
+
+ 词频 5 | 口语 2 | 书面 2 | 阅读 0  
 
 英文释义
 ---
@@ -3318,7 +3530,9 @@ D.whoever
 
 # ***whom*** pron
 英音 huːm     美音 huːm  
-| 词频 4 | 口语 1 | 书面 3 | 阅读 0 |  
+
+ 词频 4 | 口语 1 | 书面 3 | 阅读 0  
+
 用法点拨  [who的宾格，尤用于正式讲话或书面语中]
 
 英文释义
@@ -3375,7 +3589,9 @@ She brought with her three friends, none of ________ I had ever met before.
 
 # ***whose*** pron
 英音 huːz     美音 huːz  
-| 词频 4 | 口语 2 | 书面 3 | 阅读 0 |  
+
+ 词频 4 | 口语 2 | 书面 3 | 阅读 0  
+
 用法点拨  [who 或 which 的所有格]
 
 英文释义
@@ -3422,7 +3638,8 @@ I wish to thank Professor Smith, without ________ help I would never have got th
 
 # ***why*** adv
 英音 waɪ     美音 waɪ  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -3496,7 +3713,8 @@ D.which
 
 # ***why*** int
 英音 waɪ     美音 waɪ  
-| 词频 5 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 5 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -3508,7 +3726,8 @@ D.which
 
 # ***wicked*** adj
 英音 'wɪkɪd     美音 'wɪkɪd  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -3517,7 +3736,8 @@ D.which
 
 # ***wide*** adj
 英音 waɪd     美音 waɪd  
-| 词频 4 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 4 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -3551,7 +3771,8 @@ D.which
 
 # ***wide*** adv
 英音 waɪd     美音 waɪd  
-| 词频 4 | 口语 1 | 书面 1 | 阅读 0 |  
+
+ 词频 4 | 口语 1 | 书面 1 | 阅读 0  
 
 英文释义
 ---
@@ -3577,7 +3798,8 @@ widen /'waɪdn/ v
 
 # ***wide-eyed*** adj
 英音 waɪdaɪd     美音 waɪdaɪd  
-| 词频 0 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 0 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -3586,7 +3808,8 @@ widen /'waɪdn/ v
 
 # ***widely*** adv
 英音 'waɪdli     美音 'waɪdli  
-| 词频 4 | 口语 0 | 书面 2 | 阅读 0 |  
+
+ 词频 4 | 口语 0 | 书面 2 | 阅读 0  
 
 英文释义
 ---
@@ -3619,7 +3842,8 @@ China Daily is ________ (广泛地) read in North America.
 
 # ***widen*** v
 英音 'waɪdn     
-| 词频 0 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 0 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -3628,7 +3852,8 @@ China Daily is ________ (广泛地) read in North America.
 
 # ***widespread*** adj
 英音 'waɪdspred     美音 'waɪdspred  
-| 词频 2 | 口语 0 | 书面 1 | 阅读 2 |  
+
+ 词频 2 | 口语 0 | 书面 1 | 阅读 2  
 
 英文释义
 ---
@@ -3647,7 +3872,9 @@ China Daily is ________ (广泛地) read in North America.
 
 # ***widow*** n
 英音 'wɪdəʊ     美音 'wɪdoʊ  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -3657,7 +3884,9 @@ China Daily is ________ (广泛地) read in North America.
 
 # ***width*** n
 英音 wɪdθ     美音 wɪdθ  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [U] & [C] [常与 a 连用]
 
 英文释义
@@ -3677,7 +3906,9 @@ China Daily is ________ (广泛地) read in North America.
 
 # ***wife*** n
 英音 waɪf     美音 waɪf  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 用法点拨  [C] (pl wives)
 
 英文释义
@@ -3687,7 +3918,8 @@ China Daily is ________ (广泛地) read in North America.
 
 # ***wild*** adj
 英音 waɪld     美音 waɪld  
-| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
+
+ 词频 4 | 口语 2 | 书面 2 | 阅读 0  
 
 英文释义
 ---
@@ -3723,7 +3955,9 @@ wildly /'waɪldli/ adv
 
 # ***wild*** n
 英音 waɪld     美音 waɪld  
-| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 4 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [常用 the wild]
 
 英文释义
@@ -3737,7 +3971,9 @@ wildly /'waɪldli/ adv
 
 # ***wildlife*** n
 英音 'waɪldlaɪf     美音 'waɪldlaɪf  
-| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 4 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [U]
 
 英文释义
@@ -3747,7 +3983,8 @@ wildly /'waɪldli/ adv
 
 # ***will*** n
 英音 wɪl     美音 wɪl  
-| 词频 5 | 口语 2 | 书面 2 | 阅读 0 |  
+
+ 词频 5 | 口语 2 | 书面 2 | 阅读 0  
 
 英文释义
 ---
@@ -3785,7 +4022,9 @@ wildly /'waɪldli/ adv
 
 # ***will*** modal v
 英音 wɪl     美音 wɪl  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 用法点拨  (would)
 
 英文释义
@@ -3848,7 +4087,8 @@ D.do
 
 # ***willing*** adj
 英音 'wɪlɪŋ     美音 'wɪlɪŋ  
-| 词频 4 | 口语 2 | 书面 1 | 阅读 0 |  
+
+ 词频 4 | 口语 2 | 书面 1 | 阅读 0  
 
 英文释义
 ---
@@ -3872,7 +4112,8 @@ willingness /'wɪlɪŋnəs/ n [U]
 
 # ***willow*** n
 英音 'wɪləʊ     美音 'wɪloʊ  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -3881,7 +4122,9 @@ willingness /'wɪlɪŋnəs/ n [U]
 
 # ***win*** v
 英音 wɪn     美音 wɪn  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 用法点拨  (won, won)
 
 英文释义
@@ -3916,7 +4159,9 @@ winning /winning/ adj [只用于名词前]
 
 # ***wind*** n
 英音 wɪnd     美音 wɪnd  
-| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
+
+ 词频 4 | 口语 2 | 书面 2 | 阅读 0  
+
 用法点拨  [C] & [U]
 
 英文释义
@@ -3929,7 +4174,9 @@ winning /winning/ adj [只用于名词前]
 
 # ***wind*** v
 英音 waɪnd     美音 waɪnd  
-| 词频 2 | 口语 2 | 书面 1 | 阅读 0 |  
+
+ 词频 2 | 口语 2 | 书面 1 | 阅读 0  
+
 用法点拨  (wound, wound)
 
 英文释义
@@ -3963,7 +4210,9 @@ winding  /winding/ adj
 
 # ***window*** n
 英音 'wɪndəʊ     美音 'wɪndoʊ  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 用法点拨   [C] 
 
 英文释义
@@ -3976,7 +4225,8 @@ winding  /winding/ adj
 
 # ***windsurfing*** n
 英音 'wɪndsɜːfɪŋ     美音 'wɪndsɜːfɪŋ  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -3985,7 +4235,8 @@ winding  /winding/ adj
 
 # ***windy*** adj
 英音 'wɪndi     美音 'wɪndi  
-| 词频 2 | 口语 1 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 1 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -3994,7 +4245,9 @@ winding  /winding/ adj
 
 # ***wine*** n
 英音 waɪn     美音 waɪn  
-| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
+
+ 词频 4 | 口语 2 | 书面 2 | 阅读 0  
+
 用法点拨  [C] & [U]
 
 英文释义
@@ -4004,7 +4257,9 @@ winding  /winding/ adj
 
 # ***wing*** n
 英音 wɪŋ     美音 wɪŋ  
-| 词频 3 | 口语 2 | 书面 2 | 阅读 0 |  
+
+ 词频 3 | 口语 2 | 书面 2 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -4014,7 +4269,9 @@ winding  /winding/ adj
 
 # ***winner*** n
 英音 'wɪnə(r)     美音 'wɪnər  
-| 词频 4 | 口语 1 | 书面 2 | 阅读 0 |  
+
+ 词频 4 | 口语 1 | 书面 2 | 阅读 0  
+
 用法点拨  [C] 
 
 英文释义
@@ -4024,7 +4281,8 @@ winding  /winding/ adj
 
 # ***winning*** adj
 英音 'wɪnɪŋ     美音 'wɪnɪŋ  
-| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 4 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -4033,7 +4291,9 @@ winding  /winding/ adj
 
 # ***winter*** n
 英音 'wɪntə(r)     美音 'wɪntər  
-| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
+
+ 词频 4 | 口语 2 | 书面 2 | 阅读 0  
+
 用法点拨  [C] & [U]
 
 英文释义
@@ -4047,7 +4307,8 @@ winding  /winding/ adj
 
 # ***wipe*** vt
 英音 waɪp     美音 waɪp  
-| 词频 2 | 口语 1 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 1 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -4089,7 +4350,9 @@ winding  /winding/ adj
 
 # ***wire*** n
 英音 'waɪə(r)     美音 'waɪər  
-| 词频 3 | 口语 2 | 书面 1 | 阅读 0 |  
+
+ 词频 3 | 口语 2 | 书面 1 | 阅读 0  
+
 用法点拨  [C] & [U]
 
 英文释义
@@ -4099,7 +4362,8 @@ winding  /winding/ adj
 
 # ***wireless*** adj
 英音 'waɪələs     美音 'waɪərləs  
-| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -4108,7 +4372,9 @@ winding  /winding/ adj
 
 # ***wisdom*** n
 英音 'wɪzdəm     美音 'wɪzdəm  
-| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [U] 
 
 英文释义
@@ -4124,7 +4390,8 @@ winding  /winding/ adj
 
 # ***wise*** adj
 英音 'waɪz     美音 'waɪz  
-| 词频 3 | 口语 1 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 1 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -4149,7 +4416,8 @@ winding  /winding/ adj
 
 # ***wisely*** adv
 英音 waɪzli     美音 waɪzli  
-| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -4158,7 +4426,8 @@ winding  /winding/ adj
 
 # ***wish*** v
 英音 wɪʃ     美音 wɪʃ  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -4220,7 +4489,9 @@ I wish I ________ (be) at my sister’s wedding last Tuesday, but I was on a bus
 
 # ***wish*** n
 英音 wɪʃ     美音 wɪʃ  
-| 词频 5 | 口语 1 | 书面 0 | 阅读 0 |  
+
+ 词频 5 | 口语 1 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -4240,7 +4511,8 @@ I wish I ________ (be) at my sister’s wedding last Tuesday, but I was on a bus
 
 # ***witch*** n
 英音 wɪtʃ     美音 wɪtʃ  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -4249,7 +4521,8 @@ I wish I ________ (be) at my sister’s wedding last Tuesday, but I was on a bus
 
 # ***with*** prep
 英音 wɪð, wɪθ     美音 wɪθ, wɪð  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -4356,7 +4629,9 @@ You have no idea how she finished the relay race ________her foot wounded so muc
 
 # ***withdraw*** v
 英音 wɪð'drɔː, wɪθ'drɔː     美音 wɪθ'drɔː, wɪð'drɔː  
-| 词频 3 | 口语 3 | 书面 2 | 阅读 1 |  
+
+ 词频 3 | 口语 3 | 书面 2 | 阅读 1  
+
 用法点拨  (withdrew, withdrawn)
 
 英文释义
@@ -4379,7 +4654,9 @@ You have no idea how she finished the relay race ________her foot wounded so muc
 
 # ***withdrawal*** n
 英音 wɪð'drɔːəl     美音 wɪð'drɔːəl  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨   [C] & [U]
 
 英文释义
@@ -4389,7 +4666,8 @@ You have no idea how she finished the relay race ________her foot wounded so muc
 
 # ***within*** prep
 英音 wɪ'ðɪn     美音 wɪ'ðɪn  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -4418,7 +4696,8 @@ D.around
 
 # ***without*** prep
 英音 wɪ'ðaʊt     美音 wɪ'ðaʊt  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -4452,7 +4731,8 @@ D.By
 
 # ***witness*** n
 英音 'wɪtnəs     美音 'wɪtnəs  
-| 词频 2 | 口语 2 | 书面 1 | 阅读 0 |  
+
+ 词频 2 | 口语 2 | 书面 1 | 阅读 0  
 
 英文释义
 ---
@@ -4471,7 +4751,8 @@ D.By
 
 # ***witness*** vt
 英音 'wɪtnəs     美音 'wɪtnəs  
-| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -4486,7 +4767,9 @@ D.By
 
 # ***wizard*** n
 英音 'wɪzərd     美音 'wɪzəd  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -4496,7 +4779,9 @@ D.By
 
 # ***wolf*** n
 英音 wʊlf     美音 wʊlf  
-| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 4 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C](pl wolves)
 
 英文释义
@@ -4506,7 +4791,9 @@ D.By
 
 # ***woman*** n
 英音 'wʊmən     美音 'wʊmən  
-| 词频 5 | 口语 0 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 0 | 书面 3 | 阅读 0  
+
 用法点拨   [C](pl women) 
 
 英文释义
@@ -4516,7 +4803,8 @@ D.By
 
 # ***wonder*** v  重难点词汇
 英音 'wʌndə(r)     美音 'wʌndər  
-| 词频 5 | 口语 3 | 书面 2 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 2 | 阅读 0  
 
 英文释义
 ---
@@ -4555,7 +4843,8 @@ D.By
 
 # ***wonder*** n  重难点词汇
 英音 'wʌndə(r)     美音 'wʌndər  
-| 词频 5 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 5 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -4594,7 +4883,8 @@ D.By
 
 # ***wonder*** adj  重难点词汇
 英音 'wʌndə(r)     美音 'wʌndər  
-| 词频 5 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 5 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -4614,7 +4904,8 @@ A.
 
 # ***wonderful*** adj
 英音 'wʌndəfl     美音 'wʌndərfl  
-| 词频 5 | 口语 3 | 书面 2 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 2 | 阅读 0  
 
 英文释义
 ---
@@ -4629,7 +4920,8 @@ A.
 
 # ***wonderland*** n
 英音 'wʌndəlænd     美音 'wʌndəlænd  
-| 词频 0 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 0 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -4638,7 +4930,8 @@ A.
 
 # ***wood*** n
 英音 wʊd     美音 wʊd  
-| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
+
+ 词频 4 | 口语 2 | 书面 2 | 阅读 0  
 
 英文释义
 ---
@@ -4653,7 +4946,8 @@ A.
 
 # ***wooden*** adj
 英音 'wʊdn     美音 'wʊdn  
-| 词频 4 | 口语 1 | 书面 1 | 阅读 0 |  
+
+ 词频 4 | 口语 1 | 书面 1 | 阅读 0  
 
 英文释义
 ---
@@ -4670,7 +4964,9 @@ A.
 
 # ***wool*** n
 英音 wʊl     美音 wʊl  
-| 词频 2 | 口语 1 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 1 | 书面 0 | 阅读 0  
+
 用法点拨  [U]
 
 英文释义
@@ -4680,7 +4976,8 @@ A.
 
 # ***wool(l)en*** adj
 英音 'wʊlən     美音 'wʊlɪn  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -4692,7 +4989,8 @@ A.
 
 # ***woolen*** adj
 英音 'wʊlən     美音 'wʊlɪn  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -4704,7 +5002,8 @@ A.
 
 # ***woollen*** adj
 英音 'wʊlən     美音 'wʊlən  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -4716,7 +5015,8 @@ A.
 
 # ***word*** n
 英音 wɜːd     美音 wɜːrd  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -4794,7 +5094,8 @@ A.
 
 # ***work*** v  重难点词汇
 英音 wɜːk     美音 wɜːrk  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -4902,7 +5203,8 @@ You can’t predict everything. Often things don’t work ________as you expect.
 
 # ***work*** n  重难点词汇
 英音 wɜːk     美音 wɜːrk  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -4964,7 +5266,8 @@ working /'wɜːkɪŋ/ n [常用复数]
 
 # ***workaholic*** n
 英音 ˌwɜːkə'hɒlɪk     美音 ˌwɜːrkə'hɔːlɪk  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -4973,7 +5276,8 @@ working /'wɜːkɪŋ/ n [常用复数]
 
 # ***workday*** n
 英音 'wɜːkdeɪ     美音 'wɜːrkdeɪ  
-| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -4982,7 +5286,9 @@ working /'wɜːkɪŋ/ n [常用复数]
 
 # ***worker*** n
 英音 'wɜːkə(r)     美音 'wɜːrkər  
-| 词频 5 | 口语 2 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 2 | 书面 3 | 阅读 0  
+
 用法点拨   [C]
 
 英文释义
@@ -4992,7 +5298,8 @@ working /'wɜːkɪŋ/ n [常用复数]
 
 # ***workhouse*** n
 英音 'wɜːkhaʊs     美音 'wɜːrkhaʊs  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -5001,7 +5308,9 @@ working /'wɜːkɪŋ/ n [常用复数]
 
 # ***workplace*** n
 英音 'wɜːkpleɪs     美音 'wɜːrkpleɪs  
-| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -5011,7 +5320,9 @@ working /'wɜːkɪŋ/ n [常用复数]
 
 # ***workshop*** n
 英音 'wɜːkʃɒp     美音 'wɜːrkʃɑːp  
-| 词频 3 | 口语 1 | 书面 1 | 阅读 0 |  
+
+ 词频 3 | 口语 1 | 书面 1 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -5021,7 +5332,9 @@ working /'wɜːkɪŋ/ n [常用复数]
 
 # ***world*** n
 英音 wɜːld     美音 wɜːrld  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 用法点拨   [C] & [U]
 
 英文释义
@@ -5069,7 +5382,8 @@ working /'wɜːkɪŋ/ n [常用复数]
 
 # ***worldwide*** adj
 英音 'wɜːldwaɪd     美音 'wɜːrldwaɪd  
-| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 4 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -5084,7 +5398,8 @@ working /'wɜːkɪŋ/ n [常用复数]
 
 # ***worldwide*** adv
 英音 'wɜːldwaɪd     美音 'wɜːrldwaɪd  
-| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 4 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -5096,7 +5411,9 @@ working /'wɜːkɪŋ/ n [常用复数]
 
 # ***worm*** n
 英音 wɜːm     美音 wɜːrm  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨   [C] 
 
 英文释义
@@ -5106,7 +5423,8 @@ working /'wɜːkɪŋ/ n [常用复数]
 
 # ***worn*** adj
 英音 wɔːn     美音 wɔːrn  
-| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -5138,7 +5456,8 @@ working /'wɜːkɪŋ/ n [常用复数]
 
 # ***worn-out*** adj
 英音 'wɔːn'aʊt     美音 'woʊrn'aʊt  
-| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -5147,7 +5466,8 @@ working /'wɜːkɪŋ/ n [常用复数]
 
 # ***worried*** adj
 英音 'wʌrid     美音 'wɜːrid  
-| 词频 5 | 口语 2 | 书面 1 | 阅读 0 |  
+
+ 词频 5 | 口语 2 | 书面 1 | 阅读 0  
 
 英文释义
 ---
@@ -5168,7 +5488,8 @@ working /'wɜːkɪŋ/ n [常用复数]
 
 # ***worry*** v
 英音 'wʌri     美音 'wɜːri  
-| 词频 5 | 口语 3 | 书面 2 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 2 | 阅读 0  
 
 英文释义
 ---
@@ -5201,7 +5522,8 @@ to be anxious or unhappy about sb or sth：
 
 # ***worry*** n
 英音 'wʌri     美音 'wɜːri  
-| 词频 5 | 口语 2 | 书面 0 | 阅读 0 |  
+
+ 词频 5 | 口语 2 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -5220,7 +5542,8 @@ worrying /'wʌriɪŋ/ adj
 
 # ***worse*** adj
 英音 wɜːs     美音 wɜːrs  
-| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
+
+ 词频 4 | 口语 2 | 书面 2 | 阅读 0  
 
 英文释义
 ---
@@ -5242,7 +5565,8 @@ It looks like the weather is changing ________ the worse . Shall we stick to our
 
 # ***worse*** adv
 英音 wɜːs     美音 wɜːrs  
-| 词频 4 | 口语 1 | 书面 1 | 阅读 0 |  
+
+ 词频 4 | 口语 1 | 书面 1 | 阅读 0  
 
 英文释义
 ---
@@ -5266,7 +5590,8 @@ It looks like the weather is changing ________ the worse . Shall we stick to our
 
 # ***worse*** n
 英音 wɜːs     美音 wɜːrs  
-| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 4 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -5284,7 +5609,9 @@ It looks like the weather is changing ________ the worse . Shall we stick to our
 
 # ***worship*** n
 英音 'wɜːʃɪp     美音 'wɜːrʃɪp  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [U]
 
 英文释义
@@ -5294,7 +5621,8 @@ It looks like the weather is changing ________ the worse . Shall we stick to our
 
 # ***worship*** v
 英音 'wɜːʃɪp     美音 'wɜːrʃɪp  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -5303,7 +5631,8 @@ It looks like the weather is changing ________ the worse . Shall we stick to our
 
 # ***worst*** adj
 英音 wɜːst     美音 wɜːrst  
-| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -5318,7 +5647,8 @@ It looks like the weather is changing ________ the worse . Shall we stick to our
 
 # ***worst*** adv
 英音 wɜːst     美音 wɜːrst  
-| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -5330,7 +5660,9 @@ It looks like the weather is changing ________ the worse . Shall we stick to our
 
 # ***worst*** n
 英音 wɜːst     美音 wɜːrst  
-| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [U]
 
 英文释义
@@ -5344,7 +5676,9 @@ It looks like the weather is changing ________ the worse . Shall we stick to our
 
 # ***worth*** adj
 英音 wɜːθ     美音 wɜːrθ  
-| 词频 4 | 口语 3 | 书面 2 | 阅读 0 |  
+
+ 词频 4 | 口语 3 | 书面 2 | 阅读 0  
+
 用法点拨  [不用于名词前]
 
 英文释义
@@ -5387,7 +5721,9 @@ It looks like the weather is changing ________ the worse . Shall we stick to our
 
 # ***worth*** n
 英音 wɜːθ     美音 wɜːrθ  
-| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 4 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [U]
 
 英文释义
@@ -5408,7 +5744,8 @@ worthless /'wɜːθləs/ adj
 
 # ***worth*** prep
 英音 wɜːθ     美音 wɜːrθ  
-| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 4 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -5417,7 +5754,8 @@ worthless /'wɜːθləs/ adj
 
 # ***worthless*** adj
 
-| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -5428,7 +5766,8 @@ worthless /'wɜːθləs/ adj
 
 # ***worthwhile*** adj
 英音 ˌwɜːθ'waɪl     美音 ˌwɜːrθ'waɪl  
-| 词频 2 | 口语 1 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 1 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -5456,7 +5795,8 @@ Mistakes don’t just happen; they occur for a reason. Find out the reason, and 
 
 # ***worthy*** adj
 英音 'wɜːði     美音 'wɜːrði  
-| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -5492,7 +5832,9 @@ Mistakes don’t just happen; they occur for a reason. Find out the reason, and 
 
 # ***would*** modal v
 英音 wʊd     美音 wʊd  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 用法点拨  [will的过去式]
 
 英文释义
@@ -5574,7 +5916,8 @@ D.didn’t she
 
 # ***wound*** vt
 英音 wuːnd     美音 wuːnd  
-| 词频 3 | 口语 0 | 书面 1 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 1 | 阅读 0  
 
 英文释义
 ---
@@ -5591,7 +5934,9 @@ D.didn’t she
 
 # ***wound*** n
 英音 wuːnd     美音 wuːnd  
-| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -5611,7 +5956,8 @@ wounded /'wuːndɪd/ adj
 
 # ***wrap*** vt
 英音 ræp     美音 ræp  
-| 词频 3 | 口语 1 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 1 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -5638,7 +5984,9 @@ wrapping /'ræpɪŋ/ n [C] & [U]
 
 # ***wreath*** n
 英音 riːθ     美音 riːθ  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -5648,7 +5996,8 @@ wrapping /'ræpɪŋ/ n [C] & [U]
 
 # ***wreck*** vt
 英音 rek     美音 rek  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -5663,7 +6012,9 @@ wrapping /'ræpɪŋ/ n [C] & [U]
 
 # ***wreck*** n
 英音 rek     美音 rek  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -5679,7 +6030,8 @@ wrapping /'ræpɪŋ/ n [C] & [U]
 
 # ***wrestle*** v
 英音 'resl     美音 'resl  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -5692,7 +6044,8 @@ wrestling  /'reslɪŋ/ n [U]
 
 # ***wrestling*** n
 英音 'reslɪŋ     美音 'reslɪŋ  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -5701,7 +6054,9 @@ wrestling  /'reslɪŋ/ n [U]
 
 # ***wrinkle*** n
 英音 'rɪŋkl     美音 'rɪŋkl  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -5714,7 +6069,8 @@ wrestling  /'reslɪŋ/ n [U]
 
 # ***wrinkle*** v
 英音 'rɪŋkl     美音 'rɪŋkl  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -5729,7 +6085,8 @@ wrestling  /'reslɪŋ/ n [U]
 
 # ***wrinkled*** adj
 英音 'rɪŋkld     美音 'rɪŋkld  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -5738,7 +6095,9 @@ wrestling  /'reslɪŋ/ n [U]
 
 # ***wrist*** n
 英音 rɪst     美音 rɪst  
-| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨   [C]
 
 英文释义
@@ -5748,7 +6107,9 @@ wrestling  /'reslɪŋ/ n [U]
 
 # ***write*** v
 英音 raɪt     美音 raɪt  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
+
 用法点拨  (wrote, written)
 
 英文释义
@@ -5794,7 +6155,8 @@ The article was w ________in German and translated into Chinese.
 
 # ***writer*** n
 英音 'raɪtə(r)     美音 'raɪtər  
-| 词频 5 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 5 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -5803,7 +6165,8 @@ The article was w ________in German and translated into Chinese.
 
 # ***writing*** n
 英音 'raɪtɪŋ     美音 'raɪtɪŋ  
-| 词频 5 | 口语 2 | 书面 1 | 阅读 0 |  
+
+ 词频 5 | 口语 2 | 书面 1 | 阅读 0  
 
 英文释义
 ---
@@ -5823,7 +6186,8 @@ The article was w ________in German and translated into Chinese.
 
 # ***wrong*** adj
 英音 rɒŋ     美音 rɔːŋ  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -5872,7 +6236,8 @@ The article was w ________in German and translated into Chinese.
 
 # ***wrong*** adv
 英音 rɒŋ     美音 rɔːŋ  
-| 词频 5 | 口语 2 | 书面 0 | 阅读 0 |  
+
+ 词频 5 | 口语 2 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -5884,7 +6249,8 @@ The article was w ________in German and translated into Chinese.
 
 # ***wrong*** n
 英音 rɒŋ     美音 rɔːŋ  
-| 词频 5 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 5 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---

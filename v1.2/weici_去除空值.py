@@ -132,13 +132,13 @@ def chuli(t):
     
     #word_level
     print(file=f)
-    print(' 词频 ' + str(a['lv_frequency'])+' | 口语 ' + str(a['lv_speak']) + ' | 书面 ' + str(a['lv_write']) + ' | 阅读 ' + str(a['lv_read'])  ,end='  ', file = f)
-    print(file=f)
+    print(' 词频 ' + str(a['lv_frequency'])+' | 口语 ' + str(a['lv_speak']) + ' | 书面 ' + str(a['lv_write']) + ' | 阅读 ' + str(a['lv_read'])+'  ', file = f)
     print(file=f)
     
     #word_use_method
-    if a['use_method']!='' : print('用法点拨  '+ a['use_method'],file=f)
-    print(file=f)
+    if a['use_method']!='' : 
+        print('用法点拨  '+ a['use_method'],file=f)
+        print(file=f)
     
     #paraphrase
     if a['gy_paraphrase']!=[]:
@@ -209,9 +209,9 @@ print()
 print('请稍后Processing。。。')
 
 #Save
-if ch=='1': #按小写字母输出到文件
+if ch.find('1')!=-1: #按小写字母输出到文件
     i=1
-    while i<=1:  
+    while i<=26:  
         f = open('%s' % path_save+'\weici_'+chr(ord('A')+i-1)+'.md','w',encoding='utf-8')
         cursor = c.execute("select * from fb_word_detail order by word asc")
         print('%s' % path_save+'\weici_'+chr(ord('A')+i-1)+'.md')
@@ -221,25 +221,28 @@ if ch=='1': #按小写字母输出到文件
             if row[6]==0 and row[1][0]==chr(ord('a')+i-1) and row[1].find(' ')==-1:chuli(row[3])
         i=i+1      
         
-elif ch=='2': #所有单词输出
+if ch.find('2')!=-1: #所有单词输出
     f = open('%s' % path_save + '\weici_word_7570.md','w',encoding='utf-8')
     cursor = c.execute("select * from fb_word_detail order by word asc")
     for row in cursor:
         if row[6]==0 and row[1].find(' ')==-1:chuli(row[3])
+    print('%s' % path_save + '\weici_word_7570.md')
         
-elif ch=='3': #所有词组输出
+if ch.find('3')!=-1: #所有词组输出
     f = open('%s' % path_save + '\weici_phrase_2542.md','w',encoding='utf-8')
     cursor = c.execute("select * from fb_word_detail order by word asc")
     for row in cursor:
         if row[6]==0 and row[1].find(' ')!=-1:chuli(row[3])
+    print('%s' % path_save + '\weici_phrase_2542.md')
         
-elif ch=='4': #所有词输出
+if ch.find('4')!=-1: #所有词输出
     f = open('%s' % path_save + '\weici_all_10112.md','w',encoding='utf-8')
     cursor = c.execute("select * from fb_word_detail order by word asc")
     for row in cursor:
         if row[6]==0 : chuli(row[3])
+    print('%s' % path_save + '\weici_all_10112.md')
         
-else:
+if ch.find('1')==-1 and ch.find('2')==-1 and ch.find('3')==-1 and ch.find('4')==-1:
     print('输入错误，请重试')
 
 #Finish

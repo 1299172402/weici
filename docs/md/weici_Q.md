@@ -2,7 +2,8 @@
 
 # ***quagga*** n
 英音 'kwæɡə     美音 'kwæɡə  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -11,7 +12,9 @@
 
 # ***quake*** n
 英音 kweɪk     美音 kweɪk  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -21,7 +24,8 @@
 
 # ***quake*** vi
 英音 kweɪk     美音 kweɪk  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -37,7 +41,9 @@
 
 # ***qualification*** n
 英音 ˌkwɒlɪfɪ'keɪʃn     美音 ˌkwɑːlɪfɪ'keɪʃn  
-| 词频 2 | 口语 0 | 书面 1 | 阅读 0 |  
+
+ 词频 2 | 口语 0 | 书面 1 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -57,7 +63,8 @@
 
 # ***qualified*** adj
 英音 'kwɒlɪfaɪd     美音 'kwɑːlɪfaɪd  
-| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -78,7 +85,8 @@
 
 # ***qualify*** v
 英音 'kwɒlɪfaɪ     美音 'kwɑːlɪfaɪ  
-| 词频 1 | 口语 0 | 书面 1 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 1 | 阅读 0  
 
 英文释义
 ---
@@ -93,7 +101,8 @@
 
 # ***quality*** n
 英音 'kwɒləti     美音 'kwɑːləti  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -126,7 +135,8 @@
 
 # ***quality*** adj
 英音 'kwɒləti     美音 'kwɑːləti  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -135,7 +145,9 @@
 
 # ***quantity*** n
 英音 'kwɒntəti     美音 'kwɑːntəti  
-| 词频 3 | 口语 1 | 书面 2 | 阅读 0 |  
+
+ 词频 3 | 口语 1 | 书面 2 | 阅读 0  
+
 用法点拨  [C] & [U]
 
 英文释义
@@ -171,7 +183,8 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 
 # ***quarrel*** vi
 英音 'kwɒrəl     美音 'kwɔːrəl  
-| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 4 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -185,7 +198,9 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 
 # ***quarrel*** n
 英音 'kwɒrəl     美音 'kwɔːrəl  
-| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 4 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -204,7 +219,9 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 
 # ***quarter*** n
 英音 'kwɔːtə(r)     美音 'kwɔːrtər  
-| 词频 4 | 口语 3 | 书面 2 | 阅读 0 |  
+
+ 词频 4 | 口语 3 | 书面 2 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -235,7 +252,9 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 
 # ***queen*** n
 英音 kwiːn     美音 kwiːn  
-| 词频 3 | 口语 2 | 书面 2 | 阅读 0 |  
+
+ 词频 3 | 口语 2 | 书面 2 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -245,7 +264,8 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 
 # ***quest*** n
 英音 kwest     美音 kwest  
-| 词频 0 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 0 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -254,7 +274,8 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 
 # ***question*** n
 英音 'kwestʃən     美音 'kwestʃən  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -286,7 +307,8 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 
 # ***question*** vt
 英音 'kwestʃən     美音 'kwestʃən  
-| 词频 5 | 口语 2 | 书面 1 | 阅读 0 |  
+
+ 词频 5 | 口语 2 | 书面 1 | 阅读 0  
 
 英文释义
 ---
@@ -306,7 +328,9 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 
 # ***questionnaire*** n
 英音 ˌkwestʃə'neə(r)     美音 ˌkwestʃə'ner  
-| 词频 1 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 1 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -320,7 +344,9 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 
 # ***queue*** n
 英音 kjuː     美音 kjuː  
-| 词频 4 | 口语 1 | 书面 0 | 阅读 0 |  
+
+ 词频 4 | 口语 1 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -337,7 +363,8 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 
 # ***queue*** vi
 英音 kjuː     美音 kjuː  
-| 词频 4 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 4 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -350,7 +377,8 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 
 # ***quick*** adj
 英音 kwɪk     美音 kwɪk  
-| 词频 4 | 口语 3 | 书面 2 | 阅读 0 |  
+
+ 词频 4 | 口语 3 | 书面 2 | 阅读 0  
 
 英文释义
 ---
@@ -380,7 +408,8 @@ quicken /'kwɪkən/ v
 
 # ***quicken*** v
 英音 'kwɪkən     
-| 词频 0 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 0 | 口语 0 | 书面 0 | 阅读 0  
 
 英文释义
 ---
@@ -389,7 +418,8 @@ quicken /'kwɪkən/ v
 
 # ***quickly*** adv
 英音 'kwɪkli     美音 'kwɪkli  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -408,7 +438,8 @@ There are only five minutes left. We’ll have to walk q________ to get there on
 
 # ***quiet*** adj
 英音 'kwaɪət     美音 'kwaɪət  
-| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
+
+ 词频 4 | 口语 2 | 书面 2 | 阅读 0  
 
 英文释义
 ---
@@ -444,7 +475,8 @@ quietly /'kwaɪətli/ adv
 
 # ***quiet*** n
 英音 'kwaɪət     美音 'kwaɪət  
-| 词频 4 | 口语 2 | 书面 2 | 阅读 0 |  
+
+ 词频 4 | 口语 2 | 书面 2 | 阅读 0  
 
 英文释义
 ---
@@ -459,7 +491,9 @@ quietly /'kwaɪətli/ adv
 
 # ***quilt*** n
 英音 kwɪlt     美音 kwɪlt  
-| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
@@ -469,7 +503,9 @@ quietly /'kwaɪətli/ adv
 
 # ***quit*** v
 英音 kwɪt     美音 kwɪt  
-| 词频 3 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 3 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  (quit / quitted, quit / quitted) vt & vi [非正式用语]
 
 英文释义
@@ -494,7 +530,8 @@ quietly /'kwaɪətli/ adv
 
 # ***quite*** adv
 英音 kwaɪt     美音 kwaɪt  
-| 词频 5 | 口语 3 | 书面 3 | 阅读 0 |  
+
+ 词频 5 | 口语 3 | 书面 3 | 阅读 0  
 
 英文释义
 ---
@@ -533,7 +570,9 @@ D.much
 
 # ***quiz*** n
 英音 kwɪz     美音 kwɪz  
-| 词频 2 | 口语 0 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 0 | 书面 0 | 阅读 0  
+
 用法点拨  [C](pl quizzes)
 
 英文释义
@@ -546,7 +585,9 @@ D.much
 
 # ***quote*** v
 英音 kwəʊt     美音 kwoʊt  
-| 词频 2 | 口语 2 | 书面 1 | 阅读 0 |  
+
+ 词频 2 | 口语 2 | 书面 1 | 阅读 0  
+
 用法点拨  vt & vi
 
 英文释义
@@ -559,7 +600,9 @@ D.much
 
 # ***quote*** n
 英音 kwəʊt     美音 kwoʊt  
-| 词频 2 | 口语 2 | 书面 0 | 阅读 0 |  
+
+ 词频 2 | 口语 2 | 书面 0 | 阅读 0  
+
 用法点拨  [C]
 
 英文释义
