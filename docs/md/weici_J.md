@@ -12,6 +12,7 @@
 1. *高义频：* **短上衣；夹克**  
 
 
+
 # ***jam*** n
 英音 dʒæm     美音 dʒæm  
 
@@ -20,6 +21,7 @@
 英文释义
 ---
 1. *高义频：* **[C] & [U] 果酱; [C] 堵塞**  
+
 
 > **traffic jam**  
 > Have you ever been stuck in a traffic jam?  
@@ -38,6 +40,7 @@
 1. **罐子；坛子；一罐的量**  
 
 
+
 # ***jaw*** n
 英音 dʒɔ     美音 dʒɔː  
 
@@ -48,6 +51,7 @@
 英文释义
 ---
 1. *高义频：* **颌；颚**  
+
 
 
 # ***jazz*** n
@@ -62,6 +66,7 @@
 1. *高义频：* **爵士乐；爵士舞 (曲)**  
 
 
+
 # ***jealous*** adj
 英音 'dʒeləs     美音 'dʒeləs  
 
@@ -70,6 +75,7 @@
 英文释义
 ---
 1. *高义频：* **嫉妒的；羡慕的：**  
+
 
 > **jealous of**  
 > I'm jealous of her success.  
@@ -88,6 +94,7 @@
 1. *高义频：* **牛仔裤； (牛仔) 工作服**  
 
 
+
 # ***jeep*** n
 英音 dʒiːp     美音 dʒiːp  
 
@@ -98,6 +105,7 @@
 英文释义
 ---
 1. *高义频：* **吉普车**  
+
 
 
 # ***jelly*** n
@@ -112,6 +120,7 @@
 1. *高义频：* **果冻；(不含水果块的) 果酱**  
 
 
+
 # ***jerk*** n
 英音 dʒɜːk     美音 dʒɜːrk  
 
@@ -120,6 +129,7 @@
 英文释义
 ---
 1. **猛拉, 猛的一动**  
+
 
 
 # ***jet*** n
@@ -132,6 +142,7 @@
 英文释义
 ---
 1. *高义频：* **喷气式飞机：**  
+
 
 > jet lag   
 > 飞行时差综合征；时差反应
@@ -148,6 +159,7 @@
 ---
 1. **[C] 宝石； [常用复数] 宝石饰物；贵重饰物：**  
 
+
 > She loves wearing shining jewels.  
 > 她喜欢佩戴闪亮的珠宝首饰。
 
@@ -162,6 +174,7 @@
 英文释义
 ---
 1. *高义频：* **珠宝；首饰：**  
+
 
 > a piece of jewellery  
 > 一件首饰
@@ -179,6 +192,7 @@
 1. *高义频：* **珠宝；首饰：**  
 
 
+
 # ***job*** n
 英音 dʒɒb     美音 dʒɑːb  
 
@@ -190,6 +204,7 @@
 ---
 1. *高义频：* **工作；职业：**  
 
+
 > **apply for / quit a job**  
 > apply for / quit a job  
 > 求职/辞职
@@ -200,10 +215,12 @@
 
 2. *高义频：* **(单件) 工作；活儿 (task)：**  
 
+
 > You do a good / bad job.   
 > 你干得好/不好。
 
 3. *高义频：* **职责；任务：**  
+
 
 > It's not my job.  
 > 这不是我的职责。
@@ -221,6 +238,7 @@ jobless  /'dʒɒbləs/ adj
 英文释义
 ---
 1. *高义频：* **慢跑：**  
+
 
 > When I was young, my parents liked jogging on the beach.   
 > 我小时候，父母喜欢在海滩上慢跑。
@@ -240,6 +258,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 1. **慢跑**  
 
 
+
 # ***jogging*** n
 英音 'dʒɒɡɪŋ     美音 'dʒɑːɡɪŋ  
 
@@ -248,6 +267,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 英文释义
 ---
 1. **慢跑**  
+
 
 
 # ***join*** v
@@ -259,6 +279,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 ---
 1. *高义频：* **(使) 连接；(使) 汇合：**  
 
+
 > **joined to**  
 > The island, joined to the mainland by a bridge, is easy to go to.   
 > 这个岛由一座大桥与大陆相连，很容易到达。
@@ -269,10 +290,12 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 2. *高义频：* **加入 (组织)：**  
 
+
 > join the army / the League   
 > 参军/入团
 
 3. *高义频：* **参加 (活动等)；和…一起：**  
+
 
 > Over 200 members of staff joined the strike.   
 > 有超过200名员工参与了罢工。
@@ -295,6 +318,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 - #### join in
 1. **参加 (比赛、活动等)：**  
 
+
 > Be prepared to join in a class discussion.   
 > 做好准备加入课堂讨论。
 
@@ -312,6 +336,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 ---
 1. *高义频：* **关节；接缝；接合处：**  
 
+
 > **ankle / knee joints**  
 > ankle / knee joints  
 > 踝/膝关节
@@ -328,6 +353,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 ---
 1. *高义频：* **联合的；共同的：**  
 
+
 > **joint efforts**  
 > The foreign minister calls for joint efforts to protect global free trade.  
 > 外交部长呼吁共同努力来保护全球自由贸易。
@@ -341,6 +367,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 英文释义
 ---
 1. **把…...和……连接或联结起来**  
+
 
 > Join one section of pipe to the next.  
 > 将一段管子与相邻的管子连接起来。
@@ -356,6 +383,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 英文释义
 ---
 1. *高义频：* **笑话；玩笑：**  
+
 
 > **telling jokes**  
 > He has a habit of telling jokes.   
@@ -375,6 +403,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 ---
 1. *高义频：* **开玩笑：**  
 
+
 > **You're joking**  
 > You're joking!  
 > 你在开玩笑吧!
@@ -388,6 +417,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 ---
 - #### play a joke / jokes on 
 1. **戏弄；拿…开玩笑：**  
+
 
 > They decided to play a joke on their father by hiding his glasses.   
 > 他们决定把父亲的眼镜藏起来和他开个玩笑。
@@ -411,10 +441,12 @@ Everyone thought he was j________, but in fact he was completely serious.
 ---
 1. *高义频：* **日报；杂志；期刊：**  
 
+
 > a college / science journal  
 > 大学学报/科学杂志
 
 2. *低义频：* **日志；日记：**  
+
 
 > keep a journal   
 > 记日记
@@ -430,6 +462,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 1. **新闻业，新闻工作**  
 
 
+
 # ***journalist*** n
 英音 'dʒɜːnəlɪst     美音 'dʒɜːnəlɪst  
 
@@ -442,6 +475,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 1. *高义频：* **记者；新闻工作者**  
 
 
+
 # ***journey*** n
 英音 'dʒɜːni     美音 'dʒɜːrni  
 
@@ -452,6 +486,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 英文释义
 ---
 1. *高义频：* **旅行；旅程；过程：**  
+
 
 > **set out on a journey**  
 > set out on a journey   
@@ -481,6 +516,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 1. *高义频：* **(指中世纪骑士) 骑着马用长矛打斗**  
 
 
+
 # ***joy*** n
 英音 dʒɔɪ     美音 dʒɔɪ  
 
@@ -489,6 +525,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 英文释义
 ---
 1. *高义频：* **欢乐；高兴：**  
+
 
 > **jumped for joy**  
 > I jumped for joy when I heard the good news.   
@@ -499,6 +536,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 > 令我们欣喜的是，他还活着。
 
 2. *低义频：* **乐事；乐趣：**  
+
 
 > our joys and sadnesses  
 > 我们的欢乐与悲伤
@@ -518,6 +556,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 ---
 1. *高义频：* **法官；裁判员；鉴定人：**  
 
+
 > The prisoner was taken before the judge.   
 > 犯人被带到法官面前。
 
@@ -535,6 +574,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 1. *高义频：* **判断**  
 to form an opinion about sb / sth：
 
+
 > **Judging from**  
 > Judging from her accent, she must be from Sichuan.  
 > 听口音，她准是四川人。
@@ -546,12 +586,14 @@ to form an opinion about sb / sth：
 2. *高义频：* **估计**  
 to guess the size, amount, etc. of sth：
 
+
 > **judge how**  
 > It's difficult to judge how long the journey will take.  
 > 很难估计这段旅程要花多长时间。
 
 3. *高义频：* **评价**  
 to be critical about sb, to decide whether sb is good or bad：
+
 
 > I've learnt a good lesson: not to judge people.  
 > 我得到了有益的教训：不要对他人品头论足。
@@ -561,10 +603,12 @@ to be critical about sb, to decide whether sb is good or bad：
 
 4. *高义频：* **裁判；评判：**  
 
+
 > She was asked to judge the English speech competition.  
 > 她应邀担任英语演讲比赛的裁判。
 
 5. *低义频：* **审判；判决：**  
+
 
 > judge a case / judge sb guilty   
 > 判案/判某人有罪
@@ -580,11 +624,13 @@ to be critical about sb, to decide whether sb is good or bad：
 1. *高义频：* **判断 (力)；辨别力**  
 the ability to form opinions or to make sensible decisions：
 
+
 > He showed excellent judgement in choosing a friend.   
 > 他在择友方面表现出了敏锐的判断力。
 
 2. *高义频：* **意见；看法；评价**  
 an opinion that you form after thinking carefully：
+
 
 > **make a judgement on / about**  
 > make a judgement on / about  
@@ -595,6 +641,7 @@ an opinion that you form after thinking carefully：
 > 在她看来，给孩子们这么多零花钱是不对的。
 
 3. *低义频：* **审判**  
+
 
 
 # ***judgment*** n
@@ -607,11 +654,13 @@ an opinion that you form after thinking carefully：
 1. *高义频：* **判断 (力)；辨别力**  
 the ability to form opinions or to make sensible decisions：
 
+
 > He showed excellent judgement in choosing a friend.  
 > 他在择友方面表现出了敏锐的判断力。
 
 2. *高义频：* **意见；看法；评价**  
 an opinion that you form after thinking carefully：
+
 
 > **make a judgement on / about**  
 > make a judgement on / about  
@@ -622,6 +671,7 @@ an opinion that you form after thinking carefully：
 > 在她看来，给孩子们这么多零花钱是不对的。
 
 3. *低义频：* **审判**  
+
 
 
 # ***juice*** n
@@ -636,6 +686,7 @@ an opinion that you form after thinking carefully：
 1. *高义频：* **(水果、蔬菜、肉类等的) 汁、液**  
 
 
+
 # ***jump*** v
 英音 dʒʌmp     美音 dʒʌmp  
 
@@ -644,6 +695,7 @@ an opinion that you form after thinking carefully：
 英文释义
 ---
 1. *高义频：* **vi 跳；跳跃；快速移动：**  
+
 
 > **jumped onto**  
 > The cat jumped onto her bed.  
@@ -654,10 +706,12 @@ an opinion that you form after thinking carefully：
 
 2. *高义频：* **vt 跳过：**  
 
+
 > How can you jump those hurdles?  
 > 你如何才能跳过那些跨栏？
 
 3. *高义频：* **vi (话题等) 突然转换：**  
+
 
 > **jump from,to**  
 > jump from one subject to another  
@@ -670,6 +724,7 @@ an opinion that you form after thinking carefully：
 1. **迫不及待地接受某事物；欣然接受某事物**  
 
 
+
 # ***jump*** n
 英音 dʒʌmp     美音 dʒʌmp  
 
@@ -680,6 +735,7 @@ an opinion that you form after thinking carefully：
 英文释义
 ---
 1. *高义频：* **跳；越：**  
+
 
 > **do / make a jump**  
 > do / make a jump into the ocean  
@@ -699,6 +755,7 @@ an opinion that you form after thinking carefully：
 ---
 1. *高义频：* **跳过：**  
 
+
 > How can you jump those hurdles?  
 > 你如何才能跳过那些跨栏？
 
@@ -713,6 +770,7 @@ an opinion that you form after thinking carefully：
 英文释义
 ---
 1. *高义频：* **连接点；汇合处； 交叉口：**  
+
 
 > the T-junction   
 > 丁字路口
@@ -730,6 +788,7 @@ an opinion that you form after thinking carefully：
 1. *高义频：* **丛林；密林**  
 
 
+
 # ***junior*** adj
 英音 'dʒuːniə(r)     美音 'dʒuːniər  
 
@@ -738,6 +797,7 @@ an opinion that you form after thinking carefully：
 英文释义
 ---
 1. *高义频：* **青少年的；初级的 【反 senior】；(高中 / 四年制大学) 三年级 (学生) 的：**  
+
 
 > **junior school**  
 > a junior school   
@@ -760,6 +820,7 @@ an opinion that you form after thinking carefully：
 1. *高义频：* **青少年；职位较低者；(高中 / 四年制大学中)三年级学生**  
 
 
+
 # ***just*** adv
 英音 dʒʌst     美音 dʒʌst  
 
@@ -768,6 +829,7 @@ an opinion that you form after thinking carefully：
 英文释义
 ---
 1. *高义频：* **正好；恰好 (exactly)：**  
+
 
 > **just then**  
 > just then / just at that time   
@@ -787,6 +849,7 @@ an opinion that you form after thinking carefully：
 
 2. *高义频：* **刚刚；刚才：**  
 
+
 > — Where is Eric?   
 > 艾瑞克在哪儿？
 
@@ -794,6 +857,7 @@ an opinion that you form after thinking carefully：
 > 他刚刚出去/刚才出去了。
 
 3. *高义频：* **只是；仅仅 (only / simply)：**  
+
 
 > **just a minute / moment / second**  
 > just a minute / moment / second   
@@ -809,10 +873,12 @@ an opinion that you form after thinking carefully：
 
 4. *低义频：* **非常；真正：**  
 
+
 > The chocolate is just wonderful.   
 > 巧克力非常好吃。
 
 5. *低义频：* **请；尽管：**  
+
 
 > Anytime you want me, just send for me.   
 > 无论什么时候需要，只管派人来叫我。
@@ -822,6 +888,7 @@ an opinion that you form after thinking carefully：
 ---
 - #### just about 
 1. **几乎；差不多：**  
+
 
 > Some people will do just about anything to save money.  
 > 为了省钱，有的人几乎愿意做任何事情。
@@ -852,6 +919,7 @@ D.just
 ---
 1. *高义频：* **公正的；正直的；正义的 (fair)：**  
 
+
 > a just man  
 > 正直的人
 
@@ -867,6 +935,7 @@ D.just
 ---
 1. *高义频：* **正义；公正；公道 ：**  
 反义词 injustice 
+
 > a strong sense of justice   
 > 强烈的正义感
 
@@ -874,6 +943,7 @@ D.just
 > 公平对待某人
 
 2. *高义频：* **法律制裁；司法：**  
+
 
 > Justice has long arms.   
 > 天网恢恢，疏而不漏。
@@ -889,6 +959,7 @@ D.just
 1. **有正当理由地**  
 
 
+
 # ***justify*** vt
 英音 'dʒʌstɪfaɪ     美音 'dʒʌstɪfaɪ  
 
@@ -897,6 +968,7 @@ D.just
 英文释义
 ---
 1. *高义频：* **证明...正当 / 有理；为...辩护；对...作出解释：**  
+
 
 > How can we justify spending so much money on dinner?   
 > 我们怎么解释花这么多钱吃饭呢？

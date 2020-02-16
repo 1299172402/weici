@@ -11,6 +11,7 @@
 ---
 1. *高义频：* **电子邮件 (electronic mail)：**  
 
+
 > A person whose e-mail account is full won’t be able to send or receive any e-mails.  
 > 一个人的电子邮箱账户满了就无法收发任何邮件。
 
@@ -23,6 +24,7 @@
 英文释义
 ---
 1. *高义频：* **给...发电子邮件；用电邮发送：**  
+
 
 > Will you e-mail me the document by 3:00 pm?   
 > 你下午3点前把文件用电子邮件发给我好吗？
@@ -37,6 +39,7 @@
 ---
 1. *高义频：* **每个的：**  
 
+
 > Each man has his name.   
 > 每个人都有自己的名字。
 
@@ -49,6 +52,7 @@
 英文释义
 ---
 1. *高义频：* **各自；每个：**  
+
 
 > **Each of**  
 > Each of the answers is worth 20 points.   
@@ -66,11 +70,13 @@
 - #### each and every
 1. **[用于加强语气] 每一个：**  
 
+
 > These are issues that affect each and every one of us.   
 > 这些问题影响到我们每一个人。
 
 - #### each other 
 1. **互相；彼此：**  
+
 
 > We waved good-bye to each other.   
 > 我们互相挥手告别。
@@ -85,6 +91,7 @@
 ---
 1. *高义频：* **对各个；对每个：**  
 
+
 > We will give you ten yuan each.   
 > 我们会给你们每人10元。
 
@@ -97,6 +104,7 @@
 英文释义
 ---
 1. *高义频：* **渴望的；热切的：**  
+
 
 - #### (be) eager to do sth:
 
@@ -138,6 +146,7 @@ Some of us were confident and eager take part in the class activity.________(改
 1. **热切，渴望**  
 
 
+
 # ***eagle*** n
 英音 'iːɡl     美音 'iːɡl  
 
@@ -146,6 +155,7 @@ Some of us were confident and eager take part in the class activity.________(改
 英文释义
 ---
 1. *高义频：* **[C] 雕；鹰**  
+
 
 
 # ***ear*** n
@@ -157,10 +167,12 @@ Some of us were confident and eager take part in the class activity.________(改
 ---
 1. *高义频：* **[C] 耳；耳朵：**  
 
+
 > Walls have ears.   
 > 隔墙有耳。
 
 2. *低义频：* **听觉；(敏锐的) 听力：**  
+
 
 > have a keen ear   
 > 听觉灵敏
@@ -171,11 +183,14 @@ Some of us were confident and eager take part in the class activity.________(改
 - #### be all ears 
 1. **[非正式用语] 洗耳恭听**  
 
+
 - #### close / shut one's ears to
 1. **不听；不愿听**  
 
+
 - #### lend an ear to
 1. **倾听**  
+
 
 
 # ***early*** adj
@@ -186,6 +201,7 @@ Some of us were confident and eager take part in the class activity.________(改
 英文释义
 ---
 1. *高义频：* **早的；提早的；早期的；最先的：**  
+
 
 > **at your earliest convenience**  
 > Please reply at your earliest convenience.   
@@ -208,6 +224,7 @@ Some of us were confident and eager take part in the class activity.________(改
 ---
 1. *高义频：* **早；提早；在早期；在初期：**  
 反义词 late 
+
 > Early to bed and early to rise makes a man healthy, wealthy and wise.   
 > 睡得早，起得早，富裕、聪明、身体好。
 
@@ -225,6 +242,7 @@ Some of us were confident and eager take part in the class activity.________(改
 ---
 1. *高义频：* **赚得；挣得：**  
 
+
 > earn a scholarship   
 > 获得奖学金
 
@@ -240,6 +258,7 @@ Some of us were confident and eager take part in the class activity.________(改
 
 2. *高义频：* **博得；赢得：**  
 
+
 > He earned praise for honesty.   
 > 他因诚实而赢得了赞扬。
 
@@ -248,6 +267,7 @@ Some of us were confident and eager take part in the class activity.________(改
 ---
 - #### earn a / one's living
 1. **谋生：**  
+
 
 > He earns a / his living by doing odd jobs.   
 > 他靠打零工谋生。
@@ -274,6 +294,7 @@ You are old enough to ________ (自谋生路).
 1. *高义频：* **非常认真的；诚挚的；真诚的**  
 very serious and sincere：
 
+
 > He is so earnest over his studies.  
 > 他学习非常认真。
 
@@ -286,6 +307,7 @@ very serious and sincere：
 英文释义
 ---
 1. *高义频：* **[U] 认真；诚挚：**  
+
 
 > **in earnest**  
 > Are you joking or in earnest?   
@@ -302,6 +324,7 @@ very serious and sincere：
 1. *高义频：* **(常用复数) 耳机**  
 
 
+
 # ***earth*** n
 英音 ɜːθ     美音 ɜːrθ  
 
@@ -311,6 +334,7 @@ very serious and sincere：
 ---
 1. *高义频：* **地球 (亦作Earth)：**  
 
+
 > on (the) earth  
 > 在地球上
 
@@ -319,6 +343,7 @@ very serious and sincere：
 
 2. *高义频：* **陆地；地面 (ground)：**  
 
+
 > a down-to-earth person   
 > 一个脚踏实地的人
 
@@ -326,6 +351,7 @@ very serious and sincere：
 > 小女孩看着风筝落到了地上。
 
 3. *高义频：* **土；泥 (soil)：**  
+
 
 > The earth in the garden is good soil.   
 > 花园里的土壤很肥沃。
@@ -336,6 +362,7 @@ very serious and sincere：
 - #### on earth
 1. *低义频：* **[可用于否定词或最高级后，以加强语气](在)世界上；(在) 人间：**  
 
+
 > There is nothing great but man on earth; there is nothing great but mind in man.   
 > 世界上最伟大的是人类，而人类最伟大的是思想。
 
@@ -343,6 +370,7 @@ very serious and sincere：
 > 我是世上最幸运的人。
 
 2. *低义频：* **[常用于疑问词后加强语气] 究竟；到底：**  
+
 
 > **Why on earth**  
 > Why on earth do you need a phone?  
@@ -357,6 +385,7 @@ very serious and sincere：
 英文释义
 ---
 1. *高义频：* **[C] 地震 (quake)：**  
+
 
 > a slight / sharp / huge earthquake   
 > 轻微/强烈/大地震
@@ -376,11 +405,13 @@ very serious and sincere：
 ---
 1. *低义频：* **舒适；悠闲；自在：**  
 
+
 > **a life of ease**  
 > The retired couple lived a life of ease.   
 > 这对退休的夫妇过着悠闲的生活。
 
 2. *高义频：* **容易；不费力：**  
+
 
 > **with ease**  
 > He passed the exam with ease (= easily).  
@@ -392,11 +423,13 @@ very serious and sincere：
 - #### at ease
 1. **放松；舒适；自在：**  
 
+
 > His mind was at ease knowing that the children were safe.   
 > 得知孩子们都安全，他才放心。
 
 - #### put sb at (one's) ease
 1. **使某人放松：**  
+
 
 > He was nervous at first but her warm welcome soon put him at ease.   
 > 起初他有些紧张，但是她的热情欢迎很快使他放松了下来。
@@ -411,6 +444,7 @@ very serious and sincere：
 ---
 1. *高义频：* **减轻；缓解：**  
 
+
 > **ease the pain,stress,burden**  
 > ease the pain / stress / burden  
 > 减轻疼痛/压力/负担
@@ -424,6 +458,7 @@ very serious and sincere：
 
 2. *低义频：* **小心缓慢地移动：**  
 
+
 > She eased her injured foot into her shoe.   
 > 她小心翼翼地把受伤的脚伸进鞋里。
 
@@ -432,6 +467,7 @@ very serious and sincere：
 ---
 - #### ease (sb / oneself) into
 1. **(使某人) 熟悉 (新工作等)：**  
+
 
 > After the baby, she eased herself back into work.   
 > 生完孩子她又重新开始工作了。
@@ -445,6 +481,7 @@ very serious and sincere：
 英文释义
 ---
 1. *高义频：* **容易地；不费力地：**  
+
 
 > Fortune is easily found, but hard to be kept.  
 > 聚财容易，守财难。/幸福易寻难维持。
@@ -462,6 +499,7 @@ very serious and sincere：
 英文释义
 ---
 1. *高义频：* **[U] [常与the连用]东；东方；东部 (地区)(East)：**  
+
 
 > in the east   
 > 在东部
@@ -486,6 +524,7 @@ very serious and sincere：
 ---
 1. *高义频：* **在东方的；向东的：**  
 
+
 > East China   
 > 华东
 
@@ -502,6 +541,7 @@ very serious and sincere：
 ---
 1. *高义频：* **在东方；向东方：**  
 
+
 > The ship sailed east.   
 > 船向东航行。
 
@@ -514,6 +554,7 @@ very serious and sincere：
 英文释义
 ---
 1. *高义频：* **东方 (国家) 的 (Eastern)**  
+
 
 > eastern customs   
 > 东方的习俗
@@ -532,6 +573,7 @@ very serious and sincere：
 1. *高义频：* **向东 (的)；朝东 (的)**  
 
 
+
 # ***eastwards*** adv
 英音 'iːstwədz     美音 'iːstwərdz  
 
@@ -540,6 +582,7 @@ very serious and sincere：
 英文释义
 ---
 1. *高义频：* **向东 (的)；朝东 (的)**  
+
 
 
 # ***easy*** adj
@@ -551,6 +594,7 @@ very serious and sincere：
 ---
 1. *高义频：* **容易的；不费力的；易懂的**  
 反义词 hard, difficult 
+
 > an easy exam / job   
 > 容易的考试/工作
 
@@ -560,6 +604,7 @@ very serious and sincere：
 
 2. *高义频：* **舒适的；安逸的；安心的：**  
 反义词 uneasy, hard 
+
 > **an easy life**  
 > He lives an easy life in the country.   
 > 他在乡下过着舒适安逸的生活。
@@ -569,11 +614,13 @@ very serious and sincere：
 
 3. *低义频：* **[只用于名词前] 易受攻击的；容易吃亏的：**  
 
+
 > **easy target**  
 > Tourists are an easy target for thieves.   
 > 游客容易成为小偷下手的目标。
 
 4. *低义频：* **易相处的：**  
+
 
 > She is gentle and easy to approach.   
 > 她很温柔，也容易相处。
@@ -588,6 +635,7 @@ very serious and sincere：
 ---
 1. *高义频：* **容易地；顺利地：**  
 
+
 > Easy come, easy go.   
 > 来得容易，去得快。
 
@@ -600,8 +648,10 @@ very serious and sincere：
 - #### go easy on / with
 1. **[非正式用语] 省着 / 少用…**  
 
+
 - #### take it / things easy
 1. **放松；不急；不紧张：**  
+
 
 > He should learn to take things easy.  
 > 他应该学会放松。
@@ -622,6 +672,7 @@ very serious and sincere：
 ---
 1. *高义频：* **随和的：**  
 
+
 > We get along very well because he is so easy-going.  
 > 我们相处得很好，因为他很随和。
 
@@ -637,6 +688,7 @@ very serious and sincere：
 ---
 1. *高义频：* **吃 (饭)；喝 (汤等)：**  
 
+
 > eat soup   
 > 喝汤
 
@@ -649,8 +701,10 @@ very serious and sincere：
 - #### eat one's words
 1. **收回前言；承认错误**  
 
+
 - #### eat out 
 1. **外出就餐：**  
+
 
 > — I am too tired to cook.   
 > 我太累了，不想做饭。
@@ -660,6 +714,7 @@ very serious and sincere：
 
 - #### eat up 
 1. **吃完；耗尽：**  
+
 
 > Eat up your dinner before it gets cold.   
 > 饭凉之前把它吃完。
@@ -675,6 +730,7 @@ very serious and sincere：
 1. **古怪的，反常的**  
 
 
+
 # ***echo*** n
 英音 'ekəʊ     美音 'ekoʊ  
 
@@ -683,6 +739,7 @@ very serious and sincere：
 英文释义
 ---
 1. *高义频：* **[C] (pl echoes) 回声；共鸣：**  
+
 
 > The room was designed so that there were no echoes.   
 > 房间经过设计，没有回音。
@@ -701,6 +758,7 @@ very serious and sincere：
 ---
 1. *高义频：* **(使) 发出回声；(使) 产生回响：**  
 
+
 > The thunder echoed among hills.   
 > 雷声在山间回响。
 
@@ -715,6 +773,7 @@ very serious and sincere：
 1. *高义频：* **生态；生态学**  
 
 
+
 # ***economic*** adj
 英音 ˌiːkə'nɑːmɪk;ˌekə'nɑːmɪk     美音 ˌiːkə'nɑːmɪk;ˌekə'nɑːmɪk  
 
@@ -724,6 +783,7 @@ very serious and sincere：
 ---
 1. *高义频：* **经济 (学) 的；经济上的：**  
 connected with trade, industry and the management of money：
+
 
 > an economic crisis   
 > 经济危机
@@ -749,6 +809,7 @@ economics /ˌiːkə'nɒmɪks;ˌekə'nɒmɪks/ n [U]
 ---
 1. *高义频：* **经济的；实惠的；节约的：**  
 using money, time, goods, etc. carefully and without wasting any：
+
 
 > an economical car   
 > 经济型轿车
@@ -777,6 +838,7 @@ Small cars are ________ (economic) of fuel, so they have more appeal for consume
 ---
 1. *高义频：* **经济 (情况)；经济制度：**  
 
+
 > the age of "information economy"  
 > “信息经济”时代
 
@@ -787,6 +849,7 @@ Small cars are ________ (economic) of fuel, so they have more appeal for consume
 > 经济的快速发展已引起环境问题。
 
 2. *高义频：* **节约；经济实惠：**  
+
 
 > Walking to work instead of driving one's car is an economy.  
 > 步行而不是开车上班是一种节约。
@@ -808,6 +871,7 @@ Small cars are ________ (economic) of fuel, so they have more appeal for consume
 1. *高义频：* **生态系统**  
 
 
+
 # ***edge*** n
 英音 edʒ     美音 edʒ  
 
@@ -818,6 +882,7 @@ Small cars are ________ (economic) of fuel, so they have more appeal for consume
 英文释义
 ---
 1. *高义频：* **边；边缘：**  
+
 
 > **the edge of**  
 > The sun was pushing its way over the edge of the world.   
@@ -832,10 +897,12 @@ Small cars are ________ (economic) of fuel, so they have more appeal for consume
 
 2. *高义频：* **刀口；刃；利刃：**  
 
+
 > The knife has no / a sharp edge.  
 > 刀子不/很锋利。
 
 3. *低义频：* **优势：**  
+
 
 - #### 比…占优势； 胜过：
 
@@ -851,6 +918,7 @@ Small cars are ________ (economic) of fuel, so they have more appeal for consume
 英文释义
 ---
 1. *高义频：* **编辑；剪辑：**  
+
 
 > He's editing a book of essays by Isaiah Berlin.  
 > 他正在编辑一本艾赛亚·伯林的散文集。
@@ -873,6 +941,7 @@ Small cars are ________ (economic) of fuel, so they have more appeal for consume
 ---
 1. *高义频：* **版；版本；版次：**  
 
+
 > **first edition,limited edition**  
 > the first edition / a limited edition  
 > 初版/限量版
@@ -893,6 +962,7 @@ Small cars are ________ (economic) of fuel, so they have more appeal for consume
 1. *高义频：* **编辑；编者；剪辑者**  
 
 
+
 派生词汇
 ---
 editorial /ˌedɪ'tɔːriəl/ adj 
@@ -907,6 +977,7 @@ editorial /ˌedɪ'tɔːriəl/ n [C]
 ---
 1. *高义频：* **[常用于被动语态] (在学校) 教育：**  
 
+
 - #### educate sb to do sth:
 
 > You should educate your son to work hard.   
@@ -916,6 +987,7 @@ editorial /ˌedɪ'tɔːriəl/ n [C]
 > 小时候，爱因斯坦在许多学校读过书。
 
 2. *高义频：* **教导；训练：**  
+
 
 - #### educate sb (in / on sth):
 
@@ -948,6 +1020,7 @@ educated /'edʒukeɪtɪd/ adj
 ---
 1. *高义频：* **受过教育的；有教养的**  
 
+
 > university-educated / well-educated   
 > 受过大学/良好教育的
 
@@ -965,6 +1038,7 @@ educated /'edʒukeɪtɪd/ adj
 英文释义
 ---
 1. *高义频：* **教育；教育学；教育机构：**  
+
 
 > a man of little education   
 > 没受过多少教育的人
@@ -999,6 +1073,7 @@ educational /ˌedʒu'keɪʃənl/ adj
 1. *高义频：* **教育的**  
 
 
+
 # ***educator*** n
 英音 'edʒukeɪtə(r)     美音 'edʒukeɪtər  
 
@@ -1009,6 +1084,7 @@ educational /ˌedʒu'keɪʃənl/ adj
 英文释义
 ---
 1. *高义频：* **[正式用语] 教育工作者；教师；教育学家；教育家**  
+
 
 
 # ***eel*** n
@@ -1023,6 +1099,7 @@ educational /ˌedʒu'keɪʃənl/ adj
 1. *高义频：* **鳗；鳝**  
 
 
+
 # ***effect*** n
 英音 ɪ'fekt     美音 ɪ'fekt  
 
@@ -1033,6 +1110,7 @@ educational /ˌedʒu'keɪʃənl/ adj
 英文释义
 ---
 1. *高义频：* **结果；效应；作用；影响：**  
+
 
 > **greenhouse effect**  
 > greenhouse effect  
@@ -1052,19 +1130,23 @@ educational /ˌedʒu'keɪʃənl/ adj
 - #### bring / put ... into effect
 1. **实施；实行**  
 
+
 - #### in effect
 1. *低义频：* **在实施中；有效：**  
+
 
 > Some laws from the eighteenth century are still in effect.   
 > 一些18世纪的法律至今仍然有效。
 
 2. *高义频：* **实际上；事实上：**  
 
+
 > “Have a nice day” is a wonderful phrase, reminding us, in effect, to enjoy the moment.   
 > “祝你愉快”是个美妙的词语，实际上它在提醒我们要享受时光。
 
 - #### take effect 
 1. **生效 (come into effect)；起作用：**  
+
 
 > These measures are just beginning to take effect.   
 > 这些措施刚开始见效。
@@ -1079,6 +1161,7 @@ educational /ˌedʒu'keɪʃənl/ adj
 ---
 1. *高义频：* **有效的；生效的：**  
 反义词 ineffective 
+
 > take effective measures / steps   
 > 采取有效措施
 
@@ -1101,6 +1184,7 @@ effectiveness /ɪˌfek'tɪvnɪs/ n [U]
 1. *高义频：* **有效地**  
 
 
+
 # ***efficiency*** n
 英音 ɪ'fɪʃnsi     美音 ɪ'fɪʃnsi  
 
@@ -1111,6 +1195,7 @@ effectiveness /ɪˌfek'tɪvnɪs/ n [U]
 英文释义
 ---
 1. *高义频：* **效率；效能：**  
+
 
 > If you can find whatever learning method suits you,your learning efficiency is likely to improve greatly.  
 > 如果你能找到适合自己的学习方法，你的学习效率有可能大大提高。
@@ -1129,6 +1214,7 @@ effectiveness /ɪˌfek'tɪvnɪs/ n [U]
 1. *高义频：* **有效率的；高效能的**  
 able to do sth well without wasting time, money or energy
 反义词 inefficient 
+
 > an efficient secretary  
 > 高效率的秘书
 
@@ -1160,6 +1246,7 @@ With online shopping increasingly popular, the Internet is seen as a (n) _______
 1. *高义频：* **气力；精力**  
 the physical and mental energy that's needed to do sth：
 
+
 > **puts,effort into,into-2**  
 > She puts her time and effort into her businesses, and into helping others.  
 > 她把时间和精力投入到生意中，投入到帮助他人中。
@@ -1174,6 +1261,7 @@ the physical and mental energy that's needed to do sth：
 
 2. *高义频：* **努力；尽力**  
 an attempt to do sth that's difficult：
+
 
 > As we all know, without efforts nothing can be achieved.   
 > 众所周知，不努力则一事无成。
@@ -1196,6 +1284,7 @@ an attempt to do sth that's difficult：
 
 3. *低义频：* **有组织的活动：**  
 
+
 > **relief effort**  
 > the international relief effort  
 > 国际救济行动
@@ -1217,6 +1306,7 @@ effortless /'efətləs/ adj
 1. *高义频：* **蛋；卵；鸡蛋**  
 
 
+
 # ***eggplant*** n
 英音 'eɡplɑːnt     美音 'eɡplænt  
 
@@ -1229,6 +1319,7 @@ effortless /'efətləs/ adj
 1. *高义频：* **茄子**  
 
 
+
 # ***either*** pron
 英音 'aɪðə(r)     美音 'iðər  
 
@@ -1237,6 +1328,7 @@ effortless /'efətləs/ adj
 英文释义
 ---
 1. *高义频：* **(两者之中) 任何一个：**  
+
 
 > Either of the plans is satisfactory.   
 > 两个计划都令人满意。
@@ -1258,6 +1350,7 @@ I've lived in New York and Chicago, but don't like________of them very much.
 ---
 1. *高义频：* **(两者之中) 任一的；各一的：**  
 
+
 > There are trees on either bank of the river.   
 > 河两岸都有树。
 
@@ -1270,6 +1363,7 @@ I've lived in New York and Chicago, but don't like________of them very much.
 英文释义
 ---
 1. *高义频：* **也:**  
+
 
 > It won't do them any good, but it won't do them any harm either.  
 > 这对他们没好处，但也没什么害处。
@@ -1296,10 +1390,12 @@ Jane won't join us for dinner tonight and Tom won't ________ .
 1. *高义频：* **或者；要么**  
 
 
+
 固定搭配
 ---
 - #### either … or …
 1. **[可连接两个单词、短语或句子] 或者…或者…；要么…要么…：**  
+
 
 > You can take either the blue pencil or the black one.  
 > 你可以拿这支蓝铅笔或那支黑铅笔。
@@ -1336,6 +1432,7 @@ Either you or one of your students________ (be) to attend the meeting that is du
 ---
 1. *高义频：* **[只用于名词前] 年龄较大的；年长的：**  
 
+
 > an elder brother / sister   
 > 哥/姐
 
@@ -1351,10 +1448,12 @@ Either you or one of your students________ (be) to attend the meeting that is du
 ---
 1. *低义频：* **[正式用语] 年龄较大者：**  
 
+
 > He is her elder by several years.   
 > 他比她年长几岁。
 
 2. *高义频：* **长者；长辈：**  
+
 
 > the village elders   
 > 村中的长辈
@@ -1370,6 +1469,7 @@ Either you or one of your students________ (be) to attend the meeting that is du
 英文释义
 ---
 1. *高义频：* **[委婉用语] (人) 较老的；上了年纪的：**  
+
 
 > All were very happy with those unexpected gifts, especially little kids and elderly people.  
 > 所有人收到那些意想不到的礼物都很高兴，特别是小孩和老人。
@@ -1389,6 +1489,7 @@ Either you or one of your students________ (be) to attend the meeting that is du
 1. *高义频：* **[常用于被动语态]选举；推选：**  
 to choose sb for an official position by voting：
 
+
 - #### elect sb to sth:
 
 > I'll never forget being elected to the student council.  
@@ -1401,6 +1502,7 @@ to choose sb for an official position by voting：
 
 2. *低义频：* **选择；决定：**  
 to choose to do sth：
+
 
 - #### elect to do sth:
 
@@ -1426,6 +1528,7 @@ affairs.
 1. *高义频：* **电的；电动的；用电的**  
 producing or using electricity：
 
+
 > an electric iron / fan / light   
 > 电熨斗/电扇/电灯
 
@@ -1438,6 +1541,7 @@ producing or using electricity：
 英文释义
 ---
 1. *高义频：* **电气科学的；与 (用) 电有关的：of or about electricity：**  
+
 
 > an electrical engineer   
 > 电气工程师
@@ -1457,6 +1561,7 @@ producing or using electricity：
 1. **电工；电器技师**  
 
 
+
 # ***electricity*** n
 英音 ɪˌlek'trɪsəti     美音 ɪˌlek'trɪsəti  
 
@@ -1467,6 +1572,7 @@ producing or using electricity：
 英文释义
 ---
 1. *高义频：* **电；电学； 电流：**  
+
 
 > cut off electricity   
 > 切断电源
@@ -1488,6 +1594,7 @@ producing or using electricity：
 1. **通电；使触电；使激动；使震惊**  
 
 
+
 # ***electronic*** adj
 英音 ɪˌlek'trɒnɪk     美音 ɪˌlek'trɑːnɪk  
 
@@ -1496,6 +1603,7 @@ producing or using electricity：
 英文释义
 ---
 1. *高义频：* **[常用于名词前]电子的；电子器件的：**  
+
 
 > electronic devices / products / games / wastes  
 > 电子设备/产品/游戏/垃圾
@@ -1513,6 +1621,7 @@ producing or using electricity：
 ---
 1. *高义频：* **优雅的；雅致的：**  
 
+
 > an elegant dress / restaurant   
 > 高雅的连衣裙/雅致的餐馆
 
@@ -1527,6 +1636,7 @@ producing or using electricity：
 1. **优雅地**  
 
 
+
 # ***element*** n
 英音 'elɪmənt     美音 'elɪmənt  
 
@@ -1538,6 +1648,7 @@ producing or using electricity：
 ---
 1. *高义频：* **要素；基本部分：**  
 
+
 > **an important element in**  
 > Sugar is not an important element in bread, but flour is essential.   
 > 糖不是面包中的重要部分，但是面粉是不可缺少的。
@@ -1547,6 +1658,7 @@ producing or using electricity：
 > 诚实是她取得成功的关键因素。
 
 2. *高义频：* **(化学)元素**  
+
 
 
 # ***elephant*** n
@@ -1561,6 +1673,7 @@ producing or using electricity：
 1. *高义频：* **象**  
 
 
+
 # ***elevator*** n
 英音 'elɪveɪtə(r)     美音 'elɪveɪtər  
 
@@ -1573,6 +1686,7 @@ producing or using electricity：
 1. *高义频：* **电梯 (BrE lift)**  
 
 
+
 # ***elf*** n
 英音 elf     美音 elf  
 
@@ -1583,6 +1697,7 @@ producing or using electricity：
 1. **小精灵**  
 
 
+
 # ***else*** adv
 英音 els     美音 els  
 
@@ -1591,6 +1706,7 @@ producing or using electricity：
 英文释义
 ---
 1. *高义频：* **[用于以some-, every-, any-和no-开头的单词或疑问词后] 另外；其他：**  
+
 
 > There was nowhere else for me to go.   
 > 我无处可去。
@@ -1606,6 +1722,7 @@ producing or using electricity：
 ---
 - #### or else
 1. **[用于表示会有不好的结果] 否则；要不然：**  
+
 
 > He must be joking, or else he's mad.  
 > 他一定是在开玩笑，要不然就是疯了。
@@ -1631,6 +1748,7 @@ I don't think we met before. You're taking me for someone ________ .
 ---
 1. *高义频：* **在别处；到别处：**  
 
+
 > If the restaurant is full, we can go elsewhere.   
 > 如果这家餐馆客满了，我们就到别处去。
 
@@ -1646,6 +1764,7 @@ I don't think we met before. You're taking me for someone ________ .
 ---
 1. *高义频：* **电子邮件 (electronic mail)：**  
 
+
 > A person whose e-mail account is full won’t be able to send or receive any e-mails.  
 > 一个人的电子邮箱账户满了就无法收发任何邮件。
 
@@ -1658,6 +1777,7 @@ I don't think we met before. You're taking me for someone ________ .
 英文释义
 ---
 1. *高义频：* **给...发电子邮件；用电邮发送：**  
+
 
 > Will you e-mail me the document by 3:00 pm?  
 > 你下午3点前把文件用电子邮件发给我好吗？
@@ -1672,6 +1792,7 @@ I don't think we met before. You're taking me for someone ________ .
 ---
 1. *高义频：* **使窘迫；使尴尬：**  
 
+
 > Her questions about my private life embarrassed me.  
 > 她询问我的私生活使我感到很尴尬。
 
@@ -1684,6 +1805,7 @@ I don't think we met before. You're taking me for someone ________ .
 英文释义
 ---
 1. *高义频：* **尴尬的:**  
+
 
 > **embarrassed about**  
 > She felt embarrassed about undressing in front of the doctor.  
@@ -1703,6 +1825,7 @@ I don't think we met before. You're taking me for someone ________ .
 ---
 1. *高义频：* **令人尴尬的；使人难堪的：**  
 
+
 > **an embarrassing question,situation**  
 > an embarrassing question / situation  
 > 令人难堪的问题/处境
@@ -1717,6 +1840,7 @@ I don't think we met before. You're taking me for someone ________ .
 ---
 1. *高义频：* **[U] 困窘；尴尬：**  
 
+
 > ease one's embarrassment  
 > 缓解某人的困窘
 
@@ -1729,6 +1853,7 @@ I don't think we met before. You're taking me for someone ________ .
 > 让她尴尬的是，她想不起来他的名字。
 
 2. *低义频：* **[C] 使人为难的人 / 事：**  
+
 
 > **embarrassment to**  
 > Tim's drinking has made him an embarrassment to the whole family.  
@@ -1751,6 +1876,7 @@ I don't think we met before. You're taking me for someone ________ .
 1. *高义频：* **大使馆**  
 
 
+
 # ***embrace*** v
 英音 ɪm'breɪs     美音 ɪm'breɪs  
 
@@ -1761,6 +1887,7 @@ I don't think we met before. You're taking me for someone ________ .
 1. **欣然接受,乐意采纳 (新思想、意见等)**  
 
 
+
 # ***embroidery*** n
 英音 ɪm'brɔɪdəri     美音 ɪm'brɔɪdəri  
 
@@ -1769,6 +1896,7 @@ I don't think we met before. You're taking me for someone ________ .
 英文释义
 ---
 1. **刺绣图案，刺绣品**  
+
 
 
 # ***embryo*** n
@@ -1783,6 +1911,7 @@ I don't think we met before. You're taking me for someone ________ .
 1. *高义频：* **(pl embryos) 胚；胚胎；萌芽时期**  
 
 
+
 # ***emerge*** vi
 英音 i'mɜːdʒ     美音 i'mɜːrdʒ  
 
@@ -1792,11 +1921,13 @@ I don't think we met before. You're taking me for someone ________ .
 ---
 1. *高义频：* **浮现；出现；(事实等) 显露；暴露：**  
 
+
 > **emerged from**  
 > The moon emerged from behind the clouds.  
 > 月亮从云层后露出。
 
 2. *低义频：* **兴起**  
+
 
 
 # ***emergency*** n
@@ -1809,6 +1940,7 @@ I don't think we met before. You're taking me for someone ________ .
 英文释义
 ---
 1. *高义频：* **紧急情况；突发事件；非常时刻：**  
+
 
 > **emergency exit,call,aid**  
 > an emergency exit / call / aid  
@@ -1830,6 +1962,7 @@ I don't think we met before. You're taking me for someone ________ .
 ---
 1. *高义频：* **感情；情绪；激情：**  
 
+
 > **full of emotion**  
 > be full of emotion   
 > 充满激情
@@ -1850,6 +1983,7 @@ I don't think we met before. You're taking me for someone ________ .
 ---
 1. *高义频：* **情绪 (上) 的；情感 (上) 的：**  
 
+
 > emotional intelligence  
 > 情商(EQ)
 
@@ -1862,10 +1996,12 @@ I don't think we met before. You're taking me for someone ________ .
 
 2. *高义频：* **激起感情的；激动人心的：**  
 
+
 > emotional language   
 > 有感染力的语言
 
 3. *高义频：* **感情用事的；凭感情的：**  
+
 
 > an emotional person   
 > 感性的人
@@ -1887,6 +2023,7 @@ emotionally /ɪ'məʊʃənəli/ adv
 1. *高义频：* **皇帝**  
 
 
+
 # ***emphasis*** n
 英音 'emfəsɪs     美音 'emfəsɪs  
 
@@ -1898,11 +2035,13 @@ emotionally /ɪ'məʊʃənəli/ adv
 ---
 1. *高义频：* **强调；重视：**  
 
+
 > **put emphasis on**  
 > They put emphasis on quality rather than on quantity.  
 > 他们重视质量而不是数量。
 
 2. *高义频：* **重读；重音；加重语气：**  
+
 
 > **emphasis,on**  
 > The emphasis should be on the first syllable.   
@@ -1923,6 +2062,7 @@ emotionally /ɪ'məʊʃənəli/ adv
 1. **强调**  
 
 
+
 # ***emphasize*** vt
 英音 'emfəsaɪz	     美音 'emfəsaɪz  
 
@@ -1931,6 +2071,7 @@ emotionally /ɪ'məʊʃənəli/ adv
 英文释义
 ---
 1. *高义频：* **强调；着重 (stress)；加强...的语气；重读：**  
+
 
 > emphasize the third word  
 > 重读第三个词
@@ -1951,6 +2092,7 @@ emotionally /ɪ'məʊʃənəli/ adv
 1. *高义频：* **帝国；大企业**  
 
 
+
 # ***employ*** vt  重难点词汇
 英音 ɪm'plɔɪ     美音 ɪm'plɔɪ  
 
@@ -1959,6 +2101,7 @@ emotionally /ɪ'məʊʃənəli/ adv
 英文释义
 ---
 1. *高义频：* **雇用；聘请：**  
+
 
 - #### employ sb to do sth:
 
@@ -1974,6 +2117,7 @@ emotionally /ɪ'məʊʃənəli/ adv
 
 2. *高义频：* **使用；利用：**  
 
+
 > The police had to employ force to enter the building.  
 > 警察不得不强行进入大楼。
 
@@ -1985,6 +2129,7 @@ emotionally /ɪ'məʊʃənəli/ adv
 ---
 - #### be employed in doing sth 
 1. **忙于做某事**  
+
 
 > She was employed in making a list of all the jobs to be done.  
 > 她忙着把要做的所有工作列一个清单。
@@ -2002,6 +2147,7 @@ emotionally /ɪ'məʊʃənəli/ adv
 1. *高义频：* **受雇者；雇员**  
 
 
+
 # ***employee*** n
 英音 ɪm'plɔɪiː     美音 ɪm'plɔɪiː  
 
@@ -2012,6 +2158,7 @@ emotionally /ɪ'məʊʃənəli/ adv
 英文释义
 ---
 1. *高义频：* **受雇者；雇员**  
+
 
 
 # ***employer*** n
@@ -2026,6 +2173,7 @@ emotionally /ɪ'məʊʃənəli/ adv
 1. *高义频：* **雇主；雇用者**  
 
 
+
 # ***employment*** n
 英音 ɪm'plɔɪmənt     美音 ɪm'plɔɪmənt  
 
@@ -2035,10 +2183,12 @@ emotionally /ɪ'məʊʃənəli/ adv
 ---
 1. *低义频：* **[U] 雇用；聘用：**  
 
+
 > Mexican law prohibits the employment of children under 14.   
 > 墨西哥法律禁止雇用14岁以下的儿童。
 
 2. *高义频：* **[C] & [U] 职业；工作；就业：**  
+
 
 > out of employment   
 > 失业
@@ -2061,6 +2211,7 @@ emotionally /ɪ'məʊʃənəli/ adv
 ---
 1. *高义频：* **空的；无人的；无人用的：**  
 
+
 > As they were leaving, he noticed an umbrella on an empty seat.   
 > 他们正要离开的时候，他注意到空座位上有一把伞。
 
@@ -2069,6 +2220,7 @@ emotionally /ɪ'məʊʃənəli/ adv
 > 他经常得饿着肚子工作。
 
 2. *高义频：* **空洞的；无意义的；空虚的：**  
+
 
 > **empty promise**  
 > an empty promise   
@@ -2090,6 +2242,7 @@ emotionally /ɪ'məʊʃənəli/ adv
 ---
 1. *高义频：* **(使) 成为空的；倒空：**  
 
+
 > Susan, will you please go and empty that drawer?  
 > 苏珊，你去清空那个抽屉好吗？
 
@@ -2107,6 +2260,7 @@ emotionally /ɪ'məʊʃənəli/ adv
 1. **空手；一无所获**  
 
 
+
 # ***enable*** vt
 英音 ɪ'neɪbl     美音 ɪ'neɪbl  
 
@@ -2116,6 +2270,7 @@ emotionally /ɪ'məʊʃənəli/ adv
 ---
 1. *高义频：* **使能够；使成为可能**  
 to make it possible for sb to do sth, or for sth to happen
+
 
 - #### (allow)： enable sb / sth to do sth:
 
@@ -2135,6 +2290,7 @@ to make it possible for sb to do sth, or for sth to happen
 ---
 1. *高义频：* **围住；装入；附上：**  
 
+
 > Please enclose a resume with your application letter.  
 > 请在求职信中附上一份简历。
 
@@ -2147,6 +2303,7 @@ to make it possible for sb to do sth, or for sth to happen
 英文释义
 ---
 1. *高义频：* **遇到 (问题等) (meet with)；偶然碰到 (某人) (come across)：**  
+
 
 > encounter an old friend  
 > 偶然遇到一位老朋友
@@ -2163,6 +2320,7 @@ to make it possible for sb to do sth, or for sth to happen
 ---
 1. *高义频：* **相遇；邂逅：**  
 
+
 > **chance encounter**  
 > a chance encounter  
 > 偶遇
@@ -2177,6 +2335,7 @@ to make it possible for sb to do sth, or for sth to happen
 ---
 1. *高义频：* **鼓励；激励**  
 to give sb support, courage or hope：
+
 
 - #### encourage sb (in sth):
 
@@ -2194,6 +2353,7 @@ to give sb support, courage or hope：
 2. *高义频：* **鼓动；劝告**  
 to persuade sb to do sth：
 
+
 - #### encourage sb to do sth:
 
 > The aim of the campaign is to encourage youngsters not to smoke.   
@@ -2204,6 +2364,7 @@ to persuade sb to do sth：
 
 3. *高义频：* **促进；助长**  
 to make sth happen more easily：
+
 
 - #### encourage sth (in sb / sth):
 
@@ -2253,6 +2414,7 @@ My advisor encouraged me ________ (take) a summer course to improve my writing s
 ---
 1. *高义频：* **鼓励；激励；起激励作用的事物：**  
 
+
 > With her encouragement, I decided to seize the opportunity.   
 > 在她的鼓励下，我决定抓住这次机会。
 
@@ -2271,6 +2433,7 @@ My advisor encouraged me ________ (take) a summer course to improve my writing s
 1. **百科全书**  
 
 
+
 # ***end*** n  重难点词汇
 英音 end     美音 end  
 
@@ -2281,6 +2444,7 @@ My advisor encouraged me ________ (take) a summer course to improve my writing s
 英文释义
 ---
 1. *高义频：* **末端；尽头；结束；结局：**  
+
 
 > the end of the story   
 > 故事的结局
@@ -2293,6 +2457,7 @@ My advisor encouraged me ________ (take) a summer course to improve my writing s
 ---
 - #### at the end of 
 1. **在…的末梢；在…的尽头：**  
+
 
 > I stood silently at the end of the bed.  
 > 我静静地站在床尾。
@@ -2310,14 +2475,17 @@ My advisor encouraged me ________ (take) a summer course to improve my writing s
 - #### at the end of the day 
 1. **[口语] 最终；到头来：**  
 
+
 > Those who'd shared the wealth felt much happier at the end of the day than those who'd spent it on themselves.  
 > 最终，愿意分享财富的人比只给自己花钱的人要快乐得多。
 
 - #### be at / on the receiving end (of sth)
 1. **[非正式用语] 承受 (不愉快之事)**  
 
+
 - #### bring / put an end to 
 1. **结束；终止：**  
+
 
 > It's hoped that the talks may bring an end to the violence.  
 > 人们希望谈判能终结这次暴力事件。
@@ -2328,17 +2496,20 @@ My advisor encouraged me ________ (take) a summer course to improve my writing s
 - #### by the end of 
 1. **[常与完成时连用] 在…结束时； 到…末为止：**  
 
+
 > We had learned all the songs by the end of last month.  
 > 到上个月月底，我们已学会了所有的歌曲。
 
 - #### come to an end 
 1. **告终；结束；完结：**  
 
+
 > The summer vacation came to an end at last.   
 > 暑假终于结束了。
 
 - #### in the end
 1. **最后；终于：**  
+
 
 > Thankfully, I managed to get through the game and the pain was worth it in the end.  
 > 很幸运，我最后完成了比赛，努力没有白费。
@@ -2348,11 +2519,13 @@ My advisor encouraged me ________ (take) a summer course to improve my writing s
 - #### make (both) ends meet
 1. **使收支相抵；量入为出：**  
 
+
 > We can't make both ends meet this month.  
 > 我们本月入不敷出。
 
 - #### on end
 1. **连续地：**  
+
 
 > They argued for two hours on end.  
 > 他们持续争论了两个小时。
@@ -2367,6 +2540,7 @@ My advisor encouraged me ________ (take) a summer course to improve my writing s
 ---
 1. *高义频：* **结束；终止：**  
 反义词 begin / start 
+
 > **ended,with**  
 > They ended the play with a song.   
 > 他们以一首歌曲结束了这出戏。
@@ -2383,12 +2557,14 @@ My advisor encouraged me ________ (take) a summer course to improve my writing s
 - #### end in 
 1. **以…结尾；以…告终：**  
 
+
 > Even a successful inventor makes many experiments that end in failure.   
 > 即使是成功的发明家也有很多以失败告终的实验。
 
 - #### end up 
 1. **[尤指经历一系列意料之外的事情后] 最终处于；最终成为**  
 to find yourself in a place or situation that you did not expect to：
+
 
 > **end up remembering**  
 > If you try to remember everything you will end up remembering nothing.   
@@ -2420,6 +2596,7 @@ Smell the flowers before you go to sleep, and you may just end up ________ sweet
 1. **学期末**  
 
 
+
 # ***endanger*** vt
 英音 ɪn'deɪndʒə(r)     美音 ɪn'deɪndʒər  
 
@@ -2428,6 +2605,7 @@ Smell the flowers before you go to sleep, and you may just end up ________ sweet
 英文释义
 ---
 1. *高义频：* **使遭危险；危及；危害：**  
+
 
 > Smoking endangers your health.   
 > 吸烟有害健康。
@@ -2441,6 +2619,7 @@ Smell the flowers before you go to sleep, and you may just end up ________ sweet
 英文释义
 ---
 1. *高义频：* **濒危的；有危险的：**  
+
 
 > an endangered species   
 > 濒危物种
@@ -2460,6 +2639,7 @@ Smell the flowers before you go to sleep, and you may just end up ________ sweet
 ---
 1. *高义频：* **结尾；结局；词尾：**  
 
+
 > A good ending is better than a good beginning.   
 > 好的结尾胜过好的开头。
 
@@ -2477,6 +2657,7 @@ Smell the flowers before you go to sleep, and you may just end up ________ sweet
 ---
 1. *高义频：* **无止境的；无休止的：**  
 
+
 > Nature has provided Shangri-la with endless natural treasures, making the land a happy home for the local people.  
 > 大自然给香格里拉提供了取之不尽的天然宝藏，使得这片土地成为当地居民的幸福家园。
 
@@ -2493,6 +2674,7 @@ Smell the flowers before you go to sleep, and you may just end up ________ sweet
 ---
 1. *高义频：* **敌人；仇敌：**  
 
+
 > **make an enemy of**  
 > make an enemy of  
 > 与…树敌
@@ -2502,10 +2684,12 @@ Smell the flowers before you go to sleep, and you may just end up ________ sweet
 
 2. *高义频：* **敌兵；敌军：**  
 
+
 > The enemy was / were forced to escape.   
 > 敌人被迫逃跑。
 
 3. *高义频：* **[正式用语] 大敌；危害物：**  
+
 
 > Ignorance is the enemy of progress.   
 > 无知是进步的大敌。
@@ -2519,6 +2703,7 @@ Smell the flowers before you go to sleep, and you may just end up ________ sweet
 英文释义
 ---
 1. *高义频：* **有活力的；精力旺盛的；充满活力的；需要能量的：**  
+
 
 > My father is lively and energetic, but he is not very patient.   
 > 我父亲性格开朗且精力旺盛，但不是很有耐心。
@@ -2549,6 +2734,7 @@ Running is cheap, easy and it's always________(energy).
 1. *高义频：* **精力；力量**  
 the effort and attention which you give to doing sth：
 
+
 > **apply / devote / put one's energies into / to**  
 > apply / devote / put one's energies into / to sth  
 > 把精力投入到某事中
@@ -2560,11 +2746,13 @@ the effort and attention which you give to doing sth：
 2. *高义频：* **活力；干劲**  
 the ability to be very active or do a lot of work without getting tired：
 
+
 > **full of energy**  
 > She's always full of energy.  
 > 她总是充满活力。
 
 3. *高义频：* **能量；能源：**  
+
 
 > atomic energy   
 > 原子能
@@ -2596,6 +2784,7 @@ the ability to be very active or do a lot of work without getting tired：
 1. **节能**  
 
 
+
 # ***enforce*** vt
 英音 ɪn'fɔːs     美音 ɪn'fɔːrs  
 
@@ -2604,6 +2793,7 @@ the ability to be very active or do a lot of work without getting tired：
 英文释义
 ---
 1. **实施；执行**  
+
 
 
 # ***engage*** v  重难点词汇
@@ -2615,6 +2805,7 @@ the ability to be very active or do a lot of work without getting tired：
 ---
 1. *低义频：* **(使) 参加；(使) 参与：**  
 to be doing or become involved in an activity
+
 
 > **engage sb in conversation**  
 > engage sb in conversation  
@@ -2634,6 +2825,7 @@ to be doing or become involved in an activity
 2. *高义频：* **吸引 (住)**  
 to attract sb's attention and interest
 
+
 > **engage sb’s interest / attention**  
 > engage sb's interest / attention  
 > 吸引某人的兴趣/注意力
@@ -2643,6 +2835,7 @@ to attract sb's attention and interest
 
 3. *高义频：* **雇用；聘请：**  
 to employ sb to do a particular job
+
 
 > **engage,as**  
 > engage local people as volunteers   
@@ -2657,6 +2850,7 @@ to employ sb to do a particular job
 ---
 engaged /ɪn'ɡeɪdʒd/ adj 
 1. *高义频：* 
+
 > **engaged in**  
 > I was totally engaged in my study and seldom paid attention to my mother's feelings.  
 > 我完全投入到学习中，很少关注母亲的感受。
@@ -2667,11 +2861,13 @@ engaged /ɪn'ɡeɪdʒd/ adj
 
 2. *高义频：* **已订婚的：**  
 
+
 > **engaged to**  
 > She was engaged to Peter  
 > 她跟彼得订了婚。
 
 3. *高义频：* **被占用的；使用中的：**  
+
 
 > She rang a friend but the line was engaged.  
 > 她给一个朋友打电话，但电话占线。
@@ -2697,6 +2893,7 @@ engagement /ɪn'ɡeɪdʒmənt/ n [C]
 ---
 1. *高义频：* **发动机；引擎；火车头：**  
 
+
 > **search engine / a fire engine**  
 > a search engine / a fire engine  
 > 搜索引擎/消防车
@@ -2712,6 +2909,7 @@ engagement /ɪn'ɡeɪdʒmənt/ n [C]
 英文释义
 ---
 1. *高义频：* **工程师；技师；机工：**  
+
 
 > a chief / computer engineer  
 > 总/计算机工程师
@@ -2731,6 +2929,7 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
 1. **(土木) 工程**  
 
 
+
 # ***enhance*** vt
 英音 ɪn'hɑːns     美音 ɪn'hæns  
 
@@ -2741,6 +2940,7 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
 1. **增强**  
 
 
+
 # ***enjoy*** vt  重难点词汇
 英音 ɪn'dʒɔɪ     美音 ɪn'dʒɔɪ  
 
@@ -2749,6 +2949,7 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
 英文释义
 ---
 1. *高义频：* **喜爱；享受；欣赏：**  
+
 
 - #### enjoy doing sth:
 
@@ -2766,6 +2967,7 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
 
 2. *低义频：* **享有：**  
 
+
 > Men and women should enjoy equal rights.   
 > 男女应当享有平等权利。
 
@@ -2774,6 +2976,7 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
 ---
 - #### enjoy oneself 
 1. **过得开心；得到乐趣：**  
+
 
 > I hope you'll enjoy yourselves at the ball.  
 > 我希望你们在舞会上玩得愉快。
@@ -2802,6 +3005,7 @@ In this seaside resort, you can ________ (享受) all the comfort and convenienc
 ---
 1. *高义频：* **令人愉快的；有乐趣的：**  
 
+
 > The first lesson was very enjoyable — I liked it a lot!  
 > 第一堂课很有趣，我非常喜欢！
 
@@ -2815,6 +3019,7 @@ In this seaside resort, you can ________ (享受) all the comfort and convenienc
 ---
 1. *高义频：* **享受；欢乐；乐趣 (pleasure)：**  
 
+
 > He eats each mouthful with great enjoyment.   
 > 他每一口都吃得津津有味。
 
@@ -2822,6 +3027,7 @@ In this seaside resort, you can ________ (享受) all the comfort and convenienc
 > 她不是职业画家，她画画只是为了自娱自乐。
 
 2. *低义频：* **乐事：**  
+
 
 > Children like to share interests and enjoyments with their parents.   
 > 孩子们喜欢同父母一起分享各种兴趣和乐事。
@@ -2835,6 +3041,7 @@ In this seaside resort, you can ________ (享受) all the comfort and convenienc
 英文释义
 ---
 1. *高义频：* **扩大；扩充；放大 (照片)：**  
+
 
 > Reading will enlarge your vocabulary.   
 > 阅读能扩大词汇量。
@@ -2852,6 +3059,7 @@ In this seaside resort, you can ________ (享受) all the comfort and convenienc
 ---
 1. *高义频：* **巨大的；庞大的**  
 extremely large (huge)：
+
 
 > **enormous amount**  
 > an enormous amount of time / money   
@@ -2871,6 +3079,7 @@ extremely large (huge)：
 1. **非常，极其**  
 
 
+
 # ***enough*** adj
 英音 ɪ'nʌf     美音 ɪ'nʌf  
 
@@ -2879,6 +3088,7 @@ extremely large (huge)：
 英文释义
 ---
 1. *高义频：* **足够的；充足的：**  
+
 
 > Five men will be quite enough.   
 > 5个人就足够了。
@@ -2898,6 +3108,7 @@ extremely large (huge)：
 英文释义
 ---
 1. *高义频：* **足够地；充分地：**  
+
 
 > He knows the situation well enough.   
 > 他对情况了如指掌。
@@ -2921,6 +3132,7 @@ extremely large (huge)：
 ---
 1. *高义频：* **足够；充分：**  
 
+
 > Enough is as good as a feast.   
 > 凡事适可而止。/知足常乐。
 
@@ -2933,6 +3145,7 @@ extremely large (huge)：
 ---
 - #### have had enough (of)
 1. **[口语] 够了 / 受够了：**  
+
 
 > I have had enough of your rudeness.   
 > 我受够了你的无礼！
@@ -2955,6 +3168,7 @@ Building.
 ---
 1. *高义频：* **使富裕；丰富；使 (土地) 肥沃：**  
 
+
 > What they did has brought joy to others and enriched their own lives.  
 > 他们的行为给别人带来快乐的同时也丰富了自己的生活。
 
@@ -2970,6 +3184,7 @@ Building.
 英文释义
 ---
 1. *高义频：* **确保；保证；(make sure)：**  
+
 
 - #### ensure + (that) 从句：
 
@@ -2989,6 +3204,7 @@ Building.
 ---
 1. *高义频：* **进入：**  
 
+
 > Please do not enter without knocking on the door.   
 > 进来之前请先敲门。
 
@@ -2998,6 +3214,7 @@ Building.
 
 2. *高义频：* **参加；成为...的成员：**  
 
+
 > He refused to enter the discussion / argument / conversation.   
 > 他拒绝加入讨论/争论/对话。
 
@@ -3006,6 +3223,7 @@ Building.
 > 上大学以后，我打算确定新的学习目标，改进学习方法。
 
 3. *低义频：* **登记；登录；输入：**  
+
 
 > **enter,into**  
 > He showed me how to enter data into the computer.  
@@ -3017,17 +3235,20 @@ Building.
 - #### enter into
 1. *低义频：* **开始 (讨论)；着手处理：**  
 
+
 > **enter into discussions / negotiations**  
 > enter into discussions / negotiations  
 > 开始讨论/谈判
 
 2. *低义频：* **达成 (协议、合同等)：**  
 
+
 > **enter into an agreement**  
 > enter into an agreement  
 > 达成协议
 
 3. *低义频：* **是…一部分to be part of sth：**  
+
 
 > Her illness didn't enter into my plan.  
 > 在我的计划中未考虑到她会生病。
@@ -3042,6 +3263,7 @@ Building.
 ---
 1. *高义频：* **企业；公司；事业：**  
 
+
 > undertake / build an enterprise  
 > 创办企业/事业
 
@@ -3049,6 +3271,7 @@ Building.
 > 国有企业
 
 2. *低义频：* **事业心；进取心**  
+
 
 
 # ***entertain*** v
@@ -3060,6 +3283,7 @@ Building.
 ---
 1. *高义频：* **招待；款待：**  
 
+
 > I don't entertain very often.  
 > 我不太经常请客。
 
@@ -3067,6 +3291,7 @@ Building.
 > 办酒容易，请客难；请客容易，款客难。
 
 2. *高义频：* **使欢乐；给...娱乐：**  
+
 
 > **entertained,with**  
 > He entertained us with his stories and jokes.   
@@ -3091,6 +3316,7 @@ entertaining /ˌentə'teɪnɪŋ/ adj
 1. *高义频：* **使人愉快的；有趣的**  
 
 
+
 # ***entertainment*** n
 英音 ˌentə'teɪnmənt     美音 ˌentər'teɪnmənt  
 
@@ -3099,6 +3325,7 @@ entertaining /ˌentə'teɪnɪŋ/ adj
 英文释义
 ---
 1. *高义频：* **娱乐；娱乐节目 / 活动：**  
+
 
 > **the entertainment business / world**  
 > the entertainment business / world  
@@ -3112,6 +3339,7 @@ entertaining /ˌentə'teɪnɪŋ/ adj
 
 2. *低义频：* **[U] 招待；款待：**  
 
+
 > She was busy with the entertainment of the guests.  
 > 她正忙着招待客人。
 
@@ -3124,6 +3352,7 @@ entertaining /ˌentə'teɪnɪŋ/ adj
 英文释义
 ---
 1. *高义频：* **热情；热忱：**  
+
 
 > **lack / be full of enthusiasm**  
 > lack / be full of enthusiasm  
@@ -3142,6 +3371,7 @@ entertaining /ˌentə'teɪnɪŋ/ adj
 英文释义
 ---
 1. *高义频：* **(充满) 热情的；热心的：**  
+
 
 - #### be enthusiastic about (doing) sth:
 
@@ -3166,6 +3396,7 @@ enthusiastically /ɪnˌθjuːzi'æstɪkli/ adv
 1. **吸引，诱使**  
 
 
+
 # ***entire*** adj
 英音 ɪn'taɪə(r)     美音 ɪn'taɪər  
 
@@ -3176,6 +3407,7 @@ enthusiastically /ɪnˌθjuːzi'æstɪkli/ adv
 英文释义
 ---
 1. *高义频：* **整个的；全部的；完全的：**  
+
 
 > an entire set of Lu Xun's Works  
 > 一整套《鲁迅全集》
@@ -3195,6 +3427,7 @@ enthusiastically /ɪnˌθjuːzi'æstɪkli/ adv
 英文释义
 ---
 1. *高义频：* **全部地；完全地 (completely)：**  
+
 
 > Towns only a few miles apart can have entirely different dialects.   
 > 相距仅几英里的城镇也许会说完全不同的方言。(十里不同音。)
@@ -3218,10 +3451,12 @@ She devoted herself ________ (entire) to her research and it earned her a good r
 ---
 1. *高义频：* **给...取名 / 命名：**  
 
+
 > She read a poem entitled"The Apple Tree".  
 > 她读了一首名为《苹果树》的诗。
 
 2. *高义频：* **使...有权利 / 资格：**  
+
 
 - #### entitle sb to (do) sth:
 
@@ -3245,6 +3480,7 @@ Her talent and experience entitled her ________ the respect of her colleagues.
 ---
 1. *高义频：* **入口；门口**  
 反义词 exit 
+
 > the station entrance   
 > 车站入口处
 
@@ -3254,6 +3490,7 @@ Her talent and experience entitled her ________ the respect of her colleagues.
 
 2. *低义频：* **进入；入场：**  
 
+
 > Everyone rose at the judge's entrance.  
 > 法官入场时，所有人都起立。
 
@@ -3262,6 +3499,7 @@ Her talent and experience entitled her ________ the respect of her colleagues.
 > 其他客人都到了之后她才到场。
 
 3. *低义频：* **[U] 入场 (或入会、入学等) 权 / 费：**  
+
 
 > **entrance fee**  
 > an entrance fee   
@@ -3284,6 +3522,7 @@ Her talent and experience entitled her ________ the respect of her colleagues.
 ---
 1. *高义频：* **[C] & [U] 进入；入场；进入权：**  
 
+
 > **No Entry**  
 > No Entry.   
 > 禁止入内。
@@ -3298,10 +3537,12 @@ Her talent and experience entitled her ________ the respect of her colleagues.
 
 2. *低义频：* **[C] 入口处；门口：**  
 
+
 > You can leave your umbrella in the entry.   
 > 你可以把伞放在入口处。
 
 3. *高义频：* **[C] 记载；条目；项目：**  
+
 
 > A pocket dictionary doesn't contain enough entries.  
 > 袖珍词典没有足够的词条。
@@ -3313,6 +3554,7 @@ Her talent and experience entitled her ________ the respect of her colleagues.
 > 日志/博客文章
 
 4. *高义频：* **[C] 参加比赛的人 / 物：**  
+
 
 > This painting is my entry for the art competition.   
 > 这幅画是我参加绘画比赛的作品。
@@ -3330,6 +3572,7 @@ Her talent and experience entitled her ________ the respect of her colleagues.
 1. *高义频：* **信封；封皮**  
 
 
+
 # ***environment*** n
 英音 ɪn'vaɪrənmənt     美音 ɪn'vaɪrənmənt  
 
@@ -3340,6 +3583,7 @@ Her talent and experience entitled her ________ the respect of her colleagues.
 1. *高义频：* **生态环境；自然环境**  
 the natural world in which people, animals and plants live：
 
+
 > We should protect the environment from pollution.  
 > 我们应该保护环境免遭污染。
 
@@ -3348,6 +3592,7 @@ the natural world in which people, animals and plants live：
 
 2. *高义频：* **生活环境；外界**  
 the place where people live and work：
+
 
 > **working / learning environment**  
 > a pleasant working / learning environment   
@@ -3388,6 +3633,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 1. *高义频：* **环境的**  
 
 
+
 # ***environmentalist*** n
 英音 ɪnˌvaɪrən'mentəlɪst     美音 ɪnˌvaɪrən'mentəlɪst  
 
@@ -3400,6 +3646,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 1. *高义频：* **环境保护论者**  
 
 
+
 # ***envy*** n
 英音 'envi     美音 'envi  
 
@@ -3410,6 +3657,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 英文释义
 ---
 1. *高义频：* **妒忌；羡慕；羡慕对象 / 目标：**  
+
 
 > **green with envy**  
 > Lucky you — I'm green with envy!  
@@ -3430,6 +3678,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 1. **是令…羡慕或嫉妒的对象**  
 
 
+
 # ***envy*** vt
 英音 'envi     美音 'envi  
 
@@ -3440,6 +3689,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 英文释义
 ---
 1. *高义频：* **妒忌；羡慕：**  
+
 
 - #### envy sb (doing) sth:
 
@@ -3468,6 +3718,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 1. **酶**  
 
 
+
 # ***epic*** n
 英音 'epɪk     美音 'epɪk  
 
@@ -3476,6 +3727,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 英文释义
 ---
 1. **史诗，叙事诗**  
+
 
 
 # ***epic*** adj
@@ -3488,6 +3740,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 1. **史诗般的,壮丽的,宏大的**  
 
 
+
 # ***epidemic*** n
 英音 ˌepɪ'demɪk     美音 ˌepɪ'demɪk  
 
@@ -3496,6 +3749,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 英文释义
 ---
 1. **流行病**  
+
 
 
 # ***episode*** n
@@ -3508,6 +3762,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 1. **(电视连续剧或广播剧的) 一集**  
 
 
+
 # ***equal*** adj  重难点词汇
 英音 'iːkwəl     美音 'iːkwəl  
 
@@ -3516,6 +3771,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 英文释义
 ---
 1. *高义频：* **相同的；同样的；相等的：**  
+
 
 > **equal in size / length / height = of equal size / length / height**  
 > equal in size / length / height = of equal size / length / height  
@@ -3527,6 +3783,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 
 2. *高义频：* **平等的：**  
 
+
 > All human beings are equal.   
 > 人人平等。
 
@@ -3536,15 +3793,18 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 - #### be equal to
 1. *高义频：* **与...相等 / 平等：**  
 
+
 > The rent was equal to half his monthly income.   
 > 这租金相当于他半个月的收入。
 
 2. *低义频：* **与...同样出色；比得上：**  
 
+
 > The architecture here is equal to any in the world.  
 > 这里的建筑堪与世界上任何同类建筑相媲美。
 
 3. *低义频：* **能胜任 (be up to)：**  
+
 
 > He is equal to anything.   
 > 他无所不能。
@@ -3566,6 +3826,7 @@ Boys and girls are e________, and thus they should be treated fairly.
 ---
 1. *高义频：* **等于；比得上：**  
 
+
 > Three times three equals nine.   
 > 3乘3等于9。
 
@@ -3583,6 +3844,7 @@ Boys and girls are e________, and thus they should be treated fairly.
 英文释义
 ---
 1. *高义频：* **同等的人 / 物：**  
+
 
 > Let x be the equal of y.   
 > 设x等于y。
@@ -3603,6 +3865,7 @@ Boys and girls are e________, and thus they should be treated fairly.
 ---
 1. *高义频：* **相等；平等：**  
 
+
 > **equality between**  
 > equality between the sexes   
 > 男女平等
@@ -3620,6 +3883,7 @@ Boys and girls are e________, and thus they should be treated fairly.
 英文释义
 ---
 1. *高义频：* **相等地；同样地；平等地：**  
+
 
 > People are born equal and should be treated equally.  
 > 人生来平等，应该同等对待。
@@ -3645,6 +3909,7 @@ Anyone, whether he is an official or a bus driver, should be ________ (equal) re
 ---
 1. *高义频：* **等同：**  
 
+
 > **equate,with**  
 > Some parents equate education with exam success.  
 > 有些父母把教育和考试成绩优秀等同起来。
@@ -3660,6 +3925,7 @@ Anyone, whether he is an official or a bus driver, should be ________ (equal) re
 1. *高义频：* **[用单数，常用作the equator] 赤道**  
 
 
+
 # ***equip*** vt
 英音 ɪ'kwɪp     美音 ɪ'kwɪp  
 
@@ -3669,6 +3935,7 @@ Anyone, whether he is an official or a bus driver, should be ________ (equal) re
 ---
 1. *高义频：* **装备；配备**  
 to provide a person and place with the things that are needed for a particular place：
+
 
 - #### equip sb / sth with sth:
 
@@ -3694,6 +3961,7 @@ to provide a person and place with the things that are needed for a particular p
 2. *低义频：* **(体力、智力上) 使有准备；使有资格**  
 to prepare sb for an activity or task by giving them the information and skills：
 
+
 - #### equip sb with sth:
 
 > We equip students with the skills they will need once they leave college.   
@@ -3717,6 +3985,7 @@ to prepare sb for an activity or task by giving them the information and skills�
 ---
 1. *高义频：* **[U] 装备；设备；器械；装置：**  
 
+
 > **pieces of equipment**  
 > There are a lot of pieces of equipment in the gym.  
 > 健身馆里有很多设备。
@@ -3732,6 +4001,7 @@ to prepare sb for an activity or task by giving them the information and skills�
 英文释义
 ---
 1. *高义频：* **时代；历史时期；年代；纪元：**  
+
 
 > the golden / 5G era  
 > 黄金/5G时代
@@ -3751,6 +4021,7 @@ to prepare sb for an activity or task by giving them the information and skills�
 1. *高义频：* **删除；擦掉；消除**  
 
 
+
 # ***eraser*** n
 英音 ɪ'reɪsər     美音 ɪ'reɪzə(r)  
 
@@ -3761,6 +4032,7 @@ to prepare sb for an activity or task by giving them the information and skills�
 1. *高义频：* **橡皮擦**  
 
 
+
 # ***erosion*** n
 英音 ɪ'rəʊʒn     美音 ɪ'roʊʒn  
 
@@ -3769,6 +4041,7 @@ to prepare sb for an activity or task by giving them the information and skills�
 英文释义
 ---
 1. **侵蚀, (土壤) 流失**  
+
 
 
 # ***error*** n
@@ -3782,6 +4055,7 @@ to prepare sb for an activity or task by giving them the information and skills�
 ---
 1. *高义频：* **谬误；错误；差错：**  
 
+
 > **make an error**  
 > make an error   
 > 犯错误
@@ -3794,6 +4068,7 @@ to prepare sb for an activity or task by giving them the information and skills�
 ---
 - #### in error 
 1. **弄错了的；错误地：**  
+
 
 > I'm afraid he is in error in saying that.  
 > 恐怕他那样说是弄错了。
@@ -3809,6 +4084,7 @@ to prepare sb for an activity or task by giving them the information and skills�
 英文释义
 ---
 1. *高义频：* **(火山、喷泉等) 喷发；(战争、感情等) 爆发；突然发生：**  
+
 
 > The volcano erupted and killed all the dinosaurs.   
 > 火山喷发，使所有恐龙丧生。
@@ -3827,6 +4103,7 @@ to prepare sb for an activity or task by giving them the information and skills�
 1. **（火山的）爆发；喷发**  
 
 
+
 # ***eruption*** n
 英音 ɪ'rʌpʃn     美音 ɪ'rʌpʃn  
 
@@ -3835,6 +4112,7 @@ to prepare sb for an activity or task by giving them the information and skills�
 英文释义
 ---
 1. **火山爆发；（战争等）爆发**  
+
 
 
 # ***escape*** v
@@ -3846,11 +4124,13 @@ to prepare sb for an activity or task by giving them the information and skills�
 ---
 1. *高义频：* **逃走；逃跑：**  
 
+
 > **escape from**  
 > The hunter tried to escape from the forest, but he lost his way.   
 > 猎人试图逃出森林，但是迷路了。
 
 2. *高义频：* **逃脱；逃避：**  
+
 
 - #### escape doing sth:
 
@@ -3871,6 +4151,7 @@ to prepare sb for an activity or task by giving them the information and skills�
 
 3. *低义频：* **(气体、液体等) 泄露：**  
 
+
 > A small hole allowed smoke to escape from the top.  
 > 一个小孔能让烟从顶部冒出来。
 
@@ -3883,6 +4164,7 @@ to prepare sb for an activity or task by giving them the information and skills�
 英文释义
 ---
 1. *高义频：* **[C] & [U] 逃跑；逃脱；逃避：**  
+
 
 > **make,escape**  
 > make one's escape  
@@ -3897,6 +4179,7 @@ to prepare sb for an activity or task by giving them the information and skills�
 > 对她来说，旅行是一种能从乏味的日常生活中解脱出来的方式。
 
 2. *低义频：* **[C] 泄露；出口：**  
+
 
 > Can you smell an escape of gas?   
 > 你能闻到泄漏的煤气味吗？
@@ -3913,6 +4196,7 @@ to prepare sb for an activity or task by giving them the information and skills�
 英文释义
 ---
 1. *高义频：* **特别；尤其；特地 (particularly)：**  
+
 
 > The sunsets in the Pacific are especially beautiful.  
 > 太平洋的落日特别美。
@@ -3945,6 +4229,7 @@ A sudden stop can be a very frightening experience,________(尤其) if you are t
 ---
 1. *高义频：* **论说文；散文；小品文；随笔：**  
 
+
 > a critical essay   
 > 评论
 
@@ -3960,6 +4245,7 @@ A sudden stop can be a very frightening experience,________(尤其) if you are t
 英文释义
 ---
 1. *高义频：* **必不可少的；最重要的 extremely important and necessary(vital)；本质的：**  
+
 
 - #### it is essential + that … (should) do sth:
 
@@ -3993,6 +4279,7 @@ essentially /ɪ'senʃəli/ adv
 ---
 1. *高义频：* **建立；创立；设立 (set up)：**  
 
+
 > **establish contact / a relationship with**  
 > establish contact / a relationship with   
 > 与…建立联系/关系
@@ -4001,6 +4288,7 @@ essentially /ɪ'senʃəli/ adv
 > 这家公司成立于1980年。
 
 2. *高义频：* **确立；立足；得到认可：**  
+
 
 > By 1909, Picasso had established himself as a painter of great talent in Paris.  
 > 到1909年的时候，毕加索已在巴黎确立了他天才画家的地位。
@@ -4044,11 +4332,13 @@ By 1909, Picasso had established himself ________ a painter of great talent in P
 ---
 1. *高义频：* **[U] 建立；设立；确立；创办：**  
 
+
 > **establishment of**  
 > The speaker announced the establishment of a new college.   
 > 发言人宣布了新学院的成立。
 
 2. *低义频：* **机构；企业：**  
+
 
 > an educational establishment   
 > 教育机构
@@ -4063,13 +4353,16 @@ By 1909, Picasso had established himself ________ a painter of great talent in P
 ---
 1. *高义频：* **庄园；种植园**  
 
+
 2. *高义频：* **房地产；上有大片建筑物的土地：**  
+
 
 > **a housing / an industrial estate**  
 > a housing / an industrial estate  
 > 住宅区/工业园区
 
 3. *低义频：* **[常用单数] 个人全部财产 (尤指遗产)**  
+
 
 
 # ***estimate*** vt
@@ -4080,6 +4373,7 @@ By 1909, Picasso had established himself ________ a painter of great talent in P
 英文释义
 ---
 1. *高义频：* **估计；估价；估算：**  
+
 
 - #### estimate sth (at sth):
 
@@ -4109,6 +4403,7 @@ By 1909, Picasso had established himself ________ a painter of great talent in P
 ---
 1. *高义频：* **[C] 估计；估算；估价：**  
 
+
 > **a conservative / rough estimate**  
 > a conservative / rough estimate  
 > 保守的/粗略的估算
@@ -4124,6 +4419,7 @@ By 1909, Picasso had established himself ________ a painter of great talent in P
 1. *高义频：* **诸如此类；等等**  
 
 
+
 # ***etc*** adv
 英音 et'set(ə)rə     美音 et'set(ə)rə  
 
@@ -4136,6 +4432,7 @@ By 1909, Picasso had established himself ________ a painter of great talent in P
 1. *高义频：* **诸如此类的事物；等等**  
 
 
+
 # ***ethnic*** adj
 英音 'eθnɪk     美音 'eθnɪk  
 
@@ -4144,6 +4441,7 @@ By 1909, Picasso had established himself ________ a painter of great talent in P
 英文释义
 ---
 1. *高义频：* **种族的；民族的**  
+
 
 
 # ***euro*** n
@@ -4156,6 +4454,7 @@ By 1909, Picasso had established himself ________ a painter of great talent in P
 1. *高义频：* **(pl euro / euros) 欧元**  
 
 
+
 # ***evacuate*** v
 英音 ɪ'vækjueɪt     美音 ɪ'vækjueɪt  
 
@@ -4165,6 +4464,7 @@ By 1909, Picasso had established himself ________ a painter of great talent in P
 ---
 1. *低义频：* **疏散；撤出**  
 
+
 > Children were evacuated from London to escape the bombing.  
 > 为躲避轰炸，孩子们都撤离了伦敦。
 
@@ -4172,6 +4472,7 @@ By 1909, Picasso had established himself ________ a painter of great talent in P
 > 战争期间他被撤离到苏格兰。
 
 2. *低义频：* **撤离**  
+
 
 > Employees were urged to evacuate their offices immediately.  
 > 已敦促各雇员立即从办公室撤出。
@@ -4189,6 +4490,7 @@ By 1909, Picasso had established himself ________ a painter of great talent in P
 ---
 1. *高义频：* **评价；评估**  
 to judge how good, useful, or successful sth is (assess)：
+
 
 > The scientists were evaluating the experiment.   
 > 科学家正在对该实验进行评估。
@@ -4215,6 +4517,7 @@ It is widely acknowledged that students should be ________ (评价) in terms of 
 ---
 1. *高义频：* **(节日或重大事件的) 前夜；前夕：**  
 
+
 > **New Year's Eve / Christmas Eve**  
 > on New Year's Eve / Christmas Eve  
 > 在除夕(夜)/平安夜
@@ -4233,6 +4536,7 @@ It is widely acknowledged that students should be ________ (评价) in terms of 
 ---
 1. *高义频：* **甚至 (...也)；即使 (...也)；连 (...都)：**  
 
+
 > He never even telephoned me.   
 > 他甚至从不给我打电话。
 
@@ -4248,6 +4552,7 @@ It is widely acknowledged that students should be ________ (评价) in terms of 
 even可用以强调句子的任何成分，置于被修饰的词语前；若有助动词、情态动词等，则置于其后。
 2. *高义频：* **更加；还要：**  
 
+
 > She is even lovelier than usual today.   
 > 她今天比平时更可爱。
 
@@ -4261,17 +4566,20 @@ even可用以强调句子的任何成分，置于被修饰的词语前；若有�
 - #### even if / though
 1. **尽管；即使：**  
 
+
 > My grandfather still plays tennis now and then, even though he's in his nineties.  
 > 我爷爷尽管90多岁了，仍然时不时地打打网球。
 
 - #### even now / then 
 1. **即使到现在 / 那时；即便如此 / 那样：**  
 
+
 > Even now water is still the main resource to produce electricity.   
 > 即使到现在，水仍是主要的发电资源。
 
 - #### even so 
 1. **尽管如此；即使那样：**  
+
 
 > Your uncle seems to be a good driver; even so, I wouldn't dare to travel in his car.  
 > 你叔叔看上去开车技术不错；即便如此，我也不敢坐他的车。
@@ -4285,6 +4593,7 @@ even可用以强调句子的任何成分，置于被修饰的词语前；若有�
 英文释义
 ---
 1. *高义频：* **平坦的；平的**  
+
 
 
 真题解析
@@ -4303,6 +4612,7 @@ Much of the power of the trade unions has been lost. _________ (尽管如此), t
 ---
 1. *高义频：* **傍晚；晚上：**  
 
+
 > **on Sunday evening**  
 > on Sunday evening   
 > 在星期天晚上
@@ -4319,6 +4629,7 @@ Much of the power of the trade unions has been lost. _________ (尽管如此), t
 
 2. *低义频：* **晚会：**  
 
+
 > an English evening   
 > 英语晚会
 
@@ -4333,6 +4644,7 @@ Much of the power of the trade unions has been lost. _________ (尽管如此), t
 1. *高义频：* **重大事件；(发生的) 事情**  
 sth happens, especially sth important or unusual：
 
+
 > **after the event**  
 > It is easy to be wise after the event.   
 > 事后诸葛亮人人都会做。
@@ -4345,6 +4657,7 @@ sth happens, especially sth important or unusual：
 ### 辨析 matter, affair, event
 三者都有“事情”之意。
 2. *低义频：* **公开活动；比赛项目；体育比赛：**  
+
 
 > We supported each other financially and by showing up at events.  
 > 我们不仅在财力上，还通过参加重要活动来相互支持。
@@ -4366,17 +4679,20 @@ sth happens, especially sth important or unusual：
 - #### at all events / in any event 
 1. **不论怎样；无论如何：**  
 
+
 > At all events we will carry the struggle through to the end.   
 > 无论如何我们都会拼搏到底。
 
 - #### in the event 
 1. **结果；到头来：**  
 
+
 > I got very nervous about the exam, but in the event, I needn’t have worried; it was really easy.   
 > 我对考试提心吊胆，但其实我本不必担心，这次考试的确很容易。
 
 - #### in the event of / (that) 
 1. **如果…发生；倘若：**  
+
 
 > In the event of an accident, call this number.   
 > 万一发生事故就打这个电话。
@@ -4396,6 +4712,7 @@ sth happens, especially sth important or unusual：
 ---
 1. *高义频：* **最后的；最终的：**  
 
+
 > eventual success / failure   
 > 最后的成功/失败
 
@@ -4412,6 +4729,7 @@ sth happens, especially sth important or unusual：
 ---
 1. *高义频：* **最终；终于**  
 after a long time, or after a lot of things have happened：
+
 
 > You will succeed eventually.   
 > 你终会成功的。
@@ -4438,6 +4756,7 @@ There was such a long queue for coffee at the interval that we ________ (eventua
 ---
 1. *高义频：* **在 (以往) 任何时候；从来；曾经：**  
 
+
 > Nothing new ever happens in this little town.   
 > 这个小镇从不发生新鲜事。
 
@@ -4457,6 +4776,7 @@ There was such a long queue for coffee at the interval that we ________ (eventua
 ever常用于否定句、一般疑问句以及表示条件和比较的从句，也可与比较级或最高级连用。
 2. *低义频：* **究竟；到底：**  
 
+
 > Why ever did you do so?   
 > 你究竟为什么要这么做？
 
@@ -4466,8 +4786,10 @@ ever常用于否定句、一般疑问句以及表示条件和比较的从句，�
 - #### ever after 
 1. **从那时以后一直**  
 
+
 - #### ever since 
 1. **自从；从…以来；此后一直：**  
+
 
 > Their work has influenced other writers ever since.   
 > 他们的作品此后一直影响着后世的作家。
@@ -4505,6 +4827,7 @@ D.never
 1. **永恒的；持久的；无止境的**  
 
 
+
 # ***every*** adj
 英音 'evri     美音 'evri  
 
@@ -4516,6 +4839,7 @@ D.never
 ---
 1. *高义频：* **每一；每个：**  
 
+
 > Not every horse can run very fast.   
 > 并非每匹马都跑得快。
 
@@ -4523,6 +4847,7 @@ D.never
 > 班上的每个孩子都通过了这次考试。
 
 2. *高义频：* **每隔；每：**  
+
 
 > **every other**  
 > write on every other line   
@@ -4532,6 +4857,7 @@ D.never
 > 我每隔两天去那里一次。
 
 3. *高义频：* **充分的；完全的：**  
+
 
 > **every chance**  
 > He was given every chance to try the job.   
@@ -4547,6 +4873,7 @@ D.never
 - #### every now and then 
 1. **不时地；偶尔 (every so often)：**  
 
+
 > Every now and then I watch a soap on TV at my friend’s house.   
 > 我时不时会去朋友家看肥皂剧。
 
@@ -4561,6 +4888,7 @@ D.never
 英文释义
 ---
 1. *高义频：* **每人；人人：**  
+
 
 > The mirror never changes but everybody who looks at it sees something different.   
 > 镜子从不变化，但每个照镜子的人都会看到不同的东西。
@@ -4582,6 +4910,7 @@ D.never
 ---
 1. *高义频：* **每天的；日常的 (daily)：**  
 
+
 > **everyday life**  
 > everyday life  
 > 日常生活
@@ -4602,6 +4931,7 @@ everyday是形容词，通常作前置定语，而everyday是副词短语，常�
 英文释义
 ---
 1. *高义频：* **每个人；人人：**  
+
 
 > In a small village everyone knows everyone else.   
 > 在小村子里，人人都相识。
@@ -4631,6 +4961,7 @@ D.Someone
 ---
 1. *高义频：* **每件事；每样事物：**  
 
+
 > If you give a child everything he wants, he will grow up believing the world owes him a living.   
 > 如果孩子想要什么就给他什么，那么他长大后就会认为人人都欠他。
 
@@ -4638,6 +4969,7 @@ D.Someone
 > 事事皆知，事事不懂。
 
 2. *高义频：* **一切；所有事物；最重要的事物：**  
+
 
 > **is everything to**  
 > Money is everything to him.   
@@ -4663,6 +4995,7 @@ Make sure you've got the passports and tickets and anything before you leave.
 英文释义
 ---
 1. *高义频：* **到处；无论何处：**  
+
 
 > The state of our parks is very shocking, with rubbish everywhere.   
 > 我们公园的状况很令人震惊，到处都是垃圾。
@@ -4691,6 +5024,7 @@ There were piles of newspapers ________(到处) in the house.
 ---
 1. *高义频：* **证据 (proof)；迹象：**  
 
+
 > **evidence that**  
 > There is evidence that Beijing Man used fire to cook food.   
 > 有迹象表明北京猿人曾用火烹煮食物。
@@ -4704,6 +5038,7 @@ There were piles of newspapers ________(到处) in the house.
 
 2. *高义频：* **(法庭上的) 证据；物证；证词：**  
 
+
 > Before making his decision, the judge heard the evidence.   
 > 法官听取证词后才作决定。
 
@@ -4716,6 +5051,7 @@ There were piles of newspapers ________(到处) in the house.
 英文释义
 ---
 1. *高义频：* **明显的；清楚的；明白的 (clear / obvious)：**  
+
 
 > an evident mistake   
 > 明显的错误
@@ -4738,6 +5074,7 @@ evidently /'evɪdəntli/ adv
 ---
 1. *高义频：* **坏的；邪恶的；罪恶的；有害的：**  
 
+
 > evil thoughts   
 > 邪念
 
@@ -4752,6 +5089,7 @@ evidently /'evɪdəntli/ adv
 英文释义
 ---
 1. *高义频：* **邪恶；罪恶；坏处：**  
+
 
 > return good for evil   
 > 以德报怨
@@ -4768,6 +5106,7 @@ evidently /'evɪdəntli/ adv
 英文释义
 ---
 1. *高义频：* **进化；发展；演变：**  
+
 
 > **theory of evolution**  
 > Darwin's theory of evolution  
@@ -4790,6 +5129,7 @@ evidently /'evɪdəntli/ adv
 ---
 1. *高义频：* **vi & vt(使) 进化；(使) 逐步形成：**  
 
+
 > **evolve from**  
 > We human beings evolve from a particular branch of the primate family.   
 > 我们人类是从灵长目一个特殊的分支进化而来的。
@@ -4809,6 +5149,7 @@ evidently /'evɪdəntli/ adv
 1. *高义频：* **以前的；前任的**  
 
 
+
 # ***ex-husband*** n
 英音 'eksh'ʌzbənd     美音 'eksh'ʌzbənd  
 
@@ -4819,6 +5160,7 @@ evidently /'evɪdəntli/ adv
 1. **前夫**  
 
 
+
 # ***exact*** adj
 英音 ɪɡ'zækt     美音 ɪɡ'zækt  
 
@@ -4827,6 +5169,7 @@ evidently /'evɪdəntli/ adv
 英文释义
 ---
 1. *高义频：* **精确的；准确的；严谨的 (precise)：**  
+
 
 > an exact copy of the painting   
 > 那幅画的精确复制品
@@ -4844,6 +5187,7 @@ evidently /'evɪdəntli/ adv
 - #### to be exact 
 1. **确切地说：**  
 
+
 > I read an article about paper, to be exact, about how much Americans use up each year.   
 > 我读到一篇有关纸的文章，确切地说，是关于美国人每年用纸量的文章。
 
@@ -4856,6 +5200,7 @@ evidently /'evɪdəntli/ adv
 英文释义
 ---
 1. *高义频：* **确切地 (precisely)；恰好；正是 (just)：**  
+
 
 > **exactly what**  
 > I can't remember exactly what she said.  
@@ -4875,6 +5220,7 @@ evidently /'evɪdəntli/ adv
 ---
 - #### not exactly 
 1. **不完全；并不；根本不：**  
+
 
 > It's similar to the music you listen to, but it's not exactly the same.  
 > 这首曲子和你刚听的相似，但不完全相同。
@@ -4909,6 +5255,7 @@ evidently /'evɪdəntli/ adv
 1. *高义频：* **夸张；夸大**  
 
 
+
 # ***exaggerated*** adj
 英音 ɪɡ'zædʒəreɪtɪd     美音 ɪɡ'zædʒəreɪtɪd  
 
@@ -4919,6 +5266,7 @@ evidently /'evɪdəntli/ adv
 1. **(声音或动作) 夸张的**  
 
 
+
 # ***exam*** n
 英音 /ɪɡ'zæm/     美音 /ɪɡ'zæm/  
 
@@ -4927,6 +5275,7 @@ evidently /'evɪdəntli/ adv
 英文释义
 ---
 1. **考试 (examination)；医学检查：**  
+
 
 > the mid-term / end-of-term exam  
 > 期中/期末考试
@@ -4943,6 +5292,7 @@ evidently /'evɪdəntli/ adv
 英文释义
 ---
 1. *高义频：* **[C] [正式用语]考试 (exam)；[C] & [U] 检查；审查：**  
+
 
 > the National College Entrance Examination  
 > 高考
@@ -4966,6 +5316,7 @@ evidently /'evɪdəntli/ adv
 英文释义
 ---
 1. *高义频：* **检查；调查；测验：**  
+
 
 > He examined the patient with care.   
 > 他仔细地检查了病人。
@@ -4992,6 +5343,7 @@ examiner /ɪɡ'zæmɪnə(r)/ n [C]
 ---
 1. *高义频：* **例子；样本；榜样：**  
 
+
 > **example to**  
 > Mary's courage is an example to us all.  
 > 勇敢的玛丽是我们大家的榜样。
@@ -5009,8 +5361,10 @@ examiner /ɪɡ'zæmɪnə(r)/ n [C]
 - #### follow sb's example
 1. **学习某人；效仿某人**  
 
+
 - #### for example 
 1. **例如：**  
+
 
 > Many great men have risen from poverty — Lincoln and Edison, for example.   
 > 许多伟人出身贫苦，例如林肯和爱迪生。
@@ -5018,11 +5372,13 @@ examiner /ɪɡ'zæmɪnə(r)/ n [C]
 - #### set an example to sb
 1. **为某人树立榜样：**  
 
+
 > Helen has set an excellent example to all of us.  
 > 海伦为我们大家树立了好榜样。
 
 - #### take ... for example 
 1. **以…为例：**  
+
 
 > You can take your research work for example.   
 > 你可以拿你的研究工作做个例子。
@@ -5038,6 +5394,7 @@ examiner /ɪɡ'zæmɪnə(r)/ n [C]
 1. *高义频：* **挖掘；发掘**  
 
 
+
 # ***excavation*** n
 英音 ˌekskə'veɪʃn     美音 ˌekskə'veɪʃn  
 
@@ -5050,6 +5407,7 @@ examiner /ɪɡ'zæmɪnə(r)/ n [C]
 1. *高义频：* **挖掘；发掘**  
 
 
+
 # ***exceed*** vt
 英音 ɪk'siːd     美音 ɪk'siːd  
 
@@ -5058,6 +5416,7 @@ examiner /ɪɡ'zæmɪnə(r)/ n [C]
 英文释义
 ---
 1. *高义频：* **超过；超出； 超越**  
+
 
 
 真题解析
@@ -5079,6 +5438,7 @@ Around 13,500 new jobs were created during the period,________ (exceed) the expe
 1. *高义频：* **优秀的；杰出的；极好的**  
 extremely good：
 
+
 > She was an excellent dancer.   
 > 她是位出色的舞蹈家。
 
@@ -5097,6 +5457,7 @@ extremely good：
 英文释义
 ---
 1. *高义频：* **除...外 (apart from)：**  
+
 
 > No pets except fish are permitted in student rooms.   
 > 除了鱼，学生宿舍禁止养其他宠物。
@@ -5119,6 +5480,7 @@ extremely good：
 ---
 - #### except for 
 1. **除了…外；除去；只是：**  
+
 
 > His composition is good, except for some spelling mistakes.   
 > 他的这篇作文写得很好，只是有几处拼写错误。
@@ -5155,6 +5517,7 @@ Everything was perfect for the picnic except ________ the weather.
 ---
 1. *高义频：* **除...外 (apart from)：**  
 
+
 > No pets except fish are permitted in student rooms.  
 > 除了鱼，学生宿舍禁止养其他宠物。
 
@@ -5175,6 +5538,7 @@ Everything was perfect for the picnic except ________ the weather.
 ---
 - #### except for
 1. **除了…外；除去；只是：**  
+
 
 > His composition is good, except for some spelling mistakes.  
 > 他的这篇作文写得很好，只是有几处拼写错误。
@@ -5212,6 +5576,7 @@ Everything was perfect for the picnic except ________ the weather.
 1. **例外**  
 
 
+
 # ***exceptional*** adj
 英音 ɪk'sepʃənl     美音 ɪk'sepʃənl  
 
@@ -5220,6 +5585,7 @@ Everything was perfect for the picnic except ________ the weather.
 英文释义
 ---
 1. **杰出的 (outstanding)；罕见的**  
+
 
 
 # ***exceptionally*** adv
@@ -5232,6 +5598,7 @@ Everything was perfect for the picnic except ________ the weather.
 1. **极其，非常**  
 
 
+
 # ***excerpt*** n
 英音 'eksɜːpt     美音 'eksɜːpt  
 
@@ -5242,6 +5609,7 @@ Everything was perfect for the picnic except ________ the weather.
 1. **摘录，节录**  
 
 
+
 # ***exchange*** n  重难点词汇
 英音 ɪks'tʃeɪndʒ     美音 ɪks'tʃeɪndʒ  
 
@@ -5250,6 +5618,7 @@ Everything was perfect for the picnic except ________ the weather.
 英文释义
 ---
 1. *高义频：* **交换；交流：**  
+
 
 > **exchange student**  
 > an exchange student   
@@ -5265,10 +5634,12 @@ Everything was perfect for the picnic except ________ the weather.
 
 2. *高义频：* **(商品的) 调换：**  
 
+
 > The store's policy is not to allow returns or exchanges.  
 > 这家商店的规定是商品概不退换。
 
 3. *高义频：* **(货币的) 兑换：**  
+
 
 > **foreign exchange**  
 > foreign exchange   
@@ -5279,6 +5650,7 @@ Everything was perfect for the picnic except ________ the weather.
 > 汇率
 
 4. *低义频：* **交易所：**  
+
 
 > New York Stock Exchange   
 > 纽约证券交易所
@@ -5293,6 +5665,7 @@ Everything was perfect for the picnic except ________ the weather.
 ---
 1. *高义频：* **交换；交流：**  
 
+
 > **exchange views / ideas**  
 > exchange views / ideas  
 > 交换意见/交流思想
@@ -5302,6 +5675,7 @@ Everything was perfect for the picnic except ________ the weather.
 > 毕业前，同学们互赠礼物。
 
 2. *高义频：* **更换；兑换(change)：**  
+
 
 > **exchange,for**  
 > I'd like to exchange this dress for one of a larger size.  
@@ -5330,10 +5704,12 @@ It is illegal for a public official to ask people for gifts or money in exchange
 ---
 1. *高义频：* **使兴奋；使激动：**  
 
+
 > The news excited me very much.   
 > 这消息让我很兴奋。
 
 2. *低义频：* **激起；引起：**  
+
 
 > **excite,interest**  
 > The museum offers a variety of activities to excite your kids' interest.  
@@ -5348,6 +5724,7 @@ It is illegal for a public official to ask people for gifts or money in exchange
 英文释义
 ---
 1. *高义频：* **兴奋的；激动的：**  
+
 
 - #### (be) excited + to do sth：
 
@@ -5378,11 +5755,13 @@ It is illegal for a public official to ask people for gifts or money in exchange
 ---
 1. *高义频：* **兴奋；激动：**  
 
+
 > **in excitement**  
 > When their wish came true they cheered in excitement.  
 > 梦想实现了，他们激动得欢呼起来。
 
 2. *低义频：* **[正式用语] 令人兴奋 / 激动的事：**  
+
 
 > The visiting circus was an excitement to every child in town.   
 > 马戏团的到来使镇上的每个孩子都很兴奋。
@@ -5396,6 +5775,7 @@ It is illegal for a public official to ask people for gifts or money in exchange
 英文释义
 ---
 1. *高义频：* **令人兴奋的；使人激动的：**  
+
 
 > The idea was so exciting.   
 > 这主意真令人激动。
@@ -5414,6 +5794,7 @@ It is illegal for a public official to ask people for gifts or money in exchange
 1. **惊叫，大叫**  
 
 
+
 # ***exclude*** vt
 英音 ɪk'skluːd     美音 ɪk'skluːd  
 
@@ -5423,6 +5804,7 @@ It is illegal for a public official to ask people for gifts or money in exchange
 ---
 1. *高义频：* **(故意) 不包括；把...排除在外**  
 反义词 include 
+
 > **excluded from**  
 > Some of the data was specifically excluded from the report.   
 > 这篇报道特意没包括某些数据。
@@ -5438,6 +5820,7 @@ It is illegal for a public official to ask people for gifts or money in exchange
 1. *高义频：* **不包括；除去**  
 
 
+
 # ***excuse*** vt  重难点词汇
 英音 ɪk'skjuːz     美音 ɪk'skjuːz  
 
@@ -5446,6 +5829,7 @@ It is illegal for a public official to ask people for gifts or money in exchange
 英文释义
 ---
 1. *高义频：* **原谅；宽恕：**  
+
 
 > Nothing can excuse such rudeness.   
 > 如此无礼决不可宽恕。
@@ -5456,6 +5840,7 @@ It is illegal for a public official to ask people for gifts or money in exchange
 
 2. *高义频：* **为...找借口；为...辩解：**  
 
+
 > Nothing can excuse such irresponsible behaviour.  
 > 这种不负责任的行为是完全没有理由可言的。
 
@@ -5465,6 +5850,7 @@ It is illegal for a public official to ask people for gifts or money in exchange
 
 3. *低义频：* **准许…离开；请求准予离开；(离开前) 请求原谅：excuse sb / oneself (from sth):**  
 
+
 > She excused herself and left the meeting early.  
 > 她礼貌地告辞后，就提前离开了会场。
 
@@ -5473,6 +5859,7 @@ It is illegal for a public official to ask people for gifts or money in exchange
 ---
 - #### excuse me 
 1. **[用于与陌生人谈话、插话、表示异议等] 对不起；抱歉；劳驾：**  
+
 
 > Excuse me, could you please move in a bit to let me pass?   
 > 对不起，请挪一下，让我过去好吗？
@@ -5486,6 +5873,7 @@ It is illegal for a public official to ask people for gifts or money in exchange
 英文释义
 ---
 1. *高义频：* **[C] 借口；理由：**  
+
 
 > **making excuses for**  
 > Stop making excuses for being lazy!   
@@ -5515,6 +5903,7 @@ It is illegal for a public official to ask people for gifts or money in exchange
 ---
 1. *高义频：* **执行者；主管；行政官：**  
 
+
 > Chief Executive Officer (CEO)  
 > 首席执行官
 
@@ -5528,6 +5917,7 @@ It is illegal for a public official to ask people for gifts or money in exchange
 ---
 1. *高义频：* **[U] 锻炼；运动：**  
 
+
 > **get,exercise**  
 > I don't get much exercise sitting in the office all day.  
 > 我整天坐在办公室，很少运动。
@@ -5538,10 +5928,12 @@ It is illegal for a public official to ask people for gifts or money in exchange
 
 2. *高义频：* **[C] (一套) 动作；体操：**  
 
+
 > morning / stretching exercises   
 > 早操/伸展运动
 
 3. *高义频：* **[C] 练习；训练：**  
+
 
 > vocabulary / military exercises  
 > 词汇练习/军事演习
@@ -5559,6 +5951,7 @@ It is illegal for a public official to ask people for gifts or money in exchange
 ---
 1. *高义频：* **锻炼；运动；训练：**  
 
+
 > You should exercise more so as to keep energetic.   
 > 你应当多锻炼以保持精力充沛。
 
@@ -5569,6 +5962,7 @@ It is illegal for a public official to ask people for gifts or money in exchange
 > 游泳能锻炼全身的主要肌肉群。
 
 2. *高义频：* **行使；运用：**  
+
 
 > exercise one's rights as a citizen  
 > 行使公民权
@@ -5587,6 +5981,7 @@ It is illegal for a public official to ask people for gifts or money in exchange
 1. *高义频：* **使精疲力竭；用完；耗尽**  
 
 
+
 # ***exhausted*** adj
 英音 ɪɡ'zɔːstɪd     美音 ɪɡ'zɔːstɪd  
 
@@ -5595,6 +5990,7 @@ It is illegal for a public official to ask people for gifts or money in exchange
 英文释义
 ---
 1. *高义频：* **精疲力竭的 (worn out)；耗尽的：**  
+
 
 > an exhausted coal mine   
 > 枯竭的煤矿
@@ -5620,6 +6016,7 @@ After his journey from abroad, Richard Jones returned home, _______ (exhaust).
 1. *高义频：* **使人精疲力竭的**  
 
 
+
 # ***exhaustion*** n
 英音 ɪɡ'zɔːstʃən     美音 ɪɡ'zɔːstʃən  
 
@@ -5628,6 +6025,7 @@ After his journey from abroad, Richard Jones returned home, _______ (exhaust).
 英文释义
 ---
 1. **疲惫；精疲力竭**  
+
 
 
 # ***exhibit*** v
@@ -5639,6 +6037,7 @@ After his journey from abroad, Richard Jones returned home, _______ (exhaust).
 ---
 1. *高义频：* **展示；陈列；展览 (show)：**  
 
+
 > This monument to him was first publicly exhibited in 1877.   
 > 这座纪念他的塑像于1877年首次对公众展出。
 
@@ -5646,6 +6045,7 @@ After his journey from abroad, Richard Jones returned home, _______ (exhaust).
 > 制造商在展示新车型。
 
 2. *低义频：* **表现；显出 (display)：**  
+
 
 > She exhibited no fear in the face of danger.   
 > 面对危险她毫无惧色。
@@ -5660,6 +6060,7 @@ After his journey from abroad, Richard Jones returned home, _______ (exhaust).
 ---
 1. *高义频：* **(AmE) 展览品；展览会：**  
 
+
 > Please do not touch the exhibits.   
 > 请勿触摸展品。
 
@@ -5673,10 +6074,12 @@ After his journey from abroad, Richard Jones returned home, _______ (exhaust).
 ---
 1. *低义频：* **展览；展出：**  
 
+
 > put sth on exhibition   
 > 展出某物
 
 2. *高义频：* **(BrE) 展览品；展览会：**  
+
 
 > We are organizing an art exhibition for high school students in the city.   
 > 我们在为本市的高中学生组织艺术展。
@@ -5698,6 +6101,7 @@ Xi'an International ________(展览) Center has attracted many business people.
 ---
 1. *高义频：* **存在：**  
 
+
 > The world exists, whether you like it or not.   
 > 不管你喜欢与否，这个世界照样存在。
 
@@ -5705,6 +6109,7 @@ Xi'an International ________(展览) Center has attracted many business people.
 > 真的有外星人存在吗？
 
 2. *低义频：* **生存；生活 (survive)：**  
+
 
 > One cannot exist without air.   
 > 没有空气人就不能生存。
@@ -5723,16 +6128,19 @@ existing /ɪɡ'zɪstɪŋ/ adj [只用于名词前]
 ---
 1. *高义频：* **存在：**  
 
+
 > The sense of existence is the greatest happiness.   
 > 意识到自己的存在是最大的幸福。
 
 - #### come into existence
 1. **开始存在；产生：**  
 
+
 > No one knows how this world came into existence.  
 > 没有人知道这个世界是怎样形成的。
 
 2. *高义频：* **生存；生活 (尤指不幸的生活)**  
+
 
 
 真题解析
@@ -5753,11 +6161,13 @@ The development of industry has been a gradual process throughout human ________
 ---
 1. *高义频：* **出口；通道；安全门**  
 反义词 entrance 
+
 > **emergency exit**  
 > an emergency exit   
 > 紧急出口
 
 2. *低义频：* **退场；退出：**  
+
 
 > **make,exit**  
 > make an exit  
@@ -5774,6 +6184,7 @@ The development of industry has been a gradual process throughout human ________
 1. **离开；退出 (电脑程序)；退场**  
 
 
+
 # ***exit*** v
 英音 'eksɪt     美音 'eksɪt  
 
@@ -5784,6 +6195,7 @@ The development of industry has been a gradual process throughout human ________
 1. **离开；退出 (电脑程序)；退场**  
 
 
+
 # ***expand*** v
 英音 ɪk'spænd     美音 ɪk'spænd  
 
@@ -5792,6 +6204,7 @@ The development of industry has been a gradual process throughout human ________
 英文释义
 ---
 1. *高义频：* **扩展；扩大；(使)膨胀：**  
+
 
 > expand knowledge of foreign countries  
 > 增加对外国的了解
@@ -5813,6 +6226,7 @@ The development of industry has been a gradual process throughout human ________
 1. **扩张**  
 
 
+
 # ***expansion*** n
 英音 ɪk'spænʃn     美音 ɪk'spænʃn  
 
@@ -5821,6 +6235,7 @@ The development of industry has been a gradual process throughout human ________
 英文释义
 ---
 1. **扩大；扩张；扩充**  
+
 
 
 # ***expect*** vt  重难点词汇
@@ -5833,6 +6248,7 @@ The development of industry has been a gradual process throughout human ________
 1. *高义频：* **等待**  
 to be waiting for sb / sth to arrive：
 
+
 > expect a letter / phone call   
 > 等信/电话
 
@@ -5841,6 +6257,7 @@ to be waiting for sb / sth to arrive：
 
 2. *高义频：* **预料；预计**  
 to think or believe that sth will happen or sb will do sth：
+
 
 - #### expect (sb / sth) to do sth:
 
@@ -5865,6 +6282,7 @@ to think or believe that sth will happen or sb will do sth：
 3. *高义频：* **要求；期望；指望**  
 to demand that sb will do sth because it is their duty：
 
+
 - #### expect sth (of / from sb):
 
 > Volunteers don't expect any kind of pay.  
@@ -5883,6 +6301,7 @@ to demand that sb will do sth because it is their duty：
 
 4. *高义频：* **料想；认为：**  
 
+
 > I expect you are right.   
 > 我想你是对的。
 
@@ -5898,6 +6317,7 @@ to demand that sb will do sth because it is their duty：
 ---
 - #### be expecting a baby / child 
 1. **怀孕：**  
+
 
 > If you are expecting a baby, your smoking habit might cause problems for it.   
 > 如果你怀孕了，吸烟的习惯可能会对胎儿产生不良影响。
@@ -5928,6 +6348,7 @@ D.suppose
 1. **(根据概率得出的) 预期数额**  
 
 
+
 # ***expectation*** n
 英音 ˌekspek'teɪʃn     美音 ˌekspek'teɪʃn  
 
@@ -5938,6 +6359,7 @@ D.suppose
 英文释义
 ---
 1. *高义频：* **期待；预期；期望：**  
+
 
 > **come / live up to / meet / answer sb's expectations**  
 > come / live up to / meet / answer sb's expectations  
@@ -5957,6 +6379,7 @@ D.suppose
 - #### beyond (sb's) expectation(s)
 1. **出乎 (某人) 意料地：**  
 
+
 > It was an A+, which was beyond my modest expectations.  
 > 我得了个A+，这大大出乎我的意料。
 
@@ -5972,6 +6395,7 @@ D.suppose
 ---
 1. *高义频：* **远征 (队)；探险 (队)：**  
 
+
 > make an expedition   
 > 远征；探险
 
@@ -5986,6 +6410,7 @@ D.suppose
 英文释义
 ---
 1. *高义频：* **支出；费用；代价：**  
+
 
 > **spare no expense**  
 > spare no expense   
@@ -6013,11 +6438,13 @@ D.suppose
 - #### at sb's expense
 1. **由某人付费 / 负担费用：**  
 
+
 > I published a book at my own expense.   
 > 我自费出版了一本书。
 
 - #### at the expense of 
 1. **以…为代价：**  
+
 
 > He finished the job at the expense of his health.   
 > 他以健康为代价完成了这项工作。
@@ -6039,6 +6466,7 @@ One thousand dollars a month is not a fortune but would help cover my living ___
 ---
 1. *高义频：* **昂贵的 (dear)**  
 反义词 cheap / inexpensive 
+
 > an expensive car / hobby  
 > 昂贵的汽车/花钱的爱好
 
@@ -6061,6 +6489,7 @@ One thousand dollars a month is not a fortune but would help cover my living ___
 1. *高义频：* **经验；实践**  
 the knowledge and skill gained through time spent doing a job or activity：
 
+
 > **experience in**  
 > I've got a lot of experience in teaching English.  
 > 我有丰富的英语教学经验。
@@ -6071,12 +6500,14 @@ the knowledge and skill gained through time spent doing a job or activity：
 2. *高义频：* **经历；阅历**  
 the knowledge you get from life and from being in a lot of different situations：
 
+
 > **personal experience**  
 > From my personal experience, I know the traffic in Beijing is terrible.   
 > 根据我个人的经历，北京的交通状况很糟糕。
 
 3. *高义频：* **(一次) 经历**  
 sth that happens to you or sth you do：
+
 
 > Travelling along the old Silk Road is an interesting and rewarding experience.  
 > 沿着古老的丝绸之路旅行是一次有趣而又有益的经历。
@@ -6097,10 +6528,12 @@ sth that happens to you or sth you do：
 ---
 1. *高义频：* **体验 (到)；感受(到)：**  
 
+
 > Welcome you to come here to experience our Chinese traditional culture.   
 > 欢迎来这里体验我们中国的传统文化。
 
 2. *高义频：* **经历；遭受：**  
+
 
 > experience failure / success   
 > 经历失败/成功
@@ -6132,6 +6565,7 @@ Jumping out of ________airplane at ten thousand feet is quite ________exciting e
 ---
 1. *高义频：* **有经验的；经验丰富的：**  
 反义词 inexperienced 
+
 > an experienced driver   
 > 有经验的驾驶员
 
@@ -6151,6 +6585,7 @@ Jumping out of ________airplane at ten thousand feet is quite ________exciting e
 ---
 1. *高义频：* **实验；试验：**  
 
+
 > **conduct / do / perform / carry out an experiment**  
 > conduct / do / perform / carry out an experiment  
 > 做实验
@@ -6167,6 +6602,7 @@ Jumping out of ________airplane at ten thousand feet is quite ________exciting e
 英文释义
 ---
 1. *高义频：* **做实验 / 试验；尝试：**  
+
 
 > **experiment on**  
 > experiment on animals   
@@ -6196,6 +6632,7 @@ experimental /ɪkˌsperɪ'mentl/ adj
 ---
 1. *高义频：* **专家；内行 (specialist)：**  
 
+
 > **expert in / on**  
 > an expert in / on psychology  
 > 心理学专家
@@ -6214,6 +6651,7 @@ experimental /ɪkˌsperɪ'mentl/ adj
 ---
 1. *高义频：* **专家的；内行的：**  
 
+
 > **expert at / in**  
 > He is expert at / in driving cars.  
 > 他开车技术娴熟。
@@ -6231,6 +6669,7 @@ experimental /ɪkˌsperɪ'mentl/ adj
 1. *高义频：* **专家意见；专门知识 (技能等)**  
 
 
+
 # ***explain*** v
 英音 ɪk'spleɪn     美音 ɪk'spleɪn  
 
@@ -6239,6 +6678,7 @@ experimental /ɪkˌsperɪ'mentl/ adj
 英文释义
 ---
 1. *高义频：* **vt & vi 解释；说明；讲解：**  
+
 
 - #### explain (sth) (to sb):
 
@@ -6265,6 +6705,7 @@ explain不可接双宾语。
 - #### explain oneself
 1. **说明自己的意思；为自己的行为解释：**  
 
+
 > Sorry, I'm not explaining myself very well.  
 > 对不起，我没把自己的意思表达清楚。
 
@@ -6282,6 +6723,7 @@ explain不可接双宾语。
 英文释义
 ---
 1. *高义频：* **解释；说明：**  
+
 
 > make an explanation  
 > 作说明/进行解释
@@ -6304,6 +6746,7 @@ explain不可接双宾语。
 ---
 1. *高义频：* **清楚的；明确的；直言的：**  
 
+
 > **explicit about**  
 > be explicit about an affair  
 > 对某事件态度鲜明
@@ -6324,6 +6767,7 @@ explain不可接双宾语。
 ---
 1. *高义频：* **(使) 爆炸 (blow up)：**  
 
+
 > explode a bomb  
 > 引爆炸弹
 
@@ -6331,6 +6775,7 @@ explain不可接双宾语。
 > 那个爆竹在他手里响了。
 
 2. *低义频：* **(感情、暴力事件) 爆发；激增：**  
+
 
 > **explode with**  
 > explode with anger  
@@ -6350,6 +6795,7 @@ explain不可接双宾语。
 1. *高义频：* **开发；开采；利用；剥削**  
 
 
+
 # ***exploration*** n
 英音 ˌeksplə'reɪʃn     美音 ˌeksplə'reɪʃn  
 
@@ -6360,6 +6806,7 @@ explain不可接双宾语。
 1. **（对某地区的）勘查**  
 
 
+
 # ***explore*** v
 英音 ɪk'splɔː(r)     美音 ɪk'splɔːr  
 
@@ -6368,6 +6815,7 @@ explain不可接双宾语。
 英文释义
 ---
 1. *高义频：* **探测；探索：**  
+
 
 > **explore for oil**  
 > explore for oil  
@@ -6380,6 +6828,7 @@ explain不可接双宾语。
 > 如果想去老北京的小胡同里探秘，三轮脚踏车值得一坐。
 
 2. *高义频：* **探讨；探究：**  
+
 
 > We need to explore ways of improving work efficiency.  
 > 我们需要探讨如何提高工作效率。
@@ -6399,6 +6848,7 @@ explorer /ɪk'splɔːrə(r)/ n
 1. **探险者**  
 
 
+
 # ***explosion*** n
 英音 ɪk'spləʊʒn     美音 ɪk'sploʊʒn  
 
@@ -6408,10 +6858,12 @@ explorer /ɪk'splɔːrə(r)/ n
 ---
 1. *高义频：* **爆炸 (声)：**  
 
+
 > The explosion was caused by a burst gas pipe.  
 > 这次爆炸是由一条爆裂的煤气管道引起的。
 
 2. *高义频：* **(感情) 爆发；激增：**  
+
 
 > **population explosion**  
 > a population explosion  
@@ -6431,6 +6883,7 @@ explorer /ɪk'splɔːrə(r)/ n
 1. **爆炸 (式)的,爆发的**  
 
 
+
 # ***export*** n
 英音 'ekspɔːt     美音 'ekspɔːrt  
 
@@ -6440,11 +6893,13 @@ explorer /ɪk'splɔːrə(r)/ n
 ---
 1. *高义频：* **[U] 出口；输出：**  
 
+
 > **export earnings / markets / industries**  
 > export earnings / markets / industries  
 > 出口收益/市场/产业
 
 2. *高义频：* **[C] [常用复数] 出口商品；输出品：**  
+
 
 > Wool is one of the chief exports of Australia.  
 > 羊毛是澳大利亚的主要出口商品之一。
@@ -6458,6 +6913,7 @@ explorer /ɪk'splɔːrə(r)/ n
 英文释义
 ---
 1. *高义频：* **出口；输出：**  
+
 
 > Australia actually exports the most diamonds and coal in the world!  
 > 事实上，澳大利亚是世界上出口钻石和煤炭最多的国家！
@@ -6473,6 +6929,7 @@ explorer /ɪk'splɔːrə(r)/ n
 1. *高义频：* **使暴露；使显露**  
 to show sth that is usually hidden：
 
+
 > **exposed to**  
 > Being exposed to sunlight for too much time will do harm to one's skin.  
 > 在阳光下暴露太久对皮肤有伤害。
@@ -6483,12 +6940,14 @@ to show sth that is usually hidden：
 2. *高义频：* **揭露；揭发**  
 to show the truth about sb or sth, especially when it is bad：
 
+
 > **expose,to_2**  
 > I threatened to expose him to the police.  
 > 我威胁要到警察那儿揭发他。
 
 3. *高义频：* **使面临；使处于...的作用 / 影响之下**  
 to put sb / sth in a situation that could be difficult or dangerous：
+
 
 > **expose,to_2**  
 > The water companies were instructed not to expose people to polluted water any more.  
@@ -6500,6 +6959,7 @@ to put sb / sth in a situation that could be difficult or dangerous：
 
 4. *低义频：* **使接触；使体验**  
 to give sb the chance to experience sth：
+
 
 > **expose,to_2**  
 > We want to expose the kids to as much art and culture as possible.  
@@ -6526,10 +6986,12 @@ exposed /ɪk'spəʊzd/ adj
 ---
 1. *高义频：* **[U] 暴露；显露：**  
 
+
 > Scientists worry that exposure to light while sleeping can increase a person's chances of getting cancer.  
 > 科学家们担忧亮着灯睡觉会增加患癌的风险。
 
 2. *低义频：* **[U] 揭露；揭发：**  
+
 
 > **exposure of**  
 > the exposure of illegal deals  
@@ -6545,6 +7007,7 @@ exposed /ɪk'spəʊzd/ adj
 ---
 1. *低义频：* **[C] 特快列车 (express train)：**  
 
+
 > the 8:00 am express to Edinburgh  
 > 早上8点开往爱丁堡的快车
 
@@ -6552,6 +7015,7 @@ exposed /ɪk'spəʊzd/ adj
 > 乘快车旅行
 
 2. *低义频：* **[U] 快送；快递服务：**  
+
 
 > I sent the parcel by express.  
 > 我用快递寄的包裹。
@@ -6569,6 +7033,7 @@ expressive /ɪk'spresɪv/ adj
 英文释义
 ---
 1. *高义频：* **特快的；快递的：**  
+
 
 > **express train**  
 > an express train  
@@ -6591,6 +7056,7 @@ expressive /ɪk'spresɪv/ adj
 ---
 1. *高义频：* **表达；表示：**  
 
+
 > **Words can't express**  
 > Words can't express how excited I was!  
 > 我当时激动的心情难以言表。
@@ -6607,6 +7073,7 @@ expressive /ɪk'spresɪv/ adj
 
 2. *低义频：* **(AmE) 特快发送：**  
 
+
 > express a package  
 > 把包裹特快发送
 
@@ -6619,6 +7086,7 @@ expressive /ɪk'spresɪv/ adj
 英文释义
 ---
 1. *高义频：* **[C] & [U] 表达；表示：**  
+
 
 > **freedom of expression**  
 > freedom of expression  
@@ -6634,6 +7102,7 @@ expressive /ɪk'spresɪv/ adj
 
 2. *高义频：* **表情；神色 (look)：**  
 
+
 > The expression on her face is very friendly.  
 > 她脸上的表情很友好。
 
@@ -6642,10 +7111,12 @@ expressive /ɪk'spresɪv/ adj
 
 3. *高义频：* **词语；措辞；表达方法：**  
 
+
 > You can learn interesting words and expressions by reading poems.  
 > 通过阅读诗歌，你能学到有趣的词语和表达方法。
 
 4. *低义频：* **[U] 感情；表现力：**  
+
 
 > read / play with expression  
 > 有感情地朗读/表演
@@ -6667,11 +7138,13 @@ The ________ (express) on his face told me that he was angry.
 ---
 1. *低义频：* **vt 伸开；展开；伸出：**  
 
+
 > **Extend,hand**  
 > Extend your left hand.  
 > 把左手伸出来。
 
 2. *高义频：* **vt & vi (使) 延伸；(使) 延长：**  
+
 
 > This road extends to the river.  
 > 这条路延伸到河边。
@@ -6683,6 +7156,7 @@ The ________ (express) on his face told me that he was angry.
 > 游客们决定延长逗留时间，多看看这个美丽的国家。
 
 3. *高义频：* **vt & vi (使) 扩大；(使) 扩展：**  
+
 
 > **extended family**  
 > an extended family  
@@ -6703,6 +7177,7 @@ The ________ (express) on his face told me that he was angry.
 ---
 1. *高义频：* **延伸；扩大；延长期：**  
 
+
 > a visa extension  
 > 延长签证
 
@@ -6719,6 +7194,7 @@ The ________ (express) on his face told me that he was angry.
 
 2. *高义频：* **电话分机；分机号码：**  
 
+
 > Extension 326, please!  
 > 请接326分机。
 
@@ -6731,6 +7207,7 @@ The ________ (express) on his face told me that he was angry.
 英文释义
 ---
 1. *高义频：* **广阔的；大规模的；广泛的：**  
+
 
 > extensive reading / research   
 > 泛读/广泛的研究
@@ -6745,6 +7222,7 @@ The ________ (express) on his face told me that he was angry.
 ---
 1. *高义频：* **[U] [常用单数] 程度；范围：**  
 
+
 > **the extent of**  
 > I was amazed at the extent of his knowledge.  
 > 我对他知识的渊博感到吃惊。
@@ -6754,6 +7232,7 @@ The ________ (express) on his face told me that he was angry.
 ---
 - #### to … extent
 1. **在…程度上：**  
+
 
 > **to some extent**  
 > We all to some extent remember the good times and forget the bad.  
@@ -6773,6 +7252,7 @@ The ________ (express) on his face told me that he was angry.
 1. **外 (面) 的；外部的**  
 
 
+
 # ***extinct*** adj
 英音 ɪk'stɪŋkt     美音 ɪk'stɪŋkt  
 
@@ -6781,6 +7261,7 @@ The ________ (express) on his face told me that he was angry.
 英文释义
 ---
 1. *高义频：* **灭绝的；绝迹的：**  
+
 
 > **become extinct**  
 > Sadly, many species have become extinct and many are in danger of extinction.   
@@ -6798,6 +7279,7 @@ The ________ (express) on his face told me that he was angry.
 ---
 1. *高义频：* **灭绝；消亡**  
 
+
 > species in danger of extinction  
 > 濒临灭绝的物种
 
@@ -6813,6 +7295,7 @@ The ________ (express) on his face told me that he was angry.
 英文释义
 ---
 1. *高义频：* **额外地；特别地；非常：**  
+
 
 > work extra hard  
 > 工作特别努力
@@ -6831,6 +7314,7 @@ The ________ (express) on his face told me that he was angry.
 ---
 1. *高义频：* **[C] 额外的事物；另外收费的事物：**  
 
+
 > The service charge is an extra.  
 > 服务费另计。
 
@@ -6844,6 +7328,7 @@ The ________ (express) on his face told me that he was angry.
 ---
 1. *高义频：* **[只用于名词前] 额外的；外加的 (additional)：**  
 
+
 > do extra work  
 > 加班
 
@@ -6851,6 +7336,7 @@ The ________ (express) on his face told me that he was angry.
 > 节日食物供应不额外收费。
 
 2. *高义频：* **[不用于名词前] 另外收费的：**  
+
 
 > In our hotel room service is not extra.  
 > 我们旅馆不另收房间服务费。
@@ -6866,6 +7352,7 @@ The ________ (express) on his face told me that he was angry.
 1. **课外的；课程以外的**  
 
 
+
 # ***extraordinary*** adj
 英音 ɪk'strɔːdnri     美音 ɪk'strɔːrdəneri  
 
@@ -6874,6 +7361,7 @@ The ________ (express) on his face told me that he was angry.
 英文释义
 ---
 1. *高义频：* **异乎寻常的；非凡的：**  
+
 
 > **It's extraordinary that**  
 > It's extraordinary that he managed to sleep through the party.  
@@ -6893,6 +7381,7 @@ The ________ (express) on his face told me that he was angry.
 1. **天外的；地球外的**  
 
 
+
 # ***extreme*** adj
 英音 ɪk'striːm     美音 ɪk'striːm  
 
@@ -6903,11 +7392,13 @@ The ________ (express) on his face told me that he was angry.
 1. *高义频：* **极度的**  
 very great in degree：
 
+
 > extreme cold / poverty  
 > 极其寒冷/赤贫
 
 2. *高义频：* **极端的；严重的**  
 very unusual and severe or serious：
+
 
 > The suffering of the people was extreme.   
 > 人们遭受的灾难极为深重。
@@ -6916,6 +7407,7 @@ very unusual and severe or serious：
 > 极端天气
 
 3. *低义频：* **末端的；尽头的：**  
+
 
 > the extreme north of China   
 > 中国的最北端
@@ -6929,6 +7421,7 @@ very unusual and severe or serious：
 英文释义
 ---
 1. *高义频：* **极端；极度：**  
+
 
 > go / run to extremes  
 > 走极端
@@ -6947,6 +7440,7 @@ very unusual and severe or serious：
 1. **极限运动**  
 
 
+
 # ***extremely*** adv
 英音 ɪk'striːmli     美音 ɪk'striːmli  
 
@@ -6955,6 +7449,7 @@ very unusual and severe or serious：
 英文释义
 ---
 1. *高义频：* **极其；非常：**  
+
 
 > The book was extremely popular.   
 > 这本书非常受欢迎。
@@ -6972,6 +7467,7 @@ very unusual and severe or serious：
 ---
 1. *高义频：* **眼睛：**  
 
+
 > I saw it with my own eyes.   
 > 我亲眼目睹了那件事。
 
@@ -6988,10 +7484,12 @@ very unusual and severe or serious：
 
 2. *高义频：* **[常用单数] 眼力；视力：**  
 
+
 > A surgeon needs a good eye and a steady hand.   
 > 外科医生眼要准，手要稳。
 
 3. *低义频：* **眼光；视角：**  
+
 
 > **through the eyes of**  
 > The book tells stories of the earthquake through the eyes of (= from the point of view of) those whose lives were affected.  
@@ -7003,8 +7501,10 @@ very unusual and severe or serious：
 - #### beauty is in the eye of the beholder
 1. **情人眼里出西施**  
 
+
 - #### have a (good) eye for 
 1. **对…有鉴赏力 / 识别力：**  
+
 
 > She has a good eye for a bargain.   
 > 她善识便宜货。
@@ -7012,17 +7512,20 @@ very unusual and severe or serious：
 - #### have one's eye on
 1. **密切注视；监视：**  
 
+
 > I'll have my eye on you so you'd better behave.  
 > 我会密切注意你，所以你最好表现好点儿。
 
 - #### in sb's eyes
 1. **依某人看：**  
 
+
 > Campers, in my eyes, were people who enjoyed insect bites, ill-cooked meals, and uncomfortable sleeping bags.  
 > 在我看来，露营者是一群喜欢被虫咬、吃糟糕的饭菜和睡不舒服的睡袋的人。
 
 - #### keep an eye on 
 1. **照看；注意：**  
+
 
 > Can you keep an eye on my bag while I go to the bathroom?  
 > 我去卫生间的时候，你可不可以帮我看着包？
@@ -7033,11 +7536,13 @@ very unusual and severe or serious：
 - #### keep an eye out (for) 
 1. **密切注意；留神：**  
 
+
 > The lady walked around the shops, keeping an eye out for bargains.   
 > 这位女士在店铺间逛着，留意着便宜商品。
 
 - #### shut / close one's eyes to
 1. **对…视而不见；对… 置若罔闻：**  
+
 
 > You can't just close your eyes to his violence.  
 > 你不能对他的暴行视而不见。
@@ -7051,6 +7556,7 @@ very unusual and severe or serious：
 英文释义
 ---
 1. *高义频：* **看；注视：**  
+
 
 > I did not like the way he eyed me.   
 > 我不喜欢他看我的样子。
@@ -7066,6 +7572,7 @@ very unusual and severe or serious：
 1. **引人注目的**  
 
 
+
 # ***eyebrow*** n
 英音 'aɪbraʊ     美音 'aɪbraʊ  
 
@@ -7078,6 +7585,7 @@ very unusual and severe or serious：
 1. *高义频：* **眉毛**  
 
 
+
 # ***eyesight*** n
 英音 'aɪsaɪt     美音 'aɪsaɪt  
 
@@ -7088,6 +7596,7 @@ very unusual and severe or serious：
 英文释义
 ---
 1. *高义频：* **视力：**  
+
 
 > lose one's eyesight  
 > 失明
@@ -7107,5 +7616,6 @@ very unusual and severe or serious：
 英文释义
 ---
 1. *高义频：* **目击者；证人**  
+
 
 

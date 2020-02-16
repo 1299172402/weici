@@ -11,6 +11,7 @@
 ---
 1. *高义频：* **婴儿；幼小的动物：**  
 
+
 > a baby boy / girl   
 > 男/女婴
 
@@ -32,6 +33,7 @@
 ---
 1. *高义频：* **学士 (学位)：**  
 
+
 > a Bachelor’s degree   
 > 学士学位
 
@@ -40,6 +42,7 @@
 > 文学/理学学士
 
 2. *低义频：* **未婚男子；单身汉**  
+
 
 
 # ***back*** n
@@ -53,16 +56,19 @@
 ---
 1. *高义频：* **背 (部)；脊柱：**  
 
+
 > **on,back**  
 > He lay on his back.   
 > 他仰面躺着。
 
 2. *高义频：* **反面；背面：**  
 
+
 > She wrote down her ideas on the back of an envelope.  
 > 她把想法记在一个信封的背面。
 
 3. *高义频：* **后面；后部：**  
+
 
 > **at the back of**  
 > at the back of   
@@ -79,6 +85,7 @@
 1. **背靠背**  
 
 
+
 # ***back*** v
 英音 bæk     美音 bæk  
 
@@ -88,11 +95,13 @@
 ---
 1. *高义频：* **vt & vi (使) 后退：**  
 
+
 > **backed,into,out of**  
 > He backed the car into / out of the garage.   
 > 他把汽车倒入/出车库。
 
 2. *高义频：* **支持：**  
+
 
 > a government-backed programme  
 > 政府支持的项目
@@ -103,11 +112,14 @@
 - #### back away (from)
 1. **躲开**  
 
+
 - #### back off
 1. **后退；不去管；放弃**  
 
+
 - #### back up
 1. **支持 (back)；备份：**  
+
 
 > Go ahead. Take a chance. And I will back you up.  
 > 去吧，碰碰运气，我会支持你的。
@@ -125,6 +137,7 @@
 ---
 1. *高义频：* **后面的；过期的：**  
 
+
 > the back door of a house   
 > 房子的后门
 
@@ -141,10 +154,12 @@
 ---
 1. *高义频：* **在后；向后：**  
 
+
 > I stepped back to let them pass.   
 > 我退后让他们通过。
 
 2. *高义频：* **回原处 / 原状：**  
+
 
 > **get,back**  
 > It didn’t take me a long time to get my confidence back.   
@@ -156,6 +171,7 @@
 
 3. *高义频：* **还；回应：**  
 
+
 > answer back   
 > 应答
 
@@ -163,6 +179,7 @@
 > 还手；反击
 
 4. *高义频：* **[指时间] 以前；追溯：**  
+
 
 > I remember back in high school I spent most of my day at school.  
 > 我记得中学时我一天的大部分时间都是在学校度过的。
@@ -172,6 +189,7 @@
 ---
 - #### back and forth 
 1. **来回地；反复地：**  
+
 
 > They are dressed in beautiful clothes, skipping back and forth to the rhythm of loud drums.  
 > 他们身着亮丽的服装，和着响亮的鼓点扭来扭去。
@@ -187,6 +205,7 @@
 1. **直体后空翻**  
 
 
+
 # ***background*** n
 英音 'bækɡraʊnd     美音 'bækɡraʊnd  
 
@@ -195,6 +214,7 @@
 英文释义
 ---
 1. *高义频：* **出身；个人背景：**  
+
 
 > **family / social / cultural / educational background**  
 > sb’s family / social / cultural / educational background  
@@ -206,6 +226,7 @@
 
 2. *高义频：* **(事态发展等的) 背景：**  
 
+
 > **background information / knowledge**  
 > background information / knowledge  
 > 背景资料/知识
@@ -215,6 +236,7 @@
 > 本书描述了第二次世界大战的历史背景。
 
 3. *高义频：* **底 (子)； (画等的) 背景；背景音：**  
+
 
 > **background music**  
 > background music   
@@ -234,6 +256,7 @@
 1. *高义频：* **[C] (登山者或旅行者用的) 背包**  
 
 
+
 # ***backpack*** vi
 英音 'bækpæk     美音 'bækpæk  
 
@@ -242,6 +265,7 @@
 英文释义
 ---
 1. *高义频：* **背包旅行：**  
+
 
 > **go backpacking**  
 > Many go backpacking in the mountains of the west.  
@@ -258,6 +282,7 @@
 1. **在后台（的）；在幕后（的）；私下（的）**  
 
 
+
 # ***backward*** adj
 英音 'bækwəd     美音 'bækwərd  
 
@@ -267,10 +292,12 @@
 ---
 1. *高义频：* **向后的；朝后的：**  
 
+
 > a backward glance   
 > 向后一瞥
 
 2. *低义频：* **落后的：**  
+
 
 > an economically backward area   
 > 经济落后地区
@@ -284,6 +311,7 @@
 英文释义
 ---
 1. *高义频：* **向后；朝反方向；倒退地：**  
+
 
 > learn how to skate backward   
 > 学习如何倒滑
@@ -301,6 +329,7 @@
 ---
 1. *高义频：* **向后；朝反方向；倒退地：**  
 反义词 forwards 
+
 > learn how to skate backward  
 > 学习如何倒滑
 
@@ -318,6 +347,7 @@
 1. *高义频：* **咸肉；熏肉；培根**  
 
 
+
 # ***bacteria*** n
 英音 bæk'tɪəriə     美音 bæk'tɪriə  
 
@@ -328,6 +358,7 @@
 1. **细菌**  
 
 
+
 # ***bacterium*** n
 英音 bæk'tɪəriəm     美音 bæk'tɪəriəm  
 
@@ -336,6 +367,7 @@
 英文释义
 ---
 1. *高义频：* **[C] (pl bacteria) 细菌**  
+
 
 
 # ***bad*** adj
@@ -349,6 +381,7 @@
 ---
 1. *高义频：* **不好的；差的；糟糕的：**  
 
+
 > bad weather  
 > 糟糕的天气
 
@@ -357,16 +390,19 @@
 
 2. *高义频：* **有害的；不利的：**  
 
+
 > **bad for**  
 > In my opinion, overprotection and too much care are extremely bad for children’s development.  
 > 我认为过度保护和过分关爱对于孩子的成长都极为不利。
 
 3. *高义频：* **严重的；厉害的：**  
 
+
 > I’ve got a bad cold.  
 > 我患了重感冒。
 
 4. *低义频：* **有病的；不舒服的；愧疚的：**  
+
 
 > I haven’t been able to do much because of my bad back.  
 > 我因为背不好一直不能做太多的事。
@@ -376,11 +412,13 @@
 
 5. *低义频：* **(食物等) 腐败的； (气味等) 臭的：**  
 
+
 > **went bad**  
 > The egg went bad and smelt horrible.  
 > 鸡蛋坏了，特别难闻。
 
 6. *高义频：* **不擅长的：**  
+
 
 > **bad at**  
 > be bad at singing  
@@ -393,6 +431,7 @@
 1. **每况愈下**  
 
 
+
 # ***bad-tempered*** adj
 英音 bæd 'tempəd     美音 bæd 'tempəd  
 
@@ -401,6 +440,7 @@
 英文释义
 ---
 1. *高义频：* **脾气暴躁的；易怒的**  
+
 
 
 # ***badly*** adv
@@ -414,11 +454,13 @@
 ---
 1. *高义频：* **坏地；拙劣地 (poorly)：**  
 反义词 well  
+
 > **did,badly in**  
 > Rob did very badly in the history exam.  
 > 罗布的历史考得很差。
 
 2. *高义频：* **严重地；非常：**  
+
 
 > badly beaten at football   
 > 在足球赛中遭到惨败
@@ -432,6 +474,7 @@
 - #### badly off 
 1. **贫困的；境况不好的：**  
 反义词 well off 
+
 > I've been quite badly off recently.  
 > 最近我经济上很拮据。
 
@@ -452,6 +495,7 @@ It’s hard for him playing against me. I’ve got nothing to play for, but for 
 ---
 1. *高义频：* **[U] 羽毛球运动**  
 
+
 > play badminton  
 > 打羽毛球
 
@@ -465,6 +509,7 @@ It’s hard for him playing against me. I’ve got nothing to play for, but for 
 ---
 1. *高义频：* **[C] 袋；(手) 包；提包；一袋的量：**  
 
+
 > eye bags  
 > 眼袋
 
@@ -473,6 +518,7 @@ It’s hard for him playing against me. I’ve got nothing to play for, but for 
 ---
 - #### be in the bag 
 1. **十拿九稳；稳操胜券：**  
+
 
 > It was a good interview and I thought the job was in the bag.  
 > 面试很不错，我想得到那份工作是十拿九稳的事。
@@ -486,6 +532,7 @@ It’s hard for him playing against me. I’ve got nothing to play for, but for 
 英文释义
 ---
 1. *高义频：* **[U] 行李 (BrE luggage)：**  
+
 
 > collect / pick up one’s baggage  
 > 取行李
@@ -504,6 +551,7 @@ It’s hard for him playing against me. I’ve got nothing to play for, but for 
 1. **【pl】风笛**  
 
 
+
 # ***baid*** adj
 英音 'beɪd     美音 'beɪd  
 
@@ -514,6 +562,7 @@ It’s hard for him playing against me. I’ve got nothing to play for, but for 
 1. **急忙拼凑的**  
 
 
+
 # ***bake*** v
 英音 beɪk     美音 beɪk  
 
@@ -522,6 +571,7 @@ It’s hard for him playing against me. I’ve got nothing to play for, but for 
 英文释义
 ---
 1. *高义频：* **vt & vi 烘；烤：**  
+
 
 > Aside from making dinner, she also baked a cake.  
 > 除了做正餐，她还烤了个蛋糕。
@@ -540,6 +590,7 @@ It’s hard for him playing against me. I’ve got nothing to play for, but for 
 1. *高义频：* **[C] 面包烘房；面包店**  
 
 
+
 # ***balance*** n  重难点词汇
 英音 'bæləns     美音 'bæləns  
 
@@ -549,10 +600,12 @@ It’s hard for him playing against me. I’ve got nothing to play for, but for 
 ---
 1. *低义频：* **[C] 天平；秤：**  
 
+
 > Weigh it on the balance.   
 > 在秤/天平上称它的重量。
 
 2. *高义频：* **[U] [常用单数] 平衡；均衡：**  
+
 
 > **keep / lose one’s balance**  
 > keep / lose one’s balance  
@@ -568,6 +621,7 @@ It’s hard for him playing against me. I’ve got nothing to play for, but for 
 
 3. *高义频：* **[常用单数] 余额；余款：**  
 
+
 > I have a balance of about $50,000 in my savings account.   
 > 我的存款账户里有五万美元左右的余额。
 
@@ -580,6 +634,7 @@ It’s hard for him playing against me. I’ve got nothing to play for, but for 
 - #### on balance
 1. **总的说来**  
 after considering all the information：
+
 
 > On balance, I think we made the right decision.  
 > 总的来说，我认为我们做的决定是正确的。
@@ -609,6 +664,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 ---
 1. *高义频：* **vt & vi (使) 保持平衡；(使) 均衡：**  
 
+
 > **balance the budget**  
 > The hospital needs to balance the budget each year.  
 > 医院每年都要使预算保持平衡。
@@ -628,6 +684,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 1. *高义频：* **[C] 阳台**  
 
 
+
 # ***bald*** adj
 英音 bɔːld     美音 bɔːld  
 
@@ -636,6 +693,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 英文释义
 ---
 1. *高义频：* **秃头的**  
+
 
 
 # ***baleen*** n
@@ -648,6 +706,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 1. *高义频：* **鲸须**  
 
 
+
 # ***ball*** n
 英音 bɔːl     美音 bɔːl  
 
@@ -656,6 +715,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 英文释义
 ---
 1. *高义频：* **[C] 球；球状物；球类运动；舞会**  
+
 
 
 # ***ballad*** n
@@ -670,6 +730,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 1. *高义频：* **歌谣; 情歌；民谣**  
 
 
+
 # ***ballet*** n
 英音 'bæleɪ     美音 'bæleɪ  
 
@@ -682,6 +743,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 1. *高义频：* **芭蕾舞；芭蕾舞剧；芭蕾舞乐曲**  
 
 
+
 # ***balloon*** n
 英音 bə'luːn     美音 bə'luːn  
 
@@ -690,6 +752,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 英文释义
 ---
 1. *高义频：* **[C] 气球**  
+
 
 
 # ***ballroom*** n
@@ -702,6 +765,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 1. **舞厅, 跳舞场**  
 
 
+
 # ***bamboo*** n
 英音 ˌbæm'buː     美音 ˌbæm'buː  
 
@@ -712,6 +776,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 1. *高义频：* **[C] & [U] 竹；竹子**  
 
 
+
 # ***ban*** vt
 英音 bæn     美音 bæn  
 
@@ -720,6 +785,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 英文释义
 ---
 1. *高义频：* **禁止；取缔(prohibit)：**  
+
 
 - #### ban sb from (doing) sth:
 
@@ -739,6 +805,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 ---
 1. *高义频：* **[C]  [常用单数] 禁止；禁令：**  
 
+
 > **ban on**  
 > They are now protected by an international ban on whaling.  
 > 现在它们受到国际鲸鱼禁捕令的保护。
@@ -754,6 +821,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 1. *高义频：* **[C] 香蕉**  
 
 
+
 # ***band*** n
 英音 bænd     美音 bænd  
 
@@ -765,16 +833,19 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 ---
 1. *高义频：* **乐队：**  
 
+
 > a jazz / military band   
 > 爵士乐队/军乐队
 
 2. *高义频：* **群；帮；伙：**  
+
 
 > **a band of**  
 > a band of volunteers  
 > 一群志愿者
 
 3. *高义频：* **带；箍；条：**  
+
 
 > a rubber band   
 > 橡皮筋
@@ -793,6 +864,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 1. *高义频：* **[C] 绷带**  
 
 
+
 # ***bandage*** vt
 英音 'bændɪdʒ     美音 'bændɪdʒ  
 
@@ -801,6 +873,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 英文释义
 ---
 1. **用绷带包扎（bandage up）**  
+
 
 
 # ***bang*** v
@@ -812,10 +885,12 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 ---
 1. *低义频：* **砰地关上：**  
 
+
 > He banged the window shut.   
 > 他砰的一声关上了窗户。
 
 2. *低义频：* **猛敲；猛撞：**  
+
 
 > bang at / on a door   
 > 砰砰敲门
@@ -836,11 +911,13 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 ---
 1. *低义频：* **砰的一声：**  
 
+
 > **with a,bang**  
 > The firework exploded with a loud bang.   
 > 烟火砰的一声爆开了。
 
 2. *低义频：* **猛击；猛撞：**  
+
 
 > He gave the drum a bang.   
 > 他用力敲了一下鼓。
@@ -857,16 +934,19 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 ---
 1. *高义频：* **银行：**  
 
+
 > bank balance   
 > 银行存款余额；账户余额
 
 2. *低义频：* **库：**  
+
 
 > **blood bank**  
 > a blood bank   
 > 血库
 
 3. *高义频：* **(河) 岸；堤：**  
+
 
 > a river bank   
 > 河岸
@@ -880,6 +960,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 英文释义
 ---
 1. *高义频：* **破产的；垮了的：**  
+
 
 > **go bankrupt**  
 > They get deep in debt, and they can even go bankrupt and get sent to prison.  
@@ -896,6 +977,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 1. *高义频：* **[C] 宴会；筵席**  
 
 
+
 # ***bar*** n
 英音 bɑː(r)     美音 bɑːr  
 
@@ -907,6 +989,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 ---
 1. *高义频：* **条；杆；棒；块：**  
 
+
 > **a bar of**  
 > a bar of chocolate / soap  
 > 一块巧克力/肥皂
@@ -916,6 +999,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 > 日落时分，一道红霞笼罩在西山上。
 
 2. *高义频：* **酒吧；柜台：**  
+
 
 > **a coffee / snack / wine bar**  
 > a coffee / snack / wine bar  
@@ -928,6 +1012,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 1. **坐牢**  
 
 
+
 # ***bar*** v
 英音 bɑː(r)     美音 bɑːr  
 
@@ -936,6 +1021,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 英文释义
 ---
 1. **摒除；阻挡**  
+
 
 
 # ***barbecue*** n
@@ -950,6 +1036,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 1. *高义频：* **烤肉；烤架；烧烤野餐(BBQ)**  
 
 
+
 # ***barber*** n
 英音 'bɑːbə(r)     美音 'bɑːrbər  
 
@@ -958,6 +1045,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 英文释义
 ---
 1. *高义频：* **[C] 理发师：**  
+
 
 > go to the barber’s   
 > 去理发店；去理发
@@ -972,6 +1060,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 ---
 1. *高义频：* **[C] 理发店 (AmE)**  
 
+
 英式英语中理发店为the barber’s。
 
 # ***bare*** adj
@@ -982,6 +1071,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 英文释义
 ---
 1. *高义频：* **赤裸的；光秃秃的；空的：**  
+
 
 > **bare feet**  
 > bare feet   
@@ -995,6 +1085,7 @@ You are working too hard. You’d better ________ (保持平衡) between work an
 
 2. *低义频：* **仅有的；最低限度的**  
 just enough; the most basic or simple：
+
 
 > **bare minimum**  
 > the bare minimum of furniture   
@@ -1011,6 +1102,7 @@ just enough; the most basic or simple：
 1. **最基本的要素**  
 
 
+
 # ***bare*** v
 英音 beə(r)     美音 ber  
 
@@ -1021,6 +1113,7 @@ just enough; the most basic or simple：
 1. **使暴露，露出**  
 
 
+
 # ***barely*** adv
 英音 'beəli     美音 'berli  
 
@@ -1029,6 +1122,7 @@ just enough; the most basic or simple：
 英文释义
 ---
 1. *高义频：* **仅仅；勉强；几乎没有：**  
+
 
 > These film stars are barely in their twenties and are already multimillionaires.   
 > 这些电影明星年仅二十几岁就已经身价数百万了。
@@ -1048,11 +1142,13 @@ just enough; the most basic or simple：
 ---
 1. *高义频：* **特价商品；廉价货：**  
 
+
 > **real bargain**  
 > This coat was half-price, a real bargain.   
 > 这件外套半价出售，真便宜。
 
 2. *低义频：* **协议；交易；成交条件：**  
+
 
 > settle / close / conclude / strike a bargain  
 > 成交；达成协议
@@ -1082,6 +1178,7 @@ I bought a dress for only 10 dollars in a sale; it was  ________(真便宜).
 ---
 1. *高义频：* **讲价；讨价还价；谈判：**  
 
+
 > **bargain with ,about,over,for**  
 > bargain with sb about / over / for the price   
 > 与某人讲价
@@ -1095,6 +1192,7 @@ I bought a dress for only 10 dollars in a sale; it was  ________(真便宜).
 英文释义
 ---
 1. *高义频：* **vt & vi (狗等) 吠；叫；咆哮：**  
+
 
 > **barked,at**  
 > The dog barked madly at her.  
@@ -1110,7 +1208,9 @@ I bought a dress for only 10 dollars in a sale; it was  ________(真便宜).
 ---
 1. *低义频：* **[C] (狗) 叫声**  
 
+
 2. *低义频：* **[U] 树皮**  
+
 
 
 # ***barrel*** n
@@ -1123,6 +1223,7 @@ I bought a dress for only 10 dollars in a sale; it was  ________(真便宜).
 1. **圆桶**  
 
 
+
 # ***barrier*** n
 英音 'bæriə(r)     美音 'bæriər  
 
@@ -1131,6 +1232,7 @@ I bought a dress for only 10 dollars in a sale; it was  ________(真便宜).
 英文释义
 ---
 1. *高义频：* **[C] 屏障；障碍 (物)；关卡：**  
+
 
 > **barrier between**  
 > The mountains form a natural barrier between the two countries.  
@@ -1172,6 +1274,7 @@ D.barrier
 ---
 1. *高义频：* **[C] 基部 (bottom)；基础；总部；基地：**  
 
+
 > Plants are the base of the food chain.   
 > 植物处于食物链的最底层。
 
@@ -1193,10 +1296,12 @@ D.barrier
 1. *高义频：* **以…为基地；基地设在…：**  
 
 
+
 固定搭配
 ---
 - #### base on / upon
 1. **以…为基础；以…为根据:**  
+
 
 > The book is based on a true story.   
 > 这本书以一个真实的故事为原型。
@@ -1213,10 +1318,12 @@ D.barrier
 based /beɪst/ adj 
 1. *高义频：* **办公地点在…的；以…为总部的**  
 
+
 > the US-based customer service  
 > 总部在美国的客户服务部
 
 2. *高义频：* **[构成复合词] …为基础的**  
+
 
 > computer-based teaching  
 > 计算机化教学
@@ -1232,6 +1339,7 @@ based /beɪst/ adj
 1. *高义频：* **[C] 棒球；[U] 棒球运动**  
 
 
+
 # ***based*** adj
 英音 beɪst     美音 beɪst  
 
@@ -1240,6 +1348,7 @@ based /beɪst/ adj
 英文释义
 ---
 1. **以（某事）为基础的；以……为重要部分（或特征）的**  
+
 
 
 # ***basement*** n
@@ -1252,6 +1361,7 @@ based /beɪst/ adj
 1. *高义频：* **[C] 地下室**  
 
 
+
 # ***basic*** adj
 英音 'beɪsɪk     美音 'beɪsɪk  
 
@@ -1260,6 +1370,7 @@ based /beɪst/ adj
 英文释义
 ---
 1. *高义频：* **基本的；基础的；最初级的：**  
+
 
 > **basic skills**  
 > basic skills   
@@ -1282,6 +1393,7 @@ based /beɪst/ adj
 ---
 1. *高义频：* **基本上；大体上(essentially)；从根本上说：**  
 
+
 > Critics say these programmes are basically bad television, but people watch them.   
 > 评论说这些电视节目基本上不怎么样，可人们还在看。
 
@@ -1296,6 +1408,7 @@ based /beɪst/ adj
 1. *高义频：* **盆；脸盆；盆地**  
 
 
+
 # ***basis*** n
 英音 'beɪsɪs     美音 'beɪsɪs  
 
@@ -1304,6 +1417,7 @@ based /beɪst/ adj
 英文释义
 ---
 1. *高义频：* **[C] (pl bases) 根据；基础：**  
+
 
 > **on a regular basis**  
 > on a regular basis   
@@ -1326,6 +1440,7 @@ based /beɪst/ adj
 ---
 1. *高义频：* **[C] 篮子；篓；筐：**  
 
+
 > Don’t put all your eggs in one basket.   
 > 不要把所有的鸡蛋放在一个篮子里。/不要孤注一掷。
 
@@ -1347,6 +1462,7 @@ The little girl picked some grapes and put them into her ________ (篮子).
 1. *高义频：* **[C] 篮球；[U] 篮球运动**  
 
 
+
 # ***bat*** n
 英音 bæt     美音 bæt  
 
@@ -1358,6 +1474,7 @@ The little girl picked some grapes and put them into her ________ (篮子).
 ---
 1. *高义频：* **(网球、 乒乓球等的) 球拍；球棒；短棍：**  
 
+
 > a baseball bat   
 > 棒球球棒
 
@@ -1365,6 +1482,7 @@ The little girl picked some grapes and put them into her ________ (篮子).
 > 一副网球拍
 
 2. *低义频：* **蝙蝠**  
+
 
 
 # ***bath*** n
@@ -1378,11 +1496,13 @@ The little girl picked some grapes and put them into her ________ (篮子).
 ---
 1. *高义频：* **浴； (洗) 澡：**  
 
+
 > **have / take a bath**  
 > have / take a bath  
 > 洗澡
 
 2. *高义频：* **浴缸；澡盆 ( AmE bathtub )**  
+
 
 
 # ***bathe*** v
@@ -1394,6 +1514,7 @@ The little girl picked some grapes and put them into her ________ (篮子).
 ---
 1. *高义频：* **(给...) 洗澡：**  
 
+
 > He bathed the children and put them to bed.   
 > 他给孩子们洗了澡，然后安顿他们上床睡觉。
 
@@ -1403,10 +1524,12 @@ The little girl picked some grapes and put them into her ________ (篮子).
 表示“洗澡”常用have / take a bath。
 2. *低义频：* **(用水、药水等) 浸洗：**  
 
+
 > bathe the wound with water   
 > 用水清洗伤口
 
 3. *低义频：* **[书面语，比喻用法] 使沐浴；使沉浸：**  
+
 
 > **bathed in**  
 > The small village is bathed in brilliant sunshine.   
@@ -1428,6 +1551,7 @@ The little girl picked some grapes and put them into her ________ (篮子).
 1. *高义频：* **浴室；卫生间；盥洗室**  
 
 
+
 # ***bathtub*** n
 英音 'bɑːθtʌb     美音 bæθtʌb  
 
@@ -1436,6 +1560,7 @@ The little girl picked some grapes and put them into her ________ (篮子).
 英文释义
 ---
 1. *高义频：* **[C] 浴缸；澡盆 ( BrE bath )**  
+
 
 
 # ***bathwater*** n
@@ -1448,6 +1573,7 @@ The little girl picked some grapes and put them into her ________ (篮子).
 1. **浴水，洗澡水**  
 
 
+
 # ***battery*** n
 英音 'bætəri     美音 'bætəri  
 
@@ -1458,6 +1584,7 @@ The little girl picked some grapes and put them into her ________ (篮子).
 1. *高义频：* **[C] 电池 (组)；电瓶**  
 
 
+
 # ***battle*** n
 英音 'bætl     美音 'bætl  
 
@@ -1466,6 +1593,7 @@ The little girl picked some grapes and put them into her ________ (篮子).
 英文释义
 ---
 1. *高义频：* **[C] & [U] 战役；战斗；斗争；较量：**  
+
 
 > fight a battle   
 > 打仗；作战
@@ -1491,6 +1619,7 @@ The little girl picked some grapes and put them into her ________ (篮子).
 ---
 1. *高义频：* **(与...) 斗争；(与...) 战斗：**  
 
+
 > **battle for**  
 > battle for  
 > 与……斗争
@@ -1513,6 +1642,7 @@ The little girl picked some grapes and put them into her ________ (篮子).
 1. *高义频：* **[C] 湾；海湾**  
 
 
+
 # ***be*** vi
 英音 bi;biː     美音 bi  
 
@@ -1524,6 +1654,7 @@ The little girl picked some grapes and put them into her ________ (篮子).
 ---
 1. *高义频：* **是；成为：**  
 
+
 > The world is round.   
 > 地球是圆的。
 
@@ -1531,6 +1662,7 @@ The little girl picked some grapes and put them into her ________ (篮子).
 > 你长大后打算干什么？
 
 2. *高义频：* **有：**  
+
 
 - #### there be:
 
@@ -1542,15 +1674,18 @@ The little girl picked some grapes and put them into her ________ (篮子).
 
 3. *高义频：* **[表示时间] 是；于：**  
 
+
 > The next match will be at 3 o’clock.   
 > 下一场比赛将于3点钟开始。
 
 4. *高义频：* **在；存在：**  
 
+
 > The lamp is on the table.   
 > 灯在桌子上。
 
 5. *高义频：* **停留；逗留；保持…状态：**  
+
 
 > They’re here till Christmas.   
 > 他们在这里一直逗留到圣诞节。
@@ -1560,10 +1695,12 @@ The little girl picked some grapes and put them into her ________ (篮子).
 
 6. *高义频：* **出席；到场：**  
 
+
 > Were you at the party yesterday?   
 > 昨天你去参加聚会了吗?
 
 7. *高义频：* **[用于完成时] 前往；造访：**  
+
 
 > Have you ever been to Beijing?   
 > 你去过北京吗？
@@ -1596,6 +1733,7 @@ Albert Einstein was born in 1879. As a child, few people guessed that he  ______
 英文释义
 ---
 1. 
+
 - #### 构成进行时态：
 
 > They are reading.  
@@ -1635,6 +1773,7 @@ Albert Einstein was born in 1879. As a child, few people guessed that he  ______
 ---
 1. *高义频：* **[C] 海滨；海滩；沙滩：**  
 
+
 > on a beautiful sandy beach   
 > 在美丽的海边沙滩上
 
@@ -1651,6 +1790,7 @@ Albert Einstein was born in 1879. As a child, few people guessed that he  ______
 1. *高义频：* **小珠子；滴**  
 
 
+
 # ***bean*** n
 英音 biːn     美音 biːn  
 
@@ -1659,6 +1799,7 @@ Albert Einstein was born in 1879. As a child, few people guessed that he  ______
 英文释义
 ---
 1. *高义频：* **[C] 豆；豆科植物：**  
+
 
 > green / red beans   
 > 四季豆/红豆
@@ -1677,6 +1818,7 @@ Albert Einstein was born in 1879. As a child, few people guessed that he  ______
 1. *高义频：* **[C] 熊**  
 
 
+
 # ***bear*** vt
 英音 beə(r)     美音 ber  
 
@@ -1688,11 +1830,13 @@ Albert Einstein was born in 1879. As a child, few people guessed that he  ______
 ---
 1. *低义频：* **携带：**  
 
+
 > He turned up at the hospital bearing gifts for the new mother and her baby boy.  
 > 他带着给新妈妈和男婴的礼物，来到了医院。
 
 2. *高义频：* **忍受；容忍**  
 to be able to accept and deal with sth unpleasant (stand)：
+
 
 - #### bear doing / to do sth:
 
@@ -1714,6 +1858,7 @@ to be able to accept and deal with sth unpleasant (stand)：
 3. *高义频：* **[正式用语] 承担；负担**  
 to be responsible for or accept sth：
 
+
 > **bear,burden**  
 > bear a heavy burden   
 > 承担重任
@@ -1728,10 +1873,12 @@ to be responsible for or accept sth：
 4. *高义频：* **支撑；承受 (重量)**  
 to be under sth and support it(hold)：
 
+
 > The ice is too thin to bear your weight.   
 > 冰太薄，承受不了你的重量。
 
 5. *低义频：* **带有 (某种标记或外观特征) (have)：**  
+
 
 > The letter bore no signature.   
 > 这封信上没有署名。
@@ -1741,6 +1888,7 @@ to be under sth and support it(hold)：
 
 6. *低义频：* **生育**  
 to give birth to：
+
 
 > **borne him 3 children**  
 > She has borne him 3 children.   
@@ -1752,6 +1900,7 @@ to give birth to：
 - #### bear … in mind / bear in mind that ...
 1. **把…记在心里；记住…：**  
 
+
 > He’ll bear the beautiful girl in mind forever.   
 > 他将永远记住那位美丽的姑娘。
 
@@ -1761,11 +1910,13 @@ to give birth to：
 - #### bear with
 1. **忍耐；容忍：**  
 
+
 > We learn to bear with the things we can't change.  
 > 我们学会容忍自己无法改变的事情。
 
 - #### bear with me
 1. **等我一会儿；请你稍等：**  
+
 
 > Could you bear with me a moment, please?   
 > 请你稍等片刻，行吗？
@@ -1781,6 +1932,7 @@ to give birth to：
 1. *高义频：* **[C] & [U] (下巴上的) 胡须；络腮胡子**  
 
 
+
 # ***beast*** n
 英音 biːst     美音 biːst  
 
@@ -1789,6 +1941,7 @@ to give birth to：
 英文释义
 ---
 1. *高义频：* **n [C] 兽；牲畜**  
+
 
 
 # ***beat*** v
@@ -1801,6 +1954,7 @@ to give birth to：
 英文释义
 ---
 1. *高义频：* **(连续地) 打；敲打；殴打：**  
+
 
 > beat a drum   
 > 敲鼓
@@ -1818,10 +1972,12 @@ to give birth to：
 
 2. *高义频：* **(心脏等) 跳动：**  
 
+
 > My panic was rising and I could feel my heart beating wildly.  
 > 我越来越恐慌，能感觉到心在狂跳。
 
 3. *高义频：* **打败；战胜(defeat)：**  
+
 
 > **beat the record**  
 > Will anyone beat the record this year?  
@@ -1836,14 +1992,18 @@ to give birth to：
 - #### beat about / around the bush
 1. **说话拐弯抹角**  
 
+
 - #### beat sb down
 1. **使某人沮丧**  
+
 
 - #### beat out
 1. **打败**  
 
+
 - #### beat up 
 1. **毒打：**  
+
 
 > He was badly beaten up by a gang of youths.   
 > 他被一伙年轻人狠狠打了一顿。
@@ -1860,6 +2020,7 @@ to give birth to：
 ---
 1. *高义频：* **[C] 敲打；敲击声； (音乐) 节拍； (心脏等) 跳动 (声)：**  
 
+
 > The beat of a song makes you want to dance!   
 > 歌曲的节拍让人想跳舞！
 
@@ -1875,6 +2036,7 @@ to give birth to：
 英文释义
 ---
 1. *高义频：* **美丽的；漂亮的【反：ugly】；极好的：**  
+
 
 > a beautiful voice   
 > 美妙的嗓音
@@ -1905,6 +2067,7 @@ beautifully /'bju:tɪfli/ adv
 ---
 1. *高义频：* **[U] 美；美丽：**  
 
+
 > **beauty of**  
 > the beauty of the sunset  
 > 夕阳之美
@@ -1916,6 +2079,7 @@ beautifully /'bju:tɪfli/ adv
 > 美容产品
 
 2. *低义频：* **[C] 美人；美好的事物：**  
+
 
 > He regarded his wife as a beauty.  
 > 他觉得自己的妻子是个美人。
@@ -1936,6 +2100,7 @@ beautifully /'bju:tɪfli/ adv
 1. *高义频：* **海狸**  
 
 
+
 # ***because*** conj
 英音 bɪ'kɒz; bɪ'kəz     美音 bɪ'kɔːz  
 
@@ -1946,6 +2111,7 @@ beautifully /'bju:tɪfli/ adv
 英文释义
 ---
 1. *高义频：* **因为：**  
+
 
 > **simply because**  
 > Many exam candidates lose marks simply because they do not read the questions properly.  
@@ -1959,6 +2125,7 @@ beautifully /'bju:tɪfli/ adv
 ---
 - #### because of 
 1. **因为；由于 (on account of)：**  
+
 
 > There are many homeless people because of the earthquake.  
 > 因为地震，很多人无家可归。
@@ -1988,6 +2155,7 @@ The open-air celebration has been put off because ________ the bad weather.
 ---
 1. *高义频：* **变得；成为：**  
 
+
 > At his words she became angrier.   
 > 听了他的话，她更生气了。
 
@@ -2005,6 +2173,7 @@ The open-air celebration has been put off because ________ the bad weather.
 ---
 - #### what became / has become of …? / what will become of …?
 1. **…怎么样了？/ …会怎么样？**  
+
 
 > What has become of him?   
 > 他后来情况怎样？
@@ -2035,6 +2204,7 @@ Silk  _______ (become) one of the primary goods traded along the Silk Road by ab
 ---
 1. *高义频：* **床：**  
 
+
 > go to bed   
 > 上床睡觉
 
@@ -2053,6 +2223,7 @@ Silk  _______ (become) one of the primary goods traded along the Silk Road by ab
 ---
 1. *高义频：* **寝具；铺盖：**  
 
+
 > The bedding was a pillow, a sheet, and a thin quilt.   
 > 寝具包括一个枕头、一张床单和一床薄被。
 
@@ -2069,6 +2240,7 @@ Silk  _______ (become) one of the primary goods traded along the Silk Road by ab
 1. *高义频：* **卧室**  
 
 
+
 # ***bee*** n
 英音 biː     美音 biː  
 
@@ -2079,6 +2251,7 @@ Silk  _______ (become) one of the primary goods traded along the Silk Road by ab
 英文释义
 ---
 1. *高义频：* **蜜蜂**  
+
 
 
 # ***beef*** n
@@ -2093,6 +2266,7 @@ Silk  _______ (become) one of the primary goods traded along the Silk Road by ab
 1. *高义频：* **牛肉**  
 
 
+
 # ***beer*** n
 英音 bɪə(r)     美音 bɪr  
 
@@ -2105,6 +2279,7 @@ Silk  _______ (become) one of the primary goods traded along the Silk Road by ab
 1. *高义频：* **啤酒；一杯/瓶/灌啤酒**  
 
 
+
 # ***before*** prep
 英音 bɪ'fɔː(r)     美音 bɪ'fɔːr  
 
@@ -2114,6 +2289,7 @@ Silk  _______ (become) one of the primary goods traded along the Silk Road by ab
 ---
 1. *高义频：* **[表示时间] 在...以前：**  
 反义词 after 
+
 > before 11 / dark / supper   
 > 11点以前/天黑前/晚饭前
 
@@ -2123,6 +2299,7 @@ Silk  _______ (become) one of the primary goods traded along the Silk Road by ab
 
 2. *低义频：* **[表示位置] 在...前面；在...面前：**  
 
+
 > She is afraid to speak before a large audience.   
 > 她不敢在大庭广众面前讲话。
 
@@ -2130,6 +2307,7 @@ Silk  _______ (become) one of the primary goods traded along the Silk Road by ab
 > 决不要向困难低头。
 
 3. *高义频：* **[表示顺序、重要性等] 先于：**  
+
 
 > She got into the bus before others.   
 > 她比别人先上了汽车。
@@ -2150,6 +2328,7 @@ Silk  _______ (become) one of the primary goods traded along the Silk Road by ab
 ---
 1. *高义频：* **[表示时间] 以前：**  
 
+
 > the night / day / week before   
 > 前一晚/一天/一个星期
 
@@ -2169,6 +2348,7 @@ Silk  _______ (become) one of the primary goods traded along the Silk Road by ab
 
 2. *高义频：* **[表示位置、方向等] 在前面；向前：**  
 
+
 > You walk before and I will walk after.   
 > 你在前面走，我在后面跟着。
 
@@ -2185,6 +2365,7 @@ Silk  _______ (become) one of the primary goods traded along the Silk Road by ab
 英文释义
 ---
 1. *高义频：* **在…以前：**  
+
 
 > Think twice before you decide.   
 > 作决定前要再三考虑。
@@ -2228,6 +2409,7 @@ The meaning of the word “nice” changed a few times ________ it finally came 
 ---
 1. *高义频：* **成为某人的朋友；对...以朋友相待：**  
 
+
 > Nigel decided to befriend Alicia.   
 > 尼格尔决定把艾丽西亚当朋友看待。
 
@@ -2242,6 +2424,7 @@ The meaning of the word “nice” changed a few times ________ it finally came 
 英文释义
 ---
 1. *低义频：* **乞求；恳求：**  
+
 
 - #### beg (sb) for sth:
 
@@ -2266,6 +2449,7 @@ The meaning of the word “nice” changed a few times ________ it finally came 
 
 2. *低义频：* **乞讨：**  
 
+
 > **beg ( for ) food**  
 > He was so poor that he had to beg ( for ) food from passers-by.  
 > 他穷得要向过路人乞讨食物。
@@ -2275,6 +2459,7 @@ The meaning of the word “nice” changed a few times ________ it finally came 
 ---
 - #### I beg your pardon
 1. **[口语] 对不起，请再说一遍**  
+
 
 
 # ***beggar*** n
@@ -2289,6 +2474,7 @@ The meaning of the word “nice” changed a few times ________ it finally came 
 1. *高义频：* **乞丐；叫花子**  
 
 
+
 # ***begin*** v
 英音 bɪ'ɡɪn     美音 bɪ'ɡɪn  
 
@@ -2299,6 +2485,7 @@ The meaning of the word “nice” changed a few times ________ it finally came 
 英文释义
 ---
 1. *高义频：* **vt & vi 开始 (start)；着手做；开始进行；开始出现：**  
+
 
 - #### begin doing / to do sth:
 
@@ -2325,6 +2512,7 @@ The meaning of the word “nice” changed a few times ________ it finally came 
 - #### to begin with 
 1. **[插入语] 首先；第一：**  
 
+
 > To begin with, it is important to create a positive attitude.  
 > 首先，要有积极的态度，这点很重要
 
@@ -2348,6 +2536,7 @@ It was Monday morning, and the writing class had just begin. (改错)
 1. *高义频：* **初学者；生手**  
 
 
+
 # ***beginning*** n
 英音 bɪ'ɡɪnɪŋ     美音 bɪ'ɡɪnɪŋ  
 
@@ -2358,6 +2547,7 @@ It was Monday morning, and the writing class had just begin. (改错)
 英文释义
 ---
 1. *高义频：* **[常用单数] 开始：**  
+
 
 > **at,in,from the beginning**  
 > at / in / from the beginning  
@@ -2384,10 +2574,12 @@ It was Monday morning, and the writing class had just begin. (改错)
 ---
 1. 
 
+
 固定搭配
 ---
 - #### in behalf of sb / in sb’s behalf
 1. **为了某人；为了某人的利益：**  
+
 
 > We collect money in behalf of the homeless.   
 > 我们为无家可归的人筹钱。
@@ -2395,10 +2587,12 @@ It was Monday morning, and the writing class had just begin. (改错)
 - #### on behalf of sb / on sb’s behalf
 1. *高义频：* **代表：**  
 
+
 > I, on behalf of our class, welcome you warmly and sincerely.  
 > 我代表我们班级，真诚、热情地欢迎你。
 
 2. *高义频：* **为了某人；因为某人：**  
+
 
 > They write letters of recommendation on behalf of students.  
 > 他们为学生写推荐信。
@@ -2424,12 +2618,14 @@ ________ (代表) everyone here, I wish you a pleasant journey back to your coun
 1. *高义频：* **表现**  
 to act in a particular way(act)：
 
+
 > **behaved as if / though**  
 > He was a little boy, but he behaved as if / though he was an adult.  
 > 他是一个小男孩，但却表现得像个大人。
 
 2. *高义频：* **(使) 举止规矩；(使) 表现得体**  
 to act in a correct or appropriate way：
+
 
 - #### behave oneself:
 
@@ -2457,6 +2653,7 @@ Tom, ________ (规矩点). Did you forget the school rules?
 ---
 1. *高义频：* **[U] 行为；举止：**  
 
+
 > **bad behavior**  
 > This is not a family where bad behavior goes unpunished.   
 > 在这个家庭，举止不良逃不过惩罚。
@@ -2465,6 +2662,7 @@ Tom, ________ (规矩点). Did you forget the school rules?
 > 我认为我们大家都应该注意在公共场所的行为举止。
 
 2. *高义频：* **(物体等) 反应；性能；行为方式；习性：**  
+
 
 > the behavior of tin under heat   
 > 锡在受热情况下发生的变化
@@ -2482,6 +2680,7 @@ Tom, ________ (规矩点). Did you forget the school rules?
 ---
 1. *高义频：* **[U] 行为；举止：**  
 
+
 > **bad behavior**  
 > This is not a family where bad behavior goes unpunished.   
 > 在这个家庭，举止不良逃不过惩罚。
@@ -2490,6 +2689,7 @@ Tom, ________ (规矩点). Did you forget the school rules?
 > 我认为我们大家都应该注意在公共场所的行为举止。
 
 2. *高义频：* **(物体等) 反应；性能；行为方式；习性：**  
+
 
 > the behavior of tin under heat   
 > 锡在受热情况下发生的变化
@@ -2507,10 +2707,12 @@ Tom, ________ (规矩点). Did you forget the school rules?
 ---
 1. *高义频：* **在后；向后：**  
 
+
 > My brother went in front and I walked behind.   
 > 弟弟在前面走，我在他后面跟着。
 
 2. *高义频：* **落后；慢；迟：**  
+
 
 > I’ve got behind with my homework.   
 > 我的家庭作业落下了。
@@ -2528,6 +2730,7 @@ Tom, ________ (规矩点). Did you forget the school rules?
 ---
 1. *高义频：* **在…后面；支持：**  
 
+
 > Close the door of fear behind you, and you will see the door of faith open before you.   
 > 把恐惧之门关在你的身后，你将会看见信念之门在你面前打开。
 
@@ -2536,6 +2739,7 @@ Tom, ________ (规矩点). Did you forget the school rules?
 
 2. *高义频：* **落后于；不如：**  
 
+
 > behind the times   
 > 落后于时代
 
@@ -2543,6 +2747,7 @@ Tom, ________ (规矩点). Did you forget the school rules?
 > 在电子商务方面日本不如美国。
 
 3. *高义频：* **(时间、进度等) 迟于：**  
+
 
 > New York is 12 hours behind Beijing.   
 > 纽约时间比北京晚12个小时。
@@ -2558,6 +2763,7 @@ Tom, ________ (规矩点). Did you forget the school rules?
 1. **观看者**  
 
 
+
 # ***being*** n
 英音 'biːɪŋ     美音 'biːɪŋ  
 
@@ -2567,6 +2773,7 @@ Tom, ________ (规矩点). Did you forget the school rules?
 ---
 1. *低义频：* **[C] 生物；人：**  
 
+
 > intelligent beings   
 > 有智慧的生物
 
@@ -2574,6 +2781,7 @@ Tom, ________ (规矩点). Did you forget the school rules?
 > 人
 
 2. *低义频：* **[U] 存在；生存：**  
+
 
 > **brought into being**  
 > A new era was brought into being by the Internet.   
@@ -2596,6 +2804,7 @@ Tom, ________ (规矩点). Did you forget the school rules?
 英文释义
 ---
 1. *高义频：* **[be的-ing形式]：**  
+
 
 - #### 用于分词短语或独立结构：
 
@@ -2628,11 +2837,13 @@ Tom, ________ (规矩点). Did you forget the school rules?
 ---
 1. *高义频：* **[U] 相信；信任：**  
 
+
 > **belief in**  
 > I haven’t much belief in his honesty.   
 > 我不大相信他是诚实的。
 
 2. *高义频：* **[U] [可用单数] 信念；看法：**  
+
 
 > One traditional belief about television is that it reduces a child’s ability to think.   
 > 关于电视的一个传统看法是它降低了儿童的思维能力。
@@ -2642,6 +2853,7 @@ Tom, ________ (规矩点). Did you forget the school rules?
 > 很多人坚信总有一天能找到治愈癌症的方法。
 
 3. *高义频：* **[C] [常用复数] 信仰；信条：**  
+
 
 > religious beliefs   
 > 宗教信仰
@@ -2665,6 +2877,7 @@ Increases in bear sightings around human settlements have led to a ______(believ
 ---
 1. *高义频：* **相信：**  
 
+
 - #### believe + (that)从句：
 
 > I firmly believe that our future is in our own hands.  
@@ -2682,6 +2895,7 @@ Increases in bear sightings around human settlements have led to a ______(believ
 > 当她走进来的时候，我简直不敢相信自己的眼睛。
 
 2. *高义频：* **认为；猜想：**  
+
 
 - #### believe + (that) 从句：
 
@@ -2719,6 +2933,7 @@ Increases in bear sightings around human settlements have led to a ______(believ
 - #### believe in
 1. *高义频：* **信任；信赖；相信…可行：**  
 
+
 > They need a leader they can believe in.   
 > 他们需要一个能够信任的领导者。
 
@@ -2727,12 +2942,14 @@ Increases in bear sightings around human settlements have led to a ______(believ
 
 2. *高义频：* **相信…的存在：**  
 
+
 > Do you believe in God?   
 > 你相信有上帝吗？
 
 believe sb表示相信某人所说的话，believe in sb表示相信某人是好人，信任某人。
 - #### believe it or not
 1. **信不信由你：**  
+
 
 > Believe it or not, there is no such thing as standard English.  
 > 信不信由你，并没有标准英语这回事。
@@ -2758,6 +2975,7 @@ believe sb表示相信某人所说的话，believe in sb表示相信某人是好
 1. *高义频：* **信徒；教徒**  
 
 
+
 # ***bell*** n
 英音 bel     美音 bel  
 
@@ -2768,6 +2986,7 @@ believe sb表示相信某人所说的话，believe in sb表示相信某人是好
 英文释义
 ---
 1. *高义频：* **铃；钟：**  
+
 
 > ring the bell   
 > 摇铃
@@ -2783,6 +3002,7 @@ believe sb表示相信某人所说的话，believe in sb表示相信某人是好
 英文释义
 ---
 1. *高义频：* **腹部；胃：**  
+
 
 > a beer belly  
 > 啤酒肚
@@ -2800,6 +3020,7 @@ believe sb表示相信某人所说的话，believe in sb表示相信某人是好
 ---
 1. *高义频：* **属 (于)；应在 (某处)：**  
 
+
 > Put the chair back where it belongs.  
 > 把椅子放回原处。
 
@@ -2808,6 +3029,7 @@ believe sb表示相信某人所说的话，believe in sb表示相信某人是好
 ---
 - #### belong to 
 1. **属于；是…的成员；应归入：**  
+
 
 > Some of the stamps belong to me, while the rest are his and hers.  
 > 这些邮票中有些是我的，其余的是他和她的。
@@ -2848,6 +3070,7 @@ Professor Williams keeps telling his students that the future ________ (belong) 
 ---
 1. *高义频：* **[复数] 所有物；财产；财物 (possessions)：**  
 
+
 > **personal belongings**  
 > Look after your personal belongings.   
 > 照看好你的个人财物。
@@ -2861,6 +3084,7 @@ Professor Williams keeps telling his students that the future ________ (belong) 
 英文释义
 ---
 1. *高义频：* **在下面；到下面：**  
+
 
 > From the hill top we saw the blue ocean below.   
 > 从山顶上我们看见了下面蔚蓝的大海。
@@ -2877,6 +3101,7 @@ Professor Williams keeps telling his students that the future ________ (belong) 
 英文释义
 ---
 1. *高义频：* **在…下面；在…以下：**  
+
 
 - #### 表示位置：
 
@@ -2903,6 +3128,7 @@ Professor Williams keeps telling his students that the future ________ (belong) 
 ---
 1. *高义频：* **腰带；皮带；地带：**  
 
+
 > **green belt**  
 > the green belt  
 > 绿化带
@@ -2921,6 +3147,7 @@ Professor Williams keeps telling his students that the future ________ (belong) 
 1. **[非正式用语] 勒紧裤腰带过日子**  
 
 
+
 派生词汇
 ---
 belted /'beltɪd/ adj 
@@ -2935,6 +3162,7 @@ belted /'beltɪd/ adj
 英文释义
 ---
 1. *高义频：* **长椅；长凳**  
+
 
 > **the bench**  
 > the bench  
@@ -2952,16 +3180,19 @@ belted /'beltɪd/ adj
 ---
 1. *高义频：* **vt & vi (使) 弯曲：**  
 
+
 > You have to bend your knees to sit down.   
 > 你得屈膝才能坐下。
 
 2. *高义频：* **(使) 弯腰：**  
+
 
 > **bent down / over**  
 > He bent down / over and picked up a book from the floor.   
 > 他俯身从地上捡起一本书。
 
 3. *高义频：* **(路) 转弯：**  
+
 
 > The road bends to the right after a few yards.   
 > 这条路在几码远的地方转向右方。
@@ -2971,6 +3202,7 @@ belted /'beltɪd/ adj
 ---
 - #### bend to sb’s will 
 1. **[正式用语] 屈服于某人的意愿**  
+
 
 
 # ***bend*** n
@@ -2983,6 +3215,7 @@ belted /'beltɪd/ adj
 英文释义
 ---
 1. *高义频：* **(尤指道路或河流的) 拐弯；弯道：**  
+
 
 > a sharp bend in the road   
 > 路上的一个急拐弯
@@ -2999,6 +3232,7 @@ belted /'beltɪd/ adj
 ---
 1. *高义频：* **在下面；在底下：**  
 
+
 > He was standing on the bridge looking at the river beneath.  
 > 他站在桥上，看着下面的河水。
 
@@ -3013,6 +3247,7 @@ belted /'beltɪd/ adj
 英文释义
 ---
 1. *高义频：* **在…的下方：**  
+
 
 > beneath the silvery moon  
 > 在银色的月光下
@@ -3033,6 +3268,7 @@ belted /'beltɪd/ adj
 1. *高义频：* **[正式用语] 有益的；有利的**  
 having a helpful or useful effect：
 
+
 > **highly beneficial to**  
 > Exercise is highly beneficial to health.  
 > 锻炼对健康极为有益。
@@ -3050,6 +3286,7 @@ having a helpful or useful effect：
 英文释义
 ---
 1. *高义频：* **有益于；受益：**  
+
 
 > **benefit,greatly**  
 > The rain will benefit the crops greatly.  
@@ -3076,6 +3313,7 @@ having a helpful or useful effect：
 1. *高义频：* **利益；益处**  
 an advantage, improvement, or help that you get from sth：
 
+
 > side benefit  
 > 附带利益；间接好处
 
@@ -3090,16 +3328,19 @@ an advantage, improvement, or help that you get from sth：
 2. *低义频：* **津贴；救济金(welfare)**  
 
 
+
 固定搭配
 ---
 - #### be of benefit to
 1. **对…有益 (be beneficial to):**  
+
 
 > Scientific research is of great benefit to mankind.  
 > 科学研究对人类非常有益。
 
 - #### for sb’s benefit / for the benefit of sb
 1. **为了某人 (的利益)：**  
+
 
 > The money is to be used for the benefit of the poor.  
 > 该款项将用于救助穷人。
@@ -3121,6 +3362,7 @@ China has been pushing the reform of public hospitals ________ (为了…的利�
 ---
 1. *高义频：* **爱好；天分：**  
 
+
 > **a,bent for**  
 > She has a natural bent for music.   
 > 她有音乐天赋。
@@ -3135,6 +3377,7 @@ China has been pushing the reform of public hospitals ________ (为了…的利�
 ---
 1. *高义频：* **弯曲的；驼背的；弯腰的：**  
 
+
 > a bent nail  
 > 弯曲的指甲
 
@@ -3148,6 +3391,7 @@ China has been pushing the reform of public hospitals ________ (为了…的利�
 1. **下决心做某事**  
 
 
+
 # ***beside*** prep
 英音 bɪ'saɪd     美音 bɪ'saɪd  
 
@@ -3156,6 +3400,7 @@ China has been pushing the reform of public hospitals ________ (为了…的利�
 英文释义
 ---
 1. *高义频：* **在…旁边：**  
+
 
 > She sat beside me.   
 > 她坐在我旁边。
@@ -3167,6 +3412,7 @@ China has been pushing the reform of public hospitals ________ (为了…的利�
 1. **离题；与主题无关**  
 
 
+
 # ***besides*** adv
 英音 bɪ'saɪdz     美音 bɪ'saɪdz  
 
@@ -3175,6 +3421,7 @@ China has been pushing the reform of public hospitals ________ (为了…的利�
 英文释义
 ---
 1. **况且；此外：**  
+
 
 > I’m too busy to go for a walk; besides, it is too late.  
 > 我太忙了，没时间散步，况且天也太晚了。
@@ -3195,6 +3442,7 @@ Bicycling is good exercise; except, it does not pollute the air.
 英文释义
 ---
 1. *高义频：* **除…之外 (还有)：**  
+
 
 > Besides the works of da Vinci, the Louvre Museum has more than 6,000 other European paintings.   
 > 除了达·芬奇的作品，卢浮宫还拥有6000多幅其他欧洲绘画作品。
@@ -3220,6 +3468,7 @@ Some people choose jobs for other reasons ________(除…之外) money these day
 ---
 1. *高义频：* **[常用the best] 最佳的人；最好的事物；最佳状态：**  
 
+
 > **the very best**  
 > One day, you will do something great that will set you among the very best.   
 > 有一天，你会大有作为，令你跻身于最优秀者的行列。
@@ -3230,8 +3479,10 @@ Some people choose jobs for other reasons ________(除…之外) money these day
 - #### All the best！
 1. **[告别时用语；信函最后的问候语]祝一切顺利！**  
 
+
 - #### at best
 1. **(关于不好的事情) 顶多；充其量：**  
+
 
 > The movie was at best ordinary, and at worst boring.  
 > 这部电影顶多算是一般，说不中听点，很无聊。
@@ -3239,14 +3490,17 @@ Some people choose jobs for other reasons ________(除…之外) money these day
 - #### best of all
 1. **最好的是**  
 
+
 - #### do / try one’s best 
 1. **尽力：**  
+
 
 > I don’t think I can finish it within this week, but I’ll try my best.   
 > 我看这星期之内完不成，但我会尽最大的努力。
 
 - #### make the best of
 1. **充分利用；尽情享用**  
+
 
 > If you cannot have the best, make the best of what you have.  
 > 如果没有最好的，就充分利用现有的。
@@ -3272,6 +3526,7 @@ The school isn’t the one I really wanted to go to, but I suppose I’ll just h
 ---
 1. *高义频：* **[well的最高级] 最好地；最适当地：**  
 
+
 > Which do you like best?   
 > 你最喜欢哪一个？
 
@@ -3294,6 +3549,7 @@ Next to biology, I ________(最喜欢物理).
 英文释义
 ---
 1. *高义频：* **[good的最高级] 最好的；最优秀的；最适当的：**  
+
 
 > **the best way**  
 > Reading is the best way to pass time on the train.  
@@ -3318,6 +3574,7 @@ Next to biology, I ________(最喜欢物理).
 1. *高义频：* **畅销书**  
 
 
+
 派生词汇
 ---
 best-selling /best 'selɪŋ/ adj [只用于名词前]
@@ -3332,6 +3589,7 @@ best-selling /best 'selɪŋ/ adj [只用于名词前]
 1. **畅销的**  
 
 
+
 # ***bet*** v
 英音 bet     美音 bet  
 
@@ -3343,6 +3601,7 @@ best-selling /best 'selɪŋ/ adj [只用于名词前]
 ---
 1. *高义频：* **(用…) 打赌；(与…) 打赌：**  
 
+
 > **bet on sth**  
 > bet on sth   
 > 对某事打赌；在某事上下赌注
@@ -3353,6 +3612,7 @@ best-selling /best 'selɪŋ/ adj [只用于名词前]
 
 2. *高义频：* **敢说；确信：**  
 
+
 > **I bet**  
 > I bet it will rain tomorrow.   
 > 我相信明天一定会下雨。
@@ -3362,6 +3622,7 @@ best-selling /best 'selɪŋ/ adj [只用于名词前]
 ---
 - #### You bet! 
 1. **当然！一定！**  
+
 
 > — Going to watch the Women's Volleyball Match on Wednesday?  
 > 去看周三的女排比赛吗？
@@ -3394,6 +3655,7 @@ D.No kidding
 ---
 1. *高义频：* **打赌；赌金：**  
 
+
 > **made a bet**  
 > Have you ever made a bet with a friend?   
 > 你曾经和朋友打过赌吗？
@@ -3411,6 +3673,7 @@ betting /'betɪŋ/ n [U]
 英文释义
 ---
 1. *高义频：* **出卖；背叛；泄漏；暴露：**  
+
 
 > I feel betrayed by my friend, Hannah.  
 > 我感觉自己被朋友汉纳出卖了。
@@ -3432,16 +3695,20 @@ betting /'betɪŋ/ n [U]
 1. *高义频：* **[可用单数] 较好的事物：**  
 
 
+
 固定搭配
 ---
 - #### for better or (for) worse 
 1. **不论好坏；不管是福是祸**  
 
+
 - #### for the better
 1. **有所好转**  
 
+
 - #### so much the better / worse 
 1. **这样更好 / 差：**  
+
 
 > If they can do them both at the same time, then so much the better.   
 > 如果他们可以同时做这两件事，那当然更好。
@@ -3463,6 +3730,7 @@ The result is not very important to us, but if we do win, then so much ________b
 ---
 1. *高义频：* **vt & vi 胜过；超过；改善：**  
 
+
 > This achievement cannot be bettered.   
 > 这一成就好得不能再好了。
 
@@ -3479,6 +3747,7 @@ The result is not very important to us, but if we do win, then so much ________b
 ---
 1. *高义频：* **[well的比较级] 更好地；更适当地；更：**  
 
+
 > This cap fits you better.   
 > 这顶帽子更适合你。
 
@@ -3491,11 +3760,13 @@ The result is not very important to us, but if we do win, then so much ________b
 - #### (be) better off 
 1. **更富裕；更好的：**  
 反义词 (be) worse off  
+
 > The president hopes that the people will be better off when he quits than when he started.   
 > 总统希望他离任的时候人民会比他就职时更富裕。
 
 - #### (be) better off doing sth 
 1. **最好做某事：**  
+
 
 > — We are planning to go to London by train.   
 > 我们计划乘火车去伦敦。
@@ -3505,6 +3776,7 @@ The result is not very important to us, but if we do win, then so much ________b
 
 - #### had better 
 1. **最好：**  
+
 
 > You’d better store the fish in the refrigerator if you don’t cook it immediately.  
 > 如果你不立刻烹饪的话，最好把鱼储藏在冰箱里。
@@ -3519,6 +3791,7 @@ had better常缩写成’d better，后接动词原形。
 英文释义
 ---
 1. *高义频：* **[good的比较级] 更好的；较好的；[well的比较级] (健康状况) 有所好转的：**  
+
 
 - #### it is / would be better:
 
@@ -3542,6 +3815,7 @@ had better常缩写成’d better，后接动词原形。
 - #### nothing better 
 1. **没有更好的；莫过于：**  
 
+
 > I stood by my window overlooking the parking lot, having nothing better to do.  
 > 没有更好的事可做，我就站在窗边俯视着停车场。
 
@@ -3551,8 +3825,10 @@ had better常缩写成’d better，后接动词原形。
 - #### the sooner / bigger / smaller, the better 
 1. **越 (快 / 大 / 小) 越好**  
 
+
 - #### Two heads are better than one. 
 1. **三个臭皮匠，顶个诸葛亮。**  
+
 
 
 真题解析
@@ -3579,6 +3855,7 @@ It is ________ (good) to spend money on preventing illnesses by promoting health
 ---
 1. *高义频：* **(空间、时间、数量、关系上) 在…中间：**  
 
+
 > Laos lies between China, Burma, Thailand, Cambodia and Vietnam.   
 > 老挝位于中国、缅甸、泰国、柬埔寨和越南中间。
 
@@ -3589,6 +3866,7 @@ It is ________ (good) to spend money on preventing illnesses by promoting health
 > 保持亲密的师生关系。
 
 2. *高义频：* **由…合力；在…之间共同：**  
+
 
 > co-operation between the two countries   
 > 两国之间的合作
@@ -3602,6 +3880,7 @@ It is ________ (good) to spend money on preventing illnesses by promoting health
 ---
 - #### in between 
 1. **在中间：**  
+
 
 > We have two lessons this morning, and there’s some free time in between.   
 > 今天上午我们有两节课，课间有休息时间。
@@ -3632,15 +3911,18 @@ D.during
 ---
 1. *高义频：* **[表示位置] 在…的那边；远于：**  
 
+
 > It is the only place beyond the Earth to have been visited by humans.    
 > 这是人类到过的地球以外的唯一地方。
 
 2. *高义频：* **[表示时间] 在…以后；迟于：**  
 
+
 > The party went on until beyond midnight.  
 > 这次聚会一直持续到午夜以后。
 
 3. *高义频：* **[表示数量、水平、限度] 超出：**  
+
 
 > I spent my childhood working, with responsibilities beyond my age.   
 > 我的童年是在工作中度过的，承担着与年龄不相符的责任。
@@ -3649,6 +3931,7 @@ D.during
 > 任何司机如被发现饮酒超限都会被指控。
 
 4. *高义频：* **[表示范围] 超出…的范围；非…所及：**  
+
 
 > **beyond repair / control / belief**  
 > beyond repair / control / belief  
@@ -3664,6 +3947,7 @@ D.during
 
 5. *高义频：* **[常用于否定句和疑问句] 除…以外：**  
 
+
 > I know nothing of it beyond what he told me.   
 > 除了他告诉我的以外，别的我什么都不知道。
 
@@ -3672,6 +3956,7 @@ D.during
 ---
 - #### be beyond sb 
 1. **超出某人的理解能力：**  
+
 
 > The whole problem was quite beyond him.   
 > 他根本无法理解这个问题。
@@ -3709,6 +3994,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 ---
 1. *高义频：* **在更远处；更往后：**  
 
+
 > look beyond  
 > 往更远处看
 
@@ -3725,6 +4011,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. *高义频：* **自行车 (bike)**  
 
 
+
 # ***bicycle*** vi
 英音 'baɪsɪkl     美音 'baɪsɪkl  
 
@@ -3733,6 +4020,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 英文释义
 ---
 1. *高义频：* **[正式用语] 骑自行车**  
+
 
 > In the morning, we bicycled to the suburbs to plant trees.  
 > 早上我们骑自行车去郊区种树。
@@ -3748,6 +4036,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 英文释义
 ---
 1. *高义频：* **(尤指拍卖时的) 出价；投标：**  
+
 
 > **made a bid,for**  
 > We’ve made a bid of nearly £400,000,000 for the company.  
@@ -3765,6 +4054,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 英文释义
 ---
 1. *高义频：* **(bid, bid) vi & vt (拍卖时) 出 (价)；投标：**  
+
 
 > **bid,for**  
 > He bid $100,000 for an old painting.   
@@ -3784,6 +4074,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 ---
 1. *高义频：* **大的【反：small 】；巨大的；年龄较大的：**  
 
+
 > The shirt is too big for me.   
 > 这衬衣我穿太大了。
 
@@ -3791,6 +4082,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 > 我哥哥
 
 2. *高义频：* **重要的；重大的：**  
+
 
 > He is a big man.   
 > 他是个大人物。
@@ -3808,6 +4100,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. *高义频：* **自行车 (bicycle)**  
 
 
+
 # ***bilingual*** adj
 英音 ˌbaɪ'lɪŋɡwəl     美音 ˌbaɪ'lɪŋɡwəl  
 
@@ -3816,6 +4109,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 英文释义
 ---
 1. **双语的；会讲两种语言的**  
+
 
 
 # ***bill*** n
@@ -3829,16 +4123,19 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 ---
 1. *高义频：* **账单：**  
 
+
 > **phone / credit card bill**  
 > Have you paid your phone / credit card bill?  
 > 你付电话费/信用卡账单了吗？
 
 2. *高义频：* **钞票；纸币 (BrE note)：**  
 
+
 > I have several ten dollar bills.   
 > 我有几张10美元的钞票。
 
 3. *高义频：* **法案；议案：**  
+
 
 > **pass a bill**  
 > pass a bill   
@@ -3848,6 +4145,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 > 《选举权法案》
 
 4. *低义频：* **节目单：**  
+
 
 > a concert bill   
 > 音乐会节目单
@@ -3865,6 +4163,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. *高义频：* **广告牌**  
 
 
+
 # ***billion*** num
 英音 'bɪljən     美音 'bɪljən  
 
@@ -3875,10 +4174,12 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. *高义频：* **十亿**  
 
 
+
 固定搭配
 ---
 - #### billions of 
 1. **数以十亿计；大量：**  
+
 
 > The government is spending billions of dollars on new urban rail projects.  
 > 政府正把数十亿美元花在新城市轨道交通项目上。
@@ -3894,6 +4195,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. **亿万富翁，巨富**  
 
 
+
 # ***billy-goat*** n
 英音 'bɪli ɡəʊt     美音 'bɪli ɡəʊt  
 
@@ -3904,6 +4206,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 英文释义
 ---
 1. *高义频：* **公山羊**  
+
 
 
 # ***bin*** n
@@ -3918,6 +4221,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. *高义频：* **垃圾箱；(有盖的) 大容器；箱**  
 
 
+
 # ***bind*** vt
 英音 baɪnd     美音 baɪnd  
 
@@ -3928,6 +4232,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 英文释义
 ---
 1. *高义频：* **捆；绑；包扎；装订：**  
+
 
 > **bound up**  
 > She bound up her hair.   
@@ -3947,6 +4252,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. *高义频：* **嘿；赢了；中了**  
 
 
+
 # ***bingo*** n
 英音 'bɪŋɡəʊ     美音 'bɪŋɡəʊ  
 
@@ -3959,6 +4265,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. *高义频：* **宾戈 (一种赌博游戏)**  
 
 
+
 # ***binoculars*** n
 英音 [bɪ'nɒkjələz     美音 bɪ'nɑːkjələrz  
 
@@ -3967,6 +4274,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 英文释义
 ---
 1. **双筒望远镜**  
+
 
 > a pair of binoculars  
 > 一副双筒望远镜
@@ -3982,6 +4290,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. **生物化学家**  
 
 
+
 # ***biochemistry*** n
 英音 ˌbaɪəʊ'kemɪstri     美音 ˌbaɪoʊ'kemɪstri  
 
@@ -3994,6 +4303,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. *高义频：* **生物化学**  
 
 
+
 # ***biodiversity*** n
 英音 ˌbaɪəʊdaɪ'vɜːsəti     美音 ˌbaɪoʊdaɪ'vɜːrsəti  
 
@@ -4002,6 +4312,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 英文释义
 ---
 1. **生物多样性**  
+
 
 
 # ***biography*** n
@@ -4016,6 +4327,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. *高义频：* **传记**  
 
 
+
 # ***bioinformatician*** n
 英音 biːəʊɪn'fɔːmətɪʃn     美音 biːəʊɪn'fɔːmətɪʃn  
 
@@ -4026,6 +4338,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. **生物信息学 (研究) 者**  
 
 
+
 # ***biologist*** n
 英音 baɪ'ɒlədʒɪst     美音 baɪ'ɑːlədʒɪst  
 
@@ -4034,6 +4347,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 英文释义
 ---
 1. *高义频：* **生物学家**  
+
 
 
 # ***biology*** n
@@ -4048,6 +4362,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. *高义频：* **生物学**  
 
 
+
 # ***bird*** n
 英音 bɜːd     美音 bɜːrd  
 
@@ -4060,6 +4375,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. *高义频：* **鸟；禽**  
 
 
+
 # ***birth*** n
 英音 bɜːθ     美音 bɜːrθ  
 
@@ -4070,6 +4386,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 英文释义
 ---
 1. *高义频：* **出生；分娩； 诞生；出身：**  
+
 
 > Birth is much, but breeding is more.   
 > 出身重要，教养更重要。
@@ -4086,14 +4403,18 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 - #### at birth 
 1. **出生时**  
 
+
 - #### by birth 
 1. **在血统上；生来**  
+
 
 - #### date of birth / birth date 
 1. **出生日期**  
 
+
 - #### give birth to 
 1. **生 (孩子 / 仔)；产生；引起：**  
+
 
 > She gave birth to a son.   
 > 她生了个儿子。
@@ -4114,6 +4435,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. *高义频：* **生日**  
 
 
+
 # ***birthplace*** n
 英音 'bɜːθpleɪs     美音 'bɜːrθpleɪ  
 
@@ -4124,6 +4446,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 英文释义
 ---
 1. *高义频：* **出生地；发祥地**  
+
 
 
 # ***biscuit*** n
@@ -4138,6 +4461,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. *高义频：* **饼干 (BrE)； 面包干 (AmE)**  
 
 
+
 # ***bishop*** n
 英音 'bɪʃəp     美音 'bɪʃəp  
 
@@ -4148,6 +4472,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 英文释义
 ---
 1. *高义频：* **主教**  
+
 
 
 # ***bison*** n
@@ -4162,6 +4487,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 1. *高义频：* **北美或欧洲野牛**  
 
 
+
 # ***bit*** n
 英音 bɪt     美音 bɪt  
 
@@ -4172,6 +4498,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 英文释义
 ---
 1. *高义频：* **小片；小部分；少量；一点儿：**  
+
 
 > **bits of**  
 > bits of wood / paper   
@@ -4185,6 +4512,7 @@ It’s quite ________ (超出我的理解能力) why such things have been allow
 ---
 - #### a bit (of) 
 1. **有点儿；一点儿：**  
+
 
 > Could you turn the TV down a little bit?  
 > 你能把电视声音调小一点吗？
@@ -4203,11 +4531,13 @@ a bit常用作副词，相当于a little。修饰名词时， 需加of。
 - #### bit by bit 
 1. **一点点地；渐渐：**  
 
+
 > Bit by bit, the group accepted the idea.  
 > 渐渐地,大家接受了这个想法。
 
 - #### do one’s bit 
 1. **[非正式用语] 尽自己的本分：**  
+
 
 > Everyone should do their bit for the environment.   
 > 每个人都应该尽自己的本分保护环境。
@@ -4215,8 +4545,10 @@ a bit常用作副词，相当于a little。修饰名词时， 需加of。
 - #### every bit as good / bad (as sb / sth)
 1. **和（某人 / 某事物）同样好 / 糟糕**  
 
+
 - #### not a bit 
 1. **一点儿也不：**  
+
 
 > He is not a bit better.   
 > 他一点也没见好。
@@ -4241,6 +4573,7 @@ You’re driving too fast. Can you drive ________(慢一点儿)?
 ---
 1. *高义频：* **咬；被咬或叮的伤痕：**  
 
+
 > **took a bite of**  
 > The man took a bite of his sandwich.  
 > 那位男士咬了一口三明治。
@@ -4263,6 +4596,7 @@ You’re driving too fast. Can you drive ________(慢一点儿)?
 ---
 1. *高义频：* **咬；叮；咬伤：**  
 
+
 > Bitten by the snake in the bush, Susan was sent back to the camp.    
 > 由于被灌木丛中的蛇咬伤，苏珊被送回了营地。
 
@@ -4276,6 +4610,7 @@ You’re driving too fast. Can you drive ________(慢一点儿)?
 ---
 1. *高义频：* **(味道) 苦的：**  
 
+
 > Good medicine is bitter in the mouth.   
 > 良药苦口。
 
@@ -4283,6 +4618,7 @@ You’re driving too fast. Can you drive ________(慢一点儿)?
 > 教育的根是苦涩的，但其果实是香甜的。
 
 2. *高义频：* **[只用于名词前] 辛酸的；痛苦的：**  
+
 
 > **bitter tears**  
 > bitter tears   
@@ -4292,6 +4628,7 @@ You’re driving too fast. Can you drive ________(慢一点儿)?
 > 痛苦的经历
 
 3. *高义频：* **充满仇恨 (怨恨) 的**  
+
 
 > **was bitter about**  
 > He was bitter about losing the job.   
@@ -4312,6 +4649,7 @@ bitterly  /'bɪtərli/ adv
 1. **痛苦地，愤恨地**  
 
 
+
 # ***black*** vt
 英音 blæk     美音 blæk  
 
@@ -4320,6 +4658,7 @@ bitterly  /'bɪtərli/ adv
 英文释义
 ---
 1. *高义频：* **弄黑；弄脏**  
+
 
 
 派生词汇
@@ -4335,6 +4674,7 @@ blacken /'blækən/
 ---
 1. *高义频：* **黑色的；漆黑的：**  
 
+
 > The sky grew black with clouds.   
 > 乌云密布，天色灰暗。
 
@@ -4343,10 +4683,12 @@ blacken /'blækən/
 
 2. *高义频：* **黑人的：**  
 
+
 > black culture   
 > 黑人文化
 
 3. *高义频：* **(咖啡、茶) 不加奶油 / 牛奶的：**  
+
 
 > I like my coffee black.   
 > 我喜欢喝不加牛奶的咖啡。
@@ -4358,6 +4700,7 @@ blacken /'blækən/
 1. **黑色幽默**  
 
 
+
 # ***black*** n
 英音 blæk     美音 blæk  
 
@@ -4367,10 +4710,12 @@ blacken /'blækən/
 ---
 1. *高义频：* **[U] 黑色：**  
 
+
 > He was dressed in black.   
 > 他穿着黑衣服。
 
 2. *高义频：* **[C] (亦作Black) 黑人**  
+
 
 
 # ***black-and-white*** adj
@@ -4381,6 +4726,7 @@ blacken /'blækən/
 英文释义
 ---
 1. **黑白的**  
+
 
 
 # ***blackboard*** n
@@ -4395,6 +4741,7 @@ blacken /'blækən/
 1. *高义频：* **黑板**  
 
 
+
 # ***blackout*** n
 英音 'blækaʊt     美音 'blækaʊt  
 
@@ -4405,6 +4752,7 @@ blacken /'blækən/
 英文释义
 ---
 1. *高义频：* **断电；信号中断；突然眩晕：**  
+
 
 > Solar storms may cause a communications blackout.   
 > 太阳风暴可能导致通讯中断。
@@ -4422,6 +4770,7 @@ blacken /'blækən/
 1. *高义频：* **刀刃；刀锋：刀片**  
 
 
+
 # ***blame*** n  重难点词汇
 英音 bleɪm     美音 bleɪm  
 
@@ -4433,6 +4782,7 @@ blacken /'blækən/
 ---
 1. *高义频：* **( 对错误 / 坏事应负的) 责任； 责备**  
 responsibility for a mistake or sth bad：
+
 
 > **take,bear the blame**  
 > take / bear the blame   
@@ -4457,6 +4807,7 @@ responsibility for a mistake or sth bad：
 1. *高义频：* **责备；把...归咎于**  
 to say or think that sb / sth is responsible for sth bad：
 
+
 - #### blame sb / sth for (doing) sth:
 
 > While we can’t change the body type we are born with, we can’t blame our genes for making us fat.  
@@ -4478,6 +4829,7 @@ to say or think that sb / sth is responsible for sth bad：
 ---
 - #### be to blame (for sth) 
 1. **(对某事) 负有责任：**  
+
 
 > It’s all my fault. I’m to blame.   
 > 这都是我的错，都怪我。
@@ -4502,6 +4854,7 @@ Mr Green stood up in defence of the 16- year-old boy, saying that he was not the
 ---
 1. *高义频：* **(表格等的) 空白处；空白：**  
 
+
 > **Fill in,blanks**  
 > Fill in the blanks with proper words.  
 > 在空白处填上适当的单词。
@@ -4518,6 +4871,7 @@ Mr Green stood up in defence of the 16- year-old boy, saying that he was not the
 英文释义
 ---
 1. *高义频：* **空白的；茫然的：**  
+
 
 > **blank cheque**  
 > a blank cheque  
@@ -4548,6 +4902,7 @@ The professor could tell by the __________ (茫然的) look in Mary’s eyes tha
 ---
 1. *高义频：* **毯子；毛毯；毛毯似的东西：**  
 
+
 > I took a thick blanket and wrapped it around her.  
 > 我拿了一条厚毯子裹在她身上。
 
@@ -4559,6 +4914,7 @@ The professor could tell by the __________ (茫然的) look in Mary’s eyes tha
 ---
 - #### a wet blanket 
 1. **扫兴的人；泼冷水的人**  
+
 
 
 真题解析
@@ -4579,6 +4935,7 @@ It’s cold today. Please put another ________ (毯子) on the bed.
 ---
 1. *高义频：* **出血；流血：**  
 
+
 > **bleed to death**  
 > bleed to death  
 > 流血致死
@@ -4587,6 +4944,7 @@ It’s cold today. Please put another ________ (毯子) on the bed.
 > 刀割破了她的手指，出血了。
 
 2. *低义频：* **榨取 (钱财)：**  
+
 
 
 # ***bleeding*** n
@@ -4599,6 +4957,7 @@ It’s cold today. Please put another ________ (毯子) on the bed.
 1. **流血，失血**  
 
 
+
 # ***blend*** v
 英音 blend     美音 blend  
 
@@ -4607,6 +4966,7 @@ It’s cold today. Please put another ________ (毯子) on the bed.
 英文释义
 ---
 1. *高义频：* **(使) 混合；融合：**  
+
 
 > **Blend,and**  
 > Blend the banana and yogurt.   
@@ -4627,6 +4987,7 @@ It’s cold today. Please put another ________ (毯子) on the bed.
 1. *高义频：* **混合物；不同事物的融合：**  
 
 
+
 # ***bless*** vt
 英音 bles     美音 bles  
 
@@ -4636,10 +4997,12 @@ It’s cold today. Please put another ________ (毯子) on the bed.
 ---
 1. *高义频：* **为...祈神保佑；祝福：**  
 
+
 > The bishop blessed the ship before it left the port.   
 > 在那艘船离港前，主教祈神保佑它。
 
 2. *低义频：* **(神) 赋予；赐予：**  
+
 
 > Fortune blessed him with success.   
 > 命运之神赐予他成功。
@@ -4649,6 +5012,7 @@ It’s cold today. Please put another ________ (毯子) on the bed.
 ---
 - #### (be) blessed with
 1. **使有幸得到：**  
+
 
 > I was blessed with a happy childhood, one that most people would want to have.  
 > 我有幸拥有一个幸福的童年，一个多数人想拥有的童年。
@@ -4671,6 +5035,7 @@ blessing /'blesɪŋ/ n
 ---
 1. *高义频：* **失明的；瞎的；盲的：**  
 
+
 > **go blind**  
 > go blind  
 > 失明
@@ -4684,6 +5049,7 @@ blessing /'blesɪŋ/ n
 
 2. *低义频：* **视而不见的；盲目的：**  
 
+
 > **are,blind to**  
 > Mothers are sometimes blind to the faults of their children.   
 > 母亲们有时觉察不到自己孩子的过错。
@@ -4693,6 +5059,7 @@ blessing /'blesɪŋ/ n
 ---
 - #### turn a blind eye to 
 1. **对…视而不见**  
+
 
 
 派生词汇
@@ -4716,6 +5083,7 @@ The aim of education is to teach young people to think for themselves and not fo
 ---
 1. *高义频：* **使失明；使看不见；挡住；隐藏：**  
 
+
 > The thick fog blinds us.   
 > 大雾使我们看不见。
 
@@ -4730,6 +5098,7 @@ The aim of education is to teach young people to think for themselves and not fo
 1. *高义频：* **[C] 百叶窗**  
 
 
+
 # ***blink*** v
 英音 blɪŋk     美音 blɪŋk  
 
@@ -4738,6 +5107,7 @@ The aim of education is to teach young people to think for themselves and not fo
 英文释义
 ---
 1. **眨眼睛**  
+
 
 
 # ***blister*** n
@@ -4752,6 +5122,7 @@ The aim of education is to teach young people to think for themselves and not fo
 1. *高义频：* **水泡**  
 
 
+
 # ***blister*** v
 英音 'blɪstə(r)     美音 'blɪstər  
 
@@ -4762,6 +5133,7 @@ The aim of education is to teach young people to think for themselves and not fo
 1. *高义频：* **(使) 起泡**  
 
 
+
 # ***blizzard*** n
 英音 'blɪzəd     美音 'blɪzərd  
 
@@ -4770,6 +5142,7 @@ The aim of education is to teach young people to think for themselves and not fo
 英文释义
 ---
 1. **暴风雪**  
+
 
 
 # ***block*** n
@@ -4783,6 +5156,7 @@ The aim of education is to teach young people to think for themselves and not fo
 ---
 1. *高义频：* **(木、石等的) 块；大块：**  
 
+
 > **block of**  
 > a block of ice / rock   
 > 一块冰/岩石
@@ -4792,16 +5166,19 @@ The aim of education is to teach young people to think for themselves and not fo
 
 2. *高义频：* **街区：**  
 
+
 > She told us to go around the corner on the left and keep going straight for two blocks.   
 > 她告诉我们向左转过这个拐角，一直向前走两个街区。
 
 3. *高义频：* **大楼；大厦：**  
+
 
 > **office / apartment block**  
 > an office / apartment block   
 > 办公大楼/公寓楼
 
 4. *低义频：* **障碍 (物)；阻塞 (物)：**  
+
 
 > a traffic block   
 > 交通阻塞
@@ -4810,6 +5187,7 @@ The aim of education is to teach young people to think for themselves and not fo
 > 管内有阻塞物，水无法流动。
 
 5. *低义频：* **一组；一批；一套：**  
+
 
 > Allow your children to study in blocks of time, such as for half an hour with a five-minute break in the middle.   
 > 允许孩子用成组的时间学习，比如每学习半小时中间休息5分钟。
@@ -4823,6 +5201,7 @@ The aim of education is to teach young people to think for themselves and not fo
 英文释义
 ---
 1. *高义频：* **堵塞；阻挡；妨碍：**  
+
 
 > When we saw the road blocked with snow, we decided to spend the holiday at home.   
 > 当我们看到大雪堵塞道路时，就决定在家过这个假期了。
@@ -4843,6 +5222,7 @@ The aim of education is to teach young people to think for themselves and not fo
 ---
 1. *高义频：* **[C](计算机) 网络日志；博客**  
 
+
 > **blog post**  
 > write a blog post  
 > 写博文
@@ -4856,6 +5236,7 @@ The aim of education is to teach young people to think for themselves and not fo
 英文释义
 ---
 1. **写博客；写网络日志：**  
+
 
 > **blog about**  
 > I was encouraged to blog about the whole experience.  
@@ -4876,6 +5257,7 @@ blogger /'blɒɡə(r)/ n [C]
 1. **博客作者；博主**  
 
 
+
 # ***blond(e)*** adj
 英音 blɒnd     美音 blɑːnd  
 
@@ -4884,6 +5266,7 @@ blogger /'blɒɡə(r)/ n [C]
 英文释义
 ---
 1. *高义频：* **头发浅色的；金色的**  
+
 
 
 # ***blond(e)*** n
@@ -4898,6 +5281,7 @@ blogger /'blɒɡə(r)/ n [C]
 1. *高义频：* **金发女子**  
 
 
+
 # ***blood*** n
 英音 blʌd     美音 blʌd  
 
@@ -4908,6 +5292,7 @@ blogger /'blɒɡə(r)/ n [C]
 英文释义
 ---
 1. *高义频：* **血；血液：**  
+
 
 > **give / lose / draw blood**  
 > give / lose / draw blood  
@@ -4927,6 +5312,7 @@ blogger /'blɒɡə(r)/ n [C]
 
 2. *低义频：* **血统；家族；门第：**  
 
+
 > **Blood is thicker than water**  
 > Blood is thicker than water.   
 > 血浓于水。
@@ -4939,6 +5325,7 @@ blogger /'blɒɡə(r)/ n [C]
 ---
 - #### make sb’s blood boil 
 1. **使某人怒火中烧：**  
+
 
 > The way he treats his parents really makes my blood boil.   
 > 他这样对待父母真的让我非常气愤。
@@ -4962,6 +5349,7 @@ bloody /'blʌdi/ adj
 ---
 1. *高义频：* **花；开花：**  
 
+
 > What beautiful blooms!   
 > 多漂亮的花啊！
 
@@ -4973,6 +5361,7 @@ bloody /'blʌdi/ adj
 ---
 - #### in (full) bloom 
 1. **(盛) 开着花：**  
+
 
 > The roses are in full bloom now.   
 > 玫瑰盛开着。
@@ -4986,6 +5375,7 @@ bloody /'blʌdi/ adj
 英文释义
 ---
 1. *高义频：* **开花：**  
+
 
 > Many plants bloom in the spring.   
 > 许多植物春天开花。
@@ -5003,6 +5393,7 @@ bloody /'blʌdi/ adj
 1. *高义频：* **花**  
 
 
+
 # ***blossom*** vi
 英音 'blɒsəm     美音 'blɑːsəm  
 
@@ -5011,6 +5402,7 @@ bloody /'blʌdi/ adj
 英文释义
 ---
 1. *高义频：* **开花**  
+
 
 
 # ***blouse*** n
@@ -5025,6 +5417,7 @@ bloody /'blʌdi/ adj
 1. *高义频：* **女衬衫：**  
 
 
+
 # ***blow*** v
 英音 bləʊ     美音 bloʊ  
 
@@ -5036,17 +5429,20 @@ bloody /'blʌdi/ adj
 ---
 1. *高义频：* **(风) 吹；刮：**  
 
+
 > **blowing hard**  
 > The wind is blowing hard tonight.  
 > 今晚刮着大风。
 
 2. *高义频：* **吹（气）：**  
 
+
 > **blow into**  
 > The policeman asked the driver to blow into an electronic device.  
 > 警察要求司机朝一个电子仪器吹气。
 
 3. *高义频：* **（被）吹动；（被）刮走：**  
+
 
 > **blew open**  
 > The door blew open.  
@@ -5057,6 +5453,7 @@ bloody /'blʌdi/ adj
 
 4. *高义频：* **吹响；吹奏；鸣响：**  
 
+
 > Blow your horn.   
 > 鸣响你的喇叭。
 
@@ -5064,6 +5461,7 @@ bloody /'blʌdi/ adj
 > 比赛结束的哨声吹响了。
 
 5. *低义频：* **(使) 爆炸；(使) 破裂：**  
+
 
 > blow sth to pieces   
 > 把某物炸成碎片
@@ -5077,17 +5475,20 @@ bloody /'blʌdi/ adj
 - #### blow down 
 1. **刮倒：**  
 
+
 > The trees blown down in the storm have been moved off the road.   
 > 在暴风雨中刮倒的树木已被移出路面。
 
 - #### blow out
 1. **吹灭：**  
 
+
 > Blow the candle out.   
 > 把蜡烛吹灭。
 
 - #### blow up 
 1. **给…充气；炸毁；爆炸 (explode)：**  
+
 
 > I blew up lots of balloons.   
 > 我吹了很多气球。
@@ -5110,6 +5511,7 @@ bloody /'blʌdi/ adj
 ---
 1. *高义频：* **重击；击打：**  
 
+
 > I killed two flies at one blow.   
 > 我一下子打死了两只苍蝇。
 
@@ -5119,11 +5521,13 @@ bloody /'blʌdi/ adj
 
 2. *高义频：* **(精神上的) 打击：**  
 
+
 > **blow to**  
 > His wife’s death was a great blow to him.   
 > 妻子的离世对他打击很大。
 
 3. *高义频：* **吹：**  
+
 
 > Try to put the candles out in one blow.   
 > 用力一口气把蜡烛都吹灭。
@@ -5148,6 +5552,7 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 1. *高义频：* **(鲸鱼的) 鼻孔； (隧道的) 通风口**  
 
 
+
 # ***blue*** adj
 英音 bluː     美音 bluː  
 
@@ -5157,6 +5562,7 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 ---
 1. *高义频：* **蓝色的；蔚蓝的：**  
 
+
 > The sky is deep blue.   
 > 天空湛蓝。
 
@@ -5165,6 +5571,7 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 > 他脸冻得发青。
 
 2. *低义频：* **悲伤的；沮丧的；忧郁的：**  
+
 
 > **feeling,blue**  
 > I’m feeling rather blue today.   
@@ -5177,6 +5584,7 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 1. **被打得青一块紫一块的；伤痕累累的**  
 
 
+
 # ***blue*** n
 英音 bluː     美音 bluː  
 
@@ -5186,7 +5594,9 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 ---
 1. *高义频：* **蓝色；天蓝色**  
 
+
 2. *低义频：* **忧郁；沮丧：**  
+
 
 > be in the blues   
 > 闷闷不乐
@@ -5204,6 +5614,7 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 1. *高义频：* **布鲁斯音乐；蓝调**  
 
 
+
 # ***board*** n
 英音 bɔːd     美音 bɔːrd  
 
@@ -5213,6 +5624,7 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 ---
 1. *高义频：* **[C] 板；木板；[用于构成合成词] …用木板：**  
 
+
 > a noticeboard  
 > 布告牌
 
@@ -5221,6 +5633,7 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 
 2. *高义频：* **[C] (BrE) 理事会；董事会；委员会；部：局：**  
 
+
 > a board of directors  
 > 董事会
 
@@ -5228,6 +5641,7 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 > 城市规划委员会
 
 3. *低义频：* **[U] 伙食；膳食：**  
+
 
 > **room and board**  
 > When his family fell on hard times, he was offered free room and board.  
@@ -5238,6 +5652,7 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 ---
 - #### on board 
 1. **在船 / 火车 / 飞机上 (aboard)：**  
+
 
 > On board the ship, you will be well taken care of.   
 > 你在船上会受到很好的照顾。
@@ -5252,6 +5667,7 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 ---
 1. *高义频：* **登上 (船 / 车 / 飞机)：**  
 
+
 > a boarding card / pass  
 > 登机牌
 
@@ -5263,6 +5679,7 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 > 6个月前，谢蕾告别了中国的家人和朋友，登上了前往伦敦的飞机。
 
 2. *低义频：* **寄宿：**  
+
 
 > **boarding school**  
 > a boarding school   
@@ -5279,6 +5696,7 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 1. **提供食宿的**  
 
 
+
 # ***boast*** v
 英音 bəʊst     美音 boʊst  
 
@@ -5287,6 +5705,7 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 英文释义
 ---
 1. *高义频：* **夸口 (说)；夸耀 (说)：**  
+
 
 > **boasts that**  
 > He boasts that he is one of the best singers in the country.   
@@ -5304,6 +5723,7 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 ---
 1. *高义频：* **小船；艇：**  
 
+
 > **in a boat / by boat**  
 > cross the river in a boat / by boat   
 > 乘船过河
@@ -5313,6 +5733,7 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 ---
 - #### in the same boat 
 1. **处境相同；面临同样的危险：**  
+
 
 > She and I are in the same boat: we both failed the exam.   
 > 我和她同病相怜,考试都没及格。
@@ -5326,6 +5747,7 @@ The failure was a big blow _______ him, but he wasn’t discouraged and soon got
 英文释义
 ---
 1. *高义频：* **划船；乘船**  
+
 
 
 派生词汇
@@ -5343,6 +5765,7 @@ boating /'boʊtɪŋ/ n [U]
 ---
 1. *高义频：* **身体；躯体：**  
 
+
 > **body weight / temperature / language**  
 > body weight / temperature / language  
 > 体重／体温/肢体语言
@@ -5355,7 +5778,9 @@ boating /'boʊtɪŋ/ n [U]
 
 2. *高义频：* **尸体；遗体**  
 
+
 3. *低义频：* **主体；主要部分；正文：**  
+
 
 > the body of a plane / ship / car   
 > 机/船/车身
@@ -5366,11 +5791,13 @@ boating /'boʊtɪŋ/ n [U]
 
 4. *高义频：* **物体；天体：**  
 
+
 > **foreign bodies**  
 > Keep the caps on the bottles to prevent foreign bodies entering them.    
 > 瓶子要盖好盖子，以免异物进入。
 
 5. *高义频：* **团体：机构：**  
+
 
 > **governing body**  
 > The governing body of the school is / are concerned about discipline.   
@@ -5382,8 +5809,10 @@ boating /'boʊtɪŋ/ n [U]
 - #### body and soul 
 1. **全心全意**  
 
+
 - #### keep body and soul together
 1. **勉强糊口 (survive)：**  
+
 
 > She hardly earns enough to keep body and soul together.   
 > 她几乎挣不够维持温饱的钱。
@@ -5398,6 +5827,7 @@ boating /'boʊtɪŋ/ n [U]
 ---
 1. *高义频：* **(使) 沸腾；煮沸；煮：**  
 
+
 > boiled water   
 > 煮开过的水(可指凉开水)
 
@@ -5409,6 +5839,7 @@ boating /'boʊtɪŋ/ n [U]
 > 水温达到100℃时沸腾。
 
 2. *低义频：* **发怒；发火：**  
+
 
 > **boil with**  
 > His rudeness made her boil with anger.   
@@ -5433,6 +5864,7 @@ boating /'boʊtɪŋ/ n [U]
 ---
 1. *高义频：* **黑体；粗体：**  
 
+
 > **in bold**  
 > Highlight the important words in bold.   
 > 用粗体字突出重要的词语。
@@ -5447,6 +5879,7 @@ boating /'boʊtɪŋ/ n [U]
 ---
 1. *高义频：* **大胆的：**  
 
+
 > a bold action / idea  
 > 大胆的举动/想法
 
@@ -5459,6 +5892,7 @@ boating /'boʊtɪŋ/ n [U]
 英文释义
 ---
 1. *高义频：* **炸弹：**  
+
 
 > **bomb exploded / went off**  
 > The bomb exploded / went off.   
@@ -5474,6 +5908,7 @@ boating /'boʊtɪŋ/ n [U]
 ---
 1. *高义频：* **轰炸：**  
 
+
 > The houses of Martin Luther King, Jr and the other leaders were bombed.   
 > 马丁·路德·金和其他领导人的房屋被炸了。
 
@@ -5488,6 +5923,7 @@ boating /'boʊtɪŋ/ n [U]
 英文释义
 ---
 1. *高义频：* **黏合；纽带；关系：**  
+
 
 > This new glue makes a firmer bond.   
 > 这种新胶水粘得更牢固。
@@ -5511,6 +5947,7 @@ boating /'boʊtɪŋ/ n [U]
 ---
 1. *高义频：* **(使) 结合；(使) 黏合：**  
 
+
 > These two different materials won’t bond together.  
 > 这两种不同的材料无法黏合起来。
 
@@ -5525,6 +5962,7 @@ boating /'boʊtɪŋ/ n [U]
 英文释义
 ---
 1. *高义频：* **骨头：**  
+
 
 > He broke a bone in his leg.   
 > 他的一条腿骨折了。
@@ -5544,6 +5982,7 @@ boating /'boʊtɪŋ/ n [U]
 1. **（在室外为庆祝而燃起的）大火堆，篝火**  
 
 
+
 # ***bonnie*** adj
 英音 'bɒnɪ     美音 'bɒnɪ  
 
@@ -5552,6 +5991,7 @@ boating /'boʊtɪŋ/ n [U]
 英文释义
 ---
 1. **<方言>十分漂亮的，有魅力的**  
+
 
 
 # ***bonus*** n
@@ -5564,6 +6004,7 @@ boating /'boʊtɪŋ/ n [U]
 英文释义
 ---
 1. *高义频：* **红利；奖金；意外收获：**  
+
 
 > The workers got a Christmas bonus.   
 > 工人得到了圣诞节奖金。
@@ -5584,6 +6025,7 @@ boating /'boʊtɪŋ/ n [U]
 ---
 1. *高义频：* **书；书籍；卷；册；簿：**  
 
+
 > a best-selling book  
 > 畅销书
 
@@ -5599,6 +6041,7 @@ boating /'boʊtɪŋ/ n [U]
 英文释义
 ---
 1. *高义频：* **预订；预约 (reserve)：**  
+
 
 > Have you booked the flight?  
 > 您预订航班了吗？
@@ -5630,6 +6073,7 @@ booking
 1. *高义频：* **书架；书柜**  
 
 
+
 # ***booklet*** n
 英音 'bʊklət     美音 'bʊklət  
 
@@ -5640,6 +6084,7 @@ booking
 英文释义
 ---
 1. *高义频：* **小册子**  
+
 
 
 # ***bookseller*** n
@@ -5654,6 +6099,7 @@ booking
 1. *高义频：* **书店业主；书商**  
 
 
+
 # ***bookshelf*** n
 英音 'bʊkʃelf     美音 'bʊkʃelf  
 
@@ -5664,6 +6110,7 @@ booking
 英文释义
 ---
 1. *高义频：* **书架**  
+
 
 
 真题解析
@@ -5685,6 +6132,7 @@ Her ________ (书架) are filled with books and photos.
 1. *高义频：* **书店(AmE bookstore)**  
 
 
+
 # ***bookworm*** n
 英音 'bʊkwɜːm     美音 'bʊkwɜːrm  
 
@@ -5693,6 +6141,7 @@ Her ________ (书架) are filled with books and photos.
 英文释义
 ---
 1. **极爱读书的人，书迷，书虫**  
+
 
 
 # ***boom*** n
@@ -5705,6 +6154,7 @@ Her ________ (书架) are filled with books and photos.
 英文释义
 ---
 1. *高义频：* **[C] 繁荣；激增；热潮：**  
+
 
 > a boom town  
 > 新兴城市
@@ -5727,6 +6177,7 @@ Her ________ (书架) are filled with books and photos.
 ---
 1. *高义频：* **繁荣；迅速发展：**  
 
+
 > Bike-sharing is booming in China.  
 > 共享单车在中国很火爆。
 
@@ -5741,6 +6192,7 @@ Her ________ (书架) are filled with books and photos.
 1. **回力镖（澳大利亚土著人使用的武器或狩猎工具）**  
 
 
+
 # ***boost*** vt
 英音 buːst     美音 buːst  
 
@@ -5749,6 +6201,7 @@ Her ________ (书架) are filled with books and photos.
 英文释义
 ---
 1. *高义频：* **使增长；使兴旺：**  
+
 
 > boost one’s confidence   
 > 增强信心
@@ -5769,6 +6222,7 @@ Her ________ (书架) are filled with books and photos.
 1. *高义频：* **靴子；长靴**  
 
 
+
 # ***booth*** n
 英音 buːð;buːθ     美音 buːθ  
 
@@ -5779,6 +6233,7 @@ Her ________ (书架) are filled with books and photos.
 英文释义
 ---
 1. *高义频：* **货摊；售货亭；隔间：**  
+
 
 > a telephone booth   
 > 电话亭
@@ -5795,10 +6250,12 @@ Her ________ (书架) are filled with books and photos.
 ---
 1. *高义频：* **边；边缘：**  
 
+
 > His handkerchief has a white border.   
 > 他的手帕有一条白边。
 
 2. *高义频：* **国界；边界；边境（地区）：**  
+
 
 > **on the border**  
 > on the border   
@@ -5823,6 +6280,7 @@ Her ________ (书架) are filled with books and photos.
 1. *高义频：* **与…接壤；与…毗邻**  
 
 
+
 # ***bore*** vt
 英音 bɔː(r)     美音 bɔːr  
 
@@ -5831,6 +6289,7 @@ Her ________ (书架) are filled with books and photos.
 英文释义
 ---
 1. *高义频：* **使厌烦；使厌倦：**  
+
 
 > Will it bore you to hear the story again?   
 > 再听一遍这个故事你会烦吗？
@@ -5845,6 +6304,7 @@ Her ________ (书架) are filled with books and photos.
 ---
 1. *高义频：* **厌烦的；厌倦的；烦闷的：**  
 
+
 > There was a bored expression on her face.   
 > 她脸上有一种厌倦的表情。
 
@@ -5853,6 +6313,7 @@ Her ________ (书架) are filled with books and photos.
 ---
 - #### (be / get) bored with
 1. **对…感到厌倦 (be fed up with)：**  
+
 
 > Bored with life in the city, he moved to a remote village.  
 > 因为厌倦了城市的生活，他搬到了一个偏远的村庄。
@@ -5866,6 +6327,7 @@ Her ________ (书架) are filled with books and photos.
 英文释义
 ---
 1. *高义频：* **无聊的；令人厌烦的：**  
+
 
 > **dead boring**  
 > a dead boring job   
@@ -5893,6 +6355,7 @@ Mr Smith, ________ (tire) of the ________ (bore) speech, started to read a novel
 ---
 1. *高义频：* **出生；诞生：**  
 
+
 > **was born into**  
 > She was born into a musical family.  
 > 她生于一个音乐世家。
@@ -5904,11 +6367,13 @@ Mr Smith, ________ (tire) of the ________ (bore) speech, started to read a novel
 2. *高义频：* **产生；出现；形成**  
 to start to exist：
 
+
 > **was born (out) of**  
 > His wish to become a doctor was born (out) of a desire to help sick people.   
 > 他想当医生的愿望源于他想帮助病人。
 
 3. *高义频：* **…出生的；…产生的：**  
+
 
 > **first-born**  
 > My parents have raised twelve kids and I am their first-born son.   
@@ -5919,6 +6384,7 @@ to start to exist：
 ---
 - #### be born to do / be sth 
 1. **天生适合做某事：**  
+
 
 > He was born to be a politician.   
 > 他天生就是个政治家。
@@ -5932,6 +6398,7 @@ to start to exist：
 英文释义
 ---
 1. *高义频：* **天生的；注定的：**  
+
 
 > **born leader**  
 > He was a born leader.   
@@ -5948,6 +6415,7 @@ to start to exist：
 1. **（自治）区**  
 
 
+
 # ***borrow*** v
 英音 'bɒrəʊ     美音 'bɑːroʊ  
 
@@ -5959,6 +6427,7 @@ to start to exist：
 ---
 1. *高义频：* **借；借用【 反：lend】**  
 
+
 > How many books can I borrow at a time?  
 > 我一次能借几本书？
 
@@ -5969,6 +6438,7 @@ to start to exist：
 ### 辨析 lend, borrow
 
 2. *高义频：* **引用；借用（思想、文字等）：**  
+
 
 > **borrowed,from**  
 > English has borrowed many words from French.  
@@ -5987,6 +6457,7 @@ to start to exist：
 1. *高义频：* **老板；工头**  
 
 
+
 派生词汇
 ---
 bossy /'bɒsi/ adj 
@@ -6000,6 +6471,7 @@ bossy /'bɒsi/ adj
 ---
 1. *高义频：* **指挥；对…发号施令：**  
 
+
 > I’m sick of you bossing me around!   
 > 我讨厌你对我呼来喝去的！
 
@@ -6012,6 +6484,7 @@ bossy /'bɒsi/ adj
 英文释义
 ---
 1. *高义频：* **植物的； 植物学的：**  
+
 
 > a botanical garden   
 > 植物园
@@ -6029,6 +6502,7 @@ bossy /'bɒsi/ adj
 1. *高义频：* **植物学**  
 
 
+
 # ***both*** adj
 英音 bəʊθ     美音 boʊθ  
 
@@ -6037,6 +6511,7 @@ bossy /'bɒsi/ adj
 英文释义
 ---
 1. *高义频：* **两个… (都)：**  
+
 
 > Both his younger brothers are in the army.   
 > 他的两个弟弟都在服兵役。
@@ -6051,6 +6526,7 @@ bossy /'bɒsi/ adj
 ---
 1. *高义频：* **双方 (都)；两者 (都)：**  
 
+
 > Both of them are pretty. / They are both pretty.   
 > 他们两个都漂亮。
 
@@ -6062,6 +6538,7 @@ bossy /'bɒsi/ adj
 ---
 - #### both ... and ... 
 1. **两个都；既…又…：**  
+
 
 > She plays both the piano and the guitar.   
 > 她既能弹钢琴又能弹吉他。
@@ -6121,6 +6598,7 @@ Both Dad or I planned to do something on Mother’s Day.
 1. *高义频：* **[常用于否定句和疑问句]费心 ；麻烦**  
 to spend time and / or energy doing sth：
 
+
 > **didn’t bother to**  
 > He didn’t bother to answer the question.  
 > 他懒得回答这个问题。
@@ -6136,6 +6614,7 @@ to spend time and / or energy doing sth：
 2. *高义频：* **使烦恼；使苦恼 (worry)；使疼痛**  
 to annoy, worry or upset sb; to cause sb trouble or pain:
 
+
 > **bother,about,with**  
 > You needn’t bother yourself about / with small things.  
 > 你用不着为琐事烦恼。
@@ -6145,6 +6624,7 @@ to annoy, worry or upset sb; to cause sb trouble or pain:
 
 3. *高义频：* **打扰**  
  to interrupt sb (trouble)：
+
 
 > Don’t bother me while I’m reading.  
 > 我看书的时候别打扰我。
@@ -6176,6 +6656,7 @@ D.What for
 1. **烦扰**  
 
 
+
 # ***bottle*** n
 英音 'bɒtl     美音 'bɑːtl  
 
@@ -6186,6 +6667,7 @@ D.What for
 1. *高义频：* **瓶；奶瓶；一瓶的量；[the bottle] 酒**  
 
 
+
 # ***bottle*** v
 英音 'bɒtl     美音 'bɑːtl  
 
@@ -6194,6 +6676,7 @@ D.What for
 英文释义
 ---
 1. **vt 把……装入瓶中**  
+
 
 
 派生词汇
@@ -6214,6 +6697,7 @@ bottled /'bɒtld/ adj
 ---
 1. *高义频：* **［常用单数］底部；基部；最下部 (base)：**  
 反义词 top 
+
 > **at the bottom of**  
 > at the bottom of the page / list   
 > 在页面/列表底部
@@ -6227,6 +6711,7 @@ bottled /'bɒtld/ adj
 > 杯底有一些茶叶
 
 2. *高义频：* **［单数］尽头；末端；底层：**  
+
 
 > **at the bottom of**  
 > at the bottom of the garden   
@@ -6246,6 +6731,7 @@ bottled /'bɒtld/ adj
 - #### from the bottom of one’s heart 
 1. **衷心地；发自内心地：**  
 
+
 > From the bottom of my heart, thank you.   
 > 我从心底里感激你。
 
@@ -6259,6 +6745,7 @@ bottled /'bɒtld/ adj
 ---
 1. *高义频：* **底下的；底部的：**  
 
+
 > the bottom line   
 > 底线
 
@@ -6267,6 +6754,7 @@ bottled /'bɒtld/ adj
 > 把你的衣服放在最下面的抽屉里。
 
 2. *高义频：* **最末的；最差的：**  
+
 
 > **bottom of the class**  
 > I was bottom of the class in Spanish.   
@@ -6287,6 +6775,7 @@ bottled /'bɒtld/ adj
 1. **林荫大道，大街**  
 
 
+
 # ***bounce*** v
 英音 baʊns     美音 baʊns  
 
@@ -6295,6 +6784,7 @@ bottled /'bɒtld/ adj
 英文释义
 ---
 1. *高义频：* **(使) 反弹；(使) 弹起； (使) 跳起：**  
+
 
 > The children were bouncing a ball.   
 > 孩子们在拍球。
@@ -6310,6 +6800,7 @@ bottled /'bɒtld/ adj
 1. **（使球等）反弹；（使）弹回**  
 
 
+
 # ***bound*** adj
 英音 baʊnd     美音 baʊnd  
 
@@ -6322,12 +6813,14 @@ bottled /'bɒtld/ adj
 1. *高义频：* **必定的；一定的**  
 certain to do sth：
 
+
 - #### (be) bound to do sth:
 
 > You’ve done so much work that you’re bound to pass the exam.  
 > 你下了这么大功夫，一定能考及格。
 
 2. *低义频：* **准备 / 正在到...去的；(车、船等) 开往...的：**  
+
 
 - #### (be) bound for:
 
@@ -6347,6 +6840,7 @@ certain to do sth：
 ---
 1. *高义频：* **跳跃；跳跃着前进：**  
 
+
 > Polly came bounding into the room holding a letter.  
 > 波利拿着一封信蹦蹦跳跳地进入了房间。
 
@@ -6361,6 +6855,7 @@ certain to do sth：
 英文释义
 ---
 1. *高义频：* **范围；一跳：**  
+
 
 > **go beyond / within the bounds**  
 > go beyond / within the bounds  
@@ -6382,6 +6877,7 @@ certain to do sth：
 ---
 1. *高义频：* **边界；分界线：**  
 
+
 > the national / state / city boundary   
 > 国/州/市界
 
@@ -6394,6 +6890,7 @@ certain to do sth：
 英文释义
 ---
 1. *高义频：* **vi 鞠躬；点头；vt 低下（头）：**  
+
 
 > In Japan, the more respect you want to show, the deeper you should bow.  
 > 在日本，你越想表示尊敬，越要深鞠躬。
@@ -6413,10 +6910,12 @@ certain to do sth：
 ---
 1. *高义频：* **点头；鞠躬：**  
 
+
 > He moved aside for her with a polite bow.   
 > 他礼貌地躬身给她让道。
 
 2. *高义频：* **/bəʊ/ 弓；弓形物；蝴蝶结：**  
+
 
 > A violin is played with a bow.   
 > 小提琴是用弓拉的。
@@ -6437,6 +6936,7 @@ certain to do sth：
 1. *高义频：* **碗；一碗的量；碗状物**  
 
 
+
 # ***bowling*** n
 英音 'bəʊlɪŋ     美音 'boʊlɪŋ  
 
@@ -6447,6 +6947,7 @@ certain to do sth：
 英文释义
 ---
 1. *高义频：* **保龄球运动；滚木球戏：**  
+
 
 > go bowling   
 > 去打保龄球
@@ -6463,10 +6964,12 @@ certain to do sth：
 ---
 1. *高义频：* **盒；箱；一箱的量：**  
 
+
 > a box of chocolates   
 > 一盒巧克力
 
 2. *低义频：* **包厢；专席；亭：**  
+
 
 > a telephone box (BrE)   
 > 电话亭(AmE:atelephonebooth)
@@ -6486,6 +6989,7 @@ certain to do sth：
 1. **拳击手，拳击运动员**  
 
 
+
 # ***boxing*** n
 英音 'bɒksɪŋ     美音 'bɑːksɪŋ  
 
@@ -6496,6 +7000,7 @@ certain to do sth：
 英文释义
 ---
 1. *高义频：* **拳击**  
+
 
 
 # ***boy*** n
@@ -6509,10 +7014,12 @@ certain to do sth：
 ---
 1. *高义频：* **男孩；小伙子：**  
 
+
 > a paper / delivery boy   
 > 送报/货员
 
 2. *高义频：* **儿子**  
+
 
 
 # ***boy*** int
@@ -6524,10 +7031,12 @@ certain to do sth：
 ---
 1. *高义频：* **好家伙：**  
 
+
 > Oh boy! That’s great!   
 > 哦好家伙！那太棒了！
 
 2. *高义频：* **哎：**  
+
 
 > Oh boy! Betty’s sick again.   
 > 哎！贝蒂又病了。
@@ -6541,6 +7050,7 @@ certain to do sth：
 英文释义
 ---
 1. *高义频：* **(联合) 抵制：**  
+
 
 > We boycott all products tested on animals.   
 > 我们抵制所有拿动物做试验的产品。
@@ -6556,6 +7066,7 @@ certain to do sth：
 1. *高义频：* **[C] (对某事物的) 抵制**  
 
 
+
 # ***boyfriend*** n
 英音 'bɔɪfrend     美音 'bɔɪfrend  
 
@@ -6564,6 +7075,7 @@ certain to do sth：
 英文释义
 ---
 1. *高义频：* **男朋友**  
+
 
 
 # ***boyhood*** n
@@ -6578,6 +7090,7 @@ certain to do sth：
 1. *高义频：* **少年时代**  
 
 
+
 # ***brain*** n
 英音 breɪn     美音 breɪn  
 
@@ -6587,10 +7100,12 @@ certain to do sth：
 ---
 1. *高义频：* **大脑：**  
 
+
 > The left half of the brain controls the right side of the body.   
 > 左脑支配身体的右半部。
 
 2. *低义频：* **头脑；智力；智慧：**  
+
 
 > The job requires brains.  
 > 这工作需要动脑筋。
@@ -6599,6 +7114,7 @@ certain to do sth：
 > 老师们发现他从小就很聪明。
 
 3. *低义频：* **聪明的人；智囊：**  
+
 
 > Some of the best brains in our company are here tonight.   
 > 今晚我们公司的一些智囊人物云集于此。
@@ -6614,6 +7130,7 @@ certain to do sth：
 1. **集思广益**  
 
 
+
 # ***brake*** n
 英音 breɪk     美音 breɪk  
 
@@ -6624,6 +7141,7 @@ certain to do sth：
 英文释义
 ---
 1. *高义频：* **车闸；制动器；刹车：**  
+
 
 > take off the brakes   
 > 松开闸
@@ -6644,6 +7162,7 @@ certain to do sth：
 ---
 1. *高义频：* **刹 (车)：**  
 
+
 > **braked,sharply,hard**  
 > The driver braked (the bus) sharply / hard.  
 > (公共汽车)司机突然急刹车。
@@ -6660,10 +7179,12 @@ certain to do sth：
 ---
 1. *高义频：* **树枝；枝条：**  
 
+
 > the bare branches of a tree in winter   
 > 冬季光秃秃的树枝
 
 2. *低义频：* **分部；分支；支流；支脉：**  
+
 
 > open / set up a branch office   
 > 开分公司
@@ -6697,6 +7218,7 @@ The head office of the bank is in Beijing, but it has ________ (分部) all over
 ---
 1. *高义频：* **品牌；牌子：**  
 
+
 > a brand name  
 > 商标
 
@@ -6712,6 +7234,7 @@ The head office of the bank is in Beijing, but it has ________ (分部) all over
 英文释义
 ---
 1. *高义频：* **崭新的；全新的：**  
+
 
 > a brand-new car   
 > 崭新的轿车
@@ -6729,6 +7252,7 @@ The head office of the bank is in Beijing, but it has ________ (分部) all over
 1. *高义频：* **黄铜；黄铜器**  
 
 
+
 # ***brave*** adj
 英音 breɪv     美音 breɪv  
 
@@ -6737,6 +7261,7 @@ The head office of the bank is in Beijing, but it has ________ (分部) all over
 英文释义
 ---
 1. *高义频：* **勇敢的；无畏的：**  
+
 
 > as brave as a lion  
 > 勇猛如狮
@@ -6766,6 +7291,7 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 ---
 1. **勇敢面对；冒（风险）：**  
 
+
 > Thousands braved the rain to attend the flag-raising ceremony (= attended the flag-raising ceremony even though it’s raining).  
 > 数千人冒雨参加了这次升旗仪式。
 
@@ -6781,6 +7307,7 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 ---
 1. *高义频：* **勇敢；无畏 (courage)：**  
 
+
 > The man of true bravery is not frightened by death.  
 > 真正的勇士是不畏惧死亡的。
 
@@ -6795,6 +7322,7 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 英文释义
 ---
 1. *高义频：* **面包：**  
+
 
 > **loaf / piece / slice of bread**  
 > a loaf / piece / slice of bread  
@@ -6814,6 +7342,7 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 1. **黄油面包；生计**  
 
 
+
 # ***break*** v  重难点词汇
 英音 breɪk     美音 breɪk  
 
@@ -6824,6 +7353,7 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 英文释义
 ---
 1. *高义频：* **(使) 破裂；(使) 破碎；(使) 折断：**  
+
 
 > break a vase  
 > 打碎花瓶
@@ -6840,6 +7370,7 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 
 2. *高义频：* **(使) 坏掉；损坏：**  
 
+
 > I think we’ve broken the washing machine.   
 > 我认为我们把洗衣机弄坏了。
 
@@ -6847,6 +7378,7 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 > 我的手表坏了。
 
 3. *高义频：* **违反；违背：**  
+
 
 > break the speed limit  
 > 违章超速
@@ -6857,6 +7389,7 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 
 4. *高义频：* **暂停；稍停：**  
 
+
 > **broke our journey**  
 > We broke our journey in Oxford (= stopped in Oxford on the way to the place we were going to).   
 > 旅途中我们在牛津稍作停顿。
@@ -6866,6 +7399,7 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 > 我们停下来吃午饭好吗？
 
 5. *低义频：* **打断；中止；结束：**  
+
 
 > **break the silence**  
 > break the silence / stillness / ice  
@@ -6879,15 +7413,18 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 
 6. *高义频：* **放弃 (习惯)：**  
 
+
 > break a smoking habit   
 > 戒掉吸烟的习惯
 
 7. *低义频：* **逃脱：**  
 
+
 > He finally managed to break free from his attacker.   
 > 他最终设法逃脱了攻击者。
 
 8. *低义频：* **(使) 垮掉；(使) 崩溃：**  
+
 
 > Losing his bussiness nearly broke him.   
 > 生意亏本几乎将他击垮。
@@ -6896,6 +7433,7 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 > 历经苦难，他的精神不垮。
 
 9. *低义频：* **破晓；(天气) 突变：**  
+
 
 > Dawn is breaking.   
 > 天将破晓。
@@ -6909,6 +7447,7 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 - #### break away (from) 
 1. **离开；脱离；突然挣脱：**  
 
+
 > When Abraham Lincoln was elected President, the southern states broke away and formed a new nation.   
 > 当亚伯拉罕·林肯当选为总统时，南部州脱离出去，成立了一个新的国家。
 
@@ -6921,6 +7460,7 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 - #### break down
 1. *高义频：* **（机器等）出故障；（身体等）垮掉；（情感等）失控：**  
 
+
 > On my way to the station my car broke down.   
 > 去车站的路上，我的车坏了。
 
@@ -6932,15 +7472,18 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 
 2. *高义频：* **(谈判等) 失败：**  
 
+
 > Talks between the two sides have broken down.   
 > 双方的谈判破裂了。
 
 3. *高义频：* **把…分若干部分 (以方便做或理解)：**  
 
+
 > Each lesson is broken down into several units.   
 > 每一课都分成几部分。
 
 4. *低义频：* **打破；消除：**  
+
 
 > **break down,barriers**  
 > Getting young people together will help to break down the barriers between them.  
@@ -6949,10 +7492,12 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 - #### break in
 1. *低义频：* **打断；插嘴：**  
 
+
 > “I didn’t do it!” she broke in.  
 > 她插嘴说：“我没干那事！”
 
 2. *高义频：* **破门而入(break into)：**  
+
 
 > Burglars had broken in when we were away.   
 > 我们外出的时候，窃贼闯进了家中。
@@ -6960,16 +7505,19 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 - #### break into
 1. *高义频：* **破门而入 (break in)：**  
 
+
 > His house was broken into last night.  
 > 昨晚有人闯入他的房子。
 
 2. *低义频：* **突然...起来：**  
+
 
 > break into cheers / laughter / tears  
 > 突然欢呼/大笑/哭起来
 
 - #### break off 
 1. **中断；折断；断绝：**  
+
 
 > He broke off speaking to answer the telephone.   
 > 他中断了谈话去接电话。
@@ -6983,6 +7531,7 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 - #### break out 
 1. **(火灾、战争等) 突然爆发：**  
 
+
 > Does everyone know what to do if a fire breaks out?  
 > 大家都知道发生火灾时该怎么办吗？
 
@@ -6991,6 +7540,7 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 
 - #### break through 
 1. **冲破；突破：**  
+
 
 > The sun broke through at around lunchtime.  
 > 午饭时分，太阳破云而出。
@@ -7001,10 +7551,12 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 - #### break up
 1. *高义频：* **(使) 破碎：**  
 
+
 > The water was covered with ice, which could sometimes break up without warning.  
 > 水面上覆盖着冰，这些冰有时会突然破碎。
 
 2. *高义频：* **(使) (关系等) 破裂：**  
+
 
 > I'm surprised to hear that Sue and Paul have broken up.  
 > 听到苏和保罗分手了我很惊讶。
@@ -7017,10 +7569,12 @@ It was ________ (勇敢的) of Mary to quit her job and start her own business.
 
 3. *高义频：* **分解；分拆：**  
 
+
 > break the company up into several smaller ones   
 > 把公司分拆成几家小公司
 
 4. *高义频：* **驱散；解散：**  
+
 
 > The police came running and broke up the crowd.  
 > 警察跑过来把人群驱散了。
@@ -7050,6 +7604,7 @@ I was still sleeping when the fire broke ________, and then it spread quickly.
 ---
 1. *高义频：* **休息；暂停；广告时间：**  
 
+
 > **have / take a short break**  
 > have / take a short break  
 > 稍作休息/休息一小会儿
@@ -7063,15 +7618,18 @@ I was still sleeping when the fire broke ________, and then it spread quickly.
 
 2. *高义频：* **短暂的假期；休假：**  
 
+
 > the Christmas / summer break  
 > 圣诞节假期/暑假
 
 3. *高义频：* **裂口；缺口：**  
 
+
 > The sun shone through a break in the clouds.   
 > 阳光透过云层的缝隙照下来。
 
 4. *高义频：* **天亮；拂晓：**  
+
 
 > at the break of day / at daybreak  
 > 拂晓时分
@@ -7087,6 +7645,7 @@ I was still sleeping when the fire broke ________, and then it spread quickly.
 1. **霹雳舞**  
 
 
+
 # ***breakdown*** n
 英音 'breɪkdaʊn     美音 'breɪkdaʊn  
 
@@ -7095,6 +7654,7 @@ I was still sleeping when the fire broke ________, and then it spread quickly.
 英文释义
 ---
 1. **故障**  
+
 
 
 # ***breakfast*** n
@@ -7107,6 +7667,7 @@ I was still sleeping when the fire broke ________, and then it spread quickly.
 英文释义
 ---
 1. *高义频：* **早餐：**  
+
 
 > at breakfast   
 > 在吃早餐
@@ -7130,6 +7691,7 @@ I was still sleeping when the fire broke ________, and then it spread quickly.
 ---
 1. *高义频：* **突破；重大进展 / 发现：**  
 
+
 > **make,breakthrough**  
 > make a great scientific breakthrough  
 > 取得科学上的重大突破
@@ -7147,6 +7709,7 @@ I was still sleeping when the fire broke ________, and then it spread quickly.
 1. *高义频：* **胸 (脯)；乳房**  
 
 
+
 # ***breath*** n
 英音 breθ     美音 breθ  
 
@@ -7157,6 +7720,7 @@ I was still sleeping when the fire broke ________, and then it spread quickly.
 英文释义
 ---
 1. *高义频：* **呼吸；气息：**  
+
 
 > **take a deep breath**  
 > take a deep breath   
@@ -7172,11 +7736,14 @@ I was still sleeping when the fire broke ________, and then it spread quickly.
 - #### catch one’s breath
 1. **缓一口气；歇口气**  
 
+
 - #### hold one’s breath
 1. **屏息；憋住气**  
 
+
 - #### out of breath 
 1. **上气不接下气：**  
+
 
 > Reaching the top of the tower, he was out of breath.  
 > 到了塔顶他就上气不接下气了。
@@ -7204,6 +7771,7 @@ Eric came running into the room, out of b________ .
 ---
 1. *高义频：* **呼吸：**  
 
+
 > When we breathe, the air goes into our lungs.  
 > 吸气时，空气就进入了我们的肺部。
 
@@ -7216,11 +7784,13 @@ Eric came running into the room, out of b________ .
 - #### breathe in 
 1. **吸气；吸入：**  
 
+
 > Breathe in and hold your breath for as long as possible.   
 > 吸气，并尽可能长时间地屏住呼吸。
 
 - #### breathe out 
 1. **呼气；呼出：**  
+
 
 > Take a deep breath and then breathe out when I tell you to.  
 > 深深吸口气，我告诉你时再呼气。
@@ -7249,6 +7819,7 @@ We had great difficulty in ________ (呼吸), for the air was thin.
 ---
 1. *高义频：* **气喘吁吁的；呼吸急促的：**  
 
+
 > I was breathless after climbing the stairs.   
 > 爬上楼梯后我气喘吁吁。
 
@@ -7267,6 +7838,7 @@ breathlessly /'breθləsli/ adv
 1. **令人赞叹的；壮观的；惊险的；吃惊的**  
 
 
+
 # ***breed*** v
 英音 briːd     美音 briːd  
 
@@ -7278,10 +7850,12 @@ breathlessly /'breθləsli/ adv
 ---
 1. *高义频：* **(动物) 繁殖；生育：**  
 
+
 > Rabbits breed quickly.   
 > 兔子繁殖很快。
 
 2. *高义频：* **饲养；培育：**  
+
 
 > breed sheep / corn  
 > 养羊/培育玉米
@@ -7302,6 +7876,7 @@ breathlessly /'breθləsli/ adv
 1. *高义频：* **(动植物的) 品种：**  
 
 
+
 派生词汇
 ---
 breeding /'briːdɪŋ/ n [U]
@@ -7316,6 +7891,7 @@ breeding /'briːdɪŋ/ n [U]
 1. **[U] 繁殖；育种；教养**  
 
 
+
 # ***breeze*** n
 英音 briːz     美音 briːz  
 
@@ -7326,6 +7902,7 @@ breeding /'briːdɪŋ/ n [U]
 英文释义
 ---
 1. *高义频：* **微风；轻风；轻而易举的事：**  
+
 
 > flowers waving in the breeze   
 > 在微风中摇曳的花朵
@@ -7347,6 +7924,7 @@ breeding /'briːdɪŋ/ n [U]
 1. *高义频：* **酿酒厂；啤酒厂**  
 
 
+
 # ***brick*** n
 英音 brɪk     美音 brɪk  
 
@@ -7357,6 +7935,7 @@ breeding /'briːdɪŋ/ n [U]
 英文释义
 ---
 1. *高义频：* **砖；砖块：**  
+
 
 
 # ***bride*** n
@@ -7371,6 +7950,7 @@ breeding /'briːdɪŋ/ n [U]
 1. *高义频：* **新娘；新媳妇**  
 
 
+
 # ***bridegroom*** n
 英音 'braɪdɡruːm     美音 'braɪdɡruːm  
 
@@ -7383,6 +7963,7 @@ breeding /'briːdɪŋ/ n [U]
 1. *高义频：* **新郎**  
 
 
+
 # ***bridge*** n
 英音 brɪdʒ     美音 brɪdʒ  
 
@@ -7392,15 +7973,18 @@ breeding /'briːdɪŋ/ n [U]
 ---
 1. *高义频：* **桥；桥梁：**  
 
+
 > go along / across a bridge   
 > 过桥
 
 2. *高义频：* **起桥梁作用的东西；纽带 (link)：**  
 
+
 > build a bridge to knowledge  
 > 建起通往知识的桥梁
 
 3. *低义频：* **桥牌：**  
+
 
 > play bridge   
 > 打桥牌
@@ -7414,6 +7998,7 @@ breeding /'briːdɪŋ/ n [U]
 英文释义
 ---
 1. *高义频：* **架桥于；把...连接起来；缩短...之间的距离：**  
+
 
 > **bridges the gap between,and**  
 > A snack in the afternoon bridges the gap between lunch and supper.  
@@ -7429,6 +8014,7 @@ breeding /'briːdɪŋ/ n [U]
 ---
 1. *高义频：* **短暂的；简短的；简洁的：**  
 
+
 > during his brief life  
 > 在他短暂的一生中
 
@@ -7441,6 +8027,7 @@ breeding /'briːdɪŋ/ n [U]
 ---
 - #### in brief 
 1. **简言之；总而言之：**  
+
 
 > His success was a long story, but in brief, he succeeded after many failures.  
 > 他的成功说来话长。但简单地说，经历多次失败后，他成功了。
@@ -7460,6 +8047,7 @@ briefly /'briːfli/ adv
 1. *高义频：* **简要地；短暂地**  
 
 
+
 # ***bright*** adj
 英音 braɪt     美音 braɪt  
 
@@ -7469,6 +8057,7 @@ briefly /'briːfli/ adv
 ---
 1. *高义频：* **明亮的；阳光明媚的：**  
 
+
 > a large bright room  
 > 明亮的大房间
 
@@ -7477,10 +8066,12 @@ briefly /'briːfli/ adv
 
 2. *高义频：* **(颜色) 鲜艳的；鲜亮的：**  
 
+
 > I never wear bright colours.   
 > 我从来不穿鲜艳的衣服。
 
 3. *高义频：* **欢快的；生气勃勃的：**  
+
 
 > **bright with**  
 > Her face was bright with happiness.   
@@ -7488,10 +8079,12 @@ briefly /'briːfli/ adv
 
 4. *高义频：* **聪明的；伶俐的：**  
 
+
 > He was bright and curious about the world outside his hometown.   
 > 他天资聪颖，对家乡以外的世界很好奇。
 
 5. *低义频：* **(前途) 光明的 (promising)：**  
+
 
 > **have a bright future**  
 > You have a bright future.   
@@ -7513,6 +8106,7 @@ brightly /brightly/ adv
 1. **颜色鲜艳的，鲜亮的**  
 
 
+
 # ***brighten*** vt
 英音 'braɪtn     美音 'braɪtn  
 
@@ -7521,6 +8115,7 @@ brightly /brightly/ adv
 英文释义
 ---
 1. *高义频：* **(使) 明亮；变开心**  
+
 
 
 # ***brightness*** n
@@ -7535,6 +8130,7 @@ brightly /brightly/ adv
 1. *高义频：* **明亮；亮度；聪颖**  
 
 
+
 # ***brilliant*** adj
 英音 'brɪljənt     美音 'brɪljənt  
 
@@ -7544,11 +8140,13 @@ brightly /brightly/ adv
 ---
 1. *高义频：* **光辉灿烂的：**  
 
+
 > **brilliant sunshine**  
 > in the brilliant sunshine   
 > 在明媚的阳光下
 
 2. *高义频：* **卓越的；杰出的；才华横溢的：**  
+
 
 > a brilliant scientist / musician   
 > 杰出的科学家/才华横溢的音乐家
@@ -7558,6 +8156,7 @@ brightly /brightly/ adv
 > 绝妙的主意／想法／设计
 
 3. *高义频：* **极好的 (BrE)：**  
+
 
 > That’s quite brilliant! How did you do that, may I ask?   
 > 太棒了！请问你是怎么做到的？
@@ -7579,6 +8178,7 @@ brilliantly /'brɪliəntli/ adv
 1. *高义频：* **盈满的；满到边际的**  
 
 
+
 # ***bring*** vt  重难点词汇
 英音 brɪŋ     美音 brɪŋ  
 
@@ -7590,6 +8190,7 @@ brilliantly /'brɪliəntli/ adv
 ---
 1. *高义频：* **带来；拿来：**  
 反义词 take 
+
 - #### bring sb sth / bring sth for sb:
 
 > Bring Helen a present. / Bring a present for Helen.  
@@ -7616,6 +8217,7 @@ brilliantly /'brɪliəntli/ adv
 
 2. *高义频：* **把…引来；引起；导致：**  
 
+
 > Her cries brought the neighbours.  
 > 听到她的叫声，邻居们跑了过来。
 
@@ -7624,6 +8226,7 @@ brilliantly /'brɪliəntli/ adv
 > 听到噩耗，她的双眼充满了泪水。
 
 3. *高义频：* **使处于某种状况：**  
+
 
 > The firefighters brought the fire under control.   
 > 消防员控制了火势。
@@ -7639,17 +8242,20 @@ brilliantly /'brɪliəntli/ adv
 1. **引起； 造成**  
 to make sth happen (cause)：
 
+
 > Science has brought about many changes in our lives.   
 > 科学给我们的生活带来了诸多变化。
 
 - #### bring along 
 1. **带来；带上：**  
 
+
 > Students must bring along two bottles of water to prevent thirst.  
 > 同学们必须带上两瓶水以防口渴。
 
 - #### bring back
 1. **把…带回来；使回忆起来；使恢复：**  
+
 
 > Could you bring my calculator back?  
 > 你能把我的计算器带回来吗？
@@ -7663,6 +8269,7 @@ to make sth happen (cause)：
 - #### bring down 
 1. **降低；使倒下；使（飞机）降落 (land)：**  
 
+
 > The government has taken measures to bring down the high prices of daily goods to keep the market stable.  
 > 为了保持市场稳定，政府已经采取措施降低日用品的高价格。
 
@@ -7675,10 +8282,12 @@ to make sth happen (cause)：
 - #### bring forward
 1. *高义频：* **把…提前：**  
 
+
 > The meeting has been brought forward from 10 May to 3 May.   
 > 会议从5月10日提前到5月3日。
 
 2. *高义频：* **提出 (建议、论据等)：**  
+
 
 > The young engineer brought forward a new design.   
 > 年轻的工程师提出了一个新的设计方案。
@@ -7686,15 +8295,18 @@ to make sth happen (cause)：
 - #### bring in
 1. *高义频：* **推行；引入；引进 (新的法律)：**  
 
+
 > The government plans to bring in new laws forcing parents to take more responsibility for the education of their children.   
 > 政府计划推行新法，强制父母对子女的教育承担更多责任。
 
 2. *低义频：* **请...做；让...参与：**  
 
+
 > Researchers were brought in from all over China to develop the new system.   
 > 中国各地的专家都被请来研发这个新系统。
 
 3. *低义频：* **赚得；挣得：**  
+
 
 > His work brings (him) in 1,000 dollars a month.  
 > 他每月有1000美元的工作收入。
@@ -7702,11 +8314,13 @@ to make sth happen (cause)：
 - #### bring on
 1. *低义频：* **使提高；使进步：**  
 
+
 > More study should bring on your English.   
 > 努力学习会提高你的英语水平。
 
 2. *低义频：* **引起；导致**  
 to make sth bad or unpleasant happen：
+
 
 > Stress can bring on illness.   
 > 压力会引起疾病。
@@ -7714,11 +8328,13 @@ to make sth bad or unpleasant happen：
 - #### bring out
 1. *高义频：* **使表现出：**  
 
+
 > **bring out our best**  
 > He never criticized us, but used praise to bring out our best.   
 > 他从不批评我们，而是用称赞使我们表现出最好的一面。
 
 2. *低义频：* **说出；阐明：**  
+
 
 > Most of us can forgive each other when differences are brought out in the open.   
 > 当公开说明分歧时，我们大都能彼此原谅。
@@ -7728,21 +8344,25 @@ to make sth bad or unpleasant happen：
 
 3. *高义频：* **出版：**  
 
+
 > They brought out a set of children’s books.   
 > 他们出版了一套儿童读物。
 
 - #### bring up
 1. *高义频：* **抚养；养育；教养 (raise)：**  
 
+
 > His father died when he was young, and he was brought up by his mother.  
 > 在他年幼时父亲就去世了，他是由母亲抚养长大的。
 
 2. *高义频：* **提出 (讨论等)(raise)：**  
 
+
 > Every time I bring the matter up, he changes the subject.   
 > 每当我提起这件事，他就会转移话题。
 
 3. *低义频：* **呕吐：**  
+
 
 > He brought up all his dinner.   
 > 他把吃的饭全都吐出来了。
@@ -7773,6 +8393,7 @@ The Internet has brought ________ big changes in the way we work.
 1. **边缘**  
 
 
+
 # ***broad*** adj
 英音 brɔːd     美音 brɔːd  
 
@@ -7782,6 +8403,7 @@ The Internet has brought ________ big changes in the way we work.
 ---
 1. *高义频：* **宽阔的；广阔的：**  
 反义词 narrow 
+
 > a broad street  
 > 宽广的街道
 
@@ -7794,11 +8416,13 @@ The Internet has brought ________ big changes in the way we work.
 
 2. *低义频：* **广泛的：**  
 反义词 narrow 
+
 > **broad range**  
 > Students here study a broad range of subjects.   
 > 这里的学生所学的科目范围很广。
 
 3. *高义频：* **概括性的；粗略的：**  
+
 
 > **broad outline**  
 > She showed us the broad outline of a new project.   
@@ -7809,6 +8433,7 @@ The Internet has brought ________ big changes in the way we work.
 ---
 - #### in broad daylight 
 1. **在光天化日之下**  
+
 
 ### 辨析 broad, wide
 两者都有“宽的”之意。　
@@ -7839,6 +8464,7 @@ broadly /'brɔːdli/ adv
 ---
 1. *高义频：* **vt & vi广播；播送：**  
 
+
 > **broadcast live**  
 > The concert was broadcast live and attracted the largest audience in the history.  
 > 演唱会现场直播，并吸引了有史以来最多的观众。
@@ -7862,6 +8488,7 @@ This football game was ________ (播出) live on TV across Europe.
 ---
 1. *高义频：* **广播节目；电视节目：**  
 
+
 > a news broadcast  
 > 一档新闻栏目
 
@@ -7880,6 +8507,7 @@ This football game was ________ (播出) live on TV across Europe.
 1. **（无线电和电视的）节目制作和播放；广播**  
 
 
+
 # ***brochure*** n
 英音 'brəʊʃə(r)     美音 broʊ'ʃʊr  
 
@@ -7892,6 +8520,7 @@ This football game was ________ (播出) live on TV across Europe.
 1. *高义频：* **小册子**  
 
 
+
 # ***broken*** adj
 英音 'brəʊkən     美音 'broʊkən  
 
@@ -7900,6 +8529,7 @@ This football game was ________ (播出) live on TV across Europe.
 英文释义
 ---
 1. *高义频：* **破碎的；损坏的；折断的：**  
+
 
 > **a broken heart**  
 > a broken heart   
@@ -7916,21 +8546,25 @@ This football game was ________ (播出) live on TV across Europe.
 
 2. *高义频：* **(关系) 破裂的：**  
 
+
 > **broken marriage / home**  
 > a broken marriage / home   
 > 破裂的婚姻/家庭
 
 3. *高义频：* **断断续续的：**  
 
+
 > broken time   
 > 零星时间
 
 4. *高义频：* **遭违背的：**  
 
+
 > a broken promise   
 > 背弃的诺言
 
 5. *低义频：* **不流利的：**  
+
 
 > **broken English**  
 > broken English   
@@ -7947,6 +8581,7 @@ This football game was ________ (播出) live on TV across Europe.
 1. **支气管炎**  
 
 
+
 # ***bronze*** n
 英音 brɒnz     美音 brɑːnz  
 
@@ -7955,6 +8590,7 @@ This football game was ________ (播出) live on TV across Europe.
 英文释义
 ---
 1. *高义频：* **[U] 青铜；[C] & [U] 铜牌**  
+
 
 
 # ***broom*** n
@@ -7967,6 +8603,7 @@ This football game was ________ (播出) live on TV across Europe.
 英文释义
 ---
 1. *高义频：* **扫帚：**  
+
 
 > A new broom sweeps clean.   
 > 新官上任三把火。
@@ -7984,6 +8621,7 @@ This football game was ________ (播出) live on TV across Europe.
 1. *高义频：* **兄弟；同胞；同事**  
 
 
+
 派生词汇
 ---
 brotherhood /'brʌðərhʊd/ n [U] 
@@ -7998,6 +8636,7 @@ brotherhood /'brʌðərhʊd/ n [U]
 1. *高义频：* **褐色的；棕色的**  
 
 
+
 # ***brown*** n
 英音 braʊn     美音 braʊn  
 
@@ -8008,6 +8647,7 @@ brotherhood /'brʌðərhʊd/ n [U]
 英文释义
 ---
 1. *高义频：* **棕色；褐色**  
+
 
 
 # ***bruise*** n
@@ -8022,6 +8662,7 @@ brotherhood /'brʌðərhʊd/ n [U]
 1. *高义频：* **瘀伤；擦伤**  
 
 
+
 # ***bruise*** vi
 英音 bruːz     美音 bruːz  
 
@@ -8030,6 +8671,7 @@ brotherhood /'brʌðərhʊd/ n [U]
 英文释义
 ---
 1. *高义频：* **(使)碰伤，(使) 成瘀伤**  
+
 
 
 # ***brunch*** n
@@ -8044,6 +8686,7 @@ brotherhood /'brʌðərhʊd/ n [U]
 1. *高义频：* **早午餐 (早吃的午餐或晚吃的早餐)**  
 
 
+
 # ***brush*** n
 英音 brʌʃ     美音 brʌʃ  
 
@@ -8054,6 +8697,7 @@ brotherhood /'brʌðərhʊd/ n [U]
 英文释义
 ---
 1. *高义频：* **刷子；画笔；刷状物：**  
+
 
 > a toothbrush / paintbrush   
 > 牙刷/画笔
@@ -8068,6 +8712,7 @@ brotherhood /'brʌðərhʊd/ n [U]
 ---
 1. *高义频：* **刷；擦：**  
 
+
 > Brush your teeth / shoes.  
 > 刷牙/刷刷你的鞋子。
 
@@ -8076,6 +8721,7 @@ brotherhood /'brʌðərhʊd/ n [U]
 > 他们用小扫帚扫去落到小洞里的雪。
 
 2. *低义频：* **擦过；掠过：**  
+
 
 > The light wind gently brushed my cheeks.   
 > 微风轻拂着我的面颊。
@@ -8097,6 +8743,7 @@ brotherhood /'brʌðərhʊd/ n [U]
 1. *高义频：* **气泡；泡沫**  
 
 
+
 # ***bubble*** v
 英音 'bʌbl     美音 'bʌbl  
 
@@ -8105,6 +8752,7 @@ brotherhood /'brʌðərhʊd/ n [U]
 英文释义
 ---
 1. **起泡；沸腾；汩汩的流动**  
+
 
 
 # ***bucket*** n
@@ -8117,6 +8765,7 @@ brotherhood /'brʌðərhʊd/ n [U]
 英文释义
 ---
 1. *高义频：* **桶；水桶：**  
+
 
 > a bucket of water   
 > 一桶水
@@ -8132,6 +8781,7 @@ brotherhood /'brʌðərhʊd/ n [U]
 1. **（花、枝、叶等的）苞，蓓蕾**  
 
 
+
 # ***budget*** n
 英音 'bʌdʒɪt     美音 'bʌdʒɪt  
 
@@ -8142,6 +8792,7 @@ brotherhood /'brʌðərhʊd/ n [U]
 英文释义
 ---
 1. *高义频：* **预算 (案)：**  
+
 
 > a family / monthly budget  
 > 家庭/每月预算
@@ -8165,6 +8816,7 @@ brotherhood /'brʌðərhʊd/ n [U]
 1. **制定预算；按预算来安排**  
 
 
+
 # ***buffet*** n
 英音 'bʊfeɪ; 'bʌfeɪ     美音 bə'feɪ  
 
@@ -8175,6 +8827,7 @@ brotherhood /'brʌðərhʊd/ n [U]
 英文释义
 ---
 1. *高义频：* **n [C]自助餐；（车站等处的）餐室；餐饮柜台：**  
+
 
 > **buffet lunch**  
 > a buffet lunch 自助午餐  
@@ -8191,6 +8844,7 @@ brotherhood /'brʌðərhʊd/ n [U]
 英文释义
 ---
 1. *高义频：* **n [C] 虫子；［非正式用语］小疾病；（计算机程序等的）故障：**  
+
 
 > **flu bug**  
 > a flu bug  
@@ -8215,12 +8869,14 @@ brotherhood /'brʌðərhʊd/ n [U]
 ---
 1. *高义频：* **建 (房)；建造：**  
 
+
 > **is built of**  
 > The house is built of bricks.   
 > 那是座砖砌的房子。
 
 2. *高义频：* **创建 (事业)；树立 (名声)；培养：**  
 to create or develop sth：
+
 
 > build a reputation as a lawyer   
 > 树立律师的声望
@@ -8236,6 +8892,7 @@ to create or develop sth：
 
 3. *低义频：* **vi & vt 发展；加强 (build up)：**  
 
+
 > The wind began to build.  
 > 风力开始增强
 
@@ -8248,6 +8905,7 @@ to create or develop sth：
 - #### build on / upon
 1. **在…基础上发展；把…作为… 的基础：**  
 
+
 > The future builds on the past.  
 > 未来立足于过去。
 
@@ -8256,6 +8914,7 @@ to create or develop sth：
 
 - #### build up
 1. **树立；逐步建立；增强：**  
+
 
 > He has built (up) his business over the years.  
 > 这些年来他逐步建立起了自己的生意。
@@ -8290,6 +8949,7 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 ---
 1. *高义频：* **体格；体型；身材：**  
 
+
 > **strong build**  
 > a man of strong build   
 > 体格健壮的人
@@ -8305,6 +8965,7 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 1. **增强；积聚；积累；宣传；吹捧；组成；堆起**  
 
 
+
 # ***building*** n
 英音 'bɪldɪŋ     美音 'bɪldɪŋ  
 
@@ -8314,6 +8975,7 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 ---
 1. *高义频：* **建筑物；房屋：**  
 
+
 > the administration / dormitory / teaching building  
 > 行政/宿舍/教学楼
 
@@ -8321,6 +8983,7 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 > 金字塔是用石头建成的。
 
 2. *高义频：* **建造；建筑术：**  
+
 
 > The building of the hotel took seven months.   
 > 这家宾馆的修建耗时7个月。
@@ -8336,6 +8999,7 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 1. **内置的，嵌入式的**  
 
 
+
 # ***bulb*** n
 英音 bʌlb     美音 bʌlb  
 
@@ -8346,6 +9010,7 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 英文释义
 ---
 1. *高义频：* **电灯泡**  
+
 
 
 # ***bull*** n
@@ -8360,6 +9025,7 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 1. *高义频：* **公牛**  
 
 
+
 # ***bullet*** n
 英音 'bʊlɪt     美音 'bʊlɪt  
 
@@ -8372,6 +9038,7 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 1. *高义频：* **子弹；弹丸**  
 
 
+
 # ***bulletin*** n
 英音 'bʊlətɪn     美音 'bʊlətɪn  
 
@@ -8380,6 +9047,7 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 英文释义
 ---
 1. **小型报刊; 短新闻; 报告**  
+
 
 
 # ***bump*** v
@@ -8392,6 +9060,7 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 英文释义
 ---
 1. *高义频：* **(使) 撞击；碰撞：**  
+
 
 > **bump,on**  
 > Be careful not to bump your head on the low roof.  
@@ -8406,6 +9075,7 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 ---
 - #### bump into 
 1. **［非正式用语］撞见；不期而遇 (run into)：**  
+
 
 > Guess who I bumped into this afternoon?  
 > 你猜今天下午我撞见了谁？
@@ -8422,6 +9092,7 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 ---
 1. *高义频：* **碰；撞；撞击 (声)：**  
 
+
 > fall to the ground with a bump  
 > 砰的一声摔倒在地
 
@@ -8436,6 +9107,7 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 英文释义
 ---
 1. *高义频：* **束；串；(口语) 一群：**  
+
 
 > **bunch of flowers**  
 > a bunch of flowers / bananas  
@@ -8454,6 +9126,7 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 1. *高义频：* **平房**  
 
 
+
 # ***burden*** n
 英音 'bɜːdn     美音 'bɜːrdn  
 
@@ -8464,6 +9137,7 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 英文释义
 ---
 1. *高义频：* **担子；重担；(精神) 负担：**  
+
 
 > **carry / ease / share the burden**  
 > carry / ease / share the burden  
@@ -8482,6 +9156,7 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 ---
 1. *高义频：* **使负重；使负重担：**  
 
+
 > **be burdened with**  
 > be burdened with heavy debts  
 > 承担沉重的债务
@@ -8495,6 +9170,7 @@ Bears build ________ fat stores throughout the summer and fall to have energy en
 英文释义
 ---
 1. *高义频：* **官僚 (政治) 的；官僚主义的**  
+
 
 
 派生词汇
@@ -8512,6 +9188,7 @@ bureaucracy /bjʊ'rɑːkrəsi/ n [U]
 ---
 1. *高义频：* **窃贼；夜盗：**  
 
+
 > a burglar alarm  
 > 防盗报警器
 
@@ -8526,6 +9203,7 @@ bureaucracy /bjʊ'rɑːkrəsi/ n [U]
 1. **盗窃；窃案；盗窃罪**  
 
 
+
 # ***burn*** v
 英音 bɜːn     美音 bɜːrn  
 
@@ -8536,6 +9214,7 @@ bureaucracy /bjʊ'rɑːkrəsi/ n [U]
 英文释义
 ---
 1. *高义频：* **(使) 燃烧；(使) 烧着：**  
+
 
 > The wood is wet, so it won’t burn.  
 > 木头潮湿，所以点不着。
@@ -8548,11 +9227,13 @@ bureaucracy /bjʊ'rɑːkrəsi/ n [U]
 
 2. *高义频：* **烧毁；烧坏；烧死：**  
 
+
 > **burned,to the ground**  
 > A fire burned the library to the ground.  
 > 一场火把图书馆夷为平地。
 
 3. *高义频：* **烧糊；烧焦：**  
+
 
 > I can smell something burning in the kitchen.   
 > 我闻到厨房里有东西烧焦了。
@@ -8561,6 +9242,7 @@ bureaucracy /bjʊ'rɑːkrəsi/ n [U]
 > 不幸的是，我在和朋友谈话时把香肠烤糊了。
 
 4. *高义频：* **(使) 烧伤；(使) 烫伤；(使) 晒伤：**  
+
 
 > Some household chemicals can burn your skin.  
 > 一些家用化学品能烧伤皮肤。
@@ -8574,6 +9256,7 @@ bureaucracy /bjʊ'rɑːkrəsi/ n [U]
 
 5. *低义频：* **发热；放光；发烫：**  
 
+
 > All the lights were burning.  
 > 所有的灯都亮着。
 
@@ -8586,17 +9269,20 @@ bureaucracy /bjʊ'rɑːkrəsi/ n [U]
 - #### burn down
 1. **(使) 烧成平地；烧毁：**  
 
+
 > If you forgot to turn off the iron when you went away, you might burn down the house.  
 > 如果你走开时忘了关掉熨斗，那么你有可能烧毁房子。
 
 - #### burn out
 1. **烧坏；燃尽：**  
 
+
 > My candle was almost burnt out.  
 > 我的蜡烛就要燃尽了。
 
 - #### burn the midnight oil 
 1. **挑灯夜战；开夜车**  
+
 
 
 # ***burn*** n
@@ -8609,6 +9295,7 @@ bureaucracy /bjʊ'rɑːkrəsi/ n [U]
 英文释义
 ---
 1. *高义频：* **烧伤；烫伤；烧伤处**  
+
 
 
 派生词汇
@@ -8626,6 +9313,7 @@ burnt /bɜːrnt/ adj
 ---
 1. *高义频：* **(使) 爆裂；(使) 爆炸：**  
 
+
 > In the city, the water pipes in some buildings cracked and burst.  
 > 在市内，有些楼里的水管爆裂开来。
 
@@ -8636,6 +9324,7 @@ burnt /bɜːrnt/ adj
 > 他挣断了束缚自己的锁链。
 
 2. *高义频：* **突然出现：**  
+
 
 > **burst into**  
 > The police burst into the house and arrested the gang.  
@@ -8650,11 +9339,13 @@ burnt /bɜːrnt/ adj
 - #### burst in on / upon
 1. **突然闯入而打断：**  
 
+
 > burst in on a meeting  
 > 突然闯入打断会议
 
 - #### burst into 
 1. **突然迸发：**  
+
 
 > **burst into tears / laughter / cheers**  
 > They burst into tears / laughter / cheers.  
@@ -8662,6 +9353,7 @@ burnt /bɜːrnt/ adj
 
 - #### burst out
 1. **突然大声喊叫；突然……起来：**  
+
 
 > burst out crying / laughing / cheering   
 > 突然大哭/大笑/欢呼起来
@@ -8677,6 +9369,7 @@ burnt /bɜːrnt/ adj
 英文释义
 ---
 1. *高义频：* **爆裂；爆炸；迸发；突发：**  
+
 
 > the burst of a bomb  
 > 炸弹爆炸
@@ -8694,10 +9387,12 @@ burnt /bɜːrnt/ adj
 ---
 1. *高义频：* **埋葬：**  
 
+
 > We needed to bury the dead bodies as quickly as possible to stop disease spreading.  
 > 我们需要尽快将尸体埋葬，以防止疾病扩散。
 
 2. *高义频：* **埋藏；掩藏；遮盖：**  
+
 
 > **buried,in**  
 > The dog buried the bone in the ground.   
@@ -8712,6 +9407,7 @@ burnt /bɜːrnt/ adj
 ---
 - #### be buried in / bury oneself in
 1. **埋头于；专心致志于：**  
+
 
 > As you know, I’m still buried in books at the school you are so familiar with.   
 > 如你所知，我还在你所熟悉的那所学校埋头读书。
@@ -8729,6 +9425,7 @@ burnt /bɜːrnt/ adj
 1. *高义频：* **公共汽车**  
 
 
+
 # ***bush*** n
 英音 bʊʃ     美音 bʊʃ  
 
@@ -8741,6 +9438,7 @@ burnt /bɜːrnt/ adj
 1. *高义频：* **矮灌木；灌木丛**  
 
 
+
 # ***business*** n
 英音 'bɪznəs     美音 'bɪznəs  
 
@@ -8750,6 +9448,7 @@ burnt /bɜːrnt/ adj
 ---
 1. *高义频：* **商业；生意**  
 the buying or selling of goods or services for money (commerce / trade)：
+
 
 > **go into business**  
 > go into business  
@@ -8768,12 +9467,14 @@ the buying or selling of goods or services for money (commerce / trade)：
 
 2. *高义频：* **营业额；生意额：**  
 
+
 > **Business is slow**  
 > Business is slow during the third quarter.  
 > 第三季度生意清淡。
 
 3. *高义频：* **商务；公事**  
  the work you do as your job：
+
 
 > **business lunch**  
 > We discussed the idea over a business lunch.   
@@ -8784,6 +9485,7 @@ the buying or selling of goods or services for money (commerce / trade)：
 > 我回来时，父亲已去伦敦出差了，所以我没能见到他。
 
 4. *高义频：* **职责；事务：**  
+
 
 > A teacher’s business is to teach.   
 > 老师的职责是教学。
@@ -8802,12 +9504,14 @@ the buying or selling of goods or services for money (commerce / trade)：
 
 5. *低义频：* **事情：**  
 
+
 > **a serious business**  
 > Leon regards keeping fit as a serious business.  
 > 莱昂认为保持健康很重要。
 
 6. *高义频：* **公司；店铺；企业**  
  (firm / company)：
+
 
 > **start a business**  
 > The book is about how to design a website and start a business.  
@@ -8823,14 +9527,17 @@ the buying or selling of goods or services for money (commerce / trade)：
 - #### get down to business
 1. **着手处理正事；开始认真办事：**  
 
+
 > English and German cultures share similar values; however, Germans prefer to get down to business more quickly.   
 > 英德文化有相似的价值观，然而，德国人更喜欢尽快办正事。
 
 - #### mean business
 1. **［非正式用语］是认真的；是当真的**  
 
+
 - #### out of business
 1. **停业；倒闭：**  
+
 
 > One day, the boss told us that the company was out of business.   
 > 一天，老板告诉我们公司倒闭了。
@@ -8848,6 +9555,7 @@ the buying or selling of goods or services for money (commerce / trade)：
 1. *高义频：* **(pl businessmen) 商人；实业家**  
 
 
+
 # ***businesswoman*** n
 英音 'bɪznəswʊmən     美音 'bɪznəswʊmən  
 
@@ -8860,6 +9568,7 @@ the buying or selling of goods or services for money (commerce / trade)：
 1. *高义频：* **(pl businesswomen) 女商人；女实业家**  
 
 
+
 # ***busy*** adj
 英音 'bɪzi     美音 'bɪzi  
 
@@ -8868,6 +9577,7 @@ the buying or selling of goods or services for money (commerce / trade)：
 英文释义
 ---
 1. *高义频：* **忙的；忙碌的：**  
+
 
 - #### (be) busy with sth / sb:
 
@@ -8884,6 +9594,7 @@ the buying or selling of goods or services for money (commerce / trade)：
 
 2. *高义频：* **繁忙的 (一段时间)； 热闹的 (地点)：**  
 
+
 > a busy morning / spring  
 > 繁忙的早上/春天
 
@@ -8891,6 +9602,7 @@ the buying or selling of goods or services for money (commerce / trade)：
 > 圣诞节前商店里很热闹。
 
 3. *高义频：* **(尤指电话线) 被占用的；没空的：**  
+
 
 > I’m sorry, sir. The line is busy.  
 > 对不起，先生，电话占线。
@@ -8909,6 +9621,7 @@ the buying or selling of goods or services for money (commerce / trade)：
 ---
 1. *高义频：* **但是；可是；而 (是)：**  
 
+
 > At the end of the day, we were tired but happy.  
 > 那天结束时，我们很累，但很快乐。
 
@@ -8917,6 +9630,7 @@ the buying or selling of goods or services for money (commerce / trade)：
 > 对不起，我可以借用你的电话吗？
 
 2. *高义频：* **除……外：**  
+
 
 > I had no other choice but to eat out.  
 > 我没有别的选择，只能在外面吃饭。
@@ -8938,6 +9652,7 @@ I work not because I have to, _________ because I want to.
 ---
 1. *高义频：* **除了(except)：**  
 
+
 > There’s no one here but me.  
 > 这里除了我没别人。
 
@@ -8951,6 +9666,7 @@ I work not because I have to, _________ because I want to.
 ---
 1. *高义频：* **仅仅；只 (only)：**  
 
+
 > He is but a child.  
 > 他只是个孩子。
 
@@ -8963,11 +9679,13 @@ I work not because I have to, _________ because I want to.
 - #### but for
 1. **[接名词，谓语动词常用虚拟语气] 倘没有；若不是：**  
 
+
 > But for your help, I could not have succeeded.  
 > 如果没有你的帮助，我不可能成功。
 
 - #### but then (again)
 1. **不过；另一方面：**  
+
 
 > She speaks very good English. But then she did live in London for two years.  
 > 她英语讲得很好，不过她毕竟在伦敦生活过两年。
@@ -8996,6 +9714,7 @@ D.but for
 1. *高义频：* **屠夫；卖肉者**  
 
 
+
 # ***butcher*** vt
 英音 'bʊtʃə(r)     美音 'bʊtʃər  
 
@@ -9004,6 +9723,7 @@ D.but for
 英文释义
 ---
 1. *高义频：* **屠宰；屠杀**  
+
 
 
 # ***butter*** n
@@ -9018,6 +9738,7 @@ D.but for
 1. *高义频：* **黄油**  
 
 
+
 # ***butter*** vt
 英音 'bʌtə(r)     美音 'bʌtər  
 
@@ -9026,6 +9747,7 @@ D.but for
 英文释义
 ---
 1. **涂黄油于**  
+
 
 
 # ***butterfly*** n
@@ -9040,6 +9762,7 @@ D.but for
 1. *高义频：* **蝴蝶**  
 
 
+
 # ***button*** n
 英音 'bʌtn     美音 'bʌtn  
 
@@ -9051,10 +9774,12 @@ D.but for
 ---
 1. *高义频：* **纽扣：**  
 
+
 > A button has come off.  
 > 掉了一颗纽扣。
 
 2. *高义频：* **按钮 / 开关：**  
+
 
 > click / press / push / touch the button  
 > 按按钮
@@ -9068,6 +9793,7 @@ D.but for
 英文释义
 ---
 1. *高义频：* **vt & vi 扣上扣子；（把……）扣紧：**  
+
 
 > button one’s coat  
 > 把外衣纽扣扣紧
@@ -9087,6 +9813,7 @@ D.but for
 ---
 1. *高义频：* **vt & vi 买；购买：**  
 反义词 sell 
+
 > When prices are low, he buys.  
 > 一降价，他就去购物。
 
@@ -9104,10 +9831,12 @@ D.but for
 
 2. *低义频：* **（付出一定代价）获得：**  
 
+
 > He bought fame at the cost of his health and happiness.  
 > 他牺牲健康和幸福换来了名声。
 
 3. *低义频：* **［非正式用语］相信：**  
+
 
 > **buy it**  
 > He said it was a mistake, but I don’t buy it.  
@@ -9118,6 +9847,7 @@ D.but for
 ---
 - #### buy up
 1. **迅速地囤积；大量买下**  
+
 
 
 派生词汇
@@ -9132,6 +9862,7 @@ buyer /baɪər/ n [C]
 英文释义
 ---
 1. *高义频：* **发出嗡嗡声:**  
+
 
 > Bees were buzzing around the picnic tables.  
 > 蜜蜂嗡嗡地围着野餐桌。
@@ -9149,6 +9880,7 @@ buyer /baɪər/ n [C]
 1. *高义频：* **嗡嗡声；蜂鸣声；叽叽喳喳的说话声；嘈杂声**  
 
 
+
 # ***by*** prep
 英音 baɪ     美音 baɪ  
 
@@ -9158,12 +9890,14 @@ buyer /baɪər/ n [C]
 ---
 1. *高义频：* **在...旁；靠近：**  
 
+
 > Come and sit by me.   
 > 过来坐在我身旁。
 
 ### 辨析 by, near
 二者都可作介词，表示“在附近”，但也有细微差别。
 2. *高义频：* **在…之前；在…期间：**  
+
 
 > by day / night  
 > 在白天/夜间
@@ -9176,6 +9910,7 @@ buyer /baɪər/ n [C]
 
 3. *高义频：* **被；由：**  
 
+
 > The play was written by Shakespeare.   
 > 此剧为莎士比亚所著。
 
@@ -9183,6 +9918,7 @@ buyer /baɪər/ n [C]
 > 勤洗手是避免疾病传染的有效方法之一。
 
 4. *高义频：* **用；凭借；通过：**  
+
 
 > by bus / boat / air  
 > 乘公共汽车/船/飞机
@@ -9192,10 +9928,12 @@ buyer /baɪər/ n [C]
 
 5. *高义频：* **抓着 (物体或身体的某个部位)：**  
 
+
 > I caught him by the arm.  
 > 我抓住了他的胳膊。
 
 6. *高义频：* **由于：**  
+
 
 > We met by chance at the airport.  
 > 我们在机场不期而遇。
@@ -9205,6 +9943,7 @@ buyer /baɪər/ n [C]
 
 7. *高义频：* **经由；经过：**  
 
+
 > I’ll go to Japan by Canada.  
 > 我将经加拿大去日本。
 
@@ -9212,6 +9951,7 @@ buyer /baɪər/ n [C]
 > 他从我身旁走过，没注意到我。
 
 8. *高义频：* **相差：**  
+
 
 > increase by 30%  
 > 增长30%
@@ -9221,10 +9961,12 @@ buyer /baɪər/ n [C]
 
 9. *高义频：* **根据；按：**  
 
+
 > We are paid by the hour.  
 > 我们按小时计酬。
 
 10. *高义频：* **长…宽；用…乘 / 除：**  
+
 
 > The box is 40 cm by 60 cm.  
 > 这个盒子40厘米宽，60厘米长。
@@ -9236,6 +9978,7 @@ buyer /baɪər/ n [C]
 > 20除以5
 
 11. *高义频：* **：**  
+
 
 > day by day / one by one / step by step  
 > 一天天/一个接一个/一步步
@@ -9273,6 +10016,7 @@ A great man shows his greatness ________ the way he treats little men.
 ---
 1. *高义频：* **在近旁；经过：**  
 
+
 > Don’t stand by.  
 > 不要袖手旁观。
 
@@ -9280,6 +10024,7 @@ A great man shows his greatness ________ the way he treats little men.
 > 一群孩子从旁边过去。
 
 2. *高义频：* **过去地；已往：**  
+
 
 > The happy days went by.  
 > 那些快乐的日子过去了。
@@ -9290,8 +10035,10 @@ A great man shows his greatness ________ the way he treats little men.
 - #### by and by
 1. **不久以后**  
 
+
 - #### by and large
 1. **大体上；总体上**  
+
 
 
 # ***bye*** int
@@ -9304,6 +10051,7 @@ A great man shows his greatness ________ the way he treats little men.
 1. *高义频：* **再见**  
 
 
+
 # ***byproduct*** n
 英音 'baɪˌprɒdʌkt     美音 'baɪˌprɒdəkt  
 
@@ -9314,5 +10062,6 @@ A great man shows his greatness ________ the way he treats little men.
 英文释义
 ---
 1. *高义频：* **副产品**  
+
 
 

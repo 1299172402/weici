@@ -12,6 +12,7 @@
 1. *高义频：* **兔子**  
 
 
+
 # ***race*** n
 英音 reɪs     美音 reɪs  
 
@@ -21,6 +22,7 @@
 ---
 1. *高义频：* **[C] (速度的) 比赛；竞赛：**  
 
+
 > compete in / drop out of a race   
 > 参加/退出比赛
 
@@ -29,6 +31,7 @@
 > 要在12月之前完成这个项目，我们需要争分夺秒。
 
 2. *高义频：* **[U] 竞争：**  
+
 
 > The race is on to develop more environmentally friendly forms of energy.   
 > 人们正在竞相开发更加环保的能源。
@@ -44,6 +47,7 @@
 英文释义
 ---
 1. *高义频：* **(与...) 赛跑；(与...) 竞争：**  
+
 
 > I’ll race you to the corner.  
 > 我和你比赛看谁先跑到拐弯处。
@@ -62,10 +66,12 @@ racing /'reɪsɪŋ/
 ---
 1. *高义频：* **[C] & [U] 种族；人种：**  
 
+
 > Our nation welcomes people of all races, colors, and religions.   
 > 我们国家欢迎不同种族、肤色和宗教信仰的人。
 
 2. *低义频：* **[C] (生物的) 种；属；类：**  
+
 
 > **The human race**  
 > The human race is using up Earth’s resources.   
@@ -82,6 +88,7 @@ racing /'reɪsɪŋ/
 1. **赛车手**  
 
 
+
 # ***racial*** adj
 英音 'reɪʃl     美音 'reɪʃl  
 
@@ -90,6 +97,7 @@ racing /'reɪsɪŋ/
 英文释义
 ---
 1. *高义频：* **人种的；种族的：**  
+
 
 > racial discrimination   
 > 种族歧视
@@ -105,6 +113,7 @@ racing /'reɪsɪŋ/
 1. **种族主义**  
 
 
+
 # ***radar*** n
 英音 'reɪdɑː(r)     美音 'reɪdɑːr  
 
@@ -117,6 +126,7 @@ racing /'reɪsɪŋ/
 1. *高义频：* **雷达**  
 
 
+
 # ***radiation*** n
 英音 ˌreɪdi'eɪʃn     美音 ˌreɪdi'eɪʃn  
 
@@ -127,6 +137,7 @@ racing /'reɪsɪŋ/
 英文释义
 ---
 1. *高义频：* **放射；辐射：**  
+
 
 > nuclear radiation   
 > 核辐射
@@ -143,6 +154,7 @@ racing /'reɪsɪŋ/
 ---
 1. *高义频：* **[U] 无线电； (无线电) 广播节目：**  
 
+
 > **by radio**  
 > send a message by radio  
 > 用无线电发报
@@ -152,6 +164,7 @@ racing /'reɪsɪŋ/
 > 我们从无线电广播中听到这条新闻。
 
 2. *高义频：* **[C] 无线电报；收音机：**  
+
 
 > turn / switch on / off the radio  
 > 开 / 关收音机
@@ -170,6 +183,7 @@ racing /'reɪsɪŋ/
 1. *高义频：* **放射性的**  
 
 
+
 # ***radioactivity*** n
 英音 ˌreɪdiəʊæk'tɪvəti     美音 ˌreɪdiəʊæk'tɪvəti  
 
@@ -180,6 +194,7 @@ racing /'reɪsɪŋ/
 英文释义
 ---
 1. *高义频：* **放射性**  
+
 
 
 # ***radium*** n
@@ -194,6 +209,7 @@ racing /'reɪsɪŋ/
 1. *高义频：* **镭(符号Ra)**  
 
 
+
 # ***raft*** n
 英音 rɑːft     美音 ræft  
 
@@ -202,6 +218,7 @@ racing /'reɪsɪŋ/
 英文释义
 ---
 1. **木排；木筏**  
+
 
 
 # ***rag*** n
@@ -216,10 +233,12 @@ racing /'reɪsɪŋ/
 1. *高义频：* **抹布；破布**  
 
 
+
 固定搭配
 ---
 - #### in rags 
 1. **衣衫褴褛：**  
+
 
 
 # ***raid*** n
@@ -232,6 +251,7 @@ racing /'reɪsɪŋ/
 1. **（警方的）突击搜查**  
 
 
+
 # ***raid*** vt
 英音 reɪd     美音 reɪd  
 
@@ -240,6 +260,7 @@ racing /'reɪsɪŋ/
 英文释义
 ---
 1. **（警方的）突击搜查**  
+
 
 
 # ***rail*** n
@@ -251,13 +272,16 @@ racing /'reɪsɪŋ/
 ---
 1. *高义频：* **[U] 铁路（系统）：**  
 
+
 > **by,rail**  
 > I can’t make up my mind whether to go by road or rail.   
 > 我不知道该乘汽车还是火车去。
 
 2. *高义频：* **[C] 铁轨；轨道**  
 
+
 3. *高义频：* **[C] 栏杆；扶手：**  
+
 
 
 # ***railway*** n
@@ -270,6 +294,7 @@ racing /'reɪsɪŋ/
 英文释义
 ---
 1. *高义频：* **铁路；铁道 (AmE railroad)**  
+
 
 > high-speed railways  
 > 高速铁路
@@ -285,6 +310,7 @@ racing /'reɪsɪŋ/
 英文释义
 ---
 1. *高义频：* **雨；雨水：**  
+
 
 > **in the rain**  
 > in the rain  
@@ -304,6 +330,7 @@ racing /'reɪsɪŋ/
 ---
 1. *高义频：* **下雨；降雨：**  
 
+
 > **It’s raining cats and dogs**  
 > It’s raining cats and dogs outside.   
 > 外面正下着倾盆大雨。
@@ -321,6 +348,7 @@ racing /'reɪsɪŋ/
 1. *高义频：* **彩虹**  
 
 
+
 # ***raincoat*** n
 英音 'reɪnkəʊt     美音 'reɪnkoʊt  
 
@@ -331,6 +359,7 @@ racing /'reɪsɪŋ/
 英文释义
 ---
 1. *高义频：* **雨衣**  
+
 
 
 # ***rainfall*** n
@@ -345,6 +374,7 @@ racing /'reɪsɪŋ/
 1. *高义频：* **(降) 雨量**  
 
 
+
 # ***rainforest*** n
 英音 'reɪnfɒrɪst     美音 'reɪnfɔːrɪst  
 
@@ -357,6 +387,7 @@ racing /'reɪsɪŋ/
 1. *高义频：* **热带雨林**  
 
 
+
 # ***rainy*** adj
 英音 'reɪni     美音 'reɪni  
 
@@ -365,6 +396,7 @@ racing /'reɪsɪŋ/
 英文释义
 ---
 1. *高义频：* **下雨的；多雨的**  
+
 
 
 # ***raise*** vt  重难点词汇
@@ -377,6 +409,7 @@ racing /'reɪsɪŋ/
 1. *高义频：* **举起；抬起；使升高**  
 to lift or move sth to a higher position：
 反义词 lower 
+
 > You should raise your arm to get the teacher’s attention.   
 > 你应该举手让老师注意到你。
 
@@ -385,6 +418,7 @@ to lift or move sth to a higher position：
 
 2. *高义频：* **提高；增加；提升**  
 to increase the amount or level of sth：
+
 
 > **raise your voice**  
 > You raise your voice when you should reinforce your argument.   
@@ -399,6 +433,7 @@ to increase the amount or level of sth：
 3. *高义频：* **筹 (款)**  
 to collect money：
 
+
 > **raise money**  
 > Last week our school had a big fair in order to raise money for the disabled.   
 > 上周，我们学校举办了一个大型义卖会为残疾人筹款。
@@ -406,17 +441,20 @@ to collect money：
 4. *高义频：* **提出**  
 to introduce a subject that needs to be talked about or dealt with (bring up)：
 
+
 > **raised,question**  
 > Betty raised the important question of who will be in charge.   
 > 贝蒂提出了一个重要问题，就是由谁来负责。
 
 5. *低义频：* **引起：**  
 
+
 > **raised,doubts**  
 > Some schools pay their students to encourage them to learn, which has raised many doubts.  
 > 有些学校用钱激励学生学习，这引起了很多质疑。
 
 6. *高义频：* **养育(bring up)；饲养 to look after a child or an animal until it’s grown up；种植：**  
+
 
 > Tom’s father died, leaving his mother to raise two sons alone.   
 > 汤姆的父亲去世后，留下他的母亲独自抚养两个儿子。
@@ -446,6 +484,7 @@ _________ (raise) in the poorest area of Glasgow, he had a long, hard road to be
 1. **凸起的**  
 
 
+
 # ***random*** adj
 英音 'rændəm     美音 'rændəm  
 
@@ -454,6 +493,7 @@ _________ (raise) in the poorest area of Glasgow, he had a long, hard road to be
 英文释义
 ---
 1. *高义频：* **任意的；随机的；随便的：**  
+
 
 > **random choice**  
 > make a random choice  
@@ -472,6 +512,7 @@ _________ (raise) in the poorest area of Glasgow, he had a long, hard road to be
 - #### at random 
 1. **任意地；随机地：**  
 
+
 > Choose any number at random.   
 > 随机抽取一个数字。
 
@@ -485,6 +526,7 @@ _________ (raise) in the poorest area of Glasgow, he had a long, hard road to be
 ---
 1. *高义频：* **一系列**  
 a variety of things of a particular type：
+
 
 > **a range of**  
 > a range of services / products   
@@ -500,6 +542,7 @@ a variety of things of a particular type：
 
 2. *高义频：* **范围；界限：**  
 
+
 > **age range**  
 > Most of the students are in the 16-19 age range.   
 > 大部分学生的年龄在16到19岁之间。
@@ -510,11 +553,13 @@ a variety of things of a particular type：
 
 3. *高义频：* **距离：**  
 
+
 > **at close range**  
 > Do not miss this opportunity to see whales at close range (= very close) on their annual migration south to the Antarctic.  
 > 不要错过近距离观看每年一度南下向南极洲迁徙的鲸群。
 
 4. *低义频：* **山脉：**  
+
 
 > **mountain range**  
 > Between Italy and France, there is a mountain range called the Alps.  
@@ -526,8 +571,10 @@ a variety of things of a particular type：
 - #### in / within range (of) 
 1. **在 (…的) 范围内**  
 
+
 - #### out of range (of) 
 1. **超出(…的) 范围：**  
+
 
 
 真题解析
@@ -546,17 +593,20 @@ This restaurant has become popular for its wide ________ (一系列) of foods th
 ---
 1. *高义频：* **包括：**  
 
+
 > **ranging from,to**  
 > The show had a large audience, ranging from children to grandparents.  
 > 这个节目观众很多，从小孩子到爷爷奶奶一辈的都有。
 
 2. *高义频：* **(价格、水平、温度等) 处于某个范围之内：**  
 
+
 > **ranges between,and**  
 > The price ranges between $25 and $400.  
 > 价格在25美元到400美元之间。
 
 3. *低义频：* **漫步; 四处移动 (wander)**  
+
 
 > The polar bears range all the way across the Arctic.  
 > 北极熊的活动范围遍及整个北极。
@@ -578,6 +628,7 @@ The national park has a large collection of wildlife, ________ (range) from butt
 ---
 1. *高义频：* **[U] & [C] 等级；地位；军衔：**  
 
+
 > **of the first rank**  
 > a painter of the first rank  
 > 一流的画家
@@ -590,6 +641,7 @@ The national park has a large collection of wildlife, ________ (range) from butt
 > 拥有上尉军衔
 
 2. *低义频：* **[C] 行；列；[the ranks] (团体或组织的) 成员：**  
+
 
 > **joined the ranks of**  
 > That summer I was fired and joined the ranks of the unemployed.   
@@ -604,6 +656,7 @@ The national park has a large collection of wildlife, ________ (range) from butt
 英文释义
 ---
 1. *高义频：* **把…分等级；属于某等级：**  
+
 
 > **rank,as**  
 > They rank Lang Lang as a first-class pianist.   
@@ -627,6 +680,7 @@ The national park has a large collection of wildlife, ________ (range) from butt
 1. **排行,排名**  
 
 
+
 # ***rap*** n
 英音 ræp     美音 ræp  
 
@@ -639,6 +693,7 @@ The national park has a large collection of wildlife, ________ (range) from butt
 1. *高义频：* **说唱乐**  
 
 
+
 # ***rap*** v
 英音 ræp     美音 ræp  
 
@@ -647,6 +702,7 @@ The national park has a large collection of wildlife, ________ (range) from butt
 英文释义
 ---
 1. **敲击；（说唱歌中的）念白**  
+
 
 
 # ***rape*** n
@@ -659,6 +715,7 @@ The national park has a large collection of wildlife, ________ (range) from butt
 1. **强奸**  
 
 
+
 # ***rapid*** adj
 英音 'ræpɪd     美音 'ræpɪd  
 
@@ -667,6 +724,7 @@ The national park has a large collection of wildlife, ________ (range) from butt
 英文释义
 ---
 1. *高义频：* **快的；迅速的：**  
+
 
 > make rapid progress   
 > 进步很快
@@ -687,6 +745,7 @@ The national park has a large collection of wildlife, ________ (range) from butt
 ---
 1. *高义频：* **快地；迅速地：**  
 
+
 > Sharing economy has been developing rapidly in recent years.  
 > 近几年，共享经济发展迅猛。
 
@@ -701,6 +760,7 @@ The national park has a large collection of wildlife, ________ (range) from butt
 1. *高义频：* **(pl)急流；湍流**  
 
 
+
 # ***rapper*** n
 英音 'ræpə(r)     美音 'ræpər  
 
@@ -709,6 +769,7 @@ The national park has a large collection of wildlife, ________ (range) from butt
 英文释义
 ---
 1. **说唱乐歌手**  
+
 
 
 # ***rare*** adj
@@ -720,10 +781,12 @@ The national park has a large collection of wildlife, ________ (range) from butt
 ---
 1. *高义频：* **稀有的；罕见的**  
 反义词 common： 
+
 > It is a rare Ming Dynasty vase.   
 > 这是一个罕见的明代花瓶。
 
 2. *低义频：* **(肉) 半熟的；半生的**  
+
 
 
 # ***rarely*** adv
@@ -734,6 +797,7 @@ The national park has a large collection of wildlife, ________ (range) from butt
 英文释义
 ---
 1. *高义频：* **很少；难得：**  
+
 
 > Beauty and wisdom rarely go together.   
 > 美丽与才智鲜能兼备。
@@ -762,6 +826,7 @@ rarely和seldom都表示“很少”、“不经常”，但seldom更正式或�
 1. **恶棍；无赖**  
 
 
+
 # ***rat*** n
 英音 ræt     美音 ræt  
 
@@ -772,6 +837,7 @@ rarely和seldom都表示“很少”、“不经常”，但seldom更正式或�
 英文释义
 ---
 1. *高义频：* **老鼠**  
+
 
 
 # ***rate*** n
@@ -785,17 +851,20 @@ rarely和seldom都表示“很少”、“不经常”，但seldom更正式或�
 ---
 1. *高义频：* **比率：**  
 
+
 > **birth,unemployment / success / heart rate**  
 > the birth / death / unemployment / success / heart rate  
 > 出生 / 死亡 / 失业 / 成功 / 心率
 
 2. *高义频：* **速度；速率：**  
 
+
 > **at an alarming rate**  
 > Our money was running out at an alarming rate.   
 > 我们的钱正在以惊人的速度消耗殆尽。
 
 3. *低义频：* **价格；费用：**  
+
 
 > **exchange / interest rates**  
 > exchange / interest rates  
@@ -811,17 +880,20 @@ rarely和seldom都表示“很少”、“不经常”，但seldom更正式或�
 - #### at any rate 
 1. **无论如何 (anyway)：**  
 
+
 > At any rate, the medical supplies will reach you within a week.   
 > 无论如何，医疗物资将于一周内运到你处。
 
 - #### at this / that rate 
 1. **这样 / 那样的话：**  
 
+
 > If you go on at that rate, you will damage your health.   
 > 如果继续那样的话，你会把身体搞垮的。
 
 - #### first-rate / second-rate / third-rate
 1. **一流的 / 二流的 / 三流的**  
+
 
 
 真题解析
@@ -842,6 +914,7 @@ The car is running at a ________ of eighty kilometers an hour.
 ---
 1. *高义频：* **对...评估；对...评价：**  
 
+
 > **highly rated**  
 > The university is highly rated for its research.   
 > 这所大学因其研究工作而受到高度评价。
@@ -851,6 +924,7 @@ The car is running at a ________ of eighty kilometers an hour.
 > 评论家认为这场演出是一次巨大的成功。
 
 2. *高义频：* **给...划分等级：**  
+
 
 > When students rate subjects according to their importance, the arts are unavoidably at the bottom of the list.   
 > 当学生按照学科的重要性对其划分等级时，文科不可避免地被列在最后。
@@ -866,12 +940,14 @@ The car is running at a ________ of eighty kilometers an hour.
 1. *高义频：* **相当；颇**  
 quite：
 
+
 > She fell and hurt her leg rather badly.   
 > 她跌倒了，腿伤得相当严重。
 
 ### 辨析 fairly, quite, rather, pretty
 四者都有“相当”之意。
 2. *高义频：* **相反地；反而：**  
+
 
 > **not,Rather**  
 > It’s not cold. Rather, it’s very hot.   
@@ -887,11 +963,13 @@ quite：
 - #### (or) rather 
 1. **更确切地说：**  
 
+
 > He worked till late last night, or rather, early this morning.   
 > 他昨晚一直工作到深夜，更确切地说，是到今天凌晨。
 
 - #### rather than 
 1. **而不：**  
+
 
 > It is better to express your anger, rather than bottle it up.   
 > 将怒气发泄出来更好，而不要憋在心里。
@@ -901,6 +979,7 @@ quite：
 
 - #### would rather ... (than) 
 1. **宁愿 / 宁可… (而不)：**  
+
 
 > — Will you join us in the game?  
 > 和我们一起玩游戏吧？
@@ -942,6 +1021,7 @@ If what your friend comes up with surprises you, don’t reject it immediately. 
 ---
 1. **等级；级别；排名：**  
 
+
 > **credit rating**  
 > credit rating  
 > (银行等作出的) 信用等级评定
@@ -962,6 +1042,7 @@ If what your friend comes up with surprises you, don’t reject it immediately. 
 1. *高义频：* **比；比例；比率**  
 
 
+
 # ***rational*** adj
 英音 'ræʃnəl     美音 'ræʃnəl  
 
@@ -970,6 +1051,7 @@ If what your friend comes up with surprises you, don’t reject it immediately. 
 英文释义
 ---
 1. **理智的；合理的**  
+
 
 
 # ***rattle*** v
@@ -982,6 +1064,7 @@ If what your friend comes up with surprises you, don’t reject it immediately. 
 1. **（使）发出咔嗒咔嗒的声音；使紧张或恐惧**  
 
 
+
 # ***raw*** adj
 英音 rɔː     美音 rɔː  
 
@@ -991,10 +1074,12 @@ If what your friend comes up with surprises you, don’t reject it immediately. 
 ---
 1. *高义频：* **未煮过的；生的：**  
 
+
 > raw vegetables / meat  
 > 生的蔬菜 / 生肉
 
 2. *低义频：* **[常用于名词前] 未加工过的：**  
+
 
 > raw materials   
 > 原材料
@@ -1010,6 +1095,7 @@ If what your friend comes up with surprises you, don’t reject it immediately. 
 英文释义
 ---
 1. *高义频：* **光线；射线：**  
+
 
 > the rays of the sun / the sun’s rays  
 > 太阳光线
@@ -1027,6 +1113,7 @@ If what your friend comes up with surprises you, don’t reject it immediately. 
 1. *高义频：* **剃刀；剃须刀**  
 
 
+
 # ***re-*** prefix
 英音 riː     美音 riː  
 
@@ -1035,6 +1122,7 @@ If what your friend comes up with surprises you, don’t reject it immediately. 
 英文释义
 ---
 1. *高义频：* **再；重新**  
+
 
 
 # ***reach*** v  重难点词汇
@@ -1046,6 +1134,7 @@ If what your friend comes up with surprises you, don’t reject it immediately. 
 ---
 1. *高义频：* **伸出 (手、脚等)：**  
 
+
 > As they were introduced, George reached his hand out to the Japanese student.   
 > 经介绍后，乔治向那位日本学生伸出了手。
 
@@ -1055,10 +1144,12 @@ If what your friend comes up with surprises you, don’t reject it immediately. 
 
 2. *高义频：* **伸手 / 脚等够到：**  
 
+
 > She is too small to reach the table.   
 > 她个子太小，够不到桌子。
 
 3. *高义频：* **延伸 (到)；达到：**  
+
 
 > **reaches down to**  
 > Her hair reaches down to her waist.  
@@ -1069,12 +1160,14 @@ If what your friend comes up with surprises you, don’t reject it immediately. 
 
 4. *高义频：* **到达 (某地)：**  
 
+
 > Tired and short of breath, Andy and Ruby were the first to reach the top of Mount Tai.    
 > 累得上气不接下气，安迪和鲁比最先到达了泰山山顶。
 
 ### 辨析 arrive, get, reach
 三者均有“到达”之意。
 5. *高义频：* **达到 (某阶段、数量或速度等)：**  
+
 
 > **reached a point**  
 > I have reached a point in my career where I needed to decide which way to go.   
@@ -1085,6 +1178,7 @@ If what your friend comes up with surprises you, don’t reject it immediately. 
 
 6. *高义频：* **达成 (arrive at)；作出；实现**  
 to achieve a particular aim：
+
 
 > **reach an agreement**  
 > The purpose of the meeting was to reach an agreement about next year’s prices.   
@@ -1101,10 +1195,12 @@ to achieve a particular aim：
 7. *低义频：* **与...取得联系**  
 to communicate with sb, especially by phone：
 
+
 > Having failed to reach them on the phone, we sent an email instead.   
 > 没能通过电话联系上他们，我们发了封电子邮件。
 
 8. *低义频：* **(信件、消息等) 被…收到 / 听到；(节目等) 被…收听 / 收看：**  
+
 
 > The news reached us in London.   
 > 我们在伦敦得知了这个消息。
@@ -1118,6 +1214,7 @@ to communicate with sb, especially by phone：
 ---
 - #### reach out to sb 
 1. **向某人提供 / 寻求帮助：**  
+
 
 > When you need help, reach out to the people who care about you.  
 > 当你需要帮助时，向那些关心你的人寻求帮助。
@@ -1139,6 +1236,7 @@ Despite the previous rounds of talks, no agreement ________ (reach) so far by th
 ---
 1. *低义频：* **[U] (手、力量、影响的) 范围：**  
 
+
 > **out of / beyond my reach**  
 > The shelf is so high that it is well out of / beyond my reach.   
 > 架子太高，我根本够不到。
@@ -1152,6 +1250,7 @@ Despite the previous rounds of talks, no agreement ________ (reach) so far by th
 > 酒店离海滩很近。
 
 2. *低义频：* **[C] [常用复数] 河段；水域：**  
+
 
 > the upper reaches of the Nile   
 > 尼罗河上游
@@ -1178,6 +1277,7 @@ Always remember to put such dangerous things as knives ________ children’s rea
 ---
 1. *高义频：* **(对…) 作出反应 (respond)：**  
 
+
 > **react to**  
 > How did the students react to the monitor’s suggestion?  
 > 同学们对班长的提议有何反应？
@@ -1185,10 +1285,12 @@ Always remember to put such dangerous things as knives ________ children’s rea
 2. *高义频：* **产生不良反应**  
 to become ill after eating, breathing, etc. a particular substance：
 
+
 > Some people react badly to certain food.  
 > 一些人对某种食物有不良反应。
 
 3. *低义频：* **起 (化学) 反应：**  
+
 
 > **reacts with,with**  
 > It shows us how iron reacts with air and with water.  
@@ -1205,6 +1307,7 @@ to become ill after eating, breathing, etc. a particular substance：
 英文释义
 ---
 1. *高义频：* **反应；作用：**  
+
 
 > **sb’s first / immediate reaction**  
 > sb’s first / immediate reaction  
@@ -1229,6 +1332,7 @@ to become ill after eating, breathing, etc. a particular substance：
 ---
 1. *高义频：* **阅读；朗读：**  
 
+
 > **widely read**  
 > Her books are quite widely read.   
 > 她的书有很多人阅读。
@@ -1239,6 +1343,7 @@ to become ill after eating, breathing, etc. a particular substance：
 
 2. *高义频：* **理解；读懂：**  
 
+
 > read the street signs   
 > 看懂路标
 
@@ -1247,6 +1352,7 @@ to become ill after eating, breathing, etc. a particular substance：
 
 3. *低义频：* **(指示牌等) 写着 (say)；(仪器等) 显示；(计算机)读取：**  
 
+
 > read the disk   
 > 读取磁盘
 
@@ -1254,6 +1360,7 @@ to become ill after eating, breathing, etc. a particular substance：
 > 告示牌上写着“严禁吸烟”。
 
 4. *高义频：* **读到；获悉：**  
+
 
 > **read about / of**  
 > I was shocked when I read about / of his death in today’s newspaper.   
@@ -1264,6 +1371,7 @@ to become ill after eating, breathing, etc. a particular substance：
 ---
 - #### read out 
 1. **大声读出；宣读**  
+
 
 
 派生词汇
@@ -1287,6 +1395,7 @@ I ________ (read) half of the English novel, and I’ll try to finish it at the 
 1. **【单数】【非正式用语】阅读；【C】读物**  
 
 
+
 派生词汇
 ---
 reader /'riːdə(r)/ n [C]
@@ -1301,6 +1410,7 @@ reader /'riːdə(r)/ n [C]
 英文释义
 ---
 1. *高义频：* **阅读；读物：**  
+
 
 > Reading makes a full man; conference a ready man; and writing an exact man.   
 > 读书使人充实，讨论使人机敏，写作使人严谨。
@@ -1319,6 +1429,7 @@ reader /'riːdə(r)/ n [C]
 ---
 1. *高义频：* **[不用于名词前] 准备好的：**  
 
+
 - #### be / get ready for sth:
 
 > Have you got ready for the exam?   
@@ -1334,15 +1445,18 @@ reader /'riːdə(r)/ n [C]
 
 2. *低义频：* **[只用于名词前] 迅速的；现成的：**  
 
+
 > a ready answer  
 > 现成的答案
 
 3. *低义频：* **愿意的；乐意的：**  
 
+
 > I’m kind, easy-going and always ready to help others.  
 > 我亲切、随和，总是乐于助人。
 
 4. *低义频：* **易于...的：**  
+
 
 > Don’t be so ready to find fault.   
 > 不要动不动就挑毛病。
@@ -1360,6 +1474,7 @@ readily  /'redɪli/ adv
 英文释义
 ---
 1. *高义频：* **真的；真实的；真正的：**  
+
 
 > **in real life**  
 > in real life   
@@ -1384,6 +1499,7 @@ readily  /'redɪli/ adv
 1. **真实的，现实生活中的**  
 
 
+
 # ***realise*** vt  重难点词汇
 英音 'riːəlaɪz;'riəlaɪz     美音 'riːəlaɪz  
 
@@ -1392,6 +1508,7 @@ readily  /'redɪli/ adv
 英文释义
 ---
 1. *高义频：* **实现；使...成为现实：**  
+
 
 > **realize,ambitions**  
 > realize one’s dreams / hopes / ambitions   
@@ -1402,6 +1519,7 @@ readily  /'redɪli/ adv
 
 2. *高义频：* **[通常不用于进行时] 认识到；意识到**  
 to become conscious of sth or that sth has happened, usually some time later：
+
 
 - #### realize + that / wh- 从句：
 
@@ -1439,6 +1557,7 @@ When I got on the bus, I ________ (realize) I had left my wallet at home.
 1. **现实主义作家**  
 
 
+
 # ***realistic*** adj
 英音 ˌriːə'lɪstɪk,ˌriə'lɪstɪk     美音 ˌriːə'lɪstɪk  
 
@@ -1448,10 +1567,12 @@ When I got on the bus, I ________ (realize) I had left my wallet at home.
 ---
 1. *高义频：* **现实的；实际的：**  
 
+
 > a realistic plan   
 > 切实可行的计划
 
 2. *高义频：* **现实主义的；逼真的：**  
+
 
 > a realistic novel   
 > 现实主义小说
@@ -1467,6 +1588,7 @@ When I got on the bus, I ________ (realize) I had left my wallet at home.
 英文释义
 ---
 1. *高义频：* **真实；现实；事实：**  
+
 
 > **reality show**  
 > a reality show  
@@ -1489,6 +1611,7 @@ When I got on the bus, I ________ (realize) I had left my wallet at home.
 - #### in reality 
 1. **实际上；事实上：**  
 
+
 > Outwardly she seemed confident but in reality she felt extremely nervous.   
 > 表面上她似乎很自信，其实她感到极其紧张。
 
@@ -1502,6 +1625,7 @@ When I got on the bus, I ________ (realize) I had left my wallet at home.
 ---
 1. *高义频：* **实现；使...成为现实：**  
 
+
 > **realize,ambitions**  
 > realize one’s dreams / hopes / ambitions   
 > 实现某人的梦想/希望/抱负
@@ -1511,6 +1635,7 @@ When I got on the bus, I ________ (realize) I had left my wallet at home.
 
 2. *高义频：* **[通常不用于进行时态] 认识到；意识到**  
 to understand or become aware of sth or that sth has happened, usually some time later：
+
 
 - #### realize + that / wh- 从句：
 
@@ -1547,15 +1672,18 @@ When I got on the bus, I _________ (realize) I had left my wallet at home.
 ---
 1. *高义频：* **真实地；确实：**  
 
+
 > I really don’t know what to write about.   
 > 我真的不知道写什么。
 
 2. *高义频：* **非常；极其 (extremely)：**  
 
+
 > I haven’t got much sleep this past week, and I feel really tired.  
 > 上周我没怎么睡觉，感觉非常疲倦。
 
 3. *高义频：* **[表示关心、惊讶、怀疑等] 当真：**  
+
 
 > — We’re going to the Great Wall next week.   
 > 我们下周要去长城。
@@ -1568,6 +1696,7 @@ When I got on the bus, I _________ (realize) I had left my wallet at home.
 ---
 - #### Not really. 
 1. **[表示否定，语气较弱] 不是。**  
+
 
 
 真题解析
@@ -1593,6 +1722,7 @@ When I got on the bus, I _________ (realize) I had left my wallet at home.
 1. **王国；国度；领域；范围**  
 
 
+
 # ***reason*** n
 英音 'riːzn     美音 'riːzn  
 
@@ -1601,6 +1731,7 @@ When I got on the bus, I _________ (realize) I had left my wallet at home.
 英文释义
 ---
 1. *高义频：* **[C] 原因；理由：**  
+
 
 > **reasons for saying**  
 > What are your reasons for saying that?   
@@ -1618,6 +1749,7 @@ When I got on the bus, I _________ (realize) I had left my wallet at home.
 2. *高义频：* **[U] 道理；情理**  
 sensible judgment and understanding：
 
+
 > There is reason in what you say.   
 > 你讲得有道理。
 
@@ -1627,11 +1759,13 @@ sensible judgment and understanding：
 - #### by reason of 
 1. **由于：**  
 
+
 > He won the first prize by reason of hard work.  
 > 由于刻苦用功，他获得了一等奖。
 
 - #### for some reason 
 1. **不知什么原因：**  
+
 
 > For some reason they cancelled the plan.  
 > 不知为什么他们取消了计划。
@@ -1639,11 +1773,13 @@ sensible judgment and understanding：
 - #### in (all) reason 
 1. **明智；合情合理：**  
 
+
 > I would do anything in reason.   
 > 只要是合情合理的事，我都愿意做。
 
 - #### with / without reason 
 1. **有 / 没有道理：**  
+
 
 > He argued with much reason.   
 > 他辩论得头头是道。
@@ -1658,11 +1794,13 @@ sensible judgment and understanding：
 ---
 1. *低义频：* **推理；劝说；辩论：**  
 
+
 > **Reasoning with**  
 > Reasoning with them is a waste of time.   
 > 和他们讲道理是浪费时间。
 
 2. *低义频：* **推断；推论：**  
+
 
 > **reasoned,that**  
 > We reasoned (that) if we started early in the morning, we would get there by noon.  
@@ -1678,6 +1816,7 @@ sensible judgment and understanding：
 ---
 1. *高义频：* **有道理的；合情理的**  
 反义词 unreasonable： 
+
 > I tried to be reasonable even though I was very angry.  
 > 虽然我非常生气，但我还是尽量讲道理。
 
@@ -1686,11 +1825,13 @@ sensible judgment and understanding：
 
 2. *高义频：* **(价钱) 公道的 (fair)：**  
 
+
 > **reasonable enough**  
 > Ten pounds for a good dictionary seems reasonable enough.   
 > 花10英镑买一部好词典，价钱算是够公道的了。
 
 3. *高义频：* **尚好的；过得去的 (average)：**  
+
 
 > We have a strong team and a reasonable chance of winning the game.   
 > 我们的团队很有实力，很有可能赢得比赛。
@@ -1717,6 +1858,7 @@ Be ________ (reason) — you can’t expect me to finish all this work in so lit
 1. **适度地；相当地；合理地；有理性地**  
 
 
+
 # ***rebel*** n
 英音 rɪ'bel     美音 'rebl  
 
@@ -1725,6 +1867,7 @@ Be ________ (reason) — you can’t expect me to finish all this work in so lit
 英文释义
 ---
 1. **造反者, 反叛者**  
+
 
 
 # ***rebirth*** n
@@ -1739,6 +1882,7 @@ Be ________ (reason) — you can’t expect me to finish all this work in so lit
 1. *高义频：* **再生；复活；复兴**  
 
 
+
 # ***rebuild*** vt
 英音 ˌriː'bɪld     美音 ˌriː'bɪld  
 
@@ -1749,6 +1893,7 @@ Be ________ (reason) — you can’t expect me to finish all this work in so lit
 英文释义
 ---
 1. *高义频：* **重建；重新装配；使复原：**  
+
 
 > The streets are clear, and many houses have been rebuilt.  
 > 街道整洁一新，重建了许多房屋
@@ -1763,10 +1908,12 @@ Be ________ (reason) — you can’t expect me to finish all this work in so lit
 ---
 1. *高义频：* **回忆；回想：**  
 
+
 > It’s time to recall those beautiful days we spent together.   
 > 现在该回忆一下我们共同度过的那些美好日子。
 
 2. *低义频：* **召回；收回：**  
+
 
 > More than 3,000 cars were recalled yesterday because of a brake problem.   
 > 昨天3000多辆汽车因为刹车问题被召回。
@@ -1788,11 +1935,13 @@ Legend has it that the origin of the Dragon Boat Festival is to ________ (召回
 ---
 1. *低义频：* **[U] 收到：**  
 
+
 > **in receipt of**  
 > We are in receipt of your letter.   
 > 我们已收到您的来函。
 
 2. *高义频：* **[C] 收据；收条：**  
+
 
 > make out / write a receipt   
 > 开收据
@@ -1807,6 +1956,7 @@ Legend has it that the origin of the Dragon Boat Festival is to ________ (召回
 ---
 1. *高义频：* **收到；受到：**  
 
+
 > receive a present   
 > 收到礼物
 
@@ -1820,17 +1970,20 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
 
 2. *高义频：* **接纳；承认：**  
 
+
 > **well received**  
 > The film is well received by young people.   
 > 这部影片深受年轻人的欢迎。
 
 3. *低义频：* **接见；接待：**  
 
+
 > **receive,guests**  
 > receive foreign guests   
 > 接待/接见外宾
 
 4. *低义频：* **容纳；承受：**  
+
 
 > The hall can receive 4,000 people.  
 > 这个大厅能容纳4000人。
@@ -1854,6 +2007,7 @@ Project Hope aims at helping the poor children in remote areas to ________ (接�
 ---
 1. *高义频：* **收件人；接待者；听筒；接收机：**  
 
+
 > a radio receiver   
 > 无线电接收器
 
@@ -1866,6 +2020,7 @@ Project Hope aims at helping the poor children in remote areas to ________ (接�
 英文释义
 ---
 1. *高义频：* **最近的；近来的：**  
+
 
 > **In recent years**  
 > In recent years, learning Chinese has become popular among people around the world.  
@@ -1881,6 +2036,7 @@ Project Hope aims at helping the poor children in remote areas to ________ (接�
 ---
 1. *高义频：* **近来；最近**  
 not long ago：
+
 
 > I caught a bad cold recently.   
 > 我最近得了重感冒。
@@ -1902,6 +2058,7 @@ Chinese scientists ________ (recent) had a chance to study a wild female panda w
 ---
 1. *低义频：* **[C] [常用单数] 接待；欢迎；反响：**  
 
+
 > **a warm reception**  
 > He got a warm reception from the crowd.   
 > 他受到了人群的热烈欢迎。
@@ -1912,16 +2069,19 @@ Chinese scientists ________ (recent) had a chance to study a wild female panda w
 
 2. *高义频：* **[U] 接待处；前台：**  
 
+
 > **reception desk**  
 > Please leave your key at the reception desk.   
 > 请把你的钥匙放在前台。
 
 3. *低义频：* **[C] 招待会；欢迎会；宴会：**  
 
+
 > a wedding reception  
 > 婚宴
 
 4. *低义频：* **[U] (无线电等的) 接收效果：**  
+
 
 > **poor reception**  
 > There was very poor reception on my cell phone.  
@@ -1940,6 +2100,7 @@ Chinese scientists ________ (recent) had a chance to study a wild female panda w
 1. *高义频：* **接待员**  
 
 
+
 # ***recipe*** n
 英音 'resəpi     美音 'resəpi  
 
@@ -1950,6 +2111,7 @@ Chinese scientists ________ (recent) had a chance to study a wild female panda w
 英文释义
 ---
 1. *高义频：* **食谱；秘诀：**  
+
 
 > **recipe for**  
 > — Can you tell us your recipe for happiness and a long life?  
@@ -1967,6 +2129,7 @@ Chinese scientists ________ (recent) had a chance to study a wild female panda w
 英文释义
 ---
 1. *高义频：* **vt & vi 背诵；朗诵；详述：**  
+
 
 > recite a poem  
 > 背诗
@@ -1988,6 +2151,7 @@ recitation /ˌresɪ'teɪʃn/ n
 1. *高义频：* **认为；估计**  
 
 
+
 # ***recognisable*** adj
 英音 'rekəgnaɪzəbl     美音 'rekəgnaɪzəbl  
 
@@ -1996,6 +2160,7 @@ recitation /ˌresɪ'teɪʃn/ n
 英文释义
 ---
 1. **能辨认的；能认出的**  
+
 
 
 # ***recognise*** vt
@@ -2007,10 +2172,12 @@ recitation /ˌresɪ'teɪʃn/ n
 ---
 1. *高义频：* **认出；辨认出：**  
 
+
 > The film star wears sunglasses. Therefore, he can go shopping without being recognized.   
 > 这位影星戴着太阳镜，这样他就可以去购物而不被认出来。
 
 2. *高义频：* **(正式) 承认；公认；**  
+
 
 > **recognized,as**  
 > The British recognized America as an independent state.   
@@ -2023,11 +2190,13 @@ recitation /ˌresɪ'teɪʃn/ n
 3. *高义频：* **意识到**  
 to accept or admit that sth is true：
 
+
 > **recognize what**  
 > I was surprised by her words, which made me recognize what silly mistakes I had made.  
 > 我对她的话感到惊讶，那些话让我意识到自己犯了多么愚蠢的错误。
 
 4. *低义频：* **表扬；表彰：**  
+
 
 > The Canadian National Institute for the Blind recognized Doris Low for her great contributions.  
 > 加拿大国家盲人协会因其重大贡献表彰了多丽丝·娄。
@@ -2054,6 +2223,7 @@ China's image is improvung steadily, with more countries ________ (recognize) it
 英文释义
 ---
 1. *高义频：* **认出；识别；承认：**  
+
 
 > **changed beyond all recognition**  
 > The town has changed beyond all recognition since I was last here.   
@@ -2083,10 +2253,12 @@ I haven’t seen Sara since she was a little girl, and she has changed beyond __
 ---
 1. *高义频：* **认出；辨认出：**  
 
+
 > The film star wears sunglasses. Therefore, he can go shopping without being recognized.  
 > 这位影星戴着太阳镜，这样他就可以去购物而不被认出来。
 
 2. *高义频：* **(正式) 承认；认识到：**  
+
 
 > **recognized,as**  
 > The British recognized America as an independent state.   
@@ -2097,11 +2269,13 @@ I haven’t seen Sara since she was a little girl, and she has changed beyond __
 
 3. *高义频：* **意识到：**  
 
+
 > **recognize what**  
 > I was surprised by her words, which made me recognize what silly mistakes I had made.  
 > 我对她的话感到惊讶，那些话让我意识到自己犯了多么愚蠢的错误。
 
 4. *低义频：* **表扬；表彰：**  
+
 
 > The Canadian National Institute for the Blind recognized Doris Low for her great contributions.  
 > 加拿大国家盲人协会因其重大贡献表彰了多丽丝·娄。2014天津
@@ -2124,6 +2298,7 @@ Lisa, I didn’t ________ (认出) you — you’ve had your hair cut!
 1. *高义频：* **推荐；介绍**  
 to say that sb / sth is good and that sb should try or use them for it：
 
+
 - #### recommend sb / sth to sb:
 
 > I recommend this book to anyone with an interest in art.   
@@ -2143,6 +2318,7 @@ to say that sb / sth is good and that sb should try or use them for it：
 
 2. *高义频：* **劝告；建议**  
 to tell sb what you strongly believe they should do：
+
 
 - #### recommend (that) ... (should) do sth:
 
@@ -2180,10 +2356,12 @@ Our hosts shared many of their experiences and ________ (recommend) wonderful pl
 ---
 1. *低义频：* **[U] 推荐；介绍：**  
 
+
 > a letter of recommendation   
 > 推荐信
 
 2. *高义频：* **[C] 正式建议；推荐信：**  
+
 
 > follow sb’s recommendations   
 > 听从某人的劝告
@@ -2199,6 +2377,7 @@ Our hosts shared many of their experiences and ________ (recommend) wonderful pl
 1. **重建,再建**  
 
 
+
 # ***record*** vt
 英音 rɪ'kɔːd     美音 rɪ'kɔːd  
 
@@ -2207,6 +2386,7 @@ Our hosts shared many of their experiences and ________ (recommend) wonderful pl
 英文释义
 ---
 1. *高义频：* **记录；把 (声音、影像等) 录下：**  
+
 
 > In a journal, writers also record their experiences.  
 > 在日志中，作者也记录他们的经历。
@@ -2226,6 +2406,7 @@ Our hosts shared many of their experiences and ________ (recommend) wonderful pl
 ---
 1. *高义频：* **记录；记载；履历：**  
 
+
 > a personal record   
 > 个人履历
 
@@ -2234,6 +2415,7 @@ Our hosts shared many of their experiences and ________ (recommend) wonderful pl
 > 记下你最感兴趣的事。
 
 2. *高义频：* **(尤指体育运动的) 纪录：**  
+
 
 > **set a,record**  
 > She set a new world record in the 200-meter dash.  
@@ -2245,6 +2427,7 @@ Our hosts shared many of their experiences and ________ (recommend) wonderful pl
 
 3. *高义频：* **唱片：**  
 
+
 > make a record  
 > 录制唱片
 
@@ -2253,6 +2436,7 @@ Our hosts shared many of their experiences and ________ (recommend) wonderful pl
 ---
 - #### break / beat / cut the / a record 
 1. **打破纪录：**  
+
 
 > She’s hoping to break the record for the 100 metres.  
 > 她希望能打破百米纪录。
@@ -2270,6 +2454,7 @@ Our hosts shared many of their experiences and ________ (recommend) wonderful pl
 1. *高义频：* **录音机**  
 
 
+
 # ***recording*** 
 英音 rɪ'kɔːdɪŋ     美音 rɪ'kɔːrdɪŋ  
 
@@ -2278,6 +2463,7 @@ Our hosts shared many of their experiences and ________ (recommend) wonderful pl
 英文释义
 ---
 1. **n [U] 记录；录制；[C] 录制品**  
+
 
 
 # ***recover*** v  重难点词汇
@@ -2290,6 +2476,7 @@ Our hosts shared many of their experiences and ________ (recommend) wonderful pl
 1. *高义频：* **恢复 (意识、知觉等)**  
 to get back the use of your senses, control of your emotion, etc.：
 
+
 > recover oneself   
 > 恢复知觉
 
@@ -2299,6 +2486,7 @@ to get back the use of your senses, control of your emotion, etc.：
 
 2. *高义频：* **(从疾病或病态等中) 恢复过来**  
 to get well again after being ill, hurt, etc.; to return to a normal state：
+
 
 > With my special care, my mother recovered quickly.  
 > 在我的精心照料下，妈妈很快就康复了。
@@ -2312,6 +2500,7 @@ to get well again after being ill, hurt, etc.; to return to a normal state：
 
 3. *高义频：* **重新获得**  
 to find or get back sth that was lost or stolen：
+
 
 > Police have recovered the stolen car.   
 > 警察已找回被盗的汽车。
@@ -2331,6 +2520,7 @@ to find or get back sth that was lost or stolen：
 ---
 1. *高义频：* **痊愈；重获；复苏：**  
 
+
 > **made a full recovery from**  
 > He has made a full recovery from his operation.  
 > 手术后他已完全康复。
@@ -2349,6 +2539,7 @@ to find or get back sth that was lost or stolen：
 ---
 1. *高义频：* **[U] 消遣；娱乐；[C] 娱乐 / 消遣活动：**  
 
+
 > We play basketball once a week for recreation.   
 > 我们每周打一次篮球作为娱乐。
 
@@ -2365,6 +2556,7 @@ to find or get back sth that was lost or stolen：
 1. *高义频：* **矩形；长方形**  
 
 
+
 # ***rectangular*** adj
 英音 rek'tæŋɡjələ(r)     美音 rek'tæŋɡjələ(r)  
 
@@ -2375,6 +2567,7 @@ to find or get back sth that was lost or stolen：
 1. *高义频：* **长方形的；矩形的**  
 
 
+
 # ***recycle*** v
 英音 ˌriː'saɪkl     美音 ˌriː'saɪkl  
 
@@ -2383,6 +2576,7 @@ to find or get back sth that was lost or stolen：
 英文释义
 ---
 1. *高义频：* **(使) 再循环；回收利用：**  
+
 
 > Steel, iron, glass, cloth and paper can all be recycled.  
 > 钢、铁、玻璃、布和纸都可以回收再利用。
@@ -2405,11 +2599,13 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 ---
 1. *高义频：* **红色的；(因尴尬或生气) 通红的：**  
 
+
 > **turned / went red**  
 > He turned / went red with anger.   
 > 他气得脸通红。
 
 2. *低义频：* **[象征左派革命、共产主义] 红的；赤的：**  
+
 
 > the Red Army   
 > 红军
@@ -2426,6 +2622,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 ---
 1. *高义频：* **红色：**  
 
+
 > a little girl in red   
 > 穿着红衣服的小女孩
 
@@ -2440,6 +2637,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 1. **重新发现**  
 
 
+
 # ***reduce*** v
 英音 rɪ'duːs     美音 rɪ'duːs  
 
@@ -2448,6 +2646,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 英文释义
 ---
 1. *高义频：* **缩减；减少 (cut)：**  
+
 
 > **reduced from**  
 > The price has been reduced from $10 to $8.   
@@ -2474,6 +2673,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 1. *高义频：* **缩减；减少**  
 
 
+
 # ***reef*** n
 英音 riːf     美音 riːf  
 
@@ -2482,6 +2682,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 英文释义
 ---
 1. **礁**  
+
 
 
 # ***refer*** v  重难点词汇
@@ -2495,6 +2696,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 1. *高义频：* **谈到；提到**  
 to mention or speak about sb / sth：
 
+
 > The scientist referred to global warming at least three times in his speech.  
 > 那位科学家在演讲中至少3次提到了全球气候变暖。
 
@@ -2503,6 +2705,7 @@ to mention or speak about sb / sth：
 
 2. *高义频：* **查阅；参考**  
 to look at sth or ask sb for information (consult)：
+
 
 > refer to a dictionary to check the spelling  
 > 查一下词典看看拼写是否正确
@@ -2513,11 +2716,13 @@ to look at sth or ask sb for information (consult)：
 3. *高义频：* **指的是**  
 to describe or be connected to sb / sth：
 
+
 > **referred to**  
 > Pritzker Architecture Prize is referred to as the Nobel Prize in architecture.  
 > 普利兹克建筑奖有建筑界的诺贝尔奖之称。
 
 4. *低义频：* **把…交送给：**  
+
 
 > **refer,to**  
 > My colleague said that as the situation was unusual he would refer the matter to his editor.  
@@ -2543,6 +2748,7 @@ The president spoke at the business meeting for nearly an hour without referring
 1. *高义频：* **裁判员；仲裁人**  
 
 
+
 # ***reference*** n
 英音 'refrəns     美音 'refrəns  
 
@@ -2552,11 +2758,13 @@ The president spoke at the business meeting for nearly an hour without referring
 ---
 1. *高义频：* **[C] & [U] 提及；涉及：**  
 
+
 > **making,reference to**  
 > Avoid making any reference to his illness.   
 > 千万别提起他的病。
 
 2. *高义频：* **[U] 查阅；参考：**  
+
 
 > Here is a memo for your reference when you answer the phones.   
 > 这儿有一本备忘录供你接电话的时候参考。
@@ -2568,10 +2776,12 @@ The president spoke at the business meeting for nearly an hour without referring
 3. *高义频：* **推荐信；推荐人**  
 
 
+
 固定搭配
 ---
 - #### in / with reference to
 1. **关于；根据…而论：**  
+
 
 > In reference to your question about cost, the tickets for the film are 35 yuan each.  
 > 关于你询问的价格，那部电影的票价是每张35元。
@@ -2593,10 +2803,12 @@ You’d better write down the phone number of that restaurant for future _______
 ---
 1. *高义频：* **反射 (光、热、声等)：**  
 
+
 > Without the forest cover, these areas would reflect more heat into the atmosphere, warming the rest of the world.  
 > 如果没有森林覆盖，这些区域会向大气层反射更多的热量，使世界上其他地区变暖。
 
 2. *高义频：* **[常用于被动语态] (镜子等) 映出：**  
+
 
 > **was reflected in**  
 > Her face was reflected in the mirror.   
@@ -2604,10 +2816,12 @@ You’d better write down the phone number of that restaurant for future _______
 
 3. *高义频：* **[通常不用于进行时] 反映：**  
 
+
 > Mid-Autumn celebrations reflect Chinese cultural traditions.   
 > 中秋节庆祝活动反映了中国的文化传统。
 
 4. *高义频：* **反思；回想；仔细考虑：**  
+
 
 > **refl ected that**  
 > On the way home he reflected that the interview had gone well.  
@@ -2634,10 +2848,12 @@ A city is the product of the human hand and mind, ________ (reflect) man's intel
 ---
 1. *低义频：* **[U] 反射：**  
 
+
 > the reflection of a sound wave   
 > 声波的反射
 
 2. *低义频：* **[C] 映像：**  
+
 
 > **reflection of**  
 > the reflection of the trees in the lake   
@@ -2645,11 +2861,13 @@ A city is the product of the human hand and mind, ________ (reflect) man's intel
 
 3. *高义频：* **[C] 反映：**  
 
+
 > **are a reflection on**  
 > On some level, a student’s grades are a reflection on the teacher.   
 > 在某种程度上，学生的成绩是老师水平的反映。
 
 4. *低义频：* **[C] & [U] 反复思考；仔细考虑**  
+
 
 
 # ***reform*** v
@@ -2660,6 +2878,7 @@ A city is the product of the human hand and mind, ________ (reflect) man's intel
 英文释义
 ---
 1. *高义频：* **vt 改革；vt & vi (使) 改过自新：**  
+
 
 > reform an unfair system   
 > 改革不公正的制度
@@ -2679,6 +2898,7 @@ A city is the product of the human hand and mind, ________ (reflect) man's intel
 ---
 1. *高义频：* **改革；改造：**  
 
+
 > **political / medical reform**  
 > social / political / medical reform  
 > 社会 / 政治变革 / 医疗改革
@@ -2692,6 +2912,7 @@ A city is the product of the human hand and mind, ________ (reflect) man's intel
 英文释义
 ---
 1. *高义频：* **使消除疲劳；使振作精神：**  
+
 
 > I refreshed myself with a cup of coffee.  
 > 我喝了杯咖啡提提神。
@@ -2707,6 +2928,7 @@ A city is the product of the human hand and mind, ________ (reflect) man's intel
 1. **令人耳目一新的**  
 
 
+
 # ***refrigerator*** n
 英音 rɪ'frɪdʒəreɪtə(r)     美音 rɪ'frɪdʒəreɪtər  
 
@@ -2719,6 +2941,7 @@ A city is the product of the human hand and mind, ________ (reflect) man's intel
 1. *高义频：* **冰箱；冷藏库**  
 
 
+
 # ***refund*** vt
 英音 ri'fʌnd     美音 ri'fʌnd  
 
@@ -2727,6 +2950,7 @@ A city is the product of the human hand and mind, ________ (reflect) man's intel
 英文释义
 ---
 1. *高义频：* **退还 (钱款)：**  
+
 
 > We will refund your money if you’re not satisfied.  
 > 如果您不满意我们会退款给您。
@@ -2744,6 +2968,7 @@ A city is the product of the human hand and mind, ________ (reflect) man's intel
 1. *高义频：* **退款：**  
 
 
+
 # ***refuse*** v
 英音 rɪ'fjuːz     美音 rɪ'fjuːz  
 
@@ -2752,6 +2977,7 @@ A city is the product of the human hand and mind, ________ (reflect) man's intel
 英文释义
 ---
 1. *高义频：* **拒绝；回绝 (turn down)：**  
+
 
 - #### refuse to do sth:
 
@@ -2786,6 +3012,7 @@ Alice wanted to borrow Jack’s computer, but he ________ (拒绝).
 1. *高义频：* **[不用于进行时] 把...看作；认为...是**  
 to think about sb / sth in a particular way：
 
+
 > **regard,as**  
 > Never regard study as a duty.   
 > 绝对不要把学习视为任务。
@@ -2795,6 +3022,7 @@ to think about sb / sth in a particular way：
 
 2. *低义频：* **(尤指以某种方式) 注视；打量**  
 to look at sb / sth in a particular way：
+
 
 > She stood back and regarded him coldly.   
 > 她退后站着，冷冷地看着他。
@@ -2810,17 +3038,20 @@ to look at sb / sth in a particular way：
 1. *高义频：* **[U] [正式用语] 尊重**  
 respect or admiration for sb / sth：
 
+
 > Burt had high regard for his old law professor.  
 > 伯特对他原来的法律教授非常敬重。
 
 2. *高义频：* **[正式用语] 关注**  
 attention to or care for sb / sth：
 
+
 > **regard for**  
 > She has no regard for other people’s feelings.   
 > 她无视别人的感受。
 
 3. *低义频：* **[用复数] 问候；致意：**  
+
 
 > Please give my regards to your parents.   
 > 请代我向你的父母问好。
@@ -2830,6 +3061,7 @@ attention to or care for sb / sth：
 ---
 - #### with / in regard to sth
 1. **[正式用语] 关于某事：**  
+
 
 > With / In regard to his suggestions, we shall discuss them fully.   
 > 关于他的建议，我们将充分讨论。
@@ -2859,6 +3091,7 @@ I am always delighted when I receive an e-mail from you. With regard ________ th
 1. **关于**  
 
 
+
 # ***regardless*** adv
 英音 rɪ'ɡɑːdləs     美音 rɪ'ɡɑːrdləs  
 
@@ -2869,10 +3102,12 @@ I am always delighted when I receive an e-mail from you. With regard ________ th
 1. *高义频：* **不顾；不加理会**  
 
 
+
 固定搭配
 ---
 - #### regardless of 
 1. **不管；不顾：**  
+
 
 > Nobody has the right to spit in the street regardless of their social position or age.   
 > 不管社会地位或年龄如何，没人有权当街吐痰。
@@ -2895,6 +3130,7 @@ Our club is open to everyone ________ (不管) age, sex or educational backgroun
 1. **雷盖（西印度群岛的一种节奏强劲的流行音乐）**  
 
 
+
 # ***region*** n
 英音 'riːdʒən     美音 'riːdʒən  
 
@@ -2906,6 +3142,7 @@ Our club is open to everyone ________ (不管) age, sex or educational backgroun
 ---
 1. *高义频：* **地区；地带；行政区：**  
 
+
 > Declining birth rate is a major problem in many developing regions too.  
 > 不断下降的出生率也是许多发展中地区的一个主要问题。
 
@@ -2913,6 +3150,7 @@ Our club is open to everyone ________ (不管) age, sex or educational backgroun
 > 香港特别行政区
 
 2. *高义频：* **范围；领域**  
+
 
 
 派生词汇
@@ -2929,6 +3167,7 @@ regional /'riːdʒənl/ adj [常用于名词前]
 英文释义
 ---
 1. *高义频：* **登记簿；出纳机：**  
+
 
 > a class / cash register  
 > 点名册/收款台
@@ -2947,6 +3186,7 @@ regional /'riːdʒənl/ adj [常用于名词前]
 ---
 1. *高义频：* **注册；登记：**  
 
+
 > **registered for**  
 > How many students have registered for English classes?   
 > 有多少学生登记选修英语课了？
@@ -2960,6 +3200,7 @@ regional /'riːdʒənl/ adj [常用于名词前]
 ---
 registration /ˌredʒɪ'streɪʃn/ n 
 1. **登记；注册；挂号**  
+
 
 
 真题解析
@@ -2979,6 +3220,7 @@ According to the law, all foreigners have to register ________ the local police 
 1. **登记；注册；挂号**  
 
 
+
 # ***regret*** vt  重难点词汇
 英音 rɪ'ɡret     美音 rɪ'ɡret  
 
@@ -2990,6 +3232,7 @@ According to the law, all foreigners have to register ________ the local police 
 ---
 1. *高义频：* **后悔；懊悔**  
 to feel sorry about sth you have done ; to wish that  you had not done sth：
+
 
 - #### regret doing sth：
 
@@ -3010,6 +3253,7 @@ to feel sorry about sth you have done ; to wish that  you had not done sth：
 
 2. *高义频：* **[正式用语] 抱歉；遗憾**  
 used to say in a formal way that you are sorry about a situation：
+
 
 - #### regret + that 从句：
 
@@ -3043,6 +3287,7 @@ It’s no use _________ (后悔) what you have done.
 ---
 1. *高义频：* **遗憾；悔恨：**  
 
+
 > **have,regrets about**  
 > I have no regrets about leaving.   
 > 我毫不后悔离开。
@@ -3066,6 +3311,7 @@ It’s no use _________ (后悔) what you have done.
 1. *高义频：* **规则的； 有规律的； 定期的**  
 having the same amount of space or time between each thing or part：
 反义词 irregular 
+
 > The sides of the building aren’t regular. So the building has an unusual shape.    
 > 这座大厦的侧面是不对称的，所以有着独特的造型。
 
@@ -3080,6 +3326,7 @@ having the same amount of space or time between each thing or part：
 2. *高义频：* **经常的；频繁的**  
 happening or doing sth very often; frequent：
 
+
 > **regular customers / visitors**  
 > regular customers / visitors  
 > 常客 / 忠实读者
@@ -3090,6 +3337,7 @@ happening or doing sth very often; frequent：
 
 3. *高义频：* **正常的；惯常的；普通的：**  
 
+
 > a regular school / class  
 > 普通学校/班
 
@@ -3099,11 +3347,13 @@ happening or doing sth very often; frequent：
 4. *高义频：* **持久的；稳定的**  
 lasting or happening over a long period：
 
+
 > **a regular job**  
 > Maybe a regular job won’t be as dull as I feared.  
 > 一份固定的工作可能并不像我担心的那样乏味。
 
 5. *低义频：* **[语法] 规则的**  
+
 
 
 真题解析
@@ -3121,6 +3371,7 @@ I suggest that we have _________ (定期) meetings.
 英文释义
 ---
 1. *高义频：* **有规律地；定期地；经常：**  
+
 
 > Two thirds of the world’s population regularly eat rice.  
 > 世界上三分之二的人常吃大米。
@@ -3145,10 +3396,12 @@ Recent studies show that we are far more productive at work if we take short bre
 ---
 1. *高义频：* **管理；控制：**  
 
+
 > regulate the traffic   
 > 管理交通
 
 2. *低义频：* **调整；调节：**  
+
 
 > regulate a watch   
 > 校准手表
@@ -3163,10 +3416,12 @@ Recent studies show that we are far more productive at work if we take short bre
 ---
 1. *高义频：* **[C] 规则；法规：**  
 
+
 > School regulations were strict.   
 > 学校的规章制度很严格。
 
 2. *低义频：* **[U] 控制；管理：**  
+
 
 > **regulation of**  
 > the regulation of affairs   
@@ -3183,6 +3438,7 @@ Recent studies show that we are far more productive at work if we take short bre
 1. **重新加热**  
 
 
+
 # ***reinforce*** vt
 英音 ˌriːɪn'fɔːs     美音 ˌriːɪn'fɔːrs  
 
@@ -3191,6 +3447,7 @@ Recent studies show that we are far more productive at work if we take short bre
 英文释义
 ---
 1. *高义频：* **加强；强化**  
+
 
 
 # ***reiterate*** v
@@ -3203,6 +3460,7 @@ Recent studies show that we are far more productive at work if we take short bre
 1. **反复地说，重述**  
 
 
+
 # ***reject*** vt
 英音 'riːdʒekt     美音 'riːdʒekt  
 
@@ -3211,6 +3469,7 @@ Recent studies show that we are far more productive at work if we take short bre
 英文释义
 ---
 1. *高义频：* **拒绝；排斥 【反 accept】；抛弃：**  
+
 
 > reject an argument / a claim   
 > 拒绝接受论点/要求
@@ -3234,6 +3493,7 @@ rejection /rɪ'dʒekʃn/ n
 ---
 1. *高义频：* **(使) 互有关联 (connect)：**  
 
+
 > **relate,to_2**  
 > The report seeks to relate the rise in crime to an increase in unemployment.  
 > 这篇报告试图证明犯罪活动的增加与失业率的上涨有关。
@@ -3244,10 +3504,12 @@ rejection /rɪ'dʒekʃn/ n
 
 2. *高义频：* **[正式用语] 叙述；讲：**  
 
+
 > He related how the accident happened.   
 > 他叙述了事故发生的经过。
 
 3. *低义频：* **理解；认同：**  
+
 
 > **relate to**  
 > I love technology and try to keep up with it so I can relate to my students.    
@@ -3263,6 +3525,7 @@ rejection /rɪ'dʒekʃn/ n
 ---
 1. *高义频：* **相关的；有关系的：**  
 
+
 > water-related diseases   
 > 与水有关的疾病
 
@@ -3271,6 +3534,7 @@ rejection /rɪ'dʒekʃn/ n
 ---
 - #### (be) related to 
 1. **与…有关：**  
+
 
 > The “new four great inventions” are all related to China’s high-tech innovation.  
 > “新四大发明”都与中国高科技创新有关。
@@ -3285,17 +3549,20 @@ rejection /rɪ'dʒekʃn/ n
 ---
 1. *高义频：* **[C] & [U] 关系；联系 (relationship)：**  
 
+
 > **relation between**  
 > The relation between them is that of teacher and pupil.   
 > 他们是师生关系。
 
 2. *高义频：* **[用复数] 交往；事务：**  
 
+
 > **relations with**  
 > He established good relations with his neighbors.  
 > 他和邻居建立了良好的关系。
 
 3. *高义频：* **亲属；家属 (relative)：**  
+
 
 > **distant relation**  
 > a distant relation  
@@ -3306,6 +3573,7 @@ rejection /rɪ'dʒekʃn/ n
 ---
 - #### in relation to 
 1. **[正式用语] 关于；与…相比：**  
+
 
 > I have a lot to say in relation to this affair.   
 > 关于这件事，我有很多话要说。
@@ -3324,6 +3592,7 @@ rejection /rɪ'dʒekʃn/ n
 英文释义
 ---
 1. *高义频：* **关系；联系：**  
+
 
 > **relationship between,and**  
 > the relationship between teachers and students   
@@ -3347,6 +3616,7 @@ rejection /rɪ'dʒekʃn/ n
 ---
 1. *高义频：* **[C] 亲戚 (relation)；相关物；亲缘动 / 植物：**  
 
+
 > friends and relatives  
 > 亲友
 
@@ -3360,10 +3630,12 @@ rejection /rɪ'dʒekʃn/ n
 ---
 1. *高义频：* **[只用于名词前；无比较级变化] 相对的；比较的：**  
 
+
 > She is living in relative poverty.   
 > 她过着相对贫穷的生活。
 
 2. *低义频：* **[正式用语] 有关系的：**  
+
 
 > **relative to**  
 > a question relative to my plan   
@@ -3387,6 +3659,7 @@ relatively /'relətɪvli/ adv
 1. **相对论**  
 
 
+
 # ***relax*** v
 英音 rɪ'læks     美音 rɪ'læks  
 
@@ -3395,6 +3668,7 @@ relatively /'relətɪvli/ adv
 英文释义
 ---
 1. *高义频：* **(使) 放松：**  
+
 
 > Enjoying art and music is also a good way to relax.  
 > 欣赏美术和音乐也是放松的好方法。
@@ -3421,6 +3695,7 @@ relaxing /rɪ'læksɪŋ/ adj
 1. *高义频：* **放松；松弛**  
 
 
+
 # ***relaxed*** adj
 英音 rɪ'lækst     美音 rɪ'lækst  
 
@@ -3429,6 +3704,7 @@ relaxing /rɪ'læksɪŋ/ adj
 英文释义
 ---
 1. **轻松的；松懈的；宽松的**  
+
 
 
 # ***relaxing*** adj
@@ -3441,6 +3717,7 @@ relaxing /rɪ'læksɪŋ/ adj
 1. **使人放松的**  
 
 
+
 # ***relay*** n
 英音 'riːleɪ     美音 'riːleɪ  
 
@@ -3451,6 +3728,7 @@ relaxing /rɪ'læksɪŋ/ adj
 英文释义
 ---
 1. *高义频：* **接替；接力赛：**  
+
 
 > **Olympic torch relay**  
 > the Olympic torch relay   
@@ -3470,6 +3748,7 @@ relaxing /rɪ'læksɪŋ/ adj
 ---
 1. *高义频：* **转播；传达：**  
 
+
 > In ancient times the Chinese used to relay messages along the Great Wall by lighting fires.  
 > 在古代，中国人通过沿着长城点燃烽火传递信息。
 
@@ -3484,11 +3763,13 @@ relaxing /rɪ'læksɪŋ/ adj
 1. *高义频：* **放开；松开**  
 to stop holding sth (let go)：
 
+
 > Don’t release the rope.  
 > 别松开绳子。
 
 2. *高义频：* **排放；释放**  
 to let sb / sth come out of a place where they have been kept or trapped：
+
 
 > release a prisoner   
 > 释放囚犯
@@ -3497,6 +3778,7 @@ to let sb / sth come out of a place where they have been kept or trapped：
 > 这座工厂不停地排放烟雾，污染了空气。
 
 3. *高义频：* **首映 (电影)；发行 (CD、书等)；发布 (新闻等) :**  
+
 
 > release a movie / new version   
 > 发行影片/发布新版本
@@ -3511,6 +3793,7 @@ to let sb / sth come out of a place where they have been kept or trapped：
 ---
 1. *高义频：* **[U] [可用单数] 放走；释放；排放；宣泄：**  
 
+
 > **release from**  
 > a release from prison   
 > 从狱中释放
@@ -3520,10 +3803,12 @@ to let sb / sth come out of a place where they have been kept or trapped：
 
 2. *高义频：* **[U] [可用单数] 发行；发布：**  
 
+
 > The software is planned for release in April.   
 > 该软件计划于四月份发布。
 
 3. *高义频：* **[C] 发行的影片等；发布的新闻等：**  
+
 
 > the latest release  
 > 最新发行的产品
@@ -3537,6 +3822,7 @@ to let sb / sth come out of a place where they have been kept or trapped：
 英文释义
 ---
 1. *高义频：* **有关的；贴切的：**  
+
 
 - #### (be) relevant to:
 
@@ -3564,6 +3850,7 @@ I don’t think what he said is relevant ________ the topic we are discussing. H
 1. **可靠性**  
 
 
+
 # ***reliable*** adj
 英音 rɪ'laɪəbl     美音 rɪ'laɪəbl  
 
@@ -3572,6 +3859,7 @@ I don’t think what he said is relevant ________ the topic we are discussing. H
 英文释义
 ---
 1. *高义频：* **可信赖的；可靠的 (dependable)：**  
+
 
 > a reliable product   
 > 质量可靠的产品
@@ -3598,6 +3886,7 @@ John is very ________ (rely) — if he promises to do something he’ll do it.
 ---
 1. *高义频：* **遗物；遗迹：**  
 
+
 > cultural relics   
 > 文化遗产
 
@@ -3613,6 +3902,7 @@ John is very ________ (rely) — if he promises to do something he’ll do it.
 ---
 1. *高义频：* **(痛苦等的) 减轻；宽慰：**  
 
+
 > **To our,relief**  
 > To our great relief, the accident caused little damage.  
 > 令我们十分宽慰的是，事故造成的损失很小。
@@ -3626,6 +3916,7 @@ John is very ________ (rely) — if he promises to do something he’ll do it.
 
 2. *高义频：* **救济物 (aid)：**  
 
+
 > send relief to flood victims   
 > 将救济物资运送给遭受洪灾的灾民
 
@@ -3634,6 +3925,7 @@ John is very ________ (rely) — if he promises to do something he’ll do it.
 ---
 - #### in / with relief
 1. **如释重负；松了口气：**  
+
 
 > Hearing that he had passed the exam, he sighed in / with relief.  
 > 听说自己通过了考试，他松了口气。
@@ -3656,6 +3948,7 @@ John is very ________ (rely) — if he promises to do something he’ll do it.
 ---
 1. *高义频：* **使减轻；使解除 (痛苦、忧愁等)：**  
 
+
 > Anxiety may be relieved by talking to a friend.   
 > 和朋友谈谈可以减轻焦虑。
 
@@ -3676,6 +3969,7 @@ relieved /rɪ'liːvd/ adj
 1. *高义频：* **宗教；宗教信仰**  
 
 
+
 # ***religious*** adj
 英音 rɪ'lɪdʒəs     美音 rɪ'lɪdʒəs  
 
@@ -3685,10 +3979,12 @@ relieved /rɪ'liːvd/ adj
 ---
 1. *高义频：* **宗教的：**  
 
+
 > Easter is an important religious and social festival for Christians around the world.   
 > 复活节是全世界基督教徒的一个重要的宗教和公众节日。
 
 2. *低义频：* **笃信宗教的；虔诚的**  
+
 
 
 # ***reluctant*** adj
@@ -3699,6 +3995,7 @@ relieved /rɪ'liːvd/ adj
 英文释义
 ---
 1. *高义频：* **勉强的；不情愿的**  
+
 
 
 # ***rely*** vi
@@ -3712,6 +4009,7 @@ relieved /rɪ'liːvd/ adj
 1. *高义频：* **依靠**  
 to depend on sb / sth：
 
+
 - #### rely on / upon … to do sth:
 
 > These days, we rely heavily on computers to organize our work.  
@@ -3723,6 +4021,7 @@ to depend on sb / sth：
 
 2. *高义频：* **信任**  
 to trust or have faith in sb / sth：
+
 
 - #### rely on / upon … to do sth:
 
@@ -3739,6 +4038,7 @@ to trust or have faith in sb / sth：
 ---
 1. *高义频：* **[正式用语] 停留；逗留 (stay)：**  
 
+
 > We were told to remain in our seats meanwhile with our seat belts fastened.   
 > 我们被告知系好安全带留在座位上。
 
@@ -3747,6 +4047,7 @@ to trust or have faith in sb / sth：
 
 2. *高义频：* **留存；剩下；遗留：**  
 
+
 > Education is what remains after one has forgotten everything he learned in school.  
 > 所谓教育，就是一个人把在学校所学的全部忘光后剩下的东西。
 
@@ -3754,6 +4055,7 @@ to trust or have faith in sb / sth：
 > 火灾后，房子所剩无几。
 
 3. *高义频：* **[作系动词] 保持；仍然是：**  
+
 
 - #### remain + adj:
 
@@ -3770,6 +4072,7 @@ to trust or have faith in sb / sth：
 > 尽管他们有争吵，他们仍然是最好的朋友。
 
 4. *高义频：* **留待；尚待：**  
+
 
 - #### remain to be done:
 
@@ -3811,6 +4114,7 @@ It remains ________ (see) whether Jim’ll be fit enough to play in the finals.
 ---
 1. *高义频：* **剩余物；遗迹；遗体：**  
 
+
 > She fed the remains of her lunch to the dog.   
 > 她把中午的剩饭喂狗了。
 
@@ -3833,6 +4137,7 @@ It remains ________ (see) whether Jim’ll be fit enough to play in the finals.
 ---
 1. *高义频：* **[C] 言论；谈论；评论：**  
 
+
 > remarks by / from   
 > 出自…的话
 
@@ -3849,6 +4154,7 @@ It remains ________ (see) whether Jim’ll be fit enough to play in the finals.
 英文释义
 ---
 1. *高义频：* **vt & vi 谈论；评论：**  
+
 
 > **remarked that**  
 > The teacher remarked that the article was well written.   
@@ -3869,6 +4175,7 @@ It remains ________ (see) whether Jim’ll be fit enough to play in the finals.
 1. *高义频：* **非凡的；卓越的；引人注目的 (astonishing)**  
 
 
+
 派生词汇
 ---
 remarkably /rɪ'mɑːkəbli/ adv [句子副词] 
@@ -3883,6 +4190,7 @@ remarkably /rɪ'mɑːkəbli/ adv [句子副词]
 英文释义
 ---
 1. *高义频：* **记得；记住；想起：**  
+
 
 - #### remember doing sth 记得曾做过某事：
 
@@ -3910,10 +4218,12 @@ remarkably /rɪ'mɑːkəbli/ adv [句子副词]
 
 2. *低义频：* **纪念：**  
 
+
 > the custom of remembering Jesus’ birth   
 > 纪念耶稣诞生的习俗
 
 3. *低义频：* **代...致意；代...问好：**  
+
 
 > **remember me to**  
 > Will you kindly remember me to your family?   
@@ -3924,6 +4234,7 @@ remarkably /rɪ'mɑːkəbli/ adv [句子副词]
 ---
 - #### be remembered as / for 
 1. **因…而著名：**  
+
 
 > Madame Curie will always be remembered as the discoverer of the element radium.   
 > 居里夫人作为镭元素的发现者将永远被人们记住。
@@ -3949,6 +4260,7 @@ I still remember ________ (visit) a friend who’d lived here for fi ve years.
 1. *高义频：* **提醒**  
 to make sb remember sth that they must do：
 
+
 - #### remind sb about / of:
 
 > I forgot to remind him about / of the time for the interview.   
@@ -3973,6 +4285,7 @@ to make sb remember sth that they must do：
 
 2. *高义频：* **使想起**  
 to make sb remember sb that they know or sth that happened in the past：
+
 
 - #### remind sb of sb / sth:
 
@@ -4013,6 +4326,7 @@ In our childhood, we were often ________ (提醒) by Grandma to pay attention to
 ---
 1. *高义频：* **遥远的 (distant)；偏僻的；关系远的：**  
 
+
 > a remote village / area  
 > 偏僻的村庄 / 偏远地区
 
@@ -4026,6 +4340,7 @@ In our childhood, we were often ________ (提醒) by Grandma to pay attention to
 ---
 1. *高义频：* **移走；移开；搬走：**  
 
+
 > He was too tired to remove the stone.   
 > 他太累了，移不开那块石头。
 
@@ -4038,10 +4353,12 @@ In our childhood, we were often ________ (提醒) by Grandma to pay attention to
 
 2. *低义频：* **[正式用语] 摘掉；脱掉**  
 
+
 > She removed the diamond ring to cook a meal.  
 > 为了做饭，她把钻戒摘了下来。
 
 3. *高义频：* **消除；去掉：**  
+
 
 > remove sb’s fear / doubts   
 > 消除某人的恐惧/疑虑
@@ -4050,6 +4367,7 @@ In our childhood, we were often ________ (提醒) by Grandma to pay attention to
 > 袪黑头
 
 4. *高义频：* **把...免职；撤去：**  
+
 
 > **remove,from**  
 > remove a man from office   
@@ -4079,6 +4397,7 @@ When fat and salt _________________ (remove) from food, the food tastes as if it
 1. *高义频：* **复兴**  
 
 
+
 # ***renew*** vt
 英音 rɪ'njuː     美音 rɪ'nuː  
 
@@ -4088,10 +4407,12 @@ When fat and salt _________________ (remove) from food, the food tastes as if it
 ---
 1. *低义频：* **(停下一段时间后) 重新开始：**  
 
+
 > renew a friendship   
 > 恢复友谊
 
 2. *低义频：* **延长 (协议、官方文件等) 的期限；使续期：**  
+
 
 > **renew sb’s passport / license**  
 > renew sb’s passport / license   
@@ -4102,6 +4423,7 @@ When fat and salt _________________ (remove) from food, the food tastes as if it
 > 续借一本书
 
 3. *高义频：* **更换；更新**  
+
 
 
 派生词汇
@@ -4121,6 +4443,7 @@ renewable /rɪ'njuːəbl/ adj
 1. *高义频：* **能再生的；可更新的**  
 
 
+
 # ***rent*** v
 英音 rent     美音 rent  
 
@@ -4129,6 +4452,7 @@ renewable /rɪ'njuːəbl/ adj
 英文释义
 ---
 1. *高义频：* **租用；出租；(AmE) (短期) 租借：**  
+
 
 > **rent,from**  
 > rent an apartment from sb   
@@ -4153,6 +4477,7 @@ renewable /rɪ'njuːəbl/ adj
 ---
 1. *高义频：* **租金：**  
 
+
 > **pay,rent**  
 > pay the rent   
 > 付租金
@@ -4171,6 +4496,7 @@ rented /'rentɪd/ adj
 ---
 1. *高义频：* **修理：**  
 
+
 > repair a broken watch   
 > 修理坏掉的手表
 
@@ -4186,6 +4512,7 @@ rented /'rentɪd/ adj
 ---
 1. *高义频：* **修理；修补：**  
 
+
 > A man should keep his friendship in constant repair.   
 > 只有经常维系，方能保持友谊天长地久。
 
@@ -4195,8 +4522,10 @@ rented /'rentɪd/ adj
 - #### beyond repair 
 1. **无法修复**  
 
+
 - #### under repair 
 1. **在修理中：**  
+
 
 > The castle built in 1432 is under repair.   
 > 这座建于1432年的城堡正在修缮中。
@@ -4220,6 +4549,7 @@ My washing machine ________ (repair) this week, so I have to wash my clothes by 
 ---
 1. *高义频：* **归还；偿还；报答：**  
 
+
 > He promised to repay me the money in a week.   
 > 他承诺一周内还我钱。
 
@@ -4237,6 +4567,7 @@ My washing machine ________ (repair) this week, so I have to wash my clothes by 
 英文释义
 ---
 1. *高义频：* **重复；(数字等) 重复出现：**  
+
 
 > repeat the same mistake   
 > 犯同样的错误
@@ -4270,6 +4601,7 @@ The teacher asked one student to ________ (重复) what he had heard from the ta
 1. *高义频：* **重复 (事物)；重播**  
 
 
+
 # ***repertoire*** n
 英音 'repətwɑː(r)     美音 'repərtwɑːr  
 
@@ -4278,6 +4610,7 @@ The teacher asked one student to ________ (重复) what he had heard from the ta
 英文释义
 ---
 1. **演奏曲目，演出节目**  
+
 
 
 # ***repetition*** n
@@ -4292,6 +4625,7 @@ The teacher asked one student to ________ (重复) what he had heard from the ta
 1. *高义频：* **重复**  
 
 
+
 # ***replace*** vt
 英音 rɪ'pleɪs     美音 rɪ'pleɪs  
 
@@ -4301,10 +4635,12 @@ The teacher asked one student to ________ (重复) what he had heard from the ta
 ---
 1. *低义频：* **把...放回原处：**  
 
+
 > Replace the magazines after reading.   
 > 杂志阅读后请放回原处。
 
 2. *高义频：* **取代；更换：**  
+
 
 > Personally, I think store shopping will exist along with home shopping but will never be replaced.   
 > 我个人认为商店购物会与家庭购物并存，但绝不会被取代。
@@ -4317,6 +4653,7 @@ The teacher asked one student to ________ (重复) what he had heard from the ta
 ---
 - #### replace ... with / by 
 1. **用…替换：**  
+
 
 > They replaced their beloved old cars with expensive new sports cars.   
 > 他们用昂贵的新跑车替代了钟爱的旧车。
@@ -4334,6 +4671,7 @@ replacement /rɪ'pleɪsmənt/ n
 英文释义
 ---
 1. *高义频：* **回答；答复：**  
+
 
 > **reply to**  
 > reply to a question   
@@ -4355,6 +4693,7 @@ replacement /rɪ'pleɪsmənt/ n
 ---
 1. *高义频：* **回答；答复 (answer)：**  
 
+
 > I am looking forward to your early reply.  
 > 期待你早日答复。
 
@@ -4367,6 +4706,7 @@ replacement /rɪ'pleɪsmənt/ n
 ---
 - #### in reply to 
 1. **[正式用语] 为答复：**  
+
 
 > **in reply to**  
 > I’m writing in reply to your letter of June 1st.   
@@ -4381,6 +4721,7 @@ replacement /rɪ'pleɪsmənt/ n
 英文释义
 ---
 1. *高义频：* **报告；报道；汇报：**  
+
 
 - #### report + doing sth / (that) 从句：
 
@@ -4401,6 +4742,7 @@ replacement /rɪ'pleɪsmənt/ n
 
 2. *高义频：* **举报；告发：**  
 
+
 > I’d like to report a robbery.   
 > 我要举报一起抢劫案。
 
@@ -4409,6 +4751,7 @@ replacement /rɪ'pleɪsmənt/ n
 > 我们应向警察举报他。
 
 3. *高义频：* **报到：**  
+
 
 > **report to**  
 > All visitors must report to the reception desk on arrival.   
@@ -4425,6 +4768,7 @@ replacement /rɪ'pleɪsmənt/ n
 英文释义
 ---
 1. *高义频：* **报告；汇报；成绩报告单：**  
+
 
 > **give a report**  
 > make / give a report on / of / about  
@@ -4448,6 +4792,7 @@ replacement /rɪ'pleɪsmənt/ n
 1. **据报道；据说**  
 
 
+
 # ***reporter*** n
 英音 rɪ'pɔːtə(r)     美音 rɪ'pɔːrtər  
 
@@ -4460,6 +4805,7 @@ replacement /rɪ'pleɪsmənt/ n
 1. *高义频：* **记者；报告人**  
 
 
+
 # ***represent*** v  重难点词汇
 英音 ˌreprɪ'zent     美音 ˌreprɪ'zent  
 
@@ -4470,11 +4816,13 @@ replacement /rɪ'pleɪsmənt/ n
 1. *高义频：* **[正式用语] 描绘；展现**  
 to describe sb / sth in a particular way：
 
+
 > The carvings represent a hunting scene.   
 > 这些雕刻作品描绘了狩猎的场面。
 
 2. *高义频：* **表示；象征**  
 to be a sign or symbol of sth：
+
 
 > The word “love” is often represented by a heart.  
 > “爱”这个词常用心形来表示。
@@ -4485,6 +4833,7 @@ to be a sign or symbol of sth：
 3. *高义频：* **代表**  
 to officially speak or act for another person or group of people：
 
+
 > He is the ideal person to represent our class.   
 > 他是代表我们班的理想人选。
 
@@ -4493,6 +4842,7 @@ to officially speak or act for another person or group of people：
 
 4. *高义频：* **相当于**  
 to be or be equal to sth：
+
 
 > A salary rise of 10% represents an annual increase of $3,600 for me.   
 > 对我来说，加薪10%相当于全年收入增加3600美元。
@@ -4508,6 +4858,7 @@ to be or be equal to sth：
 英文释义
 ---
 1. *高义频：* **代表；代理人：**  
+
 
 > **representative of**  
 > a representative of Russia to the UN   
@@ -4530,6 +4881,7 @@ to be or be equal to sth：
 ---
 1. *高义频：* **典型的；有代表性的：**  
 
+
 > **representative of**  
 > be representative of the people   
 > 代表人民
@@ -4544,10 +4896,12 @@ to be or be equal to sth：
 ---
 1. *高义频：* **复制；重现：**  
 
+
 > It’s very hard to reproduce a natural environment in the laboratory.   
 > 在实验室中重现自然环境很难。
 
 2. *高义频：* **生殖；繁殖**  
+
 
 
 # ***reptile*** n
@@ -4562,6 +4916,7 @@ to be or be equal to sth：
 1. *高义频：* **爬行动物**  
 
 
+
 # ***republic*** n
 英音 rɪ'pʌblɪk     美音 rɪ'pʌblɪk  
 
@@ -4572,6 +4927,7 @@ to be or be equal to sth：
 英文释义
 ---
 1. *高义频：* **共和国：**  
+
 
 > the People’s Republic of China   
 > 中华人民共和国
@@ -4594,6 +4950,7 @@ Andorra is a small mountain _________ (共和国) between France and Spain.
 英文释义
 ---
 1. *高义频：* **名声；名誉：**  
+
 
 > **had,reputation for**  
 > Typical of the Scotch, Burns had a reputation for being funny and charming.    
@@ -4622,6 +4979,7 @@ The doctor is skilled at treating heart trouble and never accepts any gift from 
 ---
 1. *高义频：* **（正式的）要求；请求：**  
 
+
 > **make,request for**  
 > make a request for help  
 > 请求帮助
@@ -4639,6 +4997,7 @@ The doctor is skilled at treating heart trouble and never accepts any gift from 
 ---
 - #### at sb’s request / at the request of sb 
 1. **应某人的要求：**  
+
 
 > The students were there at the teacher’s request.   
 > 学生们应老师的要求到了那里。
@@ -4664,6 +5023,7 @@ D.promises
 ---
 1. *高义频：* **[正式用语] 请求；要求**  
 to ask for sth or ask sb to do sth in a polite or formal way：
+
 
 - #### request sb to do sth:
 
@@ -4694,6 +5054,7 @@ Don’t respond to any e-mails _________ (request) personal information, no matt
 英文释义
 ---
 1. *高义频：* **[不用于进行时]需要；要求：**  
+
 
 - #### require doing / to be done:
 
@@ -4737,6 +5098,7 @@ Though it may appear simple, it required a lot of ideas and efforts.
 ---
 1. *高义频：* **需要 (品)；要求 (物)；必要的条件：**  
 
+
 > basic requirements   
 > 基本的要求
 
@@ -4754,6 +5116,7 @@ Though it may appear simple, it required a lot of ideas and efforts.
 ---
 1. *高义频：* **营救：**  
 
+
 > **rescued from**  
 > She was rescued from a burning building.   
 > 她从着火的楼里被救了出来。
@@ -4769,6 +5132,7 @@ Though it may appear simple, it required a lot of ideas and efforts.
 英文释义
 ---
 1. *高义频：* **救援；营救：**  
+
 
 > **come to sb’s rescue**  
 > come to sb’s rescue   
@@ -4790,6 +5154,7 @@ Though it may appear simple, it required a lot of ideas and efforts.
 ---
 1. *高义频：* **[正式用语] 调查；研究：**  
 
+
 > **do research on / in / into**  
 > do research on / in / into Roman history   
 > 从事关于古罗马历史的研究
@@ -4805,6 +5170,7 @@ Though it may appear simple, it required a lot of ideas and efforts.
 英文释义
 ---
 1. *高义频：* **研究：**  
+
 
 > Doctors have been researching that question.   
 > 医生们一直在研究那个问题。
@@ -4826,6 +5192,7 @@ Though it may appear simple, it required a lot of ideas and efforts.
 1. *高义频：* **研究人员**  
 
 
+
 # ***resemble*** vt
 英音 rɪ'zembl     美音 rɪ'zembl  
 
@@ -4835,6 +5202,7 @@ Though it may appear simple, it required a lot of ideas and efforts.
 ---
 1. *高义频：* **[不用于进行时和被动语态] 类似；像**  
 to look like or be similar to sb / sth：
+
 
 > Often the lives of writers resemble the lives of the characters they create.   
 > 通常，作家的生活和他们所创作的人物的生活非常相似。
@@ -4849,11 +5217,13 @@ to look like or be similar to sb / sth：
 ---
 1. *低义频：* **[C] & [U] 保留；异议：**  
 
+
 > **without reservation**  
 > I accept your statement without reservation.   
 > 我完全相信你的话。
 
 2. *高义频：* **(旅馆房间、剧院座位等的) 预订：**  
+
 
 > **make a reservation**  
 > I’ll call the restaurant to make a reservation.   
@@ -4869,10 +5239,12 @@ to look like or be similar to sb / sth：
 ---
 1. *高义频：* **预订 (book)：**  
 
+
 > reserve a room / ticket   
 > 预订房间/票
 
 2. *高义频：* **保留；保存；储备：**  
+
 
 > **reserved for**  
 > These seats are reserved for special guests.  
@@ -4903,11 +5275,13 @@ I’d prefer to ________ (保留) my judgement until I find all the evidence.
 ---
 1. *高义频：* **[常用复数] 储备：**  
 
+
 > **oil / gold reserves**  
 > oil / gold reserves   
 > 石油/黄金储备
 
 2. *高义频：* **(野生动植物的) 保护区：**  
+
 
 > **wildlife reserve**  
 > This coastal area was named a national wildlife reserve last year.   
@@ -4924,6 +5298,7 @@ I’d prefer to ________ (保留) my judgement until I find all the evidence.
 1. **水库**  
 
 
+
 # ***resident*** n
 英音 'rezɪdənt     美音 'rezɪdənt  
 
@@ -4934,6 +5309,7 @@ I’d prefer to ________ (保留) my judgement until I find all the evidence.
 英文释义
 ---
 1. *高义频：* **居民；住户：**  
+
 
 > rural / urban residents   
 > 农村/城市居民
@@ -4953,6 +5329,7 @@ residential /ˌrezɪ'denʃl/ adj
 1. **（在某地）居住的**  
 
 
+
 # ***resign*** v
 英音 rɪ'zaɪn     美音 rɪ'zaɪn  
 
@@ -4961,6 +5338,7 @@ residential /ˌrezɪ'denʃl/ adj
 英文释义
 ---
 1. *高义频：* **辞去 (职务)；放弃：**  
+
 
 > **resign from**  
 > resign from a job   
@@ -4982,12 +5360,14 @@ residential /ˌrezɪ'denʃl/ adj
 ---
 1. *高义频：* **抗拒 (oppose)：**  
 
+
 - #### resist doing sth:
 
 > The bank strongly resisted cutting interest rates.   
 > 银行强烈反对降息。
 
 2. *高义频：* **[常用于否定句] 忍住；抵制：**  
+
 
 - #### resist doing sth:
 
@@ -5004,6 +5384,7 @@ residential /ˌrezɪ'denʃl/ adj
 > 我忍不住把蛋糕吃光了。
 
 3. *高义频：* **抵抗：**  
+
 
 > resist an enemy attack   
 > 抵抗敌人的进攻
@@ -5023,6 +5404,7 @@ resistance /rɪ'zɪstəns/ n
 1. **反抗；抵制**  
 
 
+
 # ***resolution*** n
 英音 ˌrezə'luːʃn     美音 ˌrezə'luːʃn  
 
@@ -5031,6 +5413,7 @@ resistance /rɪ'zɪstəns/ n
 英文释义
 ---
 1. **决心要做的事**  
+
 
 
 # ***resolve*** v
@@ -5044,11 +5427,13 @@ resistance /rɪ'zɪstəns/ n
 ---
 1. *高义频：* **解决 (settle)：**  
 
+
 > **resolve a conflict / an issue**  
 > resolve a conflict / an issue / difficulties  
 > 解决冲突/解决问题/解决难题
 
 2. *高义频：* **[正式用语] 决心；决定：**  
+
 
 > **resolving to lose**  
 > Instead of resolving to lose weight, try an actionable resolution: “I’ll stop having dessert for lunch.”    
@@ -5074,6 +5459,7 @@ resolution /ˌrezə'luːʃn/ n [C] & [U]
 1. *高义频：* **度假胜地**  
 
 
+
 # ***resource*** n
 英音 rɪ'sɔːs; rɪ'zɔːs     美音 'riːsɔːs  
 
@@ -5084,6 +5470,7 @@ resolution /ˌrezə'luːʃn/ n [C] & [U]
 英文释义
 ---
 1. *高义频：* **资源；物力；财力：**  
+
 
 > **natural resources**  
 > natural resources   
@@ -5102,6 +5489,7 @@ resolution /ˌrezə'luːʃn/ n [C] & [U]
 英文释义
 ---
 1. *高义频：* **尊重；尊敬；遵守：**  
+
 
 > The media should respect famous people’s privacy.  
 > 媒体应当尊重名人的隐私。
@@ -5129,6 +5517,7 @@ respectively /rɪ'spektɪvli/ adv
 ---
 1. *高义频：* **[U] 尊敬；尊重：**  
 
+
 > Friendship is built upon respect for each other.  
 > 友谊建立在彼此尊重的基础之上。
 
@@ -5138,11 +5527,13 @@ respectively /rɪ'spektɪvli/ adv
 
 2. *高义频：* **问候：**  
 
+
 > **Give my respects to**  
 > Give my respects to your father.   
 > 代我向你父亲致意。
 
 3. *高义频：* **[C] 关系；方面：**  
+
 
 > **In this respect**  
 > In this respect, new technologies have shaped our culture.   
@@ -5154,8 +5545,10 @@ respectively /rɪ'spektɪvli/ adv
 - #### in respect of 
 1. **关于；就…而言**  
 
+
 - #### with respect to 
 1. **关于；就…而言**  
+
 
 
 # ***respectful*** adj
@@ -5168,6 +5561,7 @@ respectively /rɪ'spektɪvli/ adv
 1. *高义频：* **恭敬的**  
 
 
+
 # ***respond*** v
 英音 rɪ'spɒnd     美音 rɪ'spɑːnd  
 
@@ -5176,6 +5570,7 @@ respectively /rɪ'spektɪvli/ adv
 英文释义
 ---
 1. *高义频：* **回答 (reply)：**  
+
 
 > **respond to**  
 > respond to a letter   
@@ -5189,6 +5584,7 @@ respectively /rɪ'spektɪvli/ adv
 > 当被问到公司的未来时，经理回答说他依然乐观。
 
 2. *高义频：* **响应；有反应 (react)：**  
+
 
 > Knowing basic first-aid techniques will help you respond quickly to emergencies.   
 > 懂得基本的急救技能将有助于你对紧急情况做出迅速反应。
@@ -5204,6 +5600,7 @@ respectively /rɪ'spektɪvli/ adv
 英文释义
 ---
 1. *高义频：* **回答；反应：**  
+
 
 > a quick response   
 > 迅速的答复
@@ -5221,6 +5618,7 @@ respectively /rɪ'spektɪvli/ adv
 - #### in response (to) 
 1. **作为 (对…的) 回答 / 反应：**  
 
+
 > The government acted in response to economic pressure.   
 > 政府为应对经济压力采取了行动。
 
@@ -5235,6 +5633,7 @@ respectively /rɪ'spektɪvli/ adv
 英文释义
 ---
 1. *高义频：* **责任；职责：**  
+
 
 > **accept,responsibility**  
 > accept / shoulder (a) responsibility   
@@ -5258,6 +5657,7 @@ respectively /rɪ'spektɪvli/ adv
 ---
 1. *高义频：* **有责任的；尽责的；作为原由的：**  
 
+
 > a responsible teacher   
 > 负责的老师
 
@@ -5275,6 +5675,7 @@ respectively /rɪ'spektɪvli/ adv
 ---
 1. *高义频：* **(使) 休息：**  
 
+
 > rest one’s brain / eyes   
 > 让大脑/眼睛休息
 
@@ -5291,11 +5692,13 @@ respectively /rɪ'spektɪvli/ adv
 ---
 1. *高义频：* **[C] & [U] 休息：**  
 
+
 > **have / take a rest**  
 > Let’s have / take a rest under the tree.   
 > 我们在这棵树下休息一下吧。
 
 2. *高义频：* **[与the连用] 剩余部分；余下的人 / 物：**  
+
 
 > **the rest of his life**  
 > He lived the rest of his life in the US.   
@@ -5327,6 +5730,7 @@ The factory used 65 percent of the raw materials, the rest of which _______ (be)
 ---
 1. *高义频：* **饭馆；餐馆：**  
 
+
 > run / operate a restaurant   
 > 经营餐馆
 
@@ -5340,6 +5744,7 @@ The factory used 65 percent of the raw materials, the rest of which _______ (be)
 ---
 1. *高义频：* **恢复；修复：**  
 
+
 > Her job is restoring old paintings.   
 > 她的工作是修复古画。
 
@@ -5352,6 +5757,7 @@ The factory used 65 percent of the raw materials, the rest of which _______ (be)
 英文释义
 ---
 1. *高义频：* **限制；约束：**  
+
 
 > restrict one’s freedom   
 > 限制某人的自由
@@ -5367,6 +5773,7 @@ The factory used 65 percent of the raw materials, the rest of which _______ (be)
 英文释义
 ---
 1. *高义频：* **限制；约束：**  
+
 
 > **import / speed restrictions**  
 > import / speed restrictions   
@@ -5387,6 +5794,7 @@ The factory used 65 percent of the raw materials, the rest of which _______ (be)
 1. *高义频：* **限制 (性) 的；约束(性) 的**  
 
 
+
 # ***result*** n  重难点词汇
 英音 rɪ'zʌlt     美音 rɪ'zʌlt  
 
@@ -5395,6 +5803,7 @@ The factory used 65 percent of the raw materials, the rest of which _______ (be)
 英文释义
 ---
 1. *高义频：* **[C] & [U] 结果；成果：**  
+
 
 > **achieve,results**  
 > If you believe in yourself and work hard, you can achieve great results.   
@@ -5405,6 +5814,7 @@ The factory used 65 percent of the raw materials, the rest of which _______ (be)
 > 这本书是25年研究的成果。
 
 2. *高义频：* **比赛结果；考试成绩：**  
+
 
 > the football results   
 > 足球比赛的结果
@@ -5417,6 +5827,7 @@ The factory used 65 percent of the raw materials, the rest of which _______ (be)
 ---
 - #### as a result (of) 
 1. **作为 (…的) 结果：**  
+
 
 > Alice overslept this morning. As a result, she was late for work.  
 > 艾丽斯今天早上睡过了头，结果上班迟到了。
@@ -5446,16 +5857,19 @@ My friend Martin was very sick with a strange fever; ________ (结果), he could
 1. *高义频：* **发生；导致**  
 
 
+
 固定搭配
 ---
 - #### result from 
 1. **因…发生；随…产生：**  
+
 
 > Pollution and other serious problems have resulted from human progress.   
 > 人类的发展引起了污染和其他严重的问题。
 
 - #### result in 
 1. **造成；导致 (cause / lead to)：**  
+
 
 > I learned that shouting and threats of punishment would result in a disaster.  
 > 我认识到叫嚣和威胁惩罚会导致祸端。
@@ -5471,6 +5885,7 @@ My friend Martin was very sick with a strange fever; ________ (结果), he could
 英文释义
 ---
 1. *高义频：* **重新开始；恢复：**  
+
 
 > resume traffic   
 > 恢复交通
@@ -5490,6 +5905,7 @@ My friend Martin was very sick with a strange fever; ________ (结果), he could
 ---
 1. *高义频：* **简历：**  
 
+
 > Your reporter gave me a copy of his resume.   
 > 你们的记者给了我一份他的简历。
 
@@ -5504,6 +5920,7 @@ My friend Martin was very sick with a strange fever; ________ (结果), he could
 英文释义
 ---
 1. *高义频：* **再讲；重复；复述：**  
+
 
 > retell the story   
 > 复述这个故事
@@ -5524,6 +5941,7 @@ The students are required to ________ (复述) the story after reading it.
 英文释义
 ---
 1. *高义频：* **(使) 退休；(使) 引退：**  
+
 
 > **retired**  
 > At age 68, he retired, but he never stopped serving the community.    
@@ -5549,6 +5967,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 1. **退休的**  
 
 
+
 # ***retirement*** n
 英音 rɪ'taɪəmənt     美音 rɪ'taɪəmənt  
 
@@ -5557,6 +5976,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 英文释义
 ---
 1. **退休**  
+
 
 
 # ***retreat*** v
@@ -5569,6 +5989,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 1. **撤退，后退**  
 
 
+
 # ***return*** n
 英音 rɪ'tɜːn     美音 rɪ'tɜːrn  
 
@@ -5579,6 +6000,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 英文释义
 ---
 1. *高义频：* **回来；归来；再现：**  
+
 
 > **return flight / journey**  
 > the return flight / journey   
@@ -5593,6 +6015,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 
 2. *高义频：* **归还；退还；放回：**  
 
+
 > **return address**  
 > The return address on the envelope caught his attention.   
 > 信封上的寄件人地址引起了他的注意。
@@ -5605,6 +6028,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ---
 - #### in return (for sth) 
 1. **作为 (…的) 交换; 作为 (…的) 回报：**  
+
 
 > If we smile at life, life will smile on us in return.    
 > 如果我们微笑地面对生活，生活也会以微笑回报我们。
@@ -5629,6 +6053,7 @@ While staying in the village, James unselfishly shared whatever he had with the 
 ---
 1. *高义频：* **回来；返回；重新出现 (go / come back)：**  
 
+
 > **returned,to,from_1**  
 > By the time Jack returned home / to his home from England, his son had graduated from college.    
 > 当杰克从英国回到家乡的时候，他的儿子已经大学毕业了。
@@ -5637,6 +6062,7 @@ While staying in the village, James unselfishly shared whatever he had with the 
 > 如果疼痛反复，再预约看医生。
 
 2. *高义频：* **归还；送回；放回：**  
+
 
 > **return,to**  
 > Please make sure you return the book to the library before it’s due.  
@@ -5648,6 +6074,7 @@ While staying in the village, James unselfishly shared whatever he had with the 
 
 3. *低义频：* **(以相同的东西) 回报 / 报答：**  
 
+
 > **return the favour**  
 > Thanks for helping me. I’ll try to return the favour some day.   
 > 谢谢你对我的帮助，有朝一日我会报答你的。
@@ -5657,6 +6084,7 @@ While staying in the village, James unselfishly shared whatever he had with the 
 ---
 - #### return to
 1. **(使) 恢复；继续做；重新做：**  
+
 
 > **return to normal**  
 > Even with treatment, they may never return to normal.    
@@ -5674,6 +6102,7 @@ While staying in the village, James unselfishly shared whatever he had with the 
 ---
 1. *高义频：* **再统一；再联合；重聚：**  
 
+
 > **reunited with**  
 > The children were finally reunited with their families.   
 > 孩子们终于和自己的家人重聚了。
@@ -5689,6 +6118,7 @@ While staying in the village, James unselfishly shared whatever he had with the 
 1. **可再度使用的，可多次使用的**  
 
 
+
 # ***reuse*** vt
 英音 ˌriː'juːz     美音 ˌriː'juːz  
 
@@ -5697,6 +6127,7 @@ While staying in the village, James unselfishly shared whatever he had with the 
 英文释义
 ---
 1. *高义频：* **重新使用；再使用：**  
+
 
 > When the waste water from factory is made clean and reused, a lot of money is saved.   
 > 工厂的废水净化后重新使用，可以节约很多钱。
@@ -5710,6 +6141,7 @@ While staying in the village, James unselfishly shared whatever he had with the 
 英文释义
 ---
 1. *高义频：* **揭露；泄露：**  
+
 
 > **reveal,to**  
 > He did not reveal his secret plan to us.   
@@ -5726,6 +6158,7 @@ While staying in the village, James unselfishly shared whatever he had with the 
 1. **报仇，复仇**  
 
 
+
 # ***revenge*** n
 英音 rɪ'vendʒ     美音 rɪ'vendʒ  
 
@@ -5734,6 +6167,7 @@ While staying in the village, James unselfishly shared whatever he had with the 
 英文释义
 ---
 1. **复仇；报复**  
+
 
 
 # ***revenue*** n
@@ -5748,6 +6182,7 @@ While staying in the village, James unselfishly shared whatever he had with the 
 1. *高义频：* **收入；税收**  
 
 
+
 # ***reverse*** v
 英音 rɪ'vɜːs     美音 rɪ'vɜːrs  
 
@@ -5756,6 +6191,7 @@ While staying in the village, James unselfishly shared whatever he had with the 
 英文释义
 ---
 1. *高义频：* **vt 颠倒；改变；vt & vi 倒 (车)**  
+
 
 
 # ***reverse*** n
@@ -5770,6 +6206,7 @@ While staying in the village, James unselfishly shared whatever he had with the 
 1. *高义频：* **相反；反面；(机动车的) 倒挡**  
 
 
+
 # ***review*** vt  重难点词汇
 英音 rɪ'vjuː     美音 rɪ'vjuː  
 
@@ -5779,20 +6216,24 @@ While staying in the village, James unselfishly shared whatever he had with the 
 ---
 1. *高义频：* **复习；温习 (revise)：**  
 
+
 > We should review our lessons every day.   
 > 我们应当每天复习功课。
 
 2. *高义频：* **复阅；复查：**  
+
 
 > Review your homework before you turn it in.   
 > 上交作业前你要再检查一遍。
 
 3. *高义频：* **回顾；反思：**  
 
+
 > He reviewed the whole of his past life.   
 > 他回顾了自己过去的整个人生。
 
 4. *高义频：* **给 (书、戏剧、电影等) 写评论：**  
+
 
 > I only go to see films that are reviewed favourably.  
 > 我只去看评价好的电影。
@@ -5814,12 +6255,15 @@ Don’t worry if you don’t understand everything. The teacher will ________ (�
 ---
 1. *高义频：* **[C] 复习；温习：**  
 
+
 > The teacher distributed a review for the exam.   
 > 老师为考试布置了复习任务。
 
 2. *低义频：* **报告；回顾**  
 
+
 3. *高义频：* **[C] & [U] 书评；剧评；影评；评论：**  
+
 
 > a book / film review   
 > 书评/影评
@@ -5838,10 +6282,12 @@ Don’t worry if you don’t understand everything. The teacher will ________ (�
 ---
 1. *高义频：* **修订；修正：**  
 
+
 > revise rules   
 > 修正规则
 
 2. *高义频：* **复习；温习 (review / study)：**  
+
 
 > I spent the weekend revising for my exam.   
 > 我花了整个周末来复习备考。
@@ -5863,10 +6309,12 @@ The old rules have to be ________ (修正) because they only applied to the circ
 ---
 1. *高义频：* **[U] 复习；温习：**  
 
+
 > How much revision do you do before an exam?   
 > 考试前你做了多少复习？
 
 2. *高义频：* **[C] & [U] 修订；修正**  
+
 
 
 # ***revival*** n
@@ -5877,6 +6325,7 @@ The old rules have to be ________ (修正) because they only applied to the circ
 英文释义
 ---
 1. **振兴；复苏**  
+
 
 > An economic revival is sweeping the country.  
 > 一股经济艺术复兴的大潮正席卷全国。
@@ -5890,6 +6339,7 @@ The old rules have to be ________ (修正) because they only applied to the circ
 英文释义
 ---
 1. **复活；（使）苏醒**  
+
 
 > The economy is beginning to revive.  
 > 经济开始复苏。
@@ -5906,6 +6356,7 @@ The old rules have to be ________ (修正) because they only applied to the circ
 ---
 1. *高义频：* **革命；剧烈的变革：**  
 
+
 > the Industrial Revolution   
 > 工业革命
 
@@ -5918,6 +6369,7 @@ The old rules have to be ________ (修正) because they only applied to the circ
 英文释义
 ---
 1. *高义频：* **革命的：**  
+
 
 > Copernicus’ revolutionary theory  
 > 哥白尼的革命性理论
@@ -5933,6 +6385,7 @@ The old rules have to be ________ (修正) because they only applied to the circ
 1. *高义频：* **(使) 旋转**  
 
 
+
 # ***reward*** n  重难点词汇
 英音 rɪ'wɔːd     美音 rɪ'wɔːrd  
 
@@ -5942,6 +6395,7 @@ The old rules have to be ________ (修正) because they only applied to the circ
 ---
 1. *高义频：* **[C] & [U] 报答；报酬；奖赏**  
 sth that you are given because you have done sth good, worked hard, etc.：
+
 
 > My grandmother says that a good deed is its own reward.   
 > 我祖母说善举本身就是回报。
@@ -5954,6 +6408,7 @@ sth that you are given because you have done sth good, worked hard, etc.：
 > 学校有奖惩制度来鼓励良好的行为。
 
 2. *高义频：* **[C] 悬赏金；赏金：**  
+
 
 > **reward for**  
 > There is a reward for information leading to catching the killer.   
@@ -5974,6 +6429,7 @@ sth that you are given because you have done sth good, worked hard, etc.：
 英文释义
 ---
 1. *高义频：* **[常用于被动语态] 报答；酬劳；奖赏：**  
+
 
 > The police will reward whoever provides useful information to catch the robber.  
 > 任何人提供有用信息帮助抓住劫匪，警方将予以奖励。
@@ -6001,6 +6457,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 ---
 1. *高义频：* **绕回； (将影片、录音带等) 倒回：**  
 
+
 > rewind the tape   
 > 倒带
 
@@ -6017,6 +6474,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 1. *高义频：* **重写；改写 (故事等)**  
 
 
+
 # ***rhetorical*** adj
 英音 rɪ'tɒrɪkl     美音 rɪ'tɔːrɪkl  
 
@@ -6025,6 +6483,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 英文释义
 ---
 1. **修辞的**  
+
 
 
 # ***rhino*** n
@@ -6037,6 +6496,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 1. *高义频：* **[pl rhinos] 犀牛**  
 
 
+
 # ***rhyme*** n
 英音 raɪm     美音 raɪm  
 
@@ -6046,11 +6506,13 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 ---
 1. *低义频：* **[U] 韵；押韵：**  
 
+
 > **in rhyme**  
 > It is a poem written in rhyme.   
 > 这是一首押韵的诗。
 
 2. *低义频：* **[C] 押韵诗；儿歌；韵文：**  
+
 
 > children’s rhymes and stories   
 > 儿歌和童话
@@ -6064,6 +6526,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 英文释义
 ---
 1. *高义频：* **(使) 押韵：**  
+
 
 > **rhymes with**  
 > “Though” rhymes with “low”.   
@@ -6081,6 +6544,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 ---
 1. *高义频：* **节奏；节律：**  
 
+
 > She started dancing to the rhythm of the music.   
 > 她开始随着音乐的节拍跳舞。
 
@@ -6097,6 +6561,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 1. *高义频：* **有节奏的；节奏强劲的**  
 
 
+
 # ***ribbon*** n
 英音 'rɪbən     美音 'rɪbən  
 
@@ -6109,6 +6574,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 1. *高义频：* **丝带；带状物**  
 
 
+
 # ***rice*** n
 英音 raɪs     美音 raɪs  
 
@@ -6119,6 +6585,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 英文释义
 ---
 1. *高义频：* **米；米饭；稻：**  
+
 
 > Rice is an important food in India, China, and Japan.   
 > 大米是印度、中国和日本的主食。
@@ -6133,10 +6600,12 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 ---
 1. *高义频：* **有钱的；富裕的：**  
 
+
 > a rich nation   
 > 富裕的国家
 
 2. *低义频：* **肥沃的：**  
+
 
 > rich soil   
 > 肥沃的土地
@@ -6146,6 +6615,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 ---
 - #### be rich in 
 1. **在…方面丰富：**  
+
 
 > The country is rich in resources.   
 > 这个国家资源丰富。
@@ -6168,6 +6638,7 @@ richness /'rɪtʃnəs/ n
 1. *高义频：* **佝偻病**  
 
 
+
 # ***rid*** vt
 英音 rɪd     美音 rɪd  
 
@@ -6180,6 +6651,7 @@ richness /'rɪtʃnəs/ n
 - #### be / get rid of 
 1. **摆脱；除去：**  
 
+
 > He is rid of fever.   
 > 他不发烧了。
 
@@ -6188,6 +6660,7 @@ richness /'rɪtʃnəs/ n
 
 - #### rid sb / sth of sth
 1. **[正式用语] 使摆脱；使除掉：**  
+
 
 > Thanks to his research, the UN has more tools in the battle to rid the world of hunger.   
 > 由于他的研究，联合国在消除世界饥饿的战斗中有了更多的方法。
@@ -6207,6 +6680,7 @@ richness /'rɪtʃnəs/ n
 ---
 1. *高义频：* **谜；难以理解的人 / 事：**  
 
+
 > **solve,riddle**  
 > solve / answer a riddle   
 > 猜谜；解谜
@@ -6222,6 +6696,7 @@ richness /'rɪtʃnəs/ n
 英文释义
 ---
 1. *高义频：* **骑 (马等)；乘 (车等)：**  
+
 
 > **ride on**  
 > ride on a motorcycle / horse   
@@ -6244,6 +6719,7 @@ richness /'rɪtʃnəs/ n
 英文释义
 ---
 1. *高义频：* **乘车；骑； (游乐园中) 供骑、乘的玩具：**  
+
 
 > **give you a ride**  
 > Shall I give you a ride as you live so far away?   
@@ -6270,6 +6746,7 @@ riding /'raɪdɪŋ/ n [U]
 1. *高义频：* **山脊；屋脊**  
 
 
+
 # ***ridiculous*** adj
 英音 rɪ'dɪkjələs     美音 rɪ'dɪkjələs  
 
@@ -6278,6 +6755,7 @@ riding /'raɪdɪŋ/ n [U]
 英文释义
 ---
 1. *高义频：* **荒谬的；可笑的；滑稽的 (absurd)**  
+
 
 
 # ***right*** adj
@@ -6289,6 +6767,7 @@ riding /'raɪdɪŋ/ n [U]
 ---
 1. *高义频：* **对的；正确的；正当的**  
 反义词 wrong ： 
+
 > Rules often tell us what is right or wrong.   
 > 规则往往告诉我们什么是正确的或什么是错误的。
 
@@ -6298,15 +6777,18 @@ riding /'raɪdɪŋ/ n [U]
 
 2. *高义频：* **右的；右翼的**  
 反义词 left ： 
+
 > Most people eat, write and work with their right hands.   
 > 多数人用右手吃饭、写字、工作。
 
 3. *高义频：* **适当的**  
 反义词 wrong ： 
+
 > Learn to say the right thing at the right time.   
 > 学会在适当的时候说适当的话。
 
 4. *高义频：* **正常的；健全的：**  
+
 
 > Are you right now?   
 > 你这会儿感觉好吗?
@@ -6321,17 +6803,20 @@ riding /'raɪdɪŋ/ n [U]
 ---
 1. *高义频：* **恰好：**  
 
+
 > **Right after**  
 > Right after he was rescued by the soldiers from the ruins, he saluted and smiled to them.  
 > 他刚被战士们从废墟中救出来就微笑着向他们敬礼。
 
 2. *高义频：* **正确地**  
 反义词 wrong ： 
+
 > You guessed right.   
 > 你猜对了。
 
 3. *高义频：* **在右边；向右边**  
 反义词 left ： 
+
 > After getting off the train, turn right and you’ll see a hill in front of you.   
 > 下火车后向右转，你就会看见面前有一座山。
 
@@ -6341,11 +6826,13 @@ riding /'raɪdɪŋ/ n [U]
 - #### right now 
 1. **现在；立刻；马上：**  
 
+
 > I’d better clean the screen of computer right now.   
 > 我还是现在就把电脑屏幕擦干净吧。
 
 - #### right away 
 1. **立刻：**  
+
 
 > Imagine your home begins to shake and you must leave it right away.   
 > 设想一下你家开始摇晃了，你必须立刻离开。
@@ -6360,10 +6847,12 @@ riding /'raɪdɪŋ/ n [U]
 ---
 1. *高义频：* **[C] & [U] 正确：**  
 
+
 > the difference between right and wrong   
 > 是与非的区别
 
 2. *高义频：* **[常用单数] 右侧；右边：**  
+
 
 > The boy looked to the right.   
 > 那男孩朝右边看了看。
@@ -6373,6 +6862,7 @@ riding /'raɪdɪŋ/ n [U]
 > 在某人的右侧
 
 3. *高义频：* **[C] & [U] 权利：**  
+
 
 > **have the right**  
 > I believe that children have the right to live in a world that is safe.   
@@ -6392,6 +6882,7 @@ rightly /'raɪtli/ adv
 ---
 1. *高义频：* **用右手的；惯用右手的：**  
 
+
 > Most of us are right-handed men.   
 > 我们绝大多数人是惯用右手的。
 
@@ -6405,10 +6896,12 @@ rightly /'raɪtli/ adv
 ---
 1. *低义频：* **坚硬的：**  
 
+
 > a rigid bar of metal   
 > 坚固的金属横杆
 
 2. *低义频：* **固执的；刻板的 (inflexible)：**  
+
 
 > rigid attitudes   
 > 固执的态度
@@ -6425,6 +6918,7 @@ rightly /'raɪtli/ adv
 ---
 1. *高义频：* **(使钟、铃) 鸣响；敲 (钟)；按 (铃)：**  
 
+
 > ring an alarm   
 > 敲起警钟
 
@@ -6435,6 +6929,7 @@ rightly /'raɪtli/ adv
 > 有人在按门铃。
 
 2. *高义频：* **打电话 (给)：**  
+
 
 > ring for a taxi   
 > 打电话叫出租车
@@ -6452,8 +6947,10 @@ rightly /'raɪtli/ adv
 - #### ring off 
 1. **挂断电话**  
 
+
 - #### ring up 
 1. **打电话 (给)：**  
+
 
 > I’ll ring him up again.   
 > 我会再打电话给他。
@@ -6470,7 +6967,9 @@ rightly /'raɪtli/ adv
 ---
 1. *高义频：* **环；圈；戒指**  
 
+
 2. *高义频：* **铃声；钟声**  
+
 
 
 # ***ripe*** adj
@@ -6481,6 +6980,7 @@ rightly /'raɪtli/ adv
 英文释义
 ---
 1. *高义频：* **(果、谷等) 成熟的；时机成熟的：**  
+
 
 > ripe apples   
 > 成熟的苹果
@@ -6501,6 +7001,7 @@ rightly /'raɪtli/ adv
 ---
 1. *高义频：* **(使) 成熟：**  
 
+
 > The rice has ripened.   
 > 稻子已经成熟了。
 
@@ -6516,6 +7017,7 @@ rightly /'raɪtli/ adv
 ---
 1. *高义频：* **(直) 起身；起立 (get up)：**  
 
+
 > **rose to her feet**  
 > She rose to her feet in one swift movement.    
 > 她迅速地站了起来。
@@ -6529,6 +7031,7 @@ rightly /'raɪtli/ adv
 
 2. *高义频：* **升高；上升；升起**  
 反义词 set： 
+
 > **rose and fell_1**  
 > For three days the water in the village wells rose and fell, rose and fell.    
 > 三天内村子井里的水位反复起落。
@@ -6538,11 +7041,13 @@ rightly /'raɪtli/ adv
 
 3. *高义频：* **(数值等) 增加；增长；上涨：**  
 
+
 > **risen sharply**  
 > The price of petrol has risen sharply since last month.   
 > 汽油的价格自上个月起急剧上涨。
 
 4. *高义频：* **(声音) 提高；(感情或情绪) 变得强烈：**  
+
 
 > His voice rose as he got angry.   
 > 愤怒时他提高了嗓门。
@@ -6571,6 +7076,7 @@ The next thing he saw was smoke ________ (rise) from behind the house.
 ---
 1. *高义频：* **上升；上涨；增长【反:fall】；加薪 (AmE raise)：**  
 
+
 > **on the rise**  
 > The cost of living is on the rise.    
 > 生活成本正在上涨。
@@ -6581,6 +7087,7 @@ The next thing he saw was smoke ________ (rise) from behind the house.
 
 2. *高义频：* **兴起：**  
 
+
 > the rise of electronic commerce (e-commerce)    
 > 电子商务的兴起
 
@@ -6589,6 +7096,7 @@ The next thing he saw was smoke ________ (rise) from behind the house.
 ---
 - #### give rise to 
 1. **[正式用语] 引起；导致 (尤指坏事)：**  
+
 
 > This may give rise to prejudices of the educated against those with little knowledge of English.  
 > 这可能导致受过教育的人对那些不太懂英语的人产生偏见。
@@ -6603,6 +7111,7 @@ The next thing he saw was smoke ________ (rise) from behind the house.
 ---
 1. *高义频：* **[C] & [U] 危险；风险：**  
 
+
 > **increase / reduce the risk**  
 > increase / reduce the risk   
 > 增加/降低风险
@@ -6612,6 +7121,7 @@ The next thing he saw was smoke ________ (rise) from behind the house.
 > 经常运动可使患心脏病的风险减半！
 
 2. *高义频：* **[C] 危险人物；会带来风险的事物：**  
+
 
 > **health / fire risk**  
 > a major health / fire risk  
@@ -6623,6 +7133,7 @@ The next thing he saw was smoke ________ (rise) from behind the house.
 - #### at risk (from / of) 
 1. **有危险：**  
 
+
 > **put at risk**  
 > If we go to war, innocent lives will be put at risk.   
 > 如果我们发动战争，无辜的生命就会受到威胁。
@@ -6633,17 +7144,20 @@ The next thing he saw was smoke ________ (rise) from behind the house.
 - #### at the risk of doing sth 
 1. **冒着做某事的风险：**  
 
+
 > He saved my life at the risk of losing his own.   
 > 他冒着生命危险救了我的命。
 
 - #### run / take a risk 
 1. **冒险 (run / take risks)：**  
 
+
 > He felt he had to decide on every step instead of taking risks.   
 > 他觉得他必须考虑好每一步，而不能冒险。
 
 - #### run / take the risk of doing sth 
 1. **冒险做某事：**  
+
 
 > Mary couldn’t take the risk of leaving her baby alone even for a short time.   
 > 玛丽不敢冒险让她的孩子独自待着，即使是很短的时间。
@@ -6657,6 +7171,7 @@ The next thing he saw was smoke ________ (rise) from behind the house.
 英文释义
 ---
 1. *高义频：* **冒...的危险；冒险干：**  
+
 
 - #### risk doing sth:
 
@@ -6689,6 +7204,7 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 1. **危险的；冒险的**  
 
 
+
 # ***rival*** n
 英音 'raɪvl     美音 'raɪvl  
 
@@ -6701,6 +7217,7 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 1. *高义频：* **对手**  
 
 
+
 # ***rivalry*** n
 英音 'raɪvlri     美音 'raɪvlri  
 
@@ -6709,6 +7226,7 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 英文释义
 ---
 1. **（不断的）竞争**  
+
 
 
 # ***river*** n
@@ -6723,6 +7241,7 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 1. *高义频：* **河；江**  
 
 
+
 # ***road*** n
 英音 rəʊd     美音 roʊd  
 
@@ -6733,6 +7252,7 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 英文释义
 ---
 1. *高义频：* **路；道路：**  
+
 
 > **in the road**  
 > in the road   
@@ -6755,6 +7275,7 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 1. **（常作复数）道路施工**  
 
 
+
 # ***roar*** v
 英音 rɔː(r)     美音 rɔːr  
 
@@ -6763,6 +7284,7 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 英文释义
 ---
 1. *高义频：* **吼叫；大声喊叫**  
+
 
 
 # ***roar*** n
@@ -6777,6 +7299,7 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 1. *高义频：* **吼叫声；喊叫声**  
 
 
+
 # ***roast*** v
 英音 rəʊst     美音 roʊst  
 
@@ -6785,6 +7308,7 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 英文释义
 ---
 1. *高义频：* **烤；烘：**  
+
 
 > Food will include buffalo that will be roasted over an open fire.    
 > 食物将包括在明火上烧烤的美洲野牛肉。
@@ -6802,6 +7326,7 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 ---
 1. *高义频：* **烤过的：**  
 
+
 > roast pork   
 > 烤猪肉
 
@@ -6816,6 +7341,7 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 1. **烤，烘**  
 
 
+
 # ***rob*** vt
 英音 rɒb     美音 rɑːb  
 
@@ -6825,6 +7351,7 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 ---
 1. *高义频：* **劫掠；抢劫：**  
 
+
 > They robbed the rich to help the poor.   
 > 他们劫富济贫。
 
@@ -6833,6 +7360,7 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 ---
 - #### rob sb of sth 
 1. **抢走某人的某物：**  
+
 
 > The young man robbed her of her bag.   
 > 那个年轻人抢走了她的包。
@@ -6855,6 +7383,7 @@ robbery /'rɒbəri/ n
 1. *高义频：* **抢劫；盗窃**  
 
 
+
 # ***robe*** n
 英音 rəʊb     美音 roʊb  
 
@@ -6863,6 +7392,7 @@ robbery /'rɒbəri/ n
 英文释义
 ---
 1. **长袍**  
+
 
 
 # ***robot*** n
@@ -6877,6 +7407,7 @@ robbery /'rɒbəri/ n
 1. *高义频：* **机器人**  
 
 
+
 # ***rock*** n
 英音 rɒk     美音 rɑːk  
 
@@ -6886,12 +7417,15 @@ robbery /'rɒbəri/ n
 ---
 1. *高义频：* **[C] & [U] 岩石：**  
 
+
 > as firm as a rock   
 > 坚如磐石
 
 2. *高义频：* **[C] 石块**  
 
+
 3. *高义频：* **[U] 摇；摆动；摇滚乐：**  
+
 
 > **Rock’ n’ Roll,rock band**  
 > Rock’ n’ Roll / a rock band  
@@ -6906,6 +7440,7 @@ robbery /'rɒbəri/ n
 英文释义
 ---
 1. *高义频：* **摇；轻摇；(使) 震动：**  
+
 
 > rock a baby to / into sleep   
 > 摇婴儿入睡
@@ -6924,6 +7459,7 @@ robbery /'rɒbəri/ n
 1. **摇滚乐**  
 
 
+
 # ***rockabilly*** n
 英音 'rɒkəbɪli     美音 'rɑːkəbɪli  
 
@@ -6932,6 +7468,7 @@ robbery /'rɒbəri/ n
 英文释义
 ---
 1. **乡村摇滚乐（一种由乡村音乐与摇滚音乐结合而成的旋律狂热的轻音乐）**  
+
 
 
 # ***rocket*** n
@@ -6944,6 +7481,7 @@ robbery /'rɒbəri/ n
 英文释义
 ---
 1. *高义频：* **火箭；火箭弹：**  
+
 
 > **launch a rocket**  
 > launch a rocket   
@@ -6958,6 +7496,7 @@ robbery /'rɒbəri/ n
 英文释义
 ---
 1. *高义频：* **飞速上升；飞驰：**  
+
 
 > **rocketed up**  
 > Unemployment has rocketed up again.   
@@ -6976,6 +7515,7 @@ robbery /'rɒbəri/ n
 1. *高义频：* **杆；竿；棒**  
 
 
+
 # ***role*** n
 英音 rəʊl     美音 roʊl  
 
@@ -6987,6 +7527,7 @@ robbery /'rɒbəri/ n
 ---
 1. *高义频：* **角色：**  
 
+
 > **leading role**  
 > the leading role   
 > 主角
@@ -6994,10 +7535,12 @@ robbery /'rɒbəri/ n
 - #### play the role of
 1. **扮演…的角色：**  
 
+
 > He played the role of a successful lawyer in the play.  
 > 他在剧中扮演一位成功的律师。
 
 2. *高义频：* **作用：**  
+
 
 > **leading role**  
 > a leading role   
@@ -7008,6 +7551,7 @@ robbery /'rɒbəri/ n
 ---
 - #### play a(n) … role in 
 1. **在…中起…作用：**  
+
 
 > Farming plays an important role in the country’s economy.   
 > 农业在该国经济中起着重要的作用。
@@ -7024,6 +7568,7 @@ robbery /'rɒbəri/ n
 ---
 1. *高义频：* **(使) 滚动；转动：**  
 
+
 > **rolled her eyes**  
 > Cassie rolled her eyes.   
 > 卡西翻了翻眼睛。
@@ -7033,6 +7578,7 @@ robbery /'rɒbəri/ n
 > 泪水从她脸上慢慢地流了下来。
 
 2. *高义频：* **卷：**  
+
 
 > **rolled up**  
 > He rolled up the map.   
@@ -7045,6 +7591,7 @@ robbery /'rɒbəri/ n
 1. **翻身；打滚**  
 
 
+
 # ***roll*** n
 英音 rəʊl     美音 roʊl  
 
@@ -7055,6 +7602,7 @@ robbery /'rɒbəri/ n
 英文释义
 ---
 1. *高义频：* **卷；卷形物；面包卷；(正式的) 名册：**  
+
 
 > a roll of carpet / film   
 > 一卷地毯/胶卷
@@ -7073,6 +7621,7 @@ robbery /'rɒbəri/ n
 1. *高义频：* **[U] 浪漫的气氛；[C] 爱情故事**  
 
 
+
 # ***romantic*** adj
 英音 rəʊ'mæntɪk     美音 roʊ'mæntɪk  
 
@@ -7082,6 +7631,7 @@ robbery /'rɒbəri/ n
 ---
 1. *高义频：* **浪漫的；传奇 (式) 的：**  
 
+
 > Shelley was a romantic poet.   
 > 雪莱是浪漫派诗人。
 
@@ -7090,6 +7640,7 @@ robbery /'rɒbəri/ n
 
 2. *高义频：* **不切实际的；虚构的**  
 反义词 realistic： 
+
 > a romantic report   
 > 夸大的报道
 
@@ -7106,6 +7657,7 @@ robbery /'rɒbəri/ n
 1. *高义频：* **浪漫的人；浪漫主义作家 / 音乐家 / 艺术家**  
 
 
+
 # ***roof*** n
 英音 ruːf     美音 ruːf  
 
@@ -7118,6 +7670,7 @@ robbery /'rɒbəri/ n
 1. *高义频：* **(pl roofs) 屋顶**  
 
 
+
 # ***rooftop*** n
 英音 'ruːftɒp     美音 'ruːftɑːp  
 
@@ -7126,6 +7679,7 @@ robbery /'rɒbəri/ n
 英文释义
 ---
 1. **屋顶**  
+
 
 
 # ***room*** n
@@ -7137,10 +7691,12 @@ robbery /'rɒbəri/ n
 ---
 1. *高义频：* **[C] 房间：**  
 
+
 > go out of a room   
 > 走出房间
 
 2. *高义频：* **[U] 空间；余地：**  
+
 
 > There is little room to move in the crowd.   
 > 人群中没有挪动的空间。
@@ -7172,6 +7728,7 @@ James took the magazines off the little table to make room ________ the televisi
 1. *高义频：* **公鸡**  
 
 
+
 # ***root*** n
 英音 ruːt     美音 ruːt  
 
@@ -7182,6 +7739,7 @@ James took the magazines off the little table to make room ________ the televisi
 英文释义
 ---
 1. *高义频：* **根；根茎；词根；根源：**  
+
 
 > the roots of a tree   
 > 树根
@@ -7203,6 +7761,7 @@ James took the magazines off the little table to make room ________ the televisi
 ---
 1. *高义频：* **(使) 生根；(使) 扎根：**  
 
+
 > **is rooted in**  
 > Great cause is rooted in great dreams, so as well the great life.   
 > 伟大的事业源于伟大的梦想；伟大的人生源于伟大的梦境。
@@ -7222,6 +7781,7 @@ James took the magazines off the little table to make room ________ the televisi
 1. **根，根基**  
 
 
+
 # ***rope*** n
 英音 rəʊp     美音 roʊp  
 
@@ -7232,6 +7792,7 @@ James took the magazines off the little table to make room ________ the televisi
 英文释义
 ---
 1. *高义频：* **绳；索**  
+
 
 
 # ***rose*** n
@@ -7246,6 +7807,7 @@ James took the magazines off the little table to make room ________ the televisi
 1. *高义频：* **玫瑰花**  
 
 
+
 # ***rosebud*** n
 英音 'rəʊzbʌd     美音 'roʊzbʌd  
 
@@ -7258,6 +7820,7 @@ James took the magazines off the little table to make room ________ the televisi
 1. *高义频：* **玫瑰花蕾**  
 
 
+
 # ***rot*** v
 英音 rɒt     美音 rɑːt  
 
@@ -7266,6 +7829,7 @@ James took the magazines off the little table to make room ________ the televisi
 英文释义
 ---
 1. *高义频：* **(使) 腐烂； (使) 腐败：**  
+
 
 > **rot away**  
 > rot away   
@@ -7285,6 +7849,7 @@ James took the magazines off the little table to make room ________ the televisi
 1. **（细菌引起的）腐败病；腐蚀病**  
 
 
+
 # ***rotating*** adj
 英音 rəʊ'teɪtɪŋ     美音 roʊ'teɪtɪŋ  
 
@@ -7293,6 +7858,7 @@ James took the magazines off the little table to make room ________ the televisi
 英文释义
 ---
 1. **旋转的；循环的**  
+
 
 
 # ***rough*** adj
@@ -7304,6 +7870,7 @@ James took the magazines off the little table to make room ________ the televisi
 ---
 1. *高义频：* **(表面) 粗糙的； (道路) 崎岖的**  
 反义词 smooth: 
+
 > a rough road   
 > 崎岖的道路
 
@@ -7311,6 +7878,7 @@ James took the magazines off the little table to make room ________ the televisi
 > 你的手粗糙但温暖有力。
 
 2. *低义频：* **(天气) 恶劣的；有暴风雨的；风浪大的：**  
+
 
 > rough weather   
 > 狂风暴雨的天气
@@ -7320,17 +7888,20 @@ James took the magazines off the little table to make room ________ the televisi
 
 3. *高义频：* **[无比较级变化] 粗略的：**  
 
+
 > **rough estimate**  
 > a rough estimate   
 > 粗略估计
 
 4. *高义频：* **艰难的 (tough)；难受的：**  
 
+
 > **have a rough time**  
 > have a rough time   
 > 处境艰难
 
 5. *高义频：* **多暴力的；犯罪率高的：**  
+
 
 > It was a rough neighbourhood and it was already dark.   
 > 这是一个暴力多发的地段，并且天已经黑了。
@@ -7353,6 +7924,7 @@ roughly /'rʌfli/ adv
 1. *高义频：* **粗略地；粗糙地**  
 
 
+
 # ***round*** adj
 英音 raʊnd     美音 raʊnd  
 
@@ -7362,14 +7934,18 @@ roughly /'rʌfli/ adv
 ---
 1. *高义频：* **圆的；圆柱形的**  
 
+
 2. *高义频：* **圈状的；环形的**  
 
+
 3. *低义频：* **[只用于名词前，无比较级变化] 周游的；往返的：**  
+
 
 > a round trip   
 > 往返旅行
 
 4. *高义频：* **[只用于名词前，无比较级变化] 整数的；无零头的：**  
+
 
 > a round dozen / day   
 > 一整打/一整天
@@ -7384,6 +7960,7 @@ roughly /'rʌfli/ adv
 ---
 1. *高义频：* **循环地；围绕地；在周围 (around)：**  
 
+
 > He looked round, but could see nobody.   
 > 他环顾四周，但谁也没看见。
 
@@ -7397,6 +7974,7 @@ roughly /'rʌfli/ adv
 ---
 1. *高义频：* **围绕着；在...周围；在...各处 (around)：**  
 
+
 > There are eight planets going round the sun.   
 > 有八大行星围绕着太阳转。
 
@@ -7409,6 +7987,7 @@ roughly /'rʌfli/ adv
 英文释义
 ---
 1. *高义频：* **使成圆形；环绕...而行：**  
+
 
 > He rounded his lips and whistled.   
 > 他撅起嘴唇吹口哨。
@@ -7429,6 +8008,7 @@ roughly /'rʌfli/ adv
 1. *高义频：* **轮次；一回合；一局**  
 
 
+
 # ***round-faced*** adj
 英音 'raʊnd'feɪst     美音 'raʊnd'feɪst  
 
@@ -7439,6 +8019,7 @@ roughly /'rʌfli/ adv
 1. **圆脸的**  
 
 
+
 # ***roundabout*** adj
 英音 'raʊndəbaʊt     美音 'raʊndəbaʊt  
 
@@ -7447,6 +8028,7 @@ roughly /'rʌfli/ adv
 英文释义
 ---
 1. *高义频：* **迂回的；不直截了当的：**  
+
 
 > take a roundabout route   
 > 绕道
@@ -7468,6 +8050,7 @@ roughly /'rʌfli/ adv
 1. *高义频：* **(道路交叉处的) 环形路；迂回路线**  
 
 
+
 # ***route*** n
 英音 ruːt     美音 raʊt  
 
@@ -7478,6 +8061,7 @@ roughly /'rʌfli/ adv
 英文释义
 ---
 1. *高义频：* **路线；路程；航线；途径：**  
+
 
 > **take / follow a route**  
 > take / follow a route   
@@ -7493,6 +8077,7 @@ roughly /'rʌfli/ adv
 ---
 1. *高义频：* **[C] & [U] 例行公事；惯例：**  
 
+
 > **daily routine**  
 > daily routine   
 > 日常工作
@@ -7501,6 +8086,7 @@ roughly /'rʌfli/ adv
 > 确立/打破常规
 
 2. *低义频：* **[C] 常规节目；一套舞步 / 舞蹈动作：**  
+
 
 > **dance routine**  
 > a dance routine   
@@ -7527,6 +8113,7 @@ D.routine
 ---
 1. *高义频：* **例行的；常规的：**  
 
+
 > a routine report   
 > 例行报告
 
@@ -7542,6 +8129,7 @@ D.routine
 ---
 1. *高义频：* **(一) 排；(一) 行：**  
 
+
 > sit in the front row   
 > 坐在前排
 
@@ -7554,6 +8142,7 @@ D.routine
 ---
 - #### in a row 
 1. **排成一排；连续地：**  
+
 
 > The children were asked to stand in a row.   
 > 孩子们被要求站成一列。
@@ -7571,6 +8160,7 @@ D.routine
 ---
 1. *高义频：* **划 (船)：**  
 
+
 > **row across**  
 > She had to row across the bay to reach the other side.    
 > 她必须划船去海湾的另一边。
@@ -7587,6 +8177,7 @@ D.routine
 ---
 1. *高义频：* **划船：**  
 
+
 > go for a row  
 > 去划船
 
@@ -7599,6 +8190,7 @@ D.routine
 英文释义
 ---
 1. *高义频：* **王室的；皇家的；盛大的：**  
+
 
 > the royal family  
 > 王室；皇族
@@ -7616,15 +8208,18 @@ D.routine
 ---
 1. *高义频：* **擦；摩擦；揉；搓：**  
 
+
 > rub one’s eyes / hands / head   
 > 揉眼睛/搓手/摸头
 
 2. *高义频：* **用...擦 / 涂；抹：**  
 
+
 > rub sun cream on   
 > 在…上涂防晒霜
 
 3. *高义频：* **磨；磨损 / 痛：**  
+
 
 > The back of my shoe is rubbing.   
 > 我的鞋后跟磨脚。
@@ -7640,6 +8235,7 @@ D.routine
 1. *高义频：* **[C] 橡皮；黑板擦；[U] 橡胶**  
 
 
+
 # ***rubbish*** n
 英音 'rʌbɪʃ     美音 'rʌbɪʃ  
 
@@ -7651,10 +8247,12 @@ D.routine
 ---
 1. *高义频：* **垃圾；废物 (AmE trash)：**  
 
+
 > collect rubbish   
 > 收垃圾
 
 2. *高义频：* **废话；无聊的想法：**  
+
 
 > **talk rubbish**  
 > Don’t talk rubbish!   
@@ -7670,6 +8268,7 @@ D.routine
 ---
 1. *高义频：* **无礼的；粗鲁的 (impolite)**  
 反义词 polite： 
+
 - #### it is rude (of sb) to do sth:
 
 > In some European countries it is rude to arrive late for dinner.   
@@ -7686,6 +8285,7 @@ D.routine
 ---
 - #### be rude to sb 
 1. **对某人无礼：**  
+
 
 > You mustn’t be rude to teachers.  
 > 不能对老师无礼。
@@ -7707,6 +8307,7 @@ rudely /'ruːdli/ adv
 1. *高义频：* **橄榄球**  
 
 
+
 # ***ruin*** vt
 英音 'ruːɪn     美音 'ruːɪn  
 
@@ -7716,6 +8317,7 @@ rudely /'ruːdli/ adv
 ---
 1. *高义频：* **毁灭；(完全地) 毁坏**  
 to spoil or destroy sth completely：
+
 
 > Don’t let a small disagreement ruin your friendship.  
 > 不要让小小的分歧破坏你们的友谊。
@@ -7727,6 +8329,7 @@ to spoil or destroy sth completely：
 四者都有“破坏”之意。
 2. *高义频：* **使破产**  
 to make sb lose all his / her money：
+
 
 > If she loses the court case it will ruin her.   
 > 如果败诉，她就倾家荡产了。
@@ -7741,6 +8344,7 @@ to make sb lose all his / her money：
 ---
 1. *高义频：* **[U] 毁灭；破产：**  
 
+
 > the ruin of civilization   
 > 文明的毁灭
 
@@ -7754,6 +8358,7 @@ to make sb lose all his / her money：
 
 2. *高义频：* **[C] [常用复数] 废墟；遗迹；残余：**  
 
+
 > the ruins of Rome   
 > 古罗马遗迹
 
@@ -7762,6 +8367,7 @@ to make sb lose all his / her money：
 ---
 - #### in ruins 
 1. **成废墟；严重受损：**  
+
 
 > **lay in ruins**  
 > In fifteen terrible seconds a large city lay in ruins.  
@@ -7781,6 +8387,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 ---
 1. *高义频：* **[C] 规则；条例；规律：**  
 
+
 > the rule of the game   
 > 游戏规则
 
@@ -7794,6 +8401,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 2. *高义频：* **[U] 统治**  
 
 
+
 # ***rule*** v
 英音 ruːl     美音 ruːl  
 
@@ -7802,6 +8410,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 英文释义
 ---
 1. *高义频：* **统治；支配：**  
+
 
 > **rule,over**  
 > rule (over) a country  
@@ -7815,6 +8424,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 ---
 - #### rule out 
 1. **排除；取消：**  
+
 
 > We can’t rule out the possibility that he’ll come after all.   
 > 我们不能排除他最终会来的可能性。
@@ -7839,6 +8449,7 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 1. *高义频：* **尺子；统治者；管理者**  
 
 
+
 # ***rumor*** n
 英音 'ruːmə     美音 'ruːmə  
 
@@ -7849,6 +8460,7 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 英文释义
 ---
 1. *高义频：* **谣言；谣传：**  
+
 
 > a false rumor   
 > 虚假的传言
@@ -7869,6 +8481,7 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 ---
 1. *高义频：* **谣言；谣传：**  
 
+
 > a false rumor  
 > 虚假的传言
 
@@ -7888,6 +8501,7 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 ---
 1. *高义频：* **跑 (某段距离)；赛跑；(液体) 流动：**  
 
+
 > Sibson ran back upstairs to call 911 from his bedroom.  
 > 西布森跑回楼上的卧室拨打911。
 
@@ -7899,6 +8513,7 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 
 2. *高义频：* **(使) 运转；运行；操作：**  
 
+
 > I think that clock is running a bit slow.   
 > 我觉得那个钟走得有点慢。
 
@@ -7907,10 +8522,12 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 
 3. *高义频：* **管理；经营：**  
 
+
 > When I was young, my parents ran a snack bar in our small town.   
 > 我小的时候，父母在我们的小镇上开了一家小吃店。
 
 4. *高义频：* **(尤指在美国) 参加竞选：**  
+
 
 > run in election   
 > 参加竞选
@@ -7919,6 +8536,7 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 > 竞选总统
 
 5. *高义频：* **变成；成为：**  
+
 
 > We’ve run short of milk.   
 > 我们没牛奶了。
@@ -7929,6 +8547,7 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 - #### run across 
 1. **跑着穿过；偶然碰见：**  
 
+
 > He ran across the fields.   
 > 他跑过了田野。
 
@@ -7937,6 +8556,7 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 
 - #### run after 
 1. **追赶；追求：**  
+
 
 > If you run after two hares, you will catch neither.   
 > 面面俱到，诸事未了。
@@ -7947,6 +8567,7 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 - #### run away (from) 
 1. **逃走；逃避：**  
 
+
 > The thief heard the noise and ran away quickly.   
 > 小偷听到声音，匆忙逃走了。
 
@@ -7955,6 +8576,7 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 
 - #### run into 
 1. **撞上；偶然遇见；遇到 (困难等)：**  
+
 
 > The driver of a large truck, unable to stop in time, ran into our car.   
 > 大卡车司机没能及时停车，撞上了我们的车。
@@ -7968,6 +8590,7 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 - #### run out (of)
 1. **用完；耗尽：**  
 
+
 > In the future, care for the environment will become very important as earth’s natural resources run out.  
 > 在未来，爱护环境将会很重要，因为地球的资源将濒临枯竭。
 
@@ -7977,6 +8600,7 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 - #### run over 
 1. **碾过；思考：**  
 
+
 > To the public’s sadness, she was run over and killed by the bus.   
 > 令公众伤心的是她被公共汽车撞死了。
 
@@ -7985,6 +8609,7 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 
 - #### run through 
 1. **跑着穿过；把…匆匆过一遍**  
+
 
 
 真题解析
@@ -8009,6 +8634,7 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 ---
 1. *高义频：* **[C] 跑；跑步：**  
 
+
 > **go for,run**  
 > go for a run   
 > 去跑步
@@ -8018,6 +8644,7 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 
 2. *低义频：* **[常用单数] 态势；趋势：**  
 
+
 > the run of the market   
 > 市场走势
 
@@ -8026,6 +8653,7 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 ---
 - #### in / over the long run 
 1. **从长远看：**  
+
 
 > A true friend will advise us to do what he thinks is best for us in the long run.   
 > 真正的朋友会建议我们做从长远来看对我们有利的事。
@@ -8044,6 +8672,7 @@ runner /'rʌnə(r)/ n [C]
 ---
 1. *低义频：* **[只用于名词前] 奔跑的；赛跑的；用于赛跑的：**  
 
+
 > a running train   
 > 行进中的列车
 
@@ -8051,6 +8680,7 @@ runner /'rʌnə(r)/ n [C]
 > 跑鞋
 
 2. *低义频：* **流动的：**  
+
 
 > **running water**  
 > running water   
@@ -8072,6 +8702,7 @@ runner /'rʌnə(r)/ n [C]
 1. *高义频：* **奔跑；赛跑；运行；运转**  
 
 
+
 # ***rural*** adj
 英音 'rʊərəl     美音 'rʊrəl  
 
@@ -8080,6 +8711,7 @@ runner /'rʌnə(r)/ n [C]
 英文释义
 ---
 1. *高义频：* **农村的；乡民的：**  
+
 
 
 # ***rush*** v
@@ -8091,10 +8723,12 @@ runner /'rʌnə(r)/ n [C]
 ---
 1. *高义频：* **冲；奔：**  
 
+
 > He rushed to the school without having breakfast.   
 > 他没吃早饭就赶往学校。
 
 2. *高义频：* **使冲；使急行：**  
+
 
 > rush troops to the front   
 > 急调部队去前线
@@ -8114,6 +8748,7 @@ runner /'rʌnə(r)/ n [C]
 ---
 1. *高义频：* **冲；急速前进；繁忙 (时刻)：**  
 
+
 > The water came out of the tap at a rush.   
 > 水从龙头中急速流出。
 
@@ -8130,5 +8765,6 @@ runner /'rʌnə(r)/ n [C]
 英文释义
 ---
 1. **生锈**  
+
 
 

@@ -20,7 +20,8 @@ def gy_paraphrase(t): #12568
     if t['english']!='':print(t['english'],file=f)
     
     if t['antonym']!='':print('反义词 ' + t['antonym']+' ',end='',file=f)
-    if t['synonyms']!='':print('近义词 ' + t['synonyms']+'  ',file=f)
+    if t['synonyms']!='':print('近义词 ' + t['synonyms']+'  ',end='',file=f)
+    print(file=f)
     print(file=f)
     
     if t['gy_sentential_form']!=[]:
@@ -205,6 +206,7 @@ print('3.所有词组输出')
 print('4.所有词输出')
 print()
 ch = input('请输入数字：')
+if ch=='':ch='1234'
 
 #Processing
 print()

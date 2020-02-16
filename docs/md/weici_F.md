@@ -10,6 +10,7 @@
 1. **[U] & [C] 织物；织品；结构**  
 
 
+
 # ***face*** n
 英音 feɪs     美音 feɪs  
 
@@ -20,6 +21,7 @@
 英文释义
 ---
 1. *高义频：* **脸；面部；面部表情：**  
+
 
 > a weather-beaten / smiling face   
 > 饱经风霜的脸/笑脸
@@ -34,11 +36,13 @@
 
 2. *高义频：* **人：**  
 
+
 > **new / different faces**  
 > There are a few new / different faces in class this year.   
 > 今年班上来了几个新面孔。
 
 3. *高义频：* **表面；坡面：**  
+
 
 > A cube has six faces.   
 > 立方体有六个面。
@@ -48,6 +52,7 @@
 > 山的北坡
 
 4. *高义频：* **[构成形容词 -faced] 有…面容的；有…表情的：**  
+
 
 > a round-faced / serious-faced girl  
 > 圆脸/表情严肃的女孩
@@ -61,6 +66,7 @@
 - #### face to face
 1. **面对面地 :**  
 
+
 > I have often dreamed of talking face to face with you.  
 > 我一直希望和你当面聊一聊。
 
@@ -70,11 +76,13 @@
 - #### in the face of
 1. **面对；不顾：**  
 
+
 > He remained calm even in the face of danger.  
 > 即使面对危险，他也镇定自若。
 
 - #### lose face
 1. **丢脸；失面子：**  
+
 
 > She was afraid of losing face if she failed.  
 > 她害怕如果失败会很没面子。
@@ -82,11 +90,13 @@
 - #### make / pull a face / faces
 1. **做鬼脸：**  
 
+
 > The boys made faces at each other when the teacher turned her back.  
 > 老师转过身去的时候，孩子们互相做鬼脸。
 
 - #### to sb's face
 1. **当着某人的面：**  
+
 
 > They called Tony “Fatty” but never to his face.  
 > 他们叫托尼“胖子”,但从未当面叫过他。
@@ -101,6 +111,7 @@
 ---
 1. *高义频：* **面向；面朝：**  
 
+
 > **south-facing**  
 > a south-facing room   
 > 朝南的房间
@@ -109,6 +120,7 @@
 > 法国隔着英吉利海峡与英国相望。
 
 2. *高义频：* **面临；面对；正视：**  
+
 
 - #### (be) faced with:
 
@@ -130,6 +142,7 @@
 ---
 - #### face up to 
 1. **勇于面对 / 接受：**  
+
 
 > Facing up to your problems rather than running away from them is the best approach to working things out.  
 > 勇于面对自己的问题而不是逃避是解决事情的最好办法。
@@ -153,6 +166,7 @@ ________ (face) with so much trouble, we failed to complete the task on time.
 1. **当面的；面对面的**  
 
 
+
 # ***facial*** adj
 英音 'feɪʃl     美音 'feɪʃl  
 
@@ -161,6 +175,7 @@ ________ (face) with so much trouble, we failed to complete the task on time.
 英文释义
 ---
 1. *高义频：* **面部的：**  
+
 
 > The most universal facial expression is, of course, the smile.  
 > 世界最通用的面部表情当然是微笑。
@@ -174,6 +189,7 @@ ________ (face) with so much trouble, we failed to complete the task on time.
 英文释义
 ---
 1. **促进；使便利：**  
+
 
 > Computers can be used to facilitate language learning.  
 > 计算机可为语言学习带来便利。
@@ -190,6 +206,7 @@ ________ (face) with so much trouble, we failed to complete the task on time.
 ---
 1. *高义频：* **设施；设备：**  
 
+
 > **private facilities**  
 > All rooms have private facilities (= a private bathroom).  
 > 所有房间都有独立的卫浴。
@@ -199,6 +216,7 @@ ________ (face) with so much trouble, we failed to complete the task on time.
 > 这家酒店拥有自己的游泳池和休闲设施。
 
 2. *低义频：* **(用于某种活动、行业或服务的) 场所；建筑：**  
+
 
 > a pet care facility   
 > 宠物护理中心
@@ -212,6 +230,7 @@ ________ (face) with so much trouble, we failed to complete the task on time.
 英文释义
 ---
 1. *高义频：* **[C] & [U] 事实；真相：**  
+
 
 > Facts speak louder than words.  
 > 事实胜于雄辩。
@@ -229,6 +248,7 @@ ________ (face) with so much trouble, we failed to complete the task on time.
 - #### as a matter of fact / in fact
 1. **事实上 (actually)：**  
 
+
 > As a matter of fact, there are educational, music and art websites that are truly helpful to teenagers.  
 > 事实上，有很多教育、音乐和艺术类网站对青少年很有益。
 
@@ -243,6 +263,7 @@ ________ (face) with so much trouble, we failed to complete the task on time.
 
 - #### in fact
 1. **其实；实际上 (actually)：**  
+
 
 > In fact, exercise produces chemicals that are good for your brain.  
 > 事实上，运动产生对大脑有益的化学物质。
@@ -264,6 +285,7 @@ There’s no reason to be disappointed. ________ (事实上), this could be rath
 ---
 1. *高义频：* **[C] 因素；要素：**  
 
+
 > economic factors   
 > 经济因素
 
@@ -282,6 +304,7 @@ There’s no reason to be disappointed. ________ (事实上), this could be rath
 1. *高义频：* **[C] 工厂**  
 
 
+
 # ***factual*** adj
 英音 'fæktʃuəl     美音 'fæktʃuəl  
 
@@ -292,6 +315,7 @@ There’s no reason to be disappointed. ________ (事实上), this could be rath
 1. **实际的；事实的；确实的**  
 
 
+
 # ***fade*** v
 英音 feɪd     美音 feɪd  
 
@@ -300,6 +324,7 @@ There’s no reason to be disappointed. ________ (事实上), this could be rath
 英文释义
 ---
 1. *高义频：* **(使) 褪色；(使) 变暗：**  
+
 
 > The strong sunlight has faded the window curtains.  
 > 强烈的阳光晒得窗帘褪了色。
@@ -312,6 +337,7 @@ There’s no reason to be disappointed. ________ (事实上), this could be rath
 
 2. *高义频：* **vi 逐渐消失 (fade away)：**  
 
+
 > They arrived home just as the light was fading.  
 > 他们到家的时候，天刚擦黑。
 
@@ -323,6 +349,7 @@ There’s no reason to be disappointed. ________ (事实上), this could be rath
 ---
 - #### fade out
 1. **(画面) 淡出；(声音) 渐弱：**  
+
 
 > The closing music fades out when the hero rides off into the sunset.  
 > 随着男主角策马向夕阳驰去，尾声音乐逐渐消失。
@@ -338,6 +365,7 @@ There’s no reason to be disappointed. ________ (事实上), this could be rath
 1. *高义频：* **失败；没做成**  
 to not succeed in achieving sth：
 反义词 succeed 
+
 > We tried but failed.  
 > 我们尝试过，可是失败了。
 
@@ -352,6 +380,7 @@ to not succeed in achieving sth：
 2. *高义频：* **未做**  
 to not do sth：
 
+
 > **fails to**  
 > If a store clerk fails to charge us for an item, what shall we do?  
 > 如果商店营业员少收了我们一件商品的钱，我们该怎么办？
@@ -362,6 +391,7 @@ to not do sth：
 
 3. *高义频：* **没有通过 (考试)；不及格；评定 (某人)不及格：**  
 反义词 pass 
+
 > I passed history but failed chemistry.  
 > 我通过了历史考试，但化学不及格。
 
@@ -371,11 +401,13 @@ to not do sth：
 4. *低义频：* **出故障；失灵**  
 to stop working：
 
+
 > He saw a terrible accident in which a tram's brakes failed.  
 > 他看见了一起可怕的事故，一辆有轨电车的刹车失灵了。
 
 5. *低义频：* **[常用于进行时] (健康、体力、视力等) 衰退；减弱**  
 to become weak：
+
 
 > His eyesight is failing.   
 > 他的视力日渐衰退。
@@ -385,6 +417,7 @@ to become weak：
 > 她的身体状况越来越差。
 
 6. *低义频：* **使失望 (let down)；使无能为力：**  
+
 
 > When we needed his help, he failed us.  
 > 我们需要他帮助的时候，他却让我们失望了。
@@ -414,8 +447,10 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
 ---
 1. **[C] (考试) 不及格**  
 反义词 pass 
+
 - #### without fail
 1. **必定；总是；务必**  
+
 
 
 # ***failure*** n
@@ -427,6 +462,7 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
 ---
 1. *高义频：* **[U] 失败:**  
 反义词 success 
+
 > Failure is the mother of success.  
 > 失败是成功之母。
 
@@ -443,12 +479,14 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
 
 2. *高义频：* **[U] & [C] 没做到：**  
 
+
 > **Failure to**  
 > Failure to observe all Park rules could result in being driven out of the Park.  
 > 不遵守公园规定会被逐出公园。
 
 3. *高义频：* **[C] 失败的人 / 事：**  
 反义词 success 
+
 > **a failure**  
 > Never think of yourself as a failure.  
 > 永远不要认为自己是个失败者。
@@ -458,6 +496,7 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
 > 艺术展非但没有失败，反而很成功。
 
 4. *高义频：* **[U] & [C] 故障；失灵：**  
+
 
 > the power / engine failure  
 > 停电/发动机故障
@@ -476,11 +515,13 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
 ---
 1. *高义频：* **眩晕的；虚弱的：**  
 
+
 > **faint with**  
 > I was faint with hunger.  
 > 我饿得头晕眼花。
 
 2. *高义频：* **(光、声、味等) 微弱的；微小的 (slight)：**  
+
 
 > **the faint,light**  
 > the faint memory / light  
@@ -507,6 +548,7 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
 ---
 1. *高义频：* **昏厥；晕倒：**  
 
+
 > Many people in the crowd fainted in the heat.  
 > 人群里有许多人热得晕了过去。
 
@@ -520,6 +562,7 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
 ---
 1. *高义频：* **公平的；公正的；合理的**  
 反义词 unfair 
+
 > a fair price  
 > 合理的价格
 
@@ -534,6 +577,7 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
 2. *高义频：* **相当大的；相当多的**  
 quite good, large, etc.：
 
+
 > a fair amount of money   
 > 许多钱
 
@@ -543,10 +587,12 @@ quite good, large, etc.：
 
 3. *高义频：* **(肤色) 白皙的；(头发) 浅色的：**  
 反义词 dark 
+
 > She is a tall girl with fair hair.  
 > 她身材高挑，有一头浅发。
 
 4. *高义频：* **晴朗的(fine)：**  
+
 
 > It will be fair tomorrow.  
 > 明天会是个好天。
@@ -560,6 +606,7 @@ quite good, large, etc.：
 英文释义
 ---
 1. *高义频：* **[C] 露天游乐场；集市；展销会；义卖会：**  
+
 
 > a book / trade fair  
 > 书展/商品交易会
@@ -582,6 +629,7 @@ quite good, large, etc.：
 1. **浅肤色的**  
 
 
+
 # ***fairly*** adv
 英音 'feəli     美音 'ferli  
 
@@ -590,6 +638,7 @@ quite good, large, etc.：
 英文释义
 ---
 1. *高义频：* **公平地；相当 (quite)：**  
+
 
 > treat sb fairly  
 > 公正地对待某人
@@ -609,6 +658,7 @@ quite good, large, etc.：
 ---
 1. *高义频：* **[C] 小仙子；小精灵：**  
 
+
 > a fairy tale  
 > 童话；神话
 
@@ -623,6 +673,7 @@ quite good, large, etc.：
 1. **童话**  
 
 
+
 # ***faith*** n
 英音 feɪθ     美音 feɪθ  
 
@@ -631,6 +682,7 @@ quite good, large, etc.：
 英文释义
 ---
 1. *高义频：* **[U] 信任；信心：**  
+
 
 > **have,faith in**  
 > I'm delighted to know you have such faith in me.  
@@ -644,6 +696,7 @@ quite good, large, etc.：
 > 叶芝对新艺术运动的未来充满信心。
 
 2. *高义频：* **[U] 宗教信仰；[C] 宗教：**  
+
 
 > people of different faiths  
 > 信仰不同宗教的人士
@@ -663,6 +716,7 @@ faithfully /'feɪθfəli/ adv
 ---
 1. *高义频：* **忠诚地；忠实地：**  
 
+
 > He had served the family faithfully for forty years.   
 > 他已经为这一家人忠心耿耿地服务了40年。
 
@@ -675,6 +729,7 @@ faithfully /'feɪθfəli/ adv
 英文释义
 ---
 1. *高义频：* **假的；伪造的：**  
+
 
 > a fake $20 bill  
 > 一张20美元的假钞
@@ -690,6 +745,7 @@ faithfully /'feɪθfəli/ adv
 1. *高义频：* **[C] 假货；赝品：**  
 
 
+
 # ***fall*** vi  重难点词汇
 英音 fɔːl     美音 fɔːl  
 
@@ -700,6 +756,7 @@ faithfully /'feɪθfəli/ adv
 英文释义
 ---
 1. *高义频：* **表示从高处到低处落下**  
+
 
 - #### 落下 (drop)；降落；跌倒；坍塌：
 
@@ -731,6 +788,7 @@ faithfully /'feɪθfəli/ adv
 
 2. *高义频：* **表示落在某处**  
 
+
 - #### 落在；落到：
 
 > Her hair fell over her shoulders, gentle and pretty.  
@@ -756,6 +814,7 @@ faithfully /'feɪθfəli/ adv
 > 中秋节是在中国农历八月十五那天。
 
 3. *高义频：* **表示进入某种状态**  
+
 
 - #### [用作系动词] 变成；成为；陷入某种状态：
 
@@ -798,6 +857,7 @@ faithfully /'feɪθfəli/ adv
 - #### fall apart
 1. **散架；瓦解：**  
 
+
 > I think this old chair is falling apart.  
 > 我觉得这把旧椅子要散架了。
 
@@ -807,17 +867,20 @@ faithfully /'feɪθfəli/ adv
 - #### fall back on
 1. **求助于；借助于：**  
 
+
 > I don’t want to have nothing else to fall back on when I can’t model any more.  
 > 我不想当自己不能再做模特时没有其他东西可依靠。
 
 - #### fall behind
 1. **落在 (…) 后面；跟不上：**  
 
+
 > When some students fell behind, others would come and offer help.  
 > 当有些同学落后时，其他的同学就会主动来帮忙。
 
 - #### fall down
 1. **跌倒；倒塌；不尽如人意：**  
+
 
 > You must watch your step so as not to fall down.  
 > 你必须留心脚下以免跌倒。
@@ -831,6 +894,7 @@ faithfully /'feɪθfəli/ adv
 - #### fall for
 1. **[非正式用语] 爱上；上…的当：**  
 
+
 > A friend of mine went to Yunnan and fell for a Dai woman.  
 > 我有个朋友去云南时爱上了一位傣族女子。
 
@@ -840,11 +904,13 @@ faithfully /'feɪθfəli/ adv
 - #### fall off
 1. **(从…) 掉下；跌落：**  
 
+
 > When you are learning to ride a bicycle, you often fall off.  
 > 学骑自行车时，经常会摔下来。
 
 - #### fall out
 1. **(牙齿或头发) 脱落；掉落：**  
+
 
 > **2018 江苏改**  
 > The old couple’s hair was falling out.  
@@ -852,6 +918,7 @@ faithfully /'feɪθfəli/ adv
 
 - #### fall over 
 1. **被…绊倒；倒下：**  
+
 
 > I rushed for the door and fell over the cat in the hallway.   
 > 我向门口冲去，在过道被猫绊了一跤。
@@ -869,6 +936,7 @@ faithfully /'feɪθfəli/ adv
 ---
 1. *高义频：* **[C] 落下；跌倒；(雨 、雪等) 的降落：**  
 
+
 > A fall into the pit, a gain in your wit.  
 > 吃一堑，长一智。
 
@@ -880,10 +948,12 @@ faithfully /'feɪθfəli/ adv
 
 2. *高义频：* **[C] (温度、价格等) 下降；(风势、声音等) 减弱：**  
 
+
 > There was a sudden fall in temperature.  
 > 气温突然下降。
 
 3. *高义频：* **[U] 沦陷；衰亡：**  
+
 
 > the rise and fall of UK  
 > 大英帝国的兴衰
@@ -906,6 +976,7 @@ I am awfully tired, but I know I'll never fall sleep.
 1. **[C] 秋天 (BrE autumn)**  
 
 
+
 # ***false*** adj
 英音 fɔːls     美音 fɔːls  
 
@@ -915,6 +986,7 @@ I am awfully tired, but I know I'll never fall sleep.
 ---
 1. *高义频：* **假的；不真实的；不正确的；人造的 (artificial)：**  
 反义词 true 
+
 > The huge amount of false information on the Internet becomes more of a problem every day.  
 > 网上大量的虚假信息已日渐成为一个棘手的问题。
 
@@ -930,6 +1002,7 @@ I am awfully tired, but I know I'll never fall sleep.
 英文释义
 ---
 1. *高义频：* **[U] 名声；名望；声誉：**  
+
 
 > **win / achieve / gain fame**  
 > win / achieve / gain fame  
@@ -951,6 +1024,7 @@ I am awfully tired, but I know I'll never fall sleep.
 英文释义
 ---
 1. *高义频：* **熟悉的；常见的：**  
+
 
 > They are already familiar faces on our TV screens.  
 > 他们已经是我们电视屏幕上的熟面孔了。
@@ -976,6 +1050,7 @@ familiarity /fəˌmɪli'ærəti/ n
 英文释义
 ---
 1. *高义频：* **[C] 家 (庭)；家人；家族；科：**  
+
 
 > a family of three  
 > 三口之家
@@ -1003,6 +1078,7 @@ family作主语时，若指“各个家庭成员”，谓语动词用复数；�
 ---
 1. *高义频：* **[C] & [U] 饥荒：**  
 
+
 > When there is a shortage of food, there is a famine.  
 > 食物短缺就会有饥荒。
 
@@ -1015,6 +1091,7 @@ family作主语时，若指“各个家庭成员”，谓语动词用复数；�
 英文释义
 ---
 1. *高义频：* **著名的；出名的 (well-known)：**  
+
 
 > It is better to be faithful than famous.  
 > 守信誉胜过有名气。
@@ -1050,10 +1127,12 @@ Zhejiang is f________ for tea and silk.
 ---
 1. *高义频：* **扇子；风扇：**  
 
+
 > an electric fan  
 > 电扇
 
 2. *高义频：* **(运动、电影等的) 狂热爱好者；迷：**  
+
 
 > I'm a football fan and like watching football games.  
 > 我是个足球迷，喜欢观看足球比赛。
@@ -1072,6 +1151,7 @@ Zhejiang is f________ for tea and silk.
 ---
 1. *高义频：* **(BrE) [非正式用语] 想要 (feel like)；喜欢：**  
 
+
 > Do you fancy an ice cream?  
 > 你想来个冰激凌吗？
 
@@ -1085,10 +1165,12 @@ Zhejiang is f________ for tea and silk.
 2. *低义频：* **想象；设想**  
 to believe or imagine sth：
 
+
 > I can't fancy her (as / to be) a teacher.  
 > 我无法想象她当老师会是什么样。
 
 3. *低义频：* **(BrE) 认为...会成功 / 赢：**  
+
 
 > Which team do you fancy this year?  
 > 你认为今年哪支队会赢？
@@ -1100,6 +1182,7 @@ to believe or imagine sth：
 1. **自以为是某种人**  
 
 
+
 # ***fancy*** n
 英音 'fænsi     美音 'fænsi  
 
@@ -1108,6 +1191,7 @@ to believe or imagine sth：
 英文释义
 ---
 1. *高义频：* **想要；喜欢：**  
+
 
 > **taken a fancy to**  
 > She has simply taken a fancy to the place.  
@@ -1123,6 +1207,7 @@ to believe or imagine sth：
 - #### take sb's fancy
 1. **引起某人的兴趣：**  
 
+
 > I could do without TV because few shows take my fancy.  
 > 我不看电视也行，因为很少有节目能引起我的兴趣。
 
@@ -1135,6 +1220,7 @@ to believe or imagine sth：
 英文释义
 ---
 1. *高义频：* **精致的；花哨的；异常复杂的  反:simple ；昂贵的；奢华的：**  
+
 
 > **nothing fancy**  
 > I wanted a simple black dress, nothing fancy.  
@@ -1160,6 +1246,7 @@ to believe or imagine sth：
 1. *高义频：* **极好的**  
 extremely good, attractive, enjoyable, etc.：
 
+
 > You've got the job? Fantastic!  
 > 你得到这份工作了？太好了！
 
@@ -1179,10 +1266,12 @@ extremely good, attractive, enjoyable, etc.：
 ---
 1. *高义频：* **[C] & [U] 幻想；想象：**  
 
+
 > a world of fantasy / a fantasy world  
 > 虚幻世界
 
 2. *低义频：* **[C] 幻想作品：**  
+
 
 > The whole story is a fantasy.  
 > 整个故事都是虚构的。
@@ -1199,6 +1288,7 @@ extremely good, attractive, enjoyable, etc.：
 ---
 1. *高义频：* **(两者中) 较远的  反:near ：**  
 
+
 > **the far side**  
 > on the far side of the road  
 > 在马路的那一边
@@ -1208,6 +1298,7 @@ extremely good, attractive, enjoyable, etc.：
 > 在房间的另一头
 
 2. *高义频：* **最远的；极端的：**  
+
 
 > **the far north**  
 > the far north of China  
@@ -1227,6 +1318,7 @@ extremely good, attractive, enjoyable, etc.：
 ---
 1. *高义频：* **(距离) 远；(时间) 久：**  
 
+
 > **far from**  
 > Their new house is far from the school.  
 > 他们的新家离学校很远。
@@ -1236,6 +1328,7 @@ extremely good, attractive, enjoyable, etc.：
 > 我们一起喝酒，相谈甚欢，直至深夜。
 
 2. *高义频：* **(程度) …得多；很；极：**  
+
 
 > Recent studies show that we are far more effective at work if we take short breaks regularly.  
 > 最近的研究表明，如果我们工作时能定时休息一下，效率会更高。
@@ -1249,6 +1342,7 @@ extremely good, attractive, enjoyable, etc.：
 > 那幅油画5万美元。价钱太高了。
 
 3. *高义频：* **[表示进展程度]：**  
+
 
 > **How far**  
 > How far have you got with that report?   
@@ -1264,6 +1358,7 @@ extremely good, attractive, enjoyable, etc.：
 - #### as / so far as
 1. **到…那么远；一直到：**  
 
+
 > We didn't go so far as the others.  
 > 我们没有其他人走得那么远。
 
@@ -1273,6 +1368,7 @@ extremely good, attractive, enjoyable, etc.：
 - #### as / so far as I know / can remember / can see, etc.
 1. **据我所知 / 记得 / 看等：**  
 
+
 > As far as I know, the Pacific Ocean is the largest ocean in the world.  
 > 据我所知，太平洋是世界上最大的海洋。
 
@@ -1281,6 +1377,7 @@ extremely good, attractive, enjoyable, etc.：
 
 - #### by far
 1. **[修饰比较级或最高级，强调数量、程度等] …得多；最：**  
+
 
 > It's quicker by far to go by train.  
 > 乘火车要快得多。
@@ -1294,6 +1391,7 @@ extremely good, attractive, enjoyable, etc.：
 - #### far from
 1. **远非；完全不：**  
 
+
 > The most obvious goal of a college education is to give knowledge, but it is far from the most important.  
 > 大学教育最显而易见的目标是传授知识，但这远非是最重要的。
 
@@ -1303,11 +1401,13 @@ extremely good, attractive, enjoyable, etc.：
 - #### go so far / as far as to do sth
 1. **[口语] 竟然做某事；甚至做某事：**  
 
+
 > She goes so far as to declare that a Chinese word can never give you the exact meaning of a word in English!  
 > 她甚至说，汉语词绝对不能表达英语词的确切含义。
 
 - #### so far
 1. **迄今为止：**  
+
 
 > See, this is what I've done so far.  
 > 看，这就是到目前为止我所做的。
@@ -1351,6 +1451,7 @@ Progress ________ (be) so far very good and we are sure that the work will be fi
 1. **深远的；伸至远处的；广大的**  
 
 
+
 # ***fare*** n
 英音 feə(r)     美音 fer  
 
@@ -1359,6 +1460,7 @@ Progress ________ (be) so far very good and we are sure that the work will be fi
 英文释义
 ---
 1. *高义频：* **[C] & [U] (车、船) 费；票价：**  
+
 
 > bus fares  
 > 车费
@@ -1374,6 +1476,7 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 ---
 1. *高义频：* **[U] & [C] 告别：**  
 
+
 > a farewell party  
 > 欢送会
 
@@ -1386,6 +1489,7 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 英文释义
 ---
 1. **再见，再会**  
+
 
 > a farewell party  
 > 欢送会
@@ -1400,6 +1504,7 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 ---
 1. *高义频：* **[C] 农场；饲养场：**  
 
+
 > **on the farm**  
 > They work on the farm.  
 > 他们在农场工作。
@@ -1413,6 +1518,7 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 英文释义
 ---
 1. *高义频：* **种 (田)；养殖：**  
+
 
 > farm 300 acres  
 > 种300英亩地
@@ -1431,6 +1537,7 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 1. *高义频：* **[C] 农民；农场主**  
 
 
+
 # ***farming*** n
 英音 'fɑːmɪŋ     美音 'fɑːrmɪŋ  
 
@@ -1439,6 +1546,7 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 英文释义
 ---
 1. *高义频：* **[U] 务农；养殖业**  
+
 
 
 # ***farmyard*** n
@@ -1453,6 +1561,7 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 1. *高义频：* **农场；农家**  
 
 
+
 # ***farther*** adj & adv
 英音 'fɑːðə(r)     美音 'fɑːrðər  
 
@@ -1461,6 +1570,7 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 英文释义
 ---
 1. *高义频：* **(空间距离) 更远的 / 地：**  
+
 
 > farther back in the past  
 > 在久远的过去
@@ -1488,6 +1598,7 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 ---
 1. *高义频：* **[far的最高级] (空间距离) 最远的 / 地；最长 (距离) 的 / 地：**  
 
+
 > Which of the stars is the farthest from the earth?  
 > 这些星星中哪颗离地球最远？
 
@@ -1501,6 +1612,7 @@ fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费�
 ---
 1. *高义频：* **(使) 着迷；(使) 迷住**  
 to attract or interest sb very much：
+
 
 > Anything to do with aeroplanes fascinates him.  
 > 任何与飞机有关的事都使他着迷。
@@ -1527,6 +1639,7 @@ fascinated /'fæsɪneɪtɪd/ adj
 1. **被迷住的，被吸引住的**  
 
 
+
 # ***fascinating*** adj
 英音 'fæsɪneɪtɪŋ     美音 'fæsɪneɪtɪŋ  
 
@@ -1535,6 +1648,7 @@ fascinated /'fæsɪneɪtɪd/ adj
 英文释义
 ---
 1. *高义频：* **迷人的；极有吸引力的：**  
+
 
 > Behind our house is the start of a fascinating trail.  
 > 一条迷人的小径从我们房子后面延伸出去。
@@ -1550,6 +1664,7 @@ fascinated /'fæsɪneɪtɪd/ adj
 1. **着迷；迷恋；吸引力**  
 
 
+
 # ***fashion*** n
 英音 'fæʃn     美音 'fæʃn  
 
@@ -1558,6 +1673,7 @@ fascinated /'fæsɪneɪtɪd/ adj
 英文释义
 ---
 1. *高义频：* **[U] & [C] (服饰等的) 流行式样；最新款式：**  
+
 
 > **in,out of fashion**  
 > Long skirts were in / out of fashion last year.  
@@ -1572,6 +1688,7 @@ fascinated /'fæsɪneɪtɪd/ adj
 
 2. *高义频：* **[C] (谈吐、行为等的) 时尚：**  
 
+
 > **Fashions in**  
 > Fashions in art and literature come and go.  
 > 文艺的潮流总是昙花一现。
@@ -1580,6 +1697,7 @@ fascinated /'fæsɪneɪtɪd/ adj
 > 人们的生活方式通常取决于一代人的习惯和流行时尚。
 
 3. *高义频：* **[U] 时装业：**  
+
 
 > **fashion show / designer**  
 > a fashion show / designer  
@@ -1590,6 +1708,7 @@ fascinated /'fæsɪneɪtɪd/ adj
 ---
 - #### in (a) … fashion
 1. **以…的方式：**  
+
 
 > He walks in a strange fashion.  
 > 他走路的样子很奇怪。
@@ -1615,6 +1734,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
 ---
 1. *高义频：* **流行的；时髦的：**  
 
+
 > Have you ever dreamed of having a fashionable watch of great value?  
 > 你可曾梦想过有块价值不菲的时尚手表？
 
@@ -1638,6 +1758,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
 ---
 1. *高义频：* **快的；迅速的 【反:slow】；(钟表) 偏快的：**  
 
+
 > **fast food**  
 > fast food / a fast road  
 > 快餐食品/快车道
@@ -1653,6 +1774,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
 - #### hard and fast
 1. **不可更改的；板上钉钉的：**  
 
+
 > There are basically no hard and fast rules about public speaking.  
 > 公众演讲基本上没有一成不变的规则。
 
@@ -1666,6 +1788,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
 ---
 1. *高义频：* **快地；迅速地：**  
 
+
 > At first, I could not run very fast and fell behind.  
 > 起初，我跑得不是很快，落在了后面。
 
@@ -1678,6 +1801,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
 英文释义
 ---
 1. *高义频：* **vt & vi 系牢 (do up)；(门、窗等) 关住；vt 使固定：**  
+
 
 > I was so fat that my pants wouldn't fasten.  
 > 我胖得连裤子都扣不上了。
@@ -1704,6 +1828,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
 ---
 1. *高义频：* **肥胖的；(肉) 肥的；厚的 【反 thin】 ：**  
 
+
 > Laugh and grow fat.  
 > 心宽体胖。
 
@@ -1714,6 +1839,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
 > 厚书
 
 2. *低义频：* **巨额的：**  
+
 
 > fat profits   
 > 丰厚的利润
@@ -1728,6 +1854,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
 ---
 1. *高义频：* **[U] 脂肪；肥肉：**  
 
+
 > I don't eat much fat, for example, fatty meat.  
 > 我不怎么吃脂肪多的东西，比如肥肉。
 
@@ -1738,6 +1865,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
 > 燃脂运动
 
 2. *高义频：* **[C] & [U] 食用油；(食物中所含的) 脂肪**  
+
 
 > low-fat food  
 > 低脂食物
@@ -1751,6 +1879,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
 英文释义
 ---
 1. *高义频：* **[U] 命运；[C] 命中注定的事 (尤指不好的事)：**  
+
 
 > **decide,sb's fate**  
 > decide / change sb's fate  
@@ -1767,6 +1896,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
 1. *高义频：* **(一般用于名词前) 重要的；决定性的；命中注定的**  
 
 
+
 # ***father*** n
 英音 'fɑːðə(r)     美音 'fɑːðər  
 
@@ -1778,12 +1908,15 @@ Those who change mobile phones frequently will pay a heavy price for being______
 ---
 1. *高义频：* **父亲**  
 
+
 2. *低义频：* **[常用复数] 祖先；前辈：**  
+
 
 > the land of our fathers   
 > 我们祖先的土地
 
 3. *低义频：* **创始人；奠基人：**  
+
 
 > the father of radio   
 > 无线电之父
@@ -1792,6 +1925,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
 > 乔治·华盛顿被称为国父。
 
 4. *低义频：* **[Father] 神父**  
+
 
 
 # ***fathom*** n
@@ -1806,6 +1940,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
 1. *高义频：* **英寻 (= 6英尺，测量水深的单位)**  
 
 
+
 # ***fault*** n
 英音 fɔːlt     美音 fɔːlt  
 
@@ -1815,6 +1950,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
 ---
 1. *高义频：* **(对错误所负的) 责任；过失；过错**  
 the responsibility for sth wrong that has happened or been done：
+
 
 > **my fault**  
 > Why is everything always my fault?  
@@ -1831,6 +1967,7 @@ the responsibility for sth wrong that has happened or been done：
 2. *高义频：* **缺点；缺陷；故障**  
 a weak aspect of sb's character or sth that is wrong or not perfect：
 
+
 > Everybody has his faults.  
 > 每个人都有缺点。
 
@@ -1846,11 +1983,13 @@ a weak aspect of sb's character or sth that is wrong or not perfect：
 - #### at fault 
 1. **有责任；有错：**  
 
+
 > Perhaps the railway authorities are at fault for poor signalling system.  
 > 或许，铁路部门应该对糟糕的信号系统负责。
 
 - #### find fault (with)
 1. **找碴儿；抱怨；挑剔：**  
+
 
 > Try not to find fault with your friends.  
 > 不要挑剔你的朋友。
@@ -1886,6 +2025,7 @@ He is such a man who is always finding fault ________ other people.
 ---
 1. *高义频：* **找…的缺点；指责；挑剔：**  
 
+
 > Nobody will fault you for it.   
 > 没人会因此指责你。
 
@@ -1903,6 +2043,7 @@ faultless /'fɔːltləs/ adj
 ---
 1. *高义频：* **较喜欢**  
 to prefer sb / sth to another：
+
 
 > Fortune favours the bold / brave.   
 > 天佑勇者。
@@ -1931,6 +2072,7 @@ When asked about their opinions about the schoolmaster, many teachers would pref
 ---
 1. *高义频：* **恩惠；善意行为：**  
 
+
 > **do me a favour**  
 > Can you do me a favour and tell Kelly I'm here?  
 > 你能帮我一个忙告诉凯利我在这儿吗？
@@ -1944,6 +2086,7 @@ When asked about their opinions about the schoolmaster, many teachers would pref
 > 对自己好一些，一定要给自己留点时间。
 
 2. *高义频：* **好感；喜爱；偏爱：**  
+
 
 > **win sb’s favour**  
 > win sb’s favour   
@@ -1960,16 +2103,19 @@ When asked about their opinions about the schoolmaster, many teachers would pref
 3. *高义频：* **赞同；支持**  
 
 
+
 固定搭配
 ---
 - #### in favour of
 1. **赞同；支持：**  
+
 
 > Opportunities and success tend to be in favour of those who are ready.  
 > 机遇和成功往往青睐那些有准备的人。
 
 - #### in sb's favour
 1. **对某人有利：**  
+
 
 > We voted for the monitor, and the result was 28 to 15 in Wang Hong's favor.  
 > 我们选举班长，结果是28比15，王红当选。
@@ -1985,6 +2131,7 @@ When asked about their opinions about the schoolmaster, many teachers would pref
 英文释义
 ---
 1. *高义频：* **最喜爱的：**  
+
 
 > What's your favourite sport?  
 > 你最喜欢的运动是什么？
@@ -2010,6 +2157,7 @@ What is your ________(最喜欢的) color?
 ---
 1. *高义频：* **[C] 心爱的人 / 物；受宠的人：**  
 
+
 > Jane is her mother's favourite.  
 > 简是妈妈的最爱。
 
@@ -2022,6 +2170,7 @@ What is your ________(最喜欢的) color?
 英文释义
 ---
 1. *高义频：* **[C] & [U] 传真；传真机；传真件：**  
+
 
 > You can send faxes by e-mail from your computer  
 > 你可以通过计算机用电子邮件发传真信件。
@@ -2043,6 +2192,7 @@ What is your ________(最喜欢的) color?
 ---
 1. *高义频：* **用传真传输 (文件)：**  
 
+
 > **faxed_2,to**  
 > I faxed them the list of hotels. / I faxed the list of hotels to them.  
 > 我把旅馆名单传真给了他们。
@@ -2056,6 +2206,7 @@ What is your ________(最喜欢的) color?
 英文释义
 ---
 1. *高义频：* **[C] & [U] 害怕；恐惧；担忧：**  
+
 
 > **a fear of**  
 > have a fear of heights / spiders / the dark  
@@ -2075,6 +2226,7 @@ What is your ________(最喜欢的) color?
 - #### for fear of (doing) sth / for fear (that)
 1. **生怕 (做) 某事；以免 (做) 某事：**  
 
+
 > People often don't do what they really want to for fear of failure.  
 > 人们常因害怕失败而不去做自己真正想做的事。
 
@@ -2087,11 +2239,13 @@ What is your ________(最喜欢的) color?
 - #### in fear (of sth)
 1. **恐惧(某事)；担心 (某事)：**  
 
+
 > If someone comes up behind you and touches you lightly on the shoulder, you may jump in fear.  
 > 如果有人从身后走近你，并轻触你的肩膀，你可能会吓一跳。
 
 - #### without fear (of sth)
 1. **不畏惧 (某事)：**  
+
 
 > Team members must be able to express their opinions freely without fear of being criticized.  
 > 团队成员必须能够自由表达自己的观点，不怕被责备。
@@ -2106,6 +2260,7 @@ What is your ________(最喜欢的) color?
 ---
 1. *高义频：* **害怕；畏惧：**  
 
+
 > He fears nothing.  
 > 他什么都不怕。
 
@@ -2118,6 +2273,7 @@ What is your ________(最喜欢的) color?
 > 她不敢一个人在夜间行走。
 
 2. *高义频：* **担心：**  
+
 
 > **feared for**  
 > They feared for her safety.  
@@ -2151,6 +2307,7 @@ He got to the station early, ________ fear of missing his train.
 ---
 1. *高义频：* **[C] 盛宴；享受；(宗教) 节日：**  
 
+
 > **wedding feast**  
 > a wedding feast  
 > 婚宴
@@ -2173,6 +2330,7 @@ He got to the station early, ________ fear of missing his train.
 ---
 1. *高义频：* **[C] 羽毛：**  
 
+
 > Fine feathers make fine birds.  
 > 人要衣装，佛要金装。
 
@@ -2181,6 +2339,7 @@ He got to the station early, ________ fear of missing his train.
 ---
 - #### birds of a feather (flock together)
 1. **物以类聚，人以群分**  
+
 
 
 # ***feature*** n
@@ -2192,6 +2351,7 @@ He got to the station early, ________ fear of missing his train.
 ---
 1. *高义频：* **特征；特点**  
 an important or noticeable part of sth：
+
 
 > the main geographical features  
 > 主要的地理特征
@@ -2209,6 +2369,7 @@ an important or noticeable part of sth：
 2. *高义频：* **面貌的一部分 (指眼、口、鼻等)；面貌 (特征)**  
 a part of sb's face：
 
+
 > have nice features  
 > 容貌姣好
 
@@ -2217,6 +2378,7 @@ a part of sb's face：
 
 3. *高义频：* **(报纸、杂志等的) 特写；专题节目**  
 a special article or programme about sb / sth：
+
 
 > **feature on**  
 > She showed great interest in a special feature on education in today's newspaper.  
@@ -2233,6 +2395,7 @@ a special article or programme about sb / sth：
 1. *高义频：* **是...的特征；以...为特色**  
 to include sb / sth as an important part：
 
+
 > This store features round-the-clock service.  
 > 这家商店的特色是24小时服务。
 
@@ -2244,6 +2407,7 @@ to include sb / sth as an important part：
 
 2. *高义频：* **起重要作用；占重要地位**  
 to have an important part in sth：
+
 
 > **features in**  
 > Fish features in the Japanese diet.  
@@ -2258,6 +2422,7 @@ to have an important part in sth：
 英文释义
 ---
 1. *高义频：* **联盟的；联邦 (制)的；联邦政府的：**  
+
 
 > a federal republic  
 > 联邦共和国
@@ -2276,6 +2441,7 @@ to have an important part in sth：
 1. *高义频：* **[C] & [U] 联盟；联邦**  
 
 
+
 # ***fee*** n
 英音 fiː     美音 fiː  
 
@@ -2284,6 +2450,7 @@ to have an important part in sth：
 英文释义
 ---
 1. *高义频：* **[C] 费；报酬：**  
+
 
 > Lawyers charge higher fees than doctors.  
 > 律师收费高于医生。
@@ -2313,6 +2480,7 @@ fee指进入或加入某组织所付的费用，还可指为专业服务所支�
 ---
 1. *高义频：* **付小费给：**  
 
+
 > fee a waiter  
 > 给服务员小费
 
@@ -2328,6 +2496,7 @@ fee指进入或加入某组织所付的费用，还可指为专业服务所支�
 ---
 1. *高义频：* **喂养；饲养；养活：**  
 
+
 > **feed,with_1**  
 > Please don't feed the monkeys with anything you may have brought with you.  
 > 请不要给猴子喂你们自带的食物。
@@ -2340,17 +2509,20 @@ fee指进入或加入某组织所付的费用，还可指为专业服务所支�
 
 2. *高义频：* **吃东西；进食：**  
 
+
 > The sheep are feeding quietly in the fields.  
 > 羊群在田野里静静地吃草。
 
 3. *低义频：* **满足**  
 to satisfy a strong need：
 
+
 > **feed a need**  
 > feed a need   
 > 满足需要
 
 4. *低义频：* **vt 滋养；给…提供：**  
+
 
 > Our exhibits will feed your mind.  
 > 我们的展品会给你提供精神食粮。
@@ -2361,11 +2533,13 @@ to satisfy a strong need：
 - #### (be) fed up with
 1. **(对…) 感到厌烦 (be bored with)：**  
 
+
 > I'm fed up with this wet weather.  
 > 我讨厌这种下雨天。
 
 - #### feed back (into / to)
 1. **反馈；反过来对…起作用：**  
+
 
 > What the audience tells me feeds back into my work.  
 > 观众给我提的意见反过来对我的作品产生了影响。
@@ -2373,8 +2547,10 @@ to satisfy a strong need：
 - #### feed into
 1. **对…的发展产生影响**  
 
+
 - #### feed on
 1. **以…为食：**  
+
 
 > Bats fly at night and feed on insects.  
 > 蝙蝠在夜间飞行，以昆虫为食。
@@ -2397,10 +2573,12 @@ B.
 ---
 1. *低义频：* **[C] 一餐；一顿：**  
 
+
 > Let the horse have a good feed.  
 > 让马好好吃一顿。
 
 2. *低义频：* **[U] 饲料；牧草**  
+
 
 
 # ***feedback*** n
@@ -2411,6 +2589,7 @@ B.
 英文释义
 ---
 1. *高义频：* **[U] 反馈意见：**  
+
 
 > To my surprise, I got some wonderful feedback on my novel.  
 > 令我惊讶的是，我得到了一些关于我的小说的很好的反馈意见。
@@ -2426,6 +2605,7 @@ B.
 英文释义
 ---
 1. *高义频：* **感觉；感到；觉得：**  
+
 
 - #### feel … do / doing / done:
 
@@ -2451,6 +2631,7 @@ B.
 
 2. *高义频：* **摸；触；试探：**  
 
+
 - #### feel + wh- 从句：
 
 > Feel whether the water is warm enough.  
@@ -2460,6 +2641,7 @@ B.
 > 医生给她把脉。
 
 3. *高义频：* **以为；认为：**  
+
 
 - #### feel it (to be) … to do sth:
 
@@ -2490,6 +2672,7 @@ B.
 ---
 1. *高义频：* **vt 触；摸；vi (用手) 摸索：**  
 
+
 - #### feel + wh- 从句：
 
 > Feel whether the water is warm enough.  
@@ -2503,10 +2686,12 @@ B.
 
 2. *高义频：* **[用作系动词] 摸起来：**  
 
+
 > My father's hands feel rough but warm.  
 > 我父亲的手摸上去粗糙但温暖。
 
 3. *高义频：* **(通过触觉) 感觉到；意识到：**  
+
 
 - #### feel … do / doing / done:
 
@@ -2524,6 +2709,7 @@ B.
 > 我不知道答案时就感觉像个白痴。
 
 4. *高义频：* **感受到；体会到：**  
+
 
 - #### feel + adj / adv / prep:
 
@@ -2557,6 +2743,7 @@ B.
 
 5. *高义频：* **[用作系动词] 给…感觉 / 印象：**  
 
+
 > It felt very strange to travel without any luggage.  
 > 不带行李去旅行让人感觉很奇怪。
 
@@ -2565,6 +2752,7 @@ B.
 > 面试只用了十分钟，但感觉像几个小时似的。
 
 6. *高义频：* **以为；认为：**  
+
 
 - #### feel it (to be) … to do sth:
 
@@ -2589,11 +2777,13 @@ B.
 - #### feel at home
 1. **感觉自在；无拘束：**  
 
+
 > Her kind smile made every guest feel at home.  
 > 她亲切的笑容使每个人都感觉宾至如归。
 
 - #### feel like (doing) sth
 1. **想要（做）某事：**  
+
 
 > Do you feel like a game of tennis?  
 > 想打场网球吗？
@@ -2603,6 +2793,7 @@ B.
 
 - #### feel (like / quite) oneself
 1. **觉得身体情况正常：**  
+
 
 > I don’t feel quite myself today.  
 > 我今天感到不太舒服。
@@ -2632,6 +2823,7 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
 ---
 1. *高义频：* **触摸；感觉；气氛：**  
 
+
 > We want to give our guests a homely feel.  
 > 我们想给客人一种回到家的感觉。
 
@@ -2648,6 +2840,7 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
 ---
 1. *高义频：* **[U] (身体部位的) 感觉；知觉：**  
 
+
 > She has no feeling in her injured finger.  
 > 她受伤的手指没有感觉。
 
@@ -2655,6 +2848,7 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
 > 我双腿失去了知觉。
 
 2. *高义频：* **[C] (内心的) 感觉；感受：**  
+
 
 > a feeling of hunger / excitement / sadness  
 > 饥饿/兴奋/悲伤感
@@ -2665,6 +2859,7 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
 
 3. *高义频：* **[C] [常用复数] 情感；感情：**  
 
+
 > He was considerate of other people's feelings.  
 > 他很顾及他人的情感。
 
@@ -2673,6 +2868,7 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
 > 我不是故意要伤害你的感情。
 
 4. *高义频：* **[U] & [C] 激情；强烈的情绪：**  
+
 
 > She read the poem with feeling.  
 > 她带着激情朗读诗歌。
@@ -2683,6 +2879,7 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
 5. *高义频：* **[C] 看法；意见；态度**  
 a belief or an opinion about sth：
 
+
 > My personal feeling is that we should buy the cheaper one.  
 > 我个人的看法是该买便宜点的。
 
@@ -2691,6 +2888,7 @@ a belief or an opinion about sth：
 
 6. *高义频：* **[U] [与不定冠词连用] 理解力；领悟力**  
 the ability to understand sb / sth：
+
 
 > **a,feeling for**  
 > She had a wonderful feeling for music.  
@@ -2708,6 +2906,7 @@ the ability to understand sb / sth：
 ---
 1. *高义频：* **人；家伙；男人；男孩 (guy)：**  
 
+
 > He's a nice old fellow.  
 > 这位老兄人不错。
 
@@ -2715,6 +2914,7 @@ the ability to understand sb / sth：
 > 我看到一个小伙子。
 
 2. *低义频：* **伙伴；同辈；同时代的人：**  
+
 
 > We are school fellows.   
 > 我们是校友。
@@ -2733,6 +2933,7 @@ the ability to understand sb / sth：
 ---
 1. *高义频：* **同伴的；同事的；同类的：**  
 
+
 > He recalled his fellow traveller with pleasure.  
 > 他愉快地回忆起他的旅伴。
 
@@ -2748,6 +2949,7 @@ the ability to understand sb / sth：
 英文释义
 ---
 1. *高义频：* **女的；女性的；雌 (性) 的：**  
+
 
 > female workers   
 > 女工
@@ -2766,6 +2968,7 @@ the ability to understand sb / sth：
 1. *高义频：* **女子；雌性动 / 植物**  
 
 
+
 # ***fence*** n
 英音 fens     美音 fens  
 
@@ -2774,6 +2977,7 @@ the ability to understand sb / sth：
 英文释义
 ---
 1. *高义频：* **[C] 栅栏；围栏；篱笆：**  
+
 
 > a wooden fence  
 > 木栅栏
@@ -2791,6 +2995,7 @@ the ability to understand sb / sth：
 ---
 1. *高义频：* **把…用栅 / 篱围住；(筑栅) 防护；隔开：**  
 
+
 > Dad fenced the backyard.   
 > 爸爸用篱笆把后院围了起来。
 
@@ -2807,6 +3012,7 @@ the ability to understand sb / sth：
 1. *高义频：* **渡船；摆渡；渡口**  
 
 
+
 # ***ferry*** vt
 英音 'feri     美音 'feri  
 
@@ -2817,6 +3023,7 @@ the ability to understand sb / sth：
 1. **摆渡；渡运**  
 
 
+
 # ***fertile*** adj
 英音 'fɜːtaɪl     美音 'fɜːrtl  
 
@@ -2825,6 +3032,7 @@ the ability to understand sb / sth：
 英文释义
 ---
 1. *高义频：* **肥沃的；能生育的；能结果的：**  
+
 
 > fertile ground / eggs   
 > 沃土/受精卵
@@ -2842,6 +3050,7 @@ the ability to understand sb / sth：
 1. *高义频：* **肥料；化肥**  
 
 
+
 # ***festival*** n
 英音 'festɪvl     美音 'festɪvl  
 
@@ -2853,6 +3062,7 @@ the ability to understand sb / sth：
 ---
 1. *高义频：* **节日；喜庆日：**  
 
+
 > a festival atmosphere  
 > 节日气氛
 
@@ -2860,6 +3070,7 @@ the ability to understand sb / sth：
 > 欢度春节
 
 2. *高义频：* **(音乐、戏剧、电影等) 会演；庆祝活动：**  
+
 
 > the International Cannes Film Festival  
 > 戛纳国际电影节
@@ -2877,6 +3088,7 @@ the ability to understand sb / sth：
 ---
 1. *高义频：* **(去) 拿来；(去) 取来；(去) 请来：**  
 
+
 > Run and fetch the doctor.  
 > 快去请医生来。
 
@@ -2893,6 +3105,7 @@ the ability to understand sb / sth：
 英文释义
 ---
 1. *高义频：* **[C] & [U] 发烧；热度；狂热：**  
+
 
 > **high fever**  
 > have a high fever   
@@ -2922,6 +3135,7 @@ He caught a high f________ . His body temperature was as high as 40°C.
 ---
 1. *高义频：* **很少的；几乎没有的：**  
 反义词 many 
+
 > Few words are best.   
 > 少说为妙。
 
@@ -2938,6 +3152,7 @@ He caught a high f________ . His body temperature was as high as 40°C.
 ---
 1. *高义频：* **很少；几乎没有：**  
 
+
 > Few of his friends have been there.  
 > 他的朋友没几个人去过那儿。
 
@@ -2946,6 +3161,7 @@ He caught a high f________ . His body temperature was as high as 40°C.
 ---
 - #### a few
 1. **少数；几个：**  
+
 
 > Here are a few suggestions.  
 > 这里有几条建议。
@@ -2956,6 +3172,7 @@ He caught a high f________ . His body temperature was as high as 40°C.
 
 - #### a good few / quite a few / not a few
 1. **相当多；不少：**  
+
 
 > Dad told me quite a few stories about his own childhood.  
 > 爸爸给我讲了不少他童年的故事。
@@ -2975,6 +3192,7 @@ few不论作形容词还是作代词，在句中大都表示否定，a few则表
 
 - #### few and far between
 1. **稀少；罕见**  
+
 
 
 真题解析
@@ -2998,6 +3216,7 @@ I hear ________ (相当多) boys in your school like playing football in their s
 1. **未婚夫**  
 
 
+
 # ***fiancée*** n
 英音 fɪ'ɒnseɪ     美音 ˌfiːɑːn'seɪ  
 
@@ -3006,6 +3225,7 @@ I hear ________ (相当多) boys in your school like playing football in their s
 英文释义
 ---
 1. **未婚妻**  
+
 
 
 # ***fiction*** n
@@ -3017,11 +3237,13 @@ I hear ________ (相当多) boys in your school like playing football in their s
 ---
 1. *高义频：* **[U] (虚构) 小说：**  
 反义词 non-fiction 
+
 > **science fiction**  
 > historical / romantic / science fiction  
 > 历史/爱情/科幻小说
 
 2. *低义频：* **[C] 虚构的事；谎言：**  
+
 
 > For years he managed to keep up the fiction that he was not married.  
 > 多年来他一直设法给人一种未婚的假象。
@@ -3037,6 +3259,7 @@ I hear ________ (相当多) boys in your school like playing football in their s
 1. **虚构的，编造的,小说 (中)的**  
 
 
+
 # ***field*** n
 英音 fiːld     美音 fiːld  
 
@@ -3048,16 +3271,19 @@ I hear ________ (相当多) boys in your school like playing football in their s
 ---
 1. *高义频：* **(一块) 田地；田野：**  
 
+
 > He is pulling up weeds in the field.  
 > 他正在玉米地里拔草。
 
 2. *高义频：* **(天然资源的) 产地；矿田：**  
+
 
 > **gas,coal,oil field**  
 > a gas / a coal / an oil field  
 > 天然气/煤/油田
 
 3. *低义频：* **机场；战场：**  
+
 
 > **the field of battle**  
 > the field of battle  
@@ -3068,6 +3294,7 @@ I hear ________ (相当多) boys in your school like playing football in their s
 
 4. *高义频：* **运动 / 比赛场：**  
 
+
 > **football field**  
 > a football field   
 > 足球场
@@ -3076,6 +3303,7 @@ I hear ________ (相当多) boys in your school like playing football in their s
 > 很明显他只要能上场比赛就很高兴了。
 
 5. *高义频：* **(研究、活动等的) 领域；范围：**  
+
 
 > **in the field of**  
 > The job of a scientist is to find out the truth in the field of science.  
@@ -3094,6 +3322,7 @@ I hear ________ (相当多) boys in your school like playing football in their s
 英文释义
 ---
 1. *高义频：* **凶猛的；猛烈的；激烈的：**  
+
 
 > fierce animals  
 > 凶猛的动物
@@ -3127,6 +3356,7 @@ They look like the teeth of a ________ (凶猛的) animal.
 1. **燃烧的, 如火的**  
 
 
+
 # ***fight*** v
 英音 faɪt     美音 faɪt  
 
@@ -3137,6 +3367,7 @@ They look like the teeth of a ________ (凶猛的) animal.
 英文释义
 ---
 1. *高义频：* **(与…) 作战；打 (仗)；(与……) 战斗：**  
+
 
 > **fighting,war**  
 > Neither country is capable of fighting a long war.  
@@ -3155,6 +3386,7 @@ They look like the teeth of a ________ (凶猛的) animal.
 
 2. *高义频：* **(与…) 打斗；(与…) 打架；(与……) 争吵：**  
 
+
 > The boys are fighting.  
 > 男孩子们在打架。
 
@@ -3167,6 +3399,7 @@ They look like the teeth of a ________ (凶猛的) animal.
 
 3. *低义频：* **努力争取；(为…) 奋斗：**  
 to try hard to do or get sth：
+
 
 > **fighting for**  
 > The men are fighting for higher wages.  
@@ -3182,6 +3415,7 @@ to try hard to do or get sth：
 
 4. *高义频：* **抵抗；克制；(与…) 斗争：**  
 
+
 > When you feel like crying, don't fight it.  
 > 想哭的时候就哭出来吧，别忍着。
 
@@ -3194,6 +3428,7 @@ to try hard to do or get sth：
 ---
 - #### fight back
 1. **反击；回击；克制：**  
+
 
 > Lewis fought back to win the game.  
 > 刘易斯奋起反击，以赢得比赛。
@@ -3210,6 +3445,7 @@ to try hard to do or get sth：
 英文释义
 ---
 1. *高义频：* **[C] 战斗；打斗；[用单数] 斗争；争吵：**  
+
 
 > win / lose a fight   
 > 打胜/败仗
@@ -3242,6 +3478,7 @@ fighting /'faɪtɪŋ/ n
 1. **比喻的；借喻的**  
 
 
+
 # ***figure*** n  重难点词汇
 英音 'fɪɡə(r)     美音 'fɪɡjər  
 
@@ -3252,6 +3489,7 @@ fighting /'faɪtɪŋ/ n
 英文释义
 ---
 1. *高义频：* **数字；位数；算术：**  
+
 
 > **trade figures**  
 > the latest trade figures   
@@ -3266,6 +3504,7 @@ fighting /'faɪtɪŋ/ n
 
 2. *高义频：* **(尤指女性的) 体形 / 身材 / 身影：**  
 
+
 > a tall figure in black  
 > 一个黑衣高个子人影
 
@@ -3275,16 +3514,19 @@ fighting /'faɪtɪŋ/ n
 3. *高义频：* **人物；人士**  
 a person who is important or famous：
 
+
 > **leading,figure**  
 > a public / a leading / an authority figure  
 > 公众/领军/权威人物
 
 4. *低义频：* **画像；塑像：**  
 
+
 > a bronze figure of a horse   
 > 马的铜像
 
 5. *低义频：* **图表；图形：**  
+
 
 > See Figure 1.   
 > 见图表1。
@@ -3303,6 +3545,7 @@ a person who is important or famous：
 1. *高义频：* **是重要部分；是...的部分**  
 to be an important part of sth：
 
+
 > My feeling about the matter didn't seem to figure at all.  
 > 我对此事的感受似乎一点也不重要。
 
@@ -3311,6 +3554,7 @@ to be an important part of sth：
 
 2. *低义频：* **认为；估计**  
 to think or guess sth：
+
 
 > Figure the consequences to your life if you lose the job.  
 > 想象一下，如果你失去工作会对你的生活有什么影响吧。
@@ -3324,6 +3568,7 @@ to think or guess sth：
 
 3. *低义频：* **(AmE) 计算：**  
 
+
 > I'm just figuring my expenses.  
 > 我在计算我的开销。
 
@@ -3332,6 +3577,7 @@ to think or guess sth：
 ---
 - #### figure out
 1. **弄清楚；弄明白；计算出：**  
+
 
 > College is when we should focus on a specific major, but high school is when we have to figure it out.  
 > 在大学时我们需要专注于某一专业，而在中学时我们需要找出这一专业。
@@ -3363,6 +3609,7 @@ B.
 ---
 1. *高义频：* **[C] 文件 (夹)；档案：**  
 
+
 > **copy,save,close,file**  
 > copy / save / close a file  
 > 复制/保存/关闭文件
@@ -3385,6 +3632,7 @@ B.
 ---
 1. *高义频：* **vt 把…归档；vt & vi 提出 (申请等)：**  
 
+
 > I have filled in the form and filed my patent application with the Patent Office.  
 > 我填了表，向专利局提交了我的专利申请书。
 
@@ -3396,6 +3644,7 @@ B.
 > 提出索赔/申诉
 
 2. *低义频：* **vt 锉平；锉去：**  
+
 
 > file one's nails  
 > 锉指甲
@@ -3409,6 +3658,7 @@ B.
 英文释义
 ---
 1. *高义频：* **(使) 充满；(使) 装满：**  
+
 
 > fill the bucket with water  
 > 把桶装满水
@@ -3425,6 +3675,7 @@ B.
 
 2. *高义频：* **使充满 (感情)：**  
 
+
 > **be filled with fear,anger,happiness,joy**  
 > be filled with fear / anger / happiness / joy  
 > 充满恐惧/愤怒/幸福
@@ -3439,6 +3690,7 @@ B.
 
 3. *高义频：* **填补：**  
 
+
 > I need to have two teeth filled.   
 > 我得补两颗牙。
 
@@ -3448,11 +3700,13 @@ B.
 
 4. *高义频：* **(声音、气味、光等) 遍及；弥漫于：**  
 
+
 > **was filled with**  
 > When the music started, the classroom was filled with the most beautiful tones I could have imagined.   
 > 当音乐响起时，教室里充满了我所能想象到的最动听的声音。
 
 5. *低义频：* **担任 (职务)； (派人) 担任：**  
+
 
 > There aren't enough qualified graduates to fill the jobs in American agriculture.  
 > 没有足够的合格毕业生在美国从事农业。
@@ -3463,6 +3717,7 @@ B.
 - #### fill in / out 
 1. **填充；填写；填满 (complete)：**  
 
+
 > **fill in,forms**  
 > You need to fill in some forms if you are interested.  
 > 如果有兴趣，你需要填一些表格。
@@ -3470,11 +3725,13 @@ B.
 - #### fill in for 
 1. **临时替代：**  
 
+
 > She told me to fill in for a worker who had the flu.  
 > 她让我临时为一个得了流感的人代班。
 
 - #### fill up 
 1. **(使) 变满；充满：**  
+
 
 > Shall I fill the car up (with petrol)?   
 > 要不要我给车加满汽油？
@@ -3490,6 +3747,7 @@ B.
 1. **馅**  
 
 
+
 # ***film*** n
 英音 fɪlm     美音 fɪlm  
 
@@ -3498,6 +3756,7 @@ B.
 英文释义
 ---
 1. *高义频：* **[C] 影片；电影 (AmE movie)：**  
+
 
 > **silent film**  
 > a silent film   
@@ -3517,6 +3776,7 @@ B.
 
 2. *低义频：* **[C] & [U] 胶卷；胶片：**  
 
+
 > a roll of colour film  
 > 一卷彩色胶卷
 
@@ -3533,6 +3793,7 @@ B.
 英文释义
 ---
 1. *高义频：* **vt & vi 拍摄 (电影)；(把…) 拍成电影：**  
+
 
 > film a popular novel   
 > 把流行小说拍成电影
@@ -3554,6 +3815,7 @@ B.
 1. **十分肮脏的，污秽的**  
 
 
+
 # ***fin*** n
 英音 fɪn     美音 fɪn  
 
@@ -3562,6 +3824,7 @@ B.
 英文释义
 ---
 1. **鱼鳍；[飞机的]垂直尾翼**  
+
 
 
 # ***fin*** v
@@ -3574,6 +3837,7 @@ B.
 1. **切去（鱼的）鳍**  
 
 
+
 # ***final*** adj
 英音 'faɪnl     美音 'faɪnl  
 
@@ -3582,6 +3846,7 @@ B.
 英文释义
 ---
 1. *高义频：* **最后的；最终的：**  
+
 
 > **final minutes**  
 > the final minutes of the game  
@@ -3596,6 +3861,7 @@ B.
 
 2. *高义频：* **决定性的；不可更改的：**  
 
+
 > **that's final**  
 > I'm not coming, and that's final (= I won't change my mind).  
 > 我不去了，就这么定了。
@@ -3609,6 +3875,7 @@ B.
 英文释义
 ---
 1. *高义频：* **[C] 期终考试；决赛：**  
+
 
 > **take,sit your finals**  
 > When do you take / sit your finals?  
@@ -3626,6 +3893,7 @@ B.
 英文释义
 ---
 1. *高义频：* **终于；最终 (eventually)；[句子副词，用于列举] 最后 (lastly)：**  
+
 
 > After years of regular treatment, she finally became healthy.  
 > 经过多年的定期治疗，她终于康复了。
@@ -3655,6 +3923,7 @@ Do you think shopping online will ________ (final) take the place of shopping in
 1. *高义频：* **财政；金融**  
 the management of money：
 
+
 > the Minister of Finance   
 > 财政部长
 
@@ -3665,6 +3934,7 @@ the management of money：
 > 我认为如今学金融不错。
 
 2. *高义频：* **资金；[复数] 财务状况：**  
+
 
 > raise finance for  
 > 为…筹资
@@ -3686,6 +3956,7 @@ the management of money：
 ---
 1. *高义频：* **提供资金给；为…筹措资金(fund)：**  
 
+
 > Who finances this organization?  
 > 为这个组织提供资金？
 
@@ -3698,6 +3969,7 @@ the management of money：
 英文释义
 ---
 1. *高义频：* **财政的；金融的：**  
+
 
 > **financial crisis**  
 > global financial crisis  
@@ -3725,6 +3997,7 @@ financially /fai'nænʃəli; fə'nænʃəli/ adv
 1. **财政上地**  
 
 
+
 # ***find*** vt  重难点词汇
 英音 faɪnd     美音 faɪnd  
 
@@ -3735,6 +4008,7 @@ financially /fai'nænʃəli; fə'nænʃəli/ adv
 英文释义
 ---
 1. *高义频：* **(意外) 发现；找回；查明：**  
+
 
 - #### find sb / sth + doing sth:
 
@@ -3769,6 +4043,7 @@ financially /fai'nænʃəli; fə'nænʃəli/ adv
 
 2. *高义频：* **认为；发觉：**  
 
+
 - #### find sth + adj / n (to do sth):
 
 > I enjoy learning English and find translation quite interesting.  
@@ -3784,6 +4059,7 @@ financially /fai'nænʃəli; fə'nænʃəli/ adv
 ---
 - #### find out
 1. **发现；查明；弄清 (情况)：**  
+
 
 - #### find out + wh- to do:
 
@@ -3819,6 +4095,7 @@ A cook will be immediately fired if he is found _________ (smoke) in the kitchen
 1. *高义频：* **[C] 发现物**  
 sth very good or useful that is discovered by chance：
 
+
 > They reported their find in Nature this month.  
 > 他们把自己的发现发表在这个月的《自然》杂志上。
 
@@ -3835,6 +4112,7 @@ sth very good or useful that is discovered by chance：
 ---
 1. *高义频：* **[C] [常用复数] 发现；调查 / 研究结果：**  
 
+
 > Scientists have recently provided us with some worrying findings.  
 > 科学家们最近向我们提供了一些令人担忧的研究结果。
 
@@ -3848,6 +4126,7 @@ sth very good or useful that is discovered by chance：
 ---
 1. *高义频：* **好的；优秀的；美好的：**  
 
+
 > a fine performance / holiday   
 > 精彩的演出/美好的假期
 
@@ -3855,6 +4134,7 @@ sth very good or useful that is discovered by chance：
 > 贝多芬最优秀的作品
 
 2. *高义频：* **合意的；适宜的：**  
+
 
 > — Is it OK if I open the window?  
 > 我开下窗户好吗？
@@ -3872,6 +4152,7 @@ sth very good or useful that is discovered by chance：
 
 3. *高义频：* **漂亮的；精美的：**  
 
+
 > a fine view   
 > 美景
 
@@ -3880,10 +4161,12 @@ sth very good or useful that is discovered by chance：
 
 4. *高义频：* **(天气) 晴朗的：**  
 
+
 > It's a fine day.  
 > 天气晴朗。
 
 5. *高义频：* **纤细的；微妙的：**  
+
 
 > fine blond hair   
 > 纤细的金发
@@ -3893,6 +4176,7 @@ sth very good or useful that is discovered by chance：
 > 爱恨之间只有一线之隔。
 
 6. *高义频：* **健康的：**  
+
 
 > — How are you feeling?  
 > 你感觉怎么样？
@@ -3909,6 +4193,7 @@ sth very good or useful that is discovered by chance：
 英文释义
 ---
 1. *高义频：* **很；很好：**  
+
 
 > **suits me fine**  
 > It suits me fine.  
@@ -3932,6 +4217,7 @@ finely /'faɪnli/ adv
 ---
 1. *高义频：* **处…以罚金：**  
 
+
 > You'll be fined 200 yuan.  
 > 你会被罚款200元。
 
@@ -3949,6 +4235,7 @@ finely /'faɪnli/ adv
 ---
 1. *高义频：* **[C] 罚金；罚款：**  
 
+
 > **pay a heavy,large fine**  
 > pay a heavy / large fine  
 > 付巨额罚款
@@ -3962,6 +4249,7 @@ finely /'faɪnli/ adv
 英文释义
 ---
 1. *高义频：* **[C] 手指；指状物：**  
+
 
 > **ran her fingers**  
 > She ran her fingers through her hair.  
@@ -3977,6 +4265,7 @@ finely /'faɪnli/ adv
 ---
 1. *高义频：* **用手指触碰；抚摸：**  
 
+
 > He fingered the wood to see if it was smooth.  
 > 他用手指摸了摸那块木头，看是否平滑。
 
@@ -3991,6 +4280,7 @@ finely /'faɪnli/ adv
 1. *高义频：* **[C] 手指甲**  
 
 
+
 # ***finish*** v  重难点词汇
 英音 'fɪnɪʃ     美音 'fɪnɪʃ  
 
@@ -3999,6 +4289,7 @@ finely /'faɪnli/ adv
 英文释义
 ---
 1. *高义频：* **结束；完成：**  
+
 
 - #### finish doing sth:
 
@@ -4017,10 +4308,12 @@ finely /'faɪnli/ adv
 
 2. *高义频：* **吃光；喝光 (剩下的东西) (finish up / off)：**  
 
+
 > The boys finished all the pies.  
 > 男孩们把馅饼全吃光了。
 
 3. *高义频：* **(在比赛中) 获得名次：**  
+
 
 > **finish second**  
 > She was delighted to finish second in the 100 metres.  
@@ -4032,17 +4325,20 @@ finely /'faɪnli/ adv
 - #### finish off 
 1. **完成；作最后加工；吃完：**  
 
+
 > Could you just give me a minute to finish off what I'm doing?  
 > 你能给我一点时间让我完成手头的工作吗？
 
 - #### finish up
 1. **[BrE] [非正式用语] 以…终结；吃完：**  
 
+
 > Many speakers finish up their speeches with question-and-answer sessions.  
 > 许多演讲者以问答环节结束自己的演讲。
 
 - #### finish with
 1. **[常用于完成时，不用于进行时] 完成；结束：**  
+
 
 > Please return the paper to me when you have finished with it.  
 > 看完报纸之后请还给我。
@@ -4064,6 +4360,7 @@ finished /'fɪnɪʃt/ adj
 ---
 1. *高义频：* **[C] [常用单数] 结束；结局：**  
 
+
 > a dramatic finish to the race   
 > 赛跑的戏剧性结局
 
@@ -4081,6 +4378,7 @@ finished /'fɪnɪʃt/ adj
 ---
 1. *高义频：* **[U] 火**  
 
+
 > Fire and water may be good servants, but bad masters.  
 > 水火可以成为忠仆，用之不慎则是灾主。
 
@@ -4088,6 +4386,7 @@ finished /'fɪnɪʃt/ adj
 > 无风不起浪。
 
 2. *高义频：* **[C] & [U] 火灾；失火：**  
+
 
 > **fight a fire**  
 > fight a fire   
@@ -4099,6 +4398,7 @@ finished /'fɪnɪʃt/ adj
 
 3. *高义频：* **[C] 炉火；炭火：**  
 
+
 > **make a fire**  
 > make a fire  
 > 生火
@@ -4108,6 +4408,7 @@ finished /'fɪnɪʃt/ adj
 > 萨姆点燃炉火欢迎我们回家。
 
 4. *高义频：* **[U] 射击；炮火；火力：**  
+
 
 > **opened fire on**  
 > The gunmen opened fire on the police.  
@@ -4119,6 +4420,7 @@ finished /'fɪnɪʃt/ adj
 - #### catch fire 
 1. **着火：**  
 
+
 > Hundreds of houses caught fire when the lava reached them.  
 > 熔岩袭来时，成百上千的房屋着了火。
 
@@ -4127,6 +4429,7 @@ finished /'fɪnɪʃt/ adj
 
 - #### on fire
 1. **着火；火辣辣：**  
+
 
 > His clothes were on fire.  
 > 他的衣服着火了。
@@ -4137,8 +4440,10 @@ finished /'fɪnɪʃt/ adj
 - #### play with fire
 1. **玩火**  
 
+
 - #### set ... on fire / set fire to
 1. **使…燃烧；放火烧：**  
+
 
 > A cigarette end set the house on fire.  
 > 一根烟蒂点燃了这所房子。
@@ -4156,6 +4461,7 @@ finished /'fɪnɪʃt/ adj
 ---
 1. *高义频：* **放 (枪、炮等)；射击：**  
 
+
 > **fire,shot**  
 > fire a shot   
 > 开枪
@@ -4168,6 +4474,7 @@ finished /'fɪnɪʃt/ adj
 > 你再靠近，我就开枪了。
 
 2. *高义频：* **解雇 (dismiss)：**  
+
 
 > **fired,for**  
 > The airline fired him for being drunk.  
@@ -4184,6 +4491,7 @@ finished /'fɪnɪʃt/ adj
 1. **火器**  
 
 
+
 # ***firefighter*** n
 英音 faɪəfaɪtə(r)     美音 'faɪərfaɪtər  
 
@@ -4192,6 +4500,7 @@ finished /'fɪnɪʃt/ adj
 英文释义
 ---
 1. *高义频：* **消防员 (fireman)**  
+
 
 
 # ***firework*** n
@@ -4204,6 +4513,7 @@ finished /'fɪnɪʃt/ adj
 1. *高义频：* **[C] 烟火；烟花；[常用复数] 烟火表演**  
 
 
+
 # ***firm*** n
 英音 fɜːm     美音 fɜːrm  
 
@@ -4212,6 +4522,7 @@ finished /'fɪnɪʃt/ adj
 英文释义
 ---
 1. *高义频：* **[C] (合伙) 商行；(小型的) 公司 (business / company)：**  
+
 
 > an electronics / an advertising / a law firm  
 > 电子公司/广告公司/律师事务所
@@ -4226,6 +4537,7 @@ finished /'fɪnɪʃt/ adj
 ---
 1. *高义频：* **坚硬的；牢固的；稳固的：**  
 
+
 > The city walls are as firm as rock.   
 > 城墙坚如磐石。
 
@@ -4233,6 +4545,7 @@ finished /'fɪnɪʃt/ adj
 > 爬梯子前要确保它的稳固。
 
 2. *高义频：* **坚定的；坚决的；强有力的：**  
+
 
 > He is firm in his purpose.   
 > 他意志坚定。
@@ -4253,6 +4566,7 @@ finished /'fɪnɪʃt/ adj
 ---
 1. *高义频：* **稳固地；坚定地：**  
 
+
 > Please stand firm and hold the handrail.  
 > 站稳并扶好扶手。
 
@@ -4269,6 +4583,7 @@ finished /'fɪnɪʃt/ adj
 英文释义
 ---
 1. *高义频：* **坚定地；牢牢地：**  
+
 
 > "I can manage,"she said firmly.  
 > “我应付得了。”她坚定地说。
@@ -4289,6 +4604,7 @@ finished /'fɪnɪʃt/ adj
 ---
 1. *高义频：* **第一 (位) 的；最前面的；最初的：**  
 
+
 > His second book is better than his first.  
 > 他的第二本书比第一本要好。
 
@@ -4303,6 +4619,7 @@ finished /'fɪnɪʃt/ adj
 > 先入为主。
 
 2. *高义频：* **首要的；最重要的：**  
+
 
 > an issue of first importance  
 > 首要问题
@@ -4319,6 +4636,7 @@ finished /'fɪnɪʃt/ adj
 ---
 1. *高义频：* **开始；开端；(月的) 第一日：**  
 
+
 > the first of May / May (the) first   
 > 5月1日
 
@@ -4327,6 +4645,7 @@ finished /'fɪnɪʃt/ adj
 > 事情从一开始就出了差错。
 
 2. *高义频：* **第一个人 / 事物：**  
+
 
 > **the first**  
 > He is always the first to come and the last to leave.  
@@ -4353,6 +4672,7 @@ At the first, I thought I knew everything and could make decisions by myself.
 ---
 1. *高义频：* **最先；首次；[句子副词] 第一 (firstly / first of all)：**  
 
+
 > **came first**  
 > Who came first in the race?  
 > 比赛中谁跑了第一？
@@ -4366,11 +4686,13 @@ At the first, I thought I knew everything and could make decisions by myself.
 - #### at first 
 1. **起先；开始的时候：**  
 
+
 > I didn't like the job much at first.  
 > 起初我并不太喜欢这个工作。
 
 - #### first of all 
 1. **首先；第一 (first / firstly)：**  
+
 
 > I don't think Helen should go — first of all, she is too young.  
 > 我认为海伦不应该去，首先，她太年轻了。
@@ -4385,6 +4707,7 @@ At the first, I thought I knew everything and could make decisions by myself.
 ---
 1. *高义频：* **[C] (pl fish / fishes) 鱼：**  
 
+
 > Do not teach fish to swim.   
 > 不要班门弄斧。
 
@@ -4397,6 +4720,7 @@ At the first, I thought I knew everything and could make decisions by myself.
 > 这条河里有很多鱼/种鱼。
 
 2. *高义频：* **[U] 鱼肉：**  
+
 
 > **fish and chips**  
 > fish and chips   
@@ -4411,6 +4735,7 @@ At the first, I thought I knew everything and could make decisions by myself.
 英文释义
 ---
 1. *高义频：* **vt & vi 捕鱼；钓鱼：**  
+
 
 > This river has been fished too much.  
 > 这条河里的鱼被过度捕捞。
@@ -4429,6 +4754,7 @@ At the first, I thought I knew everything and could make decisions by myself.
 1. *高义频：* **[C] (pl fishermen) 渔民；渔夫**  
 
 
+
 # ***fishing*** n
 英音 'fɪʃɪŋ     美音 'fɪʃɪŋ  
 
@@ -4437,6 +4763,7 @@ At the first, I thought I knew everything and could make decisions by myself.
 英文释义
 ---
 1. *高义频：* **[U] 钓鱼；渔业：**  
+
 
 > **go fishing**  
 > go fishing   
@@ -4451,6 +4778,7 @@ At the first, I thought I knew everything and could make decisions by myself.
 英文释义
 ---
 1. *高义频：* **[C] 拳 (头)：**  
+
 
 > **shake,fist**  
 > shake / swing one's fist at  
@@ -4467,6 +4795,7 @@ At the first, I thought I knew everything and could make decisions by myself.
 1. *高义频：* **[不用于进行时] (使) 合适；(使) 合身**  
 to be the right shape and size for sb or sth：
 
+
 > This key doesn't fit the lock.  
 > 这把钥匙打不开这把锁。
 
@@ -4477,10 +4806,12 @@ to be the right shape and size for sb or sth：
 三者都可用作动词，表“适合”之意。
 2. *低义频：* **可容纳；装进：**  
 
+
 > This small car can't fit a large family inside.  
 > 这辆小车装不下一大家子人。
 
 3. *高义频：* **安装：**  
+
 
 > **fitted with**  
 > The motorbike is fitted with a headlight.  
@@ -4493,6 +4824,7 @@ to be the right shape and size for sb or sth：
 4. *高义频：* **符合；使…一致**  
 to agree with, match or be suitable for sth：
 
+
 > What you saw does fit the facts we know.  
 > 你看到的情况确实和我们所了解的吻合。
 
@@ -4501,6 +4833,7 @@ to agree with, match or be suitable for sth：
 > 我们向来言行一致。
 
 5. *低义频：* **使合格；使胜任：**  
+
 
 > **fitted him for / to do**  
 > His experience fitted him for / to do the job.  
@@ -4511,6 +4844,7 @@ to agree with, match or be suitable for sth：
 ---
 - #### fit … in / into
 1. **安排时间 (见某人、做某事)；有足够的空间：**  
+
 
 > If my schedule allows it, I'll fit you in.  
 > 如果日程安排允许，我就抽时间见你。
@@ -4524,6 +4858,7 @@ to agree with, match or be suitable for sth：
 - #### fit in (with)
 1. **适合；(与…) 合得来；适应：**  
 
+
 > The new building must fit in with its surroundings.  
 > 这座新建筑必须与其周围的环境相协调。
 
@@ -4535,6 +4870,7 @@ to agree with, match or be suitable for sth：
 
 - #### fit into
 1. 
+
 > She fitted into the team very well.  
 > 她与队友相处得十分融洽。
 
@@ -4555,6 +4891,7 @@ Amy joined a painting group but didn't seem to fit ________, so she left.
 ---
 1. *高义频：* **适合的；合格的；能胜任的：**  
 
+
 - #### (be) fit to do sth:
 
 > The water in this pool is not fit to drink.  
@@ -4571,6 +4908,7 @@ Amy joined a painting group but didn't seem to fit ________, so she left.
 
 2. *高义频：* **健康的；健全的：**  
 
+
 > **keep fit**  
 > Sports can help you keep fit and get in touch with nature.  
 > 运动有助你保持健康和接触自然。
@@ -4585,6 +4923,7 @@ Amy joined a painting group but didn't seem to fit ________, so she left.
 ---
 1. *低义频：* **[C] & [U] 适合；合身 (的衣服)：**  
 
+
 > **nice fit**  
 > Your jacket is a nice fit.  
 > 你的夹克衫很合身。
@@ -4594,6 +4933,7 @@ Amy joined a painting group but didn't seem to fit ________, so she left.
 > 我的新鞋挤脚。
 
 2. *低义频：* **[C] (病的) 发作； (感情等的) 突发：**  
+
 
 > **coughing fits**  
 > He had a violent coughing fits.   
@@ -4624,6 +4964,7 @@ fitness /'fɪtnəs/ n [U]
 1. *高义频：* **健康；健壮**  
 
 
+
 # ***fix*** vt  重难点词汇
 英音 fɪks     美音 fɪks  
 
@@ -4632,6 +4973,7 @@ fitness /'fɪtnəs/ n [U]
 英文释义
 ---
 1. *高义频：* **使固定；安装；牢记：**  
+
 
 > fix a mirror on the wall   
 > 在墙上装镜子
@@ -4644,6 +4986,7 @@ fitness /'fɪtnəs/ n [U]
 
 2. *高义频：* **确定；决定 (set)；安排 (fix up)：**  
 
+
 > fix a trip  
 > 安排一次旅行
 
@@ -4652,6 +4995,7 @@ fitness /'fɪtnəs/ n [U]
 > 他们已经确定了开会的日期。
 
 3. *高义频：* **修理；整理；解决 (问题)：**  
+
 
 > Before the trip, I'd had my car fixed.  
 > 出发前，我找人修理了我的汽车。
@@ -4669,6 +5013,7 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 - #### fix … on / upon 
 1. **集中 (目光、注意力等) 于：**  
 
+
 > **fixed my eyes on**  
 > I fixed my eyes on the word “congratulations.”  
 > 我的眼睛盯着“祝贺你”这几个字。
@@ -4679,6 +5024,7 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 
 - #### fix up 
 1. **修理好；安顿；安排：**  
+
 
 > They fixed up the house before they moved in.  
 > 他们把房子修整好才搬进去。
@@ -4696,6 +5042,7 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 ---
 1. *高义频：* **[C] [非正式用语] 解决方法：**  
 
+
 > **quick fix**  
 > a quick fix   
 > 即时的解决方法
@@ -4709,6 +5056,7 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 英文释义
 ---
 1. *高义频：* **固定的；不变的；固执的：**  
+
 
 > fixed prices   
 > 固定价格
@@ -4731,6 +5079,7 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 1. *高义频：* **旗；旗帜；国旗**  
 
 
+
 # ***flame*** n
 英音 fleɪm     美音 fleɪm  
 
@@ -4739,6 +5088,7 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 英文释义
 ---
 1. *高义频：* **[C] & [U] 火焰：**  
+
 
 > the Olympic flame   
 > 奥运圣火
@@ -4761,6 +5111,7 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 ---
 1. *高义频：* **[C] 闪光；闪现；(思想、情感的) 突现：**  
 
+
 > **flash of lightning**  
 > A flash of lightning lit up the night sky.  
 > 一道闪电照亮夜空。
@@ -4775,6 +5126,7 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 
 2. *高义频：* **[C] & [U] 闪光灯：**  
 
+
 > a camera with a built-in flash   
 > 有内置闪光灯的照相机
 
@@ -4783,8 +5135,10 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 
 3. *低义频：* **[U] 网站动画制作程序**  
 
+
 - #### in / like a flash
 1. **很快地；马上：**  
+
 
 > Just wait here. I'll be back in a flash.  
 > 就在这里等着，我马上回来。
@@ -4798,6 +5152,7 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 英文释义
 ---
 1. *高义频：* **(使) 闪光；(使) 闪耀：**  
+
 
 > Lightning flashed in the sky.   
 > 闪电在空中划过。
@@ -4813,6 +5168,7 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 > 那个司机为什么朝我闪车灯呢？
 
 2. *低义频：* **闪现；突然想到：**  
+
 
 > **flashed across**  
 > A smile flashed across Kathy's face.  
@@ -4842,6 +5198,7 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 1. *高义频：* **闪回；倒叙**  
 
 
+
 # ***flashlight*** n
 英音 'flæʃlaɪt     美音 'flæʃlaɪt  
 
@@ -4850,6 +5207,7 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 英文释义
 ---
 1. *高义频：* **[C] 手电筒 (BrE torch)；闪光信号灯**  
+
 
 
 # ***flat*** n
@@ -4862,6 +5220,7 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 1. *高义频：* **[C] 公寓；一套房间 (BrE apartment)**  
 
 
+
 # ***flat*** adj
 英音 flæt     美音 flæt  
 
@@ -4871,6 +5230,7 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 ---
 1. *高义频：* **平坦的；扁平的；(车胎) 无气的：**  
 
+
 > People used to think that the world was flat.  
 > 过去人们以为地球是平的。
 
@@ -4878,6 +5238,7 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 > 没气的车胎
 
 2. *低义频：* **浅的：**  
+
 
 > a flat plate   
 > 浅盘子
@@ -4891,6 +5252,7 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 英文释义
 ---
 1. *高义频：* **[C] & [U] 味道；风味；特点：**  
+
 
 > six different flavours of ice-cream  
 > 六种不同口味的冰淇淋
@@ -4909,6 +5271,7 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 英文释义
 ---
 1. *低义频：* **vi & vt 逃 (离)；逃走；逃避：**  
+
 
 > He was lucky to flee the burning hotel.  
 > 他很幸运地逃出了失火的旅馆。
@@ -4929,6 +5292,7 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 ---
 1. *高义频：* **肉；(人体的) 皮肤；(果、菜) 的可食用部分：**  
 
+
 > **flesh-eating**  
 > Tigers are flesh-eating animals.   
 > 老虎是肉食动物。
@@ -4946,8 +5310,10 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 - #### flesh and blood 
 1. **血肉之躯**  
 
+
 - #### in the flesh 
 1. **亲自；本人：**  
+
 
 > We won't have to go there in the flesh at all!  
 > 我们无需亲自前往！
@@ -4963,6 +5329,7 @@ fix更常用来指修理机器、车辆等，没有repair 正式。
 1. *低义频：* **易弯曲的；柔韧的**  
 able to bend easily without breaking：
 
+
 > Rubber is a flexible substance.  
 > 橡胶是一种有弹性的物质。
 
@@ -4971,6 +5338,7 @@ able to bend easily without breaking：
 
 2. *高义频：* **可变通的；灵活的**  
 able to change to suit any new situation：
+
 
 > flexible working hours   
 > 弹性工作时间
@@ -5004,6 +5372,7 @@ Mothers holding jobs outside the home should have ________ (灵活的) schedules
 1. **轻打,轻弹,抖动**  
 
 
+
 # ***flight*** n
 英音 flaɪt     美音 flaɪt  
 
@@ -5013,6 +5382,7 @@ Mothers holding jobs outside the home should have ________ (灵活的) schedules
 ---
 1. *高义频：* **[U] 飞翔；飞行：**  
 
+
 > **in flight**  
 > a bird in flight  
 > 飞行中的鸟
@@ -5021,6 +5391,7 @@ Mothers holding jobs outside the home should have ________ (灵活的) schedules
 > 飞翔是鸟类的天性。
 
 2. *高义频：* **[C] 班机；航班；空中旅行：**  
+
 
 > **book / catch / miss a flight**  
 > book / catch / miss a flight  
@@ -5032,11 +5403,13 @@ Mothers holding jobs outside the home should have ________ (灵活的) schedules
 
 3. *低义频：* **[U] 逃跑；逃避：**  
 
+
 > **took flight**  
 > When the alarm sounded, the robbers took flight in a hurry.  
 > 警报声响起，劫匪匆忙逃跑。
 
 4. *低义频：* **[C] (楼梯等的) 一段：**  
+
 
 > **a flight of stairs / steps**  
 > a flight of stairs / steps  
@@ -5051,6 +5424,7 @@ Mothers holding jobs outside the home should have ________ (灵活的) schedules
 英文释义
 ---
 1. *高义频：* **vt & vi (使) 漂浮 【反 sink】；(使) 漂流：**  
+
 
 > The boy floated his toy boat in the shallow water.  
 > 那男孩把玩具船放在浅水中漂浮。
@@ -5076,6 +5450,7 @@ If steel is heavier than water, why are ships able to _______ (漂浮) on the se
 1. **聚集**  
 
 
+
 # ***flood*** n
 英音 flʌd     美音 flʌd  
 
@@ -5084,6 +5459,7 @@ If steel is heavier than water, why are ships able to _______ (漂浮) on the se
 英文释义
 ---
 1. *高义频：* **[C] & [U] 洪水；水灾：**  
+
 
 > **in flood**  
 > The river was in flood.   
@@ -5094,6 +5470,7 @@ If steel is heavier than water, why are ships able to _______ (漂浮) on the se
 > 警方发布了洪水警告。
 
 2. *高义频：* **[C] 大批；大量：**  
+
 
 > **floods of**  
 > floods of rain  
@@ -5113,10 +5490,12 @@ If steel is heavier than water, why are ships able to _______ (漂浮) on the se
 ---
 1. *高义频：* **(被) 淹没；(使) 泛滥：**  
 
+
 > Heavy rainfalls flooded the village.  
 > 大雨淹没了村庄。
 
 2. *高义频：* **(洪水般地) 涌进 (pour)：**  
+
 
 > **are,flooded with**  
 > Individual e-mail boxes are sometimes flooded with spam e-mails.   
@@ -5143,10 +5522,12 @@ flooding /flʌdɪŋ/ n [U]
 ---
 1. *高义频：* **(室内的) 地面；地板：**  
 
+
 > He has put a carpet on the floor.  
 > 他在地板上铺了一块地毯
 
 2. *高义频：* **(楼) 层：**  
+
 
 > **on the top floor**  
 > She lives on the top floor.   
@@ -5167,6 +5548,7 @@ flooding /flʌdɪŋ/ n [U]
 1. *高义频：* **[U] 面粉；粉末**  
 
 
+
 # ***flow*** vi
 英音 fləʊ     美音 floʊ  
 
@@ -5176,11 +5558,13 @@ flooding /flʌdɪŋ/ n [U]
 ---
 1. *高义频：* **(液体、气体、电等) 流动；流出：**  
 
+
 > **flows down**  
 > It's here that the river flows down into the ocean.  
 > 这条河就在这里流入海洋。
 
 2. *高义频：* **流逝；畅通；流淌：**  
+
 
 > Time flows away.   
 > 光阴流逝。
@@ -5201,6 +5585,7 @@ flooding /flʌdɪŋ/ n [U]
 ---
 1. *高义频：* **[C] & [U] 流；流动：**  
 
+
 > a flow of people / cars   
 > 人流/车流
 
@@ -5217,6 +5602,7 @@ flooding /flʌdɪŋ/ n [U]
 英文释义
 ---
 1. *高义频：* **[C] 花；花朵；花卉：**  
+
 
 > **flower bed**  
 > flower bed  
@@ -5235,6 +5621,7 @@ flooding /flʌdɪŋ/ n [U]
 ---
 1. *高义频：* **开花：**  
 
+
 > Most fruit trees flower in the spring.  
 > 大多数果树在春天开花。
 
@@ -5249,6 +5636,7 @@ flooding /flʌdɪŋ/ n [U]
 1. *高义频：* **[U] [常作the flu] 流行性感冒 (influenza)**  
 
 
+
 # ***fluency*** n
 英音 'fluːənsi     美音 'fluːənsi  
 
@@ -5257,6 +5645,7 @@ flooding /flʌdɪŋ/ n [U]
 英文释义
 ---
 1. *高义频：* **[U] 流利；流畅：**  
+
 
 > He speaks English with great fluency.  
 > 他的英语说得非常流利。
@@ -5270,6 +5659,7 @@ flooding /flʌdɪŋ/ n [U]
 英文释义
 ---
 1. *高义频：* **流利的；流畅的：**  
+
 
 > a fluent performance   
 > 熟练的表演
@@ -5296,6 +5686,7 @@ fluently /'fluːəntli/ adv
 1. **流利地**  
 
 
+
 # ***fluid*** n
 英音 'fluːɪd     美音 'fluːɪd  
 
@@ -5308,6 +5699,7 @@ fluently /'fluːəntli/ adv
 1. *高义频：* **流体；液体**  
 
 
+
 # ***flute*** n
 英音 fluːt     美音 fluːt  
 
@@ -5318,6 +5710,7 @@ fluently /'fluːəntli/ adv
 1. **长笛**  
 
 
+
 # ***flutter*** v
 英音 'flʌtə(r)     美音 'flʌtər  
 
@@ -5326,6 +5719,7 @@ fluently /'fluːəntli/ adv
 英文释义
 ---
 1. **飘扬；飘动；拍打（翅膀）**  
+
 
 
 # ***fly*** v
@@ -5339,6 +5733,7 @@ fluently /'fluːəntli/ adv
 ---
 1. *高义频：* **飞；飞翔；乘飞机 / 宇宙飞船：**  
 
+
 > Clumsy birds have to start flying early.   
 > 笨鸟先飞。
 
@@ -5347,6 +5742,7 @@ fluently /'fluːəntli/ adv
 > 我计划下个月乘飞机到伦敦。
 
 2. *低义频：* **驾驶 (飞机等)；空运 (乘客、货物等)；飞越；放飞：**  
+
 
 > The pilot flies a new type of plane.  
 > 那位飞行员驾驶一架新型飞机。
@@ -5363,6 +5759,7 @@ fluently /'fluːəntli/ adv
 
 3. *低义频：* **(使) 飘扬：**  
 
+
 > **fly the,flag**  
 > fly the national flag  
 > 升国旗
@@ -5372,6 +5769,7 @@ fluently /'fluːəntli/ adv
 
 4. *高义频：* **飞跑；飞奔；(时间)飞逝：**  
 
+
 > She flew to meet her mother.   
 > 她飞奔过去迎接母亲。
 
@@ -5380,6 +5778,7 @@ fluently /'fluːəntli/ adv
 > 光阴似箭。
 
 5. *低义频：* **[正式用语] 逃走；逃离 (flee)；逃避：**  
+
 
 > Both suspects have flown the country.  
 > 两个嫌疑犯都已逃到国外。
@@ -5392,6 +5791,7 @@ fluently /'fluːəntli/ adv
 ---
 - #### fly off the handle
 1. **[非正式用语] 大发雷霆**  
+
 
 
 派生词汇
@@ -5409,6 +5809,7 @@ flying /'flaɪɪŋ/ adj [只用于名词前]
 1. *高义频：* **[C] 苍蝇**  
 
 
+
 # ***focus*** n
 英音 'fəʊkəs     美音 'foʊkəs  
 
@@ -5417,6 +5818,7 @@ flying /'flaɪɪŋ/ adj [只用于名词前]
 英文释义
 ---
 1. *高义频：* **(pl focuses / foci) 焦点；中心点；集中点：**  
+
 
 > **focus of attention**  
 > The focus of attention has changed.  
@@ -5435,11 +5837,14 @@ flying /'flaɪɪŋ/ adj [只用于名词前]
 - #### come into focus
 1. **成为焦点**  
 
+
 - #### in focus 
 1. **焦点对准的；清晰的**  
 
+
 - #### out of focus 
 1. **焦点未对准的；模糊不清的**  
+
 
 
 # ***focus*** v
@@ -5451,6 +5856,7 @@ flying /'flaɪɪŋ/ adj [只用于名词前]
 ---
 1. *高义频：* **vt & vi (使) 聚焦；(使) 集中；调节 (…的) 焦距：**  
 
+
 > The other team was brilliant and we really had to focus.  
 > 另一队很优秀，我们必须集中精力。
 
@@ -5459,6 +5865,7 @@ flying /'flaɪɪŋ/ adj [只用于名词前]
 ---
 - #### focus on / upon
 1. **集中(...)于；聚焦(...)于：**  
+
 
 > You should stop focusing on whom to blame and start focusing on how to remedy the situation.  
 > 你应该开始关注如何改善局面而不是去责怪谁。
@@ -5492,11 +5899,13 @@ Most of us are more focused ________ our tasks in the morning than we are later 
 ---
 1. *低义频：* **雾 (mist)：**  
 
+
 > **thick fog**  
 > thick fog  
 > 浓雾
 
 2. *低义频：* **[非正式用语]迷惑；困惑：**  
+
 
 > **in a fog**  
 > be lost in a fog   
@@ -5511,6 +5920,7 @@ Most of us are more focused ________ our tasks in the morning than we are later 
 英文释义
 ---
 1. *高义频：* **有雾的；雾蒙蒙的；模糊的：**  
+
 
 > On foggy days, you can't see anything.  
 > 有雾的日子，你什么都看不清。
@@ -5528,6 +5938,7 @@ Most of us are more focused ________ our tasks in the morning than we are later 
 ---
 1. *高义频：* **vt & vi 折叠；折起来；合拢**  
 反义词 unfold 
+
 > **fold,in half**  
 > fold the paper in half  
 > 把纸对折
@@ -5548,6 +5959,7 @@ Most of us are more focused ________ our tasks in the morning than we are later 
 
 2. *低义频：* **vt 包；裹：**  
 
+
 > fold a baby in a blanket  
 > 把婴儿裹在毯子里
 
@@ -5560,6 +5972,7 @@ Most of us are more focused ________ our tasks in the morning than we are later 
 英文释义
 ---
 1. *高义频：* **[C] 褶；褶痕：**  
+
 
 > folds of a dress   
 > 连衣裙的裙褶
@@ -5586,6 +5999,7 @@ folding /'fəʊldɪŋ/ adj [只用于名词前]
 ---
 1. *低义频：* **人们 (AmE)：**  
 
+
 > Folks differ in their tastes.   
 > 人各有所好。
 
@@ -5593,6 +6007,7 @@ folding /'fəʊldɪŋ/ adj [只用于名词前]
 > 对于大多数人来说，他们认定自己有多幸福，就有多幸福。
 
 2. *高义频：* **[U] 民间音乐(folk music)：**  
+
 
 > He likes listening to Chinese folk.   
 > 他喜欢听中国民歌。
@@ -5606,6 +6021,7 @@ folding /'fəʊldɪŋ/ adj [只用于名词前]
 英文释义
 ---
 1. *高义频：* **普通百姓的；民间的：**  
+
 
 > a folk tale / story   
 > 民间故事
@@ -5624,6 +6040,7 @@ folding /'fəʊldɪŋ/ adj [只用于名词前]
 ---
 1. *高义频：* **跟随；跟着：**  
 
+
 > Follow me, please; I'll show you the way.  
 > 请跟我来，我给你指路。
 
@@ -5632,6 +6049,7 @@ folding /'fəʊldɪŋ/ adj [只用于名词前]
 
 2. *高义频：* **接着…来到 / 发生：**  
 to happen immediately after sth else：
+
 
 > Spring follows winter.   
 > 冬去春来。
@@ -5647,6 +6065,7 @@ to happen immediately after sth else：
 
 3. *高义频：* **沿着…继续行进：**  
 
+
 > **follow the signs,sb's directions**  
 > follow the signs / sb's directions  
 > 沿着路标/某人指引的方向
@@ -5655,6 +6074,7 @@ to happen immediately after sth else：
 > 沿着这条路一直走就能到学校。
 
 4. *高义频：* **听从；遵循；仿效：**  
+
 
 > **follow,instructions**  
 > follow traffic rules / instructions / customs  
@@ -5670,6 +6090,7 @@ to happen immediately after sth else：
 
 5. *高义频：* **vt & vi 跟上；听清楚；领会 (grasp)：**  
 
+
 > **to follow**  
 > The report was much more difficult to follow than I had expected.  
 > 这个报告比我预料的要难懂得多。
@@ -5683,11 +6104,13 @@ to happen immediately after sth else：
 - #### as follows
 1. **如下：**  
 
+
 > I decided on science as my main subject of study. The reasons are as follows.  
 > 我决定主修理科，理由如下。
 
 - #### follow in sb's footsteps
 1. **效仿某人；步某人的后尘；继承某人的事业：**  
+
 
 > He is a doctor and expects his son to follow in his footsteps.  
 > 他是名医生，期望儿子能继承他的事业。
@@ -5695,8 +6118,10 @@ to happen immediately after sth else：
 - #### follow suit 
 1. **照着做；跟着做**  
 
+
 - #### follow up 
 1. **追究；继续做：**  
+
 
 > follow up a clue   
 > 追查线索
@@ -5725,6 +6150,7 @@ He hurried home, never once looking back to see if he________ (follow).
 ---
 1. *高义频：* **接着的；其次的；下列的：**  
 
+
 > the following day / year   
 > 第二天/年
 
@@ -5741,6 +6167,7 @@ He hurried home, never once looking back to see if he________ (follow).
 ---
 1. *高义频：* **[C] [常用单数] 一群追随者 / 支持者：**  
 
+
 > The band has a big following in Europe.  
 > 这支乐队在欧洲有一大批追随者。
 
@@ -5749,6 +6176,7 @@ He hurried home, never once looking back to see if he________ (follow).
 ---
 - #### the following 
 1. **下列；如下：**  
+
 
 > The following is about the BBC and some other broadcasting stations in Britain.  
 > 下面是关于BBC和其他一些英国广播电台的介绍。
@@ -5763,6 +6191,7 @@ He hurried home, never once looking back to see if he________ (follow).
 ---
 1. *高义频：* **在...以后；由于：**  
 
+
 > Following severe rains the fields were flooded.  
 > 几场大雨过后，田地都被水淹了。
 
@@ -5776,6 +6205,7 @@ He hurried home, never once looking back to see if he________ (follow).
 ---
 1. *高义频：* **喜爱的；爱好的：**  
 
+
 > **m fond of**  
 > I'm fond of English and do well in both speaking and writing.  
 > 我喜欢英语，擅长说和写。
@@ -5785,6 +6215,7 @@ He hurried home, never once looking back to see if he________ (follow).
 > 她渐渐喜欢上了烹饪。
 
 2. *低义频：* **深情的；温情的：**  
+
 
 > a fond look / farewell  
 > 慈爱的目光/深情的道别
@@ -5806,6 +6237,7 @@ More and more young people are fond ________ playing tennis nowadays
 ---
 1. *高义频：* **[C] & [U] 食物：**  
 
+
 > **junk / organic food**  
 > junk / organic food  
 > 垃圾/有机食品
@@ -5815,6 +6247,7 @@ More and more young people are fond ________ playing tennis nowadays
 > 食品添加剂
 
 2. *低义频：* **[U] (植物的) 养料；滋养品：**  
+
 
 > food for plants   
 > 植物的养料
@@ -5832,6 +6265,7 @@ More and more young people are fond ________ playing tennis nowadays
 ---
 1. *高义频：* **[C] 傻子；笨蛋：**  
 
+
 > **felt a fool**  
 > I felt a fool when I realized my mistake.  
 > 当我意识到自己的错误时，感到自己很傻。
@@ -5842,11 +6276,13 @@ More and more young people are fond ________ playing tennis nowadays
 - #### make a fool of sb
 1. **愚弄某人：**  
 
+
 > We were all made fools of by the salesman.  
 > 我们全都被推销员骗了。
 
 - #### make a fool of oneself 
 1. **干蠢事；出洋相**  
+
 
 
 # ***fool*** v
@@ -5858,6 +6294,7 @@ More and more young people are fond ________ playing tennis nowadays
 ---
 1. *低义频：* **愚弄；欺骗：**  
 
+
 > **had me fooled**  
 > She certainly had me fooled — I really believed her!  
 > 她确实把我骗了——我真的相信了她的话！
@@ -5868,11 +6305,13 @@ More and more young people are fond ________ playing tennis nowadays
 
 2. *低义频：* **干蠢事；说傻话**  
 
+
 > It's time for you to stop fooling.  
 > 别再胡闹了。
 
 - #### fool around / about
 1. **游手好闲；胡混：**  
+
 
 > Stop fooling around and get back to work.  
 > 你别再胡闹了！工作去吧！
@@ -5888,6 +6327,7 @@ More and more young people are fond ________ playing tennis nowadays
 1. **傻的**  
 
 
+
 # ***foolish*** adj
 英音 'fuːlɪʃ     美音 'fuːlɪʃ  
 
@@ -5896,6 +6336,7 @@ More and more young people are fond ________ playing tennis nowadays
 英文释义
 ---
 1. *高义频：* **愚蠢的；可笑的 (silly / stupid)：**  
+
 
 > It's foolish of you to waste your time like this.  
 > 你如此浪费时间，真是愚蠢。
@@ -5909,6 +6350,7 @@ More and more young people are fond ________ playing tennis nowadays
 英文释义
 ---
 1. *高义频：* **傻地；愚蠢地：**  
+
 
 > Don't act foolishly.  
 > 别干傻事。
@@ -5931,6 +6373,7 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 1. **愚蠢**  
 
 
+
 # ***foot*** n
 英音 fʊt     美音 fʊt  
 
@@ -5939,6 +6382,7 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 英文释义
 ---
 1. *高义频：* **[C] (pl feet) 脚；足；脚步：**  
+
 
 > **rose to his feet**  
 > He rose to his feet.   
@@ -5949,6 +6393,7 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 > 看，约翰尼笨手笨脚的！
 
 2. *高义频：* **底部；底座；(行列等的) 末尾：**  
+
 
 > **at the foot of the stairs / a list**  
 > at the foot of the stairs / a list  
@@ -5961,16 +6406,20 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 3. *高义频：* **[C] (pl foot / feet) 英尺**  
 
 
+
 固定搭配
 ---
 - #### on foot 
 1. **步行**  
 
+
 - #### on one's feet
 1. **痊愈；(困境后) 恢复**  
 
+
 - #### set foot in / on 
 1. **进入；访问；参观：**  
+
 
 > He has never set foot in a library and he isn't about to do so today.  
 > 他从未去过图书馆，今天也不会去。
@@ -5982,6 +6431,7 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 1. **独立自主**  
 
 
+
 # ***football*** n
 英音 'fʊtbɔːl     美音 'fʊtbɔːl  
 
@@ -5990,6 +6440,7 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 英文释义
 ---
 1. *高义频：* **[C] & [U] 足球 (运动)：**  
+
 
 > play football   
 > 踢足球
@@ -6005,6 +6456,7 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 1. **脚印；足迹**  
 
 
+
 # ***footstep*** n
 英音 'fʊtstep     美音 'fʊtstep  
 
@@ -6015,6 +6467,7 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 1. *高义频：* **[C] 脚步声**  
 
 
+
 # ***for*** prep
 英音 fə(r)     美音 fər  
 
@@ -6023,6 +6476,7 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 英文释义
 ---
 1. *高义频：* **对于；供；适合于：**  
+
 
 > books for children   
 > 儿童读物
@@ -6035,6 +6489,7 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 
 2. *高义频：* **为了：**  
 
+
 > He went out for a walk.   
 > 他出去散步了。
 
@@ -6042,6 +6497,7 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 > 你学英语是出于兴趣还是为了工作?
 
 3. *高义频：* **达；计：**  
+
 
 > We have stayed here for two months.  
 > 我们已在这里待了两个月了。
@@ -6051,6 +6507,7 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 
 4. *高义频：* **往；向：**  
 
+
 > leave for London   
 > 动身去伦敦
 
@@ -6059,6 +6516,7 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 
 5. *高义频：* **至于；就…而言：**  
 
+
 > It is very cold for October.  
 > 十月里这样的天气真够冷的。
 
@@ -6066,6 +6524,7 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 > 就初学者来说，他开得不错。
 
 6. *高义频：* **由于；因为：**  
+
 
 > If it weren't for Dad, I wouldn't be where I am today.  
 > 要不是因为父亲，我就不会有今天。
@@ -6078,6 +6537,7 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 
 7. *高义频：* **换：**  
 
+
 > change for another   
 > 换另一个
 
@@ -6086,15 +6546,18 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 
 8. *高义频：* **赞成；拥护；有利于：**  
 
+
 > Are you for or against the proposal?  
 > 你赞成还是反对这个建议？
 
 9. *高义频：* **代；替；代表：**  
 
+
 > Mr Jackson attended the meeting for our school.  
 > 杰克逊先生代表我校参加了会议。
 
 10. *高义频：* **在：**  
+
 
 > an appointment for Monday   
 > 星期一的约会
@@ -6125,6 +6588,7 @@ Nothing is so easy as ________ parents to raise their expectations of their chil
 ---
 1. *高义频：* **因为；由于：**  
 
+
 > Love your enemies, for they tell you your faults.  
 > 去爱你的敌人吧，因为他们指出你的错误。
 
@@ -6148,6 +6612,7 @@ I am not afraid of tomorrow, ________ I have seen yesterday and I love today.
 英文释义
 ---
 1. *高义频：* **禁止【反:allow / permit】；妨碍；阻止：**  
+
 
 - #### forbid sb from doing sth:
 
@@ -6196,11 +6661,13 @@ forbidden /fə'bɪdn/ adj
 ---
 1. *高义频：* **[U] 力；力量；自然力：**  
 
+
 > **force of will**  
 > He overcame his bad habits by force of will.  
 > 他靠毅力克服了自己的不良习惯。
 
 2. *高义频：* **[U] 武力；暴力：**  
+
 
 > Force can never destroy right.  
 > 武力永远不能摧毁正义。
@@ -6215,6 +6682,7 @@ forbidden /fə'bɪdn/ adj
 
 3. *低义频：* **[C] [常用复数] 军事力量；武装部队：**  
 
+
 > the armed forces  
 > 武装部队/力量
 
@@ -6227,6 +6695,7 @@ forbidden /fə'bɪdn/ adj
 
 4. *高义频：* **[U] 影响；效力；[C] 有影响力的人 / 物：**  
 
+
 > Science can be a force for evil as well as for good.  
 > 科学既可以成为善的力量，也可以成为恶的力量。
 
@@ -6236,11 +6705,13 @@ forbidden /fə'bɪdn/ adj
 - #### in force 
 1. **(法律等) 有效；在实施中：**  
 
+
 > The new law will soon come in force.  
 > 新的法律将很快生效。
 
 - #### join / combine forces (with)
 1. **(与…) 联合；(与…) 合作**  
+
 
 ### 辨析 force, energy, strength, power
 四者都有“力”、“力量”之意，但具体意思不同。
@@ -6253,6 +6724,7 @@ forbidden /fə'bɪdn/ adj
 英文释义
 ---
 1. *高义频：* **强迫；迫使：**  
+
 
 - #### force sb / oneself to do sth:
 
@@ -6274,6 +6746,7 @@ forbidden /fə'bɪdn/ adj
 > 他们没有强迫我，是我想去的。
 
 2. *低义频：* **强行；强加：**  
+
 
 > force one's way in / out  
 > 强行闯入/挤出
@@ -6305,6 +6778,7 @@ forceful  /'fɔːsfl/ adj
 ---
 1. *高义频：* **预测；预报；预示(predict)：**  
 
+
 > Who can forecast the future?   
 > 谁能预言未来？
 
@@ -6317,6 +6791,7 @@ forceful  /'fɔːsfl/ adj
 英文释义
 ---
 1. *高义频：* **[C] 天气预报；预测：**  
+
 
 > **weather forecast**  
 > a weather forecast  
@@ -6333,6 +6808,7 @@ forceful  /'fɔːsfl/ adj
 1. **（图片或照片的）前景**  
 
 
+
 # ***forehead*** n
 英音 'fɔːhed,'fɒrɪd     美音 'fɔːrhed,'fɔːred  
 
@@ -6343,6 +6819,7 @@ forceful  /'fɔːsfl/ adj
 1. *高义频：* **[C] 额；前额**  
 
 
+
 # ***foreign*** adj
 英音 'fɒrən     美音 'fɔːrən  
 
@@ -6351,6 +6828,7 @@ forceful  /'fɔːsfl/ adj
 英文释义
 ---
 1. *高义频：* **外国的；外来的；对外的**  
+
 
 > foreign trade / a foreign language   
 > 对外贸易/外语
@@ -6373,6 +6851,7 @@ Do you speak any________ (外国) languages?
 1. *高义频：* **[C] 外国人**  
 
 
+
 # ***foresee*** vt
 英音 fɔː'siː     美音 fɔːr'siː  
 
@@ -6383,6 +6862,7 @@ Do you speak any________ (外国) languages?
 英文释义
 ---
 1. *高义频：* **预见；预知 (predict)：**  
+
 
 > foresee the future  
 > 预见未来
@@ -6397,6 +6877,7 @@ Do you speak any________ (外国) languages?
 ---
 1. *高义频：* **[C] & [U] 森林；林区：**  
 
+
 > Most of the ancient forests of England have been cut down.  
 > 英格兰大多数原始森林都被砍伐光了。
 
@@ -6409,6 +6890,7 @@ Do you speak any________ (外国) languages?
 英文释义
 ---
 1. *高义频：* **永远；老是 (for ever)：**  
+
 
 > Nobody lives forever.   
 > 没有人会永生。
@@ -6427,6 +6909,7 @@ Do you speak any________ (外国) languages?
 英文释义
 ---
 1. *高义频：* **忘记；遗忘：**  
+
 
 - #### forget doing sth 忘记做过某事：
 
@@ -6458,6 +6941,7 @@ Do you speak any________ (外国) languages?
 
 2. *高义频：* **不再想；不再把...放在心上：**  
 
+
 > **forget about**  
 > Try to forget about what happened.  
 > 尽量不要想已发生的事情。
@@ -6471,6 +6955,7 @@ Do you speak any________ (外国) languages?
 - #### forget it
 1. *高义频：* **没关系；不必在意：**  
 
+
 > — Sorry, Liz. I think I was a bit rude to you.  
 > 很抱歉，利兹，我想我刚才对你有些无礼。
 
@@ -6479,6 +6964,7 @@ Do you speak any________ (外国) languages?
 
 2. *低义频：* **休想；不可能：**  
 
+
 > — I'd like to take a week's holiday.  
 > 我想休一周假。
 
@@ -6486,6 +6972,7 @@ Do you speak any________ (外国) languages?
 > 不可能，我们太忙了。
 
 3. *低义频：* **别提了：**  
+
 
 > — What were you saying about John?  
 > 你刚才说约翰什么来着？
@@ -6515,6 +7002,7 @@ D.pardon me
 ---
 1. *高义频：* **健忘的 (absent-minded)；不注意的；疏忽的：**  
 
+
 > I'm a bit forgetful these days.  
 > 我最近记性不大好。
 
@@ -6534,6 +7022,7 @@ D.pardon me
 ---
 1. *高义频：* **原谅；宽恕：**  
 
+
 - #### forgive sb sth:
 
 > They forgave him his rudeness.  
@@ -6552,6 +7041,7 @@ D.pardon me
 ---
 - #### forgive and forget 
 1. **不念旧恶；不记仇：**  
+
 
 > It is a virtue to forgive and forget, especially in such a competitive and stressful society.  
 > 不记仇是一种美德，特别是在这样一个竞争激烈、有压力的社会中。
@@ -6573,6 +7063,7 @@ One of my favourite sayings is "Understand all and ________ (宽恕) all."
 ---
 1. *高义频：* **[C] 餐叉；叉；耙；分叉：**  
 
+
 > **knife and fork**  
 > the knife and fork   
 > 刀叉
@@ -6587,6 +7078,7 @@ One of my favourite sayings is "Understand all and ________ (宽恕) all."
 ---
 1. *高义频：* **[C] 形状；外形；体型：**  
 
+
 > **in the form of**  
 > My garden is in the form of a square.  
 > 我的花园是方形的。
@@ -6595,6 +7087,7 @@ One of my favourite sayings is "Understand all and ________ (宽恕) all."
 > 3万多年以来，人类的体形没有多大变化。
 
 2. *高义频：* **[C] & [U] 形式；形态：**  
+
 
 > **forms of**  
 > Ice and snow are forms of water.  
@@ -6610,6 +7103,7 @@ One of my favourite sayings is "Understand all and ________ (宽恕) all."
 
 3. *高义频：* **[C] 类型；种类：**  
 
+
 > **form of**  
 > The bicycle is an environment-friendly form of transport.  
 > 自行车是一种环保的交通工具。
@@ -6620,9 +7114,11 @@ One of my favourite sayings is "Understand all and ________ (宽恕) all."
 
 4. *高义频：* **[C] 表格；格式：**  
 
+
 - #### fill in / out a form 填写表格
 
 5. *低义频：* **[C] [语法] 形式；词形：**  
+
 
 > The continuous form of “stand” is “standing”.  
 > stand的进行式是standing。
@@ -6647,6 +7143,7 @@ You'd sound a lot more polite if you make a request ________ (以…形式) a qu
 ---
 1. *高义频：* **(使) 形成；建立；构成：**  
 
+
 > Ice formed in the river.   
 > 河上结了冰。
 
@@ -6667,6 +7164,7 @@ You'd sound a lot more polite if you make a request ________ (以…形式) a qu
 > 闲聊能帮助人们建立新的友谊。
 
 2. *高义频：* **起...作用；塑造 (性格等)：**  
+
 
 > The trees form a natural protection from the sun's rays.  
 > 树木成了遮挡阳光的天然屏障。
@@ -6697,6 +7195,7 @@ formation /fɔː'meɪʃn/ n [U] & [C]
 ---
 1. *高义频：* **正式的；正式场合用的；正规的：**  
 反义词 informal 
+
 > a formal announcement   
 > 正式的公告
 
@@ -6707,6 +7206,7 @@ formation /fɔː'meɪʃn/ n [U] & [C]
 > 做这种工作不需要任何正规训练。
 
 2. *低义频：* **形式 (上) 的：**  
+
 
 > a formal leader   
 > 名义上的领导人
@@ -6725,6 +7225,7 @@ formally  /'fɔːməli/ adv 正式地；形式上
 ---
 1. *高义频：* **[C] (出版物的) 版式；格式；(电视节目等的)构成；安排：**  
 
+
 > They've brought out the magazine in a new format.  
 > 他们已用新的版式出版这本杂志。
 
@@ -6739,6 +7240,7 @@ formally  /'fɔːməli/ adv 正式地；形式上
 1. *高义频：* **(书刊等) 安排版式；格式化 (磁盘)**  
 
 
+
 # ***formation*** n
 英音 fɔː'meɪʃn     美音 fɔːr'meɪʃn  
 
@@ -6747,6 +7249,7 @@ formally  /'fɔːməli/ adv 正式地；形式上
 英文释义
 ---
 1. *高义频：* **[U] & [C] 形成；构成；组成：**  
+
 
 > the formation of good habits   
 > 良好习惯的养成
@@ -6764,10 +7267,12 @@ formally  /'fɔːməli/ adv 正式地；形式上
 ---
 1. *高义频：* **[只用于名词前] 以前的；从前的；前任的：**  
 
+
 > He is my former colleague.   
 > 他是我以前的同事。
 
 2. *高义频：* **(两者中) 前面的：**  
+
 
 > in the former case   
 > 在前一种情况下
@@ -6805,6 +7310,7 @@ Most of us, if we know even a little about where our food comes from, understand
 ---
 1. *高义频：* **[C]准则；公式；配方：**  
 
+
 > the formula for calculating distance   
 > 计算距离的公式
 
@@ -6825,6 +7331,7 @@ Most of us, if we know even a little about where our food comes from, understand
 ---
 1. *高义频：* **向前；向外：**  
 
+
 > The house was still burning, pouring forth thick black smoke.  
 > 房子仍在燃烧，冒出浓浓的黑烟。
 
@@ -6839,6 +7346,7 @@ Most of us, if we know even a little about where our food comes from, understand
 1. **等等**  
 
 
+
 # ***fortnight*** n
 英音 'fɔːtnaɪt     美音 'fɔːrtnaɪt  
 
@@ -6847,6 +7355,7 @@ Most of us, if we know even a little about where our food comes from, understand
 英文释义
 ---
 1. *高义频：* **[C] [常用单数]十四天；两星期：**  
+
 
 > We had a big snow here a fortnight ago.  
 > 两周前我们这里下了一场大雪。
@@ -6868,6 +7377,7 @@ I hope to be back in a________ (两星期).
 ---
 1. *高义频：* **幸运的；吉利的 (lucky)：**  
 反义词 unfortunate / unlucky 
+
 - #### (be) fortunate to do sth:
 
 > **fortunate enough to**  
@@ -6900,6 +7410,7 @@ I hope to be back in a________ (两星期).
 ---
 1. *高义频：* **幸运地；幸亏 (luckily)：**  
 反义词 unfortunately / unluckily 
+
 > A fire broke out in the market yesterday, but fortunately no one was hurt.  
 > 市场里昨天着火了，但幸运的是，没有人受伤。
 
@@ -6917,6 +7428,7 @@ I hope to be back in a________ (两星期).
 1. *高义频：* **机遇；运气**  
 chance or luck, especially in the way it affects people's lives：
 
+
 > If you don't work hard, no fortune will come.  
 > 如果你不努力，机遇是不会来的。
 
@@ -6928,6 +7440,7 @@ chance or luck, especially in the way it affects people's lives：
 
 2. *低义频：* **时运；命运：**  
 
+
 > **tell sb's fortune**  
 > tell sb's fortune  
 > 给某人算命
@@ -6937,6 +7450,7 @@ chance or luck, especially in the way it affects people's lives：
 
 3. *高义频：* **(大量) 财产；大笔的钱：**  
 a large amount of money：
+
 
 > **make a fortune**  
 > make a fortune   
@@ -6963,6 +7477,7 @@ a large amount of money：
 1. **（因特网上的）论坛，讨论区**  
 
 
+
 # ***forward*** adj
 英音 'fɔːwəd     美音 'fɔːrwərd  
 
@@ -6972,6 +7487,7 @@ a large amount of money：
 ---
 1. *高义频：* **在 / 近前部的；向前的**  
 反义词 backward 
+
 > a forward seat   
 > 前排座位
 
@@ -6988,6 +7504,7 @@ a large amount of money：
 ---
 1. *高义频：* **向前 (forwards) 【反:backward(s) 】；将来；提前地：**  
 
+
 > He ran forward(s) to get his things.  
 > 他跑上前来取他的东西。
 
@@ -7001,6 +7518,7 @@ a large amount of money：
 ---
 1. *高义频：* **[C] (足球、篮球等的) 前锋；前卫**  
 反义词 back 
+
 > Ronaldo is undoubtedly considered to be one of the best forwards.  
 > 毫无疑问，罗纳尔多被公认为最出色的足球前锋之一。
 
@@ -7013,6 +7531,7 @@ a large amount of money：
 英文释义
 ---
 1. *高义频：* **邮寄；转寄 (send on)：**  
+
 
 > **forward,to**  
 > forward an e-mail to sb  
@@ -7032,6 +7551,7 @@ a large amount of money：
 ---
 1. *高义频：* **n [C] 化石；[非正式用语] 老顽固：**  
 
+
 > **fossil fuel**  
 > fossil fuel  
 > 矿物燃料(如煤、石油等)
@@ -7049,6 +7569,7 @@ a large amount of money：
 ---
 1. *高义频：* **培养；鼓励；促进 (encourage / promote)：**  
 
+
 > Training helps to foster team spirit.  
 > 培训有助于培养团队精神。
 
@@ -7056,6 +7577,7 @@ a large amount of money：
 > 严谨的辩论和提问促进智力的发展。
 
 2. *低义频：* **(在一定时间内) 养育；代养 (别人的孩子)**  
+
 
 
 # ***foster*** adj
@@ -7066,6 +7588,7 @@ a large amount of money：
 英文释义
 ---
 1. **收养的；收养孩子的**  
+
 
 > a foster father / mother / child  
 > 养父/养母/养子
@@ -7081,6 +7604,7 @@ a large amount of money：
 1. **（运动比赛中的）犯规动作**  
 
 
+
 # ***found*** vt
 英音 faʊnd     美音 faʊnd  
 
@@ -7089,6 +7613,7 @@ a large amount of money：
 英文释义
 ---
 1. *高义频：* **创办；创建 (establish)；建立：**  
+
 
 > **founding member / father**  
 > a founding member / father  
@@ -7125,21 +7650,25 @@ founder /'faʊndə(r)/ n
 ---
 1. *高义频：* **[U] 创建；创办 (establishment)：**  
 
+
 > the foundation of the first university   
 > 第一所大学的创办
 
 2. *高义频：* **基础；基本原则；根据：**  
 the idea, principle, or fact on which sth is based：
 
+
 > The foundation of every state is its education of its youth.  
 > 对青年人的教育是每个国家的根本。
 
 3. *高义频：* **[C] [常用复数] 地基；房基**  
 
+
 > How long will it take to finish digging the foundations?  
 > 挖好地基需要多久？
 
 4. *高义频：* **[C] 基金会：**  
+
 
 > His foundation provides money for schools.  
 > 他的基金会资助学校。
@@ -7156,6 +7685,7 @@ the idea, principle, or fact on which sth is based：
 英文释义
 ---
 1. *高义频：* **[C] 喷泉；源泉；来源：**  
+
 
 > The fountains of Rome are famous for their architectural beauty.  
 > 罗马的喷泉以其建筑之美而著称。
@@ -7174,6 +7704,7 @@ the idea, principle, or fact on which sth is based：
 ---
 1. *高义频：* **(使) 泉水般地喷出 / 涌出：**  
 
+
 > Red hot lava was fountaining hundreds of metres into the air.  
 > 滚烫的红色岩浆喷到空中，高达数百米。
 
@@ -7186,6 +7717,7 @@ the idea, principle, or fact on which sth is based：
 英文释义
 ---
 1. *高义频：* **[C] 狐狸；狡猾的人：**  
+
 
 > A fox may grow grey but never good.  
 > 狐狸可以变老，却永远不会变好。/江山易改，本性难移。
@@ -7200,10 +7732,12 @@ the idea, principle, or fact on which sth is based：
 ---
 1. *高义频：* **易碎的；易损坏的 (delicate)：**  
 
+
 > the fragile china / glass   
 > 易碎的瓷器/玻璃
 
 2. *低义频：* **脆弱的；虚弱的；体质弱的：**  
+
 
 > **fragile relationship / economy**  
 > the fragile relationship / economy  
@@ -7222,6 +7756,7 @@ the idea, principle, or fact on which sth is based：
 ---
 1. *高义频：* **香的；芬芳的：**  
 
+
 > fragrant flowers   
 > 香花
 
@@ -7234,6 +7769,7 @@ the idea, principle, or fact on which sth is based：
 英文释义
 ---
 1. *高义频：* **[C] 框架；结构：**  
+
 
 > a picture frame   
 > 画框
@@ -7251,6 +7787,7 @@ the idea, principle, or fact on which sth is based：
 ---
 1. *高义频：* **[C] 构架 (工程)；框架；结构：**  
 
+
 > **steel framework**  
 > This bridge over the river has a steel framework.  
 > 这座跨江大桥是钢结构的。
@@ -7266,6 +7803,7 @@ the idea, principle, or fact on which sth is based：
 1. *高义频：* **[C] 法郎**  
 
 
+
 # ***frankly*** adv
 英音 'fræŋkli     美音 'fræŋkli  
 
@@ -7274,6 +7812,7 @@ the idea, principle, or fact on which sth is based：
 英文释义
 ---
 1. *高义频：* **坦率地 (说)：**  
+
 
 > frankly speaking   
 > 坦率地说
@@ -7287,6 +7826,7 @@ the idea, principle, or fact on which sth is based：
 英文释义
 ---
 1. *高义频：* **自由的；无约束的；随心所欲的：**  
+
 
 - #### (be) free to do sth:
 
@@ -7302,6 +7842,7 @@ the idea, principle, or fact on which sth is based：
 
 2. *高义频：* **空闲的；(房屋等) 空余的：**  
 
+
 > Are you free this afternoon?   
 > 你今天下午有空吗？
 
@@ -7309,6 +7850,7 @@ the idea, principle, or fact on which sth is based：
 > 你们旅馆还有空房吗？
 
 3. *高义频：* **免费的；免税的：**  
+
 
 > Admission is free.   
 > 免费入场。
@@ -7332,11 +7874,13 @@ free常与名词构成合成词，意为“不含…的”、 “无…的”。
 - #### for free 
 1. **免费：**  
 
+
 > I worked for free for a non-profit organization.  
 > 我曾无偿为一个非营利性组织工作过。
 
 - #### free from
 1. **不受…影响的；没有…的：**  
+
 
 > (be) free from work / duty   
 > 不工作/不值班
@@ -7350,11 +7894,13 @@ free常与名词构成合成词，意为“不含…的”、 “无…的”。
 - #### free of 
 1. **无…的；摆脱了…的：**  
 
+
 > It was several weeks before he was completely free of pain.  
 > 过了几星期他的疼痛才完全消除。
 
 - #### set … free
 1. **使获得自由；释放：**  
+
 
 > The bird was set free.  
 > 鸟儿重新获得了自由。
@@ -7372,7 +7918,9 @@ free常与名词构成合成词，意为“不含…的”、 “无…的”。
 ---
 1. *高义频：* **自由地；无阻碍地**  
 
+
 2. *高义频：* **免费地；无偿地：**  
+
 
 > Children are admitted free.   
 > 儿童免费入场。
@@ -7386,6 +7934,7 @@ free常与名词构成合成词，意为“不含…的”、 “无…的”。
 英文释义
 ---
 1. *高义频：* **释放；使摆脱；解除：**  
+
 
 > **freed,from**  
 > She freed the bird from its cage.  
@@ -7420,6 +7969,7 @@ I felt my parents couldn't understand me so I hoped I could be freely from them.
 ---
 1. *高义频：* **[C] & [U] 自由；自主；自由权：**  
 
+
 > **freedom of speech**  
 > freedom of speech  
 > 言论自由
@@ -7437,10 +7987,12 @@ I felt my parents couldn't understand me so I hoped I could be freely from them.
 ---
 1. *高义频：* **自由地；无拘束地：**  
 
+
 > Don't let the children run freely on the road.  
 > 不要让孩子们在街上乱跑。
 
 2. *高义频：* **通畅地；无阻碍地：**  
+
 
 > **moving,freely**  
 > Traffic is now moving more freely following an earlier accident.  
@@ -7448,11 +8000,13 @@ I felt my parents couldn't understand me so I hoped I could be freely from them.
 
 3. *高义频：* **直率地；坦白地：**  
 
+
 > **freely admit**  
 > I freely admit what I said was wrong.  
 > 我坦率地承认自己说错了。
 
 4. *高义频：* **慷慨地：**  
+
 
 > She gave freely to charity.   
 > 她慷慨捐献善款。
@@ -7468,6 +8022,7 @@ I felt my parents couldn't understand me so I hoped I could be freely from them.
 1. *高义频：* **[C] 高速公路；高速干道**  
 
 
+
 # ***freeze*** v
 英音 friːz     美音 friːz  
 
@@ -7479,6 +8034,7 @@ I felt my parents couldn't understand me so I hoped I could be freely from them.
 ---
 1. *高义频：* **(使) 结冰：**  
 
+
 > **frozen over**  
 > The lake was frozen over.   
 > 湖面封冻。
@@ -7487,6 +8043,7 @@ I felt my parents couldn't understand me so I hoped I could be freely from them.
 > 淡水在摄氏零度结冰。
 
 2. *高义频：* **(人) 冻僵；(水管、机器等) 冻住：**  
+
 
 > **frozen to death**  
 > Two men were frozen to death on the mountain.  
@@ -7498,11 +8055,13 @@ I felt my parents couldn't understand me so I hoped I could be freely from them.
 
 3. *高义频：* **(天气) 冰冷：**  
 
+
 > **It,freeze**  
 > It may freeze tonight, so bring those plants inside.  
 > 今晚大概很冷，所以把植物都搬进来。
 
 4. *高义频：* **冷冻；冷藏：**  
+
 
 > Tomatoes don't freeze well.  
 > 番茄不宜冷冻。
@@ -7512,6 +8071,7 @@ I felt my parents couldn't understand me so I hoped I could be freely from them.
 
 5. *高义频：* **停住不动**  
 to stop moving suddenly：
+
 
 > Freeze, or I'll shoot!  
 > 不许动，否则我开枪了！
@@ -7543,6 +8103,7 @@ frozen /'frəʊzn/ adj
 1. **冰箱**  
 
 
+
 # ***freezing*** adj
 英音 'friːzɪŋ     美音 'friːzɪŋ  
 
@@ -7552,6 +8113,7 @@ frozen /'frəʊzn/ adj
 ---
 1. *高义频：* **极冷的；冰冻的**  
 extremely cold：
+
 
 > **freezing point**  
 > freezing point  
@@ -7567,6 +8129,7 @@ extremely cold：
 ---
 1. *高义频：* **[U] 冰点：**  
 
+
 > **above  /  below freezing**  
 > above  /  below freezing   
 > 在冰点以上/以下
@@ -7580,6 +8143,7 @@ extremely cold：
 英文释义
 ---
 1. *高义频：* **极冷地：**  
+
 
 > freezing cold   
 > 非常冷的
@@ -7595,6 +8159,7 @@ extremely cold：
 1. **频繁；发生率**  
 
 
+
 # ***frequent*** adj
 英音 'friːkwənt     美音 'friːkwənt  
 
@@ -7604,6 +8169,7 @@ extremely cold：
 ---
 1. *高义频：* **频繁的；经常的；常见的：**  
 反义词 infrequent 
+
 > **frequent caller,visitor**  
 > a frequent caller / visitor  
 > 常客
@@ -7628,6 +8194,7 @@ Drunk driving, which was once a ________ (经常的) occurrence, is now under co
 ---
 1. *高义频：* **频繁地；经常地 (often)：**  
 反义词 rarely 
+
 > Environmental problems are discussed quite frequently in the news.  
 > 新闻里经常讨论环境问题。
 
@@ -7644,6 +8211,7 @@ Drunk driving, which was once a ________ (经常的) occurrence, is now under co
 ---
 1. *高义频：* **新的；新鲜的；(颜色) 鲜艳的：**  
 
+
 > a fresh start  
 > 重新开始
 
@@ -7658,6 +8226,7 @@ Drunk driving, which was once a ________ (经常的) occurrence, is now under co
 
 2. *高义频：* **(空气、气候等) 清新的；凉爽的：**  
 
+
 > keep one's breath fresh  
 > 保持口气清新
 
@@ -7666,15 +8235,18 @@ Drunk driving, which was once a ________ (经常的) occurrence, is now under co
 
 3. *低义频：* **精力充沛的；精神饱满的：**  
 
+
 > Chris, you look fresh and full of energy!  
 > 克里斯，你看起来精神饱满，充满活力！
 
 4. *高义频：* **(水) 淡的：**  
 反义词 salty 
+
 > fresh water / freshwater  
 > 淡水
 
 5. *高义频：* **无经验的；不熟练的：**  
+
 
 > a teacher fresh from college   
 > 大学刚毕业的老师
@@ -7698,6 +8270,7 @@ freshness /freʃnəs/ n [U]
 1. **(especially NAmE) （中学）九年级学生；（大学）一年级新生**  
 
 
+
 # ***friction*** n
 英音 'frɪkʃn     美音 'frɪkʃn  
 
@@ -7707,7 +8280,9 @@ freshness /freʃnəs/ n [U]
 ---
 1. *低义频：* **[U] 摩擦；摩擦力**  
 
+
 2. *低义频：* **[C] & [U] 不和；冲突 (tension)：**  
+
 
 > **cause friction**  
 > You do wrong to cause friction between yourself and your daughter.  
@@ -7727,6 +8302,7 @@ freshness /freʃnəs/ n [U]
 1. *高义频：* **[C] 冰箱 (AmE refrigerator)**  
 
 
+
 # ***friend*** n
 英音 frend     美音 frend  
 
@@ -7735,6 +8311,7 @@ freshness /freʃnəs/ n [U]
 英文释义
 ---
 1. *高义频：* **[C] 朋友；伙伴：**  
+
 
 > All the splendor in the world is not worth a good friend.  
 > 人世间所有的荣华富贵不如有一个好朋友。
@@ -7745,11 +8322,14 @@ freshness /freʃnəs/ n [U]
 - #### be / make friends (with) 
 1. **(与…) 交朋友**  
 
+
 - #### keep friends with 
 1. **与…保持友好关系**  
 
+
 - #### make friends again 
 1. **言归于好；重修旧好**  
+
 
 
 # ***friendly*** adj
@@ -7761,6 +8341,7 @@ freshness /freʃnəs/ n [U]
 ---
 1. *高义频：* **友好的；友善的：**  
 反义词 unfriendly 
+
 > **friendly with**  
 > In school, I respected teachers and was friendly with classmates.  
 > 在学校，我尊敬老师，与同学友好。
@@ -7770,6 +8351,7 @@ freshness /freʃnəs/ n [U]
 > 我们对这个新来的人很友好。
 
 2. *高义频：* **(事物) 便利的；对...无害的：**  
+
 
 > user-friendly   
 > 方便用户的
@@ -7798,6 +8380,7 @@ Green products are becoming more and more popular because they are________ (环�
 ---
 1. *高义频：* **[C] & [U] 友谊；友爱；友情：**  
 
+
 > form a friendship   
 > 建立友谊
 
@@ -7821,6 +8404,7 @@ Green products are becoming more and more popular because they are________ (环�
 1. **恐惧；害怕**  
 
 
+
 # ***frighten*** v
 英音 'fraɪtn     美音 'fraɪtn  
 
@@ -7829,6 +8413,7 @@ Green products are becoming more and more popular because they are________ (环�
 英文释义
 ---
 1. *高义频：* **(使) 惊恐；(使) 惊吓 (scare)：**  
+
 
 > Don't shout or you'll frighten the baby.  
 > 别那么大声，会吓着孩子的。
@@ -7843,6 +8428,7 @@ Green products are becoming more and more popular because they are________ (环�
 - #### frighten away / off 
 1. **把…吓跑：**  
 
+
 > The dog frightened the thief away.   
 > 狗把小偷吓跑了。
 
@@ -7851,6 +8437,7 @@ Green products are becoming more and more popular because they are________ (环�
 
 - #### frighten sb to death / frighten the life out of sb
 1. **把某人吓得要命：**  
+
 
 > Spiders frighten her to death. / Spiders frighten the life out of her.  
 > 蜘蛛把她吓得要死。
@@ -7865,6 +8452,7 @@ frighten用法及意义同scare，但比scare稍正式。
 英文释义
 ---
 1. *高义频：* **受惊的；害怕的：**  
+
 
 - #### be frightened of (doing) sth:
 
@@ -7890,6 +8478,7 @@ frighten用法及意义同scare，但比scare稍正式。
 ---
 1. *高义频：* **令人害怕的；吓人的：**  
 
+
 > a frightening experience / thought  
 > 可怕的经历/念头
 
@@ -7907,6 +8496,7 @@ frighten用法及意义同scare，但比scare稍正式。
 1. *高义频：* **[C] 蛙；青蛙**  
 
 
+
 # ***from*** prep
 英音 frəm     美音 frəm  
 
@@ -7916,6 +8506,7 @@ frighten用法及意义同scare，但比scare稍正式。
 ---
 1. *高义频：* **[表示起点] 从；从...起：**  
 
+
 > fly from London to Paris   
 > 从伦敦飞到巴黎
 
@@ -7923,6 +8514,7 @@ frighten用法及意义同scare，但比scare稍正式。
 > 我们从星期一到星期五上班。
 
 2. *高义频：* **[表示来源] 自；从...中：**  
+
 
 > a quotation from the Bible   
 > 引自《圣经》的话
@@ -7932,15 +8524,18 @@ frighten用法及意义同scare，但比scare稍正式。
 
 3. *高义频：* **[表示原料] 由：**  
 
+
 > The paper is made from wood.   
 > 这纸是用木头造的。
 
 4. *高义频：* **[表示原因、动机] 由于；出于：**  
 
+
 > suffer from a cold   
 > 患感冒
 
 5. *高义频：* **[表示情况、状态的转变] 从：**  
+
 
 > translate from Chinese into Russian   
 > 把汉语译成俄语
@@ -7949,6 +8544,7 @@ frighten用法及意义同scare，但比scare稍正式。
 > 他从店员变成了总统。
 
 6. *高义频：* **[表示脱离、离开] 离：**  
+
 
 > take five from ten   
 > 10减去5
@@ -7973,6 +8569,7 @@ Shirley, a real book lover, often brings home many books to read ________ the li
 ---
 1. *高义频：* **[C] [通常与the连用] 前面；前部；正面：**  
 
+
 > The front of the postcard shows a picture of the Summer Palace.  
 > 明信片的正面是一幅颐和园的照片。
 
@@ -7981,15 +8578,18 @@ Shirley, a real book lover, often brings home many books to read ________ the li
 
 2. *高义频：* **[常用单数] 身体前部：**  
 
+
 > She was lying on her front.   
 > 她俯卧着。
 
 3. *低义频：* **[C] [常用单数] 前线；战线；阵线：**  
 
+
 > Go to the front, young friends!  
 > 年轻的朋友们，到前线去吧！
 
 4. *低义频：* **[C] (天气) 锋：**  
+
 
 > a cold / warm front   
 > 冷/暖锋
@@ -7999,6 +8599,7 @@ Shirley, a real book lover, often brings home many books to read ________ the li
 ---
 - #### in front (of)
 1. **在 (…) 前面；在 (…) 面前：**  
+
 
 > He drove straight into the car in front.  
 > 他一下子撞上了前面的车。
@@ -8011,6 +8612,7 @@ Shirley, a real book lover, often brings home many books to read ________ the li
 
 - #### in the front (of) 
 1. **在 (…内的) 前部：**  
+
 
 > The seat in the front is free.   
 > 前面的座位没人坐。
@@ -8029,6 +8631,7 @@ in front (of) 指在某物外的前面；in the front (of) 指在某物内的前
 ---
 1. *高义频：* **前面的；前部的；(位置) 在前的：**  
 
+
 > **front row**  
 > We had seats in the front row.   
 > 我们坐在前排。
@@ -8043,6 +8646,7 @@ in front (of) 指在某物外的前面；in the front (of) 指在某物内的前
 ---
 1. *低义频：* **[C] 国境；边境：**  
 
+
 > on / at the frontier  
 > 在边境
 
@@ -8051,6 +8655,7 @@ in front (of) 指在某物外的前面；in the front (of) 指在某物内的前
 > 边远地区
 
 2. *高义频：* **[C] [常用复数] 新领域：**  
+
 
 > the frontiers of physics   
 > 物理学的新领域
@@ -8064,6 +8669,7 @@ in front (of) 指在某物外的前面；in the front (of) 指在某物内的前
 英文释义
 ---
 1. *低义频：* **[U] 霜：**  
+
 
 > **heavy frost**  
 > The windows were covered with heavy frost.  
@@ -8080,6 +8686,7 @@ in front (of) 指在某物外的前面；in the front (of) 指在某物内的前
 1. *高义频：* **皱眉；蹙额**  
 
 
+
 # ***fruit*** n
 英音 fruːt     美音 fruːt  
 
@@ -8088,6 +8695,7 @@ in front (of) 指在某物外的前面；in the front (of) 指在某物内的前
 英文释义
 ---
 1. *高义频：* **水果；果实：**  
+
 
 > As the tree, so the fruit.   
 > 什么树结什么果。
@@ -8098,10 +8706,12 @@ fruits表示“各种水果”。
 
 2. *低义频：* **[C] [常用复数] (蔬菜、谷类等) 植物产物：**  
 
+
 > the fruits of the earth  
 > 大地的产物(如水果、蔬菜、矿物等)
 
 3. *低义频：* **[C] 成果；结果；产物：**  
+
 
 > enjoy the fruits of one's labours  
 > 享受劳动的成果
@@ -8116,6 +8726,7 @@ fruits表示“各种水果”。
 - #### bear fruit 
 1. **(树等) 结果；(计划等) 成功**  
 
+
 > A plan can bear no fruit without being actually carried out.  
 > 一项计划若不真正付诸实施，就会毫无结果。
 
@@ -8129,7 +8740,9 @@ fruits表示“各种水果”。
 ---
 1. **[U] 懊丧；懊恼；**  
 
+
 2. **[C] 令人懊丧 / 懊恼的事物**  
+
 
 
 # ***fry*** v
@@ -8140,6 +8753,7 @@ fruits表示“各种水果”。
 英文释义
 ---
 1. *高义频：* **油煎；油炒；油炸：**  
+
 
 > Chinese normally steam or fry their foods, not bake them.  
 > 中国人通常采用蒸或炒的方法，而不烘烤食物。
@@ -8156,6 +8770,7 @@ fruits表示“各种水果”。
 英文释义
 ---
 1. *高义频：* **[C] & [U] 燃料：**  
+
 
 > They use fuels which pollute the environment very badly.  
 > 它们使用严重污染环境的燃料。
@@ -8180,11 +8795,13 @@ Most air pollution is caused by the burning of ________ (燃料) like coal, gas 
 ---
 1. *低义频：* **vt & vi (给...) 加燃料：**  
 
+
 > fuel (up) a car   
 > 给车加油
 
 2. *低义频：* **vt增强；刺激**  
 to increase sth; to make sth stronger：
+
 
 > Research suggests warm colors fuel our appetites.   
 > 研究表明暖色会刺激我们的食欲。
@@ -8198,6 +8815,7 @@ to increase sth; to make sth stronger：
 英文释义
 ---
 1. *高义频：* **履行；实现；完成；满足：**  
+
 
 > **fulfill,promise**  
 > fulfill one's promise  
@@ -8222,6 +8840,7 @@ to increase sth; to make sth stronger：
 1. *高义频：* **令人满意的；令人愉快的**  
 
 
+
 # ***full*** adj
 英音 fʊl     美音 fʊl  
 
@@ -8231,6 +8850,7 @@ to increase sth; to make sth stronger：
 ---
 1. *高义频：* **满的；充满的：**  
 
+
 > Don't speak with your mouth full.  
 > 满嘴食物时别说话。
 
@@ -8239,11 +8859,13 @@ to increase sth; to make sth stronger：
 
 2. *高义频：* **[不用于名词前] 饱的：**  
 
+
 > **full,up**  
 > No more for me, thanks — I'm full ( up ).  
 > 谢谢，我不要了——我已经饱了。
 
 3. *高义频：* **[只用于名词前] 完全的；十足的：**  
+
 
 > **the full story**  
 > I still don't think we heard the full story.  
@@ -8254,10 +8876,12 @@ to increase sth; to make sth stronger：
 
 4. *高义频：* **[只用于名词前] 最高级的；最大量的：**  
 
+
 > He got a full mark in the English exam.  
 > 他英语考试得了满分。
 
 5. *高义频：* **忙碌的：**  
+
 
 > Her life was too full to find time for hobbies.  
 > 她生活太忙，抽不出时间做业余爱好的事。
@@ -8268,6 +8892,7 @@ to increase sth; to make sth stronger：
 - #### (be) full of 
 1. **充满…的；富于…的：**  
 
+
 > He was a man full of imagination.  
 > 他是个想象力丰富的人。
 
@@ -8277,8 +8902,10 @@ to increase sth; to make sth stronger：
 - #### in full 
 1. **全部地**  
 
+
 - #### to the full / fullest 
 1. **充分地；尽可能地：**  
+
 
 > I've always believed in living life to the full.  
 > 我一直相信要尽可能地充实自己的生活。
@@ -8297,6 +8924,7 @@ to increase sth; to make sth stronger：
 1. **足本的；全身的**  
 
 
+
 # ***fully*** adv
 英音 'fʊli     美音 'fʊli  
 
@@ -8306,6 +8934,7 @@ to increase sth; to make sth stronger：
 ---
 1. *高义频：* **完全地；充分地；彻底地 (completely)：**  
 
+
 > **fully understand**  
 > I fully understand why you are not comfortable about it.  
 > 我完全理解你为何对此事感到不舒服。
@@ -8314,6 +8943,7 @@ to increase sth; to make sth stronger：
 > 做好充分的准备我们就能取得好成绩。
 
 2. *低义频：* **足足；至少：**  
+
 
 > There were fully 200 people present at the ceremony.  
 > 足足有200人出席典礼。
@@ -8333,10 +8963,12 @@ to increase sth; to make sth stronger：
 ---
 1. *高义频：* **享乐；乐趣：**  
 
+
 > What fun it is to jump into the river for a swim in summer.  
 > 炎炎夏日，跳到河里游个泳是多么惬意啊！
 
 2. *高义频：* **有趣的人 / 事物；给人乐趣的行为 / 言语：**  
+
 
 > **great fun**  
 > Your friend is great fun.   
@@ -8352,6 +8984,7 @@ to increase sth; to make sth stronger：
 - #### for fun 
 1. **为了玩乐：**  
 
+
 > I'll do some reading for fun, and for knowledge as well.  
 > 我会读些书，为了消遣，也为了获取知识。
 
@@ -8361,17 +8994,20 @@ to increase sth; to make sth stronger：
 - #### in fun
 1. **闹着玩地：**  
 
+
 > I am not saying it in fun.   
 > 我讲这话不是开玩笑的。
 
 - #### have fun 
 1. **作乐；玩乐：**  
 
+
 > Have fun (= enjoy yourself)!  
 > 好好玩吧！
 
 - #### make fun of 
 1. **取笑；拿…开玩笑：**  
+
 
 > Don't feel sorry for the disabled or make fun of them, and don't ignore them either.  
 > 不要感到残疾人可怜，或者取笑他们，也别不理睬他们。
@@ -8393,6 +9029,7 @@ This is not a match. We're playing chess just ________ fun.
 ---
 1. *高义频：* **给人欢乐的；有趣的：**  
 
+
 > She's really fun to be with.  
 > 和她在一起真开心。
 
@@ -8408,6 +9045,7 @@ This is not a match. We're playing chess just ________ fun.
 英文释义
 ---
 1. *高义频：* **[C] & [U] (事物的) 功能 / 机能；(人的) 作用 / 职责：**  
+
 
 > The function of the heart is to pump blood through the body.  
 > 心脏的功能是把血液输往全身。
@@ -8425,6 +9063,7 @@ This is not a match. We're playing chess just ________ fun.
 英文释义
 ---
 1. *高义频：* **工作；运转；起作用：**  
+
 
 > **function properly**  
 > The machine does not function properly.  
@@ -8444,6 +9083,7 @@ This is not a match. We're playing chess just ________ fun.
 ---
 1. *高义频：* **[C] 基金；专款；[复数]资金：**  
 
+
 > a disaster fund   
 > 赈灾款
 
@@ -8456,6 +9096,7 @@ This is not a match. We're playing chess just ________ fun.
 > 为学校筹集资金的义卖活动正在进行。
 
 2. *低义频：* **[单数] 基金会：**  
+
 
 > Last month, the United Nation's Children's Fund started a program called "Change for Good".  
 > 上月，联合国儿童基金会启动了一个名为“零聚爱心”的项目。
@@ -8473,6 +9114,7 @@ This is not a match. We're playing chess just ________ fun.
 ---
 1. *高义频：* **为...提供资金；资助：**  
 
+
 > a government-funded programme   
 > 政府资助的项目
 
@@ -8485,6 +9127,7 @@ This is not a match. We're playing chess just ________ fun.
 英文释义
 ---
 1. *高义频：* **基础的；根本的；十分重大的：**  
+
 
 > Color is fundamental in home design.  
 > 色彩在家居设计中非常重要。
@@ -8507,6 +9150,7 @@ This is not a match. We're playing chess just ________ fun.
 ---
 1. *高义频：* **[C] [常用复数] 基本规律 / 原理；根本法则；基础：**  
 
+
 > the fundamentals of mathematics   
 > 数学基本原理
 
@@ -8519,6 +9163,7 @@ This is not a match. We're playing chess just ________ fun.
 英文释义
 ---
 1. *高义频：* **[C] 葬礼；丧礼：**  
+
 
 > **attend,funeral**  
 > attend a funeral  
@@ -8533,6 +9178,7 @@ This is not a match. We're playing chess just ________ fun.
 英文释义
 ---
 1. *高义频：* **滑稽的；好笑的；奇怪的：**  
+
 
 > **funny story**  
 > What a funny story it is!  
@@ -8553,6 +9199,7 @@ This is not a match. We're playing chess just ________ fun.
 1. *高义频：* **[U] (兽类的) 软毛；毛皮 (衣服)**  
 
 
+
 # ***furnish*** v
 英音 'fɜːnɪʃ     美音 'fɜːrnɪʃ  
 
@@ -8563,6 +9210,7 @@ This is not a match. We're playing chess just ________ fun.
 1. **为（房屋或房间）配备家具**  
 
 
+
 # ***furnished*** adj
 英音 'fɜːnɪʃt     美音 'fɜːrnɪʃt  
 
@@ -8571,6 +9219,7 @@ This is not a match. We're playing chess just ________ fun.
 英文释义
 ---
 1. *高义频：* **配备家具的；备有家具的 (房间)：**  
+
 
 > The apartment is well furnished.  
 > 那间公寓家具齐全。
@@ -8584,6 +9233,7 @@ This is not a match. We're playing chess just ________ fun.
 英文释义
 ---
 1. *高义频：* **[U] (总称) 家具：**  
+
 
 > Bill's room did not have much furniture.  
 > 比尔的房间里没有多少家具。
@@ -8612,6 +9262,7 @@ The only piece of f________ he has in his room is a bed.
 ---
 1. *高义频：* **(距离、时间、程度上) 更远的；进一步的：**  
 
+
 > at the further end of the room   
 > 在屋子的那一头
 
@@ -8638,6 +9289,7 @@ The only piece of f________ he has in his room is a bed.
 ---
 1. *高义频：* **(距离、时间、程度上) 更远地；进一步地：**  
 
+
 > He refused to discuss things further.  
 > 他拒绝进一步讨论。
 
@@ -8660,6 +9312,7 @@ The only piece of f________ he has in his room is a bed.
 ---
 1. *高义频：* **而且；此外 (moreover)：**  
 
+
 > The house isn't big enough for us, and furthermore, it's too far from the town.  
 > 这所房子对我们来说不够大，另外，它离市区也太远。
 
@@ -8674,6 +9327,7 @@ The only piece of f________ he has in his room is a bed.
 英文释义
 ---
 1. *高义频：* **(距离、时间上) 最远地；最大程度地：**  
+
 
 > **furthest from**  
 > Which of these cities is the furthest from us?  
@@ -8696,6 +9350,7 @@ The only piece of f________ he has in his room is a bed.
 1. **合并；合成**  
 
 
+
 # ***future*** n
 英音 'fjuːtʃə(r)     美音 'fjuːtʃər  
 
@@ -8704,6 +9359,7 @@ The only piece of f________ he has in his room is a bed.
 英文释义
 ---
 1. *高义频：* **[U] [与the连用] 将来；未来：**  
+
 
 > Don't think too much about past troubles — look to the future.  
 > 别多想过去的烦恼，向前看。
@@ -8717,6 +9373,7 @@ The only piece of f________ he has in his room is a bed.
 > 我们要为将来做打算。
 
 2. *高义频：* **[C] 前途；前景：**  
+
 
 > His future looked bright.  
 > 他的前途看起来一片光明。
@@ -8732,12 +9389,14 @@ The only piece of f________ he has in his room is a bed.
 1. **今后：**  
 from now on：
 
+
 > If you can just help me out this time, I promise I'll be more careful in future.  
 > 只要这次你能帮我，我保证以后会更加小心。
 
 - #### in the (near) future 
 1. **在 (不久的) 将来**  
 soon：
+
 
 > No one can tell what will happen in the future.  
 > 没人能说准将来会发生什么事。
@@ -8751,11 +9410,13 @@ soon：
 - #### have a / no future 
 1. **有 / 没有前途；有 / 没有未来：**  
 
+
 > Our world has a future only if people learn to conserve nature and not waste energy.  
 > 人们只有学会保护自然和节约能源，我们的世界才会有未来。
 
 - #### there is a / no future in sth 
 1. **某事有 / 没有前途：**  
+
 
 > He felt there was no future in farming.  
 > 他觉得务农没有前途。
@@ -8771,6 +9432,7 @@ soon：
 1. *高义频：* **将来的；未来的；[语法] 将来 (时) 的**  
 
 
+
 # ***futurologist*** n
 英音 ˌfjuːtʃə'rɒlədʒɪst     美音 ˌfjuːtʃə'rɑːlədʒɪst  
 
@@ -8781,6 +9443,7 @@ soon：
 1. **未来学家**  
 
 
+
 # ***futurology*** n
 英音 ˌfjuːtʃə'rɒlədʒi     美音 ˌfjuːtʃə'rɑːlədʒi  
 
@@ -8789,5 +9452,6 @@ soon：
 英文释义
 ---
 1. **未来学**  
+
 
 

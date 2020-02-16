@@ -9,6 +9,7 @@
 ---
 1. *高义频：* **空的；空缺的：**  
 
+
 > apply for a vacant position   
 > 申请一个空缺的职务
 
@@ -27,6 +28,7 @@
 ---
 1. *高义频：* **假期；休假 (BrE holiday)：**  
 
+
 > **summer / Christmas vacation**  
 > the summer / Christmas vacation  
 > 暑假/圣诞假期
@@ -37,11 +39,13 @@
 - #### have / take a vacation 
 1. **休假：**  
 
+
 > The first thing I’m going to do is to take a long vacation!   
 > 我要做的第一件事是休一个长假。
 
 - #### on vacation 
 1. **在度假：**  
+
 
 > Some people write postcards while they are on vacation and send them to friends.   
 > 一些人在度假的时候写明信片并寄给朋友。
@@ -59,6 +63,7 @@
 1. *高义频：* **接种疫苗**  
 
 
+
 # ***vacuum*** n
 英音 'vækjuəm     美音 'vækjuəm  
 
@@ -69,6 +74,7 @@
 1. **真空；空白**  
 
 
+
 # ***vague*** adj
 英音 veɪɡ     美音 veɪɡ  
 
@@ -77,6 +83,7 @@
 英文释义
 ---
 1. *高义频：* **含糊的；不明确的：**  
+
 
 > **vague idea**  
 > a vague idea / answer   
@@ -97,10 +104,12 @@
 1. *高义频：* **徒劳的；自负的：**  
 
 
+
 固定搭配
 ---
 - #### in vain 
 1. **徒劳；白辛苦：**  
+
 
 > I have tried very hard to find a solution to the problem, but in vain.   
 > 我曾苦苦地探求解决问题的办法，但都是徒劳。
@@ -122,6 +131,7 @@ His efforts to raise money for his program were________vain because no one showe
 ---
 1. *高义频：* **有效的；正当的：**  
 
+
 > a valid passport   
 > 有效的护照
 
@@ -141,6 +151,7 @@ His efforts to raise money for his program were________vain because no one showe
 1. *高义频：* **山谷；溪谷；流域**  
 
 
+
 # ***valuable*** adj
 英音 'væljuəbl     美音 'væljuəbl  
 
@@ -151,11 +162,13 @@ His efforts to raise money for his program were________vain because no one showe
 1. *高义频：* **值钱的；贵重的**  
 worth a lot of money：
 
+
 > Her grandfather left her a valuable ring.   
 > 她的祖父留给她一枚贵重的戒指。
 
 2. *高义频：* **宝贵的；有价值的**  
 very useful or important：
+
 
 > Although skills and talents bring great success, the most valuable thing one can hold is the heart.  
 > 尽管技能和天赋会带来极大的成功，但一个人所拥有的最宝贵的东西是心灵。
@@ -178,6 +191,7 @@ invaluable /ɪn'væljuəbl/ adj
 1. *高义频：* **[C] & [U] (金钱方面的) 价值；价格**  
 the amount of money that sth is worth：
 
+
 > **value of**  
 > As a big-time bargain hunter, I know the value of a dollar.   
 > 作为一位顶级的淘便宜货的人，我知道1美元的价值。
@@ -188,6 +202,7 @@ the amount of money that sth is worth：
 
 2. *高义频：* **[C] & [U] 等值；划算程度**  
 how much sth is worth compared with its price：
+
 
 > **good / bad value**  
 > be good / bad value (= worth / not worth the money it costs)  
@@ -200,12 +215,14 @@ how much sth is worth compared with its price：
 3. *高义频：* **[U] 重要性；用处；益处**  
 the importance of sth (benefit)：
 
+
 > **value of**  
 > Most people know the value of a good education.   
 > 大多数人都知道良好教育的重要性。
 
 4. *高义频：* **[用复数] 价值观念；社会准则**  
 mor a l or professional standards of behaviour; principles：
+
 
 > During the Renaissance, new ideas and values gradually replaced those held in the Middle Ages.  
 > 文艺复兴时期，新思想和新观念逐渐取代了中世纪的思想和观念。
@@ -215,6 +232,7 @@ mor a l or professional standards of behaviour; principles：
 ---
 - #### of value 
 1. **有价值的；有用的 (valuable)：**  
+
 
 > **of great value**  
 > Sports can be of great value, especially to people who work with their brains most of the day.   
@@ -232,6 +250,7 @@ mor a l or professional standards of behaviour; principles：
 ---
 1. *高义频：* **评价；估价：**  
 
+
 > **value,as**  
 > How do you value him as a writer?  
 > 他作为作家，你如何评价他？
@@ -241,6 +260,7 @@ mor a l or professional standards of behaviour; principles：
 > 他给这幅画估价2000美元。
 
 2. *高义频：* **重视；珍惜：**  
+
 
 > We should value what we have and try our best to overcome any difficulty in life.  
 > 我们应该珍惜我们所拥有的，并尽最大努力克服生活中的困难。
@@ -256,6 +276,7 @@ mor a l or professional standards of behaviour; principles：
 1. **有价值的**  
 
 
+
 # ***vanguard*** n
 英音 'vænɡɑːd     美音 'vænɡɑːrd  
 
@@ -266,6 +287,7 @@ mor a l or professional standards of behaviour; principles：
 1. **先头部队**  
 
 
+
 # ***vanish*** vi
 英音 'vænɪʃ     美音 'vænɪʃ  
 
@@ -274,6 +296,7 @@ mor a l or professional standards of behaviour; principles：
 英文释义
 ---
 1. *高义频：* **突然不见；消失；(突然) 不存在；灭绝：**  
+
 
 > The cat stepped forward, and vanished.   
 > 那只猫向前走了几步，不见了。
@@ -295,6 +318,7 @@ mor a l or professional standards of behaviour; principles：
 1. *高义频：* **(=vapor) 蒸气；水蒸气**  
 
 
+
 # ***variation*** n
 英音 ˌveəri'eɪʃn     美音 ˌveri'eɪʃn  
 
@@ -305,6 +329,7 @@ mor a l or professional standards of behaviour; principles：
 英文释义
 ---
 1. *高义频：* **变化；差别：**  
+
 
 > the seasonal variation   
 > 季节性变化
@@ -324,6 +349,7 @@ mor a l or professional standards of behaviour; principles：
 1. **多变化的**  
 
 
+
 # ***variety*** n
 英音 və'raɪəti     美音 və'raɪəti  
 
@@ -332,6 +358,7 @@ mor a l or professional standards of behaviour; principles：
 英文释义
 ---
 1. *高义频：* **多样性；变化：**  
+
 
 > **wide variety**  
 > Chinese food is famous for its wide variety.  
@@ -342,6 +369,7 @@ mor a l or professional standards of behaviour; principles：
 
 2. *高义频：* **(同类物品的) 种类：**  
 
+
 > a new variety of rose  
 > 玫瑰的新品种
 
@@ -350,6 +378,7 @@ mor a l or professional standards of behaviour; principles：
 ---
 - #### a variety of
 1. **种种；各种各样的：**  
+
 
 > **a wide variety of**  
 > The club offers a wide variety of games to the local teenagers.  
@@ -371,6 +400,7 @@ More and more people choose to shop in a supermarket as it offers ________ (丰�
 英文释义
 ---
 1. *高义频：* **不同的；各种各样的(diverse / different)：**  
+
 
 > various kinds of theme parks  
 > 各种各样的主题公园
@@ -395,6 +425,7 @@ variously /'veəriəsli/ adv
 ---
 1. *高义频：* **vi (大小、形状等) 相异；不同 (differ)：**  
 
+
 > **vary considerably / greatly / widely**  
 > vary considerably / greatly / widely  
 > 大不相同
@@ -404,6 +435,7 @@ variously /'veəriəsli/ adv
 > 测验成绩各校不同。
 
 2. *高义频：* **vi & vt 变化；改变：**  
+
 
 > **varies from,to**  
 > The weather here varies from hour to hour.  
@@ -429,6 +461,7 @@ varied /'veərid/ adj
 1. *高义频：* **花瓶；(装饰用的) 瓶**  
 
 
+
 # ***vast*** adj
 英音 vɑːst     美音 væst  
 
@@ -437,6 +470,7 @@ varied /'veərid/ adj
 英文释义
 ---
 1. *高义频：* **辽阔的；巨大的(huge)：**  
+
 
 > vast grasslands  
 > 广袤无垠的大草原
@@ -455,6 +489,7 @@ varied /'veərid/ adj
 1. **跳马（体操项目）；腾跳**  
 
 
+
 # ***vegetable*** n
 英音 'vedʒtəbl     美音 'vedʒtəbl  
 
@@ -465,6 +500,7 @@ varied /'veərid/ adj
 英文释义
 ---
 1. *高义频：* **蔬菜；植物**  
+
 
 
 真题解析
@@ -484,6 +520,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 1. **(全是) 蔬菜的没有肉类的**  
 
 
+
 # ***vehicle*** n
 英音 'viːəkl     美音 'viːəkl  
 
@@ -494,6 +531,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 英文释义
 ---
 1. *高义频：* **运载工具；车辆：**  
+
 
 > Cars and trucks are vehicles.  
 > 小汽车和大卡车都是运载工具。
@@ -511,6 +549,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 1. *高义频：* **静脉**  
 
 
+
 # ***vengeful*** adj
 英音 'vendʒfl     美音 'vendʒfl  
 
@@ -521,6 +560,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 1. **复仇的，报复心切的**  
 
 
+
 # ***venture*** vt
 英音 'ventʃə(r)     美音 'ventʃər  
 
@@ -529,6 +569,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 英文释义
 ---
 1. *高义频：* **冒...的危险：**  
+
 
 > **Nothing ventured,nothing gained**  
 > Nothing ventured, nothing gained.  
@@ -545,6 +586,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 英文释义
 ---
 1. *高义频：* **冒险行动；(有风险的) 企业；风险投资：**  
+
 
 > be ready for any venture  
 > 准备冒任何风险
@@ -564,6 +606,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 1. **会场，举办地点**  
 
 
+
 # ***verbal*** adj
 英音 'vɜːbl     美音 'vɜːbl  
 
@@ -572,6 +615,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 英文释义
 ---
 1. *高义频：* **口头的**  
+
 
 
 # ***version*** n
@@ -585,12 +629,14 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 ---
 1. *高义频：* **版本：**  
 
+
 > **electronic version**  
 > This dictionary is available in an electronic version.  
 > 这本词典有电子版。
 
 2. *高义频：* **(从特定立场对事物的) 说明；意见；描述**  
 sb’s description of sth that has happened：
+
 
 > **versions of**  
 > The two newspapers gave different versions of what happened.  
@@ -605,6 +651,7 @@ sb’s description of sth that has happened：
 英文释义
 ---
 1. *高义频：* **垂直的；直立的：**  
+
 
 > a nearly vertical fall  
 > 接近垂直的下落
@@ -623,6 +670,7 @@ sb’s description of sth that has happened：
 ---
 1. *高义频：* **正是的；恰好的 (actual)：**  
 
+
 > **at this very moment**  
 > He might be phoning her at this very moment.  
 > 他这会儿也许正在给她打电话呢。
@@ -632,6 +680,7 @@ sb’s description of sth that has happened：
 > 那正是我需要的东西。
 
 2. *低义频：* **仅仅的；唯独的：**  
+
 
 > **very thought of**  
 > The very thought of speaking before many people frightens me.  
@@ -647,6 +696,7 @@ sb’s description of sth that has happened：
 ---
 1. *高义频：* **很；非常：**  
 
+
 > very hot / useful  
 > 非常热/有用
 
@@ -654,6 +704,7 @@ sb’s description of sth that has happened：
 > 很快
 
 2. *高义频：* **完全；真正地：**  
+
 
 > the very best quality  
 > 近乎完美的品质
@@ -663,6 +714,7 @@ sb’s description of sth that has happened：
 ---
 - #### not very
 1. **不很；根本不：**  
+
 
 > **not very**  
 > It is not very warm today.  
@@ -685,6 +737,7 @@ sb’s description of sth that has happened：
 1. *高义频：* **汗衫；马甲**  
 
 
+
 # ***vet*** n
 英音 vet     美音 vet  
 
@@ -697,6 +750,7 @@ sb’s description of sth that has happened：
 1. *高义频：* **兽医**  
 
 
+
 # ***via*** prep
 英音 'vaɪə     美音 'vaɪə  
 
@@ -705,6 +759,7 @@ sb’s description of sth that has happened：
 英文释义
 ---
 1. *高义频：* **经由 (某个地方)；通过 (某种手段或某人)：**  
+
 
 > fly to Chicago via New York  
 > 经纽约飞往芝加哥
@@ -723,6 +778,7 @@ sb’s description of sth that has happened：
 1. **震颤，震动**  
 
 
+
 # ***vice*** n
 英音 vaɪs     美音 vaɪs  
 
@@ -734,6 +790,7 @@ sb’s description of sth that has happened：
 ---
 1. *高义频：* **恶行；缺点**  
 反义词 virtue 
+
 前缀vice-意为“副的”。
 > **vice-president**  
 > a vice-president (VP)   
@@ -751,6 +808,7 @@ sb’s description of sth that has happened：
 ---
 1. *高义频：* **牺牲者；受害者：**  
 
+
 > **victim of**  
 > She was the victim of a road accident.  
 > 她是一场交通事故的受害者。
@@ -760,6 +818,7 @@ sb’s description of sth that has happened：
 ---
 - #### fall victim to / become a victim to
 1. **成为…的牺牲品**  
+
 
 
 # ***victory*** n
@@ -772,6 +831,7 @@ sb’s description of sth that has happened：
 英文释义
 ---
 1. *高义频：* **胜利：**  
+
 
 > **win,victory over**  
 > achieve / gain / win a victory over the enemy  
@@ -790,6 +850,7 @@ sb’s description of sth that has happened：
 1. *高义频：* **录像 (带)；视频**  
 
 
+
 # ***video*** adj
 英音 'vɪdiəʊ     美音 'vɪdioʊ  
 
@@ -800,6 +861,7 @@ sb’s description of sth that has happened：
 英文释义
 ---
 1. *高义频：* **电视的；录影的：**  
+
 
 > a video camera / game  
 > 摄像机/电子游戏
@@ -813,6 +875,7 @@ sb’s description of sth that has happened：
 英文释义
 ---
 1. **给…录像；录制 (tape)：**  
+
 
 > A friend videoed the wedding.   
 > 一位朋友把婚礼录了下来。
@@ -830,6 +893,7 @@ sb’s description of sth that has happened：
 1. *高义频：* **电视电话；可视电话**  
 
 
+
 # ***view*** vt  重难点词汇
 英音 vjuː     美音 vjuː  
 
@@ -839,11 +903,13 @@ sb’s description of sth that has happened：
 ---
 1. *高义频：* **[正式用语] 看；观赏；观看：**  
 
+
 > **viewed from**  
 > These mountains are a splendid sight when viewed from the valley floor.  
 > 从谷底看上去，群山壮丽。
 
 2. *高义频：* **看待(see)：**  
+
 
 > **view,as**  
 > We view film as a type of contemporary art.  
@@ -864,6 +930,7 @@ viewer /'vjuːə(r)/ n [C]
 1. *高义频：* **视野；视线**  
 the ability to see sth or to be seen from a particular place：
 
+
 > **in view**  
 > There was usually nobody in view except some sheep in the grassland.  
 > 在草原上常常看不到一个人，只能看到一些羊。
@@ -879,6 +946,7 @@ the ability to see sth or to be seen from a particular place：
 2. *高义频：* **风景；景色**  
 what you can see from a particular place：
 
+
 > While climbing the mountain, we enjoyed the warm sunshine and a beautiful view.  
 > 爬山时，我们沐浴着温暖的阳光，欣赏着美丽的风景。
 
@@ -890,6 +958,7 @@ what you can see from a particular place：
 四者都有“风景”之意。
 3. *高义频：* **观点；看法：**  
 a personal opinion about sth; an attitude towards sth (opinion)：
+
 
 > Each person may believe that he is correct and that the other person’s view is wrong.  
 > 每个人都可能会认为自己是对的，而对方的观点是错的。
@@ -908,6 +977,7 @@ a personal opinion about sth; an attitude towards sth (opinion)：
 
 4. *高义频：* **理解或思维的方法；方式：**  
 
+
 > world view  
 > 世界观
 
@@ -921,11 +991,13 @@ a personal opinion about sth; an attitude towards sth (opinion)：
 - #### in view of
 1. **鉴于；考虑到：**  
 
+
 > In view of the weather, the event will be held indoors.  
 > 由于天气的缘故，这项比赛将在室内进行。
 
 - #### on view
 1. **在展出；展览着：**  
+
 
 > The painting is currently on view at the gallery.  
 > 那幅画目前在美术馆展出。
@@ -941,6 +1013,7 @@ a personal opinion about sth; an attitude towards sth (opinion)：
 1. **电视观众；观看者**  
 
 
+
 # ***village*** n
 英音 'vɪlɪdʒ     美音 'vɪlɪdʒ  
 
@@ -951,6 +1024,7 @@ a personal opinion about sth; an attitude towards sth (opinion)：
 英文释义
 ---
 1. *高义频：* **村庄；[常与the连用] 村民**  
+
 
 
 # ***villager*** n
@@ -965,6 +1039,7 @@ a personal opinion about sth; an attitude towards sth (opinion)：
 1. *高义频：* **村民；乡下人**  
 
 
+
 # ***vinegar*** n
 英音 'vɪnɪɡə(r)     美音 'vɪnɪɡər  
 
@@ -977,6 +1052,7 @@ a personal opinion about sth; an attitude towards sth (opinion)：
 1. *高义频：* **醋**  
 
 
+
 # ***violate*** vt
 英音 'vaɪəleɪt     美音 'vaɪəleɪt  
 
@@ -985,6 +1061,7 @@ a personal opinion about sth; an attitude towards sth (opinion)：
 英文释义
 ---
 1. *高义频：* **违反 (约定、法律等)；扰乱 (平静、安宁等)：**  
+
 
 > violate the law  
 > 犯法
@@ -1004,6 +1081,7 @@ a personal opinion about sth; an attitude towards sth (opinion)：
 ---
 1. *高义频：* **暴力；暴行：**  
 
+
 > **domestic violence**  
 > domestic violence  
 > 家庭暴力
@@ -1018,10 +1096,12 @@ a personal opinion about sth; an attitude towards sth (opinion)：
 ---
 1. *高义频：* **粗暴的；暴力引起的：**  
 
+
 > violent behavior  
 > 暴力行为
 
 2. *高义频：* **强烈的；猛烈的：**  
+
 
 > violent winds  
 > 猛烈的大风
@@ -1041,6 +1121,7 @@ violently /'vaɪələntli/ adv
 1. **紫罗兰**  
 
 
+
 # ***violin*** n
 英音 ˌvaɪə'lɪn     美音 ˌvaɪə'lɪn  
 
@@ -1051,6 +1132,7 @@ violently /'vaɪələntli/ adv
 英文释义
 ---
 1. *高义频：* **小提琴：**  
+
 
 > play the violin  
 > 拉小提琴
@@ -1068,6 +1150,7 @@ violently /'vaɪələntli/ adv
 1. *高义频：* **小提琴手**  
 
 
+
 # ***virtual*** adj
 英音 'vɜːtʃuəl     美音 'vɜːrtʃuəl  
 
@@ -1077,10 +1160,12 @@ violently /'vaɪələntli/ adv
 ---
 1. *低义频：* **几乎的：**  
 
+
 > Finding a cheap place to rent is a virtual impossibility in this area.  
 > 在这个地区几乎租不到便宜的房子。
 
 2. *高义频：* **虚拟的：**  
+
 
 > the virtual worlds  
 > 虚拟世界
@@ -1101,10 +1186,12 @@ virtually /'vɜːtʃuəli/ adv
 ---
 1. *高义频：* **美德；德行：**  
 反义词 vice 
+
 > In modern society, punctuality is a necessary virtue.  
 > 在现代社会，守时是必不可少的美德。
 
 2. *低义频：* **优点；长处(advantage)：**  
+
 
 > One of his virtues is that he never gets angry.  
 > 他的一个优点是从不生气。
@@ -1120,6 +1207,7 @@ virtually /'vɜːtʃuəli/ adv
 英文释义
 ---
 1. *高义频：* **病毒：**  
+
 
 > There are many different viruses, for example, the flu virus or the SARS virus.  
 > 病毒种类繁多，如流感病毒和SARS病毒。
@@ -1140,6 +1228,7 @@ virtually /'vɜːtʃuəli/ adv
 1. *高义频：* **(护照等的) 签证**  
 
 
+
 # ***visible*** adj
 英音 'vɪzəbl     美音 'vɪzəbl  
 
@@ -1148,6 +1237,7 @@ virtually /'vɜːtʃuəli/ adv
 英文释义
 ---
 1. *高义频：* **看得见的 反【invisible】；明显的：**  
+
 
 > The fish are visible below the surface of the lake.  
 > 鱼在湖面下清晰可见。
@@ -1166,6 +1256,7 @@ virtually /'vɜːtʃuəli/ adv
 ---
 1. *高义频：* **视力；视觉：**  
 
+
 > **good / poor vision**  
 > have good / poor vision  
 > 视力好/差
@@ -1173,11 +1264,13 @@ virtually /'vɜːtʃuəli/ adv
 2. *高义频：* **想象；幻象**  
 a picture in your imagination：
 
+
 > **vision of**  
 > give her a vision of her future  
 > 带给她对未来的憧憬
 
 3. *高义频：* **远见：**  
+
 
 > a man of great vision  
 > 具有远见卓识的人
@@ -1194,6 +1287,7 @@ a picture in your imagination：
 ---
 1. *高义频：* **访问；探望；游览；逗留：**  
 
+
 > a short-term visit to the UK  
 > 到英国的短期旅行
 
@@ -1202,6 +1296,7 @@ a picture in your imagination：
 ---
 - #### pay a visit to
 1. **参观；访问；拜访：**  
+
 
 > If you have time, pay a visit to the local museum.  
 > 你若有空，参观一下当地的这家博物馆。
@@ -1216,6 +1311,7 @@ a picture in your imagination：
 ---
 1. *高义频：* **拜访；看望；参观：**  
 
+
 > visit the Great Wall  
 > 游览长城
 
@@ -1229,6 +1325,7 @@ a picture in your imagination：
 > 首相现在正在法国访问。
 
 2. *高义频：* **访问 (网站)：**  
+
 
 > To find out more information, visit this website.  
 > 预知详情，请访问这个网站。
@@ -1246,6 +1343,7 @@ a picture in your imagination：
 1. *高义频：* **访问者；参观者；游客**  
 
 
+
 # ***visual*** adj
 英音 'vɪʒuəl     美音 'vɪʒuəl  
 
@@ -1254,6 +1352,7 @@ a picture in your imagination：
 英文释义
 ---
 1. *高义频：* **视觉的；视力的**  
+
 
 > visual pollution / effects  
 > 视觉污染/效果
@@ -1272,6 +1371,7 @@ a picture in your imagination：
 1. **外表上；视觉地**  
 
 
+
 # ***vital*** adj
 英音 'vaɪtl     美音 'vaɪtl  
 
@@ -1281,6 +1381,7 @@ a picture in your imagination：
 ---
 1. *高义频：* **至关重要的**  
 very important or necessary (essential)：
+
 
 > What’s worse, some drivers do not think it vital to obey traffi c rules.  
 > 更糟糕的是，一些司机不认为遵守交通规则是极为重要的。
@@ -1317,6 +1418,7 @@ Interest is as vital to________ (learn) as the ability to understand, even more 
 1. *高义频：* **维生素**  
 
 
+
 # ***vivid*** adj
 英音 'vɪvɪd     美音 'vɪvɪd  
 
@@ -1326,11 +1428,13 @@ Interest is as vital to________ (learn) as the ability to understand, even more 
 ---
 1. *低义频：* **(色彩) 鲜艳的；鲜明的：**  
 
+
 > She is wearing a vivid red coat.  
 > 她穿着一件鲜红色的外套。
 
 2. *高义频：* **(表现、描述等) 逼真的；(想象力) 丰富的：**  
 反义词 vague 
+
 > a vivid description  
 > 生动的描述
 
@@ -1359,6 +1463,7 @@ D.vivid
 1. **生动地**  
 
 
+
 # ***vocabulary*** n
 英音 və'kæbjələri     美音 və'kæbjəleri  
 
@@ -1368,6 +1473,7 @@ D.vivid
 ---
 1. *高义频：* **词汇 (量)**  
 
+
 > **have,wide,vocabulary**  
 > have a large / wide / small vocabulary  
 > 词汇量大/丰富/小
@@ -1376,6 +1482,7 @@ D.vivid
 > 众所周知，词汇是语言的重要组成部分，就像砖块对于楼房一样。
 
 2. *高义频：* **词汇表**  
+
 
 
 # ***vocal*** adj
@@ -1388,6 +1495,7 @@ D.vivid
 1. **嗓音的，与嗓音有关的**  
 
 
+
 # ***voice*** vt
 英音 vɔɪs     美音 vɔɪs  
 
@@ -1396,6 +1504,7 @@ D.vivid
 英文释义
 ---
 1. *高义频：* **表达：**  
+
 
 > I am writing to you to voice my opinions.  
 > 此刻我正给你写信来表达我的看法。
@@ -1409,6 +1518,7 @@ D.vivid
 英文释义
 ---
 1. *高义频：* **说话声；嗓音：**  
+
 
 > **in a low / loud voice**  
 > in a low / loud voice  
@@ -1426,6 +1536,7 @@ D.vivid
 2. *高义频：* **意见；心声**  
 a particular feeling, attitude or opinion that you have or express：
 
+
 > **make,voice heard**  
 > This programme gives ordinary viewers a chance to make their voice heard (= express their opinion sothat people notice it).  
 > 这个节目给了普通观众一个表达心声的机会。
@@ -1435,6 +1546,7 @@ a particular feeling, attitude or opinion that you have or express：
 > 在讨论的前期，玛丽很沉默，但最后她还是表达了对这个话题的看法。
 
 3. *低义频：* **语态：**  
+
 
 > **active / passive voice**  
 > the active / passive voice  
@@ -1462,6 +1574,7 @@ D.Voices
 1. *高义频：* **火山的**  
 
 
+
 # ***volcano*** n
 英音 vɒl'keɪnəʊ     美音 vɑːl'keɪnoʊ  
 
@@ -1472,6 +1585,7 @@ D.Voices
 英文释义
 ---
 1. *高义频：* **火山**  
+
 
 
 派生词汇
@@ -1490,6 +1604,7 @@ volcanic /vɒl'kænɪk/ adj
 1. *高义频：* **火山学家**  
 
 
+
 # ***volcanology*** n
 英音 ˌvɒlkə'nɒlədʒi     美音 ˌvɑːlkə'nɑːlədʒi  
 
@@ -1498,6 +1613,7 @@ volcanic /vɒl'kænɪk/ adj
 英文释义
 ---
 1. *高义频：* **火山学**  
+
 
 
 # ***volleyball*** n
@@ -1510,6 +1626,7 @@ volcanic /vɒl'kænɪk/ adj
 英文释义
 ---
 1. *高义频：* **排球 (运动)：**  
+
 
 > play volleyball  
 > 打排球
@@ -1524,10 +1641,12 @@ volcanic /vɒl'kænɪk/ adj
 ---
 1. *高义频：* **卷；册：**  
 
+
 > a novel in three volumes  
 > 一部三卷本的小说
 
 2. *高义频：* **体积；容积；(生产、交通等的) 量：**  
+
 
 > **volume of**  
 > the volume of a container  
@@ -1538,6 +1657,7 @@ volcanic /vɒl'kænɪk/ adj
 > 近年来公路运输量急剧增加。
 
 3. *高义频：* **音量；声量：**  
+
 
 > the volume control  
 > 音量控制
@@ -1556,6 +1676,7 @@ volcanic /vɒl'kænɪk/ adj
 ---
 1. *高义频：* **志愿的；自愿的：**  
 
+
 > All contributions are voluntary.  
 > 所有捐赠都是自愿的。
 
@@ -1571,6 +1692,7 @@ volcanic /vɒl'kænɪk/ adj
 英文释义
 ---
 1. *高义频：* **自愿 (做某事)；自愿提供：**  
+
 
 - #### volunteer to do sth:
 
@@ -1595,6 +1717,7 @@ volcanic /vɒl'kænɪk/ adj
 ---
 1. *高义频：* **志愿者：**  
 
+
 > Volunteers don’t expect any kind of pay.  
 > 志愿者不期待任何报酬。
 
@@ -1609,6 +1732,7 @@ volcanic /vɒl'kænɪk/ adj
 1. **志愿的；义务的**  
 
 
+
 # ***vote*** v
 英音 vəʊt     美音 voʊt  
 
@@ -1617,6 +1741,7 @@ volcanic /vɒl'kænɪk/ adj
 英文释义
 ---
 1. *高义频：* **投票；表决：**  
+
 
 > Black people could not vote or choose their leaders.  
 > 黑人不能参加选举，也不能选择自己的领导人。
@@ -1627,6 +1752,7 @@ volcanic /vɒl'kænɪk/ adj
 
 2. *高义频：* **投票评选**  
 to choose sb for a particular position or prize：
+
 
 > Six of Zindel’s books have been voted the Best Books for Young Adults.  
 > 金代尔有6本书已被选为“最佳青少年读物”。
@@ -1645,11 +1771,13 @@ voter /'vəʊtə(r)/ n [C]
 ---
 1. *高义频：* **选举；投票：**  
 
+
 > **have take a vote on**  
 > have / take a vote ( on )  
 > (就…)进行投票表决
 
 2. *高义频：* **选举权；投票权：**  
+
 
 > New Zealand was the first country in the world to give the vote to women in 1893.  
 > 1893年新西兰成为世界上第一个赋予妇女选举权的国家。
@@ -1667,6 +1795,7 @@ voter /'vəʊtə(r)/ n [C]
 1. *高义频：* **元音；元音字母**  
 
 
+
 # ***voyage*** n
 英音 'vɔɪɪdʒ     美音 'vɔɪɪdʒ  
 
@@ -1678,6 +1807,7 @@ voter /'vəʊtə(r)/ n [C]
 ---
 1. *高义频：* **航海；航行：**  
 
+
 > **make,voyage**  
 > go on / make / take a voyage  
 > 航海旅行
@@ -1686,6 +1816,7 @@ voter /'vəʊtə(r)/ n [C]
 > 1405至1433年间，郑和完成了7次著名的航海壮举。
 
 2. *高义频：* **发现之旅：**  
+
 
 > start an exciting voyage into an unknown world  
 > 开始令人激动的对未知世界的探索之旅
@@ -1701,5 +1832,6 @@ voter /'vəʊtə(r)/ n [C]
 英文释义
 ---
 1. *高义频：* **易受伤的；脆弱的**  
+
 
 
