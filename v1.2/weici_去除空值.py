@@ -131,7 +131,8 @@ def chuli(t):
     print(file=f)
     
     #word_level
-    print('| 词频 ' + str(a['lv_frequency'])+' | 口语 ' + str(a['lv_speak']) + ' | 书面 ' + str(a['lv_write']) + ' | 阅读 ' + str(a['lv_read']) + ' |'  ,end='  ', file = f)
+    print(file=f)
+    print(' 词频 ' + str(a['lv_frequency'])+' | 口语 ' + str(a['lv_speak']) + ' | 书面 ' + str(a['lv_write']) + ' | 阅读 ' + str(a['lv_read'])  ,end='  ', file = f)
     print(file=f)
     
     #word_use_method
@@ -209,7 +210,7 @@ print('请稍后Processing。。。')
 #Save
 if ch=='1': #按小写字母输出到文件
     i=1
-    while i<=26:  
+    while i<=1:  
         f = open('%s' % path_save+'\weici_'+chr(ord('A')+i-1)+'.md','w',encoding='utf-8')
         cursor = c.execute("select * from fb_word_detail order by word asc")
         print('%s' % path_save+'\weici_'+chr(ord('A')+i-1)+'.md')
