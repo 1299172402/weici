@@ -134,6 +134,7 @@ def chuli(t):
     print(file=f)
     print(' 词频 ' + str(a['lv_frequency'])+' | 口语 ' + str(a['lv_speak']) + ' | 书面 ' + str(a['lv_write']) + ' | 阅读 ' + str(a['lv_read'])  ,end='  ', file = f)
     print(file=f)
+    print(file=f)
     
     #word_use_method
     if a['use_method']!='' : print('用法点拨  '+ a['use_method'],file=f)
