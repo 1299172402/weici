@@ -157,6 +157,7 @@ def chuli(t):
     print(file=f)
     #print('英音 ' + a['en_phonetic_symbols'] + '       美音 ' + a['usa_phonetic_symbols'], file = f )
     print('词频 ' + str(a['lv_frequency'])+' | 口语 ' + str(a['lv_speak']) + ' | 书面 ' + str(a['lv_write']) + ' | 阅读 ' + str(a['lv_read'])  ,end='  ', file = f)
+    print(file=f)
     #note
     #if a['point']==1 :print('重难点词汇',file=f)
     #if a['not_use']==0 : print('高考从未出现',file=f)
@@ -235,7 +236,7 @@ print('请稍后Processing。。。')
 i=1
 #f = open('C:/Users/Administrator/Desktop/victory/weici_A.md','w',encoding='utf-8')
 
-while i<=26:
+while i<=2:  ###debug
     f = open('%s' % path_save+'\weici_'+chr(ord('A')+i-1)+'.md','w',encoding='utf-8')
     print('%s' % path_save+'\weici_'+chr(ord('A')+i-1)+'.md')
     cursor = c.execute("select * from fb_word_detail order by word asc")
