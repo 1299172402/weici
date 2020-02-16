@@ -18,9 +18,11 @@ def gy_paraphrase(t): #12568
             b=b[:-1]
         print('**' + b + '**  ',file=f)
     if t['english']!='':print(t['english'],file=f)
+    
     if t['antonym']!='':print('反义词 ' + t['antonym']+' ',end='',file=f)
-    if t['synonyms']!='':print('近义词 ' + t['synonyms']+'  ',end='',file=f)
+    if t['synonyms']!='':print('近义词 ' + t['synonyms']+'  ',file=f)
     print(file=f)
+    
     if t['gy_sentential_form']!=[]:
         for exam in t['gy_sentential_form']:
             gy_sentential_form(exam) 
