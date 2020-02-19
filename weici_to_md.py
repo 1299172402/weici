@@ -15,11 +15,10 @@ def gy_paraphrase(t): #12568
         while b[-1]==' ':
             b=b[:-1]
         print('**' + b + '**  ',file=f)
-    if t['english']!='':print(t['english'],file=f)
+    if t['english']!='':print('英译 '+t['english'],file=f)
     
-    if t['antonym']!='':print('反义词 ' + t['antonym']+' ',end='',file=f)
-    if t['synonyms']!='':print('近义词 ' + t['synonyms']+'  ',end='',file=f)
-    print(file=f)
+    if t['antonym']!='':print('反义词 ' + t['antonym']+' ',file=f)
+    if t['synonyms']!='':print('近义词 ' + t['synonyms']+'  ',file=f)
     print(file=f)
     
     if t['gy_sentential_form']!=[]:
@@ -39,7 +38,7 @@ def gy_paraphrase(t): #12568
             gy_fixed_collocation(exam)             
     
 def gy_sentential_form(t): #15924
-    print('- #### '+t['sentential_form'],file=f)
+    print('- '+t['sentential_form'],file=f)
     print(file=f)
     if t['gy_example']!=[]:
         for example in t['gy_example']:
@@ -64,7 +63,7 @@ def gy_example(t): #18417
     print(file=f)
     
 def gy_notes(t): #16597
-    print(t['notes'],file=f)
+    print('Notes: ' + t['notes']+'  ',file=f)
     if t['gy_example']!=[]:
         for example in t['gy_example']:
             gy_example(example)
@@ -80,7 +79,7 @@ def gy_biscrimination(t): #16597
             gy_example(example)
     
 def gy_fixed_collocation(t): #26462
-    print('- #### '+t['fixed_word'],file=f)
+    print('- '+t['fixed_word'],file=f)
     if t['gy_paraphrase']!=[]:
         i=1
         for exam in t['gy_paraphrase']:
@@ -89,7 +88,8 @@ def gy_fixed_collocation(t): #26462
             i=i+1
     
 def gy_derivative(t): #10112
-    print(t['derivative_word']+' '+t['phonogram']+' ' +t['part_of_speech']+' ' +t['use_method'],file=f)
+    print(t['derivative_word']+' '+t['phonogram']+' ' +t['part_of_speech']+' ' +t['use_method']+'  ',file=f)
+    #print(file=f) #debug
     if t['gy_example']!=[]:
         for example in t['gy_example']:
             gy_example(example)
@@ -147,7 +147,7 @@ def chuli(t):
         print('---',file=f)
         i=1
         for exam in a['gy_paraphrase']:
-            print(str(i) + '. ',end='',file=f)
+            print(str(i) + '.',end='',file=f)
             gy_paraphrase(exam)    
             i=i+1
         print(file=f)

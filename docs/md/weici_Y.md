@@ -9,8 +9,7 @@
 
 英文释义
 ---
-1. *高义频：* **牦牛**  
-
+1.*高义频：* **牦牛**  
 
 
 # ***yard*** n
@@ -22,8 +21,7 @@
 
 英文释义
 ---
-1. *高义频：* **院子；庭院：**  
-
+1.*高义频：* **院子；庭院：**  
 
      > a farm yard   
      > 农家院
@@ -34,8 +32,7 @@
      > We cleaned up the yard and painted the house.   
      > 我们打扫了院子，粉刷了房子。
 
-2. *高义频：* **[长度单位，=0.914米] 码**  
-
+2.*高义频：* **[长度单位，=0.914米] 码**  
 
 
 # ***yawn*** n
@@ -47,8 +44,7 @@
 
 英文释义
 ---
-1. *高义频：* **哈欠：**  
-
+1.*高义频：* **哈欠：**  
 
      > He gave a yawn and then fell asleep.  
      > 他打了个哈欠，然后就睡着了。
@@ -61,8 +57,7 @@
 
 英文释义
 ---
-1. *高义频：* **打哈欠：**  
-
+1.*高义频：* **打哈欠：**  
 
      > His speech made the audience yawn.   
      > 他的演讲令听众直打哈欠。
@@ -75,8 +70,7 @@
 
 英文释义
 ---
-1. *高义频：* **[口语] 是；对 (yes)**  
-
+1.*高义频：* **[口语] 是；对 (yes)**  
 
 
 # ***year*** n
@@ -88,20 +82,16 @@
 
 英文释义
 ---
-1. *高义频：* **(日历) 年**  
+1.*高义频：* **(日历) 年**  
 
-
-2. *低义频：* **年度；学年：**  
-
+2.*低义频：* **年度；学年：**  
 
      > I am in my first year at high school.   
      > 我是高中一年级学生。
 
-3. *高义频：* **...岁**  
+3.*高义频：* **...岁**  
 
-
-4. *高义频：* **[非正式用语] 很长时间：**  
-
+4.*高义频：* **[非正式用语] 很长时间：**  
 
      > I haven’t played the piano for years.   
      > 我很久没弹钢琴了。
@@ -109,23 +99,20 @@
 
 固定搭配
 ---
-- #### all (the) year round 
+- all (the) year round 
 1. **一年到头：**  
-
 
      > The Antarctic is covered with snow and ice all year round.   
      > 南极地区终年被冰雪覆盖。
 
-- #### year after year 
+- year after year 
 1. **年复一年：**  
-
 
      > Year after year he had to work hard to get out of debt.   
      > 年复一年，为了还债他不得不拼命工作。
 
-- #### year by year 
+- year by year 
 1. **年年；逐年：**  
-
 
      > Year by year my father became weaker.   
      > 我父亲的身体一年比一年差。
@@ -138,8 +125,7 @@
 
 英文释义
 ---
-1. *高义频：* **每年的；一年一度的：**  
-
+1.*高义频：* **每年的；一年一度的：**  
 
      > Mr Davis takes a yearly trip to Europe.   
      > 戴维斯先生每年去欧洲旅行一次。
@@ -152,8 +138,7 @@
 
 英文释义
 ---
-1. *高义频：* **每年；一年一次地：**  
-
+1.*高义频：* **每年；一年一次地：**  
 
      > Interest is paid yearly.   
      > 利息每年支付一次。
@@ -166,10 +151,9 @@
 
 英文释义
 ---
-1. *高义频：* **vi & vt 叫喊；大声喊 (说)：**  
+1.*高义频：* **vi & vt 叫喊；大声喊 (说)：**  
 
-
-- #### yell (sth) at sb to do sth:
+- yell (sth) at sb to do sth:
 
      > He yelled at her to be careful.   
      > 他大声叫她小心。
@@ -186,8 +170,7 @@
 
 英文释义
 ---
-1. **叫喊，大喊，吼叫**  
-
+1.**叫喊，大喊，吼叫**  
 
 
 # ***yellow*** n
@@ -199,8 +182,7 @@
 
 英文释义
 ---
-1. *高义频：* **黄色**  
-
+1.*高义频：* **黄色**  
 
 
 # ***yellow*** adj
@@ -210,8 +192,7 @@
 
 英文释义
 ---
-1. *高义频：* **黄色的；发黄的**  
-
+1.*高义频：* **黄色的；发黄的**  
 
 
 # ***yes*** n
@@ -223,8 +204,7 @@
 
 英文释义
 ---
-1. *高义频：* **是：**  
-
+1.*高义频：* **是：**  
 
      > Answer with a yes or a no.   
      > 回答是或不是。
@@ -237,8 +217,7 @@
 
 英文释义
 ---
-1. *高义频：* **[对肯定的问句的回答] 是；是的：**  
-
+1.*高义频：* **[对肯定的问句的回答] 是；是的：**  
 
      > — Will you come?   
      > 你要来吗?
@@ -246,8 +225,7 @@
      > — Yes, I will.   
      > 对，我要来。
 
-2. *高义频：* **[对否定的问句的回答] 不：**  
-
+2.*高义频：* **[对否定的问句的回答] 不：**  
 
      > — You weren’t invited, were you?   
      > 没有邀请您，是吗？
@@ -255,8 +233,7 @@
      > — Yes, I was.   
      > 不，邀请了。
 
-3. *高义频：* **[同意对方的话或对自己的话加以肯定] 对；是的：**  
-
+3.*高义频：* **[同意对方的话或对自己的话加以肯定] 对；是的：**  
 
      > Your work is good, yes, very good.   
      > 你的工作干得很好，对，干得很好。
@@ -271,8 +248,7 @@
 
 英文释义
 ---
-1. *高义频：* **昨天：**  
-
+1.*高义频：* **昨天：**  
 
      > He arrived yesterday.   
      > 他昨天到达。
@@ -287,8 +263,7 @@
 
 英文释义
 ---
-1. *高义频：* **昨天：**  
-
+1.*高义频：* **昨天：**  
 
      > **the day before yesterday**  
      > the day before yesterday  
@@ -308,8 +283,7 @@
 
 英文释义
 ---
-1. *高义频：* **[与but相比，比较的意味较强，常与and连用] 然而；可是：**  
-
+1.*高义频：* **[与but相比，比较的意味较强，常与and连用] 然而；可是：**  
 
      > The story is simple yet interesting.   
      > 这个故事简单但很有趣。
@@ -336,33 +310,29 @@ D.thus
 
 英文释义
 ---
-1. *高义频：* **[用于否定句中，常置于句末以及not后] 还；尚 (没)：**  
-
+1.*高义频：* **[用于否定句中，常置于句末以及not后] 还；尚 (没)：**  
 
      > We haven’t finished the work yet.   
      > 我们还没有完成这项工作。
 
-在肯定句中用still或already。
+Notes: 在肯定句中用still或already。  
      > She is still young.   
      > 她还年轻。
 
      > He has already come back. 他已经回来了 。  
      > 
 
-2. *高义频：* **[用于表示肯定的疑问句] 已经：**  
-
+2.*高义频：* **[用于表示肯定的疑问句] 已经：**  
 
      > Have you seen the film yet?   
      > 你看过那部电影了吗？
 
-3. *低义频：* **[与if, whether从句连用] 已经：**  
-
+3.*低义频：* **[与if, whether从句连用] 已经：**  
 
      > I doubt if she has written the paper yet.   
      > 我怀疑她是否已经写了论文。
 
-4. *低义频：* **[用于肯定句中等于still，但有较强的感情色彩] 甚至；更：**  
-
+4.*低义频：* **[用于肯定句中等于still，但有较强的感情色彩] 甚至；更：**  
 
      > I have yet more exciting news to tell you.   
      > 我还有更令人激动的消息告诉你。
@@ -370,9 +340,8 @@ D.thus
 
 固定搭配
 ---
-- #### not yet
+- not yet
 1. **还没：**  
-
 
      > — Are you ready?   
      > 准备好了吗？
@@ -396,8 +365,7 @@ D.thus
 
 英文释义
 ---
-1. **产量**  
-
+1.**产量**  
 
 
 # ***yoga*** n
@@ -407,8 +375,7 @@ D.thus
 
 英文释义
 ---
-1. **瑜伽术**  
-
+1.**瑜伽术**  
 
 
 # ***yoghurt*** n
@@ -420,8 +387,7 @@ D.thus
 
 英文释义
 ---
-1. *高义频：* **酸乳；酸奶**  
-
+1.*高义频：* **酸乳；酸奶**  
 
 
 # ***you*** pron
@@ -431,11 +397,9 @@ D.thus
 
 英文释义
 ---
-1. *高义频：* **你；你们**  
+1.*高义频：* **你；你们**  
 
-
-2. *高义频：* **人；任何人：**  
-
+2.*高义频：* **人；任何人：**  
 
      > You have to be careful with people you don’t know.  
      > 对不认识的人要小心。
@@ -448,14 +412,12 @@ D.thus
 
 英文释义
 ---
-1. *高义频：* **[集合名词，常与the连用] 年轻人；青年：**  
-
+1.*高义频：* **[集合名词，常与the连用] 年轻人；青年：**  
 
      > Microbloging is popular with the young.   
      > 年轻人很喜欢发微博。
 
-2. *高义频：* **幼小动物；崽**  
-
+2.*高义频：* **幼小动物；崽**  
 
 
 # ***young*** adj
@@ -465,7 +427,7 @@ D.thus
 
 英文释义
 ---
-1. *高义频：* **年轻的；年幼的：**  
+1.*高义频：* **年轻的；年幼的：**  
 反义词 old 
 
      > a young mother   
@@ -474,14 +436,12 @@ D.thus
      > Young babies sleep a great deal.   
      > 幼儿睡的时间长。
 
-2. *高义频：* **新兴的；新的：**  
-
+2.*高义频：* **新兴的；新的：**  
 
      > a young company   
      > 新兴的企业
 
-3. *高义频：* **年轻有活力的；青春的：**  
-
+3.*高义频：* **年轻有活力的；青春的：**  
 
      > She looks young for her age.   
      > 她看起来比实际年龄小。
@@ -494,8 +454,7 @@ D.thus
 
 英文释义
 ---
-1. **年轻人**  
-
+1.**年轻人**  
 
 
 # ***your*** pron
@@ -505,8 +464,7 @@ D.thus
 
 英文释义
 ---
-1. *高义频：* **[形容词性物主代词，只作定语] 你的；你们的**  
-
+1.*高义频：* **[形容词性物主代词，只作定语] 你的；你们的**  
 
 
 # ***yours*** pron
@@ -516,8 +474,7 @@ D.thus
 
 英文释义
 ---
-1. *高义频：* **[名词性物主代词，可作主语、宾语、表语] 你的；你们的：**  
-
+1.*高义频：* **[名词性物主代词，可作主语、宾语、表语] 你的；你们的：**  
 
      > My hands are clean, but yours are dirty.  
      > 我的手干净，但你的(手)很脏。
@@ -528,8 +485,7 @@ D.thus
      > That book is yours.   
      > 那本书是你的。
 
-2. *高义频：* **[在信末署名前与truly, faithfully, sincerely等连用] 敬上**  
-
+2.*高义频：* **[在信末署名前与truly, faithfully, sincerely等连用] 敬上**  
 
 
 # ***yourself*** pron
@@ -541,8 +497,7 @@ D.thus
 
 英文释义
 ---
-1. *高义频：* **你自己；你亲自：**  
-
+1.*高义频：* **你自己；你亲自：**  
 
      > Self-image is your own mind’s picture of yourself.    
      > 自我形象是你内心对自己的评价。
@@ -567,20 +522,17 @@ Treat ________ (you) to a glass of wine to help you relax at the end of the day.
 
 英文释义
 ---
-1. *高义频：* **[U] 青少年时代：**  
-
+1.*高义频：* **[U] 青少年时代：**  
 
      > He worked with wood during his early youth. 年轻时，他做过木匠。   
      > 
 
-2. *高义频：* **[U] 青春；朝气：**  
-
+2.*高义频：* **[U] 青春；朝气：**  
 
      > Her face still kept its youth.   
      > 她的面容青春尤驻。
 
-3. *高义频：* **[集合名词，常与the连用] 年轻人；青年：**  
-
+3.*高义频：* **[集合名词，常与the连用] 年轻人；青年：**  
 
      > **The youth of today**  
      > The youth of today has / have greater opportunities than ever before.   
@@ -594,7 +546,6 @@ Treat ________ (you) to a glass of wine to help you relax at the end of the day.
 
 英文释义
 ---
-1. *高义频：* **美味的；可口的；赏心悦目的**  
-
+1.*高义频：* **美味的；可口的；赏心悦目的**  
 
 
