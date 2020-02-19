@@ -1,7 +1,5 @@
 #!/usr/bin/python
 
-#所有单词输出，去空值
-
 import json
 import sqlite3
 import os
@@ -18,9 +16,12 @@ def gy_paraphrase(t): #12568
             b=b[:-1]
         print('**' + b + '**  ',file=f)
     if t['english']!='':print(t['english'],file=f)
+    
     if t['antonym']!='':print('反义词 ' + t['antonym']+' ',end='',file=f)
     if t['synonyms']!='':print('近义词 ' + t['synonyms']+'  ',end='',file=f)
     print(file=f)
+    print(file=f)
+    
     if t['gy_sentential_form']!=[]:
         for exam in t['gy_sentential_form']:
             gy_sentential_form(exam) 
@@ -131,12 +132,14 @@ def chuli(t):
     print(file=f)
     
     #word_level
-    print('词频 ' + str(a['lv_frequency'])+' | 口语 ' + str(a['lv_speak']) + ' | 书面 ' + str(a['lv_write']) + ' | 阅读 ' + str(a['lv_read'])  ,end='  ', file = f)
+    print(file=f)
+    print(' 词频 ' + str(a['lv_frequency'])+' | 口语 ' + str(a['lv_speak']) + ' | 书面 ' + str(a['lv_write']) + ' | 阅读 ' + str(a['lv_read'])+'  ', file = f)
     print(file=f)
     
     #word_use_method
-    if a['use_method']!='' : print('用法点拨  '+ a['use_method'],file=f)
-    print(file=f)
+    if a['use_method']!='' : 
+        print('用法点拨  '+ a['use_method'],file=f)
+        print(file=f)
     
     #paraphrase
     if a['gy_paraphrase']!=[]:
@@ -189,18 +192,61 @@ c = conn.cursor()
 #保存位置
 path_save = input('请输入保存位置：\n')
 if path_save=='':path_save = r'C:\Users\Administrator\Desktop\victory'
-print('注意：文件将存到%s' % path_save + '\weici_all_10112.md')
+print('注意：文件将存到%s' % path_save)
 if not os.path.exists(path_save):
     os.makedirs(path_save)
     
+print()
+print('输出类型：')
+print('1.所有单词按小写字母输出到文件')
+print('2.所有单词输出')
+print('3.所有词组输出')
+print('4.所有词输出')
+print()
+ch = input('请输入数字：')
+if ch=='':ch='1234'
+
 #Processing
+print()
 print('请稍后Processing。。。')
 
-if 1==1:
+#Save
+if ch.find('1')!=-1: #按小写字母输出到文件
+    i=1
+    while i<=26:  
+        f = open('%s' % path_save+'\weici_'+chr(ord('A')+i-1)+'.md','w',encoding='utf-8')
+        cursor = c.execute("select * from fb_word_detail order by word asc")
+        print('%s' % path_save+'\weici_'+chr(ord('A')+i-1)+'.md')
+        print('# '+chr(ord('A')+i-1)+chr(ord('a')+i-1),file=f)
+        print(file=f)
+        for row in cursor:
+            if row[6]==0 and row[1][0]==chr(ord('a')+i-1) and row[1].find(' ')==-1:chuli(row[3])
+        i=i+1      
+        
+if ch.find('2')!=-1: #所有单词输出
     f = open('%s' % path_save + '\weici_word_7570.md','w',encoding='utf-8')
     cursor = c.execute("select * from fb_word_detail order by word asc")
     for row in cursor:
-        if row[6]==0 and row[1].find(' ')==-1:chuli(row[3]) #仅输出单词
+        if row[6]==0 and row[1].find(' ')==-1:chuli(row[3])
+    print('%s' % path_save + '\weici_word_7570.md')
+        
+if ch.find('3')!=-1: #所有词组输出
+    f = open('%s' % path_save + '\weici_phrase_2542.md','w',encoding='utf-8')
+    cursor = c.execute("select * from fb_word_detail order by word asc")
+    for row in cursor:
+        if row[6]==0 and row[1].find(' ')!=-1:chuli(row[3])
+    print('%s' % path_save + '\weici_phrase_2542.md')
+        
+if ch.find('4')!=-1: #所有词输出
+    f = open('%s' % path_save + '\weici_all_10112.md','w',encoding='utf-8')
+    cursor = c.execute("select * from fb_word_detail order by word asc")
+    for row in cursor:
+        if row[6]==0 : chuli(row[3])
+    print('%s' % path_save + '\weici_all_10112.md')
+        
+if ch.find('1')==-1 and ch.find('2')==-1 and ch.find('3')==-1 and ch.find('4')==-1:
+    print('输入错误，请重试')
 
+#Finish
 print()
-input('工作已完成！按Enter退出')
+input('按Enter以退出')

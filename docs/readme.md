@@ -6,43 +6,6 @@
 
 > Jellow ***看见我请一定一定叫我学习*** 
 
-
-html 版
----
-* [Aa](html/weici_A.html)  
-* [Bb](html/weici_B.html)  
-* [Cc](html/weici_C.html)  
-* [Dd](html/weici_D.html)  
-* [Ee](html/weici_E.html)  
-* [Ff](html/weici_F.html)  
-* [Gg](html/weici_G.html)  
-* [Hh](html/weici_H.html)  
-* [Ii](html/weici_I.html)  
-* [Jj](html/weici_J.html)  
-* [Ki](html/weici_K.html)  
-* [Ll](html/weici_L.html)  
-* [Mm](html/weici_M.html)  
-* [Nn](html/weici_N.html)  
-* [Oo](html/weici_O.html)  
-* [Pp](html/weici_P.html)  
-* [Qq](html/weici_Q.html)  
-* [Rr](html/weici_R.html)  
-* [Ss](html/weici_S.html)  
-* [Tt](html/weici_T.html)  
-* [Uu](html/weici_U.html)  
-* [Vv](html/weici_V.html)  
-* [Ww](html/weici_W.html)  
-* [Xx](html/weici_X.html)  
-* [Yy](html/weici_Y.html)  
-* [Zz](html/weici_Z.html)  
-
----
-
-* [词组](html/weici_phrase_2542.html)  
-* [所有词(暂未更新)  ](html/weici_all_10112.html)  
-
-md 版
----
 * [Aa](md/weici_A.md)  
 * [Bb](md/weici_B.md)  
 * [Cc](md/weici_C.md)  
@@ -69,9 +32,4 @@ md 版
 * [Xx](md/weici_X.md)  
 * [Yy](md/weici_Y.md)  
 * [Zz](md/weici_Z.md)  
-  
----
-  
-* [单词](md/weici_word_7570.md)  
 * [词组](md/weici_phrase_2542.md)  
-* [所有词](md/weici_all_10112.md)  
