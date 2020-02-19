@@ -57,9 +57,9 @@ def gy_example(t): #18417
             b=b[1:]
         while b[-1]==' ':
             b=b[:-1]
-        print('     > **'+b+'**  ',file=f)
-    print('     > '+t['english']+'  ',file=f)
-    print('     > '+t['chinese'],file=f)
+        print(' > **'+b+'**  ',file=f)
+    print(' > '+t['english']+'  ',file=f)
+    print(' > '+t['chinese'],file=f)
     print(file=f)
     
 def gy_notes(t): #16597
