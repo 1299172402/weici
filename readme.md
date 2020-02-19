@@ -1,6 +1,6 @@
 这里是高中英语维克多词汇电子版
 
-txt导出版 https://www.lanzous.com/i9hja4j
+txt导出版 https://www.lanzous.com/i9hjn0d
 
 weici_ext.db https://www.lanzous.com/i9hjewb
 
