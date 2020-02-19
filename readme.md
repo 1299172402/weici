@@ -1,15 +1,7 @@
-这里是高中英语维克多词汇的表
+这里是高中英语维克多词汇电子版
 
-json格式储存全书
+txt导出版 https://www.lanzous.com/i9hja4j
 
-weici.py 编写的源程序
+weici_ext.db https://www.lanzous.com/i9hjewb
 
-~~weici_ext.db 下载地址 https://www.lanzous.com/i9apzsh~~
-
-DB 历史下载地址 https://www.lanzous.com/b098x4zoj  密码:bgid
-
-编写后的exe 下载地址 https://www.lanzous.com/i9aqlab
-
-本人导出后的维克多txt https://www.lanzous.com/i9aq43c
-
-
+网页版 https://1299172402.github.io/weici/
