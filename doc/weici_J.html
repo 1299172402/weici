@@ -1,0 +1,509 @@
+<!doctype html>
+<html>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+<title>weici_J</title><link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
+iframe { margin: auto; }
+a.url { word-break: break-all; }
+a:active, a:hover { outline: 0px; }
+.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 40px; }
+#write.first-line-indent p { text-indent: 2em; }
+#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
+#write.first-line-indent li { margin-left: 2em; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
+@media screen and (max-width: 500px) {
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  #write { padding-left: 20px; padding-right: 20px; }
+  .CodeMirror-sizer { margin-left: 0px !important; }
+  .CodeMirror-gutters { display: none !important; }
+}
+#write li > figure:last-child { margin-bottom: 0.5rem; }
+#write ol, #write ul { position: relative; }
+img { max-width: 100%; vertical-align: middle; }
+button, input, select, textarea { color: inherit; font: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+*, ::after, ::before { box-sizing: border-box; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
+p { line-height: inherit; }
+h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 2; }
+p { orphans: 4; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; cursor: pointer; }
+sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
+figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
+figure > table { margin: 0px !important; }
+tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+table.md-table td { min-width: 32px; }
+.CodeMirror-gutters { border-right: 0px; background-color: inherit; }
+.CodeMirror-linenumber { user-select: none; }
+.CodeMirror { text-align: left; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+#write pre { white-space: pre-wrap; }
+#write.fences-no-line-wrapping pre { white-space: pre; }
+#write pre.ty-contain-cm { white-space: normal; }
+.CodeMirror-gutters { margin-right: 4px; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background: inherit; position: relative !important; }
+.md-diagram-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+#write .md-fences.mock-cm { white-space: pre-wrap; }
+.md-fences.md-fences-with-lineno { padding-left: 0px; }
+#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
+.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
+.CodeMirror-line, twitterwidget { break-inside: avoid; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
+.footnotes + .footnotes { margin-top: 0px; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li .mathjax-block, li p { margin: 0.5rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child, li > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
+#write .footnote-line { white-space: pre-wrap; }
+@media print {
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; }
+  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
+  .typora-export * { -webkit-print-color-adjust: exact; }
+  html.blink-to-pdf { font-size: 13px; }
+  .typora-export #write { padding-left: 32px; padding-right: 32px; padding-bottom: 0px; break-after: avoid; }
+  .typora-export #write::after { height: 0px; }
+}
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+a img, img a { cursor: pointer; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
+p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
+p > .md-image:only-child { display: inline-block; width: 100%; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.md-math-block { width: 100%; }
+.md-math-block:not(:empty)::after { display: none; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus { outline: 0px; box-shadow: none; }
+.md-task-list-item { position: relative; list-style-type: none; }
+.task-list-item.md-task-list-item { padding-left: 0px; }
+.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc-content::after, .md-toc::after { display: none; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-item a { text-decoration: none; }
+.md-toc-inner:hover { text-decoration: underline; }
+.md-toc-inner { display: inline-block; cursor: pointer; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
+@media screen and (max-width: 48em) {
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
+}
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+code, pre, samp, tt { font-family: var(--monospace); }
+kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.8; font-family: var(--monospace); }
+code { text-align: left; vertical-align: initial; }
+a.md-print-anchor { white-space: pre !important; border-width: initial !important; border-style: none !important; border-color: initial !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; background: 0px 0px !important; text-decoration: initial !important; text-shadow: initial !important; }
+.md-inline-math .MathJax_SVG .noError { display: none !important; }
+.html-for-mac .inline-math-svg .MathJax_SVG { vertical-align: 0.2px; }
+.md-math-block .MathJax_SVG_Display { text-align: center; margin: 0px; position: relative; text-indent: 0px; max-width: none; max-height: none; min-height: 0px; min-width: 100%; width: auto; overflow-y: hidden; display: block !important; }
+.MathJax_SVG_Display, .md-inline-math .MathJax_SVG_Display { width: auto; margin: inherit; display: inline-block !important; }
+.MathJax_SVG .MJX-monospace { font-family: var(--monospace); }
+.MathJax_SVG .MJX-sans-serif { font-family: sans-serif; }
+.MathJax_SVG { display: inline; font-style: normal; font-weight: 400; line-height: normal; zoom: 90%; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; overflow-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; }
+.MathJax_SVG * { transition: none 0s ease 0s; }
+.MathJax_SVG_Display svg { vertical-align: middle !important; margin-bottom: 0px !important; margin-top: 0px !important; }
+.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
+.md-diagram-panel > svg { max-width: 100%; }
+[lang="mermaid"] svg, [lang="flow"] svg { max-width: 100%; height: auto; }
+[lang="mermaid"] .node text { font-size: 1rem; }
+table tr th { border-bottom: 0px; }
+video { max-width: 100%; display: block; margin: 0px auto; }
+iframe { max-width: 100%; width: 100%; border: none; }
+.highlight td, .highlight tr { border: 0px; }
+svg[id^="mermaidChart"] { line-height: 1em; }
+mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
+mark .md-meta { color: rgb(0, 0, 0); opacity: 0.3 !important; }
+
+
+:root {
+    --side-bar-bg-color: #fafafa;
+    --control-text-color: #777;
+}
+
+@include-when-export url(https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
+
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: "Open Sans","Clear Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: rgb(51, 51, 51);
+    line-height: 1.6;
+}
+
+#write {
+    max-width: 860px;
+  	margin: 0 auto;
+  	padding: 30px;
+    padding-bottom: 100px;
+}
+#write > ul:first-child,
+#write > ol:first-child{
+    margin-top: 30px;
+}
+
+a {
+    color: #4183C4;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    position: relative;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    line-height: 1.4;
+    cursor: text;
+}
+h1:hover a.anchor,
+h2:hover a.anchor,
+h3:hover a.anchor,
+h4:hover a.anchor,
+h5:hover a.anchor,
+h6:hover a.anchor {
+    text-decoration: none;
+}
+h1 tt,
+h1 code {
+    font-size: inherit;
+}
+h2 tt,
+h2 code {
+    font-size: inherit;
+}
+h3 tt,
+h3 code {
+    font-size: inherit;
+}
+h4 tt,
+h4 code {
+    font-size: inherit;
+}
+h5 tt,
+h5 code {
+    font-size: inherit;
+}
+h6 tt,
+h6 code {
+    font-size: inherit;
+}
+h1 {
+    padding-bottom: .3em;
+    font-size: 2.25em;
+    line-height: 1.2;
+    border-bottom: 1px solid #eee;
+}
+h2 {
+   padding-bottom: .3em;
+    font-size: 1.75em;
+    line-height: 1.225;
+    border-bottom: 1px solid #eee;
+}
+h3 {
+    font-size: 1.5em;
+    line-height: 1.43;
+}
+h4 {
+    font-size: 1.25em;
+}
+h5 {
+    font-size: 1em;
+}
+h6 {
+   font-size: 1em;
+    color: #777;
+}
+p,
+blockquote,
+ul,
+ol,
+dl,
+table{
+    margin: 0.8em 0;
+}
+li>ol,
+li>ul {
+    margin: 0 0;
+}
+hr {
+    height: 2px;
+    padding: 0;
+    margin: 16px 0;
+    background-color: #e7e7e7;
+    border: 0 none;
+    overflow: hidden;
+    box-sizing: content-box;
+}
+
+li p.first {
+    display: inline-block;
+}
+ul,
+ol {
+    padding-left: 30px;
+}
+ul:first-child,
+ol:first-child {
+    margin-top: 0;
+}
+ul:last-child,
+ol:last-child {
+    margin-bottom: 0;
+}
+blockquote {
+    border-left: 4px solid #dfe2e5;
+    padding: 0 15px;
+    color: #777777;
+}
+blockquote blockquote {
+    padding-right: 0;
+}
+table {
+    padding: 0;
+    word-break: initial;
+}
+table tr {
+    border-top: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 0;
+}
+table tr:nth-child(2n),
+thead {
+    background-color: #f8f8f8;
+}
+table tr th {
+    font-weight: bold;
+    border: 1px solid #dfe2e5;
+    border-bottom: 0;
+    margin: 0;
+    padding: 6px 13px;
+}
+table tr td {
+    border: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 6px 13px;
+}
+table tr th:first-child,
+table tr td:first-child {
+    margin-top: 0;
+}
+table tr th:last-child,
+table tr td:last-child {
+    margin-bottom: 0;
+}
+
+.CodeMirror-lines {
+    padding-left: 4px;
+}
+
+.code-tooltip {
+    box-shadow: 0 1px 1px 0 rgba(0,28,36,.3);
+    border-top: 1px solid #eef2f2;
+}
+
+.md-fences,
+code,
+tt {
+    border: 1px solid #e7eaed;
+    background-color: #f8f8f8;
+    border-radius: 3px;
+    padding: 0;
+    padding: 2px 4px 0px 4px;
+    font-size: 0.9em;
+}
+
+code {
+    background-color: #f3f4f4;
+    padding: 0 2px 0 2px;
+}
+
+.md-fences {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding-top: 8px;
+    padding-bottom: 6px;
+}
+
+
+.md-task-list-item > input {
+  margin-left: -1.3em;
+}
+
+@media print {
+    html {
+        font-size: 13px;
+    }
+    table,
+    pre {
+        page-break-inside: avoid;
+    }
+    pre {
+        word-wrap: break-word;
+    }
+}
+
+.md-fences {
+	background-color: #f8f8f8;
+}
+#write pre.md-meta-block {
+	padding: 1rem;
+    font-size: 85%;
+    line-height: 1.45;
+    background-color: #f7f7f7;
+    border: 0;
+    border-radius: 3px;
+    color: #777777;
+    margin-top: 0 !important;
+}
+
+.mathjax-block>.code-tooltip {
+	bottom: .375rem;
+}
+
+.md-mathjax-midline {
+    background: #fafafa;
+}
+
+#write>h3.md-focus:before{
+	left: -1.5625rem;
+	top: .375rem;
+}
+#write>h4.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+#write>h5.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+#write>h6.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+.md-image>.md-meta {
+    /*border: 1px solid #ddd;*/
+    border-radius: 3px;
+    padding: 2px 0px 0px 4px;
+    font-size: 0.9em;
+    color: inherit;
+}
+
+.md-tag {
+    color: #a7a7a7;
+    opacity: 1;
+}
+
+.md-toc { 
+    margin-top:20px;
+    padding-bottom:20px;
+}
+
+.sidebar-tabs {
+    border-bottom: none;
+}
+
+#typora-quick-open {
+    border: 1px solid #ddd;
+    background-color: #f8f8f8;
+}
+
+#typora-quick-open-item {
+    background-color: #FAFAFA;
+    border-color: #FEFEFE #e5e5e5 #e5e5e5 #eee;
+    border-style: solid;
+    border-width: 1px;
+}
+
+/** focus mode */
+.on-focus-mode blockquote {
+    border-left-color: rgba(85, 85, 85, 0.12);
+}
+
+header, .context-menu, .megamenu-content, footer{
+    font-family: "Segoe UI", "Arial", sans-serif;
+}
+
+.file-node-content:hover .file-node-icon,
+.file-node-content:hover .file-node-open-state{
+    visibility: visible;
+}
+
+.mac-seamless-mode #typora-sidebar {
+    background-color: #fafafa;
+    background-color: var(--side-bar-bg-color);
+}
+
+.md-lang {
+    color: #b4654d;
+}
+
+.html-for-mac .context-menu {
+    --item-hover-bg-color: #E6F0FE;
+}
+
+#md-notification .btn {
+    border: 0;
+}
+
+.dropdown-menu .divider {
+    border-color: #e5e5e5;
+}
+
+.ty-preferences .window-content {
+    background-color: #fafafa;
+}
+
+.ty-preferences .nav-group-item.active {
+    color: white;
+    background: #999;
+}
+
+
+</style>
+</head>
+<body class='typora-export os-windows' >
+<div  id='write'  class = 'is-node'><h1><a name="jamaica-n" class="md-header-anchor"></a><strong><em><span>Jamaica</span></em></strong><span> n</span></h1><hr /><p><span>英音 dʒə&#39;meɪkə     美音 dʒə&#39;meɪkə</span></p><p><span>词频 2 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><strong><span>牙买加</span></strong><span>  </span></li></ol><h2><a name="固定搭配" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jamie-n" class="md-header-anchor"></a><strong><em><span>Jamie</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;dʒeɪmɪ     美音 &#39;dʒeɪmɪ</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n24" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>杰米 (男名)</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n29" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n31" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n33" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="janice" class="md-header-anchor"></a><strong><em><span>Janice</span></em></strong><span> </span></h1><hr /><p><span>英音 ˈdʒænɪs     美音 ˈdʒænɪs</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n41" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>贾尼丝 (女名)</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n46" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n48" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n50" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="janson" class="md-header-anchor"></a><strong><em><span>Janson</span></em></strong><span> </span></h1><hr /><p><span>英音 ˈdʒænsn     美音 ˈdʒænsn</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n58" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>詹森 (姓)</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n63" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n65" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n67" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="january-n" class="md-header-anchor"></a><strong><em><span>January</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;dʒænjuəri     美音 &#39;dʒænjueri</span></p><p><span>词频 0 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n75" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>一月 (Jan.)</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n80" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n82" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n84" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="japan-n" class="md-header-anchor"></a><strong><em><span>Japan</span></em></strong><span> n</span></h1><hr /><p><span>英音 dʒə&#39;pæn     美音 dʒə&#39;pæn</span></p><p><span>词频 0 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n92" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>日本</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n97" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n99" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n101" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="japanese-adj" class="md-header-anchor"></a><strong><em><span>Japanese</span></em></strong><span> adj</span></h1><hr /><p><span>英音 ˌdʒæpə&#39;niːz     美音 ˌdʒæpə&#39;niːz</span></p><p><span>词频 0 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n109" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>日本的；日本人的；日语的</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n114" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n116" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n118" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="japanese-n" class="md-header-anchor"></a><strong><em><span>Japanese</span></em></strong><span> n</span></h1><hr /><p><span>英音 ˌdʒæpə&#39;niːz     美音 ˌdʒæpə&#39;niːz</span></p><p><span>词频 0 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n126" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>日本人；日语</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n131" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n133" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n135" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jesus-n" class="md-header-anchor"></a><strong><em><span>Jesus</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;dʒiːzəs     美音 &#39;dʒiːzəs</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n143" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>(= Jesus Christ) 耶稣</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n148" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n150" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n152" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jew-n" class="md-header-anchor"></a><strong><em><span>Jew</span></em></strong><span> n</span></h1><hr /><p><span>英音 dʒuː     美音 dʒuː</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n160" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><strong><span>犹太人</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n165" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n167" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n169" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jewish-adj" class="md-header-anchor"></a><strong><em><span>Jewish</span></em></strong><span> adj</span></h1><hr /><p><span>英音 &#39;dʒuːɪʃ     美音 &#39;dʒuːɪʃ</span></p><p><span>词频 2 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n177" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>犹太人的；犹太族的</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n182" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n184" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n186" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="julie-n" class="md-header-anchor"></a><strong><em><span>Julie</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;dʒulɪ     美音 &#39;dʒulɪ</span></p><p><span>词频 2 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n194" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>朱莉 (女名)</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n199" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n201" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n203" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="july-n" class="md-header-anchor"></a><strong><em><span>July</span></em></strong><span> n</span></h1><hr /><p><span>英音 dʒu&#39;laɪ     美音 dʒu&#39;laɪ</span></p><p><span>词频 0 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n211" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>七月（Jul.）</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n216" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n218" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n220" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="june-n" class="md-header-anchor"></a><strong><em><span>June</span></em></strong><span> n</span></h1><hr /><p><span>英音 dʒuːn     美音 dʒuːn</span></p><p><span>词频 0 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n228" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>六月（Jun.）</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n233" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n235" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n237" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jupiter-n" class="md-header-anchor"></a><strong><em><span>Jupiter</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;dʒuːpɪtə(r)     美音 &#39;dʒuːpɪtər</span></p><p><span>词频 3 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n245" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><strong><span>木星</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n250" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n252" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n254" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jacket-n" class="md-header-anchor"></a><strong><em><span>jacket</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;dʒækɪt     美音 &#39;dʒækɪt</span></p><p><span>词频 4 | 口语 2 | 书面 1 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n263" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>短上衣；夹克</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n268" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n270" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n272" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jam-n" class="md-header-anchor"></a><strong><em><span>jam</span></em></strong><span> n</span></h1><hr /><p><span>英音 dʒæm     美音 dʒæm</span></p><p><span>词频 3 | 口语 1 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n280" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>[C] &amp; [U] 果酱; [C] 堵塞</span></strong><span>  </span></li></ol><blockquote><p><strong><span>traffic jam</span></strong><span></span><br/><span>Have you ever been stuck in a traffic jam?</span><br/><span>你是否碰到过交通阻塞？</span></p></blockquote><h2><a name="固定搭配-n288" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n290" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n292" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jar-n" class="md-header-anchor"></a><strong><em><span>jar</span></em></strong><span> n</span></h1><hr /><p><span>英音 dʒɑː(r)     美音 dʒɑːr</span></p><p><span>词频 3 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n301" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><strong><span>罐子；坛子；一罐的量</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n306" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n308" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n310" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jaw-n" class="md-header-anchor"></a><strong><em><span>jaw</span></em></strong><span> n</span></h1><hr /><p><span>英音 dʒɔ     美音 dʒɔː</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n319" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>颌；颚</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n324" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n326" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n328" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jazz-n" class="md-header-anchor"></a><strong><em><span>jazz</span></em></strong><span> n</span></h1><hr /><p><span>英音 dʒæz     美音 dʒæz</span></p><p><span>词频 4 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [U]</span></p><h2><a name="英文释义-n337" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>爵士乐；爵士舞 (曲)</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n342" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n344" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n346" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jealous-adj" class="md-header-anchor"></a><strong><em><span>jealous</span></em></strong><span> adj</span></h1><hr /><p><span>英音 &#39;dʒeləs     美音 &#39;dʒeləs</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n354" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>嫉妒的；羡慕的：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>jealous of</span></strong><span></span><br/><span>I&#39;m jealous of her success.</span><br/><span>我嫉妒她的成功。</span></p></blockquote><h2><a name="固定搭配-n362" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n364" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n366" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jeans-n" class="md-header-anchor"></a><strong><em><span>jeans</span></em></strong><span> n</span></h1><hr /><p><span>英音 dʒiːnz     美音 dʒiːnz</span></p><p><span>词频 2 | 口语 1 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n375" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>牛仔裤； (牛仔) 工作服</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n380" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n382" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n384" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jeep-n" class="md-header-anchor"></a><strong><em><span>jeep</span></em></strong><span> n</span></h1><hr /><p><span>英音 dʒiːp     美音 dʒiːp</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n393" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>吉普车</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n398" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n400" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n402" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jelly-n" class="md-header-anchor"></a><strong><em><span>jelly</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;dʒeli     美音 &#39;dʒeli</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [C] &amp; [U]</span></p><h2><a name="英文释义-n411" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>果冻；(不含水果块的) 果酱</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n416" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n418" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n420" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jerk-n" class="md-header-anchor"></a><strong><em><span>jerk</span></em></strong><span> n</span></h1><hr /><p><span>英音 dʒɜːk     美音 dʒɜːrk</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n428" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><strong><span>猛拉, 猛的一动</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n433" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n435" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n437" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jet-n" class="md-header-anchor"></a><strong><em><span>jet</span></em></strong><span> n</span></h1><hr /><p><span>英音 dʒet     美音 dʒet</span></p><p><span>词频 2 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n446" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>喷气式飞机：</span></strong><span>  </span></li></ol><blockquote><p><span>jet lag </span><br/><span>飞行时差综合征；时差反应</span></p></blockquote><h2><a name="固定搭配-n454" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n456" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n458" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jewel-n" class="md-header-anchor"></a><strong><em><span>jewel</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;dʒuːəl     美音 &#39;dʒuːəl</span></p><p><span>词频 2 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n467" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><strong><span>[C] 宝石； [常用复数] 宝石饰物；贵重饰物：</span></strong><span>  </span></li></ol><blockquote><p><span>She loves wearing shining jewels.</span><br/><span>她喜欢佩戴闪亮的珠宝首饰。</span></p></blockquote><h2><a name="固定搭配-n475" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n477" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n479" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jewellery-n" class="md-header-anchor"></a><strong><em><span>jewellery</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;dʒuːəlrɪ     美音 &#39;dʒuːəlrɪ</span></p><p><span>词频 2 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [U]</span></p><h2><a name="英文释义-n488" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>珠宝；首饰：</span></strong><span>  </span></li></ol><blockquote><p><span>a piece of jewellery</span><br/><span>一件首饰</span></p></blockquote><h2><a name="固定搭配-n496" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n498" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n500" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jewelry-n" class="md-header-anchor"></a><strong><em><span>jewelry</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;dʒuːəlri     美音 &#39;dʒuːəlri</span></p><p><span>词频 2 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [U]</span></p><h2><a name="英文释义-n509" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>珠宝；首饰：</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n514" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n516" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n518" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="job-n" class="md-header-anchor"></a><strong><em><span>job</span></em></strong><span> n</span></h1><hr /><p><span>英音 dʒɒb     美音 dʒɑːb</span></p><p><span>词频 5 | 口语 3 | 书面 3 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n527" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>工作；职业：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>apply for / quit a job</span></strong><span></span><br/><span>apply for / quit a job</span><br/><span>求职/辞职</span></p></blockquote><blockquote><p><strong><span>be out of a job</span></strong><span></span><br/><span>be out of a job </span><br/><span>失业</span></p></blockquote><ol start='2' ><li><em><span>高义频：</span></em><span> </span><strong><span>(单件) 工作；活儿 (task)：</span></strong><span>  </span></li></ol><blockquote><p><span>You do a good / bad job. </span><br/><span>你干得好/不好。</span></p></blockquote><ol start='3' ><li><em><span>高义频：</span></em><span> </span><strong><span>职责；任务：</span></strong><span>  </span></li></ol><blockquote><p><span>It&#39;s not my job.</span><br/><span>这不是我的职责。</span></p></blockquote><h2><a name="固定搭配-n549" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n551" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>jobless  /&#39;dʒɒbləs/ adj </span></p><h2><a name="真题解析-n553" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jog-vi" class="md-header-anchor"></a><strong><em><span>jog</span></em></strong><span> vi</span></h1><hr /><p><span>英音 dʒɒɡ     美音 dʒɑːɡ</span></p><p><span>词频 4 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n561" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>慢跑：</span></strong><span>  </span></li></ol><blockquote><p><span>When I was young, my parents liked jogging on the beach. </span><br/><span>我小时候，父母喜欢在海滩上慢跑。</span></p></blockquote><h2><a name="固定搭配-n569" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n571" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>jogging  /&#39;dʒɒɡɪŋ/ n [U] </span></p><h2><a name="真题解析-n573" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jog-n" class="md-header-anchor"></a><strong><em><span>jog</span></em></strong><span> n</span></h1><hr /><p><span>英音 dʒɒɡ     美音 dʒɑːɡ</span></p><p><span>词频 4 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n581" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><strong><span>慢跑</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n586" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n588" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n590" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jogging-n" class="md-header-anchor"></a><strong><em><span>jogging</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;dʒɒɡɪŋ     美音 &#39;dʒɑːɡɪŋ</span></p><p><span>词频 3 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n598" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><strong><span>慢跑</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n603" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n605" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n607" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="join-v" class="md-header-anchor"></a><strong><em><span>join</span></em></strong><span> v</span></h1><hr /><p><span>英音 dʒɔɪn     美音 dʒɔɪn</span></p><p><span>词频 5 | 口语 3 | 书面 3 | 阅读 0</span></p><h2><a name="英文释义-n615" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>(使) 连接；(使) 汇合：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>joined to</span></strong><span></span><br/><span>The island, joined to the mainland by a bridge, is easy to go to. </span><br/><span>这个岛由一座大桥与大陆相连，很容易到达。</span></p></blockquote><blockquote><p><strong><span>joined hands</span></strong><span></span><br/><span>Our generation once joined hands and stood firm at times of national emergency.</span><br/><span>在国家危急关头，我们这代人曾携手合作，坚定不移。</span></p></blockquote><ol start='2' ><li><em><span>高义频：</span></em><span> </span><strong><span>加入 (组织)：</span></strong><span>  </span></li></ol><blockquote><p><span>join the army / the League </span><br/><span>参军/入团</span></p></blockquote><ol start='3' ><li><em><span>高义频：</span></em><span> </span><strong><span>参加 (活动等)；和…一起：</span></strong><span>  </span></li></ol><blockquote><p><span>Over 200 members of staff joined the strike. </span><br/><span>有超过200名员工参与了罢工。</span></p></blockquote><blockquote><p><strong><span>join us for</span></strong><span></span><br/><span>Will you join us for lunch? </span><br/><span>你和我们一起去吃午饭吗？</span></p></blockquote><blockquote><p><strong><span>join us in</span></strong><span></span><br/><span>Would you like to join us in the game? </span><br/><span>你愿意和我们一起玩游戏吗？</span></p></blockquote><blockquote><p><strong><span>join,in</span></strong><span></span><br/><span>I wonder if it is convenient for you to join me in visiting the exhibition.</span><br/><span>我想知道你是否方便和我一起去参观展览。</span></p></blockquote><h2><a name="固定搭配-n643" class="md-header-anchor"></a><span>固定搭配</span></h2><ul><li><h4><a name="join-in" class="md-header-anchor"></a><span>join in</span></h4></li></ul><ol start='' ><li><strong><span>参加 (比赛、活动等)：</span></strong><span>  </span></li></ol><blockquote><p><span>Be prepared to join in a class discussion. </span><br/><span>做好准备加入课堂讨论。</span></p></blockquote><h3><a name="辨析-join-join-in-take-part-in-attend" class="md-header-anchor"></a><span>辨析 join, join in, take part in, attend</span></h3><p><span>四者都常译为“参加”。</span></p><h2><a name="派生词汇-n655" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n657" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="joint-n" class="md-header-anchor"></a><strong><em><span>joint</span></em></strong><span> n</span></h1><hr /><p><span>英音 dʒɔɪnt     美音 dʒɔɪnt</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n666" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>关节；接缝；接合处：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>ankle / knee joints</span></strong><span></span><br/><span>ankle / knee joints</span><br/><span>踝/膝关节</span></p></blockquote><h2><a name="固定搭配-n674" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n676" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n678" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="joint-adj" class="md-header-anchor"></a><strong><em><span>joint</span></em></strong><span> adj</span></h1><hr /><p><span>英音 dʒɔɪnt     美音 dʒɔɪnt</span></p><p><span>词频 1 | 口语 2 | 书面 2 | 阅读 0</span></p><p><span>用法点拨  [只用于名词前]</span></p><h2><a name="英文释义-n687" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>联合的；共同的：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>joint efforts</span></strong><span></span><br/><span>The foreign minister calls for joint efforts to protect global free trade.</span><br/><span>外交部长呼吁共同努力来保护全球自由贸易。</span></p></blockquote><h2><a name="固定搭配-n695" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n697" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n699" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jointo" class="md-header-anchor"></a><strong><em><span>join…to…</span></em></strong><span> </span></h1><hr /><p><span>词频 0 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n706" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><strong><span>把…...和……连接或联结起来</span></strong><span>  </span></li></ol><blockquote><p><span>Join one section of pipe to the next.</span><br/><span>将一段管子与相邻的管子连接起来。</span></p></blockquote><h2><a name="固定搭配-n714" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n716" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n718" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="joke-n" class="md-header-anchor"></a><strong><em><span>joke</span></em></strong><span> n</span></h1><hr /><p><span>英音 dʒəʊk     美音 dʒoʊk</span></p><p><span>词频 4 | 口语 2 | 书面 1 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n727" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>笑话；玩笑：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>telling jokes</span></strong><span></span><br/><span>He has a habit of telling jokes. </span><br/><span>他喜欢讲笑话。</span></p></blockquote><blockquote><p><strong><span>make a joke about</span></strong><span></span><br/><span>I don&#39;t want anyone to make a joke about me!</span><br/><span>我不希望任何人开我的玩笑！</span></p></blockquote><h2><a name="固定搭配-n737" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n739" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n741" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="joke-vi" class="md-header-anchor"></a><strong><em><span>joke</span></em></strong><span> vi</span></h1><hr /><p><span>英音 dʒəʊk     美音 dʒoʊk</span></p><p><span>词频 4 | 口语 1 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n749" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>开玩笑：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>You&#39;re joking</span></strong><span></span><br/><span>You&#39;re joking!</span><br/><span>你在开玩笑吧!</span></p></blockquote><blockquote><p><strong><span>joked with,about</span></strong><span></span><br/><span>He joked with me about the matter.</span><br/><span>他在这件事上跟我开了个玩笑。</span></p></blockquote><h2><a name="固定搭配-n759" class="md-header-anchor"></a><span>固定搭配</span></h2><ul><li><h4><a name="play-a-joke--jokes-on" class="md-header-anchor"></a><span>play a joke / jokes on </span></h4></li></ul><ol start='' ><li><strong><span>戏弄；拿…开玩笑：</span></strong><span>  </span></li></ol><blockquote><p><span>They decided to play a joke on their father by hiding his glasses. </span><br/><span>他们决定把父亲的眼镜藏起来和他开个玩笑。</span></p></blockquote><h2><a name="派生词汇-n770" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n772" class="md-header-anchor"></a><span>真题解析</span></h2><h5><a name="题目" class="md-header-anchor"></a><span>题目  </span></h5><p><span>Everyone thought he was j</span><strong><span>__</span></strong><span>__, but in fact he was completely serious.  </span></p><h5><a name="答案-joking" class="md-header-anchor"></a><span>答案 joking  </span></h5><p>&nbsp;</p><h1><a name="journal-n" class="md-header-anchor"></a><strong><em><span>journal</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;dʒɜːnl     美音 &#39;dʒɜːnl</span></p><p><span>词频 3 | 口语 0 | 书面 0 | 阅读 2</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n783" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>日报；杂志；期刊：</span></strong><span>  </span></li></ol><blockquote><p><span>a college / science journal</span><br/><span>大学学报/科学杂志</span></p></blockquote><ol start='2' ><li><em><span>低义频：</span></em><span> </span><strong><span>日志；日记：</span></strong><span>  </span></li></ol><blockquote><p><span>keep a journal </span><br/><span>记日记</span></p></blockquote><h2><a name="固定搭配-n797" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n799" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n801" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="journalism-n" class="md-header-anchor"></a><strong><em><span>journalism</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;dʒɜːnəlɪzəm     美音 &#39;dʒɜːrnəlɪzəm</span></p><p><span>词频 2 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n809" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><strong><span>新闻业，新闻工作</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n814" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n816" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n818" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="journalist-n" class="md-header-anchor"></a><strong><em><span>journalist</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;dʒɜːnəlɪst     美音 &#39;dʒɜːnəlɪst</span></p><p><span>词频 3 | 口语 0 | 书面 1 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n827" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>记者；新闻工作者</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n832" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n834" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n836" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="journey-n" class="md-header-anchor"></a><strong><em><span>journey</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;dʒɜːni     美音 &#39;dʒɜːrni</span></p><p><span>词频 5 | 口语 1 | 书面 2 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n845" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>旅行；旅程；过程：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>set out on a journey</span></strong><span></span><br/><span>set out on a journey </span><br/><span>出发去旅行</span></p></blockquote><blockquote><p><strong><span>go on / make / take a journey</span></strong><span></span><br/><span>go on / make / take a journey</span><br/><span>去旅行</span></p></blockquote><blockquote><p><strong><span>a safe journey</span></strong><span></span><br/><span>Waving goodbye to them on the platform, I wished them a safe journey.</span><br/><span>我在站台上向他们挥手告别，祝他们旅途平安。</span></p></blockquote><blockquote><p><span>It&#39;s the journey, not the arrival, that counts.</span><br/><span>重要的是过程，而不是结果。</span></p></blockquote><h3><a name="辨析-voyage-journey-trip-tour" class="md-header-anchor"></a><span>辨析 voyage, journey, trip, tour</span></h3><p><span>四者都含“旅行”之意，但具体含义不同。</span></p><h2><a name="固定搭配-n860" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n862" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n864" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="joust-vi" class="md-header-anchor"></a><strong><em><span>joust</span></em></strong><span> vi</span></h1><hr /><p><span>英音 dʒaʊst     美音 dʒaʊst</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n872" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>(指中世纪骑士) 骑着马用长矛打斗</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n877" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n879" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n881" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="joy-n" class="md-header-anchor"></a><strong><em><span>joy</span></em></strong><span> n</span></h1><hr /><p><span>英音 dʒɔɪ     美音 dʒɔɪ</span></p><p><span>词频 4 | 口语 0 | 书面 1 | 阅读 0</span></p><h2><a name="英文释义-n889" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>欢乐；高兴：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>jumped for joy</span></strong><span></span><br/><span>I jumped for joy when I heard the good news. </span><br/><span>听到这个好消息我高兴得跳了起来。</span></p></blockquote><blockquote><p><strong><span>To our joy</span></strong><span></span><br/><span>To our joy we found him alive. </span><br/><span>令我们欣喜的是，他还活着。</span></p></blockquote><ol start='2' ><li><em><span>低义频：</span></em><span> </span><strong><span>乐事；乐趣：</span></strong><span>  </span></li></ol><blockquote><p><span>our joys and sadnesses</span><br/><span>我们的欢乐与悲伤</span></p></blockquote><blockquote><p><span>Listening to music is one of my greatest joys. </span><br/><span>听音乐是我的一大乐事。</span></p></blockquote><h2><a name="固定搭配-n907" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n909" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n911" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="judge-n" class="md-header-anchor"></a><strong><em><span>judge</span></em></strong><span> n</span></h1><hr /><p><span>英音 dʒʌdʒ     美音 dʒʌdʒ</span></p><p><span>词频 4 | 口语 2 | 书面 2 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n920" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>法官；裁判员；鉴定人：</span></strong><span>  </span></li></ol><blockquote><p><span>The prisoner was taken before the judge. </span><br/><span>犯人被带到法官面前。</span></p></blockquote><blockquote><p><span>Two hours later, the judge read a list of the girls for a second tryout. </span><br/><span>两小时后，裁判宣读了参加第二轮选拔的女孩的名单。</span></p></blockquote><h2><a name="固定搭配-n930" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n932" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n934" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="judge-v" class="md-header-anchor"></a><strong><em><span>judge</span></em></strong><span> v</span></h1><hr /><p><span>英音 dʒʌdʒ     美音 dʒʌdʒ</span></p><p><span>词频 4 | 口语 1 | 书面 1 | 阅读 0</span></p><h2><a name="英文释义-n942" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>判断</span></strong><span></span><br/><span>to form an opinion about sb / sth：</span></li></ol><blockquote><p><strong><span>Judging from</span></strong><span></span><br/><span>Judging from her accent, she must be from Sichuan.</span><br/><span>听口音，她准是四川人。</span></p></blockquote><blockquote><p><strong><span>Judging by</span></strong><span></span><br/><span>Judging by his last letter, they are having a wonderful time. </span><br/><span>从他上次的来信看，他们过得很不错。</span></p></blockquote><ol start='2' ><li><em><span>高义频：</span></em><span> </span><strong><span>估计</span></strong><span></span><br/><span>to guess the size, amount, etc. of sth：</span></li></ol><blockquote><p><strong><span>judge how</span></strong><span></span><br/><span>It&#39;s difficult to judge how long the journey will take.</span><br/><span>很难估计这段旅程要花多长时间。</span></p></blockquote><ol start='3' ><li><em><span>高义频：</span></em><span> </span><strong><span>评价</span></strong><span></span><br/><span>to be critical about sb, to decide whether sb is good or bad：</span></li></ol><blockquote><p><span>I&#39;ve learnt a good lesson: not to judge people.</span><br/><span>我得到了有益的教训：不要对他人品头论足。</span></p></blockquote><blockquote><p><span>I&#39;m in no position to judge whether what she is doing is right or wrong.</span><br/><span>我无权评价她正在做的事是对还是错。</span></p></blockquote><ol start='4' ><li><em><span>高义频：</span></em><span> </span><strong><span>裁判；评判：</span></strong><span>  </span></li></ol><blockquote><p><span>She was asked to judge the English speech competition.</span><br/><span>她应邀担任英语演讲比赛的裁判。</span></p></blockquote><ol start='5' ><li><em><span>低义频：</span></em><span> </span><strong><span>审判；判决：</span></strong><span>  </span></li></ol><blockquote><p><span>judge a case / judge sb guilty </span><br/><span>判案/判某人有罪</span></p></blockquote><h2><a name="固定搭配-n978" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n980" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n982" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="judgement-n" class="md-header-anchor"></a><strong><em><span>judgement</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;dʒʌdʒmənt     美音 &#39;dʒʌdʒmənt</span></p><p><span>词频 3 | 口语 0 | 书面 2 | 阅读 0</span></p><h2><a name="英文释义-n990" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>判断 (力)；辨别力</span></strong><span></span><br/><span>the ability to form opinions or to make sensible decisions：</span></li></ol><blockquote><p><span>He showed excellent judgement in choosing a friend. </span><br/><span>他在择友方面表现出了敏锐的判断力。</span></p></blockquote><ol start='2' ><li><em><span>高义频：</span></em><span> </span><strong><span>意见；看法；评价</span></strong><span></span><br/><span>an opinion that you form after thinking carefully：</span></li></ol><blockquote><p><strong><span>make a judgement on / about</span></strong><span></span><br/><span>make a judgement on / about</span><br/><span>对…作出评价</span></p></blockquote><blockquote><p><strong><span>In her judgment</span></strong><span></span><br/><span>In her judgment, it was a wrong thing to give children so much pocket money. </span><br/><span>在她看来，给孩子们这么多零花钱是不对的。</span></p></blockquote><ol start='3' ><li><em><span>低义频：</span></em><span> </span><strong><span>审判</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n1009" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n1011" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n1013" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="judgment-n" class="md-header-anchor"></a><strong><em><span>judgment</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;dʒʌdʒmənt     美音 &#39;dʒʌdʒmənt</span></p><p><span>词频 3 | 口语 0 | 书面 2 | 阅读 0</span></p><h2><a name="英文释义-n1021" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>判断 (力)；辨别力</span></strong><span></span><br/><span>the ability to form opinions or to make sensible decisions：</span></li></ol><blockquote><p><span>He showed excellent judgement in choosing a friend.</span><br/><span>他在择友方面表现出了敏锐的判断力。</span></p></blockquote><ol start='2' ><li><em><span>高义频：</span></em><span> </span><strong><span>意见；看法；评价</span></strong><span></span><br/><span>an opinion that you form after thinking carefully：</span></li></ol><blockquote><p><strong><span>make a judgement on / about</span></strong><span></span><br/><span>make a judgement on / about</span><br/><span>对…作出评价</span></p></blockquote><blockquote><p><strong><span>In her judgment</span></strong><span></span><br/><span>In her judgment, it was a wrong thing to give children so much pocket money. </span><br/><span>在她看来，给孩子们这么多零花钱是不对的。</span></p></blockquote><ol start='3' ><li><em><span>低义频：</span></em><span> </span><strong><span>审判</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n1040" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n1042" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n1044" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="juice-n" class="md-header-anchor"></a><strong><em><span>juice</span></em></strong><span> n</span></h1><hr /><p><span>英音 dʒuːs     美音 dʒuːs</span></p><p><span>词频 3 | 口语 2 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [C] &amp; [U]</span></p><h2><a name="英文释义-n1053" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>(水果、蔬菜、肉类等的) 汁、液</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n1058" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n1060" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n1062" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jump-v" class="md-header-anchor"></a><strong><em><span>jump</span></em></strong><span> v</span></h1><hr /><p><span>英音 dʒʌmp     美音 dʒʌmp</span></p><p><span>词频 4 | 口语 2 | 书面 1 | 阅读 0</span></p><h2><a name="英文释义-n1070" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>vi 跳；跳跃；快速移动：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>jumped onto</span></strong><span></span><br/><span>The cat jumped onto her bed.</span><br/><span>猫跳到了她的床上。</span></p></blockquote><blockquote><p><span>His heart jumped at the news.</span><br/><span>听到这个消息他心里咯噔了一下。</span></p></blockquote><ol start='2' ><li><em><span>高义频：</span></em><span> </span><strong><span>vt 跳过：</span></strong><span>  </span></li></ol><blockquote><p><span>How can you jump those hurdles?</span><br/><span>你如何才能跳过那些跨栏？</span></p></blockquote><ol start='3' ><li><em><span>高义频：</span></em><span> </span><strong><span>vi (话题等) 突然转换：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>jump from,to</span></strong><span></span><br/><span>jump from one subject to another</span><br/><span>从一个话题跳到另一个话题</span></p></blockquote><h2><a name="固定搭配-n1092" class="md-header-anchor"></a><span>固定搭配</span></h2><ul><li><h4><a name="jump-at-sth" class="md-header-anchor"></a><span>jump at sth</span></h4></li></ul><ol start='' ><li><strong><span>迫不及待地接受某事物；欣然接受某事物</span></strong><span>  </span></li></ol><h2><a name="派生词汇-n1100" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n1102" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jump-n" class="md-header-anchor"></a><strong><em><span>jump</span></em></strong><span> n</span></h1><hr /><p><span>英音 dʒʌmp     美音 dʒʌmp</span></p><p><span>词频 4 | 口语 1 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n1111" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>跳；越：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>do / make a jump</span></strong><span></span><br/><span>do / make a jump into the ocean</span><br/><span>朝海里一跳</span></p></blockquote><blockquote><p><strong><span>high / long jump</span></strong><span></span><br/><span>the high / long jump </span><br/><span>跳高/跳远</span></p></blockquote><h2><a name="固定搭配-n1121" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n1123" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n1125" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jump-vt" class="md-header-anchor"></a><strong><em><span>jump</span></em></strong><span> vt</span></h1><hr /><p><span>英音 dʒʌmp     美音 dʒʌmp</span></p><p><span>词频 4 | 口语 2 | 书面 1 | 阅读 0</span></p><h2><a name="英文释义-n1133" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>跳过：</span></strong><span>  </span></li></ol><blockquote><p><span>How can you jump those hurdles?</span><br/><span>你如何才能跳过那些跨栏？</span></p></blockquote><h2><a name="固定搭配-n1141" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n1143" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n1145" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="junction-n" class="md-header-anchor"></a><strong><em><span>junction</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;dʒʌŋkʃn     美音 &#39;dʒʌŋkʃn</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n1154" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>连接点；汇合处； 交叉口：</span></strong><span>  </span></li></ol><blockquote><p><span>the T-junction </span><br/><span>丁字路口</span></p></blockquote><h2><a name="固定搭配-n1162" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n1164" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n1166" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="jungle-n" class="md-header-anchor"></a><strong><em><span>jungle</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;dʒʌŋɡl     美音 &#39;dʒʌŋɡl</span></p><p><span>词频 2 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [U] &amp; [C]</span></p><h2><a name="英文释义-n1175" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>丛林；密林</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n1180" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n1182" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n1184" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="junior-adj" class="md-header-anchor"></a><strong><em><span>junior</span></em></strong><span> adj</span></h1><hr /><p><span>英音 &#39;dʒuːniə(r)     美音 &#39;dʒuːniər</span></p><p><span>词频 2 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n1192" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>青少年的；初级的 【反 senior】；(高中 / 四年制大学) 三年级 (学生) 的：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>junior school</span></strong><span></span><br/><span>a junior school </span><br/><span>(英国7至11岁的孩子上的)小学</span></p></blockquote><blockquote><p><strong><span>junior to</span></strong><span></span><br/><span>She is 4 years junior to me. </span><br/><span>她比我小四岁。</span></p></blockquote><h2><a name="固定搭配-n1202" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n1204" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n1206" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="junior-n" class="md-header-anchor"></a><strong><em><span>junior</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;dʒuːniə(r)     美音 &#39;dʒuːniər</span></p><p><span>词频 2 | 口语 0 | 书面 0 | 阅读 0</span></p><p><span>用法点拨  [C]</span></p><h2><a name="英文释义-n1215" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>青少年；职位较低者；(高中 / 四年制大学中)三年级学生</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n1220" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n1222" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n1224" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="just-adv" class="md-header-anchor"></a><strong><em><span>just</span></em></strong><span> adv</span></h1><hr /><p><span>英音 dʒʌst     美音 dʒʌst</span></p><p><span>词频 5 | 口语 3 | 书面 3 | 阅读 0</span></p><h2><a name="英文释义-n1232" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>正好；恰好 (exactly)：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>just then</span></strong><span></span><br/><span>just then / just at that time </span><br/><span>就在那时</span></p></blockquote><blockquote><p><strong><span>just as,as_2</span></strong><span></span><br/><span>The summer here is just as hot as it is in my hometown.</span><br/><span>这里的夏天和我家乡的夏天一样热。</span></p></blockquote><blockquote><p><strong><span>just about to,when</span></strong><span></span><br/><span>He was just about to go out when it began to rain.</span><br/><span>他刚要出去，天就下起了雨。</span></p></blockquote><blockquote><p><strong><span>just have to</span></strong><span></span><br/><span>You just have to accept things and get on with your life.</span><br/><span>你只好接受这些事情，继续你的生活。</span></p></blockquote><ol start='2' ><li><em><span>高义频：</span></em><span> </span><strong><span>刚刚；刚才：</span></strong><span>  </span></li></ol><blockquote><p><span>— Where is Eric? </span><br/><span>艾瑞克在哪儿？</span></p></blockquote><blockquote><p><span>— He has just gone / just went out.</span><br/><span>他刚刚出去/刚才出去了。</span></p></blockquote><ol start='3' ><li><em><span>高义频：</span></em><span> </span><strong><span>只是；仅仅 (only / simply)：</span></strong><span>  </span></li></ol><blockquote><p><strong><span>just a minute / moment / second</span></strong><span></span><br/><span>just a minute / moment / second </span><br/><span>等一会儿</span></p></blockquote><blockquote><p><strong><span>just for fun</span></strong><span></span><br/><span>I decided to learn French, just for fun. </span><br/><span>我决定学习法语，只是为了消遣。</span></p></blockquote><blockquote><p><strong><span>Just because,it does not mean</span></strong><span></span><br/><span>Just because a subject is difficult to learn, it does not mean you are not good at it.</span><br/><span>不要因为某一科目难学，就认为你学不好。</span></p></blockquote><ol start='4' ><li><em><span>低义频：</span></em><span> </span><strong><span>非常；真正：</span></strong><span>  </span></li></ol><blockquote><p><span>The chocolate is just wonderful. </span><br/><span>巧克力非常好吃。</span></p></blockquote><ol start='5' ><li><em><span>低义频：</span></em><span> </span><strong><span>请；尽管：</span></strong><span>  </span></li></ol><blockquote><p><span>Anytime you want me, just send for me. </span><br/><span>无论什么时候需要，只管派人来叫我。</span></p></blockquote><h2><a name="固定搭配-n1276" class="md-header-anchor"></a><span>固定搭配</span></h2><ul><li><h4><a name="just-about" class="md-header-anchor"></a><span>just about </span></h4></li></ul><ol start='' ><li><strong><span>几乎；差不多：</span></strong><span>  </span></li></ol><blockquote><p><span>Some people will do just about anything to save money.</span><br/><span>为了省钱，有的人几乎愿意做任何事情。</span></p></blockquote><h2><a name="派生词汇-n1287" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n1289" class="md-header-anchor"></a><span>真题解析</span></h2><h5><a name="题目-n1290" class="md-header-anchor"></a><span>题目  </span></h5><p><strong><span>__</span></strong><span>__ (正如) a single word can change the meaning of a sentence, a single sentence can change the meaning of a paragraph.  </span></p><h5><a name="答案-just-as" class="md-header-anchor"></a><span>答案 Just as  </span></h5><h5><a name="题目-n1293" class="md-header-anchor"></a><span>题目  </span></h5><p><span>If you can&#39;t come tomorrow, we&#39;ll </span><strong><span>__</span></strong><span>__ have to hold the meeting next week. </span></p><p><span>A.yet</span><br/><span>B.even</span><br/><span>C.rather</span><br/><span>D.just  </span></p><h5><a name="答案-d" class="md-header-anchor"></a><span>答案 D  </span></h5><p>&nbsp;</p><h1><a name="just-adj" class="md-header-anchor"></a><strong><em><span>just</span></em></strong><span> adj</span></h1><hr /><p><span>英音 dʒʌst     美音 dʒʌst</span></p><p><span>词频 5 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n1303" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>公正的；正直的；正义的 (fair)：</span></strong><span>  </span></li></ol><blockquote><p><span>a just man</span><br/><span>正直的人</span></p></blockquote><h2><a name="固定搭配-n1311" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n1313" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n1315" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="justice-n" class="md-header-anchor"></a><strong><em><span>justice</span></em></strong><span> n</span></h1><hr /><p><span>英音 &#39;dʒʌstɪs     美音 &#39;dʒʌstɪs</span></p><p><span>词频 2 | 口语 0 | 书面 2 | 阅读 1</span></p><p><span>用法点拨  [U]</span></p><h2><a name="英文释义-n1324" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>正义；公正；公道 ：</span></strong><span></span><br/><span>反义词 injustice </span></li></ol><blockquote><p><span>a strong sense of justice </span><br/><span>强烈的正义感</span></p></blockquote><blockquote><p><span>treat sb with justice </span><br/><span>公平对待某人</span></p></blockquote><ol start='2' ><li><em><span>高义频：</span></em><span> </span><strong><span>法律制裁；司法：</span></strong><span>  </span></li></ol><blockquote><p><span>Justice has long arms. </span><br/><span>天网恢恢，疏而不漏。</span></p></blockquote><h2><a name="固定搭配-n1339" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n1341" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n1343" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="justifiably-adv" class="md-header-anchor"></a><strong><em><span>justifiably</span></em></strong><span> adv</span></h1><hr /><p><span>英音 dʒʌstɪ&#39;faɪəbli     美音 dʒʌstɪ&#39;faɪəbli</span></p><p><span>词频 1 | 口语 0 | 书面 0 | 阅读 0</span></p><h2><a name="英文释义-n1351" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><strong><span>有正当理由地</span></strong><span>  </span></li></ol><h2><a name="固定搭配-n1356" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n1358" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n1360" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><h1><a name="justify-vt" class="md-header-anchor"></a><strong><em><span>justify</span></em></strong><span> vt</span></h1><hr /><p><span>英音 &#39;dʒʌstɪfaɪ     美音 &#39;dʒʌstɪfaɪ</span></p><p><span>词频 1 | 口语 1 | 书面 1 | 阅读 0</span></p><h2><a name="英文释义-n1368" class="md-header-anchor"></a><span>英文释义</span></h2><ol start='' ><li><em><span>高义频：</span></em><span> </span><strong><span>证明...正当 / 有理；为...辩护；对...作出解释：</span></strong><span>  </span></li></ol><blockquote><p><span>How can we justify spending so much money on dinner? </span><br/><span>我们怎么解释花这么多钱吃饭呢？</span></p></blockquote><h2><a name="固定搭配-n1376" class="md-header-anchor"></a><span>固定搭配</span></h2><p><span>[null]</span></p><h2><a name="派生词汇-n1378" class="md-header-anchor"></a><span>派生词汇</span></h2><p><span>[null]</span></p><h2><a name="真题解析-n1380" class="md-header-anchor"></a><span>真题解析</span></h2><p><span>[null]</span></p><p>&nbsp;</p></div>
+</body>
+</html>
