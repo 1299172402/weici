@@ -36,11 +36,11 @@
 1. *高义频：* **(数字的) 零；(温度的) 零；最低点：**  
 
 
-> twenty degrees below zero  
-> 零下20度
+     > twenty degrees below zero  
+     > 零下20度
 
-> a zero-carbon city   
-> 无碳城市
+     > a zero-carbon city   
+     > 无碳城市
 
 
 # ***zinc*** n
@@ -77,9 +77,9 @@
 1. *高义频：* **vt & vi 拉开拉链；拉上拉链**  
 
 
-> **zipped up**  
-> She zipped up her dress.   
-> 她拉上了衣服的拉链。
+     > **zipped up**  
+     > She zipped up her dress.   
+     > 她拉上了衣服的拉链。
 
 
 # ***zipper*** n
@@ -107,14 +107,14 @@
 1. *高义频：* **地区；区域；地带：**  
 
 
-> residential zones   
-> 住宅区
+     > residential zones   
+     > 住宅区
 
-> a time zone   
-> 时区
+     > a time zone   
+     > 时区
 
-> economic and technological development zones   
-> 经济技术开发区
+     > economic and technological development zones   
+     > 经济技术开发区
 
 
 # ***zoo*** n

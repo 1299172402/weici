@@ -58,9 +58,9 @@ def gy_example(t): #18417
             b=b[1:]
         while b[-1]==' ':
             b=b[:-1]
-        print('> **'+b+'**  ',file=f)
-    print('> '+t['english']+'  ',file=f)
-    print('> '+t['chinese'],file=f)
+        print('     > **'+b+'**  ',file=f)
+    print('     > '+t['english']+'  ',file=f)
+    print('     > '+t['chinese'],file=f)
     print(file=f)
     
 def gy_notes(t): #16597
@@ -94,11 +94,11 @@ def gy_derivative(t): #10112
         for example in t['gy_example']:
             gy_example(example)
     if t['gy_paraphrase']!=[]:
-        i=1
+        i=0
         for exam in t['gy_paraphrase']:
-            print(str(i) + '. ',end='',file=f)
-            gy_paraphrase(exam) 
             i=i+1
+            print( str(i) + '. ',end='',file=f)
+            gy_paraphrase(exam) 
     if t['gy_fixed_collocation']!=[]:
         for exam in t['gy_fixed_collocation']:
             gy_fixed_collocation(exam)  
