@@ -15,24 +15,27 @@ def gy_paraphrase(t): #12568
         while b[-1]==' ':
             b=b[:-1]
         print('**' + b + '**  ',file=f)
+    '''
     if t['english']!='':print('英译 '+t['english'],file=f)
     
     if t['antonym']!='':print('反义词 ' + t['antonym']+' ',file=f)
     if t['synonyms']!='':print('近义词 ' + t['synonyms']+'  ',file=f)
     print(file=f)
-    
+    '''
     if t['gy_sentential_form']!=[]:
         for exam in t['gy_sentential_form']:
             gy_sentential_form(exam) 
     if t['gy_example']!=[]:
         for exam in t['gy_example']:
             gy_example(exam)  
+    '''        
     if t['gy_notes']!=[]:
         for exam in t['gy_notes']:
             gy_notes(exam)   
     if t['gy_biscrimination']!=[]:
         for exam in t['gy_biscrimination']:
             gy_biscrimination(exam)  
+    '''        
     if t['gy_fixed_collocation']!=[]:
         for exam in t['gy_fixed_collocation']:
             gy_fixed_collocation(exam)             
@@ -43,13 +46,14 @@ def gy_sentential_form(t): #15924
     if t['gy_example']!=[]:
         for example in t['gy_example']:
             gy_example(example)
+    '''        
     if t['gy_notes']!=[]:
         for exam in t['gy_notes']:
             gy_notes(exam) 
     if t['gy_biscrimination']!=[]:
         for exam in t['gy_biscrimination']:
             gy_biscrimination(exam)              
-            
+    '''        
 def gy_example(t): #18417
     b=t['highlight']
     if b!='' :
@@ -61,7 +65,7 @@ def gy_example(t): #18417
     print(' > '+t['english']+'  ',file=f)
     print(' > '+t['chinese'],file=f)
     print(file=f)
-    
+    '''
 def gy_notes(t): #16597
     print('Notes: ' + t['notes']+'  ',file=f)
     if t['gy_example']!=[]:
@@ -77,7 +81,7 @@ def gy_biscrimination(t): #16597
     if t['gy_example']!=[]:
         for example in t['gy_example']:
             gy_example(example)
-    
+    '''
 def gy_fixed_collocation(t): #26462
     print('- '+t['fixed_word'],file=f)
     if t['gy_paraphrase']!=[]:
@@ -86,7 +90,7 @@ def gy_fixed_collocation(t): #26462
             print(str(i) + '. ',end='',file=f)
             gy_paraphrase(exam) 
             i=i+1
-    
+    '''
 def gy_derivative(t): #10112
     print(t['derivative_word']+' '+t['phonogram']+' ' +t['part_of_speech']+' ' +t['use_method']+'  ',file=f)
     #print(file=f) #debug
@@ -112,7 +116,7 @@ def gy_exam_link(exam): #10112
     if exam['answer_d']!='' :print('D.'+exam['answer_d']+'  ',file=f)
     print('##### 答案 '+ exam['answer']+'  ',file=f)
     print('  ',file=f)
-    
+    '''
 def chuli(t):
     a=json.loads(t)
     
@@ -125,7 +129,7 @@ def chuli(t):
     print('# ***' + b + '*** ' + a['part_of_speech'],end='', file = f)
     if a['point']==1 :print('  重难点词汇',end='',file=f)
     print(file=f)
-    
+    '''
     #word_phonetic
     if a['en_phonetic_symbols']!='':print('英音 ' + a['en_phonetic_symbols'],end='     ',file=f)
     if a['usa_phonetic_symbols']!='':print('美音 ' + a['usa_phonetic_symbols'],end='  ',file=f)
@@ -133,14 +137,19 @@ def chuli(t):
     
     #word_level
     print(file=f)
-    print(' 词频 ' + str(a['lv_frequency'])+' | 口语 ' + str(a['lv_speak']) + ' | 书面 ' + str(a['lv_write']) + ' | 阅读 ' + str(a['lv_read'])+'  ', file = f)
+    if a['lv_frequency']!=0 or a['lv_speak']!=0 or a['lv_write']!=0 or a['lv_read']!=0 : print('|',end='',file=f)
+    if a['lv_frequency']!=0 : print(' 词频 ' + str(a['lv_frequency']),end=' |',file=f)
+    if a['lv_speak']!=0 : print(' 口语 ' + str(a['lv_speak']),end=' |',file=f)
+    if a['lv_write']!=0 : print(' 书面 ' + str(a['lv_write']),end=' |',file=f)
+    if a['lv_read']!=0 : print(' 阅读 ' + str(a['lv_read']),end=' |',file=f)
+    print('  ',file=f)
     print(file=f)
     
     #word_use_method
     if a['use_method']!='' : 
         print('用法点拨  '+ a['use_method'],file=f)
         print(file=f)
-    
+    '''
     #paraphrase
     if a['gy_paraphrase']!=[]:
         print('英文释义',file=f)
@@ -159,7 +168,7 @@ def chuli(t):
         for exam in a['gy_fixed_collocation']:
             gy_fixed_collocation(exam)    
         print(file=f)
-        
+    '''    
     #derivative派生词
     if a['gy_derivative']!=[]:
         print('派生词汇',file=f)
@@ -175,7 +184,7 @@ def chuli(t):
         for exam in a['gy_exam_link']:
             gy_exam_link(exam)           
         print(file=f)            
-            
+     '''       
 # 欢迎文字
 print('\n\n')
 print('####### 维克多英语词汇导出程序 #######\n')
