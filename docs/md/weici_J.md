@@ -162,7 +162,7 @@
 固定搭配
 ---
 - join in
-1. **参加 (比赛、活动等)：**  
+1.**参加 (比赛、活动等)：**  
  > Be prepared to join in a class discussion.   
  > 做好准备加入课堂讨论。
 
@@ -222,7 +222,7 @@
 固定搭配
 ---
 - play a joke / jokes on 
-1. **戏弄；拿…开玩笑：**  
+1.**戏弄；拿…开玩笑：**  
  > They decided to play a joke on their father by hiding his glasses.   
  > 他们决定把父亲的眼镜藏起来和他开个玩笑。
 
@@ -403,7 +403,7 @@
 固定搭配
 ---
 - jump at sth
-1. **迫不及待地接受某事物；欣然接受某事物**  
+1.**迫不及待地接受某事物；欣然接受某事物**  
 
 # ***jump*** n
 英文释义
@@ -509,7 +509,7 @@
 固定搭配
 ---
 - just about 
-1. **几乎；差不多：**  
+1.**几乎；差不多：**  
  > Some people will do just about anything to save money.  
  > 为了省钱，有的人几乎愿意做任何事情。
 

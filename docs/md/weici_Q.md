@@ -107,12 +107,12 @@
 固定搭配
 ---
 - a large quantity of / large quantities of
-1. **大量的：**  
+1.**大量的：**  
  > There’s a large quantity of rain in this area.  
  > 这个地区雨量大。
 
 - in quantity / in large quantities
-1. **大量地：**  
+1.**大量地：**  
  > They buy cotton in quantity.  
  > 他们大量收购棉花。
 
@@ -190,11 +190,11 @@
 固定搭配
 ---
 - out of question
-1. **毫无疑问**  
+1.**毫无疑问**  
 - out of the question
-1. **不可能的**  
+1.**不可能的**  
 - in question
-1. **讨论中的；有疑问的；不确定的**  
+1.**讨论中的；有疑问的；不确定的**  
 
 # ***question*** vt
 英文释义
@@ -291,7 +291,7 @@
 固定搭配
 ---
 - keep sth quiet / keep quiet about sth
-1. **对某事守口如瓶；保密：**  
+1.**对某事守口如瓶；保密：**  
  > We want to give him a surprise, so please keep quiet about it.  
  > 我们想给他一个惊喜，所以对此事务必要保密。
 

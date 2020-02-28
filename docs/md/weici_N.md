@@ -28,7 +28,7 @@
 固定搭配
 ---
 - name ... after 
-1. **以…的名字命名：**  
+1.**以…的名字命名：**  
  > Being a huge basketball fan, he wanted to name his son after Jordan.   
  > 他是个狂热的篮球迷，想给儿子取名为乔丹。
 
@@ -36,7 +36,7 @@
  > 杰克曾在一所乡村学校读书，该校是以他爷爷的名字命名的。
 
 - to name but a few
-1. **不一而足；略举几例：**  
+1.**不一而足；略举几例：**  
  > Activities available include cooking, swimming and fishing, to name but a few.  
  > 可进行的活动包括烹饪，游泳和钓鱼，略举几例。
 
@@ -63,12 +63,12 @@
 固定搭配
 ---
 - by the name of 
-1. **[正式用语] 名叫…的：**  
+1.**[正式用语] 名叫…的：**  
  > She is a British athlete by the name of Tanni Grey Thompson.   
  > 她是一名英国运动员，名叫坦妮·格雷·汤普森。
 
 - in the name of 
-1. **在…名下；以…的名义；代表 (in sb’s / sth’s name)：**  
+1.**在…名下；以…的名义；代表 (in sb’s / sth’s name)：**  
  > I arrest you in the name of the law.   
  > 我依法逮捕你。
 
@@ -76,12 +76,12 @@
  > 我已经用你的名字预订了一张桌子。
 
 - make a name (for oneself) / make one’s name 
-1. **成名；出名：**  
+1.**成名；出名：**  
  > She first made her name as a writer of children’s books.   
  > 她最初以写儿童读物成名。
 
 - under the name of 
-1. **以…为别名**  
+1.**以…为别名**  
 
 # ***namely*** adv
 英文释义
@@ -280,17 +280,17 @@
 固定搭配
 ---
 - (get / go) back to nature
-1. **回归自然；返璞归真：**  
+1.**回归自然；返璞归真：**  
  > City workers want to get back to nature in their holidays.  
  > 城市上班族希望休假时可以回归自然。
 
 - by nature 
-1. **天生地；出于本性地：**  
+1.**天生地；出于本性地：**  
  > Children are curious by nature.   
  > 孩子生性好奇。
 
 - in sb’s nature 
-1. **本性如此：**  
+1.**本性如此：**  
  > It is not in his nature to be “selfish” and “rude”.  
  > “自私”和“粗鲁”不是他的本性。
 
@@ -399,7 +399,7 @@
 固定搭配
 ---
 - not nearly 
-1. **根本不；远不及：**  
+1.**根本不；远不及：**  
  > It’s not nearly as hot as last year.   
  > 天气远没有去年那么热。
 
@@ -463,14 +463,14 @@
 固定搭配
 ---
 - do the necessary
-1. **做必要的事**  
+1.**做必要的事**  
 - if necessary 
-1. **如果必要的话：**  
+1.**如果必要的话：**  
  > We should help those who are in great need if necessary.  
  > 必要的话，我们应该帮助那些非常需要帮助的人。
 
 - when necessary 
-1. **必要时：**  
+1.**必要时：**  
  > The army needs men who are willing to fight, when necessary.  
  > 军队需要必要时愿意投入战斗的人。
 
@@ -534,7 +534,7 @@
 固定搭配
 ---
 - in need 
-1. **在困难中；在困境中：**  
+1.**在困难中；在困境中：**  
  > A friend in need is a friend indeed.   
  > 患难见真情。
 
@@ -542,7 +542,7 @@
  > 我们社会上的每个人都应该帮助那些有困难的人。
 
 - in need of
-1. **需要：**  
+1.**需要：**  
  > The gentleman never fails to help whoever is in need of help.  
  > 这位先生总是帮助任何需要帮助的人。
 
@@ -591,7 +591,7 @@
 固定搭配
 ---
 - needn’t have done sth 
-1. **原本不必做某事：**  
+1.**原本不必做某事：**  
  > As you worked late yesterday, you needn’t have come this morning.  
  > 你昨天工作到很晚，今天早上你原本可以不来。
 
@@ -742,9 +742,9 @@
 固定搭配
 ---
 - Me neither. 
-1. **我也不 (…)。**  
+1.**我也不 (…)。**  
 - neither ... nor 
-1. **既不…也不：**  
+1.**既不…也不：**  
  > Neither you nor I am wrong.   
  > 你没错，我也没错。
 
@@ -783,7 +783,7 @@
 固定搭配
 ---
 - get on sb’s nerves 
-1. **令某人焦躁：**  
+1.**令某人焦躁：**  
  > Stop whistling! It’s getting on my nerves!  
  > 别吹口哨了!扰得我心烦!
 
@@ -966,7 +966,7 @@
 固定搭配
 ---
 - next to 
-1. **紧挨着 (beside)；仅次于：**  
+1.**紧挨着 (beside)；仅次于：**  
  > He sits down at a table next to the front window.   
  > 他在靠近前窗的桌子旁坐下来。
 
@@ -1076,12 +1076,12 @@
 固定搭配
 ---
 - all night (long) 
-1. **整夜：**  
+1.**整夜：**  
  > I lay awake all night (long).  
  > 我整夜没睡着。
 
 - night and day / day and night 
-1. **日日夜夜；夜以继日：**  
+1.**日日夜夜；夜以继日：**  
  > He was so diligent that he worked day and night.  
  > 他非常勤奋，夜以继日地工作。
 
@@ -1147,7 +1147,7 @@
 固定搭配
 ---
 - there’s no doing sth
-1. **[用于强调] 不可能做某事:**  
+1.**[用于强调] 不可能做某事:**  
  > There’s no knowing which team will win.   
  > 无法预知哪个队会赢。
 
@@ -1266,7 +1266,7 @@
 固定搭配
 ---
 - none but
-1. **仅仅；只有：**  
+1.**仅仅；只有：**  
  > None but he knew the truth.  
  > 只有他知道真相。
 
@@ -1340,7 +1340,7 @@
 固定搭配
 ---
 - go back / return to normal 
-1. **恢复正常：**  
+1.**恢复正常：**  
  > The crisis has passed and life will go back to normal soon.   
  > 危机已经过去，生活很快就会恢复正常。
 
@@ -1577,19 +1577,19 @@
 固定搭配
 ---
 - not a / one 
-1. **一个…也不：**  
+1.**一个…也不：**  
  > Not a man was killed in the accident.   
  > 那次事故中没有人员死亡。
 
 - not at all 
-1. **根本不；别客气**  
+1.**根本不；别客气**  
 - not ... but 
-1. **不是…而是：**  
+1.**不是…而是：**  
  > Life is not a competition, but a trip, step by step.  
  > 生活不是竞赛，而是一场一步接着一步的旅行。
 
 - not that 
-1. **倒不是：**  
+1.**倒不是：**  
  > She didn’t attend the meeting; not that she was busy.  
  > 她没有参加会议，倒不是因为忙。
 
@@ -1633,17 +1633,17 @@
 固定搭配
 ---
 - compare notes (with sb) 
-1. **(与某人) 交换意见 / 信息：**  
+1.**(与某人) 交换意见 / 信息：**  
  > We saw the play separately and compared notes afterwards.  
  > 我们分别观看了那出戏，随后交换了意见。
 
 - make / take notes 
-1. **记笔记：**  
+1.**记笔记：**  
  > Mary is really good at taking / making notes in class.  
  > 玛丽很会记课堂笔记。
 
 - take note of 
-1. **注意 (notice)：**  
+1.**注意 (notice)：**  
  > Next time you chat with a friend, take note of how you’re sitting.    
  > 下次你和朋友聊天时，注意一下你的坐姿。
 
@@ -1671,7 +1671,7 @@
 固定搭配
 ---
 - note down
-1. **记下；记录：**  
+1.**记下；记录：**  
  > The policeman noted down what I said.  
  > 警察记下了我说的话。
 
@@ -1713,7 +1713,7 @@
 固定搭配
 ---
 - for nothing
-1. **免费地 (free)；徒劳地：**  
+1.**免费地 (free)；徒劳地：**  
  > They repaired my bike for nothing.  
  > 他们免费为我修了自行车。
 
@@ -1721,12 +1721,12 @@
  > 我到达时，他已经离开。我白跑了一趟。
 
 - have nothing to do with
-1. **和…无关：**  
+1.**和…无关：**  
  > John’s success has nothing to do with good luck. It is years of hard work that has made him what he is today.  
  > 约翰的成功跟好运无关，而是多年的努力成就了如今的他。
 
 - nothing but
-1. **只有；仅仅：**  
+1.**只有；仅仅：**  
  > Sandy could do nothing but admit to his teacher that he was wrong.  
  > 山迪只能向老师承认自己错了。
 
@@ -1734,12 +1734,12 @@
  > 别担心，这只不过是个玩笑。
 
 - nothing like
-1. **完全不像；完全不：**  
+1.**完全不像；完全不：**  
  > It looks nothing like a horse.  
  > 它看上去根本不像一匹马。
 
 - there’s nothing like
-1. **什么都比不上…；…非常好：**  
+1.**什么都比不上…；…非常好：**  
  > There’s nothing like an ice-cold drink on a hot day.  
  > 炎热的日子里，什么都比不上喝杯冰镇饮料。
 
@@ -1763,7 +1763,7 @@
 固定搭配
 ---
 - for nothing 
-1. **免费地；徒劳地：**  
+1.**免费地；徒劳地：**  
  > They repaired my bike for nothing.   
  > 他们免费为我修了自行车。
 
@@ -1771,12 +1771,12 @@
  > 我到达时，他已经离开。我白跑了一趟。
 
 - have nothing to do with 
-1. **和…无关：**  
+1.**和…无关：**  
  > John’s success has nothing to do with good luck. It is years of hard work that has made him what he is today.  
  > 约翰的成功跟好运无关，而是多年的努力成就了如今的他。
 
 - nothing but / except 
-1. **除…以外什么也不；只有；只不过：**  
+1.**除…以外什么也不；只有；只不过：**  
  > I heard a confused noise around me, but could see nothing except the sky.   
  > 我隐约听到身边有模糊的噪音，但是除了天空什么也没看到。
 
@@ -1787,12 +1787,12 @@
  > 别担心，这只不过是个玩笑。
 
 - nothing like 
-1. **完全不像；完全不：**  
+1.**完全不像；完全不：**  
  > It looks nothing like a horse.   
  > 它看上去根本不像一匹马。
 
 - there’s nothing like 
-1. **什么都比不上…；…非常好：**  
+1.**什么都比不上…；…非常好：**  
  > There’s nothing like an ice-cold drink on a hot day.  
  > 炎热的日子里，什么都比不上喝杯冰镇饮料。
 
@@ -1895,7 +1895,7 @@
 固定搭配
 ---
 - (every) now and then / again 
-1. **时而；偶尔：**  
+1.**时而；偶尔：**  
  > Snakes come near the house now and then.   
  > 时不时会有蛇爬到房子附近。
 
@@ -1903,17 +1903,17 @@
  > 他偶尔还来看我。
 
 - for now
-1. **目前；暂时：**  
+1.**目前；暂时：**  
  > Although these measures are not effective forever, they are vital for now.  
  > 尽管这些措施不会永远有效，但目前还是极为重要的。
 
 - from now on
-1. **从现在起：**  
+1.**从现在起：**  
  > I’ll face everything unpleasant tolerantly from now on.  
  > 从现在开始，我将包容地面对所有不愉快的事情。
 
 - just now 
-1. **刚才；现在：**  
+1.**刚才；现在：**  
  > Tom was here just now.   
  > 汤姆刚才在这儿的。
 
@@ -1921,7 +1921,7 @@
  > 现在别讨论这件事。
 
 - up to now / until now / till now
-1. **迄今为止：**  
+1.**迄今为止：**  
  > Up to / Until now, the program has saved thousands of children who would otherwise have died.  
  > 到目前为止，这项计划已经挽救了成千上万名原本会死亡的那些孩子。
 
@@ -1982,12 +1982,12 @@
 固定搭配
 ---
 - nowhere near 
-1. **离…差得远；远谈不上：**  
+1.**离…差得远；远谈不上：**  
  > Our budget is nowhere near enough.   
  > 我们的预算远远不够。
 
 - nowhere to be found / seen
-1. **哪儿也找不到 / 看不到：**  
+1.**哪儿也找不到 / 看不到：**  
  > **nowhere to be found**  
  > I left my necklace on the table by the bed, but it is just nowhere to be found.  
  > 我把项链放在床边的桌子上了，但是现在哪儿也找不到。

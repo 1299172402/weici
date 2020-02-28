@@ -121,7 +121,7 @@
 固定搭配
 ---
 - in rags 
-1. **衣衫褴褛：**  
+1.**衣衫褴褛：**  
 
 # ***raid*** n
 英文释义
@@ -262,7 +262,7 @@
 固定搭配
 ---
 - at random 
-1. **任意地；随机地：**  
+1.**任意地；随机地：**  
  > Choose any number at random.   
  > 随机抽取一个数字。
 
@@ -306,9 +306,9 @@
 固定搭配
 ---
 - in / within range (of) 
-1. **在 (…的) 范围内**  
+1.**在 (…的) 范围内**  
 - out of range (of) 
-1. **超出(…的) 范围：**  
+1.**超出(…的) 范围：**  
 
 # ***range*** v  重难点词汇
 英文释义
@@ -468,17 +468,17 @@
 固定搭配
 ---
 - at any rate 
-1. **无论如何 (anyway)：**  
+1.**无论如何 (anyway)：**  
  > At any rate, the medical supplies will reach you within a week.   
  > 无论如何，医疗物资将于一周内运到你处。
 
 - at this / that rate 
-1. **这样 / 那样的话：**  
+1.**这样 / 那样的话：**  
  > If you go on at that rate, you will damage your health.   
  > 如果继续那样的话，你会把身体搞垮的。
 
 - first-rate / second-rate / third-rate
-1. **一流的 / 二流的 / 三流的**  
+1.**一流的 / 二流的 / 三流的**  
 
 # ***rate*** vt
 英文释义
@@ -517,12 +517,12 @@
 固定搭配
 ---
 - (or) rather 
-1. **更确切地说：**  
+1.**更确切地说：**  
  > He worked till late last night, or rather, early this morning.   
  > 他昨晚一直工作到深夜，更确切地说，是到今天凌晨。
 
 - rather than 
-1. **而不：**  
+1.**而不：**  
  > It is better to express your anger, rather than bottle it up.   
  > 将怒气发泄出来更好，而不要憋在心里。
 
@@ -530,7 +530,7 @@
  > 当播放古典音乐而不是流行音乐时，用餐者们消费了更多。
 
 - would rather ... (than) 
-1. **宁愿 / 宁可… (而不)：**  
+1.**宁愿 / 宁可… (而不)：**  
  > — Will you join us in the game?  
  > 和我们一起玩游戏吧？
 
@@ -665,7 +665,7 @@
 固定搭配
 ---
 - reach out to sb 
-1. **向某人提供 / 寻求帮助：**  
+1.**向某人提供 / 寻求帮助：**  
  > When you need help, reach out to the people who care about you.  
  > 当你需要帮助时，向那些关心你的人寻求帮助。
 
@@ -760,7 +760,7 @@
 固定搭配
 ---
 - read out 
-1. **大声读出；宣读**  
+1.**大声读出；宣读**  
 
 # ***read*** n
 英文释义
@@ -896,7 +896,7 @@
 固定搭配
 ---
 - in reality 
-1. **实际上；事实上：**  
+1.**实际上；事实上：**  
  > Outwardly she seemed confident but in reality she felt extremely nervous.   
  > 表面上她似乎很自信，其实她感到极其紧张。
 
@@ -950,7 +950,7 @@
 固定搭配
 ---
 - Not really. 
-1. **[表示否定，语气较弱] 不是。**  
+1.**[表示否定，语气较弱] 不是。**  
 
 # ***realm*** n
 英文释义
@@ -980,22 +980,22 @@
 固定搭配
 ---
 - by reason of 
-1. **由于：**  
+1.**由于：**  
  > He won the first prize by reason of hard work.  
  > 由于刻苦用功，他获得了一等奖。
 
 - for some reason 
-1. **不知什么原因：**  
+1.**不知什么原因：**  
  > For some reason they cancelled the plan.  
  > 不知为什么他们取消了计划。
 
 - in (all) reason 
-1. **明智；合情合理：**  
+1.**明智；合情合理：**  
  > I would do anything in reason.   
  > 只要是合情合理的事，我都愿意做。
 
 - with / without reason 
-1. **有 / 没有道理：**  
+1.**有 / 没有道理：**  
  > He argued with much reason.   
  > 他辩论得头头是道。
 
@@ -1355,7 +1355,7 @@
 固定搭配
 ---
 - break / beat / cut the / a record 
-1. **打破纪录：**  
+1.**打破纪录：**  
  > She’s hoping to break the record for the 100 metres.  
  > 她希望能打破百米纪录。
 
@@ -1496,26 +1496,26 @@
 固定搭配
 ---
 - refer (...) to
-1. *高义频：* **谈到；提到**  
+1.*高义频：* **谈到；提到**  
  > The scientist referred to global warming at least three times in his speech.  
  > 那位科学家在演讲中至少3次提到了全球气候变暖。
 
  > The hospital now refers to patients by name, not case number.  
  > 医院现在叫病人的名字，不叫病例号码了。
 
-2. *高义频：* **查阅；参考**  
+2.*高义频：* **查阅；参考**  
  > refer to a dictionary to check the spelling  
  > 查一下词典看看拼写是否正确
 
  > While giving the English speech, one is not allowed to refer to the notes.  
  > 作英语演讲时，参赛选手不得看讲稿。
 
-3. *高义频：* **指的是**  
+3.*高义频：* **指的是**  
  > **referred to**  
  > Pritzker Architecture Prize is referred to as the Nobel Prize in architecture.  
  > 普利兹克建筑奖有建筑界的诺贝尔奖之称。
 
-4. *低义频：* **把…交送给：**  
+4.*低义频：* **把…交送给：**  
  > **refer,to**  
  > My colleague said that as the situation was unusual he would refer the matter to his editor.  
  > 我同事说由于情况非同寻常，他会把这个问题交给他的编辑处理。
@@ -1547,7 +1547,7 @@
 固定搭配
 ---
 - in / with reference to
-1. **关于；根据…而论：**  
+1.**关于；根据…而论：**  
  > In reference to your question about cost, the tickets for the film are 35 yuan each.  
  > 关于你询问的价格，那部电影的票价是每张35元。
 
@@ -1700,7 +1700,7 @@
 固定搭配
 ---
 - with / in regard to sth
-1. **[正式用语] 关于某事：**  
+1.**[正式用语] 关于某事：**  
  > With / In regard to his suggestions, we shall discuss them fully.   
  > 关于他的建议，我们将充分讨论。
 
@@ -1718,7 +1718,7 @@
 固定搭配
 ---
 - regardless of 
-1. **不管；不顾：**  
+1.**不管；不顾：**  
  > Nobody has the right to spit in the street regardless of their social position or age.   
  > 不管社会地位或年龄如何，没人有权当街吐痰。
 
@@ -1956,7 +1956,7 @@
 固定搭配
 ---
 - (be) related to 
-1. **与…有关：**  
+1.**与…有关：**  
  > The “new four great inventions” are all related to China’s high-tech innovation.  
  > “新四大发明”都与中国高科技创新有关。
 
@@ -1983,7 +1983,7 @@
 固定搭配
 ---
 - in relation to 
-1. **[正式用语] 关于；与…相比：**  
+1.**[正式用语] 关于；与…相比：**  
  > I have a lot to say in relation to this affair.   
  > 关于这件事，我有很多话要说。
 
@@ -2180,7 +2180,7 @@
 固定搭配
 ---
 - in / with relief
-1. **如释重负；松了口气：**  
+1.**如释重负；松了口气：**  
  > Hearing that he had passed the exam, he sighed in / with relief.  
  > 听说自己通过了考试，他松了口气。
 
@@ -2216,7 +2216,7 @@
 固定搭配
 ---
 - rely on / upon
-1. *高义频：* **依靠**  
+1.*高义频：* **依靠**  
 - rely on / upon … to do sth:
 
  > These days, we rely heavily on computers to organize our work.  
@@ -2226,7 +2226,7 @@
  > You shouldn’t always rely just on the Internet for your research.  
  > 你不能总是依靠网络进行研究。
 
-2. *高义频：* **信任**  
+2.*高义频：* **信任**  
 - rely on / upon … to do sth:
 
  > I can rely on David to keep my secret.  
@@ -2368,7 +2368,7 @@
 固定搭配
 ---
 - be remembered as / for 
-1. **因…而著名：**  
+1.**因…而著名：**  
  > Madame Curie will always be remembered as the discoverer of the element radium.   
  > 居里夫人作为镭元素的发现者将永远被人们记住。
 
@@ -2526,9 +2526,9 @@
 固定搭配
 ---
 - beyond repair 
-1. **无法修复**  
+1.**无法修复**  
 - under repair 
-1. **在修理中：**  
+1.**在修理中：**  
  > The castle built in 1432 is under repair.   
  > 这座建于1432年的城堡正在修缮中。
 
@@ -2588,7 +2588,7 @@
 固定搭配
 ---
 - replace ... with / by 
-1. **用…替换：**  
+1.**用…替换：**  
  > They replaced their beloved old cars with expensive new sports cars.   
  > 他们用昂贵的新跑车替代了钟爱的旧车。
 
@@ -2621,7 +2621,7 @@
 固定搭配
 ---
 - in reply to 
-1. **[正式用语] 为答复：**  
+1.**[正式用语] 为答复：**  
  > **in reply to**  
  > I’m writing in reply to your letter of June 1st.   
  > 我写这封信是为了回复你6月1日的来信。
@@ -2794,7 +2794,7 @@
 固定搭配
 ---
 - at sb’s request / at the request of sb 
-1. **应某人的要求：**  
+1.**应某人的要求：**  
  > The students were there at the teacher’s request.   
  > 学生们应老师的要求到了那里。
 
@@ -3105,9 +3105,9 @@
 固定搭配
 ---
 - in respect of 
-1. **关于；就…而言**  
+1.**关于；就…而言**  
 - with respect to 
-1. **关于；就…而言**  
+1.**关于；就…而言**  
 
 # ***respectful*** adj
 英文释义
@@ -3152,7 +3152,7 @@
 固定搭配
 ---
 - in response (to) 
-1. **作为 (对…的) 回答 / 反应：**  
+1.**作为 (对…的) 回答 / 反应：**  
  > The government acted in response to economic pressure.   
  > 政府为应对经济压力采取了行动。
 
@@ -3282,7 +3282,7 @@
 固定搭配
 ---
 - as a result (of) 
-1. **作为 (…的) 结果：**  
+1.**作为 (…的) 结果：**  
  > Alice overslept this morning. As a result, she was late for work.  
  > 艾丽斯今天早上睡过了头，结果上班迟到了。
 
@@ -3298,12 +3298,12 @@
 固定搭配
 ---
 - result from 
-1. **因…发生；随…产生：**  
+1.**因…发生；随…产生：**  
  > Pollution and other serious problems have resulted from human progress.   
  > 人类的发展引起了污染和其他严重的问题。
 
 - result in 
-1. **造成；导致 (cause / lead to)：**  
+1.**造成；导致 (cause / lead to)：**  
  > I learned that shouting and threats of punishment would result in a disaster.  
  > 我认识到叫嚣和威胁惩罚会导致祸端。
 
@@ -3390,7 +3390,7 @@
 固定搭配
 ---
 - in return (for sth) 
-1. **作为 (…的) 交换; 作为 (…的) 回报：**  
+1.**作为 (…的) 交换; 作为 (…的) 回报：**  
  > If we smile at life, life will smile on us in return.    
  > 如果我们微笑地面对生活，生活也会以微笑回报我们。
 
@@ -3427,7 +3427,7 @@
 固定搭配
 ---
 - return to
-1. **(使) 恢复；继续做；重新做：**  
+1.**(使) 恢复；继续做；重新做：**  
  > **return to normal**  
  > Even with treatment, they may never return to normal.    
  > 即使经过治疗，他们也可能无法恢复正常。
@@ -3706,7 +3706,7 @@
 固定搭配
 ---
 - be rich in 
-1. **在…方面丰富：**  
+1.**在…方面丰富：**  
  > The country is rich in resources.   
  > 这个国家资源丰富。
 
@@ -3720,7 +3720,7 @@
 固定搭配
 ---
 - be / get rid of 
-1. **摆脱；除去：**  
+1.**摆脱；除去：**  
  > He is rid of fever.   
  > 他不发烧了。
 
@@ -3728,7 +3728,7 @@
  > 我们除不掉鱼腥味。
 
 - rid sb / sth of sth
-1. **[正式用语] 使摆脱；使除掉：**  
+1.**[正式用语] 使摆脱；使除掉：**  
  > Thanks to his research, the UN has more tools in the battle to rid the world of hunger.   
  > 由于他的研究，联合国在消除世界饥饿的战斗中有了更多的方法。
 
@@ -3826,12 +3826,12 @@
 固定搭配
 ---
 - right now 
-1. **现在；立刻；马上：**  
+1.**现在；立刻；马上：**  
  > I’d better clean the screen of computer right now.   
  > 我还是现在就把电脑屏幕擦干净吧。
 
 - right away 
-1. **立刻：**  
+1.**立刻：**  
  > Imagine your home begins to shake and you must leave it right away.   
  > 设想一下你家开始摇晃了，你必须立刻离开。
 
@@ -3905,9 +3905,9 @@
 固定搭配
 ---
 - ring off 
-1. **挂断电话**  
+1.**挂断电话**  
 - ring up 
-1. **打电话 (给)：**  
+1.**打电话 (给)：**  
  > I’ll ring him up again.   
  > 我会再打电话给他。
 
@@ -3994,7 +3994,7 @@
 固定搭配
 ---
 - give rise to 
-1. **[正式用语] 引起；导致 (尤指坏事)：**  
+1.**[正式用语] 引起；导致 (尤指坏事)：**  
  > This may give rise to prejudices of the educated against those with little knowledge of English.  
  > 这可能导致受过教育的人对那些不太懂英语的人产生偏见。
 
@@ -4020,7 +4020,7 @@
 固定搭配
 ---
 - at risk (from / of) 
-1. **有危险：**  
+1.**有危险：**  
  > **put at risk**  
  > If we go to war, innocent lives will be put at risk.   
  > 如果我们发动战争，无辜的生命就会受到威胁。
@@ -4029,17 +4029,17 @@
  > 一些地方水位升高，很多房子都有被洪水淹没的危险。
 
 - at the risk of doing sth 
-1. **冒着做某事的风险：**  
+1.**冒着做某事的风险：**  
  > He saved my life at the risk of losing his own.   
  > 他冒着生命危险救了我的命。
 
 - run / take a risk 
-1. **冒险 (run / take risks)：**  
+1.**冒险 (run / take risks)：**  
  > He felt he had to decide on every step instead of taking risks.   
  > 他觉得他必须考虑好每一步，而不能冒险。
 
 - run / take the risk of doing sth 
-1. **冒险做某事：**  
+1.**冒险做某事：**  
  > Mary couldn’t take the risk of leaving her baby alone even for a short time.   
  > 玛丽不敢冒险让她的孩子独自待着，即使是很短的时间。
 
@@ -4141,7 +4141,7 @@
 固定搭配
 ---
 - rob sb of sth 
-1. **抢走某人的某物：**  
+1.**抢走某人的某物：**  
  > The young man robbed her of her bag.   
  > 那个年轻人抢走了她的包。
 
@@ -4228,7 +4228,7 @@
  > 主角
 
 - play the role of
-1. **扮演…的角色：**  
+1.**扮演…的角色：**  
  > He played the role of a successful lawyer in the play.  
  > 他在剧中扮演一位成功的律师。
 
@@ -4241,7 +4241,7 @@
 固定搭配
 ---
 - play a(n) … role in 
-1. **在…中起…作用：**  
+1.**在…中起…作用：**  
  > Farming plays an important role in the country’s economy.   
  > 农业在该国经济中起着重要的作用。
 
@@ -4267,7 +4267,7 @@
 固定搭配
 ---
 - roll over 
-1. **翻身；打滚**  
+1.**翻身；打滚**  
 
 # ***roll*** n
 英文释义
@@ -4563,7 +4563,7 @@
 固定搭配
 ---
 - in a row 
-1. **排成一排；连续地：**  
+1.**排成一排；连续地：**  
  > The children were asked to stand in a row.   
  > 孩子们被要求站成一列。
 
@@ -4652,7 +4652,7 @@
 固定搭配
 ---
 - be rude to sb 
-1. **对某人无礼：**  
+1.**对某人无礼：**  
  > You mustn’t be rude to teachers.  
  > 不能对老师无礼。
 
@@ -4700,7 +4700,7 @@
 固定搭配
 ---
 - in ruins 
-1. **成废墟；严重受损：**  
+1.**成废墟；严重受损：**  
  > **lay in ruins**  
  > In fifteen terrible seconds a large city lay in ruins.  
  > 在可怕的15秒内，一座大城市就沦为一片废墟。
@@ -4737,7 +4737,7 @@
 固定搭配
 ---
 - rule out 
-1. **排除；取消：**  
+1.**排除；取消：**  
  > We can’t rule out the possibility that he’ll come after all.   
  > 我们不能排除他最终会来的可能性。
 
@@ -4810,7 +4810,7 @@
 固定搭配
 ---
 - run across 
-1. **跑着穿过；偶然碰见：**  
+1.**跑着穿过；偶然碰见：**  
  > He ran across the fields.   
  > 他跑过了田野。
 
@@ -4818,7 +4818,7 @@
  > 我在米兰的一次大会上碰到了他。
 
 - run after 
-1. **追赶；追求：**  
+1.**追赶；追求：**  
  > If you run after two hares, you will catch neither.   
  > 面面俱到，诸事未了。
 
@@ -4826,7 +4826,7 @@
  > 据说约翰总是追求年轻女子。
 
 - run away (from) 
-1. **逃走；逃避：**  
+1.**逃走；逃避：**  
  > The thief heard the noise and ran away quickly.   
  > 小偷听到声音，匆忙逃走了。
 
@@ -4834,7 +4834,7 @@
  > 见了困难就躲是不负责的。
 
 - run into 
-1. **撞上；偶然遇见；遇到 (困难等)：**  
+1.**撞上；偶然遇见；遇到 (困难等)：**  
  > The driver of a large truck, unable to stop in time, ran into our car.   
  > 大卡车司机没能及时停车，撞上了我们的车。
 
@@ -4845,7 +4845,7 @@
  > 我刚开始学习用英语写作时，遇到了很多困难。
 
 - run out (of)
-1. **用完；耗尽：**  
+1.**用完；耗尽：**  
  > In the future, care for the environment will become very important as earth’s natural resources run out.  
  > 在未来，爱护环境将会很重要，因为地球的资源将濒临枯竭。
 
@@ -4853,7 +4853,7 @@
  > 在去海滩的路上，我的车因为汽油耗尽而抛锚了。
 
 - run over 
-1. **碾过；思考：**  
+1.**碾过；思考：**  
  > To the public’s sadness, she was run over and killed by the bus.   
  > 令公众伤心的是她被公共汽车撞死了。
 
@@ -4861,7 +4861,7 @@
  > 马克的脑子飞快地转着，把各种可能都一一作了考虑。
 
 - run through 
-1. **跑着穿过；把…匆匆过一遍**  
+1.**跑着穿过；把…匆匆过一遍**  
 
 # ***run*** n  重难点词汇
 英文释义
@@ -4882,7 +4882,7 @@
 固定搭配
 ---
 - in / over the long run 
-1. **从长远看：**  
+1.**从长远看：**  
  > A true friend will advise us to do what he thinks is best for us in the long run.   
  > 真正的朋友会建议我们做从长远来看对我们有利的事。
 

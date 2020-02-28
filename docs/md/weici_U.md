@@ -311,7 +311,7 @@
 固定搭配
 ---
 - make oneself understood 
-1. **[尤指用另一种语 言] 把自己的意思说清楚：**  
+1.**[尤指用另一种语 言] 把自己的意思说清楚：**  
  > Can you make yourself understood in English?  
  > 你能用英语说清楚自己的意思吗？
 
@@ -797,7 +797,7 @@
 固定搭配
 ---
 - it is not until … that 
-1. **直到…才…：**  
+1.**直到…才…：**  
  > It was not until he was thirty that he started to paint.  
  > 直到30岁，他才开始画画。
 
@@ -827,7 +827,7 @@
 固定搭配
 ---
 - it is not until … that
-1. **直到…才…：**  
+1.**直到…才…：**  
  > It was not until he was thirty that he started to paint.  
  > 直到30岁，他才开始画画。
 
@@ -905,7 +905,7 @@
 固定搭配
 ---
 - be up to sb
-1. **由某人决定；是某人的义务：**  
+1.**由某人决定；是某人的义务：**  
  > It’s up to you what kind of life you will lead in the future.  
  > 将来过怎样的生活取决于你自己。
 
@@ -916,7 +916,7 @@
  > 旅游公司有义务提醒顾客任何可能的危险。
 
 - up and down 
-1. **上上下下；前前后后：**  
+1.**上上下下；前前后后：**  
  > A butterfly is flying up and down among the flowers.  
  > 有一只蝴蝶正在花丛里飞来飞去。
 
@@ -924,23 +924,23 @@
  > 拉夫在房间里走来走去，看起来很着急。
 
 - up to
-1. *高义频：* **达到；最多有：**  
+1.*高义频：* **达到；最多有：**  
  > She has treated many patients who wash their hands up to 30 times a day.  
  > 她曾经治疗过很多每天要洗30次手的病人。
 
  > I can take up to four people in my car  
  > 我最多能带4个人坐我的车。
 
-2. *高义频：* **直到 (up till / until)：**  
+2.*高义频：* **直到 (up till / until)：**  
  > Up to now, I’ve understood everything the teacher’s said.  
  > 到现在，我已经理解了老师所讲的全部内容。
 
-3. *低义频：* **从事于；忙于：**  
+3.*低义频：* **从事于；忙于：**  
  > What are you up to this weekend?  
  > 这周末你打算做什么?
 
 - up until
-1. **直到 (up to)：**  
+1.**直到 (up to)：**  
  > They are only allowed to play music up until 10:30 on week nights, and it’s already 11:30.   
  > 平时只允许他们在晚上10点半之前放音乐，可是现在已经11点半了。
 
@@ -949,7 +949,7 @@
 固定搭配
 ---
 - ups and downs
-1. **好运和坏运的交替；盛衰；沉浮：**  
+1.**好运和坏运的交替；盛衰；沉浮：**  
  > In spite of ups and downs, she never takes her fate lying down.  
  > 尽管起起伏伏，但她从不甘心任凭命运摆布。
 
@@ -1239,7 +1239,7 @@
 固定搭配
 ---
 - use up 
-1. **用光；耗尽：**  
+1.**用光；耗尽：**  
  > The human race is using up Earth’s resources.   
  > 人类正在耗尽地球上的资源。
 
@@ -1271,12 +1271,12 @@
 固定搭配
 ---
 - come into use 
-1. **开始被使用：**  
+1.**开始被使用：**  
  > When did the umbrella come into use?  
  > 雨伞是什么时候开始使用的？
 
 - have no use for 
-1. **不需要；不喜欢：**  
+1.**不需要；不喜欢：**  
  > People may have no use for your gift, but the effort is appreciated.   
  > 人们可能用不上你的礼物，但还是会感激你送礼。
 
@@ -1284,27 +1284,27 @@
  > 我不喜欢那样的小说。
 
 - in use 
-1. **在使用着：**  
+1.**在使用着：**  
  > Turn off everything not in use: lights, TVs, computers.   
  > 关掉所有不用的电器：灯、电视和电脑。
 
 - it is no use doing sth 
-1. **做某事没有用 / 意义：**  
+1.**做某事没有用 / 意义：**  
  > I think it is no use crying about your exam results now.   
  > 我想现在为考试成绩哭泣没什么意义了。
 
 - make use of 
-1. **利用：**  
+1.**利用：**  
  > To be a good learner, you must make full use of library books, newspapers and magazines.   
  > 要成为善于学习的人，你必须充分利用图书馆里的图书、报纸和杂志。
 
 - of use 
-1. **有用的 (useful)：**  
+1.**有用的 (useful)：**  
  > I hope this information will be of use to you.   
  > 希望这些信息对你有用。
 
 - put sth to use
-1. **利用某事物：**  
+1.**利用某事物：**  
  > It was time to put the tips he had learned to use.  
  > 到了运用他所学到的窍门的时候了。
 
@@ -1370,7 +1370,7 @@
 固定搭配
 ---
 - as usual
-1. **像平常一样；照例(as always)：**  
+1.**像平常一样；照例(as always)：**  
  > Wang Wei rode in front of me as usual.   
  > 像平时那样，王薇骑车在我的前面。
 

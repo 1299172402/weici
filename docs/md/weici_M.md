@@ -337,7 +337,7 @@
 固定搭配
 ---
 - be made from / of 
-1. **由…制造；用…为原料制取：**  
+1.**由…制造；用…为原料制取：**  
  > Early paper in China was made from bamboo fibre.   
  > 中国早期的纸是由竹子纤维制成的。
 
@@ -345,9 +345,9 @@
  > 在中世纪时，房子是由木头建造的。
 
 - make away with
-1. **[非正式用语] 偷走**  
+1.**[非正式用语] 偷走**  
 - make … into 
-1. **把…变成 (turn ... into)：**  
+1.**把…变成 (turn ... into)：**  
  > We can make your room into a study.   
  > 我们可以把你的房间改成书房。
 
@@ -355,27 +355,27 @@
  > 人们靠自己的努力使自己成为赢家。
 
 - make it
-1. *高义频：* **做到；成功：**  
+1.*高义频：* **做到；成功：**  
  > As long as you have a dream, keep trying and you’ll make it.  
  > 只要你有梦想，不断努力就一定会成功。
 
  > How many of you made it to the top of the mountain in the end?  
  > 你们中有多少人最终爬到了山顶？
 
-2. *高义频：* **(尤指在困难情况下) 准时到达；赶上：**  
+2.*高义频：* **(尤指在困难情况下) 准时到达；赶上：**  
  > The flight leaves in twenty minutes — we’ll never make it.   
  > 再过20分钟飞机就要起飞，我们无论如何也赶不上了。
 
-3. *高义频：* **渡过难关：**  
+3.*高义频：* **渡过难关：**  
  > Shay didn’t make it to another summer and died that winter.   
  > 谢伊没有熬到第二年夏天，他在那个冬天就去世了。
 
-4. *高义频：* **[口语] 能参加；能出席：**  
+4.*高义频：* **[口语] 能参加；能出席：**  
  > I’m sorry I didn’t make it to your party last night.  
  > 我很抱歉昨晚没能参加你的聚会。
 
 - make out
-1. *高义频：* **勉强看见；听出(distinguish)：**  
+1.*高义频：* **勉强看见；听出(distinguish)：**  
  > I could barely make out the stage in the darkness.   
  > 黑暗中我几乎看不见舞台。
 
@@ -383,20 +383,20 @@
  > I could hear voices but I couldn’t make out what they were saying.  
  > 我能听到说话的声音，但听不清他们在说什么。
 
-2. *高义频：* **理解；弄清：**  
+2.*高义频：* **理解；弄清：**  
  > His writing is so confusing that it’s difficult to make out what he is trying to express.  
  > 他的笔迹模糊不清，很难弄清他到底想表达什么。
 
-3. *低义频：* **写出；开列：**  
+3.*低义频：* **写出；开列：**  
  > She was making out a list of people to invite.   
  > 她正在写一份邀请名单。
 
-4. *低义频：* **装作；假装：**  
+4.*低义频：* **装作；假装：**  
  > He made out that he was a famous doctor.   
  > 他假装自己是一名知名医生。
 
 - make up
-1. *高义频：* **[不用于进行时] 组成；构成：**  
+1.*高义频：* **[不用于进行时] 组成；构成：**  
  > In some languages, 100 words make up half of all words used in daily conversations.   
  > 在一些语言中，100个词就构成了一半的日常会话用语。
 
@@ -404,23 +404,23 @@
  > Astronomy is a scientific subject made up of mathematics and physics.   
  > 天文学是一门由数学和物理组成的自然学科。
 
-2. *高义频：* **编写；编造：**  
+2.*高义频：* **编写；编造：**  
  > make up some excuses   
  > 编造借口
 
  > At your first meeting you should make up a rule book.   
  > 在第一次会议上，你要编写出一个规章手册。
 
-3. *低义频：* **为…化妆：**  
+3.*低义频：* **为…化妆：**  
  > They made him up as an old man for the last act of the play.   
  > 在演这出戏的最后一幕时，他们把他打扮成一个老头。
 
-4. *低义频：* **[非正式用语] 和解：**  
+4.*低义频：* **[非正式用语] 和解：**  
  > They have quarreled seriously three times but each time they have made up and become best friends gain.  
  > 她们之间发生过3次激烈的争吵，但每次都重归于好。
 
 - make up for 
-1. **弥补：**  
+1.**弥补：**  
  > Westerners should take advantage of the ancient Chinese wisdom to make up for the drawbacks of Western philosophy.  
  > 西方人应当利用古老的中国智慧弥补西方哲学的不足。
 
@@ -607,12 +607,12 @@
 固定搭配
 ---
 - all manner of 
-1. **[正式用语] 各种各样的：**  
+1.**[正式用语] 各种各样的：**  
  > The problem can be solved in all manner of ways.   
  > 这个问题可以用多种方式解决。
 
 - in a ... manner 
-1. **用…的方式 / 态度：**  
+1.**用…的方式 / 态度：**  
  > They worked in an orderly manner.   
  > 他们有条不紊地工作。
 
@@ -682,7 +682,7 @@
 固定搭配
 ---
 - a good / great many
-1. **很多 / 极多：**  
+1.**很多 / 极多：**  
  > **2005 江苏**  
  > This book contains a good many nice pictures.   
  > 这本书包含很多不错的图片。
@@ -691,12 +691,12 @@
  > 大部分年轻人上了战场，其中很多人再也没有回来。
 
 - as many as 
-1. **多达：**  
+1.**多达：**  
  > In the 1980s, as many as one million elephants were killed throughout Africa.   
  > 在20世纪80年代，整个非洲有多达100万头大象被杀。
 
 - many a 
-1. **[正式用语] [接可数名词单数作主语时，谓语动词用单数] 许多的；非常多的：**  
+1.**[正式用语] [接可数名词单数作主语时，谓语动词用单数] 许多的；非常多的：**  
  > Many a student has attended the lecture.   
  > 很多学生听了这场演讲。
 
@@ -799,7 +799,7 @@
 固定搭配
 ---
 - leave one's mark (on)
-1. **取得成功；出名：**  
+1.**取得成功；出名：**  
  > Winston Churchill has surely left his mark on world history.  
  > 温斯顿 · 丘吉尔已然在世界历史上留下了大名。
 
@@ -855,7 +855,7 @@
 固定搭配
 ---
 - on the market 
-1. **在出售；可买到：**  
+1.**在出售；可买到：**  
  > There are several new models on the market.   
  > 市面上有好几种新型号在售。
 
@@ -903,12 +903,12 @@
 固定搭配
 ---
 - be married to 
-1. **[表示状态] 与…结婚：**  
+1.**[表示状态] 与…结婚：**  
  > They have been married to each other for 20 years.   
  > 他们已经结婚20年了。
 
 - get married to 
-1. **[表示动作] 与…结婚：**  
+1.**[表示动作] 与…结婚：**  
  > Jane got married to her husband immediately after graduation.   
  > 简一毕业就嫁给了她丈夫。
 
@@ -1207,7 +1207,7 @@
 固定搭配
 ---
 - a matter of
-1. **关乎…的事情：**  
+1.**关乎…的事情：**  
  > Observance of law is a matter of principle for us.   
  > 遵守法律对我们而言是原则问题。
 
@@ -1215,7 +1215,7 @@
  > 减少交通事故的死亡人数不单是改善道路状况的问题。
 
 - no matter 
-1. **[与疑问词连用] 无论；不管：**  
+1.**[与疑问词连用] 无论；不管：**  
  > **no matter what**  
  > You and I will always be friends, no matter what happens.  
  > 不管发生什么，你我永远是朋友。
@@ -1225,7 +1225,7 @@
  > 无论雨多急、风多大，警察一直坚守在自己的岗位上。
 
 - take matters in to one's own hands
-1. **亲自处理**  
+1.**亲自处理**  
  > Alia took matters into her own hands.  
  > 阿利亚把事情揽过来自己处理。
 
@@ -1316,7 +1316,7 @@
 固定搭配
 ---
 - may as well (do) 
-1. **还是 (做) …好；倒不如 (做)：**  
+1.**还是 (做) …好；倒不如 (做)：**  
  > You may as well go home. He isn’t coming.   
  > 你还是回家去吧，他不来了。
 
@@ -1439,12 +1439,12 @@
 固定搭配
 ---
 - be meant to be 
-1. **被普遍认为是：**  
+1.**被普遍认为是：**  
  > The restaurant is meant to be excellent.   
  > 大家都说这家饭店很棒。
 
 - I mean 
-1. **[用于解释或更正刚说过的话] 我 (的意思) 是说：**  
+1.**[用于解释或更正刚说过的话] 我 (的意思) 是说：**  
  > — What do you think is the matter with your car?  
  > 你认为你的车有什么毛病？
 
@@ -1452,7 +1452,7 @@
  > 唉，它根本发动不起来，我是说，我转动了钥匙，结果什么反应也没有。
 
 - What do you mean ... ?
-1. **你是什么意思？**  
+1.**你是什么意思？**  
 - 
 
  > — Perhaps we should try another approach.  
@@ -1513,7 +1513,7 @@
 固定搭配
 ---
 - by all means 
-1. **尽一切办法；务必；[表示答应] 当然可以：**  
+1.**尽一切办法；务必；[表示答应] 当然可以：**  
  > Please by all means hand in the report on time.   
  > 请务必准时上交报告。
 
@@ -1524,12 +1524,12 @@
  > 当然。
 
 - by means of
-1. **[正式用语] 借助；依靠：**  
+1.**[正式用语] 借助；依靠：**  
  > This is a two-year course taught by means of lectures.  
  > 这是一门为期两年的通过讲座形式教授的课程。
 
 - by no means / not by any means
-1. **决不；一点也不 not at all：**  
+1.**决不；一点也不 not at all：**  
  > Punishment is by no means a wise choice to help students grow up mentally and physically.  
  > 惩罚绝对不是帮助学生身心成长的明智选择。
 
@@ -1545,7 +1545,7 @@
 固定搭配
 ---
 - in the meantime
-1. **在此期间；与此同时：**  
+1.**在此期间；与此同时：**  
  > The doctor will be here soon. In the meantime, try and relax.  
  > 医生很快就来。现在尽量放松一下吧。
 
@@ -1566,7 +1566,7 @@
 固定搭配
 ---
 - in the meanwhile / meantime 
-1. **在此期间；与此同时：**  
+1.**在此期间；与此同时：**  
  > Please find a taxi, and in the meanwhile I’ll pack some food.   
  > 你去叫辆出租车，趁这工夫我打包点吃的。
 
@@ -1791,17 +1791,17 @@
 固定搭配
 ---
 - meet up
-1. **碰面；会面：**  
+1.**碰面；会面：**  
  > **meet up with**  
  > I’ve got to go now, but I’ll meet up with you later.  
  > 我现在要走了，但是以后我们还会再见。
 
 - meet with
-1. *高义频：* **会见；会晤：**  
+1.*高义频：* **会见；会晤：**  
  > I'm going to meet with Professor Smith at ten past two.  
  > 我两点十分要和史密斯教授会面。
 
-2. *高义频：* **遭受；遭遇；获得：**  
+2.*高义频：* **遭受；遭遇；获得：**  
  > **meet with success / failure / accidents**  
  > meet with success / failure / accidents  
  > 获得成功/遭受失败/遭遇事故
@@ -1952,7 +1952,7 @@
 固定搭配
 ---
 - in memory of 
-1. **作为对…的纪念；纪念：**  
+1.**作为对…的纪念；纪念：**  
  > A film will be made in memory of those brave fire fighters.   
  > 为了纪念那些勇敢的消防战士，一部电影即将开拍。
 
@@ -2011,9 +2011,9 @@
 固定搭配
 ---
 - Don’t mention it. 
-1. **[答复别人道谢时的用语] 不用客气。**  
+1.**[答复别人道谢时的用语] 不用客气。**  
 - not to mention 
-1. **更不用提：**  
+1.**更不用提：**  
  > When starting your own business, you shouldn’t think of a free day, not to mention flying off for a month’s vacation.   
  > 创业期间，你别想有一天的空闲时间，更别说乘飞机去度一个月的假了。
 
@@ -2076,7 +2076,7 @@
 固定搭配
 ---
 - at the mercy of 
-1. **完全受…支配；任凭…摆布：**  
+1.**完全受…支配；任凭…摆布：**  
  > The little ship was at the mercy of the storm.   
  > 小船在暴风雨中失去控制。
 
@@ -2148,7 +2148,7 @@
 固定搭配
 ---
 - mess up 
-1. **弄脏；弄乱；弄糟：**  
+1.**弄脏；弄乱；弄糟：**  
  > Don’t mess up the house while I’m gone.   
  > 我不在的时候别把房子弄得乱糟糟的。
 
@@ -2156,7 +2156,7 @@
  > 要是搞砸了也没关系，你总是可以再来一次的。
 
 - mess with
-1. **与…有牵连；欺骗；试图改变**  
+1.**与…有牵连；欺骗；试图改变**  
 
 # ***message*** n
 英文释义
@@ -2178,7 +2178,7 @@
 固定搭配
 ---
 - get the message 
-1. **领悟；理解；明白 (别人的暗示)：**  
+1.**领悟；理解；明白 (别人的暗示)：**  
  > — Mark, I think you’re the right person for the job.  
  > 马克，我认为你是这个职位的合适人选。
 
@@ -2541,12 +2541,12 @@
 固定搭配
 ---
 - be of the same mind 
-1. **意见相同；保持原来的意见：**  
+1.**意见相同；保持原来的意见：**  
  > We are all of the same mind about this issue.   
  > 我们在这个问题上意见一致。
 
 - bear / keep … in mind 
-1. **将…记在心中；记起 (bear / keep in mind that)：**  
+1.**将…记在心中；记起 (bear / keep in mind that)：**  
  > It’s a good idea — I’ll bear it in mind.   
  > 这是个好主意，我会记在心里的。
 
@@ -2554,22 +2554,22 @@
  > 不管何时以何种方式记笔记，你都要记住，记笔记是个有选择性的过程。
 
 - change one’s mind 
-1. **改变主意：**  
+1.**改变主意：**  
  > When I first met Bryan I didn’t like him, but I have changed my mind.   
  > 我第一次见到布赖恩时并不喜欢他，但是现在我的看法变了。
 
 - come into one’s mind 
-1. **掠过 / 进入某人的脑海：**  
+1.**掠过 / 进入某人的脑海：**  
  > Suddenly a terrible thought came into my mind.   
  > 突然一个可怕的念头出现在我的脑海。
 
 - have sb / sth in mind (for sth) 
-1. **(对某事) 心中有合适的人选 / 想做的事：**  
+1.**(对某事) 心中有合适的人选 / 想做的事：**  
  > Do you have anyone in mind for the job?   
  > 你心目中有做这项工作的合适人选吗？
 
 - make up one’s mind 
-1. **拿定主意；下定决心：**  
+1.**拿定主意；下定决心：**  
  > Once she has made up her mind, nothing can change it.  
  > 她一旦拿定主意就不会改变主意。
 
@@ -2578,12 +2578,12 @@
  > 他已经下决心要克服自己的缺点。
 
 - on sb’s mind 
-1. **在某人心上：**  
+1.**在某人心上：**  
  > There are many problems on his mind.   
  > 他心事重重。
 
 - put / set / turn one’s mind to / set one’s mind on
-1. **集中精力做：**  
+1.**集中精力做：**  
  > She could have been a brilliant pianist if she’d put her mind to it.   
  > 如果她专心致志，本可以成为一名杰出的钢琴家。
 
@@ -2629,12 +2629,12 @@
 固定搭配
 ---
 - mind your own business
-1. **[非正式用语] 别管闲事：**  
+1.**[非正式用语] 别管闲事：**  
  > Why don’t you just mind your own business and leave me in peace?  
  > 你为什么就不能别管闲事，让我清静一下呢？
 
 - Never mind.
-1. **不要紧。/ 没关系。**  
+1.**不要紧。/ 没关系。**  
 
 # ***minded*** adj
 英文释义
@@ -2840,37 +2840,37 @@
 固定搭配
 ---
 - (at) any minute
-1. **随时：**  
+1.**随时：**  
  > Hurry up! He’ll be back at any minute.   
  > 快点儿！他随时会回来。
 
 - in a minute 
-1. **马上；立刻：**  
+1.**马上；立刻：**  
  > I’ll take your order in a minute.   
  > 我马上过来请您点餐。
 
 - just a minute / moment / second 
-1. **等一下：**  
+1.**等一下：**  
  > Just a minute, Margaret, I want to introduce you to Betty.   
  > 等一下，玛格丽特，我想把你介绍给贝蒂。
 
 - the last minute 
-1. **最后一刻：**  
+1.**最后一刻：**  
  > You really like leaving things to the last minute.   
  > 你就是喜欢把事情拖到最后一刻。
 
 - the minute / moment (that) 
-1. **一…就：**  
+1.**一…就：**  
  > The minute he saw me he turned red.   
  > 他一看到我脸就红了。
 
 - this minute 
-1. **立刻；马上：**  
+1.**立刻；马上：**  
  > Come down this minute.   
  > 马上下来。
 
 - wait a minute / moment / second 
-1. **等一会儿； 等一下**  
+1.**等一会儿； 等一下**  
 
 # ***mirror*** n
 英文释义
@@ -2990,7 +2990,7 @@
 固定搭配
 ---
 - miss out 
-1. **遗漏；失去 (机会)：**  
+1.**遗漏；失去 (机会)：**  
  > I’ll read through the guest list again to make sure I haven’t missed anybody out.   
  > 我要再看一遍宾客名单，以免漏掉谁。
 
@@ -3061,7 +3061,7 @@
 固定搭配
 ---
 - by mistake
-1. **错误地；无意地 (accidentally)**  
+1.**错误地；无意地 (accidentally)**  
  > Someone has taken my dictionary by mistake.  
  > 有人错拿了我的字典。
 
@@ -3077,7 +3077,7 @@
 固定搭配
 ---
 - mistake ... for 
-1. **把…错当成…：**  
+1.**把…错当成…：**  
  > Perhaps he had mistaken me for someone else.   
  > 他可能误把我当成其他人了。
 
@@ -3163,18 +3163,18 @@
 固定搭配
 ---
 - mix up
-1. *高义频：* **搅匀；使混合：**  
+1.*高义频：* **搅匀；使混合：**  
  > Dashan, who has been learning crosstalk, the Chinese comedic tradition, for decades, wants to mix it up with the Western stand-up tradition.  
  > 几十年来，大山一直在学习相声这一中国传统的喜剧形式，想把它与西方单口相声结合起来。
 
-2. *高义频：* **混淆；弄混；弄乱 (confuse)：**  
+2.*高义频：* **混淆；弄混；弄乱 (confuse)：**  
  > He was so nervous that he got the speech pages all mixed up.  
  > 他太紧张了，把演讲稿都弄乱了。
 
  > Miss Xu mixed up my results with someone else’s!  
  > 徐老师把我的成绩与别人的搞混了。
 
-3. *低义频：* **使糊涂：**  
+3.*低义频：* **使糊涂：**  
  > His explanation mixed me up more.  
  > 他的解释让我更糊涂了。
 
@@ -3266,7 +3266,7 @@
 固定搭配
 ---
 - be modeled on / after
-1. **模仿；仿照**  
+1.**模仿；仿照**  
 
 # ***modem*** n
 英文释义
@@ -3357,42 +3357,42 @@
 固定搭配
 ---
 - (at) any moment (now) 
-1. **马上；立刻：**  
+1.**马上；立刻：**  
  > Hurry up! He’ll be back any moment now.   
  > 快点儿！他马上就会回来。
 
 - (at) the last moment 
-1. **(在) 最后一刻：**  
+1.**(在) 最后一刻：**  
  > They changed the plans at the last moment.   
  > 他们在最后一刻改变了计划。
 
 - at the moment 
-1. **此刻；目前：**  
+1.**此刻；目前：**  
  > I’m terribly busy at the moment.   
  > 我目前忙得很。
 
 - for a moment 
-1. **片刻；一会儿：**  
+1.**片刻；一会儿：**  
  > He was silent for a moment.   
  > 他沉默了一会儿。
 
 - for the moment 
-1. **暂时；目前 (for the present)：**  
+1.**暂时；目前 (for the present)：**  
  > I’m not very happy at work, but I’ll stay there for the moment.   
  > 我工作得不太开心，但暂时还会留在那里。
 
 - in a moment 
-1. **马上；立即：**  
+1.**马上；立即：**  
  > I’ll be ready in a moment.   
  > 我马上就准备好。
 
 - one moment … the next 
-1. **一会儿…过一会儿：**  
+1.**一会儿…过一会儿：**  
  > One moment it was quiet and calm in the forest, the next, the air was charged with tension.    
  > 一会儿森林里寂静无声，过一会儿，空气中弥漫着紧张的气氛。
 
 - the moment (that) 
-1. **[引导时间状语从句，相当于连词as soon as] 一… (就…)：**  
+1.**[引导时间状语从句，相当于连词as soon as] 一… (就…)：**  
  > Alisha fell asleep the moment she got into bed.   
  > 艾丽莎一上床就睡着了。
 
@@ -3430,7 +3430,7 @@
 固定搭配
 ---
 - make money 
-1. **赚钱；获利**  
+1.**赚钱；获利**  
 
 # ***monitor*** n
 英文释义
@@ -3559,7 +3559,7 @@
 固定搭配
 ---
 - mop up 
-1. **擦干；肃清：**  
+1.**擦干；肃清：**  
  > He mopped up the spilt milk.  
  > 他擦干了洒出来的牛奶。
 
@@ -3641,17 +3641,17 @@
 固定搭配
 ---
 - all the more 
-1. **更加；越发：**  
+1.**更加；越发：**  
  > His mother asked him to stop teasing the cat, but he only did it all the more.   
  > 他妈妈叫他不要再逗这只猫，他反而更起劲了。
 
 - more and more 
-1. **越来越 (多的 / 地) (increasingly)**  
+1.**越来越 (多的 / 地) (increasingly)**  
  > More and more people are using smart phones for information and entertainment.  
  > 越来越多的人在用智能手机获取信息和娱乐。
 
 - more or less 
-1. **或多或少；几乎；差不多：**  
+1.**或多或少；几乎；差不多：**  
  > Her health has more or less improved.   
  > 她的身体状况多少有点好转了。
 
@@ -3659,19 +3659,19 @@
  > 工作基本上完成了。
 
 - more than
-1. *高义频：* **多于...的；不止：**  
+1.*高义频：* **多于...的；不止：**  
  > For many, fishing is more than a sport; it is an art.  
  > 对很多人来说，钓鱼不只是一项运动，它是一门艺术。
 
  > The chess class was free. More than that, I always wanted to learn chess.  
  > 象棋课免费，而且，我也总想学象棋。
 
-2. *高义频：* **非常：**  
+2.*高义频：* **非常：**  
  > I’d be more than happy to help.  
  > 我非常乐意帮忙。
 
 - no more 
-1. **不再 (not ... any more)：**  
+1.**不再 (not ... any more)：**  
  > He works in a shop and is no more a student.   
  > 他现在在商店工作，已经不再是学生了。
 
@@ -3679,22 +3679,22 @@
  > 别再浪费时间和金钱了。
 
 - no more than 
-1. **仅仅：**  
+1.**仅仅：**  
  > His whole school education added up to no more than three years.   
  > 他所受的学校教育全部加起来不过3年。
 
 - not more than 
-1. **不超过：**  
+1.**不超过：**  
  > He earns not more than 2,000 dollars a month.    
  > 他每月所赚的钱不超过2000美元。
 
 - once more 
-1. **再次；又：**  
+1.**再次；又：**  
  > Once more the soldiers attacked and once more they were defeated.   
  > 士兵们又发起了进攻，但又一次被打败了。
 
 - the more ..., the more ... 
-1. **愈…，愈…：**  
+1.**愈…，愈…：**  
  > The more learned a man is, the more modest he usually becomes.  
  > 一个人学识越渊博，通常也会越谦虚。
 
@@ -3702,7 +3702,7 @@
  > 我读的书越多，学到的知识也越多。
 
 - what is more 
-1. **更为重要的是；更有甚者：**  
+1.**更为重要的是；更有甚者：**  
  > He studies very hard, and what’s more, he is ready to help others.   
  > 他学习非常刻苦，更重要的是他乐于助人。
 
@@ -3760,12 +3760,12 @@
 固定搭配
 ---
 - at (the) most
-1. **至多；不超过：**  
+1.**至多；不超过：**  
  > The railway will be completed in six months at (the) most.   
  > 这条铁路至多6个月就会完工。
 
 - make the most of
-1. **充分利用 (get the most out of)：**  
+1.**充分利用 (get the most out of)：**  
  > I hope you will all make the most of this chance to share information and opinions.   
  > 我希望你们大家都充分利用这个机会分享信息、交流意见。
 
@@ -3785,7 +3785,7 @@
 固定搭配
 ---
 - most of all 
-1. **最重要的是；特别：**  
+1.**最重要的是；特别：**  
  > — Why don’t you just take the plane? It’s much faster.   
  > 你为什么不乘飞机？那样会快得多。
 
@@ -3934,7 +3934,7 @@
 固定搭配
 ---
 - a mountain of / mountains of 
-1. **大量；大堆：**  
+1.**大量；大堆：**  
  > a mountain of / mountains of work / debt / sandwiches   
  > 一大堆的工作/债务/三明治
 
@@ -3991,7 +3991,7 @@
 固定搭配
 ---
 - keep one’s mouth shut 
-1. **保守秘密；守口如瓶**  
+1.**保守秘密；守口如瓶**  
 
 # ***mouthful*** n
 英文释义
@@ -4042,12 +4042,12 @@
 固定搭配
 ---
 - move about / around
-1. **四处走动；经常搬动：**  
+1.**四处走动；经常搬动：**  
  > He became very ill and it was difficult for him to even move around.   
  > 他病得很重，甚至连走动都很困难。
 
 - move on 
-1. **继续前进；转换 (话题)：**  
+1.**继续前进；转换 (话题)：**  
  > After a few minutes, the bus moved on again.  
  > 几分钟后，公共汽车又继续往前开了。
 
@@ -4169,22 +4169,22 @@
 固定搭配
 ---
 - as much 
-1. **同样数量；同样的事：**  
+1.**同样数量；同样的事：**  
  > Tony lent me the money, hoping that I’d do as much for him.  
  > 托尼借给我钱，希望我以后也会为他做同样的事。
 
 - as much as 
-1. **像…那么多；多达：**  
+1.**像…那么多；多达：**  
  > She spends as much as $2,000 on clothes every month.   
  > 她每月买衣服的开销高达2000美元。
 
 - as much … as 
-1. **和…同样多的；和…一样：**  
+1.**和…同样多的；和…一样：**  
  > We didn’t spend as much time at the museum as I had hoped.  
  > 我们在博物馆花的时间没有我期望的那么长。
 
 - as much as sb can / could (do)
-1. **尽某人最大努力 (as much as possible)：**  
+1.**尽某人最大努力 (as much as possible)：**  
  > I have done as much as I could do to help him.   
  > 我已尽力去帮助他了。
 
@@ -4192,12 +4192,12 @@
  > 我们鼓励学生在课外尽量多阅读。
 
 - how much 
-1. **多少；什么价钱：**  
+1.**多少；什么价钱：**  
  > Any owner will tell you how much joy a pet brings.  
  > 任何一位宠物的主人都会告诉你宠物会带来多少欢乐。
 
 - not / nothing much
-1. **没什么：**  
+1.**没什么：**  
  > — Is there anything wrong, Bob? You look sad.  
  > 鲍勃，怎么了？你看起来很难过。
 
@@ -4205,7 +4205,7 @@
  > 哦，没什么。事实上我刚才在想念家乡的朋友们。
 
 - so much for 
-1. **[用于结束某个话题] 到此为止：**  
+1.**[用于结束某个话题] 到此为止：**  
  > So much for all those introductions. It’s time to get down to business.   
  > 就介绍这么多吧，该开始工作了。
 
@@ -4412,7 +4412,7 @@
 固定搭配
 ---
 - if you must (do sth)
-1. **如果你一定要(做某事)：**  
+1.**如果你一定要(做某事)：**  
  > If you must smoke, please go outside.  
  > 如果你一定要抽烟的话，请去外面抽。
 

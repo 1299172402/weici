@@ -55,7 +55,7 @@
 固定搭配
 ---
 - gain ground
-1. **变得更强大 / 更成功 / 更有效；逼近**  
+1.**变得更强大 / 更成功 / 更有效；逼近**  
 
 # ***gain*** n
 英文释义
@@ -340,11 +340,11 @@
 固定搭配
 ---
 - in general
-1. *高义频：* **一般地；大体上**  
+1.*高义频：* **一般地；大体上**  
  > In most cultures the smile is in general an expression of pleasure.  
  > 在大多数文化中，微笑一般表示快乐。
 
-2. *高义频：* **总的说来；从总体上看**  
+2.*高义频：* **总的说来；从总体上看**  
  > In general, her work has been good, but this essay is terrible.  
  > 总的说来，她的作品不错，不过这篇文章很糟糕。
 
@@ -377,7 +377,7 @@
 固定搭配
 ---
 - generally speaking
-1. **一般说来：**  
+1.**一般说来：**  
  > Generally speaking, the more you pay, the more you get.  
  > 一般来说，付出的越多，得到的越多。
 
@@ -692,9 +692,9 @@
 固定搭配
 ---
 - get about
-1. **四处走动；(消息等) 传开 (get around / round)**  
+1.**四处走动；(消息等) 传开 (get around / round)**  
 - get across
-1. **(使) 通过；(使) 被理解；(把…) 讲清楚：**  
+1.**(使) 通过；(使) 被理解；(把…) 讲清楚：**  
  > Traffic lights turned red before they could get across the street.  
  > 还没等他们穿过马路，交通灯就变红了。
 
@@ -705,7 +705,7 @@
  > 很难讲清楚这次旅行多么激动人心！
 
 - get along / on ( with )
-1.  > We can't get along without your help.  
+1. > We can't get along without your help.  
  > 没有你的帮助，我们无法生活。
 
  > I worked hard and got along well with my teachers and classmates.  
@@ -715,33 +715,33 @@
  > 你的论文写得怎么样了？
 
 - get around / round
-1. *高义频：* **出行；走动 (get about)：**  
+1.*高义频：* **出行；走动 (get about)：**  
  > Public transport provides a cheap way to get around in Beijing.  
  > 在北京，公共交通为人们的出行提供了便宜的方式。
 
-2. *高义频：* **(消息等) 传开 (get about)：**  
+2.*高义频：* **(消息等) 传开 (get about)：**  
  > The information on the Internet gets around much more rapidly than that in the newspaper.  
  > 网上的信息比报纸上的信息传播得要快得多。
 
-3. *高义频：* **克服；解决 (overcome)：**  
+3.*高义频：* **克服；解决 (overcome)：**  
  > How can he get around his problem?  
  > 他怎样能解决他的问题呢？
 
 - get at
-1. *高义频：* **到达；够着**  
+1.*高义频：* **到达；够着**  
  > You'd better not leave the medicine where kids can get at it.  
  > 你最好不要把药放在孩子们能够到的地方。
 
-2. *低义频：* **了解；查明：**  
+2.*低义频：* **了解；查明：**  
  > I was determined to get at the truth.  
  > 我决心要查明真相。
 
-3. *低义频：* **一再批评；不断指责：**  
+3.*低义频：* **一再批评；不断指责：**  
  > He felt he was being got at by the other students.  
  > 他觉得自己老是被其他同学挖苦。
 
 - get away (from)
-1. **离开；外出度假；摆脱：**  
+1.**离开；外出度假；摆脱：**  
  > I won't be able to get away from the office before 7.  
  > 7点前我不能离开办公室。
 
@@ -752,7 +752,7 @@
  > 我需要排遣工作的压力。
 
 - get away with
-1. **偷走；做 (坏事) 而未受到惩罚：**  
+1.**偷走；做 (坏事) 而未受到惩罚：**  
  > Thieves got away with gold jewellery worth $60,000.  
  > 盗贼偷走了价值6万美元的黄金首饰。
 
@@ -760,7 +760,7 @@
  > 你认为凶手应该逍遥法外吗？
 
 - get back
-1. **回来；恢复；取回；拿回：**  
+1.**回来；恢复；取回；拿回：**  
  > **got back to**  
  > He got back to the office just before lunchtime.  
  > 他恰好在午饭前回到了办公室。
@@ -783,7 +783,7 @@
  > 我能借这本书吗？我保证你下周就能拿回去。
 
 - get by
-1. **通过；勉强应付；设法过活：**  
+1.**通过；勉强应付；设法过活：**  
  > I moved aside to let him get by.  
  > 我站到一边,让他过去。
 
@@ -796,7 +796,7 @@
  > 她靠这点儿微薄的薪水怎么过活？
 
 - get down
-1. **(从…) 下来；吞下；写下；使沮丧：**  
+1.**(从…) 下来；吞下；写下；使沮丧：**  
  > Get down from the horse at once!  
  > 立刻从马上下来！
 
@@ -810,13 +810,13 @@
  > 持续的雨天真让我沮丧。
 
 - get down to
-1. **开始做；开始认真对待：**  
+1.**开始做；开始认真对待：**  
  > **got down to business**  
  > It's time we got down to business.  
  > 我们该开始干正事了。
 
 - get in
-1. **进入；到达；把…收进来；收割；插 (话)：**  
+1.**进入；到达；把…收进来；收割；插 (话)：**  
  > A car stopped before him and he got in.  
  > 一辆小汽车停在面前，他上了车。
 
@@ -830,7 +830,7 @@
  > 她说起话来滔滔不绝，让人一句话都插不进去。
 
 - get into
-1. **进入；陷入；被录取；染上 (习惯) ：**  
+1.**进入；陷入；被录取；染上 (习惯) ：**  
  > get into trouble  
  > 陷入麻烦
 
@@ -844,7 +844,7 @@
  > 许多无家可归的人开始有了乞讨的习惯以得到足够的钱活下去。
 
 - get off
-1. **下车；脱下 (衣服等)：**  
+1.**下车；脱下 (衣服等)：**  
  > Sue got off the train.  
  > 苏下了火车。
 
@@ -852,7 +852,7 @@
  > 把湿衣服脱下来吧。
 
 - get on
-1. **上车 / 马；穿上：**  
+1.**上车 / 马；穿上：**  
  > get on a horse  
  > 上马
 
@@ -860,7 +860,7 @@
  > 穿上你的胶鞋，我们得冒雨出去。
 
 - get out (of)
-1. **(使) 出去；离开；逃脱；摆脱；放弃：**  
+1.**(使) 出去；离开；逃脱；摆脱；放弃：**  
  > He decided to get out while there was still time.  
  > 他决定趁还有点儿时间出去一趟。
 
@@ -871,7 +871,7 @@
  > 他们努力改掉坏习惯。
 
 - get over
-1. **越过 (墙等)；克服 (困难、偏见等) (overcome)；从 (疾病、损失等) 中恢复过来：**  
+1.**越过 (墙等)；克服 (困难、偏见等) (overcome)；从 (疾病、损失等) 中恢复过来：**  
  > I don't know how we are going to get over these difficulties.  
  > 我不知道我们怎样才能克服这些困难。
 
@@ -879,7 +879,7 @@
  > 我们相信他一定会战胜疾病。
 
 - get through
-1. **到达；办完；(使) 通过；(使) 熬过；(打电话时) 打通：**  
+1.**到达；办完；(使) 通过；(使) 熬过；(打电话时) 打通：**  
  > get through (with) one's work  
  > 完成工作
 
@@ -893,7 +893,7 @@
  > 我试过打她办公室电话，但没打通。
 
 - get to
-1. **到达；接触到；开始；着手处理：**  
+1.**到达；接触到；开始；着手处理：**  
  > When it gets to ten o'clock I begin to feel tired.  
  > 到10点钟的时候，我开始觉得累了。
 
@@ -901,7 +901,7 @@
  > 我们现在开始工作吧。
 
 - get together
-1. **聚集；相聚；收集；召集：**  
+1.**聚集；相聚；收集；召集：**  
  > When can we get together?  
  > 我们何时能相聚？
 
@@ -909,7 +909,7 @@
  > 我正设法召集一帮人一起过周六呢。
 
 - get up
-1. **(使) 起床；(使) 起立(rise)：**  
+1.**(使) 起床；(使) 起立(rise)：**  
  > I'm not used to getting up early.  
  > 我不习惯早起。
 
@@ -1076,18 +1076,18 @@
 固定搭配
 ---
 - give (...) away
-1. *高义频：* **送掉；分发 (奖品等)：**  
+1.*高义频：* **送掉；分发 (奖品等)：**  
  > The Students' Union called on us to give away our used books to the students in the lower grades.  
  > 学生会号召我们把用过的书送给低年级的学生。
 
-2. *低义频：* **放弃 (机会等)；输掉：**  
+2.*低义频：* **放弃 (机会等)；输掉：**  
  > Would they give away their chance to win the game?  
  > 他们会放弃赢得比赛的机会吗？
 
  > We gave away two goals in the first half.  
  > 上半场我们输了两个球。
 
-3. *高义频：* **泄露 (秘密)；出卖：**  
+3.*高义频：* **泄露 (秘密)；出卖：**  
  > I will never give your secrets away again.  
  > 我绝不会再泄露你的秘密。
 
@@ -1095,7 +1095,7 @@
  > 他的口音让人听出他是南方人。
 
 - give back
-1. **(归) 还；使返回；恢复：**  
+1.**(归) 还；使返回；恢复：**  
  > **Give,back to**  
  > Give the book back to your brother.  
  > 把书还给你弟弟。
@@ -1104,7 +1104,7 @@
  > 手术使他的双腿恢复了功能。
 
 - give in
-1. *高义频：* **屈服；让步：**  
+1.*高义频：* **屈服；让步：**  
  > At first Robert wouldn't let his daughter go diving, but eventually he gave in.  
  > 起初罗伯特不让女儿潜水，但最后还是让步了。
 
@@ -1112,12 +1112,12 @@
  > He gave in to curiosity and opened my letter.  
  > 他抑制不住好奇心,拆开了我的信。
 
-2. *低义频：* **交上 (考卷等) (hand in)：**  
+2.*低义频：* **交上 (考卷等) (hand in)：**  
  > Please give your work in before Monday.  
  > 请在星期一之前把作业交上来。
 
 - give off
-1. **发出 (气味、光、热等)：**  
+1.**发出 (气味、光、热等)：**  
  > The flowers gave off a fragrant perfume.  
  > 花朵散发出芳香。
 
@@ -1128,7 +1128,7 @@
  > 炉子散发出阵阵热气。
 
 - give out
-1. *高义频：* **分发 (hand out)；发出 (光、热、信号等)；公布：**  
+1.*高义频：* **分发 (hand out)；发出 (光、热、信号等)；公布：**  
  > The teacher gave out the exam papers.  
  > 老师发了试卷。
 
@@ -1138,7 +1138,7 @@
  > The result of the examination won't be given out.  
  > 这次考试成绩将不会被公布。
 
-2. *低义频：* **耗尽；精疲力竭：**  
+2.*低义频：* **耗尽；精疲力竭：**  
  > We must go home. Our money has given out.  
  > 钱用光了，我们必须回家。
 
@@ -1146,7 +1146,7 @@
  > 他筋疲力尽了。
 
 - give up
-1. **让；放弃：**  
+1.**让；放弃：**  
  > It is difficult to give up smoking.  
  > 戒烟可不容易。
 
@@ -1158,7 +1158,7 @@
  > 他把座位让给了一位孕妇。
 
 - give up on
-1. **对…不抱希望**  
+1.**对…不抱希望**  
 
 # ***given*** prep
 英文释义
@@ -1171,7 +1171,7 @@
 固定搭配
 ---
 - given that
-1. **考虑到；如果：**  
+1.**考虑到；如果：**  
  > Given that she is interested in children, I'm sure teaching is the right career for her.  
  > 考虑到她喜欢小孩子，我可以肯定教书是最适合她的职业。
 
@@ -1468,7 +1468,7 @@
 固定搭配
 ---
 - (be) on the go
-1. **忙个不停**  
+1.**忙个不停**  
 
 # ***go*** vi  重难点词汇
 英文释义
@@ -1563,7 +1563,7 @@
 固定搭配
 ---
 - go about
-1. **从事；忙于；开始做：**  
+1.**从事；忙于；开始做：**  
  > The villagers were going about their business as usual.  
  > 村民们如往常一样忙着自己的事。
 
@@ -1571,12 +1571,12 @@
  > 假如我决定加入这个俱乐部，要做些什么呢？
 
 - go after
-1. **追赶；追求；谋求：**  
+1.**追赶；追求；谋求：**  
  > We're both going after the same job.  
  > 我们俩都在谋求同一份工作。
 
 - go against
-1. **违反；违背；不利于：**  
+1.**违反；违背；不利于：**  
  > Jason was determined not to go against his father's wishes.  
  > 杰森决定不违背父亲的心愿。
 
@@ -1584,13 +1584,13 @@
  > 比赛对蓝队越来越不利了。
 
 - go ahead
-1. *高义频：* **前进；先走**  
-2. *高义频：* **(经过计划或允许后) 开始做：**  
+1.*高义频：* **前进；先走**  
+2.*高义频：* **(经过计划或允许后) 开始做：**  
  > **go ahead with**  
  > The government is planning to go ahead with the building next year.  
  > 政府计划明年着手建造大楼。
 
-3. *高义频：* **[用于祈使句] 请吧；说吧：**  
+3.*高义频：* **[用于祈使句] 请吧；说吧：**  
  > — Lucy, I have a question I'd like to ask you.  
  > 露西，我想问你个问题。
 
@@ -1598,7 +1598,7 @@
  > 好的，问吧。
 
 - go away
-1. **走开；离开；外出 (度假)；消失：**  
+1.**走开；离开；外出 (度假)；消失：**  
  > Don't go away until I come back.  
  > 我回来你再走。
 
@@ -1609,7 +1609,7 @@
  > 记住，压力肯定会消失，特别是当你弄清楚问题所在并着手解决时。
 
 - go back (to)
-1. **回到；追溯到；回忆起：**  
+1.**回到；追溯到；回忆起：**  
  > **no going back**  
  > Once you have made this decision, there will be no going back.  
  > 你一旦做出这个决定，就不能改了。
@@ -1621,33 +1621,33 @@
  > 我回忆起了1978年的往事。
 
 - go by
-1. **走过；流逝；过去：**  
+1.**走过；流逝；过去：**  
  > **as time goes by**  
  > Everything will get easier as time goes by.  
  > 随着时间的推移，一切都会好起来的。
 
 - go down
-1. *低义频：* **下去：**  
+1.*低义频：* **下去：**  
  > Let's go down by lift.  
  > 我们乘电梯下去吧。
 
-2. *高义频：* **(船等) 下沉 (sink)；(日、月等) 落下 (set)：**  
+2.*高义频：* **(船等) 下沉 (sink)；(日、月等) 落下 (set)：**  
  > The ship went down by 12 feet.  
  > 船下沉了12英尺。
 
  > The moon has gone down.  
  > 月亮已落下去了。
 
-3. *低义频：* **(风、海面等) 平静下来：**  
+3.*低义频：* **(风、海面等) 平静下来：**  
  > The wind / sea is going down.  
  > 风在平息/海潮在下降。
 
-4. *高义频：* **(价格、数量等) 下降 (fall)**  
+4.*高义频：* **(价格、数量等) 下降 (fall)**  
  > Sales of watches to young adults have been going down since 2007.  
  > 自2007年以来，青壮年手表的销售额一直在下降。
 
 - go for
-1. *低义频：* **为...去；努力获取：**  
+1.*低义频：* **为...去；努力获取：**  
  > He has gone for some milk / a doctor.  
  > 他买牛奶/请医生去了。
 
@@ -1658,44 +1658,44 @@
  > — Sounds great! Go for it.  
  > 听起来不错，加油。
 
-2. *低义频：* **对...适用：**  
+2.*低义频：* **对...适用：**  
  > What he said about you goes for me too.  
  > 他说的关于你的一席话对我也适用。
 
 - go in for
-1. **参加；从事；对…有兴趣：**  
+1.**参加；从事；对…有兴趣：**  
  > She doesn't go in for team games.  
  > 她对团体比赛不感兴趣。
 
 - go into
-1. *高义频：* **撞在...上：**  
+1.*高义频：* **撞在...上：**  
  > The car went into a tree in the street.  
  > 车撞在了街上的一棵树上。
 
-2. *高义频：* **进入；加入；从事：**  
+2.*高义频：* **进入；加入；从事：**  
  > go into the army  
  > 参军
 
  > go into teaching  
  > 执教
 
-3. *低义频：* **详细调查；研究：**  
+3.*低义频：* **详细调查；研究：**  
  > We need to go into the question of costs.  
  > 我们需要研究一下费用问题。
 
 - go off
-1. *低义频：* **离开：**  
+1.*低义频：* **离开：**  
  > Don't go off without saying good-bye.  
  > 不要不辞而别。
 
-2. *高义频：* **突然响起；走火；爆炸：**  
+2.*高义频：* **突然响起；走火；爆炸：**  
  > I overslept this morning because my morning clock didn't go off.  
  > 今天早晨闹钟没有响，所以我睡过头了。
 
  > The gun went off by accident.  
  > 枪不小心走火了。
 
-3. *高义频：* **熄灭；中断供应**  
+3.*高义频：* **熄灭；中断供应**  
  > Suddenly the lights went off.  
  > 灯突然熄灭了。
 
@@ -1706,7 +1706,7 @@
  > 疼痛将会消失。
 
 - go on
-1. *高义频：* **发生；进行**  
+1.*高义频：* **发生；进行**  
  > **What is going on**  
  > What is going on here?  
  > 这里发生了什么事？
@@ -1714,7 +1714,7 @@
  > The concert went on for hours.  
  > 音乐会进行了几个小时。
 
-2. *高义频：* **继续下去；继续某种行为：**  
+2.*高义频：* **继续下去；继续某种行为：**  
  > **go on with**  
  > One of the actors was unwell and couldn't go on with the performance.  
  > 其中一名演员身体不适，不能继续演出。
@@ -1725,16 +1725,16 @@
  > After climbing the Great Wall, they went on to visit the Summer Palace.  
  > 爬完长城后，他们接着去参观了颐和园。
 
-3. *高义频：* **(时间等) 过去 to pass (go by)：**  
+3.*高义频：* **(时间等) 过去 to pass (go by)：**  
  > As time went on, things began to change.  
  > 随着时间的推移，情况开始发生变化。
 
-4. *高义频：* **(灯) 亮；(电) 通：**  
+4.*高义频：* **(灯) 亮；(电) 通：**  
  > The light went on.  
  > 灯亮了。
 
 - go out
-1. **外出；(灯火等) 熄灭：**  
+1.**外出；(灯火等) 熄灭：**  
  > Perhaps we could go out to do some sightseeing together.  
  > 也许我们可以一起出去看看风景。
 
@@ -1742,7 +1742,7 @@
  > 我正在收拾东西的时候，整个街区突然停电了。
 
 - go over
-1. **从一处到 (另一处)；仔细检查；温习：**  
+1.**从一处到 (另一处)；仔细检查；温习：**  
  > We went over to the flower seller and asked her if we could buy a flower.  
  > 我们到卖花的人身边，问她我们能不能买朵花。
 
@@ -1753,7 +1753,7 @@
  > 我必须复习笔记准备明天的考试。
 
 - go round / around
-1. **四处走动；(疾病、消息等)流传：**  
+1.**四处走动；(疾病、消息等)流传：**  
  > She often goes around barefoot.   
  > 她常常光着脚到处跑。
 
@@ -1761,43 +1761,43 @@
  > 这种传染病传遍了全城。
 
 - go through
-1. *高义频：* **穿过：**  
+1.*高义频：* **穿过：**  
  > It took them an entire day to go through the forest.  
  > 他们花了整整一天时间才走出那片森林。
 
-2. *高义频：* **经历：**  
+2.*高义频：* **经历：**  
  > Go through those things that seem impossible, and achieve what we never believed we could.   
  > 去经历那些似乎不可能做到的事，去取得我们从未相信过自己能取得的成就。
 
-3. *高义频：* **仔细检查：**  
+3.*高义频：* **仔细检查：**  
  > I'd be very grateful if you could take some time to go through my resume and make necessary changes.  
  > 如果你能拿出一些时间仔细检查我的简历并做必要的修改，我将不胜感激。
 
-4. *低义频：* **(提案等) 被通过：**  
+4.*低义频：* **(提案等) 被通过：**  
  > It is said that the new school rule didn't go through.  
  > 据说新校规没有被通过。
 
 - go through with
-1. **将…进行到底：**  
+1.**将…进行到底：**  
  > I had no choice but to go through with it.  
  > 我没有选择，只有坚持到底。
 
 - go to
-1. **由…获得；被授予：**  
+1.**由…获得；被授予：**  
  > As the ceremony was nearing the end, the headmaster announced the highest honor went to my daughter.  
  > 典礼快要结束时，校长宣布把最高荣誉奖授予我的女儿。
 
 - go up
-1. *高义频：* **(温度、价格等) 增长 (rise)**  
+1.*高义频：* **(温度、价格等) 增长 (rise)**  
  > The price of homes goes up and people from the area cannot afford to buy a house there.   
  > 住宅价格上涨，本地人买不起自家周围的房子。
 
-2. *低义频：* **被建造起来：**  
+2.*低义频：* **被建造起来：**  
  > New buildings are going up everywhere.   
  > 到处矗立起新楼。
 
 - go with
-1. **陪…一起去；与…相配 (match)：**  
+1.**陪…一起去；与…相配 (match)：**  
  > May I go with you?   
  > 我可以和你一起去吗？
 
@@ -1805,7 +1805,7 @@
  > 你觉得这顶帽子和我的新外套相配吗？
 
 - go without
-1. **没有…也行：**  
+1.**没有…也行：**  
  > People cannot live without water and neither agriculture nor industry can go without it.  
  > 人活着离不开水，而且农业和工业也离不开水。
 
@@ -1814,7 +1814,7 @@
  > 健康胜于财富，这是不言而喻的。
 
 - go wrong 
-1. **出毛病；失败：**  
+1.**出毛病；失败：**  
  > Something has gone wrong with the radio.   
  > 这台收音机出毛病了。
 
@@ -1937,23 +1937,23 @@
 固定搭配
 ---
 - be no good
-1. **没有用处：**  
+1.**没有用处：**  
  > **It is no good watching**  
  > It is no good watching so much television.  
  > 看这么多电视没什么用。
 
 - do good (to)
-1. **(对…) 有益：**  
+1.**(对…) 有益：**  
  > People believe that climbing can do good to health.  
  > 人们认为登山有益健康。
 
 - do sb good
-1. **对某人有好处：**  
+1.**对某人有好处：**  
  > Thinking that way does you no good.  
  > 那样想对你没好处。
 
 - for good
-1. **永远：**  
+1.**永远：**  
  > The murderer will stay in prison for good.  
  > 那个谋杀犯将被终身监禁。
 
@@ -2424,7 +2424,7 @@
 固定搭配
 ---
 - take ... for granted (that)
-1. **认为…理所当然：**  
+1.**认为…理所当然：**  
  > Some of us always take it for granted (that) our parents or grandparents should take care of us.  
  > 我们中的有些人总是理所当然地认为，父母或者祖父母应该照顾我们。
 
@@ -2854,7 +2854,7 @@
 固定搭配
 ---
 - give / lose ground
-1. **退让；让步；失利：**  
+1.**退让；让步；失利：**  
  > The team began to lose ground because Phil's leg was broken.  
  > 由于菲尔的腿骨折了，这个队开始失去优势。
 
@@ -2871,7 +2871,7 @@
 固定搭配
 ---
 - a group of
-1. **一群 / 组：**  
+1.**一群 / 组：**  
  > a group of islands  
  > 一群岛屿
 
@@ -2946,7 +2946,7 @@
 固定搭配
 ---
 - grow into
-1. **变成；发展成：**  
+1.**变成；发展成：**  
  > He has grown into a fine young man.  
  > 他已长成一个不错的小伙子。
 
@@ -2954,7 +2954,7 @@
  > 我出生的那个村庄已经发展成为一个城镇。
 
 - grow out of
-1. **产生于；长大得与…不再相称：**  
+1.**产生于；长大得与…不再相称：**  
  > Our friendship grew out of the experience of making that film.  
  > 我们的友谊源自于拍摄那部电影的经历。
 
@@ -2962,7 +2962,7 @@
  > 他已经长得穿不上校服了。
 
 - grow up
-1. **成熟；长成；形成；发展：**  
+1.**成熟；长成；形成；发展：**  
  > Plants grow up towards the sunlight.  
  > 植物向阳生长。
 
@@ -3056,12 +3056,12 @@
 固定搭配
 ---
 - on guard
-1. **站岗；值班：**  
+1.**站岗；值班：**  
  > The soldier was on guard all night.  
  > 士兵整夜站岗。
 
 - off (sb's) guard
-1. **不提防；丧失警惕：**  
+1.**不提防；丧失警惕：**  
  > He struck me while I was off guard.  
  > 他趁我不备打了我。
 

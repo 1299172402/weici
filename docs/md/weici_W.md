@@ -80,13 +80,13 @@
 固定搭配
 ---
 - be waiting
-1. **(某物) 已准备好可供使用：**  
+1.**(某物) 已准备好可供使用：**  
  > **is waiting for**  
  > The car is waiting for us.  
  > 车已为我们备好。
 
 - can’t wait
-1. **急切地；迫不及待地：**  
+1.**急切地；迫不及待地：**  
  > **couldn’t wait to**  
  > When winter arrived the kids couldn’t wait to go skating.  
  > 到了冬天，孩子们迫不及待地去滑冰。
@@ -158,7 +158,7 @@
 固定搭配
 ---
 - walk up (to)
-1. **走近**  
+1.**走近**  
 
 # ***walk*** n
 英文释义
@@ -185,7 +185,7 @@
 固定搭配
 ---
 - a walk of life
-1. **行业；职业；社会阶层(background)：**  
+1.**行业；职业；社会阶层(background)：**  
  > **from all walks of life**  
  > Our volunteers include people from all walks of life.  
  > 我们的志愿者包括各界人士。
@@ -292,12 +292,12 @@
 固定搭配
 ---
 - at war (with)
-1. **(与…) 交战：**  
+1.**(与…) 交战：**  
  > This was a time when the two countries were at war.  
  > 此时正值两国交战之际。
 
 - declare war on
-1. **对…宣战**  
+1.**对…宣战**  
 
 # ***ward*** n
 英文释义
@@ -338,7 +338,7 @@
 固定搭配
 ---
 - warm up
-1. **(使) 暖起来；(使) 兴奋起来：**  
+1.**(使) 暖起来；(使) 兴奋起来：**  
  > Have a cup of coffee to warm you up.  
  > 喝杯咖啡暖暖身子。
 
@@ -457,15 +457,15 @@
 固定搭配
 ---
 - wash away
-1. **冲掉；洗掉；消除…的影响：**  
+1.**冲掉；洗掉；消除…的影响：**  
  > **washed,away**  
  > The flood washed some of the houses away in the town.  
  > 洪水冲走了镇上的一些房屋。
 
 - wash off
-1. **洗掉；洗去**  
+1.**洗掉；洗去**  
 - wash up
-1. **(BrE) 洗餐具；(AmE) 洗手或洗脸：**  
+1.**(BrE) 洗餐具；(AmE) 洗手或洗脸：**  
  > It’s your turn to wash up today.  
  > 今天轮到你洗碗。
 
@@ -598,12 +598,12 @@
 固定搭配
 ---
 - watch out(for)
-1. **当心 (…)；注意 (…)：**  
+1.**当心 (…)；注意 (…)：**  
  > Watch out for the step here.  
  > 当心，这里有台阶。
 
 - watch over
-1. **[正式用语] 保护；监视；照管：**  
+1.**[正式用语] 保护；监视；照管：**  
  > Could you watch over my clothes while I have a swim?  
  > 我游泳的时候你能帮我看着衣服吗？
 
@@ -629,12 +629,12 @@
 固定搭配
 ---
 - keep watch (for)
-1. **看守；警惕：**  
+1.**看守；警惕：**  
  > He kept watch for the teacher as the students ran around the room.  
  > 当同学们在教室追逐嬉闹的时候，他总是望风，注意看老师来了没有。
 
 - on watch
-1. **守望；值班：**  
+1.**守望；值班：**  
  > He was standing there on watch.  
  > 他正站在那儿值班。
 
@@ -678,7 +678,7 @@
 固定搭配
 ---
 - hold water
-1. **(容器等) 盛得住水；(论点等) 站得住脚**  
+1.**(容器等) 盛得住水；(论点等) 站得住脚**  
 
 # ***watercolour*** n
 英文释义
@@ -817,7 +817,7 @@
 固定搭配
 ---
 - all the way
-1. **一直；自始至终；完全地：**  
+1.**一直；自始至终；完全地：**  
  > The girls climbed down the tree and ran all the way to the riverside.  
  > 女孩们从树上爬下来，一路跑向河边。
 
@@ -825,9 +825,9 @@
  > 我完全支持你。
 
 - by the way
-1. **顺便说；顺便一提**  
+1.**顺便说；顺便一提**  
 - by way of
-1. **经由；通过…方法：**  
+1.**经由；通过…方法：**  
  > He flew to America by way of Hong Kong.  
  > 他坐飞机经香港去美国。
 
@@ -835,7 +835,7 @@
  > 孩子们通常看图识字。
 
 - give way (to)
-1. **让步 (于)；屈服 (于)：**  
+1.**让步 (于)；屈服 (于)：**  
  > give way to pressure  
  > 在压力下让步
 
@@ -846,12 +846,12 @@
  > 电影院逐渐被新兴的网络和手机所取代。
 
 - in a way
-1. **在某种程度上：**  
+1.**在某种程度上：**  
  > In a way, I’m glad you made that mistake, for it’ll serve as a warning to you.  
  > 在某种程度上说，你犯了那个错误我倒感到高兴，因为它会为你敲响警钟。
 
 - in no way
-1. **一点儿也不；决不：**  
+1.**一点儿也不；决不：**  
  > I am in no way to blame.   
  > 我一点错也没有。
 
@@ -859,7 +859,7 @@
  > 我们决不能容忍这样的事情继续下去。
 
 - in the / sb’s way
-1. **挡某人的道；妨碍某人：**  
+1.**挡某人的道；妨碍某人：**  
  > Nothing is to stand in my way.   
  > 没有什么能阻挡我。
 
@@ -867,12 +867,12 @@
  > 虽然我认为自己是在帮父母准备饭菜，但实际上只是碍手碍脚。
 
 - keep / stay out of sb’s way
-1. **避开某人：**  
+1.**避开某人：**  
  > Let’s keep out of her way while she is in such a bad mood.  
  > 她心情这样不好的时候咱们避开她吧。
 
 - no way
-1. **不可能；决不；不行：**  
+1.**不可能；决不；不行：**  
  > — I think you should phone Jenny and say sorry to her.  
  > 我认为你应该打电话向珍妮道歉。
 
@@ -884,7 +884,7 @@
  > 我们无论如何都花不起那种钱。
 
 - out of the way
-1. **不挡道；不碍事：**  
+1.**不挡道；不碍事：**  
  > As he walked on, Pierre moved out of the way for him to pass.  
  > 当他往前走的时候，皮埃尔让开路让他过去。
 
@@ -990,13 +990,13 @@
 固定搭配
 ---
 - wear off
-1. **逐渐减少；逐渐消失**  
+1.**逐渐减少；逐渐消失**  
 - wear out
-1. *高义频：* **穿破；磨损：**  
+1.*高义频：* **穿破；磨损：**  
  > My old boots are worn out.  
  > 我的旧靴子穿破了。
 
-2. *低义频：* **(使) 疲乏； (使) 耗尽； (使) 厌倦：**  
+2.*低义频：* **(使) 疲乏； (使) 耗尽； (使) 厌倦：**  
  > These birds are in danger of wearing themselves out by singing too much.  
  > 这些鸟因过度鸣叫面临着累坏自己的危险。
 
@@ -1267,7 +1267,7 @@
 固定搭配
 ---
 - you’re welcome
-1. **别客气；不用谢**  
+1.**别客气；不用谢**  
 
 # ***welcome*** int  重难点词汇
 英文释义
@@ -1330,20 +1330,20 @@
 固定搭配
 ---
 - as well
-1. **也；还：**  
+1.**也；还：**  
  > I’ll do some reading for fun, and for knowledge as well.   
  > 我会读点书，既可以消遣，也可以学点知识。
 
 - as well as
-1. *高义频：* **与...一样好：**  
+1.*高义频：* **与...一样好：**  
  > I wish I could speak English as well as he can.  
  > 我希望自己英语讲得跟他一样好。
 
-2. *高义频：* **除...之外 (也)：**  
+2.*高义频：* **除...之外 (也)：**  
  > As well as writing stories, I love reading and listening to music.   
  > 除了写小说，我还喜欢读书和听音乐。
 
-3. *高义频：* **不但...而且...：**  
+3.*高义频：* **不但...而且...：**  
  > The weather in England is very changeable and it attracts the English as well as the outsider.   
  > 英格兰的天气变化无常，这不仅引来了英国人，也吸引着外国人。
 
@@ -1351,7 +1351,7 @@
  > 科学既可以成为正义的力量，也可以成为邪恶势力的帮凶。
 
 - may / might (just) as well do sth 
-1. *高义频：* **做某事也无妨：**  
+1.*高义频：* **做某事也无妨：**  
  > Since we haven’t gone very far, we might just as well  turn around to get the map.   
  > 既然我们还没走远，我们不妨返回去取地图。
 
@@ -1535,12 +1535,12 @@
 固定搭配
 ---
 - (and) what is more
-1. **还有；而且：**  
+1.**还有；而且：**  
  > Natural gas is a very efficient fuel. And what’s more, it is clean.   
  > 天然气是一种很高效的燃料，而且是清洁的。
 
 - what (…) for 
-1. **为什么：**  
+1.**为什么：**  
  > His mother told him to put on his hat. “What for?” he asked.   
  > 他母亲让他戴上帽子。“带帽子干什么？”他问道。
 
@@ -1548,7 +1548,7 @@
  > 你为什么要那么做呢？
 
 - what if 
-1. **如果…会怎样：**  
+1.**如果…会怎样：**  
  > What if the train is late?   
  > 火车要是晚点怎么办？
 
@@ -1593,7 +1593,7 @@
 固定搭配
 ---
 - or whatever 
-1. **或诸如此类的东西：**  
+1.**或诸如此类的东西：**  
  > I can share with her our traveling experiences, taking care of pets, or whatever we have in common.   
  > 我可以跟她分享我们的旅行经历，怎样照顾宠物或任何我们有共同之处的事情。
 
@@ -2140,12 +2140,12 @@
 固定搭配
 ---
 - as a whole 
-1. **总体上：**  
+1.**总体上：**  
  > We must consider these matters as a whole.  
  > 我们必须全盘考虑这些事。
 
 - on the whole 
-1. **总的看来；总体而言：**  
+1.**总的看来；总体而言：**  
  > On the whole the warming of the earth is a phenomenon that causes great concern.  
  > 总的说来，地球变暖是一个引起极大关注的现象。
 
@@ -2231,11 +2231,11 @@
 固定搭配
 ---
 - why not
-1. *高义频：* **为什么不：**  
+1.*高义频：* **为什么不：**  
  > Why not buy a book or some pencils?  
  > 为什么不买本书或一些铅笔呢？
 
-2. *高义频：* **好啊：**  
+2.*高义频：* **好啊：**  
  > — Let’s go to the movies.   
  > 我们去看电影吧。
 
@@ -2243,7 +2243,7 @@
  > 好啊！
 
 - Why sb?
-1. **为什么是某人？**  
+1.**为什么是某人？**  
 
 # ***why*** int
 英文释义
@@ -2428,12 +2428,12 @@
 固定搭配
 ---
 - against one’s will 
-1. **不情愿地；违心地：**  
+1.**不情愿地；违心地：**  
  > I was forced to sign the agreement against my will.  
  > 我被迫违心地在协议上签了字。
 
 - at will 
-1. **随意地；随心所欲地：**  
+1.**随意地；随心所欲地：**  
  > They could travel at will, and the clock was not their master.   
  > 他们能随意旅行，不受时间支配。
 
@@ -2614,7 +2614,7 @@
 固定搭配
 ---
 - wipe out 
-1. **去除；消灭；摧毁：**  
+1.**去除；消灭；摧毁：**  
  > A volcanic eruption nearly wiped out the small island of Montserrat in 1997.   
  > 1997年的一次火山喷发差点把蒙塞拉特这个小岛给毁灭了。
 
@@ -2842,7 +2842,7 @@
 固定搭配
 ---
 - be (a) witness to
-1. **是…的目击者；是…的见证人**  
+1.**是…的目击者；是…的见证人**  
 
 # ***witness*** vt
 英文释义
@@ -2895,7 +2895,7 @@
 固定搭配
 ---
 - I wonder if / whether
-1. **[礼貌的请求] (我) 不知是否 (I was wondering if / whether)：**  
+1.**[礼貌的请求] (我) 不知是否 (I was wondering if / whether)：**  
  > I wonder if you can help me.  
  > 不知你是否能帮我。
 
@@ -2928,7 +2928,7 @@
 固定搭配
 ---
 - (it is) no wonder (that)
-1. **不足为奇：**  
+1.**不足为奇：**  
  > With all these attractions, no wonder tourism is increasing wherever there is a Disneyland.   
  > 有这些引人入胜的东西，难怪哪里有迪斯尼乐园，哪里的旅游业就会发展起来。
 
@@ -3046,32 +3046,32 @@
 固定搭配
 ---
 - break one’s word 
-1. **失信；食言：**  
+1.**失信；食言：**  
  > He has broken his word so many times that I cannot trust him any more.  
  > 他经常食言，我再也不能相信他了。
 
 - have a word with 
-1. **与…谈一谈：**  
+1.**与…谈一谈：**  
  > Where is Peter? I want to have a word with him.   
  > 彼得在哪儿？我想跟他谈一谈。
 
 - have words with 
-1. **与…争论：**  
+1.**与…争论：**  
  > I was very angry and had words with him over money.   
  > 我很生气，和他就钱的事吵了起来。
 
 - in a word 
-1. **总之；简言之；一句话：**  
+1.**总之；简言之；一句话：**  
  > In a word, good listening can really enable us to get closer to each other.  
  > 总之，认真倾听确实能使我们拉近彼此的距离。
 
 - in other words
-1. **也就是说；换句话说：**  
+1.**也就是说；换句话说：**  
  > In other words, English weather-speak is a means of social bonding.  
  > 换句话说，在英国谈论天气是一种社交手段。
 
 - keep one’s word 
-1. **遵守诺言：**  
+1.**遵守诺言：**  
  > She said she would be there at seven o’ clock, and he thought she would keep her word.   
  > 她说她7点钟到，他以为她不会食言。
 
@@ -3118,12 +3118,12 @@
 固定搭配
 ---
 - work on 
-1. **从事于；致力于：**  
+1.**从事于；致力于：**  
  > He has spent the last two years working on a book about childcare.   
  > 两年来他一直致力于撰写一本关于育儿的书。
 
 - work out
-1. *高义频：* **算出 (calculate)；总共达：**  
+1.*高义频：* **算出 (calculate)；总共达：**  
  > I’m just trying to work out how much I spend each month.   
  > 我正在尽力算出我每月的开销。
 
@@ -3131,22 +3131,22 @@
  > The travelling expenses work out at 12 dollars per day each.   
  > 每人每天的旅行费用总共12美元。
 
-2. *高义频：* **解决 (solve)；把...弄清楚：**  
+2.*高义频：* **解决 (solve)；把...弄清楚：**  
  > To work out the difficult maths problem, I have consulted Professor Russell several times.  
  > 为了解出这道数学难题，我已经请教拉塞尔教授好几次了。
 
-3. *高义频：* **制定 (出)：**  
+3.*高义频：* **制定 (出)：**  
  > Trained exercise teachers can help you work out a training plan and keep you active.   
  > 训练有素的体育老师能帮你制定一套训练计划，使你保持活力。
 
-4. *高义频：* **产生结果；被证明有效**  
+4.*高义频：* **产生结果；被证明有效**  
  > Everything worked out OK in the end.   
  > 事情的结果还不错。
 
  > I want to follow David’s example but it never worked out for me.  
  > 我想效仿大卫的做法，但这对我没有效果。
 
-5. *高义频：* **锻炼；训练：**  
+5.*高义频：* **锻炼；训练：**  
  > I go to the sports club and work out once a week.   
  > 我一周去一次体育馆锻炼。
 
@@ -3178,7 +3178,7 @@
 固定搭配
 ---
 - at work 
-1. **在工作；在运转：**  
+1.**在工作；在运转：**  
  > I was at work when I got a phone call.   
  > 我工作时接到一个电话。
 
@@ -3186,7 +3186,7 @@
  > 这台机器正在运转。
 
 - out of work 
-1. **失业 (unemployed)：**  
+1.**失业 (unemployed)：**  
  > I was worried about whether I would be out of work.  
  > 我担心自己是否会丢掉工作。
 
@@ -3250,11 +3250,11 @@
 固定搭配
 ---
 - in the world
-1. *高义频：* **[强调最高级] 在全世界：**  
+1.*高义频：* **[强调最高级] 在全世界：**  
  > I have the greatest job in the world.  
  > 我拥有世界上最好的工作。
 
-2. *高义频：* **[加强语气] 究竟：**  
+2.*高义频：* **[加强语气] 究竟：**  
  > Her eyes glaring, she shouted, “What in the world were you thinking?”  
  > 她瞪着眼睛喊道：“你究竟在想什么？”
 
@@ -3301,7 +3301,7 @@
 固定搭配
 ---
 - worn out 
-1. **破旧的；筋疲力尽的(exhausted)：**  
+1.**破旧的；筋疲力尽的(exhausted)：**  
  > It’s a very old watch and is quite worn out.   
  > 这是一块旧表，破旧不堪。
 
@@ -3392,7 +3392,7 @@
 固定搭配
 ---
 - worse and worse 
-1. **越来越坏；每况愈下：**  
+1.**越来越坏；每况愈下：**  
  > The weather is getting worse and worse.   
  > 天气变得越来越坏。
 
@@ -3405,7 +3405,7 @@
 固定搭配
 ---
 - for the worse 
-1. **向更坏的方向：**  
+1.**向更坏的方向：**  
  > The sick man’s condition changed for the worse.   
  > 这位病人的病情恶化了。
 
@@ -3712,12 +3712,12 @@
 固定搭配
 ---
 - write back 
-1. **回信：**  
+1.**回信：**  
  > I received his letter two weeks ago, but I forgot to write back.  
  > 我两星期前收到了他的信，但忘了给他回信。
 
 - write down 
-1. **写下；记下：**  
+1.**写下；记下：**  
  > I wrote down new words and added them to my collection.   
  > 我记下新单词，加入到我自己的词汇表里。
 
@@ -3778,7 +3778,7 @@
 固定搭配
 ---
 - What’s wrong with …?
-1. **…怎么了？**  
+1.**…怎么了？**  
  > I don’t know what’s wrong with the engine.   
  > 我不知道引擎出了什么问题。
 

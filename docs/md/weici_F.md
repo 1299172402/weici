@@ -44,7 +44,7 @@
 固定搭配
 ---
 - face to face
-1. **面对面地 :**  
+1.**面对面地 :**  
  > I have often dreamed of talking face to face with you.  
  > 我一直希望和你当面聊一聊。
 
@@ -52,22 +52,22 @@
  > 他面临一个新问题。
 
 - in the face of
-1. **面对；不顾：**  
+1.**面对；不顾：**  
  > He remained calm even in the face of danger.  
  > 即使面对危险，他也镇定自若。
 
 - lose face
-1. **丢脸；失面子：**  
+1.**丢脸；失面子：**  
  > She was afraid of losing face if she failed.  
  > 她害怕如果失败会很没面子。
 
 - make / pull a face / faces
-1. **做鬼脸：**  
+1.**做鬼脸：**  
  > The boys made faces at each other when the teacher turned her back.  
  > 老师转过身去的时候，孩子们互相做鬼脸。
 
 - to sb's face
-1. **当着某人的面：**  
+1.**当着某人的面：**  
  > They called Tony “Fatty” but never to his face.  
  > 他们叫托尼“胖子”,但从未当面叫过他。
 
@@ -103,7 +103,7 @@
 固定搭配
 ---
 - face up to 
-1. **勇于面对 / 接受：**  
+1.**勇于面对 / 接受：**  
  > Facing up to your problems rather than running away from them is the best approach to working things out.  
  > 勇于面对自己的问题而不是逃避是解决事情的最好办法。
 
@@ -165,7 +165,7 @@
 固定搭配
 ---
 - as a matter of fact / in fact
-1. **事实上 (actually)：**  
+1.**事实上 (actually)：**  
  > As a matter of fact, there are educational, music and art websites that are truly helpful to teenagers.  
  > 事实上，有很多教育、音乐和艺术类网站对青少年很有益。
 
@@ -179,7 +179,7 @@
  > 事实上我去过。
 
 - in fact
-1. **其实；实际上 (actually)：**  
+1.**其实；实际上 (actually)：**  
  > In fact, exercise produces chemicals that are good for your brain.  
  > 事实上，运动产生对大脑有益的化学物质。
 
@@ -230,7 +230,7 @@
 固定搭配
 ---
 - fade out
-1. **(画面) 淡出；(声音) 渐弱：**  
+1.**(画面) 淡出；(声音) 渐弱：**  
  > The closing music fades out when the hero rides off into the sunset.  
  > 随着男主角策马向夕阳驰去，尾声音乐逐渐消失。
 
@@ -296,7 +296,7 @@
 ---
 1.**[C] (考试) 不及格**  
 - without fail
-1. **必定；总是；务必**  
+1.**必定；总是；务必**  
 
 # ***failure*** n
 英文释义
@@ -586,7 +586,7 @@
 固定搭配
 ---
 - fall apart
-1. **散架；瓦解：**  
+1.**散架；瓦解：**  
  > I think this old chair is falling apart.  
  > 我觉得这把旧椅子要散架了。
 
@@ -594,17 +594,17 @@
  > 我们在价格上未能达成一致，生意没做成。
 
 - fall back on
-1. **求助于；借助于：**  
+1.**求助于；借助于：**  
  > I don’t want to have nothing else to fall back on when I can’t model any more.  
  > 我不想当自己不能再做模特时没有其他东西可依靠。
 
 - fall behind
-1. **落在 (…) 后面；跟不上：**  
+1.**落在 (…) 后面；跟不上：**  
  > When some students fell behind, others would come and offer help.  
  > 当有些同学落后时，其他的同学就会主动来帮忙。
 
 - fall down
-1. **跌倒；倒塌；不尽如人意：**  
+1.**跌倒；倒塌；不尽如人意：**  
  > You must watch your step so as not to fall down.  
  > 你必须留心脚下以免跌倒。
 
@@ -615,7 +615,7 @@
  > 这就是该理论的不足之处。
 
 - fall for
-1. **[非正式用语] 爱上；上…的当：**  
+1.**[非正式用语] 爱上；上…的当：**  
  > A friend of mine went to Yunnan and fell for a Dai woman.  
  > 我有个朋友去云南时爱上了一位傣族女子。
 
@@ -623,18 +623,18 @@
  > 我们绝不能轻信这种小把戏而上当啊！
 
 - fall off
-1. **(从…) 掉下；跌落：**  
+1.**(从…) 掉下；跌落：**  
  > When you are learning to ride a bicycle, you often fall off.  
  > 学骑自行车时，经常会摔下来。
 
 - fall out
-1. **(牙齿或头发) 脱落；掉落：**  
+1.**(牙齿或头发) 脱落；掉落：**  
  > **2018 江苏改**  
  > The old couple’s hair was falling out.  
  > 这对老夫妇的头发在脱落。
 
 - fall over 
-1. **被…绊倒；倒下：**  
+1.**被…绊倒；倒下：**  
  > I rushed for the door and fell over the cat in the hallway.   
  > 我向门口冲去，在过道被猫绊了一跤。
 
@@ -796,7 +796,7 @@
 固定搭配
 ---
 - fancy oneself (as) sth
-1. **自以为是某种人**  
+1.**自以为是某种人**  
 
 # ***fancy*** n
 英文释义
@@ -814,7 +814,7 @@
 固定搭配
 ---
 - take sb's fancy
-1. **引起某人的兴趣：**  
+1.**引起某人的兴趣：**  
  > I could do without TV because few shows take my fancy.  
  > 我不看电视也行，因为很少有节目能引起我的兴趣。
 
@@ -922,7 +922,7 @@
 固定搭配
 ---
 - as / so far as
-1. **到…那么远；一直到：**  
+1.**到…那么远；一直到：**  
  > We didn't go so far as the others.  
  > 我们没有其他人走得那么远。
 
@@ -930,7 +930,7 @@
  > 这个公园一直延伸到河边。
 
 - as / so far as I know / can remember / can see, etc.
-1. **据我所知 / 记得 / 看等：**  
+1.**据我所知 / 记得 / 看等：**  
  > As far as I know, the Pacific Ocean is the largest ocean in the world.  
  > 据我所知，太平洋是世界上最大的海洋。
 
@@ -938,7 +938,7 @@
  > 依我看，只有一种方法可以避免危险。
 
 - by far
-1. **[修饰比较级或最高级，强调数量、程度等] …得多；最：**  
+1.**[修饰比较级或最高级，强调数量、程度等] …得多；最：**  
  > It's quicker by far to go by train.  
  > 乘火车要快得多。
 
@@ -949,7 +949,7 @@
  > 这样好得多。
 
 - far from
-1. **远非；完全不：**  
+1.**远非；完全不：**  
  > The most obvious goal of a college education is to give knowledge, but it is far from the most important.  
  > 大学教育最显而易见的目标是传授知识，但这远非是最重要的。
 
@@ -957,12 +957,12 @@
  > 这些在线服务中有许多不但不向消费者收取高额费用，而且还免费。
 
 - go so far / as far as to do sth
-1. **[口语] 竟然做某事；甚至做某事：**  
+1.**[口语] 竟然做某事；甚至做某事：**  
  > She goes so far as to declare that a Chinese word can never give you the exact meaning of a word in English!  
  > 她甚至说，汉语词绝对不能表达英语词的确切含义。
 
 - so far
-1. **迄今为止：**  
+1.**迄今为止：**  
  > See, this is what I've done so far.  
  > 看，这就是到目前为止我所做的。
 
@@ -1119,7 +1119,7 @@
 固定搭配
 ---
 - in (a) … fashion
-1. **以…的方式：**  
+1.**以…的方式：**  
  > He walks in a strange fashion.  
  > 他走路的样子很奇怪。
 
@@ -1153,7 +1153,7 @@
 固定搭配
 ---
 - hard and fast
-1. **不可更改的；板上钉钉的：**  
+1.**不可更改的；板上钉钉的：**  
  > There are basically no hard and fast rules about public speaking.  
  > 公众演讲基本上没有一成不变的规则。
 
@@ -1286,12 +1286,12 @@
 固定搭配
 ---
 - at fault 
-1. **有责任；有错：**  
+1.**有责任；有错：**  
  > Perhaps the railway authorities are at fault for poor signalling system.  
  > 或许，铁路部门应该对糟糕的信号系统负责。
 
 - find fault (with)
-1. **找碴儿；抱怨；挑剔：**  
+1.**找碴儿；抱怨；挑剔：**  
  > Try not to find fault with your friends.  
  > 不要挑剔你的朋友。
 
@@ -1355,12 +1355,12 @@
 固定搭配
 ---
 - in favour of
-1. **赞同；支持：**  
+1.**赞同；支持：**  
  > Opportunities and success tend to be in favour of those who are ready.  
  > 机遇和成功往往青睐那些有准备的人。
 
 - in sb's favour
-1. **对某人有利：**  
+1.**对某人有利：**  
  > We voted for the monitor, and the result was 28 to 15 in Wang Hong's favor.  
  > 我们选举班长，结果是28比15，王红当选。
 
@@ -1425,7 +1425,7 @@
 固定搭配
 ---
 - for fear of (doing) sth / for fear (that)
-1. **生怕 (做) 某事；以免 (做) 某事：**  
+1.**生怕 (做) 某事；以免 (做) 某事：**  
  > People often don't do what they really want to for fear of failure.  
  > 人们常因害怕失败而不去做自己真正想做的事。
 
@@ -1436,12 +1436,12 @@
  > 他早早就出发了，以免面试迟到。
 
 - in fear (of sth)
-1. **恐惧(某事)；担心 (某事)：**  
+1.**恐惧(某事)；担心 (某事)：**  
  > If someone comes up behind you and touches you lightly on the shoulder, you may jump in fear.  
  > 如果有人从身后走近你，并轻触你的肩膀，你可能会吓一跳。
 
 - without fear (of sth)
-1. **不畏惧 (某事)：**  
+1.**不畏惧 (某事)：**  
  > Team members must be able to express their opinions freely without fear of being criticized.  
  > 团队成员必须能够自由表达自己的观点，不怕被责备。
 
@@ -1501,7 +1501,7 @@
 固定搭配
 ---
 - birds of a feather (flock together)
-1. **物以类聚，人以群分**  
+1.**物以类聚，人以群分**  
 
 # ***feature*** n
 英文释义
@@ -1619,19 +1619,19 @@
 固定搭配
 ---
 - (be) fed up with
-1. **(对…) 感到厌烦 (be bored with)：**  
+1.**(对…) 感到厌烦 (be bored with)：**  
  > I'm fed up with this wet weather.  
  > 我讨厌这种下雨天。
 
 - feed back (into / to)
-1. **反馈；反过来对…起作用：**  
+1.**反馈；反过来对…起作用：**  
  > What the audience tells me feeds back into my work.  
  > 观众给我提的意见反过来对我的作品产生了影响。
 
 - feed into
-1. **对…的发展产生影响**  
+1.**对…的发展产生影响**  
 - feed on
-1. **以…为食：**  
+1.**以…为食：**  
  > Bats fly at night and feed on insects.  
  > 蝙蝠在夜间飞行，以昆虫为食。
 
@@ -1801,12 +1801,12 @@
 固定搭配
 ---
 - feel at home
-1. **感觉自在；无拘束：**  
+1.**感觉自在；无拘束：**  
  > Her kind smile made every guest feel at home.  
  > 她亲切的笑容使每个人都感觉宾至如归。
 
 - feel like (doing) sth
-1. **想要（做）某事：**  
+1.**想要（做）某事：**  
  > Do you feel like a game of tennis?  
  > 想打场网球吗？
 
@@ -1814,7 +1814,7 @@
  > 天气这么好，我想出去野餐。
 
 - feel (like / quite) oneself
-1. **觉得身体情况正常：**  
+1.**觉得身体情况正常：**  
  > I don’t feel quite myself today.  
  > 我今天感到不太舒服。
 
@@ -2032,7 +2032,7 @@
 固定搭配
 ---
 - a few
-1. **少数；几个：**  
+1.**少数；几个：**  
  > Here are a few suggestions.  
  > 这里有几条建议。
 
@@ -2041,12 +2041,12 @@
  > 他们中有几个人讲英语。
 
 - a good few / quite a few / not a few
-1. **相当多；不少：**  
+1.**相当多；不少：**  
  > Dad told me quite a few stories about his own childhood.  
  > 爸爸给我讲了不少他童年的故事。
 
 - few and far between
-1. **稀少；罕见**  
+1.**稀少；罕见**  
 
 # ***fiancé*** n
 英文释义
@@ -2189,7 +2189,7 @@
 固定搭配
 ---
 - fight back
-1. **反击；回击；克制：**  
+1.**反击；回击；克制：**  
  > Lewis fought back to win the game.  
  > 刘易斯奋起反击，以赢得比赛。
 
@@ -2290,7 +2290,7 @@
 固定搭配
 ---
 - figure out
-1. **弄清楚；弄明白；计算出：**  
+1.**弄清楚；弄明白；计算出：**  
  > College is when we should focus on a specific major, but high school is when we have to figure it out.  
  > 在大学时我们需要专注于某一专业，而在中学时我们需要找出这一专业。
 
@@ -2391,18 +2391,18 @@
 固定搭配
 ---
 - fill in / out 
-1. **填充；填写；填满 (complete)：**  
+1.**填充；填写；填满 (complete)：**  
  > **fill in,forms**  
  > You need to fill in some forms if you are interested.  
  > 如果有兴趣，你需要填一些表格。
 
 - fill in for 
-1. **临时替代：**  
+1.**临时替代：**  
  > She told me to fill in for a worker who had the flu.  
  > 她让我临时为一个得了流感的人代班。
 
 - fill up 
-1. **(使) 变满；充满：**  
+1.**(使) 变满；充满：**  
  > Shall I fill the car up (with petrol)?   
  > 要不要我给车加满汽油？
 
@@ -2618,7 +2618,7 @@
 固定搭配
 ---
 - find out
-1. **发现；查明；弄清 (情况)：**  
+1.**发现；查明；弄清 (情况)：**  
 - find out + wh- to do:
 
  > You can go online and find out how to do it.  
@@ -2795,17 +2795,17 @@
 固定搭配
 ---
 - finish off 
-1. **完成；作最后加工；吃完：**  
+1.**完成；作最后加工；吃完：**  
  > Could you just give me a minute to finish off what I'm doing?  
  > 你能给我一点时间让我完成手头的工作吗？
 
 - finish up
-1. **[BrE] [非正式用语] 以…终结；吃完：**  
+1.**[BrE] [非正式用语] 以…终结；吃完：**  
  > Many speakers finish up their speeches with question-and-answer sessions.  
  > 许多演讲者以问答环节结束自己的演讲。
 
 - finish with
-1. **[常用于完成时，不用于进行时] 完成；结束：**  
+1.**[常用于完成时，不用于进行时] 完成；结束：**  
  > Please return the paper to me when you have finished with it.  
  > 看完报纸之后请还给我。
 
@@ -2859,7 +2859,7 @@
 固定搭配
 ---
 - catch fire 
-1. **着火：**  
+1.**着火：**  
  > Hundreds of houses caught fire when the lava reached them.  
  > 熔岩袭来时，成百上千的房屋着了火。
 
@@ -2867,7 +2867,7 @@
  > 地下室意外着火了。
 
 - on fire
-1. **着火；火辣辣：**  
+1.**着火；火辣辣：**  
  > His clothes were on fire.  
  > 他的衣服着火了。
 
@@ -2875,9 +2875,9 @@
  > 我呆呆地站着，脸上火辣辣的，恨不能找个洞躲进去。
 
 - play with fire
-1. **玩火**  
+1.**玩火**  
 - set ... on fire / set fire to
-1. **使…燃烧；放火烧：**  
+1.**使…燃烧；放火烧：**  
  > A cigarette end set the house on fire.  
  > 一根烟蒂点燃了这所房子。
 
@@ -3030,12 +3030,12 @@
 固定搭配
 ---
 - at first 
-1. **起先；开始的时候：**  
+1.**起先；开始的时候：**  
  > I didn't like the job much at first.  
  > 起初我并不太喜欢这个工作。
 
 - first of all 
-1. **首先；第一 (first / firstly)：**  
+1.**首先；第一 (first / firstly)：**  
  > I don't think Helen should go — first of all, she is too young.  
  > 我认为海伦不应该去，首先，她太年轻了。
 
@@ -3131,7 +3131,7 @@
 固定搭配
 ---
 - fit … in / into
-1. **安排时间 (见某人、做某事)；有足够的空间：**  
+1.**安排时间 (见某人、做某事)；有足够的空间：**  
  > If my schedule allows it, I'll fit you in.  
  > 如果日程安排允许，我就抽时间见你。
 
@@ -3142,7 +3142,7 @@
  > 还能再放张桌子吗？
 
 - fit in (with)
-1. **适合；(与…) 合得来；适应：**  
+1.**适合；(与…) 合得来；适应：**  
  > The new building must fit in with its surroundings.  
  > 这座新建筑必须与其周围的环境相协调。
 
@@ -3153,7 +3153,7 @@
  > 詹娜决定继续努力适应新学校。
 
 - fit into
-1.  > She fitted into the team very well.  
+1. > She fitted into the team very well.  
  > 她与队友相处得十分融洽。
 
 
@@ -3243,7 +3243,7 @@
 固定搭配
 ---
 - fix … on / upon 
-1. **集中 (目光、注意力等) 于：**  
+1.**集中 (目光、注意力等) 于：**  
  > **fixed my eyes on**  
  > I fixed my eyes on the word “congratulations.”  
  > 我的眼睛盯着“祝贺你”这几个字。
@@ -3253,7 +3253,7 @@
  > 你必须集中注意力听老师讲。
 
 - fix up 
-1. **修理好；安顿；安排：**  
+1.**修理好；安顿；安排：**  
  > They fixed up the house before they moved in.  
  > 他们把房子修整好才搬进去。
 
@@ -3331,7 +3331,7 @@
 
 3.*低义频：* **[U] 网站动画制作程序**  
 - in / like a flash
-1. **很快地；马上：**  
+1.**很快地；马上：**  
  > Just wait here. I'll be back in a flash.  
  > 就在这里等着，我马上回来。
 
@@ -3442,9 +3442,9 @@
 固定搭配
 ---
 - flesh and blood 
-1. **血肉之躯**  
+1.**血肉之躯**  
 - in the flesh 
-1. **亲自；本人：**  
+1.**亲自；本人：**  
  > We won't have to go there in the flesh at all!  
  > 我们无需亲自前往！
 
@@ -3731,7 +3731,7 @@
 固定搭配
 ---
 - fly off the handle
-1. **[非正式用语] 大发雷霆**  
+1.**[非正式用语] 大发雷霆**  
 
 # ***fly*** n
 英文释义
@@ -3757,11 +3757,11 @@
 固定搭配
 ---
 - come into focus
-1. **成为焦点**  
+1.**成为焦点**  
 - in focus 
-1. **焦点对准的；清晰的**  
+1.**焦点对准的；清晰的**  
 - out of focus 
-1. **焦点未对准的；模糊不清的**  
+1.**焦点未对准的；模糊不清的**  
 
 # ***focus*** v
 英文释义
@@ -3774,7 +3774,7 @@
 固定搭配
 ---
 - focus on / upon
-1. **集中(...)于；聚焦(...)于：**  
+1.**集中(...)于；聚焦(...)于：**  
  > You should stop focusing on whom to blame and start focusing on how to remedy the situation.  
  > 你应该开始关注如何改善局面而不是去责怪谁。
 
@@ -3928,19 +3928,19 @@
 固定搭配
 ---
 - as follows
-1. **如下：**  
+1.**如下：**  
  > I decided on science as my main subject of study. The reasons are as follows.  
  > 我决定主修理科，理由如下。
 
 - follow in sb's footsteps
-1. **效仿某人；步某人的后尘；继承某人的事业：**  
+1.**效仿某人；步某人的后尘；继承某人的事业：**  
  > He is a doctor and expects his son to follow in his footsteps.  
  > 他是名医生，期望儿子能继承他的事业。
 
 - follow suit 
-1. **照着做；跟着做**  
+1.**照着做；跟着做**  
 - follow up 
-1. **追究；继续做：**  
+1.**追究；继续做：**  
  > follow up a clue   
  > 追查线索
 
@@ -3970,7 +3970,7 @@
 固定搭配
 ---
 - the following 
-1. **下列；如下：**  
+1.**下列；如下：**  
  > The following is about the BBC and some other broadcasting stations in Britain.  
  > 下面是关于BBC和其他一些英国广播电台的介绍。
 
@@ -4032,12 +4032,12 @@
 固定搭配
 ---
 - make a fool of sb
-1. **愚弄某人：**  
+1.**愚弄某人：**  
  > We were all made fools of by the salesman.  
  > 我们全都被推销员骗了。
 
 - make a fool of oneself 
-1. **干蠢事；出洋相**  
+1.**干蠢事；出洋相**  
 
 # ***fool*** v
 英文释义
@@ -4056,7 +4056,7 @@
  > 别再胡闹了。
 
 - fool around / about
-1. **游手好闲；胡混：**  
+1.**游手好闲；胡混：**  
  > Stop fooling around and get back to work.  
  > 你别再胡闹了！工作去吧！
 
@@ -4113,11 +4113,11 @@
 固定搭配
 ---
 - on foot 
-1. **步行**  
+1.**步行**  
 - on one's feet
-1. **痊愈；(困境后) 恢复**  
+1.**痊愈；(困境后) 恢复**  
 - set foot in / on 
-1. **进入；访问；参观：**  
+1.**进入；访问；参观：**  
  > He has never set foot in a library and he isn't about to do so today.  
  > 他从未去过图书馆，今天也不会去。
 
@@ -4125,7 +4125,7 @@
  > 美国人尼尔·阿姆斯特朗成为第一个登上月球的人。
 
 - stand on one's own feet
-1. **独立自主**  
+1.**独立自主**  
 
 # ***football*** n
 英文释义
@@ -4294,12 +4294,12 @@
 固定搭配
 ---
 - in force 
-1. **(法律等) 有效；在实施中：**  
+1.**(法律等) 有效；在实施中：**  
  > The new law will soon come in force.  
  > 新的法律将很快生效。
 
 - join / combine forces (with)
-1. **(与…) 联合；(与…) 合作**  
+1.**(与…) 联合；(与…) 合作**  
 
 # ***force*** vt  重难点词汇
 英文释义
@@ -4441,21 +4441,21 @@
 固定搭配
 ---
 - forget it
-1. *高义频：* **没关系；不必在意：**  
+1.*高义频：* **没关系；不必在意：**  
  > — Sorry, Liz. I think I was a bit rude to you.  
  > 很抱歉，利兹，我想我刚才对你有些无礼。
 
  > — Forget it, but don't do that again!  
  > 没关系，但下不为例！
 
-2. *低义频：* **休想；不可能：**  
+2.*低义频：* **休想；不可能：**  
  > — I'd like to take a week's holiday.  
  > 我想休一周假。
 
  > — Forget it; we're too busy.  
  > 不可能，我们太忙了。
 
-3. *低义频：* **别提了：**  
+3.*低义频：* **别提了：**  
  > — What were you saying about John?  
  > 你刚才说约翰什么来着？
 
@@ -4496,7 +4496,7 @@
 固定搭配
 ---
 - forgive and forget 
-1. **不念旧恶；不记仇：**  
+1.**不念旧恶；不记仇：**  
  > It is a virtue to forgive and forget, especially in such a competitive and stressful society.  
  > 不记仇是一种美德，特别是在这样一个竞争激烈、有压力的社会中。
 
@@ -4682,7 +4682,7 @@
 固定搭配
 ---
 - and so forth / and so on (and so forth) 
-1. **等等**  
+1.**等等**  
 
 # ***fortnight*** n
 英文释义
@@ -5017,12 +5017,12 @@
 固定搭配
 ---
 - for free 
-1. **免费：**  
+1.**免费：**  
  > I worked for free for a non-profit organization.  
  > 我曾无偿为一个非营利性组织工作过。
 
 - free from
-1. **不受…影响的；没有…的：**  
+1.**不受…影响的；没有…的：**  
  > (be) free from work / duty   
  > 不工作/不值班
 
@@ -5033,12 +5033,12 @@
  > 雨季最令人愉快的是可以完全没有尘土。
 
 - free of 
-1. **无…的；摆脱了…的：**  
+1.**无…的；摆脱了…的：**  
  > It was several weeks before he was completely free of pain.  
  > 过了几星期他的疼痛才完全消除。
 
 - set … free
-1. **使获得自由；释放：**  
+1.**使获得自由；释放：**  
  > The bird was set free.  
  > 鸟儿重新获得了自由。
 
@@ -5290,11 +5290,11 @@
 固定搭配
 ---
 - be / make friends (with) 
-1. **(与…) 交朋友**  
+1.**(与…) 交朋友**  
 - keep friends with 
-1. **与…保持友好关系**  
+1.**与…保持友好关系**  
 - make friends again 
-1. **言归于好；重修旧好**  
+1.**言归于好；重修旧好**  
 
 # ***friendly*** adj
 英文释义
@@ -5353,7 +5353,7 @@
 固定搭配
 ---
 - frighten away / off 
-1. **把…吓跑：**  
+1.**把…吓跑：**  
  > The dog frightened the thief away.   
  > 狗把小偷吓跑了。
 
@@ -5361,7 +5361,7 @@
  > 孩子们的叫喊声把鸟儿吓飞了。
 
 - frighten sb to death / frighten the life out of sb
-1. **把某人吓得要命：**  
+1.**把某人吓得要命：**  
  > Spiders frighten her to death. / Spiders frighten the life out of her.  
  > 蜘蛛把她吓得要死。
 
@@ -5467,7 +5467,7 @@
 固定搭配
 ---
 - in front (of)
-1. **在 (…) 前面；在 (…) 面前：**  
+1.**在 (…) 前面；在 (…) 面前：**  
  > He drove straight into the car in front.  
  > 他一下子撞上了前面的车。
 
@@ -5478,7 +5478,7 @@
  > 我们应该勇敢面对困难。
 
 - in the front (of) 
-1. **在 (…内的) 前部：**  
+1.**在 (…内的) 前部：**  
  > The seat in the front is free.   
  > 前面的座位没人坐。
 
@@ -5548,7 +5548,7 @@
 固定搭配
 ---
 - bear fruit 
-1. **(树等) 结果；(计划等) 成功**  
+1.**(树等) 结果；(计划等) 成功**  
  > A plan can bear no fruit without being actually carried out.  
  > 一项计划若不真正付诸实施，就会毫无结果。
 
@@ -5650,7 +5650,7 @@
 固定搭配
 ---
 - (be) full of 
-1. **充满…的；富于…的：**  
+1.**充满…的；富于…的：**  
  > He was a man full of imagination.  
  > 他是个想象力丰富的人。
 
@@ -5658,9 +5658,9 @@
  > 公园里充满了春天的生机和美丽，阳光明媚、鸟鸣婉转。
 
 - in full 
-1. **全部地**  
+1.**全部地**  
 - to the full / fullest 
-1. **充分地；尽可能地：**  
+1.**充分地；尽可能地：**  
  > I've always believed in living life to the full.  
  > 我一直相信要尽可能地充实自己的生活。
 
@@ -5712,7 +5712,7 @@
 固定搭配
 ---
 - for fun 
-1. **为了玩乐：**  
+1.**为了玩乐：**  
  > I'll do some reading for fun, and for knowledge as well.  
  > 我会读些书，为了消遣，也为了获取知识。
 
@@ -5720,17 +5720,17 @@
  > 各大洲的人们都踢足球，一些人为了消遣，一些人为了生存。
 
 - in fun
-1. **闹着玩地：**  
+1.**闹着玩地：**  
  > I am not saying it in fun.   
  > 我讲这话不是开玩笑的。
 
 - have fun 
-1. **作乐；玩乐：**  
+1.**作乐；玩乐：**  
  > Have fun (= enjoy yourself)!  
  > 好好玩吧！
 
 - make fun of 
-1. **取笑；拿…开玩笑：**  
+1.**取笑；拿…开玩笑：**  
  > Don't feel sorry for the disabled or make fun of them, and don't ignore them either.  
  > 不要感到残疾人可怜，或者取笑他们，也别不理睬他们。
 
@@ -5960,12 +5960,12 @@
 固定搭配
 ---
 - in future 
-1. **今后：**  
+1.**今后：**  
  > If you can just help me out this time, I promise I'll be more careful in future.  
  > 只要这次你能帮我，我保证以后会更加小心。
 
 - in the (near) future 
-1. **在 (不久的) 将来**  
+1.**在 (不久的) 将来**  
  > No one can tell what will happen in the future.  
  > 没人能说准将来会发生什么事。
 
@@ -5976,12 +5976,12 @@
  > 在不久的将来电影市场也许会萎缩。
 
 - have a / no future 
-1. **有 / 没有前途；有 / 没有未来：**  
+1.**有 / 没有前途；有 / 没有未来：**  
  > Our world has a future only if people learn to conserve nature and not waste energy.  
  > 人们只有学会保护自然和节约能源，我们的世界才会有未来。
 
 - there is a / no future in sth 
-1. **某事有 / 没有前途：**  
+1.**某事有 / 没有前途：**  
  > He felt there was no future in farming.  
  > 他觉得务农没有前途。
 

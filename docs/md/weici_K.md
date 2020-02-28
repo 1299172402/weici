@@ -101,22 +101,22 @@
 固定搭配
 ---
 - keep (on) doing sth 
-1. **持续做某事；反复做某事：**  
+1.**持续做某事；反复做某事：**  
  > She pretended not to hear, and kept on walking.  
  > 她假装没听见，继续往前走。
 
 - keep ... from doing sth
-1. **阻止…做某事：**  
+1.**阻止…做某事：**  
  > We must keep them from getting to know our plans.  
  > 一定不要让他们知道我们的计划。
 
 - keep going 
-1. **尽力维持下去；坚持 (活) 下去：**  
+1.**尽力维持下去；坚持 (活) 下去：**  
  > I don't like the thought of giving it up and will try to keep going forever.  
  > 我不喜欢放弃的想法，我会尽力永远坚持下去。
 
 - keep off 
-1. **避开；(使) 不接近：**  
+1.**避开；(使) 不接近：**  
  > We had to think of a way to keep off the rain.   
  > 我们得想个办法避雨。
 
@@ -127,7 +127,7 @@
  > 牌子上写着“请勿践踏草坪”。
 
 - keep on 
-1. **继续下去**  
+1.**继续下去**  
  > I'm happy to just keep on until it is finished.  
  > 我乐意继续做下去，直到完成任务。
 
@@ -135,12 +135,12 @@
  > 雨一连下了好几天。
 
 - keep ... out (of) 
-1. **遮挡；使…不进入：**  
+1.**遮挡；使…不进入：**  
  > Please keep the dog out of the study.   
  > 别让这只狗进书房。
 
 - keep to 
-1. **遵守；坚持 (stick to)：**  
+1.**遵守；坚持 (stick to)：**  
  > I'm sorry but we have to keep to the timetable.  
  > 抱歉，我们得遵守时间安排。
 
@@ -148,7 +148,7 @@
  > 不管你怎么争辩，我都将坚持自己的决定。
 
 - keep up 
-1. **保持；继续 (continue)：**  
+1.**保持；继续 (continue)：**  
  > Some senior high students chanted slogans to keep their spirits up before the big examination.  
  > 一些高中生在大考前喊口号以保持高昂的情绪。
 
@@ -161,12 +161,12 @@
  > 如果你采取的这些措施奏效了，那就继续做下去。
 
 - keep sb up
-1. **使某人熬夜：**  
+1.**使某人熬夜：**  
  > I hope I'm not keeping you up.  
  > 希望我没有耽误你睡觉。
 
 - keep up with 
-1. **跟上：**  
+1.**跟上：**  
  > Jack has trouble keeping up with the rest of the class.  
  > 杰克很难跟上班里的其他同学。
 
@@ -263,12 +263,12 @@
 固定搭配
 ---
 - kick the habit 
-1. **戒除恶习：**  
+1.**戒除恶习：**  
  > Smokers have jammed telephone "quit lines" across the country seeking to kick the habit.  
  > 烟民已把全国的“戒烟热线”打爆了，他们都在寻求戒烟的办法。
 
 - kick off
-1. **开始；进行：**  
+1.**开始；进行：**  
  > Beijing Arts Festival will kick off on April 27 and run through May 31.  
  > 北京艺术节将在4月27日开始，持续到5月31日。
 
@@ -339,7 +339,7 @@
 固定搭配
 ---
 - a kind of 
-1. **…的一种；有几分；稍稍：**  
+1.**…的一种；有几分；稍稍：**  
  > An e-mail is usually a kind of informal letter.  
  > 电子邮件通常是一种非正式信件。
 
@@ -347,7 +347,7 @@
  > 我当时就隐约感觉到会出这事。
 
 - kind of 
-1. **有点儿；有几分**  
+1.**有点儿；有几分**  
  > I was kind of upset that you weren't there.  
  > 你没出现我有点不安。
 
@@ -368,7 +368,7 @@
 固定搭配
 ---
 - be so kind as to / be kind enough to 
-1. **请您费心：**  
+1.**请您费心：**  
  > Will you be so kind as to shut the door?   
  > 请您关上门好吗？
 
@@ -427,7 +427,7 @@
 固定搭配
 ---
 - kiss sth goodbye / kiss goodbye to sth
-1. **[非正式用语] 放弃某事物：**  
+1.**[非正式用语] 放弃某事物：**  
  > I might as well kiss the scholarship goodbye.   
  > 我还是放弃奖学金算了。
 
@@ -518,31 +518,31 @@
 固定搭配
 ---
 - knock at / on
-1. **敲 (门、窗等)：**  
+1.**敲 (门、窗等)：**  
  > Knock at the door before entering, please.   
  > 进来之前请敲门。
 
 - knock down
-1. *高义频：* **击倒；撞倒：**  
+1.*高义频：* **击倒；撞倒：**  
  > I was almost knocked down by a cyclist riding on the pavement.  
  > 我差点儿被一个在人行道上骑自行车的人撞倒。
 
-2. *高义频：* **拆 (屋)；拆卸 (机器)：**  
+2.*高义频：* **拆 (屋)；拆卸 (机器)：**  
  > These old buildings will sooner or later be knocked down.   
  > 这些老房子迟早得拆掉。
 
 - knock into 
-1. **撞在…上：**  
+1.**撞在…上：**  
  > He was in such a hurry that he almost knocked into me.   
  > 他如此匆忙，差点儿撞到我身上。
 
 - knock off 
-1. **[非正式用语] (从价格等中) 减去：**  
+1.**[非正式用语] (从价格等中) 减去：**  
  > If you buy more than ten, they knock 20 pence off the price.   
  > 如果买10个以上的话，他们会便宜20便士。
 
 - knock over 
-1. **撞倒；打翻：**  
+1.**撞倒；打翻：**  
  > Roy’s father was knocked over by a car.   
  > 罗伊的爸爸被车撞倒了。
 
@@ -604,7 +604,7 @@
 固定搭配
 ---
 - be known as 
-1. **以…而出名；被称作；被认为：**  
+1.**以…而出名；被称作；被认为：**  
  > Detroit was known as the automobile capital of the world.   
  > 底特律曾被认为是世界汽车之都。
 
@@ -612,17 +612,17 @@
  > 如今他是一个很有名气的作家。
 
 - be known for 
-1. **因…而闻名 (be famous for)：**  
+1.**因…而闻名 (be famous for)：**  
  > Guilin is known for its beautiful scenery.   
  > 桂林因风景秀丽而闻名。
 
 - be known to 
-1. **为…所熟知：**  
+1.**为…所熟知：**  
  > As is known to everybody, the moon travels round the earth once every month.   
  > 众所周知，月球每月绕地球一圈。
 
 - know about 
-1. **了解；知道…的情况：**  
+1.**了解；知道…的情况：**  
  > I happened to know about him.   
  > 我恰好了解他的一些情况。
 
@@ -631,7 +631,7 @@
  > 我不知道你怎么办，反正我要吃点东西。
 
 - know of 
-1. **知道；听说：**  
+1.**知道；听说：**  
  > I don't know him, but I know of him.  
  > 我不认识他，但听说过他。
 
@@ -660,7 +660,7 @@
 固定搭配
 ---
 - to (the best of) sb's knowledge
-1. **据某人所知**  
+1.**据某人所知**  
 
 # ***knuckle*** n
 英文释义

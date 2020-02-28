@@ -273,7 +273,7 @@
 固定搭配
 ---
 - a dark horse
-1. **黑马；出乎意料的获胜者**  
+1.**黑马；出乎意料的获胜者**  
 
 # ***dark*** n
 英文释义
@@ -290,7 +290,7 @@
 固定搭配
 ---
 - in the dark
-1. **在暗处；秘密地；全然不知的：**  
+1.**在暗处；秘密地；全然不知的：**  
  > Please tell me how the accident came about. I am still in the dark.  
  > 请告诉我事故的经过。我还蒙在鼓里呢。
 
@@ -400,7 +400,7 @@
 固定搭配
 ---
 - out of date 
-1. **过时的；陈旧的：**  
+1.**过时的；陈旧的：**  
  > an out-of-date train schedule   
  > 过时的列车时刻表
 
@@ -408,12 +408,12 @@
  > 这本字典过时了：自从它出版以来，语言中又增加了许多词汇。
 
 - to date 
-1. **至今；到目前为止：**  
+1.**至今；到目前为止：**  
  > I think it wise to review how much we’ve spent to date.  
  > 我认为把我们到目前为止的花费统计一下是明智的。
 
 - up to date 
-1. **最新的；时髦的：**  
+1.**最新的；时髦的：**  
  > This model is the newest and most up to date.  
  > 这一款是最新的，也是最时尚的。
 
@@ -440,7 +440,7 @@
 固定搭配
 ---
 - date back (to) / date from 
-1. **追溯到；远在…年代：**  
+1.**追溯到；远在…年代：**  
  > This tradition dates back to the 15th century.   
  > 这一传统可追溯到15世纪。
 
@@ -549,52 +549,52 @@
 固定搭配
 ---
 - all day (long) 
-1. **一整天：**  
+1.**一整天：**  
  > He seems to be on the move all day long.   
  > 他似乎一天到晚忙个不停。
 
 - (all) day and (all) night
-1. **整日整夜；日日夜夜地：**  
+1.**整日整夜；日日夜夜地：**  
  > All day and all night it snowed, and the city began to suffer from a general traffic jam.   
  > 大雪不分昼夜地下，全城陷入交通大拥堵。
 
 - day after day 
-1. **[强调重复] 日复一日地；天天：**  
+1.**[强调重复] 日复一日地；天天：**  
  > The scientists worked hard in the laboratory day after day.   
  > 那些科学家们日复一日地在实验室努力工作。
 
 - day by day
-1. **[强调变化] 一天天地；逐日地：**  
+1.**[强调变化] 一天天地；逐日地：**  
  > The weather is getting warmer and warmer day by day.   
  > 天气一天天地暖和起来。
 
 - day in and day out / day in, day out 
-1. **天天：**  
+1.**天天：**  
  > Day in and day out I follow almost the same routine.  
  > 日复一日，我每天都做着几乎同样的事情。
 
 - one day 
-1. **(过去或将来的) 某一天：**  
+1.**(过去或将来的) 某一天：**  
  > Given the right kind of training, these teenage soccer players may one day grow into international stars.    
  > 给予适当的训练，这些青少年足球运动员有朝一日可望成为国际巨星。
 
 - some day 
-1. **(将来) 总有一天； (日后) 某一天：**  
+1.**(将来) 总有一天； (日后) 某一天：**  
  > I hope I can meet him some day.  
  > 我希望有一天能见到他。
 
 - the other day 
-1. **前几天；前不久：**  
+1.**前几天；前不久：**  
  > When I met him the other day, he had just come back from work, looking excited.   
  > 前几天我碰到他的时候，他正好下班回来，看上去很兴奋。
 
 - these days 
-1. **现在；如今：**  
+1.**现在；如今：**  
  > As you can see, the number of cars on roads keeps rising these days.    
  > 如你所见，如今路上的车辆越来越多。
 
 - to this day 
-1. **至今：**  
+1.**至今：**  
  > I didn’t find time to say good-bye to you before I left. I regret it to this day.   
  > 走之前来不及跟你告别，我至今后悔不已。
 
@@ -724,7 +724,7 @@
 固定搭配
 ---
 - turn a deaf ear (to) 
-1. **(对…) 置之不理：**  
+1.**(对…) 置之不理：**  
  > Many of them turned a deaf ear to his advice, even though they knew it to be valuable.   
  > 他们中的许多人对他的建议置之不理，即使他们知道他的建议是有益的。
 
@@ -733,23 +733,23 @@
 固定搭配
 ---
 - deal in
-1. **经营；买卖：**  
+1.**经营；买卖：**  
  > The company deals in computer software.  
  > 这个公司经营计算机软件。
 
 - deal with
-1. *高义频：* **处理；对付；应付 (handle)：**  
+1.*高义频：* **处理；对付；应付 (handle)：**  
  > I can’t control what happens to me, but I can choose how I deal with it.   
  > 我无法掌控发生在自己身上的事，但我能选择如何应对。
 
  > She’s used to dealing with all kinds of people in her job.  
  > 她习惯于在工作中同各种各样的人打交道。
 
-2. *高义频：* **涉及；论及：**  
+2.*高义频：* **涉及；论及：**  
  > This book deals with the ancient history of China.  
  > 这本书讲述了中国的古代史。
 
-3. *高义频：* **和...做生意**  
+3.*高义频：* **和...做生意**  
  > In many people’s opinion, that company, though relatively small, is pleasant to deal with.    
  > 许多人认为那家公司虽小，但跟它做生意却很愉快。
 
@@ -777,16 +777,16 @@
 固定搭配
 ---
 - a great / good deal
-1. *高义频：* **大量；很多：**  
+1.*高义频：* **大量；很多：**  
  > Although she had never met that expert, she knew a great deal about him.  
  > 尽管她从来没有见过那位专家，但是她对他很了解。
 
-2. *高义频：* **[常接比较级] ...得多：**  
+2.*高义频：* **[常接比较级] ...得多：**  
  > He ran a good deal faster than I.  
  > 他比我跑得快多了。
 
 - a great / good deal of
-1. **[接不可数名词] 大量的…；很多的…：**  
+1.**[接不可数名词] 大量的…；很多的…：**  
  > a great / good deal of time / money / effort  
  > 大量的时间/钱/努力
 
@@ -794,7 +794,7 @@
  > 要想具备很高的听的能力，需要做大量的练习。
 
 - big deal
-1. **［口语］没什么大不了的； 重要的事情：**  
+1.**［口语］没什么大不了的； 重要的事情：**  
  > It's just a game. If you lose, big deal.  
  > 这只是个游戏，就是输了也没什么大不了的。
 
@@ -803,7 +803,7 @@
  > 这件事不重要。/没多大的事。
 
 - What is the deal?
-1. **出了什么事？**  
+1.**出了什么事？**  
  > He and I both knew what the deal was, but we didn't talk about it.  
  > 我和他都知道出了什么事，但是我们都心照不宣。
 
@@ -872,7 +872,7 @@
 固定搭配
 ---
 - be bored / scared / frightened to death 
-1. **无聊得 / 怕得要死：**  
+1.**无聊得 / 怕得要死：**  
  > She was scared to death of what might happen next.  
  > 她对接下来可能发生的事怕得要死。
 
@@ -930,12 +930,12 @@
 固定搭配
 ---
 - fall / get / run into debt 
-1. **借债；负债：**  
+1.**借债；负债：**  
  > It's much easier to get into debt than to get out of debt.  
  > 借债容易还债难。
 
 - in debt (to sb) 
-1. **欠 (某人) 债；受 (某人) 恩惠：**  
+1.**欠 (某人) 债；受 (某人) 恩惠：**  
  > Nearly half the college students said they were in debt.  
  > 近一半的大学生说自己欠债。
 
@@ -943,9 +943,9 @@
  > 对于他的帮助，我欠他一份人情。
 
 - out of debt 
-1. **不欠债**  
+1.**不欠债**  
 - pay off one’s debts 
-1. **还清债务**  
+1.**还清债务**  
 
 # ***decade*** n
 英文释义
@@ -1010,7 +1010,7 @@
 固定搭配
 ---
 - decide on / upon 
-1. **决定；选定：**  
+1.**决定；选定：**  
  > Have you decided on a date for the wedding?  
  > 你们定好婚礼日期了吗？
 
@@ -1267,7 +1267,7 @@
 固定搭配
 ---
 - deep down
-1. **心底；本质上**  
+1.**心底；本质上**  
 
 # ***deep-breathing*** adj
 英文释义
@@ -1479,7 +1479,7 @@
 固定搭配
 ---
 - to a (certain) degree / to some degree
-1. **在 (一 定) 程度上；相当：**  
+1.**在 (一 定) 程度上；相当：**  
  > To a certain degree, it’s a matter of logic.   
  > 在一定程度上，这是个逻辑问题。
 
@@ -1643,7 +1643,7 @@
 固定搭配
 ---
 - delight in
-1. **[不用于被动语态] 以…为乐；喜欢 (尤指他人认为不好的事)：**  
+1.**[不用于被动语态] 以…为乐；喜欢 (尤指他人认为不好的事)：**  
  > The boss delights in complicating a problem, which makes others confused.   
  > 这位老板喜欢把问题复杂化，这让其他人摸不着头脑。
 
@@ -1755,12 +1755,12 @@
 固定搭配
 ---
 - in demand 
-1. **非常需要的；受欢迎的：**  
+1.**非常需要的；受欢迎的：**  
  > While modeling business is by no means easy to get into, the good model will always be in demand.   
  > 由于模特业不易进入，好模特总是供不应求。
 
 - on demand 
-1. **[正式用语] 一经要求**  
+1.**[正式用语] 一经要求**  
 
 # ***demand*** vt  重难点词汇
 英文释义
@@ -1896,7 +1896,7 @@
 固定搭配
 ---
 - depend on / upon
-1. *高义频：* **依靠；依赖(rely on / upon)：**  
+1.*高义频：* **依靠；依赖(rely on / upon)：**  
  > **depend on,to**  
  > We depend on energy to do many things in our daily lives.    
  > 在日常生活中，我们做很多事都离不开能源。
@@ -1908,14 +1908,14 @@
  > We depend on him finishing the job this weekend.  
  > 我们指望他这个周末能完成工作。
 
-2. *高义频：* **相信；信赖：**  
+2.*高义频：* **相信；信赖：**  
  > Depend upon it, we shall solve the problem at last.  
  > 请相信，我们最终会解决这个问题。
 
  > You can depend on Jane — she always keeps her promises.   
  > 你可以信赖简，她总是信守诺言。
 
-3. *高义频：* **由…决定；取决于：**  
+3.*高义频：* **由…决定；取决于：**  
  > How much sleep you need depends a lot on your age.  
  > 你需要多少睡眠主要取决于你的年龄。
 
@@ -1923,7 +1923,7 @@
  > 旅途大约需要两小时，这取决于交通状况。
 
 - It / That (all) depends. 
-1. **那得看情况。**  
+1.**那得看情况。**  
  > — How long are you staying?  
  > 你会待多久？
 
@@ -2047,7 +2047,7 @@
 固定搭配
 ---
 - in depth 
-1. **全面地；深入地；仔细地：**  
+1.**全面地；深入地；仔细地：**  
  > an in-depth study   
  > 深入的研究
 
@@ -2103,7 +2103,7 @@
 固定搭配
 ---
 - beyond description
-1. **难以描述；难以形容：**  
+1.**难以描述；难以形容：**  
  > The grand sight of Mount Huangshan is beyond description.   
  > 黄山的壮丽美景难以形容。
 
@@ -2278,7 +2278,7 @@
 固定搭配
 ---
 - in despair 
-1. **绝望地：**  
+1.**绝望地：**  
  > Lance put his head on the doctor’s desk in despair.    
  > 兰斯绝望地趴在医生的桌子上。
 
@@ -2377,12 +2377,12 @@
 固定搭配
 ---
 - in detail 
-1. **详细地：**  
+1.**详细地：**  
  > Planning is good as it decides in detail how we do what we want to do.  
  > 做计划的好处在于它详细地规定了如何做我们想做的事。
 
 - go into detail(s) 
-1. **详细叙述；逐一说明：**  
+1.**详细叙述；逐一说明：**  
  > I can’t go into details now; it would take too long.  
  > 我现在不能细说，太费时间了。
 
@@ -2568,7 +2568,7 @@
 固定搭配
 ---
 - devote oneself to
-1. **献身于；致力于；专心于：**  
+1.**献身于；致力于；专心于：**  
  > If you have a job, do devote yourself to it and finally you’ll succeed.   
  > 如果你有一份工作，务必全身心地投入，最终你会成功的。
 
@@ -2705,22 +2705,22 @@
 固定搭配
 ---
 - be dying for sth
-1. **[口语] 极想要某物：**  
+1.**[口语] 极想要某物：**  
  > I’m dying for a cup of tea.  
  > 我很想喝杯茶。
 
 - be dying to do sth
-1. **[口语] 渴望做某事：**  
+1.**[口语] 渴望做某事：**  
  > I’m dying to see you.  
  > 我很想见你。
 
 - die away
-1. **逐渐减弱 (至消失)**  
+1.**逐渐减弱 (至消失)**  
  > The sound of their laughter died away.  
  > 他们的笑声渐渐远去。
 
 - die down
-1. **逐渐变弱；逐渐降低**  
+1.**逐渐变弱；逐渐降低**  
  > When the applause had died down, she began her speech.  
  > 掌声渐渐变小之后，她开始讲话。
 
@@ -2728,7 +2728,7 @@
  > 风小了一点。
 
 - die from / of
-1. **死于：**  
+1.**死于：**  
  > She died from a wound.  
  > 她因受伤而亡。
 
@@ -2736,12 +2736,12 @@
  > 19世纪40年代，约有75万人死于饥饿。
 
 - die off
-1. **相继死去：**  
+1.**相继死去：**  
  > The survivors are dying off daily.   
  > 活下来的人正在一天天地相继死去。
 
 - die out
-1. **灭绝；消失：**  
+1.**灭绝；消失：**  
  > As a result, many species are quickly dying out.   
  > 结果，许多物种正在迅速灭绝。
 
@@ -2770,7 +2770,7 @@
 固定搭配
 ---
 - be / go on a diet
-1. **节食：**  
+1.**节食：**  
  > When I go on a diet, I eat only cucumbers, and that reduces my weight quickly.   
  > 我节食的时候只吃黄瓜，迅速减轻了体重。
 
@@ -2795,7 +2795,7 @@
 固定搭配
 ---
 - I beg to differ
-1. **恕我不敢苟同：**  
+1.**恕我不敢苟同：**  
  > —Only those who have a lot in common can get along well.  
  > 只有那些志趣相投的人才能相处融洽。
 
@@ -2827,7 +2827,7 @@
 固定搭配
 ---
 - make a / no difference
-1. **有 / 无影响；有重要作用 / 无关紧要：**  
+1.**有 / 无影响；有重要作用 / 无关紧要：**  
  > Hannah is one of many examples of young people who are making a difference in the world.  
  > 汉纳是那些正在改变着世界的许多年轻榜样中的一个。
 
@@ -2937,7 +2937,7 @@
 固定搭配
 ---
 - dig (...) into
-1. **插入；戳进；探究：**  
+1.**插入；戳进；探究：**  
  > She dug into her purse and took out some coins.  
  > 她从钱包里掏出一些硬币。
 
@@ -2945,7 +2945,7 @@
  > 我们俩都集中精力钻研要饰演的角色。
 
 - dig out
-1. **挖出；找出；发现：**  
+1.**挖出；找出；发现：**  
  > The army organized teams to dig out those who were trapped and to bury the dead.  
  > 军人组成小分队，挖出被困者，掩埋遇难者。
 
@@ -2953,7 +2953,7 @@
  > 真相被发现了。
 
 - dig up
-1. **掘起；开垦 (荒地)；搜集：**  
+1.**掘起；开垦 (荒地)；搜集：**  
  > Cutting down trees and digging up grass can cause deserts and sandstorms to increase.  
  > 砍树挖草能导致沙漠变大、沙尘暴增加。
 
@@ -3318,7 +3318,7 @@
 固定搭配
 ---
 - at a disadvantage
-1. **处于不利地位：**  
+1.**处于不利地位：**  
  > I feel rather at a disadvantage talking to her because she’s so clever.   
  > 她太伶俐，我跟她讲话总觉得吃亏。
 
@@ -3707,7 +3707,7 @@
 固定搭配
 ---
 - dish up
-1. **提供；娓娓道来：**  
+1.**提供；娓娓道来：**  
  > Familyfun magazine dishes up these and more interesting activities in over 180 colorful pages.  
  > 《家庭娱乐》杂志用180多页彩页把这些内容和更多有趣的活动娓娓道来。
 
@@ -3852,7 +3852,7 @@
 固定搭配
 ---
 - on display
-1. **展出 (on show)：**  
+1.**展出 (on show)：**  
  > Jane paused in front of a counter where some attractive ties were on display.  
  > 简在一个柜台前停了下来，柜台上面展示着一些好看的领带。
 
@@ -3936,17 +3936,17 @@
 固定搭配
 ---
 - at / from a distance
-1. **有相当距离：**  
+1.**有相当距离：**  
  > The picture looks beautiful at a distance.  
  > 那幅画远看显得很美。
 
 - in / into the distance 
-1. **在远处：**  
+1.**在远处：**  
  > Farther in the distance, I could enjoy the view of snowy mountains.  
  > 往远处看，我可以欣赏白雪皑皑的群山。
 
 - keep one’s distance
-1. **保持距离　**  
+1.**保持距离　**  
 
 # ***distance*** v
 英文释义
@@ -4300,7 +4300,7 @@
 固定搭配
 ---
 - be / have to do with
-1. *高义频：* **关于；与……有关：**  
+1.*高义频：* **关于；与……有关：**  
  > I'm sorry about the accident, but it is / has nothing to do with me.  
  > 对这次事故我感到很抱歉，但此事与我毫无关系。
 
@@ -4308,12 +4308,12 @@
  > 我们如何理解事物与我们的感觉有很大关系。
 
 - do away with
-1. *高义频：* **废除：**  
+1.*高义频：* **废除：**  
  > They did away with the law.  
  > 他们废除了那项法律。
 
 - do up
-1. *高义频：* **包起来；捆；修缮；打扮：**  
+1.*高义频：* **包起来；捆；修缮；打扮：**  
  > Do up a parcel.  
  > 捆包裹。
 
@@ -4324,7 +4324,7 @@
  > 她打扮起来参加宴会。
 
 - do with
-1. *高义频：* **处置；（使）度过时间：**  
+1.*高义频：* **处置；（使）度过时间：**  
  > **what to do with**  
  > David’s biggest headache is what to do with his money.  
  > 最让大卫头疼的是如何处置他的钱。
@@ -4334,7 +4334,7 @@
  > 退休后她不知道该怎么打发时间。
 
 - do without
-1. *高义频：* **没有…也行；将就：**  
+1.*高义频：* **没有…也行；将就：**  
  > I don’t have any sugar so you’ll have to do without.  
  > 我没有糖了，所以你只好将就一下。
 
@@ -4484,7 +4484,7 @@
 固定搭配
 ---
 - (from) door to door
-1. **挨家挨户地：**  
+1.**挨家挨户地：**  
  > On the ﬁrst day of the Spring Festival, most families go out to say greetings from door to door.  
  > 春节第一天，大多数家庭挨家挨户去拜年。
 
@@ -4535,7 +4535,7 @@
 固定搭配
 ---
 - on the dot
-1. **[非正式用语] 准时地**  
+1.**[非正式用语] 准时地**  
 
 # ***double*** v
 英文释义
@@ -4642,12 +4642,12 @@
 固定搭配
 ---
 - in doubt
-1. **不确定；拿不准：**  
+1.**不确定；拿不准：**  
  > The future of the peace talks is in doubt.  
  > 和谈前途未卜。
 
 - no doubt
-1. **无疑；很可能：**  
+1.**无疑；很可能：**  
  > No doubt you will have your own ideas.  
  > 你很可能会有自己的观点。
 
@@ -4655,7 +4655,7 @@
  > 收门票无疑会把一些人拒之门外。
 
 - without / beyond doubt
-1. **毫无疑问；的确：**  
+1.**毫无疑问；的确：**  
  > Without doubt, the number of jobs in information technology will multiply.   
  > 毫无疑问，信息技术方面的工作会大大增加。
 
@@ -4843,7 +4843,7 @@
 固定搭配
 ---
 - dozens of
-1. **很多：**  
+1.**很多：**  
  > The hurricane blew away dozens of farming villages and brought down thousands of trees.  
  > 飓风刮走了很多村庄，刮倒了数千棵树。
 
@@ -4904,7 +4904,7 @@
 固定搭配
 ---
 - drag one’s feet
-1. **做事拖拉；迟迟不做：**  
+1.**做事拖拉；迟迟不做：**  
  > It is not a good idea to drag your feet when the work needs to be done.  
  > 拖延需要完成的工作不好。
 
@@ -4990,12 +4990,12 @@
 固定搭配
 ---
 - draw in
-1. **(火车等) 进站：**  
+1.**(火车等) 进站：**  
  > The train drew in at 7:53.   
  > 火车7点53分进站。
 
 - draw near / closer
-1. **接近；靠近：**  
+1.**接近；靠近：**  
  > Christmas is drawing near.  
  > 圣诞节就要来了。
 
@@ -5003,7 +5003,7 @@
  > 随着春节的临近，人们将举办丰富多彩的庆祝活动。
 
 - draw out 
-1. *高义频：* **拖延；拉长：**  
+1.*高义频：* **拖延；拉长：**  
 
 # ***draw*** n  重难点词汇
 英文释义
@@ -5129,9 +5129,9 @@
 固定搭配
 ---
 - dress down
-1. *高义频：* **（比平时）穿着随便**  
+1.*高义频：* **（比平时）穿着随便**  
 - dress up 
-1. **(给…) 穿上盛装；(给…) 乔装打扮：**  
+1.**(给…) 穿上盛装；(给…) 乔装打扮：**  
  > dress up for the wedding   
  > 穿上盛装参加婚礼
 
@@ -5209,9 +5209,9 @@
 固定搭配
 ---
 - drink sb’s health
-1. **为某人的健康干杯**  
+1.**为某人的健康干杯**  
 - drink to sb / sth
-1. **为某人 / 某事干杯：**  
+1.**为某人 / 某事干杯：**  
  > Let's drink to your success in your new job.  
  > 让我们为你在新工作中取得成功而干杯。
 
@@ -5259,7 +5259,7 @@
 固定搭配
 ---
 - drive away 
-1. **驱车离开；赶跑**  
+1.**驱车离开；赶跑**  
  > After two and a half years, the mother drove the young panda away.  
  > 两年半后，熊猫妈妈把小熊猫赶跑了。
 
@@ -5316,13 +5316,13 @@
 固定搭配
 ---
 - drop by
-1. **顺便访问：**  
+1.**顺便访问：**  
  > **2009 天津**  
  > Why don’t you drop by my house sometime?  
  > 你为什么不找个时间顺便到我家坐坐呢？
 
 - drop in
-1. **顺便走访：**  
+1.**顺便走访：**  
  > Please drop in any time you like.   
  > 欢迎随时来。
 
@@ -5330,15 +5330,15 @@
  > 你明晚顺便来和我们谈谈好吗？
 
 - drop off [非正式用语]
-1. *低义频：* **睡着；打盹 (fall asleep)：**  
+1.*低义频：* **睡着；打盹 (fall asleep)：**  
  > I dropped off and missed the end of the film.   
  > 我打了个盹,错过了电影的结尾。
 
-2. *低义频：* **下降；减少：**  
+2.*低义频：* **下降；减少：**  
  > The number of graduates going into teaching has dropped off sharply.   
  > 从事教育的大学毕业生人数急剧减少了。
 
-3. *高义频：* **顺便把...送到某处；让...下车：**  
+3.*高义频：* **顺便把...送到某处；让...下车：**  
  > My neighbours dropped off blankets, candles, and tools, and began sticking around to chat.  
  > 我的邻居们送来了毯子、蜡烛和工具，然后留下来开始聊天。
 
@@ -5346,7 +5346,7 @@
  > 我把公共汽车停在路边，好让那个小女孩下车。
 
 - drop out (of) 
-1. **不参与；退学：**  
+1.**不参与；退学：**  
  > Her injuries forced her to drop out of the competition.  
  > 伤病迫使她退出了比赛。
 
@@ -5465,11 +5465,11 @@
 固定搭配
 ---
 - dry off 
-1. **(使) 变干；(把…) 弄干**  
+1.**(使) 变干；(把…) 弄干**  
 - dry out
-1. **(使) 完全变干；干透**  
+1.**(使) 完全变干；干透**  
 - dry up
-1. **(河流、湖泊等) 干涸：**  
+1.**(河流、湖泊等) 干涸：**  
  > Over the centuries, the water dried up.  
  > 经过几个世纪，水完全干了。
 
@@ -5537,7 +5537,7 @@
 固定搭配
 ---
 - due to
-1. **由于；因为：**  
+1.**由于；因为：**  
  > The town was cut off from the rest of the world due to heavy snow.  
  > 由于暴雪，这个小镇与外界隔绝了。
 
@@ -5638,7 +5638,7 @@
 固定搭配
 ---
 - (as) dry as dust
-1. **枯燥无味的；渴死人的：**  
+1.**枯燥无味的；渴死人的：**  
  > “You’re a very silly person,” the figure in the doorway said, his voice dry as dust.  
  > “你真是个蠢人！”门口那人说，声音干巴巴的。
 
@@ -5703,12 +5703,12 @@
 固定搭配
 ---
 - do one’s duty
-1. **尽自己的责任：**  
+1.**尽自己的责任：**  
  > The parents had done their duty.  
  > 那对父母尽了自己的责任。
 
 - on / off duty
-1. **值 / 下班；值 / 不值勤：**  
+1.**值 / 下班；值 / 不值勤：**  
  > He goes on duty at 8 am and comes off duty at 5 pm.  
  > 他上午8点上班，下午5点下班。
 

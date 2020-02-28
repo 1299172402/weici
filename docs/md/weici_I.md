@@ -143,13 +143,13 @@
 固定搭配
 ---
 - identify sb / sth with sth
-1. **认为某人 / 某物等同于某物：**  
+1.**认为某人 / 某物等同于某物：**  
  > **identify with**  
  > You should not identify wealth with happiness.  
  > 你不应该把财富与幸福等同起来。
 
 - identify with sb / sth
-1. **认同某人 / 某物；与某人 / 某物有同感：**  
+1.**认同某人 / 某物；与某人 / 某物有同感：**  
  > I didn't enjoy the book because I couldn' identify with any of the main characters.  
  > 我不喜欢这本书，因为我无法与其中任何一个主角产生共鸣。
 
@@ -209,7 +209,7 @@
 固定搭配
 ---
 - if so 
-1. **如果是这样的话：**  
+1.**如果是这样的话：**  
  > Have you ever been here? And if so how many times?   
  > 你来过这儿吗？如果来过，来过几次呢？
 
@@ -709,7 +709,7 @@
 固定搭配
 ---
 - improve on / upon
-1. **对…作出改进；做得比…更好：**  
+1.**对…作出改进；做得比…更好：**  
  > Lily has scored 98 in the maths test, and I don't think anyone will improve on that.  
  > 莉莉数学考了98分，我看没人能超过这个分数。
 
@@ -819,12 +819,12 @@
 固定搭配
 ---
 - by an inch / inches
-1. **差一点儿；险些：**  
+1.**差一点儿；险些：**  
  > The car missed my dog by inches.   
  > 那辆汽车差一点儿撞到我的狗。
 
 - inch by inch
-1. **缓慢地；一点一点地：**  
+1.**缓慢地；一点一点地：**  
  > I crawled in inch by inch.  
  > 我慢慢地爬了进去。
 
@@ -920,7 +920,7 @@
 固定搭配
 ---
 - on the increase
-1. **在增加：**  
+1.**在增加：**  
  > A few years ago it was an endangered species, but now the population is on the increase.   
  > 几年前，它还是濒临灭绝的物种，但现在它们的数量在不断增加。
 
@@ -1462,7 +1462,7 @@
 固定搭配
 ---
 - inside out 
-1. **里面朝外地：**  
+1.**里面朝外地：**  
  > The kids were wearing their shirts inside out.   
  > 孩子们把衬衫穿反了。
 
@@ -1606,7 +1606,7 @@
 固定搭配
 ---
 - the instant (that) 
-1. **一…就：**  
+1.**一…就：**  
  > The instant (= As soon as) she stopped asking questions, I got up and went out of the room.  
  > 她一停止问问题，我就起身走出了房间。
 
@@ -1627,7 +1627,7 @@
 固定搭配
 ---
 - instead of
-1. **代替；而不是：**  
+1.**代替；而不是：**  
  > We went there on foot instead of by bus.   
  > 我们步行去了那儿，没坐车。
 
@@ -2595,7 +2595,7 @@
 固定搭配
 ---
 - by itself 
-1. **单独地；独立地：**  
+1.**单独地；独立地：**  
  > The tree stands by itself in the garden.   
  > 那棵树孤零零地立在花园中。
 

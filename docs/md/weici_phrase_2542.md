@@ -1921,9 +1921,9 @@
 固定搭配
 ---
 - It’s all right.
-1. **别怕。/ 没事的。**  
+1.**别怕。/ 没事的。**  
 - It’s / That’s all right.
-1. **没关系。/ 不用谢。**  
+1.**没关系。/ 不用谢。**  
 
 # ***all right*** adv
 英文释义
@@ -1950,9 +1950,9 @@
 固定搭配
 ---
 - It’s all right.
-1. **别怕。/ 没事的。**  
+1.**别怕。/ 没事的。**  
 - It’s / That’s all right.
-1. **没关系。/ 不用谢。**  
+1.**没关系。/ 不用谢。**  
 
 # ***all right*** int
 英文释义
@@ -21008,12 +21008,12 @@
 固定搭配
 ---
 - used to do sth 
-1. **过去常常做某事：**  
+1.**过去常常做某事：**  
  > I used to play soccer with my brother every day.   
  > 以前我每天都和哥哥踢足球。
 
 - used to be 
-1. **过去是：**  
+1.**过去是：**  
  > I used to be a very self-centered person, but in the past two years I have really changed.   
  > 我过去曾是一个非常自私的人，但近两年来我真的变了。
 

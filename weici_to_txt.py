@@ -37,13 +37,14 @@ def gy_example(t): #18417
             b=b[1:]
         while b[-1]==' ':
             b=b[:-1]
+    if b!='' : 
         print('> '+b,file=f)
-    print('> '+t['english'],file=f)
-    print('> '+t['chinese'],file=f)
-    print(file=f)
+        print('> '+t['english'],file=f)
+        print('> '+t['chinese'],file=f)
+        print(file=f)
 
 def gy_fixed_collocation(t): #26462
-    print('- '+t['fixed_word'],file=f)
+    if t['fixed_word']!='' :print('- '+t['fixed_word'],file=f)
     if t['gy_paraphrase']!=[]:
         i=1
         for exam in t['gy_paraphrase']:
@@ -151,8 +152,18 @@ if ch.find('4')!=-1: #所有词输出
 if ch.find('5')!=-1: #所有词简化输出（仅小写字母开头，不包含空格）
     f = open('%s' % path_save + '\weici_all_lite.txt','w',encoding='utf-8')
     cursor = c.execute("select * from fb_word_detail order by word asc")
+    i='A'
+    j='a'
+    print('#'+i+j,file=f)
+    print(file=f)
     for row in cursor:
-        if row[6]==0 and row[1][0]>='a' and row[1][0]<='z' and row[1].find(' ')==-1 : chuli(row[3])
+        if row[6]==0 and row[1][0]>='a' and row[1][0]<='z' and row[1].find(' ')==-1 : 
+            if row[1][0]!=j : 
+                i=chr(ord(i)+1)
+                j=chr(ord(j)+1)
+                print('#'+i+j,file=f)
+                print(file=f)
+            chuli(row[3])
     print('%s' % path_save + '\weici_all_lite.txt')
         
 #Finish

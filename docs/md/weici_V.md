@@ -23,12 +23,12 @@
 固定搭配
 ---
 - have / take a vacation 
-1. **休假：**  
+1.**休假：**  
  > The first thing I’m going to do is to take a long vacation!   
  > 我要做的第一件事是休一个长假。
 
 - on vacation 
-1. **在度假：**  
+1.**在度假：**  
  > Some people write postcards while they are on vacation and send them to friends.   
  > 一些人在度假的时候写明信片并寄给朋友。
 
@@ -64,7 +64,7 @@
 固定搭配
 ---
 - in vain 
-1. **徒劳；白辛苦：**  
+1.**徒劳；白辛苦：**  
  > I have tried very hard to find a solution to the problem, but in vain.   
  > 我曾苦苦地探求解决问题的办法，但都是徒劳。
 
@@ -134,7 +134,7 @@
 固定搭配
 ---
 - of value 
-1. **有价值的；有用的 (valuable)：**  
+1.**有价值的；有用的 (valuable)：**  
  > **of great value**  
  > Sports can be of great value, especially to people who work with their brains most of the day.   
  > 体育运动很有益处，对那些每天大部分时间都在从事脑力劳动的人来说更是如此。
@@ -220,7 +220,7 @@
 固定搭配
 ---
 - a variety of
-1. **种种；各种各样的：**  
+1.**种种；各种各样的：**  
  > **a wide variety of**  
  > The club offers a wide variety of games to the local teenagers.  
  > 俱乐部给当地的青少年提供丰富多样的游戏。
@@ -403,7 +403,7 @@
 固定搭配
 ---
 - not very
-1. **不很；根本不：**  
+1.**不很；根本不：**  
  > **not very**  
  > It is not very warm today.  
  > 今天不是很暖和。
@@ -456,7 +456,7 @@
 固定搭配
 ---
 - fall victim to / become a victim to
-1. **成为…的牺牲品**  
+1.**成为…的牺牲品**  
 
 # ***victory*** n
 英文释义
@@ -559,12 +559,12 @@
 固定搭配
 ---
 - in view of
-1. **鉴于；考虑到：**  
+1.**鉴于；考虑到：**  
  > In view of the weather, the event will be held indoors.  
  > 由于天气的缘故，这项比赛将在室内进行。
 
 - on view
-1. **在展出；展览着：**  
+1.**在展出；展览着：**  
  > The painting is currently on view at the gallery.  
  > 那幅画目前在美术馆展出。
 
@@ -720,7 +720,7 @@
 固定搭配
 ---
 - pay a visit to
-1. **参观；访问；拜访：**  
+1.**参观；访问；拜访：**  
  > If you have time, pay a visit to the local museum.  
  > 你若有空，参观一下当地的这家博物馆。
 

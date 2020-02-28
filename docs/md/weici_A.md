@@ -94,7 +94,7 @@
 固定搭配
 ---
 - to the best of one's ability
-1. **尽最大努力：**  
+1.**尽最大努力：**  
  > I try to do my job to the best of my ability.  
  > 我尽全力做好我的工作。
 
@@ -190,7 +190,7 @@
 固定搭配
 ---
 - What / How about ...? 
-1. **…怎么样？**  
+1.**…怎么样？**  
  > What / How about the weather in Qinghai Province?  
  > 青海省的天气如何？
 
@@ -220,7 +220,7 @@
 固定搭配
 ---
 - be about to do sth 
-1. **正要 / 准备做某事：**  
+1.**正要 / 准备做某事：**  
  > I was about to turn off my computer when I received an email.   
  > 我正准备关电脑,这时收到了一封电子邮件。
 
@@ -248,7 +248,7 @@
 固定搭配
 ---
 - above all
-1. **最重要的是；尤其：**  
+1.**最重要的是；尤其：**  
  > I’d like to buy a house — modern, comfortable, and above all in a quiet neighborhood.   
  > 我要买一座房子，要现代、要舒适，最重要的是周围要安静。
 
@@ -331,12 +331,12 @@
 固定搭配
 ---
 - in / during sb’s absence
-1. **在某人不在时：**  
+1.**在某人不在时：**  
  > In his absence I looked to see what was on his desk.   
  > 趁他不在时，我看了看他桌上有什么东西。
 
 - in the absence of 
-1. **在缺乏…的情况下：**  
+1.**在缺乏…的情况下：**  
  > In the absence of gray wolves, the deer population grew quickly.  
  > 没有了灰狼，鹿的数量迅速增长
 
@@ -402,7 +402,7 @@
 固定搭配
 ---
 - Absolutely! 
-1. **正是；当然：**  
+1.**正是；当然：**  
  > — They could have told us, couldn't they?  
  > 他们本来可以告诉我们的，不是吗？
 
@@ -410,7 +410,7 @@
  > 正是！
 
 - Absolutely not! 
-1. **绝对不行；当然不：**  
+1.**绝对不行；当然不：**  
  > — Do you let your kids travel alone at night?   
  > 你让自己的孩子们晚上单独外出吗？
 
@@ -733,7 +733,7 @@
 固定搭配
 ---
 - by accident
-1. **偶然地；意外地**  
+1.**偶然地；意外地**  
  > Yesterday when I was wandering on the pavement near a park, I met an old neighbour by accident.  
  > 昨天当我正在公园附近的人行道上闲逛时，偶然遇到了一位从前的邻居。
 
@@ -834,17 +834,17 @@
 固定搭配
 ---
 - on account of 
-1. **因为；由于 (because of)：**  
+1.**因为；由于 (because of)：**  
  > She was absent from school on account of illness.  
  > 她因病没有去学校。
 
 - on no account
-1. **决不；绝对不：**  
+1.**决不；绝对不：**  
  > The professor warned the students that on no account should they use mobile phones in his class.  
  > 教授警告学生，在他的课上绝对不能玩手机。
 
 - take account of / take ... into account
-1. **考虑到；把…考虑进去：**  
+1.**考虑到；把…考虑进去：**  
  > The company takes account of environmental issues wherever possible.   
  > 只要有可能，这家公司都会考虑到环境问题。
 
@@ -856,11 +856,11 @@
 固定搭配
 ---
 - account for
-1. *高义频：* **(数量、比例上) 占：**  
+1.*高义频：* **(数量、比例上) 占：**  
  > It is said that body language accounts for 55 percent of a first impression while what you say just 7 percent.  
  > 据说肢体语言在第一印象中占55%，而你所说的话仅占7%。
 
-2. *高义频：* **是...的原因；解释 / 说明(explain)：**  
+2.*高义频：* **是...的原因；解释 / 说明(explain)：**  
  > The application of new technologies and wide appeal of movie stars could account for the increase of the box-office income.  
  > 新技术的应用和影星们的广泛号召力可能是票房收入增加的原因。
 
@@ -1165,21 +1165,21 @@
 固定搭配
 ---
 - act as
-1. **担任；充当；起…作用：**  
+1.**担任；充当；起…作用：**  
  > A trained dog can act as a guide to a blind person.  
  > 经过训练的狗可以充当盲人的向导。
 
 - act on
-1. *高义频：* **按照...行事(act upon)：**  
+1.*高义频：* **按照...行事(act upon)：**  
  > Why didn’t you act on her suggestion?   
  > 你为什么不按照她的建议来做呢？
 
-2. *高义频：* **对... 起作用 / 有影响：**  
+2.*高义频：* **对... 起作用 / 有影响：**  
  > Alcohol acts quickly on the brain.   
  > 酒精对大脑迅速产生影响。
 
 - act out 
-1. **把…表演出来；将…付诸行动；充当：**  
+1.**把…表演出来；将…付诸行动；充当：**  
  > act out a story / dialogue   
  > 把故事/对话表演出来
 
@@ -1247,16 +1247,16 @@
 固定搭配
 ---
 - in action 
-1. **在活动中；在运转**  
+1.**在活动中；在运转**  
  > photos of ski jumpers in action  
  > 跳台滑雪者跳下时的照片
 
 - out of action 
-1. **失去作用；停止运转**  
+1.**失去作用；停止运转**  
 - put ... in action
-1. **使…行动起来；使…开始工作；使…起作用**  
+1.**使…行动起来；使…开始工作；使…起作用**  
 - take action 
-1. **采取行动：**  
+1.**采取行动：**  
  > We must take action to fight pollution.   
  > 我们必须采取行动防治污染。
 
@@ -1463,17 +1463,17 @@
 固定搭配
 ---
 - add to 
-1. **增加：**  
+1.**增加：**  
  > Colorful umbrellas add to a lively atmosphere in the summer streets.   
  > 各种颜色的伞给夏日街头平添了活泼的气氛。
 
 - add up
-1. **把…加起来；合计：**  
+1.**把…加起来；合计：**  
  > Add up your score and see how many points you get.  
  > 把你的分数加起来，看看你得多少分。
 
 - add up to 
-1. **合计达；结果是：**  
+1.**合计达；结果是：**  
  > His debts added up to $5,000.   
  > 他的欠债合计达到5000美元。
 
@@ -1544,12 +1544,12 @@
 固定搭配
 ---
 - in addition 
-1. **另外；加之：**  
+1.**另外；加之：**  
  > The company provides cheap Internet access. In addition, it makes shareware freely available.   
  > 该公司提供廉价的互联网接入服务。此外，它还免费提供共享软件。
 
 - in addition to 
-1. **除…之外 (还)：**  
+1.**除…之外 (还)：**  
  > In addition to reading for knowledge, we read for fun and inspiration.  
  > 我们读书除了为获取知识外，还可以得到乐趣和灵感。
 
@@ -1882,7 +1882,7 @@
 固定搭配
 ---
 - in advance (of ) 
-1. **提前 (于…)；预先 (于…)；超前于：**  
+1.**提前 (于…)；预先 (于…)；超前于：**  
  > Thank you in advance.  
  > 先行致谢。
 
@@ -1944,9 +1944,9 @@
 固定搭配
 ---
 - be / work to sb's advantage
-1. **对某人有利**  
+1.**对某人有利**  
 - take advantage of 
-1. **利用：**  
+1.**利用：**  
  > Parents should actively urge their children to take advantage of the opportunity to join sports teams.  
  > 父母应积极催促孩子利用这一机会参加运动队。
 
@@ -2143,7 +2143,7 @@
 固定搭配
 ---
 - state of affairs
-1. **[正式用语] 情况；局势；事态：**  
+1.**[正式用语] 情况；局势；事态：**  
  > The state of affairs should no longer be ignored.   
  > 局势不容忽视。
 
@@ -2250,7 +2250,7 @@
 固定搭配
 ---
 - I’m afraid 
-1. **恐怕；很遗憾：**  
+1.**恐怕；很遗憾：**  
  > I’m afraid (that) you’ve come to the wrong address.   
  > 对不起，你找错地址了。
 
@@ -2312,7 +2312,7 @@
 固定搭配
 ---
 - after all 
-1. **毕竟；终究：**  
+1.**毕竟；终究：**  
  > Of course I admire him — after all, he is a great writer.  
  > 我当然钦佩他，毕竟他是一位伟大的作家。
 
@@ -2383,12 +2383,12 @@
 固定搭配
 ---
 - again and again 
-1. **再三地；反复地：**  
+1.**再三地；反复地：**  
  > Again and again I warned him of the danger.   
  > 我一再警告他有危险。
 
 - then / there again
-1. **不过；另一方面：**  
+1.**不过；另一方面：**  
  > Parents feel that it is difficult to live with teenagers. Then again, teenagers have similar feelings about their parents.  
  > 父母们觉得很难与青少年一起生活。不过，青少年对父母也有相似的感受。
 
@@ -2468,12 +2468,12 @@
 固定搭配
 ---
 - come of age 
-1. **到达法定年龄；成年：**  
+1.**到达法定年龄；成年：**  
  > My parents supported me until I came of age.  
  > 父母一直供养我到我成年。
 
 - under age 
-1. **未到法定年龄**  
+1.**未到法定年龄**  
 
 # ***age*** vi
 英文释义
@@ -2611,18 +2611,18 @@
 固定搭配
 ---
 - agree with
-1. *高义频：* **同意；赞同：**  
+1.*高义频：* **同意；赞同：**  
  > agree with one’s idea / opinion   
  > 赞同某人的想法/意见
 
  > I quite agree with him on the sports.   
  > 我非常同意他在运动方面的观点。
 
-2. *高义频：* **与...相符；与...一致**  
+2.*高义频：* **与...相符；与...一致**  
  > His words do not agree with his actions.   
  > 他言行不一致。
 
-3. *高义频：* **[常用于否定句] (食物等) 适合**  
+3.*高义频：* **[常用于否定句] (食物等) 适合**  
  > Too much meat doesn’t agree with her.   
  > 她不宜吃太多肉。
 
@@ -2690,7 +2690,7 @@
 固定搭配
 ---
 - ahead of
-1. **在…前面；早于：**  
+1.**在…前面；早于：**  
  > There were four people ahead of me at the doctor's.  
  > 诊所里有四个人排在我前面。
 
@@ -2721,12 +2721,12 @@
 固定搭配
 ---
 - come / go to sb’s aid 
-1. **帮助某人 (help sb)：**  
+1.**帮助某人 (help sb)：**  
  > Be bold and brave — and mighty forces will come to your aid.  
  > 勇敢些，力量之神会助你一臂之力。
 
 - in aid of
-1. 
+1.
 # ***aid*** v
 英文释义
 ---
@@ -2759,9 +2759,9 @@
 固定搭配
 ---
 - take aim at
-1. **把目标对准…；把批评的矛头指向…**  
+1.**把目标对准…；把批评的矛头指向…**  
 - with the aim of
-1. **旨在；目的是：**  
+1.**旨在；目的是：**  
 
 # ***aim*** v
 英文释义
@@ -2818,7 +2818,7 @@
 固定搭配
 ---
 - in the air 
-1. **(某种情绪) 弥漫在空气中；即将发生：**  
+1.**(某种情绪) 弥漫在空气中；即将发生：**  
  > There was a sense of excitement in the air.   
  > 到处洋溢着一种激动的气氛。
 
@@ -2826,7 +2826,7 @@
  > 变革迫在眉睫。
 
 - on / off (the) air
-1. **正在/停止广播：**  
+1.**正在/停止广播：**  
  > We’ll be on air in three minutes.   
  > 我们三分钟后开始广播。
 
@@ -3045,15 +3045,15 @@
 固定搭配
 ---
 - come alive
-1. *高义频：* **变得有趣；生动起来(come to life)：**  
+1.*高义频：* **变得有趣；生动起来(come to life)：**  
  > The discussion came alive when an interesting topic was brought in.   
  > 当引入一个有趣的话题时，讨论活跃了起来。
 
-2. *高义频：* **精神起来；活泼起来：**  
+2.*高义频：* **精神起来；活泼起来：**  
  > She came alive as she talked about her job.   
  > 她一谈到自己的工作就来精神了。
 
-3. *低义频：* **热闹起来；变得繁忙(come to life)：**  
+3.*低义频：* **热闹起来；变得繁忙(come to life)：**  
  > The fishing villages come alive in spring.   
  > 渔村在春季变得繁忙起来。
 
@@ -3083,7 +3083,7 @@
 固定搭配
 ---
 - all along 
-1. **[非正式用语] 一直；始终：**  
+1.**[非正式用语] 一直；始终：**  
  > You’ve been very nice to me all along.   
  > 你一直待我很好。
 
@@ -3091,12 +3091,12 @@
  > 那件事我自始至终都知道。
 
 - all but 
-1. **几乎；差不多(almost)：**  
+1.**几乎；差不多(almost)：**  
  > The party was all but over when we arrived.   
  > 我们到达时，聚会已近尾声。
 
 - all too
-1. **[用于表示不好的情形] 极；甚：**  
+1.**[用于表示不好的情形] 极；甚：**  
  > All too often, people buy a pen based only on looks.  
  > 人们买笔时往往都只看外表。
 
@@ -3122,22 +3122,22 @@
 固定搭配
 ---
 - all in all
-1. **总而言之 (altogether)：**  
+1.**总而言之 (altogether)：**  
  > All in all her mother and I are very happy with her progress.  
  > 总而言之，看到她的进步我和她妈妈都很高兴。
 
 - in all 
-1. **总共 (altogether)：**  
+1.**总共 (altogether)：**  
  > How many people were there in all at the party?   
  > 出席聚会的共有多少人？
 
 - not ... at all 
-1. **根本不；一点也不：**  
+1.**根本不；一点也不：**  
  > The ﬁlm was not interesting at all.  
  > 电影一点儿也没意思。
 
 - not at all 
-1. **[客套语] 不客气：**  
+1.**[客套语] 不客气：**  
  > — It’s so kind of you and your parents.   
  > 非常感谢您和您的父母。
 
@@ -3233,7 +3233,7 @@
 固定搭配
 ---
 - allow for 
-1. **考虑到；顾及：**  
+1.**考虑到；顾及：**  
  > Allowing for the bad weather, we should set off right now.   
  > 考虑到天气不好，我们应该马上出发。
 
@@ -3258,7 +3258,7 @@
 固定搭配
 ---
 - make allowance(s) for 
-1. **考虑到；顾及；体谅：**  
+1.**考虑到；顾及；体谅：**  
  > Making allowances for his poor health, his boss allowed him to work six hours a day instead of eight.  
  > 老板体谅他身体不好，让他每天工作六小时而不是八小时。
 
@@ -3301,12 +3301,12 @@
 固定搭配
 ---
 - leave / let sb alone
-1. **不打扰某人；不管某人：**  
+1.**不打扰某人；不管某人：**  
  > Why don’t you just mind your own business and leave me alone?  
  > 为什么你就不能少管闲事不打扰我？
 
 - leave / let sth alone
-1. **不碰某物：**  
+1.**不碰某物：**  
  > Leave the cakes alone. They’re for the guests.  
  > 别动那些蛋糕，那是给客人吃的。
 
@@ -3343,7 +3343,7 @@
 固定搭配
 ---
 - along with
-1. **与···一起**  
+1.**与···一起**  
  > A sensible diet along with regular exercise is the best way to lose weight.  
  > 合理饮食和定期锻炼是减肥的最佳途径。
 
@@ -3439,7 +3439,7 @@
 固定搭配
 ---
 - have no alternative but to do sth
-1. **除了做某事别无选择：**  
+1.**除了做某事别无选择：**  
  > I had no alternative but to report him to the police.   
  > 除了向警察举报他，我别无选择。
 
@@ -3464,7 +3464,7 @@
 固定搭配
 ---
 - alternative energy 
-1. **替代能源 (指太阳能、风能、水能等)**  
+1.**替代能源 (指太阳能、风能、水能等)**  
 
 # ***although*** conj
 英文释义
@@ -3522,7 +3522,7 @@
 固定搭配
 ---
 - as always
-1. **同往常一样 (as usual)：**  
+1.**同往常一样 (as usual)：**  
  > As always, he puts on his shoes and goes for a walk.  
  > 他和平时一样，穿上鞋出去散步了。
 
@@ -3673,11 +3673,11 @@
 固定搭配
 ---
 - amount to:
-1. *高义频：* **达到 (某数量)；合计：**  
+1.*高义频：* **达到 (某数量)；合计：**  
  > At the start of this year, foreigners living in Italy amounted to 4.56 million.  
  > 今年年初，居住在意大利的外国人数量达到了456万。
 
-2. *低义频：* **相当于；等于；意味着：**  
+2.*低义频：* **相当于；等于；意味着：**  
  > Keeping what belongs to another amounts to stealing.   
  > 占有别人的东西就相当于偷窃。
 
@@ -4080,11 +4080,11 @@
 固定搭配
 ---
 - one after another
-1. **陆续地；一个接一个地**  
+1.**陆续地；一个接一个地**  
 - one another
-1. **互相**  
+1.**互相**  
 - one thing ... another ...
-1. **一回事…另一回事：**  
+1.**一回事…另一回事：**  
  > Saying is one thing and doing another.  
  > 说是一回事，做又是另一回事。
 
@@ -4130,7 +4130,7 @@
 固定搭配
 ---
 - answer for
-1. **对…负责；对…承担责任：**  
+1.**对…负责；对…承担责任：**  
  > You’ll have to answer for your wrongdoing one day.  
  > 总有一天，你要对你所做的错事负责。
 
@@ -4160,7 +4160,7 @@
 固定搭配
 ---
 - in answer to
-1. **作为对…的回答；应…的要求：**  
+1.**作为对…的回答；应…的要求：**  
  > The doctor came at once in answer to my telephone call.  
  > 医生接了我的电话后就立即赶过来了。
 
@@ -4390,7 +4390,7 @@
 固定搭配
 ---
 - anything but
-1. **根本不；除…以外的任何事物：**  
+1.**根本不；除…以外的任何事物：**  
  > Maria is anything but stupid!  
  > 玛利亚才不笨呢！
 
@@ -4398,12 +4398,12 @@
  > 除了中间的座位，其他哪里都行。
 
 - anything like sb / sth
-1. **与某人 / 某物相像；全然 (不)：**  
+1.**与某人 / 某物相像；全然 (不)：**  
  > You don’t look anything like your mother.  
  > 你长得一点儿也不像你母亲。
 
 - if anything
-1. **[口语] [用于补充内容以强调前面所说的话] 要是有什么的话：**  
+1.**[口语] [用于补充内容以强调前面所说的话] 要是有什么的话：**  
  > Sam didn’t seem too disappointed at losing. If anything, he seemed relieved that it was all over.  
  > 对于失败山姆看起来并不怎么失望，要是说有什么的话，倒是这事儿结束了，他好像松了一口气。
 
@@ -4456,7 +4456,7 @@
 固定搭配
 ---
 - anywhere between … and … / from … to …
-1. **在…到…之间 / 从…到…：**  
+1.**在…到…之间 / 从…到…：**  
  > As a tutor you could expect to be paid anywhere between 100 yuan and 200 yuan per hour.  
  > 作为一名家教，你有望得到每小时100到200元的报酬。
 
@@ -4500,16 +4500,16 @@
 固定搭配
 ---
 - apart from
-1. *高义频：* **除…外 (别无)；若不：**  
+1.*高义频：* **除…外 (别无)；若不：**  
  > Apart from them, I had no one to talk to.  
  > 除了他们，没有人和我说话。
 
-2. *高义频：* **除…外 (尚有)：**  
+2.*高义频：* **除…外 (尚有)：**  
  > Apart from providing warmth, what was fire used for?  
  > 除了用来取暖，火还有什么用处？
 
 - be worlds apart
-1. **完全不同；截然相反：**  
+1.**完全不同；截然相反：**  
  > Their experience of life is worlds apart.  
  > 他们的生活经历完全不同。
 
@@ -4807,7 +4807,7 @@
 固定搭配
 ---
 - the apple of sb’s eye
-1. **某人的掌上明珠 / 心肝宝贝：**  
+1.**某人的掌上明珠 / 心肝宝贝：**  
 
 # ***appliance*** n
 英文释义
@@ -5318,7 +5318,7 @@
 固定搭配
 ---
 - arise from / out of 
-1. **因…产生；由…引起：**  
+1.**因…产生；由…引起：**  
  > Accidents often arise from / out of carelessness.   
  > 事故往往由粗心引起。
 
@@ -5350,12 +5350,12 @@
 固定搭配
 ---
 - arm in arm 
-1. **臂挽臂地：**  
+1.**臂挽臂地：**  
  > They walked along the beach arm in arm.   
  > 他们臂挽臂沿着沙滩散步。
 
 - with open arms
-1. **热烈地；热情地：**  
+1.**热烈地；热情地：**  
  > They are sure to welcome you with open arms.  
  > 他们肯定会热情地欢迎你。
 
@@ -5483,7 +5483,7 @@
 固定搭配
 ---
 - arranged marriage
-1. **包办婚姻**  
+1.**包办婚姻**  
 
 # ***arrangement*** n
 英文释义
@@ -5576,7 +5576,7 @@
 固定搭配
 ---
 - arrive at
-1. **达成 (协议) (reach)；得出 (结论)：**  
+1.**达成 (协议) (reach)；得出 (结论)：**  
  > arrive at an agreement / a decision  
  > 达成协议/作出决定
 
@@ -5698,12 +5698,12 @@
 固定搭配
 ---
 - as for
-1. **至于…；就…而言：**  
+1.**至于…；就…而言：**  
  > As for my favorite figure in Chinese history, it must be Wei Yuan, a great thinker in the late Qing Dynasty.  
  > 至于我最喜欢的中国历史人物，他一定是晚清伟大的思想家魏源。
 
 - as if / though
-1. **好像；似乎：**  
+1.**好像；似乎：**  
  > It looks as if it is going to rain.  
  > 看样子好像要下雨。
 
@@ -5714,7 +5714,7 @@
  > 他英语讲得很好，好像他在英国生活了很多年似的。
 
 - as it is / was
-1. **[置于句首] 实际上；[置于句末] 已经：**  
+1.**[置于句首] 实际上；[置于句末] 已经：**  
  > As it is, I have a garden full of sweet-smelling roses for most of the year.  
  > 其实，我有一座花园，一年中大部分时间都玫瑰飘香。
 
@@ -5722,7 +5722,7 @@
  > 我已经欠债了，所以不要指望我会再出钱。
 
 - as to sth
-1. **关于某事：**  
+1.**关于某事：**  
  > I’m in a puzzle as to what to do next.  
  > 关于下一步该做什么我也不知道。
 
@@ -5827,7 +5827,7 @@
 固定搭配
 ---
 - aside from 
-1. **除…之外 (apart from)：**  
+1.**除…之外 (apart from)：**  
  > Aside from being good exercise, swimming is a very useful skill.   
  > 除了是一项好的运动外，游泳还是一种非常有用的技能。
 
@@ -5883,7 +5883,7 @@
 固定搭配
 ---
 - ask for trouble 
-1. **自找麻烦；自讨苦吃**  
+1.**自找麻烦；自讨苦吃**  
 
 # ***asleep*** adj
 英文释义
@@ -5901,7 +5901,7 @@
 固定搭配
 ---
 - fall / drop asleep
-1. **入睡；睡着：**  
+1.**入睡；睡着：**  
  > I was so tired that I fell asleep the moment my head touched the pillow.  
  > 我太累了，头一碰到枕头就睡着了。
 
@@ -6454,7 +6454,7 @@
 固定搭配
 ---
 - attend to
-1. **照料；处理；接待 (serve)：**  
+1.**照料；处理；接待 (serve)：**  
  > Nurses are busy attending to the wounded.   
  > 护士正忙着照顾伤员。
 
@@ -6510,7 +6510,7 @@
 固定搭配
 ---
 - attract / catch / get the attention of …
-1. **吸引 / 引起 / 得到……的注意：**  
+1.**吸引 / 引起 / 得到……的注意：**  
  > She waved to attract the attention of the waitress.  
  > 她挥手想引起服务员的注意。
 
@@ -6518,27 +6518,27 @@
  > 这个出色的足球运动员很快就吸引了公众的注意。
 
 - bring sth to sb’s attention
-1. **使某事引起某人的 注意：**  
+1.**使某事引起某人的 注意：**  
  > Why don't you bring it to his attention that you're too ill to work on?  
  > 你为什么不告诉他你病得很厉害，不能继续工作呢？
 
 - call / draw attention to 
-1. **使人们关注：**  
+1.**使人们关注：**  
  > The purpose of the campaign is to draw public attention to the needs of the tall.  
  > 这项活动的目的是让公众关注高个子人群的需求。
 
 - hold / keep sb’s attention
-1. **保持某人的注意力：**  
+1.**保持某人的注意力：**  
  > This game is fun and is sure to keep children's attention.  
  > 这个游戏很有趣，一定能保持孩子们的注意力。
 
 - pay attention to 
-1. **注意：**  
+1.**注意：**  
  > On the bus, you will often notice someone paying more attention to his mobile phone.  
  > 在公共汽车上，你常会看到有人更专注于看自己的手机。
 
 - with attention 
-1. **专心致志地：**  
+1.**专心致志地：**  
  > The lawyer listened with full attention, trying not to miss any point.  
  > 这位律师全神贯注地听着，竭力不漏掉任何要点。
 
@@ -6822,7 +6822,7 @@
 固定搭配
 ---
 - on average 
-1. **平均；一般地：**  
+1.**平均；一般地：**  
  > On average we have five classes a day.   
  > 我们平均每天上五节课。
 
@@ -7041,7 +7041,7 @@
 固定搭配
 ---
 - look / feel awful
-1. **面带病容；很不舒服**  
+1.**面带病容；很不舒服**  
  > **2012 重庆**  
  > You look awful. Do you have a cold?  
  > 你气色很不好，感冒了吗？

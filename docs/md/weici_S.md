@@ -157,7 +157,7 @@
 固定搭配
 ---
 - set sail (for) 
-1. **启航 (前往)：**  
+1.**启航 (前往)：**  
  > The ship set sail and headed for Shanghai.   
  > 这艘船启航前往上海。
 
@@ -205,7 +205,7 @@
 固定搭配
 ---
 - for the sake of sb / sth
-1. **为了某人 / 某事物的缘故 (for sb’s / sth’s sake):**  
+1.**为了某人 / 某事物的缘故 (for sb’s / sth’s sake):**  
  > He moved to the seaside for the sake of his health.   
  > 他为了健康而搬去海边。
 
@@ -247,7 +247,7 @@
 
 3.*高义频：* **[C] 特价销售；大减价**  
 - for sale
-1. **待售：**  
+1.**待售：**  
  > a house for sale  
  > 待售房屋
 
@@ -255,11 +255,11 @@
 固定搭配
 ---
 - on sale
-1. *高义频：* **在销售：**  
+1.*高义频：* **在销售：**  
  > This new digital camera is going on sale next week.  
  > 这款新的数码相机下周即将面市。
 
-2. *低义频：* **廉价出售：**  
+2.*低义频：* **廉价出售：**  
  > The bookstore is to close down, and many books are on sale.   
  > 书店要关闭了，许多书在廉价出售。
 
@@ -373,17 +373,17 @@
 固定搭配
 ---
 - all / just the same 
-1. **仍然；依然；照样：**  
+1.**仍然；依然；照样：**  
  > It was raining hard, but we got there in time all the same.  
  > 虽然下着大雨，但我们还是及时赶到了那里。
 
 - much the same 
-1. **几乎一样：**  
+1.**几乎一样：**  
  > I hadn’t been to my home town for years but it was much the same as I remember it.   
  > 我已多年没有回到故乡了，但那里的一切和我记忆中的几乎一样。
 
 - (the) same to you 
-1. **我也同样祝福你**  
+1.**我也同样祝福你**  
  > — Goodbye, Henry. All the best to you!   
  > 再见，亨利！保重！
 
@@ -482,12 +482,12 @@
 固定搭配
 ---
 - to sb’s satisfaction 
-1. **令某人满意的是：**  
+1.**令某人满意的是：**  
  > To my satisfaction, I have passed the examination.  
  > 我通过了考试，心满意足。
 
 - with satisfaction 
-1. **满意地：**  
+1.**满意地：**  
  > He looked at his students with great satisfaction.   
  > 他十分满意地看着学生们。
 
@@ -639,17 +639,17 @@
 固定搭配
 ---
 - I say 
-1. **[引起话头或表示惊奇、反悔] 喂；啊；哎：**  
+1.**[引起话头或表示惊奇、反悔] 喂；啊；哎：**  
  > I say, Tom, I want to have a word with you.   
  > 哎，汤姆，我想和你说句话。
 
 - it is said that ... 
-1. **据说…：**  
+1.**据说…：**  
  > It is said that about 30,000 people attended this first exhibition.   
  > 据说约有3万人参加了这次首展。
 
 - that is to say 
-1. **也就是说：**  
+1.**也就是说：**  
  > They left two weeks ago, that is to say, on July 27th.  
  > 他们是两周前，也就是7月27日动身的。
 
@@ -669,12 +669,12 @@
 固定搭配
 ---
 - as the saying is / goes 
-1. **常言道：**  
+1.**常言道：**  
  > “Practice makes perfect,” as the saying goes.  
  > 常言道：“熟能生巧。”
 
 - go without saying 
-1. **不言而喻：**  
+1.**不言而喻：**  
  > It goes without saying that the proposal will be accepted.   
  > 这项建议将被采纳，这是不言而喻的。
 
@@ -746,7 +746,7 @@
 固定搭配
 ---
 - scare … away / off 
-1. **把…吓跑**  
+1.**把…吓跑**  
 
 # ***scared*** adj
 英文释义
@@ -843,7 +843,7 @@
 固定搭配
 ---
 - (be) sceptical about / of 
-1. **对…持怀疑态度：**  
+1.**对…持怀疑态度：**  
  > She is sceptical of everything.  
  > 她怀疑一切。
 
@@ -1055,7 +1055,7 @@
 固定搭配
 ---
 - scores of 
-1. **许多；大量：**  
+1.**许多；大量：**  
  > There are scores of modern art styles.   
  > 现代艺术风格有很多种。
 
@@ -1208,17 +1208,17 @@
 固定搭配
 ---
 - at sea 
-1. **在海上；在海上航海：**  
+1.**在海上；在海上航海：**  
  > He was lost at sea and brought to land by another ship.   
  > 他在海上迷失了方向，被另一只船带上岸。
 
 - by sea 
-1. **由海路；乘船：**  
+1.**由海路；乘船：**  
  > He travelled to New York by sea.   
  > 他乘船去了纽约。
 
 - by the sea 
-1. **在海边：**  
+1.**在海边：**  
  > I have a cottage by the sea.   
  > 我有一间海滨小屋。
 
@@ -1314,7 +1314,7 @@
 固定搭配
 ---
 - in search of 
-1. **寻找；寻求：**  
+1.**寻找；寻求：**  
  > In the past hundred years, humans have begun destroying rainforests in search of some major resources.   
  > 在过去的百年中，人类为了寻找一些重要的资源开始毁坏雨林。
 
@@ -1363,7 +1363,7 @@
 固定搭配
 ---
 - in / out of season 
-1. **(食物) 当季的 / 不合时令的**  
+1.**(食物) 当季的 / 不合时令的**  
 
 # ***seasonal*** adj
 英文释义
@@ -1392,12 +1392,12 @@
 固定搭配
 ---
 - have / take a seat 
-1. **坐下：**  
+1.**坐下：**  
  > Take a seat, please.   
  > 请坐。
 
 - take one’s seat 
-1. **就座：**  
+1.**就座：**  
  > They took their seats at the small round table.   
  > 他们在小圆桌旁就座。
 
@@ -1421,7 +1421,7 @@
 固定搭配
 ---
 - be seated 
-1. **就座；坐下：**  
+1.**就座；坐下：**  
  > Be seated, please.   
  > 请坐。
 
@@ -1535,7 +1535,7 @@
 固定搭配
 ---
 - in secret 
-1. **秘密地；私下地：**  
+1.**秘密地；私下地：**  
  > For nearly five years, they wrote to each other in secret.   
  > 在将近5年的时间里，他们秘密通信。
 
@@ -1721,7 +1721,7 @@
 固定搭配
 ---
 - let me see / let’s see 
-1. **让我 (们) 看看；让我 (们) 想想：**  
+1.**让我 (们) 看看；让我 (们) 想想：**  
  > — Where did you put the letter?   
  > 你把信放哪儿了？
 
@@ -1729,37 +1729,37 @@
  > 让我想想。应该在餐桌上。
 
 - see about 
-1. **安排；处理：**  
+1.**安排；处理：**  
  > I have to see about getting the car repaired.   
  > 我得找人修理一下这辆车。
 
 - see off 
-1. **为…送行：**  
+1.**为…送行：**  
  > We all went to the airport to see her off.   
  > 我们都到机场为她送行。
 
 - see through 
-1. **看穿；识破：**  
+1.**看穿；识破：**  
  > People have eyes and will see through your tricks.  
  > 每个人都有眼力，他们会识破你们的诡计。
 
 - see to 
-1. **照料；处理：**  
+1.**照料；处理：**  
  > Don’t worry. I’ll see to it.   
  > 别担心，这事我来处理。
 
 - see (to it) that 
-1. **务必使…；保证使…：**  
+1.**务必使…；保证使…：**  
  > Can you see to it that everyone knows the date of the meeting?   
  > 你能保证把开会日期通知到每个人吗？
 
 - seeing that 
-1. **因为；鉴于；既然：**  
+1.**因为；鉴于；既然：**  
  > Seeing that you are already at the door, I suppose I must invite you inside.   
  > 既然你已经到了门口，我想我必须邀请你进来。
 
 - you see 
-1. **你看 / 知道：**  
+1.**你看 / 知道：**  
  > You see, life is measured by thought and action, not by time.   
  > 要知道，人生的意义要以思想和行为来衡量，而非生命的长短。
 
@@ -1818,7 +1818,7 @@
 固定搭配
 ---
 - seek out 
-1. **找出；找到：**  
+1.**找出；找到：**  
  > We must seek out a solution to the problem.   
  > 我们必须找到解决问题的办法。
 
@@ -1889,7 +1889,7 @@
 固定搭配
 ---
 - seize on / upon 
-1. **抓住 (可利用的事物)；突然对…大为关注：**  
+1.**抓住 (可利用的事物)；突然对…大为关注：**  
  > Bob seized on the rain as an excuse for missing school.   
  > 鲍勃以下雨为借口不去上学。
 
@@ -2008,17 +2008,17 @@
 固定搭配
 ---
 - sell off 
-1. **廉价出售 (存货)：**  
+1.**廉价出售 (存货)：**  
  > The store sold off its summer stock to be ready for the new winter goods.   
  > 该店将夏季存货削价出售，以便购进冬季新货。
 
 - sell oneself 
-1. **自荐：**  
+1.**自荐：**  
  > You really have to sell yourself at a job interview.   
  > 求职面试的时候，你的确要推销自己。
 
 - sell out / be sold out 
-1. **售完：**  
+1.**售完：**  
  > All the tickets for today’s performance are sold out.  
  > 今天演出的票全部卖光了。
 
@@ -2096,17 +2096,17 @@
 固定搭配
 ---
 - send away 
-1. **解雇；把…打发走：**  
+1.**解雇；把…打发走：**  
  > He was sent away by his boss.   
  > 他被老板解雇了。
 
 - send for 
-1. **派人去叫；召唤：**  
+1.**派人去叫；召唤：**  
  > Her mother was ill, so she sent for a doctor.   
  > 她母亲病了，于是她派人去请了一位医生来。
 
 - send out 
-1. **发出 (光、味、声音等)；送出；派遣：**  
+1.**发出 (光、味、声音等)；送出；派遣：**  
  > The sun sends out light and heat.   
  > 太阳发出光和热。
 
@@ -2114,7 +2114,7 @@
  > 成千上万的技术人员被派出国去学习现代技术。
 
 - send up 
-1. **发出；射出；长出：**  
+1.**发出；射出；长出：**  
  > When did China send up its first man-made satellite?  
  > 中国是在什么时候发射了自己的第一颗人造卫星？
 
@@ -2197,12 +2197,12 @@
 固定搭配
 ---
 - in a sense 
-1. **从某种意义上说：**  
+1.**从某种意义上说：**  
  > He writes stories all the time, so in a sense, he’s a writer.   
  > 他总是在写故事，因此从某种意义上说，他是个作家。
 
 - in no sense 
-1. **决不：**  
+1.**决不：**  
  > In no sense do I agree with this suggestion.   
  > 我决不赞成这个建议。
 
@@ -2210,14 +2210,14 @@
  > 这家酒店一点儿也不舒适。
 
 - make sense 
-1. **讲得通；有意义**  
+1.**讲得通；有意义**  
  > This sentence doesn’t make sense.  
  > 这个句子讲不通/无意义。
 
  > Read this and tell me if it makes sense.  
  > 读一读这个，然后告诉我是否通顺。
 
-2. **是明智的；是合乎情理的**  
+2.**是明智的；是合乎情理的**  
  > **It would make sense to**  
  > It would make sense to leave early, so that we miss the traffic.  
  > 早出发避开车流是明智之举。
@@ -2228,17 +2228,17 @@
  > She doesn’t talk much, but what she says makes sense.  
  > 她说得不多，但说的在理/言之有理。
 
-3. **易于理解；道理明显**  
+3.**易于理解；道理明显**  
  > Who would send me all these flowers? It makes no sense.  
  > 谁会送给我这么多花呢？想不明白。
 
 - make sense of 
-1. **弄懂…的意思：**  
+1.**弄懂…的意思：**  
  > Can you make any sense of this article?   
  > 你能看懂这篇文章吗？
 
 - there is no sense in (doing) sth 
-1. **(做) 某事是没道理的：**  
+1.**(做) 某事是没道理的：**  
  > There’s no sense in getting upset about it now.   
  > 现在没有必要为这件事烦恼。
 
@@ -2361,7 +2361,7 @@
 固定搭配
 ---
 - go one’s separate ways 
-1. **断绝往来；分道而行：**  
+1.**断绝往来；分道而行：**  
  > Do you think Sarah and Hannah should try to be friends again or go their separate ways?   
  > 你认为莎拉和汉纳应尝试再做朋友还是断绝关系？
 
@@ -2438,7 +2438,7 @@
 固定搭配
 ---
 - a series of
-1. **一连串的；一系列的：**  
+1.**一连串的；一系列的：**  
  > a series of car accidents  
  > 一连串的车祸
 
@@ -2497,7 +2497,7 @@
 固定搭配
 ---
 - take sb / sth seriously 
-1. **认真对待某人 / 某事：**  
+1.**认真对待某人 / 某事：**  
  > Let’s see the difficulties as a kind of test and take them seriously.  
  > 让我们把困难看做一种考验，认真地对待吧！
 
@@ -2548,7 +2548,7 @@
 固定搭配
 ---
 - serve as
-1. **充当；担当：**  
+1.**充当；担当：**  
  > Questioning can serve as a bridge that helps us to seek the truth.  
  > 质疑能起到帮助我们寻求真理的桥梁作用。
 
@@ -2584,17 +2584,17 @@
 固定搭配
 ---
 - at sb’s service 
-1. **听候某人吩咐；为某人效劳：**  
+1.**听候某人吩咐；为某人效劳：**  
  > Just feel free to call Room Service. We’re always at your service.   
  > 请尽管呼叫服务部，我们随时为您服务。
 
 - pay lip service (to) 
-1. **对…空口答应 (而不行动)：**  
+1.**对…空口答应 (而不行动)：**  
  > Should we just pay lip service or take practical measures to protect the environment?    
  > 我们应该仅仅只是说说而已还是应该采取实际行动去保护环境呢？
 
 - service area / station 
-1. **(高速公路旁的) 服务区 / 服务站**  
+1.**(高速公路旁的) 服务区 / 服务站**  
 
 # ***session*** n
 英文释义
@@ -2695,12 +2695,12 @@
 固定搭配
 ---
 - set about
-1. **开始；着手：**  
+1.**开始；着手：**  
  > I set about researching the habits of snakes so I could trap them in the easiest way.   
  > 我着手研究蛇的习性，以便用最简单的方法捕捉它们。
 
 - set aside
-1. **留出；把…置于一旁：**  
+1.**留出；把…置于一旁：**  
  > Set aside some time each day to write, even if it is only five minutes.  
  > 每天留出一点儿时间来写作，哪怕只有5分钟。
 
@@ -2708,30 +2708,30 @@
  > 放下工作
 
 - set down
-1. **记下；放下：**  
+1.**记下；放下：**  
  > I don’t want to set down a series of facts in a diary as most people do.  
  > 我不愿像大多数人那样在日记中记流水账。
 
 - set in
-1. **开始；来临：**  
+1.**开始；来临：**  
  > Panic set in, but Mary could not run — she was frozen to the spot.  
  > 玛丽开始感到恐惧，但是无法跑开——她吓呆了。
 
 - set off
-1. *高义频：* **出发；动身：**  
+1.*高义频：* **出发；动身：**  
  > We ought to set off at 7:00, while the roads are empty.  
  > 我们应该7点出发，趁那时路上没什么车。
 
-2. *高义频：* **触响（警报）；放（烟火）：**  
+2.*高义频：* **触响（警报）；放（烟火）：**  
  > Some boys are setting off fireworks in the street.  
  > 一些男孩正在街上放烟火。
 
-3. *低义频：* **引发；激发：**  
+3.*低义频：* **引发；激发：**  
  > His rude reply set off a bad feeling of me.  
  > 他无礼的答复引起了我的反感。
 
 - set out
-1. **出发；打算；阐述：**  
+1.**出发；打算；阐述：**  
  > **setting out on a,walk**  
  > When setting out on a long walk, always wear suitable shoes.  
  > 出发远行时，一定穿上合适的鞋子。
@@ -2744,16 +2744,16 @@
  > 他在报告中阐述了他作这个决定的理由。
 
 - set up
-1. *高义频：* **建起；竖起；安装：**  
+1.*高义频：* **建起；竖起；安装：**  
  > set up camp  
  > 搭建营地
 
-2. *高义频：* **建立；设立；创立 (establish)：**  
+2.*高义频：* **建立；设立；创立 (establish)：**  
  > **set up a company**  
  > set up a company  
  > 开公司
 
-3. *高义频：* **安排：**  
+3.*高义频：* **安排：**  
  > I set up an interview with her and we discussed her project at length.  
  > 我安排了一次与她面谈，详细地讨论了她的项目。
 
@@ -2839,35 +2839,35 @@
 固定搭配
 ---
 - settle back
-1. **舒服地坐下 / 躺下：**  
+1.**舒服地坐下 / 躺下：**  
  > She settled back in her seat to enjoy the film.  
  > 她舒服地坐在座位上看电影。
 
 - settle down
-1. *高义频：* **舒适地坐下 / 躺下：**  
+1.*高义频：* **舒适地坐下 / 躺下：**  
  > They put up the tent, and settled down to eat the sandwiches.  
  > 他们搭起帐篷，舒服地坐下来享受三明治。
 
-2. *高义频：* **安顿下来；安定下来：**  
+2.*高义频：* **安顿下来；安定下来：**  
  > When are you going to get married and settle down?  
  > 你打算什么时候结婚成家，安定下来啊？
 
-3. *高义频：* **(使) 安静；(使) 平静：**  
+3.*高义频：* **(使) 安静；(使) 平静：**  
  > She didn’t start the lesson until the pupils settled down.  
  > 等学生们安静下来后，她才开始上课。
 
 - settle (down) to
-1. **开始专心于；着手认真做：**  
+1.**开始专心于；着手认真做：**  
  > With so much noise outside, I couldn’t settle down to my work.  
  > 外面那么吵，我不能专心工作。
 
 - settle for
-1. **勉强接受；将就：**  
+1.**勉强接受；将就：**  
  > She doesn’t settle for anything but the best.  
  > 她只想要最好的，绝不会将就。
 
 - settle in / into
-1. **适应；习惯 (新事物)：**  
+1.**适应；习惯 (新事物)：**  
  > How’s your new home? Are you settling in OK?  
  > 你的新家怎么样？你习惯吗？
 
@@ -2875,7 +2875,7 @@
  > 她很快就适应了大学的新生活。
 
 - settle on
-1. **决定；选定**  
+1.**决定；选定**  
  > We must settle on a place to meet.  
  > 我们得把见面的地点定下来。
 
@@ -3038,7 +3038,7 @@
 固定搭配
 ---
 - shake off
-1. **摆脱；甩掉：**  
+1.**摆脱；甩掉：**  
  > The evening walk was a time to shake off the day’s upsets.    
  > 傍晚时分的散步是摆脱一天的心烦意乱的时候。
 
@@ -3122,17 +3122,17 @@
 固定搭配
 ---
 - put … to shame
-1. **大大胜过；使自愧不如**  
+1.**大大胜过；使自愧不如**  
  > His cooking puts mine to shame.  
  > 他的厨艺让我自愧不如。
 
 - to sb’s shame
-1. **令某人感到羞愧的是：**  
+1.**令某人感到羞愧的是：**  
  > To my shame, I made many mistakes because of carelessness.  
  > 让我感到羞愧的是，由于粗心我犯了很多错误。
 
 - What a shame!
-1. **真遗憾！**  
+1.**真遗憾！**  
 
 # ***shampoo*** n
 英文释义
@@ -3157,7 +3157,7 @@
 固定搭配
 ---
 - shape up 
-1. **[非正式用语] 改进 (行为 / 工作)：**  
+1.**[非正式用语] 改进 (行为 / 工作)：**  
  > If he doesn’t shape up, he’ll soon be out of a job.   
  > 如果他不改进的话，很快就会失业。
 
@@ -3178,7 +3178,7 @@
 固定搭配
 ---
 - in good / bad shape 
-1. **身体健康 / 不健康；状态好 / 不好：**  
+1.**身体健康 / 不健康；状态好 / 不好：**  
  > He’s in good shape for a man of his age.   
  > 对他这个年龄的人来说，他这身体算是不错了。
 
@@ -3186,13 +3186,13 @@
  > 经济形势很不好，而且还有可能恶化。
 
 - in shape 
-1. **健康状况好：**  
+1.**健康状况好：**  
  > **keep,stay in shape**  
  > She jogs for an hour every morning to keep / stay in shape.   
  > 她每天早上慢跑一小时来保持健康。
 
 - out of shape 
-1. **变形；身体不健康：**  
+1.**变形；身体不健康：**  
  > The front wheel of the bicycle was out of shape.   
  > 这辆自行车的前轮变形了。
 
@@ -3200,7 +3200,7 @@
  > 我已经好几个月没锻炼了，身体真的不行了。
 
 - take shape 
-1. **形成；使成形：**  
+1.**形成；使成形：**  
  > An idea was beginning to take shape in his mind.   
  > 一个想法开始在他的脑海中形成。
 
@@ -3597,7 +3597,7 @@
 固定搭配
 ---
 - culture shock
-1. **文化冲击**  
+1.**文化冲击**  
 
 # ***shock*** vt
 英文释义
@@ -3626,7 +3626,7 @@
 固定搭配
 ---
 - in sb’s shoes
-1. **处于某人的境地：**  
+1.**处于某人的境地：**  
  > **put yourself in their shoes**  
  > Don’t be angry any more. Try to put yourself in their shoes.  
  > 别再生气了，要设身处地地为他们想一想。
@@ -3677,7 +3677,7 @@
 固定搭配
 ---
 - shoot at
-1. **向…射击：**  
+1.**向…射击：**  
  > The hunter shot the wolf after he shot at it several times.  
  > 猎人几次射击后终于射中了狼。
 
@@ -3736,7 +3736,7 @@
 固定搭配
 ---
 - in short
-1. **总之；简言之：**  
+1.**总之；简言之：**  
  > In short, I will do my best to help make the sports meeting a success.  
  > 总之，我会尽全力促成此次运动会的成功。
 
@@ -3770,12 +3770,12 @@
 固定搭配
 ---
 - (be) short for
-1. **为…的缩写 / 简称：**  
+1.**为…的缩写 / 简称：**  
  > UN is short for United Nations.  
  > UN是UnitedNations的简称。
 
 - (be) short of
-1. **缺乏；不足：**  
+1.**缺乏；不足：**  
  > He is short of funds right now.  
  > 眼下他资金短缺。
 
@@ -4060,17 +4060,17 @@
 固定搭配
 ---
 - show ... around/round
-1. **带领…参观 (某地)：**  
+1.**带领…参观 (某地)：**  
  > It’s really good of you to spend so much time showing me around.  
  > 你真是太热情了，花这么多时间带我四处参观。
 
 - show off
-1. **[非正式用语] 卖弄；炫耀：**  
+1.**[非正式用语] 卖弄；炫耀：**  
  > Although some people like to show off their wealth, income is a very private matter for most Americans.  
  > 虽然有些人喜欢炫耀自己的财富，但对大多数美国人而言，收入是一件非常隐私的事情。
 
 - show up
-1. **[非正式用语] 出席；到场：**  
+1.**[非正式用语] 出席；到场：**  
  > A few hundred people showed up, as well as some television cameramen and reporters.  
  > 有好几百人到场，一些电视摄影师和记者也来了。
 
@@ -4150,7 +4150,7 @@
 固定搭配
 ---
 - shut down
-1. **关闭 (工厂等)；使 (机器、装置等) 停止运转：**  
+1.**关闭 (工厂等)；使 (机器、装置等) 停止运转：**  
  > Parents in Glasgow are reacting against the plan to shut down 25 primary schools.  
  > 在格拉斯哥，父母们反对关闭25所小学的计划。
 
@@ -4158,19 +4158,19 @@
  > 关闭计算机系统
 
 - shut in
-1. **把…关在房内**  
+1.**把…关在房内**  
 - shut off
-1. **关掉；切断 (turn off)：**  
+1.**关掉；切断 (turn off)：**  
  > Don’t forget to shut off the water supply.  
  > 别忘了关闭供水系统。
 
 - shut out (of)
-1. **使…不能进入；挡住；不去想：**  
+1.**使…不能进入；挡住；不去想：**  
  > The sunglasses shut out 99 percent of the sun’s harmful rays.  
  > 太阳镜能遮挡99%的太阳光中的有害射线。
 
 - shut up
-1. **关闭；(使) 住口：**  
+1.**关闭；(使) 住口：**  
  > Shut up the window before you go out.  
  > 出去前关好窗户。
 
@@ -4217,7 +4217,7 @@
 固定搭配
 ---
 - (be) worried sick
-1. **极度担心；担心得要命：**  
+1.**极度担心；担心得要命：**  
  > We have been worried sick about you. Are you okay?  
  > 我们非常担心你，你还好吗？
 
@@ -4264,17 +4264,17 @@
 固定搭配
 ---
 - from all sides
-1. **从各个方向；从各方面：**  
+1.**从各个方向；从各方面：**  
  > We must study the question from all sides.  
  > 我们必须从各方面来研究这个问题。
 
 - from side to side
-1. **从左到右：**  
+1.**从左到右：**  
  > He shook his head slowly from side to side.  
  > 他慢慢地摇了摇头。
 
 - side by side
-1. **肩并肩地：**  
+1.**肩并肩地：**  
  > All our members work side by side to fight pollution.  
  > 我们所有的成员都并肩奋斗防治污染。
 
@@ -4369,7 +4369,7 @@
 固定搭配
 ---
 - at first sight
-1. **一见 (就)；乍一看：**  
+1.**一见 (就)；乍一看：**  
  > fall in love with sb at first sight  
  > 与某人一见钟情
 
@@ -4377,22 +4377,22 @@
  > 乍一看，那块表没什么特别之处，但实际上它是一部手机。
 
 - at the sight of
-1. **一看见：**  
+1.**一看见：**  
  > Some people will faint at the sight of blood.  
  > 有些人一见血就晕。
 
 - catch sight of
-1. **看见；发现：**  
+1.**看见；发现：**  
  > Suddenly, I caught sight of my English teacher in the crowd.  
  > 突然，我在人群中看到了我的英语老师。
 
 - come into sight
-1. **进入视线；映入眼帘：**  
+1.**进入视线；映入眼帘：**  
  > As the plane came down through the clouds, green fields and white houses came into sight.  
  > 当飞机穿过云层下降时，绿色的田野和白色的房屋映入了眼帘。
 
 - lose sight of
-1. **看不见；忽略；忘记：**  
+1.**看不见；忽略；忘记：**  
  > I lost sight of him in the crowd.  
  > 他消失在人群中，我看不见他了。
 
@@ -4400,7 +4400,7 @@
  > 他的祖父是个银行家，在20世纪30年代失去了一切，但并未忘记他最看重的东西。
 
 - set one’s sights on
-1. **以…为奋斗目标：**  
+1.**以…为奋斗目标：**  
  > The player said that he had set his sights on winning the championship in the coming Olympics.  
  > 那位选手说，他的目标是在即将到来的奥运会上夺冠。
 
@@ -4468,7 +4468,7 @@
 固定搭配
 ---
 - sign up (for)
-1. **报名参加 (课程等)；登记注册：**  
+1.**报名参加 (课程等)；登记注册：**  
  > sign up for the course in advance  
  > 提前报名参加课程
 
@@ -4592,7 +4592,7 @@
 固定搭配
 ---
 - silence is golden
-1. **沉默是金**  
+1.**沉默是金**  
 
 # ***silent*** adj
 英文释义
@@ -4760,7 +4760,7 @@
 固定搭配
 ---
 - ever since
-1. **从那时起直至今日；此后一直：**  
+1.**从那时起直至今日；此后一直：**  
  > Their work has influenced other writers ever since.  
  > 他们的作品自那时起一直影响着其他作家。
 
@@ -4807,7 +4807,7 @@
 固定搭配
 ---
 - (yours) sincerely
-1. **[用于正式信件末尾] 敬上； 谨上**  
+1.**[用于正式信件末尾] 敬上； 谨上**  
 
 # ***sing*** v
 英文释义
@@ -4950,7 +4950,7 @@
 固定搭配
 ---
 - sit up
-1. **坐起来；坐直；熬夜：**  
+1.**坐起来；坐直；熬夜：**  
  > If burns are on the face, the victim should sit up.   
  > 如果脸部烧伤，伤员应该坐直。
 
@@ -5068,7 +5068,7 @@
 固定搭配
 ---
 - (be) sceptical about / of 
-1. **对…持怀疑态度：**  
+1.**对…持怀疑态度：**  
  > She is skeptical of everything.   
  > 她怀疑一切。
 
@@ -5211,7 +5211,7 @@
 固定搭配
 ---
 - skip a grade
-1. **跳级**  
+1.**跳级**  
 
 # ***skirt*** n
 英文释义
@@ -5427,7 +5427,7 @@
 固定搭配
 ---
 - slim down
-1. **变苗条；(使) 减少；(使) 缩小：**  
+1.**变苗条；(使) 减少；(使) 缩小：**  
  > **slimmed down to**  
  > She slimmed down to 60 kilos before her wedding.  
  > 婚礼前她把体重减到了60公斤。
@@ -5552,7 +5552,7 @@
 固定搭配
 ---
 - slow down
-1. **放慢速度：**  
+1.**放慢速度：**  
  > If less carbon dioxide goes into the atmosphere, global warming will slow down.  
  > 如果进入大气中的二氧化碳减少，全球气候变暖的速度就会放慢。
 
@@ -5771,7 +5771,7 @@
 固定搭配
 ---
 - smooth away
-1. **消除 (问题)；克服 (困难)**  
+1.**消除 (问题)；克服 (困难)**  
 
 # ***smooth*** adj
 英文释义
@@ -5918,7 +5918,7 @@
 固定搭配
 ---
 - so that
-1. **为的是；结果是：**  
+1.**为的是；结果是：**  
  > We work hard so that we can earn more money.  
  > 我们努力工作为的是多赚些钱。
 
@@ -5926,7 +5926,7 @@
  > 他没计划好时间，结果没及时完成工作。
 
 - So what?
-1. **那又怎么样？**  
+1.**那又怎么样？**  
  > — Andrew won’t like it, you know.  
  > 你知道安德鲁是不会喜欢的。
 
@@ -5965,17 +5965,17 @@
 固定搭配
 ---
 - and so on / forth
-1. **等等：**  
+1.**等等：**  
  > There are various books for us to choose from, like history books, literary books and so on.  
  > 有不同种类的书可供我们选择，譬如历史书籍、文学书籍等。
 
 - or so
-1. **大约：**  
+1.**大约：**  
  > Over the past twenty years or so, great changes have taken place in our life.  
  > 在过去大约20年的时间里，我们的生活发生了巨大变化。
 
 - so as to
-1. **为了：**  
+1.**为了：**  
  > I stopped smoking so as not to damage my baby’s health.  
  > 为了不损害孩子的健康，我戒烟了。
 
@@ -5983,12 +5983,12 @@
  > 为了缓解交通拥堵，政府应鼓励更多的人使用公共交通和自行车出行。
 
 - so...as to
-1. **如此…以至：**  
+1.**如此…以至：**  
  > The movie was so frightening as to make your hair stand on end.   
  > 那部电影恐怖得让你毛骨悚然。
 
 - so ... that ...
-1. **如此…以至于：**  
+1.**如此…以至于：**  
  > She has been so ill that she has had to stop work.  
  > 她病得很严重，不得不停止工作。
 
@@ -6273,12 +6273,12 @@
 固定搭配
 ---
 - some more
-1. **再多点 (的)；再多些 (的)：**  
+1.**再多点 (的)；再多些 (的)：**  
  > Have some more bread; it’ll make you feel much better  
  > 再吃些面包，那样你会感觉好一些。
 
 - some ... or other
-1. **[用于表示不肯定或不精确] 某一：**  
+1.**[用于表示不肯定或不精确] 某一：**  
  > I’ve read about it before in some book or other.   
  > 我以前曾在某一本书里读到过与此有关的内容。
 
@@ -6360,17 +6360,17 @@
 固定搭配
 ---
 - have something to do with
-1. **与…有关系：**  
+1.**与…有关系：**  
  > It has something to do with all of us.  
  > 这与我们都有关系。
 
 - make something of oneself
-1. **有所成就；获得成功：**  
+1.**有所成就；获得成功：**  
  > Jenny should make something of herself one day if she kept working hard.  
  > 如果珍妮一直努力工作，总有一天会有出息的。
 
 - something else
-1. **别的东西；另外一件事：**  
+1.**别的东西；另外一件事：**  
  > He said something else that I thought was interesting.  
  > 他说了另外一件事，我觉得很有趣。
 
@@ -6490,21 +6490,21 @@
 固定搭配
 ---
 - as soon as
-1. *低义频：* **一...就：**  
+1.*低义频：* **一...就：**  
  > As soon as I hear my alarm clock, I jump out of my bed.  
  > 我一听到闹钟响就会跳下床。
 
-2. *低义频：* **如...那么早 / 快：**  
+2.*低义频：* **如...那么早 / 快：**  
  > They didn’t arrive as soon as we had expected.  
  > 他们到得没有我们预期的那么早。
 
 - no sooner ... than
-1. **一…就：**  
+1.**一…就：**  
  > I had no sooner reached home than it began to rain. / No sooner had I reached home than it began to rain.  
  > 我刚到家就开始下雨了。
 
 - sooner or later 
-1. **迟早：**  
+1.**迟早：**  
  > Sooner or later she was going to awake anyhow.  
  > 不管怎样，她迟早会醒悟过来。
 
@@ -6627,7 +6627,7 @@
 固定搭配
 ---
 - sort of
-1. **有几分；有点：**  
+1.**有几分；有点：**  
  > — Do you know what I mean?  
  > 你知道我什么意思吗？
 
@@ -6647,7 +6647,7 @@
 固定搭配
 ---
 - sort out (from)
-1. **(从…中) 挑选出；整理；处理：**  
+1.**(从…中) 挑选出；整理；处理：**  
  > We should sort out enemies from friends.  
  > 我们应该分清敌友。
 
@@ -6725,7 +6725,7 @@
 固定搭配
 ---
 - sound as if / though
-1. **听起来像：**  
+1.**听起来像：**  
  > It sounds as if you had a great time in London.  
  > 听起来你在伦敦玩得很开心。
 
@@ -7048,7 +7048,7 @@
 固定搭配
 ---
 - spare no expense / effort
-1. **不惜工本；全力以赴：**  
+1.**不惜工本；全力以赴：**  
  > For the sake of the welfare of our offspring, we should spare no effort to protect our mother planet.  
  > 为了造福子孙后代，我们应不遗余力地保护我们的地球母亲。
 
@@ -7101,19 +7101,19 @@
 固定搭配
 ---
 - speak for 
-1. **代表…讲话 / 发言**  
+1.**代表…讲话 / 发言**  
 - speak highly of 
-1. **赞扬：**  
+1.**赞扬：**  
  > World media spoke highly of China’s achievements in reform.   
  > 世界各国媒体高度评价中国改革所取得的成就。
 
 - speak of 
-1. **谈到；提及：**  
+1.**谈到；提及：**  
  > He spoke of the French and their “habit of standing in a queue”.   
  > 他谈到了法国人以及他们排队的习惯。
 
 - speak out / up 
-1. **清楚响亮地说；大胆地说：**  
+1.**清楚响亮地说；大胆地说：**  
  > Speak out — we can’t hear you.   
  > 大声说，我们听不见你说话。
 
@@ -7299,7 +7299,7 @@
 固定搭配
 ---
 - speed up 
-1. *高义频：* **(使) 加快速度：**  
+1.*高义频：* **(使) 加快速度：**  
  > We all need to speed up to finish in time!  
  > 我们都得加快速度以争取及时完成任务！
 
@@ -7463,7 +7463,7 @@
 固定搭配
 ---
 - in spite of
-1. **不管；尽管 (despite)：**  
+1.**不管；尽管 (despite)：**  
  > In spite of ups and downs, she never takes her fate lying down.  
  > 尽管遭遇了坎坷，但她从不甘心接受命运的摆布。
 
@@ -7634,7 +7634,7 @@
 固定搭配
 ---
 - on the spot
-1. **当场；在现场：**  
+1.**当场；在现场：**  
  > The bullet struck his head and he was killed on the spot.  
  > 子弹击中了他的头部，他当场死亡。
 
@@ -7732,7 +7732,7 @@
 固定搭配
 ---
 - spread out
-1. **伸展；摊开；分散：**  
+1.**伸展；摊开；分散：**  
  > The general spread out a map to command his army.  
  > 将军铺开地图指挥部队。
 
@@ -8065,34 +8065,34 @@
 固定搭配
 ---
 - it stands to reason (that)
-1. **理所当然：**  
+1.**理所当然：**  
  > Joe is intelligent and studies hard; it stands to reason that he will pass the examination.  
  > 乔既聪明又用功，他肯定会通过考试。
 
 - stand a chance
-1. **有希望；有可能：**  
+1.**有希望；有可能：**  
  > A determined man stands a chance of succeeding as long as he sticks to his dreams.  
  > 一个有决心的人只要坚持梦想就有可能成功。
 
 - stand back
-1. **退后；退一步 (考虑问题)**  
+1.**退后；退一步 (考虑问题)**  
 - stand by
-1. **袖手旁观：**  
+1.**袖手旁观：**  
  > How can you stand by and let him treat his dog like that?  
  > 他那样虐待他的狗，你怎么能袖手旁观呢？
 
 - stand by sth
-1. **信守约定；坚持某事物：**  
+1.**信守约定；坚持某事物：**  
  > The president told the reporter that he wanted to stand by his earlier statements.  
  > 总统告诉记者，他坚持自己先前的声明。
 
 - stand for
-1. **[不用于被动语态和进行时] 代表；象征：**  
+1.**[不用于被动语态和进行时] 代表；象征：**  
  > Each star on the flag of the United States stands for a state of the nation.  
  > 美国国旗上的每一颗星代表美国的一个州。
 
 - stand out
-1. **引人注目；突出：**  
+1.**引人注目；突出：**  
  > Having been painted red, the building stands out among the rest and looks very attractive.  
  > 因为被刷成了红色，这幢楼在楼群中很显眼、很好看。
 
@@ -8100,7 +8100,7 @@
  > 多萝西在我印象中很突出，她是一位在偏远地区活得精彩的人。
 
 - stand up for
-1. **维护；替…说话：**  
+1.**维护；替…说话：**  
  > Rosa Parks stood up for all Americans by refusing to give her seat to a white man.  
  > 罗莎·帕克斯拒绝给白人让座维护了全体美国人的利益。
 
@@ -8244,12 +8244,12 @@
 固定搭配
 ---
 - get started
-1. **开始；着手；动手：**  
+1.**开始；着手；动手：**  
  > It’s nearly ten o’clock. Let’s get started.  
  > 都快10点了，我们开始吧。
 
 - start off / out
-1. **出发；启程；起先：**  
+1.**出发；启程；起先：**  
  > We’ll have to start out / off early to get there by lunchtime.  
  > 我们得早点出发，以便在午饭前赶到那里。
 
@@ -8257,16 +8257,16 @@
  > 我起初是售票员，但后来成了公共汽车司机。
 
 - start up
-1. *低义频：* **创立；组建：**  
+1.*低义频：* **创立；组建：**  
  > start up businesses  
  > 创办企业
 
-2. *高义频：* **启动；发动：**  
+2.*高义频：* **启动；发动：**  
  > The driver got back the car and started up.  
  > 司机回到车上发动了引擎。
 
 - to start with
-1. **首先；起初：**  
+1.**首先；起初：**  
  > I was pretty nervous to start with, but after a while I was fine.  
  > 起初我相当紧张，但过了一会儿就好了。
 
@@ -8314,7 +8314,7 @@
 固定搭配
 ---
 - be starving
-1. **饿极了：**  
+1.**饿极了：**  
  > When’s food? I’m starving!  
  > 饭什么时候好？我快饿死了！
 
@@ -8509,30 +8509,30 @@
 固定搭配
 ---
 - stay away
-1. **走开；不打扰：**  
+1.**走开；不打扰：**  
  > Birds’ singing is sometimes a warning to other birds to stay away.  
  > 鸟儿唱歌有时是警告其他同类不要靠近。
 
 - stay in
-1. **待在家里；不外出**  
+1.**待在家里；不外出**  
 - stay on
-1. **留下来继续 (工作 / 学习)：**  
+1.**留下来继续 (工作 / 学习)：**  
  > I stayed on the job for five months.  
  > 这份工作我继续干了5个月。
 
 - stay out
-1. **待在户外；(晚上) 不回家：**  
+1.**待在户外；(晚上) 不回家：**  
  > **staying out late**  
  > He started staying out late, drinking.  
  > 他开始深夜不归，在外面喝酒。
 
 - stay out of
-1. **避开；远离；不介入：**  
+1.**避开；远离；不介入：**  
  > stay out of trouble  
  > 避免麻烦
 
 - stay up
-1. **熬夜：**  
+1.**熬夜：**  
  > I stayed up all night preparing for my history exam.  
  > 我熬了一整夜准备历史考试。
 
@@ -8587,7 +8587,7 @@
 固定搭配
 ---
 - be a steal
-1. **[非正式用语] 非常便宜：**  
+1.**[非正式用语] 非常便宜：**  
  > By comparison, a fast meal with a hamburger is a steal at $4.80.  
  > 通过比较，售价为4.8美元的含汉堡的快餐很便宜。
 
@@ -8705,7 +8705,7 @@
 固定搭配
 ---
 - mind / watch one’s step
-1. **走路小心；言行小心谨慎**  
+1.**走路小心；言行小心谨慎**  
 
 # ***stepmother*** n
 英文释义
@@ -8781,14 +8781,14 @@
 固定搭配
 ---
 - be / get stuck in
-1. **卡住；陷入：**  
+1.**卡住；陷入：**  
  > They got stuck in a traffic jam.  
  > 他们遇到了交通堵塞。
 
 - stick around
-1. **[非正式用语] 不走开；待在原地**  
+1.**[非正式用语] 不走开；待在原地**  
 - stick out
-1. **伸出；突出：**  
+1.**伸出；突出：**  
  > Stick out your tongue, please.  
  > 请把舌头伸出来。
 
@@ -8796,7 +8796,7 @@
  > 照片上，爱德华头发很短，双耳突出。
 
 - stick to
-1. **坚持；遵守：**  
+1.**坚持；遵守：**  
  > The surest way to success is sticking to your goal.  
  > 通向成功最可靠的方法是坚持目标。
 
@@ -8804,16 +8804,16 @@
  > 他一旦许下诺言，就会坚守这个诺言。
 
 - stick up
-1. **竖立：**  
+1.**竖立：**  
  > On Christmas morning we stuck up a board with “A Merry Christmas” on it.  
  > 在圣诞节的早上，我们竖起一块牌子，上面写着“圣诞快乐”。
 
 - stick with
-1. *低义频：* **持续；坚持：**  
+1.*低义频：* **持续；坚持：**  
  > You should choose an activity that you enjoy, and one that you’ll stick with.  
  > 你应该选择一项你喜欢并且会坚持下去的活动。
 
-2. *低义频：* **留在...的记忆里：**  
+2.*低义频：* **留在...的记忆里：**  
  > Those words will stick with me for the rest of my life.  
  > 我余生将永远记住这些话。
 
@@ -8833,7 +8833,7 @@
 固定搭配
 ---
 - get (hold of) the wrong end of the stick
-1. **完全误解**  
+1.**完全误解**  
 
 # ***sticky*** adj
 英文释义
@@ -8970,9 +8970,9 @@
 固定搭配
 ---
 - a stepping stone
-1. **垫脚石；藉以达到目标的手段或阶段**  
+1.**垫脚石；藉以达到目标的手段或阶段**  
 - a stone’s throw
-1. **很近的距离；不远处：**  
+1.**很近的距离；不远处：**  
  > At that time my family lived a stone’s throw from his.  
  > 那时我家离他家很近。
 
@@ -9013,7 +9013,7 @@
 固定搭配
 ---
 - stop off (in / at)
-1. **在…中途停留：**  
+1.**在…中途停留：**  
  > We stopped off in Barn for an hour on the way.  
  > 中途我们在巴恩停留了一个小时。
 
@@ -9037,12 +9037,12 @@
 固定搭配
 ---
 - bring ... to a stop
-1. **使…停下来：**  
+1.**使…停下来：**  
  > The accident brought the traffic to a complete stop.  
  > 这起事故使交通完全中断了。
 
 - come to a stop
-1. **停止：**  
+1.**停止：**  
  > He came to such a sudden stop that we almost hit him.  
  > 他突然停了下来，我们差点撞上他。
 
@@ -9098,7 +9098,7 @@
 固定搭配
 ---
 - in store
-1. **贮藏着；准备着；即将发生：**  
+1.**贮藏着；准备着；即将发生：**  
  > **in store for**  
  > Squirrels have enough nuts in store for their winter hibernation.  
  > 松鼠为冬眠准备了充足的坚果。
@@ -9190,7 +9190,7 @@
 固定搭配
 ---
 - straight away / off
-1. **立即；马上：**  
+1.**立即；马上：**  
  > I phoned my mother straight away.  
  > 我马上给妈妈打了电话。
 
@@ -9221,9 +9221,9 @@
 固定搭配
 ---
 - earn / get straight A’s
-1. **得全优成绩**  
+1.**得全优成绩**  
 - get sth straight
-1. **[口语] 弄清楚某事**  
+1.**[口语] 弄清楚某事**  
 
 # ***straightforward*** adv
 英文释义
@@ -9310,7 +9310,7 @@
 固定搭配
 ---
 - the last / final straw
-1. **最后一根稻草；最后一击**  
+1.**最后一根稻草；最后一击**  
 
 # ***strawberry*** n
 英文释义
@@ -9390,7 +9390,7 @@
 固定搭配
 ---
 - go from strength to strength 
-1. **不断壮大：**  
+1.**不断壮大：**  
  > The company has gone from strength to strength since it was established five years ago.   
  > 这家公司自5年前创办以来一直不断壮大。
 
@@ -9545,12 +9545,12 @@
 固定搭配
 ---
 - strike a balance
-1. **两者兼顾；达到平衡：**  
+1.**两者兼顾；达到平衡：**  
  > He found it difficult to strike a balance between his family and his work.  
  > 他发现家庭和工作两者很难兼顾。
 
 - strike a deal
-1. **达成协议**  
+1.**达成协议**  
 
 # ***strike*** n  重难点词汇
 英文释义
@@ -9875,7 +9875,7 @@
 固定搭配
 ---
 - subject matter
-1. **题材：**  
+1.**题材：**  
  > The subject matter of his pomes includes love, nature, history, time and aging.  
  > 他的诗歌的题材包括爱、大自然、历史、时间和衰老。
 
@@ -9952,7 +9952,7 @@
 固定搭配
 ---
 - subscribe to 
-1. **[正式用语] 同意；赞成：**  
+1.**[正式用语] 同意；赞成：**  
  > All scientists subscribe to the view that the increase in the earth’s temperature is due to the burning of fossil fuels.  
  > 所有的科学家都赞成这种观点：地球上气温的升高是由燃烧矿物燃料引起的。
 
@@ -10145,7 +10145,7 @@
 固定搭配
 ---
 - such as
-1. **诸如；例如：**  
+1.**诸如；例如：**  
  > Cartoon characters such as Mickey Mouse and Snoopy are still popular.  
  > 像米老鼠和史努比这样的卡通人物仍然很受欢迎。
 
@@ -10158,7 +10158,7 @@
  > 这样的行为在我们学校是绝对不能接受的。
 
 - such..as
-1.  > **There is no such thing as**  
+1. > **There is no such thing as**  
  > There is no such thing as a free lunch.  
  > 世界上没有免费的午餐。
 
@@ -10173,7 +10173,7 @@
 固定搭配
 ---
 - such … that 
-1. **如此…以至于：**  
+1.**如此…以至于：**  
  > This issue is of such importance that we can’t afford to ignore it.  
  > 这个问题十分重要，我们疏忽不得。
 
@@ -10181,7 +10181,7 @@
  > 他们说那天如此美好，他们永远也不会忘记。
 
 - such that / as to 
-1. **到如此程度以致：**  
+1.**到如此程度以致：**  
  > The force of the explosion was such that windows were blown out.  
  > 爆炸的力量如此之大，以致窗户都被震碎了。
 
@@ -10234,7 +10234,7 @@
 固定搭配
 ---
 - all of a sudden 
-1. **突然；冷不防：**  
+1.**突然；冷不防：**  
  > They were watching TV when all of a sudden the power went out.  
  > 他们正在看电视，突然停电了。
 
@@ -10414,7 +10414,7 @@
 固定搭配
 ---
 - suit ... to 
-1. **使…适合：**  
+1.**使…适合：**  
  > A good teacher suits his lesson to the age of his pupils.   
  > 优秀的老师会使他的授课适合学生的年龄特点。
 
@@ -10479,7 +10479,7 @@
 固定搭配
 ---
 - sum up 
-1. **总结；概括：**  
+1.**总结；概括：**  
  > His speech summed up the present situation of economy.   
  > 他的演讲概述了目前的经济形势。
 
@@ -10753,7 +10753,7 @@
 固定搭配
 ---
 - in support of 
-1. **支持；证明：**  
+1.**支持；证明：**  
  > He made some experiments in support of his own idea.   
  > 他做了一些实验来证明自己的观点。
 
@@ -10835,11 +10835,11 @@
 固定搭配
 ---
 - (be) supposed to be / to do sth
-1. *高义频：* **被认为；被当作：**  
+1.*高义频：* **被认为；被当作：**  
  > I haven’t seen it myself, but it is supposed to be a great movie.   
  > 我没看过这部电影，但是据说很不错。
 
-2. *高义频：* **应该；理应：**  
+2.*高义频：* **应该；理应：**  
  > The college years are supposed to be a time for important growth in dependence.  
  > 大学期间应是培养独立性的重要时期。
 
@@ -10903,12 +10903,12 @@
 固定搭配
 ---
 - for sure 
-1. **[非正式用语] 肯定地；毫无疑问地：**  
+1.**[非正式用语] 肯定地；毫无疑问地：**  
  > Nobody knows for sure why and how dinosaurs disappeared from the earth in such a short time.   
  > 没有人确切地知道恐龙为什么、又是怎样在这么短的时间内从地球上消失的。
 
 - make sure 
-1. **弄清；查明；设法确保：**  
+1.**弄清；查明；设法确保：**  
  > **make sure of**  
  > He arrived at the cinema early to make sure of a seat.   
  > 为确保有座位，他早早地到了电影院。
@@ -10918,7 +10918,7 @@
  > 我们确保在校园里照顾好学生。
 
 - to be sure 
-1. **诚然；固然：**  
+1.**诚然；固然：**  
  > She’s not perfect, to be sure, but she is pretty.   
  > 她固然不是十全十美，但很漂亮。
 
@@ -11029,12 +11029,12 @@
 固定搭配
 ---
 - in surprise 
-1. **惊奇地：**  
+1.**惊奇地：**  
  > “How did you come to know it?” asked the man in surprise.   
  > 那人惊奇地问：“你是怎么知道的？”
 
 - take ... by surprise 
-1. **使…吃惊；突袭：**  
+1.**使…吃惊；突袭：**  
  > The question took the professor by surprise.   
  > 那个问题使教授大感意外。
 
@@ -11042,7 +11042,7 @@
  > 部队在睡梦中遭到突袭。
 
 - to sb’s surprise / to the surprise of sb 
-1. **使某人吃惊的是：**  
+1.**使某人吃惊的是：**  
  > To my surprise, many of them expressed disappointment.  
  > 让我惊讶的是，他们中很多人表示失望。
 
@@ -11292,7 +11292,7 @@
 固定搭配
 ---
 - swallow up 
-1. **吞没；淹没；用尽：**  
+1.**吞没；淹没；用尽：**  
  > The ship was swallowed up by the wave.   
  > 船被大浪吞没了。
 
@@ -11539,7 +11539,7 @@
 固定搭配
 ---
 - switch off
-1. *高义频：* **关上 (电灯、电视等)；[非正式用语] 不听；不理睬：**  
+1.*高义频：* **关上 (电灯、电视等)；[非正式用语] 不听；不理睬：**  
  > Please switch off the TV when you go to bed.  
  > 睡觉时请关上电视。
 
@@ -11547,12 +11547,12 @@
  > 谢天谢地，我已经学会了不再烦恼，把它抛到脑后。
 
 - switch on
-1. *高义频：* **打开 (电灯、电视等)：**  
+1.*高义频：* **打开 (电灯、电视等)：**  
  > I hear that song whenever I switch on the radio.  
  > 每次打开收音机时我们都能听到那首歌。
 
 - switch over
-1. *高义频：* **改变；转换：**  
+1.*高义频：* **改变；转换：**  
  > We’ve switched over to telephone banking.  
  > 我们已经改用电话银行服务了。
 

@@ -20,7 +20,7 @@
 固定搭配
 ---
 - be in the habit of / have a / the habit of
-1. **有…的习惯：**  
+1.**有…的习惯：**  
  > He's in the habit of getting up late on the weekend.  
  > 他有周末晚起的习惯。
 
@@ -28,22 +28,22 @@
  > 乘车时你有主动给老人让座的习惯吗？
 
 - break / kick the habit of
-1. **改掉…的 (坏) 习惯：**  
+1.**改掉…的 (坏) 习惯：**  
  > He said he would try to break the habit of going to bed late.  
  > 他说他将设法改掉晚睡的习惯。
 
 - develop / fall into / form / get in(to) the / a habit of
-1. **养成…的习惯：**  
+1.**养成…的习惯：**  
  > Don't fall into the bad habit of smoking.  
  > 别沾染上吸烟的坏习惯。
 
 - get out of the habit of
-1. **改掉…的习惯：**  
+1.**改掉…的习惯：**  
  > I've got out of the habit of taking a walk after dinner  
  > 我已经没有晚饭后散步的习惯了。
 
 - out of habit
-1. **出于习惯：**  
+1.**出于习惯：**  
  > I only do it out of habit.  
  > 我这么做仅仅是出于习惯。
 
@@ -284,7 +284,7 @@
 固定搭配
 ---
 - at hand 
-1. **即将到来；在手边：**  
+1.**即将到来；在手边：**  
  > The autumn harvest is at hand.  
  > 秋收在即。
 
@@ -292,27 +292,27 @@
  > 你最好在手边放本词典。
 
 - by hand 
-1. **用手；靠人工：**  
+1.**用手；靠人工：**  
  > With the coming of new technologies like computers and smartphones, writing by hand has become a thing of the past.  
  > 随着诸如计算机和智能手机等新技术的出现，手写已成为过去的事。
 
 - hand in hand 
-1. **手拉手；连在一起地；密切关联：**  
+1.**手拉手；连在一起地；密切关联：**  
  > As the saying goes, success and failure always go hand in hand.   
  > 俗话说，成功与失败如影随形。
 
 - in the hands of sb / in sb's hands
-1. **由某人照料 / 控制：**  
+1.**由某人照料 / 控制：**  
  > The matter is in the hands of the police.   
  > 这件事由警方在处理。
 
 - on hand 
-1. **在手头；现有；在场；到场：**  
+1.**在手头；现有；在场；到场：**  
  > Several former teachers were on hand to tell stories about the old days.  
  > 几位以前的教师在现场讲述过去的事情。
 
 - (on the one hand …) on the other (hand)
-1. **一方面…另一方面：**  
+1.**一方面…另一方面：**  
  > On the one hand, computers improve the working efficiency; on the other hand, they also bring about some new problems.   
  > 一方面，计算机提高了人们的工作效率，另一方面，也引起了一些新的问题。
 
@@ -329,26 +329,26 @@
 固定搭配
 ---
 - hand around / round
-1. **分发**  
+1.**分发**  
 - hand back
-1. **交回；归还**  
+1.**交回；归还**  
 - hand down 
-1. **把…传下来 (pass down)：**  
+1.**把…传下来 (pass down)：**  
  > This ring has been handed down in my family.   
  > 这枚戒指是我家祖传的。
 
 - hand in 
-1. **提交；交上：**  
+1.**提交；交上：**  
  > If you order your lunch at the school dining hall, please hand in your order before 9:30.  
  > 如果你要在学校餐厅订午餐，请在9:30前把订单交上来。
 
 - hand out 
-1. **把…拿出来；分发 (distribute)：**  
+1.**把…拿出来；分发 (distribute)：**  
  > Could you hand these books out, please?   
  > 请把这些书发给大家好吗？
 
 - hand over 
-1. **移交；交出：**  
+1.**移交；交出：**  
  > On his retirement, he handed the business over to his son.  
  > 他退休时把生意移交给了他的儿子。
 
@@ -497,17 +497,17 @@
 固定搭配
 ---
 - hang about / around
-1. **(在…附近) 闲逛；晃悠：**  
+1.**(在…附近) 闲逛；晃悠：**  
  > There were some kids hanging about in the street.  
  > 街上有几个孩子在游荡。
 
 - hang about / around with sb
-1. **与某人厮混；聚在一起：**  
+1.**与某人厮混；聚在一起：**  
  > The people I used to hang around with were much older than me.   
  > 以前和我一起混的人都比我年长许多。
 
 - hang on 
-1. **抓紧不放；[非正式用语] 不要挂断(hold on)：**  
+1.**抓紧不放；[非正式用语] 不要挂断(hold on)：**  
  > **Hang on to**  
  > Hang on to the rope and don't let go.  
  > 抓紧绳子，不要松手。
@@ -516,7 +516,7 @@
  > 别挂断，我这就去看看他在不在。
 
 - hang out (with) 
-1. **常去某处；与…经常在一起：**  
+1.**常去某处；与…经常在一起：**  
  > — What were you doing last night?   
  > 你昨天晚上在干什么？
 
@@ -524,12 +524,12 @@
  > 没什么，就是跟朋友在一起。
 
 - hang over 
-1. **笼罩：**  
+1.**笼罩：**  
  > The wet air forms clouds, which hang over the treetops like smoke.  
  > 湿气形成云，像烟雾一样笼罩在树梢。
 
 - hang up
-1. **挂断 (电话)：**  
+1.**挂断 (电话)：**  
  > Someone called me up just now, but he hung up before I could answer the phone.  
  > 刚才有人给我打电话，但我还没来得及接就挂断了。
 
@@ -559,7 +559,7 @@
  > 你知道新闻之后是什么节目吗？
 
 - it (so) happens that / as it happens
-1. **碰巧；恰好：**  
+1.**碰巧；恰好：**  
  > It so happened that I was out when he came. / As it happened, I was out when he came.  
  > 他来的时候碰巧我出去了。
 
@@ -691,7 +691,7 @@
 固定搭配
 ---
 - hard facts 
-1. **确切的证据**  
+1.**确切的证据**  
 
 # ***hard*** adv
 英文释义
@@ -726,7 +726,7 @@
 固定搭配
 ---
 - hardly ever 
-1. **很少；几乎从不 (almost never)：**  
+1.**很少；几乎从不 (almost never)：**  
  > — Sometimes I think you watch too much TV.   
  > 有时我觉得你看电视太多了。
 
@@ -734,7 +734,7 @@
  > 哦，我很少看电视
 
 - hardly … when / before
-1. **刚…就：**  
+1.**刚…就：**  
  > The girl had hardly rung the bell before the door was opened suddenly.  
  > 女孩刚要按门铃，门突然开了。
 
@@ -781,7 +781,7 @@
 固定搭配
 ---
 - do harm to / do ... harm 
-1. **伤害；对…有害：**  
+1.**伤害；对…有害：**  
  > Too much drinking will do great harm to you. / Too much drinking will do you great harm.  
  > 饮酒过量危害甚大。
 
@@ -1025,7 +1025,7 @@
 固定搭配
 ---
 - have ... on
-1. **[不用于进行时] 穿着；戴着；安排：**  
+1.**[不用于进行时] 穿着；戴着；安排：**  
  > The emperor had nothing on.   
  > 皇帝什么都没穿。
 
@@ -1033,7 +1033,7 @@
  > 你下午有事吗？
 
 - have to
-1. *高义频：* **[口语中用 have got to, 或缩写成've got to] 必须；不得不：**  
+1.*高义频：* **[口语中用 have got to, 或缩写成've got to] 必须；不得不：**  
  > I've got to prepare for the chemistry test this week.  
  > 这个星期我得准备化学考试。
 
@@ -1120,12 +1120,12 @@
 固定搭配
 ---
 - hold one's head high
-1. *高义频：* **昂首；趾高气扬：**  
+1.*高义频：* **昂首；趾高气扬：**  
  > Don't hold your head too high.  
  > 不要太趾高气扬。
 
 - off the top of one's head
-1. **不假思索的；即兴的**  
+1.**不假思索的；即兴的**  
 
 # ***head*** v
 英文释义
@@ -1146,7 +1146,7 @@
 固定搭配
 ---
 - head for 
-1. **朝…方向走：**  
+1.**朝…方向走：**  
  > After the game, the fans headed for the exit.   
  > 比赛结束后，球迷们朝出口走去。
 
@@ -1214,7 +1214,7 @@
 固定搭配
 ---
 - heal over / up
-1. **愈合；痊愈**  
+1.**愈合；痊愈**  
 
 # ***health*** n
 英文释义
@@ -1235,7 +1235,7 @@
 固定搭配
 ---
 - (be) in good / poor health
-1. **身体好 / 差：**  
+1.**身体好 / 差：**  
  > You must be in good health and prepared to go through a period of body exercises.  
  > 你的身体一定要健康，而且要做好准备来经受一段时间的锻炼。
 
@@ -1303,7 +1303,7 @@
 固定搭配
 ---
 - hear about
-1. **听说 (…的情况)：**  
+1.**听说 (…的情况)：**  
  > I've just heard about his illness.  
  > 我刚听说他生病了。
 
@@ -1311,7 +1311,7 @@
  > 只要一听到“无家可归者”，我们中的大多数人就会想到第三世界。
 
 - hear from
-1. **接到…的来信 / 电话：**  
+1.**接到…的来信 / 电话：**  
  > Hope to hear from you soon.  
  > 希望尽快收到你的来信。
 
@@ -1319,7 +1319,7 @@
  > 好久没有收到他的来信了。
 
 - hear of
-1. **听说：**  
+1.**听说：**  
  > I don't know him, but I have heard of him.  
  > 我不认识他，但听说过他。
 
@@ -1389,27 +1389,27 @@
 固定搭配
 ---
 - at heart
-1. **本质上；心底里：**  
+1.**本质上；心底里：**  
  > At heart, every child wants to grow into a happy, healthy, contributing adult.  
  > 每个孩子在内心都想长大成为一个快乐、健康、有所贡献的成年人。
 
 - break sb's heart
-1. **使某人伤心：**  
+1.**使某人伤心：**  
  > You really broke her heart by saying that.  
  > 你那样说真伤她的心。
 
 - by heart
-1. **默记；背诵：**  
+1.**默记；背诵：**  
  > It's no use learning the text by heart without understanding it.  
  > 背诵课文而不理解其意思是没有用的。
 
 - heart and soul
-1. **全心全意地：**  
+1.**全心全意地：**  
  > She loves those children heart and soul.  
  > 她全心全意地爱着那些孩子。
 
 - lose heart
-1. **灰心：**  
+1.**灰心：**  
  > Don't lose heart, whatever happens.  
  > 无论发生什么事，都不要灰心。
 
@@ -1460,7 +1460,7 @@
 固定搭配
 ---
 - heat up
-1. **加热 (warm up)；变得激烈：**  
+1.**加热 (warm up)；变得激烈：**  
  > You can try heating up last night's leftovers.  
  > 你可以试着热一下昨晚的剩菜。
 
@@ -1578,7 +1578,7 @@
 固定搭配
 ---
 - be heavy with sth
-1. **充满 / 满载某物：**  
+1.**充满 / 满载某物：**  
  > Every hill was heavy with the past.  
  > 每座小山都承载着过往。
 
@@ -1606,7 +1606,7 @@
 固定搭配
 ---
 - Achilles' heel
-1. **致命弱点；死穴**  
+1.**致命弱点；死穴**  
 
 # ***height*** n
 英文释义
@@ -1723,7 +1723,7 @@
 固定搭配
 ---
 - can't help (doing) sth / can't help but do sth
-1. **忍不住做某事：**  
+1.**忍不住做某事：**  
  > I can't help feeling that there has been a mistake.  
  > 我不由自主地觉得什么地方出错了。
 
@@ -1731,7 +1731,7 @@
  > 一天晚上，我握着父亲的双手，不禁注意到这双手很粗糙。
 
 - help oneself (to)
-1. **自用 (食物等)；[非正式用语]偷取：**  
+1.**自用 (食物等)；[非正式用语]偷取：**  
  > Help yourself to all you wish.  
  > 请随便吃。
 
@@ -1745,7 +1745,7 @@
  > 他一直在偷拿抽屉中的钱。
 
 - help (...) out
-1. **帮助 (…) 摆脱困境；帮 (…) 分担工作：**  
+1.**帮助 (…) 摆脱困境；帮 (…) 分担工作：**  
  > Please help me out with this problem.  
  > 请帮我解决这个问题。
 
@@ -1756,7 +1756,7 @@
  > 去年我在父亲的办公室里帮忙。
 
 - it can't be helped
-1. **[口语] 无法避免；没办法：**  
+1.**[口语] 无法避免；没办法：**  
  > She said she had to leave him for a while; it couldn't be helped.  
  > 她说自己不得不暂时离开他，那是没办法的事。
 
@@ -1792,7 +1792,7 @@
 固定搭配
 ---
 - (be) of … help
-1. **有…帮助的：**  
+1.**有…帮助的：**  
  > **of help**  
  > This dictionary is of great help to me.  
  > 这本字典对我帮助很大。
@@ -1805,7 +1805,7 @@
  > 很高兴我能帮上忙。
 
 - with sb's help / with the help of sb
-1. **在某人的帮助下；借助某人：**  
+1.**在某人的帮助下；借助某人：**  
  > With their help, I have made great progress.  
  > 在他们的帮助下，我取得了很大进步。
 
@@ -1884,17 +1884,17 @@
 固定搭配
 ---
 - here and now
-1. **现在；马上：**  
+1.**现在；马上：**  
  > Let's start the experiment here and now.  
  > 我们马上开始做实验吧。
 
 - here and there
-1. **到处；处处：**  
+1.**到处；处处：**  
  > Gray wolves once were seen here and there in the Yellowstone area.  
  > 灰狼曾一度在黄石地区随处可见。
 
 - here you are
-1. **给你**  
+1.**给你**  
 
 # ***heritage*** n
 英文释义
@@ -2236,7 +2236,7 @@
 固定搭配
 ---
 - hire out 
-1. **出租：**  
+1.**出租：**  
  > The company hires out cars.  
  > 这家公司出租小汽车。
 
@@ -2293,12 +2293,12 @@
 固定搭配
 ---
 - make history 
-1. **创造历史；做出永垂史册的事情：**  
+1.**创造历史；做出永垂史册的事情：**  
  > Obama made history by being elected as the first black president of the USA.   
  > 奥巴马是美国历史上首位黑人总统。
 
 - go down in history 
-1. **载入史册；青史留名：**  
+1.**载入史册；青史留名：**  
  > He will go down in history as a great leader.  
  > 他作为一名伟大的领袖将载入史册。
 
@@ -2339,7 +2339,7 @@
 固定搭配
 ---
 - hit on / upon 
-1. **突然想到 (come up with)：**  
+1.**突然想到 (come up with)：**  
  > hit on / upon an idea   
  > 想出一个主意
 
@@ -2369,7 +2369,7 @@
 固定搭配
 ---
 - take a hit
-1. **遭到破坏；受到严重影响**  
+1.**遭到破坏；受到严重影响**  
 
 # ***hoarfrost*** n
 英文释义
@@ -2494,26 +2494,26 @@
 固定搭配
 ---
 - hold back
-1. *高义频：* **阻挡；阻碍：**  
+1.*高义频：* **阻挡；阻碍：**  
  > No one can hold back the wheel of history.   
  > 谁也无法阻挡历史的车轮。
 
  > He was held back by his lack of English.  
  > 他不懂英语，这阻碍了他的发展。
 
-2. *高义频：* **抑制 (感情等)：**  
+2.*高义频：* **抑制 (感情等)：**  
  > hold back one's anger  
  > 压住怒火
 
  > I had to hold back tears as he left.  
  > 他离开的时候，我不得不强忍泪水。
 
-3. *高义频：* **(使) 犹豫：**  
+3.*高义频：* **(使) 犹豫：**  
  > She held back from telling him what she thought of him.  
  > 她想把自己对他的看法告诉他，但又觉得难以启齿。
 
 - hold on
-1. *高义频：* **抓着...不放；坚持：**  
+1.*高义频：* **抓着...不放；坚持：**  
  > **held on**  
  > She held on to me tightly.  
  > 她紧紧地抓住我。
@@ -2526,7 +2526,7 @@
  > I will hold on to my dream and never give it up.  
  > 我要坚持自己的梦想，永不放弃。
 
-2. *高义频：* **[电话用语] 别挂断 (hang on)；等一下 (wait)：**  
+2.*高义频：* **[电话用语] 别挂断 (hang on)；等一下 (wait)：**  
  > Can you hold on? I'll see if the manager's in the office.  
  > 先别挂电话行吗？我去看看经理在不在办公室。
 
@@ -2534,28 +2534,28 @@
  > 等一下！这条路不对！
 
 - hold on to / onto
-1. **守住；保住 (不送 / 不卖)：**  
+1.**守住；保住 (不送 / 不卖)：**  
  > We thought of selling this old furniture, but we've decided to hold on to it.  
  > 我们曾考虑过卖掉这件旧家具，但后来又决定不卖了。
 
 - hold out
-1. *高义频：* **伸出 (手 / 胳膊)；递出：**  
+1.*高义频：* **伸出 (手 / 胳膊)；递出：**  
  > hold out one's hand  
  > 伸出手
 
  > hold out keys   
  > 递出钥匙
 
-2. *低义频：* **给予 (希望)；提供 (机会)；使有可能：**  
+2.*低义频：* **给予 (希望)；提供 (机会)；使有可能：**  
  > The new drugs hold out hope of better health and longer life.   
  > 这种新药给人们的健康长寿带来希望。
 
-3. *低义频：* **维持；坚持：**  
+3.*低义频：* **维持；坚持：**  
  > I'd thought I could hold out till my dentist came back from holiday, but the pain was really unbearable.  
  > 我以为我能坚持到牙医度假回来，但是疼痛实在难忍。
 
 - hold the line 
-1. **别挂断；等会儿：**  
+1.**别挂断；等会儿：**  
  > — Can I speak to Amy, please?  
  > 我能与艾米通话吗？
 
@@ -2563,18 +2563,18 @@
  > 请等一会儿。
 
 - hold up
-1. *高义频：* **举起；抬起；支撑：**  
+1.*高义频：* **举起；抬起；支撑：**  
  > hold up one's hand  
  > 举起手
 
  > The roof is held up by wood.  
  > 屋顶由木头支撑着。
 
-2. *低义频：* **支持住；承受住：**  
+2.*低义频：* **支持住；承受住：**  
  > She's held up well under the pressure.  
  > 她承受住了压力。
 
-3. *高义频：* **使停顿；停止下来：**  
+3.*高义频：* **使停顿；停止下来：**  
  > The bus got held up in traffic.  
  > 公共汽车被堵在了路上。
 
@@ -2594,7 +2594,7 @@
 固定搭配
 ---
 - catch / get / take (a) hold of 
-1. **抓住；拿着；握住：**  
+1.**抓住；拿着；握住：**  
  > Take hold of that end to help me move this table.  
  > 抬桌子那头，帮我把它移开。
 
@@ -2602,14 +2602,14 @@
  > 童年的大部分时间我都在阅读我能得到的书籍。
 
 - get hold of sb
-1. **和某人联系；找到某人：**  
+1.**和某人联系；找到某人：**  
  > I have been trying to get hold of you all afternoon.  
  > 我整个下午都在找你。
 
 - get hold of sth
-1. **找到 / 得到所需要的东西；学会 / 理解某事物**  
+1.**找到 / 得到所需要的东西；学会 / 理解某事物**  
 - on hold 
-1. **中断；推迟：**  
+1.**中断；推迟：**  
  > While matters of money won't be settled for weeks, Jane hardly puts her project on hold.  
  > 虽然几周的时间也将无法解决钱的问题，但简不会中断自己的项目。
 
@@ -2688,7 +2688,7 @@
 固定搭配
 ---
 - at home
-1. **在家里；在国内；舒适的；不拘束的：**  
+1.**在家里；在国内；舒适的；不拘束的：**  
  > Make yourself at home.  
  > 请不要拘束。
 
@@ -2794,7 +2794,7 @@
 固定搭配
 ---
 - to be honest
-1. **老实说：**  
+1.**老实说：**  
  > To be honest, I don't think I was helping very much.  
  > 老实说，我认为自己没帮上多少忙。
 
@@ -2822,7 +2822,7 @@
 固定搭配
 ---
 - in all honesty
-1. **说实话；其实：**  
+1.**说实话；其实：**  
  > In all honesty, my university is not as well-known as my "dream" university.  
  > 说实话，我上的那所大学不如我理想中的大学出名。
 
@@ -2885,12 +2885,12 @@
 固定搭配
 ---
 - have the honour of (doing) sth
-1. **有幸做某事：**  
+1.**有幸做某事：**  
  > May I have the honour of this dance?  
  > 可以赏光和我跳这支舞吗？
 
 - in honour of sb / in sb's honour
-1. **为向某人表示敬意；为纪念某人：**  
+1.**为向某人表示敬意；为纪念某人：**  
  > We celebrate Mother's Day in honour of our mothers.  
  > 我们庆祝母亲节是为了向母亲表示敬意。
 
@@ -2919,7 +2919,7 @@
 固定搭配
 ---
 - be / feel honoured to do sth
-1. **做某事感到荣幸：**  
+1.**做某事感到荣幸：**  
  > I was honoured to have been mentioned in his speech.  
  > 很荣幸他在讲话中提到了我。
 
@@ -2992,12 +2992,12 @@
 固定搭配
 ---
 - be beyond hope (of)
-1. **没有 (…的) 希望：**  
+1.**没有 (…的) 希望：**  
  > Some of the houses were beyond hope of repair.  
  > 有些房屋已经没有修复的希望了。
 
 - in the hope of / in hopes that / in the hope that
-1. **怀着…的希望：**  
+1.**怀着…的希望：**  
  > I'm writing the letter in the hope that you can consider these problems and make some improvements.  
  > 我写这封信是希望你们能考虑这些问题并有所改进。
 
@@ -3153,7 +3153,7 @@
 固定搭配
 ---
 - to sb's horror / to the horror of sb
-1. **使某人感到惊恐的是：**  
+1.**使某人感到惊恐的是：**  
  > To my horror, a child fell from the roof.  
  > 令我感到惊恐的是，有个孩子从房顶上掉了下来。
 
@@ -3206,7 +3206,7 @@
 固定搭配
 ---
 - (be) in (the) hospital
-1. **住院：**  
+1.**住院：**  
  > Her husband is in hospital.  
  > 她丈夫在住院。
 
@@ -3323,17 +3323,17 @@
 固定搭配
 ---
 - by the hour
-1. **按小时 / 钟点：**  
+1.**按小时 / 钟点：**  
  > The workers in the factory are paid by the hour.  
  > 这个工厂的工人按小时计酬。
 
 - hour by hour
-1. **时时刻刻地：**  
+1.**时时刻刻地：**  
  > Even if we ignore time, it's still going by, ticking away, second by second, minute by minute, hour by hour.  
  > 即使我们忽略时间，它仍然在流逝，一分一秒，时时刻刻，滴答地走着。
 
 - keep early / late hours
-1. **早睡早起 / 晚睡晚起**  
+1.**早睡早起 / 晚睡晚起**  
 
 # ***house*** n
 英文释义
@@ -3404,7 +3404,7 @@
 固定搭配
 ---
 - be a household name / word
-1. **家喻户晓的名字 / 词**  
+1.**家喻户晓的名字 / 词**  
 
 # ***housewife*** n
 英文释义
@@ -3473,12 +3473,12 @@
 固定搭配
 ---
 - How can / could sb do sth?
-1. **[表示震惊或强烈反感] 某人怎么能做某事呢？**  
+1.**[表示震惊或强烈反感] 某人怎么能做某事呢？**  
  > How can you say such a thing?  
  > 你怎么能说这种话呢？
 
 - How come (...)?
-1. **怎么会 (…的)？**  
+1.**怎么会 (…的)？**  
  > How come David is always so full of energy?  
  > 大卫怎么会一直这么精力充沛？
 
@@ -3489,7 +3489,7 @@
  > 怎么可能？
 
 - how far
-1. **多远：**  
+1.**多远：**  
  > How far did you go?  
  > 你走了多远？
 
@@ -3497,17 +3497,17 @@
  > 邮局离这里多远？
 
 - how long
-1. **[指时间段] 多长；多久：**  
+1.**[指时间段] 多长；多久：**  
  > How long have you been here?  
  > 你来这儿多长时间了？
 
 - how often
-1. **[指频率] 多长时间一次：**  
+1.**[指频率] 多长时间一次：**  
  > How often do you go there? Once or twice a week?  
  > 你多久去那儿一次？每周一次还是两次？
 
 - how soon
-1. **[指将来] 多久：**  
+1.**[指将来] 多久：**  
  > How soon can you be ready?  
  > 你什么时候能准备好？
 
@@ -3653,7 +3653,7 @@
 固定搭配
 ---
 - the humanities
-1. **人文学科 (the arts)**  
+1.**人文学科 (the arts)**  
 
 # ***humble*** adj
 英文释义
@@ -3697,7 +3697,7 @@
 固定搭配
 ---
 - hundreds of
-1. **成百上千；许多：**  
+1.**成百上千；许多：**  
  > Hundreds of people queued up to view modern paintings.  
  > 成百上千的人排队来观赏当代绘画作品。
 
@@ -3725,7 +3725,7 @@
 固定搭配
 ---
 - hunger for / after
-1. *高义频：* **渴望；渴求：**  
+1.*高义频：* **渴望；渴求：**  
  > The whole world hungers for / after peace.  
  > 全世界的人都渴望和平。
 
@@ -3756,7 +3756,7 @@
 固定搭配
 ---
 - go hungry
-1. **挨饿：**  
+1.**挨饿：**  
  > As long as you have an ability you won't go hungry.  
  > 只要有一技之长，你就不会挨饿。
 
@@ -3784,7 +3784,7 @@
 固定搭配
 ---
 - hunt out
-1. **搜寻出：**  
+1.**搜寻出：**  
  > He hunted out an old diary.  
  > 他找出一本旧日记。
 
@@ -3834,7 +3834,7 @@
 固定搭配
 ---
 - in a / one's hurry
-1. **匆忙；急于：**  
+1.**匆忙；急于：**  
  > He was in a hurry to leave.  
  > 他急着要离开。
 
@@ -3842,7 +3842,7 @@
  > 他匆匆忙忙地去赶火车，把书落在了出租车里。
 
 - in no hurry
-1. **不着急：**  
+1.**不着急：**  
  > I don't mind waiting — I'm in no hurry / I'm not in a hurry.  
  > 我可以等，我不着急。
 
@@ -3865,7 +3865,7 @@
 固定搭配
 ---
 - hurry up
-1. **[口语] 快点；(使) 加快：**  
+1.**[口语] 快点；(使) 加快：**  
  > You'll be late if you don't hurry up.  
  > 如果你不快点就要迟到了。
 
@@ -3916,7 +3916,7 @@
 固定搭配
 ---
 - it won’t / doesn’t hurt (sb) to do sth
-1. **(某人) 做某事也无妨：**  
+1.**(某人) 做某事也无妨：**  
  > It wouldn’t hurt you to help with the housework occasionally.  
  > 你不妨偶尔帮忙做下家务。
 

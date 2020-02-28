@@ -140,47 +140,47 @@
 固定搭配
 ---
 - call at 
-1. **拜访（某地）；（火车等）短暂停留**  
+1.**拜访（某地）；（火车等）短暂停留**  
 - call back 
-1. **回电话；再打电话：**  
+1.**回电话；再打电话：**  
  > She wants you to call her back as soon as you are home.  
  > 她要你一到家就给她回电话。
 
 - call for
-1. *高义频：* **需要；要求：**  
+1.*高义频：* **需要；要求：**  
  > Sometimes situations call for us to act strong and brave.  
  > 有时形势要求我们表现得强大、勇敢。
 
-2. *高义频：* **去 (某处) 接人 / 物：**  
+2.*高义频：* **去 (某处) 接人 / 物：**  
  > I’ll call for you at your home.   
  > 我会到你家接你。
 
 - call in
-1. **召来；找来：**  
+1.**召来；找来：**  
  > Your mother is very ill. Call in a doctor at once.   
  > 你妈妈病得很严重，马上找个医生来。
 
 - call it a day
-1. **［非正式用语］结束；到此为止：**  
+1.**［非正式用语］结束；到此为止：**  
  > Let’s call it a day and go and have a bite.  
  > 咱们到此为止，去吃点东西吧。
 
 - call off
-1. **取消 (cancel)；停止进行：**  
+1.**取消 (cancel)；停止进行：**  
  > call off a meeting / one’s appointments   
  > 取消会议/约会
 
 - call on / upon
-1. *高义频：* **拜访 (某人)：**  
+1.*高义频：* **拜访 (某人)：**  
  > I’ll take a walk and then call on some friends.  
  > 我要去散步，然后拜访一些朋友。
 
-2. *低义频：* **号召；要求：**  
+2.*低义频：* **号召；要求：**  
  > The Ministry of Education calls on students to exercise for an hour every day.   
  > 教育部要求学生每天锻炼一个小时。
 
 - call up 
-1. **打电话给；使人想起：**  
+1.**打电话给；使人想起：**  
  > I’ll call you up when I need your help.   
  > 我需要你帮助的时候会给你打电话。
 
@@ -243,7 +243,7 @@
 固定搭配
 ---
 - calm down
-1. **(使) 平静下来； (使) 镇静下来：**  
+1.**(使) 平静下来； (使) 镇静下来：**  
  > I placed the chick in the nest, and it quickly calmed down.  
  > 我把小鸟放到窝里，它很快平静了下来。
 
@@ -302,7 +302,7 @@
 固定搭配
 ---
 - camp out
-1. **露营：**  
+1.**露营：**  
  > He planned to camp out in the wild.  
  > 他计划在野外露营。
 
@@ -358,12 +358,12 @@
 固定搭配
 ---
 - cannot but 
-1. **不得不：**  
+1.**不得不：**  
  > He cannot but walk home because his car broke down on the way.   
  > 他只能步行回家，因为他的车半路抛锚了。
 
 - cannot ... too / over 
-1. **越…越好；再…也不嫌过分：**  
+1.**越…越好；再…也不嫌过分：**  
  > One cannot be too careful in choosing friends.   
  > 择友越谨慎越好。
 
@@ -403,7 +403,7 @@
 固定搭配
 ---
 - cancel out
-1. **抵消**  
+1.**抵消**  
 
 # ***cancer*** n
 英文释义
@@ -652,7 +652,7 @@
 固定搭配
 ---
 - take care
-1. *高义频：* **［单独使用、接不定式或that从句］注意；当心：**  
+1.*高义频：* **［单独使用、接不定式或that从句］注意；当心：**  
  > Take care! You may get lost.  
  > 当心！你会迷路的。
 
@@ -662,12 +662,12 @@
  > Take care that you don’t slip on the icy roads.  
  > 注意不要在结了冰的路上滑倒。
 
-2. *高义频：* **[告别用语] 珍重；保重：**  
+2.*高义频：* **[告别用语] 珍重；保重：**  
  > Bye! Take care!  
  > 再见，多保重！
 
 - take care of
-1. **照顾；照料 (care for / look after)； 处理：**  
+1.**照顾；照料 (care for / look after)； 处理：**  
  > It has been my duty to help my mom take care of my little brothers and sisters.   
  > 帮妈妈照顾弟弟妹妹已经成了我的职责。
 
@@ -719,17 +719,17 @@
 固定搭配
 ---
 - care for
-1. *高义频：* **照看；照顾**  
+1.*高义频：* **照看；照顾**  
  > My dear father, you brought me into this world, you cared for me and loved me.  
  > 亲爱的父亲，您把我带到了这个世界上，照顾我，疼爱我。
 
-2. *低义频：* **非常喜欢：**  
+2.*低义频：* **非常喜欢：**  
  > **doesn’t,care for**  
  > I think George doesn’t really care for TV plays.  
  > 我以为乔治不怎么喜欢电视剧。
 
 - Would you care for sth?
-1. **［口语］［正式用语］您想要某物吗？**  
+1.**［口语］［正式用语］您想要某物吗？**  
 
 # ***career*** n
 英文释义
@@ -774,7 +774,7 @@
 固定搭配
 ---
 - careful with money
-1. **花钱精打细算；不乱花钱**  
+1.**花钱精打细算；不乱花钱**  
 
 # ***careless*** adj
 英文释义
@@ -884,12 +884,12 @@
 固定搭配
 ---
 - be / get carried away
-1. **变得很激动；失去自制力：**  
+1.**变得很激动；失去自制力：**  
  > He tends to get carried away when watching table tennis on TV.  
  > 他一看电视中的乒乓球比赛就很容易兴奋。
 
 - carry on (with)
-1. **继续进行；开展：**  
+1.**继续进行；开展：**  
  > **carry on,conversation**  
  > We’ll carry on our conversation tomorrow.  
  > 我们明天接着谈。
@@ -904,7 +904,7 @@
  > 我想继续我的课程。
 
 - carry out 
-1. **实行；执行：**  
+1.**实行；执行：**  
  > I had some difficulty in carrying out the plan.   
  > 实施这个计划我有些困难。
 
@@ -912,9 +912,9 @@
  > 他们只是按命令行事。
 
 - carry over
-1. **（情况变化时）继续下去**  
+1.**（情况变化时）继续下去**  
 - carry through 
-1. **帮…渡过 (难关等)；完成；持续：**  
+1.**帮…渡过 (难关等)；完成；持续：**  
  > His courage will carry him through.   
  > 他的勇气会帮他渡过难关。
 
@@ -1003,7 +1003,7 @@
 
 2.*高义频：* **情况**  
 - in any case
-1. **在任何情况下；不管怎样：**  
+1.**在任何情况下；不管怎样：**  
  > I am ready to help in any case.  
  > 在任何情况下我都乐意帮忙。
 
@@ -1011,26 +1011,26 @@
  > 我不明白为什么我不能做这件事。不管怎样，我要试一试。
 
 - in case of
-1.  > In case of emergency, please call the Help Desk at 926-3736.  
+1. > In case of emergency, please call the Help Desk at 926-3736.  
  > 如遇紧急情况，请拨打救助台的电话926-3736。
 
 - in … case(s)
-1. **在…情况下：**  
+1.**在…情况下：**  
  > These ideas can be true in certain cases, but very wrong in others.  
  > 在某种情况下这些说法是正确的，但是在其他情况下就是非常错误的。
 
 - in no case
-1. **在任何情况下都不；决不：**  
+1.**在任何情况下都不；决不：**  
  > In no case should you leave your post.  
  > 在任何情况下你都不应离开岗位。
 
 - in this case
-1. **在这种情况下：**  
+1.**在这种情况下：**  
  > You may think of giving up study. In this case, just think it over before making the decision.  
  > 你可能会想要放弃学习。在这种情况下，你要认真思考一下再作决定。
 
 - in that case
-1. **既然如此；那样的话：**  
+1.**既然如此；那样的话：**  
  > —He didn’t want to talk to Sally.  
  > 他不想和萨利说话。
 
@@ -1038,23 +1038,23 @@
  > 既然那样，为什么他还同意和她见面？
 
 - in sb’s case
-1. **就某人的情况来说：**  
+1.**就某人的情况来说：**  
  > They say God rewards those who work hard and in my case it was ture.  
  > 他们说天道酬勤，就我的个人情况而言确实如此。
 
 - in the case of
-1.  > The amount of fruit in fruit juices must be 6% in the case of oranges.  
+1. > The amount of fruit in fruit juices must be 6% in the case of oranges.  
  > 就橙子而言，果汁中的水果含量应占6%
 
 - (just) in case
-1.  > I took my driving license with me on holiday, in case I wanted to hire a car.  
+1. > I took my driving license with me on holiday, in case I wanted to hire a car.  
  > 度假时我随身带了驾照，以防我想要租车。
 
  > I guess we’ve already talked about this but I’ll ask you again just in case.  
  > 我记得我们已经讨论过这个了，但是我再问问你，以防万一。
 
 - the case
-1. **事实；实情：**  
+1.**事实；实情：**  
  > There is no simple answer, as is often the case in science.  
  > 没有简单的答案，这是科学中常有的事。
 
@@ -1124,7 +1124,7 @@
 固定搭配
 ---
 - (be) cast down
-1. **沮丧的：**  
+1.**沮丧的：**  
 
 # ***cast*** n
 英文释义
@@ -1286,7 +1286,7 @@
 固定搭配
 ---
 - catch on
-1. **流行；［非正式用语］了解；理解：**  
+1.**流行；［非正式用语］了解；理解：**  
  > It is a nice song and I think it will catch on quickly.  
  > 这首歌很好，我想它很快就会流行起来。
 
@@ -1294,14 +1294,14 @@
  > 那位女士重复了几遍她的问题，但我仍没有理解。
 
 - catch sb’s eye
-1. **引起某人注意：**  
+1.**引起某人注意：**  
  > When I opened the door, a parcel on the floor caught my eye.  
  > 我打开门，地上的一个包裹引起了我的注意。
 
 - catch up on
-1. **了解**  
+1.**了解**  
 - catch up (with) 
-1. **赶上；追上：**  
+1.**赶上；追上：**  
  > If you miss a lot of classes, it’s difficult to catch up.  
  > 如果你缺了很多课，就很难赶上。
 
@@ -1726,7 +1726,7 @@
 固定搭配
 ---
 - for certain
-1. **确定；无疑**  
+1.**确定；无疑**  
 
 # ***certain*** pron
 英文释义
@@ -1989,17 +1989,17 @@
 固定搭配
 ---
 - by chance
-1. **碰巧；意外地：**  
+1.**碰巧；意外地：**  
  > If, by chance, he won, he would spend the prize money on a computer.   
  > 如果他意外获奖，他会用奖金买一台电脑。
 
 - stand / have a chance (of doing sth)
-1. **有可能 （做某事）成功：**  
+1.**有可能 （做某事）成功：**  
  > I think you stand a chance of winning first place.  
  > 我觉得你有可能拿第一名。
 
 - take chances / a chance
-1. **冒险一试；碰运气：**  
+1.**冒险一试；碰运气：**  
  > She taught me to take chances and not be afraid.   
  > 她教导我要敢于冒险一试，不要害怕。
 
@@ -2007,7 +2007,7 @@
  > 我虽没有把握打败他，但还是要碰碰运气。
 
 - the chances are (that)
-1. **很可能：**  
+1.**很可能：**  
  > If you invite her, the chances are she'll say no.  
  > 如果你邀请她，很可能她会拒绝。
 
@@ -2044,7 +2044,7 @@
 固定搭配
 ---
 - a change for the better / worse 
-1. **好转 / 变坏：**  
+1.**好转 / 变坏：**  
  > There was a change for the better in the patient’s condition.   
  > 病人的情况有所好转。
 
@@ -2570,19 +2570,19 @@
 固定搭配
 ---
 - check in
-1. **(在旅馆、机场等) 登记；报到：**  
+1.**(在旅馆、机场等) 登记；报到：**  
  > Brian needed to meet a man named Tony before he checked in for his flight.  
  > 布莱恩在办理登机手续前需要见一个叫托尼的人。
 
 - check into
-1. **登记入住（旅馆或私立医院）**  
+1.**登记入住（旅馆或私立医院）**  
 - check on
-1. **核实；检查：**  
+1.**核实；检查：**  
  > We’ll check on the plane before it leaves.  
  > 飞机起飞前我们要进行检查。
 
 - check out
-1. **结账离开；核实：**  
+1.**结账离开；核实：**  
  > Would you check out these names and numbers, please?  
  > 请核实一下这些名字和号码好吗？
 
@@ -2590,9 +2590,9 @@
  > 这是你的房间钥匙，你应该在12点结账离开。
 
 - check up on sb
-1. **督促某人**  
+1.**督促某人**  
 - check up on sth
-1. **核实某事**  
+1.**核实某事**  
 
 # ***check*** n  重难点词汇
 英文释义
@@ -2653,12 +2653,12 @@
 固定搭配
 ---
 - cheer on
-1. **以喝彩声鼓励；为……加油：**  
+1.**以喝彩声鼓励；为……加油：**  
  > My father never fails to cheer me on at my sports games.  
  > 父亲总是在我参加体育比赛时为我加油。
 
 - cheer up
-1. **(使) 振作起来；(使) 高兴起来：**  
+1.**(使) 振作起来；(使) 高兴起来：**  
  > She tried to cheer him up.  
  > 她努力让他高兴起来。
 
@@ -2913,12 +2913,12 @@
 固定搭配
 ---
 - have no choice (but to do sth)
-1. **别无选择 (只好做某事)：**  
+1.**别无选择 (只好做某事)：**  
  > At that time the taxi driver had no choice but to turn to the tourist for help.  
  > 当时，那位出租车司机别无选择，只能求助于游客。
 
 - of choice for
-1. **[用于名词后] (为…) 首选的…：**  
+1.**[用于名词后] (为…) 首选的…：**  
  > It is the drug of choice for this type of illness.  
  > 这是治疗这种病的首选药。
 
@@ -2946,12 +2946,12 @@
 固定搭配
 ---
 - choke back
-1. **强忍住；抑制**  
+1.**强忍住；抑制**  
  > Their story was so sad that I had to choke back sobs.  
  > 他们的故事是那么悲伤，我强忍住不抽泣。
 
 - choke off
-1. **阻塞**  
+1.**阻塞**  
  > Unfortunately, the increased number of vehicles on the road choked off traffic.  
  > 不幸的是，马路上增加的车辆把道路堵得水泄不通。
 
@@ -3000,7 +3000,7 @@
 固定搭配
 ---
 - cannot choose but (do)
-1. **不得不；只好：**  
+1.**不得不；只好：**  
  > He cannot choose but attend the party.  
  > 他只好去参加这次聚会。
 
@@ -3013,7 +3013,7 @@
 固定搭配
 ---
 - chop down 
-1. **砍倒；伐倒 (树木)**  
+1.**砍倒；伐倒 (树木)**  
 
 # ***chopstick*** n
 英文释义
@@ -3039,7 +3039,7 @@
 固定搭配
 ---
 - in chorus
-1. **一齐；一致；共同：**  
+1.**一齐；一致；共同：**  
  > “Thank you,” they said in chorus.  
  > “谢谢。”他们齐声说道。
 
@@ -3125,7 +3125,7 @@
  > 大家围坐成一圈，唱歌和弹奏音乐。
 
 - come / go full circle 
-1. **兜一圈回到原处：**  
+1.**兜一圈回到原处：**  
  > Sooner or later, fashion comes full circle.  
  > 时尚兜一个圈子回到原处是迟早的事。
 
@@ -3182,7 +3182,7 @@
 固定搭配
 ---
 - in / under ... circumstances
-1. **在…情况下：**  
+1.**在…情况下：**  
  > Under the circumstances, it seems better not to tell him about the accident.  
  > 在这种情况下，不告诉他有关这次事故的情况似乎更好。
 
@@ -3190,7 +3190,7 @@
  > 这是一个实验模型，因此在任何情况下都不要碰它。
 
 - in / under no circumstances
-1. **决不；无论如何不：**  
+1.**决不；无论如何不：**  
  > Under no circumstances should you lend Paul any money.  
  > 在任何情况下，你都不能借钱给保罗。
 
@@ -3528,12 +3528,12 @@
 固定搭配
 ---
 - clean out
-1. **把…打扫干净：**  
+1.**把…打扫干净：**  
  > We’d better clean out the room this week.  
  > 我们这周最好把房间打扫干净。
 
 - clean up
-1. **(把…) 打扫干净；(使) 梳洗整齐；使净化：**  
+1.**(把…) 打扫干净；(使) 梳洗整齐；使净化：**  
  > You may use the room as you like so long as you clean it up afterwards.   
  > 你喜欢的话可以使用这个房间，只是要在用完后打扫干净。
 
@@ -3601,29 +3601,29 @@
 固定搭配
 ---
 - clear away
-1. **把…清除掉：**  
+1.**把…清除掉：**  
  > clear away the bush near houses  
  > 清除房子附近的灌木
 
 - clear off
-1. **离开；逃跑：**  
+1.**离开；逃跑：**  
  > He suddenly cleared off when a nurse asked who he was.  
  > 当护士询问他是谁时，他突然离开了。
 
 - clear one’s throat
-1. **清清嗓子**  
+1.**清清嗓子**  
 - clear out
-1. **把…清空：**  
+1.**把…清空：**  
  > clear the room out  
  > 把房间腾空
 
 - clear the air
-1. **缓解紧张状态：**  
+1.**缓解紧张状态：**  
  > Our conversation was filled with arguments; and efforts to clear the air seemed to deepen our misunderstanding.  
  > 我们的谈话充满了争论；为缓解紧张气氛所作出的努力似乎都在加深误会。
 
 - clear up
-1. **(天气) 转晴；清理；解决：**  
+1.**(天气) 转晴；清理；解决：**  
  > clear the room up  
  > 清理房间
 
@@ -3708,7 +3708,7 @@
 固定搭配
 ---
 - be clever at
-1. **擅长：**  
+1.**擅长：**  
  > The Germans were very clever at inventing things.  
  > 德国人非常善于发明东西。
 
@@ -3881,7 +3881,7 @@
 固定搭配
 ---
 - close down
-1. **关闭；停业：**  
+1.**关闭；停业：**  
  > If I had stayed in this business just for the money, I would have closed down years ago.  
  > 从事这个行业如果只是为了钱，那么多年前我就不干了。
 
@@ -3901,12 +3901,12 @@
 固定搭配
 ---
 - bring … to a close 
-1. **结束：**  
+1.**结束：**  
  > They tried hard to bring the war to a close.   
  > 他们竭力结束这场战争。
 
 - come / draw to a close 
-1. **渐近结束：**  
+1.**渐近结束：**  
  > Most of the volunteers breathe a sigh of relif when the season comes to a close.  
  > 当这一赛季结束时，大多数的志愿者松了一口气。
 
@@ -4151,12 +4151,12 @@
 固定搭配
 ---
 - on the coast
-1. **在海岸上：**  
+1.**在海岸上：**  
  > Barcelona is a city on the coast of Spain.  
  > 巴塞罗那是一座西班牙的海滨城市。
 
 - off the coast
-1. **在沿岸的海面上：**  
+1.**在沿岸的海面上：**  
  > There are many islands off the coast.  
  > 沿海有许多岛屿。
 
@@ -4293,7 +4293,7 @@
 固定搭配
 ---
 - by coincidence
-1. **碰巧；由于巧合：**  
+1.**碰巧；由于巧合：**  
  > By coincidence a bus arrived as we reached the empty bus stop.  
  > 碰巧的是，当我们到达空荡荡的公交车站时，一辆公交车过来了。
 
@@ -4405,7 +4405,7 @@
 固定搭配
 ---
 - collect one’s thoughts
-1. **使自己镇定 / 集中思想：**  
+1.**使自己镇定 / 集中思想：**  
  > I collected my thoughts, took a deep breath, and entered the interview room.  
  > 我镇定了一下，深吸一口气，走进面试的房间。
 
@@ -4706,7 +4706,7 @@
 固定搭配
 ---
 - come about
-1. **(尤指未经计划地) 发生；产生：**  
+1.**(尤指未经计划地) 发生；产生：**  
  > Please tell me how the accident came about.  
  > 请告诉我事故是怎么发生的。
 
@@ -4714,20 +4714,20 @@
  > 大雨引发了洪水。
 
 - come across
-1. *高义频：* **偶然遇到；碰见 (meet)：**  
+1.*高义频：* **偶然遇到；碰见 (meet)：**  
  > When reading articles related to science, we often come across difficult or unfamiliar words.  
  > 读与科学相关的文章时，我们常常碰到难词或生词。
 
-2. *低义频：* **被理解：**  
+2.*低义频：* **被理解：**  
  > He spoke for a long time, but his meaning did not come across.  
  > 他讲了很久，但还是没有把意思讲明白。
 
-3. *高义频：* **给人以…印象 (come over)**  
+3.*高义频：* **给人以…印象 (come over)**  
  > He came across as a sympathetic person.  
  > 他给人的印象是一个富有同情心的人。
 
 - come along
-1. **一起来；出现；（非正式用语）进展：**  
+1.**一起来；出现；（非正式用语）进展：**  
  > Are you sure you really want all our friends to come along?  
  > 你确定你真想让我们的朋友都一起来吗？
 
@@ -4738,27 +4738,27 @@
  > 手术后病人的状况良好。
 
 - come and go
-1. **来来去去；时有时无**  
+1.**来来去去；时有时无**  
 - come around / round
-1. *高义频：* **拜访；探访 (come over)：**  
+1.*高义频：* **拜访；探访 (come over)：**  
  > Come around when you have time.  
  > 有空时过来玩吧。
 
-2. *高义频：* **发生；降临：**  
+2.*高义频：* **发生；降临：**  
  > With the summer vacation coming around, some students begin to make plans for it.  
  > 随着暑假的到来，一些学生开始为之做打算。
 
-3. *低义频：* **改变观点：**  
+3.*低义频：* **改变观点：**  
  > It took him a while to come around to the idea.  
  > 他过了一会才改变观点，接受这个主意。
 
 - come back 
-1. **回来 (return)；再度流行：**  
+1.**回来 (return)；再度流行：**  
  > Long skirts have been out of fashion for a long time, but they are coming back.   
  > 长裙已经过时很长时间，但又要流行起来。
 
 - come by 
-1. **顺路看望；获得 (稀有或很难得到的事物)：**  
+1.**顺路看望；获得 (稀有或很难得到的事物)：**  
  > She said she’d come by later.   
  > 她说晚些时候再过来。
 
@@ -4766,7 +4766,7 @@
  > 如今找工作很难。
 
 - come down
-1. **下来；下降；倒塌：**  
+1.**下来；下降；倒塌：**  
  > House prices are coming down soon.   
  > 房价很快就要降了。
 
@@ -4774,7 +4774,7 @@
  > 那座老楼房在一个雨天的早晨倒塌了。
 
 - come down to
-1. **归结为；传到…手里：**  
+1.**归结为；传到…手里：**  
  > Their quarrel comes down to money.   
  > 他们吵架说到底是因为钱。
 
@@ -4782,12 +4782,12 @@
  > 这个习俗是从祖辈传下来的。
 
 - come from 
-1. **出生于；来自；产自；源自于：**  
+1.**出生于；来自；产自；源自于：**  
  > My success came from good planning and better doing combined.  
  > 我的成功源自良好的计划和更好的行动相结合。
 
 - come in 
-1. **到达；被收到；取得 (名次)：**  
+1.**到达；被收到；取得 (名次)：**  
  > What time does your train come in?   
  > 你的那趟火车什么时候到达？
 
@@ -4795,23 +4795,23 @@
  > 他的马跑了第二名。
 
 - come off
-1. *高义频：* **(从…) 离开：**  
+1.*高义频：* **(从…) 离开：**  
  > come off work  
  > 下班
 
  > People coming off a busy spring and summer have a moment of relaxation.  
  > 人们度过了繁忙的春夏，有了片刻的清闲。
 
-2. *高义频：* **脱落；掉下：**  
+2.*高义频：* **脱落；掉下：**  
  > A wheel had come off.  
  > 车轮脱落了。
 
-3. *低义频：* **结果是；成为：**  
+3.*低义频：* **结果是；成为：**  
  > If you check your e-mail while on the phone with a friend, you may come off as absent-minded.  
  > 如果在跟朋友通电话时查看电子邮件，你可能会显得心不在焉。
 
 - come on
-1. **快点；进展；算了吧：**  
+1.**快点；进展；算了吧：**  
  > Come on! We don’t have much time.  
  > 快点！我们时间不多了。
 
@@ -4822,7 +4822,7 @@
  > 哦，得了吧——你知道那不是真的！
 
 - come out
-1. *高义频：* **出来：**  
+1.*高义频：* **出来：**  
  > The rain stopped and the sun came out.  
  > 雨停了，太阳出来了。
 
@@ -4830,11 +4830,11 @@
  > The neighbors came out of their houses to see if we had a gas leak.  
  > 邻居们走出家门看我们家是否发生了煤气泄漏。
 
-2. *高义频：* **出版；发行；面市：**  
+2.*高义频：* **出版；发行；面市：**  
  > My first novel came out while I was at college.  
  > 我在上大学时出版了我的第一部小说。
 
-3. *高义频：* **显现；结果是；（照片）清楚地冲洗出来：**  
+3.*高义频：* **显现；结果是；（照片）清楚地冲洗出来：**  
  > Let me know how the voting comes out.  
  > 告诉我投票结果。
 
@@ -4843,11 +4843,11 @@
  > 真相是一些政府官员收了那家公司的钱。
 
 - come over
-1. *低义频：* **来访；拜访 (come around)：**  
+1.*低义频：* **来访；拜访 (come around)：**  
  > My aunt came over for a visit yesterday.  
  > 昨天我姑姑来访。
 
-2. *低义频：* **(使) 某人突然感觉到：**  
+2.*低义频：* **(使) 某人突然感觉到：**  
  > I came over all shy whenever I saw her.  
  > 无论何时见到她我都很害羞。
 
@@ -4855,12 +4855,12 @@
  > 他突然犯困了。
 
 - come to sb 
-1. **被某人想到：**  
+1.**被某人想到：**  
  > The answer came to me in a flash.   
  > 我突然想到了答案。
 
 - come up
-1. *高义频：* **上来；上升 (rise)：**  
+1.*高义频：* **上来；上升 (rise)：**  
  > Come up! I’m upstairs!  
  > 上来！我在楼上！
 
@@ -4870,16 +4870,16 @@
  > I planted some lily seeds in the yard. But they failed to come up.  
  > 我在院子里种了些百合花种子，但它们没有发芽。
 
-2. *高义频：* **走近；靠近：**  
+2.*高义频：* **走近；靠近：**  
  > **came up to**  
  > He came up to me and asked me the way to the station.  
  > 他走近我，问我去车站的路怎么走。
 
-3. *高义频：* **被提出；被提及 (arise)：**  
+3.*高义频：* **被提出；被提及 (arise)：**  
  > The “air pollution” topic comes up every year.  
  > 空气污染这个话题每年都会被提及。
 
-4. *高义频：* **发生；即将到来：**  
+4.*高义频：* **发生；即将到来：**  
  > I’m afraid I can’t go — something’s come up.  
  > 恐怕我不能去了——出了点事情。
 
@@ -4887,7 +4887,7 @@
  > 丹尼，我听说你的生日快到了。
 
 - come up with
-1. **想出；提出；提供：**  
+1.**想出；提出；提供：**  
  > Our class came up with the idea to make better use of used materials.  
  > 我们班的同学提出了这一想法，以更好利用废旧材料。
 
@@ -4895,12 +4895,12 @@
  > 他们想买房，但是拿不出这笔现金。
 
 - to come 
-1. **将来；未来：**  
+1.**将来；未来：**  
  > When you sleep, your body prepares you for the day to come.  
  > 在睡眠时，你的身体在为迎接新的一天做着准备。
 
 - when it comes to (doing) sth
-1. **在某方面；说到 (做) 某事：**  
+1.**在某方面；说到 (做) 某事：**  
  > Both groups scored similarly when it came to memorizing facts.   
  > 在记忆事实方面两组得分差不多。
 
@@ -5219,7 +5219,7 @@
 固定搭配
 ---
 - have ... in common (with)
-1. **(与…) 有…共同之处：**  
+1.**(与…) 有…共同之处：**  
  > We have a lot in common and have a lot to talk about.  
  > 我们有许多共同点，因此有很多话题可聊。
 
@@ -5227,7 +5227,7 @@
  > 我和简毫无共同之处。
 
 - in common with
-1. **与…一样：**  
+1.**与…一样：**  
  > In common with other students, Tom is seldom late for school.   
  > 和其他学生一样，汤姆很少上学迟到。
 
@@ -5383,19 +5383,19 @@
 固定搭配
 ---
 - for company
-1. **作伴；陪伴：**  
+1.**作伴；陪伴：**  
  > There was almost no wind — only the flames of our fire for company.  
  > 几乎没有风，只有篝火的火焰与我们作伴。
 
 - in company with 
-1. **与…一起：**  
+1.**与…一起：**  
  > My friend Bill is coming to see me in company with his new friend.   
  > 我的朋友比尔将和他的新朋友一道来看我。
 
 - keep company (with) 
-1. **(和…) 经常交往**  
+1.**(和…) 经常交往**  
 - keep sb company 
-1. **陪伴某人：**  
+1.**陪伴某人：**  
  > I’ve promised to keep my sister company when her husband is away.   
  > 我答应妹妹在她丈夫不在的时候陪伴她。
 
@@ -5468,7 +5468,7 @@
 固定搭配
 ---
 - compare notes (with sb)
-1. **(与某人) 交换意见：**  
+1.**(与某人) 交换意见：**  
  > I intended to compare notes with my friends on current affairs.  
  > 我想跟朋友们就时事交换意见。
 
@@ -5811,7 +5811,7 @@
 固定搭配
 ---
 - be composed of
-1. **由…组成 / 构成：**  
+1.**由…组成 / 构成：**  
  > What is water composed of ?   
  > 水是由什么构成的？
 
@@ -5944,7 +5944,7 @@
  > 当我们一晚上没睡觉时，就会发现第二天很难集中精力学习新的知识。
 
 - concentrate (sth) on (doing) sth:
-1. **专心于；全神贯注于：**  
+1.**专心于；全神贯注于：**  
  > We must concentrate our efforts on improving education.  
  > 我们必须集中精力改进教育工作。
 
@@ -6010,7 +6010,7 @@
 固定搭配
 ---
 - concern oneself with
-1. **[正式用语] 关心；担心：**  
+1.**[正式用语] 关心；担心：**  
  > A good doctor should always concern himself with his patients.   
  > 好医生应当时时刻刻关心他的病人。
 
@@ -6072,7 +6072,7 @@
 固定搭配
 ---
 - as far as … be concerned
-1. **就…而言；关于：**  
+1.**就…而言；关于：**  
  > As far as I’m concerned, riding bicycles is a good solution to air pollution.  
  > 就我个人而言，骑自行车是一个解决空气污染的好办法。
 
@@ -6163,7 +6163,7 @@
 固定搭配
 ---
 - arrive at / come to / draw / reach a conclusion
-1. **得出结论：**  
+1.**得出结论：**  
  > They came to a conclusion that it was a thief who had stolen their diamond necklace.   
  > 他们断定是小偷偷走了他们的钻石项链。
 
@@ -6171,7 +6171,7 @@
  > 在得出最终结论之前，我们还需要作进一步的讨论。
 
 - in conclusion
-1. **[正式用语] 最后；总之(finally)：**  
+1.**[正式用语] 最后；总之(finally)：**  
  > In conclusion, I would like to thank everyone who has helped us.     
  > 最后，我要感谢所有帮助过我们的人。
 
@@ -6288,12 +6288,12 @@
 固定搭配
 ---
 - on / under no condition
-1. **绝不：**  
+1.**绝不：**  
  > You must on no condition tell them what happened.  
  > 你绝不能告诉他们发生了什么事。
 
 - on (the) condition that
-1. **在…条件下；倘若：**  
+1.**在…条件下；倘若：**  
  > They agreed to lend us the car on condition that we returned it before the weekend.   
  > 他们同意把车借给我们，条件是我们必须在周末前归还。
 
@@ -6716,7 +6716,7 @@
 固定搭配
 ---
 - in connection with 
-1. **关于；与…有关：**  
+1.**关于；与…有关：**  
  > I’m writing to you in connection with your job application.   
  > 我写此信是想谈一谈你找工作的事。
 
@@ -6841,7 +6841,7 @@
 固定搭配
 ---
 - as a consequence / in consequence
-1. **[正式用语] 结果；因此**  
+1.**[正式用语] 结果；因此**  
  > It rained yesterday and as a consequence the match was canceled.  
  > 昨天的比赛因下雨而被取消。
 
@@ -6849,7 +6849,7 @@
  > 她超龄了，结果她的申请被拒绝了。
 
 - as a consequence of sth / in consequence of sth
-1. **[正式用语] 由于…的缘故 as a result of sth：**  
+1.**[正式用语] 由于…的缘故 as a result of sth：**  
  > My father coughs frequently as a consequence of / in consequence of smoking.  
  > 因为吸烟，我父亲经常咳嗽。
 
@@ -6960,7 +6960,7 @@
 固定搭配
 ---
 - all things considered
-1. **考虑到所有情况；综合考虑起来：**  
+1.**考虑到所有情况；综合考虑起来：**  
  > All things considered, the planned trip will have to be called off.  
  > 考虑到所有情况，计划好的旅行不得不取消了。
 
@@ -7017,12 +7017,12 @@
 固定搭配
 ---
 - in consideration of / for
-1. **考虑到；由于：**  
+1.**考虑到；由于：**  
  > Mobile phones must be switched off inside the castle in consideration of other visitors.  
  > 考虑到其他游客，在城堡内要关闭手机。
 
 - take sth into consideration
-1. **考虑到某事；顾及某事：**  
+1.**考虑到某事；顾及某事：**  
  > We will take your recent illness into consideration when marking your exams.  
  > 在给你的考卷打分时，我们会考虑到你近期生病的因素。
 
@@ -7034,7 +7034,7 @@
 固定搭配
 ---
 - consist in
-1. *高义频：* **在于；存在于：**  
+1.*高义频：* **在于；存在于：**  
  > Happiness consists in contentment.  
  > 知足常乐。
 
@@ -7042,7 +7042,7 @@
  > 成功在于百折不挠。
 
 - consist of
-1. **由…构成；由…组成：**  
+1.**由…构成；由…组成：**  
  > How many countries does the UK consist of?  
  > 大不列颠联合王国由多少个国家组成？
 
@@ -7064,7 +7064,7 @@
 固定搭配
 ---
 - be consistent with sth
-1. **与某物相一致；与某物相吻合：**  
+1.**与某物相一致；与某物相吻合：**  
  > The pattern of injuries is consistent with an attack with a knife.  
  > 这些伤口的类型与刀伤吻合。
 
@@ -7135,7 +7135,7 @@
 固定搭配
 ---
 - under construction
-1. **在建设中：**  
+1.**在建设中：**  
  > There are four underground lines in the city, and several lines are under construction.   
  > 这座城市现有4条地铁线路，还有几条正在建设中。
 
@@ -7328,7 +7328,7 @@
 固定搭配
 ---
 - (be) content (for sb) to do sth
-1. **乐得（让某人）做 某事；满足于（让某人）做某事 (willing to do sth):**  
+1.**乐得（让某人）做 某事；满足于（让某人）做某事 (willing to do sth):**  
  > She is content to live quietly by herself.  
  > 她愿意独自安静地生活。
 
@@ -7404,7 +7404,7 @@
 固定搭配
 ---
 - to be continued 
-1. **未完待续**  
+1.**未完待续**  
 
 # ***continuous*** adj
 英文释义
@@ -7471,12 +7471,12 @@
 固定搭配
 ---
 - on the contrary
-1. **正相反；恰恰相反：**  
+1.**正相反；恰恰相反：**  
  > He thought his marketing plan was perfect, but on the contrary, it was not and it failed.  
  > 他以为自己的营销计划完美无缺，而事实恰恰相反，这个计划不仅不完美，还徒劳无功。
 
 - to the contrary
-1. **相反的；相反地：**  
+1.**相反的；相反地：**  
  > Unless I hear anything to the contrary, I shall assume the meeting will be held on time.  
  > 除非有人反对，否则我会认为会议将准时召开。
 
@@ -7525,17 +7525,17 @@
 固定搭配
 ---
 - by / in contrast
-1. **相比之下：**  
+1.**相比之下：**  
  > By contrast, Mrs Young was much more outspoken.  
  > 相比之下，杨夫人坦率多了。
 
 - in contrast with / to
-1. **与…对比；与…相反：**  
+1.**与…对比；与…相反：**  
  > In contrast to his wife, Bush has little appetite for foreign travel.  
  > 与他的妻子不同，布什对出国旅游没什么兴趣。
 
 - make a contrast with
-1. **与…形成对比：**  
+1.**与…形成对比：**  
  > The white walls make a contrast with the black carpet.  
  > 白色的墙壁与黑色的地毯形成了鲜明的对比。
 
@@ -7621,43 +7621,43 @@
 固定搭配
 ---
 - beyond sb’s control
-1. **某人无法掌握 / 无法控制：**  
+1.**某人无法掌握 / 无法控制：**  
  > There was nothing we could do about it — the situation was beyond our control.  
  > 形势已经无法控制，我们束手无策。
 
 - have control (of / over)
-1. **(对…) 有控制权 / 有控制能力：**  
+1.**(对…) 有控制权 / 有控制能力：**  
  > She’s a good teacher who has control of her class.  
  > 她是个优秀的教师，能够有效地管理课堂。
 
 - in control of
-1. **控制；支配；管理：**  
+1.**控制；支配；管理：**  
  > Who’s in control of that house?  
  > 那栋房子归谁管？
 
 - lose control (of / over)
-1. **(对…) 失去控制；无法控制 (住…)：**  
+1.**(对…) 失去控制；无法控制 (住…)：**  
  > She lost total control of the car.  
  > 她完全失去了对车的控制。
 
 - out of control
-1. **不受控制；失去控制：**  
+1.**不受控制；失去控制：**  
  > Everyone was too afraid to go in because the fire was out of control.  
  > 火势已经失去了控制，大家都不敢进去。
 
 - take / gain / get control (of / over)
-1. **控制；支配；管理：**  
+1.**控制；支配；管理：**  
  > She realized she should take control of her illness, not let it control her.  
  > 她意识到自己应该控制疾病，而不是受疾病的控制。
 
 - under control
-1. **受支配；受控制：**  
+1.**受支配；受控制：**  
  > **bring / get / keep**  
  > She used diet and exercise to bring / get / keep her weight under control.  
  > 她通过节食和锻炼来控制体重。
 
 - under the control of
-1. **受…的控制 / 管理 / 支配：**  
+1.**受…的控制 / 管理 / 支配：**  
  > All schools are under the control of the Ministry of Education.  
  > 所有的学校都归教育部管辖。
 
@@ -7721,12 +7721,12 @@
 固定搭配
 ---
 - at sb’s convenience
-1. **[正式用语] 在某人方便时：**  
+1.**[正式用语] 在某人方便时：**  
  > Please come at your convenience.  
  > 请在你方便的时候过来。
 
 - at your earliest convenience
-1. **尽早；尽快**  
+1.**尽早；尽快**  
  > We would appreciate it if you could reply at your earliest convenience.  
  > 如果您能尽早回复，我们将不胜感激。
 
@@ -7946,11 +7946,11 @@
 固定搭配
 ---
 - cool down / off
-1. *高义频：* **(使) 变凉；(使) 冷却：**  
+1.*高义频：* **(使) 变凉；(使) 冷却：**  
  > The temperature will cool off in the early evening.  
  > 入夜时，气温会变低。
 
-2. *高义频：* **(使) 冷静；(使) 平静：**  
+2.*高义频：* **(使) 冷静；(使) 平静：**  
  > Her enthusiasm never cooled down.   
  > 她的热忱从未消退。
 
@@ -8022,9 +8022,9 @@
 固定搭配
 ---
 - hard copy 
-1. **硬副本 (指从计算机里打印出来的资料)**  
+1.**硬副本 (指从计算机里打印出来的资料)**  
 - soft copy 
-1. **软副本 (指存在计算机里或显示在屏幕上的资料)**  
+1.**软副本 (指存在计算机里或显示在屏幕上的资料)**  
 
 # ***copyright*** n
 英文释义
@@ -8089,7 +8089,7 @@
 固定搭配
 ---
 - (just) around / round the corner
-1. **在附近；即将来临：**  
+1.**在附近；即将来临：**  
  > He lives just round the corner.  
  > 他就住在附近。
 
@@ -8248,12 +8248,12 @@
 固定搭配
 ---
 - at all costs / at any cost
-1. **不惜任何代价：**  
+1.**不惜任何代价：**  
  > I decided to try at all costs to rid my students of their fear and dislike of books.   
  > 我决定不惜一切代价尽力使学生们摆脱对书籍的恐惧和反感。
 
 - at the cost of
-1. **以…为代价：**  
+1.**以…为代价：**  
  > He succeeded at the cost of his health.  
  > 他获得了成功，但损害了身体。
 
@@ -8439,12 +8439,12 @@
 固定搭配
 ---
 - count on / upon
-1. **依靠；依赖；指望**  
+1.**依靠；依赖；指望**  
  > That was the first time Dad had counted on me in a moment of emergency.  
  > 这是父亲第一次在危急时刻依赖我。
 
 - count down
-1. **(某一特殊时刻之前) 倒计时；倒数：**  
+1.**(某一特殊时刻之前) 倒计时；倒数：**  
  > She has been counting down to the big day.   
  > 她已经在对这个重大的日子倒计时了。
 
@@ -8515,7 +8515,7 @@
 固定搭配
 ---
 - a couple of
-1. **一对；两个；一些；几个：**  
+1.**一对；两个；一些；几个：**  
  > A couple of boys were playing chess.  
  > 两个少年在下棋。
 
@@ -8596,7 +8596,7 @@
 固定搭配
 ---
 - in / during / over / through(out) the course of
-1. **在…的过程中；在…的期间：**  
+1.**在…的过程中；在…的期间：**  
  > In the course of space exploration, astronauts have made the journey into space.  
  > 在太空探索的过程中，宇航员已经到达了太空。
 
@@ -8604,7 +8604,7 @@
  > 上学时我遇到过很多老师，其中有两位对我影响很大。
 
 - of course (not)
-1. **当然 (不)：**  
+1.**当然 (不)：**  
  > — Bob, I’m sure you know about second-hand smoke.  
  > 鲍勃，我确信你对二手烟有所了解。
 
@@ -8714,7 +8714,7 @@
 固定搭配
 ---
 - cover up
-1. **完全盖住；掩饰：**  
+1.**完全盖住；掩饰：**  
  > I usually wore a scarf to cover my scars up.  
  > 我通常戴围巾把伤疤遮住。
 
@@ -8722,7 +8722,7 @@
  > 妈妈非常担心，但她还是用笑话来掩饰。
 
 - cover up for sb
-1. **为某人掩盖错误；包庇某人：**  
+1.**为某人掩盖错误；包庇某人：**  
  > He got his powerful friends to cover up for him.  
  > 他让他那些有权有势的朋友来包庇自己。
 
@@ -9011,7 +9011,7 @@
 固定搭配
 ---
 - to sb’s credit
-1. **为某人增光；值得赞扬：**  
+1.**为某人增光；值得赞扬：**  
  > To their credit the four countries do work together in some areas, but they still have very different institutions.  
  > 值得赞扬的是这四个国家在很多领域共同协作，但在制度上它们还是大不相同。
 
@@ -9242,7 +9242,7 @@
 固定搭配
 ---
 - cross out / off
-1. **划掉；删除 (错字等)：**  
+1.**划掉；删除 (错字等)：**  
  > You’ve spelt it wrong. Cross it out and try again.  
  > 你拼错了。划掉再写一遍。
 
@@ -9283,7 +9283,7 @@
 固定搭配
 ---
 - a crowd of / crowds of
-1. **一大群；很多：**  
+1.**一大群；很多：**  
  > After making my way through crowds of people, I finally found a subway line that was operating.  
  > 从一大群人中间挤过去之后，我终于看到了一条还在运营的地铁线路。
 
@@ -9397,7 +9397,7 @@
 固定搭配
 ---
 - cry out
-1. **(因害怕、震惊、疼痛等) 大声叫喊：**  
+1.**(因害怕、震惊、疼痛等) 大声叫喊：**  
  > **cried out in / with**  
  > She cried out in / with pain when her tooth was pulled out.  
  > 她拔牙时痛得大叫。
@@ -9406,7 +9406,7 @@
  > “你为什么要这么做？”她突然大声喊道。
 
 - cry out for
-1. **[非正式用语] 急需：**  
+1.**[非正式用语] 急需：**  
  > The company is crying out for fresh new talent.  
  > 这家公司急需新的人才。
 
@@ -9803,17 +9803,17 @@
 固定搭配
 ---
 - cut back
-1. **缩减；削减**  
+1.**缩减；削减**  
  > **cutting back on**  
  > Several companies are cutting back on staff at the moment.   
  > 目前，有几家公司正在裁员。
 
 - cut down
-1. *高义频：* **砍倒：**  
+1.*高义频：* **砍倒：**  
  > Deserts are also created because people cut down trees and dig up grass.  
  > 人们伐树掘草，也会造成土壤沙化。
 
-2. *高义频：* **减少；缩减**  
+2.*高义频：* **减少；缩减**  
  > The car industry cut down production.  
  > 汽车制造商减少了产量。
 
@@ -9826,17 +9826,17 @@
  > 我们需要把这篇文章缩减至1000词。
 
 - cut in
-1. *低义频：* **插嘴；打断：**  
+1.*低义频：* **插嘴；打断：**  
  > **cut in on**  
  > I’m sorry to cut in on you, but there are one or two things I don’t understand.  
  > 抱歉打断你的话，但是我有一两处不大明白。
 
-2. *低义频：* **强行超车：**  
+2.*低义频：* **强行超车：**  
  > She cut in a red car, forcing the driver to brake heavily.  
  > 她强行超到一辆红色的车的前面，迫使那位司机急刹车。
 
 - cut off
-1. **切掉；切断；[常用于被动语态] 使隔绝：**  
+1.**切掉；切断；[常用于被动语态] 使隔绝：**  
  > One of his fingers was cut off in the accident.  
  > 他的一根手指在事故中被切掉了。
 
@@ -9847,7 +9847,7 @@
  > 最终，他到达一个完全与外界隔绝的孤岛。
 
 - cut out
-1. **剪下；(从文字作品、文章中) 删掉；剪出：**  
+1.**剪下；(从文字作品、文章中) 删掉；剪出：**  
  > I cut this article out of the newspaper.  
  > 我从报纸上剪下了这篇文章。
 
@@ -9858,7 +9858,7 @@
  > 她用旧布料为我裁出一件连衣裙。
 
 - cut up
-1. **切碎；割碎；剪碎：**  
+1.**切碎；割碎；剪碎：**  
  > Cut up the carrots before you put them into the pot.  
  > 把胡萝卜切碎后放入锅内。
 

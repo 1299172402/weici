@@ -248,12 +248,12 @@
 固定搭配
 ---
 - on occasion(s)
-1. **有时；偶尔：**  
+1.**有时；偶尔：**  
  > It is said that on occasion Byron swam by moonlight in the lake.  
  > 据说，有时拜伦借着月光在湖里游泳。
 
 - on the occasion of
-1. **在…之际：**  
+1.**在…之际：**  
  > **on the,occasion of**  
  > I traveled back to my hometown on the sad occasion of Dad’s death.  
  > 在父亲去世的悲痛时刻我回到了家乡。
@@ -351,7 +351,7 @@
 固定搭配
 ---
 - occur to sb 
-1. **浮现于脑中；被想起：**  
+1.**浮现于脑中；被想起：**  
 - it occurs to sb to do sth:
 
  > It occurred to her to phone the police.  
@@ -613,7 +613,7 @@
 固定搭配
 ---
 - on offer
-1. **削价 / 特价出售的：**  
+1.**削价 / 特价出售的：**  
  > This computer was on special offer.  
  > 这款电脑正特价出售。
 
@@ -652,7 +652,7 @@
 固定搭配
 ---
 - office hours 
-1. **办公时间；营业时间**  
+1.**办公时间；营业时间**  
 
 # ***officer*** n
 英文释义
@@ -738,7 +738,7 @@
 固定搭配
 ---
 - more often than not / as often as not 
-1. **通常；往往**  
+1.**通常；往往**  
 
 # ***oh*** int
 英文释义
@@ -908,22 +908,22 @@
 固定搭配
 ---
 - all at once
-1. **突然：**  
+1.**突然：**  
  > All at once the answer came to him.  
  > 他突然想到了答案。
 
 - at once
-1. **立刻；马上：**  
+1.**立刻；马上：**  
  > I have to go home at once.  
  > 我必须马上回家。
 
 - (every) once in a while
-1. **偶尔；间或：**  
+1.**偶尔；间或：**  
  > He was busy writing a story, only stopping once in a while to smoke a cigarette.  
  > 他忙着写故事，只是偶尔停下来抽根烟。
 
 - (just) for once / just this once
-1. **(与通常情况对比而言) 仅此一次：**  
+1.**(与通常情况对比而言) 仅此一次：**  
  > Just for once let me make my own decision.  
  > 这一次就让我自己做决定吧。
 
@@ -931,22 +931,22 @@
  > 好啦，把自行车借给我，就这一次。
 
 - never / not once
-1. **从未：**  
+1.**从未：**  
  > The old couple have been married for 40 years and never once have they quarreled with each other.  
  > 那对老夫妇已经结婚40年了，彼此从未吵过架。
 
 - once again / once more
-1. **再一次：**  
+1.**再一次：**  
  > Tell me just once again.  
  > 你就再告诉我一次吧。
 
 - once and for all
-1. **彻底地；一劳永逸地：**  
+1.**彻底地；一劳永逸地：**  
  > Let’s settle this matter once and for all.  
  > 我们把这个问题彻底解决了吧。
 
 - once or twice
-1. **一两次；几次：**  
+1.**一两次；几次：**  
  > I have been there once or twice.  
  > 我去过那儿一两次。
 
@@ -1000,17 +1000,17 @@
 固定搭配
 ---
 - one after another / the other
-1. **一个接一个地； 接连地：**  
+1.**一个接一个地； 接连地：**  
  > One after another, people stood up and shared their own stories.  
  > 人们一个接一个地站了起来，分享自己的故事。
 
 - one another
-1. **[两者或多者之间] 相互；彼此：**  
+1.**[两者或多者之间] 相互；彼此：**  
  > They gave presents to one another at the graduation ceremony.  
  > 毕业典礼上他们互赠礼物。
 
 - one by one
-1. **逐个地；依次地：**  
+1.**逐个地；依次地：**  
  > As the bell rang, the students went out one by one.  
  > 铃声响了，学生们鱼贯而出。
 
@@ -1033,9 +1033,9 @@
 固定搭配
 ---
 - be oneself
-1. **(人) 处于正常状态：**  
+1.**(人) 处于正常状态：**  
 - (all) by oneself
-1. **独自地；独立地**  
+1.**独自地；独立地**  
 
 # ***onion*** n
 英文释义
@@ -1085,12 +1085,12 @@
 固定搭配
 ---
 - if only
-1. **[与虚拟语气连用] 但愿；如果…就好了：**  
+1.**[与虚拟语气连用] 但愿；如果…就好了：**  
  > If only I knew her name.  
  > 我要是知道她的名字就好了。
 
 - not only ... but (also)
-1. **不但…而且：**  
+1.**不但…而且：**  
 
 # ***onto*** prep
 英文释义
@@ -1159,7 +1159,7 @@
 固定搭配
 ---
 - have / keep an open mind (about / on)
-1. **对…不怀成见 / 对…不先入为主**  
+1.**对…不怀成见 / 对…不先入为主**  
 
 # ***open*** v
 英文释义
@@ -1208,9 +1208,9 @@
 固定搭配
 ---
 - open sb’s eyes to sth
-1. **使某人长见识 / 开眼界 / 认清 (事实)**  
+1.**使某人长见识 / 开眼界 / 认清 (事实)**  
 - open up
-1. **打开；开辟；直抒胸怀：**  
+1.**打开；开辟；直抒胸怀：**  
  > Einstein’s theories opened up a new area of study.  
  > 爱因斯坦的理论开创了一个新的研究领域。
 
@@ -1291,7 +1291,7 @@
 固定搭配
 ---
 - soap opera
-1. **肥皂剧**  
+1.**肥皂剧**  
 
 # ***operate*** v  重难点词汇
 英文释义
@@ -1374,7 +1374,7 @@
 固定搭配
 ---
 - put ... into operation
-1. **实施；使…运转；启用：**  
+1.**实施；使…运转；启用：**  
  > It’s time to put our plan into operation.  
  > 现在应该实施我们的计划了。
 
@@ -1438,7 +1438,7 @@
 固定搭配
 ---
 - have a high / low / good / poor opinion of
-1. **对…评价高 / 低 / 好 / 差**  
+1.**对…评价高 / 低 / 好 / 差**  
 
 # ***opponent*** n
 英文释义
@@ -1730,7 +1730,7 @@
 固定搭配
 ---
 - in order
-1. **按顺序；有序地；整齐地：**  
+1.**按顺序；有序地；整齐地：**  
  > Careful people usually put everything in good order.  
  > 细心的人总是把每样东西都放得很整齐。
 
@@ -1738,22 +1738,22 @@
  > 有些老师发现维持课堂秩序很困难。
 
 - in order that
-1. **为了；以便：**  
+1.**为了；以便：**  
  > Leave your telephone number in order that we might contact you.  
  > 请留下你的电话号码，以便于我们跟你联系。
 
 - in order to
-1. **为了；以便：**  
+1.**为了；以便：**  
  > In order to find a better job, he decided to study a second foreign language.  
  > 为了能找个更好的工作，他决定再学一门外语。
 
 - in the order of 
-1. **大约：**  
+1.**大约：**  
  > She earns something in the order of £80,000 a year.  
  > 她的年收入约为8万英镑。
 
 - out of order
-1. **次序颠倒；发生故障：**  
+1.**次序颠倒；发生故障：**  
  > The newspaper pages were out of order.  
  > 报纸的版面顺序乱了。
 
@@ -2061,12 +2061,12 @@
 固定搭配
 ---
 - no other than
-1. **正是；恰恰是：**  
+1.**正是；恰恰是：**  
  > He is no other than the writer I have often talked about.  
  > 他正是我常谈起的那位作家。
 
 - other than
-1. **除…以外 (except)：**  
+1.**除…以外 (except)：**  
  > I don’t know any French people other than you.  
  > 除了你，我不认识别的法国人。
 
@@ -2197,7 +2197,7 @@
 固定搭配
 ---
 - out of
-1. *高义频：* **从...中 (出去)：**  
+1.*高义频：* **从...中 (出去)：**  
  > **out of the room**  
  > She went out of the room.  
  > 她走出了房间。
@@ -2205,7 +2205,7 @@
  > Six out of ten people worldwide use mobile phones.  
  > 全世界10个人中就有6个使用手机。
 
-2. *高义频：* **在... (范围) 之外；脱离 (某状态)：**  
+2.*高义频：* **在... (范围) 之外；脱离 (某状态)：**  
  > out of control  
  > 失控
 
@@ -2213,7 +2213,7 @@
  > The plane is out of sight now.  
  > 飞机已飞出了视线。
 
-3. *低义频：* **出于；由于：**  
+3.*低义频：* **出于；由于：**  
  > out of concern for one’s friend  
  > 出于对朋友的关心
 
@@ -2221,7 +2221,7 @@
  > I ran away out of fear of the dog.  
  > 我怕狗，于是跑开了。
 
-4. *高义频：* **缺乏；没有：**  
+4.*高义频：* **缺乏；没有：**  
  > **out of work**  
  > out of work  
  > 失业
@@ -2230,7 +2230,7 @@
  > I am feeling completely out of practice.  
  > 我感觉自己太疏于练习了。
 
-5. *高义频：* **凭借；用… (制成)：**  
+5.*高义频：* **凭借；用… (制成)：**  
  > **make,out of**  
  > make a box out of wood  
  > 用木头做个盒子
@@ -2548,7 +2548,7 @@
 固定搭配
 ---
 - all over
-1. *高义频：* **到处；各处：**  
+1.*高义频：* **到处；各处：**  
  > Countries all over the world name places in similar ways.  
  > 全世界的国家都用相似的方式给地方命名。
 
@@ -2607,12 +2607,12 @@
 固定搭配
 ---
 - (all) over again
-1. **再一遍；重新：**  
+1.**再一遍；重新：**  
  > He did the work so badly that I had to do it all over again myself.  
  > 他工作做得太差劲了,我只好亲自重做。
 
 - over and over (again)
-1. **反复；再三：**  
+1.**反复；再三：**  
  > As you know, if you do the same thing over and over again, you begin to do it automatically.  
  > 你知道，如果反反复复地做同样的事，动作就会变得自如起来。
 
@@ -2840,7 +2840,7 @@
 固定搭配
 ---
 - (all) on one’s own
-1. **独自地；独立地 (alone)：**  
+1.**独自地；独立地 (alone)：**  
  > My grandmother lives all on her own.  
  > 我祖母独自一个人生活。
 

@@ -26,7 +26,7 @@
 固定搭配
 ---
 - at table 
-1. **在进餐；进餐时：**  
+1.**在进餐；进餐时：**  
  > It’s not acceptable to talk with food in mouth at table.   
  > 进餐时嘴里含着食物讲话的行为是不可接受的。
 
@@ -224,12 +224,12 @@
 固定搭配
 ---
 - take apart 
-1. **拆开：**  
+1.**拆开：**  
  > The old man saw some Germans taking apart the Amber Room and removing it.   
  > 老人看到一些德国人把琥珀屋拆掉后搬走了。
 
 - take away 
-1. **拿走；带走；使消失：**  
+1.**拿走；带走；使消失：**  
  > Mom! Robby took away my cake!   
  > 妈妈！罗比抢走了我的蛋糕！
 
@@ -240,7 +240,7 @@
  > 给我开了些止疼药片。
 
 - take back 
-1. **退回；收回：**  
+1.**退回；收回：**  
  > If the shirt doesn’t fit, take it back.   
  > 如果衬衣不合身，拿去退货吧。
 
@@ -248,7 +248,7 @@
  > 我要收回刚才说的话。
 
 - take down 
-1. **取下；记下；拆除：**  
+1.**取下；记下；拆除：**  
  > take the curtains down   
  > 取下窗帘
 
@@ -259,41 +259,41 @@
  > 我小时候住的那所房子已被拆除，取而代之的是一座办公楼。
 
 - take in
-1. *高义频：* **吸入；收留：**  
+1.*高义频：* **吸入；收留：**  
  > Trees take in carbon dioxide and give out oxygen.   
  > 树木吸收二氧化碳释放氧气。
 
  > He was homeless, so we took him in.   
  > 他无家可归，于是我们收留了他。
 
-2. *高义频：* **理解 (absorb)：**  
+2.*高义频：* **理解 (absorb)：**  
  > It was several minutes before I could take in what he was saying.  
  > 过了好几分钟，我才理解他说的是什么。
 
-3. *高义频：* **欺骗：**  
+3.*高义频：* **欺骗：**  
  > She took me in completely with her story.   
  > 她用一番花言巧语完全把我骗住了。
 
 - take off
-1. *高义频：* **脱下 (衣、帽等)**  
+1.*高义频：* **脱下 (衣、帽等)**  
  > He took off my wet boots and made me sit by the fire.  
  > 他脱掉我的湿靴子，让我在火边坐下。
 
-2. *高义频：* **(飞机等) 起飞：**  
+2.*高义频：* **(飞机等) 起飞：**  
  > The plane took off on time.   
  > 飞机正点起飞。
 
-3. *高义频：* **在 (某段时间) 休假：**  
+3.*高义频：* **在 (某段时间) 休假：**  
  > **took,time off**  
  > After graduating from college, I took some time off to go travelling.    
  > 大学毕业后，我休息了一段时间，去旅行了。
 
-4. *低义频：* **开始成功；开始走红：**  
+4.*低义频：* **开始成功；开始走红：**  
  > Many businesses started up by college students have taken off thanks to the comfortable climate for business creation.  
  > 由于良好的创业环境，大学生开办的许多公司已有起色。
 
 - take on 
-1. **呈现；雇用；接受 (工作); 承担 (责任)：**  
+1.**呈现；雇用；接受 (工作); 承担 (责任)：**  
  > Shortly after suffering from a massive earthquake and being reduced to ruins, the city took on a new look.   
  > 在遭受大地震成为废墟后不久，这座城市呈现出新面貌。
 
@@ -304,21 +304,21 @@
  > 秘书会在他不在的时候接手他大部分的工作。
 
 - take out
-1. *高义频：* **取出；拿出：**  
+1.*高义频：* **取出；拿出：**  
  > The doctor took out five of John’s teeth.   
  > 医生拔掉了约翰的五颗牙。
 
-2. *低义频：* **获得；领取：**  
+2.*低义频：* **获得；领取：**  
  > **take out an insurance**  
  > take out an insurance   
  > 领取保险
 
-3. *高义频：* **带...出去：**  
+3.*高义频：* **带...出去：**  
  > Each morning Stevenson would take his family out for a walk over the hills.    
  > 每天清晨，史蒂文森都会带着全家去山上散步。
 
 - take over 
-1. **接收；接管：**  
+1.**接收；接管：**  
  > take over the job as a manager   
  > 接任经理一职
 
@@ -326,7 +326,7 @@
  > 我替你开会儿车怎么样？
 
 - take to 
-1. **[不用于被动语态] 开始从事；喜欢上； 养成…的习惯：**  
+1.**[不用于被动语态] 开始从事；喜欢上； 养成…的习惯：**  
  > He gave up medicine and took to literature.   
  > 他弃医从文了。
 
@@ -334,22 +334,22 @@
  > 我养成了6点起床去慢跑的习惯。
 
 - take up 
-1. **(尤指为消遣) 学着做；开始做**  
+1.**(尤指为消遣) 学着做；开始做**  
  > After he retired from office, Rogers took up painting for a while, but soon lost interest.  
  > 退休后，罗杰斯学了一段时间绘画，但很快便失去了兴趣。
 
-2. **开始从事；开始担当**  
+2.**开始从事；开始担当**  
  > If you want to take up this job, you should first be trained for three months.  
  > 假如你想从事这项工作，你必须先接受三个月的训练。
 
-3. **占用 (occupy)**  
+3.**占用 (occupy)**  
  > The desk takes up a lot of room.  
  > 这张桌子占了太多的空间。
 
  > Helen always helps her mother even though going to school takes up most of her day.  
  > 尽管海伦一天大部分时间都上学，但她总是给自己的母亲帮忙。
 
-4. **接受**  
+4.**接受**  
  > Rick took up the challenge and cycled alone for 250 miles.  
  > 里克接受了挑战，独自骑行250英里。
 
@@ -428,12 +428,12 @@
  > 我们整夜谈论音乐。
 
 - talk ... into / out of (doing) sth
-1. **说服某人做 / 不做某事：**  
+1.**说服某人做 / 不做某事：**  
  > I didn’t want to move abroad but Bill talked me into it.  
  > 我本不想移居国外，但是比尔把我说服了。
 
 - talk over
-1. **详细讨论：**  
+1.**详细讨论：**  
  > Sometimes I act as a listening ear for fellow students to talk over what is bothering them.  
  > 有时我会充当同学们的听众，聊一聊他们的烦恼。
 
@@ -773,7 +773,7 @@
 固定搭配
 ---
 - teach sb a lesson
-1. **给某人一个教训**  
+1.**给某人一个教训**  
 
 # ***teacher*** n
 英文释义
@@ -855,12 +855,12 @@
 固定搭配
 ---
 - tear down
-1. **扯下；拆毁：**  
+1.**扯下；拆毁：**  
  > Tear down the dangerous wall as soon as possible, or sometime it may fall down and injure your family.  
  > 尽早拆除这堵危墙，否则不知什么时候它会倒塌并伤到你的家人。
 
 - tear up
-1. **撕碎；拔起：**  
+1.**撕碎；拔起：**  
  > He tore up the letter as soon as he had read it.  
  > 他一看完信就把它撕了。
 
@@ -1164,12 +1164,12 @@
 固定搭配
 ---
 - tend to / toward(s) sth
-1. *高义频：* **倾向于；有...的趋势：**  
+1.*高义频：* **倾向于；有...的趋势：**  
  > The sort of music I listen to varies, but it tends toward light music.  
  > 我所听的音乐形形色色，不过一般都是轻音乐。
 
 - tend to do sth
-1. *高义频：* **易于做某事；往往会做某事**  
+1.*高义频：* **易于做某事；往往会做某事**  
  > I tend to see pictures in my mind when I am reading or listening.  
  > 在读或者听的时候，我往往会在头脑中形成图像。
 
@@ -1317,7 +1317,7 @@
 固定搭配
 ---
 - in the long / short term
-1. **从长远 / 眼前看**  
+1.**从长远 / 眼前看**  
 
 # ***terminal*** adj
 英文释义
@@ -1351,12 +1351,12 @@
 固定搭配
 ---
 - in terms of
-1. **从…方面来讲；就…而言：**  
+1.**从…方面来讲；就…而言：**  
  > In terms of size and population, how big is the European Union compared with China?  
  > 与中国相比，欧盟的面积和人口规模如何？
 
 - be on good terms with
-1. **与…关系好：**  
+1.**与…关系好：**  
  > We were on good terms with everyone in the village.  
  > 我们与村子里的每个人都相处得很好。
 
@@ -1543,17 +1543,17 @@
 固定搭配
 ---
 - more than
-1. **见 more**  
+1.**见 more**  
 - no more than
-1. **见 more**  
+1.**见 more**  
 - no other than
-1. **见 other**  
+1.**见 other**  
 - no sooner ... than
-1. **见soon**  
+1.**见soon**  
 - other than
-1. **见 other**  
+1.**见 other**  
 - would rather ... (than)
-1. **见 rather**  
+1.**见 rather**  
 
 # ***thank*** vt
 英文释义
@@ -1569,7 +1569,7 @@
  > 谢天谢地
 
 - have sb to thank (for)
-1. **(因…) 感谢某人：**  
+1.**(因…) 感谢某人：**  
  > Anyone who has ever been helped by a social worker has Jane Addams to thank.  
  > 任何曾经被社工帮助过的人都应感谢简·亚当斯。
 
@@ -1582,7 +1582,7 @@
 固定搭配
 ---
 - thanks to
-1. **幸亏；由于：**  
+1.**幸亏；由于：**  
  > Thanks to his help, my speech was so successful that everyone cheered for me.  
  > 多亏他的帮助，我的演讲才如此成功，人人都为我喝彩。
 
@@ -1695,7 +1695,7 @@
 固定搭配
 ---
 - in that
-1. **在…这一点上；因为：**  
+1.**在…这一点上；因为：**  
  > We all long for sincere friendship in that it can deeply influence our lives.  
  > 我们都渴望真诚的友谊，因为它对我们的生活会产生深刻的影响。
 
@@ -1960,7 +1960,7 @@
 固定搭配
 ---
 - in theory
-1. **理论上：**  
+1.**理论上：**  
  > It sounds fine in theory, but will it work?  
  > 理论上讲这是不错，但能否行得通?
 
@@ -2017,12 +2017,12 @@
 固定搭配
 ---
 - over there
-1. **在那里：**  
+1.**在那里：**  
  > Who is the man standing over there?  
  > 站在那边的那个人是谁？
 
 - be (always) there (for sb)
-1. **[口语] 给予支持或援助：**  
+1.**[口语] 给予支持或援助：**  
  > My father was always there for me with good advice.  
  > 我父亲总能给我好建议。
 
@@ -2171,7 +2171,7 @@
 固定搭配
 ---
 - for one thing …, for another (thing) …
-1. **首先 …， 再者…：**  
+1.**首先 …， 再者…：**  
  > For one thing, reading literary books help to improve my writing skills and broaden my horizons. For another, they can enrich my life.  
  > 首先，阅读文学书籍有助于提高我的写作技能并开阔视野。再者，还能丰富我的生活。
 
@@ -2222,33 +2222,33 @@
 固定搭配
 ---
 - think about
-1. **思考；考虑：**  
+1.**思考；考虑：**  
  > Changing the way you think about yourself is the key to changing your self-image.  
  > 改变审视自我的方式是改变自我形象的关键。
 
 - think highly of
-1. **对…高度评价：**  
+1.**对…高度评价：**  
  > We should think highly of him, because he always put others’ interest first.  
  > 我们应该对他高度评价，因为他总是把别人的利益放在首位。
 
 - think of
-1. *高义频：* **考虑；关心：**  
+1.*高义频：* **考虑；关心：**  
  > I’m thinking of taking a trip during the Christmas holidays.  
  > 我正在考虑圣诞假期出门旅行。
 
  > He never thinks of anyone but himself.  
  > 除了自己，他从不关心任何人。
 
-2. *高义频：* **想出；想起**  
+2.*高义频：* **想出；想起**  
  > Whenever I think of the old days, I feel very happy.  
  > 每当我想起过去的日子，就感到很幸福。
 
-3. *高义频：* **认为...适合：**  
+3.*高义频：* **认为...适合：**  
  > Many people thought of Mr Jackson for the president.  
  > 许多人认为杰克逊先生适合做总裁。
 
 - think of ... as ...
-1. **把…看作…；认为…是…：**  
+1.**把…看作…；认为…是…：**  
  > I thought of reading as natural as breathing.  
  > 我把阅读看成如呼吸一样自然的事。
 
@@ -2256,12 +2256,12 @@
  > 我认为他是个快乐的、有许多朋友的人。
 
 - think over
-1. **仔细考虑：**  
+1.**仔细考虑：**  
  > I’ll think over your suggestions, and let you know my decision in a day or two.  
  > 我会慎重考虑你的建议，并在一两天内把我的决定告诉你。
 
 - think up
-1. **想出：**  
+1.**想出：**  
  > I wish I could think up some ways of convincing them of their mistakes.  
  > 但愿我能想出一些方法，使他们相信自己错了。
 
@@ -2419,7 +2419,7 @@
 固定搭配
 ---
 - even though 
-1. **即使；虽然：**  
+1.**即使；虽然：**  
  > My grandfather still plays tennis now and then, even though he’s in his nineties.   
  > 我爷爷尽管90多岁了，仍然时不时地打打网球。
 
@@ -2482,17 +2482,17 @@
 固定搭配
 ---
 - at the thought of 
-1. **一想起… (就)：**  
+1.**一想起… (就)：**  
  > She was sad at the thought of leaving the house, as it was full of so many memories.   
  > 一想到要离开这栋房子她就难过起来，因为这里充满了很多回忆。
 
 - have second thoughts 
-1. **改变主意：**  
+1.**改变主意：**  
  > Had they known what was coming next, they might have had second thoughts.   
  > 他们如果知道接下来会发生什么，就可能会改变主意了。
 
 - without a second thought
-1. **立即；不假思索：**  
+1.**立即；不假思索：**  
  > He dived in after her without a second thought.  
  > 他不假思索地随她跳入水中。
 
@@ -2513,7 +2513,7 @@
 固定搭配
 ---
 - thousands of 
-1. **大量的；成千上万的：**  
+1.**大量的；成千上万的：**  
  > Thousands of people left the countryside to work in the city.   
  > 成千上万的人离开乡村到城里工作。
 
@@ -2694,7 +2694,7 @@
 固定搭配
 ---
 - throw away
-1. **扔掉(throw out)；浪费 (金钱等)；放过 (机会等)：**  
+1.**扔掉(throw out)；浪费 (金钱等)；放过 (机会等)：**  
  > People are recycling many things which they would have thrown away in the past.  
  > 人们在回收利用很多他们在过去会扔掉的东西。
 
@@ -2705,7 +2705,7 @@
  > 这是你最好的机会，把握住，别放过。
 
 - throw off 
-1. **扔掉；摆脱；匆匆脱掉 (衣服)：**  
+1.**扔掉；摆脱；匆匆脱掉 (衣服)：**  
  > Throw off all your unpleasant memories.   
  > 忘掉你所有不愉快的记忆。
 
@@ -2713,12 +2713,12 @@
  > 他匆忙脱下外衣，开始工作。
 
 - throw oneself into
-1. **投身于；积极从事：**  
+1.**投身于；积极从事：**  
  > As the vegetables started coming in, Dad threw himself into cooking.    
  > 当蔬菜被送来的时候，父亲全身心地投入到烹饪当中。
 
 - throw oneself on 
-1. **扑倒在…上；完全依赖：**  
+1.**扑倒在…上；完全依赖：**  
  > I threw myself on the bed in my clothes, trying to find a few moments of sleep.    
  > 我和衣倒在床上，试图睡上一会儿。
 
@@ -2726,7 +2726,7 @@
  > 我就靠你来帮我赢得这场比赛了。
 
 - throw out 
-1. **抛出；扔掉(throw away)；撵走；开除：**  
+1.**抛出；扔掉(throw away)；撵走；开除：**  
  > Protect the water environment consciously; don’t throw out peels, paper scraps, etc.   
  > 自觉保护水环境，不要乱扔果皮、纸屑等。
 
@@ -2734,7 +2734,7 @@
  > 如果不付房租，你就会被赶出去。
 
 - throw up 
-1. **抛起；举起：**  
+1.**抛起；举起：**  
  > throw up one’s hands in fear   
  > 恐惧地举起双手
 
@@ -2879,7 +2879,7 @@
 固定搭配
 ---
 - tie up 
-1. **系紧；拴牢：**  
+1.**系紧；拴牢：**  
  > Susan handed him the string so he could tie up the box.  
  > 苏珊把绳子递给他，让他能绑好盒子。
 
@@ -3009,42 +3009,42 @@
 固定搭配
 ---
 - ahead of time 
-1. **提前；提早：**  
+1.**提前；提早：**  
  > Can you finish your homework ahead of time?   
  > 你能提前做完作业吗？
 
 - all the time 
-1. **一直；始终：**  
+1.**一直；始终：**  
  > Opportunities are present all the time, but often they go by unnoticed.   
  > 机会始终都在，但常常被人忽视。
 
 - at a time 
-1. **一次；同时：**  
+1.**一次；同时：**  
  > Wealth starts with a goal saving a dollar at a time.  
  > 财富始于一次存一美元的目标。
 
 - at all times 
-1. **随时；总是：**  
+1.**随时；总是：**  
  > No man is wise at all times.   
  > 智者千虑，必有一失。
 
 - (at) any time 
-1. **任何时候；随时：**  
+1.**任何时候；随时：**  
  > Unexpected disasters can strike at any time.   
  > 不可预料的灾难随时可能发生。
 
 - at no time
-1. **在任何时候都不；决不：**  
+1.**在任何时候都不；决不：**  
  > At no time during the tour was I bored.  
  > 观光途中我从未觉得无聊过。
 
 - at one time 
-1. **一度：**  
+1.**一度：**  
  > At one time, half the land on the Earth’s surface was covered by forest.   
  > 曾经，地球表面的一半被森林所覆盖。
 
 - at the same time
-1. **同时；但：**  
+1.**同时；但：**  
  > It’s impossible to get everybody together at the same time.   
  > 使所有人都同时聚到一起是不可能的。
 
@@ -3052,42 +3052,42 @@
  > 太空旅行可以很令人愉快，但同时也存在无形的危险。
 
 - at times
-1. **有时；间或：**  
+1.**有时；间或：**  
  > He was made to practise the piano so much that, at times, he thought about giving up.   
  > 他被安排练琴的时间太长，有时都想放弃了。
 
 - by the time 
-1. **在…以前：**  
+1.**在…以前：**  
  > By the time I retire I’ll finish paying for my house.  
  > 我将在退休前付清房款。
 
 - every time 
-1. **每次；每当：**  
+1.**每次；每当：**  
  > Our greatest glory consists not in never falling but in rising every time we fall.   
  > 我们最值得自豪的不在于永不跌倒，而在于每次跌倒之后都站了起来。
 
 - for the time (being) 
-1. **暂时；眼下：**  
+1.**暂时；眼下：**  
  > Feeling better, she decided not to worry about math for the time being.   
  > 感觉好点后，她决定暂时不想数学的事。
 
 - from time to time 
-1. **有时；不时：**  
+1.**有时；不时：**  
  > These days, Roy and I see each other from time to time, but we’re no longer close.  
  > 最近，我和罗伊偶尔见面，但不再那么亲密了。
 
 - have a ... time 
-1. **过得…：**  
+1.**过得…：**  
  > I’m sure you’ll have a great time in California.   
  > 我相信你会在加利福尼亚玩得很开心。
 
 - in no time 
-1. **立即；马上：**  
+1.**立即；马上：**  
  > Don’t worry. You’ll be all right in no time.   
  > 别担心，你很快就会好起来。
 
 - in time 
-1. **及时；迟早：**  
+1.**及时；迟早：**  
  > Firemen reached the house on fire in time.   
  > 消防队员及时赶到那所失火的房子。
 
@@ -3095,24 +3095,24 @@
  > 如果坚持下去，你迟早会成功的。
 
 - it’s (about / high) time sb did sth 
-1. **是某人做事的时候了：**  
+1.**是某人做事的时候了：**  
  > It’s high time you cleaned your room!   
  > 你该打扫房间了！
 
 - on time 
-1. **按时；准时：**  
+1.**按时；准时：**  
  > You must give your homework to the teacher on time.  
  > 你必须按时将作业交给老师。
 
 - once upon a time 
-1. **[常用于故事开头] 从前：**  
+1.**[常用于故事开头] 从前：**  
  > Once upon a time there was a farmer who worked hard in the fields every day.   
  > 从前，有个农夫每天在田里辛勤劳作。
 
 - take your time 
-1. **别着急**  
+1.**别着急**  
 - time after time / time and (time) again 
-1. **一再； 反复：**  
+1.**一再； 反复：**  
  > I listened to the sentence time after time, but still can’t follow its meaning.   
  > 我反复听这个句子，但还是不明白它的意思。
 
@@ -3200,7 +3200,7 @@
 固定搭配
 ---
 - tire out
-1. **使精疲力竭**  
+1.**使精疲力竭**  
 
 # ***tire*** n
 英文释义
@@ -3412,7 +3412,7 @@
 固定搭配
 ---
 - together with 
-1. **和：**  
+1.**和：**  
  > My friend Ann, together with me, is going to do field study.   
  > 我的朋友安要和我一起去野外考察。
 
@@ -3568,12 +3568,12 @@
 固定搭配
 ---
 - all too 
-1. **太：**  
+1.**太：**  
  > Accidents like this happen all too often.   
  > 这类事故发生得太频繁了。
 
 - can’t / can never ... too ... 
-1. **怎么…也不过分； 越…越好：**  
+1.**怎么…也不过分； 越…越好：**  
  > — Must I turn off the gas after cooking?    
  > 做完饭后一定要把煤气关掉吗？
 
@@ -3643,7 +3643,7 @@
 固定搭配
 ---
 - on top 
-1. **在上方；领先地：**  
+1.**在上方；领先地：**  
  > Stand on top and look down.   
  > 站在顶上俯视。
 
@@ -3651,7 +3651,7 @@
  > 我想，谁会得第一呢？
 
 - on top of 
-1. **在…之上；加之：**  
+1.**在…之上；加之：**  
  > That high mountain has a tower on top of it.   
  > 那座高山顶上有一座塔。
 
@@ -3735,7 +3735,7 @@
 固定搭配
 ---
 - in total 
-1. **总共；总计：**  
+1.**总共；总计：**  
  > In total, these astronauts have spent more than 26,000 days in space.   
  > 这些宇航员已在太空中总共待了26000多天。
 
@@ -3786,7 +3786,7 @@
 固定搭配
 ---
 - touch down 
-1. **降落；着陆：**  
+1.**降落；着陆：**  
  > The plane finally touched down at the airport around midday.   
  > 中午前后，飞机终于在机场降落。
 
@@ -3814,27 +3814,27 @@
 固定搭配
 ---
 - (be) in touch (with) 
-1. **(与…) 有联系：**  
+1.**(与…) 有联系：**  
  > Are you still in touch with your former colleagues?  
  > 你与以前的同事还有联系吗？
 
 - (be) out of touch (with) 
-1. **(与…) 不联系 / 不接触：**  
+1.**(与…) 不联系 / 不接触：**  
  > We have been out of touch with them for about two years.   
  > 我们大约有两年没有和他们联系了。
 
 - get in touch (with) 
-1. **(与…) 取得联系：**  
+1.**(与…) 取得联系：**  
  > Here’s our number if you need to get in touch with us.   
  > 如果你需要联系我们，这是我们的号码。
 
 - keep / stay in touch (with)
-1. **(与…) 保持联系：**  
+1.**(与…) 保持联系：**  
  > Keeping in touch with our friends is an important part of friendship.   
  > 和朋友们保持联系在友谊中很重要。
 
 - lose touch (with) 
-1. **(与…) 失去联系：**  
+1.**(与…) 失去联系：**  
  > I regret to say that I have lost touch with four or five friends.   
  > 很遗憾，我已与四五个朋友失去了联系。
 
@@ -4043,12 +4043,12 @@
 固定搭配
 ---
 - keep track of 
-1. **了解…的动态；与…保持联系：**  
+1.**了解…的动态；与…保持联系：**  
  > They read the newspapers every day to keep track of current events.   
  > 他们每天阅读报纸，以了解时事。
 
 - lose track of 
-1. **失去…的线索；与…失去联系；忘记：**  
+1.**失去…的线索；与…失去联系；忘记：**  
  > The police have lost track of the criminals.   
  > 警方已失去罪犯的线索。
 
@@ -4615,7 +4615,7 @@
 固定搭配
 ---
 - treat sb to 
-1. **用…招待某人；以…款待某人：**  
+1.**用…招待某人；以…款待某人：**  
  > **treated herself to**  
  > In a childlike act, she left the hospital and treated herself to a box of chocolates.  
  > 她孩子气地离开了医院，并给自己买了一盒巧克力糖吃。
@@ -4715,7 +4715,7 @@
 固定搭配
 ---
 - on trial 
-1. **在试用中；在受审：**  
+1.**在试用中；在受审：**  
  > **on trial for**  
  > He’s on trial for theft.   
  > 他因盗窃而受审。
@@ -4724,7 +4724,7 @@
  > 那位职员在试用期中。
 
 - trial and error 
-1. **反复试验；不断摸索：**  
+1.**反复试验；不断摸索：**  
  > Children learn technical skills by trial and error.   
  > 孩子们通过不断摸索来掌握技能。
 
@@ -4875,7 +4875,7 @@
 固定搭配
 ---
 - get (sb) into trouble
-1. **(使某人) 陷入困境；(使某人) 遇到麻烦：**  
+1.**(使某人) 陷入困境；(使某人) 遇到麻烦：**  
  > Even an experienced climber can get into trouble.  
  > 再有经验的登山者也会遇到麻烦。
 
@@ -4883,22 +4883,22 @@
  > 别提我的名字,免得给我惹麻烦。
 
 - keep / stay out of trouble
-1. **远离麻烦：**  
+1.**远离麻烦：**  
  > I hope Tim stays out of trouble this year.   
  > 我希望蒂姆今年能远离麻烦。
 
 - in trouble 
-1. **处于困境中：**  
+1.**处于困境中：**  
  > We should trust our friends, respect them and always be ready to help them when they are in trouble.   
  > 我们应信任并尊重我们的朋友，在他们有困难的时候帮助他们。
 
 - take the trouble to do sth
-1. **费神做某事；不辞辛劳地做某事：**  
+1.**费神做某事；不辞辛劳地做某事：**  
  > My parents have given me life and take all the trouble to bring me up.  
  > 父母给了我生命并含辛茹苦地把我养大。
 
 - take trouble doing / to do sth
-1. **尽心尽力地做某事：**  
+1.**尽心尽力地做某事：**  
  > The work is badly done; he didn’t take much trouble to do it.  
  > 这项工作做得很糟糕，他没有尽心尽力地去做。
 
@@ -4985,7 +4985,7 @@
 固定搭配
 ---
 - come true
-1. **实现；成为现实：**  
+1.**实现；成为现实：**  
  > These predictions will come true if technology continues to develop.  
  > 如果技术不断发展，这些预言将会成真。
 
@@ -5013,7 +5013,7 @@
 固定搭配
 ---
 - Yours truly
-1. **[用于书信结尾、签名之前] 你忠实的**  
+1.**[用于书信结尾、签名之前] 你忠实的**  
 
 # ***trumpet*** n
 英文释义
@@ -5045,7 +5045,7 @@
 固定搭配
 ---
 - I trust (that) 
-1. **[口语] 我希望…：**  
+1.**[口语] 我希望…：**  
  > I trust that everything will go all right.   
  > 我相信一切都会很顺利。
 
@@ -5076,12 +5076,12 @@
 固定搭配
 ---
 - in truth 
-1. **事实上；的确 (really)：**  
+1.**事实上；的确 (really)：**  
  > She was laughing and chatting but not, in truth, having much fun.   
  > 她虽然谈笑风生，但实际上并不开心。
 
 - to tell (you) the truth 
-1. **[口语] 老实说：**  
+1.**[口语] 老实说：**  
  > To tell you the truth, I’m very worried about the final examinations next month.   
  > 老实说，我很担心下个月的期末考试。
 
@@ -5130,17 +5130,17 @@
 固定搭配
 ---
 - try on 
-1. **试穿：**  
+1.**试穿：**  
  > I went to the tailor’s to try on my new suit.  
  > 我去裁缝店试穿我的新衣服。
 
 - try out 
-1. **试验：**  
+1.**试验：**  
  > try out an idea   
  > 试验一种设想
 
 - try out for 
-1. **参加…选拔 / 试演：**  
+1.**参加…选拔 / 试演：**  
  > All the students in the class tried out for the basketball match.   
  > 班上的全体学生都参加了篮球选拔赛。
 
@@ -5187,7 +5187,7 @@
 固定搭配
 ---
 - in tune 
-1. **合调；协调：**  
+1.**合调；协调：**  
  > sing in tune   
  > 唱得合调
 
@@ -5195,7 +5195,7 @@
  > 跟上时代潮流
 
 - out of tune 
-1. **走调；不协调：**  
+1.**走调；不协调：**  
  > I have no ear for music. My singing is out of tune.  
  > 我不懂音乐，唱歌总跑调。
 
@@ -5211,7 +5211,7 @@
 固定搭配
 ---
 - tune in 
-1. **收听；收看：**  
+1.**收听；收看：**  
  > tune in to a radio station   
  > 收听一个电台
 
@@ -5308,7 +5308,7 @@
 固定搭配
 ---
 - turn around / round 
-1. **转身；转变；好转：**  
+1.**转身；转变；好转：**  
  > I turned around and walked out without saying a word.   
  > 我一言未发，转身走了出去。
 
@@ -5316,7 +5316,7 @@
  > 经过一年的努力，他使一个业绩糟糕的部门有了起色。
 
 - turn away 
-1. **把…转过去；把…打发走：**  
+1.**把…转过去；把…打发走：**  
  > She turned her head away, feeling too ashamed to meet his gaze.   
  > 因为害羞而不敢和他对视，她把头转了过去。
 
@@ -5324,7 +5324,7 @@
  > 因礼堂满了，许多人被打发走了。
 
 - turn back 
-1. **(使) 往回走；改变做法：**  
+1.**(使) 往回走；改变做法：**  
  > The weather became so bad that they had to turn back.   
  > 天气变得很糟糕,他们只好返回。
 
@@ -5333,16 +5333,16 @@
  > 人们又重新开始依靠自然资源生存。
 
 - turn down
-1. *高义频：* **关小；调低 (音量等)：**  
+1.*高义频：* **关小；调低 (音量等)：**  
  > Could you please turn down your TV a bit?   
  > 你可以把电视音量关小一点儿吗?
 
-2. *高义频：* **拒绝：**  
+2.*高义频：* **拒绝：**  
  > How could you turn down such a fantastic job when you have been out of work for months?  
  > 你已经好几个月没有工作了，怎么能拒绝这么好的一份工作呢？
 
 - turn in
-1. **上交(BrE hand in)；上缴：**  
+1.**上交(BrE hand in)；上缴：**  
  > Turn in your papers, please.   
  > 请把试卷交上来吧。
 
@@ -5350,7 +5350,7 @@
  > 她把在路上捡到的钱包上交了。
 
 - turn into
-1. **(使) 变成；(使) 成为：**  
+1.**(使) 变成；(使) 成为：**  
  > Peter can show you how to turn an idea into an act.  
  > 彼得能教你如何把想法变成行动。
 
@@ -5358,16 +5358,16 @@
  > 新建的木屋排列在街道两旁，使这座古镇变成了仙境。
 
 - turn off 
-1. **关 (水、煤气、电灯等)turn on 反 turn off：**  
+1.**关 (水、煤气、电灯等)turn on 反 turn off：**  
  > Turn off the lights when you are not in a room.   
  > 人不在房间时把灯关掉。
 
 - turn on
-1. *高义频：* **开 (水、煤气、电灯等)：**  
+1.*高义频：* **开 (水、煤气、电灯等)：**  
  > He talked for several minutes, but forgot to first turn on the microphone.   
  > 他讲了几分钟，却忘记要先把麦克风打开。
 
-2. *低义频：* **使 (某人) 产生兴趣：**  
+2.*低义频：* **使 (某人) 产生兴趣：**  
  > Science fiction just doesn’t turn me on.   
  > 科幻小说根本提不起我的兴趣。
 
@@ -5375,7 +5375,7 @@
  > It was Dad who turned me on to fishing.   
  > 是爸爸让我喜欢上钓鱼的。
 
-3. *低义频：* **对...发怒；突然攻击...：**  
+3.*低义频：* **对...发怒；突然攻击...：**  
  > He turned on his brother, who he thought, had deceived him.   
  > 他对兄弟翻脸，认为兄弟欺骗了他。
 
@@ -5383,11 +5383,11 @@
  > 那两条狗突然撕咬起来。
 
 - turn out
-1. *低义频：* **制造；生产；培养出：**  
+1.*低义频：* **制造；生产；培养出：**  
  > The factory turns out 900 cars a week.   
  > 这家工厂一周生产九百辆汽车。
 
-2. *高义频：* **原来 (是)；证明 (是)；结果 (是)**  
+2.*高义频：* **原来 (是)；证明 (是)；结果 (是)**  
  > Unexpectedly the weather turned out pretty nice that day.   
  > 出乎意料的是，那天天气特别好。
 
@@ -5395,29 +5395,29 @@
  > It turned out that his brother died of a heart attack.  
  > 原来他的兄弟死于心脏病。
 
-3. *低义频：* **出席；参加**  
+3.*低义频：* **出席；参加**  
  > **turned out for**  
  > A lot of people turned out for the party.  
  > 许多人参加了聚会。
 
 - turn over
-1. *高义频：* **翻身；(使) 翻转；翻过 (书页):**  
+1.*高义频：* **翻身；(使) 翻转；翻过 (书页):**  
  > He did not fall asleep, turning over in bed from time to time.   
  > 他没睡着，在床上时不时地翻身。
 
  > Don’t turn over the page yet.   
  > 先别把这页翻过去。
 
-2. *低义频：* **移交：**  
+2.*低义频：* **移交：**  
  > He turned over the work to the secretary.   
  > 他把工作移交给了秘书。
 
-3. *低义频：* **反复考虑：**  
+3.*低义频：* **反复考虑：**  
  > She kept turning over the events of the day in her mind.   
  > 她脑子里不断琢磨当天发生的事。
 
 - turn to 
-1. **转向；求助于：**  
+1.**转向；求助于：**  
  > Their talk turned to the change that had taken place in the city.   
  > 他们的话题转到了城市发生的变化。
 
@@ -5425,15 +5425,15 @@
  > 遇到困难请向警察求助。
 
 - turn up
-1. *高义频：* **开大；调高 (音量等)**  
+1.*高义频：* **开大；调高 (音量等)**  
  > Turn up the radio so that I can hear the program.  
  > 把收音机音量开大些，好让我听到这个节目。
 
-2. *高义频：* **(人) 到达；出现**  
+2.*高义频：* **(人) 到达；出现**  
  > He promised that he would come, but he hasn’t turned up yet.  
  > 他承诺会来，但还没出现。
 
-3. *高义频：* **(尤指失去后) 被发现：**  
+3.*高义频：* **(尤指失去后) 被发现：**  
  > Don’t worry about the letter — I’m sure it’ll turn up.  
  > 别为那封信担心，我相信会找到的。
 
@@ -5474,12 +5474,12 @@
 固定搭配
 ---
 - by turns
-1. **轮流；交替：**  
+1.**轮流；交替：**  
  > Leaving home for the first time he felt cheerful and sad by turns.   
  > 第一次离开家，他时而高兴时而悲伤。
 
 - in turn 
-1. **依次；反过来；转而：**  
+1.**依次；反过来；转而：**  
  > They answered the teacher’s questions in turn.   
  > 他们依次回答了老师的问题。
 
@@ -5487,7 +5487,7 @@
  > 顾客表扬了经理，经理转而表扬了员工。
 
 - take turns 
-1. **轮流；依次：**  
+1.**轮流；依次：**  
  > **took turns,in,driving**  
  > They took turns ( in ) driving.   
  > 他们轮流开车。
