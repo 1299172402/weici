@@ -1,6 +1,6 @@
 # Hh
 
-# ***ha*** int
+# *** *ha*** int
 英音 hɑː     美音 hɑ  
 
 | 词频 1 |  
@@ -10,7 +10,7 @@
 1.*高义频：* **[表示惊异、愉快、怀疑、胜利等] 嘿；哈；看；瞧**  
 
 
-# ***habit*** n
+# *** *habit*** n
 英音 'hæbɪt     美音 ˈhæbɪt  
 
 | 词频 5 | 口语 1 | 书面 1 |  
@@ -30,8 +30,7 @@
 
 固定搭配
 ---
-- be in the habit of / have a / the habit of
-1.**有…的习惯：**  
+## - *be in the habit of / have a / the habit of  **有…的习惯：**  
 
  > He's in the habit of getting up late on the weekend.  
  > 他有周末晚起的习惯。  
@@ -39,26 +38,22 @@
  > Do you have the habit of offering your seat to the old on the bus?  
  > 乘车时你有主动给老人让座的习惯吗？  
 
-- break / kick the habit of
-1.**改掉…的 (坏) 习惯：**  
+## - *break / kick the habit of  **改掉…的 (坏) 习惯：**  
 
  > He said he would try to break the habit of going to bed late.  
  > 他说他将设法改掉晚睡的习惯。  
 
-- develop / fall into / form / get in(to) the / a habit of
-1.**养成…的习惯：**  
+## - *develop / fall into / form / get in(to) the / a habit of  **养成…的习惯：**  
 
  > Don't fall into the bad habit of smoking.  
  > 别沾染上吸烟的坏习惯。  
 
-- get out of the habit of
-1.**改掉…的习惯：**  
+## - *get out of the habit of  **改掉…的习惯：**  
 
  > I've got out of the habit of taking a walk after dinner  
  > 我已经没有晚饭后散步的习惯了。  
 
-- out of habit
-1.**出于习惯：**  
+## - *out of habit  **出于习惯：**  
 
  > I only do it out of habit.  
  > 我这么做仅仅是出于习惯。  
@@ -68,14 +63,16 @@
 ---
 ##### 题目  
 Jeff has the ________(习惯) of listening to music while reading.   
+来源：2010 陕西  
 ##### 答案 habit  
   
 ##### 题目  
 I'm trying to ________ (改掉习惯) of getting up too late.  
+来源：2009 天津改  
 ##### 答案 break / kick the habit  
   
 
-# ***habitat*** n
+# *** *habitat*** n
 英音 ˈhæbɪtæt     美音 ˈhæbɪˌtæt  
 
 | 词频 3 | 阅读 2 |  
@@ -85,7 +82,7 @@ I'm trying to ________ (改掉习惯) of getting up too late.
 1.*高义频：* **[C] & [U] (动物) 栖息地；(植物) 生长地**  
 
 
-# ***hacker*** n
+# *** *hacker*** n
 英音 'hækə(r)     美音 'hækər  
 
 | 词频 1 |  
@@ -95,7 +92,7 @@ I'm trying to ________ (改掉习惯) of getting up too late.
 1.**电脑黑客**  
 
 
-# ***haiku*** n
+# *** *haiku*** n
 英音 'haɪkuː     美音 'haɪkuː  
 
 | 词频 1 |  
@@ -107,7 +104,7 @@ I'm trying to ________ (改掉习惯) of getting up too late.
 1.*高义频：* **俳句**  
 
 
-# ***hair*** n
+# *** *hair*** n
 英音 heə(r)     美音 her  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -132,7 +129,7 @@ Notes: hair作为不可数名词时，指“头发”这种物 质；作为可�
  > 她衣领上有两根白发。  
 
 
-# ***haircut*** n
+# *** *haircut*** n
 英音 'heəkʌt     美音 'herkʌt  
 
 | 词频 1 |  
@@ -153,7 +150,7 @@ Notes: hair作为不可数名词时，指“头发”这种物 质；作为可�
  > 你觉得我的新发型怎么样？  
 
 
-# ***hairdresser*** n
+# *** *hairdresser*** n
 英音 'heədresə(r)     美音 'herdresər  
 
 | 词频 1 |  
@@ -169,7 +166,7 @@ Notes: hair作为不可数名词时，指“头发”这种物 质；作为可�
  > 理发店；发廊  
 
 
-# ***hairpin*** n
+# *** *hairpin*** n
 英音 'heəpɪn     美音 'herpɪn  
 
 | 词频 1 |  
@@ -179,7 +176,7 @@ Notes: hair作为不可数名词时，指“头发”这种物 质；作为可�
 1.**发卡,发夹**  
 
 
-# ***hairstyle*** n
+# *** *hairstyle*** n
 英音 'heəstaɪl     美音 'herstaɪl  
 
 | 词频 1 |  
@@ -189,7 +186,7 @@ Notes: hair作为不可数名词时，指“头发”这种物 质；作为可�
 1.**发型**  
 
 
-# ***hairy*** adj
+# *** *hairy*** adj
 英音 'heəri     美音 'heri  
 
 | 词频 1 |  
@@ -199,7 +196,7 @@ Notes: hair作为不可数名词时，指“头发”这种物 质；作为可�
 1.**毛的；多毛的**  
 
 
-# ***half*** n
+# *** *half*** n
 英音 hɑːf     美音 hæf  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -227,7 +224,7 @@ Notes: hair作为不可数名词时，指“头发”这种物 质；作为可�
  > 上半场，法国队发挥得不错。  
 
 
-# ***half*** pron
+# *** *half*** pron
 英音 hɑːf     美音 hæf  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -248,7 +245,7 @@ Notes: hair作为不可数名词时，指“头发”这种物 质；作为可�
 
 Notes:  half of …，some of …，all of …，most of … 等作主语时，谓语动词的数与of后的词一致。  
 
-# ***half*** adj
+# *** *half*** adj
 英音 hɑːf     美音 hæf  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -267,7 +264,7 @@ Notes:  half of …，some of …，all of …，most of … 等作主语时，�
 
 Notes: half，all，both等作定语时，常位于定冠词或物主代词之前。  
 
-# ***half*** adv
+# *** *half*** adv
 英音 hɑːf     美音 hæf  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -287,7 +284,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
  > 工作不要半途而废。  
 
 
-# ***halfway*** adj
+# *** *halfway*** adj
 英音 ˌhɑːfˈweɪ     美音 hæfˈweɪ  
 
 | 词频 3 | 口语 1 |  
@@ -308,7 +305,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
  > 当我们的项目做到一半时，情况开始变得更加困难。  
 
 
-# ***halfway*** adv
+# *** *halfway*** adv
 英音 ˌhɑːfˈweɪ     美音 ˌhæfˈweɪ  
 
 | 词频 3 |  
@@ -329,7 +326,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
  > 在工作中建立良好的人际关系，你就成功了一半。  
 
 
-# ***hall*** n
+# *** *hall*** n
 英音 hɔːl     美音 hɔl  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -352,7 +349,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
  > 她跑进门厅，冲上楼梯。  
 
 
-# ***ham*** n
+# *** *ham*** n
 英音 hæm     美音 hæm  
 
 | 词频 1 |  
@@ -362,7 +359,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 1.*高义频：* **[C] & [U] 火腿**  
 
 
-# ***hamburger*** n
+# *** *hamburger*** n
 英音 ˈhæmbɜːɡə(r)     美音 ˈhæmbɜrɡər  
 
 | 词频 2 |  
@@ -372,7 +369,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 1.*高义频：* **[C] 汉堡包**  
 
 
-# ***hammer*** n
+# *** *hammer*** n
 英音 ˈhæmə(r)     美音 ˈhæmər  
 
 | 词频 2 |  
@@ -382,7 +379,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 1.*高义频：* **[C] 锤子；榔头**  
 
 
-# ***hammer*** v
+# *** *hammer*** v
 英音 ˈhæmə(r)     美音 ˈhæmər  
 
 | 词频 2 |  
@@ -396,7 +393,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
  > 他用锤子把钉子敲进木头里。  
 
 
-# ***hand*** n  重难点词汇
+# *** *hand*** n  重难点词汇
 英音 hænd     美音 hænd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -441,8 +438,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 
 固定搭配
 ---
-- at hand 
-1.**即将到来；在手边：**  
+## - *at hand   **即将到来；在手边：**  
 
  > The autumn harvest is at hand.  
  > 秋收在即。  
@@ -450,35 +446,30 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
  > You'd better keep a dictionary close at hand.  
  > 你最好在手边放本词典。  
 
-- by hand 
-1.**用手；靠人工：**  
+## - *by hand   **用手；靠人工：**  
 
  > With the coming of new technologies like computers and smartphones, writing by hand has become a thing of the past.  
  > 随着诸如计算机和智能手机等新技术的出现，手写已成为过去的事。  
  > 来源：2012 天津  
 
-- hand in hand 
-1.**手拉手；连在一起地；密切关联：**  
+## - *hand in hand   **手拉手；连在一起地；密切关联：**  
 
  > As the saying goes, success and failure always go hand in hand.   
  > 俗话说，成功与失败如影随形。  
  > 来源：2008 湖南  
 
-- in the hands of sb / in sb's hands
-1.**由某人照料 / 控制：**  
+## - *in the hands of sb / in sb's hands  **由某人照料 / 控制：**  
 
  > The matter is in the hands of the police.   
  > 这件事由警方在处理。  
 
-- on hand 
-1.**在手头；现有；在场；到场：**  
+## - *on hand   **在手头；现有；在场；到场：**  
 
  > Several former teachers were on hand to tell stories about the old days.  
  > 几位以前的教师在现场讲述过去的事情。  
  > 来源：2012 天津  
 
-- (on the one hand …) on the other (hand)
-1.**一方面…另一方面：**  
+## - *(on the one hand …) on the other (hand)  **一方面…另一方面：**  
 
  > On the one hand, computers improve the working efficiency; on the other hand, they also bring about some new problems.   
  > 一方面，计算机提高了人们的工作效率，另一方面，也引起了一些新的问题。  
@@ -488,10 +479,11 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 ---
 ##### 题目  
 Starting your own business could be a way to achieving financial independence. __________ (另一方面), it could just put you in debt.  
+来源：2014 江西改  
 ##### 答案 On the other (hand)  
   
 
-# ***hand*** vt  重难点词汇
+# *** *hand*** vt  重难点词汇
 英音 hænd     美音 hænd  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -507,32 +499,26 @@ Starting your own business could be a way to achieving financial independence. _
 
 固定搭配
 ---
-- hand around / round
-1.**分发**  
+## - *hand around / round  **分发**  
 
-- hand back
-1.**交回；归还**  
+## - *hand back  **交回；归还**  
 
-- hand down 
-1.**把…传下来 (pass down)：**  
+## - *hand down   **把…传下来 (pass down)：**  
 
  > This ring has been handed down in my family.   
  > 这枚戒指是我家祖传的。  
 
-- hand in 
-1.**提交；交上：**  
+## - *hand in   **提交；交上：**  
 
  > If you order your lunch at the school dining hall, please hand in your order before 9:30.  
  > 如果你要在学校餐厅订午餐，请在9:30前把订单交上来。  
 
-- hand out 
-1.**把…拿出来；分发 (distribute)：**  
+## - *hand out   **把…拿出来；分发 (distribute)：**  
 
  > Could you hand these books out, please?   
  > 请把这些书发给大家好吗？  
 
-- hand over 
-1.**移交；交出：**  
+## - *hand over   **移交；交出：**  
 
  > On his retirement, he handed the business over to his son.  
  > 他退休时把生意移交给了他的儿子。  
@@ -542,10 +528,11 @@ Starting your own business could be a way to achieving financial independence. _
 ---
 ##### 题目  
 It is certain that he will hand_________his business to his son when he gets old.  
+来源：2004 福建改  
 ##### 答案 over  
   
 
-# ***handbag*** n
+# *** *handbag*** n
 英音 'hændbæɡ     美音 'hændbæɡ  
 
 | 词频 2 | 口语 1 |  
@@ -555,7 +542,7 @@ It is certain that he will hand_________his business to his son when he gets old
 1.*高义频：* **(女用) 手提包 (AmE purse)**  
 
 
-# ***handclap*** n
+# *** *handclap*** n
 英音 'hændklæp     美音 'hændklæp  
 
 | 词频 1 |  
@@ -565,7 +552,7 @@ It is certain that he will hand_________his business to his son when he gets old
 1.**拍手**  
 
 
-# ***handful*** n
+# *** *handful*** n
 英音 'hændfʊl     美音 'hændfʊl  
 
 | 词频 1 |  
@@ -583,7 +570,7 @@ It is certain that he will hand_________his business to his son when he gets old
  > 三把豆子  
 
 
-# ***handkerchief*** n
+# *** *handkerchief*** n
 英音 'hæŋkətʃɪf     美音 'hæŋkərtʃɪf  
 
 | 词频 1 |  
@@ -593,7 +580,7 @@ It is certain that he will hand_________his business to his son when he gets old
 1.*高义频：* **手帕；纸巾**  
 
 
-# ***handle*** n
+# *** *handle*** n
 英音 'hændl     美音 'hændl  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -612,7 +599,7 @@ It is certain that he will hand_________his business to his son when he gets old
  > 转动门把手  
 
 
-# ***handle*** v
+# *** *handle*** v
 英音 'hændl     美音 'hændl  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -660,10 +647,11 @@ It is certain that he will hand_________his business to his son when he gets old
 ---
 ##### 题目  
 As nobody here knows what is wrong with the machine, we must send for an engineer to _________ (处理) the problem.  
+来源：2008 湖北改  
 ##### 答案 handle  
   
 
-# ***handshake*** n
+# *** *handshake*** n
 英音 'hændʃeɪk     美音 'hændʃeɪk  
 
 | 词频 2 |  
@@ -673,7 +661,7 @@ As nobody here knows what is wrong with the machine, we must send for an enginee
 1.*高义频：* **握手**  
 
 
-# ***handsome*** adj
+# *** *handsome*** adj
 英音 'hænsəm     美音 'hænsəm  
 
 | 词频 2 |  
@@ -694,7 +682,7 @@ As nobody here knows what is wrong with the machine, we must send for an enginee
  > 富丽堂皇的建筑物  
 
 
-# ***handwriting*** n
+# *** *handwriting*** n
 英音 'hændraɪtɪŋ     美音 'hændraɪtɪŋ  
 
 | 词频 3 |  
@@ -707,7 +695,7 @@ As nobody here knows what is wrong with the machine, we must send for an enginee
  > 他认出了信封上她的笔迹。  
 
 
-# ***handwritten*** adj
+# *** *handwritten*** adj
 英音 ˌhænd'rɪtn     美音 ˌhænd'rɪtn  
 
   
@@ -717,7 +705,7 @@ As nobody here knows what is wrong with the machine, we must send for an enginee
 1.**手写的**  
 
 
-# ***handy*** adj
+# *** *handy*** adj
 英音 'hændi     美音 'hændi  
 
 | 词频 1 | 口语 1 |  
@@ -746,7 +734,7 @@ As nobody here knows what is wrong with the machine, we must send for an enginee
  > 这房子离市场很近。  
 
 
-# ***hang*** v  重难点词汇
+# *** *hang*** v  重难点词汇
 英音 hæŋ     美音 hæŋ  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -775,20 +763,17 @@ As nobody here knows what is wrong with the machine, we must send for an enginee
 
 固定搭配
 ---
-- hang about / around
-1.**(在…附近) 闲逛；晃悠：**  
+## - *hang about / around  **(在…附近) 闲逛；晃悠：**  
 
  > There were some kids hanging about in the street.  
  > 街上有几个孩子在游荡。  
 
-- hang about / around with sb
-1.**与某人厮混；聚在一起：**  
+## - *hang about / around with sb  **与某人厮混；聚在一起：**  
 
  > The people I used to hang around with were much older than me.   
  > 以前和我一起混的人都比我年长许多。  
 
-- hang on 
-1.**抓紧不放；[非正式用语] 不要挂断(hold on)：**  
+## - *hang on   **抓紧不放；[非正式用语] 不要挂断(hold on)：**  
 
  > **Hang on to**  
  > Hang on to the rope and don't let go.  
@@ -797,8 +782,7 @@ As nobody here knows what is wrong with the machine, we must send for an enginee
  > Hang on — I'll just see if he's here.  
  > 别挂断，我这就去看看他在不在。  
 
-- hang out (with) 
-1.**常去某处；与…经常在一起：**  
+## - *hang out (with)   **常去某处；与…经常在一起：**  
 
  > — What were you doing last night?   
  > 你昨天晚上在干什么？  
@@ -806,14 +790,12 @@ As nobody here knows what is wrong with the machine, we must send for an enginee
  > — Nothing special. Just hung out with friends.  
  > 没什么，就是跟朋友在一起。  
 
-- hang over 
-1.**笼罩：**  
+## - *hang over   **笼罩：**  
 
  > The wet air forms clouds, which hang over the treetops like smoke.  
  > 湿气形成云，像烟雾一样笼罩在树梢。  
 
-- hang up
-1.**挂断 (电话)：**  
+## - *hang up  **挂断 (电话)：**  
 
  > Someone called me up just now, but he hung up before I could answer the phone.  
  > 刚才有人给我打电话，但我还没来得及接就挂断了。  
@@ -823,15 +805,17 @@ As nobody here knows what is wrong with the machine, we must send for an enginee
 ---
 ##### 题目  
 Many of his finest pictures are_________ (悬挂) in the national museum.   
+来源：2009 全国  
 ##### 答案 hung / hanging  
   
 ##### 题目  
 — Sorry, I have to _________ (挂断电话) now. It's time for class.
 — OK, I'll call back later.  
+来源：2009 天津改  
 ##### 答案 hang up  
   
 
-# ***happen*** vi
+# *** *happen*** vi
 英音 'hæpən     美音 'hæpən  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -866,8 +850,7 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
  > Do you happen to know what's on after the news?  
  > 你知道新闻之后是什么节目吗？  
 
-- it (so) happens that / as it happens
-1.**碰巧；恰好：**  
+## - *it (so) happens that / as it happens  **碰巧；恰好：**  
 
  > It so happened that I was out when he came. / As it happened, I was out when he came.  
  > 他来的时候碰巧我出去了。  
@@ -875,7 +858,7 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
 ### 辨析 happen, take place
 二者都可指“发生”。  
 
-# ***happening*** n
+# *** *happening*** n
 英音 'hæpənɪŋ     美音 'hæpənɪŋ  
 
 | 词频 4 | 阅读 3 |  
@@ -892,7 +875,7 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
  > 怪/不寻常的事  
 
 
-# ***happiness*** n
+# *** *happiness*** n
 英音 'hæpinəs     美音 'hæpinəs  
 
 | 词频 4 |  
@@ -907,7 +890,7 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
  > 金钱并不总是带来快乐。  
 
 
-# ***happy*** adj
+# *** *happy*** adj
 英音 'hæpi     美音 'hæpi  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -915,6 +898,10 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
 英文释义
 ---
 1.*高义频：* **幸福的；高兴的；快乐的：**  
+
+ > **happy ending**  
+ > a happy ending   
+ > 圆满的结局  
 
 - (be) happy to do sth
 
@@ -932,10 +919,6 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
  > 我很高兴为妈妈做了点事情。  
  > 来源：2013 北京书面表达  
 
- > **happy ending**  
- > a happy ending   
- > 圆满的结局  
-
 2.*高义频：* **满意的：**  
 
 - (be) happy with / about sb / sth:
@@ -949,7 +932,7 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
 ---
  happily  /'hæpɪli/ adv   
 
-# ***harbo(u)r*** n
+# *** *harbo(u)r*** n
 英音 'hɑːbə(r)     美音 'hɑːrbər  
 
 | 词频 2 |  
@@ -961,7 +944,7 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
 1.*高义频：* **海港；港湾**  
 
 
-# ***hard*** adj
+# *** *hard*** adj
 英音 hɑːd     美音 hɑːrd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1049,11 +1032,10 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
 
 固定搭配
 ---
-- hard facts 
-1.**确切的证据**  
+## - *hard facts   **确切的证据**  
 
 
-# ***hard*** adv
+# *** *hard*** adv
 英音 hɑːd     美音 hɑːrd  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -1076,7 +1058,7 @@ Many of his finest pictures are_________ (悬挂) in the national museum.
 ---
 harden /'hɑːdn/ v   
 
-# ***harden*** v
+# *** *harden*** v
 美音 'hɑːrdn  
 
   
@@ -1086,7 +1068,7 @@ harden /'hɑːdn/ v
 1.**（使）变硬；（使）坚强**  
 
 
-# ***hardly*** adv  重难点词汇
+# *** *hardly*** adv  重难点词汇
 英音 'hɑːdli     美音 'hɑːrdli  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -1109,8 +1091,7 @@ harden /'hɑːdn/ v
 
 固定搭配
 ---
-- hardly ever 
-1.**很少；几乎从不 (almost never)：**  
+## - *hardly ever   **很少；几乎从不 (almost never)：**  
 
  > — Sometimes I think you watch too much TV.   
  > 有时我觉得你看电视太多了。  
@@ -1118,8 +1099,7 @@ harden /'hɑːdn/ v
  > — Oh I hardly ever watch TV.  
  > 哦，我很少看电视  
 
-- hardly … when / before
-1.**刚…就：**  
+## - *hardly … when / before  **刚…就：**  
 
  > The girl had hardly rung the bell before the door was opened suddenly.  
  > 女孩刚要按门铃，门突然开了。  
@@ -1139,14 +1119,16 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 ---
 ##### 题目  
 I had hardly got to the office________my wife phoned me to go back home at once.   
+来源：2012 全国改  
 ##### 答案 when  
   
 ##### 题目  
 I must be getting fat — I can hard do my trousers up.  
+来源：2004 全国 改错  
 ##### 答案 hard → hardly  
   
 
-# ***hardship*** n
+# *** *hardship*** n
 英音 'hɑːdʃɪp     美音 'hɑːrdʃɪp  
 
 | 词频 2 |  
@@ -1165,7 +1147,7 @@ I must be getting fat — I can hard do my trousers up.
  > 来源：2013 福建  
 
 
-# ***hardware*** n
+# *** *hardware*** n
 英音 'hɑːdweə(r)     美音 'hɑːrdwer  
 
 | 词频 2 | 阅读 1 |  
@@ -1177,7 +1159,7 @@ I must be getting fat — I can hard do my trousers up.
 1.*高义频：* **(计算机) 硬件；五金制品**  
 
 
-# ***hardworking*** adj
+# *** *hardworking*** adj
 英音 hɑːd'wɜːkɪŋ     美音 'hɑːd'wɜːkɪŋ  
 
 | 词频 2 |  
@@ -1194,10 +1176,11 @@ I must be getting fat — I can hard do my trousers up.
 ---
 ##### 题目  
 My brother is really ________ (勤奋). He often works in his office far into the night.   
+来源：2008 天津改  
 ##### 答案 hard-working  
   
 
-# ***harm*** n
+# *** *harm*** n
 英音 hɑːm     美音 hɑːrm  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -1215,14 +1198,13 @@ My brother is really ________ (勤奋). He often works in his office far into th
 
 固定搭配
 ---
-- do harm to / do ... harm 
-1.**伤害；对…有害：**  
+## - *do harm to / do ... harm   **伤害；对…有害：**  
 
  > Too much drinking will do great harm to you. / Too much drinking will do you great harm.  
  > 饮酒过量危害甚大。  
 
 
-# ***harm*** vt
+# *** *harm*** vt
 英音 hɑːrm     美音 hɑːrm  
 
 | 词频 4 |  
@@ -1243,7 +1225,7 @@ My brother is really ________ (勤奋). He often works in his office far into th
 ---
 harmless /'hɑːmləs/ adj   
 
-# ***harmful*** adj
+# *** *harmful*** adj
 英音 'hɑːmfl     美音 'hɑːrmfl  
 
 | 词频 4 | 阅读 3 |  
@@ -1262,7 +1244,7 @@ harmless /'hɑːmləs/ adj
  > 来源：北师大④ – 11  
 
 
-# ***harmonica*** n
+# *** *harmonica*** n
 英音 hɑː'mɒnɪkə     美音 hɑːr'mɑːnɪkə  
 
 | 词频 1 |  
@@ -1272,7 +1254,7 @@ harmless /'hɑːmləs/ adj
 1.**口琴**  
 
 
-# ***harmony*** n
+# *** *harmony*** n
 英音 'hɑːməni     美音 ˈhɑːrməni  
 
 | 词频 2 | 阅读 2 |  
@@ -1299,10 +1281,11 @@ harmless /'hɑːmləs/ adj
 ---
 ##### 题目  
 Human life is regarded as part of nature and, as such, the only way for us to survive is to live________ (与…协调) nature.  
+来源：2015 福建改  
 ##### 答案 in harmony with  
   
 
-# ***harness*** vt
+# *** *harness*** vt
 英音 'hɑːnɪs     美音 'hɑːrnɪs  
 
 | 词频 2 |  
@@ -1312,7 +1295,7 @@ Human life is regarded as part of nature and, as such, the only way for us to su
 1.**利用; 将 (自然力) 变成动力**  
 
 
-# ***harp*** n
+# *** *harp*** n
 英音 hɑːp     美音 hɑːrp  
 
 | 词频 1 |  
@@ -1322,7 +1305,7 @@ Human life is regarded as part of nature and, as such, the only way for us to su
 1.**竖琴**  
 
 
-# ***harpoon*** n
+# *** *harpoon*** n
 英音 hɑː'puːn     美音 hɑːr'puːn  
 
 | 词频 1 |  
@@ -1334,7 +1317,7 @@ Human life is regarded as part of nature and, as such, the only way for us to su
 1.*高义频：* **(捕鲸用的) 鱼叉**  
 
 
-# ***harsh*** adj
+# *** *harsh*** adj
 英音 hɑːʃ     美音 hɑːrʃ  
 
 | 词频 1 |  
@@ -1344,7 +1327,7 @@ Human life is regarded as part of nature and, as such, the only way for us to su
 1.**刺耳的, 刺眼的**  
 
 
-# ***harvest*** n
+# *** *harvest*** n
 英音 'hɑːvɪst     美音 'hɑːrvɪst  
 
 | 词频 3 |  
@@ -1371,10 +1354,11 @@ Human life is regarded as part of nature and, as such, the only way for us to su
 ---
 ##### 题目  
 Farmers are reporting a very big ________(收成) this year.   
+来源：2009 全国  
 ##### 答案 harvest  
   
 
-# ***harvest*** v
+# *** *harvest*** v
 英音 'hɑːrvɪst     美音 'hɑːrvɪst  
 
 | 词频 3 |  
@@ -1396,7 +1380,7 @@ Farmers are reporting a very big ________(收成) this year.
  > 来源：2016 全国  
 
 
-# ***hat*** n
+# *** *hat*** n
 英音 hæt     美音 hæt  
 
 | 词频 4 | 口语 3 | 书面 1 |  
@@ -1408,7 +1392,7 @@ Farmers are reporting a very big ________(收成) this year.
 1.*高义频：* **(有檐的) 帽子**  
 
 
-# ***hatch*** v
+# *** *hatch*** v
 英音 hætʃ     美音 hætʃ  
 
 | 词频 3 |  
@@ -1424,7 +1408,7 @@ Farmers are reporting a very big ________(收成) this year.
  > 不要高兴得太早。  
 
 
-# ***hate*** vt
+# *** *hate*** vt
 英音 heɪt     美音 heɪt  
 
 | 词频 4 | 口语 3 | 书面 1 |  
@@ -1432,6 +1416,13 @@ Farmers are reporting a very big ________(收成) this year.
 英文释义
 ---
 1.*高义频：* **[不用于进行时]讨厌；不喜欢；憎恨：**  
+
+ > You know how I hate the traffic jam!   
+ > 你知道我多么讨厌交通堵塞！  
+
+ > **hate it when**  
+ > People hate it when you don't say what you mean.  
+ > 人们厌恶口是心非。  
 
 - hate doing / to do sth:
 
@@ -1448,23 +1439,17 @@ Farmers are reporting a very big ________(收成) this year.
  > I really hate to go / going to the gym alone.  
  > 我真的很讨厌一个人去健身房。  
 
- > You know how I hate the traffic jam!   
- > 你知道我多么讨厌交通堵塞！  
-
- > **hate it when**  
- > People hate it when you don't say what you mean.  
- > 人们厌恶口是心非。  
-
 
 真题解析
 ---
 ##### 题目  
 — Ken, I ________ (不愿这么说), but your TV is going too loud.
 — Oh, I'm sorry. I'll turn it down right now.   
+来源：2009 重庆改  
 ##### 答案 hate to say this / it  
   
 
-# ***hate*** n
+# *** *hate*** n
 英音 heɪt     美音 heɪt  
 
 | 词频 4 | 口语 3 | 书面 1 |  
@@ -1480,7 +1465,7 @@ Farmers are reporting a very big ________(收成) this year.
  > 来源：2011 江苏改  
 
 
-# ***hatred*** n
+# *** *hatred*** n
 英音 'heɪtrɪd     美音 'heɪtrɪd  
 
 | 词频 1 |  
@@ -1497,7 +1482,7 @@ Farmers are reporting a very big ________(收成) this year.
  > 来源： 人教⑦ – 2  
 
 
-# ***have*** vt  重难点词汇
+# *** *have*** vt  重难点词汇
 英音 həv     美音 həv  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1591,8 +1576,7 @@ Farmers are reporting a very big ________(收成) this year.
 
 固定搭配
 ---
-- have ... on
-1.**[不用于进行时] 穿着；戴着；安排：**  
+## - *have ... on  **[不用于进行时] 穿着；戴着；安排：**  
 
  > The emperor had nothing on.   
  > 皇帝什么都没穿。  
@@ -1600,8 +1584,7 @@ Farmers are reporting a very big ________(收成) this year.
  > Have you anything on this afternoon?  
  > 你下午有事吗？  
 
-- have to
-1.*高义频：* **[口语中用 have got to, 或缩写成've got to] 必须；不得不：**  
+## - *have to  *高义频：* **[口语中用 have got to, 或缩写成've got to] 必须；不得不：**  
 
  > I've got to prepare for the chemistry test this week.  
  > 这个星期我得准备化学考试。  
@@ -1611,23 +1594,27 @@ Farmers are reporting a very big ________(收成) this year.
 ---
 ##### 题目  
 In art criticism, you must assume the artist has a secret message ________ (hide) within the work.  
+来源：2016 江苏改  
 ##### 答案 hidden  
   
 ##### 题目  
 It is lucky we booked a room, or we________(have) nowhere to stay now.  
+来源：2015 安徽改  
 ##### 答案 would have  
   
 ##### 题目  
 Claire had her luggage ________ (check) an hour before her plane left.  
 C.   
+来源：2011 陕西改  
 ##### 答案 checked  
   
 ##### 题目  
 Could you please tell me where you bought the shoes you had ________yesterday?  
+来源：2005 辽宁改  
 ##### 答案 on  
   
 
-# ***have*** aux v  重难点词汇
+# *** *have*** aux v  重难点词汇
 英音 həv     美音 həv  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1653,10 +1640,11 @@ Could you please tell me where you bought the shoes you had ________yesterday?
 ---
 ##### 题目  
 It might have saved me some trouble ________ (如果我知道) the schedule.  
+来源：2015 江苏改  
 ##### 答案 had I known / if I had known  
   
 
-# ***he*** pron
+# *** *he*** pron
 英音 hi:     美音 hi:  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1685,7 +1673,7 @@ It might have saved me some trouble ________ (如果我知道) the schedule.
  > 每个人都尽了力。  
 
 
-# ***head*** n
+# *** *head*** n
 英音 hed     美音 hed  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1742,17 +1730,15 @@ Notes: 表示牲畜的头数时，单复数同形，都用head。
 
 固定搭配
 ---
-- hold one's head high
-1.*高义频：* **昂首；趾高气扬：**  
+## - *hold one's head high  *高义频：* **昂首；趾高气扬：**  
 
  > Don't hold your head too high.  
  > 不要太趾高气扬。  
 
-- off the top of one's head
-1.**不假思索的；即兴的**  
+## - *off the top of one's head  **不假思索的；即兴的**  
 
 
-# ***head*** v
+# *** *head*** v
 英音 hed     美音 hed  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -1778,8 +1764,7 @@ Notes: 表示牲畜的头数时，单复数同形，都用head。
 
 固定搭配
 ---
-- head for 
-1.**朝…方向走：**  
+## - *head for   **朝…方向走：**  
 
  > After the game, the fans headed for the exit.   
  > 比赛结束后，球迷们朝出口走去。  
@@ -1790,7 +1775,7 @@ Notes: 表示牲畜的头数时，单复数同形，都用head。
 ---
 heading /'hedɪŋ/ n [C]  
 
-# ***headache*** n
+# *** *headache*** n
 英音 'hedeɪk     美音 'hedeɪk  
 
 | 词频 3 |  
@@ -1810,7 +1795,7 @@ heading /'hedɪŋ/ n [C]
  > 来源：北师大⑤ – 13  
 
 
-# ***heading*** n
+# *** *heading*** n
 英音 'hedɪŋ     美音 'hedɪŋ  
 
 | 词频 3 |  
@@ -1822,7 +1807,7 @@ heading /'hedɪŋ/ n [C]
 1.*高义频：* **标题**  
 
 
-# ***headline*** n
+# *** *headline*** n
 英音 'hedlaɪn     美音 'hedlaɪn  
 
 | 词频 1 |  
@@ -1834,7 +1819,7 @@ heading /'hedɪŋ/ n [C]
 1.*高义频：* **(报纸的) 标题；[the headlines] 新闻提要**  
 
 
-# ***headmaster*** n
+# *** *headmaster*** n
 英音 ˌhed'mɑːstə(r)     美音 ˌhed'mæstər  
 
 | 词频 4 |  
@@ -1846,7 +1831,7 @@ heading /'hedɪŋ/ n [C]
 1.*高义频：* **(中小学)校长 (AmE principal)**  
 
 
-# ***headmistress*** n
+# *** *headmistress*** n
 英音 'hed'mɪstrɪs     美音 'hed'mɪstrɪs  
 
 | 词频 1 |  
@@ -1858,7 +1843,7 @@ heading /'hedɪŋ/ n [C]
 1.*高义频：* **(中小学)女校长 (AmE principal)**  
 
 
-# ***headphone*** n
+# *** *headphone*** n
 英音 'hedfəʊn     美音 'hedfoʊn  
 
 | 词频 1 |  
@@ -1868,7 +1853,7 @@ heading /'hedɪŋ/ n [C]
 1.**头戴式受话机, 耳机**  
 
 
-# ***headquarters*** n
+# *** *headquarters*** n
 英音 ˌhed'kwɔːtəz     美音 'hedkwɔːrtərz  
 
 | 词频 1 |  
@@ -1880,7 +1865,7 @@ heading /'hedɪŋ/ n [C]
 1.*高义频：* **司令部；总部**  
 
 
-# ***headset*** n
+# *** *headset*** n
 英音 'hedset     美音 'hedset  
 
 | 词频 2 |  
@@ -1890,7 +1875,7 @@ heading /'hedɪŋ/ n [C]
 1.**头戴式耳机**  
 
 
-# ***headteacher*** n
+# *** *headteacher*** n
 英音 hed'tiːtʃər     美音 hed'tiːtʃər  
 
 | 词频 1 |  
@@ -1902,7 +1887,7 @@ heading /'hedɪŋ/ n [C]
 1.*高义频：* **(BrE) 校长**  
 
 
-# ***heal*** v
+# *** *heal*** v
 英音 hiːl     美音 hiːl  
 
 | 词频 2 | 阅读 1 |  
@@ -1917,11 +1902,10 @@ heading /'hedɪŋ/ n [C]
 
 固定搭配
 ---
-- heal over / up
-1.**愈合；痊愈**  
+## - *heal over / up  **愈合；痊愈**  
 
 
-# ***health*** n
+# *** *health*** n
 英音 helθ     美音 helθ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1946,8 +1930,7 @@ heading /'hedɪŋ/ n [C]
 
 固定搭配
 ---
-- (be) in good / poor health
-1.**身体好 / 差：**  
+## - *(be) in good / poor health  **身体好 / 差：**  
 
  > You must be in good health and prepared to go through a period of body exercises.  
  > 你的身体一定要健康，而且要做好准备来经受一段时间的锻炼。  
@@ -1957,7 +1940,7 @@ heading /'hedɪŋ/ n [C]
  > 我爷爷78岁了，身体不太好。  
 
 
-# ***healthy*** adj
+# *** *healthy*** adj
 英音 'helθi     美音 'helθi  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -1976,7 +1959,7 @@ heading /'hedɪŋ/ n [C]
  > 他开始吃健康均衡的膳食。  
 
 
-# ***hear*** v  重难点词汇
+# *** *hear*** v  重难点词汇
 英音 hɪə(r)     美音 hɪr  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1986,6 +1969,9 @@ heading /'hedɪŋ/ n [C]
 英文释义
 ---
 1.*高义频：* **vt & vi [不用于进行时] 听见；听到：**  
+
+ > How can you hear if you are not listening?  
+ > 你不听怎么能听得到呢？  
 
 - hear sb / sth do sth:
 
@@ -2005,10 +1991,10 @@ heading /'hedɪŋ/ n [C]
  > He heard his name called.  
  > 他听到有人叫自己的名字。  
 
- > How can you hear if you are not listening?  
- > 你不听怎么能听得到呢？  
-
 2.*高义频：* **vi & vt [通常不用于进行时] 听说；闻知：**  
+
+ > I was delighted to hear your good news.  
+ > 听到你的好消息我很高兴。  
 
 - hear + (that) 从句：
 
@@ -2017,9 +2003,6 @@ heading /'hedɪŋ/ n [C]
 
  > Have you heard that his house was broken into last night?  
  > 昨晚小偷进了他家，你听说了吗？  
-
- > I was delighted to hear your good news.  
- > 听到你的好消息我很高兴。  
 
 3.*高义频：* **vt [不用于进行时] (注意) 听；倾听；听取：**  
 
@@ -2036,8 +2019,7 @@ Notes: hear强调听的结果，listen强调听的动作。如：
 
 固定搭配
 ---
-- hear about
-1.**听说 (…的情况)：**  
+## - *hear about  **听说 (…的情况)：**  
 
  > I've just heard about his illness.  
  > 我刚听说他生病了。  
@@ -2046,8 +2028,7 @@ Notes: hear强调听的结果，listen强调听的动作。如：
  > 只要一听到“无家可归者”，我们中的大多数人就会想到第三世界。  
  > 来源：2012 山东  
 
-- hear from
-1.**接到…的来信 / 电话：**  
+## - *hear from  **接到…的来信 / 电话：**  
 
  > Hope to hear from you soon.  
  > 希望尽快收到你的来信。  
@@ -2056,8 +2037,7 @@ Notes: hear强调听的结果，listen强调听的动作。如：
  > He has not been heard from for a long time.  
  > 好久没有收到他的来信了。  
 
-- hear of
-1.**听说：**  
+## - *hear of  **听说：**  
 
  > I don't know him, but I have heard of him.  
  > 我不认识他，但听说过他。  
@@ -2070,15 +2050,17 @@ Notes: hear强调听的结果，listen强调听的动作。如：
 ---
 ##### 题目  
 Listen! Do you hear someone________ (call) for help?  
+来源：2010 湖南改  
 ##### 答案 calling  
   
 ##### 题目  
 — When did you last hear ________ Jay?
 —  He phoned me this morning, and we agreed ________ a time and place to meet.  
+来源：2008 湖南改  
 ##### 答案 from; on  
   
 
-# ***hearing*** n
+# *** *hearing*** n
 英音 'hɪərɪŋ     美音 'hɪrɪŋ  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -2101,7 +2083,7 @@ Listen! Do you hear someone________ (call) for help?
  > 请保持在相互能听得到的范围内。  
 
 
-# ***heart*** n
+# *** *heart*** n
 英音 hɑːt     美音 hɑːrt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2155,33 +2137,28 @@ Listen! Do you hear someone________ (call) for help?
 
 固定搭配
 ---
-- at heart
-1.**本质上；心底里：**  
+## - *at heart  **本质上；心底里：**  
 
  > At heart, every child wants to grow into a happy, healthy, contributing adult.  
  > 每个孩子在内心都想长大成为一个快乐、健康、有所贡献的成年人。  
  > 来源：2014 安徽  
 
-- break sb's heart
-1.**使某人伤心：**  
+## - *break sb's heart  **使某人伤心：**  
 
  > You really broke her heart by saying that.  
  > 你那样说真伤她的心。  
 
-- by heart
-1.**默记；背诵：**  
+## - *by heart  **默记；背诵：**  
 
  > It's no use learning the text by heart without understanding it.  
  > 背诵课文而不理解其意思是没有用的。  
 
-- heart and soul
-1.**全心全意地：**  
+## - *heart and soul  **全心全意地：**  
 
  > She loves those children heart and soul.  
  > 她全心全意地爱着那些孩子。  
 
-- lose heart
-1.**灰心：**  
+## - *lose heart  **灰心：**  
 
  > Don't lose heart, whatever happens.  
  > 无论发生什么事，都不要灰心。  
@@ -2195,10 +2172,11 @@ hearty /'hɑːti/ adj
 ---
 ##### 题目  
 No matter what you do, you should ________ (用心于) it.  
+来源：2001 上海春改  
 ##### 答案 put your heart into  
   
 
-# ***heartbeat*** n
+# *** *heartbeat*** n
 英音 'hɑːtbiːt     美音 'hɑːrtbiːt  
 
 | 词频 2 |  
@@ -2208,7 +2186,7 @@ No matter what you do, you should ________ (用心于) it.
 1.**心跳**  
 
 
-# ***heartily*** adv
+# *** *heartily*** adv
 英音 'hɑːtɪli     美音 'hɑːrtɪli  
 
 | 词频 1 |  
@@ -2218,7 +2196,7 @@ No matter what you do, you should ________ (用心于) it.
 1.*高义频：* **尽情地；热心地；痛快地**  
 
 
-# ***heat*** n
+# *** *heat*** n
 英音 hiːt     美音 hiːt  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -2253,7 +2231,7 @@ No matter what you do, you should ________ (用心于) it.
  > 暖气没有开，房子里冰冷。  
 
 
-# ***heat*** v
+# *** *heat*** v
 英音 hiːt     美音 hiːt  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -2268,8 +2246,7 @@ No matter what you do, you should ________ (用心于) it.
 
 固定搭配
 ---
-- heat up
-1.**加热 (warm up)；变得激烈：**  
+## - *heat up  **加热 (warm up)；变得激烈：**  
 
  > You can try heating up last night's leftovers.  
  > 你可以试着热一下昨晚的剩菜。  
@@ -2283,7 +2260,7 @@ No matter what you do, you should ________ (用心于) it.
 ---
 heater /heater/ n [C]   
 
-# ***heated*** adj
+# *** *heated*** adj
 英音 'hiːtɪd     美音 'hiːtɪd  
 
 | 词频 2 |  
@@ -2296,7 +2273,7 @@ heater /heater/ n [C]
  > 激烈的辩论/讨论  
 
 
-# ***heather*** n
+# *** *heather*** n
 英音 'heðə(r)     美音 'heðər  
 
 | 词频 1 |  
@@ -2306,7 +2283,7 @@ heater /heater/ n [C]
 1.**石南属植物**  
 
 
-# ***heating*** n
+# *** *heating*** n
 英音 'hiːtɪŋ     美音 'hiːtɪŋ  
 
 | 词频 1 | 口语 2 |  
@@ -2319,7 +2296,7 @@ heater /heater/ n [C]
  > 中央供暖系统  
 
 
-# ***heating*** adj
+# *** *heating*** adj
 英音 'hiːtɪŋ     美音 'hiːtɪŋ  
 
 | 词频 1 | 口语 1 |  
@@ -2329,7 +2306,7 @@ heater /heater/ n [C]
 1.*高义频：* **加热的；供暖的**  
 
 
-# ***heaven*** n
+# *** *heaven*** n
 英音 'hevn     美音 'hevn  
 
 | 词频 2 | 口语 1 |  
@@ -2350,7 +2327,7 @@ heater /heater/ n [C]
  > 天啊！/天知道！  
 
 
-# ***heavily*** adv
+# *** *heavily*** adv
 英音 'hevɪli     美音 'hevɪli  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -2372,10 +2349,11 @@ heater /heater/ n [C]
 ---
 ##### 题目  
 Mr Smith used to smoke ________ (heavy) but he has given it up.  
+来源：2004 天津改  
 ##### 答案 heavily  
   
 
-# ***heavy*** adj
+# *** *heavy*** adj
 英音 'hevi     美音 'hevi  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2449,15 +2427,14 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 
 固定搭配
 ---
-- be heavy with sth
-1.**充满 / 满载某物：**  
+## - *be heavy with sth  **充满 / 满载某物：**  
 
  > Every hill was heavy with the past.  
  > 每座小山都承载着过往。  
  > 来源：外研④-5  
 
 
-# ***heavyweight*** n
+# *** *heavyweight*** n
 英音 'heviweɪt     美音 'heviweɪt  
 
 | 词频 1 |  
@@ -2467,7 +2444,7 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 1.**重量级拳击手；有影响力的人或事物**  
 
 
-# ***hectare*** n
+# *** *hectare*** n
 英音 'hekteə(r)     美音 'hekter  
 
 | 词频 1 |  
@@ -2479,7 +2456,7 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 1.*高义频：* **公顷**  
 
 
-# ***hedge*** n
+# *** *hedge*** n
 英音 hedʒ     美音 hedʒ  
 
 | 词频 1 |  
@@ -2489,7 +2466,7 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 1.**灌木（或小树）树篱**  
 
 
-# ***heel*** n
+# *** *heel*** n
 英音 hiːl     美音 hiːl  
 
 | 词频 1 |  
@@ -2503,11 +2480,10 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 
 固定搭配
 ---
-- Achilles' heel
-1.**致命弱点；死穴**  
+## - *Achilles' heel  **致命弱点；死穴**  
 
 
-# ***height*** n
+# *** *height*** n
 英音 haɪt     美音 haɪt  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -2527,7 +2503,7 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
  > 他正处于事业的巅峰。  
 
 
-# ***helicopter*** n
+# *** *helicopter*** n
 英音 'helɪkɒptə(r)     美音 'helɪkɑːptər  
 
 | 词频 1 |  
@@ -2539,7 +2515,7 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 1.*高义频：* **直升机**  
 
 
-# ***hell*** n
+# *** *hell*** n
 英音 hel     美音 hel  
 
 | 词频 1 | 口语 3 | 书面 1 |  
@@ -2558,7 +2534,7 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
  > 费尽心机保守这个秘密这么久，真是不容易。  
 
 
-# ***hello*** int
+# *** *hello*** int
 英音 hə'ləʊ     美音 hə'ləʊ  
 
 | 词频 5 | 口语 3 |  
@@ -2568,7 +2544,7 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 1.*高义频：* **喂；你好**  
 
 
-# ***hello*** n
+# *** *hello*** n
 英音 hə'ləʊ     美音 hə'ləʊ  
 
 | 词频 5 | 口语 3 |  
@@ -2582,7 +2558,7 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
  > 我们开车过去向他问好吧。  
 
 
-# ***helmet*** n
+# *** *helmet*** n
 英音 'helmɪt     美音 'helmɪt  
 
 | 词频 2 |  
@@ -2594,7 +2570,7 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 1.*高义频：* **头盔；钢盔**  
 
 
-# ***help*** v  重难点词汇
+# *** *help*** v  重难点词汇
 英音 help     美音 help  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2602,6 +2578,10 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 英文释义
 ---
 1.*高义频：* **帮助；援助：**  
+
+ > It is nice to help people in need of help.  
+ > 帮助需要帮助的人是善举。  
+ > 来源：人教④ – 2  
 
 - help (sb) with sth:
 
@@ -2637,13 +2617,15 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
  > She often helps old people across the street.  
  > 她常常搀扶老人过街。  
 
- > It is nice to help people in need of help.  
- > 帮助需要帮助的人是善举。  
- > 来源：人教④ – 2  
-
 ### 辨析 assist, help, aid
 三者都有“帮助”之意，但侧重点有所不同。  
 2.*高义频：* **有用；有助于；促使：**  
+
+ > Crying won't help you.  
+ > 你哭也没有用。  
+
+ > Every little helps.  
+ > 滴水成川。/积少成多。  
 
 - help (to) do sth:
 
@@ -2658,12 +2640,6 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
  > It won't help you to do such a thing.  
  > 做这种事对你无益。  
 
- > Crying won't help you.  
- > 你哭也没有用。  
-
- > Every little helps.  
- > 滴水成川。/积少成多。  
-
 3.*低义频：* **避免；阻止：**  
 
  > I can't help it if it rains.  
@@ -2672,8 +2648,7 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
 
 固定搭配
 ---
-- can't help (doing) sth / can't help but do sth
-1.**忍不住做某事：**  
+## - *can't help (doing) sth / can't help but do sth  **忍不住做某事：**  
 
  > I can't help feeling that there has been a mistake.  
  > 我不由自主地觉得什么地方出错了。  
@@ -2682,8 +2657,7 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
  > 一天晚上，我握着父亲的双手，不禁注意到这双手很粗糙。  
  > 来源：2013 天津改  
 
-- help oneself (to)
-1.**自用 (食物等)；[非正式用语]偷取：**  
+## - *help oneself (to)  **自用 (食物等)；[非正式用语]偷取：**  
 
  > Help yourself to all you wish.  
  > 请随便吃。  
@@ -2697,8 +2671,7 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
  > He had been helping himself to the money in the drawer.  
  > 他一直在偷拿抽屉中的钱。  
 
-- help (...) out
-1.**帮助 (…) 摆脱困境；帮 (…) 分担工作：**  
+## - *help (...) out  **帮助 (…) 摆脱困境；帮 (…) 分担工作：**  
 
  > Please help me out with this problem.  
  > 请帮我解决这个问题。  
@@ -2709,8 +2682,7 @@ Mr Smith used to smoke ________ (heavy) but he has given it up.
  > I helped out at my father's offi ce last year.  
  > 去年我在父亲的办公室里帮忙。  
 
-- it can't be helped
-1.**[口语] 无法避免；没办法：**  
+## - *it can't be helped  **[口语] 无法避免；没办法：**  
 
  > She said she had to leave him for a while; it couldn't be helped.  
  > 她说自己不得不暂时离开他，那是没办法的事。  
@@ -2724,15 +2696,17 @@ A.check
 B.allow  
 C.stop  
 D.help  
+来源：2013 全国  
 ##### 答案 D  
   
 ##### 题目  
 — Do you think I could borrow your bicycle?
 — Yes, ______ (用吧).  
+来源：2005 浙江改  
 ##### 答案 help yourself  
   
 
-# ***help*** n  重难点词汇
+# *** *help*** n  重难点词汇
 英音 help     美音 help  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2770,8 +2744,7 @@ D.help
 
 固定搭配
 ---
-- (be) of … help
-1.**有…帮助的：**  
+## - *(be) of … help  **有…帮助的：**  
 
  > **of help**  
  > This dictionary is of great help to me.  
@@ -2785,15 +2758,14 @@ D.help
  > I'm glad I could be of some help.  
  > 很高兴我能帮上忙。  
 
-- with sb's help / with the help of sb
-1.**在某人的帮助下；借助某人：**  
+## - *with sb's help / with the help of sb  **在某人的帮助下；借助某人：**  
 
  > With their help, I have made great progress.  
  > 在他们的帮助下，我取得了很大进步。  
  > 来源：2009 福建书面表达  
 
 
-# ***helper*** n
+# *** *helper*** n
 英音 'helpə(r)     美音 'helpər  
 
 | 词频 2 |  
@@ -2803,7 +2775,7 @@ D.help
 1.**帮助者**  
 
 
-# ***helpful*** adj
+# *** *helpful*** adj
 英音 'helpfl     美音 'helpfl  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -2823,7 +2795,7 @@ D.help
  > 来源：2014 安徽书面表达  
 
 
-# ***helpless*** adj
+# *** *helpless*** adj
 英音 'helpləs     美音 'helpləs  
 
 | 词频 3 |  
@@ -2839,7 +2811,7 @@ D.help
  > 无依无靠的孩子  
 
 
-# ***hen*** n
+# *** *hen*** n
 英音 hen     美音 hen  
 
 | 词频 2 |  
@@ -2851,7 +2823,7 @@ D.help
 1.*高义频：* **母鸡**  
 
 
-# ***hence*** adv
+# *** *hence*** adv
 英音 hens     美音 hens  
 
 | 词频 1 | 书面 1 |  
@@ -2861,7 +2833,7 @@ D.help
 1.*高义频：* **因此；所以**  
 
 
-# ***her*** pron
+# *** *her*** pron
 英音 hə(r); hɜː(r)     美音 hər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2871,7 +2843,7 @@ D.help
 1.*高义频：* **[宾格] 她；[所有格] 她的**  
 
 
-# ***herb*** n
+# *** *herb*** n
 英音 hɜːb     美音 hɜːrb  
 
 | 词频 1 |  
@@ -2883,7 +2855,7 @@ D.help
 1.*高义频：* **药草；香草**  
 
 
-# ***herd*** n
+# *** *herd*** n
 英音 hɜːd     美音 hɜːrd  
 
 | 词频 1 |  
@@ -2895,7 +2867,7 @@ D.help
 1.*高义频：* **牧群；兽群**  
 
 
-# ***here*** adv
+# *** *here*** adv
 英音 hɪə(r)     美音 hɪr  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2919,24 +2891,21 @@ D.help
 
 固定搭配
 ---
-- here and now
-1.**现在；马上：**  
+## - *here and now  **现在；马上：**  
 
  > Let's start the experiment here and now.  
  > 我们马上开始做实验吧。  
 
-- here and there
-1.**到处；处处：**  
+## - *here and there  **到处；处处：**  
 
  > Gray wolves once were seen here and there in the Yellowstone area.  
  > 灰狼曾一度在黄石地区随处可见。  
  > 来源：2017 全国  
 
-- here you are
-1.**给你**  
+## - *here you are  **给你**  
 
 
-# ***heritage*** n
+# *** *heritage*** n
 英音 'herɪtɪdʒ     美音 'herɪtɪdʒ  
 
 | 词频 2 | 阅读 2 |  
@@ -2955,7 +2924,7 @@ D.help
  > 世界遗址  
 
 
-# ***hero*** n
+# *** *hero*** n
 英音 'hɪərəʊ     美音 'hɪroʊ  
 
 | 词频 4 | 书面 1 |  
@@ -2979,7 +2948,7 @@ D.help
 ---
 heroic /hə'rəʊɪk/ adj   
 
-# ***heroine*** n
+# *** *heroine*** n
 英音 'herəʊɪn     美音 'heroʊɪn  
 
 | 词频 2 |  
@@ -2995,7 +2964,7 @@ heroic /hə'rəʊɪk/ adj
  > 来源：外研⑥ – 2  
 
 
-# ***heroism*** n
+# *** *heroism*** n
 英音 'herəʊɪzəm     美音 'heroʊɪzəm  
 
 | 词频 1 |  
@@ -3005,7 +2974,7 @@ heroic /hə'rəʊɪk/ adj
 1.**英雄主义, 英雄气概**  
 
 
-# ***hers*** pron
+# *** *hers*** pron
 英音 hɜːz     美音 hɜːrz  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -3017,7 +2986,7 @@ heroic /hə'rəʊɪk/ adj
 1.*高义频：* **她的**  
 
 
-# ***herself*** pron
+# *** *herself*** pron
 英音 hɜː'self     美音 hɜːr'self  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -3041,10 +3010,11 @@ heroic /hə'rəʊɪk/ adj
 ---
 ##### 题目  
 Catherine bought a postcard of the place she was visiting, addressed it to ________(her) and then posted it at the nearby post office.  
+来源：2006 安徽改  
 ##### 答案 herself  
   
 
-# ***hesitate*** vi  重难点词汇
+# *** *hesitate*** vi  重难点词汇
 英音 'hezɪteɪt     美音 'hezɪteɪt  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -3052,6 +3022,10 @@ Catherine bought a postcard of the place she was visiting, addressed it to _____
 英文释义
 ---
 1.*高义频：* **踌躇；犹豫；顾虑：**  
+
+ > He hesitated before he replied.  
+ > 回答前，他犹豫了一下。  
+ > 来源：外研⑥ – 7  
 
 - hesitate to do sth:
 
@@ -3071,19 +3045,16 @@ Catherine bought a postcard of the place she was visiting, addressed it to _____
  > She hesitated about / over the choice between the two dresses.  
  > 她对到底选择这两件衣服中的哪一件犹豫不决。  
 
- > He hesitated before he replied.  
- > 回答前，他犹豫了一下。  
- > 来源：外研⑥ – 7  
-
 
 真题解析
 ---
 ##### 题目  
 We are at your service. Don’t hesitate ________ (turn) to us if you have any further problems.  
+来源：2009 福建改  
 ##### 答案 to turn  
   
 
-# ***hesitation*** n
+# *** *hesitation*** n
 英音 ˌhezɪ'teɪʃn     美音 ˌhezɪ'teɪʃn  
 
 | 词频 1 | 阅读 1 |  
@@ -3100,7 +3071,7 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
  > 来源：2011 广东  
 
 
-# ***hey*** int
+# *** *hey*** int
 英音 heɪ     美音 heɪ  
 
 | 词频 4 |  
@@ -3110,7 +3081,7 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 1.*高义频：* **[用以唤起注意或表示问候] 嘿；喂**  
 
 
-# ***hi*** int
+# *** *hi*** int
 英音 haɪ     美音 haɪ  
 
 | 词频 4 | 口语 3 |  
@@ -3120,7 +3091,7 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 1.*高义频：* **嗨**  
 
 
-# ***hibernate*** vi
+# *** *hibernate*** vi
 英音 'haɪbəneɪt     美音 'haɪbərneɪt  
 
 | 词频 1 |  
@@ -3130,7 +3101,7 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 1.*高义频：* **(动物) 冬眠**  
 
 
-# ***hibernation*** n
+# *** *hibernation*** n
 英音 ˌhaɪbə'neɪʃn     美音 ˌhaɪbə'neɪʃn  
 
 | 词频 1 |  
@@ -3142,7 +3113,7 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 1.*高义频：* **冬眠**  
 
 
-# ***hide*** v
+# *** *hide*** v
 英音 haɪd     美音 haɪd  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -3172,7 +3143,7 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
  > 他们对儿子隐瞒了这个伤心的消息。  
 
 
-# ***hide-and-seek*** n
+# *** *hide-and-seek*** n
 英音 ˌhaɪdn'siːk     美音 ˌhaɪdn'siːk  
 
 | 词频 1 |  
@@ -3184,7 +3155,7 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 1.*高义频：* **捉迷藏**  
 
 
-# ***hieroglyphic*** adj
+# *** *hieroglyphic*** adj
 英音 ˌhaɪərə'ɡlɪfɪk     美音 ˌhaɪərə'ɡlɪfɪk  
 
 | 词频 1 |  
@@ -3194,7 +3165,7 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 1.**象形文字的**  
 
 
-# ***high*** adj
+# *** *high*** adj
 英音 haɪ     美音 haɪ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3255,7 +3226,7 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
  > 你该动身了。  
 
 
-# ***high*** adv
+# *** *high*** adv
 英音 haɪ     美音 haɪ  
 
 | 词频 5 | 口语 1 |  
@@ -3273,7 +3244,7 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 ### 辨析 high, tall
 二者均有“高”之意，均可指建筑物。  
 
-# ***high-class*** adj
+# *** *high-class*** adj
 英音 ˌhaɪ'klɑːs     美音 ˌhaɪ'klæs  
 
 | 词频 1 |  
@@ -3283,7 +3254,7 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 1.**上层社会的**  
 
 
-# ***high-rise*** adj
+# *** *high-rise*** adj
 英音 haɪ raɪz     美音 haɪ raɪz  
 
 | 词频 2 |  
@@ -3296,7 +3267,7 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
  > 高层建筑  
 
 
-# ***high-rise*** n
+# *** *high-rise*** n
 英音 haɪ raɪz     美音 haɪ raɪz  
 
 | 词频 2 |  
@@ -3311,7 +3282,7 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
  > 住在高楼里  
 
 
-# ***highlight*** vt
+# *** *highlight*** vt
 英音 'haɪlaɪt     美音 'haɪlaɪt  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -3328,7 +3299,7 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
  > 来源：2011 全国改  
 
 
-# ***highlight*** n
+# *** *highlight*** n
 英音 'haɪlaɪt     美音 'haɪlaɪt  
 
 | 词频 2 |  
@@ -3338,7 +3309,7 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 1.**[C] 最精彩的场面 / 部分**  
 
 
-# ***highly*** adv
+# *** *highly*** adv
 英音 'haɪli     美音 'haɪli  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -3362,10 +3333,11 @@ We are at your service. Don’t hesitate ________ (turn) to us if you have any f
 ---
 ##### 题目  
 Food safety is ________ (high) important, so the government spares no effort to prevent food pollution.  
+来源：2008 上海改  
 ##### 答案 highly  
   
 
-# ***highway*** n
+# *** *highway*** n
 英音 'haɪweɪ     美音 'haɪweɪ  
 
 | 词频 4 | 口语 1 |  
@@ -3378,7 +3350,7 @@ Food safety is ________ (high) important, so the government spares no effort to 
 
 Notes: 美语里高速公路是freeway或expressway。  
 
-# ***hike*** vi
+# *** *hike*** vi
 英音 haɪk     美音 haɪk  
 
 | 词频 2 |  
@@ -3391,7 +3363,7 @@ Notes: 美语里高速公路是freeway或expressway。
  > 远足；徒步旅行  
 
 
-# ***hike*** n
+# *** *hike*** n
 英音 haɪk     美音 haɪk  
 
 | 词频 2 |  
@@ -3403,7 +3375,7 @@ Notes: 美语里高速公路是freeway或expressway。
 1.*高义频：* **徒步**  
 
 
-# ***hill*** n
+# *** *hill*** n
 英音 hɪl     美音 hɪl  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -3415,7 +3387,7 @@ Notes: 美语里高速公路是freeway或expressway。
 1.*高义频：* **丘陵；小山**  
 
 
-# ***hillside*** n
+# *** *hillside*** n
 英音 'hɪlsaɪd     美音 'hɪlsaɪd  
 
 | 词频 1 |  
@@ -3427,7 +3399,7 @@ Notes: 美语里高速公路是freeway或expressway。
 1.*高义频：* **小山坡**  
 
 
-# ***hilly*** adj
+# *** *hilly*** adj
 英音 'hɪli     美音 'hɪli  
 
 | 词频 1 |  
@@ -3437,7 +3409,7 @@ Notes: 美语里高速公路是freeway或expressway。
 1.*高义频：* **山丘的；丘陵的；多山的：**  
 
 
-# ***him*** pron
+# *** *him*** pron
 英音 hɪm     美音 hɪm  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3449,7 +3421,7 @@ Notes: 美语里高速公路是freeway或expressway。
 1.*高义频：* **他**  
 
 
-# ***himself*** pron
+# *** *himself*** pron
 英音 hɪm'self     美音 hɪm'self  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3473,10 +3445,11 @@ Notes: 美语里高速公路是freeway或expressway。
 ##### 题目  
 — Who called me this morning when I was out?
 — A man calling ________ (him) Robert.  
+来源：2006 福建改  
 ##### 答案 himself  
   
 
-# ***hint*** n
+# *** *hint*** n
 英音 hɪnt     美音 hɪnt  
 
 | 词频 1 |  
@@ -3492,7 +3465,7 @@ Notes: 美语里高速公路是freeway或expressway。
  > 给(某人)暗示  
 
 
-# ***hip-hop*** n
+# *** *hip-hop*** n
 
 
 | 词频 1 |  
@@ -3502,7 +3475,7 @@ Notes: 美语里高速公路是freeway或expressway。
 1.**嘻哈音乐；嘻哈文化**  
 
 
-# ***hire*** v
+# *** *hire*** v
 英音 'haɪə(r)     美音 'haɪər  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -3516,11 +3489,6 @@ Notes: 美语里高速公路是freeway或expressway。
 
 2.*高义频：* **(临时) 雇用：**  
 
-- hire sb to do sth:
-
- > I’ll hire a lawyer to handle the case.  
- > 我将聘请一位律师来处理这一案件。  
-
  > the power to hire and fire   
  > 聘用和解雇的权力  
 
@@ -3528,17 +3496,21 @@ Notes: 美语里高速公路是freeway或expressway。
  > 2004年她聘请了一些技术专家，开办了自己的公司。  
  > 来源：2014 天津  
 
+- hire sb to do sth:
+
+ > I’ll hire a lawyer to handle the case.  
+ > 我将聘请一位律师来处理这一案件。  
+
 
 固定搭配
 ---
-- hire out 
-1.**出租：**  
+## - *hire out   **出租：**  
 
  > The company hires out cars.  
  > 这家公司出租小汽车。  
 
 
-# ***hire*** n
+# *** *hire*** n
 英音 'haɪə(r)     美音 'haɪər  
 
 | 词频 4 |  
@@ -3557,7 +3529,7 @@ Notes: 美语里高速公路是freeway或expressway。
  > 供租用的汽车  
 
 
-# ***his*** pron
+# *** *his*** pron
 英音 hɪz     美音 hɪz  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3567,7 +3539,7 @@ Notes: 美语里高速公路是freeway或expressway。
 1.*高义频：* **他的**  
 
 
-# ***historic*** adj
+# *** *historic*** adj
 英音 hɪ'stɒrɪk     美音 hɪ'stɔːrɪk  
 
 | 词频 3 | 阅读 2 |  
@@ -3583,7 +3555,7 @@ Notes: 美语里高速公路是freeway或expressway。
  > 历史性事件  
 
 
-# ***historical*** adj
+# *** *historical*** adj
 英音 hɪ'stɒrɪkl     美音 hɪ'stɔːrɪkl  
 
 | 词频 4 | 书面 2 | 阅读 3 |  
@@ -3600,7 +3572,7 @@ Notes: 美语里高速公路是freeway或expressway。
  > 历史名胜  
 
 
-# ***history*** n
+# *** *history*** n
 英音 'hɪstri     美音 'hɪstri  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -3626,14 +3598,12 @@ Notes: 美语里高速公路是freeway或expressway。
 
 固定搭配
 ---
-- make history 
-1.**创造历史；做出永垂史册的事情：**  
+## - *make history   **创造历史；做出永垂史册的事情：**  
 
  > Obama made history by being elected as the first black president of the USA.   
  > 奥巴马是美国历史上首位黑人总统。  
 
-- go down in history 
-1.**载入史册；青史留名：**  
+## - *go down in history   **载入史册；青史留名：**  
 
  > He will go down in history as a great leader.  
  > 他作为一名伟大的领袖将载入史册。  
@@ -3643,7 +3613,7 @@ Notes: 美语里高速公路是freeway或expressway。
 ---
 historian /hɪ'stɔːriən/ n [C]  
 
-# ***hit*** vt  重难点词汇
+# *** *hit*** vt  重难点词汇
 英音 hɪt     美音 hɪt  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -3691,8 +3661,7 @@ historian /hɪ'stɔːriən/ n [C]
 
 固定搭配
 ---
-- hit on / upon 
-1.**突然想到 (come up with)：**  
+## - *hit on / upon   **突然想到 (come up with)：**  
 
  > hit on / upon an idea   
  > 想出一个主意  
@@ -3701,7 +3670,7 @@ historian /hɪ'stɔːriən/ n [C]
  > 我们终于想出了一个解决这个困难的办法。  
 
 
-# ***hit*** n  重难点词汇
+# *** *hit*** n  重难点词汇
 英音 hɪt     美音 hɪt  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -3731,11 +3700,10 @@ historian /hɪ'stɔːriən/ n [C]
 
 固定搭配
 ---
-- take a hit
-1.**遭到破坏；受到严重影响**  
+## - *take a hit  **遭到破坏；受到严重影响**  
 
 
-# ***hoarfrost*** n
+# *** *hoarfrost*** n
 英音 'hɔː'frɒst     美音 'hoʊrˌfrɒst  
 
 | 词频 1 |  
@@ -3745,7 +3713,7 @@ historian /hɪ'stɔːriən/ n [C]
 1.**白霜**  
 
 
-# ***hobby*** n
+# *** *hobby*** n
 英音 'hɒbi     美音 'hɑːbi  
 
 | 词频 4 |  
@@ -3765,7 +3733,7 @@ historian /hɪ'stɔːriən/ n [C]
  > 来源：——萧伯纳  
 
 
-# ***hold*** v  重难点词汇
+# *** *hold*** v  重难点词汇
 英音 həʊld     美音 hoʊld  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3886,8 +3854,7 @@ historian /hɪ'stɔːriən/ n [C]
 
 固定搭配
 ---
-- hold back
-1.*高义频：* **阻挡；阻碍：**  
+## - *hold back  1.*高义频：* **阻挡；阻碍：**  
 
  > No one can hold back the wheel of history.   
  > 谁也无法阻挡历史的车轮。  
@@ -3909,8 +3876,7 @@ historian /hɪ'stɔːriən/ n [C]
  > She held back from telling him what she thought of him.  
  > 她想把自己对他的看法告诉他，但又觉得难以启齿。  
 
-- hold on
-1.*高义频：* **抓着...不放；坚持：**  
+## - *hold on  1.*高义频：* **抓着...不放；坚持：**  
 
  > **held on**  
  > She held on to me tightly.  
@@ -3934,14 +3900,12 @@ historian /hɪ'stɔːriən/ n [C]
  > Hold on! This isn't the right road.  
  > 等一下！这条路不对！  
 
-- hold on to / onto
-1.**守住；保住 (不送 / 不卖)：**  
+## - *hold on to / onto  **守住；保住 (不送 / 不卖)：**  
 
  > We thought of selling this old furniture, but we've decided to hold on to it.  
  > 我们曾考虑过卖掉这件旧家具，但后来又决定不卖了。  
 
-- hold out
-1.*高义频：* **伸出 (手 / 胳膊)；递出：**  
+## - *hold out  1.*高义频：* **伸出 (手 / 胳膊)；递出：**  
 
  > hold out one's hand  
  > 伸出手  
@@ -3960,8 +3924,7 @@ historian /hɪ'stɔːriən/ n [C]
  > 我以为我能坚持到牙医度假回来，但是疼痛实在难忍。  
  > 来源：2013 重庆  
 
-- hold the line 
-1.**别挂断；等会儿：**  
+## - *hold the line   **别挂断；等会儿：**  
 
  > — Can I speak to Amy, please?  
  > 我能与艾米通话吗？  
@@ -3969,8 +3932,7 @@ historian /hɪ'stɔːriən/ n [C]
  > — Hold the line, please.  
  > 请等一会儿。  
 
-- hold up
-1.*高义频：* **举起；抬起；支撑：**  
+## - *hold up  1.*高义频：* **举起；抬起；支撑：**  
 
  > hold up one's hand  
  > 举起手  
@@ -3994,23 +3956,27 @@ historian /hɪ'stɔːriən/ n [C]
 ---
 ##### 题目  
 I had a strong desire to reach in and play with the toy, but ________(hold) back thankfully by the shop window.  
+来源：2015 湖南改  
 ##### 答案 was held  
   
 ##### 题目  
 You have to be a fairly good speaker to ________ (吸引听众的兴趣) for over an hour.  
+来源：2008 辽宁改  
 ##### 答案 hold listeners'  interest  
   
 ##### 题目  
 — Is Peter there?
 — Hold ________ , please. I'll see if I can find him for you.  
+来源：2008 江苏改  
 ##### 答案 on  
   
 ##### 题目  
 We want to rent a bus which can ________ (容纳)40 people for our trip to Beijing.  
+来源：2006 天津  
 ##### 答案 hold  
   
 
-# ***hold*** n  重难点词汇
+# *** *hold*** n  重难点词汇
 英音 həʊld     美音 hoʊld  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -4031,8 +3997,7 @@ We want to rent a bus which can ________ (容纳)40 people for our trip to Beiji
 
 固定搭配
 ---
-- catch / get / take (a) hold of 
-1.**抓住；拿着；握住：**  
+## - *catch / get / take (a) hold of   **抓住；拿着；握住：**  
 
  > Take hold of that end to help me move this table.  
  > 抬桌子那头，帮我把它移开。  
@@ -4041,18 +4006,15 @@ We want to rent a bus which can ________ (容纳)40 people for our trip to Beiji
  > 童年的大部分时间我都在阅读我能得到的书籍。  
  > 来源：2010 四川改  
 
-- get hold of sb
-1.**和某人联系；找到某人：**  
+## - *get hold of sb  **和某人联系；找到某人：**  
 
  > I have been trying to get hold of you all afternoon.  
  > 我整个下午都在找你。  
  > 来源：2017 全国  
 
-- get hold of sth
-1.**找到 / 得到所需要的东西；学会 / 理解某事物**  
+## - *get hold of sth  **找到 / 得到所需要的东西；学会 / 理解某事物**  
 
-- on hold 
-1.**中断；推迟：**  
+## - *on hold   **中断；推迟：**  
 
  > While matters of money won't be settled for weeks, Jane hardly puts her project on hold.  
  > 虽然几周的时间也将无法解决钱的问题，但简不会中断自己的项目。  
@@ -4068,10 +4030,11 @@ holding /'həʊldɪŋ/ n
 ---
 ##### 题目  
 As a grassroots singer, she reads everything she can get hold _________ concerning music, and takes every opportunity to improve herself.  
+来源：2014 福建改  
 ##### 答案 of  
   
 
-# ***hole*** n
+# *** *hole*** n
 英音 həʊl     美音 həʊl  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -4087,7 +4050,7 @@ As a grassroots singer, she reads everything she can get hold _________ concerni
  > 路上有个大坑。  
 
 
-# ***holiday*** n
+# *** *holiday*** n
 英音 'hɒlədeɪ,'hɒlədi     美音 'hɑːlədeɪ  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -4115,7 +4078,7 @@ As a grassroots singer, she reads everything she can get hold _________ concerni
  > 来源：译林② – 2  
 
 
-# ***hollow*** adj
+# *** *hollow*** adj
 英音 'hɒləʊ     美音 'hɑːloʊ  
 
 | 词频 1 |  
@@ -4125,7 +4088,7 @@ As a grassroots singer, she reads everything she can get hold _________ concerni
 1.*高义频：* **空心的；中空的**  
 
 
-# ***holy*** adj
+# *** *holy*** adj
 英音 'həʊli     美音 'hoʊli  
 
 | 词频 1 | 书面 1 |  
@@ -4139,7 +4102,7 @@ As a grassroots singer, she reads everything she can get hold _________ concerni
  > 《圣经》  
 
 
-# ***home*** n
+# *** *home*** n
 英音 həʊm     美音 hoʊm  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4176,8 +4139,7 @@ As a grassroots singer, she reads everything she can get hold _________ concerni
 
 固定搭配
 ---
-- at home
-1.**在家里；在国内；舒适的；不拘束的：**  
+## - *at home  **在家里；在国内；舒适的；不拘束的：**  
 
  > Make yourself at home.  
  > 请不要拘束。  
@@ -4191,10 +4153,11 @@ As a grassroots singer, she reads everything she can get hold _________ concerni
 ---
 ##### 题目  
 I began to feel ________ home in the new school when I saw some familiar faces.  
+来源：2008 山东改  
 ##### 答案 at  
   
 
-# ***home*** adv
+# *** *home*** adv
 英音 həʊm     美音 hoʊm  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4207,7 +4170,7 @@ I began to feel ________ home in the new school when I saw some familiar faces.
  > 我在他回家的路上看见了他。  
 
 
-# ***home*** adj
+# *** *home*** adj
 英音 həʊm     美音 hoʊm  
 
 | 词频 5 |  
@@ -4224,7 +4187,7 @@ I began to feel ________ home in the new school when I saw some familiar faces.
  > 家用电脑  
 
 
-# ***home-made*** adj
+# *** *home-made*** adj
 英音 ˌhəʊmˌmeɪd     美音 ˌhoʊmˌmeɪd  
 
 | 词频 2 |  
@@ -4234,7 +4197,7 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 1.**自制的；家里做的；国产的**  
 
 
-# ***homeland*** n
+# *** *homeland*** n
 英音 'həʊmlænd     美音 'hoʊmlænd  
 
 | 词频 1 |  
@@ -4246,7 +4209,7 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 1.*高义频：* **家园；祖国**  
 
 
-# ***homeless*** adj
+# *** *homeless*** adj
 英音 'həʊmləs     美音 'hoʊmləs  
 
 | 词频 4 |  
@@ -4259,7 +4222,7 @@ I began to feel ________ home in the new school when I saw some familiar faces.
  > 成千上万的无家可归的地震幸存者急需帐篷和食物。  
 
 
-# ***homelessness*** n
+# *** *homelessness*** n
 英音 'həʊmləsnəs     美音 'hoʊmləsnəs  
 
 | 词频 1 |  
@@ -4269,7 +4232,7 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 1.**无家可归**  
 
 
-# ***homemade*** adj
+# *** *homemade*** adj
 英音 'həʊm'meɪd     美音 'həʊm'meɪd  
 
   
@@ -4279,7 +4242,7 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 1.**自制的,家里做的**  
 
 
-# ***homesick*** adj
+# *** *homesick*** adj
 英音 'həʊmsɪk     美音 'hoʊmsɪk  
 
   
@@ -4289,7 +4252,7 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 1.**想家的；思乡的**  
 
 
-# ***homesickness*** n
+# *** *homesickness*** n
 英音 'həʊmsɪknəs     美音 'hoʊmsɪknəs  
 
 | 词频 1 |  
@@ -4299,7 +4262,7 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 1.**想家, 思乡**  
 
 
-# ***hometown*** n
+# *** *hometown*** n
 英音 'həʊmtaʊn     美音 'hoʊmtaʊn  
 
 | 词频 3 |  
@@ -4311,7 +4274,7 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 1.*高义频：* **家乡；故乡**  
 
 
-# ***homework*** n
+# *** *homework*** n
 英音 'həʊmwɜːk     美音 'hoʊmwɜːrk  
 
 | 词频 4 | 口语 2 |  
@@ -4323,7 +4286,7 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 1.*高义频：* **家庭作业**  
 
 
-# ***homosexual*** n
+# *** *homosexual*** n
 英音 ˌhəʊmə'sekʃuəl     美音 ˌhoʊmə'sekʃuəl  
 
 | 词频 1 |  
@@ -4333,7 +4296,7 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 1.**同性恋**  
 
 
-# ***homosexual*** adj
+# *** *homosexual*** adj
 英音 ˌhəʊmə'sekʃuəl     美音 ˌhoʊmə'sekʃuəl  
 
 | 词频 1 |  
@@ -4343,7 +4306,7 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 1.**同性恋的**  
 
 
-# ***honest*** adj
+# *** *honest*** adj
 英音 'ɒnɪst     美音 'ɑːnɪst  
 
 | 词频 4 | 口语 3 | 书面 1 |  
@@ -4370,8 +4333,7 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 
 固定搭配
 ---
-- to be honest
-1.**老实说：**  
+## - *to be honest  **老实说：**  
 
  > To be honest, I don't think I was helping very much.  
  > 老实说，我认为自己没帮上多少忙。  
@@ -4382,10 +4344,11 @@ I began to feel ________ home in the new school when I saw some familiar faces.
 ---
 ##### 题目  
 ________ (老实说), the pay isn't attractive enough, though the job itself is quite interesting.  
+来源：2009 浙江改  
 ##### 答案 To be honest / Honestly  
   
 
-# ***honestly*** adv
+# *** *honestly*** adv
 英音 'ɒnɪstli     美音 'ɑːnɪstli  
 
 | 词频 2 | 口语 2 |  
@@ -4404,7 +4367,7 @@ ________ (老实说), the pay isn't attractive enough, though the job itself is 
  > 说实在的，我所有的钱就这些。  
 
 
-# ***honesty*** n
+# *** *honesty*** n
 英音 'ɒnəsti     美音 'ɑːnəsti  
 
 | 词频 3 |  
@@ -4422,14 +4385,13 @@ ________ (老实说), the pay isn't attractive enough, though the job itself is 
 
 固定搭配
 ---
-- in all honesty
-1.**说实话；其实：**  
+## - *in all honesty  **说实话；其实：**  
 
  > In all honesty, my university is not as well-known as my "dream" university.  
  > 说实话，我上的那所大学不如我理想中的大学出名。  
 
 
-# ***honey*** n
+# *** *honey*** n
 英音 'hʌni     美音 'hʌni  
 
 | 词频 4 | 口语 2 |  
@@ -4447,7 +4409,7 @@ ________ (老实说), the pay isn't attractive enough, though the job itself is 
 2.*低义频：* **[C] [口语] 亲爱的；宝贝**  
 
 
-# ***hono(u)r*** n  重难点词汇
+# *** *hono(u)r*** n  重难点词汇
 英音 'ɒnə(r)     美音 'ɑːnər  
 
 | 词频 4 |  
@@ -4503,14 +4465,12 @@ ________ (老实说), the pay isn't attractive enough, though the job itself is 
 
 固定搭配
 ---
-- have the honour of (doing) sth
-1.**有幸做某事：**  
+## - *have the honour of (doing) sth  **有幸做某事：**  
 
  > May I have the honour of this dance?  
  > 可以赏光和我跳这支舞吗？  
 
-- in honour of sb / in sb's honour
-1.**为向某人表示敬意；为纪念某人：**  
+## - *in honour of sb / in sb's honour  **为向某人表示敬意；为纪念某人：**  
 
  > We celebrate Mother's Day in honour of our mothers.  
  > 我们庆祝母亲节是为了向母亲表示敬意。  
@@ -4519,7 +4479,7 @@ ________ (老实说), the pay isn't attractive enough, though the job itself is 
  > 人们举行了一个仪式来纪念那些战士。  
 
 
-# ***hono(u)r*** vt  重难点词汇
+# *** *hono(u)r*** vt  重难点词汇
 英音 'ɒnə(r)     美音 'ɑːnər  
 
 | 词频 4 | 书面 1 |  
@@ -4546,8 +4506,7 @@ ________ (老实说), the pay isn't attractive enough, though the job itself is 
 
 固定搭配
 ---
-- be / feel honoured to do sth
-1.**做某事感到荣幸：**  
+## - *be / feel honoured to do sth  **做某事感到荣幸：**  
 
  > I was honoured to have been mentioned in his speech.  
  > 很荣幸他在讲话中提到了我。  
@@ -4561,10 +4520,11 @@ ________ (老实说), the pay isn't attractive enough, though the job itself is 
 ---
 ##### 题目  
 I feel greatly honored ________ (welcome) into their society.  
+来源：2008 北京  
 ##### 答案 to be welcomed  
   
 
-# ***hono(u)rable*** adj
+# *** *hono(u)rable*** adj
 英音 'ɒnərəbl     美音 'ɑːnərəbl  
 
 | 词频 3 |  
@@ -4574,7 +4534,7 @@ I feel greatly honored ________ (welcome) into their society.
 1.*高义频：* **可敬的；光荣的**  
 
 
-# ***hoof*** n
+# *** *hoof*** n
 英音 huːf     美音 huːf  
 
 | 词频 1 |  
@@ -4584,7 +4544,7 @@ I feel greatly honored ________ (welcome) into their society.
 1.**（猪、牛等的）蹄**  
 
 
-# ***hook*** n
+# *** *hook*** n
 英音 hʊk     美音 hʊk  
 
 | 词频 3 | 口语 1 |  
@@ -4596,7 +4556,7 @@ I feel greatly honored ________ (welcome) into their society.
 1.*高义频：* **钩子；挂钩**  
 
 
-# ***hook*** v
+# *** *hook*** v
 英音 hʊk     美音 hʊk  
 
 | 词频 3 | 口语 1 |  
@@ -4618,7 +4578,7 @@ hooked /hʊkt/ adj [不用于名词前]
  > 来源：2008 山东  
 
 
-# ***hoop*** n
+# *** *hoop*** n
 英音 huːp     美音 huːp  
 
 | 词频 1 |  
@@ -4628,7 +4588,7 @@ hooked /hʊkt/ adj [不用于名词前]
 1.**圈**  
 
 
-# ***hop*** v
+# *** *hop*** v
 英音 hɒp     美音 hɑːp  
 
 | 词频 1 |  
@@ -4638,7 +4598,7 @@ hooked /hʊkt/ adj [不用于名词前]
 1.**单足蹦跳**  
 
 
-# ***hop*** vi
+# *** *hop*** vi
 英音 hɒp     美音 hɑːp  
 
 | 词频 1 |  
@@ -4648,7 +4608,7 @@ hooked /hʊkt/ adj [不用于名词前]
 1.**单脚跳**  
 
 
-# ***hope*** n
+# *** *hope*** n
 英音 həʊp     美音 hoʊp  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -4680,20 +4640,18 @@ hooked /hʊkt/ adj [不用于名词前]
 
 固定搭配
 ---
-- be beyond hope (of)
-1.**没有 (…的) 希望：**  
+## - *be beyond hope (of)  **没有 (…的) 希望：**  
 
  > Some of the houses were beyond hope of repair.  
  > 有些房屋已经没有修复的希望了。  
 
-- in the hope of / in hopes that / in the hope that
-1.**怀着…的希望：**  
+## - *in the hope of / in hopes that / in the hope that  **怀着…的希望：**  
 
  > I'm writing the letter in the hope that you can consider these problems and make some improvements.  
  > 我写这封信是希望你们能考虑这些问题并有所改进。  
 
 
-# ***hope*** v
+# *** *hope*** v
 英音 həʊp     美音 hoʊp  
 
 | 词频 5 | 口语 3 |  
@@ -4701,6 +4659,21 @@ hooked /hʊkt/ adj [不用于名词前]
 英文释义
 ---
 1.*高义频：* **vi & vt 希望；期待：**  
+
+ > **hopes for**  
+ > It is indeed a wonderful idea and everyone hopes for its success.  
+ > 这的确是一个绝妙的主意，每个人都希望它能成功。  
+
+ > — Will it rain tomorrow?  
+ > 明天会下雨吗？  
+
+ > **hope so / not**  
+ > — I hope so / not.  
+ > 我希望下/不下。  
+
+ > **hoping for**  
+ > They're hoping for their son's early marriage.  
+ > 他们希望儿子早点结婚。  
 
 - hope to do sth:
 
@@ -4718,23 +4691,8 @@ hooked /hʊkt/ adj [不用于名词前]
 
 ### 辨析 hope, wish
   
- > **hopes for**  
- > It is indeed a wonderful idea and everyone hopes for its success.  
- > 这的确是一个绝妙的主意，每个人都希望它能成功。  
 
- > — Will it rain tomorrow?  
- > 明天会下雨吗？  
-
- > **hope so / not**  
- > — I hope so / not.  
- > 我希望下/不下。  
-
- > **hoping for**  
- > They're hoping for their son's early marriage.  
- > 他们希望儿子早点结婚。  
-
-
-# ***hopeful*** adj
+# *** *hopeful*** adj
 英音 'həʊpfl     美音 'hoʊpfl  
 
 | 词频 3 |  
@@ -4760,7 +4718,7 @@ hooked /hʊkt/ adj [不用于名词前]
  > 来源：2012 湖南书面表达  
 
 
-# ***hopefully*** adv
+# *** *hopefully*** adv
 英音 'həʊpfəli     美音 'hoʊpfəli  
 
 | 词频 3 | 口语 3 |  
@@ -4782,14 +4740,16 @@ hooked /hʊkt/ adj [不用于名词前]
 ---
 ##### 题目  
 If we leave right away, ________ (hopeful) we'll arrive on time.  
+来源：2013 浙江改  
 ##### 答案 hopefully  
   
 ##### 题目  
 The boy looked at his father ________ (满怀希望地) because he thought his father had brought him a present.  
+来源：2013 陕西  
 ##### 答案 hopefully  
   
 
-# ***hopeless*** adj
+# *** *hopeless*** adj
 英音 'həʊpləs     美音 'hoʊpləs  
 
 | 词频 3 | 口语 1 |  
@@ -4814,7 +4774,7 @@ The boy looked at his father ________ (满怀希望地) because he thought his f
 hopelessly /'həʊpləsli/ adv   
 hopelessness /'həʊpləsnəs/ n   
 
-# ***horizon*** n
+# *** *horizon*** n
 英音 hə'raɪzn     美音 hə'raɪzn  
 
 | 词频 2 | 阅读 1 |  
@@ -4833,7 +4793,7 @@ hopelessness /'həʊpləsnəs/ n
  > 旅游是一种学习，因为它开阔人们的视野。  
 
 
-# ***horizontal*** adj
+# *** *horizontal*** adj
 英音 ˌhɒrɪ'zɒntl     美音 ˌhɔːrə'zɑːntl  
 
 | 词频 1 |  
@@ -4843,7 +4803,7 @@ hopelessness /'həʊpləsnəs/ n
 1.**水平的，与地平线平行的**  
 
 
-# ***horn*** n
+# *** *horn*** n
 英音 hɔːn     美音 hɔːrn  
 
 | 词频 3 |  
@@ -4863,7 +4823,7 @@ hopelessness /'həʊpləsnəs/ n
  > 进退维谷；左右为难  
 
 
-# ***hornbeam*** n
+# *** *hornbeam*** n
 英音 'hɔːnbiːm     美音 'hɔːrnbiːm  
 
 | 词频 1 |  
@@ -4873,7 +4833,7 @@ hopelessness /'həʊpləsnəs/ n
 1.**角树，【植】鹅耳枥**  
 
 
-# ***horrible*** adj
+# *** *horrible*** adj
 英音 'hɒrəbl     美音 'hɔːrəbl  
 
 | 词频 2 | 口语 2 |  
@@ -4900,7 +4860,7 @@ hopelessness /'həʊpləsnəs/ n
 ---
 horribly /'hɒrəbli/ adv   
 
-# ***horrify*** v
+# *** *horrify*** v
 英音 'hɒrɪfaɪ     
 
   
@@ -4910,7 +4870,7 @@ horribly /'hɒrəbli/ adv
 1.**使恐惧；使惊骇；使反感**  
 
 
-# ***horror*** n
+# *** *horror*** n
 英音 'hɒrə(r)     美音 'hɔːrər  
 
 | 词频 2 | 书面 1 |  
@@ -4934,14 +4894,13 @@ horribly /'hɒrəbli/ adv
 
 固定搭配
 ---
-- to sb's horror / to the horror of sb
-1.**使某人感到惊恐的是：**  
+## - *to sb's horror / to the horror of sb  **使某人感到惊恐的是：**  
 
  > To my horror, a child fell from the roof.  
  > 令我感到惊恐的是，有个孩子从房顶上掉了下来。  
 
 
-# ***horse*** n
+# *** *horse*** n
 英音 hɔːs     美音 hɔːrs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4962,7 +4921,7 @@ horribly /'hɒrəbli/ adv
  > 吃得很多  
 
 
-# ***horse-drawn*** adj
+# *** *horse-drawn*** adj
 英音 'hɔːsdrɔːn     美音 'hɔːsdrɔːn  
 
 | 词频 1 |  
@@ -4972,7 +4931,7 @@ horribly /'hɒrəbli/ adv
 1.**用马拉的**  
 
 
-# ***horseshoe*** n
+# *** *horseshoe*** n
 英音 'hɔːsʃuː     美音 'hɔːsʃuː  
 
 | 词频 1 |  
@@ -4982,7 +4941,7 @@ horribly /'hɒrəbli/ adv
 1.**马掌；马蹄铁**  
 
 
-# ***hospitable*** adj
+# *** *hospitable*** adj
 英音 hɒ'spɪtəbl     美音 hɑː'spɪtəbl  
 
 | 词频 1 | 口语 3 | 书面 3 |  
@@ -4995,7 +4954,7 @@ horribly /'hɒrəbli/ adv
  > 当地人对陌生人很热情好客。  
 
 
-# ***hospital*** n
+# *** *hospital*** n
 英音 'hɒspɪtl     美音 'hɑːspɪtl  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -5017,8 +4976,7 @@ horribly /'hɒrəbli/ adv
 
 固定搭配
 ---
-- (be) in (the) hospital
-1.**住院：**  
+## - *(be) in (the) hospital  **住院：**  
 
  > Her husband is in hospital.  
  > 她丈夫在住院。  
@@ -5029,10 +4987,11 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ---
 ##### 题目  
 In a week, Lucy has already been interviewed by six ________ (医院).  
+来源：2015 陕西  
 ##### 答案 hospitals  
   
 
-# ***hospitality*** n
+# *** *hospitality*** n
 英音 ˌhɒspɪ'tæləti     美音 ˌhɑːspɪ'tæləti  
 
 | 词频 1 |  
@@ -5044,7 +5003,7 @@ In a week, Lucy has already been interviewed by six ________ (医院).
 1.*高义频：* **好客；殷勤**  
 
 
-# ***host*** n
+# *** *host*** n
 英音 həʊst     美音 hoʊst  
 
 | 词频 4 | 书面 1 |  
@@ -5073,7 +5032,7 @@ In a week, Lucy has already been interviewed by six ________ (医院).
  > 电视节目主持人  
 
 
-# ***host*** vt
+# *** *host*** vt
 英音 həʊst     美音 hoʊst  
 
 | 词频 4 |  
@@ -5087,7 +5046,7 @@ In a week, Lucy has already been interviewed by six ________ (医院).
  > 来源：译林④ – 2  
 
 
-# ***hostel*** n
+# *** *hostel*** n
 英音 'hɒstl     美音 'hɑːstl  
 
 | 词频 1 |  
@@ -5097,7 +5056,7 @@ In a week, Lucy has already been interviewed by six ________ (医院).
 1.**旅社, 招待所**  
 
 
-# ***hostess*** n
+# *** *hostess*** n
 英音 'həʊstəs     美音 'hoʊstəs  
 
 | 词频 1 |  
@@ -5109,7 +5068,7 @@ In a week, Lucy has already been interviewed by six ________ (医院).
 1.*高义频：* **女主人；女主持人**  
 
 
-# ***hot*** adj
+# *** *hot*** adj
 英音 hɒt     美音 hɑːt  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -5150,7 +5109,7 @@ In a week, Lucy has already been interviewed by six ________ (医院).
  > 畅销品/最新消息  
 
 
-# ***hotdog*** n
+# *** *hotdog*** n
 英音 'hɒtˌdɒg     美音 'hɒtˌdɒg  
 
 | 词频 1 |  
@@ -5162,7 +5121,7 @@ In a week, Lucy has already been interviewed by six ________ (医院).
 1.*高义频：* **热狗 (红肠面包)**  
 
 
-# ***hotel*** n
+# *** *hotel*** n
 英音 həʊ'tel     美音 hoʊ'tel  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -5174,7 +5133,7 @@ In a week, Lucy has already been interviewed by six ________ (医院).
 1.*高义频：* **旅馆**  
 
 
-# ***hour*** n
+# *** *hour*** n
 英音 'aʊə(r)     美音 'aʊər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5209,21 +5168,18 @@ In a week, Lucy has already been interviewed by six ________ (医院).
 
 固定搭配
 ---
-- by the hour
-1.**按小时 / 钟点：**  
+## - *by the hour  **按小时 / 钟点：**  
 
  > The workers in the factory are paid by the hour.  
  > 这个工厂的工人按小时计酬。  
 
-- hour by hour
-1.**时时刻刻地：**  
+## - *hour by hour  **时时刻刻地：**  
 
  > Even if we ignore time, it's still going by, ticking away, second by second, minute by minute, hour by hour.  
  > 即使我们忽略时间，它仍然在流逝，一分一秒，时时刻刻，滴答地走着。  
  > 来源：2008 江苏改  
 
-- keep early / late hours
-1.**早睡早起 / 晚睡晚起**  
+## - *keep early / late hours  **早睡早起 / 晚睡晚起**  
 
 
 派生词汇
@@ -5235,10 +5191,11 @@ hourly /'aʊəli/ adv
 ---
 ##### 题目  
 As a rule, domestic servants doing odd jobs are paid ________ the hour.  
+来源：2004 上海春改  
 ##### 答案 by   
   
 
-# ***house*** n
+# *** *house*** n
 英音 haʊs     美音 haʊs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5284,7 +5241,7 @@ As a rule, domestic servants doing odd jobs are paid ________ the hour.
  > (英国的)下/上议院  
 
 
-# ***house*** vt
+# *** *house*** vt
 英音 haʊz     美音 haʊz  
 
 | 词频 5 |  
@@ -5302,7 +5259,7 @@ As a rule, domestic servants doing odd jobs are paid ________ the hour.
  > 博物馆收藏了许多唐代珍品。  
 
 
-# ***household*** n
+# *** *household*** n
 英音 'haʊshəʊld     美音 'haʊshoʊld  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -5319,7 +5276,7 @@ As a rule, domestic servants doing odd jobs are paid ________ the hour.
  > 来源：2009 福建改  
 
 
-# ***household*** adj
+# *** *household*** adj
 英音 'haʊshəʊld     美音 'haʊshoʊld  
 
 | 词频 3 | 阅读 2 |  
@@ -5338,11 +5295,10 @@ As a rule, domestic servants doing odd jobs are paid ________ the hour.
 
 固定搭配
 ---
-- be a household name / word
-1.**家喻户晓的名字 / 词**  
+## - *be a household name / word  **家喻户晓的名字 / 词**  
 
 
-# ***housewife*** n
+# *** *housewife*** n
 英音 'haʊswaɪf     美音 'haʊswaɪf  
 
 | 词频 3 |  
@@ -5354,7 +5310,7 @@ As a rule, domestic servants doing odd jobs are paid ________ the hour.
 1.*高义频：* **家庭妇女；家庭主妇**  
 
 
-# ***housework*** n
+# *** *housework*** n
 英音 'haʊswɜːk     美音 'haʊswɜːrk  
 
 | 词频 4 |  
@@ -5369,7 +5325,7 @@ As a rule, domestic servants doing odd jobs are paid ________ the hour.
  > 做家务  
 
 
-# ***housing*** n
+# *** *housing*** n
 英音 'haʊzɪŋ     美音 'haʊzɪŋ  
 
 | 词频 4 | 书面 2 |  
@@ -5387,7 +5343,7 @@ As a rule, domestic servants doing odd jobs are paid ________ the hour.
  > 为当地民众提供买得起的住房  
 
 
-# ***hover*** vi
+# *** *hover*** vi
 英音 'hɒvə(r)     美音 'hʌvər  
 
 | 词频 1 |  
@@ -5397,7 +5353,7 @@ As a rule, domestic servants doing odd jobs are paid ________ the hour.
 1.**盘旋**  
 
 
-# ***how*** adv
+# *** *how*** adv
 英音 haʊ     美音 haʊ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5442,14 +5398,12 @@ As a rule, domestic servants doing odd jobs are paid ________ the hour.
 
 固定搭配
 ---
-- How can / could sb do sth?
-1.**[表示震惊或强烈反感] 某人怎么能做某事呢？**  
+## - *How can / could sb do sth?  **[表示震惊或强烈反感] 某人怎么能做某事呢？**  
 
  > How can you say such a thing?  
  > 你怎么能说这种话呢？  
 
-- How come (...)?
-1.**怎么会 (…的)？**  
+## - *How come (...)?  **怎么会 (…的)？**  
 
  > How come David is always so full of energy?  
  > 大卫怎么会一直这么精力充沛？  
@@ -5460,8 +5414,7 @@ As a rule, domestic servants doing odd jobs are paid ________ the hour.
  > — How come?  
  > 怎么可能？  
 
-- how far
-1.**多远：**  
+## - *how far  **多远：**  
 
  > How far did you go?  
  > 你走了多远？  
@@ -5469,20 +5422,17 @@ As a rule, domestic servants doing odd jobs are paid ________ the hour.
  > How far away is the post office?  
  > 邮局离这里多远？  
 
-- how long
-1.**[指时间段] 多长；多久：**  
+## - *how long  **[指时间段] 多长；多久：**  
 
  > How long have you been here?  
  > 你来这儿多长时间了？  
 
-- how often
-1.**[指频率] 多长时间一次：**  
+## - *how often  **[指频率] 多长时间一次：**  
 
  > How often do you go there? Once or twice a week?  
  > 你多久去那儿一次？每周一次还是两次？  
 
-- how soon
-1.**[指将来] 多久：**  
+## - *how soon  **[指将来] 多久：**  
 
  > How soon can you be ready?  
  > 你什么时候能准备好？  
@@ -5492,11 +5442,13 @@ As a rule, domestic servants doing odd jobs are paid ________ the hour.
 ---
 ##### 题目  
 By boat is the only way to get here, which is ________ we arrived.  
+来源：2018 江苏改  
 ##### 答案 how  
   
 ##### 题目  
 — Michael was late for Mr. Smith's chemistry class this morning.
 — ________ (怎么可能)? As far as I know, he never came late to class.  
+来源：2017 天津改  
 ##### 答案 How come  
   
 ##### 题目  
@@ -5506,18 +5458,21 @@ A.What then?
 B.I'm afraid so.  
 C.How could I?  
 D.For sure.  
+来源：2011 全国  
 ##### 答案 C  
   
 ##### 题目  
 Twenty students want to attend the class that aims to teach how ________ (read) fast.  
+来源：2011 辽宁改  
 ##### 答案 to read  
   
 ##### 题目  
 Students are always interested in finding out how ________ they can go with a new teacher.  
+来源：2008 安徽改  
 ##### 答案 far  
   
 
-# ***however*** adv
+# *** *however*** adv
 英音 haʊ'evə(r)     美音 haʊ'evər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5558,18 +5513,21 @@ Notes: however作此用法时，可置于句首、句中或句末，但必须与
 ---
 ##### 题目  
 Queen ElizabethⅡ is often thought to be the richest woman in the world. _______, her personal wealth seems rather small.  
+来源：2012 安徽改  
 ##### 答案 However  
   
 ##### 题目  
 ________ hard you try, it is difficult to lose weight without cutting down the amount you eat.  
+来源：2012 湖南改  
 ##### 答案 However / No matter how  
   
 ##### 题目  
 However ________ (一个严重的问题) you may have, you should gather your courage to face the challenge.  
+来源：2010 上海改  
 ##### 答案 serious a problem  
   
 
-# ***however*** conj
+# *** *however*** conj
 英音 haʊ'evə(r)     美音 haʊ'evər  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -5582,7 +5540,7 @@ However ________ (一个严重的问题) you may have, you should gather your co
  > 不管用什么办法，我都无法解决这个问题。  
 
 
-# ***howl*** vi
+# *** *howl*** vi
 英音 haʊl     美音 haʊl  
 
 | 词频 3 |  
@@ -5604,7 +5562,7 @@ However ________ (一个严重的问题) you may have, you should gather your co
  > 风在林间怒号。  
 
 
-# ***howl*** n
+# *** *howl*** n
 英音 haʊl     美音 haʊl  
 
 | 词频 3 |  
@@ -5619,7 +5577,7 @@ However ________ (一个严重的问题) you may have, you should gather your co
  > 她发出了一声痛苦的叫喊。  
 
 
-# ***hug*** vt
+# *** *hug*** vt
 英音 hʌɡ     美音 hʌɡ  
 
 | 词频 3 |  
@@ -5635,7 +5593,7 @@ However ________ (一个严重的问题) you may have, you should gather your co
  > 那艘船紧靠海岸行驶。  
 
 
-# ***hug*** n
+# *** *hug*** n
 英音 hʌɡ     美音 hʌɡ  
 
 | 词频 3 |  
@@ -5652,7 +5610,7 @@ However ________ (一个严重的问题) you may have, you should gather your co
  > 来源：2008 北京改  
 
 
-# ***huge*** adj
+# *** *huge*** adj
 英音 hjuːdʒ     美音 hjuːdʒ  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -5670,7 +5628,7 @@ However ________ (一个严重的问题) you may have, you should gather your co
  > 那是极大的成功！  
 
 
-# ***human*** n
+# *** *human*** n
 英音 'hjuːmən     美音 'hjuːmən  
 
 | 词频 5 | 书面 3 |  
@@ -5689,7 +5647,7 @@ However ________ (一个严重的问题) you may have, you should gather your co
 ---
 humanism /'hjuːmənɪzəm/ n   
 
-# ***human*** adj
+# *** *human*** adj
 英音 'hjuːmən     美音 'hjuːmən  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -5725,7 +5683,7 @@ Notes: 通常仅在表示将人类与动物或机器进行对比时用human一�
 ---
 humanism /'hjuːmənɪzəm/ n   
 
-# ***humanistic*** adj
+# *** *humanistic*** adj
 英音 ˌhjuːmə'nɪstɪk     美音 ˌhjuːmə'nɪstɪk  
 
 | 词频 1 |  
@@ -5735,7 +5693,7 @@ humanism /'hjuːmənɪzəm/ n
 1.**人道主义的**  
 
 
-# ***humanity*** n
+# *** *humanity*** n
 英音 hjuː'mænəti     美音 hjuː'mænəti  
 
 | 词频 2 | 阅读 2 |  
@@ -5755,11 +5713,10 @@ humanism /'hjuːmənɪzəm/ n
 
 固定搭配
 ---
-- the humanities
-1.**人文学科 (the arts)**  
+## - *the humanities  **人文学科 (the arts)**  
 
 
-# ***humble*** adj
+# *** *humble*** adj
 英音 'hʌmbl     美音 'hʌmbl  
 
 | 词频 1 |  
@@ -5769,7 +5726,7 @@ humanism /'hjuːmənɪzəm/ n
 1.**谦卑的；地位低下的**  
 
 
-# ***humo(u)r*** n
+# *** *humo(u)r*** n
 英音 'hjuːmə(r)     美音 'hjuːmər  
 
 | 词频 4 |  
@@ -5789,7 +5746,7 @@ humanism /'hjuːmənɪzəm/ n
  > 来源：外研⑧ – 1  
 
 
-# ***humorous*** adj
+# *** *humorous*** adj
 英音 'hjuːmərəs     美音 'hjuːmərəs  
 
 | 词频 3 |  
@@ -5807,7 +5764,7 @@ humanism /'hjuːmənɪzəm/ n
  > 来源：2008 重庆  
 
 
-# ***hundred*** num
+# *** *hundred*** num
 英音 'hʌndrəd     美音 'hʌndrəd  
 
 | 词频 5 |  
@@ -5827,14 +5784,13 @@ Notes: hundred / thousand / million前有two, several等词修饰时，hundred /
 
 固定搭配
 ---
-- hundreds of
-1.**成百上千；许多：**  
+## - *hundreds of  **成百上千；许多：**  
 
  > Hundreds of people queued up to view modern paintings.  
  > 成百上千的人排队来观赏当代绘画作品。  
 
 
-# ***hunger*** n
+# *** *hunger*** n
 英音 'hʌŋɡə(r)     美音 'hʌŋɡər  
 
 | 词频 3 |  
@@ -5857,7 +5813,7 @@ Notes: hundred / thousand / million前有two, several等词修饰时，hundred /
  > 渴求知识/渴望成功  
 
 
-# ***hunger*** vi
+# *** *hunger*** vi
 英音 'hʌŋɡə(r)     美音 'hʌŋɡər  
 
 | 词频 3 |  
@@ -5868,14 +5824,13 @@ Notes: hundred / thousand / million前有two, several等词修饰时，hundred /
 
 固定搭配
 ---
-- hunger for / after
-1.*高义频：* **渴望；渴求：**  
+## - *hunger for / after  *高义频：* **渴望；渴求：**  
 
  > The whole world hungers for / after peace.  
  > 全世界的人都渴望和平。  
 
 
-# ***hungry*** adj
+# *** *hungry*** adj
 英音 'hʌŋɡri     美音 'hʌŋɡri  
 
 | 词频 4 | 口语 2 |  
@@ -5892,6 +5847,10 @@ Notes: hundred / thousand / million前有two, several等词修饰时，hundred /
 
 2.*高义频：* **渴望的 (eager)：**  
 
+ > Stay hungry, stay foolish.  
+ > 求知若饥，虚心若愚！  
+ > 来源：乔布斯  
+
 - (be) hungry for:
 
  > The students are hungry for knowledge.  
@@ -5900,21 +5859,16 @@ Notes: hundred / thousand / million前有two, several等词修饰时，hundred /
  > He is hungry for music / friends.  
  > 他渴望听音乐/交朋友。  
 
- > Stay hungry, stay foolish.  
- > 求知若饥，虚心若愚！  
- > 来源：乔布斯  
-
 
 固定搭配
 ---
-- go hungry
-1.**挨饿：**  
+## - *go hungry  **挨饿：**  
 
  > As long as you have an ability you won't go hungry.  
  > 只要有一技之长，你就不会挨饿。  
 
 
-# ***hunt*** v
+# *** *hunt*** v
 英音 hʌnt     美音 hʌnt  
 
 | 词频 4 | 书面 1 |  
@@ -5942,14 +5896,13 @@ Notes: hundred / thousand / million前有two, several等词修饰时，hundred /
 
 固定搭配
 ---
-- hunt out
-1.**搜寻出：**  
+## - *hunt out  **搜寻出：**  
 
  > He hunted out an old diary.  
  > 他找出一本旧日记。  
 
 
-# ***hunt*** n
+# *** *hunt*** n
 英音 hʌnt     美音 hʌnt  
 
 | 词频 4 |  
@@ -5973,7 +5926,7 @@ hunting /'hʌntɪŋ/ n
  > 找工作/找房子  
 
 
-# ***hunter*** n
+# *** *hunter*** n
 英音 'hʌntə(r)     美音 'hʌntər  
 
 | 词频 4 |  
@@ -5993,7 +5946,7 @@ hunting /'hʌntɪŋ/ n
  > 求职者  
 
 
-# ***hurdle*** n
+# *** *hurdle*** n
 英音 'hɜːdl     美音 'hɜːrdl  
 
 | 词频 1 |  
@@ -6003,7 +5956,7 @@ hunting /'hʌntɪŋ/ n
 1.**跨栏；难关，障碍**  
 
 
-# ***hurray*** int
+# *** *hurray*** int
 英音 hə'rɑː     美音 hə'rɑː  
 
 | 词频 1 |  
@@ -6013,7 +5966,7 @@ hunting /'hʌntɪŋ/ n
 1.*高义频：* **好哇**  
 
 
-# ***hurricane*** n
+# *** *hurricane*** n
 英音 'hʌrɪkən     美音 'hɜːrəkən  
 
 | 词频 2 |  
@@ -6025,7 +5978,7 @@ hunting /'hʌntɪŋ/ n
 1.*高义频：* **飓风；暴风雨**  
 
 
-# ***hurry*** n
+# *** *hurry*** n
 英音 'hʌri     美音 'hɜːri  
 
 | 词频 4 | 口语 1 |  
@@ -6043,8 +5996,7 @@ hunting /'hʌntɪŋ/ n
 
 固定搭配
 ---
-- in a / one's hurry
-1.**匆忙；急于：**  
+## - *in a / one's hurry  **匆忙；急于：**  
 
  > He was in a hurry to leave.  
  > 他急着要离开。  
@@ -6052,8 +6004,7 @@ hunting /'hʌntɪŋ/ n
  > In his hurry to catch the train, he left his book in the taxi.  
  > 他匆匆忙忙地去赶火车，把书落在了出租车里。  
 
-- in no hurry
-1.**不着急：**  
+## - *in no hurry  **不着急：**  
 
  > I don't mind waiting — I'm in no hurry / I'm not in a hurry.  
  > 我可以等，我不着急。  
@@ -6064,6 +6015,7 @@ hunting /'hʌntɪŋ/ n
 ##### 题目  
 — OK, I'll fix your computer right now.  
 — Oh, take your time. I'm ___________ no hurry.   
+来源：2014 天津改  
 ##### 答案 in  
   
 ##### 题目  
@@ -6073,10 +6025,11 @@ A.No sense
 B.No hurry  
 C.No way  
 D.No use  
+来源：2009 江西  
 ##### 答案 B  
   
 
-# ***hurry*** v
+# *** *hurry*** v
 英音 'hʌri     美音 'hɜːri  
 
 | 词频 4 | 口语 1 |  
@@ -6099,8 +6052,7 @@ D.No use
 
 固定搭配
 ---
-- hurry up
-1.**[口语] 快点；(使) 加快：**  
+## - *hurry up  **[口语] 快点；(使) 加快：**  
 
  > You'll be late if you don't hurry up.  
  > 如果你不快点就要迟到了。  
@@ -6125,10 +6077,11 @@ hurriedly /'hʌridli/ adv
 ##### 题目  
 — Just a moment. I haven't finished packing my suitcase.
 — Hurry _________. It's high time we left for the airport.  
+来源：2011 天津改  
 ##### 答案 up  
   
 
-# ***hurt*** v
+# *** *hurt*** v
 英音 hɜːt     美音 hɜːrt  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -6181,8 +6134,7 @@ hurriedly /'hʌridli/ adv
 
 固定搭配
 ---
-- it won’t / doesn’t hurt (sb) to do sth
-1.**(某人) 做某事也无妨：**  
+## - *it won’t / doesn’t hurt (sb) to do sth  **(某人) 做某事也无妨：**  
 
  > It wouldn’t hurt you to help with the housework occasionally.  
  > 你不妨偶尔帮忙做下家务。  
@@ -6193,14 +6145,16 @@ hurriedly /'hʌridli/ adv
 ##### 题目  
 — Do you know if Linda is willing to take charge of the program?
 — I doesn’t hurt ________ (ask), does it?  
+来源：2010 安徽改  
 ##### 答案  to ask  
   
 ##### 题目  
 Mike didn’t play football yesterday because he ________ (把腿弄伤了).  
+来源：2006 全国改  
 ##### 答案 had hurt his leg(s)  
   
 
-# ***hurt*** n
+# *** *hurt*** n
 英音 hɜːt     美音 hɜːrt  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -6218,7 +6172,7 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
  > 这真的伤害了他的感情。  
 
 
-# ***hurt*** adj
+# *** *hurt*** adj
 英音 hɜːt     美音 hɜːrt  
 
 | 词频 5 |  
@@ -6235,7 +6189,7 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
  > 伤心的表情  
 
 
-# ***husband*** n
+# *** *husband*** n
 英音 'hʌzbənd     美音 'hʌzbənd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6247,7 +6201,7 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 1.*高义频：* **丈夫**  
 
 
-# ***hush*** v
+# *** *hush*** v
 英音 hʌʃ     美音 hʌʃ  
 
 | 词频 1 |  
@@ -6257,7 +6211,7 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 1.*高义频：* **(使某人) 安静下来**  
 
 
-# ***hustle*** v
+# *** *hustle*** v
 英音 'hʌsl     美音 'hʌsl  
 
   
@@ -6267,7 +6221,7 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 1.**拼命干，努力干**  
 
 
-# ***hut*** n
+# *** *hut*** n
 英音 hʌt     美音 hʌt  
 
 | 词频 2 |  
@@ -6279,7 +6233,7 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 1.*高义频：* **小屋；棚屋**  
 
 
-# ***hybrid*** adj
+# *** *hybrid*** adj
 英音 'haɪbrɪd     美音 'haɪbrɪd  
 
 | 词频 1 |  
@@ -6289,7 +6243,7 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 1.**混合的；杂种的**  
 
 
-# ***hybrid*** n
+# *** *hybrid*** n
 英音 'haɪbrɪd     美音 'haɪbrɪd  
 
 | 词频 1 |  
@@ -6299,7 +6253,7 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 1.**杂交种；混血儿**  
 
 
-# ***hydro-electric*** adj
+# *** *hydro-electric*** adj
 英音 'haɪdrəʊɪ'lektrɪk     美音 'haɪdroʊɪ'lektrɪk  
 
 | 词频 1 |  
@@ -6309,7 +6263,7 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 1.**水力发电的**  
 
 
-# ***hydrogen*** n
+# *** *hydrogen*** n
 英音 'haɪdrədʒən     美音 'haɪdrədʒən  
 
 | 词频 1 |  
@@ -6321,7 +6275,7 @@ Mike didn’t play football yesterday because he ________ (把腿弄伤了).
 1.*高义频：* **氢气**  
 
 
-# ***hysteria*** n
+# *** *hysteria*** n
 英音 hɪ'stɪəriə     美音 hɪ'stɪriə  
 
 | 词频 1 |  

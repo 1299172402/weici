@@ -1,6 +1,6 @@
 # Pp
 
-# ***p.m.*** adv
+# *** *p.m.*** adv
 英音 ˌpiː'em     美音 ˌpiː'em  
 
 | 词频 4 |  
@@ -10,7 +10,7 @@
 1.*高义频：* **午后；下午**  
 
 
-# ***pace*** n
+# *** *pace*** n
 英音 peɪs     美音 peɪs  
 
 | 词频 3 | 书面 1 |  
@@ -40,11 +40,10 @@
 
 固定搭配
 ---
-- keep pace (with sb / sth)
-1.**(与某人 / 事物) 并驾齐驱；步调一致**  
+## - *keep pace (with sb / sth)  **(与某人 / 事物) 并驾齐驱；步调一致**  
 
 
-# ***pace*** vi
+# *** *pace*** vi
 英音 peɪs     美音 peɪs  
 
 | 词频 3 |  
@@ -54,7 +53,7 @@
 1.**vi & vt 踱步**  
 
 
-# ***pace*** v
+# *** *pace*** v
 英音 peɪs     美音 peɪs  
 
 | 词频 3 |  
@@ -64,7 +63,7 @@
 1.**踱步走**  
 
 
-# ***pack*** v
+# *** *pack*** v
 英音 pæk     美音 pæk  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -100,8 +99,7 @@
 
 固定搭配
 ---
-- pack up
-1.**把…打包；收拾 (行李)：**  
+## - *pack up  **把…打包；收拾 (行李)：**  
 
  > Once a friend and I packed up some peanut butter and sandwiches for an outing.   
  > 有一次，我和一个朋友包好一些花生酱和三明治去郊游。  
@@ -112,14 +110,16 @@
 ---
 ##### 题目  
 We were first greeted with the barking by a pack ________ dogs, seven to be exact.  
+来源：2019 全国  
 ##### 答案 of  
   
 ##### 题目  
 The workers ________ (把…打包) the glasses and marked on each box “This Side Up”.  
+来源：2010 全国改  
 ##### 答案 packed  
   
 
-# ***pack*** n
+# *** *pack*** n
 英音 pæk     美音 pæk  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -154,7 +154,7 @@ The workers ________ (把…打包) the glasses and marked on each box “This S
  > 红狼夜间单独或小群捕食。  
 
 
-# ***package*** n
+# *** *package*** n
 英音 'pækɪdʒ     美音 'pækɪdʒ  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -179,7 +179,7 @@ The workers ________ (把…打包) the glasses and marked on each box “This S
  > 软件包  
 
 
-# ***package*** v
+# *** *package*** v
 英音 'pækɪdʒ     美音 'pækɪdʒ  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -198,7 +198,7 @@ The workers ________ (把…打包) the glasses and marked on each box “This S
 ---
 packaging /'pækɪdʒɪŋ/ n [U]  
 
-# ***packet*** n
+# *** *packet*** n
 英音 'pækɪt     美音 'pækɪt  
 
 | 词频 2 | 口语 2 |  
@@ -210,7 +210,7 @@ packaging /'pækɪdʒɪŋ/ n [U]
 1.*高义频：* **小包；小袋**  
 
 
-# ***pad*** n
+# *** *pad*** n
 英音 pæd     美音 pæd  
 
 | 词频 2 | 口语 1 |  
@@ -222,7 +222,7 @@ packaging /'pækɪdʒɪŋ/ n [U]
 1.*高义频：* **垫；护垫；(猫、狗等动物的) 肉掌；爪垫**  
 
 
-# ***pad*** vi
+# *** *pad*** vi
 英音 pæd     美音 pæd  
 
 | 词频 2 |  
@@ -232,7 +232,7 @@ packaging /'pækɪdʒɪŋ/ n [U]
 1.*高义频：* **轻轻地走；放轻脚步走**  
 
 
-# ***paddle*** n
+# *** *paddle*** n
 英音 'pædl     美音 'pædl  
 
 | 词频 1 |  
@@ -244,7 +244,7 @@ packaging /'pækɪdʒɪŋ/ n [U]
 1.*高义频：* **桨；桨状物**  
 
 
-# ***paddle*** v
+# *** *paddle*** v
 英音 'pædl     美音 'pædl  
 
 | 词频 1 |  
@@ -254,7 +254,7 @@ packaging /'pækɪdʒɪŋ/ n [U]
 1.*高义频：* **用桨划 (船)：**  
 
 
-# ***page*** n
+# *** *page*** n
 英音 peɪdʒ     美音 peɪdʒ  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -280,11 +280,10 @@ packaging /'pækɪdʒɪŋ/ n [U]
 
 固定搭配
 ---
-- turn the page
-1.**翻开新的一页**  
+## - *turn the page  **翻开新的一页**  
 
 
-# ***pain*** n
+# *** *pain*** n
 英音 peɪn     美音 peɪn  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -317,8 +316,7 @@ packaging /'pækɪdʒɪŋ/ n [U]
 
 固定搭配
 ---
-- take pains to do sth 
-1.**努力 / 下苦功做某事：**  
+## - *take pains to do sth   **努力 / 下苦功做某事：**  
 
  > We should take pains to improve ourselves through learning and get prepared for the future.  
  > 我们应该通过学习努力改善自己，并为将来作好准备。  
@@ -329,7 +327,7 @@ packaging /'pækɪdʒɪŋ/ n [U]
 ---
 painless /'peɪnləs/ adj   
 
-# ***painful*** adj
+# *** *painful*** adj
 英音 'peɪnfl     美音 'peɪnfl  
 
 | 词频 4 |  
@@ -352,7 +350,7 @@ painless /'peɪnləs/ adj
 ---
 painfully /'peɪnfəli/ adv   
 
-# ***paint*** n
+# *** *paint*** n
 英音 peɪnt     美音 peɪnt  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -367,7 +365,7 @@ painfully /'peɪnfəli/ adv
  > 一盒颜料  
 
 
-# ***paint*** v
+# *** *paint*** v
 英音 peɪnt     美音 peɪnt  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -390,7 +388,7 @@ painfully /'peɪnfəli/ adv
  > 来源：外研② – 4  
 
 
-# ***paintbrush*** n
+# *** *paintbrush*** n
 英音 'peɪntbrʌʃ     美音 'peɪntbrʌʃ  
 
 | 词频 1 |  
@@ -400,7 +398,7 @@ painfully /'peɪnfəli/ adv
 1.**画笔**  
 
 
-# ***painter*** n
+# *** *painter*** n
 英音 'peɪntə(r)     美音 'peɪntər  
 
 | 词频 3 |  
@@ -412,7 +410,7 @@ painfully /'peɪnfəli/ adv
 1.*高义频：* **画家；油漆工**  
 
 
-# ***painting*** n
+# *** *painting*** n
 英音 'peɪntɪŋ     美音 'peɪntɪŋ  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -434,7 +432,7 @@ painfully /'peɪnfəli/ adv
 3.*高义频：* **[U] 刷油漆**  
 
 
-# ***pair*** n
+# *** *pair*** n
 英音 peə(r)     美音 per  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -465,14 +463,13 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 
 固定搭配
 ---
-- in pairs 
-1.**成对地；两人一组地：**  
+## - *in pairs   **成对地；两人一组地：**  
 
  > I want you to do this task in pairs.   
  > 我希望你们两人一组完成这项任务。  
 
 
-# ***palace*** n
+# *** *palace*** n
 英音 'pæləs     美音 'pæləs  
 
 | 词频 3 | 书面 1 |  
@@ -492,7 +489,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 2.*低义频：* **豪华住宅**  
 
 
-# ***pale*** adj
+# *** *pale*** adj
 英音 peɪl     美音 peɪl  
 
 | 词频 2 | 书面 1 |  
@@ -519,7 +516,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
  > 他因长期生病而脸色苍白。  
 
 
-# ***palm*** n
+# *** *palm*** n
 英音 pɑːm     美音 pɑːm  
 
 | 词频 2 |  
@@ -531,7 +528,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 1.*高义频：* **手掌；棕榈树**  
 
 
-# ***pan*** n
+# *** *pan*** n
 英音 pæn     美音 pæn  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -543,7 +540,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 1.*高义频：* **平底锅**  
 
 
-# ***pancake*** n
+# *** *pancake*** n
 英音 'pænkeɪk     美音 'pænkeɪk  
 
 | 词频 1 |  
@@ -555,7 +552,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 1.*高义频：* **薄饼**  
 
 
-# ***panda*** n
+# *** *panda*** n
 英音 'pændə     美音 'pændə  
 
 | 词频 2 |  
@@ -571,10 +568,11 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 ---
 ##### 题目  
 Fewer than a thousand ________ (大熊猫) still live in the wild.   
+来源：2013 陕西  
 ##### 答案 pandas  
   
 
-# ***panel*** n
+# *** *panel*** n
 英音 'pænl     美音 'pænl  
 
 | 词频 1 | 口语 3 | 书面 2 |  
@@ -586,7 +584,7 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 1.*高义频：* **嵌板；镶板；专家咨询小组**  
 
 
-# ***panic*** v
+# *** *panic*** v
 英音 'pænɪk     美音 'pænɪk  
 
 | 词频 3 | 口语 1 |  
@@ -603,7 +601,7 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
  > 来源：2010 江西改  
 
 
-# ***panic*** n
+# *** *panic*** n
 英音 'pænɪk     美音 'pænɪk  
 
 | 词频 3 | 口语 1 |  
@@ -627,10 +625,11 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 ---
 ##### 题目  
 “Tommy, run! Be quick! The house is on fire!” the mother shouted, with ________ (恐慌) clearly in her voice.  
+来源：2011 湖北改  
 ##### 答案 panic  
   
 
-# ***pants*** n
+# *** *pants*** n
 英音 pænts     美音 pænts  
 
 | 词频 1 | 口语 1 |  
@@ -642,7 +641,7 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 1.*高义频：* **裤子 (BrE trousers)**  
 
 
-# ***paparazzi*** n
+# *** *paparazzi*** n
 英音 ˌpæpə'rætsi     美音 ˌpæpə'rætsi  
 
 | 词频 1 |  
@@ -652,7 +651,7 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 1.**对名人作猎奇报道的新闻记者**  
 
 
-# ***paper*** n
+# *** *paper*** n
 英音 'peɪpə(r)     美音 'peɪpər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -691,7 +690,7 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
  > 他正在准备一篇关于世界人口的论文。  
 
 
-# ***paperwork*** n
+# *** *paperwork*** n
 英音 'peɪpəwɜːk     美音 'peɪpərwɜːrk  
 
 | 词频 1 |  
@@ -703,7 +702,7 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 1.*高义频：* **文书工作**  
 
 
-# ***parachute*** n
+# *** *parachute*** n
 英音 'pærəʃuːt     美音 'pærəʃuːt  
 
 | 词频 1 |  
@@ -715,7 +714,7 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 1.*高义频：* **降落伞**  
 
 
-# ***parade*** n
+# *** *parade*** n
 英音 pə'reɪd     美音 pə'reɪd  
 
 | 词频 1 |  
@@ -727,7 +726,7 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 1.*高义频：* **(庆祝) 游行；阅兵式**  
 
 
-# ***parade*** vi
+# *** *parade*** vi
 英音 pə'reɪd     美音 pə'reɪd  
 
 | 词频 1 |  
@@ -737,7 +736,7 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 1.**游行庆祝；游行示威**  
 
 
-# ***paragraph*** n
+# *** *paragraph*** n
 英音 'pærəɡrɑːf     美音 'pærəɡræf  
 
 | 词频 5 | 口语 1 | 书面 1 |  
@@ -749,7 +748,7 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 1.*低义频：* **(文章的) 自然段；小节**  
 
 
-# ***parallel*** n
+# *** *parallel*** n
 英音 'pærəlel     美音 'pærəlel  
 
 | 词频 1 | 阅读 1 |  
@@ -765,7 +764,7 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
  > 有跟这条道路平行的路吗？  
 
 
-# ***parallel*** adj
+# *** *parallel*** adj
 英音 'pærəlel     美音 'pærəlel  
 
 | 词频 1 | 阅读 1 |  
@@ -778,7 +777,7 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
  > 平行线  
 
 
-# ***paramount*** adj
+# *** *paramount*** adj
 英音 'pærəmaʊnt     美音 'pærəmaʊnt  
 
 | 词频 1 |  
@@ -788,7 +787,7 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 1.**至为重要的，首要的；至高无上的，权力最大的**  
 
 
-# ***paraphrase*** n
+# *** *paraphrase*** n
 英音 'pærəfreɪz     美音 'pærəfreɪz  
 
 | 词频 1 |  
@@ -798,7 +797,7 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 1.**（用更容易理解的文字）解释**  
 
 
-# ***paraphrase*** v
+# *** *paraphrase*** v
 英音 'pærəfreɪz     美音 'pærəfreɪz  
 
 | 词频 1 |  
@@ -808,7 +807,7 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 1.**（用更容易理解的文字）解释**  
 
 
-# ***parcel*** n
+# *** *parcel*** n
 英音 'pɑːsl     美音 'pɑːrsl  
 
 | 词频 1 | 口语 1 |  
@@ -824,7 +823,7 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
  > 来源：2009 上海改  
 
 
-# ***pardon*** n
+# *** *pardon*** n
 英音 'pɑːdn     美音 'pɑːrdn  
 
 | 词频 2 |  
@@ -842,8 +841,7 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 
 固定搭配
 ---
-- I beg your pardon
-1.*高义频：* **[未听清对方的话，请求重复；常简化为 “beg pardon” 或 “pardon”] 什么；请再说一遍：**  
+## - *I beg your pardon  1.*高义频：* **[未听清对方的话，请求重复；常简化为 “beg pardon” 或 “pardon”] 什么；请再说一遍：**  
 
  > — You’re very quiet today.   
  > 你今天话很少啊。  
@@ -860,7 +858,7 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
  > 对不起，我不知道这座位是你的。  
 
 
-# ***pardon*** vt
+# *** *pardon*** vt
 英音 'pɑːdn     美音 'pɑːrdn  
 
 | 词频 2 |  
@@ -890,10 +888,11 @@ A.Never mind
 B.Don’t mention it  
 C.Sure, I don’t smoke   
 D.Pardon me  
+来源：2007 全国  
 ##### 答案 D  
   
 
-# ***parent*** n
+# *** *parent*** n
 英音 'peərənt     美音 'perənt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -905,7 +904,7 @@ D.Pardon me
 1.*高义频：* **父；母；[复数] 双亲**  
 
 
-# ***park*** n
+# *** *park*** n
 英音 pɑːk     美音 pɑːrk  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -917,7 +916,7 @@ D.Pardon me
 1.*高义频：* **公园；园区：**  
 
 
-# ***park*** v
+# *** *park*** v
 英音 pɑːk     美音 pɑːrk  
 
 | 词频 4 | 口语 2 |  
@@ -934,7 +933,7 @@ D.Pardon me
  > 她把车停得七歪八斜，因为她刚学会开车。  
 
 
-# ***parking*** n
+# *** *parking*** n
 英音 'pɑːkɪŋ     美音 'pɑːrkɪŋ  
 
 | 词频 3 | 口语 1 |  
@@ -953,7 +952,7 @@ D.Pardon me
  > 人行道上禁止停车。  
 
 
-# ***parkland*** n
+# *** *parkland*** n
 英音 'pɑːklænd     美音 'pɑːrklænd  
 
 | 词频 1 |  
@@ -963,7 +962,7 @@ D.Pardon me
 1.**公共绿地**  
 
 
-# ***parliament*** n
+# *** *parliament*** n
 英音 'pɑːləmənt     美音 'pɑːrləmənt  
 
 | 词频 2 | 书面 2 |  
@@ -975,7 +974,7 @@ D.Pardon me
 1.*高义频：* **议会；国会**  
 
 
-# ***parrot*** n
+# *** *parrot*** n
 英音 'pærət     美音 'pærət  
 
 | 词频 3 |  
@@ -987,7 +986,7 @@ D.Pardon me
 1.*高义频：* **鹦鹉；人云亦云者**  
 
 
-# ***part*** n
+# *** *part*** n
 英音 pɑːt     美音 pɑːrt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1035,26 +1034,22 @@ Notes: part前有形容词修饰时使用不定冠词，没有形容词修饰时
 
 固定搭配
 ---
-- for the most part 
-1.**通常；多数情况下：**  
+## - *for the most part   **通常；多数情况下：**  
 
  > For the most part, students work to earn money for their own use.   
  > 大多数情况下，学生打工赚钱是为了自己用。  
 
-- in part 
-1.**部分地；在某种程度上：**  
+## - *in part   **部分地；在某种程度上：**  
 
  > Some people said his success was due in part to luck.  
  > 有人说他成功的部分原因是运气好。  
 
-- play / act a(n) (...) part (in)
-1.**(在…中) 扮演角色 / 起作用：**  
+## - *play / act a(n) (...) part (in)  **(在…中) 扮演角色 / 起作用：**  
 
  > Nowadays, the Internet plays an important part in our lives.   
  > 如今，互联网在我们的生活中起着重要作用。  
 
-- take part (in) 
-1.**参加；参与：**  
+## - *take part (in)   **参加；参与：**  
 
  > If Jim took part in the Talent Show, he’d win it for sure.   
  > 如果吉姆参加才艺大赛，他肯定会赢。  
@@ -1067,7 +1062,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 辨析 join, join in, take part in, attend
 四者都常译为“参加”。  
 
-# ***part*** v
+# *** *part*** v
 英音 pɑːt     美音 pɑːrt  
 
 | 词频 5 |  
@@ -1091,14 +1086,13 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 
 固定搭配
 ---
-- part with 
-1.**(不情愿地) 放弃：**  
+## - *part with   **(不情愿地) 放弃：**  
 
  > The novel is so attractive that I can’t stand parting with it.   
  > 这部小说引人入胜，我简直爱不释手。  
 
 
-# ***part*** adv
+# *** *part*** adv
 英音 pɑːt     美音 pɑːrt  
 
 | 词频 5 |  
@@ -1111,7 +1105,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 这次考试分为笔试和口试。  
 
 
-# ***part-time*** adv
+# *** *part-time*** adv
 英音 'pɑːt taɪm     美音 'pɑːrt taɪm  
 
 | 词频 4 | 口语 1 |  
@@ -1124,7 +1118,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 他在这家超市做兼职。  
 
 
-# ***part-time*** adj
+# *** *part-time*** adj
 英音 'pɑːt taɪm     美音 'pɑːrt taɪm  
 
 | 词频 4 | 口语 1 |  
@@ -1138,7 +1132,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：2016 全国书面表达  
 
 
-# ***partial*** adj
+# *** *partial*** adj
 英音 'pɑːʃl     美音 'pɑːrʃl  
 
 | 词频 1 |  
@@ -1148,7 +1142,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**部分的；局部的**  
 
 
-# ***participant*** n
+# *** *participant*** n
 英音 pɑː'tɪsɪpənt     美音 pɑːr'tɪsɪpənt  
 
 | 词频 4 |  
@@ -1158,7 +1152,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**参与者；参加者**  
 
 
-# ***participate*** vi
+# *** *participate*** vi
 英音 pɑː'tɪsɪpeɪt     美音 pɑːr'tɪsɪpeɪt  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -1183,7 +1177,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ---
 participant /pɑː'tɪsɪpənt/ n [C]  
 
-# ***participation*** n
+# *** *participation*** n
 英音 pɑːˌtɪsɪ'peɪʃn     美音 pɑːrˌtɪsɪ'peɪʃn  
 
 | 词频 3 |  
@@ -1199,7 +1193,7 @@ participant /pɑː'tɪsɪpənt/ n [C]
  > 我们想更多地参与决策。  
 
 
-# ***particular*** adj
+# *** *particular*** adj
 英音 pə'tɪkjələ(r)     美音 pər'tɪkjələr  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -1236,8 +1230,7 @@ participant /pɑː'tɪsɪpənt/ n [C]
 
 固定搭配
 ---
-- in particular 
-1.**尤其；特别：**  
+## - *in particular   **尤其；特别：**  
 
  > Parents and coaches in particular should act as better examples for children.   
  > 父母和教练尤其要给孩子们树立更好的榜样。  
@@ -1251,10 +1244,11 @@ participant /pɑː'tɪsɪpənt/ n [C]
 ---
 ##### 题目  
 She has already tried her best. Please don’t be too particular ________ her job.   
+来源：2011 江西改  
 ##### 答案 about / over  
   
 
-# ***particularly*** adv
+# *** *particularly*** adv
 英音 pə'tɪkjələli     美音 pər'tɪkjələrli  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -1270,7 +1264,7 @@ She has already tried her best. Please don’t be too particular ________ her jo
  > 近年来微博大受欢迎，尤其是在年轻人当中。  
 
 
-# ***partly*** adv
+# *** *partly*** adv
 英音 'pɑːtli     美音 'pɑːrtli  
 
 | 词频 3 | 口语 3 | 书面 2 |  
@@ -1283,7 +1277,7 @@ She has already tried her best. Please don’t be too particular ________ her jo
  > 她没有接受国外的那份工作，部分原因是母亲病了。  
 
 
-# ***partner*** n
+# *** *partner*** n
 英音 'pɑːtnə(r)     美音 'pɑːrtnər  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -1302,7 +1296,7 @@ She has already tried her best. Please don’t be too particular ________ her jo
 ---
 partnership /'pɑːtnəʃɪp/ n [U] & [C]   
 
-# ***party*** n
+# *** *party*** n
 英音 'pɑːti     美音 'pɑːrti  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1339,7 +1333,7 @@ partnership /'pɑːtnəʃɪp/ n [U] & [C]
  > 本周五你们有可供6人用餐的桌位吗？  
 
 
-# ***pass*** v
+# *** *pass*** v
 英音 pɑːs     美音 pæs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1389,21 +1383,18 @@ partnership /'pɑːtnəʃɪp/ n [U] & [C]
 
 固定搭配
 ---
-- pass around / round 
-1.**分发；传阅：**  
+## - *pass around / round   **分发；传阅：**  
 
  > Pass the cookies around / round, would you?   
  > 请把小甜饼分发给大家，好吗？  
 
-- pass away 
-1.**[委婉语] 去世；逝世：**  
+## - *pass away   **[委婉语] 去世；逝世：**  
 
  > He unfortunately passed away last year due to his cancer.  
  > 他去年因癌症不幸去世。  
  > 来源：2015 江苏  
 
-- pass by 
-1.**经过；(时间) 过去：**  
+## - *pass by   **经过；(时间) 过去：**  
 
  > Did you see a man in black pass by just now?   
  > 你刚才有没有看见一位身穿黑色衣服的男子经过？  
@@ -1412,27 +1403,23 @@ partnership /'pɑːtnəʃɪp/ n [U] & [C]
  > 3小时过去了，我越来越不耐烦。  
  > 来源：2009 重庆  
 
-- pass down 
-1.**把…传下去 (hand down)：**  
+## - *pass down   **把…传下去 (hand down)：**  
 
  > She wants to be a gymnastics coach to pass down what she’s learned to other kids when she grows up.   
  > 她长大后想成为一名体操教练，把她所学的传授给其他孩子。  
  > 来源：2013 北京  
 
-- pass off as
-1.**把…冒充成：**  
+## - *pass off as  **把…冒充成：**  
 
  > He escaped by passing himself off as a guard.   
  > 他冒充警卫逃走了。  
 
-- pass on 
-1.**传递：**  
+## - *pass on   **传递：**  
 
  > Please pass on the message to as many people as possible.   
  > 请将这个消息传达给尽可能多的人。  
 
-- pass out 
-1.**分发；分配；昏倒：**  
+## - *pass out   **分发；分配；昏倒：**  
 
  > In the home for sick people, I helped wash clothes and sheets, and pass out lunch.   
  > 在患者之家，我帮忙洗衣服和床单，分发午餐。  
@@ -1441,11 +1428,9 @@ partnership /'pɑːtnəʃɪp/ n [U] & [C]
  > I nearly passed out when I saw all the blood.   
  > 看到那么多血，我差点晕了过去。  
 
-- pass through 
-1.**穿过；通过**  
+## - *pass through   **穿过；通过**  
 
-- pass up
-1.**放弃；错过 (机会等)：**  
+## - *pass up  **放弃；错过 (机会等)：**  
 
  > You shouldn’t pass up the opportunity to go to university.  
  > 你不该放弃上大学的机会。  
@@ -1459,7 +1444,7 @@ passing /'pɑːsɪŋ/ adj
  > 一时的兴趣/想法  
 
 
-# ***pass*** n
+# *** *pass*** n
 英音 pɑːs     美音 pæs  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -1477,7 +1462,7 @@ passing /'pɑːsɪŋ/ adj
  > 没有通行证你不能进去。  
 
 
-# ***passage*** n
+# *** *passage*** n
 英音 'pæsɪdʒ     美音 'pæsɪdʒ  
 
 | 词频 5 | 书面 2 |  
@@ -1504,7 +1489,7 @@ passing /'pɑːsɪŋ/ adj
  > 我父母付不起去美国的船费。  
 
 
-# ***passbook*** n
+# *** *passbook*** n
 英音 'pæsbʊk     美音 'pɑːsbʊk  
 
 | 词频 1 |  
@@ -1516,7 +1501,7 @@ passing /'pɑːsɪŋ/ adj
 1.*高义频：* **南非共和国有色人种的身份证**  
 
 
-# ***passenger*** n
+# *** *passenger*** n
 英音 'pæsɪndʒə(r)     美音 'pæsɪndʒər  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -1528,7 +1513,7 @@ passing /'pɑːsɪŋ/ adj
 1.*高义频：* **乘客；旅客：**  
 
 
-# ***passer-by*** n
+# *** *passer-by*** n
 英音 'pɑːsə baɪ     美音 'pɑːsə baɪ  
 
 | 词频 2 |  
@@ -1540,7 +1525,7 @@ passing /'pɑːsɪŋ/ adj
 1.*高义频：* **过路人**  
 
 
-# ***passerby*** n
+# *** *passerby*** n
 英音 'pɑːsə'baɪ     美音 'pɑːsə'baɪ  
 
 | 词频 2 |  
@@ -1550,7 +1535,7 @@ passing /'pɑːsɪŋ/ adj
 1.**过路人，行人**  
 
 
-# ***passion*** n
+# *** *passion*** n
 英音 'pæʃn     美音 'pæʃn  
 
 | 词频 3 |  
@@ -1566,7 +1551,7 @@ passing /'pɑːsɪŋ/ adj
  > 来源：2015 天津  
 
 
-# ***passive*** adj
+# *** *passive*** adj
 英音 'pæsɪv     美音 'pæsɪv  
 
 | 词频 3 | 阅读 2 |  
@@ -1594,10 +1579,11 @@ passively /'pæsɪvli/ adv
 ---
 ##### 题目  
 Listening is thus an active, not a ________ (被动的), behavior consisting of hearing, understanding and remembering.  
+来源：2015 浙江改  
 ##### 答案 passive  
   
 
-# ***passport*** n
+# *** *passport*** n
 英音 'pɑːspɔːt     美音 'pæspɔːrt  
 
 | 词频 3 |  
@@ -1612,7 +1598,7 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
  > 申请 / 续签护照  
 
 
-# ***past*** adj
+# *** *past*** adj
 英音 pɑːst     美音 pæst  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1635,7 +1621,7 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
 2.*低义频：* **过去式的**  
 
 
-# ***past*** adv
+# *** *past*** adv
 英音 pɑːst     美音 pæst  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -1651,7 +1637,7 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
  > 几个月过去了，一直没有消息。  
 
 
-# ***past*** prep
+# *** *past*** prep
 英音 pɑːst     美音 pæst  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -1673,7 +1659,7 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
  > 她60多岁了。  
 
 
-# ***past*** n
+# *** *past*** n
 英音 pɑːst     美音 pæst  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -1697,7 +1683,7 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
  > 有着光辉历史的国家  
 
 
-# ***pat*** vt
+# *** *pat*** vt
 英音 pæt     美音 pæt  
 
 | 词频 1 |  
@@ -1707,7 +1693,7 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
 1.*高义频：* **(给予安慰的) 轻拍**  
 
 
-# ***pat*** n
+# *** *pat*** n
 英音 pæt     美音 pæt  
 
 | 词频 1 |  
@@ -1717,7 +1703,7 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
 1.**轻拍；拍**  
 
 
-# ***patch*** n
+# *** *patch*** n
 英音 pætʃ     美音 pætʃ  
 
 | 词频 1 |  
@@ -1727,7 +1713,7 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
 1.**（与周围部分不同的）小块，斑**  
 
 
-# ***patent*** n
+# *** *patent*** n
 英音 'pætnt; 'peɪtnt     美音 'pætnt  
 
 | 词频 2 | 阅读 1 |  
@@ -1743,7 +1729,7 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
  > 申请发明专利  
 
 
-# ***patent*** vt
+# *** *patent*** vt
 英音 'pætnt; 'peɪtnt     美音 'pætnt  
 
 | 词频 2 | 阅读 1 |  
@@ -1756,7 +1742,7 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
  > 那项发明已被那所大学申请了专利。  
 
 
-# ***path*** n
+# *** *path*** n
 英音 pɑːθ     美音 pæθ  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -1785,7 +1771,7 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
  > 成功的途径  
 
 
-# ***pathologist*** n
+# *** *pathologist*** n
 英音 pə'θɒlədʒɪst     美音 pə'θɑːlədʒɪst  
 
 | 词频 1 |  
@@ -1795,7 +1781,7 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
 1.**病理学家**  
 
 
-# ***patience*** n
+# *** *patience*** n
 英音 'peɪʃns     美音 'peɪʃns  
 
 | 词频 3 | 口语 1 |  
@@ -1823,10 +1809,11 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
 ---
 ##### 题目  
 Whenever I made mistakes, the teacher pointed them out with ________ (耐心).  
+来源：2013 江西改  
 ##### 答案 patience  
   
 
-# ***patient*** n
+# *** *patient*** n
 英音 'peɪʃnt     美音 'peɪʃnt  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -1838,7 +1825,7 @@ Whenever I made mistakes, the teacher pointed them out with ________ (耐心).
 1.*高义频：* **病人**  
 
 
-# ***patient*** adj
+# *** *patient*** adj
 英音 'peɪʃnt     美音 'peɪʃnt  
 
 | 词频 4 | 口语 1 |  
@@ -1857,7 +1844,7 @@ Whenever I made mistakes, the teacher pointed them out with ________ (耐心).
 ---
 patiently /'peɪʃntli/ adv   
 
-# ***patrol*** v
+# *** *patrol*** v
 英音 pə'trəʊl     美音 pə'troʊl  
 
 | 词频 1 |  
@@ -1867,7 +1854,7 @@ patiently /'peɪʃntli/ adv
 1.**巡逻，巡查**  
 
 
-# ***pattern*** n
+# *** *pattern*** n
 英音 'pætn     美音 'pætərn  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -1905,7 +1892,7 @@ patiently /'peɪʃntli/ adv
  > 为…树立典范  
 
 
-# ***pause*** vi
+# *** *pause*** vi
 英音 pɔːz     美音 pɔːz  
 
 | 词频 4 | 书面 1 |  
@@ -1919,7 +1906,7 @@ patiently /'peɪʃntli/ adv
  > 演讲人停下来喝了口水。  
 
 
-# ***pause*** n
+# *** *pause*** n
 英音 pɔːz     美音 pɔːz  
 
 | 词频 4 | 书面 1 |  
@@ -1937,7 +1924,7 @@ patiently /'peɪʃntli/ adv
  > 他稍稍停顿了一下又继续念下去。  
 
 
-# ***pavement*** n
+# *** *pavement*** n
 英音 'peɪvmənt     美音 'peɪvmənt  
 
 | 词频 2 |  
@@ -1949,7 +1936,7 @@ patiently /'peɪʃntli/ adv
 1.*高义频：* **(BrE) 人行道 (AmE sidewalk)**  
 
 
-# ***paw*** n
+# *** *paw*** n
 英音 pɔː     美音 pɔː  
 
 | 词频 1 |  
@@ -1959,7 +1946,7 @@ patiently /'peɪʃntli/ adv
 1.**爪子**  
 
 
-# ***pay*** n  重难点词汇
+# *** *pay*** n  重难点词汇
 英音 peɪ     美音 peɪ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1977,7 +1964,7 @@ patiently /'peɪʃntli/ adv
 ### 辨析 pay, salary, wage
 三者都可用作名词，含“报酬”之意，都常译为“工资”。  
 
-# ***pay*** v  重难点词汇
+# *** *pay*** v  重难点词汇
 英音 peɪ     美音 peɪ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1987,6 +1974,21 @@ patiently /'peɪʃntli/ adv
 英文释义
 ---
 1.*高义频：* **付 (钱)；支付：**  
+
+ > **pay a bill**  
+ > pay a bill   
+ > 支付账单  
+
+ > a low-paid / well-paid job   
+ > 低/高薪工作  
+
+ > **paying in cash**  
+ > — Are you paying in cash or by credit card?   
+ > 你付现金还是刷信用卡?  
+
+ > **pay cash**  
+ > — I’ll pay cash.   
+ > 我付现金。  
 
 - pay sb sth:
 
@@ -2008,21 +2010,6 @@ patiently /'peɪʃntli/ adv
  > Did Linda pay you for looking after her baby?   
  > 琳达付给你看孩子的钱了吗？  
 
- > **pay a bill**  
- > pay a bill   
- > 支付账单  
-
- > a low-paid / well-paid job   
- > 低/高薪工作  
-
- > **paying in cash**  
- > — Are you paying in cash or by credit card?   
- > 你付现金还是刷信用卡?  
-
- > **pay cash**  
- > — I’ll pay cash.   
- > 我付现金。  
-
 ### 辨析 cost, spend, pay, take
 这四个词都经常译为“花费”，但用法各不相同。  
 2.*高义频：* **给予 (注意)；进行 (访问)：**  
@@ -2038,8 +2025,7 @@ patiently /'peɪʃntli/ adv
 
 固定搭配
 ---
-- pay back
-1.*高义频：* **偿还；报答：**  
+## - *pay back  1.*高义频：* **偿还；报答：**  
 
  > Will you lend me $10? I’ll pay (it) back next month.  
  > 你借给我10美元好吗？我下个月还你。  
@@ -2053,11 +2039,9 @@ patiently /'peɪʃntli/ adv
  > Pay somebody back in his own coin.   
  > 以其人之道还治其人之身。  
 
-- pay down
-1.**先支付 (部分货款) 作为定金**  
+## - *pay down  **先支付 (部分货款) 作为定金**  
 
-- pay off
-1.*低义频：* **还清 (欠债等)：**  
+## - *pay off  1.*低义频：* **还清 (欠债等)：**  
 
  > Once we’ve paid off the debts, we’ll owe money to no one.   
  > 一旦还清了债务，我们就不欠任何人的钱了。  
@@ -2072,8 +2056,7 @@ patiently /'peɪʃntli/ adv
  > Over 1,000 workers will be paid off if this factory closes.   
  > 如果这家工厂关闭，会有超过1000名工人被解雇。  
 
-- pay up
-1.**(尤指不情愿或延迟) 付清欠款；偿还欠款**  
+## - *pay up  **(尤指不情愿或延迟) 付清欠款；偿还欠款**  
 
 
 真题解析
@@ -2081,18 +2064,21 @@ patiently /'peɪʃntli/ adv
 ##### 题目  
 — Dad, I don’t think Oliver the right sort of person for the job.
 — I see. I’ll go right away and pay him ________.  
+来源：2014 江苏改  
 ##### 答案 off  
   
 ##### 题目  
 The watch was very good, and he paid 20 percent down ________ it.  
+来源：2013 全国改  
 ##### 答案 for  
   
 ##### 题目  
 The athlete’s years of hard training paid ________ when she finally won the Olympic gold medal.  
+来源：2012 安徽改  
 ##### 答案 off  
   
 
-# ***payment*** n
+# *** *payment*** n
 英音 'peɪmənt     美音 'peɪmənt  
 
 | 词频 3 | 口语 2 | 书面 3 |  
@@ -2118,7 +2104,7 @@ The athlete’s years of hard training paid ________ when she finally won the Ol
  > 收款  
 
 
-# ***pea*** n
+# *** *pea*** n
 英音 piː     美音 piː  
 
 | 词频 1 |  
@@ -2130,7 +2116,7 @@ The athlete’s years of hard training paid ________ when she finally won the Ol
 1.*高义频：* **豌豆**  
 
 
-# ***peace*** n
+# *** *peace*** n
 英音 piːs     美音 piːs  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2166,8 +2152,7 @@ The athlete’s years of hard training paid ________ when she finally won the Ol
 
 固定搭配
 ---
-- at peace 
-1.**处于和平 / 平静状态：**  
+## - *at peace   **处于和平 / 平静状态：**  
 
  > The countries have been at peace for more than a century.   
  > 这些国家和平共处已有一个多世纪了。  
@@ -2175,20 +2160,18 @@ The athlete’s years of hard training paid ________ when she finally won the Ol
  > Her mind is at peace.   
  > 她心境平和。  
 
-- in peace 
-1.**和平地；安宁地：**  
+## - *in peace   **和平地；安宁地：**  
 
  > The two communities live together in peace.   
  > 这两个社区相安无事。  
 
-- make (one’s) peace with
-1.**同…言归于好：**  
+## - *make (one’s) peace with  **同…言归于好：**  
 
  > They finally made peace with each other after two weeks of arguing.   
  > 争吵了两周后，他们终于和好了。  
 
 
-# ***peaceful*** adj
+# *** *peaceful*** adj
 英音 'piːsfl     美音 'piːsfl  
 
 | 词频 3 | 口语 1 |  
@@ -2212,7 +2195,7 @@ The athlete’s years of hard training paid ________ when she finally won the Ol
 ---
 peacefully /'piːsfəli/ adv   
 
-# ***peacefully*** adv
+# *** *peacefully*** adv
 英音 'piːsfəli     美音 'piːsfəli  
 
 | 词频 3 |  
@@ -2222,7 +2205,7 @@ peacefully /'piːsfəli/ adv
 1.**和平地, 平静地**  
 
 
-# ***peacekeeper*** n
+# *** *peacekeeper*** n
 英音 'piːskiːpə(r)     美音 'piːskiːpər  
 
 | 词频 1 |  
@@ -2232,7 +2215,7 @@ peacefully /'piːsfəli/ adv
 1.**维和人员**  
 
 
-# ***peach*** n
+# *** *peach*** n
 英音 piːtʃ     美音 piːtʃ  
 
 | 词频 1 |  
@@ -2242,7 +2225,7 @@ peacefully /'piːsfəli/ adv
 1.*高义频：* **[C]桃子；桃树；[U] 桃 (红) 色**  
 
 
-# ***peacock*** n
+# *** *peacock*** n
 英音 'piːkɒk     美音 'piːkɑːk  
 
 | 词频 1 |  
@@ -2252,7 +2235,7 @@ peacefully /'piːsfəli/ adv
 1.**孔雀**  
 
 
-# ***peak*** vi
+# *** *peak*** vi
 英音 piːk     美音 piːk  
 
 | 词频 3 | 书面 1 |  
@@ -2266,7 +2249,7 @@ peacefully /'piːsfəli/ adv
  > 昨天的风速最高达每小时105英里。  
 
 
-# ***peak*** adj
+# *** *peak*** adj
 英音 piːk     美音 piːk  
 
 | 词频 3 | 书面 1 |  
@@ -2283,7 +2266,7 @@ peacefully /'piːsfəli/ adv
  > 旺季  
 
 
-# ***peak*** n
+# *** *peak*** n
 英音 piːk     美音 piːk  
 
 | 词频 3 | 书面 1 |  
@@ -2305,7 +2288,7 @@ peacefully /'piːsfəli/ adv
  > 在上午8点至9点之间，交通达到高峰。  
 
 
-# ***peanut*** n
+# *** *peanut*** n
 英音 'piːnʌt     美音 'piːnʌt  
 
 | 词频 3 |  
@@ -2317,7 +2300,7 @@ peacefully /'piːsfəli/ adv
 1.*高义频：* **花生 (=groundnut)**  
 
 
-# ***pear*** n
+# *** *pear*** n
 英音 peə(r)     美音 per  
 
 | 词频 1 | 口语 1 |  
@@ -2329,7 +2312,7 @@ peacefully /'piːsfəli/ adv
 1.*高义频：* **梨；梨树**  
 
 
-# ***pearl*** n
+# *** *pearl*** n
 英音 pɜːl     美音 pɜːrl  
 
 | 词频 1 |  
@@ -2341,7 +2324,7 @@ peacefully /'piːsfəli/ adv
 1.*高义频：* **珍珠**  
 
 
-# ***peasant*** n
+# *** *peasant*** n
 英音 'peznt     美音 'peznt  
 
 | 词频 2 |  
@@ -2353,7 +2336,7 @@ peacefully /'piːsfəli/ adv
 1.*高义频：* **(旧时的或贫穷国家的) 农民**  
 
 
-# ***pedal*** n
+# *** *pedal*** n
 英音 'pedl     美音 'pedl  
 
 | 词频 1 |  
@@ -2365,7 +2348,7 @@ peacefully /'piːsfəli/ adv
 1.*高义频：* **踏板；脚蹬**  
 
 
-# ***pedal*** v
+# *** *pedal*** v
 英音 'pedl     美音 'pedl  
 
 | 词频 1 |  
@@ -2377,7 +2360,7 @@ peacefully /'piːsfəli/ adv
 1.*高义频：* **骑 (自行车)；踩...的踏板**  
 
 
-# ***pedestrian*** n
+# *** *pedestrian*** n
 英音 pə'destriən     美音 pə'destriən  
 
 | 词频 2 |  
@@ -2389,7 +2372,7 @@ peacefully /'piːsfəli/ adv
 1.*高义频：* **行人；步行者**  
 
 
-# ***pedestrian*** adj
+# *** *pedestrian*** adj
 英音 pə'destriən     美音 pə'destriən  
 
 | 词频 2 |  
@@ -2399,7 +2382,7 @@ peacefully /'piːsfəli/ adv
 1.**行人（使用）的**  
 
 
-# ***peer*** n
+# *** *peer*** n
 英音 pɪə(r)     美音 pɪr  
 
 | 词频 4 |  
@@ -2409,7 +2392,7 @@ peacefully /'piːsfəli/ adv
 1.**同龄人**  
 
 
-# ***pen*** n
+# *** *pen*** n
 英音 pen     美音 pen  
 
 | 词频 4 | 口语 2 |  
@@ -2421,7 +2404,7 @@ peacefully /'piːsfəli/ adv
 1.*高义频：* **钢笔**  
 
 
-# ***penalty*** n
+# *** *penalty*** n
 英音 'penəlti     美音 'penəlti  
 
 | 词频 1 | 口语 1 |  
@@ -2433,7 +2416,7 @@ peacefully /'piːsfəli/ adv
 1.*高义频：* **处罚；罚款；罚球**  
 
 
-# ***pence*** n
+# *** *pence*** n
 英音 pens     美音 pens  
 
 | 词频 3 |  
@@ -2445,7 +2428,7 @@ peacefully /'piːsfəli/ adv
 1.*高义频：* **便士**  
 
 
-# ***pencil*** n
+# *** *pencil*** n
 英音 'pensl     美音 'pensl  
 
 | 词频 3 | 口语 2 |  
@@ -2457,7 +2440,7 @@ peacefully /'piːsfəli/ adv
 1.*高义频：* **铅笔**  
 
 
-# ***penguin*** n
+# *** *penguin*** n
 英音 'peŋɡwɪn     美音 'peŋɡwɪn  
 
 | 词频 3 |  
@@ -2469,7 +2452,7 @@ peacefully /'piːsfəli/ adv
 1.*高义频：* **企鹅**  
 
 
-# ***penicillin*** n
+# *** *penicillin*** n
 英音 ˌpenɪ'sɪlɪn     美音 ˌpenɪ'sɪlɪn  
 
 | 词频 1 |  
@@ -2479,7 +2462,7 @@ peacefully /'piːsfəli/ adv
 1.**盘尼西林，青霉素**  
 
 
-# ***penniless*** adj
+# *** *penniless*** adj
 英音 'peniləs     美音 'peniləs  
 
 | 词频 1 |  
@@ -2489,7 +2472,7 @@ peacefully /'piːsfəli/ adv
 1.*高义频：* **贫困的；身无分文的**  
 
 
-# ***penny*** n
+# *** *penny*** n
 英音 'peni     美音 'peni  
 
 | 词频 1 | 口语 3 |  
@@ -2505,7 +2488,7 @@ peacefully /'piːsfəli/ adv
 ---
 penniless /'peniləs/ adj   
 
-# ***pension*** n
+# *** *pension*** n
 英音 'penʃn     美音 'penʃn  
 
 | 词频 1 | 口语 2 | 书面 2 |  
@@ -2517,7 +2500,7 @@ penniless /'peniləs/ adj
 1.*高义频：* **养老金；退休金**  
 
 
-# ***pensioner*** n
+# *** *pensioner*** n
 英音 'penʃənə(r)     美音 'penʃənər  
 
 | 词频 1 |  
@@ -2529,7 +2512,7 @@ penniless /'peniləs/ adj
 1.*高义频：* **领取养老金者**  
 
 
-# ***people*** n
+# *** *people*** n
 英音 'piːpl     美音 'piːpl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2555,7 +2538,7 @@ penniless /'peniləs/ adj
  > 欧洲各民族  
 
 
-# ***pepper*** n
+# *** *pepper*** n
 英音 'pepə(r)     美音 'pepər  
 
 | 词频 1 | 口语 1 |  
@@ -2565,7 +2548,7 @@ penniless /'peniləs/ adj
 1.*高义频：* **[C] 胡椒；[U] 胡椒粉**  
 
 
-# ***per*** prep
+# *** *per*** prep
 英音 pə(r)     美音 pər  
 
 | 词频 4 | 口语 1 | 书面 3 |  
@@ -2578,7 +2561,7 @@ penniless /'peniləs/ adj
  > 每小时70英里  
 
 
-# ***perceive*** vt
+# *** *perceive*** vt
 英音 pə'siːv     美音 pər'sːv  
 
 | 词频 1 | 书面 1 |  
@@ -2590,7 +2573,7 @@ penniless /'peniləs/ adj
 1.*高义频：* **察觉；发觉；看待；理解**  
 
 
-# ***percent*** n
+# *** *percent*** n
 英音 pə'sent     美音 pə'sent  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -2614,7 +2597,7 @@ Notes: “percent of + 名词 / 代词”作主语，名词 / 代词为复数时
  > 这片陆地约30%覆盖着森林。  
 
 
-# ***percent*** adj & adv
+# *** *percent*** adj & adv
 英音 pə'sent     美音 pə'sent  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -2624,7 +2607,7 @@ Notes: “percent of + 名词 / 代词”作主语，名词 / 代词为复数时
 1.**每一百中**  
 
 
-# ***percentage*** n
+# *** *percentage*** n
 英音 pə'sentɪdʒ     美音 pər'sentɪdʒ  
 
 | 词频 2 | 书面 1 | 阅读 2 |  
@@ -2642,7 +2625,7 @@ Notes: “percent of + 名词 / 代词”作主语，名词 / 代词为复数时
  > 真人秀吸引了大部分观众。  
 
 
-# ***percentage*** adj & adv
+# *** *percentage*** adj & adv
 英音 pə'sentɪdʒ     美音 pər'sentɪdʒ  
 
 | 词频 2 | 阅读 2 |  
@@ -2655,7 +2638,7 @@ Notes: “percent of + 名词 / 代词”作主语，名词 / 代词为复数时
  > 10%的房价涨幅  
 
 
-# ***percussion*** n
+# *** *percussion*** n
 英音 pə'kʌʃn     美音 pə'rkʌʃn  
 
 | 词频 1 |  
@@ -2665,7 +2648,7 @@ Notes: “percent of + 名词 / 代词”作主语，名词 / 代词为复数时
 1.**打击乐器**  
 
 
-# ***perfect*** adj
+# *** *perfect*** adj
 英音 'pɜːfɪkt     美音 'pɜːrfɪkt  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2703,7 +2686,7 @@ Notes: “percent of + 名词 / 代词”作主语，名词 / 代词为复数时
 ---
 perfection /pə'fekʃn/ n [U]   
 
-# ***perfectly*** adv
+# *** *perfectly*** adv
 英音 'pɜːfɪktli     美音 'pɜːrfɪktli  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -2723,7 +2706,7 @@ perfection /pə'fekʃn/ n [U]
  > 完全明白。  
 
 
-# ***perform*** v  重难点词汇
+# *** *perform*** v  重难点词汇
 英音 pə'fɔːm     美音 pər'fɔːrm  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -2767,10 +2750,11 @@ perfection /pə'fekʃn/ n [U]
 ---
 ##### 题目  
 Listening to music at home is one thing, going to hear it ________ (perform) live is quite another.  
+来源：2015 浙江改  
 ##### 答案 (being) performed  
   
 
-# ***performance*** n
+# *** *performance*** n
 英音 pə'fɔːməns     美音 pər'fɔːrməns  
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -2809,10 +2793,11 @@ Listening to music at home is one thing, going to hear it ________ (perform) liv
 ---
 ##### 题目  
 Your ________ (perform) as a student will be excellent if you develop a habit of reflecting on how you learn.  
+来源：2012 浙江改  
 ##### 答案 performance  
   
 
-# ***performance-enhancing*** adj
+# *** *performance-enhancing*** adj
 英音 pə'fɔːməns ɪn'hɑːns     美音 pər'fɔːrməns ɪn'hæns  
 
 | 词频 1 |  
@@ -2822,7 +2807,7 @@ Your ________ (perform) as a student will be excellent if you develop a habit of
 1.**增强表现的**  
 
 
-# ***performer*** n
+# *** *performer*** n
 英音 pə'fɔːmə(r)     美音 pər'fɔːrmər  
 
 | 词频 2 |  
@@ -2834,7 +2819,7 @@ Your ________ (perform) as a student will be excellent if you develop a habit of
 1.*高义频：* **表演者；执行者**  
 
 
-# ***perfume*** n
+# *** *perfume*** n
 英音 'pɜːfjuːm     美音 pər'fjuːm  
 
 | 词频 1 |  
@@ -2849,7 +2834,7 @@ Your ________ (perform) as a student will be excellent if you develop a habit of
  > 她喷了太多香水。  
 
 
-# ***perhaps*** adv
+# *** *perhaps*** adv
 英音 pə'hæps, præps     美音 pər'hæps  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2862,7 +2847,7 @@ Your ________ (perform) as a student will be excellent if you develop a habit of
  > 我可能会去参加今晚的聚会，但现在还不大确定。  
 
 
-# ***period*** n
+# *** *period*** n
 英音 'pɪəriəd     美音 'pɪriəd  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -2896,7 +2881,7 @@ Your ________ (perform) as a student will be excellent if you develop a habit of
  > 自习课  
 
 
-# ***permanent*** adj
+# *** *permanent*** adj
 英音 'pɜːmənənt     美音 'pɜːrmənənt  
 
 | 词频 1 | 口语 2 | 书面 2 |  
@@ -2926,10 +2911,11 @@ A.practical
 B.avoidable  
 C.permanent   
 D.beneficial  
+来源：2011 湖北  
 ##### 答案 C  
   
 
-# ***permission*** n
+# *** *permission*** n
 英音 pə'mɪʃn     美音 pər'mɪʃn  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -2940,12 +2926,6 @@ D.beneficial
 ---
 1.*高义频：* **许可；准许：**  
 
-- permission to do sth:
-
- > Give yourself permission to rest when you’re tired.  
- > 当你疲倦的时候要让自己休息。  
- > 来源：2010 安徽  
-
  > **ask permission**  
  > ask permission  
  > 请求许可  
@@ -2954,8 +2934,14 @@ D.beneficial
  > He entered the room without permission.   
  > 他未经许可就进了房间。  
 
+- permission to do sth:
 
-# ***permit*** v  重难点词汇
+ > Give yourself permission to rest when you’re tired.  
+ > 当你疲倦的时候要让自己休息。  
+ > 来源：2010 安徽  
+
+
+# *** *permit*** v  重难点词汇
 英音 pə'mɪt     美音 pər'mɪt  
 
 | 词频 4 | 书面 1 |  
@@ -2968,6 +2954,11 @@ D.beneficial
 英译 to allow sth to happen or sb to do sth
 反义词 forbid： 
 
+ > **permitted,in**  
+ > Mobile phone conversations are not permitted anywhere in the library.  
+ > 图书馆内任何地方都禁止使用手机打电话。  
+ > 来源：2013 天津  
+
 - permit sb sth:
 
  > Please permit me a few words.   
@@ -2977,11 +2968,6 @@ D.beneficial
 
  > He permitted me to retake the test, and I pulled my grade to an A.   
  > 他允许我重新参加考试，我的成绩因此提高到了A。  
-
- > **permitted,in**  
- > Mobile phone conversations are not permitted anywhere in the library.  
- > 图书馆内任何地方都禁止使用手机打电话。  
- > 来源：2013 天津  
 
 2.*高义频：* **(使) 成为可能：**  
 
@@ -3003,18 +2989,21 @@ Notes: permit和allow的用法相似，permit是正式用语；指天气、时�
 ---
 ##### 题目  
 I was the first Western TV reporter ________ (permit) to film a special unit caring for pandas rescued from starvation in the wild.  
+来源：2016 全国  
 ##### 答案 permitted  
   
 ##### 题目  
 The party will be held in the garden, weather ________ (permit).   
+来源：2012 全国改  
 ##### 答案 permitting  
   
 ##### 题目  
 Passengers are permitted ________ (carry) only one piece of hand luggage onto the plane.  
+来源：2011 天津改  
 ##### 答案 to carry  
   
 
-# ***permit*** n  重难点词汇
+# *** *permit*** n  重难点词汇
 英音 'pɜːmɪt      美音 'pɜːmɪt   
 
 | 词频 4 | 书面 1 |  
@@ -3030,7 +3019,7 @@ Passengers are permitted ________ (carry) only one piece of hand luggage onto th
  > 居住证 / 停车证  
 
 
-# ***perseverance*** n
+# *** *perseverance*** n
 英音 ˌpɜːsɪ'vɪərəns     美音 ˌpɜːrsə'vɪrəns  
 
   
@@ -3040,7 +3029,7 @@ Passengers are permitted ________ (carry) only one piece of hand luggage onto th
 1.**不屈不挠，坚持不懈**  
 
 
-# ***person*** n
+# *** *person*** n
 英音 'pɜːsn     美音 'pɜːrsn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3062,14 +3051,13 @@ Passengers are permitted ________ (carry) only one piece of hand luggage onto th
 
 固定搭配
 ---
-- in person 
-1.**亲自；亲身 (personally)：**  
+## - *in person   **亲自；亲身 (personally)：**  
 
  > Fill in the form and return it either in person or by post.  
  > 2011 全国  
 
 
-# ***personal*** adj
+# *** *personal*** adj
 英音 'pɜːsənl     美音 'pɜːrsənl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3102,10 +3090,11 @@ Passengers are permitted ________ (carry) only one piece of hand luggage onto th
 ---
 ##### 题目  
 In this lecture, I can only give you a purely ________ (个人的) view of how we can live life to the full and make some suggestions about the future.  
+来源：2010 湖北改  
 ##### 答案 personal  
   
 
-# ***personality*** n
+# *** *personality*** n
 英音 ˌpɜːsə'næləti     美音 ˌpɜːrsə'næləti  
 
 | 词频 4 | 阅读 3 |  
@@ -3121,7 +3110,7 @@ In this lecture, I can only give you a purely ________ (个人的) view of how w
  > 她个性很强。  
 
 
-# ***personally*** adv
+# *** *personally*** adv
 英音 'pɜːsənəli     美音 'pɜːrsənəli  
 
 | 词频 3 | 口语 2 |  
@@ -3148,10 +3137,11 @@ In this lecture, I can only give you a purely ________ (个人的) view of how w
 ---
 ##### 题目  
 They gave money to the old people’s home either ________ (personal) or through their companies.  
+来源：2015 安徽改  
 ##### 答案 personally  
   
 
-# ***personification*** n
+# *** *personification*** n
 英音 pəˌsɒnɪfɪ'keɪʃn     美音 pərˌsɑːnɪfɪ'keɪʃn  
 
 | 词频 1 |  
@@ -3161,7 +3151,7 @@ They gave money to the old people’s home either ________ (personal) or through
 1.**拟人；人格化；化身**  
 
 
-# ***personnel*** n
+# *** *personnel*** n
 英音 ˌpɜːsə'nel     美音 ˌpɜːrsə'nel  
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 1 |  
@@ -3179,7 +3169,7 @@ They gave money to the old people’s home either ________ (personal) or through
  > 人事部  
 
 
-# ***perspective*** n
+# *** *perspective*** n
 英音 pə'spektɪv     美音 pər'spektɪv  
 
 | 词频 1 | 阅读 1 |  
@@ -3195,7 +3185,7 @@ They gave money to the old people’s home either ________ (personal) or through
  > 这部小说是以一个孩子的视角写的。  
 
 
-# ***persuade*** vt  重难点词汇
+# *** *persuade*** vt  重难点词汇
 英音 pə'sweɪd     美音 pər'sweɪd  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -3203,6 +3193,9 @@ They gave money to the old people’s home either ________ (personal) or through
 英文释义
 ---
 1.*高义频：* **说服；劝服 (talk into)：**  
+
+ > She is always easily persuaded.   
+ > 她总是很容易被说服。  
 
 - persuade sb to do sth:
 
@@ -3219,9 +3212,6 @@ They gave money to the old people’s home either ________ (personal) or through
 
  > We persuaded him out of his foolish plan.   
  > 我们说服了他放弃那项愚蠢的计划。  
-
- > She is always easily persuaded.   
- > 她总是很容易被说服。  
 
 Notes: 在表示“劝说”，但不一定“劝服”时，用try to persuade。  
  > She would try to persuade local business leaders to contribute money to the cause.  
@@ -3250,10 +3240,11 @@ persuasive /pə'sweɪsɪv/ adj
 ---
 ##### 题目  
 If she doesn’t want to go, nothing you can say will ________ (说服) her.  
+来源：2012 全国改  
 ##### 答案 persuade  
   
 
-# ***persuasion*** n
+# *** *persuasion*** n
 英音 pə'sweɪʒn     美音 pər'sweɪʒn  
 
 | 词频 2 |  
@@ -3265,7 +3256,7 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 1.*高义频：* **信服；说服**  
 
 
-# ***pessimistic*** adj
+# *** *pessimistic*** adj
 英音 ˌpesɪ'mɪstɪk     美音 ˌpesɪ'mɪstɪk  
 
 | 词频 1 |  
@@ -3280,7 +3271,7 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
  > 医生们对他康复的可能性很不乐观。  
 
 
-# ***pest*** n
+# *** *pest*** n
 英音 pest     美音 pest  
 
 | 词频 1 |  
@@ -3292,7 +3283,7 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 1.*高义频：* **害虫；有害的动物**  
 
 
-# ***pet*** n
+# *** *pet*** n
 英音 pet     美音 pet  
 
 | 词频 5 |  
@@ -3304,7 +3295,7 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 1.*高义频：* **宠物**  
 
 
-# ***petrol*** n
+# *** *petrol*** n
 英音 'petrəl     美音 'petrəl  
 
 | 词频 3 |  
@@ -3316,7 +3307,7 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 1.*高义频：* **汽油 (AmE gas / gasoline)**  
 
 
-# ***phase*** n
+# *** *phase*** n
 英音 feɪz     美音 feɪz  
 
 | 词频 1 |  
@@ -3326,7 +3317,7 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 1.**[C] 阶段；时期**  
 
 
-# ***phenomenon*** n
+# *** *phenomenon*** n
 英音 fə'nɒmɪnən     美音 fə'nɑːmɪnən  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -3345,7 +3336,7 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
  > 音乐家中的奇才  
 
 
-# ***philosopher*** n
+# *** *philosopher*** n
 英音 fə'lɒsəfə(r)     美音 fə'lɑːsəfər  
 
 | 词频 2 | 阅读 2 |  
@@ -3357,7 +3348,7 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 1.*高义频：* **哲学家；思想家**  
 
 
-# ***philosophical*** adj
+# *** *philosophical*** adj
 英音 ˌfɪlə'sɒfɪkl     美音 ˌfɪlə'sɑːfɪkl  
 
 | 词频 1 |  
@@ -3367,7 +3358,7 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 1.**哲学的,达观的**  
 
 
-# ***philosophy*** n
+# *** *philosophy*** n
 英音 fə'lɒsəfi     美音 fə'lɑːsəfi  
 
 | 词频 3 | 书面 1 | 阅读 1 |  
@@ -3382,7 +3373,7 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
  > 他的人生哲学是学习、赚钱、贡献和娱乐。  
 
 
-# ***phoenix*** n
+# *** *phoenix*** n
 英音 'fiːnɪks     美音 'fiːnɪks  
 
 | 词频 1 |  
@@ -3392,7 +3383,7 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 1.**凤凰**  
 
 
-# ***phone*** v
+# *** *phone*** v
 英音 fəʊn     美音 foʊn  
 
 | 词频 5 | 口语 3 |  
@@ -3408,7 +3399,7 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
  > 他打电话请我出去吃饭。  
 
 
-# ***phone*** n
+# *** *phone*** n
 英音 fəʊn     美音 foʊn  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -3429,15 +3420,14 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 
 固定搭配
 ---
-- (be) on the phone
-1.**在打电话：**  
+## - *(be) on the phone  **在打电话：**  
 
  > I couldn’t get through to Hannah. Her brother was talking on the phone all the time!  
  > 我打不通汉纳的电话，她哥哥一直在打电话。  
  > 来源：2008 湖南改  
 
 
-# ***phonetics*** n
+# *** *phonetics*** n
 英音 fə'netɪks     美音 fə'netɪks  
 
 | 词频 1 |  
@@ -3449,7 +3439,7 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 1.*高义频：* **语音学**  
 
 
-# ***photo*** n
+# *** *photo*** n
 英音 'fəʊtəʊ     美音 'foʊtoʊ  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -3469,7 +3459,7 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
  > 来源：2018 北京书面表达  
 
 
-# ***photocopy*** n
+# *** *photocopy*** n
 英音 'fəʊtəʊkɒpi     美音 'foʊtoʊkɑːpi  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -3481,7 +3471,7 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 1.*高义频：* **影印本；复印件**  
 
 
-# ***photocopy*** vt
+# *** *photocopy*** vt
 英音 'fəʊtəʊkɒpi     美音 'foʊtoʊkɑːpi  
 
 | 词频 1 |  
@@ -3491,7 +3481,7 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 1.*高义频：* **影印；复印**  
 
 
-# ***photograph*** n
+# *** *photograph*** n
 英音 'fəʊtəɡrɑːf     美音 'foʊtəɡræf  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -3506,7 +3496,7 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
  > 放大/打印照片  
 
 
-# ***photograph*** v
+# *** *photograph*** v
 英音 'fəʊtəɡrɑːf     美音 'foʊtəɡræf  
 
 | 词频 4 |  
@@ -3523,7 +3513,7 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
  > 我妹妹总是很上相。  
 
 
-# ***photographer*** n
+# *** *photographer*** n
 英音 fə'tɒɡrəfə(r)     美音 fə'tɑːɡrəfər  
 
 | 词频 3 |  
@@ -3535,7 +3525,7 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 1.*高义频：* **摄影师；摄影者**  
 
 
-# ***photography*** n
+# *** *photography*** n
 英音 fə'tɒɡrəfi     美音 fə'tɑːɡrəfi  
 
 | 词频 3 |  
@@ -3547,7 +3537,7 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 1.*高义频：* **摄影；摄影术**  
 
 
-# ***phrase*** n
+# *** *phrase*** n
 英音 freɪz     美音 freɪz  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -3562,7 +3552,7 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
  > 固定短语  
 
 
-# ***physical*** adj
+# *** *physical*** adj
 英音 'fɪzɪkl     美音 'fɪzɪkl  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -3597,7 +3587,7 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 ---
 physically /'fɪzɪkli/ adv   
 
-# ***physician*** n
+# *** *physician*** n
 英音 fɪ'zɪʃn     美音 fɪ'zɪʃn  
 
 | 词频 1 |  
@@ -3609,7 +3599,7 @@ physically /'fɪzɪkli/ adv
 1.*高义频：* **[正式用语]医生；内科医生**  
 
 
-# ***physicist*** n
+# *** *physicist*** n
 英音 'fɪzɪsɪst     美音 'fɪzɪsɪst  
 
 | 词频 1 |  
@@ -3621,7 +3611,7 @@ physically /'fɪzɪkli/ adv
 1.*高义频：* **物理学家**  
 
 
-# ***physics*** n
+# *** *physics*** n
 英音 'fɪzɪks     美音 'fɪzɪks  
 
 | 词频 3 | 口语 1 |  
@@ -3633,7 +3623,7 @@ physically /'fɪzɪkli/ adv
 1.*高义频：* **物理学**  
 
 
-# ***pianist*** n
+# *** *pianist*** n
 英音 'pɪənɪst     美音 'pɪənɪst  
 
 | 词频 3 |  
@@ -3645,7 +3635,7 @@ physically /'fɪzɪkli/ adv
 1.*高义频：* **钢琴家；钢琴演奏者**  
 
 
-# ***piano*** n
+# *** *piano*** n
 英音 pi'ænəʊ     美音 pi'ænoʊ  
 
 | 词频 4 | 口语 1 |  
@@ -3660,7 +3650,7 @@ physically /'fɪzɪkli/ adv
  > 弹钢琴  
 
 
-# ***pick*** vt  重难点词汇
+# *** *pick*** vt  重难点词汇
 英音 pɪk     美音 pɪk  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3682,6 +3672,10 @@ physically /'fɪzɪkli/ adv
 
 3.*高义频：* **挑选；选择：**  
 
+ > **picked,words**  
+ > He picked his words carefully.   
+ > 他用词细心谨慎。  
+
 - pick sb to do sth:
 
  > When I was in the third grade, I was picked to be the princess in the school play.  
@@ -3692,20 +3686,14 @@ physically /'fɪzɪkli/ adv
  > Ben was picked for the soccer team.  
  > 本被选进了足球队。  
 
- > **picked,words**  
- > He picked his words carefully.   
- > 他用词细心谨慎。  
-
 ### 辨析 select, choose, pick
 三者都有“选择”之意。  
 
 固定搭配
 ---
-- pick sb’s pocket
-1.**扒窃；掏包**  
+## - *pick sb’s pocket  **扒窃；掏包**  
 
-- pick on 
-1.**挑选；故意挑剔：**  
+## - *pick on   **挑选；故意挑剔：**  
 
  > Why do you pick on me to do the unpleasant jobs?  
  > 你为什么找我做这些令人不愉快的工作?  
@@ -3714,8 +3702,7 @@ physically /'fɪzɪkli/ adv
  > 为什么拿我的家庭说事？  
  > 来源：2011 江西  
 
-- pick out
-1.*高义频：* **选出；拣出：**  
+## - *pick out  1.*高义频：* **选出；拣出：**  
 
  > Perhaps you can help me pick out a pair of jeans, since you are an expert.  
  > 因为你是个行家，也许你能帮我挑选一条牛仔裤。  
@@ -3733,8 +3720,7 @@ physically /'fɪzɪkli/ adv
  > 有实验证明，人们可以辨认出某种特定的气味。  
  > 来源：2008 北京  
 
-- pick up
-1.*高义频：* **提起；拿起：**  
+## - *pick up  1.*高义频：* **提起；拿起：**  
 
 - 拿起；拾起：
 
@@ -3816,18 +3802,21 @@ physically /'fɪzɪkli/ adv
 ---
 ##### 题目  
 It’s surprising that your brother picked ________ Russian so quickly — he hasn’t lived there very long.   
+来源：2012 四川改  
 ##### 答案 up  
   
 ##### 题目  
 Sam picked ________ some knowledge of the computer just by watching others working on it.   
+来源：2010 山东改  
 ##### 答案 up  
   
 ##### 题目  
 It was so dark in the cinema that I could hardly pick ________ my friend.   
+来源：2007 四川改  
 ##### 答案 out  
   
 
-# ***pickpocket*** n
+# *** *pickpocket*** n
 英音 'pɪkpɒkɪt     美音 'pɪkpɑːkɪt  
 
 | 词频 1 |  
@@ -3839,7 +3828,7 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 1.*高义频：* **扒手；小偷**  
 
 
-# ***picnic*** n
+# *** *picnic*** n
 英音 'pɪknɪk     美音 'pɪknɪk  
 
 | 词频 4 |  
@@ -3859,7 +3848,7 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
  > 举行野餐  
 
 
-# ***picture*** n
+# *** *picture*** n
 英音 'pɪktʃə(r)     美音 'pɪktʃər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3884,7 +3873,7 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
  > 电影院  
 
 
-# ***picture*** vt
+# *** *picture*** vt
 英音 'pɪktʃə(r)     美音 'pɪktʃər  
 
 | 词频 5 |  
@@ -3898,7 +3887,7 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
  > 我想象不出他滑雪的样子，他那么笨手笨脚。  
 
 
-# ***pie*** n
+# *** *pie*** n
 英音 paɪ     美音 paɪ  
 
 | 词频 1 | 口语 2 |  
@@ -3910,7 +3899,7 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 1.*高义频：* **(西点) 馅饼；馅饼状物**  
 
 
-# ***piece*** n
+# *** *piece*** n
 英音 piːs     美音 piːs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3934,8 +3923,7 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 
 固定搭配
 ---
-- a piece of 
-1.**[与不可数名词连用] 一张 / 片 / 块等；一篇 / 首 / 幅等：**  
+## - *a piece of   **[与不可数名词连用] 一张 / 片 / 块等；一篇 / 首 / 幅等：**  
 
  > a piece of good news   
  > 一条好消息  
@@ -3943,11 +3931,10 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
  > a piece of paper / furniture   
  > 一张纸/一件家具  
 
-- a piece of cake
-1.**小菜一碟；轻而易举的事**  
+## - *a piece of cake  **小菜一碟；轻而易举的事**  
 
 
-# ***pierce*** v
+# *** *pierce*** v
 英音 pɪəs     美音 pɪrs  
 
 | 词频 1 |  
@@ -3957,7 +3944,7 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 1.**（声音、光、痛苦等）被突然听到（看到、感觉到等）**  
 
 
-# ***pig*** n
+# *** *pig*** n
 英音 pɪɡ     美音 pɪɡ  
 
 | 词频 2 | 口语 2 |  
@@ -3969,7 +3956,7 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 1.*高义频：* **猪；(指贪吃等) 猪一般的人**  
 
 
-# ***pigeon*** n
+# *** *pigeon*** n
 英音 'pɪdʒɪn     美音 'pɪdʒɪn  
 
 | 词频 3 |  
@@ -3981,7 +3968,7 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 1.*高义频：* **鸽子**  
 
 
-# ***pile*** n
+# *** *pile*** n
 英音 paɪl     美音 paɪl  
 
 | 词频 4 | 口语 2 |  
@@ -4007,7 +3994,7 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
  > 我们收到了大量的读者来信。  
 
 
-# ***pile*** vt
+# *** *pile*** vt
 英音 paɪl     美音 paɪl  
 
 | 词频 4 |  
@@ -4026,14 +4013,13 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 
 固定搭配
 ---
-- pile up 
-1.**堆积：**  
+## - *pile up   **堆积：**  
 
  > Work has piled up during his absence.   
  > 在他离开期间，工作堆了一堆。  
 
 
-# ***pilgrim*** n
+# *** *pilgrim*** n
 英音 'pɪlɡrɪm     美音 'pɪlɡrɪm  
 
 | 词频 1 |  
@@ -4043,7 +4029,7 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 1.**朝圣者**  
 
 
-# ***pill*** n
+# *** *pill*** n
 英音 pɪl     美音 pɪl  
 
 | 词频 2 | 口语 1 |  
@@ -4058,7 +4044,7 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
  > 良药苦口利于病。  
 
 
-# ***pillar*** n
+# *** *pillar*** n
 英音 'pɪlə(r)     美音 'pɪlər  
 
 | 词频 1 |  
@@ -4068,7 +4054,7 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 1.**支柱**  
 
 
-# ***pillow*** n
+# *** *pillow*** n
 英音 'pɪləʊ     美音 'pɪloʊ  
 
 | 词频 2 |  
@@ -4084,10 +4070,11 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 ---
 ##### 题目  
 The old lady needs a few feather ________ (枕头) to make herself comfortable.   
+来源：2009 全国  
 ##### 答案 pillows  
   
 
-# ***pilot*** n
+# *** *pilot*** n
 英音 'paɪlət     美音 'paɪlət  
 
 | 词频 4 | 书面 1 |  
@@ -4099,7 +4086,7 @@ The old lady needs a few feather ________ (枕头) to make herself comfortable.
 1.*高义频：* **飞行员；领航员：**  
 
 
-# ***pin*** vt
+# *** *pin*** vt
 英音 pɪn     美音 pɪn  
 
 | 词频 2 |  
@@ -4112,7 +4099,7 @@ The old lady needs a few feather ________ (枕头) to make herself comfortable.
  > 把文件(用别针)别在一起  
 
 
-# ***pin*** n
+# *** *pin*** n
 英音 pɪn     美音 pɪn  
 
 | 词频 2 | 口语 1 |  
@@ -4124,7 +4111,7 @@ The old lady needs a few feather ________ (枕头) to make herself comfortable.
 1.*高义频：* **别针；大头针**  
 
 
-# ***pine*** n
+# *** *pine*** n
 英音 paɪn     美音 paɪn  
 
 | 词频 2 |  
@@ -4136,7 +4123,7 @@ The old lady needs a few feather ________ (枕头) to make herself comfortable.
 1.*高义频：* **松树；松木**  
 
 
-# ***pineapple*** n
+# *** *pineapple*** n
 英音 'paɪnæpl     美音 'paɪnæpl  
 
 | 词频 1 |  
@@ -4148,7 +4135,7 @@ The old lady needs a few feather ________ (枕头) to make herself comfortable.
 1.*高义频：* **凤梨；菠萝**  
 
 
-# ***ping-pong*** n
+# *** *ping-pong*** n
 英音 pɪŋ pɒŋ     美音 pɪŋ pɔːŋ  
 
 | 词频 1 |  
@@ -4163,7 +4150,7 @@ The old lady needs a few feather ________ (枕头) to make herself comfortable.
  > 打乒乓球  
 
 
-# ***pink*** adj
+# *** *pink*** adj
 英音 pɪŋk     美音 pɪŋk  
 
 | 词频 2 | 口语 2 | 书面 1 |  
@@ -4177,10 +4164,11 @@ The old lady needs a few feather ________ (枕头) to make herself comfortable.
 ---
 ##### 题目  
 The little girl is wearing a ________ (粉红色) dress.   
+来源：2007 全国  
 ##### 答案 pink  
   
 
-# ***pink*** n
+# *** *pink*** n
 英音 pɪŋk     美音 pɪŋk  
 
 | 词频 2 |  
@@ -4192,7 +4180,7 @@ The little girl is wearing a ________ (粉红色) dress.
 1.*高义频：* **粉红色**  
 
 
-# ***pint*** n
+# *** *pint*** n
 英音 paɪnt     美音 paɪnt  
 
 | 词频 1 | 口语 2 |  
@@ -4207,7 +4195,7 @@ The little girl is wearing a ________ (粉红色) dress.
  > 一品脱啤酒  
 
 
-# ***pioneer*** vt
+# *** *pioneer*** vt
 英音 ˌpaɪə'nɪə(r)     美音 ˌpaɪə'nɪr  
 
 | 词频 2 |  
@@ -4220,7 +4208,7 @@ The little girl is wearing a ________ (粉红色) dress.
  > 他们将开辟一条到达海岸的新航线。  
 
 
-# ***pioneer*** n
+# *** *pioneer*** n
 英音 ˌpaɪə'nɪə(r)     美音 ˌpaɪə'nɪr  
 
 | 词频 2 |  
@@ -4232,7 +4220,7 @@ The little girl is wearing a ________ (粉红色) dress.
 1.*高义频：* **开拓者；先驱者**  
 
 
-# ***pipe*** n
+# *** *pipe*** n
 英音 paɪp     美音 paɪp  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -4244,7 +4232,7 @@ The little girl is wearing a ________ (粉红色) dress.
 1.*高义频：* **管子；导管；烟斗**  
 
 
-# ***piracy*** n
+# *** *piracy*** n
 英音 'paɪrəsi     美音 'paɪrəsi  
 
 | 词频 1 |  
@@ -4254,7 +4242,7 @@ The little girl is wearing a ________ (粉红色) dress.
 1.**盗版；海上抢劫**  
 
 
-# ***pirate*** n
+# *** *pirate*** n
 英音 'paɪrət     美音 'paɪrət  
 
 | 词频 3 |  
@@ -4266,7 +4254,7 @@ The little girl is wearing a ________ (粉红色) dress.
 1.*高义频：* **海盗；盗版**  
 
 
-# ***pitch*** n
+# *** *pitch*** n
 英音 pɪtʃ     美音 pɪtʃ  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -4278,7 +4266,7 @@ The little girl is wearing a ________ (粉红色) dress.
 1.*高义频：* **投球；场地**  
 
 
-# ***pitter-patter*** n
+# *** *pitter-patter*** n
 英音 'pɪtəpætə(r)     美音 'pɪtəpætər  
 
 | 词频 1 |  
@@ -4288,7 +4276,7 @@ The little girl is wearing a ________ (粉红色) dress.
 1.**劈里啪啦的声音,劈劈啪啪的声音**  
 
 
-# ***pity*** n
+# *** *pity*** n
 英音 'pɪti     美音 'pɪti  
 
 | 词频 4 | 口语 1 |  
@@ -4324,15 +4312,17 @@ The little girl is wearing a ________ (粉红色) dress.
 ##### 题目  
 — Can you come to a party on Saturday, Peter?
 — Oh, what pity! I’m already going out, I’m afraid.  
+来源：2015 安徽改 改错  
 ##### 答案 pity 前加 a  
   
 ##### 题目  
 — The Modern Art Exhibition in the City Museum has been cancelled.
 — Oh, no! It’s pity.  
+来源：2012 重庆改 改错  
 ##### 答案 pity 前加 a  
   
 
-# ***pity*** vt
+# *** *pity*** vt
 英音 'pɪti     美音 'pɪti  
 
 | 词频 4 |  
@@ -4345,7 +4335,7 @@ The little girl is wearing a ________ (粉红色) dress.
  > 我们同情他，这可怜的家伙。  
 
 
-# ***pizza*** n
+# *** *pizza*** n
 英音 'piːtsə     美音 'piːtsə  
 
 | 词频 1 | 口语 2 |  
@@ -4357,7 +4347,7 @@ The little girl is wearing a ________ (粉红色) dress.
 1.*高义频：* **比萨饼**  
 
 
-# ***pizzeria*** n
+# *** *pizzeria*** n
 英音 ˌpiːtsə'riːə     美音 ˌpiːtsə'riːə  
 
   
@@ -4367,7 +4357,7 @@ The little girl is wearing a ________ (粉红色) dress.
 1.**比萨饼餐厅**  
 
 
-# ***place*** n
+# *** *place*** n
 英音 pleɪs     美音 pleɪs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4414,8 +4404,7 @@ The little girl is wearing a ________ (粉红色) dress.
 
 固定搭配
 ---
-- in place 
-1.**在适当的位置；适当的；准备妥当：**  
+## - *in place   **在适当的位置；适当的；准备妥当：**  
 
  > The ropes hold you in place so that you don’t fall.   
  > 绳子会把你固定在适当的位置，这样你就不会掉下去。  
@@ -4427,8 +4416,7 @@ The little girl is wearing a ________ (粉红色) dress.
  > The service could be in place by the end of the year.  
  > 这项服务将于年底准备就绪。  
 
-- in place of 
-1.**代替；取代 (in sb’s / sth’s place)：**  
+## - *in place of   **代替；取代 (in sb’s / sth’s place)：**  
 
  > You can use yoghurt in place of cream to make this salad.   
  > 你可以用酸奶替代奶油来做这道沙拉。  
@@ -4436,8 +4424,7 @@ The little girl is wearing a ________ (粉红色) dress.
  > If I refused to go, they would send someone else in my place.   
  > 如果我不去，他们会派其他人代替我的。  
 
-- out of place 
-1.**不在合适的位置上；不合适的；不相称的：**  
+## - *out of place   **不在合适的位置上；不合适的；不相称的：**  
 
  > Some of these files seem to be out of place.   
  > 有些文件似乎没放对地方。  
@@ -4445,16 +4432,14 @@ The little girl is wearing a ________ (粉红色) dress.
  > I felt completely out of place among all these successful people.   
  > 夹在这些成功人士中间，我觉得自己格格不入。  
 
-- take place 
-1.**发生；举行：**  
+## - *take place   **发生；举行：**  
 
  > Great changes have taken place in the way people communicate in recent years.  
  > 近年来，人们交流的方式发生了巨大的变化。  
 
 ### 辨析 happen, take place
 二者都可指“发生”。  
-- take the place of 
-1.**代替 (take sb’s / sth’s place):**  
+## - *take the place of   **代替 (take sb’s / sth’s place):**  
 
  > Computers have taken the place of typewriters in offices.  
  > 在办公室里，电脑已取代了打字机。  
@@ -4463,7 +4448,7 @@ The little girl is wearing a ________ (粉红色) dress.
  > 她不能出席会议，所以她的助手代替了她。  
 
 
-# ***place*** vt
+# *** *place*** vt
 英音 pleɪs     美音 pleɪs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4491,10 +4476,11 @@ The little girl is wearing a ________ (粉红色) dress.
 ---
 ##### 题目  
 The furniture, with its modern style and bright colors, suits modern houses and their gardens, but looks ________ (不相称的) in the garden of a traditional home.  
+来源：2012 湖北改  
 ##### 答案 out of place  
   
 
-# ***plain*** n
+# *** *plain*** n
 英音 pleɪn     美音 pleɪn  
 
 | 词频 3 | 阅读 3 |  
@@ -4510,7 +4496,7 @@ The furniture, with its modern style and bright colors, suits modern houses and 
 ---
 plainly /'pleɪnli/ adv   
 
-# ***plain*** adj
+# *** *plain*** adj
 英音 pleɪn     美音 pleɪn  
 
 | 词频 3 | 口语 2 | 书面 1 | 阅读 3 |  
@@ -4553,7 +4539,7 @@ plainly /'pleɪnli/ adv
  > 我们坦白对你说吧。  
 
 
-# ***plain*** adv
+# *** *plain*** adv
 英音 pleɪn     美音 pleɪn  
 
 | 词频 3 | 阅读 3 |  
@@ -4568,7 +4554,7 @@ plainly /'pleɪnli/ adv
  > 愚蠢至极/绝对错误  
 
 
-# ***plan*** v
+# *** *plan*** v
 英音 plæn     美音 plæn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4609,7 +4595,7 @@ plainly /'pleɪnli/ adv
  > 构思文章/设计花园  
 
 
-# ***plan*** n
+# *** *plan*** n
 英音 plæn     美音 plæn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4635,7 +4621,7 @@ plainly /'pleɪnli/ adv
  > 目前没有建新办公楼的计划。  
 
 
-# ***plane*** n
+# *** *plane*** n
 英音 pleɪn     美音 pleɪn  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -4647,7 +4633,7 @@ plainly /'pleɪnli/ adv
 1.*高义频：* **飞机 (BrE aeroplane)**  
 
 
-# ***planet*** n
+# *** *planet*** n
 英音 'plænɪt     美音 'plænɪt  
 
 | 词频 4 | 书面 1 |  
@@ -4663,7 +4649,7 @@ plainly /'pleɪnli/ adv
  > 来源：人教③ – 4  
 
 
-# ***plank*** n
+# *** *plank*** n
 英音 plæŋk     美音 plæŋk  
 
   
@@ -4673,7 +4659,7 @@ plainly /'pleɪnli/ adv
 1.**平板支撑**  
 
 
-# ***planning*** n
+# *** *planning*** n
 英音 'plænɪŋ     美音 'plænɪŋ  
 
 | 词频 5 |  
@@ -4683,7 +4669,7 @@ plainly /'pleɪnli/ adv
 1.**规划；制订计划**  
 
 
-# ***plant*** n
+# *** *plant*** n
 英音 plɑːnt     美音 plænt  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -4703,7 +4689,7 @@ plainly /'pleɪnli/ adv
  > 钢厂/发电厂  
 
 
-# ***plant*** vt
+# *** *plant*** vt
 英音 plɑːnt     美音 plænt  
 
 | 词频 5 |  
@@ -4721,7 +4707,7 @@ plainly /'pleɪnli/ adv
  > 来源：2017 天津改  
 
 
-# ***plantation*** n
+# *** *plantation*** n
 英音 plɑːn'teɪʃn     美音 plæn'teɪʃn  
 
 | 词频 1 |  
@@ -4731,7 +4717,7 @@ plainly /'pleɪnli/ adv
 1.**农庄；庄园**  
 
 
-# ***plaster*** n
+# *** *plaster*** n
 英音 'plɑːstə(r)     美音 'plæstər  
 
   
@@ -4741,7 +4727,7 @@ plainly /'pleɪnli/ adv
 1.**创可贴**  
 
 
-# ***plastic*** n
+# *** *plastic*** n
 英音 'plæstɪk     美音 'plæstɪk  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -4756,7 +4742,7 @@ plainly /'pleɪnli/ adv
  > 那是一种塑料，外观制作得像铁一样。  
 
 
-# ***plastic*** adj
+# *** *plastic*** adj
 英音 'plæstɪk     美音 'plæstɪk  
 
 | 词频 4 |  
@@ -4776,10 +4762,11 @@ plainly /'pleɪnli/ adv
 ---
 ##### 题目  
 If you cannot find wooden boxes, you may use either ________ (塑料的) or metal ones instead.  
+来源：2009 陕西  
 ##### 答案 plastic  
   
 
-# ***plate*** n
+# *** *plate*** n
 英音 pleɪt     美音 pleɪt  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -4812,7 +4799,7 @@ If you cannot find wooden boxes, you may use either ________ (塑料的) or meta
  > 汽车牌照  
 
 
-# ***plateau*** n
+# *** *plateau*** n
 英音 'plætəʊ     美音 plæ'toʊ  
 
 | 词频 1 |  
@@ -4824,7 +4811,7 @@ If you cannot find wooden boxes, you may use either ________ (塑料的) or meta
 1.*高义频：* **高原**  
 
 
-# ***platform*** n
+# *** *platform*** n
 英音 'plætfɔːm     美音 'plætfɔːrm  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -4848,7 +4835,7 @@ If you cannot find wooden boxes, you may use either ________ (塑料的) or meta
  > 电子商务平台  
 
 
-# ***play*** v
+# *** *play*** v
 英音 pleɪ     美音 pleɪ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4906,14 +4893,13 @@ If you cannot find wooden boxes, you may use either ________ (塑料的) or meta
 
 固定搭配
 ---
-- play with
-1.**玩弄：**  
+## - *play with  **玩弄：**  
 
  > Stop playing with your food!  
  > 别老是摆弄食物！  
 
 
-# ***play*** n
+# *** *play*** n
 英音 pleɪ     美音 pleɪ  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -4943,7 +4929,7 @@ If you cannot find wooden boxes, you may use either ________ (塑料的) or meta
 ---
 playful /playful/ adj   
 
-# ***player*** n
+# *** *player*** n
 英音 'pleɪə(r)     美音 'pleɪər  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -4966,10 +4952,11 @@ playful /playful/ adj
 ---
 ##### 题目  
 All the football player on the playground cheered loudly.  
+来源：2019 全国  改错  
 ##### 答案 player--players  
   
 
-# ***playground*** n
+# *** *playground*** n
 英音 'pleɪɡraʊnd     美音 'pleɪɡraʊnd  
 
 | 词频 3 |  
@@ -4981,7 +4968,7 @@ All the football player on the playground cheered loudly.
 1.*高义频：* **操场；运动场；游乐场**  
 
 
-# ***playmate*** n
+# *** *playmate*** n
 英音 'pleɪmeɪt     美音 'pleɪmeɪt  
 
 | 词频 2 |  
@@ -4993,7 +4980,7 @@ All the football player on the playground cheered loudly.
 1.*高义频：* **玩伴；游伴**  
 
 
-# ***pleasant*** adj
+# *** *pleasant*** adj
 英音 'pleznt     美音 'pleznt  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -5019,7 +5006,7 @@ All the football player on the playground cheered loudly.
 ---
 pleasantly /'plezntli/ adv   
 
-# ***please*** v
+# *** *please*** v
 英音 pliːz     美音 pliːz  
 
 | 词频 5 | 书面 1 |  
@@ -5050,7 +5037,7 @@ pleasing /'pliːzɪŋ/ adj
  > 悦目的设计  
 
 
-# ***please*** int
+# *** *please*** int
 英音 pliːz     美音 pliːz  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -5072,7 +5059,7 @@ pleasing /'pliːzɪŋ/ adj
  > 来源：2013 四川  
 
 
-# ***pleased*** adj
+# *** *pleased*** adj
 英音 pliːzd     美音 pliːzd  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -5100,8 +5087,7 @@ pleasing /'pliːzɪŋ/ adj
 
 固定搭配
 ---
-- (be) pleased with oneself 
-1.**自鸣得意**  
+## - *(be) pleased with oneself   **自鸣得意**  
 
 
 真题解析
@@ -5109,10 +5095,11 @@ pleasing /'pliːzɪŋ/ adj
 ##### 题目  
 — I’m very ________ (please) with my own cooking. It looks nice and smells delicious.
 — Mm, it does have a pleasant smell.   
+来源：2002 京蒙皖改  
 ##### 答案 pleased  
   
 
-# ***pleasure*** n
+# *** *pleasure*** n
 英音 'pleʒə(r)     美音 'pleʒər  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -5142,14 +5129,12 @@ pleasing /'pliːzɪŋ/ adj
 
 固定搭配
 ---
-- for pleasure 
-1.**作为消遣：**  
+## - *for pleasure   **作为消遣：**  
 
  > We read mainly for information, not for pleasure.   
  > 我们读书主要是为了获取信息，并非为了消遣。  
 
-- it’s a pleasure / (it’s) my pleasure
-1.**[用于对别人感谢的回答] 别客气；没什么：**  
+## - *it’s a pleasure / (it’s) my pleasure  **[用于对别人感谢的回答] 别客气；没什么：**  
 
  > — Thank you for coming to help us.   
  > 谢谢你来帮助我们。  
@@ -5157,8 +5142,7 @@ pleasing /'pliːzɪŋ/ adj
  > — It’s a pleasure. / My pleasure.  
  > 别客气。  
 
-- with pleasure 
-1.**高兴地；[用于应答] 非常乐意：**  
+## - *with pleasure   **高兴地；[用于应答] 非常乐意：**  
 
  > Invited into a friend’s home, you should accept with pleasure.  
  > 如果被邀请去朋友家做客，你应该高兴地接受。  
@@ -5175,10 +5159,11 @@ pleasing /'pliːzɪŋ/ adj
 ##### 题目  
 — Could you be so kind as to close the window?
 — ________ (当然可以). (pleasure)  
+来源：2009 安徽改  
 ##### 答案 With pleasure  
   
 
-# ***plenty*** pron
+# *** *plenty*** pron
 英音 'plenti     美音 'plenti  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -5196,8 +5181,7 @@ pleasing /'pliːzɪŋ/ adj
 
 固定搭配
 ---
-- plenty of 
-1.**相当多的；充足的：**  
+## - *plenty of   **相当多的；充足的：**  
 
  > There are plenty of books on the shelf.   
  > 书架上有许多书。  
@@ -5215,10 +5199,11 @@ plentiful /'plentɪfl/ adj
 ---
 ##### 题目  
 We always keep plenty ________ spare paper, in case we run out.  
+来源：2006 浙江改  
 ##### 答案 of  
   
 
-# ***plot*** n
+# *** *plot*** n
 英音 plɒt     美音 plɑːt  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -5242,7 +5227,7 @@ We always keep plenty ________ spare paper, in case we run out.
  > 来源：译林⑧ – 1  
 
 
-# ***plot*** v
+# *** *plot*** v
 英音 plɒt     美音 plɑːt  
 
 | 词频 2 | 阅读 1 |  
@@ -5255,7 +5240,7 @@ We always keep plenty ________ spare paper, in case we run out.
  > 对我来说，创作最难的部分就是设计故事情节。  
 
 
-# ***plough*** n
+# *** *plough*** n
 英音 plaʊ     美音 plaʊ  
 
 | 词频 2 |  
@@ -5267,7 +5252,7 @@ We always keep plenty ________ spare paper, in case we run out.
 1.*高义频：* **犁；犁状工具：**  
 
 
-# ***plough*** v
+# *** *plough*** v
 英音 plaʊ     美音 plaʊ  
 
 | 词频 2 |  
@@ -5282,7 +5267,7 @@ We always keep plenty ________ spare paper, in case we run out.
  > 犁地  
 
 
-# ***plug*** n
+# *** *plug*** n
 英音 plʌɡ     美音 plʌɡ  
 
 | 词频 2 | 口语 1 |  
@@ -5300,7 +5285,7 @@ We always keep plenty ________ spare paper, in case we run out.
  > 三相插头  
 
 
-# ***plug*** vt
+# *** *plug*** vt
 英音 plʌɡ     美音 plʌɡ  
 
 | 词频 2 |  
@@ -5316,11 +5301,10 @@ We always keep plenty ________ spare paper, in case we run out.
 
 固定搭配
 ---
-- plug in
-1.**(使) 插上插头以接通电源**  
+## - *plug in  **(使) 插上插头以接通电源**  
 
 
-# ***plural*** n
+# *** *plural*** n
 英音 'plʊərəl     美音 'plʊrəl  
 
 | 词频 1 |  
@@ -5332,7 +5316,7 @@ We always keep plenty ________ spare paper, in case we run out.
 1.*高义频：* **复数**  
 
 
-# ***plural*** adj
+# *** *plural*** adj
 英音 'plʊərəl     美音 'plʊrəl  
 
 | 词频 1 |  
@@ -5342,7 +5326,7 @@ We always keep plenty ________ spare paper, in case we run out.
 1.*高义频：* **复数的**  
 
 
-# ***plus*** adj
+# *** *plus*** adj
 英音 plʌs     美音 plʌs  
 
 | 词频 3 |  
@@ -5358,7 +5342,7 @@ We always keep plenty ________ spare paper, in case we run out.
  > 零上5摄氏度/正3  
 
 
-# ***plus*** prep
+# *** *plus*** prep
 英音 plʌs     美音 plʌs  
 
 | 词频 3 | 口语 3 | 书面 2 |  
@@ -5374,7 +5358,7 @@ We always keep plenty ________ spare paper, in case we run out.
  > 他名利双收。  
 
 
-# ***plus*** n
+# *** *plus*** n
 英音 plʌs     美音 plʌs  
 
 | 词频 3 | 口语 3 | 书面 2 |  
@@ -5394,7 +5378,7 @@ We always keep plenty ________ spare paper, in case we run out.
  > 她懂法语对她的工作大有好处。  
 
 
-# ***plus*** conj
+# *** *plus*** conj
 英音 plʌs     美音 plʌs  
 
 | 词频 3 | 口语 3 | 书面 2 |  
@@ -5410,7 +5394,7 @@ We always keep plenty ________ spare paper, in case we run out.
  > 来源：北师大④ – 10  
 
 
-# ***pneumonia*** n
+# *** *pneumonia*** n
 英音 njuː'məʊniə     美音 nuː'moʊniə  
 
 | 词频 1 |  
@@ -5420,7 +5404,7 @@ We always keep plenty ________ spare paper, in case we run out.
 1.**肺炎**  
 
 
-# ***poacher*** n
+# *** *poacher*** n
 英音 'pəʊtʃə(r)     美音 'poʊtʃər  
 
 | 词频 1 |  
@@ -5430,7 +5414,7 @@ We always keep plenty ________ spare paper, in case we run out.
 1.**盗猎者；偷猎者**  
 
 
-# ***pocket*** n
+# *** *pocket*** n
 英音 'pɒkɪt     美音 'pɑːkɪt  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -5460,7 +5444,7 @@ We always keep plenty ________ spare paper, in case we run out.
  > 这家机构资金雄厚。  
 
 
-# ***pocket*** vt
+# *** *pocket*** vt
 英音 'pɒkɪt     美音 'pɑːkɪt  
 
 | 词频 4 |  
@@ -5473,7 +5457,7 @@ We always keep plenty ________ spare paper, in case we run out.
  > 麦琪锁好门，把钥匙放进口袋里。  
 
 
-# ***poem*** n
+# *** *poem*** n
 英音 'pəʊɪm     美音 'poʊəm  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -5485,7 +5469,7 @@ We always keep plenty ________ spare paper, in case we run out.
 1.*高义频：* **诗；韵文**  
 
 
-# ***poet*** n
+# *** *poet*** n
 英音 'pəʊɪt     美音 'poʊət  
 
 | 词频 3 | 书面 1 |  
@@ -5497,7 +5481,7 @@ We always keep plenty ________ spare paper, in case we run out.
 1.*高义频：* **诗人**  
 
 
-# ***poetic*** adj
+# *** *poetic*** adj
 英音 pəʊ'etɪk     美音 poʊ'etɪk  
 
 | 词频 2 |  
@@ -5507,7 +5491,7 @@ We always keep plenty ________ spare paper, in case we run out.
 1.**有诗意的；诗的**  
 
 
-# ***poetry*** n
+# *** *poetry*** n
 英音 'pəʊətri     美音 'poʊətri  
 
 | 词频 3 | 书面 1 |  
@@ -5519,7 +5503,7 @@ We always keep plenty ________ spare paper, in case we run out.
 1.*高义频：* **诗歌**  
 
 
-# ***point*** v  重难点词汇
+# *** *point*** v  重难点词汇
 英音 pɔɪnt     美音 pɔɪnt  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -5558,8 +5542,7 @@ We always keep plenty ________ spare paper, in case we run out.
 
 固定搭配
 ---
-- point out
-1.**把…指出来 (给看)；指出；指明：**  
+## - *point out  **把…指出来 (给看)；指出；指明：**  
 
  > **pointed out to**  
  > I pointed out to him where I used to live.  
@@ -5570,7 +5553,7 @@ We always keep plenty ________ spare paper, in case we run out.
  > 他指出这条路冬天不安全。  
 
 
-# ***point*** n  重难点词汇
+# *** *point*** n  重难点词汇
 英音 pɔɪnt     美音 pɔɪnt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5651,20 +5634,17 @@ We always keep plenty ________ spare paper, in case we run out.
 
 固定搭配
 ---
-- make a point of doing sth
-1.**(即使费力也) 特意做某事：**  
+## - *make a point of doing sth  **(即使费力也) 特意做某事：**  
 
  > He made a point of spending Saturdays with his children.   
  > 星期六他必定要和孩子们在一起。  
 
-- on the point of 
-1.**正要…的时候：**  
+## - *on the point of   **正要…的时候：**  
 
  > She was on the point of going out when the telephone rang.   
  > 她正要出去，电话铃响了。  
 
-- to the point 
-1.**中肯的；切题的：**  
+## - *to the point   **中肯的；切题的：**  
 
  > Your advice is very much to the point.  
  > 你的建议很中肯。  
@@ -5678,14 +5658,16 @@ We always keep plenty ________ spare paper, in case we run out.
 ---
 ##### 题目  
 What’s the point, in your opinion, ________ helping him if he doesn’t make an effort to help himself?  
+来源：2011 江西改  
 ##### 答案 of  
   
 ##### 题目  
 I like Mr Miner’s speech; it was clear and ________ the point.   
+来源：2008 辽宁改  
 ##### 答案 to   
   
 
-# ***poison*** n
+# *** *poison*** n
 英音 'pɔɪzn     美音 'pɔɪzn  
 
 | 词频 3 |  
@@ -5701,7 +5683,7 @@ I like Mr Miner’s speech; it was clear and ________ the point.
  > 来源：外研⑧ – 3  
 
 
-# ***poison*** vt
+# *** *poison*** vt
 英音 'pɔɪzn     美音 'pɔɪzn  
 
 | 词频 3 |  
@@ -5715,7 +5697,7 @@ I like Mr Miner’s speech; it was clear and ________ the point.
  > 来源：2010 广东  
 
 
-# ***poisonous*** adj
+# *** *poisonous*** adj
 英音 'pɔɪzənəs     美音 'pɔɪzənəs  
 
 | 词频 2 |  
@@ -5733,7 +5715,7 @@ I like Mr Miner’s speech; it was clear and ________ the point.
  > 毒害某人的思想  
 
 
-# ***polar*** adj
+# *** *polar*** adj
 英音 'pəʊlə(r)     美音 'poʊlər  
 
 | 词频 2 | 阅读 1 |  
@@ -5746,7 +5728,7 @@ I like Mr Miner’s speech; it was clear and ________ the point.
  > 北极熊  
 
 
-# ***pole*** n
+# *** *pole*** n
 英音 pəʊl     美音 poʊl  
 
 | 词频 4 | 书面 1 |  
@@ -5767,7 +5749,7 @@ I like Mr Miner’s speech; it was clear and ________ the point.
  > 北 / 南极  
 
 
-# ***police*** n
+# *** *police*** n
 英音 pə'liːs     美音 pə'liːs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5782,7 +5764,7 @@ I like Mr Miner’s speech; it was clear and ________ the point.
  > 警方已抓获杀人犯。  
 
 
-# ***police*** vt
+# *** *police*** vt
 英音 pə'liːs     美音 pə'liːs  
 
 | 词频 5 |  
@@ -5792,7 +5774,7 @@ I like Mr Miner’s speech; it was clear and ________ the point.
 1.**监督；管制 (monitor)**  
 
 
-# ***policeman*** n
+# *** *policeman*** n
 英音 pə'liːsmən     美音 pə'liːsmən  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -5804,7 +5786,7 @@ I like Mr Miner’s speech; it was clear and ________ the point.
 1.*高义频：* **男警察**  
 
 
-# ***policewoman*** n
+# *** *policewoman*** n
 英音 pə'liːswʊmən     美音 pə'liːswʊmən  
 
 | 词频 1 |  
@@ -5816,7 +5798,7 @@ I like Mr Miner’s speech; it was clear and ________ the point.
 1.*高义频：* **女警察**  
 
 
-# ***policy*** n
+# *** *policy*** n
 英音 'pɒləsi     美音 'pɑːləsi  
 
 | 词频 4 | 口语 1 | 书面 3 | 阅读 3 |  
@@ -5834,7 +5816,7 @@ I like Mr Miner’s speech; it was clear and ________ the point.
 2.*低义频：* **保险单**  
 
 
-# ***polish*** vt
+# *** *polish*** vt
 英音 'pɒlɪʃ     美音 'pɑːlɪʃ  
 
 | 词频 2 | 阅读 1 |  
@@ -5860,10 +5842,11 @@ A.approved
 B.quoted  
 C.polished   
 D.folded  
+来源：2012 湖北  
 ##### 答案 C  
   
 
-# ***polished*** adj
+# *** *polished*** adj
 英音 'pɒlɪʃt     美音 'pɑːlɪʃt  
 
 | 词频 1 |  
@@ -5873,7 +5856,7 @@ D.folded
 1.**优雅的, 精致的**  
 
 
-# ***polite*** adj
+# *** *polite*** adj
 英音 pə'laɪt     美音 pə'laɪt  
 
 | 词频 4 | 口语 1 |  
@@ -5903,10 +5886,11 @@ politeness /pə'laɪtnəs/ n [U]
 ---
 ##### 题目  
 After knocking _________ (礼貌地) at the door, the applicant entered the office of the general manager.  
+来源：2015 陕西  
 ##### 答案 politely  
   
 
-# ***political*** adj
+# *** *political*** adj
 英音 pə'lɪtɪkl     美音 pə'lɪtɪkl  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -5919,7 +5903,7 @@ After knocking _________ (礼貌地) at the door, the applicant entered the offi
  > 政党 / 政治领袖  
 
 
-# ***politician*** n
+# *** *politician*** n
 英音 ˌpɒlə'tɪʃn     美音 ˌpɑːlə'tɪʃn  
 
 | 词频 1 | 书面 2 |  
@@ -5931,7 +5915,7 @@ After knocking _________ (礼貌地) at the door, the applicant entered the offi
 1.*高义频：* **政治家；政客**  
 
 
-# ***politics*** n
+# *** *politics*** n
 英音 'pɒlətɪks     美音 'pɑːlətɪks  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -5954,7 +5938,7 @@ After knocking _________ (礼貌地) at the door, the applicant entered the offi
 
 Notes: politics单复数同形，指政治学、政治制度时视为单数，指政治见解时常用作复数。  
 
-# ***pollute*** vt
+# *** *pollute*** vt
 英音 pə'luːt     美音 pə'luːt  
 
 | 词频 3 |  
@@ -5975,7 +5959,7 @@ Notes: politics单复数同形，指政治学、政治制度时视为单数，�
  > 这条河已被各种工业废料污染了。  
 
 
-# ***polluted*** adj
+# *** *polluted*** adj
 英音 pə'luːtɪd     美音 pə'luːtɪd  
 
 | 词频 3 |  
@@ -5985,7 +5969,7 @@ Notes: politics单复数同形，指政治学、政治制度时视为单数，�
 1.**受到污染的**  
 
 
-# ***pollution*** n
+# *** *pollution*** n
 英音 pə'luːʃn     美音 pə'luːʃn  
 
 | 词频 4 | 书面 2 |  
@@ -6009,10 +5993,11 @@ Notes: politics单复数同形，指政治学、政治制度时视为单数，�
 ---
 ##### 题目  
 This switch has decreased ________ (pollute) in the country’s major lakes and reservoirs.  
+来源：2018 全国  
 ##### 答案 pollution  
   
 
-# ***polyphony*** n
+# *** *polyphony*** n
 英音 pə'lɪfəni     美音 pə'lɪfəni  
 
 | 词频 1 |  
@@ -6022,7 +6007,7 @@ This switch has decreased ________ (pollute) in the country’s major lakes and 
 1.**复调音乐（作品）**  
 
 
-# ***pompom*** n
+# *** *pompom*** n
 英音 'pɒmpɒm     美音 'pɑːmpɑːm  
 
 | 词频 1 |  
@@ -6032,7 +6017,7 @@ This switch has decreased ________ (pollute) in the country’s major lakes and 
 1.**（拉拉队队员用的）彩色塑料线球，绒球**  
 
 
-# ***pond*** n
+# *** *pond*** n
 英音 pɒnd     美音 pɑːnd  
 
 | 词频 3 | 口语 1 |  
@@ -6044,7 +6029,7 @@ This switch has decreased ________ (pollute) in the country’s major lakes and 
 1.*高义频：* **池塘**  
 
 
-# ***pool*** n
+# *** *pool*** n
 英音 puːl     美音 puːl  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -6056,7 +6041,7 @@ This switch has decreased ________ (pollute) in the country’s major lakes and 
 1.*高义频：* **水池；水塘；游泳池**  
 
 
-# ***poor*** adj
+# *** *poor*** adj
 英音 pɔː(r); pʊə     美音 pɔːr  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6100,10 +6085,11 @@ poorly /'pɔːli; 'pʊəli/ adv
 ---
 ##### 题目  
 It is difficult to figure out a global population of polar bears as much of the range has been ________ (poor) studied.  
+来源：2019 全国  
 ##### 答案 poorly  
   
 
-# ***pop*** adj
+# *** *pop*** adj
 英音 pɒp     美音 pɑːp  
 
 | 词频 3 |  
@@ -6116,7 +6102,7 @@ It is difficult to figure out a global population of polar bears as much of the 
  > 流行音乐  
 
 
-# ***pop*** n
+# *** *pop*** n
 英音 pɒp     美音 pɑːp  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -6128,7 +6114,7 @@ It is difficult to figure out a global population of polar bears as much of the 
 1.*高义频：* **流行音乐；流行歌曲；流行 (歌曲等) 唱片**  
 
 
-# ***pop*** v
+# *** *pop*** v
 英音 pɒp     美音 pɑːp  
 
 | 词频 3 |  
@@ -6145,11 +6131,10 @@ It is difficult to figure out a global population of polar bears as much of the 
 
 固定搭配
 ---
-- pop up
-1.**突然出现；冒出来**  
+## - *pop up  **突然出现；冒出来**  
 
 
-# ***popcorn*** n
+# *** *popcorn*** n
 英音 'pɒpkɔːn     美音 'pɑːpkɔːrn  
 
 | 词频 1 |  
@@ -6161,7 +6146,7 @@ It is difficult to figure out a global population of polar bears as much of the 
 1.*高义频：* **爆玉米花**  
 
 
-# ***popular*** adj  重难点词汇
+# *** *popular*** adj  重难点词汇
 英音 'pɒpjələ(r)     美音 'pɑːpjələr  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -6176,8 +6161,7 @@ It is difficult to figure out a global population of polar bears as much of the 
  > 在线投票越来越盛行，很多比赛都让人们参与进来投票。  
  > 来源：2016 江苏书面表达  
 
-- be popular with / among
-1.**为…喜欢；受…欢迎：**  
+## - *be popular with / among  **为…喜欢；受…欢迎：**  
 
  > The mobile phone is fashionable and convenient to carry, so it is very popular with youngsters.  
  > 这款手机样式新颖、携带方便，深受年轻人的欢迎。  
@@ -6203,10 +6187,11 @@ It is difficult to figure out a global population of polar bears as much of the 
 ---
 ##### 题目  
 This magazine is very popular ________ young people, who like its content and style.   
+来源：2007 湖北改  
 ##### 答案 with / among  
   
 
-# ***popularity*** n
+# *** *popularity*** n
 英音 ˌpɒpju'lærəti     美音 ˌpɑːpju'lærəti  
 
 | 词频 4 | 阅读 3 |  
@@ -6226,7 +6211,7 @@ This magazine is very popular ________ young people, who like its content and st
  > 互联网的普及  
 
 
-# ***popularize*** vt
+# *** *popularize*** vt
 英音 'pɒpjələraɪz     
 
   
@@ -6236,7 +6221,7 @@ This magazine is very popular ________ young people, who like its content and st
 1.**普及；使流行；使通俗化**  
 
 
-# ***population*** n  重难点词汇
+# *** *population*** n  重难点词汇
 英音 ˌpɒpju'leɪʃn     美音 ˌpɑːpju'leɪʃn  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -6279,10 +6264,11 @@ A.has grown
 B.have grown  
 C.grew  
 D.are growing  
+来源：2009 江苏  
 ##### 答案 A  
   
 
-# ***porcelain*** n
+# *** *porcelain*** n
 英音 'pɔːsəlɪn     美音 'pɔːrsəlɪn  
 
   
@@ -6292,7 +6278,7 @@ D.are growing
 1.**瓷器**  
 
 
-# ***pork*** n
+# *** *pork*** n
 英音 pɔːk     美音 pɔːrk  
 
 | 词频 1 |  
@@ -6304,7 +6290,7 @@ D.are growing
 1.*高义频：* **猪肉**  
 
 
-# ***porridge*** n
+# *** *porridge*** n
 英音 'pɒrɪdʒ     美音 'pɔːrɪdʒ  
 
 | 词频 1 |  
@@ -6316,7 +6302,7 @@ D.are growing
 1.*高义频：* **粥；麦片粥**  
 
 
-# ***port*** n
+# *** *port*** n
 英音 pɔːt     美音 pɔːrt  
 
 | 词频 3 | 书面 2 |  
@@ -6328,7 +6314,7 @@ D.are growing
 1.*高义频：* **港；港口**  
 
 
-# ***portable*** adj
+# *** *portable*** adj
 英音 'pɔːtəbl     美音 'pɔːrtəbl  
 
 | 词频 3 |  
@@ -6341,7 +6327,7 @@ D.are growing
  > 便携式笔记本电脑  
 
 
-# ***porter*** n
+# *** *porter*** n
 英音 'pɔːtə(r)     美音 'pɔːrtər  
 
 | 词频 1 |  
@@ -6353,7 +6339,7 @@ D.are growing
 1.*高义频：* **搬运工人**  
 
 
-# ***portrait*** n
+# *** *portrait*** n
 英音 'pɔːtreɪt     美音 'pɔːrtrət  
 
 | 词频 1 |  
@@ -6363,7 +6349,7 @@ D.are growing
 1.**画像；肖像；人像**  
 
 
-# ***pose*** vi
+# *** *pose*** vi
 英音 pəʊz     美音 poʊz  
 
 | 词频 1 | 书面 1 |  
@@ -6377,7 +6363,7 @@ D.are growing
  > 婚礼之后，我们都摆好姿势合影。  
 
 
-# ***pose*** n
+# *** *pose*** n
 英音 pəʊz     美音 poʊz  
 
 | 词频 1 |  
@@ -6389,7 +6375,7 @@ D.are growing
 1.*高义频：* **姿势；姿态；假装：**  
 
 
-# ***position*** n  重难点词汇
+# *** *position*** n  重难点词汇
 英音 pə'zɪʃn     美音 pə'zɪʃn  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -6471,10 +6457,11 @@ D.are growing
 ---
 ##### 题目  
 From their ________ (位置) on the top of the TV Tower, visitors can have a better view of the city.  
+来源：2009 陕西改  
 ##### 答案 position  
   
 
-# ***position*** v  重难点词汇
+# *** *position*** v  重难点词汇
 英音 pə'zɪʃn     美音 pə'zɪʃn  
 
 | 词频 4 |  
@@ -6489,7 +6476,7 @@ From their ________ (位置) on the top of the TV Tower, visitors can have a bet
  > 来源：2017 天津改  
 
 
-# ***positive*** adj
+# *** *positive*** adj
 英音 'pɒzətɪv     美音 'pɑːzətɪv  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -6532,7 +6519,7 @@ From their ________ (位置) on the top of the TV Tower, visitors can have a bet
  > 来源：2013 福建改  
 
 
-# ***possess*** vt
+# *** *possess*** vt
 英音 pə'zes     美音 pə'zes  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -6552,7 +6539,7 @@ From their ________ (位置) on the top of the TV Tower, visitors can have a bet
  > 他了解到马具有许多特质，这使得它们成为导盲的极佳选择。  
 
 
-# ***possession*** n
+# *** *possession*** n
 英音 pə'zeʃn     美音 pə'zeʃn  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -6577,20 +6564,17 @@ From their ________ (位置) on the top of the TV Tower, visitors can have a bet
 
 固定搭配
 ---
-- in possession of 
-1.**占有；拥有：**  
+## - *in possession of   **占有；拥有：**  
 
  > Foreign visitors are required to be in possession of a passport.    
  > 外国游客必须持有护照。  
 
-- in the possession of 
-1.**为…所有：**  
+## - *in the possession of   **为…所有：**  
 
  > That picture is in the possession of Tom.  
  > 那张画为汤姆所有。  
 
-- take possession of 
-1.**占有；拥有；占领：**  
+## - *take possession of   **占有；拥有；占领：**  
 
  > We’ve already bought the house but we won’t take possession of it until May.   
  > 我们已经买了房子，但要到五月份才能拿到。  
@@ -6600,10 +6584,11 @@ From their ________ (位置) on the top of the TV Tower, visitors can have a bet
 ---
 ##### 题目  
 Technical progress would put our firm in ________ (possess) of the home market.   
+来源：2007 陕西  
 ##### 答案 possession  
   
 
-# ***possibility*** n
+# *** *possibility*** n
 英音 ˌpɒsə'bɪləti     美音 ˌpɑːsə'bɪləti  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -6642,10 +6627,11 @@ Technical progress would put our firm in ________ (possess) of the home market.
 ##### 题目  
 There is no possibility ________ Bob can win the first prize in the match.
   
+来源：2001 上海春改  
 ##### 答案 that  
   
 
-# ***possible*** adj
+# *** *possible*** adj
 英音 'pɒsəbl     美音 'pɑːsəbl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6654,6 +6640,9 @@ There is no possibility ________ Bob can win the first prize in the match.
 ---
 1.*高义频：* **可能的**  
 反义词 impossible: 
+
+ > Anything is possible.  
+ > 一切皆有可能。  
 
 - it is possible (for sb) to do sth:
 
@@ -6665,9 +6654,6 @@ There is no possibility ________ Bob can win the first prize in the match.
  > It is possible that we have met before.   
  > 我们可能以前见过。  
  > 来源：外研④ – 7  
-
- > Anything is possible.  
- > 一切皆有可能。  
 
 2.*高义频：* **合理的；可接受的**  
 英译 reasonable or acceptable in a particular situation：
@@ -6688,8 +6674,7 @@ There is no possibility ________ Bob can win the first prize in the match.
 
 固定搭配
 ---
-- as ... as possible 
-1.**尽可能...地：**  
+## - *as ... as possible   **尽可能...地：**  
 
  > Try to make your poster as attractive as possible.  
  > 使你的海报尽可能地吸引人。  
@@ -6702,14 +6687,12 @@ There is no possibility ________ Bob can win the first prize in the match.
  > 你要寻找尽可能多的机会练习听力。  
  > 来源：人教⑦ – 5  
 
-- if possible 
-1.**如果可能的话：**  
+## - *if possible   **如果可能的话：**  
 
  > I want to avoid the rush hour traffic if possible.  
  > 如有可能，我想避开交通高峰期。  
 
-- whenever / wherever possible
-1.**只要有可能；一有机会：**  
+## - *whenever / wherever possible  **只要有可能；一有机会：**  
 
  > Use public transport whenever possible (= when you can).  
  > 只要有可能，就用公共交通工具。  
@@ -6719,19 +6702,22 @@ There is no possibility ________ Bob can win the first prize in the match.
 ---
 ##### 题目  
 Get an early start and try to be as productive ________ possible before lunch.  
+来源：2016 全国  
 ##### 答案 as  
   
 ##### 题目  
 Raymond’s parents wanted him to have the ________ (good) possible education.  
+来源：2014 全国改  
 ##### 答案 best  
   
 ##### 题目  
 — Have you got any particular plans for the coming holiday?
 — Yes. ________ (如果可能的话), I’m going to visit some homes for the old in the city.  
+来源：2008 安徽改  
 ##### 答案 If possible  
   
 
-# ***possibly*** adv
+# *** *possibly*** adv
 英音 'pɒsəbli     美音 'pɑːsəbli  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -6761,15 +6747,14 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 
 固定搭配
 ---
-- could you possibly
-1.**... [表示郑重的请求] 您能…吗：**  
+## - *could you possibly  **... [表示郑重的请求] 您能…吗：**  
 
  > Could you possibly ask her to bring along that book?  
  > 您能让她把那本书带来吗？  
  > 来源：2008 天津  
 
 
-# ***post*** n
+# *** *post*** n
 英音 pəʊst     美音 poʊst  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -6788,7 +6773,7 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
  > 他把书寄走了。  
 
 
-# ***post*** vt
+# *** *post*** vt
 英音 pəʊst     美音 poʊst  
 
 | 词频 4 | 口语 1 |  
@@ -6803,7 +6788,7 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
  > 你把那本书寄给约翰了吗？  
 
 
-# ***post*** n
+# *** *post*** n
 英音 poʊst     美音 pəʊst  
 
 | 词频 4 |  
@@ -6824,7 +6809,7 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 2.*低义频：* **(网上的) 帖子**  
 
 
-# ***post*** vt
+# *** *post*** vt
 英音 pəʊst     美音 poʊst  
 
 | 词频 4 | 口语 1 |  
@@ -6845,7 +6830,7 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
  > 这张照片自发布以来已收到320万次点赞。  
 
 
-# ***post*** n
+# *** *post*** n
 英音 pəʊst     美音 poʊst  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -6870,7 +6855,7 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
  > 直到黎明时分，那个警察依然坚守岗位。  
 
 
-# ***post*** vt
+# *** *post*** vt
 英音 pəʊst     美音 poʊst  
 
 | 词频 4 | 口语 1 |  
@@ -6883,7 +6868,7 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
  > 2008年我被派往德国。  
 
 
-# ***post-impressionist*** adj
+# *** *post-impressionist*** adj
 英音 pəʊst ɪm'preʃənɪst     美音 poʊst ɪm'preʃənɪst  
 
 | 词频 1 |  
@@ -6893,7 +6878,7 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 1.*高义频：* **后印象派的**  
 
 
-# ***post-impressionist*** n
+# *** *post-impressionist*** n
 英音 pəʊst ɪm'preʃənɪst     美音 poʊst ɪm'preʃənɪst  
 
 | 词频 1 |  
@@ -6905,7 +6890,7 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 1.*高义频：* **后印象派艺术家**  
 
 
-# ***postage*** n
+# *** *postage*** n
 英音 'pəʊstɪdʒ     美音 'poʊstɪdʒ  
 
 | 词频 2 |  
@@ -6920,7 +6905,7 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
  > 航空信的邮资是多少？  
 
 
-# ***postcard*** n
+# *** *postcard*** n
 英音 'pəʊstkɑːd     美音 'poʊstkɑːrd  
 
 | 词频 3 |  
@@ -6932,7 +6917,7 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 1.*高义频：* **明信片**  
 
 
-# ***postcode*** n
+# *** *postcode*** n
 英音 'pəʊstkəʊd     美音 'poʊstkoʊd  
 
 | 词频 1 |  
@@ -6944,7 +6929,7 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 1.*高义频：* **邮政编码**  
 
 
-# ***poster*** n
+# *** *poster*** n
 英音 'pəʊstə(r)     美音 'poʊstər  
 
 | 词频 3 | 口语 1 |  
@@ -6956,7 +6941,7 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 1.*高义频：* **海报；招贴画**  
 
 
-# ***postman*** n
+# *** *postman*** n
 英音 'pəʊstmən     美音 'poʊstmən  
 
 | 词频 2 |  
@@ -6968,7 +6953,7 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 1.*高义频：* **邮递员**  
 
 
-# ***postpone*** vt
+# *** *postpone*** vt
 英音 pə'spəʊn     美音 poʊ'spoʊn  
 
 | 词频 1 |  
@@ -6977,17 +6962,17 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 ---
 1.*高义频：* **使延迟；使延期 (put off / back)：**  
 
+ > **postpone,until / to**  
+ > We’ll have to postpone the meeting until / to next week.   
+ > 我们不得不将会议推迟到下星期。  
+
 - postpone doing sth:
 
  > Let’s postpone making a decision until we have more information.   
  > 我们等有更多信息之后再作决定吧。  
 
- > **postpone,until / to**  
- > We’ll have to postpone the meeting until / to next week.   
- > 我们不得不将会议推迟到下星期。  
 
-
-# ***posture*** n
+# *** *posture*** n
 英音 'pɒstʃə(r)     美音 'pɑːstʃər  
 
 | 词频 1 |  
@@ -6999,7 +6984,7 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 1.*高义频：* **姿势；体态**  
 
 
-# ***pot*** n
+# *** *pot*** n
 英音 pɒt     美音 pɑːt  
 
 | 词频 2 | 口语 2 | 书面 1 |  
@@ -7019,7 +7004,7 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
  > 一锅汤  
 
 
-# ***potassium*** n
+# *** *potassium*** n
 英音 pə'tæsiəm     美音 pə'tæsiəm  
 
 | 词频 1 |  
@@ -7029,7 +7014,7 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 1.**钾**  
 
 
-# ***potato*** n
+# *** *potato*** n
 英音 pə'teɪtəʊ     美音 pə'teɪtoʊ  
 
 | 词频 2 | 口语 2 |  
@@ -7041,7 +7026,7 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 1.*高义频：* **马铃薯；土豆**  
 
 
-# ***potential*** adj
+# *** *potential*** adj
 英音 pə'tenʃl     美音 pə'tenʃl  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -7062,7 +7047,7 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 ---
 potentially  /pə'tenʃəli/ adv   
 
-# ***potential*** n
+# *** *potential*** n
 英音 pə'tenʃl     美音 pə'tenʃl  
 
 | 词频 4 | 书面 1 | 阅读 3 |  
@@ -7081,7 +7066,7 @@ potentially  /pə'tenʃəli/ adv
  > 他有潜力成为世界级的音乐家。  
 
 
-# ***pottery*** n
+# *** *pottery*** n
 英音 'pɒtəri     美音 'pɑːtəri  
 
 | 词频 1 |  
@@ -7093,7 +7078,7 @@ potentially  /pə'tenʃəli/ adv
 1.*高义频：* **陶器；陶艺**  
 
 
-# ***pound*** n
+# *** *pound*** n
 英音 paʊnd     美音 paʊnd  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -7105,7 +7090,7 @@ potentially  /pə'tenʃəli/ adv
 1.*高义频：* **[英国货币单位] 英镑；[重量单位] 磅**  
 
 
-# ***pour*** v
+# *** *pour*** v
 英音 pɔː(r)     美音 pɔːr  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -7143,7 +7128,7 @@ potentially  /pə'tenʃəli/ adv
  > 不雨则已，一雨倾盆。/ 祸不单行。  
 
 
-# ***poutine*** n
+# *** *poutine*** n
 英音 puːˈtɪn     美音 puːˈtɪn  
 
   
@@ -7153,7 +7138,7 @@ potentially  /pə'tenʃəli/ adv
 1.**肉汁乳酪薯条 (加拿大一种食品)**  
 
 
-# ***poverty*** n
+# *** *poverty*** n
 英音 'pɒvəti     美音 'pɑːvərti  
 
 | 词频 3 | 书面 1 | 阅读 3 |  
@@ -7173,7 +7158,7 @@ potentially  /pə'tenʃəli/ adv
  > 来源：外研③ – 2  
 
 
-# ***powder*** n
+# *** *powder*** n
 英音 'paʊdə(r)     美音 'paʊdər  
 
 | 词频 1 |  
@@ -7188,7 +7173,7 @@ potentially  /pə'tenʃəli/ adv
  > 洗衣粉  
 
 
-# ***powder-free*** adj
+# *** *powder-free*** adj
 英音 'paʊdəfriː     美音 'paʊdərfriː  
 
 | 词频 1 |  
@@ -7198,7 +7183,7 @@ potentially  /pə'tenʃəli/ adv
 1.**无需洗衣粉的**  
 
 
-# ***power*** n  重难点词汇
+# *** *power*** n  重难点词汇
 英音 'paʊə(r)     美音 'paʊər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -7278,7 +7263,7 @@ potentially  /pə'tenʃəli/ adv
  > 发动机功率  
 
 
-# ***power*** vt  重难点词汇
+# *** *power*** vt  重难点词汇
 英音 'paʊə(r)     美音 'paʊər  
 
 | 词频 5 |  
@@ -7291,7 +7276,7 @@ potentially  /pə'tenʃəli/ adv
  > 这架飞机由喷气发动机驱动。  
 
 
-# ***power-free*** adj
+# *** *power-free*** adj
 英音 'paʊəfriː     美音 'paʊəfriː  
 
 | 词频 1 |  
@@ -7301,7 +7286,7 @@ potentially  /pə'tenʃəli/ adv
 1.**不用电的**  
 
 
-# ***powerful*** adj
+# *** *powerful*** adj
 英音 'paʊəfl     美音 'paʊərfl  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -7336,7 +7321,7 @@ potentially  /pə'tenʃəli/ adv
 ---
 powerfully  /'paʊəfəli/ adv   
 
-# ***practical*** adj
+# *** *practical*** adj
 英音 'præktɪkl     美音 'præktɪkl  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -7371,7 +7356,7 @@ When we plan our vacation, mother often offers ________ (practice) suggestions.
 ##### 答案 practical  
   
 
-# ***practically*** adv
+# *** *practically*** adv
 英音 'præktɪkli     美音 'præktɪkli  
 
 | 词频 3 | 口语 1 |  
@@ -7390,7 +7375,7 @@ When we plan our vacation, mother often offers ________ (practice) suggestions.
  > 这个主意听起来不错，但我认为它实际上行不通。  
 
 
-# ***practice*** n  重难点词汇
+# *** *practice*** n  重难点词汇
 英音 'præktɪs     美音 'præktɪs  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -7431,27 +7416,24 @@ When we plan our vacation, mother often offers ________ (practice) suggestions.
 
 固定搭配
 ---
-- in practice 
-1.**实际上；事实上：**  
+## - *in practice   **实际上；事实上：**  
 
  > Your suggestion is very good in theory, but in practice it will not work.   
  > 理论上，你的建议很好，但实际上，是行不通的。  
 
-- out of practice 
-1.**生疏；疏于练习：**  
+## - *out of practice   **生疏；疏于练习：**  
 
  > If you don’t play, you’ll get out of practice.   
  > 不练习就会生疏。  
 
-- put ... into practice 
-1.**将…付诸实践：**  
+## - *put ... into practice   **将…付诸实践：**  
 
  > She’s been able to put a lot of what she’s learnt into practice in her home.  
  > 她在自己家里已经能实践很多自己学到的东西。  
  > 来源：2018 全国  
 
 
-# ***practice*** v
+# *** *practice*** v
 英音 'præktɪs     美音 'præktɪs  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -7462,14 +7444,14 @@ When we plan our vacation, mother often offers ________ (practice) suggestions.
 ---
 1.*高义频：* **实践；练习：**  
 
+ > You’ll never learn to ride a bike if you don’t practise.  
+ > 如果不练习，你就永远学不会骑自行车。  
+
 - practice doing sth:
 
  > You need to practise speaking English to make progress.  
  > 你需要练习讲英语以取得进步。  
  > 来源：外研① – 2  
-
- > You’ll never learn to ride a bike if you don’t practise.  
- > 如果不练习，你就永远学不会骑自行车。  
 
 2.*低义频：* **(医生、律师等) 执业；从事 (职业)：**  
 
@@ -7481,10 +7463,11 @@ When we plan our vacation, mother often offers ________ (practice) suggestions.
 ---
 ##### 题目  
 As a new driver, I have to practise ________ (park) the car in my small garage again and again.  
+来源：2008 上海春改  
 ##### 答案 parking  
   
 
-# ***practise*** v
+# *** *practise*** v
 英音 'præktɪs     美音 'præktɪs  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -7495,14 +7478,14 @@ As a new driver, I have to practise ________ (park) the car in my small garage a
 ---
 1.*高义频：* **实践；练习：**  
 
+ > You’ll never learn to ride a bike if you don’t practise.  
+ > 如果不练习，你就永远学不会骑自行车。  
+
 - practice doing sth:
 
  > You need to practise speaking English to make progress.  
  > 你需要练习讲英语以取得进步。  
  > 来源：外研① – 2  
-
- > You’ll never learn to ride a bike if you don’t practise.  
- > 如果不练习，你就永远学不会骑自行车。  
 
 2.*低义频：* **(医生、律师等) 执业；从事 (职业)：**  
 
@@ -7514,10 +7497,11 @@ As a new driver, I have to practise ________ (park) the car in my small garage a
 ---
 ##### 题目  
 As a new driver, I have to practise ________ (park) the car in my small garage again and again.  
+来源：2008 上海春改  
 ##### 答案 parking  
   
 
-# ***practitioner*** n
+# *** *practitioner*** n
 英音 præk'tɪʃənə(r)     美音 præk'tɪʃənər  
 
 | 词频 1 |  
@@ -7527,7 +7511,7 @@ As a new driver, I have to practise ________ (park) the car in my small garage a
 1.**（尤指医学或法律界的）从业人员**  
 
 
-# ***praise*** vt
+# *** *praise*** vt
 英音 'preɪz     美音 'preɪz  
 
 | 词频 4 |  
@@ -7549,10 +7533,11 @@ As a new driver, I have to practise ________ (park) the car in my small garage a
 ---
 ##### 题目  
 The Smiths are praised _________ the way they bring up their children.   
+来源：2013 山东改  
 ##### 答案 for  
   
 
-# ***praise*** n
+# *** *praise*** n
 英音 'preɪz     美音 'preɪz  
 
 | 词频 4 | 书面 1 |  
@@ -7572,14 +7557,13 @@ The Smiths are praised _________ the way they bring up their children.
 
 固定搭配
 ---
-- in praise of 
-1.**赞扬：**  
+## - *in praise of   **赞扬：**  
 
  > She wrote a poem in praise of freedom.   
  > 她写了一首诗歌颂自由。  
 
 
-# ***pray*** v
+# *** *pray*** v
 英音 preɪ     美音 preɪ  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -7594,7 +7578,7 @@ The Smiths are praised _________ the way they bring up their children.
  > 祈求和平  
 
 
-# ***prayer*** n
+# *** *prayer*** n
 英音 preə(r)     美音 prer  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -7612,7 +7596,7 @@ The Smiths are praised _________ the way they bring up their children.
  > 跪下祈祷  
 
 
-# ***precious*** adj
+# *** *precious*** adj
 英音 'preʃəs     美音 'preʃəs  
 
 | 词频 3 |  
@@ -7630,7 +7614,7 @@ The Smiths are praised _________ the way they bring up their children.
  > 宝贵的时间 / 珍贵的回忆 / 稀世珍宝  
 
 
-# ***precise*** adj
+# *** *precise*** adj
 英音 prɪ'saɪs     美音 prɪ'saɪs  
 
 | 词频 1 | 书面 1 | 阅读 1 |  
@@ -7659,7 +7643,7 @@ precisely  /prɪ'saɪsli/ adv
  > 很难准确了解这些变化会造成多大影响。  
 
 
-# ***precisely*** adv
+# *** *precisely*** adv
 英音 prɪ'saɪsli     美音 prɪ'saɪsli  
 
 | 词频 1 | 阅读 1 |  
@@ -7673,7 +7657,7 @@ precisely  /prɪ'saɪsli/ adv
  > 很难准确了解这些变化会造成多大影响。  
 
 
-# ***predict*** vt
+# *** *predict*** vt
 英音 prɪ'dɪkt     美音 prɪ'dɪkt  
 
 | 词频 4 | 书面 1 | 阅读 3 |  
@@ -7681,6 +7665,9 @@ precisely  /prɪ'saɪsli/ adv
 英文释义
 ---
 1.*高义频：* **预言；预计 (forecast)：**  
+
+ > predict tomorrow’s weather  
+ > 预告明天的天气  
 
 - predict + (that) / wh- 从句：
 
@@ -7697,9 +7684,6 @@ precisely  /prɪ'saɪsli/ adv
  > It was predicted that inflation would continue to fall.  
  > 据预测，通货膨胀率将继续下降。  
 
- > predict tomorrow’s weather  
- > 预告明天的天气  
-
 
 派生词汇
 ---
@@ -7710,10 +7694,11 @@ prediction /prɪ'dɪkʃn/ n [C] & [U]
 ---
 ##### 题目  
 No matter how carefully you plan your finances, no one can ________ (预测) when the unexpected will happen.   
+来源：2014 浙江改  
 ##### 答案 predict / forecast  
   
 
-# ***prediction*** n
+# *** *prediction*** n
 英音 prɪ'dɪkʃn     美音 prɪ'dɪkʃn  
 
 | 词频 2 |  
@@ -7725,7 +7710,7 @@ No matter how carefully you plan your finances, no one can ________ (预测) whe
 1.*高义频：* **预言；预报；预告**  
 
 
-# ***prefer*** vt  重难点词汇
+# *** *prefer*** vt  重难点词汇
 英音 prɪ'fɜː(r)     美音 prɪ'fɜːr  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -7735,6 +7720,15 @@ No matter how carefully you plan your finances, no one can ________ (预测) whe
 英文释义
 ---
 1.*高义频：* **更喜欢；更愿意：**  
+
+ > — Tea or coffee?  
+ > 喝茶还是咖啡？  
+
+ > — I’d prefer tea, thanks.   
+ > 我更喜欢茶，谢谢。  
+
+ > She prefers her coffee black.   
+ > 她更喜欢喝清咖啡。  
 
 - prefer sb / sth to do sth:
 
@@ -7771,15 +7765,6 @@ No matter how carefully you plan your finances, no one can ________ (预测) whe
  > I would prefer that you didn’t mention my name.   
  > 我希望你不要提到我的名字。  
 
- > — Tea or coffee?  
- > 喝茶还是咖啡？  
-
- > — I’d prefer tea, thanks.   
- > 我更喜欢茶，谢谢。  
-
- > She prefers her coffee black.   
- > 她更喜欢喝清咖啡。  
-
 Notes: prefer + that 从句结构中，从句中用虚拟语气。  
 
 派生词汇
@@ -7790,10 +7775,11 @@ preferred  /prɪ'fəd/ adj
 ---
 ##### 题目  
 We can eat out if you like, but I would ________ (更喜欢) to stay in.  
+来源：2014 陕西  
 ##### 答案 prefer  
   
 
-# ***preference*** n
+# *** *preference*** n
 英音 'prefrəns     美音 'prefrəns  
 
 | 词频 2 | 书面 1 |  
@@ -7816,7 +7802,7 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
  > 葡萄酒还是啤酒？你更喜欢哪种？  
 
 
-# ***prefer…to…*** 
+# *** *prefer…to…*** 
 
 
   
@@ -7829,7 +7815,7 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
  > 现在大多数孩子都喜欢看电视而不喜欢阅读。  
 
 
-# ***pregnant*** adj
+# *** *pregnant*** adj
 英音 'preɡnənt     美音 'preɡnənt  
 
 | 词频 2 | 口语 1 |  
@@ -7842,7 +7828,7 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
  > 她在公共汽车上将座位让给了一位孕妇。  
 
 
-# ***prehistoric*** adj
+# *** *prehistoric*** adj
 英音 ˌpriːhɪ'stɒrɪk     美音 ˌpriːhɪ'stɔːrɪk  
 
 | 词频 1 |  
@@ -7852,7 +7838,7 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
 1.*高义频：* **有文字记载以前的；史前的**  
 
 
-# ***prejudice*** n
+# *** *prejudice*** n
 英音 'predʒudɪs     美音 'predʒudɪs  
 
 | 词频 1 |  
@@ -7871,7 +7857,7 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
  > 对某人有偏见  
 
 
-# ***prejudice*** vt
+# *** *prejudice*** vt
 英音 'predʒudɪs     美音 'predʒudɪs  
 
 | 词频 1 |  
@@ -7881,7 +7867,7 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
 1.**使怀有（或形成）偏见**  
 
 
-# ***premier*** n
+# *** *premier*** n
 英音 'premiə(r)     美音 prɪ'mɪr  
 
 | 词频 1 |  
@@ -7893,7 +7879,7 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
 1.*高义频：* **总理；首相**  
 
 
-# ***premier*** adj
+# *** *premier*** adj
 英音 'premiə(r)     美音 prɪ'mɪr  
 
 | 词频 1 |  
@@ -7903,7 +7889,7 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
 1.*高义频：* **首要的；最成功的：**  
 
 
-# ***premiere*** n
+# *** *premiere*** n
 英音 'premieə(r)     美音 prɪ'mɪr  
 
 | 词频 1 |  
@@ -7913,7 +7899,7 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
 1.**首次公演, 公映**  
 
 
-# ***preparation*** n
+# *** *preparation*** n
 英音 ˌprepə'reɪʃn     美音 ˌprepə'reɪʃn  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -7935,20 +7921,18 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
 
 固定搭配
 ---
-- in preparation for 
-1.**为…作准备：**  
+## - *in preparation for   **为…作准备：**  
 
  > I want to improve my language skills in preparation for further study overseas.   
  > 我想提高我的语言技能为出国深造作准备。  
 
-- make preparations for 
-1.**为…作准备：**  
+## - *make preparations for   **为…作准备：**  
 
  > They are busy making preparations for the wedding.  
  > 他们正忙着筹备婚礼。  
 
 
-# ***prepare*** v  重难点词汇
+# *** *prepare*** v  重难点词汇
 英音 prɪ'peə(r)     美音 prɪ'per  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -7960,6 +7944,9 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
 1.*高义频：* **使做好准备；把...准备好**  
 英译 to make sth or sb ready to be used or to do sth：
 
+ > prepare dinner  
+ > 准备晚餐  
+
 - prepare sth / sb for sb / sth:
 
  > A hotel room is being prepared for the guest.  
@@ -7968,9 +7955,6 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
  > The function of education is to prepare us for life.  
  > 教育的作用是让我们对生活有所准备。  
  > 来源：2011 安徽  
-
- > prepare dinner  
- > 准备晚餐  
 
 2.*高义频：* **(使自己) 有准备**  
 英译 to make yourself ready to do sth or for sth that you expect to happen：
@@ -7999,7 +7983,7 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
  > 部队准备开赴战场。  
 
 
-# ***prepared*** adj
+# *** *prepared*** adj
 英音 prɪ'peəd     美音 prɪ'perd  
 
 | 词频 4 | 口语 2 |  
@@ -8008,6 +7992,15 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
 ---
 1.*高义频：* **准备好的；有所准备的：**  
 反义词 unprepared 
+
+ > Our monitor presented our teacher with the prepared flowers.  
+ > 我们班长给老师献上了准备好的花。  
+ > 来源：2012 陕西书面表达  
+
+ > **well prepared**  
+ > It seems you’re well prepared.   
+ > 看来你做好了充分的准备。  
+ > 来源：2008 重庆  
 
 - be / get prepared for:
 
@@ -8021,17 +8014,8 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
  > 所有参赛者一定要做好充分准备，以便发挥最佳水平。  
  > 来源：2009 天津书面表达改  
 
- > Our monitor presented our teacher with the prepared flowers.  
- > 我们班长给老师献上了准备好的花。  
- > 来源：2012 陕西书面表达  
 
- > **well prepared**  
- > It seems you’re well prepared.   
- > 看来你做好了充分的准备。  
- > 来源：2008 重庆  
-
-
-# ***preposition*** n
+# *** *preposition*** n
 英音 ˌprepə'zɪʃn     美音 ˌprepə'zɪʃn  
 
 | 词频 1 |  
@@ -8041,7 +8025,7 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
 1.**介词**  
 
 
-# ***prescription*** n
+# *** *prescription*** n
 英音 prɪ'skrɪpʃn     美音 prɪ'skrɪpʃn  
 
 | 词频 1 |  
@@ -8057,7 +8041,7 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
  > 来源：北师大⑦ – 21  
 
 
-# ***presence*** n
+# *** *presence*** n
 英音 'prezns     美音 'prezns  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -8075,14 +8059,13 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
 
 固定搭配
 ---
-- in the presence of sb / in sb’s presence 
-1.**当着某人的面：**  
+## - *in the presence of sb / in sb’s presence   **当着某人的面：**  
 
  > He apologized to her in the presence of the whole family.   
  > 他当着全家人的面向她道歉。  
 
 
-# ***present*** n  重难点词汇
+# *** *present*** n  重难点词汇
 英音 'preznt     美音 'preznt  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -8102,7 +8085,7 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
  > 买/送/打开礼物  
 
 
-# ***present*** vt  重难点词汇
+# *** *present*** vt  重难点词汇
 英音 prɪ'zent     美音 prɪ'zent  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -8112,15 +8095,15 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
 1.*高义频：* **颁发；授予；赠送**  
 英译 to give sth to sb, especially formally at a ceremony：
 
+ > The Grammy Awards are presented every year in the music industry in the United States.   
+ > 格莱美奖在美国音乐界每年颁奖一次。  
+ > 来源： 外研⑥ – 4  
+
 - present sth to sb / present sb with sth:
 
  > The young man presented the water to the old man. / The young man presented the old man with the water.  
  > 年轻人把水给老人端上来。  
  > 来源：2010 广东  
-
- > The Grammy Awards are presented every year in the music industry in the United States.   
- > 格莱美奖在美国音乐界每年颁奖一次。  
- > 来源： 外研⑥ – 4  
 
 2.*高义频：* **提出；呈递**  
 英译 to show or offer sth for other people to look at or consider：
@@ -8158,7 +8141,7 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
 ---
 presenter /prɪ'zentə(r)/ n [C]  
 
-# ***present*** n  重难点词汇
+# *** *present*** n  重难点词汇
 英音 'preznt     美音 'preznt  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -8175,15 +8158,13 @@ presenter /prɪ'zentə(r)/ n [C]
 
 固定搭配
 ---
-- at present
-1.**现在；目前：**  
+## - *at present  **现在；目前：**  
 
  > My classmate is at present in hospital with a broken leg.   
  > 我的同学因为摔断了腿目前正在住院。  
  > 来源：2009 陕西改  
 
-- for the present 
-1.**暂时 (for the moment)：**  
+## - *for the present   **暂时 (for the moment)：**  
 
  > We shall not need any more for the present.   
  > 我们暂时不需要更多的了。  
@@ -8192,7 +8173,7 @@ presenter /prɪ'zentə(r)/ n [C]
  > 我一时想不起来了。  
 
 
-# ***present*** adj  重难点词汇
+# *** *present*** adj  重难点词汇
 英音 'preznt     美音 'preznt  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -8223,7 +8204,7 @@ presenter /prɪ'zentə(r)/ n [C]
 ---
 presently /'prezntli/ adv   
 
-# ***present-day*** adj
+# *** *present-day*** adj
 英音 ˌpreznt'deɪ     美音 ˌpreznt'deɪ  
 
 | 词频 1 |  
@@ -8233,7 +8214,7 @@ presently /'prezntli/ adv
 1.**当今的, 现代的**  
 
 
-# ***presentation*** n
+# *** *presentation*** n
 英音 ˌprezn'teɪʃn     美音 ˌpriːzen'teɪʃn  
 
 | 词频 2 | 口语 2 | 书面 1 |  
@@ -8252,7 +8233,7 @@ presently /'prezntli/ adv
  > 颁奖仪式  
 
 
-# ***presenter*** n
+# *** *presenter*** n
 英音 prɪ'zentə(r)     美音 prɪ'zentər  
 
 | 词频 1 |  
@@ -8262,7 +8243,7 @@ presently /'prezntli/ adv
 1.**节目主持人**  
 
 
-# ***preservation*** n
+# *** *preservation*** n
 英音 ˌprezə'veɪʃn     美音 ˌprezər'veɪʃn  
 
 | 词频 2 |  
@@ -8272,7 +8253,7 @@ presently /'prezntli/ adv
 1.**维护；保存**  
 
 
-# ***preserve*** vt
+# *** *preserve*** vt
 英音 prɪ'zɜːv     美音 prɪ'zɜːrv  
 
 | 词频 2 | 书面 1 |  
@@ -8301,10 +8282,11 @@ preservation /ˌprezə'veɪʃn/ n [U]
 ##### 题目  
 — The town is so beautiful! I just love it.
 — Me too. The character of the town is well ________ (保存).  
+来源：2013 江苏改  
 ##### 答案 preserved / saved  
   
 
-# ***preserve*** n
+# *** *preserve*** n
 英音 prɪ'zɜːv     美音 prɪ'zɜːrv  
 
 | 词频 2 | 书面 1 |  
@@ -8314,7 +8296,7 @@ preservation /ˌprezə'veɪʃn/ n [U]
 1.**保护区**  
 
 
-# ***president*** n
+# *** *president*** n
 英音 'prezɪdənt     美音 'prezɪdənt  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -8332,7 +8314,7 @@ presidential /ˌprezɪ'denʃl/ adj
 1. **总统的**  
 
 
-# ***press*** v
+# *** *press*** v
 英音 pres     美音 pres  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -8362,8 +8344,7 @@ presidential /ˌprezɪ'denʃl/ adj
 
 固定搭配
 ---
-- press on 
-1.**(不顾困难) 继续进行：**  
+## - *press on   **(不顾困难) 继续进行：**  
 
  > He pressed on and finally got passed the finishing line.  
  > 他继续前进，最终冲过了终点线。  
@@ -8373,10 +8354,11 @@ presidential /ˌprezɪ'denʃl/ adj
 ---
 ##### 题目  
 He ________ (按下) the button and the doorbell rang.   
+来源：2009 全国  
 ##### 答案 pressed / pushed  
   
 
-# ***press*** n
+# *** *press*** n
 英音 pres     美音 pres  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -8406,7 +8388,7 @@ He ________ (按下) the button and the doorbell rang.
  > 新闻自由  
 
 
-# ***pressure*** n
+# *** *pressure*** n
 英音 'preʃə(r)     美音 'preʃər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -8437,7 +8419,7 @@ He ________ (按下) the button and the doorbell rang.
  > 生活压力  
 
 
-# ***pretend*** v
+# *** *pretend*** v
 英音 prɪ'tend     美音 prɪ'tend  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -8447,6 +8429,9 @@ He ________ (按下) the button and the doorbell rang.
 英文释义
 ---
 1.*高义频：* **假装；装作：**  
+
+ > What’s the good of pretending?   
+ > 装假有什么用呢？  
 
 - pretend to do sth:
 
@@ -8458,18 +8443,16 @@ He ________ (按下) the button and the doorbell rang.
  > He pretended to his family that everything was fine.  
  > 他对家人假装一切都好。  
 
- > What’s the good of pretending?   
- > 装假有什么用呢？  
-
 
 真题解析
 ---
 ##### 题目  
 Miss Harper closed her eyes and ________ to be asleep.   
+来源：2010 陕西  
 ##### 答案 pretended  
   
 
-# ***pretty*** adj
+# *** *pretty*** adj
 英音 'prɪti     美音 'prɪti  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -8482,7 +8465,7 @@ Miss Harper closed her eyes and ________ to be asleep.
  > 漂亮的女孩  
 
 
-# ***pretty*** adv
+# *** *pretty*** adv
 英音 'prɪti     美音 'prɪti  
 
 | 词频 4 | 口语 3 | 书面 1 |  
@@ -8497,13 +8480,12 @@ Miss Harper closed her eyes and ________ to be asleep.
 
 固定搭配
 ---
-- pretty well / much
-1.**[非正式用语] 几乎；差不多**  
+## - *pretty well / much  **[非正式用语] 几乎；差不多**  
 
 ### 辨析 fairly, quite, rather, pretty
 四者都有“相当”之意。  
 
-# ***prevent*** vt
+# *** *prevent*** vt
 英音 prɪ'vent     美音 prɪ'vent  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -8518,8 +8500,7 @@ Miss Harper closed her eyes and ________ to be asleep.
 
 固定搭配
 ---
-- prevent sb / sth (from) doing sth:
-1.
+## - *prevent sb / sth (from) doing sth:  
  > There were many ways to prevent this from happening.  
  > 有多种方法可以防止此事发生。  
  > 来源： 2008 广东改  
@@ -8536,7 +8517,7 @@ prevention /prɪ'venʃn/ n [U]
  > 预防胜于治疗。  
 
 
-# ***preview*** vt
+# *** *preview*** vt
 英音 'priːvjuː     美音 'priːvjuː  
 
 | 词频 1 |  
@@ -8550,7 +8531,7 @@ prevention /prɪ'venʃn/ n [U]
  > 来源：2014 江西书面表达  
 
 
-# ***preview*** n
+# *** *preview*** n
 英音 'priːvjuː     美音 'priːvjuː  
 
 | 词频 1 |  
@@ -8562,7 +8543,7 @@ prevention /prɪ'venʃn/ n [U]
 1.*高义频：* **(电影等的) 预演；预告片**  
 
 
-# ***previous*** adj
+# *** *previous*** adj
 英音 'priːviəs     美音 'priːviəs  
 
 | 词频 3 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -8581,8 +8562,7 @@ prevention /prɪ'venʃn/ n [U]
 
 固定搭配
 ---
-- previous to 
-1.**[正式用语] 在…之前：**  
+## - *previous to   **[正式用语] 在…之前：**  
 
  > Previous to this, scientific experiments did not show a definite link between mobile phone use and cancer.  
  > 在这之前，科学实验没有表明在使用手机和患癌症之间存在明确的关联。  
@@ -8593,7 +8573,7 @@ prevention /prɪ'venʃn/ n [U]
 ---
 previously /'priːviəsli/ adv   
 
-# ***price*** n
+# *** *price*** n
 英音 praɪs     美音 praɪs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -8615,14 +8595,13 @@ previously /'priːviəsli/ adv
 
 固定搭配
 ---
-- at the price of 
-1.**以…的代价：**  
+## - *at the price of   **以…的代价：**  
 
  > She achieved success at the price of her health.  
  > 她的成功是以牺牲自身健康为代价的。  
 
 
-# ***price*** vt
+# *** *price*** vt
 英音 praɪs     美音 praɪs  
 
 | 词频 5 |  
@@ -8638,7 +8617,7 @@ previously /'priːviəsli/ adv
  > 门票价格为每张10美元。  
 
 
-# ***priceless*** adj
+# *** *priceless*** adj
 英音 'praɪsləs     美音 'praɪsləs  
 
 | 词频 1 |  
@@ -8653,7 +8632,7 @@ previously /'priːviəsli/ adv
 ### 辨析 worthless, invaluable, valueless, priceless
   
 
-# ***pride*** n
+# *** *pride*** n
 英音 praɪd     美音 praɪd  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -8692,15 +8671,13 @@ previously /'priːviəsli/ adv
 
 固定搭配
 ---
-- take pride in 
-1.**对…感到自豪：**  
+## - *take pride in   **对…感到自豪：**  
 
  > People tend to take pride in keeping everything in their street fresh.  
  > 人们往往会为保持自己的街道清爽而感到自豪。  
  > 来源：2018 浙江  
 
-- with pride 
-1.**自豪地：**  
+## - *with pride   **自豪地：**  
 
  > I looked with pride at what I had achieved.   
  > 回顾过去的成就，我感到很自豪。  
@@ -8710,10 +8687,11 @@ previously /'priːviəsli/ adv
 ---
 ##### 题目  
 Rebecca was the ________ (骄傲) of her family.  
+来源：2012 全国  
 ##### 答案 pride  
   
 
-# ***priest*** n
+# *** *priest*** n
 英音 priːst     美音 priːst  
 
 | 词频 1 | 书面 1 |  
@@ -8725,7 +8703,7 @@ Rebecca was the ________ (骄傲) of her family.
 1.*高义频：* **牧师**  
 
 
-# ***primary*** adj
+# *** *primary*** adj
 英音 'praɪməri     美音 'praɪmeri  
 
 | 词频 3 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -8752,10 +8730,11 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
 ---
 ##### 题目  
 In those days, our ________ (主要的) concern was to provide people who were stopped by the snow storm with food and health care.  
+来源：2008 湖北改  
 ##### 答案 primary / main  
   
 
-# ***prime*** adj
+# *** *prime*** adj
 英音 praɪm     美音 praɪm  
 
 | 词频 1 |  
@@ -8767,7 +8746,7 @@ In those days, our ________ (主要的) concern was to provide people who were s
 1.*高义频：* **最重要的；首要的 (main / primary)**  
 
 
-# ***prime*** n
+# *** *prime*** n
 英音 praɪm     美音 praɪm  
 
 | 词频 1 |  
@@ -8777,7 +8756,7 @@ In those days, our ________ (主要的) concern was to provide people who were s
 1.**盛年；鼎盛时期**  
 
 
-# ***primitive*** adj
+# *** *primitive*** adj
 英音 'prɪmətɪv     美音 'prɪmətɪv  
 
 | 词频 2 | 阅读 2 |  
@@ -8795,7 +8774,7 @@ In those days, our ________ (主要的) concern was to provide people who were s
  > 营地的设施非常简陋。  
 
 
-# ***prince*** n
+# *** *prince*** n
 英音 prɪns     美音 prɪns  
 
 | 词频 2 | 书面 1 |  
@@ -8807,7 +8786,7 @@ In those days, our ________ (主要的) concern was to provide people who were s
 1.*高义频：* **王子；亲王**  
 
 
-# ***princess*** n
+# *** *princess*** n
 英音 ˌprɪn'ses     美音 ˌprɪn'ses  
 
 | 词频 1 | 书面 1 |  
@@ -8819,7 +8798,7 @@ In those days, our ________ (主要的) concern was to provide people who were s
 1.*高义频：* **公主；王妃**  
 
 
-# ***principal*** n
+# *** *principal*** n
 英音 'prɪnsəpl     美音 'prɪnsəpl  
 
 | 词频 1 | 阅读 1 |  
@@ -8831,7 +8810,7 @@ In those days, our ________ (主要的) concern was to provide people who were s
 1.*高义频：* **校长 (headteacher)**  
 
 
-# ***principle*** n
+# *** *principle*** n
 英音 'prɪnsəpl     美音 'prɪnsəpl  
 
 | 词频 3 | 口语 2 | 书面 3 | 阅读 1 |  
@@ -8876,8 +8855,7 @@ In those days, our ________ (主要的) concern was to provide people who were s
 
 固定搭配
 ---
-- in principle
-1.*高义频：* **理论上；原则上：**  
+## - *in principle  1.*高义频：* **理论上；原则上：**  
 
  > I agree with it in principle but I doubt if it will happen in practice.   
  > 理论上我同意，但是不知道实际上能否可行。  
@@ -8892,10 +8870,11 @@ In those days, our ________ (主要的) concern was to provide people who were s
 ---
 ##### 题目  
 Anyway, I can’t cheat him — it’s against all my ________ (原则).   
+来源：2011 浙江改  
 ##### 答案 principles  
   
 
-# ***print*** v
+# *** *print*** v
 英音 prɪnt     美音 prɪnt  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -8923,14 +8902,13 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
 
 固定搭配
 ---
-- print off / out
-1.**打印：**  
+## - *print off / out  **打印：**  
 
  > You may use an online printer to print out the data.  
  > 你可以使用网络打印机把数据打印出来。  
 
 
-# ***print*** n
+# *** *print*** n
 英音 prɪnt     美音 prɪnt  
 
 | 词频 4 | 书面 1 |  
@@ -8951,14 +8929,12 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
 
 固定搭配
 ---
-- in print 
-1.**已出版的；(书等) 仍能买到的**  
+## - *in print   **已出版的；(书等) 仍能买到的**  
 
-- out of print 
-1.**绝版的**  
+## - *out of print   **绝版的**  
 
 
-# ***printer*** n
+# *** *printer*** n
 英音 'prɪntə(r)     美音 'prɪntər  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -8970,7 +8946,7 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
 1.*高义频：* **打印机；印刷工；印刷商**  
 
 
-# ***printing*** n
+# *** *printing*** n
 英音 'prɪntɪŋ     美音 'prɪntɪŋ  
 
 | 词频 2 |  
@@ -8991,7 +8967,7 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
  > 这是这本书的首次印刷。  
 
 
-# ***prior*** 
+# *** *prior*** 
 英音 'praɪə(r)     美音 'praɪər  
 
 | 词频 1 |  
@@ -9003,11 +8979,10 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
 
 固定搭配
 ---
-- prior to
-1.**在…之前**  
+## - *prior to  **在…之前**  
 
 
-# ***priority*** n
+# *** *priority*** n
 英音 praɪ'ɒrəti     美音 praɪ'ɔːrəti  
 
 | 词频 2 | 口语 2 | 书面 2 | 阅读 1 |  
@@ -9031,7 +9006,7 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
  > 俱乐部成员享有优先权。  
 
 
-# ***prison*** n
+# *** *prison*** n
 英音 'prɪzn     美音 'prɪzn  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -9059,7 +9034,7 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
  > 曼德拉为黑人而斗争并坐了将近三十年的牢。  
 
 
-# ***prisoner*** n
+# *** *prisoner*** n
 英音 'prɪznə(r)     美音 'prɪznər  
 
 | 词频 3 | 口语 1 | 书面 2 |  
@@ -9074,7 +9049,7 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
  > 俘虏某人  
 
 
-# ***privacy*** n
+# *** *privacy*** n
 英音 'prɪvəsi     美音 'praɪvəsi  
 
   
@@ -9084,7 +9059,7 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
 1.**隐私；私密**  
 
 
-# ***private*** adj
+# *** *private*** adj
 英音 'praɪvət     美音 'praɪvət  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -9114,7 +9089,7 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
  > 来源：外研① – 2  
 
 
-# ***private*** n
+# *** *private*** n
 英音 'praɪvət     美音 'praɪvət  
 
 | 词频 4 |  
@@ -9128,14 +9103,13 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
 
 固定搭配
 ---
-- in private 
-1.**私下地【反:in public】：**  
+## - *in private   **私下地【反:in public】：**  
 
  > I want to have a word with you in private.   
  > 我想和你私下说几句。  
 
 
-# ***privately*** adv
+# *** *privately*** adv
 英音 'praɪvətli     美音 'praɪvətli  
 
 | 词频 2 |  
@@ -9145,7 +9119,7 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
 1.*高义频：* **私下地；私立地**  
 
 
-# ***privilege*** n
+# *** *privilege*** n
 英音 'prɪvəlɪdʒ     美音 'prɪvəlɪdʒ  
 
 | 词频 1 | 书面 1 |  
@@ -9165,7 +9139,7 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
  > 来源：2019 北京  
 
 
-# ***privileged*** adj
+# *** *privileged*** adj
 英音 'prɪvəlɪdʒd     美音 'prɪvəlɪdʒd  
 
 | 词频 1 |  
@@ -9175,7 +9149,7 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
 1.**荣幸的**  
 
 
-# ***prize*** n
+# *** *prize*** n
 英音 praɪz     美音 praɪz  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -9197,7 +9171,7 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
 ### 辨析 reward, award, prize
   
 
-# ***probable*** adj
+# *** *probable*** adj
 英音 'prɒbəbl     美音 'prɑːbəbl  
 
 | 词频 3 |  
@@ -9219,7 +9193,7 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
 ---
 probability /ˌprɒbə'bɪləti/ n   
 
-# ***probably*** adv
+# *** *probably*** adv
 英音 'prɒbəbli     美音 'prɑːbəbli  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -9241,7 +9215,7 @@ probability /ˌprɒbə'bɪləti/ n
  > 来源：2008 上海  
 
 
-# ***probe*** n
+# *** *probe*** n
 英音 prəʊb     美音 proʊb  
 
 | 词频 1 |  
@@ -9251,7 +9225,7 @@ probability /ˌprɒbə'bɪləti/ n
 1.**宇宙探测器；航天探测器**  
 
 
-# ***problem*** n
+# *** *problem*** n
 英音 'prɒbləm     美音 'prɑːbləm  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -9283,8 +9257,7 @@ probability /ˌprɒbə'bɪləti/ n
 
 固定搭配
 ---
-- no problem
-1.*高义频：* **[表示乐于相助或事情容易做]没问题：**  
+## - *no problem  1.*高义频：* **[表示乐于相助或事情容易做]没问题：**  
 
  > — How about meeting at the nearby restaurant?   
  > 在附近的餐馆见面如何？  
@@ -9309,10 +9282,11 @@ probability /ˌprɒbə'bɪləti/ n
 — Are you sure you’re ready for the test?
 — ________ (没问题). I’m well prepared for it.
   
+来源：2016 浙江改  
 ##### 答案 No problem  
   
 
-# ***problem-solving*** adj
+# *** *problem-solving*** adj
 
 
   
@@ -9322,7 +9296,7 @@ probability /ˌprɒbə'bɪləti/ n
 1.**问题解决的**  
 
 
-# ***procedure*** n
+# *** *procedure*** n
 英音 prə'siːdʒə(r)     美音 prə'siːdʒər  
 
 | 词频 2 | 口语 2 | 书面 2 |  
@@ -9344,7 +9318,7 @@ probability /ˌprɒbə'bɪləti/ n
  > 来源：人教⑧ – 2  
 
 
-# ***proceed*** vi
+# *** *proceed*** vi
 英音 prə'siːd     美音 proʊ'siːd  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -9356,7 +9330,7 @@ probability /ˌprɒbə'bɪləti/ n
 1.*高义频：* **继续；继续做；继续进行 (go on)**  
 
 
-# ***process*** n
+# *** *process*** n
 英音 'prəʊses     美音 'prɑːses  
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -9388,14 +9362,13 @@ probability /ˌprɒbə'bɪləti/ n
 
 固定搭配
 ---
-- in the process
-1.**同时：**  
+## - *in the process  **同时：**  
 
  > I spilt the coffee, burning myself in the process.   
  > 我把咖啡洒了出来，还烫到了自己。  
 
 
-# ***process*** vt
+# *** *process*** vt
 英音 'prəʊses     美音 'prɑːses  
 
 | 词频 4 | 阅读 3 |  
@@ -9426,10 +9399,11 @@ A.produce
 B.pronounce  
 C.process  
 D.download  
+来源：2015 浙江  
 ##### 答案 C  
   
 
-# ***produce*** vt
+# *** *produce*** vt
 英音 prə'djuːs     美音 prə'duːs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -9479,7 +9453,7 @@ D.download
 ---
 producer /prə'djuːsə(r)/ n   
 
-# ***produce*** n
+# *** *produce*** n
 英音 'prɒdjuːs     美音 'prɑːduːs  
 
 | 词频 5 |  
@@ -9495,7 +9469,7 @@ producer /prə'djuːsə(r)/ n
  > 农产品  
 
 
-# ***producer*** n
+# *** *producer*** n
 英音 prə'djuːsə(r)     美音 prə'duːsər  
 
 | 词频 4 |  
@@ -9507,7 +9481,7 @@ producer /prə'djuːsə(r)/ n
 1.*高义频：* **生产者；制片人**  
 
 
-# ***product*** n
+# *** *product*** n
 英音 'prɒdʌkt     美音 'prɑːdʌkt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -9534,7 +9508,7 @@ producer /prə'djuːsə(r)/ n
 ---
 productive /prə'dʌktɪv/ adj   
 
-# ***production*** n
+# *** *production*** n
 英音 prə'dʌkʃn     美音 prə'dʌkʃn  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -9564,7 +9538,7 @@ productive /prə'dʌktɪv/ adj
  > 来源：2011 全国  
 
 
-# ***profession*** n
+# *** *profession*** n
 英音 prə'feʃn     美音 prə'feʃn  
 
 | 词频 3 | 书面 1 |  
@@ -9583,7 +9557,7 @@ productive /prə'dʌktɪv/ adj
  > 她是她那个行业中的佼佼者。  
 
 
-# ***professional*** adj
+# *** *professional*** adj
 英音 prə'feʃənl     美音 prə'feʃənl  
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -9599,7 +9573,7 @@ productive /prə'dʌktɪv/ adj
  > 他处理这个问题非常专业。  
 
 
-# ***professional*** n
+# *** *professional*** n
 英音 prə'feʃənl     美音 prə'feʃənl  
 
 | 词频 4 | 书面 1 | 阅读 3 |  
@@ -9616,7 +9590,7 @@ productive /prə'dʌktɪv/ adj
  > 来源：外研⑤ – 2  
 
 
-# ***professor*** n
+# *** *professor*** n
 英音 prə'fesə(r)     美音 prə'fesər  
 
 | 词频 5 | 口语 1 | 书面 1 |  
@@ -9632,7 +9606,7 @@ productive /prə'dʌktɪv/ adj
 
 Notes: 用作称呼时，可略写作Prof.。  
 
-# ***profile*** n
+# *** *profile*** n
 英音 'prəʊfaɪl     美音 'proʊfaɪl  
 
 | 词频 1 |  
@@ -9642,7 +9616,7 @@ Notes: 用作称呼时，可略写作Prof.。
 1.**[C]侧面 (像)；外形；轮 廓；简介；概况**  
 
 
-# ***profit*** n
+# *** *profit*** n
 英音 'prɒfɪt     美音 'prɑːfɪt  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -9666,7 +9640,7 @@ Notes: 用作称呼时，可略写作Prof.。
  > 我读完这本书后受益匪浅。  
 
 
-# ***profit*** v
+# *** *profit*** v
 英音 'prɒfɪt     美音 'prɑːfɪt  
 
 | 词频 4 |  
@@ -9689,7 +9663,7 @@ Notes: 用作称呼时，可略写作Prof.。
 ---
 profitable /'prɒfɪtəbl/ adj   
 
-# ***profound*** adj
+# *** *profound*** adj
 英音 prə'faʊnd     美音 prə'faʊnd  
 
 | 词频 1 |  
@@ -9699,7 +9673,7 @@ profitable /'prɒfɪtəbl/ adj
 1.**(影响) 深刻的; 极大的**  
 
 
-# ***profoundly*** adv
+# *** *profoundly*** adv
 英音 prə'faʊndli     美音 prə'faʊndli  
 
 | 词频 1 |  
@@ -9709,7 +9683,7 @@ profitable /'prɒfɪtəbl/ adj
 1.**深深地，极度地**  
 
 
-# ***program*** n
+# *** *program*** n
 英音 'prəʊɡræm     美音 'proʊɡræm  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -9745,7 +9719,7 @@ profitable /'prɒfɪtəbl/ adj
 5.*高义频：* **(计算机) 程序**  
 
 
-# ***program*** vt
+# *** *program*** vt
 英音 'prəʊɡræm     美音 'proʊɡræm  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -9759,7 +9733,7 @@ profitable /'prɒfɪtəbl/ adj
 ---
 programmer /'prəʊɡræmə(r)/ n [C]   
 
-# ***programme*** n
+# *** *programme*** n
 英音 'prəʊɡræm     美音 'proʊɡræm  
 
 | 词频 5 | 书面 3 |  
@@ -9799,7 +9773,7 @@ programmer /'prəʊɡræmə(r)/ n [C]
  > 微信小程序  
 
 
-# ***programme*** vt
+# *** *programme*** vt
 英音 'prəʊɡræm     美音 'proʊɡræm  
 
 | 词频 5 |  
@@ -9814,7 +9788,7 @@ programmer /'prəʊɡræmə(r)/ n [C]
 programmer /'prəʊɡræmə(r)/ n [C]  
 programming /'prəʊɡræmɪŋ/ n   
 
-# ***programmer*** n
+# *** *programmer*** n
 英音 'prəʊɡræmə(r)     美音 'proʊɡræmər  
 
 | 词频 2 |  
@@ -9826,7 +9800,7 @@ programming /'prəʊɡræmɪŋ/ n
 1.*高义频：* **程序员；程序师**  
 
 
-# ***programming*** n
+# *** *programming*** n
 英音 'prəʊɡræmɪŋ     美音 'proʊɡræmɪŋ  
 
 | 词频 2 |  
@@ -9836,7 +9810,7 @@ programming /'prəʊɡræmɪŋ/ n
 1.**（计算机）编程**  
 
 
-# ***progress*** n
+# *** *progress*** n
 英音 'prəʊɡres     美音 'prɑːɡres  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -9867,14 +9841,13 @@ programming /'prəʊɡræmɪŋ/ n
 
 固定搭配
 ---
-- in progress
-1.**[正式用语] 在进行中：**  
+## - *in progress  **[正式用语] 在进行中：**  
 
  > The building of the bridge is in progress.   
  > 桥梁正在建设中。  
 
 
-# ***progress*** vi
+# *** *progress*** vi
 英音 prə'ɡres     美音 prə'ɡres  
 
 | 词频 4 |  
@@ -9887,7 +9860,7 @@ programming /'prəʊɡræmɪŋ/ n
  > 我国的医学正在迅速发展。  
 
 
-# ***progressive*** adj
+# *** *progressive*** adj
 英音 prə'ɡresɪv     美音 prə'ɡresɪv  
 
 | 词频 2 | 阅读 1 |  
@@ -9905,7 +9878,7 @@ programming /'prəʊɡræmɪŋ/ n
  > 逐渐失忆  
 
 
-# ***prohibit*** vt
+# *** *prohibit*** vt
 英音 prə'hɪbɪt     美音 prə'hɪbɪt  
 
 | 词频 2 | 阅读 1 |  
@@ -9914,21 +9887,21 @@ programming /'prəʊɡræmɪŋ/ n
 ---
 1.*高义频：* **[正式用语] [常用于被动语态] 禁止 (ban / forbid)：**  
 
+ > Smoking is prohibited.  
+ > 禁止吸烟。  
+ > 来源：2008 江苏  
+
 - prohibit sb from doing sth:
 
  > Visitors are prohibited from feeding the animals.  
  > 禁止游客投喂动物。  
-
- > Smoking is prohibited.  
- > 禁止吸烟。  
- > 来源：2008 江苏  
 
 
 派生词汇
 ---
 prohibition /ˌprəʊɪ'bɪʃn/ n   
 
-# ***project*** n
+# *** *project*** n
 英音 'prɒdʒekt     美音 'prɑːdʒekt  
 
 | 词频 5 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -9958,7 +9931,7 @@ prohibition /ˌprəʊɪ'bɪʃn/ n
  > 我们正在做一个关于污染的科学课题。  
 
 
-# ***project*** vt
+# *** *project*** vt
 英音 prə'dʒekt     美音 prə'dʒekt  
 
 | 词频 5 | 阅读 3 |  
@@ -9971,7 +9944,7 @@ prohibition /ˌprəʊɪ'bɪʃn/ n
  > 在银幕上放映影片  
 
 
-# ***prolong*** vt
+# *** *prolong*** vt
 英音 prə'lɒŋ     美音 prə'lɔːŋ  
 
 | 词频 1 |  
@@ -9981,7 +9954,7 @@ prohibition /ˌprəʊɪ'bɪʃn/ n
 1.**延长**  
 
 
-# ***prom*** n
+# *** *prom*** n
 英音 prɒm     美音 prɑːm  
 
 | 词频 1 |  
@@ -9991,7 +9964,7 @@ prohibition /ˌprəʊɪ'bɪʃn/ n
 1.**（美）（常在学年末举行的）高中生的正式舞会**  
 
 
-# ***promise*** n  重难点词汇
+# *** *promise*** n  重难点词汇
 英音 'prɒmɪs     美音 'prɑːmɪs  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -9999,16 +9972,6 @@ prohibition /ˌprəʊɪ'bɪʃn/ n
 英文释义
 ---
 1.*高义频：* **诺言；许诺；承诺：**  
-
-- promise to do sth:
-
- > Don’t forget your promise to visit me next week.   
- > 别忘了你答应下周来看我。  
-
-- promise + (that) 从句:
-
- > Give me your promise that you’ll never be late again.   
- > 答应我你绝不再迟到了。  
 
  > **promise to**  
  > his promise to his father  
@@ -10025,6 +9988,16 @@ prohibition /ˌprəʊɪ'bɪʃn/ n
  > keep / live up to a promise  
  > 信守诺言  
 
+- promise to do sth:
+
+ > Don’t forget your promise to visit me next week.   
+ > 别忘了你答应下周来看我。  
+
+- promise + (that) 从句:
+
+ > Give me your promise that you’ll never be late again.   
+ > 答应我你绝不再迟到了。  
+
 2.*高义频：* **(有) 指望；(有) 前途：**  
 
  > **shows,promise**  
@@ -10036,10 +10009,11 @@ prohibition /ˌprəʊɪ'bɪʃn/ n
 ---
 ##### 题目  
 The young man made a promise ________ his parents that he would try to earn his own living after graduation.  
+来源：2008 湖北改  
 ##### 答案 to  
   
 
-# ***promise*** v  重难点词汇
+# *** *promise*** v  重难点词汇
 英音 'prɒmɪs     美音 'prɑːmɪs  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -10047,6 +10021,12 @@ The young man made a promise ________ his parents that he would try to earn his 
 英文释义
 ---
 1.*高义频：* **许诺；保证；答应：**  
+
+ > — She’s not coming tonight.   
+ > 她今晚不来了。  
+
+ > — But she promised.   
+ > 但她答应过的。  
 
 - promise to do sth:
 
@@ -10067,21 +10047,15 @@ The young man made a promise ________ his parents that he would try to earn his 
  > I’ve promised the book to Susan.   
  > 我已经答应把这本书给苏珊了。  
 
- > — She’s not coming tonight.   
- > 她今晚不来了。  
-
- > — But she promised.   
- > 但她答应过的。  
-
 2.*低义频：* **有...的希望；有...的可能：**  
+
+ > Those clouds promise rain tomorrow.   
+ > 那些云预示着明天有可能下雨。  
 
 - promise to be sth:
 
  > It promises to be a fine day.   
  > 天气有望好转。  
-
- > Those clouds promise rain tomorrow.   
- > 那些云预示着明天有可能下雨。  
 
 
 派生词汇
@@ -10095,10 +10069,11 @@ promising /'prɒmɪsɪŋ/ adj
 ---
 ##### 题目  
 The new movie promises ________ (be) one of the biggest money-makers of all time.  
+来源：2010 辽宁改  
 ##### 答案 to be  
   
 
-# ***promote*** vt
+# *** *promote*** vt
 英音 prə'məʊt     美音 prə'moʊt  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -10135,7 +10110,7 @@ The new movie promises ________ (be) one of the biggest money-makers of all time
  > 这则广告在推销什么？  
 
 
-# ***promotion*** n
+# *** *promotion*** n
 英音 prə'məʊʃn     美音 prə'moʊʃn  
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 2 |  
@@ -10148,7 +10123,7 @@ The new movie promises ________ (be) one of the biggest money-makers of all time
  > 获得晋升  
 
 
-# ***prompt*** adj
+# *** *prompt*** adj
 英音 prɒmpt     美音 prɑːmpt  
 
 | 词频 1 | 书面 1 |  
@@ -10158,7 +10133,7 @@ The new movie promises ________ (be) one of the biggest money-makers of all time
 1.*高义频：* **及时的；准时的；迅速的**  
 
 
-# ***pronounce*** vt
+# *** *pronounce*** vt
 英音 prə'naʊns     美音 prə'naʊns  
 
 | 词频 2 |  
@@ -10172,7 +10147,7 @@ The new movie promises ________ (be) one of the biggest money-makers of all time
  > 来源：人教⑧ – 4  
 
 
-# ***pronunciation*** n
+# *** *pronunciation*** n
 英音 prəˌnʌnsi'eɪʃn     美音 prəˌnʌnsi'eɪʃn  
 
 | 词频 2 |  
@@ -10188,7 +10163,7 @@ The new movie promises ________ (be) one of the biggest money-makers of all time
  > 来源：2009 天津书面表达  
 
 
-# ***proof*** n
+# *** *proof*** n
 英音 pruːf     美音 pruːf  
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 3 |  
@@ -10203,7 +10178,7 @@ The new movie promises ________ (be) one of the biggest money-makers of all time
  > 没有证据证明他当时在犯罪现场。  
 
 
-# ***proper*** adj
+# *** *proper*** adj
 英音 'prɒpə(r)     美音 'prɑːpər  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -10227,7 +10202,7 @@ The new movie promises ________ (be) one of the biggest money-makers of all time
  > 他的母亲已经把他训练成一个举止得体的年轻人。  
 
 
-# ***properly*** adv
+# *** *properly*** adv
 英音 'prɒpəli     美音 'prɑːpərli  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -10256,10 +10231,11 @@ The new movie promises ________ (be) one of the biggest money-makers of all time
 ---
 ##### 题目  
 A dog's eating habit requires regular training before it is ________ (proper) established.  
+来源：2019 天津改  
 ##### 答案 properly  
   
 
-# ***property*** n
+# *** *property*** n
 英音 'prɒpəti     美音 'prɑːpərti  
 
 | 词频 3 | 口语 2 | 书面 3 |  
@@ -10278,7 +10254,7 @@ A dog's eating habit requires regular training before it is ________ (proper) es
  > 知识是我们最重要的财产。  
 
 
-# ***proportion*** n
+# *** *proportion*** n
 英音 prə'pɔːʃn     美音 prə'pɔːrʃn  
 
 | 词频 1 | 口语 2 | 书面 2 | 阅读 1 |  
@@ -10300,11 +10276,10 @@ A dog's eating habit requires regular training before it is ________ (proper) es
 
 固定搭配
 ---
-- out of proportion to
-1.**与…不成比例；和…不相称**  
+## - *out of proportion to  **与…不成比例；和…不相称**  
 
 
-# ***proposal*** n
+# *** *proposal*** n
 英音 prə'pəʊzl     美音 prə'poʊzl  
 
 | 词频 2 | 口语 2 | 书面 3 | 阅读 1 |  
@@ -10325,7 +10300,7 @@ A dog's eating habit requires regular training before it is ________ (proper) es
  > 他提议会议延期。  
 
 
-# ***propose*** v  重难点词汇
+# *** *propose*** v  重难点词汇
 英音 prə'pəʊz     美音 prə'poʊz  
 
 | 词频 2 | 口语 2 | 书面 2 | 阅读 1 |  
@@ -10334,6 +10309,9 @@ A dog's eating habit requires regular training before it is ________ (proper) es
 ---
 1.*高义频：* **[正式用语] 提出；提议；建议**  
 英译 to formally suggest sth as a possible plan or action：
+
+ > propose a better solution  
+ > 提出更好的解决方案  
 
 - propose doing sth:
 
@@ -10345,9 +10323,6 @@ A dog's eating habit requires regular training before it is ________ (proper) es
  > A professor at the Academy has proposed that a fund (should) be established to raise money.  
  > 学院的一位教授提议设立基金会来募集资金。  
  > 来源：外研⑦ – 6  
-
- > propose a better solution  
- > 提出更好的解决方案  
 
 2.*高义频：* **[正式用语] 打算；计划**  
 英译 to intend to do sth：
@@ -10364,7 +10339,7 @@ A dog's eating habit requires regular training before it is ________ (proper) es
  > 我已经向她求婚了。  
 
 
-# ***proposition*** n
+# *** *proposition*** n
 英音 ˌprɒpə'zɪʃn     美音 ˌprɑːpə'zɪʃn  
 
   
@@ -10374,7 +10349,7 @@ A dog's eating habit requires regular training before it is ________ (proper) es
 1.**事业，生意**  
 
 
-# ***prospect*** n
+# *** *prospect*** n
 英音 'prɒspekt     美音 'prɑːspekt  
 
 | 词频 1 | 口语 2 | 书面 2 |  
@@ -10396,7 +10371,7 @@ A dog's eating habit requires regular training before it is ________ (proper) es
 3.*低义频：* **[C] [正式用语] 视野；景色：**  
 
 
-# ***prosperity*** n
+# *** *prosperity*** n
 英音 prɒ'sperəti     美音 prɑː'sperəti  
 
 | 词频 1 | 阅读 1 |  
@@ -10411,7 +10386,7 @@ A dog's eating habit requires regular training before it is ________ (proper) es
  > 和平带来繁荣。  
 
 
-# ***prosperous*** adj
+# *** *prosperous*** adj
 英音 'prɒspərəs     美音 'prɑːspərəs  
 
 | 词频 1 |  
@@ -10424,7 +10399,7 @@ A dog's eating habit requires regular training before it is ________ (proper) es
  > 我们都应该努力使祖国繁荣昌盛。  
 
 
-# ***protect*** v
+# *** *protect*** v
 英音 prə'tekt     美音 prə'tekt  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -10432,6 +10407,9 @@ A dog's eating habit requires regular training before it is ________ (proper) es
 英文释义
 ---
 1.*高义频：* **vt & vi 保护；防护：**  
+
+ > protect the earth  
+ > 保护地球  
 
 - protect sb / sth from sth:
 
@@ -10450,9 +10428,6 @@ A dog's eating habit requires regular training before it is ________ (proper) es
  > Waxing your car will help protect against rust.  
  > 给车打蜡可以防止生锈。  
 
- > protect the earth  
- > 保护地球  
-
 ### 辨析 defend, guard, protect
 1. 三者都含有“保护”之意。  
 
@@ -10468,10 +10443,11 @@ protective /prə'tektɪv/ adj
 ---
 ##### 题目  
 He was wearing dark glasses to ________ (保护) his eyes from the sun.  
+来源：2006 陕西  
 ##### 答案 protect  
   
 
-# ***protection*** n
+# *** *protection*** n
 英音 prə'tekʃn     美音 prə'tekʃn  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -10496,7 +10472,7 @@ He was wearing dark glasses to ________ (保护) his eyes from the sun.
  > 各种防火设施  
 
 
-# ***protective*** adj
+# *** *protective*** adj
 英音 prə'tektɪv     美音 prə'tektɪv  
 
 | 词频 2 |  
@@ -10506,7 +10482,7 @@ He was wearing dark glasses to ________ (保护) his eyes from the sun.
 1.*高义频：* **给予保护的；保护的**  
 
 
-# ***protein*** n
+# *** *protein*** n
 英音 'prəʊtiːn     美音 'proʊtiːn  
 
 | 词频 2 | 书面 2 |  
@@ -10518,7 +10494,7 @@ He was wearing dark glasses to ________ (保护) his eyes from the sun.
 1.*高义频：* **蛋白质**  
 
 
-# ***protest*** v
+# *** *protest*** v
 英音 prə'test     美音 prə'test  
 
 | 词频 2 | 阅读 1 |  
@@ -10535,7 +10511,7 @@ He was wearing dark glasses to ________ (保护) his eyes from the sun.
  > 动物保护主义者反对在非自然条件下养野生动物。  
 
 
-# ***protest*** n
+# *** *protest*** n
 英音 'prəʊtest     美音 'proʊtest  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -10551,7 +10527,7 @@ He was wearing dark glasses to ________ (保护) his eyes from the sun.
  > 电影导演辞职以抗议此决定。  
 
 
-# ***proud*** adj
+# *** *proud*** adj
 英音 praʊd     美音 praʊd  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -10560,6 +10536,9 @@ He was wearing dark glasses to ________ (保护) his eyes from the sun.
 ---
 1.*高义频：* **骄傲的；自豪的**  
 反义词 ashamed ： 
+
+ > a proud look  
+ > 得意的表情  
 
 - (be) proud of sb / sth:
 
@@ -10578,9 +10557,6 @@ He was wearing dark glasses to ________ (保护) his eyes from the sun.
  > She was proud that her daughter had so much talent.  
  > 女儿这么有天赋，她很自豪。  
 
- > a proud look  
- > 得意的表情  
-
 2.*高义频：* **[含贬义] 妄自尊大的；自负的：**  
 
  > She is too proud to see her own mistake.  
@@ -10595,10 +10571,11 @@ proudly /'praʊdli/ adv
 ---
 ##### 题目  
 Hans Zhang was ________ (自豪的) of himself for not giving up.   
+来源：2015 陕西  
 ##### 答案 proud  
   
 
-# ***prove*** v  重难点词汇
+# *** *prove*** v  重难点词汇
 英音 pruːv     美音 pruːv  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -10608,6 +10585,11 @@ Hans Zhang was ________ (自豪的) of himself for not giving up.
 英文释义
 ---
 1.*高义频：* **证明；证实：**  
+
+ > **prove his point**  
+ > Riis believed that poverty caused crime, and he used photos to help him prove his point.  
+ > 理斯认为贫穷导致犯罪，他还借助照片来证明自己的观点。  
+ > 来源：2008 陕西  
 
 - prove sth to sb:
 
@@ -10644,11 +10626,6 @@ Notes: 表示向某人证明某事时应该用prove sth to sb，而不能用prov
  > When I first started this job, I felt I had to prove myself.  
  > 我刚开始干这份工作的时候，觉得必须证明一下自己的实力。  
 
- > **prove his point**  
- > Riis believed that poverty caused crime, and he used photos to help him prove his point.  
- > 理斯认为贫穷导致犯罪，他还借助照片来证明自己的观点。  
- > 来源：2008 陕西  
-
 2.*高义频：* **[用作系动词] 证明是；被发现是 (turn out)：**  
 
 - prove+adj/n:
@@ -10667,10 +10644,11 @@ Notes: 表示向某人证明某事时应该用prove sth to sb，而不能用prov
 ---
 ##### 题目  
 To ________ (证明) his point, Professor Brown mentioned several other experiments which had similar results.  
+来源：2013 陕西  
 ##### 答案 prove  
   
 
-# ***proverb*** n
+# *** *proverb*** n
 英音 'prɒvɜːb     美音 'prɑːvɜːrb  
 
 | 词频 2 |  
@@ -10680,7 +10658,7 @@ To ________ (证明) his point, Professor Brown mentioned several other experime
 1.**谚语**  
 
 
-# ***provide*** vt  重难点词汇
+# *** *provide*** vt  重难点词汇
 英音 prə'vaɪd     美音 prə'vaɪd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -10688,6 +10666,10 @@ To ________ (证明) his point, Professor Brown mentioned several other experime
 英文释义
 ---
 1.*高义频：* **提供；供应：**  
+
+ > Working out in the morning provides additional benefits beyond being physically fit.  
+ > 晨练不仅能保持身体健康，还能给我们带来其他的好处。  
+ > 来源：2018 全国  
 
 - provide sth for sb:
 
@@ -10706,15 +10688,10 @@ To ________ (证明) his point, Professor Brown mentioned several other experime
  > 这是一个专门为有需求的人提供住房和服务的团队。  
  > 来源：2010 四川改  
 
- > Working out in the morning provides additional benefits beyond being physically fit.  
- > 晨练不仅能保持身体健康，还能给我们带来其他的好处。  
- > 来源：2018 全国  
-
 
 固定搭配
 ---
-- provide for
-1.*低义频：* **抚养；供养：**  
+## - *provide for  1.*低义频：* **抚养；供养：**  
 
  > She needs her new, busy work to provide for her family.  
  > 她的新工作很繁忙，但她需要它来养家糊口。  
@@ -10737,7 +10714,7 @@ provided /prə'vaɪdɪd/ conj
  > 来源：北师大⑦ – 19  
 
 
-# ***province*** n
+# *** *province*** n
 英音 'prɒvɪns     美音 'prɑːvɪns  
 
 | 词频 2 |  
@@ -10753,7 +10730,7 @@ provided /prə'vaɪdɪd/ conj
 ---
 provincial /prə'vɪnʃl/ adj   
 
-# ***psychological*** adj
+# *** *psychological*** adj
 英音 ˌsaɪkə'lɒdʒɪkl     美音 ˌsaɪkə'lɑːdʒɪkl  
 
 | 词频 3 | 书面 1 | 阅读 3 |  
@@ -10763,7 +10740,7 @@ provincial /prə'vɪnʃl/ adj
 1.*高义频：* **心理 (学) 的**  
 
 
-# ***psychologically*** adv
+# *** *psychologically*** adv
 英音 ˌsaɪkə'lɒdʒɪkli     美音 ˌsaɪkə'lɒdʒɪkli  
 
 | 词频 2 |  
@@ -10773,7 +10750,7 @@ provincial /prə'vɪnʃl/ adj
 1.*高义频：* **心理 (学) 地；精神上地**  
 
 
-# ***psychologist*** n
+# *** *psychologist*** n
 英音 saɪ'kɒlədʒɪst     美音 saɪ'kɑːlədʒɪst  
 
 | 词频 4 | 阅读 3 |  
@@ -10785,7 +10762,7 @@ provincial /prə'vɪnʃl/ adj
 1.*高义频：* **心理学家**  
 
 
-# ***psychology*** n
+# *** *psychology*** n
 英音 saɪ'kɒlədʒi     美音 saɪ'kɑːlədʒi  
 
 | 词频 3 | 书面 1 | 阅读 3 |  
@@ -10797,7 +10774,7 @@ provincial /prə'vɪnʃl/ adj
 1.*高义频：* **心理学**  
 
 
-# ***pub*** n
+# *** *pub*** n
 英音 pʌb     美音 pʌb  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -10809,7 +10786,7 @@ provincial /prə'vɪnʃl/ adj
 1.*高义频：* **酒馆；客栈；旅店**  
 
 
-# ***public*** adj
+# *** *public*** adj
 英音 'pʌblɪk     美音 'pʌblɪk  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -10854,7 +10831,7 @@ provincial /prə'vɪnʃl/ adj
  > 来源：2012 浙江改  
 
 
-# ***public*** n
+# *** *public*** n
 英音 'pʌblɪk     美音 'pʌblɪk  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -10873,8 +10850,7 @@ Notes: the public作主语时，如表示整体，谓语动词用单数形式；
 
 固定搭配
 ---
-- in public
-1.**当众；公开地【反:in private】：**  
+## - *in public  **当众；公开地【反:in private】：**  
 
  > Don’t laugh or talk loudly in public. It’s bad manners.  
  > 不要在公共场合大声说笑，这样不礼貌。  
@@ -10889,10 +10865,11 @@ publicly /'pʌblɪkli/ adv
 ---
 ##### 题目  
 His daughter is always shy ________ public and she never dares to make a speech to the public.  
+来源：2001 上海春改  
 ##### 答案 in  
   
 
-# ***publication*** n
+# *** *publication*** n
 英音 ˌpʌblɪ'keɪʃn     美音 ˌpʌblɪ'keɪʃn  
 
 | 词频 3 | 书面 2 |  
@@ -10915,7 +10892,7 @@ His daughter is always shy ________ public and she never dares to make a speech 
  > 考试成绩的公布  
 
 
-# ***publish*** v
+# *** *publish*** v
 英音 'pʌblɪʃ     美音 'pʌblɪʃ  
 
 | 词频 5 | 口语 1 | 书面 3 |  
@@ -10942,10 +10919,11 @@ publishing /'pʌblɪʃɪŋ/ n [U]
 ---
 ##### 题目  
 Sue Wood was only nine when her first short story was ________ (出版).  
+来源：2011 陕西  
 ##### 答案 published  
   
 
-# ***publisher*** n
+# *** *publisher*** n
 英音 'pʌblɪʃə(r)     美音 'pʌblɪʃər  
 
 | 词频 3 | 书面 1 |  
@@ -10957,7 +10935,7 @@ Sue Wood was only nine when her first short story was ________ (出版).
 1.*高义频：* **出版商**  
 
 
-# ***pudding*** n
+# *** *pudding*** n
 英音 'pʊdɪŋ     美音 'pʊdɪŋ  
 
 | 词频 1 |  
@@ -10969,7 +10947,7 @@ Sue Wood was only nine when her first short story was ________ (出版).
 1.*高义频：* **布丁**  
 
 
-# ***pull*** v
+# *** *pull*** v
 英音 pʊl     美音 pʊl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -11008,14 +10986,12 @@ Sue Wood was only nine when her first short story was ________ (出版).
 
 固定搭配
 ---
-- pull away
-1.**驶离；离开：**  
+## - *pull away  **驶离；离开：**  
 
  > The traffic lights went green and I pulled away.  
  > 交通灯变绿，我开车离开。  
 
-- pull down
-1.**把…往下拉；拆毁：**  
+## - *pull down  **把…往下拉；拆毁：**  
 
  > Pull down your hat so that nobody will recognize you.   
  > 把帽子拉低，这样就没人能认出你。  
@@ -11023,20 +10999,16 @@ Sue Wood was only nine when her first short story was ________ (出版).
  > The old building has been pulled down for safety reasons.  
  > 考虑到安全因素，那座旧楼被拆毁了。  
 
-- pull in / into
-1.**(列车等) 进站；(汽车等) 靠边停下**  
+## - *pull in / into  **(列车等) 进站；(汽车等) 靠边停下**  
 
-- pull off
-1.**把…驶离大路；成功完成**  
+## - *pull off  **把…驶离大路；成功完成**  
 
-- pull on
-1.**穿；戴 (袜子、手套等)：**  
+## - *pull on  **穿；戴 (袜子、手套等)：**  
 
  > Pull on gloves when you go out.  
  > 外出时戴上手套。  
 
-- pull out
-1.*高义频：* **拉出；拿出：**  
+## - *pull out  1.*高义频：* **拉出；拿出：**  
 
  > He pulled out a mobile phone and made a call.  
  > 他掏出手机打了个电话。  
@@ -11054,27 +11026,23 @@ Sue Wood was only nine when her first short story was ________ (出版).
  > Most of the troops have been pulled out.  
  > 大部分军队已撤离。  
 
-- pull over
-1.**(使) 停靠在路边**  
+## - *pull over  **(使) 停靠在路边**  
 
-- pull through
-1.**(使) 恢复健康；(使) 渡过难关：**  
+## - *pull through  **(使) 恢复健康；(使) 渡过难关：**  
 
  > The doctor said I was not going to pull through.  
  > 医生说我无法康复了。  
  > 来源：北师大① – 2  
 
-- pull together
-1.**组合；整顿；同心协力**  
+## - *pull together  **组合；整顿；同心协力**  
 
-- pull up
-1.**(使) (车等) 停下：**  
+## - *pull up  **(使) (车等) 停下：**  
 
  > A car pulled up behind me.  
  > 一辆车停在我后面。  
 
 
-# ***pull*** n
+# *** *pull*** n
 英音 pʊl     美音 pʊl  
 
 | 词频 5 |  
@@ -11093,7 +11061,7 @@ Sue Wood was only nine when her first short story was ________ (出版).
  > 我一分钟能做十个引体向上。  
 
 
-# ***pulse*** n
+# *** *pulse*** n
 英音 pʌls     美音 pʌls  
 
 | 词频 1 |  
@@ -11109,7 +11077,7 @@ Sue Wood was only nine when her first short story was ________ (出版).
  > 测某人的脉搏  
 
 
-# ***pulse*** vi
+# *** *pulse*** vi
 英音 pʌls     美音 pʌls  
 
 | 词频 1 |  
@@ -11119,7 +11087,7 @@ Sue Wood was only nine when her first short story was ________ (出版).
 1.**强烈而有规律地跳动；搏动**  
 
 
-# ***pump*** n
+# *** *pump*** n
 英音 pʌmp     美音 pʌmp  
 
 | 词频 2 | 口语 1 |  
@@ -11131,7 +11099,7 @@ Sue Wood was only nine when her first short story was ________ (出版).
 1.*高义频：* **泵；抽水机；打气筒**  
 
 
-# ***pump*** vt
+# *** *pump*** vt
 英音 pʌmp     美音 pʌmp  
 
 | 词频 2 |  
@@ -11144,7 +11112,7 @@ Sue Wood was only nine when her first short story was ________ (出版).
  > 从井里抽水。  
 
 
-# ***punchline*** n
+# *** *punchline*** n
 英音 'pʌntʃlaɪn     美音 'pʌntʃlaɪn  
 
 | 词频 1 |  
@@ -11156,7 +11124,7 @@ Sue Wood was only nine when her first short story was ________ (出版).
 1.*高义频：* **故事、笑话等中的妙语；关键语**  
 
 
-# ***punctual*** adj
+# *** *punctual*** adj
 英音 'pʌŋktʃuəl     美音 'pʌŋktʃuəl  
 
 | 词频 1 |  
@@ -11170,7 +11138,7 @@ Sue Wood was only nine when her first short story was ________ (出版).
  > 来源：外研⑦ – 2  
 
 
-# ***punctuation*** n
+# *** *punctuation*** n
 英音 ˌpʌŋktʃu'eɪʃn     美音 ˌpʌŋktʃu'eɪʃn  
 
 | 词频 1 |  
@@ -11182,7 +11150,7 @@ Sue Wood was only nine when her first short story was ________ (出版).
 1.*高义频：* **标点法；标点符号**  
 
 
-# ***punish*** vt
+# *** *punish*** vt
 英音 'pʌnɪʃ     美音 'pʌnɪʃ  
 
 | 词频 3 |  
@@ -11191,16 +11159,16 @@ Sue Wood was only nine when her first short story was ________ (出版).
 ---
 1.*高义频：* **惩罚；处罚：**  
 
+ > be heavily / severely / justly punished by law  
+ > 受到法律的严重/严厉/公正惩罚  
+
 - punish sb for (doing) sth:
 
  > The students were punished for cheating on the exam.  
  > 这些学生因为考试作弊而受到惩罚。  
 
- > be heavily / severely / justly punished by law  
- > 受到法律的严重/严厉/公正惩罚  
 
-
-# ***punishment*** n
+# *** *punishment*** n
 英音 'pʌnɪʃmənt     美音 'pʌnɪʃmənt  
 
 | 词频 2 | 书面 1 |  
@@ -11220,7 +11188,7 @@ Sue Wood was only nine when her first short story was ________ (出版).
  > 逃避惩罚  
 
 
-# ***pupil*** n
+# *** *pupil*** n
 英音 'pjuːpl     美音 'pjuːpl  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -11236,7 +11204,7 @@ Sue Wood was only nine when her first short story was ________ (出版).
  > 来源：2011 上海  
 
 
-# ***purchase*** vt
+# *** *purchase*** vt
 英音 'pɜːtʃəs     美音 'pɜːrtʃəs  
 
 | 词频 4 | 书面 1 | 阅读 3 |  
@@ -11255,7 +11223,7 @@ Sue Wood was only nine when her first short story was ________ (出版).
  > 他们以鲜血换得了自由。  
 
 
-# ***purchase*** n
+# *** *purchase*** n
 英音 'pɜːtʃəs     美音 'pɜːrtʃəs  
 
 | 词频 4 | 书面 1 | 阅读 3 |  
@@ -11273,7 +11241,7 @@ Sue Wood was only nine when her first short story was ________ (出版).
  > 这个买得真值啊！  
 
 
-# ***pure*** adj
+# *** *pure*** adj
 英音 pjʊə(r)     美音 pjʊr  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -11311,10 +11279,11 @@ purely /'pjʊəli/ adv
 ---
 ##### 题目  
 This T-shirt is made of high quality ________ (纯的) cotton.  
+来源：2012 陕西  
 ##### 答案 pure  
   
 
-# ***purely*** adv
+# *** *purely*** adv
 英音 'pjʊəli     美音 'pjʊrli  
 
 | 词频 2 |  
@@ -11324,7 +11293,7 @@ This T-shirt is made of high quality ________ (纯的) cotton.
 1.**完全地, 仅仅**  
 
 
-# ***purify*** v
+# *** *purify*** v
 英音 'pjʊərɪfaɪ     
 
   
@@ -11334,7 +11303,7 @@ This T-shirt is made of high quality ________ (纯的) cotton.
 1.**（使）净化；（使）精炼；涤罪**  
 
 
-# ***purple*** adj
+# *** *purple*** adj
 英音 'pɜːpl     美音 'pɜːrpl  
 
 | 词频 2 | 书面 1 |  
@@ -11344,7 +11313,7 @@ This T-shirt is made of high quality ________ (纯的) cotton.
 1.*高义频：* **紫的；紫红的**  
 
 
-# ***purple*** n
+# *** *purple*** n
 英音 'pɜːpl     美音 'pɜːrpl  
 
 | 词频 2 |  
@@ -11356,7 +11325,7 @@ This T-shirt is made of high quality ________ (纯的) cotton.
 1.*高义频：* **紫色；紫红色**  
 
 
-# ***purpose*** n  重难点词汇
+# *** *purpose*** n  重难点词汇
 英音 'pɜːpəs     美音 'pɜːrpəs  
 
 | 词频 5 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -11407,8 +11376,7 @@ This T-shirt is made of high quality ________ (纯的) cotton.
 
 固定搭配
 ---
-- on purpose
-1.**故意地；有意地 (deliberately)**  
+## - *on purpose  **故意地；有意地 (deliberately)**  
 反义词 by accident： 
 
  > Cinderella left her shoe on the stairs on purpose.  
@@ -11421,7 +11389,7 @@ This T-shirt is made of high quality ________ (纯的) cotton.
 purposeful /'pɜːpəsfl/ adj   
 purposely /'pɜːpəsli/ adv   
 
-# ***purposely*** adv
+# *** *purposely*** adv
 英音 'pɜːpəsli     美音 'pɜːrpəsli  
 
   
@@ -11431,7 +11399,7 @@ purposely /'pɜːpəsli/ adv
 1.**故意地**  
 
 
-# ***purse*** n
+# *** *purse*** n
 英音 pɜːs     美音 pɜːrs  
 
 | 词频 3 | 口语 1 |  
@@ -11443,7 +11411,7 @@ purposely /'pɜːpəsli/ adv
 1.*高义频：* **钱包；(女用) 手提小包**  
 
 
-# ***pursue*** vt
+# *** *pursue*** vt
 英音 pə'sjuː     美音 pər'suː  
 
 | 词频 1 | 口语 1 | 书面 2 |  
@@ -11468,7 +11436,7 @@ purposely /'pɜːpəsli/ adv
  > 追小偷  
 
 
-# ***push*** v
+# *** *push*** v
 英音 pʊʃ     美音 pʊʃ  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -11519,8 +11487,7 @@ purposely /'pɜːpəsli/ adv
 
 固定搭配
 ---
-- push aside
-1.**推开；排挤；设法忘掉：**  
+## - *push aside  **推开；排挤；设法忘掉：**  
 
  > Just when she was about to speak, a student rushed in and pushed her aside!  
  > 正当她要讲话时，一个学生冲了进来将她推到一边。  
@@ -11529,14 +11496,12 @@ purposely /'pɜːpəsli/ adv
  > She pushed aside her anger, forcing herself to focus on her work.   
  > 她抛开愤怒，强迫自己专心工作。  
 
-- push on 
-1.**继续前进；继续 (做某事)：**  
+## - *push on   **继续前进；继续 (做某事)：**  
 
  > Let’s push on; it’s nearly nightfall.  
  > 咱们继续走吧，天快黑了。  
 
-- push over 
-1.**推倒；(风) 刮倒：**  
+## - *push over   **推倒；(风) 刮倒：**  
 
  > The big tree was pushed over by the wind.   
  > 这棵大树被风刮倒了。  
@@ -11546,10 +11511,11 @@ purposely /'pɜːpəsli/ adv
 ---
 ##### 题目  
 Encourage your children to try new things, but try not to ________ (逼迫) them too hard.  
+来源：2009 全国改  
 ##### 答案 push  
   
 
-# ***push*** n
+# *** *push*** n
 英音 pʊʃ     美音 pʊʃ  
 
 | 词频 4 |  
@@ -11572,7 +11538,7 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
  > 做俯卧撑  
 
 
-# ***push-up*** n
+# *** *push-up*** n
 
 
 | 词频 1 |  
@@ -11582,7 +11548,7 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
 1.**（especially  NAmE）俯卧撑**  
 
 
-# ***put*** vt
+# *** *put*** vt
 英音 pʊt     美音 pʊt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -11654,8 +11620,7 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
 
 固定搭配
 ---
-- put aside
-1.*低义频：* **把...放在一边；把...撇开不理：**  
+## - *put aside  1.*低义频：* **把...放在一边；把...撇开不理：**  
 
  > She put the newspaper aside and stood up.   
  > 她把报纸放到一边站了起来。  
@@ -11668,8 +11633,7 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
  > They put some money aside every month for their retirement.   
  > 他们每月都存些钱供退休后用。  
 
-- put away
-1.*高义频：* **把...收起；放好：**  
+## - *put away  1.*高义频：* **把...收起；放好：**  
 
  > Kids — will you put away your toys now?   
  > 孩子们，现在把玩具收起来好吗？  
@@ -11684,8 +11648,7 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
  > Put your worries away and enjoy life.   
  > 别再担心了，好好享受人生吧！  
 
-- put back
-1.*高义频：* **把...放回原处；使...恢复原状：**  
+## - *put back  1.*高义频：* **把...放回原处；使...恢复原状：**  
 
  > Please put back the books and magazines when you’ve finished with them.   
  > 阅读完书和杂志后请放回原处。  
@@ -11695,8 +11658,7 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
  > Because of the bad weather, the voyage was put back twelve hours.   
  > 由于天气恶劣，起航推迟了12个小时。  
 
-- put down
-1.*高义频：* **放下：**  
+## - *put down  1.*高义频：* **放下：**  
 
  > Once I started reading the mystery novel, I just couldn’t put it down.  
  > 一旦我开始读那本疑案小说，就再也放不下了。  
@@ -11711,8 +11673,7 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
 
 3.*低义频：* **付 (订金)；批评**  
 
-- put forward 
-1.**把…提前；提出 ; 推荐 :**  
+## - *put forward   **把…提前；提出 ; 推荐 :**  
 
  > We have put forward the wedding by two weeks.   
  > 我们把婚礼提前了两周。  
@@ -11721,8 +11682,7 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
  > 谁提出了黑洞理论？  
  > 来源：人教⑤ – 1  
 
-- put in
-1.*低义频：* **插入 (意见、话语等)；投入 (时间、金钱等)：**  
+## - *put in  1.*低义频：* **插入 (意见、话语等)；投入 (时间、金钱等)：**  
 
  > Holly is always putting in her unwanted opinions.  
  > 霍莉总是插嘴，发表些没用的见解。  
@@ -11745,8 +11705,7 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
  > 她种了15株西红柿和5垅各色蔬菜。  
  > 来源：2011 全国  
 
-- put into 
-1.**把…投入；(使) 进入… (状态)；把…翻译成：**  
+## - *put into   **把…投入；(使) 进入… (状态)；把…翻译成：**  
 
  > Nothing is difficult in the world if you put your heart into it.   
  > 世上无难事，只怕有心人。  
@@ -11758,8 +11717,7 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
  > Put this sentence into English.  
  > 把这个句子译成英语。  
 
-- put off
-1.*高义频：* **延期；推迟 (delay / postpone)：**  
+## - *put off  1.*高义频：* **延期；推迟 (delay / postpone)：**  
 
  > She called this afternoon to put off the meeting to next week.   
  > 她下午打电话说把会议推迟到下周。  
@@ -11779,8 +11737,7 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
  > Don’t let your failures put you off trying harder.  
  > 别因为失败你就不再进一步努力了。  
 
-- put on
-1.*高义频：* **穿上；戴上【反:take off】；抹：**  
+## - *put on  1.*高义频：* **穿上；戴上【反:take off】；抹：**  
 
  > Remember to put on more clothes to keep warm.   
  > 记得多穿点衣服保暖。  
@@ -11824,8 +11781,7 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
  > He put the blame for his failure on me.   
  > 他把自己的失败归咎于我。  
 
-- put out
-1.*高义频：* **把...拿出去：**  
+## - *put out  1.*高义频：* **把...拿出去：**  
 
  > put the rubbish / garbage out   
  > 清理垃圾  
@@ -11856,8 +11812,7 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
 
 ### 辨析 go out, put out
 二者都和“熄灭”有关。  
-- put through
-1.*低义频：* **使经受 (困难或令人不悦的事情)：**  
+## - *put through  1.*低义频：* **使经受 (困难或令人不悦的事情)：**  
 
  > I told myself I would not put my mom through that pain again.   
  > 我告诉自己不能再让妈妈经受那样的痛苦了。  
@@ -11872,14 +11827,12 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
  > Could you put me through to the manager, please?  
  > 请帮我接通经理的电话，好吗？  
 
-- put together 
-1.**组装；组建；拼凑出：**  
+## - *put together   **组装；组建；拼凑出：**  
 
  > It took us all morning to put the proposal together.  
  > 我们花了一上午的时间整理出这份建议。  
 
-- put up
-1.*高义频：* **举起；抬起；提高：**  
+## - *put up  1.*高义频：* **举起；抬起；提高：**  
 
  > Put up your hands if you have any questions.  
  > 如果有问题请举手。  
@@ -11908,8 +11861,7 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
  > I was hoping Kenny could put me up for a few days.  
  > 我希望肯尼能让我留宿几天。  
 
-- put up with 
-1.**忍受；容忍 (tolerate)：**  
+## - *put up with   **忍受；容忍 (tolerate)：**  
 
  > I can’t put up with their smoking any longer.   
  > 我再也无法忍受他们抽烟了。  
@@ -11922,18 +11874,22 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
 ---
 ##### 题目  
 At the last moment, Tom decided to put ________ a new character to make the story seem more likely.  
+来源：2013 全国改  
 ##### 答案 in  
   
 ##### 题目  
 Mary is really good at taking notes in class. She can put _________ almost every word her teacher says.  
+来源：2012 全国改  
 ##### 答案 down  
   
 ##### 题目  
 The exam results will be put _________ on Friday afternoon.  
+来源：2011 辽宁改  
 ##### 答案 up  
   
 ##### 题目  
 I can put up ________ the house being untidy, but I hate it if it’s not clean.  
+来源：2011 全国改  
 ##### 答案 with  
   
 ##### 题目  
@@ -11942,10 +11898,12 @@ A.putting down
 B.putting off  
 C.putting on  
 D.putting up  
+来源：2011 浙江  
 ##### 答案 D  
   
 ##### 题目  
 My mother opened the drawer to put _________ the knives and spoons.  
+来源：2010 全国改  
 ##### 答案 away  
   
 ##### 题目  
@@ -11954,14 +11912,16 @@ A.gets
 B.makes  
 C.puts  
 D.means  
+来源：2009 安徽  
 ##### 答案 C  
   
 ##### 题目  
 Don’t be so discouraged. If you put ________ such feelings, you will do better next time.  
+来源：2008 安徽改  
 ##### 答案 away  
   
 
-# ***puzzle*** n
+# *** *puzzle*** n
 英音 'pʌzl     美音 'pʌzl  
 
 | 词频 4 |  
@@ -11976,7 +11936,7 @@ Don’t be so discouraged. If you put ________ such feelings, you will do better
  > 蒙娜丽莎为什么微笑仍然是个谜。  
 
 
-# ***puzzle*** vt
+# *** *puzzle*** vt
 英音 'pʌzl     美音 'pʌzl  
 
 | 词频 4 |  
@@ -11991,11 +11951,10 @@ Don’t be so discouraged. If you put ________ such feelings, you will do better
 
 固定搭配
 ---
-- puzzle over / about
-1.**苦苦思索；仔细琢磨**  
+## - *puzzle over / about  **苦苦思索；仔细琢磨**  
 
 
-# ***puzzled*** adj
+# *** *puzzled*** adj
 英音 'pʌzld     美音 'pʌzld  
 
 | 词频 3 |  
@@ -12008,7 +11967,7 @@ Don’t be so discouraged. If you put ________ such feelings, you will do better
  > 她看上去很困惑，所以我把问题重复了一遍。  
 
 
-# ***puzzling*** adj
+# *** *puzzling*** adj
 英音 'pʌzlɪŋ     美音 'pʌzlɪŋ  
 
 | 词频 1 |  
@@ -12021,7 +11980,7 @@ Don’t be so discouraged. If you put ________ such feelings, you will do better
  > 令人疑惑的问题  
 
 
-# ***pyramid*** n
+# *** *pyramid*** n
 英音 'pɪrəmɪd     美音 'pɪrəmɪd  
 
 | 词频 2 |  

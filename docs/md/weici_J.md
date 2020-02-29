@@ -1,6 +1,6 @@
 # Jj
 
-# ***jacket*** n
+# *** *jacket*** n
 英音 'dʒækɪt     美音 'dʒækɪt  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -12,7 +12,7 @@
 1.*高义频：* **短上衣；夹克**  
 
 
-# ***jam*** n
+# *** *jam*** n
 英音 dʒæm     美音 dʒæm  
 
 | 词频 3 | 口语 1 |  
@@ -27,7 +27,7 @@
  > 来源：外研④ – 2  
 
 
-# ***jar*** n
+# *** *jar*** n
 英音 dʒɑː(r)     美音 dʒɑːr  
 
 | 词频 3 |  
@@ -39,7 +39,7 @@
 1.**罐子；坛子；一罐的量**  
 
 
-# ***jaw*** n
+# *** *jaw*** n
 英音 dʒɔ     美音 dʒɔː  
 
 | 词频 1 |  
@@ -51,7 +51,7 @@
 1.*高义频：* **颌；颚**  
 
 
-# ***jazz*** n
+# *** *jazz*** n
 英音 dʒæz     美音 dʒæz  
 
 | 词频 4 |  
@@ -63,7 +63,7 @@
 1.*高义频：* **爵士乐；爵士舞 (曲)**  
 
 
-# ***jealous*** adj
+# *** *jealous*** adj
 英音 'dʒeləs     美音 'dʒeləs  
 
 | 词频 1 |  
@@ -77,7 +77,7 @@
  > 我嫉妒她的成功。  
 
 
-# ***jeans*** n
+# *** *jeans*** n
 英音 dʒiːnz     美音 dʒiːnz  
 
 | 词频 2 | 口语 1 |  
@@ -89,7 +89,7 @@
 1.*高义频：* **牛仔裤； (牛仔) 工作服**  
 
 
-# ***jeep*** n
+# *** *jeep*** n
 英音 dʒiːp     美音 dʒiːp  
 
 | 词频 1 |  
@@ -101,7 +101,7 @@
 1.*高义频：* **吉普车**  
 
 
-# ***jelly*** n
+# *** *jelly*** n
 英音 'dʒeli     美音 'dʒeli  
 
 | 词频 1 |  
@@ -113,7 +113,7 @@
 1.*高义频：* **果冻；(不含水果块的) 果酱**  
 
 
-# ***jerk*** n
+# *** *jerk*** n
 英音 dʒɜːk     美音 dʒɜːrk  
 
 | 词频 1 |  
@@ -123,7 +123,7 @@
 1.**猛拉, 猛的一动**  
 
 
-# ***jet*** n
+# *** *jet*** n
 英音 dʒet     美音 dʒet  
 
 | 词频 2 |  
@@ -138,7 +138,7 @@
  > 飞行时差综合征；时差反应  
 
 
-# ***jewel*** n
+# *** *jewel*** n
 英音 'dʒuːəl     美音 'dʒuːəl  
 
 | 词频 2 |  
@@ -153,7 +153,7 @@
  > 她喜欢佩戴闪亮的珠宝首饰。  
 
 
-# ***jewellery*** n
+# *** *jewellery*** n
 英音 'dʒuːəlrɪ     美音 'dʒuːəlrɪ  
 
 | 词频 2 |  
@@ -168,7 +168,7 @@
  > 一件首饰  
 
 
-# ***jewelry*** n
+# *** *jewelry*** n
 英音 'dʒuːəlri     美音 'dʒuːəlri  
 
 | 词频 2 |  
@@ -180,7 +180,7 @@
 1.*高义频：* **珠宝；首饰：**  
 
 
-# ***job*** n
+# *** *job*** n
 英音 dʒɒb     美音 dʒɑːb  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -214,7 +214,7 @@
 ---
 jobless  /'dʒɒbləs/ adj   
 
-# ***jog*** vi
+# *** *jog*** vi
 英音 dʒɒɡ     美音 dʒɑːɡ  
 
 | 词频 4 |  
@@ -231,7 +231,7 @@ jobless  /'dʒɒbləs/ adj
 ---
 jogging  /'dʒɒɡɪŋ/ n [U]   
 
-# ***jog*** n
+# *** *jog*** n
 英音 dʒɒɡ     美音 dʒɑːɡ  
 
 | 词频 4 |  
@@ -241,7 +241,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 1.**慢跑**  
 
 
-# ***jogging*** n
+# *** *jogging*** n
 英音 'dʒɒɡɪŋ     美音 'dʒɑːɡɪŋ  
 
 | 词频 3 |  
@@ -251,7 +251,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 1.**慢跑**  
 
 
-# ***join*** v
+# *** *join*** v
 英音 dʒɔɪn     美音 dʒɔɪn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -297,8 +297,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 固定搭配
 ---
-- join in
-1.**参加 (比赛、活动等)：**  
+## - *join in  **参加 (比赛、活动等)：**  
 
  > Be prepared to join in a class discussion.   
  > 做好准备加入课堂讨论。  
@@ -307,7 +306,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 ### 辨析 join, join in, take part in, attend
 四者都常译为“参加”。  
 
-# ***joint*** n
+# *** *joint*** n
 英音 dʒɔɪnt     美音 dʒɔɪnt  
 
 | 词频 1 |  
@@ -323,7 +322,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > 踝/膝关节  
 
 
-# ***joint*** adj
+# *** *joint*** adj
 英音 dʒɔɪnt     美音 dʒɔɪnt  
 
 | 词频 1 | 口语 2 | 书面 2 |  
@@ -339,7 +338,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > 外交部长呼吁共同努力来保护全球自由贸易。  
 
 
-# ***join…to…*** 
+# *** *join…to…*** 
 
 
   
@@ -352,7 +351,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > 将一段管子与相邻的管子连接起来。  
 
 
-# ***joke*** n
+# *** *joke*** n
 英音 dʒəʊk     美音 dʒoʊk  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -373,7 +372,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > 来源：译林⑥ – 1  
 
 
-# ***joke*** vi
+# *** *joke*** vi
 英音 dʒəʊk     美音 dʒoʊk  
 
 | 词频 4 | 口语 1 |  
@@ -393,8 +392,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 固定搭配
 ---
-- play a joke / jokes on 
-1.**戏弄；拿…开玩笑：**  
+## - *play a joke / jokes on   **戏弄；拿…开玩笑：**  
 
  > They decided to play a joke on their father by hiding his glasses.   
  > 他们决定把父亲的眼镜藏起来和他开个玩笑。  
@@ -404,10 +402,11 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 ---
 ##### 题目  
 Everyone thought he was j________, but in fact he was completely serious.  
+来源：2006 浙江  
 ##### 答案 joking  
   
 
-# ***journal*** n
+# *** *journal*** n
 英音 'dʒɜːnl     美音 'dʒɜːnl  
 
 | 词频 3 | 阅读 2 |  
@@ -427,7 +426,7 @@ Everyone thought he was j________, but in fact he was completely serious.
  > 记日记  
 
 
-# ***journalism*** n
+# *** *journalism*** n
 英音 'dʒɜːnəlɪzəm     美音 'dʒɜːrnəlɪzəm  
 
 | 词频 2 |  
@@ -437,7 +436,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 1.**新闻业，新闻工作**  
 
 
-# ***journalist*** n
+# *** *journalist*** n
 英音 'dʒɜːnəlɪst     美音 'dʒɜːnəlɪst  
 
 | 词频 3 | 书面 1 |  
@@ -449,7 +448,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 1.*高义频：* **记者；新闻工作者**  
 
 
-# ***journey*** n
+# *** *journey*** n
 英音 'dʒɜːni     美音 'dʒɜːrni  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -479,7 +478,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 ### 辨析 voyage, journey, trip, tour
 四者都含“旅行”之意，但具体含义不同。  
 
-# ***joust*** vi
+# *** *joust*** vi
 英音 dʒaʊst     美音 dʒaʊst  
 
 | 词频 1 |  
@@ -489,7 +488,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 1.*高义频：* **(指中世纪骑士) 骑着马用长矛打斗**  
 
 
-# ***joy*** n
+# *** *joy*** n
 英音 dʒɔɪ     美音 dʒɔɪ  
 
 | 词频 4 | 书面 1 |  
@@ -515,7 +514,7 @@ Everyone thought he was j________, but in fact he was completely serious.
  > 听音乐是我的一大乐事。  
 
 
-# ***judge*** n
+# *** *judge*** n
 英音 dʒʌdʒ     美音 dʒʌdʒ  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -534,7 +533,7 @@ Everyone thought he was j________, but in fact he was completely serious.
  > 来源：2008 天津  
 
 
-# ***judge*** v
+# *** *judge*** v
 英音 dʒʌdʒ     美音 dʒʌdʒ  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -580,7 +579,7 @@ Everyone thought he was j________, but in fact he was completely serious.
  > 判案/判某人有罪  
 
 
-# ***judgement*** n
+# *** *judgement*** n
 英音 'dʒʌdʒmənt     美音 'dʒʌdʒmənt  
 
 | 词频 3 | 书面 2 |  
@@ -607,7 +606,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 3.*低义频：* **审判**  
 
 
-# ***judgment*** n
+# *** *judgment*** n
 英音 'dʒʌdʒmənt     美音 'dʒʌdʒmənt  
 
 | 词频 3 | 书面 2 |  
@@ -634,7 +633,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 3.*低义频：* **审判**  
 
 
-# ***juice*** n
+# *** *juice*** n
 英音 dʒuːs     美音 dʒuːs  
 
 | 词频 3 | 口语 2 |  
@@ -646,7 +645,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 1.*高义频：* **(水果、蔬菜、肉类等的) 汁、液**  
 
 
-# ***jump*** v
+# *** *jump*** v
 英音 dʒʌmp     美音 dʒʌmp  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -676,11 +675,10 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 固定搭配
 ---
-- jump at sth
-1.**迫不及待地接受某事物；欣然接受某事物**  
+## - *jump at sth  **迫不及待地接受某事物；欣然接受某事物**  
 
 
-# ***jump*** n
+# *** *jump*** n
 英音 dʒʌmp     美音 dʒʌmp  
 
 | 词频 4 | 口语 1 |  
@@ -700,7 +698,7 @@ Everyone thought he was j________, but in fact he was completely serious.
  > 跳高/跳远  
 
 
-# ***jump*** vt
+# *** *jump*** vt
 英音 dʒʌmp     美音 dʒʌmp  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -713,7 +711,7 @@ Everyone thought he was j________, but in fact he was completely serious.
  > 你如何才能跳过那些跨栏？  
 
 
-# ***junction*** n
+# *** *junction*** n
 英音 'dʒʌŋkʃn     美音 'dʒʌŋkʃn  
 
 | 词频 1 |  
@@ -728,7 +726,7 @@ Everyone thought he was j________, but in fact he was completely serious.
  > 丁字路口  
 
 
-# ***jungle*** n
+# *** *jungle*** n
 英音 'dʒʌŋɡl     美音 'dʒʌŋɡl  
 
 | 词频 2 |  
@@ -740,7 +738,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 1.*高义频：* **丛林；密林**  
 
 
-# ***junior*** adj
+# *** *junior*** adj
 英音 'dʒuːniə(r)     美音 'dʒuːniər  
 
 | 词频 2 |  
@@ -758,7 +756,7 @@ Everyone thought he was j________, but in fact he was completely serious.
  > 她比我小四岁。  
 
 
-# ***junior*** n
+# *** *junior*** n
 英音 'dʒuːniə(r)     美音 'dʒuːniər  
 
 | 词频 2 |  
@@ -770,7 +768,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 1.*高义频：* **青少年；职位较低者；(高中 / 四年制大学中)三年级学生**  
 
 
-# ***just*** adv
+# *** *just*** adv
 英音 dʒʌst     美音 dʒʌst  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -831,8 +829,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 固定搭配
 ---
-- just about 
-1.**几乎；差不多：**  
+## - *just about   **几乎；差不多：**  
 
  > Some people will do just about anything to save money.  
  > 为了省钱，有的人几乎愿意做任何事情。  
@@ -843,6 +840,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 ---
 ##### 题目  
 ________ (正如) a single word can change the meaning of a sentence, a single sentence can change the meaning of a paragraph.  
+来源：2015 浙江改  
 ##### 答案 Just as  
   
 ##### 题目  
@@ -852,10 +850,11 @@ A.yet
 B.even  
 C.rather  
 D.just  
+来源：2004 全国  
 ##### 答案 D  
   
 
-# ***just*** adj
+# *** *just*** adj
 英音 dʒʌst     美音 dʒʌst  
 
 | 词频 5 |  
@@ -868,7 +867,7 @@ D.just
  > 正直的人  
 
 
-# ***justice*** n
+# *** *justice*** n
 英音 'dʒʌstɪs     美音 'dʒʌstɪs  
 
 | 词频 2 | 书面 2 | 阅读 1 |  
@@ -892,7 +891,7 @@ D.just
  > 天网恢恢，疏而不漏。  
 
 
-# ***justifiably*** adv
+# *** *justifiably*** adv
 英音 dʒʌstɪ'faɪəbli     美音 dʒʌstɪ'faɪəbli  
 
 | 词频 1 |  
@@ -902,7 +901,7 @@ D.just
 1.**有正当理由地**  
 
 
-# ***justify*** vt
+# *** *justify*** vt
 英音 'dʒʌstɪfaɪ     美音 'dʒʌstɪfaɪ  
 
 | 词频 1 | 口语 1 | 书面 1 |  

@@ -1,6 +1,6 @@
 # Vv
 
-# ***vacant*** adj
+# *** *vacant*** adj
 英音 'veɪkənt     美音 'veɪkənt  
 
 | 词频 1 |  
@@ -17,7 +17,7 @@
  > 来源：人教⑩ – 2  
 
 
-# ***vacation*** n
+# *** *vacation*** n
 英音 və'keɪʃn, veɪ'keɪʃn     美音 veɪ'keɪʃn, və'keɪʃn  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -35,22 +35,20 @@
 
 固定搭配
 ---
-- have / take a vacation 
-1.**休假：**  
+## - *have / take a vacation   **休假：**  
 
  > The first thing I’m going to do is to take a long vacation!   
  > 我要做的第一件事是休一个长假。  
  > 来源：外研⑦ – 2  
 
-- on vacation 
-1.**在度假：**  
+## - *on vacation   **在度假：**  
 
  > Some people write postcards while they are on vacation and send them to friends.   
  > 一些人在度假的时候写明信片并寄给朋友。  
  > 来源：2012 湖南改  
 
 
-# ***vaccination*** n
+# *** *vaccination*** n
 英音 ˌvæksɪ'neɪʃn     美音 ˌvæksɪ'neɪʃn  
 
 | 词频 1 |  
@@ -62,7 +60,7 @@
 1.*高义频：* **接种疫苗**  
 
 
-# ***vacuum*** n
+# *** *vacuum*** n
 英音 'vækjuəm     美音 'vækjuəm  
 
 | 词频 1 |  
@@ -72,7 +70,7 @@
 1.**真空；空白**  
 
 
-# ***vague*** adj
+# *** *vague*** adj
 英音 veɪɡ     美音 veɪɡ  
 
 | 词频 1 | 口语 1 |  
@@ -91,7 +89,7 @@
  > 来源：人教⑩ – 4  
 
 
-# ***vain*** adj
+# *** *vain*** adj
 英音 veɪn     美音 veɪn  
 
 | 词频 2 |  
@@ -103,8 +101,7 @@
 
 固定搭配
 ---
-- in vain 
-1.**徒劳；白辛苦：**  
+## - *in vain   **徒劳；白辛苦：**  
 
  > I have tried very hard to find a solution to the problem, but in vain.   
  > 我曾苦苦地探求解决问题的办法，但都是徒劳。  
@@ -115,10 +112,11 @@
 ---
 ##### 题目  
 His efforts to raise money for his program were________vain because no one showed any intention to take a cent out of their pockets.  
+来源：2009 湖北改  
 ##### 答案 in  
   
 
-# ***valid*** adj
+# *** *valid*** adj
 英音 'vælɪd     美音 'vælɪd  
 
 | 词频 2 | 阅读 1 |  
@@ -135,7 +133,7 @@ His efforts to raise money for his program were________vain because no one showe
  > 睡过头并不是上学迟到的正当理由。  
 
 
-# ***valley*** n
+# *** *valley*** n
 英音 'væli     美音 'væli  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -147,7 +145,7 @@ His efforts to raise money for his program were________vain because no one showe
 1.*高义频：* **山谷；溪谷；流域**  
 
 
-# ***valuable*** adj
+# *** *valuable*** adj
 英音 'væljuəbl     美音 'væljuəbl  
 
 | 词频 4 | 书面 1 |  
@@ -176,7 +174,7 @@ His efforts to raise money for his program were________vain because no one showe
 ---
 invaluable /ɪn'væljuəbl/ adj   
 
-# ***value*** n
+# *** *value*** n
 英音 'væljuː     美音 'væljuː  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -224,15 +222,14 @@ invaluable /ɪn'væljuəbl/ adj
 
 固定搭配
 ---
-- of value 
-1.**有价值的；有用的 (valuable)：**  
+## - *of value   **有价值的；有用的 (valuable)：**  
 
  > **of great value**  
  > Sports can be of great value, especially to people who work with their brains most of the day.   
  > 体育运动很有益处，对那些每天大部分时间都在从事脑力劳动的人来说更是如此。  
 
 
-# ***value*** vt
+# *** *value*** vt
 英音 'væljuː     美音 'væljuː  
 
 | 词频 5 |  
@@ -258,7 +255,7 @@ invaluable /ɪn'væljuəbl/ adj
  > 来源：2008 湖南书面表达  
 
 
-# ***valued*** adj
+# *** *valued*** adj
 英音 'væljuːd     美音 'væljuːd  
 
 | 词频 3 |  
@@ -268,7 +265,7 @@ invaluable /ɪn'væljuəbl/ adj
 1.**有价值的**  
 
 
-# ***vanguard*** n
+# *** *vanguard*** n
 英音 'vænɡɑːd     美音 'vænɡɑːrd  
 
 | 词频 1 |  
@@ -278,7 +275,7 @@ invaluable /ɪn'væljuəbl/ adj
 1.**先头部队**  
 
 
-# ***vanish*** vi
+# *** *vanish*** vi
 英音 'vænɪʃ     美音 'vænɪʃ  
 
 | 词频 1 |  
@@ -296,7 +293,7 @@ invaluable /ɪn'væljuəbl/ adj
  > 许多种动物已在地球上绝迹。  
 
 
-# ***vapour*** n
+# *** *vapour*** n
 英音 'veɪpə(r)     美音 'veɪpər  
 
 | 词频 1 |  
@@ -308,7 +305,7 @@ invaluable /ɪn'væljuəbl/ adj
 1.*高义频：* **(=vapor) 蒸气；水蒸气**  
 
 
-# ***variation*** n
+# *** *variation*** n
 英音 ˌveəri'eɪʃn     美音 ˌveri'eɪʃn  
 
 | 词频 1 | 书面 2 |  
@@ -328,7 +325,7 @@ invaluable /ɪn'væljuəbl/ adj
  > 来源：外研⑤-1  
 
 
-# ***varied*** adj
+# *** *varied*** adj
 英音 'veərid     美音 'verid  
 
 | 词频 2 |  
@@ -338,7 +335,7 @@ invaluable /ɪn'væljuəbl/ adj
 1.**多变化的**  
 
 
-# ***variety*** n
+# *** *variety*** n
 英音 və'raɪəti     美音 və'raɪəti  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -363,8 +360,7 @@ invaluable /ɪn'væljuəbl/ adj
 
 固定搭配
 ---
-- a variety of
-1.**种种；各种各样的：**  
+## - *a variety of  **种种；各种各样的：**  
 
  > **a wide variety of**  
  > The club offers a wide variety of games to the local teenagers.  
@@ -378,7 +374,7 @@ More and more people choose to shop in a supermarket as it offers ________ (丰�
 ##### 答案 a great / wide variety of  
   
 
-# ***various*** adj
+# *** *various*** adj
 英音 'veəriəs     美音 'veriəs  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -403,7 +399,7 @@ More and more people choose to shop in a supermarket as it offers ________ (丰�
 ---
 variously /'veəriəsli/ adv   
 
-# ***vary*** v
+# *** *vary*** v
 英音 'veəri     美音 'veri  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -434,7 +430,7 @@ variously /'veəriəsli/ adv
 ---
 varied /'veərid/ adj   
 
-# ***vase*** n
+# *** *vase*** n
 英音 vɑːz     美音 veɪs  
 
 | 词频 2 |  
@@ -446,7 +442,7 @@ varied /'veərid/ adj
 1.*高义频：* **花瓶；(装饰用的) 瓶**  
 
 
-# ***vast*** adj
+# *** *vast*** adj
 英音 vɑːst     美音 væst  
 
 | 词频 3 | 口语 1 | 书面 2 |  
@@ -462,7 +458,7 @@ varied /'veərid/ adj
  > 一大笔资金  
 
 
-# ***vault*** n
+# *** *vault*** n
 英音 vɔːlt     美音 vɔːlt  
 
 | 词频 1 |  
@@ -472,7 +468,7 @@ varied /'veərid/ adj
 1.**跳马（体操项目）；腾跳**  
 
 
-# ***vegetable*** n
+# *** *vegetable*** n
 英音 'vedʒtəbl     美音 'vedʒtəbl  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -488,10 +484,11 @@ varied /'veərid/ adj
 ---
 ##### 题目  
 Cabbage, carrots, and tomatoes are my favorite v________ .  
+来源：2005 浙江  
 ##### 答案 vegetables  
   
 
-# ***vegetarian*** adj
+# *** *vegetarian*** adj
 英音 ˌvedʒə'teəriən     美音 ˌvedʒə'teriən  
 
   
@@ -501,7 +498,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 1.**(全是) 蔬菜的没有肉类的**  
 
 
-# ***vehicle*** n
+# *** *vehicle*** n
 英音 'viːəkl     美音 'viːəkl  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -516,7 +513,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
  > 小汽车和大卡车都是运载工具。  
 
 
-# ***vein*** n
+# *** *vein*** n
 英音 veɪn     美音 veɪn  
 
 | 词频 2 |  
@@ -528,7 +525,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 1.*高义频：* **静脉**  
 
 
-# ***vengeful*** adj
+# *** *vengeful*** adj
 英音 'vendʒfl     美音 'vendʒfl  
 
 | 词频 1 |  
@@ -538,7 +535,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 1.**复仇的，报复心切的**  
 
 
-# ***venture*** vt
+# *** *venture*** vt
 英音 'ventʃə(r)     美音 'ventʃər  
 
 | 词频 1 |  
@@ -553,7 +550,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
  > 来源：人教⑩ – 1  
 
 
-# ***venture*** n
+# *** *venture*** n
 英音 'ventʃə(r)     美音 'ventʃər  
 
 | 词频 1 |  
@@ -573,7 +570,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
  > 来源：2011 湖北  
 
 
-# ***venue*** n
+# *** *venue*** n
 英音 'venjuː     美音 'venjuː  
 
 | 词频 2 |  
@@ -583,7 +580,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 1.**会场，举办地点**  
 
 
-# ***verbal*** adj
+# *** *verbal*** adj
 英音 'vɜːbl     美音 'vɜːbl  
 
 | 词频 2 |  
@@ -593,7 +590,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 1.*高义频：* **口头的**  
 
 
-# ***version*** n
+# *** *version*** n
 英音 'vɜːʃn     美音 'vɜːrʒn  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -616,7 +613,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
  > 对所发生的事，两家报纸说法不一。  
 
 
-# ***vertical*** adj
+# *** *vertical*** adj
 英音 'vɜːtɪkl     美音 'vɜːrtɪkl  
 
 | 词频 1 |  
@@ -634,7 +631,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
  > 垂直线  
 
 
-# ***very*** adj
+# *** *very*** adj
 英音 'veri     美音 'veri  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -658,7 +655,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
  > 一想到要在许多人面前讲话，我就发怵。  
 
 
-# ***very*** adv
+# *** *very*** adv
 英音 'veri     美音 'veri  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -681,8 +678,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 
 固定搭配
 ---
-- not very
-1.**不很；根本不：**  
+## - *not very  **不很；根本不：**  
 
  > **not very**  
  > It is not very warm today.  
@@ -693,7 +689,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
  > 我根本不想去那里。  
 
 
-# ***vest*** n
+# *** *vest*** n
 英音 vest     美音 vest  
 
 | 词频 1 |  
@@ -705,7 +701,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 1.*高义频：* **汗衫；马甲**  
 
 
-# ***vet*** n
+# *** *vet*** n
 英音 vet     美音 vet  
 
 | 词频 1 | 口语 1 |  
@@ -717,7 +713,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 1.*高义频：* **兽医**  
 
 
-# ***via*** prep
+# *** *via*** prep
 英音 'vaɪə     美音 'vaɪə  
 
 | 词频 2 | 书面 2 |  
@@ -733,7 +729,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
  > 通过空邮寄信  
 
 
-# ***vibration*** n
+# *** *vibration*** n
 英音 vaɪ'breɪʃn     美音 vaɪ'breɪʃn  
 
   
@@ -743,7 +739,7 @@ Cabbage, carrots, and tomatoes are my favorite v________ .
 1.**震颤，震动**  
 
 
-# ***vice*** n
+# *** *vice*** n
 英音 vaɪs     美音 vaɪs  
 
 | 词频 2 |  
@@ -761,7 +757,7 @@ Notes: 前缀vice-意为“副的”。
  > 副总统/副总裁  
 
 
-# ***victim*** n
+# *** *victim*** n
 英音 'vɪktɪm     美音 'vɪktɪm  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -779,11 +775,10 @@ Notes: 前缀vice-意为“副的”。
 
 固定搭配
 ---
-- fall victim to / become a victim to
-1.**成为…的牺牲品**  
+## - *fall victim to / become a victim to  **成为…的牺牲品**  
 
 
-# ***victory*** n
+# *** *victory*** n
 英音 'vɪktəri     美音 'vɪktəri  
 
 | 词频 3 | 书面 2 |  
@@ -799,7 +794,7 @@ Notes: 前缀vice-意为“副的”。
  > 战胜敌人  
 
 
-# ***video*** n
+# *** *video*** n
 英音 'vɪdiəʊ     美音 'vɪdioʊ  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -811,7 +806,7 @@ Notes: 前缀vice-意为“副的”。
 1.*高义频：* **录像 (带)；视频**  
 
 
-# ***video*** adj
+# *** *video*** adj
 英音 'vɪdiəʊ     美音 'vɪdioʊ  
 
 | 词频 4 |  
@@ -826,7 +821,7 @@ Notes: 前缀vice-意为“副的”。
  > 摄像机/电子游戏  
 
 
-# ***video*** vt
+# *** *video*** vt
 英音 'vɪdiəʊ     美音 'vɪdioʊ  
 
 | 词频 4 |  
@@ -839,7 +834,7 @@ Notes: 前缀vice-意为“副的”。
  > 一位朋友把婚礼录了下来。  
 
 
-# ***videophone*** n
+# *** *videophone*** n
 英音 'vɪdiəʊfəʊn     美音 'vɪdioʊfoʊn  
 
 | 词频 1 |  
@@ -851,7 +846,7 @@ Notes: 前缀vice-意为“副的”。
 1.*高义频：* **电视电话；可视电话**  
 
 
-# ***view*** vt  重难点词汇
+# *** *view*** vt  重难点词汇
 英音 vjuː     美音 vjuː  
 
 | 词频 5 |  
@@ -877,7 +872,7 @@ Notes: 前缀vice-意为“副的”。
 ---
 viewer /'vjuːə(r)/ n [C]  
 
-# ***view*** n  重难点词汇
+# *** *view*** n  重难点词汇
 英音 vjuː     美音 vjuː  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -944,20 +939,18 @@ viewer /'vjuːə(r)/ n [C]
 
 固定搭配
 ---
-- in view of
-1.**鉴于；考虑到：**  
+## - *in view of  **鉴于；考虑到：**  
 
  > In view of the weather, the event will be held indoors.  
  > 由于天气的缘故，这项比赛将在室内进行。  
 
-- on view
-1.**在展出；展览着：**  
+## - *on view  **在展出；展览着：**  
 
  > The painting is currently on view at the gallery.  
  > 那幅画目前在美术馆展出。  
 
 
-# ***viewer*** n
+# *** *viewer*** n
 英音 'vjuːə(r)     美音 'vjuːər  
 
 | 词频 3 |  
@@ -967,7 +960,7 @@ viewer /'vjuːə(r)/ n [C]
 1.**电视观众；观看者**  
 
 
-# ***village*** n
+# *** *village*** n
 英音 'vɪlɪdʒ     美音 'vɪlɪdʒ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -979,7 +972,7 @@ viewer /'vjuːə(r)/ n [C]
 1.*高义频：* **村庄；[常与the连用] 村民**  
 
 
-# ***villager*** n
+# *** *villager*** n
 英音 'vɪlɪdʒə(r)     美音 'vɪlɪdʒər  
 
 | 词频 3 |  
@@ -991,7 +984,7 @@ viewer /'vjuːə(r)/ n [C]
 1.*高义频：* **村民；乡下人**  
 
 
-# ***vinegar*** n
+# *** *vinegar*** n
 英音 'vɪnɪɡə(r)     美音 'vɪnɪɡər  
 
 | 词频 1 |  
@@ -1003,7 +996,7 @@ viewer /'vjuːə(r)/ n [C]
 1.*高义频：* **醋**  
 
 
-# ***violate*** vt
+# *** *violate*** vt
 英音 'vaɪəleɪt     美音 'vaɪəleɪt  
 
 | 词频 1 |  
@@ -1019,7 +1012,7 @@ viewer /'vjuːə(r)/ n [C]
  > 枪炮声打破了星期日早晨一贯的宁静。  
 
 
-# ***violence*** n
+# *** *violence*** n
 英音 'vaɪələns     美音 'vaɪələns  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -1035,7 +1028,7 @@ viewer /'vjuːə(r)/ n [C]
  > 家庭暴力  
 
 
-# ***violent*** adj
+# *** *violent*** adj
 英音 'vaɪələnt     美音 'vaɪələnt  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -1057,7 +1050,7 @@ viewer /'vjuːə(r)/ n [C]
 ---
 violently /'vaɪələntli/ adv   
 
-# ***violet*** n
+# *** *violet*** n
 英音 'vaɪələt     美音 'vaɪələt  
 
 | 词频 1 |  
@@ -1067,7 +1060,7 @@ violently /'vaɪələntli/ adv
 1.**紫罗兰**  
 
 
-# ***violin*** n
+# *** *violin*** n
 英音 ˌvaɪə'lɪn     美音 ˌvaɪə'lɪn  
 
 | 词频 1 |  
@@ -1082,7 +1075,7 @@ violently /'vaɪələntli/ adv
  > 拉小提琴  
 
 
-# ***violinist*** n
+# *** *violinist*** n
 英音 ˌvaɪə'lɪnɪst     美音 ˌvaɪə'lɪnɪst  
 
 | 词频 1 |  
@@ -1094,7 +1087,7 @@ violently /'vaɪələntli/ adv
 1.*高义频：* **小提琴手**  
 
 
-# ***virtual*** adj
+# *** *virtual*** adj
 英音 'vɜːtʃuəl     美音 'vɜːrtʃuəl  
 
 | 词频 3 |  
@@ -1116,7 +1109,7 @@ violently /'vaɪələntli/ adv
 ---
 virtually /'vɜːtʃuəli/ adv   
 
-# ***virtue*** n
+# *** *virtue*** n
 英音 'vɜːtʃuː     美音 'vɜːrtʃuː  
 
 | 词频 1 | 书面 1 |  
@@ -1138,7 +1131,7 @@ virtually /'vɜːtʃuəli/ adv
  > 他的一个优点是从不生气。  
 
 
-# ***virus*** n
+# *** *virus*** n
 英音 'vaɪrəs     美音 'vaɪrəs  
 
 | 词频 3 | 书面 1 |  
@@ -1158,7 +1151,7 @@ virtually /'vɜːtʃuəli/ adv
  > 来源：人教② – 3  
 
 
-# ***visa*** n
+# *** *visa*** n
 英音 'viːzə     美音 'viːzə  
 
 | 词频 2 |  
@@ -1170,7 +1163,7 @@ virtually /'vɜːtʃuəli/ adv
 1.*高义频：* **(护照等的) 签证**  
 
 
-# ***visible*** adj
+# *** *visible*** adj
 英音 'vɪzəbl     美音 'vɪzəbl  
 
 | 词频 2 | 书面 1 | 阅读 2 |  
@@ -1187,7 +1180,7 @@ virtually /'vɜːtʃuəli/ adv
  > 我在非常显眼的地方站了几个小时，确保每个人都能看见我。  
 
 
-# ***vision*** n
+# *** *vision*** n
 英音 'vɪʒn     美音 'vɪʒn  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 1 |  
@@ -1214,7 +1207,7 @@ virtually /'vɜːtʃuəli/ adv
  > 具有远见卓识的人  
 
 
-# ***visit*** n
+# *** *visit*** n
 英音 'vɪzɪt     美音 'vɪzɪt  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -1232,14 +1225,13 @@ virtually /'vɜːtʃuəli/ adv
 
 固定搭配
 ---
-- pay a visit to
-1.**参观；访问；拜访：**  
+## - *pay a visit to  **参观；访问；拜访：**  
 
  > If you have time, pay a visit to the local museum.  
  > 你若有空，参观一下当地的这家博物馆。  
 
 
-# ***visit*** vt
+# *** *visit*** vt
 英音 'vɪzɪt     美音 'vɪzɪt  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -1268,7 +1260,7 @@ virtually /'vɜːtʃuəli/ adv
  > 来源：2014 四川改  
 
 
-# ***visitor*** n
+# *** *visitor*** n
 英音 'vɪzɪtə(r)     美音 'vɪzɪtər  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -1280,7 +1272,7 @@ virtually /'vɜːtʃuəli/ adv
 1.*高义频：* **访问者；参观者；游客**  
 
 
-# ***visual*** adj
+# *** *visual*** adj
 英音 'vɪʒuəl     美音 'vɪʒuəl  
 
 | 词频 2 | 书面 1 |  
@@ -1296,7 +1288,7 @@ virtually /'vɜːtʃuəli/ adv
  > 视野  
 
 
-# ***visually*** adv
+# *** *visually*** adv
 英音 'vɪʒuəli     美音 'vɪʒuəli  
 
 | 词频 1 |  
@@ -1306,7 +1298,7 @@ virtually /'vɜːtʃuəli/ adv
 1.**外表上；视觉地**  
 
 
-# ***vital*** adj
+# *** *vital*** adj
 英音 'vaɪtl     美音 'vaɪtl  
 
 | 词频 2 | 书面 2 | 阅读 2 |  
@@ -1338,10 +1330,11 @@ virtually /'vɜːtʃuəli/ adv
 ---
 ##### 题目  
 Interest is as vital to________ (learn) as the ability to understand, even more so.  
+来源：2012 安徽改  
 ##### 答案 learning  
   
 
-# ***vitamin*** n
+# *** *vitamin*** n
 英音 'vɪtəmɪn     美音 'vaɪtəmɪn  
 
 | 词频 2 |  
@@ -1353,7 +1346,7 @@ Interest is as vital to________ (learn) as the ability to understand, even more 
 1.*高义频：* **维生素**  
 
 
-# ***vivid*** adj
+# *** *vivid*** adj
 英音 'vɪvɪd     美音 'vɪvɪd  
 
 | 词频 2 | 阅读 1 |  
@@ -1383,10 +1376,11 @@ A.clear
 B.cautious  
 C.funny  
 D.vivid  
+来源：2009 天津改  
 ##### 答案 vivid  
   
 
-# ***vividly*** adv
+# *** *vividly*** adv
 英音 'vɪvɪdli     美音 'vɪvɪdli  
 
   
@@ -1396,7 +1390,7 @@ D.vivid
 1.**生动地**  
 
 
-# ***vocabulary*** n
+# *** *vocabulary*** n
 英音 və'kæbjələri     美音 və'kæbjəleri  
 
 | 词频 2 |  
@@ -1416,7 +1410,7 @@ D.vivid
 2.*高义频：* **词汇表**  
 
 
-# ***vocal*** adj
+# *** *vocal*** adj
 英音 'vəʊkl     美音 'voʊkl  
 
 | 词频 1 |  
@@ -1426,7 +1420,7 @@ D.vivid
 1.**嗓音的，与嗓音有关的**  
 
 
-# ***voice*** vt
+# *** *voice*** vt
 英音 vɔɪs     美音 vɔɪs  
 
 | 词频 4 |  
@@ -1440,7 +1434,7 @@ D.vivid
  > 来源：译林④ – 3  
 
 
-# ***voice*** n
+# *** *voice*** n
 英音 vɔɪs     美音 vɔɪs  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -1489,10 +1483,11 @@ A.Sky
 B.Life  
 C.Arts  
 D.Voices  
+来源：2008 安徽  
 ##### 答案 D  
   
 
-# ***volcanic*** adj
+# *** *volcanic*** adj
 英音 vɒl'kænɪk     美音 vɑːl'kænɪk  
 
 | 词频 2 |  
@@ -1502,7 +1497,7 @@ D.Voices
 1.*高义频：* **火山的**  
 
 
-# ***volcano*** n
+# *** *volcano*** n
 英音 vɒl'keɪnəʊ     美音 vɑːl'keɪnoʊ  
 
 | 词频 3 |  
@@ -1518,7 +1513,7 @@ D.Voices
 ---
 volcanic /vɒl'kænɪk/ adj   
 
-# ***volcanologist*** n
+# *** *volcanologist*** n
 英音 ˌvɒlkən'ɒlədʒɪst     美音 ˌvɒlkən'ɒlədʒɪst  
 
 | 词频 1 |  
@@ -1530,7 +1525,7 @@ volcanic /vɒl'kænɪk/ adj
 1.*高义频：* **火山学家**  
 
 
-# ***volcanology*** n
+# *** *volcanology*** n
 英音 ˌvɒlkə'nɒlədʒi     美音 ˌvɑːlkə'nɑːlədʒi  
 
 | 词频 1 |  
@@ -1540,7 +1535,7 @@ volcanic /vɒl'kænɪk/ adj
 1.*高义频：* **火山学**  
 
 
-# ***volleyball*** n
+# *** *volleyball*** n
 英音 'vɒlibɔːl     美音 'vɑːlibɔːl  
 
 | 词频 2 |  
@@ -1555,7 +1550,7 @@ volcanic /vɒl'kænɪk/ adj
  > 打排球  
 
 
-# ***volume*** n
+# *** *volume*** n
 英音 'vɒljuːm     美音 'vɑːljuːm  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -1587,7 +1582,7 @@ volcanic /vɒl'kænɪk/ adj
  > 电视声音太大了,把音量调低点。  
 
 
-# ***voluntary*** adj
+# *** *voluntary*** adj
 英音 'vɒləntri     美音 'vɑːlənteri  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -1604,7 +1599,7 @@ volcanic /vɒl'kænɪk/ adj
  > 她是这家医院的志愿者。  
 
 
-# ***volunteer*** v
+# *** *volunteer*** v
 英音 ˌvɒlən'tɪə(r)     美音 ˌvɑːlən'tɪr  
 
 | 词频 4 |  
@@ -1612,12 +1607,6 @@ volcanic /vɒl'kænɪk/ adj
 英文释义
 ---
 1.*高义频：* **自愿 (做某事)；自愿提供：**  
-
-- volunteer to do sth:
-
- > Tang Ling volunteered to help the welfare house.  
- > 唐玲自愿去福利院帮忙。  
- > 来源：人教⑦ – 5  
 
  > She has been volunteering her time and talents to the work for more than 40 years.  
  > 四十多年来她一直自愿将时间和才能倾注在这项工作上。  
@@ -1627,8 +1616,14 @@ volcanic /vɒl'kænɪk/ adj
  > 当志愿者为你提供了改变生活的机会，包括你自己的生活。  
  > 来源：2013 北京  
 
+- volunteer to do sth:
 
-# ***volunteer*** n
+ > Tang Ling volunteered to help the welfare house.  
+ > 唐玲自愿去福利院帮忙。  
+ > 来源：人教⑦ – 5  
+
+
+# *** *volunteer*** n
 英音 ˌvɒlən'tɪə(r)     美音 ˌvɑːlən'tɪr  
 
 | 词频 4 |  
@@ -1644,7 +1639,7 @@ volcanic /vɒl'kænɪk/ adj
  > 来源：2008 四川  
 
 
-# ***volunteer*** adj
+# *** *volunteer*** adj
 英音 ˌvɒlən'tɪə(r)     美音 ˌvɑːlən'tɪr  
 
 | 词频 4 |  
@@ -1654,7 +1649,7 @@ volcanic /vɒl'kænɪk/ adj
 1.**志愿的；义务的**  
 
 
-# ***vote*** v
+# *** *vote*** v
 英音 vəʊt     美音 voʊt  
 
 | 词频 2 | 口语 2 | 书面 2 |  
@@ -1682,7 +1677,7 @@ volcanic /vɒl'kænɪk/ adj
 ---
 voter /'vəʊtə(r)/ n [C]  
 
-# ***vote*** n
+# *** *vote*** n
 英音 vəʊt     美音 voʊt  
 
 | 词频 2 | 口语 2 | 书面 2 |  
@@ -1702,7 +1697,7 @@ voter /'vəʊtə(r)/ n [C]
  > 来源：北师大② – 4  
 
 
-# ***vowel*** n
+# *** *vowel*** n
 英音 'vaʊəl     美音 'vaʊəl  
 
 | 词频 1 |  
@@ -1714,7 +1709,7 @@ voter /'vəʊtə(r)/ n [C]
 1.*高义频：* **元音；元音字母**  
 
 
-# ***voyage*** n
+# *** *voyage*** n
 英音 'vɔɪɪdʒ     美音 'vɔɪɪdʒ  
 
 | 词频 3 |  
@@ -1742,7 +1737,7 @@ voter /'vəʊtə(r)/ n [C]
 ### 辨析 voyage, journey, trip, tour
 四者都含“旅行”之意，但具体含义不同。  
 
-# ***vulnerable*** adj
+# *** *vulnerable*** adj
 英音 'vʌlnərəbl     美音 'vʌlnərəbl  
 
 | 词频 1 |  

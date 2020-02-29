@@ -1,6 +1,6 @@
 # Nn
 
-# ***nail*** n
+# *** *nail*** n
 英音 neɪl     美音 neɪl  
 
 | 词频 2 | 口语 1 |  
@@ -10,7 +10,7 @@
 1.*高义频：* **指甲；爪；钉子**  
 
 
-# ***naked*** adj
+# *** *naked*** adj
 英音 'neɪkɪd     美音 'neɪkɪd  
 
 | 词频 1 | 口语 1 |  
@@ -20,7 +20,7 @@
 1.*高义频：* **裸体的；赤条条的**  
 
 
-# ***name*** vt
+# *** *name*** vt
 英音 neɪm     美音 neɪm  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -45,8 +45,7 @@
 
 固定搭配
 ---
-- name ... after 
-1.**以…的名字命名：**  
+## - *name ... after   **以…的名字命名：**  
 
  > Being a huge basketball fan, he wanted to name his son after Jordan.   
  > 他是个狂热的篮球迷，想给儿子取名为乔丹。  
@@ -55,14 +54,13 @@
  > 杰克曾在一所乡村学校读书，该校是以他爷爷的名字命名的。  
  > 来源：2010 全国  
 
-- to name but a few
-1.**不一而足；略举几例：**  
+## - *to name but a few  **不一而足；略举几例：**  
 
  > Activities available include cooking, swimming and fishing, to name but a few.  
  > 可进行的活动包括烹饪，游泳和钓鱼，略举几例。  
 
 
-# ***name*** n
+# *** *name*** n
 英音 neɪm     美音 neɪm  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -92,15 +90,13 @@
 
 固定搭配
 ---
-- by the name of 
-1.**[正式用语] 名叫…的：**  
+## - *by the name of   **[正式用语] 名叫…的：**  
 
  > She is a British athlete by the name of Tanni Grey Thompson.   
  > 她是一名英国运动员，名叫坦妮·格雷·汤普森。  
  > 来源：2008 福建  
 
-- in the name of 
-1.**在…名下；以…的名义；代表 (in sb’s / sth’s name)：**  
+## - *in the name of   **在…名下；以…的名义；代表 (in sb’s / sth’s name)：**  
 
  > I arrest you in the name of the law.   
  > 我依法逮捕你。  
@@ -108,17 +104,15 @@
  > I’ve booked a table in your name.   
  > 我已经用你的名字预订了一张桌子。  
 
-- make a name (for oneself) / make one’s name 
-1.**成名；出名：**  
+## - *make a name (for oneself) / make one’s name   **成名；出名：**  
 
  > She first made her name as a writer of children’s books.   
  > 她最初以写儿童读物成名。  
 
-- under the name of 
-1.**以…为别名**  
+## - *under the name of   **以…为别名**  
 
 
-# ***namely*** adv
+# *** *namely*** adv
 英音 'neɪmli     美音 'neɪmli  
 
 | 词频 1 |  
@@ -131,7 +125,7 @@
  > 只有一个人能做这项工作，那就是你。  
 
 
-# ***nap*** n
+# *** *nap*** n
 英音 næp     美音 næp  
 
 | 词频 3 |  
@@ -141,7 +135,7 @@
 1.**小睡, 打盹**  
 
 
-# ***narrator*** n
+# *** *narrator*** n
 英音 nə'reɪtə(r)     美音 nə'reɪtər  
 
 | 词频 2 |  
@@ -153,7 +147,7 @@
 1.*高义频：* **讲述者，叙述者**  
 
 
-# ***narrow*** adj
+# *** *narrow*** adj
 英音 'nærəʊ     美音 'næroʊ  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -185,7 +179,7 @@
  > 险胜  
 
 
-# ***narrow*** v
+# *** *narrow*** v
 英音 'nærəʊ     美音 'næroʊ  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -210,10 +204,11 @@
 ---
 ##### 题目  
 Parents and children should communicate more to n________ the gap between them so that they can understand each other better.  
+来源：2012 天津改  
 ##### 答案 narrow  
   
 
-# ***narrowly*** adv
+# *** *narrowly*** adv
 英音 'nærəʊli     美音 'næroʊli  
 
 | 词频 2 |  
@@ -233,7 +228,7 @@ The final score of the basketball match was 93-94. We were only  ________ (narro
 ##### 答案 narrowly  
   
 
-# ***nasty*** adj
+# *** *nasty*** adj
 英音 'nɑːsti     美音 'næsti  
 
 | 词频 1 | 口语 2 |  
@@ -243,7 +238,7 @@ The final score of the basketball match was 93-94. We were only  ________ (narro
 1.*高义频：* **令人极不愉快的；不友善的；下流的**  
 
 
-# ***nation*** n
+# *** *nation*** n
 英音 'neɪʃn     美音 'neɪʃn  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -270,7 +265,7 @@ The final score of the basketball match was 93-94. We were only  ________ (narro
  > 中华民族  
 
 
-# ***national*** adj
+# *** *national*** adj
 英音 'næʃnəl     美音 'næʃnəl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -291,7 +286,7 @@ The final score of the basketball match was 93-94. We were only  ________ (narro
  > 国家公园 / 国家博物馆  
 
 
-# ***nationalism*** n
+# *** *nationalism*** n
 英音 'næʃnəlɪzəm     美音 'næʃnəlɪzəm  
 
 | 词频 1 |  
@@ -301,7 +296,7 @@ The final score of the basketball match was 93-94. We were only  ________ (narro
 1.*高义频：* **民族主义；国家主义**  
 
 
-# ***nationality*** n
+# *** *nationality*** n
 英音 ˌnæʃə'næləti     美音 ˌnæʃə'næləti  
 
 | 词频 2 |  
@@ -324,10 +319,11 @@ The final score of the basketball match was 93-94. We were only  ________ (narro
 ---
 ##### 题目  
 David Beckham’s ________ (国籍) is British.  
+来源：2012 全国  
 ##### 答案 nationality  
   
 
-# ***nationwide*** adj
+# *** *nationwide*** adj
 英音 ˌneɪʃn'waɪd     美音 ˌneɪʃn'waɪd  
 
 | 词频 2 |  
@@ -341,7 +337,7 @@ David Beckham’s ________ (国籍) is British.
  > 来源：译林④ – 1  
 
 
-# ***nationwide*** adv
+# *** *nationwide*** adv
 英音 ˌneɪʃn'waɪd     美音 ˌneɪʃn'waɪd  
 
 | 词频 2 |  
@@ -354,7 +350,7 @@ David Beckham’s ________ (国籍) is British.
  > 这个公司在全国有500多家连锁店。  
 
 
-# ***native*** adj
+# *** *native*** adj
 英音 'neɪtɪv     美音 'neɪtɪv  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -372,7 +368,7 @@ David Beckham’s ________ (国籍) is British.
  > 我妻子是纽约本地人，而我来自亚特兰大。  
 
 
-# ***native*** n
+# *** *native*** n
 英音 'neɪtɪv     美音 'neɪtɪv  
 
 | 词频 4 |  
@@ -384,7 +380,7 @@ David Beckham’s ________ (国籍) is British.
 1.**本地人；当地人 (local)：**  
 
 
-# ***natural*** adj
+# *** *natural*** adj
 英音 'nætʃrəl     美音 'nætʃrəl  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -408,7 +404,7 @@ David Beckham’s ________ (国籍) is British.
  > 她有音乐天赋。  
 
 
-# ***naturally*** adv
+# *** *naturally*** adv
 英音 'nætʃrəli     美音 'nætʃrəli  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -430,10 +426,11 @@ David Beckham’s ________ (国籍) is British.
 ---
 ##### 题目  
 You will be better accepted if you can speak more ________ (自然地) in public.   
+来源：2005 全国  
 ##### 答案 naturally  
   
 
-# ***nature*** n
+# *** *nature*** n
 英音 'neɪtʃə(r)     美音 'neɪtʃər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -457,27 +454,24 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 固定搭配
 ---
-- (get / go) back to nature
-1.**回归自然；返璞归真：**  
+## - *(get / go) back to nature  **回归自然；返璞归真：**  
 
  > City workers want to get back to nature in their holidays.  
  > 城市上班族希望休假时可以回归自然。  
 
-- by nature 
-1.**天生地；出于本性地：**  
+## - *by nature   **天生地；出于本性地：**  
 
  > Children are curious by nature.   
  > 孩子生性好奇。  
 
-- in sb’s nature 
-1.**本性如此：**  
+## - *in sb’s nature   **本性如此：**  
 
  > It is not in his nature to be “selfish” and “rude”.  
  > “自私”和“粗鲁”不是他的本性。  
  > 来源：外研⑦ – 1  
 
 
-# ***naughty*** adj
+# *** *naughty*** adj
 英音 'nɔːti     美音 'nɔːti  
 
 | 词频 2 | 口语 1 |  
@@ -487,7 +481,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
 1.*高义频：* **顽皮的；淘气的**  
 
 
-# ***navigation*** n
+# *** *navigation*** n
 英音 ˌnævɪ'ɡeɪʃn     美音 ˌnævɪ'ɡeɪʃn  
 
 | 词频 1 |  
@@ -499,7 +493,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
 1.*高义频：* **导航；航行**  
 
 
-# ***navigator*** n
+# *** *navigator*** n
 英音 'nævɪɡeɪtə(r)     美音 'nævɪɡeɪtər  
 
 | 词频 1 |  
@@ -509,7 +503,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
 1.**领航员；（飞机的）驾驶员**  
 
 
-# ***navy*** n
+# *** *navy*** n
 英音 'neɪvi     美音 'neɪvi  
 
 | 词频 2 |  
@@ -525,7 +519,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
  > 参加海军  
 
 
-# ***near*** prep
+# *** *near*** prep
 英音 nɪə(r)     美音 nɪr  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -543,7 +537,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
 ### 辨析 by, near
 二者都可作介词，表示“在附近”，但也有细微差别。  
 
-# ***near*** adj
+# *** *near*** adj
 英音 nɪə(r)     美音 nɪr  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -563,7 +557,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
  > 在不久的将来  
 
 
-# ***near*** adv
+# *** *near*** adv
 英音 nɪə(r)     美音 nɪr  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -581,7 +575,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
  > 考试越来越近了。  
 
 
-# ***near*** v
+# *** *near*** v
 英音 nɪə(r)     美音 nɪr  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -596,7 +590,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
  > 随着结婚日期的临近，我开始重新考虑结婚的事。  
 
 
-# ***nearby*** adv
+# *** *nearby*** adv
 英音 ˌnɪə'baɪ     美音 ˌnɪr'baɪ  
 
 | 词频 4 |  
@@ -612,7 +606,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
  > 有位老人静静地坐在旁边的长凳上。  
 
 
-# ***nearby*** adj
+# *** *nearby*** adj
 英音 ˌnɪə'baɪ     美音 ˌnɪr'baɪ  
 
 | 词频 4 | 书面 1 |  
@@ -625,7 +619,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
  > 附近街道的一家商店  
 
 
-# ***nearly*** adv
+# *** *nearly*** adv
 英音 'nɪəli     美音 'nɪəli  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -646,14 +640,13 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 固定搭配
 ---
-- not nearly 
-1.**根本不；远不及：**  
+## - *not nearly   **根本不；远不及：**  
 
  > It’s not nearly as hot as last year.   
  > 天气远没有去年那么热。  
 
 
-# ***neat*** adj
+# *** *neat*** adj
 英音 niːt     美音 niːt  
 
 | 词频 2 | 口语 2 |  
@@ -675,7 +668,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
 ---
 neatly /niːtli/ adv   
 
-# ***necessarily*** adv
+# *** *necessarily*** adv
 英音 ˌnesə'serəli,'nesəsərəli     美音 ˌnesə'serəli  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -689,7 +682,7 @@ neatly /niːtli/ adv
  > 贵的饭店未必是最好的。  
 
 
-# ***necessary*** adj
+# *** *necessary*** adj
 英音 'nesəsəri     美音 'nesəseri  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -697,6 +690,9 @@ neatly /niːtli/ adv
 英文释义
 ---
 1.*高义频：* **必需的；必要的 (essential)：**  
+
+ > The booklet provides all the necessary information about the college.   
+ > 这本手册提供有关这所大学的所有必要信息。  
 
 - it is necessary (for sb) to do sth:
 
@@ -722,9 +718,6 @@ neatly /niːtli/ adv
  > A good diet is necessary for maintaining a healthy body.  
  > 想保持身体健康，合理的饮食必不可少。  
 
- > The booklet provides all the necessary information about the college.   
- > 这本手册提供有关这所大学的所有必要信息。  
-
 2.*高义频：* **[只用于名词前] 必然的；不可避免的：**  
 
  > Some don’t agree that environmental pollution is a necessary consequence of development.  
@@ -733,18 +726,15 @@ neatly /niːtli/ adv
 
 固定搭配
 ---
-- do the necessary
-1.**做必要的事**  
+## - *do the necessary  **做必要的事**  
 
-- if necessary 
-1.**如果必要的话：**  
+## - *if necessary   **如果必要的话：**  
 
  > We should help those who are in great need if necessary.  
  > 必要的话，我们应该帮助那些非常需要帮助的人。  
  > 来源：2012 湖南书面表达  
 
-- when necessary 
-1.**必要时：**  
+## - *when necessary   **必要时：**  
 
  > The army needs men who are willing to fight, when necessary.  
  > 军队需要必要时愿意投入战斗的人。  
@@ -755,10 +745,11 @@ neatly /niːtli/ adv
 ##### 题目  
 — Don’t you think it necessary that he ________ (not send) to Miami but to New York?
 — I agree, but the problem is that he has refused to.  
+来源：2005 江苏改  
 ##### 答案 (should) not be sent  
   
 
-# ***necessity*** n
+# *** *necessity*** n
 英音 nə'sesəti     美音 nə'sesəti  
 
 | 词频 2 | 阅读 2 |  
@@ -782,7 +773,7 @@ neatly /niːtli/ adv
  > 对于很多美国人来说，汽车是必需品。  
 
 
-# ***neck*** n
+# *** *neck*** n
 英音 nek     美音 nek  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -801,7 +792,7 @@ neatly /niːtli/ adv
  > 她脖子上戴着金项链。  
 
 
-# ***necklace*** n
+# *** *necklace*** n
 英音 'nekləs     美音 'nekləs  
 
 | 词频 2 |  
@@ -813,7 +804,7 @@ neatly /niːtli/ adv
 1.*高义频：* **项链；项圈**  
 
 
-# ***need*** n  重难点词汇
+# *** *need*** n  重难点词汇
 英音 niːd     美音 niːd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -822,6 +813,10 @@ neatly /niːtli/ adv
 ---
 1.*高义频：* **[U] [单数] 需要；必要：**  
 
+ > **a need for**  
+ > There is a need for more communication between parents and children.   
+ > 父母和孩子之间需要更多的交流。  
+
 - (there’s) no need (for sb) to do sth:
 
  > There is no need to regret what has happened.   
@@ -829,10 +824,6 @@ neatly /niːtli/ adv
 
  > Everything is fine with me; there is no need for you to be concerned.   
  > 我一切都好，你不必挂念。  
-
- > **a need for**  
- > There is a need for more communication between parents and children.   
- > 父母和孩子之间需要更多的交流。  
 
 2.*高义频：* **[C] [常用复数] 需求；需用的东西：**  
 
@@ -843,8 +834,7 @@ neatly /niːtli/ adv
 
 固定搭配
 ---
-- in need 
-1.**在困难中；在困境中：**  
+## - *in need   **在困难中；在困境中：**  
 
  > A friend in need is a friend indeed.   
  > 患难见真情。  
@@ -853,8 +843,7 @@ neatly /niːtli/ adv
  > 我们社会上的每个人都应该帮助那些有困难的人。  
  > 来源：2016 江苏书面表达  
 
-- in need of
-1.**需要：**  
+## - *in need of  **需要：**  
 
  > The gentleman never fails to help whoever is in need of help.  
  > 这位先生总是帮助任何需要帮助的人。  
@@ -868,10 +857,11 @@ needy /'niːdi/ adj
 ---
 ##### 题目  
 Many Chinese universities provide scholarships for students ________ need of financial aid.  
+来源：2008 天津改  
 ##### 答案 in  
   
 
-# ***need*** vt  重难点词汇
+# *** *need*** vt  重难点词汇
 英音 niːd     美音 niːd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -879,6 +869,10 @@ Many Chinese universities provide scholarships for students ________ need of fin
 英文释义
 ---
 1.*高义频：* **需要；必需**  
+
+ > **badly needed**  
+ > These students badly needed an improvement in confidence.   
+ > 这些学生迫切需要增强自信心。  
 
 - need ... for sth:
 
@@ -901,19 +895,16 @@ Many Chinese universities provide scholarships for students ________ need of fin
  > 来源：2009 北京改  
 
 Notes: need后接动词-ing时，用主动形式表示被动含义。  
- > **badly needed**  
- > These students badly needed an improvement in confidence.   
- > 这些学生迫切需要增强自信心。  
-
 
 真题解析
 ---
 ##### 题目  
 We’ve had a good start, but next, more work needs ________ (do) to achieve the final success.  
+来源：2012 湖南改  
 ##### 答案 to be done / doing  
   
 
-# ***need*** modal v  重难点词汇
+# *** *need*** modal v  重难点词汇
 英音 niːd     美音 niːd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -935,8 +926,7 @@ We’ve had a good start, but next, more work needs ________ (do) to achieve the
 
 固定搭配
 ---
-- needn’t have done sth 
-1.**原本不必做某事：**  
+## - *needn’t have done sth   **原本不必做某事：**  
 
  > As you worked late yesterday, you needn’t have come this morning.  
  > 你昨天工作到很晚，今天早上你原本可以不来。  
@@ -946,14 +936,16 @@ We’ve had a good start, but next, more work needs ________ (do) to achieve the
 ---
 ##### 题目  
 I love the weekend, because I ________ (不必) get up early on Saturdays and Sundays  
+来源：2016 北京改  
 ##### 答案 needn’t  
   
 ##### 题目  
 I ________ (原不必担心) before I came to the new school, for my classmates here are very friendly to me. (need)  
+来源：2015 天津改  
 ##### 答案 needn’t have worried  
   
 
-# ***needle*** n
+# *** *needle*** n
 英音 'niːdl     美音 'niːdl  
 
 | 词频 1 |  
@@ -968,7 +960,7 @@ I ________ (原不必担心) before I came to the new school, for my classmates 
  > 针线  
 
 
-# ***negative*** adj
+# *** *negative*** adj
 英音 'neɡətɪv     美音 'neɡətɪv  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -1002,7 +994,7 @@ I ________ (原不必担心) before I came to the new school, for my classmates 
  > 负数 / 负电荷 / 贸易逆差  
 
 
-# ***negative*** n
+# *** *negative*** n
 英音 'neɡətɪv     美音 'neɡətɪv  
 
 | 词频 4 |  
@@ -1012,7 +1004,7 @@ I ________ (原不必担心) before I came to the new school, for my classmates 
 1.**底片；否定**  
 
 
-# ***neglect*** vt
+# *** *neglect*** vt
 英音 nɪ'ɡlekt     美音 nɪ'ɡlekt  
 
 | 词频 2 | 阅读 1 |  
@@ -1032,7 +1024,7 @@ I ________ (原不必担心) before I came to the new school, for my classmates 
  > 我忘了锁门。  
 
 
-# ***negotiate*** v
+# *** *negotiate*** v
 英音 nɪ'ɡəʊʃieɪt     美音 nɪ'ɡoʊʃieɪt  
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 1 |  
@@ -1060,10 +1052,11 @@ I ________ (原不必担心) before I came to the new school, for my classmates 
 ---
 ##### 题目  
 The minister said, “We are ready for discussions with any legal parties, but we’ll never negotiate ________ criminals.”  
+来源：2011 湖北改  
 ##### 答案 with  
   
 
-# ***neigh*** n
+# *** *neigh*** n
 英音 neɪ     美音 neɪ  
 
 | 词频 1 |  
@@ -1073,7 +1066,7 @@ The minister said, “We are ready for discussions with any legal parties, but w
 1.**（马）嘶鸣**  
 
 
-# ***neigh*** v
+# *** *neigh*** v
 英音 neɪ     美音 neɪ  
 
 | 词频 1 |  
@@ -1083,7 +1076,7 @@ The minister said, “We are ready for discussions with any legal parties, but w
 1.**（马）嘶鸣**  
 
 
-# ***neighbo(u)r*** n
+# *** *neighbo(u)r*** n
 英音 'neɪbə(r)     美音 'neɪbər  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -1108,10 +1101,11 @@ The minister said, “We are ready for discussions with any legal parties, but w
 ---
 ##### 题目  
 One of our ________ (邻居) kept a very beautiful garden.  
+来源：2008 全国  
 ##### 答案 neighbo(u)rs  
   
 
-# ***neighbo(u)rhood*** n
+# *** *neighbo(u)rhood*** n
 英音 'neɪbəhʊd     美音 'neɪbərhʊd  
 
 | 词频 4 | 书面 1 |  
@@ -1137,7 +1131,7 @@ One of our ________ (邻居) kept a very beautiful garden.
  > 我想住在公司附近。  
 
 
-# ***neighbourhood*** n
+# *** *neighbourhood*** n
 英音 'neɪbəhʊd     美音 'neɪbərhʊd  
 
 | 词频 2 |  
@@ -1147,7 +1141,7 @@ One of our ________ (邻居) kept a very beautiful garden.
 1.**街坊；邻近地区**  
 
 
-# ***neither*** pron
+# *** *neither*** pron
 英音 'naɪðə(r),'niːðə(r)     美音 'naɪðər,'niːðər  
 
 | 词频 4 | 书面 1 |  
@@ -1170,18 +1164,21 @@ Notes: “neither of + 复数名词 / 代词”作主语时，谓语动词既可
 ---
 ##### 题目  
 The research group produced two reports based on the survey, but _______ contained any useful suggestions.  
+来源：2015 福建改  
 ##### 答案 neither  
   
 ##### 题目  
 She’d lived in London and Manchester, but she liked ________ and moved to Cambridge.   
+来源：2014 四川改  
 ##### 答案 neither  
   
 ##### 题目  
 Larry asks Bill and Peter to go on a picnic with him, but ________ of them wants to, because they have work to do.   
+来源：2012 全国改  
 ##### 答案 neither   
   
 
-# ***neither*** adv
+# *** *neither*** adv
 英音 'naɪðə(r),'niːðə(r)     美音 'naɪðər,'niːðər  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -1202,11 +1199,9 @@ Notes: neither意为“也不”时，承接在否定句后面,表示与前面�
 
 固定搭配
 ---
-- Me neither. 
-1.**我也不 (…)。**  
+## - *Me neither.   **我也不 (…)。**  
 
-- neither ... nor 
-1.**既不…也不：**  
+## - *neither ... nor   **既不…也不：**  
 
  > Neither you nor I am wrong.   
  > 你没错，我也没错。  
@@ -1227,10 +1222,11 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
 ##### 题目  
 — Poor Steve! I could hardly recognize him just now!
 — Me ________. He has changed so much.   
+来源：2009 山东改  
 ##### 答案 neither  
   
 
-# ***neither*** adj
+# *** *neither*** adj
 英音 'naɪðə(r),'niːðə(r)     美音 'naɪðər,'niːðər  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -1244,7 +1240,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
 
 Notes: neither与单数名词连用时，谓语动词用单数。  
 
-# ***nephew*** n
+# *** *nephew*** n
 英音 'nefjuː, 'nevjuː     美音 'nefjuː, 'nevjuː  
 
 | 词频 2 |  
@@ -1260,10 +1256,11 @@ Notes: neither与单数名词连用时，谓语动词用单数。
 ---
 ##### 题目  
 Bob’s ________ (侄子) is a freshman at Harvard University.   
+来源：2012 全国  
 ##### 答案 nephew  
   
 
-# ***nerve*** n
+# *** *nerve*** n
 英音 nɜːv     美音 nɜːrv  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -1282,14 +1279,13 @@ Bob’s ________ (侄子) is a freshman at Harvard University.
 
 固定搭配
 ---
-- get on sb’s nerves 
-1.**令某人焦躁：**  
+## - *get on sb’s nerves   **令某人焦躁：**  
 
  > Stop whistling! It’s getting on my nerves!  
  > 别吹口哨了!扰得我心烦!  
 
 
-# ***nervous*** adj
+# *** *nervous*** adj
 英音 'nɜːvəs     美音 'nɜːrvəs  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -1313,7 +1309,7 @@ Bob’s ________ (侄子) is a freshman at Harvard University.
 ---
 nervously /'nɜːvəsli/ adv   
 
-# ***nest*** n
+# *** *nest*** n
 英音 nest     美音 nest  
 
 | 词频 4 |  
@@ -1328,7 +1324,7 @@ nervously /'nɜːvəsli/ adv
  > 蚁穴  
 
 
-# ***net*** n
+# *** *net*** n
 英音 net     美音 net  
 
 | 词频 3 | 书面 1 |  
@@ -1347,7 +1343,7 @@ nervously /'nɜːvəsli/ adv
  > 撒网  
 
 
-# ***net*** adj
+# *** *net*** adj
 英音 net     美音 net  
 
 | 词频 3 | 书面 1 |  
@@ -1357,7 +1353,7 @@ nervously /'nɜːvəsli/ adv
 1.**净得的；纯的**  
 
 
-# ***network*** n
+# *** *network*** n
 英音 'netwɜːk     美音 'netwɜːrk  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -1382,7 +1378,7 @@ nervously /'nɜːvəsli/ adv
  > 电视网 / 无线网络  
 
 
-# ***network*** v
+# *** *network*** v
 英音 'netwɜːk     美音 'netwɜːrk  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -1394,7 +1390,7 @@ nervously /'nɜːvəsli/ adv
 2.**建立工作关系**  
 
 
-# ***neutral*** n
+# *** *neutral*** n
 英音 'njuːtrəl     美音 'nuːtrəl  
 
 | 词频 1 |  
@@ -1406,7 +1402,7 @@ nervously /'nɜːvəsli/ adv
 1.*高义频：* **中立国；中立者**  
 
 
-# ***neutral*** adj
+# *** *neutral*** adj
 英音 'njuːtrəl     美音 'nuːtrəl  
 
 | 词频 1 |  
@@ -1416,7 +1412,7 @@ nervously /'nɜːvəsli/ adv
 1.*高义频：* **中立的；不偏不倚的；中性的**  
 
 
-# ***never*** adv
+# *** *never*** adv
 英音 'nevə(r)     美音 'nevər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1462,6 +1458,7 @@ A.had she
 B.she had  
 C.has she  
 D.she has  
+来源：2012 江西  
 ##### 答案 C  
   
 ##### 题目  
@@ -1471,14 +1468,16 @@ A.Nothing much.
 B.Nothing serious.  
 C.Never again.  
 D.Never mind.  
+来源：2011 四川  
 ##### 答案 C  
   
 ##### 题目  
 I can ________ (永不) be a teacher. I’m not a very patient person.  
+来源：2009 湖南改  
 ##### 答案 never  
   
 
-# ***nevertheless*** adv
+# *** *nevertheless*** adv
 英音 ˌnevəðə'les     美音 ˌnevərðə'les  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 1 |  
@@ -1494,7 +1493,7 @@ I can ________ (永不) be a teacher. I’m not a very patient person.
  > 天气变糟了，但是尽管如此，音乐节办得很成功。  
 
 
-# ***new*** adj
+# *** *new*** adj
 英音 njuː     美音 nuː  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -1520,7 +1519,7 @@ I can ________ (永不) be a teacher. I’m not a very patient person.
 ---
 newly /'njuːli/ adv   
 
-# ***news*** n
+# *** *news*** n
 英音 njuːz     美音 nuːz  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1544,7 +1543,7 @@ newly /'njuːli/ adv
  > 没有消息就是好消息。  
 
 
-# ***newsflash*** n
+# *** *newsflash*** n
 英音 'njuːzflæʃ     美音 'nuːzflæʃ  
 
 | 词频 1 |  
@@ -1554,7 +1553,7 @@ newly /'njuːli/ adv
 1.**新闻快讯**  
 
 
-# ***newsletter*** n
+# *** *newsletter*** n
 英音 'njuːzletə(r)     美音 'nuːzletər  
 
 | 词频 1 |  
@@ -1566,7 +1565,7 @@ newly /'njuːli/ adv
 1.*高义频：* **通讯；简报**  
 
 
-# ***newspaper*** n
+# *** *newspaper*** n
 英音 'njuːzpeɪpə(r)     美音 'nuːzpeɪpər  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -1590,7 +1589,7 @@ newly /'njuːli/ adv
  > 她在当地的一家报社工作。  
 
 
-# ***next*** n & pron
+# *** *next*** n & pron
 英音 nekst     美音 nekst  
 
 | 词频 5 |  
@@ -1608,8 +1607,7 @@ newly /'njuːli/ adv
 
 固定搭配
 ---
-- next to 
-1.**紧挨着 (beside)；仅次于：**  
+## - *next to   **紧挨着 (beside)；仅次于：**  
 
  > He sits down at a table next to the front window.   
  > 他在靠近前窗的桌子旁坐下来。  
@@ -1620,7 +1618,7 @@ newly /'njuːli/ adv
  > 来源：2012 全国  
 
 
-# ***next*** adj
+# *** *next*** adj
 英音 nekst     美音 nekst  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1650,7 +1648,7 @@ Notes: 在时间上，指以现在为基准的“下一个”时，不加the。�
  > 我那天晚上生病了，不过第二天感觉好些了。  
 
 
-# ***next*** adv
+# *** *next*** adv
 英音 nekst     美音 nekst  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1670,7 +1668,7 @@ Notes: 在时间上，指以现在为基准的“下一个”时，不加the。�
  > 对我来说，最好玩的是踢足球，其次是听音乐。  
 
 
-# ***nice*** adj
+# *** *nice*** adj
 英音 naɪs     美音 naɪs  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -1698,21 +1696,21 @@ Notes: 在时间上，指以现在为基准的“下一个”时，不加the。�
 
 3.*高义频：* **亲切的；友好的：**  
 
+ > **nice to sb**  
+ > be nice to sb  
+ > 对某人友善  
+
 - it is nice of sb to do sth:
 
  > It is nice of you to help me.   
  > 你真好，帮了我的忙。  
-
- > **nice to sb**  
- > be nice to sb  
- > 对某人友善  
 
 
 派生词汇
 ---
 nicely /'naɪsli/ adv   
 
-# ***nickname*** n
+# *** *nickname*** n
 英音 'nɪkneɪm     美音 'nɪkneɪm  
 
 | 词频 2 |  
@@ -1732,7 +1730,7 @@ nicely /'naɪsli/ adv
  > 我们给一些同学起了有意思的外号。  
 
 
-# ***nicotine*** n
+# *** *nicotine*** n
 英音 'nɪkətiːn     美音 'nɪkətiːn  
 
 | 词频 1 |  
@@ -1744,7 +1742,7 @@ nicely /'naɪsli/ adv
 1.*高义频：* **尼古丁**  
 
 
-# ***niece*** n
+# *** *niece*** n
 英音 niːs     美音 niːs  
 
 | 词频 2 |  
@@ -1756,7 +1754,7 @@ nicely /'naɪsli/ adv
 1.*高义频：* **侄女；外甥女**  
 
 
-# ***night*** n
+# *** *night*** n
 英音 naɪt     美音 naɪt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1782,21 +1780,19 @@ nicely /'naɪsli/ adv
 
 固定搭配
 ---
-- all night (long) 
-1.**整夜：**  
+## - *all night (long)   **整夜：**  
 
  > I lay awake all night (long).  
  > 我整夜没睡着。  
 
-- night and day / day and night 
-1.**日日夜夜；夜以继日：**  
+## - *night and day / day and night   **日日夜夜；夜以继日：**  
 
  > He was so diligent that he worked day and night.  
  > 他非常勤奋，夜以继日地工作。  
  > 来源：2008 湖南书面表达  
 
 
-# ***nightfall*** n
+# *** *nightfall*** n
 英音 'naɪtfɔːl     美音 'naɪtfɔːl  
 
 | 词频 1 |  
@@ -1808,7 +1804,7 @@ nicely /'naɪsli/ adv
 1.*高义频：* **黄昏，傍晚 (=dusk)**  
 
 
-# ***nightmare*** n
+# *** *nightmare*** n
 英音 'naɪtmeə(r)     美音 'naɪtmer  
 
 | 词频 1 |  
@@ -1818,7 +1814,7 @@ nicely /'naɪsli/ adv
 1.**噩梦**  
 
 
-# ***nitrogen*** n
+# *** *nitrogen*** n
 英音 'naɪtrədʒən     美音 'naɪtrədʒən  
 
 | 词频 1 |  
@@ -1830,7 +1826,7 @@ nicely /'naɪsli/ adv
 1.*高义频：* **氮**  
 
 
-# ***no*** adv
+# *** *no*** adv
 英音 nəʊ     美音 noʊ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1860,7 +1856,7 @@ nicely /'naɪsli/ adv
  > 我们走到桥边就不再往前了。  
 
 
-# ***no*** adj
+# *** *no*** adj
 英音 nəʊ     美音 noʊ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1888,8 +1884,7 @@ nicely /'naɪsli/ adv
 
 固定搭配
 ---
-- there’s no doing sth
-1.**[用于强调] 不可能做某事:**  
+## - *there’s no doing sth  **[用于强调] 不可能做某事:**  
 
  > There’s no knowing which team will win.   
  > 无法预知哪个队会赢。  
@@ -1899,7 +1894,7 @@ nicely /'naɪsli/ adv
  > 来源：2013 上海  
 
 
-# ***noble*** adj
+# *** *noble*** adj
 英音 'nəʊbl     美音 'noʊbl  
 
 | 词频 3 |  
@@ -1916,7 +1911,7 @@ nicely /'naɪsli/ adv
  > 崇高的思想/高尚的心灵  
 
 
-# ***noble*** n
+# *** *noble*** n
 英音 'nəʊbl     美音 'noʊbl  
 
 | 词频 3 |  
@@ -1928,7 +1923,7 @@ nicely /'naɪsli/ adv
 1.*高义频：* **贵族**  
 
 
-# ***nobody*** n
+# *** *nobody*** n
 英音 'nəʊbədi     美音 'noʊbədi  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -1943,7 +1938,7 @@ nicely /'naɪsli/ adv
  > 我想成为大人物，不愿做无名小卒。  
 
 
-# ***nobody*** pron
+# *** *nobody*** pron
 英音 'nəʊbədi     美音 'noʊbədi  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -1962,14 +1957,16 @@ Notes: 在英语口语中，nobody比no one更常用。
 ---
 ##### 题目  
 When every pupil in the school wears the uniform, nobody ________ (have) to worry about fashion(时尚）  
+来源：2019 浙江  
 ##### 答案 has / will have  
   
 ##### 题目  
 The meeting will be held in September, but ________ (没人) knows the date for sure.  
+来源：2015 重庆改  
 ##### 答案 nobody / no one  
   
 
-# ***nod*** n
+# *** *nod*** n
 英音 nɒd     美音 nɑːd  
 
 | 词频 3 |  
@@ -1988,7 +1985,7 @@ The meeting will be held in September, but ________ (没人) knows the date for 
  > 他进来时向我友好地点了点头。  
 
 
-# ***nod*** v
+# *** *nod*** v
 英音 nɒd     美音 nɑːd  
 
 | 词频 3 | 书面 2 |  
@@ -2010,7 +2007,7 @@ The meeting will be held in September, but ________ (没人) knows the date for 
  > 来源：2014 四川改  
 
 
-# ***noise*** n
+# *** *noise*** n
 英音 nɔɪz     美音 nɔɪz  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2031,7 +2028,7 @@ The meeting will be held in September, but ________ (没人) knows the date for 
 ### 辨析 noise, sound, voice
   
 
-# ***noisy*** adj
+# *** *noisy*** adj
 英音 'nɔɪzi     美音 'nɔɪzi  
 
 | 词频 4 | 口语 1 |  
@@ -2054,7 +2051,7 @@ The meeting will be held in September, but ________ (没人) knows the date for 
 ---
 noisily  /'nɔɪzɪli/ adv   
 
-# ***non-smoker*** n
+# *** *non-smoker*** n
 英音 nɒn'sməʊkə(r)     美音 nɒn'smoʊkər  
 
 | 词频 1 |  
@@ -2066,7 +2063,7 @@ noisily  /'nɔɪzɪli/ adv
 1.*高义频：* **不抽烟的人**  
 
 
-# ***non-smoking*** adj
+# *** *non-smoking*** adj
 英音 ˌnɒn 'sməʊkɪŋ     美音 ˌnɒn 'smoʊkɪŋ  
 
 | 词频 1 |  
@@ -2076,7 +2073,7 @@ noisily  /'nɔɪzɪli/ adv
 1.**禁止吸烟的**  
 
 
-# ***none*** pron
+# *** *none*** pron
 英音 nʌn     美音 nʌn  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -2106,8 +2103,7 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
 
 固定搭配
 ---
-- none but
-1.**仅仅；只有：**  
+## - *none but  **仅仅；只有：**  
 
  > None but he knew the truth.  
  > 只有他知道真相。  
@@ -2117,19 +2113,22 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
 ---
 ##### 题目  
 Niki is always full of ideas, but ________ is useful to my knowledge.  
+来源：2015 四川改  
 ##### 答案 none  
   
 ##### 题目  
 Although Rosemary had suffered from a serious illness for years, she lost ________ of her enthusiasm for life.  
+来源：2013 陕西改  
 ##### 答案 none  
   
 ##### 题目  
 — What do you think of the performance today?
 — Great! ________ but a musical genius could perform so successfully.   
+来源：2007 江西改  
 ##### 答案 None  
   
 
-# ***nonsense*** n
+# *** *nonsense*** n
 英音 'nɒnsns     美音 'nɑːnsens  
 
 | 词频 1 | 口语 1 |  
@@ -2145,7 +2144,7 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
  > 他们又在胡说。  
 
 
-# ***nonstop*** adv
+# *** *nonstop*** adv
 英音 ˌnɒn'stɒp     美音 ˌnɒn'stɒp  
 
 | 词频 2 |  
@@ -2158,7 +2157,7 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
  > 这列火车从北京直达沈阳。  
 
 
-# ***nonstop*** adj
+# *** *nonstop*** adj
 英音 ˌnɒn'stɒp     美音 ˌnɒn'stɒp  
 
 | 词频 2 |  
@@ -2174,7 +2173,7 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
  > 他在进行一次不间断的长途旅行。  
 
 
-# ***nonverbal*** adj
+# *** *nonverbal*** adj
 英音 ˌnɒn'vɜːbl     美音 ˌnɒn'vɜːbəl  
 
 | 词频 1 |  
@@ -2184,7 +2183,7 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
 1.*高义频：* **不用语言的；不用言辞表达的**  
 
 
-# ***noodle*** n
+# *** *noodle*** n
 英音 'nuːdl     美音 'nuːdl  
 
 | 词频 1 |  
@@ -2196,7 +2195,7 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
 1.*高义频：* **[常用复数] 面条**  
 
 
-# ***noon*** n
+# *** *noon*** n
 英音 nuːn     美音 nuːn  
 
 | 词频 3 |  
@@ -2212,7 +2211,7 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
  > 在中午  
 
 
-# ***nor*** conj
+# *** *nor*** conj
 英音 nɔː(r)     美音 nɔːr  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -2242,6 +2241,7 @@ A.is there
 B.there is  
 C.is it  
 D.it is  
+来源：2012 四川  
 ##### 答案 C  
   
 ##### 题目  
@@ -2250,10 +2250,11 @@ A.does he even give
 B.he even gives  
 C.will he even give  
 D.he will even give  
+来源：2012 重庆  
 ##### 答案 C  
   
 
-# ***normal*** n
+# *** *normal*** n
 英音 'nɔːml     美音 'nɔːrml  
 
 | 词频 4 |  
@@ -2271,14 +2272,13 @@ D.he will even give
 
 固定搭配
 ---
-- go back / return to normal 
-1.**恢复正常：**  
+## - *go back / return to normal   **恢复正常：**  
 
  > The crisis has passed and life will go back to normal soon.   
  > 危机已经过去，生活很快就会恢复正常。  
 
 
-# ***normal*** adj
+# *** *normal*** adj
 英音 'nɔːml     美音 'nɔːrml  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -2288,14 +2288,14 @@ D.he will even give
 1.*高义频：* **正常的；平常的**  
 英译 typical, usual or expected：
 
+ > **normal,a normal life**  
+ > normal working hours / a normal life  
+ > 正常的工作时间 / 生活  
+
 - it is normal (for sb) to do sth:
 
  > It’s normal for students to feel nervous before an exam.  
  > 学生在考试之前感到紧张是正常的。  
-
- > **normal,a normal life**  
- > normal working hours / a normal life  
- > 正常的工作时间 / 生活  
 
 ### 辨析 common, normal, ordinary, usual
   
@@ -2307,10 +2307,11 @@ D.he will even give
 ---
 ##### 题目  
 Such a blood pressure is  ________ (正常的) for  a person of his age.  
+来源： 2013 陕西  
 ##### 答案 normal  
   
 
-# ***normally*** adv
+# *** *normally*** adv
 英音 'nɔːməli     美音 'nɔːrməli  
 
 | 词频 4 | 口语 3 | 书面 2 | 阅读 3 |  
@@ -2330,7 +2331,7 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
  > 来源：2008 湖南改  
 
 
-# ***north*** n
+# *** *north*** n
 英音 nɔːθ     美音 nɔːrθ  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -2348,7 +2349,7 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
  > 在(…的)北方  
 
 
-# ***north*** adj
+# *** *north*** adj
 英音 nɔːθ     美音 nɔːrθ  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -2364,7 +2365,7 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
  > 华北  
 
 
-# ***north*** adv
+# *** *north*** adv
 英音 nɔːθ     美音 nɔːrθ  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -2381,7 +2382,7 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
  > 丰宁在北京以北约180公里处。  
 
 
-# ***north-east*** n
+# *** *north-east*** n
 英音 ˌnɔ:θˈi:st     美音 ˌnɔrθˈist  
 
 | 词频 1 |  
@@ -2391,7 +2392,7 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 1.**东北**  
 
 
-# ***north-west*** n
+# *** *north-west*** n
 英音 ˌnɔ:θˈwest     美音 ˌnɔrθˈwɛst  
 
 | 词频 1 |  
@@ -2401,7 +2402,7 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 1.**西北**  
 
 
-# ***northeast*** adj
+# *** *northeast*** adj
 英音 .nɔːθ'iːst     美音 .nɔːθr'iːst  
 
 | 词频 1 |  
@@ -2417,7 +2418,7 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
  > 东北风  
 
 
-# ***northeast*** n
+# *** *northeast*** n
 英音 ˌnɔːθ'iːst     美音 ˌnɔːθr'iːst  
 
 | 词频 1 |  
@@ -2432,7 +2433,7 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
  > 吉林省位于中国东北。  
 
 
-# ***northeast*** adv
+# *** *northeast*** adv
 英音 ˌnɔːθ'iːst     美音 ˌnɔːθr'iːst  
 
 | 词频 1 |  
@@ -2445,7 +2446,7 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
  > 这条路在这里转向东北。  
 
 
-# ***northern*** adj
+# *** *northern*** adj
 英音 'nɔːðən     美音 'nɔːrðərn  
 
 | 词频 4 |  
@@ -2465,7 +2466,7 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 ---
 northerner /'nɔːðənə(r)/ n [C]  
 
-# ***northwest*** adv
+# *** *northwest*** adv
 英音 ˌnɔːθ'west     美音 ˌnɔːθr'west  
 
 | 词频 1 |  
@@ -2478,7 +2479,7 @@ northerner /'nɔːðənə(r)/ n [C]
  > 道路向西北延伸。  
 
 
-# ***northwest*** adj
+# *** *northwest*** adj
 英音 ˌnɔːθ'west     美音 ˌnɔːθr'west  
 
 | 词频 1 |  
@@ -2491,7 +2492,7 @@ northerner /'nɔːðənə(r)/ n [C]
  > 西北海岸  
 
 
-# ***northwest*** n
+# *** *northwest*** n
 英音 ˌnɔːθ'west     美音 ˌnɔːθr'west  
 
 | 词频 1 |  
@@ -2506,7 +2507,7 @@ northerner /'nɔːðənə(r)/ n [C]
  > 新疆位于中国西北地区。  
 
 
-# ***northwestern*** adj
+# *** *northwestern*** adj
 英音 'nɔːθ'westən     美音 'nɔːθ'westən  
 
 | 词频 1 |  
@@ -2516,7 +2517,7 @@ northerner /'nɔːðənə(r)/ n [C]
 1.*高义频：* **西北部的；来自西北部的**  
 
 
-# ***nose*** n
+# *** *nose*** n
 英音 nəʊz     美音 noʊz  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2547,7 +2548,7 @@ northerner /'nɔːðənə(r)/ n [C]
  > 来源：人教⑤ – 4  
 
 
-# ***nosebleed*** n
+# *** *nosebleed*** n
 英音 'nəʊzbliːd     美音 'noʊzbliːd  
 
 | 词频 1 |  
@@ -2559,7 +2560,7 @@ northerner /'nɔːðənə(r)/ n [C]
 1.*高义频：* **鼻出血；流鼻血**  
 
 
-# ***not*** adv
+# *** *not*** adv
 英音 nɒt     美音 nɑːt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2634,23 +2635,19 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 
 固定搭配
 ---
-- not a / one 
-1.**一个…也不：**  
+## - *not a / one   **一个…也不：**  
 
  > Not a man was killed in the accident.   
  > 那次事故中没有人员死亡。  
 
-- not at all 
-1.**根本不；别客气**  
+## - *not at all   **根本不；别客气**  
 
-- not ... but 
-1.**不是…而是：**  
+## - *not ... but   **不是…而是：**  
 
  > Life is not a competition, but a trip, step by step.  
  > 生活不是竞赛，而是一场一步接着一步的旅行。  
 
-- not that 
-1.**倒不是：**  
+## - *not that   **倒不是：**  
 
  > She didn’t attend the meeting; not that she was busy.  
  > 她没有参加会议，倒不是因为忙。  
@@ -2660,10 +2657,11 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 ---
 ##### 题目  
 It is often said that the joy of travelling is not in arriving at your destination ________ in the journey itself.  
+来源：2008 江苏改  
 ##### 答案 but  
   
 
-# ***note*** n
+# *** *note*** n
 英音 nəʊt     美音 noʊt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2713,28 +2711,25 @@ It is often said that the joy of travelling is not in arriving at your destinati
 
 固定搭配
 ---
-- compare notes (with sb) 
-1.**(与某人) 交换意见 / 信息：**  
+## - *compare notes (with sb)   **(与某人) 交换意见 / 信息：**  
 
  > We saw the play separately and compared notes afterwards.  
  > 我们分别观看了那出戏，随后交换了意见。  
 
-- make / take notes 
-1.**记笔记：**  
+## - *make / take notes   **记笔记：**  
 
  > Mary is really good at taking / making notes in class.  
  > 玛丽很会记课堂笔记。  
  > 来源：2012 全国  
 
-- take note of 
-1.**注意 (notice)：**  
+## - *take note of   **注意 (notice)：**  
 
  > Next time you chat with a friend, take note of how you’re sitting.    
  > 下次你和朋友聊天时，注意一下你的坐姿。  
  > 来源：2008 湖南改  
 
 
-# ***note*** vt
+# *** *note*** vt
 英音 nəʊt     美音 noʊt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2765,8 +2760,7 @@ It is often said that the joy of travelling is not in arriving at your destinati
 
 固定搭配
 ---
-- note down
-1.**记下；记录：**  
+## - *note down  **记下；记录：**  
 
  > The policeman noted down what I said.  
  > 警察记下了我说的话。  
@@ -2776,10 +2770,11 @@ It is often said that the joy of travelling is not in arriving at your destinati
 ---
 ##### 题目  
 Scientists have responded by ________ (note) that hungry bears may be congregating(聚集) around human settlements.  
+来源：2019 全国  
 ##### 答案 noting  
   
 
-# ***notebook*** n
+# *** *notebook*** n
 英音 'nəʊtbʊk     美音 'noʊtbʊk  
 
 | 词频 2 |  
@@ -2791,7 +2786,7 @@ Scientists have responded by ________ (note) that hungry bears may be congregati
 1.*高义频：* **笔记本；笔记本电脑**  
 
 
-# ***notepad*** n
+# *** *notepad*** n
 英音 'nəʊtpæd     美音 'noʊtpæd  
 
 | 词频 1 |  
@@ -2803,7 +2798,7 @@ Scientists have responded by ________ (note) that hungry bears may be congregati
 1.*高义频：* **便条本；记事本**  
 
 
-# ***nothing*** pron
+# *** *nothing*** pron
 英音 'nʌθɪŋ     美音 'nʌθɪŋ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2836,8 +2831,7 @@ Scientists have responded by ________ (note) that hungry bears may be congregati
 
 固定搭配
 ---
-- for nothing
-1.**免费地 (free)；徒劳地：**  
+## - *for nothing  **免费地 (free)；徒劳地：**  
 
  > They repaired my bike for nothing.  
  > 他们免费为我修了自行车。  
@@ -2845,15 +2839,13 @@ Scientists have responded by ________ (note) that hungry bears may be congregati
  > When I arrived, he had left. I’d made the journey for nothing.  
  > 我到达时，他已经离开。我白跑了一趟。  
 
-- have nothing to do with
-1.**和…无关：**  
+## - *have nothing to do with  **和…无关：**  
 
  > John’s success has nothing to do with good luck. It is years of hard work that has made him what he is today.  
  > 约翰的成功跟好运无关，而是多年的努力成就了如今的他。  
  > 来源：2010 湖南  
 
-- nothing but
-1.**只有；仅仅：**  
+## - *nothing but  **只有；仅仅：**  
 
  > Sandy could do nothing but admit to his teacher that he was wrong.  
  > 山迪只能向老师承认自己错了。  
@@ -2861,14 +2853,12 @@ Scientists have responded by ________ (note) that hungry bears may be congregati
  > Don’t worry; it is nothing but a joke.  
  > 别担心，这只不过是个玩笑。  
 
-- nothing like
-1.**完全不像；完全不：**  
+## - *nothing like  **完全不像；完全不：**  
 
  > It looks nothing like a horse.  
  > 它看上去根本不像一匹马。  
 
-- there’s nothing like
-1.**什么都比不上…；…非常好：**  
+## - *there’s nothing like  **什么都比不上…；…非常好：**  
 
  > There’s nothing like an ice-cold drink on a hot day.  
  > 炎热的日子里，什么都比不上喝杯冰镇饮料。  
@@ -2882,18 +2872,21 @@ A.Nothing
 B.Anything  
 C.Something  
 D.Everything  
+来源：2013 安徽  
 ##### 答案 A  
   
 ##### 题目  
 Swimming is my favorite sport. There is nothing ________ swimming as a means of keeping fit.  
+来源：2010 江西改  
 ##### 答案 like  
   
 ##### 题目  
 I got this bicycle ________ nothing: My friend gave it to me when she bought a new one.  
+来源：2011 全国改  
 ##### 答案 for  
   
 
-# ***nothing*** n
+# *** *nothing*** n
 英音 'nʌθɪŋ     美音 'nʌθɪŋ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2918,8 +2911,7 @@ I got this bicycle ________ nothing: My friend gave it to me when she bought a n
 
 固定搭配
 ---
-- for nothing 
-1.**免费地；徒劳地：**  
+## - *for nothing   **免费地；徒劳地：**  
 
  > They repaired my bike for nothing.   
  > 他们免费为我修了自行车。  
@@ -2927,15 +2919,13 @@ I got this bicycle ________ nothing: My friend gave it to me when she bought a n
  > When I arrived, he had left. I’d made the journey for nothing.   
  > 我到达时，他已经离开。我白跑了一趟。  
 
-- have nothing to do with 
-1.**和…无关：**  
+## - *have nothing to do with   **和…无关：**  
 
  > John’s success has nothing to do with good luck. It is years of hard work that has made him what he is today.  
  > 约翰的成功跟好运无关，而是多年的努力成就了如今的他。  
  > 来源：2010 湖南  
 
-- nothing but / except 
-1.**除…以外什么也不；只有；只不过：**  
+## - *nothing but / except   **除…以外什么也不；只有；只不过：**  
 
  > I heard a confused noise around me, but could see nothing except the sky.   
  > 我隐约听到身边有模糊的噪音，但是除了天空什么也没看到。  
@@ -2947,14 +2937,12 @@ I got this bicycle ________ nothing: My friend gave it to me when she bought a n
  > Don’t worry; it is nothing but a joke.   
  > 别担心，这只不过是个玩笑。  
 
-- nothing like 
-1.**完全不像；完全不：**  
+## - *nothing like   **完全不像；完全不：**  
 
  > It looks nothing like a horse.   
  > 它看上去根本不像一匹马。  
 
-- there’s nothing like 
-1.**什么都比不上…；…非常好：**  
+## - *there’s nothing like   **什么都比不上…；…非常好：**  
 
  > There’s nothing like an ice-cold drink on a hot day.  
  > 炎热的日子里，什么都比不上喝杯冰镇饮料。  
@@ -2968,18 +2956,21 @@ A.Nothing
 B.Anything  
 C.Something  
 D.Everything  
+来源：2013 安徽  
 ##### 答案 A.  
   
 ##### 题目  
 Swimming is my favorite sport. There is nothing ________ swimming as a means of keeping fit.  
+来源：2010 江西改  
 ##### 答案 like  
   
 ##### 题目  
 I got this bicycle for _________: My friend gave it to me when she bought a new one.  
+来源：2011 全国改  
 ##### 答案 nothing  
   
 
-# ***notice*** n
+# *** *notice*** n
 英音 'nəʊtɪs     美音 'noʊtɪs  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -3018,7 +3009,7 @@ I got this bicycle for _________: My friend gave it to me when she bought a new 
  > 来源：2011 全国  
 
 
-# ***notice*** v
+# *** *notice*** v
 英音 'nəʊtɪs     美音 'noʊtɪs  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -3026,6 +3017,14 @@ I got this bicycle for _________: My friend gave it to me when she bought a new 
 英文释义
 ---
 1.*高义频：* **[通常不用于进行时] 察觉 (到)；注意 (到)：**  
+
+ > He must have been working too hard to notice!  
+ > 他一定是工作得太投了入而没有注意到！  
+ > 来源：译林⑤ – 3  
+
+ > When he came back, he noticed something strange.  
+ > 回来后，他注意到情况有些异常。  
+ > 来源：北师大⑦ – 20  
 
 - notice + that / wh- 从句：
 
@@ -3044,14 +3043,6 @@ I got this bicycle for _________: My friend gave it to me when she bought a new 
  > 突然，她注意到有个身材魁梧的秃顶男子跑过停车场。  
  > 来源：2008 湖北  
 
- > He must have been working too hard to notice!  
- > 他一定是工作得太投了入而没有注意到！  
- > 来源：译林⑤ – 3  
-
- > When he came back, he noticed something strange.  
- > 回来后，他注意到情况有些异常。  
- > 来源：北师大⑦ – 20  
-
 
 派生词汇
 ---
@@ -3061,10 +3052,11 @@ noticeable /'nəʊtɪsəbl/ adj
 ---
 ##### 题目  
 I looked up and noticed a snake ________ (wind) its way up the tree to catch its breakfast.   
+来源：2012 四川改  
 ##### 答案 winding  
   
 
-# ***novel*** n
+# *** *novel*** n
 英音 'nɒvl     美音 'nɑːvl  
 
 | 词频 4 | 书面 1 |  
@@ -3076,7 +3068,7 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 1.*高义频：* **(长篇) 小说**  
 
 
-# ***novel*** adj
+# *** *novel*** adj
 英音 'nɒvl     美音 'nɑːvl  
 
 | 词频 4 |  
@@ -3086,7 +3078,7 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 1.**新奇的；异常的**  
 
 
-# ***novelist*** n
+# *** *novelist*** n
 英音 'nɒvəlɪst     美音 'nɑːvəlɪst  
 
 | 词频 2 |  
@@ -3102,7 +3094,7 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
  > 来源：人教⑦ – 3  
 
 
-# ***now*** adv
+# *** *now*** adv
 英音 naʊ     美音 naʊ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3131,8 +3123,7 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 固定搭配
 ---
-- (every) now and then / again 
-1.**时而；偶尔：**  
+## - *(every) now and then / again   **时而；偶尔：**  
 
  > Snakes come near the house now and then.   
  > 时不时会有蛇爬到房子附近。  
@@ -3141,22 +3132,19 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
  > Now and again he still visits me.   
  > 他偶尔还来看我。  
 
-- for now
-1.**目前；暂时：**  
+## - *for now  **目前；暂时：**  
 
  > Although these measures are not effective forever, they are vital for now.  
  > 尽管这些措施不会永远有效，但目前还是极为重要的。  
  > 来源：2016 北京  
 
-- from now on
-1.**从现在起：**  
+## - *from now on  **从现在起：**  
 
  > I’ll face everything unpleasant tolerantly from now on.  
  > 从现在开始，我将包容地面对所有不愉快的事情。  
  > 来源：2009 江西书面表达  
 
-- just now 
-1.**刚才；现在：**  
+## - *just now   **刚才；现在：**  
 
  > Tom was here just now.   
  > 汤姆刚才在这儿的。  
@@ -3164,15 +3152,14 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
  > Do not talk about it just now.   
  > 现在别讨论这件事。  
 
-- up to now / until now / till now
-1.**迄今为止：**  
+## - *up to now / until now / till now  **迄今为止：**  
 
  > Up to / Until now, the program has saved thousands of children who would otherwise have died.  
  > 到目前为止，这项计划已经挽救了成千上万名原本会死亡的那些孩子。  
  > 来源：2010 山东  
 
 
-# ***now*** n
+# *** *now*** n
 英音 naʊ     美音 naʊ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3201,7 +3188,7 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
  > 从现在起我要争取做得更好。  
 
 
-# ***now*** conj
+# *** *now*** conj
 英音 naʊ     美音 naʊ  
 
 | 词频 5 | 口语 3 | 书面 1 |  
@@ -3218,7 +3205,7 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
  > 来源：外研② – 5  
 
 
-# ***nowadays*** adv
+# *** *nowadays*** adv
 英音 'naʊədeɪz     美音 'naʊədeɪz  
 
 | 词频 4 | 口语 2 |  
@@ -3232,7 +3219,7 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
  > 来源： 2009 湖南改  
 
 
-# ***noway*** adv
+# *** *noway*** adv
 英音 ˌnəʊ'weɪ     美音 ˌnoʊ'weɪ  
 
 | 词频 1 |  
@@ -3242,7 +3229,7 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 1.*高义频：* **(AmE) 决不； 一点儿也不**  
 
 
-# ***nowhere*** adv
+# *** *nowhere*** adv
 英音 'nəʊweə(r)     美音 'noʊwer  
 
 | 词频 3 | 口语 2 |  
@@ -3257,14 +3244,12 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 固定搭配
 ---
-- nowhere near 
-1.**离…差得远；远谈不上：**  
+## - *nowhere near   **离…差得远；远谈不上：**  
 
  > Our budget is nowhere near enough.   
  > 我们的预算远远不够。  
 
-- nowhere to be found / seen
-1.**哪儿也找不到 / 看不到：**  
+## - *nowhere to be found / seen  **哪儿也找不到 / 看不到：**  
 
  > **nowhere to be found**  
  > I left my necklace on the table by the bed, but it is just nowhere to be found.  
@@ -3280,10 +3265,11 @@ A.nowhere near enough
 B.near enough nowhere  
 C.enough near nowhere  
 D.near nowhere enough  
+来源：2010 辽宁  
 ##### 答案 A.  
   
 
-# ***nuclear*** adj
+# *** *nuclear*** adj
 英音 'njuːkliə(r)     美音 'nuːkliər  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -3301,7 +3287,7 @@ D.near nowhere enough
  > (仅由父母和子女组成的) 核心家庭；小家庭  
 
 
-# ***nucleus*** n
+# *** *nucleus*** n
 英音 'njuːkliəs     美音 'nuːkliəs  
 
 | 词频 1 |  
@@ -3313,7 +3299,7 @@ D.near nowhere enough
 1.*高义频：* **(pl nuclei) 原子核；中心**  
 
 
-# ***nudge*** v
+# *** *nudge*** v
 英音 nʌdʒ     美音 nʌdʒ  
 
 | 词频 1 |  
@@ -3323,7 +3309,7 @@ D.near nowhere enough
 1.**摊开**  
 
 
-# ***nudge*** n
+# *** *nudge*** n
 英音 nʌdʒ     美音 nʌdʒ  
 
 | 词频 1 |  
@@ -3333,7 +3319,7 @@ D.near nowhere enough
 1.**（通常用肘）轻推**  
 
 
-# ***nuisance*** n
+# *** *nuisance*** n
 英音 'njuːsns     美音 'nuːsns  
 
 | 词频 1 |  
@@ -3343,7 +3329,7 @@ D.near nowhere enough
 1.**令人讨厌的人或事**  
 
 
-# ***numb*** adj
+# *** *numb*** adj
 英音 nʌm     美音 nʌm  
 
 | 词频 1 |  
@@ -3361,7 +3347,7 @@ D.near nowhere enough
  > 天气寒冷，我们的手脚都冻僵了。  
 
 
-# ***number*** n
+# *** *number*** n
 英音 'nʌmbə(r)     美音 'nʌmbər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3400,7 +3386,7 @@ D.near nowhere enough
 
 Notes: a number of后接复数名词，作主语时，谓语动词用复数。the number of后接复数名词，作主语时，谓语动词用单数。  
 
-# ***numerology*** n
+# *** *numerology*** n
 英音 ˌnjuːmə'rɒlədʒi     美音 ˌnuːmə'rɑːlədʒi  
 
 | 词频 1 |  
@@ -3410,7 +3396,7 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
 1.**数字命理学（以出生年月日及其他数字测定之学）**  
 
 
-# ***numerous*** adj
+# *** *numerous*** adj
 英音 'njuːmərəs     美音 'nuːmərəs  
 
 | 词频 2 | 书面 1 | 阅读 2 |  
@@ -3424,7 +3410,7 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
  > 为本书做过贡献的人数不胜数。  
 
 
-# ***nurse*** n
+# *** *nurse*** n
 英音 nɜːs     美音 nɜːrs  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -3436,7 +3422,7 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
 1.*高义频：* **护士；保姆**  
 
 
-# ***nursery*** n
+# *** *nursery*** n
 英音 'nɜːsəri     美音 'nɜːrsəri  
 
 | 词频 1 |  
@@ -3451,7 +3437,7 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
  > 幼儿园  
 
 
-# ***nut*** n
+# *** *nut*** n
 英音 nʌt     美音 nʌt  
 
 | 词频 1 | 口语 1 |  
@@ -3467,7 +3453,7 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
  > 棘手的问题  
 
 
-# ***nutrition*** n
+# *** *nutrition*** n
 英音 nju'trɪʃn     美音 nu'trɪʃn  
 
 | 词频 2 |  
@@ -3486,7 +3472,7 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
  > 均衡的饮食为身体提供营养。  
 
 
-# ***nutshell*** n
+# *** *nutshell*** n
 英音 'nʌtʃel     美音 'nʌtʃel  
 
 | 词频 1 |  

@@ -21,13 +21,13 @@ def gy_paraphrase(t): #12568
     if t['antonym']!='':print('反义词 ' + t['antonym']+' ',file=f)
     if t['synonyms']!='':print('近义词 ' + t['synonyms']+'  ',file=f)
     print(file=f)
-    
-    if t['gy_sentential_form']!=[]:
-        for exam in t['gy_sentential_form']:
-            gy_sentential_form(exam) 
+
     if t['gy_example']!=[]:
         for exam in t['gy_example']:
-            gy_example(exam)  
+            gy_example(exam)     
+    if t['gy_sentential_form']!=[]:
+        for exam in t['gy_sentential_form']:
+            gy_sentential_form(exam)  
           
     if t['gy_notes']!=[]:
         for exam in t['gy_notes']:
@@ -84,8 +84,9 @@ def gy_biscrimination(t): #16597
             gy_example(example)
     
 def gy_fixed_collocation(t): #26462
-    print('- '+t['fixed_word'],file=f)
-    if t['gy_paraphrase']!=[]:
+    print('## - *'+t['fixed_word'],end='  ',file=f)
+    if len(t['gy_paraphrase']) == 1 : gy_paraphrase(t['gy_paraphrase'][0])
+    if len(t['gy_paraphrase']) > 1:
         i=1
         for exam in t['gy_paraphrase']:
             print(str(i) + '.',end='',file=f)
@@ -115,6 +116,7 @@ def gy_exam_link(exam): #10112
     if exam['answer_b']!='' :print('B.'+exam['answer_b']+'  ',file=f)
     if exam['answer_c']!='' :print('C.'+exam['answer_c']+'  ',file=f)
     if exam['answer_d']!='' :print('D.'+exam['answer_d']+'  ',file=f)
+    if exam['source']!='' : print('来源：'+exam['source']+'  ',file=f)
     print('##### 答案 '+ exam['answer']+'  ',file=f)
     print('  ',file=f)
     
@@ -127,7 +129,7 @@ def chuli(t):
         b=b[1:]
     while b[-1]==' ':
         b=b[:-1]
-    print('# ***' + b + '*** ' + a['part_of_speech'],end='', file = f)
+    print('# *** *' + b + '*** ' + a['part_of_speech'],end='', file = f)
     if a['point']==1 :print('  重难点词汇',end='',file=f)
     print(file=f)
     

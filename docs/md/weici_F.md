@@ -1,6 +1,6 @@
 # Ff
 
-# ***fabric*** n
+# *** *fabric*** n
 英音 'fæbrɪk     美音 'fæbrɪk  
 
 | 词频 1 |  
@@ -10,7 +10,7 @@
 1.**[U] & [C] 织物；织品；结构**  
 
 
-# ***face*** n
+# *** *face*** n
 英音 feɪs     美音 feɪs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -60,8 +60,7 @@
 
 固定搭配
 ---
-- face to face
-1.**面对面地 :**  
+## - *face to face  **面对面地 :**  
 
  > I have often dreamed of talking face to face with you.  
  > 我一直希望和你当面聊一聊。  
@@ -70,32 +69,28 @@
  > He came face to face with a new problem.  
  > 他面临一个新问题。  
 
-- in the face of
-1.**面对；不顾：**  
+## - *in the face of  **面对；不顾：**  
 
  > He remained calm even in the face of danger.  
  > 即使面对危险，他也镇定自若。  
 
-- lose face
-1.**丢脸；失面子：**  
+## - *lose face  **丢脸；失面子：**  
 
  > She was afraid of losing face if she failed.  
  > 她害怕如果失败会很没面子。  
 
-- make / pull a face / faces
-1.**做鬼脸：**  
+## - *make / pull a face / faces  **做鬼脸：**  
 
  > The boys made faces at each other when the teacher turned her back.  
  > 老师转过身去的时候，孩子们互相做鬼脸。  
 
-- to sb's face
-1.**当着某人的面：**  
+## - *to sb's face  **当着某人的面：**  
 
  > They called Tony “Fatty” but never to his face.  
  > 他们叫托尼“胖子”,但从未当面叫过他。  
 
 
-# ***face*** v
+# *** *face*** v
 英音 feɪs     美音 feɪs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -113,6 +108,14 @@
 
 2.*高义频：* **面临；面对；正视：**  
 
+ > **face,problem / task / challenge**  
+ > face the problem / task / challenge  
+ > 面临问题/任务/挑战  
+
+ > With more and more forests cut down, some animals are facing the danger of dying out.  
+ > 由于越来越多的森林被砍伐，一些动物正面临着灭绝的危险。  
+ > 来源：2012 湖北  
+
 - (be) faced with:
 
  > High school students are faced with a choice between arts and science.  
@@ -123,26 +126,16 @@
  > 碰到困难时，他们从不放弃而是努力寻找解决的办法。  
  > 来源：2010 北京书面表达  
 
- > **face,problem / task / challenge**  
- > face the problem / task / challenge  
- > 面临问题/任务/挑战  
-
- > With more and more forests cut down, some animals are facing the danger of dying out.  
- > 由于越来越多的森林被砍伐，一些动物正面临着灭绝的危险。  
- > 来源：2012 湖北  
-
 
 固定搭配
 ---
-- face up to 
-1.**勇于面对 / 接受：**  
+## - *face up to   **勇于面对 / 接受：**  
 
  > Facing up to your problems rather than running away from them is the best approach to working things out.  
  > 勇于面对自己的问题而不是逃避是解决事情的最好办法。  
  > 来源：2014 浙江  
 
-- (be) faced with
-
+## - *(be) faced with  
 真题解析
 ---
 ##### 题目  
@@ -150,7 +143,7 @@ ________ (face) with so much trouble, we failed to complete the task on time.
 ##### 答案 Faced  
   
 
-# ***face-to-face*** adj
+# *** *face-to-face*** adj
 
 
   
@@ -160,7 +153,7 @@ ________ (face) with so much trouble, we failed to complete the task on time.
 1.**当面的；面对面的**  
 
 
-# ***facial*** adj
+# *** *facial*** adj
 英音 'feɪʃl     美音 'feɪʃl  
 
 | 词频 3 |  
@@ -174,7 +167,7 @@ ________ (face) with so much trouble, we failed to complete the task on time.
  > 来源：人教④ – 4  
 
 
-# ***facilitate*** vt
+# *** *facilitate*** vt
 英音 fə'sɪlɪteɪt     美音 fə'sɪlɪteɪt  
 
 | 词频 1 |  
@@ -187,7 +180,7 @@ ________ (face) with so much trouble, we failed to complete the task on time.
  > 计算机可为语言学习带来便利。  
 
 
-# ***facility*** n
+# *** *facility*** n
 英音 fə'sɪləti     美音 fə'sɪləti  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -213,7 +206,7 @@ ________ (face) with so much trouble, we failed to complete the task on time.
  > 来源：2013 江苏  
 
 
-# ***fact*** n
+# *** *fact*** n
 英音 fækt     美音 fækt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -237,8 +230,7 @@ ________ (face) with so much trouble, we failed to complete the task on time.
 
 固定搭配
 ---
-- as a matter of fact / in fact
-1.**事实上 (actually)：**  
+## - *as a matter of fact / in fact  **事实上 (actually)：**  
 
  > As a matter of fact, there are educational, music and art websites that are truly helpful to teenagers.  
  > 事实上，有很多教育、音乐和艺术类网站对青少年很有益。  
@@ -253,8 +245,7 @@ ________ (face) with so much trouble, we failed to complete the task on time.
  > — As a matter of fact I have.  
  > 事实上我去过。  
 
-- in fact
-1.**其实；实际上 (actually)：**  
+## - *in fact  **其实；实际上 (actually)：**  
 
  > In fact, exercise produces chemicals that are good for your brain.  
  > 事实上，运动产生对大脑有益的化学物质。  
@@ -265,10 +256,11 @@ ________ (face) with so much trouble, we failed to complete the task on time.
 ---
 ##### 题目  
 There’s no reason to be disappointed. ________ (事实上), this could be rather amusing.  
+来源：2014 浙江改  
 ##### 答案 As a matter of fact / In fact / Actually  
   
 
-# ***factor*** n
+# *** *factor*** n
 英音 'fæktə(r)     美音 'fæktər  
 
 | 词频 4 | 口语 1 | 书面 3 | 阅读 3 |  
@@ -285,7 +277,7 @@ There’s no reason to be disappointed. ________ (事实上), this could be rath
  > 关键因素  
 
 
-# ***factory*** n
+# *** *factory*** n
 英音 'fækt(ə)ri     美音 'fækt(ə)ri  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -295,7 +287,7 @@ There’s no reason to be disappointed. ________ (事实上), this could be rath
 1.*高义频：* **[C] 工厂**  
 
 
-# ***factual*** adj
+# *** *factual*** adj
 英音 'fæktʃuəl     美音 'fæktʃuəl  
 
 | 词频 1 |  
@@ -305,7 +297,7 @@ There’s no reason to be disappointed. ________ (事实上), this could be rath
 1.**实际的；事实的；确实的**  
 
 
-# ***fade*** v
+# *** *fade*** v
 英音 feɪd     美音 feɪd  
 
 | 词频 2 |  
@@ -334,14 +326,13 @@ There’s no reason to be disappointed. ________ (事实上), this could be rath
 
 固定搭配
 ---
-- fade out
-1.**(画面) 淡出；(声音) 渐弱：**  
+## - *fade out  **(画面) 淡出；(声音) 渐弱：**  
 
  > The closing music fades out when the hero rides off into the sunset.  
  > 随着男主角策马向夕阳驰去，尾声音乐逐渐消失。  
 
 
-# ***fail*** v  重难点词汇
+# *** *fail*** v  重难点词汇
 英音 feɪl     美音 feɪl  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -418,10 +409,11 @@ There’s no reason to be disappointed. ________ (事实上), this could be rath
 ---
 ##### 题目  
 William found it increasingly diffi cult to read, for his eyesight was beginning to ________ (衰退).  
+来源：2011 全国改  
 ##### 答案 fail  
   
 
-# ***fail*** n  重难点词汇
+# *** *fail*** n  重难点词汇
 英音 feɪl     美音 feɪl  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -431,11 +423,10 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
 1.**[C] (考试) 不及格**  
 反义词 pass 
 
-- without fail
-1.**必定；总是；务必**  
+## - *without fail  **必定；总是；务必**  
 
 
-# ***failure*** n
+# *** *failure*** n
 英音 'feɪljə(r)     美音 'feɪljər  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -491,7 +482,7 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
  > 来源：2017北京  
 
 
-# ***faint*** adj
+# *** *faint*** adj
 英音 feɪnt     美音 feɪnt  
 
 | 词频 2 |  
@@ -522,7 +513,7 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
  > 很小的希望/机会  
 
 
-# ***faint*** vi
+# *** *faint*** vi
 英音 feɪnt     美音 feɪnt  
 
 | 词频 2 |  
@@ -535,7 +526,7 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
  > 人群里有许多人热得晕了过去。  
 
 
-# ***fair*** adj
+# *** *fair*** adj
 英音 feə(r)     美音 fer  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -580,7 +571,7 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
  > 明天会是个好天。  
 
 
-# ***fair*** n
+# *** *fair*** n
 英音 feə(r)     美音 fer  
 
 | 词频 1 |  
@@ -600,7 +591,7 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
  > 世界博览会/商品交易会  
 
 
-# ***fair-skinned*** adj
+# *** *fair-skinned*** adj
 英音 'feərsk'ɪnd     美音 'feərsk'ɪnd  
 
   
@@ -610,7 +601,7 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
 1.**浅肤色的**  
 
 
-# ***fairly*** adv
+# *** *fairly*** adv
 英音 'feəli     美音 'ferli  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -628,7 +619,7 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
 ### 辨析 fairly, quite, rather, pretty
 四者都有“相当”之意。  
 
-# ***fairy*** n
+# *** *fairy*** n
 英音 'feəri     美音 'feri  
 
 | 词频 2 |  
@@ -641,7 +632,7 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
  > 童话；神话  
 
 
-# ***fairytale*** n
+# *** *fairytale*** n
 英音 'feəriteɪl     美音 'feriteɪl  
 
 | 词频 1 |  
@@ -651,7 +642,7 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
 1.**童话**  
 
 
-# ***faith*** n
+# *** *faith*** n
 英音 feɪθ     美音 feɪθ  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -683,7 +674,7 @@ William found it increasingly diffi cult to read, for his eyesight was beginning
 faithful /'feɪθfl/ adj   
 faithfully /'feɪθfəli/ adv   
 
-# ***faithfully*** adv
+# *** *faithfully*** adv
 英音 'feɪθfəli     美音 'feɪθfəli  
 
 | 词频 2 |  
@@ -696,7 +687,7 @@ faithfully /'feɪθfəli/ adv
  > 他已经为这一家人忠心耿耿地服务了40年。  
 
 
-# ***fake*** adj
+# *** *fake*** adj
 英音 feɪk     美音 feɪk  
 
 | 词频 1 |  
@@ -709,7 +700,7 @@ faithfully /'feɪθfəli/ adv
  > 一张20美元的假钞  
 
 
-# ***fake*** n
+# *** *fake*** n
 英音 feɪk     美音 feɪk  
 
 | 词频 1 |  
@@ -719,7 +710,7 @@ faithfully /'feɪθfəli/ adv
 1.*高义频：* **[C] 假货；赝品：**  
 
 
-# ***fall*** vi  重难点词汇
+# *** *fall*** vi  重难点词汇
 英音 fɔːl     美音 fɔːl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -828,8 +819,7 @@ faithfully /'feɪθfəli/ adv
 
 固定搭配
 ---
-- fall apart
-1.**散架；瓦解：**  
+## - *fall apart  **散架；瓦解：**  
 
  > I think this old chair is falling apart.  
  > 我觉得这把旧椅子要散架了。  
@@ -837,22 +827,19 @@ faithfully /'feɪθfəli/ adv
  > The deal fell apart when we failed to agree on a price.  
  > 我们在价格上未能达成一致，生意没做成。  
 
-- fall back on
-1.**求助于；借助于：**  
+## - *fall back on  **求助于；借助于：**  
 
  > I don’t want to have nothing else to fall back on when I can’t model any more.  
  > 我不想当自己不能再做模特时没有其他东西可依靠。  
  > 来源：2017 全国  
 
-- fall behind
-1.**落在 (…) 后面；跟不上：**  
+## - *fall behind  **落在 (…) 后面；跟不上：**  
 
  > When some students fell behind, others would come and offer help.  
  > 当有些同学落后时，其他的同学就会主动来帮忙。  
  > 来源：2013 江西书面表达  
 
-- fall down
-1.**跌倒；倒塌；不尽如人意：**  
+## - *fall down  **跌倒；倒塌；不尽如人意：**  
 
  > You must watch your step so as not to fall down.  
  > 你必须留心脚下以免跌倒。  
@@ -863,8 +850,7 @@ faithfully /'feɪθfəli/ adv
  > That’s where the theory falls down.   
  > 这就是该理论的不足之处。  
 
-- fall for
-1.**[非正式用语] 爱上；上…的当：**  
+## - *fall for  **[非正式用语] 爱上；上…的当：**  
 
  > A friend of mine went to Yunnan and fell for a Dai woman.  
  > 我有个朋友去云南时爱上了一位傣族女子。  
@@ -872,21 +858,18 @@ faithfully /'feɪθfəli/ adv
  > We must not fall for this kind of trick!  
  > 我们绝不能轻信这种小把戏而上当啊！  
 
-- fall off
-1.**(从…) 掉下；跌落：**  
+## - *fall off  **(从…) 掉下；跌落：**  
 
  > When you are learning to ride a bicycle, you often fall off.  
  > 学骑自行车时，经常会摔下来。  
 
-- fall out
-1.**(牙齿或头发) 脱落；掉落：**  
+## - *fall out  **(牙齿或头发) 脱落；掉落：**  
 
  > **2018 江苏改**  
  > The old couple’s hair was falling out.  
  > 这对老夫妇的头发在脱落。  
 
-- fall over 
-1.**被…绊倒；倒下：**  
+## - *fall over   **被…绊倒；倒下：**  
 
  > I rushed for the door and fell over the cat in the hallway.   
  > 我向门口冲去，在过道被猫绊了一跤。  
@@ -895,7 +878,7 @@ faithfully /'feɪθfəli/ adv
  > 猎人一开枪，鹿应声倒下，死了。  
 
 
-# ***fall*** n  重难点词汇
+# *** *fall*** n  重难点词汇
 英音 fɔːl     美音 fɔːl  
 
 | 词频 5 |  
@@ -928,10 +911,11 @@ faithfully /'feɪθfəli/ adv
 ---
 ##### 题目  
 I am awfully tired, but I know I'll never fall sleep.  
+来源：2013 浙江 改错  
 ##### 答案 sleep → asleep  
   
 
-# ***fall*** n
+# *** *fall*** n
 英音 fɔːl     美音 fɔːl  
 
 | 词频 3 |  
@@ -941,7 +925,7 @@ I am awfully tired, but I know I'll never fall sleep.
 1.**[C] 秋天 (BrE autumn)**  
 
 
-# ***false*** adj
+# *** *false*** adj
 英音 fɔːls     美音 fɔːls  
 
 | 词频 3 | 书面 1 | 阅读 3 |  
@@ -959,7 +943,7 @@ I am awfully tired, but I know I'll never fall sleep.
  > 假牙/假发  
 
 
-# ***fame*** n
+# *** *fame*** n
 英音 feɪm     美音 feɪm  
 
 | 词频 3 | 阅读 2 |  
@@ -980,7 +964,7 @@ I am awfully tired, but I know I'll never fall sleep.
  > 声名鹊起  
 
 
-# ***familiar*** adj
+# *** *familiar*** adj
 英音 fə'mɪliə(r)     美音 fə'mɪliər  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -1006,7 +990,7 @@ I am awfully tired, but I know I'll never fall sleep.
 ---
 familiarity /fəˌmɪli'ærəti/ n   
 
-# ***family*** n
+# *** *family*** n
 英音 'fæməli     美音 'fæməli  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1033,7 +1017,7 @@ Notes: family作主语时，若指“各个家庭成员”，谓语动词用复�
  > 我家是个大家庭。  
 
 
-# ***famine*** n
+# *** *famine*** n
 英音 'fæmɪn     美音 'fæmɪn  
 
 | 词频 1 |  
@@ -1047,7 +1031,7 @@ Notes: family作主语时，若指“各个家庭成员”，谓语动词用复�
  > 来源：译林⑥ – 4  
 
 
-# ***famous*** adj
+# *** *famous*** adj
 英音 'feɪməs     美音 'feɪməs  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -1077,10 +1061,11 @@ Notes: family作主语时，若指“各个家庭成员”，谓语动词用复�
 ---
 ##### 题目  
 Zhejiang is f________ for tea and silk.  
+来源：2005 浙江  
 ##### 答案 famous  
   
 
-# ***fan*** n
+# *** *fan*** n
 英音 fæn     美音 fæn  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -1105,7 +1090,7 @@ Zhejiang is f________ for tea and silk.
  > 那个男孩是漫威电影的狂热粉丝。  
 
 
-# ***fancy*** vt
+# *** *fancy*** vt
 英音 'fænsi     美音 'fænsi  
 
 | 词频 2 | 口语 2 |  
@@ -1140,11 +1125,10 @@ Zhejiang is f________ for tea and silk.
 
 固定搭配
 ---
-- fancy oneself (as) sth
-1.**自以为是某种人**  
+## - *fancy oneself (as) sth  **自以为是某种人**  
 
 
-# ***fancy*** n
+# *** *fancy*** n
 英音 'fænsi     美音 'fænsi  
 
 | 词频 2 |  
@@ -1165,15 +1149,14 @@ Zhejiang is f________ for tea and silk.
 
 固定搭配
 ---
-- take sb's fancy
-1.**引起某人的兴趣：**  
+## - *take sb's fancy  **引起某人的兴趣：**  
 
  > I could do without TV because few shows take my fancy.  
  > 我不看电视也行，因为很少有节目能引起我的兴趣。  
  > 来源：2010 安徽书面表达  
 
 
-# ***fancy*** adj
+# *** *fancy*** adj
 英音 'fænsi     美音 'fænsi  
 
 | 词频 2 | 口语 1 |  
@@ -1197,7 +1180,7 @@ Zhejiang is f________ for tea and silk.
  > 来源：人教② – 1  
 
 
-# ***fantastic*** adj
+# *** *fantastic*** adj
 英音 fæn'tæstɪk     美音 fæn'tæstɪk  
 
 | 词频 2 | 口语 1 | 阅读 2 |  
@@ -1218,7 +1201,7 @@ Zhejiang is f________ for tea and silk.
  > 极好的地方/旅行  
 
 
-# ***fantasy*** n
+# *** *fantasy*** n
 英音 'fæntəsi     美音 'fæntəsi  
 
 | 词频 2 | 阅读 1 |  
@@ -1236,7 +1219,7 @@ Zhejiang is f________ for tea and silk.
  > 整个故事都是虚构的。  
 
 
-# ***far*** adj  重难点词汇
+# *** *far*** adj  重难点词汇
 英音 fɑː(r)     美音 fɑːr  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1266,7 +1249,7 @@ Zhejiang is f________ for tea and silk.
  > 照片中最右边那个女孩是我们的班长。  
 
 
-# ***far*** adv  重难点词汇
+# *** *far*** adv  重难点词汇
 英音 fɑː(r)     美音 fɑːr  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1310,8 +1293,7 @@ Zhejiang is f________ for tea and silk.
 
 固定搭配
 ---
-- as / so far as
-1.**到…那么远；一直到：**  
+## - *as / so far as  **到…那么远；一直到：**  
 
  > We didn't go so far as the others.  
  > 我们没有其他人走得那么远。  
@@ -1319,8 +1301,7 @@ Zhejiang is f________ for tea and silk.
  > The park extends as far as the river.  
  > 这个公园一直延伸到河边。  
 
-- as / so far as I know / can remember / can see, etc.
-1.**据我所知 / 记得 / 看等：**  
+## - *as / so far as I know / can remember / can see, etc.  **据我所知 / 记得 / 看等：**  
 
  > As far as I know, the Pacific Ocean is the largest ocean in the world.  
  > 据我所知，太平洋是世界上最大的海洋。  
@@ -1328,8 +1309,7 @@ Zhejiang is f________ for tea and silk.
  > As far as I can see, there is only one possible way to keep away from the danger.  
  > 依我看，只有一种方法可以避免危险。  
 
-- by far
-1.**[修饰比较级或最高级，强调数量、程度等] …得多；最：**  
+## - *by far  **[修饰比较级或最高级，强调数量、程度等] …得多；最：**  
 
  > It's quicker by far to go by train.  
  > 乘火车要快得多。  
@@ -1341,8 +1321,7 @@ Zhejiang is f________ for tea and silk.
  > This is better by far.  
  > 这样好得多。  
 
-- far from
-1.**远非；完全不：**  
+## - *far from  **远非；完全不：**  
 
  > The most obvious goal of a college education is to give knowledge, but it is far from the most important.  
  > 大学教育最显而易见的目标是传授知识，但这远非是最重要的。  
@@ -1352,15 +1331,13 @@ Zhejiang is f________ for tea and silk.
  > 这些在线服务中有许多不但不向消费者收取高额费用，而且还免费。  
  > 来源：2017 江苏改  
 
-- go so far / as far as to do sth
-1.**[口语] 竟然做某事；甚至做某事：**  
+## - *go so far / as far as to do sth  **[口语] 竟然做某事；甚至做某事：**  
 
  > She goes so far as to declare that a Chinese word can never give you the exact meaning of a word in English!  
  > 她甚至说，汉语词绝对不能表达英语词的确切含义。  
  > 来源：2010 辽宁改  
 
-- so far
-1.**迄今为止：**  
+## - *so far  **迄今为止：**  
 
  > See, this is what I've done so far.  
  > 看，这就是到目前为止我所做的。  
@@ -1380,22 +1357,26 @@ A.far more interesting
 B.much less interesting  
 C.no more interesting  
 D.any less interesting  
+来源：2011 江西  
 ##### 答案 A  
   
 ##### 题目  
 So far we have done a lot to build a low-carbon economy, but it is ________ (远非) ideal. We have to work still harder.  
+来源：2010 江苏改  
 ##### 答案 far from  
   
 ##### 题目  
 In ancient times, people rarely travelled long distances and most farmers only travelled ________ (到…那么远) the local market.   
+来源：2010 上海改  
 ##### 答案 as far as  
   
 ##### 题目  
 Progress ________ (be) so far very good and we are sure that the work will be finished on time.  
+来源：2009 全国改  
 ##### 答案 has been  
   
 
-# ***far-reaching*** adj
+# *** *far-reaching*** adj
 英音 fɑː 'riːtʃɪŋ     
 
   
@@ -1405,7 +1386,7 @@ Progress ________ (be) so far very good and we are sure that the work will be fi
 1.**深远的；伸至远处的；广大的**  
 
 
-# ***fare*** n
+# *** *fare*** n
 英音 feə(r)     美音 fer  
 
 | 词频 2 |  
@@ -1419,7 +1400,7 @@ Progress ________ (be) so far very good and we are sure that the work will be fi
 
 Notes: fare指乘坐公共汽车、火车、飞机等公共交通工具到某地的费用。  
 
-# ***farewell*** n
+# *** *farewell*** n
 英音  ˌfeə'wel     美音 ˌfer'wel  
 
 | 词频 1 |  
@@ -1432,7 +1413,7 @@ Notes: fare指乘坐公共汽车、火车、飞机等公共交通工具到某地
  > 欢送会  
 
 
-# ***farewell*** int
+# *** *farewell*** int
 英音 ˌfeə'wel     美音 ˌfer'wel  
 
 | 词频 1 |  
@@ -1445,7 +1426,7 @@ Notes: fare指乘坐公共汽车、火车、飞机等公共交通工具到某地
  > 欢送会  
 
 
-# ***farm*** n
+# *** *farm*** n
 英音 fɑːm     美音 fɑːrm  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -1459,7 +1440,7 @@ Notes: fare指乘坐公共汽车、火车、飞机等公共交通工具到某地
  > 他们在农场工作。  
 
 
-# ***farm*** v
+# *** *farm*** v
 英音 fɑːm     美音 fɑːrm  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -1475,7 +1456,7 @@ Notes: fare指乘坐公共汽车、火车、飞机等公共交通工具到某地
  > 我父母过去以务农为生。  
 
 
-# ***farmer*** n
+# *** *farmer*** n
 英音 'fɑːmə(r)     美音 'fɑːrmər  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -1485,7 +1466,7 @@ Notes: fare指乘坐公共汽车、火车、飞机等公共交通工具到某地
 1.*高义频：* **[C] 农民；农场主**  
 
 
-# ***farming*** n
+# *** *farming*** n
 英音 'fɑːmɪŋ     美音 'fɑːrmɪŋ  
 
 | 词频 4 |  
@@ -1495,7 +1476,7 @@ Notes: fare指乘坐公共汽车、火车、飞机等公共交通工具到某地
 1.*高义频：* **[U] 务农；养殖业**  
 
 
-# ***farmyard*** n
+# *** *farmyard*** n
 英音 'fɑːmjɑːd     美音 'fɑːrmjɑːrd  
 
 | 词频 1 |  
@@ -1507,7 +1488,7 @@ Notes: fare指乘坐公共汽车、火车、飞机等公共交通工具到某地
 1.*高义频：* **农场；农家**  
 
 
-# ***farther*** adj & adv
+# *** *farther*** adj & adv
 英音 'fɑːðə(r)     美音 'fɑːrðər  
 
 | 词频 3 |  
@@ -1533,7 +1514,7 @@ Notes: fare指乘坐公共汽车、火车、飞机等公共交通工具到某地
  > 非洲距离英国比距离法国远。  
 
 
-# ***farthest*** adj & adv
+# *** *farthest*** adj & adv
 英音 'fɑːðɪst     美音 'fɑːrðɪst  
 
 | 词频 2 |  
@@ -1546,7 +1527,7 @@ Notes: fare指乘坐公共汽车、火车、飞机等公共交通工具到某地
  > 这些星星中哪颗离地球最远？  
 
 
-# ***fascinate*** v
+# *** *fascinate*** v
 英音 'fæsɪneɪt     美音 'fæsɪneɪt  
 
 | 词频 3 |  
@@ -1571,7 +1552,7 @@ fascinated /'fæsɪneɪtɪd/ adj
  > 我被她美妙的声音迷住了。  
 
 
-# ***fascinated*** adj
+# *** *fascinated*** adj
 英音 'fæsɪneɪtɪd     美音 'fæsɪneɪtɪd  
 
   
@@ -1581,7 +1562,7 @@ fascinated /'fæsɪneɪtɪd/ adj
 1.**被迷住的，被吸引住的**  
 
 
-# ***fascinating*** adj
+# *** *fascinating*** adj
 英音 'fæsɪneɪtɪŋ     美音 'fæsɪneɪtɪŋ  
 
 | 词频 3 | 口语 1 | 阅读 2 |  
@@ -1595,7 +1576,7 @@ fascinated /'fæsɪneɪtɪd/ adj
  > 来源：2010 湖南  
 
 
-# ***fascination*** n
+# *** *fascination*** n
 英音 ˌfæsɪ'neɪʃn     美音 ˌfæsɪ'neɪʃn  
 
 | 词频 1 |  
@@ -1605,7 +1586,7 @@ fascinated /'fæsɪneɪtɪd/ adj
 1.**着迷；迷恋；吸引力**  
 
 
-# ***fashion*** n
+# *** *fashion*** n
 英音 'fæʃn     美音 'fæʃn  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -1643,8 +1624,7 @@ fascinated /'fæsɪneɪtɪd/ adj
 
 固定搭配
 ---
-- in (a) … fashion
-1.**以…的方式：**  
+## - *in (a) … fashion  **以…的方式：**  
 
  > He walks in a strange fashion.  
  > 他走路的样子很奇怪。  
@@ -1661,7 +1641,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
 ##### 答案 fashionable  
   
 
-# ***fashionable*** adj
+# *** *fashionable*** adj
 英音 'fæʃnəbl     美音 'fæʃnəbl  
 
 | 词频 2 | 阅读 1 |  
@@ -1684,7 +1664,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
 ##### 答案 fashionable  
   
 
-# ***fast*** adj
+# *** *fast*** adj
 英音 fɑːst     美音 fæst  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -1706,15 +1686,14 @@ Those who change mobile phones frequently will pay a heavy price for being______
 
 固定搭配
 ---
-- hard and fast
-1.**不可更改的；板上钉钉的：**  
+## - *hard and fast  **不可更改的；板上钉钉的：**  
 
  > There are basically no hard and fast rules about public speaking.  
  > 公众演讲基本上没有一成不变的规则。  
  > 来源：2013 全国  
 
 
-# ***fast*** adv
+# *** *fast*** adv
 英音 fɑːst     美音 fæst  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -1727,7 +1706,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
  > 起初，我跑得不是很快，落在了后面。  
 
 
-# ***fasten*** vt
+# *** *fasten*** vt
 英音 'fɑːsn     美音 'fæsn  
 
 | 词频 2 |  
@@ -1753,7 +1732,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
  > 用锁把门锁好  
 
 
-# ***fat*** adj
+# *** *fat*** adj
 英音 fæt     美音 fæt  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -1777,7 +1756,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
  > 丰厚的利润  
 
 
-# ***fat*** n
+# *** *fat*** n
 英音 fæt     美音 fæt  
 
 | 词频 4 |  
@@ -1802,7 +1781,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
  > 低脂食物  
 
 
-# ***fate*** n
+# *** *fate*** n
 英音 feɪt     美音 feɪt  
 
 | 词频 2 |  
@@ -1816,7 +1795,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
  > 决定/改变某人的命运  
 
 
-# ***fateful*** adj
+# *** *fateful*** adj
 英音 'feɪtfl     美音 'feɪtfl  
 
 | 词频 1 |  
@@ -1826,7 +1805,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
 1.*高义频：* **(一般用于名词前) 重要的；决定性的；命中注定的**  
 
 
-# ***father*** n
+# *** *father*** n
 英音 'fɑːðə(r)     美音 'fɑːðər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1853,7 +1832,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
 4.*低义频：* **[Father] 神父**  
 
 
-# ***fathom*** n
+# *** *fathom*** n
 英音 'fæðəm     美音 'fæðəm  
 
 | 词频 1 |  
@@ -1865,7 +1844,7 @@ Those who change mobile phones frequently will pay a heavy price for being______
 1.*高义频：* **英寻 (= 6英尺，测量水深的单位)**  
 
 
-# ***fault*** n
+# *** *fault*** n
 英音 fɔːlt     美音 fɔːlt  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -1903,15 +1882,13 @@ Those who change mobile phones frequently will pay a heavy price for being______
 
 固定搭配
 ---
-- at fault 
-1.**有责任；有错：**  
+## - *at fault   **有责任；有错：**  
 
  > Perhaps the railway authorities are at fault for poor signalling system.  
  > 或许，铁路部门应该对糟糕的信号系统负责。  
  > 来源：2011 浙江  
 
-- find fault (with)
-1.**找碴儿；抱怨；挑剔：**  
+## - *find fault (with)  **找碴儿；抱怨；挑剔：**  
 
  > Try not to find fault with your friends.  
  > 不要挑剔你的朋友。  
@@ -1940,7 +1917,7 @@ He is such a man who is always finding fault ________ other people.
 ##### 答案 my fault  
   
 
-# ***fault*** vt
+# *** *fault*** vt
 英音 fɔːlt     美音 fɔːlt  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -1958,7 +1935,7 @@ He is such a man who is always finding fault ________ other people.
 ---
 faultless /'fɔːltləs/ adj   
 
-# ***favo(u)r*** vt
+# *** *favo(u)r*** vt
 英音 'feɪvə(r)     美音 'feɪvər  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -1983,10 +1960,11 @@ favo(u)rable /'feɪvərəbl/ adj
 ---
 ##### 题目  
 When asked about their opinions about the schoolmaster, many teachers would prefer to see him step aside ________ favor of younger men.  
+来源：2011 湖北改  
 ##### 答案 in  
   
 
-# ***favo(u)r*** n
+# *** *favo(u)r*** n
 英音 'feɪvə(r)     美音 'feɪvər  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -2028,20 +2006,18 @@ When asked about their opinions about the schoolmaster, many teachers would pref
 
 固定搭配
 ---
-- in favour of
-1.**赞同；支持：**  
+## - *in favour of  **赞同；支持：**  
 
  > Opportunities and success tend to be in favour of those who are ready.  
  > 机遇和成功往往青睐那些有准备的人。  
 
-- in sb's favour
-1.**对某人有利：**  
+## - *in sb's favour  **对某人有利：**  
 
  > We voted for the monitor, and the result was 28 to 15 in Wang Hong's favor.  
  > 我们选举班长，结果是28比15，王红当选。  
 
 
-# ***favo(u)rite*** adj
+# *** *favo(u)rite*** adj
 英音 'feɪvərɪt     美音 'feɪvərɪt  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -2060,14 +2036,16 @@ When asked about their opinions about the schoolmaster, many teachers would pref
 ---
 ##### 题目  
 The dishes that I cooked were Mom's favoritest.  
+来源：2016 四川 改错  
 ##### 答案 favoritest→favo(u)rite  
   
 ##### 题目  
 What is your ________(最喜欢的) color?  
+来源：2007全国  
 ##### 答案 favo(u)rite  
   
 
-# ***favo(u)rite*** n
+# *** *favo(u)rite*** n
 英音 'feɪvərɪt     美音 'feɪvərɪt  
 
 | 词频 4 |  
@@ -2080,7 +2058,7 @@ What is your ________(最喜欢的) color?
  > 简是妈妈的最爱。  
 
 
-# ***fax*** n
+# *** *fax*** n
 英音 fæks     美音 fæks  
 
 | 词频 3 |  
@@ -2100,7 +2078,7 @@ What is your ________(最喜欢的) color?
  > 用电子邮件发传真信件  
 
 
-# ***fax*** vt
+# *** *fax*** vt
 英音 fæks     美音 fæks  
 
 | 词频 3 |  
@@ -2114,7 +2092,7 @@ What is your ________(最喜欢的) color?
  > 我把旅馆名单传真给了他们。  
 
 
-# ***fear*** n  重难点词汇
+# *** *fear*** n  重难点词汇
 英音 fɪə(r)     美音 fɪr  
 
 | 词频 5 | 口语 1 | 书面 3 |  
@@ -2139,8 +2117,7 @@ What is your ________(最喜欢的) color?
 
 固定搭配
 ---
-- for fear of (doing) sth / for fear (that)
-1.**生怕 (做) 某事；以免 (做) 某事：**  
+## - *for fear of (doing) sth / for fear (that)  **生怕 (做) 某事；以免 (做) 某事：**  
 
  > People often don't do what they really want to for fear of failure.  
  > 人们常因害怕失败而不去做自己真正想做的事。  
@@ -2152,22 +2129,20 @@ What is your ________(最喜欢的) color?
  > He set off very early for fear that he might be late for the interview.   
  > 他早早就出发了，以免面试迟到。  
 
-- in fear (of sth)
-1.**恐惧(某事)；担心 (某事)：**  
+## - *in fear (of sth)  **恐惧(某事)；担心 (某事)：**  
 
  > If someone comes up behind you and touches you lightly on the shoulder, you may jump in fear.  
  > 如果有人从身后走近你，并轻触你的肩膀，你可能会吓一跳。  
  > 来源：2010 陕西  
 
-- without fear (of sth)
-1.**不畏惧 (某事)：**  
+## - *without fear (of sth)  **不畏惧 (某事)：**  
 
  > Team members must be able to express their opinions freely without fear of being criticized.  
  > 团队成员必须能够自由表达自己的观点，不怕被责备。  
  > 来源：2011 浙江  
 
 
-# ***fear*** v  重难点词汇
+# *** *fear*** v  重难点词汇
 英音 fɪə(r)     美音 fɪr  
 
 | 词频 5 | 书面 2 |  
@@ -2209,10 +2184,11 @@ fearless /'fɪələs/ adj
 ---
 ##### 题目  
 He got to the station early, ________ fear of missing his train.  
+来源：2004 江苏改  
 ##### 答案 for  
   
 
-# ***feast*** n
+# *** *feast*** n
 英音 fiːst     美音 fiːst  
 
 | 词频 2 |  
@@ -2234,7 +2210,7 @@ He got to the station early, ________ fear of missing his train.
  > 这个电影节会让影迷们大饱眼福。  
 
 
-# ***feather*** n
+# *** *feather*** n
 英音 'feðə(r)     美音 'feðər  
 
 | 词频 2 |  
@@ -2249,11 +2225,10 @@ He got to the station early, ________ fear of missing his train.
 
 固定搭配
 ---
-- birds of a feather (flock together)
-1.**物以类聚，人以群分**  
+## - *birds of a feather (flock together)  **物以类聚，人以群分**  
 
 
-# ***feature*** n
+# *** *feature*** n
 英音 'fiːtʃə(r)     美音 'fiːtʃər  
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -2294,7 +2269,7 @@ He got to the station early, ________ fear of missing his train.
  > 她对今天报纸上一个关于教育的专栏特别感兴趣。  
 
 
-# ***feature*** v
+# *** *feature*** v
 英音 'fiːtʃə(r)     美音 'fiːtʃər  
 
 | 词频 4 | 书面 1 | 阅读 3 |  
@@ -2321,7 +2296,7 @@ He got to the station early, ________ fear of missing his train.
  > 鱼在日本人的饮食中占重要地位。  
 
 
-# ***federal*** adj
+# *** *federal*** adj
 英音 'fedərəl     美音 'fedərəl  
 
 | 词频 3 | 书面 3 | 阅读 2 |  
@@ -2337,7 +2312,7 @@ He got to the station early, ________ fear of missing his train.
  > 联邦调查局  
 
 
-# ***federation*** n
+# *** *federation*** n
 英音 ˌfedə'reɪʃn     美音 ˌfedə'reɪʃn  
 
 | 词频 1 | 阅读 1 |  
@@ -2347,7 +2322,7 @@ He got to the station early, ________ fear of missing his train.
 1.*高义频：* **[C] & [U] 联盟；联邦**  
 
 
-# ***fee*** n
+# *** *fee*** n
 英音 fiː     美音 fiː  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -2376,7 +2351,7 @@ Notes: fee指进入或加入某组织所付的费用，还可指为专业服务�
  > 保险公司为我支付了所有的医疗费。  
 
 
-# ***fee*** vt
+# *** *fee*** vt
 英音 fiː     美音 fiː  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2389,7 +2364,7 @@ Notes: fee指进入或加入某组织所付的费用，还可指为专业服务�
  > 给服务员小费  
 
 
-# ***feed*** v
+# *** *feed*** v
 英音 fiːd     美音 fiːd  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -2432,23 +2407,19 @@ Notes: fee指进入或加入某组织所付的费用，还可指为专业服务�
 
 固定搭配
 ---
-- (be) fed up with
-1.**(对…) 感到厌烦 (be bored with)：**  
+## - *(be) fed up with  **(对…) 感到厌烦 (be bored with)：**  
 
  > I'm fed up with this wet weather.  
  > 我讨厌这种下雨天。  
 
-- feed back (into / to)
-1.**反馈；反过来对…起作用：**  
+## - *feed back (into / to)  **反馈；反过来对…起作用：**  
 
  > What the audience tells me feeds back into my work.  
  > 观众给我提的意见反过来对我的作品产生了影响。  
 
-- feed into
-1.**对…的发展产生影响**  
+## - *feed into  **对…的发展产生影响**  
 
-- feed on
-1.**以…为食：**  
+## - *feed on  **以…为食：**  
 
  > Bats fly at night and feed on insects.  
  > 蝙蝠在夜间飞行，以昆虫为食。  
@@ -2459,10 +2430,11 @@ Notes: fee指进入或加入某组织所付的费用，还可指为专业服务�
 ##### 题目  
 Butterflies feed ________ a sweet liquid produced by flowers, which other insects collect.  
 B.   
+来源：2013 湖北改  
 ##### 答案 on  
   
 
-# ***feed*** n
+# *** *feed*** n
 英音 fiːd     美音 fiːd  
 
 | 词频 4 |  
@@ -2477,7 +2449,7 @@ B.
 2.*低义频：* **[U] 饲料；牧草**  
 
 
-# ***feedback*** n
+# *** *feedback*** n
 英音 'fiːdbæk     美音 'fiːdbæk  
 
 | 词频 2 | 口语 1 |  
@@ -2491,7 +2463,7 @@ B.
  > 来源：2012 四川改  
 
 
-# ***feel*** vt  重难点词汇
+# *** *feel*** vt  重难点词汇
 英音 fiːl     美音 fiːl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2501,6 +2473,12 @@ B.
 英文释义
 ---
 1.*高义频：* **感觉；感到；觉得：**  
+
+ > feel a pain in one’s back   
+ > 感到背痛  
+
+ > You can’t see air but you can feel it.  
+ > 你看不见空气，但能感觉到它。  
 
 - feel … do / doing / done:
 
@@ -2518,21 +2496,15 @@ B.
  > He felt himself very ignorant.  
  > 他觉得自己很无知。  
 
- > feel a pain in one’s back   
- > 感到背痛  
-
- > You can’t see air but you can feel it.  
- > 你看不见空气，但能感觉到它。  
-
 2.*高义频：* **摸；触；试探：**  
+
+ > The doctor felt her pulse.  
+ > 医生给她把脉。  
 
 - feel + wh- 从句：
 
  > Feel whether the water is warm enough.  
  > 摸摸看，水是否够热了。  
-
- > The doctor felt her pulse.  
- > 医生给她把脉。  
 
 3.*高义频：* **以为；认为：**  
 
@@ -2555,7 +2527,7 @@ Notes: 在此结构中，it作形式宾语，真正的宾语为后 面的不定�
  > 杰瑞对自己所给出的评价并不后悔，但他觉得要是换一种方式表达就好了。  
 
 
-# ***feel*** v  重难点词汇
+# *** *feel*** v  重难点词汇
 英音 fiːl     美音 fiːl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2566,16 +2538,16 @@ Notes: 在此结构中，it作形式宾语，真正的宾语为后 面的不定�
 ---
 1.*高义频：* **vt 触；摸；vi (用手) 摸索：**  
 
-- feel + wh- 从句：
-
- > Feel whether the water is warm enough.  
- > 摸摸看，水是否够热了。  
-
  > The doctor felt her pulse.  
  > 医生给她把脉。  
 
  > I felt in my bag for the pen.  
  > 我在书包里摸索着找钢笔。  
+
+- feel + wh- 从句：
+
+ > Feel whether the water is warm enough.  
+ > 摸摸看，水是否够热了。  
 
 2.*高义频：* **[用作系动词] 摸起来：**  
 
@@ -2583,6 +2555,13 @@ Notes: 在此结构中，it作形式宾语，真正的宾语为后 面的不定�
  > 我父亲的手摸上去粗糙但温暖。  
 
 3.*高义频：* **(通过触觉) 感觉到；意识到：**  
+
+ > I could feel the warm sun on my back.  
+ > 我能感觉到温暖的阳光照在背上。  
+
+ > **feel like**  
+ > I feel like an idiot when I don’t know the answer.  
+ > 我不知道答案时就感觉像个白痴。  
 
 - feel … do / doing / done:
 
@@ -2592,14 +2571,20 @@ Notes: 在此结构中，it作形式宾语，真正的宾语为后 面的不定�
  > He felt the sweat running down his face.  
  > 他感觉到汗水正顺着脸颊流下来。  
 
- > I could feel the warm sun on my back.  
- > 我能感觉到温暖的阳光照在背上。  
-
- > **feel like**  
- > I feel like an idiot when I don’t know the answer.  
- > 我不知道答案时就感觉像个白痴。  
-
 4.*高义频：* **感受到；体会到：**  
+
+ > Cotton feels soft.   
+ > 棉花摸上去很柔软。  
+
+ > The air outside feels cold.  
+ > 外面很冷。  
+
+ > How are you feeling today?  
+ > 你今天感觉如何？  
+
+ > **feels like**  
+ > He’s holding something that feels like a potato.  
+ > 他拿着一个摸上去像土豆的东西。  
 
 - feel + adj / adv / prep:
 
@@ -2617,19 +2602,6 @@ Notes: 在此结构中，it作形式宾语，真正的宾语为后 面的不定�
  > **feel like**  
  > I feel like an idiot when I don’t know the answer.  
  > 我不知道答案时就感觉像个白痴。  
-
- > Cotton feels soft.   
- > 棉花摸上去很柔软。  
-
- > The air outside feels cold.  
- > 外面很冷。  
-
- > How are you feeling today?  
- > 你今天感觉如何？  
-
- > **feels like**  
- > He’s holding something that feels like a potato.  
- > 他拿着一个摸上去像土豆的东西。  
 
 5.*高义频：* **[用作系动词] 给…感觉 / 印象：**  
 
@@ -2665,14 +2637,12 @@ Notes: 在此结构中，it作形式宾语，真正的宾语为后面的不定�
 
 固定搭配
 ---
-- feel at home
-1.**感觉自在；无拘束：**  
+## - *feel at home  **感觉自在；无拘束：**  
 
  > Her kind smile made every guest feel at home.  
  > 她亲切的笑容使每个人都感觉宾至如归。  
 
-- feel like (doing) sth
-1.**想要（做）某事：**  
+## - *feel like (doing) sth  **想要（做）某事：**  
 
  > Do you feel like a game of tennis?  
  > 想打场网球吗？  
@@ -2680,8 +2650,7 @@ Notes: 在此结构中，it作形式宾语，真正的宾语为后面的不定�
  > It is such a fine day. I feel like going out for a picnic.  
  > 天气这么好，我想出去野餐。  
 
-- feel (like / quite) oneself
-1.**觉得身体情况正常：**  
+## - *feel (like / quite) oneself  **觉得身体情况正常：**  
 
  > I don’t feel quite myself today.  
  > 我今天感到不太舒服。  
@@ -2691,10 +2660,12 @@ Notes: 在此结构中，it作形式宾语，真正的宾语为后面的不定�
 ---
 ##### 题目  
 I felt happily that their life had improved.  
+来源：2018 全国 改错  
 ##### 答案 happily → happy  
   
 ##### 题目  
 Lydia doesn’t feel like _______ (study) abroad. Her parents are old.   
+来源：2011 四川改  
 ##### 答案 studying  
   
 ##### 题目  
@@ -2702,7 +2673,7 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
 ##### 答案 felt  
   
 
-# ***feel*** n  重难点词汇
+# *** *feel*** n  重难点词汇
 英音 fiːl     美音 fiːl  
 
 | 词频 5 |  
@@ -2720,7 +2691,7 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
  > 来源：2011 全国  
 
 
-# ***feeling*** n
+# *** *feeling*** n
 英音 'fiːlɪŋ     美音 'fiːlɪŋ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2779,7 +2750,7 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
  > 她的乐感很强。  
 
 
-# ***fellow*** n
+# *** *fellow*** n
 英音 'feləʊ     美音 'feloʊ  
 
 | 词频 4 | 阅读 3 |  
@@ -2806,7 +2777,7 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
  > 她在同事中口碑甚佳。  
 
 
-# ***fellow*** adj
+# *** *fellow*** adj
 英音 'feləʊ     美音 'feloʊ  
 
 | 词频 4 | 书面 1 | 阅读 3 |  
@@ -2822,7 +2793,7 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
  > 同事/同学/旅伴  
 
 
-# ***female*** adj
+# *** *female*** adj
 英音 'fiːmeɪl     美音 'fiːmeɪl  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -2838,7 +2809,7 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
  > 母狗  
 
 
-# ***female*** n
+# *** *female*** n
 英音 'fiːmeɪl     美音 'fiːmeɪl  
 
 | 词频 4 | 书面 1 |  
@@ -2848,7 +2819,7 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
 1.*高义频：* **女子；雌性动 / 植物**  
 
 
-# ***fence*** n
+# *** *fence*** n
 英音 fens     美音 fens  
 
 | 词频 3 | 口语 1 |  
@@ -2864,7 +2835,7 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
  > 一篱间隔，友谊长青。  
 
 
-# ***fence*** vt
+# *** *fence*** vt
 英音 fens     美音 fens  
 
 | 词频 3 |  
@@ -2877,7 +2848,7 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
  > 爸爸用篱笆把后院围了起来。  
 
 
-# ***ferry*** n
+# *** *ferry*** n
 英音 'feri     美音 'feri  
 
 | 词频 1 |  
@@ -2889,7 +2860,7 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
 1.*高义频：* **渡船；摆渡；渡口**  
 
 
-# ***ferry*** vt
+# *** *ferry*** vt
 英音 'feri     美音 'feri  
 
 | 词频 1 |  
@@ -2899,7 +2870,7 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
 1.**摆渡；渡运**  
 
 
-# ***fertile*** adj
+# *** *fertile*** adj
 英音 'fɜːtaɪl     美音 'fɜːrtl  
 
 | 词频 1 | 阅读 1 |  
@@ -2912,7 +2883,7 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
  > 沃土/受精卵  
 
 
-# ***fertilizer*** n
+# *** *fertilizer*** n
 英音 'fɜːtəlaɪzə(r)     美音 'fɜːrtəlaɪzər  
 
 | 词频 2 |  
@@ -2924,7 +2895,7 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
 1.*高义频：* **肥料；化肥**  
 
 
-# ***festival*** n
+# *** *festival*** n
 英音 'festɪvl     美音 'festɪvl  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -2950,7 +2921,7 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
  > 啤酒节  
 
 
-# ***fetch*** vt
+# *** *fetch*** vt
 英音 fetʃ     美音 fetʃ  
 
 | 词频 2 | 口语 1 |  
@@ -2967,7 +2938,7 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
  > 去把我的雨伞拿来。  
 
 
-# ***fever*** n
+# *** *fever*** n
 英音 'fiːvə(r)     美音 'fiːvər  
 
 | 词频 2 |  
@@ -2992,10 +2963,11 @@ The water________ (feel) cool when I jumped into the pool for morning exercise.
 ---
 ##### 题目  
 He caught a high f________ . His body temperature was as high as 40°C.  
+来源：2007 浙江  
 ##### 答案 fever  
   
 
-# ***few*** adj
+# *** *few*** adj
 英音 fjuː     美音 fjuː  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3012,7 +2984,7 @@ He caught a high f________ . His body temperature was as high as 40°C.
  > 二者之间差别很小。  
 
 
-# ***few*** pron
+# *** *few*** pron
 英音 fjuː     美音 fjuː  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3027,8 +2999,7 @@ He caught a high f________ . His body temperature was as high as 40°C.
 
 固定搭配
 ---
-- a few
-1.**少数；几个：**  
+## - *a few  **少数；几个：**  
 
  > Here are a few suggestions.  
  > 这里有几条建议。  
@@ -3038,8 +3009,7 @@ He caught a high f________ . His body temperature was as high as 40°C.
  > A few of them speak English.  
  > 他们中有几个人讲英语。  
 
-- a good few / quite a few / not a few
-1.**相当多；不少：**  
+## - *a good few / quite a few / not a few  **相当多；不少：**  
 
  > Dad told me quite a few stories about his own childhood.  
  > 爸爸给我讲了不少他童年的故事。  
@@ -3058,22 +3028,23 @@ Notes: few不论作形容词还是作代词，在句中大都表示否定，a fe
  > A few of us have seen the film, haven't we?  
  > 我们中间有几个人看过这个电影，是吗？  
 
-- few and far between
-1.**稀少；罕见**  
+## - *few and far between  **稀少；罕见**  
 
 
 真题解析
 ---
 ##### 题目  
 There are a small number of people involved, possibly as little as twenty.   
+来源：2013 江西改 改错  
 ##### 答案 little → few  
   
 ##### 题目  
 I hear ________ (相当多) boys in your school like playing football in their spare time, though others prefer basketball. (few)  
+来源：2006 辽宁改  
 ##### 答案 a good few / quite a few / not a few  
   
 
-# ***fiancé*** n
+# *** *fiancé*** n
 英音 fɪ'ɒnseɪ     美音 ˌfiːɑːn'seɪ  
 
 | 词频 1 |  
@@ -3083,7 +3054,7 @@ I hear ________ (相当多) boys in your school like playing football in their s
 1.**未婚夫**  
 
 
-# ***fiancée*** n
+# *** *fiancée*** n
 英音 fɪ'ɒnseɪ     美音 ˌfiːɑːn'seɪ  
 
 | 词频 1 |  
@@ -3093,7 +3064,7 @@ I hear ________ (相当多) boys in your school like playing football in their s
 1.**未婚妻**  
 
 
-# ***fiction*** n
+# *** *fiction*** n
 英音 'fɪkʃn     美音 'fɪkʃn  
 
 | 词频 3 | 阅读 2 |  
@@ -3113,7 +3084,7 @@ I hear ________ (相当多) boys in your school like playing football in their s
  > 多年来他一直设法给人一种未婚的假象。  
 
 
-# ***fictional*** adj
+# *** *fictional*** adj
 英音 'fɪkʃənl     美音 'fɪkʃənl  
 
   
@@ -3123,7 +3094,7 @@ I hear ________ (相当多) boys in your school like playing football in their s
 1.**虚构的，编造的,小说 (中)的**  
 
 
-# ***field*** n
+# *** *field*** n
 英音 fiːld     美音 fiːld  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3173,7 +3144,7 @@ I hear ________ (相当多) boys in your school like playing football in their s
  > 在娱乐圈  
 
 
-# ***fierce*** adj
+# *** *fierce*** adj
 英音 fɪəs     美音 fɪrs  
 
 | 词频 3 | 阅读 2 |  
@@ -3201,10 +3172,11 @@ fiercely /fɪəsli/ adv
 ---
 ##### 题目  
 They look like the teeth of a ________ (凶猛的) animal.  
+来源：2010 全国  
 ##### 答案 fierce  
   
 
-# ***fiery*** adj
+# *** *fiery*** adj
 英音 'faɪəri     美音 'faɪəri  
 
 | 词频 2 |  
@@ -3214,7 +3186,7 @@ They look like the teeth of a ________ (凶猛的) animal.
 1.**燃烧的, 如火的**  
 
 
-# ***fight*** v
+# *** *fight*** v
 英音 faɪt     美音 faɪt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3281,8 +3253,7 @@ They look like the teeth of a ________ (凶猛的) animal.
 
 固定搭配
 ---
-- fight back
-1.**反击；回击；克制：**  
+## - *fight back  **反击；回击；克制：**  
 
  > Lewis fought back to win the game.  
  > 刘易斯奋起反击，以赢得比赛。  
@@ -3291,7 +3262,7 @@ They look like the teeth of a ________ (凶猛的) animal.
  > 她看着别处，强忍着泪。  
 
 
-# ***fight*** n
+# *** *fight*** n
 英音 faɪt     美音 faɪt  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -3321,7 +3292,7 @@ They look like the teeth of a ________ (凶猛的) animal.
 fighter /'faɪtə(r)/ n   
 fighting /'faɪtɪŋ/ n   
 
-# ***figurative*** adj
+# *** *figurative*** adj
 英音 'fɪɡərətɪv     美音 'fɪɡərətɪv  
 
 | 词频 1 |  
@@ -3331,7 +3302,7 @@ fighting /'faɪtɪŋ/ n
 1.**比喻的；借喻的**  
 
 
-# ***figure*** n  重难点词汇
+# *** *figure*** n  重难点词汇
 英音 'fɪɡə(r)     美音 'fɪɡjər  
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -3384,7 +3355,7 @@ fighting /'faɪtɪŋ/ n
  > 三角形是有三条边的几何图形。  
 
 
-# ***figure*** v  重难点词汇
+# *** *figure*** v  重难点词汇
 英音 'fɪɡə(r)     美音 'fɪɡjər  
 
 | 词频 4 | 口语 3 | 书面 1 | 阅读 3 |  
@@ -3421,8 +3392,7 @@ fighting /'faɪtɪŋ/ n
 
 固定搭配
 ---
-- figure out
-1.**弄清楚；弄明白；计算出：**  
+## - *figure out  **弄清楚；弄明白；计算出：**  
 
  > College is when we should focus on a specific major, but high school is when we have to figure it out.  
  > 在大学时我们需要专注于某一专业，而在中学时我们需要找出这一专业。  
@@ -3444,10 +3414,11 @@ fighting /'faɪtɪŋ/ n
 ##### 题目  
 The present situation is very complex, so I think it will take me some time to figure ________ its reality.  
 B.   
+来源：2008 湖北改  
 ##### 答案 out  
   
 
-# ***file*** n
+# *** *file*** n
 英音 faɪl     美音 faɪl  
 
 | 词频 2 | 口语 3 | 书面 2 | 阅读 1 |  
@@ -3469,7 +3440,7 @@ B.
  > 学校存有所有学生的档案。  
 
 
-# ***file*** vt
+# *** *file*** vt
 英音 faɪl     美音 faɪl  
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 1 |  
@@ -3495,7 +3466,7 @@ B.
  > 锉指甲  
 
 
-# ***fill*** v
+# *** *fill*** v
 英音 fɪl     美音 fɪl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3558,28 +3529,25 @@ B.
 
 固定搭配
 ---
-- fill in / out 
-1.**填充；填写；填满 (complete)：**  
+## - *fill in / out   **填充；填写；填满 (complete)：**  
 
  > **fill in,forms**  
  > You need to fill in some forms if you are interested.  
  > 如果有兴趣，你需要填一些表格。  
  > 来源：2008 安徽  
 
-- fill in for 
-1.**临时替代：**  
+## - *fill in for   **临时替代：**  
 
  > She told me to fill in for a worker who had the flu.  
  > 她让我临时为一个得了流感的人代班。  
 
-- fill up 
-1.**(使) 变满；充满：**  
+## - *fill up   **(使) 变满；充满：**  
 
  > Shall I fill the car up (with petrol)?   
  > 要不要我给车加满汽油？  
 
 
-# ***filling*** n
+# *** *filling*** n
 英音 'fɪlɪŋ     美音 'fɪlɪŋ  
 
 | 词频 1 |  
@@ -3589,7 +3557,7 @@ B.
 1.**馅**  
 
 
-# ***film*** n
+# *** *film*** n
 英音 fɪlm     美音 fɪlm  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3624,7 +3592,7 @@ B.
  > 事件的整个过程都被拍摄了下来。  
 
 
-# ***film*** v
+# *** *film*** v
 英音 fɪlm     美音 fɪlm  
 
 | 词频 5 |  
@@ -3643,7 +3611,7 @@ B.
  > 目前他们正在莫斯科拍电影。  
 
 
-# ***filthy*** adj
+# *** *filthy*** adj
 英音 'fɪlθi     美音 'fɪlθi  
 
 | 词频 1 |  
@@ -3653,7 +3621,7 @@ B.
 1.**十分肮脏的，污秽的**  
 
 
-# ***fin*** n
+# *** *fin*** n
 英音 fɪn     美音 fɪn  
 
   
@@ -3663,7 +3631,7 @@ B.
 1.**鱼鳍；[飞机的]垂直尾翼**  
 
 
-# ***fin*** v
+# *** *fin*** v
 英音 fɪn     美音 fɪn  
 
   
@@ -3673,7 +3641,7 @@ B.
 1.**切去（鱼的）鳍**  
 
 
-# ***final*** adj
+# *** *final*** adj
 英音 'faɪnl     美音 'faɪnl  
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -3701,7 +3669,7 @@ B.
  > 我不去了，就这么定了。  
 
 
-# ***final*** n
+# *** *final*** n
 英音 'faɪnl     美音 'faɪnl  
 
 | 词频 4 | 书面 1 | 阅读 3 |  
@@ -3719,7 +3687,7 @@ B.
  > 来源：外研⑤ – 5  
 
 
-# ***finally*** adv
+# *** *finally*** adv
 英音 'faɪnəli     美音 'faɪnəli  
 
 | 词频 5 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -3742,10 +3710,11 @@ B.
 ---
 ##### 题目  
 Do you think shopping online will ________ (final) take the place of shopping in stores?   
+来源：2010 浙江改  
 ##### 答案 finally  
   
 
-# ***finance*** n
+# *** *finance*** n
 英音 'faɪnæns     美音 'faɪnæns  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 1 |  
@@ -3780,7 +3749,7 @@ Do you think shopping online will ________ (final) take the place of shopping in
  > 她拒绝回答个人收入方面的问题。  
 
 
-# ***finance*** vt
+# *** *finance*** vt
 英音 'faɪnæns     美音 'faɪnæns  
 
 | 词频 3 | 书面 1 | 阅读 1 |  
@@ -3793,7 +3762,7 @@ Do you think shopping online will ________ (final) take the place of shopping in
  > 为这个组织提供资金？  
 
 
-# ***financial*** adj
+# *** *financial*** adj
 英音 faɪ'nænʃl     美音 faɪ'nænʃl  
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -3818,7 +3787,7 @@ Do you think shopping online will ________ (final) take the place of shopping in
 ---
 financially /fai'nænʃəli; fə'nænʃəli/ adv   
 
-# ***financially*** adv
+# *** *financially*** adv
 英音 fə'nænʃəli     美音 fə'nænʃəli  
 
 | 词频 3 |  
@@ -3828,7 +3797,7 @@ financially /fai'nænʃəli; fə'nænʃəli/ adv
 1.**财政上地**  
 
 
-# ***find*** vt  重难点词汇
+# *** *find*** vt  重难点词汇
 英音 faɪnd     美音 faɪnd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3838,6 +3807,14 @@ financially /fai'nænʃəli; fə'nænʃəli/ adv
 英文释义
 ---
 1.*高义频：* **(意外) 发现；找回；查明：**  
+
+ > find a solution to the problem   
+ > 寻找解决问题的办法  
+ > 来源：2011 江苏  
+
+ > **find_2,for**  
+ > Can you find me my bag? / Can you find my bag for me?  
+ > 你能帮我找回包吗？  
 
 - find sb / sth + doing sth:
 
@@ -3865,14 +3842,6 @@ financially /fai'nænʃəli; fə'nænʃəli/ adv
  > 我刚发现那天下午我得参加一个重要的班会。  
  > 来源：2016 全国书面表达  
 
- > find a solution to the problem   
- > 寻找解决问题的办法  
- > 来源：2011 江苏  
-
- > **find_2,for**  
- > Can you find me my bag? / Can you find my bag for me?  
- > 你能帮我找回包吗？  
-
 2.*高义频：* **认为；发觉：**  
 
 - find sth + adj / n (to do sth):
@@ -3890,8 +3859,10 @@ financially /fai'nænʃəli; fə'nænʃəli/ adv
 
 固定搭配
 ---
-- find out
-1.**发现；查明；弄清 (情况)：**  
+## - *find out  **发现；查明；弄清 (情况)：**  
+
+ > I need to find out more about these night courses.  
+ > 我需要更多地了解这些夜校课程。  
 
 - find out + wh- to do:
 
@@ -3909,9 +3880,6 @@ financially /fai'nænʃəli; fə'nænʃəli/ adv
  > 科学家们想努力弄清火星上是否存在生命。  
  > 来源：2010 重庆  
 
- > I need to find out more about these night courses.  
- > 我需要更多地了解这些夜校课程。  
-
 
 真题解析
 ---
@@ -3920,7 +3888,7 @@ A cook will be immediately fired if he is found _________ (smoke) in the kitchen
 ##### 答案 smoking  
   
 
-# ***find*** n  重难点词汇
+# *** *find*** n  重难点词汇
 英音 faɪnd     美音 faɪnd  
 
 | 词频 5 |  
@@ -3938,7 +3906,7 @@ A cook will be immediately fired if he is found _________ (smoke) in the kitchen
  > 重大的史前发现  
 
 
-# ***finding*** n
+# *** *finding*** n
 英音 'faɪndɪŋ     美音 'faɪndɪŋ  
 
 | 词频 5 | 书面 2 | 阅读 3 |  
@@ -3952,7 +3920,7 @@ A cook will be immediately fired if he is found _________ (smoke) in the kitchen
  > 来源：译林⑦ – 1  
 
 
-# ***fine*** adj
+# *** *fine*** adj
 英音 faɪn     美音 faɪn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4014,7 +3982,7 @@ A cook will be immediately fired if he is found _________ (smoke) in the kitchen
  > 很好，谢谢。  
 
 
-# ***fine*** adv
+# *** *fine*** adv
 英音 faɪn     美音 faɪn  
 
 | 词频 5 |  
@@ -4036,7 +4004,7 @@ A cook will be immediately fired if he is found _________ (smoke) in the kitchen
 ---
 finely /'faɪnli/ adv   
 
-# ***fine*** vt
+# *** *fine*** vt
 英音 faɪn     美音 faɪn  
 
 | 词频 3 |  
@@ -4054,7 +4022,7 @@ finely /'faɪnli/ adv
  > 因开车超速我被警察罚了款。  
 
 
-# ***fine*** n
+# *** *fine*** n
 英音 faɪn     美音 faɪn  
 
 | 词频 3 |  
@@ -4068,7 +4036,7 @@ finely /'faɪnli/ adv
  > 付巨额罚款  
 
 
-# ***finger*** n
+# *** *finger*** n
 英音 'fɪŋɡə(r)     美音 'fɪŋɡər  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -4082,7 +4050,7 @@ finely /'faɪnli/ adv
  > 她用手指梳理头发。  
 
 
-# ***finger*** vt
+# *** *finger*** vt
 英音 'fɪŋɡə(r)     美音 'fɪŋɡər  
 
 | 词频 4 |  
@@ -4095,7 +4063,7 @@ finely /'faɪnli/ adv
  > 他用手指摸了摸那块木头，看是否平滑。  
 
 
-# ***fingernail*** n
+# *** *fingernail*** n
 英音 'fɪŋɡəneɪl     美音 'fɪŋɡərneɪl  
 
 | 词频 1 |  
@@ -4105,7 +4073,7 @@ finely /'faɪnli/ adv
 1.*高义频：* **[C] 手指甲**  
 
 
-# ***finish*** v  重难点词汇
+# *** *finish*** v  重难点词汇
 英音 'fɪnɪʃ     美音 'fɪnɪʃ  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -4113,12 +4081,6 @@ finely /'faɪnli/ adv
 英文释义
 ---
 1.*高义频：* **结束；完成：**  
-
-- finish doing sth:
-
- > I finished cleaning the living room a little while ago.  
- > 我刚才打扫完客厅了。  
- > 来源：2008 陕西  
 
  > **the finishing line**  
  > the finishing line   
@@ -4130,6 +4092,12 @@ finely /'faɪnli/ adv
  > By the time you have finished this book, your meal will get cold.  
  > 等你看完这本书，你的饭就凉了。  
  > 来源：2012 北京  
+
+- finish doing sth:
+
+ > I finished cleaning the living room a little while ago.  
+ > 我刚才打扫完客厅了。  
+ > 来源：2008 陕西  
 
 2.*高义频：* **吃光；喝光 (剩下的东西) (finish up / off)：**  
 
@@ -4145,21 +4113,18 @@ finely /'faɪnli/ adv
 
 固定搭配
 ---
-- finish off 
-1.**完成；作最后加工；吃完：**  
+## - *finish off   **完成；作最后加工；吃完：**  
 
  > Could you just give me a minute to finish off what I'm doing?  
  > 你能给我一点时间让我完成手头的工作吗？  
 
-- finish up
-1.**[BrE] [非正式用语] 以…终结；吃完：**  
+## - *finish up  **[BrE] [非正式用语] 以…终结；吃完：**  
 
  > Many speakers finish up their speeches with question-and-answer sessions.  
  > 许多演讲者以问答环节结束自己的演讲。  
  > 来源：2012 陕西  
 
-- finish with
-1.**[常用于完成时，不用于进行时] 完成；结束：**  
+## - *finish with  **[常用于完成时，不用于进行时] 完成；结束：**  
 
  > Please return the paper to me when you have finished with it.  
  > 看完报纸之后请还给我。  
@@ -4173,7 +4138,7 @@ finished /'fɪnɪʃt/ adj
  > 来源：2010 北京  
 
 
-# ***finish*** n  重难点词汇
+# *** *finish*** n  重难点词汇
 英音 'fɪnɪʃ     美音 'fɪnɪʃ  
 
 | 词频 5 | 口语 1 |  
@@ -4190,7 +4155,7 @@ finished /'fɪnɪʃt/ adj
  > 这个故事自始至终都是骗人的。  
 
 
-# ***fire*** n
+# *** *fire*** n
 英音 'faɪə(r)     美音 'faɪər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4234,8 +4199,7 @@ finished /'fɪnɪʃt/ adj
 
 固定搭配
 ---
-- catch fire 
-1.**着火：**  
+## - *catch fire   **着火：**  
 
  > Hundreds of houses caught fire when the lava reached them.  
  > 熔岩袭来时，成百上千的房屋着了火。  
@@ -4245,8 +4209,7 @@ finished /'fɪnɪʃt/ adj
  > 地下室意外着火了。  
  > 来源：2014 天津  
 
-- on fire
-1.**着火；火辣辣：**  
+## - *on fire  **着火；火辣辣：**  
 
  > His clothes were on fire.  
  > 他的衣服着火了。  
@@ -4255,11 +4218,9 @@ finished /'fɪnɪʃt/ adj
  > 我呆呆地站着，脸上火辣辣的，恨不能找个洞躲进去。  
  > 来源：2008 全国  
 
-- play with fire
-1.**玩火**  
+## - *play with fire  **玩火**  
 
-- set ... on fire / set fire to
-1.**使…燃烧；放火烧：**  
+## - *set ... on fire / set fire to  **使…燃烧；放火烧：**  
 
  > A cigarette end set the house on fire.  
  > 一根烟蒂点燃了这所房子。  
@@ -4268,7 +4229,7 @@ finished /'fɪnɪʃt/ adj
  > 警方认为有人故意纵火烧工厂。  
 
 
-# ***fire*** v
+# *** *fire*** v
 英音 'faɪə(r)     美音 'faɪər  
 
 | 词频 5 | 口语 1 | 书面 1 |  
@@ -4295,7 +4256,7 @@ finished /'fɪnɪʃt/ adj
  > 他因为醉酒被航空公司开除了。  
 
 
-# ***firearm*** n
+# *** *firearm*** n
 英音 'faɪərɑːm     美音 'faɪərɑːrm  
 
 | 词频 1 |  
@@ -4305,7 +4266,7 @@ finished /'fɪnɪʃt/ adj
 1.**火器**  
 
 
-# ***firefighter*** n
+# *** *firefighter*** n
 英音 faɪəfaɪtə(r)     美音 'faɪərfaɪtər  
 
 | 词频 1 |  
@@ -4315,7 +4276,7 @@ finished /'fɪnɪʃt/ adj
 1.*高义频：* **消防员 (fireman)**  
 
 
-# ***firework*** n
+# *** *firework*** n
 英音 'faɪəwɜːk     美音 'faɪərwɜːrk  
 
 | 词频 3 |  
@@ -4325,7 +4286,7 @@ finished /'fɪnɪʃt/ adj
 1.*高义频：* **[C] 烟火；烟花；[常用复数] 烟火表演**  
 
 
-# ***firm*** n
+# *** *firm*** n
 英音 fɜːm     美音 fɜːrm  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -4338,7 +4299,7 @@ finished /'fɪnɪʃt/ adj
  > 电子公司/广告公司/律师事务所  
 
 
-# ***firm*** adj
+# *** *firm*** adj
 英音 fɜːm     美音 fɜːrm  
 
 | 词频 3 | 口语 1 | 书面 2 |  
@@ -4366,7 +4327,7 @@ finished /'fɪnɪʃt/ adj
  > 来源：2008 安徽  
 
 
-# ***firm*** adv
+# *** *firm*** adv
 英音 fɜːm     美音 fɜːrm  
 
 | 词频 3 |  
@@ -4383,7 +4344,7 @@ finished /'fɪnɪʃt/ adj
  > 始终要坚持自己的信仰。  
 
 
-# ***firmly*** adv
+# *** *firmly*** adv
 英音 'fɜːmli     美音 'fɜːrmli  
 
 | 词频 3 | 阅读 2 |  
@@ -4403,7 +4364,7 @@ finished /'fɪnɪʃt/ adj
  > 这个女人把女儿紧紧地搂在怀里。  
 
 
-# ***first*** adj
+# *** *first*** adj
 英音 fɜːst     美音 fɜːrst  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4431,7 +4392,7 @@ finished /'fɪnɪʃt/ adj
  > 首要问题  
 
 
-# ***first*** n
+# *** *first*** n
 英音 fɜːst     美音 fɜːrst  
 
 | 词频 5 | 口语 1 | 书面 1 |  
@@ -4464,10 +4425,11 @@ firstly // adv [句子副词]
 ---
 ##### 题目  
 At the first, I thought I knew everything and could make decisions by myself.  
+来源：2016 全国改 改错  
 ##### 答案 去掉 the  
   
 
-# ***first*** adv
+# *** *first*** adv
 英音 fɜːst     美音 fɜːrst  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -4486,20 +4448,18 @@ At the first, I thought I knew everything and could make decisions by myself.
 
 固定搭配
 ---
-- at first 
-1.**起先；开始的时候：**  
+## - *at first   **起先；开始的时候：**  
 
  > I didn't like the job much at first.  
  > 起初我并不太喜欢这个工作。  
 
-- first of all 
-1.**首先；第一 (first / firstly)：**  
+## - *first of all   **首先；第一 (first / firstly)：**  
 
  > I don't think Helen should go — first of all, she is too young.  
  > 我认为海伦不应该去，首先，她太年轻了。  
 
 
-# ***fish*** n
+# *** *fish*** n
 英音 fɪʃ     美音 fɪʃ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4526,7 +4486,7 @@ Notes: 同一种类的鱼单复数同形；fishes则表示“不同种类的鱼�
  > 炸鱼薯条(英国代表性的大众食品)  
 
 
-# ***fish*** v
+# *** *fish*** v
 英音 fɪʃ     美音 fɪʃ  
 
 | 词频 5 | 口语 1 |  
@@ -4542,7 +4502,7 @@ Notes: 同一种类的鱼单复数同形；fishes则表示“不同种类的鱼�
  > 我常在周末钓鱼。  
 
 
-# ***fisherman*** n
+# *** *fisherman*** n
 英音 'fɪʃəmən     美音 'fɪʃərmən  
 
 | 词频 2 |  
@@ -4552,7 +4512,7 @@ Notes: 同一种类的鱼单复数同形；fishes则表示“不同种类的鱼�
 1.*高义频：* **[C] (pl fishermen) 渔民；渔夫**  
 
 
-# ***fishing*** n
+# *** *fishing*** n
 英音 'fɪʃɪŋ     美音 'fɪʃɪŋ  
 
 | 词频 4 | 口语 1 |  
@@ -4566,7 +4526,7 @@ Notes: 同一种类的鱼单复数同形；fishes则表示“不同种类的鱼�
  > 去钓鱼  
 
 
-# ***fist*** n
+# *** *fist*** n
 英音 fɪst     美音 fɪst  
 
 | 词频 2 |  
@@ -4580,7 +4540,7 @@ Notes: 同一种类的鱼单复数同形；fishes则表示“不同种类的鱼�
  > 向…挥拳  
 
 
-# ***fit*** v  重难点词汇
+# *** *fit*** v  重难点词汇
 英音 fɪt     美音 fɪt  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -4633,8 +4593,7 @@ Notes: 同一种类的鱼单复数同形；fishes则表示“不同种类的鱼�
 
 固定搭配
 ---
-- fit … in / into
-1.**安排时间 (见某人、做某事)；有足够的空间：**  
+## - *fit … in / into  **安排时间 (见某人、做某事)；有足够的空间：**  
 
  > If my schedule allows it, I'll fit you in.  
  > 如果日程安排允许，我就抽时间见你。  
@@ -4645,8 +4604,7 @@ Notes: 同一种类的鱼单复数同形；fishes则表示“不同种类的鱼�
  > Could you fit one more table in?  
  > 还能再放张桌子吗？  
 
-- fit in (with)
-1.**适合；(与…) 合得来；适应：**  
+## - *fit in (with)  **适合；(与…) 合得来；适应：**  
 
  > The new building must fit in with its surroundings.  
  > 这座新建筑必须与其周围的环境相协调。  
@@ -4658,8 +4616,7 @@ Notes: 同一种类的鱼单复数同形；fishes则表示“不同种类的鱼�
  > 詹娜决定继续努力适应新学校。  
  > 来源：2008 天津  
 
-- fit into
-1.
+## - *fit into  
  > She fitted into the team very well.  
  > 她与队友相处得十分融洽。  
 
@@ -4668,10 +4625,11 @@ Notes: 同一种类的鱼单复数同形；fishes则表示“不同种类的鱼�
 ---
 ##### 题目  
 Amy joined a painting group but didn't seem to fit ________, so she left.  
+来源：2009 山东改  
 ##### 答案 in  
   
 
-# ***fit*** adj  重难点词汇
+# *** *fit*** adj  重难点词汇
 英音 fɪt     美音 fɪt  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -4679,6 +4637,11 @@ Amy joined a painting group but didn't seem to fit ________, so she left.
 英文释义
 ---
 1.*高义频：* **适合的；合格的；能胜任的：**  
+
+ > **survival of the fittest**  
+ > the principle of "survival of the fittest"  
+ > “适者生存”法则  
+ > 来源：2008 上海  
 
 - (be) fit to do sth:
 
@@ -4691,11 +4654,6 @@ Amy joined a painting group but didn't seem to fit ________, so she left.
  > 我对这个职位很感兴趣。我认为我适合这个职位。  
  > 来源：2015 四川书面表达  
 
- > **survival of the fittest**  
- > the principle of "survival of the fittest"  
- > “适者生存”法则  
- > 来源：2008 上海  
-
 2.*高义频：* **健康的；健全的：**  
 
  > **keep fit**  
@@ -4704,7 +4662,7 @@ Amy joined a painting group but didn't seem to fit ________, so she left.
  > 来源：2009 重庆  
 
 
-# ***fit*** n  重难点词汇
+# *** *fit*** n  重难点词汇
 英音 fɪt     美音 fɪt  
 
 | 词频 3 |  
@@ -4740,7 +4698,7 @@ fitness /'fɪtnəs/ n [U]
  > 健身中心  
 
 
-# ***fitness*** n
+# *** *fitness*** n
 英音 'fɪtnəs     美音 'fɪtnəs  
 
 | 词频 3 |  
@@ -4752,7 +4710,7 @@ fitness /'fɪtnəs/ n [U]
 1.*高义频：* **健康；健壮**  
 
 
-# ***fix*** vt  重难点词汇
+# *** *fix*** vt  重难点词汇
 英音 fɪks     美音 fɪks  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -4795,8 +4753,7 @@ Notes: fix更常用来指修理机器、车辆等，没有repair 正式。
 
 固定搭配
 ---
-- fix … on / upon 
-1.**集中 (目光、注意力等) 于：**  
+## - *fix … on / upon   **集中 (目光、注意力等) 于：**  
 
  > **fixed my eyes on**  
  > I fixed my eyes on the word “congratulations.”  
@@ -4806,8 +4763,7 @@ Notes: fix更常用来指修理机器、车辆等，没有repair 正式。
  > You must fix your attention on what the teacher is saying.  
  > 你必须集中注意力听老师讲。  
 
-- fix up 
-1.**修理好；安顿；安排：**  
+## - *fix up   **修理好；安顿；安排：**  
 
  > They fixed up the house before they moved in.  
  > 他们把房子修整好才搬进去。  
@@ -4816,7 +4772,7 @@ Notes: fix更常用来指修理机器、车辆等，没有repair 正式。
  > 他们安排我在一家旅馆过夜。  
 
 
-# ***fix*** n  重难点词汇
+# *** *fix*** n  重难点词汇
 英音 fɪks     美音 fɪks  
 
 | 词频 4 |  
@@ -4830,7 +4786,7 @@ Notes: fix更常用来指修理机器、车辆等，没有repair 正式。
  > 即时的解决方法  
 
 
-# ***fixed*** adj
+# *** *fixed*** adj
 英音 fɪkst     美音 fɪkst  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -4850,7 +4806,7 @@ Notes: fix更常用来指修理机器、车辆等，没有repair 正式。
  > 上课和下课的时间都是固定不变的。  
 
 
-# ***flag*** n
+# *** *flag*** n
 英音 flæɡ     美音 flæɡ  
 
 | 词频 3 |  
@@ -4860,7 +4816,7 @@ Notes: fix更常用来指修理机器、车辆等，没有repair 正式。
 1.*高义频：* **旗；旗帜；国旗**  
 
 
-# ***flame*** n
+# *** *flame*** n
 英音 fleɪm     美音 fleɪm  
 
 | 词频 2 |  
@@ -4881,7 +4837,7 @@ Notes: fix更常用来指修理机器、车辆等，没有repair 正式。
  > 房子突然燃烧起来。  
 
 
-# ***flash*** n
+# *** *flash*** n
 英音 flæʃ     美音 flæʃ  
 
 | 词频 3 | 阅读 2 |  
@@ -4913,14 +4869,13 @@ Notes: fix更常用来指修理机器、车辆等，没有repair 正式。
 
 3.*低义频：* **[U] 网站动画制作程序**  
 
-- in / like a flash
-1.**很快地；马上：**  
+## - *in / like a flash  **很快地；马上：**  
 
  > Just wait here. I'll be back in a flash.  
  > 就在这里等着，我马上回来。  
 
 
-# ***flash*** v
+# *** *flash*** v
 英音 flæʃ     美音 flæʃ  
 
 | 词频 3 | 口语 1 | 阅读 2 |  
@@ -4962,7 +4917,7 @@ Notes: fix更常用来指修理机器、车辆等，没有repair 正式。
  > 屏幕上闪过战争的画面。  
 
 
-# ***flashback*** n
+# *** *flashback*** n
 英音 'flæʃbæk     美音 'flæʃbæk  
 
 | 词频 1 |  
@@ -4974,7 +4929,7 @@ Notes: fix更常用来指修理机器、车辆等，没有repair 正式。
 1.*高义频：* **闪回；倒叙**  
 
 
-# ***flashlight*** n
+# *** *flashlight*** n
 英音 'flæʃlaɪt     美音 'flæʃlaɪt  
 
 | 词频 2 |  
@@ -4984,7 +4939,7 @@ Notes: fix更常用来指修理机器、车辆等，没有repair 正式。
 1.*高义频：* **[C] 手电筒 (BrE torch)；闪光信号灯**  
 
 
-# ***flat*** n
+# *** *flat*** n
 英音 flæt     美音 flæt  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -4994,7 +4949,7 @@ Notes: fix更常用来指修理机器、车辆等，没有repair 正式。
 1.*高义频：* **[C] 公寓；一套房间 (BrE apartment)**  
 
 
-# ***flat*** adj
+# *** *flat*** adj
 英音 flæt     美音 flæt  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -5015,7 +4970,7 @@ Notes: fix更常用来指修理机器、车辆等，没有repair 正式。
  > 浅盘子  
 
 
-# ***flavo(u)r*** n
+# *** *flavo(u)r*** n
 英音 'fleɪvə(r)     美音 'fleɪvər  
 
 | 词频 2 | 口语 1 |  
@@ -5031,7 +4986,7 @@ Notes: fix更常用来指修理机器、车辆等，没有repair 正式。
  > 这些故事带有浓郁的地方特色。  
 
 
-# ***flee*** v
+# *** *flee*** v
 英音 fliː     美音 fliː  
 
 | 词频 1 |  
@@ -5051,7 +5006,7 @@ Notes: fix更常用来指修理机器、车辆等，没有repair 正式。
  > 来源：译 林⑥ – 4  
 
 
-# ***flesh*** n
+# *** *flesh*** n
 英音 fleʃ     美音 fleʃ  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -5077,18 +5032,16 @@ Notes: fix更常用来指修理机器、车辆等，没有repair 正式。
 
 固定搭配
 ---
-- flesh and blood 
-1.**血肉之躯**  
+## - *flesh and blood   **血肉之躯**  
 
-- in the flesh 
-1.**亲自；本人：**  
+## - *in the flesh   **亲自；本人：**  
 
  > We won't have to go there in the flesh at all!  
  > 我们无需亲自前往！  
  > 来源：北师大② – 4  
 
 
-# ***flexible*** adj
+# *** *flexible*** adj
 英音 'fleksəbl     美音 'fleksəbl  
 
 | 词频 3 | 阅读 2 |  
@@ -5127,10 +5080,11 @@ flexibility /ˌfleksə'bɪləti/ n [U]
 ---
 ##### 题目  
 Mothers holding jobs outside the home should have ________ (灵活的) schedules to make it easier to care for their children.  
+来源：2010 山东改  
 ##### 答案 flexible  
   
 
-# ***flick*** n
+# *** *flick*** n
 英音 flɪk     美音 flɪk  
 
 | 词频 1 |  
@@ -5140,7 +5094,7 @@ Mothers holding jobs outside the home should have ________ (灵活的) schedules
 1.**轻打,轻弹,抖动**  
 
 
-# ***flight*** n
+# *** *flight*** n
 英音 flaɪt     美音 flaɪt  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -5179,7 +5133,7 @@ Mothers holding jobs outside the home should have ________ (灵活的) schedules
  > 一段楼梯/台阶  
 
 
-# ***float*** v
+# *** *float*** v
 英音 fləʊt     美音 floʊt  
 
 | 词频 3 |  
@@ -5199,10 +5153,11 @@ Mothers holding jobs outside the home should have ________ (灵活的) schedules
 ---
 ##### 题目  
 If steel is heavier than water, why are ships able to _______ (漂浮) on the sea?  
+来源：2015 浙江改  
 ##### 答案 float  
   
 
-# ***flock*** vi
+# *** *flock*** vi
 英音 flɒk     美音 flɑːk  
 
 | 词频 2 |  
@@ -5212,7 +5167,7 @@ If steel is heavier than water, why are ships able to _______ (漂浮) on the se
 1.**聚集**  
 
 
-# ***flood*** n
+# *** *flood*** n
 英音 flʌd     美音 flʌd  
 
 | 词频 4 |  
@@ -5241,7 +5196,7 @@ If steel is heavier than water, why are ships able to _______ (漂浮) on the se
  > 来源：2009 江苏  
 
 
-# ***flood*** v
+# *** *flood*** v
 英音 flʌd     美音 flʌd  
 
 | 词频 4 | 口语 1 |  
@@ -5271,7 +5226,7 @@ If steel is heavier than water, why are ships able to _______ (漂浮) on the se
 flooded /flʌdɪd/ adj   
 flooding /flʌdɪŋ/ n [U]   
 
-# ***floor*** n
+# *** *floor*** n
 英音 flɔː(r)     美音 flɔːr  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -5296,7 +5251,7 @@ Notes: 英美楼层说法不同。在英国，ground / first / second / third fl
  > 这是一座六层楼房。  
 
 
-# ***flour*** n
+# *** *flour*** n
 英音 'flaʊə(r)     美音 'flaʊər  
 
 | 词频 2 |  
@@ -5306,7 +5261,7 @@ Notes: 英美楼层说法不同。在英国，ground / first / second / third fl
 1.*高义频：* **[U] 面粉；粉末**  
 
 
-# ***flow*** vi
+# *** *flow*** vi
 英音 fləʊ     美音 floʊ  
 
 | 词频 4 | 书面 1 |  
@@ -5332,7 +5287,7 @@ Notes: 英美楼层说法不同。在英国，ground / first / second / third fl
  > 卡车和汽车在公路上川流不息。  
 
 
-# ***flow*** n
+# *** *flow*** n
 英音 fləʊ     美音 floʊ  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -5349,7 +5304,7 @@ Notes: 英美楼层说法不同。在英国，ground / first / second / third fl
  > 信息的自由交流  
 
 
-# ***flower*** n
+# *** *flower*** n
 英音 'flaʊə(r)     美音 'flaʊər  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -5366,7 +5321,7 @@ Notes: 英美楼层说法不同。在英国，ground / first / second / third fl
  > 这是个美丽的季节，因为此时鲜花开始绽放。  
 
 
-# ***flower*** vi
+# *** *flower*** vi
 英音 'flaʊə(r)     美音 'flaʊər  
 
 | 词频 4 |  
@@ -5379,7 +5334,7 @@ Notes: 英美楼层说法不同。在英国，ground / first / second / third fl
  > 大多数果树在春天开花。  
 
 
-# ***flu*** n
+# *** *flu*** n
 英音 fluː     美音 fluː  
 
 | 词频 2 |  
@@ -5389,7 +5344,7 @@ Notes: 英美楼层说法不同。在英国，ground / first / second / third fl
 1.*高义频：* **[U] [常作the flu] 流行性感冒 (influenza)**  
 
 
-# ***fluency*** n
+# *** *fluency*** n
 英音 'fluːənsi     美音 'fluːənsi  
 
 | 词频 2 |  
@@ -5402,7 +5357,7 @@ Notes: 英美楼层说法不同。在英国，ground / first / second / third fl
  > 他的英语说得非常流利。  
 
 
-# ***fluent*** adj
+# *** *fluent*** adj
 英音 'fluːənt     美音 'fluːənt  
 
 | 词频 1 |  
@@ -5428,7 +5383,7 @@ Notes: 英美楼层说法不同。在英国，ground / first / second / third fl
 ---
 fluently /'fluːəntli/ adv   
 
-# ***fluently*** adv
+# *** *fluently*** adv
 英音 'fluːəntli     美音 'fluːəntli  
 
 | 词频 2 |  
@@ -5438,7 +5393,7 @@ fluently /'fluːəntli/ adv
 1.**流利地**  
 
 
-# ***fluid*** n
+# *** *fluid*** n
 英音 'fluːɪd     美音 'fluːɪd  
 
 | 词频 1 |  
@@ -5450,7 +5405,7 @@ fluently /'fluːəntli/ adv
 1.*高义频：* **流体；液体**  
 
 
-# ***flute*** n
+# *** *flute*** n
 英音 fluːt     美音 fluːt  
 
 | 词频 1 |  
@@ -5460,7 +5415,7 @@ fluently /'fluːəntli/ adv
 1.**长笛**  
 
 
-# ***flutter*** v
+# *** *flutter*** v
 英音 'flʌtə(r)     美音 'flʌtər  
 
 | 词频 1 |  
@@ -5470,7 +5425,7 @@ fluently /'fluːəntli/ adv
 1.**飘扬；飘动；拍打（翅膀）**  
 
 
-# ***fly*** v
+# *** *fly*** v
 英音 flaɪ     美音 flaɪ  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -5532,8 +5487,7 @@ fluently /'fluːəntli/ adv
 
 固定搭配
 ---
-- fly off the handle
-1.**[非正式用语] 大发雷霆**  
+## - *fly off the handle  **[非正式用语] 大发雷霆**  
 
 
 派生词汇
@@ -5541,7 +5495,7 @@ fluently /'fluːəntli/ adv
 flying /'flaɪɪŋ/ n [U]   
 flying /'flaɪɪŋ/ adj [只用于名词前]   
 
-# ***fly*** n
+# *** *fly*** n
 英音 flaɪ     美音 flaɪ  
 
 | 词频 2 |  
@@ -5551,7 +5505,7 @@ flying /'flaɪɪŋ/ adj [只用于名词前]
 1.*高义频：* **[C] 苍蝇**  
 
 
-# ***focus*** n
+# *** *focus*** n
 英音 'fəʊkəs     美音 'foʊkəs  
 
 | 词频 4 | 书面 2 | 阅读 3 |  
@@ -5575,17 +5529,14 @@ flying /'flaɪɪŋ/ adj [只用于名词前]
 
 固定搭配
 ---
-- come into focus
-1.**成为焦点**  
+## - *come into focus  **成为焦点**  
 
-- in focus 
-1.**焦点对准的；清晰的**  
+## - *in focus   **焦点对准的；清晰的**  
 
-- out of focus 
-1.**焦点未对准的；模糊不清的**  
+## - *out of focus   **焦点未对准的；模糊不清的**  
 
 
-# ***focus*** v
+# *** *focus*** v
 英音 'fəʊkəs     美音 'foʊkəs  
 
 | 词频 4 | 书面 2 | 阅读 3 |  
@@ -5601,8 +5552,7 @@ flying /'flaɪɪŋ/ adj [只用于名词前]
 
 固定搭配
 ---
-- focus on / upon
-1.**集中(...)于；聚焦(...)于：**  
+## - *focus on / upon  **集中(...)于；聚焦(...)于：**  
 
  > You should stop focusing on whom to blame and start focusing on how to remedy the situation.  
  > 你应该开始关注如何改善局面而不是去责怪谁。  
@@ -5625,10 +5575,11 @@ focus(s)ed /'fəʊkəst/ adj
 ---
 ##### 题目  
 Most of us are more focused ________ our tasks in the morning than we are later in the day.  
+来源：2016 全国  
 ##### 答案 on  
   
 
-# ***fog*** n
+# *** *fog*** n
 英音 fɒɡ     美音 fɔːɡ  
 
 | 词频 2 |  
@@ -5650,7 +5601,7 @@ Most of us are more focused ________ our tasks in the morning than we are later 
  > 困惑不解  
 
 
-# ***foggy*** adj
+# *** *foggy*** adj
 英音 'fɒɡi     美音 'fɔːɡi  
 
 | 词频 2 |  
@@ -5666,7 +5617,7 @@ Most of us are more focused ________ our tasks in the morning than we are later 
  > 他对这个问题的看法有些模糊。  
 
 
-# ***fold*** v
+# *** *fold*** v
 英音 fəʊld     美音 foʊld  
 
 | 词频 3 | 书面 1 | 阅读 1 |  
@@ -5701,7 +5652,7 @@ Most of us are more focused ________ our tasks in the morning than we are later 
  > 把婴儿裹在毯子里  
 
 
-# ***fold*** n
+# *** *fold*** n
 英音 fəʊld     美音 foʊld  
 
 | 词频 3 | 阅读 1 |  
@@ -5724,7 +5675,7 @@ folding /'fəʊldɪŋ/ adj [只用于名词前]
  > 可折叠自行车  
 
 
-# ***folk*** n
+# *** *folk*** n
 英音 fəʊk     美音 foʊk  
 
 | 词频 3 | 口语 2 | 书面 1 | 阅读 2 |  
@@ -5748,7 +5699,7 @@ folding /'fəʊldɪŋ/ adj [只用于名词前]
  > 他喜欢听中国民歌。  
 
 
-# ***folk*** adj
+# *** *folk*** adj
 英音 fəʊk     美音 foʊk  
 
 | 词频 3 | 阅读 2 |  
@@ -5765,7 +5716,7 @@ folding /'fəʊldɪŋ/ adj [只用于名词前]
  > 民歌  
 
 
-# ***follow*** v  重难点词汇
+# *** *follow*** v  重难点词汇
 英音 'fɒləʊ     美音 'fɑːloʊ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5832,24 +5783,20 @@ folding /'fəʊldɪŋ/ adj [只用于名词前]
 
 固定搭配
 ---
-- as follows
-1.**如下：**  
+## - *as follows  **如下：**  
 
  > I decided on science as my main subject of study. The reasons are as follows.  
  > 我决定主修理科，理由如下。  
  > 来源：2012 安徽书面表达  
 
-- follow in sb's footsteps
-1.**效仿某人；步某人的后尘；继承某人的事业：**  
+## - *follow in sb's footsteps  **效仿某人；步某人的后尘；继承某人的事业：**  
 
  > He is a doctor and expects his son to follow in his footsteps.  
  > 他是名医生，期望儿子能继承他的事业。  
 
-- follow suit 
-1.**照着做；跟着做**  
+## - *follow suit   **照着做；跟着做**  
 
-- follow up 
-1.**追究；继续做：**  
+## - *follow up   **追究；继续做：**  
 
  > follow up a clue   
  > 追查线索  
@@ -5866,10 +5813,11 @@ follower /'fɒləʊə(r)/ n [C]
 ---
 ##### 题目  
 He hurried home, never once looking back to see if he________ (follow).  
+来源：2017 江苏改  
 ##### 答案 was being followed  
   
 
-# ***following*** adj
+# *** *following*** adj
 英音 'fɒləʊɪŋ     美音 'fɑːloʊɪŋ  
 
 | 词频 5 | 口语 1 | 书面 3 |  
@@ -5885,7 +5833,7 @@ He hurried home, never once looking back to see if he________ (follow).
  > 回答下列问题  
 
 
-# ***following*** n
+# *** *following*** n
 英音 'fɒləʊɪŋ     美音 'fɑːloʊɪŋ  
 
 | 词频 5 |  
@@ -5900,14 +5848,13 @@ He hurried home, never once looking back to see if he________ (follow).
 
 固定搭配
 ---
-- the following 
-1.**下列；如下：**  
+## - *the following   **下列；如下：**  
 
  > The following is about the BBC and some other broadcasting stations in Britain.  
  > 下面是关于BBC和其他一些英国广播电台的介绍。  
 
 
-# ***following*** prep
+# *** *following*** prep
 英音 'fɒləʊɪŋ     美音 'fɑːloʊɪŋ  
 
 | 词频 5 |  
@@ -5920,7 +5867,7 @@ He hurried home, never once looking back to see if he________ (follow).
  > 几场大雨过后，田地都被水淹了。  
 
 
-# ***fond*** adj
+# *** *fond*** adj
 英音 fɒnd     美音 fɑːnd  
 
 | 词频 4 |  
@@ -5950,7 +5897,7 @@ More and more young people are fond ________ playing tennis nowadays
 ##### 答案 of  
   
 
-# ***food*** n
+# *** *food*** n
 英音 fuːd     美音 fuːd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5976,7 +5923,7 @@ More and more young people are fond ________ playing tennis nowadays
  > 精神食粮  
 
 
-# ***fool*** n
+# *** *fool*** n
 英音 fuːl     美音 fuːl  
 
 | 词频 4 |  
@@ -5992,17 +5939,15 @@ More and more young people are fond ________ playing tennis nowadays
 
 固定搭配
 ---
-- make a fool of sb
-1.**愚弄某人：**  
+## - *make a fool of sb  **愚弄某人：**  
 
  > We were all made fools of by the salesman.  
  > 我们全都被推销员骗了。  
 
-- make a fool of oneself 
-1.**干蠢事；出洋相**  
+## - *make a fool of oneself   **干蠢事；出洋相**  
 
 
-# ***fool*** v
+# *** *fool*** v
 英音 fuːl     美音 fuːl  
 
 | 词频 4 |  
@@ -6024,14 +5969,13 @@ More and more young people are fond ________ playing tennis nowadays
  > It's time for you to stop fooling.  
  > 别再胡闹了。  
 
-- fool around / about
-1.**游手好闲；胡混：**  
+## - *fool around / about  **游手好闲；胡混：**  
 
  > Stop fooling around and get back to work.  
  > 你别再胡闹了！工作去吧！  
 
 
-# ***fool*** adj
+# *** *fool*** adj
 英音 fuːl     美音 fuːl  
 
 | 词频 4 |  
@@ -6041,7 +5985,7 @@ More and more young people are fond ________ playing tennis nowadays
 1.**傻的**  
 
 
-# ***foolish*** adj
+# *** *foolish*** adj
 英音 'fuːlɪʃ     美音 'fuːlɪʃ  
 
 | 词频 2 |  
@@ -6054,7 +5998,7 @@ More and more young people are fond ________ playing tennis nowadays
  > 你如此浪费时间，真是愚蠢。  
 
 
-# ***foolishly*** adv
+# *** *foolishly*** adv
 英音 'fuːlɪʃli     美音 'fuːlɪʃli  
 
 | 词频 1 |  
@@ -6074,7 +6018,7 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 ##### 答案 foolishly / stupidly  
   
 
-# ***foolishness*** n
+# *** *foolishness*** n
 英音 'fuːlɪʃnəs     美音 'fuːlɪʃnəs  
 
 | 词频 1 |  
@@ -6084,7 +6028,7 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 1.**愚蠢**  
 
 
-# ***foot*** n
+# *** *foot*** n
 英音 fʊt     美音 fʊt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6117,14 +6061,11 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 
 固定搭配
 ---
-- on foot 
-1.**步行**  
+## - *on foot   **步行**  
 
-- on one's feet
-1.**痊愈；(困境后) 恢复**  
+## - *on one's feet  **痊愈；(困境后) 恢复**  
 
-- set foot in / on 
-1.**进入；访问；参观：**  
+## - *set foot in / on   **进入；访问；参观：**  
 
  > He has never set foot in a library and he isn't about to do so today.  
  > 他从未去过图书馆，今天也不会去。  
@@ -6132,11 +6073,10 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
  > American Neil Armstrong became the first man to set foot on the moon.  
  > 美国人尼尔·阿姆斯特朗成为第一个登上月球的人。  
 
-- stand on one's own feet
-1.**独立自主**  
+## - *stand on one's own feet  **独立自主**  
 
 
-# ***football*** n
+# *** *football*** n
 英音 'fʊtbɔːl     美音 'fʊtbɔːl  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -6149,7 +6089,7 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
  > 踢足球  
 
 
-# ***footprint*** n
+# *** *footprint*** n
 英音 'fʊtprɪnt     美音 'fʊtprɪnt  
 
 | 词频 2 |  
@@ -6159,7 +6099,7 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 1.**脚印；足迹**  
 
 
-# ***footstep*** n
+# *** *footstep*** n
 英音 'fʊtstep     美音 'fʊtstep  
 
 | 词频 2 |  
@@ -6169,7 +6109,7 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 1.*高义频：* **[C] 脚步声**  
 
 
-# ***for*** prep
+# *** *for*** prep
 英音 fə(r)     美音 fər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6259,18 +6199,21 @@ Well, you've acted ________ (愚蠢地) and you will pay for it.
 ##### 题目  
 — Good morning, Mr. Lee's offi ce.
 — Good morning. I'd like to make an appointment________next Wednesday afternoon.  
+来源：2018 北京改  
 ##### 答案 for  
   
 ##### 题目  
 We have more time with after-school activities.  
+来源：2014 全国 改错  
 ##### 答案 with → for  
   
 ##### 题目  
 Nothing is so easy as ________ parents to raise their expectations of their children too high.  
+来源：2012 福建改  
 ##### 答案 for  
   
 
-# ***for*** conj
+# *** *for*** conj
 英音 fə(r)     美音 fər  
 
 | 词频 5 |  
@@ -6290,10 +6233,11 @@ Nothing is so easy as ________ parents to raise their expectations of their chil
 ---
 ##### 题目  
 I am not afraid of tomorrow, ________ I have seen yesterday and I love today.  
+来源：2016 北京改  
 ##### 答案 for / because  
   
 
-# ***forbid*** vt
+# *** *forbid*** vt
 英音 fə'bɪd     美音 fər'bɪd  
 
 | 词频 3 | 阅读 2 |  
@@ -6303,6 +6247,13 @@ I am not afraid of tomorrow, ________ I have seen yesterday and I love today.
 英文释义
 ---
 1.*高义频：* **禁止【反:allow / permit】；妨碍；阻止：**  
+
+ > Please note that food and fruit are forbidden in the library.  
+ > 请注意：图书馆内禁止吃食物和水果。  
+ > 来源：2013 天津  
+
+ > The American government forbids the sales of any alcohol to those under age 21.  
+ > 美国政府禁止向不满21岁的人售酒。  
 
 - forbid sb from doing sth:
 
@@ -6326,13 +6277,6 @@ I am not afraid of tomorrow, ________ I have seen yesterday and I love today.
  > My doctor has forbidden me sugar.   
  > 医生禁止我吃糖。  
 
- > Please note that food and fruit are forbidden in the library.  
- > 请注意：图书馆内禁止吃食物和水果。  
- > 来源：2013 天津  
-
- > The American government forbids the sales of any alcohol to those under age 21.  
- > 美国政府禁止向不满21岁的人售酒。  
-
 
 派生词汇
 ---
@@ -6345,7 +6289,7 @@ forbidden /fə'bɪdn/ adj
  > 紫禁城  
 
 
-# ***force*** n  重难点词汇
+# *** *force*** n  重难点词汇
 英音 fɔːs     美音 fɔːrs  
 
 | 词频 4 | 口语 1 | 书面 3 |  
@@ -6392,19 +6336,17 @@ forbidden /fə'bɪdn/ adj
 
 固定搭配
 ---
-- in force 
-1.**(法律等) 有效；在实施中：**  
+## - *in force   **(法律等) 有效；在实施中：**  
 
  > The new law will soon come in force.  
  > 新的法律将很快生效。  
 
-- join / combine forces (with)
-1.**(与…) 联合；(与…) 合作**  
+## - *join / combine forces (with)  **(与…) 联合；(与…) 合作**  
 
 ### 辨析 force, energy, strength, power
 四者都有“力”、“力量”之意，但具体意思不同。  
 
-# ***force*** vt  重难点词汇
+# *** *force*** vt  重难点词汇
 英音 fɔːs     美音 fɔːrs  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -6412,6 +6354,9 @@ forbidden /fə'bɪdn/ adj
 英文释义
 ---
 1.*高义频：* **强迫；迫使：**  
+
+ > They didn't force me — I wanted to go.  
+ > 他们没有强迫我，是我想去的。  
 
 - force sb / oneself to do sth:
 
@@ -6430,9 +6375,6 @@ forbidden /fə'bɪdn/ adj
  > Young people are being forced into earning money before finishing their education.  
  > 年轻人被迫在完成学业之前出去赚钱。  
  > 来源：2015 全国  
-
- > They didn't force me — I wanted to go.  
- > 他们没有强迫我，是我想去的。  
 
 2.*低义频：* **强行；强加：**  
 
@@ -6455,7 +6397,7 @@ forceful  /'fɔːsfl/ adj
  > 有说服力的演讲  
 
 
-# ***forecast*** vt
+# *** *forecast*** vt
 英音 'fɔːkɑːst     美音 'fɔːrkæst  
 
 | 词频 2 |  
@@ -6470,7 +6412,7 @@ forceful  /'fɔːsfl/ adj
  > 谁能预言未来？  
 
 
-# ***forecast*** n
+# *** *forecast*** n
 英音 'fɔːkɑːst     美音 'fɔːrkæst  
 
 | 词频 2 |  
@@ -6484,7 +6426,7 @@ forceful  /'fɔːsfl/ adj
  > 天气预报  
 
 
-# ***foreground*** n
+# *** *foreground*** n
 英音 'fɔːɡraʊnd     美音 'fɔːɡraʊnd  
 
 | 词频 1 |  
@@ -6494,7 +6436,7 @@ forceful  /'fɔːsfl/ adj
 1.**（图片或照片的）前景**  
 
 
-# ***forehead*** n
+# *** *forehead*** n
 英音 'fɔːhed,'fɒrɪd     美音 'fɔːrhed,'fɔːred  
 
 | 词频 1 |  
@@ -6504,7 +6446,7 @@ forceful  /'fɔːsfl/ adj
 1.*高义频：* **[C] 额；前额**  
 
 
-# ***foreign*** adj
+# *** *foreign*** adj
 英音 'fɒrən     美音 'fɔːrən  
 
 | 词频 5 | 口语 1 | 书面 3 |  
@@ -6521,10 +6463,11 @@ forceful  /'fɔːsfl/ adj
 ---
 ##### 题目  
 Do you speak any________ (外国) languages?  
+来源：2012 全国  
 ##### 答案 foreign  
   
 
-# ***foreigner*** n
+# *** *foreigner*** n
 英音 'fɒrənə(r)     美音 'fɔːrənər  
 
 | 词频 3 |  
@@ -6534,7 +6477,7 @@ Do you speak any________ (外国) languages?
 1.*高义频：* **[C] 外国人**  
 
 
-# ***foresee*** vt
+# *** *foresee*** vt
 英音 fɔː'siː     美音 fɔːr'siː  
 
 | 词频 1 |  
@@ -6549,7 +6492,7 @@ Do you speak any________ (外国) languages?
  > 预见未来  
 
 
-# ***forest*** n
+# *** *forest*** n
 英音 'fɒrɪst     美音 'fɔːrɪst  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -6562,7 +6505,7 @@ Do you speak any________ (外国) languages?
  > 英格兰大多数原始森林都被砍伐光了。  
 
 
-# ***forever*** adv
+# *** *forever*** adv
 英音 fər'evə(r)     美音 fər'evər  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -6578,7 +6521,7 @@ Do you speak any________ (外国) languages?
  > 她总是喋喋不休。  
 
 
-# ***forget*** v  重难点词汇
+# *** *forget*** v  重难点词汇
 英音 fə'ɡet     美音 fər'ɡet  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6588,6 +6531,18 @@ Do you speak any________ (外国) languages?
 英文释义
 ---
 1.*高义频：* **忘记；遗忘：**  
+
+ > **forget about**  
+ > forget about the key   
+ > 忘记带钥匙  
+
+ > Young people should never forget that good health is an important part of happiness.  
+ > 年轻人应该牢记健康是幸福的重要组成部分。  
+ > 来源：译林⑥ – 2  
+
+ > **before you forget it**  
+ > You'd better write down her phone number before you forget it.  
+ > 你最好把她的电话号码记下来，以免忘记。  
 
 - forget doing sth 忘记做过某事：
 
@@ -6607,18 +6562,6 @@ Do you speak any________ (外国) languages?
  > 我永远不会忘记那次经历给我的真正教训。  
  > 来源：2014 天津  
 
- > **forget about**  
- > forget about the key   
- > 忘记带钥匙  
-
- > Young people should never forget that good health is an important part of happiness.  
- > 年轻人应该牢记健康是幸福的重要组成部分。  
- > 来源：译林⑥ – 2  
-
- > **before you forget it**  
- > You'd better write down her phone number before you forget it.  
- > 你最好把她的电话号码记下来，以免忘记。  
-
 ### 辨析 forget, leave
   
 2.*高义频：* **不再想；不再把...放在心上：**  
@@ -6633,8 +6576,7 @@ Do you speak any________ (外国) languages?
 
 固定搭配
 ---
-- forget it
-1.*高义频：* **没关系；不必在意：**  
+## - *forget it  1.*高义频：* **没关系；不必在意：**  
 
  > — Sorry, Liz. I think I was a bit rude to you.  
  > 很抱歉，利兹，我想我刚才对你有些无礼。  
@@ -6669,10 +6611,11 @@ A.forget it
 B.my pleasure  
 C.help yourself  
 D.pardon me  
+来源：2014 全国  
 ##### 答案 A  
   
 
-# ***forgetful*** adj
+# *** *forgetful*** adj
 英音 fə'ɡetfl     美音 fər'ɡetfl  
 
 | 词频 1 |  
@@ -6689,7 +6632,7 @@ D.pardon me
  > 不顾及别人  
 
 
-# ***forgive*** vt
+# *** *forgive*** vt
 英音 fə'ɡɪv     美音 fər'ɡɪv  
 
 | 词频 4 | 口语 1 |  
@@ -6717,8 +6660,7 @@ D.pardon me
 
 固定搭配
 ---
-- forgive and forget 
-1.**不念旧恶；不记仇：**  
+## - *forgive and forget   **不念旧恶；不记仇：**  
 
  > It is a virtue to forgive and forget, especially in such a competitive and stressful society.  
  > 不记仇是一种美德，特别是在这样一个竞争激烈、有压力的社会中。  
@@ -6729,10 +6671,11 @@ D.pardon me
 ---
 ##### 题目  
 One of my favourite sayings is "Understand all and ________ (宽恕) all."  
+来源：2007 陕西  
 ##### 答案 forgive  
   
 
-# ***fork*** n
+# *** *fork*** n
 英音 fɔːk     美音 fɔːrk  
 
 | 词频 2 | 口语 1 |  
@@ -6746,7 +6689,7 @@ One of my favourite sayings is "Understand all and ________ (宽恕) all."
  > 刀叉  
 
 
-# ***form*** n  重难点词汇
+# *** *form*** n  重难点词汇
 英音 fɔːm     美音 fɔːrm  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6804,10 +6747,11 @@ One of my favourite sayings is "Understand all and ________ (宽恕) all."
 ---
 ##### 题目  
 You'd sound a lot more polite if you make a request ________ (以…形式) a question.  
+来源：2009 湖北改  
 ##### 答案 in the form of  
   
 
-# ***form*** v  重难点词汇
+# *** *form*** v  重难点词汇
 英音 fɔːm     美音 fɔːrm  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -6857,7 +6801,7 @@ formation /fɔː'meɪʃn/ n [U] & [C]
  > 理解大量新词的一个方法是掌握好基本的构词法。  
 
 
-# ***formal*** adj
+# *** *formal*** adj
 英音 'fɔːml     美音 'fɔːrml  
 
 | 词频 3 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -6886,7 +6830,7 @@ formation /fɔː'meɪʃn/ n [U] & [C]
 ---
 formally  /'fɔːməli/ adv 正式地；形式上  
 
-# ***format*** n
+# *** *format*** n
 英音 'fɔːmæt     美音 'fɔːrmæt  
 
 | 词频 1 | 书面 1 | 阅读 1 |  
@@ -6899,7 +6843,7 @@ formally  /'fɔːməli/ adv 正式地；形式上
  > 他们已用新的版式出版这本杂志。  
 
 
-# ***format*** vt
+# *** *format*** vt
 英音 'fɔːmæt     美音 'fɔːrmæt  
 
 | 词频 1 | 阅读 1 |  
@@ -6909,7 +6853,7 @@ formally  /'fɔːməli/ adv 正式地；形式上
 1.*高义频：* **(书刊等) 安排版式；格式化 (磁盘)**  
 
 
-# ***formation*** n
+# *** *formation*** n
 英音 fɔː'meɪʃn     美音 fɔːr'meɪʃn  
 
 | 词频 1 | 书面 1 |  
@@ -6925,7 +6869,7 @@ formally  /'fɔːməli/ adv 正式地；形式上
  > 理解大量新词的一个方法是掌握好基本的构词法。  
 
 
-# ***former*** adj
+# *** *former*** adj
 英音 'fɔːmə(r)     美音 'fɔːrmər  
 
 | 词频 3 | 口语 2 | 书面 3 |  
@@ -6961,10 +6905,11 @@ formerly /'fɔːməli/ adv
 ---
 ##### 题目  
 Most of us, if we know even a little about where our food comes from, understand that every bite put into our  _______ (former) alive.  
+来源：2015 浙江改  
 ##### 答案 formerly  
   
 
-# ***formula*** n
+# *** *formula*** n
 英音 'fɔːmjələ     美音 'fɔːrmjələ  
 
 | 词频 1 | 书面 1 |  
@@ -6986,7 +6931,7 @@ Most of us, if we know even a little about where our food comes from, understand
  > 成功没有法宝。  
 
 
-# ***forth*** adv
+# *** *forth*** adv
 英音 fɔːθ     美音 fɔːrθ  
 
 | 词频 3 | 口语 2 |  
@@ -7005,11 +6950,10 @@ Most of us, if we know even a little about where our food comes from, understand
 
 固定搭配
 ---
-- and so forth / and so on (and so forth) 
-1.**等等**  
+## - *and so forth / and so on (and so forth)   **等等**  
 
 
-# ***fortnight*** n
+# *** *fortnight*** n
 英音 'fɔːtnaɪt     美音 'fɔːrtnaɪt  
 
 | 词频 1 | 口语 1 |  
@@ -7026,10 +6970,11 @@ Most of us, if we know even a little about where our food comes from, understand
 ---
 ##### 题目  
 I hope to be back in a________ (两星期).  
+来源：2010全国  
 ##### 答案 fortnight  
   
 
-# ***fortunate*** adj
+# *** *fortunate*** adj
 英音 'fɔːtʃənət     美音 'fɔːrtʃənət  
 
 | 词频 2 | 口语 1 |  
@@ -7038,6 +6983,12 @@ I hope to be back in a________ (两星期).
 ---
 1.*高义频：* **幸运的；吉利的 (lucky)：**  
 反义词 unfortunate / unlucky 
+
+ > a fortunate event   
+ > 吉利事  
+
+ > Red is a fortunate colour in Chinese culture.  
+ > 在中国文化中，红色是喜庆的颜色。  
 
 - (be) fortunate to do sth:
 
@@ -7056,14 +7007,8 @@ I hope to be back in a________ (两星期).
  > It was fortunate that the lost painting was recovered.  
  > 幸运的是遗失的画被找回来了。  
 
- > a fortunate event   
- > 吉利事  
 
- > Red is a fortunate colour in Chinese culture.  
- > 在中国文化中，红色是喜庆的颜色。  
-
-
-# ***fortunately*** adv
+# *** *fortunately*** adv
 英音 'fɔːtʃənətli     美音 'fɔːrtʃənətli  
 
 | 词频 3 |  
@@ -7080,7 +7025,7 @@ I hope to be back in a________ (两星期).
  > 我去火车站晚了，但幸运的是，火车恰好也晚点了。  
 
 
-# ***fortune*** n
+# *** *fortune*** n
 英音 'fɔːtʃuːn     美音 'fɔːrtʃən  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -7130,7 +7075,7 @@ I hope to be back in a________ (两星期).
  > 来源：译林⑧ – 1  
 
 
-# ***forum*** n
+# *** *forum*** n
 英音 'fɔːrəm     美音 'fɔːrəm  
 
   
@@ -7140,7 +7085,7 @@ I hope to be back in a________ (两星期).
 1.**（因特网上的）论坛，讨论区**  
 
 
-# ***forward*** adj
+# *** *forward*** adj
 英音 'fɔːwəd     美音 'fɔːrwərd  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -7157,7 +7102,7 @@ I hope to be back in a________ (两星期).
  > 他在工作和学习上都是佼佼者。  
 
 
-# ***forward*** adv
+# *** *forward*** adv
 英音 'fɔːwəd     美音 'fɔːrwərd  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -7170,7 +7115,7 @@ I hope to be back in a________ (两星期).
  > 他跑上前来取他的东西。  
 
 
-# ***forward*** n
+# *** *forward*** n
 英音 'fɔːwəd     美音 'fɔːrwərd  
 
 | 词频 4 |  
@@ -7184,7 +7129,7 @@ I hope to be back in a________ (两星期).
  > 毫无疑问，罗纳尔多被公认为最出色的足球前锋之一。  
 
 
-# ***forward*** vt
+# *** *forward*** vt
 英音 'fɔːwəd     美音 'fɔːrwərd  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -7203,7 +7148,7 @@ I hope to be back in a________ (两星期).
  > 来源：2008 江苏  
 
 
-# ***fossil*** n
+# *** *fossil*** n
 英音 'fɒsl     美音 'fɑːsl  
 
 | 词频 3 | 阅读 2 |  
@@ -7220,7 +7165,7 @@ I hope to be back in a________ (两星期).
  > 我们的文学老师是个老顽固。  
 
 
-# ***foster*** vt
+# *** *foster*** vt
 英音 'fɒstə(r)     美音 'fɔːstər  
 
 | 词频 1 | 阅读 1 |  
@@ -7239,7 +7184,7 @@ I hope to be back in a________ (两星期).
 2.*低义频：* **(在一定时间内) 养育；代养 (别人的孩子)**  
 
 
-# ***foster*** adj
+# *** *foster*** adj
 英音 'fɒstə(r)     美音 'fɔːstər  
 
 | 词频 1 | 阅读 1 |  
@@ -7252,7 +7197,7 @@ I hope to be back in a________ (两星期).
  > 养父/养母/养子  
 
 
-# ***foul*** n
+# *** *foul*** n
 英音 faʊl     美音 faʊl  
 
 | 词频 1 |  
@@ -7262,7 +7207,7 @@ I hope to be back in a________ (两星期).
 1.**（运动比赛中的）犯规动作**  
 
 
-# ***found*** vt
+# *** *found*** vt
 英音 faʊnd     美音 faʊnd  
 
 | 词频 3 | 阅读 3 |  
@@ -7298,7 +7243,7 @@ I hope to be back in a________ (两星期).
 ---
 founder /'faʊndə(r)/ n   
 
-# ***foundation*** n
+# *** *foundation*** n
 英音 faʊn'deɪʃn     美音 faʊn'deɪʃn  
 
 | 词频 3 | 书面 2 | 阅读 3 |  
@@ -7330,7 +7275,7 @@ founder /'faʊndə(r)/ n
  > 中国少年儿童基金会  
 
 
-# ***fountain*** n
+# *** *fountain*** n
 英音 'faʊntən     美音 'faʊntn  
 
 | 词频 2 |  
@@ -7347,7 +7292,7 @@ founder /'faʊndə(r)/ n
  > 古希腊是智慧和哲学的发源地。  
 
 
-# ***fountain*** v
+# *** *fountain*** v
 英音 'faʊntən     美音 fountain  
 
 | 词频 2 |  
@@ -7361,7 +7306,7 @@ founder /'faʊndə(r)/ n
  > 来源：人教⑥ – 5  
 
 
-# ***fox*** n
+# *** *fox*** n
 英音 fɒks     美音 fɑːks  
 
 | 词频 2 |  
@@ -7374,7 +7319,7 @@ founder /'faʊndə(r)/ n
  > 狐狸可以变老，却永远不会变好。/江山易改，本性难移。  
 
 
-# ***fragile*** adj
+# *** *fragile*** adj
 英音 'frædʒaɪl     美音 'frædʒl  
 
 | 词频 1 |  
@@ -7396,7 +7341,7 @@ founder /'faʊndə(r)/ n
  > 这位老太太看起来很虚弱。  
 
 
-# ***fragrant*** adj
+# *** *fragrant*** adj
 英音 'freɪɡrənt     美音 'freɪɡrənt  
 
 | 词频 1 |  
@@ -7409,7 +7354,7 @@ founder /'faʊndə(r)/ n
  > 香花  
 
 
-# ***frame*** n
+# *** *frame*** n
 英音 freɪm     美音 freɪm  
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 1 |  
@@ -7425,7 +7370,7 @@ founder /'faʊndə(r)/ n
  > 社会结构  
 
 
-# ***framework*** n
+# *** *framework*** n
 英音 'freɪmwɜːk     美音 'freɪmwɜːrk  
 
 | 词频 1 | 书面 1 |  
@@ -7439,7 +7384,7 @@ founder /'faʊndə(r)/ n
  > 这座跨江大桥是钢结构的。  
 
 
-# ***franc*** n
+# *** *franc*** n
 英音 fræŋk     美音 fræŋk  
 
 | 词频 1 |  
@@ -7449,7 +7394,7 @@ founder /'faʊndə(r)/ n
 1.*高义频：* **[C] 法郎**  
 
 
-# ***frankly*** adv
+# *** *frankly*** adv
 英音 'fræŋkli     美音 'fræŋkli  
 
 | 词频 1 | 口语 1 |  
@@ -7462,7 +7407,7 @@ founder /'faʊndə(r)/ n
  > 坦率地说  
 
 
-# ***free*** adj
+# *** *free*** adj
 英音 friː     美音 friː  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -7471,18 +7416,18 @@ founder /'faʊndə(r)/ n
 ---
 1.*高义频：* **自由的；无约束的；随心所欲的：**  
 
-- (be) free to do sth:
-
- > You should feel free to call or visit me.  
- > 你可以随时给我打电话或者来找我。  
- > 来源：2009 全国  
-
  > Men are born free.   
  > 人人生而自由。  
 
  > **free choice**  
  > You have a free choice.   
  > 你可以自由选择。  
+
+- (be) free to do sth:
+
+ > You should feel free to call or visit me.  
+ > 你可以随时给我打电话或者来找我。  
+ > 来源：2009 全国  
 
 2.*高义频：* **空闲的；(房屋等) 空余的：**  
 
@@ -7515,14 +7460,12 @@ Notes: free常与名词构成合成词，意为“不含…的”、 “无…�
 
 固定搭配
 ---
-- for free 
-1.**免费：**  
+## - *for free   **免费：**  
 
  > I worked for free for a non-profit organization.  
  > 我曾无偿为一个非营利性组织工作过。  
 
-- free from
-1.**不受…影响的；没有…的：**  
+## - *free from  **不受…影响的；没有…的：**  
 
  > (be) free from work / duty   
  > 不工作/不值班  
@@ -7534,14 +7477,12 @@ Notes: free常与名词构成合成词，意为“不含…的”、 “无…�
  > 雨季最令人愉快的是可以完全没有尘土。  
  > 来源：2016 北京  
 
-- free of 
-1.**无…的；摆脱了…的：**  
+## - *free of   **无…的；摆脱了…的：**  
 
  > It was several weeks before he was completely free of pain.  
  > 过了几星期他的疼痛才完全消除。  
 
-- set … free
-1.**使获得自由；释放：**  
+## - *set … free  **使获得自由；释放：**  
 
  > The bird was set free.  
  > 鸟儿重新获得了自由。  
@@ -7550,7 +7491,7 @@ Notes: free常与名词构成合成词，意为“不含…的”、 “无…�
  > 展望未来时要尽情想象。  
 
 
-# ***free*** adv
+# *** *free*** adv
 英音 friː     美音 friː  
 
 | 词频 5 |  
@@ -7565,7 +7506,7 @@ Notes: free常与名词构成合成词，意为“不含…的”、 “无…�
  > 儿童免费入场。  
 
 
-# ***free*** vt
+# *** *free*** vt
 英音 friː     美音 friː  
 
 | 词频 5 | 口语 1 | 书面 1 |  
@@ -7597,10 +7538,11 @@ Notes: free常与名词构成合成词，意为“不含…的”、 “无…�
 ---
 ##### 题目  
 I felt my parents couldn't understand me so I hoped I could be freely from them.  
+来源：2016 全国 改错  
 ##### 答案 freely → free  
   
 
-# ***freedom*** n
+# *** *freedom*** n
 英音 'friːdəm     美音 'friːdəm  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -7617,7 +7559,7 @@ I felt my parents couldn't understand me so I hoped I could be freely from them.
  > 如今的年轻人赚钱更多，也有更多的自由选择自己想住的地方。  
 
 
-# ***freely*** adv
+# *** *freely*** adv
 英音 'friːli     美音 'friːli  
 
 | 词频 4 |  
@@ -7647,7 +7589,7 @@ I felt my parents couldn't understand me so I hoped I could be freely from them.
  > 她慷慨捐献善款。  
 
 
-# ***freeway*** n
+# *** *freeway*** n
 英音 'friːweɪ     美音 'friːweɪ  
 
 | 词频 1 | 口语 2 | 书面 1 |  
@@ -7657,7 +7599,7 @@ I felt my parents couldn't understand me so I hoped I could be freely from them.
 1.*高义频：* **[C] 高速公路；高速干道**  
 
 
-# ***freeze*** v
+# *** *freeze*** v
 英音 friːz     美音 friːz  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -7724,7 +7666,7 @@ frozen /'frəʊzn/ adj
  > 来源：2014 陕西改  
 
 
-# ***freezer*** n
+# *** *freezer*** n
 英音 'friːzə(r)     美音 'friːzər  
 
 | 词频 1 |  
@@ -7734,7 +7676,7 @@ frozen /'frəʊzn/ adj
 1.**冰箱**  
 
 
-# ***freezing*** adj
+# *** *freezing*** adj
 英音 'friːzɪŋ     美音 'friːzɪŋ  
 
 | 词频 3 |  
@@ -7749,7 +7691,7 @@ frozen /'frəʊzn/ adj
  > 冰点  
 
 
-# ***freezing*** n
+# *** *freezing*** n
 英音 'friːzɪŋ     美音 'friːzɪŋ  
 
 | 词频 3 |  
@@ -7763,7 +7705,7 @@ frozen /'frəʊzn/ adj
  > 在冰点以上/以下  
 
 
-# ***freezing*** adv
+# *** *freezing*** adv
 英音 'friːzɪŋ     美音 'friːzɪŋ  
 
 | 词频 3 |  
@@ -7776,7 +7718,7 @@ frozen /'frəʊzn/ adj
  > 非常冷的  
 
 
-# ***frequency*** n
+# *** *frequency*** n
 英音 'friːkwənsi     美音 'friːkwənsi  
 
 | 词频 2 |  
@@ -7786,7 +7728,7 @@ frozen /'frəʊzn/ adj
 1.**频繁；发生率**  
 
 
-# ***frequent*** adj
+# *** *frequent*** adj
 英音 'friːkwənt     美音 'friːkwənt  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -7808,10 +7750,11 @@ frozen /'frəʊzn/ adj
 ---
 ##### 题目  
 Drunk driving, which was once a ________ (经常的) occurrence, is now under control.  
+来源：2010 福建改  
 ##### 答案 frequent  
   
 
-# ***frequently*** adv
+# *** *frequently*** adv
 英音 'friːkwəntli     美音 'friːkwəntli  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -7830,7 +7773,7 @@ Drunk driving, which was once a ________ (经常的) occurrence, is now under co
  > 来源：2014 江西书面表达改  
 
 
-# ***fresh*** adj
+# *** *fresh*** adj
 英音 freʃ     美音 freʃ  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -7884,7 +7827,7 @@ Drunk driving, which was once a ________ (经常的) occurrence, is now under co
 freshly /'freʃli/ adv   
 freshness /freʃnəs/ n [U]  
 
-# ***freshman*** n
+# *** *freshman*** n
 英音 'freʃmən     美音 'freʃmən  
 
 | 词频 1 |  
@@ -7894,7 +7837,7 @@ freshness /freʃnəs/ n [U]
 1.**(especially NAmE) （中学）九年级学生；（大学）一年级新生**  
 
 
-# ***friction*** n
+# *** *friction*** n
 英音 'frɪkʃn     美音 'frɪkʃn  
 
 | 词频 1 |  
@@ -7914,7 +7857,7 @@ freshness /freʃnəs/ n [U]
  > 贸易摩擦  
 
 
-# ***fridge*** n
+# *** *fridge*** n
 英音 frɪdʒ     美音 frɪdʒ  
 
 | 词频 2 | 口语 2 |  
@@ -7924,7 +7867,7 @@ freshness /freʃnəs/ n [U]
 1.*高义频：* **[C] 冰箱 (AmE refrigerator)**  
 
 
-# ***friend*** n
+# *** *friend*** n
 英音 frend     美音 frend  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -7940,17 +7883,14 @@ freshness /freʃnəs/ n [U]
 
 固定搭配
 ---
-- be / make friends (with) 
-1.**(与…) 交朋友**  
+## - *be / make friends (with)   **(与…) 交朋友**  
 
-- keep friends with 
-1.**与…保持友好关系**  
+## - *keep friends with   **与…保持友好关系**  
 
-- make friends again 
-1.**言归于好；重修旧好**  
+## - *make friends again   **言归于好；重修旧好**  
 
 
-# ***friendly*** adj
+# *** *friendly*** adj
 英音 'frendli     美音 'frendli  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -7982,6 +7922,7 @@ freshness /freʃnəs/ n [U]
 ---
 ##### 题目  
 In spite of repeated wrongs done to him, he looks ________ (friend) to people greeting him.  
+来源：2008 福建改  
 ##### 答案 friendly  
   
 ##### 题目  
@@ -7989,7 +7930,7 @@ Green products are becoming more and more popular because they are________ (环�
 ##### 答案 environmentally friendly  
   
 
-# ***friendship*** n
+# *** *friendship*** n
 英音 'frendʃɪp     美音 'frendʃɪp  
 
 | 词频 4 | 书面 1 |  
@@ -8011,7 +7952,7 @@ Green products are becoming more and more popular because they are________ (环�
  > 真正的友谊不是用眼睛看到的，而是用心体验的。  
 
 
-# ***fright*** n
+# *** *fright*** n
 英音 fraɪt     美音 fraɪt  
 
 | 词频 2 |  
@@ -8021,7 +7962,7 @@ Green products are becoming more and more popular because they are________ (环�
 1.**恐惧；害怕**  
 
 
-# ***frighten*** v
+# *** *frighten*** v
 英音 'fraɪtn     美音 'fraɪtn  
 
 | 词频 2 |  
@@ -8040,8 +7981,7 @@ Green products are becoming more and more popular because they are________ (环�
 
 固定搭配
 ---
-- frighten away / off 
-1.**把…吓跑：**  
+## - *frighten away / off   **把…吓跑：**  
 
  > The dog frightened the thief away.   
  > 狗把小偷吓跑了。  
@@ -8049,15 +7989,14 @@ Green products are becoming more and more popular because they are________ (环�
  > The children's shouts frightened off the birds.  
  > 孩子们的叫喊声把鸟儿吓飞了。  
 
-- frighten sb to death / frighten the life out of sb
-1.**把某人吓得要命：**  
+## - *frighten sb to death / frighten the life out of sb  **把某人吓得要命：**  
 
  > Spiders frighten her to death. / Spiders frighten the life out of her.  
  > 蜘蛛把她吓得要死。  
 
 Notes: frighten用法及意义同scare，但比scare稍正式。  
 
-# ***frightened*** adj
+# *** *frightened*** adj
 英音 'fraɪtnd     美音 'fraɪtnd  
 
 | 词频 4 | 口语 1 |  
@@ -8065,6 +8004,12 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 英文释义
 ---
 1.*高义频：* **受惊的；害怕的：**  
+
+ > Frightened children were calling for their mothers.  
+ > 受到惊吓的孩子们呼喊着找妈妈。  
+
+ > Don't be frightened. We're not going to hurt you.  
+ > 别害怕，我们不会伤害你的。  
 
 - be frightened of (doing) sth:
 
@@ -8074,14 +8019,8 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > I'm frightened of walking home alone at midnight.  
  > 我害怕深更半夜独自走回家。  
 
- > Frightened children were calling for their mothers.  
- > 受到惊吓的孩子们呼喊着找妈妈。  
 
- > Don't be frightened. We're not going to hurt you.  
- > 别害怕，我们不会伤害你的。  
-
-
-# ***frightening*** adj
+# *** *frightening*** adj
 英音 'fraɪtnɪŋ     美音 'fraɪtnɪŋ  
 
 | 词频 3 |  
@@ -8097,7 +8036,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 对孩子来说上医院可能很可怕。  
 
 
-# ***frog*** n
+# *** *frog*** n
 英音 frɒɡ     美音 frɔːɡ  
 
 | 词频 3 |  
@@ -8107,7 +8046,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 1.*高义频：* **[C] 蛙；青蛙**  
 
 
-# ***from*** prep
+# *** *from*** prep
 英音 frəm     美音 frəm  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -8161,10 +8100,11 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 ---
 ##### 题目  
 Shirley, a real book lover, often brings home many books to read ________ the library.  
+来源：2011 重庆改  
 ##### 答案 from  
   
 
-# ***front*** n
+# *** *front*** n
 英音 frʌnt     美音 frʌnt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -8197,8 +8137,7 @@ Shirley, a real book lover, often brings home many books to read ________ the li
 
 固定搭配
 ---
-- in front (of)
-1.**在 (…) 前面；在 (…) 面前：**  
+## - *in front (of)  **在 (…) 前面；在 (…) 面前：**  
 
  > He drove straight into the car in front.  
  > 他一下子撞上了前面的车。  
@@ -8210,8 +8149,7 @@ Shirley, a real book lover, often brings home many books to read ________ the li
  > 我们应该勇敢面对困难。  
  > 来源：2008 辽宁书面表达  
 
-- in the front (of) 
-1.**在 (…内的) 前部：**  
+## - *in the front (of)   **在 (…内的) 前部：**  
 
  > The seat in the front is free.   
  > 前面的座位没人坐。  
@@ -8221,7 +8159,7 @@ Shirley, a real book lover, often brings home many books to read ________ the li
 
 Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物内的前部。  
 
-# ***front*** adj
+# *** *front*** adj
 英音 frʌnt     美音 frʌnt  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -8235,7 +8173,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 我们坐在前排。  
 
 
-# ***frontier*** n
+# *** *frontier*** n
 英音 'frʌntɪə(r)     美音 frʌn'tɪr  
 
 | 词频 1 |  
@@ -8258,7 +8196,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 来源：外研⑧ – 2  
 
 
-# ***frost*** n
+# *** *frost*** n
 英音 frɒst     美音 frɔːst  
 
 | 词频 1 |  
@@ -8272,7 +8210,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 窗户的玻璃上结了一层厚厚的霜。  
 
 
-# ***frown*** vi
+# *** *frown*** vi
 英音 fraʊn     美音 fraʊn  
 
 | 词频 1 |  
@@ -8282,7 +8220,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
 1.*高义频：* **皱眉；蹙额**  
 
 
-# ***fruit*** n
+# *** *fruit*** n
 英音 fruːt     美音 fruːt  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -8315,15 +8253,14 @@ Notes: fruits表示“各种水果”。
 
 固定搭配
 ---
-- bear fruit 
-1.**(树等) 结果；(计划等) 成功**  
+## - *bear fruit   **(树等) 结果；(计划等) 成功**  
 
  > A plan can bear no fruit without being actually carried out.  
  > 一项计划若不真正付诸实施，就会毫无结果。  
  > 来源：2016 浙江书面表达  
 
 
-# ***frustration*** n
+# *** *frustration*** n
 英音 frʌ'streɪʃn     美音 frʌ'streɪʃn  
 
 | 词频 1 |  
@@ -8335,7 +8272,7 @@ Notes: fruits表示“各种水果”。
 2.**[C] 令人懊丧 / 懊恼的事物**  
 
 
-# ***fry*** v
+# *** *fry*** v
 英音 fraɪ     美音 fraɪ  
 
 | 词频 3 | 口语 1 |  
@@ -8351,7 +8288,7 @@ Notes: fruits表示“各种水果”。
  > 不要高兴得太早。  
 
 
-# ***fuel*** n
+# *** *fuel*** n
 英音 'fjuːəl     美音 'fjuːəl  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -8372,10 +8309,11 @@ Notes: fruits表示“各种水果”。
 ---
 ##### 题目  
 Most air pollution is caused by the burning of ________ (燃料) like coal, gas and oil.  
+来源：2008 天津改  
 ##### 答案 fuel(s)  
   
 
-# ***fuel*** v
+# *** *fuel*** v
 英音 'fjuːəl     美音 'fjuːəl  
 
 | 词频 4 |  
@@ -8395,7 +8333,7 @@ Most air pollution is caused by the burning of ________ (燃料) like coal, gas 
  > 来源：2015 全国  
 
 
-# ***fulfil(l)*** vt
+# *** *fulfil(l)*** vt
 英音 fʊl'fɪl     美音 fʊl'fɪl  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -8417,7 +8355,7 @@ Most air pollution is caused by the burning of ________ (燃料) like coal, gas 
  > 实现梦想/抱负  
 
 
-# ***fulfilling*** adj
+# *** *fulfilling*** adj
 英音 fʊl'fɪlɪŋ     美音 fʊl'fɪlɪŋ  
 
 | 词频 1 |  
@@ -8427,7 +8365,7 @@ Most air pollution is caused by the burning of ________ (燃料) like coal, gas 
 1.*高义频：* **令人满意的；令人愉快的**  
 
 
-# ***full*** adj
+# *** *full*** adj
 英音 fʊl     美音 fʊl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -8470,8 +8408,7 @@ Most air pollution is caused by the burning of ________ (燃料) like coal, gas 
 
 固定搭配
 ---
-- (be) full of 
-1.**充满…的；富于…的：**  
+## - *(be) full of   **充满…的；富于…的：**  
 
  > He was a man full of imagination.  
  > 他是个想象力丰富的人。  
@@ -8481,11 +8418,9 @@ Most air pollution is caused by the burning of ________ (燃料) like coal, gas 
  > 公园里充满了春天的生机和美丽，阳光明媚、鸟鸣婉转。  
  > 来源：2012 福建  
 
-- in full 
-1.**全部地**  
+## - *in full   **全部地**  
 
-- to the full / fullest 
-1.**充分地；尽可能地：**  
+## - *to the full / fullest   **充分地；尽可能地：**  
 
  > I've always believed in living life to the full.  
  > 我一直相信要尽可能地充实自己的生活。  
@@ -8494,7 +8429,7 @@ Most air pollution is caused by the burning of ________ (燃料) like coal, gas 
  > 充分利用你的空闲时间很重要。  
 
 
-# ***full-length*** adj
+# *** *full-length*** adj
 英音 ˌfʊl'leŋθ     美音 ˌfʊl'leŋθ  
 
 | 词频 1 |  
@@ -8504,7 +8439,7 @@ Most air pollution is caused by the burning of ________ (燃料) like coal, gas 
 1.**足本的；全身的**  
 
 
-# ***fully*** adv
+# *** *fully*** adv
 英音 'fʊli     美音 'fʊli  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -8531,7 +8466,7 @@ Most air pollution is caused by the burning of ________ (燃料) like coal, gas 
  > 这个行程要花整整两个小时。  
 
 
-# ***fun*** n
+# *** *fun*** n
 英音 fʌn     美音 fʌn  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -8558,8 +8493,7 @@ Most air pollution is caused by the burning of ________ (燃料) like coal, gas 
 
 固定搭配
 ---
-- for fun 
-1.**为了玩乐：**  
+## - *for fun   **为了玩乐：**  
 
  > I'll do some reading for fun, and for knowledge as well.  
  > 我会读些书，为了消遣，也为了获取知识。  
@@ -8568,20 +8502,17 @@ Most air pollution is caused by the burning of ________ (燃料) like coal, gas 
  > 各大洲的人们都踢足球，一些人为了消遣，一些人为了生存。  
  > 来源：2010 天津  
 
-- in fun
-1.**闹着玩地：**  
+## - *in fun  **闹着玩地：**  
 
  > I am not saying it in fun.   
  > 我讲这话不是开玩笑的。  
 
-- have fun 
-1.**作乐；玩乐：**  
+## - *have fun   **作乐；玩乐：**  
 
  > Have fun (= enjoy yourself)!  
  > 好好玩吧！  
 
-- make fun of 
-1.**取笑；拿…开玩笑：**  
+## - *make fun of   **取笑；拿…开玩笑：**  
 
  > Don't feel sorry for the disabled or make fun of them, and don't ignore them either.  
  > 不要感到残疾人可怜，或者取笑他们，也别不理睬他们。  
@@ -8595,7 +8526,7 @@ This is not a match. We're playing chess just ________ fun.
 ##### 答案 for  
   
 
-# ***fun*** adj
+# *** *fun*** adj
 英音 fʌn     美音 fʌn  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -8611,7 +8542,7 @@ This is not a match. We're playing chess just ________ fun.
  > 这里有许多供年轻人做的有趣的事情。  
 
 
-# ***function*** n
+# *** *function*** n
 英音 'fʌŋkʃn     美音 'fʌŋkʃn  
 
 | 词频 4 | 口语 1 | 书面 3 | 阅读 3 |  
@@ -8628,7 +8559,7 @@ This is not a match. We're playing chess just ________ fun.
  > 在新的工作岗位上，你将要履行许多不同的职责。  
 
 
-# ***function*** vi
+# *** *function*** vi
 英音 'fʌŋkʃn     美音 'fʌŋkʃn  
 
 | 词频 4 | 阅读 3 |  
@@ -8647,7 +8578,7 @@ This is not a match. We're playing chess just ________ fun.
  > 来源：译林⑦ – 4  
 
 
-# ***fund*** n
+# *** *fund*** n
 英音 fʌnd     美音 fʌnd  
 
 | 词频 3 | 口语 1 | 书面 3 |  
@@ -8676,7 +8607,7 @@ This is not a match. We're playing chess just ________ fun.
  > 联合国儿童基金会  
 
 
-# ***fund*** vt
+# *** *fund*** vt
 英音 fʌnd     美音 fʌnd  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -8689,7 +8620,7 @@ This is not a match. We're playing chess just ________ fun.
  > 政府资助的项目  
 
 
-# ***fundamental*** adj
+# *** *fundamental*** adj
 英音 ˌfʌndə'mentl     美音 ˌfʌndə'mentl  
 
 | 词频 1 | 书面 2 | 阅读 1 |  
@@ -8712,7 +8643,7 @@ This is not a match. We're playing chess just ________ fun.
  > 来源：外研⑧ – 2  
 
 
-# ***fundamental*** n
+# *** *fundamental*** n
 英音 ˌfʌndə'mentl     美音 ˌfʌndə'mentl  
 
 | 词频 1 | 阅读 1 |  
@@ -8725,7 +8656,7 @@ This is not a match. We're playing chess just ________ fun.
  > 数学基本原理  
 
 
-# ***funeral*** n
+# *** *funeral*** n
 英音 'fjuːnərəl     美音 'fjuːnərəl  
 
 | 词频 2 | 口语 1 |  
@@ -8739,7 +8670,7 @@ This is not a match. We're playing chess just ________ fun.
  > 参加葬礼  
 
 
-# ***funny*** adj
+# *** *funny*** adj
 英音 'fʌni     美音 'fʌni  
 
 | 词频 4 | 口语 3 | 书面 1 |  
@@ -8757,7 +8688,7 @@ This is not a match. We're playing chess just ________ fun.
  > 真是奇怪，事情总是出人意料。  
 
 
-# ***fur*** n
+# *** *fur*** n
 英音 fɜː(r)     美音 fɜːr  
 
 | 词频 2 |  
@@ -8767,7 +8698,7 @@ This is not a match. We're playing chess just ________ fun.
 1.*高义频：* **[U] (兽类的) 软毛；毛皮 (衣服)**  
 
 
-# ***furnish*** v
+# *** *furnish*** v
 英音 'fɜːnɪʃ     美音 'fɜːrnɪʃ  
 
 | 词频 1 |  
@@ -8777,7 +8708,7 @@ This is not a match. We're playing chess just ________ fun.
 1.**为（房屋或房间）配备家具**  
 
 
-# ***furnished*** adj
+# *** *furnished*** adj
 英音 'fɜːnɪʃt     美音 'fɜːrnɪʃt  
 
 | 词频 1 |  
@@ -8790,7 +8721,7 @@ This is not a match. We're playing chess just ________ fun.
  > 那间公寓家具齐全。  
 
 
-# ***furniture*** n
+# *** *furniture*** n
 英音 'fɜːnɪtʃə(r)     美音 'fɜːrnɪtʃər  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -8812,10 +8743,11 @@ Notes: 指“一件家具”时，可用a piece of furniture或an article of fur
 ---
 ##### 题目  
 The only piece of f________ he has in his room is a bed.  
+来源：2006 浙江  
 ##### 答案 furniture  
   
 
-# ***further*** adj
+# *** *further*** adj
 英音 'fɜːðə(r)     美音 'fɜːrðər  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -8842,7 +8774,7 @@ The only piece of f________ he has in his room is a bed.
  > 欲知详情，请访问我们的网站。  
 
 
-# ***further*** adv
+# *** *further*** adv
 英音 'fɜːðə(r)     美音 'fɜːrðər  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -8866,7 +8798,7 @@ The only piece of f________ he has in his room is a bed.
  > 非洲距离英国比距离法国远。  
 
 
-# ***furthermore*** adv
+# *** *furthermore*** adv
 英音 ˌfɜːðə'mɔː(r)     美音 ˌfɜːrðər'mɔːr  
 
 | 词频 2 | 阅读 1 |  
@@ -8879,7 +8811,7 @@ The only piece of f________ he has in his room is a bed.
  > 这所房子对我们来说不够大，另外，它离市区也太远。  
 
 
-# ***furthest*** adj & adv
+# *** *furthest*** adj & adv
 英音 'fɜːðɪst     美音 'fɜːrðɪst  
 
 | 词频 1 |  
@@ -8901,7 +8833,7 @@ The only piece of f________ he has in his room is a bed.
  > 对于这些事件，他的书解释得最透彻。  
 
 
-# ***fusion*** n
+# *** *fusion*** n
 英音 'fjuːʒn     美音 'fjuːʒn  
 
 | 词频 1 |  
@@ -8911,7 +8843,7 @@ The only piece of f________ he has in his room is a bed.
 1.**合并；合成**  
 
 
-# ***future*** n
+# *** *future*** n
 英音 'fjuːtʃə(r)     美音 'fjuːtʃər  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -8944,15 +8876,13 @@ The only piece of f________ he has in his room is a bed.
 
 固定搭配
 ---
-- in future 
-1.**今后：**  
+## - *in future   **今后：**  
 英译 from now on：
 
  > If you can just help me out this time, I promise I'll be more careful in future.  
  > 只要这次你能帮我，我保证以后会更加小心。  
 
-- in the (near) future 
-1.**在 (不久的) 将来**  
+## - *in the (near) future   **在 (不久的) 将来**  
 英译 soon：
 
  > No one can tell what will happen in the future.  
@@ -8966,21 +8896,19 @@ The only piece of f________ he has in his room is a bed.
  > 在不久的将来电影市场也许会萎缩。  
  > 来源：2016 江苏书面表达  
 
-- have a / no future 
-1.**有 / 没有前途；有 / 没有未来：**  
+## - *have a / no future   **有 / 没有前途；有 / 没有未来：**  
 
  > Our world has a future only if people learn to conserve nature and not waste energy.  
  > 人们只有学会保护自然和节约能源，我们的世界才会有未来。  
  > 来源：外研⑤ – 6  
 
-- there is a / no future in sth 
-1.**某事有 / 没有前途：**  
+## - *there is a / no future in sth   **某事有 / 没有前途：**  
 
  > He felt there was no future in farming.  
  > 他觉得务农没有前途。  
 
 
-# ***future*** adj
+# *** *future*** adj
 英音 'fjuːtʃə(r)     美音 'fjuːtʃər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -8990,7 +8918,7 @@ The only piece of f________ he has in his room is a bed.
 1.*高义频：* **将来的；未来的；[语法] 将来 (时) 的**  
 
 
-# ***futurologist*** n
+# *** *futurologist*** n
 英音 ˌfjuːtʃə'rɒlədʒɪst     美音 ˌfjuːtʃə'rɑːlədʒɪst  
 
 | 词频 1 |  
@@ -9000,7 +8928,7 @@ The only piece of f________ he has in his room is a bed.
 1.**未来学家**  
 
 
-# ***futurology*** n
+# *** *futurology*** n
 英音 ˌfjuːtʃə'rɒlədʒi     美音 ˌfjuːtʃə'rɑːlədʒi  
 
 | 词频 1 |  

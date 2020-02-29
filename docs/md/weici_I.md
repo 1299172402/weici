@@ -1,6 +1,6 @@
 # Ii
 
-# ***i.e.*** abbr
+# *** *i.e.*** abbr
 英音 ˌaɪ'iː     美音 ˌaɪ'iː  
 
 | 词频 1 |  
@@ -10,7 +10,7 @@
 1.*高义频：* **即；也就是**  
 
 
-# ***ibis*** n
+# *** *ibis*** n
 英音 'aɪbɪs     美音 'aɪbɪs  
 
 | 词频 1 |  
@@ -20,7 +20,7 @@
 1.**鹮**  
 
 
-# ***ice*** n
+# *** *ice*** n
 英音 aɪs     美音 aɪs  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -38,7 +38,7 @@
  > 如履薄冰  
 
 
-# ***ice-cream*** n
+# *** *ice-cream*** n
 英音 aɪskriːm     美音 aɪskriːm  
 
 | 词频 2 | 口语 2 |  
@@ -50,7 +50,7 @@
 1.*高义频：* **冰淇淋**  
 
 
-# ***iceberg*** n
+# *** *iceberg*** n
 英音 'aɪsbɜːɡ     美音 'aɪsbɜːrɡ  
 
 | 词频 1 |  
@@ -62,7 +62,7 @@
 1.*高义频：* **冰山**  
 
 
-# ***idea*** n  重难点词汇
+# *** *idea*** n  重难点词汇
 英音 aɪ'dɪə     美音 aɪ'diːə  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -131,15 +131,17 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
 ##### 题目  
 — How far can you run without stopping?
 — I ________ (不知道). I've never tried. (idea)  
+来源：2013 山东改  
 ##### 答案 have no idea  
   
 ##### 题目  
  — I'm tired. I'm taking next week off.
 — ________ (好主意), honey. You do need a break.  
+来源：2013 陕西改  
 ##### 答案 Great / Good idea  
   
 
-# ***ideal*** adj
+# *** *ideal*** adj
 英音 aɪ'diːəl     美音 aɪ'diːəl  
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 2 |  
@@ -153,7 +155,7 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
  > 来源：2009 全国  
 
 
-# ***ideal*** n
+# *** *ideal*** n
 英音 aɪ'diːəl     美音 aɪ'diːəl  
 
 | 词频 3 | 阅读 2 |  
@@ -168,7 +170,7 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
  > 理想犹如天上的星星，我们虽不能触及，却可以像水手一样靠它们调整航向。  
 
 
-# ***identical*** adj
+# *** *identical*** adj
 英音 aɪ'dentɪkl     美音 aɪ'dentɪkl  
 
 | 词频 1 |  
@@ -178,7 +180,7 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
 1.*高义频：* **同一的；完全相同的**  
 
 
-# ***identification*** n
+# *** *identification*** n
 英音 aɪˌdentɪfɪ'keɪʃn     美音 aɪˌdentɪfɪ'keɪʃn  
 
 | 词频 1 | 阅读 1 |  
@@ -202,7 +204,7 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
  > 登机前，我们都需要出示身份证明，如身份证或护照。  
 
 
-# ***identify*** vt
+# *** *identify*** vt
 英音 aɪ'dentɪfaɪ     美音 aɪ'dentɪfaɪ  
 
 | 词频 3 | 口语 2 | 书面 3 | 阅读 2 |  
@@ -239,21 +241,19 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
 
 固定搭配
 ---
-- identify sb / sth with sth
-1.**认为某人 / 某物等同于某物：**  
+## - *identify sb / sth with sth  **认为某人 / 某物等同于某物：**  
 
  > **identify with**  
  > You should not identify wealth with happiness.  
  > 你不应该把财富与幸福等同起来。  
 
-- identify with sb / sth
-1.**认同某人 / 某物；与某人 / 某物有同感：**  
+## - *identify with sb / sth  **认同某人 / 某物；与某人 / 某物有同感：**  
 
  > I didn't enjoy the book because I couldn' identify with any of the main characters.  
  > 我不喜欢这本书，因为我无法与其中任何一个主角产生共鸣。  
 
 
-# ***identity*** n
+# *** *identity*** n
 英音 aɪ'dentəti     美音 aɪ'dentəti  
 
 | 词频 2 | 书面 2 |  
@@ -283,10 +283,11 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
 ---
 ##### 题目  
 He gave himself a new name to hide his ________ (身份) when he went to carry out the secret task.  
+来源：2015 湖北改  
 ##### 答案 identity  
   
 
-# ***idiom*** n
+# *** *idiom*** n
 英音 'ɪdiəm     美音 'ɪdiəm  
 
 | 词频 1 |  
@@ -296,7 +297,7 @@ He gave himself a new name to hide his ________ (身份) when he went to carry o
 1.*高义频：* **[C] 习语；成语**  
 
 
-# ***idiomatic*** adj
+# *** *idiomatic*** adj
 英音 ˌɪdiə'mætɪk     美音 ˌɪdiə'mætɪk  
 
 | 词频 1 |  
@@ -306,7 +307,7 @@ He gave himself a new name to hide his ________ (身份) when he went to carry o
 1.*高义频：* **惯用的；合乎语言习惯的**  
 
 
-# ***if*** conj
+# *** *if*** conj
 英音 ɪf     美音 ɪf  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -343,8 +344,7 @@ He gave himself a new name to hide his ________ (身份) when he went to carry o
 
 固定搭配
 ---
-- if so 
-1.**如果是这样的话：**  
+## - *if so   **如果是这样的话：**  
 
  > Have you ever been here? And if so how many times?   
  > 你来过这儿吗？如果来过，来过几次呢？  
@@ -354,10 +354,12 @@ He gave himself a new name to hide his ________ (身份) when he went to carry o
 ---
 ##### 题目  
 ________we don't stop climate change, many animals and plants in the world will be gone.  
+来源：2018 北京  
 ##### 答案 If  
   
 ##### 题目  
 If it ________ (not be) for his invitation the other day, I should not be here now.  
+来源：2016 江苏改  
 ##### 答案 had not been  
   
 ##### 题目  
@@ -366,18 +368,21 @@ A.if not
 B.if ever  
 C.if any  
 D.if so  
+来源：2014 福建  
 ##### 答案 B  
   
 ##### 题目  
 It sounds like something is wrong with the car's engine. ________(如果是这样的话) we'd better take it to the garage immediately.  
+来源：2011 江苏改  
 ##### 答案 If so  
   
 ##### 题目  
 At fi rst he hated the new job but decided to give himself a few months to see ________ it got any better.  
+来源：2009 北京改  
 ##### 答案 if / whether  
   
 
-# ***ignorance*** n
+# *** *ignorance*** n
 英音 'ɪɡnərəns     美音 'ɪɡnərəns  
 
 | 词频 1 | 阅读 1 |  
@@ -392,7 +397,7 @@ At fi rst he hated the new job but decided to give himself a few months to see _
  > 请原谅我的无知，但请问这台机器是怎么工作的？  
 
 
-# ***ignorant*** adj
+# *** *ignorant*** adj
 英音 'ɪɡnərənt     美音 'ɪɡnərənt  
 
 | 词频 1 | 阅读 1 |  
@@ -406,7 +411,7 @@ At fi rst he hated the new job but decided to give himself a few months to see _
  > 他对日晒过度的危害一无所知。  
 
 
-# ***ignore*** vt
+# *** *ignore*** vt
 英音 ɪɡ'nɔːr     美音 ɪɡ'nɔː(r)  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -431,10 +436,11 @@ At fi rst he hated the new job but decided to give himself a few months to see _
 ---
 ##### 题目  
 Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the pain, believing that it would go away sooner or later.   
+来源：2014 浙江改  
 ##### 答案 ignore  
   
 
-# ***ill*** adj
+# *** *ill*** adj
 英音 ɪl     美音 ɪl  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -461,7 +467,7 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
  > 坏事传千里。  
 
 
-# ***ill*** adv
+# *** *ill*** adv
 英音 ɪl     美音 ɪl  
 
 | 词频 4 |  
@@ -480,7 +486,7 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
  > 不要说已逝者的坏话。  
 
 
-# ***illegal*** adj
+# *** *illegal*** adj
 英音 ɪ'liːɡl     美音 ɪ'liːɡl  
 
 | 词频 3 | 书面 1 | 阅读 1 |  
@@ -503,7 +509,7 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
  > 无照驾车是违法的。  
 
 
-# ***illegally*** adv
+# *** *illegally*** adv
 英音 ɪ'liːɡəli     美音 ɪ'liːɡəli  
 
 | 词频 1 |  
@@ -513,7 +519,7 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
 1.**不合法地；违法地**  
 
 
-# ***illness*** n
+# *** *illness*** n
 英音 'ɪlnəs     美音 'ɪlnəs  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -539,7 +545,7 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
  > 得一种罕见的病  
 
 
-# ***illuminate*** vt
+# *** *illuminate*** vt
 英音 ɪ'luːmɪneɪt     美音 ɪ'luːmɪneɪt  
 
 | 词频 1 |  
@@ -549,7 +555,7 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
 1.**照明, 照亮**  
 
 
-# ***illustrate*** vt
+# *** *illustrate*** vt
 英音 'ɪləstreɪt     美音 'ɪləstreɪt  
 
 | 词频 2 | 书面 2 |  
@@ -576,7 +582,7 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
 illustration /ˌɪlə'streɪʃn/ n [U]   
 illustrator /'ɪləstreɪtə(r)/ n [C]  
 
-# ***image*** n
+# *** *image*** n
 英音 'ɪmɪdʒ     美音 'ɪmɪdʒ  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -600,7 +606,7 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
  > 来源： 2008 广东  
 
 
-# ***imaginary*** adj
+# *** *imaginary*** adj
 英音 ɪ'mædʒɪnəri     美音 ɪ'mædʒɪneri  
 
 | 词频 2 |  
@@ -610,7 +616,7 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
 1.*高义频：* **想象中的；假想的；虚构的**  
 
 
-# ***imagination*** n
+# *** *imagination*** n
 英音 ɪˌmædʒɪ'neɪʃn     美音 ɪˌmædʒɪ'neɪʃn  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -639,7 +645,7 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
  > 实际上你什么也没有看见，那只不过是幻觉而已。  
 
 
-# ***imaginative*** adj
+# *** *imaginative*** adj
 英音 ɪ'mædʒɪnətɪv     美音 ɪ'mædʒɪnətɪv  
 
 | 词频 2 |  
@@ -649,7 +655,7 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
 1.*高义频：* **富于想象力的**  
 
 
-# ***imagine*** vt  重难点词汇
+# *** *imagine*** vt  重难点词汇
 英音 ɪ'mædʒɪn     美音 ɪ'mædʒɪn  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -657,6 +663,9 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
 英文释义
 ---
 1.*高义频：* **想象；设想：**  
+
+ > Can you imagine life without electricity?   
+ > 你能想象没有电的生活会是什么样子吗?  
 
 - imagine (sb) doing sth:
 
@@ -679,9 +688,6 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
 
  > I had imagined her to be older than me.  
  > 我本以为她的年龄比我大。  
-
- > Can you imagine life without electricity?   
- > 你能想象没有电的生活会是什么样子吗?  
 
 2.*高义频：* **胡思乱想；误以为：**  
 
@@ -721,6 +727,7 @@ imaginary /ɪ'mædʒɪnəri/ adj
 ---
 ##### 题目  
 There is nothing there — you are just ________ (想象) things!   
+来源：2012 陕西  
 ##### 答案 imagining  
   
 ##### 题目  
@@ -728,7 +735,7 @@ It is difficult to imagine his ________ (accept) the decision without any consid
 ##### 答案 accepting  
   
 
-# ***imitate*** vt
+# *** *imitate*** vt
 英音 'ɪmɪteɪt     美音 'ɪmɪteɪt  
 
 | 词频 1 |  
@@ -746,7 +753,7 @@ Notes: 当表示做和其他人一样的事情时用copy，不用imitate。
 ---
 imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]  
 
-# ***imitation*** n
+# *** *imitation*** n
 英音 ˌɪmɪ'teɪʃn     美音 ˌɪmɪ'teɪʃn  
 
 | 词频 2 |  
@@ -756,7 +763,7 @@ imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
 1.**模仿**  
 
 
-# ***immediate*** adj
+# *** *immediate*** adj
 英音 ɪ'miːdiət     美音 ɪ'miːdiət  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -783,10 +790,11 @@ imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
 ---
 ##### 题目  
 If I find someone who looks like the suspect, my ________ (立即的) reaction will be to tell the police.   
+来源：2010 湖北改  
 ##### 答案 immediate  
   
 
-# ***immediately*** adv
+# *** *immediately*** adv
 英音 ɪ'miːdiətli     美音 ɪ'miːdiətli  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -800,7 +808,7 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
  > 来源：2010 全国  
 
 
-# ***immediately*** conj
+# *** *immediately*** conj
 英音 ɪ'miːdiətli     美音 ɪ'miːdiətli  
 
 | 词频 4 |  
@@ -813,7 +821,7 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
  > 12点的钟声一响我就离开了。  
 
 
-# ***immense*** adj
+# *** *immense*** adj
 英音 ɪ'mens     美音 ɪ'mens  
 
 | 词频 1 |  
@@ -823,7 +831,7 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 1.**极大的**  
 
 
-# ***immigrant*** n
+# *** *immigrant*** n
 英音 'ɪmɪɡrənt     美音 'ɪmɪɡrənt  
 
 | 词频 1 | 阅读 1 |  
@@ -835,7 +843,7 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 1.*高义频：* **(外来) 移民**  
 
 
-# ***immigrant*** adj
+# *** *immigrant*** adj
 英音 'ɪmɪɡrənt     美音 'ɪmɪɡrənt  
 
 | 词频 1 |  
@@ -845,7 +853,7 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 1.**移民的；移居的**  
 
 
-# ***immigrate*** vi
+# *** *immigrate*** vi
 英音 'ɪmɪˌɡreɪt     美音 'ɪmɪɡreɪt  
 
 | 词频 1 |  
@@ -858,7 +866,7 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
  > 移居某一国家  
 
 
-# ***immigration*** n
+# *** *immigration*** n
 英音 ˌɪmɪ'ɡreɪʃn     美音 ˌɪmɪ'ɡreɪʃn  
 
 | 词频 1 |  
@@ -877,7 +885,7 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
  > 来源：外研⑥ – 1  
 
 
-# ***immune*** adj
+# *** *immune*** adj
 英音 ɪ'mjuːn     美音 ɪ'mjuːn  
 
 | 词频 1 |  
@@ -887,7 +895,7 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 1.**有免疫力的**  
 
 
-# ***impact*** n
+# *** *impact*** n
 英音 'ɪmpækt     美音 'ɪmpækt  
 
 | 词频 3 | 阅读 2 |  
@@ -910,7 +918,7 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
  > 来源：2014 湖北改  
 
 
-# ***impair*** vt
+# *** *impair*** vt
 英音 ɪm'peə(r)     美音 ɪm'per  
 
 | 词频 2 |  
@@ -920,7 +928,7 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 1.**削弱；损伤**  
 
 
-# ***imperative*** n
+# *** *imperative*** n
 英音 ɪm'perətɪv     美音 ɪm'perətɪv  
 
 | 词频 1 |  
@@ -930,7 +938,7 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 1.**祈使语气；命令**  
 
 
-# ***imperial*** adj
+# *** *imperial*** adj
 英音 ɪm'pɪəriəl     美音 ɪm'pɪriəl  
 
 | 词频 1 |  
@@ -940,7 +948,7 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 1.**皇帝的，皇家的**  
 
 
-# ***imply*** vt
+# *** *imply*** vt
 英音 ɪm'plaɪ     美音 ɪm'plaɪ  
 
 | 词频 4 | 书面 2 |  
@@ -962,7 +970,7 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 ---
 implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]  
 
-# ***impolite*** adj
+# *** *impolite*** adj
 英音 ˌɪmpə'laɪt     美音 ˌɪmpə'laɪt  
 
 | 词频 2 |  
@@ -972,7 +980,7 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
 1.**不礼貌的**  
 
 
-# ***import*** vt
+# *** *import*** vt
 英音 ɪm'pɔːt     美音 ɪm'pɔːt  
 
 | 词频 3 |  
@@ -986,7 +994,7 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
  > 中国从古巴进口食糖。  
 
 
-# ***import*** n
+# *** *import*** n
 英音 'ɪmpɔːt     美音 'ɪmpɔːt  
 
 | 词频 3 | 书面 1 |  
@@ -1000,7 +1008,7 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
  > 从非洲进口的商品包括咖啡、可可和橄榄油。  
 
 
-# ***importance*** n
+# *** *importance*** n
 英音 ɪm'pɔːtns     美音 ɪm'pɔːrtns  
 
 | 词频 4 | 口语 1 | 书面 3 |  
@@ -1024,7 +1032,7 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
  > 众所周知，友谊对每个人都很重要。  
 
 
-# ***important*** adj
+# *** *important*** adj
 英音 ɪm'pɔːtnt     美音 ɪm'pɔːrtnt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1049,7 +1057,7 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
 ---
 importantly /ɪm'pɔːtntli/ adv [句子副词]  
 
-# ***impose*** vt
+# *** *impose*** vt
 英音 ɪm'pəʊz     美音 ɪm'poʊz  
 
 | 词频 1 | 口语 1 | 书面 2 |  
@@ -1059,7 +1067,7 @@ importantly /ɪm'pɔːtntli/ adv [句子副词]
 1.*高义频：* **强制实行；强加于**  
 
 
-# ***impossible*** adj
+# *** *impossible*** adj
 英音 ɪm'pɒsəbl     美音 ɪm'pɑːsəbl  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -1085,10 +1093,11 @@ impossibility /ɪmˌpɒsə'bɪləti/ n
 ---
 ##### 题目  
 I consider it ________ (不可能) to believe a single word you say.  
+来源：2007 陕西  
 ##### 答案 impossible  
   
 
-# ***impress*** vt  重难点词汇
+# *** *impress*** vt  重难点词汇
 英音 ɪm'pres     美音 ɪm'pres  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -1100,14 +1109,14 @@ I consider it ________ (不可能) to believe a single word you say.
 2.*高义频：* **给...留下极深的印象；使钦佩：**  
 英译 to make sb feel admiration and respect
 
+ > **It impressed me that**  
+ > It impressed me that he remembered my name.  
+ > 让我印象深刻的是他记得我的名字。  
+
 - impress sb with / by sth:
 
  > One candidate in particular impressed us with her knowledge.  
  > 尤其有一位候选人，她的学识给我们留下了深刻的印象。  
-
- > **It impressed me that**  
- > It impressed me that he remembered my name.  
- > 让我印象深刻的是他记得我的名字。  
 
 3.*低义频：* **[正式用语] 使意识到**  
 英译 to try to make sb understand how important sth is：
@@ -1120,7 +1129,7 @@ I consider it ________ (不可能) to believe a single word you say.
  > 老师让我意识到英语的重要性。  
 
 
-# ***impression*** n
+# *** *impression*** n
 英音 ɪm'preʃn     美音 ɪm'preʃn  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -1157,10 +1166,11 @@ impressionist /ɪm'preʃənɪst/ n  [C]
 ##### 题目  
 My ________ (第一印象) of him was that he was a kind and thoughtful young man. 
   
+来源：2012 山东改  
 ##### 答案 first impression  
   
 
-# ***impressionism*** n
+# *** *impressionism*** n
 英音 ɪm'preʃənɪzəm     美音 ɪm'preʃənɪzəm  
 
 | 词频 1 |  
@@ -1170,7 +1180,7 @@ My ________ (第一印象) of him was that he was a kind and thoughtful young ma
 1.**印象主义；印象派**  
 
 
-# ***impressionist*** adj
+# *** *impressionist*** adj
 英音 ɪm'preʃənɪst     美音 ɪm'preʃənɪst  
 
 | 词频 1 |  
@@ -1180,7 +1190,7 @@ My ________ (第一印象) of him was that he was a kind and thoughtful young ma
 1.**印象派的**  
 
 
-# ***impressionist*** n
+# *** *impressionist*** n
 英音 ɪm'preʃənɪst     美音 ɪm'preʃənɪst  
 
 | 词频 1 |  
@@ -1190,7 +1200,7 @@ My ________ (第一印象) of him was that he was a kind and thoughtful young ma
 1.**印象派艺术家**  
 
 
-# ***impressive*** adj
+# *** *impressive*** adj
 英音 ɪm'presɪv     美音 ɪm'presɪv  
 
 | 词频 3 | 书面 1 |  
@@ -1207,10 +1217,11 @@ My ________ (第一印象) of him was that he was a kind and thoughtful young ma
 ---
 ##### 题目  
 What was so ________ (impress) about Jasmine Westland’s victory was that she came first in the marathon bare-footed.  
+来源：2014 湖北改  
 ##### 答案 impressive  
   
 
-# ***improve*** v
+# *** *improve*** v
 英音 ɪm'pruːv     美音 ɪm'pruːv  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -1234,8 +1245,7 @@ What was so ________ (impress) about Jasmine Westland’s victory was that she c
 
 固定搭配
 ---
-- improve on / upon
-1.**对…作出改进；做得比…更好：**  
+## - *improve on / upon  **对…作出改进；做得比…更好：**  
 
  > Lily has scored 98 in the maths test, and I don't think anyone will improve on that.  
  > 莉莉数学考了98分，我看没人能超过这个分数。  
@@ -1245,7 +1255,7 @@ What was so ________ (impress) about Jasmine Westland’s victory was that she c
 ---
 improvement /ɪm'pruːvmənt/ n [U] & [C]  
 
-# ***improvisation*** n
+# *** *improvisation*** n
 英音 ˌɪmprəvaɪ'zeɪʃn     美音 ˌɪmprəvaɪ'zeɪʃn  
 
 | 词频 1 |  
@@ -1255,7 +1265,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 1.**即席演奏**  
 
 
-# ***improvise*** v
+# *** *improvise*** v
 英音 'ɪmprəvaɪz     美音 'ɪmprəvaɪz  
 
 | 词频 1 |  
@@ -1265,7 +1275,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 1.**即兴演奏,即兴表演**  
 
 
-# ***impulse*** n
+# *** *impulse*** n
 英音 'ɪmpʌls     美音 'ɪmpʌls  
 
 | 词频 1 |  
@@ -1275,7 +1285,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 1.**脉冲**  
 
 
-# ***in*** prep
+# *** *in*** prep
 英音 ɪn     美音 ɪn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1348,14 +1358,16 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 ---
 ##### 题目  
 Jane is in a hurry because the train to the airport leaves ________ half an hour.  
+来源：2014 北京改  
 ##### 答案 in  
   
 ##### 题目  
 Try on this red skirt; you will look great ________ it.  
+来源：2009 重庆改  
 ##### 答案 in  
   
 
-# ***in*** adv
+# *** *in*** adv
 英音 ɪn     美音 ɪn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1373,7 +1385,7 @@ Try on this red skirt; you will look great ________ it.
  > 我要按门铃看他是否在家。  
 
 
-# ***in*** adj
+# *** *in*** adj
 英音 ɪn     美音 ɪn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1386,7 +1398,7 @@ Try on this red skirt; you will look great ________ it.
 反义词 out 
 
 
-# ***incense*** n
+# *** *incense*** n
 英音 'ɪnsens     美音 'ɪnsens  
 
 | 词频 1 |  
@@ -1398,7 +1410,7 @@ Try on this red skirt; you will look great ________ it.
 1.*高义频：* **熏香；熏香的烟**  
 
 
-# ***inch*** n
+# *** *inch*** n
 英音 ɪntʃ     美音 ɪntʃ  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -1415,20 +1427,18 @@ Try on this red skirt; you will look great ________ it.
 
 固定搭配
 ---
-- by an inch / inches
-1.**差一点儿；险些：**  
+## - *by an inch / inches  **差一点儿；险些：**  
 
  > The car missed my dog by inches.   
  > 那辆汽车差一点儿撞到我的狗。  
 
-- inch by inch
-1.**缓慢地；一点一点地：**  
+## - *inch by inch  **缓慢地；一点一点地：**  
 
  > I crawled in inch by inch.  
  > 我慢慢地爬了进去。  
 
 
-# ***incident*** n
+# *** *incident*** n
 英音 'ɪnsɪdənt     美音 'ɪnsɪdənt  
 
 | 词频 2 | 口语 1 | 书面 2 |  
@@ -1454,7 +1464,7 @@ Try on this red skirt; you will look great ________ it.
 ### 辨析 accident, incident, event
 三者都含有“事件”之意。  
 
-# ***include*** vt
+# *** *include*** vt
 英音 ɪn'kluːd     美音 ɪn'kluːd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1491,10 +1501,11 @@ Try on this red skirt; you will look great ________ it.
 ---
 ##### 题目  
 My duties will include ________ (introduce) British visitors to the 120 plus pandas at Chengdu.  
+来源：2016 全国改  
 ##### 答案 introducing  
   
 
-# ***including*** prep
+# *** *including*** prep
 英音 ɪn'kluːdɪŋ     美音 ɪn'kluːdɪŋ  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -1511,7 +1522,7 @@ My duties will include ________ (introduce) British visitors to the 120 plus pan
  > 来源：2017 全国书面表达改  
 
 
-# ***income*** n
+# *** *income*** n
 英音 'ɪnkʌm,'ɪnkəm     美音 'ɪnkʌm  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -1534,10 +1545,11 @@ My duties will include ________ (introduce) British visitors to the 120 plus pan
 ---
 ##### 题目  
 Tourism is the major source of________(收入) for this area.   
+来源：2015 陕西  
 ##### 答案 income  
   
 
-# ***incorrectly*** adv
+# *** *incorrectly*** adv
 英音 ˌɪnkə'rektli     美音 ˌɪnkə'rektli  
 
 | 词频 1 |  
@@ -1547,7 +1559,7 @@ Tourism is the major source of________(收入) for this area.
 1.**不正确地**  
 
 
-# ***increase*** v
+# *** *increase*** v
 英音 ɪn'kriːs     美音 ɪn'kriːs  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -1568,7 +1580,7 @@ Tourism is the major source of________(收入) for this area.
  > 旅行增进人们对世界的了解。  
 
 
-# ***increase*** n
+# *** *increase*** n
 英音 'ɪŋkriːs     美音 'ɪŋkriːs  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -1586,8 +1598,7 @@ Tourism is the major source of________(收入) for this area.
 
 固定搭配
 ---
-- on the increase
-1.**在增加：**  
+## - *on the increase  **在增加：**  
 
  > A few years ago it was an endangered species, but now the population is on the increase.   
  > 几年前，它还是濒临灭绝的物种，但现在它们的数量在不断增加。  
@@ -1599,10 +1610,11 @@ Tourism is the major source of________(收入) for this area.
 ##### 题目  
 One of the consequences of our planet’s being warming up is a(n) ________ (增长) in the number of natural disasters.  
 D.increase  
+来源：2003 上海改  
 ##### 答案 increase  
   
 
-# ***increasingly*** adv
+# *** *increasingly*** adv
 英音 ɪn'kriːsɪŋli     美音 ɪn'kriːsɪŋli  
 
 | 词频 4 | 书面 2 | 阅读 3 |  
@@ -1619,10 +1631,11 @@ D.increase
 ---
 ##### 题目  
 Volunteering is becoming ________ (increasing) popular in China.  
+来源：2010 福建改  
 ##### 答案 increasingly  
   
 
-# ***incredible*** adj
+# *** *incredible*** adj
 英音 ɪn'kredəbl     美音 ɪn'kredəbl  
 
 | 词频 2 | 口语 1 |  
@@ -1638,7 +1651,7 @@ Volunteering is becoming ________ (increasing) popular in China.
  > 真令人难以置信！看看他现在变化多大啊！  
 
 
-# ***incredibly*** adv
+# *** *incredibly*** adv
 英音 ɪn'kredəbli     美音 ɪn'kredəbli  
 
 | 词频 1 |  
@@ -1648,7 +1661,7 @@ Volunteering is becoming ________ (increasing) popular in China.
 1.**难以置信地**  
 
 
-# ***indeed*** adv
+# *** *indeed*** adv
 英音 ɪn'diːd     美音 ɪn'diːd  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -1688,10 +1701,11 @@ Volunteering is becoming ________ (increasing) popular in China.
 ##### 题目  
 — This is a really lively party. There's a great atmosphere, isn't there?
 — Yes, ________ (确实). The hosts know how to host a party.   
+来源：2013 山东改  
 ##### 答案 indeed  
   
 
-# ***independence*** n
+# *** *independence*** n
 英音 ˌɪndɪ'pendəns     美音 ˌɪndɪ'pendəns  
 
 | 词频 2 | 书面 2 |  
@@ -1711,7 +1725,7 @@ Volunteering is becoming ________ (increasing) popular in China.
  > 来源：人教⑧ – 1  
 
 
-# ***independent*** adj
+# *** *independent*** adj
 英音 ˌɪndɪ'pendənt     美音 ˌɪndɪ'pendənt  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -1733,7 +1747,7 @@ Volunteering is becoming ________ (increasing) popular in China.
 ---
 independently /ˌɪndɪ'pendəntli/ adv   
 
-# ***index*** n
+# *** *index*** n
 英音 'ɪndeks     美音 'ɪndeks  
 
 | 词频 1 |  
@@ -1745,7 +1759,7 @@ independently /ˌɪndɪ'pendəntli/ adv
 1.*高义频：* **(pl indexes / indices) 指数**  
 
 
-# ***indicate*** vt
+# *** *indicate*** vt
 英音 'ɪndɪkeɪt     美音 'ɪndɪkeɪt  
 
 | 词频 4 | 口语 3 | 阅读 3 |  
@@ -1780,7 +1794,7 @@ independently /ˌɪndɪ'pendəntli/ adv
 ---
 indication /ˌɪndɪ'keɪʃn/ n [C] & [U]  
 
-# ***indigenous*** adj
+# *** *indigenous*** adj
 英音 ɪn'dɪdʒənəs     美音 ɪn'dɪdʒənəs  
 
   
@@ -1790,7 +1804,7 @@ indication /ˌɪndɪ'keɪʃn/ n [C] & [U]
 1.**本地的,土生土长的**  
 
 
-# ***individual*** adj
+# *** *individual*** adj
 英音 ˌɪndɪ'vɪdʒuəl     美音 ˌɪndɪ'vɪdʒuəl  
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -1807,7 +1821,7 @@ indication /ˌɪndɪ'keɪʃn/ n [C] & [U]
  > 在人数多的班上教师很难照顾到每个孩子。  
 
 
-# ***individual*** n
+# *** *individual*** n
 英音 ˌɪndɪ'vɪdʒuəl     美音 ˌɪndɪ'vɪdʒuəl  
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -1828,7 +1842,7 @@ indication /ˌɪndɪ'keɪʃn/ n [C] & [U]
 individualism /ˌɪndɪ'vɪdʒuəlɪzəm/ n [U]   
 individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]  
 
-# ***indoor*** adj
+# *** *indoor*** adj
 英音 'ɪndɔː(r)     美音 'ɪndɔːr  
 
 | 词频 2 |  
@@ -1842,7 +1856,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
  > 室内游泳池  
 
 
-# ***indoors*** adv
+# *** *indoors*** adv
 英音 ˌɪn'dɔːz     美音 ˌɪn'dɔːrz  
 
 | 词频 2 |  
@@ -1856,7 +1870,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
  > 雨下了一整天，我们只好留在屋里。  
 
 
-# ***induce*** vt
+# *** *induce*** vt
 英音 ɪn'djuːs     美音 ɪn'duːs  
 
 | 词频 1 |  
@@ -1866,7 +1880,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 1.*高义频：* **劝诱；劝使**  
 
 
-# ***industrial*** adj
+# *** *industrial*** adj
 英音 ɪn'dʌstriəl     美音 ɪn'dʌstriəl  
 
 | 词频 2 | 口语 1 | 书面 3 |  
@@ -1879,7 +1893,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
  > 工业革命  
 
 
-# ***industrialisation*** n
+# *** *industrialisation*** n
 英音 ɪnˌdʌstriəlaɪ'zeɪʃn     美音 ɪnˌdʌstriəlaɪ'zeɪʃn  
 
 | 词频 1 |  
@@ -1889,7 +1903,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 1.**工业化**  
 
 
-# ***industry*** n
+# *** *industry*** n
 英音 'ɪndəstri     美音 'ɪndəstri  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -1909,7 +1923,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
  > 来源：人教⑦ – 1  
 
 
-# ***inequality*** n
+# *** *inequality*** n
 英音 ˌɪnɪ'kwɒləti     美音 ˌɪnɪ'kwɑːləti  
 
 | 词频 1 |  
@@ -1919,7 +1933,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 1.**不平等**  
 
 
-# ***inescapable*** adj
+# *** *inescapable*** adj
 英音 ˌɪnɪ'skeɪpəbl     美音 ˌɪnɪ'skeɪpəbl  
 
 | 词频 1 |  
@@ -1929,7 +1943,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 1.**不可避免的**  
 
 
-# ***infamous*** adj
+# *** *infamous*** adj
 英音 'ɪnfəməs     美音 'ɪnfəməs  
 
 | 词频 1 |  
@@ -1939,7 +1953,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 1.**臭名昭著的；声名狼藉的**  
 
 
-# ***infant*** n
+# *** *infant*** n
 英音 'ɪnfənt     美音 'ɪnfənt  
 
 | 词频 1 | 书面 1 |  
@@ -1949,7 +1963,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 1.*高义频：* **婴儿；幼儿**  
 
 
-# ***infect*** vt
+# *** *infect*** vt
 英音 ɪn'fekt     美音 ɪn'fekt  
 
 | 词频 3 | 阅读 3 |  
@@ -1974,7 +1988,7 @@ infected /ɪn'fektɪd/ adj
 infection /ɪn'fekʃn/ n   
 infectious /ɪn'fekʃəs/ adj   
 
-# ***infection*** n
+# *** *infection*** n
 英音 ɪn'fekʃn     美音 ɪn'fekʃn  
 
 | 词频 1 | 书面 1 |  
@@ -1984,7 +1998,7 @@ infectious /ɪn'fekʃəs/ adj
 1.*高义频：* **[U] 传染 [C] 传染病**  
 
 
-# ***infectious*** adj
+# *** *infectious*** adj
 英音 ɪn'fekʃəs     美音 ɪn'fekʃəs  
 
 | 词频 1 |  
@@ -1994,7 +2008,7 @@ infectious /ɪn'fekʃəs/ adj
 1.*高义频：* **传染的**  
 
 
-# ***infer*** vt
+# *** *infer*** vt
 英音 ɪn'fɜː(r)     美音 ɪn'fɜːr  
 
 | 词频 5 |  
@@ -2016,7 +2030,7 @@ infectious /ɪn'fekʃəs/ adj
 ---
 inference  n   
 
-# ***inflation*** n
+# *** *inflation*** n
 英音 ɪn'fleɪʃn     美音 ɪn'fleɪʃn  
 
 | 词频 1 | 口语 1 | 书面 2 |  
@@ -2028,7 +2042,7 @@ inference  n
 1.*高义频：* **通货膨胀**  
 
 
-# ***influence*** n
+# *** *influence*** n
 英音 'ɪnfluəns     美音 'ɪnfluəns  
 
 | 词频 5 | 口语 1 | 书面 3 |  
@@ -2058,7 +2072,7 @@ inference  n
  > 他的朋友对他产生了不良影响。  
 
 
-# ***influence*** vt
+# *** *influence*** vt
 英音 'ɪnfluəns     美音 'ɪnfluəns  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -2075,10 +2089,11 @@ inference  n
 ---
 ##### 题目  
 Through the course of my schooling, I met many teachers, two ________ me greatly. 上学时遇到过很多老师，其中两位对我影响很大。  
+来源：2013 湖北改  
 ##### 答案 of whom (have) influenced / of them having influenced  
   
 
-# ***influential*** adj
+# *** *influential*** adj
 英音 ˌɪnflu'enʃl     美音 ˌɪnflu'enʃl  
 
 | 词频 1 |  
@@ -2088,7 +2103,7 @@ Through the course of my schooling, I met many teachers, two ________ me greatly
 1.**有影响的；有势力的**  
 
 
-# ***inform*** vt
+# *** *inform*** vt
 英音 ɪn'fɔːm     美音 ɪn'fɔːrm  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -2110,7 +2125,7 @@ Through the course of my schooling, I met many teachers, two ________ me greatly
  > 我们想通知所有乘客，餐车现在开始营业。  
 
 
-# ***informal*** adj
+# *** *informal*** adj
 英音 ɪn'fɔːml     美音 ɪn'fɔːrml  
 
 | 词频 3 | 书面 1 |  
@@ -2126,7 +2141,7 @@ Through the course of my schooling, I met many teachers, two ________ me greatly
  > 非正式语言  
 
 
-# ***information*** n
+# *** *information*** n
 英音 ˌɪnfə'meɪʃn     美音 ˌɪnfər'meɪʃn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2151,10 +2166,11 @@ Through the course of my schooling, I met many teachers, two ________ me greatly
 ---
 ##### 题目  
 Besides, they often get some useful informations from the Internet.  
+来源：2017 全国   改错  
 ##### 答案 informations → information  
   
 
-# ***informed*** adj
+# *** *informed*** adj
 英音 ɪn'fɔːmd     美音 ɪn'fɔːrmd  
 
 | 词频 2 | 阅读 3 |  
@@ -2176,7 +2192,7 @@ Besides, they often get some useful informations from the Internet.
  > 我很了解这个主题。  
 
 
-# ***ingredient*** n
+# *** *ingredient*** n
 英音 ɪn'ɡriːdiənt     美音 ɪn'ɡriːdiənt  
 
 | 词频 2 |  
@@ -2196,7 +2212,7 @@ Besides, they often get some useful informations from the Internet.
  > 勤奋是成功的一个重要因素。  
 
 
-# ***inhabit*** v
+# *** *inhabit*** v
 英音 ɪn'hæbɪt     美音 ɪn'hæbɪt  
 
 | 词频 1 |  
@@ -2206,7 +2222,7 @@ Besides, they often get some useful informations from the Internet.
 1.**居住**  
 
 
-# ***inhabitant*** n
+# *** *inhabitant*** n
 英音 ɪn'hæbɪtənt     美音 ɪn'hæbɪtənt  
 
 | 词频 2 |  
@@ -2216,7 +2232,7 @@ Besides, they often get some useful informations from the Internet.
 1.**居民**  
 
 
-# ***inherit*** v
+# *** *inherit*** v
 英音 ɪn'herɪt     美音 ɪn'herɪt  
 
 | 词频 2 |  
@@ -2236,7 +2252,7 @@ Besides, they often get some useful informations from the Internet.
  > 她遗传了她妈妈的卷发。  
 
 
-# ***inhospitable*** adj
+# *** *inhospitable*** adj
 英音 ˌɪnhɒ'spɪtəbl     美音 ˌɪnhɑː'spɪtəbl  
 
 | 词频 1 |  
@@ -2246,7 +2262,7 @@ Besides, they often get some useful informations from the Internet.
 1.**荒凉的；不适宜居住的**  
 
 
-# ***initial*** adj
+# *** *initial*** adj
 英音 ɪ'nɪʃl     美音 ɪ'nɪʃl  
 
 | 词频 2 | 口语 1 | 书面 2 |  
@@ -2262,7 +2278,7 @@ Besides, they often get some useful informations from the Internet.
  > 单词的首字母  
 
 
-# ***initial*** n
+# *** *initial*** n
 英音 ɪ'nɪʃl     美音 ɪ'nɪʃl  
 
 | 词频 2 |  
@@ -2272,7 +2288,7 @@ Besides, they often get some useful informations from the Internet.
 1.**首字母**  
 
 
-# ***initially*** adv
+# *** *initially*** adv
 英音 ɪ'nɪʃəli     美音 ɪ'nɪʃəli  
 
 | 词频 1 |  
@@ -2282,7 +2298,7 @@ Besides, they often get some useful informations from the Internet.
 1.**起初**  
 
 
-# ***inject*** vt
+# *** *inject*** vt
 英音 ɪn'dʒekt     美音 ɪn'dʒekt  
 
 | 词频 1 |  
@@ -2296,7 +2312,7 @@ Besides, they often get some useful informations from the Internet.
 ---
 injection /ɪn'dʒekʃn/ n [C] & [U]   
 
-# ***injection*** n
+# *** *injection*** n
 英音 ɪn'dʒekʃn     美音 ɪn'dʒekʃn  
 
 | 词频 2 |  
@@ -2308,7 +2324,7 @@ injection /ɪn'dʒekʃn/ n [C] & [U]
 1.*高义频：* **注射；注射剂**  
 
 
-# ***injure*** vt
+# *** *injure*** vt
 英音 'ɪndʒə(r)     美音 'ɪndʒər  
 
 | 词频 4 | 口语 1 |  
@@ -2339,7 +2355,7 @@ injured /'ɪndʒəd/ adj
  > 受重/轻伤  
 
 
-# ***injured*** adj
+# *** *injured*** adj
 英音 'ɪndʒəd     美音 'ɪndʒərd  
 
 | 词频 4 |  
@@ -2349,7 +2365,7 @@ injured /'ɪndʒəd/ adj
 1.**受伤的；委屈的**  
 
 
-# ***injury*** n
+# *** *injury*** n
 英音 'ɪndʒəri     美音 'ɪndʒəri  
 
 | 词频 3 | 口语 1 | 书面 2 |  
@@ -2376,7 +2392,7 @@ injured /'ɪndʒəd/ adj
  > 人身伤害  
 
 
-# ***ink*** n
+# *** *ink*** n
 英音 ɪŋk     美音 ɪŋk  
 
 | 词频 2 |  
@@ -2388,7 +2404,7 @@ injured /'ɪndʒəd/ adj
 1.*高义频：* **墨水**  
 
 
-# ***inland*** adj
+# *** *inland*** adj
 英音 ˌɪn'lænd     美音 ˌɪn'lænd  
 
 | 词频 2 |  
@@ -2398,7 +2414,7 @@ injured /'ɪndʒəd/ adj
 1.**内地的；内陆的**  
 
 
-# ***inn*** n
+# *** *inn*** n
 英音 ɪn     美音 ɪn  
 
 | 词频 2 |  
@@ -2410,7 +2426,7 @@ injured /'ɪndʒəd/ adj
 1.*高义频：* **小旅馆；客栈**  
 
 
-# ***inner*** adj
+# *** *inner*** adj
 英音 'ɪnə(r)     美音 'ɪnər  
 
 | 词频 2 | 口语 1 | 书面 2 |  
@@ -2426,7 +2442,7 @@ injured /'ɪndʒəd/ adj
  > 内心的感情  
 
 
-# ***innocent*** adj
+# *** *innocent*** adj
 英音 'ɪnəsnt     美音 'ɪnəsnt  
 
 | 词频 2 | 书面 1 |  
@@ -2454,7 +2470,7 @@ injured /'ɪndʒəd/ adj
 ---
 innocence /'ɪnəsns/ n [U]   
 
-# ***innovate*** v
+# *** *innovate*** v
 英音 'ɪnəveɪt     美音 'ɪnəveɪt  
 
 | 词频 1 |  
@@ -2464,7 +2480,7 @@ innocence /'ɪnəsns/ n [U]
 1.*高义频：* **创新；革新**  
 
 
-# ***input*** n
+# *** *input*** n
 英音 'ɪnpʊt     美音 'ɪnpʊt  
 
 | 词频 2 | 书面 1 |  
@@ -2478,7 +2494,7 @@ innocence /'ɪnəsns/ n [U]
  > 来源：2009 全国改  
 
 
-# ***inquisitive*** adj
+# *** *inquisitive*** adj
 英音 ɪn'kwɪzətɪv     美音 ɪn'kwɪzətɪv  
 
 | 词频 1 |  
@@ -2488,7 +2504,7 @@ innocence /'ɪnəsns/ n [U]
 1.**好奇的**  
 
 
-# ***insect*** n
+# *** *insect*** n
 英音 'ɪnsekt     美音 'ɪnsekt  
 
 | 词频 4 | 书面 1 |  
@@ -2500,7 +2516,7 @@ innocence /'ɪnəsns/ n [U]
 1.*高义频：* **昆虫；虫**  
 
 
-# ***insert*** vt
+# *** *insert*** vt
 英音 ɪn'sɜːt     美音 ɪn'sɜːrt  
 
 | 词频 1 |  
@@ -2513,7 +2529,7 @@ innocence /'ɪnəsns/ n [U]
  > 将钥匙插入锁孔  
 
 
-# ***inside*** prep
+# *** *inside*** prep
 英音 ˌɪn'saɪd     美音 ˌɪn'saɪd  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -2526,7 +2542,7 @@ innocence /'ɪnəsns/ n [U]
  > 她内心深藏着许多记忆。  
 
 
-# ***inside*** adv
+# *** *inside*** adv
 英音 ˌɪn'saɪd     美音 ˌɪn'saɪd  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -2542,7 +2558,7 @@ innocence /'ɪnəsns/ n [U]
  > 我们到里面去。  
 
 
-# ***inside*** n
+# *** *inside*** n
 英音 ˌɪn'saɪd     美音 ˌɪn'saɪd  
 
 | 词频 5 | 口语 1 |  
@@ -2558,14 +2574,13 @@ innocence /'ɪnəsns/ n [U]
 
 固定搭配
 ---
-- inside out 
-1.**里面朝外地：**  
+## - *inside out   **里面朝外地：**  
 
  > The kids were wearing their shirts inside out.   
  > 孩子们把衬衫穿反了。  
 
 
-# ***inside*** adj
+# *** *inside*** adj
 英音 ˌɪn'saɪd     美音 ˌɪn'saɪd  
 
 | 词频 5 |  
@@ -2578,7 +2593,7 @@ innocence /'ɪnəsns/ n [U]
  > 内部消息  
 
 
-# ***insight*** n
+# *** *insight*** n
 英音 'ɪnsaɪt     美音 'ɪnsaɪt  
 
 | 词频 2 |  
@@ -2588,7 +2603,7 @@ innocence /'ɪnəsns/ n [U]
 1.*高义频：* **[C] 深入了解；顿悟；[U] 洞察力；眼光：**  
 
 
-# ***insist*** v  重难点词汇
+# *** *insist*** v  重难点词汇
 英音 ɪn'sɪst     美音 ɪn'sɪst  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -2599,6 +2614,13 @@ innocence /'ɪnəsns/ n [U]
 ---
 1.*高义频：* **坚持；坚决要求**  
 英译 to demand that sth should happen：
+
+ > — Why don't you call them up today?  
+ > 为什么不今天就给他们电话呢？  
+
+ > **if you insist**  
+ > — OK, if you insist.   
+ > 好，如果一定要我这样办的话。  
 
 - insist on / upon (doing) sth:
 
@@ -2614,13 +2636,6 @@ innocence /'ɪnəsns/ n [U]
  > He insisted (that) the problem (should) be discussed at the meeting.  
  > 他执意要求在会上讨论这个问题。  
  > 来源：2010 湖北改  
-
- > — Why don't you call them up today?  
- > 为什么不今天就给他们电话呢？  
-
- > **if you insist**  
- > — OK, if you insist.   
- > 好，如果一定要我这样办的话。  
 
 2.*高义频：* **坚持说；坚持认为**  
 英译 to say firmly that sth is true, especially when others don’t believe you：
@@ -2642,10 +2657,11 @@ Notes: insist表示“坚持”和“坚决要求”时，that从句中用虚拟
 ##### 题目  
 The man insisted on________ (find) a taxi for me even though I told him I lived nearby.
   
+来源：2004 江苏改  
 ##### 答案 finding  
   
 
-# ***inspect*** vt
+# *** *inspect*** vt
 英音 ɪn'spekt     美音 ɪn'spekt  
 
 | 词频 2 | 阅读 1 |  
@@ -2667,7 +2683,7 @@ The man insisted on________ (find) a taxi for me even though I told him I lived 
 ---
 inspector /ɪn'spektə(r)/ n [C]  
 
-# ***inspiration*** n
+# *** *inspiration*** n
 英音 ˌɪnspə'reɪʃn     美音 ˌɪnspə'reɪʃn  
 
 | 词频 3 |  
@@ -2685,7 +2701,7 @@ inspector /ɪn'spektə(r)/ n [C]
  > 来源：2015 江苏改  
 
 
-# ***inspire*** vt
+# *** *inspire*** vt
 英音 ɪn'spaɪə(r)     美音 ɪn'spaɪər  
 
 | 词频 4 |  
@@ -2695,14 +2711,14 @@ inspector /ɪn'spektə(r)/ n [C]
 1.*高义频：* **激励；鼓舞**  
 英译 to make sb want to do sth：
 
+ > We need someone who can inspire the team.   
+ > 我们需要一位能鼓舞团队士气的人。  
+
 - inspire sb to do sth:
 
  > Her trust in me has inspired me to do things that I never imagined possible.  
  > 她对我的信任激励着我去尝试本以为不可能的事。  
  > 来源：2010北京  
-
- > We need someone who can inspire the team.   
- > 我们需要一位能鼓舞团队士气的人。  
 
 2.*高义频：* **激发；唤起**  
 英译 to make sb feel, think, etc. sth：
@@ -2723,7 +2739,7 @@ inspector /ɪn'spektə(r)/ n [C]
 inspired /ɪn'spaɪəd/ adj   
 inspiring /ɪn'spaɪərɪŋ/ adj   
 
-# ***inspiring*** adj
+# *** *inspiring*** adj
 英音 ɪn'spaɪərɪŋ     美音 ɪn'spaɪərɪŋ  
 
   
@@ -2733,7 +2749,7 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 1.**鼓舞人心的，启发灵感的**  
 
 
-# ***install*** vt
+# *** *install*** vt
 英音 ɪn'stɔːl     美音 ɪn'stɔːl  
 
 | 词频 2 | 书面 1 |  
@@ -2743,7 +2759,7 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 1.*高义频：* **安装；设置**  
 
 
-# ***instance*** n
+# *** *instance*** n
 英音 'ɪnstəns     美音 'ɪnstəns  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -2759,7 +2775,7 @@ inspiring /ɪn'spaɪərɪŋ/ adj
  > 例如  
 
 
-# ***instant*** adj
+# *** *instant*** adj
 英音 'ɪnstənt     美音 'ɪnstənt  
 
 | 词频 3 | 口语 1 |  
@@ -2775,7 +2791,7 @@ inspiring /ɪn'spaɪərɪŋ/ adj
  > 速溶咖啡/方便面  
 
 
-# ***instant*** n
+# *** *instant*** n
 英音 'ɪnstənt     美音 'ɪnstənt  
 
 | 词频 3 | 口语 1 |  
@@ -2798,8 +2814,7 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 
 固定搭配
 ---
-- the instant (that) 
-1.**一…就：**  
+## - *the instant (that)   **一…就：**  
 
  > The instant (= As soon as) she stopped asking questions, I got up and went out of the room.  
  > 她一停止问问题，我就起身走出了房间。  
@@ -2810,7 +2825,7 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 ---
 instantly /'ɪnstəntli/ adv   
 
-# ***instantly*** adv
+# *** *instantly*** adv
 英音 'ɪnstəntli     美音 'ɪnstəntli  
 
 | 词频 3 |  
@@ -2820,7 +2835,7 @@ instantly /'ɪnstəntli/ adv
 1.**立即；马上**  
 
 
-# ***instead*** adv
+# *** *instead*** adv
 英音 ɪn'sted     美音 ɪn'sted  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2835,8 +2850,7 @@ instantly /'ɪnstəntli/ adv
 
 固定搭配
 ---
-- instead of
-1.**代替；而不是：**  
+## - *instead of  **代替；而不是：**  
 
  > We went there on foot instead of by bus.   
  > 我们步行去了那儿，没坐车。  
@@ -2853,10 +2867,11 @@ instantly /'ɪnstəntli/ adv
 ---
 ##### 题目  
 The young man couldn't afford a new car. ________ (作为替代), he bought a used one.  
+来源：2011 天津改  
 ##### 答案 Instead  
   
 
-# ***institute*** n
+# *** *institute*** n
 英音 'ɪnstɪtjuːt     美音 'ɪnstɪtjuːt  
 
 | 词频 4 | 书面 1 | 阅读 3 |  
@@ -2874,7 +2889,7 @@ The young man couldn't afford a new car. ________ (作为替代), he bought a us
  > 英语教学研究所  
 
 
-# ***institution*** n
+# *** *institution*** n
 英音 ˌɪnstɪ'tjuːʃn     美音 ˌɪnstɪ'tjuːʃn  
 
 | 词频 2 | 书面 3 | 阅读 2 |  
@@ -2892,7 +2907,7 @@ The young man couldn't afford a new car. ________ (作为替代), he bought a us
  > 高等学校  
 
 
-# ***instruct*** vt
+# *** *instruct*** vt
 英音 ɪn'strʌkt     美音 ɪn'strʌkt  
 
 | 词频 2 |  
@@ -2934,7 +2949,7 @@ The young man couldn't afford a new car. ________ (作为替代), he bought a us
 instructive /ɪn'strʌktɪv/ adj   
 instructor /ɪn'strʌktə(r)/ n [C]  
 
-# ***instruction*** n
+# *** *instruction*** n
 英音 ɪn'strʌkʃn     美音 ɪn'strʌkʃn  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -2967,10 +2982,11 @@ instructor /ɪn'strʌktə(r)/ n [C]
 ---
 ##### 题目  
 Always read the ________ (instruction) on the bottle carefully and take the right amount of medicine.  
+来源：2006 福建改  
 ##### 答案 instructions  
   
 
-# ***instructor*** n
+# *** *instructor*** n
 英音 ɪn'strʌktə(r)     美音 ɪn'strʌktər  
 
 | 词频 4 |  
@@ -2980,7 +2996,7 @@ Always read the ________ (instruction) on the bottle carefully and take the righ
 1.**教练；导师**  
 
 
-# ***instrument*** n
+# *** *instrument*** n
 英音 'ɪnstrəmənt     美音 'ɪnstrəmənt  
 
 | 词频 3 | 书面 2 |  
@@ -2995,7 +3011,7 @@ Always read the ________ (instruction) on the bottle carefully and take the righ
  > 乐器/科学仪器  
 
 
-# ***insult*** vt
+# *** *insult*** vt
 英音 ɪn'sʌlt     美音 ɪn'sʌlt  
 
 | 词频 2 |  
@@ -3008,7 +3024,7 @@ Always read the ________ (instruction) on the bottle carefully and take the righ
  > 侮辱某人的智商  
 
 
-# ***insult*** n
+# *** *insult*** n
 英音 ɪn'sʌlt     美音 ɪn'sʌlt  
 
 | 词频 2 |  
@@ -3027,7 +3043,7 @@ Always read the ________ (instruction) on the bottle carefully and take the righ
 ---
 insulting /ɪn'sʌltɪŋ/ adj   
 
-# ***insurance*** n
+# *** *insurance*** n
 英音 ɪn'ʃʊərəns     美音 ɪn'ʃʊərəns  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -3051,7 +3067,7 @@ insulting /ɪn'sʌltɪŋ/ adj
  > 均衡的饮食可以防止营养不良。  
 
 
-# ***insure*** vt
+# *** *insure*** vt
 英音 ɪn'ʃʊə(r),ɪn'ʃɔː(r)     美音 ɪn'ʃʊr  
 
 | 词频 1 |  
@@ -3065,7 +3081,7 @@ insulting /ɪn'sʌltɪŋ/ adj
  > 我的房子上了火灾险和防盗险。  
 
 
-# ***intact*** adj
+# *** *intact*** adj
 英音 ɪn'tækt     美音 ɪn'tækt  
 
 | 词频 1 |  
@@ -3075,7 +3091,7 @@ insulting /ɪn'sʌltɪŋ/ adj
 1.**完好无损的，完整的**  
 
 
-# ***intake*** n
+# *** *intake*** n
 英音 'ɪnteɪk     
 
   
@@ -3085,7 +3101,7 @@ insulting /ɪn'sʌltɪŋ/ adj
 1.**吸入；招收；入口；通风口**  
 
 
-# ***intangible*** adj
+# *** *intangible*** adj
 英音 ɪn'tændʒəbl     美音 ɪn'tændʒəbl  
 
 | 词频 1 |  
@@ -3095,7 +3111,7 @@ insulting /ɪn'sʌltɪŋ/ adj
 1.**无形的，难以捉摸的，无法形容的**  
 
 
-# ***intellectual*** adj
+# *** *intellectual*** adj
 英音 ˌɪntə'lektʃuəl     美音 ˌɪntə'lektʃuəl  
 
 | 词频 1 |  
@@ -3105,7 +3121,7 @@ insulting /ɪn'sʌltɪŋ/ adj
 1.*高义频：* **智力的；脑力的**  
 
 
-# ***intelligence*** n
+# *** *intelligence*** n
 英音 ɪn'telɪdʒəns     美音 ɪn'telɪdʒəns  
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 3 |  
@@ -3128,7 +3144,7 @@ insulting /ɪn'sʌltɪŋ/ adj
  > 发挥你的聪明才智，你一定能取得成就。  
 
 
-# ***intelligent*** adj
+# *** *intelligent*** adj
 英音 ɪn'telɪdʒənt     美音 ɪn'telɪdʒənt  
 
 | 词频 3 | 口语 1 | 阅读 3 |  
@@ -3141,7 +3157,7 @@ insulting /ɪn'sʌltɪŋ/ adj
  > 聪明的学生/机智的问题  
 
 
-# ***intend*** vt
+# *** *intend*** vt
 英音 ɪn'tend     美音 ɪn'tend  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -3150,6 +3166,9 @@ insulting /ɪn'sʌltɪŋ/ adj
 ---
 1.*高义频：* **打算；想要：**  
 英译 to plan or mean to do sth：
+
+ > I intend no harm.   
+ > 我没有恶意。  
 
 - intend doing / to do sth：
 
@@ -3170,9 +3189,6 @@ insulting /ɪn'sʌltɪŋ/ adj
  > We intend that / It is intended that production will start next month.  
  > 我们打算下个月开始生产。  
 
- > I intend no harm.   
- > 我没有恶意。  
-
 
 派生词汇
 ---
@@ -3186,7 +3202,7 @@ intended /ɪn'tendɪd/ adj
  > 他此次访问旨在增进两国间的关系。  
 
 
-# ***intense*** adj
+# *** *intense*** adj
 英音 ɪn'tens     美音 ɪn'tens  
 
 | 词频 1 | 书面 1 |  
@@ -3196,7 +3212,7 @@ intended /ɪn'tendɪd/ adj
 1.*高义频：* **强烈的；激烈的**  
 
 
-# ***intensity*** n
+# *** *intensity*** n
 英音 ɪn'tensəti     美音 ɪn'tensəti  
 
   
@@ -3206,7 +3222,7 @@ intended /ɪn'tendɪd/ adj
 1.**（光、声等的）强度**  
 
 
-# ***intention*** n
+# *** *intention*** n
 英音 ɪn'tenʃn     美音 ɪn'tenʃn  
 
 | 词频 3 | 口语 1 | 书面 2 |  
@@ -3231,7 +3247,7 @@ intended /ɪn'tendɪd/ adj
  > 设立这个项目是为了帮助无家可归的人。  
 
 
-# ***interact*** vi
+# *** *interact*** vi
 英音 ˌɪntər'ækt     美音 ˌɪntər'ækt  
 
 | 词频 2 |  
@@ -3245,7 +3261,7 @@ intended /ɪn'tendɪd/ adj
  > 露西和班里的其他孩子相处得很好。  
 
 
-# ***interest*** n
+# *** *interest*** n
 英音 'ɪntrəst     美音 'ɪntrəst  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3295,7 +3311,7 @@ intended /ɪn'tendɪd/ adj
  > 来源：2016 全国  
 
 
-# ***interest*** vt
+# *** *interest*** vt
 英音 'ɪntrəst     美音 'ɪntrəst  
 
 | 词频 5 |  
@@ -3308,7 +3324,7 @@ intended /ɪn'tendɪd/ adj
  > 这里有篇文章，也许你会感兴趣。  
 
 
-# ***interested*** adj
+# *** *interested*** adj
 英音 'ɪntrəstɪd     美音 'ɪntrəstɪd  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -3342,10 +3358,11 @@ intended /ɪn'tendɪd/ adj
 ---
 ##### 题目  
 In their spare time, they are interesting in planting vegetables in their garden.  
+来源：2017 全国  改错  
 ##### 答案 interesting → interested  
   
 
-# ***interesting*** adj
+# *** *interesting*** adj
 英音 'ɪntrəstɪŋ,'ɪntrestɪŋ     美音 'ɪntrəstɪŋ  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -3365,7 +3382,7 @@ In their spare time, they are interesting in planting vegetables in their garden
  > 来源：2015 全国书面表达  
 
 
-# ***interestingly*** adv
+# *** *interestingly*** adv
 
 
   
@@ -3375,7 +3392,7 @@ In their spare time, they are interesting in planting vegetables in their garden
 1.**有趣地**  
 
 
-# ***interfere*** vi
+# *** *interfere*** vi
 英音 ˌɪntə'fɪə(r)     美音 ˌɪntər'fɪr  
 
 | 词频 1 |  
@@ -3388,7 +3405,7 @@ In their spare time, they are interesting in planting vegetables in their garden
  > 我希望妈妈不再干预我，让我自己作决定。  
 
 
-# ***interior*** n
+# *** *interior*** n
 英音 ɪn'tɪəriə(r)     美音 ɪn'tɪriər  
 
 | 词频 1 |  
@@ -3398,7 +3415,7 @@ In their spare time, they are interesting in planting vegetables in their garden
 1.*高义频：* **内部；里面**  
 
 
-# ***interior*** adj
+# *** *interior*** adj
 英音 ɪn'tɪəriə(r)     美音 ɪn'tɪriər  
 
 | 词频 1 |  
@@ -3412,7 +3429,7 @@ In their spare time, they are interesting in planting vegetables in their garden
  > 室内设计  
 
 
-# ***intermediate*** adj
+# *** *intermediate*** adj
 英音 ˌɪntə'miːdiət     美音 ˌɪntər'miːdiət  
 
 | 词频 1 |  
@@ -3422,7 +3439,7 @@ In their spare time, they are interesting in planting vegetables in their garden
 1.*高义频：* **(班级 / 课程等) 中级的；(水平) 中等的**  
 
 
-# ***internal*** adj
+# *** *internal*** adj
 英音 ɪn'tɜːnl     美音 ɪn'tɜːrnl  
 
 | 词频 2 | 书面 2 | 阅读 2 |  
@@ -3441,7 +3458,7 @@ In their spare time, they are interesting in planting vegetables in their garden
  > 内心的疑虑  
 
 
-# ***international*** adj
+# *** *international*** adj
 英音 ˌɪntə'næʃnəl     美音 ˌɪntə'næʃnəl  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -3454,7 +3471,7 @@ In their spare time, they are interesting in planting vegetables in their garden
  > 具有国际声誉的钢琴家  
 
 
-# ***internationalize*** vt
+# *** *internationalize*** vt
 英音 ˌɪntə'næʃnəlaɪz     
 
   
@@ -3464,7 +3481,7 @@ In their spare time, they are interesting in planting vegetables in their garden
 1.**使国际化； 把 ... 置于国际共管之下**  
 
 
-# ***interpersonal*** adj
+# *** *interpersonal*** adj
 英音 ˌɪntə'pɜːsənl     美音 ˌɪntər'pɜːrsənl  
 
 | 词频 1 |  
@@ -3474,7 +3491,7 @@ In their spare time, they are interesting in planting vegetables in their garden
 1.**人际关系的，人与人之间的**  
 
 
-# ***interpret*** v
+# *** *interpret*** v
 英音 ɪn'tɜːprɪt     美音 ɪn'tɜːrprɪt  
 
 | 词频 1 | 书面 1 |  
@@ -3498,7 +3515,7 @@ In their spare time, they are interesting in planting vegetables in their garden
 ---
 interpretation /ɪnˌtɜːprɪ'teɪʃn/ n [C] & [U]  
 
-# ***interpreter*** n
+# *** *interpreter*** n
 英音 ɪn'tɜːprɪtə(r)     美音 ɪn'tɜːrprɪtər  
 
 | 词频 1 |  
@@ -3510,7 +3527,7 @@ interpretation /ɪnˌtɜːprɪ'teɪʃn/ n [C] & [U]
 1.*高义频：* **传译员；口译者**  
 
 
-# ***interrupt*** v
+# *** *interrupt*** v
 英音 ˌɪntə'rʌpt     美音 ˌɪntə'rʌpt  
 
 | 词频 3 |  
@@ -3539,10 +3556,11 @@ interruption /ˌɪntə'rʌpʃn/ n [U] & [C]
 ---
 ##### 题目  
 Will you stop _______ (打断) me when I’m talking?  
+来源：2012 全国  
 ##### 答案 interrupting  
   
 
-# ***interval*** n
+# *** *interval*** n
 英音 'ɪntəvl     美音 'ɪntəvl  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -3564,7 +3582,7 @@ Will you stop _______ (打断) me when I’m talking?
  > 在一场剧的两部分之间，常有幕间休息。  
 
 
-# ***interview*** n
+# *** *interview*** n
 英音 'ɪntəvjuː     美音 'ɪntəvjuː  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -3582,7 +3600,7 @@ Will you stop _______ (打断) me when I’m talking?
  > 参加面试  
 
 
-# ***interview*** vt
+# *** *interview*** vt
 英音 'ɪntəvjuː     美音 'ɪntəvjuː  
 
 | 词频 4 | 口语 2 |  
@@ -3605,7 +3623,7 @@ Will you stop _______ (打断) me when I’m talking?
 interviewee /ˌɪntəvjuː'iː/ n [C]  
 interviewer  /'ɪntəvjuːə(r)/ n [C]   
 
-# ***interviewee*** n
+# *** *interviewee*** n
 英音 ˌɪntəvjuː'iː     美音 ˌɪntərvjuː'iː  
 
 | 词频 1 |  
@@ -3617,7 +3635,7 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 1.*高义频：* **参加面试者；接受采访者**  
 
 
-# ***interviewer*** n
+# *** *interviewer*** n
 英音 'ɪntəvjuːə(r)     美音 'ɪntərvjuːər  
 
 | 词频 1 |  
@@ -3627,7 +3645,7 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 1.**（面试时的）主考官；面谈者**  
 
 
-# ***intestine*** n
+# *** *intestine*** n
 英音 ɪn'testɪn     美音 ɪn'testɪn  
 
 | 词频 1 |  
@@ -3637,7 +3655,7 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 1.**（常复）肠**  
 
 
-# ***intimate*** adj
+# *** *intimate*** adj
 英音 'ɪntɪmət     美音 'ɪntɪmət  
 
 | 词频 1 |  
@@ -3647,7 +3665,7 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 1.**亲密的**  
 
 
-# ***into*** prep
+# *** *into*** prep
 英音 'ɪntə,'ɪntu，'ɪntuː     美音 'ɪntə,'ɪntu，'ɪntuː  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3682,7 +3700,7 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
  > 警方对导致她死亡的事件进行了调查。  
 
 
-# ***intonation*** n
+# *** *intonation*** n
 英音 ˌɪntə'neɪʃn     美音 ˌɪntə'neɪʃn  
 
 | 词频 1 |  
@@ -3692,7 +3710,7 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 1.**语调**  
 
 
-# ***introduce*** vt
+# *** *introduce*** vt
 英音 ˌɪntrə'djuːs     美音 ˌɪntrə'djuːs  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -3715,13 +3733,13 @@ Notes: introduce不接双宾语。
 
 3.*高义频：* **介绍；引见：**  
 
+ > May I introduce myself?  
+ > 我能自我介绍一下吗？  
+
 - introduce sb / sth to sb:
 
  > June, let me introduce you to Bob.  
  > 琼，我来把你介绍给鲍勃。  
-
- > May I introduce myself?  
- > 我能自我介绍一下吗？  
 
 4.*低义频：* **使初次了解 / 尝试：**  
 
@@ -3731,7 +3749,7 @@ Notes: introduce不接双宾语。
  > 来源：2017 全国改  
 
 
-# ***introduction*** n
+# *** *introduction*** n
 英音 ˌɪntrə'dʌkʃn     美音 ˌɪntrə'dʌkʃn  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -3766,10 +3784,11 @@ Notes: introduce不接双宾语。
 ---
 ##### 题目  
 This development was only possible with the ________ (introduce) of electric-powered engines and lifts.  
+来源：2017 全国  
 ##### 答案 introduction  
   
 
-# ***invade*** v
+# *** *invade*** v
 英音 ɪn'veɪd     美音 ɪn'veɪd  
 
 | 词频 1 |  
@@ -3791,7 +3810,7 @@ This development was only possible with the ________ (introduce) of electric-pow
 ---
 invasion /ɪn'veɪʒn/ n [C] & [U]  
 
-# ***invader*** n
+# *** *invader*** n
 英音 ɪn'veɪdə(r)     美音 ɪn'veɪdər  
 
 | 词频 1 |  
@@ -3803,7 +3822,7 @@ invasion /ɪn'veɪʒn/ n [C] & [U]
 1.*高义频：* **侵略者**  
 
 
-# ***invaluable*** adj
+# *** *invaluable*** adj
 英音 ɪn'væljuəbl     美音 ɪn'væljuəbl  
 
 | 词频 1 |  
@@ -3813,7 +3832,7 @@ invasion /ɪn'veɪʒn/ n [C] & [U]
 1.*高义频：* **无价的；极宝贵的**  
 
 
-# ***invasion*** n
+# *** *invasion*** n
 英音 ɪn'veɪʒn     美音 ɪn'veɪʒn  
 
 | 词频 1 |  
@@ -3829,7 +3848,7 @@ invasion /ɪn'veɪʒn/ n [C] & [U]
  > 对隐私的侵犯  
 
 
-# ***invent*** vt
+# *** *invent*** vt
 英音 ɪn'vent     美音 ɪn'vent  
 
 | 词频 4 |  
@@ -3852,7 +3871,7 @@ invasion /ɪn'veɪʒn/ n [C] & [U]
 ---
 inventor  /ɪn'ventə(r)/ n [C]   
 
-# ***invention*** n
+# *** *invention*** n
 英音 ɪn'venʃn     美音 ɪn'venʃn  
 
 | 词频 4 |  
@@ -3875,7 +3894,7 @@ inventor  /ɪn'ventə(r)/ n [C]
  > 本故事纯属虚构。  
 
 
-# ***inventor*** n
+# *** *inventor*** n
 英音 ɪn'ventə(r)     美音 ɪn'ventər  
 
 | 词频 4 |  
@@ -3885,7 +3904,7 @@ inventor  /ɪn'ventə(r)/ n [C]
 1.**发明家**  
 
 
-# ***invest*** v
+# *** *invest*** v
 英音 ɪn'vest     美音 ɪn'vest  
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 2 |  
@@ -3902,7 +3921,7 @@ inventor  /ɪn'ventə(r)/ n [C]
  > 我把全部精力投入到工作中。  
 
 
-# ***investigate*** v
+# *** *investigate*** v
 英音 ɪn'vestɪɡeɪt     美音 ɪn'vestɪɡeɪt  
 
 | 词频 2 | 书面 2 | 阅读 1 |  
@@ -3919,7 +3938,7 @@ inventor  /ɪn'ventə(r)/ n [C]
 ---
 investigation /ɪnˌvestɪ'ɡeɪʃn/ n [U] & [C]   
 
-# ***investigation*** n
+# *** *investigation*** n
 英音 ɪnˌvestɪ'ɡeɪʃn     美音 ɪnˌvestɪ'ɡeɪʃn  
 
 | 词频 2 | 书面 2 |  
@@ -3935,7 +3954,7 @@ investigation /ɪnˌvestɪ'ɡeɪʃn/ n [U] & [C]
  > 来源：2010 上海  
 
 
-# ***invisible*** adj
+# *** *invisible*** adj
 英音 ɪn'vɪzəbl     美音 ɪn'vɪzəbl  
 
 | 词频 2 |  
@@ -3948,7 +3967,7 @@ investigation /ɪnˌvestɪ'ɡeɪʃn/ n [U] & [C]
  > 你可以在晴朗的夜空看到这些星星，但是在白天它们是看不到的。  
 
 
-# ***invitation*** n
+# *** *invitation*** n
 英音 ˌɪnvɪ'teɪʃn     美音 ˌɪnvɪ'teɪʃn  
 
 | 词频 4 |  
@@ -3987,10 +4006,11 @@ investigation /ɪnˌvestɪ'ɡeɪʃn/ n [U] & [C]
 ---
 ##### 题目  
 She has turned down several ________ (invitation) to star at shows in order to concentrate on her studies.  
+来源：2017 全国  
 ##### 答案 invitations  
   
 
-# ***invite*** vt
+# *** *invite*** vt
 英音 ɪn'vaɪt     美音 ɪn'vaɪt  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -3998,6 +4018,10 @@ She has turned down several ________ (invitation) to star at shows in order to c
 英文释义
 ---
 1.*高义频：* **邀请：**  
+
+ > **invite,for**  
+ > Why don't we invite our new neighbour over for tea?  
+ > 我们为何不请新邻居过来喝茶呢？  
 
 - invite sb to (do) sth:
 
@@ -4008,10 +4032,6 @@ She has turned down several ________ (invitation) to star at shows in order to c
  > We did so well that we were invited to share our idea and experience with all the students of our school.  
  > 我们做得很出色，应邀向全校学生分享我们的想法和经验。  
  > 来源：2016 北京书面表达  
-
- > **invite,for**  
- > Why don't we invite our new neighbour over for tea?  
- > 我们为何不请新邻居过来喝茶呢？  
 
 2.*低义频：* **请求；征求**  
 英译 to ask sb formally to do sth：
@@ -4027,10 +4047,11 @@ She has turned down several ________ (invitation) to star at shows in order to c
 ---
 ##### 题目  
 When summer comes, they will invite their students pick the fresh vegetables!  
+来源：2017 全国  改错  
 ##### 答案 pick 前加to  
   
 
-# ***involve*** vt  重难点词汇
+# *** *involve*** vt  重难点词汇
 英音 ɪn'vɒlv     美音 ɪn'vɑːlv  
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -4078,10 +4099,11 @@ involvement /ɪn'vɒlvmənt/ n [U]
 ---
 ##### 题目  
 Michelle found a job as a high school teacher which involves ________ (spend) quite a lot of time with students.  
+来源：2013 福建改  
 ##### 答案 spending  
   
 
-# ***involved*** adj
+# *** *involved*** adj
 英音 ɪn'vɒlvd     美音 ɪn'vɑːlvd  
 
 | 词频 3 |  
@@ -4105,7 +4127,7 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
  > 父亲应该更多和自己的孩子在一起。  
 
 
-# ***iron*** n
+# *** *iron*** n
 英音 'aɪən     美音 'aɪən  
 
 | 词频 2 | 口语 2 | 书面 1 |  
@@ -4123,7 +4145,7 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
  > 电熨斗  
 
 
-# ***iron*** v
+# *** *iron*** v
 英音 'aɪən     美音 'aɪən  
 
 | 词频 2 | 口语 1 |  
@@ -4136,7 +4158,7 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
  > 我得把那件连衣裙熨一熨。  
 
 
-# ***iron*** adj
+# *** *iron*** adj
 英音 'aɪən     美音 'aɪən  
 
 | 词频 2 |  
@@ -4150,7 +4172,7 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
  > 坚强的意志  
 
 
-# ***irregular*** adj
+# *** *irregular*** adj
 英音 ɪ'reɡjələ(r)     美音 ɪ'reɡjələr  
 
 | 词频 1 |  
@@ -4160,7 +4182,7 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 1.**不规则的；无规律的**  
 
 
-# ***irrigation*** n
+# *** *irrigation*** n
 英音 ˌɪrɪ'ɡeɪʃn     美音 ˌɪrɪ'ɡeɪʃn  
 
 | 词频 2 |  
@@ -4172,7 +4194,7 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 1.*高义频：* **灌溉**  
 
 
-# ***irritate*** v
+# *** *irritate*** v
 英音 'ɪrɪteɪt     美音 'ɪrɪteɪt  
 
 | 词频 1 |  
@@ -4182,7 +4204,7 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 1.**（尤指不断重复做某事而）使（人长期）烦躁**  
 
 
-# ***island*** n
+# *** *island*** n
 英音 'aɪlənd     美音 'aɪlənd  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -4194,7 +4216,7 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 1.*高义频：* **岛；岛状物**  
 
 
-# ***isolated*** adj
+# *** *isolated*** adj
 英音 'aɪsəleɪtɪd     美音 'aɪsəleɪtɪd  
 
 | 词频 2 |  
@@ -4204,7 +4226,7 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 1.**孤单的；孤立的**  
 
 
-# ***issue*** n  重难点词汇
+# *** *issue*** n  重难点词汇
 英音 'ɪʃuː     美音 'ɪʃuː  
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -4242,7 +4264,7 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
  > 来源：外研⑦ – 2  
 
 
-# ***issue*** vt  重难点词汇
+# *** *issue*** vt  重难点词汇
 英音 'ɪʃuː     美音 'ɪʃuː  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -4274,7 +4296,7 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
  > 发行一套邮票  
 
 
-# ***it*** pron
+# *** *it*** pron
 英音 ɪt     美音 ɪt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4348,23 +4370,27 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 ---
 ##### 题目  
 How would you like_______ if you were watching your favorite TV program and someone came into the room and just shut it off without asking you?  
+来源：2015 浙江改  
 ##### 答案 it  
   
 ##### 题目  
 — Who's that at the door? 
 —  ________ is the milkman.   
+来源：2014 全国改  
 ##### 答案 It  
   
 ##### 题目  
 An average of just 18.75 cm of rain fell last year, making ________ the driest year since California became a state in 1850.  
+来源：2014 浙江改  
 ##### 答案 it  
   
 ##### 题目  
 Why don't you bring _______ to his attention that you're too ill to work on?   
+来源：2011 江西改  
 ##### 答案 it  
   
 
-# ***italics*** n
+# *** *italics*** n
 英音 ɪ'tælɪks     美音 ɪ'tælɪks  
 
 | 词频 1 |  
@@ -4374,7 +4400,7 @@ Why don't you bring _______ to his attention that you're too ill to work on?
 1.*高义频：* **(pl) 斜体 (字)**  
 
 
-# ***item*** n
+# *** *item*** n
 英音 'aɪtəm     美音 'aɪtəm  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -4399,7 +4425,7 @@ Why don't you bring _______ to his attention that you're too ill to work on?
  > 第一条新闻主要是关于什么的？  
 
 
-# ***its*** pron
+# *** *its*** pron
 英音 ɪts     美音 ɪts  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4418,10 +4444,11 @@ Why don't you bring _______ to his attention that you're too ill to work on?
 ---
 ##### 题目  
 On my recent visit, I held a lively three-monthold panda that had been rejected by ________  (it) mother.  
+来源：2016 全国改  
 ##### 答案 its  
   
 
-# ***itself*** pron
+# *** *itself*** pron
 英音 ɪt'self     美音 ɪt'self  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -4439,8 +4466,7 @@ On my recent visit, I held a lively three-monthold panda that had been rejected 
 
 固定搭配
 ---
-- by itself 
-1.**单独地；独立地：**  
+## - *by itself   **单独地；独立地：**  
 
  > The tree stands by itself in the garden.   
  > 那棵树孤零零地立在花园中。  
@@ -4451,14 +4477,16 @@ On my recent visit, I held a lively three-monthold panda that had been rejected 
 ##### 题目  
 Surprisingly, Susan's beautiful hair reached below her knees and made ________ (it) almost an overcoat for her.
   
+来源：2011 安徽改  
 ##### 答案 itself  
   
 ##### 题目  
 Isn't it amazing how the human body heals ________ (it) after an injury?  
+来源：2008 江西改  
 ##### 答案 itself  
   
 
-# ***ivory*** n
+# *** *ivory*** n
 英音 'aɪvəri     美音 'aɪvəri  
 
 | 词频 1 |  

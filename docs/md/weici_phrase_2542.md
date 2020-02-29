@@ -1,4 +1,4 @@
-# ***(all) by oneself*** 
+# *** *(all) by oneself*** 
 
 
   
@@ -8,7 +8,7 @@
 1.**独自地；独立地**  
 
 
-# ***(all) day and (all) night*** 
+# *** *(all) day and (all) night*** 
 
 
   
@@ -21,7 +21,7 @@
  > 大雪不分昼夜地下，全城陷入交通大拥堵。  
 
 
-# ***(all) over again*** 
+# *** *(all) over again*** 
 
 
   
@@ -34,7 +34,7 @@
  > 他工作做得太差劲了,我只好亲自重做。  
 
 
-# ***(and) what is more*** 
+# *** *(and) what is more*** 
 
 
   
@@ -47,7 +47,7 @@
  > 天然气是一种很高效的燃料，而且是清洁的。  
 
 
-# ***(as) dry as dust*** 
+# *** *(as) dry as dust*** 
 
 
   
@@ -61,7 +61,7 @@
  > 来源：2006 江西  
 
 
-# ***(at) any minute*** 
+# *** *(at) any minute*** 
 
 
   
@@ -74,7 +74,7 @@
  > 快点儿！他随时会回来。  
 
 
-# ***(at) any moment (now)*** 
+# *** *(at) any moment (now)*** 
 
 
   
@@ -87,7 +87,7 @@
  > 快点儿！他马上就会回来。  
 
 
-# ***(at) any time*** 
+# *** *(at) any time*** 
 
 
   
@@ -100,7 +100,7 @@
  > 不可预料的灾难随时可能发生。  
 
 
-# ***(at) the last moment*** 
+# *** *(at) the last moment*** 
 
 
   
@@ -113,7 +113,7 @@
  > 他们在最后一刻改变了计划。  
 
 
-# ***(be) allergic to*** 
+# *** *(be) allergic to*** 
 
 
   
@@ -127,7 +127,7 @@
  > 来源：人教⑩ – 2  
 
 
-# ***(be) ashamed of*** 
+# *** *(be) ashamed of*** 
 
 
   
@@ -143,7 +143,7 @@
  > 你应对自己的愚蠢行为感到羞耻。  
 
 
-# ***(be) associated with*** 
+# *** *(be) associated with*** 
 
 
   
@@ -157,7 +157,7 @@
  > 来源：2014 安徽  
 
 
-# ***(be) aware of*** 
+# *** *(be) aware of*** 
 
 
   
@@ -170,7 +170,7 @@
  > 所有邻居都知道这件事。  
 
 
-# ***(be) bent on (doing) sth*** 
+# *** *(be) bent on (doing) sth*** 
 
 
   
@@ -180,7 +180,7 @@
 1.**下决心做某事**  
 
 
-# ***(be) beside the point*** 
+# *** *(be) beside the point*** 
 
 
   
@@ -190,7 +190,7 @@
 1.**离题；与主题无关**  
 
 
-# ***(be) better off*** 
+# *** *(be) better off*** 
 
 
   
@@ -205,7 +205,7 @@
  > 来源：2012 江苏  
 
 
-# ***(be) better off doing sth*** 
+# *** *(be) better off doing sth*** 
 
 
   
@@ -221,7 +221,7 @@
  > 我觉得你们乘飞机比较好。  
 
 
-# ***(be) blessed with*** 
+# *** *(be) blessed with*** 
 
 
   
@@ -235,7 +235,7 @@
  > 来源：外研⑥ – 3  
 
 
-# ***(be) bored with*** 
+# *** *(be) bored with*** 
 
 
   
@@ -249,7 +249,7 @@
  > 来源：译林 ⑦-1  
 
 
-# ***(be) dying to*** 
+# *** *(be) dying to*** 
 
 
   
@@ -262,7 +262,7 @@
  > 我很想见你。  
 
 
-# ***(be) fed up with*** 
+# *** *(be) fed up with*** 
 
 
   
@@ -275,7 +275,7 @@
  > 我讨厌这种下雨天。  
 
 
-# ***(be) full of*** 
+# *** *(be) full of*** 
 
 
   
@@ -293,7 +293,7 @@
  > 来源：2012 福建  
 
 
-# ***(be) identical to*** 
+# *** *(be) identical to*** 
 
 
   
@@ -303,7 +303,7 @@
 1.**与……一样；与……一致**  
 
 
-# ***(be) in good / poor health*** 
+# *** *(be) in good / poor health*** 
 
 
   
@@ -320,7 +320,7 @@
  > 我爷爷78岁了，身体不太好。  
 
 
-# ***(be) in hospital*** 
+# *** *(be) in hospital*** 
 
 
   
@@ -334,7 +334,7 @@
 
 Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不加定冠词。  
 
-# ***(be) in touch (with)*** 
+# *** *(be) in touch (with)*** 
 
 
   
@@ -347,7 +347,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 你与以前的同事还有联系吗？  
 
 
-# ***(be) laden with*** 
+# *** *(be) laden with*** 
 
 
   
@@ -357,7 +357,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**（空气中）充溢着（某种味道）的**  
 
 
-# ***(be) lost in*** 
+# *** *(be) lost in*** 
 
 
   
@@ -373,7 +373,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 由于陷入了沉思，他差点儿撞上前面的车。  
 
 
-# ***(be) nervous about*** 
+# *** *(be) nervous about*** 
 
 
   
@@ -387,7 +387,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 来源：人教④ – 4  
 
 
-# ***(be) nostalgic for*** 
+# *** *(be) nostalgic for*** 
 
 
   
@@ -397,7 +397,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**对……很怀念**  
 
 
-# ***(be) of … help*** 
+# *** *(be) of … help*** 
 
 
   
@@ -419,7 +419,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 很高兴我能帮上忙。  
 
 
-# ***(be) on good terms with*** 
+# *** *(be) on good terms with*** 
 
 
   
@@ -433,7 +433,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 来源：外研⑥ – 3  
 
 
-# ***(be) on the phone*** 
+# *** *(be) on the phone*** 
 
 
   
@@ -447,7 +447,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 来源：2008 湖南改  
 
 
-# ***(be) out of touch (with)*** 
+# *** *(be) out of touch (with)*** 
 
 
   
@@ -460,7 +460,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 我们大约有两年没有和他们联系了。  
 
 
-# ***(be) pleased with oneself*** 
+# *** *(be) pleased with oneself*** 
 
 
   
@@ -470,7 +470,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**自鸣得意**  
 
 
-# ***(be) related to*** 
+# *** *(be) related to*** 
 
 
   
@@ -483,7 +483,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > “新四大发明”都与中国高科技创新有关。  
 
 
-# ***(be) restricted to*** 
+# *** *(be) restricted to*** 
 
 
   
@@ -493,7 +493,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**限于**  
 
 
-# ***(be) sceptical about / of*** 
+# *** *(be) sceptical about / of*** 
 
 
   
@@ -506,7 +506,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 她怀疑一切。  
 
 
-# ***(be) short for*** 
+# *** *(be) short for*** 
 
 
   
@@ -519,7 +519,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > UN是UnitedNations的简称。  
 
 
-# ***(be) short of*** 
+# *** *(be) short of*** 
 
 
   
@@ -535,7 +535,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 这个报告似乎缺乏事实依据。  
 
 
-# ***(be) strict with ...*** 
+# *** *(be) strict with ...*** 
 
 
   
@@ -548,7 +548,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 我认为老师应该对学生严格要求。  
 
 
-# ***(be) supposed to be / to do sth*** 
+# *** *(be) supposed to be / to do sth*** 
 
 
   
@@ -570,7 +570,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 这里不可以吸烟。  
 
 
-# ***(be) true of / for*** 
+# *** *(be) true of / for*** 
 
 
   
@@ -580,7 +580,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**与……情况相同**  
 
 
-# ***(be) worried sick*** 
+# *** *(be) worried sick*** 
 
 
   
@@ -593,7 +593,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 我们非常担心你，你还好吗？  
 
 
-# ***(every) now and then / again*** 
+# *** *(every) now and then / again*** 
 
 
   
@@ -610,7 +610,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 他偶尔还来看我。  
 
 
-# ***(from) door to door*** 
+# *** *(from) door to door*** 
 
 
   
@@ -623,7 +623,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 春节第一天，大多数家庭挨家挨户去拜年。  
 
 
-# ***(it is) no wonder (that)*** 
+# *** *(it is) no wonder (that)*** 
 
 
   
@@ -639,7 +639,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 她的孩子不见了，难怪她如此心神不宁。  
 
 
-# ***(just) around / round the corner*** 
+# *** *(just) around / round the corner*** 
 
 
   
@@ -655,12 +655,12 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 胜利在望。  
 
 
-# ***(just) in case*** 
+# *** *(just) in case*** 
 
 
   
 
-# ***(or) rather*** 
+# *** *(or) rather*** 
 
 
   
@@ -673,7 +673,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 他昨晚一直工作到深夜，更确切地说，是到今天凌晨。  
 
 
-# ***(the) Netherlands*** n
+# *** *(the) Netherlands*** n
 英音 'neðələndz     美音 'neðərləndz  
 
 | 词频 1 |  
@@ -683,7 +683,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **荷兰 (西欧国家)**  
 
 
-# ***(the) same to you*** 
+# *** *(the) same to you*** 
 
 
   
@@ -699,7 +699,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 玛丽，谢谢！你也保重！  
 
 
-# ***(yours) sincerely*** 
+# *** *(yours) sincerely*** 
 
 
   
@@ -709,7 +709,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**[用于正式信件末尾] 敬上； 谨上**  
 
 
-# ***AD / A. D.*** abbr
+# *** *AD / A. D.*** abbr
 英音 ˌeɪ 'diː     美音 ˌeɪ 'diː  
 
 | 词频 3 | 口语 3 | 书面 3 |  
@@ -719,7 +719,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **公元（Anno Domini）**  
 
 
-# ***Absolutely not!*** 
+# *** *Absolutely not!*** 
 
 
   
@@ -735,7 +735,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 当然不!  
 
 
-# ***Academy of Arts*** 
+# *** *Academy of Arts*** 
 
 
   
@@ -745,7 +745,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**艺术学院**  
 
 
-# ***Achilles' heel*** 
+# *** *Achilles' heel*** 
 
 
   
@@ -755,7 +755,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**致命弱点；死穴**  
 
 
-# ***Akira Nagata*** 
+# *** *Akira Nagata*** 
 英音 ə'kɪrə nə'ɡɑːtɑː     美音 ə'kɪrə nə'ɡɑːtɑː  
 
 | 词频 1 |  
@@ -765,7 +765,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **永田明**  
 
 
-# ***Alan Turing*** 
+# *** *Alan Turing*** 
 英音 'ælən 'tjuəriŋ     美音 'ælən 'tjuəriŋ  
 
 | 词频 1 |  
@@ -775,7 +775,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **艾伦·图灵 (英国数学家)**  
 
 
-# ***Albert Einstein*** 
+# *** *Albert Einstein*** 
 英音 'ælbət 'ainstain     美音 'ælbət 'ainstain  
 
 | 词频 1 |  
@@ -785,7 +785,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **阿尔伯特·爱因斯坦 (德裔美国科学家)**  
 
 
-# ***All the best!*** 
+# *** *All the best!*** 
 
 
   
@@ -795,7 +795,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**[告别时用语；信函最后的问候语]祝一切顺利！**  
 
 
-# ***Andrew Hallidie*** 
+# *** *Andrew Hallidie*** 
 英音 ˈændru: ˈhælɪdaɪ     美音  ˈændru ˈhælɪdɪ  
 
 | 词频 1 |  
@@ -805,7 +805,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **安德鲁·哈利迪**  
 
 
-# ***Angel Island*** 
+# *** *Angel Island*** 
 英音 'eɪndʒl 'aɪlənd     美音 'eɪndʒl 'aɪlənd  
 
   
@@ -815,7 +815,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **天使岛**  
 
 
-# ***Auld Lang Syne*** 
+# *** *Auld Lang Syne*** 
 
 
   
@@ -825,7 +825,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**友谊地久天长（苏格兰民歌，通常在新年前夕的）**  
 
 
-# ***BC / B.C.*** abbr
+# *** *BC / B.C.*** abbr
 英音 ˌbiː'siː     美音 ˌbiː'siː  
 
 | 词频 2 |  
@@ -835,7 +835,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **公元前 (Before Christ)**  
 
 
-# ***Barry Minto*** 
+# *** *Barry Minto*** 
 英音 ˈbæri 'mɪntəʊ     美音 ˈbæri 'mɪntoʊ  
 
 | 词频 1 |  
@@ -845,7 +845,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **巴里·明托**  
 
 
-# ***Bering Strait*** 
+# *** *Bering Strait*** 
 英音 'beriŋ streɪt     美音 ˈberɪŋ streɪt  
 
 | 词频 1 |  
@@ -855,7 +855,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **白令海峡**  
 
 
-# ***Big Bang*** 
+# *** *Big Bang*** 
 英音 bɪɡ bæŋ     美音 bɪɡ bæŋ  
 
 | 词频 1 |  
@@ -865,7 +865,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **宇宙大爆炸；创世大爆炸**  
 
 
-# ***Buckingham Palace*** 
+# *** *Buckingham Palace*** 
 英音 ˌbʌkɪŋəm'pæləs     美音 ˌbʌkɪŋəm'pæləs  
 
 | 词频 1 |  
@@ -875,7 +875,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **白金汉宫**  
 
 
-# ***Cambridge Street*** 
+# *** *Cambridge Street*** 
 英音 'kæmbrɪdʒ striːt     美音 'kæmbrɪdʒ striːt  
 
 | 词频 1 |  
@@ -885,7 +885,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **剑桥大街**  
 
 
-# ***Camelot Park*** 
+# *** *Camelot Park*** 
 英音 'kæməlɒt pɑːk     美音 'kæməlɑt pɑːrk  
 
 | 词频 1 |  
@@ -895,7 +895,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **卡默洛特公园 (位于英国)**  
 
 
-# ***Central Park*** 
+# *** *Central Park*** 
 英音 'sentrəl pɑːk     美音 'sentrəl pɑːrk  
 
 | 词频 1 |  
@@ -905,7 +905,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **中央公园 (位于美国纽约)**  
 
 
-# ***Charles Babbage*** 
+# *** *Charles Babbage*** 
 英音 'tʃa:lz 'bæbidʒ     美音 'tʃa:lz 'bæbidʒ  
 
 | 词频 1 |  
@@ -915,7 +915,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **查尔斯·巴比奇 (英国数学教授)**  
 
 
-# ***China Welfare Institute*** 
+# *** *China Welfare Institute*** 
 
 
 | 词频 1 |  
@@ -925,7 +925,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **中国福利基金会**  
 
 
-# ***Christopher Columbus*** n
+# *** *Christopher Columbus*** n
 英音 'kristəfə  kə'lʌmbəs     美音 'kristəfə  kə'lʌmbəs  
 
 | 词频 1 |  
@@ -935,7 +935,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **克里斯托弗·哥伦布 (意大利航海家)**  
 
 
-# ***Colobus monkey*** 
+# *** *Colobus monkey*** 
 英音 'kɒləbəs 'mʌŋki     美音 'kɑːləbəs 'mʌŋki  
 
 | 词频 1 |  
@@ -945,7 +945,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **(非洲产) 疣猴；髯猴**  
 
 
-# ***Columbus Day*** 
+# *** *Columbus Day*** 
 英音 kə'lʌmbəsdeɪ     美音 kə'lʌmbəsdeɪ  
 
 | 词频 1 |  
@@ -955,7 +955,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **哥伦布日**  
 
 
-# ***Don't mention it.*** 
+# *** *Don't mention it.*** 
 
 
   
@@ -965,7 +965,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**[答复别人道谢时的用语] 不用客气。**  
 
 
-# ***Elizabeth Fry*** 
+# *** *Elizabeth Fry*** 
 英音 ɪ'lɪzəbəθ 'fraɪ     美音 ɪ'lɪzəbəθ 'fraɪ  
 
 | 词频 1 |  
@@ -975,7 +975,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **伊丽莎白·弗赖伊 (英国慈善家)**  
 
 
-# ***George Bernard Shaw*** 
+# *** *George Bernard Shaw*** 
 
 
 | 词频 1 |  
@@ -985,7 +985,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **乔治·伯纳徳·萧 (也译萧伯纳，英国剧作家)**  
 
 
-# ***George Hambley*** 
+# *** *George Hambley*** 
 英音 dʒɔ:dʒ 'hæmblɪ     美音 dʒɔ:dʒ 'hæmblɪ  
 
 | 词频 1 |  
@@ -995,7 +995,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **乔治·汉布利**  
 
 
-# ***Giotto di Bondone*** 
+# *** *Giotto di Bondone*** 
 英音 'dʒɔtəʊ dɪ 'bɔndəni     美音 'dʒɔtəʊ dɪ 'bɔndən  
 
 | 词频 1 |  
@@ -1005,7 +1005,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **乔托 (意大利画家、雕刻家、建筑师)**  
 
 
-# ***Gladys Claffern*** 
+# *** *Gladys Claffern*** 
 
 
 | 词频 1 |  
@@ -1015,7 +1015,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **格拉迪斯·克拉芬**  
 
 
-# ***Goldbach's Conjecture*** 
+# *** *Goldbach's Conjecture*** 
 
 
   
@@ -1025,7 +1025,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**哥德巴赫猜想**  
 
 
-# ***Gombe National Park*** 
+# *** *Gombe National Park*** 
 
 
 | 词频 1 |  
@@ -1035,7 +1035,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **贡贝国家公园 (位于坦桑尼亚)**  
 
 
-# ***Goodwill Ambassador*** n
+# *** *Goodwill Ambassador*** n
 
 
   
@@ -1045,7 +1045,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**亲善大使**  
 
 
-# ***Gregorian calendar*** 
+# *** *Gregorian calendar*** 
 
 
   
@@ -1055,7 +1055,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**公历，阳历（自1582年起在西方使用的历法）**  
 
 
-# ***Guggenheim Museum*** 
+# *** *Guggenheim Museum*** 
 英音 'ɡʊɡənhaɪm mju'ziːəm     美音 'ɡʊɡənhaɪm mju'ziːəm  
 
 | 词频 1 |  
@@ -1065,7 +1065,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **古根海姆博物馆**  
 
 
-# ***Highgate Cemetery*** 
+# *** *Highgate Cemetery*** 
 英音 'haiɡeit 'semətri     美音 'haiɡeit 'seməteri  
 
 | 词频 1 |  
@@ -1075,7 +1075,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **海格特墓地 (英伦敦北郊，内有马克思及家人的坟墓)**  
 
 
-# ***How can / could sb do sth?*** 
+# *** *How can / could sb do sth?*** 
 
 
   
@@ -1088,7 +1088,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 你怎么能说这种话呢？  
 
 
-# ***How come (...)?*** 
+# *** *How come (...)?*** 
 
 
   
@@ -1107,7 +1107,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 怎么可能？  
 
 
-# ***How do you like ...?*** 
+# *** *How do you like ...?*** 
 
 
   
@@ -1121,7 +1121,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 来源：2008 上海  
 
 
-# ***I beg to differ*** 
+# *** *I beg to differ*** 
 
 
   
@@ -1138,7 +1138,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 来源：2016 江苏  
 
 
-# ***I beg your pardon*** 
+# *** *I beg your pardon*** 
 
 
   
@@ -1162,7 +1162,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 对不起，我不知道这座位是你的。  
 
 
-# ***I bet*** 
+# *** *I bet*** 
 
 
   
@@ -1176,7 +1176,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 我相信明天一定会下雨。  
 
 
-# ***I mean*** 
+# *** *I mean*** 
 
 
   
@@ -1192,7 +1192,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 唉，它根本发动不起来，我是说，我转动了钥匙，结果什么反应也没有。  
 
 
-# ***I say*** 
+# *** *I say*** 
 
 
   
@@ -1205,7 +1205,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 哎，汤姆，我想和你说句话。  
 
 
-# ***I trust (that)*** 
+# *** *I trust (that)*** 
 
 
   
@@ -1218,7 +1218,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 我相信一切都会很顺利。  
 
 
-# ***I wonder if / whether*** 
+# *** *I wonder if / whether*** 
 
 
   
@@ -1236,7 +1236,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 来源：2013 北京  
 
 
-# ***I'd like to.*** 
+# *** *I'd like to.*** 
 
 
   
@@ -1246,7 +1246,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**[省略句，作答语用] 我愿意。**  
 
 
-# ***I'm afraid*** 
+# *** *I'm afraid*** 
 
 
   
@@ -1273,7 +1273,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 恐怕迟到了。  
 
 
-# ***Impressionist Movement*** n
+# *** *Impressionist Movement*** n
 
 
   
@@ -1283,7 +1283,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**印象主义运动**  
 
 
-# ***Inca Empire*** 
+# *** *Inca Empire*** 
 
 
   
@@ -1293,7 +1293,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **印加帝国**  
 
 
-# ***Internet cafe*** n
+# *** *Internet cafe*** n
 
 
   
@@ -1303,7 +1303,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**网吧**  
 
 
-# ***Isaac Asimov*** 
+# *** *Isaac Asimov*** 
 
 
 | 词频 1 |  
@@ -1313,7 +1313,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **艾萨克·阿西莫夫**  
 
 
-# ***It / That (all) depends.*** 
+# *** *It / That (all) depends.*** 
 
 
   
@@ -1329,7 +1329,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 我不知道，那得看情况。  
 
 
-# ***It's / That's all right.*** 
+# *** *It's / That's all right.*** 
 
 
   
@@ -1339,7 +1339,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**没关系。/ 不用谢。**  
 
 
-# ***It's a great pity that ...*** 
+# *** *It's a great pity that ...*** 
 
 
   
@@ -1349,7 +1349,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**很可惜……**  
 
 
-# ***It's all right.*** 
+# *** *It's all right.*** 
 
 
   
@@ -1359,7 +1359,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**别怕。/ 没事的。**  
 
 
-# ***James Dyson*** 
+# *** *James Dyson*** 
 英音 'dʒeimz 'daɪsən     美音 'dʒeimz 'daɪsən  
 
 | 词频 1 |  
@@ -1369,7 +1369,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **詹姆斯·戴森 (英国发明家)**  
 
 
-# ***Jane Goodall*** n
+# *** *Jane Goodall*** n
 英音 dʒein ɡʊdɒːl     美音 dʒein ɡʊdɑːl  
 
 | 词频 1 |  
@@ -1379,7 +1379,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **简·古道尔 (英国动物学家)**  
 
 
-# ***Joan of Arc*** n
+# *** *Joan of Arc*** n
 英音 'dʒəʊn əv 'ɑ:k     美音 'dʒəʊn əv 'ɑ:k  
 
 | 词频 1 |  
@@ -1389,7 +1389,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **圣女贞德 (法国民族女英雄)**  
 
 
-# ***Jody Williams*** 
+# *** *Jody Williams*** 
 英音 ˈdʒəudi 'wɪljəmz     美音 ˈdʒoʊdi 'wɪljəmz  
 
 | 词频 1 |  
@@ -1399,7 +1399,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **乔迪·威廉斯 (美国诺贝尔和平奖获得者)**  
 
 
-# ***Jurassic Park*** 
+# *** *Jurassic Park*** 
 
 
   
@@ -1409,7 +1409,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **侏罗纪公园 (美国电影名)**  
 
 
-# ***Lake Superior*** 
+# *** *Lake Superior*** 
 英音 leɪk suː'pɪəriə(r)     美音 leɪk suː'pɪriər  
 
 | 词频 1 |  
@@ -1419,7 +1419,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **苏必利尔湖**  
 
 
-# ***Lake Titicaca*** 
+# *** *Lake Titicaca*** 
 
 
   
@@ -1429,7 +1429,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **的的喀喀湖**  
 
 
-# ***Larry Belmont*** 
+# *** *Larry Belmont*** 
 
 
 | 词频 1 |  
@@ -1439,7 +1439,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **拉里·贝尔蒙特**  
 
 
-# ***Leonardo da Vinci*** 
+# *** *Leonardo da Vinci*** 
 英音 ˌliːəˈnɑ:dəu deˈvintʃi     美音 ˌliːəˈnɑ:dəu deˈvintʃi  
 
 | 词频 1 |  
@@ -1449,7 +1449,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **列奥纳多·达·芬奇 (意大利著名画家)**  
 
 
-# ***London Heathrow Airport*** 
+# *** *London Heathrow Airport*** 
 英音 'lʌndən 'hi:θrəu 'eəpɔːt     美音 'lʌndən 'hi:θrəu 'erpɔːrt  
 
 | 词频 1 |  
@@ -1459,7 +1459,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **伦敦希思罗机场**  
 
 
-# ***Los Angeles*** n
+# *** *Los Angeles*** n
 英音 lɔs'ændʒələs     美音 lɔs'ændʒələs  
 
 | 词频 3 |  
@@ -1469,7 +1469,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **洛杉矶**  
 
 
-# ***Machu Picchu*** 
+# *** *Machu Picchu*** 
 
 
   
@@ -1479,7 +1479,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **马丘比丘 (秘鲁)**  
 
 
-# ***Mark Twain*** n
+# *** *Mark Twain*** n
 英音 ˈmɑ:kˈtwein     美音 ˈmɑ:kˈtwein  
 
 | 词频 1 |  
@@ -1489,7 +1489,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **马克·吐温 (美国作家)**  
 
 
-# ***Marty Fielding*** n
+# *** *Marty Fielding*** n
 英音 ˈmɑ:tɪ 'fiːldɪŋ     美音 ˈmɑ:tɪ 'fiːldɪŋ  
 
 | 词频 1 |  
@@ -1499,7 +1499,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **马蒂·菲尔丁**  
 
 
-# ***Me neither.*** 
+# *** *Me neither.*** 
 
 
   
@@ -1509,7 +1509,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**我也不 (…)。**  
 
 
-# ***Milu deer*** 
+# *** *Milu deer*** 
 英音 mɪ'luː dɪə(r)     美音 mɪ'luː dɪr  
 
 | 词频 1 |  
@@ -1519,7 +1519,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **麋鹿**  
 
 
-# ***Mona Lisa*** 
+# *** *Mona Lisa*** 
 英音 'məunə 'li:zə     美音 'məunə 'li:zə  
 
 | 词频 1 |  
@@ -1529,7 +1529,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **蒙娜·丽莎 (达·芬奇所作的一幅著名肖像画)**  
 
 
-# ***Mount Etna*** 
+# *** *Mount Etna*** 
 英音 maʊnt 'etnə     美音 maʊnt 'etnə  
 
 | 词频 1 |  
@@ -1539,7 +1539,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **埃特纳火山 (意大利西西里岛东北部)**  
 
 
-# ***Mount Kilauea*** 
+# *** *Mount Kilauea*** 
 英音 maʊnt kɪlə'wɪə     美音 maʊnt kɪlə'wɪə  
 
 | 词频 1 |  
@@ -1549,7 +1549,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **基拉韦厄火山**  
 
 
-# ***Mount Kilimanjaro*** n
+# *** *Mount Kilimanjaro*** n
 英音 maʊnt ˈkilimənˈdʒɑ:rəu     美音 maʊnt ˌkɪləmənˈdʒɑro  
 
 | 词频 1 |  
@@ -1559,7 +1559,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **乞力马扎罗山 (位于坦桑尼亚；非洲最高山)**  
 
 
-# ***Mount Vesuvius*** 
+# *** *Mount Vesuvius*** 
 英音 maʊnt viˈsu:vjəs     美音 maʊnt viˈsu:vjəs  
 
 | 词频 1 |  
@@ -1569,7 +1569,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **维苏威火山**  
 
 
-# ***Native American Indian*** n
+# *** *Native American Indian*** n
 
 
   
@@ -1579,7 +1579,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**北美印第安人**  
 
 
-# ***Never mind.*** 
+# *** *Never mind.*** 
 
 
   
@@ -1589,7 +1589,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**不要紧。/ 没关系。**  
 
 
-# ***New Zealand*** n
+# *** *New Zealand*** n
 英音 njuː 'ziːlənd     美音 njuː 'ziːlənd  
 
   
@@ -1599,7 +1599,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **新西兰**  
 
 
-# ***New Zealander*** n
+# *** *New Zealander*** n
 英音 ˌnjuː'ziːləndə(r)     美音 ˌnuː'ziːləndər  
 
   
@@ -1609,7 +1609,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **新西兰人**  
 
 
-# ***Nicolaus Copernicus*** 
+# *** *Nicolaus Copernicus*** 
 英音 'nɪkələs kəʊ'pɜːnɪkəs     美音 'nɪkələs kəʊ'pɜːnɪkəs  
 
 | 词频 1 |  
@@ -1619,7 +1619,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **尼古拉·哥白尼 (波兰天文学家)**  
 
 
-# ***Nobel Peace Prize*** 
+# *** *Nobel Peace Prize*** 
 英音 nəʊˈbel piːs praɪz     美音 noʊˈbɛl piːs praɪz  
 
 | 词频 1 |  
@@ -1629,7 +1629,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **诺贝尔和平奖**  
 
 
-# ***Northern Ireland*** 
+# *** *Northern Ireland*** 
 英音 'nɔːðən 'aɪələnd     美音 'nɔːrðərn 'aɪrlənd  
 
 | 词频 1 |  
@@ -1639,7 +1639,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **北爱尔兰　(英)**  
 
 
-# ***Not likely!*** 
+# *** *Not likely!*** 
 
 
   
@@ -1656,7 +1656,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 来源：2010 浙江改  
 
 
-# ***Not really.*** 
+# *** *Not really.*** 
 
 
   
@@ -1666,7 +1666,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**[表示否定，语气较弱] 不是。**  
 
 
-# ***Orientation Day*** 
+# *** *Orientation Day*** 
 
 
   
@@ -1676,7 +1676,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**迎新日**  
 
 
-# ***Papua New Guinea*** 
+# *** *Papua New Guinea*** 
 
 
 | 词频 1 |  
@@ -1686,7 +1686,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **巴布亚新几内亚**  
 
 
-# ***Plains Indian*** n
+# *** *Plains Indian*** n
 
 
   
@@ -1696,7 +1696,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**平原印第安人；大草原印第安人**  
 
 
-# ***Prime Minister*** n
+# *** *Prime Minister*** n
 
 
   
@@ -1709,7 +1709,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 首相已组建了新内阁。  
 
 
-# ***River Avon*** 
+# *** *River Avon*** 
 英音 'rɪvə(r) ˈeivɔn     美音 'rɪvər ˈevən  
 
 | 词频 1 |  
@@ -1719,7 +1719,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **埃文河**  
 
 
-# ***River Severn*** 
+# *** *River Severn*** 
 英音 'rɪvə(r) 'sevən     美音 'rɪvər 'sevən  
 
 | 词频 1 |  
@@ -1729,7 +1729,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **塞文河**  
 
 
-# ***River Thames*** 
+# *** *River Thames*** 
 英音 'rɪvə(r) temz     美音 'rɪvər temz  
 
 | 词频 1 |  
@@ -1739,7 +1739,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **泰晤士河**  
 
 
-# ***Samuel Langhorne Clemens*** 
+# *** *Samuel Langhorne Clemens*** 
 英音 'sæmjuəl 'læŋhɔ:n 'klemənz     美音 'sæmjuəl 'læŋhɔ:n 'klemənz  
 
 | 词频 1 |  
@@ -1749,7 +1749,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **塞缪尔·兰霍恩·克莱门斯 (人名)**  
 
 
-# ***San Francisco*** n
+# *** *San Francisco*** n
 英音 sɑ:n frænˈsɪskəʊ     美音 sɑ:n frænˈsɪskəʊ  
 
 | 词频 3 |  
@@ -1759,7 +1759,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **圣弗朗西斯科 (也称旧金山)**  
 
 
-# ***Sherlock Holmes*** n
+# *** *Sherlock Holmes*** n
 英音 ˈʃɜ:lɔk həʊmz     美音 ˈʃə:lɑk homz  
 
 | 词频 1 |  
@@ -1769,7 +1769,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **夏洛克·福尔摩斯**  
 
 
-# ***So what?*** 
+# *** *So what?*** 
 
 
   
@@ -1785,7 +1785,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 那又怎样？我才不在乎安德鲁怎么想呢！  
 
 
-# ***South Africa*** n
+# *** *South Africa*** n
 英音 saʊθ 'æfrɪkə     美音 saʊθ 'æfrɪkə  
 
   
@@ -1795,7 +1795,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **南非**  
 
 
-# ***South African*** adj
+# *** *South African*** adj
 英音 ˌsaʊθ'æfrɪkən     美音 ˌsaʊθ'æfrɪkən  
 
   
@@ -1805,7 +1805,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **南非的；南非人的**  
 
 
-# ***South African*** n
+# *** *South African*** n
 英音 ˌsaʊθ'æfrɪkən     美音 ˌsaʊθ'æfrɪkən  
 
   
@@ -1815,7 +1815,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **南非人**  
 
 
-# ***South Korea*** n
+# *** *South Korea*** n
 英音 ˌsaʊθkə'riə     美音 ˌsaʊθkə'riə  
 
   
@@ -1825,7 +1825,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **韩国**  
 
 
-# ***St Lawrence River*** 
+# *** *St Lawrence River*** 
 英音 'seint 'lɔrəns 'rɪvə(r)     美音 'seint 'lɔrəns 'rɪvər  
 
 | 词频 1 |  
@@ -1835,7 +1835,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **圣劳伦斯河**  
 
 
-# ***St Paul's Cathedral*** 
+# *** *St Paul's Cathedral*** 
 英音 sənt pɔ:lz kə'θi:drəl     美音 sənt pɔ:lz kə'θi:drəl  
 
 | 词频 1 |  
@@ -1845,7 +1845,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **圣保罗大教堂**  
 
 
-# ***St Petersburg*** n
+# *** *St Petersburg*** n
 英音 seɪnt ˈpi:təzbə:ɡ     美音 seɪnt ˈpi:təzbə:ɡ   
 
 | 词频 1 |  
@@ -1855,7 +1855,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **圣彼得堡 (俄罗斯城市)**  
 
 
-# ***Swan Lake*** 
+# *** *Swan Lake*** 
 
 
   
@@ -1865,7 +1865,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**(芭蕾舞剧) 天鹅湖**  
 
 
-# ***TV series*** 
+# *** *TV series*** 
 
 
   
@@ -1875,7 +1875,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**电视连续剧**  
 
 
-# ***The Mid-Autumn Festival*** 
+# *** *The Mid-Autumn Festival*** 
 
 
   
@@ -1885,7 +1885,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**中秋节**  
 
 
-# ***There's no doubt that ...*** 
+# *** *There's no doubt that ...*** 
 
 
   
@@ -1895,7 +1895,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**毫无疑问**  
 
 
-# ***Thunder Bay*** 
+# *** *Thunder Bay*** 
 英音 ˌθʌndə'beɪ     美音 ˌθʌndər'beɪ  
 
 | 词频 1 |  
@@ -1905,7 +1905,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **桑德湾**  
 
 
-# ***Tibetan antelope*** n
+# *** *Tibetan antelope*** n
 英音 tɪ'betn 'æntlˌəʊp     美音 tɪ'betn 'æntlˌəʊp  
 
 | 词频 1 |  
@@ -1915,7 +1915,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**藏羚羊**  
 
 
-# ***Tom Sawyer*** n
+# *** *Tom Sawyer*** n
 英音 tɒm 'sɔ:jə     美音 tɑːm 'sɔ:jə  
 
 | 词频 1 |  
@@ -1925,7 +1925,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **汤姆·索亚 (人名)**  
 
 
-# ***Two heads are better than one.*** 
+# *** *Two heads are better than one.*** 
 
 
   
@@ -1935,7 +1935,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**三个臭皮匠，顶个诸葛亮。**  
 
 
-# ***Valentine's Day*** n
+# *** *Valentine's Day*** n
 英音 'væləntaɪnz 'dei     美音 'væləntaɪnz 'dei  
 
 | 词频 1 |  
@@ -1945,7 +1945,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **圣瓦伦丁节；情人节**  
 
 
-# ***Westminster Abbey*** 
+# *** *Westminster Abbey*** 
 英音 'westmɪnstə 'æbi     美音 'westˌmɪnstər 'æbi  
 
 | 词频 1 |  
@@ -1955,7 +1955,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **威斯敏斯特教堂 (英国名人墓地)**  
 
 
-# ***What / How about ...?*** 
+# *** *What / How about ...?*** 
 
 
   
@@ -1971,7 +1971,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 在附近的饭店见面怎么样？  
 
 
-# ***What a shame!*** 
+# *** *What a shame!*** 
 
 
   
@@ -1981,7 +1981,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**真遗憾！**  
 
 
-# ***What became / has become of …? / What will become of …?*** 
+# *** *What became / has become of …? / What will become of …?*** 
 
 
   
@@ -1997,7 +1997,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 比赛要是输了，你会怎么样？  
 
 
-# ***What do you mean ... ?*** 
+# *** *What do you mean ... ?*** 
 
 
   
@@ -2020,7 +2020,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 你这是什么意思？你以为我会不在意吗？  
 
 
-# ***What's wrong with …?*** 
+# *** *What's wrong with …?*** 
 
 
   
@@ -2033,7 +2033,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 我不知道引擎出了什么问题。  
 
 
-# ***Why sb?*** 
+# *** *Why sb?*** 
 
 
   
@@ -2043,7 +2043,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**为什么是某人？**  
 
 
-# ***Wild Man of Shennongjia*** n
+# *** *Wild Man of Shennongjia*** n
 
 
   
@@ -2053,7 +2053,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**神农架野人**  
 
 
-# ***Yangtze River dolphin*** 
+# *** *Yangtze River dolphin*** 
 
 
   
@@ -2063,7 +2063,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**白鳍豚**  
 
 
-# ***You bet!*** 
+# *** *You bet!*** 
 
 
   
@@ -2080,7 +2080,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 来源：2017 江苏  
 
 
-# ***You've got a point there.*** 
+# *** *You've got a point there.*** 
 
 
   
@@ -2090,7 +2090,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**你所说的看来有道理。**  
 
 
-# ***Yours truly*** 
+# *** *Yours truly*** 
 
 
   
@@ -2100,7 +2100,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.**[用于书信结尾、签名之前] 你忠实的**  
 
 
-# ***Youth League*** 
+# *** *Youth League*** 
 
 
   
@@ -2110,7 +2110,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 1.*高义频：* **青年团**  
 
 
-# ***a (great) number of*** 
+# *** *a (great) number of*** 
 
 
   
@@ -2123,7 +2123,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 服务业吸纳了很多从农村来到城市的妇女。  
 
 
-# ***a bit (of)*** 
+# *** *a bit (of)*** 
 
 
   
@@ -2147,7 +2147,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 
 Notes: a bit常用作副词，相当于a little。修饰名词时， 需加of。  
 
-# ***a bunch of*** 
+# *** *a bunch of*** 
 
 
   
@@ -2157,7 +2157,7 @@ Notes: a bit常用作副词，相当于a little。修饰名词时， 需加of。
 1.**一串，一束；大量，大批**  
 
 
-# ***a change for the better / worse*** 
+# *** *a change for the better / worse*** 
 
 
   
@@ -2170,7 +2170,7 @@ Notes: a bit常用作副词，相当于a little。修饰名词时， 需加of。
  > 病人的情况有所好转。  
 
 
-# ***a chorus of*** 
+# *** *a chorus of*** 
 
 
   
@@ -2180,7 +2180,7 @@ Notes: a bit常用作副词，相当于a little。修饰名词时， 需加of。
 1.**异口同声的**  
 
 
-# ***a couple of*** 
+# *** *a couple of*** 
 
 
   
@@ -2196,7 +2196,7 @@ Notes: a bit常用作副词，相当于a little。修饰名词时， 需加of。
  > 我打了几次网球，还看了几场电影。  
 
 
-# ***a crowd of / crowds of*** 
+# *** *a crowd of / crowds of*** 
 
 
   
@@ -2210,7 +2210,7 @@ Notes: a bit常用作副词，相当于a little。修饰名词时， 需加of。
  > 来源：2008 山东  
 
 
-# ***a dark horse*** 
+# *** *a dark horse*** 
 
 
   
@@ -2220,7 +2220,7 @@ Notes: a bit常用作副词，相当于a little。修饰名词时， 需加of。
 1.**黑马；出乎意料的获胜者**  
 
 
-# ***a few*** 
+# *** *a few*** 
 
 
   
@@ -2238,7 +2238,7 @@ Notes: a bit常用作副词，相当于a little。修饰名词时， 需加of。
  > 他们中有几个人讲英语。  
 
 
-# ***a good / great many*** 
+# *** *a good / great many*** 
 
 
   
@@ -2255,7 +2255,7 @@ Notes: a bit常用作副词，相当于a little。修饰名词时， 需加of。
  > 大部分年轻人上了战场，其中很多人再也没有回来。  
 
 
-# ***a good few / quite a few / not a few*** 
+# *** *a good few / quite a few / not a few*** 
 
 
   
@@ -2282,7 +2282,7 @@ Notes: few不论作形容词还是作代词，在句中大都表示否定，a fe
  > 我们中间有几个人看过这个电影，是吗？  
 
 
-# ***a great / good deal*** 
+# *** *a great / good deal*** 
 
 
   
@@ -2300,7 +2300,7 @@ Notes: few不论作形容词还是作代词，在句中大都表示否定，a fe
  > 他比我跑得快多了。  
 
 
-# ***a great / good deal of*** 
+# *** *a great / good deal of*** 
 
 
   
@@ -2316,7 +2316,7 @@ Notes: few不论作形容词还是作代词，在句中大都表示否定，a fe
  > 要想具备很高的听的能力，需要做大量的练习。  
 
 
-# ***a great deal*** 
+# *** *a great deal*** 
 
 
   
@@ -2329,7 +2329,7 @@ Notes: few不论作形容词还是作代词，在句中大都表示否定，a fe
  > 你的友谊对我来说很珍贵。  
 
 
-# ***a great many*** 
+# *** *a great many*** 
 
 
   
@@ -2346,7 +2346,7 @@ Notes: few不论作形容词还是作代词，在句中大都表示否定，a fe
  > 大部分年轻人上了战场，其中很多人再也没有回来。  
 
 
-# ***a group of*** 
+# *** *a group of*** 
 
 
   
@@ -2362,7 +2362,7 @@ Notes: few不论作形容词还是作代词，在句中大都表示否定，a fe
  > 一群孩子边唱边跳地过去了。  
 
 
-# ***a handful of*** 
+# *** *a handful of*** 
 
 
   
@@ -2375,7 +2375,7 @@ Notes: few不论作形容词还是作代词，在句中大都表示否定，a fe
  > 一把沙子  
 
 
-# ***a huge amount of*** 
+# *** *a huge amount of*** 
 
 
   
@@ -2391,7 +2391,7 @@ Notes: few不论作形容词还是作代词，在句中大都表示否定，a fe
  > 滴水之恩当涌泉相报。  
 
 
-# ***a huge number of*** 
+# *** *a huge number of*** 
 
 
   
@@ -2401,7 +2401,7 @@ Notes: few不论作形容词还是作代词，在句中大都表示否定，a fe
 1.**大量的**  
 
 
-# ***a kind of*** 
+# *** *a kind of*** 
 
 
   
@@ -2418,7 +2418,7 @@ Notes: few不论作形容词还是作代词，在句中大都表示否定，a fe
  > 我当时就隐约感觉到会出这事。  
 
 
-# ***a large quantity of / large quantities of*** 
+# *** *a large quantity of / large quantities of*** 
 
 
   
@@ -2432,7 +2432,7 @@ Notes: few不论作形容词还是作代词，在句中大都表示否定，a fe
 
 Notes: a large quantity of / large quantities of 后既可以接可数名词也可以接不可数名词。  
 
-# ***a little*** 
+# *** *a little*** 
 
 
   
@@ -2454,7 +2454,7 @@ Notes: a large quantity of / large quantities of 后既可以接可数名词也�
 
 Notes: a little可修饰不可数名词、形容词、副词和动词等。  
 
-# ***a lot*** 
+# *** *a lot*** 
 
 
   
@@ -2478,7 +2478,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 他最近喝得比以前多多了。  
 
 
-# ***a lot of / lots of*** 
+# *** *a lot of / lots of*** 
 
 
   
@@ -2494,7 +2494,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 商店里的人很多。  
 
 
-# ***a matter of*** 
+# *** *a matter of*** 
 
 
   
@@ -2510,7 +2510,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 减少交通事故的死亡人数不单是改善道路状况的问题。  
 
 
-# ***a mountain of / mountains of*** 
+# *** *a mountain of / mountains of*** 
 
 
   
@@ -2527,7 +2527,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 来源：2017 浙江改  
 
 
-# ***a number of*** 
+# *** *a number of*** 
 
 
   
@@ -2541,7 +2541,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 来源：2012 山东  
 
 
-# ***a piece of*** 
+# *** *a piece of*** 
 
 
   
@@ -2557,7 +2557,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 一张纸/一件家具  
 
 
-# ***a piece of cake*** 
+# *** *a piece of cake*** 
 
 
   
@@ -2567,7 +2567,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 1.**小菜一碟；轻而易举的事**  
 
 
-# ***a sequence of*** 
+# *** *a sequence of*** 
 
 
   
@@ -2577,7 +2577,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 1.**一系列的**  
 
 
-# ***a series of*** 
+# *** *a series of*** 
 
 
   
@@ -2594,7 +2594,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 来源：外研① – 6  
 
 
-# ***a stepping stone*** 
+# *** *a stepping stone*** 
 
 
   
@@ -2604,7 +2604,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 1.**垫脚石；藉以达到目标的手段或阶段**  
 
 
-# ***a stone's throw*** 
+# *** *a stone's throw*** 
 
 
   
@@ -2618,7 +2618,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 来源：2012 福建改  
 
 
-# ***a variety of*** 
+# *** *a variety of*** 
 
 
   
@@ -2632,7 +2632,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 俱乐部给当地的青少年提供丰富多样的游戏。  
 
 
-# ***a walk of life*** 
+# *** *a walk of life*** 
 
 
   
@@ -2646,7 +2646,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 我们的志愿者包括各界人士。  
 
 
-# ***a wet blanket*** 
+# *** *a wet blanket*** 
 
 
   
@@ -2656,7 +2656,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 1.**扫兴的人；泼冷水的人**  
 
 
-# ***above all*** 
+# *** *above all*** 
 
 
   
@@ -2669,7 +2669,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 我要买一座房子，要现代、要舒适，最重要的是周围要安静。  
 
 
-# ***absorbed in sth/sb*** 
+# *** *absorbed in sth/sb*** 
 
 
   
@@ -2679,7 +2679,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 1.**被…… 吸引住；专心致志**  
 
 
-# ***according to*** prep
+# *** *according to*** prep
 英音 əˈkɔːdɪŋ tə     美音 əˈkɔːrdɪŋ tə  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -2696,7 +2696,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 我的表现在4点。  
 
 
-# ***account for*** 
+# *** *account for*** 
 
 
   
@@ -2722,7 +2722,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 天气不好可能是人来得少的原因。  
 
 
-# ***accuse ... of*** 
+# *** *accuse ... of*** 
 
 
   
@@ -2735,7 +2735,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 警方指控他犯有偷窃罪。  
 
 
-# ***accuse sb. of doing sth.*** 
+# *** *accuse sb. of doing sth.*** 
 
 
   
@@ -2749,7 +2749,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 来源：北师大⑤ – 13  
 
 
-# ***accustomed to*** 
+# *** *accustomed to*** 
 
 
   
@@ -2766,7 +2766,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 来源：2016 上海书面表达  
 
 
-# ***act as*** 
+# *** *act as*** 
 
 
   
@@ -2779,7 +2779,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 经过训练的狗可以充当盲人的向导。  
 
 
-# ***act on*** 
+# *** *act on*** 
 
 
   
@@ -2797,7 +2797,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 酒精对大脑迅速产生影响。  
 
 
-# ***act out*** 
+# *** *act out*** 
 
 
   
@@ -2813,7 +2813,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 把理论付诸实践  
 
 
-# ***acute angle*** n
+# *** *acute angle*** n
 
 
   
@@ -2823,7 +2823,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 1.**锐角**  
 
 
-# ***adapt (to)*** 
+# *** *adapt (to)*** 
 
 
   
@@ -2837,7 +2837,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 来源：外研⑧ – 7  
 
 
-# ***adapt to*** 
+# *** *adapt to*** 
 
 
   
@@ -2851,7 +2851,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 来源：外研⑧ – 7  
 
 
-# ***add ... to ...*** 
+# *** *add ... to ...*** 
 
 
   
@@ -2864,7 +2864,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 我记下新单词，加入到我自己的词汇表里。  
 
 
-# ***add to*** 
+# *** *add to*** 
 
 
   
@@ -2877,7 +2877,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 各种颜色的伞给夏日街头平添了活泼的气氛。  
 
 
-# ***add up*** 
+# *** *add up*** 
 
 
   
@@ -2891,7 +2891,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 来源： 人教① – 1  
 
 
-# ***add up to*** 
+# *** *add up to*** 
 
 
   
@@ -2908,7 +2908,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 来源：2011 天津  
 
 
-# ***addicted to*** 
+# *** *addicted to*** 
 
 
   
@@ -2921,7 +2921,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 他迷上了足球。  
 
 
-# ***adjust to*** 
+# *** *adjust to*** 
 
 
   
@@ -2934,7 +2934,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 他过了一段时间才适应了上夜班。  
 
 
-# ***after all*** 
+# *** *after all*** 
 
 
   
@@ -2947,7 +2947,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 我当然钦佩他，毕竟他是一位伟大的作家。  
 
 
-# ***again and again*** 
+# *** *again and again*** 
 
 
   
@@ -2960,7 +2960,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 我一再警告他有危险。  
 
 
-# ***against one's will*** 
+# *** *against one's will*** 
 
 
   
@@ -2973,7 +2973,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 我被迫违心地在协议上签了字。  
 
 
-# ***agony aunt*** 
+# *** *agony aunt*** 
 
 
   
@@ -2983,7 +2983,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 1.**知心阿姨**  
 
 
-# ***agree with*** 
+# *** *agree with*** 
 
 
   
@@ -3012,7 +3012,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 她不宜吃太多肉。  
 
 
-# ***ahead of*** 
+# *** *ahead of*** 
 
 
   
@@ -3031,7 +3031,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 这里的时间比伦敦早9个小时。  
 
 
-# ***ahead of time*** 
+# *** *ahead of time*** 
 
 
   
@@ -3044,7 +3044,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 你能提前做完作业吗？  
 
 
-# ***air conditioner*** 
+# *** *air conditioner*** 
 
 
   
@@ -3054,7 +3054,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
 1.**空调**  
 
 
-# ***air hostess*** 
+# *** *air hostess*** 
 
 
   
@@ -3064,7 +3064,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
 1.**空中小姐**  
 
 
-# ***alarm clock*** 
+# *** *alarm clock*** 
 
 
   
@@ -3077,7 +3077,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 我按收音机报时调准我的闹钟。  
 
 
-# ***all (the) year round*** 
+# *** *all (the) year round*** 
 
 
   
@@ -3091,7 +3091,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 来源：北师大③ – 7  
 
 
-# ***all / just the same*** 
+# *** *all / just the same*** 
 
 
   
@@ -3104,7 +3104,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 虽然下着大雨，但我们还是及时赶到了那里。  
 
 
-# ***all along*** 
+# *** *all along*** 
 
 
   
@@ -3120,7 +3120,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 那件事我自始至终都知道。  
 
 
-# ***all at once*** 
+# *** *all at once*** 
 
 
   
@@ -3133,7 +3133,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 他突然想到了答案。  
 
 
-# ***all but*** 
+# *** *all but*** 
 
 
   
@@ -3146,7 +3146,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 我们到达时，聚会已近尾声。  
 
 
-# ***all day (long)*** 
+# *** *all day (long)*** 
 
 
   
@@ -3159,7 +3159,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 他似乎一天到晚忙个不停。  
 
 
-# ***all in all*** 
+# *** *all in all*** 
 
 
   
@@ -3173,7 +3173,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 来源：人教⑦ – 1  
 
 
-# ***all manner of*** 
+# *** *all manner of*** 
 
 
   
@@ -3186,7 +3186,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 这个问题可以用多种方式解决。  
 
 
-# ***all night (long)*** 
+# *** *all night (long)*** 
 
 
   
@@ -3199,7 +3199,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 我整夜没睡着。  
 
 
-# ***all of a sudden*** 
+# *** *all of a sudden*** 
 
 
   
@@ -3212,7 +3212,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 他们正在看电视，突然停电了。  
 
 
-# ***all one's life*** 
+# *** *all one's life*** 
 
 
   
@@ -3226,7 +3226,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 来源：人教⑧ – 3  
 
 
-# ***all over*** 
+# *** *all over*** 
 
 
   
@@ -3244,7 +3244,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 来源：北师大① – 2  
 
 
-# ***all over the world*** 
+# *** *all over the world*** 
 
 
   
@@ -3254,7 +3254,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
 1.**在世界各地**  
 
 
-# ***all right*** adj
+# *** *all right*** adj
 英音 ɔːl 'raɪt     美音 ɔːl 'raɪt  
 
 | 词频 4 |  
@@ -3289,11 +3289,9 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
 
 固定搭配
 ---
-- It’s all right.
-1.**别怕。/ 没事的。**  
+## - *It’s all right.  **别怕。/ 没事的。**  
 
-- It’s / That’s all right.
-1.**没关系。/ 不用谢。**  
+## - *It’s / That’s all right.  **没关系。/ 不用谢。**  
 
 
 真题解析
@@ -3305,6 +3303,7 @@ A.You can’t be serious
 B.I’m afraid not  
 C.Good idea  
 D.Well, all right  
+来源：2015 陕西  
 ##### 答案 D  
   
 ##### 题目  
@@ -3314,10 +3313,11 @@ A.That’s right
 B.All right  
 C.I’m all right  
 D.It’s all right  
+来源：2013 江苏  
 ##### 答案 D  
   
 
-# ***all right*** adv
+# *** *all right*** adv
 英音 ɔːl 'raɪt     美音 ɔːl 'raɪt  
 
 | 词频 4 |  
@@ -3352,14 +3352,12 @@ D.It’s all right
 
 固定搭配
 ---
-- It’s all right.
-1.**别怕。/ 没事的。**  
+## - *It’s all right.  **别怕。/ 没事的。**  
 
-- It’s / That’s all right.
-1.**没关系。/ 不用谢。**  
+## - *It’s / That’s all right.  **没关系。/ 不用谢。**  
 
 
-# ***all right*** int
+# *** *all right*** int
 英音 ɔːl 'raɪt     美音 ɔːl 'raɪt  
 
 | 词频 4 |  
@@ -3381,10 +3379,11 @@ A.Not at all
 B.It depends  
 C.All right then  
 D.I don’t care  
+来源：2013 全国  
 ##### 答案 C  
   
 
-# ***all the more*** 
+# *** *all the more*** 
 
 
   
@@ -3397,7 +3396,7 @@ D.I don’t care
  > 他妈妈叫他不要再逗这只猫，他反而更起劲了。  
 
 
-# ***all the time*** 
+# *** *all the time*** 
 
 
   
@@ -3410,7 +3409,7 @@ D.I don’t care
  > 机会始终都在，但常常被人忽视。  
 
 
-# ***all the way*** 
+# *** *all the way*** 
 
 
   
@@ -3426,7 +3425,7 @@ D.I don’t care
  > 我完全支持你。  
 
 
-# ***all things considered*** 
+# *** *all things considered*** 
 
 
   
@@ -3439,7 +3438,7 @@ D.I don’t care
  > 考虑到所有情况，计划好的旅行不得不取消了。  
 
 
-# ***all too*** 
+# *** *all too*** 
 
 
   
@@ -3452,7 +3451,7 @@ D.I don’t care
  > 这类事故发生得太频繁了。  
 
 
-# ***allow for*** 
+# *** *allow for*** 
 
 
   
@@ -3468,7 +3467,7 @@ D.I don’t care
  > 你的计划是否把各种情况都考虑进去了？  
 
 
-# ***along with*** 
+# *** *along with*** 
 
 
   
@@ -3481,7 +3480,7 @@ D.I don’t care
  > 你愿意让我跟你一块去吗？  
 
 
-# ***alternative energy*** 
+# *** *alternative energy*** 
 
 
   
@@ -3491,7 +3490,7 @@ D.I don’t care
 1.**替代能源 (指太阳能、风能、水能等)**  
 
 
-# ***amount to*** 
+# *** *amount to*** 
 
 
   
@@ -3510,7 +3509,7 @@ D.I don’t care
  > 占有别人的东西就相当于偷窃。  
 
 
-# ***amusement park*** n
+# *** *amusement park*** n
 
 
   
@@ -3520,7 +3519,7 @@ D.I don’t care
 1.**游乐场**  
 
 
-# ***and so on*** 
+# *** *and so on*** 
 
 
   
@@ -3534,7 +3533,7 @@ D.I don’t care
  > 来源：2012 江西书面表达改  
 
 
-# ***and so on / forth*** 
+# *** *and so on / forth*** 
 
 
   
@@ -3548,7 +3547,7 @@ D.I don’t care
  > 来源：2012 江西书面表达改  
 
 
-# ***answer for*** 
+# *** *answer for*** 
 
 
   
@@ -3561,7 +3560,7 @@ D.I don’t care
  > 总有一天，你要对你所做的错事负责。  
 
 
-# ***anything but*** 
+# *** *anything but*** 
 
 
   
@@ -3577,7 +3576,7 @@ D.I don’t care
  > 除了中间的座位，其他哪里都行。  
 
 
-# ***anything like sb / sth*** 
+# *** *anything like sb / sth*** 
 
 
   
@@ -3590,7 +3589,7 @@ D.I don’t care
  > 你长得一点儿也不像你母亲。  
 
 
-# ***anywhere between … and … / from … to …*** 
+# *** *anywhere between … and … / from … to …*** 
 
 
   
@@ -3607,7 +3606,7 @@ D.I don’t care
  > 来源：2010 湖南改  
 
 
-# ***apart from*** 
+# *** *apart from*** 
 
 
   
@@ -3626,7 +3625,7 @@ D.I don’t care
  > 来源：外 研⑦ – 6  
 
 
-# ***appeal to*** 
+# *** *appeal to*** 
 
 
   
@@ -3640,7 +3639,7 @@ D.I don’t care
  > 来源：2011 江西  
 
 
-# ***appeal to sb.*** 
+# *** *appeal to sb.*** 
 
 
   
@@ -3654,7 +3653,7 @@ D.I don’t care
  > 来源：2011 江西  
 
 
-# ***apply for*** 
+# *** *apply for*** 
 
 
   
@@ -3671,7 +3670,7 @@ D.I don’t care
  > 来源：2015 陕西书面表达  
 
 
-# ***approve of*** 
+# *** *approve of*** 
 
 
   
@@ -3684,7 +3683,7 @@ D.I don’t care
  > 我赞成你设法赚些钱，但不要荒废学业。  
 
 
-# ***arise from*** 
+# *** *arise from*** 
 
 
   
@@ -3697,7 +3696,7 @@ D.I don’t care
  > 事故往往由粗心引起。  
 
 
-# ***arise from / out of*** 
+# *** *arise from / out of*** 
 
 
   
@@ -3710,7 +3709,7 @@ D.I don’t care
  > 事故往往由粗心引起。  
 
 
-# ***arm in arm*** 
+# *** *arm in arm*** 
 
 
   
@@ -3723,7 +3722,7 @@ D.I don’t care
  > 他们臂挽臂沿着沙滩散步。  
 
 
-# ***arrive at*** 
+# *** *arrive at*** 
 
 
   
@@ -3740,7 +3739,7 @@ D.I don’t care
  > 花了很长时间才得出结论。  
 
 
-# ***arrive at / come to / draw / reach a conclusion*** 
+# *** *arrive at / come to / draw / reach a conclusion*** 
 
 
   
@@ -3756,7 +3755,7 @@ D.I don’t care
  > 在得出最终结论之前，我们还需要作进一步的讨论。  
 
 
-# ***as ... as possible*** 
+# *** *as ... as possible*** 
 
 
   
@@ -3777,7 +3776,7 @@ D.I don’t care
  > 来源：人教⑦ – 5  
 
 
-# ***as / so far as*** 
+# *** *as / so far as*** 
 
 
   
@@ -3793,7 +3792,7 @@ D.I don’t care
  > 这个公园一直延伸到河边。  
 
 
-# ***as / so far as I know / can remember / can see, etc.*** 
+# *** *as / so far as I know / can remember / can see, etc.*** 
 
 
   
@@ -3809,7 +3808,7 @@ D.I don’t care
  > 依我看，只有一种方法可以避免危险。  
 
 
-# ***as / so long as*** 
+# *** *as / so long as*** 
 
 
   
@@ -3827,7 +3826,7 @@ D.I don’t care
  > 来源：2012 江苏改  
 
 
-# ***as a consequence*** 
+# *** *as a consequence*** 
 
 
   
@@ -3844,7 +3843,7 @@ D.I don’t care
  > 她超龄了，结果她的申请被拒绝了。  
 
 
-# ***as a consequence / in consequence*** 
+# *** *as a consequence / in consequence*** 
 
 
   
@@ -3861,7 +3860,7 @@ D.I don’t care
  > 她超龄了，结果她的申请被拒绝了。  
 
 
-# ***as a consequence of sth / in consequence of sth*** 
+# *** *as a consequence of sth / in consequence of sth*** 
 
 
   
@@ -3874,7 +3873,7 @@ D.I don’t care
  > 因为吸烟，我父亲经常咳嗽。  
 
 
-# ***as a matter of fact*** 
+# *** *as a matter of fact*** 
 
 
   
@@ -3897,7 +3896,7 @@ D.I don’t care
  > 事实上我去过。  
 
 
-# ***as a result*** 
+# *** *as a result*** 
 
 
   
@@ -3914,7 +3913,7 @@ D.I don’t care
  > 来源：外研② – 2  
 
 
-# ***as a result (of)*** 
+# *** *as a result (of)*** 
 
 
   
@@ -3931,7 +3930,7 @@ D.I don’t care
  > 来源：外研② – 2  
 
 
-# ***as a result of*** 
+# *** *as a result of*** 
 
 
   
@@ -3948,7 +3947,7 @@ D.I don’t care
  > 来源：外研② – 2  
 
 
-# ***as a whole*** 
+# *** *as a whole*** 
 
 
   
@@ -3961,7 +3960,7 @@ D.I don’t care
  > 我们必须全盘考虑这些事。  
 
 
-# ***as always*** 
+# *** *as always*** 
 
 
   
@@ -3974,7 +3973,7 @@ D.I don’t care
  > 他和平时一样，穿上鞋出去散步了。  
 
 
-# ***as far as I'm concerned*** 
+# *** *as far as I'm concerned*** 
 
 
   
@@ -3987,7 +3986,7 @@ D.I don’t care
  > 就我个人而言，你想做什么都可以。  
 
 
-# ***as far as one is concerned*** 
+# *** *as far as one is concerned*** 
 
 
   
@@ -4007,7 +4006,7 @@ D.I don’t care
  > 就我个人而言，你想做什么都可以。  
 
 
-# ***as far as we know*** 
+# *** *as far as we know*** 
 
 
   
@@ -4017,7 +4016,7 @@ D.I don’t care
 1.**据我们所知**  
 
 
-# ***as far as … be concerned*** 
+# *** *as far as … be concerned*** 
 
 
   
@@ -4037,7 +4036,7 @@ D.I don’t care
  > 就我个人而言，你想做什么都可以。  
 
 
-# ***as follows*** 
+# *** *as follows*** 
 
 
   
@@ -4051,7 +4050,7 @@ D.I don’t care
  > 来源：2012 安徽书面表达  
 
 
-# ***as for*** 
+# *** *as for*** 
 
 
   
@@ -4065,7 +4064,7 @@ D.I don’t care
  > 来源：2016 北京书面表达  
 
 
-# ***as if*** 
+# *** *as if*** 
 
 
   
@@ -4085,7 +4084,7 @@ D.I don’t care
 
 Notes: as if / though常用于引导表语从句或状语从句，如果是不真实的情况，从句中常用过去时表示虚拟语气。  
 
-# ***as if / though*** 
+# *** *as if / though*** 
 
 
   
@@ -4105,7 +4104,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
 
 Notes: as if / though常用于引导表语从句或状语从句，如果是不真实的情况，从句中常用过去时表示虚拟语气。  
 
-# ***as it is / was*** 
+# *** *as it is / was*** 
 
 
   
@@ -4121,7 +4120,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 我已经欠债了，所以不要指望我会再出钱。  
 
 
-# ***as long as*** 
+# *** *as long as*** 
 
 
   
@@ -4135,7 +4134,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 来源：外研⑧ – 7  
 
 
-# ***as many as*** 
+# *** *as many as*** 
 
 
   
@@ -4148,7 +4147,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 在20世纪80年代，整个非洲有多达100万头大象被杀。  
 
 
-# ***as much*** 
+# *** *as much*** 
 
 
   
@@ -4162,7 +4161,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 来源：2012 全国  
 
 
-# ***as much as*** 
+# *** *as much as*** 
 
 
   
@@ -4175,7 +4174,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 她每月买衣服的开销高达2000美元。  
 
 
-# ***as much as sb can / could (do)*** 
+# *** *as much as sb can / could (do)*** 
 
 
   
@@ -4191,7 +4190,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 我们鼓励学生在课外尽量多阅读。  
 
 
-# ***as much … as*** 
+# *** *as much … as*** 
 
 
   
@@ -4204,7 +4203,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 我们在博物馆花的时间没有我期望的那么长。  
 
 
-# ***as opposed to*** 
+# *** *as opposed to*** 
 
 
   
@@ -4220,7 +4219,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 我们雇你是让你干活的，而不是让你光坐着。  
 
 
-# ***as soon as*** 
+# *** *as soon as*** 
 
 
   
@@ -4239,7 +4238,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 他们到得没有我们预期的那么早。  
 
 
-# ***as the saying is / goes*** 
+# *** *as the saying is / goes*** 
 
 
   
@@ -4253,7 +4252,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 来源：2015 四川书面表达  
 
 
-# ***as though*** 
+# *** *as though*** 
 
 
   
@@ -4266,7 +4265,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 在大多数城市，天空看起来就像一颗星星都没有似的。  
 
 
-# ***as to*** 
+# *** *as to*** 
 
 
   
@@ -4279,7 +4278,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 关于下一步该做什么我也不知道。  
 
 
-# ***as to sth*** 
+# *** *as to sth*** 
 
 
   
@@ -4292,7 +4291,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 关于下一步该做什么我也不知道。  
 
 
-# ***as usual*** 
+# *** *as usual*** 
 
 
   
@@ -4306,7 +4305,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 来源：人教① – 3  
 
 
-# ***as well*** 
+# *** *as well*** 
 
 
   
@@ -4319,7 +4318,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 我会读点书，既可以消遣，也可以学点知识。  
 
 
-# ***as well as*** 
+# *** *as well as*** 
 
 
   
@@ -4352,7 +4351,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 明天不但学生们去植树，老师也去。  
 
 
-# ***aside from*** 
+# *** *aside from*** 
 
 
   
@@ -4365,7 +4364,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 除了是一项好的运动外，游泳还是一种非常有用的技能。  
 
 
-# ***ask for somebody's hand in marriage*** 
+# *** *ask for somebody's hand in marriage*** 
 
 
   
@@ -4375,7 +4374,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 1.**（向女方）求婚**  
 
 
-# ***ask for trouble*** 
+# *** *ask for trouble*** 
 
 
   
@@ -4385,7 +4384,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 1.**自找麻烦；自讨苦吃**  
 
 
-# ***at (...) intervals*** 
+# *** *at (...) intervals*** 
 
 
   
@@ -4398,7 +4397,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 园丁按固定的间距种树。  
 
 
-# ***at (the) most*** 
+# *** *at (the) most*** 
 
 
   
@@ -4411,7 +4410,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 这条铁路至多6个月就会完工。  
 
 
-# ***at / from a distance*** 
+# *** *at / from a distance*** 
 
 
   
@@ -4424,7 +4423,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 那幅画远看显得很美。  
 
 
-# ***at a disadvantage*** 
+# *** *at a disadvantage*** 
 
 
   
@@ -4437,7 +4436,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 她太伶俐，我跟她讲话总觉得吃亏。  
 
 
-# ***at a loss*** 
+# *** *at a loss*** 
 
 
   
@@ -4455,7 +4454,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：译林② – 10  
 
 
-# ***at a time*** 
+# *** *at a time*** 
 
 
   
@@ -4469,7 +4468,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：2014 浙江  
 
 
-# ***at all costs*** 
+# *** *at all costs*** 
 
 
   
@@ -4483,7 +4482,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：2015 浙江改  
 
 
-# ***at all costs / at any cost*** 
+# *** *at all costs / at any cost*** 
 
 
   
@@ -4497,7 +4496,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：2015 浙江改  
 
 
-# ***at all events / in any event*** 
+# *** *at all events / in any event*** 
 
 
   
@@ -4510,7 +4509,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 无论如何我们都会拼搏到底。  
 
 
-# ***at all times*** 
+# *** *at all times*** 
 
 
   
@@ -4523,7 +4522,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 智者千虑，必有一失。  
 
 
-# ***at an end*** 
+# *** *at an end*** 
 
 
   
@@ -4533,7 +4532,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 1.**结束；终结**  
 
 
-# ***at any rate*** 
+# *** *at any rate*** 
 
 
   
@@ -4546,7 +4545,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 无论如何，医疗物资将于一周内运到你处。  
 
 
-# ***at best*** 
+# *** *at best*** 
 
 
   
@@ -4559,7 +4558,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 这部电影顶多算是一般，说不中听点，很无聊。  
 
 
-# ***at birth*** 
+# *** *at birth*** 
 
 
   
@@ -4569,7 +4568,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 1.**出生时**  
 
 
-# ***at dusk*** 
+# *** *at dusk*** 
 
 
   
@@ -4582,7 +4581,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 黄昏时分，一种神秘的气氛笼罩着山谷。  
 
 
-# ***at ease*** 
+# *** *at ease*** 
 
 
   
@@ -4595,7 +4594,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 得知孩子们都安全，他才放心。  
 
 
-# ***at fault*** 
+# *** *at fault*** 
 
 
   
@@ -4609,7 +4608,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：2011 浙江  
 
 
-# ***at first*** 
+# *** *at first*** 
 
 
   
@@ -4622,7 +4621,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 起初我并不太喜欢这个工作。  
 
 
-# ***at first sight*** 
+# *** *at first sight*** 
 
 
   
@@ -4639,7 +4638,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：2010 上海  
 
 
-# ***at hand*** 
+# *** *at hand*** 
 
 
   
@@ -4655,7 +4654,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 你最好在手边放本词典。  
 
 
-# ***at heart*** 
+# *** *at heart*** 
 
 
   
@@ -4669,7 +4668,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：2014 安徽  
 
 
-# ***at home*** 
+# *** *at home*** 
 
 
   
@@ -4686,7 +4685,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 舒适自在  
 
 
-# ***at last*** 
+# *** *at last*** 
 
 
   
@@ -4706,7 +4705,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 辨析 finally, eventually, in the end, at last, lastly  
 五者都有“最后”之意。  
 
-# ***at least*** 
+# *** *at least*** 
 
 
   
@@ -4726,7 +4725,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源： 2010 重庆  
 
 
-# ***at length*** 
+# *** *at length*** 
 
 
   
@@ -4745,7 +4744,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：2013 湖南  
 
 
-# ***at liberty*** 
+# *** *at liberty*** 
 
 
   
@@ -4758,7 +4757,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 你尽可畅所欲言。  
 
 
-# ***at lunch*** 
+# *** *at lunch*** 
 
 
   
@@ -4771,7 +4770,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 我们到那里时，他们正在吃午饭。  
 
 
-# ***at midnight*** 
+# *** *at midnight*** 
 
 
   
@@ -4781,7 +4780,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 1.**在午夜**  
 
 
-# ***at most*** 
+# *** *at most*** 
 
 
   
@@ -4791,7 +4790,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 1.**至多；最多**  
 
 
-# ***at no time*** 
+# *** *at no time*** 
 
 
   
@@ -4805,7 +4804,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：译林⑧ – 3  
 
 
-# ***at once*** 
+# *** *at once*** 
 
 
   
@@ -4819,7 +4818,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：人教③ – 2  
 
 
-# ***at one time*** 
+# *** *at one time*** 
 
 
   
@@ -4833,7 +4832,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：北师大⑧ – 22  
 
 
-# ***at peace*** 
+# *** *at peace*** 
 
 
   
@@ -4849,7 +4848,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 她心境平和。  
 
 
-# ***at present*** 
+# *** *at present*** 
 
 
   
@@ -4863,7 +4862,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：2009 陕西改  
 
 
-# ***at random*** 
+# *** *at random*** 
 
 
   
@@ -4876,7 +4875,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 随机抽取一个数字。  
 
 
-# ***at risk*** 
+# *** *at risk*** 
 
 
   
@@ -4894,7 +4893,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：北师大⑧ – 22  
 
 
-# ***at risk (from / of)*** 
+# *** *at risk (from / of)*** 
 
 
   
@@ -4912,7 +4911,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：北师大⑧ – 22  
 
 
-# ***at sb's convenience*** 
+# *** *at sb's convenience*** 
 
 
   
@@ -4925,7 +4924,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 请在你方便的时候过来。  
 
 
-# ***at sb's expense*** 
+# *** *at sb's expense*** 
 
 
   
@@ -4938,7 +4937,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 我自费出版了一本书。  
 
 
-# ***at sb's request / at the request of sb*** 
+# *** *at sb's request / at the request of sb*** 
 
 
   
@@ -4951,7 +4950,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 学生们应老师的要求到了那里。  
 
 
-# ***at sb's service*** 
+# *** *at sb's service*** 
 
 
   
@@ -4964,7 +4963,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 请尽管呼叫服务部，我们随时为您服务。  
 
 
-# ***at sea*** 
+# *** *at sea*** 
 
 
   
@@ -4977,7 +4976,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 他在海上迷失了方向，被另一只船带上岸。  
 
 
-# ***at someone's command*** 
+# *** *at someone's command*** 
 
 
   
@@ -4987,7 +4986,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 1.**受某人支配**  
 
 
-# ***at table*** 
+# *** *at table*** 
 
 
   
@@ -5001,7 +5000,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：2009 陕西  
 
 
-# ***at that point*** 
+# *** *at that point*** 
 
 
   
@@ -5011,7 +5010,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 1.**在那时；在那个阶段**  
 
 
-# ***at the age of*** 
+# *** *at the age of*** 
 
 
   
@@ -5024,7 +5023,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 她在睡眠中安详地去世，享年98岁。  
 
 
-# ***at the bottom of*** 
+# *** *at the bottom of*** 
 
 
   
@@ -5037,7 +5036,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 在页面/列表底部  
 
 
-# ***at the cost of*** 
+# *** *at the cost of*** 
 
 
   
@@ -5050,7 +5049,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 他获得了成功，但损害了身体。  
 
 
-# ***at the edge of*** 
+# *** *at the edge of*** 
 
 
   
@@ -5060,7 +5059,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 1.**在……的边缘**  
 
 
-# ***at the end of*** 
+# *** *at the end of*** 
 
 
   
@@ -5085,7 +5084,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 我已忍无可忍。  
 
 
-# ***at the end of the day*** 
+# *** *at the end of the day*** 
 
 
   
@@ -5099,7 +5098,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：2013 安徽  
 
 
-# ***at the expense of*** 
+# *** *at the expense of*** 
 
 
   
@@ -5112,7 +5111,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 他以健康为代价完成了这项工作。  
 
 
-# ***at the latest*** 
+# *** *at the latest*** 
 
 
   
@@ -5125,7 +5124,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 我最晚5点回来。  
 
 
-# ***at the mercy of*** 
+# *** *at the mercy of*** 
 
 
   
@@ -5138,7 +5137,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 小船在暴风雨中失去控制。  
 
 
-# ***at the mercy of...*** 
+# *** *at the mercy of...*** 
 
 
   
@@ -5151,7 +5150,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 小船在暴风雨中失去控制。  
 
 
-# ***at the moment*** 
+# *** *at the moment*** 
 
 
   
@@ -5164,7 +5163,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 我目前忙得很。  
 
 
-# ***at the price of*** 
+# *** *at the price of*** 
 
 
   
@@ -5177,7 +5176,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 她的成功是以牺牲自身健康为代价的。  
 
 
-# ***at the risk of doing sth*** 
+# *** *at the risk of doing sth*** 
 
 
   
@@ -5190,7 +5189,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 他冒着生命危险救了我的命。  
 
 
-# ***at the same time*** 
+# *** *at the same time*** 
 
 
   
@@ -5207,7 +5206,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：2015 湖北  
 
 
-# ***at the sight of*** 
+# *** *at the sight of*** 
 
 
   
@@ -5220,7 +5219,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 有些人一见血就晕。  
 
 
-# ***at the start of*** 
+# *** *at the start of*** 
 
 
   
@@ -5230,7 +5229,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 1.**在……开始的时候**  
 
 
-# ***at the thought of*** 
+# *** *at the thought of*** 
 
 
   
@@ -5243,7 +5242,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 一想到要离开这栋房子她就难过起来，因为这里充满了很多回忆。  
 
 
-# ***at the top of*** 
+# *** *at the top of*** 
 
 
   
@@ -5256,7 +5255,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 在山顶  
 
 
-# ***at the very beginning of*** 
+# *** *at the very beginning of*** 
 
 
   
@@ -5270,7 +5269,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：译林⑧ – 4  
 
 
-# ***at this / that rate*** 
+# *** *at this / that rate*** 
 
 
   
@@ -5283,7 +5282,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 如果继续那样的话，你会把身体搞垮的。  
 
 
-# ***at times*** 
+# *** *at times*** 
 
 
   
@@ -5297,7 +5296,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：北师大② – 5  
 
 
-# ***at war*** 
+# *** *at war*** 
 
 
   
@@ -5311,7 +5310,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：人教② – 1  
 
 
-# ***at war (with)*** 
+# *** *at war (with)*** 
 
 
   
@@ -5325,7 +5324,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：人教② – 1  
 
 
-# ***at will*** 
+# *** *at will*** 
 
 
   
@@ -5339,7 +5338,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：2012 江西  
 
 
-# ***at work*** 
+# *** *at work*** 
 
 
   
@@ -5355,7 +5354,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 这台机器正在运转。  
 
 
-# ***attach ... to*** 
+# *** *attach ... to*** 
 
 
   
@@ -5368,7 +5367,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 我在申请表上贴了一张照片。  
 
 
-# ***attend to*** 
+# *** *attend to*** 
 
 
   
@@ -5391,7 +5390,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 先生，打扰下。有人接待你吗？  
 
 
-# ***auto shop*** 
+# *** *auto shop*** 
 
 
   
@@ -5401,7 +5400,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 1.**自助售货店**  
 
 
-# ***aware of*** 
+# *** *aware of*** 
 
 
   
@@ -5411,7 +5410,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 1.**意识到；知道**  
 
 
-# ***bachelor's degree*** 
+# *** *bachelor's degree*** 
 
 
   
@@ -5421,7 +5420,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 1.*高义频：* **学士学位**  
 
 
-# ***back and forth*** 
+# *** *back and forth*** 
 
 
   
@@ -5434,7 +5433,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 他们身着亮丽的服装，和着响亮的鼓点扭来扭去。  
 
 
-# ***back out*** 
+# *** *back out*** 
 
 
   
@@ -5444,7 +5443,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 1.**决定不履行（允诺的事）**  
 
 
-# ***back sb up*** 
+# *** *back sb up*** 
 
 
   
@@ -5460,7 +5459,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 提醒：您的电脑没有备份。  
 
 
-# ***back to back*** 
+# *** *back to back*** 
 
 
   
@@ -5470,7 +5469,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 1.**背靠背**  
 
 
-# ***backing track*** 
+# *** *backing track*** 
 
 
   
@@ -5480,7 +5479,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 1.**（音乐）伴奏曲**  
 
 
-# ***bad breath*** n
+# *** *bad breath*** n
 
 
   
@@ -5490,7 +5489,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 1.**口臭**  
 
 
-# ***badly off*** 
+# *** *badly off*** 
 
 
   
@@ -5504,7 +5503,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 最近我经济上很拮据。  
 
 
-# ***balanced diet*** 
+# *** *balanced diet*** 
 
 
   
@@ -5514,7 +5513,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 1.**平衡膳食**  
 
 
-# ***baleen whale*** 
+# *** *baleen whale*** 
 
 
   
@@ -5524,7 +5523,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 1.*高义频：* **须鲸**  
 
 
-# ***barrel organ*** 
+# *** *barrel organ*** 
 
 
   
@@ -5534,7 +5533,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 1.**手摇风琴**  
 
 
-# ***base on / upon*** 
+# *** *base on / upon*** 
 
 
   
@@ -5555,7 +5554,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：2012 江苏  
 
 
-# ***be (a) witness to*** 
+# *** *be (a) witness to*** 
 
 
   
@@ -5565,7 +5564,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 1.**是…的目击者；是…的见证人**  
 
 
-# ***be (always) there (for sb)*** 
+# *** *be (always) there (for sb)*** 
 
 
   
@@ -5578,7 +5577,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 我父亲总能给我好建议。  
 
 
-# ***be / become aware of*** 
+# *** *be / become aware of*** 
 
 
   
@@ -5595,7 +5594,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 他们突然发觉有人在看着他们。  
 
 
-# ***be / feel honoured to do sth*** 
+# *** *be / feel honoured to do sth*** 
 
 
   
@@ -5612,7 +5611,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：译林⑥ – 4  
 
 
-# ***be / feel in the mood(for sth./to do sth.)*** 
+# *** *be / feel in the mood(for sth./to do sth.)*** 
 
 
   
@@ -5625,7 +5624,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 我现在没心情谈论这件事。  
 
 
-# ***be / get burnt out*** 
+# *** *be / get burnt out*** 
 
 
   
@@ -5635,7 +5634,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 1.**耗尽体力，累垮**  
 
 
-# ***be / get carried away*** 
+# *** *be / get carried away*** 
 
 
   
@@ -5648,7 +5647,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 他一看电视中的乒乓球比赛就很容易兴奋。  
 
 
-# ***be / get familiar with*** 
+# *** *be / get familiar with*** 
 
 
   
@@ -5661,7 +5660,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 你最熟悉的主题公园大概就是迪士尼乐园。  
 
 
-# ***be / get rid of*** 
+# *** *be / get rid of*** 
 
 
   
@@ -5678,7 +5677,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：北师大⑧ – 23  
 
 
-# ***be / get stuck in*** 
+# *** *be / get stuck in*** 
 
 
   
@@ -5691,7 +5690,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 他们遇到了交通堵塞。  
 
 
-# ***be / get tired of*** 
+# *** *be / get tired of*** 
 
 
   
@@ -5704,7 +5703,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 他厌倦了城市生活，希望迁居乡村，改变目前的生活方式。  
 
 
-# ***be / go on a diet*** 
+# *** *be / go on a diet*** 
 
 
   
@@ -5717,12 +5716,12 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 我节食的时候只吃黄瓜，迅速减轻了体重。  
 
 
-# ***be / have to do with*** 
+# *** *be / have to do with*** 
 
 
   
 
-# ***be / make friends (with)*** 
+# *** *be / make friends (with)*** 
 
 
   
@@ -5732,7 +5731,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 1.**(与…) 交朋友**  
 
 
-# ***be a household name / word*** 
+# *** *be a household name / word*** 
 
 
   
@@ -5742,7 +5741,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 1.**家喻户晓的名字 / 词**  
 
 
-# ***be a steal*** 
+# *** *be a steal*** 
 
 
   
@@ -5756,7 +5755,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 来源：2008 辽宁  
 
 
-# ***be about to do sth*** 
+# *** *be about to do sth*** 
 
 
   
@@ -5771,7 +5770,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 
 Notes: be about to常与when连用，表示“刚要…突然…”。  
 
-# ***be accustomed to*** 
+# *** *be accustomed to*** 
 
 
   
@@ -5784,7 +5783,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 我还不习惯这样，但我会尽量按照你说的去做。  
 
 
-# ***be all ears*** 
+# *** *be all ears*** 
 
 
   
@@ -5794,7 +5793,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 1.**[非正式用语] 洗耳恭听**  
 
 
-# ***be at war with*** 
+# *** *be at war with*** 
 
 
   
@@ -5808,7 +5807,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 来源：人教② – 1  
 
 
-# ***be attracted to*** 
+# *** *be attracted to*** 
 
 
   
@@ -5824,7 +5823,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 他俩一见倾心。  
 
 
-# ***be back on one's feet*** 
+# *** *be back on one's feet*** 
 
 
   
@@ -5834,7 +5833,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 1.**(困境后) 恢复；完全复原**  
 
 
-# ***be based on*** 
+# *** *be based on*** 
 
 
   
@@ -5848,7 +5847,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 来源：2010 陕西  
 
 
-# ***be beyond hope (of)*** 
+# *** *be beyond hope (of)*** 
 
 
   
@@ -5861,7 +5860,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 有些房屋已经没有修复的希望了。  
 
 
-# ***be beyond sb*** 
+# *** *be beyond sb*** 
 
 
   
@@ -5874,7 +5873,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 他根本无法理解这个问题。  
 
 
-# ***be blessed with*** 
+# *** *be blessed with*** 
 
 
   
@@ -5887,7 +5886,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 我有幸拥有一个幸福的童年，一个多数人想拥有的童年。  
 
 
-# ***be bored / scared / frightened to death*** 
+# *** *be bored / scared / frightened to death*** 
 
 
   
@@ -5900,7 +5899,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 她对接下来可能发生的事怕得要死。  
 
 
-# ***be born to do / be sth*** 
+# *** *be born to do / be sth*** 
 
 
   
@@ -5913,7 +5912,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 他天生就是个政治家。  
 
 
-# ***be bound to*** 
+# *** *be bound to*** 
 
 
   
@@ -5926,7 +5925,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 你下了这么大工夫，一定能考及格。  
 
 
-# ***be bound to (do)*** 
+# *** *be bound to (do)*** 
 
 
   
@@ -5939,7 +5938,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 你下了这么大工夫，一定能考及格。  
 
 
-# ***be buried in / bury oneself in*** 
+# *** *be buried in / bury oneself in*** 
 
 
   
@@ -5952,7 +5951,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 如你所知，我还在你所熟悉的那所学校埋头读书。  
 
 
-# ***be caught in*** 
+# *** *be caught in*** 
 
 
   
@@ -5965,7 +5964,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 遇上暴风雨  
 
 
-# ***be clever at*** 
+# *** *be clever at*** 
 
 
   
@@ -5979,7 +5978,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 来源：译林⑥ – 3  
 
 
-# ***be close to*** 
+# *** *be close to*** 
 
 
   
@@ -5992,7 +5991,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 他们的生日挨得很近。  
 
 
-# ***be composed of*** 
+# *** *be composed of*** 
 
 
   
@@ -6005,7 +6004,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 水是由什么构成的？  
 
 
-# ***be concerned about*** 
+# *** *be concerned about*** 
 
 
   
@@ -6018,7 +6017,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 人们很担心他们所呼吸的空气的质量。  
 
 
-# ***be concerned about sth.*** 
+# *** *be concerned about sth.*** 
 
 
   
@@ -6034,7 +6033,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 父母都关心孩子。  
 
 
-# ***be condemned to something*** 
+# *** *be condemned to something*** 
 
 
   
@@ -6047,7 +6046,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 他被裁定有罪，判了死刑。  
 
 
-# ***be connected to*** 
+# *** *be connected to*** 
 
 
   
@@ -6060,7 +6059,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 新房子(的水电)还没有与总管道连接。  
 
 
-# ***be connected with*** 
+# *** *be connected with*** 
 
 
   
@@ -6073,7 +6072,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 这次讨论与这件事有关。  
 
 
-# ***be considered as*** 
+# *** *be considered as*** 
 
 
   
@@ -6083,7 +6082,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 1.**被看作，被认为是……**  
 
 
-# ***be consistent with sth*** 
+# *** *be consistent with sth*** 
 
 
   
@@ -6096,7 +6095,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 这些伤口的类型与刀伤吻合。  
 
 
-# ***be crazy about*** 
+# *** *be crazy about*** 
 
 
   
@@ -6109,7 +6108,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 我很痴迷足球。  
 
 
-# ***be devoted to*** 
+# *** *be devoted to*** 
 
 
   
@@ -6119,7 +6118,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 1.**对……专一，专注**  
 
 
-# ***be divided into*** 
+# *** *be divided into*** 
 
 
   
@@ -6132,7 +6131,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 世界被分成七大洲。  
 
 
-# ***be dying for sth*** 
+# *** *be dying for sth*** 
 
 
   
@@ -6145,7 +6144,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 我很想喝杯茶。  
 
 
-# ***be dying to do sth*** 
+# *** *be dying to do sth*** 
 
 
   
@@ -6158,7 +6157,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 我很想见你。  
 
 
-# ***be employed in doing sth*** 
+# *** *be employed in doing sth*** 
 
 
   
@@ -6171,7 +6170,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 她忙着把要做的所有工作列一个清单。  
 
 
-# ***be equal to*** 
+# *** *be equal to*** 
 
 
   
@@ -6194,7 +6193,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 他无所不能。  
 
 
-# ***be expecting a baby / child*** 
+# *** *be expecting a baby / child*** 
 
 
   
@@ -6208,7 +6207,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 来源：人教⑥ – 3  
 
 
-# ***be exposed to*** 
+# *** *be exposed to*** 
 
 
   
@@ -6222,7 +6221,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 来源：人教⑤ – 1  
 
 
-# ***be famous for*** 
+# *** *be famous for*** 
 
 
   
@@ -6236,7 +6235,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 来源：外研③ – 5  
 
 
-# ***be filled with*** 
+# *** *be filled with*** 
 
 
   
@@ -6253,7 +6252,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 来源：2010 重庆  
 
 
-# ***be fond of*** 
+# *** *be fond of*** 
 
 
   
@@ -6266,7 +6265,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 我喜欢英语，擅长说和写。  
 
 
-# ***be hard on*** 
+# *** *be hard on*** 
 
 
   
@@ -6280,7 +6279,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 来源：译林① – 2  
 
 
-# ***be harmful to*** 
+# *** *be harmful to*** 
 
 
   
@@ -6295,7 +6294,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 来源：北师大④ – 11  
 
 
-# ***be heavy with*** 
+# *** *be heavy with*** 
 
 
   
@@ -6309,7 +6308,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 来源：外研④-5  
 
 
-# ***be heavy with sth*** 
+# *** *be heavy with sth*** 
 
 
   
@@ -6323,7 +6322,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 来源：外研④-5  
 
 
-# ***be honoured for*** 
+# *** *be honoured for*** 
 
 
   
@@ -6333,7 +6332,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 1.**因……而受到尊敬**  
 
 
-# ***be impressed with*** 
+# *** *be impressed with*** 
 
 
   
@@ -6350,7 +6349,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 你在这次考试中的表现给老师们留下了深刻的印象。  
 
 
-# ***be in control (of something)*** 
+# *** *be in control (of something)*** 
 
 
   
@@ -6363,7 +6362,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 那栋房子归谁管？  
 
 
-# ***be in love (with)*** 
+# *** *be in love (with)*** 
 
 
   
@@ -6376,7 +6375,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 他们相爱5年后结婚了。  
 
 
-# ***be in love with*** 
+# *** *be in love with*** 
 
 
   
@@ -6386,7 +6385,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 1.**爱上；喜欢 (表状态)**  
 
 
-# ***be in the bag*** 
+# *** *be in the bag*** 
 
 
   
@@ -6399,7 +6398,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 面试很不错，我想得到那份工作是十拿九稳的事。  
 
 
-# ***be in the habit of / have a / the habit of*** 
+# *** *be in the habit of / have a / the habit of*** 
 
 
   
@@ -6415,7 +6414,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 乘车时你有主动给老人让座的习惯吗？  
 
 
-# ***be intended to be / do something*** 
+# *** *be intended to be / do something*** 
 
 
   
@@ -6425,7 +6424,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 1.**目的是作为某物，目的是做某事**  
 
 
-# ***be known as*** 
+# *** *be known as*** 
 
 
   
@@ -6441,7 +6440,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 如今他是一个很有名气的作家。  
 
 
-# ***be known for*** 
+# *** *be known for*** 
 
 
   
@@ -6454,7 +6453,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 桂林因风景秀丽而闻名。  
 
 
-# ***be known to*** 
+# *** *be known to*** 
 
 
   
@@ -6467,7 +6466,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 众所周知，月球每月绕地球一圈。  
 
 
-# ***be lacking in sth*** 
+# *** *be lacking in sth*** 
 
 
   
@@ -6477,7 +6476,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 1.**缺少某物**  
 
 
-# ***be likely to*** 
+# *** *be likely to*** 
 
 
   
@@ -6490,7 +6489,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 如果你能找到合适的学习方法，学习效率就可能会提高。  
 
 
-# ***be likely to do*** 
+# *** *be likely to do*** 
 
 
   
@@ -6504,7 +6503,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 来源：2011 上海改  
 
 
-# ***be lined with*** 
+# *** *be lined with*** 
 
 
   
@@ -6521,7 +6520,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 来源：2010 四川改  
 
 
-# ***be located in / on*** 
+# *** *be located in / on*** 
 
 
   
@@ -6539,7 +6538,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 来源：北师大② – 4  
 
 
-# ***be low in*** 
+# *** *be low in*** 
 
 
   
@@ -6552,7 +6551,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 为了心脏健康，饮食要低脂少盐。  
 
 
-# ***be made from / of*** 
+# *** *be made from / of*** 
 
 
   
@@ -6571,7 +6570,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 
 Notes: be made from通常指从制成品中看不出原料，而be made of通常从成品中能看出原料。  
 
-# ***be made up of*** 
+# *** *be made up of*** 
 
 
   
@@ -6584,7 +6583,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 科学家们解释说地球的表面是由许多不同的板块构成的。  
 
 
-# ***be married to*** 
+# *** *be married to*** 
 
 
   
@@ -6597,7 +6596,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 他们已经结婚20年了。  
 
 
-# ***be meant to*** 
+# *** *be meant to*** 
 
 
   
@@ -6611,7 +6610,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 来源：人教③ – 1  
 
 
-# ***be meant to be*** 
+# *** *be meant to be*** 
 
 
   
@@ -6624,7 +6623,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 大家都说这家饭店很棒。  
 
 
-# ***be modeled on / after*** 
+# *** *be modeled on / after*** 
 
 
   
@@ -6634,7 +6633,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 1.**模仿；仿照**  
 
 
-# ***be modelled after*** 
+# *** *be modelled after*** 
 
 
   
@@ -6647,7 +6646,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 那栋建筑物的设计是模仿希腊的古典形式。  
 
 
-# ***be no good*** 
+# *** *be no good*** 
 
 
   
@@ -6661,7 +6660,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 看这么多电视没什么用。  
 
 
-# ***be occupied with*** 
+# *** *be occupied with*** 
 
 
   
@@ -6678,7 +6677,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 新来的人正忙着给家里写信。  
 
 
-# ***be of benefit to*** 
+# *** *be of benefit to*** 
 
 
   
@@ -6691,7 +6690,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 科学研究对人类非常有益。  
 
 
-# ***be of the same mind*** 
+# *** *be of the same mind*** 
 
 
   
@@ -6704,7 +6703,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 我们在这个问题上意见一致。  
 
 
-# ***be off to*** 
+# *** *be off to*** 
 
 
   
@@ -6718,7 +6717,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 来源：译林③ – 3  
 
 
-# ***be on good terms with*** 
+# *** *be on good terms with*** 
 
 
   
@@ -6732,7 +6731,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 来源：外研⑥ – 3  
 
 
-# ***be oneself*** 
+# *** *be oneself*** 
 
 
   
@@ -6742,7 +6741,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 1.**(人) 处于正常状态：**  
 
 
-# ***be opposed to*** 
+# *** *be opposed to*** 
 
 
   
@@ -6755,7 +6754,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 他的父母反对这桩婚事。  
 
 
-# ***be popular with / among*** 
+# *** *be popular with / among*** 
 
 
   
@@ -6771,7 +6770,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 凯特既聪明又漂亮，深受朋友们的喜爱。  
 
 
-# ***be proud of*** 
+# *** *be proud of*** 
 
 
   
@@ -6785,7 +6784,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 来源：2016 北京  
 
 
-# ***be remembered as / for*** 
+# *** *be remembered as / for*** 
 
 
   
@@ -6801,7 +6800,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 玛格丽特·米歇尔因其著作《飘》而著名。  
 
 
-# ***be responsible for*** 
+# *** *be responsible for*** 
 
 
 | 词频 1 |  
@@ -6818,7 +6817,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 他的观点是孩子应对自己的行为负责。  
 
 
-# ***be rich in*** 
+# *** *be rich in*** 
 
 
   
@@ -6831,7 +6830,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 这个国家资源丰富。  
 
 
-# ***be rude to*** 
+# *** *be rude to*** 
 
 
   
@@ -6845,7 +6844,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 来源：外研④ – 7  
 
 
-# ***be rude to sb*** 
+# *** *be rude to sb*** 
 
 
   
@@ -6859,7 +6858,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 来源：外研④ – 7  
 
 
-# ***be satisfied with*** 
+# *** *be satisfied with*** 
 
 
   
@@ -6872,7 +6871,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 买了这块手表后如果你不满意，只要在30天内退回即可。  
 
 
-# ***be scared to death*** 
+# *** *be scared to death*** 
 
 
   
@@ -6885,7 +6884,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 她对接下来可能发生的事怕得要死。  
 
 
-# ***be seated*** 
+# *** *be seated*** 
 
 
   
@@ -6898,7 +6897,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 请坐。  
 
 
-# ***be sentenced to*** 
+# *** *be sentenced to*** 
 
 
   
@@ -6912,7 +6911,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 来源：北师大⑧ – 24  
 
 
-# ***be short for*** 
+# *** *be short for*** 
 
 
   
@@ -6925,7 +6924,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > UN是UnitedNations的简称。  
 
 
-# ***be similar to*** 
+# *** *be similar to*** 
 
 
   
@@ -6939,7 +6938,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 来源：外研③ – 5  
 
 
-# ***be so kind as to / be kind enough to*** 
+# *** *be so kind as to / be kind enough to*** 
 
 
   
@@ -6952,7 +6951,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 请您关上门好吗？  
 
 
-# ***be starving*** 
+# *** *be starving*** 
 
 
   
@@ -6965,7 +6964,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 饭什么时候好？我快饿死了！  
 
 
-# ***be supposed to*** 
+# *** *be supposed to*** 
 
 
   
@@ -6982,7 +6981,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 这里不可以吸烟。  
 
 
-# ***be the envy of*** 
+# *** *be the envy of*** 
 
 
   
@@ -6992,7 +6991,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 1.**是令…羡慕或嫉妒的对象**  
 
 
-# ***be to blame (for sth)*** 
+# *** *be to blame (for sth)*** 
 
 
   
@@ -7008,7 +7007,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 着火是谁的责任？  
 
 
-# ***be too late*** 
+# *** *be too late*** 
 
 
   
@@ -7022,7 +7021,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 来源：2008 山东  
 
 
-# ***be up to*** 
+# *** *be up to*** 
 
 
   
@@ -7042,7 +7041,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 旅游公司有义务提醒顾客任何可能的危险。  
 
 
-# ***be up to sb*** 
+# *** *be up to sb*** 
 
 
   
@@ -7062,7 +7061,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 旅游公司有义务提醒顾客任何可能的危险。  
 
 
-# ***be used to*** 
+# *** *be used to*** 
 
 
   
@@ -7076,7 +7075,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 来源：北师大⑦ – LP  
 
 
-# ***be waiting*** 
+# *** *be waiting*** 
 
 
   
@@ -7090,7 +7089,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 车已为我们备好。  
 
 
-# ***be worlds apart*** 
+# *** *be worlds apart*** 
 
 
   
@@ -7104,7 +7103,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 来源：2012 天津  
 
 
-# ***bean curd*** n
+# *** *bean curd*** n
 英音 'biːnkɜːd     美音 'biːnkɜːrd  
 
 | 词频 1 |  
@@ -7114,7 +7113,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 1.*高义频：* **[U] 豆腐( tofu )**  
 
 
-# ***bean paste*** 
+# *** *bean paste*** 
 
 
   
@@ -7124,7 +7123,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 1.**豆馅**  
 
 
-# ***bear / keep … in mind*** 
+# *** *bear / keep … in mind*** 
 
 
   
@@ -7141,7 +7140,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 来源： 2008 全国  
 
 
-# ***bear fruit*** 
+# *** *bear fruit*** 
 
 
   
@@ -7155,7 +7154,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 来源：2016 浙江书面表达  
 
 
-# ***bear with me*** 
+# *** *bear with me*** 
 
 
   
@@ -7169,7 +7168,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 来源：2010 北京  
 
 
-# ***bear … in mind / bear in mind that ...*** 
+# *** *bear … in mind / bear in mind that ...*** 
 
 
   
@@ -7185,7 +7184,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 记住没有什么是不可能的。  
 
 
-# ***beat about / around the bush*** 
+# *** *beat about / around the bush*** 
 
 
   
@@ -7195,7 +7194,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 1.**说话拐弯抹角**  
 
 
-# ***beat up*** 
+# *** *beat up*** 
 
 
   
@@ -7210,7 +7209,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 ### 辨析 beat, hit, strike
 三个词都有“打”、“击”的意思，但用法不完全相同。  
 
-# ***beaten track*** 
+# *** *beaten track*** 
 
 
   
@@ -7220,7 +7219,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 1.*高义频：* **被踩出来的路；常规；惯例**  
 
 
-# ***beauty is in the eye of the beholder*** 
+# *** *beauty is in the eye of the beholder*** 
 
 
   
@@ -7230,7 +7229,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 1.**情人眼里出西施**  
 
 
-# ***because of*** 
+# *** *because of*** 
 
 
   
@@ -7246,7 +7245,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 ### 辨析 because, since, as, for
   
 
-# ***become addicted to*** 
+# *** *become addicted to*** 
 
 
   
@@ -7256,7 +7255,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 1.**对……上瘾；沉迷于**  
 
 
-# ***become ill*** 
+# *** *become ill*** 
 
 
   
@@ -7266,7 +7265,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 1.**生病**  
 
 
-# ***become interested in*** 
+# *** *become interested in*** 
 
 
   
@@ -7280,7 +7279,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 来源：2012 重庆  
 
 
-# ***become known as...*** 
+# *** *become known as...*** 
 
 
   
@@ -7290,7 +7289,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 1.**作为……而出名；被称为……；叫作……**  
 
 
-# ***before long*** 
+# *** *before long*** 
 
 
   
@@ -7303,7 +7302,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 我希望不久就能收到你的信。  
 
 
-# ***beg for*** 
+# *** *beg for*** 
 
 
   
@@ -7313,7 +7312,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 1.**乞求，请求**  
 
 
-# ***begin with*** 
+# *** *begin with*** 
 
 
   
@@ -7326,7 +7325,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 知识来源于实践。  
 
 
-# ***behind bars*** 
+# *** *behind bars*** 
 
 
   
@@ -7336,7 +7335,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 1.**坐牢**  
 
 
-# ***believe in*** 
+# *** *believe in*** 
 
 
   
@@ -7359,7 +7358,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 
 Notes: believe sb表示相信某人所说的话，believe in sb表示相信某人是好人，信任某人。  
 
-# ***believe it or not*** 
+# *** *believe it or not*** 
 
 
   
@@ -7373,7 +7372,7 @@ Notes: believe sb表示相信某人所说的话，believe in sb表示相信某�
  > 来源：人教① – 2  
 
 
-# ***belong to*** 
+# *** *belong to*** 
 
 
   
@@ -7396,7 +7395,7 @@ Notes: believe sb表示相信某人所说的话，believe in sb表示相信某�
 
 Notes: belong to不能用于进行时态和被动语态。  
 
-# ***bend to sb's will*** 
+# *** *bend to sb's will*** 
 
 
   
@@ -7406,7 +7405,7 @@ Notes: belong to不能用于进行时态和被动语态。
 1.**[正式用语] 屈服于某人的意愿**  
 
 
-# ***bent on (doing) something*** 
+# *** *bent on (doing) something*** 
 
 
   
@@ -7416,7 +7415,7 @@ Notes: belong to不能用于进行时态和被动语态。
 1.**决心做某事（通常指坏事）**  
 
 
-# ***best man*** 
+# *** *best man*** 
 
 
   
@@ -7426,7 +7425,7 @@ Notes: belong to不能用于进行时态和被动语态。
 1.**男傧相**  
 
 
-# ***beyond (sb's) expectation(s)*** 
+# *** *beyond (sb's) expectation(s)*** 
 
 
   
@@ -7440,7 +7439,7 @@ Notes: belong to不能用于进行时态和被动语态。
  > 来源：译林⑦ – 4  
 
 
-# ***beyond description*** 
+# *** *beyond description*** 
 
 
   
@@ -7453,7 +7452,7 @@ Notes: belong to不能用于进行时态和被动语态。
  > 黄山的壮丽美景难以形容。  
 
 
-# ***beyond one's control*** 
+# *** *beyond one's control*** 
 
 
   
@@ -7466,7 +7465,7 @@ Notes: belong to不能用于进行时态和被动语态。
  > 形势已经无法控制，我们束手无策。  
 
 
-# ***beyond repair*** 
+# *** *beyond repair*** 
 
 
   
@@ -7476,7 +7475,7 @@ Notes: belong to不能用于进行时态和被动语态。
 1.**无法修复**  
 
 
-# ***beyond sb's control*** 
+# *** *beyond sb's control*** 
 
 
   
@@ -7489,7 +7488,7 @@ Notes: belong to不能用于进行时态和被动语态。
  > 形势已经无法控制，我们束手无策。  
 
 
-# ***bid ... goodbye*** 
+# *** *bid ... goodbye*** 
 
 
   
@@ -7499,7 +7498,7 @@ Notes: belong to不能用于进行时态和被动语态。
 1.**向……告别**  
 
 
-# ***billions of*** 
+# *** *billions of*** 
 
 
   
@@ -7512,7 +7511,7 @@ Notes: belong to不能用于进行时态和被动语态。
  > 政府正把数十亿美元花在新城市轨道交通项目上。  
 
 
-# ***bird field guide*** 
+# *** *bird field guide*** 
 
 
   
@@ -7522,7 +7521,7 @@ Notes: belong to不能用于进行时态和被动语态。
 1.**鸟类图鉴**  
 
 
-# ***bit by bit*** 
+# *** *bit by bit*** 
 
 
   
@@ -7535,7 +7534,7 @@ Notes: belong to不能用于进行时态和被动语态。
  > 渐渐地,大家接受了这个想法。  
 
 
-# ***bits and pieces*** 
+# *** *bits and pieces*** 
 
 
   
@@ -7545,7 +7544,7 @@ Notes: belong to不能用于进行时态和被动语态。
 1.**各种各样的零碎东西**  
 
 
-# ***black and blue*** 
+# *** *black and blue*** 
 
 
   
@@ -7555,7 +7554,7 @@ Notes: belong to不能用于进行时态和被动语态。
 1.**被打得青一块紫一块的；伤痕累累的**  
 
 
-# ***black eye*** 
+# *** *black eye*** 
 
 
   
@@ -7565,7 +7564,7 @@ Notes: belong to不能用于进行时态和被动语态。
 1.**（打得）鼻青眼肿**  
 
 
-# ***black humour*** 
+# *** *black humour*** 
 
 
   
@@ -7575,7 +7574,7 @@ Notes: belong to不能用于进行时态和被动语态。
 1.**黑色幽默**  
 
 
-# ***black pudding*** 
+# *** *black pudding*** 
 
 
   
@@ -7585,7 +7584,7 @@ Notes: belong to不能用于进行时态和被动语态。
 1.**血肠,黑香肠**  
 
 
-# ***block out*** 
+# *** *block out*** 
 
 
   
@@ -7595,7 +7594,7 @@ Notes: belong to不能用于进行时态和被动语态。
 1.**挡住 (光线)**  
 
 
-# ***blog post*** 
+# *** *blog post*** 
 
 
   
@@ -7605,7 +7604,7 @@ Notes: belong to不能用于进行时态和被动语态。
 1.**博文；博客帖子**  
 
 
-# ***blood sugar*** n
+# *** *blood sugar*** n
 
 
   
@@ -7618,7 +7617,7 @@ Notes: belong to不能用于进行时态和被动语态。
  > 给某人测血糖  
 
 
-# ***blow down*** 
+# *** *blow down*** 
 
 
   
@@ -7632,7 +7631,7 @@ Notes: belong to不能用于进行时态和被动语态。
  > 来源：2008 湖南  
 
 
-# ***blow out*** 
+# *** *blow out*** 
 
 
   
@@ -7645,7 +7644,7 @@ Notes: belong to不能用于进行时态和被动语态。
  > 把蜡烛吹灭。  
 
 
-# ***blow up*** 
+# *** *blow up*** 
 
 
   
@@ -7665,7 +7664,7 @@ Notes: belong to不能用于进行时态和被动语态。
  > 一名警察在其汽车爆炸时遇难。  
 
 
-# ***boarding school*** 
+# *** *boarding school*** 
 
 
   
@@ -7675,7 +7674,7 @@ Notes: belong to不能用于进行时态和被动语态。
 1.**寄宿学校**  
 
 
-# ***body and soul*** 
+# *** *body and soul*** 
 
 
   
@@ -7685,7 +7684,7 @@ Notes: belong to不能用于进行时态和被动语态。
 1.**全心全意**  
 
 
-# ***body language*** 
+# *** *body language*** 
 
 
   
@@ -7699,7 +7698,7 @@ Notes: belong to不能用于进行时态和被动语态。
  > 来源：2008 安徽  
 
 
-# ***both ... and ...*** 
+# *** *both ... and ...*** 
 
 
   
@@ -7745,7 +7744,7 @@ Notes: both 的用法：
  > 这两位女士不都是法国人。  
 
 
-# ***brand new*** adj
+# *** *brand new*** adj
 
 
   
@@ -7755,7 +7754,7 @@ Notes: both 的用法：
 1.**全新的，崭新的**  
 
 
-# ***brave the elements*** 
+# *** *brave the elements*** 
 
 
   
@@ -7765,7 +7764,7 @@ Notes: both 的用法：
 1.**不顾天气恶劣，冒着风雨**  
 
 
-# ***break / beat / cut the / a record*** 
+# *** *break / beat / cut the / a record*** 
 
 
   
@@ -7778,7 +7777,7 @@ Notes: both 的用法：
  > 她希望能打破百米纪录。  
 
 
-# ***break / kick the habit of*** 
+# *** *break / kick the habit of*** 
 
 
   
@@ -7791,7 +7790,7 @@ Notes: both 的用法：
  > 他说他将设法改掉晚睡的习惯。  
 
 
-# ***break away (from)*** 
+# *** *break away (from)*** 
 
 
   
@@ -7810,7 +7809,7 @@ Notes: both 的用法：
  > 他抓住了她，可她设法挣脱了。  
 
 
-# ***break away from*** 
+# *** *break away from*** 
 
 
   
@@ -7829,7 +7828,7 @@ Notes: both 的用法：
  > 他抓住了她，可她设法挣脱了。  
 
 
-# ***break down*** 
+# *** *break down*** 
 
 
   
@@ -7866,7 +7865,7 @@ Notes: both 的用法：
  > 把年轻人聚集起来可以帮助他们消除彼此之间的隔阂。  
 
 
-# ***break in*** 
+# *** *break in*** 
 
 
   
@@ -7884,7 +7883,7 @@ Notes: both 的用法：
  > 我们外出的时候，窃贼闯进了家中。  
 
 
-# ***break into*** 
+# *** *break into*** 
 
 
   
@@ -7902,7 +7901,7 @@ Notes: both 的用法：
  > 突然欢呼/大笑/哭起来  
 
 
-# ***break into a smile*** 
+# *** *break into a smile*** 
 
 
   
@@ -7912,7 +7911,7 @@ Notes: both 的用法：
 1.**突然笑起来**  
 
 
-# ***break off*** 
+# *** *break off*** 
 
 
   
@@ -7931,7 +7930,7 @@ Notes: both 的用法：
  > 卫斯理和他的女朋友断绝了关系。  
 
 
-# ***break one's word*** 
+# *** *break one's word*** 
 
 
   
@@ -7944,7 +7943,7 @@ Notes: both 的用法：
  > 他经常食言，我再也不能相信他了。  
 
 
-# ***break out*** 
+# *** *break out*** 
 
 
   
@@ -7961,7 +7960,7 @@ Notes: both 的用法：
  > 来源：2009 湖北  
 
 
-# ***break sb's heart*** 
+# *** *break sb's heart*** 
 
 
   
@@ -7974,7 +7973,7 @@ Notes: both 的用法：
  > 你那样说真伤她的心。  
 
 
-# ***break through*** 
+# *** *break through*** 
 
 
   
@@ -7990,7 +7989,7 @@ Notes: both 的用法：
  > 我军战士很快突破了敌军的防御工事。  
 
 
-# ***break up*** 
+# *** *break up*** 
 
 
   
@@ -8027,7 +8026,7 @@ Notes: both 的用法：
  > 警察跑过来把人群驱散了。  
 
 
-# ***breathe in*** 
+# *** *breathe in*** 
 
 
   
@@ -8040,7 +8039,7 @@ Notes: both 的用法：
  > 吸气，并尽可能长时间地屏住呼吸。  
 
 
-# ***breathe out*** 
+# *** *breathe out*** 
 
 
   
@@ -8056,7 +8055,7 @@ Notes: both 的用法：
  > 人吸入氧气，呼出二氧化碳。  
 
 
-# ***bring ... back to life*** 
+# *** *bring ... back to life*** 
 
 
   
@@ -8066,7 +8065,7 @@ Notes: both 的用法：
 1.**使……复活**  
 
 
-# ***bring ... to a stop*** 
+# *** *bring ... to a stop*** 
 
 
   
@@ -8079,7 +8078,7 @@ Notes: both 的用法：
  > 这起事故使交通完全中断了。  
 
 
-# ***bring ... to mind*** 
+# *** *bring ... to mind*** 
 
 
   
@@ -8089,7 +8088,7 @@ Notes: both 的用法：
 1.**使……想起**  
 
 
-# ***bring / put ... into effect*** 
+# *** *bring / put ... into effect*** 
 
 
   
@@ -8099,7 +8098,7 @@ Notes: both 的用法：
 1.**实施；实行**  
 
 
-# ***bring / put an end to*** 
+# *** *bring / put an end to*** 
 
 
   
@@ -8115,7 +8114,7 @@ Notes: both 的用法：
  > 政府决心遏止恐怖主义活动。  
 
 
-# ***bring about*** 
+# *** *bring about*** 
 
 
   
@@ -8129,7 +8128,7 @@ Notes: both 的用法：
  > 科学给我们的生活带来了诸多变化。  
 
 
-# ***bring along*** 
+# *** *bring along*** 
 
 
   
@@ -8143,7 +8142,7 @@ Notes: both 的用法：
  > 来源：2010 福建  
 
 
-# ***bring an end to*** 
+# *** *bring an end to*** 
 
 
   
@@ -8156,7 +8155,7 @@ Notes: both 的用法：
  > 人们希望谈判能终结这次暴力事件。  
 
 
-# ***bring back*** 
+# *** *bring back*** 
 
 
   
@@ -8176,7 +8175,7 @@ Notes: both 的用法：
  > 陌生人的善举使我恢复了对人性的信心。  
 
 
-# ***bring back to life*** 
+# *** *bring back to life*** 
 
 
   
@@ -8186,7 +8185,7 @@ Notes: both 的用法：
 1.**使复生；使复活**  
 
 
-# ***bring down*** 
+# *** *bring down*** 
 
 
   
@@ -8206,7 +8205,7 @@ Notes: both 的用法：
  > 飞行员成功地把飞机降落在田野上。  
 
 
-# ***bring forward*** 
+# *** *bring forward*** 
 
 
   
@@ -8224,7 +8223,7 @@ Notes: both 的用法：
  > 年轻的工程师提出了一个新的设计方案。  
 
 
-# ***bring in*** 
+# *** *bring in*** 
 
 
   
@@ -8249,7 +8248,7 @@ Notes: both 的用法：
  > 他每月有1000美元的工作收入。  
 
 
-# ***bring on*** 
+# *** *bring on*** 
 
 
   
@@ -8268,7 +8267,7 @@ Notes: both 的用法：
  > 压力会引起疾病。  
 
 
-# ***bring out*** 
+# *** *bring out*** 
 
 
   
@@ -8295,7 +8294,7 @@ Notes: both 的用法：
  > 他们出版了一套儿童读物。  
 
 
-# ***bring sth. on sb.*** 
+# *** *bring sth. on sb.*** 
 
 
   
@@ -8305,7 +8304,7 @@ Notes: both 的用法：
 1.**给某人招来（不愉快的)事情**  
 
 
-# ***bring sth. to the attention of sb.*** 
+# *** *bring sth. to the attention of sb.*** 
 
 
   
@@ -8315,7 +8314,7 @@ Notes: both 的用法：
 1.**使某人关注某事**  
 
 
-# ***bring up*** 
+# *** *bring up*** 
 
 
   
@@ -8339,7 +8338,7 @@ Notes: both 的用法：
  > 他把吃的饭全都吐出来了。  
 
 
-# ***bring … to a close*** 
+# *** *bring … to a close*** 
 
 
   
@@ -8352,7 +8351,7 @@ Notes: both 的用法：
  > 他们竭力结束这场战争。  
 
 
-# ***bring … to life*** 
+# *** *bring … to life*** 
 
 
   
@@ -8369,7 +8368,7 @@ Notes: both 的用法：
  > 新来的老师总是用他的幽默把课上得生动活泼。  
 
 
-# ***bring … to light*** 
+# *** *bring … to light*** 
 
 
   
@@ -8382,7 +8381,7 @@ Notes: both 的用法：
  > 这些文献披露了莎士比亚早期生活的新资料。  
 
 
-# ***bring…into focus*** 
+# *** *bring…into focus*** 
 
 
   
@@ -8392,7 +8391,7 @@ Notes: both 的用法：
 1.**使……成为焦点**  
 
 
-# ***broken heart*** 
+# *** *broken heart*** 
 
 
   
@@ -8402,7 +8401,7 @@ Notes: both 的用法：
 1.**破碎的心，哀恸**  
 
 
-# ***build on / upon*** 
+# *** *build on / upon*** 
 
 
   
@@ -8418,7 +8417,7 @@ Notes: both 的用法：
  > 良好的关系建立在互信和体谅的基础之上。  
 
 
-# ***build up*** 
+# *** *build up*** 
 
 
   
@@ -8435,7 +8434,7 @@ Notes: both 的用法：
  > 来源：2014 江西书面表达改  
 
 
-# ***bump into*** 
+# *** *bump into*** 
 
 
   
@@ -8448,7 +8447,7 @@ Notes: both 的用法：
  > 你猜今天下午我撞见了谁？  
 
 
-# ***bungee jumping*** n
+# *** *bungee jumping*** n
 英音 'bʌndʒiːˌdʒʌmpɪŋ     美音 'bʌndʒiːˌdʒʌmpɪŋ  
 
 | 词频 1 |  
@@ -8458,7 +8457,7 @@ Notes: both 的用法：
 1.**蹦极**  
 
 
-# ***burn down*** 
+# *** *burn down*** 
 
 
   
@@ -8472,7 +8471,7 @@ Notes: both 的用法：
  > 来源：2014 湖南改  
 
 
-# ***burn out*** 
+# *** *burn out*** 
 
 
   
@@ -8485,7 +8484,7 @@ Notes: both 的用法：
  > 我的蜡烛就要燃尽了。  
 
 
-# ***burn the midnight oil*** 
+# *** *burn the midnight oil*** 
 
 
   
@@ -8495,7 +8494,7 @@ Notes: both 的用法：
 1.**挑灯夜战；开夜车**  
 
 
-# ***burn to the ground*** 
+# *** *burn to the ground*** 
 
 
   
@@ -8509,7 +8508,7 @@ Notes: both 的用法：
  > 来源：人教⑥ – 5  
 
 
-# ***burn up*** 
+# *** *burn up*** 
 
 
   
@@ -8519,7 +8518,7 @@ Notes: both 的用法：
 1.**烧毁，烧尽**  
 
 
-# ***burst in*** 
+# *** *burst in*** 
 
 
   
@@ -8532,7 +8531,7 @@ Notes: both 的用法：
  > 突然闯入打断会议  
 
 
-# ***burst into*** 
+# *** *burst into*** 
 
 
   
@@ -8546,7 +8545,7 @@ Notes: both 的用法：
  > 他们突然大哭/大笑/欢呼起来。  
 
 
-# ***burst into laughter*** 
+# *** *burst into laughter*** 
 
 
   
@@ -8556,7 +8555,7 @@ Notes: both 的用法：
 1.**突然大笑起来**  
 
 
-# ***burst out*** 
+# *** *burst out*** 
 
 
   
@@ -8569,7 +8568,7 @@ Notes: both 的用法：
  > 突然大哭/大笑/欢呼起来  
 
 
-# ***burst out laughing*** 
+# *** *burst out laughing*** 
 
 
   
@@ -8582,7 +8581,7 @@ Notes: both 的用法：
  > 突然大哭/大笑/欢呼起来  
 
 
-# ***business card*** n
+# *** *business card*** n
 
 
   
@@ -8596,7 +8595,7 @@ Notes: both 的用法：
  > 来源：2014 浙江  
 
 
-# ***but for*** 
+# *** *but for*** 
 
 
   
@@ -8609,7 +8608,7 @@ Notes: both 的用法：
  > 如果没有你的帮助，我不可能成功。  
 
 
-# ***butterflies in one's stomach*** 
+# *** *butterflies in one's stomach*** 
 
 
   
@@ -8619,7 +8618,7 @@ Notes: both 的用法：
 1.**情绪紧张，心里发慌**  
 
 
-# ***by / in contrast*** 
+# *** *by / in contrast*** 
 
 
   
@@ -8632,7 +8631,7 @@ Notes: both 的用法：
  > 相比之下，杨夫人坦率多了。  
 
 
-# ***by accident*** 
+# *** *by accident*** 
 
 
   
@@ -8649,7 +8648,7 @@ Notes: both 的用法：
 ### 辨析 accident, incident, event
 三者都含有“事件”之意。  
 
-# ***by all means*** 
+# *** *by all means*** 
 
 
   
@@ -8668,7 +8667,7 @@ Notes: both 的用法：
  > 当然。  
 
 
-# ***by an inch / inches*** 
+# *** *by an inch / inches*** 
 
 
   
@@ -8681,7 +8680,7 @@ Notes: both 的用法：
  > 那辆汽车差一点儿撞到我的狗。  
 
 
-# ***by and by*** 
+# *** *by and by*** 
 
 
   
@@ -8691,7 +8690,7 @@ Notes: both 的用法：
 1.**不久以后**  
 
 
-# ***by and large*** 
+# *** *by and large*** 
 
 
   
@@ -8701,7 +8700,7 @@ Notes: both 的用法：
 1.**大体上；总体上**  
 
 
-# ***by birth*** 
+# *** *by birth*** 
 
 
   
@@ -8711,7 +8710,7 @@ Notes: both 的用法：
 1.**在血统上；生来**  
 
 
-# ***by chance*** 
+# *** *by chance*** 
 
 
   
@@ -8725,7 +8724,7 @@ Notes: both 的用法：
  > 来源：人教⑥ – 2  
 
 
-# ***by coincidence*** 
+# *** *by coincidence*** 
 
 
   
@@ -8739,7 +8738,7 @@ Notes: both 的用法：
  > 来源：人教⑩ – 3  
 
 
-# ***by far*** 
+# *** *by far*** 
 
 
   
@@ -8759,7 +8758,7 @@ Notes: both 的用法：
  > 这样好得多。  
 
 
-# ***by hand*** 
+# *** *by hand*** 
 
 
   
@@ -8773,7 +8772,7 @@ Notes: both 的用法：
  > 来源：2012 天津  
 
 
-# ***by heart*** 
+# *** *by heart*** 
 
 
   
@@ -8786,7 +8785,7 @@ Notes: both 的用法：
  > 背诵课文而不理解其意思是没有用的。  
 
 
-# ***by itself*** 
+# *** *by itself*** 
 
 
   
@@ -8799,7 +8798,7 @@ Notes: both 的用法：
  > 那棵树孤零零地立在花园中。  
 
 
-# ***by means of*** 
+# *** *by means of*** 
 
 
   
@@ -8812,7 +8811,7 @@ Notes: both 的用法：
  > 这是一门为期两年的通过讲座形式教授的课程。  
 
 
-# ***by means of ...*** 
+# *** *by means of ...*** 
 
 
   
@@ -8825,7 +8824,7 @@ Notes: both 的用法：
  > 这是一门为期两年的通过讲座形式教授的课程。  
 
 
-# ***by mistake*** 
+# *** *by mistake*** 
 
 
   
@@ -8839,7 +8838,7 @@ Notes: both 的用法：
  > 有人错拿了我的字典。  
 
 
-# ***by nature*** 
+# *** *by nature*** 
 
 
   
@@ -8852,7 +8851,7 @@ Notes: both 的用法：
  > 孩子生性好奇。  
 
 
-# ***by no means*** 
+# *** *by no means*** 
 
 
   
@@ -8873,7 +8872,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我已很努力来提高英语水平，但老师对我的进步根本不满意。  
 
 
-# ***by reason of*** 
+# *** *by reason of*** 
 
 
   
@@ -8886,7 +8885,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 由于刻苦用功，他获得了一等奖。  
 
 
-# ***by sea*** 
+# *** *by sea*** 
 
 
   
@@ -8899,7 +8898,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他乘船去了纽约。  
 
 
-# ***by the end of*** 
+# *** *by the end of*** 
 
 
   
@@ -8912,7 +8911,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 到上个月月底，我们已学会了所有的歌曲。  
 
 
-# ***by the hour*** 
+# *** *by the hour*** 
 
 
   
@@ -8925,7 +8924,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 这个工厂的工人按小时计酬。  
 
 
-# ***by the name of*** 
+# *** *by the name of*** 
 
 
   
@@ -8939,7 +8938,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2008 福建  
 
 
-# ***by the sea*** 
+# *** *by the sea*** 
 
 
   
@@ -8952,7 +8951,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我有一间海滨小屋。  
 
 
-# ***by the time*** 
+# *** *by the time*** 
 
 
   
@@ -8965,7 +8964,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我将在退休前付清房款。  
 
 
-# ***by the way*** 
+# *** *by the way*** 
 
 
   
@@ -8975,7 +8974,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**顺便说；顺便一提**  
 
 
-# ***by turns*** 
+# *** *by turns*** 
 
 
   
@@ -8988,7 +8987,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 第一次离开家，他时而高兴时而悲伤。  
 
 
-# ***by way of*** 
+# *** *by way of*** 
 
 
   
@@ -9004,7 +9003,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 孩子们通常看图识字。  
 
 
-# ***cable car*** 
+# *** *cable car*** 
 
 
   
@@ -9014,7 +9013,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.*高义频：* **缆车；(美) 有轨缆车**  
 
 
-# ***call / draw attention to*** 
+# *** *call / draw attention to*** 
 
 
   
@@ -9028,7 +9027,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2011 全国改  
 
 
-# ***call at*** 
+# *** *call at*** 
 
 
   
@@ -9038,7 +9037,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**拜访（某地）；（火车等）短暂停留**  
 
 
-# ***call back*** 
+# *** *call back*** 
 
 
   
@@ -9052,7 +9051,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2009 全国  
 
 
-# ***call for*** 
+# *** *call for*** 
 
 
   
@@ -9071,7 +9070,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我会到你家接你。  
 
 
-# ***call for an end to sth*** 
+# *** *call for an end to sth*** 
 
 
   
@@ -9081,7 +9080,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**要求结束……**  
 
 
-# ***call in*** 
+# *** *call in*** 
 
 
   
@@ -9094,7 +9093,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 你妈妈病得很严重，马上找个医生来。  
 
 
-# ***call off*** 
+# *** *call off*** 
 
 
   
@@ -9107,7 +9106,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 取消会议/约会  
 
 
-# ***call on*** 
+# *** *call on*** 
 
 
   
@@ -9125,7 +9124,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 教育部要求学生每天锻炼一个小时。  
 
 
-# ***call on / upon*** 
+# *** *call on / upon*** 
 
 
   
@@ -9143,7 +9142,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 教育部要求学生每天锻炼一个小时。  
 
 
-# ***call up*** 
+# *** *call up*** 
 
 
   
@@ -9159,7 +9158,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 这张照片使我想起我们班的那次旅行。  
 
 
-# ***calm (...) down*** 
+# *** *calm (...) down*** 
 
 
   
@@ -9172,7 +9171,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 心烦时，他会深深地吸几口气以使自己平静下来。  
 
 
-# ***calm down*** 
+# *** *calm down*** 
 
 
   
@@ -9190,7 +9189,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 心烦时，他会深深地吸几口气以使自己平静下来。  
 
 
-# ***camp out*** 
+# *** *camp out*** 
 
 
   
@@ -9203,7 +9202,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他计划在野外露营。  
 
 
-# ***can (not) help (doing) sth / can not help but do sth*** 
+# *** *can (not) help (doing) sth / can not help but do sth*** 
 
 
   
@@ -9220,7 +9219,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2013 天津改  
 
 
-# ***can't / can never ... too ...*** 
+# *** *can't / can never ... too ...*** 
 
 
   
@@ -9238,7 +9237,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 辨析 much too, too much
   
 
-# ***can't help doing sth.*** 
+# *** *can't help doing sth.*** 
 
 
   
@@ -9255,7 +9254,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2013 天津改  
 
 
-# ***can't wait*** 
+# *** *can't wait*** 
 
 
   
@@ -9274,7 +9273,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我急切地等他回来。  
 
 
-# ***can't wait to do something*** 
+# *** *can't wait to do something*** 
 
 
   
@@ -9293,7 +9292,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我急切地等他回来。  
 
 
-# ***cannot ... too / over*** 
+# *** *cannot ... too / over*** 
 
 
   
@@ -9306,7 +9305,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 择友越谨慎越好。  
 
 
-# ***cannot but*** 
+# *** *cannot but*** 
 
 
   
@@ -9319,7 +9318,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他只能步行回家，因为他的车半路抛锚了。  
 
 
-# ***cannot choose but (do)*** 
+# *** *cannot choose but (do)*** 
 
 
   
@@ -9332,7 +9331,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他只好去参加这次聚会。  
 
 
-# ***carbon dioxide*** n
+# *** *carbon dioxide*** n
 
 
   
@@ -9346,7 +9345,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：外研③ – 4  
 
 
-# ***carbon monoxide*** n
+# *** *carbon monoxide*** n
 英音 ˌkɑːbənmən'ɒksaɪd     美音 ˌkɑːrbənmən'ɑːksaɪd  
 
 | 词频 1 |  
@@ -9356,7 +9355,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**一氧化碳**  
 
 
-# ***care about*** 
+# *** *care about*** 
 
 
   
@@ -9369,7 +9368,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 你用不着太在意自己的考试成绩。  
 
 
-# ***care for*** 
+# *** *care for*** 
 
 
   
@@ -9390,7 +9389,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我以为乔治不怎么喜欢电视剧。  
 
 
-# ***carry off*** 
+# *** *carry off*** 
 
 
   
@@ -9400,7 +9399,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**掠去；夺走**  
 
 
-# ***carry on*** 
+# *** *carry on*** 
 
 
   
@@ -9424,7 +9423,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我想继续我的课程。  
 
 
-# ***carry on (with)*** 
+# *** *carry on (with)*** 
 
 
   
@@ -9448,7 +9447,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我想继续我的课程。  
 
 
-# ***carry out*** 
+# *** *carry out*** 
 
 
   
@@ -9465,7 +9464,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2008 福建  
 
 
-# ***carry through*** 
+# *** *carry through*** 
 
 
   
@@ -9481,7 +9480,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他请求我们帮他完成计划。  
 
 
-# ***cash a cheque*** 
+# *** *cash a cheque*** 
 
 
   
@@ -9494,7 +9493,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 在你兑现支票之前，要先确认署名正确。  
 
 
-# ***cash crop*** n
+# *** *cash crop*** n
 
 
   
@@ -9504,7 +9503,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**经济作物**  
 
 
-# ***cast about*** 
+# *** *cast about*** 
 
 
   
@@ -9514,7 +9513,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**寻找，搜索，想办法**  
 
 
-# ***cast down*** 
+# *** *cast down*** 
 
 
   
@@ -9524,7 +9523,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**沮丧的：**  
 
 
-# ***catch / get / take (a) hold of*** 
+# *** *catch / get / take (a) hold of*** 
 
 
   
@@ -9541,7 +9540,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2010 四川改  
 
 
-# ***catch a glimpse of*** 
+# *** *catch a glimpse of*** 
 
 
   
@@ -9551,7 +9550,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**瞥见**  
 
 
-# ***catch fire*** 
+# *** *catch fire*** 
 
 
   
@@ -9569,7 +9568,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2014 天津  
 
 
-# ***catch on*** 
+# *** *catch on*** 
 
 
   
@@ -9585,7 +9584,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 那位女士重复了几遍她的问题，但我仍没有理解。  
 
 
-# ***catch one's breath*** 
+# *** *catch one's breath*** 
 
 
   
@@ -9595,7 +9594,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**缓一口气；歇口气**  
 
 
-# ***catch sb's eye*** 
+# *** *catch sb's eye*** 
 
 
   
@@ -9608,7 +9607,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我打开门，地上的一个包裹引起了我的注意。  
 
 
-# ***catch sight of*** 
+# *** *catch sight of*** 
 
 
   
@@ -9621,7 +9620,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 突然，我在人群中看到了我的英语老师。  
 
 
-# ***catch up (with)*** 
+# *** *catch up (with)*** 
 
 
   
@@ -9637,7 +9636,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我越跑越快，直到追上其他所有选手。  
 
 
-# ***cater for*** 
+# *** *cater for*** 
 
 
   
@@ -9651,7 +9650,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2016 全国改  
 
 
-# ***change one's mind*** 
+# *** *change one's mind*** 
 
 
   
@@ -9665,7 +9664,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2013 全国  
 
 
-# ***check in*** 
+# *** *check in*** 
 
 
   
@@ -9679,7 +9678,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2009 陕西  
 
 
-# ***check on*** 
+# *** *check on*** 
 
 
   
@@ -9692,7 +9691,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 飞机起飞前我们要进行检查。  
 
 
-# ***check out*** 
+# *** *check out*** 
 
 
   
@@ -9709,7 +9708,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2011 上海改  
 
 
-# ***cheer sb. up*** 
+# *** *cheer sb. up*** 
 
 
   
@@ -9723,7 +9722,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：外研⑥ – 1  
 
 
-# ***cheer up*** 
+# *** *cheer up*** 
 
 
   
@@ -9740,7 +9739,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 高兴点儿！事情会圆满解决的。  
 
 
-# ***chewing gum*** 
+# *** *chewing gum*** 
 英音 'tʃuːɪŋ ɡʌm     美音 'tʃuːɪŋ ɡʌm  
 
 | 词频 1 |  
@@ -9750,7 +9749,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.*高义频：* **口香糖**  
 
 
-# ***choke back*** 
+# *** *choke back*** 
 
 
   
@@ -9764,7 +9763,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：译林⑩-3  
 
 
-# ***choke off*** 
+# *** *choke off*** 
 
 
   
@@ -9778,7 +9777,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：译林⑦-4  
 
 
-# ***chop down*** 
+# *** *chop down*** 
 
 
   
@@ -9788,7 +9787,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**砍倒；伐倒 (树木)**  
 
 
-# ***civilization / civilisation*** n
+# *** *civilization / civilisation*** n
 英音 ˌsɪvəlaɪ'zeɪʃn     美音 ˌsɪvələ'zeɪʃn  
 
 | 词频 3 | 阅读 3 |  
@@ -9807,7 +9806,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：外研③ – 1  
 
 
-# ***clean out*** 
+# *** *clean out*** 
 
 
   
@@ -9820,7 +9819,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我们这周最好把房间打扫干净。  
 
 
-# ***clean up*** 
+# *** *clean up*** 
 
 
   
@@ -9839,7 +9838,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 这条河遭到如此严重的污染，现在净化它可能太迟了。  
 
 
-# ***clear away*** 
+# *** *clear away*** 
 
 
   
@@ -9852,7 +9851,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 清除房子附近的灌木  
 
 
-# ***clear off*** 
+# *** *clear off*** 
 
 
   
@@ -9865,7 +9864,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 当护士询问他是谁时，他突然离开了。  
 
 
-# ***clear one's throat*** 
+# *** *clear one's throat*** 
 
 
   
@@ -9875,7 +9874,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**清清嗓子**  
 
 
-# ***clear out*** 
+# *** *clear out*** 
 
 
   
@@ -9888,7 +9887,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 把房间腾空  
 
 
-# ***clear the air*** 
+# *** *clear the air*** 
 
 
   
@@ -9902,7 +9901,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2010 全国改  
 
 
-# ***clear up*** 
+# *** *clear up*** 
 
 
   
@@ -9918,7 +9917,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 揭开谜团/解决困难/消除误会  
 
 
-# ***close / shut one's ears to*** 
+# *** *close / shut one's ears to*** 
 
 
   
@@ -9928,7 +9927,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**不听；不愿听**  
 
 
-# ***close down*** 
+# *** *close down*** 
 
 
   
@@ -9942,7 +9941,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2009 浙江  
 
 
-# ***collect one's thoughts*** 
+# *** *collect one's thoughts*** 
 
 
   
@@ -9955,7 +9954,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我镇定了一下，深吸一口气，走进面试的房间。  
 
 
-# ***comb (through) something (for)*** 
+# *** *comb (through) something (for)*** 
 
 
   
@@ -9969,7 +9968,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：译林⑦ – 3  
 
 
-# ***come / draw to a close*** 
+# *** *come / draw to a close*** 
 
 
   
@@ -9983,7 +9982,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2019 全国改  
 
 
-# ***come / go full circle*** 
+# *** *come / go full circle*** 
 
 
   
@@ -9996,7 +9995,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 时尚兜一个圈子回到原处是迟早的事。  
 
 
-# ***come / go to sb's aid*** 
+# *** *come / go to sb's aid*** 
 
 
   
@@ -10010,7 +10009,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2015 天津  
 
 
-# ***come about*** 
+# *** *come about*** 
 
 
   
@@ -10026,7 +10025,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 大雨引发了洪水。  
 
 
-# ***come across*** 
+# *** *come across*** 
 
 
   
@@ -10050,7 +10049,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他给人的印象是一个富有同情心的人。  
 
 
-# ***come alive*** 
+# *** *come alive*** 
 
 
   
@@ -10073,7 +10072,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 渔村在春季变得繁忙起来。  
 
 
-# ***come along*** 
+# *** *come along*** 
 
 
   
@@ -10092,7 +10091,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 手术后病人的状况良好。  
 
 
-# ***come around / round*** 
+# *** *come around / round*** 
 
 
   
@@ -10115,7 +10114,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他过了一会才改变观点，接受这个主意。  
 
 
-# ***come back*** 
+# *** *come back*** 
 
 
   
@@ -10128,7 +10127,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 长裙已经过时很长时间，但又要流行起来。  
 
 
-# ***come by*** 
+# *** *come by*** 
 
 
   
@@ -10144,7 +10143,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 如今找工作很难。  
 
 
-# ***come down*** 
+# *** *come down*** 
 
 
   
@@ -10160,7 +10159,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 那座老楼房在一个雨天的早晨倒塌了。  
 
 
-# ***come down to*** 
+# *** *come down to*** 
 
 
   
@@ -10176,7 +10175,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 这个习俗是从祖辈传下来的。  
 
 
-# ***come down with*** 
+# *** *come down with*** 
 
 
   
@@ -10186,7 +10185,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**患（病）**  
 
 
-# ***come from*** 
+# *** *come from*** 
 
 
   
@@ -10200,7 +10199,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2016 浙江书面表达改  
 
 
-# ***come in*** 
+# *** *come in*** 
 
 
   
@@ -10216,7 +10215,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他的马跑了第二名。  
 
 
-# ***come into being*** 
+# *** *come into being*** 
 
 
   
@@ -10229,12 +10228,12 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他们不知道这个世界是如何形成的。  
 
 
-# ***come into existence*** 
+# *** *come into existence*** 
 
 
   
 
-# ***come into one's mind*** 
+# *** *come into one's mind*** 
 
 
   
@@ -10247,7 +10246,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 突然一个可怕的念头出现在我的脑海。  
 
 
-# ***come into sight*** 
+# *** *come into sight*** 
 
 
   
@@ -10260,7 +10259,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 当飞机穿过云层下降时，绿色的田野和白色的房屋映入了眼帘。  
 
 
-# ***come into use*** 
+# *** *come into use*** 
 
 
   
@@ -10273,7 +10272,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 雨伞是什么时候开始使用的？  
 
 
-# ***come into view*** 
+# *** *come into view*** 
 
 
   
@@ -10286,7 +10285,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 转过弯，我们就看见那个湖了。  
 
 
-# ***come of age*** 
+# *** *come of age*** 
 
 
   
@@ -10300,7 +10299,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2010 重庆  
 
 
-# ***come off*** 
+# *** *come off*** 
 
 
   
@@ -10328,7 +10327,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2010 浙江改  
 
 
-# ***come off it*** 
+# *** *come off it*** 
 
 
   
@@ -10338,7 +10337,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**别胡扯**  
 
 
-# ***come on*** 
+# *** *come on*** 
 
 
   
@@ -10357,7 +10356,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 哦，得了吧——你知道那不是真的！  
 
 
-# ***come out*** 
+# *** *come out*** 
 
 
   
@@ -10390,7 +10389,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：北师大⑦ – 20  
 
 
-# ***come over*** 
+# *** *come over*** 
 
 
   
@@ -10411,7 +10410,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他突然犯困了。  
 
 
-# ***come straight to the point*** 
+# *** *come straight to the point*** 
 
 
   
@@ -10424,7 +10423,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我就直说了。  
 
 
-# ***come to*** 
+# *** *come to*** 
 
 
   
@@ -10434,7 +10433,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**苏醒；到达；共计；突然想起**  
 
 
-# ***come to a stop*** 
+# *** *come to a stop*** 
 
 
   
@@ -10447,7 +10446,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他突然停了下来，我们差点撞上他。  
 
 
-# ***come to an end*** 
+# *** *come to an end*** 
 
 
   
@@ -10460,7 +10459,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 暑假终于结束了。  
 
 
-# ***come to do something*** 
+# *** *come to do something*** 
 
 
   
@@ -10474,7 +10473,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2010 四川  
 
 
-# ***come to life*** 
+# *** *come to life*** 
 
 
   
@@ -10490,7 +10489,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 比赛在下半场的最后几分钟变得精彩起来。  
 
 
-# ***come to light*** 
+# *** *come to light*** 
 
 
   
@@ -10503,7 +10502,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 在警方的努力下，一件隐秘的事实最近被发现了。  
 
 
-# ***come to one's rescue*** 
+# *** *come to one's rescue*** 
 
 
   
@@ -10517,7 +10516,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：人教① – 4  
 
 
-# ***come to power*** 
+# *** *come to power*** 
 
 
   
@@ -10530,7 +10529,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 这个政党是在上次大选中上台执政的。  
 
 
-# ***come to sb*** 
+# *** *come to sb*** 
 
 
   
@@ -10543,7 +10542,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我突然想到了答案。  
 
 
-# ***come true*** 
+# *** *come true*** 
 
 
   
@@ -10557,7 +10556,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：外研④ – 1  
 
 
-# ***come up*** 
+# *** *come up*** 
 
 
   
@@ -10596,7 +10595,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 丹尼，我听说你的生日快到了。  
 
 
-# ***come up to*** 
+# *** *come up to*** 
 
 
   
@@ -10609,7 +10608,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他走近我，问我去车站的路怎么走。  
 
 
-# ***come up with*** 
+# *** *come up with*** 
 
 
   
@@ -10626,7 +10625,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他们想买房，但是拿不出这笔现金。  
 
 
-# ***comic strip*** n
+# *** *comic strip*** n
 英音 'kɒmɪk strɪp     美音 'kɒmɪk strɪp  
 
 | 词频 1 |  
@@ -10636,7 +10635,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**连环漫画**  
 
 
-# ***commit suicide*** 
+# *** *commit suicide*** 
 
 
   
@@ -10650,7 +10649,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：译林④ – 1  
 
 
-# ***compare notes (with sb)*** 
+# *** *compare notes (with sb)*** 
 
 
   
@@ -10663,7 +10662,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我们分别观看了那出戏，随后交换了意见。  
 
 
-# ***compared with*** 
+# *** *compared with*** 
 
 
   
@@ -10677,7 +10676,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：外研③ – 2  
 
 
-# ***compose music*** 
+# *** *compose music*** 
 
 
   
@@ -10687,7 +10686,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**创作乐曲**  
 
 
-# ***concentrate on*** 
+# *** *concentrate on*** 
 
 
   
@@ -10703,7 +10702,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 当你全神贯注于一项任务时，你会完成得又快又好。  
 
 
-# ***concern oneself with*** 
+# *** *concern oneself with*** 
 
 
   
@@ -10716,7 +10715,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 好医生应当时时刻刻关心他的病人。  
 
 
-# ***concerned about*** 
+# *** *concerned about*** 
 
 
   
@@ -10726,7 +10725,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**对……关切的；为……担忧的**  
 
 
-# ***consist in*** 
+# *** *consist in*** 
 
 
   
@@ -10743,7 +10742,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2014 福建书面表达  
 
 
-# ***consist of*** 
+# *** *consist of*** 
 
 
   
@@ -10761,7 +10760,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2008 辽宁书面表达改  
 
 
-# ***contrast with*** 
+# *** *contrast with*** 
 
 
   
@@ -10771,7 +10770,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**与……形成对照**  
 
 
-# ***cool down / off*** 
+# *** *cool down / off*** 
 
 
   
@@ -10794,7 +10793,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 她出去走走，让自己冷静一下。  
 
 
-# ***correspond with*** 
+# *** *correspond with*** 
 
 
   
@@ -10808,7 +10807,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：外研⑧ – 6  
 
 
-# ***cosy / cozy*** adj
+# *** *cosy / cozy*** adj
 英音 'kəʊzi     美音 'koʊzi  
 
 | 词频 1 |  
@@ -10818,7 +10817,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.*高义频：* **暖和舒适的；感觉舒服的**  
 
 
-# ***cotton wool*** 
+# *** *cotton wool*** 
 
 
   
@@ -10828,7 +10827,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**药棉，脱脂棉**  
 
 
-# ***couch potato*** 
+# *** *couch potato*** 
 
 
   
@@ -10838,7 +10837,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**终日懒散在家的人**  
 
 
-# ***could you possibly*** 
+# *** *could you possibly*** 
 
 
   
@@ -10852,7 +10851,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2008 天津  
 
 
-# ***count down*** 
+# *** *count down*** 
 
 
   
@@ -10865,7 +10864,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 她已经在对这个重大的日子倒计时了。  
 
 
-# ***count on*** 
+# *** *count on*** 
 
 
   
@@ -10880,7 +10879,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2011 重庆  
 
 
-# ***count on / upon*** 
+# *** *count on / upon*** 
 
 
   
@@ -10895,7 +10894,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2011 重庆  
 
 
-# ***cover up*** 
+# *** *cover up*** 
 
 
   
@@ -10912,7 +10911,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 妈妈非常担心，但她还是用笑话来掩饰。  
 
 
-# ***cover up for sb*** 
+# *** *cover up for sb*** 
 
 
   
@@ -10925,7 +10924,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他让他那些有权有势的朋友来包庇自己。  
 
 
-# ***credit card*** 
+# *** *credit card*** 
 
 
   
@@ -10935,7 +10934,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**信用卡**  
 
 
-# ***crested ibis*** n
+# *** *crested ibis*** n
 英音 'krestɪd 'aɪbɪs     美音 'krestɪd 'aɪbɪs  
 
 | 词频 1 |  
@@ -10945,7 +10944,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**朱鹮**  
 
 
-# ***cross out / off*** 
+# *** *cross out / off*** 
 
 
   
@@ -10958,7 +10957,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 你拼错了。划掉再写一遍。  
 
 
-# ***crowd in*** 
+# *** *crowd in*** 
 
 
   
@@ -10968,7 +10967,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**(想法、问题等) 涌上心头；涌入脑海**  
 
 
-# ***cry out*** 
+# *** *cry out*** 
 
 
   
@@ -10985,7 +10984,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > “你为什么要这么做？”她突然大声喊道。  
 
 
-# ***cry out for*** 
+# *** *cry out for*** 
 
 
   
@@ -10998,7 +10997,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 这家公司急需新的人才。  
 
 
-# ***culture shock*** 
+# *** *culture shock*** 
 
 
   
@@ -11008,7 +11007,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**文化冲击**  
 
 
-# ***curriculum vitae*** 
+# *** *curriculum vitae*** 
 
 
   
@@ -11018,7 +11017,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**简历；个人履历**  
 
 
-# ***cut back*** 
+# *** *cut back*** 
 
 
   
@@ -11033,7 +11032,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 目前，有几家公司正在裁员。  
 
 
-# ***cut back on*** 
+# *** *cut back on*** 
 
 
   
@@ -11048,7 +11047,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 目前，有几家公司正在裁员。  
 
 
-# ***cut down*** 
+# *** *cut down*** 
 
 
   
@@ -11076,7 +11075,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我们需要把这篇文章缩减至1000词。  
 
 
-# ***cut in*** 
+# *** *cut in*** 
 
 
   
@@ -11095,7 +11094,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 她强行超到一辆红色的车的前面，迫使那位司机急刹车。  
 
 
-# ***cut off*** 
+# *** *cut off*** 
 
 
   
@@ -11116,7 +11115,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2013 山东  
 
 
-# ***cut out*** 
+# *** *cut out*** 
 
 
   
@@ -11135,7 +11134,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 她用旧布料为我裁出一件连衣裙。  
 
 
-# ***cut something out (of something)*** 
+# *** *cut something out (of something)*** 
 
 
   
@@ -11148,7 +11147,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我从报纸上剪下了这篇文章。  
 
 
-# ***cut up*** 
+# *** *cut up*** 
 
 
   
@@ -11161,7 +11160,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 把胡萝卜切碎后放入锅内。  
 
 
-# ***dance to the music*** 
+# *** *dance to the music*** 
 
 
   
@@ -11171,7 +11170,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**伴着音乐跳舞**  
 
 
-# ***date back*** 
+# *** *date back*** 
 
 
   
@@ -11184,7 +11183,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 这一传统可追溯到15世纪。  
 
 
-# ***date back (to)*** 
+# *** *date back (to)*** 
 
 
   
@@ -11201,7 +11200,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：外研③ – 6  
 
 
-# ***date back (to) / date from*** 
+# *** *date back (to) / date from*** 
 
 
   
@@ -11218,7 +11217,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：外研③ – 6  
 
 
-# ***date from*** 
+# *** *date from*** 
 
 
   
@@ -11232,7 +11231,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：外研③ – 6  
 
 
-# ***date of birth / birth date*** 
+# *** *date of birth / birth date*** 
 
 
   
@@ -11242,7 +11241,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**出生日期**  
 
 
-# ***day after day*** 
+# *** *day after day*** 
 
 
   
@@ -11255,7 +11254,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 那些科学家们日复一日地在实验室努力工作。  
 
 
-# ***day and night*** 
+# *** *day and night*** 
 
 
   
@@ -11268,7 +11267,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他非常勤奋，夜以继日地工作。  
 
 
-# ***day by day*** 
+# *** *day by day*** 
 
 
   
@@ -11281,7 +11280,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 天气一天天地暖和起来。  
 
 
-# ***day in and day out*** 
+# *** *day in and day out*** 
 
 
   
@@ -11295,7 +11294,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：人教⑦ – 5  
 
 
-# ***day in and day out / day in, day out*** 
+# *** *day in and day out / day in, day out*** 
 
 
   
@@ -11309,7 +11308,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：人教⑦ – 5  
 
 
-# ***deal with*** 
+# *** *deal with*** 
 
 
   
@@ -11338,7 +11337,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2010 四川  
 
 
-# ***decide on*** 
+# *** *decide on*** 
 
 
   
@@ -11351,7 +11350,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 你们定好婚礼日期了吗？  
 
 
-# ***decide on / upon*** 
+# *** *decide on / upon*** 
 
 
   
@@ -11364,7 +11363,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 你们定好婚礼日期了吗？  
 
 
-# ***declare war on*** 
+# *** *declare war on*** 
 
 
   
@@ -11374,7 +11373,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**对…宣战**  
 
 
-# ***defend against*** 
+# *** *defend against*** 
 
 
   
@@ -11387,7 +11386,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 法律允许人们在面对指控时为自己辩护。  
 
 
-# ***delight in*** 
+# *** *delight in*** 
 
 
   
@@ -11400,7 +11399,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 这位老板喜欢把问题复杂化，这让其他人摸不着头脑。  
 
 
-# ***depend on*** 
+# *** *depend on*** 
 
 
   
@@ -11441,7 +11440,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2011 上海  
 
 
-# ***depend on / upon*** 
+# *** *depend on / upon*** 
 
 
   
@@ -11482,7 +11481,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2011 上海  
 
 
-# ***develop / fall into / form / get in(to) the / a habit of*** 
+# *** *develop / fall into / form / get in(to) the / a habit of*** 
 
 
   
@@ -11495,7 +11494,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 别沾染上吸烟的坏习惯。  
 
 
-# ***devote oneself to*** 
+# *** *devote oneself to*** 
 
 
   
@@ -11509,7 +11508,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2010 四川  
 
 
-# ***die away*** 
+# *** *die away*** 
 
 
   
@@ -11523,7 +11522,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他们的笑声渐渐远去。  
 
 
-# ***die down*** 
+# *** *die down*** 
 
 
   
@@ -11540,7 +11539,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 风小了一点。  
 
 
-# ***die from / of*** 
+# *** *die from / of*** 
 
 
   
@@ -11557,7 +11556,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2011 安徽改  
 
 
-# ***die of*** 
+# *** *die of*** 
 
 
   
@@ -11574,7 +11573,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2011 安徽改  
 
 
-# ***die off*** 
+# *** *die off*** 
 
 
   
@@ -11587,7 +11586,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 活下来的人正在一天天地相继死去。  
 
 
-# ***die out*** 
+# *** *die out*** 
 
 
   
@@ -11601,7 +11600,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2015 陕西  
 
 
-# ***differ from*** 
+# *** *differ from*** 
 
 
   
@@ -11615,7 +11614,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：北师大③ – 8  
 
 
-# ***dig (sth) into sth*** 
+# *** *dig (sth) into sth*** 
 
 
   
@@ -11632,7 +11631,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2017 全国改  
 
 
-# ***dig out*** 
+# *** *dig out*** 
 
 
   
@@ -11649,7 +11648,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 真相被发现了。  
 
 
-# ***dig up*** 
+# *** *dig up*** 
 
 
   
@@ -11666,7 +11665,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 许多地区的人都在搜集古老的民间故事。  
 
 
-# ***dinner jacket*** 
+# *** *dinner jacket*** 
 
 
   
@@ -11676,7 +11675,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**男子晚礼服上装，无尾礼服上装（正式场合穿着，黑色或白色，通常打蝶形领结）**  
 
 
-# ***dish up*** 
+# *** *dish up*** 
 
 
   
@@ -11689,7 +11688,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 《家庭娱乐》杂志用180多页彩页把这些内容和更多有趣的活动娓娓道来。  
 
 
-# ***distance learning*** 
+# *** *distance learning*** 
 
 
   
@@ -11699,7 +11698,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**远程学习**  
 
 
-# ***dive into*** 
+# *** *dive into*** 
 
 
   
@@ -11713,7 +11712,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2016 天津  
 
 
-# ***divide ... into*** 
+# *** *divide ... into*** 
 
 
   
@@ -11726,7 +11725,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 将奶酪分成三等份  
 
 
-# ***do / try one's best*** 
+# *** *do / try one's best*** 
 
 
   
@@ -11739,12 +11738,12 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我看这星期之内完不成，但我会尽最大的努力。  
 
 
-# ***do away with*** 
+# *** *do away with*** 
 
 
   
 
-# ***do good (to)*** 
+# *** *do good (to)*** 
 
 
   
@@ -11758,7 +11757,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2008 安徽  
 
 
-# ***do harm to / do ... harm*** 
+# *** *do harm to / do ... harm*** 
 
 
   
@@ -11771,7 +11770,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 饮酒过量危害甚大。  
 
 
-# ***do one's bit*** 
+# *** *do one's bit*** 
 
 
   
@@ -11784,7 +11783,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 每个人都应该尽自己的本分保护环境。  
 
 
-# ***do one's duty*** 
+# *** *do one's duty*** 
 
 
   
@@ -11798,7 +11797,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2017 全国  
 
 
-# ***do one's part*** 
+# *** *do one's part*** 
 
 
   
@@ -11808,7 +11807,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**尽自己的职责**  
 
 
-# ***do sb good*** 
+# *** *do sb good*** 
 
 
   
@@ -11822,7 +11821,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2013 广东  
 
 
-# ***do the necessary*** 
+# *** *do the necessary*** 
 
 
   
@@ -11832,22 +11831,22 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**做必要的事**  
 
 
-# ***do up*** 
+# *** *do up*** 
 
 
   
 
-# ***do with*** 
+# *** *do with*** 
 
 
   
 
-# ***do without*** 
+# *** *do without*** 
 
 
   
 
-# ***dozens of*** 
+# *** *dozens of*** 
 
 
   
@@ -11860,12 +11859,12 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 飓风刮走了很多村庄，刮倒了数千棵树。  
 
 
-# ***drag one's feet*** 
+# *** *drag one's feet*** 
 
 
   
 
-# ***draw a conclusion*** 
+# *** *draw a conclusion*** 
 
 
   
@@ -11878,7 +11877,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 从某事中得出结论  
 
 
-# ***draw in*** 
+# *** *draw in*** 
 
 
   
@@ -11891,7 +11890,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 火车7点53分进站。  
 
 
-# ***draw near / closer*** 
+# *** *draw near / closer*** 
 
 
   
@@ -11908,7 +11907,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2009 山东书面表达  
 
 
-# ***draw out*** 
+# *** *draw out*** 
 
 
   
@@ -11918,7 +11917,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.*高义频：* **拖延；拉长：**  
 
 
-# ***draw sb's attention to*** 
+# *** *draw sb's attention to*** 
 
 
   
@@ -11928,7 +11927,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**引起某人注意（某事物）**  
 
 
-# ***draw someone's attention to*** 
+# *** *draw someone's attention to*** 
 
 
   
@@ -11938,7 +11937,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**使（某人）察觉到**  
 
 
-# ***draw up*** 
+# *** *draw up*** 
 
 
   
@@ -11951,7 +11950,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 草拟合同  
 
 
-# ***draw upon*** 
+# *** *draw upon*** 
 
 
   
@@ -11961,7 +11960,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**利用，凭借，依赖**  
 
 
-# ***dream of*** 
+# *** *dream of*** 
 
 
   
@@ -11974,7 +11973,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我一直梦想自己创业。  
 
 
-# ***dream team*** 
+# *** *dream team*** 
 
 
   
@@ -11984,7 +11983,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1.**梦之队**  
 
 
-# ***dress up*** 
+# *** *dress up*** 
 
 
   
@@ -12001,7 +12000,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：人教③ – 1  
 
 
-# ***drive away*** 
+# *** *drive away*** 
 
 
   
@@ -12015,7 +12014,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 来源：2016 四川  
 
 
-# ***drop in*** 
+# *** *drop in*** 
 
 
   
@@ -12032,7 +12031,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 
 Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop in at some place”。  
 
-# ***drop off*** 
+# *** *drop off*** 
 
 
   
@@ -12060,7 +12059,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 来源：2012 全国改  
 
 
-# ***drop out*** 
+# *** *drop out*** 
 
 
   
@@ -12076,7 +12075,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 她开始攻读工程学学位，但仅一年后就辍学了。  
 
 
-# ***drop out (of)*** 
+# *** *drop out (of)*** 
 
 
   
@@ -12092,7 +12091,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 她开始攻读工程学学位，但仅一年后就辍学了。  
 
 
-# ***dry off*** 
+# *** *dry off*** 
 
 
   
@@ -12102,7 +12101,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
 1.**(使) 变干；(把…) 弄干**  
 
 
-# ***dry out*** 
+# *** *dry out*** 
 
 
   
@@ -12112,7 +12111,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
 1.**(使) 完全变干；干透**  
 
 
-# ***dry up*** 
+# *** *dry up*** 
 
 
   
@@ -12125,7 +12124,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 经过几个世纪，水完全干了。  
 
 
-# ***due to*** 
+# *** *due to*** 
 
 
   
@@ -12143,7 +12142,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 来源：2010 福建书面表达改  
 
 
-# ***each and every*** 
+# *** *each and every*** 
 
 
   
@@ -12156,7 +12155,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 这些问题影响到我们每一个人。  
 
 
-# ***each other*** 
+# *** *each other*** 
 
 
   
@@ -12170,7 +12169,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 来源：2012 北京  
 
 
-# ***earn / get straight A's*** 
+# *** *earn / get straight A's*** 
 
 
   
@@ -12180,7 +12179,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
 1.**得全优成绩**  
 
 
-# ***earn a / one's living*** 
+# *** *earn a / one's living*** 
 
 
   
@@ -12193,7 +12192,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 他靠打零工谋生。  
 
 
-# ***earn one's living*** 
+# *** *earn one's living*** 
 
 
   
@@ -12206,7 +12205,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 作为成年人，你应该能够养活自己。  
 
 
-# ***ease (oneself) into*** 
+# *** *ease (oneself) into*** 
 
 
   
@@ -12219,7 +12218,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 生完孩子她又重新开始工作了。  
 
 
-# ***eat one's words*** 
+# *** *eat one's words*** 
 
 
   
@@ -12229,7 +12228,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
 1.**收回前言；承认错误**  
 
 
-# ***eat out*** 
+# *** *eat out*** 
 
 
   
@@ -12245,7 +12244,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 没关系，我们今天可以出去吃。  
 
 
-# ***eat up*** 
+# *** *eat up*** 
 
 
   
@@ -12258,7 +12257,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 饭凉之前把它吃完。  
 
 
-# ***either … or …*** 
+# *** *either … or …*** 
 
 
   
@@ -12281,7 +12280,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
 
 Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近的主语一致。  
 
-# ***electric shock*** 
+# *** *electric shock*** 
 
 
   
@@ -12291,7 +12290,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**触电；电休克**  
 
 
-# ***emphasize / emphasise*** vt
+# *** *emphasize / emphasise*** vt
 英音 'emfəsaɪz     美音 'emfəsaɪz  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -12307,7 +12306,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 重读第三个词  
 
 
-# ***end in*** 
+# *** *end in*** 
 
 
   
@@ -12321,7 +12320,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：人教⑧ – 3  
 
 
-# ***end up*** 
+# *** *end up*** 
 
 
   
@@ -12347,7 +12346,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2010 天津  
 
 
-# ***enjoy oneself*** 
+# *** *enjoy oneself*** 
 
 
   
@@ -12363,7 +12362,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 不管孩子是输还是赢，父母和教练都应该教会孩子享受乐趣。  
 
 
-# ***enquiry / inquiry*** n
+# *** *enquiry / inquiry*** n
 英音 ɪn'kwaɪəri     美音 'ɪnkwəri ; ɪn'kwaɪəri  
 
 | 词频 1 | 口语 2 | 书面 2 | 阅读 1 |  
@@ -12383,7 +12382,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 警方已开始进行事故调查。  
 
 
-# ***enter into*** 
+# *** *enter into*** 
 
 
   
@@ -12408,7 +12407,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 在我的计划中未考虑到她会生病。  
 
 
-# ***even / much / still less*** 
+# *** *even / much / still less*** 
 
 
   
@@ -12421,7 +12420,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 连个解释也不给，更不用说道歉了。  
 
 
-# ***even if*** 
+# *** *even if*** 
 
 
   
@@ -12434,7 +12433,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 他性情十分温和，即使有充分的理由，他也不会动怒。  
 
 
-# ***even if / though*** 
+# *** *even if / though*** 
 
 
   
@@ -12448,7 +12447,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2016 北京  
 
 
-# ***even now / then*** 
+# *** *even now / then*** 
 
 
   
@@ -12461,7 +12460,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 即使到现在，水仍是主要的发电资源。  
 
 
-# ***even so*** 
+# *** *even so*** 
 
 
   
@@ -12474,7 +12473,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 你叔叔看上去开车技术不错；即便如此，我也不敢坐他的车。  
 
 
-# ***even though*** 
+# *** *even though*** 
 
 
   
@@ -12488,7 +12487,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2016 北京  
 
 
-# ***ever after*** 
+# *** *ever after*** 
 
 
   
@@ -12498,7 +12497,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**从那时以后一直**  
 
 
-# ***ever since*** 
+# *** *ever since*** 
 
 
   
@@ -12512,7 +12511,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：外研③ – 1  
 
 
-# ***every now and then*** 
+# *** *every now and then*** 
 
 
   
@@ -12528,7 +12527,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 辨析 each, every
   
 
-# ***every time*** 
+# *** *every time*** 
 
 
   
@@ -12541,7 +12540,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我们最值得自豪的不在于永不跌倒，而在于每次跌倒之后都站了起来。  
 
 
-# ***except for*** 
+# *** *except for*** 
 
 
   
@@ -12557,7 +12556,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 除了角落里立着一个书架外，房间内空荡荡的。  
 
 
-# ***excuse me*** 
+# *** *excuse me*** 
 
 
   
@@ -12570,7 +12569,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 对不起，请挪一下，让我过去好吗？  
 
 
-# ***explain oneself*** 
+# *** *explain oneself*** 
 
 
   
@@ -12586,7 +12585,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我给你五分钟解释自己的所作所为。  
 
 
-# ***expose ... to*** 
+# *** *expose ... to*** 
 
 
   
@@ -12596,7 +12595,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**使显露；暴露**  
 
 
-# ***face to face*** 
+# *** *face to face*** 
 
 
   
@@ -12613,7 +12612,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 他面临一个新问题。  
 
 
-# ***face up to*** 
+# *** *face up to*** 
 
 
   
@@ -12627,7 +12626,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2014 浙江  
 
 
-# ***fade out*** 
+# *** *fade out*** 
 
 
   
@@ -12640,7 +12639,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 随着男主角策马向夕阳驰去，尾声音乐逐渐消失。  
 
 
-# ***fairy tale*** 
+# *** *fairy tale*** 
 英音 ˈfɛəri teil     美音 ˈfɛəri teil  
 
 | 词频 1 |  
@@ -12650,7 +12649,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.*高义频：* **神话故事；童话**  
 
 
-# ***fall / drop asleep*** 
+# *** *fall / drop asleep*** 
 
 
   
@@ -12663,7 +12662,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我太累了，头一碰到枕头就睡着了。  
 
 
-# ***fall / get / run into debt*** 
+# *** *fall / get / run into debt*** 
 
 
   
@@ -12676,7 +12675,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 借债容易还债难。  
 
 
-# ***fall apart*** 
+# *** *fall apart*** 
 
 
   
@@ -12692,7 +12691,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我们在价格上未能达成一致，生意没做成。  
 
 
-# ***fall asleep*** 
+# *** *fall asleep*** 
 
 
   
@@ -12706,7 +12705,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2011 全国  
 
 
-# ***fall behind*** 
+# *** *fall behind*** 
 
 
   
@@ -12720,7 +12719,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2013 江西书面表达  
 
 
-# ***fall down*** 
+# *** *fall down*** 
 
 
   
@@ -12739,7 +12738,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 这就是该理论的不足之处。  
 
 
-# ***fall for*** 
+# *** *fall for*** 
 
 
   
@@ -12755,7 +12754,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我们绝不能轻信这种小把戏而上当啊！  
 
 
-# ***fall ill*** 
+# *** *fall ill*** 
 
 
   
@@ -12765,7 +12764,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**生病**  
 
 
-# ***fall in love*** 
+# *** *fall in love*** 
 
 
   
@@ -12779,7 +12778,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2016 天津  
 
 
-# ***fall in love (with)*** 
+# *** *fall in love (with)*** 
 
 
   
@@ -12793,7 +12792,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2016 天津  
 
 
-# ***fall off*** 
+# *** *fall off*** 
 
 
   
@@ -12806,7 +12805,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 学骑自行车时，经常会摔下来。  
 
 
-# ***fall out*** 
+# *** *fall out*** 
 
 
   
@@ -12816,7 +12815,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**（头发等）脱落**  
 
 
-# ***fall over*** 
+# *** *fall over*** 
 
 
   
@@ -12832,7 +12831,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 猎人一开枪，鹿应声倒下，死了。  
 
 
-# ***fall victim to / become a victim to*** 
+# *** *fall victim to / become a victim to*** 
 
 
   
@@ -12842,7 +12841,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**成为…的牺牲品**  
 
 
-# ***fancy dress*** 
+# *** *fancy dress*** 
 
 
   
@@ -12852,7 +12851,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**化装服**  
 
 
-# ***fancy oneself (as) sth*** 
+# *** *fancy oneself (as) sth*** 
 
 
   
@@ -12862,7 +12861,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**自以为是某种人**  
 
 
-# ***far from*** 
+# *** *far from*** 
 
 
   
@@ -12880,7 +12879,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2017 江苏改  
 
 
-# ***far too*** 
+# *** *far too*** 
 
 
   
@@ -12890,7 +12889,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**太, 极为**  
 
 
-# ***fed up*** 
+# *** *fed up*** 
 
 
   
@@ -12900,7 +12899,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**不愉快的, 厌烦的**  
 
 
-# ***fed up with*** 
+# *** *fed up with*** 
 
 
   
@@ -12913,7 +12912,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我讨厌这种潮湿的天气。  
 
 
-# ***feed back*** 
+# *** *feed back*** 
 
 
   
@@ -12926,7 +12925,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 观众给我提的意见反过来对我的作品产生了影响。  
 
 
-# ***feed on*** 
+# *** *feed on*** 
 
 
   
@@ -12939,7 +12938,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 蝙蝠在夜间飞行，以昆虫为食。  
 
 
-# ***feel (like / quite) oneself*** 
+# *** *feel (like / quite) oneself*** 
 
 
   
@@ -12952,7 +12951,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我今天感到不太舒服。  
 
 
-# ***feel / be content with*** 
+# *** *feel / be content with*** 
 
 
   
@@ -12966,7 +12965,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：译林⑥ – 2  
 
 
-# ***feel at home*** 
+# *** *feel at home*** 
 
 
   
@@ -12979,7 +12978,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 她亲切的笑容使每个人都感觉宾至如归。  
 
 
-# ***feel like (doing)*** 
+# *** *feel like (doing)*** 
 
 
   
@@ -12995,7 +12994,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 天气这么好，我想出去野餐。  
 
 
-# ***feel like (doing) sth*** 
+# *** *feel like (doing) sth*** 
 
 
   
@@ -13011,7 +13010,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 天气这么好，我想出去野餐。  
 
 
-# ***fellow students*** 
+# *** *fellow students*** 
 
 
   
@@ -13025,7 +13024,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2015 湖南  
 
 
-# ***fibre / fiber*** n
+# *** *fibre / fiber*** n
 英音 'faɪbə(r)     美音 'faɪbər  
 
 | 词频 1 |  
@@ -13038,7 +13037,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 纤维含量丰富的食物有助于消化。  
 
 
-# ***field research*** 
+# *** *field research*** 
 
 
   
@@ -13048,7 +13047,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**实地研究，实地调研**  
 
 
-# ***fight back*** 
+# *** *fight back*** 
 
 
   
@@ -13064,7 +13063,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 她看着别处，强忍着泪。  
 
 
-# ***figure out*** 
+# *** *figure out*** 
 
 
   
@@ -13088,7 +13087,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 本弄清楚了如何猜对答案，所以得了高分。  
 
 
-# ***fill in*** 
+# *** *fill in*** 
 
 
   
@@ -13103,7 +13102,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2008 安徽  
 
 
-# ***fill in / out*** 
+# *** *fill in / out*** 
 
 
   
@@ -13118,7 +13117,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2008 安徽  
 
 
-# ***fill in for*** 
+# *** *fill in for*** 
 
 
   
@@ -13131,7 +13130,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 她让我临时为一个得了流感的人代班。  
 
 
-# ***fill out*** 
+# *** *fill out*** 
 
 
   
@@ -13141,7 +13140,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**填写**  
 
 
-# ***fill up*** 
+# *** *fill up*** 
 
 
   
@@ -13154,7 +13153,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 要不要我给车加满汽油？  
 
 
-# ***find fault (with)*** 
+# *** *find fault (with)*** 
 
 
   
@@ -13175,7 +13174,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2015 福建  
 
 
-# ***find out*** 
+# *** *find out*** 
 
 
   
@@ -13183,6 +13182,9 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 英文释义
 ---
 1.**发现；查明；弄清 (情况)：**  
+
+ > I need to find out more about these night courses.  
+ > 我需要更多地了解这些夜校课程。  
 
 - find out + wh- to do:
 
@@ -13200,11 +13202,8 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 科学家们想努力弄清火星上是否存在生命。  
  > 来源：2010 重庆  
 
- > I need to find out more about these night courses.  
- > 我需要更多地了解这些夜校课程。  
 
-
-# ***finish off*** 
+# *** *finish off*** 
 
 
   
@@ -13217,7 +13216,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 你能给我一点时间让我完成手头的工作吗？  
 
 
-# ***finish up*** 
+# *** *finish up*** 
 
 
   
@@ -13231,7 +13230,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2012 陕西  
 
 
-# ***finish with*** 
+# *** *finish with*** 
 
 
   
@@ -13244,7 +13243,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 看完报纸之后请还给我。  
 
 
-# ***first aid*** 
+# *** *first aid*** 
 
 
   
@@ -13258,7 +13257,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：人教⑤ – 5  
 
 
-# ***first aid kit*** 
+# *** *first aid kit*** 
 
 
   
@@ -13268,7 +13267,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**急救箱**  
 
 
-# ***first of all*** 
+# *** *first of all*** 
 
 
   
@@ -13281,7 +13280,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我认为海伦不应该去，首先，她太年轻了。  
 
 
-# ***fit in*** 
+# *** *fit in*** 
 
 
   
@@ -13301,7 +13300,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2008 天津  
 
 
-# ***fit in (with)*** 
+# *** *fit in (with)*** 
 
 
   
@@ -13321,7 +13320,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2008 天津  
 
 
-# ***fit … in / into*** 
+# *** *fit … in / into*** 
 
 
   
@@ -13340,7 +13339,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 还能再放张桌子吗？  
 
 
-# ***fix on*** 
+# *** *fix on*** 
 
 
   
@@ -13350,7 +13349,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**注视，凝视**  
 
 
-# ***fix one's eyes on*** 
+# *** *fix one's eyes on*** 
 
 
   
@@ -13360,7 +13359,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**注视, 凝视**  
 
 
-# ***fix up*** 
+# *** *fix up*** 
 
 
   
@@ -13376,7 +13375,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 他们安排我在一家旅馆过夜。  
 
 
-# ***fix … on / upon*** 
+# *** *fix … on / upon*** 
 
 
   
@@ -13394,7 +13393,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 你必须集中注意力听老师讲。  
 
 
-# ***flash card*** 
+# *** *flash card*** 
 
 
   
@@ -13404,7 +13403,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**教学卡片；识字卡**  
 
 
-# ***flesh and blood*** 
+# *** *flesh and blood*** 
 
 
   
@@ -13414,7 +13413,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**血肉之躯**  
 
 
-# ***flow chart*** 
+# *** *flow chart*** 
 
 
   
@@ -13424,7 +13423,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**流程图，作业图**  
 
 
-# ***focus on*** 
+# *** *focus on*** 
 
 
   
@@ -13442,7 +13441,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2014 福建  
 
 
-# ***focus on / upon*** 
+# *** *focus on / upon*** 
 
 
   
@@ -13460,7 +13459,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2014 福建  
 
 
-# ***folk song*** n
+# *** *folk song*** n
 
 
   
@@ -13473,7 +13472,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 民歌  
 
 
-# ***follow in one's footsteps*** 
+# *** *follow in one's footsteps*** 
 
 
   
@@ -13486,7 +13485,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 他是名医生，期望儿子能继承他的事业。  
 
 
-# ***follow in sb's footsteps*** 
+# *** *follow in sb's footsteps*** 
 
 
   
@@ -13499,7 +13498,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 他是名医生，期望儿子能继承他的事业。  
 
 
-# ***follow sb's example*** 
+# *** *follow sb's example*** 
 
 
   
@@ -13509,7 +13508,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**学习某人；效仿某人**  
 
 
-# ***follow suit*** 
+# *** *follow suit*** 
 
 
   
@@ -13519,7 +13518,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**照着做；跟着做**  
 
 
-# ***follow up*** 
+# *** *follow up*** 
 
 
   
@@ -13535,7 +13534,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 要是你的信没人回复，就打个电话追问一下。  
 
 
-# ***food chain*** n
+# *** *food chain*** n
 
 
   
@@ -13545,7 +13544,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**食物链**  
 
 
-# ***for (so) long*** 
+# *** *for (so) long*** 
 
 
   
@@ -13562,7 +13561,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：译林② – 2  
 
 
-# ***for a moment*** 
+# *** *for a moment*** 
 
 
   
@@ -13575,7 +13574,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 他沉默了一会儿。  
 
 
-# ***for a start*** 
+# *** *for a start*** 
 
 
   
@@ -13585,7 +13584,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**首先**  
 
 
-# ***for ages*** 
+# *** *for ages*** 
 
 
   
@@ -13599,7 +13598,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2009 全国  
 
 
-# ***for better or (for) worse*** 
+# *** *for better or (for) worse*** 
 
 
   
@@ -13609,7 +13608,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**不论好坏；不管是福是祸**  
 
 
-# ***for certain*** 
+# *** *for certain*** 
 
 
   
@@ -13619,7 +13618,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**确定；无疑**  
 
 
-# ***for company*** 
+# *** *for company*** 
 
 
   
@@ -13633,7 +13632,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：人教① – 3  
 
 
-# ***for example*** 
+# *** *for example*** 
 
 
   
@@ -13646,7 +13645,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 许多伟人出身贫苦，例如林肯和爱迪生。  
 
 
-# ***for fear of (doing) sth / for fear (that)*** 
+# *** *for fear of (doing) sth / for fear (that)*** 
 
 
   
@@ -13666,7 +13665,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 他早早就出发了，以免面试迟到。  
 
 
-# ***for free*** 
+# *** *for free*** 
 
 
   
@@ -13679,7 +13678,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我曾无偿为一个非营利性组织工作过。  
 
 
-# ***for fun*** 
+# *** *for fun*** 
 
 
   
@@ -13696,7 +13695,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2010 天津  
 
 
-# ***for good*** 
+# *** *for good*** 
 
 
   
@@ -13709,7 +13708,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 那个谋杀犯将被终身监禁。  
 
 
-# ***for good measure*** 
+# *** *for good measure*** 
 
 
   
@@ -13719,7 +13718,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**额外**  
 
 
-# ***for lack of*** 
+# *** *for lack of*** 
 
 
   
@@ -13736,7 +13735,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2005 全国改  
 
 
-# ***for nothing*** 
+# *** *for nothing*** 
 
 
   
@@ -13752,7 +13751,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我到达时，他已经离开。我白跑了一趟。  
 
 
-# ***for one thing …, for another (thing) …*** 
+# *** *for one thing …, for another (thing) …*** 
 
 
   
@@ -13766,7 +13765,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2012 江西书面表达改  
 
 
-# ***for pleasure*** 
+# *** *for pleasure*** 
 
 
   
@@ -13779,12 +13778,12 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我们读书主要是为了获取信息，并非为了消遣。  
 
 
-# ***for rent*** 
+# *** *for rent*** 
 
 
   
 
-# ***for sale*** 
+# *** *for sale*** 
 
 
   
@@ -13797,7 +13796,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 待售房屋  
 
 
-# ***for sb's benefit / for the benefit of sb*** 
+# *** *for sb's benefit / for the benefit of sb*** 
 
 
   
@@ -13810,7 +13809,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 该款项将用于救助穷人。  
 
 
-# ***for some reason*** 
+# *** *for some reason*** 
 
 
   
@@ -13823,7 +13822,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 不知为什么他们取消了计划。  
 
 
-# ***for sure*** 
+# *** *for sure*** 
 
 
   
@@ -13837,7 +13836,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：人教② – 4  
 
 
-# ***for the first time*** 
+# *** *for the first time*** 
 
 
   
@@ -13851,7 +13850,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2010 湖北  
 
 
-# ***for the moment*** 
+# *** *for the moment*** 
 
 
   
@@ -13864,7 +13863,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我工作得不太开心，但暂时还会留在那里。  
 
 
-# ***for the most part*** 
+# *** *for the most part*** 
 
 
   
@@ -13877,7 +13876,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 大多数情况下，学生打工赚钱是为了自己用。  
 
 
-# ***for the present*** 
+# *** *for the present*** 
 
 
   
@@ -13893,7 +13892,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我一时想不起来了。  
 
 
-# ***for the sake of sb / sth*** 
+# *** *for the sake of sb / sth*** 
 
 
   
@@ -13906,7 +13905,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 他为了健康而搬去海边。  
 
 
-# ***for the time (being)*** 
+# *** *for the time (being)*** 
 
 
   
@@ -13920,7 +13919,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2008 天津  
 
 
-# ***for the worse*** 
+# *** *for the worse*** 
 
 
   
@@ -13933,7 +13932,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 这位病人的病情恶化了。  
 
 
-# ***forget it*** 
+# *** *forget it*** 
 
 
   
@@ -13968,7 +13967,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 别提了，那无关紧要。  
 
 
-# ***forgive and forget*** 
+# *** *forgive and forget*** 
 
 
   
@@ -13982,7 +13981,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2012 江苏书面表达改  
 
 
-# ***frankly speaking*** 
+# *** *frankly speaking*** 
 
 
   
@@ -13992,7 +13991,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 1.**坦率地说**  
 
 
-# ***free from*** 
+# *** *free from*** 
 
 
   
@@ -14012,7 +14011,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 来源：2016 北京  
 
 
-# ***free of*** 
+# *** *free of*** 
 
 
   
@@ -14025,7 +14024,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 过了几星期他的疼痛才完全消除。  
 
 
-# ***free of charge*** 
+# *** *free of charge*** 
 
 
   
@@ -14038,7 +14037,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 你订的货物将免费送达。  
 
 
-# ***frighten away / off*** 
+# *** *frighten away / off*** 
 
 
   
@@ -14054,7 +14053,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 孩子们的叫喊声把鸟儿吓飞了。  
 
 
-# ***frighten sb to death / frighten the life out of sb*** 
+# *** *frighten sb to death / frighten the life out of sb*** 
 
 
   
@@ -14068,7 +14067,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 
 Notes: frighten用法及意义同scare，但比scare稍正式。  
 
-# ***from (then) on*** 
+# *** *from (then) on*** 
 
 
   
@@ -14082,7 +14081,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 来源：2010 全国  
 
 
-# ***from ... on*** 
+# *** *from ... on*** 
 
 
   
@@ -14092,7 +14091,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 1.**从……时起**  
 
 
-# ***from all sides*** 
+# *** *from all sides*** 
 
 
   
@@ -14105,7 +14104,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我们必须从各方面来研究这个问题。  
 
 
-# ***from bad to worse*** 
+# *** *from bad to worse*** 
 
 
   
@@ -14115,7 +14114,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 1.**每况愈下**  
 
 
-# ***from side to side*** 
+# *** *from side to side*** 
 
 
   
@@ -14128,7 +14127,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 他慢慢地摇了摇头。  
 
 
-# ***from that moment on*** 
+# *** *from that moment on*** 
 
 
   
@@ -14138,7 +14137,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 1.**从那时起**  
 
 
-# ***from the bottom of one's heart*** 
+# *** *from the bottom of one's heart*** 
 
 
   
@@ -14152,7 +14151,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 来源：外研⑥ – 3  
 
 
-# ***from then on*** 
+# *** *from then on*** 
 
 
   
@@ -14162,7 +14161,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 1.**从那时起, 以后**  
 
 
-# ***from time to time*** 
+# *** *from time to time*** 
 
 
   
@@ -14176,7 +14175,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 来源：外研⑥ – 3  
 
 
-# ***garbage can*** 
+# *** *garbage can*** 
 
 
   
@@ -14186,7 +14185,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 1.**〈美〉垃圾桶**  
 
 
-# ***generally speaking*** 
+# *** *generally speaking*** 
 
 
   
@@ -14199,7 +14198,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 一般来说，付出的越多，得到的越多。  
 
 
-# ***genetically modified*** 
+# *** *genetically modified*** 
 
 
   
@@ -14209,7 +14208,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 1.**转基因的**  
 
 
-# ***get (hold of) the wrong end of the stick*** 
+# *** *get (hold of) the wrong end of the stick*** 
 
 
   
@@ -14219,7 +14218,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 1.**完全误解**  
 
 
-# ***get (sb) into trouble*** 
+# *** *get (sb) into trouble*** 
 
 
   
@@ -14235,7 +14234,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 别提我的名字,免得给我惹麻烦。  
 
 
-# ***get / be tired of*** 
+# *** *get / be tired of*** 
 
 
   
@@ -14248,7 +14247,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 他厌倦了城市生活，希望迁居乡村，改变目前的生活方式。  
 
 
-# ***get a kick out of*** 
+# *** *get a kick out of*** 
 
 
   
@@ -14262,7 +14261,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 来源：2009 安徽改  
 
 
-# ***get a load of…*** 
+# *** *get a load of…*** 
 
 
   
@@ -14272,7 +14271,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 1.**注意，仔细看（常用于表示惊讶或羡慕）**  
 
 
-# ***get about*** 
+# *** *get about*** 
 
 
   
@@ -14282,7 +14281,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 1.**四处走动；(消息等) 传开 (get around / round)**  
 
 
-# ***get across*** 
+# *** *get across*** 
 
 
   
@@ -14302,7 +14301,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 来源：北师大③ – 8  
 
 
-# ***get along*** 
+# *** *get along*** 
 
 
   
@@ -14312,7 +14311,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 1.**过活；生活；相处融洽；进展**  
 
 
-# ***get along / on ( with )*** 
+# *** *get along / on ( with )*** 
 
 
   
@@ -14331,7 +14330,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 你的论文写得怎么样了？  
 
 
-# ***get along with*** 
+# *** *get along with*** 
 
 
   
@@ -14350,7 +14349,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 你的论文写得怎么样了？  
 
 
-# ***get around*** 
+# *** *get around*** 
 
 
   
@@ -14375,7 +14374,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 来源：2014 全国  
 
 
-# ***get around / round*** 
+# *** *get around / round*** 
 
 
   
@@ -14400,7 +14399,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 来源：2014 全国  
 
 
-# ***get at*** 
+# *** *get at*** 
 
 
   
@@ -14425,7 +14424,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 他觉得自己老是被其他同学挖苦。  
 
 
-# ***get away (from)*** 
+# *** *get away (from)*** 
 
 
   
@@ -14444,7 +14443,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我需要排遣工作的压力。  
 
 
-# ***get away from*** 
+# *** *get away from*** 
 
 
   
@@ -14463,7 +14462,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我需要排遣工作的压力。  
 
 
-# ***get away with*** 
+# *** *get away with*** 
 
 
   
@@ -14480,7 +14479,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 来源：2012 辽宁  
 
 
-# ***get back*** 
+# *** *get back*** 
 
 
   
@@ -14511,7 +14510,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我能借这本书吗？我保证你下周就能拿回去。  
 
 
-# ***get by*** 
+# *** *get by*** 
 
 
   
@@ -14532,7 +14531,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 她靠这点儿微薄的薪水怎么过活？  
 
 
-# ***get close to*** 
+# *** *get close to*** 
 
 
   
@@ -14545,7 +14544,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 先接近他，再跟他交朋友。  
 
 
-# ***get down*** 
+# *** *get down*** 
 
 
   
@@ -14567,7 +14566,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 持续的雨天真让我沮丧。  
 
 
-# ***get down to*** 
+# *** *get down to*** 
 
 
   
@@ -14581,7 +14580,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我们该开始干正事了。  
 
 
-# ***get down to business*** 
+# *** *get down to business*** 
 
 
   
@@ -14594,7 +14593,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 英德文化有相似的价值观，然而，德国人更喜欢尽快办正事。  
 
 
-# ***get down to sth.*** 
+# *** *get down to sth.*** 
 
 
   
@@ -14607,7 +14606,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 就介绍这么多吧，该开始工作了。  
 
 
-# ***get hold of*** 
+# *** *get hold of*** 
 
 
   
@@ -14621,7 +14620,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 来源：2010 四川改  
 
 
-# ***get in*** 
+# *** *get in*** 
 
 
   
@@ -14643,7 +14642,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 她说起话来滔滔不绝，让人一句话都插不进去。  
 
 
-# ***get in touch*** 
+# *** *get in touch*** 
 
 
   
@@ -14656,7 +14655,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 如果你需要联系我们，这是我们的号码。  
 
 
-# ***get in touch (with)*** 
+# *** *get in touch (with)*** 
 
 
   
@@ -14669,7 +14668,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 如果你需要联系我们，这是我们的号码。  
 
 
-# ***get into*** 
+# *** *get into*** 
 
 
   
@@ -14692,7 +14691,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 许多无家可归的人开始有了乞讨的习惯以得到足够的钱活下去。  
 
 
-# ***get into shape*** 
+# *** *get into shape*** 
 
 
   
@@ -14702,7 +14701,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 1.**强身健体**  
 
 
-# ***get into trouble*** 
+# *** *get into trouble*** 
 
 
   
@@ -14718,7 +14717,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 别提我的名字,免得给我惹麻烦。  
 
 
-# ***get involved with*** 
+# *** *get involved with*** 
 
 
   
@@ -14739,7 +14738,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 父亲应该更多和自己的孩子在一起。  
 
 
-# ***get married to*** 
+# *** *get married to*** 
 
 
   
@@ -14752,7 +14751,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 简一毕业就嫁给了她丈夫。  
 
 
-# ***get off*** 
+# *** *get off*** 
 
 
   
@@ -14768,7 +14767,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 把湿衣服脱下来吧。  
 
 
-# ***get on*** 
+# *** *get on*** 
 
 
   
@@ -14784,7 +14783,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 穿上你的胶鞋，我们得冒雨出去。  
 
 
-# ***get on sb's nerves*** 
+# *** *get on sb's nerves*** 
 
 
   
@@ -14797,7 +14796,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 别吹口哨了!扰得我心烦!  
 
 
-# ***get out (of)*** 
+# *** *get out (of)*** 
 
 
   
@@ -14817,7 +14816,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 来源：2013 辽宁改  
 
 
-# ***get out of*** 
+# *** *get out of*** 
 
 
   
@@ -14830,7 +14829,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我下车查看损坏情况。  
 
 
-# ***get out of control*** 
+# *** *get out of control*** 
 
 
   
@@ -14840,7 +14839,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 1.**摆脱控制**  
 
 
-# ***get out of the habit of*** 
+# *** *get out of the habit of*** 
 
 
   
@@ -14853,7 +14852,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我已经没有晚饭后散步的习惯了。  
 
 
-# ***get over*** 
+# *** *get over*** 
 
 
   
@@ -14869,7 +14868,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我们相信他一定会战胜疾病。  
 
 
-# ***get rid of*** 
+# *** *get rid of*** 
 
 
   
@@ -14883,7 +14882,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 来源：北师大⑧ – 23  
 
 
-# ***get something across*** 
+# *** *get something across*** 
 
 
   
@@ -14897,7 +14896,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 来源：北师大③ – 8  
 
 
-# ***get started*** 
+# *** *get started*** 
 
 
   
@@ -14910,7 +14909,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 都快10点了，我们开始吧。  
 
 
-# ***get sth straight*** 
+# *** *get sth straight*** 
 
 
   
@@ -14920,7 +14919,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 1.**[口语] 弄清楚某事**  
 
 
-# ***get the hang of*** 
+# *** *get the hang of*** 
 
 
   
@@ -14933,7 +14932,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 开始时看上去很难，不过很快你就会掌握的。  
 
 
-# ***get the message*** 
+# *** *get the message*** 
 
 
   
@@ -14949,7 +14948,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我明白了。  
 
 
-# ***get through*** 
+# *** *get through*** 
 
 
   
@@ -14973,7 +14972,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 来源：2009 全国  
 
 
-# ***get tired of doing sth.*** 
+# *** *get tired of doing sth.*** 
 
 
   
@@ -14983,7 +14982,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 1.**厌倦做某事；厌烦做某事**  
 
 
-# ***get to*** 
+# *** *get to*** 
 
 
   
@@ -14999,7 +14998,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我们现在开始工作吧。  
 
 
-# ***get together*** 
+# *** *get together*** 
 
 
   
@@ -15015,7 +15014,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我正设法召集一帮人一起过周六呢。  
 
 
-# ***get up*** 
+# *** *get up*** 
 
 
   
@@ -15031,7 +15030,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 叫到他时，他从椅子上站了起来。  
 
 
-# ***get used to*** 
+# *** *get used to*** 
 
 
   
@@ -15041,7 +15040,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 1.**习惯于**  
 
 
-# ***give (...) away*** 
+# *** *give (...) away*** 
 
 
   
@@ -15072,7 +15071,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 他的口音让人听出他是南方人。  
 
 
-# ***give ... a lift*** 
+# *** *give ... a lift*** 
 
 
   
@@ -15086,7 +15085,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 来源：2008 北京  
 
 
-# ***give / lend (sb) a hand*** 
+# *** *give / lend (sb) a hand*** 
 
 
   
@@ -15096,7 +15095,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 1.**帮助 (某人)**  
 
 
-# ***give / lose ground*** 
+# *** *give / lose ground*** 
 
 
   
@@ -15109,7 +15108,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 由于菲尔的腿骨折了，这个队开始失去优势。  
 
 
-# ***give an ear to*** 
+# *** *give an ear to*** 
 
 
   
@@ -15119,7 +15118,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 1.**倾听**  
 
 
-# ***give away*** 
+# *** *give away*** 
 
 
   
@@ -15129,7 +15128,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 1.**暴露 (自己的情况)**  
 
 
-# ***give back*** 
+# *** *give back*** 
 
 
   
@@ -15146,7 +15145,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 手术使他的双腿恢复了功能。  
 
 
-# ***give birth to*** 
+# *** *give birth to*** 
 
 
   
@@ -15163,7 +15162,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 来源：2008 重庆  
 
 
-# ***give concerts*** 
+# *** *give concerts*** 
 
 
   
@@ -15173,7 +15172,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 1.**举办音乐会**  
 
 
-# ***give in*** 
+# *** *give in*** 
 
 
   
@@ -15196,7 +15195,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 请在星期一之前把作业交上来。  
 
 
-# ***give life to*** 
+# *** *give life to*** 
 
 
   
@@ -15206,7 +15205,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 1.**赋予……生命（生命力，活力）**  
 
 
-# ***give off*** 
+# *** *give off*** 
 
 
   
@@ -15226,7 +15225,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 炉子散发出阵阵热气。  
 
 
-# ***give out*** 
+# *** *give out*** 
 
 
   
@@ -15254,7 +15253,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 
 Notes: give out意为“耗尽”时，不用于被动语态。  
 
-# ***give rise to*** 
+# *** *give rise to*** 
 
 
   
@@ -15268,7 +15267,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 来源：2014 江苏书面表达改  
 
 
-# ***give sb a lift*** 
+# *** *give sb a lift*** 
 
 
   
@@ -15281,7 +15280,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 新公园让附近的每个人都很开心。  
 
 
-# ***give thought to*** 
+# *** *give thought to*** 
 
 
   
@@ -15291,7 +15290,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
 1.**认真考虑，思考**  
 
 
-# ***give up*** 
+# *** *give up*** 
 
 
   
@@ -15312,7 +15311,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 他把座位让给了一位孕妇。  
 
 
-# ***give way (to)*** 
+# *** *give way (to)*** 
 
 
   
@@ -15333,7 +15332,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 来源：2017 江苏书面表达  
 
 
-# ***give way to*** 
+# *** *give way to*** 
 
 
   
@@ -15343,7 +15342,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
 1.**让步；屈服**  
 
 
-# ***given that*** 
+# *** *given that*** 
 
 
   
@@ -15359,7 +15358,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 如果能再次得到机会的话，他肯定会成功。  
 
 
-# ***glance through*** 
+# *** *glance through*** 
 
 
   
@@ -15369,7 +15368,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
 1.**匆匆看一遍**  
 
 
-# ***glare at*** 
+# *** *glare at*** 
 
 
   
@@ -15383,7 +15382,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 来源：人教③ – 2  
 
 
-# ***global warming*** 
+# *** *global warming*** 
 
 
   
@@ -15397,7 +15396,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 来源：外研③ – 6  
 
 
-# ***go about*** 
+# *** *go about*** 
 
 
   
@@ -15413,7 +15412,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 假如我决定加入这个俱乐部，要做些什么呢？  
 
 
-# ***go after*** 
+# *** *go after*** 
 
 
   
@@ -15426,7 +15425,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 我们俩都在谋求同一份工作。  
 
 
-# ***go against*** 
+# *** *go against*** 
 
 
   
@@ -15443,7 +15442,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 比赛对蓝队越来越不利了。  
 
 
-# ***go ahead*** 
+# *** *go ahead*** 
 
 
   
@@ -15469,7 +15468,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 来源：2008 广东  
 
 
-# ***go ahead with*** 
+# *** *go ahead with*** 
 
 
   
@@ -15479,7 +15478,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
 1.**开始做；着手干**  
 
 
-# ***go all out*** 
+# *** *go all out*** 
 
 
   
@@ -15489,7 +15488,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
 1.**全力以赴，竭尽全力**  
 
 
-# ***go along*** 
+# *** *go along*** 
 
 
   
@@ -15499,7 +15498,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
 1.**进行；发生；发展**  
 
 
-# ***go away*** 
+# *** *go away*** 
 
 
   
@@ -15519,7 +15518,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 来源：2012 全国  
 
 
-# ***go back (to)*** 
+# *** *go back (to)*** 
 
 
   
@@ -15540,7 +15539,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 我回忆起了1978年的往事。  
 
 
-# ***go back / return to normal*** 
+# *** *go back / return to normal*** 
 
 
   
@@ -15553,7 +15552,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 危机已经过去，生活很快就会恢复正常。  
 
 
-# ***go by*** 
+# *** *go by*** 
 
 
   
@@ -15567,7 +15566,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 随着时间的推移，一切都会好起来的。  
 
 
-# ***go down*** 
+# *** *go down*** 
 
 
   
@@ -15600,7 +15599,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 来源：2008 湖北  
 
 
-# ***go down in history*** 
+# *** *go down in history*** 
 
 
   
@@ -15613,7 +15612,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 他作为一名伟大的领袖将载入史册。  
 
 
-# ***go for*** 
+# *** *go for*** 
 
 
   
@@ -15639,7 +15638,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 他说的关于你的一席话对我也适用。  
 
 
-# ***go from strength to strength*** 
+# *** *go from strength to strength*** 
 
 
   
@@ -15652,7 +15651,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 这家公司自5年前创办以来一直不断壮大。  
 
 
-# ***go hungry*** 
+# *** *go hungry*** 
 
 
   
@@ -15665,7 +15664,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 只要有一技之长，你就不会挨饿。  
 
 
-# ***go in for*** 
+# *** *go in for*** 
 
 
   
@@ -15678,7 +15677,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 她对团体比赛不感兴趣。  
 
 
-# ***go into*** 
+# *** *go into*** 
 
 
   
@@ -15704,7 +15703,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 我们需要研究一下费用问题。  
 
 
-# ***go into detail(s)*** 
+# *** *go into detail(s)*** 
 
 
   
@@ -15717,7 +15716,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 我现在不能细说，太费时间了。  
 
 
-# ***go off*** 
+# *** *go off*** 
 
 
   
@@ -15751,7 +15750,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 疼痛将会消失。  
 
 
-# ***go on*** 
+# *** *go on*** 
 
 
   
@@ -15795,7 +15794,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 灯亮了。  
 
 
-# ***go on a diet*** 
+# *** *go on a diet*** 
 
 
   
@@ -15808,7 +15807,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 我节食的时候只吃黄瓜，迅速减轻了体重。  
 
 
-# ***go one's separate ways*** 
+# *** *go one's separate ways*** 
 
 
   
@@ -15826,7 +15825,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 来源：2010 湖北  
 
 
-# ***go out*** 
+# *** *go out*** 
 
 
   
@@ -15844,7 +15843,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
 ### 辨析 go out, put out
 二者都和“熄灭”有关。  
 
-# ***go over*** 
+# *** *go over*** 
 
 
   
@@ -15864,7 +15863,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 我必须复习笔记准备明天的考试。  
 
 
-# ***go round / around*** 
+# *** *go round / around*** 
 
 
   
@@ -15880,7 +15879,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 这种传染病传遍了全城。  
 
 
-# ***go so far / as far as to do sth*** 
+# *** *go so far / as far as to do sth*** 
 
 
   
@@ -15894,7 +15893,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 来源：2010 辽宁改  
 
 
-# ***go through*** 
+# *** *go through*** 
 
 
   
@@ -15925,7 +15924,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 据说新校规没有被通过。  
 
 
-# ***go through with*** 
+# *** *go through with*** 
 
 
   
@@ -15938,7 +15937,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 我没有选择，只有坚持到底。  
 
 
-# ***go to*** 
+# *** *go to*** 
 
 
   
@@ -15952,7 +15951,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 来源：2016 天津改  
 
 
-# ***go to college*** 
+# *** *go to college*** 
 
 
   
@@ -15965,7 +15964,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 上大学  
 
 
-# ***go up*** 
+# *** *go up*** 
 
 
   
@@ -15985,7 +15984,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 到处矗立起新楼。  
 
 
-# ***go with*** 
+# *** *go with*** 
 
 
   
@@ -16001,7 +16000,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 你觉得这顶帽子和我的新外套相配吗？  
 
 
-# ***go without*** 
+# *** *go without*** 
 
 
   
@@ -16019,7 +16018,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 健康胜于财富，这是不言而喻的。  
 
 
-# ***go without saying*** 
+# *** *go without saying*** 
 
 
   
@@ -16032,7 +16031,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 这项建议将被采纳，这是不言而喻的。  
 
 
-# ***go wrong*** 
+# *** *go wrong*** 
 
 
   
@@ -16045,7 +16044,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 这台收音机出毛病了。  
 
 
-# ***gold medal*** 
+# *** *gold medal*** 
 
 
   
@@ -16055,7 +16054,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
 1.**金牌**  
 
 
-# ***good luck (with sth)*** 
+# *** *good luck (with sth)*** 
 
 
   
@@ -16068,7 +16067,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 祝你考试成功！  
 
 
-# ***great auk*** n
+# *** *great auk*** n
 
 
 | 词频 1 |  
@@ -16078,7 +16077,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
 1.*高义频：* **大海雀 (已灭绝)**  
 
 
-# ***green fingers*** 
+# *** *green fingers*** 
 
 
   
@@ -16088,7 +16087,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
 1.**高超的种植技能**  
 
 
-# ***greenhouse effect*** 
+# *** *greenhouse effect*** 
 
 
   
@@ -16098,7 +16097,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
 1.**温室效应**  
 
 
-# ***grow into*** 
+# *** *grow into*** 
 
 
   
@@ -16115,7 +16114,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 来源：2014 陕西  
 
 
-# ***grow out of*** 
+# *** *grow out of*** 
 
 
   
@@ -16132,7 +16131,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 他已经长得穿不上校服了。  
 
 
-# ***grow up*** 
+# *** *grow up*** 
 
 
   
@@ -16148,7 +16147,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 这个男孩长大后成了一名伟大的科学家。  
 
 
-# ***had better*** 
+# *** *had better*** 
 
 
   
@@ -16163,7 +16162,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
 
 Notes: had better常缩写成’d better，后接动词原形。  
 
-# ***hand around / round*** 
+# *** *hand around / round*** 
 
 
   
@@ -16173,7 +16172,7 @@ Notes: had better常缩写成’d better，后接动词原形。
 1.**分发**  
 
 
-# ***hand back*** 
+# *** *hand back*** 
 
 
   
@@ -16183,7 +16182,7 @@ Notes: had better常缩写成’d better，后接动词原形。
 1.**交回；归还**  
 
 
-# ***hand down*** 
+# *** *hand down*** 
 
 
   
@@ -16196,7 +16195,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 这枚戒指是我家祖传的。  
 
 
-# ***hand in*** 
+# *** *hand in*** 
 
 
   
@@ -16209,7 +16208,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 如果你要在学校餐厅订午餐，请在9:30前把订单交上来。  
 
 
-# ***hand in hand*** 
+# *** *hand in hand*** 
 
 
   
@@ -16223,7 +16222,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 来源：2008 湖南  
 
 
-# ***hand out*** 
+# *** *hand out*** 
 
 
   
@@ -16236,7 +16235,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 请把这些书发给大家好吗？  
 
 
-# ***hand over*** 
+# *** *hand over*** 
 
 
   
@@ -16249,7 +16248,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 他退休时把生意移交给了他的儿子。  
 
 
-# ***hang about / around*** 
+# *** *hang about / around*** 
 
 
   
@@ -16262,7 +16261,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 街上有几个孩子在游荡。  
 
 
-# ***hang about / around with sb*** 
+# *** *hang about / around with sb*** 
 
 
   
@@ -16275,7 +16274,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 以前和我一起混的人都比我年长许多。  
 
 
-# ***hang on*** 
+# *** *hang on*** 
 
 
   
@@ -16292,7 +16291,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 别挂断，我这就去看看他在不在。  
 
 
-# ***hang on a second*** 
+# *** *hang on a second*** 
 
 
   
@@ -16302,7 +16301,7 @@ Notes: had better常缩写成’d better，后接动词原形。
 1.**等一下**  
 
 
-# ***hang out (with)*** 
+# *** *hang out (with)*** 
 
 
   
@@ -16318,7 +16317,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 没什么，就是跟朋友在一起。  
 
 
-# ***hang over*** 
+# *** *hang over*** 
 
 
   
@@ -16331,7 +16330,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 湿气形成云，像烟雾一样笼罩在树梢。  
 
 
-# ***hang up*** 
+# *** *hang up*** 
 
 
   
@@ -16344,7 +16343,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 刚才有人给我打电话，但我还没来得及接就挂断了。  
 
 
-# ***hard and fast*** 
+# *** *hard and fast*** 
 
 
   
@@ -16358,7 +16357,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 来源：2013 全国  
 
 
-# ***hard copy*** 
+# *** *hard copy*** 
 
 
   
@@ -16368,7 +16367,7 @@ Notes: had better常缩写成’d better，后接动词原形。
 1.**硬副本 (指从计算机里打印出来的资料)**  
 
 
-# ***hard facts*** 
+# *** *hard facts*** 
 
 
   
@@ -16378,7 +16377,7 @@ Notes: had better常缩写成’d better，后接动词原形。
 1.**确切的证据**  
 
 
-# ***hardly ever*** 
+# *** *hardly ever*** 
 
 
   
@@ -16394,7 +16393,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 哦，我很少看电视  
 
 
-# ***hardly … when*** 
+# *** *hardly … when*** 
 
 
   
@@ -16417,7 +16416,7 @@ Notes: had better常缩写成’d better，后接动词原形。
 
 Notes: hardly ... when结构中，由when引导的从句用过去时，主句用过去完成时；hardly置于句首时句子要倒装，通常用于非常正式的书面语中。  
 
-# ***have ... in common*** 
+# *** *have ... in common*** 
 
 
   
@@ -16433,7 +16432,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我和简毫无共同之处。  
 
 
-# ***have ... in common (with)*** 
+# *** *have ... in common (with)*** 
 
 
   
@@ -16449,7 +16448,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我和简毫无共同之处。  
 
 
-# ***have ... on*** 
+# *** *have ... on*** 
 
 
   
@@ -16465,7 +16464,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 你下午有事吗？  
 
 
-# ***have / take a seat*** 
+# *** *have / take a seat*** 
 
 
   
@@ -16478,7 +16477,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 请坐。  
 
 
-# ***have / take a vacation*** 
+# *** *have / take a vacation*** 
 
 
   
@@ -16492,7 +16491,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 来源：外研⑦ – 2  
 
 
-# ***have a (good) eye for*** 
+# *** *have a (good) eye for*** 
 
 
   
@@ -16505,7 +16504,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 她善识便宜货。  
 
 
-# ***have a ... time*** 
+# *** *have a ... time*** 
 
 
   
@@ -16518,7 +16517,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我相信你会在加利福尼亚玩得很开心。  
 
 
-# ***have a / no future*** 
+# *** *have a / no future*** 
 
 
   
@@ -16532,7 +16531,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 来源：外研⑤ – 6  
 
 
-# ***have a bad effect on*** 
+# *** *have a bad effect on*** 
 
 
   
@@ -16542,7 +16541,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 1.**对……有坏影响**  
 
 
-# ***have a frog in one's throat*** 
+# *** *have a frog in one's throat*** 
 
 
   
@@ -16552,7 +16551,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 1.**（尤因喉咙痛）说话困难**  
 
 
-# ***have a gift for*** 
+# *** *have a gift for*** 
 
 
   
@@ -16562,7 +16561,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 1.**对……有天赋**  
 
 
-# ***have a go (at)*** 
+# *** *have a go (at)*** 
 
 
   
@@ -16575,7 +16574,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 尝试一下  
 
 
-# ***have a high / low / good / poor opinion of*** 
+# *** *have a high / low / good / poor opinion of*** 
 
 
   
@@ -16585,7 +16584,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 1.**对…评价高 / 低 / 好 / 差**  
 
 
-# ***have a population of*** 
+# *** *have a population of*** 
 
 
   
@@ -16599,7 +16598,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 来源：外研⑦ – 5  
 
 
-# ***have a temperature*** 
+# *** *have a temperature*** 
 
 
   
@@ -16612,7 +16611,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 发烧  
 
 
-# ***have a word with*** 
+# *** *have a word with*** 
 
 
   
@@ -16625,7 +16624,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 彼得在哪儿？我想跟他谈一谈。  
 
 
-# ***have affection for*** 
+# *** *have affection for*** 
 
 
   
@@ -16635,7 +16634,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 1.**喜爱，钟爱**  
 
 
-# ***have an effect on*** 
+# *** *have an effect on*** 
 
 
   
@@ -16649,7 +16648,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 来源：2012 四川  
 
 
-# ***have connection with*** 
+# *** *have connection with*** 
 
 
   
@@ -16662,7 +16661,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我和那起案件没有什么关系。  
 
 
-# ***have control (of / over)*** 
+# *** *have control (of / over)*** 
 
 
   
@@ -16675,7 +16674,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 她是个优秀的教师，能够有效地管理课堂。  
 
 
-# ***have fun*** 
+# *** *have fun*** 
 
 
   
@@ -16688,7 +16687,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 好好玩吧！  
 
 
-# ***have fun with*** 
+# *** *have fun with*** 
 
 
   
@@ -16698,7 +16697,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 1.**玩得开心**  
 
 
-# ***have got to*** 
+# *** *have got to*** 
 
 
   
@@ -16711,7 +16710,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 这个星期我得准备化学考试。  
 
 
-# ***have had enough (of)*** 
+# *** *have had enough (of)*** 
 
 
   
@@ -16724,7 +16723,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我受够了你的无礼！  
 
 
-# ***have no alternative but to do sth*** 
+# *** *have no alternative but to do sth*** 
 
 
   
@@ -16737,7 +16736,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 除了向警察举报他，我别无选择。  
 
 
-# ***have no choice (but to do sth)*** 
+# *** *have no choice (but to do sth)*** 
 
 
   
@@ -16750,7 +16749,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 当时，那位出租车司机别无选择，只能求助于游客。  
 
 
-# ***have no use for*** 
+# *** *have no use for*** 
 
 
   
@@ -16766,7 +16765,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我不喜欢那样的小说。  
 
 
-# ***have nothing to do with*** 
+# *** *have nothing to do with*** 
 
 
   
@@ -16780,7 +16779,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 来源：2010 湖南  
 
 
-# ***have one's eye on*** 
+# *** *have one's eye on*** 
 
 
   
@@ -16793,7 +16792,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我会密切注意你，所以你最好表现好点儿。  
 
 
-# ***have power over*** 
+# *** *have power over*** 
 
 
   
@@ -16803,7 +16802,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 1.**控制，支配**  
 
 
-# ***have sb / sth in mind (for sth)*** 
+# *** *have sb / sth in mind (for sth)*** 
 
 
   
@@ -16816,7 +16815,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 你心目中有做这项工作的合适人选吗？  
 
 
-# ***have sb to thank (for)*** 
+# *** *have sb to thank (for)*** 
 
 
   
@@ -16830,7 +16829,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 来源：2016 全国  
 
 
-# ***have second thoughts*** 
+# *** *have second thoughts*** 
 
 
   
@@ -16843,7 +16842,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 他们如果知道接下来会发生什么，就可能会改变主意了。  
 
 
-# ***have something to do with*** 
+# *** *have something to do with*** 
 
 
   
@@ -16856,7 +16855,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 这与我们都有关系。  
 
 
-# ***have the honour of (doing) sth*** 
+# *** *have the honour of (doing) sth*** 
 
 
   
@@ -16869,7 +16868,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 可以赏光和我跳这支舞吗？  
 
 
-# ***have the last laugh*** 
+# *** *have the last laugh*** 
 
 
   
@@ -16879,7 +16878,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 1.**笑到最后；取得最后的成功**  
 
 
-# ***have to*** 
+# *** *have to*** 
 
 
   
@@ -16892,7 +16891,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 这个星期我得准备化学考试。  
 
 
-# ***have words with*** 
+# *** *have words with*** 
 
 
   
@@ -16905,7 +16904,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我很生气，和他就钱的事吵了起来。  
 
 
-# ***have yet to*** 
+# *** *have yet to*** 
 
 
   
@@ -16915,7 +16914,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 1.**还没有**  
 
 
-# ***head for*** 
+# *** *head for*** 
 
 
   
@@ -16929,7 +16928,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 来源：外研⑦ – 1  
 
 
-# ***heal over / up*** 
+# *** *heal over / up*** 
 
 
   
@@ -16939,7 +16938,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 1.**愈合；痊愈**  
 
 
-# ***hear about*** 
+# *** *hear about*** 
 
 
   
@@ -16956,7 +16955,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 来源：2012 山东  
 
 
-# ***hear from*** 
+# *** *hear from*** 
 
 
   
@@ -16973,7 +16972,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 好久没有收到他的来信了。  
 
 
-# ***hear of*** 
+# *** *hear of*** 
 
 
   
@@ -16989,7 +16988,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 听说你成功了，我们都非常高兴。  
 
 
-# ***heart and soul*** 
+# *** *heart and soul*** 
 
 
   
@@ -17002,7 +17001,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 她全心全意地爱着那些孩子。  
 
 
-# ***heart attack*** n
+# *** *heart attack*** n
 
 
   
@@ -17015,7 +17014,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 他心脏病发作了。  
 
 
-# ***heat up*** 
+# *** *heat up*** 
 
 
   
@@ -17032,7 +17031,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 选举竞争正在白热化。  
 
 
-# ***help (...) out*** 
+# *** *help (...) out*** 
 
 
   
@@ -17051,7 +17050,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 去年我在父亲的办公室里帮忙。  
 
 
-# ***help oneself (to)*** 
+# *** *help oneself (to)*** 
 
 
   
@@ -17073,7 +17072,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 他一直在偷拿抽屉中的钱。  
 
 
-# ***help out*** 
+# *** *help out*** 
 
 
   
@@ -17092,7 +17091,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 去年我在父亲的办公室里帮忙。  
 
 
-# ***here and now*** 
+# *** *here and now*** 
 
 
   
@@ -17105,7 +17104,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我们马上开始做实验吧。  
 
 
-# ***here and there*** 
+# *** *here and there*** 
 
 
   
@@ -17119,7 +17118,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 来源：2017 全国  
 
 
-# ***here you are*** 
+# *** *here you are*** 
 
 
   
@@ -17129,7 +17128,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 1.**给你**  
 
 
-# ***hip hop*** 
+# *** *hip hop*** 
 
 
   
@@ -17139,7 +17138,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 1.**嬉蹦乐（节奏强烈、说唱形式的一种流行伴舞音乐）**  
 
 
-# ***hire out*** 
+# *** *hire out*** 
 
 
   
@@ -17152,7 +17151,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 这家公司出租小汽车。  
 
 
-# ***hit on / upon*** 
+# *** *hit on / upon*** 
 
 
   
@@ -17168,7 +17167,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我们终于想出了一个解决这个困难的办法。  
 
 
-# ***hold back*** 
+# *** *hold back*** 
 
 
   
@@ -17198,7 +17197,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 她想把自己对他的看法告诉他，但又觉得难以启齿。  
 
 
-# ***hold on*** 
+# *** *hold on*** 
 
 
   
@@ -17230,7 +17229,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 等一下！这条路不对！  
 
 
-# ***hold on to / onto*** 
+# *** *hold on to / onto*** 
 
 
   
@@ -17243,7 +17242,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我们曾考虑过卖掉这件旧家具，但后来又决定不卖了。  
 
 
-# ***hold one's breath*** 
+# *** *hold one's breath*** 
 
 
   
@@ -17253,7 +17252,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 1.**屏息；憋住气**  
 
 
-# ***hold one's head high*** 
+# *** *hold one's head high*** 
 
 
   
@@ -17266,7 +17265,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 不要太趾高气扬。  
 
 
-# ***hold out*** 
+# *** *hold out*** 
 
 
   
@@ -17293,7 +17292,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 来源：2013 重庆  
 
 
-# ***hold the line*** 
+# *** *hold the line*** 
 
 
   
@@ -17309,7 +17308,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 请等一会儿。  
 
 
-# ***hold up*** 
+# *** *hold up*** 
 
 
   
@@ -17336,7 +17335,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 来源：外研⑧ - 4  
 
 
-# ***hold water*** 
+# *** *hold water*** 
 
 
   
@@ -17346,7 +17345,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 1.**(容器等) 盛得住水；(论点等) 站得住脚**  
 
 
-# ***hold your horses*** 
+# *** *hold your horses*** 
 
 
   
@@ -17356,7 +17355,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 1.**慢点，别急**  
 
 
-# ***hot dog*** n
+# *** *hot dog*** n
 
 
   
@@ -17366,7 +17365,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 1.**热狗（香肠面包）**  
 
 
-# ***hot pot*** 
+# *** *hot pot*** 
 
 
   
@@ -17376,7 +17375,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 1.**火锅**  
 
 
-# ***hour by hour*** 
+# *** *hour by hour*** 
 
 
   
@@ -17390,7 +17389,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 来源：2008 江苏改  
 
 
-# ***how far*** 
+# *** *how far*** 
 
 
   
@@ -17406,7 +17405,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 邮局离这里多远？  
 
 
-# ***how long*** 
+# *** *how long*** 
 
 
   
@@ -17419,7 +17418,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 你来这儿多长时间了？  
 
 
-# ***how much*** 
+# *** *how much*** 
 
 
   
@@ -17433,7 +17432,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 来源： 2010 全国  
 
 
-# ***how often*** 
+# *** *how often*** 
 
 
   
@@ -17446,7 +17445,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 你多久去那儿一次？每周一次还是两次？  
 
 
-# ***how soon*** 
+# *** *how soon*** 
 
 
   
@@ -17459,7 +17458,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 你什么时候能准备好？  
 
 
-# ***human being*** n
+# *** *human being*** n
 英音 'hjuːmən 'biːɪŋ     美音 'hjuːmən 'biːɪŋ  
 
 | 词频 4 |  
@@ -17474,7 +17473,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 1969年，人类真正登上了月球。  
 
 
-# ***human race*** 
+# *** *human race*** 
 
 
   
@@ -17488,7 +17487,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 来源：译林⑤ – 3  
 
 
-# ***hundreds of*** 
+# *** *hundreds of*** 
 
 
   
@@ -17501,7 +17500,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 成百上千的人排队来观赏当代绘画作品。  
 
 
-# ***hunger for / after*** 
+# *** *hunger for / after*** 
 
 
   
@@ -17514,7 +17513,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 全世界的人都渴望和平。  
 
 
-# ***hunt out*** 
+# *** *hunt out*** 
 
 
   
@@ -17527,7 +17526,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 他找出一本旧日记。  
 
 
-# ***hurry up*** 
+# *** *hurry up*** 
 
 
   
@@ -17546,7 +17545,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 请催一下快点开饭。  
 
 
-# ***identify sb / sth with sth*** 
+# *** *identify sb / sth with sth*** 
 
 
   
@@ -17560,7 +17559,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 你不应该把财富与幸福等同起来。  
 
 
-# ***identify with sb / sth*** 
+# *** *identify with sb / sth*** 
 
 
   
@@ -17573,7 +17572,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我不喜欢这本书，因为我无法与其中任何一个主角产生共鸣。  
 
 
-# ***identity card*** 
+# *** *identity card*** 
 
 
   
@@ -17583,7 +17582,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 1.**身份证**  
 
 
-# ***if anything*** 
+# *** *if anything*** 
 
 
   
@@ -17596,7 +17595,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 对于失败山姆看起来并不怎么失望，要是说有什么的话，倒是这事儿结束了，他好像松了一口气。  
 
 
-# ***if necessary*** 
+# *** *if necessary*** 
 
 
   
@@ -17610,7 +17609,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 来源：2012 湖南书面表达  
 
 
-# ***if only*** 
+# *** *if only*** 
 
 
   
@@ -17623,7 +17622,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我要是知道她的名字就好了。  
 
 
-# ***if possible*** 
+# *** *if possible*** 
 
 
   
@@ -17636,7 +17635,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 如有可能，我想避开交通高峰期。  
 
 
-# ***if so*** 
+# *** *if so*** 
 
 
   
@@ -17649,7 +17648,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 你来过这儿吗？如果来过，来过几次呢？  
 
 
-# ***if you like*** 
+# *** *if you like*** 
 
 
   
@@ -17662,7 +17661,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 如果你愿意，我可以开车送你去那里。  
 
 
-# ***if you must (do sth)*** 
+# *** *if you must (do sth)*** 
 
 
   
@@ -17676,7 +17675,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 来源：2011 全国  
 
 
-# ***improve on / upon*** 
+# *** *improve on / upon*** 
 
 
   
@@ -17689,7 +17688,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 莉莉数学考了98分，我看没人能超过这个分数。  
 
 
-# ***in (a) … fashion*** 
+# *** *in (a) … fashion*** 
 
 
   
@@ -17705,7 +17704,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 他表现得很奇怪。  
 
 
-# ***in (all) reason*** 
+# *** *in (all) reason*** 
 
 
   
@@ -17718,7 +17717,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 只要是合情合理的事，我都愿意做。  
 
 
-# ***in (full) bloom*** 
+# *** *in (full) bloom*** 
 
 
   
@@ -17731,7 +17730,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 玫瑰盛开着。  
 
 
-# ***in / during / over / through(out) the course of*** 
+# *** *in / during / over / through(out) the course of*** 
 
 
   
@@ -17749,7 +17748,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 来源：2013 湖北  
 
 
-# ***in / during sb's absence*** 
+# *** *in / during sb's absence*** 
 
 
   
@@ -17762,7 +17761,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 趁他不在时，我看了看他桌上有什么东西。  
 
 
-# ***in / into the distance*** 
+# *** *in / into the distance*** 
 
 
   
@@ -17776,7 +17775,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 来源：2015 浙江  
 
 
-# ***in / out of season*** 
+# *** *in / out of season*** 
 
 
   
@@ -17786,7 +17785,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 1.**(食物) 当季的 / 不合时令的**  
 
 
-# ***in / over the long run*** 
+# *** *in / over the long run*** 
 
 
   
@@ -17799,7 +17798,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 真正的朋友会建议我们做从长远来看对我们有利的事。  
 
 
-# ***in / under ... circumstances*** 
+# *** *in / under ... circumstances*** 
 
 
   
@@ -17816,7 +17815,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 来源：2012 江西改  
 
 
-# ***in / under no circumstances*** 
+# *** *in / under no circumstances*** 
 
 
   
@@ -17830,7 +17829,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 
 Notes: in / under no circumstances置于句首，句子要用部分倒装语序。   
 
-# ***in / with reference to*** 
+# *** *in / with reference to*** 
 
 
   
@@ -17844,7 +17843,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 来源：译林⑥ – 1  
 
 
-# ***in / with regard to*** 
+# *** *in / with regard to*** 
 
 
   
@@ -17857,7 +17856,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 关于他的建议，我们将充分讨论。  
 
 
-# ***in / within range (of)*** 
+# *** *in / within range (of)*** 
 
 
   
@@ -17867,7 +17866,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 1.**在 (…的) 范围内**  
 
 
-# ***in a ... manner*** 
+# *** *in a ... manner*** 
 
 
   
@@ -17883,7 +17882,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 她友好地和我打招呼。  
 
 
-# ***in a ... voice*** 
+# *** *in a ... voice*** 
 
 
   
@@ -17896,7 +17895,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 低/高声地  
 
 
-# ***in a / one's hurry*** 
+# *** *in a / one's hurry*** 
 
 
   
@@ -17912,7 +17911,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 他匆匆忙忙地去赶火车，把书落在了出租车里。  
 
 
-# ***in a flash*** 
+# *** *in a flash*** 
 
 
   
@@ -17922,12 +17921,12 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 1.**瞬间, 即刻**  
 
 
-# ***in a good / bad mood*** 
+# *** *in a good / bad mood*** 
 
 
   
 
-# ***in a minute*** 
+# *** *in a minute*** 
 
 
   
@@ -17941,7 +17940,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 来源：人教③ – 3  
 
 
-# ***in a moment*** 
+# *** *in a moment*** 
 
 
   
@@ -17954,7 +17953,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我马上就准备好。  
 
 
-# ***in a nutshell*** 
+# *** *in a nutshell*** 
 
 
   
@@ -17964,7 +17963,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 1.**简言之；概括地讲**  
 
 
-# ***in a row*** 
+# *** *in a row*** 
 
 
   
@@ -17980,7 +17979,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我已经连续三次打破这一记录了。  
 
 
-# ***in a rush*** 
+# *** *in a rush*** 
 
 
   
@@ -17990,7 +17989,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 1.**匆忙地，急切地**  
 
 
-# ***in a sense*** 
+# *** *in a sense*** 
 
 
   
@@ -18003,7 +18002,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 他总是在写故事，因此从某种意义上说，他是个作家。  
 
 
-# ***in a way*** 
+# *** *in a way*** 
 
 
   
@@ -18016,7 +18015,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 在某种程度上说，你犯了那个错误我倒感到高兴，因为它会为你敲响警钟。  
 
 
-# ***in a word*** 
+# *** *in a word*** 
 
 
   
@@ -18030,7 +18029,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 来源：2008 江苏书面表达  
 
 
-# ***in action*** 
+# *** *in action*** 
 
 
   
@@ -18043,7 +18042,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 跳台滑雪者跳下时的照片  
 
 
-# ***in addition*** 
+# *** *in addition*** 
 
 
   
@@ -18056,7 +18055,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 该公司提供廉价的互联网接入服务。此外，它还免费提供共享软件。  
 
 
-# ***in addition to*** 
+# *** *in addition to*** 
 
 
   
@@ -18070,7 +18069,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 来源：2014 浙江书面表达  
 
 
-# ***in advance*** 
+# *** *in advance*** 
 
 
   
@@ -18088,7 +18087,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 来源： 2011 北京  
 
 
-# ***in advance (of )*** 
+# *** *in advance (of )*** 
 
 
   
@@ -18106,7 +18105,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 来源： 2011 北京  
 
 
-# ***in all*** 
+# *** *in all*** 
 
 
   
@@ -18119,7 +18118,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 出席聚会的共有多少人？  
 
 
-# ***in all honesty*** 
+# *** *in all honesty*** 
 
 
   
@@ -18132,7 +18131,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 说实话，我上的那所大学不如我理想中的大学出名。  
 
 
-# ***in amazement*** 
+# *** *in amazement*** 
 
 
   
@@ -18146,7 +18145,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 来源：2011 江西  
 
 
-# ***in answer to*** 
+# *** *in answer to*** 
 
 
   
@@ -18159,7 +18158,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 医生接了我的电话后就立即赶过来了。  
 
 
-# ***in any case*** 
+# *** *in any case*** 
 
 
   
@@ -18175,7 +18174,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我不明白为什么我不能做这件事。不管怎样，我要试一试。  
 
 
-# ***in astonishment*** 
+# *** *in astonishment*** 
 
 
   
@@ -18185,7 +18184,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 1.**惊讶地，吃惊地**  
 
 
-# ***in behalf of sb / in sb's behalf*** 
+# *** *in behalf of sb / in sb's behalf*** 
 
 
   
@@ -18198,7 +18197,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我们为无家可归的人筹钱。  
 
 
-# ***in between*** 
+# *** *in between*** 
 
 
   
@@ -18211,7 +18210,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 今天上午我们有两节课，课间有休息时间。  
 
 
-# ***in brief*** 
+# *** *in brief*** 
 
 
   
@@ -18224,7 +18223,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 他的成功说来话长。但简单地说，经历多次失败后，他成功了。  
 
 
-# ***in broad daylight*** 
+# *** *in broad daylight*** 
 
 
   
@@ -18236,7 +18235,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 ### 辨析 broad, wide
 两者都有“宽的”之意。　  
 
-# ***in case of*** 
+# *** *in case of*** 
 
 
   
@@ -18249,7 +18248,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 如遇紧急情况，请拨打救助台的电话926-3736。  
 
 
-# ***in cash*** 
+# *** *in cash*** 
 
 
   
@@ -18262,7 +18261,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 你可用现金或支票付款。  
 
 
-# ***in chaos*** 
+# *** *in chaos*** 
 
 
   
@@ -18275,7 +18274,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 地震后城市陷入一片混乱。  
 
 
-# ***in charge*** 
+# *** *in charge*** 
 
 
   
@@ -18288,7 +18287,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我想跟负责人谈谈。  
 
 
-# ***in charge of*** 
+# *** *in charge of*** 
 
 
   
@@ -18302,7 +18301,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 来源：2009 全国  
 
 
-# ***in chorus*** 
+# *** *in chorus*** 
 
 
   
@@ -18315,7 +18314,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > “谢谢。”他们齐声说道。  
 
 
-# ***in common with*** 
+# *** *in common with*** 
 
 
   
@@ -18328,7 +18327,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 和其他学生一样，汤姆很少上学迟到。  
 
 
-# ***in company with*** 
+# *** *in company with*** 
 
 
   
@@ -18341,7 +18340,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我的朋友比尔将和他的新朋友一道来看我。  
 
 
-# ***in conclusion*** 
+# *** *in conclusion*** 
 
 
   
@@ -18358,7 +18357,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 来源：2010 福建书面表达改  
 
 
-# ***in connection with*** 
+# *** *in connection with*** 
 
 
   
@@ -18371,7 +18370,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我写此信是想谈一谈你找工作的事。  
 
 
-# ***in consideration of / for*** 
+# *** *in consideration of / for*** 
 
 
   
@@ -18385,7 +18384,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 来源：2010 天津改  
 
 
-# ***in contrast with / to*** 
+# *** *in contrast with / to*** 
 
 
   
@@ -18398,7 +18397,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 与他的妻子不同，布什对出国旅游没什么兴趣。  
 
 
-# ***in control of*** 
+# *** *in control of*** 
 
 
   
@@ -18411,7 +18410,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 那栋房子归谁管？  
 
 
-# ***in danger (of)*** 
+# *** *in danger (of)*** 
 
 
   
@@ -18424,7 +18423,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 有多少产业工人可能会失业？  
 
 
-# ***in debt*** 
+# *** *in debt*** 
 
 
   
@@ -18440,7 +18439,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 对于他的帮助，我欠他一份人情。  
 
 
-# ***in debt (to sb)*** 
+# *** *in debt (to sb)*** 
 
 
   
@@ -18456,7 +18455,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 对于他的帮助，我欠他一份人情。  
 
 
-# ***in defence of*** 
+# *** *in defence of*** 
 
 
   
@@ -18466,7 +18465,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 1.**为辩护；防卫**  
 
 
-# ***in demand*** 
+# *** *in demand*** 
 
 
   
@@ -18479,7 +18478,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 由于模特业不易进入，好模特总是供不应求。  
 
 
-# ***in depth*** 
+# *** *in depth*** 
 
 
   
@@ -18495,7 +18494,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我还没有仔细阅读这份报告。  
 
 
-# ***in despair*** 
+# *** *in despair*** 
 
 
   
@@ -18509,7 +18508,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 来源：北师大⑦ – 21  
 
 
-# ***in detail*** 
+# *** *in detail*** 
 
 
   
@@ -18523,7 +18522,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 来源：2016 浙江书面表达  
 
 
-# ***in disguise*** 
+# *** *in disguise*** 
 
 
   
@@ -18536,7 +18535,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 公园里的那个女人原来是一个伪装的警察。  
 
 
-# ***in doubt*** 
+# *** *in doubt*** 
 
 
   
@@ -18549,7 +18548,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 和谈前途未卜。  
 
 
-# ***in effect*** 
+# *** *in effect*** 
 
 
   
@@ -18567,7 +18566,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > “祝你愉快”是个美妙的词语，实际上它在提醒我们要享受时光。  
 
 
-# ***in error*** 
+# *** *in error*** 
 
 
   
@@ -18582,7 +18581,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 ### 辨析 error, mistake, fault
   
 
-# ***in exchange for*** 
+# *** *in exchange for*** 
 
 
   
@@ -18592,7 +18591,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 1.**交换；调换**  
 
 
-# ***in fact*** 
+# *** *in fact*** 
 
 
   
@@ -18606,7 +18605,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 来源：2011 辽宁  
 
 
-# ***in favour of*** 
+# *** *in favour of*** 
 
 
   
@@ -18619,7 +18618,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 机遇和成功往往青睐那些有准备的人。  
 
 
-# ***in fear (of sth)*** 
+# *** *in fear (of sth)*** 
 
 
   
@@ -18633,7 +18632,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 来源：2010 陕西  
 
 
-# ***in focus*** 
+# *** *in focus*** 
 
 
   
@@ -18643,7 +18642,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 1.**焦点对准的；清晰的**  
 
 
-# ***in force*** 
+# *** *in force*** 
 
 
   
@@ -18656,7 +18655,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 新的法律将很快生效。  
 
 
-# ***in front (of)*** 
+# *** *in front (of)*** 
 
 
   
@@ -18676,7 +18675,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 来源：2008 辽宁书面表达  
 
 
-# ***in full*** 
+# *** *in full*** 
 
 
   
@@ -18686,7 +18685,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 1.**全部地**  
 
 
-# ***in fun*** 
+# *** *in fun*** 
 
 
   
@@ -18699,7 +18698,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我讲这话不是开玩笑的。  
 
 
-# ***in future*** 
+# *** *in future*** 
 
 
   
@@ -18713,7 +18712,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 只要这次你能帮我，我保证以后会更加小心。  
 
 
-# ***in general*** 
+# *** *in general*** 
 
 
   
@@ -18734,7 +18733,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 总的说来，她的作品不错，不过这篇文章很糟糕。  
 
 
-# ***in good / bad shape*** 
+# *** *in good / bad shape*** 
 
 
   
@@ -18750,7 +18749,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 经济形势很不好，而且还有可能恶化。  
 
 
-# ***in good / poor condition*** 
+# *** *in good / poor condition*** 
 
 
   
@@ -18760,7 +18759,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 1.**状况很好 (坏)； 情况很好 (坏)**  
 
 
-# ***in good spirits*** 
+# *** *in good spirits*** 
 
 
   
@@ -18770,7 +18769,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 1.**心情好**  
 
 
-# ***in history*** 
+# *** *in history*** 
 
 
   
@@ -18783,7 +18782,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 拿破仑是历史上最有能力的将军之一。  
 
 
-# ***in honour of sb / in sb's honour*** 
+# *** *in honour of sb / in sb's honour*** 
 
 
   
@@ -18799,7 +18798,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 人们举行了一个仪式来纪念那些战士。  
 
 
-# ***in many ways*** 
+# *** *in many ways*** 
 
 
   
@@ -18812,7 +18811,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我和母亲在许多方面很相似。  
 
 
-# ***in memory of*** 
+# *** *in memory of*** 
 
 
   
@@ -18826,7 +18825,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 来源：2009 上海  
 
 
-# ***in my opinion*** 
+# *** *in my opinion*** 
 
 
   
@@ -18839,7 +18838,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 在我看来，学习英语是一个循序渐进的过程。  
 
 
-# ***in my view*** 
+# *** *in my view*** 
 
 
   
@@ -18852,7 +18851,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 在我看来，玩电脑游戏浪费时间。  
 
 
-# ***in need*** 
+# *** *in need*** 
 
 
   
@@ -18869,7 +18868,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 来源：2016 江苏书面表达  
 
 
-# ***in need of*** 
+# *** *in need of*** 
 
 
   
@@ -18882,7 +18881,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 这位先生总是帮助任何需要帮助的人。  
 
 
-# ***in no case*** 
+# *** *in no case*** 
 
 
   
@@ -18896,7 +18895,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 Notes: in no case用于句首时，句子常用部分倒装语序。  
 
-# ***in no hurry*** 
+# *** *in no hurry*** 
 
 
   
@@ -18909,7 +18908,7 @@ Notes: in no case用于句首时，句子常用部分倒装语序。
  > 我可以等，我不着急。  
 
 
-# ***in no sense*** 
+# *** *in no sense*** 
 
 
   
@@ -18926,7 +18925,7 @@ Notes: in no case用于句首时，句子常用部分倒装语序。
 
 Notes: in no sense用于句首时，句子用部分倒装语序。  
 
-# ***in no time*** 
+# *** *in no time*** 
 
 
   
@@ -18939,7 +18938,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 别担心，你很快就会好起来。  
 
 
-# ***in no way*** 
+# *** *in no way*** 
 
 
   
@@ -18955,7 +18954,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我们决不能容忍这样的事情继续下去。  
 
 
-# ***in one's own right*** 
+# *** *in one's own right*** 
 
 
   
@@ -18965,7 +18964,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 1.**凭借自身,靠自己**  
 
 
-# ***in one's thirties*** 
+# *** *in one's thirties*** 
 
 
   
@@ -18975,7 +18974,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 1.**在某人三十岁时**  
 
 
-# ***in one's turn*** 
+# *** *in one's turn*** 
 
 
   
@@ -18985,7 +18984,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 1.**轮到某人；接着**  
 
 
-# ***in order*** 
+# *** *in order*** 
 
 
   
@@ -19001,7 +19000,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 有些老师发现维持课堂秩序很困难。  
 
 
-# ***in order that*** 
+# *** *in order that*** 
 
 
   
@@ -19015,7 +19014,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 来源：北师大⑦ – 20  
 
 
-# ***in order to*** 
+# *** *in order to*** 
 
 
   
@@ -19037,7 +19036,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 悄悄地进去，别把你的妈妈吵醒了。  
 
 
-# ***in order to do something*** 
+# *** *in order to do something*** 
 
 
   
@@ -19059,7 +19058,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 悄悄地进去，别把你的妈妈吵醒了。  
 
 
-# ***in other words*** 
+# *** *in other words*** 
 
 
   
@@ -19073,7 +19072,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 来源：2013 重庆  
 
 
-# ***in pairs*** 
+# *** *in pairs*** 
 
 
   
@@ -19086,7 +19085,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我希望你们两人一组完成这项任务。  
 
 
-# ***in panic*** 
+# *** *in panic*** 
 
 
   
@@ -19096,7 +19095,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 1.**惊慌地**  
 
 
-# ***in part*** 
+# *** *in part*** 
 
 
   
@@ -19109,7 +19108,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 有人说他成功的部分原因是运气好。  
 
 
-# ***in particular*** 
+# *** *in particular*** 
 
 
   
@@ -19126,7 +19125,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 这个周末你有什么特别的安排吗？  
 
 
-# ***in peace*** 
+# *** *in peace*** 
 
 
   
@@ -19139,7 +19138,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 这两个社区相安无事。  
 
 
-# ***in person*** 
+# *** *in person*** 
 
 
   
@@ -19152,7 +19151,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 2011 全国  
 
 
-# ***in place*** 
+# *** *in place*** 
 
 
   
@@ -19172,7 +19171,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 这项服务将于年底准备就绪。  
 
 
-# ***in place of*** 
+# *** *in place of*** 
 
 
   
@@ -19188,7 +19187,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 如果我不去，他们会派其他人代替我的。  
 
 
-# ***in possession of*** 
+# *** *in possession of*** 
 
 
   
@@ -19201,7 +19200,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 外国游客必须持有护照。  
 
 
-# ***in practice*** 
+# *** *in practice*** 
 
 
   
@@ -19214,7 +19213,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 理论上，你的建议很好，但实际上，是行不通的。  
 
 
-# ***in praise of*** 
+# *** *in praise of*** 
 
 
   
@@ -19227,7 +19226,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 她写了一首诗歌颂自由。  
 
 
-# ***in preparation for*** 
+# *** *in preparation for*** 
 
 
   
@@ -19240,7 +19239,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我想提高我的语言技能为出国深造作准备。  
 
 
-# ***in principle*** 
+# *** *in principle*** 
 
 
   
@@ -19258,7 +19257,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我们大体上同意，但是仍需讨论细节。  
 
 
-# ***in print*** 
+# *** *in print*** 
 
 
   
@@ -19268,7 +19267,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 1.**已出版的；(书等) 仍能买到的**  
 
 
-# ***in private*** 
+# *** *in private*** 
 
 
   
@@ -19281,7 +19280,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我想和你私下说几句。  
 
 
-# ***in progress*** 
+# *** *in progress*** 
 
 
   
@@ -19294,12 +19293,12 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 桥梁正在建设中。  
 
 
-# ***in proportion to*** 
+# *** *in proportion to*** 
 
 
   
 
-# ***in public*** 
+# *** *in public*** 
 
 
   
@@ -19312,7 +19311,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 不要在公共场合大声说笑，这样不礼貌。  
 
 
-# ***in quantity / in large quantities*** 
+# *** *in quantity / in large quantities*** 
 
 
   
@@ -19325,7 +19324,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 他们大量收购棉花。  
 
 
-# ***in rags*** 
+# *** *in rags*** 
 
 
   
@@ -19335,7 +19334,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 1.**衣衫褴褛：**  
 
 
-# ***in reality*** 
+# *** *in reality*** 
 
 
   
@@ -19348,7 +19347,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 表面上她似乎很自信，其实她感到极其紧张。  
 
 
-# ***in relation to*** 
+# *** *in relation to*** 
 
 
   
@@ -19364,7 +19363,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 女性的收入相对于男性而言还是偏低。  
 
 
-# ***in relief*** 
+# *** *in relief*** 
 
 
   
@@ -19377,7 +19376,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 听说自己通过了考试，他松了口气。  
 
 
-# ***in reply to*** 
+# *** *in reply to*** 
 
 
   
@@ -19391,7 +19390,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我写这封信是为了回复你6月1日的来信。  
 
 
-# ***in respect of*** 
+# *** *in respect of*** 
 
 
   
@@ -19401,7 +19400,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 1.**关于；就…而言**  
 
 
-# ***in response (to)*** 
+# *** *in response (to)*** 
 
 
   
@@ -19414,7 +19413,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 政府为应对经济压力采取了行动。  
 
 
-# ***in response to*** 
+# *** *in response to*** 
 
 
   
@@ -19427,7 +19426,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 政府为应对经济压力采取了行动。  
 
 
-# ***in return*** 
+# *** *in return*** 
 
 
   
@@ -19444,7 +19443,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我希望自己能做点什么以回报他对我的好意。  
 
 
-# ***in return (for sth)*** 
+# *** *in return (for sth)*** 
 
 
   
@@ -19461,7 +19460,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我希望自己能做点什么以回报他对我的好意。  
 
 
-# ***in ruins*** 
+# *** *in ruins*** 
 
 
   
@@ -19476,7 +19475,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 来源：人教① – 4  
 
 
-# ***in sb's case*** 
+# *** *in sb's case*** 
 
 
   
@@ -19489,7 +19488,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 他们说天道酬勤，就我的个人情况而言确实如此。  
 
 
-# ***in sb's favour*** 
+# *** *in sb's favour*** 
 
 
   
@@ -19502,7 +19501,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我们选举班长，结果是28比15，王红当选。  
 
 
-# ***in sb's nature*** 
+# *** *in sb's nature*** 
 
 
   
@@ -19516,7 +19515,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 来源：外研⑦ – 1  
 
 
-# ***in sb's shoes*** 
+# *** *in sb's shoes*** 
 
 
   
@@ -19530,7 +19529,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 别再生气了，要设身处地地为他们想一想。  
 
 
-# ***in search of*** 
+# *** *in search of*** 
 
 
   
@@ -19544,7 +19543,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 来源：2009 安徽改  
 
 
-# ***in secret*** 
+# *** *in secret*** 
 
 
   
@@ -19557,7 +19556,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 在将近5年的时间里，他们秘密通信。  
 
 
-# ***in shape*** 
+# *** *in shape*** 
 
 
   
@@ -19571,7 +19570,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 她每天早上慢跑一小时来保持健康。  
 
 
-# ***in shock*** 
+# *** *in shock*** 
 
 
   
@@ -19584,7 +19583,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 他们吃惊地坐在那里，不敢相信这是真的。  
 
 
-# ***in short*** 
+# *** *in short*** 
 
 
   
@@ -19598,7 +19597,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 来源：2008 全国改  
 
 
-# ***in sight*** 
+# *** *in sight*** 
 
 
   
@@ -19611,7 +19610,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我迅速向四周扫了一眼，一个人也没看见。  
 
 
-# ***in some ways*** 
+# *** *in some ways*** 
 
 
   
@@ -19621,7 +19620,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 1.**在某些方面**  
 
 
-# ***in spite of*** 
+# *** *in spite of*** 
 
 
   
@@ -19635,7 +19634,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 来源：2008 福建  
 
 
-# ***in store*** 
+# *** *in store*** 
 
 
   
@@ -19653,7 +19652,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 她想知道等待她的会是什么样的命运。  
 
 
-# ***in support of*** 
+# *** *in support of*** 
 
 
   
@@ -19666,7 +19665,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 他做了一些实验来证明自己的观点。  
 
 
-# ***in surprise*** 
+# *** *in surprise*** 
 
 
   
@@ -19679,7 +19678,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 那人惊奇地问：“你是怎么知道的？”  
 
 
-# ***in terms of*** 
+# *** *in terms of*** 
 
 
   
@@ -19693,7 +19692,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 来源：外研③ – 2  
 
 
-# ***in terms of ...*** 
+# *** *in terms of ...*** 
 
 
   
@@ -19707,7 +19706,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 来源：外研③ – 2  
 
 
-# ***in that*** 
+# *** *in that*** 
 
 
   
@@ -19720,7 +19719,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我们都渴望真诚的友谊，因为它对我们的生活会产生深刻的影响。  
 
 
-# ***in that case*** 
+# *** *in that case*** 
 
 
   
@@ -19736,7 +19735,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 既然那样，为什么他还同意和她见面？  
 
 
-# ***in the (near) future*** 
+# *** *in the (near) future*** 
 
 
   
@@ -19758,7 +19757,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 来源：2016 江苏书面表达  
 
 
-# ***in the / sb's way*** 
+# *** *in the / sb's way*** 
 
 
   
@@ -19774,7 +19773,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 虽然我认为自己是在帮父母准备饭菜，但实际上只是碍手碍脚。  
 
 
-# ***in the absence of*** 
+# *** *in the absence of*** 
 
 
   
@@ -19788,7 +19787,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 来源：2017 全国改  
 
 
-# ***in the air*** 
+# *** *in the air*** 
 
 
   
@@ -19804,7 +19803,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 变革迫在眉睫。  
 
 
-# ***in the area of*** 
+# *** *in the area of*** 
 
 
   
@@ -19814,12 +19813,12 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 1.**在……领域**  
 
 
-# ***in the case of*** 
+# *** *in the case of*** 
 
 
   
 
-# ***in the dark*** 
+# *** *in the dark*** 
 
 
   
@@ -19832,7 +19831,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 请告诉我事故的经过。我还蒙在鼓里呢。  
 
 
-# ***in the distance*** 
+# *** *in the distance*** 
 
 
   
@@ -19846,7 +19845,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 来源：2015 浙江  
 
 
-# ***in the end*** 
+# *** *in the end*** 
 
 
   
@@ -19862,7 +19861,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 ### 辨析 finally, eventually, in the end, at last, lastly  
 五者都有“最后”之意。  
 
-# ***in the event*** 
+# *** *in the event*** 
 
 
   
@@ -19875,7 +19874,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我对考试提心吊胆，但其实我本不必担心，这次考试的确很容易。  
 
 
-# ***in the event of / (that)*** 
+# *** *in the event of / (that)*** 
 
 
   
@@ -19891,7 +19890,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 如果她还不知道，我会告诉她的。  
 
 
-# ***in the face of*** 
+# *** *in the face of*** 
 
 
   
@@ -19904,7 +19903,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 即使面对危险，他也镇定自若。  
 
 
-# ***in the flesh*** 
+# *** *in the flesh*** 
 
 
   
@@ -19918,7 +19917,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 来源：北师大② – 4  
 
 
-# ***in the front (of)*** 
+# *** *in the front (of)*** 
 
 
   
@@ -19935,7 +19934,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 
 Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物内的前部。  
 
-# ***in the hands of sb / in sb's hands*** 
+# *** *in the hands of sb / in sb's hands*** 
 
 
   
@@ -19948,7 +19947,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 这件事由警方在处理。  
 
 
-# ***in the history of*** 
+# *** *in the history of*** 
 
 
   
@@ -19958,7 +19957,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
 1.**在……历史上**  
 
 
-# ***in the hope of / in hopes that / in the hope that*** 
+# *** *in the hope of / in hopes that / in the hope that*** 
 
 
   
@@ -19971,7 +19970,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 我写这封信是希望你们能考虑这些问题并有所改进。  
 
 
-# ***in the lead*** 
+# *** *in the lead*** 
 
 
   
@@ -19981,7 +19980,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
 1.**领先**  
 
 
-# ***in the long / short term*** 
+# *** *in the long / short term*** 
 
 
   
@@ -19991,7 +19990,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
 1.**从长远 / 眼前看**  
 
 
-# ***in the long term*** 
+# *** *in the long term*** 
 
 
   
@@ -20001,7 +20000,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
 1.**从长远角度看**  
 
 
-# ***in the meantime*** 
+# *** *in the meantime*** 
 
 
   
@@ -20014,7 +20013,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 医生很快就来。现在尽量放松一下吧。  
 
 
-# ***in the meanwhile / meantime*** 
+# *** *in the meanwhile / meantime*** 
 
 
   
@@ -20027,12 +20026,12 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 你去叫辆出租车，趁这工夫我打包点吃的。  
 
 
-# ***in the middle of*** 
+# *** *in the middle of*** 
 
 
   
 
-# ***in the name of*** 
+# *** *in the name of*** 
 
 
   
@@ -20048,7 +20047,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 我已经用你的名字预订了一张桌子。  
 
 
-# ***in the open air*** 
+# *** *in the open air*** 
 
 
   
@@ -20058,7 +20057,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
 1.**露天；在户外**  
 
 
-# ***in the order of*** 
+# *** *in the order of*** 
 
 
   
@@ -20071,7 +20070,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 她的年收入约为8万英镑。  
 
 
-# ***in the possession of*** 
+# *** *in the possession of*** 
 
 
   
@@ -20084,7 +20083,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 那张画为汤姆所有。  
 
 
-# ***in the presence of sb / in sb's presence*** 
+# *** *in the presence of sb / in sb's presence*** 
 
 
   
@@ -20097,7 +20096,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 他当着全家人的面向她道歉。  
 
 
-# ***in the process*** 
+# *** *in the process*** 
 
 
   
@@ -20110,7 +20109,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 我把咖啡洒了出来，还烫到了自己。  
 
 
-# ***in the same boat*** 
+# *** *in the same boat*** 
 
 
   
@@ -20123,7 +20122,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 我和她同病相怜,考试都没及格。  
 
 
-# ***in the world*** 
+# *** *in the world*** 
 
 
   
@@ -20143,7 +20142,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 来源：2010 浙江  
 
 
-# ***in theory*** 
+# *** *in theory*** 
 
 
   
@@ -20156,7 +20155,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 理论上讲这是不错，但能否行得通?  
 
 
-# ***in this case*** 
+# *** *in this case*** 
 
 
   
@@ -20169,7 +20168,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 你可能会想要放弃学习。在这种情况下，你要认真思考一下再作决定。  
 
 
-# ***in time*** 
+# *** *in time*** 
 
 
   
@@ -20185,7 +20184,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 如果坚持下去，你迟早会成功的。  
 
 
-# ***in total*** 
+# *** *in total*** 
 
 
   
@@ -20199,7 +20198,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 来源：外研② – 5  
 
 
-# ***in trouble*** 
+# *** *in trouble*** 
 
 
   
@@ -20212,7 +20211,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 我们应信任并尊重我们的朋友，在他们有困难的时候帮助他们。  
 
 
-# ***in truth*** 
+# *** *in truth*** 
 
 
   
@@ -20225,7 +20224,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 她虽然谈笑风生，但实际上并不开心。  
 
 
-# ***in tune*** 
+# *** *in tune*** 
 
 
   
@@ -20241,7 +20240,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 跟上时代潮流  
 
 
-# ***in turn*** 
+# *** *in turn*** 
 
 
   
@@ -20258,7 +20257,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 来源：北师大③ – 8  
 
 
-# ***in use*** 
+# *** *in use*** 
 
 
   
@@ -20272,7 +20271,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 来源：2008 福建  
 
 
-# ***in vain*** 
+# *** *in vain*** 
 
 
   
@@ -20286,7 +20285,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 来源：2010 江苏  
 
 
-# ***in view of*** 
+# *** *in view of*** 
 
 
   
@@ -20299,7 +20298,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 由于天气的缘故，这项比赛将在室内进行。  
 
 
-# ***in … case(s)*** 
+# *** *in … case(s)*** 
 
 
   
@@ -20312,7 +20311,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 在某种情况下这些说法是正确的，但是在其他情况下就是非常错误的。  
 
 
-# ***inch by inch*** 
+# *** *inch by inch*** 
 
 
   
@@ -20325,7 +20324,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 我慢慢地爬了进去。  
 
 
-# ***infantile paralysis*** 
+# *** *infantile paralysis*** 
 英音 ˈɪnfənˌtaɪl pəˈrælɪsɪs     美音 ˈɪnfənˌtaɪl pəˈrælɪsɪs  
 
   
@@ -20335,7 +20334,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
 1.*高义频：* **小儿麻痹**  
 
 
-# ***inside out*** 
+# *** *inside out*** 
 
 
   
@@ -20348,7 +20347,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 孩子们把衬衫穿反了。  
 
 
-# ***insist on*** 
+# *** *insist on*** 
 
 
   
@@ -20362,7 +20361,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 来源：北师大④ – 12  
 
 
-# ***instead of*** 
+# *** *instead of*** 
 
 
   
@@ -20382,12 +20381,12 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 来源：2012 江苏书面表达  
 
 
-# ***it (so) happens that / as it happens*** 
+# *** *it (so) happens that / as it happens*** 
 
 
   
 
-# ***it can't be helped*** 
+# *** *it can't be helped*** 
 
 
   
@@ -20400,7 +20399,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 她说自己不得不暂时离开他，那是没办法的事。  
 
 
-# ***it depends*** 
+# *** *it depends*** 
 
 
   
@@ -20410,7 +20409,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
 1.**那得看情况**  
 
 
-# ***it is no use doing sth*** 
+# *** *it is no use doing sth*** 
 
 
   
@@ -20424,7 +20423,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 来源：译林⑤ – 1  
 
 
-# ***it is not until … that*** 
+# *** *it is not until … that*** 
 
 
   
@@ -20437,7 +20436,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 直到30岁，他才开始画画。  
 
 
-# ***it is said that ...*** 
+# *** *it is said that ...*** 
 
 
   
@@ -20455,7 +20454,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 据说他是个艺术家。  
 
 
-# ***it stands to reason (that)*** 
+# *** *it stands to reason (that)*** 
 
 
   
@@ -20468,7 +20467,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 乔既聪明又用功，他肯定会通过考试。  
 
 
-# ***it won't / doesn't hurt (sb) to do sth*** 
+# *** *it won't / doesn't hurt (sb) to do sth*** 
 
 
   
@@ -20481,7 +20480,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你不妨偶尔帮忙做下家务。  
 
 
-# ***it's (about / high) time sb did sth*** 
+# *** *it's (about / high) time sb did sth*** 
 
 
   
@@ -20494,7 +20493,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你该打扫房间了！  
 
 
-# ***it's a pleasure / (it's) my pleasure*** 
+# *** *it's a pleasure / (it's) my pleasure*** 
 
 
   
@@ -20510,7 +20509,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 别客气。  
 
 
-# ***jet lag*** 
+# *** *jet lag*** 
 英音 dʒet læɡ     美音 dʒet læɡ  
 
 | 词频 1 |  
@@ -20520,7 +20519,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.*高义频：* **飞行时差反应**  
 
 
-# ***join in*** 
+# *** *join in*** 
 
 
   
@@ -20536,7 +20535,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 辨析 join, join in, take part in, attend
 四者都常译为“参加”。  
 
-# ***join up*** 
+# *** *join up*** 
 
 
   
@@ -20546,7 +20545,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**参军**  
 
 
-# ***junior high*** 
+# *** *junior high*** 
 
 
   
@@ -20556,7 +20555,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**初中**  
 
 
-# ***junior high school*** 
+# *** *junior high school*** 
 
 
   
@@ -20566,7 +20565,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**（美国）初级中学**  
 
 
-# ***just a minute / moment / second*** 
+# *** *just a minute / moment / second*** 
 
 
   
@@ -20579,7 +20578,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 等一下，玛格丽特，我想把你介绍给贝蒂。  
 
 
-# ***just about*** 
+# *** *just about*** 
 
 
   
@@ -20593,7 +20592,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2013 全国  
 
 
-# ***just now*** 
+# *** *just now*** 
 
 
   
@@ -20609,7 +20608,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 现在别讨论这件事。  
 
 
-# ***keep (...) in mind*** 
+# *** *keep (...) in mind*** 
 
 
   
@@ -20623,7 +20622,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2008 全国  
 
 
-# ***keep (on) doing sth*** 
+# *** *keep (on) doing sth*** 
 
 
   
@@ -20637,7 +20636,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2008 山东  
 
 
-# ***keep ... free from / of*** 
+# *** *keep ... free from / of*** 
 
 
   
@@ -20650,7 +20649,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 这可以让空气、土壤、水以及农作物免受化学物质的污染。  
 
 
-# ***keep ... out (of)*** 
+# *** *keep ... out (of)*** 
 
 
   
@@ -20663,7 +20662,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 别让这只狗进书房。  
 
 
-# ***keep / stay in touch (with)*** 
+# *** *keep / stay in touch (with)*** 
 
 
   
@@ -20677,7 +20676,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2012 湖南  
 
 
-# ***keep / stay out of sb's way*** 
+# *** *keep / stay out of sb's way*** 
 
 
   
@@ -20690,7 +20689,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 她心情这样不好的时候咱们避开她吧。  
 
 
-# ***keep / stay out of trouble*** 
+# *** *keep / stay out of trouble*** 
 
 
   
@@ -20703,7 +20702,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我希望蒂姆今年能远离麻烦。  
 
 
-# ***keep an eye on*** 
+# *** *keep an eye on*** 
 
 
   
@@ -20720,7 +20719,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2011 四川  
 
 
-# ***keep an eye out (for)*** 
+# *** *keep an eye out (for)*** 
 
 
   
@@ -20734,7 +20733,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2010 江西  
 
 
-# ***keep balance*** 
+# *** *keep balance*** 
 
 
   
@@ -20747,7 +20746,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我穿着新溜冰鞋，努力保持平衡。  
 
 
-# ***keep body and soul together*** 
+# *** *keep body and soul together*** 
 
 
   
@@ -20760,7 +20759,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 她几乎挣不够维持温饱的钱。  
 
 
-# ***keep company (with)*** 
+# *** *keep company (with)*** 
 
 
   
@@ -20770,7 +20769,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**(和…) 经常交往**  
 
 
-# ***keep cool*** 
+# *** *keep cool*** 
 
 
   
@@ -20780,7 +20779,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**保持冷静**  
 
 
-# ***keep early / late hours*** 
+# *** *keep early / late hours*** 
 
 
   
@@ -20790,7 +20789,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**早睡早起 / 晚睡晚起**  
 
 
-# ***keep friends with*** 
+# *** *keep friends with*** 
 
 
   
@@ -20800,7 +20799,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**与…保持友好关系**  
 
 
-# ***keep going*** 
+# *** *keep going*** 
 
 
   
@@ -20814,7 +20813,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2013 四川  
 
 
-# ***keep in touch*** 
+# *** *keep in touch*** 
 
 
   
@@ -20828,7 +20827,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2012 湖南  
 
 
-# ***keep in touch with*** 
+# *** *keep in touch with*** 
 
 
   
@@ -20842,7 +20841,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：译林⑦ – 3  
 
 
-# ***keep it up*** 
+# *** *keep it up*** 
 
 
   
@@ -20855,7 +20854,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我们太累了，但还是满怀热情地继续做下去。  
 
 
-# ***keep off*** 
+# *** *keep off*** 
 
 
   
@@ -20874,7 +20873,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 牌子上写着“请勿践踏草坪”。  
 
 
-# ***keep on*** 
+# *** *keep on*** 
 
 
   
@@ -20892,7 +20891,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 雨一连下了好几天。  
 
 
-# ***keep one's distance*** 
+# *** *keep one's distance*** 
 
 
   
@@ -20902,7 +20901,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**保持距离　**  
 
 
-# ***keep one's eyes on*** 
+# *** *keep one's eyes on*** 
 
 
   
@@ -20912,7 +20911,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**注视，盯着看**  
 
 
-# ***keep one's mouth shut*** 
+# *** *keep one's mouth shut*** 
 
 
   
@@ -20922,7 +20921,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**保守秘密；守口如瓶**  
 
 
-# ***keep one's word*** 
+# *** *keep one's word*** 
 
 
   
@@ -20936,7 +20935,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：外研③ – 1  
 
 
-# ***keep pace with*** 
+# *** *keep pace with*** 
 
 
   
@@ -20946,7 +20945,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**（与……）步调一致，（与……）同步**  
 
 
-# ***keep sb / sth from doing sth*** 
+# *** *keep sb / sth from doing sth*** 
 
 
   
@@ -20959,7 +20958,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 一定不要让他们知道我们的计划。  
 
 
-# ***keep sb company*** 
+# *** *keep sb company*** 
 
 
   
@@ -20972,7 +20971,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我答应妹妹在她丈夫不在的时候陪伴她。  
 
 
-# ***keep to*** 
+# *** *keep to*** 
 
 
   
@@ -20989,7 +20988,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 不管你怎么争辩，我都将坚持自己的决定。  
 
 
-# ***keep track of*** 
+# *** *keep track of*** 
 
 
   
@@ -21002,7 +21001,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他们每天阅读报纸，以了解时事。  
 
 
-# ***keep up*** 
+# *** *keep up*** 
 
 
   
@@ -21024,7 +21023,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2017 全国  
 
 
-# ***keep up with*** 
+# *** *keep up with*** 
 
 
   
@@ -21040,7 +21039,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我要快走才能跟上他。  
 
 
-# ***keep watch (for)*** 
+# *** *keep watch (for)*** 
 
 
   
@@ -21053,12 +21052,12 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 当同学们在教室追逐嬉闹的时候，他总是望风，注意看老师来了没有。  
 
 
-# ***keep watch for*** 
+# *** *keep watch for*** 
 
 
   
 
-# ***keep your eyes open (for)*** 
+# *** *keep your eyes open (for)*** 
 
 
   
@@ -21071,7 +21070,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 要留心田里的兔子。  
 
 
-# ***kick off*** 
+# *** *kick off*** 
 
 
   
@@ -21084,7 +21083,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 北京艺术节将在4月27日开始，持续到5月31日。  
 
 
-# ***kick the habit*** 
+# *** *kick the habit*** 
 
 
   
@@ -21098,7 +21097,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2009 山东  
 
 
-# ***kill two birds with one stone*** 
+# *** *kill two birds with one stone*** 
 
 
   
@@ -21108,7 +21107,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**一举两得，一箭双雕**  
 
 
-# ***kind of*** 
+# *** *kind of*** 
 
 
   
@@ -21122,7 +21121,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你没出现我有点不安。  
 
 
-# ***kiss sth goodbye / kiss goodbye to sth*** 
+# *** *kiss sth goodbye / kiss goodbye to sth*** 
 
 
   
@@ -21136,7 +21135,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2008 北京  
 
 
-# ***knock ... over*** 
+# *** *knock ... over*** 
 
 
   
@@ -21150,7 +21149,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：外研⑥ – 3  
 
 
-# ***knock at / on*** 
+# *** *knock at / on*** 
 
 
   
@@ -21163,7 +21162,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 进来之前请敲门。  
 
 
-# ***knock down*** 
+# *** *knock down*** 
 
 
   
@@ -21182,7 +21181,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 这些老房子迟早得拆掉。  
 
 
-# ***knock into*** 
+# *** *knock into*** 
 
 
   
@@ -21195,7 +21194,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他如此匆忙，差点儿撞到我身上。  
 
 
-# ***knock into sb.*** 
+# *** *knock into sb.*** 
 
 
   
@@ -21208,7 +21207,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他如此匆忙，差点儿撞到我身上。  
 
 
-# ***knock off*** 
+# *** *knock off*** 
 
 
   
@@ -21221,7 +21220,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 如果买10个以上的话，他们会便宜20便士。  
 
 
-# ***knock out*** 
+# *** *knock out*** 
 
 
   
@@ -21231,7 +21230,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**摧毁**  
 
 
-# ***knock over*** 
+# *** *knock over*** 
 
 
   
@@ -21245,7 +21244,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：外研⑥ – 3  
 
 
-# ***knock sb. over*** 
+# *** *knock sb. over*** 
 
 
   
@@ -21259,7 +21258,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：外研⑥ – 3  
 
 
-# ***know about*** 
+# *** *know about*** 
 
 
   
@@ -21276,7 +21275,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我不知道你怎么办，反正我要吃点东西。  
 
 
-# ***know of*** 
+# *** *know of*** 
 
 
   
@@ -21289,7 +21288,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我不认识他，但听说过他。  
 
 
-# ***kung fu*** n
+# *** *kung fu*** n
 英音 ˌkʌŋ'fuː     美音 ˌkʌŋ'fuː  
 
 | 词频 1 |  
@@ -21299,7 +21298,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**(中国) 功夫**  
 
 
-# ***lack (for) nothing*** 
+# *** *lack (for) nothing*** 
 
 
   
@@ -21312,7 +21311,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他很富有，什么都不缺。  
 
 
-# ***land (sb) in*** 
+# *** *land (sb) in*** 
 
 
   
@@ -21322,7 +21321,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**使 (某人) 陷入 (困境)**  
 
 
-# ***last but not least*** 
+# *** *last but not least*** 
 
 
   
@@ -21336,7 +21335,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2010 福建书面表达改  
 
 
-# ***later on*** 
+# *** *later on*** 
 
 
   
@@ -21349,7 +21348,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 后来他认识到了自己的错误。  
 
 
-# ***laugh at*** 
+# *** *laugh at*** 
 
 
   
@@ -21363,7 +21362,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：人教⑥ – 3  
 
 
-# ***law and order*** 
+# *** *law and order*** 
 
 
   
@@ -21373,7 +21372,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**法治**  
 
 
-# ***lay down*** 
+# *** *lay down*** 
 
 
   
@@ -21393,7 +21392,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2017 天津改  
 
 
-# ***lay eggs*** 
+# *** *lay eggs*** 
 
 
   
@@ -21406,7 +21405,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他收集蝴蝶，然后把它们带到实验室产卵。  
 
 
-# ***lay off*** 
+# *** *lay off*** 
 
 
   
@@ -21426,7 +21425,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 这家工厂在12月份解雇了50名工人。  
 
 
-# ***lay out*** 
+# *** *lay out*** 
 
 
   
@@ -21440,7 +21439,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2015 全国  
 
 
-# ***lead a ... life*** 
+# *** *lead a ... life*** 
 
 
   
@@ -21453,7 +21452,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 过着幸福的/艰苦的/舒适的/简朴的生活  
 
 
-# ***lead the way*** 
+# *** *lead the way*** 
 
 
   
@@ -21467,7 +21466,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：人教③ – 3  
 
 
-# ***lead to*** 
+# *** *lead to*** 
 
 
   
@@ -21480,7 +21479,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 缺乏自信会导致很多痛苦。  
 
 
-# ***lead up to*** 
+# *** *lead up to*** 
 
 
   
@@ -21493,7 +21492,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 导致罢工的事件  
 
 
-# ***learn ... by heart*** 
+# *** *learn ... by heart*** 
 
 
   
@@ -21506,7 +21505,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我必须熟记一首诗歌在校音乐会上朗诵。  
 
 
-# ***leave ... alone*** 
+# *** *leave ... alone*** 
 
 
   
@@ -21519,7 +21518,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你为什么不管好自己的事，别来打扰我？  
 
 
-# ***leave ... behind*** 
+# *** *leave ... behind*** 
 
 
   
@@ -21532,7 +21531,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 萨拉腿长，很快就把我们中的其他人抛在身后。  
 
 
-# ***leave / let sb alone*** 
+# *** *leave / let sb alone*** 
 
 
   
@@ -21545,7 +21544,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 为什么你就不能少管闲事不打扰我？  
 
 
-# ***leave / let sth alone*** 
+# *** *leave / let sth alone*** 
 
 
   
@@ -21558,7 +21557,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 别动那些蛋糕，那是给客人吃的。  
 
 
-# ***leave behind*** 
+# *** *leave behind*** 
 
 
   
@@ -21585,7 +21584,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 她知道童年一去不复返了。  
 
 
-# ***leave for*** 
+# *** *leave for*** 
 
 
   
@@ -21598,7 +21597,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 动身去伦敦  
 
 
-# ***leave off*** 
+# *** *leave off*** 
 
 
   
@@ -21620,7 +21619,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2011 浙江  
 
 
-# ***leave one's mark on*** 
+# *** *leave one's mark on*** 
 
 
   
@@ -21633,7 +21632,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 温斯顿 · 丘吉尔已然在世界历史上留下了大名。  
 
 
-# ***leave out*** 
+# *** *leave out*** 
 
 
   
@@ -21653,7 +21652,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 有了孩子后，初为人父者往往有一种被冷落的感觉。  
 
 
-# ***leave over*** 
+# *** *leave over*** 
 
 
   
@@ -21670,7 +21669,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 留守儿童  
 
 
-# ***leave room for*** 
+# *** *leave room for*** 
 
 
   
@@ -21680,7 +21679,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**为…留有余地**  
 
 
-# ***less and less*** 
+# *** *less and less*** 
 
 
   
@@ -21697,7 +21696,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我爷爷现在出门越来越少了。  
 
 
-# ***less than*** 
+# *** *less than*** 
 
 
   
@@ -21711,7 +21710,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2008 江西  
 
 
-# ***let ... alone / be*** 
+# *** *let ... alone / be*** 
 
 
   
@@ -21727,7 +21726,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 别管他，他需要一点儿自由。  
 
 
-# ***let alone*** 
+# *** *let alone*** 
 
 
   
@@ -21741,7 +21740,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2009 江苏书面表达  
 
 
-# ***let down*** 
+# *** *let down*** 
 
 
   
@@ -21754,7 +21753,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我们不想让他失望。  
 
 
-# ***let go (of)*** 
+# *** *let go (of)*** 
 
 
   
@@ -21774,7 +21773,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2013 辽宁  
 
 
-# ***let me see / let's see*** 
+# *** *let me see / let's see*** 
 
 
   
@@ -21790,7 +21789,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 让我想想。应该在餐桌上。  
 
 
-# ***let off*** 
+# *** *let off*** 
 
 
   
@@ -21809,7 +21808,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：译林⑤–2  
 
 
-# ***let off steam*** 
+# *** *let off steam*** 
 
 
   
@@ -21819,7 +21818,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**发泄怒火，宣泄情绪**  
 
 
-# ***let out*** 
+# *** *let out*** 
 
 
   
@@ -21836,7 +21835,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 目前尚不清楚是谁泄露了秘密。  
 
 
-# ***let sb. down*** 
+# *** *let sb. down*** 
 
 
   
@@ -21849,7 +21848,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我们不想让他失望。  
 
 
-# ***let … in*** 
+# *** *let … in*** 
 
 
   
@@ -21867,7 +21866,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2009 福建改  
 
 
-# ***lie around / about*** 
+# *** *lie around / about*** 
 
 
   
@@ -21882,7 +21881,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 2.*高义频：* **无所事事地混日子**  
 
 
-# ***lie down*** 
+# *** *lie down*** 
 
 
   
@@ -21898,7 +21897,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 这件事我是不会罢休的。  
 
 
-# ***lie in*** 
+# *** *lie in*** 
 
 
   
@@ -21914,7 +21913,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 她告诉我快乐的真谛在于帮助他人获得快乐。  
 
 
-# ***life expectancy*** 
+# *** *life expectancy*** 
 
 
   
@@ -21924,7 +21923,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**预期寿命**  
 
 
-# ***life jacket*** n
+# *** *life jacket*** n
 
 
 | 词频 1 |  
@@ -21934,7 +21933,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**救生衣**  
 
 
-# ***lift up*** 
+# *** *lift up*** 
 
 
   
@@ -21944,7 +21943,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**举起**  
 
 
-# ***light bulb*** n
+# *** *light bulb*** n
 
 
 | 词频 1 |  
@@ -21954,7 +21953,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**电灯泡**  
 
 
-# ***light up*** 
+# *** *light up*** 
 
 
   
@@ -21970,7 +21969,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 她的脸上露出欣喜的神色。  
 
 
-# ***limit … to*** 
+# *** *limit … to*** 
 
 
   
@@ -21986,7 +21985,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我只允许自己一天喝两杯咖啡。  
 
 
-# ***line up*** 
+# *** *line up*** 
 
 
   
@@ -22002,7 +22001,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你下一个任务是去找个好乐队，然后排好他们在舞会上的位置。  
 
 
-# ***link ... to*** 
+# *** *link ... to*** 
 
 
   
@@ -22018,7 +22017,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 黄色一般与自信、自尊和友好相关。  
 
 
-# ***link ... to / with*** 
+# *** *link ... to / with*** 
 
 
   
@@ -22034,7 +22033,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 黄色一般与自信、自尊和友好相关。  
 
 
-# ***link up*** 
+# *** *link up*** 
 
 
   
@@ -22044,7 +22043,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**联合，连接**  
 
 
-# ***listen for*** 
+# *** *listen for*** 
 
 
   
@@ -22054,7 +22053,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**留神等着听**  
 
 
-# ***listen in*** 
+# *** *listen in*** 
 
 
   
@@ -22071,7 +22070,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2009 全国改  
 
 
-# ***little by little*** 
+# *** *little by little*** 
 
 
   
@@ -22084,7 +22083,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 看来他的健康状况正在逐渐好转。  
 
 
-# ***live a ... life*** 
+# *** *live a ... life*** 
 
 
   
@@ -22098,7 +22097,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：外研③ – 6  
 
 
-# ***live by*** 
+# *** *live by*** 
 
 
   
@@ -22111,7 +22110,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他以写作/教书为生。  
 
 
-# ***live on*** 
+# *** *live on*** 
 
 
   
@@ -22132,7 +22131,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他靠每月500美元的薪水生活。  
 
 
-# ***live through*** 
+# *** *live through*** 
 
 
   
@@ -22145,7 +22144,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我的爷爷经历过两次世界大战。  
 
 
-# ***live up to*** 
+# *** *live up to*** 
 
 
   
@@ -22158,7 +22157,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他辜负了父母的期望。  
 
 
-# ***live with*** 
+# *** *live with*** 
 
 
   
@@ -22171,7 +22170,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你可能不喜欢这种情况，但你必须学会忍受。  
 
 
-# ***loads of / a load of*** 
+# *** *loads of / a load of*** 
 
 
   
@@ -22185,7 +22184,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：北师大④ – 12  
 
 
-# ***log in / on*** 
+# *** *log in / on*** 
 
 
   
@@ -22198,7 +22197,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你需要密码才能登录。  
 
 
-# ***look about / around / round (for)*** 
+# *** *look about / around / round (for)*** 
 
 
   
@@ -22214,7 +22213,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我正在四处找地方住。  
 
 
-# ***look after*** 
+# *** *look after*** 
 
 
   
@@ -22228,7 +22227,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2012 陕西  
 
 
-# ***look ahead*** 
+# *** *look ahead*** 
 
 
   
@@ -22241,7 +22240,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我们是时候该考虑一下未来了。  
 
 
-# ***look ahead (to sth)*** 
+# *** *look ahead (to sth)*** 
 
 
   
@@ -22254,7 +22253,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我们是时候该考虑一下未来了。  
 
 
-# ***look around for*** 
+# *** *look around for*** 
 
 
   
@@ -22267,7 +22266,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 在那以后，我四处找地方住。  
 
 
-# ***look at*** 
+# *** *look at*** 
 
 
   
@@ -22285,7 +22284,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2009 上海  
 
 
-# ***look away from*** 
+# *** *look away from*** 
 
 
   
@@ -22298,7 +22297,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 不要把目光从正在和你说话的人的脸上移开。  
 
 
-# ***look back*** 
+# *** *look back*** 
 
 
   
@@ -22311,7 +22310,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他回头看见有个警察正在追他。  
 
 
-# ***look back (on)*** 
+# *** *look back (on)*** 
 
 
   
@@ -22325,7 +22324,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2009 浙江  
 
 
-# ***look back at*** 
+# *** *look back at*** 
 
 
   
@@ -22335,7 +22334,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**回顾，回忆**  
 
 
-# ***look back on / to*** 
+# *** *look back on / to*** 
 
 
   
@@ -22352,7 +22351,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 回顾2017年，我为我们所取得的成就感到骄傲。  
 
 
-# ***look back over one's shoulder*** 
+# *** *look back over one's shoulder*** 
 
 
   
@@ -22362,7 +22361,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**回头看**  
 
 
-# ***look down on*** 
+# *** *look down on*** 
 
 
   
@@ -22379,7 +22378,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 不要轻视不如你的人。  
 
 
-# ***look down on / upon*** 
+# *** *look down on / upon*** 
 
 
   
@@ -22396,7 +22395,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 不要轻视不如你的人。  
 
 
-# ***look down upon / on*** 
+# *** *look down upon / on*** 
 
 
   
@@ -22413,7 +22412,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 不要轻视不如你的人。  
 
 
-# ***look for*** 
+# *** *look for*** 
 
 
   
@@ -22427,7 +22426,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：北师大⑧ – 24  
 
 
-# ***look forward to*** 
+# *** *look forward to*** 
 
 
   
@@ -22445,7 +22444,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源： 外研② – 4  
 
 
-# ***look forward to (doing) sth*** 
+# *** *look forward to (doing) sth*** 
 
 
   
@@ -22463,7 +22462,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源： 外研② – 4  
 
 
-# ***look into*** 
+# *** *look into*** 
 
 
   
@@ -22476,7 +22475,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 警方正在调查两个孩子失踪的事件。  
 
 
-# ***look on*** 
+# *** *look on*** 
 
 
   
@@ -22489,7 +22488,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 学生们在游泳池里游泳，老师在一旁看着。  
 
 
-# ***look on / upon ... as*** 
+# *** *look on / upon ... as*** 
 
 
   
@@ -22506,7 +22505,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2018 浙江改  
 
 
-# ***look out*** 
+# *** *look out*** 
 
 
   
@@ -22522,7 +22521,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 这是个野营的好地方，但你要提防蛇出没。  
 
 
-# ***look out (for)*** 
+# *** *look out (for)*** 
 
 
   
@@ -22538,7 +22537,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 这是个野营的好地方，但你要提防蛇出没。  
 
 
-# ***look sb up and down*** 
+# *** *look sb up and down*** 
 
 
   
@@ -22551,7 +22550,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他眯着眼睛上下打量我。  
 
 
-# ***look through*** 
+# *** *look through*** 
 
 
   
@@ -22567,7 +22566,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我必须在付款前查看并核对一下这些账单。  
 
 
-# ***look up*** 
+# *** *look up*** 
 
 
   
@@ -22584,7 +22583,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 如果有不懂的单词就查字典。  
 
 
-# ***look up to*** 
+# *** *look up to*** 
 
 
   
@@ -22597,7 +22596,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我尊敬他，因为他是个真正的艺术家。  
 
 
-# ***loose conduct*** 
+# *** *loose conduct*** 
 
 
   
@@ -22607,7 +22606,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**行为不检点, 品行不端**  
 
 
-# ***loose lips sink ships*** 
+# *** *loose lips sink ships*** 
 
 
   
@@ -22617,7 +22616,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**祸从口出**  
 
 
-# ***lose control (of / over)*** 
+# *** *lose control (of / over)*** 
 
 
   
@@ -22630,7 +22629,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 她完全失去了对车的控制。  
 
 
-# ***lose face*** 
+# *** *lose face*** 
 
 
   
@@ -22643,7 +22642,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 她害怕如果失败会很没面子。  
 
 
-# ***lose heart*** 
+# *** *lose heart*** 
 
 
   
@@ -22656,7 +22655,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 无论发生什么事，都不要灰心。  
 
 
-# ***lose interest in*** 
+# *** *lose interest in*** 
 
 
   
@@ -22666,7 +22665,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**对……失去兴趣**  
 
 
-# ***lose oneself in*** 
+# *** *lose oneself in*** 
 
 
   
@@ -22679,7 +22678,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 她专注地听着音乐，完全沉浸在美妙的旋律之中。  
 
 
-# ***lose sight of*** 
+# *** *lose sight of*** 
 
 
   
@@ -22696,7 +22695,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2009 福建  
 
 
-# ***lose touch (with)*** 
+# *** *lose touch (with)*** 
 
 
   
@@ -22710,7 +22709,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：外研⑥ – 3  
 
 
-# ***lose touch with*** 
+# *** *lose touch with*** 
 
 
   
@@ -22724,7 +22723,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：外研⑥ – 3  
 
 
-# ***lose track of*** 
+# *** *lose track of*** 
 
 
   
@@ -22740,7 +22739,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我玩得很愉快，以至于都忘了时间。  
 
 
-# ***lose weight*** 
+# *** *lose weight*** 
 
 
   
@@ -22754,7 +22753,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2014 北京改  
 
 
-# ***lunar month*** 
+# *** *lunar month*** 
 
 
   
@@ -22764,7 +22763,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**太阴月, 阴历一个月**  
 
 
-# ***make (both) ends meet*** 
+# *** *make (both) ends meet*** 
 
 
   
@@ -22777,7 +22776,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我们本月入不敷出。  
 
 
-# ***make (one's) peace with*** 
+# *** *make (one's) peace with*** 
 
 
   
@@ -22790,7 +22789,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 争吵了两周后，他们终于和好了。  
 
 
-# ***make / earn a living*** 
+# *** *make / earn a living*** 
 
 
   
@@ -22809,7 +22808,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 辨析 living, alive
 二者均可用作形容词，有“活着的”、“在世的”之意，但用法不尽相同。  
 
-# ***make / pull a face / faces*** 
+# *** *make / pull a face / faces*** 
 
 
   
@@ -22822,7 +22821,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 老师转过身去的时候，孩子们互相做鬼脸。  
 
 
-# ***make / take notes*** 
+# *** *make / take notes*** 
 
 
   
@@ -22836,7 +22835,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2012 全国  
 
 
-# ***make a / no difference*** 
+# *** *make a / no difference*** 
 
 
   
@@ -22855,7 +22854,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2015 湖北  
 
 
-# ***make a bet*** 
+# *** *make a bet*** 
 
 
   
@@ -22868,7 +22867,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你曾经和朋友打过赌吗？  
 
 
-# ***make a breakthrough*** 
+# *** *make a breakthrough*** 
 
 
   
@@ -22878,7 +22877,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**取得重大突破（进展）**  
 
 
-# ***make a contrast with*** 
+# *** *make a contrast with*** 
 
 
   
@@ -22891,7 +22890,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 白色的墙壁与黑色的地毯形成了鲜明的对比。  
 
 
-# ***make a deal*** 
+# *** *make a deal*** 
 
 
   
@@ -22901,7 +22900,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**达成协议；做成交易**  
 
 
-# ***make a difference*** 
+# *** *make a difference*** 
 
 
   
@@ -22915,7 +22914,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：人教⑥ – 4  
 
 
-# ***make a fool of*** 
+# *** *make a fool of*** 
 
 
   
@@ -22928,7 +22927,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我们全都被推销员骗了。  
 
 
-# ***make a fool of oneself*** 
+# *** *make a fool of oneself*** 
 
 
   
@@ -22938,7 +22937,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**干蠢事；出洋相**  
 
 
-# ***make a life*** 
+# *** *make a life*** 
 
 
   
@@ -22951,7 +22950,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 获取得以生存，给予得以生活。  
 
 
-# ***make a living*** 
+# *** *make a living*** 
 
 
   
@@ -22965,7 +22964,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：北师大④ – 10  
 
 
-# ***make a name (for oneself) / make one's name*** 
+# *** *make a name (for oneself) / make one's name*** 
 
 
   
@@ -22978,7 +22977,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 她最初以写儿童读物成名。  
 
 
-# ***make a note of*** 
+# *** *make a note of*** 
 
 
   
@@ -22991,7 +22990,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 戴夫记下了她的地址。  
 
 
-# ***make a point of doing sth*** 
+# *** *make a point of doing sth*** 
 
 
   
@@ -23004,7 +23003,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 星期六他必定要和孩子们在一起。  
 
 
-# ***make a proposal*** 
+# *** *make a proposal*** 
 
 
   
@@ -23017,7 +23016,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他提议会议延期。  
 
 
-# ***make a sound*** 
+# *** *make a sound*** 
 
 
   
@@ -23030,7 +23029,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他偷偷地溜进房子里，尽量不发出一点儿声音。  
 
 
-# ***make allowance(s) for*** 
+# *** *make allowance(s) for*** 
 
 
   
@@ -23043,7 +23042,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 老板体谅他身体不好，让他每天工作六小时而不是八小时。  
 
 
-# ***make an impression*** 
+# *** *make an impression*** 
 
 
   
@@ -23059,7 +23058,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 她努力给主持面试者留个好印象。  
 
 
-# ***make an impression on sb.*** 
+# *** *make an impression on sb.*** 
 
 
   
@@ -23069,7 +23068,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**给某人留下印象**  
 
 
-# ***make contact with*** 
+# *** *make contact with*** 
 
 
   
@@ -23082,7 +23081,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我设法与一位老朋友取得了联系。  
 
 
-# ***make efforts*** 
+# *** *make efforts*** 
 
 
   
@@ -23095,7 +23094,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我决心更加努力提高英语水平。  
 
 
-# ***make friends*** 
+# *** *make friends*** 
 
 
   
@@ -23109,7 +23108,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2008 广东改  
 
 
-# ***make friends again*** 
+# *** *make friends again*** 
 
 
   
@@ -23119,7 +23118,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**言归于好；重修旧好**  
 
 
-# ***make fun of*** 
+# *** *make fun of*** 
 
 
   
@@ -23133,7 +23132,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：人教⑦ – 1  
 
 
-# ***make history*** 
+# *** *make history*** 
 
 
   
@@ -23146,7 +23145,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 奥巴马是美国历史上首位黑人总统。  
 
 
-# ***make it*** 
+# *** *make it*** 
 
 
   
@@ -23180,7 +23179,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2011 浙江  
 
 
-# ***make it to*** 
+# *** *make it to*** 
 
 
   
@@ -23190,7 +23189,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**到达**  
 
 
-# ***make money*** 
+# *** *make money*** 
 
 
   
@@ -23200,7 +23199,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**赚钱；获利**  
 
 
-# ***make one's acquaintance*** 
+# *** *make one's acquaintance*** 
 
 
   
@@ -23213,7 +23212,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我来英国想跟你结识！  
 
 
-# ***make one's fortune*** 
+# *** *make one's fortune*** 
 
 
   
@@ -23223,7 +23222,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**发财**  
 
 
-# ***make one's way*** 
+# *** *make one's way*** 
 
 
   
@@ -23233,7 +23232,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**前往**  
 
 
-# ***make one's way to*** 
+# *** *make one's way to*** 
 
 
   
@@ -23243,7 +23242,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**前往；到……去**  
 
 
-# ***make oneself understood*** 
+# *** *make oneself understood*** 
 
 
   
@@ -23256,7 +23255,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你能用英语说清楚自己的意思吗？  
 
 
-# ***make out*** 
+# *** *make out*** 
 
 
   
@@ -23291,7 +23290,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源： 译林⑦ – 2  
 
 
-# ***make preparations for*** 
+# *** *make preparations for*** 
 
 
   
@@ -23304,12 +23303,12 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他们正忙着筹备婚礼。  
 
 
-# ***make progress*** 
+# *** *make progress*** 
 
 
   
 
-# ***make room for*** 
+# *** *make room for*** 
 
 
   
@@ -23322,7 +23321,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 请你为这位老太太腾个地方好吗?  
 
 
-# ***make sb's blood boil*** 
+# *** *make sb's blood boil*** 
 
 
   
@@ -23335,7 +23334,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他这样对待父母真的让我非常气愤。  
 
 
-# ***make sense*** 
+# *** *make sense*** 
 
 
   
@@ -23372,7 +23371,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 谁会送给我这么多花呢？想不明白。  
 
 
-# ***make sense of*** 
+# *** *make sense of*** 
 
 
   
@@ -23385,7 +23384,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你能看懂这篇文章吗？  
 
 
-# ***make something of oneself*** 
+# *** *make something of oneself*** 
 
 
   
@@ -23398,7 +23397,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 如果珍妮一直努力工作，总有一天会有出息的。  
 
 
-# ***make sure*** 
+# *** *make sure*** 
 
 
   
@@ -23417,12 +23416,12 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：译林① – 1  
 
 
-# ***make the best of*** 
+# *** *make the best of*** 
 
 
   
 
-# ***make the most of*** 
+# *** *make the most of*** 
 
 
   
@@ -23435,7 +23434,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我希望你们大家都充分利用这个机会分享信息、交流意见。  
 
 
-# ***make up*** 
+# *** *make up*** 
 
 
   
@@ -23473,7 +23472,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：外研⑥ – 3  
 
 
-# ***make up for*** 
+# *** *make up for*** 
 
 
   
@@ -23487,7 +23486,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2012 辽宁  
 
 
-# ***make up one's mind*** 
+# *** *make up one's mind*** 
 
 
   
@@ -23505,7 +23504,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他已经下决心要克服自己的缺点。  
 
 
-# ***make use of*** 
+# *** *make use of*** 
 
 
   
@@ -23519,7 +23518,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：人教② – 3  
 
 
-# ***make way for*** 
+# *** *make way for*** 
 
 
   
@@ -23529,7 +23528,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**给……让路，让位于……**  
 
 
-# ***make … into*** 
+# *** *make … into*** 
 
 
   
@@ -23546,7 +23545,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2018 天津  
 
 
-# ***manage to do*** 
+# *** *manage to do*** 
 
 
   
@@ -23560,7 +23559,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2014 广东改  
 
 
-# ***manned spaceship*** 
+# *** *manned spaceship*** 
 
 
   
@@ -23570,7 +23569,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**载人宇宙飞船**  
 
 
-# ***many a*** 
+# *** *many a*** 
 
 
   
@@ -23585,7 +23584,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 辨析 much more, many more
 二者意义相同，意为“多得多的”，但搭配不同。  
 
-# ***mark out*** 
+# *** *mark out*** 
 
 
   
@@ -23598,7 +23597,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 一个排球场已经在草地上画了出来。  
 
 
-# ***mass production*** n
+# *** *mass production*** n
 
 
   
@@ -23608,7 +23607,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**批量生产**  
 
 
-# ***master musician*** 
+# *** *master musician*** 
 
 
   
@@ -23618,7 +23617,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**音乐大师**  
 
 
-# ***master's degree*** 
+# *** *master's degree*** 
 
 
   
@@ -23628,7 +23627,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.*高义频：* **硕士学位**  
 
 
-# ***may / might (just) as well do sth*** 
+# *** *may / might (just) as well do sth*** 
 
 
   
@@ -23642,7 +23641,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2011 上海改  
 
 
-# ***may as well (do)*** 
+# *** *may as well (do)*** 
 
 
   
@@ -23655,7 +23654,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你还是回家去吧，他不来了。  
 
 
-# ***meet up*** 
+# *** *meet up*** 
 
 
   
@@ -23669,7 +23668,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我现在要走了，但是以后我们还会再见。  
 
 
-# ***meet with*** 
+# *** *meet with*** 
 
 
   
@@ -23693,7 +23692,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2013 天津  
 
 
-# ***mess up*** 
+# *** *mess up*** 
 
 
   
@@ -23709,7 +23708,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 要是搞砸了也没关系，你总是可以再来一次的。  
 
 
-# ***millions of*** 
+# *** *millions of*** 
 
 
   
@@ -23722,7 +23721,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 成千上万的奶牛不再产奶，五十万头猪和千百万只小鸡全都死了。  
 
 
-# ***mind / watch one's step*** 
+# *** *mind / watch one's step*** 
 
 
   
@@ -23732,7 +23731,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**走路小心；言行小心谨慎**  
 
 
-# ***mind reader*** n
+# *** *mind reader*** n
 
 
   
@@ -23742,7 +23741,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**（自称或被认为）能看透别人心思的人**  
 
 
-# ***mind your own business*** 
+# *** *mind your own business*** 
 
 
   
@@ -23755,7 +23754,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你为什么就不能别管闲事，让我清静一下呢？  
 
 
-# ***miss out*** 
+# *** *miss out*** 
 
 
   
@@ -23771,7 +23770,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 一些孩子由于父母担心学校组织的旅行的安全问题而失去了参加的机会。  
 
 
-# ***mistake ... for*** 
+# *** *mistake ... for*** 
 
 
   
@@ -23785,7 +23784,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源： 2009 天津  
 
 
-# ***mix up*** 
+# *** *mix up*** 
 
 
   
@@ -23813,7 +23812,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他的解释让我更糊涂了。  
 
 
-# ***mobile phone*** n
+# *** *mobile phone*** n
 
 
 | 词频 5 |  
@@ -23825,7 +23824,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**移动电话；手机 (cell phone)**  
 
 
-# ***monarch butterfly*** 
+# *** *monarch butterfly*** 
 
 
   
@@ -23835,7 +23834,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**黑脉金斑蝶**  
 
 
-# ***mop up*** 
+# *** *mop up*** 
 
 
   
@@ -23851,7 +23850,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 雨林很重要，它们能吸收大气中的二氧化碳，有助于减缓全球变暖。  
 
 
-# ***more and more*** 
+# *** *more and more*** 
 
 
   
@@ -23865,7 +23864,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 越来越多的人在用智能手机获取信息和娱乐。  
 
 
-# ***more often than not / as often as not*** 
+# *** *more often than not / as often as not*** 
 
 
   
@@ -23875,7 +23874,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**通常；往往**  
 
 
-# ***more or less*** 
+# *** *more or less*** 
 
 
   
@@ -23891,7 +23890,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 工作基本上完成了。  
 
 
-# ***more than*** 
+# *** *more than*** 
 
 
   
@@ -23915,7 +23914,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2010 全国书面表达  
 
 
-# ***most of all*** 
+# *** *most of all*** 
 
 
   
@@ -23931,7 +23930,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 最主要是因为我没有足够的钱。  
 
 
-# ***mother tongue*** 
+# *** *mother tongue*** 
 英音 ˈmʌðəˈ tʌŋ     美音 ˈmʌðəˈ tʌŋ  
 
   
@@ -23944,7 +23943,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 母语  
 
 
-# ***motor neurone disease*** n
+# *** *motor neurone disease*** n
 
 
 | 词频 1 |  
@@ -23954,7 +23953,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**运动神经元病**  
 
 
-# ***move about / around*** 
+# *** *move about / around*** 
 
 
   
@@ -23967,7 +23966,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他病得很重，甚至连走动都很困难。  
 
 
-# ***move off*** 
+# *** *move off*** 
 
 
   
@@ -23977,7 +23976,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**离开；起程；出发**  
 
 
-# ***move on*** 
+# *** *move on*** 
 
 
   
@@ -23993,7 +23992,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我认为这个话题我们已经谈得够多了，咱们换个话题吧。  
 
 
-# ***much the same*** 
+# *** *much the same*** 
 
 
   
@@ -24006,7 +24005,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我已多年没有回到故乡了，但那里的一切和我记忆中的几乎一样。  
 
 
-# ***musical instrument*** 
+# *** *musical instrument*** 
 
 
   
@@ -24016,7 +24015,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**乐器**  
 
 
-# ***musical instruments*** n
+# *** *musical instruments*** n
 
 
   
@@ -24029,7 +24028,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 乐器  
 
 
-# ***my goodness*** 
+# *** *my goodness*** 
 
 
   
@@ -24039,7 +24038,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**天哪, 哎呀**  
 
 
-# ***name ... after*** 
+# *** *name ... after*** 
 
 
   
@@ -24056,7 +24055,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2010 全国  
 
 
-# ***name after*** 
+# *** *name after*** 
 
 
   
@@ -24073,7 +24072,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 来源：2010 全国  
 
 
-# ***natural selection*** 
+# *** *natural selection*** 
 
 
   
@@ -24083,7 +24082,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 1.**自然选择**  
 
 
-# ***needn't have done sth*** 
+# *** *needn't have done sth*** 
 
 
   
@@ -24096,7 +24095,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你昨天工作到很晚，今天早上你原本可以不来。  
 
 
-# ***neither ... nor*** 
+# *** *neither ... nor*** 
 
 
   
@@ -24119,12 +24118,12 @@ Notes: it is said that ... 常可与be said to ... 互换。
 
 Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。连接并列主语时，谓语与靠近它的主语一致。  
 
-# ***never / not once*** 
+# *** *never / not once*** 
 
 
   
 
-# ***never say never*** 
+# *** *never say never*** 
 
 
   
@@ -24134,7 +24133,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
 1.**别轻易说决不**  
 
 
-# ***next to*** 
+# *** *next to*** 
 
 
   
@@ -24152,7 +24151,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
  > 来源：2012 全国  
 
 
-# ***night and day / day and night*** 
+# *** *night and day / day and night*** 
 
 
   
@@ -24166,7 +24165,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
  > 来源：2008 湖南书面表达  
 
 
-# ***no doubt*** 
+# *** *no doubt*** 
 
 
   
@@ -24182,7 +24181,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
  > 收门票无疑会把一些人拒之门外。  
 
 
-# ***no less than*** 
+# *** *no less than*** 
 
 
   
@@ -24195,7 +24194,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
  > 他买这座房子花了多达10万美元。  
 
 
-# ***no longer / not ... any longer*** 
+# *** *no longer / not ... any longer*** 
 
 
   
@@ -24212,7 +24211,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
  > 来源：2011 上海  
 
 
-# ***no matter*** 
+# *** *no matter*** 
 
 
   
@@ -24231,7 +24230,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
  > 无论雨多急、风多大，警察一直坚守在自己的岗位上。  
 
 
-# ***no matter where, who, what,etc.*** 
+# *** *no matter where, who, what,etc.*** 
 
 
   
@@ -24248,7 +24247,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
  > 无论雨多急、风多大，警察一直坚守在自己的岗位上。  
 
 
-# ***no more*** 
+# *** *no more*** 
 
 
   
@@ -24265,7 +24264,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
  > 来源： 2009 湖南  
 
 
-# ***no more than*** 
+# *** *no more than*** 
 
 
   
@@ -24278,7 +24277,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
  > 他所受的学校教育全部加起来不过3年。  
 
 
-# ***no problem*** 
+# *** *no problem*** 
 
 
   
@@ -24304,7 +24303,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
 ### 辨析 problem, question
 二者都可译作“问题”。  
 
-# ***no sooner ... than*** 
+# *** *no sooner ... than*** 
 
 
   
@@ -24321,7 +24320,7 @@ Notes: no sooner置于句首时，句子要用部分倒装结构。
  > 他刚坐下来就听见有人敲门。  
 
 
-# ***no sooner ... than ...*** 
+# *** *no sooner ... than ...*** 
 
 
   
@@ -24331,7 +24330,7 @@ Notes: no sooner置于句首时，句子要用部分倒装结构。
 1.**见soon**  
 
 
-# ***no way*** 
+# *** *no way*** 
 
 
   
@@ -24351,7 +24350,7 @@ Notes: no sooner置于句首时，句子要用部分倒装结构。
  > 我们无论如何都花不起那种钱。  
 
 
-# ***no wonder*** 
+# *** *no wonder*** 
 
 
   
@@ -24368,7 +24367,7 @@ Notes: no sooner置于句首时，句子要用部分倒装结构。
  > 她的孩子不见了，难怪她如此心神不宁。  
 
 
-# ***none but*** 
+# *** *none but*** 
 
 
   
@@ -24381,7 +24380,7 @@ Notes: no sooner置于句首时，句子要用部分倒装结构。
  > 只有他知道真相。  
 
 
-# ***not ... any more*** 
+# *** *not ... any more*** 
 
 
   
@@ -24394,7 +24393,7 @@ Notes: no sooner置于句首时，句子要用部分倒装结构。
  > 别再浪费时间和金钱了。  
 
 
-# ***not ... at all*** 
+# *** *not ... at all*** 
 
 
   
@@ -24407,7 +24406,7 @@ Notes: no sooner置于句首时，句子要用部分倒装结构。
  > 电影一点儿也没意思。  
 
 
-# ***not ... but*** 
+# *** *not ... but*** 
 
 
   
@@ -24420,7 +24419,7 @@ Notes: no sooner置于句首时，句子要用部分倒装结构。
  > 生活不是竞赛，而是一场一步接着一步的旅行。  
 
 
-# ***not / nothing much*** 
+# *** *not / nothing much*** 
 
 
   
@@ -24436,7 +24435,7 @@ Notes: no sooner置于句首时，句子要用部分倒装结构。
  > 哦，没什么。事实上我刚才在想念家乡的朋友们。  
 
 
-# ***not a / one*** 
+# *** *not a / one*** 
 
 
   
@@ -24449,7 +24448,7 @@ Notes: no sooner置于句首时，句子要用部分倒装结构。
  > 那次事故中没有人员死亡。  
 
 
-# ***not a bit*** 
+# *** *not a bit*** 
 
 
   
@@ -24463,7 +24462,7 @@ Notes: no sooner置于句首时，句子要用部分倒装结构。
 
 Notes: not a little意为“非常” 、 “很多”。  
 
-# ***not a little*** 
+# *** *not a little*** 
 
 
   
@@ -24476,7 +24475,7 @@ Notes: not a little意为“非常” 、 “很多”。
  > 此事使我相当焦虑。  
 
 
-# ***not at all*** 
+# *** *not at all*** 
 
 
   
@@ -24486,7 +24485,7 @@ Notes: not a little意为“非常” 、 “很多”。
 1.**根本不；别客气**  
 
 
-# ***not exactly*** 
+# *** *not exactly*** 
 
 
   
@@ -24506,7 +24505,7 @@ Notes: not a little意为“非常” 、 “很多”。
  > 根本不可能。现在都3:20了。  
 
 
-# ***not in the least / not the least (bit)*** 
+# *** *not in the least / not the least (bit)*** 
 
 
   
@@ -24520,7 +24519,7 @@ Notes: not a little意为“非常” 、 “很多”。
  > 来源：2006 湖北  
 
 
-# ***not more than*** 
+# *** *not more than*** 
 
 
   
@@ -24535,7 +24534,7 @@ Notes: not a little意为“非常” 、 “很多”。
 ### 辨析 no more (…) than, not more (…) than
   
 
-# ***not nearly*** 
+# *** *not nearly*** 
 
 
   
@@ -24548,7 +24547,7 @@ Notes: not a little意为“非常” 、 “很多”。
  > 天气远没有去年那么热。  
 
 
-# ***not only ... but (also)*** 
+# *** *not only ... but (also)*** 
 
 
   
@@ -24567,7 +24566,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：2010 湖北书面表达  
 
 
-# ***not that*** 
+# *** *not that*** 
 
 
   
@@ -24580,7 +24579,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 她没有参加会议，倒不是因为忙。  
 
 
-# ***not to mention*** 
+# *** *not to mention*** 
 
 
   
@@ -24593,7 +24592,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 创业期间，你别想有一天的空闲时间，更别说乘飞机去度一个月的假了。  
 
 
-# ***not very*** 
+# *** *not very*** 
 
 
   
@@ -24611,7 +24610,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 我根本不想去那里。  
 
 
-# ***not yet*** 
+# *** *not yet*** 
 
 
   
@@ -24627,7 +24626,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 还没有。  
 
 
-# ***note down*** 
+# *** *note down*** 
 
 
   
@@ -24640,7 +24639,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 警察记下了我说的话。  
 
 
-# ***nothing better*** 
+# *** *nothing better*** 
 
 
   
@@ -24658,7 +24657,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：2015 湖南书面表达  
 
 
-# ***nothing but / except*** 
+# *** *nothing but / except*** 
 
 
   
@@ -24678,7 +24677,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 别担心，这只不过是个玩笑。  
 
 
-# ***nothing like*** 
+# *** *nothing like*** 
 
 
   
@@ -24691,7 +24690,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 它看上去根本不像一匹马。  
 
 
-# ***now and then*** 
+# *** *now and then*** 
 
 
   
@@ -24705,7 +24704,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：人教⑧ – 3  
 
 
-# ***now that*** 
+# *** *now that*** 
 
 
   
@@ -24722,7 +24721,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：外研② – 5  
 
 
-# ***nowhere near*** 
+# *** *nowhere near*** 
 
 
   
@@ -24735,7 +24734,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 我们的预算远远不够。  
 
 
-# ***nursery rhyme*** 
+# *** *nursery rhyme*** 
 
 
   
@@ -24745,7 +24744,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 1.**童谣**  
 
 
-# ***occur to sb*** 
+# *** *occur to sb*** 
 
 
   
@@ -24770,7 +24769,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：2013 湖南  
 
 
-# ***of choice for*** 
+# *** *of choice for*** 
 
 
   
@@ -24783,7 +24782,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 这是治疗这种病的首选药。  
 
 
-# ***of course (not)*** 
+# *** *of course (not)*** 
 
 
   
@@ -24800,7 +24799,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：2011 全国  
 
 
-# ***of use*** 
+# *** *of use*** 
 
 
   
@@ -24814,7 +24813,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：译林④ – 2  
 
 
-# ***of value*** 
+# *** *of value*** 
 
 
   
@@ -24828,7 +24827,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 体育运动很有益处，对那些每天大部分时间都在从事脑力劳动的人来说更是如此。  
 
 
-# ***of vital importance*** 
+# *** *of vital importance*** 
 
 
   
@@ -24838,7 +24837,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 1.**至关重要**  
 
 
-# ***off (sb's) guard*** 
+# *** *off (sb's) guard*** 
 
 
   
@@ -24851,7 +24850,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 他趁我不备打了我。  
 
 
-# ***off the coast*** 
+# *** *off the coast*** 
 
 
   
@@ -24864,7 +24863,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 沿海有许多岛屿。  
 
 
-# ***office hours*** 
+# *** *office hours*** 
 
 
   
@@ -24874,7 +24873,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 1.**办公时间；营业时间**  
 
 
-# ***oil painting*** n
+# *** *oil painting*** n
 
 
   
@@ -24884,7 +24883,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 1.**油画**  
 
 
-# ***on (the) air*** 
+# *** *on (the) air*** 
 
 
   
@@ -24897,7 +24896,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 我们三分钟后开始广播。  
 
 
-# ***on (the) condition that*** 
+# *** *on (the) condition that*** 
 
 
   
@@ -24913,7 +24912,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 倘若获得奖学金，我会考虑出国学习。  
 
 
-# ***on / under no condition*** 
+# *** *on / under no condition*** 
 
 
   
@@ -24926,7 +24925,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 你绝不能告诉他们发生了什么事。  
 
 
-# ***on account of*** 
+# *** *on account of*** 
 
 
   
@@ -24939,7 +24938,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 她因病没有去学校。  
 
 
-# ***on average*** 
+# *** *on average*** 
 
 
   
@@ -24956,7 +24955,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：2016 四川  
 
 
-# ***on behalf of*** 
+# *** *on behalf of*** 
 
 
   
@@ -24979,7 +24978,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 别为我担心。  
 
 
-# ***on behalf of sb / on sb's behalf*** 
+# *** *on behalf of sb / on sb's behalf*** 
 
 
   
@@ -25002,7 +25001,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 别为我担心。  
 
 
-# ***on board*** 
+# *** *on board*** 
 
 
   
@@ -25016,7 +25015,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：2008 全国  
 
 
-# ***on demand*** 
+# *** *on demand*** 
 
 
   
@@ -25026,7 +25025,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 1.**[正式用语] 一经要求**  
 
 
-# ***on display*** 
+# *** *on display*** 
 
 
   
@@ -25040,7 +25039,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：2009 广东  
 
 
-# ***on duty*** 
+# *** *on duty*** 
 
 
   
@@ -25053,7 +25052,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 他上午8点上班，下午5点下班。  
 
 
-# ***on earth*** 
+# *** *on earth*** 
 
 
   
@@ -25076,7 +25075,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：2012 全国  
 
 
-# ***on end*** 
+# *** *on end*** 
 
 
   
@@ -25089,7 +25088,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 他们持续争论了两个小时。  
 
 
-# ***on fire*** 
+# *** *on fire*** 
 
 
   
@@ -25106,7 +25105,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：2008 全国  
 
 
-# ***on foot*** 
+# *** *on foot*** 
 
 
   
@@ -25116,7 +25115,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 1.**步行**  
 
 
-# ***on guard*** 
+# *** *on guard*** 
 
 
   
@@ -25129,7 +25128,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 士兵整夜站岗。  
 
 
-# ***on hand*** 
+# *** *on hand*** 
 
 
   
@@ -25143,7 +25142,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：2012 天津  
 
 
-# ***on hold*** 
+# *** *on hold*** 
 
 
   
@@ -25157,7 +25156,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：2010 四川改  
 
 
-# ***on occasion(s)*** 
+# *** *on occasion(s)*** 
 
 
   
@@ -25171,7 +25170,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：2012 湖南改  
 
 
-# ***on offer*** 
+# *** *on offer*** 
 
 
   
@@ -25189,7 +25188,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：2008 江西改  
 
 
-# ***on one's own*** 
+# *** *on one's own*** 
 
 
   
@@ -25206,7 +25205,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：2011 湖北书面表达  
 
 
-# ***on one's side*** 
+# *** *on one's side*** 
 
 
   
@@ -25219,7 +25218,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 侧身而卧  
 
 
-# ***on one's way*** 
+# *** *on one's way*** 
 
 
   
@@ -25229,7 +25228,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 1.**在途中**  
 
 
-# ***on principle*** 
+# *** *on principle*** 
 
 
   
@@ -25242,7 +25241,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 原则上，她从不向别人借钱。  
 
 
-# ***on purpose*** 
+# *** *on purpose*** 
 
 
   
@@ -25257,7 +25256,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源： 2014 福建  
 
 
-# ***on sale*** 
+# *** *on sale*** 
 
 
   
@@ -25276,7 +25275,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 书店要关闭了，许多书在廉价出售。  
 
 
-# ***on sb's mind*** 
+# *** *on sb's mind*** 
 
 
   
@@ -25289,7 +25288,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 他心事重重。  
 
 
-# ***on somebody's behalf*** 
+# *** *on somebody's behalf*** 
 
 
   
@@ -25299,7 +25298,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 1.**代表……**  
 
 
-# ***on the coast*** 
+# *** *on the coast*** 
 
 
   
@@ -25313,7 +25312,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：外研③ – 1  
 
 
-# ***on the contrary*** 
+# *** *on the contrary*** 
 
 
   
@@ -25327,7 +25326,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：人教③ – 3  
 
 
-# ***on the dot*** 
+# *** *on the dot*** 
 
 
   
@@ -25337,7 +25336,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 1.**[非正式用语] 准时地**  
 
 
-# ***on the edge of one's seat*** 
+# *** *on the edge of one's seat*** 
 
 
   
@@ -25347,7 +25346,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 1.**极为激动**  
 
 
-# ***on the increase*** 
+# *** *on the increase*** 
 
 
   
@@ -25361,7 +25360,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源： 外研⑤ – 6  
 
 
-# ***on the market*** 
+# *** *on the market*** 
 
 
   
@@ -25375,7 +25374,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：译林⑦ – 1  
 
 
-# ***on the occasion of*** 
+# *** *on the occasion of*** 
 
 
   
@@ -25390,7 +25389,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：2012浙江  
 
 
-# ***on the one hand ... on the other hand ...*** 
+# *** *on the one hand ... on the other hand ...*** 
 
 
   
@@ -25403,7 +25402,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 一方面，计算机提高了人们的工作效率，另一方面，也引起了一些新的问题。  
 
 
-# ***on the one hand … on the other (hand)*** 
+# *** *on the one hand … on the other (hand)*** 
 
 
   
@@ -25416,7 +25415,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 一方面，计算机提高了人们的工作效率，另一方面，也引起了一些新的问题。  
 
 
-# ***on the other hand*** 
+# *** *on the other hand*** 
 
 
   
@@ -25429,7 +25428,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 一方面，计算机提高了人们的工作效率，另一方面，也引起了一些新的问题。  
 
 
-# ***on the phone*** 
+# *** *on the phone*** 
 
 
   
@@ -25443,7 +25442,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：2008 湖南改  
 
 
-# ***on the point of*** 
+# *** *on the point of*** 
 
 
   
@@ -25456,7 +25455,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 她正要出去，电话铃响了。  
 
 
-# ***on the run*** 
+# *** *on the run*** 
 
 
   
@@ -25466,7 +25465,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 1.**躲避；忙碌，不停地奔波**  
 
 
-# ***on the spot*** 
+# *** *on the spot*** 
 
 
   
@@ -25482,7 +25481,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 几分钟内警察就赶到了现场。  
 
 
-# ***on the way out*** 
+# *** *on the way out*** 
 
 
   
@@ -25492,7 +25491,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 1.**即将被淘汰；即将过时**  
 
 
-# ***on the way to*** 
+# *** *on the way to*** 
 
 
   
@@ -25505,7 +25504,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 她在上班路上把表弄丢了。  
 
 
-# ***on the whole*** 
+# *** *on the whole*** 
 
 
   
@@ -25519,7 +25518,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：人教⑥ – 4  
 
 
-# ***on time*** 
+# *** *on time*** 
 
 
   
@@ -25533,7 +25532,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：外研④ – 7  
 
 
-# ***on top*** 
+# *** *on top*** 
 
 
   
@@ -25550,7 +25549,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：北师大④ – 11  
 
 
-# ***on top of*** 
+# *** *on top of*** 
 
 
   
@@ -25566,7 +25565,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 他管了我一顿饭，除此之外，还给了我路费。  
 
 
-# ***on trial*** 
+# *** *on trial*** 
 
 
   
@@ -25583,7 +25582,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 那位职员在试用期中。  
 
 
-# ***on vacation*** 
+# *** *on vacation*** 
 
 
   
@@ -25597,7 +25596,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：2012 湖南改  
 
 
-# ***on view*** 
+# *** *on view*** 
 
 
   
@@ -25610,7 +25609,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 那幅画目前在美术馆展出。  
 
 
-# ***on watch*** 
+# *** *on watch*** 
 
 
   
@@ -25623,17 +25622,17 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 他正站在那儿值班。  
 
 
-# ***once again / once more*** 
+# *** *once again / once more*** 
 
 
   
 
-# ***once in a while*** 
+# *** *once in a while*** 
 
 
   
 
-# ***once more*** 
+# *** *once more*** 
 
 
   
@@ -25646,12 +25645,12 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 士兵们又发起了进攻，但又一次被打败了。  
 
 
-# ***once or twice*** 
+# *** *once or twice*** 
 
 
   
 
-# ***once upon a time*** 
+# *** *once upon a time*** 
 
 
   
@@ -25665,7 +25664,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：2005 广东  
 
 
-# ***one after another*** 
+# *** *one after another*** 
 
 
   
@@ -25675,7 +25674,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 1.**陆续地；一个接一个地**  
 
 
-# ***one after another / the other*** 
+# *** *one after another / the other*** 
 
 
   
@@ -25688,7 +25687,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 人们一个接一个地站了起来，分享自己的故事。  
 
 
-# ***one another*** 
+# *** *one another*** 
 
 
   
@@ -25701,7 +25700,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 毕业典礼上他们互赠礼物。  
 
 
-# ***one by one*** 
+# *** *one by one*** 
 
 
   
@@ -25714,7 +25713,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 铃声响了，学生们鱼贯而出。  
 
 
-# ***one day*** 
+# *** *one day*** 
 
 
   
@@ -25728,7 +25727,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：2009 江西  
 
 
-# ***one moment … the next*** 
+# *** *one moment … the next*** 
 
 
   
@@ -25742,7 +25741,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：2014 重庆  
 
 
-# ***one thing ... another ...*** 
+# *** *one thing ... another ...*** 
 
 
   
@@ -25755,12 +25754,12 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 说是一回事，做又是另一回事。  
 
 
-# ***one's bread and butter*** 
+# *** *one's bread and butter*** 
 
 
   
 
-# ***open sb's eyes to sth*** 
+# *** *open sb's eyes to sth*** 
 
 
   
@@ -25770,7 +25769,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 1.**使某人长见识 / 开眼界 / 认清 (事实)**  
 
 
-# ***open the floor*** 
+# *** *open the floor*** 
 
 
   
@@ -25780,7 +25779,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 1.**自由发言**  
 
 
-# ***open up*** 
+# *** *open up*** 
 
 
   
@@ -25798,7 +25797,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来源：2015 全国改  
 
 
-# ***opening hours*** 
+# *** *opening hours*** 
 
 
   
@@ -25811,7 +25810,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 我们正常的营业时间是从上午10点到晚上7点。  
 
 
-# ***operating theatre*** n
+# *** *operating theatre*** n
 
 
   
@@ -25821,7 +25820,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 1.**手术室**  
 
 
-# ***or else*** 
+# *** *or else*** 
 
 
   
@@ -25838,7 +25837,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 
 Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebody else's。  
 
-# ***or so*** 
+# *** *or so*** 
 
 
   
@@ -25851,7 +25850,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 在过去大约20年的时间里，我们的生活发生了巨大变化。  
 
 
-# ***or whatever*** 
+# *** *or whatever*** 
 
 
   
@@ -25864,7 +25863,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 我可以跟她分享我们的旅行经历，怎样照顾宠物或任何我们有共同之处的事情。  
 
 
-# ***other than*** 
+# *** *other than*** 
 
 
   
@@ -25874,7 +25873,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**除了……以外**  
 
 
-# ***ought to*** aux v  重难点词汇
+# *** *ought to*** aux v  重难点词汇
 英音 'ɔːttə     美音 'ɔːttə  
 
 | 词频 3 | 口语 3 | 书面 3 |  
@@ -25921,7 +25920,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 我儿子现在应该已经动身去日本了。  
 
 
-# ***out of*** 
+# *** *out of*** 
 
 
   
@@ -25973,7 +25972,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 用木头做个盒子  
 
 
-# ***out of action*** 
+# *** *out of action*** 
 
 
   
@@ -25983,7 +25982,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**失去作用；停止运转**  
 
 
-# ***out of breath*** 
+# *** *out of breath*** 
 
 
   
@@ -25996,7 +25995,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 到了塔顶他就上气不接下气了。  
 
 
-# ***out of business*** 
+# *** *out of business*** 
 
 
   
@@ -26009,7 +26008,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 一天，老板告诉我们公司倒闭了。  
 
 
-# ***out of control*** 
+# *** *out of control*** 
 
 
   
@@ -26022,7 +26021,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 火势已经失去了控制，大家都不敢进去。  
 
 
-# ***out of date*** 
+# *** *out of date*** 
 
 
   
@@ -26039,7 +26038,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 来源：2016 天津  
 
 
-# ***out of debt*** 
+# *** *out of debt*** 
 
 
   
@@ -26049,7 +26048,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**不欠债**  
 
 
-# ***out of focus*** 
+# *** *out of focus*** 
 
 
   
@@ -26059,7 +26058,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**焦点未对准的；模糊不清的**  
 
 
-# ***out of habit*** 
+# *** *out of habit*** 
 
 
   
@@ -26072,7 +26071,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 我这么做仅仅是出于习惯。  
 
 
-# ***out of order*** 
+# *** *out of order*** 
 
 
   
@@ -26089,7 +26088,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 来源：人教⑧ – 3  
 
 
-# ***out of place*** 
+# *** *out of place*** 
 
 
   
@@ -26105,7 +26104,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 夹在这些成功人士中间，我觉得自己格格不入。  
 
 
-# ***out of practice*** 
+# *** *out of practice*** 
 
 
   
@@ -26118,7 +26117,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 不练习就会生疏。  
 
 
-# ***out of print*** 
+# *** *out of print*** 
 
 
   
@@ -26128,7 +26127,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**绝版的**  
 
 
-# ***out of proportion to*** 
+# *** *out of proportion to*** 
 
 
   
@@ -26138,7 +26137,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**与…不成比例；和…不相称**  
 
 
-# ***out of question*** 
+# *** *out of question*** 
 
 
   
@@ -26148,7 +26147,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**毫无疑问**  
 
 
-# ***out of range (of)*** 
+# *** *out of range (of)*** 
 
 
   
@@ -26158,7 +26157,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**超出(…的) 范围：**  
 
 
-# ***out of shape*** 
+# *** *out of shape*** 
 
 
   
@@ -26174,7 +26173,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 我已经好几个月没锻炼了，身体真的不行了。  
 
 
-# ***out of sight*** 
+# *** *out of sight*** 
 
 
   
@@ -26184,7 +26183,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**看不见；在视野之外**  
 
 
-# ***out of the question*** 
+# *** *out of the question*** 
 
 
   
@@ -26194,7 +26193,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**不可能的**  
 
 
-# ***out of the way*** 
+# *** *out of the way*** 
 
 
   
@@ -26210,7 +26209,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 辨析 way, road, path, street, avenue
 五者都可作“路”解，但含义有所不同。  
 
-# ***out of tune*** 
+# *** *out of tune*** 
 
 
   
@@ -26226,7 +26225,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 与时代格格不入  
 
 
-# ***out of work*** 
+# *** *out of work*** 
 
 
   
@@ -26239,7 +26238,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 我担心自己是否会丢掉工作。  
 
 
-# ***over and over (again)*** 
+# *** *over and over (again)*** 
 
 
   
@@ -26253,7 +26252,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 来源：人教⑥ – 3  
 
 
-# ***over and over again*** 
+# *** *over and over again*** 
 
 
   
@@ -26267,7 +26266,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 来源：人教⑥ – 3  
 
 
-# ***over the years*** 
+# *** *over the years*** 
 
 
   
@@ -26277,7 +26276,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**数年间**  
 
 
-# ***over there*** 
+# *** *over there*** 
 
 
   
@@ -26290,7 +26289,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 站在那边的那个人是谁？  
 
 
-# ***owing to*** 
+# *** *owing to*** 
 英音 'əʊɪŋ tu     美音 'oʊɪŋ tu  
 
 | 词频 2 |  
@@ -26304,7 +26303,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 来源：2012 上海  
 
 
-# ***pack (sth) up*** 
+# *** *pack (sth) up*** 
 
 
   
@@ -26318,7 +26317,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 来源：2009 浙江  
 
 
-# ***pack up*** 
+# *** *pack up*** 
 
 
   
@@ -26332,7 +26331,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 来源：2009 浙江  
 
 
-# ***package tour*** 
+# *** *package tour*** 
 
 
   
@@ -26342,7 +26341,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**包价旅游**  
 
 
-# ***parking lot*** 
+# *** *parking lot*** 
 
 
   
@@ -26352,7 +26351,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**停车场**  
 
 
-# ***part with*** 
+# *** *part with*** 
 
 
   
@@ -26365,7 +26364,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 这部小说引人入胜，我简直爱不释手。  
 
 
-# ***pass ... off as ...*** 
+# *** *pass ... off as ...*** 
 
 
   
@@ -26378,7 +26377,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 他冒充警卫逃走了。  
 
 
-# ***pass around / round*** 
+# *** *pass around / round*** 
 
 
   
@@ -26391,7 +26390,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 请把小甜饼分发给大家，好吗？  
 
 
-# ***pass away*** 
+# *** *pass away*** 
 
 
   
@@ -26405,7 +26404,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 来源：2015 江苏  
 
 
-# ***pass by*** 
+# *** *pass by*** 
 
 
   
@@ -26422,7 +26421,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 来源：2009 重庆  
 
 
-# ***pass down*** 
+# *** *pass down*** 
 
 
   
@@ -26436,7 +26435,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 来源：2013 北京  
 
 
-# ***pass off as*** 
+# *** *pass off as*** 
 
 
   
@@ -26449,7 +26448,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 他冒充警卫逃走了。  
 
 
-# ***pass on*** 
+# *** *pass on*** 
 
 
   
@@ -26462,7 +26461,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 请将这个消息传达给尽可能多的人。  
 
 
-# ***pass out*** 
+# *** *pass out*** 
 
 
   
@@ -26479,7 +26478,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 看到那么多血，我差点晕了过去。  
 
 
-# ***pass something on (to somebody)*** 
+# *** *pass something on (to somebody)*** 
 
 
   
@@ -26489,7 +26488,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**转交，传给，递给**  
 
 
-# ***pass through*** 
+# *** *pass through*** 
 
 
   
@@ -26499,7 +26498,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**穿过；通过**  
 
 
-# ***pay a visit to*** 
+# *** *pay a visit to*** 
 
 
   
@@ -26512,7 +26511,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 你若有空，参观一下当地的这家博物馆。  
 
 
-# ***pay attention to*** 
+# *** *pay attention to*** 
 
 
   
@@ -26526,7 +26525,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 来源：2013 安徽改  
 
 
-# ***pay back*** 
+# *** *pay back*** 
 
 
   
@@ -26548,7 +26547,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 以其人之道还治其人之身。  
 
 
-# ***pay down*** 
+# *** *pay down*** 
 
 
   
@@ -26558,7 +26557,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**先支付 (部分货款) 作为定金**  
 
 
-# ***pay lip service (to)*** 
+# *** *pay lip service (to)*** 
 
 
   
@@ -26572,7 +26571,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 来源：2013 江苏改  
 
 
-# ***pay off*** 
+# *** *pay off*** 
 
 
   
@@ -26595,7 +26594,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 如果这家工厂关闭，会有超过1000名工人被解雇。  
 
 
-# ***pay off one's debts*** 
+# *** *pay off one's debts*** 
 
 
   
@@ -26605,7 +26604,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**还清债务**  
 
 
-# ***pay rise*** 
+# *** *pay rise*** 
 
 
   
@@ -26618,7 +26617,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 只有努力工作你才能指望得到加薪。  
 
 
-# ***pay up*** 
+# *** *pay up*** 
 
 
   
@@ -26628,7 +26627,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**(尤指不情愿或延迟) 付清欠款；偿还欠款**  
 
 
-# ***peace pipe*** n
+# *** *peace pipe*** n
 
 
   
@@ -26638,7 +26637,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**和平烟斗（北美印第安人某些部落于庆典、集会等场合使用的长管烟斗，为和平的象征）**  
 
 
-# ***personnel department*** n
+# *** *personnel department*** n
 
 
   
@@ -26652,7 +26651,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 来源：2011 全国  
 
 
-# ***pick on*** 
+# *** *pick on*** 
 
 
   
@@ -26669,7 +26668,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 来源：2011 江西  
 
 
-# ***pick out*** 
+# *** *pick out*** 
 
 
   
@@ -26695,7 +26694,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 来源：2008 北京  
 
 
-# ***pick sb's pocket*** 
+# *** *pick sb's pocket*** 
 
 
   
@@ -26705,7 +26704,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**扒窃；掏包**  
 
 
-# ***pick up*** 
+# *** *pick up*** 
 
 
   
@@ -26790,7 +26789,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 风愈刮愈大，天空中乌云密布。  
 
 
-# ***pile up*** 
+# *** *pile up*** 
 
 
   
@@ -26803,7 +26802,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 在他离开期间，工作堆了一堆。  
 
 
-# ***pin (on)*** vt
+# *** *pin (on)*** vt
 
 
 | 词频 1 |  
@@ -26813,7 +26812,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**把责任加在（某人）身上**  
 
 
-# ***play / act a part (in)*** 
+# *** *play / act a part (in)*** 
 
 
   
@@ -26826,7 +26825,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 如今，互联网在我们的生活中起着重要作用。  
 
 
-# ***play a joke / jokes on*** 
+# *** *play a joke / jokes on*** 
 
 
   
@@ -26839,7 +26838,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 他们决定把父亲的眼镜藏起来和他开个玩笑。  
 
 
-# ***play a part*** 
+# *** *play a part*** 
 
 
   
@@ -26852,7 +26851,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 如今，互联网在我们的生活中起着重要作用。  
 
 
-# ***play a part (in)*** 
+# *** *play a part (in)*** 
 
 
   
@@ -26862,7 +26861,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**扮演一个角色；参与**  
 
 
-# ***play a trick on*** 
+# *** *play a trick on*** 
 
 
   
@@ -26876,7 +26875,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 来源：人教③ – 1  
 
 
-# ***play a trick on sb.*** 
+# *** *play a trick on sb.*** 
 
 
   
@@ -26890,7 +26889,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 来源：人教③ – 1  
 
 
-# ***play a(n) … role in*** 
+# *** *play a(n) … role in*** 
 
 
   
@@ -26903,7 +26902,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 农业在该国经济中起着重要的作用。  
 
 
-# ***play an important part in*** 
+# *** *play an important part in*** 
 
 
   
@@ -26916,7 +26915,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 如今，互联网在我们的生活中起着重要作用。  
 
 
-# ***play around*** 
+# *** *play around*** 
 
 
   
@@ -26926,7 +26925,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**四处游戏**  
 
 
-# ***play jokes on*** 
+# *** *play jokes on*** 
 
 
   
@@ -26936,7 +26935,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**戏弄**  
 
 
-# ***play the role of*** 
+# *** *play the role of*** 
 
 
   
@@ -26949,7 +26948,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 他在剧中扮演一位成功的律师。  
 
 
-# ***play tricks on*** 
+# *** *play tricks on*** 
 
 
   
@@ -26963,7 +26962,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 来源：人教③ – 1  
 
 
-# ***play with*** 
+# *** *play with*** 
 
 
   
@@ -26976,7 +26975,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 别老是摆弄食物！  
 
 
-# ***play with fire*** 
+# *** *play with fire*** 
 
 
   
@@ -26986,7 +26985,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 1.**玩火**  
 
 
-# ***plenty of*** 
+# *** *plenty of*** 
 
 
   
@@ -27003,7 +27002,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 
 Notes: plenty of 可接可数或不可数名词，只用于肯定句。  
 
-# ***plug in*** 
+# *** *plug in*** 
 
 
   
@@ -27013,7 +27012,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**(使) 插上插头以接通电源**  
 
 
-# ***plug one's ears*** 
+# *** *plug one's ears*** 
 
 
   
@@ -27023,7 +27022,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**塞住耳朵**  
 
 
-# ***point of view*** n
+# *** *point of view*** n
 
 
   
@@ -27037,7 +27036,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：2013 重庆  
 
 
-# ***point out*** 
+# *** *point out*** 
 
 
   
@@ -27055,7 +27054,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 他指出这条路冬天不安全。  
 
 
-# ***power boating*** n
+# *** *power boating*** n
 
 
   
@@ -27065,7 +27064,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**（运动项目）汽艇，摩托艇**  
 
 
-# ***pray for*** 
+# *** *pray for*** 
 
 
   
@@ -27078,7 +27077,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 祈求和平  
 
 
-# ***press on*** 
+# *** *press on*** 
 
 
   
@@ -27091,7 +27090,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 他继续前进，最终冲过了终点线。  
 
 
-# ***pressure point*** n
+# *** *pressure point*** n
 
 
   
@@ -27101,7 +27100,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**压觉点，止血点**  
 
 
-# ***pretend to do*** 
+# *** *pretend to do*** 
 
 
   
@@ -27117,7 +27116,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 要是我假装认识你，你别觉得奇怪。  
 
 
-# ***prevent ... from*** 
+# *** *prevent ... from*** 
 
 
   
@@ -27135,7 +27134,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：2013 天津改  
 
 
-# ***previous to*** 
+# *** *previous to*** 
 
 
   
@@ -27149,7 +27148,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：译林⑦ – 1  
 
 
-# ***print off / out*** 
+# *** *print off / out*** 
 
 
   
@@ -27162,7 +27161,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 你可以使用网络打印机把数据打印出来。  
 
 
-# ***protect ... from*** 
+# *** *protect ... from*** 
 
 
   
@@ -27179,7 +27178,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 必须采取措施以保护环境免受污染。  
 
 
-# ***provide for*** 
+# *** *provide for*** 
 
 
   
@@ -27200,7 +27199,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 辨析 provide, offer, supply
 三者都有“供给、提供”的意思，但用法不同。  
 
-# ***provided that*** 
+# *** *provided that*** 
 
 
   
@@ -27213,7 +27212,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 要是我们5点结束，我就去打网球。  
 
 
-# ***public relations*** 
+# *** *public relations*** 
 
 
   
@@ -27223,7 +27222,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**公共关系**  
 
 
-# ***pull away*** 
+# *** *pull away*** 
 
 
   
@@ -27236,7 +27235,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 交通灯变绿，我开车离开。  
 
 
-# ***pull down*** 
+# *** *pull down*** 
 
 
   
@@ -27252,7 +27251,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 考虑到安全因素，那座旧楼被拆毁了。  
 
 
-# ***pull faces*** 
+# *** *pull faces*** 
 
 
   
@@ -27265,7 +27264,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 老师转过身去的时候，孩子们互相做鬼脸。  
 
 
-# ***pull in*** 
+# *** *pull in*** 
 
 
   
@@ -27275,7 +27274,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**(列车等) 进站；(汽车等) 靠边停下**  
 
 
-# ***pull off*** 
+# *** *pull off*** 
 
 
   
@@ -27285,7 +27284,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**把…驶离大路；成功完成**  
 
 
-# ***pull on*** 
+# *** *pull on*** 
 
 
   
@@ -27298,7 +27297,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 外出时戴上手套。  
 
 
-# ***pull one's weight*** 
+# *** *pull one's weight*** 
 
 
   
@@ -27308,7 +27307,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**做好分内事，尽责**  
 
 
-# ***pull out*** 
+# *** *pull out*** 
 
 
   
@@ -27334,7 +27333,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 大部分军队已撤离。  
 
 
-# ***pull over*** 
+# *** *pull over*** 
 
 
   
@@ -27344,7 +27343,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**(使) 停靠在路边**  
 
 
-# ***pull through*** 
+# *** *pull through*** 
 
 
   
@@ -27358,7 +27357,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：北师大① – 2  
 
 
-# ***pull together*** 
+# *** *pull together*** 
 
 
   
@@ -27368,7 +27367,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**组合；整顿；同心协力**  
 
 
-# ***pull up*** 
+# *** *pull up*** 
 
 
   
@@ -27381,7 +27380,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 一辆车停在我后面。  
 
 
-# ***push ahead with*** 
+# *** *push ahead with*** 
 
 
   
@@ -27391,7 +27390,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**义无反顾地进行，努力推进**  
 
 
-# ***push aside*** 
+# *** *push aside*** 
 
 
   
@@ -27408,7 +27407,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 她抛开愤怒，强迫自己专心工作。  
 
 
-# ***push on*** 
+# *** *push on*** 
 
 
   
@@ -27421,7 +27420,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 咱们继续走吧，天快黑了。  
 
 
-# ***push over*** 
+# *** *push over*** 
 
 
   
@@ -27434,7 +27433,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 这棵大树被风刮倒了。  
 
 
-# ***pushing up daisies*** 
+# *** *pushing up daisies*** 
 
 
   
@@ -27444,7 +27443,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**（俚）死**  
 
 
-# ***put ... in action*** 
+# *** *put ... in action*** 
 
 
   
@@ -27454,7 +27453,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**使…行动起来；使…开始工作；使…起作用**  
 
 
-# ***put ... into ...*** 
+# *** *put ... into ...*** 
 
 
   
@@ -27467,7 +27466,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 世上无难事，只怕有心人。  
 
 
-# ***put ... into practice*** 
+# *** *put ... into practice*** 
 
 
   
@@ -27481,7 +27480,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：2018 全国  
 
 
-# ***put ... into prison*** 
+# *** *put ... into prison*** 
 
 
   
@@ -27495,7 +27494,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：北师大③ – 3  
 
 
-# ***put / set / turn one's mind to / set one's mind on*** 
+# *** *put / set / turn one's mind to / set one's mind on*** 
 
 
   
@@ -27508,7 +27507,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 如果她专心致志，本可以成为一名杰出的钢琴家。  
 
 
-# ***put a spell on*** 
+# *** *put a spell on*** 
 
 
   
@@ -27518,7 +27517,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**用咒符镇住**  
 
 
-# ***put aside*** 
+# *** *put aside*** 
 
 
   
@@ -27539,7 +27538,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 他们每月都存些钱供退休后用。  
 
 
-# ***put away*** 
+# *** *put away*** 
 
 
   
@@ -27562,7 +27561,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 别再担心了，好好享受人生吧！  
 
 
-# ***put back*** 
+# *** *put back*** 
 
 
   
@@ -27580,7 +27579,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 由于天气恶劣，起航推迟了12个小时。  
 
 
-# ***put down*** 
+# *** *put down*** 
 
 
   
@@ -27603,7 +27602,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 3.*低义频：* **付 (订金)；批评**  
 
 
-# ***put forward*** 
+# *** *put forward*** 
 
 
   
@@ -27620,7 +27619,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：人教⑤ – 1  
 
 
-# ***put in*** 
+# *** *put in*** 
 
 
   
@@ -27651,7 +27650,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：2011 全国  
 
 
-# ***put into*** 
+# *** *put into*** 
 
 
   
@@ -27671,7 +27670,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 把这个句子译成英语。  
 
 
-# ***put off*** 
+# *** *put off*** 
 
 
   
@@ -27699,7 +27698,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 别因为失败你就不再进一步努力了。  
 
 
-# ***put on*** 
+# *** *put on*** 
 
 
   
@@ -27751,7 +27750,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 他把自己的失败归咎于我。  
 
 
-# ***put on weight*** 
+# *** *put on weight*** 
 
 
   
@@ -27761,7 +27760,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**增加体重**  
 
 
-# ***put one's foot in one's mouth*** 
+# *** *put one's foot in one's mouth*** 
 
 
   
@@ -27771,7 +27770,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**犯使人难堪的错误；说错话**  
 
 
-# ***put one's hands on*** 
+# *** *put one's hands on*** 
 
 
   
@@ -27781,7 +27780,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**找到**  
 
 
-# ***put out*** 
+# *** *put out*** 
 
 
   
@@ -27820,7 +27819,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 辨析 go out, put out
 二者都和“熄灭”有关。  
 
-# ***put sb at (one's) ease*** 
+# *** *put sb at (one's) ease*** 
 
 
   
@@ -27833,7 +27832,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 起初他有些紧张，但是她的热情欢迎很快使他放松了下来。  
 
 
-# ***put sth into operation*** 
+# *** *put sth into operation*** 
 
 
   
@@ -27846,7 +27845,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 现在应该实施我们的计划了。  
 
 
-# ***put sth to use*** 
+# *** *put sth to use*** 
 
 
   
@@ -27860,7 +27859,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：2015 北京  
 
 
-# ***put through*** 
+# *** *put through*** 
 
 
   
@@ -27883,7 +27882,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 请帮我接通经理的电话，好吗？  
 
 
-# ***put together*** 
+# *** *put together*** 
 
 
   
@@ -27896,7 +27895,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我们花了一上午的时间整理出这份建议。  
 
 
-# ***put up*** 
+# *** *put up*** 
 
 
   
@@ -27933,7 +27932,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我希望肯尼能让我留宿几天。  
 
 
-# ***put up with*** 
+# *** *put up with*** 
 
 
   
@@ -27949,7 +27948,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我能容忍很多事情，但绝不容忍小偷小摸的人。  
 
 
-# ***put … to shame*** 
+# *** *put … to shame*** 
 
 
   
@@ -27963,7 +27962,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 他的厨艺让我自愧不如。  
 
 
-# ***quantities of*** 
+# *** *quantities of*** 
 
 
   
@@ -27973,7 +27972,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**大量的**  
 
 
-# ***queue up*** 
+# *** *queue up*** 
 
 
   
@@ -27983,7 +27982,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**排队等候**  
 
 
-# ***quite a little*** 
+# *** *quite a little*** 
 
 
   
@@ -27993,7 +27992,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**相当多**  
 
 
-# ***rain cats and dogs*** 
+# *** *rain cats and dogs*** 
 
 
   
@@ -28003,7 +28002,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**下倾盆大雨**  
 
 
-# ***raise money*** 
+# *** *raise money*** 
 
 
   
@@ -28016,7 +28015,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 上周，我们学校举办了一个大型义卖会为残疾人筹款。  
 
 
-# ***rather than*** 
+# *** *rather than*** 
 
 
   
@@ -28033,7 +28032,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：2018 江苏  
 
 
-# ***raw material*** n
+# *** *raw material*** n
 
 
   
@@ -28046,7 +28045,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 这个工厂靠的是原料便宜，不涨价。  
 
 
-# ***reach out*** 
+# *** *reach out*** 
 
 
   
@@ -28062,7 +28061,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：2012 全国  
 
 
-# ***read out*** 
+# *** *read out*** 
 
 
   
@@ -28072,7 +28071,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**大声读出；宣读**  
 
 
-# ***refer (...) to*** 
+# *** *refer (...) to*** 
 
 
   
@@ -28115,7 +28114,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我同事说由于情况非同寻常，他会把这个问题交给他的编辑处理。  
 
 
-# ***refer (to)*** 
+# *** *refer (to)*** 
 
 
   
@@ -28129,7 +28128,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：2013 全国  
 
 
-# ***refer to*** 
+# *** *refer to*** 
 
 
   
@@ -28145,7 +28144,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 作英语演讲时，参赛选手不得看讲稿。  
 
 
-# ***refer to ... as ...*** 
+# *** *refer to ... as ...*** 
 
 
   
@@ -28155,7 +28154,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**称……为……**  
 
 
-# ***regard as*** 
+# *** *regard as*** 
 
 
   
@@ -28165,7 +28164,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**把……视作……**  
 
 
-# ***regardless of*** 
+# *** *regardless of*** 
 
 
   
@@ -28179,7 +28178,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：人教⑧ – 5  
 
 
-# ***relate (to)*** 
+# *** *relate (to)*** 
 
 
   
@@ -28192,7 +28191,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 这篇报告试图证明犯罪的增加与失业人数的增加有关。  
 
 
-# ***related to*** 
+# *** *related to*** 
 
 
   
@@ -28205,7 +28204,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 疲劳和司机的反应时间密切相关。  
 
 
-# ***rely on*** 
+# *** *rely on*** 
 
 
   
@@ -28215,15 +28214,15 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.*高义频：* **依靠**  
 英译 to depend on sb / sth：
 
-- rely on / upon … to do sth:
-
- > These days, we rely heavily on computers to organize our work.  
- > 现在，我们在很大程度上依赖电脑来安排工作。  
-
  > **rely,on,for**  
  > You shouldn’t always rely just on the Internet for your research.  
  > 你不能总是依靠网络进行研究。  
  > 来源：2015 湖南  
+
+- rely on / upon … to do sth:
+
+ > These days, we rely heavily on computers to organize our work.  
+ > 现在，我们在很大程度上依赖电脑来安排工作。  
 
 2.*高义频：* **信任**  
 英译 to trust or have faith in sb / sth：
@@ -28234,7 +28233,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我信任大卫，他一定会为我保密。  
 
 
-# ***remind sb of sb/sth*** 
+# *** *remind sb of sb/sth*** 
 
 
   
@@ -28244,7 +28243,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**使某人想起（类似的人或物）**  
 
 
-# ***remind sb. of sth.*** 
+# *** *remind sb. of sth.*** 
 
 
   
@@ -28257,7 +28256,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 比尔使他想起多年前他们初识的那一天。  
 
 
-# ***remind somebody of*** 
+# *** *remind somebody of*** 
 
 
   
@@ -28270,7 +28269,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 比尔使他想起多年前他们初识的那一天。  
 
 
-# ***remind … of …*** 
+# *** *remind … of …*** 
 
 
   
@@ -28289,7 +28288,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > ——难怪他让我觉得他那么像简呢。  
 
 
-# ***remote control*** 
+# *** *remote control*** 
 
 
   
@@ -28299,7 +28298,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**遥控**  
 
 
-# ***replace ... with / by*** 
+# *** *replace ... with / by*** 
 
 
   
@@ -28313,7 +28312,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：2015 浙江  
 
 
-# ***result from*** 
+# *** *result from*** 
 
 
   
@@ -28326,7 +28325,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 人类的发展引起了污染和其他严重的问题。  
 
 
-# ***result in*** 
+# *** *result in*** 
 
 
   
@@ -28340,7 +28339,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：2014 湖北  
 
 
-# ***return to*** 
+# *** *return to*** 
 
 
   
@@ -28355,7 +28354,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：北师大⑦-21  
 
 
-# ***rhythm and blues*** n
+# *** *rhythm and blues*** n
 
 
   
@@ -28365,7 +28364,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**节奏布鲁斯，节奏蓝调**  
 
 
-# ***rid ... of*** 
+# *** *rid ... of*** 
 
 
   
@@ -28382,7 +28381,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 还清债务  
 
 
-# ***rid sb / sth of sth*** 
+# *** *rid sb / sth of sth*** 
 
 
   
@@ -28399,7 +28398,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 还清债务  
 
 
-# ***right away*** 
+# *** *right away*** 
 
 
   
@@ -28413,7 +28412,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：人教① – 4  
 
 
-# ***right now*** 
+# *** *right now*** 
 
 
   
@@ -28426,7 +28425,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我还是现在就把电脑屏幕擦干净吧。  
 
 
-# ***ring back*** 
+# *** *ring back*** 
 
 
   
@@ -28440,7 +28439,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：人教⑧ – 3  
 
 
-# ***ring off*** 
+# *** *ring off*** 
 
 
   
@@ -28450,7 +28449,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**挂断电话**  
 
 
-# ***ring up*** 
+# *** *ring up*** 
 
 
   
@@ -28464,7 +28463,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：人教⑧ – 3  
 
 
-# ***rip off*** 
+# *** *rip off*** 
 
 
   
@@ -28474,7 +28473,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**敲竹杠；敲诈**  
 
 
-# ***rise to one's feet*** 
+# *** *rise to one's feet*** 
 
 
   
@@ -28488,7 +28487,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：人教②–2  
 
 
-# ***rise up against*** 
+# *** *rise up against*** 
 
 
   
@@ -28498,7 +28497,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**起义，反抗**  
 
 
-# ***rob sb of sth*** 
+# *** *rob sb of sth*** 
 
 
   
@@ -28511,7 +28510,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 那个年轻人抢走了她的包。  
 
 
-# ***rock and roll*** 
+# *** *rock and roll*** 
 英音 rɒk ənd rəʊl     美音 rɑːk ənd roʊl  
 
 | 词频 1 |  
@@ -28521,7 +28520,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.*高义频：* **(rock-and-roll) 摇滚乐**  
 
 
-# ***roll over*** 
+# *** *roll over*** 
 
 
   
@@ -28531,7 +28530,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**翻身；打滚**  
 
 
-# ***roll up*** 
+# *** *roll up*** 
 
 
   
@@ -28544,7 +28543,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 他卷起地图。  
 
 
-# ***roller coaster*** n
+# *** *roller coaster*** n
 英音 'rəulə 'kəʊstə     美音 'roulə 'koʊstə  
 
 | 词频 1 |  
@@ -28554,7 +28553,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.*高义频：* **过山车**  
 
 
-# ***rope off*** 
+# *** *rope off*** 
 
 
   
@@ -28564,7 +28563,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**用绳围起（隔开）**  
 
 
-# ***rule out*** 
+# *** *rule out*** 
 
 
   
@@ -28577,7 +28576,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我们不能排除他最终会来的可能性。  
 
 
-# ***run / take a risk*** 
+# *** *run / take a risk*** 
 
 
   
@@ -28591,7 +28590,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：人教⑥ – 3  
 
 
-# ***run / take the risk of doing sth*** 
+# *** *run / take the risk of doing sth*** 
 
 
   
@@ -28604,7 +28603,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 玛丽不敢冒险让她的孩子独自待着，即使是很短的时间。  
 
 
-# ***run across*** 
+# *** *run across*** 
 
 
   
@@ -28620,7 +28619,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我在米兰的一次大会上碰到了他。  
 
 
-# ***run after*** 
+# *** *run after*** 
 
 
   
@@ -28636,7 +28635,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 据说约翰总是追求年轻女子。  
 
 
-# ***run away (from)*** 
+# *** *run away (from)*** 
 
 
   
@@ -28652,7 +28651,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 见了困难就躲是不负责的。  
 
 
-# ***run away from*** 
+# *** *run away from*** 
 
 
   
@@ -28662,7 +28661,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**逃走；逃避**  
 
 
-# ***run into*** 
+# *** *run into*** 
 
 
   
@@ -28682,7 +28681,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我刚开始学习用英语写作时，遇到了很多困难。  
 
 
-# ***run out*** 
+# *** *run out*** 
 
 
   
@@ -28700,7 +28699,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：北师大⑥ – 16  
 
 
-# ***run out (of)*** 
+# *** *run out (of)*** 
 
 
   
@@ -28718,7 +28717,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：北师大⑥ – 16  
 
 
-# ***run out of*** 
+# *** *run out of*** 
 
 
   
@@ -28736,7 +28735,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：北师大⑥ – 16  
 
 
-# ***run over*** 
+# *** *run over*** 
 
 
   
@@ -28752,7 +28751,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 马克的脑子飞快地转着，把各种可能都一一作了考虑。  
 
 
-# ***run through*** 
+# *** *run through*** 
 
 
   
@@ -28762,7 +28761,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**跑着穿过；把…匆匆过一遍**  
 
 
-# ***running water*** n
+# *** *running water*** n
 
 
   
@@ -28775,7 +28774,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 自来水；流水  
 
 
-# ***safety belt*** 
+# *** *safety belt*** 
 
 
   
@@ -28785,7 +28784,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**安全带**  
 
 
-# ***salicylic acid*** n
+# *** *salicylic acid*** n
 
 
   
@@ -28795,7 +28794,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**水杨酸**  
 
 
-# ***satellite dish*** n
+# *** *satellite dish*** n
 
 
   
@@ -28805,7 +28804,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**卫星电视碟形天线**  
 
 
-# ***say hello to*** 
+# *** *say hello to*** 
 
 
   
@@ -28818,7 +28817,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我们开车过去向他问好吧。  
 
 
-# ***scare … away / off*** 
+# *** *scare … away / off*** 
 
 
   
@@ -28828,7 +28827,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**把…吓跑**  
 
 
-# ***scores of*** 
+# *** *scores of*** 
 
 
   
@@ -28842,7 +28841,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：人教⑥ – 1  
 
 
-# ***seal cutting*** 
+# *** *seal cutting*** 
 
 
   
@@ -28852,7 +28851,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**篆刻**  
 
 
-# ***search engine*** n
+# *** *search engine*** n
 
 
   
@@ -28865,7 +28864,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 搜索引擎  
 
 
-# ***search for*** 
+# *** *search for*** 
 
 
   
@@ -28875,7 +28874,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**搜索；查找**  
 
 
-# ***see (to it) that*** 
+# *** *see (to it) that*** 
 
 
   
@@ -28888,7 +28887,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 你能保证把开会日期通知到每个人吗？  
 
 
-# ***see ... off*** 
+# *** *see ... off*** 
 
 
   
@@ -28901,7 +28900,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我们都到机场为她送行。  
 
 
-# ***see about*** 
+# *** *see about*** 
 
 
   
@@ -28914,7 +28913,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我得找人修理一下这辆车。  
 
 
-# ***see off*** 
+# *** *see off*** 
 
 
   
@@ -28927,7 +28926,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我们都到机场为她送行。  
 
 
-# ***see through*** 
+# *** *see through*** 
 
 
   
@@ -28940,7 +28939,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 每个人都有眼力，他们会识破你们的诡计。  
 
 
-# ***see to*** 
+# *** *see to*** 
 
 
   
@@ -28953,7 +28952,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 别担心，这事我来处理。  
 
 
-# ***seeing that*** 
+# *** *seeing that*** 
 
 
   
@@ -28966,7 +28965,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 既然你已经到了门口，我想我必须邀请你进来。  
 
 
-# ***seek out*** 
+# *** *seek out*** 
 
 
   
@@ -28979,7 +28978,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我们必须找到解决问题的办法。  
 
 
-# ***seize on / upon*** 
+# *** *seize on / upon*** 
 
 
   
@@ -28992,7 +28991,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 鲍勃以下雨为借口不去上学。  
 
 
-# ***sell off*** 
+# *** *sell off*** 
 
 
   
@@ -29005,7 +29004,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 该店将夏季存货削价出售，以便购进冬季新货。  
 
 
-# ***sell oneself*** 
+# *** *sell oneself*** 
 
 
   
@@ -29018,7 +29017,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 求职面试的时候，你的确要推销自己。  
 
 
-# ***sell out / be sold out*** 
+# *** *sell out / be sold out*** 
 
 
   
@@ -29035,7 +29034,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 对不起，先生，您这个尺码的衬衫我们全卖完了。  
 
 
-# ***send away*** 
+# *** *send away*** 
 
 
   
@@ -29048,7 +29047,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 他被老板解雇了。  
 
 
-# ***send for*** 
+# *** *send for*** 
 
 
   
@@ -29061,7 +29060,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 她母亲病了，于是她派人去请了一位医生来。  
 
 
-# ***send out*** 
+# *** *send out*** 
 
 
   
@@ -29077,7 +29076,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 成千上万的技术人员被派出国去学习现代技术。  
 
 
-# ***send up*** 
+# *** *send up*** 
 
 
   
@@ -29090,7 +29089,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 中国是在什么时候发射了自己的第一颗人造卫星？  
 
 
-# ***senior high*** 
+# *** *senior high*** 
 
 
   
@@ -29103,7 +29102,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 高中生  
 
 
-# ***senior high school*** 
+# *** *senior high school*** 
 
 
   
@@ -29113,7 +29112,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**（美国）高中**  
 
 
-# ***sentence sb. to death*** 
+# *** *sentence sb. to death*** 
 
 
   
@@ -29127,7 +29126,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：北师大⑧ – 24  
 
 
-# ***serve as*** 
+# *** *serve as*** 
 
 
   
@@ -29145,7 +29144,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：2009 陕西改  
 
 
-# ***service area / station*** 
+# *** *service area / station*** 
 
 
   
@@ -29155,7 +29154,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**(高速公路旁的) 服务区 / 服务站**  
 
 
-# ***set (a play,novel,ect.) in*** 
+# *** *set (a play,novel,ect.) in*** 
 
 
   
@@ -29169,7 +29168,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：译林⑧ – 1  
 
 
-# ***set ... on fire / set fire to*** 
+# *** *set ... on fire / set fire to*** 
 
 
   
@@ -29185,7 +29184,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 警方认为有人故意纵火烧工厂。  
 
 
-# ***set about*** 
+# *** *set about*** 
 
 
   
@@ -29199,7 +29198,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：人教⑧ – 3  
 
 
-# ***set an example*** 
+# *** *set an example*** 
 
 
   
@@ -29209,7 +29208,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**树立榜样**  
 
 
-# ***set an example to sb / set sb an example*** 
+# *** *set an example to sb / set sb an example*** 
 
 
   
@@ -29223,7 +29222,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：2008 湖南书面表达  
 
 
-# ***set aside*** 
+# *** *set aside*** 
 
 
   
@@ -29239,7 +29238,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 放下工作  
 
 
-# ***set down*** 
+# *** *set down*** 
 
 
   
@@ -29253,7 +29252,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：人教① – 1  
 
 
-# ***set fire to*** 
+# *** *set fire to*** 
 
 
   
@@ -29266,7 +29265,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 警方认为有人故意纵火烧工厂。  
 
 
-# ***set foot in / on*** 
+# *** *set foot in / on*** 
 
 
   
@@ -29282,7 +29281,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 美国人尼尔·阿姆斯特朗成为第一个登上月球的人。  
 
 
-# ***set foot on*** 
+# *** *set foot on*** 
 
 
   
@@ -29298,7 +29297,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 美国人尼尔·阿姆斯特朗成为第一个登上月球的人。  
 
 
-# ***set in*** 
+# *** *set in*** 
 
 
   
@@ -29312,7 +29311,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：2011 江西  
 
 
-# ***set in motion*** 
+# *** *set in motion*** 
 
 
   
@@ -29322,7 +29321,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**使某事开始**  
 
 
-# ***set off*** 
+# *** *set off*** 
 
 
   
@@ -29345,7 +29344,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 他无礼的答复引起了我的反感。  
 
 
-# ***set one's sights on*** 
+# *** *set one's sights on*** 
 
 
   
@@ -29358,7 +29357,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 那位选手说，他的目标是在即将到来的奥运会上夺冠。  
 
 
-# ***set out*** 
+# *** *set out*** 
 
 
   
@@ -29380,7 +29379,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 他在报告中阐述了他作这个决定的理由。  
 
 
-# ***set sail*** 
+# *** *set sail*** 
 
 
   
@@ -29394,7 +29393,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：译林⑦ – 1  
 
 
-# ***set sail (for)*** 
+# *** *set sail (for)*** 
 
 
   
@@ -29408,7 +29407,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：译林⑦ – 1  
 
 
-# ***set sth up*** 
+# *** *set sth up*** 
 
 
   
@@ -29418,7 +29417,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**安装好（设备或机器）**  
 
 
-# ***set up*** 
+# *** *set up*** 
 
 
   
@@ -29443,7 +29442,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：2013湖南  
 
 
-# ***set … free*** 
+# *** *set … free*** 
 
 
   
@@ -29459,7 +29458,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 展望未来时要尽情想象。  
 
 
-# ***settle (down) to*** 
+# *** *settle (down) to*** 
 
 
   
@@ -29472,7 +29471,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 外面那么吵，我不能专心工作。  
 
 
-# ***settle back*** 
+# *** *settle back*** 
 
 
   
@@ -29485,7 +29484,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 她舒服地坐在座位上看电影。  
 
 
-# ***settle down*** 
+# *** *settle down*** 
 
 
   
@@ -29509,7 +29508,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 等学生们安静下来后，她才开始上课。  
 
 
-# ***settle for*** 
+# *** *settle for*** 
 
 
   
@@ -29522,7 +29521,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 她只想要最好的，绝不会将就。  
 
 
-# ***settle in*** 
+# *** *settle in*** 
 
 
   
@@ -29538,7 +29537,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 她很快就适应了大学的新生活。  
 
 
-# ***settle in / into*** 
+# *** *settle in / into*** 
 
 
   
@@ -29554,7 +29553,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 她很快就适应了大学的新生活。  
 
 
-# ***settle on*** 
+# *** *settle on*** 
 
 
   
@@ -29567,7 +29566,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我们得把见面的地点定下来。  
 
 
-# ***sewing machine*** 
+# *** *sewing machine*** 
 
 
   
@@ -29577,7 +29576,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.*高义频：* **缝纫机**  
 
 
-# ***shake off*** 
+# *** *shake off*** 
 
 
   
@@ -29594,7 +29593,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 只手难遮天。  
 
 
-# ***shape up*** 
+# *** *shape up*** 
 
 
   
@@ -29607,7 +29606,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 如果他不改进的话，很快就会失业。  
 
 
-# ***share feelings and ideas with*** 
+# *** *share feelings and ideas with*** 
 
 
   
@@ -29617,7 +29616,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**与……分享感受与想法**  
 
 
-# ***shoot at*** 
+# *** *shoot at*** 
 
 
   
@@ -29630,7 +29629,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 猎人几次射击后终于射中了狼。  
 
 
-# ***shop assistant*** 
+# *** *shop assistant*** 
 
 
   
@@ -29643,7 +29642,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 助教/店员  
 
 
-# ***show ... around/round*** 
+# *** *show ... around/round*** 
 
 
   
@@ -29656,7 +29655,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 你真是太热情了，花这么多时间带我四处参观。  
 
 
-# ***show ... in*** 
+# *** *show ... in*** 
 
 
   
@@ -29666,7 +29665,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**带或领……进来**  
 
 
-# ***show off*** 
+# *** *show off*** 
 
 
   
@@ -29680,7 +29679,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：外研⑥ – 1  
 
 
-# ***show somebody around*** 
+# *** *show somebody around*** 
 
 
   
@@ -29693,7 +29692,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 你真是太热情了，花这么多时间带我四处参观。  
 
 
-# ***show up*** 
+# *** *show up*** 
 
 
   
@@ -29706,7 +29705,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 有好几百人到场，一些电视摄影师和记者也来了。  
 
 
-# ***shut / close one's eyes to*** 
+# *** *shut / close one's eyes to*** 
 
 
   
@@ -29719,7 +29718,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 你不能对他的暴行视而不见。  
 
 
-# ***shut down*** 
+# *** *shut down*** 
 
 
   
@@ -29736,7 +29735,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 关闭计算机系统  
 
 
-# ***shut in*** 
+# *** *shut in*** 
 
 
   
@@ -29746,7 +29745,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**把…关在房内**  
 
 
-# ***shut off*** 
+# *** *shut off*** 
 
 
   
@@ -29759,7 +29758,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 别忘了关闭供水系统。  
 
 
-# ***shut out (of)*** 
+# *** *shut out (of)*** 
 
 
   
@@ -29772,7 +29771,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 太阳镜能遮挡99%的太阳光中的有害射线。  
 
 
-# ***shut up*** 
+# *** *shut up*** 
 
 
   
@@ -29788,7 +29787,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 叫他住嘴。  
 
 
-# ***side by side*** 
+# *** *side by side*** 
 
 
   
@@ -29801,7 +29800,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我们所有的成员都并肩奋斗防治污染。  
 
 
-# ***side effect*** n
+# *** *side effect*** n
 
 
   
@@ -29815,7 +29814,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：2010 浙江  
 
 
-# ***side road*** 
+# *** *side road*** 
 
 
   
@@ -29825,7 +29824,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.*高义频：* **旁路；支线；岔道 (= sidewalk)**  
 
 
-# ***sign up (for sth)*** 
+# *** *sign up (for sth)*** 
 
 
   
@@ -29841,7 +29840,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我准备报名参加7月中旬的那个团。  
 
 
-# ***silence is golden*** 
+# *** *silence is golden*** 
 
 
   
@@ -29851,7 +29850,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**沉默是金**  
 
 
-# ***silent film*** n
+# *** *silent film*** n
 
 
   
@@ -29864,7 +29863,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 无声电影  
 
 
-# ***sit around*** 
+# *** *sit around*** 
 
 
   
@@ -29878,7 +29877,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：2010 上海  
 
 
-# ***sit up*** 
+# *** *sit up*** 
 
 
   
@@ -29895,7 +29894,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我们熬夜看了场电影。  
 
 
-# ***skip a grade*** 
+# *** *skip a grade*** 
 
 
   
@@ -29905,7 +29904,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**跳级**  
 
 
-# ***slam dunk*** 
+# *** *slam dunk*** 
 
 
   
@@ -29915,7 +29914,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**扣篮**  
 
 
-# ***slide into*** 
+# *** *slide into*** 
 
 
   
@@ -29928,7 +29927,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 偷偷地溜进房间  
 
 
-# ***slim down*** 
+# *** *slim down*** 
 
 
   
@@ -29945,7 +29944,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 这家公司要裁员。  
 
 
-# ***slow down*** 
+# *** *slow down*** 
 
 
   
@@ -29959,7 +29958,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：北师大⑧ – 22  
 
 
-# ***small talk*** 
+# *** *small talk*** 
 
 
   
@@ -29973,7 +29972,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 来源：外研⑥ – 1  
 
 
-# ***smooth away*** 
+# *** *smooth away*** 
 
 
   
@@ -29983,7 +29982,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 1.**消除 (问题)；克服 (困难)**  
 
 
-# ***so ... that*** 
+# *** *so ... that*** 
 
 
   
@@ -30001,7 +30000,7 @@ Notes: 在so ... that 引导的复合句中，so位于句首时，主句部分�
  > 他说话声音很大，连隔壁房间的人都能听到。  
 
 
-# ***so ... that ...*** 
+# *** *so ... that ...*** 
 
 
   
@@ -30019,7 +30018,7 @@ Notes: 在so ... that 引导的复合句中，so位于句首时，主句部分�
  > 他说话声音很大，连隔壁房间的人都能听到。  
 
 
-# ***so as to*** 
+# *** *so as to*** 
 
 
   
@@ -30044,7 +30043,7 @@ Notes: 在so ... that 引导的复合句中，so位于句首时，主句部分�
  > 悄悄地进去，别把你的妈妈吵醒了。  
 
 
-# ***so as to (do sth)*** 
+# *** *so as to (do sth)*** 
 
 
   
@@ -30069,7 +30068,7 @@ Notes: 在so ... that 引导的复合句中，so位于句首时，主句部分�
  > 悄悄地进去，别把你的妈妈吵醒了。  
 
 
-# ***so far*** 
+# *** *so far*** 
 
 
   
@@ -30087,7 +30086,7 @@ Notes: 在so ... that 引导的复合句中，so位于句首时，主句部分�
 
 Notes: so far 常与现在完成时连用。  
 
-# ***so long as*** 
+# *** *so long as*** 
 
 
   
@@ -30101,7 +30100,7 @@ Notes: so far 常与现在完成时连用。
  > 来源：2012 江苏改  
 
 
-# ***so much for*** 
+# *** *so much for*** 
 
 
   
@@ -30114,7 +30113,7 @@ Notes: so far 常与现在完成时连用。
  > 就介绍这么多吧，该开始工作了。  
 
 
-# ***so much the better / worse*** 
+# *** *so much the better / worse*** 
 
 
   
@@ -30127,7 +30126,7 @@ Notes: so far 常与现在完成时连用。
  > 如果他们可以同时做这两件事，那当然更好。  
 
 
-# ***so that*** 
+# *** *so that*** 
 
 
   
@@ -30144,7 +30143,7 @@ Notes: so far 常与现在完成时连用。
  > 他没计划好时间，结果没及时完成工作。  
 
 
-# ***so...as to*** 
+# *** *so...as to*** 
 
 
   
@@ -30157,7 +30156,7 @@ Notes: so far 常与现在完成时连用。
  > 那部电影恐怖得让你毛骨悚然。  
 
 
-# ***soap opera*** n
+# *** *soap opera*** n
 
 
   
@@ -30167,7 +30166,7 @@ Notes: so far 常与现在完成时连用。
 1.**肥皂剧**  
 
 
-# ***social media*** 
+# *** *social media*** 
 
 
   
@@ -30177,7 +30176,7 @@ Notes: so far 常与现在完成时连用。
 1.**社交媒体**  
 
 
-# ***social rules*** 
+# *** *social rules*** 
 
 
   
@@ -30187,7 +30186,7 @@ Notes: so far 常与现在完成时连用。
 1.**社交规则**  
 
 
-# ***soft copy*** 
+# *** *soft copy*** 
 
 
   
@@ -30197,7 +30196,7 @@ Notes: so far 常与现在完成时连用。
 1.**软副本 (指存在计算机里或显示在屏幕上的资料)**  
 
 
-# ***solar system*** 
+# *** *solar system*** 
 
 
   
@@ -30211,7 +30210,7 @@ Notes: so far 常与现在完成时连用。
  > 来源：人教③ – 4  
 
 
-# ***some ... or other*** 
+# *** *some ... or other*** 
 
 
   
@@ -30224,7 +30223,7 @@ Notes: so far 常与现在完成时连用。
  > 我以前曾在某一本书里读到过与此有关的内容。  
 
 
-# ***some day*** 
+# *** *some day*** 
 
 
   
@@ -30237,7 +30236,7 @@ Notes: so far 常与现在完成时连用。
  > 我希望有一天能见到他。  
 
 
-# ***some more*** 
+# *** *some more*** 
 
 
   
@@ -30250,7 +30249,7 @@ Notes: so far 常与现在完成时连用。
  > 再吃些面包，那样你会感觉好一些。  
 
 
-# ***something else*** 
+# *** *something else*** 
 
 
   
@@ -30263,7 +30262,7 @@ Notes: so far 常与现在完成时连用。
  > 他说了另外一件事，我觉得很有趣。  
 
 
-# ***sooner or later*** 
+# *** *sooner or later*** 
 
 
   
@@ -30276,7 +30275,7 @@ Notes: so far 常与现在完成时连用。
  > 不管怎样，她迟早会醒悟过来。  
 
 
-# ***sort of*** 
+# *** *sort of*** 
 
 
   
@@ -30292,7 +30291,7 @@ Notes: so far 常与现在完成时连用。
  > 知道一点儿。  
 
 
-# ***sort out*** 
+# *** *sort out*** 
 
 
   
@@ -30309,7 +30308,7 @@ Notes: so far 常与现在完成时连用。
  > 来源：2013 湖北改  
 
 
-# ***sort out (from)*** 
+# *** *sort out (from)*** 
 
 
   
@@ -30326,7 +30325,7 @@ Notes: so far 常与现在完成时连用。
  > 来源：2013 湖北改  
 
 
-# ***soul music*** 
+# *** *soul music*** 
 
 
   
@@ -30336,7 +30335,7 @@ Notes: so far 常与现在完成时连用。
 1.**灵乐**  
 
 
-# ***sound as if / though*** 
+# *** *sound as if / though*** 
 
 
   
@@ -30350,7 +30349,7 @@ Notes: so far 常与现在完成时连用。
  > 来源：外研⑤ – 3  
 
 
-# ***spare no expense / effort*** 
+# *** *spare no expense / effort*** 
 
 
   
@@ -30363,7 +30362,7 @@ Notes: so far 常与现在完成时连用。
  > 为了造福子孙后代，我们应不遗余力地保护我们的地球母亲。  
 
 
-# ***speak for*** 
+# *** *speak for*** 
 
 
   
@@ -30373,7 +30372,7 @@ Notes: so far 常与现在完成时连用。
 1.**代表…讲话 / 发言**  
 
 
-# ***speak highly of*** 
+# *** *speak highly of*** 
 
 
   
@@ -30386,7 +30385,7 @@ Notes: so far 常与现在完成时连用。
  > 世界各国媒体高度评价中国改革所取得的成就。  
 
 
-# ***speak of*** 
+# *** *speak of*** 
 
 
   
@@ -30399,7 +30398,7 @@ Notes: so far 常与现在完成时连用。
  > 他谈到了法国人以及他们排队的习惯。  
 
 
-# ***speak out / up*** 
+# *** *speak out / up*** 
 
 
   
@@ -30412,7 +30411,7 @@ Notes: so far 常与现在完成时连用。
  > 大声说，我们听不见你说话。  
 
 
-# ***speak up*** 
+# *** *speak up*** 
 
 
   
@@ -30422,7 +30421,7 @@ Notes: so far 常与现在完成时连用。
 1.**大声地说, 自由而大胆地说出**  
 
 
-# ***speed up*** 
+# *** *speed up*** 
 
 
   
@@ -30440,7 +30439,7 @@ Notes: so far 常与现在完成时连用。
  > 现代发明大大加快了人们的生活节奏。  
 
 
-# ***split up*** 
+# *** *split up*** 
 
 
   
@@ -30450,7 +30449,7 @@ Notes: so far 常与现在完成时连用。
 1.**分裂; 分割**  
 
 
-# ***spread out*** 
+# *** *spread out*** 
 
 
   
@@ -30466,7 +30465,7 @@ Notes: so far 常与现在完成时连用。
  > 搜索人员分散开来，以便于更快地搜索该地区。  
 
 
-# ***spring up*** 
+# *** *spring up*** 
 
 
   
@@ -30476,7 +30475,7 @@ Notes: so far 常与现在完成时连用。
 1.**突然兴起，迅速出现**  
 
 
-# ***spy on*** 
+# *** *spy on*** 
 
 
   
@@ -30489,7 +30488,7 @@ Notes: so far 常与现在完成时连用。
  > 暗中监视某人  
 
 
-# ***squeeze out*** 
+# *** *squeeze out*** 
 
 
   
@@ -30503,7 +30502,7 @@ Notes: so far 常与现在完成时连用。
  > 来源：人教⑤ – 5  
 
 
-# ***stainless steel*** n
+# *** *stainless steel*** n
 
 
   
@@ -30513,7 +30512,7 @@ Notes: so far 常与现在完成时连用。
 1.**不锈钢**  
 
 
-# ***stand a chance*** 
+# *** *stand a chance*** 
 
 
   
@@ -30526,7 +30525,7 @@ Notes: so far 常与现在完成时连用。
  > 一个有决心的人只要坚持梦想就有可能成功。  
 
 
-# ***stand back*** 
+# *** *stand back*** 
 
 
   
@@ -30536,7 +30535,7 @@ Notes: so far 常与现在完成时连用。
 1.**退后；退一步 (考虑问题)**  
 
 
-# ***stand by*** 
+# *** *stand by*** 
 
 
   
@@ -30549,7 +30548,7 @@ Notes: so far 常与现在完成时连用。
  > 他那样虐待他的狗，你怎么能袖手旁观呢？  
 
 
-# ***stand by sth*** 
+# *** *stand by sth*** 
 
 
   
@@ -30563,7 +30562,7 @@ Notes: so far 常与现在完成时连用。
  > 来源：北师大③ – 8  
 
 
-# ***stand for*** 
+# *** *stand for*** 
 
 
   
@@ -30576,7 +30575,7 @@ Notes: so far 常与现在完成时连用。
  > 美国国旗上的每一颗星代表美国的一个州。  
 
 
-# ***stand in one's path*** 
+# *** *stand in one's path*** 
 
 
   
@@ -30586,7 +30585,7 @@ Notes: so far 常与现在完成时连用。
 1.**阻碍（某人）**  
 
 
-# ***stand on one's own feet*** 
+# *** *stand on one's own feet*** 
 
 
   
@@ -30596,7 +30595,7 @@ Notes: so far 常与现在完成时连用。
 1.**独立自主**  
 
 
-# ***stand out*** 
+# *** *stand out*** 
 
 
   
@@ -30614,7 +30613,7 @@ Notes: so far 常与现在完成时连用。
  > 来源：2013 湖南  
 
 
-# ***stand up for*** 
+# *** *stand up for*** 
 
 
   
@@ -30627,7 +30626,7 @@ Notes: so far 常与现在完成时连用。
  > 罗莎·帕克斯拒绝给白人让座维护了全体美国人的利益。  
 
 
-# ***star in*** 
+# *** *star in*** 
 
 
   
@@ -30641,7 +30640,7 @@ Notes: so far 常与现在完成时连用。
  > 来源：人教④ – 3  
 
 
-# ***stare at*** 
+# *** *stare at*** 
 
 
   
@@ -30655,7 +30654,7 @@ Notes: so far 常与现在完成时连用。
  > 来源：2009 重庆  
 
 
-# ***start off / out*** 
+# *** *start off / out*** 
 
 
   
@@ -30671,7 +30670,7 @@ Notes: so far 常与现在完成时连用。
  > 我起初是售票员，但后来成了公共汽车司机。  
 
 
-# ***start up*** 
+# *** *start up*** 
 
 
   
@@ -30689,7 +30688,7 @@ Notes: so far 常与现在完成时连用。
  > 司机回到车上发动了引擎。  
 
 
-# ***state of affairs*** 
+# *** *state of affairs*** 
 
 
   
@@ -30704,7 +30703,7 @@ Notes: so far 常与现在完成时连用。
 ### 辨析 matter, affair, event
 三者都有“事情”之意。  
 
-# ***stay away*** 
+# *** *stay away*** 
 
 
   
@@ -30718,7 +30717,7 @@ Notes: so far 常与现在完成时连用。
  > 来源：2012 北京  
 
 
-# ***stay in*** 
+# *** *stay in*** 
 
 
   
@@ -30728,7 +30727,7 @@ Notes: so far 常与现在完成时连用。
 1.**待在家里；不外出**  
 
 
-# ***stay on*** 
+# *** *stay on*** 
 
 
   
@@ -30741,7 +30740,7 @@ Notes: so far 常与现在完成时连用。
  > 这份工作我继续干了5个月。  
 
 
-# ***stay out*** 
+# *** *stay out*** 
 
 
   
@@ -30755,7 +30754,7 @@ Notes: so far 常与现在完成时连用。
  > 他开始深夜不归，在外面喝酒。  
 
 
-# ***stay out of*** 
+# *** *stay out of*** 
 
 
   
@@ -30768,7 +30767,7 @@ Notes: so far 常与现在完成时连用。
  > 避免麻烦  
 
 
-# ***stay up*** 
+# *** *stay up*** 
 
 
   
@@ -30781,7 +30780,7 @@ Notes: so far 常与现在完成时连用。
  > 我熬了一整夜准备历史考试。  
 
 
-# ***steak tartare*** 
+# *** *steak tartare*** 
 英音 ˌsteɪktɑː'tɑː(r)     美音 ˌsteɪktɑːr'tɑːr  
 
   
@@ -30791,7 +30790,7 @@ Notes: so far 常与现在完成时连用。
 1.**鞑靼牛肉末**  
 
 
-# ***stem cell*** 
+# *** *stem cell*** 
 
 
   
@@ -30805,7 +30804,7 @@ Notes: so far 常与现在完成时连用。
  > 来源：2016 全国  
 
 
-# ***step up*** 
+# *** *step up*** 
 
 
   
@@ -30815,7 +30814,7 @@ Notes: so far 常与现在完成时连用。
 1.**加紧，加强，促进**  
 
 
-# ***stick around*** 
+# *** *stick around*** 
 
 
   
@@ -30825,7 +30824,7 @@ Notes: so far 常与现在完成时连用。
 1.**[非正式用语] 不走开；待在原地**  
 
 
-# ***stick out*** 
+# *** *stick out*** 
 
 
   
@@ -30841,7 +30840,7 @@ Notes: so far 常与现在完成时连用。
  > 照片上，爱德华头发很短，双耳突出。  
 
 
-# ***stick to*** 
+# *** *stick to*** 
 
 
   
@@ -30857,7 +30856,7 @@ Notes: so far 常与现在完成时连用。
  > 他一旦许下诺言，就会坚守这个诺言。  
 
 
-# ***stick up*** 
+# *** *stick up*** 
 
 
   
@@ -30871,7 +30870,7 @@ Notes: so far 常与现在完成时连用。
  > 来源：北师大⑧ – 24  
 
 
-# ***stick with*** 
+# *** *stick with*** 
 
 
   
@@ -30892,7 +30891,7 @@ Notes: so far 常与现在完成时连用。
  > 我余生将永远记住这些话。  
 
 
-# ***still life*** n
+# *** *still life*** n
 
 
   
@@ -30902,7 +30901,7 @@ Notes: so far 常与现在完成时连用。
 1.**静物画**  
 
 
-# ***stir up*** 
+# *** *stir up*** 
 
 
   
@@ -30918,7 +30917,7 @@ Notes: so far 常与现在完成时连用。
  > 我们的麻烦事儿已经够多的了，你就别再挑拨是非了。  
 
 
-# ***stop off (in / at)*** 
+# *** *stop off (in / at)*** 
 
 
   
@@ -30932,7 +30931,7 @@ Notes: so far 常与现在完成时连用。
  > 来源：2009 全国  
 
 
-# ***stop sth. in its tracks*** 
+# *** *stop sth. in its tracks*** 
 
 
   
@@ -30942,7 +30941,7 @@ Notes: so far 常与现在完成时连用。
 1.**终止；消灭**  
 
 
-# ***straight away*** 
+# *** *straight away*** 
 
 
   
@@ -30955,7 +30954,7 @@ Notes: so far 常与现在完成时连用。
  > 我马上给妈妈打了电话。  
 
 
-# ***straight away / off*** 
+# *** *straight away / off*** 
 
 
   
@@ -30968,7 +30967,7 @@ Notes: so far 常与现在完成时连用。
  > 我马上给妈妈打了电话。  
 
 
-# ***strike ... into one's heart*** 
+# *** *strike ... into one's heart*** 
 
 
   
@@ -30981,7 +30980,7 @@ Notes: so far 常与现在完成时连用。
  > 使某人胆战心惊  
 
 
-# ***strike a balance*** 
+# *** *strike a balance*** 
 
 
   
@@ -30994,7 +30993,7 @@ Notes: so far 常与现在完成时连用。
  > 他发现家庭和工作两者很难兼顾。  
 
 
-# ***strike a deal*** 
+# *** *strike a deal*** 
 
 
   
@@ -31004,7 +31003,7 @@ Notes: so far 常与现在完成时连用。
 1.**达成协议**  
 
 
-# ***stringed instrument*** 
+# *** *stringed instrument*** 
 
 
   
@@ -31014,7 +31013,7 @@ Notes: so far 常与现在完成时连用。
 1.**弦乐器**  
 
 
-# ***subject matter*** 
+# *** *subject matter*** 
 
 
   
@@ -31028,7 +31027,7 @@ Notes: so far 常与现在完成时连用。
  > 来源：2011 重庆改  
 
 
-# ***subscribe (to)*** 
+# *** *subscribe (to)*** 
 
 
   
@@ -31042,7 +31041,7 @@ Notes: so far 常与现在完成时连用。
  > 来源：人教⑥ – 4  
 
 
-# ***subscribe to*** 
+# *** *subscribe to*** 
 
 
   
@@ -31056,7 +31055,7 @@ Notes: so far 常与现在完成时连用。
  > 来源：人教⑥ – 4  
 
 
-# ***such ... as*** 
+# *** *such ... as*** 
 
 
   
@@ -31073,7 +31072,7 @@ Notes: so far 常与现在完成时连用。
  > 来源：2014 福建  
 
 
-# ***such as*** 
+# *** *such as*** 
 
 
   
@@ -31096,7 +31095,7 @@ Notes: such as常用来进行列举，并直接放在列举的名 词之前。fo
  > 例如墨西哥、加拿大和中国，都有石油储备。  
 
 
-# ***such that / as to*** 
+# *** *such that / as to*** 
 
 
   
@@ -31119,7 +31118,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 我没有作过那样的决定。  
 
 
-# ***such … that*** 
+# *** *such … that*** 
 
 
   
@@ -31136,7 +31135,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 来源：2009 浙江  
 
 
-# ***suffer from*** 
+# *** *suffer from*** 
 
 
   
@@ -31150,7 +31149,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 来源：2013 陕西  
 
 
-# ***suit ... to*** 
+# *** *suit ... to*** 
 
 
   
@@ -31165,7 +31164,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
 ### 辨析 fit, match, suit
 三者都可用作动词，表“适合”之意。  
 
-# ***suitable for*** 
+# *** *suitable for*** 
 
 
   
@@ -31181,7 +31180,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 这本书列出了适合英国花园种植的花草。  
 
 
-# ***sum up*** 
+# *** *sum up*** 
 
 
   
@@ -31198,7 +31197,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 总之，要想心脏健康，你必须经常运动并戒烟。  
 
 
-# ***suspension bridge*** 
+# *** *suspension bridge*** 
 
 
   
@@ -31208,7 +31207,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
 1.**吊桥**  
 
 
-# ***swallow up*** 
+# *** *swallow up*** 
 
 
   
@@ -31227,7 +31226,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 雾霾笼罩着整个城市。  
 
 
-# ***sweep away*** 
+# *** *sweep away*** 
 
 
   
@@ -31240,7 +31239,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 许多房子都被洪水冲走了。  
 
 
-# ***sweep over*** 
+# *** *sweep over*** 
 
 
   
@@ -31250,7 +31249,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
 1.**向……扩展**  
 
 
-# ***sweep up*** 
+# *** *sweep up*** 
 
 
   
@@ -31260,7 +31259,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
 1.**打扫；横扫**  
 
 
-# ***sweet dumpling*** 
+# *** *sweet dumpling*** 
 
 
   
@@ -31270,7 +31269,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
 1.**元宵**  
 
 
-# ***swell up*** 
+# *** *swell up*** 
 
 
   
@@ -31280,7 +31279,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
 1.**肿胀，膨胀**  
 
 
-# ***switch off*** 
+# *** *switch off*** 
 
 
   
@@ -31297,7 +31296,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 谢天谢地，我已经学会了不再烦恼，把它抛到脑后。  
 
 
-# ***switch on*** 
+# *** *switch on*** 
 
 
   
@@ -31311,7 +31310,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 来源：外研④ – 3  
 
 
-# ***switch over*** 
+# *** *switch over*** 
 
 
   
@@ -31324,7 +31323,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 我们已经改用电话银行服务了。  
 
 
-# ***symbolic ambassador*** 
+# *** *symbolic ambassador*** 
 
 
   
@@ -31334,7 +31333,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
 1.**形象大使**  
 
 
-# ***table tennis*** n
+# *** *table tennis*** n
 英音 'teibl'tenis     美音 'teibl'tenis  
 
 | 词频 2 |  
@@ -31346,7 +31345,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
 1.*高义频：* **乒乓球运动(AmE Ping-Pong)**  
 
 
-# ***tae kwon do*** n
+# *** *tae kwon do*** n
 英音 ˌtaɪˌkwɒn'dəʊ     美音 ˌtaɪˌkwɑːn'doʊ  
 
 | 词频 1 |  
@@ -31356,7 +31355,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
 1.**跆拳道**  
 
 
-# ***take ... by surprise*** 
+# *** *take ... by surprise*** 
 
 
   
@@ -31372,7 +31371,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 部队在睡梦中遭到突袭。  
 
 
-# ***take ... for example*** 
+# *** *take ... for example*** 
 
 
   
@@ -31385,7 +31384,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 你可以拿你的研究工作做个例子。  
 
 
-# ***take ... for granted*** 
+# *** *take ... for granted*** 
 
 
   
@@ -31399,7 +31398,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 来源：2009 重庆书面表达  
 
 
-# ***take ... into consideration*** 
+# *** *take ... into consideration*** 
 
 
   
@@ -31412,7 +31411,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 在给你的考卷打分时，我们会考虑到你近期生病的因素。  
 
 
-# ***take / gain / get control (of / over)*** 
+# *** *take / gain / get control (of / over)*** 
 
 
   
@@ -31426,7 +31425,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 来源：2010 湖南改  
 
 
-# ***take a breath*** 
+# *** *take a breath*** 
 
 
   
@@ -31436,7 +31435,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
 1.**吸一口气**  
 
 
-# ***take a chance*** 
+# *** *take a chance*** 
 
 
   
@@ -31449,7 +31448,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 我虽没有把握打败他，但还是要碰碰运气。  
 
 
-# ***take account of / take ... into account*** 
+# *** *take account of / take ... into account*** 
 
 
   
@@ -31465,7 +31464,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 人们在演讲时必须要考虑听众。  
 
 
-# ***take action*** 
+# *** *take action*** 
 
 
   
@@ -31478,7 +31477,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 我们必须采取行动防治污染。  
 
 
-# ***take advantage of*** 
+# *** *take advantage of*** 
 
 
   
@@ -31492,7 +31491,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 来源：2016 江苏  
 
 
-# ***take apart*** 
+# *** *take apart*** 
 
 
   
@@ -31506,7 +31505,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 来源：人教② – 1  
 
 
-# ***take away*** 
+# *** *take away*** 
 
 
   
@@ -31525,7 +31524,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 给我开了些止疼药片。  
 
 
-# ***take back*** 
+# *** *take back*** 
 
 
   
@@ -31541,7 +31540,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 我要收回刚才说的话。  
 
 
-# ***take care*** 
+# *** *take care*** 
 
 
   
@@ -31565,7 +31564,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 再见，多保重！  
 
 
-# ***take care of*** 
+# *** *take care of*** 
 
 
   
@@ -31586,7 +31585,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 你负责为今晚的聚会买水果好吗？  
 
 
-# ***take chances / a chance*** 
+# *** *take chances / a chance*** 
 
 
   
@@ -31603,7 +31602,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 我虽没有把握打败他，但还是要碰碰运气。  
 
 
-# ***take charge of*** 
+# *** *take charge of*** 
 
 
   
@@ -31617,7 +31616,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 来源：2010 安徽  
 
 
-# ***take control of*** 
+# *** *take control of*** 
 
 
   
@@ -31633,7 +31632,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 鼓励学生要自己安排学习，而不只是依赖老师。  
 
 
-# ***take down*** 
+# *** *take down*** 
 
 
   
@@ -31653,7 +31652,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 来源：2009 江西  
 
 
-# ***take effect*** 
+# *** *take effect*** 
 
 
   
@@ -31666,7 +31665,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 这些措施刚开始见效。  
 
 
-# ***take exercise*** 
+# *** *take exercise*** 
 
 
   
@@ -31679,7 +31678,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 医生建议他多运动。  
 
 
-# ***take hold of*** 
+# *** *take hold of*** 
 
 
   
@@ -31692,7 +31691,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 抬桌子那头，帮我把它移开。  
 
 
-# ***take in*** 
+# *** *take in*** 
 
 
   
@@ -31720,7 +31719,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 她用一番花言巧语完全把我骗住了。  
 
 
-# ***take it easy*** 
+# *** *take it easy*** 
 
 
   
@@ -31733,7 +31732,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 别着急，彼得，我来帮你解决。  
 
 
-# ***take it easy / take things easy*** 
+# *** *take it easy / take things easy*** 
 
 
   
@@ -31754,7 +31753,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 来源：2012 全国  
 
 
-# ***take matters in one's own hands*** 
+# *** *take matters in one's own hands*** 
 
 
   
@@ -31768,7 +31767,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 来源：2017 浙江  
 
 
-# ***take note of*** 
+# *** *take note of*** 
 
 
   
@@ -31782,7 +31781,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 来源：2008 湖南改  
 
 
-# ***take notes*** 
+# *** *take notes*** 
 
 
   
@@ -31795,7 +31794,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 你在课堂上做笔记了吗？  
 
 
-# ***take notice of*** 
+# *** *take notice of*** 
 
 
   
@@ -31808,7 +31807,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 你本该多加注意外面的告示。  
 
 
-# ***take off*** 
+# *** *take off*** 
 
 
   
@@ -31841,7 +31840,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 来源：2016 江苏  
 
 
-# ***take on*** 
+# *** *take on*** 
 
 
   
@@ -31862,7 +31861,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 来源：2010 湖南改  
 
 
-# ***take one's advice*** 
+# *** *take one's advice*** 
 
 
   
@@ -31875,7 +31874,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 我当初要是采纳了你的建议就好了。  
 
 
-# ***take one's seat*** 
+# *** *take one's seat*** 
 
 
   
@@ -31888,7 +31887,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 他们在小圆桌旁就座。  
 
 
-# ***take out*** 
+# *** *take out*** 
 
 
   
@@ -31913,7 +31912,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 来源：2009 全国改  
 
 
-# ***take over*** 
+# *** *take over*** 
 
 
   
@@ -31929,7 +31928,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 我替你开会儿车怎么样？  
 
 
-# ***take pains to do sth*** 
+# *** *take pains to do sth*** 
 
 
   
@@ -31943,7 +31942,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 来源：2015 福建书面表达  
 
 
-# ***take part (in)*** 
+# *** *take part (in)*** 
 
 
   
@@ -31963,7 +31962,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 辨析 join, join in, take part in, attend
 四者都常译为“参加”。  
 
-# ***take part in*** 
+# *** *take part in*** 
 
 
   
@@ -31983,7 +31982,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 辨析 join, join in, take part in, attend
 四者都常译为“参加”。  
 
-# ***take place*** 
+# *** *take place*** 
 
 
   
@@ -31998,7 +31997,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 辨析 happen, take place
 二者都可指“发生”。  
 
-# ***take possession of*** 
+# *** *take possession of*** 
 
 
   
@@ -32011,7 +32010,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我们已经买了房子，但要到五月份才能拿到。  
 
 
-# ***take pride in*** 
+# *** *take pride in*** 
 
 
   
@@ -32025,7 +32024,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：2018 浙江  
 
 
-# ***take risks (a risk)*** 
+# *** *take risks (a risk)*** 
 
 
   
@@ -32039,7 +32038,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：人教⑥ – 3  
 
 
-# ***take sb / sth seriously*** 
+# *** *take sb / sth seriously*** 
 
 
   
@@ -32052,7 +32051,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 让我们把困难看做一种考验，认真地对待吧！  
 
 
-# ***take sb's fancy*** 
+# *** *take sb's fancy*** 
 
 
   
@@ -32066,7 +32065,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：2010 安徽书面表达  
 
 
-# ***take sb. in one's arms*** 
+# *** *take sb. in one's arms*** 
 
 
   
@@ -32076,7 +32075,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**拥抱某人**  
 
 
-# ***take shape*** 
+# *** *take shape*** 
 
 
   
@@ -32089,7 +32088,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 一个想法开始在他的脑海中形成。  
 
 
-# ***take sth into consideration*** 
+# *** *take sth into consideration*** 
 
 
   
@@ -32106,7 +32105,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：2015 上海书面表达  
 
 
-# ***take the lead*** 
+# *** *take the lead*** 
 
 
   
@@ -32120,7 +32119,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：2011 辽宁  
 
 
-# ***take the place of*** 
+# *** *take the place of*** 
 
 
   
@@ -32136,7 +32135,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 她不能出席会议，所以她的助手代替了她。  
 
 
-# ***take the trouble to do sth*** 
+# *** *take the trouble to do sth*** 
 
 
   
@@ -32150,7 +32149,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：2009 福建书面表达改  
 
 
-# ***take to*** 
+# *** *take to*** 
 
 
   
@@ -32166,7 +32165,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我养成了6点起床去慢跑的习惯。  
 
 
-# ***take trouble doing / to do sth*** 
+# *** *take trouble doing / to do sth*** 
 
 
   
@@ -32179,7 +32178,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 这项工作做得很糟糕，他没有尽心尽力地去做。  
 
 
-# ***take turns*** 
+# *** *take turns*** 
 
 
   
@@ -32197,7 +32196,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我们轮流做家务。  
 
 
-# ***take up*** 
+# *** *take up*** 
 
 
   
@@ -32230,7 +32229,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 里克接受了挑战，独自骑行250英里。  
 
 
-# ***take your time*** 
+# *** *take your time*** 
 
 
   
@@ -32240,7 +32239,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**别着急**  
 
 
-# ***take … for granted*** 
+# *** *take … for granted*** 
 
 
   
@@ -32254,7 +32253,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：2009 重庆  
 
 
-# ***take…into account*** 
+# *** *take…into account*** 
 
 
   
@@ -32264,7 +32263,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**把……考虑进去**  
 
 
-# ***talk ... into / out of (doing) sth*** 
+# *** *talk ... into / out of (doing) sth*** 
 
 
   
@@ -32277,7 +32276,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我本不想移居国外，但是比尔把我说服了。  
 
 
-# ***talk over*** 
+# *** *talk over*** 
 
 
   
@@ -32291,7 +32290,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：2015 湖南  
 
 
-# ***talk show*** 
+# *** *talk show*** 
 
 
   
@@ -32301,7 +32300,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**谈话节目, 现场访谈**  
 
 
-# ***talk sth. over with sb.*** 
+# *** *talk sth. over with sb.*** 
 
 
   
@@ -32311,7 +32310,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**与……详细讨论……**  
 
 
-# ***tap dancing*** 
+# *** *tap dancing*** 
 
 
   
@@ -32321,7 +32320,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**踢踏舞**  
 
 
-# ***teach sb a lesson*** 
+# *** *teach sb a lesson*** 
 
 
   
@@ -32331,7 +32330,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**给某人一个教训**  
 
 
-# ***team up with*** 
+# *** *team up with*** 
 
 
   
@@ -32344,7 +32343,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 如果你愿意的话，可以找一个同学组成一组。  
 
 
-# ***tear down*** 
+# *** *tear down*** 
 
 
   
@@ -32357,7 +32356,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 尽早拆除这堵危墙，否则不知什么时候它会倒塌并伤到你的家人。  
 
 
-# ***tear up*** 
+# *** *tear up*** 
 
 
   
@@ -32373,7 +32372,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 大风把树连根拔起。  
 
 
-# ***tell ... apart*** 
+# *** *tell ... apart*** 
 
 
   
@@ -32383,7 +32382,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**区分开**  
 
 
-# ***tell a lie*** 
+# *** *tell a lie*** 
 
 
   
@@ -32393,7 +32392,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**说谎**  
 
 
-# ***tell by*** 
+# *** *tell by*** 
 
 
   
@@ -32406,7 +32405,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 从他的衣服式样我可以看出他不是个穷人。  
 
 
-# ***tell jokes*** 
+# *** *tell jokes*** 
 
 
   
@@ -32419,7 +32418,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 他喜欢讲笑话。  
 
 
-# ***tend to*** 
+# *** *tend to*** 
 
 
   
@@ -32432,7 +32431,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 机遇和成功往往青睐那些有准备的人。  
 
 
-# ***tend to / toward(s) sth*** 
+# *** *tend to / toward(s) sth*** 
 
 
   
@@ -32445,7 +32444,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我所听的音乐形形色色，不过一般都是轻音乐。  
 
 
-# ***tend to do sth*** 
+# *** *tend to do sth*** 
 
 
   
@@ -32464,7 +32463,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：2016 全国  
 
 
-# ***test out*** 
+# *** *test out*** 
 
 
   
@@ -32477,7 +32476,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 李博士设计了一系列实验来检验他的理论。  
 
 
-# ***text message*** n
+# *** *text message*** n
 
 
   
@@ -32490,7 +32489,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 短信  
 
 
-# ***thanks to*** 
+# *** *thanks to*** 
 
 
   
@@ -32504,7 +32503,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：2012 湖南书面表达改  
 
 
-# ***that is to say*** 
+# *** *that is to say*** 
 
 
   
@@ -32517,7 +32516,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 他们是两周前，也就是7月27日动身的。  
 
 
-# ***the Amazon Jungle*** 
+# *** *the Amazon Jungle*** 
 
 
   
@@ -32527,7 +32526,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.*高义频：* **亚马孙河热带丛林**  
 
 
-# ***the Andes mountains*** 
+# *** *the Andes mountains*** 
 
 
   
@@ -32537,7 +32536,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.*高义频：* **安第斯山脉**  
 
 
-# ***the Antarctic*** 
+# *** *the Antarctic*** 
 
 
   
@@ -32547,7 +32546,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**南极洲**  
 
 
-# ***the Arctic*** 
+# *** *the Arctic*** 
 
 
 | 词频 1 |  
@@ -32557,7 +32556,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.*高义频：* **北极**  
 
 
-# ***the Arctic Circle*** n
+# *** *the Arctic Circle*** n
 
 
   
@@ -32567,7 +32566,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**北极圈**  
 
 
-# ***the Big Dipper*** 
+# *** *the Big Dipper*** 
 
 
   
@@ -32577,7 +32576,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**北斗七星**  
 
 
-# ***the Dragon Boat Festival*** 
+# *** *the Dragon Boat Festival*** 
 
 
   
@@ -32587,7 +32586,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**端午节**  
 
 
-# ***the Foundation trilogy*** 
+# *** *the Foundation trilogy*** 
 英音 ðə faʊn'deɪʃn 'trɪlədʒi     美音 ðə faʊn'deɪʃn 'trɪlədʒi  
 
 | 词频 1 |  
@@ -32597,7 +32596,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.*高义频：* **《基地》 三部曲**  
 
 
-# ***the International Olympic Committee / IOC*** 
+# *** *the International Olympic Committee / IOC*** 
 
 
   
@@ -32607,7 +32606,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**国际奥林匹克委员会**  
 
 
-# ***the Lantern Festival*** 
+# *** *the Lantern Festival*** 
 
 
   
@@ -32617,7 +32616,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**元宵节**  
 
 
-# ***the Little Dipper*** 
+# *** *the Little Dipper*** 
 
 
   
@@ -32627,7 +32626,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**小北斗七星**  
 
 
-# ***the Middle East*** n
+# *** *the Middle East*** n
 
 
   
@@ -32637,7 +32636,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**中东，中东地区**  
 
 
-# ***the Milky Way*** 
+# *** *the Milky Way*** 
 
 
   
@@ -32647,7 +32646,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.*高义频：* **银河**  
 
 
-# ***the Monkees*** 
+# *** *the Monkees*** 
 英音 ðə mɔŋki:z     美音 ðə mɔŋki:z  
 
 | 词频 1 |  
@@ -32657,7 +32656,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.*高义频：* **门基乐队**  
 
 
-# ***the Norman Conquest*** 
+# *** *the Norman Conquest*** 
 
 
   
@@ -32667,7 +32666,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**诺曼征服（诺曼人对英格兰的军事征服）**  
 
 
-# ***the North Pole*** n
+# *** *the North Pole*** n
 
 
   
@@ -32680,7 +32679,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 在北极  
 
 
-# ***the Pentagon*** 
+# *** *the Pentagon*** 
 
 
   
@@ -32690,7 +32689,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**(美国) 五角大楼**  
 
 
-# ***the Renaissance*** 
+# *** *the Renaissance*** 
 英音 ðə rɪ'neɪsns     美音 ðə 'renəsɑːns  
 
 | 词频 1 |  
@@ -32700,7 +32699,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.*高义频：* **文艺复兴 (时期)**  
 
 
-# ***the Rocky Mountains*** 
+# *** *the Rocky Mountains*** 
 英音 ðə 'rɒki 'maʊntɪns     美音 ðə 'rɑːki 'maʊntɪns  
 
 | 词频 1 |  
@@ -32710,7 +32709,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.*高义频：* **落基山脉**  
 
 
-# ***the Statue of Liberty*** 
+# *** *the Statue of Liberty*** 
 
 
   
@@ -32720,7 +32719,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**自由女神像**  
 
 
-# ***the Tube*** 
+# *** *the Tube*** 
 
 
   
@@ -32730,7 +32729,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**（伦敦的）地下铁道，地铁**  
 
 
-# ***the Union Jack*** 
+# *** *the Union Jack*** 
 英音 ðə 'juːniən dʒæk     美音 ðə 'juːniən dʒæk  
 
 | 词频 1 |  
@@ -32740,7 +32739,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.*高义频：* **英国国旗**  
 
 
-# ***the United Nations*** 
+# *** *the United Nations*** 
 
 
   
@@ -32750,7 +32749,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**联合国**  
 
 
-# ***the Vatican City State*** 
+# *** *the Vatican City State*** 
 英音 ðə 'vætikən 'sɪti steɪt     美音 ðə 'vætikən 'sɪti steɪt  
 
 | 词频 1 |  
@@ -32760,7 +32759,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.*高义频：* **梵蒂冈城国**  
 
 
-# ***the apple of sb's eye*** 
+# *** *the apple of sb's eye*** 
 
 
   
@@ -32770,7 +32769,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**某人的掌上明珠 / 心肝宝贝：**  
 
 
-# ***the case*** 
+# *** *the case*** 
 
 
   
@@ -32788,7 +32787,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：2012 上海  
 
 
-# ***the chances are (that)*** 
+# *** *the chances are (that)*** 
 
 
   
@@ -32801,7 +32800,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 如果你邀请她，很可能她会拒绝。  
 
 
-# ***the charts*** n
+# *** *the charts*** n
 
 
   
@@ -32811,7 +32810,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**每周流行唱片排行榜**  
 
 
-# ***the elements*** 
+# *** *the elements*** 
 
 
   
@@ -32821,7 +32820,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**天气（尤指坏天气）**  
 
 
-# ***the following*** 
+# *** *the following*** 
 
 
   
@@ -32834,7 +32833,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 下面是关于BBC和其他一些英国广播电台的介绍。  
 
 
-# ***the former ... the latter*** 
+# *** *the former ... the latter*** 
 
 
   
@@ -32847,7 +32846,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 约翰和詹姆斯是兄弟，前者是老师，后者是工程师。  
 
 
-# ***the humanities*** 
+# *** *the humanities*** 
 
 
   
@@ -32857,7 +32856,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**人文学科 (the arts)**  
 
 
-# ***the instant (that)*** 
+# *** *the instant (that)*** 
 
 
   
@@ -32871,7 +32870,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：北师大⑤ – 14  
 
 
-# ***the last / final straw*** 
+# *** *the last / final straw*** 
 
 
   
@@ -32881,7 +32880,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**最后一根稻草；最后一击**  
 
 
-# ***the last minute*** 
+# *** *the last minute*** 
 
 
   
@@ -32895,7 +32894,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：2010 湖北  
 
 
-# ***the last straw*** 
+# *** *the last straw*** 
 
 
   
@@ -32905,7 +32904,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**（一系列烦恼、打击之外）最后使人受不了的事**  
 
 
-# ***the latest*** 
+# *** *the latest*** 
 
 
   
@@ -32921,7 +32920,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 你听到最新消息了吗？  
 
 
-# ***the media*** 
+# *** *the media*** 
 
 
   
@@ -32931,7 +32930,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.*高义频：* **大众传播媒体 (如电视、报纸等)**  
 
 
-# ***the minute / moment (that)*** 
+# *** *the minute / moment (that)*** 
 
 
   
@@ -32944,7 +32943,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 他一看到我脸就红了。  
 
 
-# ***the moment (that)*** 
+# *** *the moment (that)*** 
 
 
   
@@ -32962,7 +32961,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：2011 湖北  
 
 
-# ***the more ..., the more ...*** 
+# *** *the more ..., the more ...*** 
 
 
   
@@ -32980,7 +32979,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：外研① – 5  
 
 
-# ***the other day*** 
+# *** *the other day*** 
 
 
   
@@ -32994,7 +32993,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：译林⑤ – 3  
 
 
-# ***the same ... as*** 
+# *** *the same ... as*** 
 
 
   
@@ -33004,7 +33003,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**与……情况相同**  
 
 
-# ***the sooner / bigger / smaller, the better*** 
+# *** *the sooner / bigger / smaller, the better*** 
 
 
   
@@ -33014,7 +33013,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**越 (快 / 大 / 小) 越好**  
 
 
-# ***then / there again*** 
+# *** *then / there again*** 
 
 
   
@@ -33028,7 +33027,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：2014 广东  
 
 
-# ***there is a / no future in sth*** 
+# *** *there is a / no future in sth*** 
 
 
   
@@ -33041,7 +33040,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 他觉得务农没有前途。  
 
 
-# ***there is no sense in (doing) sth*** 
+# *** *there is no sense in (doing) sth*** 
 
 
   
@@ -33054,7 +33053,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 现在没有必要为这件事烦恼。  
 
 
-# ***there's no doing sth*** 
+# *** *there's no doing sth*** 
 
 
   
@@ -33071,7 +33070,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：2013 上海  
 
 
-# ***there's nothing like*** 
+# *** *there's nothing like*** 
 
 
   
@@ -33084,7 +33083,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 炎热的日子里，什么都比不上喝杯冰镇饮料。  
 
 
-# ***these days*** 
+# *** *these days*** 
 
 
   
@@ -33098,7 +33097,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：2006 全国  
 
 
-# ***think about*** 
+# *** *think about*** 
 
 
   
@@ -33112,7 +33111,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：2008 广东改  
 
 
-# ***think back to*** 
+# *** *think back to*** 
 
 
   
@@ -33122,7 +33121,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**回想**  
 
 
-# ***think highly of*** 
+# *** *think highly of*** 
 
 
   
@@ -33135,7 +33134,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我们应该对他高度评价，因为他总是把别人的利益放在首位。  
 
 
-# ***think of*** 
+# *** *think of*** 
 
 
   
@@ -33163,7 +33162,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 许多人认为杰克逊先生适合做总裁。  
 
 
-# ***think of ... as ...*** 
+# *** *think of ... as ...*** 
 
 
   
@@ -33179,7 +33178,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我认为他是个快乐的、有许多朋友的人。  
 
 
-# ***think over*** 
+# *** *think over*** 
 
 
   
@@ -33192,7 +33191,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我会慎重考虑你的建议，并在一两天内把我的决定告诉你。  
 
 
-# ***think up*** 
+# *** *think up*** 
 
 
   
@@ -33205,7 +33204,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 但愿我能想出一些方法，使他们相信自己错了。  
 
 
-# ***this minute*** 
+# *** *this minute*** 
 
 
   
@@ -33218,7 +33217,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 马上下来。  
 
 
-# ***thousands of*** 
+# *** *thousands of*** 
 
 
   
@@ -33232,7 +33231,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：外研③ – 5  
 
 
-# ***throw / cast light on / upon*** 
+# *** *throw / cast light on / upon*** 
 
 
   
@@ -33245,7 +33244,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 这本书使人了解全球气候变化带来的影响。  
 
 
-# ***throw away*** 
+# *** *throw away*** 
 
 
   
@@ -33265,7 +33264,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 这是你最好的机会，把握住，别放过。  
 
 
-# ***throw light on*** 
+# *** *throw light on*** 
 
 
   
@@ -33275,7 +33274,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**帮助弄清楚；阐明某事**  
 
 
-# ***throw off*** 
+# *** *throw off*** 
 
 
   
@@ -33291,7 +33290,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 他匆忙脱下外衣，开始工作。  
 
 
-# ***throw oneself into*** 
+# *** *throw oneself into*** 
 
 
   
@@ -33305,7 +33304,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：2015 四川  
 
 
-# ***throw oneself on*** 
+# *** *throw oneself on*** 
 
 
   
@@ -33322,7 +33321,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我就靠你来帮我赢得这场比赛了。  
 
 
-# ***throw oneself on ...*** 
+# *** *throw oneself on ...*** 
 
 
   
@@ -33339,7 +33338,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我就靠你来帮我赢得这场比赛了。  
 
 
-# ***throw out*** 
+# *** *throw out*** 
 
 
   
@@ -33355,7 +33354,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 如果不付房租，你就会被赶出去。  
 
 
-# ***throw the baby out with the bathwater*** 
+# *** *throw the baby out with the bathwater*** 
 
 
   
@@ -33365,7 +33364,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**不分良莠一起抛弃**  
 
 
-# ***throw up*** 
+# *** *throw up*** 
 
 
   
@@ -33378,7 +33377,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 恐惧地举起双手  
 
 
-# ***tick all the right boxes*** 
+# *** *tick all the right boxes*** 
 
 
   
@@ -33388,7 +33387,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**事情发展如人所愿,一切顺利**  
 
 
-# ***tie up*** 
+# *** *tie up*** 
 
 
   
@@ -33402,7 +33401,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：人教⑨ – 4  
 
 
-# ***tighten one's belt*** 
+# *** *tighten one's belt*** 
 
 
   
@@ -33412,7 +33411,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**[非正式用语] 勒紧裤腰带过日子**  
 
 
-# ***till now*** 
+# *** *till now*** 
 
 
   
@@ -33425,7 +33424,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 今年冬天，直到现在天气都很好。  
 
 
-# ***time after time / time and (time) again*** 
+# *** *time after time / time and (time) again*** 
 
 
   
@@ -33438,7 +33437,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我反复听这个句子，但还是不明白它的意思。  
 
 
-# ***tire out*** 
+# *** *tire out*** 
 
 
   
@@ -33448,7 +33447,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**使精疲力竭**  
 
 
-# ***to (the best of) sb's knowledge*** 
+# *** *to (the best of) sb's knowledge*** 
 
 
   
@@ -33458,7 +33457,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**据某人所知**  
 
 
-# ***to / till the last*** 
+# *** *to / till the last*** 
 
 
   
@@ -33471,7 +33470,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 他们战斗到最后一刻。  
 
 
-# ***to a (certain) degree / to some degree*** 
+# *** *to a (certain) degree / to some degree*** 
 
 
   
@@ -33485,7 +33484,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：2011 北京  
 
 
-# ***to a certain extent*** 
+# *** *to a certain extent*** 
 
 
   
@@ -33495,7 +33494,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**在某种程度上**  
 
 
-# ***to be continued*** 
+# *** *to be continued*** 
 
 
   
@@ -33505,7 +33504,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**未完待续**  
 
 
-# ***to be exact*** 
+# *** *to be exact*** 
 
 
   
@@ -33518,7 +33517,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我读到一篇有关纸的文章，确切地说，是关于美国人每年用纸量的文章。  
 
 
-# ***to be honest*** 
+# *** *to be honest*** 
 
 
   
@@ -33532,7 +33531,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：2008 四川  
 
 
-# ***to be sure*** 
+# *** *to be sure*** 
 
 
   
@@ -33545,7 +33544,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 她固然不是十全十美，但很漂亮。  
 
 
-# ***to begin with*** 
+# *** *to begin with*** 
 
 
   
@@ -33559,7 +33558,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：人教③ – 12  
 
 
-# ***to come*** 
+# *** *to come*** 
 
 
   
@@ -33573,7 +33572,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：译林① – 3  
 
 
-# ***to date*** 
+# *** *to date*** 
 
 
   
@@ -33586,7 +33585,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我认为把我们到目前为止的花费统计一下是明智的。  
 
 
-# ***to one's astonishment*** 
+# *** *to one's astonishment*** 
 
 
   
@@ -33599,7 +33598,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 令我惊讶的是，他竟然这样没有礼貌。  
 
 
-# ***to one's credit*** 
+# *** *to one's credit*** 
 
 
   
@@ -33613,7 +33612,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：人教⑤ – 2  
 
 
-# ***to one's heart's content*** 
+# *** *to one's heart's content*** 
 
 
   
@@ -33623,7 +33622,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**尽情地,心满意足地**  
 
 
-# ***to one's surprise*** 
+# *** *to one's surprise*** 
 
 
   
@@ -33637,7 +33636,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：2008 湖北  
 
 
-# ***to sb's credit*** 
+# *** *to sb's credit*** 
 
 
   
@@ -33651,7 +33650,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：人教⑤ – 2  
 
 
-# ***to sb's face*** 
+# *** *to sb's face*** 
 
 
   
@@ -33664,7 +33663,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 他们叫托尼“胖子”,但从未当面叫过他。  
 
 
-# ***to sb's horror / to the horror of sb*** 
+# *** *to sb's horror / to the horror of sb*** 
 
 
   
@@ -33677,12 +33676,12 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 令我感到惊恐的是，有个孩子从房顶上掉了下来。  
 
 
-# ***to sb's regret*** 
+# *** *to sb's regret*** 
 
 
   
 
-# ***to sb's satisfaction*** 
+# *** *to sb's satisfaction*** 
 
 
   
@@ -33695,7 +33694,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我通过了考试，心满意足。  
 
 
-# ***to sb's shame*** 
+# *** *to sb's shame*** 
 
 
   
@@ -33708,7 +33707,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 让我感到羞愧的是，由于粗心我犯了很多错误。  
 
 
-# ***to sb's surprise / to the surprise of sb*** 
+# *** *to sb's surprise / to the surprise of sb*** 
 
 
   
@@ -33722,7 +33721,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 来源：2008 湖北  
 
 
-# ***to some extent*** 
+# *** *to some extent*** 
 
 
   
@@ -33732,7 +33731,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 1.**在…程度上**  
 
 
-# ***to start with*** 
+# *** *to start with*** 
 
 
   
@@ -33745,7 +33744,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 起初我相当紧张，但过了一会儿就好了。  
 
 
-# ***to tell (you) the truth*** 
+# *** *to tell (you) the truth*** 
 
 
   
@@ -33758,7 +33757,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 老实说，我很担心下个月的期末考试。  
 
 
-# ***to the best of one's ability*** 
+# *** *to the best of one's ability*** 
 
 
   
@@ -33771,7 +33770,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我尽全力做好我的工作。  
 
 
-# ***to the contrary*** 
+# *** *to the contrary*** 
 
 
   
@@ -33784,7 +33783,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 除非有人反对，否则我会认为会议将准时召开。  
 
 
-# ***to the full / fullest*** 
+# *** *to the full / fullest*** 
 
 
   
@@ -33800,7 +33799,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 充分利用你的空闲时间很重要。  
 
 
-# ***to the point*** 
+# *** *to the point*** 
 
 
   
@@ -33817,7 +33816,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我希望你能切入正题。  
 
 
-# ***to this day*** 
+# *** *to this day*** 
 
 
   
@@ -33830,7 +33829,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 走之前来不及跟你告别，我至今后悔不已。  
 
 
-# ***to … extent*** 
+# *** *to … extent*** 
 
 
   
@@ -33847,7 +33846,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 他的成功在很大程度上得益于家人的支持。  
 
 
-# ***together with*** 
+# *** *together with*** 
 
 
   
@@ -33862,7 +33861,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 
 Notes: 句子的谓语动词应该与together with前面的主语保持人称与数的一致。  
 
-# ***toilet paper*** n
+# *** *toilet paper*** n
 
 
   
@@ -33875,7 +33874,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 一卷卫生纸  
 
 
-# ***touch down*** 
+# *** *touch down*** 
 
 
   
@@ -33888,7 +33887,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 中午前后，飞机终于在机场降落。  
 
 
-# ***touch on*** 
+# *** *touch on*** 
 
 
   
@@ -33898,7 +33897,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 1.**谈及，涉及**  
 
 
-# ***tourist spot*** n
+# *** *tourist spot*** n
 
 
 | 词频 1 |  
@@ -33908,7 +33907,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 1.**旅游景点**  
 
 
-# ***toy with*** 
+# *** *toy with*** 
 
 
   
@@ -33918,7 +33917,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 1.**戏弄，摆弄；把……当作儿戏**  
 
 
-# ***track and field*** 
+# *** *track and field*** 
 
 
   
@@ -33928,7 +33927,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 1.**田径**  
 
 
-# ***traffic jam*** n
+# *** *traffic jam*** n
 
 
   
@@ -33944,7 +33943,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 你是否碰到过交通阻塞？  
 
 
-# ***travel agent*** 
+# *** *travel agent*** 
 
 
   
@@ -33954,7 +33953,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 1.*高义频：* **旅行代办人；旅行代理人**  
 
 
-# ***treat ... as*** 
+# *** *treat ... as*** 
 
 
   
@@ -33968,7 +33967,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 来源：2013 全国  
 
 
-# ***treat sb to*** 
+# *** *treat sb to*** 
 
 
   
@@ -33983,7 +33982,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 来源：2010 湖南改  
 
 
-# ***trial and error*** 
+# *** *trial and error*** 
 
 
   
@@ -33996,7 +33995,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 孩子们通过不断摸索来掌握技能。  
 
 
-# ***trip over*** 
+# *** *trip over*** 
 
 
   
@@ -34006,7 +34005,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 1.**绊倒**  
 
 
-# ***trunk library*** 
+# *** *trunk library*** 
 
 
   
@@ -34016,7 +34015,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 1.*高义频：* **箱式 (柜式) 图书馆**  
 
 
-# ***try on*** 
+# *** *try on*** 
 
 
   
@@ -34029,7 +34028,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 我去裁缝店试穿我的新衣服。  
 
 
-# ***try out*** 
+# *** *try out*** 
 
 
   
@@ -34042,7 +34041,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 试验一种设想  
 
 
-# ***try out for*** 
+# *** *try out for*** 
 
 
   
@@ -34055,7 +34054,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 班上的全体学生都参加了篮球选拔赛。  
 
 
-# ***tune in*** 
+# *** *tune in*** 
 
 
   
@@ -34068,7 +34067,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 收听一个电台  
 
 
-# ***turn a blind eye to*** 
+# *** *turn a blind eye to*** 
 
 
   
@@ -34078,7 +34077,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 1.**对…视而不见**  
 
 
-# ***turn a deaf ear (to)*** 
+# *** *turn a deaf ear (to)*** 
 
 
   
@@ -34091,7 +34090,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 他们中的许多人对他的建议置之不理，即使他们知道他的建议是有益的。  
 
 
-# ***turn around*** 
+# *** *turn around*** 
 
 
   
@@ -34108,7 +34107,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 经过一年的努力，他使一个业绩糟糕的部门有了起色。  
 
 
-# ***turn around / round*** 
+# *** *turn around / round*** 
 
 
   
@@ -34125,7 +34124,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 经过一年的努力，他使一个业绩糟糕的部门有了起色。  
 
 
-# ***turn away*** 
+# *** *turn away*** 
 
 
   
@@ -34141,7 +34140,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 因礼堂满了，许多人被打发走了。  
 
 
-# ***turn back*** 
+# *** *turn back*** 
 
 
   
@@ -34158,7 +34157,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 人们又重新开始依靠自然资源生存。  
 
 
-# ***turn down*** 
+# *** *turn down*** 
 
 
   
@@ -34178,7 +34177,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 来源：2014 浙江  
 
 
-# ***turn in*** 
+# *** *turn in*** 
 
 
   
@@ -34194,7 +34193,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 她把在路上捡到的钱包上交了。  
 
 
-# ***turn into*** 
+# *** *turn into*** 
 
 
   
@@ -34212,7 +34211,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 来源：2016 北京  
 
 
-# ***turn off*** 
+# *** *turn off*** 
 
 
   
@@ -34226,7 +34225,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 来源：译林⑤ – 2  
 
 
-# ***turn on*** 
+# *** *turn on*** 
 
 
   
@@ -34258,7 +34257,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 那两条狗突然撕咬起来。  
 
 
-# ***turn one's back to*** 
+# *** *turn one's back to*** 
 
 
   
@@ -34268,7 +34267,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 1.**背对**  
 
 
-# ***turn out*** 
+# *** *turn out*** 
 
 
   
@@ -34298,7 +34297,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 许多人参加了聚会。  
 
 
-# ***turn over*** 
+# *** *turn over*** 
 
 
   
@@ -34324,7 +34323,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 她脑子里不断琢磨当天发生的事。  
 
 
-# ***turn round*** 
+# *** *turn round*** 
 
 
   
@@ -34334,7 +34333,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 1.**转过身来**  
 
 
-# ***turn sb. off*** 
+# *** *turn sb. off*** 
 
 
   
@@ -34344,7 +34343,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 1.**令人讨厌**  
 
 
-# ***turn to*** 
+# *** *turn to*** 
 
 
   
@@ -34361,7 +34360,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 来源：2008 上海春  
 
 
-# ***turn to somebody / something*** 
+# *** *turn to somebody / something*** 
 
 
   
@@ -34375,7 +34374,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 来源：2008 上海春  
 
 
-# ***turn up*** 
+# *** *turn up*** 
 
 
   
@@ -34401,7 +34400,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 别为那封信担心，我相信会找到的。  
 
 
-# ***turning point*** 
+# *** *turning point*** 
 
 
   
@@ -34411,7 +34410,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 1.**转折点**  
 
 
-# ***under age*** 
+# *** *under age*** 
 
 
   
@@ -34421,7 +34420,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 1.**未到法定年龄**  
 
 
-# ***under construction*** 
+# *** *under construction*** 
 
 
   
@@ -34434,7 +34433,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 这座城市现有4条地铁线路，还有几条正在建设中。  
 
 
-# ***under control*** 
+# *** *under control*** 
 
 
   
@@ -34448,7 +34447,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 她通过节食和锻炼来控制体重。  
 
 
-# ***under pressure*** 
+# *** *under pressure*** 
 
 
   
@@ -34461,7 +34460,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 我练就一副在压力下保持镇静的本领。  
 
 
-# ***under repair*** 
+# *** *under repair*** 
 
 
   
@@ -34475,7 +34474,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 来源：人教⑤ – 3  
 
 
-# ***under the control of*** 
+# *** *under the control of*** 
 
 
   
@@ -34488,7 +34487,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 所有的学校都归教育部管辖。  
 
 
-# ***under the name of*** 
+# *** *under the name of*** 
 
 
   
@@ -34498,7 +34497,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 1.**以…为别名**  
 
 
-# ***under the umbrella of*** 
+# *** *under the umbrella of*** 
 
 
   
@@ -34508,7 +34507,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 1.**在……的保护下，在……的管理下**  
 
 
-# ***under way*** 
+# *** *under way*** 
 
 
   
@@ -34518,7 +34517,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 1.**进行中**  
 
 
-# ***up and down*** 
+# *** *up and down*** 
 
 
   
@@ -34534,7 +34533,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 拉夫在房间里走来走去，看起来很着急。  
 
 
-# ***up close*** 
+# *** *up close*** 
 
 
   
@@ -34544,7 +34543,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 1.**靠近地**  
 
 
-# ***up to*** 
+# *** *up to*** 
 
 
   
@@ -34572,7 +34571,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 来源：北师大② – 4  
 
 
-# ***up to date*** 
+# *** *up to date*** 
 
 
   
@@ -34586,7 +34585,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 来源：译林⑦ – 1  
 
 
-# ***up to now*** 
+# *** *up to now*** 
 
 
   
@@ -34600,7 +34599,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 来源：外研① – 4  
 
 
-# ***up until*** 
+# *** *up until*** 
 
 
   
@@ -34614,7 +34613,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 来源：2008 湖南  
 
 
-# ***ups and downs*** 
+# *** *ups and downs*** 
 
 
   
@@ -34628,7 +34627,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 来源：2008 福建  
 
 
-# ***upside down*** adv
+# *** *upside down*** adv
 英音 'ʌpsaɪd 'daʊn     美音 'ʌpsaɪd 'daʊn  
 
 | 词频 1 |  
@@ -34641,7 +34640,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 倒挂在树上  
 
 
-# ***upwards of*** 
+# *** *upwards of*** 
 
 
   
@@ -34651,7 +34650,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 1.**在……以上，大于，超过**  
 
 
-# ***use up*** 
+# *** *use up*** 
 
 
   
@@ -34668,7 +34667,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 今日事，今日毕。  
 
 
-# ***used to*** modal v
+# *** *used to*** modal v
 英音 'juːst tə     美音 'juːst tə  
 
 | 词频 5 |  
@@ -34680,15 +34679,13 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 
 固定搭配
 ---
-- used to do sth 
-1.**过去常常做某事：**  
+## - *used to do sth   **过去常常做某事：**  
 
  > I used to play soccer with my brother every day.   
  > 以前我每天都和哥哥踢足球。  
  > 来源：北师大⑦ – 19  
 
-- used to be 
-1.**过去是：**  
+## - *used to be   **过去是：**  
 
  > I used to be a very self-centered person, but in the past two years I have really changed.   
  > 我过去曾是一个非常自私的人，但近两年来我真的变了。  
@@ -34705,7 +34702,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 你过去常到那里去，是吗？  
 
 
-# ***used to be*** 
+# *** *used to be*** 
 
 
   
@@ -34729,7 +34726,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 你过去常到那里去，是吗？  
 
 
-# ***used to do sth*** 
+# *** *used to do sth*** 
 
 
   
@@ -34743,7 +34740,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 来源：北师大⑦ – 19  
 
 
-# ***vary from ... to ...*** 
+# *** *vary from ... to ...*** 
 
 
   
@@ -34756,7 +34753,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 测验成绩各校不同。  
 
 
-# ***vice versa*** 
+# *** *vice versa*** 
 
 
   
@@ -34766,7 +34763,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**反过来也一样；反之亦然**  
 
 
-# ***virtual choir*** 
+# *** *virtual choir*** 
 
 
   
@@ -34776,7 +34773,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**虚拟合唱团**  
 
 
-# ***virtual reality*** 
+# *** *virtual reality*** 
 
 
   
@@ -34786,7 +34783,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**虚拟现实**  
 
 
-# ***volcanic eruption*** 
+# *** *volcanic eruption*** 
 英音 vɔl'kænɪk ɪ'rʌpʃən     美音 vɑl'kænɪk ɪ'rʌpʃən  
 
   
@@ -34796,7 +34793,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**火山爆发**  
 
 
-# ***wait a minute / moment / second*** 
+# *** *wait a minute / moment / second*** 
 
 
   
@@ -34806,7 +34803,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**等一会儿； 等一下**  
 
 
-# ***wait in line*** 
+# *** *wait in line*** 
 
 
   
@@ -34816,7 +34813,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**排队**  
 
 
-# ***waiting room*** n
+# *** *waiting room*** n
 
 
   
@@ -34826,7 +34823,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**候车室；等候室；候诊室**  
 
 
-# ***walk the dog*** 
+# *** *walk the dog*** 
 
 
   
@@ -34836,7 +34833,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**遛狗**  
 
 
-# ***walk up (to)*** 
+# *** *walk up (to)*** 
 
 
   
@@ -34846,7 +34843,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**走近**  
 
 
-# ***war memorial*** 
+# *** *war memorial*** 
 
 
   
@@ -34856,7 +34853,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**战争纪念碑**  
 
 
-# ***warm up*** 
+# *** *warm up*** 
 
 
   
@@ -34873,7 +34870,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 来源：2010 全国  
 
 
-# ***wash away*** 
+# *** *wash away*** 
 
 
   
@@ -34887,7 +34884,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 洪水冲走了镇上的一些房屋。  
 
 
-# ***wash off*** 
+# *** *wash off*** 
 
 
   
@@ -34897,7 +34894,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**洗掉；洗去**  
 
 
-# ***wash up*** 
+# *** *wash up*** 
 
 
   
@@ -34910,7 +34907,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 今天轮到你洗碗。  
 
 
-# ***watch out*** 
+# *** *watch out*** 
 
 
   
@@ -34924,7 +34921,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 来源：译林③ – 1  
 
 
-# ***watch out (for)*** 
+# *** *watch out (for)*** 
 
 
   
@@ -34938,7 +34935,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 来源：译林③ – 1  
 
 
-# ***watch out for*** 
+# *** *watch out for*** 
 
 
   
@@ -34952,7 +34949,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 来源：译林③ – 1  
 
 
-# ***watch over*** 
+# *** *watch over*** 
 
 
   
@@ -34968,7 +34965,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 我生病期间，父母日夜照看我。  
 
 
-# ***water lily*** n
+# *** *water lily*** n
 
 
   
@@ -34978,7 +34975,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**睡莲**  
 
 
-# ***water skiing*** n
+# *** *water skiing*** n
 英音 'wɔːtəˌskiːɪŋ     美音 'wɔːtərˌskiːɪŋ  
 
 | 词频 1 |  
@@ -34988,7 +34985,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**滑水**  
 
 
-# ***wax disk*** 
+# *** *wax disk*** 
 英音 wæks dɪsk     美音 wæks dɪsk  
 
   
@@ -34998,7 +34995,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.*高义频：* **旧式唱片**  
 
 
-# ***wear off*** 
+# *** *wear off*** 
 
 
   
@@ -35008,7 +35005,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**逐渐减少；逐渐消失**  
 
 
-# ***wear out*** 
+# *** *wear out*** 
 
 
   
@@ -35029,7 +35026,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 辨析 wear, put on, dress
 三者均可作“穿”解，但意义、用法不同。  
 
-# ***wear somebody out*** 
+# *** *wear somebody out*** 
 
 
   
@@ -35043,7 +35040,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 来源：2015 四川改  
 
 
-# ***wearable tech*** 
+# *** *wearable tech*** 
 
 
   
@@ -35053,7 +35050,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**可穿戴技术**  
 
 
-# ***web page*** n
+# *** *web page*** n
 
 
   
@@ -35066,7 +35063,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > (互联网的)网页  
 
 
-# ***what (…) for*** 
+# *** *what (…) for*** 
 
 
   
@@ -35082,7 +35079,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 你为什么要那么做呢？  
 
 
-# ***what a relief*** 
+# *** *what a relief*** 
 
 
   
@@ -35092,7 +35089,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**真叫人宽慰**  
 
 
-# ***what if*** 
+# *** *what if*** 
 
 
   
@@ -35105,7 +35102,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 火车要是晚点怎么办？  
 
 
-# ***what is more*** 
+# *** *what is more*** 
 
 
   
@@ -35118,7 +35115,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 他学习非常刻苦，更重要的是他乐于助人。  
 
 
-# ***what's more*** 
+# *** *what's more*** 
 
 
   
@@ -35128,7 +35125,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**更有甚者；更为重要的是**  
 
 
-# ***when it comes to (doing) sth*** 
+# *** *when it comes to (doing) sth*** 
 
 
   
@@ -35146,7 +35143,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 来源：2008 北京  
 
 
-# ***when necessary*** 
+# *** *when necessary*** 
 
 
   
@@ -35159,7 +35156,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 军队需要必要时愿意投入战斗的人。  
 
 
-# ***when the cat's away (the mice will play)*** 
+# *** *when the cat's away (the mice will play)*** 
 
 
   
@@ -35169,7 +35166,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**猫儿不在，老鼠作怪（指管事的不在，下面的人玩个痛快）**  
 
 
-# ***white-flag dolphin*** n
+# *** *white-flag dolphin*** n
 
 
   
@@ -35179,7 +35176,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**白鳍豚**  
 
 
-# ***white-water rafting*** n
+# *** *white-water rafting*** n
 英音 ˌwaɪtˈwɔ:tə ˈrɑ:ftiŋ     美音 ˌwaɪtˈwɔ:tə ˈrɑ:ftiŋ  
 
 | 词频 1 |  
@@ -35189,7 +35186,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**白浪漂流，激浪漂流**  
 
 
-# ***why bother*** 
+# *** *why bother*** 
 
 
   
@@ -35199,7 +35196,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**何苦**  
 
 
-# ***why not*** 
+# *** *why not*** 
 
 
   
@@ -35221,7 +35218,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 好啊！  
 
 
-# ***win ... back*** 
+# *** *win ... back*** 
 
 
   
@@ -35231,7 +35228,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**赢回；重新获得**  
 
 
-# ***wind sb. up*** 
+# *** *wind sb. up*** 
 
 
   
@@ -35241,7 +35238,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**故意惹恼（某人；尤指开玩笑）**  
 
 
-# ***wind up*** 
+# *** *wind up*** 
 
 
   
@@ -35251,7 +35248,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**上发条**  
 
 
-# ***wipe out*** 
+# *** *wipe out*** 
 
 
   
@@ -35265,7 +35262,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 来源：北师大⑧ – 22  
 
 
-# ***wish for*** 
+# *** *wish for*** 
 
 
   
@@ -35275,7 +35272,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**盼望，企盼**  
 
 
-# ***with / in regard to sth*** 
+# *** *with / in regard to sth*** 
 
 
   
@@ -35288,7 +35285,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 关于他的建议，我们将充分讨论。  
 
 
-# ***with / without reason*** 
+# *** *with / without reason*** 
 
 
   
@@ -35301,7 +35298,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 他辩论得头头是道。  
 
 
-# ***with an average of*** 
+# *** *with an average of*** 
 
 
   
@@ -35311,7 +35308,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**平均为……**  
 
 
-# ***with attention*** 
+# *** *with attention*** 
 
 
   
@@ -35325,7 +35322,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 来源：2010 四川  
 
 
-# ***with pleasure*** 
+# *** *with pleasure*** 
 
 
   
@@ -35344,7 +35341,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 当然了，我很乐意来。  
 
 
-# ***with pride*** 
+# *** *with pride*** 
 
 
   
@@ -35357,7 +35354,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 回顾过去的成就，我感到很自豪。  
 
 
-# ***with respect to*** 
+# *** *with respect to*** 
 
 
   
@@ -35367,7 +35364,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 1.**关于；就…而言**  
 
 
-# ***with satisfaction*** 
+# *** *with satisfaction*** 
 
 
   
@@ -35380,7 +35377,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 他十分满意地看着学生们。  
 
 
-# ***with sb's help / with the help of sb*** 
+# *** *with sb's help / with the help of sb*** 
 
 
   
@@ -35394,7 +35391,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 来源：2009 福建书面表达  
 
 
-# ***with the help of*** 
+# *** *with the help of*** 
 
 
   
@@ -35407,7 +35404,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 根据提示编写一段对话。  
 
 
-# ***within limits*** 
+# *** *within limits*** 
 
 
   
@@ -35420,7 +35417,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 我愿意帮忙，可是有一定限度。  
 
 
-# ***without / beyond doubt*** 
+# *** *without / beyond doubt*** 
 
 
   
@@ -35434,7 +35431,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 来源：北师大⑤ – 14  
 
 
-# ***without a second thought*** 
+# *** *without a second thought*** 
 
 
   
@@ -35447,7 +35444,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 他不假思索地随她跳入水中。  
 
 
-# ***without fear (of sth)*** 
+# *** *without fear (of sth)*** 
 
 
   
@@ -35461,7 +35458,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 来源：2011 浙江  
 
 
-# ***work on*** 
+# *** *work on*** 
 
 
   
@@ -35474,7 +35471,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 两年来他一直致力于撰写一本关于育儿的书。  
 
 
-# ***work out*** 
+# *** *work out*** 
 
 
   
@@ -35516,7 +35513,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 我一周去一次体育馆锻炼。  
 
 
-# ***worn out*** 
+# *** *worn out*** 
 
 
   
@@ -35533,7 +35530,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 逛了一天商店，我都累坏了。  
 
 
-# ***worse and worse*** 
+# *** *worse and worse*** 
 
 
   
@@ -35546,7 +35543,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 天气变得越来越坏。  
 
 
-# ***would rather ... (than)*** 
+# *** *would rather ... (than)*** 
 
 
   
@@ -35575,7 +35572,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
  > 我真希望你没有把真相告诉我妈妈。  
 
 
-# ***wrap up*** 
+# *** *wrap up*** 
 
 
   
@@ -35585,7 +35582,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 1.**结束**  
 
 
-# ***wrestle with something*** 
+# *** *wrestle with something*** 
 
 
   
@@ -35595,7 +35592,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 1.**努力解决难以处理的事物**  
 
 
-# ***write back*** 
+# *** *write back*** 
 
 
   
@@ -35608,7 +35605,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
  > 我两星期前收到了他的信，但忘了给他回信。  
 
 
-# ***write down*** 
+# *** *write down*** 
 
 
   
@@ -35621,7 +35618,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
  > 我记下新单词，加入到我自己的词汇表里。  
 
 
-# ***year after year*** 
+# *** *year after year*** 
 
 
   
@@ -35634,7 +35631,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
  > 年复一年，为了还债他不得不拼命工作。  
 
 
-# ***year by year*** 
+# *** *year by year*** 
 
 
   
@@ -35647,7 +35644,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
  > 我父亲的身体一年比一年差。  
 
 
-# ***you see*** 
+# *** *you see*** 
 
 
   
@@ -35660,7 +35657,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
  > 要知道，人生的意义要以思想和行为来衡量，而非生命的长短。  
 
 
-# ***you're welcome*** 
+# *** *you're welcome*** 
 
 
   

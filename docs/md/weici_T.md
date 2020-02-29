@@ -1,6 +1,6 @@
 # Tt
 
-# ***tabby*** n
+# *** *tabby*** n
 英音 'tæbi     美音 'tæbi  
 
 | 词频 1 |  
@@ -10,7 +10,7 @@
 1.**斑猫**  
 
 
-# ***table*** n
+# *** *table*** n
 英音 'teɪbl     美音 'teɪbl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -38,15 +38,14 @@
 
 固定搭配
 ---
-- at table 
-1.**在进餐；进餐时：**  
+## - *at table   **在进餐；进餐时：**  
 
  > It’s not acceptable to talk with food in mouth at table.   
  > 进餐时嘴里含着食物讲话的行为是不可接受的。  
  > 来源：2009 陕西  
 
 
-# ***tablet*** n
+# *** *tablet*** n
 英音 'tæblət     美音 'tæblət  
 
 | 词频 2 | 口语 1 |  
@@ -60,7 +59,7 @@
 2.*低义频：* **平板电脑;便签本 (pad)**  
 
 
-# ***taboo*** n
+# *** *taboo*** n
 英音 tə'buː     美音 tə'buː  
 
 | 词频 1 |  
@@ -70,7 +69,7 @@
 1.**禁忌**  
 
 
-# ***tackle*** vt
+# *** *tackle*** vt
 英音 'tækl     美音 'tækl  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -80,7 +79,7 @@
 1.*高义频：* **处理；对付；与...交涉**  
 
 
-# ***tadpole*** n
+# *** *tadpole*** n
 英音 'tædpəʊl     美音 'tædpoʊl  
 
 | 词频 1 |  
@@ -92,7 +91,7 @@
 1.*高义频：* **蝌蚪**  
 
 
-# ***taikonaut*** n
+# *** *taikonaut*** n
 英音 'taɪkɒnɔːt     美音 'taɪkɒnɔːt  
 
 | 词频 1 |  
@@ -102,7 +101,7 @@
 1.**太空人；宇航员**  
 
 
-# ***tail*** n
+# *** *tail*** n
 英音 teɪl     美音 teɪl  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -117,7 +116,7 @@
  > 哈雷彗星的彗尾  
 
 
-# ***tailor*** n
+# *** *tailor*** n
 英音 'teɪlə(r)     美音 'teɪlər  
 
 | 词频 1 |  
@@ -132,7 +131,7 @@
  > 在裁缝店  
 
 
-# ***tailor*** vt
+# *** *tailor*** vt
 英音 'teɪlə(r)     美音 'teɪlər  
 
 | 词频 1 |  
@@ -146,7 +145,7 @@
  > 银行提供的账户会完全根据您的需求来定制。  
 
 
-# ***take*** vt
+# *** *take*** vt
 英音 teɪk     美音 teɪk  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -172,6 +171,13 @@
 
 3.*高义频：* **携带；引领；使达到：**  
 
+ > It’s too far to walk — I will take you there by car.   
+ > 步行去那儿太远了，我会开车送你去。  
+
+ > **took,to**  
+ > Her energy and talent took her to the top of her profession.   
+ > 她的活力和才华使她达到了事业的顶峰。  
+
 - take sth with sb:
 
  > **take,with**  
@@ -183,13 +189,6 @@
 
  > Shall I take my host family a gift? / Shall I take a gift to my host family?   
  > 我要不要给主人家带件礼物呢？  
-
- > It’s too far to walk — I will take you there by car.   
- > 步行去那儿太远了，我会开车送你去。  
-
- > **took,to**  
- > Her energy and talent took her to the top of her profession.   
- > 她的活力和才华使她达到了事业的顶峰。  
 
 4.*高义频：* **夺取；攻占；控制：**  
 
@@ -270,6 +269,12 @@
 
 13.*高义频：* **花费；占用：**  
 
+ > Organizing a successful birthday party takes a lot of energy.   
+ > 举办一次成功的生日聚会要花费很多精力。  
+
+ > The case doesn’t take much room.   
+ > 这箱子占地方不多。  
+
 - it takes sb (sth) to do sth:
 
  > It took me over 21 years to get my college degree!   
@@ -278,12 +283,6 @@
 
  > It takes hard work to make dreams into reality.   
  > 实现梦想需要付出艰苦的努力。  
-
- > Organizing a successful birthday party takes a lot of energy.   
- > 举办一次成功的生日聚会要花费很多精力。  
-
- > The case doesn’t take much room.   
- > 这箱子占地方不多。  
 
 ### 辨析 cost, spend, pay, take
 这四个词都经常译为“花费”，但用法各不相同。  
@@ -297,6 +296,9 @@
 
 15.*高义频：* **理解；认为；把...看作；**  
 
+ > I was joking, but he took me seriously.   
+ > 我在开玩笑，他却当真了。  
+
 - take ... as / for / to be:
 
  > take sb’s patience as a sign of weakness   
@@ -308,21 +310,16 @@
  > I take him to be sincere.   
  > 我认为他是真诚的。  
 
- > I was joking, but he took me seriously.   
- > 我在开玩笑，他却当真了。  
-
 
 固定搭配
 ---
-- take apart 
-1.**拆开：**  
+## - *take apart   **拆开：**  
 
  > The old man saw some Germans taking apart the Amber Room and removing it.   
  > 老人看到一些德国人把琥珀屋拆掉后搬走了。  
  > 来源：人教② – 1  
 
-- take away 
-1.**拿走；带走；使消失：**  
+## - *take away   **拿走；带走；使消失：**  
 
  > Mom! Robby took away my cake!   
  > 妈妈！罗比抢走了我的蛋糕！  
@@ -333,8 +330,7 @@
  > I was given some pills to take away the pain.   
  > 给我开了些止疼药片。  
 
-- take back 
-1.**退回；收回：**  
+## - *take back   **退回；收回：**  
 
  > If the shirt doesn’t fit, take it back.   
  > 如果衬衣不合身，拿去退货吧。  
@@ -342,8 +338,7 @@
  > I’ll take back what I just said.   
  > 我要收回刚才说的话。  
 
-- take down 
-1.**取下；记下；拆除：**  
+## - *take down   **取下；记下；拆除：**  
 
  > take the curtains down   
  > 取下窗帘  
@@ -355,8 +350,7 @@
  > 我小时候住的那所房子已被拆除，取而代之的是一座办公楼。  
  > 来源：2009 江西  
 
-- take in
-1.*高义频：* **吸入；收留：**  
+## - *take in  1.*高义频：* **吸入；收留：**  
 
  > Trees take in carbon dioxide and give out oxygen.   
  > 树木吸收二氧化碳释放氧气。  
@@ -376,8 +370,7 @@
  > She took me in completely with her story.   
  > 她用一番花言巧语完全把我骗住了。  
 
-- take off
-1.*高义频：* **脱下 (衣、帽等)**  
+## - *take off  1.*高义频：* **脱下 (衣、帽等)**  
 反义词 put on： 
 
  > He took off my wet boots and made me sit by the fire.  
@@ -402,8 +395,7 @@
  > 由于良好的创业环境，大学生开办的许多公司已有起色。  
  > 来源：2016 江苏  
 
-- take on 
-1.**呈现；雇用；接受 (工作); 承担 (责任)：**  
+## - *take on   **呈现；雇用；接受 (工作); 承担 (责任)：**  
 
  > Shortly after suffering from a massive earthquake and being reduced to ruins, the city took on a new look.   
  > 在遭受大地震成为废墟后不久，这座城市呈现出新面貌。  
@@ -416,8 +408,7 @@
  > 秘书会在他不在的时候接手他大部分的工作。  
  > 来源：2010 湖南改  
 
-- take out
-1.*高义频：* **取出；拿出：**  
+## - *take out  1.*高义频：* **取出；拿出：**  
 
  > The doctor took out five of John’s teeth.   
  > 医生拔掉了约翰的五颗牙。  
@@ -434,8 +425,7 @@
  > 每天清晨，史蒂文森都会带着全家去山上散步。  
  > 来源：2009 全国改  
 
-- take over 
-1.**接收；接管：**  
+## - *take over   **接收；接管：**  
 
  > take over the job as a manager   
  > 接任经理一职  
@@ -443,8 +433,7 @@
  > Would you like me to take over the driving for a while?   
  > 我替你开会儿车怎么样？  
 
-- take to 
-1.**[不用于被动语态] 开始从事；喜欢上； 养成…的习惯：**  
+## - *take to   **[不用于被动语态] 开始从事；喜欢上； 养成…的习惯：**  
 
  > He gave up medicine and took to literature.   
  > 他弃医从文了。  
@@ -452,8 +441,7 @@
  > I’ve taken to getting up at 6 and going jogging.   
  > 我养成了6点起床去慢跑的习惯。  
 
-- take up 
-1.**(尤指为消遣) 学着做；开始做**  
+## - *take up   1.**(尤指为消遣) 学着做；开始做**  
 
  > After he retired from office, Rogers took up painting for a while, but soon lost interest.  
  > 退休后，罗杰斯学了一段时间绘画，但很快便失去了兴趣。  
@@ -483,30 +471,36 @@
 ---
 ##### 题目  
 Peter will take _________ his post as the head of the travel agency at the end of next month.  
+来源：2015 陕西改  
 ##### 答案 up  
   
 ##### 题目  
 On Monday mornings it usually ________ (take) me an hour to drive to work although the actual distance is only 20 miles.  
+来源：2013 陕西改  
 ##### 答案 takes   
   
 ##### 题目  
 Briggs will take ________ as general manager when Mitchell retires.  
+来源：2013 辽宁改  
 ##### 答案 over  
   
 ##### 题目  
 Some insects take ________ the color of their surroundings to protect themselves.  
+来源：2011 陕西改  
 ##### 答案 on  
   
 ##### 题目  
 We tried to find a table for seven, but they were all taken ________.  
+来源：2009 安徽改  
 ##### 答案 up  
   
 ##### 题目  
 I take it ________ a basic principle of the company that suppliers of raw materials should be given a fair price for their products.  
+来源：2008 江西改  
 ##### 答案 as  
   
 
-# ***tale*** n
+# *** *tale*** n
 英音 teɪl     美音 teɪl  
 
 | 词频 4 | 书面 1 |  
@@ -533,7 +527,7 @@ I take it ________ a basic principle of the company that suppliers of raw materi
 2.*低义频：* **假话；谣言**  
 
 
-# ***talent*** n
+# *** *talent*** n
 英音 'tælənt     美音 'tælənt  
 
 | 词频 4 | 书面 1 |  
@@ -545,6 +539,10 @@ I take it ________ a basic principle of the company that suppliers of raw materi
 1.*高义频：* **天资；才能**  
 英译 a natural ability to do sth well(gift)：
 
+ > **talent show / competition**  
+ > a talent show / competition   
+ > 才艺大赛  
+
 - talent for (doing) sth:
 
  > He has a natural talent for music.   
@@ -553,10 +551,6 @@ I take it ________ a basic principle of the company that suppliers of raw materi
  > **showed,talent for**  
  > She showed a talent for acting at an early age.  
  > 她在很小的时候就显示出了表演天赋。  
-
- > **talent show / competition**  
- > a talent show / competition   
- > 才艺大赛  
 
 2.*低义频：* **人才；有才能的人：**  
 
@@ -569,7 +563,7 @@ I take it ________ a basic principle of the company that suppliers of raw materi
 ---
 talented /'tæləntɪd/ adj   
 
-# ***talented*** adj
+# *** *talented*** adj
 英音 'tæləntɪd     美音 'tæləntɪd  
 
 | 词频 3 |  
@@ -579,7 +573,7 @@ talented /'tæləntɪd/ adj
 1.**有天资的；有才能的**  
 
 
-# ***talk*** v
+# *** *talk*** v
 英音 tɔːk     美音 tɔːk  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -587,6 +581,13 @@ talented /'tæləntɪd/ adj
 英文释义
 ---
 1.*高义频：* **谈话；讲话；说话：**  
+
+ > Follow your own course, and let people talk.   
+ > 走自己的路，让别人去说吧。  
+
+ > First, talk to someone you trust about how you feel.  
+ > 首先，和你信任的某个人谈你的感受。  
+ > 来源：2014 安徽书面表达  
 
 - talk of / about / on (doing) sth:
 
@@ -601,26 +602,17 @@ talented /'tæləntɪd/ adj
  > I will talk to him about his carelessness.   
  > 他太马虎了，我得找他谈谈。  
 
- > Follow your own course, and let people talk.   
- > 走自己的路，让别人去说吧。  
-
- > First, talk to someone you trust about how you feel.  
- > 首先，和你信任的某个人谈你的感受。  
- > 来源：2014 安徽书面表达  
-
 2.*高义频：* **谈论；讨论：**  
 
  > We talked music all night.  
  > 我们整夜谈论音乐。  
 
-- talk ... into / out of (doing) sth
-1.**说服某人做 / 不做某事：**  
+## - *talk ... into / out of (doing) sth  **说服某人做 / 不做某事：**  
 
  > I didn’t want to move abroad but Bill talked me into it.  
  > 我本不想移居国外，但是比尔把我说服了。  
 
-- talk over
-1.**详细讨论：**  
+## - *talk over  **详细讨论：**  
 
  > Sometimes I act as a listening ear for fellow students to talk over what is bothering them.  
  > 有时我会充当同学们的听众，聊一聊他们的烦恼。  
@@ -631,7 +623,7 @@ talented /'tæləntɪd/ adj
 ---
 talker /'tɔːkə(r)/ n   
 
-# ***talk*** n
+# *** *talk*** n
 英音 tɔːk     美音 tɔːk  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -664,7 +656,7 @@ talker /'tɔːkə(r)/ n
  > 峰会  
 
 
-# ***talking*** n
+# *** *talking*** n
 英音 'tɔːkɪŋ     美音 'tɔːkɪŋ  
 
 | 词频 5 |  
@@ -679,7 +671,7 @@ talker /'tɔːkə(r)/ n
  > 空谈无益。  
 
 
-# ***tall*** adj
+# *** *tall*** adj
 英音 tɔːl     美音 tɔːl  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -696,7 +688,7 @@ talker /'tɔːkə(r)/ n
 ### 辨析 high, tall
 二者均有“高”之意，均可指建筑物。  
 
-# ***tangible*** adj
+# *** *tangible*** adj
 英音 'tændʒəbl     美音 'tændʒəbl  
 
 | 词频 1 |  
@@ -706,7 +698,7 @@ talker /'tɔːkə(r)/ n
 1.**有形的，可触摸的**  
 
 
-# ***tangled*** adj
+# *** *tangled*** adj
 英音 'tæŋɡld     美音 'tæŋɡld  
 
   
@@ -716,7 +708,7 @@ talker /'tɔːkə(r)/ n
 1.**纠结的；复杂的**  
 
 
-# ***tango*** n
+# *** *tango*** n
 英音 'tæŋɡəʊ     美音 'tæŋɡoʊ  
 
 | 词频 3 |  
@@ -726,7 +718,7 @@ talker /'tɔːkə(r)/ n
 1.**探戈舞**  
 
 
-# ***tank*** n
+# *** *tank*** n
 英音 tæŋk     美音 tæŋk  
 
 | 词频 2 | 口语 2 | 书面 2 |  
@@ -743,7 +735,7 @@ talker /'tɔːkə(r)/ n
 2.*高义频：* **坦克**  
 
 
-# ***tap*** n
+# *** *tap*** n
 英音 tæp     美音 tæp  
 
 | 词频 2 | 口语 1 |  
@@ -766,7 +758,7 @@ talker /'tɔːkə(r)/ n
  > 来源：译林③ – 1  
 
 
-# ***tap*** v
+# *** *tap*** v
 英音 tæp     美音 tæp  
 
 | 词频 2 | 口语 1 |  
@@ -790,7 +782,7 @@ talker /'tɔːkə(r)/ n
  > 来源：外研⑥ – 4  
 
 
-# ***tape*** n
+# *** *tape*** n
 英音 teɪp     美音 teɪp  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -813,7 +805,7 @@ talker /'tɔːkə(r)/ n
 2.*低义频：* **终点线；卷尺**  
 
 
-# ***tape*** v
+# *** *tape*** v
 英音 teɪp     美音 teɪp  
 
 | 词频 3 |  
@@ -832,7 +824,7 @@ talker /'tɔːkə(r)/ n
  > 你介意我把这次谈话录下来吗？  
 
 
-# ***target*** n
+# *** *target*** n
 英音 'tɑːɡɪt     美音 'tɑːrɡɪt  
 
 | 词频 3 | 口语 2 | 书面 2 | 阅读 2 |  
@@ -855,7 +847,7 @@ talker /'tɔːkə(r)/ n
  > 这部电视连续剧的目标受众是13岁至18岁的年轻人。  
 
 
-# ***target*** v
+# *** *target*** v
 英音 'tɑːɡɪt     美音 'tɑːrɡɪt  
 
 | 词频 3 |  
@@ -865,7 +857,7 @@ talker /'tɔːkə(r)/ n
 1.**瞄准；以……为目标**  
 
 
-# ***task*** n
+# *** *task*** n
 英音 tɑːsk     美音 tæsk  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -886,7 +878,7 @@ talker /'tɔːkə(r)/ n
  > 承担任务  
 
 
-# ***task-based*** adj
+# *** *task-based*** adj
 英音 'tɑːskb'eɪst     
 
   
@@ -896,7 +888,7 @@ talker /'tɔːkə(r)/ n
 1.**基于作业的**  
 
 
-# ***taste*** n  重难点词汇
+# *** *taste*** n  重难点词汇
 英音 teɪst     美音 teɪst  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -942,10 +934,11 @@ talker /'tɔːkə(r)/ n
 ---
 ##### 题目  
 While she was in Paris, she ________ (开始喜欢) for fine art. (taste)  
+来源：2013 天津改  
 ##### 答案 developed / acquired a taste for  
   
 
-# ***taste*** v  重难点词汇
+# *** *taste*** v  重难点词汇
 英音 teɪst     美音 teɪst  
 
 | 词频 4 | 口语 2 |  
@@ -983,10 +976,11 @@ While she was in Paris, she ________ (开始喜欢) for fine art. (taste)
 ---
 ##### 题目  
 This cake t________ delicious. Would you like a try?   
+来源：2008 浙江  
 ##### 答案 tastes  
   
 
-# ***tasteless*** adj
+# *** *tasteless*** adj
 英音 'teɪstləs     美音 'teɪstləs  
 
 | 词频 1 |  
@@ -1004,7 +998,7 @@ This cake t________ delicious. Would you like a try?
  > 一套俗气的家具  
 
 
-# ***tasty*** adj
+# *** *tasty*** adj
 英音 'teɪsti     美音 'teɪsti  
 
 | 词频 2 |  
@@ -1017,7 +1011,7 @@ This cake t________ delicious. Would you like a try?
  > 简单而美味的菜肴  
 
 
-# ***tattoo*** n
+# *** *tattoo*** n
 英音 tə'tuː     美音 tæ'tuː  
 
 | 词频 1 |  
@@ -1027,7 +1021,7 @@ This cake t________ delicious. Would you like a try?
 1.**纹身**  
 
 
-# ***tax*** n
+# *** *tax*** n
 英音 tæks     美音 tæks  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -1045,7 +1039,7 @@ This cake t________ delicious. Would you like a try?
  > 对某物征税  
 
 
-# ***tax*** vt
+# *** *tax*** vt
 英音 tæks     美音 tæks  
 
 | 词频 4 |  
@@ -1058,7 +1052,7 @@ This cake t________ delicious. Would you like a try?
  > 富人课税重于穷人是合理的。  
 
 
-# ***taxi*** n
+# *** *taxi*** n
 英音 'tæksi     美音 'tæksi  
 
 | 词频 4 | 口语 1 |  
@@ -1076,7 +1070,7 @@ This cake t________ delicious. Would you like a try?
  > 乘出租汽车回家  
 
 
-# ***taxpayer*** n
+# *** *taxpayer*** n
 英音 'tækspeɪə(r)     美音 'tækspeɪər  
 
 | 词频 2 |  
@@ -1086,7 +1080,7 @@ This cake t________ delicious. Would you like a try?
 1.*高义频：* **[C] 纳税人**  
 
 
-# ***tea*** n
+# *** *tea*** n
 英音 tiː     美音 tiː  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -1102,7 +1096,7 @@ This cake t________ delicious. Would you like a try?
  > 沏茶  
 
 
-# ***teach*** v  重难点词汇
+# *** *teach*** v  重难点词汇
 英音 tiːtʃ     美音 tiːtʃ  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -1114,27 +1108,31 @@ This cake t________ delicious. Would you like a try?
 1.*高义频：* **vi & vt教 (书)；教授**  
 英译 to give lessons to students in a school, college, university, etc.：
 
+ > I would like to teach after graduation.  
+ > 毕业后我想教书。  
+
 - teach sb. sth. / teach sth. to sb.:
 
  > She teaches children French. / She teaches French to children.  
  > 她教孩子学法语。  
 
- > I would like to teach after graduation.  
- > 毕业后我想教书。  
-
 2.*高义频：* **教**  
 英译 to show sb. how to do sth：
+
+ > Can you teach me one of your card tricks?  
+ > 你能教我一种纸牌戏法吗？  
 
 - teach sb (how) to do sth.:
 
  > Who taught you (how) to ride a bicycle?  
  > 是谁教你骑自行车的？  
 
- > Can you teach me one of your card tricks?  
- > 你能教我一种纸牌戏法吗？  
-
 3.*高义频：* **教导；教育**  
 英译 to make sb. think, feel, or act in a new or different way：
+
+ > Years of school life has taught me a lot of things, of which teamwork is the most important for me.  
+ > 多年的学校生活教会了我很多事情，其中，团队合作对我来说是最重要的。  
+ > 来源：2011 湖北  
 
 - teach sb to do sth:
 
@@ -1147,18 +1145,13 @@ This cake t________ delicious. Would you like a try?
  > History teaches us that war is wrong.  
  > 历史告诉我们战争是错误的。  
 
- > Years of school life has taught me a lot of things, of which teamwork is the most important for me.  
- > 多年的学校生活教会了我很多事情，其中，团队合作对我来说是最重要的。  
- > 来源：2011 湖北  
-
 
 固定搭配
 ---
-- teach sb a lesson
-1.**给某人一个教训**  
+## - *teach sb a lesson  **给某人一个教训**  
 
 
-# ***teacher*** n
+# *** *teacher*** n
 英音 'tiːtʃə(r)     美音 'tiːtʃər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1171,7 +1164,7 @@ This cake t________ delicious. Would you like a try?
  > 经验是最好的老师。  
 
 
-# ***teaching*** n
+# *** *teaching*** n
 英音 'tiːtʃɪŋ     美音 'tiːtʃɪŋ  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -1192,7 +1185,7 @@ This cake t________ delicious. Would you like a try?
  > 孔孟之道  
 
 
-# ***team*** n
+# *** *team*** n
 英音 tiːm     美音 tiːm  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1208,7 +1201,7 @@ This cake t________ delicious. Would you like a try?
  > 队员们开自己的车去参加比赛。  
 
 
-# ***teammate*** n
+# *** *teammate*** n
 英音 'tiːmmeɪt     美音 'tiːmmeɪt  
 
 | 词频 2 |  
@@ -1220,7 +1213,7 @@ This cake t________ delicious. Would you like a try?
 1.*高义频：* **同伴；伙伴**  
 
 
-# ***teamwork*** n
+# *** *teamwork*** n
 英音 'tiːmwɜːk     美音 'tiːmwɜːrk  
 
 | 词频 2 |  
@@ -1234,7 +1227,7 @@ This cake t________ delicious. Would you like a try?
  > 来源：人教⑦ – 3  
 
 
-# ***teapot*** n
+# *** *teapot*** n
 英音 'tiːpɒt     美音 'tiːpɑːt  
 
 | 词频 1 |  
@@ -1244,7 +1237,7 @@ This cake t________ delicious. Would you like a try?
 1.*高义频：* **[C] 茶壶**  
 
 
-# ***tear*** v
+# *** *tear*** v
 英音 teə(r)     美音 ter  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -1279,14 +1272,12 @@ This cake t________ delicious. Would you like a try?
 
 固定搭配
 ---
-- tear down
-1.**扯下；拆毁：**  
+## - *tear down  **扯下；拆毁：**  
 
  > Tear down the dangerous wall as soon as possible, or sometime it may fall down and injure your family.  
  > 尽早拆除这堵危墙，否则不知什么时候它会倒塌并伤到你的家人。  
 
-- tear up
-1.**撕碎；拔起：**  
+## - *tear up  **撕碎；拔起：**  
 
  > He tore up the letter as soon as he had read it.  
  > 他一看完信就把它撕了。  
@@ -1295,7 +1286,7 @@ This cake t________ delicious. Would you like a try?
  > 大风把树连根拔起。  
 
 
-# ***tear*** n
+# *** *tear*** n
 英音 tɪə(r)     美音 tɪr  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -1310,7 +1301,7 @@ This cake t________ delicious. Would you like a try?
  > 来源：2012 湖北  
 
 
-# ***tease*** v
+# *** *tease*** v
 英音 tiːz     美音 tiːz  
 
 | 词频 1 |  
@@ -1327,7 +1318,7 @@ This cake t________ delicious. Would you like a try?
  > 别拿他的话当真，他不过是在开玩笑。  
 
 
-# ***technical*** adj
+# *** *technical*** adj
 英音 'teknɪkl     美音 'teknɪkl  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -1347,7 +1338,7 @@ This cake t________ delicious. Would you like a try?
 ---
 technically /'teknɪkli/ adv   
 
-# ***technically*** adv
+# *** *technically*** adv
 英音 'teknɪkli     美音 'teknɪkli  
 
 | 词频 1 | 口语 1 |  
@@ -1357,7 +1348,7 @@ technically /'teknɪkli/ adv
 1.*高义频：* **技术上:；工艺上**  
 
 
-# ***technician*** n
+# *** *technician*** n
 英音 tek'nɪʃn     美音 tek'nɪʃn  
 
 | 词频 2 |  
@@ -1367,7 +1358,7 @@ technically /'teknɪkli/ adv
 1.*高义频：* **[C] 技师；技术员**  
 
 
-# ***technique*** n
+# *** *technique*** n
 英音 tek'niːk     美音 tek'niːk  
 
 | 词频 4 | 口语 1 | 书面 3 | 阅读 3 |  
@@ -1385,7 +1376,7 @@ technically /'teknɪkli/ adv
  > 他是个伟大的球员，球技十分精湛。  
 
 
-# ***techno*** n
+# *** *techno*** n
 英音 'teknəʊ     美音 'teknoʊ  
 
 | 词频 1 |  
@@ -1395,7 +1386,7 @@ technically /'teknɪkli/ adv
 1.**泰克诺音乐（一种节奏快、通常无歌声相伴的音乐）**  
 
 
-# ***technological*** adj
+# *** *technological*** adj
 英音 ˌteknə'lɒdʒɪkl     美音 ˌteknə'lɒdʒɪkl  
 
 | 词频 3 |  
@@ -1405,7 +1396,7 @@ technically /'teknɪkli/ adv
 1.*高义频：* **科技的**  
 
 
-# ***technology*** n
+# *** *technology*** n
 英音 tek'nɒlədʒi     美音 tek'nɑːlədʒi  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -1430,7 +1421,7 @@ technological /ˌteknə'lɒdʒɪkl/ adj
  > 技术发展/科技进步  
 
 
-# ***teen*** n
+# *** *teen*** n
 英音 tiːn     美音 tiːn  
 
 | 词频 4 |  
@@ -1452,7 +1443,7 @@ technological /ˌteknə'lɒdʒɪkl/ adj
  > 在某人十几岁时  
 
 
-# ***teen*** adj
+# *** *teen*** adj
 英音 tiːn     美音 tiːn  
 
 | 词频 4 |  
@@ -1462,7 +1453,7 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 1.*高义频：* **青少年的**  
 
 
-# ***teenage*** adj
+# *** *teenage*** adj
 英音 'tiːneɪdʒ     美音 'tiːneɪdʒ  
 
 | 词频 3 |  
@@ -1472,7 +1463,7 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 1.**十几岁的（指13至19岁）；青少年的**  
 
 
-# ***teenager*** n
+# *** *teenager*** n
 英音 'tiːneɪdʒə(r)     美音 'tiːneɪdʒər  
 
 | 词频 4 |  
@@ -1482,7 +1473,7 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 1.*高义频：* **[C] (13 ~ 19岁的) 青少年**  
 
 
-# ***teens*** n
+# *** *teens*** n
 英音 tiːnz     美音 tiːnz  
 
 | 词频 4 |  
@@ -1501,7 +1492,7 @@ technological /ˌteknə'lɒdʒɪkl/ adj
  > 我十三四岁时我们家搬到了伦敦。  
 
 
-# ***telecommunication*** n
+# *** *telecommunication*** n
 英音 ˌtelikəˌmjuːnɪ'keɪʃn     美音 ˌtelikəˌmjuːnɪ'keɪʃn  
 
 | 词频 1 |  
@@ -1511,7 +1502,7 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 1.**（常复）电信**  
 
 
-# ***telegraph*** n
+# *** *telegraph*** n
 英音 'telɪɡrɑːf     美音 'telɪɡræf  
 
 | 词频 1 |  
@@ -1521,7 +1512,7 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 1.*高义频：* **(指通讯方式) 电报；电报机**  
 
 
-# ***telephone*** n
+# *** *telephone*** n
 英音 'telɪfəʊn     美音 'telɪfoʊn  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -1538,7 +1529,7 @@ technological /ˌteknə'lɒdʒɪkl/ adj
  > 你的电话。  
 
 
-# ***telephone*** v
+# *** *telephone*** v
 英音 'telɪfəʊn     美音 'telɪfoʊn  
 
 | 词频 4 |  
@@ -1556,7 +1547,7 @@ technological /ˌteknə'lɒdʒɪkl/ adj
  > 明天打电话给我。  
 
 
-# ***telescope*** n
+# *** *telescope*** n
 英音 'telɪskəʊp     美音 'telɪskoʊp  
 
 | 词频 2 |  
@@ -1566,7 +1557,7 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 1.*高义频：* **[C] 望远镜**  
 
 
-# ***telesurgery*** n
+# *** *telesurgery*** n
 英音 'telɪsɜːdʒərɪ     美音 'telɪsɜːdʒərɪ  
 
 | 词频 1 |  
@@ -1576,7 +1567,7 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 1.**远距离手术**  
 
 
-# ***television*** n
+# *** *television*** n
 英音 'telɪvɪʒn     美音 'telɪvɪʒn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1596,7 +1587,7 @@ technological /ˌteknə'lɒdʒɪkl/ adj
  > 在电视上播放；通过电视  
 
 
-# ***tell*** v  重难点词汇
+# *** *tell*** v  重难点词汇
 英音 tel     美音 tel  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1606,6 +1597,13 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 英文释义
 ---
 1.*高义频：* **vt 告诉；讲述；表达：**  
+
+ > **tell a lie / story / joke**  
+ > tell a lie / story / joke  
+ > 说谎/讲故事/讲笑话  
+
+ > tell the truth  
+ > 讲真话  
 
 - tell sb sth / tell sth to sb:
 
@@ -1626,13 +1624,6 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 
  > You should tell someone where you’re going before you set out and what time you expect to be back.  
  > 你应该在出发前告诉某个人你要去哪里，以及你什么时候回来。  
-
- > **tell a lie / story / joke**  
- > tell a lie / story / joke  
- > 说谎/讲故事/讲笑话  
-
- > tell the truth  
- > 讲真话  
 
 2.*高义频：* **vt 吩咐；命令：**  
 
@@ -1667,18 +1658,18 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 
 4.*高义频：* **vt & vi 断定；说 (出)：**  
 
-- tell + that / wh- 从句：
-
- > Evidently they can use the sun to tell which way they are going.  
- > 显然他们可以利用太阳来判断要走哪条路。  
- > 来源：2010 江苏  
-
  > It’s difficult to tell his identity from his appearance.  
  > 很难从他的外表判断他的身份。  
 
  > **As far as I can tell**  
  > As far as I can tell, he’s enjoying the course.  
  > 据我判断，他喜欢这门课。  
+
+- tell + that / wh- 从句：
+
+ > Evidently they can use the sun to tell which way they are going.  
+ > 显然他们可以利用太阳来判断要走哪条路。  
+ > 来源：2010 江苏  
 
 
 派生词汇
@@ -1689,10 +1680,11 @@ teller /'telə(r)/ n
 ---
 ##### 题目  
 Why didn’t you tell me about your trouble last week? If you  ________ (tell) me, I could have helped.  
+来源：2016 北京改  
 ##### 答案 had told  
   
 
-# ***telly*** n
+# *** *telly*** n
 英音 'teli     美音 'teli  
 
 | 词频 1 |  
@@ -1702,7 +1694,7 @@ Why didn’t you tell me about your trouble last week? If you  ________ (tell) m
 1.**（非正式）电视**  
 
 
-# ***temper*** n
+# *** *temper*** n
 英音 'tempə(r)     美音 'tempər  
 
 | 词频 3 |  
@@ -1722,7 +1714,7 @@ Why didn’t you tell me about your trouble last week? If you  ________ (tell) m
  > 脾气好的/不好的  
 
 
-# ***temperature*** n
+# *** *temperature*** n
 英音 'temprətʃə(r)     美音 'temprətʃər  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -1744,10 +1736,11 @@ Why didn’t you tell me about your trouble last week? If you  ________ (tell) m
 ---
 ##### 题目  
 His nose ran, he coughed, and his ________ (体温) was a little up.  
+来源：2008 陕西  
 ##### 答案 temperature  
   
 
-# ***temple*** n
+# *** *temple*** n
 英音 'templ     美音 'templ  
 
 | 词频 2 |  
@@ -1757,7 +1750,7 @@ His nose ran, he coughed, and his ________ (体温) was a little up.
 1.*高义频：* **[C] 庙宇；寺院；神殿**  
 
 
-# ***temporary*** adj
+# *** *temporary*** adj
 英音 'temprəri     美音 'tempəreri  
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 2 |  
@@ -1785,10 +1778,11 @@ A.pessimistic
 B.temporary  
 C.previous   
 D.cautious  
+来源：2013 浙江改  
 ##### 答案 temporary  
   
 
-# ***tend*** vi
+# *** *tend*** vi
 英音 tend     美音 tend  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -1797,14 +1791,12 @@ D.cautious
 
 固定搭配
 ---
-- tend to / toward(s) sth
-1.*高义频：* **倾向于；有...的趋势：**  
+## - *tend to / toward(s) sth  *高义频：* **倾向于；有...的趋势：**  
 
  > The sort of music I listen to varies, but it tends toward light music.  
  > 我所听的音乐形形色色，不过一般都是轻音乐。  
 
-- tend to do sth
-1.*高义频：* **易于做某事；往往会做某事**  
+## - *tend to do sth  *高义频：* **易于做某事；往往会做某事**  
 英译 to usually do or be sth：
 
  > I tend to see pictures in my mind when I am reading or listening.  
@@ -1816,7 +1808,7 @@ D.cautious
  > 来源：2016 全国  
 
 
-# ***tend*** v
+# *** *tend*** v
 英音 tend     美音 tend  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -1835,7 +1827,7 @@ D.cautious
  > 你不在时我愿意替你照看店铺。  
 
 
-# ***tendency*** n
+# *** *tendency*** n
 英音 'tendənsi     美音 'tendənsi  
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 2 |  
@@ -1856,7 +1848,7 @@ D.cautious
  > 他好忘事。  
 
 
-# ***tender*** adj
+# *** *tender*** adj
 英音 'tendə(r)     美音 'tendər  
 
 | 词频 1 |  
@@ -1880,7 +1872,7 @@ D.cautious
  > 娇嫩的幼苗  
 
 
-# ***tennis*** n
+# *** *tennis*** n
 英音 'tenɪs     美音 'tenɪs  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -1890,7 +1882,7 @@ D.cautious
 1.*高义频：* **[U] 网球 (运动)**  
 
 
-# ***tense*** adj
+# *** *tense*** adj
 英音 tens     美音 tens  
 
 | 词频 2 |  
@@ -1913,7 +1905,7 @@ D.cautious
  > 紧张的政治局势  
 
 
-# ***tense*** n
+# *** *tense*** n
 英音 tens     美音 tens  
 
 | 词频 2 | 阅读 1 |  
@@ -1926,7 +1918,7 @@ D.cautious
  > 现在/过去/将来时  
 
 
-# ***tension*** n
+# *** *tension*** n
 英音 'tenʃn     美音 'tenʃn  
 
 | 词频 2 | 书面 2 |  
@@ -1950,7 +1942,7 @@ D.cautious
  > 国际紧张局势  
 
 
-# ***tent*** n
+# *** *tent*** n
 英音 tent     美音 tent  
 
 | 词频 3 | 口语 1 |  
@@ -1963,7 +1955,7 @@ D.cautious
  > 搭/拆帐篷  
 
 
-# ***tentative*** adj
+# *** *tentative*** adj
 英音 'tentətɪv     美音 'tentətɪv  
 
 | 词频 1 |  
@@ -1996,10 +1988,11 @@ tentatively /'tentətɪvli/ adv
 ---
 ##### 题目  
 “Perhaps we need to send for Dr. Smith to see what we can do about it,” Father suggested ________ (tentative) to his neighbor who had come to discuss the problem.  
+来源：2012 湖北改  
 ##### 答案 tentatively  
   
 
-# ***tentatively*** adv
+# *** *tentatively*** adv
 英音 'tentətɪvli     美音 'tentətɪvli  
 
 | 词频 1 |  
@@ -2009,7 +2002,7 @@ tentatively /'tentətɪvli/ adv
 1.**不完全地**  
 
 
-# ***term*** n
+# *** *term*** n
 英音 tɜːm     美音 tɜːrm  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -2038,11 +2031,10 @@ tentatively /'tentətɪvli/ adv
 
 固定搭配
 ---
-- in the long / short term
-1.**从长远 / 眼前看**  
+## - *in the long / short term  **从长远 / 眼前看**  
 
 
-# ***terminal*** adj
+# *** *terminal*** adj
 英音 'tɜːmɪnl     美音 'tɜːrmɪnl  
 
 | 词频 1 | 阅读 1 |  
@@ -2058,7 +2050,7 @@ tentatively /'tentətɪvli/ adv
  > 期末考试  
 
 
-# ***terminal*** n
+# *** *terminal*** n
 英音 'tɜːmɪnl     美音 'tɜːrmɪnl  
 
 | 词频 1 | 阅读 1 |  
@@ -2078,7 +2070,7 @@ tentatively /'tentətɪvli/ adv
 3.*高义频：* **[计算机] 终端；终端机**  
 
 
-# ***terms*** n
+# *** *terms*** n
 英音 tɜːmz     美音 tɜːrmz  
 
 | 词频 4 |  
@@ -2090,15 +2082,13 @@ tentatively /'tentətɪvli/ adv
 
 固定搭配
 ---
-- in terms of
-1.**从…方面来讲；就…而言：**  
+## - *in terms of  **从…方面来讲；就…而言：**  
 
  > In terms of size and population, how big is the European Union compared with China?  
  > 与中国相比，欧盟的面积和人口规模如何？  
  > 来源：外研③ – 2  
 
-- be on good terms with
-1.**与…关系好：**  
+## - *be on good terms with  **与…关系好：**  
 
  > We were on good terms with everyone in the village.  
  > 我们与村子里的每个人都相处得很好。  
@@ -2113,10 +2103,11 @@ A.In terms of
 B.In case of  
 C.As a result of  
 D.In face of  
+来源：2006 湖南  
 ##### 答案 A  
   
 
-# ***terrace*** n
+# *** *terrace*** n
 英音 'terəs     美音 'terəs  
 
   
@@ -2126,7 +2117,7 @@ D.In face of
 1.**梯田**  
 
 
-# ***terrible*** adj
+# *** *terrible*** adj
 英音 'terəbl     美音 'terəbl  
 
 | 词频 5 | 口语 3 | 书面 1 |  
@@ -2160,7 +2151,7 @@ D.In face of
  > 嗯，米饭很难吃，但是蔬菜汤还不错。  
 
 
-# ***terribly*** adv
+# *** *terribly*** adv
 英音 'terəbli     美音 'terəbli  
 
 | 词频 3 | 口语 2 |  
@@ -2179,7 +2170,7 @@ D.In face of
 2.*高义频：* **可怕地；惊人地**  
 
 
-# ***terrified*** adj
+# *** *terrified*** adj
 英音 'terɪfaɪd     美音 'terɪfaɪd  
 
 | 词频 1 |  
@@ -2189,7 +2180,7 @@ D.In face of
 1.*高义频：* **恐惧的；受惊吓的**  
 
 
-# ***terrify*** vt
+# *** *terrify*** vt
 英音 'terɪfaɪ     美音 'terɪfaɪ  
 
 | 词频 2 | 阅读 1 |  
@@ -2199,21 +2190,21 @@ D.In face of
 1.*高义频：* **使恐惧；恐吓：**  
 英译 to make sb extremely afraid：
 
+ > The creature, which is unusually large and strong, is extremely ugly, and terrifies all those who see it.  
+ > 那个怪物异乎寻常地高大、强壮，长相极其丑陋，所有人见了都很害怕。  
+ > 来源：外研⑥ – 5  
+
 - (be) terrified at / by / with:
 
  > We were terrified at the deafening explosion.  
  > 我们被震耳欲聋的爆炸声吓了一跳。  
-
- > The creature, which is unusually large and strong, is extremely ugly, and terrifies all those who see it.  
- > 那个怪物异乎寻常地高大、强壮，长相极其丑陋，所有人见了都很害怕。  
- > 来源：外研⑥ – 5  
 
 
 派生词汇
 ---
 terrifying /'terɪfaɪŋ/ adj   
 
-# ***terrifying*** adj
+# *** *terrifying*** adj
 英音 'terɪfaɪŋ     美音 'terəˌfaɪŋ  
 
 | 词频 2 |  
@@ -2223,7 +2214,7 @@ terrifying /'terɪfaɪŋ/ adj
 1.**吓人的；可怕的**  
 
 
-# ***territory*** n
+# *** *territory*** n
 英音 'terətri     美音 'terətɔːri  
 
 | 词频 2 | 书面 2 | 阅读 1 |  
@@ -2244,7 +2235,7 @@ terrifying /'terɪfaɪŋ/ adj
  > 销售地区  
 
 
-# ***terror*** n
+# *** *terror*** n
 英音 'terə(r)     美音 'terər  
 
 | 词频 1 | 书面 1 |  
@@ -2272,7 +2263,7 @@ terrifying /'terɪfaɪŋ/ adj
 terrorism /'terərɪzəm/ n   
 terrorist /'terərɪst/ n   
 
-# ***terrorist*** n
+# *** *terrorist*** n
 英音 'terərɪst     美音 'terərɪst  
 
 | 词频 1 |  
@@ -2282,7 +2273,7 @@ terrorist /'terərɪst/ n
 1.**恐怖分子**  
 
 
-# ***test*** vt
+# *** *test*** vt
 英音 test     美音 test  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -2305,7 +2296,7 @@ terrorist /'terərɪst/ n
 ### 辨析 check, examine, inspect, test
   
 
-# ***test*** n
+# *** *test*** n
 英音 test     美音 test  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2334,7 +2325,7 @@ terrorist /'terərɪst/ n
  > 实践是检验真理的唯一标准。  
 
 
-# ***tetrahedron*** n
+# *** *tetrahedron*** n
 英音 ˌtetrə'hiːdrən     美音 ˌtetrə'hiːdrən  
 
 | 词频 1 |  
@@ -2344,7 +2335,7 @@ terrorist /'terərɪst/ n
 1.*高义频：* **四面体**  
 
 
-# ***text*** n
+# *** *text*** n
 英音 tekst     美音 tekst  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -2354,7 +2345,7 @@ terrorist /'terərɪst/ n
 1.*高义频：* **[C] 课文；正文**  
 
 
-# ***text*** v
+# *** *text*** v
 英音 tekst     美音 tekst  
 
 | 词频 5 | 口语 2 |  
@@ -2369,7 +2360,7 @@ terrorist /'terərɪst/ n
  > 发短信  
 
 
-# ***textbook*** n
+# *** *textbook*** n
 英音 'tekstbʊk     美音 'tekstbʊk  
 
 | 词频 4 |  
@@ -2382,7 +2373,7 @@ terrorist /'terərɪst/ n
  > 困境是人生的教科书。  
 
 
-# ***than*** conj & prep
+# *** *than*** conj & prep
 英音 ðən     美音 ðən  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2408,26 +2399,20 @@ terrorist /'terərɪst/ n
 
 固定搭配
 ---
-- more than
-1.**见 more**  
+## - *more than  **见 more**  
 
-- no more than
-1.**见 more**  
+## - *no more than  **见 more**  
 
-- no other than
-1.**见 other**  
+## - *no other than  **见 other**  
 
-- no sooner ... than
-1.**见soon**  
+## - *no sooner ... than  **见soon**  
 
-- other than
-1.**见 other**  
+## - *other than  **见 other**  
 
-- would rather ... (than)
-1.**见 rather**  
+## - *would rather ... (than)  **见 rather**  
 
 
-# ***thank*** vt
+# *** *thank*** vt
 英音 θæŋk     美音 θæŋk  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -2436,17 +2421,16 @@ terrorist /'terərɪst/ n
 ---
 1.*高义频：* **感谢：**  
 
+ > **thank heavens / goodness**  
+ > thank heavens / goodness  
+ > 谢天谢地  
+
 - thank sb for (doing) sth:
 
  > I’d like to thank her in my speech for all her support.  
  > 我想在演讲中对她的所有支持表示感谢。  
 
- > **thank heavens / goodness**  
- > thank heavens / goodness  
- > 谢天谢地  
-
-- have sb to thank (for)
-1.**(因…) 感谢某人：**  
+## - *have sb to thank (for)  **(因…) 感谢某人：**  
 
  > Anyone who has ever been helped by a social worker has Jane Addams to thank.  
  > 任何曾经被社工帮助过的人都应感谢简·亚当斯。  
@@ -2462,15 +2446,17 @@ A.Yes, please
 B.No, thank you  
 C.Yes, you can  
 D.No, you needn’t  
+来源：2010 全国  
 ##### 答案 B  
   
 ##### 题目  
 — Bruce, I really appreciate your handwriting.
 — ________ (非常感谢).   
+来源：2009 福建改  
 ##### 答案 Thank you / Thanks very much / Thanks a lot  
   
 
-# ***thank*** n
+# *** *thank*** n
 英音 θæŋk     美音 θæŋk  
 
 | 词频 5 |  
@@ -2482,15 +2468,14 @@ D.No, you needn’t
 
 固定搭配
 ---
-- thanks to
-1.**幸亏；由于：**  
+## - *thanks to  **幸亏；由于：**  
 
  > Thanks to his help, my speech was so successful that everyone cheered for me.  
  > 多亏他的帮助，我的演讲才如此成功，人人都为我喝彩。  
  > 来源：2012 湖南书面表达改  
 
 
-# ***thankful*** adj
+# *** *thankful*** adj
 英音 'θæŋkfl     美音 'θæŋkfl  
 
 | 词频 3 |  
@@ -2515,10 +2500,11 @@ thankfully /'θæŋkfəli/ adv
 ---
 ##### 题目  
 ________ (thankful), I managed to get through the game and the pain was worth it in the end.  
+来源：2011 安徽改  
 ##### 答案 Thankfully  
   
 
-# ***thankfully*** adv
+# *** *thankfully*** adv
 英音 'θæŋkfəli     美音 'θæŋkfəli  
 
 | 词频 2 |  
@@ -2528,7 +2514,7 @@ ________ (thankful), I managed to get through the game and the pain was worth it
 1.**感激地；满怀感谢地**  
 
 
-# ***thanksgiving*** n
+# *** *thanksgiving*** n
 英音 ˌθæŋks'ɡɪvɪŋ     美音 ˌθæŋks'ɡɪvɪŋ  
 
 | 词频 2 |  
@@ -2540,7 +2526,7 @@ ________ (thankful), I managed to get through the game and the pain was worth it
 1.*高义频：* **感恩 (节)**  
 
 
-# ***that*** pron
+# *** *that*** pron
 英音 ðæt     美音 ðæt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2572,7 +2558,7 @@ ________ (thankful), I managed to get through the game and the pain was worth it
  > 你借给我的那些书很有用。  
 
 
-# ***that*** adj
+# *** *that*** adj
 英音 ðæt     美音 ðæt  
 
 | 词频 5 |  
@@ -2591,7 +2577,7 @@ ________ (thankful), I managed to get through the game and the pain was worth it
  > 他怒火中烧，脸色苍白。  
 
 
-# ***that*** adv
+# *** *that*** adv
 英音 ðæt     美音 ðæt  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -2604,7 +2590,7 @@ ________ (thankful), I managed to get through the game and the pain was worth it
  > 很抱歉，我没有意识到情况会那么糟糕。  
 
 
-# ***that*** conj
+# *** *that*** conj
 英音 ðæt     美音 ðæt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2653,8 +2639,7 @@ ________ (thankful), I managed to get through the game and the pain was worth it
 
 固定搭配
 ---
-- in that
-1.**在…这一点上；因为：**  
+## - *in that  **在…这一点上；因为：**  
 
  > We all long for sincere friendship in that it can deeply influence our lives.  
  > 我们都渴望真诚的友谊，因为它对我们的生活会产生深刻的影响。  
@@ -2664,26 +2649,31 @@ ________ (thankful), I managed to get through the game and the pain was worth it
 ---
 ##### 题目  
 In many ways, the education system in the US is not very different from ________ in the UK.  
+来源：2016 浙江改  
 ##### 答案 that  
   
 ##### 题目  
 The most pleasant thing of the rainy season is ________ one can be entirely free from dust.  
+来源：2016 北京改  
 ##### 答案 that  
   
 ##### 题目  
 It is often the case________ anything is possible for those who hang on to hope.  
+来源：2016 江苏改  
 ##### 答案 that  
   
 ##### 题目  
 You are waiting at a wrong place. It is at the hotel________ the coach picks up tourists.  
+来源：2016 天津改  
 ##### 答案 that  
   
 ##### 题目  
 I truly believe________ beauty comes from within.  
+来源：2015 北京改  
 ##### 答案 that  
   
 
-# ***the*** art
+# *** *the*** art
 英音 ðə     美音 ðə  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2802,30 +2792,36 @@ I truly believe________ beauty comes from within.
 ---
 ##### 题目  
 ________ prize for the winner of the competition is ________ two-week holiday in Paris.  
+来源：2016 浙江改  
 ##### 答案 The; a  
   
 ##### 题目  
 __________ more learned a man is, __________ more modest he usually becomes.   
+来源：2015 陕西改  
 ##### 答案 The; the  
   
 ##### 题目  
 They chose Tom to be ________ captain of the team because they knew he was ________ smart leader.  
+来源：2014 江西改  
 ##### 答案 the; a  
   
 ##### 题目  
 Marco Polo is said to have sailed on ________ Pacific Ocean on his way to Java in ________ thirteenth century.  
+来源：2013 陕西改  
 ##### 答案 the; the  
   
 ##### 题目  
 Sarah looked at ________ finished painting with ________ satisfaction.  
+来源：2012 全国改  
 ##### 答案 the; 不填  
   
 ##### 题目  
 As is known to all, ________ People’s Republic of China is ________ biggest developing country in the world.  
+来源：2011 陕西改  
 ##### 答案 the; the  
   
 
-# ***theater*** n
+# *** *theater*** n
 英音 'θɪətə(r)     美音 'θiːətər  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2841,7 +2837,7 @@ As is known to all, ________ People’s Republic of China is ________ biggest de
  > 我喜欢音乐、戏剧和电影。  
 
 
-# ***theatre*** n
+# *** *theatre*** n
 英音 'θɪətə(r)     美音 'θiːətər  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2857,7 +2853,7 @@ As is known to all, ________ People’s Republic of China is ________ biggest de
  > 我喜欢音乐、戏剧和电影。  
 
 
-# ***thee*** pron
+# *** *thee*** pron
 英音 ðiː     美音 ðiː  
 
 | 词频 1 |  
@@ -2867,7 +2863,7 @@ As is known to all, ________ People’s Republic of China is ________ biggest de
 1.**<旧>（第二人称单数的宾语）你**  
 
 
-# ***theft*** n
+# *** *theft*** n
 英音 θeft     美音 θeft  
 
 | 词频 2 |  
@@ -2880,7 +2876,7 @@ As is known to all, ________ People’s Republic of China is ________ biggest de
  > 盗窃汽车  
 
 
-# ***their*** pron
+# *** *their*** pron
 英音 ðeə(r)     美音 ðer  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2898,7 +2894,7 @@ As is known to all, ________ People’s Republic of China is ________ biggest de
  > 让我们公平对待每个人。  
 
 
-# ***theirs*** pron
+# *** *theirs*** pron
 英音 ðeəz     美音 ðerz  
 
 | 词频 2 | 口语 1 |  
@@ -2913,7 +2909,7 @@ As is known to all, ________ People’s Republic of China is ________ biggest de
  > 她的几位同事都失业了，而她却设法保住了自己的职位。  
 
 
-# ***them*** pron
+# *** *them*** pron
 英音 ðəm     美音 ðəm  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2926,7 +2922,7 @@ As is known to all, ________ People’s Republic of China is ________ biggest de
  > 他们两个我都认识。  
 
 
-# ***theme*** n
+# *** *theme*** n
 英音 θiːm     美音 θiːm  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2944,7 +2940,7 @@ As is known to all, ________ People’s Republic of China is ________ biggest de
  > 迪士尼乐园是世界上最大的主题公园。  
 
 
-# ***themselves*** pron
+# *** *themselves*** pron
 英音 ðəm'selvz     美音 ðəm'selvz  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2966,10 +2962,11 @@ As is known to all, ________ People’s Republic of China is ________ biggest de
 ---
 ##### 题目  
 Many fast-growing countries are less concerned with protecting ________ (them) against climate change.  
+来源：2008 上海春改  
 ##### 答案 themselves  
   
 
-# ***then*** adv
+# *** *then*** adv
 英音 ðen     美音 ðen  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3001,7 +2998,7 @@ Many fast-growing countries are less concerned with protecting ________ (them) a
  > 她工作一直很忙，另外还有儿子的一大堆麻烦事。  
 
 
-# ***then*** n
+# *** *then*** n
 英音 ðen     美音 ðen  
 
 | 词频 5 |  
@@ -3020,7 +3017,7 @@ Many fast-growing countries are less concerned with protecting ________ (them) a
  > 自那时以来  
 
 
-# ***theoretical*** adj
+# *** *theoretical*** adj
 英音 ˌθɪə'retɪkl     美音 ˌθiːə'retɪkl  
 
 | 词频 1 | 书面 1 |  
@@ -3030,7 +3027,7 @@ Many fast-growing countries are less concerned with protecting ________ (them) a
 1.*高义频：* **理论上的；假设的**  
 
 
-# ***theory*** n
+# *** *theory*** n
 英音 'θɪəri     美音 'θɪri  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -3056,14 +3053,13 @@ Many fast-growing countries are less concerned with protecting ________ (them) a
 
 固定搭配
 ---
-- in theory
-1.**理论上：**  
+## - *in theory  **理论上：**  
 
  > It sounds fine in theory, but will it work?  
  > 理论上讲这是不错，但能否行得通?  
 
 
-# ***there*** int
+# *** *there*** int
 英音 ðeə(r)     美音 ðer  
 
 | 词频 5 |  
@@ -3076,7 +3072,7 @@ Many fast-growing countries are less concerned with protecting ________ (them) a
  > 好啦，好啦，别哭了。  
 
 
-# ***there*** adv
+# *** *there*** adv
 英音 ðeə(r)     美音 ðer  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3133,14 +3129,12 @@ Many fast-growing countries are less concerned with protecting ________ (them) a
 
 固定搭配
 ---
-- over there
-1.**在那里：**  
+## - *over there  **在那里：**  
 
  > Who is the man standing over there?  
  > 站在那边的那个人是谁？  
 
-- be (always) there (for sb)
-1.**[口语] 给予支持或援助：**  
+## - *be (always) there (for sb)  **[口语] 给予支持或援助：**  
 
  > My father was always there for me with good advice.  
  > 我父亲总能给我好建议。  
@@ -3154,10 +3148,11 @@ A.It has
 B.They have  
 C.It remains  
 D.There remains  
+来源：2009 安徽  
 ##### 答案 D  
   
 
-# ***therefore*** adv
+# *** *therefore*** adv
 英音 'ðeəfɔː(r)     美音 'ðerfɔːr  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -3179,10 +3174,11 @@ D.There remains
 ---
 ##### 题目  
 It’s our hope that we will play a greater role in the market place and, ________ (因此), supply more jobs.  
+来源：2014 安徽改  
 ##### 答案 therefore  
   
 
-# ***thermometer*** n
+# *** *thermometer*** n
 英音 θə'mɒmɪtə(r)     美音 θər'mɑːmɪtər  
 
   
@@ -3192,7 +3188,7 @@ It’s our hope that we will play a greater role in the market place and, ______
 1.**体温计**  
 
 
-# ***thermos*** n
+# *** *thermos*** n
 英音 'θɜːməs     美音 'θɜːrməs  
 
 | 词频 1 |  
@@ -3202,7 +3198,7 @@ It’s our hope that we will play a greater role in the market place and, ______
 1.*高义频：* **[C] 热水瓶；保温瓶**  
 
 
-# ***these*** adj
+# *** *these*** adj
 英音 ðiːz     美音 ðiːz  
 
 | 词频 5 |  
@@ -3218,7 +3214,7 @@ It’s our hope that we will play a greater role in the market place and, ______
  > 我将就以下两个话题进行发言：环境保护和行动的重要性。  
 
 
-# ***these*** pron
+# *** *these*** pron
 英音 ðiːz     美音 ðiːz  
 
 | 词频 5 |  
@@ -3231,7 +3227,7 @@ It’s our hope that we will play a greater role in the market place and, ______
  > 我们将在下面详细讨论这些。  
 
 
-# ***they*** pron
+# *** *they*** pron
 英音 ðeɪ     美音 ðeɪ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3254,7 +3250,7 @@ It’s our hope that we will play a greater role in the market place and, ______
  > 呆在这儿，这样无论谁进来你都能看见。  
 
 
-# ***thick*** adj
+# *** *thick*** adj
 英音 θɪk     美音 θɪk  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -3299,7 +3295,7 @@ It’s our hope that we will play a greater role in the market place and, ______
 thicken /'θɪkən/ v   
 thickness /'θɪknəs/ n   
 
-# ***thief*** n
+# *** *thief*** n
 英音 θiːf     美音 θiːf  
 
 | 词频 4 |  
@@ -3309,7 +3305,7 @@ thickness /'θɪknəs/ n
 1.*高义频：* **[C] (pl thieves) 窃贼；小偷**  
 
 
-# ***thin*** adj
+# *** *thin*** adj
 英音 θɪn     美音 θɪn  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -3339,7 +3335,7 @@ thickness /'θɪknəs/ n
  > 稀薄的空气  
 
 
-# ***thin-faced*** adj
+# *** *thin-faced*** adj
 英音 θɪnfeɪst     美音 θɪnfeɪst  
 
   
@@ -3349,7 +3345,7 @@ thickness /'θɪknəs/ n
 1.**面孔消瘦的**  
 
 
-# ***thing*** n
+# *** *thing*** n
 英音 θɪŋ     美音 θɪŋ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3379,15 +3375,14 @@ thickness /'θɪknəs/ n
 
 固定搭配
 ---
-- for one thing …, for another (thing) …
-1.**首先 …， 再者…：**  
+## - *for one thing …, for another (thing) …  **首先 …， 再者…：**  
 
  > For one thing, reading literary books help to improve my writing skills and broaden my horizons. For another, they can enrich my life.  
  > 首先，阅读文学书籍有助于提高我的写作技能并开阔视野。再者，还能丰富我的生活。  
  > 来源：2012 江西书面表达改  
 
 
-# ***think*** v
+# *** *think*** v
 英音 θɪŋk     美音 θɪŋk  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3445,21 +3440,18 @@ thickness /'θɪknəs/ n
 
 固定搭配
 ---
-- think about
-1.**思考；考虑：**  
+## - *think about  **思考；考虑：**  
 
  > Changing the way you think about yourself is the key to changing your self-image.  
  > 改变审视自我的方式是改变自我形象的关键。  
  > 来源：2008 广东改  
 
-- think highly of
-1.**对…高度评价：**  
+## - *think highly of  **对…高度评价：**  
 
  > We should think highly of him, because he always put others’ interest first.  
  > 我们应该对他高度评价，因为他总是把别人的利益放在首位。  
 
-- think of
-1.*高义频：* **考虑；关心：**  
+## - *think of  1.*高义频：* **考虑；关心：**  
 
  > I’m thinking of taking a trip during the Christmas holidays.  
  > 我正在考虑圣诞假期出门旅行。  
@@ -3479,8 +3471,7 @@ thickness /'θɪknəs/ n
  > Many people thought of Mr Jackson for the president.  
  > 许多人认为杰克逊先生适合做总裁。  
 
-- think of ... as ...
-1.**把…看作…；认为…是…：**  
+## - *think of ... as ...  **把…看作…；认为…是…：**  
 
  > I thought of reading as natural as breathing.  
  > 我把阅读看成如呼吸一样自然的事。  
@@ -3488,14 +3479,12 @@ thickness /'θɪknəs/ n
  > I think of him as a happy person with many friends.  
  > 我认为他是个快乐的、有许多朋友的人。  
 
-- think over
-1.**仔细考虑：**  
+## - *think over  **仔细考虑：**  
 
  > I’ll think over your suggestions, and let you know my decision in a day or two.  
  > 我会慎重考虑你的建议，并在一两天内把我的决定告诉你。  
 
-- think up
-1.**想出：**  
+## - *think up  **想出：**  
 
  > I wish I could think up some ways of convincing them of their mistakes.  
  > 但愿我能想出一些方法，使他们相信自己错了。  
@@ -3514,10 +3503,11 @@ A.Go ahead
 B.Certainly  
 C.That’s right  
 D.I don’t think so  
+来源：2014 山东  
 ##### 答案 D  
   
 
-# ***thinker*** n
+# *** *thinker*** n
 英音 'θɪŋkə(r)     美音 'θɪŋkər  
 
 | 词频 3 |  
@@ -3527,7 +3517,7 @@ D.I don’t think so
 1.**思想家**  
 
 
-# ***thinking*** n
+# *** *thinking*** n
 英音 'θɪŋkɪŋ     美音 'θɪŋkɪŋ  
 
 | 词频 5 |  
@@ -3543,7 +3533,7 @@ D.I don’t think so
  > 你对此事有何见解？  
 
 
-# ***thirst*** n
+# *** *thirst*** n
 英音 θɜːst     美音 θɜːrst  
 
 | 词频 2 |  
@@ -3564,7 +3554,7 @@ D.I don’t think so
  > 我对知识的渴望胜过饥饿的煎熬。  
 
 
-# ***thirsty*** adj
+# *** *thirsty*** adj
 英音 'θɜːsti     美音 'θɜːrsti  
 
 | 词频 2 | 阅读 1 |  
@@ -3589,7 +3579,7 @@ D.I don’t think so
  > 来源：外研⑧ – 2  
 
 
-# ***this*** pron
+# *** *this*** pron
 英音 ðɪs     美音 ðɪs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3611,7 +3601,7 @@ Notes: 打电话时用this指代自己。
  > 你最好记住这一点：对每个人微笑。  
 
 
-# ***this*** adj
+# *** *this*** adj
 英音 ðɪs     美音 ðɪs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3630,7 +3620,7 @@ Notes: 打电话时用this指代自己。
  > 今晚/今年  
 
 
-# ***this*** adv
+# *** *this*** adv
 英音 ðɪs     美音 ðɪs  
 
 | 词频 5 |  
@@ -3643,7 +3633,7 @@ Notes: 打电话时用this指代自己。
  > 你需要把管头切下大约这么多。  
 
 
-# ***thistle*** n
+# *** *thistle*** n
 英音 'θɪsl     美音 'θɪsl  
 
 | 词频 1 |  
@@ -3653,7 +3643,7 @@ Notes: 打电话时用this指代自己。
 1.**蓟 (一种野生植物, 叶片带刺, 开紫花)**  
 
 
-# ***thistledown*** n
+# *** *thistledown*** n
 英音 'θɪsldaʊn     美音 'θɪsldaʊn  
 
 | 词频 1 |  
@@ -3663,7 +3653,7 @@ Notes: 打电话时用this指代自己。
 1.**蓟种子冠毛（蓟种子上的软翅，可帮助种子漂浮在空中）**  
 
 
-# ***thorough*** adj
+# *** *thorough*** adj
 英音 'θʌrə     美音 'θɜːroʊ  
 
 | 词频 2 |  
@@ -3685,7 +3675,7 @@ Notes: 打电话时用this指代自己。
 ---
 thoroughly /'θʌrəli/ adv   
 
-# ***those*** pron
+# *** *those*** pron
 英音 ðəʊz     美音 ðoʊz  
 
 | 词频 5 |  
@@ -3706,14 +3696,16 @@ thoroughly /'θʌrəli/ adv
 ---
 ##### 题目  
 Half of ________ surveyed in 16 countries say they go first to their closest friend to share their deepest wishes and darkest fears.   
+来源：2013 浙江改  
 ##### 答案 those  
   
 ##### 题目  
 At our factory there are a few machines similar to ________ described in this magazine.  
+来源：2013 天津改  
 ##### 答案 those  
   
 
-# ***those*** adj
+# *** *those*** adj
 英音 ðəʊz     美音 ðoʊz  
 
 | 词频 5 |  
@@ -3726,7 +3718,7 @@ At our factory there are a few machines similar to ________ described in this ma
  > 那两道题很难解。  
 
 
-# ***thou*** pron
+# *** *thou*** pron
 英音 ðaʊ     美音 ðaʊ  
 
 | 词频 1 |  
@@ -3736,7 +3728,7 @@ At our factory there are a few machines similar to ________ described in this ma
 1.**<旧>（第二人称单数的主格）你**  
 
 
-# ***though*** conj
+# *** *though*** conj
 英音 ðəʊ     美音 ðoʊ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3768,11 +3760,13 @@ Notes: though意为“虽然”，引导状语从句时，可将从句中的表�
 ---
 ##### 题目  
 Though not very big, but the restaurant is popular in our area.  
+来源：2016 全国 改错  
 ##### 答案 去掉but  
   
 ##### 题目  
 If scientists have learned a lot about the universe, there is much we still don’t know. 
   
+来源：2015安徽改 改错  
 ##### 答案 If → Though / Although  
   
 ##### 题目  
@@ -3781,10 +3775,11 @@ A.though was he
 B.though he was  
 C.he was though  
 D.was he though  
+来源：2009 重庆  
 ##### 答案 B  
   
 
-# ***though*** adv
+# *** *though*** adv
 英音 ðəʊ     美音 ðoʊ  
 
 | 词频 5 | 口语 3 |  
@@ -3799,8 +3794,7 @@ D.was he though
 
 固定搭配
 ---
-- even though 
-1.**即使；虽然：**  
+## - *even though   **即使；虽然：**  
 
  > My grandfather still plays tennis now and then, even though he’s in his nineties.   
  > 我爷爷尽管90多岁了，仍然时不时地打打网球。  
@@ -3815,10 +3809,11 @@ A.though
 B.also   
 C.either  
 D.too  
+来源：2010 浙江  
 ##### 答案 A  
   
 
-# ***thought*** n  重难点词汇
+# *** *thought*** n  重难点词汇
 英音 θɔːt     美音 θɔːt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3890,20 +3885,17 @@ D.too
 
 固定搭配
 ---
-- at the thought of 
-1.**一想起… (就)：**  
+## - *at the thought of   **一想起… (就)：**  
 
  > She was sad at the thought of leaving the house, as it was full of so many memories.   
  > 一想到要离开这栋房子她就难过起来，因为这里充满了很多回忆。  
 
-- have second thoughts 
-1.**改变主意：**  
+## - *have second thoughts   **改变主意：**  
 
  > Had they known what was coming next, they might have had second thoughts.   
  > 他们如果知道接下来会发生什么，就可能会改变主意了。  
 
-- without a second thought
-1.**立即；不假思索：**  
+## - *without a second thought  **立即；不假思索：**  
 
  > He dived in after her without a second thought.  
  > 他不假思索地随她跳入水中。  
@@ -3918,10 +3910,11 @@ thoughtful /'θɔːtfl/ adj
 ##### 题目  
 There is no need to tell me your answer now.  _________ (考虑一下) and then let me know. 
   
+来源：2015 安徽改  
 ##### 答案 Give it some thought  
   
 
-# ***thoughtful*** adj
+# *** *thoughtful*** adj
 英音 'θɔːtfl     美音 'θɔːtfl  
 
 | 词频 3 |  
@@ -3931,7 +3924,7 @@ There is no need to tell me your answer now.  _________ (考虑一下) and then 
 1.*高义频：* **关切的；体贴的；深思的**  
 
 
-# ***thousand*** num
+# *** *thousand*** num
 英音 'θaʊznd     美音 'θaʊznd  
 
 | 词频 5 |  
@@ -3947,15 +3940,14 @@ There is no need to tell me your answer now.  _________ (考虑一下) and then 
 
 固定搭配
 ---
-- thousands of 
-1.**大量的；成千上万的：**  
+## - *thousands of   **大量的；成千上万的：**  
 
  > Thousands of people left the countryside to work in the city.   
  > 成千上万的人离开乡村到城里工作。  
  > 来源：外研③ – 5  
 
 
-# ***thread*** n
+# *** *thread*** n
 英音 θred     美音 θred  
 
 | 词频 2 |  
@@ -3970,7 +3962,7 @@ There is no need to tell me your answer now.  _________ (考虑一下) and then 
  > 贯穿这部电影的一条主线  
 
 
-# ***threat*** n
+# *** *threat*** n
 英音 θret     美音 θret  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -3996,7 +3988,7 @@ There is no need to tell me your answer now.  _________ (考虑一下) and then 
  > 有刮台风的征兆。  
 
 
-# ***threaten*** v
+# *** *threaten*** v
 英音 'θretn     美音 'θretn  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -4005,13 +3997,13 @@ There is no need to tell me your answer now.  _________ (考虑一下) and then 
 ---
 1.*高义频：* **威胁；恐吓；危及到：**  
 
+ > If a stranger should enter your territory and threaten you, you might shout.   
+ > 如果陌生人闯入你的领地并威胁到你，你可以大喊。  
+
 - threaten to do sth:
 
  > Her brother threatened to leave her in the dark room alone when she disobeyed his order.   
  > 哥哥要挟她说，不听话就把她一个人关在黑屋子里。  
-
- > If a stranger should enter your territory and threaten you, you might shout.   
- > 如果陌生人闯入你的领地并威胁到你，你可以大喊。  
 
 2.*高义频：* **预示 (...的) 凶兆：**  
 
@@ -4028,10 +4020,11 @@ threatening /'θretnɪŋ/ adj
 ##### 题目  
 David threatened ________ (report) his neighbour to the police if the damages were not paid. 
   
+来源：2009 上海改  
 ##### 答案 to report  
   
 
-# ***threatening*** adj
+# *** *threatening*** adj
 英音 'θretnɪŋ     美音 'θretnɪŋ  
 
 | 词频 2 |  
@@ -4041,7 +4034,7 @@ David threatened ________ (report) his neighbour to the police if the damages we
 1.**恐吓的；具有威胁的**  
 
 
-# ***thrill*** n
+# *** *thrill*** n
 英音 θrɪl     美音 θrɪl  
 
 | 词频 1 |  
@@ -4061,7 +4054,7 @@ David threatened ________ (report) his neighbour to the police if the damages we
  > 跟这位著名的足球运动员见面对孩子们来说是一件非常激动人心的事。  
 
 
-# ***thrill*** v
+# *** *thrill*** v
 英音 θrɪl     美音 θrɪl  
 
 | 词频 1 |  
@@ -4082,7 +4075,7 @@ David threatened ________ (report) his neighbour to the police if the damages we
 thrilled  /θrɪld/ adj [不用于名词前]  
 thrilling /'θrɪlɪŋ/ adj   
 
-# ***thriller*** n
+# *** *thriller*** n
 英音 'θrɪlə(r)     美音 'θrɪlər  
 
 | 词频 1 |  
@@ -4094,7 +4087,7 @@ thrilling /'θrɪlɪŋ/ adj
 1.*高义频：* **惊险小说 / 电影；恐怖小说 / 电影**  
 
 
-# ***throat*** n
+# *** *throat*** n
 英音 θrəʊt     美音 θroʊt  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -4106,7 +4099,7 @@ thrilling /'θrɪlɪŋ/ adj
 1.*高义频：* **喉咙；咽喉；喉头**  
 
 
-# ***through*** prep  重难点词汇
+# *** *through*** prep  重难点词汇
 英音 θruː     美音 θruː  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4159,10 +4152,11 @@ A.through
 B.up  
 C.with  
 D.from  
+来源：2011 上海  
 ##### 答案 A  
   
 
-# ***through*** adv  重难点词汇
+# *** *through*** adv  重难点词汇
 英音 θruː     美音 θruː  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4191,7 +4185,7 @@ D.from
  > 请别挂断电话，我给您转接过去。  
 
 
-# ***throughout*** prep
+# *** *throughout*** prep
 英音 θruː'aʊt     美音 θruː'aʊt  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -4207,7 +4201,7 @@ D.from
  > 纵观历史/毕生  
 
 
-# ***throughout*** adv
+# *** *throughout*** adv
 英音 θruː'aʊt     美音 θruː'aʊt  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -4223,7 +4217,7 @@ D.from
  > 仪式进行了两个小时，我们自始至终都得站着。  
 
 
-# ***throw*** v
+# *** *throw*** v
 英音 θrəʊ     美音 θroʊ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4250,8 +4244,7 @@ D.from
 
 固定搭配
 ---
-- throw away
-1.**扔掉(throw out)；浪费 (金钱等)；放过 (机会等)：**  
+## - *throw away  **扔掉(throw out)；浪费 (金钱等)；放过 (机会等)：**  
 
  > People are recycling many things which they would have thrown away in the past.  
  > 人们在回收利用很多他们在过去会扔掉的东西。  
@@ -4263,8 +4256,7 @@ D.from
  > This is the best chance you can have. Take it. Don’t throw it away.   
  > 这是你最好的机会，把握住，别放过。  
 
-- throw off 
-1.**扔掉；摆脱；匆匆脱掉 (衣服)：**  
+## - *throw off   **扔掉；摆脱；匆匆脱掉 (衣服)：**  
 
  > Throw off all your unpleasant memories.   
  > 忘掉你所有不愉快的记忆。  
@@ -4272,15 +4264,13 @@ D.from
  > He threw off his coat and started work.   
  > 他匆忙脱下外衣，开始工作。  
 
-- throw oneself into
-1.**投身于；积极从事：**  
+## - *throw oneself into  **投身于；积极从事：**  
 
  > As the vegetables started coming in, Dad threw himself into cooking.    
  > 当蔬菜被送来的时候，父亲全身心地投入到烹饪当中。  
  > 来源：2015 四川  
 
-- throw oneself on 
-1.**扑倒在…上；完全依赖：**  
+## - *throw oneself on   **扑倒在…上；完全依赖：**  
 
  > I threw myself on the bed in my clothes, trying to find a few moments of sleep.    
  > 我和衣倒在床上，试图睡上一会儿。  
@@ -4289,8 +4279,7 @@ D.from
  > I throw myself on your support to help me with this competition.   
  > 我就靠你来帮我赢得这场比赛了。  
 
-- throw out 
-1.**抛出；扔掉(throw away)；撵走；开除：**  
+## - *throw out   **抛出；扔掉(throw away)；撵走；开除：**  
 
  > Protect the water environment consciously; don’t throw out peels, paper scraps, etc.   
  > 自觉保护水环境，不要乱扔果皮、纸屑等。  
@@ -4298,8 +4287,7 @@ D.from
  > You’ll be thrown out if you don’t pay the rent.   
  > 如果不付房租，你就会被赶出去。  
 
-- throw up 
-1.**抛起；举起：**  
+## - *throw up   **抛起；举起：**  
 
  > throw up one’s hands in fear   
  > 恐惧地举起双手  
@@ -4309,7 +4297,7 @@ D.from
 ---
 thrower /'θrəʊə(r)/ n [C]   
 
-# ***thumb*** n
+# *** *thumb*** n
 英音 θʌm     美音 θʌm  
 
 | 词频 1 |  
@@ -4321,7 +4309,7 @@ thrower /'θrəʊə(r)/ n [C]
 1.*高义频：* **拇指**  
 
 
-# ***thump*** v
+# *** *thump*** v
 英音 θʌmp     美音 θʌmp  
 
 | 词频 1 |  
@@ -4331,7 +4319,7 @@ thrower /'θrəʊə(r)/ n [C]
 1.**（由于生气、恐惧或兴奋等心脏）怦怦直跳**  
 
 
-# ***thunder*** n
+# *** *thunder*** n
 英音 'θʌndə(r)     美音 'θʌndər  
 
 | 词频 1 |  
@@ -4349,7 +4337,7 @@ thrower /'θrəʊə(r)/ n [C]
  > 雷鸣般的掌声  
 
 
-# ***thunder*** vi
+# *** *thunder*** vi
 英音 'θʌndə(r)     美音 'θʌndər  
 
 | 词频 1 |  
@@ -4365,7 +4353,7 @@ thrower /'θrəʊə(r)/ n [C]
  > 火车轰隆隆地驶过那个小站。  
 
 
-# ***thunderstorm*** n
+# *** *thunderstorm*** n
 英音 'θʌndəstɔːm     美音 'θʌndərstɔːrm  
 
 | 词频 1 |  
@@ -4377,7 +4365,7 @@ thrower /'θrəʊə(r)/ n [C]
 1.*高义频：* **雷雨；雷暴**  
 
 
-# ***thus*** adv
+# *** *thus*** adv
 英音 ðʌs     美音 ðʌs  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -4397,7 +4385,7 @@ thrower /'θrəʊə(r)/ n [C]
  > 我们未能找到足够的证据，因此，我们认定他是无罪的。  
 
 
-# ***tick*** n
+# *** *tick*** n
 英音 tɪk     美音 tɪk  
 
 | 词频 2 |  
@@ -4409,7 +4397,7 @@ thrower /'θrəʊə(r)/ n [C]
 1.*高义频：* **(核对用的) 记号；[常用单数] 滴答声**  
 
 
-# ***tick*** v
+# *** *tick*** v
 英音 tɪk     美音 tɪk  
 
 | 词频 2 |  
@@ -4424,7 +4412,7 @@ thrower /'θrəʊə(r)/ n [C]
 2.*高义频：* **(钟表等) 嘀嗒嘀嗒响：**  
 
 
-# ***ticket*** n
+# *** *ticket*** n
 英音 'tɪkɪt     美音 'tɪkɪt  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -4447,7 +4435,7 @@ thrower /'θrəʊə(r)/ n [C]
  > 凭票入场。  
 
 
-# ***tidal*** adj
+# *** *tidal*** adj
 英音 'taɪdl     美音 'taɪdl  
 
 | 词频 1 |  
@@ -4457,7 +4445,7 @@ thrower /'θrəʊə(r)/ n [C]
 1.**受潮水影响的；有涨落的**  
 
 
-# ***tide*** n
+# *** *tide*** n
 英音 taɪd     美音 taɪd  
 
 | 词频 2 |  
@@ -4473,7 +4461,7 @@ thrower /'θrəʊə(r)/ n [C]
  > 跟舆论唱反调需要勇气。  
 
 
-# ***tidy*** adj
+# *** *tidy*** adj
 英音 'taɪdi     美音 'taɪdi  
 
 | 词频 2 | 口语 1 |  
@@ -4490,7 +4478,7 @@ thrower /'θrəʊə(r)/ n [C]
  > 来源： 北师大⑤ – 13  
 
 
-# ***tidy*** v
+# *** *tidy*** v
 英音 'taɪdi     美音 'taɪdi  
 
 | 词频 2 |  
@@ -4504,7 +4492,7 @@ thrower /'θrəʊə(r)/ n [C]
  > 我得梳理一下。  
 
 
-# ***tie*** n
+# *** *tie*** n
 英音 taɪ     美音 taɪ  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -4527,7 +4515,7 @@ thrower /'θrəʊə(r)/ n [C]
  > 每个队都得分两次，比赛最终打成了平局。  
 
 
-# ***tie*** vt
+# *** *tie*** vt
 英音 taɪ     美音 taɪ  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -4543,15 +4531,14 @@ thrower /'θrəʊə(r)/ n [C]
 
 固定搭配
 ---
-- tie up 
-1.**系紧；拴牢：**  
+## - *tie up   **系紧；拴牢：**  
 
  > Susan handed him the string so he could tie up the box.  
  > 苏珊把绳子递给他，让他能绑好盒子。  
  > 来源：人教⑨ – 4  
 
 
-# ***tiger*** n
+# *** *tiger*** n
 英音 'taɪɡə(r)     美音 'taɪɡər  
 
 | 词频 3 |  
@@ -4563,7 +4550,7 @@ thrower /'θrəʊə(r)/ n [C]
 1.*高义频：* **虎；老虎**  
 
 
-# ***tight*** adj
+# *** *tight*** adj
 英音 taɪt     美音 taɪt  
 
 | 词频 2 | 口语 2 | 书面 1 |  
@@ -4609,10 +4596,11 @@ thrower /'θrəʊə(r)/ n [C]
 ##### 题目  
 My schedule is very ________ (紧凑的) right now, but I’ll try to fit you in.
   
+来源：2011 浙江改  
 ##### 答案 tight  
   
 
-# ***tight*** adv
+# *** *tight*** adv
 英音 taɪt     美音 taɪt  
 
 | 词频 2 |  
@@ -4635,7 +4623,7 @@ My schedule is very ________ (紧凑的) right now, but I’ll try to fit you in
 tighten /'taɪtn/ v   
 tightly /'taɪtli/ adv   
 
-# ***tightly*** adv
+# *** *tightly*** adv
 英音 'taɪtli     美音 'taɪtli  
 
 | 词频 2 |  
@@ -4645,7 +4633,7 @@ tightly /'taɪtli/ adv
 1.*高义频：* **紧地；牢牢地**  
 
 
-# ***till*** prep
+# *** *till*** prep
 英音 tɪl     美音 tɪl  
 
 | 词频 4 | 口语 3 |  
@@ -4665,7 +4653,7 @@ tightly /'taɪtli/ adv
  > 直到现在我才知道那个消息。  
 
 
-# ***till*** conj
+# *** *till*** conj
 英音 tɪl     美音 tɪl  
 
 | 词频 4 | 口语 3 |  
@@ -4683,7 +4671,7 @@ tightly /'taɪtli/ adv
  > 直到你去尝试你才知道自己能做什么。  
 
 
-# ***time*** n  重难点词汇
+# *** *time*** n  重难点词汇
 英音 taɪm     美音 taɪm  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4739,53 +4727,45 @@ tightly /'taɪtli/ adv
 
 固定搭配
 ---
-- ahead of time 
-1.**提前；提早：**  
+## - *ahead of time   **提前；提早：**  
 
  > Can you finish your homework ahead of time?   
  > 你能提前做完作业吗？  
 
-- all the time 
-1.**一直；始终：**  
+## - *all the time   **一直；始终：**  
 
  > Opportunities are present all the time, but often they go by unnoticed.   
  > 机会始终都在，但常常被人忽视。  
 
-- at a time 
-1.**一次；同时：**  
+## - *at a time   **一次；同时：**  
 
  > Wealth starts with a goal saving a dollar at a time.  
  > 财富始于一次存一美元的目标。  
  > 来源：2014 浙江  
 
-- at all times 
-1.**随时；总是：**  
+## - *at all times   **随时；总是：**  
 
  > No man is wise at all times.   
  > 智者千虑，必有一失。  
 
-- (at) any time 
-1.**任何时候；随时：**  
+## - *(at) any time   **任何时候；随时：**  
 
  > Unexpected disasters can strike at any time.   
  > 不可预料的灾难随时可能发生。  
 
-- at no time
-1.**在任何时候都不；决不：**  
+## - *at no time  **在任何时候都不；决不：**  
 
  > At no time during the tour was I bored.  
  > 观光途中我从未觉得无聊过。  
  > 来源：译林⑧ – 3  
 
-- at one time 
-1.**一度：**  
+## - *at one time   **一度：**  
 
  > At one time, half the land on the Earth’s surface was covered by forest.   
  > 曾经，地球表面的一半被森林所覆盖。  
  > 来源：北师大⑧ – 22  
 
-- at the same time
-1.**同时；但：**  
+## - *at the same time  **同时；但：**  
 
  > It’s impossible to get everybody together at the same time.   
  > 使所有人都同时聚到一起是不可能的。  
@@ -4794,53 +4774,45 @@ tightly /'taɪtli/ adv
  > 太空旅行可以很令人愉快，但同时也存在无形的危险。  
  > 来源：2015 湖北  
 
-- at times
-1.**有时；间或：**  
+## - *at times  **有时；间或：**  
 
  > He was made to practise the piano so much that, at times, he thought about giving up.   
  > 他被安排练琴的时间太长，有时都想放弃了。  
  > 来源：北师大② – 5  
 
-- by the time 
-1.**在…以前：**  
+## - *by the time   **在…以前：**  
 
  > By the time I retire I’ll finish paying for my house.  
  > 我将在退休前付清房款。  
 
-- every time 
-1.**每次；每当：**  
+## - *every time   **每次；每当：**  
 
  > Our greatest glory consists not in never falling but in rising every time we fall.   
  > 我们最值得自豪的不在于永不跌倒，而在于每次跌倒之后都站了起来。  
 
-- for the time (being) 
-1.**暂时；眼下：**  
+## - *for the time (being)   **暂时；眼下：**  
 
  > Feeling better, she decided not to worry about math for the time being.   
  > 感觉好点后，她决定暂时不想数学的事。  
  > 来源：2008 天津  
 
-- from time to time 
-1.**有时；不时：**  
+## - *from time to time   **有时；不时：**  
 
  > These days, Roy and I see each other from time to time, but we’re no longer close.  
  > 最近，我和罗伊偶尔见面，但不再那么亲密了。  
  > 来源：外研⑥ – 3  
 
-- have a ... time 
-1.**过得…：**  
+## - *have a ... time   **过得…：**  
 
  > I’m sure you’ll have a great time in California.   
  > 我相信你会在加利福尼亚玩得很开心。  
 
-- in no time 
-1.**立即；马上：**  
+## - *in no time   **立即；马上：**  
 
  > Don’t worry. You’ll be all right in no time.   
  > 别担心，你很快就会好起来。  
 
-- in time 
-1.**及时；迟早：**  
+## - *in time   **及时；迟早：**  
 
  > Firemen reached the house on fire in time.   
  > 消防队员及时赶到那所失火的房子。  
@@ -4848,31 +4820,26 @@ tightly /'taɪtli/ adv
  > If you keep on, you will succeed in time.   
  > 如果坚持下去，你迟早会成功的。  
 
-- it’s (about / high) time sb did sth 
-1.**是某人做事的时候了：**  
+## - *it’s (about / high) time sb did sth   **是某人做事的时候了：**  
 
  > It’s high time you cleaned your room!   
  > 你该打扫房间了！  
 
-- on time 
-1.**按时；准时：**  
+## - *on time   **按时；准时：**  
 
  > You must give your homework to the teacher on time.  
  > 你必须按时将作业交给老师。  
  > 来源：外研④ – 7  
 
-- once upon a time 
-1.**[常用于故事开头] 从前：**  
+## - *once upon a time   **[常用于故事开头] 从前：**  
 
  > Once upon a time there was a farmer who worked hard in the fields every day.   
  > 从前，有个农夫每天在田里辛勤劳作。  
  > 来源：2005 广东  
 
-- take your time 
-1.**别着急**  
+## - *take your time   **别着急**  
 
-- time after time / time and (time) again 
-1.**一再； 反复：**  
+## - *time after time / time and (time) again   **一再； 反复：**  
 
  > I listened to the sentence time after time, but still can’t follow its meaning.   
  > 我反复听这个句子，但还是不明白它的意思。  
@@ -4886,28 +4853,33 @@ A.they actually broke
 B.do they actually break  
 C.did they actually break  
 D.they had actually broken  
+来源：2013 山东  
 ##### 答案 C  
   
 ##### 题目  
 The manager wants to see changes in the company, and I am sure he will ________ time. 
   
+来源：2013 陕西改  
 ##### 答案 in  
   
 ##### 题目  
 He will come to understand your efforts sooner or later. It’s just  ________ (时间问题). 
   
+来源：2012 四川改  
 ##### 答案 a matter of time  
   
 ##### 题目  
 Jack is a great talker. It’s high time that he  ________ (do) something instead of just talking.  
+来源：2012 辽宁改  
 ##### 答案 did  
   
 ##### 题目  
 The new stadium being built for the next Asian Games will be ________ (…的三倍大) the present one.  
+来源：2011 陕西改  
 ##### 答案 three times as big as  
   
 
-# ***time*** vt  重难点词汇
+# *** *time*** vt  重难点词汇
 英音 taɪm     美音 taɪm  
 
 | 词频 5 |  
@@ -4920,7 +4892,7 @@ The new stadium being built for the next Asian Games will be ________ (…的三
  > 从车站的大钟上，我看到自己到达的时间算得分秒不差。  
 
 
-# ***time-consuming*** adj
+# *** *time-consuming*** adj
 英音 taɪm kən'sjuːmɪŋ     
 
   
@@ -4930,7 +4902,7 @@ The new stadium being built for the next Asian Games will be ________ (…的三
 1.**耗费时间的**  
 
 
-# ***timetable*** n
+# *** *timetable*** n
 英音 'taɪmteɪbl     美音 'taɪmteɪbl  
 
 | 词频 3 |  
@@ -4945,7 +4917,7 @@ The new stadium being built for the next Asian Games will be ________ (…的三
  > 火车时刻表  
 
 
-# ***tin*** n
+# *** *tin*** n
 英音 tɪn     美音 tɪn  
 
 | 词频 2 | 口语 2 |  
@@ -4957,7 +4929,7 @@ The new stadium being built for the next Asian Games will be ________ (…的三
 2.*高义频：* **(食物等的) 罐头；听**  
 
 
-# ***tiny*** adj
+# *** *tiny*** adj
 英音 'taɪni     美音 'taɪni  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -4970,7 +4942,7 @@ The new stadium being built for the next Asian Games will be ________ (…的三
  > 这是我见过的最小的汽车。  
 
 
-# ***tip*** n
+# *** *tip*** n
 英音 tɪp     美音 tɪp  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -4996,7 +4968,7 @@ The new stadium being built for the next Asian Games will be ________ (…的三
  > 语法学习建议  
 
 
-# ***tip*** vt
+# *** *tip*** vt
 英音 tɪp     美音 tɪp  
 
 | 词频 4 | 口语 1 |  
@@ -5009,7 +4981,7 @@ The new stadium being built for the next Asian Games will be ________ (…的三
  > 我给了女服务员50元小费。  
 
 
-# ***tire*** v
+# *** *tire*** v
 英音 'taɪə(r)     美音 'taɪər  
 
 | 词频 1 |  
@@ -5034,11 +5006,10 @@ The new stadium being built for the next Asian Games will be ________ (…的三
 
 固定搭配
 ---
-- tire out
-1.**使精疲力竭**  
+## - *tire out  **使精疲力竭**  
 
 
-# ***tire*** n
+# *** *tire*** n
 英音 'taɪə(r)     美音 'taɪər  
 
 | 词频 2 |  
@@ -5054,7 +5025,7 @@ The new stadium being built for the next Asian Games will be ________ (…的三
  > 轮胎瘪了  
 
 
-# ***tired*** adj
+# *** *tired*** adj
 英音 'taɪəd     美音 'taɪərd  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -5077,7 +5048,7 @@ The new stadium being built for the next Asian Games will be ________ (…的三
  > 他厌倦了城市生活，希望迁居乡村，改变目前的生活方式。  
 
 
-# ***tiresome*** adj
+# *** *tiresome*** adj
 英音 'taɪəsəm     美音 'taɪərsəm  
 
 | 词频 1 | 阅读 3 |  
@@ -5090,7 +5061,7 @@ The new stadium being built for the next Asian Games will be ________ (…的三
  > 烦人的孩子/工作  
 
 
-# ***tiring*** adj
+# *** *tiring*** adj
 英音 'taɪərɪŋ     美音 'taɪərɪŋ  
 
 | 词频 3 |  
@@ -5103,7 +5074,7 @@ The new stadium being built for the next Asian Games will be ________ (…的三
  > 累人的工作  
 
 
-# ***tissue*** n
+# *** *tissue*** n
 英音 'tɪʃu:, 'tɪsʃuː     美音 'tɪʃuː  
 
 | 词频 1 |  
@@ -5121,7 +5092,7 @@ The new stadium being built for the next Asian Games will be ________ (…的三
  > 面巾纸  
 
 
-# ***title*** n
+# *** *title*** n
 英音 'taɪtl     美音 'taɪtl  
 
 | 词频 5 | 口语 1 | 书面 3 |  
@@ -5140,7 +5111,7 @@ The new stadium being built for the next Asian Games will be ________ (…的三
  > 来源：外研⑦ – 1  
 
 
-# ***title*** vt
+# *** *title*** vt
 英音 'taɪtl     美音 'taɪtl  
 
 | 词频 5 |  
@@ -5150,7 +5121,7 @@ The new stadium being built for the next Asian Games will be ________ (…的三
 1.*高义频：* **加标题于；授予...称号**  
 
 
-# ***to*** prep
+# *** *to*** prep
 英音 tə, tu, tu:     美音 tə, tu, tu:  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5244,15 +5215,17 @@ Notes: to还可与动词原形连用构成动词不定式。
 ---
 ##### 题目  
 Have you ever heard of the trees that are homes ________ animals both on land and sea?  
+来源：2015 浙江改  
 ##### 答案 to  
   
 ##### 题目  
 Most Americans would prefer to keep their problems ________ themselves, and solve their problems  ________ themselves. 
   
+来源：2009 湖南改  
 ##### 答案 to; by  
   
 
-# ***toast*** n
+# *** *toast*** n
 英音 təʊst     美音 toʊst  
 
 | 词频 2 | 口语 1 |  
@@ -5271,7 +5244,7 @@ Most Americans would prefer to keep their problems ________ themselves, and solv
  > 我建议为新郎新娘干杯。  
 
 
-# ***toast*** vt
+# *** *toast*** vt
 英音 təʊst     美音 toʊst  
 
 | 词频 2 |  
@@ -5286,7 +5259,7 @@ Most Americans would prefer to keep their problems ________ themselves, and solv
  > 我为你的健康干杯。  
 
 
-# ***tobacco*** n
+# *** *tobacco*** n
 英音 tə'bækəʊ     美音 tə'bækoʊ  
 
 | 词频 3 |  
@@ -5302,10 +5275,11 @@ Most Americans would prefer to keep their problems ________ themselves, and solv
 ---
 ##### 题目  
 The international ________ (烟草) industry is making a lot of money from the developing countries.  
+来源：2005 全国  
 ##### 答案 tobacco  
   
 
-# ***today*** adv
+# *** *today*** adv
 英音 tə'deɪ     美音 tə'deɪ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5321,7 +5295,7 @@ The international ________ (烟草) industry is making a lot of money from the d
  > 现在就业的妇女比以前多了。  
 
 
-# ***today*** n
+# *** *today*** n
 英音 tə'deɪ     美音 tə'deɪ  
 
 | 词频 5 |  
@@ -5339,7 +5313,7 @@ The international ________ (烟草) industry is making a lot of money from the d
  > 今日事，今日毕。  
 
 
-# ***toe*** n
+# *** *toe*** n
 英音 təʊ     美音 toʊ  
 
 | 词频 2 | 口语 1 |  
@@ -5351,7 +5325,7 @@ The international ________ (烟草) industry is making a lot of money from the d
 1.*高义频：* **脚趾**  
 
 
-# ***tofu*** n
+# *** *tofu*** n
 英音 'təʊfuː     美音 'toʊfuː  
 
   
@@ -5361,7 +5335,7 @@ The international ________ (烟草) industry is making a lot of money from the d
 1.**豆腐**  
 
 
-# ***together*** adv
+# *** *together*** adv
 英音 tə'ɡeðə(r)     美音 tə'ɡeðər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5376,8 +5350,7 @@ The international ________ (烟草) industry is making a lot of money from the d
 
 固定搭配
 ---
-- together with 
-1.**和：**  
+## - *together with   **和：**  
 
  > My friend Ann, together with me, is going to do field study.   
  > 我的朋友安要和我一起去野外考察。  
@@ -5390,10 +5363,11 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 ##### 题目  
 Dr Smith, together with his wife and daughters, _______ (be) going to visit Beijing this summer.
   
+来源：2009 陕西改  
 ##### 答案 is  
   
 
-# ***toil*** n
+# *** *toil*** n
 英音 tɔɪl     美音 tɔɪl  
 
 | 词频 1 |  
@@ -5403,7 +5377,7 @@ Dr Smith, together with his wife and daughters, _______ (be) going to visit Beij
 1.**辛劳,辛苦**  
 
 
-# ***toilet*** n
+# *** *toilet*** n
 英音 'tɔɪlət     美音 'tɔɪlət  
 
 | 词频 2 | 口语 2 |  
@@ -5415,7 +5389,7 @@ Dr Smith, together with his wife and daughters, _______ (be) going to visit Beij
 1.*高义频：* **厕所；卫生间 (AmE bathroom / restroom)**  
 
 
-# ***token*** n
+# *** *token*** n
 英音 'təʊkən     美音 'toʊkən  
 
   
@@ -5425,7 +5399,7 @@ Dr Smith, together with his wife and daughters, _______ (be) going to visit Beij
 1.**象征,标志**  
 
 
-# ***tolerant*** adj
+# *** *tolerant*** adj
 英音 'tɒlərənt     美音 'tɑːlərənt  
 
 | 词频 2 |  
@@ -5447,10 +5421,11 @@ A.cautious
 B.grateful  
 C.tolerant  
 D.wild  
+来源：2014 湖北  
 ##### 答案 C  
   
 
-# ***tolerate*** vt
+# *** *tolerate*** vt
 英音 'tɒləreɪt     美音 'tɑːləreɪt  
 
 | 词频 1 |  
@@ -5463,7 +5438,7 @@ D.wild
  > 那些懂得容忍他人的人自然可以过得幸福。  
 
 
-# ***toll*** n
+# *** *toll*** n
 英音 təʊl     美音 toʊl  
 
 | 词频 1 |  
@@ -5477,7 +5452,7 @@ D.wild
 2.*高义频：* **(事故、疾病等的) 伤亡人数**  
 
 
-# ***tomato*** n
+# *** *tomato*** n
 英音 tə'mɑːtəʊ     美音 tə'meɪtoʊ  
 
 | 词频 4 | 口语 2 |  
@@ -5489,7 +5464,7 @@ D.wild
 1.*高义频：* **西红柿；番茄**  
 
 
-# ***tomb*** n
+# *** *tomb*** n
 英音 tuːm     美音 tuːm  
 
 | 词频 1 |  
@@ -5501,7 +5476,7 @@ D.wild
 1.*高义频：* **坟；墓碑**  
 
 
-# ***tomorrow*** adv
+# *** *tomorrow*** adv
 英音 tə'mɒrəʊ     美音 tə'mɔːroʊ  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -5514,7 +5489,7 @@ D.wild
  > 明天见。  
 
 
-# ***tomorrow*** n
+# *** *tomorrow*** n
 英音 tə'mɒrəʊ     美音 tə'mɔːroʊ  
 
 | 词频 5 |  
@@ -5530,7 +5505,7 @@ D.wild
  > 来源： —— 富兰克林  
 
 
-# ***ton*** n
+# *** *ton*** n
 英音 tʌn     美音 tʌn  
 
 | 词频 4 | 口语 1 |  
@@ -5542,7 +5517,7 @@ D.wild
 1.*高义频：* **(重量单位) 吨**  
 
 
-# ***tone*** n
+# *** *tone*** n
 英音 təʊn     美音 toʊn  
 
 | 词频 2 | 口语 1 | 书面 2 |  
@@ -5563,7 +5538,7 @@ D.wild
  > 来源：北师大⑤ – 15  
 
 
-# ***tongs*** n
+# *** *tongs*** n
 英音 tɒŋz     美音 tɔːŋz  
 
 | 词频 1 |  
@@ -5573,7 +5548,7 @@ D.wild
 1.**（复）夹子；小钳子**  
 
 
-# ***tongue*** n
+# *** *tongue*** n
 英音 tʌŋ     美音 tʌŋ  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -5595,7 +5570,7 @@ D.wild
  > 用本国语说  
 
 
-# ***tonight*** adv
+# *** *tonight*** adv
 英音 tə'naɪt     美音 tə'naɪt  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -5608,7 +5583,7 @@ D.wild
  > 李教授让我们今晚读完这本书。  
 
 
-# ***tonight*** n
+# *** *tonight*** n
 英音 tə'naɪt     美音 tə'naɪt  
 
 | 词频 4 |  
@@ -5623,7 +5598,7 @@ D.wild
  > 在今晚的电视上  
 
 
-# ***tonne*** n
+# *** *tonne*** n
 英音 tʌn     美音 tʌn  
 
 | 词频 1 |  
@@ -5635,7 +5610,7 @@ D.wild
 1.*高义频：* **公吨**  
 
 
-# ***too*** adv  重难点词汇
+# *** *too*** adv  重难点词汇
 英音 tuː     美音 tuː  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5655,6 +5630,9 @@ D.wild
 
 2.*高义频：* **太；过分：**  
 
+ > The coat is too large for me.  
+ > 这件外套我穿太大了。  
+
 - too + adj + a / an + n …:
 
  > It was too difficult a book for her.   
@@ -5665,20 +5643,15 @@ D.wild
  > The problem is too complicated for us to solve.   
  > 那个问题太复杂，我们无法解决。  
 
- > The coat is too large for me.  
- > 这件外套我穿太大了。  
-
 
 固定搭配
 ---
-- all too 
-1.**太：**  
+## - *all too   **太：**  
 
  > Accidents like this happen all too often.   
  > 这类事故发生得太频繁了。  
 
-- can’t / can never ... too ... 
-1.**怎么…也不过分； 越…越好：**  
+## - *can’t / can never ... too ...   **怎么…也不过分； 越…越好：**  
 
  > — Must I turn off the gas after cooking?    
  > 做完饭后一定要把煤气关掉吗？  
@@ -5694,10 +5667,11 @@ D.wild
 ##### 题目  
 — Try not to work yourself too hard. Take it easy.
 — Thanks.________ (你也是).  
+来源：2012 全国改  
 ##### 答案 You, too  
   
 
-# ***tool*** n
+# *** *tool*** n
 英音 tuːl     美音 tuːl  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -5715,7 +5689,7 @@ D.wild
  > 来源：2010 陕西  
 
 
-# ***tooth*** n
+# *** *tooth*** n
 英音 tuːθ     美音 tuːθ  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -5734,7 +5708,7 @@ D.wild
  > 我刚在牙医那里拔了颗牙。  
 
 
-# ***toothache*** n
+# *** *toothache*** n
 英音 'tuːθeɪk     美音 'tuːθeɪk  
 
 | 词频 1 |  
@@ -5750,7 +5724,7 @@ D.wild
  > 来源：外研② – 1  
 
 
-# ***toothbrush*** n
+# *** *toothbrush*** n
 英音 'tuːθbrʌʃ     美音 'tuːθbrʌʃ  
 
 | 词频 1 |  
@@ -5762,7 +5736,7 @@ D.wild
 1.*高义频：* **牙刷**  
 
 
-# ***toothpaste*** n
+# *** *toothpaste*** n
 英音 'tuːθpeɪst     美音 'tuːθpeɪst  
 
 | 词频 1 |  
@@ -5774,7 +5748,7 @@ D.wild
 1.*高义频：* **牙膏**  
 
 
-# ***top*** n
+# *** *top*** n
 英音 tɒp     美音 tɑːp  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -5802,8 +5776,7 @@ D.wild
 
 固定搭配
 ---
-- on top 
-1.**在上方；领先地：**  
+## - *on top   **在上方；领先地：**  
 
  > Stand on top and look down.   
  > 站在顶上俯视。  
@@ -5812,8 +5785,7 @@ D.wild
  > 我想，谁会得第一呢？  
  > 来源：北师大④ – 11  
 
-- on top of 
-1.**在…之上；加之：**  
+## - *on top of   **在…之上；加之：**  
 
  > That high mountain has a tower on top of it.   
  > 那座高山顶上有一座塔。  
@@ -5822,7 +5794,7 @@ D.wild
  > 他管了我一顿饭，除此之外，还给了我路费。  
 
 
-# ***top*** adj
+# *** *top*** adj
 英音 tɒp     美音 tɑːp  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5840,7 +5812,7 @@ D.wild
  > 来源：2012 湖北书面表达  
 
 
-# ***top-class*** adj
+# *** *top-class*** adj
 英音 tɒpklɑːs     美音 tɑːpklæs  
 
 | 词频 1 |  
@@ -5850,7 +5822,7 @@ D.wild
 1.**最优秀的；第一流的**  
 
 
-# ***top-ranking*** adj
+# *** *top-ranking*** adj
 英音 ˌtɒpˌræŋkɪŋ     美音 ˌtɑːpˌræŋkɪŋ  
 
 | 词频 1 |  
@@ -5860,7 +5832,7 @@ D.wild
 1.**最高等级的，最重要的**  
 
 
-# ***topic*** n
+# *** *topic*** n
 英音 'tɒpɪk     美音 'tɑːpɪk  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -5875,7 +5847,7 @@ D.wild
  > 热门/敏感话题  
 
 
-# ***torch*** n
+# *** *torch*** n
 英音 tɔːtʃ     美音 tɔːrtʃ  
 
 | 词频 2 |  
@@ -5892,7 +5864,7 @@ D.wild
  > 奥运火炬传递  
 
 
-# ***tornado*** n
+# *** *tornado*** n
 英音 tɔː'neɪdəʊ     美音 tɔːr'neɪdoʊ  
 
 | 词频 1 |  
@@ -5904,7 +5876,7 @@ D.wild
 1.*高义频：* **龙卷风；旋风**  
 
 
-# ***tortoise*** n
+# *** *tortoise*** n
 英音 'tɔːtəs     美音 'tɔːrtəs  
 
 | 词频 1 |  
@@ -5916,7 +5888,7 @@ D.wild
 1.*高义频：* **乌龟**  
 
 
-# ***total*** adj
+# *** *total*** adj
 英音 'təʊtl     美音 'toʊtl  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -5937,7 +5909,7 @@ D.wild
  > 漆黑/寂静  
 
 
-# ***total*** n
+# *** *total*** n
 英音 'təʊtl     美音 'toʊtl  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -5958,15 +5930,14 @@ D.wild
 
 固定搭配
 ---
-- in total 
-1.**总共；总计：**  
+## - *in total   **总共；总计：**  
 
  > In total, these astronauts have spent more than 26,000 days in space.   
  > 这些宇航员已在太空中总共待了26000多天。  
  > 来源：外研② – 5  
 
 
-# ***total*** vt
+# *** *total*** vt
 英音 'təʊtl     美音 'toʊtl  
 
 | 词频 3 |  
@@ -5979,7 +5950,7 @@ D.wild
  > 来宾总计250人。  
 
 
-# ***totally*** adv
+# *** *totally*** adv
 英音 'təʊtəli     美音 'toʊtəli  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -5989,7 +5960,7 @@ D.wild
 1.*高义频：* **全然地；完全地**  
 
 
-# ***touch*** v  重难点词汇
+# *** *touch*** v  重难点词汇
 英音 tʌtʃ     美音 tʌtʃ  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -6029,14 +6000,13 @@ D.wild
 
 固定搭配
 ---
-- touch down 
-1.**降落；着陆：**  
+## - *touch down   **降落；着陆：**  
 
  > The plane finally touched down at the airport around midday.   
  > 中午前后，飞机终于在机场降落。  
 
 
-# ***touch*** n  重难点词汇
+# *** *touch*** n  重难点词汇
 英音 tʌtʃ     美音 tʌtʃ  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -6066,33 +6036,28 @@ D.wild
 
 固定搭配
 ---
-- (be) in touch (with) 
-1.**(与…) 有联系：**  
+## - *(be) in touch (with)   **(与…) 有联系：**  
 
  > Are you still in touch with your former colleagues?  
  > 你与以前的同事还有联系吗？  
 
-- (be) out of touch (with) 
-1.**(与…) 不联系 / 不接触：**  
+## - *(be) out of touch (with)   **(与…) 不联系 / 不接触：**  
 
  > We have been out of touch with them for about two years.   
  > 我们大约有两年没有和他们联系了。  
 
-- get in touch (with) 
-1.**(与…) 取得联系：**  
+## - *get in touch (with)   **(与…) 取得联系：**  
 
  > Here’s our number if you need to get in touch with us.   
  > 如果你需要联系我们，这是我们的号码。  
 
-- keep / stay in touch (with)
-1.**(与…) 保持联系：**  
+## - *keep / stay in touch (with)  **(与…) 保持联系：**  
 
  > Keeping in touch with our friends is an important part of friendship.   
  > 和朋友们保持联系在友谊中很重要。  
  > 来源：2012 湖南  
 
-- lose touch (with) 
-1.**(与…) 失去联系：**  
+## - *lose touch (with)   **(与…) 失去联系：**  
 
  > I regret to say that I have lost touch with four or five friends.   
  > 很遗憾，我已与四五个朋友失去了联系。  
@@ -6108,7 +6073,7 @@ touched /tʌtʃt/ adj
 
 touching /'tʌtʃɪŋ/ adj   
 
-# ***touchstone*** n
+# *** *touchstone*** n
 英音 'tʌtʃstəʊn     美音 'tʌtʃstoʊn  
 
 | 词频 1 |  
@@ -6118,7 +6083,7 @@ touching /'tʌtʃɪŋ/ adj
 1.**试金石，检验标准**  
 
 
-# ***tough*** adj
+# *** *tough*** adj
 英音 tʌf     美音 tʌf  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -6166,7 +6131,7 @@ toughen /'tʌfn/ v
 toughly /tʌfli/ adv   
 toughness /tʌfnəs/ n [U]  
 
-# ***tour*** n
+# *** *tour*** n
 英音 tʊə(r)     美音 tʊr  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -6203,7 +6168,7 @@ toughness /tʌfnəs/ n [U]
  > 英格兰板球队正在巴基斯坦巡回比赛。  
 
 
-# ***tour*** vt
+# *** *tour*** vt
 英音 tʊə(r)     美音 tʊr  
 
 | 词频 5 |  
@@ -6217,7 +6182,7 @@ toughness /tʌfnəs/ n [U]
  > 来源：外研② – 3  
 
 
-# ***tourism*** n
+# *** *tourism*** n
 英音 'tʊərɪzəm, 'tɔːrɪzəm     美音 'tʊrɪzəm  
 
 | 词频 2 |  
@@ -6229,7 +6194,7 @@ toughness /tʌfnəs/ n [U]
 1.*高义频：* **观光旅行；旅游业**  
 
 
-# ***tourist*** n
+# *** *tourist*** n
 英音 'tʊərɪst     美音 'tʊrɪst  
 
 | 词频 4 | 书面 1 |  
@@ -6241,7 +6206,7 @@ toughness /tʌfnəs/ n [U]
 1.*高义频：* **观光旅行者；游客**  
 
 
-# ***tournament*** n
+# *** *tournament*** n
 英音 'tʊənəmənt, 'tɜ:nəmənt     美音 'tɜ:rnəmənt, 'tʊrnəmənt  
 
 | 词频 1 |  
@@ -6256,7 +6221,7 @@ toughness /tʌfnəs/ n [U]
  > 网球锦标赛  
 
 
-# ***toward*** n
+# *** *toward*** n
 英音 tə'wɔːd     美音 tə'wɔːd  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -6283,7 +6248,7 @@ toughness /tʌfnəs/ n [U]
  > 她在比赛快结束时睡着了。  
 
 
-# ***towards*** prep
+# *** *towards*** prep
 英音 tə'wɔːdz     美音 tə'wɔːdz  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -6310,7 +6275,7 @@ toughness /tʌfnəs/ n [U]
  > 她在比赛快结束时睡着了。  
 
 
-# ***towel*** n
+# *** *towel*** n
 英音 'taʊəl     美音 'taʊəl  
 
 | 词频 2 | 口语 1 |  
@@ -6322,7 +6287,7 @@ toughness /tʌfnəs/ n [U]
 1.*高义频：* **毛巾；纸巾**  
 
 
-# ***tower*** n
+# *** *tower*** n
 英音 'taʊə(r)     美音 'taʊər  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -6337,7 +6302,7 @@ toughness /tʌfnəs/ n [U]
  > 电视塔  
 
 
-# ***tower*** vi
+# *** *tower*** vi
 英音 'taʊə(r)     美音 'taʊər  
 
 | 词频 4 |  
@@ -6347,7 +6312,7 @@ toughness /tʌfnəs/ n [U]
 1.**高耸，屹立；超过**  
 
 
-# ***town*** n
+# *** *town*** n
 英音 taʊn     美音 taʊn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6370,7 +6335,7 @@ toughness /tʌfnəs/ n [U]
  > 那天早上他得去市中心办公事。  
 
 
-# ***toy*** n
+# *** *toy*** n
 英音 tɔɪ     美音 tɔɪ  
 
 | 词频 4 | 口语 2 |  
@@ -6382,7 +6347,7 @@ toughness /tʌfnəs/ n [U]
 1.*高义频：* **玩具；玩物**  
 
 
-# ***trace*** vt
+# *** *trace*** vt
 英音 treɪs     美音 treɪs  
 
 | 词频 1 |  
@@ -6392,7 +6357,7 @@ toughness /tʌfnəs/ n [U]
 1.*高义频：* **跟踪；追踪**  
 
 
-# ***trace*** n
+# *** *trace*** n
 英音 treɪs     美音 treɪs  
 
 | 词频 1 |  
@@ -6404,7 +6369,7 @@ toughness /tʌfnəs/ n [U]
 1.*高义频：* **踪迹；痕迹**  
 
 
-# ***track*** n
+# *** *track*** n
 英音 træk     美音 træk  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -6443,14 +6408,12 @@ toughness /tʌfnəs/ n [U]
 
 固定搭配
 ---
-- keep track of 
-1.**了解…的动态；与…保持联系：**  
+## - *keep track of   **了解…的动态；与…保持联系：**  
 
  > They read the newspapers every day to keep track of current events.   
  > 他们每天阅读报纸，以了解时事。  
 
-- lose track of 
-1.**失去…的线索；与…失去联系；忘记：**  
+## - *lose track of   **失去…的线索；与…失去联系；忘记：**  
 
  > The police have lost track of the criminals.   
  > 警方已失去罪犯的线索。  
@@ -6459,7 +6422,7 @@ toughness /tʌfnəs/ n [U]
  > 我玩得很愉快，以至于都忘了时间。  
 
 
-# ***track*** vt
+# *** *track*** vt
 英音 træk     美音 træk  
 
 | 词频 4 |  
@@ -6469,7 +6432,7 @@ toughness /tʌfnəs/ n [U]
 1.*高义频：* **跟踪；追踪**  
 
 
-# ***tracksuit*** n
+# *** *tracksuit*** n
 英音 'træksuːt     美音 'træksuːt  
 
 | 词频 1 |  
@@ -6479,7 +6442,7 @@ toughness /tʌfnəs/ n [U]
 1.**运动服**  
 
 
-# ***tractor*** n
+# *** *tractor*** n
 英音 'træktə(r)     美音 'træktər  
 
 | 词频 2 |  
@@ -6491,7 +6454,7 @@ toughness /tʌfnəs/ n [U]
 1.*高义频：* **拖拉机**  
 
 
-# ***trade*** n
+# *** *trade*** n
 英音 treɪd     美音 treɪd  
 
 | 词频 4 | 口语 1 | 书面 3 |  
@@ -6516,7 +6479,7 @@ toughness /tʌfnəs/ n [U]
  > 我爸爸的职业是医生。  
 
 
-# ***trade*** v
+# *** *trade*** v
 英音 treɪd     美音 treɪd  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -6540,7 +6503,7 @@ toughness /tʌfnəs/ n [U]
 ---
 trading /'treɪdɪŋ/ n [U]  
 
-# ***trademark*** n
+# *** *trademark*** n
 英音 'treɪdmɑːk     美音 'treɪdmɑːrk  
 
 | 词频 1 |  
@@ -6552,7 +6515,7 @@ trading /'treɪdɪŋ/ n [U]
 1.*高义频：* **商标**  
 
 
-# ***trader*** n
+# *** *trader*** n
 英音 'treɪdə(r)     美音 'treɪdər  
 
 | 词频 2 |  
@@ -6562,7 +6525,7 @@ trading /'treɪdɪŋ/ n [U]
 1.**商人；买卖人；经商者**  
 
 
-# ***tradition*** n
+# *** *tradition*** n
 英音 trə'dɪʃn     美音 trə'dɪʃn  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -6583,10 +6546,11 @@ trading /'treɪdɪŋ/ n [U]
 ##### 题目  
 There’s a ________(传统) in our office that when it’s somebody’s birthday, they bring in a cake for us all to share. 
   
+来源：2011 山东改  
 ##### 答案 tradition  
   
 
-# ***traditional*** adj
+# *** *traditional*** adj
 英音 trə'dɪʃənl     美音 trə'dɪʃənl  
 
 | 词频 4 | 口语 1 | 书面 3 | 阅读 3 |  
@@ -6612,7 +6576,7 @@ In ________ (tradition) Chinese culture, marriage decisions were often made by p
 ##### 答案 traditional  
   
 
-# ***traditionally*** adv
+# *** *traditionally*** adv
 英音 trə'dɪʃənəli     美音 trə'dɪʃənəli  
 
 | 词频 2 |  
@@ -6622,7 +6586,7 @@ In ________ (tradition) Chinese culture, marriage decisions were often made by p
 1.**传统地**  
 
 
-# ***traffic*** n
+# *** *traffic*** n
 英音 'træfɪk     美音 'træfɪk  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -6647,7 +6611,7 @@ In ________ (tradition) Chinese culture, marriage decisions were often made by p
  > 一国与另一国间的货物运输  
 
 
-# ***tragedy*** n
+# *** *tragedy*** n
 英音 'trædʒədi     美音 'trædʒədi  
 
 | 词频 2 | 阅读 2 |  
@@ -6671,7 +6635,7 @@ In ________ (tradition) Chinese culture, marriage decisions were often made by p
  > 莎士比亚的悲剧《哈姆雷特》  
 
 
-# ***trail*** n
+# *** *trail*** n
 英音 treɪl     美音 treɪl  
 
 | 词频 3 | 阅读 1 |  
@@ -6692,7 +6656,7 @@ In ________ (tradition) Chinese culture, marriage decisions were often made by p
  > 来源：2010 湖南  
 
 
-# ***trail*** v
+# *** *trail*** v
 英音 treɪl     美音 treɪl  
 
 | 词频 3 | 阅读 1 |  
@@ -6709,7 +6673,7 @@ In ________ (tradition) Chinese culture, marriage decisions were often made by p
  > 新娘的礼服拖在身后。  
 
 
-# ***train*** n
+# *** *train*** n
 英音 treɪn     美音 treɪn  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -6736,7 +6700,7 @@ In ________ (tradition) Chinese culture, marriage decisions were often made by p
  > 一说起大学时代，我的脑中就闪过一串美好的回忆。  
 
 
-# ***train*** v
+# *** *train*** v
 英音 treɪn     美音 treɪn  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -6763,10 +6727,11 @@ trainer /'treɪnə(r)/ n [C]
 I always wanted to do the job which I’d been trained ________.   
 C.by  
 D.of  
+来源：2011 浙江改  
 ##### 答案 for  
   
 
-# ***trainer*** n
+# *** *trainer*** n
 英音 'treɪnə(r)     美音 'treɪnər  
 
 | 词频 3 |  
@@ -6776,7 +6741,7 @@ D.of
 1.**运动鞋；教练员**  
 
 
-# ***training*** n
+# *** *training*** n
 英音 'treɪnɪŋ     美音 'treɪnɪŋ  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -6799,7 +6764,7 @@ D.of
  > 培训课程  
 
 
-# ***tram*** n
+# *** *tram*** n
 英音 træm     美音 træm  
 
 | 词频 2 |  
@@ -6814,7 +6779,7 @@ D.of
  > 有轨电车轨道/服务/站  
 
 
-# ***tramp*** n
+# *** *tramp*** n
 英音 træmp     美音 træmp  
 
 | 词频 1 |  
@@ -6826,7 +6791,7 @@ D.of
 1.*高义频：* **流浪汉；行乞者**  
 
 
-# ***tranquil*** adj
+# *** *tranquil*** adj
 英音 'træŋkwɪl     美音 'træŋkwɪl  
 
 | 词频 1 |  
@@ -6836,7 +6801,7 @@ D.of
 1.**平静的, 宁静的**  
 
 
-# ***transaction*** n
+# *** *transaction*** n
 英音 træn'zækʃn     美音 træn'zækʃn  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -6848,7 +6813,7 @@ D.of
 1.*高义频：* **交易；业务；买卖(deal)**  
 
 
-# ***transfer*** v
+# *** *transfer*** v
 英音 træns'fɜː(r)     美音 træns'fɜːr  
 
 | 词频 2 | 口语 1 | 书面 2 |  
@@ -6858,7 +6823,7 @@ D.of
 1.*高义频：* **转移；调动；换乘**  
 
 
-# ***transfer*** n
+# *** *transfer*** n
 英音 'trænsfɜː(r)     美音 'trænsfɜːr  
 
 | 词频 2 | 阅读 2 |  
@@ -6870,7 +6835,7 @@ D.of
 1.*高义频：* **(地点的) 转移；(工作的)调动**  
 
 
-# ***transform*** vt
+# *** *transform*** vt
 英音 træns'fɔːm     美音 træns'fɔːm  
 
 | 词频 2 | 书面 1 | 阅读 2 |  
@@ -6885,7 +6850,7 @@ D.of
  > 水能使沙漠变为花园。  
 
 
-# ***transfusion*** n
+# *** *transfusion*** n
 英音 træns'fjuːʒn     美音 træns'fjuːʒn  
 
 | 词频 2 |  
@@ -6897,7 +6862,7 @@ D.of
 1.*高义频：* **输血**  
 
 
-# ***transistor*** n
+# *** *transistor*** n
 英音 træn'zɪstə(r)     美音 træn'zɪstər  
 
 | 词频 1 |  
@@ -6909,7 +6874,7 @@ D.of
 1.*高义频：* **晶体管**  
 
 
-# ***transition*** n
+# *** *transition*** n
 英音 træn'zɪʃn     美音 træn'zɪʃn  
 
 | 词频 1 | 书面 1 |  
@@ -6921,7 +6886,7 @@ D.of
 1.*高义频：* **过渡；转变；变迁**  
 
 
-# ***translate*** v
+# *** *translate*** v
 英音 træns'leɪt, trænz'leɪt     美音 træns'leɪt, trænz'leɪt  
 
 | 词频 4 | 口语 1 |  
@@ -6951,10 +6916,11 @@ D.of
 ---
 ##### 题目  
 The story was first written in English and later ________ (翻译) into Chinese.  
+来源：2008 全国  
 ##### 答案 translated  
   
 
-# ***translation*** n
+# *** *translation*** n
 英音 træns'leɪʃn, trænz'leɪʃn     美音 træns'leɪʃn, trænz'leɪʃn  
 
 | 词频 2 |  
@@ -6974,7 +6940,7 @@ The story was first written in English and later ________ (翻译) into Chinese.
  > 《哈里·波特与混血王子》的汉译本  
 
 
-# ***translator*** n
+# *** *translator*** n
 英音 trænz'leɪtə(r), træns'leɪtə(r)     美音 træns'leɪtər, trænz'leɪtər  
 
 | 词频 2 |  
@@ -6986,7 +6952,7 @@ The story was first written in English and later ________ (翻译) into Chinese.
 1.*高义频：* **译员；翻译家**  
 
 
-# ***transmit*** vt
+# *** *transmit*** vt
 英音 træns'mɪt, trænz'mɪt     美音 træns'mɪt, trænz'mɪt  
 
 | 词频 1 | 阅读 1 |  
@@ -7013,7 +6979,7 @@ The story was first written in English and later ________ (翻译) into Chinese.
  > 这种传染病是由蚊子传染给人类的。  
 
 
-# ***transparent*** adj
+# *** *transparent*** adj
 英音 træns'pærənt     美音 træns'pærənt  
 
 | 词频 1 |  
@@ -7032,10 +6998,11 @@ The story was first written in English and later ________ (翻译) into Chinese.
 ---
 ##### 题目  
 The state-run company is required to make its accounts as ________ as possible for its staff to monitor the use of money.   
+来源：2011 湖北改  
 ##### 答案 transparent / clear  
   
 
-# ***transplant*** n
+# *** *transplant*** n
 英音 'trænsplɑːnt     美音 'trænsplænt  
 
 | 词频 1 |  
@@ -7047,7 +7014,7 @@ The state-run company is required to make its accounts as ________ as possible f
 1.*高义频：* **移植手术**  
 
 
-# ***transplant*** vt
+# *** *transplant*** vt
 英音 træns'plɑːnt     美音 træns'plænt  
 
 | 词频 1 |  
@@ -7061,7 +7028,7 @@ The state-run company is required to make its accounts as ________ as possible f
  > 来源：2005 上海  
 
 
-# ***transport*** vt
+# *** *transport*** vt
 英音 træns'pɔːt     美音 træns'pɔːrt  
 
 | 词频 4 | 阅读 3 |  
@@ -7076,7 +7043,7 @@ The state-run company is required to make its accounts as ________ as possible f
  > 来源：2008 湖北改  
 
 
-# ***transport*** n
+# *** *transport*** n
 英音 'trænspɔːt     美音 'trænspɔːrt  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -7102,7 +7069,7 @@ The state-run company is required to make its accounts as ________ as possible f
  > 来源：人教① – 3  
 
 
-# ***transportation*** n
+# *** *transportation*** n
 英音 ˌtrænspɔː'teɪʃn     美音 ˌtrænspɔːr'teɪʃn  
 
 | 词频 4 | 书面 1 |  
@@ -7114,7 +7081,7 @@ The state-run company is required to make its accounts as ________ as possible f
 1.*高义频：* **运输；客运；货运；运输工具**  
 
 
-# ***trap*** n
+# *** *trap*** n
 英音 træp     美音 træp  
 
 | 词频 3 |  
@@ -7142,7 +7109,7 @@ The state-run company is required to make its accounts as ________ as possible f
  > 有些人认为婚姻是牢笼。  
 
 
-# ***trap*** vt
+# *** *trap*** vt
 英音 træp     美音 træp  
 
 | 词频 3 |  
@@ -7171,7 +7138,7 @@ The state-run company is required to make its accounts as ________ as possible f
  > 来源：北师大⑧ – 22  
 
 
-# ***trap*** v
+# *** *trap*** v
 英音 træp     美音 træp  
 
 | 词频 3 |  
@@ -7183,7 +7150,7 @@ The state-run company is required to make its accounts as ________ as possible f
 2.*低义频：* **留存；储存 (气 / 水等)**  
 
 
-# ***trash*** n
+# *** *trash*** n
 英音 træʃ     美音 træʃ  
 
 | 词频 2 | 口语 1 |  
@@ -7195,7 +7162,7 @@ The state-run company is required to make its accounts as ________ as possible f
 1.*高义频：* **垃圾；废物 (BrE rubbish)**  
 
 
-# ***travel*** vi
+# *** *travel*** vi
 英音 'trævl     美音 'trævl  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -7219,7 +7186,7 @@ The state-run company is required to make its accounts as ________ as possible f
  > 喜讯不胫而走。  
 
 
-# ***travel*** n
+# *** *travel*** n
 英音 'trævl     美音 'trævl  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -7244,7 +7211,7 @@ The state-run company is required to make its accounts as ________ as possible f
  > 我们在泰国旅游时碰到一些非常有趣的人。  
 
 
-# ***traveler*** n
+# *** *traveler*** n
 英音 'trævələ(r)     美音 'trævələr  
 
 | 词频 4 |  
@@ -7256,7 +7223,7 @@ The state-run company is required to make its accounts as ________ as possible f
 1.*高义频：* **旅行者；旅客**  
 
 
-# ***traveling*** n
+# *** *traveling*** n
 英音 'trævəlɪŋ     美音 'trævəlɪŋ  
 
 | 词频 5 |  
@@ -7271,7 +7238,7 @@ The state-run company is required to make its accounts as ________ as possible f
  > 去旅行  
 
 
-# ***traveling*** adj
+# *** *traveling*** adj
 英音 'trævəlɪŋ     美音 'trævəlɪŋ  
 
 | 词频 5 |  
@@ -7287,7 +7254,7 @@ The state-run company is required to make its accounts as ________ as possible f
  > 巡回表演者  
 
 
-# ***traveller*** n
+# *** *traveller*** n
 英音 'trævələ(r)     美音 'trævələr  
 
 | 词频 4 |  
@@ -7299,7 +7266,7 @@ The state-run company is required to make its accounts as ________ as possible f
 1.*高义频：* **旅行者；旅客**  
 
 
-# ***travelling*** n
+# *** *travelling*** n
 英音 'trævəlɪŋ     美音 'trævəlɪŋ  
 
 | 词频 5 |  
@@ -7314,7 +7281,7 @@ The state-run company is required to make its accounts as ________ as possible f
  > 去旅行  
 
 
-# ***travelling*** adj
+# *** *travelling*** adj
 英音 'trævəlɪŋ     美音 'trævəlɪŋ  
 
 | 词频 5 |  
@@ -7330,7 +7297,7 @@ The state-run company is required to make its accounts as ________ as possible f
  > 巡回表演者  
 
 
-# ***tread*** v
+# *** *tread*** v
 英音 tred     美音 tred  
 
 | 词频 1 |  
@@ -7340,7 +7307,7 @@ The state-run company is required to make its accounts as ________ as possible f
 1.**踩，踏**  
 
 
-# ***treasure*** vt
+# *** *treasure*** vt
 英音 'treʒə(r)     美音 'treʒər  
 
 | 词频 4 |  
@@ -7356,7 +7323,7 @@ The state-run company is required to make its accounts as ________ as possible f
  > 她珍藏着那些记忆。  
 
 
-# ***treasure*** n
+# *** *treasure*** n
 英音 'treʒə(r)     美音 'treʒər  
 
 | 词频 4 |  
@@ -7375,7 +7342,7 @@ The state-run company is required to make its accounts as ________ as possible f
  > 我们婚礼上的这张照片是我最珍贵的物品。  
 
 
-# ***treat*** n
+# *** *treat*** n
 英音 triːt     美音 triːt  
 
 | 词频 5 | 口语 1 |  
@@ -7390,7 +7357,7 @@ The state-run company is required to make its accounts as ________ as possible f
  > 他带儿子去看了场电影，作为生日的款待。  
 
 
-# ***treat*** vt
+# *** *treat*** vt
 英音 triːt     美音 triːt  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -7441,8 +7408,7 @@ The state-run company is required to make its accounts as ________ as possible f
 
 固定搭配
 ---
-- treat sb to 
-1.**用…招待某人；以…款待某人：**  
+## - *treat sb to   **用…招待某人；以…款待某人：**  
 
  > **treated herself to**  
  > In a childlike act, she left the hospital and treated herself to a box of chocolates.  
@@ -7454,10 +7420,11 @@ The state-run company is required to make its accounts as ________ as possible f
 ---
 ##### 题目  
 Young people should always  ________ (对待) the elders with respect.  
+来源：2015 陕西  
 ##### 答案 treat  
   
 
-# ***treatment*** n
+# *** *treatment*** n
 英音 'triːtmənt     美音 'triːtmənt  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -7479,7 +7446,7 @@ Young people should always  ________ (对待) the elders with respect.
  > 来源：人教⑤ – 5  
 
 
-# ***treaty*** n
+# *** *treaty*** n
 英音 'triːti     美音 'triːti  
 
 | 词频 1 |  
@@ -7489,7 +7456,7 @@ Young people should always  ________ (对待) the elders with respect.
 1.**（国家或政府间的）条约；公约**  
 
 
-# ***tree*** n
+# *** *tree*** n
 英音 triː     美音 triː  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -7504,7 +7471,7 @@ Young people should always  ________ (对待) the elders with respect.
  > 家谱  
 
 
-# ***tremble*** vi
+# *** *tremble*** vi
 英音 'trembl     美音 'trembl  
 
 | 词频 2 |  
@@ -7524,7 +7491,7 @@ Young people should always  ________ (对待) the elders with respect.
  > 树叶在风中摇曳。  
 
 
-# ***tremble*** n
+# *** *tremble*** n
 英音 'trembl     美音 'trembl  
 
 | 词频 2 |  
@@ -7539,7 +7506,7 @@ Young people should always  ________ (对待) the elders with respect.
  > 激动/恐惧得发抖  
 
 
-# ***tremendous*** adj
+# *** *tremendous*** adj
 英音 trə'mendəs     美音 trə'mendəs  
 
 | 词频 1 | 口语 2 |  
@@ -7549,7 +7516,7 @@ Young people should always  ________ (对待) the elders with respect.
 1.*高义频：* **巨大的；极快的；强有力的**  
 
 
-# ***trench*** n
+# *** *trench*** n
 英音 trentʃ     美音 trentʃ  
 
 | 词频 1 |  
@@ -7559,7 +7526,7 @@ Young people should always  ________ (对待) the elders with respect.
 1.**沟，壕**  
 
 
-# ***trend*** n
+# *** *trend*** n
 英音 trend     美音 trend  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 1 |  
@@ -7584,7 +7551,7 @@ Young people should always  ________ (对待) the elders with respect.
  > 流行长发  
 
 
-# ***trial*** n
+# *** *trial*** n
 英音 'traɪəl     美音 'traɪəl  
 
 | 词频 2 | 口语 1 | 书面 3 | 阅读 2 |  
@@ -7612,8 +7579,7 @@ Young people should always  ________ (对待) the elders with respect.
 
 固定搭配
 ---
-- on trial 
-1.**在试用中；在受审：**  
+## - *on trial   **在试用中；在受审：**  
 
  > **on trial for**  
  > He’s on trial for theft.   
@@ -7622,14 +7588,13 @@ Young people should always  ________ (对待) the elders with respect.
  > The clerk was employed on trial.   
  > 那位职员在试用期中。  
 
-- trial and error 
-1.**反复试验；不断摸索：**  
+## - *trial and error   **反复试验；不断摸索：**  
 
  > Children learn technical skills by trial and error.   
  > 孩子们通过不断摸索来掌握技能。  
 
 
-# ***triangle*** n
+# *** *triangle*** n
 英音 'traɪæŋɡl     美音 'traɪæŋɡl  
 
 | 词频 1 |  
@@ -7641,7 +7606,7 @@ Young people should always  ________ (对待) the elders with respect.
 1.*高义频：* **三角；三角形**  
 
 
-# ***triathlon*** n
+# *** *triathlon*** n
 英音 traɪ'æθlən     美音 traɪ'æθlən  
 
   
@@ -7651,7 +7616,7 @@ Young people should always  ________ (对待) the elders with respect.
 1.**铁人三项运动**  
 
 
-# ***tribe*** n
+# *** *tribe*** n
 英音 traɪb     美音 traɪb  
 
 | 词频 2 |  
@@ -7663,7 +7628,7 @@ Young people should always  ________ (对待) the elders with respect.
 1.*高义频：* **部落；部族**  
 
 
-# ***trick*** n
+# *** *trick*** n
 英音 trɪk     美音 trɪk  
 
 | 词频 4 | 口语 1 |  
@@ -7705,10 +7670,11 @@ A.feature
 B.plan  
 C.cost  
 D.trick  
+来源：2014 福建改  
 ##### 答案 trick  
   
 
-# ***trick*** vt
+# *** *trick*** vt
 英音 trɪk     美音 trɪk  
 
 | 词频 4 |  
@@ -7725,7 +7691,7 @@ D.trick
  > 广告商可能试图哄骗顾客购买产品或服务。  
 
 
-# ***tricky*** adj
+# *** *tricky*** adj
 英音 'trɪki     美音 'trɪki  
 
 | 词频 2 |  
@@ -7738,7 +7704,7 @@ D.trick
  > 棘手的问题/艰难的任务  
 
 
-# ***tricycle*** n
+# *** *tricycle*** n
 英音 'traɪsɪkl     美音 'traɪsɪkl  
 
 | 词频 1 |  
@@ -7750,7 +7716,7 @@ D.trick
 1.*高义频：* **三轮车**  
 
 
-# ***trilogy*** n
+# *** *trilogy*** n
 英音 'trɪlədʒi     美音 'trɪlədʒi  
 
 | 词频 1 |  
@@ -7762,7 +7728,7 @@ D.trick
 1.*高义频：* **三部曲**  
 
 
-# ***trip*** n
+# *** *trip*** n
 英音 trɪp     美音 trɪp  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -7785,7 +7751,7 @@ D.trick
 ### 辨析 voyage, journey, trip, tour
 四者都含“旅行”之意，但具体含义不同。  
 
-# ***troll*** n
+# *** *troll*** n
 英音 trɒl     美音 troʊl  
 
 | 词频 1 |  
@@ -7795,7 +7761,7 @@ D.trick
 1.**发挑衅帖子的人；恶意挑衅的帖子**  
 
 
-# ***trolleybus*** n
+# *** *trolleybus*** n
 英音 'trɒlibʌs     美音 'trɑːlibʌs  
 
 | 词频 1 |  
@@ -7807,7 +7773,7 @@ D.trick
 1.*高义频：* **无轨电车**  
 
 
-# ***troop*** n
+# *** *troop*** n
 英音 truːp     美音 truːp  
 
 | 词频 1 | 书面 2 |  
@@ -7824,7 +7790,7 @@ D.trick
  > 一群客人  
 
 
-# ***tropical*** adj
+# *** *tropical*** adj
 英音 'trɒpɪkl     美音 'trɒpɪkl  
 
 | 词频 2 |  
@@ -7834,7 +7800,7 @@ D.trick
 1.*高义频：* **来自热带的；(天气) 湿热的**  
 
 
-# ***trouble*** n  重难点词汇
+# *** *trouble*** n  重难点词汇
 英音 'trʌbl     美音 'trʌbl  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -7888,8 +7854,7 @@ D.trick
 
 固定搭配
 ---
-- get (sb) into trouble
-1.**(使某人) 陷入困境；(使某人) 遇到麻烦：**  
+## - *get (sb) into trouble  **(使某人) 陷入困境；(使某人) 遇到麻烦：**  
 
  > Even an experienced climber can get into trouble.  
  > 再有经验的登山者也会遇到麻烦。  
@@ -7897,27 +7862,23 @@ D.trick
  > Don’t mention my name or you’ll get me into trouble.   
  > 别提我的名字,免得给我惹麻烦。  
 
-- keep / stay out of trouble
-1.**远离麻烦：**  
+## - *keep / stay out of trouble  **远离麻烦：**  
 
  > I hope Tim stays out of trouble this year.   
  > 我希望蒂姆今年能远离麻烦。  
 
-- in trouble 
-1.**处于困境中：**  
+## - *in trouble   **处于困境中：**  
 
  > We should trust our friends, respect them and always be ready to help them when they are in trouble.   
  > 我们应信任并尊重我们的朋友，在他们有困难的时候帮助他们。  
 
-- take the trouble to do sth
-1.**费神做某事；不辞辛劳地做某事：**  
+## - *take the trouble to do sth  **费神做某事；不辞辛劳地做某事：**  
 
  > My parents have given me life and take all the trouble to bring me up.  
  > 父母给了我生命并含辛茹苦地把我养大。  
  > 来源：2009 福建书面表达改  
 
-- take trouble doing / to do sth
-1.**尽心尽力地做某事：**  
+## - *take trouble doing / to do sth  **尽心尽力地做某事：**  
 
  > The work is badly done; he didn’t take much trouble to do it.  
  > 这项工作做得很糟糕，他没有尽心尽力地去做。  
@@ -7927,10 +7888,11 @@ D.trick
 ---
 ##### 题目  
 When Peter speaks in public, he always has trouble ________  (think) of the right things to say.   
+来源：2012 上海  
 ##### 答案 thinking  
   
 
-# ***trouble*** vt  重难点词汇
+# *** *trouble*** vt  重难点词汇
 英音 'trʌbl     美音 'trʌbl  
 
 | 词频 5 |  
@@ -7964,7 +7926,7 @@ When Peter speaks in public, he always has trouble ________  (think) of the righ
 ---
 troubled /'trʌbld/ adj   
 
-# ***troublesome*** adj
+# *** *troublesome*** adj
 英音 'trʌblsəm     美音 'trʌblsəm  
 
 | 词频 2 |  
@@ -7978,7 +7940,7 @@ troubled /'trʌbld/ adj
  > 让人头疼的男孩/工作  
 
 
-# ***trousers*** n
+# *** *trousers*** n
 英音 'traʊzəz     美音 'traʊzərz  
 
 | 词频 3 | 口语 2 |  
@@ -7994,7 +7956,7 @@ troubled /'trʌbld/ adj
  > 一条裤子  
 
 
-# ***truck*** n
+# *** *truck*** n
 英音 trʌk     美音 trʌk  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -8006,7 +7968,7 @@ troubled /'trʌbld/ adj
 1.*高义频：* **卡车；货运汽车**  
 
 
-# ***true*** adj
+# *** *true*** adj
 英音 truː     美音 truː  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -8055,15 +8017,14 @@ troubled /'trʌbld/ adj
 
 固定搭配
 ---
-- come true
-1.**实现；成为现实：**  
+## - *come true  **实现；成为现实：**  
 
  > These predictions will come true if technology continues to develop.  
  > 如果技术不断发展，这些预言将会成真。  
  > 来源：外研④ – 1  
 
 
-# ***true-to-life*** adj
+# *** *true-to-life*** adj
 英音 'truːtəˌlaɪf     美音 'truːtəˌlaɪf  
 
 | 词频 1 |  
@@ -8073,7 +8034,7 @@ troubled /'trʌbld/ adj
 1.**逼真的**  
 
 
-# ***truly*** adv
+# *** *truly*** adv
 英音 'truːli     美音 'truːli  
 
 | 词频 4 | 书面 1 |  
@@ -8098,11 +8059,10 @@ troubled /'trʌbld/ adj
 
 固定搭配
 ---
-- Yours truly
-1.**[用于书信结尾、签名之前] 你忠实的**  
+## - *Yours truly  **[用于书信结尾、签名之前] 你忠实的**  
 
 
-# ***trumpet*** n
+# *** *trumpet*** n
 英音 'trʌmpɪt     美音 'trʌmpɪt  
 
 | 词频 1 |  
@@ -8114,7 +8074,7 @@ troubled /'trʌbld/ adj
 1.*高义频：* **小号；喇叭**  
 
 
-# ***trunk*** n
+# *** *trunk*** n
 英音 trʌŋk     美音 trʌŋk  
 
 | 词频 2 |  
@@ -8126,7 +8086,7 @@ troubled /'trʌbld/ adj
 1.*高义频：* **树干；躯干；皮箱；象鼻**  
 
 
-# ***trust*** n
+# *** *trust*** n
 英音 trʌst     美音 trʌst  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -8142,7 +8102,7 @@ troubled /'trʌbld/ adj
  > 如果你信赖我，我不会让你失望。  
 
 
-# ***trust*** vt
+# *** *trust*** vt
 英音 trʌst     美音 trʌst  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -8158,14 +8118,13 @@ troubled /'trʌbld/ adj
 
 固定搭配
 ---
-- I trust (that) 
-1.**[口语] 我希望…：**  
+## - *I trust (that)   **[口语] 我希望…：**  
 
  > I trust that everything will go all right.   
  > 我相信一切都会很顺利。  
 
 
-# ***truth*** n
+# *** *truth*** n
 英音 truːθ     美音 truːθ  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -8199,14 +8158,12 @@ troubled /'trʌbld/ adj
 
 固定搭配
 ---
-- in truth 
-1.**事实上；的确 (really)：**  
+## - *in truth   **事实上；的确 (really)：**  
 
  > She was laughing and chatting but not, in truth, having much fun.   
  > 她虽然谈笑风生，但实际上并不开心。  
 
-- to tell (you) the truth 
-1.**[口语] 老实说：**  
+## - *to tell (you) the truth   **[口语] 老实说：**  
 
  > To tell you the truth, I’m very worried about the final examinations next month.   
  > 老实说，我很担心下个月的期末考试。  
@@ -8217,7 +8174,7 @@ troubled /'trʌbld/ adj
 truthful /'truːθfl/ adj   
 truthfully /'truːθfəli/ adv   
 
-# ***try*** v  重难点词汇
+# *** *try*** v  重难点词汇
 英音 traɪ     美音 traɪ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -8225,6 +8182,15 @@ truthfully /'truːθfəli/ adv
 英文释义
 ---
 1.*高义频：* **尝试；试图；努力**  
+
+ > **Try,luck**  
+ > Try your strength / luck.   
+ > 试试你的力气/碰碰你的运气吧。  
+
+ > **Try as she might**  
+ > Try as she might (= as hard as she could), Sue couldn’t get the door open.  
+ > 苏想尽办法，但是仍开不开门。  
+ > 来源：2011 全国  
 
 - try to do sth:
 
@@ -8243,25 +8209,16 @@ truthfully /'truːθfəli/ adv
 
 ### 辨析 manage, try
   
- > **Try,luck**  
- > Try your strength / luck.   
- > 试试你的力气/碰碰你的运气吧。  
-
- > **Try as she might**  
- > Try as she might (= as hard as she could), Sue couldn’t get the door open.  
- > 苏想尽办法，但是仍开不开门。  
- > 来源：2011 全国  
-
 2.*高义频：* **试做；试用；试验：**  
+
+ > **try something different**  
+ > If I’m going out for a meal, I prefer to try something different.   
+ > 如果到外面吃饭，我喜欢尝试不同的饭菜。  
 
 - try doing sth:
 
  > John isn’t here. Try phoning his home number.  
  > 约翰不在这里，试试打他家里的电话。  
-
- > **try something different**  
- > If I’m going out for a meal, I prefer to try something different.   
- > 如果到外面吃饭，我喜欢尝试不同的饭菜。  
 
 Notes: 1. try doing sth 一般表示“尝试做某事”，含 有试试看的意味；try to do sth 则表示“努力做某 事”。2. 口语中，尤其在祈使句中，常用try and 代替 try to。  
 3.*低义频：* **考验；磨炼：**  
@@ -8272,20 +8229,17 @@ Notes: 1. try doing sth 一般表示“尝试做某事”，含 有试试看的�
 
 固定搭配
 ---
-- try on 
-1.**试穿：**  
+## - *try on   **试穿：**  
 
  > I went to the tailor’s to try on my new suit.  
  > 我去裁缝店试穿我的新衣服。  
 
-- try out 
-1.**试验：**  
+## - *try out   **试验：**  
 
  > try out an idea   
  > 试验一种设想  
 
-- try out for 
-1.**参加…选拔 / 试演：**  
+## - *try out for   **参加…选拔 / 试演：**  
 
  > All the students in the class tried out for the basketball match.   
  > 班上的全体学生都参加了篮球选拔赛。  
@@ -8295,10 +8249,11 @@ Notes: 1. try doing sth 一般表示“尝试做某事”，含 有试试看的�
 ---
 ##### 题目  
 Susan wanted to be independent of her parents. She tried ________ (live) alone, but she didn’t like it and moved back home.   
+来源：2008 湖南改  
 ##### 答案 living  
   
 
-# ***try*** n  重难点词汇
+# *** *try*** n  重难点词汇
 英音 traɪ     美音 traɪ  
 
 | 词频 5 | 口语 1 |  
@@ -8314,7 +8269,7 @@ Susan wanted to be independent of her parents. She tried ________ (live) alone, 
  > 来源：2013 北京书面表达  
 
 
-# ***tsunami*** n
+# *** *tsunami*** n
 英音 tsuː'nɑːmi     美音 tsuː'nɑːmi  
 
 | 词频 1 |  
@@ -8326,7 +8281,7 @@ Susan wanted to be independent of her parents. She tried ________ (live) alone, 
 1.*高义频：* **海啸**  
 
 
-# ***tube*** n
+# *** *tube*** n
 英音 tjuːb     美音 tuːb  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -8346,7 +8301,7 @@ Susan wanted to be independent of her parents. She tried ________ (live) alone, 
  > 乘地铁  
 
 
-# ***tuna*** n
+# *** *tuna*** n
 英音 'tjuːnə     美音 'tuːnə  
 
 | 词频 1 |  
@@ -8356,7 +8311,7 @@ Susan wanted to be independent of her parents. She tried ________ (live) alone, 
 1.**金枪鱼**  
 
 
-# ***tune*** n
+# *** *tune*** n
 英音 tjuːn     美音 tuːn  
 
 | 词频 2 | 口语 1 |  
@@ -8374,8 +8329,7 @@ Susan wanted to be independent of her parents. She tried ________ (live) alone, 
 
 固定搭配
 ---
-- in tune 
-1.**合调；协调：**  
+## - *in tune   **合调；协调：**  
 
  > sing in tune   
  > 唱得合调  
@@ -8383,8 +8337,7 @@ Susan wanted to be independent of her parents. She tried ________ (live) alone, 
  > be in tune with the times   
  > 跟上时代潮流  
 
-- out of tune 
-1.**走调；不协调：**  
+## - *out of tune   **走调；不协调：**  
 
  > I have no ear for music. My singing is out of tune.  
  > 我不懂音乐，唱歌总跑调。  
@@ -8393,7 +8346,7 @@ Susan wanted to be independent of her parents. She tried ________ (live) alone, 
  > 与时代格格不入  
 
 
-# ***tune*** vi
+# *** *tune*** vi
 英音 tjuːn     美音 tuːn  
 
 | 词频 2 |  
@@ -8405,14 +8358,13 @@ Susan wanted to be independent of her parents. She tried ________ (live) alone, 
 
 固定搭配
 ---
-- tune in 
-1.**收听；收看：**  
+## - *tune in   **收听；收看：**  
 
  > tune in to a radio station   
  > 收听一个电台  
 
 
-# ***tunnel*** n
+# *** *tunnel*** n
 英音 'tʌnl     美音 'tʌnl  
 
 | 词频 3 | 书面 1 |  
@@ -8430,7 +8382,7 @@ Susan wanted to be independent of her parents. She tried ________ (live) alone, 
  > 英吉利海峡隧道  
 
 
-# ***turkey*** n
+# *** *turkey*** n
 英音 'tɜːki     美音 'tɜːrki  
 
 | 词频 1 |  
@@ -8442,7 +8394,7 @@ Susan wanted to be independent of her parents. She tried ________ (live) alone, 
 1.*高义频：* **火鸡**  
 
 
-# ***turkey*** n
+# *** *turkey*** n
 英音 'tɜːkɪ     美音 'tɝki  
 
 | 词频 1 |  
@@ -8452,7 +8404,7 @@ Susan wanted to be independent of her parents. She tried ________ (live) alone, 
 1.**(电影或戏剧的) 失败之作**  
 
 
-# ***turn*** v  重难点词汇
+# *** *turn*** v  重难点词汇
 英音 tɜːn     美音 tɜːrn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -8535,8 +8487,7 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
 
 固定搭配
 ---
-- turn around / round 
-1.**转身；转变；好转：**  
+## - *turn around / round   **转身；转变；好转：**  
 
  > I turned around and walked out without saying a word.   
  > 我一言未发，转身走了出去。  
@@ -8545,8 +8496,7 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
  > After a year’s hard work, he had turned around a badly performing department.   
  > 经过一年的努力，他使一个业绩糟糕的部门有了起色。  
 
-- turn away 
-1.**把…转过去；把…打发走：**  
+## - *turn away   **把…转过去；把…打发走：**  
 
  > She turned her head away, feeling too ashamed to meet his gaze.   
  > 因为害羞而不敢和他对视，她把头转了过去。  
@@ -8554,8 +8504,7 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
  > Because the hall was full, many people were turned away.   
  > 因礼堂满了，许多人被打发走了。  
 
-- turn back 
-1.**(使) 往回走；改变做法：**  
+## - *turn back   **(使) 往回走；改变做法：**  
 
  > The weather became so bad that they had to turn back.   
  > 天气变得很糟糕,他们只好返回。  
@@ -8564,8 +8513,7 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
  > The people are turning back to natural resources to survive.   
  > 人们又重新开始依靠自然资源生存。  
 
-- turn down
-1.*高义频：* **关小；调低 (音量等)：**  
+## - *turn down  1.*高义频：* **关小；调低 (音量等)：**  
 反义词 turn up 
 
  > Could you please turn down your TV a bit?   
@@ -8577,8 +8525,7 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
  > 你已经好几个月没有工作了，怎么能拒绝这么好的一份工作呢？  
  > 来源：2014 浙江  
 
-- turn in
-1.**上交(BrE hand in)；上缴：**  
+## - *turn in  **上交(BrE hand in)；上缴：**  
 
  > Turn in your papers, please.   
  > 请把试卷交上来吧。  
@@ -8586,8 +8533,7 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
  > She turned in the wallet she picked up on the way.  
  > 她把在路上捡到的钱包上交了。  
 
-- turn into
-1.**(使) 变成；(使) 成为：**  
+## - *turn into  **(使) 变成；(使) 成为：**  
 
  > Peter can show you how to turn an idea into an act.  
  > 彼得能教你如何把想法变成行动。  
@@ -8597,15 +8543,13 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
  > 新建的木屋排列在街道两旁，使这座古镇变成了仙境。  
  > 来源：2016 北京  
 
-- turn off 
-1.**关 (水、煤气、电灯等)turn on 反 turn off：**  
+## - *turn off   **关 (水、煤气、电灯等)turn on 反 turn off：**  
 
  > Turn off the lights when you are not in a room.   
  > 人不在房间时把灯关掉。  
  > 来源：译林⑤ – 2  
 
-- turn on
-1.*高义频：* **开 (水、煤气、电灯等)：**  
+## - *turn on  1.*高义频：* **开 (水、煤气、电灯等)：**  
 反义词 turn off 
 
  > He talked for several minutes, but forgot to first turn on the microphone.   
@@ -8629,8 +8573,7 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
  > The dogs suddenly turned on each other.   
  > 那两条狗突然撕咬起来。  
 
-- turn out
-1.*低义频：* **制造；生产；培养出：**  
+## - *turn out  1.*低义频：* **制造；生产；培养出：**  
 
  > The factory turns out 900 cars a week.   
  > 这家工厂一周生产九百辆汽车。  
@@ -8652,8 +8595,7 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
  > A lot of people turned out for the party.  
  > 许多人参加了聚会。  
 
-- turn over
-1.*高义频：* **翻身；(使) 翻转；翻过 (书页):**  
+## - *turn over  1.*高义频：* **翻身；(使) 翻转；翻过 (书页):**  
 
  > He did not fall asleep, turning over in bed from time to time.   
  > 他没睡着，在床上时不时地翻身。  
@@ -8671,8 +8613,7 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
  > She kept turning over the events of the day in her mind.   
  > 她脑子里不断琢磨当天发生的事。  
 
-- turn to 
-1.**转向；求助于：**  
+## - *turn to   **转向；求助于：**  
 
  > Their talk turned to the change that had taken place in the city.   
  > 他们的话题转到了城市发生的变化。  
@@ -8681,8 +8622,7 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
  > 遇到困难请向警察求助。  
  > 来源：2008 上海春  
 
-- turn up
-1.*高义频：* **开大；调高 (音量等)**  
+## - *turn up  1.*高义频：* **开大；调高 (音量等)**  
 反义词 turn down 
 
  > Turn up the radio so that I can hear the program.  
@@ -8705,19 +8645,23 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
 ---
 ##### 题目  
 Tom had to turn________ the invitation to the party last weekend because he was too busy.  
+来源：2015 天津改  
 ##### 答案 down  
   
 ##### 题目  
 Don’t worry. I’m sure your missing glasses will turn ________ sooner or later.  
+来源：2015 湖北改  
 ##### 答案 up  
   
 ##### 题目  
 When the sports hero turned ________ at our party, he was welcomed with open arms.  
+来源：2014 安徽改  
 ##### 答案 up  
   
 ##### 题目  
 — What are you reading, Tom?
 — I’m not really reading, just turning ________ the pages.   
+来源：2008 全国改  
 ##### 答案 over  
   
 ##### 题目  
@@ -8725,7 +8669,7 @@ She’s having a lot of trouble with the new computer, but she doesn’t know wh
 ##### 答案 to  
   
 
-# ***turn*** n  重难点词汇
+# *** *turn*** n  重难点词汇
 英音 tɜːn     美音 tɜːrn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -8773,14 +8717,12 @@ She’s having a lot of trouble with the new computer, but she doesn’t know wh
 
 固定搭配
 ---
-- by turns
-1.**轮流；交替：**  
+## - *by turns  **轮流；交替：**  
 
  > Leaving home for the first time he felt cheerful and sad by turns.   
  > 第一次离开家，他时而高兴时而悲伤。  
 
-- in turn 
-1.**依次；反过来；转而：**  
+## - *in turn   **依次；反过来；转而：**  
 
  > They answered the teacher’s questions in turn.   
  > 他们依次回答了老师的问题。  
@@ -8789,8 +8731,7 @@ She’s having a lot of trouble with the new computer, but she doesn’t know wh
  > 顾客表扬了经理，经理转而表扬了员工。  
  > 来源：北师大③ – 8  
 
-- take turns 
-1.**轮流；依次：**  
+## - *take turns   **轮流；依次：**  
 
  > **took turns,in,driving**  
  > They took turns ( in ) driving.   
@@ -8809,6 +8750,7 @@ A. share
 B.chance  
 C.turn   
 D.lead  
+来源：2013 江苏  
 ##### 答案 C  
   
 ##### 题目  
@@ -8816,7 +8758,7 @@ People try to avoid public transportation delays by using their own cars, and __
 ##### 答案 in turn  
   
 
-# ***turning*** n
+# *** *turning*** n
 英音 'tɜːnɪŋ     美音 'tɜːrnɪŋ  
 
 | 词频 4 |  
@@ -8837,7 +8779,7 @@ People try to avoid public transportation delays by using their own cars, and __
 2.*低义频：* **旋转**  
 
 
-# ***turnover*** n
+# *** *turnover*** n
 英音 'tɜːnəʊvə(r)     
 
   
@@ -8847,7 +8789,7 @@ People try to avoid public transportation delays by using their own cars, and __
 1.**营业额；流动；成交量；翻覆；半圆卷饼**  
 
 
-# ***turnover*** adj
+# *** *turnover*** adj
 英音 'tɜːnəʊvə(r)     
 
   
@@ -8857,7 +8799,7 @@ People try to avoid public transportation delays by using their own cars, and __
 1.**可翻转的**  
 
 
-# ***turntable*** n
+# *** *turntable*** n
 英音 'tɜːnteɪbl     美音 'tɜːrnteɪbl  
 
 | 词频 1 |  
@@ -8867,7 +8809,7 @@ People try to avoid public transportation delays by using their own cars, and __
 1.**（唱机的）转盘，唱盘**  
 
 
-# ***turtle*** n
+# *** *turtle*** n
 英音 'tɜːtl     美音 'tɜːrtl  
 
 | 词频 1 |  
@@ -8879,7 +8821,7 @@ People try to avoid public transportation delays by using their own cars, and __
 1.*高义频：* **海龟；龟；甲鱼**  
 
 
-# ***tusk*** n
+# *** *tusk*** n
 英音 tʌsk     美音 tʌsk  
 
 | 词频 1 |  
@@ -8889,7 +8831,7 @@ People try to avoid public transportation delays by using their own cars, and __
 1.**长牙**  
 
 
-# ***tutor*** n
+# *** *tutor*** n
 英音 'tjuːtə(r)     美音 'tuːtər  
 
 | 词频 2 |  
@@ -8901,7 +8843,7 @@ People try to avoid public transportation delays by using their own cars, and __
 1.*高义频：* **家庭教师； (大学中的) 导师； (辅导学生备考的) 辅导教师**  
 
 
-# ***twice*** adv
+# *** *twice*** adv
 英音 twaɪs     美音 twaɪs  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -8917,7 +8859,7 @@ People try to avoid public transportation delays by using their own cars, and __
  > 他几乎是你的两倍重。  
 
 
-# ***twin*** n
+# *** *twin*** n
 英音 twɪn     美音 twɪn  
 
 | 词频 3 |  
@@ -8932,7 +8874,7 @@ People try to avoid public transportation delays by using their own cars, and __
  > 双胞胎往往长得很像。  
 
 
-# ***twin*** adj
+# *** *twin*** adj
 英音 twɪn     美音 twɪn  
 
 | 词频 3 |  
@@ -8945,7 +8887,7 @@ People try to avoid public transportation delays by using their own cars, and __
  > 孪生姐姐/妹妹  
 
 
-# ***twist*** v
+# *** *twist*** v
 英音 twɪst     美音 twɪst  
 
 | 词频 2 | 口语 1 |  
@@ -8991,7 +8933,7 @@ People try to avoid public transportation delays by using their own cars, and __
  > 报纸把我说的一切都歪曲了。  
 
 
-# ***twist*** n
+# *** *twist*** n
 英音 twɪst     美音 twɪst  
 
 | 词频 2 |  
@@ -9013,7 +8955,7 @@ People try to avoid public transportation delays by using their own cars, and __
 ---
 twisted /'twɪstɪd/ adj   
 
-# ***twisting*** adj
+# *** *twisting*** adj
 英音 twɪstɪŋ     美音 twɪstɪŋ  
 
 | 词频 1 |  
@@ -9023,7 +8965,7 @@ twisted /'twɪstɪd/ adj
 1.**扭曲的，弯曲的**  
 
 
-# ***twitch*** v
+# *** *twitch*** v
 英音 twɪtʃ     美音 twɪtʃ  
 
 | 词频 1 |  
@@ -9033,7 +8975,7 @@ twisted /'twɪstɪd/ adj
 1.**抽动,颤动**  
 
 
-# ***type*** n
+# *** *type*** n
 英音 taɪp     美音 taɪp  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -9055,7 +8997,7 @@ twisted /'twɪstɪd/ adj
  > 我认为她不是那种喜欢运动的人。  
 
 
-# ***type*** vt
+# *** *type*** vt
 英音 taɪp     美音 taɪp  
 
 | 词频 5 |  
@@ -9068,7 +9010,7 @@ twisted /'twɪstɪd/ adj
  > 她认真地把信打了出来。  
 
 
-# ***typewriter*** n
+# *** *typewriter*** n
 英音 'taɪpraɪtə(r)     美音 'taɪpraɪtər  
 
 | 词频 2 |  
@@ -9080,7 +9022,7 @@ twisted /'twɪstɪd/ adj
 1.*高义频：* **打字机**  
 
 
-# ***typhoon*** n
+# *** *typhoon*** n
 英音 taɪ'fuːn     美音 taɪ'fuːn  
 
 | 词频 1 |  
@@ -9092,7 +9034,7 @@ twisted /'twɪstɪd/ adj
 1.*高义频：* **台风**  
 
 
-# ***typical*** adj
+# *** *typical*** adj
 英音 'tɪpɪkl     美音 'tɪpɪkl  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -9101,14 +9043,6 @@ twisted /'twɪstɪd/ adj
 ---
 1.*高义频：* **典型的；有代表性的：**  
 
-- it is typical of sb to do sth:
-
- > It is typical of him to be so gentle.   
- > 他一向都是这么温和。  
-
- > It is typical of John to think about helping others in this way.   
- > 只有约翰才会想到以这种方式去帮助别人。  
-
  > a typical Italian cafe   
  > 典型的意大利餐馆  
 
@@ -9116,6 +9050,14 @@ twisted /'twɪstɪd/ adj
  > The painting, named Poppy, is a typical example of Chen’s style.   
  > 这幅名为“罂粟”的画是陈(逸飞)艺术风格的代表作。  
  > 来源：北师大② – 3  
+
+- it is typical of sb to do sth:
+
+ > It is typical of him to be so gentle.   
+ > 他一向都是这么温和。  
+
+ > It is typical of John to think about helping others in this way.   
+ > 只有约翰才会想到以这种方式去帮助别人。  
 
 
 派生词汇
@@ -9126,10 +9068,11 @@ typically /'tɪpɪkli/ adv
 ---
 ##### 题目  
 Jack is late again.  ________ (是他的特点) to keep others waiting.   
+来源：2008 江西改  
 ##### 答案 It is typical of him  
   
 
-# ***typically*** adv
+# *** *typically*** adv
 英音 'tɪpɪkli     美音 'tɪpɪkli  
 
 | 词频 3 |  
@@ -9139,7 +9082,7 @@ Jack is late again.  ________ (是他的特点) to keep others waiting.
 1.**典型地；有代表性地；向来；一向**  
 
 
-# ***typist*** n
+# *** *typist*** n
 英音 'taɪpɪst     美音 'taɪpɪst  
 
 | 词频 1 |  
@@ -9151,7 +9094,7 @@ Jack is late again.  ________ (是他的特点) to keep others waiting.
 1.*高义频：* **打字员**  
 
 
-# ***tyre*** n
+# *** *tyre*** n
 英音 'taɪə(r)     美音 'taɪər  
 
 | 词频 2 | 口语 1 |  
