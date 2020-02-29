@@ -1,6 +1,6 @@
 # Mm
 
-# ***<font color=#0099ff>\*machine</font>*** n
+# ***\*machine*** n
 英音 mə'ʃiːn     美音 mə'ʃiːn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -22,7 +22,7 @@
  > 这台机器运转良好。    
 
 
-# ***<font color=#0099ff>\*machinery</font>*** n
+# ***\*machinery*** n
 英音 mə'ʃiːnəri     美音 mə'ʃiːnəri  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -38,7 +38,7 @@
  > 农业/工业机械    
 
 
-# ***<font color=#0099ff>\*mad</font>*** adj
+# ***\*mad*** adj
 英音 mæd     美音 mæd  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -77,7 +77,7 @@
 ---
 madly  /'mædli/ adv   
 
-# ***<font color=#0099ff>\*madam</font>*** n
+# ***\*madam*** n
 英音 'mædəm     美音 'mædəm  
 
 | 词频 4 | 口语 1 |  
@@ -89,7 +89,7 @@ madly  /'mædli/ adv
 ### 1.*高义频：* **女士；夫人**  
 
 
-# ***<font color=#0099ff>\*magazine</font>*** n
+# ***\*magazine*** n
 英音 ˌmæɡə'ziːn     美音 'mæɡəziːn  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -104,7 +104,7 @@ madly  /'mædli/ adv
  > 她为一家妇女杂志写过很多文章。    
 
 
-# ***<font color=#0099ff>\*magic</font>*** n
+# ***\*magic*** n
 英音 'mædʒɪk     美音 'mædʒɪk  
 
 | 词频 3 | 书面 1 |  
@@ -128,7 +128,7 @@ madly  /'mædli/ adv
  > 音乐的魅力    
 
 
-# ***<font color=#0099ff>\*magic</font>*** adj
+# ***\*magic*** adj
 英音 'mædʒɪk     美音 'mædʒɪk  
 
 | 词频 3 |  
@@ -147,7 +147,7 @@ madly  /'mædli/ adv
  > 迷人的美    
 
 
-# ***<font color=#0099ff>\*magical</font>*** adj
+# ***\*magical*** adj
 英音 'mædʒɪkl     美音 'mædʒɪkl  
 
 | 词频 2 |  
@@ -157,7 +157,7 @@ madly  /'mædli/ adv
 ### 1.*高义频：* **巫术的；魔术的；有魔力的**  
 
 
-# ***<font color=#0099ff>\*magnesium</font>*** n
+# ***\*magnesium*** n
 英音 mæɡ'niːziəm     美音 mæɡ'niːziəm  
 
 | 词频 1 |  
@@ -167,7 +167,7 @@ madly  /'mædli/ adv
 ### 1.**镁**  
 
 
-# ***<font color=#0099ff>\*magnetic</font>*** adj
+# ***\*magnetic*** adj
 英音 mæɡ'netɪk     美音 mæɡ'netɪk  
 
 | 词频 3 |  
@@ -177,7 +177,7 @@ madly  /'mædli/ adv
 ### 1.**磁的；磁性的；磁场的**  
 
 
-# ***<font color=#0099ff>\*magnificent</font>*** adj
+# ***\*magnificent*** adj
 英音 mæɡ'nɪfɪsnt     美音 mæɡ'nɪfɪsnt  
 
 | 词频 1 |  
@@ -190,7 +190,7 @@ madly  /'mædli/ adv
  > 壮丽的景色/盛大的庆典    
 
 
-# ***<font color=#0099ff>\*magnitude</font>*** n
+# ***\*magnitude*** n
 英音 'mæɡnɪtjuːd     美音 'mæɡnɪtuːd  
 
   
@@ -200,7 +200,7 @@ madly  /'mædli/ adv
 ### 1.**（地）震级；重大**  
 
 
-# ***<font color=#0099ff>\*magpie</font>*** n
+# ***\*magpie*** n
 英音 'mæɡpaɪ     美音 'mæɡpaɪ  
 
 | 词频 1 |  
@@ -212,7 +212,7 @@ madly  /'mædli/ adv
 ### 1.*高义频：* **喜鹊**  
 
 
-# ***<font color=#0099ff>\*maid</font>*** n
+# ***\*maid*** n
 英音 meɪd     美音 meɪd  
 
 | 词频 1 |  
@@ -224,7 +224,7 @@ madly  /'mædli/ adv
 ### 1.*高义频：* **女仆；少女；未婚的年轻女子**  
 
 
-# ***<font color=#0099ff>\*mail</font>*** n
+# ***\*mail*** n
 英音 meɪl     美音 meɪl  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -250,7 +250,7 @@ madly  /'mædli/ adv
 ### 3.*高义频：* **电子邮件 (e-mail)**  
 
 
-# ***<font color=#0099ff>\*mail</font>*** vt
+# ***\*mail*** vt
 英音 meɪl     美音 meɪl  
 
 | 词频 4 | 口语 1 |  
@@ -264,7 +264,7 @@ madly  /'mædli/ adv
  > 别忘了把这封信寄给你妈妈。    
 
 
-# ***<font color=#0099ff>\*mailbox</font>*** n
+# ***\*mailbox*** n
 英音 'meɪlbɒks     美音 'meɪlbɑːks  
 
 | 词频 2 |  
@@ -276,7 +276,7 @@ madly  /'mædli/ adv
 ### 1.*高义频：* **邮筒；邮箱；(收信人的) 信箱**  
 
 
-# ***<font color=#0099ff>\*main</font>*** adj
+# ***\*main*** adj
 英音 meɪn     美音 meɪn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -294,7 +294,7 @@ madly  /'mædli/ adv
  > 我把他讲座的要点记了笔记。    
 
 
-# ***<font color=#0099ff>\*main</font>*** n
+# ***\*main*** n
 英音 meɪn     美音 meɪn  
 
 | 词频 5 |  
@@ -309,7 +309,7 @@ madly  /'mædli/ adv
  > 新房子(的水电)还没有与总管道接通。    
 
 
-# ***<font color=#0099ff>\*mainland</font>*** n
+# ***\*mainland*** n
 英音 'meɪnlænd     美音 'meɪnlænd  
 
 | 词频 1 |  
@@ -324,7 +324,7 @@ madly  /'mædli/ adv
  > 中国大陆    
 
 
-# ***<font color=#0099ff>\*mainly</font>*** adv
+# ***\*mainly*** adv
 英音 'meɪnli     美音 'meɪnli  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -340,7 +340,7 @@ madly  /'mædli/ adv
  > 你应该对这次事故负主要责任。    
 
 
-# ***<font color=#0099ff>\*mainstream</font>*** n
+# ***\*mainstream*** n
 英音 'meɪnstriːm     美音 'meɪnstriːm  
 
 | 词频 1 |  
@@ -350,7 +350,7 @@ madly  /'mædli/ adv
 ### 1.*高义频：* **主流；主要倾向**  
 
 
-# ***<font color=#0099ff>\*maintain</font>*** vt
+# ***\*maintain*** vt
 英音 meɪn'teɪn     美音 meɪn'teɪn  
 
 | 词频 3 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -380,7 +380,7 @@ madly  /'mædli/ adv
  > 他坚持认为再也不能做这样的事情了。    
 
 
-# ***<font color=#0099ff>\*maize</font>*** n
+# ***\*maize*** n
 英音 meɪz     美音 meɪz  
 
 | 词频 1 |  
@@ -390,7 +390,7 @@ madly  /'mædli/ adv
 ### 1.**玉米**  
 
 
-# ***<font color=#0099ff>\*majesty</font>*** n
+# ***\*majesty*** n
 英音 'mædʒəsti     美音 'mædʒəsti  
 
   
@@ -400,7 +400,7 @@ madly  /'mædli/ adv
 ### 1.**陛下**  
 
 
-# ***<font color=#0099ff>\*major</font>*** adj
+# ***\*major*** adj
 英音 'meɪdʒə(r)     美音 'meɪdʒər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -427,7 +427,7 @@ madly  /'mædli/ adv
  > 主修课程    
 
 
-# ***<font color=#0099ff>\*major</font>*** n
+# ***\*major*** n
 英音 'meɪdʒə(r)     美音 'meɪdʒər  
 
 | 词频 5 |  
@@ -445,7 +445,7 @@ madly  /'mædli/ adv
  > 你们大多数是英语专业的学生吗？    
 
 
-# ***<font color=#0099ff>\*major</font>*** vi
+# ***\*major*** vi
 英音 'meɪdʒə(r)     美音 'meɪdʒər  
 
 | 词频 5 |  
@@ -458,7 +458,7 @@ madly  /'mædli/ adv
  > 他鼓励我在大学主修英语，在中国和世界之间起沟通作用。  （2016 北京书面表达）  
 
 
-# ***<font color=#0099ff>\*majority</font>*** n
+# ***\*majority*** n
 英音 mə'dʒɒrəti     美音 mə'dʒɔːrəti  
 
 | 词频 3 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -499,7 +499,7 @@ Notes: 当majority后不接of短语时，如强调整体，谓语动词用单数
 答案：
 1. is; are  
 
-# ***<font color=#0099ff>\*make</font>*** vt  重难点词汇
+# ***\*make*** vt  重难点词汇
 英音 meɪk     美音 meɪk  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -567,7 +567,7 @@ Notes: 被动式为be made to do sth
 
 固定搭配
 ---
-## <font color=#0099ff>\*be made from / of </font>
+## \*be made from / of 
 1.**由…制造；用…为原料制取：**  
 
  > *Early paper in China was made from bamboo fibre. *  
@@ -577,10 +577,10 @@ Notes: 被动式为be made to do sth
  > 在中世纪时，房子是由木头建造的。  （外研⑧ – 2）  
 
 Notes: be made from通常指从制成品中看不出原料，而be made of通常从成品中能看出原料。  
-## <font color=#0099ff>\*make away with</font>
+## \*make away with
 1.**[非正式用语] 偷走**  
 
-## <font color=#0099ff>\*make … into </font>
+## \*make … into 
 1.**把…变成 (turn ... into)：**  
 
  > *We can make your room into a study. *  
@@ -589,7 +589,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > *People make themselves into winners by their own efforts.*  
  > 人们靠自己的努力使自己成为赢家。  （2018 天津）  
 
-## <font color=#0099ff>\*make it</font>
+## \*make it
 1.*高义频：* **做到；成功：**  
 
  > *As long as you have a dream, keep trying and you’ll make it.*  
@@ -613,7 +613,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > *I’m sorry I didn’t make it to your party last night.*  
  > 我很抱歉昨晚没能参加你的聚会。  （2011 浙江）  
 
-## <font color=#0099ff>\*make out</font>
+## \*make out
 1.*高义频：* **勉强看见；听出(distinguish)：**  
 
  > *I could barely make out the stage in the darkness. *  
@@ -638,7 +638,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > *He made out that he was a famous doctor. *  
  > 他假装自己是一名知名医生。  （ 译林⑦ – 2）  
 
-## <font color=#0099ff>\*make up</font>
+## \*make up
 1.*高义频：* **[不用于进行时] 组成；构成：**  
 
  > *In some languages, 100 words make up half of all words used in daily conversations. *  
@@ -666,7 +666,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > *They have quarreled seriously three times but each time they have made up and become best friends gain.*  
  > 她们之间发生过3次激烈的争吵，但每次都重归于好。  （外研⑥ – 3）  
 
-## <font color=#0099ff>\*make up for </font>
+## \*make up for 
 1.**弥补：**  
 
  > *Westerners should take advantage of the ancient Chinese wisdom to make up for the drawbacks of Western philosophy.*  
@@ -693,7 +693,7 @@ D.set up
 答案：
 1. have made  2. makes up for  3. it  4. A  5. make up  6. up  7. out  
 
-# ***<font color=#0099ff>\*make</font>*** n  重难点词汇
+# ***\*make*** n  重难点词汇
 英音 meɪk     美音 meɪk  
 
 | 词频 1 |  
@@ -712,7 +712,7 @@ D.set up
  > 有很多不同的型号的电脑可供选择。    
 
 
-# ***<font color=#0099ff>\*make-up</font>*** n
+# ***\*make-up*** n
 英音 'meɪkʌp     美音 'meɪkˌʌp  
 
 | 词频 3 |  
@@ -728,7 +728,7 @@ D.set up
  > 她很少化妆。    
 
 
-# ***<font color=#0099ff>\*makeover</font>*** n
+# ***\*makeover*** n
 英音 'meɪkəʊvə(r)     美音 'meɪkoʊvər  
 
 | 词频 1 |  
@@ -738,7 +738,7 @@ D.set up
 ### 1.**改头换面**  
 
 
-# ***<font color=#0099ff>\*malaria</font>*** n
+# ***\*malaria*** n
 英音 mə'leəriə     美音 mə'leriə  
 
 | 词频 3 |  
@@ -748,7 +748,7 @@ D.set up
 ### 1.**疟疾**  
 
 
-# ***<font color=#0099ff>\*male</font>*** adj
+# ***\*male*** adj
 英音 meɪl     美音 meɪl  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -761,7 +761,7 @@ D.set up
  > 雄性动物常常比雌性动物大。    
 
 
-# ***<font color=#0099ff>\*male</font>*** n
+# ***\*male*** n
 英音 meɪl     美音 meɪl  
 
 | 词频 4 | 书面 1 |  
@@ -773,7 +773,7 @@ D.set up
 ### 1.*高义频：* **男子；雄性**  
 
 
-# ***<font color=#0099ff>\*mall</font>*** n
+# ***\*mall*** n
 英音 mɔːl; mæl     美音 mɔːl  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -789,7 +789,7 @@ D.set up
  > 大型购物中心    
 
 
-# ***<font color=#0099ff>\*mammal</font>*** n
+# ***\*mammal*** n
 英音 'mæml     美音 'mæml  
 
 | 词频 1 |  
@@ -801,7 +801,7 @@ D.set up
 ### 1.*高义频：* **哺乳动物**  
 
 
-# ***<font color=#0099ff>\*man</font>*** n
+# ***\*man*** n
 英音 mæn     美音 mæn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -827,7 +827,7 @@ D.set up
  > 人类已对环境造成了很大的破坏。    
 
 
-# ***<font color=#0099ff>\*man-made</font>*** adj
+# ***\*man-made*** adj
 英音 ˌmæn'meɪd     美音 ˌmæn'meɪd  
 
 | 词频 2 |  
@@ -841,7 +841,7 @@ D.set up
  > 人造卫星    
 
 
-# ***<font color=#0099ff>\*manage</font>*** v  重难点词汇
+# ***\*manage*** v  重难点词汇
 英音 'mænɪdʒ     美音 'mænɪdʒ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -906,7 +906,7 @@ D.construct
 答案：
 1. manage  
 
-# ***<font color=#0099ff>\*management</font>*** n
+# ***\*management*** n
 英音 'mænɪdʒmənt     美音 'mænɪdʒmənt  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -926,7 +926,7 @@ D.construct
  > 高层 / 高级管理人员    
 
 
-# ***<font color=#0099ff>\*manager</font>*** n
+# ***\*manager*** n
 英音 'mænɪdʒə(r)     美音 'mænɪdʒər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -942,7 +942,7 @@ D.construct
  > 总经理    
 
 
-# ***<font color=#0099ff>\*mane</font>*** n
+# ***\*mane*** n
 英音 meɪn     美音 meɪn  
 
 | 词频 1 |  
@@ -952,7 +952,7 @@ D.construct
 ### 1.**鬃毛**  
 
 
-# ***<font color=#0099ff>\*mankind</font>*** n
+# ***\*mankind*** n
 英音 mæn'kaɪnd     美音 mæn'kaɪnd  
 
 | 词频 3 |  
@@ -964,7 +964,7 @@ D.construct
 ### 1.**人类 (man)**  
 
 
-# ***<font color=#0099ff>\*manner</font>*** n
+# ***\*manner*** n
 英音 'mænə(r)     美音 'mænər  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -1002,13 +1002,13 @@ D.construct
 
 固定搭配
 ---
-## <font color=#0099ff>\*all manner of </font>
+## \*all manner of 
 1.**[正式用语] 各种各样的：**  
 
  > *The problem can be solved in all manner of ways. *  
  > 这个问题可以用多种方式解决。    
 
-## <font color=#0099ff>\*in a ... manner </font>
+## \*in a ... manner 
 1.**用…的方式 / 态度：**  
 
  > *They worked in an orderly manner. *  
@@ -1018,7 +1018,7 @@ D.construct
  > 她友好地和我打招呼。    
 
 
-# ***<font color=#0099ff>\*manners</font>*** n
+# ***\*manners*** n
 英音 'mænəz     美音 'mænəz  
 
 | 词频 4 |  
@@ -1028,7 +1028,7 @@ D.construct
 ### 1.**礼貌**  
 
 
-# ***<font color=#0099ff>\*mansion</font>*** n
+# ***\*mansion*** n
 英音 'mænʃn     美音 'mænʃn  
 
 | 词频 1 |  
@@ -1038,7 +1038,7 @@ D.construct
 ### 1.**公馆；宅第**  
 
 
-# ***<font color=#0099ff>\*manual</font>*** n
+# ***\*manual*** n
 英音 'mænjuəl     美音 'mænjuəl  
 
 | 词频 1 |  
@@ -1054,7 +1054,7 @@ D.construct
  > 用户手册    
 
 
-# ***<font color=#0099ff>\*manual</font>*** adj
+# ***\*manual*** adj
 英音 'mænjuəl     美音 'mænjuəl  
 
 | 词频 1 |  
@@ -1068,7 +1068,7 @@ D.construct
  > 体力劳动    
 
 
-# ***<font color=#0099ff>\*manufacture</font>*** vt
+# ***\*manufacture*** vt
 英音 ˌmænju'fæktʃə(r)     美音 ˌmænju'fæktʃər  
 
 | 词频 2 |  
@@ -1078,7 +1078,7 @@ D.construct
 ### 1.*高义频：* **(用机器大量) 生产；制造 (mass-produce)**  
 
 
-# ***<font color=#0099ff>\*manufacture</font>*** n
+# ***\*manufacture*** n
 英音 ˌmænju'fæktʃə(r)     美音 ˌmænju'fæktʃər  
 
 | 词频 2 | 书面 2 |  
@@ -1095,7 +1095,7 @@ D.construct
 manufacturer /ˌmænju'fæktʃərə(r)/ n [C]  
 manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]  
 
-# ***<font color=#0099ff>\*manuscript</font>*** n
+# ***\*manuscript*** n
 英音 'mænjuskrɪpt     美音 'mænjuskrɪpt  
 
 | 词频 2 |  
@@ -1105,7 +1105,7 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 ### 1.**底稿；手稿**  
 
 
-# ***<font color=#0099ff>\*many</font>*** adj
+# ***\*many*** adj
 英音 'meni     美音 'meni  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1120,7 +1120,7 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
  > 我的朋友不多。    
 
 
-# ***<font color=#0099ff>\*many</font>*** pron
+# ***\*many*** pron
 英音 'meni     美音 'meni  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1137,7 +1137,7 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*a good / great many</font>
+## \*a good / great many
 1.**很多 / 极多：**  
 
  > **2005 江苏**  
@@ -1147,13 +1147,13 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
  > *Most of the young men went off to the war, and a great many never came back. *  
  > 大部分年轻人上了战场，其中很多人再也没有回来。    
 
-## <font color=#0099ff>\*as many as </font>
+## \*as many as 
 1.**多达：**  
 
  > *In the 1980s, as many as one million elephants were killed throughout Africa. *  
  > 在20世纪80年代，整个非洲有多达100万头大象被杀。    
 
-## <font color=#0099ff>\*many a </font>
+## \*many a 
 1.**[正式用语] [接可数名词单数作主语时，谓语动词用单数] 许多的；非常多的：**  
 
  > *Many a student has attended the lecture. *  
@@ -1171,7 +1171,7 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 答案：
 1. 去掉much 或 much → many  2. is  
 
-# ***<font color=#0099ff>\*map</font>*** n
+# ***\*map*** n
 英音 mæp     美音 mæp  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -1191,7 +1191,7 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
  > 你会看地图吗？    
 
 
-# ***<font color=#0099ff>\*maple</font>*** n
+# ***\*maple*** n
 英音 'meɪpl     美音 'meɪpl  
 
 | 词频 1 |  
@@ -1203,7 +1203,7 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 ### 1.*高义频：* **枫树；槭树**  
 
 
-# ***<font color=#0099ff>\*marathon</font>*** n
+# ***\*marathon*** n
 英音 'mærəθən     美音 'mærəθɑːn  
 
 | 词频 4 |  
@@ -1215,7 +1215,7 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 ### 1.*高义频：* **马拉松赛跑 (全长 42 195米)**  
 
 
-# ***<font color=#0099ff>\*marble</font>*** n
+# ***\*marble*** n
 英音 'mɑːbl     美音 'mɑːrbl  
 
 | 词频 1 |  
@@ -1225,7 +1225,7 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 ### 1.*高义频：* **[U] 大理石；[C] 大理石制品**  
 
 
-# ***<font color=#0099ff>\*march</font>*** vi
+# ***\*march*** vi
 英音 mɑːtʃ     美音 mɑːrtʃ  
 
 | 词频 2 | 书面 2 |  
@@ -1239,7 +1239,7 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
  > 军队正在街上行进。    
 
 
-# ***<font color=#0099ff>\*march</font>*** n
+# ***\*march*** n
 英音 mɑːtʃ     美音 mɑːrtʃ  
 
 | 词频 2 | 书面 1 |  
@@ -1261,7 +1261,7 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 ---
 marcher /'mɑːtʃə(r)/ n [C]  
 
-# ***<font color=#0099ff>\*margin</font>*** n
+# ***\*margin*** n
 英音 'mɑːdʒɪn     美音 'mɑːrdʒən  
 
 | 词频 1 | 书面 1 |  
@@ -1277,7 +1277,7 @@ marcher /'mɑːtʃə(r)/ n [C]
  > 毛利润    
 
 
-# ***<font color=#0099ff>\*mark</font>*** n
+# ***\*mark*** n
 英音 mɑːk     美音 mɑːrk  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -1325,14 +1325,14 @@ marcher /'mɑːtʃə(r)/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*leave one's mark (on)</font>
+## \*leave one's mark (on)
 1.**取得成功；出名：**  
 
  > *Winston Churchill has surely left his mark on world history.*  
  > 温斯顿 · 丘吉尔已然在世界历史上留下了大名。    
 
 
-# ***<font color=#0099ff>\*mark</font>*** vt
+# ***\*mark*** vt
 英音 mɑːk     美音 mɑːrk  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -1372,7 +1372,7 @@ marcher /'mɑːtʃə(r)/ n [C]
  > 我今晚有50份考卷要评分。    
 
 
-# ***<font color=#0099ff>\*market</font>*** n
+# ***\*market*** n
 英音 'mɑːkɪt     美音 'mɑːrkɪt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1397,14 +1397,14 @@ marcher /'mɑːtʃə(r)/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*on the market </font>
+## \*on the market 
 1.**在出售；可买到：**  
 
  > *There are several new models on the market. *  
  > 市面上有好几种新型号在售。  （译林⑦ – 1）  
 
 
-# ***<font color=#0099ff>\*market</font>*** vt
+# ***\*market*** vt
 英音 'mɑːkɪt     美音 'mɑːrkɪt  
 
 | 词频 5 |  
@@ -1417,7 +1417,7 @@ marcher /'mɑːtʃə(r)/ n [C]
  > 这些玩具是首批主要通过电视动画片来推销的产品之一。    
 
 
-# ***<font color=#0099ff>\*marketing</font>*** n
+# ***\*marketing*** n
 英音 'mɑːkɪtɪŋ     美音 'mɑːrkɪtɪŋ  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -1432,7 +1432,7 @@ marcher /'mɑːtʃə(r)/ n [C]
  > 营销服务/策略/手段    
 
 
-# ***<font color=#0099ff>\*marriage</font>*** n
+# ***\*marriage*** n
 英音 'mærɪdʒ     美音 'mærɪdʒ  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -1451,7 +1451,7 @@ marcher /'mɑːtʃə(r)/ n [C]
 ### 2.*高义频：* **[C] 结婚仪式；婚礼 (wedding)**  
 
 
-# ***<font color=#0099ff>\*married</font>*** adj
+# ***\*married*** adj
 英音 'mærid     美音 'mærid  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -1469,20 +1469,20 @@ marcher /'mɑːtʃə(r)/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*be married to </font>
+## \*be married to 
 1.**[表示状态] 与…结婚：**  
 
  > *They have been married to each other for 20 years. *  
  > 他们已经结婚20年了。    
 
-## <font color=#0099ff>\*get married to </font>
+## \*get married to 
 1.**[表示动作] 与…结婚：**  
 
  > *Jane got married to her husband immediately after graduation. *  
  > 简一毕业就嫁给了她丈夫。    
 
 
-# ***<font color=#0099ff>\*marry</font>*** v
+# ***\*marry*** v
 英音 'mæri     美音 'mæri  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -1508,7 +1508,7 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
  > 我叔叔直到45岁才结婚。    
 
 
-# ***<font color=#0099ff>\*marvellous</font>*** adj
+# ***\*marvellous*** adj
 英音 'mɑːvələs     美音 'mɑːrvələs  
 
 | 词频 1 | 口语 2 |  
@@ -1521,7 +1521,7 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
  > 无论发生什么，你都会度过一段精彩的时光。  （外研⑦ – 6）  
 
 
-# ***<font color=#0099ff>\*marvelous</font>*** adj
+# ***\*marvelous*** adj
 英音 'mɑːvələs     美音 'mɑːrvələs  
 
 | 词频 1 | 口语 2 |  
@@ -1534,7 +1534,7 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
  > 无论发生什么，你都会度过一段精彩的时光。  （外研⑦ – 6）  
 
 
-# ***<font color=#0099ff>\*mascot</font>*** n
+# ***\*mascot*** n
 英音 'mæskət     美音 'mæskɑːt  
 
 | 词频 1 |  
@@ -1546,7 +1546,7 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 ### 1.*高义频：* **吉祥物**  
 
 
-# ***<font color=#0099ff>\*mash</font>*** v
+# ***\*mash*** v
 英音 mæʃ     美音 mæʃ  
 
 | 词频 1 |  
@@ -1556,7 +1556,7 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 ### 1.**捣烂；捣成泥状**  
 
 
-# ***<font color=#0099ff>\*mask</font>*** n
+# ***\*mask*** n
 英音 mɑːsk     美音 mæsk  
 
 | 词频 1 |  
@@ -1575,7 +1575,7 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
  > 万圣节面具    
 
 
-# ***<font color=#0099ff>\*mask</font>*** vt
+# ***\*mask*** vt
 英音 mɑːsk     美音 mæsk  
 
 | 词频 1 |  
@@ -1588,7 +1588,7 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
  > 她用微笑掩饰愤怒。    
 
 
-# ***<font color=#0099ff>\*mass</font>*** n
+# ***\*mass*** n
 英音 mæs     美音 mæs  
 
 | 词频 4 | 书面 2 | 阅读 3 |  
@@ -1625,7 +1625,7 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 ### 4.*低义频：* **(物理学) 质量**  
 
 
-# ***<font color=#0099ff>\*mass</font>*** adj
+# ***\*mass*** adj
 英音 mæs     美音 mæs  
 
 | 词频 4 | 书面 1 | 阅读 3 |  
@@ -1642,7 +1642,7 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
  > 大量生产    
 
 
-# ***<font color=#0099ff>\*master</font>*** n
+# ***\*master*** n
 英音 'mɑːstə(r)     美音 'mæstər  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -1677,7 +1677,7 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
  > 文科/理科硕士    
 
 
-# ***<font color=#0099ff>\*master</font>*** vt
+# ***\*master*** vt
 英音 'mɑːstə(r)     美音 'mæstər  
 
 | 词频 4 |  
@@ -1693,7 +1693,7 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
  > 她努力克服自己的恐高症。    
 
 
-# ***<font color=#0099ff>\*masterpiece</font>*** n
+# ***\*masterpiece*** n
 英音 'mɑːstəpiːs     美音 'mæstərpiːs  
 
 | 词频 2 |  
@@ -1705,7 +1705,7 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 ### 1.*高义频：* **杰作；名著**  
 
 
-# ***<font color=#0099ff>\*mat</font>*** n
+# ***\*mat*** n
 英音 mæt     美音 mæt  
 
 | 词频 1 |  
@@ -1717,7 +1717,7 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 ### 1.*高义频：* **垫子**  
 
 
-# ***<font color=#0099ff>\*match</font>*** n
+# ***\*match*** n
 英音 mætʃ     美音 mætʃ  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -1766,7 +1766,7 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
  > 一盒火柴    
 
 
-# ***<font color=#0099ff>\*match</font>*** v
+# ***\*match*** v
 英音 mætʃ     美音 mætʃ  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -1816,7 +1816,7 @@ C.equipped
 答案：
 1. matched / matches  
 
-# ***<font color=#0099ff>\*mate</font>*** n
+# ***\*mate*** n
 英音 meɪt     美音 meɪt  
 
 | 词频 1 | 口语 2 |  
@@ -1828,7 +1828,7 @@ C.equipped
 ### 1.*高义频：* **配偶；同伴；朋友**  
 
 
-# ***<font color=#0099ff>\*material</font>*** n
+# ***\*material*** n
 英音 mə'tɪəriəl     美音 mə'tɪriəl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1863,7 +1863,7 @@ C.equipped
 答案：
 1. materials  
 
-# ***<font color=#0099ff>\*material</font>*** adj
+# ***\*material*** adj
 英音 mə'tɪəriəl     美音 mə'tɪriəl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1879,7 +1879,7 @@ C.equipped
 ---
 materially /mə'tɪəriəli/ adv   
 
-# ***<font color=#0099ff>\*mathematical</font>*** adj
+# ***\*mathematical*** adj
 英音 ˌmæθə'mætɪkl     美音 ˌmæθə'mætɪkl  
 
 | 词频 3 |  
@@ -1889,7 +1889,7 @@ materially /mə'tɪəriəli/ adv
 ### 1.*高义频：* **数学的**  
 
 
-# ***<font color=#0099ff>\*mathematics</font>*** n
+# ***\*mathematics*** n
 英音 ˌmæθə'mætɪks     美音 ˌmæθə'mætɪks  
 
 | 词频 4 |  
@@ -1901,7 +1901,7 @@ materially /mə'tɪəriəli/ adv
 ### 1.*高义频：* **数学**  
 
 
-# ***<font color=#0099ff>\*matter</font>*** n
+# ***\*matter*** n
 英音 'mætə(r)     美音 'mætər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1950,7 +1950,7 @@ materially /mə'tɪəriəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*a matter of</font>
+## \*a matter of
 1.**关乎…的事情：**  
 
  > *Observance of law is a matter of principle for us. *  
@@ -1959,7 +1959,7 @@ materially /mə'tɪəriəli/ adv
  > *Reducing the number of road deaths is not simply a matter of improving roads. *  
  > 减少交通事故的死亡人数不单是改善道路状况的问题。    
 
-## <font color=#0099ff>\*no matter </font>
+## \*no matter 
 1.**[与疑问词连用] 无论；不管：**  
 
  > **no matter what**  
@@ -1970,7 +1970,7 @@ materially /mə'tɪəriəli/ adv
  > *No matter how hard the rain falls and the wind blows, the police keep to their posts. *  
  > 无论雨多急、风多大，警察一直坚守在自己的岗位上。    
 
-## <font color=#0099ff>\*take matters in to one's own hands</font>
+## \*take matters in to one's own hands
 1.**亲自处理**  
 
  > *Alia took matters into her own hands.*  
@@ -1989,7 +1989,7 @@ D.variety
 答案：
 1. bad → worse  2. a matter of  
 
-# ***<font color=#0099ff>\*matter</font>*** vi
+# ***\*matter*** vi
 英音 'mætə(r)     美音 'mætər  
 
 | 词频 5 | 口语 3 | 书面 1 |  
@@ -2011,7 +2011,7 @@ D.variety
 
 Notes: matter作动词用时，主要用于疑问句和否定句，并且不用于进行时态。  
 
-# ***<font color=#0099ff>\*mature</font>*** adj
+# ***\*mature*** adj
 英音 mə'tʃʊə(r)     美音 mə'tʃʊr  
 
 | 词频 2 | 阅读 1 |  
@@ -2028,7 +2028,7 @@ Notes: matter作动词用时，主要用于疑问句和否定句，并且不用�
  > 成熟的桃子    
 
 
-# ***<font color=#0099ff>\*mature</font>*** v
+# ***\*mature*** v
 英音 mə'tʃʊə(r)     美音 mə'tʃʊr  
 
 | 词频 2 |  
@@ -2038,7 +2038,7 @@ Notes: matter作动词用时，主要用于疑问句和否定句，并且不用�
 ### 1.**成熟，使充分发展**  
 
 
-# ***<font color=#0099ff>\*maximum</font>*** n
+# ***\*maximum*** n
 英音 'mæksɪməm     美音 'mæksɪməm  
 
 | 词频 2 | 阅读 2 |  
@@ -2054,7 +2054,7 @@ Notes: matter作动词用时，主要用于疑问句和否定句，并且不用�
  > 你最多可从图书馆借10本书。    
 
 
-# ***<font color=#0099ff>\*maximum</font>*** adj
+# ***\*maximum*** adj
 英音 'mæksɪməm     美音 'mæksɪməm  
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 2 |  
@@ -2069,7 +2069,7 @@ Notes: matter作动词用时，主要用于疑问句和否定句，并且不用�
  > 最高速度    
 
 
-# ***<font color=#0099ff>\*may</font>*** modal v
+# ***\*may*** modal v
 英音 meɪ     美音 meɪ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2114,7 +2114,7 @@ Notes: matter作动词用时，主要用于疑问句和否定句，并且不用�
 
 固定搭配
 ---
-## <font color=#0099ff>\*may as well (do) </font>
+## \*may as well (do) 
 1.**还是 (做) …好；倒不如 (做)：**  
 
  > *You may as well go home. He isn’t coming. *  
@@ -2143,7 +2143,7 @@ D.would
 答案：
 1. D  2. B  3. B  
 
-# ***<font color=#0099ff>\*maybe</font>*** adv
+# ***\*maybe*** adv
 英音 'meɪbi     美音 'meɪbi  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -2165,7 +2165,7 @@ D.would
  > 也许会吧。/可能不会。    
 
 
-# ***<font color=#0099ff>\*mayor</font>*** n
+# ***\*mayor*** n
 英音 meə(r)     美音 'meɪər  
 
 | 词频 2 |  
@@ -2177,7 +2177,7 @@ D.would
 ### 1.*高义频：* **市长**  
 
 
-# ***<font color=#0099ff>\*maze</font>*** n
+# ***\*maze*** n
 英音 meɪz     美音 meɪz  
 
 | 词频 1 |  
@@ -2187,7 +2187,7 @@ D.would
 ### 1.**迷宫，曲径**  
 
 
-# ***<font color=#0099ff>\*me</font>*** pron
+# ***\*me*** pron
 英音 mi, mi:     美音 mi, mi:  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2199,7 +2199,7 @@ D.would
 ### 1.*高义频：* **我**  
 
 
-# ***<font color=#0099ff>\*meal</font>*** n
+# ***\*meal*** n
 英音 miːl     美音 miːl  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -2219,7 +2219,7 @@ D.would
  > 做饭    
 
 
-# ***<font color=#0099ff>\*mean</font>*** v
+# ***\*mean*** v
 英音 miːn     美音 miːn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2306,13 +2306,13 @@ D.would
 
 固定搭配
 ---
-## <font color=#0099ff>\*be meant to be </font>
+## \*be meant to be 
 1.**被普遍认为是：**  
 
  > *The restaurant is meant to be excellent. *  
  > 大家都说这家饭店很棒。    
 
-## <font color=#0099ff>\*I mean </font>
+## \*I mean 
 1.**[用于解释或更正刚说过的话] 我 (的意思) 是说：**  
 
  > *— What do you think is the matter with your car?*  
@@ -2321,7 +2321,7 @@ D.would
  > *— Well, it wouldn’t start at all. I mean, I turned the key and nothing happened. *  
  > 唉，它根本发动不起来，我是说，我转动了钥匙，结果什么反应也没有。    
 
-## <font color=#0099ff>\*What do you mean ... ?</font>
+## \*What do you mean ... ?
 1.**你是什么意思？**  
 
 - 
@@ -2346,7 +2346,7 @@ D.would
 答案：
 1. to eat; trying  2. getting  
 
-# ***<font color=#0099ff>\*mean</font>*** adj
+# ***\*mean*** adj
 英音 miːn     美音 miːn  
 
 | 词频 1 |  
@@ -2366,7 +2366,7 @@ D.would
  > 说别人坏话是卑鄙的行为。    
 
 
-# ***<font color=#0099ff>\*meander</font>*** n
+# ***\*meander*** n
 英音 mi'ændə(r)     美音 mi'ændər  
 
 | 词频 1 |  
@@ -2376,7 +2376,7 @@ D.would
 ### 1.*高义频：* **(指河流等) 蜿蜒缓慢流动**  
 
 
-# ***<font color=#0099ff>\*meaning</font>*** n
+# ***\*meaning*** n
 英音 'miːnɪŋ     美音 'miːnɪŋ  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -2403,7 +2403,7 @@ meaningless  /'miːnɪŋləs/ adj
  > 不要让毫无意义的事充斥我们的生活。    
 
 
-# ***<font color=#0099ff>\*means</font>*** n
+# ***\*means*** n
 英音 miːnz     美音 miːnz  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2425,7 +2425,7 @@ meaningless  /'miːnɪŋləs/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*by all means </font>
+## \*by all means 
 1.**尽一切办法；务必；[表示答应] 当然可以：**  
 
  > *Please by all means hand in the report on time. *  
@@ -2437,13 +2437,13 @@ meaningless  /'miːnɪŋləs/ adj
  > *— By all means. *  
  > 当然。    
 
-## <font color=#0099ff>\*by means of</font>
+## \*by means of
 1.**[正式用语] 借助；依靠：**  
 
  > *This is a two-year course taught by means of lectures.*  
  > 这是一门为期两年的通过讲座形式教授的课程。    
 
-## <font color=#0099ff>\*by no means / not by any means</font>
+## \*by no means / not by any means
 1.**决不；一点也不 not at all：**  
 
  > *Punishment is by no means a wise choice to help students grow up mentally and physically.*  
@@ -2465,7 +2465,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 答案：
 1. by  
 
-# ***<font color=#0099ff>\*meantime</font>*** adv
+# ***\*meantime*** adv
 英音 'miːntaɪm     美音 'miːntaɪm  
 
 | 词频 2 |  
@@ -2477,14 +2477,14 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 
 固定搭配
 ---
-## <font color=#0099ff>\*in the meantime</font>
+## \*in the meantime
 1.**在此期间；与此同时：**  
 
  > *The doctor will be here soon. In the meantime, try and relax.*  
  > 医生很快就来。现在尽量放松一下吧。    
 
 
-# ***<font color=#0099ff>\*meanwhile</font>*** adv
+# ***\*meanwhile*** adv
 英音 'miːnwaɪl     美音 'miːnwaɪl  
 
 | 词频 4 | 书面 2 | 阅读 3 |  
@@ -2499,7 +2499,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 妈妈去买东西，与此同时，我打扫房间。    
 
 
-# ***<font color=#0099ff>\*meanwhile</font>*** n
+# ***\*meanwhile*** n
 英音 'miːnwaɪl     美音 'miːnwaɪl  
 
 | 词频 4 | 书面 2 | 阅读 3 |  
@@ -2513,7 +2513,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 
 固定搭配
 ---
-## <font color=#0099ff>\*in the meanwhile / meantime </font>
+## \*in the meanwhile / meantime 
 1.**在此期间；与此同时：**  
 
  > *Please find a taxi, and in the meanwhile I’ll pack some food. *  
@@ -2527,7 +2527,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 答案：
 1. In  
 
-# ***<font color=#0099ff>\*measure</font>*** n  重难点词汇
+# ***\*measure*** n  重难点词汇
 英音 'meʒə(r)     美音 'meʒər  
 
 | 词频 4 | 书面 2 |  
@@ -2565,7 +2565,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 是时候我们应该采取措施保护濒危动物了。    
 
 
-# ***<font color=#0099ff>\*measure</font>*** v  重难点词汇
+# ***\*measure*** v  重难点词汇
 英音 'meʒə(r)     美音 'meʒər  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2606,7 +2606,7 @@ measurement /'meʒəmənt/ n
 答案：
 1. measuring  
 
-# ***<font color=#0099ff>\*measurement</font>*** n
+# ***\*measurement*** n
 英音 'meʒəmənt     美音 'meʒərmənt  
 
 | 词频 1 | 书面 1 |  
@@ -2618,7 +2618,7 @@ measurement /'meʒəmənt/ n
 ### 1.*高义频：* **衡量；测量；尺寸**  
 
 
-# ***<font color=#0099ff>\*meat</font>*** n
+# ***\*meat*** n
 英音 miːt     美音 miːt  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -2641,7 +2641,7 @@ measurement /'meʒəmənt/ n
  > 我们接下来进入了辩论的最精彩部分。    
 
 
-# ***<font color=#0099ff>\*mechanic</font>*** n
+# ***\*mechanic*** n
 英音 mə'kænɪk     美音 mə'kænɪk  
 
 | 词频 2 | 阅读 1 |  
@@ -2656,7 +2656,7 @@ measurement /'meʒəmənt/ n
  > 汽车修理工    
 
 
-# ***<font color=#0099ff>\*mechanical</font>*** adj
+# ***\*mechanical*** adj
 英音 mə'kænɪkl     美音 mə'kænɪkl  
 
 | 词频 2 | 阅读 1 |  
@@ -2673,7 +2673,7 @@ measurement /'meʒəmənt/ n
  > 被问过无数次同样的问题，他的回答变得十分机械。    
 
 
-# ***<font color=#0099ff>\*medal</font>*** n
+# ***\*medal*** n
 英音 'medl     美音 'medl  
 
 | 词频 3 |  
@@ -2689,7 +2689,7 @@ measurement /'meʒəmənt/ n
  > 我永远不会忘记夺得第一枚金牌时的情景。  （译林⑤ – 1）  
 
 
-# ***<font color=#0099ff>\*media</font>*** n
+# ***\*media*** n
 英音 'miːdiə     美音 'miːdiə  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2705,7 +2705,7 @@ measurement /'meʒəmənt/ n
  > 人们指责大众传媒影响了最终的决定。    
 
 
-# ***<font color=#0099ff>\*mediator</font>*** n
+# ***\*mediator*** n
 英音 'miːdieɪtə(r)     美音 'miːdieɪtər  
 
 | 词频 1 |  
@@ -2715,7 +2715,7 @@ measurement /'meʒəmənt/ n
 ### 1.**调解员；斡旋者**  
 
 
-# ***<font color=#0099ff>\*medical</font>*** adj
+# ***\*medical*** adj
 英音 'medɪkl     美音 'medɪkl  
 
 | 词频 5 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -2731,7 +2731,7 @@ measurement /'meʒəmənt/ n
  > 医科学生；医学院/医科大学    
 
 
-# ***<font color=#0099ff>\*medicine</font>*** n
+# ***\*medicine*** n
 英音 'medsn,'medɪsn     美音 'medsn,'medɪsn  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -2760,7 +2760,7 @@ measurement /'meʒəmənt/ n
 答案：
 1. medicine  
 
-# ***<font color=#0099ff>\*medieval</font>*** adj
+# ***\*medieval*** adj
 英音 ˌmedi'iːvl     美音 ˌmedi'iːvl  
 
 | 词频 1 |  
@@ -2770,7 +2770,7 @@ measurement /'meʒəmənt/ n
 ### 1.**中世纪的**  
 
 
-# ***<font color=#0099ff>\*medium</font>*** n
+# ***\*medium*** n
 英音 'miːdiəm     美音 'miːdiəm  
 
 | 词频 2 | 阅读 2 |  
@@ -2793,7 +2793,7 @@ measurement /'meʒəmənt/ n
  > 电视会是一种绝好的教育手段。    
 
 
-# ***<font color=#0099ff>\*medium</font>*** adj
+# ***\*medium*** adj
 英音 'miːdiəm     美音 'miːdiəm  
 
 | 词频 2 | 口语 1 |  
@@ -2807,7 +2807,7 @@ measurement /'meʒəmənt/ n
  > 中等身高的男子    
 
 
-# ***<font color=#0099ff>\*meet</font>*** v
+# ***\*meet*** v
 英音 miːt     美音 miːt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2873,14 +2873,14 @@ measurement /'meʒəmənt/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*meet up</font>
+## \*meet up
 1.**碰面；会面：**  
 
  > **meet up with**  
  > *I’ve got to go now, but I’ll meet up with you later.*  
  > 我现在要走了，但是以后我们还会再见。    
 
-## <font color=#0099ff>\*meet with</font>
+## \*meet with
 1.*高义频：* **会见；会晤：**  
 
  > *I'm going to meet with Professor Smith at ten past two.*  
@@ -2896,7 +2896,7 @@ measurement /'meʒəmənt/ n
  > 无论遇到什么问题，他从不放弃。  （2013 天津）  
 
 
-# ***<font color=#0099ff>\*meet</font>*** n
+# ***\*meet*** n
 英音 miːt     美音 miːt  
 
 | 词频 5 |  
@@ -2911,7 +2911,7 @@ measurement /'meʒəmənt/ n
  > 下周要举行运动会。    
 
 
-# ***<font color=#0099ff>\*meeting</font>*** n
+# ***\*meeting*** n
 英音 'miːtɪŋ     美音 'miːtɪŋ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2943,7 +2943,7 @@ measurement /'meʒəmənt/ n
 ### 3.*低义频：* **运动会**  
 
 
-# ***<font color=#0099ff>\*melodie</font>*** n
+# ***\*melodie*** n
 英音 melə'di     美音 'melədi  
 
 | 词频 1 |  
@@ -2953,7 +2953,7 @@ measurement /'meʒəmənt/ n
 ### 1.**<旧>乐曲，歌曲**  
 
 
-# ***<font color=#0099ff>\*melody</font>*** n
+# ***\*melody*** n
 英音 'melədi     美音 'melədi  
 
 | 词频 1 |  
@@ -2963,7 +2963,7 @@ measurement /'meʒəmənt/ n
 ### 1.**旋律**  
 
 
-# ***<font color=#0099ff>\*melon</font>*** n
+# ***\*melon*** n
 英音 'melən     美音 'melən  
 
 | 词频 1 |  
@@ -2976,7 +2976,7 @@ measurement /'meʒəmənt/ n
  > 西瓜    
 
 
-# ***<font color=#0099ff>\*melt</font>*** v
+# ***\*melt*** v
 英音 melt     美音 melt  
 
 | 词频 2 |  
@@ -2989,7 +2989,7 @@ measurement /'meʒəmənt/ n
  > 覆盖南极的冰已经开始融化了。  （外研③–7）  
 
 
-# ***<font color=#0099ff>\*member</font>*** n
+# ***\*member*** n
 英音 'membə(r)     美音 'membər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3004,7 +3004,7 @@ measurement /'meʒəmənt/ n
  > 家庭成员/组员/队员    
 
 
-# ***<font color=#0099ff>\*membership</font>*** n
+# ***\*membership*** n
 英音 'membəʃɪp     美音 'membərʃɪp  
 
 | 词频 3 | 口语 2 | 书面 2 | 阅读 2 |  
@@ -3028,7 +3028,7 @@ measurement /'meʒəmənt/ n
  > 总共有多少会员？    
 
 
-# ***<font color=#0099ff>\*memorable</font>*** adj
+# ***\*memorable*** adj
 英音 'memərəbl     美音 'memərəbl  
 
 | 词频 3 |  
@@ -3038,7 +3038,7 @@ measurement /'meʒəmənt/ n
 ### 1.**难忘的，特别的，值得回忆的**  
 
 
-# ***<font color=#0099ff>\*memorial</font>*** adj
+# ***\*memorial*** adj
 英音 mə'mɔːriəl     美音 mə'mɔːriəl  
 
 | 词频 2 |  
@@ -3051,7 +3051,7 @@ measurement /'meʒəmənt/ n
  > 纪念日/纪念奖    
 
 
-# ***<font color=#0099ff>\*memorial</font>*** n
+# ***\*memorial*** n
 英音 mə'mɔːriəl     美音 mə'mɔːriəl  
 
 | 词频 2 |  
@@ -3067,7 +3067,7 @@ measurement /'meʒəmənt/ n
  > 这尊塑像是纪念全体阵亡战士的。    
 
 
-# ***<font color=#0099ff>\*memorize</font>*** v
+# ***\*memorize*** v
 英音 'meməraɪz     
 
   
@@ -3077,7 +3077,7 @@ measurement /'meʒəmənt/ n
 ### 1.**记住；记录；记下**  
 
 
-# ***<font color=#0099ff>\*memory</font>*** n
+# ***\*memory*** n
 英音 'meməri     美音 'meməri  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -3117,14 +3117,14 @@ measurement /'meʒəmənt/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*in memory of </font>
+## \*in memory of 
 1.**作为对…的纪念；纪念：**  
 
  > *A film will be made in memory of those brave fire fighters. *  
  > 为了纪念那些勇敢的消防战士，一部电影即将开拍。  （2009 上海）  
 
 
-# ***<font color=#0099ff>\*mend</font>*** v
+# ***\*mend*** v
 英音 mend     美音 mend  
 
 | 词频 2 |  
@@ -3140,7 +3140,7 @@ measurement /'meʒəmənt/ n
  > 大多数受损的友谊是可以修复的。  （2006 全国改）  
 
 
-# ***<font color=#0099ff>\*mental</font>*** adj
+# ***\*mental*** adj
 英音 'mentl     美音 'mentl  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -3166,7 +3166,7 @@ mentally /'mentəli/ adv
  > 我开始在脑子里盘算我该做哪些事情。    
 
 
-# ***<font color=#0099ff>\*mentally</font>*** adv
+# ***\*mentally*** adv
 英音 'mentəli     美音 'mentəli  
 
 | 词频 3 |  
@@ -3176,7 +3176,7 @@ mentally /'mentəli/ adv
 ### 1.*高义频：* **精神上；智力上**  
 
 
-# ***<font color=#0099ff>\*mention</font>*** vt
+# ***\*mention*** vt
 英音 'menʃn     美音 'menʃn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3206,10 +3206,10 @@ mentally /'mentəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*Don’t mention it. </font>
+## \*Don’t mention it. 
 1.**[答复别人道谢时的用语] 不用客气。**  
 
-## <font color=#0099ff>\*not to mention </font>
+## \*not to mention 
 1.**更不用提：**  
 
  > *When starting your own business, you shouldn’t think of a free day, not to mention flying off for a month’s vacation. *  
@@ -3223,7 +3223,7 @@ mentally /'mentəli/ adv
 答案：
 1. being / having been promoted  
 
-# ***<font color=#0099ff>\*mention</font>*** n
+# ***\*mention*** n
 英音 'menʃn     美音 'menʃn  
 
 | 词频 5 |  
@@ -3239,7 +3239,7 @@ mentally /'mentəli/ adv
  > 她没有提到她母亲的病。    
 
 
-# ***<font color=#0099ff>\*menu</font>*** n
+# ***\*menu*** n
 英音 'menjuː     美音 'menjuː  
 
 | 词频 3 | 口语 1 |  
@@ -3258,7 +3258,7 @@ mentally /'mentəli/ adv
  > 下拉式菜单    
 
 
-# ***<font color=#0099ff>\*merchant</font>*** n
+# ***\*merchant*** n
 英音 'mɜːtʃənt     美音 'mɜːrtʃənt  
 
 | 词频 3 |  
@@ -3270,7 +3270,7 @@ mentally /'mentəli/ adv
 ### 1.**商人**  
 
 
-# ***<font color=#0099ff>\*merchant</font>*** adj
+# ***\*merchant*** adj
 英音 'mɜːtʃənt     美音 'mɜːrtʃənt  
 
 | 词频 3 |  
@@ -3285,7 +3285,7 @@ mentally /'mentəli/ adv
  > 商船    
 
 
-# ***<font color=#0099ff>\*merciful</font>*** adj
+# ***\*merciful*** adj
 英音 'mɜːsɪfl     美音 'mɜːrsɪfl  
 
 | 词频 1 |  
@@ -3298,7 +3298,7 @@ mentally /'mentəli/ adv
  > 仁慈的国王救了他一命。    
 
 
-# ***<font color=#0099ff>\*mercy</font>*** n
+# ***\*mercy*** n
 英音 'mɜːsi     美音 'mɜːrsi  
 
 | 词频 1 |  
@@ -3320,14 +3320,14 @@ mentally /'mentəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*at the mercy of </font>
+## \*at the mercy of 
 1.**完全受…支配；任凭…摆布：**  
 
  > *The little ship was at the mercy of the storm. *  
  > 小船在暴风雨中失去控制。    
 
 
-# ***<font color=#0099ff>\*mere</font>*** adj
+# ***\*mere*** adj
 英音 mɪə(r)     美音 mɪr  
 
 | 词频 2 | 书面 1 |  
@@ -3347,7 +3347,7 @@ mentally /'mentəli/ adv
  > 仅仅一提到蛇都会使她恶心。    
 
 
-# ***<font color=#0099ff>\*merely</font>*** adv
+# ***\*merely*** adv
 英音 'mɪəli     美音 'mɪrli  
 
 | 词频 3 | 口语 1 | 书面 2 |  
@@ -3371,7 +3371,7 @@ mentally /'mentəli/ adv
 答案：
 1. merely  
 
-# ***<font color=#0099ff>\*merrily</font>*** adv
+# ***\*merrily*** adv
 英音 'merəli     美音 'merəli  
 
 | 词频 1 |  
@@ -3381,7 +3381,7 @@ mentally /'mentəli/ adv
 ### 1.*高义频：* **高兴地；愉快地**  
 
 
-# ***<font color=#0099ff>\*merry</font>*** adj
+# ***\*merry*** adj
 英音 'meri     美音 'meri  
 
 | 词频 1 |  
@@ -3398,7 +3398,7 @@ mentally /'mentəli/ adv
  > 村子里家家都过着快乐的生活。    
 
 
-# ***<font color=#0099ff>\*mess</font>*** n
+# ***\*mess*** n
 英音 mes     美音 mes  
 
 | 词频 2 | 口语 2 |  
@@ -3424,7 +3424,7 @@ mentally /'mentəli/ adv
  > 我觉得我把事情弄得一团糟。    
 
 
-# ***<font color=#0099ff>\*mess</font>*** vt
+# ***\*mess*** vt
 英音 mes     美音 mes  
 
 | 词频 2 | 口语 2 |  
@@ -3436,7 +3436,7 @@ mentally /'mentəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*mess up </font>
+## \*mess up 
 1.**弄脏；弄乱；弄糟：**  
 
  > *Don’t mess up the house while I’m gone. *  
@@ -3445,11 +3445,11 @@ mentally /'mentəli/ adv
  > *It doesn't matter if you mess it up; you can always try again.*  
  > 要是搞砸了也没关系，你总是可以再来一次的。    
 
-## <font color=#0099ff>\*mess with</font>
+## \*mess with
 1.**与…有牵连；欺骗；试图改变**  
 
 
-# ***<font color=#0099ff>\*message</font>*** n
+# ***\*message*** n
 英音 'mesɪdʒ     美音 'mesɪdʒ  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -3477,7 +3477,7 @@ mentally /'mentəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*get the message </font>
+## \*get the message 
 1.**领悟；理解；明白 (别人的暗示)：**  
 
  > *— Mark, I think you’re the right person for the job.*  
@@ -3494,7 +3494,7 @@ mentally /'mentəli/ adv
 答案：
 1. message  
 
-# ***<font color=#0099ff>\*messenger</font>*** n
+# ***\*messenger*** n
 英音 'mesɪndʒə(r)     美音 'mesɪndʒər  
 
 | 词频 1 |  
@@ -3506,7 +3506,7 @@ mentally /'mentəli/ adv
 ### 1.*高义频：* **送信者；通信员**  
 
 
-# ***<font color=#0099ff>\*messy</font>*** adj
+# ***\*messy*** adj
 英音 'mesi     美音 'mesi  
 
 | 词频 1 | 口语 1 |  
@@ -3527,7 +3527,7 @@ mentally /'mentəli/ adv
  > 真是相当棘手的任务！  （人教⑧ – 5）  
 
 
-# ***<font color=#0099ff>\*metal</font>*** n
+# ***\*metal*** n
 英音 'metl     美音 'metl  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -3539,7 +3539,7 @@ mentally /'mentəli/ adv
 ### 1.*高义频：* **金属；金属制品**  
 
 
-# ***<font color=#0099ff>\*metaphor</font>*** n
+# ***\*metaphor*** n
 英音 'metəfə(r)     美音 'metəfər  
 
 | 词频 1 |  
@@ -3551,7 +3551,7 @@ mentally /'mentəli/ adv
 ### 1.**暗喻；隐喻**  
 
 
-# ***<font color=#0099ff>\*metaphorical</font>*** adj
+# ***\*metaphorical*** adj
 英音 ˌmetə'fɒrɪkl     美音 ˌmetə'fɔːrɪkl  
 
 | 词频 1 |  
@@ -3561,7 +3561,7 @@ mentally /'mentəli/ adv
 ### 1.**隐喻的；暗喻的**  
 
 
-# ***<font color=#0099ff>\*meteorite</font>*** n
+# ***\*meteorite*** n
 英音 'miːtiəraɪt     美音 'miːtiəraɪt  
 
 | 词频 1 |  
@@ -3571,7 +3571,7 @@ mentally /'mentəli/ adv
 ### 1.**陨石**  
 
 
-# ***<font color=#0099ff>\*meter</font>*** n
+# ***\*meter*** n
 英音 'miːtə(r)     美音 'miːtər  
 
 | 词频 1 |  
@@ -3586,7 +3586,7 @@ mentally /'mentəli/ adv
  > 煤气表 / 出租车计价器    
 
 
-# ***<font color=#0099ff>\*methane</font>*** n
+# ***\*methane*** n
 英音 'miːθeɪn     美音 'mɛθeɪn  
 
 | 词频 1 |  
@@ -3598,7 +3598,7 @@ mentally /'mentəli/ adv
 ### 1.*高义频：* **甲烷；沼气**  
 
 
-# ***<font color=#0099ff>\*method</font>*** n
+# ***\*method*** n
 英音 'meθəd     美音 'meθəd  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -3624,7 +3624,7 @@ mentally /'mentəli/ adv
 答案：
 1. of/for  
 
-# ***<font color=#0099ff>\*metre</font>*** n
+# ***\*metre*** n
 英音 'miːtə(r)     美音 'miːtər  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -3639,7 +3639,7 @@ mentally /'mentəli/ adv
  > 这个房间的面积为20平方米。    
 
 
-# ***<font color=#0099ff>\*metropolitan</font>*** adj
+# ***\*metropolitan*** adj
 英音 ˌmetrə'pɒlɪtən     美音 ˌmetrə'pɑːlɪtən  
 
 | 词频 1 |  
@@ -3649,7 +3649,7 @@ mentally /'mentəli/ adv
 ### 1.*高义频：* **主要都市的；大城市的**  
 
 
-# ***<font color=#0099ff>\*microphone</font>*** n
+# ***\*microphone*** n
 英音 'maɪkrəfəʊn     美音 'maɪkrəfoʊn  
 
 | 词频 1 |  
@@ -3661,7 +3661,7 @@ mentally /'mentəli/ adv
 ### 1.*高义频：* **麦克风；话筒**  
 
 
-# ***<font color=#0099ff>\*microscope</font>*** n
+# ***\*microscope*** n
 英音 'maɪkrəskəʊp     美音 'maɪkrəskoʊp  
 
 | 词频 1 |  
@@ -3673,7 +3673,7 @@ mentally /'mentəli/ adv
 ### 1.*高义频：* **显微镜**  
 
 
-# ***<font color=#0099ff>\*microwave</font>*** n
+# ***\*microwave*** n
 英音 'maɪkrəweɪv     美音 'maɪkrəweɪv  
 
 | 词频 1 |  
@@ -3688,7 +3688,7 @@ mentally /'mentəli/ adv
  > 微波炉    
 
 
-# ***<font color=#0099ff>\*mid-</font>*** prefix
+# ***\*mid-*** prefix
 英音 mɪd     美音 mɪd  
 
 | 词频 2 |  
@@ -3698,7 +3698,7 @@ mentally /'mentəli/ adv
 ### 1.*高义频：* **中部；中间；当中**  
 
 
-# ***<font color=#0099ff>\*midday</font>*** n
+# ***\*midday*** n
 英音 ˌmɪd'deɪ     美音 ˌmɪd'deɪ  
 
 | 词频 2 |  
@@ -3710,7 +3710,7 @@ mentally /'mentəli/ adv
 ### 1.*高义频：* **正午；日中**  
 
 
-# ***<font color=#0099ff>\*middle</font>*** adj
+# ***\*middle*** adj
 英音 'mɪdl     美音 'mɪdl  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -3740,7 +3740,7 @@ mentally /'mentəli/ adv
 答案：
 1. on → of  
 
-# ***<font color=#0099ff>\*middle</font>*** n
+# ***\*middle*** n
 英音 'mɪdl     美音 'mɪdl  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -3770,7 +3770,7 @@ mentally /'mentəli/ adv
  > 我正在收拾东西，突然整个街区都停电了。    
 
 
-# ***<font color=#0099ff>\*middle-aged</font>*** adj
+# ***\*middle-aged*** adj
 英音 middle-aged     美音 'mɪdl eɪdʒd  
 
   
@@ -3780,7 +3780,7 @@ mentally /'mentəli/ adv
 ### 1.**中年的**  
 
 
-# ***<font color=#0099ff>\*midnight</font>*** n
+# ***\*midnight*** n
 英音 'mɪdnaɪt     美音 'mɪdnaɪt  
 
 | 词频 3 | 口语 1 |  
@@ -3800,7 +3800,7 @@ mentally /'mentəli/ adv
  > 工作/学习到深夜；开夜车    
 
 
-# ***<font color=#0099ff>\*midwestern</font>*** adj
+# ***\*midwestern*** adj
 英音 ˌmɪd'westən     美音 ˌmɪd'westən  
 
 | 词频 1 |  
@@ -3810,7 +3810,7 @@ mentally /'mentəli/ adv
 ### 1.*高义频：* **中西部的; 有中西部特性的**  
 
 
-# ***<font color=#0099ff>\*might</font>*** modal v
+# ***\*might*** modal v
 英音 maɪt     美音 maɪt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3873,7 +3873,7 @@ D. should
 答案：
 1. D  2. A  
 
-# ***<font color=#0099ff>\*migrant</font>*** n
+# ***\*migrant*** n
 英音 'maɪɡrənt     美音 'maɪɡrənt  
 
 | 词频 1 |  
@@ -3883,7 +3883,7 @@ D. should
 ### 1.**移民**  
 
 
-# ***<font color=#0099ff>\*migrate</font>*** v
+# ***\*migrate*** v
 英音 maɪ'ɡreɪt     美音 'maɪɡreɪt  
 
   
@@ -3893,7 +3893,7 @@ D. should
 ### 1.**移栖，迁徙**  
 
 
-# ***<font color=#0099ff>\*migration</font>*** n
+# ***\*migration*** n
 英音 maɪ'ɡreɪʃn     美音 maɪ'ɡreɪʃn  
 
 | 词频 2 |  
@@ -3908,7 +3908,7 @@ D. should
  > 城市化进程——人们从农村移居到城市——是现代化的结果。  （2013 北京）  
 
 
-# ***<font color=#0099ff>\*mild</font>*** adj
+# ***\*mild*** adj
 英音 maɪld     美音 maɪld  
 
 | 词频 2 |  
@@ -3944,7 +3944,7 @@ D. should
  > 味道清淡的奶酪    
 
 
-# ***<font color=#0099ff>\*mildly</font>*** adv
+# ***\*mildly*** adv
 英音 'maɪldli     美音 'maɪldli  
 
 | 词频 1 |  
@@ -3954,7 +3954,7 @@ D. should
 ### 1.*高义频：* **轻微地；温和地**  
 
 
-# ***<font color=#0099ff>\*mile</font>*** n
+# ***\*mile*** n
 英音 maɪl     美音 maɪl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3969,7 +3969,7 @@ D. should
  > 孜孜以求；加倍努力    
 
 
-# ***<font color=#0099ff>\*military</font>*** adj
+# ***\*military*** adj
 英音 'mɪlətri     美音 'mɪləteri  
 
 | 词频 3 | 口语 2 | 书面 3 | 阅读 2 |  
@@ -3983,7 +3983,7 @@ D. should
  > 采取军事行动    
 
 
-# ***<font color=#0099ff>\*milk</font>*** n
+# ***\*milk*** n
 英音 mɪlk     美音 mɪlk  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -3995,7 +3995,7 @@ D. should
 ### 1.*高义频：* **奶；牛奶； (植物的) 乳液**  
 
 
-# ***<font color=#0099ff>\*milk</font>*** vt
+# ***\*milk*** vt
 英音 mɪlk     美音 mɪlk  
 
 | 词频 4 |  
@@ -4008,7 +4008,7 @@ D. should
  > 挤牛奶    
 
 
-# ***<font color=#0099ff>\*mill</font>*** n
+# ***\*mill*** n
 英音 mɪl     美音 mɪl  
 
 | 词频 1 |  
@@ -4018,7 +4018,7 @@ D. should
 ### 1.**工厂；制造厂**  
 
 
-# ***<font color=#0099ff>\*millennium</font>*** n
+# ***\*millennium*** n
 英音 mɪ'leniəm     美音 mɪ'leniəm  
 
 | 词频 1 |  
@@ -4028,7 +4028,7 @@ D. should
 ### 1.**千年**  
 
 
-# ***<font color=#0099ff>\*millimetre</font>*** n
+# ***\*millimetre*** n
 英音 'mɪlimiːtə(r)     美音 'mɪlimiːtər  
 
 | 词频 2 |  
@@ -4040,7 +4040,7 @@ D. should
 ### 1.**毫米 (mm)**  
 
 
-# ***<font color=#0099ff>\*million</font>*** num
+# ***\*million*** num
 英音 'mɪljən     美音 'mɪljən  
 
 | 词频 5 |  
@@ -4054,7 +4054,7 @@ D. should
  > 成千上万的奶牛不再产奶，五十万头猪和千百万只小鸡全都死了。  （人教① – 4）  
 
 
-# ***<font color=#0099ff>\*millionaire</font>*** n
+# ***\*millionaire*** n
 英音 ˌmɪljə'neə(r)     美音 ˌmɪljə'ner  
 
 | 词频 2 |  
@@ -4066,7 +4066,7 @@ D. should
 ### 1.*高义频：* **百万富翁；巨富**  
 
 
-# ***<font color=#0099ff>\*millipede</font>*** n
+# ***\*millipede*** n
 英音 'mɪlɪpiːd     美音 'mɪləˌpiːd  
 
 | 词频 1 |  
@@ -4078,7 +4078,7 @@ D. should
 ### 1.*高义频：* **(= millepede) 千足虫**  
 
 
-# ***<font color=#0099ff>\*mime</font>*** n
+# ***\*mime*** n
 英音 maɪm     美音 maɪm  
 
 | 词频 1 |  
@@ -4090,7 +4090,7 @@ D. should
 ### 1.*高义频：* **哑剧**  
 
 
-# ***<font color=#0099ff>\*mind</font>*** n  重难点词汇
+# ***\*mind*** n  重难点词汇
 英音 maɪnd     美音 maɪnd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4131,13 +4131,13 @@ D. should
 
 固定搭配
 ---
-## <font color=#0099ff>\*be of the same mind </font>
+## \*be of the same mind 
 1.**意见相同；保持原来的意见：**  
 
  > *We are all of the same mind about this issue. *  
  > 我们在这个问题上意见一致。    
 
-## <font color=#0099ff>\*bear / keep … in mind </font>
+## \*bear / keep … in mind 
 1.**将…记在心中；记起 (bear / keep in mind that)：**  
 
  > *It’s a good idea — I’ll bear it in mind. *  
@@ -4146,25 +4146,25 @@ D. should
  > *Whenever or however you take notes, keep in mind that note-taking is a selective process. *  
  > 不管何时以何种方式记笔记，你都要记住，记笔记是个有选择性的过程。  （ 2008 全国）  
 
-## <font color=#0099ff>\*change one’s mind </font>
+## \*change one’s mind 
 1.**改变主意：**  
 
  > *When I first met Bryan I didn’t like him, but I have changed my mind. *  
  > 我第一次见到布赖恩时并不喜欢他，但是现在我的看法变了。  （2013 全国）  
 
-## <font color=#0099ff>\*come into one’s mind </font>
+## \*come into one’s mind 
 1.**掠过 / 进入某人的脑海：**  
 
  > *Suddenly a terrible thought came into my mind. *  
  > 突然一个可怕的念头出现在我的脑海。    
 
-## <font color=#0099ff>\*have sb / sth in mind (for sth) </font>
+## \*have sb / sth in mind (for sth) 
 1.**(对某事) 心中有合适的人选 / 想做的事：**  
 
  > *Do you have anyone in mind for the job? *  
  > 你心目中有做这项工作的合适人选吗？    
 
-## <font color=#0099ff>\*make up one’s mind </font>
+## \*make up one’s mind 
 1.**拿定主意；下定决心：**  
 
  > *Once she has made up her mind, nothing can change it.*  
@@ -4174,13 +4174,13 @@ D. should
  > *He has made up his mind to overcome his shortcomings.*  
  > 他已经下决心要克服自己的缺点。    
 
-## <font color=#0099ff>\*on sb’s mind </font>
+## \*on sb’s mind 
 1.**在某人心上：**  
 
  > *There are many problems on his mind. *  
  > 他心事重重。    
 
-## <font color=#0099ff>\*put / set / turn one’s mind to / set one’s mind on</font>
+## \*put / set / turn one’s mind to / set one’s mind on
 1.**集中精力做：**  
 
  > *She could have been a brilliant pianist if she’d put her mind to it. *  
@@ -4194,7 +4194,7 @@ D. should
 答案：
 1. of  
 
-# ***<font color=#0099ff>\*mind</font>*** v  重难点词汇
+# ***\*mind*** v  重难点词汇
 英音 maɪnd     美音 maɪnd  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -4240,13 +4240,13 @@ D. should
 
 固定搭配
 ---
-## <font color=#0099ff>\*mind your own business</font>
+## \*mind your own business
 1.**[非正式用语] 别管闲事：**  
 
  > *Why don’t you just mind your own business and leave me in peace?*  
  > 你为什么就不能别管闲事，让我清静一下呢？    
 
-## <font color=#0099ff>\*Never mind.</font>
+## \*Never mind.
 1.**不要紧。/ 没关系。**  
 
 
@@ -4271,7 +4271,7 @@ D.Never mind
 答案：
 1. A  2. changed his mind  3. D  4. mind your own business  
 
-# ***<font color=#0099ff>\*minded</font>*** adj
+# ***\*minded*** adj
 英音 'maɪndɪd     美音 'maɪndɪd  
 
 | 词频 3 |  
@@ -4302,7 +4302,7 @@ D.Never mind
  > 他们想和志趣相投的人一起享受轻松的时光。    
 
 
-# ***<font color=#0099ff>\*mine</font>*** pron
+# ***\*mine*** pron
 英音 maɪn     美音 maɪn  
 
 | 词频 4 | 口语 3 |  
@@ -4321,7 +4321,7 @@ D.Never mind
  > 那不是他的错，是我的错。    
 
 
-# ***<font color=#0099ff>\*mine</font>*** n
+# ***\*mine*** n
 英音 maɪn     美音 maɪn  
 
 | 词频 2 | 口语 2 | 书面 1 |  
@@ -4340,7 +4340,7 @@ D.Never mind
  > 金矿    
 
 
-# ***<font color=#0099ff>\*mine</font>*** v
+# ***\*mine*** v
 英音 maɪn     美音 maɪn  
 
 | 词频 2 |  
@@ -4356,7 +4356,7 @@ D.Never mind
  > 掘金    
 
 
-# ***<font color=#0099ff>\*miner</font>*** n
+# ***\*miner*** n
 英音 'maɪnə(r)     美音 'maɪnər  
 
 | 词频 2 |  
@@ -4366,7 +4366,7 @@ D.Never mind
 ### 1.**矿工**  
 
 
-# ***<font color=#0099ff>\*mineral</font>*** n
+# ***\*mineral*** n
 英音 'mɪnərəl     美音 'mɪnərəl  
 
 | 词频 2 | 书面 1 |  
@@ -4378,7 +4378,7 @@ D.Never mind
 ### 1.*高义频：* **矿物**  
 
 
-# ***<font color=#0099ff>\*mineral</font>*** adj
+# ***\*mineral*** adj
 英音 'mɪnərəl     美音 'mɪnərəl  
 
 | 词频 2 |  
@@ -4391,7 +4391,7 @@ D.Never mind
  > 矿泉水    
 
 
-# ***<font color=#0099ff>\*mini-skirt</font>*** n
+# ***\*mini-skirt*** n
 英音 'mɪniːskɜːt     美音 'mɪniːskɜːrt  
 
 | 词频 1 |  
@@ -4401,7 +4401,7 @@ D.Never mind
 ### 1.**迷你裙, 超短裙**  
 
 
-# ***<font color=#0099ff>\*miniature</font>*** n
+# ***\*miniature*** n
 英音 'mɪnətʃə(r)     美音 'mɪnətʃər  
 
 | 词频 1 |  
@@ -4411,7 +4411,7 @@ D.Never mind
 ### 1.**微型复制品**  
 
 
-# ***<font color=#0099ff>\*minibus</font>*** n
+# ***\*minibus*** n
 英音 'mɪnibʌs     美音 'mɪnibʌs  
 
 | 词频 1 |  
@@ -4423,7 +4423,7 @@ D.Never mind
 ### 1.*高义频：* **小型公共汽车**  
 
 
-# ***<font color=#0099ff>\*minimum</font>*** n
+# ***\*minimum*** n
 英音 'mɪnɪməm     美音 'mɪnɪməm  
 
 | 词频 1 | 阅读 1 |  
@@ -4437,7 +4437,7 @@ D.Never mind
  > 冬天我们最少有28人住在这里，夏天最多有125人。  （外研⑧ – 1）  
 
 
-# ***<font color=#0099ff>\*minimum</font>*** adj
+# ***\*minimum*** adj
 英音 'mɪnɪməm     美音 'mɪnɪməm  
 
 | 词频 1 | 口语 2 | 书面 1 | 阅读 1 |  
@@ -4452,7 +4452,7 @@ D.Never mind
  > 最低要求    
 
 
-# ***<font color=#0099ff>\*minister</font>*** n
+# ***\*minister*** n
 英音 'mɪnɪstə(r)     美音 'mɪnɪstər  
 
 | 词频 3 | 口语 3 | 书面 3 |  
@@ -4470,7 +4470,7 @@ D.Never mind
  > 外交部长    
 
 
-# ***<font color=#0099ff>\*ministry</font>*** n
+# ***\*ministry*** n
 英音 'mɪnɪstri     美音 'mɪnɪstri  
 
 | 词频 2 | 书面 2 |  
@@ -4485,7 +4485,7 @@ D.Never mind
  > 教育部    
 
 
-# ***<font color=#0099ff>\*minor</font>*** adj
+# ***\*minor*** adj
 英音 'maɪnə(r)     美音 'maɪnər  
 
 | 词频 1 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -4505,7 +4505,7 @@ D.Never mind
  > 幸运的是，那只是个小问题。    
 
 
-# ***<font color=#0099ff>\*minority</font>*** n
+# ***\*minority*** n
 英音 maɪ'nɒrəti     美音 maɪ'nɔːrəti  
 
 | 词频 1 | 口语 1 | 书面 2 | 阅读 1 |  
@@ -4527,7 +4527,7 @@ D.Never mind
  > 少数民族语言    
 
 
-# ***<font color=#0099ff>\*minus</font>*** prep
+# ***\*minus*** prep
 英音 'maɪnəs     美音 'maɪnəs  
 
 | 词频 1 |  
@@ -4540,7 +4540,7 @@ D.Never mind
  > 4减去2等于2。    
 
 
-# ***<font color=#0099ff>\*minus</font>*** adj
+# ***\*minus*** adj
 英音 'maɪnəs     美音 'maɪnəs  
 
 | 词频 1 |  
@@ -4561,7 +4561,7 @@ D.Never mind
  > 得到A-的成绩    
 
 
-# ***<font color=#0099ff>\*minus</font>*** n
+# ***\*minus*** n
 英音 'maɪnəs     美音 'maɪnəs  
 
 | 词频 1 |  
@@ -4573,7 +4573,7 @@ D.Never mind
 ### 1.**减号，负号，缺点**  
 
 
-# ***<font color=#0099ff>\*minute</font>*** n
+# ***\*minute*** n
 英音 'mɪnɪt     美音 'mɪnɪt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4603,47 +4603,47 @@ D.Never mind
 
 固定搭配
 ---
-## <font color=#0099ff>\*(at) any minute</font>
+## \*(at) any minute
 1.**随时：**  
 
  > *Hurry up! He’ll be back at any minute. *  
  > 快点儿！他随时会回来。    
 
-## <font color=#0099ff>\*in a minute </font>
+## \*in a minute 
 1.**马上；立刻：**  
 
  > *I’ll take your order in a minute. *  
  > 我马上过来请您点餐。  （人教③ – 3）  
 
-## <font color=#0099ff>\*just a minute / moment / second </font>
+## \*just a minute / moment / second 
 1.**等一下：**  
 
  > *Just a minute, Margaret, I want to introduce you to Betty. *  
  > 等一下，玛格丽特，我想把你介绍给贝蒂。    
 
-## <font color=#0099ff>\*the last minute </font>
+## \*the last minute 
 1.**最后一刻：**  
 
  > *You really like leaving things to the last minute. *  
  > 你就是喜欢把事情拖到最后一刻。  （2010 湖北）  
 
-## <font color=#0099ff>\*the minute / moment (that) </font>
+## \*the minute / moment (that) 
 1.**一…就：**  
 
  > *The minute he saw me he turned red. *  
  > 他一看到我脸就红了。    
 
-## <font color=#0099ff>\*this minute </font>
+## \*this minute 
 1.**立刻；马上：**  
 
  > *Come down this minute. *  
  > 马上下来。    
 
-## <font color=#0099ff>\*wait a minute / moment / second </font>
+## \*wait a minute / moment / second 
 1.**等一会儿； 等一下**  
 
 
-# ***<font color=#0099ff>\*mirror</font>*** n
+# ***\*mirror*** n
 英音 'mɪrə(r)     美音 'mɪrər  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -4676,7 +4676,7 @@ D.Never mind
 答案：
 1. mirror  
 
-# ***<font color=#0099ff>\*mirror</font>*** vt
+# ***\*mirror*** vt
 英音 'mɪrə(r)     美音 'mɪrər  
 
 | 词频 4 |  
@@ -4692,7 +4692,7 @@ D.Never mind
  > 树木倒映在静静的湖水中。    
 
 
-# ***<font color=#0099ff>\*misadventure</font>*** n
+# ***\*misadventure*** n
 英音 ˌmɪsəd'ventʃə(r)     美音 ˌmɪsəd'ventʃər  
 
   
@@ -4702,7 +4702,7 @@ D.Never mind
 ### 1.**事故，灾难**  
 
 
-# ***<font color=#0099ff>\*miserable</font>*** adj
+# ***\*miserable*** adj
 英音 'mɪzrəbl     美音 'mɪzrəbl  
 
 | 词频 2 | 阅读 1 |  
@@ -4715,7 +4715,7 @@ D.Never mind
  > 悲惨的生活    
 
 
-# ***<font color=#0099ff>\*misery</font>*** n
+# ***\*misery*** n
 英音 'mɪzəri     美音 'mɪzəri  
 
 | 词频 1 | 口语 1 |  
@@ -4730,7 +4730,7 @@ D.Never mind
  > 失业的痛苦    
 
 
-# ***<font color=#0099ff>\*misfortune</font>*** n
+# ***\*misfortune*** n
 英音 ˌmɪs'fɔːtʃuːn     美音 ˌmɪs'fɔːrtʃuːn  
 
 | 词频 2 | 阅读 1 |  
@@ -4743,7 +4743,7 @@ D.Never mind
  > 祸不单行。    
 
 
-# ***<font color=#0099ff>\*mislead</font>*** vt
+# ***\*mislead*** vt
 英音 ˌmɪs'liːd     美音 ˌmɪs'liːd  
 
 | 词频 2 |  
@@ -4758,7 +4758,7 @@ D.Never mind
  > 不要被他的话误导。    
 
 
-# ***<font color=#0099ff>\*misread</font>*** vt
+# ***\*misread*** vt
 英音 ˌmɪs'riːd     美音 ˌmɪs'riːd  
 
 | 词频 1 |  
@@ -4770,7 +4770,7 @@ D.Never mind
 ### 1.*高义频：* **读错；误解**  
 
 
-# ***<font color=#0099ff>\*miss</font>*** v
+# ***\*miss*** v
 英音 mɪs     美音 mɪs  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -4826,7 +4826,7 @@ D.Never mind
 
 固定搭配
 ---
-## <font color=#0099ff>\*miss out </font>
+## \*miss out 
 1.**遗漏；失去 (机会)：**  
 
  > *I’ll read through the guest list again to make sure I haven’t missed anybody out. *  
@@ -4844,7 +4844,7 @@ D.Never mind
 答案：
 1. miss  2. missed  
 
-# ***<font color=#0099ff>\*miss</font>*** n
+# ***\*miss*** n
 英音 mɪs     美音 mɪs  
 
 | 词频 4 | 口语 2 |  
@@ -4861,7 +4861,7 @@ D.Never mind
 ### 2.*低义频：* **[对女服务员的称呼] 小姐；[对女老师的称呼] 老师**  
 
 
-# ***<font color=#0099ff>\*missile</font>*** n
+# ***\*missile*** n
 英音 'mɪsaɪl     美音 'mɪsl  
 
 | 词频 1 |  
@@ -4873,7 +4873,7 @@ D.Never mind
 ### 1.*高义频：* **导弹；投射物**  
 
 
-# ***<font color=#0099ff>\*missing</font>*** adj
+# ***\*missing*** adj
 英音 'mɪsɪŋ     美音 'mɪsɪŋ  
 
 | 词频 4 |  
@@ -4904,7 +4904,7 @@ Notes: be missing表示状态；get lost表示动作。
 答案：
 1. have been missing  
 
-# ***<font color=#0099ff>\*mission</font>*** n
+# ***\*mission*** n
 英音 'mɪʃn     美音 'mɪʃn  
 
 | 词频 2 |  
@@ -4925,7 +4925,7 @@ Notes: be missing表示状态；get lost表示动作。
  > 他的职责是帮助当地社区的年轻人。    
 
 
-# ***<font color=#0099ff>\*mist</font>*** n
+# ***\*mist*** n
 英音 mɪst     美音 mɪst  
 
 | 词频 2 |  
@@ -4945,7 +4945,7 @@ Notes: be missing表示状态；get lost表示动作。
 ---
 misty /'mɪsti/ adj   
 
-# ***<font color=#0099ff>\*mistake</font>*** n
+# ***\*mistake*** n
 英音 mɪ'steɪk     美音 mɪ'steɪk  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -4970,7 +4970,7 @@ misty /'mɪsti/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*by mistake</font>
+## \*by mistake
 1.**错误地；无意地 (accidentally)**  
 反义词 on purpose 
 
@@ -4978,7 +4978,7 @@ misty /'mɪsti/ adj
  > 有人错拿了我的字典。    
 
 
-# ***<font color=#0099ff>\*mistake</font>*** vt
+# ***\*mistake*** vt
 英音 mɪ'steɪk     美音 mɪ'steɪk  
 
 | 词频 5 |  
@@ -4995,14 +4995,14 @@ misty /'mɪsti/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*mistake ... for </font>
+## \*mistake ... for 
 1.**把…错当成…：**  
 
  > *Perhaps he had mistaken me for someone else. *  
  > 他可能误把我当成其他人了。  （ 2009 天津）  
 
 
-# ***<font color=#0099ff>\*mistaken</font>*** adj
+# ***\*mistaken*** adj
 英音 mɪ'steɪkən     美音 mɪ'steɪkən  
 
 | 词频 2 |  
@@ -5019,7 +5019,7 @@ misty /'mɪsti/ adj
  > 错误的观点 / 想法    
 
 
-# ***<font color=#0099ff>\*mistress</font>*** n
+# ***\*mistress*** n
 英音 'mɪstrəs     美音 'mɪstrəs  
 
 | 词频 2 |  
@@ -5029,7 +5029,7 @@ misty /'mɪsti/ adj
 ### 1.**女主人**  
 
 
-# ***<font color=#0099ff>\*misty</font>*** adj
+# ***\*misty*** adj
 英音 'mɪsti     美音 'mɪsti  
 
 | 词频 1 |  
@@ -5039,7 +5039,7 @@ misty /'mɪsti/ adj
 ### 1.*高义频：* **有薄雾的；模糊的**  
 
 
-# ***<font color=#0099ff>\*misunderstand</font>*** v
+# ***\*misunderstand*** v
 英音 ˌmɪsʌndə'stænd     美音 ˌmɪsʌndər'stænd  
 
 | 词频 3 |  
@@ -5061,7 +5061,7 @@ misty /'mɪsti/ adj
 ---
 misunderstood /ˌmɪsʌndə'stʊd/ adj   
 
-# ***<font color=#0099ff>\*misunderstanding</font>*** n
+# ***\*misunderstanding*** n
 英音 ˌmɪsʌndə'stændɪŋ     美音 ˌmɪsʌndər'stændɪŋ  
 
 | 词频 3 |  
@@ -5076,7 +5076,7 @@ misunderstood /ˌmɪsʌndə'stʊd/ adj
  > 澄清误会    
 
 
-# ***<font color=#0099ff>\*mix</font>*** v
+# ***\*mix*** v
 英音 mɪks     美音 mɪks  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -5122,7 +5122,7 @@ misunderstood /ˌmɪsʌndə'stʊd/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*mix up</font>
+## \*mix up
 1.*高义频：* **搅匀；使混合：**  
 
  > *Dashan, who has been learning crosstalk, the Chinese comedic tradition, for decades, wants to mix it up with the Western stand-up tradition.*  
@@ -5162,7 +5162,7 @@ mixed /mɪkst/ adj
  > 复杂的心情    
 
 
-# ***<font color=#0099ff>\*mix</font>*** n
+# ***\*mix*** n
 英音 mɪks     美音 mɪks  
 
 | 词频 4 |  
@@ -5189,7 +5189,7 @@ mixed /mɪkst/ adj
  > 男女同校的学校    
 
 
-# ***<font color=#0099ff>\*mixture</font>*** n
+# ***\*mixture*** n
 英音 'mɪkstʃə(r)     美音 'mɪkstʃər  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -5209,7 +5209,7 @@ mixed /mɪkst/ adj
  > 她有一种既兴奋又害怕的奇怪感觉。    
 
 
-# ***<font color=#0099ff>\*mm</font>*** n
+# ***\*mm*** n
 英音 'mɪlimiːtə(r)     美音 'mɪlimiːtər  
 
 | 词频 2 |  
@@ -5221,7 +5221,7 @@ mixed /mɪkst/ adj
 ### 1.*高义频：* **毫米 (millimetre / millimeter)**  
 
 
-# ***<font color=#0099ff>\*mobile</font>*** adj
+# ***\*mobile*** adj
 英音 'məʊbaɪl     美音 'moʊbl  
 
 | 词频 4 |  
@@ -5235,7 +5235,7 @@ mixed /mɪkst/ adj
  > 流动商店    
 
 
-# ***<font color=#0099ff>\*mobile</font>*** n
+# ***\*mobile*** n
 英音 'məʊbaɪl     美音 'moʊbl  
 
 | 词频 4 | 口语 2 |  
@@ -5250,7 +5250,7 @@ mixed /mɪkst/ adj
  > 你试着打过她的手机了吗？  （2010 江西）  
 
 
-# ***<font color=#0099ff>\*mockingbird</font>*** n
+# ***\*mockingbird*** n
 英音 'mɒkɪŋ.bɜː(r)d     美音 'mɑkɪŋ .bɜrd  
 
 | 词频 1 |  
@@ -5262,7 +5262,7 @@ mixed /mɪkst/ adj
 ### 1.*高义频：* **嘲鸫 (一种鸟，能模仿其他鸟的叫声)**  
 
 
-# ***<font color=#0099ff>\*mode</font>*** n
+# ***\*mode*** n
 英音 məʊd     美音 moʊd  
 
 | 词频 1 | 书面 1 |  
@@ -5277,7 +5277,7 @@ mixed /mɪkst/ adj
  > 飞行模式    
 
 
-# ***<font color=#0099ff>\*model</font>*** n
+# ***\*model*** n
 英音 'mɒdl     美音 'mɑːdl  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -5308,7 +5308,7 @@ mixed /mɪkst/ adj
  > 不要把自己和媒体上的模特、演员作比较。  （2008 上海）  
 
 
-# ***<font color=#0099ff>\*model</font>*** v
+# ***\*model*** v
 英音 'mɒdl     美音 'mɑːdl  
 
 | 词频 4 |  
@@ -5320,11 +5320,11 @@ mixed /mɪkst/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*be modeled on / after</font>
+## \*be modeled on / after
 1.**模仿；仿照**  
 
 
-# ***<font color=#0099ff>\*modem</font>*** n
+# ***\*modem*** n
 英音 'məʊdem     美音 'moʊdem  
 
 | 词频 2 |  
@@ -5336,7 +5336,7 @@ mixed /mɪkst/ adj
 ### 1.*高义频：* **调制解调器**  
 
 
-# ***<font color=#0099ff>\*modern</font>*** adj
+# ***\*modern*** adj
 英音 'mɒdn     美音 'mɑːdərn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5361,7 +5361,7 @@ mixed /mɪkst/ adj
 答案：
 1. modern  
 
-# ***<font color=#0099ff>\*modern-day</font>*** adj
+# ***\*modern-day*** adj
 英音 ˌmɒdn'deɪ     美音 ˌmɑːdərn'deɪ  
 
 | 词频 1 |  
@@ -5371,7 +5371,7 @@ mixed /mɪkst/ adj
 ### 1.**现代的；当代的**  
 
 
-# ***<font color=#0099ff>\*modernize</font>*** v
+# ***\*modernize*** v
 英音 'mɒdənaɪz     
 
   
@@ -5381,7 +5381,7 @@ mixed /mɪkst/ adj
 ### 1.**（使）现代化**  
 
 
-# ***<font color=#0099ff>\*modest</font>*** adj
+# ***\*modest*** adj
 英音 'mɒdɪst     美音 'mɑːdɪst  
 
 | 词频 2 |  
@@ -5406,7 +5406,7 @@ mixed /mɪkst/ adj
  > 住处规模不大，也不奢华，但很舒适。  （外研⑧ – 1）  
 
 
-# ***<font color=#0099ff>\*modify</font>*** vt
+# ***\*modify*** vt
 英音 'mɒdɪfaɪ     美音 'mɑːdɪfaɪ  
 
 | 词频 1 |  
@@ -5416,7 +5416,7 @@ mixed /mɪkst/ adj
 ### 1.**调整，修改；修饰**  
 
 
-# ***<font color=#0099ff>\*molten</font>*** adj
+# ***\*molten*** adj
 英音 'məʊltən     美音 'moʊltən  
 
 | 词频 1 |  
@@ -5428,7 +5428,7 @@ mixed /mɪkst/ adj
 ### 1.*高义频：* **熔化的；熔融的**  
 
 
-# ***<font color=#0099ff>\*mom</font>*** n
+# ***\*mom*** n
 英音 mɒm     美音 mɑːm  
 
 | 词频 5 | 口语 3 |  
@@ -5440,7 +5440,7 @@ mixed /mɪkst/ adj
 ### 1.*高义频：* **妈妈 (BrE mum)**  
 
 
-# ***<font color=#0099ff>\*moment</font>*** n  重难点词汇
+# ***\*moment*** n  重难点词汇
 英音 'məʊmənt     美音 'moʊmənt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5479,49 +5479,49 @@ mixed /mɪkst/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*(at) any moment (now) </font>
+## \*(at) any moment (now) 
 1.**马上；立刻：**  
 
  > *Hurry up! He’ll be back any moment now. *  
  > 快点儿！他马上就会回来。    
 
-## <font color=#0099ff>\*(at) the last moment </font>
+## \*(at) the last moment 
 1.**(在) 最后一刻：**  
 
  > *They changed the plans at the last moment. *  
  > 他们在最后一刻改变了计划。    
 
-## <font color=#0099ff>\*at the moment </font>
+## \*at the moment 
 1.**此刻；目前：**  
 
  > *I’m terribly busy at the moment. *  
  > 我目前忙得很。    
 
-## <font color=#0099ff>\*for a moment </font>
+## \*for a moment 
 1.**片刻；一会儿：**  
 
  > *He was silent for a moment. *  
  > 他沉默了一会儿。    
 
-## <font color=#0099ff>\*for the moment </font>
+## \*for the moment 
 1.**暂时；目前 (for the present)：**  
 
  > *I’m not very happy at work, but I’ll stay there for the moment. *  
  > 我工作得不太开心，但暂时还会留在那里。    
 
-## <font color=#0099ff>\*in a moment </font>
+## \*in a moment 
 1.**马上；立即：**  
 
  > *I’ll be ready in a moment. *  
  > 我马上就准备好。    
 
-## <font color=#0099ff>\*one moment … the next </font>
+## \*one moment … the next 
 1.**一会儿…过一会儿：**  
 
  > *One moment it was quiet and calm in the forest, the next, the air was charged with tension.  *  
  > 一会儿森林里寂静无声，过一会儿，空气中弥漫着紧张的气氛。  （2014 重庆）  
 
-## <font color=#0099ff>\*the moment (that) </font>
+## \*the moment (that) 
 1.**[引导时间状语从句，相当于连词as soon as] 一… (就…)：**  
 
  > *Alisha fell asleep the moment she got into bed. *  
@@ -5539,7 +5539,7 @@ mixed /mɪkst/ adj
 答案：
 1. the right moment  
 
-# ***<font color=#0099ff>\*mommy</font>*** n
+# ***\*mommy*** n
 英音 'mɒmi     美音 'mɑːmi  
 
 | 词频 2 | 口语 1 |  
@@ -5551,7 +5551,7 @@ mixed /mɪkst/ adj
 ### 1.*高义频：* **妈妈 (BrE mummy)**  
 
 
-# ***<font color=#0099ff>\*monarch</font>*** n
+# ***\*monarch*** n
 英音 'mɒnək     美音 'mɑːnərk  
 
   
@@ -5561,7 +5561,7 @@ mixed /mɪkst/ adj
 ### 1.**君主，国王**  
 
 
-# ***<font color=#0099ff>\*money</font>*** n
+# ***\*money*** n
 英音 'mʌni     美音 'mʌni  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5587,11 +5587,11 @@ mixed /mɪkst/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*make money </font>
+## \*make money 
 1.**赚钱；获利**  
 
 
-# ***<font color=#0099ff>\*monitor</font>*** n
+# ***\*monitor*** n
 英音 'mɒnɪtə(r)     美音 'mɑːnɪtər  
 
 | 词频 3 |  
@@ -5611,7 +5611,7 @@ mixed /mɪkst/ adj
  > 计算机的显示器    
 
 
-# ***<font color=#0099ff>\*monitor</font>*** vt
+# ***\*monitor*** vt
 英音 'mɒnɪtə(r)     美音 'mɑːnɪtər  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -5624,7 +5624,7 @@ mixed /mɪkst/ adj
  > 科学家们也许可以监控鲨鱼的行为来预测坏天气。  （2008 天津）  
 
 
-# ***<font color=#0099ff>\*monk</font>*** n
+# ***\*monk*** n
 英音 mʌŋk     美音 mʌŋk  
 
 | 词频 1 |  
@@ -5634,7 +5634,7 @@ mixed /mɪkst/ adj
 ### 1.**和尚**  
 
 
-# ***<font color=#0099ff>\*monkey</font>*** n
+# ***\*monkey*** n
 英音 'mʌŋki     美音 'mʌŋki  
 
 | 词频 4 |  
@@ -5646,7 +5646,7 @@ mixed /mɪkst/ adj
 ### 1.*高义频：* **猴子；淘气鬼**  
 
 
-# ***<font color=#0099ff>\*monster</font>*** n
+# ***\*monster*** n
 英音 'mɒnstə(r)     美音 'mɑːnstər  
 
 | 词频 1 |  
@@ -5658,7 +5658,7 @@ mixed /mɪkst/ adj
 ### 1.*高义频：* **怪兽；怪物；恶人**  
 
 
-# ***<font color=#0099ff>\*month</font>*** n
+# ***\*month*** n
 英音 mʌnθ     美音 mʌnθ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5677,7 +5677,7 @@ mixed /mɪkst/ adj
  > 所有员工都是按月发工资。    
 
 
-# ***<font color=#0099ff>\*monthly</font>*** adj
+# ***\*monthly*** adj
 英音 'mʌnθli     美音 'mʌnθli  
 
 | 词频 3 |  
@@ -5690,7 +5690,7 @@ mixed /mɪkst/ adj
  > 月刊    
 
 
-# ***<font color=#0099ff>\*monthly</font>*** adv
+# ***\*monthly*** adv
 英音 'mʌnθli     美音 'mʌnθli  
 
 | 词频 3 |  
@@ -5703,7 +5703,7 @@ mixed /mɪkst/ adj
  > 这些机器必须每月检查一次。    
 
 
-# ***<font color=#0099ff>\*monthly</font>*** n
+# ***\*monthly*** n
 英音 'mʌnθli     美音 'mʌnθli  
 
 | 词频 3 |  
@@ -5718,7 +5718,7 @@ mixed /mɪkst/ adj
  > 这本杂志是月刊。    
 
 
-# ***<font color=#0099ff>\*monument</font>*** n
+# ***\*monument*** n
 英音 'mɒnjumənt     美音 'mɑːnjumənt  
 
 | 词频 2 |  
@@ -5730,7 +5730,7 @@ mixed /mɪkst/ adj
 ### 1.*高义频：* **纪念碑；纪念馆**  
 
 
-# ***<font color=#0099ff>\*mood</font>*** n
+# ***\*mood*** n
 英音 muːd     美音 muːd  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -5761,7 +5761,7 @@ mixed /mɪkst/ adj
  > 我现在没心情谈论这件事。    
 
 
-# ***<font color=#0099ff>\*moody</font>*** adj
+# ***\*moody*** adj
 英音 'muːdi     美音 'muːdi  
 
 | 词频 2 |  
@@ -5771,7 +5771,7 @@ mixed /mɪkst/ adj
 ### 1.**喜怒无常的**  
 
 
-# ***<font color=#0099ff>\*moon</font>*** n
+# ***\*moon*** n
 英音 muːn     美音 muːn  
 
 | 词频 4 | 书面 1 |  
@@ -5783,7 +5783,7 @@ mixed /mɪkst/ adj
 ### 2.*高义频：* **月亮**  
 
 
-# ***<font color=#0099ff>\*mop</font>*** n
+# ***\*mop*** n
 英音 mɒp     美音 mɑːp  
 
 | 词频 2 |  
@@ -5795,7 +5795,7 @@ mixed /mɪkst/ adj
 ### 1.*高义频：* **拖把**  
 
 
-# ***<font color=#0099ff>\*mop</font>*** vt
+# ***\*mop*** vt
 英音 mɒp     美音 mɑːp  
 
 | 词频 2 |  
@@ -5810,7 +5810,7 @@ mixed /mɪkst/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*mop up </font>
+## \*mop up 
 1.**擦干；肃清：**  
 
  > *He mopped up the spilt milk.*  
@@ -5820,7 +5820,7 @@ mixed /mɪkst/ adj
  > 雨林很重要，它们能吸收大气中的二氧化碳，有助于减缓全球变暖。    
 
 
-# ***<font color=#0099ff>\*moral</font>*** adj
+# ***\*moral*** adj
 英音 'mɒrəl     美音 'mɔːrəl  
 
 | 词频 3 | 口语 1 | 书面 2 |  
@@ -5839,7 +5839,7 @@ mixed /mɪkst/ adj
  > 道义 / 精神上的胜利 / 支持    
 
 
-# ***<font color=#0099ff>\*moral</font>*** n
+# ***\*moral*** n
 英音 'mɒrəl     美音 'mɔːrəl  
 
 | 词频 3 |  
@@ -5863,7 +5863,7 @@ mixed /mɪkst/ adj
 ---
 morally  /'mɒrəli/ adv   
 
-# ***<font color=#0099ff>\*more</font>*** adj  重难点词汇
+# ***\*more*** adj  重难点词汇
 英音 mɔː(r)     美音 mɔːr  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5887,7 +5887,7 @@ morally  /'mɒrəli/ adv
  > 要不要再吃点蛋糕？    
 
 
-# ***<font color=#0099ff>\*more</font>*** pron  重难点词汇
+# ***\*more*** pron  重难点词汇
 英音 mɔː(r)     美音 mɔːr  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5905,7 +5905,7 @@ morally  /'mɒrəli/ adv
  > 再给我一些。    
 
 
-# ***<font color=#0099ff>\*more</font>*** adv  重难点词汇
+# ***\*more*** adv  重难点词汇
 英音 mɔː(r)     美音 mɔːr  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5933,20 +5933,20 @@ morally  /'mɒrəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*all the more </font>
+## \*all the more 
 1.**更加；越发：**  
 
  > *His mother asked him to stop teasing the cat, but he only did it all the more. *  
  > 他妈妈叫他不要再逗这只猫，他反而更起劲了。    
 
-## <font color=#0099ff>\*more and more </font>
+## \*more and more 
 1.**越来越 (多的 / 地) (increasingly)**  
 反义词 less and less 
 
  > *More and more people are using smart phones for information and entertainment.*  
  > 越来越多的人在用智能手机获取信息和娱乐。    
 
-## <font color=#0099ff>\*more or less </font>
+## \*more or less 
 1.**或多或少；几乎；差不多：**  
 
  > *Her health has more or less improved. *  
@@ -5955,7 +5955,7 @@ morally  /'mɒrəli/ adv
  > *The work is more or less finished.*  
  > 工作基本上完成了。    
 
-## <font color=#0099ff>\*more than</font>
+## \*more than
 1.*高义频：* **多于...的；不止：**  
 
  > *For many, fishing is more than a sport; it is an art.*  
@@ -5969,7 +5969,7 @@ morally  /'mɒrəli/ adv
  > *I’d be more than happy to help.*  
  > 我非常乐意帮忙。  （2010 全国书面表达）  
 
-## <font color=#0099ff>\*no more </font>
+## \*no more 
 1.**不再 (not ... any more)：**  
 
  > *He works in a shop and is no more a student. *  
@@ -5978,13 +5978,13 @@ morally  /'mɒrəli/ adv
  > *Don’t waste your time and money any more. *  
  > 别再浪费时间和金钱了。  （ 2009 湖南）  
 
-## <font color=#0099ff>\*no more than </font>
+## \*no more than 
 1.**仅仅：**  
 
  > *His whole school education added up to no more than three years. *  
  > 他所受的学校教育全部加起来不过3年。    
 
-## <font color=#0099ff>\*not more than </font>
+## \*not more than 
 1.**不超过：**  
 
  > *He earns not more than 2,000 dollars a month.  *  
@@ -5993,13 +5993,13 @@ morally  /'mɒrəli/ adv
 #### 辨析 no more (…) than, not more (…) than
   
 
-## <font color=#0099ff>\*once more </font>
+## \*once more 
 1.**再次；又：**  
 
  > *Once more the soldiers attacked and once more they were defeated. *  
  > 士兵们又发起了进攻，但又一次被打败了。    
 
-## <font color=#0099ff>\*the more ..., the more ... </font>
+## \*the more ..., the more ... 
 1.**愈…，愈…：**  
 
  > *The more learned a man is, the more modest he usually becomes.*  
@@ -6008,7 +6008,7 @@ morally  /'mɒrəli/ adv
  > *The more books I read, the more information I learn.*  
  > 我读的书越多，学到的知识也越多。  （外研① – 5）  
 
-## <font color=#0099ff>\*what is more </font>
+## \*what is more 
 1.**更为重要的是；更有甚者：**  
 
  > *He studies very hard, and what’s more, he is ready to help others. *  
@@ -6024,7 +6024,7 @@ morally  /'mɒrəli/ adv
 答案：
 1. What’s more  2. more  3. more than  
 
-# ***<font color=#0099ff>\*moreover</font>*** adv
+# ***\*moreover*** adv
 英音 mɔːr'əʊvə(r)     美音 mɔːr'oʊvər  
 
 | 词频 2 | 书面 2 | 阅读 1 |  
@@ -6039,7 +6039,7 @@ morally  /'mɒrəli/ adv
  > 我不喜欢溜冰；而且，这冰也太薄了。    
 
 
-# ***<font color=#0099ff>\*morning</font>*** n
+# ***\*morning*** n
 英音 'mɔːnɪŋ     美音 'mɔːrnɪŋ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6051,7 +6051,7 @@ morally  /'mɒrəli/ adv
 ### 1.*高义频：* **早晨；上午：**  
 
 
-# ***<font color=#0099ff>\*mosquito</font>*** n
+# ***\*mosquito*** n
 英音 mə'skiːtəʊ     美音 mə'skiːtoʊ  
 
 | 词频 3 |  
@@ -6063,7 +6063,7 @@ morally  /'mɒrəli/ adv
 ### 1.*高义频：* **蚊子**  
 
 
-# ***<font color=#0099ff>\*moss</font>*** n
+# ***\*moss*** n
 英音 mɒs     美音 mɔːs  
 
 | 词频 1 |  
@@ -6073,7 +6073,7 @@ morally  /'mɒrəli/ adv
 ### 1.**藓；苔藓**  
 
 
-# ***<font color=#0099ff>\*most</font>*** adj  重难点词汇
+# ***\*most*** adj  重难点词汇
 英音 məʊst     美音 moʊst  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6095,7 +6095,7 @@ morally  /'mɒrəli/ adv
  > 在印度，大多数人历来是用手吃饭。  （2016 全国）  
 
 
-# ***<font color=#0099ff>\*most</font>*** pron  重难点词汇
+# ***\*most*** pron  重难点词汇
 英音 məʊst     美音 moʊst  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6115,20 +6115,20 @@ morally  /'mɒrəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*at (the) most</font>
+## \*at (the) most
 1.**至多；不超过：**  
 
  > *The railway will be completed in six months at (the) most. *  
  > 这条铁路至多6个月就会完工。    
 
-## <font color=#0099ff>\*make the most of</font>
+## \*make the most of
 1.**充分利用 (get the most out of)：**  
 
  > *I hope you will all make the most of this chance to share information and opinions. *  
  > 我希望你们大家都充分利用这个机会分享信息、交流意见。    
 
 
-# ***<font color=#0099ff>\*most</font>*** adv  重难点词汇
+# ***\*most*** adv  重难点词汇
 英音 məʊst     美音 moʊst  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6149,7 +6149,7 @@ morally  /'mɒrəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*most of all </font>
+## \*most of all 
 1.**最重要的是；特别：**  
 
  > *— Why don’t you just take the plane? It’s much faster. *  
@@ -6166,7 +6166,7 @@ morally  /'mɒrəli/ adv
 答案：
 1. most  
 
-# ***<font color=#0099ff>\*mostly</font>*** adv
+# ***\*mostly*** adv
 英音 'məʊstli     美音 'moʊstli  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -6179,7 +6179,7 @@ morally  /'mɒrəli/ adv
  > 来跳舞的多半是年轻人。    
 
 
-# ***<font color=#0099ff>\*mother</font>*** n
+# ***\*mother*** n
 英音 'mʌðə(r)     美音 'mʌðər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6191,7 +6191,7 @@ morally  /'mɒrəli/ adv
 ### 1.*高义频：* **母亲；妈妈 (mum)**  
 
 
-# ***<font color=#0099ff>\*motherland</font>*** n
+# ***\*motherland*** n
 英音 'mʌðəlænd     美音 'mʌðərlænd  
 
 | 词频 2 |  
@@ -6203,7 +6203,7 @@ morally  /'mɒrəli/ adv
 ### 1.*高义频：* **祖国**  
 
 
-# ***<font color=#0099ff>\*motion</font>*** n
+# ***\*motion*** n
 英音 'məʊʃn     美音 'moʊʃn  
 
 | 词频 2 | 书面 1 |  
@@ -6218,7 +6218,7 @@ morally  /'mɒrəli/ adv
  > 牛顿(三大)运动定律    
 
 
-# ***<font color=#0099ff>\*motivate</font>*** vt
+# ***\*motivate*** vt
 英音 'məʊtɪveɪt     美音 'moʊtɪveɪt  
 
 | 词频 2 | 阅读 1 |  
@@ -6242,7 +6242,7 @@ motivated /'məʊtɪveɪtɪd/ adj
  > 每次跑步后，我都感到更健康、更快乐、更有动力继续前进。  （2011 湖南改）  
 
 
-# ***<font color=#0099ff>\*motivation</font>*** n
+# ***\*motivation*** n
 英音 ˌməʊtɪ'veɪʃn     美音 ˌmoʊtɪ'veɪʃn  
 
 | 词频 3 | 阅读 2 |  
@@ -6271,7 +6271,7 @@ motivated /'məʊtɪveɪtɪd/ adj
 答案：
 1. for  
 
-# ***<font color=#0099ff>\*motor</font>*** n
+# ***\*motor*** n
 英音 'məʊtə(r)     美音 'moʊtər  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -6286,7 +6286,7 @@ motivated /'məʊtɪveɪtɪd/ adj
  > 这部机器是用电动马达驱动的。    
 
 
-# ***<font color=#0099ff>\*motor</font>*** adj
+# ***\*motor*** adj
 英音 'məʊtə(r)     美音 'moʊtər  
 
 | 词频 3 |  
@@ -6299,7 +6299,7 @@ motivated /'məʊtɪveɪtɪd/ adj
  > 机动车    
 
 
-# ***<font color=#0099ff>\*motorbike</font>*** n
+# ***\*motorbike*** n
 英音 'məʊtəbaɪk     美音 'moʊtərbaɪk  
 
 | 词频 2 |  
@@ -6311,7 +6311,7 @@ motivated /'məʊtɪveɪtɪd/ adj
 ### 1.*高义频：* **(轻型) 摩托车**  
 
 
-# ***<font color=#0099ff>\*motorcycle</font>*** n
+# ***\*motorcycle*** n
 英音 'məʊtəsaɪkl     美音 'moʊtərsaɪkl  
 
 | 词频 2 |  
@@ -6323,7 +6323,7 @@ motivated /'məʊtɪveɪtɪd/ adj
 ### 1.*高义频：* **摩托车**  
 
 
-# ***<font color=#0099ff>\*motorist</font>*** n
+# ***\*motorist*** n
 英音 'məʊtərɪst     美音 'moʊtərɪst  
 
 | 词频 1 |  
@@ -6333,7 +6333,7 @@ motivated /'məʊtɪveɪtɪd/ adj
 ### 1.**驾驶汽车的人**  
 
 
-# ***<font color=#0099ff>\*motorway</font>*** n
+# ***\*motorway*** n
 英音 'məʊtəweɪ     美音 'moʊtərweɪ  
 
 | 词频 1 |  
@@ -6345,7 +6345,7 @@ motivated /'məʊtɪveɪtɪd/ adj
 ### 1.*高义频：* **(BrE) 高速公路**  
 
 
-# ***<font color=#0099ff>\*motto</font>*** n
+# ***\*motto*** n
 英音 'mɒtəʊ     美音 'mɑːtoʊ  
 
 | 词频 1 |  
@@ -6360,7 +6360,7 @@ motivated /'məʊtɪveɪtɪd/ adj
  > 我的座右铭是：过好每一天。  （人教⑦ – 1）  
 
 
-# ***<font color=#0099ff>\*mould</font>*** n
+# ***\*mould*** n
 英音 məʊld     美音 moʊld  
 
 | 词频 1 |  
@@ -6370,7 +6370,7 @@ motivated /'məʊtɪveɪtɪd/ adj
 ### 1.**霉，霉菌**  
 
 
-# ***<font color=#0099ff>\*mount</font>*** n
+# ***\*mount*** n
 英音 maʊnt     美音 maʊnt  
 
 | 词频 3 |  
@@ -6383,7 +6383,7 @@ motivated /'məʊtɪveɪtɪd/ adj
  > 珠穆朗玛峰/泰山    
 
 
-# ***<font color=#0099ff>\*mount</font>*** v
+# ***\*mount*** v
 英音 maʊnt     美音 maʊnt  
 
 | 词频 3 |  
@@ -6403,7 +6403,7 @@ motivated /'məʊtɪveɪtɪd/ adj
 ### 3.*高义频：* **逐步增加**  
 
 
-# ***<font color=#0099ff>\*mountain</font>*** n
+# ***\*mountain*** n
 英音 'maʊntən     美音 'maʊntn  
 
 | 词频 5 | 口语 1 | 书面 1 |  
@@ -6428,7 +6428,7 @@ motivated /'məʊtɪveɪtɪd/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*a mountain of / mountains of </font>
+## \*a mountain of / mountains of 
 1.**大量；大堆：**  
 
  > *a mountain of / mountains of work / debt / sandwiches *  
@@ -6438,7 +6438,7 @@ motivated /'məʊtɪveɪtɪd/ adj
  > 这些书对她来说比金山还珍贵。  （2017 浙江改）  
 
 
-# ***<font color=#0099ff>\*mountainous</font>*** adj
+# ***\*mountainous*** adj
 英音 'maʊntənəs     美音 'maʊntənəs  
 
 | 词频 2 |  
@@ -6451,7 +6451,7 @@ motivated /'məʊtɪveɪtɪd/ adj
  > 我们生活在西北山区。  （外研④ – 5）  
 
 
-# ***<font color=#0099ff>\*mountaintop</font>*** n
+# ***\*mountaintop*** n
 英音 'maʊntəntɒp     美音 'maʊntntɑːp  
 
 | 词频 1 |  
@@ -6461,7 +6461,7 @@ motivated /'məʊtɪveɪtɪd/ adj
 ### 1.**山顶**  
 
 
-# ***<font color=#0099ff>\*mounting</font>*** adj
+# ***\*mounting*** adj
 英音 'maʊntɪŋ     美音 'maʊntɪŋ  
 
 | 词频 1 |  
@@ -6471,7 +6471,7 @@ motivated /'məʊtɪveɪtɪd/ adj
 ### 1.**越来越强烈的**  
 
 
-# ***<font color=#0099ff>\*mourn</font>*** v
+# ***\*mourn*** v
 英音 mɔːn     美音 mɔːrn  
 
 | 词频 1 |  
@@ -6491,7 +6491,7 @@ motivated /'məʊtɪveɪtɪd/ adj
  > 如今伦敦焕然一新，很少有人为旧城的消失而感到遗憾。  （外研⑦ – 3）  
 
 
-# ***<font color=#0099ff>\*mouse</font>*** n
+# ***\*mouse*** n
 英音 maʊs     美音 maʊs  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -6503,7 +6503,7 @@ motivated /'məʊtɪveɪtɪd/ adj
 ### 1.*高义频：* **鼠 (pl mice)；鼠标 (pl mouses)**  
 
 
-# ***<font color=#0099ff>\*moustache</font>*** n
+# ***\*moustache*** n
 英音 mə'stɑːʃ     美音 mə'stɑːʃ  
 
 | 词频 1 |  
@@ -6515,7 +6515,7 @@ motivated /'məʊtɪveɪtɪd/ adj
 ### 1.*高义频：* **小胡子；髭**  
 
 
-# ***<font color=#0099ff>\*mouth</font>*** n
+# ***\*mouth*** n
 英音 maʊθ     美音 maʊθ  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -6529,7 +6529,7 @@ motivated /'məʊtɪveɪtɪd/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*keep one’s mouth shut </font>
+## \*keep one’s mouth shut 
 1.**保守秘密；守口如瓶**  
 
 
@@ -6543,7 +6543,7 @@ mouthful /'maʊθfʊl/ n [C]
  > 他每一口都吃得津津有味。  （人教④ – 3）  
 
 
-# ***<font color=#0099ff>\*mouthful</font>*** n
+# ***\*mouthful*** n
 英音 'maʊθfʊl     美音 'maʊθfʊl  
 
 | 词频 1 |  
@@ -6555,7 +6555,7 @@ mouthful /'maʊθfʊl/ n [C]
 ### 1.*高义频：* **一口；满口**  
 
 
-# ***<font color=#0099ff>\*movable</font>*** adj
+# ***\*movable*** adj
 英音 'muːvəbl     美音 'muːvəbl  
 
 | 词频 1 |  
@@ -6565,7 +6565,7 @@ mouthful /'maʊθfʊl/ n [C]
 ### 1.**活动的；可移动的**  
 
 
-# ***<font color=#0099ff>\*move</font>*** v
+# ***\*move*** v
 英音 muːv     美音 muːv  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6610,13 +6610,13 @@ mouthful /'maʊθfʊl/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*move about / around</font>
+## \*move about / around
 1.**四处走动；经常搬动：**  
 
  > *He became very ill and it was difficult for him to even move around. *  
  > 他病得很重，甚至连走动都很困难。    
 
-## <font color=#0099ff>\*move on </font>
+## \*move on 
 1.**继续前进；转换 (话题)：**  
 
  > *After a few minutes, the bus moved on again.*  
@@ -6626,7 +6626,7 @@ mouthful /'maʊθfʊl/ n [C]
  > 我认为这个话题我们已经谈得够多了，咱们换个话题吧。    
 
 
-# ***<font color=#0099ff>\*move</font>*** n
+# ***\*move*** n
 英音 muːv     美音 muːv  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -6654,7 +6654,7 @@ mouthful /'maʊθfʊl/ n [C]
 ---
 mov(e)able /'muːvəbl/ adj   
 
-# ***<font color=#0099ff>\*moveable</font>*** adj
+# ***\*moveable*** adj
 英音 'muːvəbl     美音 'mʊvəbəl  
 
 | 词频 1 |  
@@ -6664,7 +6664,7 @@ mov(e)able /'muːvəbl/ adj
 ### 1.*高义频：* **可移动的；活动的**  
 
 
-# ***<font color=#0099ff>\*movement</font>*** n
+# ***\*movement*** n
 英音 'muːvmənt     美音 'muːvmənt  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -6683,7 +6683,7 @@ mov(e)able /'muːvəbl/ adj
  > 这场被称为文艺复兴的运动开始于佛罗伦萨。  （ 外研③ – 1）  
 
 
-# ***<font color=#0099ff>\*movie</font>*** n
+# ***\*movie*** n
 英音 'muːvi     美音 'muːvi  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -6704,7 +6704,7 @@ mov(e)able /'muːvəbl/ adj
  > 我一直想投身电影业。    
 
 
-# ***<font color=#0099ff>\*moving</font>*** adj
+# ***\*moving*** adj
 英音 'muːvɪŋ     美音 'muːvɪŋ  
 
 | 词频 5 |  
@@ -6726,7 +6726,7 @@ mov(e)able /'muːvəbl/ adj
  > 在行驶的车上阅读对眼睛有害。    
 
 
-# ***<font color=#0099ff>\*much</font>*** adj
+# ***\*much*** adj
 英音 mʌtʃ     美音 mʌtʃ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6753,7 +6753,7 @@ mov(e)able /'muːvəbl/ adj
 答案：
 1. many → much  
 
-# ***<font color=#0099ff>\*much</font>*** pron
+# ***\*much*** pron
 英音 mʌtʃ     美音 mʌtʃ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6766,7 +6766,7 @@ mov(e)able /'muːvəbl/ adj
  > 这两个女孩相处融洽，彼此分享很多东西。  （2008 安徽）  
 
 
-# ***<font color=#0099ff>\*much</font>*** adv
+# ***\*much*** adv
 英音 mʌtʃ     美音 mʌtʃ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6806,25 +6806,25 @@ mov(e)able /'muːvəbl/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*as much </font>
+## \*as much 
 1.**同样数量；同样的事：**  
 
  > *Tony lent me the money, hoping that I’d do as much for him.*  
  > 托尼借给我钱，希望我以后也会为他做同样的事。  （2012 全国）  
 
-## <font color=#0099ff>\*as much as </font>
+## \*as much as 
 1.**像…那么多；多达：**  
 
  > *She spends as much as $2,000 on clothes every month. *  
  > 她每月买衣服的开销高达2000美元。    
 
-## <font color=#0099ff>\*as much … as </font>
+## \*as much … as 
 1.**和…同样多的；和…一样：**  
 
  > *We didn’t spend as much time at the museum as I had hoped.*  
  > 我们在博物馆花的时间没有我期望的那么长。    
 
-## <font color=#0099ff>\*as much as sb can / could (do)</font>
+## \*as much as sb can / could (do)
 1.**尽某人最大努力 (as much as possible)：**  
 
  > *I have done as much as I could do to help him. *  
@@ -6833,13 +6833,13 @@ mov(e)able /'muːvəbl/ adj
  > *Students are encouraged to read as much as possible outside school. *  
  > 我们鼓励学生在课外尽量多阅读。    
 
-## <font color=#0099ff>\*how much </font>
+## \*how much 
 1.**多少；什么价钱：**  
 
  > *Any owner will tell you how much joy a pet brings.*  
  > 任何一位宠物的主人都会告诉你宠物会带来多少欢乐。  （ 2010 全国）  
 
-## <font color=#0099ff>\*not / nothing much</font>
+## \*not / nothing much
 1.**没什么：**  
 
  > *— Is there anything wrong, Bob? You look sad.*  
@@ -6848,7 +6848,7 @@ mov(e)able /'muːvəbl/ adj
  > *— Oh, nothing much. In fact, I was just thinking of my friends back home.*  
  > 哦，没什么。事实上我刚才在想念家乡的朋友们。    
 
-## <font color=#0099ff>\*so much for </font>
+## \*so much for 
 1.**[用于结束某个话题] 到此为止：**  
 
  > *So much for all those introductions. It’s time to get down to business. *  
@@ -6872,7 +6872,7 @@ D.too long much
 答案：
 1. too → very / so  2. nothing / not much  3. B  4. much to my surprise  5. many → much  
 
-# ***<font color=#0099ff>\*mud</font>*** n
+# ***\*mud*** n
 英音 mʌd     美音 mʌd  
 
 | 词频 2 | 口语 1 |  
@@ -6884,7 +6884,7 @@ D.too long much
 ### 1.*高义频：* **泥；淤泥**  
 
 
-# ***<font color=#0099ff>\*muddy</font>*** adj
+# ***\*muddy*** adj
 英音 'mʌdi     美音 'mʌdi  
 
 | 词频 1 |  
@@ -6894,7 +6894,7 @@ D.too long much
 ### 1.*高义频：* **多泥的；泥泞的**  
 
 
-# ***<font color=#0099ff>\*muffler</font>*** n
+# ***\*muffler*** n
 英音 'mʌflə(r)     美音 'mʌflər  
 
 | 词频 1 |  
@@ -6904,7 +6904,7 @@ D.too long much
 ### 1.**围巾**  
 
 
-# ***<font color=#0099ff>\*mug</font>*** n
+# ***\*mug*** n
 英音 mʌɡ     美音 mʌɡ  
 
 | 词频 1 |  
@@ -6916,7 +6916,7 @@ D.too long much
 ### 1.*高义频：* **大杯；大杯的量：**  
 
 
-# ***<font color=#0099ff>\*mug</font>*** v
+# ***\*mug*** v
 英音 mʌɡ     美音 mʌɡ  
 
 | 词频 1 |  
@@ -6928,7 +6928,7 @@ D.too long much
 ### 1.*高义频：* **(对...) 行凶抢劫；(拍照时) 做鬼脸**  
 
 
-# ***<font color=#0099ff>\*multi-cultural</font>*** adj
+# ***\*multi-cultural*** adj
 英音 ˌmʌltɪ'kʌltʃərəl     美音 ˌmʌltɪ'kʌltʃərəl  
 
 | 词频 1 |  
@@ -6938,7 +6938,7 @@ D.too long much
 ### 1.**多种文化的**  
 
 
-# ***<font color=#0099ff>\*multicultural</font>*** adj
+# ***\*multicultural*** adj
 英音 ˌmʌlti'kʌltʃərəl     美音 ˌmʌlti'kʌltʃərəl  
 
 | 词频 2 |  
@@ -6948,7 +6948,7 @@ D.too long much
 ### 1.*高义频：* **多元文化的；多文化融合的**  
 
 
-# ***<font color=#0099ff>\*multiple</font>*** adj
+# ***\*multiple*** adj
 英音 'mʌltɪpl     美音 'mʌltɪpl  
 
 | 词频 2 |  
@@ -6958,7 +6958,7 @@ D.too long much
 ### 1.*高义频：* **多个 (人 / 事件 / 物组成) 的**  
 
 
-# ***<font color=#0099ff>\*multiple</font>*** n
+# ***\*multiple*** n
 英音 'mʌltɪpl     美音 'mʌltɪpl  
 
 | 词频 2 |  
@@ -6970,7 +6970,7 @@ D.too long much
 ### 1.*高义频：* **倍数**  
 
 
-# ***<font color=#0099ff>\*multiply</font>*** v
+# ***\*multiply*** v
 英音 'mʌltɪplaɪ     美音 'mʌltɪplaɪ  
 
 | 词频 1 |  
@@ -6994,7 +6994,7 @@ D.too long much
  > 微生物在肮脏的地方和温暖的环境下繁殖迅速。  （2010 广东）  
 
 
-# ***<font color=#0099ff>\*mummy</font>*** n
+# ***\*mummy*** n
 英音 'mʌmi     美音 'mʌmi  
 
 | 词频 2 |  
@@ -7004,7 +7004,7 @@ D.too long much
 ### 1.**（儿语）妈咪**  
 
 
-# ***<font color=#0099ff>\*mural</font>*** n
+# ***\*mural*** n
 英音 'mjʊərəl     美音 'mjʊrəl  
 
 | 词频 3 |  
@@ -7014,7 +7014,7 @@ D.too long much
 ### 1.**壁画**  
 
 
-# ***<font color=#0099ff>\*murder</font>*** n
+# ***\*murder*** n
 英音 'mɜːdə(r)     美音 'mɜːrdər  
 
 | 词频 2 | 口语 1 | 书面 2 |  
@@ -7030,7 +7030,7 @@ D.too long much
  > 本月镇上发生了两起谋杀案。    
 
 
-# ***<font color=#0099ff>\*murder</font>*** vt
+# ***\*murder*** vt
 英音 'mɜːdə(r)     美音 'mɜːrdər  
 
 | 词频 2 |  
@@ -7047,7 +7047,7 @@ D.too long much
 ---
 murderer /'mɜːdərə(r)/ n [C]   
 
-# ***<font color=#0099ff>\*murderer</font>*** n
+# ***\*murderer*** n
 英音 'mɜːdərə(r)     美音 'mɜːrdərər  
 
 | 词频 1 |  
@@ -7057,7 +7057,7 @@ murderer /'mɜːdərə(r)/ n [C]
 ### 1.**凶手；谋杀犯**  
 
 
-# ***<font color=#0099ff>\*murmur</font>*** v
+# ***\*murmur*** v
 英音 'mɜːmə(r)     美音 'mɜːrmər  
 
 | 词频 1 |  
@@ -7069,7 +7069,7 @@ murderer /'mɜːdərə(r)/ n [C]
 ### 1.*高义频：* **小声说；低语；喃喃道**  
 
 
-# ***<font color=#0099ff>\*muscle</font>*** n
+# ***\*muscle*** n
 英音 'mʌsl     美音 'mʌsl  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -7090,7 +7090,7 @@ murderer /'mɜːdərə(r)/ n [C]
  > 力气活    
 
 
-# ***<font color=#0099ff>\*museum</font>*** n
+# ***\*museum*** n
 英音 mju'ziːəm     美音 mju'ziːəm  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -7102,7 +7102,7 @@ murderer /'mɜːdərə(r)/ n [C]
 ### 1.*高义频：* **博物馆；博物院**  
 
 
-# ***<font color=#0099ff>\*mushroom</font>*** n
+# ***\*mushroom*** n
 英音 'mʌʃrʊm     美音 'mʌʃrʊm  
 
 | 词频 1 | 口语 1 |  
@@ -7114,7 +7114,7 @@ murderer /'mɜːdərə(r)/ n [C]
 ### 1.*高义频：* **蘑菇**  
 
 
-# ***<font color=#0099ff>\*mushroom</font>*** vi
+# ***\*mushroom*** vi
 英音 'mʌʃrʊm     美音 'mʌʃrʊm  
 
 | 词频 1 |  
@@ -7124,7 +7124,7 @@ murderer /'mɜːdərə(r)/ n [C]
 ### 1.*高义频：* **快速成长；迅速发展**  
 
 
-# ***<font color=#0099ff>\*music</font>*** n
+# ***\*music*** n
 英音 'mjuːzɪk     美音 'mjuːzɪk  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -7143,7 +7143,7 @@ murderer /'mɜːdərə(r)/ n [C]
  > 调高/低音乐    
 
 
-# ***<font color=#0099ff>\*musical</font>*** adj
+# ***\*musical*** adj
 英音 'mjuːzɪkl     美音 'mjuːzɪkl  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -7156,7 +7156,7 @@ murderer /'mɜːdərə(r)/ n [C]
  > 乐器    
 
 
-# ***<font color=#0099ff>\*musical</font>*** n
+# ***\*musical*** n
 英音 'mjuːzɪkl     美音 'mjuːzɪkl  
 
 | 词频 4 |  
@@ -7168,7 +7168,7 @@ murderer /'mɜːdərə(r)/ n [C]
 ### 1.*高义频：* **音乐喜剧；(电影) 音乐片**  
 
 
-# ***<font color=#0099ff>\*musician</font>*** n
+# ***\*musician*** n
 英音 mju'zɪʃn     美音 mju'zɪʃn  
 
 | 词频 4 |  
@@ -7180,7 +7180,7 @@ murderer /'mɜːdərə(r)/ n [C]
 ### 1.*高义频：* **音乐家；作曲家**  
 
 
-# ***<font color=#0099ff>\*must</font>*** modal v
+# ***\*must*** modal v
 英音 məst,mʌst     美音 məst,mʌst  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -7231,7 +7231,7 @@ Notes: must表示推测时，一般用于肯定句。
 
 固定搭配
 ---
-## <font color=#0099ff>\*if you must (do sth)</font>
+## \*if you must (do sth)
 1.**如果你一定要(做某事)：**  
 
  > *If you must smoke, please go outside.*  
@@ -7259,7 +7259,7 @@ D.may
 答案：
 1. C  2. must  3. didn’t  4. must  5. C  
 
-# ***<font color=#0099ff>\*must</font>*** n
+# ***\*must*** n
 英音 mʌst     美音 mʌst  
 
 | 词频 5 |  
@@ -7274,7 +7274,7 @@ D.may
  > 他的新作是所有侦探小说爱好者的必读书。    
 
 
-# ***<font color=#0099ff>\*mustard</font>*** n
+# ***\*mustard*** n
 英音 'mʌstəd     美音 'mʌstərd  
 
 | 词频 1 |  
@@ -7286,7 +7286,7 @@ D.may
 ### 1.*高义频：* **芥末；芥末酱**  
 
 
-# ***<font color=#0099ff>\*mutton</font>*** n
+# ***\*mutton*** n
 英音 'mʌtn     美音 'mʌtn  
 
 | 词频 1 |  
@@ -7298,7 +7298,7 @@ D.may
 ### 1.*高义频：* **羊肉**  
 
 
-# ***<font color=#0099ff>\*mutual</font>*** adj
+# ***\*mutual*** adj
 英音 'mjuːtʃuəl     美音 'mjuːtʃuəl  
 
 | 词频 1 | 阅读 2 |  
@@ -7312,7 +7312,7 @@ D.may
  > 共同的努力/相互的支持    
 
 
-# ***<font color=#0099ff>\*my</font>*** pron
+# ***\*my*** pron
 英音 maɪ     美音 maɪ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -7332,7 +7332,7 @@ D.may
 答案：
 1. your → my  
 
-# ***<font color=#0099ff>\*myself</font>*** pron
+# ***\*myself*** pron
 英音 maɪ'self     美音 maɪ'self  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -7357,7 +7357,7 @@ D.may
 答案：
 1. myself  
 
-# ***<font color=#0099ff>\*mysterious</font>*** adj
+# ***\*mysterious*** adj
 英音 mɪ'stɪəriəs     美音 mɪ'stɪriəs  
 
 | 词频 2 | 阅读 2 |  
@@ -7367,7 +7367,7 @@ D.may
 ### 1.*高义频：* **神秘的；不可思议的**  
 
 
-# ***<font color=#0099ff>\*mystery</font>*** n
+# ***\*mystery*** n
 英音 'mɪstri     美音 'mɪstri  
 
 | 词频 4 | 书面 1 | 阅读 3 |  
@@ -7385,7 +7385,7 @@ D.may
 ### 2.*高义频：* **推理 / 侦探作品**  
 
 
-# ***<font color=#0099ff>\*myth</font>*** n
+# ***\*myth*** n
 英音 mɪθ     美音 mɪθ  
 
 | 词频 2 |  
@@ -7395,7 +7395,7 @@ D.may
 ### 1.**神话；神话故事**  
 
 
-# ***<font color=#0099ff>\*mythology</font>*** n
+# ***\*mythology*** n
 英音 mɪ'θɒlədʒi     美音 mɪ'θɑːlədʒi  
 
 | 词频 1 |  

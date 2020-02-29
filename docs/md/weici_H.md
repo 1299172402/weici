@@ -1,6 +1,6 @@
 # Hh
 
-# ***<font color=#0099ff>\*ha</font>*** int
+# ***\*ha*** int
 英音 hɑː     美音 hɑ  
 
 | 词频 1 |  
@@ -10,7 +10,7 @@
 ### 1.*高义频：* **[表示惊异、愉快、怀疑、胜利等] 嘿；哈；看；瞧**  
 
 
-# ***<font color=#0099ff>\*habit</font>*** n
+# ***\*habit*** n
 英音 'hæbɪt     美音 ˈhæbɪt  
 
 | 词频 5 | 口语 1 | 书面 1 |  
@@ -29,7 +29,7 @@
 
 固定搭配
 ---
-## <font color=#0099ff>\*be in the habit of / have a / the habit of</font>
+## \*be in the habit of / have a / the habit of
 1.**有…的习惯：**  
 
  > *He's in the habit of getting up late on the weekend.*  
@@ -38,25 +38,25 @@
  > *Do you have the habit of offering your seat to the old on the bus?*  
  > 乘车时你有主动给老人让座的习惯吗？    
 
-## <font color=#0099ff>\*break / kick the habit of</font>
+## \*break / kick the habit of
 1.**改掉…的 (坏) 习惯：**  
 
  > *He said he would try to break the habit of going to bed late.*  
  > 他说他将设法改掉晚睡的习惯。    
 
-## <font color=#0099ff>\*develop / fall into / form / get in(to) the / a habit of</font>
+## \*develop / fall into / form / get in(to) the / a habit of
 1.**养成…的习惯：**  
 
  > *Don't fall into the bad habit of smoking.*  
  > 别沾染上吸烟的坏习惯。    
 
-## <font color=#0099ff>\*get out of the habit of</font>
+## \*get out of the habit of
 1.**改掉…的习惯：**  
 
  > *I've got out of the habit of taking a walk after dinner*  
  > 我已经没有晚饭后散步的习惯了。    
 
-## <font color=#0099ff>\*out of habit</font>
+## \*out of habit
 1.**出于习惯：**  
 
  > *I only do it out of habit.*  
@@ -71,7 +71,7 @@
 答案：
 1. habit  2. break / kick the habit  
 
-# ***<font color=#0099ff>\*habitat</font>*** n
+# ***\*habitat*** n
 英音 ˈhæbɪtæt     美音 ˈhæbɪˌtæt  
 
 | 词频 3 | 阅读 2 |  
@@ -81,7 +81,7 @@
 ### 1.*高义频：* **[C] & [U] (动物) 栖息地；(植物) 生长地**  
 
 
-# ***<font color=#0099ff>\*hacker</font>*** n
+# ***\*hacker*** n
 英音 'hækə(r)     美音 'hækər  
 
 | 词频 1 |  
@@ -91,7 +91,7 @@
 ### 1.**电脑黑客**  
 
 
-# ***<font color=#0099ff>\*haiku</font>*** n
+# ***\*haiku*** n
 英音 'haɪkuː     美音 'haɪkuː  
 
 | 词频 1 |  
@@ -103,7 +103,7 @@
 ### 1.*高义频：* **俳句**  
 
 
-# ***<font color=#0099ff>\*hair</font>*** n
+# ***\*hair*** n
 英音 heə(r)     美音 her  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -128,7 +128,7 @@ Notes: hair作为不可数名词时，指“头发”这种物 质；作为可�
  > 她衣领上有两根白发。    
 
 
-# ***<font color=#0099ff>\*haircut</font>*** n
+# ***\*haircut*** n
 英音 'heəkʌt     美音 'herkʌt  
 
 | 词频 1 |  
@@ -148,7 +148,7 @@ Notes: hair作为不可数名词时，指“头发”这种物 质；作为可�
  > 你觉得我的新发型怎么样？    
 
 
-# ***<font color=#0099ff>\*hairdresser</font>*** n
+# ***\*hairdresser*** n
 英音 'heədresə(r)     美音 'herdresər  
 
 | 词频 1 |  
@@ -164,7 +164,7 @@ Notes: hair作为不可数名词时，指“头发”这种物 质；作为可�
  > 理发店；发廊    
 
 
-# ***<font color=#0099ff>\*hairpin</font>*** n
+# ***\*hairpin*** n
 英音 'heəpɪn     美音 'herpɪn  
 
 | 词频 1 |  
@@ -174,7 +174,7 @@ Notes: hair作为不可数名词时，指“头发”这种物 质；作为可�
 ### 1.**发卡,发夹**  
 
 
-# ***<font color=#0099ff>\*hairstyle</font>*** n
+# ***\*hairstyle*** n
 英音 'heəstaɪl     美音 'herstaɪl  
 
 | 词频 1 |  
@@ -184,7 +184,7 @@ Notes: hair作为不可数名词时，指“头发”这种物 质；作为可�
 ### 1.**发型**  
 
 
-# ***<font color=#0099ff>\*hairy</font>*** adj
+# ***\*hairy*** adj
 英音 'heəri     美音 'heri  
 
 | 词频 1 |  
@@ -194,7 +194,7 @@ Notes: hair作为不可数名词时，指“头发”这种物 质；作为可�
 ### 1.**毛的；多毛的**  
 
 
-# ***<font color=#0099ff>\*half</font>*** n
+# ***\*half*** n
 英音 hɑːf     美音 hæf  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -222,7 +222,7 @@ Notes: hair作为不可数名词时，指“头发”这种物 质；作为可�
  > 上半场，法国队发挥得不错。    
 
 
-# ***<font color=#0099ff>\*half</font>*** pron
+# ***\*half*** pron
 英音 hɑːf     美音 hæf  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -241,7 +241,7 @@ Notes: hair作为不可数名词时，指“头发”这种物 质；作为可�
 
 Notes:  half of …，some of …，all of …，most of … 等作主语时，谓语动词的数与of后的词一致。  
 
-# ***<font color=#0099ff>\*half</font>*** adj
+# ***\*half*** adj
 英音 hɑːf     美音 hæf  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -260,7 +260,7 @@ Notes:  half of …，some of …，all of …，most of … 等作主语时，�
 
 Notes: half，all，both等作定语时，常位于定冠词或物主代词之前。  
 
-# ***<font color=#0099ff>\*half</font>*** adv
+# ***\*half*** adv
 英音 hɑːf     美音 hæf  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -280,7 +280,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
  > 工作不要半途而废。    
 
 
-# ***<font color=#0099ff>\*halfway</font>*** adj
+# ***\*halfway*** adj
 英音 ˌhɑːfˈweɪ     美音 hæfˈweɪ  
 
 | 词频 3 | 口语 1 |  
@@ -301,7 +301,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
  > 当我们的项目做到一半时，情况开始变得更加困难。    
 
 
-# ***<font color=#0099ff>\*halfway</font>*** adv
+# ***\*halfway*** adv
 英音 ˌhɑːfˈweɪ     美音 ˌhæfˈweɪ  
 
 | 词频 3 |  
@@ -322,7 +322,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
  > 在工作中建立良好的人际关系，你就成功了一半。    
 
 
-# ***<font color=#0099ff>\*hall</font>*** n
+# ***\*hall*** n
 英音 hɔːl     美音 hɔl  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -345,7 +345,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
  > 她跑进门厅，冲上楼梯。    
 
 
-# ***<font color=#0099ff>\*ham</font>*** n
+# ***\*ham*** n
 英音 hæm     美音 hæm  
 
 | 词频 1 |  
@@ -355,7 +355,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 ### 1.*高义频：* **[C] & [U] 火腿**  
 
 
-# ***<font color=#0099ff>\*hamburger</font>*** n
+# ***\*hamburger*** n
 英音 ˈhæmbɜːɡə(r)     美音 ˈhæmbɜrɡər  
 
 | 词频 2 |  
@@ -365,7 +365,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 ### 1.*高义频：* **[C] 汉堡包**  
 
 
-# ***<font color=#0099ff>\*hammer</font>*** n
+# ***\*hammer*** n
 英音 ˈhæmə(r)     美音 ˈhæmər  
 
 | 词频 2 |  
@@ -375,7 +375,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 ### 1.*高义频：* **[C] 锤子；榔头**  
 
 
-# ***<font color=#0099ff>\*hammer</font>*** v
+# ***\*hammer*** v
 英音 ˈhæmə(r)     美音 ˈhæmər  
 
 | 词频 2 |  
@@ -389,7 +389,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
  > 他用锤子把钉子敲进木头里。    
 
 
-# ***<font color=#0099ff>\*hand</font>*** n  重难点词汇
+# ***\*hand*** n  重难点词汇
 英音 hænd     美音 hænd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -432,7 +432,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 
 固定搭配
 ---
-## <font color=#0099ff>\*at hand </font>
+## \*at hand 
 1.**即将到来；在手边：**  
 
  > *The autumn harvest is at hand.*  
@@ -441,31 +441,31 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
  > *You'd better keep a dictionary close at hand.*  
  > 你最好在手边放本词典。    
 
-## <font color=#0099ff>\*by hand </font>
+## \*by hand 
 1.**用手；靠人工：**  
 
  > *With the coming of new technologies like computers and smartphones, writing by hand has become a thing of the past.*  
  > 随着诸如计算机和智能手机等新技术的出现，手写已成为过去的事。  （2012 天津）  
 
-## <font color=#0099ff>\*hand in hand </font>
+## \*hand in hand 
 1.**手拉手；连在一起地；密切关联：**  
 
  > *As the saying goes, success and failure always go hand in hand. *  
  > 俗话说，成功与失败如影随形。  （2008 湖南）  
 
-## <font color=#0099ff>\*in the hands of sb / in sb's hands</font>
+## \*in the hands of sb / in sb's hands
 1.**由某人照料 / 控制：**  
 
  > *The matter is in the hands of the police. *  
  > 这件事由警方在处理。    
 
-## <font color=#0099ff>\*on hand </font>
+## \*on hand 
 1.**在手头；现有；在场；到场：**  
 
  > *Several former teachers were on hand to tell stories about the old days.*  
  > 几位以前的教师在现场讲述过去的事情。  （2012 天津）  
 
-## <font color=#0099ff>\*(on the one hand …) on the other (hand)</font>
+## \*(on the one hand …) on the other (hand)
 1.**一方面…另一方面：**  
 
  > *On the one hand, computers improve the working efficiency; on the other hand, they also bring about some new problems. *  
@@ -479,7 +479,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 答案：
 1. On the other (hand)  
 
-# ***<font color=#0099ff>\*hand</font>*** vt  重难点词汇
+# ***\*hand*** vt  重难点词汇
 英音 hænd     美音 hænd  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -495,31 +495,31 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 
 固定搭配
 ---
-## <font color=#0099ff>\*hand around / round</font>
+## \*hand around / round
 1.**分发**  
 
-## <font color=#0099ff>\*hand back</font>
+## \*hand back
 1.**交回；归还**  
 
-## <font color=#0099ff>\*hand down </font>
+## \*hand down 
 1.**把…传下来 (pass down)：**  
 
  > *This ring has been handed down in my family. *  
  > 这枚戒指是我家祖传的。    
 
-## <font color=#0099ff>\*hand in </font>
+## \*hand in 
 1.**提交；交上：**  
 
  > *If you order your lunch at the school dining hall, please hand in your order before 9:30.*  
  > 如果你要在学校餐厅订午餐，请在9:30前把订单交上来。    
 
-## <font color=#0099ff>\*hand out </font>
+## \*hand out 
 1.**把…拿出来；分发 (distribute)：**  
 
  > *Could you hand these books out, please? *  
  > 请把这些书发给大家好吗？    
 
-## <font color=#0099ff>\*hand over </font>
+## \*hand over 
 1.**移交；交出：**  
 
  > *On his retirement, he handed the business over to his son.*  
@@ -533,7 +533,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 答案：
 1. over  
 
-# ***<font color=#0099ff>\*handbag</font>*** n
+# ***\*handbag*** n
 英音 'hændbæɡ     美音 'hændbæɡ  
 
 | 词频 2 | 口语 1 |  
@@ -543,7 +543,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 ### 1.*高义频：* **(女用) 手提包 (AmE purse)**  
 
 
-# ***<font color=#0099ff>\*handclap</font>*** n
+# ***\*handclap*** n
 英音 'hændklæp     美音 'hændklæp  
 
 | 词频 1 |  
@@ -553,7 +553,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 ### 1.**拍手**  
 
 
-# ***<font color=#0099ff>\*handful</font>*** n
+# ***\*handful*** n
 英音 'hændfʊl     美音 'hændfʊl  
 
 | 词频 1 |  
@@ -571,7 +571,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
  > 三把豆子    
 
 
-# ***<font color=#0099ff>\*handkerchief</font>*** n
+# ***\*handkerchief*** n
 英音 'hæŋkətʃɪf     美音 'hæŋkərtʃɪf  
 
 | 词频 1 |  
@@ -581,7 +581,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 ### 1.*高义频：* **手帕；纸巾**  
 
 
-# ***<font color=#0099ff>\*handle</font>*** n
+# ***\*handle*** n
 英音 'hændl     美音 'hændl  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -599,7 +599,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
  > 转动门把手    
 
 
-# ***<font color=#0099ff>\*handle</font>*** v
+# ***\*handle*** v
 英音 'hændl     美音 'hændl  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -646,7 +646,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 答案：
 1. handle  
 
-# ***<font color=#0099ff>\*handshake</font>*** n
+# ***\*handshake*** n
 英音 'hændʃeɪk     美音 'hændʃeɪk  
 
 | 词频 2 |  
@@ -656,7 +656,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 ### 1.*高义频：* **握手**  
 
 
-# ***<font color=#0099ff>\*handsome</font>*** adj
+# ***\*handsome*** adj
 英音 'hænsəm     美音 'hænsəm  
 
 | 词频 2 |  
@@ -677,7 +677,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
  > 富丽堂皇的建筑物    
 
 
-# ***<font color=#0099ff>\*handwriting</font>*** n
+# ***\*handwriting*** n
 英音 'hændraɪtɪŋ     美音 'hændraɪtɪŋ  
 
 | 词频 3 |  
@@ -690,7 +690,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
  > 他认出了信封上她的笔迹。    
 
 
-# ***<font color=#0099ff>\*handwritten</font>*** adj
+# ***\*handwritten*** adj
 英音 ˌhænd'rɪtn     美音 ˌhænd'rɪtn  
 
   
@@ -700,7 +700,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 ### 1.**手写的**  
 
 
-# ***<font color=#0099ff>\*handy</font>*** adj
+# ***\*handy*** adj
 英音 'hændi     美音 'hændi  
 
 | 词频 1 | 口语 1 |  
@@ -728,7 +728,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
  > 这房子离市场很近。    
 
 
-# ***<font color=#0099ff>\*hang</font>*** v  重难点词汇
+# ***\*hang*** v  重难点词汇
 英音 hæŋ     美音 hæŋ  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -757,19 +757,19 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 
 固定搭配
 ---
-## <font color=#0099ff>\*hang about / around</font>
+## \*hang about / around
 1.**(在…附近) 闲逛；晃悠：**  
 
  > *There were some kids hanging about in the street.*  
  > 街上有几个孩子在游荡。    
 
-## <font color=#0099ff>\*hang about / around with sb</font>
+## \*hang about / around with sb
 1.**与某人厮混；聚在一起：**  
 
  > *The people I used to hang around with were much older than me. *  
  > 以前和我一起混的人都比我年长许多。    
 
-## <font color=#0099ff>\*hang on </font>
+## \*hang on 
 1.**抓紧不放；[非正式用语] 不要挂断(hold on)：**  
 
  > **Hang on to**  
@@ -779,7 +779,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
  > *Hang on — I'll just see if he's here.*  
  > 别挂断，我这就去看看他在不在。    
 
-## <font color=#0099ff>\*hang out (with) </font>
+## \*hang out (with) 
 1.**常去某处；与…经常在一起：**  
 
  > *— What were you doing last night? *  
@@ -788,13 +788,13 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
  > *— Nothing special. Just hung out with friends.*  
  > 没什么，就是跟朋友在一起。    
 
-## <font color=#0099ff>\*hang over </font>
+## \*hang over 
 1.**笼罩：**  
 
  > *The wet air forms clouds, which hang over the treetops like smoke.*  
  > 湿气形成云，像烟雾一样笼罩在树梢。    
 
-## <font color=#0099ff>\*hang up</font>
+## \*hang up
 1.**挂断 (电话)：**  
 
  > *Someone called me up just now, but he hung up before I could answer the phone.*  
@@ -810,7 +810,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 答案：
 1. hung / hanging  2. hang up  
 
-# ***<font color=#0099ff>\*happen</font>*** vi
+# ***\*happen*** vi
 英音 'hæpən     美音 'hæpən  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -842,7 +842,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
  > *Do you happen to know what's on after the news?*  
  > 你知道新闻之后是什么节目吗？    
 
-## <font color=#0099ff>\*it (so) happens that / as it happens</font>
+## \*it (so) happens that / as it happens
 1.**碰巧；恰好：**  
 
  > *It so happened that I was out when he came. / As it happened, I was out when he came.*  
@@ -852,7 +852,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 二者都可指“发生”。  
 
 
-# ***<font color=#0099ff>\*happening</font>*** n
+# ***\*happening*** n
 英音 'hæpənɪŋ     美音 'hæpənɪŋ  
 
 | 词频 4 | 阅读 3 |  
@@ -869,7 +869,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
  > 怪/不寻常的事    
 
 
-# ***<font color=#0099ff>\*happiness</font>*** n
+# ***\*happiness*** n
 英音 'hæpinəs     美音 'hæpinəs  
 
 | 词频 4 |  
@@ -884,7 +884,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
  > 金钱并不总是带来快乐。    
 
 
-# ***<font color=#0099ff>\*happy</font>*** adj
+# ***\*happy*** adj
 英音 'hæpi     美音 'hæpi  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -924,7 +924,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 ---
  happily  /'hæpɪli/ adv   
 
-# ***<font color=#0099ff>\*harbo(u)r</font>*** n
+# ***\*harbo(u)r*** n
 英音 'hɑːbə(r)     美音 'hɑːrbər  
 
 | 词频 2 |  
@@ -936,7 +936,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 ### 1.*高义频：* **海港；港湾**  
 
 
-# ***<font color=#0099ff>\*hard</font>*** adj
+# ***\*hard*** adj
 英音 hɑːd     美音 hɑːrd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1020,11 +1020,11 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 
 固定搭配
 ---
-## <font color=#0099ff>\*hard facts </font>
+## \*hard facts 
 1.**确切的证据**  
 
 
-# ***<font color=#0099ff>\*hard</font>*** adv
+# ***\*hard*** adv
 英音 hɑːd     美音 hɑːrd  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -1047,7 +1047,7 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 ---
 harden /'hɑːdn/ v   
 
-# ***<font color=#0099ff>\*harden</font>*** v
+# ***\*harden*** v
 美音 'hɑːrdn  
 
   
@@ -1057,7 +1057,7 @@ harden /'hɑːdn/ v
 ### 1.**（使）变硬；（使）坚强**  
 
 
-# ***<font color=#0099ff>\*hardly</font>*** adv  重难点词汇
+# ***\*hardly*** adv  重难点词汇
 英音 'hɑːdli     美音 'hɑːrdli  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -1078,7 +1078,7 @@ harden /'hɑːdn/ v
 
 固定搭配
 ---
-## <font color=#0099ff>\*hardly ever </font>
+## \*hardly ever 
 1.**很少；几乎从不 (almost never)：**  
 
  > *— Sometimes I think you watch too much TV. *  
@@ -1087,7 +1087,7 @@ harden /'hɑːdn/ v
  > *— Oh I hardly ever watch TV.*  
  > 哦，我很少看电视    
 
-## <font color=#0099ff>\*hardly … when / before</font>
+## \*hardly … when / before
 1.**刚…就：**  
 
  > *The girl had hardly rung the bell before the door was opened suddenly.*  
@@ -1109,7 +1109,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 答案：
 1. when  2. hard → hardly  
 
-# ***<font color=#0099ff>\*hardship</font>*** n
+# ***\*hardship*** n
 英音 'hɑːdʃɪp     美音 'hɑːrdʃɪp  
 
 | 词频 2 |  
@@ -1127,7 +1127,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 直到经历了真正的苦难，他才意识到我们对家人的爱很重要。  （2013 福建）  
 
 
-# ***<font color=#0099ff>\*hardware</font>*** n
+# ***\*hardware*** n
 英音 'hɑːdweə(r)     美音 'hɑːrdwer  
 
 | 词频 2 | 阅读 1 |  
@@ -1139,7 +1139,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 ### 1.*高义频：* **(计算机) 硬件；五金制品**  
 
 
-# ***<font color=#0099ff>\*hardworking</font>*** adj
+# ***\*hardworking*** adj
 英音 hɑːd'wɜːkɪŋ     美音 'hɑːd'wɜːkɪŋ  
 
 | 词频 2 |  
@@ -1159,7 +1159,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 答案：
 1. hard-working  
 
-# ***<font color=#0099ff>\*harm</font>*** n
+# ***\*harm*** n
 英音 hɑːm     美音 hɑːrm  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -1177,14 +1177,14 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 
 固定搭配
 ---
-## <font color=#0099ff>\*do harm to / do ... harm </font>
+## \*do harm to / do ... harm 
 1.**伤害；对…有害：**  
 
  > *Too much drinking will do great harm to you. / Too much drinking will do you great harm.*  
  > 饮酒过量危害甚大。    
 
 
-# ***<font color=#0099ff>\*harm</font>*** vt
+# ***\*harm*** vt
 英音 hɑːrm     美音 hɑːrm  
 
 | 词频 4 |  
@@ -1204,7 +1204,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 ---
 harmless /'hɑːmləs/ adj   
 
-# ***<font color=#0099ff>\*harmful</font>*** adj
+# ***\*harmful*** adj
 英音 'hɑːmfl     美音 'hɑːrmfl  
 
 | 词频 4 | 阅读 3 |  
@@ -1222,7 +1222,7 @@ harmless /'hɑːmləs/ adj
  > 空气污染会加剧，这会对人们造成危害。  （北师大④ – 11）  
 
 
-# ***<font color=#0099ff>\*harmonica</font>*** n
+# ***\*harmonica*** n
 英音 hɑː'mɒnɪkə     美音 hɑːr'mɑːnɪkə  
 
 | 词频 1 |  
@@ -1232,7 +1232,7 @@ harmless /'hɑːmləs/ adj
 ### 1.**口琴**  
 
 
-# ***<font color=#0099ff>\*harmony</font>*** n
+# ***\*harmony*** n
 英音 'hɑːməni     美音 ˈhɑːrməni  
 
 | 词频 2 | 阅读 2 |  
@@ -1262,7 +1262,7 @@ harmless /'hɑːmləs/ adj
 答案：
 1. in harmony with  
 
-# ***<font color=#0099ff>\*harness</font>*** vt
+# ***\*harness*** vt
 英音 'hɑːnɪs     美音 'hɑːrnɪs  
 
 | 词频 2 |  
@@ -1272,7 +1272,7 @@ harmless /'hɑːmləs/ adj
 ### 1.**利用; 将 (自然力) 变成动力**  
 
 
-# ***<font color=#0099ff>\*harp</font>*** n
+# ***\*harp*** n
 英音 hɑːp     美音 hɑːrp  
 
 | 词频 1 |  
@@ -1282,7 +1282,7 @@ harmless /'hɑːmləs/ adj
 ### 1.**竖琴**  
 
 
-# ***<font color=#0099ff>\*harpoon</font>*** n
+# ***\*harpoon*** n
 英音 hɑː'puːn     美音 hɑːr'puːn  
 
 | 词频 1 |  
@@ -1294,7 +1294,7 @@ harmless /'hɑːmləs/ adj
 ### 1.*高义频：* **(捕鲸用的) 鱼叉**  
 
 
-# ***<font color=#0099ff>\*harsh</font>*** adj
+# ***\*harsh*** adj
 英音 hɑːʃ     美音 hɑːrʃ  
 
 | 词频 1 |  
@@ -1304,7 +1304,7 @@ harmless /'hɑːmləs/ adj
 ### 1.**刺耳的, 刺眼的**  
 
 
-# ***<font color=#0099ff>\*harvest</font>*** n
+# ***\*harvest*** n
 英音 'hɑːvɪst     美音 'hɑːrvɪst  
 
 | 词频 3 |  
@@ -1334,7 +1334,7 @@ harmless /'hɑːmləs/ adj
 答案：
 1. harvest  
 
-# ***<font color=#0099ff>\*harvest</font>*** v
+# ***\*harvest*** v
 英音 'hɑːrvɪst     美音 'hɑːrvɪst  
 
 | 词频 3 |  
@@ -1355,7 +1355,7 @@ harmless /'hɑːmləs/ adj
  > 干细胞是从一位捐献者身上采集的。  （2016 全国）  
 
 
-# ***<font color=#0099ff>\*hat</font>*** n
+# ***\*hat*** n
 英音 hæt     美音 hæt  
 
 | 词频 4 | 口语 3 | 书面 1 |  
@@ -1367,7 +1367,7 @@ harmless /'hɑːmləs/ adj
 ### 1.*高义频：* **(有檐的) 帽子**  
 
 
-# ***<font color=#0099ff>\*hatch</font>*** v
+# ***\*hatch*** v
 英音 hætʃ     美音 hætʃ  
 
 | 词频 3 |  
@@ -1383,7 +1383,7 @@ harmless /'hɑːmləs/ adj
  > 不要高兴得太早。    
 
 
-# ***<font color=#0099ff>\*hate</font>*** vt
+# ***\*hate*** vt
 英音 heɪt     美音 heɪt  
 
 | 词频 4 | 口语 3 | 书面 1 |  
@@ -1422,7 +1422,7 @@ harmless /'hɑːmləs/ adj
 答案：
 1. hate to say this / it  
 
-# ***<font color=#0099ff>\*hate</font>*** n
+# ***\*hate*** n
 英音 heɪt     美音 heɪt  
 
 | 词频 4 | 口语 3 | 书面 1 |  
@@ -1437,7 +1437,7 @@ harmless /'hɑːmləs/ adj
  > 一个成功的道歉能化干戈为玉帛。  （2011 江苏改）  
 
 
-# ***<font color=#0099ff>\*hatred</font>*** n
+# ***\*hatred*** n
 英音 'heɪtrɪd     美音 'heɪtrɪd  
 
 | 词频 1 |  
@@ -1453,7 +1453,7 @@ harmless /'hɑːmləs/ adj
  > 他觉得对自己从未见过的人充满仇恨很荒谬。  （ 人教⑦ – 2）  
 
 
-# ***<font color=#0099ff>\*have</font>*** vt  重难点词汇
+# ***\*have*** vt  重难点词汇
 英音 həv     美音 həv  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1547,7 +1547,7 @@ harmless /'hɑːmləs/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*have ... on</font>
+## \*have ... on
 1.**[不用于进行时] 穿着；戴着；安排：**  
 
  > *The emperor had nothing on. *  
@@ -1556,7 +1556,7 @@ harmless /'hɑːmləs/ adj
  > *Have you anything on this afternoon?*  
  > 你下午有事吗？    
 
-## <font color=#0099ff>\*have to</font>
+## \*have to
 1.*高义频：* **[口语中用 have got to, 或缩写成've got to] 必须；不得不：**  
 
  > *I've got to prepare for the chemistry test this week.*  
@@ -1574,7 +1574,7 @@ C.
 答案：
 1. hidden  2. would have  3. checked  4. on  
 
-# ***<font color=#0099ff>\*have</font>*** aux v  重难点词汇
+# ***\*have*** aux v  重难点词汇
 英音 həv     美音 həv  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1603,7 +1603,7 @@ C.
 答案：
 1. had I known / if I had known  
 
-# ***<font color=#0099ff>\*he</font>*** pron
+# ***\*he*** pron
 英音 hi:     美音 hi:  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1632,7 +1632,7 @@ C.
  > 每个人都尽了力。    
 
 
-# ***<font color=#0099ff>\*head</font>*** n
+# ***\*head*** n
 英音 hed     美音 hed  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1686,17 +1686,17 @@ Notes: 表示牲畜的头数时，单复数同形，都用head。
 
 固定搭配
 ---
-## <font color=#0099ff>\*hold one's head high</font>
+## \*hold one's head high
 1.*高义频：* **昂首；趾高气扬：**  
 
  > *Don't hold your head too high.*  
  > 不要太趾高气扬。    
 
-## <font color=#0099ff>\*off the top of one's head</font>
+## \*off the top of one's head
 1.**不假思索的；即兴的**  
 
 
-# ***<font color=#0099ff>\*head</font>*** v
+# ***\*head*** v
 英音 hed     美音 hed  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -1721,7 +1721,7 @@ Notes: 表示牲畜的头数时，单复数同形，都用head。
 
 固定搭配
 ---
-## <font color=#0099ff>\*head for </font>
+## \*head for 
 1.**朝…方向走：**  
 
  > *After the game, the fans headed for the exit. *  
@@ -1732,7 +1732,7 @@ Notes: 表示牲畜的头数时，单复数同形，都用head。
 ---
 heading /'hedɪŋ/ n [C]  
 
-# ***<font color=#0099ff>\*headache</font>*** n
+# ***\*headache*** n
 英音 'hedeɪk     美音 'hedeɪk  
 
 | 词频 3 |  
@@ -1751,7 +1751,7 @@ heading /'hedɪŋ/ n [C]
  > 语法让我头疼。  （北师大⑤ – 13）  
 
 
-# ***<font color=#0099ff>\*heading</font>*** n
+# ***\*heading*** n
 英音 'hedɪŋ     美音 'hedɪŋ  
 
 | 词频 3 |  
@@ -1763,7 +1763,7 @@ heading /'hedɪŋ/ n [C]
 ### 1.*高义频：* **标题**  
 
 
-# ***<font color=#0099ff>\*headline</font>*** n
+# ***\*headline*** n
 英音 'hedlaɪn     美音 'hedlaɪn  
 
 | 词频 1 |  
@@ -1775,7 +1775,7 @@ heading /'hedɪŋ/ n [C]
 ### 1.*高义频：* **(报纸的) 标题；[the headlines] 新闻提要**  
 
 
-# ***<font color=#0099ff>\*headmaster</font>*** n
+# ***\*headmaster*** n
 英音 ˌhed'mɑːstə(r)     美音 ˌhed'mæstər  
 
 | 词频 4 |  
@@ -1787,7 +1787,7 @@ heading /'hedɪŋ/ n [C]
 ### 1.*高义频：* **(中小学)校长 (AmE principal)**  
 
 
-# ***<font color=#0099ff>\*headmistress</font>*** n
+# ***\*headmistress*** n
 英音 'hed'mɪstrɪs     美音 'hed'mɪstrɪs  
 
 | 词频 1 |  
@@ -1799,7 +1799,7 @@ heading /'hedɪŋ/ n [C]
 ### 1.*高义频：* **(中小学)女校长 (AmE principal)**  
 
 
-# ***<font color=#0099ff>\*headphone</font>*** n
+# ***\*headphone*** n
 英音 'hedfəʊn     美音 'hedfoʊn  
 
 | 词频 1 |  
@@ -1809,7 +1809,7 @@ heading /'hedɪŋ/ n [C]
 ### 1.**头戴式受话机, 耳机**  
 
 
-# ***<font color=#0099ff>\*headquarters</font>*** n
+# ***\*headquarters*** n
 英音 ˌhed'kwɔːtəz     美音 'hedkwɔːrtərz  
 
 | 词频 1 |  
@@ -1821,7 +1821,7 @@ heading /'hedɪŋ/ n [C]
 ### 1.*高义频：* **司令部；总部**  
 
 
-# ***<font color=#0099ff>\*headset</font>*** n
+# ***\*headset*** n
 英音 'hedset     美音 'hedset  
 
 | 词频 2 |  
@@ -1831,7 +1831,7 @@ heading /'hedɪŋ/ n [C]
 ### 1.**头戴式耳机**  
 
 
-# ***<font color=#0099ff>\*headteacher</font>*** n
+# ***\*headteacher*** n
 英音 hed'tiːtʃər     美音 hed'tiːtʃər  
 
 | 词频 1 |  
@@ -1843,7 +1843,7 @@ heading /'hedɪŋ/ n [C]
 ### 1.*高义频：* **(BrE) 校长**  
 
 
-# ***<font color=#0099ff>\*heal</font>*** v
+# ***\*heal*** v
 英音 hiːl     美音 hiːl  
 
 | 词频 2 | 阅读 1 |  
@@ -1858,11 +1858,11 @@ heading /'hedɪŋ/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*heal over / up</font>
+## \*heal over / up
 1.**愈合；痊愈**  
 
 
-# ***<font color=#0099ff>\*health</font>*** n
+# ***\*health*** n
 英音 helθ     美音 helθ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1887,7 +1887,7 @@ heading /'hedɪŋ/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*(be) in good / poor health</font>
+## \*(be) in good / poor health
 1.**身体好 / 差：**  
 
  > *You must be in good health and prepared to go through a period of body exercises.*  
@@ -1897,7 +1897,7 @@ heading /'hedɪŋ/ n [C]
  > 我爷爷78岁了，身体不太好。    
 
 
-# ***<font color=#0099ff>\*healthy</font>*** adj
+# ***\*healthy*** adj
 英音 'helθi     美音 'helθi  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -1915,7 +1915,7 @@ heading /'hedɪŋ/ n [C]
  > 他开始吃健康均衡的膳食。    
 
 
-# ***<font color=#0099ff>\*hear</font>*** v  重难点词汇
+# ***\*hear*** v  重难点词汇
 英音 hɪə(r)     美音 hɪr  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1975,7 +1975,7 @@ Notes: hear强调听的结果，listen强调听的动作。如：
 
 固定搭配
 ---
-## <font color=#0099ff>\*hear about</font>
+## \*hear about
 1.**听说 (…的情况)：**  
 
  > *I've just heard about his illness.*  
@@ -1984,7 +1984,7 @@ Notes: hear强调听的结果，listen强调听的动作。如：
  > *Whenever we hear about "the homeless", most of us think of the Developing World.*  
  > 只要一听到“无家可归者”，我们中的大多数人就会想到第三世界。  （2012 山东）  
 
-## <font color=#0099ff>\*hear from</font>
+## \*hear from
 1.**接到…的来信 / 电话：**  
 
  > *Hope to hear from you soon.*  
@@ -1993,7 +1993,7 @@ Notes: hear强调听的结果，listen强调听的动作。如：
  > *He has not been heard from for a long time.*  
  > 好久没有收到他的来信了。    
 
-## <font color=#0099ff>\*hear of</font>
+## \*hear of
 1.**听说：**  
 
  > *I don't know him, but I have heard of him.*  
@@ -2012,7 +2012,7 @@ Notes: hear强调听的结果，listen强调听的动作。如：
 答案：
 1. calling  2. from; on  
 
-# ***<font color=#0099ff>\*hearing</font>*** n
+# ***\*hearing*** n
 英音 'hɪərɪŋ     美音 'hɪrɪŋ  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -2034,7 +2034,7 @@ Notes: hear强调听的结果，listen强调听的动作。如：
  > 请保持在相互能听得到的范围内。    
 
 
-# ***<font color=#0099ff>\*heart</font>*** n
+# ***\*heart*** n
 英音 hɑːt     美音 hɑːrt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2087,31 +2087,31 @@ Notes: hear强调听的结果，listen强调听的动作。如：
 
 固定搭配
 ---
-## <font color=#0099ff>\*at heart</font>
+## \*at heart
 1.**本质上；心底里：**  
 
  > *At heart, every child wants to grow into a happy, healthy, contributing adult.*  
  > 每个孩子在内心都想长大成为一个快乐、健康、有所贡献的成年人。  （2014 安徽）  
 
-## <font color=#0099ff>\*break sb's heart</font>
+## \*break sb's heart
 1.**使某人伤心：**  
 
  > *You really broke her heart by saying that.*  
  > 你那样说真伤她的心。    
 
-## <font color=#0099ff>\*by heart</font>
+## \*by heart
 1.**默记；背诵：**  
 
  > *It's no use learning the text by heart without understanding it.*  
  > 背诵课文而不理解其意思是没有用的。    
 
-## <font color=#0099ff>\*heart and soul</font>
+## \*heart and soul
 1.**全心全意地：**  
 
  > *She loves those children heart and soul.*  
  > 她全心全意地爱着那些孩子。    
 
-## <font color=#0099ff>\*lose heart</font>
+## \*lose heart
 1.**灰心：**  
 
  > *Don't lose heart, whatever happens.*  
@@ -2129,7 +2129,7 @@ hearty /'hɑːti/ adj
 答案：
 1. put your heart into  
 
-# ***<font color=#0099ff>\*heartbeat</font>*** n
+# ***\*heartbeat*** n
 英音 'hɑːtbiːt     美音 'hɑːrtbiːt  
 
 | 词频 2 |  
@@ -2139,7 +2139,7 @@ hearty /'hɑːti/ adj
 ### 1.**心跳**  
 
 
-# ***<font color=#0099ff>\*heartily</font>*** adv
+# ***\*heartily*** adv
 英音 'hɑːtɪli     美音 'hɑːrtɪli  
 
 | 词频 1 |  
@@ -2149,7 +2149,7 @@ hearty /'hɑːti/ adj
 ### 1.*高义频：* **尽情地；热心地；痛快地**  
 
 
-# ***<font color=#0099ff>\*heat</font>*** n
+# ***\*heat*** n
 英音 hiːt     美音 hiːt  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -2184,7 +2184,7 @@ hearty /'hɑːti/ adj
  > 暖气没有开，房子里冰冷。    
 
 
-# ***<font color=#0099ff>\*heat</font>*** v
+# ***\*heat*** v
 英音 hiːt     美音 hiːt  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -2199,7 +2199,7 @@ hearty /'hɑːti/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*heat up</font>
+## \*heat up
 1.**加热 (warm up)；变得激烈：**  
 
  > *You can try heating up last night's leftovers.*  
@@ -2213,7 +2213,7 @@ hearty /'hɑːti/ adj
 ---
 heater /heater/ n [C]   
 
-# ***<font color=#0099ff>\*heated</font>*** adj
+# ***\*heated*** adj
 英音 'hiːtɪd     美音 'hiːtɪd  
 
 | 词频 2 |  
@@ -2226,7 +2226,7 @@ heater /heater/ n [C]
  > 激烈的辩论/讨论    
 
 
-# ***<font color=#0099ff>\*heather</font>*** n
+# ***\*heather*** n
 英音 'heðə(r)     美音 'heðər  
 
 | 词频 1 |  
@@ -2236,7 +2236,7 @@ heater /heater/ n [C]
 ### 1.**石南属植物**  
 
 
-# ***<font color=#0099ff>\*heating</font>*** n
+# ***\*heating*** n
 英音 'hiːtɪŋ     美音 'hiːtɪŋ  
 
 | 词频 1 | 口语 2 |  
@@ -2249,7 +2249,7 @@ heater /heater/ n [C]
  > 中央供暖系统    
 
 
-# ***<font color=#0099ff>\*heating</font>*** adj
+# ***\*heating*** adj
 英音 'hiːtɪŋ     美音 'hiːtɪŋ  
 
 | 词频 1 | 口语 1 |  
@@ -2259,7 +2259,7 @@ heater /heater/ n [C]
 ### 1.*高义频：* **加热的；供暖的**  
 
 
-# ***<font color=#0099ff>\*heaven</font>*** n
+# ***\*heaven*** n
 英音 'hevn     美音 'hevn  
 
 | 词频 2 | 口语 1 |  
@@ -2279,7 +2279,7 @@ heater /heater/ n [C]
  > 天啊！/天知道！    
 
 
-# ***<font color=#0099ff>\*heavily</font>*** adv
+# ***\*heavily*** adv
 英音 'hevɪli     美音 'hevɪli  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -2303,7 +2303,7 @@ heater /heater/ n [C]
 答案：
 1. heavily  
 
-# ***<font color=#0099ff>\*heavy</font>*** adj
+# ***\*heavy*** adj
 英音 'hevi     美音 'hevi  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2371,14 +2371,14 @@ heater /heater/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*be heavy with sth</font>
+## \*be heavy with sth
 1.**充满 / 满载某物：**  
 
  > *Every hill was heavy with the past.*  
  > 每座小山都承载着过往。  （外研④-5）  
 
 
-# ***<font color=#0099ff>\*heavyweight</font>*** n
+# ***\*heavyweight*** n
 英音 'heviweɪt     美音 'heviweɪt  
 
 | 词频 1 |  
@@ -2388,7 +2388,7 @@ heater /heater/ n [C]
 ### 1.**重量级拳击手；有影响力的人或事物**  
 
 
-# ***<font color=#0099ff>\*hectare</font>*** n
+# ***\*hectare*** n
 英音 'hekteə(r)     美音 'hekter  
 
 | 词频 1 |  
@@ -2400,7 +2400,7 @@ heater /heater/ n [C]
 ### 1.*高义频：* **公顷**  
 
 
-# ***<font color=#0099ff>\*hedge</font>*** n
+# ***\*hedge*** n
 英音 hedʒ     美音 hedʒ  
 
 | 词频 1 |  
@@ -2410,7 +2410,7 @@ heater /heater/ n [C]
 ### 1.**灌木（或小树）树篱**  
 
 
-# ***<font color=#0099ff>\*heel</font>*** n
+# ***\*heel*** n
 英音 hiːl     美音 hiːl  
 
 | 词频 1 |  
@@ -2424,11 +2424,11 @@ heater /heater/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*Achilles' heel</font>
+## \*Achilles' heel
 1.**致命弱点；死穴**  
 
 
-# ***<font color=#0099ff>\*height</font>*** n
+# ***\*height*** n
 英音 haɪt     美音 haɪt  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -2448,7 +2448,7 @@ heater /heater/ n [C]
  > 他正处于事业的巅峰。    
 
 
-# ***<font color=#0099ff>\*helicopter</font>*** n
+# ***\*helicopter*** n
 英音 'helɪkɒptə(r)     美音 'helɪkɑːptər  
 
 | 词频 1 |  
@@ -2460,7 +2460,7 @@ heater /heater/ n [C]
 ### 1.*高义频：* **直升机**  
 
 
-# ***<font color=#0099ff>\*hell</font>*** n
+# ***\*hell*** n
 英音 hel     美音 hel  
 
 | 词频 1 | 口语 3 | 书面 1 |  
@@ -2479,7 +2479,7 @@ heater /heater/ n [C]
  > 费尽心机保守这个秘密这么久，真是不容易。    
 
 
-# ***<font color=#0099ff>\*hello</font>*** int
+# ***\*hello*** int
 英音 hə'ləʊ     美音 hə'ləʊ  
 
 | 词频 5 | 口语 3 |  
@@ -2489,7 +2489,7 @@ heater /heater/ n [C]
 ### 1.*高义频：* **喂；你好**  
 
 
-# ***<font color=#0099ff>\*hello</font>*** n
+# ***\*hello*** n
 英音 hə'ləʊ     美音 hə'ləʊ  
 
 | 词频 5 | 口语 3 |  
@@ -2503,7 +2503,7 @@ heater /heater/ n [C]
  > 我们开车过去向他问好吧。    
 
 
-# ***<font color=#0099ff>\*helmet</font>*** n
+# ***\*helmet*** n
 英音 'helmɪt     美音 'helmɪt  
 
 | 词频 2 |  
@@ -2515,7 +2515,7 @@ heater /heater/ n [C]
 ### 1.*高义频：* **头盔；钢盔**  
 
 
-# ***<font color=#0099ff>\*help</font>*** v  重难点词汇
+# ***\*help*** v  重难点词汇
 英音 help     美音 help  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2590,7 +2590,7 @@ heater /heater/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*can't help (doing) sth / can't help but do sth</font>
+## \*can't help (doing) sth / can't help but do sth
 1.**忍不住做某事：**  
 
  > *I can't help feeling that there has been a mistake.*  
@@ -2599,7 +2599,7 @@ heater /heater/ n [C]
  > *As I held my father's hands one night, I couldn't help but notice their roughness.*  
  > 一天晚上，我握着父亲的双手，不禁注意到这双手很粗糙。  （2013 天津改）  
 
-## <font color=#0099ff>\*help oneself (to)</font>
+## \*help oneself (to)
 1.**自用 (食物等)；[非正式用语]偷取：**  
 
  > *Help yourself to all you wish.*  
@@ -2614,7 +2614,7 @@ heater /heater/ n [C]
  > *He had been helping himself to the money in the drawer.*  
  > 他一直在偷拿抽屉中的钱。    
 
-## <font color=#0099ff>\*help (...) out</font>
+## \*help (...) out
 1.**帮助 (…) 摆脱困境；帮 (…) 分担工作：**  
 
  > *Please help me out with this problem.*  
@@ -2626,7 +2626,7 @@ heater /heater/ n [C]
  > *I helped out at my father's offi ce last year.*  
  > 去年我在父亲的办公室里帮忙。    
 
-## <font color=#0099ff>\*it can't be helped</font>
+## \*it can't be helped
 1.**[口语] 无法避免；没办法：**  
 
  > *She said she had to leave him for a while; it couldn't be helped.*  
@@ -2646,7 +2646,7 @@ D.help
 答案：
 1. D  2. help yourself  
 
-# ***<font color=#0099ff>\*help</font>*** n  重难点词汇
+# ***\*help*** n  重难点词汇
 英音 help     美音 help  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2684,7 +2684,7 @@ D.help
 
 固定搭配
 ---
-## <font color=#0099ff>\*(be) of … help</font>
+## \*(be) of … help
 1.**有…帮助的：**  
 
  > **of help**  
@@ -2698,14 +2698,14 @@ D.help
  > *I'm glad I could be of some help.*  
  > 很高兴我能帮上忙。    
 
-## <font color=#0099ff>\*with sb's help / with the help of sb</font>
+## \*with sb's help / with the help of sb
 1.**在某人的帮助下；借助某人：**  
 
  > *With their help, I have made great progress.*  
  > 在他们的帮助下，我取得了很大进步。  （2009 福建书面表达）  
 
 
-# ***<font color=#0099ff>\*helper</font>*** n
+# ***\*helper*** n
 英音 'helpə(r)     美音 'helpər  
 
 | 词频 2 |  
@@ -2715,7 +2715,7 @@ D.help
 ### 1.**帮助者**  
 
 
-# ***<font color=#0099ff>\*helpful</font>*** adj
+# ***\*helpful*** adj
 英音 'helpfl     美音 'helpfl  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -2733,7 +2733,7 @@ D.help
  > 这样一种积极的生活态度有助于你振奋精神。  （2014 安徽书面表达）  
 
 
-# ***<font color=#0099ff>\*helpless</font>*** adj
+# ***\*helpless*** adj
 英音 'helpləs     美音 'helpləs  
 
 | 词频 3 |  
@@ -2749,7 +2749,7 @@ D.help
  > 无依无靠的孩子    
 
 
-# ***<font color=#0099ff>\*hen</font>*** n
+# ***\*hen*** n
 英音 hen     美音 hen  
 
 | 词频 2 |  
@@ -2761,7 +2761,7 @@ D.help
 ### 1.*高义频：* **母鸡**  
 
 
-# ***<font color=#0099ff>\*hence</font>*** adv
+# ***\*hence*** adv
 英音 hens     美音 hens  
 
 | 词频 1 | 书面 1 |  
@@ -2771,7 +2771,7 @@ D.help
 ### 1.*高义频：* **因此；所以**  
 
 
-# ***<font color=#0099ff>\*her</font>*** pron
+# ***\*her*** pron
 英音 hə(r); hɜː(r)     美音 hər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2781,7 +2781,7 @@ D.help
 ### 1.*高义频：* **[宾格] 她；[所有格] 她的**  
 
 
-# ***<font color=#0099ff>\*herb</font>*** n
+# ***\*herb*** n
 英音 hɜːb     美音 hɜːrb  
 
 | 词频 1 |  
@@ -2793,7 +2793,7 @@ D.help
 ### 1.*高义频：* **药草；香草**  
 
 
-# ***<font color=#0099ff>\*herd</font>*** n
+# ***\*herd*** n
 英音 hɜːd     美音 hɜːrd  
 
 | 词频 1 |  
@@ -2805,7 +2805,7 @@ D.help
 ### 1.*高义频：* **牧群；兽群**  
 
 
-# ***<font color=#0099ff>\*here</font>*** adv
+# ***\*here*** adv
 英音 hɪə(r)     美音 hɪr  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2829,23 +2829,23 @@ D.help
 
 固定搭配
 ---
-## <font color=#0099ff>\*here and now</font>
+## \*here and now
 1.**现在；马上：**  
 
  > *Let's start the experiment here and now.*  
  > 我们马上开始做实验吧。    
 
-## <font color=#0099ff>\*here and there</font>
+## \*here and there
 1.**到处；处处：**  
 
  > *Gray wolves once were seen here and there in the Yellowstone area.*  
  > 灰狼曾一度在黄石地区随处可见。  （2017 全国）  
 
-## <font color=#0099ff>\*here you are</font>
+## \*here you are
 1.**给你**  
 
 
-# ***<font color=#0099ff>\*heritage</font>*** n
+# ***\*heritage*** n
 英音 'herɪtɪdʒ     美音 'herɪtɪdʒ  
 
 | 词频 2 | 阅读 2 |  
@@ -2863,7 +2863,7 @@ D.help
  > 世界遗址    
 
 
-# ***<font color=#0099ff>\*hero</font>*** n
+# ***\*hero*** n
 英音 'hɪərəʊ     美音 'hɪroʊ  
 
 | 词频 4 | 书面 1 |  
@@ -2887,7 +2887,7 @@ D.help
 ---
 heroic /hə'rəʊɪk/ adj   
 
-# ***<font color=#0099ff>\*heroine</font>*** n
+# ***\*heroine*** n
 英音 'herəʊɪn     美音 'heroʊɪn  
 
 | 词频 2 |  
@@ -2902,7 +2902,7 @@ heroic /hə'rəʊɪk/ adj
  > 女主角是一个叫莱若的年轻女孩，男主角是一个叫威尔的男孩子。  （外研⑥ – 2）  
 
 
-# ***<font color=#0099ff>\*heroism</font>*** n
+# ***\*heroism*** n
 英音 'herəʊɪzəm     美音 'heroʊɪzəm  
 
 | 词频 1 |  
@@ -2912,7 +2912,7 @@ heroic /hə'rəʊɪk/ adj
 ### 1.**英雄主义, 英雄气概**  
 
 
-# ***<font color=#0099ff>\*hers</font>*** pron
+# ***\*hers*** pron
 英音 hɜːz     美音 hɜːrz  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -2924,7 +2924,7 @@ heroic /hə'rəʊɪk/ adj
 ### 1.*高义频：* **她的**  
 
 
-# ***<font color=#0099ff>\*herself</font>*** pron
+# ***\*herself*** pron
 英音 hɜː'self     美音 hɜːr'self  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -2951,7 +2951,7 @@ heroic /hə'rəʊɪk/ adj
 答案：
 1. herself  
 
-# ***<font color=#0099ff>\*hesitate</font>*** vi  重难点词汇
+# ***\*hesitate*** vi  重难点词汇
 英音 'hezɪteɪt     美音 'hezɪteɪt  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -2987,7 +2987,7 @@ heroic /hə'rəʊɪk/ adj
 答案：
 1. to turn  
 
-# ***<font color=#0099ff>\*hesitation</font>*** n
+# ***\*hesitation*** n
 英音 ˌhezɪ'teɪʃn     美音 ˌhezɪ'teɪʃn  
 
 | 词频 1 | 阅读 1 |  
@@ -3003,7 +3003,7 @@ heroic /hə'rəʊɪk/ adj
  > 我毫不犹疑地接受了这份工作。  （2011 广东）  
 
 
-# ***<font color=#0099ff>\*hey</font>*** int
+# ***\*hey*** int
 英音 heɪ     美音 heɪ  
 
 | 词频 4 |  
@@ -3013,7 +3013,7 @@ heroic /hə'rəʊɪk/ adj
 ### 1.*高义频：* **[用以唤起注意或表示问候] 嘿；喂**  
 
 
-# ***<font color=#0099ff>\*hi</font>*** int
+# ***\*hi*** int
 英音 haɪ     美音 haɪ  
 
 | 词频 4 | 口语 3 |  
@@ -3023,7 +3023,7 @@ heroic /hə'rəʊɪk/ adj
 ### 1.*高义频：* **嗨**  
 
 
-# ***<font color=#0099ff>\*hibernate</font>*** vi
+# ***\*hibernate*** vi
 英音 'haɪbəneɪt     美音 'haɪbərneɪt  
 
 | 词频 1 |  
@@ -3033,7 +3033,7 @@ heroic /hə'rəʊɪk/ adj
 ### 1.*高义频：* **(动物) 冬眠**  
 
 
-# ***<font color=#0099ff>\*hibernation</font>*** n
+# ***\*hibernation*** n
 英音 ˌhaɪbə'neɪʃn     美音 ˌhaɪbə'neɪʃn  
 
 | 词频 1 |  
@@ -3045,7 +3045,7 @@ heroic /hə'rəʊɪk/ adj
 ### 1.*高义频：* **冬眠**  
 
 
-# ***<font color=#0099ff>\*hide</font>*** v
+# ***\*hide*** v
 英音 haɪd     美音 haɪd  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -3074,7 +3074,7 @@ heroic /hə'rəʊɪk/ adj
  > 他们对儿子隐瞒了这个伤心的消息。    
 
 
-# ***<font color=#0099ff>\*hide-and-seek</font>*** n
+# ***\*hide-and-seek*** n
 英音 ˌhaɪdn'siːk     美音 ˌhaɪdn'siːk  
 
 | 词频 1 |  
@@ -3086,7 +3086,7 @@ heroic /hə'rəʊɪk/ adj
 ### 1.*高义频：* **捉迷藏**  
 
 
-# ***<font color=#0099ff>\*hieroglyphic</font>*** adj
+# ***\*hieroglyphic*** adj
 英音 ˌhaɪərə'ɡlɪfɪk     美音 ˌhaɪərə'ɡlɪfɪk  
 
 | 词频 1 |  
@@ -3096,7 +3096,7 @@ heroic /hə'rəʊɪk/ adj
 ### 1.**象形文字的**  
 
 
-# ***<font color=#0099ff>\*high</font>*** adj
+# ***\*high*** adj
 英音 haɪ     美音 haɪ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3155,7 +3155,7 @@ heroic /hə'rəʊɪk/ adj
  > 你该动身了。    
 
 
-# ***<font color=#0099ff>\*high</font>*** adv
+# ***\*high*** adv
 英音 haɪ     美音 haɪ  
 
 | 词频 5 | 口语 1 |  
@@ -3174,7 +3174,7 @@ heroic /hə'rəʊɪk/ adj
 二者均有“高”之意，均可指建筑物。  
 
 
-# ***<font color=#0099ff>\*high-class</font>*** adj
+# ***\*high-class*** adj
 英音 ˌhaɪ'klɑːs     美音 ˌhaɪ'klæs  
 
 | 词频 1 |  
@@ -3184,7 +3184,7 @@ heroic /hə'rəʊɪk/ adj
 ### 1.**上层社会的**  
 
 
-# ***<font color=#0099ff>\*high-rise</font>*** adj
+# ***\*high-rise*** adj
 英音 haɪ raɪz     美音 haɪ raɪz  
 
 | 词频 2 |  
@@ -3197,7 +3197,7 @@ heroic /hə'rəʊɪk/ adj
  > 高层建筑    
 
 
-# ***<font color=#0099ff>\*high-rise</font>*** n
+# ***\*high-rise*** n
 英音 haɪ raɪz     美音 haɪ raɪz  
 
 | 词频 2 |  
@@ -3212,7 +3212,7 @@ heroic /hə'rəʊɪk/ adj
  > 住在高楼里    
 
 
-# ***<font color=#0099ff>\*highlight</font>*** vt
+# ***\*highlight*** vt
 英音 'haɪlaɪt     美音 'haɪlaɪt  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -3228,7 +3228,7 @@ heroic /hə'rəʊɪk/ adj
  > 人们做事的方式凸显了许多文化差异。  （2011 全国改）  
 
 
-# ***<font color=#0099ff>\*highlight</font>*** n
+# ***\*highlight*** n
 英音 'haɪlaɪt     美音 'haɪlaɪt  
 
 | 词频 2 |  
@@ -3238,7 +3238,7 @@ heroic /hə'rəʊɪk/ adj
 ### 1.**[C] 最精彩的场面 / 部分**  
 
 
-# ***<font color=#0099ff>\*highly</font>*** adv
+# ***\*highly*** adv
 英音 'haɪli     美音 'haɪli  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -3265,7 +3265,7 @@ heroic /hə'rəʊɪk/ adj
 答案：
 1. highly  
 
-# ***<font color=#0099ff>\*highway</font>*** n
+# ***\*highway*** n
 英音 'haɪweɪ     美音 'haɪweɪ  
 
 | 词频 4 | 口语 1 |  
@@ -3278,7 +3278,7 @@ heroic /hə'rəʊɪk/ adj
 
 Notes: 美语里高速公路是freeway或expressway。  
 
-# ***<font color=#0099ff>\*hike</font>*** vi
+# ***\*hike*** vi
 英音 haɪk     美音 haɪk  
 
 | 词频 2 |  
@@ -3291,7 +3291,7 @@ Notes: 美语里高速公路是freeway或expressway。
  > 远足；徒步旅行    
 
 
-# ***<font color=#0099ff>\*hike</font>*** n
+# ***\*hike*** n
 英音 haɪk     美音 haɪk  
 
 | 词频 2 |  
@@ -3303,7 +3303,7 @@ Notes: 美语里高速公路是freeway或expressway。
 ### 1.*高义频：* **徒步**  
 
 
-# ***<font color=#0099ff>\*hill</font>*** n
+# ***\*hill*** n
 英音 hɪl     美音 hɪl  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -3315,7 +3315,7 @@ Notes: 美语里高速公路是freeway或expressway。
 ### 1.*高义频：* **丘陵；小山**  
 
 
-# ***<font color=#0099ff>\*hillside</font>*** n
+# ***\*hillside*** n
 英音 'hɪlsaɪd     美音 'hɪlsaɪd  
 
 | 词频 1 |  
@@ -3327,7 +3327,7 @@ Notes: 美语里高速公路是freeway或expressway。
 ### 1.*高义频：* **小山坡**  
 
 
-# ***<font color=#0099ff>\*hilly</font>*** adj
+# ***\*hilly*** adj
 英音 'hɪli     美音 'hɪli  
 
 | 词频 1 |  
@@ -3337,7 +3337,7 @@ Notes: 美语里高速公路是freeway或expressway。
 ### 1.*高义频：* **山丘的；丘陵的；多山的：**  
 
 
-# ***<font color=#0099ff>\*him</font>*** pron
+# ***\*him*** pron
 英音 hɪm     美音 hɪm  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3349,7 +3349,7 @@ Notes: 美语里高速公路是freeway或expressway。
 ### 1.*高义频：* **他**  
 
 
-# ***<font color=#0099ff>\*himself</font>*** pron
+# ***\*himself*** pron
 英音 hɪm'self     美音 hɪm'self  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3376,7 +3376,7 @@ Notes: 美语里高速公路是freeway或expressway。
 答案：
 1. himself  
 
-# ***<font color=#0099ff>\*hint</font>*** n
+# ***\*hint*** n
 英音 hɪnt     美音 hɪnt  
 
 | 词频 1 |  
@@ -3392,7 +3392,7 @@ Notes: 美语里高速公路是freeway或expressway。
  > 给(某人)暗示    
 
 
-# ***<font color=#0099ff>\*hip-hop</font>*** n
+# ***\*hip-hop*** n
 
 
 | 词频 1 |  
@@ -3402,7 +3402,7 @@ Notes: 美语里高速公路是freeway或expressway。
 ### 1.**嘻哈音乐；嘻哈文化**  
 
 
-# ***<font color=#0099ff>\*hire</font>*** v
+# ***\*hire*** v
 英音 'haɪə(r)     美音 'haɪər  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -3430,14 +3430,14 @@ Notes: 美语里高速公路是freeway或expressway。
 
 固定搭配
 ---
-## <font color=#0099ff>\*hire out </font>
+## \*hire out 
 1.**出租：**  
 
  > *The company hires out cars.*  
  > 这家公司出租小汽车。    
 
 
-# ***<font color=#0099ff>\*hire</font>*** n
+# ***\*hire*** n
 英音 'haɪə(r)     美音 'haɪər  
 
 | 词频 4 |  
@@ -3456,7 +3456,7 @@ Notes: 美语里高速公路是freeway或expressway。
  > 供租用的汽车    
 
 
-# ***<font color=#0099ff>\*his</font>*** pron
+# ***\*his*** pron
 英音 hɪz     美音 hɪz  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3466,7 +3466,7 @@ Notes: 美语里高速公路是freeway或expressway。
 ### 1.*高义频：* **他的**  
 
 
-# ***<font color=#0099ff>\*historic</font>*** adj
+# ***\*historic*** adj
 英音 hɪ'stɒrɪk     美音 hɪ'stɔːrɪk  
 
 | 词频 3 | 阅读 2 |  
@@ -3482,7 +3482,7 @@ Notes: 美语里高速公路是freeway或expressway。
  > 历史性事件    
 
 
-# ***<font color=#0099ff>\*historical</font>*** adj
+# ***\*historical*** adj
 英音 hɪ'stɒrɪkl     美音 hɪ'stɔːrɪkl  
 
 | 词频 4 | 书面 2 | 阅读 3 |  
@@ -3499,7 +3499,7 @@ Notes: 美语里高速公路是freeway或expressway。
  > 历史名胜    
 
 
-# ***<font color=#0099ff>\*history</font>*** n
+# ***\*history*** n
 英音 'hɪstri     美音 'hɪstri  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -3523,13 +3523,13 @@ Notes: 美语里高速公路是freeway或expressway。
 
 固定搭配
 ---
-## <font color=#0099ff>\*make history </font>
+## \*make history 
 1.**创造历史；做出永垂史册的事情：**  
 
  > *Obama made history by being elected as the first black president of the USA. *  
  > 奥巴马是美国历史上首位黑人总统。    
 
-## <font color=#0099ff>\*go down in history </font>
+## \*go down in history 
 1.**载入史册；青史留名：**  
 
  > *He will go down in history as a great leader.*  
@@ -3540,7 +3540,7 @@ Notes: 美语里高速公路是freeway或expressway。
 ---
 historian /hɪ'stɔːriən/ n [C]  
 
-# ***<font color=#0099ff>\*hit</font>*** vt  重难点词汇
+# ***\*hit*** vt  重难点词汇
 英音 hɪt     美音 hɪt  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -3588,7 +3588,7 @@ historian /hɪ'stɔːriən/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*hit on / upon </font>
+## \*hit on / upon 
 1.**突然想到 (come up with)：**  
 
  > *hit on / upon an idea *  
@@ -3598,7 +3598,7 @@ historian /hɪ'stɔːriən/ n [C]
  > 我们终于想出了一个解决这个困难的办法。    
 
 
-# ***<font color=#0099ff>\*hit</font>*** n  重难点词汇
+# ***\*hit*** n  重难点词汇
 英音 hɪt     美音 hɪt  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -3627,11 +3627,11 @@ historian /hɪ'stɔːriən/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*take a hit</font>
+## \*take a hit
 1.**遭到破坏；受到严重影响**  
 
 
-# ***<font color=#0099ff>\*hoarfrost</font>*** n
+# ***\*hoarfrost*** n
 英音 'hɔː'frɒst     美音 'hoʊrˌfrɒst  
 
 | 词频 1 |  
@@ -3641,7 +3641,7 @@ historian /hɪ'stɔːriən/ n [C]
 ### 1.**白霜**  
 
 
-# ***<font color=#0099ff>\*hobby</font>*** n
+# ***\*hobby*** n
 英音 'hɒbi     美音 'hɑːbi  
 
 | 词频 4 |  
@@ -3659,7 +3659,7 @@ historian /hɪ'stɔːriən/ n [C]
  > 醉心于某种嗜好的人是幸福的。  （——萧伯纳）  
 
 
-# ***<font color=#0099ff>\*hold</font>*** v  重难点词汇
+# ***\*hold*** v  重难点词汇
 英音 həʊld     美音 hoʊld  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3776,7 +3776,7 @@ historian /hɪ'stɔːriən/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*hold back</font>
+## \*hold back
 1.*高义频：* **阻挡；阻碍：**  
 
  > *No one can hold back the wheel of history. *  
@@ -3798,7 +3798,7 @@ historian /hɪ'stɔːriən/ n [C]
  > *She held back from telling him what she thought of him.*  
  > 她想把自己对他的看法告诉他，但又觉得难以启齿。    
 
-## <font color=#0099ff>\*hold on</font>
+## \*hold on
 1.*高义频：* **抓着...不放；坚持：**  
 
  > **held on**  
@@ -3821,13 +3821,13 @@ historian /hɪ'stɔːriən/ n [C]
  > *Hold on! This isn't the right road.*  
  > 等一下！这条路不对！    
 
-## <font color=#0099ff>\*hold on to / onto</font>
+## \*hold on to / onto
 1.**守住；保住 (不送 / 不卖)：**  
 
  > *We thought of selling this old furniture, but we've decided to hold on to it.*  
  > 我们曾考虑过卖掉这件旧家具，但后来又决定不卖了。    
 
-## <font color=#0099ff>\*hold out</font>
+## \*hold out
 1.*高义频：* **伸出 (手 / 胳膊)；递出：**  
 
  > *hold out one's hand*  
@@ -3846,7 +3846,7 @@ historian /hɪ'stɔːriən/ n [C]
  > *I'd thought I could hold out till my dentist came back from holiday, but the pain was really unbearable.*  
  > 我以为我能坚持到牙医度假回来，但是疼痛实在难忍。  （2013 重庆）  
 
-## <font color=#0099ff>\*hold the line </font>
+## \*hold the line 
 1.**别挂断；等会儿：**  
 
  > *— Can I speak to Amy, please?*  
@@ -3855,7 +3855,7 @@ historian /hɪ'stɔːriən/ n [C]
  > *— Hold the line, please.*  
  > 请等一会儿。    
 
-## <font color=#0099ff>\*hold up</font>
+## \*hold up
 1.*高义频：* **举起；抬起；支撑：**  
 
  > *hold up one's hand*  
@@ -3886,7 +3886,7 @@ historian /hɪ'stɔːriən/ n [C]
 答案：
 1. was held  2. hold listeners'  interest  3. on  4. hold  
 
-# ***<font color=#0099ff>\*hold</font>*** n  重难点词汇
+# ***\*hold*** n  重难点词汇
 英音 həʊld     美音 hoʊld  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -3907,7 +3907,7 @@ historian /hɪ'stɔːriən/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*catch / get / take (a) hold of </font>
+## \*catch / get / take (a) hold of 
 1.**抓住；拿着；握住：**  
 
  > *Take hold of that end to help me move this table.*  
@@ -3916,16 +3916,16 @@ historian /hɪ'stɔːriən/ n [C]
  > *Most of my childhood was spent on books I could get hold of. *  
  > 童年的大部分时间我都在阅读我能得到的书籍。  （2010 四川改）  
 
-## <font color=#0099ff>\*get hold of sb</font>
+## \*get hold of sb
 1.**和某人联系；找到某人：**  
 
  > *I have been trying to get hold of you all afternoon.*  
  > 我整个下午都在找你。  （2017 全国）  
 
-## <font color=#0099ff>\*get hold of sth</font>
+## \*get hold of sth
 1.**找到 / 得到所需要的东西；学会 / 理解某事物**  
 
-## <font color=#0099ff>\*on hold </font>
+## \*on hold 
 1.**中断；推迟：**  
 
  > *While matters of money won't be settled for weeks, Jane hardly puts her project on hold.*  
@@ -3944,7 +3944,7 @@ holding /'həʊldɪŋ/ n
 答案：
 1. of  
 
-# ***<font color=#0099ff>\*hole</font>*** n
+# ***\*hole*** n
 英音 həʊl     美音 həʊl  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -3960,7 +3960,7 @@ holding /'həʊldɪŋ/ n
  > 路上有个大坑。    
 
 
-# ***<font color=#0099ff>\*holiday</font>*** n
+# ***\*holiday*** n
 英音 'hɒlədeɪ,'hɒlədi     美音 'hɑːlədeɪ  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -3987,7 +3987,7 @@ holding /'həʊldɪŋ/ n
  > 她通常夏天时出去度假。  （译林② – 2）  
 
 
-# ***<font color=#0099ff>\*hollow</font>*** adj
+# ***\*hollow*** adj
 英音 'hɒləʊ     美音 'hɑːloʊ  
 
 | 词频 1 |  
@@ -3997,7 +3997,7 @@ holding /'həʊldɪŋ/ n
 ### 1.*高义频：* **空心的；中空的**  
 
 
-# ***<font color=#0099ff>\*holy</font>*** adj
+# ***\*holy*** adj
 英音 'həʊli     美音 'hoʊli  
 
 | 词频 1 | 书面 1 |  
@@ -4011,7 +4011,7 @@ holding /'həʊldɪŋ/ n
  > 《圣经》    
 
 
-# ***<font color=#0099ff>\*home</font>*** n
+# ***\*home*** n
 英音 həʊm     美音 hoʊm  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4048,7 +4048,7 @@ holding /'həʊldɪŋ/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*at home</font>
+## \*at home
 1.**在家里；在国内；舒适的；不拘束的：**  
 
  > *Make yourself at home.*  
@@ -4066,7 +4066,7 @@ holding /'həʊldɪŋ/ n
 答案：
 1. at  
 
-# ***<font color=#0099ff>\*home</font>*** adv
+# ***\*home*** adv
 英音 həʊm     美音 hoʊm  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4079,7 +4079,7 @@ holding /'həʊldɪŋ/ n
  > 我在他回家的路上看见了他。    
 
 
-# ***<font color=#0099ff>\*home</font>*** adj
+# ***\*home*** adj
 英音 həʊm     美音 hoʊm  
 
 | 词频 5 |  
@@ -4096,7 +4096,7 @@ holding /'həʊldɪŋ/ n
  > 家用电脑    
 
 
-# ***<font color=#0099ff>\*home-made</font>*** adj
+# ***\*home-made*** adj
 英音 ˌhəʊmˌmeɪd     美音 ˌhoʊmˌmeɪd  
 
 | 词频 2 |  
@@ -4106,7 +4106,7 @@ holding /'həʊldɪŋ/ n
 ### 1.**自制的；家里做的；国产的**  
 
 
-# ***<font color=#0099ff>\*homeland</font>*** n
+# ***\*homeland*** n
 英音 'həʊmlænd     美音 'hoʊmlænd  
 
 | 词频 1 |  
@@ -4118,7 +4118,7 @@ holding /'həʊldɪŋ/ n
 ### 1.*高义频：* **家园；祖国**  
 
 
-# ***<font color=#0099ff>\*homeless</font>*** adj
+# ***\*homeless*** adj
 英音 'həʊmləs     美音 'hoʊmləs  
 
 | 词频 4 |  
@@ -4131,7 +4131,7 @@ holding /'həʊldɪŋ/ n
  > 成千上万的无家可归的地震幸存者急需帐篷和食物。    
 
 
-# ***<font color=#0099ff>\*homelessness</font>*** n
+# ***\*homelessness*** n
 英音 'həʊmləsnəs     美音 'hoʊmləsnəs  
 
 | 词频 1 |  
@@ -4141,7 +4141,7 @@ holding /'həʊldɪŋ/ n
 ### 1.**无家可归**  
 
 
-# ***<font color=#0099ff>\*homemade</font>*** adj
+# ***\*homemade*** adj
 英音 'həʊm'meɪd     美音 'həʊm'meɪd  
 
   
@@ -4151,7 +4151,7 @@ holding /'həʊldɪŋ/ n
 ### 1.**自制的,家里做的**  
 
 
-# ***<font color=#0099ff>\*homesick</font>*** adj
+# ***\*homesick*** adj
 英音 'həʊmsɪk     美音 'hoʊmsɪk  
 
   
@@ -4161,7 +4161,7 @@ holding /'həʊldɪŋ/ n
 ### 1.**想家的；思乡的**  
 
 
-# ***<font color=#0099ff>\*homesickness</font>*** n
+# ***\*homesickness*** n
 英音 'həʊmsɪknəs     美音 'hoʊmsɪknəs  
 
 | 词频 1 |  
@@ -4171,7 +4171,7 @@ holding /'həʊldɪŋ/ n
 ### 1.**想家, 思乡**  
 
 
-# ***<font color=#0099ff>\*hometown</font>*** n
+# ***\*hometown*** n
 英音 'həʊmtaʊn     美音 'hoʊmtaʊn  
 
 | 词频 3 |  
@@ -4183,7 +4183,7 @@ holding /'həʊldɪŋ/ n
 ### 1.*高义频：* **家乡；故乡**  
 
 
-# ***<font color=#0099ff>\*homework</font>*** n
+# ***\*homework*** n
 英音 'həʊmwɜːk     美音 'hoʊmwɜːrk  
 
 | 词频 4 | 口语 2 |  
@@ -4195,7 +4195,7 @@ holding /'həʊldɪŋ/ n
 ### 1.*高义频：* **家庭作业**  
 
 
-# ***<font color=#0099ff>\*homosexual</font>*** n
+# ***\*homosexual*** n
 英音 ˌhəʊmə'sekʃuəl     美音 ˌhoʊmə'sekʃuəl  
 
 | 词频 1 |  
@@ -4205,7 +4205,7 @@ holding /'həʊldɪŋ/ n
 ### 1.**同性恋**  
 
 
-# ***<font color=#0099ff>\*homosexual</font>*** adj
+# ***\*homosexual*** adj
 英音 ˌhəʊmə'sekʃuəl     美音 ˌhoʊmə'sekʃuəl  
 
 | 词频 1 |  
@@ -4215,7 +4215,7 @@ holding /'həʊldɪŋ/ n
 ### 1.**同性恋的**  
 
 
-# ***<font color=#0099ff>\*honest</font>*** adj
+# ***\*honest*** adj
 英音 'ɒnɪst     美音 'ɑːnɪst  
 
 | 词频 4 | 口语 3 | 书面 1 |  
@@ -4241,7 +4241,7 @@ holding /'həʊldɪŋ/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*to be honest</font>
+## \*to be honest
 1.**老实说：**  
 
  > *To be honest, I don't think I was helping very much.*  
@@ -4255,7 +4255,7 @@ holding /'həʊldɪŋ/ n
 答案：
 1. To be honest / Honestly  
 
-# ***<font color=#0099ff>\*honestly</font>*** adv
+# ***\*honestly*** adv
 英音 'ɒnɪstli     美音 'ɑːnɪstli  
 
 | 词频 2 | 口语 2 |  
@@ -4274,7 +4274,7 @@ holding /'həʊldɪŋ/ n
  > 说实在的，我所有的钱就这些。    
 
 
-# ***<font color=#0099ff>\*honesty</font>*** n
+# ***\*honesty*** n
 英音 'ɒnəsti     美音 'ɑːnəsti  
 
 | 词频 3 |  
@@ -4291,14 +4291,14 @@ holding /'həʊldɪŋ/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*in all honesty</font>
+## \*in all honesty
 1.**说实话；其实：**  
 
  > *In all honesty, my university is not as well-known as my "dream" university.*  
  > 说实话，我上的那所大学不如我理想中的大学出名。    
 
 
-# ***<font color=#0099ff>\*honey</font>*** n
+# ***\*honey*** n
 英音 'hʌni     美音 'hʌni  
 
 | 词频 4 | 口语 2 |  
@@ -4316,7 +4316,7 @@ holding /'həʊldɪŋ/ n
 ### 2.*低义频：* **[C] [口语] 亲爱的；宝贝**  
 
 
-# ***<font color=#0099ff>\*hono(u)r</font>*** n  重难点词汇
+# ***\*hono(u)r*** n  重难点词汇
 英音 'ɒnə(r)     美音 'ɑːnər  
 
 | 词频 4 |  
@@ -4371,13 +4371,13 @@ holding /'həʊldɪŋ/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*have the honour of (doing) sth</font>
+## \*have the honour of (doing) sth
 1.**有幸做某事：**  
 
  > *May I have the honour of this dance?*  
  > 可以赏光和我跳这支舞吗？    
 
-## <font color=#0099ff>\*in honour of sb / in sb's honour</font>
+## \*in honour of sb / in sb's honour
 1.**为向某人表示敬意；为纪念某人：**  
 
  > *We celebrate Mother's Day in honour of our mothers.*  
@@ -4387,7 +4387,7 @@ holding /'həʊldɪŋ/ n
  > 人们举行了一个仪式来纪念那些战士。    
 
 
-# ***<font color=#0099ff>\*hono(u)r</font>*** vt  重难点词汇
+# ***\*hono(u)r*** vt  重难点词汇
 英音 'ɒnə(r)     美音 'ɑːnər  
 
 | 词频 4 | 书面 1 |  
@@ -4413,7 +4413,7 @@ holding /'həʊldɪŋ/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*be / feel honoured to do sth</font>
+## \*be / feel honoured to do sth
 1.**做某事感到荣幸：**  
 
  > *I was honoured to have been mentioned in his speech.*  
@@ -4430,7 +4430,7 @@ holding /'həʊldɪŋ/ n
 答案：
 1. to be welcomed  
 
-# ***<font color=#0099ff>\*hono(u)rable</font>*** adj
+# ***\*hono(u)rable*** adj
 英音 'ɒnərəbl     美音 'ɑːnərəbl  
 
 | 词频 3 |  
@@ -4440,7 +4440,7 @@ holding /'həʊldɪŋ/ n
 ### 1.*高义频：* **可敬的；光荣的**  
 
 
-# ***<font color=#0099ff>\*hoof</font>*** n
+# ***\*hoof*** n
 英音 huːf     美音 huːf  
 
 | 词频 1 |  
@@ -4450,7 +4450,7 @@ holding /'həʊldɪŋ/ n
 ### 1.**（猪、牛等的）蹄**  
 
 
-# ***<font color=#0099ff>\*hook</font>*** n
+# ***\*hook*** n
 英音 hʊk     美音 hʊk  
 
 | 词频 3 | 口语 1 |  
@@ -4462,7 +4462,7 @@ holding /'həʊldɪŋ/ n
 ### 1.*高义频：* **钩子；挂钩**  
 
 
-# ***<font color=#0099ff>\*hook</font>*** v
+# ***\*hook*** v
 英音 hʊk     美音 hʊk  
 
 | 词频 3 | 口语 1 |  
@@ -4483,7 +4483,7 @@ hooked /hʊkt/ adj [不用于名词前]
  > 她们购物成瘾，往往买些自己不需要的东西。  （2008 山东）  
 
 
-# ***<font color=#0099ff>\*hoop</font>*** n
+# ***\*hoop*** n
 英音 huːp     美音 huːp  
 
 | 词频 1 |  
@@ -4493,7 +4493,7 @@ hooked /hʊkt/ adj [不用于名词前]
 ### 1.**圈**  
 
 
-# ***<font color=#0099ff>\*hop</font>*** v
+# ***\*hop*** v
 英音 hɒp     美音 hɑːp  
 
 | 词频 1 |  
@@ -4503,7 +4503,7 @@ hooked /hʊkt/ adj [不用于名词前]
 ### 1.**单足蹦跳**  
 
 
-# ***<font color=#0099ff>\*hop</font>*** vi
+# ***\*hop*** vi
 英音 hɒp     美音 hɑːp  
 
 | 词频 1 |  
@@ -4513,7 +4513,7 @@ hooked /hʊkt/ adj [不用于名词前]
 ### 1.**单脚跳**  
 
 
-# ***<font color=#0099ff>\*hope</font>*** n
+# ***\*hope*** n
 英音 həʊp     美音 hoʊp  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -4545,20 +4545,20 @@ hooked /hʊkt/ adj [不用于名词前]
 
 固定搭配
 ---
-## <font color=#0099ff>\*be beyond hope (of)</font>
+## \*be beyond hope (of)
 1.**没有 (…的) 希望：**  
 
  > *Some of the houses were beyond hope of repair.*  
  > 有些房屋已经没有修复的希望了。    
 
-## <font color=#0099ff>\*in the hope of / in hopes that / in the hope that</font>
+## \*in the hope of / in hopes that / in the hope that
 1.**怀着…的希望：**  
 
  > *I'm writing the letter in the hope that you can consider these problems and make some improvements.*  
  > 我写这封信是希望你们能考虑这些问题并有所改进。    
 
 
-# ***<font color=#0099ff>\*hope</font>*** v
+# ***\*hope*** v
 英音 həʊp     美音 hoʊp  
 
 | 词频 5 | 口语 3 |  
@@ -4599,7 +4599,7 @@ hooked /hʊkt/ adj [不用于名词前]
   
 
 
-# ***<font color=#0099ff>\*hopeful</font>*** adj
+# ***\*hopeful*** adj
 英音 'həʊpfl     美音 'hoʊpfl  
 
 | 词频 3 |  
@@ -4622,7 +4622,7 @@ hooked /hʊkt/ adj [不用于名词前]
  > 只有这样我们的社会才会更加和谐、更加有希望。  （2012 湖南书面表达）  
 
 
-# ***<font color=#0099ff>\*hopefully</font>*** adv
+# ***\*hopefully*** adv
 英音 'həʊpfəli     美音 'hoʊpfəli  
 
 | 词频 3 | 口语 3 |  
@@ -4646,7 +4646,7 @@ hooked /hʊkt/ adj [不用于名词前]
 答案：
 1. hopefully  2. hopefully  
 
-# ***<font color=#0099ff>\*hopeless</font>*** adj
+# ***\*hopeless*** adj
 英音 'həʊpləs     美音 'hoʊpləs  
 
 | 词频 3 | 口语 1 |  
@@ -4671,7 +4671,7 @@ hooked /hʊkt/ adj [不用于名词前]
 hopelessly /'həʊpləsli/ adv   
 hopelessness /'həʊpləsnəs/ n   
 
-# ***<font color=#0099ff>\*horizon</font>*** n
+# ***\*horizon*** n
 英音 hə'raɪzn     美音 hə'raɪzn  
 
 | 词频 2 | 阅读 1 |  
@@ -4690,7 +4690,7 @@ hopelessness /'həʊpləsnəs/ n
  > 旅游是一种学习，因为它开阔人们的视野。    
 
 
-# ***<font color=#0099ff>\*horizontal</font>*** adj
+# ***\*horizontal*** adj
 英音 ˌhɒrɪ'zɒntl     美音 ˌhɔːrə'zɑːntl  
 
 | 词频 1 |  
@@ -4700,7 +4700,7 @@ hopelessness /'həʊpləsnəs/ n
 ### 1.**水平的，与地平线平行的**  
 
 
-# ***<font color=#0099ff>\*horn</font>*** n
+# ***\*horn*** n
 英音 hɔːn     美音 hɔːrn  
 
 | 词频 3 |  
@@ -4720,7 +4720,7 @@ hopelessness /'həʊpləsnəs/ n
  > 进退维谷；左右为难    
 
 
-# ***<font color=#0099ff>\*hornbeam</font>*** n
+# ***\*hornbeam*** n
 英音 'hɔːnbiːm     美音 'hɔːrnbiːm  
 
 | 词频 1 |  
@@ -4730,7 +4730,7 @@ hopelessness /'həʊpləsnəs/ n
 ### 1.**角树，【植】鹅耳枥**  
 
 
-# ***<font color=#0099ff>\*horrible</font>*** adj
+# ***\*horrible*** adj
 英音 'hɒrəbl     美音 'hɔːrəbl  
 
 | 词频 2 | 口语 2 |  
@@ -4757,7 +4757,7 @@ hopelessness /'həʊpləsnəs/ n
 ---
 horribly /'hɒrəbli/ adv   
 
-# ***<font color=#0099ff>\*horrify</font>*** v
+# ***\*horrify*** v
 英音 'hɒrɪfaɪ     
 
   
@@ -4767,7 +4767,7 @@ horribly /'hɒrəbli/ adv
 ### 1.**使恐惧；使惊骇；使反感**  
 
 
-# ***<font color=#0099ff>\*horror</font>*** n
+# ***\*horror*** n
 英音 'hɒrə(r)     美音 'hɔːrər  
 
 | 词频 2 | 书面 1 |  
@@ -4791,14 +4791,14 @@ horribly /'hɒrəbli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*to sb's horror / to the horror of sb</font>
+## \*to sb's horror / to the horror of sb
 1.**使某人感到惊恐的是：**  
 
  > *To my horror, a child fell from the roof.*  
  > 令我感到惊恐的是，有个孩子从房顶上掉了下来。    
 
 
-# ***<font color=#0099ff>\*horse</font>*** n
+# ***\*horse*** n
 英音 hɔːs     美音 hɔːrs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4819,7 +4819,7 @@ horribly /'hɒrəbli/ adv
  > 吃得很多    
 
 
-# ***<font color=#0099ff>\*horse-drawn</font>*** adj
+# ***\*horse-drawn*** adj
 英音 'hɔːsdrɔːn     美音 'hɔːsdrɔːn  
 
 | 词频 1 |  
@@ -4829,7 +4829,7 @@ horribly /'hɒrəbli/ adv
 ### 1.**用马拉的**  
 
 
-# ***<font color=#0099ff>\*horseshoe</font>*** n
+# ***\*horseshoe*** n
 英音 'hɔːsʃuː     美音 'hɔːsʃuː  
 
 | 词频 1 |  
@@ -4839,7 +4839,7 @@ horribly /'hɒrəbli/ adv
 ### 1.**马掌；马蹄铁**  
 
 
-# ***<font color=#0099ff>\*hospitable</font>*** adj
+# ***\*hospitable*** adj
 英音 hɒ'spɪtəbl     美音 hɑː'spɪtəbl  
 
 | 词频 1 | 口语 3 | 书面 3 |  
@@ -4852,7 +4852,7 @@ horribly /'hɒrəbli/ adv
  > 当地人对陌生人很热情好客。    
 
 
-# ***<font color=#0099ff>\*hospital</font>*** n
+# ***\*hospital*** n
 英音 'hɒspɪtl     美音 'hɑːspɪtl  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -4874,7 +4874,7 @@ horribly /'hɒrəbli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*(be) in (the) hospital</font>
+## \*(be) in (the) hospital
 1.**住院：**  
 
  > *Her husband is in hospital.*  
@@ -4889,7 +4889,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 答案：
 1. hospitals  
 
-# ***<font color=#0099ff>\*hospitality</font>*** n
+# ***\*hospitality*** n
 英音 ˌhɒspɪ'tæləti     美音 ˌhɑːspɪ'tæləti  
 
 | 词频 1 |  
@@ -4901,7 +4901,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **好客；殷勤**  
 
 
-# ***<font color=#0099ff>\*host</font>*** n
+# ***\*host*** n
 英音 həʊst     美音 hoʊst  
 
 | 词频 4 | 书面 1 |  
@@ -4930,7 +4930,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 电视节目主持人    
 
 
-# ***<font color=#0099ff>\*host</font>*** vt
+# ***\*host*** vt
 英音 həʊst     美音 hoʊst  
 
 | 词频 4 |  
@@ -4943,7 +4943,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 选择一个城市主办奥运会时，有一些情况我们需要考虑。  （译林④ – 2）  
 
 
-# ***<font color=#0099ff>\*hostel</font>*** n
+# ***\*hostel*** n
 英音 'hɒstl     美音 'hɑːstl  
 
 | 词频 1 |  
@@ -4953,7 +4953,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**旅社, 招待所**  
 
 
-# ***<font color=#0099ff>\*hostess</font>*** n
+# ***\*hostess*** n
 英音 'həʊstəs     美音 'hoʊstəs  
 
 | 词频 1 |  
@@ -4965,7 +4965,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **女主人；女主持人**  
 
 
-# ***<font color=#0099ff>\*hot</font>*** adj
+# ***\*hot*** adj
 英音 hɒt     美音 hɑːt  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -5005,7 +5005,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 畅销品/最新消息    
 
 
-# ***<font color=#0099ff>\*hotdog</font>*** n
+# ***\*hotdog*** n
 英音 'hɒtˌdɒg     美音 'hɒtˌdɒg  
 
 | 词频 1 |  
@@ -5017,7 +5017,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **热狗 (红肠面包)**  
 
 
-# ***<font color=#0099ff>\*hotel</font>*** n
+# ***\*hotel*** n
 英音 həʊ'tel     美音 hoʊ'tel  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -5029,7 +5029,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **旅馆**  
 
 
-# ***<font color=#0099ff>\*hour</font>*** n
+# ***\*hour*** n
 英音 'aʊə(r)     美音 'aʊər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5064,19 +5064,19 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 
 固定搭配
 ---
-## <font color=#0099ff>\*by the hour</font>
+## \*by the hour
 1.**按小时 / 钟点：**  
 
  > *The workers in the factory are paid by the hour.*  
  > 这个工厂的工人按小时计酬。    
 
-## <font color=#0099ff>\*hour by hour</font>
+## \*hour by hour
 1.**时时刻刻地：**  
 
  > *Even if we ignore time, it's still going by, ticking away, second by second, minute by minute, hour by hour.*  
  > 即使我们忽略时间，它仍然在流逝，一分一秒，时时刻刻，滴答地走着。  （2008 江苏改）  
 
-## <font color=#0099ff>\*keep early / late hours</font>
+## \*keep early / late hours
 1.**早睡早起 / 晚睡晚起**  
 
 
@@ -5092,7 +5092,7 @@ hourly /'aʊəli/ adv
 答案：
 1. by   
 
-# ***<font color=#0099ff>\*house</font>*** n
+# ***\*house*** n
 英音 haʊs     美音 haʊs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5138,7 +5138,7 @@ hourly /'aʊəli/ adv
  > (英国的)下/上议院    
 
 
-# ***<font color=#0099ff>\*house</font>*** vt
+# ***\*house*** vt
 英音 haʊz     美音 haʊz  
 
 | 词频 5 |  
@@ -5156,7 +5156,7 @@ hourly /'aʊəli/ adv
  > 博物馆收藏了许多唐代珍品。    
 
 
-# ***<font color=#0099ff>\*household</font>*** n
+# ***\*household*** n
 英音 'haʊshəʊld     美音 'haʊshoʊld  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -5172,7 +5172,7 @@ hourly /'aʊəli/ adv
  > 一个普通的美国家庭每天开车大约会产生150磅的二氧化碳。  （2009 福建改）  
 
 
-# ***<font color=#0099ff>\*household</font>*** adj
+# ***\*household*** adj
 英音 'haʊshəʊld     美音 'haʊshoʊld  
 
 | 词频 3 | 阅读 2 |  
@@ -5190,11 +5190,11 @@ hourly /'aʊəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*be a household name / word</font>
+## \*be a household name / word
 1.**家喻户晓的名字 / 词**  
 
 
-# ***<font color=#0099ff>\*housewife</font>*** n
+# ***\*housewife*** n
 英音 'haʊswaɪf     美音 'haʊswaɪf  
 
 | 词频 3 |  
@@ -5206,7 +5206,7 @@ hourly /'aʊəli/ adv
 ### 1.*高义频：* **家庭妇女；家庭主妇**  
 
 
-# ***<font color=#0099ff>\*housework</font>*** n
+# ***\*housework*** n
 英音 'haʊswɜːk     美音 'haʊswɜːrk  
 
 | 词频 4 |  
@@ -5221,7 +5221,7 @@ hourly /'aʊəli/ adv
  > 做家务    
 
 
-# ***<font color=#0099ff>\*housing</font>*** n
+# ***\*housing*** n
 英音 'haʊzɪŋ     美音 'haʊzɪŋ  
 
 | 词频 4 | 书面 2 |  
@@ -5239,7 +5239,7 @@ hourly /'aʊəli/ adv
  > 为当地民众提供买得起的住房    
 
 
-# ***<font color=#0099ff>\*hover</font>*** vi
+# ***\*hover*** vi
 英音 'hɒvə(r)     美音 'hʌvər  
 
 | 词频 1 |  
@@ -5249,7 +5249,7 @@ hourly /'aʊəli/ adv
 ### 1.**盘旋**  
 
 
-# ***<font color=#0099ff>\*how</font>*** adv
+# ***\*how*** adv
 英音 haʊ     美音 haʊ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5294,13 +5294,13 @@ hourly /'aʊəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*How can / could sb do sth?</font>
+## \*How can / could sb do sth?
 1.**[表示震惊或强烈反感] 某人怎么能做某事呢？**  
 
  > *How can you say such a thing?*  
  > 你怎么能说这种话呢？    
 
-## <font color=#0099ff>\*How come (...)?</font>
+## \*How come (...)?
 1.**怎么会 (…的)？**  
 
  > *How come David is always so full of energy?*  
@@ -5312,7 +5312,7 @@ hourly /'aʊəli/ adv
  > *— How come?*  
  > 怎么可能？    
 
-## <font color=#0099ff>\*how far</font>
+## \*how far
 1.**多远：**  
 
  > *How far did you go?*  
@@ -5321,19 +5321,19 @@ hourly /'aʊəli/ adv
  > *How far away is the post office?*  
  > 邮局离这里多远？    
 
-## <font color=#0099ff>\*how long</font>
+## \*how long
 1.**[指时间段] 多长；多久：**  
 
  > *How long have you been here?*  
  > 你来这儿多长时间了？    
 
-## <font color=#0099ff>\*how often</font>
+## \*how often
 1.**[指频率] 多长时间一次：**  
 
  > *How often do you go there? Once or twice a week?*  
  > 你多久去那儿一次？每周一次还是两次？    
 
-## <font color=#0099ff>\*how soon</font>
+## \*how soon
 1.**[指将来] 多久：**  
 
  > *How soon can you be ready?*  
@@ -5357,7 +5357,7 @@ D.For sure.
 答案：
 1. how  2. How come  3. C  4. to read  5. far  
 
-# ***<font color=#0099ff>\*however</font>*** adv
+# ***\*however*** adv
 英音 haʊ'evə(r)     美音 haʊ'evər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5402,7 +5402,7 @@ Notes: however作此用法时，可置于句首、句中或句末，但必须与
 答案：
 1. However  2. However / No matter how  3. serious a problem  
 
-# ***<font color=#0099ff>\*however</font>*** conj
+# ***\*however*** conj
 英音 haʊ'evə(r)     美音 haʊ'evər  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -5415,7 +5415,7 @@ Notes: however作此用法时，可置于句首、句中或句末，但必须与
  > 不管用什么办法，我都无法解决这个问题。    
 
 
-# ***<font color=#0099ff>\*howl</font>*** vi
+# ***\*howl*** vi
 英音 haʊl     美音 haʊl  
 
 | 词频 3 |  
@@ -5435,7 +5435,7 @@ Notes: however作此用法时，可置于句首、句中或句末，但必须与
  > 风在林间怒号。    
 
 
-# ***<font color=#0099ff>\*howl</font>*** n
+# ***\*howl*** n
 英音 haʊl     美音 haʊl  
 
 | 词频 3 |  
@@ -5450,7 +5450,7 @@ Notes: however作此用法时，可置于句首、句中或句末，但必须与
  > 她发出了一声痛苦的叫喊。    
 
 
-# ***<font color=#0099ff>\*hug</font>*** vt
+# ***\*hug*** vt
 英音 hʌɡ     美音 hʌɡ  
 
 | 词频 3 |  
@@ -5466,7 +5466,7 @@ Notes: however作此用法时，可置于句首、句中或句末，但必须与
  > 那艘船紧靠海岸行驶。    
 
 
-# ***<font color=#0099ff>\*hug</font>*** n
+# ***\*hug*** n
 英音 hʌɡ     美音 hʌɡ  
 
 | 词频 3 |  
@@ -5482,7 +5482,7 @@ Notes: however作此用法时，可置于句首、句中或句末，但必须与
  > 我弯下腰拥抱了小女孩。  （2008 北京改）  
 
 
-# ***<font color=#0099ff>\*huge</font>*** adj
+# ***\*huge*** adj
 英音 hjuːdʒ     美音 hjuːdʒ  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -5500,7 +5500,7 @@ Notes: however作此用法时，可置于句首、句中或句末，但必须与
  > 那是极大的成功！    
 
 
-# ***<font color=#0099ff>\*human</font>*** n
+# ***\*human*** n
 英音 'hjuːmən     美音 'hjuːmən  
 
 | 词频 5 | 书面 3 |  
@@ -5519,7 +5519,7 @@ Notes: however作此用法时，可置于句首、句中或句末，但必须与
 ---
 humanism /'hjuːmənɪzəm/ n   
 
-# ***<font color=#0099ff>\*human</font>*** adj
+# ***\*human*** adj
 英音 'hjuːmən     美音 'hjuːmən  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -5555,7 +5555,7 @@ Notes: 通常仅在表示将人类与动物或机器进行对比时用human一�
 ---
 humanism /'hjuːmənɪzəm/ n   
 
-# ***<font color=#0099ff>\*humanistic</font>*** adj
+# ***\*humanistic*** adj
 英音 ˌhjuːmə'nɪstɪk     美音 ˌhjuːmə'nɪstɪk  
 
 | 词频 1 |  
@@ -5565,7 +5565,7 @@ humanism /'hjuːmənɪzəm/ n
 ### 1.**人道主义的**  
 
 
-# ***<font color=#0099ff>\*humanity</font>*** n
+# ***\*humanity*** n
 英音 hjuː'mænəti     美音 hjuː'mænəti  
 
 | 词频 2 | 阅读 2 |  
@@ -5585,11 +5585,11 @@ humanism /'hjuːmənɪzəm/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*the humanities</font>
+## \*the humanities
 1.**人文学科 (the arts)**  
 
 
-# ***<font color=#0099ff>\*humble</font>*** adj
+# ***\*humble*** adj
 英音 'hʌmbl     美音 'hʌmbl  
 
 | 词频 1 |  
@@ -5599,7 +5599,7 @@ humanism /'hjuːmənɪzəm/ n
 ### 1.**谦卑的；地位低下的**  
 
 
-# ***<font color=#0099ff>\*humo(u)r</font>*** n
+# ***\*humo(u)r*** n
 英音 'hjuːmə(r)     美音 'hjuːmər  
 
 | 词频 4 |  
@@ -5618,7 +5618,7 @@ humanism /'hjuːmənɪzəm/ n
  > 她很友好，而且很有幽默感。  （外研⑧ – 1）  
 
 
-# ***<font color=#0099ff>\*humorous</font>*** adj
+# ***\*humorous*** adj
 英音 'hjuːmərəs     美音 'hjuːmərəs  
 
 | 词频 3 |  
@@ -5634,7 +5634,7 @@ humanism /'hjuːmənɪzəm/ n
  > 这部电视剧讲述了格林家发生的各种趣事。  （2008 重庆）  
 
 
-# ***<font color=#0099ff>\*hundred</font>*** num
+# ***\*hundred*** num
 英音 'hʌndrəd     美音 'hʌndrəd  
 
 | 词频 5 |  
@@ -5653,14 +5653,14 @@ Notes: hundred / thousand / million前有two, several等词修饰时，hundred /
 
 固定搭配
 ---
-## <font color=#0099ff>\*hundreds of</font>
+## \*hundreds of
 1.**成百上千；许多：**  
 
  > *Hundreds of people queued up to view modern paintings.*  
  > 成百上千的人排队来观赏当代绘画作品。    
 
 
-# ***<font color=#0099ff>\*hunger</font>*** n
+# ***\*hunger*** n
 英音 'hʌŋɡə(r)     美音 'hʌŋɡər  
 
 | 词频 3 |  
@@ -5682,7 +5682,7 @@ Notes: hundred / thousand / million前有two, several等词修饰时，hundred /
  > 渴求知识/渴望成功    
 
 
-# ***<font color=#0099ff>\*hunger</font>*** vi
+# ***\*hunger*** vi
 英音 'hʌŋɡə(r)     美音 'hʌŋɡər  
 
 | 词频 3 |  
@@ -5693,14 +5693,14 @@ Notes: hundred / thousand / million前有two, several等词修饰时，hundred /
 
 固定搭配
 ---
-## <font color=#0099ff>\*hunger for / after</font>
+## \*hunger for / after
 1.*高义频：* **渴望；渴求：**  
 
  > *The whole world hungers for / after peace.*  
  > 全世界的人都渴望和平。    
 
 
-# ***<font color=#0099ff>\*hungry</font>*** adj
+# ***\*hungry*** adj
 英音 'hʌŋɡri     美音 'hʌŋɡri  
 
 | 词频 4 | 口语 2 |  
@@ -5731,14 +5731,14 @@ Notes: hundred / thousand / million前有two, several等词修饰时，hundred /
 
 固定搭配
 ---
-## <font color=#0099ff>\*go hungry</font>
+## \*go hungry
 1.**挨饿：**  
 
  > *As long as you have an ability you won't go hungry.*  
  > 只要有一技之长，你就不会挨饿。    
 
 
-# ***<font color=#0099ff>\*hunt</font>*** v
+# ***\*hunt*** v
 英音 hʌnt     美音 hʌnt  
 
 | 词频 4 | 书面 1 |  
@@ -5766,14 +5766,14 @@ Notes: hundred / thousand / million前有two, several等词修饰时，hundred /
 
 固定搭配
 ---
-## <font color=#0099ff>\*hunt out</font>
+## \*hunt out
 1.**搜寻出：**  
 
  > *He hunted out an old diary.*  
  > 他找出一本旧日记。    
 
 
-# ***<font color=#0099ff>\*hunt</font>*** n
+# ***\*hunt*** n
 英音 hʌnt     美音 hʌnt  
 
 | 词频 4 |  
@@ -5797,7 +5797,7 @@ hunting /'hʌntɪŋ/ n
  > 找工作/找房子    
 
 
-# ***<font color=#0099ff>\*hunter</font>*** n
+# ***\*hunter*** n
 英音 'hʌntə(r)     美音 'hʌntər  
 
 | 词频 4 |  
@@ -5817,7 +5817,7 @@ hunting /'hʌntɪŋ/ n
  > 求职者    
 
 
-# ***<font color=#0099ff>\*hurdle</font>*** n
+# ***\*hurdle*** n
 英音 'hɜːdl     美音 'hɜːrdl  
 
 | 词频 1 |  
@@ -5827,7 +5827,7 @@ hunting /'hʌntɪŋ/ n
 ### 1.**跨栏；难关，障碍**  
 
 
-# ***<font color=#0099ff>\*hurray</font>*** int
+# ***\*hurray*** int
 英音 hə'rɑː     美音 hə'rɑː  
 
 | 词频 1 |  
@@ -5837,7 +5837,7 @@ hunting /'hʌntɪŋ/ n
 ### 1.*高义频：* **好哇**  
 
 
-# ***<font color=#0099ff>\*hurricane</font>*** n
+# ***\*hurricane*** n
 英音 'hʌrɪkən     美音 'hɜːrəkən  
 
 | 词频 2 |  
@@ -5849,7 +5849,7 @@ hunting /'hʌntɪŋ/ n
 ### 1.*高义频：* **飓风；暴风雨**  
 
 
-# ***<font color=#0099ff>\*hurry</font>*** n
+# ***\*hurry*** n
 英音 'hʌri     美音 'hɜːri  
 
 | 词频 4 | 口语 1 |  
@@ -5867,7 +5867,7 @@ hunting /'hʌntɪŋ/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*in a / one's hurry</font>
+## \*in a / one's hurry
 1.**匆忙；急于：**  
 
  > *He was in a hurry to leave.*  
@@ -5876,7 +5876,7 @@ hunting /'hʌntɪŋ/ n
  > *In his hurry to catch the train, he left his book in the taxi.*  
  > 他匆匆忙忙地去赶火车，把书落在了出租车里。    
 
-## <font color=#0099ff>\*in no hurry</font>
+## \*in no hurry
 1.**不着急：**  
 
  > *I don't mind waiting — I'm in no hurry / I'm not in a hurry.*  
@@ -5897,7 +5897,7 @@ D.No use
 答案：
 1. in  2. B  
 
-# ***<font color=#0099ff>\*hurry</font>*** v
+# ***\*hurry*** v
 英音 'hʌri     美音 'hɜːri  
 
 | 词频 4 | 口语 1 |  
@@ -5920,7 +5920,7 @@ D.No use
 
 固定搭配
 ---
-## <font color=#0099ff>\*hurry up</font>
+## \*hurry up
 1.**[口语] 快点；(使) 加快：**  
 
  > *You'll be late if you don't hurry up.*  
@@ -5949,7 +5949,7 @@ hurriedly /'hʌridli/ adv
 答案：
 1. up  
 
-# ***<font color=#0099ff>\*hurt</font>*** v
+# ***\*hurt*** v
 英音 hɜːt     美音 hɜːrt  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -6001,7 +6001,7 @@ hurriedly /'hʌridli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*it won’t / doesn’t hurt (sb) to do sth</font>
+## \*it won’t / doesn’t hurt (sb) to do sth
 1.**(某人) 做某事也无妨：**  
 
  > *It wouldn’t hurt you to help with the housework occasionally.*  
@@ -6017,7 +6017,7 @@ hurriedly /'hʌridli/ adv
 答案：
 1.  to ask  2. had hurt his leg(s)  
 
-# ***<font color=#0099ff>\*hurt</font>*** n
+# ***\*hurt*** n
 英音 hɜːt     美音 hɜːrt  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -6035,7 +6035,7 @@ hurriedly /'hʌridli/ adv
  > 这真的伤害了他的感情。    
 
 
-# ***<font color=#0099ff>\*hurt</font>*** adj
+# ***\*hurt*** adj
 英音 hɜːt     美音 hɜːrt  
 
 | 词频 5 |  
@@ -6051,7 +6051,7 @@ hurriedly /'hʌridli/ adv
  > 伤心的表情    
 
 
-# ***<font color=#0099ff>\*husband</font>*** n
+# ***\*husband*** n
 英音 'hʌzbənd     美音 'hʌzbənd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6063,7 +6063,7 @@ hurriedly /'hʌridli/ adv
 ### 1.*高义频：* **丈夫**  
 
 
-# ***<font color=#0099ff>\*hush</font>*** v
+# ***\*hush*** v
 英音 hʌʃ     美音 hʌʃ  
 
 | 词频 1 |  
@@ -6073,7 +6073,7 @@ hurriedly /'hʌridli/ adv
 ### 1.*高义频：* **(使某人) 安静下来**  
 
 
-# ***<font color=#0099ff>\*hustle</font>*** v
+# ***\*hustle*** v
 英音 'hʌsl     美音 'hʌsl  
 
   
@@ -6083,7 +6083,7 @@ hurriedly /'hʌridli/ adv
 ### 1.**拼命干，努力干**  
 
 
-# ***<font color=#0099ff>\*hut</font>*** n
+# ***\*hut*** n
 英音 hʌt     美音 hʌt  
 
 | 词频 2 |  
@@ -6095,7 +6095,7 @@ hurriedly /'hʌridli/ adv
 ### 1.*高义频：* **小屋；棚屋**  
 
 
-# ***<font color=#0099ff>\*hybrid</font>*** adj
+# ***\*hybrid*** adj
 英音 'haɪbrɪd     美音 'haɪbrɪd  
 
 | 词频 1 |  
@@ -6105,7 +6105,7 @@ hurriedly /'hʌridli/ adv
 ### 1.**混合的；杂种的**  
 
 
-# ***<font color=#0099ff>\*hybrid</font>*** n
+# ***\*hybrid*** n
 英音 'haɪbrɪd     美音 'haɪbrɪd  
 
 | 词频 1 |  
@@ -6115,7 +6115,7 @@ hurriedly /'hʌridli/ adv
 ### 1.**杂交种；混血儿**  
 
 
-# ***<font color=#0099ff>\*hydro-electric</font>*** adj
+# ***\*hydro-electric*** adj
 英音 'haɪdrəʊɪ'lektrɪk     美音 'haɪdroʊɪ'lektrɪk  
 
 | 词频 1 |  
@@ -6125,7 +6125,7 @@ hurriedly /'hʌridli/ adv
 ### 1.**水力发电的**  
 
 
-# ***<font color=#0099ff>\*hydrogen</font>*** n
+# ***\*hydrogen*** n
 英音 'haɪdrədʒən     美音 'haɪdrədʒən  
 
 | 词频 1 |  
@@ -6137,7 +6137,7 @@ hurriedly /'hʌridli/ adv
 ### 1.*高义频：* **氢气**  
 
 
-# ***<font color=#0099ff>\*hysteria</font>*** n
+# ***\*hysteria*** n
 英音 hɪ'stɪəriə     美音 hɪ'stɪriə  
 
 | 词频 1 |  

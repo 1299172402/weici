@@ -1,6 +1,6 @@
 # Pp
 
-# ***<font color=#0099ff>\*p.m.</font>*** adv
+# ***\*p.m.*** adv
 英音 ˌpiː'em     美音 ˌpiː'em  
 
 | 词频 4 |  
@@ -10,7 +10,7 @@
 ### 1.*高义频：* **午后；下午**  
 
 
-# ***<font color=#0099ff>\*pace</font>*** n
+# ***\*pace*** n
 英音 peɪs     美音 peɪs  
 
 | 词频 3 | 书面 1 |  
@@ -39,11 +39,11 @@
 
 固定搭配
 ---
-## <font color=#0099ff>\*keep pace (with sb / sth)</font>
+## \*keep pace (with sb / sth)
 1.**(与某人 / 事物) 并驾齐驱；步调一致**  
 
 
-# ***<font color=#0099ff>\*pace</font>*** vi
+# ***\*pace*** vi
 英音 peɪs     美音 peɪs  
 
 | 词频 3 |  
@@ -53,7 +53,7 @@
 ### 1.**vi & vt 踱步**  
 
 
-# ***<font color=#0099ff>\*pace</font>*** v
+# ***\*pace*** v
 英音 peɪs     美音 peɪs  
 
 | 词频 3 |  
@@ -63,7 +63,7 @@
 ### 1.**踱步走**  
 
 
-# ***<font color=#0099ff>\*pack</font>*** v
+# ***\*pack*** v
 英音 pæk     美音 pæk  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -98,7 +98,7 @@
 
 固定搭配
 ---
-## <font color=#0099ff>\*pack up</font>
+## \*pack up
 1.**把…打包；收拾 (行李)：**  
 
  > *Once a friend and I packed up some peanut butter and sandwiches for an outing. *  
@@ -113,7 +113,7 @@
 答案：
 1. of  2. packed  
 
-# ***<font color=#0099ff>\*pack</font>*** n
+# ***\*pack*** n
 英音 pæk     美音 pæk  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -148,7 +148,7 @@
  > 红狼夜间单独或小群捕食。    
 
 
-# ***<font color=#0099ff>\*package</font>*** n
+# ***\*package*** n
 英音 'pækɪdʒ     美音 'pækɪdʒ  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -173,7 +173,7 @@
  > 软件包    
 
 
-# ***<font color=#0099ff>\*package</font>*** v
+# ***\*package*** v
 英音 'pækɪdʒ     美音 'pækɪdʒ  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -192,7 +192,7 @@
 ---
 packaging /'pækɪdʒɪŋ/ n [U]  
 
-# ***<font color=#0099ff>\*packet</font>*** n
+# ***\*packet*** n
 英音 'pækɪt     美音 'pækɪt  
 
 | 词频 2 | 口语 2 |  
@@ -204,7 +204,7 @@ packaging /'pækɪdʒɪŋ/ n [U]
 ### 1.*高义频：* **小包；小袋**  
 
 
-# ***<font color=#0099ff>\*pad</font>*** n
+# ***\*pad*** n
 英音 pæd     美音 pæd  
 
 | 词频 2 | 口语 1 |  
@@ -216,7 +216,7 @@ packaging /'pækɪdʒɪŋ/ n [U]
 ### 1.*高义频：* **垫；护垫；(猫、狗等动物的) 肉掌；爪垫**  
 
 
-# ***<font color=#0099ff>\*pad</font>*** vi
+# ***\*pad*** vi
 英音 pæd     美音 pæd  
 
 | 词频 2 |  
@@ -226,7 +226,7 @@ packaging /'pækɪdʒɪŋ/ n [U]
 ### 1.*高义频：* **轻轻地走；放轻脚步走**  
 
 
-# ***<font color=#0099ff>\*paddle</font>*** n
+# ***\*paddle*** n
 英音 'pædl     美音 'pædl  
 
 | 词频 1 |  
@@ -238,7 +238,7 @@ packaging /'pækɪdʒɪŋ/ n [U]
 ### 1.*高义频：* **桨；桨状物**  
 
 
-# ***<font color=#0099ff>\*paddle</font>*** v
+# ***\*paddle*** v
 英音 'pædl     美音 'pædl  
 
 | 词频 1 |  
@@ -248,7 +248,7 @@ packaging /'pækɪdʒɪŋ/ n [U]
 ### 1.*高义频：* **用桨划 (船)：**  
 
 
-# ***<font color=#0099ff>\*page</font>*** n
+# ***\*page*** n
 英音 peɪdʒ     美音 peɪdʒ  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -274,11 +274,11 @@ packaging /'pækɪdʒɪŋ/ n [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*turn the page</font>
+## \*turn the page
 1.**翻开新的一页**  
 
 
-# ***<font color=#0099ff>\*pain</font>*** n
+# ***\*pain*** n
 英音 peɪn     美音 peɪn  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -311,7 +311,7 @@ packaging /'pækɪdʒɪŋ/ n [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*take pains to do sth </font>
+## \*take pains to do sth 
 1.**努力 / 下苦功做某事：**  
 
  > *We should take pains to improve ourselves through learning and get prepared for the future.*  
@@ -322,7 +322,7 @@ packaging /'pækɪdʒɪŋ/ n [U]
 ---
 painless /'peɪnləs/ adj   
 
-# ***<font color=#0099ff>\*painful</font>*** adj
+# ***\*painful*** adj
 英音 'peɪnfl     美音 'peɪnfl  
 
 | 词频 4 |  
@@ -344,7 +344,7 @@ painless /'peɪnləs/ adj
 ---
 painfully /'peɪnfəli/ adv   
 
-# ***<font color=#0099ff>\*paint</font>*** n
+# ***\*paint*** n
 英音 peɪnt     美音 peɪnt  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -359,7 +359,7 @@ painfully /'peɪnfəli/ adv
  > 一盒颜料    
 
 
-# ***<font color=#0099ff>\*paint</font>*** v
+# ***\*paint*** v
 英音 peɪnt     美音 peɪnt  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -380,7 +380,7 @@ painfully /'peɪnfəli/ adv
  > 学好绘画需要花很长时间。  （外研② – 4）  
 
 
-# ***<font color=#0099ff>\*paintbrush</font>*** n
+# ***\*paintbrush*** n
 英音 'peɪntbrʌʃ     美音 'peɪntbrʌʃ  
 
 | 词频 1 |  
@@ -390,7 +390,7 @@ painfully /'peɪnfəli/ adv
 ### 1.**画笔**  
 
 
-# ***<font color=#0099ff>\*painter</font>*** n
+# ***\*painter*** n
 英音 'peɪntə(r)     美音 'peɪntər  
 
 | 词频 3 |  
@@ -402,7 +402,7 @@ painfully /'peɪnfəli/ adv
 ### 1.*高义频：* **画家；油漆工**  
 
 
-# ***<font color=#0099ff>\*painting</font>*** n
+# ***\*painting*** n
 英音 'peɪntɪŋ     美音 'peɪntɪŋ  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -422,7 +422,7 @@ painfully /'peɪnfəli/ adv
 ### 3.*高义频：* **[U] 刷油漆**  
 
 
-# ***<font color=#0099ff>\*pair</font>*** n
+# ***\*pair*** n
 英音 peə(r)     美音 per  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -453,14 +453,14 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 
 固定搭配
 ---
-## <font color=#0099ff>\*in pairs </font>
+## \*in pairs 
 1.**成对地；两人一组地：**  
 
  > *I want you to do this task in pairs. *  
  > 我希望你们两人一组完成这项任务。    
 
 
-# ***<font color=#0099ff>\*palace</font>*** n
+# ***\*palace*** n
 英音 'pæləs     美音 'pæləs  
 
 | 词频 3 | 书面 1 |  
@@ -480,7 +480,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 ### 2.*低义频：* **豪华住宅**  
 
 
-# ***<font color=#0099ff>\*pale</font>*** adj
+# ***\*pale*** adj
 英音 peɪl     美音 peɪl  
 
 | 词频 2 | 书面 1 |  
@@ -507,7 +507,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
  > 他因长期生病而脸色苍白。    
 
 
-# ***<font color=#0099ff>\*palm</font>*** n
+# ***\*palm*** n
 英音 pɑːm     美音 pɑːm  
 
 | 词频 2 |  
@@ -519,7 +519,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 ### 1.*高义频：* **手掌；棕榈树**  
 
 
-# ***<font color=#0099ff>\*pan</font>*** n
+# ***\*pan*** n
 英音 pæn     美音 pæn  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -531,7 +531,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 ### 1.*高义频：* **平底锅**  
 
 
-# ***<font color=#0099ff>\*pancake</font>*** n
+# ***\*pancake*** n
 英音 'pænkeɪk     美音 'pænkeɪk  
 
 | 词频 1 |  
@@ -543,7 +543,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 ### 1.*高义频：* **薄饼**  
 
 
-# ***<font color=#0099ff>\*panda</font>*** n
+# ***\*panda*** n
 英音 'pændə     美音 'pændə  
 
 | 词频 2 |  
@@ -562,7 +562,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 答案：
 1. pandas  
 
-# ***<font color=#0099ff>\*panel</font>*** n
+# ***\*panel*** n
 英音 'pænl     美音 'pænl  
 
 | 词频 1 | 口语 3 | 书面 2 |  
@@ -574,7 +574,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 ### 1.*高义频：* **嵌板；镶板；专家咨询小组**  
 
 
-# ***<font color=#0099ff>\*panic</font>*** v
+# ***\*panic*** v
 英音 'pænɪk     美音 'pænɪk  
 
 | 词频 3 | 口语 1 |  
@@ -590,7 +590,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
  > 形势危险时，不要惊慌！  （2010 江西改）  
 
 
-# ***<font color=#0099ff>\*panic</font>*** n
+# ***\*panic*** n
 英音 'pænɪk     美音 'pænɪk  
 
 | 词频 3 | 口语 1 |  
@@ -616,7 +616,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 答案：
 1. panic  
 
-# ***<font color=#0099ff>\*pants</font>*** n
+# ***\*pants*** n
 英音 pænts     美音 pænts  
 
 | 词频 1 | 口语 1 |  
@@ -628,7 +628,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 ### 1.*高义频：* **裤子 (BrE trousers)**  
 
 
-# ***<font color=#0099ff>\*paparazzi</font>*** n
+# ***\*paparazzi*** n
 英音 ˌpæpə'rætsi     美音 ˌpæpə'rætsi  
 
 | 词频 1 |  
@@ -638,7 +638,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 ### 1.**对名人作猎奇报道的新闻记者**  
 
 
-# ***<font color=#0099ff>\*paper</font>*** n
+# ***\*paper*** n
 英音 'peɪpə(r)     美音 'peɪpər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -677,7 +677,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
  > 他正在准备一篇关于世界人口的论文。    
 
 
-# ***<font color=#0099ff>\*paperwork</font>*** n
+# ***\*paperwork*** n
 英音 'peɪpəwɜːk     美音 'peɪpərwɜːrk  
 
 | 词频 1 |  
@@ -689,7 +689,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 ### 1.*高义频：* **文书工作**  
 
 
-# ***<font color=#0099ff>\*parachute</font>*** n
+# ***\*parachute*** n
 英音 'pærəʃuːt     美音 'pærəʃuːt  
 
 | 词频 1 |  
@@ -701,7 +701,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 ### 1.*高义频：* **降落伞**  
 
 
-# ***<font color=#0099ff>\*parade</font>*** n
+# ***\*parade*** n
 英音 pə'reɪd     美音 pə'reɪd  
 
 | 词频 1 |  
@@ -713,7 +713,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 ### 1.*高义频：* **(庆祝) 游行；阅兵式**  
 
 
-# ***<font color=#0099ff>\*parade</font>*** vi
+# ***\*parade*** vi
 英音 pə'reɪd     美音 pə'reɪd  
 
 | 词频 1 |  
@@ -723,7 +723,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 ### 1.**游行庆祝；游行示威**  
 
 
-# ***<font color=#0099ff>\*paragraph</font>*** n
+# ***\*paragraph*** n
 英音 'pærəɡrɑːf     美音 'pærəɡræf  
 
 | 词频 5 | 口语 1 | 书面 1 |  
@@ -735,7 +735,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 ### 1.*低义频：* **(文章的) 自然段；小节**  
 
 
-# ***<font color=#0099ff>\*parallel</font>*** n
+# ***\*parallel*** n
 英音 'pærəlel     美音 'pærəlel  
 
 | 词频 1 | 阅读 1 |  
@@ -751,7 +751,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
  > 有跟这条道路平行的路吗？    
 
 
-# ***<font color=#0099ff>\*parallel</font>*** adj
+# ***\*parallel*** adj
 英音 'pærəlel     美音 'pærəlel  
 
 | 词频 1 | 阅读 1 |  
@@ -764,7 +764,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
  > 平行线    
 
 
-# ***<font color=#0099ff>\*paramount</font>*** adj
+# ***\*paramount*** adj
 英音 'pærəmaʊnt     美音 'pærəmaʊnt  
 
 | 词频 1 |  
@@ -774,7 +774,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 ### 1.**至为重要的，首要的；至高无上的，权力最大的**  
 
 
-# ***<font color=#0099ff>\*paraphrase</font>*** n
+# ***\*paraphrase*** n
 英音 'pærəfreɪz     美音 'pærəfreɪz  
 
 | 词频 1 |  
@@ -784,7 +784,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 ### 1.**（用更容易理解的文字）解释**  
 
 
-# ***<font color=#0099ff>\*paraphrase</font>*** v
+# ***\*paraphrase*** v
 英音 'pærəfreɪz     美音 'pærəfreɪz  
 
 | 词频 1 |  
@@ -794,7 +794,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 ### 1.**（用更容易理解的文字）解释**  
 
 
-# ***<font color=#0099ff>\*parcel</font>*** n
+# ***\*parcel*** n
 英音 'pɑːsl     美音 'pɑːrsl  
 
 | 词频 1 | 口语 1 |  
@@ -809,7 +809,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
  > 包裹寄到时，书完好无损。  （2009 上海改）  
 
 
-# ***<font color=#0099ff>\*pardon</font>*** n
+# ***\*pardon*** n
 英音 'pɑːdn     美音 'pɑːrdn  
 
 | 词频 2 |  
@@ -827,7 +827,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 
 固定搭配
 ---
-## <font color=#0099ff>\*I beg your pardon</font>
+## \*I beg your pardon
 1.*高义频：* **[未听清对方的话，请求重复；常简化为 “beg pardon” 或 “pardon”] 什么；请再说一遍：**  
 
  > *— You’re very quiet today. *  
@@ -845,7 +845,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
  > 对不起，我不知道这座位是你的。    
 
 
-# ***<font color=#0099ff>\*pardon</font>*** vt
+# ***\*pardon*** vt
 英音 'pɑːdn     美音 'pɑːrdn  
 
 | 词频 2 |  
@@ -878,7 +878,7 @@ D.Pardon me
 答案：
 1. D  
 
-# ***<font color=#0099ff>\*parent</font>*** n
+# ***\*parent*** n
 英音 'peərənt     美音 'perənt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -890,7 +890,7 @@ D.Pardon me
 ### 1.*高义频：* **父；母；[复数] 双亲**  
 
 
-# ***<font color=#0099ff>\*park</font>*** n
+# ***\*park*** n
 英音 pɑːk     美音 pɑːrk  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -902,7 +902,7 @@ D.Pardon me
 ### 1.*高义频：* **公园；园区：**  
 
 
-# ***<font color=#0099ff>\*park</font>*** v
+# ***\*park*** v
 英音 pɑːk     美音 pɑːrk  
 
 | 词频 4 | 口语 2 |  
@@ -918,7 +918,7 @@ D.Pardon me
  > 她把车停得七歪八斜，因为她刚学会开车。    
 
 
-# ***<font color=#0099ff>\*parking</font>*** n
+# ***\*parking*** n
 英音 'pɑːkɪŋ     美音 'pɑːrkɪŋ  
 
 | 词频 3 | 口语 1 |  
@@ -937,7 +937,7 @@ D.Pardon me
  > 人行道上禁止停车。    
 
 
-# ***<font color=#0099ff>\*parkland</font>*** n
+# ***\*parkland*** n
 英音 'pɑːklænd     美音 'pɑːrklænd  
 
 | 词频 1 |  
@@ -947,7 +947,7 @@ D.Pardon me
 ### 1.**公共绿地**  
 
 
-# ***<font color=#0099ff>\*parliament</font>*** n
+# ***\*parliament*** n
 英音 'pɑːləmənt     美音 'pɑːrləmənt  
 
 | 词频 2 | 书面 2 |  
@@ -959,7 +959,7 @@ D.Pardon me
 ### 1.*高义频：* **议会；国会**  
 
 
-# ***<font color=#0099ff>\*parrot</font>*** n
+# ***\*parrot*** n
 英音 'pærət     美音 'pærət  
 
 | 词频 3 |  
@@ -971,7 +971,7 @@ D.Pardon me
 ### 1.*高义频：* **鹦鹉；人云亦云者**  
 
 
-# ***<font color=#0099ff>\*part</font>*** n
+# ***\*part*** n
 英音 pɑːt     美音 pɑːrt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1017,25 +1017,25 @@ Notes: part前有形容词修饰时使用不定冠词，没有形容词修饰时
 
 固定搭配
 ---
-## <font color=#0099ff>\*for the most part </font>
+## \*for the most part 
 1.**通常；多数情况下：**  
 
  > *For the most part, students work to earn money for their own use. *  
  > 大多数情况下，学生打工赚钱是为了自己用。    
 
-## <font color=#0099ff>\*in part </font>
+## \*in part 
 1.**部分地；在某种程度上：**  
 
  > *Some people said his success was due in part to luck.*  
  > 有人说他成功的部分原因是运气好。    
 
-## <font color=#0099ff>\*play / act a(n) (...) part (in)</font>
+## \*play / act a(n) (...) part (in)
 1.**(在…中) 扮演角色 / 起作用：**  
 
  > *Nowadays, the Internet plays an important part in our lives. *  
  > 如今，互联网在我们的生活中起着重要作用。    
 
-## <font color=#0099ff>\*take part (in) </font>
+## \*take part (in) 
 1.**参加；参与：**  
 
  > *If Jim took part in the Talent Show, he’d win it for sure. *  
@@ -1049,7 +1049,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 四者都常译为“参加”。  
 
 
-# ***<font color=#0099ff>\*part</font>*** v
+# ***\*part*** v
 英音 pɑːt     美音 pɑːrt  
 
 | 词频 5 |  
@@ -1072,14 +1072,14 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 
 固定搭配
 ---
-## <font color=#0099ff>\*part with </font>
+## \*part with 
 1.**(不情愿地) 放弃：**  
 
  > *The novel is so attractive that I can’t stand parting with it. *  
  > 这部小说引人入胜，我简直爱不释手。    
 
 
-# ***<font color=#0099ff>\*part</font>*** adv
+# ***\*part*** adv
 英音 pɑːt     美音 pɑːrt  
 
 | 词频 5 |  
@@ -1092,7 +1092,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 这次考试分为笔试和口试。    
 
 
-# ***<font color=#0099ff>\*part-time</font>*** adv
+# ***\*part-time*** adv
 英音 'pɑːt taɪm     美音 'pɑːrt taɪm  
 
 | 词频 4 | 口语 1 |  
@@ -1105,7 +1105,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 他在这家超市做兼职。    
 
 
-# ***<font color=#0099ff>\*part-time</font>*** adj
+# ***\*part-time*** adj
 英音 'pɑːt taɪm     美音 'pɑːrt taɪm  
 
 | 词频 4 | 口语 1 |  
@@ -1118,7 +1118,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我正在申请暑假期间去一家外企兼职的工作。  （2016 全国书面表达）  
 
 
-# ***<font color=#0099ff>\*partial</font>*** adj
+# ***\*partial*** adj
 英音 'pɑːʃl     美音 'pɑːrʃl  
 
 | 词频 1 |  
@@ -1128,7 +1128,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**部分的；局部的**  
 
 
-# ***<font color=#0099ff>\*participant</font>*** n
+# ***\*participant*** n
 英音 pɑː'tɪsɪpənt     美音 pɑːr'tɪsɪpənt  
 
 | 词频 4 |  
@@ -1138,7 +1138,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**参与者；参加者**  
 
 
-# ***<font color=#0099ff>\*participate</font>*** vi
+# ***\*participate*** vi
 英音 pɑː'tɪsɪpeɪt     美音 pɑːr'tɪsɪpeɪt  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -1161,7 +1161,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ---
 participant /pɑː'tɪsɪpənt/ n [C]  
 
-# ***<font color=#0099ff>\*participation</font>*** n
+# ***\*participation*** n
 英音 pɑːˌtɪsɪ'peɪʃn     美音 pɑːrˌtɪsɪ'peɪʃn  
 
 | 词频 3 |  
@@ -1177,7 +1177,7 @@ participant /pɑː'tɪsɪpənt/ n [C]
  > 我们想更多地参与决策。    
 
 
-# ***<font color=#0099ff>\*particular</font>*** adj
+# ***\*particular*** adj
 英音 pə'tɪkjələ(r)     美音 pər'tɪkjələr  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -1214,7 +1214,7 @@ participant /pɑː'tɪsɪpənt/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*in particular </font>
+## \*in particular 
 1.**尤其；特别：**  
 
  > *Parents and coaches in particular should act as better examples for children. *  
@@ -1231,7 +1231,7 @@ participant /pɑː'tɪsɪpənt/ n [C]
 答案：
 1. about / over  
 
-# ***<font color=#0099ff>\*particularly</font>*** adv
+# ***\*particularly*** adv
 英音 pə'tɪkjələli     美音 pər'tɪkjələrli  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -1247,7 +1247,7 @@ participant /pɑː'tɪsɪpənt/ n [C]
  > 近年来微博大受欢迎，尤其是在年轻人当中。    
 
 
-# ***<font color=#0099ff>\*partly</font>*** adv
+# ***\*partly*** adv
 英音 'pɑːtli     美音 'pɑːrtli  
 
 | 词频 3 | 口语 3 | 书面 2 |  
@@ -1260,7 +1260,7 @@ participant /pɑː'tɪsɪpənt/ n [C]
  > 她没有接受国外的那份工作，部分原因是母亲病了。    
 
 
-# ***<font color=#0099ff>\*partner</font>*** n
+# ***\*partner*** n
 英音 'pɑːtnə(r)     美音 'pɑːrtnər  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -1279,7 +1279,7 @@ participant /pɑː'tɪsɪpənt/ n [C]
 ---
 partnership /'pɑːtnəʃɪp/ n [U] & [C]   
 
-# ***<font color=#0099ff>\*party</font>*** n
+# ***\*party*** n
 英音 'pɑːti     美音 'pɑːrti  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1316,7 +1316,7 @@ partnership /'pɑːtnəʃɪp/ n [U] & [C]
  > 本周五你们有可供6人用餐的桌位吗？    
 
 
-# ***<font color=#0099ff>\*pass</font>*** v
+# ***\*pass*** v
 英音 pɑːs     美音 pæs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1364,19 +1364,19 @@ partnership /'pɑːtnəʃɪp/ n [U] & [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*pass around / round </font>
+## \*pass around / round 
 1.**分发；传阅：**  
 
  > *Pass the cookies around / round, would you? *  
  > 请把小甜饼分发给大家，好吗？    
 
-## <font color=#0099ff>\*pass away </font>
+## \*pass away 
 1.**[委婉语] 去世；逝世：**  
 
  > *He unfortunately passed away last year due to his cancer.*  
  > 他去年因癌症不幸去世。  （2015 江苏）  
 
-## <font color=#0099ff>\*pass by </font>
+## \*pass by 
 1.**经过；(时间) 过去：**  
 
  > *Did you see a man in black pass by just now? *  
@@ -1385,25 +1385,25 @@ partnership /'pɑːtnəʃɪp/ n [U] & [C]
  > *Three hours passing by, I became more and more impatient. *  
  > 3小时过去了，我越来越不耐烦。  （2009 重庆）  
 
-## <font color=#0099ff>\*pass down </font>
+## \*pass down 
 1.**把…传下去 (hand down)：**  
 
  > *She wants to be a gymnastics coach to pass down what she’s learned to other kids when she grows up. *  
  > 她长大后想成为一名体操教练，把她所学的传授给其他孩子。  （2013 北京）  
 
-## <font color=#0099ff>\*pass off as</font>
+## \*pass off as
 1.**把…冒充成：**  
 
  > *He escaped by passing himself off as a guard. *  
  > 他冒充警卫逃走了。    
 
-## <font color=#0099ff>\*pass on </font>
+## \*pass on 
 1.**传递：**  
 
  > *Please pass on the message to as many people as possible. *  
  > 请将这个消息传达给尽可能多的人。    
 
-## <font color=#0099ff>\*pass out </font>
+## \*pass out 
 1.**分发；分配；昏倒：**  
 
  > *In the home for sick people, I helped wash clothes and sheets, and pass out lunch. *  
@@ -1412,10 +1412,10 @@ partnership /'pɑːtnəʃɪp/ n [U] & [C]
  > *I nearly passed out when I saw all the blood. *  
  > 看到那么多血，我差点晕了过去。    
 
-## <font color=#0099ff>\*pass through </font>
+## \*pass through 
 1.**穿过；通过**  
 
-## <font color=#0099ff>\*pass up</font>
+## \*pass up
 1.**放弃；错过 (机会等)：**  
 
  > *You shouldn’t pass up the opportunity to go to university.*  
@@ -1430,7 +1430,7 @@ passing /'pɑːsɪŋ/ adj
  > 一时的兴趣/想法    
 
 
-# ***<font color=#0099ff>\*pass</font>*** n
+# ***\*pass*** n
 英音 pɑːs     美音 pæs  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -1448,7 +1448,7 @@ passing /'pɑːsɪŋ/ adj
  > 没有通行证你不能进去。    
 
 
-# ***<font color=#0099ff>\*passage</font>*** n
+# ***\*passage*** n
 英音 'pæsɪdʒ     美音 'pæsɪdʒ  
 
 | 词频 5 | 书面 2 |  
@@ -1475,7 +1475,7 @@ passing /'pɑːsɪŋ/ adj
  > 我父母付不起去美国的船费。    
 
 
-# ***<font color=#0099ff>\*passbook</font>*** n
+# ***\*passbook*** n
 英音 'pæsbʊk     美音 'pɑːsbʊk  
 
 | 词频 1 |  
@@ -1487,7 +1487,7 @@ passing /'pɑːsɪŋ/ adj
 ### 1.*高义频：* **南非共和国有色人种的身份证**  
 
 
-# ***<font color=#0099ff>\*passenger</font>*** n
+# ***\*passenger*** n
 英音 'pæsɪndʒə(r)     美音 'pæsɪndʒər  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -1499,7 +1499,7 @@ passing /'pɑːsɪŋ/ adj
 ### 1.*高义频：* **乘客；旅客：**  
 
 
-# ***<font color=#0099ff>\*passer-by</font>*** n
+# ***\*passer-by*** n
 英音 'pɑːsə baɪ     美音 'pɑːsə baɪ  
 
 | 词频 2 |  
@@ -1511,7 +1511,7 @@ passing /'pɑːsɪŋ/ adj
 ### 1.*高义频：* **过路人**  
 
 
-# ***<font color=#0099ff>\*passerby</font>*** n
+# ***\*passerby*** n
 英音 'pɑːsə'baɪ     美音 'pɑːsə'baɪ  
 
 | 词频 2 |  
@@ -1521,7 +1521,7 @@ passing /'pɑːsɪŋ/ adj
 ### 1.**过路人，行人**  
 
 
-# ***<font color=#0099ff>\*passion</font>*** n
+# ***\*passion*** n
 英音 'pæʃn     美音 'pæʃn  
 
 | 词频 3 |  
@@ -1536,7 +1536,7 @@ passing /'pɑːsɪŋ/ adj
  > 无论多大岁数，人应该总是在生活中充满激情。  （2015 天津）  
 
 
-# ***<font color=#0099ff>\*passive</font>*** adj
+# ***\*passive*** adj
 英音 'pæsɪv     美音 'pæsɪv  
 
 | 词频 3 | 阅读 2 |  
@@ -1566,7 +1566,7 @@ passively /'pæsɪvli/ adv
 答案：
 1. passive  
 
-# ***<font color=#0099ff>\*passport</font>*** n
+# ***\*passport*** n
 英音 'pɑːspɔːt     美音 'pæspɔːrt  
 
 | 词频 3 |  
@@ -1581,7 +1581,7 @@ passively /'pæsɪvli/ adv
  > 申请 / 续签护照    
 
 
-# ***<font color=#0099ff>\*past</font>*** adj
+# ***\*past*** adj
 英音 pɑːst     美音 pæst  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1602,7 +1602,7 @@ passively /'pæsɪvli/ adv
 ### 2.*低义频：* **过去式的**  
 
 
-# ***<font color=#0099ff>\*past</font>*** adv
+# ***\*past*** adv
 英音 pɑːst     美音 pæst  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -1618,7 +1618,7 @@ passively /'pæsɪvli/ adv
  > 几个月过去了，一直没有消息。    
 
 
-# ***<font color=#0099ff>\*past</font>*** prep
+# ***\*past*** prep
 英音 pɑːst     美音 pæst  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -1639,7 +1639,7 @@ passively /'pæsɪvli/ adv
  > 她60多岁了。    
 
 
-# ***<font color=#0099ff>\*past</font>*** n
+# ***\*past*** n
 英音 pɑːst     美音 pæst  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -1662,7 +1662,7 @@ passively /'pæsɪvli/ adv
  > 有着光辉历史的国家    
 
 
-# ***<font color=#0099ff>\*pat</font>*** vt
+# ***\*pat*** vt
 英音 pæt     美音 pæt  
 
 | 词频 1 |  
@@ -1672,7 +1672,7 @@ passively /'pæsɪvli/ adv
 ### 1.*高义频：* **(给予安慰的) 轻拍**  
 
 
-# ***<font color=#0099ff>\*pat</font>*** n
+# ***\*pat*** n
 英音 pæt     美音 pæt  
 
 | 词频 1 |  
@@ -1682,7 +1682,7 @@ passively /'pæsɪvli/ adv
 ### 1.**轻拍；拍**  
 
 
-# ***<font color=#0099ff>\*patch</font>*** n
+# ***\*patch*** n
 英音 pætʃ     美音 pætʃ  
 
 | 词频 1 |  
@@ -1692,7 +1692,7 @@ passively /'pæsɪvli/ adv
 ### 1.**（与周围部分不同的）小块，斑**  
 
 
-# ***<font color=#0099ff>\*patent</font>*** n
+# ***\*patent*** n
 英音 'pætnt; 'peɪtnt     美音 'pætnt  
 
 | 词频 2 | 阅读 1 |  
@@ -1708,7 +1708,7 @@ passively /'pæsɪvli/ adv
  > 申请发明专利    
 
 
-# ***<font color=#0099ff>\*patent</font>*** vt
+# ***\*patent*** vt
 英音 'pætnt; 'peɪtnt     美音 'pætnt  
 
 | 词频 2 | 阅读 1 |  
@@ -1721,7 +1721,7 @@ passively /'pæsɪvli/ adv
  > 那项发明已被那所大学申请了专利。    
 
 
-# ***<font color=#0099ff>\*path</font>*** n
+# ***\*path*** n
 英音 pɑːθ     美音 pæθ  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -1751,7 +1751,7 @@ passively /'pæsɪvli/ adv
  > 成功的途径    
 
 
-# ***<font color=#0099ff>\*pathologist</font>*** n
+# ***\*pathologist*** n
 英音 pə'θɒlədʒɪst     美音 pə'θɑːlədʒɪst  
 
 | 词频 1 |  
@@ -1761,7 +1761,7 @@ passively /'pæsɪvli/ adv
 ### 1.**病理学家**  
 
 
-# ***<font color=#0099ff>\*patience</font>*** n
+# ***\*patience*** n
 英音 'peɪʃns     美音 'peɪʃns  
 
 | 词频 3 | 口语 1 |  
@@ -1792,7 +1792,7 @@ passively /'pæsɪvli/ adv
 答案：
 1. patience  
 
-# ***<font color=#0099ff>\*patient</font>*** n
+# ***\*patient*** n
 英音 'peɪʃnt     美音 'peɪʃnt  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -1804,7 +1804,7 @@ passively /'pæsɪvli/ adv
 ### 1.*高义频：* **病人**  
 
 
-# ***<font color=#0099ff>\*patient</font>*** adj
+# ***\*patient*** adj
 英音 'peɪʃnt     美音 'peɪʃnt  
 
 | 词频 4 | 口语 1 |  
@@ -1823,7 +1823,7 @@ passively /'pæsɪvli/ adv
 ---
 patiently /'peɪʃntli/ adv   
 
-# ***<font color=#0099ff>\*patrol</font>*** v
+# ***\*patrol*** v
 英音 pə'trəʊl     美音 pə'troʊl  
 
 | 词频 1 |  
@@ -1833,7 +1833,7 @@ patiently /'peɪʃntli/ adv
 ### 1.**巡逻，巡查**  
 
 
-# ***<font color=#0099ff>\*pattern</font>*** n
+# ***\*pattern*** n
 英音 'pætn     美音 'pætərn  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -1871,7 +1871,7 @@ patiently /'peɪʃntli/ adv
  > 为…树立典范    
 
 
-# ***<font color=#0099ff>\*pause</font>*** vi
+# ***\*pause*** vi
 英音 pɔːz     美音 pɔːz  
 
 | 词频 4 | 书面 1 |  
@@ -1885,7 +1885,7 @@ patiently /'peɪʃntli/ adv
  > 演讲人停下来喝了口水。    
 
 
-# ***<font color=#0099ff>\*pause</font>*** n
+# ***\*pause*** n
 英音 pɔːz     美音 pɔːz  
 
 | 词频 4 | 书面 1 |  
@@ -1903,7 +1903,7 @@ patiently /'peɪʃntli/ adv
  > 他稍稍停顿了一下又继续念下去。    
 
 
-# ***<font color=#0099ff>\*pavement</font>*** n
+# ***\*pavement*** n
 英音 'peɪvmənt     美音 'peɪvmənt  
 
 | 词频 2 |  
@@ -1915,7 +1915,7 @@ patiently /'peɪʃntli/ adv
 ### 1.*高义频：* **(BrE) 人行道 (AmE sidewalk)**  
 
 
-# ***<font color=#0099ff>\*paw</font>*** n
+# ***\*paw*** n
 英音 pɔː     美音 pɔː  
 
 | 词频 1 |  
@@ -1925,7 +1925,7 @@ patiently /'peɪʃntli/ adv
 ### 1.**爪子**  
 
 
-# ***<font color=#0099ff>\*pay</font>*** n  重难点词汇
+# ***\*pay*** n  重难点词汇
 英音 peɪ     美音 peɪ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1944,7 +1944,7 @@ patiently /'peɪʃntli/ adv
 三者都可用作名词，含“报酬”之意，都常译为“工资”。  
 
 
-# ***<font color=#0099ff>\*pay</font>*** v  重难点词汇
+# ***\*pay*** v  重难点词汇
 英音 peɪ     美音 peɪ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2006,7 +2006,7 @@ patiently /'peɪʃntli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*pay back</font>
+## \*pay back
 1.*高义频：* **偿还；报答：**  
 
  > *Will you lend me $10? I’ll pay (it) back next month.*  
@@ -2020,10 +2020,10 @@ patiently /'peɪʃntli/ adv
  > *Pay somebody back in his own coin. *  
  > 以其人之道还治其人之身。    
 
-## <font color=#0099ff>\*pay down</font>
+## \*pay down
 1.**先支付 (部分货款) 作为定金**  
 
-## <font color=#0099ff>\*pay off</font>
+## \*pay off
 1.*低义频：* **还清 (欠债等)：**  
 
  > *Once we’ve paid off the debts, we’ll owe money to no one. *  
@@ -2039,7 +2039,7 @@ patiently /'peɪʃntli/ adv
  > *Over 1,000 workers will be paid off if this factory closes. *  
  > 如果这家工厂关闭，会有超过1000名工人被解雇。    
 
-## <font color=#0099ff>\*pay up</font>
+## \*pay up
 1.**(尤指不情愿或延迟) 付清欠款；偿还欠款**  
 
 
@@ -2053,7 +2053,7 @@ patiently /'peɪʃntli/ adv
 答案：
 1. off  2. for  3. off  
 
-# ***<font color=#0099ff>\*payment</font>*** n
+# ***\*payment*** n
 英音 'peɪmənt     美音 'peɪmənt  
 
 | 词频 3 | 口语 2 | 书面 3 |  
@@ -2079,7 +2079,7 @@ patiently /'peɪʃntli/ adv
  > 收款    
 
 
-# ***<font color=#0099ff>\*pea</font>*** n
+# ***\*pea*** n
 英音 piː     美音 piː  
 
 | 词频 1 |  
@@ -2091,7 +2091,7 @@ patiently /'peɪʃntli/ adv
 ### 1.*高义频：* **豌豆**  
 
 
-# ***<font color=#0099ff>\*peace</font>*** n
+# ***\*peace*** n
 英音 piːs     美音 piːs  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2126,7 +2126,7 @@ patiently /'peɪʃntli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*at peace </font>
+## \*at peace 
 1.**处于和平 / 平静状态：**  
 
  > *The countries have been at peace for more than a century. *  
@@ -2135,20 +2135,20 @@ patiently /'peɪʃntli/ adv
  > *Her mind is at peace. *  
  > 她心境平和。    
 
-## <font color=#0099ff>\*in peace </font>
+## \*in peace 
 1.**和平地；安宁地：**  
 
  > *The two communities live together in peace. *  
  > 这两个社区相安无事。    
 
-## <font color=#0099ff>\*make (one’s) peace with</font>
+## \*make (one’s) peace with
 1.**同…言归于好：**  
 
  > *They finally made peace with each other after two weeks of arguing. *  
  > 争吵了两周后，他们终于和好了。    
 
 
-# ***<font color=#0099ff>\*peaceful</font>*** adj
+# ***\*peaceful*** adj
 英音 'piːsfl     美音 'piːsfl  
 
 | 词频 3 | 口语 1 |  
@@ -2171,7 +2171,7 @@ patiently /'peɪʃntli/ adv
 ---
 peacefully /'piːsfəli/ adv   
 
-# ***<font color=#0099ff>\*peacefully</font>*** adv
+# ***\*peacefully*** adv
 英音 'piːsfəli     美音 'piːsfəli  
 
 | 词频 3 |  
@@ -2181,7 +2181,7 @@ peacefully /'piːsfəli/ adv
 ### 1.**和平地, 平静地**  
 
 
-# ***<font color=#0099ff>\*peacekeeper</font>*** n
+# ***\*peacekeeper*** n
 英音 'piːskiːpə(r)     美音 'piːskiːpər  
 
 | 词频 1 |  
@@ -2191,7 +2191,7 @@ peacefully /'piːsfəli/ adv
 ### 1.**维和人员**  
 
 
-# ***<font color=#0099ff>\*peach</font>*** n
+# ***\*peach*** n
 英音 piːtʃ     美音 piːtʃ  
 
 | 词频 1 |  
@@ -2201,7 +2201,7 @@ peacefully /'piːsfəli/ adv
 ### 1.*高义频：* **[C]桃子；桃树；[U] 桃 (红) 色**  
 
 
-# ***<font color=#0099ff>\*peacock</font>*** n
+# ***\*peacock*** n
 英音 'piːkɒk     美音 'piːkɑːk  
 
 | 词频 1 |  
@@ -2211,7 +2211,7 @@ peacefully /'piːsfəli/ adv
 ### 1.**孔雀**  
 
 
-# ***<font color=#0099ff>\*peak</font>*** vi
+# ***\*peak*** vi
 英音 piːk     美音 piːk  
 
 | 词频 3 | 书面 1 |  
@@ -2225,7 +2225,7 @@ peacefully /'piːsfəli/ adv
  > 昨天的风速最高达每小时105英里。    
 
 
-# ***<font color=#0099ff>\*peak</font>*** adj
+# ***\*peak*** adj
 英音 piːk     美音 piːk  
 
 | 词频 3 | 书面 1 |  
@@ -2242,7 +2242,7 @@ peacefully /'piːsfəli/ adv
  > 旺季    
 
 
-# ***<font color=#0099ff>\*peak</font>*** n
+# ***\*peak*** n
 英音 piːk     美音 piːk  
 
 | 词频 3 | 书面 1 |  
@@ -2264,7 +2264,7 @@ peacefully /'piːsfəli/ adv
  > 在上午8点至9点之间，交通达到高峰。    
 
 
-# ***<font color=#0099ff>\*peanut</font>*** n
+# ***\*peanut*** n
 英音 'piːnʌt     美音 'piːnʌt  
 
 | 词频 3 |  
@@ -2276,7 +2276,7 @@ peacefully /'piːsfəli/ adv
 ### 1.*高义频：* **花生 (=groundnut)**  
 
 
-# ***<font color=#0099ff>\*pear</font>*** n
+# ***\*pear*** n
 英音 peə(r)     美音 per  
 
 | 词频 1 | 口语 1 |  
@@ -2288,7 +2288,7 @@ peacefully /'piːsfəli/ adv
 ### 1.*高义频：* **梨；梨树**  
 
 
-# ***<font color=#0099ff>\*pearl</font>*** n
+# ***\*pearl*** n
 英音 pɜːl     美音 pɜːrl  
 
 | 词频 1 |  
@@ -2300,7 +2300,7 @@ peacefully /'piːsfəli/ adv
 ### 1.*高义频：* **珍珠**  
 
 
-# ***<font color=#0099ff>\*peasant</font>*** n
+# ***\*peasant*** n
 英音 'peznt     美音 'peznt  
 
 | 词频 2 |  
@@ -2312,7 +2312,7 @@ peacefully /'piːsfəli/ adv
 ### 1.*高义频：* **(旧时的或贫穷国家的) 农民**  
 
 
-# ***<font color=#0099ff>\*pedal</font>*** n
+# ***\*pedal*** n
 英音 'pedl     美音 'pedl  
 
 | 词频 1 |  
@@ -2324,7 +2324,7 @@ peacefully /'piːsfəli/ adv
 ### 1.*高义频：* **踏板；脚蹬**  
 
 
-# ***<font color=#0099ff>\*pedal</font>*** v
+# ***\*pedal*** v
 英音 'pedl     美音 'pedl  
 
 | 词频 1 |  
@@ -2336,7 +2336,7 @@ peacefully /'piːsfəli/ adv
 ### 1.*高义频：* **骑 (自行车)；踩...的踏板**  
 
 
-# ***<font color=#0099ff>\*pedestrian</font>*** n
+# ***\*pedestrian*** n
 英音 pə'destriən     美音 pə'destriən  
 
 | 词频 2 |  
@@ -2348,7 +2348,7 @@ peacefully /'piːsfəli/ adv
 ### 1.*高义频：* **行人；步行者**  
 
 
-# ***<font color=#0099ff>\*pedestrian</font>*** adj
+# ***\*pedestrian*** adj
 英音 pə'destriən     美音 pə'destriən  
 
 | 词频 2 |  
@@ -2358,7 +2358,7 @@ peacefully /'piːsfəli/ adv
 ### 1.**行人（使用）的**  
 
 
-# ***<font color=#0099ff>\*peer</font>*** n
+# ***\*peer*** n
 英音 pɪə(r)     美音 pɪr  
 
 | 词频 4 |  
@@ -2368,7 +2368,7 @@ peacefully /'piːsfəli/ adv
 ### 1.**同龄人**  
 
 
-# ***<font color=#0099ff>\*pen</font>*** n
+# ***\*pen*** n
 英音 pen     美音 pen  
 
 | 词频 4 | 口语 2 |  
@@ -2380,7 +2380,7 @@ peacefully /'piːsfəli/ adv
 ### 1.*高义频：* **钢笔**  
 
 
-# ***<font color=#0099ff>\*penalty</font>*** n
+# ***\*penalty*** n
 英音 'penəlti     美音 'penəlti  
 
 | 词频 1 | 口语 1 |  
@@ -2392,7 +2392,7 @@ peacefully /'piːsfəli/ adv
 ### 1.*高义频：* **处罚；罚款；罚球**  
 
 
-# ***<font color=#0099ff>\*pence</font>*** n
+# ***\*pence*** n
 英音 pens     美音 pens  
 
 | 词频 3 |  
@@ -2404,7 +2404,7 @@ peacefully /'piːsfəli/ adv
 ### 1.*高义频：* **便士**  
 
 
-# ***<font color=#0099ff>\*pencil</font>*** n
+# ***\*pencil*** n
 英音 'pensl     美音 'pensl  
 
 | 词频 3 | 口语 2 |  
@@ -2416,7 +2416,7 @@ peacefully /'piːsfəli/ adv
 ### 1.*高义频：* **铅笔**  
 
 
-# ***<font color=#0099ff>\*penguin</font>*** n
+# ***\*penguin*** n
 英音 'peŋɡwɪn     美音 'peŋɡwɪn  
 
 | 词频 3 |  
@@ -2428,7 +2428,7 @@ peacefully /'piːsfəli/ adv
 ### 1.*高义频：* **企鹅**  
 
 
-# ***<font color=#0099ff>\*penicillin</font>*** n
+# ***\*penicillin*** n
 英音 ˌpenɪ'sɪlɪn     美音 ˌpenɪ'sɪlɪn  
 
 | 词频 1 |  
@@ -2438,7 +2438,7 @@ peacefully /'piːsfəli/ adv
 ### 1.**盘尼西林，青霉素**  
 
 
-# ***<font color=#0099ff>\*penniless</font>*** adj
+# ***\*penniless*** adj
 英音 'peniləs     美音 'peniləs  
 
 | 词频 1 |  
@@ -2448,7 +2448,7 @@ peacefully /'piːsfəli/ adv
 ### 1.*高义频：* **贫困的；身无分文的**  
 
 
-# ***<font color=#0099ff>\*penny</font>*** n
+# ***\*penny*** n
 英音 'peni     美音 'peni  
 
 | 词频 1 | 口语 3 |  
@@ -2464,7 +2464,7 @@ peacefully /'piːsfəli/ adv
 ---
 penniless /'peniləs/ adj   
 
-# ***<font color=#0099ff>\*pension</font>*** n
+# ***\*pension*** n
 英音 'penʃn     美音 'penʃn  
 
 | 词频 1 | 口语 2 | 书面 2 |  
@@ -2476,7 +2476,7 @@ penniless /'peniləs/ adj
 ### 1.*高义频：* **养老金；退休金**  
 
 
-# ***<font color=#0099ff>\*pensioner</font>*** n
+# ***\*pensioner*** n
 英音 'penʃənə(r)     美音 'penʃənər  
 
 | 词频 1 |  
@@ -2488,7 +2488,7 @@ penniless /'peniləs/ adj
 ### 1.*高义频：* **领取养老金者**  
 
 
-# ***<font color=#0099ff>\*people</font>*** n
+# ***\*people*** n
 英音 'piːpl     美音 'piːpl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2514,7 +2514,7 @@ penniless /'peniləs/ adj
  > 欧洲各民族    
 
 
-# ***<font color=#0099ff>\*pepper</font>*** n
+# ***\*pepper*** n
 英音 'pepə(r)     美音 'pepər  
 
 | 词频 1 | 口语 1 |  
@@ -2524,7 +2524,7 @@ penniless /'peniləs/ adj
 ### 1.*高义频：* **[C] 胡椒；[U] 胡椒粉**  
 
 
-# ***<font color=#0099ff>\*per</font>*** prep
+# ***\*per*** prep
 英音 pə(r)     美音 pər  
 
 | 词频 4 | 口语 1 | 书面 3 |  
@@ -2537,7 +2537,7 @@ penniless /'peniləs/ adj
  > 每小时70英里    
 
 
-# ***<font color=#0099ff>\*perceive</font>*** vt
+# ***\*perceive*** vt
 英音 pə'siːv     美音 pər'sːv  
 
 | 词频 1 | 书面 1 |  
@@ -2549,7 +2549,7 @@ penniless /'peniləs/ adj
 ### 1.*高义频：* **察觉；发觉；看待；理解**  
 
 
-# ***<font color=#0099ff>\*percent</font>*** n
+# ***\*percent*** n
 英音 pə'sent     美音 pə'sent  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -2572,7 +2572,7 @@ Notes: “percent of + 名词 / 代词”作主语，名词 / 代词为复数时
  > 这片陆地约30%覆盖着森林。    
 
 
-# ***<font color=#0099ff>\*percent</font>*** adj & adv
+# ***\*percent*** adj & adv
 英音 pə'sent     美音 pə'sent  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -2582,7 +2582,7 @@ Notes: “percent of + 名词 / 代词”作主语，名词 / 代词为复数时
 ### 1.**每一百中**  
 
 
-# ***<font color=#0099ff>\*percentage</font>*** n
+# ***\*percentage*** n
 英音 pə'sentɪdʒ     美音 pər'sentɪdʒ  
 
 | 词频 2 | 书面 1 | 阅读 2 |  
@@ -2600,7 +2600,7 @@ Notes: “percent of + 名词 / 代词”作主语，名词 / 代词为复数时
  > 真人秀吸引了大部分观众。    
 
 
-# ***<font color=#0099ff>\*percentage</font>*** adj & adv
+# ***\*percentage*** adj & adv
 英音 pə'sentɪdʒ     美音 pər'sentɪdʒ  
 
 | 词频 2 | 阅读 2 |  
@@ -2613,7 +2613,7 @@ Notes: “percent of + 名词 / 代词”作主语，名词 / 代词为复数时
  > 10%的房价涨幅    
 
 
-# ***<font color=#0099ff>\*percussion</font>*** n
+# ***\*percussion*** n
 英音 pə'kʌʃn     美音 pə'rkʌʃn  
 
 | 词频 1 |  
@@ -2623,7 +2623,7 @@ Notes: “percent of + 名词 / 代词”作主语，名词 / 代词为复数时
 ### 1.**打击乐器**  
 
 
-# ***<font color=#0099ff>\*perfect</font>*** adj
+# ***\*perfect*** adj
 英音 'pɜːfɪkt     美音 'pɜːrfɪkt  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2660,7 +2660,7 @@ Notes: “percent of + 名词 / 代词”作主语，名词 / 代词为复数时
 ---
 perfection /pə'fekʃn/ n [U]   
 
-# ***<font color=#0099ff>\*perfectly</font>*** adv
+# ***\*perfectly*** adv
 英音 'pɜːfɪktli     美音 'pɜːrfɪktli  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -2679,7 +2679,7 @@ perfection /pə'fekʃn/ n [U]
  > 完全明白。    
 
 
-# ***<font color=#0099ff>\*perform</font>*** v  重难点词汇
+# ***\*perform*** v  重难点词汇
 英音 pə'fɔːm     美音 pər'fɔːrm  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -2725,7 +2725,7 @@ perfection /pə'fekʃn/ n [U]
 答案：
 1. (being) performed  
 
-# ***<font color=#0099ff>\*performance</font>*** n
+# ***\*performance*** n
 英音 pə'fɔːməns     美音 pər'fɔːrməns  
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -2766,7 +2766,7 @@ perfection /pə'fekʃn/ n [U]
 答案：
 1. performance  
 
-# ***<font color=#0099ff>\*performance-enhancing</font>*** adj
+# ***\*performance-enhancing*** adj
 英音 pə'fɔːməns ɪn'hɑːns     美音 pər'fɔːrməns ɪn'hæns  
 
 | 词频 1 |  
@@ -2776,7 +2776,7 @@ perfection /pə'fekʃn/ n [U]
 ### 1.**增强表现的**  
 
 
-# ***<font color=#0099ff>\*performer</font>*** n
+# ***\*performer*** n
 英音 pə'fɔːmə(r)     美音 pər'fɔːrmər  
 
 | 词频 2 |  
@@ -2788,7 +2788,7 @@ perfection /pə'fekʃn/ n [U]
 ### 1.*高义频：* **表演者；执行者**  
 
 
-# ***<font color=#0099ff>\*perfume</font>*** n
+# ***\*perfume*** n
 英音 'pɜːfjuːm     美音 pər'fjuːm  
 
 | 词频 1 |  
@@ -2803,7 +2803,7 @@ perfection /pə'fekʃn/ n [U]
  > 她喷了太多香水。    
 
 
-# ***<font color=#0099ff>\*perhaps</font>*** adv
+# ***\*perhaps*** adv
 英音 pə'hæps, præps     美音 pər'hæps  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2816,7 +2816,7 @@ perfection /pə'fekʃn/ n [U]
  > 我可能会去参加今晚的聚会，但现在还不大确定。    
 
 
-# ***<font color=#0099ff>\*period</font>*** n
+# ***\*period*** n
 英音 'pɪəriəd     美音 'pɪriəd  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -2849,7 +2849,7 @@ perfection /pə'fekʃn/ n [U]
  > 自习课    
 
 
-# ***<font color=#0099ff>\*permanent</font>*** adj
+# ***\*permanent*** adj
 英音 'pɜːmənənt     美音 'pɜːrmənənt  
 
 | 词频 1 | 口语 2 | 书面 2 |  
@@ -2881,7 +2881,7 @@ D.beneficial
 答案：
 1. C  
 
-# ***<font color=#0099ff>\*permission</font>*** n
+# ***\*permission*** n
 英音 pə'mɪʃn     美音 pər'mɪʃn  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -2906,7 +2906,7 @@ D.beneficial
  > 当你疲倦的时候要让自己休息。  （2010 安徽）  
 
 
-# ***<font color=#0099ff>\*permit</font>*** v  重难点词汇
+# ***\*permit*** v  重难点词汇
 英音 pə'mɪt     美音 pər'mɪt  
 
 | 词频 4 | 书面 1 |  
@@ -2958,7 +2958,7 @@ Notes: permit和allow的用法相似，permit是正式用语；指天气、时�
 答案：
 1. permitted  2. permitting  3. to carry  
 
-# ***<font color=#0099ff>\*permit</font>*** n  重难点词汇
+# ***\*permit*** n  重难点词汇
 英音 'pɜːmɪt      美音 'pɜːmɪt   
 
 | 词频 4 | 书面 1 |  
@@ -2974,7 +2974,7 @@ Notes: permit和allow的用法相似，permit是正式用语；指天气、时�
  > 居住证 / 停车证    
 
 
-# ***<font color=#0099ff>\*perseverance</font>*** n
+# ***\*perseverance*** n
 英音 ˌpɜːsɪ'vɪərəns     美音 ˌpɜːrsə'vɪrəns  
 
   
@@ -2984,7 +2984,7 @@ Notes: permit和allow的用法相似，permit是正式用语；指天气、时�
 ### 1.**不屈不挠，坚持不懈**  
 
 
-# ***<font color=#0099ff>\*person</font>*** n
+# ***\*person*** n
 英音 'pɜːsn     美音 'pɜːrsn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3006,14 +3006,14 @@ Notes: permit和allow的用法相似，permit是正式用语；指天气、时�
 
 固定搭配
 ---
-## <font color=#0099ff>\*in person </font>
+## \*in person 
 1.**亲自；亲身 (personally)：**  
 
  > *Fill in the form and return it either in person or by post.*  
  > 2011 全国    
 
 
-# ***<font color=#0099ff>\*personal</font>*** adj
+# ***\*personal*** adj
 英音 'pɜːsənl     美音 'pɜːrsənl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3049,7 +3049,7 @@ Notes: permit和allow的用法相似，permit是正式用语；指天气、时�
 答案：
 1. personal  
 
-# ***<font color=#0099ff>\*personality</font>*** n
+# ***\*personality*** n
 英音 ˌpɜːsə'næləti     美音 ˌpɜːrsə'næləti  
 
 | 词频 4 | 阅读 3 |  
@@ -3065,7 +3065,7 @@ Notes: permit和allow的用法相似，permit是正式用语；指天气、时�
  > 她个性很强。    
 
 
-# ***<font color=#0099ff>\*personally</font>*** adv
+# ***\*personally*** adv
 英音 'pɜːsənəli     美音 'pɜːrsənəli  
 
 | 词频 3 | 口语 2 |  
@@ -3093,7 +3093,7 @@ Notes: permit和allow的用法相似，permit是正式用语；指天气、时�
 答案：
 1. personally  
 
-# ***<font color=#0099ff>\*personification</font>*** n
+# ***\*personification*** n
 英音 pəˌsɒnɪfɪ'keɪʃn     美音 pərˌsɑːnɪfɪ'keɪʃn  
 
 | 词频 1 |  
@@ -3103,7 +3103,7 @@ Notes: permit和allow的用法相似，permit是正式用语；指天气、时�
 ### 1.**拟人；人格化；化身**  
 
 
-# ***<font color=#0099ff>\*personnel</font>*** n
+# ***\*personnel*** n
 英音 ˌpɜːsə'nel     美音 ˌpɜːrsə'nel  
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 1 |  
@@ -3121,7 +3121,7 @@ Notes: permit和allow的用法相似，permit是正式用语；指天气、时�
  > 人事部    
 
 
-# ***<font color=#0099ff>\*perspective</font>*** n
+# ***\*perspective*** n
 英音 pə'spektɪv     美音 pər'spektɪv  
 
 | 词频 1 | 阅读 1 |  
@@ -3137,7 +3137,7 @@ Notes: permit和allow的用法相似，permit是正式用语；指天气、时�
  > 这部小说是以一个孩子的视角写的。    
 
 
-# ***<font color=#0099ff>\*persuade</font>*** vt  重难点词汇
+# ***\*persuade*** vt  重难点词汇
 英音 pə'sweɪd     美音 pər'sweɪd  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -3193,7 +3193,7 @@ persuasive /pə'sweɪsɪv/ adj
 答案：
 1. persuade  
 
-# ***<font color=#0099ff>\*persuasion</font>*** n
+# ***\*persuasion*** n
 英音 pə'sweɪʒn     美音 pər'sweɪʒn  
 
 | 词频 2 |  
@@ -3205,7 +3205,7 @@ persuasive /pə'sweɪsɪv/ adj
 ### 1.*高义频：* **信服；说服**  
 
 
-# ***<font color=#0099ff>\*pessimistic</font>*** adj
+# ***\*pessimistic*** adj
 英音 ˌpesɪ'mɪstɪk     美音 ˌpesɪ'mɪstɪk  
 
 | 词频 1 |  
@@ -3220,7 +3220,7 @@ persuasive /pə'sweɪsɪv/ adj
  > 医生们对他康复的可能性很不乐观。    
 
 
-# ***<font color=#0099ff>\*pest</font>*** n
+# ***\*pest*** n
 英音 pest     美音 pest  
 
 | 词频 1 |  
@@ -3232,7 +3232,7 @@ persuasive /pə'sweɪsɪv/ adj
 ### 1.*高义频：* **害虫；有害的动物**  
 
 
-# ***<font color=#0099ff>\*pet</font>*** n
+# ***\*pet*** n
 英音 pet     美音 pet  
 
 | 词频 5 |  
@@ -3244,7 +3244,7 @@ persuasive /pə'sweɪsɪv/ adj
 ### 1.*高义频：* **宠物**  
 
 
-# ***<font color=#0099ff>\*petrol</font>*** n
+# ***\*petrol*** n
 英音 'petrəl     美音 'petrəl  
 
 | 词频 3 |  
@@ -3256,7 +3256,7 @@ persuasive /pə'sweɪsɪv/ adj
 ### 1.*高义频：* **汽油 (AmE gas / gasoline)**  
 
 
-# ***<font color=#0099ff>\*phase</font>*** n
+# ***\*phase*** n
 英音 feɪz     美音 feɪz  
 
 | 词频 1 |  
@@ -3266,7 +3266,7 @@ persuasive /pə'sweɪsɪv/ adj
 ### 1.**[C] 阶段；时期**  
 
 
-# ***<font color=#0099ff>\*phenomenon</font>*** n
+# ***\*phenomenon*** n
 英音 fə'nɒmɪnən     美音 fə'nɑːmɪnən  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -3285,7 +3285,7 @@ persuasive /pə'sweɪsɪv/ adj
  > 音乐家中的奇才    
 
 
-# ***<font color=#0099ff>\*philosopher</font>*** n
+# ***\*philosopher*** n
 英音 fə'lɒsəfə(r)     美音 fə'lɑːsəfər  
 
 | 词频 2 | 阅读 2 |  
@@ -3297,7 +3297,7 @@ persuasive /pə'sweɪsɪv/ adj
 ### 1.*高义频：* **哲学家；思想家**  
 
 
-# ***<font color=#0099ff>\*philosophical</font>*** adj
+# ***\*philosophical*** adj
 英音 ˌfɪlə'sɒfɪkl     美音 ˌfɪlə'sɑːfɪkl  
 
 | 词频 1 |  
@@ -3307,7 +3307,7 @@ persuasive /pə'sweɪsɪv/ adj
 ### 1.**哲学的,达观的**  
 
 
-# ***<font color=#0099ff>\*philosophy</font>*** n
+# ***\*philosophy*** n
 英音 fə'lɒsəfi     美音 fə'lɑːsəfi  
 
 | 词频 3 | 书面 1 | 阅读 1 |  
@@ -3322,7 +3322,7 @@ persuasive /pə'sweɪsɪv/ adj
  > 他的人生哲学是学习、赚钱、贡献和娱乐。    
 
 
-# ***<font color=#0099ff>\*phoenix</font>*** n
+# ***\*phoenix*** n
 英音 'fiːnɪks     美音 'fiːnɪks  
 
 | 词频 1 |  
@@ -3332,7 +3332,7 @@ persuasive /pə'sweɪsɪv/ adj
 ### 1.**凤凰**  
 
 
-# ***<font color=#0099ff>\*phone</font>*** v
+# ***\*phone*** v
 英音 fəʊn     美音 foʊn  
 
 | 词频 5 | 口语 3 |  
@@ -3348,7 +3348,7 @@ persuasive /pə'sweɪsɪv/ adj
  > 他打电话请我出去吃饭。    
 
 
-# ***<font color=#0099ff>\*phone</font>*** n
+# ***\*phone*** n
 英音 fəʊn     美音 foʊn  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -3369,14 +3369,14 @@ persuasive /pə'sweɪsɪv/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*(be) on the phone</font>
+## \*(be) on the phone
 1.**在打电话：**  
 
  > *I couldn’t get through to Hannah. Her brother was talking on the phone all the time!*  
  > 我打不通汉纳的电话，她哥哥一直在打电话。  （2008 湖南改）  
 
 
-# ***<font color=#0099ff>\*phonetics</font>*** n
+# ***\*phonetics*** n
 英音 fə'netɪks     美音 fə'netɪks  
 
 | 词频 1 |  
@@ -3388,7 +3388,7 @@ persuasive /pə'sweɪsɪv/ adj
 ### 1.*高义频：* **语音学**  
 
 
-# ***<font color=#0099ff>\*photo</font>*** n
+# ***\*photo*** n
 英音 'fəʊtəʊ     美音 'foʊtoʊ  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -3407,7 +3407,7 @@ persuasive /pə'sweɪsɪv/ adj
  > 最后，我们照了张合影。  （2018 北京书面表达）  
 
 
-# ***<font color=#0099ff>\*photocopy</font>*** n
+# ***\*photocopy*** n
 英音 'fəʊtəʊkɒpi     美音 'foʊtoʊkɑːpi  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -3419,7 +3419,7 @@ persuasive /pə'sweɪsɪv/ adj
 ### 1.*高义频：* **影印本；复印件**  
 
 
-# ***<font color=#0099ff>\*photocopy</font>*** vt
+# ***\*photocopy*** vt
 英音 'fəʊtəʊkɒpi     美音 'foʊtoʊkɑːpi  
 
 | 词频 1 |  
@@ -3429,7 +3429,7 @@ persuasive /pə'sweɪsɪv/ adj
 ### 1.*高义频：* **影印；复印**  
 
 
-# ***<font color=#0099ff>\*photograph</font>*** n
+# ***\*photograph*** n
 英音 'fəʊtəɡrɑːf     美音 'foʊtəɡræf  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -3444,7 +3444,7 @@ persuasive /pə'sweɪsɪv/ adj
  > 放大/打印照片    
 
 
-# ***<font color=#0099ff>\*photograph</font>*** v
+# ***\*photograph*** v
 英音 'fəʊtəɡrɑːf     美音 'foʊtəɡræf  
 
 | 词频 4 |  
@@ -3461,7 +3461,7 @@ persuasive /pə'sweɪsɪv/ adj
  > 我妹妹总是很上相。    
 
 
-# ***<font color=#0099ff>\*photographer</font>*** n
+# ***\*photographer*** n
 英音 fə'tɒɡrəfə(r)     美音 fə'tɑːɡrəfər  
 
 | 词频 3 |  
@@ -3473,7 +3473,7 @@ persuasive /pə'sweɪsɪv/ adj
 ### 1.*高义频：* **摄影师；摄影者**  
 
 
-# ***<font color=#0099ff>\*photography</font>*** n
+# ***\*photography*** n
 英音 fə'tɒɡrəfi     美音 fə'tɑːɡrəfi  
 
 | 词频 3 |  
@@ -3485,7 +3485,7 @@ persuasive /pə'sweɪsɪv/ adj
 ### 1.*高义频：* **摄影；摄影术**  
 
 
-# ***<font color=#0099ff>\*phrase</font>*** n
+# ***\*phrase*** n
 英音 freɪz     美音 freɪz  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -3500,7 +3500,7 @@ persuasive /pə'sweɪsɪv/ adj
  > 固定短语    
 
 
-# ***<font color=#0099ff>\*physical</font>*** adj
+# ***\*physical*** adj
 英音 'fɪzɪkl     美音 'fɪzɪkl  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -3535,7 +3535,7 @@ persuasive /pə'sweɪsɪv/ adj
 ---
 physically /'fɪzɪkli/ adv   
 
-# ***<font color=#0099ff>\*physician</font>*** n
+# ***\*physician*** n
 英音 fɪ'zɪʃn     美音 fɪ'zɪʃn  
 
 | 词频 1 |  
@@ -3547,7 +3547,7 @@ physically /'fɪzɪkli/ adv
 ### 1.*高义频：* **[正式用语]医生；内科医生**  
 
 
-# ***<font color=#0099ff>\*physicist</font>*** n
+# ***\*physicist*** n
 英音 'fɪzɪsɪst     美音 'fɪzɪsɪst  
 
 | 词频 1 |  
@@ -3559,7 +3559,7 @@ physically /'fɪzɪkli/ adv
 ### 1.*高义频：* **物理学家**  
 
 
-# ***<font color=#0099ff>\*physics</font>*** n
+# ***\*physics*** n
 英音 'fɪzɪks     美音 'fɪzɪks  
 
 | 词频 3 | 口语 1 |  
@@ -3571,7 +3571,7 @@ physically /'fɪzɪkli/ adv
 ### 1.*高义频：* **物理学**  
 
 
-# ***<font color=#0099ff>\*pianist</font>*** n
+# ***\*pianist*** n
 英音 'pɪənɪst     美音 'pɪənɪst  
 
 | 词频 3 |  
@@ -3583,7 +3583,7 @@ physically /'fɪzɪkli/ adv
 ### 1.*高义频：* **钢琴家；钢琴演奏者**  
 
 
-# ***<font color=#0099ff>\*piano</font>*** n
+# ***\*piano*** n
 英音 pi'ænəʊ     美音 pi'ænoʊ  
 
 | 词频 4 | 口语 1 |  
@@ -3598,7 +3598,7 @@ physically /'fɪzɪkli/ adv
  > 弹钢琴    
 
 
-# ***<font color=#0099ff>\*pick</font>*** vt  重难点词汇
+# ***\*pick*** vt  重难点词汇
 英音 pɪk     美音 pɪk  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3640,10 +3640,10 @@ physically /'fɪzɪkli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*pick sb’s pocket</font>
+## \*pick sb’s pocket
 1.**扒窃；掏包**  
 
-## <font color=#0099ff>\*pick on </font>
+## \*pick on 
 1.**挑选；故意挑剔：**  
 
  > *Why do you pick on me to do the unpleasant jobs?*  
@@ -3652,7 +3652,7 @@ physically /'fɪzɪkli/ adv
  > *Why pick on my family? *  
  > 为什么拿我的家庭说事？  （2011 江西）  
 
-## <font color=#0099ff>\*pick out</font>
+## \*pick out
 1.*高义频：* **选出；拣出：**  
 
  > *Perhaps you can help me pick out a pair of jeans, since you are an expert.*  
@@ -3669,7 +3669,7 @@ physically /'fɪzɪkli/ adv
  > *There have been experiments where people could pick out a particular smell. *  
  > 有实验证明，人们可以辨认出某种特定的气味。  （2008 北京）  
 
-## <font color=#0099ff>\*pick up</font>
+## \*pick up
 1.*高义频：* **提起；拿起：**  
 
 - 拿起；拾起：
@@ -3753,7 +3753,7 @@ physically /'fɪzɪkli/ adv
 答案：
 1. up  2. up  3. out  
 
-# ***<font color=#0099ff>\*pickpocket</font>*** n
+# ***\*pickpocket*** n
 英音 'pɪkpɒkɪt     美音 'pɪkpɑːkɪt  
 
 | 词频 1 |  
@@ -3765,7 +3765,7 @@ physically /'fɪzɪkli/ adv
 ### 1.*高义频：* **扒手；小偷**  
 
 
-# ***<font color=#0099ff>\*picnic</font>*** n
+# ***\*picnic*** n
 英音 'pɪknɪk     美音 'pɪknɪk  
 
 | 词频 4 |  
@@ -3785,7 +3785,7 @@ physically /'fɪzɪkli/ adv
  > 举行野餐    
 
 
-# ***<font color=#0099ff>\*picture</font>*** n
+# ***\*picture*** n
 英音 'pɪktʃə(r)     美音 'pɪktʃər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3810,7 +3810,7 @@ physically /'fɪzɪkli/ adv
  > 电影院    
 
 
-# ***<font color=#0099ff>\*picture</font>*** vt
+# ***\*picture*** vt
 英音 'pɪktʃə(r)     美音 'pɪktʃər  
 
 | 词频 5 |  
@@ -3824,7 +3824,7 @@ physically /'fɪzɪkli/ adv
  > 我想象不出他滑雪的样子，他那么笨手笨脚。    
 
 
-# ***<font color=#0099ff>\*pie</font>*** n
+# ***\*pie*** n
 英音 paɪ     美音 paɪ  
 
 | 词频 1 | 口语 2 |  
@@ -3836,7 +3836,7 @@ physically /'fɪzɪkli/ adv
 ### 1.*高义频：* **(西点) 馅饼；馅饼状物**  
 
 
-# ***<font color=#0099ff>\*piece</font>*** n
+# ***\*piece*** n
 英音 piːs     美音 piːs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3859,7 +3859,7 @@ physically /'fɪzɪkli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*a piece of </font>
+## \*a piece of 
 1.**[与不可数名词连用] 一张 / 片 / 块等；一篇 / 首 / 幅等：**  
 
  > *a piece of good news *  
@@ -3868,11 +3868,11 @@ physically /'fɪzɪkli/ adv
  > *a piece of paper / furniture *  
  > 一张纸/一件家具    
 
-## <font color=#0099ff>\*a piece of cake</font>
+## \*a piece of cake
 1.**小菜一碟；轻而易举的事**  
 
 
-# ***<font color=#0099ff>\*pierce</font>*** v
+# ***\*pierce*** v
 英音 pɪəs     美音 pɪrs  
 
 | 词频 1 |  
@@ -3882,7 +3882,7 @@ physically /'fɪzɪkli/ adv
 ### 1.**（声音、光、痛苦等）被突然听到（看到、感觉到等）**  
 
 
-# ***<font color=#0099ff>\*pig</font>*** n
+# ***\*pig*** n
 英音 pɪɡ     美音 pɪɡ  
 
 | 词频 2 | 口语 2 |  
@@ -3894,7 +3894,7 @@ physically /'fɪzɪkli/ adv
 ### 1.*高义频：* **猪；(指贪吃等) 猪一般的人**  
 
 
-# ***<font color=#0099ff>\*pigeon</font>*** n
+# ***\*pigeon*** n
 英音 'pɪdʒɪn     美音 'pɪdʒɪn  
 
 | 词频 3 |  
@@ -3906,7 +3906,7 @@ physically /'fɪzɪkli/ adv
 ### 1.*高义频：* **鸽子**  
 
 
-# ***<font color=#0099ff>\*pile</font>*** n
+# ***\*pile*** n
 英音 paɪl     美音 paɪl  
 
 | 词频 4 | 口语 2 |  
@@ -3931,7 +3931,7 @@ physically /'fɪzɪkli/ adv
  > 我们收到了大量的读者来信。    
 
 
-# ***<font color=#0099ff>\*pile</font>*** vt
+# ***\*pile*** vt
 英音 paɪl     美音 paɪl  
 
 | 词频 4 |  
@@ -3950,14 +3950,14 @@ physically /'fɪzɪkli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*pile up </font>
+## \*pile up 
 1.**堆积：**  
 
  > *Work has piled up during his absence. *  
  > 在他离开期间，工作堆了一堆。    
 
 
-# ***<font color=#0099ff>\*pilgrim</font>*** n
+# ***\*pilgrim*** n
 英音 'pɪlɡrɪm     美音 'pɪlɡrɪm  
 
 | 词频 1 |  
@@ -3967,7 +3967,7 @@ physically /'fɪzɪkli/ adv
 ### 1.**朝圣者**  
 
 
-# ***<font color=#0099ff>\*pill</font>*** n
+# ***\*pill*** n
 英音 pɪl     美音 pɪl  
 
 | 词频 2 | 口语 1 |  
@@ -3982,7 +3982,7 @@ physically /'fɪzɪkli/ adv
  > 良药苦口利于病。    
 
 
-# ***<font color=#0099ff>\*pillar</font>*** n
+# ***\*pillar*** n
 英音 'pɪlə(r)     美音 'pɪlər  
 
 | 词频 1 |  
@@ -3992,7 +3992,7 @@ physically /'fɪzɪkli/ adv
 ### 1.**支柱**  
 
 
-# ***<font color=#0099ff>\*pillow</font>*** n
+# ***\*pillow*** n
 英音 'pɪləʊ     美音 'pɪloʊ  
 
 | 词频 2 |  
@@ -4011,7 +4011,7 @@ physically /'fɪzɪkli/ adv
 答案：
 1. pillows  
 
-# ***<font color=#0099ff>\*pilot</font>*** n
+# ***\*pilot*** n
 英音 'paɪlət     美音 'paɪlət  
 
 | 词频 4 | 书面 1 |  
@@ -4023,7 +4023,7 @@ physically /'fɪzɪkli/ adv
 ### 1.*高义频：* **飞行员；领航员：**  
 
 
-# ***<font color=#0099ff>\*pin</font>*** vt
+# ***\*pin*** vt
 英音 pɪn     美音 pɪn  
 
 | 词频 2 |  
@@ -4036,7 +4036,7 @@ physically /'fɪzɪkli/ adv
  > 把文件(用别针)别在一起    
 
 
-# ***<font color=#0099ff>\*pin</font>*** n
+# ***\*pin*** n
 英音 pɪn     美音 pɪn  
 
 | 词频 2 | 口语 1 |  
@@ -4048,7 +4048,7 @@ physically /'fɪzɪkli/ adv
 ### 1.*高义频：* **别针；大头针**  
 
 
-# ***<font color=#0099ff>\*pine</font>*** n
+# ***\*pine*** n
 英音 paɪn     美音 paɪn  
 
 | 词频 2 |  
@@ -4060,7 +4060,7 @@ physically /'fɪzɪkli/ adv
 ### 1.*高义频：* **松树；松木**  
 
 
-# ***<font color=#0099ff>\*pineapple</font>*** n
+# ***\*pineapple*** n
 英音 'paɪnæpl     美音 'paɪnæpl  
 
 | 词频 1 |  
@@ -4072,7 +4072,7 @@ physically /'fɪzɪkli/ adv
 ### 1.*高义频：* **凤梨；菠萝**  
 
 
-# ***<font color=#0099ff>\*ping-pong</font>*** n
+# ***\*ping-pong*** n
 英音 pɪŋ pɒŋ     美音 pɪŋ pɔːŋ  
 
 | 词频 1 |  
@@ -4087,7 +4087,7 @@ physically /'fɪzɪkli/ adv
  > 打乒乓球    
 
 
-# ***<font color=#0099ff>\*pink</font>*** adj
+# ***\*pink*** adj
 英音 pɪŋk     美音 pɪŋk  
 
 | 词频 2 | 口语 2 | 书面 1 |  
@@ -4104,7 +4104,7 @@ physically /'fɪzɪkli/ adv
 答案：
 1. pink  
 
-# ***<font color=#0099ff>\*pink</font>*** n
+# ***\*pink*** n
 英音 pɪŋk     美音 pɪŋk  
 
 | 词频 2 |  
@@ -4116,7 +4116,7 @@ physically /'fɪzɪkli/ adv
 ### 1.*高义频：* **粉红色**  
 
 
-# ***<font color=#0099ff>\*pint</font>*** n
+# ***\*pint*** n
 英音 paɪnt     美音 paɪnt  
 
 | 词频 1 | 口语 2 |  
@@ -4131,7 +4131,7 @@ physically /'fɪzɪkli/ adv
  > 一品脱啤酒    
 
 
-# ***<font color=#0099ff>\*pioneer</font>*** vt
+# ***\*pioneer*** vt
 英音 ˌpaɪə'nɪə(r)     美音 ˌpaɪə'nɪr  
 
 | 词频 2 |  
@@ -4144,7 +4144,7 @@ physically /'fɪzɪkli/ adv
  > 他们将开辟一条到达海岸的新航线。    
 
 
-# ***<font color=#0099ff>\*pioneer</font>*** n
+# ***\*pioneer*** n
 英音 ˌpaɪə'nɪə(r)     美音 ˌpaɪə'nɪr  
 
 | 词频 2 |  
@@ -4156,7 +4156,7 @@ physically /'fɪzɪkli/ adv
 ### 1.*高义频：* **开拓者；先驱者**  
 
 
-# ***<font color=#0099ff>\*pipe</font>*** n
+# ***\*pipe*** n
 英音 paɪp     美音 paɪp  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -4168,7 +4168,7 @@ physically /'fɪzɪkli/ adv
 ### 1.*高义频：* **管子；导管；烟斗**  
 
 
-# ***<font color=#0099ff>\*piracy</font>*** n
+# ***\*piracy*** n
 英音 'paɪrəsi     美音 'paɪrəsi  
 
 | 词频 1 |  
@@ -4178,7 +4178,7 @@ physically /'fɪzɪkli/ adv
 ### 1.**盗版；海上抢劫**  
 
 
-# ***<font color=#0099ff>\*pirate</font>*** n
+# ***\*pirate*** n
 英音 'paɪrət     美音 'paɪrət  
 
 | 词频 3 |  
@@ -4190,7 +4190,7 @@ physically /'fɪzɪkli/ adv
 ### 1.*高义频：* **海盗；盗版**  
 
 
-# ***<font color=#0099ff>\*pitch</font>*** n
+# ***\*pitch*** n
 英音 pɪtʃ     美音 pɪtʃ  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -4202,7 +4202,7 @@ physically /'fɪzɪkli/ adv
 ### 1.*高义频：* **投球；场地**  
 
 
-# ***<font color=#0099ff>\*pitter-patter</font>*** n
+# ***\*pitter-patter*** n
 英音 'pɪtəpætə(r)     美音 'pɪtəpætər  
 
 | 词频 1 |  
@@ -4212,7 +4212,7 @@ physically /'fɪzɪkli/ adv
 ### 1.**劈里啪啦的声音,劈劈啪啪的声音**  
 
 
-# ***<font color=#0099ff>\*pity</font>*** n
+# ***\*pity*** n
 英音 'pɪti     美音 'pɪti  
 
 | 词频 4 | 口语 1 |  
@@ -4252,7 +4252,7 @@ physically /'fɪzɪkli/ adv
 答案：
 1. pity 前加 a  2. pity 前加 a  
 
-# ***<font color=#0099ff>\*pity</font>*** vt
+# ***\*pity*** vt
 英音 'pɪti     美音 'pɪti  
 
 | 词频 4 |  
@@ -4265,7 +4265,7 @@ physically /'fɪzɪkli/ adv
  > 我们同情他，这可怜的家伙。    
 
 
-# ***<font color=#0099ff>\*pizza</font>*** n
+# ***\*pizza*** n
 英音 'piːtsə     美音 'piːtsə  
 
 | 词频 1 | 口语 2 |  
@@ -4277,7 +4277,7 @@ physically /'fɪzɪkli/ adv
 ### 1.*高义频：* **比萨饼**  
 
 
-# ***<font color=#0099ff>\*pizzeria</font>*** n
+# ***\*pizzeria*** n
 英音 ˌpiːtsə'riːə     美音 ˌpiːtsə'riːə  
 
   
@@ -4287,7 +4287,7 @@ physically /'fɪzɪkli/ adv
 ### 1.**比萨饼餐厅**  
 
 
-# ***<font color=#0099ff>\*place</font>*** n
+# ***\*place*** n
 英音 pleɪs     美音 pleɪs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4331,7 +4331,7 @@ physically /'fɪzɪkli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*in place </font>
+## \*in place 
 1.**在适当的位置；适当的；准备妥当：**  
 
  > *The ropes hold you in place so that you don’t fall. *  
@@ -4343,7 +4343,7 @@ physically /'fɪzɪkli/ adv
  > *The service could be in place by the end of the year.*  
  > 这项服务将于年底准备就绪。    
 
-## <font color=#0099ff>\*in place of </font>
+## \*in place of 
 1.**代替；取代 (in sb’s / sth’s place)：**  
 
  > *You can use yoghurt in place of cream to make this salad. *  
@@ -4352,7 +4352,7 @@ physically /'fɪzɪkli/ adv
  > *If I refused to go, they would send someone else in my place. *  
  > 如果我不去，他们会派其他人代替我的。    
 
-## <font color=#0099ff>\*out of place </font>
+## \*out of place 
 1.**不在合适的位置上；不合适的；不相称的：**  
 
  > *Some of these files seem to be out of place. *  
@@ -4361,7 +4361,7 @@ physically /'fɪzɪkli/ adv
  > *I felt completely out of place among all these successful people. *  
  > 夹在这些成功人士中间，我觉得自己格格不入。    
 
-## <font color=#0099ff>\*take place </font>
+## \*take place 
 1.**发生；举行：**  
 
  > *Great changes have taken place in the way people communicate in recent years.*  
@@ -4370,7 +4370,7 @@ physically /'fɪzɪkli/ adv
 #### 辨析 happen, take place
 二者都可指“发生”。  
 
-## <font color=#0099ff>\*take the place of </font>
+## \*take the place of 
 1.**代替 (take sb’s / sth’s place):**  
 
  > *Computers have taken the place of typewriters in offices.*  
@@ -4380,7 +4380,7 @@ physically /'fɪzɪkli/ adv
  > 她不能出席会议，所以她的助手代替了她。    
 
 
-# ***<font color=#0099ff>\*place</font>*** vt
+# ***\*place*** vt
 英音 pleɪs     美音 pleɪs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4411,7 +4411,7 @@ physically /'fɪzɪkli/ adv
 答案：
 1. out of place  
 
-# ***<font color=#0099ff>\*plain</font>*** n
+# ***\*plain*** n
 英音 pleɪn     美音 pleɪn  
 
 | 词频 3 | 阅读 3 |  
@@ -4427,7 +4427,7 @@ physically /'fɪzɪkli/ adv
 ---
 plainly /'pleɪnli/ adv   
 
-# ***<font color=#0099ff>\*plain</font>*** adj
+# ***\*plain*** adj
 英音 pleɪn     美音 pleɪn  
 
 | 词频 3 | 口语 2 | 书面 1 | 阅读 3 |  
@@ -4469,7 +4469,7 @@ plainly /'pleɪnli/ adv
  > 我们坦白对你说吧。    
 
 
-# ***<font color=#0099ff>\*plain</font>*** adv
+# ***\*plain*** adv
 英音 pleɪn     美音 pleɪn  
 
 | 词频 3 | 阅读 3 |  
@@ -4484,7 +4484,7 @@ plainly /'pleɪnli/ adv
  > 愚蠢至极/绝对错误    
 
 
-# ***<font color=#0099ff>\*plan</font>*** v
+# ***\*plan*** v
 英音 plæn     美音 plæn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4521,7 +4521,7 @@ plainly /'pleɪnli/ adv
  > 构思文章/设计花园    
 
 
-# ***<font color=#0099ff>\*plan</font>*** n
+# ***\*plan*** n
 英音 plæn     美音 plæn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4547,7 +4547,7 @@ plainly /'pleɪnli/ adv
  > 目前没有建新办公楼的计划。    
 
 
-# ***<font color=#0099ff>\*plane</font>*** n
+# ***\*plane*** n
 英音 pleɪn     美音 pleɪn  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -4559,7 +4559,7 @@ plainly /'pleɪnli/ adv
 ### 1.*高义频：* **飞机 (BrE aeroplane)**  
 
 
-# ***<font color=#0099ff>\*planet</font>*** n
+# ***\*planet*** n
 英音 'plænɪt     美音 'plænɪt  
 
 | 词频 4 | 书面 1 |  
@@ -4574,7 +4574,7 @@ plainly /'pleɪnli/ adv
  > 在我们的太阳系里，八大行星环绕着太阳运转。  （人教③ – 4）  
 
 
-# ***<font color=#0099ff>\*plank</font>*** n
+# ***\*plank*** n
 英音 plæŋk     美音 plæŋk  
 
   
@@ -4584,7 +4584,7 @@ plainly /'pleɪnli/ adv
 ### 1.**平板支撑**  
 
 
-# ***<font color=#0099ff>\*planning</font>*** n
+# ***\*planning*** n
 英音 'plænɪŋ     美音 'plænɪŋ  
 
 | 词频 5 |  
@@ -4594,7 +4594,7 @@ plainly /'pleɪnli/ adv
 ### 1.**规划；制订计划**  
 
 
-# ***<font color=#0099ff>\*plant</font>*** n
+# ***\*plant*** n
 英音 plɑːnt     美音 plænt  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -4614,7 +4614,7 @@ plainly /'pleɪnli/ adv
  > 钢厂/发电厂    
 
 
-# ***<font color=#0099ff>\*plant</font>*** vt
+# ***\*plant*** vt
 英音 plɑːnt     美音 plænt  
 
 | 词频 5 |  
@@ -4631,7 +4631,7 @@ plainly /'pleɪnli/ adv
  > 一位女士从后面走过来站在我的前面，正好挡住我的视线。  （2017 天津改）  
 
 
-# ***<font color=#0099ff>\*plantation</font>*** n
+# ***\*plantation*** n
 英音 plɑːn'teɪʃn     美音 plæn'teɪʃn  
 
 | 词频 1 |  
@@ -4641,7 +4641,7 @@ plainly /'pleɪnli/ adv
 ### 1.**农庄；庄园**  
 
 
-# ***<font color=#0099ff>\*plaster</font>*** n
+# ***\*plaster*** n
 英音 'plɑːstə(r)     美音 'plæstər  
 
   
@@ -4651,7 +4651,7 @@ plainly /'pleɪnli/ adv
 ### 1.**创可贴**  
 
 
-# ***<font color=#0099ff>\*plastic</font>*** n
+# ***\*plastic*** n
 英音 'plæstɪk     美音 'plæstɪk  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -4666,7 +4666,7 @@ plainly /'pleɪnli/ adv
  > 那是一种塑料，外观制作得像铁一样。    
 
 
-# ***<font color=#0099ff>\*plastic</font>*** adj
+# ***\*plastic*** adj
 英音 'plæstɪk     美音 'plæstɪk  
 
 | 词频 4 |  
@@ -4689,7 +4689,7 @@ plainly /'pleɪnli/ adv
 答案：
 1. plastic  
 
-# ***<font color=#0099ff>\*plate</font>*** n
+# ***\*plate*** n
 英音 pleɪt     美音 pleɪt  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -4722,7 +4722,7 @@ plainly /'pleɪnli/ adv
  > 汽车牌照    
 
 
-# ***<font color=#0099ff>\*plateau</font>*** n
+# ***\*plateau*** n
 英音 'plætəʊ     美音 plæ'toʊ  
 
 | 词频 1 |  
@@ -4734,7 +4734,7 @@ plainly /'pleɪnli/ adv
 ### 1.*高义频：* **高原**  
 
 
-# ***<font color=#0099ff>\*platform</font>*** n
+# ***\*platform*** n
 英音 'plætfɔːm     美音 'plætfɔːrm  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -4758,7 +4758,7 @@ plainly /'pleɪnli/ adv
  > 电子商务平台    
 
 
-# ***<font color=#0099ff>\*play</font>*** v
+# ***\*play*** v
 英音 pleɪ     美音 pleɪ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4814,14 +4814,14 @@ plainly /'pleɪnli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*play with</font>
+## \*play with
 1.**玩弄：**  
 
  > *Stop playing with your food!*  
  > 别老是摆弄食物！    
 
 
-# ***<font color=#0099ff>\*play</font>*** n
+# ***\*play*** n
 英音 pleɪ     美音 pleɪ  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -4851,7 +4851,7 @@ plainly /'pleɪnli/ adv
 ---
 playful /playful/ adj   
 
-# ***<font color=#0099ff>\*player</font>*** n
+# ***\*player*** n
 英音 'pleɪə(r)     美音 'pleɪər  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -4877,7 +4877,7 @@ playful /playful/ adj
 答案：
 1. player--players  
 
-# ***<font color=#0099ff>\*playground</font>*** n
+# ***\*playground*** n
 英音 'pleɪɡraʊnd     美音 'pleɪɡraʊnd  
 
 | 词频 3 |  
@@ -4889,7 +4889,7 @@ playful /playful/ adj
 ### 1.*高义频：* **操场；运动场；游乐场**  
 
 
-# ***<font color=#0099ff>\*playmate</font>*** n
+# ***\*playmate*** n
 英音 'pleɪmeɪt     美音 'pleɪmeɪt  
 
 | 词频 2 |  
@@ -4901,7 +4901,7 @@ playful /playful/ adj
 ### 1.*高义频：* **玩伴；游伴**  
 
 
-# ***<font color=#0099ff>\*pleasant</font>*** adj
+# ***\*pleasant*** adj
 英音 'pleznt     美音 'pleznt  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -4925,7 +4925,7 @@ playful /playful/ adj
 ---
 pleasantly /'plezntli/ adv   
 
-# ***<font color=#0099ff>\*please</font>*** v
+# ***\*please*** v
 英音 pliːz     美音 pliːz  
 
 | 词频 5 | 书面 1 |  
@@ -4956,7 +4956,7 @@ pleasing /'pliːzɪŋ/ adj
  > 悦目的设计    
 
 
-# ***<font color=#0099ff>\*please</font>*** int
+# ***\*please*** int
 英音 pliːz     美音 pliːz  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -4977,7 +4977,7 @@ pleasing /'pliːzɪŋ/ adj
  > 好的，谢谢。  （2013 四川）  
 
 
-# ***<font color=#0099ff>\*pleased</font>*** adj
+# ***\*pleased*** adj
 英音 pliːzd     美音 pliːzd  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -5004,7 +5004,7 @@ pleasing /'pliːzɪŋ/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*(be) pleased with oneself </font>
+## \*(be) pleased with oneself 
 1.**自鸣得意**  
 
 
@@ -5016,7 +5016,7 @@ pleasing /'pliːzɪŋ/ adj
 答案：
 1. pleased  
 
-# ***<font color=#0099ff>\*pleasure</font>*** n
+# ***\*pleasure*** n
 英音 'pleʒə(r)     美音 'pleʒər  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -5044,13 +5044,13 @@ pleasing /'pliːzɪŋ/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*for pleasure </font>
+## \*for pleasure 
 1.**作为消遣：**  
 
  > *We read mainly for information, not for pleasure. *  
  > 我们读书主要是为了获取信息，并非为了消遣。    
 
-## <font color=#0099ff>\*it’s a pleasure / (it’s) my pleasure</font>
+## \*it’s a pleasure / (it’s) my pleasure
 1.**[用于对别人感谢的回答] 别客气；没什么：**  
 
  > *— Thank you for coming to help us. *  
@@ -5059,7 +5059,7 @@ pleasing /'pliːzɪŋ/ adj
  > *— It’s a pleasure. / My pleasure.*  
  > 别客气。    
 
-## <font color=#0099ff>\*with pleasure </font>
+## \*with pleasure 
 1.**高兴地；[用于应答] 非常乐意：**  
 
  > *Invited into a friend’s home, you should accept with pleasure.*  
@@ -5080,7 +5080,7 @@ pleasing /'pliːzɪŋ/ adj
 答案：
 1. With pleasure  
 
-# ***<font color=#0099ff>\*plenty</font>*** pron
+# ***\*plenty*** pron
 英音 'plenti     美音 'plenti  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -5098,7 +5098,7 @@ pleasing /'pliːzɪŋ/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*plenty of </font>
+## \*plenty of 
 1.**相当多的；充足的：**  
 
  > *There are plenty of books on the shelf. *  
@@ -5120,7 +5120,7 @@ plentiful /'plentɪfl/ adj
 答案：
 1. of  
 
-# ***<font color=#0099ff>\*plot</font>*** n
+# ***\*plot*** n
 英音 plɒt     美音 plɑːt  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -5143,7 +5143,7 @@ plentiful /'plentɪfl/ adj
  > 我认为这情节听起来很刺激。  （译林⑧ – 1）  
 
 
-# ***<font color=#0099ff>\*plot</font>*** v
+# ***\*plot*** v
 英音 plɒt     美音 plɑːt  
 
 | 词频 2 | 阅读 1 |  
@@ -5156,7 +5156,7 @@ plentiful /'plentɪfl/ adj
  > 对我来说，创作最难的部分就是设计故事情节。    
 
 
-# ***<font color=#0099ff>\*plough</font>*** n
+# ***\*plough*** n
 英音 plaʊ     美音 plaʊ  
 
 | 词频 2 |  
@@ -5168,7 +5168,7 @@ plentiful /'plentɪfl/ adj
 ### 1.*高义频：* **犁；犁状工具：**  
 
 
-# ***<font color=#0099ff>\*plough</font>*** v
+# ***\*plough*** v
 英音 plaʊ     美音 plaʊ  
 
 | 词频 2 |  
@@ -5183,7 +5183,7 @@ plentiful /'plentɪfl/ adj
  > 犁地    
 
 
-# ***<font color=#0099ff>\*plug</font>*** n
+# ***\*plug*** n
 英音 plʌɡ     美音 plʌɡ  
 
 | 词频 2 | 口语 1 |  
@@ -5201,7 +5201,7 @@ plentiful /'plentɪfl/ adj
  > 三相插头    
 
 
-# ***<font color=#0099ff>\*plug</font>*** vt
+# ***\*plug*** vt
 英音 plʌɡ     美音 plʌɡ  
 
 | 词频 2 |  
@@ -5217,11 +5217,11 @@ plentiful /'plentɪfl/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*plug in</font>
+## \*plug in
 1.**(使) 插上插头以接通电源**  
 
 
-# ***<font color=#0099ff>\*plural</font>*** n
+# ***\*plural*** n
 英音 'plʊərəl     美音 'plʊrəl  
 
 | 词频 1 |  
@@ -5233,7 +5233,7 @@ plentiful /'plentɪfl/ adj
 ### 1.*高义频：* **复数**  
 
 
-# ***<font color=#0099ff>\*plural</font>*** adj
+# ***\*plural*** adj
 英音 'plʊərəl     美音 'plʊrəl  
 
 | 词频 1 |  
@@ -5243,7 +5243,7 @@ plentiful /'plentɪfl/ adj
 ### 1.*高义频：* **复数的**  
 
 
-# ***<font color=#0099ff>\*plus</font>*** adj
+# ***\*plus*** adj
 英音 plʌs     美音 plʌs  
 
 | 词频 3 |  
@@ -5259,7 +5259,7 @@ plentiful /'plentɪfl/ adj
  > 零上5摄氏度/正3    
 
 
-# ***<font color=#0099ff>\*plus</font>*** prep
+# ***\*plus*** prep
 英音 plʌs     美音 plʌs  
 
 | 词频 3 | 口语 3 | 书面 2 |  
@@ -5275,7 +5275,7 @@ plentiful /'plentɪfl/ adj
  > 他名利双收。    
 
 
-# ***<font color=#0099ff>\*plus</font>*** n
+# ***\*plus*** n
 英音 plʌs     美音 plʌs  
 
 | 词频 3 | 口语 3 | 书面 2 |  
@@ -5295,7 +5295,7 @@ plentiful /'plentɪfl/ adj
  > 她懂法语对她的工作大有好处。    
 
 
-# ***<font color=#0099ff>\*plus</font>*** conj
+# ***\*plus*** conj
 英音 plʌs     美音 plʌs  
 
 | 词频 3 | 口语 3 | 书面 2 |  
@@ -5310,7 +5310,7 @@ plentiful /'plentɪfl/ adj
  > 手机小巧、实用，另外也比以前便宜了。  （北师大④ – 10）  
 
 
-# ***<font color=#0099ff>\*pneumonia</font>*** n
+# ***\*pneumonia*** n
 英音 njuː'məʊniə     美音 nuː'moʊniə  
 
 | 词频 1 |  
@@ -5320,7 +5320,7 @@ plentiful /'plentɪfl/ adj
 ### 1.**肺炎**  
 
 
-# ***<font color=#0099ff>\*poacher</font>*** n
+# ***\*poacher*** n
 英音 'pəʊtʃə(r)     美音 'poʊtʃər  
 
 | 词频 1 |  
@@ -5330,7 +5330,7 @@ plentiful /'plentɪfl/ adj
 ### 1.**盗猎者；偷猎者**  
 
 
-# ***<font color=#0099ff>\*pocket</font>*** n
+# ***\*pocket*** n
 英音 'pɒkɪt     美音 'pɑːkɪt  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -5360,7 +5360,7 @@ plentiful /'plentɪfl/ adj
  > 这家机构资金雄厚。    
 
 
-# ***<font color=#0099ff>\*pocket</font>*** vt
+# ***\*pocket*** vt
 英音 'pɒkɪt     美音 'pɑːkɪt  
 
 | 词频 4 |  
@@ -5373,7 +5373,7 @@ plentiful /'plentɪfl/ adj
  > 麦琪锁好门，把钥匙放进口袋里。    
 
 
-# ***<font color=#0099ff>\*poem</font>*** n
+# ***\*poem*** n
 英音 'pəʊɪm     美音 'poʊəm  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -5385,7 +5385,7 @@ plentiful /'plentɪfl/ adj
 ### 1.*高义频：* **诗；韵文**  
 
 
-# ***<font color=#0099ff>\*poet</font>*** n
+# ***\*poet*** n
 英音 'pəʊɪt     美音 'poʊət  
 
 | 词频 3 | 书面 1 |  
@@ -5397,7 +5397,7 @@ plentiful /'plentɪfl/ adj
 ### 1.*高义频：* **诗人**  
 
 
-# ***<font color=#0099ff>\*poetic</font>*** adj
+# ***\*poetic*** adj
 英音 pəʊ'etɪk     美音 poʊ'etɪk  
 
 | 词频 2 |  
@@ -5407,7 +5407,7 @@ plentiful /'plentɪfl/ adj
 ### 1.**有诗意的；诗的**  
 
 
-# ***<font color=#0099ff>\*poetry</font>*** n
+# ***\*poetry*** n
 英音 'pəʊətri     美音 'poʊətri  
 
 | 词频 3 | 书面 1 |  
@@ -5419,7 +5419,7 @@ plentiful /'plentɪfl/ adj
 ### 1.*高义频：* **诗歌**  
 
 
-# ***<font color=#0099ff>\*point</font>*** v  重难点词汇
+# ***\*point*** v  重难点词汇
 英音 pɔɪnt     美音 pɔɪnt  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -5458,7 +5458,7 @@ plentiful /'plentɪfl/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*point out</font>
+## \*point out
 1.**把…指出来 (给看)；指出；指明：**  
 
  > **pointed out to**  
@@ -5470,7 +5470,7 @@ plentiful /'plentɪfl/ adj
  > 他指出这条路冬天不安全。    
 
 
-# ***<font color=#0099ff>\*point</font>*** n  重难点词汇
+# ***\*point*** n  重难点词汇
 英音 pɔɪnt     美音 pɔɪnt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5547,19 +5547,19 @@ plentiful /'plentɪfl/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*make a point of doing sth</font>
+## \*make a point of doing sth
 1.**(即使费力也) 特意做某事：**  
 
  > *He made a point of spending Saturdays with his children. *  
  > 星期六他必定要和孩子们在一起。    
 
-## <font color=#0099ff>\*on the point of </font>
+## \*on the point of 
 1.**正要…的时候：**  
 
  > *She was on the point of going out when the telephone rang. *  
  > 她正要出去，电话铃响了。    
 
-## <font color=#0099ff>\*to the point </font>
+## \*to the point 
 1.**中肯的；切题的：**  
 
  > *Your advice is very much to the point.*  
@@ -5578,7 +5578,7 @@ plentiful /'plentɪfl/ adj
 答案：
 1. of  2. to   
 
-# ***<font color=#0099ff>\*poison</font>*** n
+# ***\*poison*** n
 英音 'pɔɪzn     美音 'pɔɪzn  
 
 | 词频 3 |  
@@ -5593,7 +5593,7 @@ plentiful /'plentɪfl/ adj
  > 一个人的食物对于另一个人来说可能是毒药。/ 萝卜白菜，各有所爱。  （外研⑧ – 3）  
 
 
-# ***<font color=#0099ff>\*poison</font>*** vt
+# ***\*poison*** vt
 英音 'pɔɪzn     美音 'pɔɪzn  
 
 | 词频 3 |  
@@ -5606,7 +5606,7 @@ plentiful /'plentɪfl/ adj
  > 细菌和其他微生物可能会污染鸡蛋、肉、蔬菜和许多其他食物。  （2010 广东）  
 
 
-# ***<font color=#0099ff>\*poisonous</font>*** adj
+# ***\*poisonous*** adj
 英音 'pɔɪzənəs     美音 'pɔɪzənəs  
 
 | 词频 2 |  
@@ -5624,7 +5624,7 @@ plentiful /'plentɪfl/ adj
  > 毒害某人的思想    
 
 
-# ***<font color=#0099ff>\*polar</font>*** adj
+# ***\*polar*** adj
 英音 'pəʊlə(r)     美音 'poʊlər  
 
 | 词频 2 | 阅读 1 |  
@@ -5637,7 +5637,7 @@ plentiful /'plentɪfl/ adj
  > 北极熊    
 
 
-# ***<font color=#0099ff>\*pole</font>*** n
+# ***\*pole*** n
 英音 pəʊl     美音 poʊl  
 
 | 词频 4 | 书面 1 |  
@@ -5658,7 +5658,7 @@ plentiful /'plentɪfl/ adj
  > 北 / 南极    
 
 
-# ***<font color=#0099ff>\*police</font>*** n
+# ***\*police*** n
 英音 pə'liːs     美音 pə'liːs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5673,7 +5673,7 @@ plentiful /'plentɪfl/ adj
  > 警方已抓获杀人犯。    
 
 
-# ***<font color=#0099ff>\*police</font>*** vt
+# ***\*police*** vt
 英音 pə'liːs     美音 pə'liːs  
 
 | 词频 5 |  
@@ -5683,7 +5683,7 @@ plentiful /'plentɪfl/ adj
 ### 1.**监督；管制 (monitor)**  
 
 
-# ***<font color=#0099ff>\*policeman</font>*** n
+# ***\*policeman*** n
 英音 pə'liːsmən     美音 pə'liːsmən  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -5695,7 +5695,7 @@ plentiful /'plentɪfl/ adj
 ### 1.*高义频：* **男警察**  
 
 
-# ***<font color=#0099ff>\*policewoman</font>*** n
+# ***\*policewoman*** n
 英音 pə'liːswʊmən     美音 pə'liːswʊmən  
 
 | 词频 1 |  
@@ -5707,7 +5707,7 @@ plentiful /'plentɪfl/ adj
 ### 1.*高义频：* **女警察**  
 
 
-# ***<font color=#0099ff>\*policy</font>*** n
+# ***\*policy*** n
 英音 'pɒləsi     美音 'pɑːləsi  
 
 | 词频 4 | 口语 1 | 书面 3 | 阅读 3 |  
@@ -5725,7 +5725,7 @@ plentiful /'plentɪfl/ adj
 ### 2.*低义频：* **保险单**  
 
 
-# ***<font color=#0099ff>\*polish</font>*** vt
+# ***\*polish*** vt
 英音 'pɒlɪʃ     美音 'pɑːlɪʃ  
 
 | 词频 2 | 阅读 1 |  
@@ -5754,7 +5754,7 @@ D.folded
 答案：
 1. C  
 
-# ***<font color=#0099ff>\*polished</font>*** adj
+# ***\*polished*** adj
 英音 'pɒlɪʃt     美音 'pɑːlɪʃt  
 
 | 词频 1 |  
@@ -5764,7 +5764,7 @@ D.folded
 ### 1.**优雅的, 精致的**  
 
 
-# ***<font color=#0099ff>\*polite</font>*** adj
+# ***\*polite*** adj
 英音 pə'laɪt     美音 pə'laɪt  
 
 | 词频 4 | 口语 1 |  
@@ -5797,7 +5797,7 @@ politeness /pə'laɪtnəs/ n [U]
 答案：
 1. politely  
 
-# ***<font color=#0099ff>\*political</font>*** adj
+# ***\*political*** adj
 英音 pə'lɪtɪkl     美音 pə'lɪtɪkl  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -5810,7 +5810,7 @@ politeness /pə'laɪtnəs/ n [U]
  > 政党 / 政治领袖    
 
 
-# ***<font color=#0099ff>\*politician</font>*** n
+# ***\*politician*** n
 英音 ˌpɒlə'tɪʃn     美音 ˌpɑːlə'tɪʃn  
 
 | 词频 1 | 书面 2 |  
@@ -5822,7 +5822,7 @@ politeness /pə'laɪtnəs/ n [U]
 ### 1.*高义频：* **政治家；政客**  
 
 
-# ***<font color=#0099ff>\*politics</font>*** n
+# ***\*politics*** n
 英音 'pɒlətɪks     美音 'pɑːlətɪks  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -5845,7 +5845,7 @@ politeness /pə'laɪtnəs/ n [U]
 
 Notes: politics单复数同形，指政治学、政治制度时视为单数，指政治见解时常用作复数。  
 
-# ***<font color=#0099ff>\*pollute</font>*** vt
+# ***\*pollute*** vt
 英音 pə'luːt     美音 pə'luːt  
 
 | 词频 3 |  
@@ -5865,7 +5865,7 @@ Notes: politics单复数同形，指政治学、政治制度时视为单数，�
  > 这条河已被各种工业废料污染了。    
 
 
-# ***<font color=#0099ff>\*polluted</font>*** adj
+# ***\*polluted*** adj
 英音 pə'luːtɪd     美音 pə'luːtɪd  
 
 | 词频 3 |  
@@ -5875,7 +5875,7 @@ Notes: politics单复数同形，指政治学、政治制度时视为单数，�
 ### 1.**受到污染的**  
 
 
-# ***<font color=#0099ff>\*pollution</font>*** n
+# ***\*pollution*** n
 英音 pə'luːʃn     美音 pə'luːʃn  
 
 | 词频 4 | 书面 2 |  
@@ -5902,7 +5902,7 @@ Notes: politics单复数同形，指政治学、政治制度时视为单数，�
 答案：
 1. pollution  
 
-# ***<font color=#0099ff>\*polyphony</font>*** n
+# ***\*polyphony*** n
 英音 pə'lɪfəni     美音 pə'lɪfəni  
 
 | 词频 1 |  
@@ -5912,7 +5912,7 @@ Notes: politics单复数同形，指政治学、政治制度时视为单数，�
 ### 1.**复调音乐（作品）**  
 
 
-# ***<font color=#0099ff>\*pompom</font>*** n
+# ***\*pompom*** n
 英音 'pɒmpɒm     美音 'pɑːmpɑːm  
 
 | 词频 1 |  
@@ -5922,7 +5922,7 @@ Notes: politics单复数同形，指政治学、政治制度时视为单数，�
 ### 1.**（拉拉队队员用的）彩色塑料线球，绒球**  
 
 
-# ***<font color=#0099ff>\*pond</font>*** n
+# ***\*pond*** n
 英音 pɒnd     美音 pɑːnd  
 
 | 词频 3 | 口语 1 |  
@@ -5934,7 +5934,7 @@ Notes: politics单复数同形，指政治学、政治制度时视为单数，�
 ### 1.*高义频：* **池塘**  
 
 
-# ***<font color=#0099ff>\*pool</font>*** n
+# ***\*pool*** n
 英音 puːl     美音 puːl  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -5946,7 +5946,7 @@ Notes: politics单复数同形，指政治学、政治制度时视为单数，�
 ### 1.*高义频：* **水池；水塘；游泳池**  
 
 
-# ***<font color=#0099ff>\*poor</font>*** adj
+# ***\*poor*** adj
 英音 pɔː(r); pʊə     美音 pɔːr  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5993,7 +5993,7 @@ poorly /'pɔːli; 'pʊəli/ adv
 答案：
 1. poorly  
 
-# ***<font color=#0099ff>\*pop</font>*** adj
+# ***\*pop*** adj
 英音 pɒp     美音 pɑːp  
 
 | 词频 3 |  
@@ -6006,7 +6006,7 @@ poorly /'pɔːli; 'pʊəli/ adv
  > 流行音乐    
 
 
-# ***<font color=#0099ff>\*pop</font>*** n
+# ***\*pop*** n
 英音 pɒp     美音 pɑːp  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -6018,7 +6018,7 @@ poorly /'pɔːli; 'pʊəli/ adv
 ### 1.*高义频：* **流行音乐；流行歌曲；流行 (歌曲等) 唱片**  
 
 
-# ***<font color=#0099ff>\*pop</font>*** v
+# ***\*pop*** v
 英音 pɒp     美音 pɑːp  
 
 | 词频 3 |  
@@ -6034,11 +6034,11 @@ poorly /'pɔːli; 'pʊəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*pop up</font>
+## \*pop up
 1.**突然出现；冒出来**  
 
 
-# ***<font color=#0099ff>\*popcorn</font>*** n
+# ***\*popcorn*** n
 英音 'pɒpkɔːn     美音 'pɑːpkɔːrn  
 
 | 词频 1 |  
@@ -6050,7 +6050,7 @@ poorly /'pɔːli; 'pʊəli/ adv
 ### 1.*高义频：* **爆玉米花**  
 
 
-# ***<font color=#0099ff>\*popular</font>*** adj  重难点词汇
+# ***\*popular*** adj  重难点词汇
 英音 'pɒpjələ(r)     美音 'pɑːpjələr  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -6064,7 +6064,7 @@ poorly /'pɔːli; 'pʊəli/ adv
  > *Online voting becomes increasingly popular, and many competitions get people involved in it.*  
  > 在线投票越来越盛行，很多比赛都让人们参与进来投票。  （2016 江苏书面表达）  
 
-## <font color=#0099ff>\*be popular with / among</font>
+## \*be popular with / among
 1.**为…喜欢；受…欢迎：**  
 
  > *The mobile phone is fashionable and convenient to carry, so it is very popular with youngsters.*  
@@ -6093,7 +6093,7 @@ poorly /'pɔːli; 'pʊəli/ adv
 答案：
 1. with / among  
 
-# ***<font color=#0099ff>\*popularity</font>*** n
+# ***\*popularity*** n
 英音 ˌpɒpju'lærəti     美音 ˌpɑːpju'lærəti  
 
 | 词频 4 | 阅读 3 |  
@@ -6113,7 +6113,7 @@ poorly /'pɔːli; 'pʊəli/ adv
  > 互联网的普及    
 
 
-# ***<font color=#0099ff>\*popularize</font>*** vt
+# ***\*popularize*** vt
 英音 'pɒpjələraɪz     
 
   
@@ -6123,7 +6123,7 @@ poorly /'pɔːli; 'pʊəli/ adv
 ### 1.**普及；使流行；使通俗化**  
 
 
-# ***<font color=#0099ff>\*population</font>*** n  重难点词汇
+# ***\*population*** n  重难点词汇
 英音 ˌpɒpju'leɪʃn     美音 ˌpɑːpju'leɪʃn  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -6168,7 +6168,7 @@ D.are growing
 答案：
 1. A  
 
-# ***<font color=#0099ff>\*porcelain</font>*** n
+# ***\*porcelain*** n
 英音 'pɔːsəlɪn     美音 'pɔːrsəlɪn  
 
   
@@ -6178,7 +6178,7 @@ D.are growing
 ### 1.**瓷器**  
 
 
-# ***<font color=#0099ff>\*pork</font>*** n
+# ***\*pork*** n
 英音 pɔːk     美音 pɔːrk  
 
 | 词频 1 |  
@@ -6190,7 +6190,7 @@ D.are growing
 ### 1.*高义频：* **猪肉**  
 
 
-# ***<font color=#0099ff>\*porridge</font>*** n
+# ***\*porridge*** n
 英音 'pɒrɪdʒ     美音 'pɔːrɪdʒ  
 
 | 词频 1 |  
@@ -6202,7 +6202,7 @@ D.are growing
 ### 1.*高义频：* **粥；麦片粥**  
 
 
-# ***<font color=#0099ff>\*port</font>*** n
+# ***\*port*** n
 英音 pɔːt     美音 pɔːrt  
 
 | 词频 3 | 书面 2 |  
@@ -6214,7 +6214,7 @@ D.are growing
 ### 1.*高义频：* **港；港口**  
 
 
-# ***<font color=#0099ff>\*portable</font>*** adj
+# ***\*portable*** adj
 英音 'pɔːtəbl     美音 'pɔːrtəbl  
 
 | 词频 3 |  
@@ -6227,7 +6227,7 @@ D.are growing
  > 便携式笔记本电脑    
 
 
-# ***<font color=#0099ff>\*porter</font>*** n
+# ***\*porter*** n
 英音 'pɔːtə(r)     美音 'pɔːrtər  
 
 | 词频 1 |  
@@ -6239,7 +6239,7 @@ D.are growing
 ### 1.*高义频：* **搬运工人**  
 
 
-# ***<font color=#0099ff>\*portrait</font>*** n
+# ***\*portrait*** n
 英音 'pɔːtreɪt     美音 'pɔːrtrət  
 
 | 词频 1 |  
@@ -6249,7 +6249,7 @@ D.are growing
 ### 1.**画像；肖像；人像**  
 
 
-# ***<font color=#0099ff>\*pose</font>*** vi
+# ***\*pose*** vi
 英音 pəʊz     美音 poʊz  
 
 | 词频 1 | 书面 1 |  
@@ -6263,7 +6263,7 @@ D.are growing
  > 婚礼之后，我们都摆好姿势合影。    
 
 
-# ***<font color=#0099ff>\*pose</font>*** n
+# ***\*pose*** n
 英音 pəʊz     美音 poʊz  
 
 | 词频 1 |  
@@ -6275,7 +6275,7 @@ D.are growing
 ### 1.*高义频：* **姿势；姿态；假装：**  
 
 
-# ***<font color=#0099ff>\*position</font>*** n  重难点词汇
+# ***\*position*** n  重难点词汇
 英音 pə'zɪʃn     美音 pə'zɪʃn  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -6358,7 +6358,7 @@ D.are growing
 答案：
 1. position  
 
-# ***<font color=#0099ff>\*position</font>*** v  重难点词汇
+# ***\*position*** v  重难点词汇
 英音 pə'zɪʃn     美音 pə'zɪʃn  
 
 | 词频 4 |  
@@ -6372,7 +6372,7 @@ D.are growing
  > 我站好位置以便拍到最美的海景照片。  （2017 天津改）  
 
 
-# ***<font color=#0099ff>\*positive</font>*** adj
+# ***\*positive*** adj
 英音 'pɒzətɪv     美音 'pɑːzətɪv  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -6413,7 +6413,7 @@ D.are growing
  > 任何人一旦被检测出禽流感病毒呈阳性，将获得政府提供的免费医疗。  （2013 福建改）  
 
 
-# ***<font color=#0099ff>\*possess</font>*** vt
+# ***\*possess*** vt
 英音 pə'zes     美音 pə'zes  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -6432,7 +6432,7 @@ D.are growing
  > 他了解到马具有许多特质，这使得它们成为导盲的极佳选择。    
 
 
-# ***<font color=#0099ff>\*possession</font>*** n
+# ***\*possession*** n
 英音 pə'zeʃn     美音 pə'zeʃn  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -6456,19 +6456,19 @@ D.are growing
 
 固定搭配
 ---
-## <font color=#0099ff>\*in possession of </font>
+## \*in possession of 
 1.**占有；拥有：**  
 
  > *Foreign visitors are required to be in possession of a passport.  *  
  > 外国游客必须持有护照。    
 
-## <font color=#0099ff>\*in the possession of </font>
+## \*in the possession of 
 1.**为…所有：**  
 
  > *That picture is in the possession of Tom.*  
  > 那张画为汤姆所有。    
 
-## <font color=#0099ff>\*take possession of </font>
+## \*take possession of 
 1.**占有；拥有；占领：**  
 
  > *We’ve already bought the house but we won’t take possession of it until May. *  
@@ -6482,7 +6482,7 @@ D.are growing
 答案：
 1. possession  
 
-# ***<font color=#0099ff>\*possibility</font>*** n
+# ***\*possibility*** n
 英音 ˌpɒsə'bɪləti     美音 ˌpɑːsə'bɪləti  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -6523,7 +6523,7 @@ D.are growing
 答案：
 1. that  
 
-# ***<font color=#0099ff>\*possible</font>*** adj
+# ***\*possible*** adj
 英音 'pɒsəbl     美音 'pɑːsəbl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6565,7 +6565,7 @@ D.are growing
 
 固定搭配
 ---
-## <font color=#0099ff>\*as ... as possible </font>
+## \*as ... as possible 
 1.**尽可能...地：**  
 
  > *Try to make your poster as attractive as possible.*  
@@ -6577,13 +6577,13 @@ D.are growing
  > *You have to search for as many opportunities as possible to practice listening. *  
  > 你要寻找尽可能多的机会练习听力。  （人教⑦ – 5）  
 
-## <font color=#0099ff>\*if possible </font>
+## \*if possible 
 1.**如果可能的话：**  
 
  > *I want to avoid the rush hour traffic if possible.*  
  > 如有可能，我想避开交通高峰期。    
 
-## <font color=#0099ff>\*whenever / wherever possible</font>
+## \*whenever / wherever possible
 1.**只要有可能；一有机会：**  
 
  > *Use public transport whenever possible (= when you can).*  
@@ -6600,7 +6600,7 @@ D.are growing
 答案：
 1. as  2. best  3. If possible  
 
-# ***<font color=#0099ff>\*possibly</font>*** adv
+# ***\*possibly*** adv
 英音 'pɒsəbli     美音 'pɑːsəbli  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -6629,14 +6629,14 @@ D.are growing
 
 固定搭配
 ---
-## <font color=#0099ff>\*could you possibly</font>
+## \*could you possibly
 1.**... [表示郑重的请求] 您能…吗：**  
 
  > *Could you possibly ask her to bring along that book?*  
  > 您能让她把那本书带来吗？  （2008 天津）  
 
 
-# ***<font color=#0099ff>\*post</font>*** n
+# ***\*post*** n
 英音 pəʊst     美音 poʊst  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -6655,7 +6655,7 @@ D.are growing
  > 他把书寄走了。    
 
 
-# ***<font color=#0099ff>\*post</font>*** vt
+# ***\*post*** vt
 英音 pəʊst     美音 poʊst  
 
 | 词频 4 | 口语 1 |  
@@ -6670,7 +6670,7 @@ D.are growing
  > 你把那本书寄给约翰了吗？    
 
 
-# ***<font color=#0099ff>\*post</font>*** n
+# ***\*post*** n
 英音 poʊst     美音 pəʊst  
 
 | 词频 4 |  
@@ -6690,7 +6690,7 @@ D.are growing
 ### 2.*低义频：* **(网上的) 帖子**  
 
 
-# ***<font color=#0099ff>\*post</font>*** vt
+# ***\*post*** vt
 英音 pəʊst     美音 poʊst  
 
 | 词频 4 | 口语 1 |  
@@ -6710,7 +6710,7 @@ D.are growing
  > 这张照片自发布以来已收到320万次点赞。    
 
 
-# ***<font color=#0099ff>\*post</font>*** n
+# ***\*post*** n
 英音 pəʊst     美音 poʊst  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -6735,7 +6735,7 @@ D.are growing
  > 直到黎明时分，那个警察依然坚守岗位。    
 
 
-# ***<font color=#0099ff>\*post</font>*** vt
+# ***\*post*** vt
 英音 pəʊst     美音 poʊst  
 
 | 词频 4 | 口语 1 |  
@@ -6748,7 +6748,7 @@ D.are growing
  > 2008年我被派往德国。    
 
 
-# ***<font color=#0099ff>\*post-impressionist</font>*** adj
+# ***\*post-impressionist*** adj
 英音 pəʊst ɪm'preʃənɪst     美音 poʊst ɪm'preʃənɪst  
 
 | 词频 1 |  
@@ -6758,7 +6758,7 @@ D.are growing
 ### 1.*高义频：* **后印象派的**  
 
 
-# ***<font color=#0099ff>\*post-impressionist</font>*** n
+# ***\*post-impressionist*** n
 英音 pəʊst ɪm'preʃənɪst     美音 poʊst ɪm'preʃənɪst  
 
 | 词频 1 |  
@@ -6770,7 +6770,7 @@ D.are growing
 ### 1.*高义频：* **后印象派艺术家**  
 
 
-# ***<font color=#0099ff>\*postage</font>*** n
+# ***\*postage*** n
 英音 'pəʊstɪdʒ     美音 'poʊstɪdʒ  
 
 | 词频 2 |  
@@ -6785,7 +6785,7 @@ D.are growing
  > 航空信的邮资是多少？    
 
 
-# ***<font color=#0099ff>\*postcard</font>*** n
+# ***\*postcard*** n
 英音 'pəʊstkɑːd     美音 'poʊstkɑːrd  
 
 | 词频 3 |  
@@ -6797,7 +6797,7 @@ D.are growing
 ### 1.*高义频：* **明信片**  
 
 
-# ***<font color=#0099ff>\*postcode</font>*** n
+# ***\*postcode*** n
 英音 'pəʊstkəʊd     美音 'poʊstkoʊd  
 
 | 词频 1 |  
@@ -6809,7 +6809,7 @@ D.are growing
 ### 1.*高义频：* **邮政编码**  
 
 
-# ***<font color=#0099ff>\*poster</font>*** n
+# ***\*poster*** n
 英音 'pəʊstə(r)     美音 'poʊstər  
 
 | 词频 3 | 口语 1 |  
@@ -6821,7 +6821,7 @@ D.are growing
 ### 1.*高义频：* **海报；招贴画**  
 
 
-# ***<font color=#0099ff>\*postman</font>*** n
+# ***\*postman*** n
 英音 'pəʊstmən     美音 'poʊstmən  
 
 | 词频 2 |  
@@ -6833,7 +6833,7 @@ D.are growing
 ### 1.*高义频：* **邮递员**  
 
 
-# ***<font color=#0099ff>\*postpone</font>*** vt
+# ***\*postpone*** vt
 英音 pə'spəʊn     美音 poʊ'spoʊn  
 
 | 词频 1 |  
@@ -6852,7 +6852,7 @@ D.are growing
  > 我们等有更多信息之后再作决定吧。    
 
 
-# ***<font color=#0099ff>\*posture</font>*** n
+# ***\*posture*** n
 英音 'pɒstʃə(r)     美音 'pɑːstʃər  
 
 | 词频 1 |  
@@ -6864,7 +6864,7 @@ D.are growing
 ### 1.*高义频：* **姿势；体态**  
 
 
-# ***<font color=#0099ff>\*pot</font>*** n
+# ***\*pot*** n
 英音 pɒt     美音 pɑːt  
 
 | 词频 2 | 口语 2 | 书面 1 |  
@@ -6884,7 +6884,7 @@ D.are growing
  > 一锅汤    
 
 
-# ***<font color=#0099ff>\*potassium</font>*** n
+# ***\*potassium*** n
 英音 pə'tæsiəm     美音 pə'tæsiəm  
 
 | 词频 1 |  
@@ -6894,7 +6894,7 @@ D.are growing
 ### 1.**钾**  
 
 
-# ***<font color=#0099ff>\*potato</font>*** n
+# ***\*potato*** n
 英音 pə'teɪtəʊ     美音 pə'teɪtoʊ  
 
 | 词频 2 | 口语 2 |  
@@ -6906,7 +6906,7 @@ D.are growing
 ### 1.*高义频：* **马铃薯；土豆**  
 
 
-# ***<font color=#0099ff>\*potential</font>*** adj
+# ***\*potential*** adj
 英音 pə'tenʃl     美音 pə'tenʃl  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -6927,7 +6927,7 @@ D.are growing
 ---
 potentially  /pə'tenʃəli/ adv   
 
-# ***<font color=#0099ff>\*potential</font>*** n
+# ***\*potential*** n
 英音 pə'tenʃl     美音 pə'tenʃl  
 
 | 词频 4 | 书面 1 | 阅读 3 |  
@@ -6946,7 +6946,7 @@ potentially  /pə'tenʃəli/ adv
  > 他有潜力成为世界级的音乐家。    
 
 
-# ***<font color=#0099ff>\*pottery</font>*** n
+# ***\*pottery*** n
 英音 'pɒtəri     美音 'pɑːtəri  
 
 | 词频 1 |  
@@ -6958,7 +6958,7 @@ potentially  /pə'tenʃəli/ adv
 ### 1.*高义频：* **陶器；陶艺**  
 
 
-# ***<font color=#0099ff>\*pound</font>*** n
+# ***\*pound*** n
 英音 paʊnd     美音 paʊnd  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -6970,7 +6970,7 @@ potentially  /pə'tenʃəli/ adv
 ### 1.*高义频：* **[英国货币单位] 英镑；[重量单位] 磅**  
 
 
-# ***<font color=#0099ff>\*pour</font>*** v
+# ***\*pour*** v
 英音 pɔː(r)     美音 pɔːr  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -7007,7 +7007,7 @@ potentially  /pə'tenʃəli/ adv
  > 不雨则已，一雨倾盆。/ 祸不单行。    
 
 
-# ***<font color=#0099ff>\*poutine</font>*** n
+# ***\*poutine*** n
 英音 puːˈtɪn     美音 puːˈtɪn  
 
   
@@ -7017,7 +7017,7 @@ potentially  /pə'tenʃəli/ adv
 ### 1.**肉汁乳酪薯条 (加拿大一种食品)**  
 
 
-# ***<font color=#0099ff>\*poverty</font>*** n
+# ***\*poverty*** n
 英音 'pɒvəti     美音 'pɑːvərti  
 
 | 词频 3 | 书面 1 | 阅读 3 |  
@@ -7036,7 +7036,7 @@ potentially  /pə'tenʃəli/ adv
  > 我们正努力缓解贫困，提高人们的收入。  （外研③ – 2）  
 
 
-# ***<font color=#0099ff>\*powder</font>*** n
+# ***\*powder*** n
 英音 'paʊdə(r)     美音 'paʊdər  
 
 | 词频 1 |  
@@ -7051,7 +7051,7 @@ potentially  /pə'tenʃəli/ adv
  > 洗衣粉    
 
 
-# ***<font color=#0099ff>\*powder-free</font>*** adj
+# ***\*powder-free*** adj
 英音 'paʊdəfriː     美音 'paʊdərfriː  
 
 | 词频 1 |  
@@ -7061,7 +7061,7 @@ potentially  /pə'tenʃəli/ adv
 ### 1.**无需洗衣粉的**  
 
 
-# ***<font color=#0099ff>\*power</font>*** n  重难点词汇
+# ***\*power*** n  重难点词汇
 英音 'paʊə(r)     美音 'paʊər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -7141,7 +7141,7 @@ potentially  /pə'tenʃəli/ adv
  > 发动机功率    
 
 
-# ***<font color=#0099ff>\*power</font>*** vt  重难点词汇
+# ***\*power*** vt  重难点词汇
 英音 'paʊə(r)     美音 'paʊər  
 
 | 词频 5 |  
@@ -7154,7 +7154,7 @@ potentially  /pə'tenʃəli/ adv
  > 这架飞机由喷气发动机驱动。    
 
 
-# ***<font color=#0099ff>\*power-free</font>*** adj
+# ***\*power-free*** adj
 英音 'paʊəfriː     美音 'paʊəfriː  
 
 | 词频 1 |  
@@ -7164,7 +7164,7 @@ potentially  /pə'tenʃəli/ adv
 ### 1.**不用电的**  
 
 
-# ***<font color=#0099ff>\*powerful</font>*** adj
+# ***\*powerful*** adj
 英音 'paʊəfl     美音 'paʊərfl  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -7199,7 +7199,7 @@ potentially  /pə'tenʃəli/ adv
 ---
 powerfully  /'paʊəfəli/ adv   
 
-# ***<font color=#0099ff>\*practical</font>*** adj
+# ***\*practical*** adj
 英音 'præktɪkl     美音 'præktɪkl  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -7233,7 +7233,7 @@ powerfully  /'paʊəfəli/ adv
 答案：
 1. practical  
 
-# ***<font color=#0099ff>\*practically</font>*** adv
+# ***\*practically*** adv
 英音 'præktɪkli     美音 'præktɪkli  
 
 | 词频 3 | 口语 1 |  
@@ -7252,7 +7252,7 @@ powerfully  /'paʊəfəli/ adv
  > 这个主意听起来不错，但我认为它实际上行不通。    
 
 
-# ***<font color=#0099ff>\*practice</font>*** n  重难点词汇
+# ***\*practice*** n  重难点词汇
 英音 'præktɪs     美音 'præktɪs  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -7291,26 +7291,26 @@ powerfully  /'paʊəfəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*in practice </font>
+## \*in practice 
 1.**实际上；事实上：**  
 
  > *Your suggestion is very good in theory, but in practice it will not work. *  
  > 理论上，你的建议很好，但实际上，是行不通的。    
 
-## <font color=#0099ff>\*out of practice </font>
+## \*out of practice 
 1.**生疏；疏于练习：**  
 
  > *If you don’t play, you’ll get out of practice. *  
  > 不练习就会生疏。    
 
-## <font color=#0099ff>\*put ... into practice </font>
+## \*put ... into practice 
 1.**将…付诸实践：**  
 
  > *She’s been able to put a lot of what she’s learnt into practice in her home.*  
  > 她在自己家里已经能实践很多自己学到的东西。  （2018 全国）  
 
 
-# ***<font color=#0099ff>\*practice</font>*** v
+# ***\*practice*** v
 英音 'præktɪs     美音 'præktɪs  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -7342,7 +7342,7 @@ powerfully  /'paʊəfəli/ adv
 答案：
 1. parking  
 
-# ***<font color=#0099ff>\*practise</font>*** v
+# ***\*practise*** v
 英音 'præktɪs     美音 'præktɪs  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -7374,7 +7374,7 @@ powerfully  /'paʊəfəli/ adv
 答案：
 1. parking  
 
-# ***<font color=#0099ff>\*practitioner</font>*** n
+# ***\*practitioner*** n
 英音 præk'tɪʃənə(r)     美音 præk'tɪʃənər  
 
 | 词频 1 |  
@@ -7384,7 +7384,7 @@ powerfully  /'paʊəfəli/ adv
 ### 1.**（尤指医学或法律界的）从业人员**  
 
 
-# ***<font color=#0099ff>\*praise</font>*** vt
+# ***\*praise*** vt
 英音 'preɪz     美音 'preɪz  
 
 | 词频 4 |  
@@ -7409,7 +7409,7 @@ powerfully  /'paʊəfəli/ adv
 答案：
 1. for  
 
-# ***<font color=#0099ff>\*praise</font>*** n
+# ***\*praise*** n
 英音 'preɪz     美音 'preɪz  
 
 | 词频 4 | 书面 1 |  
@@ -7429,14 +7429,14 @@ powerfully  /'paʊəfəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*in praise of </font>
+## \*in praise of 
 1.**赞扬：**  
 
  > *She wrote a poem in praise of freedom. *  
  > 她写了一首诗歌颂自由。    
 
 
-# ***<font color=#0099ff>\*pray</font>*** v
+# ***\*pray*** v
 英音 preɪ     美音 preɪ  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -7451,7 +7451,7 @@ powerfully  /'paʊəfəli/ adv
  > 祈求和平    
 
 
-# ***<font color=#0099ff>\*prayer</font>*** n
+# ***\*prayer*** n
 英音 preə(r)     美音 prer  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -7469,7 +7469,7 @@ powerfully  /'paʊəfəli/ adv
  > 跪下祈祷    
 
 
-# ***<font color=#0099ff>\*precious</font>*** adj
+# ***\*precious*** adj
 英音 'preʃəs     美音 'preʃəs  
 
 | 词频 3 |  
@@ -7486,7 +7486,7 @@ powerfully  /'paʊəfəli/ adv
  > 宝贵的时间 / 珍贵的回忆 / 稀世珍宝    
 
 
-# ***<font color=#0099ff>\*precise</font>*** adj
+# ***\*precise*** adj
 英音 prɪ'saɪs     美音 prɪ'saɪs  
 
 | 词频 1 | 书面 1 | 阅读 1 |  
@@ -7515,7 +7515,7 @@ precisely  /prɪ'saɪsli/ adv
  > 很难准确了解这些变化会造成多大影响。    
 
 
-# ***<font color=#0099ff>\*precisely</font>*** adv
+# ***\*precisely*** adv
 英音 prɪ'saɪsli     美音 prɪ'saɪsli  
 
 | 词频 1 | 阅读 1 |  
@@ -7529,7 +7529,7 @@ precisely  /prɪ'saɪsli/ adv
  > 很难准确了解这些变化会造成多大影响。    
 
 
-# ***<font color=#0099ff>\*predict</font>*** vt
+# ***\*predict*** vt
 英音 prɪ'dɪkt     美音 prɪ'dɪkt  
 
 | 词频 4 | 书面 1 | 阅读 3 |  
@@ -7567,7 +7567,7 @@ prediction /prɪ'dɪkʃn/ n [C] & [U]
 答案：
 1. predict / forecast  
 
-# ***<font color=#0099ff>\*prediction</font>*** n
+# ***\*prediction*** n
 英音 prɪ'dɪkʃn     美音 prɪ'dɪkʃn  
 
 | 词频 2 |  
@@ -7579,7 +7579,7 @@ prediction /prɪ'dɪkʃn/ n [C] & [U]
 ### 1.*高义频：* **预言；预报；预告**  
 
 
-# ***<font color=#0099ff>\*prefer</font>*** vt  重难点词汇
+# ***\*prefer*** vt  重难点词汇
 英音 prɪ'fɜː(r)     美音 prɪ'fɜːr  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -7644,7 +7644,7 @@ preferred  /prɪ'fəd/ adj
 答案：
 1. prefer  
 
-# ***<font color=#0099ff>\*preference</font>*** n
+# ***\*preference*** n
 英音 'prefrəns     美音 'prefrəns  
 
 | 词频 2 | 书面 1 |  
@@ -7667,7 +7667,7 @@ preferred  /prɪ'fəd/ adj
  > 葡萄酒还是啤酒？你更喜欢哪种？    
 
 
-# ***<font color=#0099ff>\*prefer…to…</font>*** 
+# ***\*prefer…to…*** 
 
 
   
@@ -7680,7 +7680,7 @@ preferred  /prɪ'fəd/ adj
  > 现在大多数孩子都喜欢看电视而不喜欢阅读。    
 
 
-# ***<font color=#0099ff>\*pregnant</font>*** adj
+# ***\*pregnant*** adj
 英音 'preɡnənt     美音 'preɡnənt  
 
 | 词频 2 | 口语 1 |  
@@ -7693,7 +7693,7 @@ preferred  /prɪ'fəd/ adj
  > 她在公共汽车上将座位让给了一位孕妇。    
 
 
-# ***<font color=#0099ff>\*prehistoric</font>*** adj
+# ***\*prehistoric*** adj
 英音 ˌpriːhɪ'stɒrɪk     美音 ˌpriːhɪ'stɔːrɪk  
 
 | 词频 1 |  
@@ -7703,7 +7703,7 @@ preferred  /prɪ'fəd/ adj
 ### 1.*高义频：* **有文字记载以前的；史前的**  
 
 
-# ***<font color=#0099ff>\*prejudice</font>*** n
+# ***\*prejudice*** n
 英音 'predʒudɪs     美音 'predʒudɪs  
 
 | 词频 1 |  
@@ -7722,7 +7722,7 @@ preferred  /prɪ'fəd/ adj
  > 对某人有偏见    
 
 
-# ***<font color=#0099ff>\*prejudice</font>*** vt
+# ***\*prejudice*** vt
 英音 'predʒudɪs     美音 'predʒudɪs  
 
 | 词频 1 |  
@@ -7732,7 +7732,7 @@ preferred  /prɪ'fəd/ adj
 ### 1.**使怀有（或形成）偏见**  
 
 
-# ***<font color=#0099ff>\*premier</font>*** n
+# ***\*premier*** n
 英音 'premiə(r)     美音 prɪ'mɪr  
 
 | 词频 1 |  
@@ -7744,7 +7744,7 @@ preferred  /prɪ'fəd/ adj
 ### 1.*高义频：* **总理；首相**  
 
 
-# ***<font color=#0099ff>\*premier</font>*** adj
+# ***\*premier*** adj
 英音 'premiə(r)     美音 prɪ'mɪr  
 
 | 词频 1 |  
@@ -7754,7 +7754,7 @@ preferred  /prɪ'fəd/ adj
 ### 1.*高义频：* **首要的；最成功的：**  
 
 
-# ***<font color=#0099ff>\*premiere</font>*** n
+# ***\*premiere*** n
 英音 'premieə(r)     美音 prɪ'mɪr  
 
 | 词频 1 |  
@@ -7764,7 +7764,7 @@ preferred  /prɪ'fəd/ adj
 ### 1.**首次公演, 公映**  
 
 
-# ***<font color=#0099ff>\*preparation</font>*** n
+# ***\*preparation*** n
 英音 ˌprepə'reɪʃn     美音 ˌprepə'reɪʃn  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -7786,20 +7786,20 @@ preferred  /prɪ'fəd/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*in preparation for </font>
+## \*in preparation for 
 1.**为…作准备：**  
 
  > *I want to improve my language skills in preparation for further study overseas. *  
  > 我想提高我的语言技能为出国深造作准备。    
 
-## <font color=#0099ff>\*make preparations for </font>
+## \*make preparations for 
 1.**为…作准备：**  
 
  > *They are busy making preparations for the wedding.*  
  > 他们正忙着筹备婚礼。    
 
 
-# ***<font color=#0099ff>\*prepare</font>*** v  重难点词汇
+# ***\*prepare*** v  重难点词汇
 英音 prɪ'peə(r)     美音 prɪ'per  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -7847,7 +7847,7 @@ preferred  /prɪ'fəd/ adj
  > 部队准备开赴战场。    
 
 
-# ***<font color=#0099ff>\*prepared</font>*** adj
+# ***\*prepared*** adj
 英音 prɪ'peəd     美音 prɪ'perd  
 
 | 词频 4 | 口语 2 |  
@@ -7876,7 +7876,7 @@ preferred  /prɪ'fəd/ adj
  > 所有参赛者一定要做好充分准备，以便发挥最佳水平。  （2009 天津书面表达改）  
 
 
-# ***<font color=#0099ff>\*preposition</font>*** n
+# ***\*preposition*** n
 英音 ˌprepə'zɪʃn     美音 ˌprepə'zɪʃn  
 
 | 词频 1 |  
@@ -7886,7 +7886,7 @@ preferred  /prɪ'fəd/ adj
 ### 1.**介词**  
 
 
-# ***<font color=#0099ff>\*prescription</font>*** n
+# ***\*prescription*** n
 英音 prɪ'skrɪpʃn     美音 prɪ'skrɪpʃn  
 
 | 词频 1 |  
@@ -7901,7 +7901,7 @@ preferred  /prɪ'fəd/ adj
  > 医生给我开了药方。  （北师大⑦ – 21）  
 
 
-# ***<font color=#0099ff>\*presence</font>*** n
+# ***\*presence*** n
 英音 'prezns     美音 'prezns  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -7919,14 +7919,14 @@ preferred  /prɪ'fəd/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*in the presence of sb / in sb’s presence </font>
+## \*in the presence of sb / in sb’s presence 
 1.**当着某人的面：**  
 
  > *He apologized to her in the presence of the whole family. *  
  > 他当着全家人的面向她道歉。    
 
 
-# ***<font color=#0099ff>\*present</font>*** n  重难点词汇
+# ***\*present*** n  重难点词汇
 英音 'preznt     美音 'preznt  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -7946,7 +7946,7 @@ preferred  /prɪ'fəd/ adj
  > 买/送/打开礼物    
 
 
-# ***<font color=#0099ff>\*present</font>*** vt  重难点词汇
+# ***\*present*** vt  重难点词汇
 英音 prɪ'zent     美音 prɪ'zent  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -7999,7 +7999,7 @@ preferred  /prɪ'fəd/ adj
 ---
 presenter /prɪ'zentə(r)/ n [C]  
 
-# ***<font color=#0099ff>\*present</font>*** n  重难点词汇
+# ***\*present*** n  重难点词汇
 英音 'preznt     美音 'preznt  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -8016,13 +8016,13 @@ presenter /prɪ'zentə(r)/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*at present</font>
+## \*at present
 1.**现在；目前：**  
 
  > *My classmate is at present in hospital with a broken leg. *  
  > 我的同学因为摔断了腿目前正在住院。  （2009 陕西改）  
 
-## <font color=#0099ff>\*for the present </font>
+## \*for the present 
 1.**暂时 (for the moment)：**  
 
  > *We shall not need any more for the present. *  
@@ -8032,7 +8032,7 @@ presenter /prɪ'zentə(r)/ n [C]
  > 我一时想不起来了。    
 
 
-# ***<font color=#0099ff>\*present</font>*** adj  重难点词汇
+# ***\*present*** adj  重难点词汇
 英音 'preznt     美音 'preznt  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -8063,7 +8063,7 @@ presenter /prɪ'zentə(r)/ n [C]
 ---
 presently /'prezntli/ adv   
 
-# ***<font color=#0099ff>\*present-day</font>*** adj
+# ***\*present-day*** adj
 英音 ˌpreznt'deɪ     美音 ˌpreznt'deɪ  
 
 | 词频 1 |  
@@ -8073,7 +8073,7 @@ presently /'prezntli/ adv
 ### 1.**当今的, 现代的**  
 
 
-# ***<font color=#0099ff>\*presentation</font>*** n
+# ***\*presentation*** n
 英音 ˌprezn'teɪʃn     美音 ˌpriːzen'teɪʃn  
 
 | 词频 2 | 口语 2 | 书面 1 |  
@@ -8092,7 +8092,7 @@ presently /'prezntli/ adv
  > 颁奖仪式    
 
 
-# ***<font color=#0099ff>\*presenter</font>*** n
+# ***\*presenter*** n
 英音 prɪ'zentə(r)     美音 prɪ'zentər  
 
 | 词频 1 |  
@@ -8102,7 +8102,7 @@ presently /'prezntli/ adv
 ### 1.**节目主持人**  
 
 
-# ***<font color=#0099ff>\*preservation</font>*** n
+# ***\*preservation*** n
 英音 ˌprezə'veɪʃn     美音 ˌprezər'veɪʃn  
 
 | 词频 2 |  
@@ -8112,7 +8112,7 @@ presently /'prezntli/ adv
 ### 1.**维护；保存**  
 
 
-# ***<font color=#0099ff>\*preserve</font>*** vt
+# ***\*preserve*** vt
 英音 prɪ'zɜːv     美音 prɪ'zɜːrv  
 
 | 词频 2 | 书面 1 |  
@@ -8143,7 +8143,7 @@ preservation /ˌprezə'veɪʃn/ n [U]
 答案：
 1. preserved / saved  
 
-# ***<font color=#0099ff>\*preserve</font>*** n
+# ***\*preserve*** n
 英音 prɪ'zɜːv     美音 prɪ'zɜːrv  
 
 | 词频 2 | 书面 1 |  
@@ -8153,7 +8153,7 @@ preservation /ˌprezə'veɪʃn/ n [U]
 ### 1.**保护区**  
 
 
-# ***<font color=#0099ff>\*president</font>*** n
+# ***\*president*** n
 英音 'prezɪdənt     美音 'prezɪdənt  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -8171,7 +8171,7 @@ presidential /ˌprezɪ'denʃl/ adj
 1. **总统的**  
 
 
-# ***<font color=#0099ff>\*press</font>*** v
+# ***\*press*** v
 英音 pres     美音 pres  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -8200,7 +8200,7 @@ presidential /ˌprezɪ'denʃl/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*press on </font>
+## \*press on 
 1.**(不顾困难) 继续进行：**  
 
  > *He pressed on and finally got passed the finishing line.*  
@@ -8214,7 +8214,7 @@ presidential /ˌprezɪ'denʃl/ adj
 答案：
 1. pressed / pushed  
 
-# ***<font color=#0099ff>\*press</font>*** n
+# ***\*press*** n
 英音 pres     美音 pres  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -8244,7 +8244,7 @@ presidential /ˌprezɪ'denʃl/ adj
  > 新闻自由    
 
 
-# ***<font color=#0099ff>\*pressure</font>*** n
+# ***\*pressure*** n
 英音 'preʃə(r)     美音 'preʃər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -8274,7 +8274,7 @@ presidential /ˌprezɪ'denʃl/ adj
  > 生活压力    
 
 
-# ***<font color=#0099ff>\*pretend</font>*** v
+# ***\*pretend*** v
 英音 prɪ'tend     美音 prɪ'tend  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -8306,7 +8306,7 @@ presidential /ˌprezɪ'denʃl/ adj
 答案：
 1. pretended  
 
-# ***<font color=#0099ff>\*pretty</font>*** adj
+# ***\*pretty*** adj
 英音 'prɪti     美音 'prɪti  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -8319,7 +8319,7 @@ presidential /ˌprezɪ'denʃl/ adj
  > 漂亮的女孩    
 
 
-# ***<font color=#0099ff>\*pretty</font>*** adv
+# ***\*pretty*** adv
 英音 'prɪti     美音 'prɪti  
 
 | 词频 4 | 口语 3 | 书面 1 |  
@@ -8334,14 +8334,14 @@ presidential /ˌprezɪ'denʃl/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*pretty well / much</font>
+## \*pretty well / much
 1.**[非正式用语] 几乎；差不多**  
 
 #### 辨析 fairly, quite, rather, pretty
 四者都有“相当”之意。  
 
 
-# ***<font color=#0099ff>\*prevent</font>*** vt
+# ***\*prevent*** vt
 英音 prɪ'vent     美音 prɪ'vent  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -8356,7 +8356,7 @@ presidential /ˌprezɪ'denʃl/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*prevent sb / sth (from) doing sth:</font>
+## \*prevent sb / sth (from) doing sth:
 1.
  > *There were many ways to prevent this from happening.*  
  > 有多种方法可以防止此事发生。  （ 2008 广东改）  
@@ -8372,7 +8372,7 @@ prevention /prɪ'venʃn/ n [U]
  > 预防胜于治疗。    
 
 
-# ***<font color=#0099ff>\*preview</font>*** vt
+# ***\*preview*** vt
 英音 'priːvjuː     美音 'priːvjuː  
 
 | 词频 1 |  
@@ -8385,7 +8385,7 @@ prevention /prɪ'venʃn/ n [U]
  > 课前预习真的让我受益很多。  （2014 江西书面表达）  
 
 
-# ***<font color=#0099ff>\*preview</font>*** n
+# ***\*preview*** n
 英音 'priːvjuː     美音 'priːvjuː  
 
 | 词频 1 |  
@@ -8397,7 +8397,7 @@ prevention /prɪ'venʃn/ n [U]
 ### 1.*高义频：* **(电影等的) 预演；预告片**  
 
 
-# ***<font color=#0099ff>\*previous</font>*** adj
+# ***\*previous*** adj
 英音 'priːviəs     美音 'priːviəs  
 
 | 词频 3 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -8416,7 +8416,7 @@ prevention /prɪ'venʃn/ n [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*previous to </font>
+## \*previous to 
 1.**[正式用语] 在…之前：**  
 
  > *Previous to this, scientific experiments did not show a definite link between mobile phone use and cancer.*  
@@ -8427,7 +8427,7 @@ prevention /prɪ'venʃn/ n [U]
 ---
 previously /'priːviəsli/ adv   
 
-# ***<font color=#0099ff>\*price</font>*** n
+# ***\*price*** n
 英音 praɪs     美音 praɪs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -8449,14 +8449,14 @@ previously /'priːviəsli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*at the price of </font>
+## \*at the price of 
 1.**以…的代价：**  
 
  > *She achieved success at the price of her health.*  
  > 她的成功是以牺牲自身健康为代价的。    
 
 
-# ***<font color=#0099ff>\*price</font>*** vt
+# ***\*price*** vt
 英音 praɪs     美音 praɪs  
 
 | 词频 5 |  
@@ -8472,7 +8472,7 @@ previously /'priːviəsli/ adv
  > 门票价格为每张10美元。    
 
 
-# ***<font color=#0099ff>\*priceless</font>*** adj
+# ***\*priceless*** adj
 英音 'praɪsləs     美音 'praɪsləs  
 
 | 词频 1 |  
@@ -8488,7 +8488,7 @@ previously /'priːviəsli/ adv
   
 
 
-# ***<font color=#0099ff>\*pride</font>*** n
+# ***\*pride*** n
 英音 praɪd     美音 praɪd  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -8526,13 +8526,13 @@ previously /'priːviəsli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*take pride in </font>
+## \*take pride in 
 1.**对…感到自豪：**  
 
  > *People tend to take pride in keeping everything in their street fresh.*  
  > 人们往往会为保持自己的街道清爽而感到自豪。  （2018 浙江）  
 
-## <font color=#0099ff>\*with pride </font>
+## \*with pride 
 1.**自豪地：**  
 
  > *I looked with pride at what I had achieved. *  
@@ -8546,7 +8546,7 @@ previously /'priːviəsli/ adv
 答案：
 1. pride  
 
-# ***<font color=#0099ff>\*priest</font>*** n
+# ***\*priest*** n
 英音 priːst     美音 priːst  
 
 | 词频 1 | 书面 1 |  
@@ -8558,7 +8558,7 @@ previously /'priːviəsli/ adv
 ### 1.*高义频：* **牧师**  
 
 
-# ***<font color=#0099ff>\*primary</font>*** adj
+# ***\*primary*** adj
 英音 'praɪməri     美音 'praɪmeri  
 
 | 词频 3 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -8588,7 +8588,7 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
 答案：
 1. primary / main  
 
-# ***<font color=#0099ff>\*prime</font>*** adj
+# ***\*prime*** adj
 英音 praɪm     美音 praɪm  
 
 | 词频 1 |  
@@ -8600,7 +8600,7 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
 ### 1.*高义频：* **最重要的；首要的 (main / primary)**  
 
 
-# ***<font color=#0099ff>\*prime</font>*** n
+# ***\*prime*** n
 英音 praɪm     美音 praɪm  
 
 | 词频 1 |  
@@ -8610,7 +8610,7 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
 ### 1.**盛年；鼎盛时期**  
 
 
-# ***<font color=#0099ff>\*primitive</font>*** adj
+# ***\*primitive*** adj
 英音 'prɪmətɪv     美音 'prɪmətɪv  
 
 | 词频 2 | 阅读 2 |  
@@ -8628,7 +8628,7 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
  > 营地的设施非常简陋。    
 
 
-# ***<font color=#0099ff>\*prince</font>*** n
+# ***\*prince*** n
 英音 prɪns     美音 prɪns  
 
 | 词频 2 | 书面 1 |  
@@ -8640,7 +8640,7 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
 ### 1.*高义频：* **王子；亲王**  
 
 
-# ***<font color=#0099ff>\*princess</font>*** n
+# ***\*princess*** n
 英音 ˌprɪn'ses     美音 ˌprɪn'ses  
 
 | 词频 1 | 书面 1 |  
@@ -8652,7 +8652,7 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
 ### 1.*高义频：* **公主；王妃**  
 
 
-# ***<font color=#0099ff>\*principal</font>*** n
+# ***\*principal*** n
 英音 'prɪnsəpl     美音 'prɪnsəpl  
 
 | 词频 1 | 阅读 1 |  
@@ -8664,7 +8664,7 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
 ### 1.*高义频：* **校长 (headteacher)**  
 
 
-# ***<font color=#0099ff>\*principle</font>*** n
+# ***\*principle*** n
 英音 'prɪnsəpl     美音 'prɪnsəpl  
 
 | 词频 3 | 口语 2 | 书面 3 | 阅读 1 |  
@@ -8709,7 +8709,7 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*in principle</font>
+## \*in principle
 1.*高义频：* **理论上；原则上：**  
 
  > *I agree with it in principle but I doubt if it will happen in practice. *  
@@ -8728,7 +8728,7 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
 答案：
 1. principles  
 
-# ***<font color=#0099ff>\*print</font>*** v
+# ***\*print*** v
 英音 prɪnt     美音 prɪnt  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -8756,14 +8756,14 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*print off / out</font>
+## \*print off / out
 1.**打印：**  
 
  > *You may use an online printer to print out the data.*  
  > 你可以使用网络打印机把数据打印出来。    
 
 
-# ***<font color=#0099ff>\*print</font>*** n
+# ***\*print*** n
 英音 prɪnt     美音 prɪnt  
 
 | 词频 4 | 书面 1 |  
@@ -8783,14 +8783,14 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*in print </font>
+## \*in print 
 1.**已出版的；(书等) 仍能买到的**  
 
-## <font color=#0099ff>\*out of print </font>
+## \*out of print 
 1.**绝版的**  
 
 
-# ***<font color=#0099ff>\*printer</font>*** n
+# ***\*printer*** n
 英音 'prɪntə(r)     美音 'prɪntər  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -8802,7 +8802,7 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
 ### 1.*高义频：* **打印机；印刷工；印刷商**  
 
 
-# ***<font color=#0099ff>\*printing</font>*** n
+# ***\*printing*** n
 英音 'prɪntɪŋ     美音 'prɪntɪŋ  
 
 | 词频 2 |  
@@ -8823,7 +8823,7 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
  > 这是这本书的首次印刷。    
 
 
-# ***<font color=#0099ff>\*prior</font>*** 
+# ***\*prior*** 
 英音 'praɪə(r)     美音 'praɪər  
 
 | 词频 1 |  
@@ -8835,11 +8835,11 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*prior to</font>
+## \*prior to
 1.**在…之前**  
 
 
-# ***<font color=#0099ff>\*priority</font>*** n
+# ***\*priority*** n
 英音 praɪ'ɒrəti     美音 praɪ'ɔːrəti  
 
 | 词频 2 | 口语 2 | 书面 2 | 阅读 1 |  
@@ -8862,7 +8862,7 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
  > 俱乐部成员享有优先权。    
 
 
-# ***<font color=#0099ff>\*prison</font>*** n
+# ***\*prison*** n
 英音 'prɪzn     美音 'prɪzn  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -8890,7 +8890,7 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
  > 曼德拉为黑人而斗争并坐了将近三十年的牢。    
 
 
-# ***<font color=#0099ff>\*prisoner</font>*** n
+# ***\*prisoner*** n
 英音 'prɪznə(r)     美音 'prɪznər  
 
 | 词频 3 | 口语 1 | 书面 2 |  
@@ -8905,7 +8905,7 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
  > 俘虏某人    
 
 
-# ***<font color=#0099ff>\*privacy</font>*** n
+# ***\*privacy*** n
 英音 'prɪvəsi     美音 'praɪvəsi  
 
   
@@ -8915,7 +8915,7 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
 ### 1.**隐私；私密**  
 
 
-# ***<font color=#0099ff>\*private</font>*** adj
+# ***\*private*** adj
 英音 'praɪvət     美音 'praɪvət  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -8944,7 +8944,7 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
  > 英国既有公立学校也有私立学校。  （外研① – 2）  
 
 
-# ***<font color=#0099ff>\*private</font>*** n
+# ***\*private*** n
 英音 'praɪvət     美音 'praɪvət  
 
 | 词频 4 |  
@@ -8958,14 +8958,14 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*in private </font>
+## \*in private 
 1.**私下地【反:in public】：**  
 
  > *I want to have a word with you in private. *  
  > 我想和你私下说几句。    
 
 
-# ***<font color=#0099ff>\*privately</font>*** adv
+# ***\*privately*** adv
 英音 'praɪvətli     美音 'praɪvətli  
 
 | 词频 2 |  
@@ -8975,7 +8975,7 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
 ### 1.*高义频：* **私下地；私立地**  
 
 
-# ***<font color=#0099ff>\*privilege</font>*** n
+# ***\*privilege*** n
 英音 'prɪvəlɪdʒ     美音 'prɪvəlɪdʒ  
 
 | 词频 1 | 书面 1 |  
@@ -8994,7 +8994,7 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
  > 能够成为这些孩子们生活中的一部分是如此的荣幸，即使只有几个小时的时间。  （2019 北京）  
 
 
-# ***<font color=#0099ff>\*privileged</font>*** adj
+# ***\*privileged*** adj
 英音 'prɪvəlɪdʒd     美音 'prɪvəlɪdʒd  
 
 | 词频 1 |  
@@ -9004,7 +9004,7 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
 ### 1.**荣幸的**  
 
 
-# ***<font color=#0099ff>\*prize</font>*** n
+# ***\*prize*** n
 英音 praɪz     美音 praɪz  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -9026,7 +9026,7 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
   
 
 
-# ***<font color=#0099ff>\*probable</font>*** adj
+# ***\*probable*** adj
 英音 'prɒbəbl     美音 'prɑːbəbl  
 
 | 词频 3 |  
@@ -9047,7 +9047,7 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
 ---
 probability /ˌprɒbə'bɪləti/ n   
 
-# ***<font color=#0099ff>\*probably</font>*** adv
+# ***\*probably*** adv
 英音 'prɒbəbli     美音 'prɑːbəbli  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -9067,7 +9067,7 @@ probability /ˌprɒbə'bɪləti/ n
  > 大概不会。  （2008 上海）  
 
 
-# ***<font color=#0099ff>\*probe</font>*** n
+# ***\*probe*** n
 英音 prəʊb     美音 proʊb  
 
 | 词频 1 |  
@@ -9077,7 +9077,7 @@ probability /ˌprɒbə'bɪləti/ n
 ### 1.**宇宙探测器；航天探测器**  
 
 
-# ***<font color=#0099ff>\*problem</font>*** n
+# ***\*problem*** n
 英音 'prɒbləm     美音 'prɑːbləm  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -9108,7 +9108,7 @@ probability /ˌprɒbə'bɪləti/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*no problem</font>
+## \*no problem
 1.*高义频：* **[表示乐于相助或事情容易做]没问题：**  
 
  > *— How about meeting at the nearby restaurant? *  
@@ -9138,7 +9138,7 @@ probability /ˌprɒbə'bɪləti/ n
 答案：
 1. No problem  
 
-# ***<font color=#0099ff>\*problem-solving</font>*** adj
+# ***\*problem-solving*** adj
 
 
   
@@ -9148,7 +9148,7 @@ probability /ˌprɒbə'bɪləti/ n
 ### 1.**问题解决的**  
 
 
-# ***<font color=#0099ff>\*procedure</font>*** n
+# ***\*procedure*** n
 英音 prə'siːdʒə(r)     美音 prə'siːdʒər  
 
 | 词频 2 | 口语 2 | 书面 2 |  
@@ -9169,7 +9169,7 @@ probability /ˌprɒbə'bɪləti/ n
  > 步骤如下。  （人教⑧ – 2）  
 
 
-# ***<font color=#0099ff>\*proceed</font>*** vi
+# ***\*proceed*** vi
 英音 prə'siːd     美音 proʊ'siːd  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -9181,7 +9181,7 @@ probability /ˌprɒbə'bɪləti/ n
 ### 1.*高义频：* **继续；继续做；继续进行 (go on)**  
 
 
-# ***<font color=#0099ff>\*process</font>*** n
+# ***\*process*** n
 英音 'prəʊses     美音 'prɑːses  
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -9211,14 +9211,14 @@ probability /ˌprɒbə'bɪləti/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*in the process</font>
+## \*in the process
 1.**同时：**  
 
  > *I spilt the coffee, burning myself in the process. *  
  > 我把咖啡洒了出来，还烫到了自己。    
 
 
-# ***<font color=#0099ff>\*process</font>*** vt
+# ***\*process*** vt
 英音 'prəʊses     美音 'prɑːses  
 
 | 词频 4 | 阅读 3 |  
@@ -9251,7 +9251,7 @@ D.download
 答案：
 1. C  
 
-# ***<font color=#0099ff>\*produce</font>*** vt
+# ***\*produce*** vt
 英音 prə'djuːs     美音 prə'duːs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -9296,7 +9296,7 @@ D.download
 ---
 producer /prə'djuːsə(r)/ n   
 
-# ***<font color=#0099ff>\*produce</font>*** n
+# ***\*produce*** n
 英音 'prɒdjuːs     美音 'prɑːduːs  
 
 | 词频 5 |  
@@ -9312,7 +9312,7 @@ producer /prə'djuːsə(r)/ n
  > 农产品    
 
 
-# ***<font color=#0099ff>\*producer</font>*** n
+# ***\*producer*** n
 英音 prə'djuːsə(r)     美音 prə'duːsər  
 
 | 词频 4 |  
@@ -9324,7 +9324,7 @@ producer /prə'djuːsə(r)/ n
 ### 1.*高义频：* **生产者；制片人**  
 
 
-# ***<font color=#0099ff>\*product</font>*** n
+# ***\*product*** n
 英音 'prɒdʌkt     美音 'prɑːdʌkt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -9351,7 +9351,7 @@ producer /prə'djuːsə(r)/ n
 ---
 productive /prə'dʌktɪv/ adj   
 
-# ***<font color=#0099ff>\*production</font>*** n
+# ***\*production*** n
 英音 prə'dʌkʃn     美音 prə'dʌkʃn  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -9379,7 +9379,7 @@ productive /prə'dʌktɪv/ adj
  > (应征者) 必须要有在电台制作音乐的经验，还要有丰富的现代舞曲知识。  （2011 全国）  
 
 
-# ***<font color=#0099ff>\*profession</font>*** n
+# ***\*profession*** n
 英音 prə'feʃn     美音 prə'feʃn  
 
 | 词频 3 | 书面 1 |  
@@ -9398,7 +9398,7 @@ productive /prə'dʌktɪv/ adj
  > 她是她那个行业中的佼佼者。    
 
 
-# ***<font color=#0099ff>\*professional</font>*** adj
+# ***\*professional*** adj
 英音 prə'feʃənl     美音 prə'feʃənl  
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -9414,7 +9414,7 @@ productive /prə'dʌktɪv/ adj
  > 他处理这个问题非常专业。    
 
 
-# ***<font color=#0099ff>\*professional</font>*** n
+# ***\*professional*** n
 英音 prə'feʃənl     美音 prə'feʃənl  
 
 | 词频 4 | 书面 1 | 阅读 3 |  
@@ -9430,7 +9430,7 @@ productive /prə'dʌktɪv/ adj
  > 对医疗保健专业人员的需求将会上升。  （外研⑤ – 2）  
 
 
-# ***<font color=#0099ff>\*professor</font>*** n
+# ***\*professor*** n
 英音 prə'fesə(r)     美音 prə'fesər  
 
 | 词频 5 | 口语 1 | 书面 1 |  
@@ -9446,7 +9446,7 @@ productive /prə'dʌktɪv/ adj
 
 Notes: 用作称呼时，可略写作Prof.。  
 
-# ***<font color=#0099ff>\*profile</font>*** n
+# ***\*profile*** n
 英音 'prəʊfaɪl     美音 'proʊfaɪl  
 
 | 词频 1 |  
@@ -9456,7 +9456,7 @@ Notes: 用作称呼时，可略写作Prof.。
 ### 1.**[C]侧面 (像)；外形；轮 廓；简介；概况**  
 
 
-# ***<font color=#0099ff>\*profit</font>*** n
+# ***\*profit*** n
 英音 'prɒfɪt     美音 'prɑːfɪt  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -9479,7 +9479,7 @@ Notes: 用作称呼时，可略写作Prof.。
  > 我读完这本书后受益匪浅。    
 
 
-# ***<font color=#0099ff>\*profit</font>*** v
+# ***\*profit*** v
 英音 'prɒfɪt     美音 'prɑːfɪt  
 
 | 词频 4 |  
@@ -9502,7 +9502,7 @@ Notes: 用作称呼时，可略写作Prof.。
 ---
 profitable /'prɒfɪtəbl/ adj   
 
-# ***<font color=#0099ff>\*profound</font>*** adj
+# ***\*profound*** adj
 英音 prə'faʊnd     美音 prə'faʊnd  
 
 | 词频 1 |  
@@ -9512,7 +9512,7 @@ profitable /'prɒfɪtəbl/ adj
 ### 1.**(影响) 深刻的; 极大的**  
 
 
-# ***<font color=#0099ff>\*profoundly</font>*** adv
+# ***\*profoundly*** adv
 英音 prə'faʊndli     美音 prə'faʊndli  
 
 | 词频 1 |  
@@ -9522,7 +9522,7 @@ profitable /'prɒfɪtəbl/ adj
 ### 1.**深深地，极度地**  
 
 
-# ***<font color=#0099ff>\*program</font>*** n
+# ***\*program*** n
 英音 'prəʊɡræm     美音 'proʊɡræm  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -9558,7 +9558,7 @@ profitable /'prɒfɪtəbl/ adj
 ### 5.*高义频：* **(计算机) 程序**  
 
 
-# ***<font color=#0099ff>\*program</font>*** vt
+# ***\*program*** vt
 英音 'prəʊɡræm     美音 'proʊɡræm  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -9572,7 +9572,7 @@ profitable /'prɒfɪtəbl/ adj
 ---
 programmer /'prəʊɡræmə(r)/ n [C]   
 
-# ***<font color=#0099ff>\*programme</font>*** n
+# ***\*programme*** n
 英音 'prəʊɡræm     美音 'proʊɡræm  
 
 | 词频 5 | 书面 3 |  
@@ -9612,7 +9612,7 @@ programmer /'prəʊɡræmə(r)/ n [C]
  > 微信小程序    
 
 
-# ***<font color=#0099ff>\*programme</font>*** vt
+# ***\*programme*** vt
 英音 'prəʊɡræm     美音 'proʊɡræm  
 
 | 词频 5 |  
@@ -9627,7 +9627,7 @@ programmer /'prəʊɡræmə(r)/ n [C]
 programmer /'prəʊɡræmə(r)/ n [C]  
 programming /'prəʊɡræmɪŋ/ n   
 
-# ***<font color=#0099ff>\*programmer</font>*** n
+# ***\*programmer*** n
 英音 'prəʊɡræmə(r)     美音 'proʊɡræmər  
 
 | 词频 2 |  
@@ -9639,7 +9639,7 @@ programming /'prəʊɡræmɪŋ/ n
 ### 1.*高义频：* **程序员；程序师**  
 
 
-# ***<font color=#0099ff>\*programming</font>*** n
+# ***\*programming*** n
 英音 'prəʊɡræmɪŋ     美音 'proʊɡræmɪŋ  
 
 | 词频 2 |  
@@ -9649,7 +9649,7 @@ programming /'prəʊɡræmɪŋ/ n
 ### 1.**（计算机）编程**  
 
 
-# ***<font color=#0099ff>\*progress</font>*** n
+# ***\*progress*** n
 英音 'prəʊɡres     美音 'prɑːɡres  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -9679,14 +9679,14 @@ programming /'prəʊɡræmɪŋ/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*in progress</font>
+## \*in progress
 1.**[正式用语] 在进行中：**  
 
  > *The building of the bridge is in progress. *  
  > 桥梁正在建设中。    
 
 
-# ***<font color=#0099ff>\*progress</font>*** vi
+# ***\*progress*** vi
 英音 prə'ɡres     美音 prə'ɡres  
 
 | 词频 4 |  
@@ -9699,7 +9699,7 @@ programming /'prəʊɡræmɪŋ/ n
  > 我国的医学正在迅速发展。    
 
 
-# ***<font color=#0099ff>\*progressive</font>*** adj
+# ***\*progressive*** adj
 英音 prə'ɡresɪv     美音 prə'ɡresɪv  
 
 | 词频 2 | 阅读 1 |  
@@ -9717,7 +9717,7 @@ programming /'prəʊɡræmɪŋ/ n
  > 逐渐失忆    
 
 
-# ***<font color=#0099ff>\*prohibit</font>*** vt
+# ***\*prohibit*** vt
 英音 prə'hɪbɪt     美音 prə'hɪbɪt  
 
 | 词频 2 | 阅读 1 |  
@@ -9739,7 +9739,7 @@ programming /'prəʊɡræmɪŋ/ n
 ---
 prohibition /ˌprəʊɪ'bɪʃn/ n   
 
-# ***<font color=#0099ff>\*project</font>*** n
+# ***\*project*** n
 英音 'prɒdʒekt     美音 'prɑːdʒekt  
 
 | 词频 5 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -9769,7 +9769,7 @@ prohibition /ˌprəʊɪ'bɪʃn/ n
  > 我们正在做一个关于污染的科学课题。    
 
 
-# ***<font color=#0099ff>\*project</font>*** vt
+# ***\*project*** vt
 英音 prə'dʒekt     美音 prə'dʒekt  
 
 | 词频 5 | 阅读 3 |  
@@ -9782,7 +9782,7 @@ prohibition /ˌprəʊɪ'bɪʃn/ n
  > 在银幕上放映影片    
 
 
-# ***<font color=#0099ff>\*prolong</font>*** vt
+# ***\*prolong*** vt
 英音 prə'lɒŋ     美音 prə'lɔːŋ  
 
 | 词频 1 |  
@@ -9792,7 +9792,7 @@ prohibition /ˌprəʊɪ'bɪʃn/ n
 ### 1.**延长**  
 
 
-# ***<font color=#0099ff>\*prom</font>*** n
+# ***\*prom*** n
 英音 prɒm     美音 prɑːm  
 
 | 词频 1 |  
@@ -9802,7 +9802,7 @@ prohibition /ˌprəʊɪ'bɪʃn/ n
 ### 1.**（美）（常在学年末举行的）高中生的正式舞会**  
 
 
-# ***<font color=#0099ff>\*promise</font>*** n  重难点词汇
+# ***\*promise*** n  重难点词汇
 英音 'prɒmɪs     美音 'prɑːmɪs  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -9850,7 +9850,7 @@ prohibition /ˌprəʊɪ'bɪʃn/ n
 答案：
 1. to  
 
-# ***<font color=#0099ff>\*promise</font>*** v  重难点词汇
+# ***\*promise*** v  重难点词汇
 英音 'prɒmɪs     美音 'prɑːmɪs  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -9908,7 +9908,7 @@ promising /'prɒmɪsɪŋ/ adj
 答案：
 1. to be  
 
-# ***<font color=#0099ff>\*promote</font>*** vt
+# ***\*promote*** vt
 英音 prə'məʊt     美音 prə'moʊt  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -9942,7 +9942,7 @@ promising /'prɒmɪsɪŋ/ adj
  > 这则广告在推销什么？    
 
 
-# ***<font color=#0099ff>\*promotion</font>*** n
+# ***\*promotion*** n
 英音 prə'məʊʃn     美音 prə'moʊʃn  
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 2 |  
@@ -9955,7 +9955,7 @@ promising /'prɒmɪsɪŋ/ adj
  > 获得晋升    
 
 
-# ***<font color=#0099ff>\*prompt</font>*** adj
+# ***\*prompt*** adj
 英音 prɒmpt     美音 prɑːmpt  
 
 | 词频 1 | 书面 1 |  
@@ -9965,7 +9965,7 @@ promising /'prɒmɪsɪŋ/ adj
 ### 1.*高义频：* **及时的；准时的；迅速的**  
 
 
-# ***<font color=#0099ff>\*pronounce</font>*** vt
+# ***\*pronounce*** vt
 英音 prə'naʊns     美音 prə'naʊns  
 
 | 词频 2 |  
@@ -9978,7 +9978,7 @@ promising /'prɒmɪsɪŋ/ adj
  > 我能读出24个不同的元音。  （人教⑧ – 4）  
 
 
-# ***<font color=#0099ff>\*pronunciation</font>*** n
+# ***\*pronunciation*** n
 英音 prəˌnʌnsi'eɪʃn     美音 prəˌnʌnsi'eɪʃn  
 
 | 词频 2 |  
@@ -9993,7 +9993,7 @@ promising /'prɒmɪsɪŋ/ adj
  > 所有参赛者都应发音标准、英语流利。  （2009 天津书面表达）  
 
 
-# ***<font color=#0099ff>\*proof</font>*** n
+# ***\*proof*** n
 英音 pruːf     美音 pruːf  
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 3 |  
@@ -10008,7 +10008,7 @@ promising /'prɒmɪsɪŋ/ adj
  > 没有证据证明他当时在犯罪现场。    
 
 
-# ***<font color=#0099ff>\*proper</font>*** adj
+# ***\*proper*** adj
 英音 'prɒpə(r)     美音 'prɑːpər  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -10031,7 +10031,7 @@ promising /'prɒmɪsɪŋ/ adj
  > 他的母亲已经把他训练成一个举止得体的年轻人。    
 
 
-# ***<font color=#0099ff>\*properly</font>*** adv
+# ***\*properly*** adv
 英音 'prɒpəli     美音 'prɑːpərli  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -10062,7 +10062,7 @@ promising /'prɒmɪsɪŋ/ adj
 答案：
 1. properly  
 
-# ***<font color=#0099ff>\*property</font>*** n
+# ***\*property*** n
 英音 'prɒpəti     美音 'prɑːpərti  
 
 | 词频 3 | 口语 2 | 书面 3 |  
@@ -10081,7 +10081,7 @@ promising /'prɒmɪsɪŋ/ adj
  > 知识是我们最重要的财产。    
 
 
-# ***<font color=#0099ff>\*proportion</font>*** n
+# ***\*proportion*** n
 英音 prə'pɔːʃn     美音 prə'pɔːrʃn  
 
 | 词频 1 | 口语 2 | 书面 2 | 阅读 1 |  
@@ -10103,11 +10103,11 @@ promising /'prɒmɪsɪŋ/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*out of proportion to</font>
+## \*out of proportion to
 1.**与…不成比例；和…不相称**  
 
 
-# ***<font color=#0099ff>\*proposal</font>*** n
+# ***\*proposal*** n
 英音 prə'pəʊzl     美音 prə'poʊzl  
 
 | 词频 2 | 口语 2 | 书面 3 | 阅读 1 |  
@@ -10128,7 +10128,7 @@ promising /'prɒmɪsɪŋ/ adj
  > 他提议会议延期。    
 
 
-# ***<font color=#0099ff>\*propose</font>*** v  重难点词汇
+# ***\*propose*** v  重难点词汇
 英音 prə'pəʊz     美音 prə'poʊz  
 
 | 词频 2 | 口语 2 | 书面 2 | 阅读 1 |  
@@ -10166,7 +10166,7 @@ promising /'prɒmɪsɪŋ/ adj
  > 我已经向她求婚了。    
 
 
-# ***<font color=#0099ff>\*proposition</font>*** n
+# ***\*proposition*** n
 英音 ˌprɒpə'zɪʃn     美音 ˌprɑːpə'zɪʃn  
 
   
@@ -10176,7 +10176,7 @@ promising /'prɒmɪsɪŋ/ adj
 ### 1.**事业，生意**  
 
 
-# ***<font color=#0099ff>\*prospect</font>*** n
+# ***\*prospect*** n
 英音 'prɒspekt     美音 'prɑːspekt  
 
 | 词频 1 | 口语 2 | 书面 2 |  
@@ -10198,7 +10198,7 @@ promising /'prɒmɪsɪŋ/ adj
 ### 3.*低义频：* **[C] [正式用语] 视野；景色：**  
 
 
-# ***<font color=#0099ff>\*prosperity</font>*** n
+# ***\*prosperity*** n
 英音 prɒ'sperəti     美音 prɑː'sperəti  
 
 | 词频 1 | 阅读 1 |  
@@ -10213,7 +10213,7 @@ promising /'prɒmɪsɪŋ/ adj
  > 和平带来繁荣。    
 
 
-# ***<font color=#0099ff>\*prosperous</font>*** adj
+# ***\*prosperous*** adj
 英音 'prɒspərəs     美音 'prɑːspərəs  
 
 | 词频 1 |  
@@ -10226,7 +10226,7 @@ promising /'prɒmɪsɪŋ/ adj
  > 我们都应该努力使祖国繁荣昌盛。    
 
 
-# ***<font color=#0099ff>\*protect</font>*** v
+# ***\*protect*** v
 英音 prə'tekt     美音 prə'tekt  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -10273,7 +10273,7 @@ protective /prə'tektɪv/ adj
 答案：
 1. protect  
 
-# ***<font color=#0099ff>\*protection</font>*** n
+# ***\*protection*** n
 英音 prə'tekʃn     美音 prə'tekʃn  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -10298,7 +10298,7 @@ protective /prə'tektɪv/ adj
  > 各种防火设施    
 
 
-# ***<font color=#0099ff>\*protective</font>*** adj
+# ***\*protective*** adj
 英音 prə'tektɪv     美音 prə'tektɪv  
 
 | 词频 2 |  
@@ -10308,7 +10308,7 @@ protective /prə'tektɪv/ adj
 ### 1.*高义频：* **给予保护的；保护的**  
 
 
-# ***<font color=#0099ff>\*protein</font>*** n
+# ***\*protein*** n
 英音 'prəʊtiːn     美音 'proʊtiːn  
 
 | 词频 2 | 书面 2 |  
@@ -10320,7 +10320,7 @@ protective /prə'tektɪv/ adj
 ### 1.*高义频：* **蛋白质**  
 
 
-# ***<font color=#0099ff>\*protest</font>*** v
+# ***\*protest*** v
 英音 prə'test     美音 prə'test  
 
 | 词频 2 | 阅读 1 |  
@@ -10337,7 +10337,7 @@ protective /prə'tektɪv/ adj
  > 动物保护主义者反对在非自然条件下养野生动物。    
 
 
-# ***<font color=#0099ff>\*protest</font>*** n
+# ***\*protest*** n
 英音 'prəʊtest     美音 'proʊtest  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -10353,7 +10353,7 @@ protective /prə'tektɪv/ adj
  > 电影导演辞职以抗议此决定。    
 
 
-# ***<font color=#0099ff>\*proud</font>*** adj
+# ***\*proud*** adj
 英音 praʊd     美音 praʊd  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -10398,7 +10398,7 @@ proudly /'praʊdli/ adv
 答案：
 1. proud  
 
-# ***<font color=#0099ff>\*prove</font>*** v  重难点词汇
+# ***\*prove*** v  重难点词汇
 英音 pruːv     美音 pruːv  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -10465,7 +10465,7 @@ Notes: 表示向某人证明某事时应该用prove sth to sb，而不能用prov
 答案：
 1. prove  
 
-# ***<font color=#0099ff>\*proverb</font>*** n
+# ***\*proverb*** n
 英音 'prɒvɜːb     美音 'prɑːvɜːrb  
 
 | 词频 2 |  
@@ -10475,7 +10475,7 @@ Notes: 表示向某人证明某事时应该用prove sth to sb，而不能用prov
 ### 1.**谚语**  
 
 
-# ***<font color=#0099ff>\*provide</font>*** vt  重难点词汇
+# ***\*provide*** vt  重难点词汇
 英音 prə'vaɪd     美音 prə'vaɪd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -10505,7 +10505,7 @@ Notes: 表示向某人证明某事时应该用prove sth to sb，而不能用prov
 
 固定搭配
 ---
-## <font color=#0099ff>\*provide for</font>
+## \*provide for
 1.*低义频：* **抚养；供养：**  
 
  > *She needs her new, busy work to provide for her family.*  
@@ -10528,7 +10528,7 @@ provided /prə'vaɪdɪd/ conj
  > 要是我们5点结束，我就去打网球。  （北师大⑦ – 19）  
 
 
-# ***<font color=#0099ff>\*province</font>*** n
+# ***\*province*** n
 英音 'prɒvɪns     美音 'prɑːvɪns  
 
 | 词频 2 |  
@@ -10544,7 +10544,7 @@ provided /prə'vaɪdɪd/ conj
 ---
 provincial /prə'vɪnʃl/ adj   
 
-# ***<font color=#0099ff>\*psychological</font>*** adj
+# ***\*psychological*** adj
 英音 ˌsaɪkə'lɒdʒɪkl     美音 ˌsaɪkə'lɑːdʒɪkl  
 
 | 词频 3 | 书面 1 | 阅读 3 |  
@@ -10554,7 +10554,7 @@ provincial /prə'vɪnʃl/ adj
 ### 1.*高义频：* **心理 (学) 的**  
 
 
-# ***<font color=#0099ff>\*psychologically</font>*** adv
+# ***\*psychologically*** adv
 英音 ˌsaɪkə'lɒdʒɪkli     美音 ˌsaɪkə'lɒdʒɪkli  
 
 | 词频 2 |  
@@ -10564,7 +10564,7 @@ provincial /prə'vɪnʃl/ adj
 ### 1.*高义频：* **心理 (学) 地；精神上地**  
 
 
-# ***<font color=#0099ff>\*psychologist</font>*** n
+# ***\*psychologist*** n
 英音 saɪ'kɒlədʒɪst     美音 saɪ'kɑːlədʒɪst  
 
 | 词频 4 | 阅读 3 |  
@@ -10576,7 +10576,7 @@ provincial /prə'vɪnʃl/ adj
 ### 1.*高义频：* **心理学家**  
 
 
-# ***<font color=#0099ff>\*psychology</font>*** n
+# ***\*psychology*** n
 英音 saɪ'kɒlədʒi     美音 saɪ'kɑːlədʒi  
 
 | 词频 3 | 书面 1 | 阅读 3 |  
@@ -10588,7 +10588,7 @@ provincial /prə'vɪnʃl/ adj
 ### 1.*高义频：* **心理学**  
 
 
-# ***<font color=#0099ff>\*pub</font>*** n
+# ***\*pub*** n
 英音 pʌb     美音 pʌb  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -10600,7 +10600,7 @@ provincial /prə'vɪnʃl/ adj
 ### 1.*高义频：* **酒馆；客栈；旅店**  
 
 
-# ***<font color=#0099ff>\*public</font>*** adj
+# ***\*public*** adj
 英音 'pʌblɪk     美音 'pʌblɪk  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -10642,7 +10642,7 @@ provincial /prə'vɪnʃl/ adj
  > 一些世界上最重的南瓜在纽约公开展出了几天。  （2012 浙江改）  
 
 
-# ***<font color=#0099ff>\*public</font>*** n
+# ***\*public*** n
 英音 'pʌblɪk     美音 'pʌblɪk  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -10660,7 +10660,7 @@ Notes: the public作主语时，如表示整体，谓语动词用单数形式；
 
 固定搭配
 ---
-## <font color=#0099ff>\*in public</font>
+## \*in public
 1.**当众；公开地【反:in private】：**  
 
  > *Don’t laugh or talk loudly in public. It’s bad manners.*  
@@ -10679,7 +10679,7 @@ publicly /'pʌblɪkli/ adv
 答案：
 1. in  
 
-# ***<font color=#0099ff>\*publication</font>*** n
+# ***\*publication*** n
 英音 ˌpʌblɪ'keɪʃn     美音 ˌpʌblɪ'keɪʃn  
 
 | 词频 3 | 书面 2 |  
@@ -10702,7 +10702,7 @@ publicly /'pʌblɪkli/ adv
  > 考试成绩的公布    
 
 
-# ***<font color=#0099ff>\*publish</font>*** v
+# ***\*publish*** v
 英音 'pʌblɪʃ     美音 'pʌblɪʃ  
 
 | 词频 5 | 口语 1 | 书面 3 |  
@@ -10731,7 +10731,7 @@ publishing /'pʌblɪʃɪŋ/ n [U]
 答案：
 1. published  
 
-# ***<font color=#0099ff>\*publisher</font>*** n
+# ***\*publisher*** n
 英音 'pʌblɪʃə(r)     美音 'pʌblɪʃər  
 
 | 词频 3 | 书面 1 |  
@@ -10743,7 +10743,7 @@ publishing /'pʌblɪʃɪŋ/ n [U]
 ### 1.*高义频：* **出版商**  
 
 
-# ***<font color=#0099ff>\*pudding</font>*** n
+# ***\*pudding*** n
 英音 'pʊdɪŋ     美音 'pʊdɪŋ  
 
 | 词频 1 |  
@@ -10755,7 +10755,7 @@ publishing /'pʌblɪʃɪŋ/ n [U]
 ### 1.*高义频：* **布丁**  
 
 
-# ***<font color=#0099ff>\*pull</font>*** v
+# ***\*pull*** v
 英音 pʊl     美音 pʊl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -10795,13 +10795,13 @@ publishing /'pʌblɪʃɪŋ/ n [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*pull away</font>
+## \*pull away
 1.**驶离；离开：**  
 
  > *The traffic lights went green and I pulled away.*  
  > 交通灯变绿，我开车离开。    
 
-## <font color=#0099ff>\*pull down</font>
+## \*pull down
 1.**把…往下拉；拆毁：**  
 
  > *Pull down your hat so that nobody will recognize you. *  
@@ -10810,19 +10810,19 @@ publishing /'pʌblɪʃɪŋ/ n [U]
  > *The old building has been pulled down for safety reasons.*  
  > 考虑到安全因素，那座旧楼被拆毁了。    
 
-## <font color=#0099ff>\*pull in / into</font>
+## \*pull in / into
 1.**(列车等) 进站；(汽车等) 靠边停下**  
 
-## <font color=#0099ff>\*pull off</font>
+## \*pull off
 1.**把…驶离大路；成功完成**  
 
-## <font color=#0099ff>\*pull on</font>
+## \*pull on
 1.**穿；戴 (袜子、手套等)：**  
 
  > *Pull on gloves when you go out.*  
  > 外出时戴上手套。    
 
-## <font color=#0099ff>\*pull out</font>
+## \*pull out
 1.*高义频：* **拉出；拿出：**  
 
  > *He pulled out a mobile phone and made a call.*  
@@ -10840,26 +10840,26 @@ publishing /'pʌblɪʃɪŋ/ n [U]
  > *Most of the troops have been pulled out.*  
  > 大部分军队已撤离。    
 
-## <font color=#0099ff>\*pull over</font>
+## \*pull over
 1.**(使) 停靠在路边**  
 
-## <font color=#0099ff>\*pull through</font>
+## \*pull through
 1.**(使) 恢复健康；(使) 渡过难关：**  
 
  > *The doctor said I was not going to pull through.*  
  > 医生说我无法康复了。  （北师大① – 2）  
 
-## <font color=#0099ff>\*pull together</font>
+## \*pull together
 1.**组合；整顿；同心协力**  
 
-## <font color=#0099ff>\*pull up</font>
+## \*pull up
 1.**(使) (车等) 停下：**  
 
  > *A car pulled up behind me.*  
  > 一辆车停在我后面。    
 
 
-# ***<font color=#0099ff>\*pull</font>*** n
+# ***\*pull*** n
 英音 pʊl     美音 pʊl  
 
 | 词频 5 |  
@@ -10878,7 +10878,7 @@ publishing /'pʌblɪʃɪŋ/ n [U]
  > 我一分钟能做十个引体向上。    
 
 
-# ***<font color=#0099ff>\*pulse</font>*** n
+# ***\*pulse*** n
 英音 pʌls     美音 pʌls  
 
 | 词频 1 |  
@@ -10894,7 +10894,7 @@ publishing /'pʌblɪʃɪŋ/ n [U]
  > 测某人的脉搏    
 
 
-# ***<font color=#0099ff>\*pulse</font>*** vi
+# ***\*pulse*** vi
 英音 pʌls     美音 pʌls  
 
 | 词频 1 |  
@@ -10904,7 +10904,7 @@ publishing /'pʌblɪʃɪŋ/ n [U]
 ### 1.**强烈而有规律地跳动；搏动**  
 
 
-# ***<font color=#0099ff>\*pump</font>*** n
+# ***\*pump*** n
 英音 pʌmp     美音 pʌmp  
 
 | 词频 2 | 口语 1 |  
@@ -10916,7 +10916,7 @@ publishing /'pʌblɪʃɪŋ/ n [U]
 ### 1.*高义频：* **泵；抽水机；打气筒**  
 
 
-# ***<font color=#0099ff>\*pump</font>*** vt
+# ***\*pump*** vt
 英音 pʌmp     美音 pʌmp  
 
 | 词频 2 |  
@@ -10929,7 +10929,7 @@ publishing /'pʌblɪʃɪŋ/ n [U]
  > 从井里抽水。    
 
 
-# ***<font color=#0099ff>\*punchline</font>*** n
+# ***\*punchline*** n
 英音 'pʌntʃlaɪn     美音 'pʌntʃlaɪn  
 
 | 词频 1 |  
@@ -10941,7 +10941,7 @@ publishing /'pʌblɪʃɪŋ/ n [U]
 ### 1.*高义频：* **故事、笑话等中的妙语；关键语**  
 
 
-# ***<font color=#0099ff>\*punctual</font>*** adj
+# ***\*punctual*** adj
 英音 'pʌŋktʃuəl     美音 'pʌŋktʃuəl  
 
 | 词频 1 |  
@@ -10954,7 +10954,7 @@ publishing /'pʌblɪʃɪŋ/ n [U]
  > 按时到校上课是最基本的要求，任何人都不允许迟到。  （外研⑦ – 2）  
 
 
-# ***<font color=#0099ff>\*punctuation</font>*** n
+# ***\*punctuation*** n
 英音 ˌpʌŋktʃu'eɪʃn     美音 ˌpʌŋktʃu'eɪʃn  
 
 | 词频 1 |  
@@ -10966,7 +10966,7 @@ publishing /'pʌblɪʃɪŋ/ n [U]
 ### 1.*高义频：* **标点法；标点符号**  
 
 
-# ***<font color=#0099ff>\*punish</font>*** vt
+# ***\*punish*** vt
 英音 'pʌnɪʃ     美音 'pʌnɪʃ  
 
 | 词频 3 |  
@@ -10984,7 +10984,7 @@ publishing /'pʌblɪʃɪŋ/ n [U]
  > 这些学生因为考试作弊而受到惩罚。    
 
 
-# ***<font color=#0099ff>\*punishment</font>*** n
+# ***\*punishment*** n
 英音 'pʌnɪʃmənt     美音 'pʌnɪʃmənt  
 
 | 词频 2 | 书面 1 |  
@@ -11003,7 +11003,7 @@ publishing /'pʌblɪʃɪŋ/ n [U]
  > 逃避惩罚    
 
 
-# ***<font color=#0099ff>\*pupil</font>*** n
+# ***\*pupil*** n
 英音 'pjuːpl     美音 'pjuːpl  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -11018,7 +11018,7 @@ publishing /'pʌblɪʃɪŋ/ n [U]
  > 我们看见好东西时，瞳孔会放大。  （2011 上海）  
 
 
-# ***<font color=#0099ff>\*purchase</font>*** vt
+# ***\*purchase*** vt
 英音 'pɜːtʃəs     美音 'pɜːrtʃəs  
 
 | 词频 4 | 书面 1 | 阅读 3 |  
@@ -11037,7 +11037,7 @@ publishing /'pʌblɪʃɪŋ/ n [U]
  > 他们以鲜血换得了自由。    
 
 
-# ***<font color=#0099ff>\*purchase</font>*** n
+# ***\*purchase*** n
 英音 'pɜːtʃəs     美音 'pɜːrtʃəs  
 
 | 词频 4 | 书面 1 | 阅读 3 |  
@@ -11055,7 +11055,7 @@ publishing /'pʌblɪʃɪŋ/ n [U]
  > 这个买得真值啊！    
 
 
-# ***<font color=#0099ff>\*pure</font>*** adj
+# ***\*pure*** adj
 英音 pjʊə(r)     美音 pjʊr  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -11095,7 +11095,7 @@ purely /'pjʊəli/ adv
 答案：
 1. pure  
 
-# ***<font color=#0099ff>\*purely</font>*** adv
+# ***\*purely*** adv
 英音 'pjʊəli     美音 'pjʊrli  
 
 | 词频 2 |  
@@ -11105,7 +11105,7 @@ purely /'pjʊəli/ adv
 ### 1.**完全地, 仅仅**  
 
 
-# ***<font color=#0099ff>\*purify</font>*** v
+# ***\*purify*** v
 英音 'pjʊərɪfaɪ     
 
   
@@ -11115,7 +11115,7 @@ purely /'pjʊəli/ adv
 ### 1.**（使）净化；（使）精炼；涤罪**  
 
 
-# ***<font color=#0099ff>\*purple</font>*** adj
+# ***\*purple*** adj
 英音 'pɜːpl     美音 'pɜːrpl  
 
 | 词频 2 | 书面 1 |  
@@ -11125,7 +11125,7 @@ purely /'pjʊəli/ adv
 ### 1.*高义频：* **紫的；紫红的**  
 
 
-# ***<font color=#0099ff>\*purple</font>*** n
+# ***\*purple*** n
 英音 'pɜːpl     美音 'pɜːrpl  
 
 | 词频 2 |  
@@ -11137,7 +11137,7 @@ purely /'pjʊəli/ adv
 ### 1.*高义频：* **紫色；紫红色**  
 
 
-# ***<font color=#0099ff>\*purpose</font>*** n  重难点词汇
+# ***\*purpose*** n  重难点词汇
 英音 'pɜːpəs     美音 'pɜːrpəs  
 
 | 词频 5 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -11185,7 +11185,7 @@ purely /'pjʊəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*on purpose</font>
+## \*on purpose
 1.**故意地；有意地 (deliberately)**  
 反义词 by accident： 
 
@@ -11198,7 +11198,7 @@ purely /'pjʊəli/ adv
 purposeful /'pɜːpəsfl/ adj   
 purposely /'pɜːpəsli/ adv   
 
-# ***<font color=#0099ff>\*purposely</font>*** adv
+# ***\*purposely*** adv
 英音 'pɜːpəsli     美音 'pɜːrpəsli  
 
   
@@ -11208,7 +11208,7 @@ purposely /'pɜːpəsli/ adv
 ### 1.**故意地**  
 
 
-# ***<font color=#0099ff>\*purse</font>*** n
+# ***\*purse*** n
 英音 pɜːs     美音 pɜːrs  
 
 | 词频 3 | 口语 1 |  
@@ -11220,7 +11220,7 @@ purposely /'pɜːpəsli/ adv
 ### 1.*高义频：* **钱包；(女用) 手提小包**  
 
 
-# ***<font color=#0099ff>\*pursue</font>*** vt
+# ***\*pursue*** vt
 英音 pə'sjuː     美音 pər'suː  
 
 | 词频 1 | 口语 1 | 书面 2 |  
@@ -11245,7 +11245,7 @@ purposely /'pɜːpəsli/ adv
  > 追小偷    
 
 
-# ***<font color=#0099ff>\*push</font>*** v
+# ***\*push*** v
 英音 pʊʃ     美音 pʊʃ  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -11294,7 +11294,7 @@ purposely /'pɜːpəsli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*push aside</font>
+## \*push aside
 1.**推开；排挤；设法忘掉：**  
 
  > *Just when she was about to speak, a student rushed in and pushed her aside!*  
@@ -11303,13 +11303,13 @@ purposely /'pɜːpəsli/ adv
  > *She pushed aside her anger, forcing herself to focus on her work. *  
  > 她抛开愤怒，强迫自己专心工作。    
 
-## <font color=#0099ff>\*push on </font>
+## \*push on 
 1.**继续前进；继续 (做某事)：**  
 
  > *Let’s push on; it’s nearly nightfall.*  
  > 咱们继续走吧，天快黑了。    
 
-## <font color=#0099ff>\*push over </font>
+## \*push over 
 1.**推倒；(风) 刮倒：**  
 
  > *The big tree was pushed over by the wind. *  
@@ -11323,7 +11323,7 @@ purposely /'pɜːpəsli/ adv
 答案：
 1. push  
 
-# ***<font color=#0099ff>\*push</font>*** n
+# ***\*push*** n
 英音 pʊʃ     美音 pʊʃ  
 
 | 词频 4 |  
@@ -11346,7 +11346,7 @@ purposely /'pɜːpəsli/ adv
  > 做俯卧撑    
 
 
-# ***<font color=#0099ff>\*push-up</font>*** n
+# ***\*push-up*** n
 
 
 | 词频 1 |  
@@ -11356,7 +11356,7 @@ purposely /'pɜːpəsli/ adv
 ### 1.**（especially  NAmE）俯卧撑**  
 
 
-# ***<font color=#0099ff>\*put</font>*** vt
+# ***\*put*** vt
 英音 pʊt     美音 pʊt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -11427,7 +11427,7 @@ purposely /'pɜːpəsli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*put aside</font>
+## \*put aside
 1.*低义频：* **把...放在一边；把...撇开不理：**  
 
  > *She put the newspaper aside and stood up. *  
@@ -11441,7 +11441,7 @@ purposely /'pɜːpəsli/ adv
  > *They put some money aside every month for their retirement. *  
  > 他们每月都存些钱供退休后用。    
 
-## <font color=#0099ff>\*put away</font>
+## \*put away
 1.*高义频：* **把...收起；放好：**  
 
  > *Kids — will you put away your toys now? *  
@@ -11457,7 +11457,7 @@ purposely /'pɜːpəsli/ adv
  > *Put your worries away and enjoy life. *  
  > 别再担心了，好好享受人生吧！    
 
-## <font color=#0099ff>\*put back</font>
+## \*put back
 1.*高义频：* **把...放回原处；使...恢复原状：**  
 
  > *Please put back the books and magazines when you’ve finished with them. *  
@@ -11468,7 +11468,7 @@ purposely /'pɜːpəsli/ adv
  > *Because of the bad weather, the voyage was put back twelve hours. *  
  > 由于天气恶劣，起航推迟了12个小时。    
 
-## <font color=#0099ff>\*put down</font>
+## \*put down
 1.*高义频：* **放下：**  
 
  > *Once I started reading the mystery novel, I just couldn’t put it down.*  
@@ -11484,7 +11484,7 @@ purposely /'pɜːpəsli/ adv
 
 3.*低义频：* **付 (订金)；批评**  
 
-## <font color=#0099ff>\*put forward </font>
+## \*put forward 
 1.**把…提前；提出 ; 推荐 :**  
 
  > *We have put forward the wedding by two weeks. *  
@@ -11493,7 +11493,7 @@ purposely /'pɜːpəsli/ adv
  > *Who put forward a theory about black holes? *  
  > 谁提出了黑洞理论？  （人教⑤ – 1）  
 
-## <font color=#0099ff>\*put in</font>
+## \*put in
 1.*低义频：* **插入 (意见、话语等)；投入 (时间、金钱等)：**  
 
  > *Holly is always putting in her unwanted opinions.*  
@@ -11515,7 +11515,7 @@ purposely /'pɜːpəsli/ adv
  > *She has put in 15 tomato plants, and five rows of a variety of vegetables. *  
  > 她种了15株西红柿和5垅各色蔬菜。  （2011 全国）  
 
-## <font color=#0099ff>\*put into </font>
+## \*put into 
 1.**把…投入；(使) 进入… (状态)；把…翻译成：**  
 
  > *Nothing is difficult in the world if you put your heart into it. *  
@@ -11528,7 +11528,7 @@ purposely /'pɜːpəsli/ adv
  > *Put this sentence into English.*  
  > 把这个句子译成英语。    
 
-## <font color=#0099ff>\*put off</font>
+## \*put off
 1.*高义频：* **延期；推迟 (delay / postpone)：**  
 
  > *She called this afternoon to put off the meeting to next week. *  
@@ -11549,7 +11549,7 @@ purposely /'pɜːpəsli/ adv
  > *Don’t let your failures put you off trying harder.*  
  > 别因为失败你就不再进一步努力了。    
 
-## <font color=#0099ff>\*put on</font>
+## \*put on
 1.*高义频：* **穿上；戴上【反:take off】；抹：**  
 
  > *Remember to put on more clothes to keep warm. *  
@@ -11591,7 +11591,7 @@ purposely /'pɜːpəsli/ adv
  > *He put the blame for his failure on me. *  
  > 他把自己的失败归咎于我。    
 
-## <font color=#0099ff>\*put out</font>
+## \*put out
 1.*高义频：* **把...拿出去：**  
 
  > *put the rubbish / garbage out *  
@@ -11623,7 +11623,7 @@ purposely /'pɜːpəsli/ adv
 #### 辨析 go out, put out
 二者都和“熄灭”有关。  
 
-## <font color=#0099ff>\*put through</font>
+## \*put through
 1.*低义频：* **使经受 (困难或令人不悦的事情)：**  
 
  > *I told myself I would not put my mom through that pain again. *  
@@ -11639,13 +11639,13 @@ purposely /'pɜːpəsli/ adv
  > *Could you put me through to the manager, please?*  
  > 请帮我接通经理的电话，好吗？    
 
-## <font color=#0099ff>\*put together </font>
+## \*put together 
 1.**组装；组建；拼凑出：**  
 
  > *It took us all morning to put the proposal together.*  
  > 我们花了一上午的时间整理出这份建议。    
 
-## <font color=#0099ff>\*put up</font>
+## \*put up
 1.*高义频：* **举起；抬起；提高：**  
 
  > *Put up your hands if you have any questions.*  
@@ -11672,7 +11672,7 @@ purposely /'pɜːpəsli/ adv
  > *I was hoping Kenny could put me up for a few days.*  
  > 我希望肯尼能让我留宿几天。    
 
-## <font color=#0099ff>\*put up with </font>
+## \*put up with 
 1.**忍受；容忍 (tolerate)：**  
 
  > *I can’t put up with their smoking any longer. *  
@@ -11704,7 +11704,7 @@ D.means
 答案：
 1. in  2. down  3. up  4. with  5. D  6. away  7. C  8. away  
 
-# ***<font color=#0099ff>\*puzzle</font>*** n
+# ***\*puzzle*** n
 英音 'pʌzl     美音 'pʌzl  
 
 | 词频 4 |  
@@ -11719,7 +11719,7 @@ D.means
  > 蒙娜丽莎为什么微笑仍然是个谜。    
 
 
-# ***<font color=#0099ff>\*puzzle</font>*** vt
+# ***\*puzzle*** vt
 英音 'pʌzl     美音 'pʌzl  
 
 | 词频 4 |  
@@ -11734,11 +11734,11 @@ D.means
 
 固定搭配
 ---
-## <font color=#0099ff>\*puzzle over / about</font>
+## \*puzzle over / about
 1.**苦苦思索；仔细琢磨**  
 
 
-# ***<font color=#0099ff>\*puzzled</font>*** adj
+# ***\*puzzled*** adj
 英音 'pʌzld     美音 'pʌzld  
 
 | 词频 3 |  
@@ -11751,7 +11751,7 @@ D.means
  > 她看上去很困惑，所以我把问题重复了一遍。    
 
 
-# ***<font color=#0099ff>\*puzzling</font>*** adj
+# ***\*puzzling*** adj
 英音 'pʌzlɪŋ     美音 'pʌzlɪŋ  
 
 | 词频 1 |  
@@ -11764,7 +11764,7 @@ D.means
  > 令人疑惑的问题    
 
 
-# ***<font color=#0099ff>\*pyramid</font>*** n
+# ***\*pyramid*** n
 英音 'pɪrəmɪd     美音 'pɪrəmɪd  
 
 | 词频 2 |  

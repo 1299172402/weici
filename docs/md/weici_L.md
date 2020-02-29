@@ -1,6 +1,6 @@
 # Ll
 
-# ***<font color=#0099ff>\*lab</font>*** n
+# ***\*lab*** n
 英音 læb     美音 læb  
 
 | 词频 4 | 口语 1 |  
@@ -15,7 +15,7 @@
  > 他们不仅在实验室里工作，还要出去进行实地考察。    
 
 
-# ***<font color=#0099ff>\*label</font>*** vt
+# ***\*label*** vt
 英音 'leɪbl     美音 'leɪbl  
 
 | 词频 2 | 阅读 2 |  
@@ -28,7 +28,7 @@
  > 这份文件上标明“绝密”。    
 
 
-# ***<font color=#0099ff>\*label</font>*** n
+# ***\*label*** n
 英音 'leɪbl     美音 'leɪbl  
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 2 |  
@@ -43,7 +43,7 @@
  > 在箱子上贴标签    
 
 
-# ***<font color=#0099ff>\*labor</font>*** n
+# ***\*labor*** n
 英音 'leɪbə(r)     美音 'leɪbər  
 
 | 词频 4 | 阅读 3 |  
@@ -72,7 +72,7 @@
  > 我的劳动成果    
 
 
-# ***<font color=#0099ff>\*labor</font>*** vi
+# ***\*labor*** vi
 英音 'leɪbə(r)     美音 'leɪbər  
 
 | 词频 4 | 阅读 3 |  
@@ -85,7 +85,7 @@
  > 两万多名工人苦干了近22年才完成泰姬陵。    
 
 
-# ***<font color=#0099ff>\*laboratory</font>*** n
+# ***\*laboratory*** n
 英音 lə'bɒrətri     美音 'læbrətɔːri  
 
 | 词频 4 | 书面 1 |  
@@ -100,7 +100,7 @@
  > 他们不仅在实验室里工作，还要出去进行实地考察。    
 
 
-# ***<font color=#0099ff>\*labour</font>*** n
+# ***\*labour*** n
 英音 'leɪbə(r)     美音 'leɪbər  
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -128,7 +128,7 @@
  > 我的劳动成果    
 
 
-# ***<font color=#0099ff>\*labour</font>*** vi
+# ***\*labour*** vi
 英音 'leɪbə(r)     美音 'leɪbər  
 
 | 词频 4 | 口语 1 | 书面 3 | 阅读 3 |  
@@ -141,7 +141,7 @@
  > 两万多名工人苦干了近22年才完成这项建筑。    
 
 
-# ***<font color=#0099ff>\*lace</font>*** n
+# ***\*lace*** n
 英音 leɪs     美音 leɪs  
 
 | 词频 1 |  
@@ -153,7 +153,7 @@
 ### 1.*高义频：* **饰带；花边；鞋带**  
 
 
-# ***<font color=#0099ff>\*lack</font>*** v  重难点词汇
+# ***\*lack*** v  重难点词汇
 英音 læk     美音 læk  
 
 | 词频 4 | 书面 1 |  
@@ -171,7 +171,7 @@
 
 固定搭配
 ---
-## <font color=#0099ff>\*lack (for) nothing </font>
+## \*lack (for) nothing 
 1.**[正式用语] 什么也不缺：**  
 
  > *As he is very rich he lacks for nothing. *  
@@ -181,7 +181,7 @@
 派生词汇
 ---
 lacking /'lækɪŋ/ adj   
-## <font color=#0099ff>\*be lacking in sth</font>
+## \*be lacking in sth
 1.**缺少某物**  
 
 
@@ -192,7 +192,7 @@ lacking /'lækɪŋ/ adj
 答案：
 1. 去掉 of  
 
-# ***<font color=#0099ff>\*lack</font>*** n  重难点词汇
+# ***\*lack*** n  重难点词汇
 英音 læk     美音 læk  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -212,7 +212,7 @@ lacking /'lækɪŋ/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*for lack of </font>
+## \*for lack of 
 1.**因缺少：**  
 
  > *The tour was cancelled for lack of bookings. *  
@@ -230,7 +230,7 @@ lacking /'lækɪŋ/ adj
 答案：
 1. for lack of  2. a lack of  
 
-# ***<font color=#0099ff>\*ladder</font>*** n
+# ***\*ladder*** n
 英音 'lædə(r)     美音 'lædər  
 
 | 词频 1 | 口语 1 |  
@@ -245,7 +245,7 @@ lacking /'lækɪŋ/ adj
  > 成功的阶梯    
 
 
-# ***<font color=#0099ff>\*lady</font>*** n
+# ***\*lady*** n
 英音 'leɪdi     美音 'leɪdi  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -257,7 +257,7 @@ lacking /'lækɪŋ/ adj
 ### 1.*高义频：* **女士；夫人；小姐；贵妇人**  
 
 
-# ***<font color=#0099ff>\*lake</font>*** n
+# ***\*lake*** n
 英音 leɪk     美音 leɪk  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -269,7 +269,7 @@ lacking /'lækɪŋ/ adj
 ### 1.*高义频：* **湖**  
 
 
-# ***<font color=#0099ff>\*lamb</font>*** n
+# ***\*lamb*** n
 英音 læm     美音 læm  
 
 | 词频 1 | 口语 1 |  
@@ -279,7 +279,7 @@ lacking /'lækɪŋ/ adj
 ### 1.*低义频：* **[C] 羔羊；小羊；[U] 羔羊肉**  
 
 
-# ***<font color=#0099ff>\*lame</font>*** adj
+# ***\*lame*** adj
 英音 leɪm     美音 leɪm  
 
 | 词频 1 |  
@@ -289,7 +289,7 @@ lacking /'lækɪŋ/ adj
 ### 1.*高义频：* **跛的；瘸的**  
 
 
-# ***<font color=#0099ff>\*lamp</font>*** n
+# ***\*lamp*** n
 英音 læmp     美音 læmp  
 
 | 词频 2 | 口语 1 |  
@@ -304,7 +304,7 @@ lacking /'lækɪŋ/ adj
  > 台灯／工作台灯    
 
 
-# ***<font color=#0099ff>\*land</font>*** n
+# ***\*land*** n
 英音 lænd     美音 lænd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -327,7 +327,7 @@ lacking /'lækɪŋ/ adj
  > 他们梦想到国外旅游。    
 
 
-# ***<font color=#0099ff>\*land</font>*** v
+# ***\*land*** v
 英音 lænd     美音 lænd  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -368,11 +368,11 @@ lacking /'lækɪŋ/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*land (sb) in</font>
+## \*land (sb) in
 1.**使 (某人) 陷入 (困境)**  
 
 
-# ***<font color=#0099ff>\*landfill</font>*** n
+# ***\*landfill*** n
 英音 'lændfɪl     美音 'lændfɪl  
 
 | 词频 3 |  
@@ -382,7 +382,7 @@ lacking /'lækɪŋ/ adj
 ### 1.**垃圾填埋地**  
 
 
-# ***<font color=#0099ff>\*landlord</font>*** n
+# ***\*landlord*** n
 英音 'lændlɔːd     美音 'lændlɔːrd  
 
 | 词频 2 | 书面 1 |  
@@ -394,7 +394,7 @@ lacking /'lækɪŋ/ adj
 ### 1.**地主；房东；旅店老板 (女房东、旅店老板娘为landlady)**  
 
 
-# ***<font color=#0099ff>\*landmark</font>*** n
+# ***\*landmark*** n
 英音 'lændmɑːk     美音 'lændmɑːrk  
 
 | 词频 2 |  
@@ -404,7 +404,7 @@ lacking /'lækɪŋ/ adj
 ### 1.**标志性建筑**  
 
 
-# ***<font color=#0099ff>\*landmine</font>*** n
+# ***\*landmine*** n
 英音 'lændmaɪn     美音 'lændmaɪn  
 
 | 词频 1 |  
@@ -416,7 +416,7 @@ lacking /'lækɪŋ/ adj
 ### 1.*高义频：* **地雷**  
 
 
-# ***<font color=#0099ff>\*landowner</font>*** n
+# ***\*landowner*** n
 英音 'lændəʊnə(r)     美音 'lændoʊnər  
 
 | 词频 1 |  
@@ -426,7 +426,7 @@ lacking /'lækɪŋ/ adj
 ### 1.**地主,土地拥有者**  
 
 
-# ***<font color=#0099ff>\*landscape</font>*** n
+# ***\*landscape*** n
 英音 'lændskeɪp     美音 'lændskeɪp  
 
 | 词频 3 | 阅读 3 |  
@@ -444,7 +444,7 @@ lacking /'lækɪŋ/ adj
  > 风景画展    
 
 
-# ***<font color=#0099ff>\*landslide</font>*** n
+# ***\*landslide*** n
 英音 'lændslaɪd     美音 'lændslaɪd  
 
 | 词频 1 |  
@@ -454,7 +454,7 @@ lacking /'lækɪŋ/ adj
 ### 1.**(landfall)（山地或悬崖的）崩塌；滑坡**  
 
 
-# ***<font color=#0099ff>\*lane</font>*** n
+# ***\*lane*** n
 英音 leɪn     美音 leɪn  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -472,7 +472,7 @@ lacking /'lækɪŋ/ adj
  > 单/双向车道    
 
 
-# ***<font color=#0099ff>\*language</font>*** n
+# ***\*language*** n
 英音 'læŋɡwɪdʒ     美音 'læŋɡwɪdʒ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -496,7 +496,7 @@ lacking /'lækɪŋ/ adj
  > 掌握一门语言    
 
 
-# ***<font color=#0099ff>\*lantern</font>*** n
+# ***\*lantern*** n
 英音 'læntən     美音 'læntərn  
 
 | 词频 1 |  
@@ -511,7 +511,7 @@ lacking /'lækɪŋ/ adj
  > 元宵节    
 
 
-# ***<font color=#0099ff>\*lap</font>*** n
+# ***\*lap*** n
 英音 læp     美音 læp  
 
 | 词频 2 |  
@@ -532,7 +532,7 @@ lacking /'lækɪŋ/ adj
  > 她跑最后一圈时开始超过其他选手。    
 
 
-# ***<font color=#0099ff>\*laptop</font>*** n
+# ***\*laptop*** n
 英音 'læptɒp     美音 'læptɑːp  
 
 | 词频 2 |  
@@ -544,7 +544,7 @@ lacking /'lækɪŋ/ adj
 ### 1.*高义频：* **笔记本电脑；便携式电脑**  
 
 
-# ***<font color=#0099ff>\*large</font>*** adj
+# ***\*large*** adj
 英音 lɑːdʒ     美音 lɑːrdʒ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -566,7 +566,7 @@ lacking /'lækɪŋ/ adj
 ---
 largely /'lɑːdʒli/ adv   
 
-# ***<font color=#0099ff>\*largely</font>*** adv
+# ***\*largely*** adv
 英音 'lɑːdʒli     美音 'lɑːrdʒli  
 
   
@@ -576,7 +576,7 @@ largely /'lɑːdʒli/ adv
 ### 1.**大部分；主要地**  
 
 
-# ***<font color=#0099ff>\*lass</font>*** n
+# ***\*lass*** n
 英音 læs     美音 læs  
 
 | 词频 1 |  
@@ -586,7 +586,7 @@ largely /'lɑːdʒli/ adv
 ### 1.**<方言>女孩，少女**  
 
 
-# ***<font color=#0099ff>\*last</font>*** adj  重难点词汇
+# ***\*last*** adj  重难点词汇
 英音 lɑːst     美音 læst  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -622,7 +622,7 @@ largely /'lɑːdʒli/ adv
  > 在这个世界上他最不想接受帮助的人是我。  （2016 全国改）  
 
 
-# ***<font color=#0099ff>\*last</font>*** adv  重难点词汇
+# ***\*last*** adv  重难点词汇
 英音 lɑːst     美音 læst  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -645,14 +645,14 @@ largely /'lɑːdʒli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*last but not least </font>
+## \*last but not least 
 1.**最后但同样重要的：**  
 
  > *Last but not least, we should make good use of water in our daily life.*  
  > 最后但同样重要的是，我们日常生活中应该充分利用水。  （2010 福建书面表达改）  
 
 
-# ***<font color=#0099ff>\*last</font>*** n  重难点词汇
+# ***\*last*** n  重难点词汇
 英音 lɑːst     美音 læst  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -668,7 +668,7 @@ largely /'lɑːdʒli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*at last </font>
+## \*at last 
 1.**最终；终于 (finally)：**  
 
  > *Diana at last achieved her original goal. *  
@@ -680,14 +680,14 @@ largely /'lɑːdʒli/ adv
 #### 辨析 finally, eventually, in the end, at last, lastly  
 五者都有“最后”之意。  
 
-## <font color=#0099ff>\*to / till the last </font>
+## \*to / till the last 
 1.**直到最后：**  
 
  > *They fought to the last. *  
  > 他们战斗到最后一刻。    
 
 
-# ***<font color=#0099ff>\*last</font>*** v  重难点词汇
+# ***\*last*** v  重难点词汇
 英音 lɑːst     美音 læst  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -740,7 +740,7 @@ lastly /'læstli/ adv
 答案：
 1. lasted  
 
-# ***<font color=#0099ff>\*late</font>*** adv
+# ***\*late*** adv
 英音 leɪt     美音 leɪt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -762,7 +762,7 @@ lastly /'læstli/ adv
  > 在有些欧洲国家，赴宴迟到是很不礼貌的。  （外研⑧ – 3）  
 
 
-# ***<font color=#0099ff>\*late</font>*** adj
+# ***\*late*** adj
 英音 leɪt     美音 leɪt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -785,14 +785,14 @@ lastly /'læstli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*be too late </font>
+## \*be too late 
 1.**为时已晚；已失时机：**  
 
  > *By the time he realizes he has walked into a trap, it'll be too late for him to do anything about it.*  
  > 等他意识到自己已落入圈套时，那就做什么都来不及了。  （2008 山东）  
 
 
-# ***<font color=#0099ff>\*lately</font>*** adv
+# ***\*lately*** adv
 英音 'leɪtli     美音 'leɪtli  
 
 | 词频 3 |  
@@ -805,7 +805,7 @@ lastly /'læstli/ adv
  > 嗨，约翰。我近来很少听到你的消息。  （译林② – 1）  
 
 
-# ***<font color=#0099ff>\*later</font>*** adj
+# ***\*later*** adj
 英音 'leɪtə(r)     美音 'leɪtər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -829,7 +829,7 @@ lastly /'læstli/ adv
 答案：
 1. late → later  
 
-# ***<font color=#0099ff>\*later</font>*** adv
+# ***\*later*** adv
 英音 'leɪtə(r)     美音 'leɪtər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -850,14 +850,14 @@ lastly /'læstli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*later on </font>
+## \*later on 
 1.**以后；过后：**  
 
  > *Later on he realized his mistake. *  
  > 后来他认识到了自己的错误。    
 
 
-# ***<font color=#0099ff>\*latest</font>*** n
+# ***\*latest*** n
 英音 'leɪtɪst     美音 'leɪtɪst  
 
 | 词频 4 |  
@@ -866,7 +866,7 @@ lastly /'læstli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*the latest</font>
+## \*the latest
 1.**最新事物；最新消息：**  
 
  > *This machine is the latest in video recorder technology.*  
@@ -875,14 +875,14 @@ lastly /'læstli/ adv
  > *Have you heard the latest? *  
  > 你听到最新消息了吗？    
 
-## <font color=#0099ff>\*at the latest </font>
+## \*at the latest 
 1.**最晚；最迟：**  
 
  > *I shall be back by five o'clock at the latest.*  
  > 我最晚5点回来。    
 
 
-# ***<font color=#0099ff>\*latest</font>*** adj
+# ***\*latest*** adj
 英音 'leɪtɪst     美音 'leɪtɪst  
 
 | 词频 4 |  
@@ -895,7 +895,7 @@ lastly /'læstli/ adv
  > 我们想知道学校最近发生的所有事情。  （ 北师大④ – 1）  
 
 
-# ***<font color=#0099ff>\*latitude</font>*** n
+# ***\*latitude*** n
 英音 'lætɪtjuːd     美音 'lætɪtuːd  
 
 | 词频 1 |  
@@ -905,7 +905,7 @@ lastly /'læstli/ adv
 ### 1.**纬度**  
 
 
-# ***<font color=#0099ff>\*latter</font>*** adj
+# ***\*latter*** adj
 英音 'lætə(r)     美音 'lætər  
 
 | 词频 2 |  
@@ -918,7 +918,7 @@ lastly /'læstli/ adv
  > 听巴里讲述故事的后半部分。  （人教⑦ – 1）  
 
 
-# ***<font color=#0099ff>\*latter</font>*** n
+# ***\*latter*** n
 英音 'lætə(r)     美音 'lætər  
 
 | 词频 2 | 书面 2 |  
@@ -933,14 +933,14 @@ lastly /'læstli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*the former ... the latter </font>
+## \*the former ... the latter 
 1.**前者…后者：**  
 
  > *John and James are brothers. The former is a teacher; the latter is an engineer. *  
  > 约翰和詹姆斯是兄弟，前者是老师，后者是工程师。    
 
 
-# ***<font color=#0099ff>\*laugh</font>*** v
+# ***\*laugh*** v
 英音 lɑːf     美音 læf  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -966,14 +966,14 @@ lastly /'læstli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*laugh at</font>
+## \*laugh at
 1.**嘲笑：**  
 
  > *She laughed at me and said that I was not grown-up enough. *  
  > 她笑话我，说我不够成熟。  （人教⑥ – 3）  
 
 
-# ***<font color=#0099ff>\*laugh</font>*** n
+# ***\*laugh*** n
 英音 lɑːf     美音 læf  
 
 | 词频 5 | 口语 1 |  
@@ -991,11 +991,11 @@ lastly /'læstli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*have the last laugh </font>
+## \*have the last laugh 
 1.**笑到最后；取得最后的成功**  
 
 
-# ***<font color=#0099ff>\*laughter</font>*** n
+# ***\*laughter*** n
 英音 'lɑːftə(r)     美音 'læftər  
 
 | 词频 3 |  
@@ -1015,11 +1015,11 @@ lastly /'læstli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*burst into laughter </font>
+## \*burst into laughter 
 1.**突然大笑起来**  
 
 
-# ***<font color=#0099ff>\*launch</font>*** vt  重难点词汇
+# ***\*launch*** vt  重难点词汇
 英音 lɔːntʃ     美音 lɔːntʃ  
 
 | 词频 3 | 书面 2 | 阅读 2 |  
@@ -1057,7 +1057,7 @@ lastly /'læstli/ adv
  > 他们为发行这本新书特意开了一次招待会。    
 
 
-# ***<font color=#0099ff>\*launch</font>*** n  重难点词汇
+# ***\*launch*** n  重难点词汇
 英音 lɔːntʃ     美音 lɔːntʃ  
 
 | 词频 3 | 阅读 2 |  
@@ -1070,7 +1070,7 @@ lastly /'læstli/ adv
  > 首颗人造卫星的发射  （译林② – 1）  
 
 
-# ***<font color=#0099ff>\*laundry</font>*** n
+# ***\*laundry*** n
 英音 'lɔːndri     美音 'lɔːndri  
 
 | 词频 2 |  
@@ -1089,7 +1089,7 @@ lastly /'læstli/ adv
  > 她洗了衣服，然后挂出去晾干。    
 
 
-# ***<font color=#0099ff>\*lava</font>*** n
+# ***\*lava*** n
 英音 'lɑːvə     美音 'lɑːvə  
 
 | 词频 2 |  
@@ -1101,7 +1101,7 @@ lastly /'læstli/ adv
 ### 1.*高义频：* **(火山喷出的) 熔岩；火山岩**  
 
 
-# ***<font color=#0099ff>\*law</font>*** n
+# ***\*law*** n
 英音 lɔː     美音 lɔː  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1140,7 +1140,7 @@ lastly /'læstli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*law and order</font>
+## \*law and order
 1.**法治**  
 
 
@@ -1148,7 +1148,7 @@ lastly /'læstli/ adv
 ---
 lawful /'lɔːfl/ adj   
 
-# ***<font color=#0099ff>\*lawn</font>*** n
+# ***\*lawn*** n
 英音 lɔːn     美音 lɔːn  
 
 | 词频 1 |  
@@ -1163,7 +1163,7 @@ lawful /'lɔːfl/ adj
  > 勿踏草坪    
 
 
-# ***<font color=#0099ff>\*lawyer</font>*** n
+# ***\*lawyer*** n
 英音 'lɔːjə(r)     美音 'lɔːjər  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -1182,7 +1182,7 @@ lawful /'lɔːfl/ adj
 答案：
 1. lawyer  
 
-# ***<font color=#0099ff>\*lay</font>*** v
+# ***\*lay*** v
 英音 leɪ     美音 leɪ  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -1224,7 +1224,7 @@ lawful /'lɔːfl/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*lay down </font>
+## \*lay down 
 1.**放下；停止使用 (put down)；规定：**  
 
  > *She laid down her books on the table. *  
@@ -1236,7 +1236,7 @@ lawful /'lɔːfl/ adj
  > *I got so angry with my father for laying down the law.*  
  > 我因父亲定了这一规矩而生他的气。  （2017 天津改）  
 
-## <font color=#0099ff>\*lay off </font>
+## \*lay off 
 1.*高义频：* **[非正式用语] 停止使用**  
 英译 to stop using sth：
 
@@ -1249,7 +1249,7 @@ lawful /'lɔːfl/ adj
  > *The factory laid off 50 workers in December.*  
  > 这家工厂在12月份解雇了50名工人。    
 
-## <font color=#0099ff>\*lay out</font>
+## \*lay out
 1.*高义频：* **铺开；展开：**  
 
  > *Over a hundred kinds of tea are laid out in a line on long tables.*  
@@ -1261,7 +1261,7 @@ lawful /'lɔːfl/ adj
  > 展览安排在二层的教室里。  （2010 全国）  
 
 
-# ***<font color=#0099ff>\*layer</font>*** n
+# ***\*layer*** n
 英音 'leɪə(r),'leə(r)     美音 'ler  
 
 | 词频 4 |  
@@ -1273,7 +1273,7 @@ lawful /'lɔːfl/ adj
 ### 1.*高义频：* **层；层次**  
 
 
-# ***<font color=#0099ff>\*lazy</font>*** adj
+# ***\*lazy*** adj
 英音 'leɪzi     美音 'leɪzi  
 
 | 词频 4 | 口语 1 |  
@@ -1291,7 +1291,7 @@ lawful /'lɔːfl/ adj
 lazily /'leɪzɪlɪ/ adv   
 laziness /'leɪzinəs/ n [U]   
 
-# ***<font color=#0099ff>\*lead</font>*** v  重难点词汇
+# ***\*lead*** v  重难点词汇
 英音 liːd     美音 liːd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1354,7 +1354,7 @@ laziness /'leɪzinəs/ n [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*lead up to</font>
+## \*lead up to
 1.**是…的先导；是导致…的原因：**  
 
  > *the events leading up to the strike *  
@@ -1368,7 +1368,7 @@ laziness /'leɪzinəs/ n [U]
 答案：
 1. to  
 
-# ***<font color=#0099ff>\*lead</font>*** n  重难点词汇
+# ***\*lead*** n  重难点词汇
 英音 liːd     美音 liːd  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -1388,7 +1388,7 @@ laziness /'leɪzinəs/ n [U]
  > 比赛快结束时，他领先了。  （2011 辽宁）  
 
 
-# ***<font color=#0099ff>\*leader</font>*** n
+# ***\*leader*** n
 英音 'liːdə(r)     美音 'liːdər  
 
 | 词频 4 | 口语 1 | 书面 3 |  
@@ -1400,7 +1400,7 @@ laziness /'leɪzinəs/ n [U]
 ### 1.*高义频：* **领袖；领导人**  
 
 
-# ***<font color=#0099ff>\*leadership</font>*** n
+# ***\*leadership*** n
 英音 'liːdəʃɪp     美音 'liːdərʃɪp  
 
 | 词频 3 | 口语 1 | 书面 2 |  
@@ -1415,7 +1415,7 @@ laziness /'leɪzinəs/ n [U]
  > 在某人的领导下    
 
 
-# ***<font color=#0099ff>\*leading</font>*** adj
+# ***\*leading*** adj
 英音 'liːdɪŋ     美音 'liːdɪŋ  
 
 | 词频 4 | 书面 2 | 阅读 3 |  
@@ -1443,7 +1443,7 @@ laziness /'leɪzinəs/ n [U]
  > 比赛中跑在前面的人    
 
 
-# ***<font color=#0099ff>\*leaf</font>*** n
+# ***\*leaf*** n
 英音 liːf     美音 liːf  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -1466,7 +1466,7 @@ laziness /'leɪzinəs/ n [U]
 答案：
 1. leaves  
 
-# ***<font color=#0099ff>\*leaflet</font>*** n
+# ***\*leaflet*** n
 英音 'liːflət     美音 'liːflət  
 
 | 词频 1 |  
@@ -1476,7 +1476,7 @@ laziness /'leɪzinəs/ n [U]
 ### 1.**传单；印刷品**  
 
 
-# ***<font color=#0099ff>\*league</font>*** n
+# ***\*league*** n
 英音 liːɡ     美音 liːɡ  
 
 | 词频 2 | 书面 2 |  
@@ -1495,7 +1495,7 @@ laziness /'leɪzinəs/ n [U]
  > 足球联赛    
 
 
-# ***<font color=#0099ff>\*leak</font>*** n
+# ***\*leak*** n
 英音 liːk     美音 liːk  
 
 | 词频 2 |  
@@ -1513,7 +1513,7 @@ laziness /'leɪzinəs/ n [U]
  > 煤气泄漏    
 
 
-# ***<font color=#0099ff>\*leak</font>*** v
+# ***\*leak*** v
 英音 liːk     美音 liːk  
 
 | 词频 2 |  
@@ -1538,7 +1538,7 @@ laziness /'leɪzinəs/ n [U]
  > 计划的细节很快就泄露出去了。    
 
 
-# ***<font color=#0099ff>\*lean</font>*** v
+# ***\*lean*** v
 英音 liːn     美音 liːn  
 
 | 词频 2 | 口语 1 |  
@@ -1566,7 +1566,7 @@ laziness /'leɪzinəs/ n [U]
  > 如果你靠在栅栏上，它会断的。    
 
 
-# ***<font color=#0099ff>\*leap</font>*** n
+# ***\*leap*** n
 英音 liːp     美音 liːp  
 
 | 词频 2 |  
@@ -1584,7 +1584,7 @@ laziness /'leɪzinəs/ n [U]
  > 她的收入猛增。    
 
 
-# ***<font color=#0099ff>\*leap</font>*** v
+# ***\*leap*** v
 英音 liːp     美音 liːp  
 
 | 词频 2 |  
@@ -1602,7 +1602,7 @@ laziness /'leɪzinəs/ n [U]
  > 他企图跃过墙，但没能成功。  （外研② – 6）  
 
 
-# ***<font color=#0099ff>\*learn</font>*** v  重难点词汇
+# ***\*learn*** v  重难点词汇
 英音 lɜːn     美音 lɜːrn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1675,7 +1675,7 @@ laziness /'leɪzinəs/ n [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*learn ... by heart </font>
+## \*learn ... by heart 
 1.**记熟；把…背下来：**  
 
  > *I had to learn a poem by heart for the school concert.*  
@@ -1694,7 +1694,7 @@ learner /'lɜːnə(r)/ n [C]
 答案：
 1. To learn  
 
-# ***<font color=#0099ff>\*learning</font>*** n
+# ***\*learning*** n
 英音 'lɜːnɪŋ     美音 'lɜːrnɪŋ  
 
 | 词频 5 |  
@@ -1715,7 +1715,7 @@ learner /'lɜːnə(r)/ n [C]
  > 学识渊博的人    
 
 
-# ***<font color=#0099ff>\*least</font>*** pron
+# ***\*least*** pron
 英音 liːst     美音 liːst  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1739,7 +1739,7 @@ learner /'lɜːnə(r)/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*at (the) least</font>
+## \*at (the) least
 1.*高义频：* **(数量上) 不少于：**  
 
  > *I need at least five days to complete the task. *  
@@ -1750,7 +1750,7 @@ learner /'lɜːnə(r)/ n [C]
  > *A good friend is willing to offer the help which you need, or can at least give you some advice. *  
  > 一个好朋友愿意在你需要时提供帮助，或者至少可以给你一些建议。  （ 2010 重庆）  
 
-## <font color=#0099ff>\*not in the least / not the least (bit) </font>
+## \*not in the least / not the least (bit) 
 1.**一点儿也不 (not at all)：**  
 
  > *I didn't know his name or the least bit about him.*  
@@ -1769,7 +1769,7 @@ D.the least
 答案：
 1. at least  2. D  
 
-# ***<font color=#0099ff>\*least</font>*** adj
+# ***\*least*** adj
 英音 liːst     美音 liːst  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1793,7 +1793,7 @@ D.the least
  > 我根本不知道你在说什么。    
 
 
-# ***<font color=#0099ff>\*least</font>*** adv
+# ***\*least*** adv
 英音 liːst     美音 liːst  
 
 | 词频 5 |  
@@ -1813,7 +1813,7 @@ D.the least
  > 幸福并不总是追求来的。它有时在我们最意料不到的时候来临。    
 
 
-# ***<font color=#0099ff>\*leather</font>*** n
+# ***\*leather*** n
 英音 'leðə(r)     美音 'leðər  
 
 | 词频 2 |  
@@ -1828,7 +1828,7 @@ D.the least
  > 这双鞋是用真皮做的。    
 
 
-# ***<font color=#0099ff>\*leave</font>*** v  重难点词汇
+# ***\*leave*** v  重难点词汇
 英音 liːv     美音 liːv  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1916,7 +1916,7 @@ D.the least
 
 固定搭配
 ---
-## <font color=#0099ff>\*leave behind</font>
+## \*leave behind
 1.*高义频：* **把...丢在后面；超过：**  
 
  > *Sarah, with her long legs, soon left the rest of us behind.*  
@@ -1935,7 +1935,7 @@ D.the least
  > *She knew that she had left her childhood behind.*  
  > 她知道童年一去不复返了。    
 
-## <font color=#0099ff>\*leave off</font>
+## \*leave off
 1.*低义频：* **[非正式用语] 停止：**  
 
  > *Barry took up the story where Justine had left off. *  
@@ -1949,7 +1949,7 @@ D.the least
  > *A map-maker might have left the crossing off a paper map. *  
  > 也许地图的制作者在地图上遗漏了这个十字路口。  （2011 浙江）  
 
-## <font color=#0099ff>\*leave out</font>
+## \*leave out
 1.*高义频：* **遗漏；不包括：**  
 
  > *If you study in a systematic way, you won't leave anything out.*  
@@ -1961,7 +1961,7 @@ D.the least
  > *New fathers often feel left out when baby arrives. *  
  > 有了孩子后，初为人父者往往有一种被冷落的感觉。    
 
-## <font color=#0099ff>\*(be) left over</font>
+## \*(be) left over
 1.**被剩下；被留下：**  
 
  > *There were some chairs left over when everyone had sat down. *  
@@ -1970,7 +1970,7 @@ D.the least
  > *a left-over child*  
  > 留守儿童    
 
-## <font color=#0099ff>\*leave room for </font>
+## \*leave room for 
 1.**为…留有余地**  
 
 
@@ -1985,7 +1985,7 @@ D.the least
 答案：
 1. to → for  2. left  3. out  4. running  5. to / with  
 
-# ***<font color=#0099ff>\*leave</font>*** n  重难点词汇
+# ***\*leave*** n  重难点词汇
 英音 liːv     美音 liːv  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -2000,7 +2000,7 @@ D.the least
  > 她请了3天假照顾生病的儿子。    
 
 
-# ***<font color=#0099ff>\*lecture</font>*** v
+# ***\*lecture*** v
 英音 'lektʃə(r)     美音 'lektʃər  
 
 | 词频 4 |  
@@ -2024,7 +2024,7 @@ D.the least
 ---
 lecturer /'lektʃərə(r)/ n [C]   
 
-# ***<font color=#0099ff>\*lecture</font>*** n
+# ***\*lecture*** n
 英音 'lektʃə(r)     美音 'lektʃər  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -2050,7 +2050,7 @@ lecturer /'lektʃərə(r)/ n [C]
  > 我知道我该戒酒，别教训我了。    
 
 
-# ***<font color=#0099ff>\*lecturer</font>*** n
+# ***\*lecturer*** n
 英音 'lektʃərə(r)     美音 'lektʃərər  
 
 | 词频 2 |  
@@ -2060,7 +2060,7 @@ lecturer /'lektʃərə(r)/ n [C]
 ### 1.**（大学的）讲师**  
 
 
-# ***<font color=#0099ff>\*left</font>*** adj
+# ***\*left*** adj
 英音 left     美音 left  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -2073,7 +2073,7 @@ lecturer /'lektʃərə(r)/ n [C]
  > 在街道左侧    
 
 
-# ***<font color=#0099ff>\*left</font>*** n
+# ***\*left*** n
 英音 left     美音 left  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -2089,7 +2089,7 @@ lecturer /'lektʃərə(r)/ n [C]
  > 他坐我的左边。    
 
 
-# ***<font color=#0099ff>\*left</font>*** adv
+# ***\*left*** adv
 英音 left     美音 left  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -2102,7 +2102,7 @@ lecturer /'lektʃərə(r)/ n [C]
  > 沿着这条道走下去，在第一个十字路口左转。  （人教④ – 5）  
 
 
-# ***<font color=#0099ff>\*leftover</font>*** n
+# ***\*leftover*** n
 英音 'leftəʊvə(r)     美音 'leftoʊvər  
 
 | 词频 1 |  
@@ -2114,7 +2114,7 @@ lecturer /'lektʃərə(r)/ n [C]
 ### 1.*高义频：* **剩饭菜**  
 
 
-# ***<font color=#0099ff>\*leftover</font>*** adj
+# ***\*leftover*** adj
 英音 'leftəʊvə(r)     美音 'leftoʊvər  
 
 | 词频 1 |  
@@ -2124,7 +2124,7 @@ lecturer /'lektʃərə(r)/ n [C]
 ### 1.**剩余的**  
 
 
-# ***<font color=#0099ff>\*leg</font>*** n
+# ***\*leg*** n
 英音 leɡ     美音 leɡ  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -2136,7 +2136,7 @@ lecturer /'lektʃərə(r)/ n [C]
 ### 1.*高义频：* **腿**  
 
 
-# ***<font color=#0099ff>\*legal</font>*** adj
+# ***\*legal*** adj
 英音 'liːɡl     美音 'liːɡl  
 
 | 词频 3 | 口语 2 | 书面 3 |  
@@ -2162,7 +2162,7 @@ lecturer /'lektʃərə(r)/ n [C]
 ---
 legally /'liːɡəli/ adv   
 
-# ***<font color=#0099ff>\*legend</font>*** n
+# ***\*legend*** n
 英音 'ledʒənd     美音 'ledʒənd  
 
 | 词频 2 |  
@@ -2185,7 +2185,7 @@ legally /'liːɡəli/ adv
 ---
 legendary /'ledʒəndri/ adj   
 
-# ***<font color=#0099ff>\*legendary</font>*** adj
+# ***\*legendary*** adj
 英音 'ledʒəndri     美音 'ledʒənderi  
 
 | 词频 1 |  
@@ -2195,7 +2195,7 @@ legendary /'ledʒəndri/ adj
 ### 1.**传说中的**  
 
 
-# ***<font color=#0099ff>\*leisure</font>*** n
+# ***\*leisure*** n
 英音 'leʒə(r)     美音 'liːʒər  
 
 | 词频 2 | 书面 1 |  
@@ -2213,7 +2213,7 @@ legendary /'ledʒəndri/ adj
  > 休闲娱乐行业    
 
 
-# ***<font color=#0099ff>\*lemon</font>*** n
+# ***\*lemon*** n
 英音 'lemən     美音 'lemən  
 
 | 词频 1 |  
@@ -2225,7 +2225,7 @@ legendary /'ledʒəndri/ adj
 ### 1.*高义频：* **柠檬；柠檬树**  
 
 
-# ***<font color=#0099ff>\*lemon</font>*** adj
+# ***\*lemon*** adj
 英音 'lemən     美音 'lemən  
 
 | 词频 1 |  
@@ -2235,7 +2235,7 @@ legendary /'ledʒəndri/ adj
 ### 1.*高义频：* **柠檬色的；柠檬味的**  
 
 
-# ***<font color=#0099ff>\*lemonade</font>*** n
+# ***\*lemonade*** n
 英音 ˌlemə'neɪd     美音 ˌlemə'neɪd  
 
 | 词频 1 | 口语 2 |  
@@ -2245,7 +2245,7 @@ legendary /'ledʒəndri/ adj
 ### 1.*高义频：* **[U] 柠檬汽水 / 饮料；[C] 一杯 / 瓶柠檬饮料**  
 
 
-# ***<font color=#0099ff>\*lend</font>*** vt
+# ***\*lend*** vt
 英音 lend     美音 lend  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -2264,7 +2264,7 @@ legendary /'ledʒəndri/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*give / lend (sb) a hand</font>
+## \*give / lend (sb) a hand
 1.**帮助 (某人)：**  
 
  > *I saw two men pushing a broken-down car so I stopped to lend (them) a hand.*  
@@ -2281,7 +2281,7 @@ legendary /'ledʒəndri/ adj
 答案：
 1. lend a hand  
 
-# ***<font color=#0099ff>\*length</font>*** n
+# ***\*length*** n
 英音 leŋθ     美音 leŋθ  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -2309,7 +2309,7 @@ legendary /'ledʒəndri/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*at length</font>
+## \*at length
 1.*低义频：* **最后；终于：**  
 
  > *At length, we began to understand what he wanted.*  
@@ -2325,7 +2325,7 @@ legendary /'ledʒəndri/ adj
 ---
 lengthen /'leŋθən/ v   
 
-# ***<font color=#0099ff>\*lengthen</font>*** v
+# ***\*lengthen*** v
 英音 'leŋθən     
 
   
@@ -2335,7 +2335,7 @@ lengthen /'leŋθən/ v
 ### 1.**加长；延长**  
 
 
-# ***<font color=#0099ff>\*leopard</font>*** n
+# ***\*leopard*** n
 英音 'lepəd     美音 'lepərd  
 
 | 词频 1 |  
@@ -2347,7 +2347,7 @@ lengthen /'leŋθən/ v
 ### 1.*高义频：* **豹**  
 
 
-# ***<font color=#0099ff>\*less</font>*** adv
+# ***\*less*** adv
 英音 les     美音 les  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2368,7 +2368,7 @@ lengthen /'leŋθən/ v
 答案：
 1. less than  
 
-# ***<font color=#0099ff>\*less</font>*** adj
+# ***\*less*** adj
 英音 les     美音 les  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2384,7 +2384,7 @@ lengthen /'leŋθən/ v
  > 如今，音乐迷花在买唱片上的钱比以前的人要少。  （外研⑦ – 4）  
 
 
-# ***<font color=#0099ff>\*less</font>*** pron
+# ***\*less*** pron
 英音 les     美音 les  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2400,13 +2400,13 @@ lengthen /'leŋθən/ v
 
 固定搭配
 ---
-## <font color=#0099ff>\*even / much / still less </font>
+## \*even / much / still less 
 1.**更不用说：**  
 
  > *No explanation was offered, still less an apology. *  
  > 连个解释也不给，更不用说道歉了。    
 
-## <font color=#0099ff>\*less and less </font>
+## \*less and less 
 1.**越来越少：**  
 反义词 more and more 
 
@@ -2416,13 +2416,13 @@ lengthen /'leŋθən/ v
  > *My grandfather goes out less and less these days. *  
  > 我爷爷现在出门越来越少了。    
 
-## <font color=#0099ff>\*less than </font>
+## \*less than 
 1.**少于；不超过：**  
 
  > *We finished the run in less than half the time allowed. *  
  > 我们跑完全程用了不到规定时间的一半。  （2008 江西）  
 
-## <font color=#0099ff>\*no less than </font>
+## \*no less than 
 1.**不少于；多达：**  
 
  > *He paid no less than 100, 000 dollars for the house.*  
@@ -2440,7 +2440,7 @@ lessen 'lesn v
 答案：
 1. even / much / still less / let alone  
 
-# ***<font color=#0099ff>\*lessen</font>*** v
+# ***\*lessen*** v
 英音 'lesn     美音 'lesn  
 
 | 词频 2 |  
@@ -2450,7 +2450,7 @@ lessen 'lesn v
 ### 1.*高义频：* **减少；减轻**  
 
 
-# ***<font color=#0099ff>\*lesson</font>*** n
+# ***\*lesson*** n
 英音 'lesn     美音 'lesn  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -2490,14 +2490,14 @@ lessen 'lesn v
 
 固定搭配
 ---
-## <font color=#0099ff>\*teach sb a lesson </font>
+## \*teach sb a lesson 
 1.**给某人一个教训：**  
 
  > *It was painful but it has taught me a good lesson. *  
  > 这很痛苦，但给了我一个很好的教训。    
 
 
-# ***<font color=#0099ff>\*let</font>*** vt  重难点词汇
+# ***\*let*** vt  重难点词汇
 英音 let     美音 let  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2543,13 +2543,13 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 
 固定搭配
 ---
-## <font color=#0099ff>\*let alone </font>
+## \*let alone 
 1.**更不用说：**  
 
  > *For most people, it's almost impossible to operate a computer without a mouse, let alone surf the Internet.*  
  > 对大多数人来说，没有鼠标几乎无法操作计算机，更不用说上网了。  （2009 江苏书面表达）  
 
-## <font color=#0099ff>\*let ... alone / be </font>
+## \*let ... alone / be 
 1.**不要碰；不干涉：**  
 
  > *Let my things alone! *  
@@ -2558,13 +2558,13 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > *Let him alone / be. He needs a bit of freedom. *  
  > 别管他，他需要一点儿自由。    
 
-## <font color=#0099ff>\*let down </font>
+## \*let down 
 1.**使失望；辜负：**  
 
  > *We did not want to let him down. *  
  > 我们不想让他失望。    
 
-## <font color=#0099ff>\*let go (of ...) / let ... go</font>
+## \*let go (of ...) / let ... go
 1.**放开；释放；放手：**  
 
  > *Let go! You're hurting me!*  
@@ -2576,7 +2576,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > *When someone has deeply hurt you, it can be extremely difficult to let go of your hate.*  
  > 当有人深深地伤害了你时，放下仇恨是非常困难的。  （2013 辽宁）  
 
-## <font color=#0099ff>\*let … in </font>
+## \*let … in 
 1.**让…进来；放进：**  
 
  > *The theatre was so small that they refused to let in any more people. *  
@@ -2585,7 +2585,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > *I opened our bedroom windows to let in the wind. *  
  > 我打开了我们卧室的窗户通风。  （2009 福建改）  
 
-## <font color=#0099ff>\*let off</font>
+## \*let off
 1.*高义频：* **饶恕；放过：**  
 
  > *She was let off with a fine instead of being sent to prison.*  
@@ -2596,7 +2596,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > *Many other human activities also let off carbon gases. *  
  > 许多其他的人类活动也排放含碳气体。  （译林⑤–2）  
 
-## <font color=#0099ff>\*let out </font>
+## \*let out 
 1.**发出 (叫声等)；放出；泄露：**  
 
  > *Throwing their hats into the air, the fans of the winning team let out loud shouts of victory.*  
@@ -2614,7 +2614,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 答案：
 1. understand  2. out  
 
-# ***<font color=#0099ff>\*letter</font>*** n
+# ***\*letter*** n
 英音 'letə(r)     美音 'letər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2642,7 +2642,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > 大/小写字母    
 
 
-# ***<font color=#0099ff>\*level</font>*** n
+# ***\*level*** n
 英音 'levl     美音 'levl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2684,7 +2684,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 ### 4.*高义频：* **[C] 楼层**  
 
 
-# ***<font color=#0099ff>\*level</font>*** adj
+# ***\*level*** adj
 英音 'levl     美音 'levl  
 
 | 词频 5 |  
@@ -2700,7 +2700,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > 这个男孩头与他父亲的肩膀齐平。    
 
 
-# ***<font color=#0099ff>\*liar</font>*** n
+# ***\*liar*** n
 英音 'laɪə(r)     美音 'laɪər  
 
 | 词频 2 |  
@@ -2710,7 +2710,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 ### 1.**撒谎者**  
 
 
-# ***<font color=#0099ff>\*liberal</font>*** n
+# ***\*liberal*** n
 英音 'lɪbərəl     美音 'lɪbərəl  
 
 | 词频 1 |  
@@ -2722,7 +2722,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 ### 1.*高义频：* **自由主义者；开明的人**  
 
 
-# ***<font color=#0099ff>\*liberal</font>*** adj
+# ***\*liberal*** adj
 英音 'lɪbərəl     美音 'lɪbərəl  
 
 | 词频 1 | 书面 2 |  
@@ -2732,7 +2732,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 ### 1.*高义频：* **自由主义的；开明的**  
 
 
-# ***<font color=#0099ff>\*liberation</font>*** n
+# ***\*liberation*** n
 英音 ˌlɪbə'reɪʃn     美音 ˌlɪbə'reɪʃn  
 
 | 词频 1 |  
@@ -2750,7 +2750,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > 论文快完成时，我有一种解脱感。    
 
 
-# ***<font color=#0099ff>\*liberty</font>*** n
+# ***\*liberty*** n
 英音 'lɪbəti     美音 'lɪbərti  
 
 | 词频 1 |  
@@ -2767,14 +2767,14 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 
 固定搭配
 ---
-## <font color=#0099ff>\*at liberty </font>
+## \*at liberty 
 1.**自由的：**  
 
  > *You're at liberty to say what you like.*  
  > 你尽可畅所欲言。    
 
 
-# ***<font color=#0099ff>\*librarian</font>*** n
+# ***\*librarian*** n
 英音 laɪ'breəriən     美音 laɪ'breəriən  
 
 | 词频 1 |  
@@ -2786,7 +2786,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 ### 1.*高义频：* **图书管理员**  
 
 
-# ***<font color=#0099ff>\*library</font>*** n
+# ***\*library*** n
 英音 'laɪbrəri     美音 'laɪbreri  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -2798,7 +2798,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 ### 1.*高义频：* **图书馆**  
 
 
-# ***<font color=#0099ff>\*licence</font>*** n
+# ***\*licence*** n
 英音 'laɪsns     美音 'laɪsns  
 
 | 词频 4 | 阅读 3 |  
@@ -2818,7 +2818,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > 她被特许销售香烟。    
 
 
-# ***<font color=#0099ff>\*license</font>*** n
+# ***\*license*** n
 英音 'laɪsns     美音 'laɪsns  
 
 | 词频 4 | 阅读 3 |  
@@ -2838,7 +2838,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > 她被特许销售香烟。    
 
 
-# ***<font color=#0099ff>\*lichen</font>*** n
+# ***\*lichen*** n
 英音 'laɪkən     美音 'laɪkən  
 
 | 词频 1 |  
@@ -2848,7 +2848,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 ### 1.**地衣**  
 
 
-# ***<font color=#0099ff>\*lid</font>*** n
+# ***\*lid*** n
 英音 lɪd     美音 lɪd  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -2860,7 +2860,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 ### 1.*高义频：* **(坛子、壶等的) 盖子；眼睑 (eyelid)**  
 
 
-# ***<font color=#0099ff>\*lie</font>*** vi  重难点词汇
+# ***\*lie*** vi  重难点词汇
 英音 laɪ     美音 laɪ  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -2913,7 +2913,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 
 固定搭配
 ---
-## <font color=#0099ff>\*lie around / about</font>
+## \*lie around / about
 1.*高义频：* **到处乱扔乱放：**  
 
  > *Don't leave toys lying around.*  
@@ -2921,7 +2921,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 
 2.*高义频：* **无所事事地混日子**  
 
-## <font color=#0099ff>\*lie down </font>
+## \*lie down 
 1.**躺下；屈服；顺从：**  
 
  > *I think I shall lie down for an hour. 　*  
@@ -2938,7 +2938,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 答案：
 1. in  
 
-# ***<font color=#0099ff>\*lie</font>*** n
+# ***\*lie*** n
 英音 laɪ     美音 laɪ  
 
 | 词频 4 | 口语 1 |  
@@ -2968,7 +2968,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
   
 
 
-# ***<font color=#0099ff>\*life</font>*** n
+# ***\*life*** n
 英音 laɪf     美音 laɪf  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3021,13 +3021,13 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 
 固定搭配
 ---
-## <font color=#0099ff>\*all one's life</font>
+## \*all one's life
 1.**终生；一辈子：**  
 
  > *Bell was an inventor all his life.  *  
  > 贝尔终生都在搞发明。  （人教⑧ – 3）  
 
-## <font color=#0099ff>\*bring … to life </font>
+## \*bring … to life 
 1.**使苏醒过来；使更生动：**  
 
  > *He asks the Greek Goddess to bring her to life.*  
@@ -3036,7 +3036,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > *The new teacher always brought the class to life with his humor. *  
  > 新来的老师总是用他的幽默把课上得生动活泼。    
 
-## <font color=#0099ff>\*come to life </font>
+## \*come to life 
 1.**苏醒过来；变得活跃 (come alive)：**  
 
  > *When the girl finally came to life, we began to breathe easily. *  
@@ -3045,7 +3045,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > *The match came to life in the final minutes of the second half.*  
  > 比赛在下半场的最后几分钟变得精彩起来。    
 
-## <font color=#0099ff>\*life and / or death</font>
+## \*life and / or death
 1.**生死攸关的；关系重大的：**  
 
  > *a life and death decision*  
@@ -3059,7 +3059,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 答案：
 1. for  
 
-# ***<font color=#0099ff>\*life-saving</font>*** adj
+# ***\*life-saving*** adj
 英音 'laɪfseɪvɪŋ     美音 'laɪfseɪvɪŋ  
 
 | 词频 1 |  
@@ -3069,7 +3069,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 ### 1.**救命的，救生的**  
 
 
-# ***<font color=#0099ff>\*lifeboat</font>*** n
+# ***\*lifeboat*** n
 英音 'laɪfbəʊt     美音 'laɪfboʊt  
 
 | 词频 1 |  
@@ -3079,7 +3079,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 ### 1.**救生船**  
 
 
-# ***<font color=#0099ff>\*lifespan</font>*** n
+# ***\*lifespan*** n
 英音 'laɪfspæn     美音 'laɪfspæn  
 
 | 词频 1 | 书面 1 |  
@@ -3091,7 +3091,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 ### 1.*高义频：* **平均寿命；使用寿命**  
 
 
-# ***<font color=#0099ff>\*lifestyle</font>*** n
+# ***\*lifestyle*** n
 英音 'laɪfstaɪl     美音 'laɪfstaɪl  
 
 | 词频 3 |  
@@ -3110,7 +3110,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > 搬到乡下后，我们生活方式发生了巨大改变。    
 
 
-# ***<font color=#0099ff>\*lifetime</font>*** n
+# ***\*lifetime*** n
 英音 'laɪftaɪm     美音 'laɪftaɪm  
 
 | 词频 3 |  
@@ -3126,7 +3126,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > 他在一生中发现了很多令人惊奇的事物。  （译林② – 3）  
 
 
-# ***<font color=#0099ff>\*lift</font>*** n
+# ***\*lift*** n
 英音 lɪft     美音 lɪft  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -3160,14 +3160,14 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 
 固定搭配
 ---
-## <font color=#0099ff>\*give sb a lift </font>
+## \*give sb a lift 
 1.**让某人振奋起来：**  
 
  > *The new park has given everyone in the neighbourhood a lift. *  
  > 新公园让附近的每个人都很开心。    
 
 
-# ***<font color=#0099ff>\*lift</font>*** v
+# ***\*lift*** v
 英音 lɪft     美音 lɪft  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -3198,7 +3198,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > 雾开始消散。    
 
 
-# ***<font color=#0099ff>\*light</font>*** n
+# ***\*light*** n
 英音 laɪt     美音 laɪt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3226,32 +3226,32 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 
 固定搭配
 ---
-## <font color=#0099ff>\*bring … to light </font>
+## \*bring … to light 
 1.**将…曝光；揭露：**  
 
  > *These documents have brought new information to light about Shakespeare's early life.*  
  > 这些文献披露了莎士比亚早期生活的新资料。    
 
-## <font color=#0099ff>\*come to light </font>
+## \*come to light 
 1.**为人所知；暴露：**  
 
  > *A hidden fact has recently come to light through the efforts of the police. *  
  > 在警方的努力下，一件隐秘的事实最近被发现了。    
 
-## <font color=#0099ff>\*in a good / bad / different / ... light</font>
+## \*in a good / bad / different / ... light
 1.**从好 / 坏 / 不同 / … 的角度：**  
 
  > *You must not view what happened in a negative light.*  
  > 你切不要从负面的角度来看待发生的事。    
 
-## <font color=#0099ff>\*throw / cast light on / upon</font>
+## \*throw / cast light on / upon
 1.**阐明；使人了解：**  
 
  > *This book throws light on the effects of global climate change.*  
  > 这本书使人了解全球气候变化带来的影响。    
 
 
-# ***<font color=#0099ff>\*light</font>*** adj
+# ***\*light*** adj
 英音 laɪt     美音 laɪt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3293,7 +3293,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > 我午饭吃得不多，只吃了一点儿小吃。    
 
 
-# ***<font color=#0099ff>\*light</font>*** v
+# ***\*light*** v
 英音 laɪt     美音 laɪt  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -3321,7 +3321,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 
 固定搭配
 ---
-## <font color=#0099ff>\*light up </font>
+## \*light up 
 1.**照亮；喜形于色：**  
 
  > *New Year's fireworks lit up the sky over the city.*  
@@ -3339,7 +3339,7 @@ lighten /'laɪtn/ v
 
 lighter /'laɪtə(r)/ n [C]   
 
-# ***<font color=#0099ff>\*light-headedness</font>*** n
+# ***\*light-headedness*** n
 英音 laɪt'hedɪdnes     美音 laɪt'hedɪdnes  
 
 | 词频 1 |  
@@ -3349,7 +3349,7 @@ lighter /'laɪtə(r)/ n [C]
 ### 1.**头晕，眩晕**  
 
 
-# ***<font color=#0099ff>\*lightly</font>*** adv
+# ***\*lightly*** adv
 英音 'laɪtli     美音 'laɪtli  
 
 | 词频 3 | 阅读 2 |  
@@ -3369,7 +3369,7 @@ lighter /'laɪtə(r)/ n [C]
  > 这个问题我们可不能掉以轻心。    
 
 
-# ***<font color=#0099ff>\*lightning</font>*** n
+# ***\*lightning*** n
 英音 'laɪtnɪŋ     美音 'laɪtnɪŋ  
 
 | 词频 2 |  
@@ -3384,7 +3384,7 @@ lighter /'laɪtə(r)/ n [C]
  > 他闪电般地上了岸，爬上了一棵树。    
 
 
-# ***<font color=#0099ff>\*like</font>*** vt  重难点词汇
+# ***\*like*** vt  重难点词汇
 英音 laɪk     美音 laɪk  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3439,16 +3439,16 @@ lighter /'laɪtə(r)/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*How do you like ...? </font>
+## \*How do you like ...? 
 1.**你 (们) 认为…怎么样？**  
 
  > *How do you like this oil painting?  *  
  > 你认为这幅油画怎么样？  （2008 上海）  
 
-## <font color=#0099ff>\*I'd like to.</font>
+## \*I'd like to.
 1.**[省略句，作答语用] 我愿意。**  
 
-## <font color=#0099ff>\*if you like </font>
+## \*if you like 
 1.**如果你愿意：**  
 
  > *I can take you there in my car, if you like. *  
@@ -3463,7 +3463,7 @@ lighter /'laɪtə(r)/ n [C]
 答案：
 1. I’d like / love to  
 
-# ***<font color=#0099ff>\*like</font>*** prep  重难点词汇
+# ***\*like*** prep  重难点词汇
 英音 laɪk     美音 laɪk  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3484,7 +3484,7 @@ lighter /'laɪtə(r)/ n [C]
  > 你一定要有所擅长，比如体育、新闻播报或表演。  （2008 上海春）  
 
 
-# ***<font color=#0099ff>\*like</font>*** conj  重难点词汇
+# ***\*like*** conj  重难点词汇
 英音 laɪk     美音 laɪk  
 
 | 词频 5 | 口语 3 |  
@@ -3503,7 +3503,7 @@ lighter /'laɪtə(r)/ n [C]
  > 听起来似乎他们也不知道发生了什么事。    
 
 
-# ***<font color=#0099ff>\*like</font>*** n  重难点词汇
+# ***\*like*** n  重难点词汇
 英音 laɪk     美音 laɪk  
 
 | 词频 5 | 书面 3 |  
@@ -3520,7 +3520,7 @@ lighter /'laɪtə(r)/ n [C]
  > 帖子仅发出三天就被分享了184000次，收到了61500个赞  （2 018 全国改）  
 
 
-# ***<font color=#0099ff>\*likely</font>*** adj  重难点词汇
+# ***\*likely*** adj  重难点词汇
 英音 'laɪkli     美音 'laɪkli  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3557,7 +3557,7 @@ Notes: likely 的主语既可以是人或物，也可以是it。其结构为sb /
 答案：
 1. to bring  
 
-# ***<font color=#0099ff>\*likely</font>*** adv  重难点词汇
+# ***\*likely*** adv  重难点词汇
 英音 'laɪkli     美音 'laɪkli  
 
 | 词频 5 |  
@@ -3574,7 +3574,7 @@ Notes: likely 的主语既可以是人或物，也可以是it。其结构为sb /
 
 固定搭配
 ---
-## <font color=#0099ff>\*Not likely!</font>
+## \*Not likely!
 1.**[表示强烈的否定] 绝不可能！才不呢！**  
 
  > *— Would she mind playing against her former teammates? *  
@@ -3591,7 +3591,7 @@ Notes: likely 的主语既可以是人或物，也可以是it。其结构为sb /
 答案：
 1. likely  
 
-# ***<font color=#0099ff>\*likewise</font>*** adv
+# ***\*likewise*** adv
 英音 'laɪkwaɪz     美音 'laɪkwaɪz  
 
 | 词频 1 |  
@@ -3601,7 +3601,7 @@ Notes: likely 的主语既可以是人或物，也可以是it。其结构为sb /
 ### 1.*高义频：* **同样地；相似地 (similarly)**  
 
 
-# ***<font color=#0099ff>\*lily</font>*** n
+# ***\*lily*** n
 英音 'lɪli     美音 'lɪli  
 
 | 词频 1 |  
@@ -3613,7 +3613,7 @@ Notes: likely 的主语既可以是人或物，也可以是it。其结构为sb /
 ### 1.*高义频：* **百合；百合花**  
 
 
-# ***<font color=#0099ff>\*limestone</font>*** n
+# ***\*limestone*** n
 英音 'laɪmstəʊn     美音 'laɪmstoʊn  
 
 | 词频 1 |  
@@ -3623,7 +3623,7 @@ Notes: likely 的主语既可以是人或物，也可以是it。其结构为sb /
 ### 1.**石灰石**  
 
 
-# ***<font color=#0099ff>\*limit</font>*** n
+# ***\*limit*** n
 英音 'lɪmɪt     美音 'lɪmɪt  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -3661,14 +3661,14 @@ Notes: likely 的主语既可以是人或物，也可以是it。其结构为sb /
 
 固定搭配
 ---
-## <font color=#0099ff>\*within limits </font>
+## \*within limits 
 1.**在某种范围内；适度地：**  
 
  > *I'm willing to help, within limits.*  
  > 我愿意帮忙，可是有一定限度。    
 
 
-# ***<font color=#0099ff>\*limit</font>*** v
+# ***\*limit*** v
 英音 'lɪmɪt     美音 'lɪmɪt  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -3686,7 +3686,7 @@ Notes: likely 的主语既可以是人或物，也可以是it。其结构为sb /
 
 固定搭配
 ---
-## <font color=#0099ff>\*limit … to </font>
+## \*limit … to 
 1.**将…限制在 (某范围内)：**  
 
  > *I believe teaching should not be limited to the classroom.*  
@@ -3709,7 +3709,7 @@ limitless /'lɪmɪtləs/ adj
 答案：
 1. limit  
 
-# ***<font color=#0099ff>\*limited</font>*** adj
+# ***\*limited*** adj
 英音 'lɪmɪtɪd     美音 'lɪmɪtɪd  
 
 | 词频 4 | 书面 2 |  
@@ -3728,7 +3728,7 @@ limitless /'lɪmɪtləs/ adj
  > 我们现有的钱不多。    
 
 
-# ***<font color=#0099ff>\*limitless</font>*** adj
+# ***\*limitless*** adj
 英音 'lɪmɪtləs     美音 'lɪmɪtləs  
 
   
@@ -3738,7 +3738,7 @@ limitless /'lɪmɪtləs/ adj
 ### 1.**无限的**  
 
 
-# ***<font color=#0099ff>\*line</font>*** n
+# ***\*line*** n
 英音 laɪn     美音 laɪn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3801,11 +3801,11 @@ limitless /'lɪmɪtləs/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*in line with sth</font>
+## \*in line with sth
 1.**与某事物一致；与某事物紧密相连**  
 
 
-# ***<font color=#0099ff>\*line</font>*** vt
+# ***\*line*** vt
 英音 laɪn     美音 laɪn  
 
 | 词频 5 |  
@@ -3820,7 +3820,7 @@ limitless /'lɪmɪtləs/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*be lined with </font>
+## \*be lined with 
 1.**排列着 / 排满了：**  
 
  > *The street is lined with green trees. *  
@@ -3829,7 +3829,7 @@ limitless /'lɪmɪtləs/ adj
  > *One wall in my bedroom is entirely lined with bookshelves. *  
  > 我的卧室里有一面墙排满了书架。  （2010 四川改）  
 
-## <font color=#0099ff>\*line up </font>
+## \*line up 
 1.**(使) 排成行；安排：**  
 
  > *The visitors lined up at the entrance to the exhibition. *  
@@ -3839,7 +3839,7 @@ limitless /'lɪmɪtləs/ adj
  > 你下一个任务是去找个好乐队，然后排好他们在舞会上的位置。    
 
 
-# ***<font color=#0099ff>\*linguist</font>*** n
+# ***\*linguist*** n
 英音 'lɪŋɡwɪst     美音 'lɪŋɡwɪst  
 
 | 词频 1 |  
@@ -3849,7 +3849,7 @@ limitless /'lɪmɪtləs/ adj
 ### 1.**语言学家**  
 
 
-# ***<font color=#0099ff>\*linguistics</font>*** n
+# ***\*linguistics*** n
 英音 lɪŋ'ɡwɪstɪks     美音 lɪŋ'ɡwɪstɪks  
 
 | 词频 1 |  
@@ -3859,7 +3859,7 @@ limitless /'lɪmɪtləs/ adj
 ### 1.**语言学**  
 
 
-# ***<font color=#0099ff>\*link</font>*** n
+# ***\*link*** n
 英音 lɪŋk     美音 lɪŋk  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -3887,7 +3887,7 @@ limitless /'lɪmɪtləs/ adj
  > 铁路/公路/电话线    
 
 
-# ***<font color=#0099ff>\*link</font>*** vt
+# ***\*link*** vt
 英音 lɪŋk     美音 lɪŋk  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -3903,7 +3903,7 @@ limitless /'lɪmɪtləs/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*link ... to / with</font>
+## \*link ... to / with
 1.**把…连接 / 联系起来：**  
 
  > *A subway line will link the airport to the city centre.*  
@@ -3913,7 +3913,7 @@ limitless /'lɪmɪtləs/ adj
  > 黄色一般与自信、自尊和友好相关。    
 
 
-# ***<font color=#0099ff>\*lion</font>*** n
+# ***\*lion*** n
 英音 'laɪən     美音 'laɪən  
 
 | 词频 4 |  
@@ -3928,7 +3928,7 @@ limitless /'lɪmɪtləs/ adj
  > 宁为犬首，不作狮尾。    
 
 
-# ***<font color=#0099ff>\*lip</font>*** n
+# ***\*lip*** n
 英音 lɪp     美音 lɪp  
 
 | 词频 2 | 口语 1 | 书面 2 |  
@@ -3943,7 +3943,7 @@ limitless /'lɪmɪtləs/ adj
  > 我们唇齿相依。    
 
 
-# ***<font color=#0099ff>\*liquid</font>*** n
+# ***\*liquid*** n
 英音 'lɪkwɪd     美音 'lɪkwɪd  
 
 | 词频 2 | 书面 1 |  
@@ -3958,7 +3958,7 @@ limitless /'lɪmɪtləs/ adj
  > 大多数物质有三种形态：固态、液态和气态。    
 
 
-# ***<font color=#0099ff>\*liquid</font>*** adj
+# ***\*liquid*** adj
 英音 'lɪkwɪd     美音 'lɪkwɪd  
 
 | 词频 2 |  
@@ -3971,7 +3971,7 @@ limitless /'lɪmɪtləs/ adj
  > 流质食品    
 
 
-# ***<font color=#0099ff>\*list</font>*** vt
+# ***\*list*** vt
 英音 lɪst     美音 lɪst  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -3987,7 +3987,7 @@ limitless /'lɪmɪtləs/ adj
  > 1987年12月，周口店被列为世界遗产之一。  （外研⑦ – 6）  
 
 
-# ***<font color=#0099ff>\*list</font>*** n
+# ***\*list*** n
 英音 lɪst     美音 lɪst  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4006,7 +4006,7 @@ limitless /'lɪmɪtləs/ adj
  > 他排号等待做手术已经6个月了。    
 
 
-# ***<font color=#0099ff>\*listen</font>*** vi
+# ***\*listen*** vi
 英音 'lɪsn     美音 'lɪsn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4033,10 +4033,10 @@ limitless /'lɪmɪtləs/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*listen for </font>
+## \*listen for 
 1.**留神等着听**  
 
-## <font color=#0099ff>\*listen in</font>
+## \*listen in
 1.*低义频：* **收听 (电台的广播)**  
 
 2.*高义频：* **偷听；窃听 (on)：**  
@@ -4050,7 +4050,7 @@ limitless /'lɪmɪtləs/ adj
 ---
 listener /'lɪsənə(r)/ n [C]  
 
-# ***<font color=#0099ff>\*literally</font>*** adv
+# ***\*literally*** adv
 英音 'lɪtərəli     美音 'lɪtərəli  
 
 | 词频 1 | 口语 2 |  
@@ -4060,7 +4060,7 @@ listener /'lɪsənə(r)/ n [C]
 ### 1.*高义频：* **照字义；根据字面意思**  
 
 
-# ***<font color=#0099ff>\*literary</font>*** adj
+# ***\*literary*** adj
 英音 lɪtərəri     美音 lɪtəreri  
 
 | 词频 3 |  
@@ -4073,7 +4073,7 @@ listener /'lɪsənə(r)/ n [C]
  > 文学作品/评论    
 
 
-# ***<font color=#0099ff>\*literature</font>*** n
+# ***\*literature*** n
 英音 'lɪtrətʃə(r)     美音 'lɪtrətʃər  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -4088,7 +4088,7 @@ listener /'lɪsənə(r)/ n [C]
  > 古典/现代文学    
 
 
-# ***<font color=#0099ff>\*litre</font>*** n
+# ***\*litre*** n
 英音 'liːtə(r)     美音 'liːtər  
 
 | 词频 2 |  
@@ -4103,7 +4103,7 @@ listener /'lɪsənə(r)/ n [C]
  > 三升水    
 
 
-# ***<font color=#0099ff>\*litter</font>*** v
+# ***\*litter*** v
 英音 'lɪtə(r)     美音 'lɪtər  
 
 | 词频 3 |  
@@ -4116,7 +4116,7 @@ listener /'lɪsənə(r)/ n [C]
  > 我认为乱扔垃圾的人应该被罚款。  （译林④ – 3）  
 
 
-# ***<font color=#0099ff>\*litter</font>*** n
+# ***\*litter*** n
 英音 'lɪtə(r)     美音 'lɪtər  
 
 | 词频 3 |  
@@ -4134,7 +4134,7 @@ listener /'lɪsənə(r)/ n [C]
  > 野餐后请勿留下垃圾。    
 
 
-# ***<font color=#0099ff>\*little</font>*** adj
+# ***\*little*** adj
 英音 'lɪtl     美音 'lɪtl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4177,7 +4177,7 @@ Notes: 形容词的比较级和最高级更常用smaller和 smallest，而little
 答案：
 1. little  
 
-# ***<font color=#0099ff>\*little</font>*** adv
+# ***\*little*** adv
 英音 'lɪtl     美音 'lɪtl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4205,7 +4205,7 @@ Notes: little作状语置于句首时，句子往往部分倒装，结构为：l
 答案：
 1. did Rose care about  
 
-# ***<font color=#0099ff>\*little</font>*** pron
+# ***\*little*** pron
 英音 'lɪtl     美音 'lɪtl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4223,7 +4223,7 @@ Notes: little作状语置于句首时，句子往往部分倒装，结构为：l
 
 固定搭配
 ---
-## <font color=#0099ff>\*a little </font>
+## \*a little 
 1.**[表示肯定含义] 少量；有点儿 (a bit)：**  
 
  > *There was only a little applause when I left the stage. *  
@@ -4236,23 +4236,23 @@ Notes: little作状语置于句首时，句子往往部分倒装，结构为：l
  > 他样样都懂一点儿。    
 
 Notes: a little可修饰不可数名词、形容词、副词和动词等。  
-## <font color=#0099ff>\*little by little </font>
+## \*little by little 
 1.**逐渐地；一点点地：**  
 
  > *His health seems to be improving little by little. *  
  > 看来他的健康状况正在逐渐好转。    
 
-## <font color=#0099ff>\*not a little </font>
+## \*not a little 
 1.**相当多 (much)：**  
 
  > *It caused me not a little anxiety. *  
  > 此事使我相当焦虑。    
 
-## <font color=#0099ff>\*quite a little </font>
+## \*quite a little 
 1.**相当多**  
 
 
-# ***<font color=#0099ff>\*little-known</font>*** adj
+# ***\*little-known*** adj
 英音 'lɪtln'əʊn     美音 'lɪtln'əʊn  
 
 | 词频 2 |  
@@ -4262,7 +4262,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 ### 1.**鲜为人知的**  
 
 
-# ***<font color=#0099ff>\*live</font>*** adv  重难点词汇
+# ***\*live*** adv  重难点词汇
 英音 laɪv     美音 laɪv  
 
 | 词频 5 |  
@@ -4276,7 +4276,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 那场音乐会由英国广播公司现场直播。    
 
 
-# ***<font color=#0099ff>\*live</font>*** adj  重难点词汇
+# ***\*live*** adj  重难点词汇
 英音 laɪv     美音 laɪv  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -4301,7 +4301,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 我们看了电视现场直播的足球赛。    
 
 
-# ***<font color=#0099ff>\*live</font>*** v  重难点词汇
+# ***\*live*** v  重难点词汇
 英音 lɪv     美音 lɪv  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4331,19 +4331,19 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 
 固定搭配
 ---
-## <font color=#0099ff>\*live a ... life </font>
+## \*live a ... life 
 1.**过…生活 (lead / have a ... life)：**  
 
  > *They're living a happy new life in different areas.*  
  > 他们在不同的地方过着幸福的新生活。  （外研③ – 6）  
 
-## <font color=#0099ff>\*live by </font>
+## \*live by 
 1.**靠…过活：**  
 
  > *He lives by writing / teaching.*  
  > 他以写作/教书为生。    
 
-## <font color=#0099ff>\*live on</font>
+## \*live on
 1.*低义频：* **继续活着；继续存在：**  
 
  > *She died ten years ago but her memory lives on.*  
@@ -4357,19 +4357,19 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > *He lives on a salary of $500 a month. *  
  > 他靠每月500美元的薪水生活。    
 
-## <font color=#0099ff>\*live through </font>
+## \*live through 
 1.**经历…而幸存：**  
 
  > *My grandpa lives through two world wars. *  
  > 我的爷爷经历过两次世界大战。    
 
-## <font color=#0099ff>\*live up to </font>
+## \*live up to 
 1.**不辜负；符合；履行：**  
 
  > *He failed to live up to his parents'  expectations.*  
  > 他辜负了父母的期望。    
 
-## <font color=#0099ff>\*live with </font>
+## \*live with 
 1.**和…一起住 (live together)；忍受 (put up with)：**  
 
  > *You might not like the situation, but you'll have to learn to live with it.*  
@@ -4384,7 +4384,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 答案：
 1. live up to / kept  2. with  
 
-# ***<font color=#0099ff>\*livelihood</font>*** n
+# ***\*livelihood*** n
 英音 'laɪvlihʊd     美音 'laɪvlihʊd  
 
 | 词频 1 |  
@@ -4399,7 +4399,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 他坚定地相信这三项原则：民主、民权、民生。  （人教①-5）  
 
 
-# ***<font color=#0099ff>\*liveliness</font>*** n
+# ***\*liveliness*** n
 英音 'laɪvlinəs     美音 'laɪvlinəs  
 
 | 词频 1 |  
@@ -4409,7 +4409,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 ### 1.**活泼，快乐，生动**  
 
 
-# ***<font color=#0099ff>\*lively</font>*** adj
+# ***\*lively*** adj
 英音 'laɪvli     美音 'laɪvli  
 
 | 词频 3 | 口语 1 |  
@@ -4440,7 +4440,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 答案：
 1. lively  
 
-# ***<font color=#0099ff>\*liver</font>*** n
+# ***\*liver*** n
 英音 'lɪvə(r)     美音 'lɪvər  
 
 | 词频 2 |  
@@ -4450,7 +4450,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 ### 1.**肝脏**  
 
 
-# ***<font color=#0099ff>\*living</font>*** adj
+# ***\*living*** adj
 英音 'lɪvɪŋ     美音 'lɪvɪŋ  
 
 | 词频 5 |  
@@ -4471,7 +4471,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 现用语言    
 
 
-# ***<font color=#0099ff>\*living</font>*** n
+# ***\*living*** n
 英音 'lɪvɪŋ     美音 'lɪvɪŋ  
 
 | 词频 5 | 口语 2 |  
@@ -4501,7 +4501,7 @@ Notes: the living表示“活着的人”，作主语时，谓语动词用复数
 
 固定搭配
 ---
-## <font color=#0099ff>\*make / earn a living </font>
+## \*make / earn a living 
 1.**谋生；度日 (earn one's living)：**  
 
  > *On land with rich soil, local farmers can grow crops to make a living. *  
@@ -4514,7 +4514,7 @@ Notes: the living表示“活着的人”，作主语时，谓语动词用复数
 二者均可用作形容词，有“活着的”、“在世的”之意，但用法不尽相同。  
 
 
-# ***<font color=#0099ff>\*load</font>*** n
+# ***\*load*** n
 英音 ləʊd     美音 loʊd  
 
 | 词频 4 | 口语 3 | 书面 1 |  
@@ -4541,14 +4541,14 @@ Notes: the living表示“活着的人”，作主语时，谓语动词用复数
 
 固定搭配
 ---
-## <font color=#0099ff>\*loads of / a load of </font>
+## \*loads of / a load of 
 1.**很多：**  
 
  > *There are loads of great places to see in Australia. *  
  > 在澳大利亚有很多值得一看的好地方。  （北师大④ – 12）  
 
 
-# ***<font color=#0099ff>\*load</font>*** vt
+# ***\*load*** vt
 英音 ləʊd     美音 loʊd  
 
 | 词频 4 |  
@@ -4566,7 +4566,7 @@ Notes: the living表示“活着的人”，作主语时，谓语动词用复数
  > 如果配上蔬菜，比萨也可以成为健康食品。  （2009 全国改）  
 
 
-# ***<font color=#0099ff>\*loaf</font>*** n
+# ***\*loaf*** n
 英音 ləʊf     美音 loʊf  
 
 | 词频 1 |  
@@ -4581,7 +4581,7 @@ Notes: the living表示“活着的人”，作主语时，谓语动词用复数
  > 一条面包    
 
 
-# ***<font color=#0099ff>\*loan</font>*** n
+# ***\*loan*** n
 英音 ləʊn     美音 loʊn  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -4593,7 +4593,7 @@ Notes: the living表示“活着的人”，作主语时，谓语动词用复数
 ### 1.*高义频：* **贷款；借款**  
 
 
-# ***<font color=#0099ff>\*local</font>*** adj
+# ***\*local*** adj
 英音 'ləʊkl     美音 'loʊkl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4613,7 +4613,7 @@ Notes: the living表示“活着的人”，作主语时，谓语动词用复数
 ---
 locally /'ləʊkəli/ adv   
 
-# ***<font color=#0099ff>\*local</font>*** n
+# ***\*local*** n
 英音 'ləʊkl     美音 'loʊkl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4623,7 +4623,7 @@ locally /'ləʊkəli/ adv
 ### 1.**[C] [常用复数] 当地人**  
 
 
-# ***<font color=#0099ff>\*locate</font>*** vt
+# ***\*locate*** vt
 英音 ləʊ'keɪt     美音 'loʊkeɪt  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -4641,7 +4641,7 @@ locally /'ləʊkəli/ adv
  > 这家公司在郊区设立了办事处。    
 
 
-# ***<font color=#0099ff>\*located</font>*** adj
+# ***\*located*** adj
 英音 ləʊ'keɪtɪd     美音 'loʊkeɪtɪd  
 
 | 词频 3 |  
@@ -4653,7 +4653,7 @@ locally /'ləʊkəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*(be) located in / on</font>
+## \*(be) located in / on
 1.**坐落于；位于：**  
 
  > *One of the world's largest art galleries, the Louvre, is located in Paris.*  
@@ -4663,7 +4663,7 @@ locally /'ləʊkəli/ adv
  > 青岛是一座迷人的城市，位于中国东部沿海地区。  （北师大② – 4）  
 
 
-# ***<font color=#0099ff>\*location</font>*** n
+# ***\*location*** n
 英音 ləʊ'keɪʃn     美音 loʊ'keɪʃn  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -4679,7 +4679,7 @@ locally /'ləʊkəli/ adv
  > 工厂地处铁路沿线。    
 
 
-# ***<font color=#0099ff>\*loch</font>*** n
+# ***\*loch*** n
 英音 lɒk     美音 lɑːk  
 
 | 词频 1 |  
@@ -4689,7 +4689,7 @@ locally /'ləʊkəli/ adv
 ### 1.**（狭长的）海湾**  
 
 
-# ***<font color=#0099ff>\*lock</font>*** v
+# ***\*lock*** v
 英音 lɒk     美音 lɑːk  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -4709,7 +4709,7 @@ locally /'ləʊkəli/ adv
  > 奥利弗立刻被锁进一间屋子里。  （外研⑦ – 3）  
 
 
-# ***<font color=#0099ff>\*lock</font>*** n
+# ***\*lock*** n
 英音 lɒk     美音 lɑːk  
 
 | 词频 4 | 口语 2 |  
@@ -4729,11 +4729,11 @@ locally /'ləʊkəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*lock up</font>
+## \*lock up
 1.**锁好 (门窗)；把…锁藏好**  
 
 
-# ***<font color=#0099ff>\*locker</font>*** n
+# ***\*locker*** n
 英音 'lɒkə(r)     美音 'lɑːkər  
 
 | 词频 2 |  
@@ -4743,7 +4743,7 @@ locally /'ləʊkəli/ adv
 ### 1.**（带锁的）衣物柜**  
 
 
-# ***<font color=#0099ff>\*log</font>*** v
+# ***\*log*** v
 英音 lɒɡ     美音 lɔːɡ  
 
 | 词频 2 |  
@@ -4755,14 +4755,14 @@ locally /'ləʊkəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*log in / on</font>
+## \*log in / on
 1.**使注册；使登录：**  
 
  > *You need a password to log on.*  
  > 你需要密码才能登录。    
 
 
-# ***<font color=#0099ff>\*logic</font>*** n
+# ***\*logic*** n
 英音 'lɒdʒɪk     美音 'lɑːdʒɪk  
 
 | 词频 2 | 阅读 2 |  
@@ -4774,7 +4774,7 @@ locally /'ləʊkəli/ adv
 ### 1.*高义频：* **逻辑 (学)；道理**  
 
 
-# ***<font color=#0099ff>\*logical</font>*** adj
+# ***\*logical*** adj
 英音 'lɒdʒɪkl     美音 'lɑːdʒɪkl  
 
 | 词频 2 | 口语 1 |  
@@ -4784,7 +4784,7 @@ locally /'ləʊkəli/ adv
 ### 1.*高义频：* **符合逻辑的；合乎情理的**  
 
 
-# ***<font color=#0099ff>\*logically</font>*** adv
+# ***\*logically*** adv
 英音 'lɒdʒɪkli     美音 'lɒdʒɪkli  
 
 | 词频 1 |  
@@ -4794,7 +4794,7 @@ locally /'ləʊkəli/ adv
 ### 1.*高义频：* **逻辑上；合逻辑地；有条理地**  
 
 
-# ***<font color=#0099ff>\*logo</font>*** n
+# ***\*logo*** n
 英音 'ləʊɡəʊ     美音 'loʊɡoʊ  
 
 | 词频 2 |  
@@ -4804,7 +4804,7 @@ locally /'ləʊkəli/ adv
 ### 1.**（公司或组织的）标识；标志**  
 
 
-# ***<font color=#0099ff>\*loneliness</font>*** n
+# ***\*loneliness*** n
 英音 'ləʊnlinəs     美音 'ləʊnlinəs  
 
 | 词频 4 |  
@@ -4819,7 +4819,7 @@ locally /'ləʊkəli/ adv
  > 这项研究对500个家庭进行了调查，发现人们承受的主要心理问题是疲劳，其次是孤独和焦虑。  （2007 上海春）  
 
 
-# ***<font color=#0099ff>\*lonely</font>*** adj
+# ***\*lonely*** adj
 英音 'ləʊnli     美音 'loʊnli  
 
 | 词频 4 | 口语 1 |  
@@ -4841,7 +4841,7 @@ locally /'ləʊkəli/ adv
  > 荒凉的地方/偏僻的道路    
 
 
-# ***<font color=#0099ff>\*long</font>*** adj  重难点词汇
+# ***\*long*** adj  重难点词汇
 英音 lɒŋ     美音 lɔːŋ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4867,7 +4867,7 @@ locally /'ləʊkəli/ adv
  > 从长远来看，我们的辛苦都是值得的。    
 
 
-# ***<font color=#0099ff>\*long</font>*** adv  重难点词汇
+# ***\*long*** adv  重难点词汇
 英音 lɒŋ     美音 lɔːŋ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4897,7 +4897,7 @@ locally /'ləʊkəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*as / so long as</font>
+## \*as / so long as
 1.**只要：**  
 
  > *I don't mind where you go, as long as you're back before midnight.*  
@@ -4906,13 +4906,13 @@ locally /'ləʊkəli/ adv
  > *One's life has value so long as one brings value to the life of others.*  
  > 一个人只要给别人的生活带来价值，他的生命就是有价值的。  （2012 江苏改）  
 
-## <font color=#0099ff>\*before long </font>
+## \*before long 
 1.**很快；不久：**  
 
  > *I hope to hear from you before long. *  
  > 我希望不久就能收到你的信。    
 
-## <font color=#0099ff>\*for (so) long </font>
+## \*for (so) long 
 1.**长久地；长时间地：**  
 
  > *Danny has worked hard for long to realize his dream.*  
@@ -4921,7 +4921,7 @@ locally /'ləʊkəli/ adv
  > *Sorry I haven't written for so long.*  
  > 真抱歉，我好长时间没给你写信了。  （译林② – 2）  
 
-## <font color=#0099ff>\*no longer / not ... any longer </font>
+## \*no longer / not ... any longer 
 1.**不再：**  
 
  > *He didn't smoke any longer after the operation.*  
@@ -4943,7 +4943,7 @@ D.ever since
 答案：
 1. longer  2. as / so long as  
 
-# ***<font color=#0099ff>\*long</font>*** vi  重难点词汇
+# ***\*long*** vi  重难点词汇
 英音 lɒŋ     美音 lɔːŋ  
 
 | 词频 5 |  
@@ -4968,7 +4968,7 @@ D.ever since
  > 她巴不得他邀请自己跳舞。    
 
 
-# ***<font color=#0099ff>\*long-haired</font>*** adj
+# ***\*long-haired*** adj
 英音 'lɒŋh'eərd     美音 'lɒŋh'eərd  
 
   
@@ -4978,7 +4978,7 @@ D.ever since
 ### 1.**长发的**  
 
 
-# ***<font color=#0099ff>\*long-term</font>*** adj
+# ***\*long-term*** adj
 英音 'lɒŋtɜːm     美音 'lɔːŋtɜːrm  
 
 | 词频 2 | 书面 1 |  
@@ -4991,7 +4991,7 @@ D.ever since
  > 长期计划    
 
 
-# ***<font color=#0099ff>\*longing</font>*** n
+# ***\*longing*** n
 英音 'lɒŋɪŋ     美音 'lɔːŋɪŋ  
 
 | 词频 2 |  
@@ -5001,7 +5001,7 @@ D.ever since
 ### 1.**渴望**  
 
 
-# ***<font color=#0099ff>\*longitude</font>*** n
+# ***\*longitude*** n
 英音 'lɒŋɡɪtjuːd     美音 'lɑːndʒətuːd  
 
 | 词频 1 |  
@@ -5013,7 +5013,7 @@ D.ever since
 ### 1.*高义频：* **经线；经度**  
 
 
-# ***<font color=#0099ff>\*look</font>*** v  重难点词汇
+# ***\*look*** v  重难点词汇
 英音 lʊk     美音 lʊk  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5070,7 +5070,7 @@ D.ever since
 
 固定搭配
 ---
-## <font color=#0099ff>\*look about / around / round (for)</font>
+## \*look about / around / round (for)
 1.**四下环顾；到处寻找：**  
 
  > *He looked about but saw no one. *  
@@ -5079,19 +5079,19 @@ D.ever since
  > *I'm looking around for a place to live in.*  
  > 我正在四处找地方住。    
 
-## <font color=#0099ff>\*look after </font>
+## \*look after 
 1.**照顾 (take care of)：**  
 
  > *I'll look after the kids, and you can go visit your mom.*  
  > 我来照看孩子，你可以去看望你妈妈。  （2012 陕西）  
 
-## <font color=#0099ff>\*look ahead (to sth) </font>
+## \*look ahead (to sth) 
 1.**展望未来；为将来设想：**  
 
  > *The time has come when we should look ahead to the future. *  
  > 我们是时候该考虑一下未来了。    
 
-## <font color=#0099ff>\*look at </font>
+## \*look at 
 1.**看；查看；看待：**  
 
  > *Sharon looked at herself in the mirror and sighed.*  
@@ -5100,19 +5100,19 @@ D.ever since
  > *Look at the situation from a different point of view.*  
  > 从不同的角度来看待所处的形势。  （2009 上海）  
 
-## <font color=#0099ff>\*look away from </font>
+## \*look away from 
 1.**把目光从…上移开：**  
 
  > *Don’t look away from the person who’s talking to you.*  
  > 不要把目光从正在和你说话的人的脸上移开。    
 
-## <font color=#0099ff>\*look back</font>
+## \*look back
 1.**回头看：**  
 
  > *He looked back and saw a policeman running after him. *  
  > 他回头看见有个警察正在追他。    
 
-## <font color=#0099ff>\*look back on / to </font>
+## \*look back on / to 
 1.**回忆；回顾 (reflect on)：**  
 
  > *We looked back on the first night we had arrived. *  
@@ -5121,7 +5121,7 @@ D.ever since
  > *When I look back to 2017, I am proud of what we have achieved.*  
  > 回顾2017年，我为我们所取得的成就感到骄傲。    
 
-## <font color=#0099ff>\*look down on / upon</font>
+## \*look down on / upon
 1.**轻视；看不起：**  
 
  > *Many people look down upon poor people. *  
@@ -5130,13 +5130,13 @@ D.ever since
  > *Never look down on people who are not superior to you.*  
  > 不要轻视不如你的人。    
 
-## <font color=#0099ff>\*look for </font>
+## \*look for 
 1.**寻找 (search for)：**  
 
  > *It’s about time he started looking for a job.*  
  > 是他该开始找工作的时候了。  （北师大⑧ – 24）  
 
-## <font color=#0099ff>\*look forward to (doing) sth </font>
+## \*look forward to (doing) sth 
 1.**盼望 / 期待 (做)某事：**  
 
  > *I am looking forward to your early reply.*  
@@ -5145,19 +5145,19 @@ D.ever since
  > *I’m looking forward to visiting the art gallery next week. *  
  > 我盼望着下周去参观美术馆。  （ 外研② – 4）  
 
-## <font color=#0099ff>\*look into</font>
+## \*look into
 1.**调查：**  
 
  > *The police are looking into the disappearance of two children.*  
  > 警方正在调查两个孩子失踪的事件。    
 
-## <font color=#0099ff>\*look on </font>
+## \*look on 
 1.**旁观；在一旁观看：**  
 
  > *The students swam in the pool while the teacher looked on.*  
  > 学生们在游泳池里游泳，老师在一旁看着。    
 
-## <font color=#0099ff>\*look on / upon ... as </font>
+## \*look on / upon ... as 
 1.**把…看作：**  
 
  > *They all looked on him as a member of their family.*  
@@ -5166,7 +5166,7 @@ D.ever since
  > *Novels were looked upon as silly, immoral in Britain in the 18th century.*  
  > 在18世纪的英国，小说被视为是愚蠢的、不道德的。  （2018 浙江改）  
 
-## <font color=#0099ff>\*look out (for) </font>
+## \*look out (for) 
 1.**当心；留神 (watch out)：**  
 
  > *Whenever Dad’s face turns red, look out!*  
@@ -5175,13 +5175,13 @@ D.ever since
  > *This is a great place for camping but you have to look out for snakes. *  
  > 这是个野营的好地方，但你要提防蛇出没。    
 
-## <font color=#0099ff>\*look sb up and down</font>
+## \*look sb up and down
 1.**上下打量某人：**  
 
  > *He looked me up and down with narrowed eyes. *  
  > 他眯着眼睛上下打量我。    
 
-## <font color=#0099ff>\*look through </font>
+## \*look through 
 1.**浏览；快速查看 (go through)：**  
 
  > *I looked through today’s newspaper but I found nothing important. *  
@@ -5190,7 +5190,7 @@ D.ever since
  > *I must look through these bills and check them before I pay them. *  
  > 我必须在付款前查看并核对一下这些账单。    
 
-## <font color=#0099ff>\*look up </font>
+## \*look up 
 1.**抬头看；(在词典、计算机等中) 查阅：**  
 
  > **looked up from**  
@@ -5200,13 +5200,13 @@ D.ever since
  > *If there are words you do not understand, look them up in a dictionary. *  
  > 如果有不懂的单词就查字典。    
 
-## <font color=#0099ff>\*look up to </font>
+## \*look up to 
 1.**尊敬；仰视：**  
 
  > *I look up to him because he’s a real artist. *  
  > 我尊敬他，因为他是个真正的艺术家。    
 
-## <font color=#0099ff>\*never / not look back</font>
+## \*never / not look back
 1.**[非正式用语] 一帆风顺；蒸蒸日上：**  
 
  > *Her first novel was published in 2014 and since then she hasn't looked back.*  
@@ -5225,7 +5225,7 @@ D.ever since
 答案：
 1. was looking  2. from  3. up  4. to  5. into  6. through  
 
-# ***<font color=#0099ff>\*look</font>*** n  重难点词汇
+# ***\*look*** n  重难点词汇
 英音 lʊk     美音 lʊk  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5275,7 +5275,7 @@ D.ever since
  > 他们把商店装修一新以便吸引年轻的顾客。    
 
 
-# ***<font color=#0099ff>\*loop</font>*** n
+# ***\*loop*** n
 英音 luːp     美音 luːp  
 
 | 词频 2 |  
@@ -5287,7 +5287,7 @@ D.ever since
 ### 1.*高义频：* **圈；环**  
 
 
-# ***<font color=#0099ff>\*loose</font>*** adj
+# ***\*loose*** adj
 英音 luːs     美音 luːs  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -5311,7 +5311,7 @@ D.ever since
  > 不严密的术语    
 
 
-# ***<font color=#0099ff>\*loose</font>*** vt
+# ***\*loose*** vt
 英音 luːs     美音 luːs  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -5325,7 +5325,7 @@ D.ever since
 ---
 loosely /'luːsli/ adv   
 
-# ***<font color=#0099ff>\*loosen</font>*** vt
+# ***\*loosen*** vt
 英音 'luːsn     
 
   
@@ -5335,7 +5335,7 @@ loosely /'luːsli/ adv
 ### 1.**松开；放松；放宽**  
 
 
-# ***<font color=#0099ff>\*loosen</font>*** vi
+# ***\*loosen*** vi
 英音 'luːsn     
 
   
@@ -5345,7 +5345,7 @@ loosely /'luːsli/ adv
 ### 1.**变松；松弛**  
 
 
-# ***<font color=#0099ff>\*lord</font>*** n
+# ***\*lord*** n
 英音 lɔːd     美音 lɔːrd  
 
 | 词频 2 | 口语 1 | 书面 2 |  
@@ -5357,7 +5357,7 @@ loosely /'luːsli/ adv
 ### 1.*高义频：* **贵族；领主；君主；[常大写首字母] 上帝**  
 
 
-# ***<font color=#0099ff>\*lorry</font>*** n
+# ***\*lorry*** n
 英音 'lɒri     美音 'lɔːri  
 
 | 词频 2 | 口语 1 |  
@@ -5369,7 +5369,7 @@ loosely /'luːsli/ adv
 ### 1.*高义频：* **卡车；运货汽车 (AmE truck)**  
 
 
-# ***<font color=#0099ff>\*lose</font>*** v
+# ***\*lose*** v
 英音 luːz     美音 luːz  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5427,7 +5427,7 @@ loosely /'luːsli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*lose oneself in </font>
+## \*lose oneself in 
 1.**专心于；全神贯注于：**  
 
  > *She listened attentively to the music, losing herself in its beauty. *  
@@ -5438,7 +5438,7 @@ loosely /'luːsli/ adv
 ---
 loser /'luːzə(r)/ n [C]  
 
-# ***<font color=#0099ff>\*loss</font>*** n
+# ***\*loss*** n
 英音 lɒs     美音 lɔːs  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -5492,7 +5492,7 @@ loser /'luːzə(r)/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*at a loss</font>
+## \*at a loss
 1.*高义频：* **感到迷惑；不知所措：**  
 
  > *We are at a loss as to what kind of business to start.*  
@@ -5503,7 +5503,7 @@ loser /'luːzə(r)/ n [C]
  > 它们那些白雪皑皑的山顶构成了一幅美丽的图画，美得让你无法用语言形容。  （译林② – 10）  
 
 
-# ***<font color=#0099ff>\*lost</font>*** adj
+# ***\*lost*** adj
 英音 lɒst     美音 lɔːst  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -5541,7 +5541,7 @@ loser /'luːzə(r)/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*(be) lost in </font>
+## \*(be) lost in 
 1.**沉湎于；专注于：**  
 
  > *He was lost in his books and did not notice my coming. *  
@@ -5551,7 +5551,7 @@ loser /'luːzə(r)/ n [C]
  > 由于陷入了沉思，他差点儿撞上前面的车。    
 
 
-# ***<font color=#0099ff>\*lot</font>*** pron
+# ***\*lot*** pron
 英音 lɒt     美音 lɑːt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5569,7 +5569,7 @@ loser /'luːzə(r)/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*a lot of / lots of</font>
+## \*a lot of / lots of
 1.**[接可数名词或不可数名词] 很多；许多：**  
 
  > *She spends a lot of money on clothes. *  
@@ -5579,7 +5579,7 @@ loser /'luːzə(r)/ n [C]
  > 商店里的人很多。    
 
 
-# ***<font color=#0099ff>\*lot</font>*** adv
+# ***\*lot*** adv
 英音 lɒt     美音 lɑːt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5591,7 +5591,7 @@ loser /'luːzə(r)/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*a lot</font>
+## \*a lot
 1.*低义频：* **[修饰动词] 非常；经常：**  
 
  > *We need you a lot. *  
@@ -5609,7 +5609,7 @@ loser /'luːzə(r)/ n [C]
  > 他最近喝得比以前多多了。    
 
 
-# ***<font color=#0099ff>\*lot</font>*** n
+# ***\*lot*** n
 英音 lɒt     美音 lɑːt  
 
 | 词频 5 | 口语 2 |  
@@ -5623,7 +5623,7 @@ loser /'luːzə(r)/ n [C]
  > 停车场    
 
 
-# ***<font color=#0099ff>\*loud</font>*** adj
+# ***\*loud*** adj
 英音 laʊd     美音 laʊd  
 
 | 词频 4 |  
@@ -5640,7 +5640,7 @@ loser /'luːzə(r)/ n [C]
  > 噪音太大，我无法继续学习。    
 
 
-# ***<font color=#0099ff>\*loud</font>*** adv
+# ***\*loud*** adv
 英音 laʊd     美音 laʊd  
 
 | 词频 4 | 口语 1 |  
@@ -5659,7 +5659,7 @@ loser /'luːzə(r)/ n [C]
   
 
 
-# ***<font color=#0099ff>\*loudly</font>*** adv
+# ***\*loudly*** adv
 英音 laʊdli     美音 laʊdli  
 
 | 词频 2 |  
@@ -5675,7 +5675,7 @@ loser /'luːzə(r)/ n [C]
   
 
 
-# ***<font color=#0099ff>\*loudspeaker</font>*** n
+# ***\*loudspeaker*** n
 英音 ˌlaʊd'spiːkə(r)     美音 ˌlaʊd'spiːkər  
 
 | 词频 2 |  
@@ -5687,7 +5687,7 @@ loser /'luːzə(r)/ n [C]
 ### 1.*高义频：* **扬声器；喇叭**  
 
 
-# ***<font color=#0099ff>\*lounge</font>*** n
+# ***\*lounge*** n
 英音 laʊndʒ     美音 laʊndʒ  
 
 | 词频 1 | 口语 1 |  
@@ -5699,7 +5699,7 @@ loser /'luːzə(r)/ n [C]
 ### 1.*高义频：* **(旅馆等处的) 休息厅；(私宅的) 起居室**  
 
 
-# ***<font color=#0099ff>\*love</font>*** vt  重难点词汇
+# ***\*love*** vt  重难点词汇
 英音 lʌv     美音 lʌv  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5745,7 +5745,7 @@ loser /'luːzə(r)/ n [C]
 ---
 lover /'lʌvə(r)/ n [C]  
 
-# ***<font color=#0099ff>\*love</font>*** n  重难点词汇
+# ***\*love*** n  重难点词汇
 英音 lʌv     美音 lʌv  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5776,20 +5776,20 @@ lover /'lʌvə(r)/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*be in love (with)</font>
+## \*be in love (with)
 1.**(与…) 相爱：**  
 
  > *They married after having been in love for five years. *  
  > 他们相爱5年后结婚了。    
 
-## <font color=#0099ff>\*fall in love (with) </font>
+## \*fall in love (with) 
 1.**爱上：**  
 
  > *If you fall in love with something and do it all the time, you will get better at it.*  
  > 如果你喜欢上某件事，并一直坚持做下去，就会做得更好。  （2016 天津）  
 
 
-# ***<font color=#0099ff>\*lovely</font>*** adj
+# ***\*lovely*** adj
 英音 'lʌvli     美音 'lʌvli  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -5809,7 +5809,7 @@ lover /'lʌvə(r)/ n [C]
  > 我们度过了一个愉快的假期。    
 
 
-# ***<font color=#0099ff>\*low</font>*** adj
+# ***\*low*** adj
 英音 ləʊ     美音 loʊ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5846,14 +5846,14 @@ lover /'lʌvə(r)/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*be low in </font>
+## \*be low in 
 1.**含量低：**  
 
  > *For good heart health, eat a diet that is low in fat and salt. *  
  > 为了心脏健康，饮食要低脂少盐。    
 
 
-# ***<font color=#0099ff>\*low</font>*** adv
+# ***\*low*** adv
 英音 ləʊ     美音 loʊ  
 
 | 词频 5 |  
@@ -5872,7 +5872,7 @@ lover /'lʌvə(r)/ n [C]
  > 这东西她买得便宜。    
 
 
-# ***<font color=#0099ff>\*low-carbon</font>*** adj
+# ***\*low-carbon*** adj
 英音 'ləʊk'ɑːbən     美音 'ləʊk'ɑːbən  
 
 | 词频 2 |  
@@ -5882,7 +5882,7 @@ lover /'lʌvə(r)/ n [C]
 ### 1.**低碳的**  
 
 
-# ***<font color=#0099ff>\*lowdown</font>*** adj
+# ***\*lowdown*** adj
 英音 'ləʊdaʊn     美音 'loʊ'daʊn  
 
 | 词频 1 |  
@@ -5892,7 +5892,7 @@ lover /'lʌvə(r)/ n [C]
 ### 1.**卑鄙的, 卑劣的**  
 
 
-# ***<font color=#0099ff>\*lower</font>*** vt
+# ***\*lower*** vt
 英音 'ləʊə(r)     美音 'loʊər  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -5917,7 +5917,7 @@ lover /'lʌvə(r)/ n [C]
  > 这家商店已降低了价格。    
 
 
-# ***<font color=#0099ff>\*lower</font>*** adj
+# ***\*lower*** adj
 英音 'ləʊə(r)     美音 'loʊər  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -5933,7 +5933,7 @@ lover /'lʌvə(r)/ n [C]
  > 周末气温会更低。    
 
 
-# ***<font color=#0099ff>\*loyal</font>*** adj
+# ***\*loyal*** adj
 英音 'lɔɪəl     美音 'lɔɪəl  
 
 | 词频 1 |  
@@ -5955,7 +5955,7 @@ lover /'lʌvə(r)/ n [C]
 ---
 loyalty /'lɔɪəlti/ n [U]   
 
-# ***<font color=#0099ff>\*luck</font>*** n
+# ***\*luck*** n
 英音 lʌk     美音 lʌk  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -5990,7 +5990,7 @@ loyalty /'lɔɪəlti/ n [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*good luck (with sth) </font>
+## \*good luck (with sth) 
 1.**祝 (…) 好运：**  
 
  > *Good luck with your exams. *  
@@ -6005,7 +6005,7 @@ Mike: ________(祝你好运)!
 答案：
 1. Good luck  
 
-# ***<font color=#0099ff>\*luckily</font>*** adv
+# ***\*luckily*** adv
 英音 'lʌkɪli     美音 'lʌkɪli  
 
 | 词频 4 | 口语 1 |  
@@ -6019,7 +6019,7 @@ Mike: ________(祝你好运)!
  > 幸运的是，没有人在那次事件中丧生。    
 
 
-# ***<font color=#0099ff>\*lucky</font>*** adj
+# ***\*lucky*** adj
 英音 'lʌki     美音 'lʌki  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -6044,7 +6044,7 @@ Mike: ________(祝你好运)!
  > 护身符。    
 
 
-# ***<font color=#0099ff>\*luggage</font>*** n
+# ***\*luggage*** n
 英音 'lʌɡɪdʒ     美音 'lʌɡɪdʒ  
 
 | 词频 4 |  
@@ -6059,7 +6059,7 @@ Mike: ________(祝你好运)!
  > 一件行李    
 
 
-# ***<font color=#0099ff>\*lump</font>*** n
+# ***\*lump*** n
 英音 lʌmp     美音 lʌmp  
 
 | 词频 1 |  
@@ -6069,7 +6069,7 @@ Mike: ________(祝你好运)!
 ### 1.**团, 块**  
 
 
-# ***<font color=#0099ff>\*lunar</font>*** adj
+# ***\*lunar*** adj
 英音 'luːnə(r)     美音 'luːnər  
 
 | 词频 1 |  
@@ -6082,7 +6082,7 @@ Mike: ________(祝你好运)!
  > 阴历    
 
 
-# ***<font color=#0099ff>\*lunch</font>*** n
+# ***\*lunch*** n
 英音 lʌntʃ     美音 lʌntʃ  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -6107,14 +6107,14 @@ Mike: ________(祝你好运)!
 
 固定搭配
 ---
-## <font color=#0099ff>\*at lunch </font>
+## \*at lunch 
 1.**在吃午饭：**  
 
  > *They were at lunch when we got there. *  
  > 我们到那里时，他们正在吃午饭。    
 
 
-# ***<font color=#0099ff>\*lung</font>*** n
+# ***\*lung*** n
 英音 lʌŋ     美音 lʌŋ  
 
 | 词频 2 |  
@@ -6126,7 +6126,7 @@ Mike: ________(祝你好运)!
 ### 1.*高义频：* **肺**  
 
 
-# ***<font color=#0099ff>\*luxury</font>*** n
+# ***\*luxury*** n
 英音 'lʌkʃəri     美音 'lʌkʃəri  
 
 | 词频 2 |  
@@ -6140,7 +6140,7 @@ Mike: ________(祝你好运)!
  > 过奢侈的生活    
 
 
-# ***<font color=#0099ff>\*lyrics</font>*** n
+# ***\*lyrics*** n
 英音 'lɪrɪks     美音 'lɪrɪks  
 
 | 词频 1 |  

@@ -1,6 +1,6 @@
 # Ee
 
-# ***<font color=#0099ff>\*e-mail</font>*** n
+# ***\*e-mail*** n
 英音 iː meɪl     美音 iː meɪl  
 
 | 词频 5 |  
@@ -15,7 +15,7 @@
  > 一个人的电子邮箱账户满了就无法收发任何邮件。  （2009 天津）  
 
 
-# ***<font color=#0099ff>\*e-mail</font>*** vt
+# ***\*e-mail*** vt
 英音 iː meɪl     美音 iː meɪl  
 
 | 词频 5 |  
@@ -28,7 +28,7 @@
  > 你下午3点前把文件用电子邮件发给我好吗？    
 
 
-# ***<font color=#0099ff>\*each</font>*** adj
+# ***\*each*** adj
 英音 iːtʃ     美音 iːtʃ  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -41,7 +41,7 @@
  > 每个人都有自己的名字。    
 
 
-# ***<font color=#0099ff>\*each</font>*** pron
+# ***\*each*** pron
 英音 iːtʃ     美音 iːtʃ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -64,20 +64,20 @@ Notes: 1. each不用于否定句，否定句中要用 none。 如：None of the 
 
 固定搭配
 ---
-## <font color=#0099ff>\*each and every</font>
+## \*each and every
 1.**[用于加强语气] 每一个：**  
 
  > *These are issues that affect each and every one of us. *  
  > 这些问题影响到我们每一个人。    
 
-## <font color=#0099ff>\*each other </font>
+## \*each other 
 1.**互相；彼此：**  
 
  > *We waved good-bye to each other. *  
  > 我们互相挥手告别。  （2012 北京）  
 
 
-# ***<font color=#0099ff>\*each</font>*** adv
+# ***\*each*** adv
 英音 iːtʃ     美音 iːtʃ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -90,7 +90,7 @@ Notes: 1. each不用于否定句，否定句中要用 none。 如：None of the 
  > 我们会给你们每人10元。    
 
 
-# ***<font color=#0099ff>\*eager</font>*** adj
+# ***\*eager*** adj
 英音 'iːɡə(r)     美音 'iːɡər  
 
 | 词频 4 |  
@@ -126,7 +126,7 @@ eagerness /'iːgənəs/ n
 答案：
 1. eager  2. eager后加to  
 
-# ***<font color=#0099ff>\*eagerness</font>*** n
+# ***\*eagerness*** n
 英音 'iːgənɪs     美音 'iːɡərnɪs  
 
   
@@ -136,7 +136,7 @@ eagerness /'iːgənəs/ n
 ### 1.**热切，渴望**  
 
 
-# ***<font color=#0099ff>\*eagle</font>*** n
+# ***\*eagle*** n
 英音 'iːɡl     美音 'iːɡl  
 
 | 词频 2 | 口语 2 |  
@@ -146,7 +146,7 @@ eagerness /'iːgənəs/ n
 ### 1.*高义频：* **[C] 雕；鹰**  
 
 
-# ***<font color=#0099ff>\*ear</font>*** n
+# ***\*ear*** n
 英音 ɪə(r)     美音 ɪr  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -166,17 +166,17 @@ eagerness /'iːgənəs/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*be all ears </font>
+## \*be all ears 
 1.**[非正式用语] 洗耳恭听**  
 
-## <font color=#0099ff>\*close / shut one's ears to</font>
+## \*close / shut one's ears to
 1.**不听；不愿听**  
 
-## <font color=#0099ff>\*lend an ear to</font>
+## \*lend an ear to
 1.**倾听**  
 
 
-# ***<font color=#0099ff>\*early</font>*** adj
+# ***\*early*** adj
 英音 'ɜːli     美音 'ɜːrli  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -197,7 +197,7 @@ eagerness /'iːgənəs/ n
  > 早起的鸟儿有虫吃。/先下手为强。    
 
 
-# ***<font color=#0099ff>\*early</font>*** adv
+# ***\*early*** adv
 英音 'ɜːli     美音 'ɜːrli  
 
 | 词频 5 | 口语 3 |  
@@ -215,7 +215,7 @@ eagerness /'iːgənəs/ n
  > 第二天，我们一大早就出发了。  （2008 北京书面表达）  
 
 
-# ***<font color=#0099ff>\*earn</font>*** v
+# ***\*earn*** v
 英音 ɜːn     美音 ɜːrn  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -245,7 +245,7 @@ eagerness /'iːgənəs/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*earn a / one's living</font>
+## \*earn a / one's living
 1.**谋生：**  
 
  > *He earns a / his living by doing odd jobs. *  
@@ -263,7 +263,7 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
 答案：
 1. earn / make your own living  
 
-# ***<font color=#0099ff>\*earnest</font>*** adj
+# ***\*earnest*** adj
 英音 'ɜːnɪst     美音 'ɜːrnɪst  
 
 | 词频 1 |  
@@ -277,7 +277,7 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
  > 他学习非常认真。    
 
 
-# ***<font color=#0099ff>\*earnest</font>*** n
+# ***\*earnest*** n
 英音 'ɜːnɪst     美音 'ɜːrnɪst  
 
 | 词频 1 |  
@@ -291,7 +291,7 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
  > 你是开玩笑还是认真的？    
 
 
-# ***<font color=#0099ff>\*earphone</font>*** n
+# ***\*earphone*** n
 英音 'ɪəfəʊn     美音 'ɪəˌfoʊn  
 
 | 词频 1 |  
@@ -301,7 +301,7 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
 ### 1.*高义频：* **(常用复数) 耳机**  
 
 
-# ***<font color=#0099ff>\*earth</font>*** n
+# ***\*earth*** n
 英音 ɜːθ     美音 ɜːrθ  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -332,7 +332,7 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
 
 固定搭配
 ---
-## <font color=#0099ff>\*on earth</font>
+## \*on earth
 1.*低义频：* **[可用于否定词或最高级后，以加强语气](在)世界上；(在) 人间：**  
 
  > *There is nothing great but man on earth; there is nothing great but mind in man. *  
@@ -348,7 +348,7 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
  > 你到底为什么要一部手机？  （2012 全国）  
 
 
-# ***<font color=#0099ff>\*earthquake</font>*** n
+# ***\*earthquake*** n
 英音 'ɜːθkweɪk     美音 'ɜːrθkweɪk  
 
 | 词频 3 |  
@@ -364,7 +364,7 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
  > 2008年5月12日，一场强烈的地震几乎摧毁了学校里的一切，楼房受损严重。  （2011 福建书面表达）  
 
 
-# ***<font color=#0099ff>\*ease</font>*** n
+# ***\*ease*** n
 英音 iːz     美音 iːz  
 
 | 词频 3 | 阅读 3 |  
@@ -388,20 +388,20 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
 
 固定搭配
 ---
-## <font color=#0099ff>\*at ease</font>
+## \*at ease
 1.**放松；舒适；自在：**  
 
  > *His mind was at ease knowing that the children were safe. *  
  > 得知孩子们都安全，他才放心。    
 
-## <font color=#0099ff>\*put sb at (one's) ease</font>
+## \*put sb at (one's) ease
 1.**使某人放松：**  
 
  > *He was nervous at first but her warm welcome soon put him at ease. *  
  > 起初他有些紧张，但是她的热情欢迎很快使他放松了下来。    
 
 
-# ***<font color=#0099ff>\*ease</font>*** v
+# ***\*ease*** v
 英音 iːz     美音 iːz  
 
 | 词频 3 | 书面 1 | 阅读 3 |  
@@ -429,14 +429,14 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
 
 固定搭配
 ---
-## <font color=#0099ff>\*ease (sb / oneself) into</font>
+## \*ease (sb / oneself) into
 1.**(使某人) 熟悉 (新工作等)：**  
 
  > *After the baby, she eased herself back into work. *  
  > 生完孩子她又重新开始工作了。    
 
 
-# ***<font color=#0099ff>\*easily</font>*** adv
+# ***\*easily*** adv
 英音 'iːzəli     美音 'iːzəli  
 
 | 词频 5 | 口语 2 |  
@@ -453,7 +453,7 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
  > 拥有更多的爱就有可能增添几分快乐。  （2014 福建）  
 
 
-# ***<font color=#0099ff>\*east</font>*** n
+# ***\*east*** n
 英音 iːst     美音 iːst  
 
 | 词频 4 |  
@@ -476,7 +476,7 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
  > 日本在中国的东面。    
 
 
-# ***<font color=#0099ff>\*east</font>*** adj
+# ***\*east*** adj
 英音 iːst     美音 iːst  
 
 | 词频 4 |  
@@ -492,7 +492,7 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
  > 他们住在东海岸。    
 
 
-# ***<font color=#0099ff>\*east</font>*** adv
+# ***\*east*** adv
 英音 iːst     美音 iːst  
 
 | 词频 4 |  
@@ -505,7 +505,7 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
  > 船向东航行。    
 
 
-# ***<font color=#0099ff>\*eastern</font>*** adj
+# ***\*eastern*** adj
 英音 'iːstən     美音 'iːstərn  
 
 | 词频 3 |  
@@ -521,7 +521,7 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
  > 在英格兰东部    
 
 
-# ***<font color=#0099ff>\*eastward</font>*** adv
+# ***\*eastward*** adv
 英音 'iːstwəd     美音 'iːstwəd  
 
 | 词频 1 |  
@@ -531,7 +531,7 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
 ### 1.*高义频：* **向东 (的)；朝东 (的)**  
 
 
-# ***<font color=#0099ff>\*eastwards</font>*** adv
+# ***\*eastwards*** adv
 英音 'iːstwədz     美音 'iːstwərdz  
 
 | 词频 1 |  
@@ -541,7 +541,7 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
 ### 1.*高义频：* **向东 (的)；朝东 (的)**  
 
 
-# ***<font color=#0099ff>\*easy</font>*** adj
+# ***\*easy*** adj
 英音 'iːzi     美音 'iːzi  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -580,7 +580,7 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
  > 她很温柔，也容易相处。    
 
 
-# ***<font color=#0099ff>\*easy</font>*** adv
+# ***\*easy*** adv
 英音 'iːzi     美音 'iːzi  
 
 | 词频 5 | 口语 2 |  
@@ -598,10 +598,10 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
 
 固定搭配
 ---
-## <font color=#0099ff>\*go easy on / with</font>
+## \*go easy on / with
 1.**[非正式用语] 省着 / 少用…**  
 
-## <font color=#0099ff>\*take it / things easy</font>
+## \*take it / things easy
 1.**放松；不急；不紧张：**  
 
  > *He should learn to take things easy.*  
@@ -614,7 +614,7 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
  > 别太辛苦了，轻松点  （2012 全国）  
 
 
-# ***<font color=#0099ff>\*easy-going</font>*** adj
+# ***\*easy-going*** adj
 英音 ˌi:zi:'gəʊɪŋ     美音 ˌizi'ɡəʊɪŋ  
 
 | 词频 2 |  
@@ -627,7 +627,7 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
  > 我们相处得很好，因为他很随和。  （译林⑤ – 1）  
 
 
-# ***<font color=#0099ff>\*eat</font>*** v
+# ***\*eat*** v
 英音 iːt     美音 iːt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -647,10 +647,10 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
 
 固定搭配
 ---
-## <font color=#0099ff>\*eat one's words</font>
+## \*eat one's words
 1.**收回前言；承认错误**  
 
-## <font color=#0099ff>\*eat out </font>
+## \*eat out 
 1.**外出就餐：**  
 
  > *— I am too tired to cook. *  
@@ -659,14 +659,14 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
  > *— It's all right. We can eat out today.*  
  > 没关系，我们今天可以出去吃。    
 
-## <font color=#0099ff>\*eat up </font>
+## \*eat up 
 1.**吃完；耗尽：**  
 
  > *Eat up your dinner before it gets cold. *  
  > 饭凉之前把它吃完。    
 
 
-# ***<font color=#0099ff>\*eccentric</font>*** adj
+# ***\*eccentric*** adj
 英音 ɪk'sentrɪk     美音 ɪk'sentrɪk  
 
 | 词频 1 |  
@@ -676,7 +676,7 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
 ### 1.**古怪的，反常的**  
 
 
-# ***<font color=#0099ff>\*echo</font>*** n
+# ***\*echo*** n
 英音 'ekəʊ     美音 'ekoʊ  
 
 | 词频 1 |  
@@ -693,7 +693,7 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
  > 这次演讲在许多观众的心中引起共鸣。    
 
 
-# ***<font color=#0099ff>\*echo</font>*** v
+# ***\*echo*** v
 英音 'ekəʊ     美音 'ekoʊ  
 
 | 词频 1 |  
@@ -706,7 +706,7 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
  > 雷声在山间回响。    
 
 
-# ***<font color=#0099ff>\*ecology</font>*** n
+# ***\*ecology*** n
 英音 iː'kɒlədʒi     美音 i'kɑːlədʒi  
 
 | 词频 1 |  
@@ -716,7 +716,7 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
 ### 1.*高义频：* **生态；生态学**  
 
 
-# ***<font color=#0099ff>\*economic</font>*** adj
+# ***\*economic*** adj
 英音 ˌiːkə'nɑːmɪk;ˌekə'nɑːmɪk     美音 ˌiːkə'nɑːmɪk;ˌekə'nɑːmɪk  
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -741,7 +741,7 @@ economics /ˌiːkə'nɒmɪks;ˌekə'nɒmɪks/ n [U]
  > 家政学    
 
 
-# ***<font color=#0099ff>\*economical</font>*** adj
+# ***\*economical*** adj
 英音 ˌiːkə'nɑːmɪkl;ˌekə'nɑːmɪkl     美音 ˌiːkə'nɑːmɪkl;ˌekə'nɑːmɪkl  
 
 | 词频 1 |  
@@ -769,7 +769,7 @@ economically /ˌiːkə'nɒmɪkli;ˌekə'nɒmɪkli/ adv
 答案：
 1. economical  
 
-# ***<font color=#0099ff>\*economy</font>*** n
+# ***\*economy*** n
 英音 ɪ'kɒnəmi     美音 ɪ'kɑːnəmi  
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -797,7 +797,7 @@ economically /ˌiːkə'nɒmɪkli;ˌekə'nɒmɪkli/ adv
  > 你要乘头等舱还是经济舱？    
 
 
-# ***<font color=#0099ff>\*ecosystem</font>*** n
+# ***\*ecosystem*** n
 英音 'iːkəʊsɪstəm     美音 'iːkoʊsɪstəm  
 
 | 词频 2 |  
@@ -809,7 +809,7 @@ economically /ˌiːkə'nɒmɪkli;ˌekə'nɒmɪkli/ adv
 ### 1.*高义频：* **生态系统**  
 
 
-# ***<font color=#0099ff>\*edge</font>*** n
+# ***\*edge*** n
 英音 edʒ     美音 edʒ  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -844,7 +844,7 @@ economically /ˌiːkə'nɒmɪkli;ˌekə'nɒmɪkli/ adv
  > 我打网球不如你，但打乒乓球我比你强。    
 
 
-# ***<font color=#0099ff>\*edit</font>*** vt
+# ***\*edit*** vt
 英音 'edɪt     美音 'edɪt  
 
 | 词频 2 |  
@@ -863,7 +863,7 @@ economically /ˌiːkə'nɒmɪkli;ˌekə'nɒmɪkli/ adv
  > 美图秀秀是中国最流行的图片编辑应用程序之一。    
 
 
-# ***<font color=#0099ff>\*edition</font>*** n
+# ***\*edition*** n
 英音 ɪ'dɪʃn     美音 ɪ'dɪʃn  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -882,7 +882,7 @@ economically /ˌiːkə'nɒmɪkli;ˌekə'nɒmɪkli/ adv
  > 该书出到了第四版。    
 
 
-# ***<font color=#0099ff>\*editor</font>*** n
+# ***\*editor*** n
 英音 'edɪtə(r)     美音 'edɪtər  
 
 | 词频 4 | 书面 2 |  
@@ -899,7 +899,7 @@ economically /ˌiːkə'nɒmɪkli;ˌekə'nɒmɪkli/ adv
 editorial /ˌedɪ'tɔːriəl/ adj   
 editorial /ˌedɪ'tɔːriəl/ n [C]   
 
-# ***<font color=#0099ff>\*educate</font>*** vt
+# ***\*educate*** vt
 英音 'edʒukeɪt     美音 'edʒukeɪt  
 
 | 词频 4 |  
@@ -940,7 +940,7 @@ educated /'edʒukeɪtɪd/ adj
  > 很有修养的女子    
 
 
-# ***<font color=#0099ff>\*educated</font>*** adj
+# ***\*educated*** adj
 英音 'edʒukeɪtɪd     美音 'edʒukeɪtɪd  
 
 | 词频 3 |  
@@ -956,7 +956,7 @@ educated /'edʒukeɪtɪd/ adj
  > 很有修养的女子    
 
 
-# ***<font color=#0099ff>\*education</font>*** n
+# ***\*education*** n
 英音 ˌedʒu'keɪʃn     美音 ˌedʒu'keɪʃn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -990,7 +990,7 @@ educational /ˌedʒu'keɪʃənl/ adj
  > 另外，我们将提供更多的教育项目。    
 
 
-# ***<font color=#0099ff>\*educational</font>*** adj
+# ***\*educational*** adj
 英音 ˌedʒu'keɪʃənl     美音 ˌedʒu'keɪʃənl  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -1000,7 +1000,7 @@ educational /ˌedʒu'keɪʃənl/ adj
 ### 1.*高义频：* **教育的**  
 
 
-# ***<font color=#0099ff>\*educator</font>*** n
+# ***\*educator*** n
 英音 'edʒukeɪtə(r)     美音 'edʒukeɪtər  
 
 | 词频 2 |  
@@ -1012,7 +1012,7 @@ educational /ˌedʒu'keɪʃənl/ adj
 ### 1.*高义频：* **[正式用语] 教育工作者；教师；教育学家；教育家**  
 
 
-# ***<font color=#0099ff>\*eel</font>*** n
+# ***\*eel*** n
 英音 iːl     美音 iːl  
 
 | 词频 1 |  
@@ -1024,7 +1024,7 @@ educational /ˌedʒu'keɪʃənl/ adj
 ### 1.*高义频：* **鳗；鳝**  
 
 
-# ***<font color=#0099ff>\*effect</font>*** n
+# ***\*effect*** n
 英音 ɪ'fekt     美音 ɪ'fekt  
 
 | 词频 5 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -1050,10 +1050,10 @@ educational /ˌedʒu'keɪʃənl/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*bring / put ... into effect</font>
+## \*bring / put ... into effect
 1.**实施；实行**  
 
-## <font color=#0099ff>\*in effect</font>
+## \*in effect
 1.*低义频：* **在实施中；有效：**  
 
  > *Some laws from the eighteenth century are still in effect. *  
@@ -1064,14 +1064,14 @@ educational /ˌedʒu'keɪʃənl/ adj
  > *“Have a nice day” is a wonderful phrase, reminding us, in effect, to enjoy the moment. *  
  > “祝你愉快”是个美妙的词语，实际上它在提醒我们要享受时光。    
 
-## <font color=#0099ff>\*take effect </font>
+## \*take effect 
 1.**生效 (come into effect)；起作用：**  
 
  > *These measures are just beginning to take effect. *  
  > 这些措施刚开始见效。    
 
 
-# ***<font color=#0099ff>\*effective</font>*** adj
+# ***\*effective*** adj
 英音 ɪ'fektɪv     美音 ɪ'fektɪv  
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -1093,7 +1093,7 @@ educational /ˌedʒu'keɪʃənl/ adj
 effectively /ɪ'fektɪvli/ adv   
 effectiveness /ɪˌfek'tɪvnɪs/ n [U]  
 
-# ***<font color=#0099ff>\*effectively</font>*** adv
+# ***\*effectively*** adv
 英音 ɪ'fektɪvli     美音 ɪ'fektɪvli  
 
 | 词频 3 | 口语 1 | 书面 2 |  
@@ -1103,7 +1103,7 @@ effectiveness /ɪˌfek'tɪvnɪs/ n [U]
 ### 1.*高义频：* **有效地**  
 
 
-# ***<font color=#0099ff>\*efficiency</font>*** n
+# ***\*efficiency*** n
 英音 ɪ'fɪʃnsi     美音 ɪ'fɪʃnsi  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -1121,7 +1121,7 @@ effectiveness /ɪˌfek'tɪvnɪs/ n [U]
  > 提高工作效率    
 
 
-# ***<font color=#0099ff>\*efficient</font>*** adj
+# ***\*efficient*** adj
 英音 ɪ'fɪʃnt     美音 ɪ'fɪʃnt  
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 2 |  
@@ -1153,7 +1153,7 @@ efficiently /ɪ'fɪʃntli/ adv
 答案：
 1. efficient  
 
-# ***<font color=#0099ff>\*effort</font>*** n  重难点词汇
+# ***\*effort*** n  重难点词汇
 英音 'efət     美音 'efərt  
 
 | 词频 5 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -1208,7 +1208,7 @@ efficiently /ɪ'fɪʃntli/ adv
 ---
 effortless /'efətləs/ adj   
 
-# ***<font color=#0099ff>\*egg</font>*** n
+# ***\*egg*** n
 英音 eɡ     美音 ɛɡ  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -1220,7 +1220,7 @@ effortless /'efətləs/ adj
 ### 1.*高义频：* **蛋；卵；鸡蛋**  
 
 
-# ***<font color=#0099ff>\*eggplant</font>*** n
+# ***\*eggplant*** n
 英音 'eɡplɑːnt     美音 'eɡplænt  
 
 | 词频 1 |  
@@ -1232,7 +1232,7 @@ effortless /'efətləs/ adj
 ### 1.*高义频：* **茄子**  
 
 
-# ***<font color=#0099ff>\*either</font>*** pron
+# ***\*either*** pron
 英音 'aɪðə(r)     美音 'iðər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1252,7 +1252,7 @@ effortless /'efətləs/ adj
 答案：
 1. either  
 
-# ***<font color=#0099ff>\*either</font>*** adj
+# ***\*either*** adj
 英音 'aɪðə(r)     美音 'iðər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1265,7 +1265,7 @@ effortless /'efətləs/ adj
  > 河两岸都有树。    
 
 
-# ***<font color=#0099ff>\*either</font>*** adv
+# ***\*either*** adv
 英音 'aɪðə(r)     美音 'iðər  
 
 | 词频 5 |  
@@ -1286,7 +1286,7 @@ effortless /'efətləs/ adj
 答案：
 1. too → either  2. either  
 
-# ***<font color=#0099ff>\*either</font>*** conj
+# ***\*either*** conj
 英音 'aɪðə(r)     美音 'iðər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1298,7 +1298,7 @@ effortless /'efətləs/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*either … or …</font>
+## \*either … or …
 1.**[可连接两个单词、短语或句子] 或者…或者…；要么…要么…：**  
 
  > *You can take either the blue pencil or the black one.*  
@@ -1324,7 +1324,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 答案：
 1. Any → Either  2. is  
 
-# ***<font color=#0099ff>\*elder</font>*** adj
+# ***\*elder*** adj
 英音 'eldə(r)     美音 'eldər  
 
 | 词频 2 |  
@@ -1340,7 +1340,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 两个词均为old的比较级，但older更常用。  
 
 
-# ***<font color=#0099ff>\*elder</font>*** n
+# ***\*elder*** n
 英音 'eldə(r)     美音 'eldər  
 
 | 词频 2 |  
@@ -1361,7 +1361,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 两个词均为old的比较级，但older更常用。  
 
 
-# ***<font color=#0099ff>\*elderly</font>*** adj
+# ***\*elderly*** adj
 英音 'eldəli     美音 'eldərli  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -1378,7 +1378,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 重阳节——中国传统的老年人的节日——即将来临。    
 
 
-# ***<font color=#0099ff>\*elect</font>*** vt
+# ***\*elect*** vt
 英音 ɪ'lekt     美音 ɪ'lekt  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -1415,7 +1415,7 @@ affairs.  （2013 上海改）
 答案：
 1. to make  
 
-# ***<font color=#0099ff>\*electric</font>*** adj
+# ***\*electric*** adj
 英音 ɪ'lektrɪk     美音 ɪ'lektrɪk  
 
 | 词频 3 | 口语 2 | 书面 1 | 阅读 3 |  
@@ -1429,7 +1429,7 @@ affairs.  （2013 上海改）
  > 电熨斗/电扇/电灯    
 
 
-# ***<font color=#0099ff>\*electrical</font>*** adj
+# ***\*electrical*** adj
 英音 ɪ'lektrɪkl     美音 ɪ'lektrɪkl  
 
 | 词频 3 | 口语 1 | 阅读 3 |  
@@ -1446,7 +1446,7 @@ affairs.  （2013 上海改）
  > 在使用电器设备时可以让它开着，如果不用就关掉。  （人教⑥ – 4）  
 
 
-# ***<font color=#0099ff>\*electrician</font>*** n
+# ***\*electrician*** n
 英音 ɪˌlek'trɪʃn     美音 ɪˌlek'trɪʃn  
 
 | 词频 1 |  
@@ -1456,7 +1456,7 @@ affairs.  （2013 上海改）
 ### 1.**电工；电器技师**  
 
 
-# ***<font color=#0099ff>\*electricity</font>*** n
+# ***\*electricity*** n
 英音 ɪˌlek'trɪsəti     美音 ɪˌlek'trɪsəti  
 
 | 词频 4 | 口语 2 | 书面 1 | 阅读 3 |  
@@ -1477,7 +1477,7 @@ affairs.  （2013 上海改）
  > 接通/切断电流    
 
 
-# ***<font color=#0099ff>\*electrify</font>*** v
+# ***\*electrify*** v
 英音 ɪ'lektrɪfaɪ     
 
   
@@ -1487,7 +1487,7 @@ affairs.  （2013 上海改）
 ### 1.**通电；使触电；使激动；使震惊**  
 
 
-# ***<font color=#0099ff>\*electronic</font>*** adj
+# ***\*electronic*** adj
 英音 ɪˌlek'trɒnɪk     美音 ɪˌlek'trɑːnɪk  
 
 | 词频 4 | 口语 1 | 书面 1 | 阅读 3 |  
@@ -1503,7 +1503,7 @@ affairs.  （2013 上海改）
  > 电子词典    
 
 
-# ***<font color=#0099ff>\*elegant</font>*** adj
+# ***\*elegant*** adj
 英音 'elɪɡənt     美音 'elɪɡənt  
 
 | 词频 1 |  
@@ -1516,7 +1516,7 @@ affairs.  （2013 上海改）
  > 高雅的连衣裙/雅致的餐馆    
 
 
-# ***<font color=#0099ff>\*elegantly</font>*** adv
+# ***\*elegantly*** adv
 英音 'elɪɡəntli     美音 'elɪɡəntli  
 
 | 词频 1 |  
@@ -1526,7 +1526,7 @@ affairs.  （2013 上海改）
 ### 1.**优雅地**  
 
 
-# ***<font color=#0099ff>\*element</font>*** n
+# ***\*element*** n
 英音 'elɪmənt     美音 'elɪmənt  
 
 | 词频 3 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -1548,7 +1548,7 @@ affairs.  （2013 上海改）
 ### 2.*高义频：* **(化学)元素**  
 
 
-# ***<font color=#0099ff>\*elephant</font>*** n
+# ***\*elephant*** n
 英音 'elɪfənt     美音 'elɪfənt  
 
 | 词频 5 |  
@@ -1560,7 +1560,7 @@ affairs.  （2013 上海改）
 ### 1.*高义频：* **象**  
 
 
-# ***<font color=#0099ff>\*elevator</font>*** n
+# ***\*elevator*** n
 英音 'elɪveɪtə(r)     美音 'elɪveɪtər  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -1572,7 +1572,7 @@ affairs.  （2013 上海改）
 ### 1.*高义频：* **电梯 (BrE lift)**  
 
 
-# ***<font color=#0099ff>\*elf</font>*** n
+# ***\*elf*** n
 英音 elf     美音 elf  
 
 | 词频 1 |  
@@ -1582,7 +1582,7 @@ affairs.  （2013 上海改）
 ### 1.**小精灵**  
 
 
-# ***<font color=#0099ff>\*else</font>*** adv
+# ***\*else*** adv
 英音 els     美音 els  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1603,7 +1603,7 @@ affairs.  （2013 上海改）
 
 固定搭配
 ---
-## <font color=#0099ff>\*or else</font>
+## \*or else
 1.**[用于表示会有不好的结果] 否则；要不然：**  
 
  > *He must be joking, or else he's mad.*  
@@ -1621,7 +1621,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 答案：
 1. else  
 
-# ***<font color=#0099ff>\*elsewhere</font>*** adv
+# ***\*elsewhere*** adv
 英音 ˌels'weə(r)     美音 ˌels'we  
 
 | 词频 2 | 口语 1 | 书面 2 |  
@@ -1634,7 +1634,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 如果这家餐馆客满了，我们就到别处去。    
 
 
-# ***<font color=#0099ff>\*email</font>*** n
+# ***\*email*** n
 英音 'iːmeɪl     美音 'iːmeɪl  
 
 | 词频 5 |  
@@ -1649,7 +1649,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 一个人的电子邮箱账户满了就无法收发任何邮件。  （2009 天津）  
 
 
-# ***<font color=#0099ff>\*email</font>*** vt
+# ***\*email*** vt
 英音 iː meɪl     美音 iː meɪl  
 
 | 词频 5 |  
@@ -1662,7 +1662,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 你下午3点前把文件用电子邮件发给我好吗？    
 
 
-# ***<font color=#0099ff>\*embarrass</font>*** vt
+# ***\*embarrass*** vt
 英音 ɪm'bærəs     美音 ɪm'bærəs  
 
 | 词频 1 |  
@@ -1675,7 +1675,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 她询问我的私生活使我感到很尴尬。    
 
 
-# ***<font color=#0099ff>\*embarrassed</font>*** adj
+# ***\*embarrassed*** adj
 英音 ɪm'bærəst     美音 ɪm'bærəst  
 
 | 词频 3 | 口语 1 | 阅读 3 |  
@@ -1693,7 +1693,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 当我问他去了哪里时，肯尴尬地朝我笑了笑。    
 
 
-# ***<font color=#0099ff>\*embarrassing</font>*** adj
+# ***\*embarrassing*** adj
 英音 ɪm'bærəsɪŋ     美音 ɪm'bærəsɪŋ  
 
 | 词频 2 | 阅读 2 |  
@@ -1707,7 +1707,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 令人难堪的问题/处境    
 
 
-# ***<font color=#0099ff>\*embarrassment</font>*** n
+# ***\*embarrassment*** n
 英音 ɪm'bærəsmənt     美音 ɪm'bærəsmənt  
 
 | 词频 2 | 阅读 2 |  
@@ -1738,7 +1738,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 她的辞职将使该公司处于极度的困境。    
 
 
-# ***<font color=#0099ff>\*embassy</font>*** n
+# ***\*embassy*** n
 英音 'embəsi     美音 'embəsi  
 
 | 词频 1 |  
@@ -1750,7 +1750,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.*高义频：* **大使馆**  
 
 
-# ***<font color=#0099ff>\*embrace</font>*** v
+# ***\*embrace*** v
 英音 ɪm'breɪs     美音 ɪm'breɪs  
 
   
@@ -1760,7 +1760,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**欣然接受,乐意采纳 (新思想、意见等)**  
 
 
-# ***<font color=#0099ff>\*embroidery</font>*** n
+# ***\*embroidery*** n
 英音 ɪm'brɔɪdəri     美音 ɪm'brɔɪdəri  
 
   
@@ -1770,7 +1770,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**刺绣图案，刺绣品**  
 
 
-# ***<font color=#0099ff>\*embryo</font>*** n
+# ***\*embryo*** n
 英音 'embriəʊ     美音 'embrioʊ  
 
 | 词频 1 |  
@@ -1782,7 +1782,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.*高义频：* **(pl embryos) 胚；胚胎；萌芽时期**  
 
 
-# ***<font color=#0099ff>\*emerge</font>*** vi
+# ***\*emerge*** vi
 英音 i'mɜːdʒ     美音 i'mɜːrdʒ  
 
 | 词频 2 | 书面 2 |  
@@ -1798,7 +1798,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 2.*低义频：* **兴起**  
 
 
-# ***<font color=#0099ff>\*emergency</font>*** n
+# ***\*emergency*** n
 英音 i'mɜːdʒənsi     美音 i'mɜːrdʒənsi  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -1818,7 +1818,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 急诊室    
 
 
-# ***<font color=#0099ff>\*emotion</font>*** n
+# ***\*emotion*** n
 英音 ɪ'məʊʃn     美音 ɪ'moʊʃn  
 
 | 词频 4 | 书面 1 | 阅读 3 |  
@@ -1840,7 +1840,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 这个决定是以感性而非理性作出的。    
 
 
-# ***<font color=#0099ff>\*emotional</font>*** adj
+# ***\*emotional*** adj
 英音 ɪ'məʊʃənl     美音 ɪ'moʊʃənl  
 
 | 词频 4 | 口语 1 | 书面 1 | 阅读 3 |  
@@ -1874,7 +1874,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ---
 emotionally /ɪ'məʊʃənəli/ adv   
 
-# ***<font color=#0099ff>\*emperor</font>*** n
+# ***\*emperor*** n
 英音 'empərə(r)     美音 'empərər  
 
 | 词频 2 |  
@@ -1886,7 +1886,7 @@ emotionally /ɪ'məʊʃənəli/ adv
 ### 1.*高义频：* **皇帝**  
 
 
-# ***<font color=#0099ff>\*emphasis</font>*** n
+# ***\*emphasis*** n
 英音 'emfəsɪs     美音 'emfəsɪs  
 
 | 词频 1 | 口语 1 | 书面 2 |  
@@ -1912,7 +1912,7 @@ emotionally /ɪ'məʊʃənəli/ adv
  > 她强调说他是无辜的。    
 
 
-# ***<font color=#0099ff>\*emphasise</font>*** vt
+# ***\*emphasise*** vt
 英音 'emfəsaɪz     美音 'emfəsaɪz  
 
 | 词频 1 |  
@@ -1922,7 +1922,7 @@ emotionally /ɪ'məʊʃənəli/ adv
 ### 1.**强调**  
 
 
-# ***<font color=#0099ff>\*emphasize</font>*** vt
+# ***\*emphasize*** vt
 英音 'emfəsaɪz	     美音 'emfəsaɪz  
 
 | 词频 2 | 阅读 2 |  
@@ -1938,7 +1938,7 @@ emotionally /ɪ'məʊʃənəli/ adv
  > 我只是想强调学习外语是多么重要。    
 
 
-# ***<font color=#0099ff>\*empire</font>*** n
+# ***\*empire*** n
 英音 ˈempaɪə(r)     美音 ˈempaɪər  
 
 | 词频 1 |  
@@ -1950,7 +1950,7 @@ emotionally /ɪ'məʊʃənəli/ adv
 ### 1.*高义频：* **帝国；大企业**  
 
 
-# ***<font color=#0099ff>\*employ</font>*** vt  重难点词汇
+# ***\*employ*** vt  重难点词汇
 英音 ɪm'plɔɪ     美音 ɪm'plɔɪ  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -1982,14 +1982,14 @@ emotionally /ɪ'məʊʃənəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*be employed in doing sth </font>
+## \*be employed in doing sth 
 1.**忙于做某事**  
 
  > *She was employed in making a list of all the jobs to be done.*  
  > 她忙着把要做的所有工作列一个清单。    
 
 
-# ***<font color=#0099ff>\*employe(e)</font>*** n
+# ***\*employe(e)*** n
 英音 ˌemplɔɪ'iː     美音 ɪm'plɔɪiː  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2001,7 +2001,7 @@ emotionally /ɪ'məʊʃənəli/ adv
 ### 1.*高义频：* **受雇者；雇员**  
 
 
-# ***<font color=#0099ff>\*employee</font>*** n
+# ***\*employee*** n
 英音 ɪm'plɔɪiː     美音 ɪm'plɔɪiː  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2013,7 +2013,7 @@ emotionally /ɪ'məʊʃənəli/ adv
 ### 1.*高义频：* **受雇者；雇员**  
 
 
-# ***<font color=#0099ff>\*employer</font>*** n
+# ***\*employer*** n
 英音 ɪm'plɔɪə(r)     美音 ɪm'plɔɪər  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -2025,7 +2025,7 @@ emotionally /ɪ'məʊʃənəli/ adv
 ### 1.*高义频：* **雇主；雇用者**  
 
 
-# ***<font color=#0099ff>\*employment</font>*** n
+# ***\*employment*** n
 英音 ɪm'plɔɪmənt     美音 ɪm'plɔɪmənt  
 
 | 词频 2 | 口语 2 | 书面 3 | 阅读 2 |  
@@ -2051,7 +2051,7 @@ emotionally /ɪ'məʊʃənəli/ adv
  > 全职/兼职工作    
 
 
-# ***<font color=#0099ff>\*empty</font>*** adj
+# ***\*empty*** adj
 英音 'empti     美音 'empti  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2080,7 +2080,7 @@ emotionally /ɪ'məʊʃənəli/ adv
  > 她的生活让人感觉既空虚又无聊。    
 
 
-# ***<font color=#0099ff>\*empty</font>*** v
+# ***\*empty*** v
 英音 'empti     美音 'empti  
 
 | 词频 4 |  
@@ -2096,7 +2096,7 @@ emotionally /ɪ'məʊʃənəli/ adv
  > 在大多数城市，天空看起来就像一颗星星都没有似的。  （2015 浙江）  
 
 
-# ***<font color=#0099ff>\*empty-handed</font>*** adj
+# ***\*empty-handed*** adj
 英音 ˌempti'hændɪd     美音 ˌempti'hændɪd  
 
 | 词频 1 |  
@@ -2106,7 +2106,7 @@ emotionally /ɪ'məʊʃənəli/ adv
 ### 1.**空手；一无所获**  
 
 
-# ***<font color=#0099ff>\*enable</font>*** vt
+# ***\*enable*** vt
 英音 ɪ'neɪbl     美音 ɪ'neɪbl  
 
 | 词频 4 | 阅读 3 |  
@@ -2125,7 +2125,7 @@ emotionally /ɪ'məʊʃənəli/ adv
  > 技术将使我们能够把图书馆的内容和服务向公众开放，这是前所未有的。  （2011 四川）  
 
 
-# ***<font color=#0099ff>\*enclose</font>*** vt
+# ***\*enclose*** vt
 英音 ɪn'kləʊz     美音 ɪn'kloʊz  
 
 | 词频 2 |  
@@ -2138,7 +2138,7 @@ emotionally /ɪ'məʊʃənəli/ adv
  > 请在求职信中附上一份简历。    
 
 
-# ***<font color=#0099ff>\*encounter</font>*** vt
+# ***\*encounter*** vt
 英音 ɪn'kaʊntə(r)     美音 ɪn'kaʊntər  
 
 | 词频 1 | 书面 1 |  
@@ -2151,7 +2151,7 @@ emotionally /ɪ'məʊʃənəli/ adv
  > 偶然遇到一位老朋友    
 
 
-# ***<font color=#0099ff>\*encounter</font>*** n
+# ***\*encounter*** n
 英音 ɪn'kaʊntə(r)     美音 ɪn'kaʊntər  
 
 | 词频 1 |  
@@ -2167,7 +2167,7 @@ emotionally /ɪ'məʊʃənəli/ adv
  > 偶遇    
 
 
-# ***<font color=#0099ff>\*encourage</font>*** vt  重难点词汇
+# ***\*encourage*** vt  重难点词汇
 英音 ɪn'kʌrɪdʒ     美音 ɪn'kɜːrɪdʒ  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -2240,7 +2240,7 @@ encouraging /ɪn'kʌrɪdʒɪŋ/ adj
 答案：
 1. encourage  2. to take  
 
-# ***<font color=#0099ff>\*encouragement</font>*** n
+# ***\*encouragement*** n
 英音 ɪn'kʌrɪdʒmənt     美音 ɪn'kɜːrɪdʒmənt  
 
 | 词频 3 |  
@@ -2257,7 +2257,7 @@ encouraging /ɪn'kʌrɪdʒɪŋ/ adj
  > 他们的话对我是极大的鼓励。    
 
 
-# ***<font color=#0099ff>\*encyclopedia</font>*** n
+# ***\*encyclopedia*** n
 英音 ɪnˌsaɪklə'piːdiə     美音 ɪnˌsaɪklə'piːdiə  
 
 | 词频 2 |  
@@ -2267,7 +2267,7 @@ encouraging /ɪn'kʌrɪdʒɪŋ/ adj
 ### 1.**百科全书**  
 
 
-# ***<font color=#0099ff>\*end</font>*** n  重难点词汇
+# ***\*end*** n  重难点词汇
 英音 end     美音 end  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2287,7 +2287,7 @@ encouraging /ɪn'kʌrɪdʒɪŋ/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*at the end of </font>
+## \*at the end of 
 1.**在…的末梢；在…的尽头：**  
 
  > *I stood silently at the end of the bed.*  
@@ -2303,16 +2303,16 @@ encouraging /ɪn'kʌrɪdʒɪŋ/ adj
  > *I'm at the end of my patience.*  
  > 我已忍无可忍。    
 
-## <font color=#0099ff>\*at the end of the day </font>
+## \*at the end of the day 
 1.**[口语] 最终；到头来：**  
 
  > *Those who'd shared the wealth felt much happier at the end of the day than those who'd spent it on themselves.*  
  > 最终，愿意分享财富的人比只给自己花钱的人要快乐得多。  （2013 安徽）  
 
-## <font color=#0099ff>\*be at / on the receiving end (of sth)</font>
+## \*be at / on the receiving end (of sth)
 1.**[非正式用语] 承受 (不愉快之事)**  
 
-## <font color=#0099ff>\*bring / put an end to </font>
+## \*bring / put an end to 
 1.**结束；终止：**  
 
  > *It's hoped that the talks may bring an end to the violence.*  
@@ -2321,19 +2321,19 @@ encouraging /ɪn'kʌrɪdʒɪŋ/ adj
  > *The government is determined to put an end to terrorism. *  
  > 政府决心遏止恐怖主义活动。    
 
-## <font color=#0099ff>\*by the end of </font>
+## \*by the end of 
 1.**[常与完成时连用] 在…结束时； 到…末为止：**  
 
  > *We had learned all the songs by the end of last month.*  
  > 到上个月月底，我们已学会了所有的歌曲。    
 
-## <font color=#0099ff>\*come to an end </font>
+## \*come to an end 
 1.**告终；结束；完结：**  
 
  > *The summer vacation came to an end at last. *  
  > 暑假终于结束了。    
 
-## <font color=#0099ff>\*in the end</font>
+## \*in the end
 1.**最后；终于：**  
 
  > *Thankfully, I managed to get through the game and the pain was worth it in the end.*  
@@ -2342,20 +2342,20 @@ encouraging /ɪn'kʌrɪdʒɪŋ/ adj
 #### 辨析 finally, eventually, in the end, at last, lastly  
 五者都有“最后”之意。  
 
-## <font color=#0099ff>\*make (both) ends meet</font>
+## \*make (both) ends meet
 1.**使收支相抵；量入为出：**  
 
  > *We can't make both ends meet this month.*  
  > 我们本月入不敷出。    
 
-## <font color=#0099ff>\*on end</font>
+## \*on end
 1.**连续地：**  
 
  > *They argued for two hours on end.*  
  > 他们持续争论了两个小时。    
 
 
-# ***<font color=#0099ff>\*end</font>*** v  重难点词汇
+# ***\*end*** v  重难点词汇
 英音 end     美音 end  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2378,13 +2378,13 @@ encouraging /ɪn'kʌrɪdʒɪŋ/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*end in </font>
+## \*end in 
 1.**以…结尾；以…告终：**  
 
  > *Even a successful inventor makes many experiments that end in failure. *  
  > 即使是成功的发明家也有很多以失败告终的实验。  （人教⑧ – 3）  
 
-## <font color=#0099ff>\*end up </font>
+## \*end up 
 1.**[尤指经历一系列意料之外的事情后] 最终处于；最终成为**  
 英译 to find yourself in a place or situation that you did not expect to：
 
@@ -2408,7 +2408,7 @@ encouraging /ɪn'kʌrɪdʒɪŋ/ adj
 答案：
 1. with  
 
-# ***<font color=#0099ff>\*end-of-term</font>*** n
+# ***\*end-of-term*** n
 
 
 | 词频 1 |  
@@ -2418,7 +2418,7 @@ encouraging /ɪn'kʌrɪdʒɪŋ/ adj
 ### 1.**学期末**  
 
 
-# ***<font color=#0099ff>\*endanger</font>*** vt
+# ***\*endanger*** vt
 英音 ɪn'deɪndʒə(r)     美音 ɪn'deɪndʒər  
 
 | 词频 3 |  
@@ -2431,7 +2431,7 @@ encouraging /ɪn'kʌrɪdʒɪŋ/ adj
  > 吸烟有害健康。    
 
 
-# ***<font color=#0099ff>\*endangered</font>*** adj
+# ***\*endangered*** adj
 英音 ɪn'deɪndʒəd     美音 ɪn'deɪndʒəd  
 
 | 词频 3 | 阅读 3 |  
@@ -2447,7 +2447,7 @@ encouraging /ɪn'kʌrɪdʒɪŋ/ adj
  > 中国的藏羚羊现在濒临灭绝。    
 
 
-# ***<font color=#0099ff>\*ending</font>*** n
+# ***\*ending*** n
 英音 'endɪŋ     美音 'endɪŋ  
 
 | 词频 3 |  
@@ -2466,7 +2466,7 @@ encouraging /ɪn'kʌrɪdʒɪŋ/ adj
  > 故事有个美满的结局。    
 
 
-# ***<font color=#0099ff>\*endless</font>*** adj
+# ***\*endless*** adj
 英音 'endləs     美音 'endləs  
 
 | 词频 3 |  
@@ -2482,7 +2482,7 @@ encouraging /ɪn'kʌrɪdʒɪŋ/ adj
  > 网上的学习资源似乎无穷无尽。    
 
 
-# ***<font color=#0099ff>\*enemy</font>*** n
+# ***\*enemy*** n
 英音 'enəmi     美音 'enəmi  
 
 | 词频 3 | 书面 2 |  
@@ -2509,7 +2509,7 @@ encouraging /ɪn'kʌrɪdʒɪŋ/ adj
  > 无知是进步的大敌。    
 
 
-# ***<font color=#0099ff>\*energetic</font>*** adj
+# ***\*energetic*** adj
 英音 ˌenə'dʒetɪk     美音 ˌenər'dʒetɪk  
 
 | 词频 3 | 阅读 2 |  
@@ -2534,7 +2534,7 @@ energetically /ˌenə'dʒetɪkli/ adv
 答案：
 1. energetic  2. energetic  
 
-# ***<font color=#0099ff>\*energy</font>*** n
+# ***\*energy*** n
 英音 'enədʒi     美音 'enərdʒi  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -2582,7 +2582,7 @@ energetically /ˌenə'dʒetɪkli/ adv
 答案：
 1. energy  
 
-# ***<font color=#0099ff>\*energy-saving</font>*** adj
+# ***\*energy-saving*** adj
 英音 'enədʒiːs'eɪvɪŋ     
 
   
@@ -2592,7 +2592,7 @@ energetically /ˌenə'dʒetɪkli/ adv
 ### 1.**节能**  
 
 
-# ***<font color=#0099ff>\*enforce</font>*** vt
+# ***\*enforce*** vt
 英音 ɪn'fɔːs     美音 ɪn'fɔːrs  
 
 | 词频 2 |  
@@ -2602,7 +2602,7 @@ energetically /ˌenə'dʒetɪkli/ adv
 ### 1.**实施；执行**  
 
 
-# ***<font color=#0099ff>\*engage</font>*** v  重难点词汇
+# ***\*engage*** v  重难点词汇
 英音 ɪn'ɡeɪdʒ     美音 ɪn'ɡeɪdʒ  
 
 | 词频 3 | 书面 1 |  
@@ -2682,7 +2682,7 @@ engagement /ɪn'ɡeɪdʒmənt/ n [C]
  > 如果我们不在一个人身上投入时间，我们跟那人的亲密关系就会变淡。  （2011 福建）  
 
 
-# ***<font color=#0099ff>\*engine</font>*** n
+# ***\*engine*** n
 英音 'endʒɪn     美音 'endʒɪn  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -2698,7 +2698,7 @@ engagement /ɪn'ɡeɪdʒmənt/ n [C]
  > 搜索引擎/消防车    
 
 
-# ***<font color=#0099ff>\*engineer</font>*** n
+# ***\*engineer*** n
 英音 ˌendʒɪ'nɪə(r)     美音 ˌendʒɪ'nɪr  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -2717,7 +2717,7 @@ engagement /ɪn'ɡeɪdʒmənt/ n [C]
 ---
 engineering /ˌendʒɪ'nɪrɪŋ/ n [U]  
 
-# ***<font color=#0099ff>\*engineering</font>*** n
+# ***\*engineering*** n
 英音 ˌendʒɪ'nɪərɪŋ     美音 ˌendʒɪ'nɪrɪŋ  
 
 | 词频 4 |  
@@ -2727,7 +2727,7 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
 ### 1.**(土木) 工程**  
 
 
-# ***<font color=#0099ff>\*enhance</font>*** vt
+# ***\*enhance*** vt
 英音 ɪn'hɑːns     美音 ɪn'hæns  
 
 | 词频 1 |  
@@ -2737,7 +2737,7 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
 ### 1.**增强**  
 
 
-# ***<font color=#0099ff>\*enjoy</font>*** vt  重难点词汇
+# ***\*enjoy*** vt  重难点词汇
 英音 ɪn'dʒɔɪ     美音 ɪn'dʒɔɪ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2768,7 +2768,7 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*enjoy oneself </font>
+## \*enjoy oneself 
 1.**过得开心；得到乐趣：**  
 
  > *I hope you'll enjoy yourselves at the ball.*  
@@ -2786,7 +2786,7 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
 答案：
 1. enjoying  2. enjoy  
 
-# ***<font color=#0099ff>\*enjoyable</font>*** adj
+# ***\*enjoyable*** adj
 英音 ɪn'dʒɔɪəbl     美音 ɪn'dʒɔɪəbl  
 
 | 词频 3 | 口语 1 |  
@@ -2799,7 +2799,7 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
  > 第一堂课很有趣，我非常喜欢！  （外研① – 1）  
 
 
-# ***<font color=#0099ff>\*enjoyment</font>*** n
+# ***\*enjoyment*** n
 英音 ɪn'dʒɔɪmənt     美音 ɪn'dʒɔɪmənt  
 
 | 词频 2 |  
@@ -2820,7 +2820,7 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
  > 孩子们喜欢同父母一起分享各种兴趣和乐事。    
 
 
-# ***<font color=#0099ff>\*enlarge</font>*** v
+# ***\*enlarge*** v
 英音 ɪn'lɑːdʒ     美音 ɪn'lɑːrdʒ  
 
 | 词频 2 |  
@@ -2836,7 +2836,7 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
  > 我们准备将这张照片放大。    
 
 
-# ***<font color=#0099ff>\*enormous</font>*** adj
+# ***\*enormous*** adj
 英音 ɪ'nɔːməs     美音 ɪ'nɔːrməs  
 
 | 词频 3 | 口语 2 | 书面 1 | 阅读 2 |  
@@ -2854,7 +2854,7 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
  > 他对这门学科懂得很多，他的知识极其渊博。  （外研⑦ – 7）  
 
 
-# ***<font color=#0099ff>\*enormously</font>*** adv
+# ***\*enormously*** adv
 英音 ɪ'nɔːməsli     美音 ɪ'nɔːrməsli  
 
   
@@ -2864,7 +2864,7 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
 ### 1.**非常，极其**  
 
 
-# ***<font color=#0099ff>\*enough</font>*** adj
+# ***\*enough*** adj
 英音 ɪ'nʌf     美音 ɪ'nʌf  
 
 | 词频 5 |  
@@ -2881,7 +2881,7 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
  > 有足够10个人吃的食物。    
 
 
-# ***<font color=#0099ff>\*enough</font>*** adv
+# ***\*enough*** adv
 英音 ɪ'nʌf     美音 ɪ'nʌf  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2905,7 +2905,7 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
  > 他长大了，能照看妹妹了。    
 
 
-# ***<font color=#0099ff>\*enough</font>*** pron
+# ***\*enough*** pron
 英音 ɪ'nʌf     美音 ɪ'nʌf  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -2924,7 +2924,7 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*have had enough (of)</font>
+## \*have had enough (of)
 1.**[口语] 够了 / 受够了：**  
 
  > *I have had enough of your rudeness. *  
@@ -2939,7 +2939,7 @@ Building.  （2006 湖南改）
 答案：
 1. easily enough  
 
-# ***<font color=#0099ff>\*enrich</font>*** vt
+# ***\*enrich*** vt
 英音 ɪn'rɪtʃ     美音 ɪn'rɪtʃ  
 
 | 词频 3 |  
@@ -2955,7 +2955,7 @@ Building.  （2006 湖南改）
  > 书籍充实头脑。    
 
 
-# ***<font color=#0099ff>\*ensure</font>*** vt
+# ***\*ensure*** vt
 英音 ɪn'ʃʊə(r)     美音 ɪn'ʃʊr  
 
 | 词频 3 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -2973,7 +2973,7 @@ Building.  （2006 湖南改）
  > 老师们不遗余力地确保每个学生都有同样的机会。    
 
 
-# ***<font color=#0099ff>\*enter</font>*** v
+# ***\*enter*** v
 英音 'entə(r)     美音 'entər  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -3007,7 +3007,7 @@ Building.  （2006 湖南改）
 
 固定搭配
 ---
-## <font color=#0099ff>\*enter into</font>
+## \*enter into
 1.*低义频：* **开始 (讨论)；着手处理：**  
 
  > **enter into discussions / negotiations**  
@@ -3026,7 +3026,7 @@ Building.  （2006 湖南改）
  > 在我的计划中未考虑到她会生病。    
 
 
-# ***<font color=#0099ff>\*enterprise</font>*** n
+# ***\*enterprise*** n
 英音 'entəpraɪz     美音 'entərpraɪz  
 
 | 词频 2 | 书面 2 | 阅读 2 |  
@@ -3044,7 +3044,7 @@ Building.  （2006 湖南改）
 ### 2.*低义频：* **事业心；进取心**  
 
 
-# ***<font color=#0099ff>\*entertain</font>*** v
+# ***\*entertain*** v
 英音 ˌentə'teɪn     美音 ˌentər'teɪn  
 
 | 词频 2 | 阅读 2 |  
@@ -3074,7 +3074,7 @@ Building.  （2006 湖南改）
 entertainer /ˌentə'teɪnə(r)/ n [C]  
 entertaining /ˌentə'teɪnɪŋ/ adj   
 
-# ***<font color=#0099ff>\*entertaining</font>*** adj
+# ***\*entertaining*** adj
 英音 ˌentə'teɪnɪŋ     美音 ˌentər'teɪnɪŋ  
 
 | 词频 2 |  
@@ -3084,7 +3084,7 @@ entertaining /ˌentə'teɪnɪŋ/ adj
 ### 1.*高义频：* **使人愉快的；有趣的**  
 
 
-# ***<font color=#0099ff>\*entertainment</font>*** n
+# ***\*entertainment*** n
 英音 ˌentə'teɪnmənt     美音 ˌentər'teɪnmənt  
 
 | 词频 4 | 口语 1 | 书面 1 | 阅读 3 |  
@@ -3109,7 +3109,7 @@ entertaining /ˌentə'teɪnɪŋ/ adj
  > 她正忙着招待客人。    
 
 
-# ***<font color=#0099ff>\*enthusiasm</font>*** n
+# ***\*enthusiasm*** n
 英音 ɪn'θjuːziæzəm     美音 ɪn'θuːziæzəm  
 
 | 词频 3 | 书面 1 |  
@@ -3127,7 +3127,7 @@ entertaining /ˌentə'teɪnɪŋ/ adj
  > 失败后我们不应该马上泄气。相反，我们应该充满热情地继续努力。  （2014 福建书面表达改）  
 
 
-# ***<font color=#0099ff>\*enthusiastic</font>*** adj
+# ***\*enthusiastic*** adj
 英音 ɪnˌθjuːzi'æstɪk     美音 ɪnˌθuːzi'æstɪk  
 
 | 词频 3 | 口语 1 | 阅读 2 |  
@@ -3149,7 +3149,7 @@ entertaining /ˌentə'teɪnɪŋ/ adj
 ---
 enthusiastically /ɪnˌθjuːzi'æstɪkli/ adv   
 
-# ***<font color=#0099ff>\*entice</font>*** v
+# ***\*entice*** v
 英音 ɪn'taɪs     美音 ɪn'taɪs  
 
 | 词频 1 |  
@@ -3159,7 +3159,7 @@ enthusiastically /ɪnˌθjuːzi'æstɪkli/ adv
 ### 1.**吸引，诱使**  
 
 
-# ***<font color=#0099ff>\*entire</font>*** adj
+# ***\*entire*** adj
 英音 ɪn'taɪə(r)     美音 ɪn'taɪər  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -3180,7 +3180,7 @@ enthusiastically /ɪnˌθjuːzi'æstɪkli/ adv
  > 我完全赞同你的意见。    
 
 
-# ***<font color=#0099ff>\*entirely</font>*** adv
+# ***\*entirely*** adv
 英音 ɪn'taɪəli     美音 ɪn'taɪərli  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -3200,7 +3200,7 @@ enthusiastically /ɪnˌθjuːzi'æstɪkli/ adv
 答案：
 1. entirely  
 
-# ***<font color=#0099ff>\*entitle</font>*** vt
+# ***\*entitle*** vt
 英音 ɪn'taɪtl     美音 ɪn'taɪtl  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -3229,7 +3229,7 @@ enthusiastically /ɪnˌθjuːzi'æstɪkli/ adv
 答案：
 1. to  
 
-# ***<font color=#0099ff>\*entrance</font>*** n
+# ***\*entrance*** n
 英音 'entrəns     美音 'entrəns  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -3269,7 +3269,7 @@ enthusiastically /ɪnˌθjuːzi'æstɪkli/ adv
  > 该博物馆免费入场。    
 
 
-# ***<font color=#0099ff>\*entry</font>*** n
+# ***\*entry*** n
 英音 'entri     美音 'entri  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -3312,7 +3312,7 @@ enthusiastically /ɪnˌθjuːzi'æstɪkli/ adv
  > 这幅画是我参加绘画比赛的作品。    
 
 
-# ***<font color=#0099ff>\*envelope</font>*** n
+# ***\*envelope*** n
 英音 'envələʊp     美音 'envəloʊp  
 
 | 词频 3 | 口语 1 |  
@@ -3324,7 +3324,7 @@ enthusiastically /ɪnˌθjuːzi'æstɪkli/ adv
 ### 1.*高义频：* **信封；封皮**  
 
 
-# ***<font color=#0099ff>\*environment</font>*** n
+# ***\*environment*** n
 英音 ɪn'vaɪrənmənt     美音 ɪn'vaɪrənmənt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3372,7 +3372,7 @@ environmentally /ɪnˌvaɪrən'mentəli/ adv
 
 environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]  
 
-# ***<font color=#0099ff>\*environmental</font>*** adj
+# ***\*environmental*** adj
 英音 ɪnˌvaɪrən'mentl     美音 ɪnˌvaɪrən'mentl  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -3382,7 +3382,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 ### 1.*高义频：* **环境的**  
 
 
-# ***<font color=#0099ff>\*environmentalist</font>*** n
+# ***\*environmentalist*** n
 英音 ɪnˌvaɪrən'mentəlɪst     美音 ɪnˌvaɪrən'mentəlɪst  
 
 | 词频 2 |  
@@ -3394,7 +3394,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 ### 1.*高义频：* **环境保护论者**  
 
 
-# ***<font color=#0099ff>\*envy</font>*** n
+# ***\*envy*** n
 英音 'envi     美音 'envi  
 
 | 词频 2 | 阅读 2 |  
@@ -3420,11 +3420,11 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*be the envy of </font>
+## \*be the envy of 
 1.**是令…羡慕或嫉妒的对象**  
 
 
-# ***<font color=#0099ff>\*envy</font>*** vt
+# ***\*envy*** vt
 英音 'envi     美音 'envi  
 
 | 词频 2 | 阅读 2 |  
@@ -3452,7 +3452,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 答案：
 1. envy  
 
-# ***<font color=#0099ff>\*enzyme</font>*** n
+# ***\*enzyme*** n
 英音 'enzaɪm     美音 'enzaɪm  
 
 | 词频 1 |  
@@ -3462,7 +3462,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 ### 1.**酶**  
 
 
-# ***<font color=#0099ff>\*epic</font>*** n
+# ***\*epic*** n
 英音 'epɪk     美音 'epɪk  
 
 | 词频 1 |  
@@ -3472,7 +3472,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 ### 1.**史诗，叙事诗**  
 
 
-# ***<font color=#0099ff>\*epic</font>*** adj
+# ***\*epic*** adj
 英音 'epɪk     美音 'epɪk  
 
 | 词频 1 |  
@@ -3482,7 +3482,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 ### 1.**史诗般的,壮丽的,宏大的**  
 
 
-# ***<font color=#0099ff>\*epidemic</font>*** n
+# ***\*epidemic*** n
 英音 ˌepɪ'demɪk     美音 ˌepɪ'demɪk  
 
 | 词频 1 |  
@@ -3492,7 +3492,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 ### 1.**流行病**  
 
 
-# ***<font color=#0099ff>\*episode</font>*** n
+# ***\*episode*** n
 英音 'epɪsəʊd     美音 'epɪsoʊd  
 
 | 词频 1 |  
@@ -3502,7 +3502,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 ### 1.**(电视连续剧或广播剧的) 一集**  
 
 
-# ***<font color=#0099ff>\*equal</font>*** adj  重难点词汇
+# ***\*equal*** adj  重难点词汇
 英音 'iːkwəl     美音 'iːkwəl  
 
 | 词频 4 | 口语 3 | 书面 2 | 阅读 3 |  
@@ -3527,7 +3527,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*be equal to</font>
+## \*be equal to
 1.*高义频：* **与...相等 / 平等：**  
 
  > *The rent was equal to half his monthly income. *  
@@ -3551,7 +3551,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 答案：
 1. equal  
 
-# ***<font color=#0099ff>\*equal</font>*** v  重难点词汇
+# ***\*equal*** v  重难点词汇
 英音 'iːkwəl     美音 'iːkwəl  
 
 | 词频 4 | 口语 2 | 阅读 3 |  
@@ -3567,7 +3567,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
  > 论力气，谁也比不上他。    
 
 
-# ***<font color=#0099ff>\*equal</font>*** n  重难点词汇
+# ***\*equal*** n  重难点词汇
 英音 'iːkwəl     美音 'iːkwəl  
 
 | 词频 4 | 书面 2 | 阅读 3 |  
@@ -3586,7 +3586,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
  > 在战术方面谁也比不上蚂蚁。  （2015 安徽）  
 
 
-# ***<font color=#0099ff>\*equality</font>*** n
+# ***\*equality*** n
 英音 i'kwɒləti     美音 i'kwɑːləti  
 
 | 词频 3 |  
@@ -3606,7 +3606,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
  > 种族平等    
 
 
-# ***<font color=#0099ff>\*equally</font>*** adv
+# ***\*equally*** adv
 英音 'iːkwəli     美音 'iːkwəli  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -3627,7 +3627,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 答案：
 1. equally  2. equally  
 
-# ***<font color=#0099ff>\*equate</font>*** vt
+# ***\*equate*** vt
 英音 i'kweɪt     美音 i'kweɪt  
 
 | 词频 1 |  
@@ -3641,7 +3641,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
  > 有些父母把教育和考试成绩优秀等同起来。    
 
 
-# ***<font color=#0099ff>\*equator</font>*** n
+# ***\*equator*** n
 英音 ɪ'kweɪt(ə)     美音 ɪ'kweɪtər  
 
 | 词频 1 |  
@@ -3651,7 +3651,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 ### 1.*高义频：* **[用单数，常用作the equator] 赤道**  
 
 
-# ***<font color=#0099ff>\*equip</font>*** vt
+# ***\*equip*** vt
 英音 ɪ'kwɪp     美音 ɪ'kwɪp  
 
 | 词频 3 | 阅读 3 |  
@@ -3699,7 +3699,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
  > 良好的教育能使你受用终生。    
 
 
-# ***<font color=#0099ff>\*equipment</font>*** n
+# ***\*equipment*** n
 英音 ɪ'kwɪpmənt     美音 ɪ'kwɪpmənt  
 
 | 词频 5 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -3713,7 +3713,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
  > 健身馆里有很多设备。  （译林① – 1）  
 
 
-# ***<font color=#0099ff>\*era</font>*** n
+# ***\*era*** n
 英音 'ɪrə     美音 'ɪərə  
 
 | 词频 1 |  
@@ -3732,7 +3732,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
  > 我们现在正处于一个崭新的伟大的信息时代。    
 
 
-# ***<font color=#0099ff>\*erase</font>*** vt
+# ***\*erase*** vt
 英音 ɪ'reɪz     美音 ɪ'reɪs  
 
 | 词频 1 |  
@@ -3742,7 +3742,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 ### 1.*高义频：* **删除；擦掉；消除**  
 
 
-# ***<font color=#0099ff>\*eraser</font>*** n
+# ***\*eraser*** n
 英音 ɪ'reɪsər     美音 ɪ'reɪzə(r)  
 
 | 词频 1 |  
@@ -3752,7 +3752,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 ### 1.*高义频：* **橡皮擦**  
 
 
-# ***<font color=#0099ff>\*erosion</font>*** n
+# ***\*erosion*** n
 英音 ɪ'rəʊʒn     美音 ɪ'roʊʒn  
 
 | 词频 1 |  
@@ -3762,7 +3762,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 ### 1.**侵蚀, (土壤) 流失**  
 
 
-# ***<font color=#0099ff>\*error</font>*** n
+# ***\*error*** n
 英音 'erə(r)     美音 'erər  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -3783,7 +3783,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*in error </font>
+## \*in error 
 1.**弄错了的；错误地：**  
 
  > *I'm afraid he is in error in saying that.*  
@@ -3793,7 +3793,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
   
 
 
-# ***<font color=#0099ff>\*erupt</font>*** vi
+# ***\*erupt*** vi
 英音 ɪ'rʌpt     美音 ɪ'rʌpt  
 
 | 词频 2 | 阅读 2 |  
@@ -3809,7 +3809,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
  > 足球赛后发生了暴力事件。    
 
 
-# ***<font color=#0099ff>\*erupt</font>*** vt
+# ***\*erupt*** vt
 英音 ɪ'rʌpt     美音 ɪ'rʌpt  
 
 | 词频 2 |  
@@ -3819,7 +3819,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 ### 1.**（火山的）爆发；喷发**  
 
 
-# ***<font color=#0099ff>\*eruption</font>*** n
+# ***\*eruption*** n
 英音 ɪ'rʌpʃn     美音 ɪ'rʌpʃn  
 
 | 词频 2 |  
@@ -3829,7 +3829,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 ### 1.**火山爆发；（战争等）爆发**  
 
 
-# ***<font color=#0099ff>\*escape</font>*** v
+# ***\*escape*** v
 英音 ɪ'skeɪp     美音 ɪ'skeɪp  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -3867,7 +3867,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
  > 一个小孔能让烟从顶部冒出来。  （2010 福建）  
 
 
-# ***<font color=#0099ff>\*escape</font>*** n
+# ***\*escape*** n
 英音 ɪ'skeɪp     美音 ɪ'skeɪp  
 
 | 词频 4 | 口语 1 |  
@@ -3897,7 +3897,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
  > 安全门    
 
 
-# ***<font color=#0099ff>\*especially</font>*** adv
+# ***\*especially*** adv
 英音 ɪ'speʃəli     美音 ɪ'speʃəli  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3924,7 +3924,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 答案：
 1. especially  2. especially / particularly  
 
-# ***<font color=#0099ff>\*essay</font>*** n
+# ***\*essay*** n
 英音 'eseɪ     美音 'eseɪ  
 
 | 词频 4 | 口语 1 |  
@@ -3942,7 +3942,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
  > 上周，我甚至忘了写英语作文。  （译林⑤ – 1）  
 
 
-# ***<font color=#0099ff>\*essential</font>*** adj
+# ***\*essential*** adj
 英音 ɪ'senʃl     美音 ɪ'senʃl  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -3974,7 +3974,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 ---
 essentially /ɪ'senʃəli/ adv   
 
-# ***<font color=#0099ff>\*establish</font>*** vt  重难点词汇
+# ***\*establish*** vt  重难点词汇
 英音 ɪ'stæblɪʃ     美音 ɪ'stæblɪʃ  
 
 | 词频 3 | 口语 2 | 书面 3 |  
@@ -4025,7 +4025,7 @@ established /ɪ'stæblɪʃt/ adj
 答案：
 1. as  
 
-# ***<font color=#0099ff>\*establishment</font>*** n
+# ***\*establishment*** n
 英音 ɪ'stæblɪʃmənt     美音 ɪ'stæblɪʃmənt  
 
 | 词频 1 | 书面 2 | 阅读 1 |  
@@ -4044,7 +4044,7 @@ established /ɪ'stæblɪʃt/ adj
  > 教育机构    
 
 
-# ***<font color=#0099ff>\*estate</font>*** n
+# ***\*estate*** n
 英音 ɪ'steɪt     美音 ɪ'steɪt  
 
 | 词频 2 | 口语 2 | 书面 2 |  
@@ -4062,7 +4062,7 @@ established /ɪ'stæblɪʃt/ adj
 ### 3.*低义频：* **[常用单数] 个人全部财产 (尤指遗产)**  
 
 
-# ***<font color=#0099ff>\*estimate</font>*** vt
+# ***\*estimate*** vt
 英音 'estɪmeɪt     美音 'estɪmeɪt  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -4090,7 +4090,7 @@ established /ɪ'stæblɪʃt/ adj
  > 据估计，英语中80%的谈话都是闲谈。  （外研⑥ – 1）  
 
 
-# ***<font color=#0099ff>\*estimate</font>*** n
+# ***\*estimate*** n
 英音 'estɪmət     美音 'estɪmeɪt  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -4104,7 +4104,7 @@ established /ɪ'stæblɪʃt/ adj
  > 保守的/粗略的估算    
 
 
-# ***<font color=#0099ff>\*etc</font>*** abbr
+# ***\*etc*** abbr
 英音 etˈset(ə)rə     美音 etˈset(ə)rə  
 
 | 词频 3 |  
@@ -4114,7 +4114,7 @@ established /ɪ'stæblɪʃt/ adj
 ### 1.*高义频：* **诸如此类；等等**  
 
 
-# ***<font color=#0099ff>\*etc</font>*** adv
+# ***\*etc*** adv
 英音 et'set(ə)rə     美音 et'set(ə)rə  
 
 | 词频 3 |  
@@ -4126,7 +4126,7 @@ established /ɪ'stæblɪʃt/ adj
 ### 1.*高义频：* **诸如此类的事物；等等**  
 
 
-# ***<font color=#0099ff>\*ethnic</font>*** adj
+# ***\*ethnic*** adj
 英音 'eθnɪk     美音 'eθnɪk  
 
 | 词频 1 | 书面 1 |  
@@ -4136,7 +4136,7 @@ established /ɪ'stæblɪʃt/ adj
 ### 1.*高义频：* **种族的；民族的**  
 
 
-# ***<font color=#0099ff>\*euro</font>*** n
+# ***\*euro*** n
 英音 'jʊərəʊ     美音 'jʊroʊ  
 
 | 词频 2 |  
@@ -4146,7 +4146,7 @@ established /ɪ'stæblɪʃt/ adj
 ### 1.*高义频：* **(pl euro / euros) 欧元**  
 
 
-# ***<font color=#0099ff>\*evacuate</font>*** v
+# ***\*evacuate*** v
 英音 ɪ'vækjueɪt     美音 ɪ'vækjueɪt  
 
 | 词频 1 |  
@@ -4170,7 +4170,7 @@ established /ɪ'stæblɪʃt/ adj
  > 当地居民已收到撤离的通知。    
 
 
-# ***<font color=#0099ff>\*evaluate</font>*** vt
+# ***\*evaluate*** vt
 英音 ɪ'væljueɪt     美音 ɪ'væljueɪt  
 
 | 词频 2 | 阅读 1 |  
@@ -4194,7 +4194,7 @@ established /ɪ'stæblɪʃt/ adj
 答案：
 1. evaluated / assessed  
 
-# ***<font color=#0099ff>\*eve</font>*** n
+# ***\*eve*** n
 英音 iːv     美音 iːv  
 
 | 词频 2 |  
@@ -4214,7 +4214,7 @@ established /ɪ'stæblɪʃt/ adj
  > 在选举前夕    
 
 
-# ***<font color=#0099ff>\*even</font>*** adv
+# ***\*even*** adv
 英音 'iːvn     美音 'iːvn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4248,26 +4248,26 @@ Notes: even可用以强调句子的任何成分，置于被修饰的词语前；
 
 固定搭配
 ---
-## <font color=#0099ff>\*even if / though</font>
+## \*even if / though
 1.**尽管；即使：**  
 
  > *My grandfather still plays tennis now and then, even though he's in his nineties.*  
  > 我爷爷尽管90多岁了，仍然时不时地打打网球。  （2016 北京）  
 
-## <font color=#0099ff>\*even now / then </font>
+## \*even now / then 
 1.**即使到现在 / 那时；即便如此 / 那样：**  
 
  > *Even now water is still the main resource to produce electricity. *  
  > 即使到现在，水仍是主要的发电资源。    
 
-## <font color=#0099ff>\*even so </font>
+## \*even so 
 1.**尽管如此；即使那样：**  
 
  > *Your uncle seems to be a good driver; even so, I wouldn't dare to travel in his car.*  
  > 你叔叔看上去开车技术不错；即便如此，我也不敢坐他的车。    
 
 
-# ***<font color=#0099ff>\*even</font>*** adj
+# ***\*even*** adj
 英音 'iːvn     美音 'iːvn  
 
 | 词频 5 |  
@@ -4284,7 +4284,7 @@ Notes: even可用以强调句子的任何成分，置于被修饰的词语前；
 答案：
 1. Even so  
 
-# ***<font color=#0099ff>\*evening</font>*** n
+# ***\*evening*** n
 英音 'iːvnɪŋ     美音 'iːvnɪŋ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4313,7 +4313,7 @@ Notes: even可用以强调句子的任何成分，置于被修饰的词语前；
  > 英语晚会    
 
 
-# ***<font color=#0099ff>\*event</font>*** n  重难点词汇
+# ***\*event*** n  重难点词汇
 英音 ɪ'vent     美音 ɪ'vent  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4355,19 +4355,19 @@ Notes: even可用以强调句子的任何成分，置于被修饰的词语前；
 
 固定搭配
 ---
-## <font color=#0099ff>\*at all events / in any event </font>
+## \*at all events / in any event 
 1.**不论怎样；无论如何：**  
 
  > *At all events we will carry the struggle through to the end. *  
  > 无论如何我们都会拼搏到底。    
 
-## <font color=#0099ff>\*in the event </font>
+## \*in the event 
 1.**结果；到头来：**  
 
  > *I got very nervous about the exam, but in the event, I needn’t have worried; it was really easy. *  
  > 我对考试提心吊胆，但其实我本不必担心，这次考试的确很容易。    
 
-## <font color=#0099ff>\*in the event of / (that) </font>
+## \*in the event of / (that) 
 1.**如果…发生；倘若：**  
 
  > *In the event of an accident, call this number. *  
@@ -4377,7 +4377,7 @@ Notes: even可用以强调句子的任何成分，置于被修饰的词语前；
  > 如果她还不知道，我会告诉她的。    
 
 
-# ***<font color=#0099ff>\*eventual</font>*** adj
+# ***\*eventual*** adj
 英音 ɪ'ventʃuəl     美音 ɪ'ventʃuəl  
 
 | 词频 1 |  
@@ -4395,7 +4395,7 @@ Notes: even可用以强调句子的任何成分，置于被修饰的词语前；
  > 最终结果    
 
 
-# ***<font color=#0099ff>\*eventually</font>*** adv
+# ***\*eventually*** adv
 英音 ɪ'ventʃuəli     美音 ɪ'ventʃuəli  
 
 | 词频 4 | 口语 3 | 书面 2 | 阅读 3 |  
@@ -4422,7 +4422,7 @@ Notes: even可用以强调句子的任何成分，置于被修饰的词语前；
 答案：
 1. eventually  
 
-# ***<font color=#0099ff>\*ever</font>*** adv
+# ***\*ever*** adv
 英音 'evə(r)     美音 'evər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4456,10 +4456,10 @@ Notes: ever常用于否定句、一般疑问句以及表示条件和比较的从
 
 固定搭配
 ---
-## <font color=#0099ff>\*ever after </font>
+## \*ever after 
 1.**从那时以后一直**  
 
-## <font color=#0099ff>\*ever since </font>
+## \*ever since 
 1.**自从；从…以来；此后一直：**  
 
  > *Their work has influenced other writers ever since. *  
@@ -4485,7 +4485,7 @@ D.never
 答案：
 1. A  2. B  
 
-# ***<font color=#0099ff>\*everlasting</font>*** adj
+# ***\*everlasting*** adj
 英音 ˌevə'lɑːstɪŋ     
 
   
@@ -4495,7 +4495,7 @@ D.never
 ### 1.**永恒的；持久的；无止境的**  
 
 
-# ***<font color=#0099ff>\*every</font>*** adj
+# ***\*every*** adj
 英音 'evri     美音 'evri  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4534,7 +4534,7 @@ D.never
 
 固定搭配
 ---
-## <font color=#0099ff>\*every now and then </font>
+## \*every now and then 
 1.**不时地；偶尔 (every so often)：**  
 
  > *Every now and then I watch a soap on TV at my friend’s house. *  
@@ -4544,7 +4544,7 @@ D.never
   
 
 
-# ***<font color=#0099ff>\*everybody</font>*** pron
+# ***\*everybody*** pron
 英音 'evribɒdi     美音 'evribɑːdi  
 
 | 词频 5 | 口语 3 | 书面 1 |  
@@ -4564,7 +4564,7 @@ Notes: 句中常用they或he指代everybody / everyone。
  > 人人都有自己的职责。    
 
 
-# ***<font color=#0099ff>\*everyday</font>*** adj
+# ***\*everyday*** adj
 英音 'evrideɪ     美音 'evrideɪ  
 
 | 词频 4 |  
@@ -4585,7 +4585,7 @@ Notes: everyday是形容词，通常作前置定语，而everyday是副词短语
  > 我们每天都说英语。    
 
 
-# ***<font color=#0099ff>\*everyone</font>*** pron
+# ***\*everyone*** pron
 英音 'evriwʌn     美音 'evriwʌn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4613,7 +4613,7 @@ D.Someone
 答案：
 1. C  
 
-# ***<font color=#0099ff>\*everything</font>*** pron
+# ***\*everything*** pron
 英音 'evriθɪŋ     美音 'evriθɪŋ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4646,7 +4646,7 @@ D.Someone
 答案：
 1. anything → everything  
 
-# ***<font color=#0099ff>\*everywhere</font>*** adv
+# ***\*everywhere*** adv
 英音 'evriweə(r)     美音 'evriwer  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -4673,7 +4673,7 @@ Notes: everywhere可引导地点状语从句。
 答案：
 1. everywhere  
 
-# ***<font color=#0099ff>\*evidence</font>*** n
+# ***\*evidence*** n
 英音 'evɪdəns     美音 'evɪdəns  
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -4699,7 +4699,7 @@ Notes: everywhere可引导地点状语从句。
  > 法官听取证词后才作决定。  （外研⑥ – 7）  
 
 
-# ***<font color=#0099ff>\*evident</font>*** adj
+# ***\*evident*** adj
 英音 'evɪdənt     美音 'evɪdənt  
 
 | 词频 1 | 书面 1 | 阅读 1 |  
@@ -4720,7 +4720,7 @@ Notes: everywhere可引导地点状语从句。
 ---
 evidently /'evɪdəntli/ adv   
 
-# ***<font color=#0099ff>\*evil</font>*** adj
+# ***\*evil*** adj
 英音 'iːvl     美音 'iːvl  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -4733,7 +4733,7 @@ evidently /'evɪdəntli/ adv
  > 邪念    
 
 
-# ***<font color=#0099ff>\*evil</font>*** n
+# ***\*evil*** n
 英音 'iːvl     美音 'iːvl  
 
 | 词频 2 |  
@@ -4751,7 +4751,7 @@ evidently /'evɪdəntli/ adv
  > 人们常说金钱是万恶之源。    
 
 
-# ***<font color=#0099ff>\*evolution</font>*** n
+# ***\*evolution*** n
 英音 ˌiːvə'luːʃn     美音 ˌevə'luːʃn  
 
 | 词频 1 | 阅读 1 |  
@@ -4772,7 +4772,7 @@ evidently /'evɪdəntli/ adv
  > 计算机的发展    
 
 
-# ***<font color=#0099ff>\*evolve</font>*** v
+# ***\*evolve*** v
 英音 i'vɒlv     美音 i'vɑːlv  
 
 | 词频 3 | 阅读 2 |  
@@ -4790,7 +4790,7 @@ evidently /'evɪdəntli/ adv
  > 你认为人是从类人猿进化而来的吗？    
 
 
-# ***<font color=#0099ff>\*ex-</font>*** prefix
+# ***\*ex-*** prefix
 英音 eks     美音 eks  
 
 | 词频 1 |  
@@ -4800,7 +4800,7 @@ evidently /'evɪdəntli/ adv
 ### 1.*高义频：* **以前的；前任的**  
 
 
-# ***<font color=#0099ff>\*ex-husband</font>*** n
+# ***\*ex-husband*** n
 英音 'eksh'ʌzbənd     美音 'eksh'ʌzbənd  
 
 | 词频 1 |  
@@ -4810,7 +4810,7 @@ evidently /'evɪdəntli/ adv
 ### 1.**前夫**  
 
 
-# ***<font color=#0099ff>\*exact</font>*** adj
+# ***\*exact*** adj
 英音 ɪɡ'zækt     美音 ɪɡ'zækt  
 
 | 词频 3 |  
@@ -4832,14 +4832,14 @@ evidently /'evɪdəntli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*to be exact </font>
+## \*to be exact 
 1.**确切地说：**  
 
  > *I read an article about paper, to be exact, about how much Americans use up each year. *  
  > 我读到一篇有关纸的文章，确切地说，是关于美国人每年用纸量的文章。    
 
 
-# ***<font color=#0099ff>\*exactly</font>*** adv
+# ***\*exactly*** adv
 英音 ɪɡ'zæktli     美音 ɪɡ'zæktli  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -4864,7 +4864,7 @@ evidently /'evɪdəntli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*not exactly </font>
+## \*not exactly 
 1.**不完全；并不；根本不：**  
 
  > *It's similar to the music you listen to, but it's not exactly the same.*  
@@ -4887,7 +4887,7 @@ evidently /'evɪdəntli/ adv
 答案：
 1. Exactly  2. Exactly  
 
-# ***<font color=#0099ff>\*exaggerate</font>*** v
+# ***\*exaggerate*** v
 英音 ɪɡ'zædʒəreɪt     美音 ɪɡ'zædʒəreɪt  
 
 | 词频 1 |  
@@ -4897,7 +4897,7 @@ evidently /'evɪdəntli/ adv
 ### 1.*高义频：* **夸张；夸大**  
 
 
-# ***<font color=#0099ff>\*exaggerated</font>*** adj
+# ***\*exaggerated*** adj
 英音 ɪɡ'zædʒəreɪtɪd     美音 ɪɡ'zædʒəreɪtɪd  
 
   
@@ -4907,7 +4907,7 @@ evidently /'evɪdəntli/ adv
 ### 1.**(声音或动作) 夸张的**  
 
 
-# ***<font color=#0099ff>\*exam</font>*** n
+# ***\*exam*** n
 英音 /ɪɡ'zæm/     美音 /ɪɡ'zæm/  
 
 | 词频 5 |  
@@ -4923,7 +4923,7 @@ evidently /'evɪdəntli/ adv
  > 眼科检查    
 
 
-# ***<font color=#0099ff>\*examination</font>*** n
+# ***\*examination*** n
 英音 ɪɡˌzæmɪ'neɪʃn     美音 ɪɡˌzæmɪ'neɪʃn  
 
 | 词频 4 | 书面 2 |  
@@ -4946,7 +4946,7 @@ evidently /'evɪdəntli/ adv
  > 体格检查    
 
 
-# ***<font color=#0099ff>\*examine</font>*** vt
+# ***\*examine*** vt
 英音 ɪɡ'zæmɪn     美音 ɪɡ'zæmɪn  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -4970,7 +4970,7 @@ evidently /'evɪdəntli/ adv
 examinee /ɪɡˌzæmɪ'niː/ n [C]  
 examiner /ɪɡ'zæmɪnə(r)/ n [C]  
 
-# ***<font color=#0099ff>\*example</font>*** n
+# ***\*example*** n
 英音 ɪɡ'zɑːmpl     美音 ɪɡ'zæmpl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4995,29 +4995,29 @@ examiner /ɪɡ'zæmɪnə(r)/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*follow sb's example</font>
+## \*follow sb's example
 1.**学习某人；效仿某人**  
 
-## <font color=#0099ff>\*for example </font>
+## \*for example 
 1.**例如：**  
 
  > *Many great men have risen from poverty — Lincoln and Edison, for example. *  
  > 许多伟人出身贫苦，例如林肯和爱迪生。    
 
-## <font color=#0099ff>\*set an example to sb</font>
+## \*set an example to sb
 1.**为某人树立榜样：**  
 
  > *Helen has set an excellent example to all of us.*  
  > 海伦为我们大家树立了好榜样。  （2008 湖南书面表达）  
 
-## <font color=#0099ff>\*take ... for example </font>
+## \*take ... for example 
 1.**以…为例：**  
 
  > *You can take your research work for example. *  
  > 你可以拿你的研究工作做个例子。    
 
 
-# ***<font color=#0099ff>\*excavate</font>*** vt
+# ***\*excavate*** vt
 英音 'ekskəveɪt     美音 'ekskəveɪt  
 
 | 词频 1 |  
@@ -5027,7 +5027,7 @@ examiner /ɪɡ'zæmɪnə(r)/ n [C]
 ### 1.*高义频：* **挖掘；发掘**  
 
 
-# ***<font color=#0099ff>\*excavation</font>*** n
+# ***\*excavation*** n
 英音 ˌekskə'veɪʃn     美音 ˌekskə'veɪʃn  
 
 | 词频 1 |  
@@ -5039,7 +5039,7 @@ examiner /ɪɡ'zæmɪnə(r)/ n [C]
 ### 1.*高义频：* **挖掘；发掘**  
 
 
-# ***<font color=#0099ff>\*exceed</font>*** vt
+# ***\*exceed*** vt
 英音 ɪk'siːd     美音 ɪk'siːd  
 
 | 词频 1 |  
@@ -5056,7 +5056,7 @@ examiner /ɪɡ'zæmɪnə(r)/ n [C]
 答案：
 1. exceeding  
 
-# ***<font color=#0099ff>\*excellent</font>*** adj
+# ***\*excellent*** adj
 英音 'eksələnt     美音 'eksələnt  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -5078,7 +5078,7 @@ examiner /ɪɡ'zæmɪnə(r)/ n [C]
  > 这里的饭菜和服务都是一流的。    
 
 
-# ***<font color=#0099ff>\*except</font>*** conj & prep
+# ***\*except*** conj & prep
 英音 ɪk'sept     美音 ɪk'sept  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -5107,7 +5107,7 @@ examiner /ɪɡ'zæmɪnə(r)/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*except for </font>
+## \*except for 
 1.**除了…外；除去；只是：**  
 
  > *His composition is good, except for some spelling mistakes. *  
@@ -5136,7 +5136,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
 答案：
 1. for  
 
-# ***<font color=#0099ff>\*except</font>*** conj
+# ***\*except*** conj
 英音 ɪk'sept     美音 ɪk'sept  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -5164,7 +5164,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*except for</font>
+## \*except for
 1.**除了…外；除去；只是：**  
 
  > *His composition is good, except for some spelling mistakes.*  
@@ -5193,7 +5193,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
 答案：
 1. for  
 
-# ***<font color=#0099ff>\*exception</font>*** n
+# ***\*exception*** n
 英音 ɪk'sepʃn     美音 ɪk'sepʃn  
 
 | 词频 2 |  
@@ -5203,7 +5203,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
 ### 1.**例外**  
 
 
-# ***<font color=#0099ff>\*exceptional</font>*** adj
+# ***\*exceptional*** adj
 英音 ɪk'sepʃənl     美音 ɪk'sepʃənl  
 
 | 词频 2 |  
@@ -5213,7 +5213,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
 ### 1.**杰出的 (outstanding)；罕见的**  
 
 
-# ***<font color=#0099ff>\*exceptionally</font>*** adv
+# ***\*exceptionally*** adv
 英音 ɪk'sepʃənəli     美音 ɪk'sepʃənəli  
 
   
@@ -5223,7 +5223,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
 ### 1.**极其，非常**  
 
 
-# ***<font color=#0099ff>\*excerpt</font>*** n
+# ***\*excerpt*** n
 英音 'eksɜːpt     美音 'eksɜːpt  
 
   
@@ -5233,7 +5233,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
 ### 1.**摘录，节录**  
 
 
-# ***<font color=#0099ff>\*exchange</font>*** n  重难点词汇
+# ***\*exchange*** n  重难点词汇
 英音 ɪks'tʃeɪndʒ     美音 ɪks'tʃeɪndʒ  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -5275,7 +5275,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
  > 纽约证券交易所    
 
 
-# ***<font color=#0099ff>\*exchange</font>*** vt  重难点词汇
+# ***\*exchange*** vt  重难点词汇
 英音 ɪks'tʃeɪndʒ     美音 ɪks'tʃeɪndʒ  
 
 | 词频 4 |  
@@ -5310,7 +5310,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
 答案：
 1.  for  
 
-# ***<font color=#0099ff>\*excite</font>*** vt
+# ***\*excite*** vt
 英音 ɪk'saɪt     美音 ɪk'saɪt  
 
 | 词频 2 |  
@@ -5331,7 +5331,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
  > 博物馆提供很多活动来激发孩子们的兴趣。  （2012 全国改）  
 
 
-# ***<font color=#0099ff>\*excited</font>*** adj
+# ***\*excited*** adj
 英音 ɪk'saɪtɪd     美音 ɪk'saɪtɪd  
 
 | 词频 5 |  
@@ -5360,7 +5360,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
  > 十二岁时，作为生日礼物我得到了一辆不错的自行车。我兴奋不已，以至于迫不及待地想骑一下。  （2014 福建）  
 
 
-# ***<font color=#0099ff>\*excitement</font>*** n
+# ***\*excitement*** n
 英音 ɪk'saɪtmənt     美音 ɪk'saɪtmənt  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -5379,7 +5379,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
  > 马戏团的到来使镇上的每个孩子都很兴奋。    
 
 
-# ***<font color=#0099ff>\*exciting</font>*** adj
+# ***\*exciting*** adj
 英音 ɪk'saɪtɪŋ     美音 ɪk'saɪtɪŋ  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -5395,7 +5395,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
  > 马拉松比赛无论在哪一年都是一件令人兴奋的体育赛事。  （2008 广东）  
 
 
-# ***<font color=#0099ff>\*exclaim</font>*** v
+# ***\*exclaim*** v
 英音 ɪk'skleɪm     美音 ɪk'skleɪm  
 
 | 词频 1 |  
@@ -5405,7 +5405,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
 ### 1.**惊叫，大叫**  
 
 
-# ***<font color=#0099ff>\*exclude</font>*** vt
+# ***\*exclude*** vt
 英音 ɪk'skluːd     美音 ɪk'skluːd  
 
 | 词频 1 | 书面 1 |  
@@ -5420,7 +5420,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
  > 这篇报道特意没包括某些数据。    
 
 
-# ***<font color=#0099ff>\*excluding</font>*** prep
+# ***\*excluding*** prep
 英音 ɪk'skluːdɪŋ     美音 ɪk'skluːdɪŋ  
 
 | 词频 1 |  
@@ -5430,7 +5430,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
 ### 1.*高义频：* **不包括；除去**  
 
 
-# ***<font color=#0099ff>\*excuse</font>*** vt  重难点词汇
+# ***\*excuse*** vt  重难点词汇
 英音 ɪk'skjuːz     美音 ɪk'skjuːz  
 
 | 词频 5 | 口语 3 |  
@@ -5463,14 +5463,14 @@ exception /ɪk'sepʃn/ n [C] & [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*excuse me </font>
+## \*excuse me 
 1.**[用于与陌生人谈话、插话、表示异议等] 对不起；抱歉；劳驾：**  
 
  > *Excuse me, could you please move in a bit to let me pass? *  
  > 对不起，请挪一下，让我过去好吗？    
 
 
-# ***<font color=#0099ff>\*excuse</font>*** n  重难点词汇
+# ***\*excuse*** n  重难点词汇
 英音 ɪk'skjuːs     美音 ɪk'skjuːs  
 
 | 词频 5 | 口语 1 | 书面 1 |  
@@ -5496,7 +5496,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
 答案：
 1. for  
 
-# ***<font color=#0099ff>\*executive</font>*** n
+# ***\*executive*** n
 英音 ɪɡ'zekjətɪv     美音 ɪg'zekjətɪv  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -5511,7 +5511,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
  > 首席执行官    
 
 
-# ***<font color=#0099ff>\*exercise</font>*** n
+# ***\*exercise*** n
 英音 'eksəsaɪz     美音 'eksərsaɪz  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -5542,7 +5542,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
  > 做第50页的练习。    
 
 
-# ***<font color=#0099ff>\*exercise</font>*** v
+# ***\*exercise*** v
 英音 'eksəsaɪz     美音 'eksərsaɪz  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -5569,7 +5569,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
  > 使用这台设备时你务必要小心。    
 
 
-# ***<font color=#0099ff>\*exhaust</font>*** vt
+# ***\*exhaust*** vt
 英音 ɪɡ'zɔːst     美音 ɪɡ'zɔːst  
 
 | 词频 2 |  
@@ -5579,7 +5579,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
 ### 1.*高义频：* **使精疲力竭；用完；耗尽**  
 
 
-# ***<font color=#0099ff>\*exhausted</font>*** adj
+# ***\*exhausted*** adj
 英音 ɪɡ'zɔːstɪd     美音 ɪɡ'zɔːstɪd  
 
 | 词频 2 | 阅读 1 |  
@@ -5602,7 +5602,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
 答案：
 1. exhausted  
 
-# ***<font color=#0099ff>\*exhausting</font>*** adj
+# ***\*exhausting*** adj
 英音 ɪɡ'zɔːstɪŋ     美音 ɪɡ'zɔːstɪŋ  
 
 | 词频 1 |  
@@ -5612,7 +5612,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
 ### 1.*高义频：* **使人精疲力竭的**  
 
 
-# ***<font color=#0099ff>\*exhaustion</font>*** n
+# ***\*exhaustion*** n
 英音 ɪɡ'zɔːstʃən     美音 ɪɡ'zɔːstʃən  
 
 | 词频 1 |  
@@ -5622,7 +5622,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
 ### 1.**疲惫；精疲力竭**  
 
 
-# ***<font color=#0099ff>\*exhibit</font>*** v
+# ***\*exhibit*** v
 英音 ɪɡ'zɪbɪt     美音 ɪɡ'zɪbɪt  
 
 | 词频 4 | 阅读 2 |  
@@ -5643,7 +5643,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
  > 面对危险她毫无惧色。    
 
 
-# ***<font color=#0099ff>\*exhibit</font>*** n
+# ***\*exhibit*** n
 英音 ɪɡ'zɪbɪt     美音 ɪɡ'zɪbɪt  
 
 | 词频 4 | 阅读 2 |  
@@ -5656,7 +5656,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
  > 请勿触摸展品。    
 
 
-# ***<font color=#0099ff>\*exhibition</font>*** n
+# ***\*exhibition*** n
 英音 ˌeksɪ'bɪʃn     美音 ˌeksɪ'bɪʃn  
 
 | 词频 4 | 书面 2 | 阅读 3 |  
@@ -5681,7 +5681,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
 答案：
 1. Exhibition  
 
-# ***<font color=#0099ff>\*exist</font>*** vi
+# ***\*exist*** vi
 英音 ɪɡ'zɪst     美音 ɪɡ'zɪst  
 
 | 词频 5 | 口语 2 |  
@@ -5706,7 +5706,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
 ---
 existing /ɪɡ'zɪstɪŋ/ adj [只用于名词前]   
 
-# ***<font color=#0099ff>\*existence</font>*** n
+# ***\*existence*** n
 英音 ɪɡ'zɪstəns     美音 ɪɡ'zɪstəns  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -5718,7 +5718,7 @@ existing /ɪɡ'zɪstɪŋ/ adj [只用于名词前]
  > *The sense of existence is the greatest happiness. *  
  > 意识到自己的存在是最大的幸福。    
 
-## <font color=#0099ff>\*come into existence</font>
+## \*come into existence
 1.**开始存在；产生：**  
 
  > *No one knows how this world came into existence.*  
@@ -5734,7 +5734,7 @@ existing /ɪɡ'zɪstɪŋ/ adj [只用于名词前]
 答案：
 1. existence  
 
-# ***<font color=#0099ff>\*exit</font>*** n
+# ***\*exit*** n
 英音 'eksɪt     美音 'eksɪt  
 
 | 词频 2 | 口语 1 |  
@@ -5757,7 +5757,7 @@ existing /ɪɡ'zɪstɪŋ/ adj [只用于名词前]
  > 退场    
 
 
-# ***<font color=#0099ff>\*exit</font>*** v
+# ***\*exit*** v
 英音 'eksɪt     美音 'eksɪt  
 
 | 词频 2 |  
@@ -5767,7 +5767,7 @@ existing /ɪɡ'zɪstɪŋ/ adj [只用于名词前]
 ### 1.**离开；退出 (电脑程序)；退场**  
 
 
-# ***<font color=#0099ff>\*exit</font>*** v
+# ***\*exit*** v
 英音 'eksɪt     美音 'eksɪt  
 
 | 词频 2 |  
@@ -5777,7 +5777,7 @@ existing /ɪɡ'zɪstɪŋ/ adj [只用于名词前]
 ### 1.**离开；退出 (电脑程序)；退场**  
 
 
-# ***<font color=#0099ff>\*expand</font>*** v
+# ***\*expand*** v
 英音 ɪk'spænd     美音 ɪk'spænd  
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 2 |  
@@ -5796,7 +5796,7 @@ existing /ɪɡ'zɪstɪŋ/ adj [只用于名词前]
  > 金属遇热膨胀。  （外研① – 5）  
 
 
-# ***<font color=#0099ff>\*expansion</font>*** n
+# ***\*expansion*** n
 英音 ɪk'spænʃn     美音 ɪk'spænʃn  
 
 | 词频 2 |  
@@ -5806,7 +5806,7 @@ existing /ɪɡ'zɪstɪŋ/ adj [只用于名词前]
 ### 1.**扩张**  
 
 
-# ***<font color=#0099ff>\*expansion</font>*** n
+# ***\*expansion*** n
 英音 ɪk'spænʃn     美音 ɪk'spænʃn  
 
   
@@ -5816,7 +5816,7 @@ existing /ɪɡ'zɪstɪŋ/ adj [只用于名词前]
 ### 1.**扩大；扩张；扩充**  
 
 
-# ***<font color=#0099ff>\*expect</font>*** vt  重难点词汇
+# ***\*expect*** vt  重难点词汇
 英音 ɪk'spekt     美音 ɪk'spekt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5889,7 +5889,7 @@ existing /ɪɡ'zɪstɪŋ/ adj [只用于名词前]
 
 固定搭配
 ---
-## <font color=#0099ff>\*be expecting a baby / child </font>
+## \*be expecting a baby / child 
 1.**怀孕：**  
 
  > *If you are expecting a baby, your smoking habit might cause problems for it. *  
@@ -5911,7 +5911,7 @@ D.suppose
 答案：
 1. B  
 
-# ***<font color=#0099ff>\*expectancy</font>*** n
+# ***\*expectancy*** n
 英音 ɪk'spektənsi     美音 ɪk'spektənsi  
 
 | 词频 1 |  
@@ -5921,7 +5921,7 @@ D.suppose
 ### 1.**(根据概率得出的) 预期数额**  
 
 
-# ***<font color=#0099ff>\*expectation</font>*** n
+# ***\*expectation*** n
 英音 ˌekspek'teɪʃn     美音 ˌekspek'teɪʃn  
 
 | 词频 3 | 书面 2 | 阅读 2 |  
@@ -5947,14 +5947,14 @@ D.suppose
 
 固定搭配
 ---
-## <font color=#0099ff>\*beyond (sb's) expectation(s)</font>
+## \*beyond (sb's) expectation(s)
 1.**出乎 (某人) 意料地：**  
 
  > *It was an A+, which was beyond my modest expectations.*  
  > 我得了个A+，这大大出乎我的意料。  （译林⑦ – 4）  
 
 
-# ***<font color=#0099ff>\*expedition</font>*** n
+# ***\*expedition*** n
 英音 ˌekspə'dɪʃn     美音 ˌekspə'dɪʃn  
 
 | 词频 2 | 阅读 2 |  
@@ -5969,7 +5969,7 @@ D.suppose
  > 远征；探险    
 
 
-# ***<font color=#0099ff>\*expense</font>*** n  重难点词汇
+# ***\*expense*** n  重难点词汇
 英音 ɪk'spens     美音 ɪk'spens  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -6003,13 +6003,13 @@ D.suppose
 
 固定搭配
 ---
-## <font color=#0099ff>\*at sb's expense</font>
+## \*at sb's expense
 1.**由某人付费 / 负担费用：**  
 
  > *I published a book at my own expense. *  
  > 我自费出版了一本书。    
 
-## <font color=#0099ff>\*at the expense of </font>
+## \*at the expense of 
 1.**以…为代价：**  
 
  > *He finished the job at the expense of his health. *  
@@ -6023,7 +6023,7 @@ D.suppose
 答案：
 1. expenses  
 
-# ***<font color=#0099ff>\*expensive</font>*** adj
+# ***\*expensive*** adj
 英音 ɪk'spensɪv     美音 ɪk'spensɪv  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -6045,7 +6045,7 @@ D.suppose
  > 一些车买的时候便宜，但是养起来贵。    
 
 
-# ***<font color=#0099ff>\*experience</font>*** n  重难点词汇
+# ***\*experience*** n  重难点词汇
 英音 ɪk'spɪəriəns     美音 ɪk'spɪriəns  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6082,7 +6082,7 @@ D.suppose
  > 他认为这次旅行是改变人生的一次经历。  （2013 福建改）  
 
 
-# ***<font color=#0099ff>\*experience</font>*** vt  重难点词汇
+# ***\*experience*** vt  重难点词汇
 英音 ɪk'spɪəriəns     美音 ɪk'spɪriəns  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -6114,7 +6114,7 @@ D.suppose
 答案：
 1. experience  2. an; an  
 
-# ***<font color=#0099ff>\*experienced</font>*** adj
+# ***\*experienced*** adj
 英音 ɪk'spɪəriənst     美音 ɪk'spɪriənst  
 
 | 词频 4 | 口语 1 | 阅读 3 |  
@@ -6132,7 +6132,7 @@ D.suppose
  > 教学经验丰富    
 
 
-# ***<font color=#0099ff>\*experiment</font>*** n
+# ***\*experiment*** n
 英音 ɪk'sperɪmənt     美音 ɪk'sperɪmənt  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -6151,7 +6151,7 @@ D.suppose
  > 这些实验表明我们的生物钟受光和温度的影响。  （2010 辽宁改）  
 
 
-# ***<font color=#0099ff>\*experiment</font>*** vi
+# ***\*experiment*** vi
 英音 ɪk'sperɪmənt     美音 ɪk'sperɪmənt  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -6177,7 +6177,7 @@ D.suppose
 ---
 experimental /ɪkˌsperɪ'mentl/ adj   
 
-# ***<font color=#0099ff>\*expert</font>*** n
+# ***\*expert*** n
 英音 'ekspɜːt     美音 'ekspɜːrt  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -6197,7 +6197,7 @@ experimental /ɪkˌsperɪ'mentl/ adj
  > 打高尔夫球的高手    
 
 
-# ***<font color=#0099ff>\*expert</font>*** adj
+# ***\*expert*** adj
 英音 'ekspɜːt     美音 'ekspɜːrt  
 
 | 词频 4 | 书面 1 | 阅读 3 |  
@@ -6211,7 +6211,7 @@ experimental /ɪkˌsperɪ'mentl/ adj
  > 他开车技术娴熟。    
 
 
-# ***<font color=#0099ff>\*expertise</font>*** n
+# ***\*expertise*** n
 英音 ˌekspɜː'tiːz     美音 ˌekspɜːr'tiːz  
 
 | 词频 1 |  
@@ -6223,7 +6223,7 @@ experimental /ɪkˌsperɪ'mentl/ adj
 ### 1.*高义频：* **专家意见；专门知识 (技能等)**  
 
 
-# ***<font color=#0099ff>\*explain</font>*** v
+# ***\*explain*** v
 英音 ɪk'spleɪn     美音 ɪk'spleɪn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6254,7 +6254,7 @@ Notes: explain不可接双宾语。
 
 固定搭配
 ---
-## <font color=#0099ff>\*explain oneself</font>
+## \*explain oneself
 1.**说明自己的意思；为自己的行为解释：**  
 
  > *Sorry, I'm not explaining myself very well.*  
@@ -6264,7 +6264,7 @@ Notes: explain不可接双宾语。
  > 我给你五分钟解释自己的所作所为。    
 
 
-# ***<font color=#0099ff>\*explanation</font>*** n
+# ***\*explanation*** n
 英音 ˌeksplə'neɪʃn     美音 ˌeksplə'neɪʃn  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -6287,7 +6287,7 @@ Notes: explain不可接双宾语。
  > 他未加解释就离开了房间。    
 
 
-# ***<font color=#0099ff>\*explicit</font>*** adj
+# ***\*explicit*** adj
 英音 ɪk'splɪsɪt     美音 ɪk'splɪsɪt  
 
 | 词频 1 |  
@@ -6307,7 +6307,7 @@ Notes: explain不可接双宾语。
  > 他的综合调查非常清楚地说明了应该以什么样的方式、以什么为基础收集数据。  （2016 江苏）  
 
 
-# ***<font color=#0099ff>\*explode</font>*** v
+# ***\*explode*** v
 英音 ɪk'spləʊd     美音 ɪk'sploʊd  
 
 | 词频 3 | 阅读 2 |  
@@ -6332,7 +6332,7 @@ Notes: explain不可接双宾语。
  > 二战后，佛罗里达州的人口迅速增加。    
 
 
-# ***<font color=#0099ff>\*exploit</font>*** vt
+# ***\*exploit*** vt
 英音 ɪk'splɔɪt     美音 ɪk'splɔɪt  
 
 | 词频 3 | 阅读 3 |  
@@ -6342,7 +6342,7 @@ Notes: explain不可接双宾语。
 ### 1.*高义频：* **开发；开采；利用；剥削**  
 
 
-# ***<font color=#0099ff>\*exploration</font>*** n
+# ***\*exploration*** n
 英音 ˌeksplə'reɪʃn     美音 ˌeksplə'reɪʃn  
 
 | 词频 3 |  
@@ -6352,7 +6352,7 @@ Notes: explain不可接双宾语。
 ### 1.**（对某地区的）勘查**  
 
 
-# ***<font color=#0099ff>\*explore</font>*** v
+# ***\*explore*** v
 英音 ɪk'splɔː(r)     美音 ɪk'splɔːr  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -6381,7 +6381,7 @@ Notes: explain不可接双宾语。
 ---
 explorer /ɪk'splɔːrə(r)/ n   
 
-# ***<font color=#0099ff>\*explorer</font>*** n
+# ***\*explorer*** n
 英音 ɪk'splɔːrə(r)     美音 ɪk'splɔːrər  
 
 | 词频 3 |  
@@ -6391,7 +6391,7 @@ explorer /ɪk'splɔːrə(r)/ n
 ### 1.**探险者**  
 
 
-# ***<font color=#0099ff>\*explosion</font>*** n
+# ***\*explosion*** n
 英音 ɪk'spləʊʒn     美音 ɪk'sploʊʒn  
 
 | 词频 3 | 口语 1 | 阅读 2 |  
@@ -6413,7 +6413,7 @@ explorer /ɪk'splɔːrə(r)/ n
  > 油价猛涨    
 
 
-# ***<font color=#0099ff>\*explosive</font>*** adj
+# ***\*explosive*** adj
 英音 ɪk'spləʊsɪv     美音 ɪk'spləʊsɪv  
 
   
@@ -6423,7 +6423,7 @@ explorer /ɪk'splɔːrə(r)/ n
 ### 1.**爆炸 (式)的,爆发的**  
 
 
-# ***<font color=#0099ff>\*export</font>*** n
+# ***\*export*** n
 英音 'ekspɔːt     美音 'ekspɔːrt  
 
 | 词频 2 | 书面 2 | 阅读 1 |  
@@ -6442,7 +6442,7 @@ explorer /ɪk'splɔːrə(r)/ n
  > 羊毛是澳大利亚的主要出口商品之一。    
 
 
-# ***<font color=#0099ff>\*export</font>*** v
+# ***\*export*** v
 英音 ɪk'spɔːt     美音 ɪk'spɔːrt  
 
 | 词频 2 | 书面 2 | 阅读 1 |  
@@ -6455,7 +6455,7 @@ explorer /ɪk'splɔːrə(r)/ n
  > 事实上，澳大利亚是世界上出口钻石和煤炭最多的国家！  （北师大④ – 12）  
 
 
-# ***<font color=#0099ff>\*expose</font>*** vt  重难点词汇
+# ***\*expose*** vt  重难点词汇
 英音 ɪk'spəʊz     美音 ɪk'spoʊz  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -6509,7 +6509,7 @@ exposed /ɪk'spəʊzd/ adj
  > 我心跳得厉害——在这么深而且清的水里我感到很无助。  （人教⑦ – 3）  
 
 
-# ***<font color=#0099ff>\*exposure</font>*** n
+# ***\*exposure*** n
 英音 ɪk'spəʊʒə(r)     美音 ɪk'spoʊʒər  
 
 | 词频 1 |  
@@ -6528,7 +6528,7 @@ exposed /ɪk'spəʊzd/ adj
  > 非法交易的揭露    
 
 
-# ***<font color=#0099ff>\*express</font>*** n
+# ***\*express*** n
 英音 ɪk'spres     美音 ɪk'spres  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -6553,7 +6553,7 @@ exposed /ɪk'spəʊzd/ adj
 ---
 expressive /ɪk'spresɪv/ adj   
 
-# ***<font color=#0099ff>\*express</font>*** adj
+# ***\*express*** adj
 英音 ɪk'spres     美音 ɪk'spres  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -6574,7 +6574,7 @@ expressive /ɪk'spresɪv/ adj
  > 这封来自纽约的快件是你的。    
 
 
-# ***<font color=#0099ff>\*express</font>*** vt
+# ***\*express*** vt
 英音 ɪk'spres     美音 ɪk'spres  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -6603,7 +6603,7 @@ expressive /ɪk'spresɪv/ adj
  > 把包裹特快发送    
 
 
-# ***<font color=#0099ff>\*expression</font>*** n  重难点词汇
+# ***\*expression*** n  重难点词汇
 英音 ɪk'spreʃn     美音 ɪk'spreʃn  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -6650,7 +6650,7 @@ expressive /ɪk'spresɪv/ adj
 答案：
 1. expression  
 
-# ***<font color=#0099ff>\*extend</font>*** v
+# ***\*extend*** v
 英音 ɪk'stend     美音 ɪk'stend  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -6684,7 +6684,7 @@ expressive /ɪk'spresɪv/ adj
  > 该公司将其业务扩展到香港。    
 
 
-# ***<font color=#0099ff>\*extension</font>*** n
+# ***\*extension*** n
 英音 ɪk'stenʃn     美音 ɪk'stenʃn  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -6715,7 +6715,7 @@ expressive /ɪk'spresɪv/ adj
  > 请接326分机。    
 
 
-# ***<font color=#0099ff>\*extensive</font>*** adj
+# ***\*extensive*** adj
 英音 ɪk'stensɪv     美音 ɪk'stensɪv  
 
 | 词频 2 | 书面 1 |  
@@ -6728,7 +6728,7 @@ expressive /ɪk'spresɪv/ adj
  > 泛读/广泛的研究    
 
 
-# ***<font color=#0099ff>\*extent</font>*** n
+# ***\*extent*** n
 英音 ɪk'stent     美音 ɪk'stent  
 
 | 词频 1 | 口语 2 | 书面 3 |  
@@ -6744,7 +6744,7 @@ expressive /ɪk'spresɪv/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*to … extent</font>
+## \*to … extent
 1.**在…程度上：**  
 
  > **to some extent**  
@@ -6755,7 +6755,7 @@ expressive /ɪk'spresɪv/ adj
  > 他的成功在很大程度上得益于家人的支持。    
 
 
-# ***<font color=#0099ff>\*external</font>*** 
+# ***\*external*** 
 英音 ɪk'stɜːnl     美音 ɪk'stɜːrnl  
 
 | 词频 1 |  
@@ -6765,7 +6765,7 @@ expressive /ɪk'spresɪv/ adj
 ### 1.**外 (面) 的；外部的**  
 
 
-# ***<font color=#0099ff>\*extinct</font>*** adj
+# ***\*extinct*** adj
 英音 ɪk'stɪŋkt     美音 ɪk'stɪŋkt  
 
 | 词频 2 |  
@@ -6779,7 +6779,7 @@ expressive /ɪk'spresɪv/ adj
  > 不幸的是，很多物种已经灭绝，而很多正濒临灭绝。  （北师大⑧ – 22）  
 
 
-# ***<font color=#0099ff>\*extinction</font>*** n
+# ***\*extinction*** n
 英音 ɪk'stɪŋkʃn     美音 ɪk'stɪŋkʃn  
 
 | 词频 1 |  
@@ -6797,7 +6797,7 @@ expressive /ɪk'spresɪv/ adj
  > 濒临灭绝    
 
 
-# ***<font color=#0099ff>\*extra</font>*** adv
+# ***\*extra*** adv
 英音 'ekstrə     美音 'ekstrə  
 
 | 词频 4 |  
@@ -6814,7 +6814,7 @@ expressive /ɪk'spresɪv/ adj
  > 为了住个好房间，我额外付费了。    
 
 
-# ***<font color=#0099ff>\*extra</font>*** n
+# ***\*extra*** n
 英音 'ekstrə     美音 'ekstrə  
 
 | 词频 4 |  
@@ -6827,7 +6827,7 @@ expressive /ɪk'spresɪv/ adj
  > 服务费另计。    
 
 
-# ***<font color=#0099ff>\*extra</font>*** adj
+# ***\*extra*** adj
 英音 'ekstrə     美音 'ekstrə  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -6848,7 +6848,7 @@ expressive /ɪk'spresɪv/ adj
  > 我们旅馆不另收房间服务费。    
 
 
-# ***<font color=#0099ff>\*extra-curricular</font>*** adj
+# ***\*extra-curricular*** adj
 
 
 | 词频 1 |  
@@ -6858,7 +6858,7 @@ expressive /ɪk'spresɪv/ adj
 ### 1.**课外的；课程以外的**  
 
 
-# ***<font color=#0099ff>\*extraordinary</font>*** adj
+# ***\*extraordinary*** adj
 英音 ɪk'strɔːdnri     美音 ɪk'strɔːrdəneri  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -6875,7 +6875,7 @@ expressive /ɪk'spresɪv/ adj
  > 我认为他是位非凡的艺术家。  （外研② – 4）  
 
 
-# ***<font color=#0099ff>\*extraterrestrial</font>*** adj
+# ***\*extraterrestrial*** adj
 英音 ˌekstrətə'restriəl     美音 ˌekstrətə'restriəl  
 
 | 词频 1 |  
@@ -6885,7 +6885,7 @@ expressive /ɪk'spresɪv/ adj
 ### 1.**天外的；地球外的**  
 
 
-# ***<font color=#0099ff>\*extreme</font>*** adj
+# ***\*extreme*** adj
 英音 ɪk'striːm     美音 ɪk'striːm  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -6913,7 +6913,7 @@ expressive /ɪk'spresɪv/ adj
  > 中国的最北端    
 
 
-# ***<font color=#0099ff>\*extreme</font>*** n
+# ***\*extreme*** n
 英音 ɪk'striːm     美音 ɪk'striːm  
 
 | 词频 2 | 口语 2 | 书面 1 |  
@@ -6935,11 +6935,11 @@ expressive /ɪk'spresɪv/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*extreme sports</font>
+## \*extreme sports
 1.**极限运动**  
 
 
-# ***<font color=#0099ff>\*extremely</font>*** adv
+# ***\*extremely*** adv
 英音 ɪk'striːmli     美音 ɪk'striːmli  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -6955,7 +6955,7 @@ expressive /ɪk'spresɪv/ adj
  > 无论是什么季节，戴太阳镜非常重要。  （2014 辽宁）  
 
 
-# ***<font color=#0099ff>\*eye</font>*** n
+# ***\*eye*** n
 英音 aɪ     美音 aɪ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6992,28 +6992,28 @@ expressive /ɪk'spresɪv/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*beauty is in the eye of the beholder</font>
+## \*beauty is in the eye of the beholder
 1.**情人眼里出西施**  
 
-## <font color=#0099ff>\*have a (good) eye for </font>
+## \*have a (good) eye for 
 1.**对…有鉴赏力 / 识别力：**  
 
  > *She has a good eye for a bargain. *  
  > 她善识便宜货。    
 
-## <font color=#0099ff>\*have one's eye on</font>
+## \*have one's eye on
 1.**密切注视；监视：**  
 
  > *I'll have my eye on you so you'd better behave.*  
  > 我会密切注意你，所以你最好表现好点儿。    
 
-## <font color=#0099ff>\*in sb's eyes</font>
+## \*in sb's eyes
 1.**依某人看：**  
 
  > *Campers, in my eyes, were people who enjoyed insect bites, ill-cooked meals, and uncomfortable sleeping bags.*  
  > 在我看来，露营者是一群喜欢被虫咬、吃糟糕的饭菜和睡不舒服的睡袋的人。  （2017 全国）  
 
-## <font color=#0099ff>\*keep an eye on </font>
+## \*keep an eye on 
 1.**照看；注意：**  
 
  > *Can you keep an eye on my bag while I go to the bathroom?*  
@@ -7022,20 +7022,20 @@ expressive /ɪk'spresɪv/ adj
  > *I know she's here in spirit, keeping an eye on us.*  
  > 我知道她的心一直在这里，在关注我们。  （2011 四川）  
 
-## <font color=#0099ff>\*keep an eye out (for) </font>
+## \*keep an eye out (for) 
 1.**密切注意；留神：**  
 
  > *The lady walked around the shops, keeping an eye out for bargains. *  
  > 这位女士在店铺间逛着，留意着便宜商品。  （2010 江西）  
 
-## <font color=#0099ff>\*shut / close one's eyes to</font>
+## \*shut / close one's eyes to
 1.**对…视而不见；对… 置若罔闻：**  
 
  > *You can't just close your eyes to his violence.*  
  > 你不能对他的暴行视而不见。    
 
 
-# ***<font color=#0099ff>\*eye</font>*** vt
+# ***\*eye*** vt
 英音 aɪ     美音 aɪ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -7048,7 +7048,7 @@ expressive /ɪk'spresɪv/ adj
  > 我不喜欢他看我的样子。    
 
 
-# ***<font color=#0099ff>\*eye-catching</font>*** adj
+# ***\*eye-catching*** adj
 英音 aɪ 'kætʃɪŋ     美音 aɪ 'kætʃɪŋ  
 
 | 词频 1 |  
@@ -7058,7 +7058,7 @@ expressive /ɪk'spresɪv/ adj
 ### 1.**引人注目的**  
 
 
-# ***<font color=#0099ff>\*eyebrow</font>*** n
+# ***\*eyebrow*** n
 英音 'aɪbraʊ     美音 'aɪbraʊ  
 
 | 词频 1 |  
@@ -7070,7 +7070,7 @@ expressive /ɪk'spresɪv/ adj
 ### 1.*高义频：* **眉毛**  
 
 
-# ***<font color=#0099ff>\*eyesight</font>*** n
+# ***\*eyesight*** n
 英音 'aɪsaɪt     美音 'aɪsaɪt  
 
 | 词频 2 |  
@@ -7089,7 +7089,7 @@ expressive /ɪk'spresɪv/ adj
  > 视力好/差    
 
 
-# ***<font color=#0099ff>\*eyewitness</font>*** n
+# ***\*eyewitness*** n
 英音 'aɪwɪtnəs     美音 'aɪwɪtnəs  
 
 | 词频 1 |  

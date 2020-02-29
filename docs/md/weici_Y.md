@@ -1,6 +1,6 @@
 # Yy
 
-# ***<font color=#0099ff>\*yak</font>*** n
+# ***\*yak*** n
 英音 jæk     美音 jæk  
 
 | 词频 1 |  
@@ -12,7 +12,7 @@
 ### 1.*高义频：* **牦牛**  
 
 
-# ***<font color=#0099ff>\*yard</font>*** n
+# ***\*yard*** n
 英音 jɑːd     美音 jɑːrd  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -35,7 +35,7 @@
 ### 2.*高义频：* **[长度单位，=0.914米] 码**  
 
 
-# ***<font color=#0099ff>\*yawn</font>*** n
+# ***\*yawn*** n
 英音 jɔːn     美音 jɔːn  
 
 | 词频 2 |  
@@ -50,7 +50,7 @@
  > 他打了个哈欠，然后就睡着了。    
 
 
-# ***<font color=#0099ff>\*yawn</font>*** vi
+# ***\*yawn*** vi
 英音 jɔːn     美音 jɔːn  
 
 | 词频 2 |  
@@ -63,7 +63,7 @@
  > 他的演讲令听众直打哈欠。    
 
 
-# ***<font color=#0099ff>\*yeah</font>*** adv
+# ***\*yeah*** adv
 英音 jeə     美音 jeə  
 
 | 词频 4 | 口语 3 |  
@@ -73,7 +73,7 @@
 ### 1.*高义频：* **[口语] 是；对 (yes)**  
 
 
-# ***<font color=#0099ff>\*year</font>*** n
+# ***\*year*** n
 英音 jɪə(r), jɜ:(r)     美音 jɪr  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -99,26 +99,26 @@
 
 固定搭配
 ---
-## <font color=#0099ff>\*all (the) year round </font>
+## \*all (the) year round 
 1.**一年到头：**  
 
  > *The Antarctic is covered with snow and ice all year round. *  
  > 南极地区终年被冰雪覆盖。  （北师大③ – 7）  
 
-## <font color=#0099ff>\*year after year </font>
+## \*year after year 
 1.**年复一年：**  
 
  > *Year after year he had to work hard to get out of debt. *  
  > 年复一年，为了还债他不得不拼命工作。    
 
-## <font color=#0099ff>\*year by year </font>
+## \*year by year 
 1.**年年；逐年：**  
 
  > *Year by year my father became weaker. *  
  > 我父亲的身体一年比一年差。    
 
 
-# ***<font color=#0099ff>\*yearly</font>*** adj
+# ***\*yearly*** adj
 英音 'jɜ:li, 'jɪəli     美音 'jɪrli  
 
 | 词频 2 |  
@@ -131,7 +131,7 @@
  > 戴维斯先生每年去欧洲旅行一次。    
 
 
-# ***<font color=#0099ff>\*yearly</font>*** adv
+# ***\*yearly*** adv
 英音  'jɜ:li, 'jɪəli     美音 'jɪrli  
 
 | 词频 2 |  
@@ -144,7 +144,7 @@
  > 利息每年支付一次。    
 
 
-# ***<font color=#0099ff>\*yell</font>*** v
+# ***\*yell*** v
 英音 jel     美音 jel  
 
 | 词频 2 |  
@@ -163,7 +163,7 @@
  > 他大声叫她小心。    
 
 
-# ***<font color=#0099ff>\*yell</font>*** n
+# ***\*yell*** n
 英音 jel     美音 jel  
 
 | 词频 2 |  
@@ -173,7 +173,7 @@
 ### 1.**叫喊，大喊，吼叫**  
 
 
-# ***<font color=#0099ff>\*yellow</font>*** n
+# ***\*yellow*** n
 英音 'jeləʊ     美音 'jeloʊ  
 
 | 词频 4 |  
@@ -185,7 +185,7 @@
 ### 1.*高义频：* **黄色**  
 
 
-# ***<font color=#0099ff>\*yellow</font>*** adj
+# ***\*yellow*** adj
 英音 'jeləʊ     美音 'jeloʊ  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -195,7 +195,7 @@
 ### 1.*高义频：* **黄色的；发黄的**  
 
 
-# ***<font color=#0099ff>\*yes</font>*** n
+# ***\*yes*** n
 英音 jes     美音 jes  
 
 | 词频 5 |  
@@ -210,7 +210,7 @@
  > 回答是或不是。    
 
 
-# ***<font color=#0099ff>\*yes</font>*** adv
+# ***\*yes*** adv
 英音 jes     美音 jes  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -239,7 +239,7 @@
  > 你的工作干得很好，对，干得很好。    
 
 
-# ***<font color=#0099ff>\*yesterday</font>*** adv
+# ***\*yesterday*** adv
 英音 'jestədeɪ, 'jestədi     美音 'jestərdeɪ, 'jestərdi  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -254,7 +254,7 @@
  > 他昨天到达。    
 
 
-# ***<font color=#0099ff>\*yesterday</font>*** n
+# ***\*yesterday*** n
 英音 'jestədeɪ, 'jestədi     美音 'jestərdeɪ, 'jestərdi  
 
 | 词频 5 |  
@@ -276,7 +276,7 @@
  > 昨日一去不复返。    
 
 
-# ***<font color=#0099ff>\*yet</font>*** conj
+# ***\*yet*** conj
 英音 jet     美音 jet  
 
 | 词频 5 | 书面 2 |  
@@ -303,7 +303,7 @@ D.thus
 答案：
 1. A  
 
-# ***<font color=#0099ff>\*yet</font>*** adv
+# ***\*yet*** adv
 英音 jet     美音 jet  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -340,7 +340,7 @@ Notes: 在肯定句中用still或already。
 
 固定搭配
 ---
-## <font color=#0099ff>\*not yet</font>
+## \*not yet
 1.**还没：**  
 
  > *— Are you ready? *  
@@ -358,7 +358,7 @@ Notes: 在肯定句中用still或already。
 答案：
 1. Not yet  
 
-# ***<font color=#0099ff>\*yield</font>*** n
+# ***\*yield*** n
 英音 jiːld     美音 jiːld  
 
 | 词频 1 |  
@@ -368,7 +368,7 @@ Notes: 在肯定句中用still或already。
 ### 1.**产量**  
 
 
-# ***<font color=#0099ff>\*yoga</font>*** n
+# ***\*yoga*** n
 英音 'jəʊɡə     美音 'joʊɡə  
 
 | 词频 1 |  
@@ -378,7 +378,7 @@ Notes: 在肯定句中用still或already。
 ### 1.**瑜伽术**  
 
 
-# ***<font color=#0099ff>\*yoghurt</font>*** n
+# ***\*yoghurt*** n
 英音 'jɒɡət     美音 'joʊɡərt  
 
 | 词频 1 |  
@@ -390,7 +390,7 @@ Notes: 在肯定句中用still或already。
 ### 1.*高义频：* **酸乳；酸奶**  
 
 
-# ***<font color=#0099ff>\*you</font>*** pron
+# ***\*you*** pron
 英音 juː, ju     美音 juː, jə  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -405,7 +405,7 @@ Notes: 在肯定句中用still或already。
  > 对不认识的人要小心。    
 
 
-# ***<font color=#0099ff>\*young</font>*** n
+# ***\*young*** n
 英音 jʌŋ     美音 jʌŋ  
 
 | 词频 5 |  
@@ -420,7 +420,7 @@ Notes: 在肯定句中用still或already。
 ### 2.*高义频：* **幼小动物；崽**  
 
 
-# ***<font color=#0099ff>\*young</font>*** adj
+# ***\*young*** adj
 英音 jʌŋ     美音 jʌŋ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -447,7 +447,7 @@ Notes: 在肯定句中用still或already。
  > 她看起来比实际年龄小。    
 
 
-# ***<font color=#0099ff>\*youngster</font>*** n
+# ***\*youngster*** n
 英音 'jʌŋstə(r)     美音 'jʌŋstər  
 
 | 词频 1 |  
@@ -457,7 +457,7 @@ Notes: 在肯定句中用still或already。
 ### 1.**年轻人**  
 
 
-# ***<font color=#0099ff>\*your</font>*** pron
+# ***\*your*** pron
 英音 jɔː(r)     美音 jʊr  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -467,7 +467,7 @@ Notes: 在肯定句中用still或already。
 ### 1.*高义频：* **[形容词性物主代词，只作定语] 你的；你们的**  
 
 
-# ***<font color=#0099ff>\*yours</font>*** pron
+# ***\*yours*** pron
 英音 jɔːz     美音 jərz  
 
 | 词频 4 | 口语 3 | 书面 1 |  
@@ -488,7 +488,7 @@ Notes: 在肯定句中用still或already。
 ### 2.*高义频：* **[在信末署名前与truly, faithfully, sincerely等连用] 敬上**  
 
 
-# ***<font color=#0099ff>\*yourself</font>*** pron
+# ***\*yourself*** pron
 英音 jɔː'self     美音 jɔːr'self  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -513,7 +513,7 @@ Notes: 在肯定句中用still或already。
 答案：
 1. yourself  
 
-# ***<font color=#0099ff>\*youth</font>*** n
+# ***\*youth*** n
 英音 juːθ     美音 juːθ  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -539,7 +539,7 @@ Notes: 在肯定句中用still或already。
  > 现在的年轻人拥有的机会比以往任何时候都要多。    
 
 
-# ***<font color=#0099ff>\*yummy</font>*** adj
+# ***\*yummy*** adj
 英音 'jʌmi     美音 'jʌmi  
 
 | 词频 1 |  

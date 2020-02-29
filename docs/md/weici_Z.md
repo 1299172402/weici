@@ -1,6 +1,6 @@
 # Zz
 
-# ***<font color=#0099ff>\*zebra</font>*** n
+# ***\*zebra*** n
 英音 'zi:brə, 'zebrə     美音 'zi:brə, 'zebrə  
 
 | 词频 1 |  
@@ -12,7 +12,7 @@
 ### 1.*高义频：* **斑马**  
 
 
-# ***<font color=#0099ff>\*zero</font>*** n
+# ***\*zero*** n
 英音 'zɪərəʊ     美音 'zɪroʊ  
 
 | 词频 3 |  
@@ -24,7 +24,7 @@
 ### 1.*高义频：* **(数字的) 零；(温度的) 零度**  
 
 
-# ***<font color=#0099ff>\*zero</font>*** num
+# ***\*zero*** num
 英音 'zɪərəʊ     美音 'zɪroʊ  
 
 | 词频 3 |  
@@ -40,7 +40,7 @@
  > 无碳城市    
 
 
-# ***<font color=#0099ff>\*zinc</font>*** n
+# ***\*zinc*** n
 英音 zɪŋk     美音 zɪŋk  
 
 | 词频 1 |  
@@ -50,7 +50,7 @@
 ### 1.**锌**  
 
 
-# ***<font color=#0099ff>\*zip</font>*** n
+# ***\*zip*** n
 英音 zɪp     美音 zɪp  
 
 | 词频 1 |  
@@ -62,7 +62,7 @@
 ### 1.*高义频：* **(BrE) 拉链；拉锁**  
 
 
-# ***<font color=#0099ff>\*zip</font>*** v
+# ***\*zip*** v
 英音 zɪp     美音 zɪp  
 
 | 词频 1 |  
@@ -76,7 +76,7 @@
  > 她拉上了衣服的拉链。    
 
 
-# ***<font color=#0099ff>\*zipper</font>*** n
+# ***\*zipper*** n
 英音 'zɪpə(r)     美音 'zɪpər  
 
 | 词频 1 |  
@@ -88,7 +88,7 @@
 ### 1.*高义频：* **(AmE) 拉链；拉锁**  
 
 
-# ***<font color=#0099ff>\*zone</font>*** n
+# ***\*zone*** n
 英音 zəʊn     美音 zoʊn  
 
 | 词频 3 | 书面 1 |  
@@ -109,7 +109,7 @@
  > 经济技术开发区    
 
 
-# ***<font color=#0099ff>\*zoo</font>*** n
+# ***\*zoo*** n
 英音 zuː     美音 zuː  
 
 | 词频 4 |  
@@ -121,7 +121,7 @@
 ### 1.*高义频：* **动物园**  
 
 
-# ***<font color=#0099ff>\*zoology</font>*** n
+# ***\*zoology*** n
 英音 zəʊ'ɒlədʒi     美音 zoʊ'ɑːlədʒi  
 
 | 词频 1 |  
@@ -131,7 +131,7 @@
 ### 1.**动物学**  
 
 
-# ***<font color=#0099ff>\*zoom</font>*** vi
+# ***\*zoom*** vi
 英音 zuːm     美音 zuːm  
 
 | 词频 1 |  

@@ -1,6 +1,6 @@
 # Oo
 
-# ***<font color=#0099ff>\*o'clock</font>*** adv
+# ***\*o'clock*** adv
 英音 ə'klɒk     美音 ə'klɑːk  
 
 | 词频 1 |  
@@ -10,7 +10,7 @@
 ### 1.*高义频：* **[of the clock的缩写，只用于正点] …点钟**  
 
 
-# ***<font color=#0099ff>\*o'clock</font>*** adv
+# ***\*o'clock*** adv
 英音 ə'klɒk     美音 ə'klɑːk  
 
 | 词频 1 |  
@@ -22,7 +22,7 @@
 ### 1.*高义频：* **... 点钟**  
 
 
-# ***<font color=#0099ff>\*oar</font>*** n
+# ***\*oar*** n
 英音 ɔː(r)     美音 ɔːr  
 
 | 词频 1 |  
@@ -34,7 +34,7 @@
 ### 1.*高义频：* **桨；橹**  
 
 
-# ***<font color=#0099ff>\*obesity</font>*** n
+# ***\*obesity*** n
 英音 əʊ'biːsəti     美音 əʊ'biːsəti  
 
 | 词频 3 |  
@@ -46,7 +46,7 @@
 ### 1.*高义频：* **过度肥胖**  
 
 
-# ***<font color=#0099ff>\*obey</font>*** v
+# ***\*obey*** v
 英音 ə'beɪ     美音 ə'beɪ  
 
 | 词频 3 |  
@@ -64,7 +64,7 @@
  > 他拒绝服从 (她)。    
 
 
-# ***<font color=#0099ff>\*object</font>*** n
+# ***\*object*** n
 英音 'ɒbdʒɪkt     美音 'ɑːbdʒekt  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -93,7 +93,7 @@
 ### 4.*低义频：* **[语法] 宾语**  
 
 
-# ***<font color=#0099ff>\*object</font>*** v
+# ***\*object*** v
 英音 əb'dʒekt     美音 əb'dʒekt  
 
 | 词频 4 | 口语 2 |  
@@ -122,7 +122,7 @@
  > 他们表示反对，说日程安排得太紧。    
 
 
-# ***<font color=#0099ff>\*objection</font>*** n
+# ***\*objection*** n
 英音 əb'dʒekʃn     美音 əb'dʒekʃn  
 
 | 词频 1 | 口语 1 | 阅读 1 |  
@@ -138,7 +138,7 @@
  > 格雷决定搬到乡下，他的妻子没有反对。  （人教⑧ – 2）  
 
 
-# ***<font color=#0099ff>\*objective</font>*** n
+# ***\*objective*** n
 英音 əb'dʒektɪv     美音 əb'dʒektɪv  
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 1 |  
@@ -157,7 +157,7 @@
  > 另一种设定实际目标的方法是分析你的短期和长期目标。  （2019 全国）  
 
 
-# ***<font color=#0099ff>\*objective</font>*** adj
+# ***\*objective*** adj
 英音 əb'dʒektɪv     美音 əb'dʒektɪv  
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 1 |  
@@ -172,7 +172,7 @@
  > 客观的评价/分析    
 
 
-# ***<font color=#0099ff>\*obligation</font>*** n
+# ***\*obligation*** n
 英音 ˌɒblɪ'ɡeɪʃn     美音 ˌɑːblɪ'ɡeɪʃn  
 
 | 词频 1 | 书面 1 |  
@@ -184,7 +184,7 @@
 ### 1.*高义频：* **义务；职责**  
 
 
-# ***<font color=#0099ff>\*obscure</font>*** adj
+# ***\*obscure*** adj
 英音 əb'skjʊə(r)     美音 əb'skjʊər  
 
 | 词频 1 |  
@@ -194,7 +194,7 @@
 ### 1.**难理解的；晦涩的**  
 
 
-# ***<font color=#0099ff>\*observation</font>*** n
+# ***\*observation*** n
 英音 ˌɒbzə'veɪʃn     美音 ˌɑːbzər'veɪʃn  
 
 | 词频 3 | 书面 1 |  
@@ -204,7 +204,7 @@
 ### 1.*高义频：* **观察；观测**  
 
 
-# ***<font color=#0099ff>\*observatory</font>*** n
+# ***\*observatory*** n
 英音 əb'zɜːvətri     美音 əb'zɜːrvətɔːri  
 
 | 词频 1 |  
@@ -216,7 +216,7 @@
 ### 1.*高义频：* **观象台；天文台；气象台**  
 
 
-# ***<font color=#0099ff>\*observe</font>*** v  重难点词汇
+# ***\*observe*** v  重难点词汇
 英音 əb'zɜːv     美音 əb'zɜːrv  
 
 | 词频 4 | 书面 2 |  
@@ -289,7 +289,7 @@ observer /əb'zɜːvə(r)/ n [C]
 答案：
 1. observe  
 
-# ***<font color=#0099ff>\*obsess</font>*** v
+# ***\*obsess*** v
 英音 əb'ses     美音 əb'ses  
 
 | 词频 1 |  
@@ -299,7 +299,7 @@ observer /əb'zɜːvə(r)/ n [C]
 ### 1.**使着迷**  
 
 
-# ***<font color=#0099ff>\*obsess</font>*** vt
+# ***\*obsess*** vt
 英音 əb'ses     美音 əb'ses  
 
 | 词频 1 |  
@@ -309,7 +309,7 @@ observer /əb'zɜːvə(r)/ n [C]
 ### 1.**使着迷**  
 
 
-# ***<font color=#0099ff>\*obtain</font>*** vt
+# ***\*obtain*** vt
 英音 əb'teɪn     美音 əb'teɪn  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -329,7 +329,7 @@ observer /əb'zɜːvə(r)/ n [C]
  > 这些国家公园得到了旅游公司的财力支持。  （2013 江西改）  
 
 
-# ***<font color=#0099ff>\*obvious</font>*** adj
+# ***\*obvious*** adj
 英音 'ɒbviəs     美音 'ɑːbviəs  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -346,7 +346,7 @@ observer /əb'zɜːvə(r)/ n [C]
  > 学生们很清楚他们应该为将来做好充分的准备。  （2009 天津）  
 
 
-# ***<font color=#0099ff>\*obviously</font>*** adv
+# ***\*obviously*** adv
 英音 'ɒbviəsli     美音 'ɑːbviəsli  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -366,7 +366,7 @@ observer /əb'zɜːvə(r)/ n [C]
 答案：
 1. obviously  
 
-# ***<font color=#0099ff>\*occasion</font>*** n
+# ***\*occasion*** n
 英音 ə'keɪʒn     美音 ə'keɪʒn  
 
 | 词频 3 | 口语 3 | 书面 2 | 阅读 3 |  
@@ -411,13 +411,13 @@ observer /əb'zɜːvə(r)/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*on occasion(s)</font>
+## \*on occasion(s)
 1.**有时；偶尔：**  
 
  > *It is said that on occasion Byron swam by moonlight in the lake.*  
  > 据说，有时拜伦借着月光在湖里游泳。  （2012 湖南改）  
 
-## <font color=#0099ff>\*on the occasion of</font>
+## \*on the occasion of
 1.**在…之际：**  
 
  > **on the,occasion of**  
@@ -432,7 +432,7 @@ observer /əb'zɜːvə(r)/ n [C]
 答案：
 1. on  
 
-# ***<font color=#0099ff>\*occasional</font>*** adj
+# ***\*occasional*** adj
 英音 ə'keɪʒənl     美音 ə'keɪʒənl  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -445,7 +445,7 @@ observer /əb'zɜːvə(r)/ n [C]
  > 他只是个临时工。    
 
 
-# ***<font color=#0099ff>\*occasionally</font>*** adv
+# ***\*occasionally*** adv
 英音 ə'keɪʒnəli     美音 ə'keɪʒnəli  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -465,7 +465,7 @@ observer /əb'zɜːvə(r)/ n [C]
 答案：
 1. occasionally  
 
-# ***<font color=#0099ff>\*occupation</font>*** n
+# ***\*occupation*** n
 英音 ˌɒkju'peɪʃn     美音 ˌɑːkju'peɪʃn  
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 3 |  
@@ -487,7 +487,7 @@ observer /əb'zɜːvə(r)/ n [C]
  > 你认为自己将来会从事什么职业呢？  （人教⑤ – 4）  
 
 
-# ***<font color=#0099ff>\*occupied</font>*** adj
+# ***\*occupied*** adj
 英音 'ɒkjupaɪd     美音 'ɑːkjupaɪd  
 
 | 词频 2 |  
@@ -517,7 +517,7 @@ observer /əb'zɜːvə(r)/ n [C]
  > 照顾三个小孩把他忙得不可开交。    
 
 
-# ***<font color=#0099ff>\*occupy</font>*** vt
+# ***\*occupy*** vt
 英音 'ɒkjupaɪ     美音 'ɑːkjupaɪ  
 
 | 词频 2 | 书面 2 | 阅读 2 |  
@@ -543,7 +543,7 @@ observer /əb'zɜːvə(r)/ n [C]
  > 工作使他忙了一整天。    
 
 
-# ***<font color=#0099ff>\*occur</font>*** vi  重难点词汇
+# ***\*occur*** vi  重难点词汇
 英音 ə'kɜː(r)     美音 ə'kɜːr  
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -569,7 +569,7 @@ observer /əb'zɜːvə(r)/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*occur to sb </font>
+## \*occur to sb 
 1.**浮现于脑中；被想起：**  
 
 - it occurs to sb to do sth:
@@ -604,7 +604,7 @@ occurrence /ə'kʌrəns/ n
 答案：
 1. that  
 
-# ***<font color=#0099ff>\*ocean</font>*** n
+# ***\*ocean*** n
 英音 'əʊʃn     美音 'oʊʃn  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -616,7 +616,7 @@ occurrence /ə'kʌrəns/ n
 ### 1.*高义频：* **海洋**  
 
 
-# ***<font color=#0099ff>\*odd</font>*** adj
+# ***\*odd*** adj
 英音 ɒd     美音 ɑːd  
 
 | 词频 2 | 口语 3 | 书面 1 |  
@@ -640,7 +640,7 @@ occurrence /ə'kʌrəns/ n
  > 不配对的短袜 / 手套 / 鞋    
 
 
-# ***<font color=#0099ff>\*of</font>*** prep
+# ***\*of*** prep
 英音 əv,ɒv     美音 əv,ʌv  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -715,7 +715,7 @@ occurrence /ə'kʌrəns/ n
 答案：
 1. of  2. Of  
 
-# ***<font color=#0099ff>\*off</font>*** adv
+# ***\*off*** adv
 英音 ɒf     美音 ɔːf  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -767,7 +767,7 @@ occurrence /ə'kʌrəns/ n
 答案：
 1. off  
 
-# ***<font color=#0099ff>\*off</font>*** prep
+# ***\*off*** prep
 英音 ɒf     美音 ɔːf  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -805,7 +805,7 @@ occurrence /ə'kʌrəns/ n
 答案：
 1. off  
 
-# ***<font color=#0099ff>\*offence</font>*** n
+# ***\*offence*** n
 英音 ə'fens     美音 ə'fens  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 1 |  
@@ -825,7 +825,7 @@ occurrence /ə'kʌrəns/ n
  > 不要为他的话感到不快，他没有冒犯你的意思。    
 
 
-# ***<font color=#0099ff>\*offend</font>*** v
+# ***\*offend*** v
 英音 ə'fend     美音 ə'fend  
 
 | 词频 1 |  
@@ -849,7 +849,7 @@ D.bother
 答案：
 1. B  
 
-# ***<font color=#0099ff>\*offense</font>*** n
+# ***\*offense*** n
 英音 ə'fens     美音 ə'fens  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 1 |  
@@ -869,7 +869,7 @@ D.bother
  > 不要为他的话感到不快，他没有冒犯你的意思。    
 
 
-# ***<font color=#0099ff>\*offensive</font>*** adj
+# ***\*offensive*** adj
 英音 ə'fensɪv     美音 ə'fensɪv  
 
 | 词频 1 | 阅读 1 |  
@@ -882,7 +882,7 @@ D.bother
  > 无礼的话    
 
 
-# ***<font color=#0099ff>\*offer</font>*** vt  重难点词汇
+# ***\*offer*** vt  重难点词汇
 英音 'ɒfə(r)     美音 'ɔːfər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -940,7 +940,7 @@ D.bother
 答案：
 1. offering  
 
-# ***<font color=#0099ff>\*offer</font>*** n  重难点词汇
+# ***\*offer*** n  重难点词汇
 英音 'ɒfə(r)     美音 'ɔːfər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -976,7 +976,7 @@ D.bother
 
 固定搭配
 ---
-## <font color=#0099ff>\*on offer</font>
+## \*on offer
 1.**削价 / 特价出售的：**  
 
  > *This computer was on special offer.*  
@@ -994,7 +994,7 @@ D.bother
 答案：
 1. offer  
 
-# ***<font color=#0099ff>\*offer</font>*** vi  重难点词汇
+# ***\*offer*** vi  重难点词汇
 英音 'ɒfə(r)     美音 'ɔːfər  
 
 | 词频 5 |  
@@ -1004,7 +1004,7 @@ D.bother
 ### 1.**(主动) 提出 (愿意做某事)**  
 
 
-# ***<font color=#0099ff>\*offering</font>*** n
+# ***\*offering*** n
 英音 'ɒfərɪŋ     美音 'ɔːfərɪŋ  
 
 | 词频 1 |  
@@ -1014,7 +1014,7 @@ D.bother
 ### 1.**供品, 祭品**  
 
 
-# ***<font color=#0099ff>\*office</font>*** n
+# ***\*office*** n
 英音 'ɒfɪs     美音 'ɔːfɪs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1041,11 +1041,11 @@ D.bother
 
 固定搭配
 ---
-## <font color=#0099ff>\*office hours </font>
+## \*office hours 
 1.**办公时间；营业时间**  
 
 
-# ***<font color=#0099ff>\*officer</font>*** n
+# ***\*officer*** n
 英音 'ɒfɪsə(r)     美音 'ɔːfɪsər  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -1061,7 +1061,7 @@ D.bother
  > 海关官员/警官    
 
 
-# ***<font color=#0099ff>\*official</font>*** adj
+# ***\*official*** adj
 英音 ə'fɪʃl     美音 ə'fɪʃl  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -1086,7 +1086,7 @@ D.bother
  > 英语是印度使用的官方语言之一。  （人教① – 2）  
 
 
-# ***<font color=#0099ff>\*official</font>*** n
+# ***\*official*** n
 英音 ə'fɪʃl     美音 ə'fɪʃl  
 
 | 词频 4 | 口语 1 | 书面 3 |  
@@ -1104,7 +1104,7 @@ D.bother
  > 银行高级职员    
 
 
-# ***<font color=#0099ff>\*official-looking</font>*** adj
+# ***\*official-looking*** adj
 英音 əˌfɪʃl'lʊkɪŋ     美音 əˌfɪʃl'lʊkɪŋ  
 
 | 词频 1 |  
@@ -1114,7 +1114,7 @@ D.bother
 ### 1.**貌似官方的**  
 
 
-# ***<font color=#0099ff>\*officially</font>*** adv
+# ***\*officially*** adv
 英音 ə'fɪʃəli     美音 ə'fɪʃəli  
 
 | 词频 2 | 阅读 2 |  
@@ -1134,7 +1134,7 @@ D.bother
 答案：
 1. officially  
 
-# ***<font color=#0099ff>\*offshore</font>*** adj
+# ***\*offshore*** adj
 英音 ˌɒf'ʃɔː(r)     美音 ˌɒf'ʃɔːr  
 
 | 词频 1 |  
@@ -1147,7 +1147,7 @@ D.bother
  > 近海岛屿    
 
 
-# ***<font color=#0099ff>\*offshore</font>*** adv
+# ***\*offshore*** adv
 英音 ˌɒf'ʃɔː(r)     美音 ˌɒf'ʃɔːr  
 
 | 词频 1 |  
@@ -1160,7 +1160,7 @@ D.bother
  > 风暴向近海移动。    
 
 
-# ***<font color=#0099ff>\*often</font>*** adv
+# ***\*often*** adv
 英音 'ɒfn,'ɒftən     美音 'ɔːfn,'ɔftən  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1180,7 +1180,7 @@ D.bother
 
 固定搭配
 ---
-## <font color=#0099ff>\*more often than not / as often as not </font>
+## \*more often than not / as often as not 
 1.**通常；往往**  
 
 
@@ -1192,7 +1192,7 @@ D.bother
 答案：
 1. often  
 
-# ***<font color=#0099ff>\*oh</font>*** int
+# ***\*oh*** int
 英音 əʊ     美音 oʊ  
 
 | 词频 5 |  
@@ -1202,7 +1202,7 @@ D.bother
 ### 1.*高义频：* **[表示惊讶、快乐、悲哀、痛苦、责难、招呼等] 哦；噢；啊；呀；哎**  
 
 
-# ***<font color=#0099ff>\*oil</font>*** n
+# ***\*oil*** n
 英音 ɔɪl     美音 ɔɪl  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -1214,7 +1214,7 @@ D.bother
 ### 1.*高义频：* **油；石油**  
 
 
-# ***<font color=#0099ff>\*oilfield</font>*** n
+# ***\*oilfield*** n
 英音 'ɔɪlfiːld     美音 'ɔɪlfiːld  
 
 | 词频 1 |  
@@ -1226,7 +1226,7 @@ D.bother
 ### 1.*高义频：* **油田**  
 
 
-# ***<font color=#0099ff>\*ointment</font>*** n
+# ***\*ointment*** n
 英音 'ɔɪntmənt     美音 'ɔɪntmənt  
 
 | 词频 1 |  
@@ -1238,7 +1238,7 @@ D.bother
 ### 1.*高义频：* **药膏；油膏**  
 
 
-# ***<font color=#0099ff>\*old</font>*** adj
+# ***\*old*** adj
 英音 əʊld     美音 oʊld  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1275,7 +1275,7 @@ D.bother
  > 往昔的美好时光    
 
 
-# ***<font color=#0099ff>\*old-fashioned</font>*** adj
+# ***\*old-fashioned*** adj
 英音 'əuld'fæʃənd     美音 'əuld'fæʃənd  
 
 | 词频 1 |  
@@ -1285,7 +1285,7 @@ D.bother
 ### 1.*高义频：* **老式的；过时的；(人) 守旧的**  
 
 
-# ***<font color=#0099ff>\*olive</font>*** n
+# ***\*olive*** n
 英音 'ɒlɪv     美音 'ɑːlɪv  
 
 | 词频 1 |  
@@ -1297,7 +1297,7 @@ D.bother
 ### 1.*高义频：* **橄榄树；橄榄叶；橄榄枝；橄榄色**  
 
 
-# ***<font color=#0099ff>\*omit</font>*** vt
+# ***\*omit*** vt
 英音 ə'mɪt     美音 ə'mɪt  
 
 | 词频 1 |  
@@ -1309,7 +1309,7 @@ D.bother
 ### 1.*高义频：* **删除；忽略：**  
 
 
-# ***<font color=#0099ff>\*on</font>*** prep
+# ***\*on*** prep
 英音 ɒn     美音 ɑːn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1395,7 +1395,7 @@ D.bother
 答案：
 1. on / about  2. on  
 
-# ***<font color=#0099ff>\*on</font>*** adv
+# ***\*on*** adv
 英音 ɒn     美音 ɑːn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1434,7 +1434,7 @@ D.bother
  > 电影院在上演什么片子？    
 
 
-# ***<font color=#0099ff>\*once</font>*** adv  重难点词汇
+# ***\*once*** adv  重难点词汇
 英音 wʌns     美音 wʌns  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1458,25 +1458,25 @@ D.bother
 
 固定搭配
 ---
-## <font color=#0099ff>\*all at once</font>
+## \*all at once
 1.**突然：**  
 
  > *All at once the answer came to him.*  
  > 他突然想到了答案。    
 
-## <font color=#0099ff>\*at once</font>
+## \*at once
 1.**立刻；马上：**  
 
  > *I have to go home at once.*  
  > 我必须马上回家。  （人教③ – 2）  
 
-## <font color=#0099ff>\*(every) once in a while</font>
+## \*(every) once in a while
 1.**偶尔；间或：**  
 
  > *He was busy writing a story, only stopping once in a while to smoke a cigarette.*  
  > 他忙着写故事，只是偶尔停下来抽根烟。  （2008 辽宁）  
 
-## <font color=#0099ff>\*(just) for once / just this once</font>
+## \*(just) for once / just this once
 1.**(与通常情况对比而言) 仅此一次：**  
 
  > *Just for once let me make my own decision.*  
@@ -1485,26 +1485,26 @@ D.bother
  > *Go on, lend me the bicycle, just this once.*  
  > 好啦，把自行车借给我，就这一次。    
 
-## <font color=#0099ff>\*never / not once</font>
+## \*never / not once
 1.**从未：**  
 
  > *The old couple have been married for 40 years and never once have they quarreled with each other.*  
  > 那对老夫妇已经结婚40年了，彼此从未吵过架。    
 
 Notes: never / not once位于句首时，句子用部分倒装语序。  
-## <font color=#0099ff>\*once again / once more</font>
+## \*once again / once more
 1.**再一次：**  
 
  > *Tell me just once again.*  
  > 你就再告诉我一次吧。    
 
-## <font color=#0099ff>\*once and for all</font>
+## \*once and for all
 1.**彻底地；一劳永逸地：**  
 
  > *Let’s settle this matter once and for all.*  
  > 我们把这个问题彻底解决了吧。    
 
-## <font color=#0099ff>\*once or twice</font>
+## \*once or twice
 1.**一两次；几次：**  
 
  > *I have been there once or twice.*  
@@ -1518,7 +1518,7 @@ Notes: never / not once位于句首时，句子用部分倒装语序。
 答案：
 1. once in a while  
 
-# ***<font color=#0099ff>\*once</font>*** conj  重难点词汇
+# ***\*once*** conj  重难点词汇
 英音 wʌns     美音 wʌns  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1538,7 +1538,7 @@ Notes: never / not once位于句首时，句子用部分倒装语序。
 答案：
 1. Once  
 
-# ***<font color=#0099ff>\*one</font>*** adj
+# ***\*one*** adj
 英音 wʌn     美音 wʌn  
 
 | 词频 5 |  
@@ -1566,7 +1566,7 @@ Notes: never / not once位于句首时，句子用部分倒装语序。
  > 某个晴朗的午后    
 
 
-# ***<font color=#0099ff>\*one</font>*** pron
+# ***\*one*** pron
 英音 wʌn     美音 wʌn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1611,19 +1611,19 @@ Notes:  one 代替前面出现过的可数名词，表示同种类中的一个�
 
 固定搭配
 ---
-## <font color=#0099ff>\*one after another / the other</font>
+## \*one after another / the other
 1.**一个接一个地； 接连地：**  
 
  > *One after another, people stood up and shared their own stories.*  
  > 人们一个接一个地站了起来，分享自己的故事。    
 
-## <font color=#0099ff>\*one another</font>
+## \*one another
 1.**[两者或多者之间] 相互；彼此：**  
 
  > *They gave presents to one another at the graduation ceremony.*  
  > 毕业典礼上他们互赠礼物。    
 
-## <font color=#0099ff>\*one by one</font>
+## \*one by one
 1.**逐个地；依次地：**  
 
  > *As the bell rang, the students went out one by one.*  
@@ -1643,7 +1643,7 @@ D.one
 答案：
 1. one  2. D  3. one  
 
-# ***<font color=#0099ff>\*oneself</font>*** pron
+# ***\*oneself*** pron
 英音 wʌn'self     美音 wʌn'self  
 
 | 词频 2 |  
@@ -1668,14 +1668,14 @@ D.one
 
 固定搭配
 ---
-## <font color=#0099ff>\*be oneself</font>
+## \*be oneself
 1.**(人) 处于正常状态：**  
 
-## <font color=#0099ff>\*(all) by oneself</font>
+## \*(all) by oneself
 1.**独自地；独立地**  
 
 
-# ***<font color=#0099ff>\*onion</font>*** n
+# ***\*onion*** n
 英音 'ʌnjən     美音 'ʌnjən  
 
 | 词频 1 | 口语 1 |  
@@ -1687,7 +1687,7 @@ D.one
 ### 1.*高义频：* **洋葱；葱头**  
 
 
-# ***<font color=#0099ff>\*online</font>*** adj
+# ***\*online*** adj
 英音 ˌɒn'laɪn     美音 ˌɑːn'laɪn  
 
 | 词频 5 |  
@@ -1697,7 +1697,7 @@ D.one
 ### 1.*高义频：* **在线的；联网的**  
 
 
-# ***<font color=#0099ff>\*online</font>*** adv
+# ***\*online*** adv
 英音 ˌɒn'laɪn     美音 ˌɑːn'laɪn  
 
 | 词频 5 |  
@@ -1707,7 +1707,7 @@ D.one
 ### 1.*高义频：* **在网上**  
 
 
-# ***<font color=#0099ff>\*only</font>*** adj  重难点词汇
+# ***\*only*** adj  重难点词汇
 英音 'əʊnli     美音 'oʊnli  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1728,7 +1728,7 @@ D.one
  > 她是这项工作的最佳人选。    
 
 
-# ***<font color=#0099ff>\*only</font>*** adv  重难点词汇
+# ***\*only*** adv  重难点词汇
 英音 'əʊnli     美音 'oʊnli  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1760,13 +1760,13 @@ Notes: “only + 状语”置于句首时，通常引起部分倒装。句子结
 
 固定搭配
 ---
-## <font color=#0099ff>\*if only</font>
+## \*if only
 1.**[与虚拟语气连用] 但愿；如果…就好了：**  
 
  > *If only I knew her name.*  
  > 我要是知道她的名字就好了。    
 
-## <font color=#0099ff>\*not only ... but (also)</font>
+## \*not only ... but (also)
 1.**不但…而且：**  
 
 Notes: not only … but (also) 可以连接并列成分。连接主语时，谓语与靠近它的主语一致。  
@@ -1787,7 +1787,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 答案：
 1. and → but  2. did she realize  3. to find  
 
-# ***<font color=#0099ff>\*onto</font>*** prep
+# ***\*onto*** prep
 英音 'ɒntə,'ɒntu     美音 'ɑːntə,'ɑːntu  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -1803,7 +1803,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 这辆车侧翻了。    
 
 
-# ***<font color=#0099ff>\*onwards</font>*** adv
+# ***\*onwards*** adv
 英音 onwards     美音 'ɒnwədz  
 
 | 词频 1 |  
@@ -1813,7 +1813,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 ### 1.*高义频：* **(=onward) 向前地；前进地**  
 
 
-# ***<font color=#0099ff>\*oolong</font>*** n
+# ***\*oolong*** n
 英音 'uːlɒŋ     美音 'uːlɒŋ  
 
   
@@ -1823,7 +1823,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 ### 1.**乌龙茶**  
 
 
-# ***<font color=#0099ff>\*open</font>*** adj
+# ***\*open*** adj
 英音 'əʊpən     美音 'oʊpən  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1879,11 +1879,11 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 
 固定搭配
 ---
-## <font color=#0099ff>\*have / keep an open mind (about / on)</font>
+## \*have / keep an open mind (about / on)
 1.**对…不怀成见 / 对…不先入为主**  
 
 
-# ***<font color=#0099ff>\*open</font>*** v
+# ***\*open*** v
 英音 'əʊpən     美音 'oʊpən  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1940,10 +1940,10 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 
 固定搭配
 ---
-## <font color=#0099ff>\*open sb’s eyes to sth</font>
+## \*open sb’s eyes to sth
 1.**使某人长见识 / 开眼界 / 认清 (事实)**  
 
-## <font color=#0099ff>\*open up</font>
+## \*open up
 1.**打开；开辟；直抒胸怀：**  
 
  > *Einstein’s theories opened up a new area of study.*  
@@ -1954,7 +1954,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 人们没有几个真正的朋友，他们需要向彼此敞开心扉。  （2015 全国改）  
 
 
-# ***<font color=#0099ff>\*open</font>*** n
+# ***\*open*** n
 英音 'əʊpən     美音 'oʊpən  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1981,7 +1981,7 @@ openly /'əʊpənli/ adv
  > 当众哭泣    
 
 
-# ***<font color=#0099ff>\*open-mouthed</font>*** adj
+# ***\*open-mouthed*** adj
 
 
   
@@ -1991,7 +1991,7 @@ openly /'əʊpənli/ adv
 ### 1.**目瞪口呆的；惊愕得张大嘴的**  
 
 
-# ***<font color=#0099ff>\*opener</font>*** n
+# ***\*opener*** n
 英音 'əʊpnə(r)     美音 'oʊpnər  
 
 | 词频 1 |  
@@ -2007,7 +2007,7 @@ openly /'əʊpənli/ adv
  > 开瓶器；起子    
 
 
-# ***<font color=#0099ff>\*opening</font>*** n
+# ***\*opening*** n
 英音 'əʊpnɪŋ     美音 'oʊpnɪŋ  
 
 | 词频 4 |  
@@ -2037,7 +2037,7 @@ openly /'əʊpənli/ adv
 ### 4.*低义频：* **空缺**  
 
 
-# ***<font color=#0099ff>\*opening</font>*** adj
+# ***\*opening*** adj
 英音 'əʊpnɪŋ     美音 'oʊpnɪŋ  
 
 | 词频 4 |  
@@ -2053,7 +2053,7 @@ openly /'əʊpənli/ adv
  > 开幕式    
 
 
-# ***<font color=#0099ff>\*opera</font>*** n
+# ***\*opera*** n
 英音 'ɒpər     美音 'ɑːpər  
 
 | 词频 2 |  
@@ -2074,11 +2074,11 @@ openly /'əʊpənli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*soap opera</font>
+## \*soap opera
 1.**肥皂剧**  
 
 
-# ***<font color=#0099ff>\*operate</font>*** v  重难点词汇
+# ***\*operate*** v  重难点词汇
 英音 'ɒpəreɪt     美音 'ɑːpəreɪt  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2128,7 +2128,7 @@ openly /'əʊpənli/ adv
 ---
 operator  n   
 
-# ***<font color=#0099ff>\*operation</font>*** n
+# ***\*operation*** n
 英音 ˌɒpə'reɪʃn     美音 ˌɑːpə'reɪʃn  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -2186,14 +2186,14 @@ operator  n
 
 固定搭配
 ---
-## <font color=#0099ff>\*put ... into operation</font>
+## \*put ... into operation
 1.**实施；使…运转；启用：**  
 
  > *It’s time to put our plan into operation.*  
  > 现在应该实施我们的计划了。    
 
 
-# ***<font color=#0099ff>\*operational</font>*** adj
+# ***\*operational*** adj
 英音 ˌɒpə'reɪʃənl     美音 ˌɑːpə'reɪʃənl  
 
 | 词频 2 |  
@@ -2203,7 +2203,7 @@ operator  n
 ### 1.**工作着的；即可使用的**  
 
 
-# ***<font color=#0099ff>\*operator</font>*** n
+# ***\*operator*** n
 英音 'ɒpəreɪtə(r)     美音 'ɑːpəreɪtər  
 
 | 词频 2 | 书面 1 |  
@@ -2215,7 +2215,7 @@ operator  n
 ### 1.*高义频：* **话务员；操作员；经营者**  
 
 
-# ***<font color=#0099ff>\*opinion</font>*** n  重难点词汇
+# ***\*opinion*** n  重难点词汇
 英音 ə'pɪnjən     美音 ə'pɪnjən  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -2272,11 +2272,11 @@ operator  n
 
 固定搭配
 ---
-## <font color=#0099ff>\*have a high / low / good / poor opinion of</font>
+## \*have a high / low / good / poor opinion of
 1.**对…评价高 / 低 / 好 / 差**  
 
 
-# ***<font color=#0099ff>\*opponent</font>*** n
+# ***\*opponent*** n
 英音 ə'pəʊnənt     美音 ə'poʊnənt  
 
 | 词频 2 | 书面 1 |  
@@ -2288,7 +2288,7 @@ operator  n
 ### 1.*高义频：* **对手；反对者**  
 
 
-# ***<font color=#0099ff>\*opportunity</font>*** n
+# ***\*opportunity*** n
 英音 ˌɒpə'tjuːnəti     美音 ˌɑːpər'tuːnəti  
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -2328,7 +2328,7 @@ operator  n
  > 工作一旦完成，就有很多放松的机会。    
 
 
-# ***<font color=#0099ff>\*oppose</font>*** vt
+# ***\*oppose*** vt
 英音 ə'pəʊz     美音 ə'poʊz  
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 2 |  
@@ -2353,7 +2353,7 @@ opposed /ə'pəʊzd/ adj [不用于名词前]
  > *His parents are opposed to the marriage.*  
  > 他的父母反对这桩婚事。    
 
-## <font color=#0099ff>\*as opposed to</font>
+## \*as opposed to
 1.**而；而非：**  
 
  > *Two hundred people attended the meeting, as opposed to 300 the previous year.*  
@@ -2364,7 +2364,7 @@ opposed /ə'pəʊzd/ adj [不用于名词前]
 
 opposing /ə'pəʊzɪŋ/ adj [只用于名词前]  
 
-# ***<font color=#0099ff>\*opposed</font>*** adj
+# ***\*opposed*** adj
 英音 ə'pəʊzd     美音 ə'poʊzd  
 
 | 词频 2 |  
@@ -2374,7 +2374,7 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 ### 1.**反对的；对立的**  
 
 
-# ***<font color=#0099ff>\*opposing</font>*** adj
+# ***\*opposing*** adj
 英音 ə'pəʊzɪŋ     美音 ə'poʊzɪŋ  
 
   
@@ -2384,7 +2384,7 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 ### 1.**（观点、意见等）相反的，相对立的**  
 
 
-# ***<font color=#0099ff>\*opposite</font>*** adj  重难点词汇
+# ***\*opposite*** adj  重难点词汇
 英音 'ɒpəzɪt     美音 'ɑːpəzət  
 
 | 词频 4 |  
@@ -2420,7 +2420,7 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 答案：
 1. opposite  
 
-# ***<font color=#0099ff>\*opposite</font>*** prep  重难点词汇
+# ***\*opposite*** prep  重难点词汇
 英音 'ɒpəzɪt     美音 'ɑːpəzət  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2433,7 +2433,7 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
  > 那家宾馆离这里只有5个街区，在银行的对面。  （2011 全国改）  
 
 
-# ***<font color=#0099ff>\*opposite</font>*** n  重难点词汇
+# ***\*opposite*** n  重难点词汇
 英音 'ɒpəzɪt     美音 'ɑːpəzət  
 
 | 词频 4 |  
@@ -2453,7 +2453,7 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
  > 我一点儿都不困，事实上正好相反。    
 
 
-# ***<font color=#0099ff>\*opposition</font>*** n
+# ***\*opposition*** n
 英音 ˌɒpə'zɪʃn     美音 ˌɑːpə'zɪʃn  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -2469,7 +2469,7 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
  > 对这个决定有很多反对意见。    
 
 
-# ***<font color=#0099ff>\*optimism</font>*** n
+# ***\*optimism*** n
 英音 'ɒptɪmɪzəm     美音 'ɑːptɪmɪzəm  
 
 | 词频 2 |  
@@ -2481,7 +2481,7 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 ### 1.*高义频：* **乐观；乐观主义**  
 
 
-# ***<font color=#0099ff>\*optimistic</font>*** adj
+# ***\*optimistic*** adj
 英音 ˌɒptɪ'mɪstɪk     美音 ˌɑːptɪ'mɪstɪk  
 
 | 词频 2 | 阅读 1 |  
@@ -2505,7 +2505,7 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 答案：
 1. about  
 
-# ***<font color=#0099ff>\*option</font>*** n
+# ***\*option*** n
 英音 'ɒpʃn     美音 'ɑːpʃn  
 
 | 词频 1 | 口语 3 | 书面 2 | 阅读 2 |  
@@ -2524,7 +2524,7 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
  > 你别无选择，只能拒绝他的提议。    
 
 
-# ***<font color=#0099ff>\*optional</font>*** adj
+# ***\*optional*** adj
 英音 'ɒpʃənl     美音 'ɑːpʃənl  
 
 | 词频 1 | 阅读 1 |  
@@ -2548,7 +2548,7 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 答案：
 1. optional  
 
-# ***<font color=#0099ff>\*or</font>*** conj
+# ***\*or*** conj
 英音 ɔː(r)     美音 ɔːr  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2589,7 +2589,7 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 答案：
 1. or   
 
-# ***<font color=#0099ff>\*oral</font>*** adj
+# ***\*oral*** adj
 英音 'ɔːrəl     美音 'ɔːrəl  
 
 | 词频 2 |  
@@ -2609,7 +2609,7 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 ---
 orally /'ɔːrəli/ adv   
 
-# ***<font color=#0099ff>\*orange</font>*** n
+# ***\*orange*** n
 英音 'ɒrɪndʒ     美音 'ɔːrɪndʒ  
 
 | 词频 4 | 口语 1 |  
@@ -2619,7 +2619,7 @@ orally /'ɔːrəli/ adv
 ### 1.*高义频：* **[C] 柑橘；橙子； [U] 橘色**  
 
 
-# ***<font color=#0099ff>\*orange</font>*** adj
+# ***\*orange*** adj
 英音 'ɒrɪndʒ     美音 'ɔːrɪndʒ  
 
 | 词频 4 | 口语 1 |  
@@ -2631,7 +2631,7 @@ orally /'ɔːrəli/ adv
 ### 1.*高义频：* **柑橘的；橘色的**  
 
 
-# ***<font color=#0099ff>\*orangutan</font>*** n
+# ***\*orangutan*** n
 英音 ɔːˌræŋuː'tæn     美音 ə'ræŋətæn  
 
 | 词频 1 |  
@@ -2641,7 +2641,7 @@ orally /'ɔːrəli/ adv
 ### 1.**猩猩**  
 
 
-# ***<font color=#0099ff>\*orbit</font>*** n
+# ***\*orbit*** n
 英音 'ɔːbɪt     美音 'ɔːrbɪt  
 
 | 词频 3 |  
@@ -2657,7 +2657,7 @@ orally /'ɔːrəli/ adv
  > 这颗人造卫星已被送入环绕地球运行的轨道。    
 
 
-# ***<font color=#0099ff>\*orbit</font>*** v
+# ***\*orbit*** v
 英音 'ɔːbɪt     美音 'ɔːrbɪt  
 
 | 词频 3 |  
@@ -2671,7 +2671,7 @@ orally /'ɔːrəli/ adv
  > 地球绕太阳一周需要一年的时间。    
 
 
-# ***<font color=#0099ff>\*orchestra</font>*** n
+# ***\*orchestra*** n
 英音 'ɔːkɪstrə     美音 'ɔːrkɪstrə  
 
 | 词频 2 |  
@@ -2683,7 +2683,7 @@ orally /'ɔːrəli/ adv
 ### 1.*高义频：* **(大型的) 管弦乐队**  
 
 
-# ***<font color=#0099ff>\*order</font>*** n  重难点词汇
+# ***\*order*** n  重难点词汇
 英音 'ɔːdə(r)     美音 'ɔːrdər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2755,7 +2755,7 @@ orally /'ɔːrəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*in order</font>
+## \*in order
 1.**按顺序；有序地；整齐地：**  
 
  > *Careful people usually put everything in good order.*  
@@ -2764,13 +2764,13 @@ orally /'ɔːrəli/ adv
  > *Some teachers find it difficult to keep their classes in order. *  
  > 有些老师发现维持课堂秩序很困难。    
 
-## <font color=#0099ff>\*in order that</font>
+## \*in order that
 1.**为了；以便：**  
 
  > *Leave your telephone number in order that we might contact you.*  
  > 请留下你的电话号码，以便于我们跟你联系。  （北师大⑦ – 20）  
 
-## <font color=#0099ff>\*in order to</font>
+## \*in order to
 1.**为了；以便：**  
 
  > *In order to find a better job, he decided to study a second foreign language.*  
@@ -2785,13 +2785,13 @@ orally /'ɔːrəli/ adv
  > *Go in quietly so as not to wake your mother.*  
  > 悄悄地进去，别把你的妈妈吵醒了。    
 
-## <font color=#0099ff>\*in the order of </font>
+## \*in the order of 
 1.**大约：**  
 
  > *She earns something in the order of £80,000 a year.*  
  > 她的年收入约为8万英镑。    
 
-## <font color=#0099ff>\*out of order</font>
+## \*out of order
 1.**次序颠倒；发生故障：**  
 
  > *The newspaper pages were out of order.*  
@@ -2809,7 +2809,7 @@ orally /'ɔːrəli/ adv
 答案：
 1. Ordered  2. in order that / so that  
 
-# ***<font color=#0099ff>\*order</font>*** v  重难点词汇
+# ***\*order*** v  重难点词汇
 英音 'ɔːdə(r)     美音 'ɔːrdər  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -2855,7 +2855,7 @@ ordered /'ɔːdəd/ adj
  > 井然有序的世界    
 
 
-# ***<font color=#0099ff>\*orderly</font>*** adj
+# ***\*orderly*** adj
 英音 'ɔːdəli     美音 'ɔːrdərli  
 
 | 词频 1 | 阅读 1 |  
@@ -2869,7 +2869,7 @@ ordered /'ɔːdəd/ adj
  > 红绿灯的存在是为了有序地引导交通。  （译林⑦ – 4）  
 
 
-# ***<font color=#0099ff>\*ordinary</font>*** adj
+# ***\*ordinary*** adj
 英音 'ɔːdnri     美音 'ɔːrdneri  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -2893,7 +2893,7 @@ ordered /'ɔːdəd/ adj
 答案：
 1. ordinarily-ordinary  
 
-# ***<font color=#0099ff>\*organ</font>*** n
+# ***\*organ*** n
 英音 'ɔːɡən     美音 'ɔːrɡən  
 
 | 词频 2 | 书面 1 |  
@@ -2917,7 +2917,7 @@ ordered /'ɔːdəd/ adj
  > 演奏管风琴    
 
 
-# ***<font color=#0099ff>\*organic</font>*** adj
+# ***\*organic*** adj
 英音 ɔː'ɡænɪk     美音 ɔːr'ɡænɪk  
 
 | 词频 3 | 书面 1 | 阅读 1 |  
@@ -2933,7 +2933,7 @@ ordered /'ɔːdəd/ adj
  > 有机食品    
 
 
-# ***<font color=#0099ff>\*organisation</font>*** n
+# ***\*organisation*** n
 英音 ˌɔːɡənaɪ'zeɪʃn     美音 ˌɔːrɡənə'zeɪʃn  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -2955,7 +2955,7 @@ ordered /'ɔːdəd/ adj
  > 他正忙于筹建一个新的俱乐部。    
 
 
-# ***<font color=#0099ff>\*organisational</font>*** adj
+# ***\*organisational*** adj
 英音 ˌɔːgənaɪ'zeɪʃənl     美音 ˌɔːrgənə'zeɪʃənl  
 
 | 词频 1 |  
@@ -2965,7 +2965,7 @@ ordered /'ɔːdəd/ adj
 ### 1.**组织上的**  
 
 
-# ***<font color=#0099ff>\*organise</font>*** v
+# ***\*organise*** v
 英音 'ɔːɡənaɪz     美音 'ɔːrɡənaɪz  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -3020,7 +3020,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
  organizer / organiser  /'ɔːgənaɪzə/ n  [C]   
 
-# ***<font color=#0099ff>\*organised</font>*** adj
+# ***\*organised*** adj
 英音 'ɔːɡənaɪzd     美音 'ɔːɡənaɪzd  
 
 | 词频 4 |  
@@ -3042,7 +3042,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
  > 很有条理的人    
 
 
-# ***<font color=#0099ff>\*organism</font>*** n
+# ***\*organism*** n
 英音 'ɔːɡənɪzəm     美音 'ɔːrɡənɪzəm  
 
 | 词频 1 | 口语 1 |  
@@ -3057,7 +3057,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
  > 植物会释放出几乎地球上所有生物都需要的氧气。  （2012 四川改）  
 
 
-# ***<font color=#0099ff>\*organization</font>*** n
+# ***\*organization*** n
 英音 ˌɔːɡənaɪ'zeɪʃn     美音 ˌɔːrɡənə'zeɪʃn  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -3079,7 +3079,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
  > 他正忙于筹建一个新的俱乐部。    
 
 
-# ***<font color=#0099ff>\*organize</font>*** v
+# ***\*organize*** v
 英音 'ɔːɡənaɪz     美音 'ɔːrɡənaɪz  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -3135,7 +3135,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
  organizer / organiser  /'ɔːɡənaɪzə(r)/ n [C]   
 
-# ***<font color=#0099ff>\*orientation</font>*** n
+# ***\*orientation*** n
 英音 ˌɔːriən'teɪʃn     美音 ˌɔːriən'teɪʃn  
 
   
@@ -3145,7 +3145,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
 ### 1.**（新工作或学习课程开始前一段时间的）培训，迎新**  
 
 
-# ***<font color=#0099ff>\*origin</font>*** n
+# ***\*origin*** n
 英音 'ɒrɪdʒɪn     美音 'ɔːrɪdʒɪn  
 
 | 词频 2 | 书面 2 |  
@@ -3171,7 +3171,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
  > 这种特别的习俗源于威尔士。    
 
 
-# ***<font color=#0099ff>\*original</font>*** adj  重难点词汇
+# ***\*original*** adj  重难点词汇
 英音 ə'rɪdʒənl     美音 ə'rɪdʒənl  
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -3196,7 +3196,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
  > 那个建议没什么新意。    
 
 
-# ***<font color=#0099ff>\*original</font>*** n  重难点词汇
+# ***\*original*** n  重难点词汇
 英音 ə'rɪdʒənl     美音 ə'rɪdʒənl  
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -3212,7 +3212,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
  > 原著    
 
 
-# ***<font color=#0099ff>\*originally</font>*** adv
+# ***\*originally*** adv
 英音 ə'rɪdʒənəli     美音 ə'rɪdʒənəli  
 
 | 词频 2 | 口语 2 | 书面 2 | 阅读 2 |  
@@ -3228,7 +3228,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
  > 起先，我们计划到苏格兰旅游，但最后没有成行。    
 
 
-# ***<font color=#0099ff>\*ornate</font>*** adj
+# ***\*ornate*** adj
 英音 ɔː'neɪt     美音 ɔːr'neɪt  
 
 | 词频 1 |  
@@ -3238,7 +3238,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
 ### 1.**华丽的**  
 
 
-# ***<font color=#0099ff>\*orphan</font>*** n
+# ***\*orphan*** n
 英音 'ɔːfn     美音 'ɔːrfn  
 
 | 词频 1 |  
@@ -3250,7 +3250,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
 ### 1.*高义频：* **孤儿**  
 
 
-# ***<font color=#0099ff>\*orphan</font>*** adj
+# ***\*orphan*** adj
 英音 'ɔːfn     美音 'ɔːrfn  
 
 | 词频 1 |  
@@ -3260,7 +3260,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
 ### 1.*高义频：* **孤儿的**  
 
 
-# ***<font color=#0099ff>\*other</font>*** adj  重难点词汇
+# ***\*other*** adj  重难点词汇
 英音 'ʌðə(r)     美音 'ʌðər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3303,13 +3303,13 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 固定搭配
 ---
-## <font color=#0099ff>\*no other than</font>
+## \*no other than
 1.**正是；恰恰是：**  
 
  > *He is no other than the writer I have often talked about.*  
  > 他正是我常谈起的那位作家。    
 
-## <font color=#0099ff>\*other than</font>
+## \*other than
 1.**除…以外 (except)：**  
 
  > *I don’t know any French people other than you.*  
@@ -3328,7 +3328,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 答案：
 1. other than / except  2. the other  3. some other  
 
-# ***<font color=#0099ff>\*other</font>*** pron  重难点词汇
+# ***\*other*** pron  重难点词汇
 英音 'ʌðə(r)     美音 'ʌðər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3371,7 +3371,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 答案：
 1. the  2. others  3. other → others  
 
-# ***<font color=#0099ff>\*otherwise</font>*** adv  重难点词汇
+# ***\*otherwise*** adv  重难点词汇
 英音 'ʌðərwaɪz     美音 'ʌðərwaɪz  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -3402,7 +3402,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 我星期日不能见你了，我有别的事要忙。  （2014 江苏改）  
 
 
-# ***<font color=#0099ff>\*ouch</font>*** int
+# ***\*ouch*** int
 英音 aʊtʃ     美音 aʊtʃ  
 
 | 词频 1 |  
@@ -3412,7 +3412,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 ### 1.*高义频：* **哎哟**  
 
 
-# ***<font color=#0099ff>\*ought</font>*** aux v
+# ***\*ought*** aux v
 英音 ɔːt     美音 ɔːt  
 
 | 词频 3 |  
@@ -3422,7 +3422,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 ### 1.**应当；应该**  
 
 
-# ***<font color=#0099ff>\*our</font>*** pron
+# ***\*our*** pron
 英音 ɑː(r), 'aʊə(r)     美音 'aʊər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3432,7 +3432,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 ### 1.*高义频：* **我们的**  
 
 
-# ***<font color=#0099ff>\*ours</font>*** pron
+# ***\*ours*** pron
 英音 ɑːz, 'aʊəz     美音 'aʊərz  
 
 | 词频 3 | 口语 3 |  
@@ -3451,7 +3451,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 我们的家是一个大家庭。    
 
 
-# ***<font color=#0099ff>\*ourselves</font>*** pron
+# ***\*ourselves*** pron
 英音 ɑː'selvz     美音 ɑːr'selvz  
 
 | 词频 4 | 口语 3 | 书面 1 |  
@@ -3469,7 +3469,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 我们亲眼看到的。    
 
 
-# ***<font color=#0099ff>\*out</font>*** adv & prep
+# ***\*out*** adv & prep
 英音 aʊt     美音 aʊt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3512,7 +3512,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 固定搭配
 ---
-## <font color=#0099ff>\*out of</font>
+## \*out of
 1.*高义频：* **从...中 (出去)：**  
 
  > **out of the room**  
@@ -3557,7 +3557,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 用木头做个盒子    
 
 
-# ***<font color=#0099ff>\*outbreak</font>*** n
+# ***\*outbreak*** n
 英音 'aʊtbreɪk     美音 'aʊtbreɪk  
 
 | 词频 1 |  
@@ -3569,7 +3569,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 ### 1.*高义频：* **爆发；发作 (尤指疾病或战争)**  
 
 
-# ***<font color=#0099ff>\*outcome</font>*** n
+# ***\*outcome*** n
 英音 'aʊtkʌm     美音 'aʊtkʌm  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -3586,7 +3586,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 我们双方对辩论的结果都很满意。  （译林⑦ – 3）  
 
 
-# ***<font color=#0099ff>\*outdoor</font>*** adj
+# ***\*outdoor*** adj
 英音 'aʊtdɔː(r)     美音 'aʊtdɔːr  
 
 | 词频 4 |  
@@ -3600,7 +3600,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 户外活动    
 
 
-# ***<font color=#0099ff>\*outdoors</font>*** adv
+# ***\*outdoors*** adv
 英音 ˌaʊt'dɔːz     美音 ˌaʊt'dɔːrz  
 
 | 词频 3 |  
@@ -3613,7 +3613,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 印象派是最先到户外作画的画家。  （人教⑥ – 1）  
 
 
-# ***<font color=#0099ff>\*outdoors</font>*** n
+# ***\*outdoors*** n
 英音 ˌaʊt'dɔːz     美音 ˌaʊt'dɔːrz  
 
 | 词频 3 |  
@@ -3628,7 +3628,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 汤姆是个运动迷，并且热爱户外运动。    
 
 
-# ***<font color=#0099ff>\*outer</font>*** adj
+# ***\*outer*** adj
 英音 'aʊtə(r)     美音 'aʊtər  
 
 | 词频 3 |  
@@ -3645,7 +3645,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 外面的门大开着，但里面的门却紧锁着。    
 
 
-# ***<font color=#0099ff>\*outgoing</font>*** adj
+# ***\*outgoing*** adj
 英音 'aʊtɡəʊɪŋ     美音 'aʊtɡoʊɪŋ  
 
 | 词频 2 |  
@@ -3658,7 +3658,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 他通常乐观外向，但近来很安静，看起来很悲伤。  （译林⑤ – 1）  
 
 
-# ***<font color=#0099ff>\*outing</font>*** n
+# ***\*outing*** n
 英音 'aʊtɪŋ     美音 'aʊtɪŋ  
 
 | 词频 2 |  
@@ -3677,7 +3677,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 去远足    
 
 
-# ***<font color=#0099ff>\*outline</font>*** n
+# ***\*outline*** n
 英音 'aʊtlaɪn     美音 'aʊtlaɪn  
 
 | 词频 2 |  
@@ -3703,7 +3703,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 中国略图    
 
 
-# ***<font color=#0099ff>\*outline</font>*** vt
+# ***\*outline*** vt
 英音 'aʊtlaɪn     美音 'aʊtlaɪn  
 
 | 词频 2 |  
@@ -3722,7 +3722,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 他们看见天空映衬下那座巨型建筑的轮廓。    
 
 
-# ***<font color=#0099ff>\*outlook</font>*** n
+# ***\*outlook*** n
 英音 'aʊtlʊk     美音 'aʊtlʊk  
 
 | 词频 2 | 阅读 1 |  
@@ -3746,7 +3746,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 世界和平的前景是光明的。    
 
 
-# ***<font color=#0099ff>\*outnumber</font>*** v
+# ***\*outnumber*** v
 英音 ˌaʊt'nʌmbə(r)     美音 ˌaʊt'nʌmbər  
 
 | 词频 1 |  
@@ -3756,7 +3756,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 ### 1.**在数量上胜过……；比……多**  
 
 
-# ***<font color=#0099ff>\*outpatient</font>*** n
+# ***\*outpatient*** n
 英音 'aʊtpeɪʃnt     美音 'aʊtpeɪʃnt  
 
 | 词频 1 |  
@@ -3766,7 +3766,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 ### 1.**门诊病人**  
 
 
-# ***<font color=#0099ff>\*output</font>*** n
+# ***\*output*** n
 英音 'aʊtpʊt     美音 'aʊtpʊt  
 
 | 词频 1 | 书面 2 | 阅读 1 |  
@@ -3785,7 +3785,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 她计划每年出一本书。  （外研⑥ – 2）  
 
 
-# ***<font color=#0099ff>\*outside</font>*** adv
+# ***\*outside*** adv
 英音 ˌaʊt'saɪd     美音 ˌaʊt'saɪd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3801,7 +3801,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 他到外面抽了支烟。    
 
 
-# ***<font color=#0099ff>\*outside</font>*** prep
+# ***\*outside*** prep
 英音 ˌaʊt'saɪd     美音 ˌaʊt'saɪd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3817,7 +3817,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 他的校外生活收获颇丰。  （2008 浙江改）  
 
 
-# ***<font color=#0099ff>\*outside</font>*** adj
+# ***\*outside*** adj
 英音 'aʊtsaɪd     美音 'aʊtsaɪd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3834,7 +3834,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 我们必须寻求外援。    
 
 
-# ***<font color=#0099ff>\*outside</font>*** n
+# ***\*outside*** n
 英音 ˌaʊt'saɪd     美音 ˌaʊt'saɪd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3853,7 +3853,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 房子的外墙需要粉刷。    
 
 
-# ***<font color=#0099ff>\*outspoken</font>*** adj
+# ***\*outspoken*** adj
 英音 aʊt'spəʊkən     美音 aʊt'spoʊkən  
 
 | 词频 1 |  
@@ -3866,7 +3866,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 直率的人    
 
 
-# ***<font color=#0099ff>\*outstanding</font>*** adj
+# ***\*outstanding*** adj
 英音 aʊt'stændɪŋ     美音 aʊt'stændɪŋ  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -3882,7 +3882,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 清华大学，建于1911年，是很多杰出人才的摇篮。  （2011 福建）  
 
 
-# ***<font color=#0099ff>\*outward</font>*** adj
+# ***\*outward*** adj
 英音 'aʊtwəd     美音 'aʊtwərd  
 
 | 词频 1 |  
@@ -3902,7 +3902,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 她一定很难过，但没表现出来。    
 
 
-# ***<font color=#0099ff>\*outward(s)</font>*** adv
+# ***\*outward(s)*** adv
 英音 'aʊtwədz     美音 'aʊtwərdz  
 
 | 词频 1 |  
@@ -3918,7 +3918,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 他穿上雨衣向外走去。    
 
 
-# ***<font color=#0099ff>\*outwards</font>*** adv
+# ***\*outwards*** adv
 英音 'aʊtwədz     美音 'aʊtwərdz  
 
 | 词频 1 |  
@@ -3928,7 +3928,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 ### 1.**向外地**  
 
 
-# ***<font color=#0099ff>\*oval</font>*** adj
+# ***\*oval*** adj
 英音 'əʊvl     美音 'oʊvl  
 
 | 词频 1 |  
@@ -3938,7 +3938,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 ### 1.*高义频：* **椭圆形的**  
 
 
-# ***<font color=#0099ff>\*oval</font>*** n
+# ***\*oval*** n
 英音 'əʊvl     美音 'oʊvl  
 
 | 词频 1 |  
@@ -3950,7 +3950,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 ### 1.*高义频：* **椭圆 (形)**  
 
 
-# ***<font color=#0099ff>\*oven</font>*** n
+# ***\*oven*** n
 英音 'ʌvn     美音 'ʌvn  
 
 | 词频 1 | 口语 1 |  
@@ -3962,7 +3962,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 ### 1.*高义频：* **烤炉；烤箱**  
 
 
-# ***<font color=#0099ff>\*over</font>*** prep
+# ***\*over*** prep
 英音 'əʊvə(r)     美音 'oʊvər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4041,7 +4041,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 固定搭配
 ---
-## <font color=#0099ff>\*all over</font>
+## \*all over
 1.*高义频：* **到处；各处：**  
 
  > *Countries all over the world name places in similar ways.*  
@@ -4060,7 +4060,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 答案：
 1. over  2. over  3. over  
 
-# ***<font color=#0099ff>\*over</font>*** adv
+# ***\*over*** adv
 英音 'əʊvə(r)     美音 'oʊvər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4118,20 +4118,20 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 固定搭配
 ---
-## <font color=#0099ff>\*(all) over again</font>
+## \*(all) over again
 1.**再一遍；重新：**  
 
  > *He did the work so badly that I had to do it all over again myself.*  
  > 他工作做得太差劲了,我只好亲自重做。    
 
-## <font color=#0099ff>\*over and over (again)</font>
+## \*over and over (again)
 1.**反复；再三：**  
 
  > *As you know, if you do the same thing over and over again, you begin to do it automatically.*  
  > 你知道，如果反反复复地做同样的事，动作就会变得自如起来。  （人教⑥ – 3）  
 
 
-# ***<font color=#0099ff>\*over-fishing</font>*** n
+# ***\*over-fishing*** n
 英音 ˌəʊvəfɪʃɪŋ     美音 ˌoʊvərfɪʃɪŋ  
 
 | 词频 1 |  
@@ -4141,7 +4141,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 ### 1.**过度捕捞**  
 
 
-# ***<font color=#0099ff>\*overall</font>*** adj
+# ***\*overall*** adj
 英音 ˌəʊvər'ɔːl     美音 ˌoʊvər'ɔːl  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -4157,7 +4157,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
  > 全部费用    
 
 
-# ***<font color=#0099ff>\*overall</font>*** adv
+# ***\*overall*** adv
 英音 ˌəʊvər'ɔːl     美音 ˌoʊvər'ɔːl  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -4171,7 +4171,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
  > 总的来说，这是一本很有用的书。    
 
 
-# ***<font color=#0099ff>\*overboard</font>*** adv
+# ***\*overboard*** adv
 英音 'əʊvəbɔːd     美音 'əʊvəbɔːd  
 
 | 词频 1 |  
@@ -4181,7 +4181,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 ### 1.*高义频：* **越过船舷进入水中**  
 
 
-# ***<font color=#0099ff>\*overcoat</font>*** n
+# ***\*overcoat*** n
 英音 'əʊvəkəʊt     美音 'oʊvərkoʊt  
 
 | 词频 2 |  
@@ -4193,7 +4193,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 ### 1.*高义频：* **大衣；外套**  
 
 
-# ***<font color=#0099ff>\*overcome</font>*** vt
+# ***\*overcome*** vt
 英音 ˌəʊvə'kʌm     美音 ˌoʊvər'kʌm  
 
 | 词频 4 | 口语 1 | 书面 1 | 阅读 3 |  
@@ -4220,7 +4220,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
  > 在葬礼上她的父母悲痛欲绝。    
 
 
-# ***<font color=#0099ff>\*overhead</font>*** adv
+# ***\*overhead*** adv
 英音 ˌəʊvə'hed     美音 ˌoʊvər'hed  
 
 | 词频 2 |  
@@ -4233,7 +4233,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
  > 鸟儿在空中飞过，发出欢快的叫声。    
 
 
-# ***<font color=#0099ff>\*overhead</font>*** adj
+# ***\*overhead*** adj
 英音 ˌəʊvə'hed     美音 ˌoʊvər'hed  
 
 | 词频 2 |  
@@ -4249,7 +4249,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
  > 投影仪    
 
 
-# ***<font color=#0099ff>\*overlook</font>*** vt
+# ***\*overlook*** vt
 英音 ˌəʊvə'lʊk     美音 ˌoʊvər'lʊk  
 
 | 词频 3 | 阅读 3 |  
@@ -4272,7 +4272,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
  > 我没有追究他的过错。    
 
 
-# ***<font color=#0099ff>\*overnight</font>*** adv
+# ***\*overnight*** adv
 英音 ˌəʊvə'naɪt     美音 ˌoʊvər'naɪt  
 
 | 词频 2 |  
@@ -4291,7 +4291,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
  > 一夜成名    
 
 
-# ***<font color=#0099ff>\*overnight</font>*** adj
+# ***\*overnight*** adj
 英音 'əʊvənaɪt     美音 'oʊvərnaɪt  
 
 | 词频 2 |  
@@ -4309,7 +4309,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
  > 这场演出一举成功。    
 
 
-# ***<font color=#0099ff>\*overpass</font>*** n
+# ***\*overpass*** n
 英音 'əʊvəpɑːs     美音 'oʊvərpæs  
 
 | 词频 1 |  
@@ -4321,7 +4321,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 ### 1.*高义频：* **天桥；立交桥**  
 
 
-# ***<font color=#0099ff>\*overseas</font>*** adv
+# ***\*overseas*** adv
 英音 ˌəʊvə'siːz     美音 ˌoʊvər'siːz  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -4335,7 +4335,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
  > 他将去国外工作。    
 
 
-# ***<font color=#0099ff>\*overseas</font>*** adj
+# ***\*overseas*** adj
 英音 ˌəʊvə'siːz     美音 ˌoʊvər'siːz  
 
 | 词频 3 | 书面 1 |  
@@ -4348,7 +4348,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
  > 我接到了一个在巴黎的朋友打来的越洋电话。    
 
 
-# ***<font color=#0099ff>\*overtake</font>*** vt
+# ***\*overtake*** vt
 英音 ˌəʊvə'teɪk     美音 ˌoʊvər'teɪk  
 
 | 词频 2 | 阅读 1 |  
@@ -4363,7 +4363,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
  > 2010年中国超越日本，成为世界第二大经济体。    
 
 
-# ***<font color=#0099ff>\*overtime</font>*** n
+# ***\*overtime*** n
 英音 'əʊvətaɪm     美音 'oʊvərtaɪm  
 
 | 词频 3 |  
@@ -4373,7 +4373,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 ### 1.**加时赛**  
 
 
-# ***<font color=#0099ff>\*overview</font>*** n
+# ***\*overview*** n
 英音 'əʊvəvjuː     美音 'oʊvərvjuː  
 
 | 词频 1 |  
@@ -4383,7 +4383,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 ### 1.**概要；综述**  
 
 
-# ***<font color=#0099ff>\*overweight</font>*** adj
+# ***\*overweight*** adj
 英音 ˌəʊvə'weɪt     美音 ˌoʊvər'weɪt  
 
 | 词频 3 |  
@@ -4399,7 +4399,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
  > 这个包裹超重两公斤。    
 
 
-# ***<font color=#0099ff>\*overwhelm</font>*** vt
+# ***\*overwhelm*** vt
 英音 ˌəʊvə'welm     美音 ˌoʊvər'welm  
 
 | 词频 1 |  
@@ -4419,7 +4419,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 ---
 overwhelming /ˌəʊvə'welmɪŋ/ adj   
 
-# ***<font color=#0099ff>\*owe</font>*** vt
+# ***\*owe*** vt
 英音 əʊ     美音 oʊ  
 
 | 词频 3 | 口语 2 | 书面 1 | 阅读 2 |  
@@ -4451,7 +4451,7 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
  > 这些早期的移民把他们的幸存归功于艰苦的劳动和必胜的决心。  （人教⑨ – 3）  
 
 
-# ***<font color=#0099ff>\*own</font>*** adj
+# ***\*own*** adj
 英音 əʊn     美音 oʊn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4466,7 +4466,7 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
  > 直到我亲眼看到我才会相信你的话。    
 
 
-# ***<font color=#0099ff>\*own</font>*** pron
+# ***\*own*** pron
 英音 əʊn     美音 oʊn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4490,7 +4490,7 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*(all) on one’s own</font>
+## \*(all) on one’s own
 1.**独自地；独立地 (alone)：**  
 
  > *My grandmother lives all on her own.*  
@@ -4500,7 +4500,7 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
  > 是团队协作而不是自己独自工作使我的工作效率更高。  （2011 湖北书面表达）  
 
 
-# ***<font color=#0099ff>\*own</font>*** vt
+# ***\*own*** vt
 英音 əʊn     美音 oʊn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4513,7 +4513,7 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
  > 一百年前，很少有人拥有汽车。  （外研① – 7）  
 
 
-# ***<font color=#0099ff>\*owner</font>*** n
+# ***\*owner*** n
 英音 'əʊnə(r)     美音 'oʊnər  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -4525,7 +4525,7 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 ### 1.*高义频：* **物主；所有者**  
 
 
-# ***<font color=#0099ff>\*ownership</font>*** n
+# ***\*ownership*** n
 英音 'əʊnəʃɪp     美音 'oʊnərʃɪp  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -4540,7 +4540,7 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
  > 此房产在1806年之前一直归莎士比亚家族所有。  （2010 全国）  
 
 
-# ***<font color=#0099ff>\*ox</font>*** n
+# ***\*ox*** n
 英音 ɒks     美音 ɑːks  
 
 | 词频 3 |  
@@ -4552,7 +4552,7 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 ### 1.*高义频：* **牛；公牛**  
 
 
-# ***<font color=#0099ff>\*oxide</font>*** n
+# ***\*oxide*** n
 英音 'ɒksaɪd     美音 'ɑːksaɪd  
 
 | 词频 1 |  
@@ -4562,7 +4562,7 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 ### 1.**氧化物**  
 
 
-# ***<font color=#0099ff>\*oxygen</font>*** n
+# ***\*oxygen*** n
 英音 'ɒksɪdʒən     美音 'ɑːksɪdʒən  
 
 | 词频 3 |  

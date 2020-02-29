@@ -1,6 +1,6 @@
 # Rr
 
-# ***<font color=#0099ff>\*rabbit</font>*** n
+# ***\*rabbit*** n
 英音 'ræbɪt     美音 'ræbɪt  
 
 | 词频 2 |  
@@ -12,7 +12,7 @@
 ### 1.*高义频：* **兔子**  
 
 
-# ***<font color=#0099ff>\*race</font>*** n
+# ***\*race*** n
 英音 reɪs     美音 reɪs  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -34,7 +34,7 @@
  > 人们正在竞相开发更加环保的能源。    
 
 
-# ***<font color=#0099ff>\*race</font>*** v
+# ***\*race*** v
 英音 reɪs     美音 reɪs  
 
 | 词频 5 |  
@@ -53,7 +53,7 @@
 ---
 racing /'reɪsɪŋ/    
 
-# ***<font color=#0099ff>\*race</font>*** n
+# ***\*race*** n
 英音 reɪs     美音 reɪs  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -72,7 +72,7 @@ racing /'reɪsɪŋ/
  > 人类正在逐渐用尽地球的资源。  （译林⑤ – 3）  
 
 
-# ***<font color=#0099ff>\*racer</font>*** n
+# ***\*racer*** n
 英音 'reɪsə(r)     美音 'reɪsər  
 
 | 词频 1 |  
@@ -82,7 +82,7 @@ racing /'reɪsɪŋ/
 ### 1.**赛车手**  
 
 
-# ***<font color=#0099ff>\*racial</font>*** adj
+# ***\*racial*** adj
 英音 'reɪʃl     美音 'reɪʃl  
 
 | 词频 1 |  
@@ -95,7 +95,7 @@ racing /'reɪsɪŋ/
  > 种族歧视    
 
 
-# ***<font color=#0099ff>\*racism</font>*** n
+# ***\*racism*** n
 英音 'reɪsɪzəm     美音 'reɪsɪzəm  
 
 | 词频 3 |  
@@ -105,7 +105,7 @@ racing /'reɪsɪŋ/
 ### 1.**种族主义**  
 
 
-# ***<font color=#0099ff>\*radar</font>*** n
+# ***\*radar*** n
 英音 'reɪdɑː(r)     美音 'reɪdɑːr  
 
 | 词频 2 |  
@@ -117,7 +117,7 @@ racing /'reɪsɪŋ/
 ### 1.*高义频：* **雷达**  
 
 
-# ***<font color=#0099ff>\*radiation</font>*** n
+# ***\*radiation*** n
 英音 ˌreɪdi'eɪʃn     美音 ˌreɪdi'eɪʃn  
 
 | 词频 2 |  
@@ -132,7 +132,7 @@ racing /'reɪsɪŋ/
  > 核辐射    
 
 
-# ***<font color=#0099ff>\*radio</font>*** n
+# ***\*radio*** n
 英音 'reɪdiəʊ     美音 'reɪdioʊ  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -160,7 +160,7 @@ racing /'reɪsɪŋ/
  > 把收音机的音量调大/小    
 
 
-# ***<font color=#0099ff>\*radioactive</font>*** adj
+# ***\*radioactive*** adj
 英音 ˌreɪdiəʊ'æktɪv     美音 'reɪdioʊ'æktɪv  
 
 | 词频 1 |  
@@ -170,7 +170,7 @@ racing /'reɪsɪŋ/
 ### 1.*高义频：* **放射性的**  
 
 
-# ***<font color=#0099ff>\*radioactivity</font>*** n
+# ***\*radioactivity*** n
 英音 ˌreɪdiəʊæk'tɪvəti     美音 ˌreɪdiəʊæk'tɪvəti  
 
 | 词频 1 |  
@@ -182,7 +182,7 @@ racing /'reɪsɪŋ/
 ### 1.*高义频：* **放射性**  
 
 
-# ***<font color=#0099ff>\*radium</font>*** n
+# ***\*radium*** n
 英音 'reɪdiəm     美音 'reɪdiəm  
 
 | 词频 1 |  
@@ -194,7 +194,7 @@ racing /'reɪsɪŋ/
 ### 1.*高义频：* **镭(符号Ra)**  
 
 
-# ***<font color=#0099ff>\*raft</font>*** n
+# ***\*raft*** n
 英音 rɑːft     美音 ræft  
 
 | 词频 3 |  
@@ -204,7 +204,7 @@ racing /'reɪsɪŋ/
 ### 1.**木排；木筏**  
 
 
-# ***<font color=#0099ff>\*rag</font>*** n
+# ***\*rag*** n
 英音 ræɡ     美音 ræɡ  
 
 | 词频 2 |  
@@ -218,11 +218,11 @@ racing /'reɪsɪŋ/
 
 固定搭配
 ---
-## <font color=#0099ff>\*in rags </font>
+## \*in rags 
 1.**衣衫褴褛：**  
 
 
-# ***<font color=#0099ff>\*raid</font>*** n
+# ***\*raid*** n
 英音 reɪd     美音 reɪd  
 
 | 词频 1 |  
@@ -232,7 +232,7 @@ racing /'reɪsɪŋ/
 ### 1.**（警方的）突击搜查**  
 
 
-# ***<font color=#0099ff>\*raid</font>*** vt
+# ***\*raid*** vt
 英音 reɪd     美音 reɪd  
 
 | 词频 1 |  
@@ -242,7 +242,7 @@ racing /'reɪsɪŋ/
 ### 1.**（警方的）突击搜查**  
 
 
-# ***<font color=#0099ff>\*rail</font>*** n
+# ***\*rail*** n
 英音 reɪl     美音 reɪl  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -260,7 +260,7 @@ racing /'reɪsɪŋ/
 ### 3.*高义频：* **[C] 栏杆；扶手：**  
 
 
-# ***<font color=#0099ff>\*railway</font>*** n
+# ***\*railway*** n
 英音 'reɪlweɪ     美音 'reɪlweɪ  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -275,7 +275,7 @@ racing /'reɪsɪŋ/
  > 高速铁路    
 
 
-# ***<font color=#0099ff>\*rain</font>*** n
+# ***\*rain*** n
 英音 reɪn     美音 reɪn  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -295,7 +295,7 @@ racing /'reɪsɪŋ/
  > 好像要下雨了。    
 
 
-# ***<font color=#0099ff>\*rain</font>*** vi
+# ***\*rain*** vi
 英音 reɪn     美音 reɪn  
 
 | 词频 5 | 口语 1 |  
@@ -309,7 +309,7 @@ racing /'reɪsɪŋ/
  > 外面正下着倾盆大雨。    
 
 
-# ***<font color=#0099ff>\*rainbow</font>*** n
+# ***\*rainbow*** n
 英音 'reɪnbəʊ     美音 'reɪnboʊ  
 
 | 词频 2 |  
@@ -321,7 +321,7 @@ racing /'reɪsɪŋ/
 ### 1.*高义频：* **彩虹**  
 
 
-# ***<font color=#0099ff>\*raincoat</font>*** n
+# ***\*raincoat*** n
 英音 'reɪnkəʊt     美音 'reɪnkoʊt  
 
 | 词频 1 |  
@@ -333,7 +333,7 @@ racing /'reɪsɪŋ/
 ### 1.*高义频：* **雨衣**  
 
 
-# ***<font color=#0099ff>\*rainfall</font>*** n
+# ***\*rainfall*** n
 英音 'reɪnfɔːl     美音 'reɪnfɔːl  
 
 | 词频 3 |  
@@ -345,7 +345,7 @@ racing /'reɪsɪŋ/
 ### 1.*高义频：* **(降) 雨量**  
 
 
-# ***<font color=#0099ff>\*rainforest</font>*** n
+# ***\*rainforest*** n
 英音 'reɪnfɒrɪst     美音 'reɪnfɔːrɪst  
 
 | 词频 4 |  
@@ -357,7 +357,7 @@ racing /'reɪsɪŋ/
 ### 1.*高义频：* **热带雨林**  
 
 
-# ***<font color=#0099ff>\*rainy</font>*** adj
+# ***\*rainy*** adj
 英音 'reɪni     美音 'reɪni  
 
 | 词频 3 |  
@@ -367,7 +367,7 @@ racing /'reɪsɪŋ/
 ### 1.*高义频：* **下雨的；多雨的**  
 
 
-# ***<font color=#0099ff>\*raise</font>*** vt  重难点词汇
+# ***\*raise*** vt  重难点词汇
 英音 reɪz     美音 reɪz  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -438,7 +438,7 @@ racing /'reɪsɪŋ/
 答案：
 1. Raised  
 
-# ***<font color=#0099ff>\*raised</font>*** adj
+# ***\*raised*** adj
 英音 reɪzd     美音 reɪzd  
 
 | 词频 4 |  
@@ -448,7 +448,7 @@ racing /'reɪsɪŋ/
 ### 1.**凸起的**  
 
 
-# ***<font color=#0099ff>\*random</font>*** adj
+# ***\*random*** adj
 英音 'rændəm     美音 'rændəm  
 
 | 词频 2 |  
@@ -462,7 +462,7 @@ racing /'reɪsɪŋ/
  > 随机选择    
 
 
-# ***<font color=#0099ff>\*random</font>*** n
+# ***\*random*** n
 英音 'rændəm     美音 'rændəm  
 
 | 词频 2 |  
@@ -471,14 +471,14 @@ racing /'reɪsɪŋ/
 
 固定搭配
 ---
-## <font color=#0099ff>\*at random </font>
+## \*at random 
 1.**任意地；随机地：**  
 
  > *Choose any number at random. *  
  > 随机抽取一个数字。    
 
 
-# ***<font color=#0099ff>\*range</font>*** n  重难点词汇
+# ***\*range*** n  重难点词汇
 英音 reɪndʒ     美音 reɪndʒ  
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -525,10 +525,10 @@ racing /'reɪsɪŋ/
 
 固定搭配
 ---
-## <font color=#0099ff>\*in / within range (of) </font>
+## \*in / within range (of) 
 1.**在 (…的) 范围内**  
 
-## <font color=#0099ff>\*out of range (of) </font>
+## \*out of range (of) 
 1.**超出(…的) 范围：**  
 
 
@@ -539,7 +539,7 @@ racing /'reɪsɪŋ/
 答案：
 1. range  
 
-# ***<font color=#0099ff>\*range</font>*** v  重难点词汇
+# ***\*range*** v  重难点词汇
 英音 reɪndʒ     美音 reɪndʒ  
 
 | 词频 4 | 书面 1 | 阅读 3 |  
@@ -571,7 +571,7 @@ racing /'reɪsɪŋ/
 答案：
 1. ranging  
 
-# ***<font color=#0099ff>\*rank</font>*** n
+# ***\*rank*** n
 英音 ræŋk     美音 ræŋk  
 
 | 词频 2 | 书面 1 | 阅读 2 |  
@@ -598,7 +598,7 @@ racing /'reɪsɪŋ/
  > 那年夏天，我被解雇了，加入了失业者的行列。    
 
 
-# ***<font color=#0099ff>\*rank</font>*** v
+# ***\*rank*** v
 英音 ræŋk     美音 ræŋk  
 
 | 词频 2 | 阅读 2 |  
@@ -619,7 +619,7 @@ racing /'reɪsɪŋ/
  > 很好。我在班里名列前茅。    
 
 
-# ***<font color=#0099ff>\*ranking</font>*** n
+# ***\*ranking*** n
 英音 'ræŋkIŋ     美音 'ræŋkIŋ  
 
   
@@ -629,7 +629,7 @@ racing /'reɪsɪŋ/
 ### 1.**排行,排名**  
 
 
-# ***<font color=#0099ff>\*rap</font>*** n
+# ***\*rap*** n
 英音 ræp     美音 ræp  
 
 | 词频 2 |  
@@ -641,7 +641,7 @@ racing /'reɪsɪŋ/
 ### 1.*高义频：* **说唱乐**  
 
 
-# ***<font color=#0099ff>\*rap</font>*** v
+# ***\*rap*** v
 英音 ræp     美音 ræp  
 
 | 词频 2 |  
@@ -651,7 +651,7 @@ racing /'reɪsɪŋ/
 ### 1.**敲击；（说唱歌中的）念白**  
 
 
-# ***<font color=#0099ff>\*rape</font>*** n
+# ***\*rape*** n
 英音 reɪp     美音 reɪp  
 
 | 词频 1 |  
@@ -661,7 +661,7 @@ racing /'reɪsɪŋ/
 ### 1.**强奸**  
 
 
-# ***<font color=#0099ff>\*rapid</font>*** adj
+# ***\*rapid*** adj
 英音 'ræpɪd     美音 'ræpɪd  
 
 | 词频 3 | 书面 1 |  
@@ -681,7 +681,7 @@ racing /'reɪsɪŋ/
 四者都可用作形容词，表示“快的”、“迅速的”等意。  
 
 
-# ***<font color=#0099ff>\*rapidly</font>*** adv
+# ***\*rapidly*** adv
 英音 'ræpɪdli     美音 'ræpɪdli  
 
 | 词频 4 | 书面 1 |  
@@ -694,7 +694,7 @@ racing /'reɪsɪŋ/
  > 近几年，共享经济发展迅猛。    
 
 
-# ***<font color=#0099ff>\*rapids</font>*** n
+# ***\*rapids*** n
 英音 'ræpɪdz     美音 'ræpɪdz  
 
 | 词频 1 |  
@@ -704,7 +704,7 @@ racing /'reɪsɪŋ/
 ### 1.*高义频：* **(pl)急流；湍流**  
 
 
-# ***<font color=#0099ff>\*rapper</font>*** n
+# ***\*rapper*** n
 英音 'ræpə(r)     美音 'ræpər  
 
 | 词频 1 |  
@@ -714,7 +714,7 @@ racing /'reɪsɪŋ/
 ### 1.**说唱乐歌手**  
 
 
-# ***<font color=#0099ff>\*rare</font>*** adj
+# ***\*rare*** adj
 英音 reə(r)     美音 rer  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -730,7 +730,7 @@ racing /'reɪsɪŋ/
 ### 2.*低义频：* **(肉) 半熟的；半生的**  
 
 
-# ***<font color=#0099ff>\*rarely</font>*** adv
+# ***\*rarely*** adv
 英音 'reəli     美音 'rerli  
 
 | 词频 3 | 书面 2 | 阅读 3 |  
@@ -756,7 +756,7 @@ Notes: rarely和seldom都表示“很少”、“不经常”，但seldom更正�
 答案：
 1. Rarely  
 
-# ***<font color=#0099ff>\*rascal</font>*** n
+# ***\*rascal*** n
 英音 'rɑːskl     美音 'ræskl  
 
 | 词频 1 |  
@@ -766,7 +766,7 @@ Notes: rarely和seldom都表示“很少”、“不经常”，但seldom更正�
 ### 1.**恶棍；无赖**  
 
 
-# ***<font color=#0099ff>\*rat</font>*** n
+# ***\*rat*** n
 英音 ræt     美音 ræt  
 
 | 词频 1 |  
@@ -778,7 +778,7 @@ Notes: rarely和seldom都表示“很少”、“不经常”，但seldom更正�
 ### 1.*高义频：* **老鼠**  
 
 
-# ***<font color=#0099ff>\*rate</font>*** n
+# ***\*rate*** n
 英音 reɪt     美音 reɪt  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -812,19 +812,19 @@ Notes: rarely和seldom都表示“很少”、“不经常”，但seldom更正�
 
 固定搭配
 ---
-## <font color=#0099ff>\*at any rate </font>
+## \*at any rate 
 1.**无论如何 (anyway)：**  
 
  > *At any rate, the medical supplies will reach you within a week. *  
  > 无论如何，医疗物资将于一周内运到你处。    
 
-## <font color=#0099ff>\*at this / that rate </font>
+## \*at this / that rate 
 1.**这样 / 那样的话：**  
 
  > *If you go on at that rate, you will damage your health. *  
  > 如果继续那样的话，你会把身体搞垮的。    
 
-## <font color=#0099ff>\*first-rate / second-rate / third-rate</font>
+## \*first-rate / second-rate / third-rate
 1.**一流的 / 二流的 / 三流的**  
 
 
@@ -835,7 +835,7 @@ Notes: rarely和seldom都表示“很少”、“不经常”，但seldom更正�
 答案：
 1. speed / rate  
 
-# ***<font color=#0099ff>\*rate</font>*** vt
+# ***\*rate*** vt
 英音 reɪt     美音 reɪt  
 
 | 词频 4 |  
@@ -860,7 +860,7 @@ Notes: rarely和seldom都表示“很少”、“不经常”，但seldom更正�
  > 当学生按照学科的重要性对其划分等级时，文科不可避免地被列在最后。  （2009 北京改）  
 
 
-# ***<font color=#0099ff>\*rather</font>*** adv  重难点词汇
+# ***\*rather*** adv  重难点词汇
 英音 'rɑːðə(r)     美音 'ræðər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -889,13 +889,13 @@ Notes: rarely和seldom都表示“很少”、“不经常”，但seldom更正�
 
 固定搭配
 ---
-## <font color=#0099ff>\*(or) rather </font>
+## \*(or) rather 
 1.**更确切地说：**  
 
  > *He worked till late last night, or rather, early this morning. *  
  > 他昨晚一直工作到深夜，更确切地说，是到今天凌晨。    
 
-## <font color=#0099ff>\*rather than </font>
+## \*rather than 
 1.**而不：**  
 
  > *It is better to express your anger, rather than bottle it up. *  
@@ -904,7 +904,7 @@ Notes: rarely和seldom都表示“很少”、“不经常”，但seldom更正�
  > *When classical, rather than pop, music was playing, diners spent more.*  
  > 当播放古典音乐而不是流行音乐时，用餐者们消费了更多。  （2018 江苏）  
 
-## <font color=#0099ff>\*would rather ... (than) </font>
+## \*would rather ... (than) 
 1.**宁愿 / 宁可… (而不)：**  
 
  > *— Will you join us in the game?*  
@@ -935,7 +935,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 答案：
 1. rather than  2. Rather  
 
-# ***<font color=#0099ff>\*rating</font>*** n
+# ***\*rating*** n
 英音 'reɪtɪŋ     美音 'reɪtɪŋ  
 
 | 词频 2 |  
@@ -952,7 +952,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
  > 前10名最好的餐馆排名  （2018 江苏书面表达）  
 
 
-# ***<font color=#0099ff>\*ratio</font>*** n
+# ***\*ratio*** n
 英音 'reɪʃiəʊ     美音 'reɪʃioʊ  
 
 | 词频 1 |  
@@ -964,7 +964,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 ### 1.*高义频：* **比；比例；比率**  
 
 
-# ***<font color=#0099ff>\*rational</font>*** adj
+# ***\*rational*** adj
 英音 'ræʃnəl     美音 'ræʃnəl  
 
 | 词频 1 |  
@@ -974,7 +974,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 ### 1.**理智的；合理的**  
 
 
-# ***<font color=#0099ff>\*rattle</font>*** v
+# ***\*rattle*** v
 英音 'rætl     美音 'rætl  
 
 | 词频 1 |  
@@ -984,7 +984,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 ### 1.**（使）发出咔嗒咔嗒的声音；使紧张或恐惧**  
 
 
-# ***<font color=#0099ff>\*raw</font>*** adj
+# ***\*raw*** adj
 英音 rɔː     美音 rɔː  
 
 | 词频 2 | 书面 1 |  
@@ -1002,7 +1002,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
  > 原材料    
 
 
-# ***<font color=#0099ff>\*ray</font>*** n
+# ***\*ray*** n
 英音 reɪ     美音 reɪ  
 
 | 词频 2 |  
@@ -1017,7 +1017,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
  > 太阳光线    
 
 
-# ***<font color=#0099ff>\*razor</font>*** n
+# ***\*razor*** n
 英音 'reɪzə(r)     美音 'reɪzər  
 
 | 词频 1 |  
@@ -1029,7 +1029,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 ### 1.*高义频：* **剃刀；剃须刀**  
 
 
-# ***<font color=#0099ff>\*re-</font>*** prefix
+# ***\*re-*** prefix
 英音 riː     美音 riː  
 
 | 词频 5 |  
@@ -1039,7 +1039,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 ### 1.*高义频：* **再；重新**  
 
 
-# ***<font color=#0099ff>\*reach</font>*** v  重难点词汇
+# ***\*reach*** v  重难点词汇
 英音 riːtʃ     美音 riːtʃ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1119,7 +1119,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 
 固定搭配
 ---
-## <font color=#0099ff>\*reach out to sb </font>
+## \*reach out to sb 
 1.**向某人提供 / 寻求帮助：**  
 
  > *When you need help, reach out to the people who care about you.*  
@@ -1133,7 +1133,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 答案：
 1. has been reached  
 
-# ***<font color=#0099ff>\*reach</font>*** n  重难点词汇
+# ***\*reach*** n  重难点词汇
 英音 riːtʃ     美音 riːtʃ  
 
 | 词频 5 |  
@@ -1169,7 +1169,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 答案：
 1. within  2. out of / beyond  
 
-# ***<font color=#0099ff>\*react</font>*** vi
+# ***\*react*** vi
 英音 ri'ækt     美音 ri'ækt  
 
 | 词频 4 | 口语 1 | 书面 1 | 阅读 3 |  
@@ -1195,7 +1195,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
  > 它向我们展示了铁是如何与空气和水起反应的。  （外研① – 5）  
 
 
-# ***<font color=#0099ff>\*reaction</font>*** n
+# ***\*reaction*** n
 英音 ri'ækʃn     美音 ri'ækʃn  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -1218,7 +1218,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
  > 公众对这条新闻的反应    
 
 
-# ***<font color=#0099ff>\*read</font>*** v
+# ***\*read*** v
 英音 riːd     美音 riːd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1262,7 +1262,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 
 固定搭配
 ---
-## <font color=#0099ff>\*read out </font>
+## \*read out 
 1.**大声读出；宣读**  
 
 
@@ -1277,7 +1277,7 @@ reader  /'riːdə(r)/ n [C]
 答案：
 1. have read  
 
-# ***<font color=#0099ff>\*read</font>*** n
+# ***\*read*** n
 英音 riːd     美音 riːd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1291,7 +1291,7 @@ reader  /'riːdə(r)/ n [C]
 ---
 reader /'riːdə(r)/ n [C]  
 
-# ***<font color=#0099ff>\*reading</font>*** n
+# ***\*reading*** n
 英音 'riːdɪŋ     美音 'riːdɪŋ  
 
 | 词频 5 | 书面 2 |  
@@ -1310,7 +1310,7 @@ reader /'riːdə(r)/ n [C]
  > 我借了一些假期里看的轻松读物。    
 
 
-# ***<font color=#0099ff>\*ready</font>*** adj
+# ***\*ready*** adj
 英音 'redi     美音 'redi  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -1352,7 +1352,7 @@ reader /'riːdə(r)/ n [C]
 ---
 readily  /'redɪli/ adv   
 
-# ***<font color=#0099ff>\*real</font>*** adj
+# ***\*real*** adj
 英音 rɪəl,'riːəl     美音 'riːəl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1375,7 +1375,7 @@ readily  /'redɪli/ adv
 二者都常译为“真的”。  
 
 
-# ***<font color=#0099ff>\*real-life</font>*** adj
+# ***\*real-life*** adj
 英音 ˌriːəl'laɪf     美音 ˌriːəl'laɪf  
 
 | 词频 2 |  
@@ -1385,7 +1385,7 @@ readily  /'redɪli/ adv
 ### 1.**真实的，现实生活中的**  
 
 
-# ***<font color=#0099ff>\*realise</font>*** vt  重难点词汇
+# ***\*realise*** vt  重难点词汇
 英音 'riːəlaɪz;'riəlaɪz     美音 'riːəlaɪz  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1430,7 +1430,7 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 答案：
 1. realized  
 
-# ***<font color=#0099ff>\*realist</font>*** n
+# ***\*realist*** n
 英音 'riːəlɪst     美音 'riːəlɪst  
 
 | 词频 1 |  
@@ -1440,7 +1440,7 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 ### 1.**现实主义作家**  
 
 
-# ***<font color=#0099ff>\*realistic</font>*** adj
+# ***\*realistic*** adj
 英音 ˌriːə'lɪstɪk,ˌriə'lɪstɪk     美音 ˌriːə'lɪstɪk  
 
 | 词频 2 | 口语 1 | 阅读 1 |  
@@ -1458,7 +1458,7 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
  > 现实主义小说    
 
 
-# ***<font color=#0099ff>\*reality</font>*** n
+# ***\*reality*** n
 英音 ri'æləti     美音 ri'æləti  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -1487,14 +1487,14 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*in reality </font>
+## \*in reality 
 1.**实际上；事实上：**  
 
  > *Outwardly she seemed confident but in reality she felt extremely nervous. *  
  > 表面上她似乎很自信，其实她感到极其紧张。    
 
 
-# ***<font color=#0099ff>\*realize</font>*** vt  重难点词汇
+# ***\*realize*** vt  重难点词汇
 英音 'riːəlaɪz,'riəlaɪz     美音 'riːəlaɪz  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1539,7 +1539,7 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 答案：
 1. realized  
 
-# ***<font color=#0099ff>\*really</font>*** adv
+# ***\*really*** adv
 英音 'riːəli,'riəli     美音 'riːəli  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1567,7 +1567,7 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*Not really. </font>
+## \*Not really. 
 1.**[表示否定，语气较弱] 不是。**  
 
 
@@ -1581,7 +1581,7 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 答案：
 1. Really  2. Not really  
 
-# ***<font color=#0099ff>\*realm</font>*** n
+# ***\*realm*** n
 英音 relm     美音 relm  
 
 | 词频 1 |  
@@ -1591,7 +1591,7 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 ### 1.**王国；国度；领域；范围**  
 
 
-# ***<font color=#0099ff>\*reason</font>*** n
+# ***\*reason*** n
 英音 'riːzn     美音 'riːzn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1623,32 +1623,32 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*by reason of </font>
+## \*by reason of 
 1.**由于：**  
 
  > *He won the first prize by reason of hard work.*  
  > 由于刻苦用功，他获得了一等奖。    
 
-## <font color=#0099ff>\*for some reason </font>
+## \*for some reason 
 1.**不知什么原因：**  
 
  > *For some reason they cancelled the plan.*  
  > 不知为什么他们取消了计划。    
 
-## <font color=#0099ff>\*in (all) reason </font>
+## \*in (all) reason 
 1.**明智；合情合理：**  
 
  > *I would do anything in reason. *  
  > 只要是合情合理的事，我都愿意做。    
 
-## <font color=#0099ff>\*with / without reason </font>
+## \*with / without reason 
 1.**有 / 没有道理：**  
 
  > *He argued with much reason. *  
  > 他辩论得头头是道。    
 
 
-# ***<font color=#0099ff>\*reason</font>*** v
+# ***\*reason*** v
 英音 'riːzn     美音 'riːzn  
 
 | 词频 5 |  
@@ -1668,7 +1668,7 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
  > 我们推断如果一大早出发的话，中午之前就能到达那里。    
 
 
-# ***<font color=#0099ff>\*reasonable</font>*** adj
+# ***\*reasonable*** adj
 英音 'riːznəbl     美音 'riːznəbl  
 
 | 词频 4 | 口语 3 | 书面 2 | 阅读 3 |  
@@ -1707,7 +1707,7 @@ reasonably /'riːznəbli/ adv
 答案：
 1. reasonable  
 
-# ***<font color=#0099ff>\*reasonably</font>*** adv
+# ***\*reasonably*** adv
 英音 'riːznəbli     美音 'riːznəbli  
 
   
@@ -1717,7 +1717,7 @@ reasonably /'riːznəbli/ adv
 ### 1.**适度地；相当地；合理地；有理性地**  
 
 
-# ***<font color=#0099ff>\*rebel</font>*** n
+# ***\*rebel*** n
 英音 rɪ'bel     美音 'rebl  
 
 | 词频 1 |  
@@ -1727,7 +1727,7 @@ reasonably /'riːznəbli/ adv
 ### 1.**造反者, 反叛者**  
 
 
-# ***<font color=#0099ff>\*rebirth</font>*** n
+# ***\*rebirth*** n
 英音 ˌriː'bɜːθ     美音 ˌriː'bɜːrθ  
 
 | 词频 1 |  
@@ -1739,7 +1739,7 @@ reasonably /'riːznəbli/ adv
 ### 1.*高义频：* **再生；复活；复兴**  
 
 
-# ***<font color=#0099ff>\*rebuild</font>*** vt
+# ***\*rebuild*** vt
 英音 ˌriː'bɪld     美音 ˌriː'bɪld  
 
 | 词频 2 |  
@@ -1754,7 +1754,7 @@ reasonably /'riːznəbli/ adv
  > 街道整洁一新，重建了许多房屋  （2016 北京改）  
 
 
-# ***<font color=#0099ff>\*recall</font>*** vt
+# ***\*recall*** vt
 英音 rɪ'kɔːl     美音 rɪ'kɔːl  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -1779,7 +1779,7 @@ reasonably /'riːznəbli/ adv
 答案：
 1. recall  
 
-# ***<font color=#0099ff>\*receipt</font>*** n
+# ***\*receipt*** n
 英音 rɪ'siːt     美音 rɪ'siːt  
 
 | 词频 1 | 口语 2 | 阅读 1 |  
@@ -1798,7 +1798,7 @@ reasonably /'riːznəbli/ adv
  > 开收据    
 
 
-# ***<font color=#0099ff>\*receive</font>*** vt  重难点词汇
+# ***\*receive*** vt  重难点词汇
 英音 rɪ'siːv     美音 rɪ'siːv  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1844,7 +1844,7 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
 答案：
 1. receive  
 
-# ***<font color=#0099ff>\*receiver</font>*** n
+# ***\*receiver*** n
 英音 rɪ'siːvə(r)     美音 rɪ'siːvər  
 
 | 词频 2 |  
@@ -1859,7 +1859,7 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
  > 无线电接收器    
 
 
-# ***<font color=#0099ff>\*recent</font>*** adj
+# ***\*recent*** adj
 英音 'riːsnt     美音 'riːsnt  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -1873,7 +1873,7 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
  > 近年来，学习汉语在世界各地的人当中流行起来。    
 
 
-# ***<font color=#0099ff>\*recently</font>*** adv
+# ***\*recently*** adv
 英音 'riːsntli     美音 'riːsntli  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -1894,7 +1894,7 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
 答案：
 1. recently  
 
-# ***<font color=#0099ff>\*reception</font>*** n
+# ***\*reception*** n
 英音 rɪ'sepʃn     美音 rɪ'sepʃn  
 
 | 词频 2 | 书面 1 |  
@@ -1929,7 +1929,7 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
  > 我手机的信号很差。    
 
 
-# ***<font color=#0099ff>\*receptionist</font>*** n
+# ***\*receptionist*** n
 英音 rɪ'sepʃənɪst     美音 rɪ'sepʃənɪst  
 
 | 词频 1 |  
@@ -1941,7 +1941,7 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
 ### 1.*高义频：* **接待员**  
 
 
-# ***<font color=#0099ff>\*recipe</font>*** n
+# ***\*recipe*** n
 英音 'resəpi     美音 'resəpi  
 
 | 词频 1 | 口语 1 |  
@@ -1960,7 +1960,7 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
  > 当然是充分度过每一天。  （2016 江苏）  
 
 
-# ***<font color=#0099ff>\*recite</font>*** v
+# ***\*recite*** v
 英音 rɪ'saɪt     美音 rɪ'saɪt  
 
 | 词频 2 |  
@@ -1977,7 +1977,7 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
 ---
 recitation /ˌresɪ'teɪʃn/ n   
 
-# ***<font color=#0099ff>\*reckon</font>*** vt
+# ***\*reckon*** vt
 英音 'rekən     美音 'rekən  
 
 | 词频 1 | 口语 3 | 书面 1 |  
@@ -1989,7 +1989,7 @@ recitation /ˌresɪ'teɪʃn/ n
 ### 1.*高义频：* **认为；估计**  
 
 
-# ***<font color=#0099ff>\*recognisable</font>*** adj
+# ***\*recognisable*** adj
 英音 'rekəgnaɪzəbl     美音 'rekəgnaɪzəbl  
 
 | 词频 1 |  
@@ -1999,7 +1999,7 @@ recitation /ˌresɪ'teɪʃn/ n
 ### 1.**能辨认的；能认出的**  
 
 
-# ***<font color=#0099ff>\*recognise</font>*** vt
+# ***\*recognise*** vt
 英音 'rekəɡnaɪz     美音 'rekəɡnaɪz  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2042,7 +2042,7 @@ recitation /ˌresɪ'teɪʃn/ n
 答案：
 1. recognise / recognize  2. recognizing  
 
-# ***<font color=#0099ff>\*recognition</font>*** n
+# ***\*recognition*** n
 英音 ˌrekəɡ'nɪʃn     美音 ˌrekəɡ'nɪʃn  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -2072,7 +2072,7 @@ recitation /ˌresɪ'teɪʃn/ n
 答案：
 1. recognition  
 
-# ***<font color=#0099ff>\*recognize</font>*** vt
+# ***\*recognize*** vt
 英音 'rekəɡnaɪz     美音 'rekəɡnaɪz  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2112,7 +2112,7 @@ recitation /ˌresɪ'teɪʃn/ n
 答案：
 1. recognise / recognize  
 
-# ***<font color=#0099ff>\*recommend</font>*** vt  重难点词汇
+# ***\*recommend*** vt  重难点词汇
 英音 ˌrekə'mend     美音 ˌrekə'mend  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2166,7 +2166,7 @@ recitation /ˌresɪ'teɪʃn/ n
 答案：
 1. (should) be  2. recommended  
 
-# ***<font color=#0099ff>\*recommendation</font>*** n
+# ***\*recommendation*** n
 英音 ˌrekəmen'deɪʃn     美音 ˌrekəmen'deɪʃn  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -2184,7 +2184,7 @@ recitation /ˌresɪ'teɪʃn/ n
  > 听从某人的劝告    
 
 
-# ***<font color=#0099ff>\*reconstruct</font>*** v
+# ***\*reconstruct*** v
 英音 ˌriːkən'strʌkt     美音 ˌriːkən'strʌkt  
 
   
@@ -2194,7 +2194,7 @@ recitation /ˌresɪ'teɪʃn/ n
 ### 1.**重建,再建**  
 
 
-# ***<font color=#0099ff>\*record</font>*** vt
+# ***\*record*** vt
 英音 rɪ'kɔːd     美音 rɪ'kɔːd  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -2210,7 +2210,7 @@ recitation /ˌresɪ'teɪʃn/ n
  > 音乐家在录音棚录制歌曲。  （外研⑦ – 4）  
 
 
-# ***<font color=#0099ff>\*record</font>*** n
+# ***\*record*** n
 英音 'rekɔːd     美音 'rekərd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2246,14 +2246,14 @@ recitation /ˌresɪ'teɪʃn/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*break / beat / cut the / a record </font>
+## \*break / beat / cut the / a record 
 1.**打破纪录：**  
 
  > *She’s hoping to break the record for the 100 metres.*  
  > 她希望能打破百米纪录。    
 
 
-# ***<font color=#0099ff>\*recorder</font>*** n
+# ***\*recorder*** n
 英音 rɪ'kɔːdə(r)     美音 rɪ'kɔːrdər  
 
 | 词频 2 |  
@@ -2265,7 +2265,7 @@ recitation /ˌresɪ'teɪʃn/ n
 ### 1.*高义频：* **录音机**  
 
 
-# ***<font color=#0099ff>\*recording</font>*** 
+# ***\*recording*** 
 英音 rɪ'kɔːdɪŋ     美音 rɪ'kɔːrdɪŋ  
 
 | 词频 3 |  
@@ -2275,7 +2275,7 @@ recitation /ˌresɪ'teɪʃn/ n
 ### 1.**n [U] 记录；录制；[C] 录制品**  
 
 
-# ***<font color=#0099ff>\*recover</font>*** v  重难点词汇
+# ***\*recover*** v  重难点词汇
 英音 rɪ'kʌvə(r)     美音 rɪ'kʌvər  
 
 | 词频 4 | 书面 2 | 阅读 3 |  
@@ -2315,7 +2315,7 @@ recitation /ˌresɪ'teɪʃn/ n
  > 我们努力工作以弥补失去的时间。    
 
 
-# ***<font color=#0099ff>\*recovery</font>*** n
+# ***\*recovery*** n
 英音 rɪ'kʌvəri     美音 rɪ'kʌvəri  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -2335,7 +2335,7 @@ recitation /ˌresɪ'teɪʃn/ n
  > 经济复苏    
 
 
-# ***<font color=#0099ff>\*recreation</font>*** n
+# ***\*recreation*** n
 英音 ˌrekri'eɪʃn     美音 ˌrekri'eɪʃn  
 
 | 词频 1 |  
@@ -2348,7 +2348,7 @@ recitation /ˌresɪ'teɪʃn/ n
  > 我们每周打一次篮球作为娱乐。    
 
 
-# ***<font color=#0099ff>\*rectangle</font>*** n
+# ***\*rectangle*** n
 英音 'rektæŋɡl     美音 'rektæŋɡl  
 
 | 词频 1 |  
@@ -2360,7 +2360,7 @@ recitation /ˌresɪ'teɪʃn/ n
 ### 1.*高义频：* **矩形；长方形**  
 
 
-# ***<font color=#0099ff>\*rectangular</font>*** adj
+# ***\*rectangular*** adj
 英音 rek'tæŋɡjələ(r)     美音 rek'tæŋɡjələ(r)  
 
 | 词频 1 |  
@@ -2370,7 +2370,7 @@ recitation /ˌresɪ'teɪʃn/ n
 ### 1.*高义频：* **长方形的；矩形的**  
 
 
-# ***<font color=#0099ff>\*recycle</font>*** v
+# ***\*recycle*** v
 英音 ˌriː'saɪkl     美音 ˌriː'saɪkl  
 
 | 词频 4 |  
@@ -2391,7 +2391,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
  > 回收利用系统    
 
 
-# ***<font color=#0099ff>\*red</font>*** adj
+# ***\*red*** adj
 英音 red     美音 red  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -2410,7 +2410,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
  > 红军    
 
 
-# ***<font color=#0099ff>\*red</font>*** n
+# ***\*red*** n
 英音 red     美音 red  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -2425,7 +2425,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
  > 穿着红衣服的小女孩    
 
 
-# ***<font color=#0099ff>\*rediscover</font>*** vt
+# ***\*rediscover*** vt
 英音 ˌriːdɪ'skʌvə(r)     美音 ˌriːdɪ'skʌvər  
 
 | 词频 2 |  
@@ -2435,7 +2435,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 ### 1.**重新发现**  
 
 
-# ***<font color=#0099ff>\*reduce</font>*** v
+# ***\*reduce*** v
 英音 rɪ'duːs     美音 rɪ'duːs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2457,7 +2457,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
  > 我的房子坍塌在那里，已沦为废墟，又臭又脏。    
 
 
-# ***<font color=#0099ff>\*reduction</font>*** n
+# ***\*reduction*** n
 英音 rɪ'dʌkʃn     美音 rɪ'dʌkʃn  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -2469,7 +2469,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 ### 1.*高义频：* **缩减；减少**  
 
 
-# ***<font color=#0099ff>\*reef</font>*** n
+# ***\*reef*** n
 英音 riːf     美音 riːf  
 
   
@@ -2479,14 +2479,14 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 ### 1.**礁**  
 
 
-# ***<font color=#0099ff>\*refer</font>*** v  重难点词汇
+# ***\*refer*** v  重难点词汇
 英音 rɪ'fɜː(r)     美音 rɪ'fɜːr  
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
 固定搭配
 ---
-## <font color=#0099ff>\*refer (...) to</font>
+## \*refer (...) to
 1.*高义频：* **谈到；提到**  
 英译 to mention or speak about sb / sth：
 
@@ -2526,7 +2526,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 答案：
 1. to  
 
-# ***<font color=#0099ff>\*referee</font>*** n
+# ***\*referee*** n
 英音 ˌrefə'riː     美音 ˌrefə'riː  
 
 | 词频 1 |  
@@ -2538,7 +2538,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 ### 1.*高义频：* **裁判员；仲裁人**  
 
 
-# ***<font color=#0099ff>\*reference</font>*** n
+# ***\*reference*** n
 英音 'refrəns     美音 'refrəns  
 
 | 词频 2 | 口语 1 | 书面 3 | 阅读 3 |  
@@ -2565,7 +2565,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*in / with reference to</font>
+## \*in / with reference to
 1.**关于；根据…而论：**  
 
  > *In reference to your question about cost, the tickets for the film are 35 yuan each.*  
@@ -2579,7 +2579,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 答案：
 1. reference  
 
-# ***<font color=#0099ff>\*reflect</font>*** v
+# ***\*reflect*** v
 英音 rɪ'flekt     美音 rɪ'flekt  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -2620,7 +2620,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 答案：
 1. reflecting  
 
-# ***<font color=#0099ff>\*reflection</font>*** n
+# ***\*reflection*** n
 英音 rɪ'flekʃn     美音 rɪ'flekʃn  
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 2 |  
@@ -2647,7 +2647,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 ### 4.*低义频：* **[C] & [U] 反复思考；仔细考虑**  
 
 
-# ***<font color=#0099ff>\*reform</font>*** v
+# ***\*reform*** v
 英音 rɪ'fɔːrm     美音 rɪ'fɔːrm  
 
 | 词频 2 |  
@@ -2663,7 +2663,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
  > 这名罪犯许诺要改过自新。    
 
 
-# ***<font color=#0099ff>\*reform</font>*** n
+# ***\*reform*** n
 英音 rɪ'fɔːrm     美音 rɪ'fɔːrm  
 
 | 词频 2 | 书面 2 |  
@@ -2679,7 +2679,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
  > 社会 / 政治变革 / 医疗改革    
 
 
-# ***<font color=#0099ff>\*refresh</font>*** vt
+# ***\*refresh*** vt
 英音 rɪ'freʃ     美音 rɪ'freʃ  
 
 | 词频 2 |  
@@ -2692,7 +2692,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
  > 我喝了杯咖啡提提神。    
 
 
-# ***<font color=#0099ff>\*refreshing</font>*** adj
+# ***\*refreshing*** adj
 英音 rɪ'freʃɪŋ     美音 rɪ'freʃɪŋ  
 
 | 词频 1 |  
@@ -2702,7 +2702,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 ### 1.**令人耳目一新的**  
 
 
-# ***<font color=#0099ff>\*refrigerator</font>*** n
+# ***\*refrigerator*** n
 英音 rɪ'frɪdʒəreɪtə(r)     美音 rɪ'frɪdʒəreɪtər  
 
 | 词频 2 |  
@@ -2714,7 +2714,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 ### 1.*高义频：* **冰箱；冷藏库**  
 
 
-# ***<font color=#0099ff>\*refund</font>*** vt
+# ***\*refund*** vt
 英音 ri'fʌnd     美音 ri'fʌnd  
 
 | 词频 1 |  
@@ -2727,7 +2727,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
  > 如果您不满意我们会退款给您。    
 
 
-# ***<font color=#0099ff>\*refund</font>*** n
+# ***\*refund*** n
 英音 'riːfʌnd     美音 'riːfʌnd  
 
 | 词频 1 |  
@@ -2739,7 +2739,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 ### 1.*高义频：* **退款：**  
 
 
-# ***<font color=#0099ff>\*refuse</font>*** v
+# ***\*refuse*** v
 英音 rɪ'fjuːz     美音 rɪ'fjuːz  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -2771,7 +2771,7 @@ refusal /rɪ'fjuːzl/ n
 答案：
 1. refused  
 
-# ***<font color=#0099ff>\*regard</font>*** vt  重难点词汇
+# ***\*regard*** vt  重难点词汇
 英音 rɪ'ɡɑːd     美音 rɪ'ɡɑːrd  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -2795,7 +2795,7 @@ refusal /rɪ'fjuːzl/ n
  > 她退后站着，冷冷地看着他。    
 
 
-# ***<font color=#0099ff>\*regard</font>*** n  重难点词汇
+# ***\*regard*** n  重难点词汇
 英音 rɪ'ɡɑːd     美音 rɪ'ɡɑːrd  
 
 | 词频 4 | 口语 1 |  
@@ -2823,7 +2823,7 @@ refusal /rɪ'fjuːzl/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*with / in regard to sth</font>
+## \*with / in regard to sth
 1.**[正式用语] 关于某事：**  
 
  > *With / In regard to his suggestions, we shall discuss them fully. *  
@@ -2844,7 +2844,7 @@ regarding /rɪ'ɡɑːdɪŋ/ prep  [正式用语] (尤用于信函中)
 答案：
 1. to  
 
-# ***<font color=#0099ff>\*regarding</font>*** prep
+# ***\*regarding*** prep
 英音 rɪ'ɡɑːdɪŋ     美音 rɪ'ɡɑːrdɪŋ  
 
 | 词频 2 |  
@@ -2854,7 +2854,7 @@ regarding /rɪ'ɡɑːdɪŋ/ prep  [正式用语] (尤用于信函中)
 ### 1.**关于**  
 
 
-# ***<font color=#0099ff>\*regardless</font>*** adv
+# ***\*regardless*** adv
 英音 rɪ'ɡɑːdləs     美音 rɪ'ɡɑːrdləs  
 
 | 词频 3 |  
@@ -2866,7 +2866,7 @@ regarding /rɪ'ɡɑːdɪŋ/ prep  [正式用语] (尤用于信函中)
 
 固定搭配
 ---
-## <font color=#0099ff>\*regardless of </font>
+## \*regardless of 
 1.**不管；不顾：**  
 
  > *Nobody has the right to spit in the street regardless of their social position or age. *  
@@ -2880,7 +2880,7 @@ regarding /rɪ'ɡɑːdɪŋ/ prep  [正式用语] (尤用于信函中)
 答案：
 1. regardless of  
 
-# ***<font color=#0099ff>\*reggae</font>*** n
+# ***\*reggae*** n
 英音 'reɡeɪ     美音 'reɡeɪ  
 
 | 词频 1 |  
@@ -2890,7 +2890,7 @@ regarding /rɪ'ɡɑːdɪŋ/ prep  [正式用语] (尤用于信函中)
 ### 1.**雷盖（西印度群岛的一种节奏强劲的流行音乐）**  
 
 
-# ***<font color=#0099ff>\*region</font>*** n
+# ***\*region*** n
 英音 'riːdʒən     美音 'riːdʒən  
 
 | 词频 3 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -2914,7 +2914,7 @@ regarding /rɪ'ɡɑːdɪŋ/ prep  [正式用语] (尤用于信函中)
 ---
 regional /'riːdʒənl/ adj [常用于名词前]   
 
-# ***<font color=#0099ff>\*register</font>*** n
+# ***\*register*** n
 英音 'redʒɪstə(r)     美音 'redʒɪstər  
 
 | 词频 4 | 阅读 3 |  
@@ -2933,7 +2933,7 @@ regional /'riːdʒənl/ adj [常用于名词前]
  > 点名    
 
 
-# ***<font color=#0099ff>\*register</font>*** v
+# ***\*register*** v
 英音 'redʒɪstə(r)     美音 'redʒɪstər  
 
 | 词频 4 | 口语 1 | 书面 1 | 阅读 3 |  
@@ -2964,7 +2964,7 @@ registration /ˌredʒɪ'streɪʃn/ n
 答案：
 1. with  
 
-# ***<font color=#0099ff>\*registration</font>*** n
+# ***\*registration*** n
 英音 ˌredʒɪ'streɪʃn     美音 ˌredʒɪ'streɪʃn  
 
 | 词频 3 |  
@@ -2974,7 +2974,7 @@ registration /ˌredʒɪ'streɪʃn/ n
 ### 1.**登记；注册；挂号**  
 
 
-# ***<font color=#0099ff>\*regret</font>*** vt  重难点词汇
+# ***\*regret*** vt  重难点词汇
 英音 rɪ'ɡret     美音 rɪ'ɡret  
 
 | 词频 4 | 书面 1 |  
@@ -3027,7 +3027,7 @@ registration /ˌredʒɪ'streɪʃn/ n
 答案：
 1. regretting  
 
-# ***<font color=#0099ff>\*regret</font>*** n  重难点词汇
+# ***\*regret*** n  重难点词汇
 英音 rɪ'ɡret     美音 rɪ'ɡret  
 
 | 词频 4 |  
@@ -3051,7 +3051,7 @@ registration /ˌredʒɪ'streɪʃn/ n
  > 接受你的辞呈，我感到非常遗憾。    
 
 
-# ***<font color=#0099ff>\*regular</font>*** adj
+# ***\*regular*** adj
 英音 'reɡjələ(r)     美音 'reɡjələr  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -3109,7 +3109,7 @@ registration /ˌredʒɪ'streɪʃn/ n
 答案：
 1. regular  
 
-# ***<font color=#0099ff>\*regularly</font>*** adv
+# ***\*regularly*** adv
 英音 'reɡjələrli     美音 'reɡjələrli  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -3132,7 +3132,7 @@ registration /ˌredʒɪ'streɪʃn/ n
 答案：
 1. regularly  
 
-# ***<font color=#0099ff>\*regulate</font>*** vt
+# ***\*regulate*** vt
 英音 'reɡjuleɪt     美音 'reɡjuleɪt  
 
 | 词频 2 | 阅读 1 |  
@@ -3150,7 +3150,7 @@ registration /ˌredʒɪ'streɪʃn/ n
  > 校准手表    
 
 
-# ***<font color=#0099ff>\*regulation</font>*** n
+# ***\*regulation*** n
 英音 ˌreɡju'leɪʃn     美音 ˌreɡju'leɪʃn  
 
 | 词频 2 | 口语 2 | 书面 2 | 阅读 2 |  
@@ -3169,7 +3169,7 @@ registration /ˌredʒɪ'streɪʃn/ n
  > 事务管理    
 
 
-# ***<font color=#0099ff>\*reheat</font>*** v
+# ***\*reheat*** v
 英音 ˌriː'hiːt     美音 ˌriː'hiːt  
 
 | 词频 1 |  
@@ -3179,7 +3179,7 @@ registration /ˌredʒɪ'streɪʃn/ n
 ### 1.**重新加热**  
 
 
-# ***<font color=#0099ff>\*reinforce</font>*** vt
+# ***\*reinforce*** vt
 英音 ˌriːɪn'fɔːs     美音 ˌriːɪn'fɔːrs  
 
 | 词频 1 | 书面 1 |  
@@ -3189,7 +3189,7 @@ registration /ˌredʒɪ'streɪʃn/ n
 ### 1.*高义频：* **加强；强化**  
 
 
-# ***<font color=#0099ff>\*reiterate</font>*** v
+# ***\*reiterate*** v
 英音 ri'ɪtəreɪt     美音 ri'ɪtəreɪt  
 
 | 词频 1 |  
@@ -3199,7 +3199,7 @@ registration /ˌredʒɪ'streɪʃn/ n
 ### 1.**反复地说，重述**  
 
 
-# ***<font color=#0099ff>\*reject</font>*** vt
+# ***\*reject*** vt
 英音 'riːdʒekt     美音 'riːdʒekt  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 1 |  
@@ -3219,7 +3219,7 @@ registration /ˌredʒɪ'streɪʃn/ n
 ---
 rejection /rɪ'dʒekʃn/ n   
 
-# ***<font color=#0099ff>\*relate</font>*** v
+# ***\*relate*** v
 英音 rɪ'leɪt     美音 rɪ'leɪt  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -3250,7 +3250,7 @@ rejection /rɪ'dʒekʃn/ n
  > 我热爱技术，并试图跟上技术的发展，因此我可以理解学生的想法。  （2011 北京）  
 
 
-# ***<font color=#0099ff>\*related</font>*** adj
+# ***\*related*** adj
 英音 rɪ'leɪtɪd     美音 rɪ'leɪtɪd  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -3265,14 +3265,14 @@ rejection /rɪ'dʒekʃn/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*(be) related to </font>
+## \*(be) related to 
 1.**与…有关：**  
 
  > *The “new four great inventions” are all related to China’s high-tech innovation.*  
  > “新四大发明”都与中国高科技创新有关。    
 
 
-# ***<font color=#0099ff>\*relation</font>*** n
+# ***\*relation*** n
 英音 rɪ'leɪʃn     美音 rɪ'leɪʃn  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -3300,7 +3300,7 @@ rejection /rɪ'dʒekʃn/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*in relation to </font>
+## \*in relation to 
 1.**[正式用语] 关于；与…相比：**  
 
  > *I have a lot to say in relation to this affair. *  
@@ -3310,7 +3310,7 @@ rejection /rɪ'dʒekʃn/ n
  > 女性的收入相对于男性而言还是偏低。    
 
 
-# ***<font color=#0099ff>\*relationship</font>*** n
+# ***\*relationship*** n
 英音 rɪ'leɪʃnʃɪp     美音 rɪ'leɪʃnʃɪp  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3334,7 +3334,7 @@ rejection /rɪ'dʒekʃn/ n
  > 与…有直接关系    
 
 
-# ***<font color=#0099ff>\*relative</font>*** n
+# ***\*relative*** n
 英音 'relətɪv     美音 'relətɪv  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -3347,7 +3347,7 @@ rejection /rɪ'dʒekʃn/ n
  > 亲友    
 
 
-# ***<font color=#0099ff>\*relative</font>*** adj
+# ***\*relative*** adj
 英音 'relətɪv     美音 'relətɪv  
 
 | 词频 4 | 书面 2 |  
@@ -3373,7 +3373,7 @@ relatively /'relətɪvli/ adv
  > 西班牙语是一门相对较容易学的语言。    
 
 
-# ***<font color=#0099ff>\*relativity</font>*** n
+# ***\*relativity*** n
 英音 ˌrelə'tɪvəti     美音 ˌrelə'tɪvəti  
 
 | 词频 1 |  
@@ -3383,7 +3383,7 @@ relatively /'relətɪvli/ adv
 ### 1.**相对论**  
 
 
-# ***<font color=#0099ff>\*relax</font>*** v
+# ***\*relax*** v
 英音 rɪ'læks     美音 rɪ'læks  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -3405,7 +3405,7 @@ relaxation /ˌriːlæk'seɪʃn/ n [U]
 relaxed /rɪ'lækst/ adj   
 relaxing /rɪ'læksɪŋ/ adj   
 
-# ***<font color=#0099ff>\*relaxation</font>*** n
+# ***\*relaxation*** n
 英音 ˌriːlæk'seɪʃn     美音 ˌriːlæk'seɪʃn  
 
 | 词频 3 |  
@@ -3417,7 +3417,7 @@ relaxing /rɪ'læksɪŋ/ adj
 ### 1.*高义频：* **放松；松弛**  
 
 
-# ***<font color=#0099ff>\*relaxed</font>*** adj
+# ***\*relaxed*** adj
 英音 rɪ'lækst     美音 rɪ'lækst  
 
 | 词频 1 |  
@@ -3427,7 +3427,7 @@ relaxing /rɪ'læksɪŋ/ adj
 ### 1.**轻松的；松懈的；宽松的**  
 
 
-# ***<font color=#0099ff>\*relaxing</font>*** adj
+# ***\*relaxing*** adj
 英音 rɪ'læksɪŋ     美音 rɪ'læksɪŋ  
 
 | 词频 3 |  
@@ -3437,7 +3437,7 @@ relaxing /rɪ'læksɪŋ/ adj
 ### 1.**使人放松的**  
 
 
-# ***<font color=#0099ff>\*relay</font>*** n
+# ***\*relay*** n
 英音 'riːleɪ     美音 'riːleɪ  
 
 | 词频 2 |  
@@ -3457,7 +3457,7 @@ relaxing /rɪ'læksɪŋ/ adj
  > 接力赛    
 
 
-# ***<font color=#0099ff>\*relay</font>*** vt
+# ***\*relay*** vt
 英音 'riːleɪ, rɪ'leɪ     美音 'riːleɪ,rɪ'leɪ  
 
 | 词频 2 |  
@@ -3470,7 +3470,7 @@ relaxing /rɪ'læksɪŋ/ adj
  > 在古代，中国人通过沿着长城点燃烽火传递信息。  （北师大⑧ – 24）  
 
 
-# ***<font color=#0099ff>\*release</font>*** vt  重难点词汇
+# ***\*release*** vt  重难点词汇
 英音 rɪ'liːs     美音 rɪ'liːs  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -3498,7 +3498,7 @@ relaxing /rɪ'læksɪŋ/ adj
  > 发行影片/发布新版本    
 
 
-# ***<font color=#0099ff>\*release</font>*** n  重难点词汇
+# ***\*release*** n  重难点词汇
 英音 rɪ'liːs     美音 rɪ'liːs  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -3525,7 +3525,7 @@ relaxing /rɪ'læksɪŋ/ adj
  > 最新发行的产品    
 
 
-# ***<font color=#0099ff>\*relevant</font>*** adj
+# ***\*relevant*** adj
 英音 'reləvənt     美音 'reləvənt  
 
 | 词频 2 | 口语 2 | 书面 2 | 阅读 1 |  
@@ -3550,7 +3550,7 @@ relaxing /rɪ'læksɪŋ/ adj
 答案：
 1. to  
 
-# ***<font color=#0099ff>\*reliability</font>*** n
+# ***\*reliability*** n
 英音 rɪˌlaɪə'bɪləti     美音 rɪˌlaɪə'bɪləti  
 
 | 词频 1 |  
@@ -3560,7 +3560,7 @@ relaxing /rɪ'læksɪŋ/ adj
 ### 1.**可靠性**  
 
 
-# ***<font color=#0099ff>\*reliable</font>*** adj
+# ***\*reliable*** adj
 英音 rɪ'laɪəbl     美音 rɪ'laɪəbl  
 
 | 词频 3 | 阅读 3 |  
@@ -3583,7 +3583,7 @@ relaxing /rɪ'læksɪŋ/ adj
 答案：
 1. reliable  
 
-# ***<font color=#0099ff>\*relic</font>*** n
+# ***\*relic*** n
 英音 'relɪk     美音 'relɪk  
 
 | 词频 1 |  
@@ -3598,7 +3598,7 @@ relaxing /rɪ'læksɪŋ/ adj
  > 文化遗产    
 
 
-# ***<font color=#0099ff>\*relief</font>*** n
+# ***\*relief*** n
 英音 rɪ'liːf     美音 rɪ'liːf  
 
 | 词频 2 | 口语 2 | 书面 2 | 阅读 2 |  
@@ -3628,7 +3628,7 @@ relaxing /rɪ'læksɪŋ/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*in / with relief</font>
+## \*in / with relief
 1.**如释重负；松了口气：**  
 
  > *Hearing that he had passed the exam, he sighed in / with relief.*  
@@ -3643,7 +3643,7 @@ relaxing /rɪ'læksɪŋ/ adj
 答案：
 1. relief 前加 a  
 
-# ***<font color=#0099ff>\*relieve</font>*** vt
+# ***\*relieve*** vt
 英音 rɪ'liːv     美音 rɪ'liːv  
 
 | 词频 2 | 口语 1 |  
@@ -3660,7 +3660,7 @@ relaxing /rɪ'læksɪŋ/ adj
 ---
 relieved /rɪ'liːvd/ adj   
 
-# ***<font color=#0099ff>\*religion</font>*** n
+# ***\*religion*** n
 英音 rɪ'lɪdʒən     美音 rɪ'lɪdʒən  
 
 | 词频 2 | 口语 2 | 书面 2 |  
@@ -3672,7 +3672,7 @@ relieved /rɪ'liːvd/ adj
 ### 1.*高义频：* **宗教；宗教信仰**  
 
 
-# ***<font color=#0099ff>\*religious</font>*** adj
+# ***\*religious*** adj
 英音 rɪ'lɪdʒəs     美音 rɪ'lɪdʒəs  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -3687,7 +3687,7 @@ relieved /rɪ'liːvd/ adj
 ### 2.*低义频：* **笃信宗教的；虔诚的**  
 
 
-# ***<font color=#0099ff>\*reluctant</font>*** adj
+# ***\*reluctant*** adj
 英音 rɪ'lʌktənt     美音 rɪ'lʌktənt  
 
 | 词频 1 |  
@@ -3697,14 +3697,14 @@ relieved /rɪ'liːvd/ adj
 ### 1.*高义频：* **勉强的；不情愿的**  
 
 
-# ***<font color=#0099ff>\*rely</font>*** vi
+# ***\*rely*** vi
 英音 rɪ'laɪ     美音 rɪ'laɪ  
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
 固定搭配
 ---
-## <font color=#0099ff>\*rely on / upon</font>
+## \*rely on / upon
 1.*高义频：* **依靠**  
 英译 to depend on sb / sth：
 
@@ -3726,7 +3726,7 @@ relieved /rɪ'liːvd/ adj
  > 我信任大卫，他一定会为我保密。    
 
 
-# ***<font color=#0099ff>\*remain</font>*** vi  重难点词汇
+# ***\*remain*** vi  重难点词汇
 英音 rɪ'meɪn     美音 rɪ'meɪn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3795,7 +3795,7 @@ remaining /rɪ'meɪnɪŋ/ adj
 答案：
 1. remained  2. to be seen  
 
-# ***<font color=#0099ff>\*remains</font>*** n
+# ***\*remains*** n
 英音 rɪ'meɪnz     美音 rɪ'meɪnz  
 
 | 词频 3 | 书面 1 |  
@@ -3815,7 +3815,7 @@ remaining /rɪ'meɪnɪŋ/ adj
  > 古代定居点的人类遗骸将被重新安葬。  （2011 上海）  
 
 
-# ***<font color=#0099ff>\*remark</font>*** n
+# ***\*remark*** n
 英音 rɪ'mɑːrk     美音 rɪ'mɑːrk  
 
 | 词频 3 | 书面 1 |  
@@ -3834,7 +3834,7 @@ remaining /rɪ'meɪnɪŋ/ adj
  > 发表评论    
 
 
-# ***<font color=#0099ff>\*remark</font>*** v
+# ***\*remark*** v
 英音 rɪ'mɑːrk     美音 rɪ'mɑːrk  
 
 | 词频 3 |  
@@ -3852,7 +3852,7 @@ remaining /rɪ'meɪnɪŋ/ adj
  > 对他人的相貌品头论足是不礼貌的。    
 
 
-# ***<font color=#0099ff>\*remarkable</font>*** adj
+# ***\*remarkable*** adj
 英音 rɪ'mɑːkəbl     美音 rɪ'mɑːrkəbl  
 
 | 词频 2 | 书面 1 |  
@@ -3866,7 +3866,7 @@ remaining /rɪ'meɪnɪŋ/ adj
 ---
 remarkably /rɪ'mɑːkəbli/ adv [句子副词]   
 
-# ***<font color=#0099ff>\*remember</font>*** v  重难点词汇
+# ***\*remember*** v  重难点词汇
 英音 rɪ'membə(r)     美音 rɪ'membər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3915,7 +3915,7 @@ remarkably /rɪ'mɑːkəbli/ adv [句子副词]
 
 固定搭配
 ---
-## <font color=#0099ff>\*be remembered as / for </font>
+## \*be remembered as / for 
 1.**因…而著名：**  
 
  > *Madame Curie will always be remembered as the discoverer of the element radium. *  
@@ -3932,7 +3932,7 @@ remarkably /rɪ'mɑːkəbli/ adv [句子副词]
 答案：
 1. visiting  
 
-# ***<font color=#0099ff>\*remind</font>*** vt  重难点词汇
+# ***\*remind*** vt  重难点词汇
 英音 rɪ'maɪnd     美音 rɪ'maɪnd  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -3994,7 +3994,7 @@ reminder /rɪ'maɪndə(r)/ n
 答案：
 1. of  2. reminded  
 
-# ***<font color=#0099ff>\*remote</font>*** adj
+# ***\*remote*** adj
 英音 rɪ'məʊt     美音 rɪ'moʊt  
 
 | 词频 3 | 书面 1 | 阅读 3 |  
@@ -4007,7 +4007,7 @@ reminder /rɪ'maɪndə(r)/ n
  > 偏僻的村庄 / 偏远地区    
 
 
-# ***<font color=#0099ff>\*remove</font>*** vt
+# ***\*remove*** vt
 英音 rɪ'muːv     美音 rɪ'muːv  
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -4057,7 +4057,7 @@ removal /rɪ'muːvl/ n [C] & [U]
 答案：
 1. are removed  
 
-# ***<font color=#0099ff>\*renaissance</font>*** n
+# ***\*renaissance*** n
 英音 rɪ'neɪsns     美音 'renəsɑːns  
 
 | 词频 1 |  
@@ -4069,7 +4069,7 @@ removal /rɪ'muːvl/ n [C] & [U]
 ### 1.*高义频：* **复兴**  
 
 
-# ***<font color=#0099ff>\*renew</font>*** vt
+# ***\*renew*** vt
 英音 rɪ'njuː     美音 rɪ'nuː  
 
 | 词频 2 |  
@@ -4101,7 +4101,7 @@ renewable /rɪ'njuːəbl/ adj
  > 可再生能源/资源    
 
 
-# ***<font color=#0099ff>\*renewable</font>*** adj
+# ***\*renewable*** adj
 英音 rɪ'njuːəbl     美音 rɪ'nuːəbl  
 
 | 词频 2 |  
@@ -4111,7 +4111,7 @@ renewable /rɪ'njuːəbl/ adj
 ### 1.*高义频：* **能再生的；可更新的**  
 
 
-# ***<font color=#0099ff>\*rent</font>*** v
+# ***\*rent*** v
 英音 rent     美音 rent  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -4132,7 +4132,7 @@ renewable /rɪ'njuːəbl/ adj
  > 这套公寓以每月2000美元出租。    
 
 
-# ***<font color=#0099ff>\*rent</font>*** n
+# ***\*rent*** n
 英音 rent     美音 rent  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -4152,7 +4152,7 @@ renewable /rɪ'njuːəbl/ adj
 ---
 rented /'rentɪd/ adj   
 
-# ***<font color=#0099ff>\*repair</font>*** vt
+# ***\*repair*** vt
 英音 rɪ'peə(r)     美音 rɪ'per  
 
 | 词频 5 | 口语 1 |  
@@ -4165,7 +4165,7 @@ rented /'rentɪd/ adj
  > 修理坏掉的手表    
 
 
-# ***<font color=#0099ff>\*repair</font>*** n
+# ***\*repair*** n
 英音 rɪ'peə(r)     美音 rɪ'per  
 
 | 词频 5 |  
@@ -4182,10 +4182,10 @@ rented /'rentɪd/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*beyond repair </font>
+## \*beyond repair 
 1.**无法修复**  
 
-## <font color=#0099ff>\*under repair </font>
+## \*under repair 
 1.**在修理中：**  
 
  > *The castle built in 1432 is under repair. *  
@@ -4199,7 +4199,7 @@ rented /'rentɪd/ adj
 答案：
 1. is being repaired  
 
-# ***<font color=#0099ff>\*repay</font>*** vt
+# ***\*repay*** vt
 英音 rɪ'peɪ     美音 rɪ'peɪ  
 
 | 词频 1 | 阅读 1 |  
@@ -4217,7 +4217,7 @@ rented /'rentɪd/ adj
  > 你现在所做的艰苦工作将在以后的生活中获得回报。  （2012 湖南）  
 
 
-# ***<font color=#0099ff>\*repeat</font>*** v
+# ***\*repeat*** v
 英音 rɪ'piːt     美音 rɪ'piːt  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -4248,7 +4248,7 @@ repetition /ˌrepə'tɪʃn/ n
 答案：
 1. repeat  
 
-# ***<font color=#0099ff>\*repeat</font>*** n
+# ***\*repeat*** n
 英音 rɪ'piːt     美音 rɪ'piːt  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -4260,7 +4260,7 @@ repetition /ˌrepə'tɪʃn/ n
 ### 1.*高义频：* **重复 (事物)；重播**  
 
 
-# ***<font color=#0099ff>\*repertoire</font>*** n
+# ***\*repertoire*** n
 英音 'repətwɑː(r)     美音 'repərtwɑːr  
 
 | 词频 1 |  
@@ -4270,7 +4270,7 @@ repetition /ˌrepə'tɪʃn/ n
 ### 1.**演奏曲目，演出节目**  
 
 
-# ***<font color=#0099ff>\*repetition</font>*** n
+# ***\*repetition*** n
 英音 ˌrepə'tɪʃn     美音 ˌrepə'tɪʃn  
 
 | 词频 1 |  
@@ -4282,7 +4282,7 @@ repetition /ˌrepə'tɪʃn/ n
 ### 1.*高义频：* **重复**  
 
 
-# ***<font color=#0099ff>\*replace</font>*** vt
+# ***\*replace*** vt
 英音 rɪ'pleɪs     美音 rɪ'pleɪs  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -4305,7 +4305,7 @@ repetition /ˌrepə'tɪʃn/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*replace ... with / by </font>
+## \*replace ... with / by 
 1.**用…替换：**  
 
  > *They replaced their beloved old cars with expensive new sports cars. *  
@@ -4316,7 +4316,7 @@ repetition /ˌrepə'tɪʃn/ n
 ---
 replacement /rɪ'pleɪsmənt/ n   
 
-# ***<font color=#0099ff>\*reply</font>*** v
+# ***\*reply*** v
 英音 rɪ'plaɪ     美音 rɪ'plaɪ  
 
 | 词频 4 | 书面 2 |  
@@ -4334,7 +4334,7 @@ replacement /rɪ'pleɪsmənt/ n
  > 他回答说对此一无所知。    
 
 
-# ***<font color=#0099ff>\*reply</font>*** n
+# ***\*reply*** n
 英音 rɪ'plaɪ     美音 rɪ'plaɪ  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -4355,7 +4355,7 @@ replacement /rɪ'pleɪsmənt/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*in reply to </font>
+## \*in reply to 
 1.**[正式用语] 为答复：**  
 
  > **in reply to**  
@@ -4363,7 +4363,7 @@ replacement /rɪ'pleɪsmənt/ n
  > 我写这封信是为了回复你6月1日的来信。    
 
 
-# ***<font color=#0099ff>\*report</font>*** v  重难点词汇
+# ***\*report*** v  重难点词汇
 英音 rɪ'pɔːt     美音 rɪ'pɔːrt  
 
 | 词频 5 | 口语 2 |  
@@ -4405,7 +4405,7 @@ replacement /rɪ'pleɪsmənt/ n
  > 所有来访者到达后务必在接待处报到。    
 
 
-# ***<font color=#0099ff>\*report</font>*** n  重难点词汇
+# ***\*report*** n  重难点词汇
 英音 rɪ'pɔːt     美音 rɪ'pɔːrt  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -4428,7 +4428,7 @@ replacement /rɪ'pleɪsmənt/ n
  > 新闻报道 / 天气预报 / 读书报告 / 研究报告    
 
 
-# ***<font color=#0099ff>\*reportedly</font>*** adv
+# ***\*reportedly*** adv
 英音 [rɪ'pɔːtɪdli     美音 rɪ'pɔːrtɪdli  
 
   
@@ -4438,7 +4438,7 @@ replacement /rɪ'pleɪsmənt/ n
 ### 1.**据报道；据说**  
 
 
-# ***<font color=#0099ff>\*reporter</font>*** n
+# ***\*reporter*** n
 英音 rɪ'pɔːtə(r)     美音 rɪ'pɔːrtər  
 
 | 词频 4 | 口语 1 |  
@@ -4450,7 +4450,7 @@ replacement /rɪ'pleɪsmənt/ n
 ### 1.*高义频：* **记者；报告人**  
 
 
-# ***<font color=#0099ff>\*represent</font>*** v  重难点词汇
+# ***\*represent*** v  重难点词汇
 英音 ˌreprɪ'zent     美音 ˌreprɪ'zent  
 
 | 词频 3 | 口语 2 | 书面 3 |  
@@ -4488,7 +4488,7 @@ replacement /rɪ'pleɪsmənt/ n
  > 对我来说，加薪10%相当于全年收入增加3600美元。    
 
 
-# ***<font color=#0099ff>\*representative</font>*** n
+# ***\*representative*** n
 英音 ˌreprɪ'zentətɪv     美音 ˌreprɪ'zentətɪv  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -4511,7 +4511,7 @@ replacement /rɪ'pleɪsmənt/ n
  > House of Representatives    
 
 
-# ***<font color=#0099ff>\*representative</font>*** adj
+# ***\*representative*** adj
 英音 ˌreprɪ'zentətɪv     美音 ˌreprɪ'zentətɪv  
 
 | 词频 2 | 阅读 2 |  
@@ -4525,7 +4525,7 @@ replacement /rɪ'pleɪsmənt/ n
  > 代表人民    
 
 
-# ***<font color=#0099ff>\*reproduce</font>*** v
+# ***\*reproduce*** v
 英音 ˌriːprə'djuːs     美音 ˌriːprə'duːs  
 
 | 词频 2 |  
@@ -4540,7 +4540,7 @@ replacement /rɪ'pleɪsmənt/ n
 ### 2.*高义频：* **生殖；繁殖**  
 
 
-# ***<font color=#0099ff>\*reptile</font>*** n
+# ***\*reptile*** n
 英音 'reptaɪl     美音 'reptaɪl  
 
 | 词频 1 |  
@@ -4552,7 +4552,7 @@ replacement /rɪ'pleɪsmənt/ n
 ### 1.*高义频：* **爬行动物**  
 
 
-# ***<font color=#0099ff>\*republic</font>*** n
+# ***\*republic*** n
 英音 rɪ'pʌblɪk     美音 rɪ'pʌblɪk  
 
 | 词频 2 |  
@@ -4574,7 +4574,7 @@ replacement /rɪ'pleɪsmənt/ n
 答案：
 1. republic  
 
-# ***<font color=#0099ff>\*reputation</font>*** n
+# ***\*reputation*** n
 英音 ˌrepju'teɪʃn     美音 ˌrepju'teɪʃn  
 
 | 词频 3 | 书面 1 |  
@@ -4601,7 +4601,7 @@ replacement /rɪ'pleɪsmənt/ n
 答案：
 1. reputation  
 
-# ***<font color=#0099ff>\*request</font>*** n  重难点词汇
+# ***\*request*** n  重难点词汇
 英音 rɪ'kwest     美音 rɪ'kwest  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -4627,7 +4627,7 @@ replacement /rɪ'pleɪsmənt/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*at sb’s request / at the request of sb </font>
+## \*at sb’s request / at the request of sb 
 1.**应某人的要求：**  
 
  > *The students were there at the teacher’s request. *  
@@ -4645,7 +4645,7 @@ D.promises
 答案：
 1. B  
 
-# ***<font color=#0099ff>\*request</font>*** vt  重难点词汇
+# ***\*request*** vt  重难点词汇
 英音 rɪ'kwest     美音 rɪ'kwest  
 
 | 词频 4 |  
@@ -4676,7 +4676,7 @@ D.promises
 答案：
 1. requesting   
 
-# ***<font color=#0099ff>\*require</font>*** vt  重难点词汇
+# ***\*require*** vt  重难点词汇
 英音 rɪ'kwaɪə(r)     美音 rɪ'kwaɪər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4716,7 +4716,7 @@ D.promises
 答案：
 1. required➜requires  
 
-# ***<font color=#0099ff>\*requirement</font>*** n
+# ***\*requirement*** n
 英音 rɪ'kwaɪəmənt     美音 rɪ'kwaɪərmənt  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -4735,7 +4735,7 @@ D.promises
  > 满足要求    
 
 
-# ***<font color=#0099ff>\*rescue</font>*** vt
+# ***\*rescue*** vt
 英音 'reskjuː     美音 'reskjuː  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -4749,7 +4749,7 @@ D.promises
  > 她从着火的楼里被救了出来。    
 
 
-# ***<font color=#0099ff>\*rescue</font>*** n
+# ***\*rescue*** n
 英音 'reskjuː     美音 'reskjuː  
 
 | 词频 4 |  
@@ -4769,7 +4769,7 @@ D.promises
  > 一些救援人员和医生被困在了废墟下面。  （人教① – 4）  
 
 
-# ***<font color=#0099ff>\*research</font>*** n
+# ***\*research*** n
 英音 rɪ'sɜːtʃ, 'riːsɜːtʃ     美音 ri'sɜːrtʃ, 'rɪːsɜːrtʃ  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -4785,7 +4785,7 @@ D.promises
  > 从事关于古罗马历史的研究    
 
 
-# ***<font color=#0099ff>\*research</font>*** v
+# ***\*research*** v
 英音 rɪ'sɜːtʃ     美音 ri'sɜːrtʃ  
 
 | 词频 5 |  
@@ -4804,7 +4804,7 @@ D.promises
  > 研究改进人们饮食的方法    
 
 
-# ***<font color=#0099ff>\*researcher</font>*** n
+# ***\*researcher*** n
 英音 rɪ'sɜːtʃə(r)     美音 rɪ'sətʃər  
 
 | 词频 5 |  
@@ -4816,7 +4816,7 @@ D.promises
 ### 1.*高义频：* **研究人员**  
 
 
-# ***<font color=#0099ff>\*resemble</font>*** vt
+# ***\*resemble*** vt
 英音 rɪ'zembl     美音 rɪ'zembl  
 
 | 词频 2 | 阅读 1 |  
@@ -4830,7 +4830,7 @@ D.promises
  > 通常，作家的生活和他们所创作的人物的生活非常相似。  （ 外研⑤ – 3）  
 
 
-# ***<font color=#0099ff>\*reservation</font>*** n
+# ***\*reservation*** n
 英音 ˌrezə'veɪʃn     美音 ˌrezər'veɪʃn  
 
 | 词频 2 | 口语 1 |  
@@ -4850,7 +4850,7 @@ D.promises
  > 我来给餐馆打电话预定。    
 
 
-# ***<font color=#0099ff>\*reserve</font>*** vt
+# ***\*reserve*** vt
 英音 rɪ'zɜːv     美音 rɪ'zɜːrv  
 
 | 词频 4 | 书面 1 |  
@@ -4884,7 +4884,7 @@ D.promises
 答案：
 1. reserve  
 
-# ***<font color=#0099ff>\*reserve</font>*** n
+# ***\*reserve*** n
 英音 rɪ'zɜːv     美音 rɪ'zɜːrv  
 
 | 词频 4 | 口语 1 |  
@@ -4904,7 +4904,7 @@ D.promises
  > 这个沿海地区去年被命名为国家野生动物保护区。  （2010 湖南）  
 
 
-# ***<font color=#0099ff>\*reservoir</font>*** n
+# ***\*reservoir*** n
 英音 'rezəvwɑː(r)     美音 'rezərvwɑːr  
 
 | 词频 1 |  
@@ -4914,7 +4914,7 @@ D.promises
 ### 1.**水库**  
 
 
-# ***<font color=#0099ff>\*resident</font>*** n
+# ***\*resident*** n
 英音 'rezɪdənt     美音 'rezɪdənt  
 
 | 词频 4 | 口语 1 | 书面 1 | 阅读 3 |  
@@ -4933,7 +4933,7 @@ D.promises
 ---
 residential /ˌrezɪ'denʃl/ adj   
 
-# ***<font color=#0099ff>\*resident</font>*** adj
+# ***\*resident*** adj
 英音 'rezɪdənt     美音 'rezɪdənt  
 
 | 词频 4 | 口语 1 | 书面 1 | 阅读 3 |  
@@ -4943,7 +4943,7 @@ residential /ˌrezɪ'denʃl/ adj
 ### 1.**（在某地）居住的**  
 
 
-# ***<font color=#0099ff>\*resign</font>*** v
+# ***\*resign*** v
 英音 rɪ'zaɪn     美音 rɪ'zaɪn  
 
 | 词频 1 | 书面 1 |  
@@ -4963,7 +4963,7 @@ residential /ˌrezɪ'denʃl/ adj
  > 汤姆已经退出了高尔夫球俱乐部。    
 
 
-# ***<font color=#0099ff>\*resist</font>*** v
+# ***\*resist*** v
 英音 rɪ'zɪst     美音 rɪ'zɪst  
 
 | 词频 2 | 书面 1 |  
@@ -5003,7 +5003,7 @@ residential /ˌrezɪ'denʃl/ adj
 ---
 resistance /rɪ'zɪstəns/ n   
 
-# ***<font color=#0099ff>\*resistance</font>*** n
+# ***\*resistance*** n
 英音 rɪ'zɪstəns     美音 rɪ'zɪstəns  
 
 | 词频 2 |  
@@ -5013,7 +5013,7 @@ resistance /rɪ'zɪstəns/ n
 ### 1.**反抗；抵制**  
 
 
-# ***<font color=#0099ff>\*resolution</font>*** n
+# ***\*resolution*** n
 英音 ˌrezə'luːʃn     美音 ˌrezə'luːʃn  
 
 | 词频 3 |  
@@ -5023,7 +5023,7 @@ resistance /rɪ'zɪstəns/ n
 ### 1.**决心要做的事**  
 
 
-# ***<font color=#0099ff>\*resolve</font>*** v
+# ***\*resolve*** v
 英音 rɪ'zɒlv     美音 rɪ'zɑːlv  
 
 | 词频 2 | 书面 1 |  
@@ -5052,7 +5052,7 @@ resolution /ˌrezə'luːʃn/ n [C] & [U]
  > 冲突解决    
 
 
-# ***<font color=#0099ff>\*resort</font>*** n
+# ***\*resort*** n
 英音 rɪ'zɔːt     美音 rɪ'zɔːrt  
 
 | 词频 2 | 书面 1 |  
@@ -5064,7 +5064,7 @@ resolution /ˌrezə'luːʃn/ n [C] & [U]
 ### 1.*高义频：* **度假胜地**  
 
 
-# ***<font color=#0099ff>\*resource</font>*** n
+# ***\*resource*** n
 英音 rɪ'sɔːs; rɪ'zɔːs     美音 'riːsɔːs  
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -5084,7 +5084,7 @@ resolution /ˌrezə'luːʃn/ n [C] & [U]
  > 她没有钱。    
 
 
-# ***<font color=#0099ff>\*respect</font>*** vt
+# ***\*respect*** vt
 英音 rɪ'spekt     美音 rɪ'spekt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5110,7 +5110,7 @@ respectful /rɪ'spektfl/ adj
 respective /rɪ'spektɪv/ adj   
 respectively /rɪ'spektɪvli/ adv   
 
-# ***<font color=#0099ff>\*respect</font>*** n
+# ***\*respect*** n
 英音 rɪ'spekt     美音 rɪ'spekt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5141,14 +5141,14 @@ respectively /rɪ'spektɪvli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*in respect of </font>
+## \*in respect of 
 1.**关于；就…而言**  
 
-## <font color=#0099ff>\*with respect to </font>
+## \*with respect to 
 1.**关于；就…而言**  
 
 
-# ***<font color=#0099ff>\*respectful</font>*** adj
+# ***\*respectful*** adj
 英音 rɪ'spektfl     美音 rɪ'spektfl  
 
 | 词频 2 |  
@@ -5158,7 +5158,7 @@ respectively /rɪ'spektɪvli/ adv
 ### 1.*高义频：* **恭敬的**  
 
 
-# ***<font color=#0099ff>\*respond</font>*** v
+# ***\*respond*** v
 英音 rɪ'spɒnd     美音 rɪ'spɑːnd  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -5184,7 +5184,7 @@ respectively /rɪ'spektɪvli/ adv
  > 懂得基本的急救技能将有助于你对紧急情况做出迅速反应。  （2013 福建）  
 
 
-# ***<font color=#0099ff>\*response</font>*** n
+# ***\*response*** n
 英音 rɪ'spɒns     美音 rɪ'spɑːns  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -5208,14 +5208,14 @@ respectively /rɪ'spektɪvli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*in response (to) </font>
+## \*in response (to) 
 1.**作为 (对…的) 回答 / 反应：**  
 
  > *The government acted in response to economic pressure. *  
  > 政府为应对经济压力采取了行动。    
 
 
-# ***<font color=#0099ff>\*responsibility</font>*** n  重难点词汇
+# ***\*responsibility*** n  重难点词汇
 英音 rɪˌspɒnsə'bɪləti     美音 rɪˌspɑːnsə'bɪləti  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -5239,7 +5239,7 @@ respectively /rɪ'spektɪvli/ adv
  > 媒体有如实报道新闻的道德责任。  （人教⑧ – 2）  
 
 
-# ***<font color=#0099ff>\*responsible</font>*** adj
+# ***\*responsible*** adj
 英音 rɪ'spɒnsəbl     美音 rɪ'spɑːnsəbl  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -5256,7 +5256,7 @@ respectively /rɪ'spektɪvli/ adv
  > 水资源短缺不完全是由人类活动造成的。  （2013 安徽）  
 
 
-# ***<font color=#0099ff>\*rest</font>*** v
+# ***\*rest*** v
 英音 rest     美音 rest  
 
 | 词频 5 | 口语 1 | 书面 1 |  
@@ -5272,7 +5272,7 @@ respectively /rɪ'spektɪvli/ adv
  > 她从没得到过片刻休息。    
 
 
-# ***<font color=#0099ff>\*rest</font>*** n
+# ***\*rest*** n
 英音 rest     美音 rest  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5306,7 +5306,7 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
 答案：
 1. were  
 
-# ***<font color=#0099ff>\*restaurant</font>*** n
+# ***\*restaurant*** n
 英音 'restrɒnt     美音 'restrɑːnt  
 
 | 词频 5 | 书面 2 |  
@@ -5321,7 +5321,7 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
  > 经营餐馆    
 
 
-# ***<font color=#0099ff>\*restore</font>*** vt
+# ***\*restore*** vt
 英音 rɪ'stɔː(r)     美音 rɪ'stɔːr  
 
 | 词频 2 | 书面 1 |  
@@ -5334,7 +5334,7 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
  > 她的工作是修复古画。    
 
 
-# ***<font color=#0099ff>\*restrict</font>*** vt
+# ***\*restrict*** vt
 英音 rɪ'strɪkt     美音 rɪ'strɪkt  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -5347,7 +5347,7 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
  > 限制某人的自由    
 
 
-# ***<font color=#0099ff>\*restriction</font>*** n
+# ***\*restriction*** n
 英音 rɪ'strɪkʃn     美音 rɪ'strɪkʃn  
 
 | 词频 1 | 书面 1 | 阅读 1 |  
@@ -5367,7 +5367,7 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
  > 禁止在学校吸烟    
 
 
-# ***<font color=#0099ff>\*restrictive</font>*** adj
+# ***\*restrictive*** adj
 英音 rɪ'strɪktɪv     美音 rɪ'strɪktɪv  
 
 | 词频 1 |  
@@ -5377,7 +5377,7 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
 ### 1.*高义频：* **限制 (性) 的；约束(性) 的**  
 
 
-# ***<font color=#0099ff>\*result</font>*** n  重难点词汇
+# ***\*result*** n  重难点词汇
 英音 rɪ'zʌlt     美音 rɪ'zʌlt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5405,7 +5405,7 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
 
 固定搭配
 ---
-## <font color=#0099ff>\*as a result (of) </font>
+## \*as a result (of) 
 1.**作为 (…的) 结果：**  
 
  > *Alice overslept this morning. As a result, she was late for work.*  
@@ -5423,7 +5423,7 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
 答案：
 1. of  2. as a result  
 
-# ***<font color=#0099ff>\*result</font>*** vi  重难点词汇
+# ***\*result*** vi  重难点词汇
 英音 rɪ'zʌlt     美音 rɪ'zʌlt  
 
 | 词频 5 |  
@@ -5435,20 +5435,20 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
 
 固定搭配
 ---
-## <font color=#0099ff>\*result from </font>
+## \*result from 
 1.**因…发生；随…产生：**  
 
  > *Pollution and other serious problems have resulted from human progress. *  
  > 人类的发展引起了污染和其他严重的问题。    
 
-## <font color=#0099ff>\*result in </font>
+## \*result in 
 1.**造成；导致 (cause / lead to)：**  
 
  > *I learned that shouting and threats of punishment would result in a disaster.*  
  > 我认识到叫嚣和威胁惩罚会导致祸端。  （2014 湖北）  
 
 
-# ***<font color=#0099ff>\*resume</font>*** vt
+# ***\*resume*** vt
 英音 rɪ'zjuːm     美音 rɪ'zuːm  
 
 | 词频 2 |  
@@ -5466,7 +5466,7 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
  > 休息之后我们重新开始工作。    
 
 
-# ***<font color=#0099ff>\*resume</font>*** n
+# ***\*resume*** n
 英音 'rezjumeɪ     美音 'rezjumeɪ  
 
 | 词频 2 |  
@@ -5481,7 +5481,7 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
  > 你们的记者给了我一份他的简历。  （2010 北京）  
 
 
-# ***<font color=#0099ff>\*retell</font>*** vt
+# ***\*retell*** vt
 英音 ˌriː'tel     美音 ˌriː'tel  
 
 | 词频 2 |  
@@ -5503,7 +5503,7 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
 答案：
 1. retell  
 
-# ***<font color=#0099ff>\*retire</font>*** v
+# ***\*retire*** v
 英音 rɪ'taɪə(r)     美音 rɪ'taɪər  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -5526,7 +5526,7 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
 retired /rɪ'taɪəd/ adj   
 retirement /rɪ'taɪəmənt/ n [C] & [U]  
 
-# ***<font color=#0099ff>\*retired</font>*** adj
+# ***\*retired*** adj
 英音 rɪ'taɪəd     美音 rɪ'taɪərd  
 
   
@@ -5536,7 +5536,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ### 1.**退休的**  
 
 
-# ***<font color=#0099ff>\*retirement</font>*** n
+# ***\*retirement*** n
 英音 rɪ'taɪəmənt     美音 rɪ'taɪəmənt  
 
 | 词频 3 |  
@@ -5546,7 +5546,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ### 1.**退休**  
 
 
-# ***<font color=#0099ff>\*retreat</font>*** v
+# ***\*retreat*** v
 英音 rɪ'triːt     美音 rɪ'triːt  
 
 | 词频 1 |  
@@ -5556,7 +5556,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ### 1.**撤退，后退**  
 
 
-# ***<font color=#0099ff>\*return</font>*** n
+# ***\*return*** n
 英音 rɪ'tɜːn     美音 rɪ'tɜːrn  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -5590,7 +5590,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*in return (for sth) </font>
+## \*in return (for sth) 
 1.**作为 (…的) 交换; 作为 (…的) 回报：**  
 
  > *If we smile at life, life will smile on us in return.  *  
@@ -5607,7 +5607,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 答案：
 1. in  
 
-# ***<font color=#0099ff>\*return</font>*** v
+# ***\*return*** v
 英音 rɪ'tɜːn     美音 rɪ'tɜːrn  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -5642,7 +5642,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*return to</font>
+## \*return to
 1.**(使) 恢复；继续做；重新做：**  
 
  > **return to normal**  
@@ -5650,7 +5650,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
  > 即使经过治疗，他们也可能无法恢复正常。  （北师大⑦-21）  
 
 
-# ***<font color=#0099ff>\*reunite</font>*** vt
+# ***\*reunite*** vt
 英音 ˌriːjuː'naɪt     美音 ˌriːjuː'naɪt  
 
 | 词频 1 |  
@@ -5666,7 +5666,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
  > 孩子们终于和自己的家人重聚了。    
 
 
-# ***<font color=#0099ff>\*reusable</font>*** adj
+# ***\*reusable*** adj
 英音 ˌriː'juːzəbl     美音 ˌriː'juːzəbl  
 
   
@@ -5676,7 +5676,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ### 1.**可再度使用的，可多次使用的**  
 
 
-# ***<font color=#0099ff>\*reuse</font>*** vt
+# ***\*reuse*** vt
 英音 ˌriː'juːz     美音 ˌriː'juːz  
 
 | 词频 2 |  
@@ -5689,7 +5689,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
  > 工厂的废水净化后重新使用，可以节约很多钱。    
 
 
-# ***<font color=#0099ff>\*reveal</font>*** vt
+# ***\*reveal*** vt
 英音 rɪ'viːl     美音 rɪ'viːl  
 
 | 词频 2 | 书面 3 | 阅读 2 |  
@@ -5703,7 +5703,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
  > 他没有向我们透露他的秘密计划。    
 
 
-# ***<font color=#0099ff>\*revenge</font>*** v
+# ***\*revenge*** v
 英音 rɪ'vendʒ     美音 rɪ'vendʒ  
 
 | 词频 1 |  
@@ -5713,7 +5713,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ### 1.**报仇，复仇**  
 
 
-# ***<font color=#0099ff>\*revenge</font>*** n
+# ***\*revenge*** n
 英音 rɪ'vendʒ     美音 rɪ'vendʒ  
 
 | 词频 1 |  
@@ -5723,7 +5723,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ### 1.**复仇；报复**  
 
 
-# ***<font color=#0099ff>\*revenue</font>*** n
+# ***\*revenue*** n
 英音 'revənjuː     美音 'revənuː  
 
 | 词频 1 | 书面 2 |  
@@ -5735,7 +5735,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ### 1.*高义频：* **收入；税收**  
 
 
-# ***<font color=#0099ff>\*reverse</font>*** v
+# ***\*reverse*** v
 英音 rɪ'vɜːs     美音 rɪ'vɜːrs  
 
 | 词频 1 | 书面 1 |  
@@ -5745,7 +5745,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ### 1.*高义频：* **vt 颠倒；改变；vt & vi 倒 (车)**  
 
 
-# ***<font color=#0099ff>\*reverse</font>*** n
+# ***\*reverse*** n
 英音 rɪ'vɜːs     美音 rɪ'vɜːrs  
 
 | 词频 1 |  
@@ -5757,7 +5757,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ### 1.*高义频：* **相反；反面；(机动车的) 倒挡**  
 
 
-# ***<font color=#0099ff>\*review</font>*** vt  重难点词汇
+# ***\*review*** vt  重难点词汇
 英音 rɪ'vjuː     美音 rɪ'vjuː  
 
 | 词频 4 | 口语 1 | 书面 1 | 阅读 3 |  
@@ -5792,7 +5792,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 答案：
 1. review / revise  
 
-# ***<font color=#0099ff>\*review</font>*** n  重难点词汇
+# ***\*review*** n  重难点词汇
 英音 rɪ'vjuː     美音 rɪ'vjuː  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -5816,7 +5816,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
  > 他的第一部小说自上月出版以来一直备受好评。  （ 2011 陕西）  
 
 
-# ***<font color=#0099ff>\*revise</font>*** v
+# ***\*revise*** v
 英音 rɪ'vaɪz     美音 rɪ'vaɪz  
 
 | 词频 2 |  
@@ -5841,7 +5841,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 答案：
 1. revised  
 
-# ***<font color=#0099ff>\*revision</font>*** n
+# ***\*revision*** n
 英音 rɪ'vɪʒn     美音 rɪ'vɪʒn  
 
 | 词频 2 | 阅读 1 |  
@@ -5856,7 +5856,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ### 2.*高义频：* **[C] & [U] 修订；修正**  
 
 
-# ***<font color=#0099ff>\*revival</font>*** n
+# ***\*revival*** n
 英音 rɪ'vaɪvl     美音 rɪ'vaɪvl  
 
 | 词频 1 |  
@@ -5869,7 +5869,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
  > 一股经济艺术复兴的大潮正席卷全国。    
 
 
-# ***<font color=#0099ff>\*revive</font>*** vt
+# ***\*revive*** vt
 英音 rɪ'vaɪv     美音 rɪ'vaɪv  
 
 | 词频 1 |  
@@ -5882,7 +5882,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
  > 经济开始复苏。    
 
 
-# ***<font color=#0099ff>\*revolution</font>*** n
+# ***\*revolution*** n
 英音 ˌrevə'luːʃn     美音 ˌrevə'luːʃn  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -5897,7 +5897,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
  > 工业革命    
 
 
-# ***<font color=#0099ff>\*revolutionary</font>*** adj
+# ***\*revolutionary*** adj
 英音 ˌrevə'luːʃəneri     美音 ˌrevə'luːʃəneri  
 
 | 词频 1 | 阅读 1 |  
@@ -5910,7 +5910,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
  > 哥白尼的革命性理论  （人教⑤ – 1）  
 
 
-# ***<font color=#0099ff>\*revolve</font>*** v
+# ***\*revolve*** v
 英音 rɪ'vɒlv     美音 rɪ'vɑːlv  
 
 | 词频 1 |  
@@ -5920,7 +5920,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ### 1.*高义频：* **(使) 旋转**  
 
 
-# ***<font color=#0099ff>\*reward</font>*** n  重难点词汇
+# ***\*reward*** n  重难点词汇
 英音 rɪ'wɔːd     美音 rɪ'wɔːrd  
 
 | 词频 4 | 书面 1 |  
@@ -5954,7 +5954,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
   
 
 
-# ***<font color=#0099ff>\*reward</font>*** vt  重难点词汇
+# ***\*reward*** vt  重难点词汇
 英音 rɪ'wɔːd     美音 rɪ'wɔːrd  
 
 | 词频 4 |  
@@ -5978,7 +5978,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
  > 当被问及对教学工作的看法时，菲利普说它既有趣又有意义。  （2012 安徽）  
 
 
-# ***<font color=#0099ff>\*rewind</font>*** v
+# ***\*rewind*** v
 英音 ˌriː'waɪnd     美音 ˌriː'waɪnd  
 
 | 词频 1 |  
@@ -5993,7 +5993,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
  > 倒带    
 
 
-# ***<font color=#0099ff>\*rewrite</font>*** vt
+# ***\*rewrite*** vt
 英音 ˌriː'raɪt     美音 ˌriː'raɪt  
 
 | 词频 2 |  
@@ -6005,7 +6005,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 ### 1.*高义频：* **重写；改写 (故事等)**  
 
 
-# ***<font color=#0099ff>\*rhetorical</font>*** adj
+# ***\*rhetorical*** adj
 英音 rɪ'tɒrɪkl     美音 rɪ'tɔːrɪkl  
 
 | 词频 1 |  
@@ -6015,7 +6015,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 ### 1.**修辞的**  
 
 
-# ***<font color=#0099ff>\*rhino</font>*** n
+# ***\*rhino*** n
 英音 'raɪnəʊ     美音 'raɪnoʊ  
 
 | 词频 1 |  
@@ -6025,7 +6025,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 ### 1.*高义频：* **[pl rhinos] 犀牛**  
 
 
-# ***<font color=#0099ff>\*rhyme</font>*** n
+# ***\*rhyme*** n
 英音 raɪm     美音 raɪm  
 
 | 词频 1 |  
@@ -6044,7 +6044,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
  > 儿歌和童话    
 
 
-# ***<font color=#0099ff>\*rhyme</font>*** v
+# ***\*rhyme*** v
 英音 raɪm     美音 raɪm  
 
 | 词频 1 |  
@@ -6058,7 +6058,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
  > though和low押韵。    
 
 
-# ***<font color=#0099ff>\*rhythm</font>*** n
+# ***\*rhythm*** n
 英音 'rɪðəm     美音 'rɪðəm  
 
 | 词频 2 | 书面 1 |  
@@ -6073,7 +6073,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
  > 她开始随着音乐的节拍跳舞。    
 
 
-# ***<font color=#0099ff>\*rhythmic</font>*** adj
+# ***\*rhythmic*** adj
 英音 'rɪðmɪk     美音 'rɪðmɪk  
 
 | 词频 1 |  
@@ -6085,7 +6085,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 ### 1.*高义频：* **有节奏的；节奏强劲的**  
 
 
-# ***<font color=#0099ff>\*ribbon</font>*** n
+# ***\*ribbon*** n
 英音 'rɪbən     美音 'rɪbən  
 
 | 词频 1 |  
@@ -6097,7 +6097,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 ### 1.*高义频：* **丝带；带状物**  
 
 
-# ***<font color=#0099ff>\*rice</font>*** n
+# ***\*rice*** n
 英音 raɪs     美音 raɪs  
 
 | 词频 3 | 口语 1 |  
@@ -6112,7 +6112,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
  > 大米是印度、中国和日本的主食。    
 
 
-# ***<font color=#0099ff>\*rich</font>*** adj
+# ***\*rich*** adj
 英音 rɪtʃ     美音 rɪtʃ  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -6132,7 +6132,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*be rich in </font>
+## \*be rich in 
 1.**在…方面丰富：**  
 
  > *The country is rich in resources. *  
@@ -6144,7 +6144,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 richly /'rɪtʃli/ adv   
 richness /'rɪtʃnəs/ n   
 
-# ***<font color=#0099ff>\*rickets</font>*** n
+# ***\*rickets*** n
 英音 'rɪkɪts     美音 'rɪkɪts  
 
 | 词频 1 |  
@@ -6156,7 +6156,7 @@ richness /'rɪtʃnəs/ n
 ### 1.*高义频：* **佝偻病**  
 
 
-# ***<font color=#0099ff>\*rid</font>*** vt
+# ***\*rid*** vt
 英音 rɪd     美音 rɪd  
 
 | 词频 3 | 口语 3 |  
@@ -6165,7 +6165,7 @@ richness /'rɪtʃnəs/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*be / get rid of </font>
+## \*be / get rid of 
 1.**摆脱；除去：**  
 
  > *He is rid of fever. *  
@@ -6174,7 +6174,7 @@ richness /'rɪtʃnəs/ n
  > *We couldn’t get rid of the smell of fish. *  
  > 我们除不掉鱼腥味。  （北师大⑧ – 23）  
 
-## <font color=#0099ff>\*rid sb / sth of sth</font>
+## \*rid sb / sth of sth
 1.**[正式用语] 使摆脱；使除掉：**  
 
  > *Thanks to his research, the UN has more tools in the battle to rid the world of hunger. *  
@@ -6184,7 +6184,7 @@ richness /'rɪtʃnəs/ n
  > 还清债务    
 
 
-# ***<font color=#0099ff>\*riddle</font>*** n
+# ***\*riddle*** n
 英音 'rɪdl     美音 'rɪdl  
 
 | 词频 1 |  
@@ -6200,7 +6200,7 @@ richness /'rɪtʃnəs/ n
  > 猜谜；解谜    
 
 
-# ***<font color=#0099ff>\*ride</font>*** v
+# ***\*ride*** v
 英音 raɪd     美音 raɪd  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -6222,7 +6222,7 @@ richness /'rɪtʃnəs/ n
  > 乘电梯    
 
 
-# ***<font color=#0099ff>\*ride</font>*** n
+# ***\*ride*** n
 英音 raɪd     美音 raɪd  
 
 | 词频 5 | 口语 1 |  
@@ -6246,7 +6246,7 @@ richness /'rɪtʃnəs/ n
 rider /'raɪdə(r)/ n [C]  
 riding /'raɪdɪŋ/ n [U]  
 
-# ***<font color=#0099ff>\*ridge</font>*** n
+# ***\*ridge*** n
 英音 rɪdʒ     美音 rɪdʒ  
 
 | 词频 2 |  
@@ -6258,7 +6258,7 @@ riding /'raɪdɪŋ/ n [U]
 ### 1.*高义频：* **山脊；屋脊**  
 
 
-# ***<font color=#0099ff>\*ridiculous</font>*** adj
+# ***\*ridiculous*** adj
 英音 rɪ'dɪkjələs     美音 rɪ'dɪkjələs  
 
 | 词频 2 | 口语 2 | 阅读 2 |  
@@ -6268,7 +6268,7 @@ riding /'raɪdɪŋ/ n [U]
 ### 1.*高义频：* **荒谬的；可笑的；滑稽的 (absurd)**  
 
 
-# ***<font color=#0099ff>\*right</font>*** adj
+# ***\*right*** adj
 英音 raɪt     美音 raɪt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6303,7 +6303,7 @@ riding /'raɪdɪŋ/ n [U]
  > 你这会儿感觉好吗?    
 
 
-# ***<font color=#0099ff>\*right</font>*** adv
+# ***\*right*** adv
 英音 raɪt     美音 raɪt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6331,20 +6331,20 @@ riding /'raɪdɪŋ/ n [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*right now </font>
+## \*right now 
 1.**现在；立刻；马上：**  
 
  > *I’d better clean the screen of computer right now. *  
  > 我还是现在就把电脑屏幕擦干净吧。    
 
-## <font color=#0099ff>\*right away </font>
+## \*right away 
 1.**立刻：**  
 
  > *Imagine your home begins to shake and you must leave it right away. *  
  > 设想一下你家开始摇晃了，你必须立刻离开。  （人教① – 4）  
 
 
-# ***<font color=#0099ff>\*right</font>*** n
+# ***\*right*** n
 英音 raɪt     美音 raɪt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6376,7 +6376,7 @@ riding /'raɪdɪŋ/ n [U]
 ---
 rightly /'raɪtli/ adv   
 
-# ***<font color=#0099ff>\*right-handed</font>*** adj
+# ***\*right-handed*** adj
 英音 raɪt 'hændɪd     美音 raɪt 'hændɪd  
 
 | 词频 2 |  
@@ -6389,7 +6389,7 @@ rightly /'raɪtli/ adv
  > 我们绝大多数人是惯用右手的。    
 
 
-# ***<font color=#0099ff>\*rigid</font>*** adj
+# ***\*rigid*** adj
 英音 'rɪdʒɪd     美音 'rɪdʒɪd  
 
 | 词频 1 |  
@@ -6407,7 +6407,7 @@ rightly /'raɪtli/ adv
  > 固执的态度    
 
 
-# ***<font color=#0099ff>\*ring</font>*** v
+# ***\*ring*** v
 英音 rɪŋ     美音 rɪŋ  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -6442,17 +6442,17 @@ rightly /'raɪtli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*ring off </font>
+## \*ring off 
 1.**挂断电话**  
 
-## <font color=#0099ff>\*ring up </font>
+## \*ring up 
 1.**打电话 (给)：**  
 
  > *I’ll ring him up again. *  
  > 我会再打电话给他。  （人教⑧ – 3）  
 
 
-# ***<font color=#0099ff>\*ring</font>*** n
+# ***\*ring*** n
 英音 rɪŋ     美音 rɪŋ  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -6466,7 +6466,7 @@ rightly /'raɪtli/ adv
 ### 2.*高义频：* **铃声；钟声**  
 
 
-# ***<font color=#0099ff>\*ripe</font>*** adj
+# ***\*ripe*** adj
 英音 raɪp     美音 raɪp  
 
 | 词频 2 |  
@@ -6483,7 +6483,7 @@ rightly /'raɪtli/ adv
  > 改革的时机已经成熟。    
 
 
-# ***<font color=#0099ff>\*ripen</font>*** v
+# ***\*ripen*** v
 英音 'raɪpən     美音 'raɪpən  
 
 | 词频 1 |  
@@ -6498,7 +6498,7 @@ rightly /'raɪtli/ adv
  > 稻子已经成熟了。    
 
 
-# ***<font color=#0099ff>\*rise</font>*** vi
+# ***\*rise*** vi
 英音 raɪz     美音 raɪz  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -6555,7 +6555,7 @@ rightly /'raɪtli/ adv
 答案：
 1. rising   
 
-# ***<font color=#0099ff>\*rise</font>*** n
+# ***\*rise*** n
 英音 raɪz     美音 raɪz  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -6582,14 +6582,14 @@ rightly /'raɪtli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*give rise to </font>
+## \*give rise to 
 1.**[正式用语] 引起；导致 (尤指坏事)：**  
 
  > *This may give rise to prejudices of the educated against those with little knowledge of English.*  
  > 这可能导致受过教育的人对那些不太懂英语的人产生偏见。  （2014 江苏书面表达改）  
 
 
-# ***<font color=#0099ff>\*risk</font>*** n  重难点词汇
+# ***\*risk*** n  重难点词汇
 英音 rɪsk     美音 rɪsk  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -6615,7 +6615,7 @@ rightly /'raɪtli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*at risk (from / of) </font>
+## \*at risk (from / of) 
 1.**有危险：**  
 
  > **put at risk**  
@@ -6625,26 +6625,26 @@ rightly /'raɪtli/ adv
  > *The water level has risen so high in several places that many homes are at risk from flooding. *  
  > 一些地方水位升高，很多房子都有被洪水淹没的危险。  （北师大⑧ – 22）  
 
-## <font color=#0099ff>\*at the risk of doing sth </font>
+## \*at the risk of doing sth 
 1.**冒着做某事的风险：**  
 
  > *He saved my life at the risk of losing his own. *  
  > 他冒着生命危险救了我的命。    
 
-## <font color=#0099ff>\*run / take a risk </font>
+## \*run / take a risk 
 1.**冒险 (run / take risks)：**  
 
  > *He felt he had to decide on every step instead of taking risks. *  
  > 他觉得他必须考虑好每一步，而不能冒险。  （人教⑥ – 3）  
 
-## <font color=#0099ff>\*run / take the risk of doing sth </font>
+## \*run / take the risk of doing sth 
 1.**冒险做某事：**  
 
  > *Mary couldn’t take the risk of leaving her baby alone even for a short time. *  
  > 玛丽不敢冒险让她的孩子独自待着，即使是很短的时间。    
 
 
-# ***<font color=#0099ff>\*risk</font>*** vt  重难点词汇
+# ***\*risk*** vt  重难点词汇
 英音 rɪsk     美音 rɪsk  
 
 | 词频 4 |  
@@ -6674,7 +6674,7 @@ risky /'rɪski/ adj
 答案：
 1. going  
 
-# ***<font color=#0099ff>\*risky</font>*** adj
+# ***\*risky*** adj
 英音 'rɪski     美音 'rɪski  
 
 | 词频 3 |  
@@ -6684,7 +6684,7 @@ risky /'rɪski/ adj
 ### 1.**危险的；冒险的**  
 
 
-# ***<font color=#0099ff>\*rival</font>*** n
+# ***\*rival*** n
 英音 'raɪvl     美音 'raɪvl  
 
 | 词频 2 | 书面 1 |  
@@ -6696,7 +6696,7 @@ risky /'rɪski/ adj
 ### 1.*高义频：* **对手**  
 
 
-# ***<font color=#0099ff>\*rivalry</font>*** n
+# ***\*rivalry*** n
 英音 'raɪvlri     美音 'raɪvlri  
 
 | 词频 1 |  
@@ -6706,7 +6706,7 @@ risky /'rɪski/ adj
 ### 1.**（不断的）竞争**  
 
 
-# ***<font color=#0099ff>\*river</font>*** n
+# ***\*river*** n
 英音 'rɪvə(r)     美音 'rɪvər  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -6718,7 +6718,7 @@ risky /'rɪski/ adj
 ### 1.*高义频：* **河；江**  
 
 
-# ***<font color=#0099ff>\*road</font>*** n
+# ***\*road*** n
 英音 rəʊd     美音 roʊd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6741,7 +6741,7 @@ risky /'rɪski/ adj
 五者都可作“路”解，但含义有所不同。  
 
 
-# ***<font color=#0099ff>\*roadwork</font>*** n
+# ***\*roadwork*** n
 英音 'rəʊdwɜːk     美音 'roʊdwɜːrk  
 
 | 词频 1 |  
@@ -6751,7 +6751,7 @@ risky /'rɪski/ adj
 ### 1.**（常作复数）道路施工**  
 
 
-# ***<font color=#0099ff>\*roar</font>*** v
+# ***\*roar*** v
 英音 rɔː(r)     美音 rɔːr  
 
 | 词频 2 |  
@@ -6761,7 +6761,7 @@ risky /'rɪski/ adj
 ### 1.*高义频：* **吼叫；大声喊叫**  
 
 
-# ***<font color=#0099ff>\*roar</font>*** n
+# ***\*roar*** n
 英音 rɔː(r)     美音 rɔːr  
 
 | 词频 2 |  
@@ -6773,7 +6773,7 @@ risky /'rɪski/ adj
 ### 1.*高义频：* **吼叫声；喊叫声**  
 
 
-# ***<font color=#0099ff>\*roast</font>*** v
+# ***\*roast*** v
 英音 rəʊst     美音 roʊst  
 
 | 词频 1 |  
@@ -6789,7 +6789,7 @@ risky /'rɪski/ adj
  > 肉正在炉子里烤着。    
 
 
-# ***<font color=#0099ff>\*roast</font>*** adj
+# ***\*roast*** adj
 英音 rəʊst     美音 roʊst  
 
 | 词频 1 |  
@@ -6802,7 +6802,7 @@ risky /'rɪski/ adj
  > 烤猪肉    
 
 
-# ***<font color=#0099ff>\*roast</font>*** n
+# ***\*roast*** n
 英音 rəʊst     美音 rəʊst  
 
 | 词频 1 |  
@@ -6812,7 +6812,7 @@ risky /'rɪski/ adj
 ### 1.**烤，烘**  
 
 
-# ***<font color=#0099ff>\*rob</font>*** vt
+# ***\*rob*** vt
 英音 rɒb     美音 rɑːb  
 
 | 词频 3 | 口语 1 |  
@@ -6827,7 +6827,7 @@ risky /'rɪski/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*rob sb of sth </font>
+## \*rob sb of sth 
 1.**抢走某人的某物：**  
 
  > *The young man robbed her of her bag. *  
@@ -6839,7 +6839,7 @@ risky /'rɪski/ adj
 robber /'rɒbə(r)/ n   
 robbery /'rɒbəri/ n   
 
-# ***<font color=#0099ff>\*robbery</font>*** n
+# ***\*robbery*** n
 英音 'rɒbəri     美音 'rɑːbəri  
 
 | 词频 1 |  
@@ -6851,7 +6851,7 @@ robbery /'rɒbəri/ n
 ### 1.*高义频：* **抢劫；盗窃**  
 
 
-# ***<font color=#0099ff>\*robe</font>*** n
+# ***\*robe*** n
 英音 rəʊb     美音 roʊb  
 
 | 词频 1 |  
@@ -6861,7 +6861,7 @@ robbery /'rɒbəri/ n
 ### 1.**长袍**  
 
 
-# ***<font color=#0099ff>\*robot</font>*** n
+# ***\*robot*** n
 英音 'rəʊbɒt     美音 'roʊbɑːt  
 
 | 词频 4 |  
@@ -6873,7 +6873,7 @@ robbery /'rɒbəri/ n
 ### 1.*高义频：* **机器人**  
 
 
-# ***<font color=#0099ff>\*rock</font>*** n
+# ***\*rock*** n
 英音 rɒk     美音 rɑːk  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -6894,7 +6894,7 @@ robbery /'rɒbəri/ n
  > 摇滚乐/摇滚乐队    
 
 
-# ***<font color=#0099ff>\*rock</font>*** v
+# ***\*rock*** v
 英音 rɒk     美音 rɑːk  
 
 | 词频 4 |  
@@ -6910,7 +6910,7 @@ robbery /'rɒbəri/ n
  > 这个消息使全家震惊。    
 
 
-# ***<font color=#0099ff>\*rock'n'roll</font>*** 
+# ***\*rock'n'roll*** 
 
 
   
@@ -6920,7 +6920,7 @@ robbery /'rɒbəri/ n
 ### 1.**摇滚乐**  
 
 
-# ***<font color=#0099ff>\*rockabilly</font>*** n
+# ***\*rockabilly*** n
 英音 'rɒkəbɪli     美音 'rɑːkəbɪli  
 
 | 词频 1 |  
@@ -6930,7 +6930,7 @@ robbery /'rɒbəri/ n
 ### 1.**乡村摇滚乐（一种由乡村音乐与摇滚音乐结合而成的旋律狂热的轻音乐）**  
 
 
-# ***<font color=#0099ff>\*rocket</font>*** n
+# ***\*rocket*** n
 英音 'rɒkɪt     美音 'rɑːkɪt  
 
 | 词频 1 |  
@@ -6946,7 +6946,7 @@ robbery /'rɒbəri/ n
  > 发射火箭    
 
 
-# ***<font color=#0099ff>\*rocket</font>*** vi
+# ***\*rocket*** vi
 英音 'rɒkɪt     美音 'rɑːkɪt  
 
 | 词频 1 |  
@@ -6960,7 +6960,7 @@ robbery /'rɒbəri/ n
  > 失业人数再次猛增。    
 
 
-# ***<font color=#0099ff>\*rod</font>*** n
+# ***\*rod*** n
 英音 rɒd     美音 rɑːd  
 
 | 词频 1 |  
@@ -6972,7 +6972,7 @@ robbery /'rɒbəri/ n
 ### 1.*高义频：* **杆；竿；棒**  
 
 
-# ***<font color=#0099ff>\*role</font>*** n
+# ***\*role*** n
 英音 rəʊl     美音 roʊl  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -6987,7 +6987,7 @@ robbery /'rɒbəri/ n
  > *the leading role *  
  > 主角    
 
-## <font color=#0099ff>\*play the role of</font>
+## \*play the role of
 1.**扮演…的角色：**  
 
  > *He played the role of a successful lawyer in the play.*  
@@ -7002,14 +7002,14 @@ robbery /'rɒbəri/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*play a(n) … role in </font>
+## \*play a(n) … role in 
 1.**在…中起…作用：**  
 
  > *Farming plays an important role in the country’s economy. *  
  > 农业在该国经济中起着重要的作用。    
 
 
-# ***<font color=#0099ff>\*roll</font>*** v
+# ***\*roll*** v
 英音 rəʊl     美音 roʊl  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -7037,11 +7037,11 @@ robbery /'rɒbəri/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*roll over </font>
+## \*roll over 
 1.**翻身；打滚**  
 
 
-# ***<font color=#0099ff>\*roll</font>*** n
+# ***\*roll*** n
 英音 rəʊl     美音 roʊl  
 
 | 词频 4 |  
@@ -7059,7 +7059,7 @@ robbery /'rɒbəri/ n
  > 鸡肉卷/火腿卷    
 
 
-# ***<font color=#0099ff>\*romance</font>*** n
+# ***\*romance*** n
 英音 rəʊ'mæns     美音 'roʊmæns  
 
 | 词频 1 |  
@@ -7069,7 +7069,7 @@ robbery /'rɒbəri/ n
 ### 1.*高义频：* **[U] 浪漫的气氛；[C] 爱情故事**  
 
 
-# ***<font color=#0099ff>\*romantic</font>*** adj
+# ***\*romantic*** adj
 英音 rəʊ'mæntɪk     美音 roʊ'mæntɪk  
 
 | 词频 2 |  
@@ -7091,7 +7091,7 @@ robbery /'rɒbəri/ n
  > 夸大的报道    
 
 
-# ***<font color=#0099ff>\*romantic</font>*** n
+# ***\*romantic*** n
 英音 rəʊ'mæntɪk     美音 roʊ'mæntɪk  
 
 | 词频 2 |  
@@ -7103,7 +7103,7 @@ robbery /'rɒbəri/ n
 ### 1.*高义频：* **浪漫的人；浪漫主义作家 / 音乐家 / 艺术家**  
 
 
-# ***<font color=#0099ff>\*roof</font>*** n
+# ***\*roof*** n
 英音 ruːf     美音 ruːf  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -7115,7 +7115,7 @@ robbery /'rɒbəri/ n
 ### 1.*高义频：* **(pl roofs) 屋顶**  
 
 
-# ***<font color=#0099ff>\*rooftop</font>*** n
+# ***\*rooftop*** n
 英音 'ruːftɒp     美音 'ruːftɑːp  
 
 | 词频 1 |  
@@ -7125,7 +7125,7 @@ robbery /'rɒbəri/ n
 ### 1.**屋顶**  
 
 
-# ***<font color=#0099ff>\*room</font>*** n
+# ***\*room*** n
 英音 ruːm;rʊm     美音 ruːm;rum  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -7157,7 +7157,7 @@ robbery /'rɒbəri/ n
 答案：
 1. for  
 
-# ***<font color=#0099ff>\*rooster</font>*** n
+# ***\*rooster*** n
 英音 'ruːstə(r)     美音 'ruːstər  
 
 | 词频 1 |  
@@ -7169,7 +7169,7 @@ robbery /'rɒbəri/ n
 ### 1.*高义频：* **公鸡**  
 
 
-# ***<font color=#0099ff>\*root</font>*** n
+# ***\*root*** n
 英音 ruːt     美音 ruːt  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -7191,7 +7191,7 @@ robbery /'rɒbəri/ n
  > 金钱常被说成是万恶之源。    
 
 
-# ***<font color=#0099ff>\*root</font>*** v
+# ***\*root*** v
 英音 ruːt     美音 ruːt  
 
 | 词频 4 |  
@@ -7209,7 +7209,7 @@ robbery /'rɒbəri/ n
  > 母亲的话深深地根植于我的灵魂，我坚信我们一定会成功。    
 
 
-# ***<font color=#0099ff>\*roots</font>*** n
+# ***\*roots*** n
 英音 ruːts     美音 ruːts  
 
 | 词频 3 |  
@@ -7219,7 +7219,7 @@ robbery /'rɒbəri/ n
 ### 1.**根，根基**  
 
 
-# ***<font color=#0099ff>\*rope</font>*** n
+# ***\*rope*** n
 英音 rəʊp     美音 roʊp  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -7231,7 +7231,7 @@ robbery /'rɒbəri/ n
 ### 1.*高义频：* **绳；索**  
 
 
-# ***<font color=#0099ff>\*rose</font>*** n
+# ***\*rose*** n
 英音 rəʊz     美音 roʊz  
 
 | 词频 4 |  
@@ -7243,7 +7243,7 @@ robbery /'rɒbəri/ n
 ### 1.*高义频：* **玫瑰花**  
 
 
-# ***<font color=#0099ff>\*rosebud</font>*** n
+# ***\*rosebud*** n
 英音 'rəʊzbʌd     美音 'roʊzbʌd  
 
 | 词频 1 |  
@@ -7255,7 +7255,7 @@ robbery /'rɒbəri/ n
 ### 1.*高义频：* **玫瑰花蕾**  
 
 
-# ***<font color=#0099ff>\*rot</font>*** v
+# ***\*rot*** v
 英音 rɒt     美音 rɑːt  
 
 | 词频 2 |  
@@ -7272,7 +7272,7 @@ robbery /'rɒbəri/ n
  > 空气闷热潮湿，使得放久了的水果加快腐烂。    
 
 
-# ***<font color=#0099ff>\*rot</font>*** n
+# ***\*rot*** n
 英音 rɒt     美音 rɑːt  
 
 | 词频 2 |  
@@ -7282,7 +7282,7 @@ robbery /'rɒbəri/ n
 ### 1.**（细菌引起的）腐败病；腐蚀病**  
 
 
-# ***<font color=#0099ff>\*rotating</font>*** adj
+# ***\*rotating*** adj
 英音 rəʊ'teɪtɪŋ     美音 roʊ'teɪtɪŋ  
 
 | 词频 1 |  
@@ -7292,7 +7292,7 @@ robbery /'rɒbəri/ n
 ### 1.**旋转的；循环的**  
 
 
-# ***<font color=#0099ff>\*rough</font>*** adj
+# ***\*rough*** adj
 英音 rʌf     美音 rʌf  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -7341,7 +7341,7 @@ roughly /'rʌfli/ adv
  > 这篇论文考察了大约40000名德国人健康与福利的调查报告。  （2013 湖北改）  
 
 
-# ***<font color=#0099ff>\*roughly</font>*** adv
+# ***\*roughly*** adv
 英音 'rʌfli     美音 'rʌfli  
 
 | 词频 3 | 口语 2 |  
@@ -7351,7 +7351,7 @@ roughly /'rʌfli/ adv
 ### 1.*高义频：* **粗略地；粗糙地**  
 
 
-# ***<font color=#0099ff>\*round</font>*** adj
+# ***\*round*** adj
 英音 raʊnd     美音 raʊnd  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -7373,7 +7373,7 @@ roughly /'rʌfli/ adv
  > 一整打/一整天    
 
 
-# ***<font color=#0099ff>\*round</font>*** adv
+# ***\*round*** adv
 英音 raʊnd     美音 raʊnd  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -7386,7 +7386,7 @@ roughly /'rʌfli/ adv
  > 他环顾四周，但谁也没看见。    
 
 
-# ***<font color=#0099ff>\*round</font>*** prep
+# ***\*round*** prep
 英音 raʊnd     美音 raʊnd  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -7399,7 +7399,7 @@ roughly /'rʌfli/ adv
  > 有八大行星围绕着太阳转。    
 
 
-# ***<font color=#0099ff>\*round</font>*** v
+# ***\*round*** v
 英音 raʊnd     美音 raʊnd  
 
 | 词频 4 |  
@@ -7415,7 +7415,7 @@ roughly /'rʌfli/ adv
  > 他骑车绕大厦转了几圈。    
 
 
-# ***<font color=#0099ff>\*round</font>*** n
+# ***\*round*** n
 英音 raʊnd     美音 raʊnd  
 
 | 词频 4 |  
@@ -7427,7 +7427,7 @@ roughly /'rʌfli/ adv
 ### 1.*高义频：* **轮次；一回合；一局**  
 
 
-# ***<font color=#0099ff>\*round-faced</font>*** adj
+# ***\*round-faced*** adj
 英音 'raʊnd'feɪst     美音 'raʊnd'feɪst  
 
   
@@ -7437,7 +7437,7 @@ roughly /'rʌfli/ adv
 ### 1.**圆脸的**  
 
 
-# ***<font color=#0099ff>\*roundabout</font>*** adj
+# ***\*roundabout*** adj
 英音 'raʊndəbaʊt     美音 'raʊndəbaʊt  
 
 | 词频 1 |  
@@ -7454,7 +7454,7 @@ roughly /'rʌfli/ adv
  > 你说话拐弯抹角。    
 
 
-# ***<font color=#0099ff>\*roundabout</font>*** n
+# ***\*roundabout*** n
 英音 'raʊndəbaʊt     美音 'raʊndəbaʊt  
 
 | 词频 1 |  
@@ -7466,7 +7466,7 @@ roughly /'rʌfli/ adv
 ### 1.*高义频：* **(道路交叉处的) 环形路；迂回路线**  
 
 
-# ***<font color=#0099ff>\*route</font>*** n
+# ***\*route*** n
 英音 ruːt     美音 raʊt  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -7482,7 +7482,7 @@ roughly /'rʌfli/ adv
  > 走某条路线    
 
 
-# ***<font color=#0099ff>\*routine</font>*** n
+# ***\*routine*** n
 英音 ruː'tiːn     美音 ruː'tiːn  
 
 | 词频 2 | 书面 1 | 阅读 2 |  
@@ -7516,7 +7516,7 @@ D.routine
 答案：
 1. D  
 
-# ***<font color=#0099ff>\*routine</font>*** adj
+# ***\*routine*** adj
 英音 ruː'tiːn     美音 ruː'tiːn  
 
 | 词频 2 | 阅读 2 |  
@@ -7529,7 +7529,7 @@ D.routine
  > 例行报告    
 
 
-# ***<font color=#0099ff>\*row</font>*** n
+# ***\*row*** n
 英音 rəʊ     美音 roʊ  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -7550,7 +7550,7 @@ D.routine
 
 固定搭配
 ---
-## <font color=#0099ff>\*in a row </font>
+## \*in a row 
 1.**排成一排；连续地：**  
 
  > *The children were asked to stand in a row. *  
@@ -7560,7 +7560,7 @@ D.routine
  > 我已经连续三次打破这一记录了。    
 
 
-# ***<font color=#0099ff>\*row</font>*** v
+# ***\*row*** v
 英音 rəʊ     美音 roʊ  
 
 | 词频 2 |  
@@ -7574,7 +7574,7 @@ D.routine
  > 她必须划船去海湾的另一边。    
 
 
-# ***<font color=#0099ff>\*row</font>*** n
+# ***\*row*** n
 英音 rəʊ     美音 roʊ  
 
 | 词频 2 |  
@@ -7589,7 +7589,7 @@ D.routine
  > 去划船    
 
 
-# ***<font color=#0099ff>\*royal</font>*** adj
+# ***\*royal*** adj
 英音 'rɔɪəl     美音 'rɔɪəl  
 
 | 词频 3 | 口语 1 | 书面 3 |  
@@ -7605,7 +7605,7 @@ D.routine
  > 盛大的欢迎    
 
 
-# ***<font color=#0099ff>\*rub</font>*** vt
+# ***\*rub*** vt
 英音 rʌb     美音 rʌb  
 
 | 词频 2 | 口语 2 |  
@@ -7628,7 +7628,7 @@ D.routine
  > 我的鞋后跟磨脚。    
 
 
-# ***<font color=#0099ff>\*rubber</font>*** n
+# ***\*rubber*** n
 英音 'rʌbə(r)     美音 'rʌbər  
 
 | 词频 1 | 口语 1 |  
@@ -7638,7 +7638,7 @@ D.routine
 ### 1.*高义频：* **[C] 橡皮；黑板擦；[U] 橡胶**  
 
 
-# ***<font color=#0099ff>\*rubbish</font>*** n
+# ***\*rubbish*** n
 英音 'rʌbɪʃ     美音 'rʌbɪʃ  
 
 | 词频 4 | 口语 2 |  
@@ -7659,7 +7659,7 @@ D.routine
  > 别说废话！    
 
 
-# ***<font color=#0099ff>\*rude</font>*** adj
+# ***\*rude*** adj
 英音 ruːd     美音 ruːd  
 
 | 词频 3 | 口语 1 |  
@@ -7683,7 +7683,7 @@ D.routine
 
 固定搭配
 ---
-## <font color=#0099ff>\*be rude to sb </font>
+## \*be rude to sb 
 1.**对某人无礼：**  
 
  > *You mustn’t be rude to teachers.*  
@@ -7694,7 +7694,7 @@ D.routine
 ---
 rudely /'ruːdli/ adv   
 
-# ***<font color=#0099ff>\*rugby</font>*** n
+# ***\*rugby*** n
 英音 'rʌɡbɪ     美音 'rʌɡbɪ  
 
 | 词频 1 |  
@@ -7706,7 +7706,7 @@ rudely /'ruːdli/ adv
 ### 1.*高义频：* **橄榄球**  
 
 
-# ***<font color=#0099ff>\*ruin</font>*** vt
+# ***\*ruin*** vt
 英音 'ruːɪn     美音 'ruːɪn  
 
 | 词频 4 | 口语 1 |  
@@ -7732,7 +7732,7 @@ rudely /'ruːdli/ adv
  > 如果败诉，她就倾家荡产了。    
 
 
-# ***<font color=#0099ff>\*ruin</font>*** n
+# ***\*ruin*** n
 英音 'ruːɪn     美音 'ruːɪn  
 
 | 词频 4 |  
@@ -7760,7 +7760,7 @@ rudely /'ruːdli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*in ruins </font>
+## \*in ruins 
 1.**成废墟；严重受损：**  
 
  > **lay in ruins**  
@@ -7772,7 +7772,7 @@ rudely /'ruːdli/ adv
 ---
 ruined /'ruːɪnd/ adj [只用于名词前]  
 
-# ***<font color=#0099ff>\*rule</font>*** n
+# ***\*rule*** n
 英音 ruːl     美音 ruːl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -7794,7 +7794,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 ### 2.*高义频：* **[U] 统治**  
 
 
-# ***<font color=#0099ff>\*rule</font>*** v
+# ***\*rule*** v
 英音 ruːl     美音 ruːl  
 
 | 词频 5 |  
@@ -7813,7 +7813,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 
 固定搭配
 ---
-## <font color=#0099ff>\*rule out </font>
+## \*rule out 
 1.**排除；取消：**  
 
  > *We can’t rule out the possibility that he’ll come after all. *  
@@ -7827,7 +7827,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 答案：
 1. ruled out  
 
-# ***<font color=#0099ff>\*ruler</font>*** n
+# ***\*ruler*** n
 英音 'ruːlə(r)     美音 'ruːlər  
 
 | 词频 3 |  
@@ -7839,7 +7839,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 ### 1.*高义频：* **尺子；统治者；管理者**  
 
 
-# ***<font color=#0099ff>\*rumor</font>*** n
+# ***\*rumor*** n
 英音 'ruːmə     美音 'ruːmə  
 
 | 词频 2 |  
@@ -7858,7 +7858,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
  > 有关他死亡的传言    
 
 
-# ***<font color=#0099ff>\*rumour</font>*** n
+# ***\*rumour*** n
 英音 'ruːmə     美音 'ruːmə  
 
 | 词频 2 |  
@@ -7877,7 +7877,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
  > 有关他死亡的传言    
 
 
-# ***<font color=#0099ff>\*run</font>*** v  重难点词汇
+# ***\*run*** v  重难点词汇
 英音 rʌn     美音 rʌn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -7926,7 +7926,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 
 固定搭配
 ---
-## <font color=#0099ff>\*run across </font>
+## \*run across 
 1.**跑着穿过；偶然碰见：**  
 
  > *He ran across the fields. *  
@@ -7935,7 +7935,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
  > *I ran across him at a conference in Milan. *  
  > 我在米兰的一次大会上碰到了他。    
 
-## <font color=#0099ff>\*run after </font>
+## \*run after 
 1.**追赶；追求：**  
 
  > *If you run after two hares, you will catch neither. *  
@@ -7944,7 +7944,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
  > *It is said that John’s always running after younger women. *  
  > 据说约翰总是追求年轻女子。    
 
-## <font color=#0099ff>\*run away (from) </font>
+## \*run away (from) 
 1.**逃走；逃避：**  
 
  > *The thief heard the noise and ran away quickly. *  
@@ -7953,7 +7953,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
  > *It’s irresponsible of you to run away from difficulties.*  
  > 见了困难就躲是不负责的。    
 
-## <font color=#0099ff>\*run into </font>
+## \*run into 
 1.**撞上；偶然遇见；遇到 (困难等)：**  
 
  > *The driver of a large truck, unable to stop in time, ran into our car. *  
@@ -7965,7 +7965,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
  > *When I first learned to write in English, I ran into many difficulties. *  
  > 我刚开始学习用英语写作时，遇到了很多困难。    
 
-## <font color=#0099ff>\*run out (of)</font>
+## \*run out (of)
 1.**用完；耗尽：**  
 
  > *In the future, care for the environment will become very important as earth’s natural resources run out.*  
@@ -7974,7 +7974,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
  > *My car broke down on the way to the beach because it had run out of petrol. *  
  > 在去海滩的路上，我的车因为汽油耗尽而抛锚了。  （北师大⑥ – 16）  
 
-## <font color=#0099ff>\*run over </font>
+## \*run over 
 1.**碾过；思考：**  
 
  > *To the public’s sadness, she was run over and killed by the bus. *  
@@ -7983,7 +7983,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
  > *Mark’s mind raced, running over all the possibilities. *  
  > 马克的脑子飞快地转着，把各种可能都一一作了考虑。    
 
-## <font color=#0099ff>\*run through </font>
+## \*run through 
 1.**跑着穿过；把…匆匆过一遍**  
 
 
@@ -7997,7 +7997,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 答案：
 1. from  2. out  
 
-# ***<font color=#0099ff>\*run</font>*** n  重难点词汇
+# ***\*run*** n  重难点词汇
 英音 rʌn     美音 rʌn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -8021,7 +8021,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 
 固定搭配
 ---
-## <font color=#0099ff>\*in / over the long run </font>
+## \*in / over the long run 
 1.**从长远看：**  
 
  > *A true friend will advise us to do what he thinks is best for us in the long run. *  
@@ -8032,7 +8032,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 ---
 runner /'rʌnə(r)/ n [C]  
 
-# ***<font color=#0099ff>\*running</font>*** adj
+# ***\*running*** adj
 英音 'rʌnɪŋ     美音 'rʌnɪŋ  
 
 | 词频 4 |  
@@ -8057,7 +8057,7 @@ runner /'rʌnə(r)/ n [C]
  > 湍急的河流    
 
 
-# ***<font color=#0099ff>\*running</font>*** n
+# ***\*running*** n
 英音 'rʌnɪŋ     美音 'rʌnɪŋ  
 
 | 词频 4 |  
@@ -8069,7 +8069,7 @@ runner /'rʌnə(r)/ n [C]
 ### 1.*高义频：* **奔跑；赛跑；运行；运转**  
 
 
-# ***<font color=#0099ff>\*rural</font>*** adj
+# ***\*rural*** adj
 英音 'rʊərəl     美音 'rʊrəl  
 
 | 词频 3 | 书面 2 | 阅读 2 |  
@@ -8079,7 +8079,7 @@ runner /'rʌnə(r)/ n [C]
 ### 1.*高义频：* **农村的；乡民的：**  
 
 
-# ***<font color=#0099ff>\*rush</font>*** v
+# ***\*rush*** v
 英音 rʌʃ     美音 rʌʃ  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -8100,7 +8100,7 @@ runner /'rʌnə(r)/ n [C]
  > 使某人忙得不可开交    
 
 
-# ***<font color=#0099ff>\*rush</font>*** n
+# ***\*rush*** n
 英音 rʌʃ     美音 rʌʃ  
 
 | 词频 4 |  
@@ -8119,7 +8119,7 @@ runner /'rʌnə(r)/ n [C]
  > 高峰时间    
 
 
-# ***<font color=#0099ff>\*rust</font>*** vi
+# ***\*rust*** vi
 英音 rʌst     美音 rʌst  
 
 | 词频 2 |  

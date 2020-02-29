@@ -1,6 +1,6 @@
 # Qq
 
-# ***<font color=#0099ff>\*quagga</font>*** n
+# ***\*quagga*** n
 英音 'kwæɡə     美音 'kwæɡə  
 
 | 词频 1 |  
@@ -10,7 +10,7 @@
 ### 1.*高义频：* **白氏斑马 (已灭绝)**  
 
 
-# ***<font color=#0099ff>\*quake</font>*** n
+# ***\*quake*** n
 英音 kweɪk     美音 kweɪk  
 
 | 词频 1 |  
@@ -22,7 +22,7 @@
 ### 1.*高义频：* **地震 (earthquake)**  
 
 
-# ***<font color=#0099ff>\*quake</font>*** vi
+# ***\*quake*** vi
 英音 kweɪk     美音 kweɪk  
 
 | 词频 1 |  
@@ -39,7 +39,7 @@
  > 害怕得发抖    
 
 
-# ***<font color=#0099ff>\*qualification</font>*** n
+# ***\*qualification*** n
 英音 ˌkwɒlɪfɪ'keɪʃn     美音 ˌkwɑːlɪfɪ'keɪʃn  
 
 | 词频 2 | 书面 1 |  
@@ -61,7 +61,7 @@
 ### 2.*低义频：* **资格证书**  
 
 
-# ***<font color=#0099ff>\*qualified</font>*** adj
+# ***\*qualified*** adj
 英音 'kwɒlɪfaɪd     美音 'kwɑːlɪfaɪd  
 
 | 词频 2 |  
@@ -83,7 +83,7 @@
  > 他没有投票资格。    
 
 
-# ***<font color=#0099ff>\*qualify</font>*** v
+# ***\*qualify*** v
 英音 'kwɒlɪfaɪ     美音 'kwɑːlɪfaɪ  
 
 | 词频 1 | 书面 1 |  
@@ -99,7 +99,7 @@
  > 他已被告知因学历背景不合格他不具备获得奖学金的资格。  （2017 江苏）  
 
 
-# ***<font color=#0099ff>\*quality</font>*** n
+# ***\*quality*** n
 英音 'kwɒləti     美音 'kwɑːləti  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -133,7 +133,7 @@
  > 优质产品    
 
 
-# ***<font color=#0099ff>\*quality</font>*** adj
+# ***\*quality*** adj
 英音 'kwɒləti     美音 'kwɑːləti  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -143,7 +143,7 @@
 ### 1.**优质的；高质量的**  
 
 
-# ***<font color=#0099ff>\*quantity</font>*** n
+# ***\*quantity*** n
 英音 'kwɒntəti     美音 'kwɑːntəti  
 
 | 词频 3 | 口语 1 | 书面 2 |  
@@ -160,14 +160,14 @@
 
 固定搭配
 ---
-## <font color=#0099ff>\*a large quantity of / large quantities of</font>
+## \*a large quantity of / large quantities of
 1.**大量的：**  
 
  > *There’s a large quantity of rain in this area.*  
  > 这个地区雨量大。    
 
 Notes: a large quantity of / large quantities of 后既可以接可数名词也可以接不可数名词。  
-## <font color=#0099ff>\*in quantity / in large quantities</font>
+## \*in quantity / in large quantities
 1.**大量地：**  
 
  > *They buy cotton in quantity.*  
@@ -181,7 +181,7 @@ Notes: a large quantity of / large quantities of 后既可以接可数名词也�
 答案：
 1. has  
 
-# ***<font color=#0099ff>\*quarrel</font>*** vi
+# ***\*quarrel*** vi
 英音 'kwɒrəl     美音 'kwɔːrəl  
 
 | 词频 4 |  
@@ -196,7 +196,7 @@ Notes: a large quantity of / large quantities of 后既可以接可数名词也�
  > 她因弟弟的功课而与他发生了争执。    
 
 
-# ***<font color=#0099ff>\*quarrel</font>*** n
+# ***\*quarrel*** n
 英音 'kwɒrəl     美音 'kwɔːrəl  
 
 | 词频 4 |  
@@ -217,7 +217,7 @@ Notes: a large quantity of / large quantities of 后既可以接可数名词也�
  > 她因家务事与丈夫吵了一架。    
 
 
-# ***<font color=#0099ff>\*quarter</font>*** n
+# ***\*quarter*** n
 英音 'kwɔːtə(r)     美音 'kwɔːrtər  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -250,7 +250,7 @@ Notes: a large quantity of / large quantities of 后既可以接可数名词也�
 ### 4.*低义频：* **(美国和加拿大的) 两角五分的硬币**  
 
 
-# ***<font color=#0099ff>\*queen</font>*** n
+# ***\*queen*** n
 英音 kwiːn     美音 kwiːn  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -262,7 +262,7 @@ Notes: a large quantity of / large quantities of 后既可以接可数名词也�
 ### 1.*高义频：* **女王；王后**  
 
 
-# ***<font color=#0099ff>\*quest</font>*** n
+# ***\*quest*** n
 英音 kwest     美音 kwest  
 
   
@@ -272,7 +272,7 @@ Notes: a large quantity of / large quantities of 后既可以接可数名词也�
 ### 1.**(长期的) 寻求,探索,追求**  
 
 
-# ***<font color=#0099ff>\*question</font>*** n
+# ***\*question*** n
 英音 'kwestʃən     美音 'kwestʃən  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -296,17 +296,17 @@ Notes: a large quantity of / large quantities of 后既可以接可数名词也�
 
 固定搭配
 ---
-## <font color=#0099ff>\*out of question</font>
+## \*out of question
 1.**毫无疑问**  
 
-## <font color=#0099ff>\*out of the question</font>
+## \*out of the question
 1.**不可能的**  
 
-## <font color=#0099ff>\*in question</font>
+## \*in question
 1.**讨论中的；有疑问的；不确定的**  
 
 
-# ***<font color=#0099ff>\*question</font>*** vt
+# ***\*question*** vt
 英音 'kwestʃən     美音 'kwestʃən  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -327,7 +327,7 @@ Notes: a large quantity of / large quantities of 后既可以接可数名词也�
  > 不久你也会怀疑你听到的声音是否不是真人。  （2019 北京）  
 
 
-# ***<font color=#0099ff>\*questionnaire</font>*** n
+# ***\*questionnaire*** n
 英音 ˌkwestʃə'neə(r)     美音 ˌkwestʃə'ner  
 
 | 词频 1 |  
@@ -343,7 +343,7 @@ Notes: a large quantity of / large quantities of 后既可以接可数名词也�
  > 填写调查表    
 
 
-# ***<font color=#0099ff>\*queue</font>*** n
+# ***\*queue*** n
 英音 kjuː     美音 kjuː  
 
 | 词频 4 | 口语 1 |  
@@ -362,7 +362,7 @@ Notes: a large quantity of / large quantities of 后既可以接可数名词也�
  > 排/插队    
 
 
-# ***<font color=#0099ff>\*queue</font>*** vi
+# ***\*queue*** vi
 英音 kjuː     美音 kjuː  
 
 | 词频 4 |  
@@ -376,7 +376,7 @@ Notes: a large quantity of / large quantities of 后既可以接可数名词也�
  > 买票队伍中的有些人从天刚亮就开始在排队了。    
 
 
-# ***<font color=#0099ff>\*quick</font>*** adj
+# ***\*quick*** adj
 英音 kwɪk     美音 kwɪk  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -408,7 +408,7 @@ Notes: a large quantity of / large quantities of 后既可以接可数名词也�
 ---
 quicken /'kwɪkən/ v   
 
-# ***<font color=#0099ff>\*quicken</font>*** v
+# ***\*quicken*** v
 英音 'kwɪkən     
 
   
@@ -418,7 +418,7 @@ quicken /'kwɪkən/ v
 ### 1.**使加快；使活跃；刺激；变快；(孕妇) 进入胎动期；变活跃**  
 
 
-# ***<font color=#0099ff>\*quickly</font>*** adv
+# ***\*quickly*** adv
 英音 'kwɪkli     美音 'kwɪkli  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -438,7 +438,7 @@ quicken /'kwɪkən/ v
 答案：
 1. quickly  
 
-# ***<font color=#0099ff>\*quiet</font>*** adj
+# ***\*quiet*** adj
 英音 'kwaɪət     美音 'kwaɪət  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -465,7 +465,7 @@ quicken /'kwɪkən/ v
 
 固定搭配
 ---
-## <font color=#0099ff>\*keep sth quiet / keep quiet about sth</font>
+## \*keep sth quiet / keep quiet about sth
 1.**对某事守口如瓶；保密：**  
 
  > *We want to give him a surprise, so please keep quiet about it.*  
@@ -476,7 +476,7 @@ quicken /'kwɪkən/ v
 ---
 quietly /'kwaɪətli/ adv   
 
-# ***<font color=#0099ff>\*quiet</font>*** n
+# ***\*quiet*** n
 英音 'kwaɪət     美音 'kwaɪət  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -493,7 +493,7 @@ quietly /'kwaɪətli/ adv
 四者均可用作形容词，均含有“静”的意思。  
 
 
-# ***<font color=#0099ff>\*quilt</font>*** n
+# ***\*quilt*** n
 英音 kwɪlt     美音 kwɪlt  
 
 | 词频 3 |  
@@ -505,7 +505,7 @@ quietly /'kwaɪətli/ adv
 ### 1.*高义频：* **被子；被褥：**  
 
 
-# ***<font color=#0099ff>\*quit</font>*** v
+# ***\*quit*** v
 英音 kwɪt     美音 kwɪt  
 
 | 词频 3 |  
@@ -532,7 +532,7 @@ quietly /'kwaɪətli/ adv
 ### 3.*高义频：* **关闭 / 退出 (计算机程序等)**  
 
 
-# ***<font color=#0099ff>\*quite</font>*** adv
+# ***\*quite*** adv
 英音 kwaɪt     美音 kwaɪt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -573,7 +573,7 @@ D.much
 答案：
 1. A  
 
-# ***<font color=#0099ff>\*quiz</font>*** n
+# ***\*quiz*** n
 英音 kwɪz     美音 kwɪz  
 
 | 词频 2 |  
@@ -588,7 +588,7 @@ D.much
  > 智力游戏节目    
 
 
-# ***<font color=#0099ff>\*quote</font>*** v
+# ***\*quote*** v
 英音 kwəʊt     美音 kwoʊt  
 
 | 词频 2 | 口语 2 | 书面 1 |  
@@ -603,7 +603,7 @@ D.much
  > 他引用了《圣经》中的话。    
 
 
-# ***<font color=#0099ff>\*quote</font>*** n
+# ***\*quote*** n
 英音 kwəʊt     美音 kwoʊt  
 
 | 词频 2 | 口语 2 |  

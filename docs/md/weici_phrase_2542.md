@@ -1,4 +1,4 @@
-# ***<font color=#0099ff>\*(all) by oneself</font>*** 
+# ***\*(all) by oneself*** 
 
 
   
@@ -8,7 +8,7 @@
 ### 1.**独自地；独立地**  
 
 
-# ***<font color=#0099ff>\*(all) day and (all) night</font>*** 
+# ***\*(all) day and (all) night*** 
 
 
   
@@ -21,7 +21,7 @@
  > 大雪不分昼夜地下，全城陷入交通大拥堵。    
 
 
-# ***<font color=#0099ff>\*(all) over again</font>*** 
+# ***\*(all) over again*** 
 
 
   
@@ -34,7 +34,7 @@
  > 他工作做得太差劲了,我只好亲自重做。    
 
 
-# ***<font color=#0099ff>\*(and) what is more</font>*** 
+# ***\*(and) what is more*** 
 
 
   
@@ -47,7 +47,7 @@
  > 天然气是一种很高效的燃料，而且是清洁的。    
 
 
-# ***<font color=#0099ff>\*(as) dry as dust</font>*** 
+# ***\*(as) dry as dust*** 
 
 
   
@@ -60,7 +60,7 @@
  > “你真是个蠢人！”门口那人说，声音干巴巴的。  （2006 江西）  
 
 
-# ***<font color=#0099ff>\*(at) any minute</font>*** 
+# ***\*(at) any minute*** 
 
 
   
@@ -73,7 +73,7 @@
  > 快点儿！他随时会回来。    
 
 
-# ***<font color=#0099ff>\*(at) any moment (now)</font>*** 
+# ***\*(at) any moment (now)*** 
 
 
   
@@ -86,7 +86,7 @@
  > 快点儿！他马上就会回来。    
 
 
-# ***<font color=#0099ff>\*(at) any time</font>*** 
+# ***\*(at) any time*** 
 
 
   
@@ -99,7 +99,7 @@
  > 不可预料的灾难随时可能发生。    
 
 
-# ***<font color=#0099ff>\*(at) the last moment</font>*** 
+# ***\*(at) the last moment*** 
 
 
   
@@ -112,7 +112,7 @@
  > 他们在最后一刻改变了计划。    
 
 
-# ***<font color=#0099ff>\*(be) allergic to</font>*** 
+# ***\*(be) allergic to*** 
 
 
   
@@ -125,7 +125,7 @@
  > 他对猫的毛过敏，她把小猫带进屋后他就开始打喷嚏。  （人教⑩ – 2）  
 
 
-# ***<font color=#0099ff>\*(be) ashamed of</font>*** 
+# ***\*(be) ashamed of*** 
 
 
   
@@ -141,7 +141,7 @@
  > 你应对自己的愚蠢行为感到羞耻。    
 
 
-# ***<font color=#0099ff>\*(be) associated with</font>*** 
+# ***\*(be) associated with*** 
 
 
   
@@ -154,7 +154,7 @@
  > 有些人称古典音乐仅仅与老年人有关。  （2014 安徽）  
 
 
-# ***<font color=#0099ff>\*(be) aware of</font>*** 
+# ***\*(be) aware of*** 
 
 
   
@@ -167,7 +167,7 @@
  > 所有邻居都知道这件事。    
 
 
-# ***<font color=#0099ff>\*(be) bent on (doing) sth</font>*** 
+# ***\*(be) bent on (doing) sth*** 
 
 
   
@@ -177,7 +177,7 @@
 ### 1.**下决心做某事**  
 
 
-# ***<font color=#0099ff>\*(be) beside the point</font>*** 
+# ***\*(be) beside the point*** 
 
 
   
@@ -187,7 +187,7 @@
 ### 1.**离题；与主题无关**  
 
 
-# ***<font color=#0099ff>\*(be) better off</font>*** 
+# ***\*(be) better off*** 
 
 
   
@@ -201,7 +201,7 @@
  > 总统希望他离任的时候人民会比他就职时更富裕。  （2012 江苏）  
 
 
-# ***<font color=#0099ff>\*(be) better off doing sth</font>*** 
+# ***\*(be) better off doing sth*** 
 
 
   
@@ -217,7 +217,7 @@
  > 我觉得你们乘飞机比较好。    
 
 
-# ***<font color=#0099ff>\*(be) blessed with</font>*** 
+# ***\*(be) blessed with*** 
 
 
   
@@ -230,7 +230,7 @@
  > 我有幸拥有一个幸福的童年，一个多数人想拥有的童年。  （外研⑥ – 3）  
 
 
-# ***<font color=#0099ff>\*(be) bored with</font>*** 
+# ***\*(be) bored with*** 
 
 
   
@@ -243,7 +243,7 @@
  > 因为厌倦了城市的生活，他搬到了一个偏远的村庄。  （译林 ⑦-1）  
 
 
-# ***<font color=#0099ff>\*(be) dying to</font>*** 
+# ***\*(be) dying to*** 
 
 
   
@@ -256,7 +256,7 @@
  > 我很想见你。    
 
 
-# ***<font color=#0099ff>\*(be) fed up with</font>*** 
+# ***\*(be) fed up with*** 
 
 
   
@@ -269,7 +269,7 @@
  > 我讨厌这种下雨天。    
 
 
-# ***<font color=#0099ff>\*(be) full of</font>*** 
+# ***\*(be) full of*** 
 
 
   
@@ -285,7 +285,7 @@
  > 公园里充满了春天的生机和美丽，阳光明媚、鸟鸣婉转。  （2012 福建）  
 
 
-# ***<font color=#0099ff>\*(be) identical to</font>*** 
+# ***\*(be) identical to*** 
 
 
   
@@ -295,7 +295,7 @@
 ### 1.**与……一样；与……一致**  
 
 
-# ***<font color=#0099ff>\*(be) in good / poor health</font>*** 
+# ***\*(be) in good / poor health*** 
 
 
   
@@ -311,7 +311,7 @@
  > 我爷爷78岁了，身体不太好。    
 
 
-# ***<font color=#0099ff>\*(be) in hospital</font>*** 
+# ***\*(be) in hospital*** 
 
 
   
@@ -325,7 +325,7 @@
 
 Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不加定冠词。  
 
-# ***<font color=#0099ff>\*(be) in touch (with)</font>*** 
+# ***\*(be) in touch (with)*** 
 
 
   
@@ -338,7 +338,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 你与以前的同事还有联系吗？    
 
 
-# ***<font color=#0099ff>\*(be) laden with</font>*** 
+# ***\*(be) laden with*** 
 
 
   
@@ -348,7 +348,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**（空气中）充溢着（某种味道）的**  
 
 
-# ***<font color=#0099ff>\*(be) lost in</font>*** 
+# ***\*(be) lost in*** 
 
 
   
@@ -364,7 +364,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 由于陷入了沉思，他差点儿撞上前面的车。    
 
 
-# ***<font color=#0099ff>\*(be) nervous about</font>*** 
+# ***\*(be) nervous about*** 
 
 
   
@@ -377,7 +377,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 我们当时都对即将到来的考试感到紧张不安。  （人教④ – 4）  
 
 
-# ***<font color=#0099ff>\*(be) nostalgic for</font>*** 
+# ***\*(be) nostalgic for*** 
 
 
   
@@ -387,7 +387,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**对……很怀念**  
 
 
-# ***<font color=#0099ff>\*(be) of … help</font>*** 
+# ***\*(be) of … help*** 
 
 
   
@@ -408,7 +408,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 很高兴我能帮上忙。    
 
 
-# ***<font color=#0099ff>\*(be) on good terms with</font>*** 
+# ***\*(be) on good terms with*** 
 
 
   
@@ -421,7 +421,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 我们与村子里的每个人都相处得很好。  （外研⑥ – 3）  
 
 
-# ***<font color=#0099ff>\*(be) on the phone</font>*** 
+# ***\*(be) on the phone*** 
 
 
   
@@ -434,7 +434,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 我打不通汉纳的电话，她哥哥一直在打电话。  （2008 湖南改）  
 
 
-# ***<font color=#0099ff>\*(be) out of touch (with)</font>*** 
+# ***\*(be) out of touch (with)*** 
 
 
   
@@ -447,7 +447,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 我们大约有两年没有和他们联系了。    
 
 
-# ***<font color=#0099ff>\*(be) pleased with oneself</font>*** 
+# ***\*(be) pleased with oneself*** 
 
 
   
@@ -457,7 +457,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**自鸣得意**  
 
 
-# ***<font color=#0099ff>\*(be) related to</font>*** 
+# ***\*(be) related to*** 
 
 
   
@@ -470,7 +470,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > “新四大发明”都与中国高科技创新有关。    
 
 
-# ***<font color=#0099ff>\*(be) restricted to</font>*** 
+# ***\*(be) restricted to*** 
 
 
   
@@ -480,7 +480,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**限于**  
 
 
-# ***<font color=#0099ff>\*(be) sceptical about / of</font>*** 
+# ***\*(be) sceptical about / of*** 
 
 
   
@@ -493,7 +493,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 她怀疑一切。    
 
 
-# ***<font color=#0099ff>\*(be) short for</font>*** 
+# ***\*(be) short for*** 
 
 
   
@@ -506,7 +506,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > UN是UnitedNations的简称。    
 
 
-# ***<font color=#0099ff>\*(be) short of</font>*** 
+# ***\*(be) short of*** 
 
 
   
@@ -522,7 +522,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 这个报告似乎缺乏事实依据。    
 
 
-# ***<font color=#0099ff>\*(be) strict with ...</font>*** 
+# ***\*(be) strict with ...*** 
 
 
   
@@ -535,7 +535,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 我认为老师应该对学生严格要求。    
 
 
-# ***<font color=#0099ff>\*(be) supposed to be / to do sth</font>*** 
+# ***\*(be) supposed to be / to do sth*** 
 
 
   
@@ -556,7 +556,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 这里不可以吸烟。    
 
 
-# ***<font color=#0099ff>\*(be) true of / for</font>*** 
+# ***\*(be) true of / for*** 
 
 
   
@@ -566,7 +566,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**与……情况相同**  
 
 
-# ***<font color=#0099ff>\*(be) worried sick</font>*** 
+# ***\*(be) worried sick*** 
 
 
   
@@ -579,7 +579,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 我们非常担心你，你还好吗？    
 
 
-# ***<font color=#0099ff>\*(every) now and then / again</font>*** 
+# ***\*(every) now and then / again*** 
 
 
   
@@ -595,7 +595,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 他偶尔还来看我。    
 
 
-# ***<font color=#0099ff>\*(from) door to door</font>*** 
+# ***\*(from) door to door*** 
 
 
   
@@ -608,7 +608,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 春节第一天，大多数家庭挨家挨户去拜年。    
 
 
-# ***<font color=#0099ff>\*(it is) no wonder (that)</font>*** 
+# ***\*(it is) no wonder (that)*** 
 
 
   
@@ -624,7 +624,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 她的孩子不见了，难怪她如此心神不宁。    
 
 
-# ***<font color=#0099ff>\*(just) around / round the corner</font>*** 
+# ***\*(just) around / round the corner*** 
 
 
   
@@ -640,12 +640,12 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 胜利在望。    
 
 
-# ***<font color=#0099ff>\*(just) in case</font>*** 
+# ***\*(just) in case*** 
 
 
   
 
-# ***<font color=#0099ff>\*(or) rather</font>*** 
+# ***\*(or) rather*** 
 
 
   
@@ -658,7 +658,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 他昨晚一直工作到深夜，更确切地说，是到今天凌晨。    
 
 
-# ***<font color=#0099ff>\*(the) Netherlands</font>*** n
+# ***\*(the) Netherlands*** n
 英音 'neðələndz     美音 'neðərləndz  
 
 | 词频 1 |  
@@ -668,7 +668,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **荷兰 (西欧国家)**  
 
 
-# ***<font color=#0099ff>\*(the) same to you</font>*** 
+# ***\*(the) same to you*** 
 
 
   
@@ -684,7 +684,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 玛丽，谢谢！你也保重！    
 
 
-# ***<font color=#0099ff>\*(yours) sincerely</font>*** 
+# ***\*(yours) sincerely*** 
 
 
   
@@ -694,7 +694,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**[用于正式信件末尾] 敬上； 谨上**  
 
 
-# ***<font color=#0099ff>\*AD / A. D.</font>*** abbr
+# ***\*AD / A. D.*** abbr
 英音 ˌeɪ 'diː     美音 ˌeɪ 'diː  
 
 | 词频 3 | 口语 3 | 书面 3 |  
@@ -704,7 +704,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **公元（Anno Domini）**  
 
 
-# ***<font color=#0099ff>\*Absolutely not!</font>*** 
+# ***\*Absolutely not!*** 
 
 
   
@@ -720,7 +720,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 当然不!    
 
 
-# ***<font color=#0099ff>\*Academy of Arts</font>*** 
+# ***\*Academy of Arts*** 
 
 
   
@@ -730,7 +730,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**艺术学院**  
 
 
-# ***<font color=#0099ff>\*Achilles' heel</font>*** 
+# ***\*Achilles' heel*** 
 
 
   
@@ -740,7 +740,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**致命弱点；死穴**  
 
 
-# ***<font color=#0099ff>\*Akira Nagata</font>*** 
+# ***\*Akira Nagata*** 
 英音 ə'kɪrə nə'ɡɑːtɑː     美音 ə'kɪrə nə'ɡɑːtɑː  
 
 | 词频 1 |  
@@ -750,7 +750,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **永田明**  
 
 
-# ***<font color=#0099ff>\*Alan Turing</font>*** 
+# ***\*Alan Turing*** 
 英音 'ælən 'tjuəriŋ     美音 'ælən 'tjuəriŋ  
 
 | 词频 1 |  
@@ -760,7 +760,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **艾伦·图灵 (英国数学家)**  
 
 
-# ***<font color=#0099ff>\*Albert Einstein</font>*** 
+# ***\*Albert Einstein*** 
 英音 'ælbət 'ainstain     美音 'ælbət 'ainstain  
 
 | 词频 1 |  
@@ -770,7 +770,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **阿尔伯特·爱因斯坦 (德裔美国科学家)**  
 
 
-# ***<font color=#0099ff>\*All the best!</font>*** 
+# ***\*All the best!*** 
 
 
   
@@ -780,7 +780,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**[告别时用语；信函最后的问候语]祝一切顺利！**  
 
 
-# ***<font color=#0099ff>\*Andrew Hallidie</font>*** 
+# ***\*Andrew Hallidie*** 
 英音 ˈændru: ˈhælɪdaɪ     美音  ˈændru ˈhælɪdɪ  
 
 | 词频 1 |  
@@ -790,7 +790,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **安德鲁·哈利迪**  
 
 
-# ***<font color=#0099ff>\*Angel Island</font>*** 
+# ***\*Angel Island*** 
 英音 'eɪndʒl 'aɪlənd     美音 'eɪndʒl 'aɪlənd  
 
   
@@ -800,7 +800,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **天使岛**  
 
 
-# ***<font color=#0099ff>\*Auld Lang Syne</font>*** 
+# ***\*Auld Lang Syne*** 
 
 
   
@@ -810,7 +810,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**友谊地久天长（苏格兰民歌，通常在新年前夕的）**  
 
 
-# ***<font color=#0099ff>\*BC / B.C.</font>*** abbr
+# ***\*BC / B.C.*** abbr
 英音 ˌbiː'siː     美音 ˌbiː'siː  
 
 | 词频 2 |  
@@ -820,7 +820,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **公元前 (Before Christ)**  
 
 
-# ***<font color=#0099ff>\*Barry Minto</font>*** 
+# ***\*Barry Minto*** 
 英音 ˈbæri 'mɪntəʊ     美音 ˈbæri 'mɪntoʊ  
 
 | 词频 1 |  
@@ -830,7 +830,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **巴里·明托**  
 
 
-# ***<font color=#0099ff>\*Bering Strait</font>*** 
+# ***\*Bering Strait*** 
 英音 'beriŋ streɪt     美音 ˈberɪŋ streɪt  
 
 | 词频 1 |  
@@ -840,7 +840,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **白令海峡**  
 
 
-# ***<font color=#0099ff>\*Big Bang</font>*** 
+# ***\*Big Bang*** 
 英音 bɪɡ bæŋ     美音 bɪɡ bæŋ  
 
 | 词频 1 |  
@@ -850,7 +850,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **宇宙大爆炸；创世大爆炸**  
 
 
-# ***<font color=#0099ff>\*Buckingham Palace</font>*** 
+# ***\*Buckingham Palace*** 
 英音 ˌbʌkɪŋəm'pæləs     美音 ˌbʌkɪŋəm'pæləs  
 
 | 词频 1 |  
@@ -860,7 +860,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **白金汉宫**  
 
 
-# ***<font color=#0099ff>\*Cambridge Street</font>*** 
+# ***\*Cambridge Street*** 
 英音 'kæmbrɪdʒ striːt     美音 'kæmbrɪdʒ striːt  
 
 | 词频 1 |  
@@ -870,7 +870,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **剑桥大街**  
 
 
-# ***<font color=#0099ff>\*Camelot Park</font>*** 
+# ***\*Camelot Park*** 
 英音 'kæməlɒt pɑːk     美音 'kæməlɑt pɑːrk  
 
 | 词频 1 |  
@@ -880,7 +880,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **卡默洛特公园 (位于英国)**  
 
 
-# ***<font color=#0099ff>\*Central Park</font>*** 
+# ***\*Central Park*** 
 英音 'sentrəl pɑːk     美音 'sentrəl pɑːrk  
 
 | 词频 1 |  
@@ -890,7 +890,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **中央公园 (位于美国纽约)**  
 
 
-# ***<font color=#0099ff>\*Charles Babbage</font>*** 
+# ***\*Charles Babbage*** 
 英音 'tʃa:lz 'bæbidʒ     美音 'tʃa:lz 'bæbidʒ  
 
 | 词频 1 |  
@@ -900,7 +900,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **查尔斯·巴比奇 (英国数学教授)**  
 
 
-# ***<font color=#0099ff>\*China Welfare Institute</font>*** 
+# ***\*China Welfare Institute*** 
 
 
 | 词频 1 |  
@@ -910,7 +910,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **中国福利基金会**  
 
 
-# ***<font color=#0099ff>\*Christopher Columbus</font>*** n
+# ***\*Christopher Columbus*** n
 英音 'kristəfə  kə'lʌmbəs     美音 'kristəfə  kə'lʌmbəs  
 
 | 词频 1 |  
@@ -920,7 +920,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **克里斯托弗·哥伦布 (意大利航海家)**  
 
 
-# ***<font color=#0099ff>\*Colobus monkey</font>*** 
+# ***\*Colobus monkey*** 
 英音 'kɒləbəs 'mʌŋki     美音 'kɑːləbəs 'mʌŋki  
 
 | 词频 1 |  
@@ -930,7 +930,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **(非洲产) 疣猴；髯猴**  
 
 
-# ***<font color=#0099ff>\*Columbus Day</font>*** 
+# ***\*Columbus Day*** 
 英音 kə'lʌmbəsdeɪ     美音 kə'lʌmbəsdeɪ  
 
 | 词频 1 |  
@@ -940,7 +940,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **哥伦布日**  
 
 
-# ***<font color=#0099ff>\*Don't mention it.</font>*** 
+# ***\*Don't mention it.*** 
 
 
   
@@ -950,7 +950,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**[答复别人道谢时的用语] 不用客气。**  
 
 
-# ***<font color=#0099ff>\*Elizabeth Fry</font>*** 
+# ***\*Elizabeth Fry*** 
 英音 ɪ'lɪzəbəθ 'fraɪ     美音 ɪ'lɪzəbəθ 'fraɪ  
 
 | 词频 1 |  
@@ -960,7 +960,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **伊丽莎白·弗赖伊 (英国慈善家)**  
 
 
-# ***<font color=#0099ff>\*George Bernard Shaw</font>*** 
+# ***\*George Bernard Shaw*** 
 
 
 | 词频 1 |  
@@ -970,7 +970,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **乔治·伯纳徳·萧 (也译萧伯纳，英国剧作家)**  
 
 
-# ***<font color=#0099ff>\*George Hambley</font>*** 
+# ***\*George Hambley*** 
 英音 dʒɔ:dʒ 'hæmblɪ     美音 dʒɔ:dʒ 'hæmblɪ  
 
 | 词频 1 |  
@@ -980,7 +980,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **乔治·汉布利**  
 
 
-# ***<font color=#0099ff>\*Giotto di Bondone</font>*** 
+# ***\*Giotto di Bondone*** 
 英音 'dʒɔtəʊ dɪ 'bɔndəni     美音 'dʒɔtəʊ dɪ 'bɔndən  
 
 | 词频 1 |  
@@ -990,7 +990,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **乔托 (意大利画家、雕刻家、建筑师)**  
 
 
-# ***<font color=#0099ff>\*Gladys Claffern</font>*** 
+# ***\*Gladys Claffern*** 
 
 
 | 词频 1 |  
@@ -1000,7 +1000,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **格拉迪斯·克拉芬**  
 
 
-# ***<font color=#0099ff>\*Goldbach's Conjecture</font>*** 
+# ***\*Goldbach's Conjecture*** 
 
 
   
@@ -1010,7 +1010,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**哥德巴赫猜想**  
 
 
-# ***<font color=#0099ff>\*Gombe National Park</font>*** 
+# ***\*Gombe National Park*** 
 
 
 | 词频 1 |  
@@ -1020,7 +1020,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **贡贝国家公园 (位于坦桑尼亚)**  
 
 
-# ***<font color=#0099ff>\*Goodwill Ambassador</font>*** n
+# ***\*Goodwill Ambassador*** n
 
 
   
@@ -1030,7 +1030,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**亲善大使**  
 
 
-# ***<font color=#0099ff>\*Gregorian calendar</font>*** 
+# ***\*Gregorian calendar*** 
 
 
   
@@ -1040,7 +1040,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**公历，阳历（自1582年起在西方使用的历法）**  
 
 
-# ***<font color=#0099ff>\*Guggenheim Museum</font>*** 
+# ***\*Guggenheim Museum*** 
 英音 'ɡʊɡənhaɪm mju'ziːəm     美音 'ɡʊɡənhaɪm mju'ziːəm  
 
 | 词频 1 |  
@@ -1050,7 +1050,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **古根海姆博物馆**  
 
 
-# ***<font color=#0099ff>\*Highgate Cemetery</font>*** 
+# ***\*Highgate Cemetery*** 
 英音 'haiɡeit 'semətri     美音 'haiɡeit 'seməteri  
 
 | 词频 1 |  
@@ -1060,7 +1060,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **海格特墓地 (英伦敦北郊，内有马克思及家人的坟墓)**  
 
 
-# ***<font color=#0099ff>\*How can / could sb do sth?</font>*** 
+# ***\*How can / could sb do sth?*** 
 
 
   
@@ -1073,7 +1073,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 你怎么能说这种话呢？    
 
 
-# ***<font color=#0099ff>\*How come (...)?</font>*** 
+# ***\*How come (...)?*** 
 
 
   
@@ -1092,7 +1092,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 怎么可能？    
 
 
-# ***<font color=#0099ff>\*How do you like ...?</font>*** 
+# ***\*How do you like ...?*** 
 
 
   
@@ -1105,7 +1105,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 你认为这幅油画怎么样？  （2008 上海）  
 
 
-# ***<font color=#0099ff>\*I beg to differ</font>*** 
+# ***\*I beg to differ*** 
 
 
   
@@ -1121,7 +1121,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 抱歉，我不敢苟同。意见相反的人有时也会互相吸引。  （2016 江苏）  
 
 
-# ***<font color=#0099ff>\*I beg your pardon</font>*** 
+# ***\*I beg your pardon*** 
 
 
   
@@ -1145,7 +1145,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 对不起，我不知道这座位是你的。    
 
 
-# ***<font color=#0099ff>\*I bet</font>*** 
+# ***\*I bet*** 
 
 
   
@@ -1159,7 +1159,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 我相信明天一定会下雨。    
 
 
-# ***<font color=#0099ff>\*I mean</font>*** 
+# ***\*I mean*** 
 
 
   
@@ -1175,7 +1175,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 唉，它根本发动不起来，我是说，我转动了钥匙，结果什么反应也没有。    
 
 
-# ***<font color=#0099ff>\*I say</font>*** 
+# ***\*I say*** 
 
 
   
@@ -1188,7 +1188,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 哎，汤姆，我想和你说句话。    
 
 
-# ***<font color=#0099ff>\*I trust (that)</font>*** 
+# ***\*I trust (that)*** 
 
 
   
@@ -1201,7 +1201,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 我相信一切都会很顺利。    
 
 
-# ***<font color=#0099ff>\*I wonder if / whether</font>*** 
+# ***\*I wonder if / whether*** 
 
 
   
@@ -1217,7 +1217,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 不知道我们是否能一起吃午饭。  （2013 北京）  
 
 
-# ***<font color=#0099ff>\*I'd like to.</font>*** 
+# ***\*I'd like to.*** 
 
 
   
@@ -1227,7 +1227,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**[省略句，作答语用] 我愿意。**  
 
 
-# ***<font color=#0099ff>\*I'm afraid</font>*** 
+# ***\*I'm afraid*** 
 
 
   
@@ -1254,7 +1254,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 恐怕迟到了。    
 
 
-# ***<font color=#0099ff>\*Impressionist Movement</font>*** n
+# ***\*Impressionist Movement*** n
 
 
   
@@ -1264,7 +1264,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**印象主义运动**  
 
 
-# ***<font color=#0099ff>\*Inca Empire</font>*** 
+# ***\*Inca Empire*** 
 
 
   
@@ -1274,7 +1274,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **印加帝国**  
 
 
-# ***<font color=#0099ff>\*Internet cafe</font>*** n
+# ***\*Internet cafe*** n
 
 
   
@@ -1284,7 +1284,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**网吧**  
 
 
-# ***<font color=#0099ff>\*Isaac Asimov</font>*** 
+# ***\*Isaac Asimov*** 
 
 
 | 词频 1 |  
@@ -1294,7 +1294,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **艾萨克·阿西莫夫**  
 
 
-# ***<font color=#0099ff>\*It / That (all) depends.</font>*** 
+# ***\*It / That (all) depends.*** 
 
 
   
@@ -1310,7 +1310,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 我不知道，那得看情况。    
 
 
-# ***<font color=#0099ff>\*It's / That's all right.</font>*** 
+# ***\*It's / That's all right.*** 
 
 
   
@@ -1320,7 +1320,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**没关系。/ 不用谢。**  
 
 
-# ***<font color=#0099ff>\*It's a great pity that ...</font>*** 
+# ***\*It's a great pity that ...*** 
 
 
   
@@ -1330,7 +1330,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**很可惜……**  
 
 
-# ***<font color=#0099ff>\*It's all right.</font>*** 
+# ***\*It's all right.*** 
 
 
   
@@ -1340,7 +1340,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**别怕。/ 没事的。**  
 
 
-# ***<font color=#0099ff>\*James Dyson</font>*** 
+# ***\*James Dyson*** 
 英音 'dʒeimz 'daɪsən     美音 'dʒeimz 'daɪsən  
 
 | 词频 1 |  
@@ -1350,7 +1350,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **詹姆斯·戴森 (英国发明家)**  
 
 
-# ***<font color=#0099ff>\*Jane Goodall</font>*** n
+# ***\*Jane Goodall*** n
 英音 dʒein ɡʊdɒːl     美音 dʒein ɡʊdɑːl  
 
 | 词频 1 |  
@@ -1360,7 +1360,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **简·古道尔 (英国动物学家)**  
 
 
-# ***<font color=#0099ff>\*Joan of Arc</font>*** n
+# ***\*Joan of Arc*** n
 英音 'dʒəʊn əv 'ɑ:k     美音 'dʒəʊn əv 'ɑ:k  
 
 | 词频 1 |  
@@ -1370,7 +1370,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **圣女贞德 (法国民族女英雄)**  
 
 
-# ***<font color=#0099ff>\*Jody Williams</font>*** 
+# ***\*Jody Williams*** 
 英音 ˈdʒəudi 'wɪljəmz     美音 ˈdʒoʊdi 'wɪljəmz  
 
 | 词频 1 |  
@@ -1380,7 +1380,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **乔迪·威廉斯 (美国诺贝尔和平奖获得者)**  
 
 
-# ***<font color=#0099ff>\*Jurassic Park</font>*** 
+# ***\*Jurassic Park*** 
 
 
   
@@ -1390,7 +1390,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **侏罗纪公园 (美国电影名)**  
 
 
-# ***<font color=#0099ff>\*Lake Superior</font>*** 
+# ***\*Lake Superior*** 
 英音 leɪk suː'pɪəriə(r)     美音 leɪk suː'pɪriər  
 
 | 词频 1 |  
@@ -1400,7 +1400,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **苏必利尔湖**  
 
 
-# ***<font color=#0099ff>\*Lake Titicaca</font>*** 
+# ***\*Lake Titicaca*** 
 
 
   
@@ -1410,7 +1410,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **的的喀喀湖**  
 
 
-# ***<font color=#0099ff>\*Larry Belmont</font>*** 
+# ***\*Larry Belmont*** 
 
 
 | 词频 1 |  
@@ -1420,7 +1420,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **拉里·贝尔蒙特**  
 
 
-# ***<font color=#0099ff>\*Leonardo da Vinci</font>*** 
+# ***\*Leonardo da Vinci*** 
 英音 ˌliːəˈnɑ:dəu deˈvintʃi     美音 ˌliːəˈnɑ:dəu deˈvintʃi  
 
 | 词频 1 |  
@@ -1430,7 +1430,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **列奥纳多·达·芬奇 (意大利著名画家)**  
 
 
-# ***<font color=#0099ff>\*London Heathrow Airport</font>*** 
+# ***\*London Heathrow Airport*** 
 英音 'lʌndən 'hi:θrəu 'eəpɔːt     美音 'lʌndən 'hi:θrəu 'erpɔːrt  
 
 | 词频 1 |  
@@ -1440,7 +1440,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **伦敦希思罗机场**  
 
 
-# ***<font color=#0099ff>\*Los Angeles</font>*** n
+# ***\*Los Angeles*** n
 英音 lɔs'ændʒələs     美音 lɔs'ændʒələs  
 
 | 词频 3 |  
@@ -1450,7 +1450,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **洛杉矶**  
 
 
-# ***<font color=#0099ff>\*Machu Picchu</font>*** 
+# ***\*Machu Picchu*** 
 
 
   
@@ -1460,7 +1460,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **马丘比丘 (秘鲁)**  
 
 
-# ***<font color=#0099ff>\*Mark Twain</font>*** n
+# ***\*Mark Twain*** n
 英音 ˈmɑ:kˈtwein     美音 ˈmɑ:kˈtwein  
 
 | 词频 1 |  
@@ -1470,7 +1470,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **马克·吐温 (美国作家)**  
 
 
-# ***<font color=#0099ff>\*Marty Fielding</font>*** n
+# ***\*Marty Fielding*** n
 英音 ˈmɑ:tɪ 'fiːldɪŋ     美音 ˈmɑ:tɪ 'fiːldɪŋ  
 
 | 词频 1 |  
@@ -1480,7 +1480,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **马蒂·菲尔丁**  
 
 
-# ***<font color=#0099ff>\*Me neither.</font>*** 
+# ***\*Me neither.*** 
 
 
   
@@ -1490,7 +1490,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**我也不 (…)。**  
 
 
-# ***<font color=#0099ff>\*Milu deer</font>*** 
+# ***\*Milu deer*** 
 英音 mɪ'luː dɪə(r)     美音 mɪ'luː dɪr  
 
 | 词频 1 |  
@@ -1500,7 +1500,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **麋鹿**  
 
 
-# ***<font color=#0099ff>\*Mona Lisa</font>*** 
+# ***\*Mona Lisa*** 
 英音 'məunə 'li:zə     美音 'məunə 'li:zə  
 
 | 词频 1 |  
@@ -1510,7 +1510,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **蒙娜·丽莎 (达·芬奇所作的一幅著名肖像画)**  
 
 
-# ***<font color=#0099ff>\*Mount Etna</font>*** 
+# ***\*Mount Etna*** 
 英音 maʊnt 'etnə     美音 maʊnt 'etnə  
 
 | 词频 1 |  
@@ -1520,7 +1520,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **埃特纳火山 (意大利西西里岛东北部)**  
 
 
-# ***<font color=#0099ff>\*Mount Kilauea</font>*** 
+# ***\*Mount Kilauea*** 
 英音 maʊnt kɪlə'wɪə     美音 maʊnt kɪlə'wɪə  
 
 | 词频 1 |  
@@ -1530,7 +1530,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **基拉韦厄火山**  
 
 
-# ***<font color=#0099ff>\*Mount Kilimanjaro</font>*** n
+# ***\*Mount Kilimanjaro*** n
 英音 maʊnt ˈkilimənˈdʒɑ:rəu     美音 maʊnt ˌkɪləmənˈdʒɑro  
 
 | 词频 1 |  
@@ -1540,7 +1540,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **乞力马扎罗山 (位于坦桑尼亚；非洲最高山)**  
 
 
-# ***<font color=#0099ff>\*Mount Vesuvius</font>*** 
+# ***\*Mount Vesuvius*** 
 英音 maʊnt viˈsu:vjəs     美音 maʊnt viˈsu:vjəs  
 
 | 词频 1 |  
@@ -1550,7 +1550,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **维苏威火山**  
 
 
-# ***<font color=#0099ff>\*Native American Indian</font>*** n
+# ***\*Native American Indian*** n
 
 
   
@@ -1560,7 +1560,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**北美印第安人**  
 
 
-# ***<font color=#0099ff>\*Never mind.</font>*** 
+# ***\*Never mind.*** 
 
 
   
@@ -1570,7 +1570,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**不要紧。/ 没关系。**  
 
 
-# ***<font color=#0099ff>\*New Zealand</font>*** n
+# ***\*New Zealand*** n
 英音 njuː 'ziːlənd     美音 njuː 'ziːlənd  
 
   
@@ -1580,7 +1580,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **新西兰**  
 
 
-# ***<font color=#0099ff>\*New Zealander</font>*** n
+# ***\*New Zealander*** n
 英音 ˌnjuː'ziːləndə(r)     美音 ˌnuː'ziːləndər  
 
   
@@ -1590,7 +1590,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **新西兰人**  
 
 
-# ***<font color=#0099ff>\*Nicolaus Copernicus</font>*** 
+# ***\*Nicolaus Copernicus*** 
 英音 'nɪkələs kəʊ'pɜːnɪkəs     美音 'nɪkələs kəʊ'pɜːnɪkəs  
 
 | 词频 1 |  
@@ -1600,7 +1600,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **尼古拉·哥白尼 (波兰天文学家)**  
 
 
-# ***<font color=#0099ff>\*Nobel Peace Prize</font>*** 
+# ***\*Nobel Peace Prize*** 
 英音 nəʊˈbel piːs praɪz     美音 noʊˈbɛl piːs praɪz  
 
 | 词频 1 |  
@@ -1610,7 +1610,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **诺贝尔和平奖**  
 
 
-# ***<font color=#0099ff>\*Northern Ireland</font>*** 
+# ***\*Northern Ireland*** 
 英音 'nɔːðən 'aɪələnd     美音 'nɔːrðərn 'aɪrlənd  
 
 | 词频 1 |  
@@ -1620,7 +1620,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **北爱尔兰　(英)**  
 
 
-# ***<font color=#0099ff>\*Not likely!</font>*** 
+# ***\*Not likely!*** 
 
 
   
@@ -1636,7 +1636,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 不会！  （2010 浙江改）  
 
 
-# ***<font color=#0099ff>\*Not really.</font>*** 
+# ***\*Not really.*** 
 
 
   
@@ -1646,7 +1646,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**[表示否定，语气较弱] 不是。**  
 
 
-# ***<font color=#0099ff>\*Orientation Day</font>*** 
+# ***\*Orientation Day*** 
 
 
   
@@ -1656,7 +1656,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**迎新日**  
 
 
-# ***<font color=#0099ff>\*Papua New Guinea</font>*** 
+# ***\*Papua New Guinea*** 
 
 
 | 词频 1 |  
@@ -1666,7 +1666,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **巴布亚新几内亚**  
 
 
-# ***<font color=#0099ff>\*Plains Indian</font>*** n
+# ***\*Plains Indian*** n
 
 
   
@@ -1676,7 +1676,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**平原印第安人；大草原印第安人**  
 
 
-# ***<font color=#0099ff>\*Prime Minister</font>*** n
+# ***\*Prime Minister*** n
 
 
   
@@ -1689,7 +1689,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 首相已组建了新内阁。    
 
 
-# ***<font color=#0099ff>\*River Avon</font>*** 
+# ***\*River Avon*** 
 英音 'rɪvə(r) ˈeivɔn     美音 'rɪvər ˈevən  
 
 | 词频 1 |  
@@ -1699,7 +1699,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **埃文河**  
 
 
-# ***<font color=#0099ff>\*River Severn</font>*** 
+# ***\*River Severn*** 
 英音 'rɪvə(r) 'sevən     美音 'rɪvər 'sevən  
 
 | 词频 1 |  
@@ -1709,7 +1709,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **塞文河**  
 
 
-# ***<font color=#0099ff>\*River Thames</font>*** 
+# ***\*River Thames*** 
 英音 'rɪvə(r) temz     美音 'rɪvər temz  
 
 | 词频 1 |  
@@ -1719,7 +1719,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **泰晤士河**  
 
 
-# ***<font color=#0099ff>\*Samuel Langhorne Clemens</font>*** 
+# ***\*Samuel Langhorne Clemens*** 
 英音 'sæmjuəl 'læŋhɔ:n 'klemənz     美音 'sæmjuəl 'læŋhɔ:n 'klemənz  
 
 | 词频 1 |  
@@ -1729,7 +1729,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **塞缪尔·兰霍恩·克莱门斯 (人名)**  
 
 
-# ***<font color=#0099ff>\*San Francisco</font>*** n
+# ***\*San Francisco*** n
 英音 sɑ:n frænˈsɪskəʊ     美音 sɑ:n frænˈsɪskəʊ  
 
 | 词频 3 |  
@@ -1739,7 +1739,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **圣弗朗西斯科 (也称旧金山)**  
 
 
-# ***<font color=#0099ff>\*Sherlock Holmes</font>*** n
+# ***\*Sherlock Holmes*** n
 英音 ˈʃɜ:lɔk həʊmz     美音 ˈʃə:lɑk homz  
 
 | 词频 1 |  
@@ -1749,7 +1749,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **夏洛克·福尔摩斯**  
 
 
-# ***<font color=#0099ff>\*So what?</font>*** 
+# ***\*So what?*** 
 
 
   
@@ -1765,7 +1765,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 那又怎样？我才不在乎安德鲁怎么想呢！    
 
 
-# ***<font color=#0099ff>\*South Africa</font>*** n
+# ***\*South Africa*** n
 英音 saʊθ 'æfrɪkə     美音 saʊθ 'æfrɪkə  
 
   
@@ -1775,7 +1775,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **南非**  
 
 
-# ***<font color=#0099ff>\*South African</font>*** adj
+# ***\*South African*** adj
 英音 ˌsaʊθ'æfrɪkən     美音 ˌsaʊθ'æfrɪkən  
 
   
@@ -1785,7 +1785,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **南非的；南非人的**  
 
 
-# ***<font color=#0099ff>\*South African</font>*** n
+# ***\*South African*** n
 英音 ˌsaʊθ'æfrɪkən     美音 ˌsaʊθ'æfrɪkən  
 
   
@@ -1795,7 +1795,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **南非人**  
 
 
-# ***<font color=#0099ff>\*South Korea</font>*** n
+# ***\*South Korea*** n
 英音 ˌsaʊθkə'riə     美音 ˌsaʊθkə'riə  
 
   
@@ -1805,7 +1805,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **韩国**  
 
 
-# ***<font color=#0099ff>\*St Lawrence River</font>*** 
+# ***\*St Lawrence River*** 
 英音 'seint 'lɔrəns 'rɪvə(r)     美音 'seint 'lɔrəns 'rɪvər  
 
 | 词频 1 |  
@@ -1815,7 +1815,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **圣劳伦斯河**  
 
 
-# ***<font color=#0099ff>\*St Paul's Cathedral</font>*** 
+# ***\*St Paul's Cathedral*** 
 英音 sənt pɔ:lz kə'θi:drəl     美音 sənt pɔ:lz kə'θi:drəl  
 
 | 词频 1 |  
@@ -1825,7 +1825,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **圣保罗大教堂**  
 
 
-# ***<font color=#0099ff>\*St Petersburg</font>*** n
+# ***\*St Petersburg*** n
 英音 seɪnt ˈpi:təzbə:ɡ     美音 seɪnt ˈpi:təzbə:ɡ   
 
 | 词频 1 |  
@@ -1835,7 +1835,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **圣彼得堡 (俄罗斯城市)**  
 
 
-# ***<font color=#0099ff>\*Swan Lake</font>*** 
+# ***\*Swan Lake*** 
 
 
   
@@ -1845,7 +1845,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**(芭蕾舞剧) 天鹅湖**  
 
 
-# ***<font color=#0099ff>\*TV series</font>*** 
+# ***\*TV series*** 
 
 
   
@@ -1855,7 +1855,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**电视连续剧**  
 
 
-# ***<font color=#0099ff>\*The Mid-Autumn Festival</font>*** 
+# ***\*The Mid-Autumn Festival*** 
 
 
   
@@ -1865,7 +1865,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**中秋节**  
 
 
-# ***<font color=#0099ff>\*There's no doubt that ...</font>*** 
+# ***\*There's no doubt that ...*** 
 
 
   
@@ -1875,7 +1875,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**毫无疑问**  
 
 
-# ***<font color=#0099ff>\*Thunder Bay</font>*** 
+# ***\*Thunder Bay*** 
 英音 ˌθʌndə'beɪ     美音 ˌθʌndər'beɪ  
 
 | 词频 1 |  
@@ -1885,7 +1885,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **桑德湾**  
 
 
-# ***<font color=#0099ff>\*Tibetan antelope</font>*** n
+# ***\*Tibetan antelope*** n
 英音 tɪ'betn 'æntlˌəʊp     美音 tɪ'betn 'æntlˌəʊp  
 
 | 词频 1 |  
@@ -1895,7 +1895,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**藏羚羊**  
 
 
-# ***<font color=#0099ff>\*Tom Sawyer</font>*** n
+# ***\*Tom Sawyer*** n
 英音 tɒm 'sɔ:jə     美音 tɑːm 'sɔ:jə  
 
 | 词频 1 |  
@@ -1905,7 +1905,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **汤姆·索亚 (人名)**  
 
 
-# ***<font color=#0099ff>\*Two heads are better than one.</font>*** 
+# ***\*Two heads are better than one.*** 
 
 
   
@@ -1915,7 +1915,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**三个臭皮匠，顶个诸葛亮。**  
 
 
-# ***<font color=#0099ff>\*Valentine's Day</font>*** n
+# ***\*Valentine's Day*** n
 英音 'væləntaɪnz 'dei     美音 'væləntaɪnz 'dei  
 
 | 词频 1 |  
@@ -1925,7 +1925,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **圣瓦伦丁节；情人节**  
 
 
-# ***<font color=#0099ff>\*Westminster Abbey</font>*** 
+# ***\*Westminster Abbey*** 
 英音 'westmɪnstə 'æbi     美音 'westˌmɪnstər 'æbi  
 
 | 词频 1 |  
@@ -1935,7 +1935,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **威斯敏斯特教堂 (英国名人墓地)**  
 
 
-# ***<font color=#0099ff>\*What / How about ...?</font>*** 
+# ***\*What / How about ...?*** 
 
 
   
@@ -1951,7 +1951,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 在附近的饭店见面怎么样？    
 
 
-# ***<font color=#0099ff>\*What a shame!</font>*** 
+# ***\*What a shame!*** 
 
 
   
@@ -1961,7 +1961,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**真遗憾！**  
 
 
-# ***<font color=#0099ff>\*What became / has become of …? / What will become of …?</font>*** 
+# ***\*What became / has become of …? / What will become of …?*** 
 
 
   
@@ -1977,7 +1977,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 比赛要是输了，你会怎么样？    
 
 
-# ***<font color=#0099ff>\*What do you mean ... ?</font>*** 
+# ***\*What do you mean ... ?*** 
 
 
   
@@ -2000,7 +2000,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 你这是什么意思？你以为我会不在意吗？    
 
 
-# ***<font color=#0099ff>\*What's wrong with …?</font>*** 
+# ***\*What's wrong with …?*** 
 
 
   
@@ -2013,7 +2013,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 我不知道引擎出了什么问题。    
 
 
-# ***<font color=#0099ff>\*Why sb?</font>*** 
+# ***\*Why sb?*** 
 
 
   
@@ -2023,7 +2023,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**为什么是某人？**  
 
 
-# ***<font color=#0099ff>\*Wild Man of Shennongjia</font>*** n
+# ***\*Wild Man of Shennongjia*** n
 
 
   
@@ -2033,7 +2033,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**神农架野人**  
 
 
-# ***<font color=#0099ff>\*Yangtze River dolphin</font>*** 
+# ***\*Yangtze River dolphin*** 
 
 
   
@@ -2043,7 +2043,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**白鳍豚**  
 
 
-# ***<font color=#0099ff>\*You bet!</font>*** 
+# ***\*You bet!*** 
 
 
   
@@ -2059,7 +2059,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 当然去！你跟我一起去吗？  （2017 江苏）  
 
 
-# ***<font color=#0099ff>\*You've got a point there.</font>*** 
+# ***\*You've got a point there.*** 
 
 
   
@@ -2069,7 +2069,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**你所说的看来有道理。**  
 
 
-# ***<font color=#0099ff>\*Yours truly</font>*** 
+# ***\*Yours truly*** 
 
 
   
@@ -2079,7 +2079,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.**[用于书信结尾、签名之前] 你忠实的**  
 
 
-# ***<font color=#0099ff>\*Youth League</font>*** 
+# ***\*Youth League*** 
 
 
   
@@ -2089,7 +2089,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 ### 1.*高义频：* **青年团**  
 
 
-# ***<font color=#0099ff>\*a (great) number of</font>*** 
+# ***\*a (great) number of*** 
 
 
   
@@ -2102,7 +2102,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
  > 服务业吸纳了很多从农村来到城市的妇女。    
 
 
-# ***<font color=#0099ff>\*a bit (of)</font>*** 
+# ***\*a bit (of)*** 
 
 
   
@@ -2126,7 +2126,7 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 
 Notes: a bit常用作副词，相当于a little。修饰名词时， 需加of。  
 
-# ***<font color=#0099ff>\*a bunch of</font>*** 
+# ***\*a bunch of*** 
 
 
   
@@ -2136,7 +2136,7 @@ Notes: a bit常用作副词，相当于a little。修饰名词时， 需加of。
 ### 1.**一串，一束；大量，大批**  
 
 
-# ***<font color=#0099ff>\*a change for the better / worse</font>*** 
+# ***\*a change for the better / worse*** 
 
 
   
@@ -2149,7 +2149,7 @@ Notes: a bit常用作副词，相当于a little。修饰名词时， 需加of。
  > 病人的情况有所好转。    
 
 
-# ***<font color=#0099ff>\*a chorus of</font>*** 
+# ***\*a chorus of*** 
 
 
   
@@ -2159,7 +2159,7 @@ Notes: a bit常用作副词，相当于a little。修饰名词时， 需加of。
 ### 1.**异口同声的**  
 
 
-# ***<font color=#0099ff>\*a couple of</font>*** 
+# ***\*a couple of*** 
 
 
   
@@ -2175,7 +2175,7 @@ Notes: a bit常用作副词，相当于a little。修饰名词时， 需加of。
  > 我打了几次网球，还看了几场电影。    
 
 
-# ***<font color=#0099ff>\*a crowd of / crowds of</font>*** 
+# ***\*a crowd of / crowds of*** 
 
 
   
@@ -2188,7 +2188,7 @@ Notes: a bit常用作副词，相当于a little。修饰名词时， 需加of。
  > 从一大群人中间挤过去之后，我终于看到了一条还在运营的地铁线路。  （2008 山东）  
 
 
-# ***<font color=#0099ff>\*a dark horse</font>*** 
+# ***\*a dark horse*** 
 
 
   
@@ -2198,7 +2198,7 @@ Notes: a bit常用作副词，相当于a little。修饰名词时， 需加of。
 ### 1.**黑马；出乎意料的获胜者**  
 
 
-# ***<font color=#0099ff>\*a few</font>*** 
+# ***\*a few*** 
 
 
   
@@ -2215,7 +2215,7 @@ Notes: a bit常用作副词，相当于a little。修饰名词时， 需加of。
  > 他们中有几个人讲英语。    
 
 
-# ***<font color=#0099ff>\*a good / great many</font>*** 
+# ***\*a good / great many*** 
 
 
   
@@ -2232,7 +2232,7 @@ Notes: a bit常用作副词，相当于a little。修饰名词时， 需加of。
  > 大部分年轻人上了战场，其中很多人再也没有回来。    
 
 
-# ***<font color=#0099ff>\*a good few / quite a few / not a few</font>*** 
+# ***\*a good few / quite a few / not a few*** 
 
 
   
@@ -2258,7 +2258,7 @@ Notes: few不论作形容词还是作代词，在句中大都表示否定，a fe
  > 我们中间有几个人看过这个电影，是吗？    
 
 
-# ***<font color=#0099ff>\*a great / good deal</font>*** 
+# ***\*a great / good deal*** 
 
 
   
@@ -2276,7 +2276,7 @@ Notes: few不论作形容词还是作代词，在句中大都表示否定，a fe
  > 他比我跑得快多了。    
 
 
-# ***<font color=#0099ff>\*a great / good deal of</font>*** 
+# ***\*a great / good deal of*** 
 
 
   
@@ -2292,7 +2292,7 @@ Notes: few不论作形容词还是作代词，在句中大都表示否定，a fe
  > 要想具备很高的听的能力，需要做大量的练习。    
 
 
-# ***<font color=#0099ff>\*a great deal</font>*** 
+# ***\*a great deal*** 
 
 
   
@@ -2305,7 +2305,7 @@ Notes: few不论作形容词还是作代词，在句中大都表示否定，a fe
  > 你的友谊对我来说很珍贵。    
 
 
-# ***<font color=#0099ff>\*a great many</font>*** 
+# ***\*a great many*** 
 
 
   
@@ -2322,7 +2322,7 @@ Notes: few不论作形容词还是作代词，在句中大都表示否定，a fe
  > 大部分年轻人上了战场，其中很多人再也没有回来。    
 
 
-# ***<font color=#0099ff>\*a group of</font>*** 
+# ***\*a group of*** 
 
 
   
@@ -2338,7 +2338,7 @@ Notes: few不论作形容词还是作代词，在句中大都表示否定，a fe
  > 一群孩子边唱边跳地过去了。    
 
 
-# ***<font color=#0099ff>\*a handful of</font>*** 
+# ***\*a handful of*** 
 
 
   
@@ -2351,7 +2351,7 @@ Notes: few不论作形容词还是作代词，在句中大都表示否定，a fe
  > 一把沙子    
 
 
-# ***<font color=#0099ff>\*a huge amount of</font>*** 
+# ***\*a huge amount of*** 
 
 
   
@@ -2367,7 +2367,7 @@ Notes: few不论作形容词还是作代词，在句中大都表示否定，a fe
  > 滴水之恩当涌泉相报。    
 
 
-# ***<font color=#0099ff>\*a huge number of</font>*** 
+# ***\*a huge number of*** 
 
 
   
@@ -2377,7 +2377,7 @@ Notes: few不论作形容词还是作代词，在句中大都表示否定，a fe
 ### 1.**大量的**  
 
 
-# ***<font color=#0099ff>\*a kind of</font>*** 
+# ***\*a kind of*** 
 
 
   
@@ -2393,7 +2393,7 @@ Notes: few不论作形容词还是作代词，在句中大都表示否定，a fe
  > 我当时就隐约感觉到会出这事。    
 
 
-# ***<font color=#0099ff>\*a large quantity of / large quantities of</font>*** 
+# ***\*a large quantity of / large quantities of*** 
 
 
   
@@ -2407,7 +2407,7 @@ Notes: few不论作形容词还是作代词，在句中大都表示否定，a fe
 
 Notes: a large quantity of / large quantities of 后既可以接可数名词也可以接不可数名词。  
 
-# ***<font color=#0099ff>\*a little</font>*** 
+# ***\*a little*** 
 
 
   
@@ -2427,7 +2427,7 @@ Notes: a large quantity of / large quantities of 后既可以接可数名词也�
 
 Notes: a little可修饰不可数名词、形容词、副词和动词等。  
 
-# ***<font color=#0099ff>\*a lot</font>*** 
+# ***\*a lot*** 
 
 
   
@@ -2451,7 +2451,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 他最近喝得比以前多多了。    
 
 
-# ***<font color=#0099ff>\*a lot of / lots of</font>*** 
+# ***\*a lot of / lots of*** 
 
 
   
@@ -2467,7 +2467,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 商店里的人很多。    
 
 
-# ***<font color=#0099ff>\*a matter of</font>*** 
+# ***\*a matter of*** 
 
 
   
@@ -2483,7 +2483,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 减少交通事故的死亡人数不单是改善道路状况的问题。    
 
 
-# ***<font color=#0099ff>\*a mountain of / mountains of</font>*** 
+# ***\*a mountain of / mountains of*** 
 
 
   
@@ -2499,7 +2499,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 这些书对她来说比金山还珍贵。  （2017 浙江改）  
 
 
-# ***<font color=#0099ff>\*a number of</font>*** 
+# ***\*a number of*** 
 
 
   
@@ -2512,7 +2512,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 在一年前还是废墟的地方立起了许多高楼大厦。  （2012 山东）  
 
 
-# ***<font color=#0099ff>\*a piece of</font>*** 
+# ***\*a piece of*** 
 
 
   
@@ -2528,7 +2528,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 一张纸/一件家具    
 
 
-# ***<font color=#0099ff>\*a piece of cake</font>*** 
+# ***\*a piece of cake*** 
 
 
   
@@ -2538,7 +2538,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 ### 1.**小菜一碟；轻而易举的事**  
 
 
-# ***<font color=#0099ff>\*a sequence of</font>*** 
+# ***\*a sequence of*** 
 
 
   
@@ -2548,7 +2548,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 ### 1.**一系列的**  
 
 
-# ***<font color=#0099ff>\*a series of</font>*** 
+# ***\*a series of*** 
 
 
   
@@ -2564,7 +2564,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 手机用户开发出一系列用来表达感情的符号。  （外研① – 6）  
 
 
-# ***<font color=#0099ff>\*a stepping stone</font>*** 
+# ***\*a stepping stone*** 
 
 
   
@@ -2574,7 +2574,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 ### 1.**垫脚石；藉以达到目标的手段或阶段**  
 
 
-# ***<font color=#0099ff>\*a stone's throw</font>*** 
+# ***\*a stone's throw*** 
 
 
   
@@ -2587,7 +2587,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 那时我家离他家很近。  （2012 福建改）  
 
 
-# ***<font color=#0099ff>\*a variety of</font>*** 
+# ***\*a variety of*** 
 
 
   
@@ -2601,7 +2601,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 俱乐部给当地的青少年提供丰富多样的游戏。    
 
 
-# ***<font color=#0099ff>\*a walk of life</font>*** 
+# ***\*a walk of life*** 
 
 
   
@@ -2615,7 +2615,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 我们的志愿者包括各界人士。    
 
 
-# ***<font color=#0099ff>\*a wet blanket</font>*** 
+# ***\*a wet blanket*** 
 
 
   
@@ -2625,7 +2625,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 ### 1.**扫兴的人；泼冷水的人**  
 
 
-# ***<font color=#0099ff>\*above all</font>*** 
+# ***\*above all*** 
 
 
   
@@ -2638,7 +2638,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 我要买一座房子，要现代、要舒适，最重要的是周围要安静。    
 
 
-# ***<font color=#0099ff>\*absorbed in sth/sb</font>*** 
+# ***\*absorbed in sth/sb*** 
 
 
   
@@ -2648,7 +2648,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 ### 1.**被…… 吸引住；专心致志**  
 
 
-# ***<font color=#0099ff>\*according to</font>*** prep
+# ***\*according to*** prep
 英音 əˈkɔːdɪŋ tə     美音 əˈkɔːrdɪŋ tə  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -2664,7 +2664,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 我的表现在4点。    
 
 
-# ***<font color=#0099ff>\*account for</font>*** 
+# ***\*account for*** 
 
 
   
@@ -2688,7 +2688,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 天气不好可能是人来得少的原因。    
 
 
-# ***<font color=#0099ff>\*accuse ... of</font>*** 
+# ***\*accuse ... of*** 
 
 
   
@@ -2701,7 +2701,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 警方指控他犯有偷窃罪。    
 
 
-# ***<font color=#0099ff>\*accuse sb. of doing sth.</font>*** 
+# ***\*accuse sb. of doing sth.*** 
 
 
   
@@ -2714,7 +2714,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 德国人有时受到诟病，被指缺乏幽默感。  （北师大⑤ – 13）  
 
 
-# ***<font color=#0099ff>\*accustomed to</font>*** 
+# ***\*accustomed to*** 
 
 
   
@@ -2730,7 +2730,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 保守的中国父母从来不习惯直接表达他们多么以孩子为荣。  （2016 上海书面表达）  
 
 
-# ***<font color=#0099ff>\*act as</font>*** 
+# ***\*act as*** 
 
 
   
@@ -2743,7 +2743,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 经过训练的狗可以充当盲人的向导。    
 
 
-# ***<font color=#0099ff>\*act on</font>*** 
+# ***\*act on*** 
 
 
   
@@ -2761,7 +2761,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 酒精对大脑迅速产生影响。    
 
 
-# ***<font color=#0099ff>\*act out</font>*** 
+# ***\*act out*** 
 
 
   
@@ -2777,7 +2777,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 把理论付诸实践    
 
 
-# ***<font color=#0099ff>\*acute angle</font>*** n
+# ***\*acute angle*** n
 
 
   
@@ -2787,7 +2787,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 ### 1.**锐角**  
 
 
-# ***<font color=#0099ff>\*adapt (to)</font>*** 
+# ***\*adapt (to)*** 
 
 
   
@@ -2800,7 +2800,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 所有动物都必须适应环境。  （外研⑧ – 7）  
 
 
-# ***<font color=#0099ff>\*adapt to</font>*** 
+# ***\*adapt to*** 
 
 
   
@@ -2813,7 +2813,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 所有动物都必须适应环境。  （外研⑧ – 7）  
 
 
-# ***<font color=#0099ff>\*add ... to ...</font>*** 
+# ***\*add ... to ...*** 
 
 
   
@@ -2826,7 +2826,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 我记下新单词，加入到我自己的词汇表里。    
 
 
-# ***<font color=#0099ff>\*add to</font>*** 
+# ***\*add to*** 
 
 
   
@@ -2839,7 +2839,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 各种颜色的伞给夏日街头平添了活泼的气氛。    
 
 
-# ***<font color=#0099ff>\*add up</font>*** 
+# ***\*add up*** 
 
 
   
@@ -2852,7 +2852,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 把你的分数加起来，看看你得多少分。  （ 人教① – 1）  
 
 
-# ***<font color=#0099ff>\*add up to</font>*** 
+# ***\*add up to*** 
 
 
   
@@ -2868,7 +2868,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 记住：小进步成就大梦想。  （2011 天津）  
 
 
-# ***<font color=#0099ff>\*addicted to</font>*** 
+# ***\*addicted to*** 
 
 
   
@@ -2881,7 +2881,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 他迷上了足球。    
 
 
-# ***<font color=#0099ff>\*adjust to</font>*** 
+# ***\*adjust to*** 
 
 
   
@@ -2894,7 +2894,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 他过了一段时间才适应了上夜班。    
 
 
-# ***<font color=#0099ff>\*after all</font>*** 
+# ***\*after all*** 
 
 
   
@@ -2907,7 +2907,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 我当然钦佩他，毕竟他是一位伟大的作家。    
 
 
-# ***<font color=#0099ff>\*again and again</font>*** 
+# ***\*again and again*** 
 
 
   
@@ -2920,7 +2920,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 我一再警告他有危险。    
 
 
-# ***<font color=#0099ff>\*against one's will</font>*** 
+# ***\*against one's will*** 
 
 
   
@@ -2933,7 +2933,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > 我被迫违心地在协议上签了字。    
 
 
-# ***<font color=#0099ff>\*agony aunt</font>*** 
+# ***\*agony aunt*** 
 
 
   
@@ -2943,7 +2943,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 ### 1.**知心阿姨**  
 
 
-# ***<font color=#0099ff>\*agree with</font>*** 
+# ***\*agree with*** 
 
 
   
@@ -2972,7 +2972,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 她不宜吃太多肉。    
 
 
-# ***<font color=#0099ff>\*ahead of</font>*** 
+# ***\*ahead of*** 
 
 
   
@@ -2991,7 +2991,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 这里的时间比伦敦早9个小时。    
 
 
-# ***<font color=#0099ff>\*ahead of time</font>*** 
+# ***\*ahead of time*** 
 
 
   
@@ -3004,7 +3004,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 你能提前做完作业吗？    
 
 
-# ***<font color=#0099ff>\*air conditioner</font>*** 
+# ***\*air conditioner*** 
 
 
   
@@ -3014,7 +3014,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
 ### 1.**空调**  
 
 
-# ***<font color=#0099ff>\*air hostess</font>*** 
+# ***\*air hostess*** 
 
 
   
@@ -3024,7 +3024,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
 ### 1.**空中小姐**  
 
 
-# ***<font color=#0099ff>\*alarm clock</font>*** 
+# ***\*alarm clock*** 
 
 
   
@@ -3037,7 +3037,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 我按收音机报时调准我的闹钟。    
 
 
-# ***<font color=#0099ff>\*all (the) year round</font>*** 
+# ***\*all (the) year round*** 
 
 
   
@@ -3050,7 +3050,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 南极地区终年被冰雪覆盖。  （北师大③ – 7）  
 
 
-# ***<font color=#0099ff>\*all / just the same</font>*** 
+# ***\*all / just the same*** 
 
 
   
@@ -3063,7 +3063,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 虽然下着大雨，但我们还是及时赶到了那里。    
 
 
-# ***<font color=#0099ff>\*all along</font>*** 
+# ***\*all along*** 
 
 
   
@@ -3079,7 +3079,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 那件事我自始至终都知道。    
 
 
-# ***<font color=#0099ff>\*all at once</font>*** 
+# ***\*all at once*** 
 
 
   
@@ -3092,7 +3092,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 他突然想到了答案。    
 
 
-# ***<font color=#0099ff>\*all but</font>*** 
+# ***\*all but*** 
 
 
   
@@ -3105,7 +3105,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 我们到达时，聚会已近尾声。    
 
 
-# ***<font color=#0099ff>\*all day (long)</font>*** 
+# ***\*all day (long)*** 
 
 
   
@@ -3118,7 +3118,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 他似乎一天到晚忙个不停。    
 
 
-# ***<font color=#0099ff>\*all in all</font>*** 
+# ***\*all in all*** 
 
 
   
@@ -3131,7 +3131,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 总而言之，看到她的进步我和她妈妈都很高兴。  （人教⑦ – 1）  
 
 
-# ***<font color=#0099ff>\*all manner of</font>*** 
+# ***\*all manner of*** 
 
 
   
@@ -3144,7 +3144,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 这个问题可以用多种方式解决。    
 
 
-# ***<font color=#0099ff>\*all night (long)</font>*** 
+# ***\*all night (long)*** 
 
 
   
@@ -3157,7 +3157,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 我整夜没睡着。    
 
 
-# ***<font color=#0099ff>\*all of a sudden</font>*** 
+# ***\*all of a sudden*** 
 
 
   
@@ -3170,7 +3170,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 他们正在看电视，突然停电了。    
 
 
-# ***<font color=#0099ff>\*all one's life</font>*** 
+# ***\*all one's life*** 
 
 
   
@@ -3183,7 +3183,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 贝尔终生都在搞发明。  （人教⑧ – 3）  
 
 
-# ***<font color=#0099ff>\*all over</font>*** 
+# ***\*all over*** 
 
 
   
@@ -3199,7 +3199,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
  > 他在美国各地发表演说讲述自己的经历。  （北师大① – 2）  
 
 
-# ***<font color=#0099ff>\*all over the world</font>*** 
+# ***\*all over the world*** 
 
 
   
@@ -3209,7 +3209,7 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
 ### 1.**在世界各地**  
 
 
-# ***<font color=#0099ff>\*all right</font>*** adj
+# ***\*all right*** adj
 英音 ɔːl 'raɪt     美音 ɔːl 'raɪt  
 
 | 词频 4 |  
@@ -3242,10 +3242,10 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
 
 固定搭配
 ---
-## <font color=#0099ff>\*It’s all right.</font>
+## \*It’s all right.
 1.**别怕。/ 没事的。**  
 
-## <font color=#0099ff>\*It’s / That’s all right.</font>
+## \*It’s / That’s all right.
 1.**没关系。/ 不用谢。**  
 
 
@@ -3267,7 +3267,7 @@ D.It’s all right
 答案：
 1. D  2. D  
 
-# ***<font color=#0099ff>\*all right</font>*** adv
+# ***\*all right*** adv
 英音 ɔːl 'raɪt     美音 ɔːl 'raɪt  
 
 | 词频 4 |  
@@ -3300,14 +3300,14 @@ D.It’s all right
 
 固定搭配
 ---
-## <font color=#0099ff>\*It’s all right.</font>
+## \*It’s all right.
 1.**别怕。/ 没事的。**  
 
-## <font color=#0099ff>\*It’s / That’s all right.</font>
+## \*It’s / That’s all right.
 1.**没关系。/ 不用谢。**  
 
 
-# ***<font color=#0099ff>\*all right</font>*** int
+# ***\*all right*** int
 英音 ɔːl 'raɪt     美音 ɔːl 'raɪt  
 
 | 词频 4 |  
@@ -3332,7 +3332,7 @@ D.I don’t care
 答案：
 1. C  
 
-# ***<font color=#0099ff>\*all the more</font>*** 
+# ***\*all the more*** 
 
 
   
@@ -3345,7 +3345,7 @@ D.I don’t care
  > 他妈妈叫他不要再逗这只猫，他反而更起劲了。    
 
 
-# ***<font color=#0099ff>\*all the time</font>*** 
+# ***\*all the time*** 
 
 
   
@@ -3358,7 +3358,7 @@ D.I don’t care
  > 机会始终都在，但常常被人忽视。    
 
 
-# ***<font color=#0099ff>\*all the way</font>*** 
+# ***\*all the way*** 
 
 
   
@@ -3374,7 +3374,7 @@ D.I don’t care
  > 我完全支持你。    
 
 
-# ***<font color=#0099ff>\*all things considered</font>*** 
+# ***\*all things considered*** 
 
 
   
@@ -3387,7 +3387,7 @@ D.I don’t care
  > 考虑到所有情况，计划好的旅行不得不取消了。    
 
 
-# ***<font color=#0099ff>\*all too</font>*** 
+# ***\*all too*** 
 
 
   
@@ -3400,7 +3400,7 @@ D.I don’t care
  > 这类事故发生得太频繁了。    
 
 
-# ***<font color=#0099ff>\*allow for</font>*** 
+# ***\*allow for*** 
 
 
   
@@ -3416,7 +3416,7 @@ D.I don’t care
  > 你的计划是否把各种情况都考虑进去了？    
 
 
-# ***<font color=#0099ff>\*along with</font>*** 
+# ***\*along with*** 
 
 
   
@@ -3429,7 +3429,7 @@ D.I don’t care
  > 你愿意让我跟你一块去吗？    
 
 
-# ***<font color=#0099ff>\*alternative energy</font>*** 
+# ***\*alternative energy*** 
 
 
   
@@ -3439,7 +3439,7 @@ D.I don’t care
 ### 1.**替代能源 (指太阳能、风能、水能等)**  
 
 
-# ***<font color=#0099ff>\*amount to</font>*** 
+# ***\*amount to*** 
 
 
   
@@ -3457,7 +3457,7 @@ D.I don’t care
  > 占有别人的东西就相当于偷窃。    
 
 
-# ***<font color=#0099ff>\*amusement park</font>*** n
+# ***\*amusement park*** n
 
 
   
@@ -3467,7 +3467,7 @@ D.I don’t care
 ### 1.**游乐场**  
 
 
-# ***<font color=#0099ff>\*and so on</font>*** 
+# ***\*and so on*** 
 
 
   
@@ -3480,7 +3480,7 @@ D.I don’t care
  > 有不同种类的书可供我们选择，譬如历史书籍、文学书籍等。  （2012 江西书面表达改）  
 
 
-# ***<font color=#0099ff>\*and so on / forth</font>*** 
+# ***\*and so on / forth*** 
 
 
   
@@ -3493,7 +3493,7 @@ D.I don’t care
  > 有不同种类的书可供我们选择，譬如历史书籍、文学书籍等。  （2012 江西书面表达改）  
 
 
-# ***<font color=#0099ff>\*answer for</font>*** 
+# ***\*answer for*** 
 
 
   
@@ -3506,7 +3506,7 @@ D.I don’t care
  > 总有一天，你要对你所做的错事负责。    
 
 
-# ***<font color=#0099ff>\*anything but</font>*** 
+# ***\*anything but*** 
 
 
   
@@ -3522,7 +3522,7 @@ D.I don’t care
  > 除了中间的座位，其他哪里都行。    
 
 
-# ***<font color=#0099ff>\*anything like sb / sth</font>*** 
+# ***\*anything like sb / sth*** 
 
 
   
@@ -3535,7 +3535,7 @@ D.I don’t care
  > 你长得一点儿也不像你母亲。    
 
 
-# ***<font color=#0099ff>\*anywhere between … and … / from … to …</font>*** 
+# ***\*anywhere between … and … / from … to …*** 
 
 
   
@@ -3551,7 +3551,7 @@ D.I don’t care
  > 该训练能持续一到六年。  （2010 湖南改）  
 
 
-# ***<font color=#0099ff>\*apart from</font>*** 
+# ***\*apart from*** 
 
 
   
@@ -3569,7 +3569,7 @@ D.I don’t care
  > 除了用来取暖，火还有什么用处？  （外 研⑦ – 6）  
 
 
-# ***<font color=#0099ff>\*appeal to</font>*** 
+# ***\*appeal to*** 
 
 
   
@@ -3582,7 +3582,7 @@ D.I don’t care
  > 体育运动已成为一种重要的娱乐形式，吸引着男男女女。  （2011 江西）  
 
 
-# ***<font color=#0099ff>\*appeal to sb.</font>*** 
+# ***\*appeal to sb.*** 
 
 
   
@@ -3595,7 +3595,7 @@ D.I don’t care
  > 体育运动已成为一种重要的娱乐形式，吸引着男男女女。  （2011 江西）  
 
 
-# ***<font color=#0099ff>\*apply for</font>*** 
+# ***\*apply for*** 
 
 
   
@@ -3611,7 +3611,7 @@ D.I don’t care
  > 我写信申请作学生志愿者。  （2015 陕西书面表达）  
 
 
-# ***<font color=#0099ff>\*approve of</font>*** 
+# ***\*approve of*** 
 
 
   
@@ -3624,7 +3624,7 @@ D.I don’t care
  > 我赞成你设法赚些钱，但不要荒废学业。    
 
 
-# ***<font color=#0099ff>\*arise from</font>*** 
+# ***\*arise from*** 
 
 
   
@@ -3637,7 +3637,7 @@ D.I don’t care
  > 事故往往由粗心引起。    
 
 
-# ***<font color=#0099ff>\*arise from / out of</font>*** 
+# ***\*arise from / out of*** 
 
 
   
@@ -3650,7 +3650,7 @@ D.I don’t care
  > 事故往往由粗心引起。    
 
 
-# ***<font color=#0099ff>\*arm in arm</font>*** 
+# ***\*arm in arm*** 
 
 
   
@@ -3663,7 +3663,7 @@ D.I don’t care
  > 他们臂挽臂沿着沙滩散步。    
 
 
-# ***<font color=#0099ff>\*arrive at</font>*** 
+# ***\*arrive at*** 
 
 
   
@@ -3680,7 +3680,7 @@ D.I don’t care
  > 花了很长时间才得出结论。    
 
 
-# ***<font color=#0099ff>\*arrive at / come to / draw / reach a conclusion</font>*** 
+# ***\*arrive at / come to / draw / reach a conclusion*** 
 
 
   
@@ -3696,7 +3696,7 @@ D.I don’t care
  > 在得出最终结论之前，我们还需要作进一步的讨论。    
 
 
-# ***<font color=#0099ff>\*as ... as possible</font>*** 
+# ***\*as ... as possible*** 
 
 
   
@@ -3715,7 +3715,7 @@ D.I don’t care
  > 你要寻找尽可能多的机会练习听力。  （人教⑦ – 5）  
 
 
-# ***<font color=#0099ff>\*as / so far as</font>*** 
+# ***\*as / so far as*** 
 
 
   
@@ -3731,7 +3731,7 @@ D.I don’t care
  > 这个公园一直延伸到河边。    
 
 
-# ***<font color=#0099ff>\*as / so far as I know / can remember / can see, etc.</font>*** 
+# ***\*as / so far as I know / can remember / can see, etc.*** 
 
 
   
@@ -3747,7 +3747,7 @@ D.I don’t care
  > 依我看，只有一种方法可以避免危险。    
 
 
-# ***<font color=#0099ff>\*as / so long as</font>*** 
+# ***\*as / so long as*** 
 
 
   
@@ -3763,7 +3763,7 @@ D.I don’t care
  > 一个人只要给别人的生活带来价值，他的生命就是有价值的。  （2012 江苏改）  
 
 
-# ***<font color=#0099ff>\*as a consequence</font>*** 
+# ***\*as a consequence*** 
 
 
   
@@ -3780,7 +3780,7 @@ D.I don’t care
  > 她超龄了，结果她的申请被拒绝了。    
 
 
-# ***<font color=#0099ff>\*as a consequence / in consequence</font>*** 
+# ***\*as a consequence / in consequence*** 
 
 
   
@@ -3797,7 +3797,7 @@ D.I don’t care
  > 她超龄了，结果她的申请被拒绝了。    
 
 
-# ***<font color=#0099ff>\*as a consequence of sth / in consequence of sth</font>*** 
+# ***\*as a consequence of sth / in consequence of sth*** 
 
 
   
@@ -3810,7 +3810,7 @@ D.I don’t care
  > 因为吸烟，我父亲经常咳嗽。    
 
 
-# ***<font color=#0099ff>\*as a matter of fact</font>*** 
+# ***\*as a matter of fact*** 
 
 
   
@@ -3832,7 +3832,7 @@ D.I don’t care
  > 事实上我去过。    
 
 
-# ***<font color=#0099ff>\*as a result</font>*** 
+# ***\*as a result*** 
 
 
   
@@ -3848,7 +3848,7 @@ D.I don’t care
  > 20世纪90年代约有2100万人死于吸烟。  （外研② – 2）  
 
 
-# ***<font color=#0099ff>\*as a result (of)</font>*** 
+# ***\*as a result (of)*** 
 
 
   
@@ -3864,7 +3864,7 @@ D.I don’t care
  > 20世纪90年代约有2100万人死于吸烟。  （外研② – 2）  
 
 
-# ***<font color=#0099ff>\*as a result of</font>*** 
+# ***\*as a result of*** 
 
 
   
@@ -3880,7 +3880,7 @@ D.I don’t care
  > 20世纪90年代约有2100万人死于吸烟。  （外研② – 2）  
 
 
-# ***<font color=#0099ff>\*as a whole</font>*** 
+# ***\*as a whole*** 
 
 
   
@@ -3893,7 +3893,7 @@ D.I don’t care
  > 我们必须全盘考虑这些事。    
 
 
-# ***<font color=#0099ff>\*as always</font>*** 
+# ***\*as always*** 
 
 
   
@@ -3906,7 +3906,7 @@ D.I don’t care
  > 他和平时一样，穿上鞋出去散步了。    
 
 
-# ***<font color=#0099ff>\*as far as I'm concerned</font>*** 
+# ***\*as far as I'm concerned*** 
 
 
   
@@ -3919,7 +3919,7 @@ D.I don’t care
  > 就我个人而言，你想做什么都可以。    
 
 
-# ***<font color=#0099ff>\*as far as one is concerned</font>*** 
+# ***\*as far as one is concerned*** 
 
 
   
@@ -3938,7 +3938,7 @@ D.I don’t care
  > 就我个人而言，你想做什么都可以。    
 
 
-# ***<font color=#0099ff>\*as far as we know</font>*** 
+# ***\*as far as we know*** 
 
 
   
@@ -3948,7 +3948,7 @@ D.I don’t care
 ### 1.**据我们所知**  
 
 
-# ***<font color=#0099ff>\*as far as … be concerned</font>*** 
+# ***\*as far as … be concerned*** 
 
 
   
@@ -3967,7 +3967,7 @@ D.I don’t care
  > 就我个人而言，你想做什么都可以。    
 
 
-# ***<font color=#0099ff>\*as follows</font>*** 
+# ***\*as follows*** 
 
 
   
@@ -3980,7 +3980,7 @@ D.I don’t care
  > 我决定主修理科，理由如下。  （2012 安徽书面表达）  
 
 
-# ***<font color=#0099ff>\*as for</font>*** 
+# ***\*as for*** 
 
 
   
@@ -3993,7 +3993,7 @@ D.I don’t care
  > 至于我最喜欢的中国历史人物，他一定是晚清伟大的思想家魏源。  （2016 北京书面表达）  
 
 
-# ***<font color=#0099ff>\*as if</font>*** 
+# ***\*as if*** 
 
 
   
@@ -4013,7 +4013,7 @@ D.I don’t care
 
 Notes: as if / though常用于引导表语从句或状语从句，如果是不真实的情况，从句中常用过去时表示虚拟语气。  
 
-# ***<font color=#0099ff>\*as if / though</font>*** 
+# ***\*as if / though*** 
 
 
   
@@ -4033,7 +4033,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
 
 Notes: as if / though常用于引导表语从句或状语从句，如果是不真实的情况，从句中常用过去时表示虚拟语气。  
 
-# ***<font color=#0099ff>\*as it is / was</font>*** 
+# ***\*as it is / was*** 
 
 
   
@@ -4049,7 +4049,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 我已经欠债了，所以不要指望我会再出钱。    
 
 
-# ***<font color=#0099ff>\*as long as</font>*** 
+# ***\*as long as*** 
 
 
   
@@ -4062,7 +4062,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 只要你在午夜之前回来，你去哪儿都行。  （外研⑧ – 7）  
 
 
-# ***<font color=#0099ff>\*as many as</font>*** 
+# ***\*as many as*** 
 
 
   
@@ -4075,7 +4075,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 在20世纪80年代，整个非洲有多达100万头大象被杀。    
 
 
-# ***<font color=#0099ff>\*as much</font>*** 
+# ***\*as much*** 
 
 
   
@@ -4088,7 +4088,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 托尼借给我钱，希望我以后也会为他做同样的事。  （2012 全国）  
 
 
-# ***<font color=#0099ff>\*as much as</font>*** 
+# ***\*as much as*** 
 
 
   
@@ -4101,7 +4101,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 她每月买衣服的开销高达2000美元。    
 
 
-# ***<font color=#0099ff>\*as much as sb can / could (do)</font>*** 
+# ***\*as much as sb can / could (do)*** 
 
 
   
@@ -4117,7 +4117,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 我们鼓励学生在课外尽量多阅读。    
 
 
-# ***<font color=#0099ff>\*as much … as</font>*** 
+# ***\*as much … as*** 
 
 
   
@@ -4130,7 +4130,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 我们在博物馆花的时间没有我期望的那么长。    
 
 
-# ***<font color=#0099ff>\*as opposed to</font>*** 
+# ***\*as opposed to*** 
 
 
   
@@ -4146,7 +4146,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 我们雇你是让你干活的，而不是让你光坐着。    
 
 
-# ***<font color=#0099ff>\*as soon as</font>*** 
+# ***\*as soon as*** 
 
 
   
@@ -4164,7 +4164,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 他们到得没有我们预期的那么早。    
 
 
-# ***<font color=#0099ff>\*as the saying is / goes</font>*** 
+# ***\*as the saying is / goes*** 
 
 
   
@@ -4177,7 +4177,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 常言道：“熟能生巧。”  （2015 四川书面表达）  
 
 
-# ***<font color=#0099ff>\*as though</font>*** 
+# ***\*as though*** 
 
 
   
@@ -4190,7 +4190,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 在大多数城市，天空看起来就像一颗星星都没有似的。    
 
 
-# ***<font color=#0099ff>\*as to</font>*** 
+# ***\*as to*** 
 
 
   
@@ -4203,7 +4203,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 关于下一步该做什么我也不知道。    
 
 
-# ***<font color=#0099ff>\*as to sth</font>*** 
+# ***\*as to sth*** 
 
 
   
@@ -4216,7 +4216,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 关于下一步该做什么我也不知道。    
 
 
-# ***<font color=#0099ff>\*as usual</font>*** 
+# ***\*as usual*** 
 
 
   
@@ -4229,7 +4229,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 像平时那样，王薇骑车在我的前面。  （人教① – 3）  
 
 
-# ***<font color=#0099ff>\*as well</font>*** 
+# ***\*as well*** 
 
 
   
@@ -4242,7 +4242,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > 我会读点书，既可以消遣，也可以学点知识。    
 
 
-# ***<font color=#0099ff>\*as well as</font>*** 
+# ***\*as well as*** 
 
 
   
@@ -4272,7 +4272,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 明天不但学生们去植树，老师也去。    
 
 
-# ***<font color=#0099ff>\*aside from</font>*** 
+# ***\*aside from*** 
 
 
   
@@ -4285,7 +4285,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 除了是一项好的运动外，游泳还是一种非常有用的技能。    
 
 
-# ***<font color=#0099ff>\*ask for somebody's hand in marriage</font>*** 
+# ***\*ask for somebody's hand in marriage*** 
 
 
   
@@ -4295,7 +4295,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**（向女方）求婚**  
 
 
-# ***<font color=#0099ff>\*ask for trouble</font>*** 
+# ***\*ask for trouble*** 
 
 
   
@@ -4305,7 +4305,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**自找麻烦；自讨苦吃**  
 
 
-# ***<font color=#0099ff>\*at (...) intervals</font>*** 
+# ***\*at (...) intervals*** 
 
 
   
@@ -4318,7 +4318,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 园丁按固定的间距种树。    
 
 
-# ***<font color=#0099ff>\*at (the) most</font>*** 
+# ***\*at (the) most*** 
 
 
   
@@ -4331,7 +4331,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 这条铁路至多6个月就会完工。    
 
 
-# ***<font color=#0099ff>\*at / from a distance</font>*** 
+# ***\*at / from a distance*** 
 
 
   
@@ -4344,7 +4344,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 那幅画远看显得很美。    
 
 
-# ***<font color=#0099ff>\*at a disadvantage</font>*** 
+# ***\*at a disadvantage*** 
 
 
   
@@ -4357,7 +4357,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 她太伶俐，我跟她讲话总觉得吃亏。    
 
 
-# ***<font color=#0099ff>\*at a loss</font>*** 
+# ***\*at a loss*** 
 
 
   
@@ -4374,7 +4374,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 它们那些白雪皑皑的山顶构成了一幅美丽的图画，美得让你无法用语言形容。  （译林② – 10）  
 
 
-# ***<font color=#0099ff>\*at a time</font>*** 
+# ***\*at a time*** 
 
 
   
@@ -4387,7 +4387,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 财富始于一次存一美元的目标。  （2014 浙江）  
 
 
-# ***<font color=#0099ff>\*at all costs</font>*** 
+# ***\*at all costs*** 
 
 
   
@@ -4400,7 +4400,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 我决定不惜一切代价尽力使学生们摆脱对书籍的恐惧和反感。  （2015 浙江改）  
 
 
-# ***<font color=#0099ff>\*at all costs / at any cost</font>*** 
+# ***\*at all costs / at any cost*** 
 
 
   
@@ -4413,7 +4413,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 我决定不惜一切代价尽力使学生们摆脱对书籍的恐惧和反感。  （2015 浙江改）  
 
 
-# ***<font color=#0099ff>\*at all events / in any event</font>*** 
+# ***\*at all events / in any event*** 
 
 
   
@@ -4426,7 +4426,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 无论如何我们都会拼搏到底。    
 
 
-# ***<font color=#0099ff>\*at all times</font>*** 
+# ***\*at all times*** 
 
 
   
@@ -4439,7 +4439,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 智者千虑，必有一失。    
 
 
-# ***<font color=#0099ff>\*at an end</font>*** 
+# ***\*at an end*** 
 
 
   
@@ -4449,7 +4449,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**结束；终结**  
 
 
-# ***<font color=#0099ff>\*at any rate</font>*** 
+# ***\*at any rate*** 
 
 
   
@@ -4462,7 +4462,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 无论如何，医疗物资将于一周内运到你处。    
 
 
-# ***<font color=#0099ff>\*at best</font>*** 
+# ***\*at best*** 
 
 
   
@@ -4475,7 +4475,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 这部电影顶多算是一般，说不中听点，很无聊。    
 
 
-# ***<font color=#0099ff>\*at birth</font>*** 
+# ***\*at birth*** 
 
 
   
@@ -4485,7 +4485,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**出生时**  
 
 
-# ***<font color=#0099ff>\*at dusk</font>*** 
+# ***\*at dusk*** 
 
 
   
@@ -4498,7 +4498,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 黄昏时分，一种神秘的气氛笼罩着山谷。    
 
 
-# ***<font color=#0099ff>\*at ease</font>*** 
+# ***\*at ease*** 
 
 
   
@@ -4511,7 +4511,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 得知孩子们都安全，他才放心。    
 
 
-# ***<font color=#0099ff>\*at fault</font>*** 
+# ***\*at fault*** 
 
 
   
@@ -4524,7 +4524,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 或许，铁路部门应该对糟糕的信号系统负责。  （2011 浙江）  
 
 
-# ***<font color=#0099ff>\*at first</font>*** 
+# ***\*at first*** 
 
 
   
@@ -4537,7 +4537,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 起初我并不太喜欢这个工作。    
 
 
-# ***<font color=#0099ff>\*at first sight</font>*** 
+# ***\*at first sight*** 
 
 
   
@@ -4553,7 +4553,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 乍一看，那块表没什么特别之处，但实际上它是一部手机。  （2010 上海）  
 
 
-# ***<font color=#0099ff>\*at hand</font>*** 
+# ***\*at hand*** 
 
 
   
@@ -4569,7 +4569,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 你最好在手边放本词典。    
 
 
-# ***<font color=#0099ff>\*at heart</font>*** 
+# ***\*at heart*** 
 
 
   
@@ -4582,7 +4582,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 每个孩子在内心都想长大成为一个快乐、健康、有所贡献的成年人。  （2014 安徽）  
 
 
-# ***<font color=#0099ff>\*at home</font>*** 
+# ***\*at home*** 
 
 
   
@@ -4599,7 +4599,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 舒适自在    
 
 
-# ***<font color=#0099ff>\*at last</font>*** 
+# ***\*at last*** 
 
 
   
@@ -4618,7 +4618,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 五者都有“最后”之意。  
 
 
-# ***<font color=#0099ff>\*at least</font>*** 
+# ***\*at least*** 
 
 
   
@@ -4636,7 +4636,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 一个好朋友愿意在你需要时提供帮助，或者至少可以给你一些建议。  （ 2010 重庆）  
 
 
-# ***<font color=#0099ff>\*at length</font>*** 
+# ***\*at length*** 
 
 
   
@@ -4654,7 +4654,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 我安排了与她会面，我们详细讨论了她的计划。  （2013 湖南）  
 
 
-# ***<font color=#0099ff>\*at liberty</font>*** 
+# ***\*at liberty*** 
 
 
   
@@ -4667,7 +4667,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 你尽可畅所欲言。    
 
 
-# ***<font color=#0099ff>\*at lunch</font>*** 
+# ***\*at lunch*** 
 
 
   
@@ -4680,7 +4680,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 我们到那里时，他们正在吃午饭。    
 
 
-# ***<font color=#0099ff>\*at midnight</font>*** 
+# ***\*at midnight*** 
 
 
   
@@ -4690,7 +4690,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**在午夜**  
 
 
-# ***<font color=#0099ff>\*at most</font>*** 
+# ***\*at most*** 
 
 
   
@@ -4700,7 +4700,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**至多；最多**  
 
 
-# ***<font color=#0099ff>\*at no time</font>*** 
+# ***\*at no time*** 
 
 
   
@@ -4713,7 +4713,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 观光途中我从未觉得无聊过。  （译林⑧ – 3）  
 
 
-# ***<font color=#0099ff>\*at once</font>*** 
+# ***\*at once*** 
 
 
   
@@ -4726,7 +4726,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 我必须马上回家。  （人教③ – 2）  
 
 
-# ***<font color=#0099ff>\*at one time</font>*** 
+# ***\*at one time*** 
 
 
   
@@ -4739,7 +4739,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 曾经，地球表面的一半被森林所覆盖。  （北师大⑧ – 22）  
 
 
-# ***<font color=#0099ff>\*at peace</font>*** 
+# ***\*at peace*** 
 
 
   
@@ -4755,7 +4755,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 她心境平和。    
 
 
-# ***<font color=#0099ff>\*at present</font>*** 
+# ***\*at present*** 
 
 
   
@@ -4768,7 +4768,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 我的同学因为摔断了腿目前正在住院。  （2009 陕西改）  
 
 
-# ***<font color=#0099ff>\*at random</font>*** 
+# ***\*at random*** 
 
 
   
@@ -4781,7 +4781,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 随机抽取一个数字。    
 
 
-# ***<font color=#0099ff>\*at risk</font>*** 
+# ***\*at risk*** 
 
 
   
@@ -4798,7 +4798,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 一些地方水位升高，很多房子都有被洪水淹没的危险。  （北师大⑧ – 22）  
 
 
-# ***<font color=#0099ff>\*at risk (from / of)</font>*** 
+# ***\*at risk (from / of)*** 
 
 
   
@@ -4815,7 +4815,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 一些地方水位升高，很多房子都有被洪水淹没的危险。  （北师大⑧ – 22）  
 
 
-# ***<font color=#0099ff>\*at sb's convenience</font>*** 
+# ***\*at sb's convenience*** 
 
 
   
@@ -4828,7 +4828,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 请在你方便的时候过来。    
 
 
-# ***<font color=#0099ff>\*at sb's expense</font>*** 
+# ***\*at sb's expense*** 
 
 
   
@@ -4841,7 +4841,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 我自费出版了一本书。    
 
 
-# ***<font color=#0099ff>\*at sb's request / at the request of sb</font>*** 
+# ***\*at sb's request / at the request of sb*** 
 
 
   
@@ -4854,7 +4854,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 学生们应老师的要求到了那里。    
 
 
-# ***<font color=#0099ff>\*at sb's service</font>*** 
+# ***\*at sb's service*** 
 
 
   
@@ -4867,7 +4867,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 请尽管呼叫服务部，我们随时为您服务。    
 
 
-# ***<font color=#0099ff>\*at sea</font>*** 
+# ***\*at sea*** 
 
 
   
@@ -4880,7 +4880,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 他在海上迷失了方向，被另一只船带上岸。    
 
 
-# ***<font color=#0099ff>\*at someone's command</font>*** 
+# ***\*at someone's command*** 
 
 
   
@@ -4890,7 +4890,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**受某人支配**  
 
 
-# ***<font color=#0099ff>\*at table</font>*** 
+# ***\*at table*** 
 
 
   
@@ -4903,7 +4903,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 进餐时嘴里含着食物讲话的行为是不可接受的。  （2009 陕西）  
 
 
-# ***<font color=#0099ff>\*at that point</font>*** 
+# ***\*at that point*** 
 
 
   
@@ -4913,7 +4913,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**在那时；在那个阶段**  
 
 
-# ***<font color=#0099ff>\*at the age of</font>*** 
+# ***\*at the age of*** 
 
 
   
@@ -4926,7 +4926,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 她在睡眠中安详地去世，享年98岁。    
 
 
-# ***<font color=#0099ff>\*at the bottom of</font>*** 
+# ***\*at the bottom of*** 
 
 
   
@@ -4939,7 +4939,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 在页面/列表底部    
 
 
-# ***<font color=#0099ff>\*at the cost of</font>*** 
+# ***\*at the cost of*** 
 
 
   
@@ -4952,7 +4952,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 他获得了成功，但损害了身体。    
 
 
-# ***<font color=#0099ff>\*at the edge of</font>*** 
+# ***\*at the edge of*** 
 
 
   
@@ -4962,7 +4962,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**在……的边缘**  
 
 
-# ***<font color=#0099ff>\*at the end of</font>*** 
+# ***\*at the end of*** 
 
 
   
@@ -4985,7 +4985,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 我已忍无可忍。    
 
 
-# ***<font color=#0099ff>\*at the end of the day</font>*** 
+# ***\*at the end of the day*** 
 
 
   
@@ -4998,7 +4998,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 最终，愿意分享财富的人比只给自己花钱的人要快乐得多。  （2013 安徽）  
 
 
-# ***<font color=#0099ff>\*at the expense of</font>*** 
+# ***\*at the expense of*** 
 
 
   
@@ -5011,7 +5011,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 他以健康为代价完成了这项工作。    
 
 
-# ***<font color=#0099ff>\*at the latest</font>*** 
+# ***\*at the latest*** 
 
 
   
@@ -5024,7 +5024,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 我最晚5点回来。    
 
 
-# ***<font color=#0099ff>\*at the mercy of</font>*** 
+# ***\*at the mercy of*** 
 
 
   
@@ -5037,7 +5037,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 小船在暴风雨中失去控制。    
 
 
-# ***<font color=#0099ff>\*at the mercy of...</font>*** 
+# ***\*at the mercy of...*** 
 
 
   
@@ -5050,7 +5050,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 小船在暴风雨中失去控制。    
 
 
-# ***<font color=#0099ff>\*at the moment</font>*** 
+# ***\*at the moment*** 
 
 
   
@@ -5063,7 +5063,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 我目前忙得很。    
 
 
-# ***<font color=#0099ff>\*at the price of</font>*** 
+# ***\*at the price of*** 
 
 
   
@@ -5076,7 +5076,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 她的成功是以牺牲自身健康为代价的。    
 
 
-# ***<font color=#0099ff>\*at the risk of doing sth</font>*** 
+# ***\*at the risk of doing sth*** 
 
 
   
@@ -5089,7 +5089,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 他冒着生命危险救了我的命。    
 
 
-# ***<font color=#0099ff>\*at the same time</font>*** 
+# ***\*at the same time*** 
 
 
   
@@ -5105,7 +5105,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 太空旅行可以很令人愉快，但同时也存在无形的危险。  （2015 湖北）  
 
 
-# ***<font color=#0099ff>\*at the sight of</font>*** 
+# ***\*at the sight of*** 
 
 
   
@@ -5118,7 +5118,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 有些人一见血就晕。    
 
 
-# ***<font color=#0099ff>\*at the start of</font>*** 
+# ***\*at the start of*** 
 
 
   
@@ -5128,7 +5128,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**在……开始的时候**  
 
 
-# ***<font color=#0099ff>\*at the thought of</font>*** 
+# ***\*at the thought of*** 
 
 
   
@@ -5141,7 +5141,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 一想到要离开这栋房子她就难过起来，因为这里充满了很多回忆。    
 
 
-# ***<font color=#0099ff>\*at the top of</font>*** 
+# ***\*at the top of*** 
 
 
   
@@ -5154,7 +5154,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 在山顶    
 
 
-# ***<font color=#0099ff>\*at the very beginning of</font>*** 
+# ***\*at the very beginning of*** 
 
 
   
@@ -5167,7 +5167,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 在讲座的起始部分，我们了解了几种不同的电影类型。  （译林⑧ – 4）  
 
 
-# ***<font color=#0099ff>\*at this / that rate</font>*** 
+# ***\*at this / that rate*** 
 
 
   
@@ -5180,7 +5180,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 如果继续那样的话，你会把身体搞垮的。    
 
 
-# ***<font color=#0099ff>\*at times</font>*** 
+# ***\*at times*** 
 
 
   
@@ -5193,7 +5193,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 他被安排练琴的时间太长，有时都想放弃了。  （北师大② – 5）  
 
 
-# ***<font color=#0099ff>\*at war</font>*** 
+# ***\*at war*** 
 
 
   
@@ -5206,7 +5206,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 此时正值两国交战之际。  （人教② – 1）  
 
 
-# ***<font color=#0099ff>\*at war (with)</font>*** 
+# ***\*at war (with)*** 
 
 
   
@@ -5219,7 +5219,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 此时正值两国交战之际。  （人教② – 1）  
 
 
-# ***<font color=#0099ff>\*at will</font>*** 
+# ***\*at will*** 
 
 
   
@@ -5232,7 +5232,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 他们能随意旅行，不受时间支配。  （2012 江西）  
 
 
-# ***<font color=#0099ff>\*at work</font>*** 
+# ***\*at work*** 
 
 
   
@@ -5248,7 +5248,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 这台机器正在运转。    
 
 
-# ***<font color=#0099ff>\*attach ... to</font>*** 
+# ***\*attach ... to*** 
 
 
   
@@ -5261,7 +5261,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 我在申请表上贴了一张照片。    
 
 
-# ***<font color=#0099ff>\*attend to</font>*** 
+# ***\*attend to*** 
 
 
   
@@ -5283,7 +5283,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 先生，打扰下。有人接待你吗？    
 
 
-# ***<font color=#0099ff>\*auto shop</font>*** 
+# ***\*auto shop*** 
 
 
   
@@ -5293,7 +5293,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**自助售货店**  
 
 
-# ***<font color=#0099ff>\*aware of</font>*** 
+# ***\*aware of*** 
 
 
   
@@ -5303,7 +5303,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**意识到；知道**  
 
 
-# ***<font color=#0099ff>\*bachelor's degree</font>*** 
+# ***\*bachelor's degree*** 
 
 
   
@@ -5313,7 +5313,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.*高义频：* **学士学位**  
 
 
-# ***<font color=#0099ff>\*back and forth</font>*** 
+# ***\*back and forth*** 
 
 
   
@@ -5326,7 +5326,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 他们身着亮丽的服装，和着响亮的鼓点扭来扭去。    
 
 
-# ***<font color=#0099ff>\*back out</font>*** 
+# ***\*back out*** 
 
 
   
@@ -5336,7 +5336,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**决定不履行（允诺的事）**  
 
 
-# ***<font color=#0099ff>\*back sb up</font>*** 
+# ***\*back sb up*** 
 
 
   
@@ -5352,7 +5352,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 提醒：您的电脑没有备份。    
 
 
-# ***<font color=#0099ff>\*back to back</font>*** 
+# ***\*back to back*** 
 
 
   
@@ -5362,7 +5362,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**背靠背**  
 
 
-# ***<font color=#0099ff>\*backing track</font>*** 
+# ***\*backing track*** 
 
 
   
@@ -5372,7 +5372,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**（音乐）伴奏曲**  
 
 
-# ***<font color=#0099ff>\*bad breath</font>*** n
+# ***\*bad breath*** n
 
 
   
@@ -5382,7 +5382,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**口臭**  
 
 
-# ***<font color=#0099ff>\*badly off</font>*** 
+# ***\*badly off*** 
 
 
   
@@ -5396,7 +5396,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 最近我经济上很拮据。    
 
 
-# ***<font color=#0099ff>\*balanced diet</font>*** 
+# ***\*balanced diet*** 
 
 
   
@@ -5406,7 +5406,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**平衡膳食**  
 
 
-# ***<font color=#0099ff>\*baleen whale</font>*** 
+# ***\*baleen whale*** 
 
 
   
@@ -5416,7 +5416,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.*高义频：* **须鲸**  
 
 
-# ***<font color=#0099ff>\*barrel organ</font>*** 
+# ***\*barrel organ*** 
 
 
   
@@ -5426,7 +5426,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**手摇风琴**  
 
 
-# ***<font color=#0099ff>\*base on / upon</font>*** 
+# ***\*base on / upon*** 
 
 
   
@@ -5445,7 +5445,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 依据情感而不是理智作出重要决定的话，你迟早会为此后悔。  （2012 江苏）  
 
 
-# ***<font color=#0099ff>\*be (a) witness to</font>*** 
+# ***\*be (a) witness to*** 
 
 
   
@@ -5455,7 +5455,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**是…的目击者；是…的见证人**  
 
 
-# ***<font color=#0099ff>\*be (always) there (for sb)</font>*** 
+# ***\*be (always) there (for sb)*** 
 
 
   
@@ -5468,7 +5468,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 我父亲总能给我好建议。    
 
 
-# ***<font color=#0099ff>\*be / become aware of</font>*** 
+# ***\*be / become aware of*** 
 
 
   
@@ -5484,7 +5484,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 他们突然发觉有人在看着他们。    
 
 
-# ***<font color=#0099ff>\*be / feel honoured to do sth</font>*** 
+# ***\*be / feel honoured to do sth*** 
 
 
   
@@ -5500,7 +5500,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 能够担当这一角色，我感到非常荣幸。  （译林⑥ – 4）  
 
 
-# ***<font color=#0099ff>\*be / feel in the mood(for sth./to do sth.)</font>*** 
+# ***\*be / feel in the mood(for sth./to do sth.)*** 
 
 
   
@@ -5513,7 +5513,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 我现在没心情谈论这件事。    
 
 
-# ***<font color=#0099ff>\*be / get burnt out</font>*** 
+# ***\*be / get burnt out*** 
 
 
   
@@ -5523,7 +5523,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**耗尽体力，累垮**  
 
 
-# ***<font color=#0099ff>\*be / get carried away</font>*** 
+# ***\*be / get carried away*** 
 
 
   
@@ -5536,7 +5536,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 他一看电视中的乒乓球比赛就很容易兴奋。    
 
 
-# ***<font color=#0099ff>\*be / get familiar with</font>*** 
+# ***\*be / get familiar with*** 
 
 
   
@@ -5549,7 +5549,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 你最熟悉的主题公园大概就是迪士尼乐园。    
 
 
-# ***<font color=#0099ff>\*be / get rid of</font>*** 
+# ***\*be / get rid of*** 
 
 
   
@@ -5565,7 +5565,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 我们除不掉鱼腥味。  （北师大⑧ – 23）  
 
 
-# ***<font color=#0099ff>\*be / get stuck in</font>*** 
+# ***\*be / get stuck in*** 
 
 
   
@@ -5578,7 +5578,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 他们遇到了交通堵塞。    
 
 
-# ***<font color=#0099ff>\*be / get tired of</font>*** 
+# ***\*be / get tired of*** 
 
 
   
@@ -5591,7 +5591,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 他厌倦了城市生活，希望迁居乡村，改变目前的生活方式。    
 
 
-# ***<font color=#0099ff>\*be / go on a diet</font>*** 
+# ***\*be / go on a diet*** 
 
 
   
@@ -5604,12 +5604,12 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 我节食的时候只吃黄瓜，迅速减轻了体重。    
 
 
-# ***<font color=#0099ff>\*be / have to do with</font>*** 
+# ***\*be / have to do with*** 
 
 
   
 
-# ***<font color=#0099ff>\*be / make friends (with)</font>*** 
+# ***\*be / make friends (with)*** 
 
 
   
@@ -5619,7 +5619,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**(与…) 交朋友**  
 
 
-# ***<font color=#0099ff>\*be a household name / word</font>*** 
+# ***\*be a household name / word*** 
 
 
   
@@ -5629,7 +5629,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**家喻户晓的名字 / 词**  
 
 
-# ***<font color=#0099ff>\*be a steal</font>*** 
+# ***\*be a steal*** 
 
 
   
@@ -5642,7 +5642,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 通过比较，售价为4.8美元的含汉堡的快餐很便宜。  （2008 辽宁）  
 
 
-# ***<font color=#0099ff>\*be about to do sth</font>*** 
+# ***\*be about to do sth*** 
 
 
   
@@ -5656,7 +5656,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 
 Notes: be about to常与when连用，表示“刚要…突然…”。  
 
-# ***<font color=#0099ff>\*be accustomed to</font>*** 
+# ***\*be accustomed to*** 
 
 
   
@@ -5669,7 +5669,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 我还不习惯这样，但我会尽量按照你说的去做。    
 
 
-# ***<font color=#0099ff>\*be all ears</font>*** 
+# ***\*be all ears*** 
 
 
   
@@ -5679,7 +5679,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 ### 1.**[非正式用语] 洗耳恭听**  
 
 
-# ***<font color=#0099ff>\*be at war with</font>*** 
+# ***\*be at war with*** 
 
 
   
@@ -5692,7 +5692,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 此时正值两国交战之际。  （人教② – 1）  
 
 
-# ***<font color=#0099ff>\*be attracted to</font>*** 
+# ***\*be attracted to*** 
 
 
   
@@ -5708,7 +5708,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 他俩一见倾心。    
 
 
-# ***<font color=#0099ff>\*be back on one's feet</font>*** 
+# ***\*be back on one's feet*** 
 
 
   
@@ -5718,7 +5718,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 ### 1.**(困境后) 恢复；完全复原**  
 
 
-# ***<font color=#0099ff>\*be based on</font>*** 
+# ***\*be based on*** 
 
 
   
@@ -5731,7 +5731,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 他下月出版的第一本书是根据一个真实的故事写的。  （2010 陕西）  
 
 
-# ***<font color=#0099ff>\*be beyond hope (of)</font>*** 
+# ***\*be beyond hope (of)*** 
 
 
   
@@ -5744,7 +5744,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 有些房屋已经没有修复的希望了。    
 
 
-# ***<font color=#0099ff>\*be beyond sb</font>*** 
+# ***\*be beyond sb*** 
 
 
   
@@ -5757,7 +5757,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 他根本无法理解这个问题。    
 
 
-# ***<font color=#0099ff>\*be blessed with</font>*** 
+# ***\*be blessed with*** 
 
 
   
@@ -5770,7 +5770,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 我有幸拥有一个幸福的童年，一个多数人想拥有的童年。    
 
 
-# ***<font color=#0099ff>\*be bored / scared / frightened to death</font>*** 
+# ***\*be bored / scared / frightened to death*** 
 
 
   
@@ -5783,7 +5783,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 她对接下来可能发生的事怕得要死。    
 
 
-# ***<font color=#0099ff>\*be born to do / be sth</font>*** 
+# ***\*be born to do / be sth*** 
 
 
   
@@ -5796,7 +5796,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 他天生就是个政治家。    
 
 
-# ***<font color=#0099ff>\*be bound to</font>*** 
+# ***\*be bound to*** 
 
 
   
@@ -5809,7 +5809,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 你下了这么大工夫，一定能考及格。    
 
 
-# ***<font color=#0099ff>\*be bound to (do)</font>*** 
+# ***\*be bound to (do)*** 
 
 
   
@@ -5822,7 +5822,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 你下了这么大工夫，一定能考及格。    
 
 
-# ***<font color=#0099ff>\*be buried in / bury oneself in</font>*** 
+# ***\*be buried in / bury oneself in*** 
 
 
   
@@ -5835,7 +5835,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 如你所知，我还在你所熟悉的那所学校埋头读书。    
 
 
-# ***<font color=#0099ff>\*be caught in</font>*** 
+# ***\*be caught in*** 
 
 
   
@@ -5848,7 +5848,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 遇上暴风雨    
 
 
-# ***<font color=#0099ff>\*be clever at</font>*** 
+# ***\*be clever at*** 
 
 
   
@@ -5861,7 +5861,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 德国人非常善于发明东西。  （译林⑥ – 3）  
 
 
-# ***<font color=#0099ff>\*be close to</font>*** 
+# ***\*be close to*** 
 
 
   
@@ -5874,7 +5874,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 他们的生日挨得很近。    
 
 
-# ***<font color=#0099ff>\*be composed of</font>*** 
+# ***\*be composed of*** 
 
 
   
@@ -5887,7 +5887,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 水是由什么构成的？    
 
 
-# ***<font color=#0099ff>\*be concerned about</font>*** 
+# ***\*be concerned about*** 
 
 
   
@@ -5900,7 +5900,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 人们很担心他们所呼吸的空气的质量。    
 
 
-# ***<font color=#0099ff>\*be concerned about sth.</font>*** 
+# ***\*be concerned about sth.*** 
 
 
   
@@ -5916,7 +5916,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 父母都关心孩子。    
 
 
-# ***<font color=#0099ff>\*be condemned to something</font>*** 
+# ***\*be condemned to something*** 
 
 
   
@@ -5929,7 +5929,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 他被裁定有罪，判了死刑。    
 
 
-# ***<font color=#0099ff>\*be connected to</font>*** 
+# ***\*be connected to*** 
 
 
   
@@ -5942,7 +5942,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 新房子(的水电)还没有与总管道连接。    
 
 
-# ***<font color=#0099ff>\*be connected with</font>*** 
+# ***\*be connected with*** 
 
 
   
@@ -5955,7 +5955,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 这次讨论与这件事有关。    
 
 
-# ***<font color=#0099ff>\*be considered as</font>*** 
+# ***\*be considered as*** 
 
 
   
@@ -5965,7 +5965,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 ### 1.**被看作，被认为是……**  
 
 
-# ***<font color=#0099ff>\*be consistent with sth</font>*** 
+# ***\*be consistent with sth*** 
 
 
   
@@ -5978,7 +5978,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 这些伤口的类型与刀伤吻合。    
 
 
-# ***<font color=#0099ff>\*be crazy about</font>*** 
+# ***\*be crazy about*** 
 
 
   
@@ -5991,7 +5991,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 我很痴迷足球。    
 
 
-# ***<font color=#0099ff>\*be devoted to</font>*** 
+# ***\*be devoted to*** 
 
 
   
@@ -6001,7 +6001,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 ### 1.**对……专一，专注**  
 
 
-# ***<font color=#0099ff>\*be divided into</font>*** 
+# ***\*be divided into*** 
 
 
   
@@ -6014,7 +6014,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 世界被分成七大洲。    
 
 
-# ***<font color=#0099ff>\*be dying for sth</font>*** 
+# ***\*be dying for sth*** 
 
 
   
@@ -6027,7 +6027,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 我很想喝杯茶。    
 
 
-# ***<font color=#0099ff>\*be dying to do sth</font>*** 
+# ***\*be dying to do sth*** 
 
 
   
@@ -6040,7 +6040,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 我很想见你。    
 
 
-# ***<font color=#0099ff>\*be employed in doing sth</font>*** 
+# ***\*be employed in doing sth*** 
 
 
   
@@ -6053,7 +6053,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 她忙着把要做的所有工作列一个清单。    
 
 
-# ***<font color=#0099ff>\*be equal to</font>*** 
+# ***\*be equal to*** 
 
 
   
@@ -6076,7 +6076,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 他无所不能。    
 
 
-# ***<font color=#0099ff>\*be expecting a baby / child</font>*** 
+# ***\*be expecting a baby / child*** 
 
 
   
@@ -6089,7 +6089,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 如果你怀孕了，吸烟的习惯可能会对胎儿产生不良影响。  （人教⑥ – 3）  
 
 
-# ***<font color=#0099ff>\*be exposed to</font>*** 
+# ***\*be exposed to*** 
 
 
   
@@ -6102,7 +6102,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 自来水公司被命令不得使人们再受污染水的影响。  （人教⑤ – 1）  
 
 
-# ***<font color=#0099ff>\*be famous for</font>*** 
+# ***\*be famous for*** 
 
 
   
@@ -6115,7 +6115,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 他因独特的穿着和行为而闻名。  （外研③ – 5）  
 
 
-# ***<font color=#0099ff>\*be filled with</font>*** 
+# ***\*be filled with*** 
 
 
   
@@ -6131,7 +6131,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 我的孙子山姆出生时，我高兴万分。  （2010 重庆）  
 
 
-# ***<font color=#0099ff>\*be fond of</font>*** 
+# ***\*be fond of*** 
 
 
   
@@ -6144,7 +6144,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 我喜欢英语，擅长说和写。    
 
 
-# ***<font color=#0099ff>\*be hard on</font>*** 
+# ***\*be hard on*** 
 
 
   
@@ -6157,7 +6157,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 你觉得我们对丹尼尔是不是太苛刻了？  （译林① – 2）  
 
 
-# ***<font color=#0099ff>\*be harmful to</font>*** 
+# ***\*be harmful to*** 
 
 
   
@@ -6171,7 +6171,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 空气污染会加剧，这会对人们造成危害。  （北师大④ – 11）  
 
 
-# ***<font color=#0099ff>\*be heavy with</font>*** 
+# ***\*be heavy with*** 
 
 
   
@@ -6184,7 +6184,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 每座小山都承载着过往。  （外研④-5）  
 
 
-# ***<font color=#0099ff>\*be heavy with sth</font>*** 
+# ***\*be heavy with sth*** 
 
 
   
@@ -6197,7 +6197,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 每座小山都承载着过往。  （外研④-5）  
 
 
-# ***<font color=#0099ff>\*be honoured for</font>*** 
+# ***\*be honoured for*** 
 
 
   
@@ -6207,7 +6207,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 ### 1.**因……而受到尊敬**  
 
 
-# ***<font color=#0099ff>\*be impressed with</font>*** 
+# ***\*be impressed with*** 
 
 
   
@@ -6223,7 +6223,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 你在这次考试中的表现给老师们留下了深刻的印象。    
 
 
-# ***<font color=#0099ff>\*be in control (of something)</font>*** 
+# ***\*be in control (of something)*** 
 
 
   
@@ -6236,7 +6236,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 那栋房子归谁管？    
 
 
-# ***<font color=#0099ff>\*be in love (with)</font>*** 
+# ***\*be in love (with)*** 
 
 
   
@@ -6249,7 +6249,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 他们相爱5年后结婚了。    
 
 
-# ***<font color=#0099ff>\*be in love with</font>*** 
+# ***\*be in love with*** 
 
 
   
@@ -6259,7 +6259,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 ### 1.**爱上；喜欢 (表状态)**  
 
 
-# ***<font color=#0099ff>\*be in the bag</font>*** 
+# ***\*be in the bag*** 
 
 
   
@@ -6272,7 +6272,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 面试很不错，我想得到那份工作是十拿九稳的事。    
 
 
-# ***<font color=#0099ff>\*be in the habit of / have a / the habit of</font>*** 
+# ***\*be in the habit of / have a / the habit of*** 
 
 
   
@@ -6288,7 +6288,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 乘车时你有主动给老人让座的习惯吗？    
 
 
-# ***<font color=#0099ff>\*be intended to be / do something</font>*** 
+# ***\*be intended to be / do something*** 
 
 
   
@@ -6298,7 +6298,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 ### 1.**目的是作为某物，目的是做某事**  
 
 
-# ***<font color=#0099ff>\*be known as</font>*** 
+# ***\*be known as*** 
 
 
   
@@ -6314,7 +6314,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 如今他是一个很有名气的作家。    
 
 
-# ***<font color=#0099ff>\*be known for</font>*** 
+# ***\*be known for*** 
 
 
   
@@ -6327,7 +6327,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 桂林因风景秀丽而闻名。    
 
 
-# ***<font color=#0099ff>\*be known to</font>*** 
+# ***\*be known to*** 
 
 
   
@@ -6340,7 +6340,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 众所周知，月球每月绕地球一圈。    
 
 
-# ***<font color=#0099ff>\*be lacking in sth</font>*** 
+# ***\*be lacking in sth*** 
 
 
   
@@ -6350,7 +6350,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 ### 1.**缺少某物**  
 
 
-# ***<font color=#0099ff>\*be likely to</font>*** 
+# ***\*be likely to*** 
 
 
   
@@ -6363,7 +6363,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 如果你能找到合适的学习方法，学习效率就可能会提高。    
 
 
-# ***<font color=#0099ff>\*be likely to do</font>*** 
+# ***\*be likely to do*** 
 
 
   
@@ -6376,7 +6376,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 如果你能找到合适的学习方法，学习效率就可能会提高。  （2011 上海改）  
 
 
-# ***<font color=#0099ff>\*be lined with</font>*** 
+# ***\*be lined with*** 
 
 
   
@@ -6392,7 +6392,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 我的卧室里有一面墙排满了书架。  （2010 四川改）  
 
 
-# ***<font color=#0099ff>\*be located in / on</font>*** 
+# ***\*be located in / on*** 
 
 
   
@@ -6408,7 +6408,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 青岛是一座迷人的城市，位于中国东部沿海地区。  （北师大② – 4）  
 
 
-# ***<font color=#0099ff>\*be low in</font>*** 
+# ***\*be low in*** 
 
 
   
@@ -6421,7 +6421,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 为了心脏健康，饮食要低脂少盐。    
 
 
-# ***<font color=#0099ff>\*be made from / of</font>*** 
+# ***\*be made from / of*** 
 
 
   
@@ -6438,7 +6438,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 
 Notes: be made from通常指从制成品中看不出原料，而be made of通常从成品中能看出原料。  
 
-# ***<font color=#0099ff>\*be made up of</font>*** 
+# ***\*be made up of*** 
 
 
   
@@ -6451,7 +6451,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 科学家们解释说地球的表面是由许多不同的板块构成的。    
 
 
-# ***<font color=#0099ff>\*be married to</font>*** 
+# ***\*be married to*** 
 
 
   
@@ -6464,7 +6464,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 他们已经结婚20年了。    
 
 
-# ***<font color=#0099ff>\*be meant to</font>*** 
+# ***\*be meant to*** 
 
 
   
@@ -6477,7 +6477,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 节日旨在庆祝一年中的重要日子。  （人教③ – 1）  
 
 
-# ***<font color=#0099ff>\*be meant to be</font>*** 
+# ***\*be meant to be*** 
 
 
   
@@ -6490,7 +6490,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 大家都说这家饭店很棒。    
 
 
-# ***<font color=#0099ff>\*be modeled on / after</font>*** 
+# ***\*be modeled on / after*** 
 
 
   
@@ -6500,7 +6500,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 ### 1.**模仿；仿照**  
 
 
-# ***<font color=#0099ff>\*be modelled after</font>*** 
+# ***\*be modelled after*** 
 
 
   
@@ -6513,7 +6513,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 那栋建筑物的设计是模仿希腊的古典形式。    
 
 
-# ***<font color=#0099ff>\*be no good</font>*** 
+# ***\*be no good*** 
 
 
   
@@ -6527,7 +6527,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 看这么多电视没什么用。    
 
 
-# ***<font color=#0099ff>\*be occupied with</font>*** 
+# ***\*be occupied with*** 
 
 
   
@@ -6543,7 +6543,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 新来的人正忙着给家里写信。    
 
 
-# ***<font color=#0099ff>\*be of benefit to</font>*** 
+# ***\*be of benefit to*** 
 
 
   
@@ -6556,7 +6556,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 科学研究对人类非常有益。    
 
 
-# ***<font color=#0099ff>\*be of the same mind</font>*** 
+# ***\*be of the same mind*** 
 
 
   
@@ -6569,7 +6569,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 我们在这个问题上意见一致。    
 
 
-# ***<font color=#0099ff>\*be off to</font>*** 
+# ***\*be off to*** 
 
 
   
@@ -6582,7 +6582,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 明天我们将出发去那不勒斯参观博物馆，那里收藏了许多庞贝珍品。  （译林③ – 3）  
 
 
-# ***<font color=#0099ff>\*be on good terms with</font>*** 
+# ***\*be on good terms with*** 
 
 
   
@@ -6595,7 +6595,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 我们与村子里的每个人都相处得很好。  （外研⑥ – 3）  
 
 
-# ***<font color=#0099ff>\*be oneself</font>*** 
+# ***\*be oneself*** 
 
 
   
@@ -6605,7 +6605,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 ### 1.**(人) 处于正常状态：**  
 
 
-# ***<font color=#0099ff>\*be opposed to</font>*** 
+# ***\*be opposed to*** 
 
 
   
@@ -6618,7 +6618,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 他的父母反对这桩婚事。    
 
 
-# ***<font color=#0099ff>\*be popular with / among</font>*** 
+# ***\*be popular with / among*** 
 
 
   
@@ -6634,7 +6634,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 凯特既聪明又漂亮，深受朋友们的喜爱。    
 
 
-# ***<font color=#0099ff>\*be proud of</font>*** 
+# ***\*be proud of*** 
 
 
   
@@ -6647,7 +6647,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 我们非常自豪，并相信为了让世界更美好，我们可以做得更多。  （2016 北京）  
 
 
-# ***<font color=#0099ff>\*be remembered as / for</font>*** 
+# ***\*be remembered as / for*** 
 
 
   
@@ -6663,7 +6663,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 玛格丽特·米歇尔因其著作《飘》而著名。    
 
 
-# ***<font color=#0099ff>\*be responsible for</font>*** 
+# ***\*be responsible for*** 
 
 
 | 词频 1 |  
@@ -6679,7 +6679,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 他的观点是孩子应对自己的行为负责。    
 
 
-# ***<font color=#0099ff>\*be rich in</font>*** 
+# ***\*be rich in*** 
 
 
   
@@ -6692,7 +6692,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 这个国家资源丰富。    
 
 
-# ***<font color=#0099ff>\*be rude to</font>*** 
+# ***\*be rude to*** 
 
 
   
@@ -6705,7 +6705,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 不能对老师无礼。  （外研④ – 7）  
 
 
-# ***<font color=#0099ff>\*be rude to sb</font>*** 
+# ***\*be rude to sb*** 
 
 
   
@@ -6718,7 +6718,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 不能对老师无礼。  （外研④ – 7）  
 
 
-# ***<font color=#0099ff>\*be satisfied with</font>*** 
+# ***\*be satisfied with*** 
 
 
   
@@ -6731,7 +6731,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 买了这块手表后如果你不满意，只要在30天内退回即可。    
 
 
-# ***<font color=#0099ff>\*be scared to death</font>*** 
+# ***\*be scared to death*** 
 
 
   
@@ -6744,7 +6744,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 她对接下来可能发生的事怕得要死。    
 
 
-# ***<font color=#0099ff>\*be seated</font>*** 
+# ***\*be seated*** 
 
 
   
@@ -6757,7 +6757,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 请坐。    
 
 
-# ***<font color=#0099ff>\*be sentenced to</font>*** 
+# ***\*be sentenced to*** 
 
 
   
@@ -6770,7 +6770,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 在过去100年里，美国有23个人被误判了死刑。  （北师大⑧ – 24）  
 
 
-# ***<font color=#0099ff>\*be short for</font>*** 
+# ***\*be short for*** 
 
 
   
@@ -6783,7 +6783,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > UN是UnitedNations的简称。    
 
 
-# ***<font color=#0099ff>\*be similar to</font>*** 
+# ***\*be similar to*** 
 
 
   
@@ -6796,7 +6796,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 孟子是位思想家，他的学说与孔子的非常相似。  （外研③ – 5）  
 
 
-# ***<font color=#0099ff>\*be so kind as to / be kind enough to</font>*** 
+# ***\*be so kind as to / be kind enough to*** 
 
 
   
@@ -6809,7 +6809,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 请您关上门好吗？    
 
 
-# ***<font color=#0099ff>\*be starving</font>*** 
+# ***\*be starving*** 
 
 
   
@@ -6822,7 +6822,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 饭什么时候好？我快饿死了！    
 
 
-# ***<font color=#0099ff>\*be supposed to</font>*** 
+# ***\*be supposed to*** 
 
 
   
@@ -6838,7 +6838,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 这里不可以吸烟。    
 
 
-# ***<font color=#0099ff>\*be the envy of</font>*** 
+# ***\*be the envy of*** 
 
 
   
@@ -6848,7 +6848,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 ### 1.**是令…羡慕或嫉妒的对象**  
 
 
-# ***<font color=#0099ff>\*be to blame (for sth)</font>*** 
+# ***\*be to blame (for sth)*** 
 
 
   
@@ -6864,7 +6864,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 着火是谁的责任？    
 
 
-# ***<font color=#0099ff>\*be too late</font>*** 
+# ***\*be too late*** 
 
 
   
@@ -6877,7 +6877,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 等他意识到自己已落入圈套时，那就做什么都来不及了。  （2008 山东）  
 
 
-# ***<font color=#0099ff>\*be up to</font>*** 
+# ***\*be up to*** 
 
 
   
@@ -6896,7 +6896,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 旅游公司有义务提醒顾客任何可能的危险。    
 
 
-# ***<font color=#0099ff>\*be up to sb</font>*** 
+# ***\*be up to sb*** 
 
 
   
@@ -6915,7 +6915,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 旅游公司有义务提醒顾客任何可能的危险。    
 
 
-# ***<font color=#0099ff>\*be used to</font>*** 
+# ***\*be used to*** 
 
 
   
@@ -6928,7 +6928,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 旅行者习惯在不同的气候和条件下生活。  （北师大⑦ – LP）  
 
 
-# ***<font color=#0099ff>\*be waiting</font>*** 
+# ***\*be waiting*** 
 
 
   
@@ -6942,7 +6942,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 车已为我们备好。    
 
 
-# ***<font color=#0099ff>\*be worlds apart</font>*** 
+# ***\*be worlds apart*** 
 
 
   
@@ -6955,7 +6955,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 他们的生活经历完全不同。  （2012 天津）  
 
 
-# ***<font color=#0099ff>\*bean curd</font>*** n
+# ***\*bean curd*** n
 英音 'biːnkɜːd     美音 'biːnkɜːrd  
 
 | 词频 1 |  
@@ -6965,7 +6965,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 ### 1.*高义频：* **[U] 豆腐( tofu )**  
 
 
-# ***<font color=#0099ff>\*bean paste</font>*** 
+# ***\*bean paste*** 
 
 
   
@@ -6975,7 +6975,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 ### 1.**豆馅**  
 
 
-# ***<font color=#0099ff>\*bear / keep … in mind</font>*** 
+# ***\*bear / keep … in mind*** 
 
 
   
@@ -6991,7 +6991,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 不管何时以何种方式记笔记，你都要记住，记笔记是个有选择性的过程。  （ 2008 全国）  
 
 
-# ***<font color=#0099ff>\*bear fruit</font>*** 
+# ***\*bear fruit*** 
 
 
   
@@ -7004,7 +7004,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 一项计划若不真正付诸实施，就会毫无结果。  （2016 浙江书面表达）  
 
 
-# ***<font color=#0099ff>\*bear with me</font>*** 
+# ***\*bear with me*** 
 
 
   
@@ -7017,7 +7017,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 请你稍等片刻，行吗？  （2010 北京）  
 
 
-# ***<font color=#0099ff>\*bear … in mind / bear in mind that ...</font>*** 
+# ***\*bear … in mind / bear in mind that ...*** 
 
 
   
@@ -7033,7 +7033,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 记住没有什么是不可能的。    
 
 
-# ***<font color=#0099ff>\*beat about / around the bush</font>*** 
+# ***\*beat about / around the bush*** 
 
 
   
@@ -7043,7 +7043,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 ### 1.**说话拐弯抹角**  
 
 
-# ***<font color=#0099ff>\*beat up</font>*** 
+# ***\*beat up*** 
 
 
   
@@ -7059,7 +7059,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 三个词都有“打”、“击”的意思，但用法不完全相同。  
 
 
-# ***<font color=#0099ff>\*beaten track</font>*** 
+# ***\*beaten track*** 
 
 
   
@@ -7069,7 +7069,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 ### 1.*高义频：* **被踩出来的路；常规；惯例**  
 
 
-# ***<font color=#0099ff>\*beauty is in the eye of the beholder</font>*** 
+# ***\*beauty is in the eye of the beholder*** 
 
 
   
@@ -7079,7 +7079,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 ### 1.**情人眼里出西施**  
 
 
-# ***<font color=#0099ff>\*because of</font>*** 
+# ***\*because of*** 
 
 
   
@@ -7095,7 +7095,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
   
 
 
-# ***<font color=#0099ff>\*become addicted to</font>*** 
+# ***\*become addicted to*** 
 
 
   
@@ -7105,7 +7105,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 ### 1.**对……上瘾；沉迷于**  
 
 
-# ***<font color=#0099ff>\*become ill</font>*** 
+# ***\*become ill*** 
 
 
   
@@ -7115,7 +7115,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 ### 1.**生病**  
 
 
-# ***<font color=#0099ff>\*become interested in</font>*** 
+# ***\*become interested in*** 
 
 
   
@@ -7128,7 +7128,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 我开始对生物感兴趣，并在上大学的时候选择学生物。  （2012 重庆）  
 
 
-# ***<font color=#0099ff>\*become known as...</font>*** 
+# ***\*become known as...*** 
 
 
   
@@ -7138,7 +7138,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 ### 1.**作为……而出名；被称为……；叫作……**  
 
 
-# ***<font color=#0099ff>\*before long</font>*** 
+# ***\*before long*** 
 
 
   
@@ -7151,7 +7151,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 我希望不久就能收到你的信。    
 
 
-# ***<font color=#0099ff>\*beg for</font>*** 
+# ***\*beg for*** 
 
 
   
@@ -7161,7 +7161,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 ### 1.**乞求，请求**  
 
 
-# ***<font color=#0099ff>\*begin with</font>*** 
+# ***\*begin with*** 
 
 
   
@@ -7174,7 +7174,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 知识来源于实践。    
 
 
-# ***<font color=#0099ff>\*behind bars</font>*** 
+# ***\*behind bars*** 
 
 
   
@@ -7184,7 +7184,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 ### 1.**坐牢**  
 
 
-# ***<font color=#0099ff>\*believe in</font>*** 
+# ***\*believe in*** 
 
 
   
@@ -7206,7 +7206,7 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 
 Notes: believe sb表示相信某人所说的话，believe in sb表示相信某人是好人，信任某人。  
 
-# ***<font color=#0099ff>\*believe it or not</font>*** 
+# ***\*believe it or not*** 
 
 
   
@@ -7219,7 +7219,7 @@ Notes: believe sb表示相信某人所说的话，believe in sb表示相信某�
  > 信不信由你，并没有标准英语这回事。  （人教① – 2）  
 
 
-# ***<font color=#0099ff>\*belong to</font>*** 
+# ***\*belong to*** 
 
 
   
@@ -7242,7 +7242,7 @@ Notes: believe sb表示相信某人所说的话，believe in sb表示相信某�
 
 Notes: belong to不能用于进行时态和被动语态。  
 
-# ***<font color=#0099ff>\*bend to sb's will</font>*** 
+# ***\*bend to sb's will*** 
 
 
   
@@ -7252,7 +7252,7 @@ Notes: belong to不能用于进行时态和被动语态。
 ### 1.**[正式用语] 屈服于某人的意愿**  
 
 
-# ***<font color=#0099ff>\*bent on (doing) something</font>*** 
+# ***\*bent on (doing) something*** 
 
 
   
@@ -7262,7 +7262,7 @@ Notes: belong to不能用于进行时态和被动语态。
 ### 1.**决心做某事（通常指坏事）**  
 
 
-# ***<font color=#0099ff>\*best man</font>*** 
+# ***\*best man*** 
 
 
   
@@ -7272,7 +7272,7 @@ Notes: belong to不能用于进行时态和被动语态。
 ### 1.**男傧相**  
 
 
-# ***<font color=#0099ff>\*beyond (sb's) expectation(s)</font>*** 
+# ***\*beyond (sb's) expectation(s)*** 
 
 
   
@@ -7285,7 +7285,7 @@ Notes: belong to不能用于进行时态和被动语态。
  > 我得了个A+，这大大出乎我的意料。  （译林⑦ – 4）  
 
 
-# ***<font color=#0099ff>\*beyond description</font>*** 
+# ***\*beyond description*** 
 
 
   
@@ -7298,7 +7298,7 @@ Notes: belong to不能用于进行时态和被动语态。
  > 黄山的壮丽美景难以形容。    
 
 
-# ***<font color=#0099ff>\*beyond one's control</font>*** 
+# ***\*beyond one's control*** 
 
 
   
@@ -7311,7 +7311,7 @@ Notes: belong to不能用于进行时态和被动语态。
  > 形势已经无法控制，我们束手无策。    
 
 
-# ***<font color=#0099ff>\*beyond repair</font>*** 
+# ***\*beyond repair*** 
 
 
   
@@ -7321,7 +7321,7 @@ Notes: belong to不能用于进行时态和被动语态。
 ### 1.**无法修复**  
 
 
-# ***<font color=#0099ff>\*beyond sb's control</font>*** 
+# ***\*beyond sb's control*** 
 
 
   
@@ -7334,7 +7334,7 @@ Notes: belong to不能用于进行时态和被动语态。
  > 形势已经无法控制，我们束手无策。    
 
 
-# ***<font color=#0099ff>\*bid ... goodbye</font>*** 
+# ***\*bid ... goodbye*** 
 
 
   
@@ -7344,7 +7344,7 @@ Notes: belong to不能用于进行时态和被动语态。
 ### 1.**向……告别**  
 
 
-# ***<font color=#0099ff>\*billions of</font>*** 
+# ***\*billions of*** 
 
 
   
@@ -7357,7 +7357,7 @@ Notes: belong to不能用于进行时态和被动语态。
  > 政府正把数十亿美元花在新城市轨道交通项目上。    
 
 
-# ***<font color=#0099ff>\*bird field guide</font>*** 
+# ***\*bird field guide*** 
 
 
   
@@ -7367,7 +7367,7 @@ Notes: belong to不能用于进行时态和被动语态。
 ### 1.**鸟类图鉴**  
 
 
-# ***<font color=#0099ff>\*bit by bit</font>*** 
+# ***\*bit by bit*** 
 
 
   
@@ -7380,7 +7380,7 @@ Notes: belong to不能用于进行时态和被动语态。
  > 渐渐地,大家接受了这个想法。    
 
 
-# ***<font color=#0099ff>\*bits and pieces</font>*** 
+# ***\*bits and pieces*** 
 
 
   
@@ -7390,7 +7390,7 @@ Notes: belong to不能用于进行时态和被动语态。
 ### 1.**各种各样的零碎东西**  
 
 
-# ***<font color=#0099ff>\*black and blue</font>*** 
+# ***\*black and blue*** 
 
 
   
@@ -7400,7 +7400,7 @@ Notes: belong to不能用于进行时态和被动语态。
 ### 1.**被打得青一块紫一块的；伤痕累累的**  
 
 
-# ***<font color=#0099ff>\*black eye</font>*** 
+# ***\*black eye*** 
 
 
   
@@ -7410,7 +7410,7 @@ Notes: belong to不能用于进行时态和被动语态。
 ### 1.**（打得）鼻青眼肿**  
 
 
-# ***<font color=#0099ff>\*black humour</font>*** 
+# ***\*black humour*** 
 
 
   
@@ -7420,7 +7420,7 @@ Notes: belong to不能用于进行时态和被动语态。
 ### 1.**黑色幽默**  
 
 
-# ***<font color=#0099ff>\*black pudding</font>*** 
+# ***\*black pudding*** 
 
 
   
@@ -7430,7 +7430,7 @@ Notes: belong to不能用于进行时态和被动语态。
 ### 1.**血肠,黑香肠**  
 
 
-# ***<font color=#0099ff>\*block out</font>*** 
+# ***\*block out*** 
 
 
   
@@ -7440,7 +7440,7 @@ Notes: belong to不能用于进行时态和被动语态。
 ### 1.**挡住 (光线)**  
 
 
-# ***<font color=#0099ff>\*blog post</font>*** 
+# ***\*blog post*** 
 
 
   
@@ -7450,7 +7450,7 @@ Notes: belong to不能用于进行时态和被动语态。
 ### 1.**博文；博客帖子**  
 
 
-# ***<font color=#0099ff>\*blood sugar</font>*** n
+# ***\*blood sugar*** n
 
 
   
@@ -7463,7 +7463,7 @@ Notes: belong to不能用于进行时态和被动语态。
  > 给某人测血糖    
 
 
-# ***<font color=#0099ff>\*blow down</font>*** 
+# ***\*blow down*** 
 
 
   
@@ -7476,7 +7476,7 @@ Notes: belong to不能用于进行时态和被动语态。
  > 在暴风雨中刮倒的树木已被移出路面。  （2008 湖南）  
 
 
-# ***<font color=#0099ff>\*blow out</font>*** 
+# ***\*blow out*** 
 
 
   
@@ -7489,7 +7489,7 @@ Notes: belong to不能用于进行时态和被动语态。
  > 把蜡烛吹灭。    
 
 
-# ***<font color=#0099ff>\*blow up</font>*** 
+# ***\*blow up*** 
 
 
   
@@ -7508,7 +7508,7 @@ Notes: belong to不能用于进行时态和被动语态。
  > 一名警察在其汽车爆炸时遇难。    
 
 
-# ***<font color=#0099ff>\*boarding school</font>*** 
+# ***\*boarding school*** 
 
 
   
@@ -7518,7 +7518,7 @@ Notes: belong to不能用于进行时态和被动语态。
 ### 1.**寄宿学校**  
 
 
-# ***<font color=#0099ff>\*body and soul</font>*** 
+# ***\*body and soul*** 
 
 
   
@@ -7528,7 +7528,7 @@ Notes: belong to不能用于进行时态和被动语态。
 ### 1.**全心全意**  
 
 
-# ***<font color=#0099ff>\*body language</font>*** 
+# ***\*body language*** 
 
 
   
@@ -7541,7 +7541,7 @@ Notes: belong to不能用于进行时态和被动语态。
  > 运用肢体语言表示感兴趣。  （2008 安徽）  
 
 
-# ***<font color=#0099ff>\*both ... and ...</font>*** 
+# ***\*both ... and ...*** 
 
 
   
@@ -7587,7 +7587,7 @@ Notes: both 的用法：
  > 这两位女士不都是法国人。    
 
 
-# ***<font color=#0099ff>\*brand new</font>*** adj
+# ***\*brand new*** adj
 
 
   
@@ -7597,7 +7597,7 @@ Notes: both 的用法：
 ### 1.**全新的，崭新的**  
 
 
-# ***<font color=#0099ff>\*brave the elements</font>*** 
+# ***\*brave the elements*** 
 
 
   
@@ -7607,7 +7607,7 @@ Notes: both 的用法：
 ### 1.**不顾天气恶劣，冒着风雨**  
 
 
-# ***<font color=#0099ff>\*break / beat / cut the / a record</font>*** 
+# ***\*break / beat / cut the / a record*** 
 
 
   
@@ -7620,7 +7620,7 @@ Notes: both 的用法：
  > 她希望能打破百米纪录。    
 
 
-# ***<font color=#0099ff>\*break / kick the habit of</font>*** 
+# ***\*break / kick the habit of*** 
 
 
   
@@ -7633,7 +7633,7 @@ Notes: both 的用法：
  > 他说他将设法改掉晚睡的习惯。    
 
 
-# ***<font color=#0099ff>\*break away (from)</font>*** 
+# ***\*break away (from)*** 
 
 
   
@@ -7652,7 +7652,7 @@ Notes: both 的用法：
  > 他抓住了她，可她设法挣脱了。    
 
 
-# ***<font color=#0099ff>\*break away from</font>*** 
+# ***\*break away from*** 
 
 
   
@@ -7671,7 +7671,7 @@ Notes: both 的用法：
  > 他抓住了她，可她设法挣脱了。    
 
 
-# ***<font color=#0099ff>\*break down</font>*** 
+# ***\*break down*** 
 
 
   
@@ -7706,7 +7706,7 @@ Notes: both 的用法：
  > 把年轻人聚集起来可以帮助他们消除彼此之间的隔阂。    
 
 
-# ***<font color=#0099ff>\*break in</font>*** 
+# ***\*break in*** 
 
 
   
@@ -7724,7 +7724,7 @@ Notes: both 的用法：
  > 我们外出的时候，窃贼闯进了家中。    
 
 
-# ***<font color=#0099ff>\*break into</font>*** 
+# ***\*break into*** 
 
 
   
@@ -7742,7 +7742,7 @@ Notes: both 的用法：
  > 突然欢呼/大笑/哭起来    
 
 
-# ***<font color=#0099ff>\*break into a smile</font>*** 
+# ***\*break into a smile*** 
 
 
   
@@ -7752,7 +7752,7 @@ Notes: both 的用法：
 ### 1.**突然笑起来**  
 
 
-# ***<font color=#0099ff>\*break off</font>*** 
+# ***\*break off*** 
 
 
   
@@ -7771,7 +7771,7 @@ Notes: both 的用法：
  > 卫斯理和他的女朋友断绝了关系。    
 
 
-# ***<font color=#0099ff>\*break one's word</font>*** 
+# ***\*break one's word*** 
 
 
   
@@ -7784,7 +7784,7 @@ Notes: both 的用法：
  > 他经常食言，我再也不能相信他了。    
 
 
-# ***<font color=#0099ff>\*break out</font>*** 
+# ***\*break out*** 
 
 
   
@@ -7800,7 +7800,7 @@ Notes: both 的用法：
  > 第一次世界大战爆发时，他似乎变成了另一个人，变得非常消沉。  （2009 湖北）  
 
 
-# ***<font color=#0099ff>\*break sb's heart</font>*** 
+# ***\*break sb's heart*** 
 
 
   
@@ -7813,7 +7813,7 @@ Notes: both 的用法：
  > 你那样说真伤她的心。    
 
 
-# ***<font color=#0099ff>\*break through</font>*** 
+# ***\*break through*** 
 
 
   
@@ -7829,7 +7829,7 @@ Notes: both 的用法：
  > 我军战士很快突破了敌军的防御工事。    
 
 
-# ***<font color=#0099ff>\*break up</font>*** 
+# ***\*break up*** 
 
 
   
@@ -7863,7 +7863,7 @@ Notes: both 的用法：
  > 警察跑过来把人群驱散了。    
 
 
-# ***<font color=#0099ff>\*breathe in</font>*** 
+# ***\*breathe in*** 
 
 
   
@@ -7876,7 +7876,7 @@ Notes: both 的用法：
  > 吸气，并尽可能长时间地屏住呼吸。    
 
 
-# ***<font color=#0099ff>\*breathe out</font>*** 
+# ***\*breathe out*** 
 
 
   
@@ -7892,7 +7892,7 @@ Notes: both 的用法：
  > 人吸入氧气，呼出二氧化碳。    
 
 
-# ***<font color=#0099ff>\*bring ... back to life</font>*** 
+# ***\*bring ... back to life*** 
 
 
   
@@ -7902,7 +7902,7 @@ Notes: both 的用法：
 ### 1.**使……复活**  
 
 
-# ***<font color=#0099ff>\*bring ... to a stop</font>*** 
+# ***\*bring ... to a stop*** 
 
 
   
@@ -7915,7 +7915,7 @@ Notes: both 的用法：
  > 这起事故使交通完全中断了。    
 
 
-# ***<font color=#0099ff>\*bring ... to mind</font>*** 
+# ***\*bring ... to mind*** 
 
 
   
@@ -7925,7 +7925,7 @@ Notes: both 的用法：
 ### 1.**使……想起**  
 
 
-# ***<font color=#0099ff>\*bring / put ... into effect</font>*** 
+# ***\*bring / put ... into effect*** 
 
 
   
@@ -7935,7 +7935,7 @@ Notes: both 的用法：
 ### 1.**实施；实行**  
 
 
-# ***<font color=#0099ff>\*bring / put an end to</font>*** 
+# ***\*bring / put an end to*** 
 
 
   
@@ -7951,7 +7951,7 @@ Notes: both 的用法：
  > 政府决心遏止恐怖主义活动。    
 
 
-# ***<font color=#0099ff>\*bring about</font>*** 
+# ***\*bring about*** 
 
 
   
@@ -7965,7 +7965,7 @@ Notes: both 的用法：
  > 科学给我们的生活带来了诸多变化。    
 
 
-# ***<font color=#0099ff>\*bring along</font>*** 
+# ***\*bring along*** 
 
 
   
@@ -7978,7 +7978,7 @@ Notes: both 的用法：
  > 同学们必须带上两瓶水以防口渴。  （2010 福建）  
 
 
-# ***<font color=#0099ff>\*bring an end to</font>*** 
+# ***\*bring an end to*** 
 
 
   
@@ -7991,7 +7991,7 @@ Notes: both 的用法：
  > 人们希望谈判能终结这次暴力事件。    
 
 
-# ***<font color=#0099ff>\*bring back</font>*** 
+# ***\*bring back*** 
 
 
   
@@ -8010,7 +8010,7 @@ Notes: both 的用法：
  > 陌生人的善举使我恢复了对人性的信心。    
 
 
-# ***<font color=#0099ff>\*bring back to life</font>*** 
+# ***\*bring back to life*** 
 
 
   
@@ -8020,7 +8020,7 @@ Notes: both 的用法：
 ### 1.**使复生；使复活**  
 
 
-# ***<font color=#0099ff>\*bring down</font>*** 
+# ***\*bring down*** 
 
 
   
@@ -8039,7 +8039,7 @@ Notes: both 的用法：
  > 飞行员成功地把飞机降落在田野上。    
 
 
-# ***<font color=#0099ff>\*bring forward</font>*** 
+# ***\*bring forward*** 
 
 
   
@@ -8057,7 +8057,7 @@ Notes: both 的用法：
  > 年轻的工程师提出了一个新的设计方案。    
 
 
-# ***<font color=#0099ff>\*bring in</font>*** 
+# ***\*bring in*** 
 
 
   
@@ -8080,7 +8080,7 @@ Notes: both 的用法：
  > 他每月有1000美元的工作收入。    
 
 
-# ***<font color=#0099ff>\*bring on</font>*** 
+# ***\*bring on*** 
 
 
   
@@ -8099,7 +8099,7 @@ Notes: both 的用法：
  > 压力会引起疾病。    
 
 
-# ***<font color=#0099ff>\*bring out</font>*** 
+# ***\*bring out*** 
 
 
   
@@ -8126,7 +8126,7 @@ Notes: both 的用法：
  > 他们出版了一套儿童读物。    
 
 
-# ***<font color=#0099ff>\*bring sth. on sb.</font>*** 
+# ***\*bring sth. on sb.*** 
 
 
   
@@ -8136,7 +8136,7 @@ Notes: both 的用法：
 ### 1.**给某人招来（不愉快的)事情**  
 
 
-# ***<font color=#0099ff>\*bring sth. to the attention of sb.</font>*** 
+# ***\*bring sth. to the attention of sb.*** 
 
 
   
@@ -8146,7 +8146,7 @@ Notes: both 的用法：
 ### 1.**使某人关注某事**  
 
 
-# ***<font color=#0099ff>\*bring up</font>*** 
+# ***\*bring up*** 
 
 
   
@@ -8169,7 +8169,7 @@ Notes: both 的用法：
  > 他把吃的饭全都吐出来了。    
 
 
-# ***<font color=#0099ff>\*bring … to a close</font>*** 
+# ***\*bring … to a close*** 
 
 
   
@@ -8182,7 +8182,7 @@ Notes: both 的用法：
  > 他们竭力结束这场战争。    
 
 
-# ***<font color=#0099ff>\*bring … to life</font>*** 
+# ***\*bring … to life*** 
 
 
   
@@ -8198,7 +8198,7 @@ Notes: both 的用法：
  > 新来的老师总是用他的幽默把课上得生动活泼。    
 
 
-# ***<font color=#0099ff>\*bring … to light</font>*** 
+# ***\*bring … to light*** 
 
 
   
@@ -8211,7 +8211,7 @@ Notes: both 的用法：
  > 这些文献披露了莎士比亚早期生活的新资料。    
 
 
-# ***<font color=#0099ff>\*bring…into focus</font>*** 
+# ***\*bring…into focus*** 
 
 
   
@@ -8221,7 +8221,7 @@ Notes: both 的用法：
 ### 1.**使……成为焦点**  
 
 
-# ***<font color=#0099ff>\*broken heart</font>*** 
+# ***\*broken heart*** 
 
 
   
@@ -8231,7 +8231,7 @@ Notes: both 的用法：
 ### 1.**破碎的心，哀恸**  
 
 
-# ***<font color=#0099ff>\*build on / upon</font>*** 
+# ***\*build on / upon*** 
 
 
   
@@ -8247,7 +8247,7 @@ Notes: both 的用法：
  > 良好的关系建立在互信和体谅的基础之上。    
 
 
-# ***<font color=#0099ff>\*build up</font>*** 
+# ***\*build up*** 
 
 
   
@@ -8263,7 +8263,7 @@ Notes: both 的用法：
  > 户外活动确实对我增强体质和丰富学校生活有益。  （2014 江西书面表达改）  
 
 
-# ***<font color=#0099ff>\*bump into</font>*** 
+# ***\*bump into*** 
 
 
   
@@ -8276,7 +8276,7 @@ Notes: both 的用法：
  > 你猜今天下午我撞见了谁？    
 
 
-# ***<font color=#0099ff>\*bungee jumping</font>*** n
+# ***\*bungee jumping*** n
 英音 'bʌndʒiːˌdʒʌmpɪŋ     美音 'bʌndʒiːˌdʒʌmpɪŋ  
 
 | 词频 1 |  
@@ -8286,7 +8286,7 @@ Notes: both 的用法：
 ### 1.**蹦极**  
 
 
-# ***<font color=#0099ff>\*burn down</font>*** 
+# ***\*burn down*** 
 
 
   
@@ -8299,7 +8299,7 @@ Notes: both 的用法：
  > 如果你走开时忘了关掉熨斗，那么你有可能烧毁房子。  （2014 湖南改）  
 
 
-# ***<font color=#0099ff>\*burn out</font>*** 
+# ***\*burn out*** 
 
 
   
@@ -8312,7 +8312,7 @@ Notes: both 的用法：
  > 我的蜡烛就要燃尽了。    
 
 
-# ***<font color=#0099ff>\*burn the midnight oil</font>*** 
+# ***\*burn the midnight oil*** 
 
 
   
@@ -8322,7 +8322,7 @@ Notes: both 的用法：
 ### 1.**挑灯夜战；开夜车**  
 
 
-# ***<font color=#0099ff>\*burn to the ground</font>*** 
+# ***\*burn to the ground*** 
 
 
   
@@ -8335,7 +8335,7 @@ Notes: both 的用法：
  > 庞贝城的许多木房子和平房都被烧毁了。  （人教⑥ – 5）  
 
 
-# ***<font color=#0099ff>\*burn up</font>*** 
+# ***\*burn up*** 
 
 
   
@@ -8345,7 +8345,7 @@ Notes: both 的用法：
 ### 1.**烧毁，烧尽**  
 
 
-# ***<font color=#0099ff>\*burst in</font>*** 
+# ***\*burst in*** 
 
 
   
@@ -8358,7 +8358,7 @@ Notes: both 的用法：
  > 突然闯入打断会议    
 
 
-# ***<font color=#0099ff>\*burst into</font>*** 
+# ***\*burst into*** 
 
 
   
@@ -8372,7 +8372,7 @@ Notes: both 的用法：
  > 他们突然大哭/大笑/欢呼起来。    
 
 
-# ***<font color=#0099ff>\*burst into laughter</font>*** 
+# ***\*burst into laughter*** 
 
 
   
@@ -8382,7 +8382,7 @@ Notes: both 的用法：
 ### 1.**突然大笑起来**  
 
 
-# ***<font color=#0099ff>\*burst out</font>*** 
+# ***\*burst out*** 
 
 
   
@@ -8395,7 +8395,7 @@ Notes: both 的用法：
  > 突然大哭/大笑/欢呼起来    
 
 
-# ***<font color=#0099ff>\*burst out laughing</font>*** 
+# ***\*burst out laughing*** 
 
 
   
@@ -8408,7 +8408,7 @@ Notes: both 的用法：
  > 突然大哭/大笑/欢呼起来    
 
 
-# ***<font color=#0099ff>\*business card</font>*** n
+# ***\*business card*** n
 
 
   
@@ -8421,7 +8421,7 @@ Notes: both 的用法：
  > 应用双手敬上和收下商务名片。  （2014 浙江）  
 
 
-# ***<font color=#0099ff>\*but for</font>*** 
+# ***\*but for*** 
 
 
   
@@ -8434,7 +8434,7 @@ Notes: both 的用法：
  > 如果没有你的帮助，我不可能成功。    
 
 
-# ***<font color=#0099ff>\*butterflies in one's stomach</font>*** 
+# ***\*butterflies in one's stomach*** 
 
 
   
@@ -8444,7 +8444,7 @@ Notes: both 的用法：
 ### 1.**情绪紧张，心里发慌**  
 
 
-# ***<font color=#0099ff>\*by / in contrast</font>*** 
+# ***\*by / in contrast*** 
 
 
   
@@ -8457,7 +8457,7 @@ Notes: both 的用法：
  > 相比之下，杨夫人坦率多了。    
 
 
-# ***<font color=#0099ff>\*by accident</font>*** 
+# ***\*by accident*** 
 
 
   
@@ -8474,7 +8474,7 @@ Notes: both 的用法：
 三者都含有“事件”之意。  
 
 
-# ***<font color=#0099ff>\*by all means</font>*** 
+# ***\*by all means*** 
 
 
   
@@ -8493,7 +8493,7 @@ Notes: both 的用法：
  > 当然。    
 
 
-# ***<font color=#0099ff>\*by an inch / inches</font>*** 
+# ***\*by an inch / inches*** 
 
 
   
@@ -8506,7 +8506,7 @@ Notes: both 的用法：
  > 那辆汽车差一点儿撞到我的狗。    
 
 
-# ***<font color=#0099ff>\*by and by</font>*** 
+# ***\*by and by*** 
 
 
   
@@ -8516,7 +8516,7 @@ Notes: both 的用法：
 ### 1.**不久以后**  
 
 
-# ***<font color=#0099ff>\*by and large</font>*** 
+# ***\*by and large*** 
 
 
   
@@ -8526,7 +8526,7 @@ Notes: both 的用法：
 ### 1.**大体上；总体上**  
 
 
-# ***<font color=#0099ff>\*by birth</font>*** 
+# ***\*by birth*** 
 
 
   
@@ -8536,7 +8536,7 @@ Notes: both 的用法：
 ### 1.**在血统上；生来**  
 
 
-# ***<font color=#0099ff>\*by chance</font>*** 
+# ***\*by chance*** 
 
 
   
@@ -8549,7 +8549,7 @@ Notes: both 的用法：
  > 如果他意外获奖，他会用奖金买一台电脑。  （人教⑥ – 2）  
 
 
-# ***<font color=#0099ff>\*by coincidence</font>*** 
+# ***\*by coincidence*** 
 
 
   
@@ -8562,7 +8562,7 @@ Notes: both 的用法：
  > 碰巧的是，当我们到达空荡荡的公交车站时，一辆公交车过来了。  （人教⑩ – 3）  
 
 
-# ***<font color=#0099ff>\*by far</font>*** 
+# ***\*by far*** 
 
 
   
@@ -8581,7 +8581,7 @@ Notes: both 的用法：
  > 这样好得多。    
 
 
-# ***<font color=#0099ff>\*by hand</font>*** 
+# ***\*by hand*** 
 
 
   
@@ -8594,7 +8594,7 @@ Notes: both 的用法：
  > 随着诸如计算机和智能手机等新技术的出现，手写已成为过去的事。  （2012 天津）  
 
 
-# ***<font color=#0099ff>\*by heart</font>*** 
+# ***\*by heart*** 
 
 
   
@@ -8607,7 +8607,7 @@ Notes: both 的用法：
  > 背诵课文而不理解其意思是没有用的。    
 
 
-# ***<font color=#0099ff>\*by itself</font>*** 
+# ***\*by itself*** 
 
 
   
@@ -8620,7 +8620,7 @@ Notes: both 的用法：
  > 那棵树孤零零地立在花园中。    
 
 
-# ***<font color=#0099ff>\*by means of</font>*** 
+# ***\*by means of*** 
 
 
   
@@ -8633,7 +8633,7 @@ Notes: both 的用法：
  > 这是一门为期两年的通过讲座形式教授的课程。    
 
 
-# ***<font color=#0099ff>\*by means of ...</font>*** 
+# ***\*by means of ...*** 
 
 
   
@@ -8646,7 +8646,7 @@ Notes: both 的用法：
  > 这是一门为期两年的通过讲座形式教授的课程。    
 
 
-# ***<font color=#0099ff>\*by mistake</font>*** 
+# ***\*by mistake*** 
 
 
   
@@ -8660,7 +8660,7 @@ Notes: both 的用法：
  > 有人错拿了我的字典。    
 
 
-# ***<font color=#0099ff>\*by nature</font>*** 
+# ***\*by nature*** 
 
 
   
@@ -8673,7 +8673,7 @@ Notes: both 的用法：
  > 孩子生性好奇。    
 
 
-# ***<font color=#0099ff>\*by no means</font>*** 
+# ***\*by no means*** 
 
 
   
@@ -8693,7 +8693,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我已很努力来提高英语水平，但老师对我的进步根本不满意。    
 
 
-# ***<font color=#0099ff>\*by reason of</font>*** 
+# ***\*by reason of*** 
 
 
   
@@ -8706,7 +8706,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 由于刻苦用功，他获得了一等奖。    
 
 
-# ***<font color=#0099ff>\*by sea</font>*** 
+# ***\*by sea*** 
 
 
   
@@ -8719,7 +8719,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他乘船去了纽约。    
 
 
-# ***<font color=#0099ff>\*by the end of</font>*** 
+# ***\*by the end of*** 
 
 
   
@@ -8732,7 +8732,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 到上个月月底，我们已学会了所有的歌曲。    
 
 
-# ***<font color=#0099ff>\*by the hour</font>*** 
+# ***\*by the hour*** 
 
 
   
@@ -8745,7 +8745,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 这个工厂的工人按小时计酬。    
 
 
-# ***<font color=#0099ff>\*by the name of</font>*** 
+# ***\*by the name of*** 
 
 
   
@@ -8758,7 +8758,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 她是一名英国运动员，名叫坦妮·格雷·汤普森。  （2008 福建）  
 
 
-# ***<font color=#0099ff>\*by the sea</font>*** 
+# ***\*by the sea*** 
 
 
   
@@ -8771,7 +8771,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我有一间海滨小屋。    
 
 
-# ***<font color=#0099ff>\*by the time</font>*** 
+# ***\*by the time*** 
 
 
   
@@ -8784,7 +8784,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我将在退休前付清房款。    
 
 
-# ***<font color=#0099ff>\*by the way</font>*** 
+# ***\*by the way*** 
 
 
   
@@ -8794,7 +8794,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**顺便说；顺便一提**  
 
 
-# ***<font color=#0099ff>\*by turns</font>*** 
+# ***\*by turns*** 
 
 
   
@@ -8807,7 +8807,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 第一次离开家，他时而高兴时而悲伤。    
 
 
-# ***<font color=#0099ff>\*by way of</font>*** 
+# ***\*by way of*** 
 
 
   
@@ -8823,7 +8823,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 孩子们通常看图识字。    
 
 
-# ***<font color=#0099ff>\*cable car</font>*** 
+# ***\*cable car*** 
 
 
   
@@ -8833,7 +8833,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.*高义频：* **缆车；(美) 有轨缆车**  
 
 
-# ***<font color=#0099ff>\*call / draw attention to</font>*** 
+# ***\*call / draw attention to*** 
 
 
   
@@ -8846,7 +8846,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 这项活动的目的是让公众关注高个子人群的需求。  （2011 全国改）  
 
 
-# ***<font color=#0099ff>\*call at</font>*** 
+# ***\*call at*** 
 
 
   
@@ -8856,7 +8856,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**拜访（某地）；（火车等）短暂停留**  
 
 
-# ***<font color=#0099ff>\*call back</font>*** 
+# ***\*call back*** 
 
 
   
@@ -8869,7 +8869,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 她要你一到家就给她回电话。  （2009 全国）  
 
 
-# ***<font color=#0099ff>\*call for</font>*** 
+# ***\*call for*** 
 
 
   
@@ -8887,7 +8887,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我会到你家接你。    
 
 
-# ***<font color=#0099ff>\*call for an end to sth</font>*** 
+# ***\*call for an end to sth*** 
 
 
   
@@ -8897,7 +8897,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**要求结束……**  
 
 
-# ***<font color=#0099ff>\*call in</font>*** 
+# ***\*call in*** 
 
 
   
@@ -8910,7 +8910,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 你妈妈病得很严重，马上找个医生来。    
 
 
-# ***<font color=#0099ff>\*call off</font>*** 
+# ***\*call off*** 
 
 
   
@@ -8923,7 +8923,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 取消会议/约会    
 
 
-# ***<font color=#0099ff>\*call on</font>*** 
+# ***\*call on*** 
 
 
   
@@ -8941,7 +8941,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 教育部要求学生每天锻炼一个小时。    
 
 
-# ***<font color=#0099ff>\*call on / upon</font>*** 
+# ***\*call on / upon*** 
 
 
   
@@ -8959,7 +8959,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 教育部要求学生每天锻炼一个小时。    
 
 
-# ***<font color=#0099ff>\*call up</font>*** 
+# ***\*call up*** 
 
 
   
@@ -8975,7 +8975,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 这张照片使我想起我们班的那次旅行。    
 
 
-# ***<font color=#0099ff>\*calm (...) down</font>*** 
+# ***\*calm (...) down*** 
 
 
   
@@ -8988,7 +8988,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 心烦时，他会深深地吸几口气以使自己平静下来。    
 
 
-# ***<font color=#0099ff>\*calm down</font>*** 
+# ***\*calm down*** 
 
 
   
@@ -9005,7 +9005,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 心烦时，他会深深地吸几口气以使自己平静下来。    
 
 
-# ***<font color=#0099ff>\*camp out</font>*** 
+# ***\*camp out*** 
 
 
   
@@ -9018,7 +9018,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他计划在野外露营。    
 
 
-# ***<font color=#0099ff>\*can (not) help (doing) sth / can not help but do sth</font>*** 
+# ***\*can (not) help (doing) sth / can not help but do sth*** 
 
 
   
@@ -9034,7 +9034,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 一天晚上，我握着父亲的双手，不禁注意到这双手很粗糙。  （2013 天津改）  
 
 
-# ***<font color=#0099ff>\*can't / can never ... too ...</font>*** 
+# ***\*can't / can never ... too ...*** 
 
 
   
@@ -9053,7 +9053,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
   
 
 
-# ***<font color=#0099ff>\*can't help doing sth.</font>*** 
+# ***\*can't help doing sth.*** 
 
 
   
@@ -9069,7 +9069,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 一天晚上，我握着父亲的双手，不禁注意到这双手很粗糙。  （2013 天津改）  
 
 
-# ***<font color=#0099ff>\*can't wait</font>*** 
+# ***\*can't wait*** 
 
 
   
@@ -9087,7 +9087,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我急切地等他回来。    
 
 
-# ***<font color=#0099ff>\*can't wait to do something</font>*** 
+# ***\*can't wait to do something*** 
 
 
   
@@ -9105,7 +9105,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我急切地等他回来。    
 
 
-# ***<font color=#0099ff>\*cannot ... too / over</font>*** 
+# ***\*cannot ... too / over*** 
 
 
   
@@ -9118,7 +9118,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 择友越谨慎越好。    
 
 
-# ***<font color=#0099ff>\*cannot but</font>*** 
+# ***\*cannot but*** 
 
 
   
@@ -9131,7 +9131,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他只能步行回家，因为他的车半路抛锚了。    
 
 
-# ***<font color=#0099ff>\*cannot choose but (do)</font>*** 
+# ***\*cannot choose but (do)*** 
 
 
   
@@ -9144,7 +9144,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他只好去参加这次聚会。    
 
 
-# ***<font color=#0099ff>\*carbon dioxide</font>*** n
+# ***\*carbon dioxide*** n
 
 
   
@@ -9157,7 +9157,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 树木吸收二氧化碳释放氧气。  （外研③ – 4）  
 
 
-# ***<font color=#0099ff>\*carbon monoxide</font>*** n
+# ***\*carbon monoxide*** n
 英音 ˌkɑːbənmən'ɒksaɪd     美音 ˌkɑːrbənmən'ɑːksaɪd  
 
 | 词频 1 |  
@@ -9167,7 +9167,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**一氧化碳**  
 
 
-# ***<font color=#0099ff>\*care about</font>*** 
+# ***\*care about*** 
 
 
   
@@ -9180,7 +9180,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 你用不着太在意自己的考试成绩。    
 
 
-# ***<font color=#0099ff>\*care for</font>*** 
+# ***\*care for*** 
 
 
   
@@ -9200,7 +9200,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我以为乔治不怎么喜欢电视剧。    
 
 
-# ***<font color=#0099ff>\*carry off</font>*** 
+# ***\*carry off*** 
 
 
   
@@ -9210,7 +9210,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**掠去；夺走**  
 
 
-# ***<font color=#0099ff>\*carry on</font>*** 
+# ***\*carry on*** 
 
 
   
@@ -9233,7 +9233,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我想继续我的课程。    
 
 
-# ***<font color=#0099ff>\*carry on (with)</font>*** 
+# ***\*carry on (with)*** 
 
 
   
@@ -9256,7 +9256,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我想继续我的课程。    
 
 
-# ***<font color=#0099ff>\*carry out</font>*** 
+# ***\*carry out*** 
 
 
   
@@ -9272,7 +9272,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他们只是按命令行事。  （2008 福建）  
 
 
-# ***<font color=#0099ff>\*carry through</font>*** 
+# ***\*carry through*** 
 
 
   
@@ -9288,7 +9288,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他请求我们帮他完成计划。    
 
 
-# ***<font color=#0099ff>\*cash a cheque</font>*** 
+# ***\*cash a cheque*** 
 
 
   
@@ -9301,7 +9301,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 在你兑现支票之前，要先确认署名正确。    
 
 
-# ***<font color=#0099ff>\*cash crop</font>*** n
+# ***\*cash crop*** n
 
 
   
@@ -9311,7 +9311,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**经济作物**  
 
 
-# ***<font color=#0099ff>\*cast about</font>*** 
+# ***\*cast about*** 
 
 
   
@@ -9321,7 +9321,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**寻找，搜索，想办法**  
 
 
-# ***<font color=#0099ff>\*cast down</font>*** 
+# ***\*cast down*** 
 
 
   
@@ -9331,7 +9331,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**沮丧的：**  
 
 
-# ***<font color=#0099ff>\*catch / get / take (a) hold of</font>*** 
+# ***\*catch / get / take (a) hold of*** 
 
 
   
@@ -9347,7 +9347,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 童年的大部分时间我都在阅读我能得到的书籍。  （2010 四川改）  
 
 
-# ***<font color=#0099ff>\*catch a glimpse of</font>*** 
+# ***\*catch a glimpse of*** 
 
 
   
@@ -9357,7 +9357,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**瞥见**  
 
 
-# ***<font color=#0099ff>\*catch fire</font>*** 
+# ***\*catch fire*** 
 
 
   
@@ -9373,7 +9373,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 地下室意外着火了。  （2014 天津）  
 
 
-# ***<font color=#0099ff>\*catch on</font>*** 
+# ***\*catch on*** 
 
 
   
@@ -9389,7 +9389,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 那位女士重复了几遍她的问题，但我仍没有理解。    
 
 
-# ***<font color=#0099ff>\*catch one's breath</font>*** 
+# ***\*catch one's breath*** 
 
 
   
@@ -9399,7 +9399,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**缓一口气；歇口气**  
 
 
-# ***<font color=#0099ff>\*catch sb's eye</font>*** 
+# ***\*catch sb's eye*** 
 
 
   
@@ -9412,7 +9412,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我打开门，地上的一个包裹引起了我的注意。    
 
 
-# ***<font color=#0099ff>\*catch sight of</font>*** 
+# ***\*catch sight of*** 
 
 
   
@@ -9425,7 +9425,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 突然，我在人群中看到了我的英语老师。    
 
 
-# ***<font color=#0099ff>\*catch up (with)</font>*** 
+# ***\*catch up (with)*** 
 
 
   
@@ -9441,7 +9441,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我越跑越快，直到追上其他所有选手。    
 
 
-# ***<font color=#0099ff>\*cater for</font>*** 
+# ***\*cater for*** 
 
 
   
@@ -9454,7 +9454,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 苹果主题的游戏让孩子们感到非常满足。  （2016 全国改）  
 
 
-# ***<font color=#0099ff>\*change one's mind</font>*** 
+# ***\*change one's mind*** 
 
 
   
@@ -9467,7 +9467,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我第一次见到布赖恩时并不喜欢他，但是现在我的看法变了。  （2013 全国）  
 
 
-# ***<font color=#0099ff>\*check in</font>*** 
+# ***\*check in*** 
 
 
   
@@ -9480,7 +9480,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 布莱恩在办理登机手续前需要见一个叫托尼的人。  （2009 陕西）  
 
 
-# ***<font color=#0099ff>\*check on</font>*** 
+# ***\*check on*** 
 
 
   
@@ -9493,7 +9493,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 飞机起飞前我们要进行检查。    
 
 
-# ***<font color=#0099ff>\*check out</font>*** 
+# ***\*check out*** 
 
 
   
@@ -9509,7 +9509,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 这是你的房间钥匙，你应该在12点结账离开。  （2011 上海改）  
 
 
-# ***<font color=#0099ff>\*cheer sb. up</font>*** 
+# ***\*cheer sb. up*** 
 
 
   
@@ -9522,7 +9522,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 她努力让他高兴起来。  （外研⑥ – 1）  
 
 
-# ***<font color=#0099ff>\*cheer up</font>*** 
+# ***\*cheer up*** 
 
 
   
@@ -9538,7 +9538,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 高兴点儿！事情会圆满解决的。    
 
 
-# ***<font color=#0099ff>\*chewing gum</font>*** 
+# ***\*chewing gum*** 
 英音 'tʃuːɪŋ ɡʌm     美音 'tʃuːɪŋ ɡʌm  
 
 | 词频 1 |  
@@ -9548,7 +9548,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.*高义频：* **口香糖**  
 
 
-# ***<font color=#0099ff>\*choke back</font>*** 
+# ***\*choke back*** 
 
 
   
@@ -9561,7 +9561,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他们的故事是那么悲伤，我强忍住不抽泣。  （译林⑩-3）  
 
 
-# ***<font color=#0099ff>\*choke off</font>*** 
+# ***\*choke off*** 
 
 
   
@@ -9574,7 +9574,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 不幸的是，马路上增加的车辆把道路堵得水泄不通。  （译林⑦-4）  
 
 
-# ***<font color=#0099ff>\*chop down</font>*** 
+# ***\*chop down*** 
 
 
   
@@ -9584,7 +9584,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**砍倒；伐倒 (树木)**  
 
 
-# ***<font color=#0099ff>\*civilization / civilisation</font>*** n
+# ***\*civilization / civilisation*** n
 英音 ˌsɪvəlaɪ'zeɪʃn     美音 ˌsɪvələ'zeɪʃn  
 
 | 词频 3 | 阅读 3 |  
@@ -9602,7 +9602,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 希腊首都雅典作为西方文明的发源地而闻名遐迩。  （外研③ – 1）  
 
 
-# ***<font color=#0099ff>\*clean out</font>*** 
+# ***\*clean out*** 
 
 
   
@@ -9615,7 +9615,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我们这周最好把房间打扫干净。    
 
 
-# ***<font color=#0099ff>\*clean up</font>*** 
+# ***\*clean up*** 
 
 
   
@@ -9634,7 +9634,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 这条河遭到如此严重的污染，现在净化它可能太迟了。    
 
 
-# ***<font color=#0099ff>\*clear away</font>*** 
+# ***\*clear away*** 
 
 
   
@@ -9647,7 +9647,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 清除房子附近的灌木    
 
 
-# ***<font color=#0099ff>\*clear off</font>*** 
+# ***\*clear off*** 
 
 
   
@@ -9660,7 +9660,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 当护士询问他是谁时，他突然离开了。    
 
 
-# ***<font color=#0099ff>\*clear one's throat</font>*** 
+# ***\*clear one's throat*** 
 
 
   
@@ -9670,7 +9670,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**清清嗓子**  
 
 
-# ***<font color=#0099ff>\*clear out</font>*** 
+# ***\*clear out*** 
 
 
   
@@ -9683,7 +9683,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 把房间腾空    
 
 
-# ***<font color=#0099ff>\*clear the air</font>*** 
+# ***\*clear the air*** 
 
 
   
@@ -9696,7 +9696,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我们的谈话充满了争论；为缓解紧张气氛所作出的努力似乎都在加深误会。  （2010 全国改）  
 
 
-# ***<font color=#0099ff>\*clear up</font>*** 
+# ***\*clear up*** 
 
 
   
@@ -9712,7 +9712,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 揭开谜团/解决困难/消除误会    
 
 
-# ***<font color=#0099ff>\*close / shut one's ears to</font>*** 
+# ***\*close / shut one's ears to*** 
 
 
   
@@ -9722,7 +9722,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**不听；不愿听**  
 
 
-# ***<font color=#0099ff>\*close down</font>*** 
+# ***\*close down*** 
 
 
   
@@ -9735,7 +9735,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 从事这个行业如果只是为了钱，那么多年前我就不干了。  （2009 浙江）  
 
 
-# ***<font color=#0099ff>\*collect one's thoughts</font>*** 
+# ***\*collect one's thoughts*** 
 
 
   
@@ -9748,7 +9748,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我镇定了一下，深吸一口气，走进面试的房间。    
 
 
-# ***<font color=#0099ff>\*comb (through) something (for)</font>*** 
+# ***\*comb (through) something (for)*** 
 
 
   
@@ -9761,7 +9761,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 有人已把网页和链接仔细搜索了一遍。  （译林⑦ – 3）  
 
 
-# ***<font color=#0099ff>\*come / draw to a close</font>*** 
+# ***\*come / draw to a close*** 
 
 
   
@@ -9774,7 +9774,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 当这一赛季结束时，大多数的志愿者松了一口气。  （2019 全国改）  
 
 
-# ***<font color=#0099ff>\*come / go full circle</font>*** 
+# ***\*come / go full circle*** 
 
 
   
@@ -9787,7 +9787,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 时尚兜一个圈子回到原处是迟早的事。    
 
 
-# ***<font color=#0099ff>\*come / go to sb's aid</font>*** 
+# ***\*come / go to sb's aid*** 
 
 
   
@@ -9800,7 +9800,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 勇敢些，力量之神会助你一臂之力。  （2015 天津）  
 
 
-# ***<font color=#0099ff>\*come about</font>*** 
+# ***\*come about*** 
 
 
   
@@ -9816,7 +9816,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 大雨引发了洪水。    
 
 
-# ***<font color=#0099ff>\*come across</font>*** 
+# ***\*come across*** 
 
 
   
@@ -9839,7 +9839,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他给人的印象是一个富有同情心的人。    
 
 
-# ***<font color=#0099ff>\*come alive</font>*** 
+# ***\*come alive*** 
 
 
   
@@ -9862,7 +9862,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 渔村在春季变得繁忙起来。    
 
 
-# ***<font color=#0099ff>\*come along</font>*** 
+# ***\*come along*** 
 
 
   
@@ -9881,7 +9881,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 手术后病人的状况良好。    
 
 
-# ***<font color=#0099ff>\*come around / round</font>*** 
+# ***\*come around / round*** 
 
 
   
@@ -9904,7 +9904,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他过了一会才改变观点，接受这个主意。    
 
 
-# ***<font color=#0099ff>\*come back</font>*** 
+# ***\*come back*** 
 
 
   
@@ -9917,7 +9917,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 长裙已经过时很长时间，但又要流行起来。    
 
 
-# ***<font color=#0099ff>\*come by</font>*** 
+# ***\*come by*** 
 
 
   
@@ -9933,7 +9933,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 如今找工作很难。    
 
 
-# ***<font color=#0099ff>\*come down</font>*** 
+# ***\*come down*** 
 
 
   
@@ -9949,7 +9949,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 那座老楼房在一个雨天的早晨倒塌了。    
 
 
-# ***<font color=#0099ff>\*come down to</font>*** 
+# ***\*come down to*** 
 
 
   
@@ -9965,7 +9965,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 这个习俗是从祖辈传下来的。    
 
 
-# ***<font color=#0099ff>\*come down with</font>*** 
+# ***\*come down with*** 
 
 
   
@@ -9975,7 +9975,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**患（病）**  
 
 
-# ***<font color=#0099ff>\*come from</font>*** 
+# ***\*come from*** 
 
 
   
@@ -9988,7 +9988,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我的成功源自良好的计划和更好的行动相结合。  （2016 浙江书面表达改）  
 
 
-# ***<font color=#0099ff>\*come in</font>*** 
+# ***\*come in*** 
 
 
   
@@ -10004,7 +10004,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他的马跑了第二名。    
 
 
-# ***<font color=#0099ff>\*come into being</font>*** 
+# ***\*come into being*** 
 
 
   
@@ -10017,12 +10017,12 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他们不知道这个世界是如何形成的。    
 
 
-# ***<font color=#0099ff>\*come into existence</font>*** 
+# ***\*come into existence*** 
 
 
   
 
-# ***<font color=#0099ff>\*come into one's mind</font>*** 
+# ***\*come into one's mind*** 
 
 
   
@@ -10035,7 +10035,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 突然一个可怕的念头出现在我的脑海。    
 
 
-# ***<font color=#0099ff>\*come into sight</font>*** 
+# ***\*come into sight*** 
 
 
   
@@ -10048,7 +10048,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 当飞机穿过云层下降时，绿色的田野和白色的房屋映入了眼帘。    
 
 
-# ***<font color=#0099ff>\*come into use</font>*** 
+# ***\*come into use*** 
 
 
   
@@ -10061,7 +10061,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 雨伞是什么时候开始使用的？    
 
 
-# ***<font color=#0099ff>\*come into view</font>*** 
+# ***\*come into view*** 
 
 
   
@@ -10074,7 +10074,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 转过弯，我们就看见那个湖了。    
 
 
-# ***<font color=#0099ff>\*come of age</font>*** 
+# ***\*come of age*** 
 
 
   
@@ -10087,7 +10087,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 父母一直供养我到我成年。  （2010 重庆）  
 
 
-# ***<font color=#0099ff>\*come off</font>*** 
+# ***\*come off*** 
 
 
   
@@ -10113,7 +10113,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 如果在跟朋友通电话时查看电子邮件，你可能会显得心不在焉。  （2010 浙江改）  
 
 
-# ***<font color=#0099ff>\*come off it</font>*** 
+# ***\*come off it*** 
 
 
   
@@ -10123,7 +10123,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**别胡扯**  
 
 
-# ***<font color=#0099ff>\*come on</font>*** 
+# ***\*come on*** 
 
 
   
@@ -10142,7 +10142,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 哦，得了吧——你知道那不是真的！    
 
 
-# ***<font color=#0099ff>\*come out</font>*** 
+# ***\*come out*** 
 
 
   
@@ -10173,7 +10173,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 真相是一些政府官员收了那家公司的钱。  （北师大⑦ – 20）  
 
 
-# ***<font color=#0099ff>\*come over</font>*** 
+# ***\*come over*** 
 
 
   
@@ -10194,7 +10194,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他突然犯困了。    
 
 
-# ***<font color=#0099ff>\*come straight to the point</font>*** 
+# ***\*come straight to the point*** 
 
 
   
@@ -10207,7 +10207,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我就直说了。    
 
 
-# ***<font color=#0099ff>\*come to</font>*** 
+# ***\*come to*** 
 
 
   
@@ -10217,7 +10217,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**苏醒；到达；共计；突然想起**  
 
 
-# ***<font color=#0099ff>\*come to a stop</font>*** 
+# ***\*come to a stop*** 
 
 
   
@@ -10230,7 +10230,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他突然停了下来，我们差点撞上他。    
 
 
-# ***<font color=#0099ff>\*come to an end</font>*** 
+# ***\*come to an end*** 
 
 
   
@@ -10243,7 +10243,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 暑假终于结束了。    
 
 
-# ***<font color=#0099ff>\*come to do something</font>*** 
+# ***\*come to do something*** 
 
 
   
@@ -10256,7 +10256,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我现在在上大学，开始认识到读小说是多么重要。  （2010 四川）  
 
 
-# ***<font color=#0099ff>\*come to life</font>*** 
+# ***\*come to life*** 
 
 
   
@@ -10272,7 +10272,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 比赛在下半场的最后几分钟变得精彩起来。    
 
 
-# ***<font color=#0099ff>\*come to light</font>*** 
+# ***\*come to light*** 
 
 
   
@@ -10285,7 +10285,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 在警方的努力下，一件隐秘的事实最近被发现了。    
 
 
-# ***<font color=#0099ff>\*come to one's rescue</font>*** 
+# ***\*come to one's rescue*** 
 
 
   
@@ -10298,7 +10298,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 一些救援人员和医生被困在了废墟下面。  （人教① – 4）  
 
 
-# ***<font color=#0099ff>\*come to power</font>*** 
+# ***\*come to power*** 
 
 
   
@@ -10311,7 +10311,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 这个政党是在上次大选中上台执政的。    
 
 
-# ***<font color=#0099ff>\*come to sb</font>*** 
+# ***\*come to sb*** 
 
 
   
@@ -10324,7 +10324,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我突然想到了答案。    
 
 
-# ***<font color=#0099ff>\*come true</font>*** 
+# ***\*come true*** 
 
 
   
@@ -10337,7 +10337,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 如果技术不断发展，这些预言将会成真。  （外研④ – 1）  
 
 
-# ***<font color=#0099ff>\*come up</font>*** 
+# ***\*come up*** 
 
 
   
@@ -10375,7 +10375,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 丹尼，我听说你的生日快到了。    
 
 
-# ***<font color=#0099ff>\*come up to</font>*** 
+# ***\*come up to*** 
 
 
   
@@ -10388,7 +10388,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他走近我，问我去车站的路怎么走。    
 
 
-# ***<font color=#0099ff>\*come up with</font>*** 
+# ***\*come up with*** 
 
 
   
@@ -10404,7 +10404,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他们想买房，但是拿不出这笔现金。    
 
 
-# ***<font color=#0099ff>\*comic strip</font>*** n
+# ***\*comic strip*** n
 英音 'kɒmɪk strɪp     美音 'kɒmɪk strɪp  
 
 | 词频 1 |  
@@ -10414,7 +10414,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**连环漫画**  
 
 
-# ***<font color=#0099ff>\*commit suicide</font>*** 
+# ***\*commit suicide*** 
 
 
   
@@ -10427,7 +10427,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 吸烟等于慢性自杀。  （译林④ – 1）  
 
 
-# ***<font color=#0099ff>\*compare notes (with sb)</font>*** 
+# ***\*compare notes (with sb)*** 
 
 
   
@@ -10440,7 +10440,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我们分别观看了那出戏，随后交换了意见。    
 
 
-# ***<font color=#0099ff>\*compared with</font>*** 
+# ***\*compared with*** 
 
 
   
@@ -10453,7 +10453,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 与中国相比，欧盟的面积和人口规模如何？  （外研③ – 2）  
 
 
-# ***<font color=#0099ff>\*compose music</font>*** 
+# ***\*compose music*** 
 
 
   
@@ -10463,7 +10463,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**创作乐曲**  
 
 
-# ***<font color=#0099ff>\*concentrate on</font>*** 
+# ***\*concentrate on*** 
 
 
   
@@ -10479,7 +10479,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 当你全神贯注于一项任务时，你会完成得又快又好。    
 
 
-# ***<font color=#0099ff>\*concern oneself with</font>*** 
+# ***\*concern oneself with*** 
 
 
   
@@ -10492,7 +10492,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 好医生应当时时刻刻关心他的病人。    
 
 
-# ***<font color=#0099ff>\*concerned about</font>*** 
+# ***\*concerned about*** 
 
 
   
@@ -10502,7 +10502,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**对……关切的；为……担忧的**  
 
 
-# ***<font color=#0099ff>\*consist in</font>*** 
+# ***\*consist in*** 
 
 
   
@@ -10518,7 +10518,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 成功在于百折不挠。  （2014 福建书面表达）  
 
 
-# ***<font color=#0099ff>\*consist of</font>*** 
+# ***\*consist of*** 
 
 
   
@@ -10534,7 +10534,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 生活不仅有阳光，还有风雨。  （2008 辽宁书面表达改）  
 
 
-# ***<font color=#0099ff>\*contrast with</font>*** 
+# ***\*contrast with*** 
 
 
   
@@ -10544,7 +10544,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**与……形成对照**  
 
 
-# ***<font color=#0099ff>\*cool down / off</font>*** 
+# ***\*cool down / off*** 
 
 
   
@@ -10565,7 +10565,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 她出去走走，让自己冷静一下。    
 
 
-# ***<font color=#0099ff>\*correspond with</font>*** 
+# ***\*correspond with*** 
 
 
   
@@ -10578,7 +10578,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 许多人给伦敦地铁部门写信，或是推荐诗歌，或只是表达一下感谢。  （外研⑧ – 6）  
 
 
-# ***<font color=#0099ff>\*cosy / cozy</font>*** adj
+# ***\*cosy / cozy*** adj
 英音 'kəʊzi     美音 'koʊzi  
 
 | 词频 1 |  
@@ -10588,7 +10588,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.*高义频：* **暖和舒适的；感觉舒服的**  
 
 
-# ***<font color=#0099ff>\*cotton wool</font>*** 
+# ***\*cotton wool*** 
 
 
   
@@ -10598,7 +10598,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**药棉，脱脂棉**  
 
 
-# ***<font color=#0099ff>\*couch potato</font>*** 
+# ***\*couch potato*** 
 
 
   
@@ -10608,7 +10608,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**终日懒散在家的人**  
 
 
-# ***<font color=#0099ff>\*could you possibly</font>*** 
+# ***\*could you possibly*** 
 
 
   
@@ -10621,7 +10621,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 您能让她把那本书带来吗？  （2008 天津）  
 
 
-# ***<font color=#0099ff>\*count down</font>*** 
+# ***\*count down*** 
 
 
   
@@ -10634,7 +10634,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 她已经在对这个重大的日子倒计时了。    
 
 
-# ***<font color=#0099ff>\*count on</font>*** 
+# ***\*count on*** 
 
 
   
@@ -10648,7 +10648,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 这是父亲第一次在危急时刻依赖我。  （2011 重庆）  
 
 
-# ***<font color=#0099ff>\*count on / upon</font>*** 
+# ***\*count on / upon*** 
 
 
   
@@ -10662,7 +10662,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 这是父亲第一次在危急时刻依赖我。  （2011 重庆）  
 
 
-# ***<font color=#0099ff>\*cover up</font>*** 
+# ***\*cover up*** 
 
 
   
@@ -10678,7 +10678,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 妈妈非常担心，但她还是用笑话来掩饰。    
 
 
-# ***<font color=#0099ff>\*cover up for sb</font>*** 
+# ***\*cover up for sb*** 
 
 
   
@@ -10691,7 +10691,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他让他那些有权有势的朋友来包庇自己。    
 
 
-# ***<font color=#0099ff>\*credit card</font>*** 
+# ***\*credit card*** 
 
 
   
@@ -10701,7 +10701,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**信用卡**  
 
 
-# ***<font color=#0099ff>\*crested ibis</font>*** n
+# ***\*crested ibis*** n
 英音 'krestɪd 'aɪbɪs     美音 'krestɪd 'aɪbɪs  
 
 | 词频 1 |  
@@ -10711,7 +10711,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**朱鹮**  
 
 
-# ***<font color=#0099ff>\*cross out / off</font>*** 
+# ***\*cross out / off*** 
 
 
   
@@ -10724,7 +10724,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 你拼错了。划掉再写一遍。    
 
 
-# ***<font color=#0099ff>\*crowd in</font>*** 
+# ***\*crowd in*** 
 
 
   
@@ -10734,7 +10734,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**(想法、问题等) 涌上心头；涌入脑海**  
 
 
-# ***<font color=#0099ff>\*cry out</font>*** 
+# ***\*cry out*** 
 
 
   
@@ -10751,7 +10751,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > “你为什么要这么做？”她突然大声喊道。    
 
 
-# ***<font color=#0099ff>\*cry out for</font>*** 
+# ***\*cry out for*** 
 
 
   
@@ -10764,7 +10764,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 这家公司急需新的人才。    
 
 
-# ***<font color=#0099ff>\*culture shock</font>*** 
+# ***\*culture shock*** 
 
 
   
@@ -10774,7 +10774,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**文化冲击**  
 
 
-# ***<font color=#0099ff>\*curriculum vitae</font>*** 
+# ***\*curriculum vitae*** 
 
 
   
@@ -10784,7 +10784,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**简历；个人履历**  
 
 
-# ***<font color=#0099ff>\*cut back</font>*** 
+# ***\*cut back*** 
 
 
   
@@ -10799,7 +10799,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 目前，有几家公司正在裁员。    
 
 
-# ***<font color=#0099ff>\*cut back on</font>*** 
+# ***\*cut back on*** 
 
 
   
@@ -10814,7 +10814,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 目前，有几家公司正在裁员。    
 
 
-# ***<font color=#0099ff>\*cut down</font>*** 
+# ***\*cut down*** 
 
 
   
@@ -10841,7 +10841,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我们需要把这篇文章缩减至1000词。    
 
 
-# ***<font color=#0099ff>\*cut in</font>*** 
+# ***\*cut in*** 
 
 
   
@@ -10860,7 +10860,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 她强行超到一辆红色的车的前面，迫使那位司机急刹车。    
 
 
-# ***<font color=#0099ff>\*cut off</font>*** 
+# ***\*cut off*** 
 
 
   
@@ -10879,7 +10879,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 最终，他到达一个完全与外界隔绝的孤岛。  （2013 山东）  
 
 
-# ***<font color=#0099ff>\*cut out</font>*** 
+# ***\*cut out*** 
 
 
   
@@ -10898,7 +10898,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 她用旧布料为我裁出一件连衣裙。    
 
 
-# ***<font color=#0099ff>\*cut something out (of something)</font>*** 
+# ***\*cut something out (of something)*** 
 
 
   
@@ -10911,7 +10911,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我从报纸上剪下了这篇文章。    
 
 
-# ***<font color=#0099ff>\*cut up</font>*** 
+# ***\*cut up*** 
 
 
   
@@ -10924,7 +10924,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 把胡萝卜切碎后放入锅内。    
 
 
-# ***<font color=#0099ff>\*dance to the music</font>*** 
+# ***\*dance to the music*** 
 
 
   
@@ -10934,7 +10934,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**伴着音乐跳舞**  
 
 
-# ***<font color=#0099ff>\*date back</font>*** 
+# ***\*date back*** 
 
 
   
@@ -10947,7 +10947,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 这一传统可追溯到15世纪。    
 
 
-# ***<font color=#0099ff>\*date back (to)</font>*** 
+# ***\*date back (to)*** 
 
 
   
@@ -10963,7 +10963,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 大部分长城始建于明朝。  （外研③ – 6）  
 
 
-# ***<font color=#0099ff>\*date back (to) / date from</font>*** 
+# ***\*date back (to) / date from*** 
 
 
   
@@ -10979,7 +10979,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 大部分长城始建于明朝。  （外研③ – 6）  
 
 
-# ***<font color=#0099ff>\*date from</font>*** 
+# ***\*date from*** 
 
 
   
@@ -10992,7 +10992,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 大部分长城始建于明朝。  （外研③ – 6）  
 
 
-# ***<font color=#0099ff>\*date of birth / birth date</font>*** 
+# ***\*date of birth / birth date*** 
 
 
   
@@ -11002,7 +11002,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**出生日期**  
 
 
-# ***<font color=#0099ff>\*day after day</font>*** 
+# ***\*day after day*** 
 
 
   
@@ -11015,7 +11015,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 那些科学家们日复一日地在实验室努力工作。    
 
 
-# ***<font color=#0099ff>\*day and night</font>*** 
+# ***\*day and night*** 
 
 
   
@@ -11028,7 +11028,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他非常勤奋，夜以继日地工作。    
 
 
-# ***<font color=#0099ff>\*day by day</font>*** 
+# ***\*day by day*** 
 
 
   
@@ -11041,7 +11041,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 天气一天天地暖和起来。    
 
 
-# ***<font color=#0099ff>\*day in and day out</font>*** 
+# ***\*day in and day out*** 
 
 
   
@@ -11054,7 +11054,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 日复一日，我每天都做着几乎同样的事情。  （人教⑦ – 5）  
 
 
-# ***<font color=#0099ff>\*day in and day out / day in, day out</font>*** 
+# ***\*day in and day out / day in, day out*** 
 
 
   
@@ -11067,7 +11067,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 日复一日，我每天都做着几乎同样的事情。  （人教⑦ – 5）  
 
 
-# ***<font color=#0099ff>\*deal with</font>*** 
+# ***\*deal with*** 
 
 
   
@@ -11094,7 +11094,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 许多人认为那家公司虽小，但跟它做生意却很愉快。  （2010 四川）  
 
 
-# ***<font color=#0099ff>\*decide on</font>*** 
+# ***\*decide on*** 
 
 
   
@@ -11107,7 +11107,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 你们定好婚礼日期了吗？    
 
 
-# ***<font color=#0099ff>\*decide on / upon</font>*** 
+# ***\*decide on / upon*** 
 
 
   
@@ -11120,7 +11120,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 你们定好婚礼日期了吗？    
 
 
-# ***<font color=#0099ff>\*declare war on</font>*** 
+# ***\*declare war on*** 
 
 
   
@@ -11130,7 +11130,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**对…宣战**  
 
 
-# ***<font color=#0099ff>\*defend against</font>*** 
+# ***\*defend against*** 
 
 
   
@@ -11143,7 +11143,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 法律允许人们在面对指控时为自己辩护。    
 
 
-# ***<font color=#0099ff>\*delight in</font>*** 
+# ***\*delight in*** 
 
 
   
@@ -11156,7 +11156,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 这位老板喜欢把问题复杂化，这让其他人摸不着头脑。    
 
 
-# ***<font color=#0099ff>\*depend on</font>*** 
+# ***\*depend on*** 
 
 
   
@@ -11193,7 +11193,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 旅途大约需要两小时，这取决于交通状况。  （2011 上海）  
 
 
-# ***<font color=#0099ff>\*depend on / upon</font>*** 
+# ***\*depend on / upon*** 
 
 
   
@@ -11230,7 +11230,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 旅途大约需要两小时，这取决于交通状况。  （2011 上海）  
 
 
-# ***<font color=#0099ff>\*develop / fall into / form / get in(to) the / a habit of</font>*** 
+# ***\*develop / fall into / form / get in(to) the / a habit of*** 
 
 
   
@@ -11243,7 +11243,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 别沾染上吸烟的坏习惯。    
 
 
-# ***<font color=#0099ff>\*devote oneself to</font>*** 
+# ***\*devote oneself to*** 
 
 
   
@@ -11256,7 +11256,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 如果你有一份工作，务必全身心地投入，最终你会成功的。  （2010 四川）  
 
 
-# ***<font color=#0099ff>\*die away</font>*** 
+# ***\*die away*** 
 
 
   
@@ -11270,7 +11270,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他们的笑声渐渐远去。    
 
 
-# ***<font color=#0099ff>\*die down</font>*** 
+# ***\*die down*** 
 
 
   
@@ -11287,7 +11287,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 风小了一点。    
 
 
-# ***<font color=#0099ff>\*die from / of</font>*** 
+# ***\*die from / of*** 
 
 
   
@@ -11303,7 +11303,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 19世纪40年代，约有75万人死于饥饿。  （2011 安徽改）  
 
 
-# ***<font color=#0099ff>\*die of</font>*** 
+# ***\*die of*** 
 
 
   
@@ -11319,7 +11319,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 19世纪40年代，约有75万人死于饥饿。  （2011 安徽改）  
 
 
-# ***<font color=#0099ff>\*die off</font>*** 
+# ***\*die off*** 
 
 
   
@@ -11332,7 +11332,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 活下来的人正在一天天地相继死去。    
 
 
-# ***<font color=#0099ff>\*die out</font>*** 
+# ***\*die out*** 
 
 
   
@@ -11345,7 +11345,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 结果，许多物种正在迅速灭绝。  （2015 陕西）  
 
 
-# ***<font color=#0099ff>\*differ from</font>*** 
+# ***\*differ from*** 
 
 
   
@@ -11358,7 +11358,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 游客和当地居民有何不同？  （北师大③ – 8）  
 
 
-# ***<font color=#0099ff>\*dig (sth) into sth</font>*** 
+# ***\*dig (sth) into sth*** 
 
 
   
@@ -11374,7 +11374,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我们俩都集中精力钻研要饰演的角色。  （2017 全国改）  
 
 
-# ***<font color=#0099ff>\*dig out</font>*** 
+# ***\*dig out*** 
 
 
   
@@ -11390,7 +11390,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 真相被发现了。    
 
 
-# ***<font color=#0099ff>\*dig up</font>*** 
+# ***\*dig up*** 
 
 
   
@@ -11406,7 +11406,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 许多地区的人都在搜集古老的民间故事。    
 
 
-# ***<font color=#0099ff>\*dinner jacket</font>*** 
+# ***\*dinner jacket*** 
 
 
   
@@ -11416,7 +11416,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**男子晚礼服上装，无尾礼服上装（正式场合穿着，黑色或白色，通常打蝶形领结）**  
 
 
-# ***<font color=#0099ff>\*dish up</font>*** 
+# ***\*dish up*** 
 
 
   
@@ -11429,7 +11429,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 《家庭娱乐》杂志用180多页彩页把这些内容和更多有趣的活动娓娓道来。    
 
 
-# ***<font color=#0099ff>\*distance learning</font>*** 
+# ***\*distance learning*** 
 
 
   
@@ -11439,7 +11439,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**远程学习**  
 
 
-# ***<font color=#0099ff>\*dive into</font>*** 
+# ***\*dive into*** 
 
 
   
@@ -11452,7 +11452,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我知道自己足够聪明去潜心研究一个完全未知的领域。  （2016 天津）  
 
 
-# ***<font color=#0099ff>\*divide ... into</font>*** 
+# ***\*divide ... into*** 
 
 
   
@@ -11465,7 +11465,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 将奶酪分成三等份    
 
 
-# ***<font color=#0099ff>\*do / try one's best</font>*** 
+# ***\*do / try one's best*** 
 
 
   
@@ -11478,12 +11478,12 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我看这星期之内完不成，但我会尽最大的努力。    
 
 
-# ***<font color=#0099ff>\*do away with</font>*** 
+# ***\*do away with*** 
 
 
   
 
-# ***<font color=#0099ff>\*do good (to)</font>*** 
+# ***\*do good (to)*** 
 
 
   
@@ -11496,7 +11496,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 人们认为登山有益健康。  （2008 安徽）  
 
 
-# ***<font color=#0099ff>\*do harm to / do ... harm</font>*** 
+# ***\*do harm to / do ... harm*** 
 
 
   
@@ -11509,7 +11509,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 饮酒过量危害甚大。    
 
 
-# ***<font color=#0099ff>\*do one's bit</font>*** 
+# ***\*do one's bit*** 
 
 
   
@@ -11522,7 +11522,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 每个人都应该尽自己的本分保护环境。    
 
 
-# ***<font color=#0099ff>\*do one's duty</font>*** 
+# ***\*do one's duty*** 
 
 
   
@@ -11535,7 +11535,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 那对父母尽了自己的责任。  （2017 全国）  
 
 
-# ***<font color=#0099ff>\*do one's part</font>*** 
+# ***\*do one's part*** 
 
 
   
@@ -11545,7 +11545,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**尽自己的职责**  
 
 
-# ***<font color=#0099ff>\*do sb good</font>*** 
+# ***\*do sb good*** 
 
 
   
@@ -11558,7 +11558,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 那样想对你没好处。  （2013 广东）  
 
 
-# ***<font color=#0099ff>\*do the necessary</font>*** 
+# ***\*do the necessary*** 
 
 
   
@@ -11568,22 +11568,22 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**做必要的事**  
 
 
-# ***<font color=#0099ff>\*do up</font>*** 
+# ***\*do up*** 
 
 
   
 
-# ***<font color=#0099ff>\*do with</font>*** 
+# ***\*do with*** 
 
 
   
 
-# ***<font color=#0099ff>\*do without</font>*** 
+# ***\*do without*** 
 
 
   
 
-# ***<font color=#0099ff>\*dozens of</font>*** 
+# ***\*dozens of*** 
 
 
   
@@ -11596,12 +11596,12 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 飓风刮走了很多村庄，刮倒了数千棵树。    
 
 
-# ***<font color=#0099ff>\*drag one's feet</font>*** 
+# ***\*drag one's feet*** 
 
 
   
 
-# ***<font color=#0099ff>\*draw a conclusion</font>*** 
+# ***\*draw a conclusion*** 
 
 
   
@@ -11614,7 +11614,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 从某事中得出结论    
 
 
-# ***<font color=#0099ff>\*draw in</font>*** 
+# ***\*draw in*** 
 
 
   
@@ -11627,7 +11627,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 火车7点53分进站。    
 
 
-# ***<font color=#0099ff>\*draw near / closer</font>*** 
+# ***\*draw near / closer*** 
 
 
   
@@ -11643,7 +11643,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 随着春节的临近，人们将举办丰富多彩的庆祝活动。  （2009 山东书面表达）  
 
 
-# ***<font color=#0099ff>\*draw out</font>*** 
+# ***\*draw out*** 
 
 
   
@@ -11653,7 +11653,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.*高义频：* **拖延；拉长：**  
 
 
-# ***<font color=#0099ff>\*draw sb's attention to</font>*** 
+# ***\*draw sb's attention to*** 
 
 
   
@@ -11663,7 +11663,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**引起某人注意（某事物）**  
 
 
-# ***<font color=#0099ff>\*draw someone's attention to</font>*** 
+# ***\*draw someone's attention to*** 
 
 
   
@@ -11673,7 +11673,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**使（某人）察觉到**  
 
 
-# ***<font color=#0099ff>\*draw up</font>*** 
+# ***\*draw up*** 
 
 
   
@@ -11686,7 +11686,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 草拟合同    
 
 
-# ***<font color=#0099ff>\*draw upon</font>*** 
+# ***\*draw upon*** 
 
 
   
@@ -11696,7 +11696,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**利用，凭借，依赖**  
 
 
-# ***<font color=#0099ff>\*dream of</font>*** 
+# ***\*dream of*** 
 
 
   
@@ -11709,7 +11709,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 我一直梦想自己创业。    
 
 
-# ***<font color=#0099ff>\*dream team</font>*** 
+# ***\*dream team*** 
 
 
   
@@ -11719,7 +11719,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ### 1.**梦之队**  
 
 
-# ***<font color=#0099ff>\*dress up</font>*** 
+# ***\*dress up*** 
 
 
   
@@ -11735,7 +11735,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 他们乔装打扮去吓唬别人。  （人教③ – 1）  
 
 
-# ***<font color=#0099ff>\*drive away</font>*** 
+# ***\*drive away*** 
 
 
   
@@ -11748,7 +11748,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 两年半后，熊猫妈妈把小熊猫赶跑了。  （2016 四川）  
 
 
-# ***<font color=#0099ff>\*drop in</font>*** 
+# ***\*drop in*** 
 
 
   
@@ -11765,7 +11765,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 
 Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop in at some place”。  
 
-# ***<font color=#0099ff>\*drop off</font>*** 
+# ***\*drop off*** 
 
 
   
@@ -11791,7 +11791,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 我把公共汽车停在路边，好让那个小女孩下车。  （2012 全国改）  
 
 
-# ***<font color=#0099ff>\*drop out</font>*** 
+# ***\*drop out*** 
 
 
   
@@ -11807,7 +11807,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 她开始攻读工程学学位，但仅一年后就辍学了。    
 
 
-# ***<font color=#0099ff>\*drop out (of)</font>*** 
+# ***\*drop out (of)*** 
 
 
   
@@ -11823,7 +11823,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 她开始攻读工程学学位，但仅一年后就辍学了。    
 
 
-# ***<font color=#0099ff>\*dry off</font>*** 
+# ***\*dry off*** 
 
 
   
@@ -11833,7 +11833,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
 ### 1.**(使) 变干；(把…) 弄干**  
 
 
-# ***<font color=#0099ff>\*dry out</font>*** 
+# ***\*dry out*** 
 
 
   
@@ -11843,7 +11843,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
 ### 1.**(使) 完全变干；干透**  
 
 
-# ***<font color=#0099ff>\*dry up</font>*** 
+# ***\*dry up*** 
 
 
   
@@ -11856,7 +11856,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 经过几个世纪，水完全干了。    
 
 
-# ***<font color=#0099ff>\*due to</font>*** 
+# ***\*due to*** 
 
 
   
@@ -11872,7 +11872,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 水资源严重短缺主要是由全球变暖、环境污染和人口持续增长造成的。  （2010 福建书面表达改）  
 
 
-# ***<font color=#0099ff>\*each and every</font>*** 
+# ***\*each and every*** 
 
 
   
@@ -11885,7 +11885,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 这些问题影响到我们每一个人。    
 
 
-# ***<font color=#0099ff>\*each other</font>*** 
+# ***\*each other*** 
 
 
   
@@ -11898,7 +11898,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 我们互相挥手告别。  （2012 北京）  
 
 
-# ***<font color=#0099ff>\*earn / get straight A's</font>*** 
+# ***\*earn / get straight A's*** 
 
 
   
@@ -11908,7 +11908,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
 ### 1.**得全优成绩**  
 
 
-# ***<font color=#0099ff>\*earn a / one's living</font>*** 
+# ***\*earn a / one's living*** 
 
 
   
@@ -11921,7 +11921,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 他靠打零工谋生。    
 
 
-# ***<font color=#0099ff>\*earn one's living</font>*** 
+# ***\*earn one's living*** 
 
 
   
@@ -11934,7 +11934,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 作为成年人，你应该能够养活自己。    
 
 
-# ***<font color=#0099ff>\*ease (oneself) into</font>*** 
+# ***\*ease (oneself) into*** 
 
 
   
@@ -11947,7 +11947,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 生完孩子她又重新开始工作了。    
 
 
-# ***<font color=#0099ff>\*eat one's words</font>*** 
+# ***\*eat one's words*** 
 
 
   
@@ -11957,7 +11957,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
 ### 1.**收回前言；承认错误**  
 
 
-# ***<font color=#0099ff>\*eat out</font>*** 
+# ***\*eat out*** 
 
 
   
@@ -11973,7 +11973,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 没关系，我们今天可以出去吃。    
 
 
-# ***<font color=#0099ff>\*eat up</font>*** 
+# ***\*eat up*** 
 
 
   
@@ -11986,7 +11986,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 饭凉之前把它吃完。    
 
 
-# ***<font color=#0099ff>\*either … or …</font>*** 
+# ***\*either … or …*** 
 
 
   
@@ -12009,7 +12009,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
 
 Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近的主语一致。  
 
-# ***<font color=#0099ff>\*electric shock</font>*** 
+# ***\*electric shock*** 
 
 
   
@@ -12019,7 +12019,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**触电；电休克**  
 
 
-# ***<font color=#0099ff>\*emphasize / emphasise</font>*** vt
+# ***\*emphasize / emphasise*** vt
 英音 'emfəsaɪz     美音 'emfəsaɪz  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -12035,7 +12035,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 重读第三个词    
 
 
-# ***<font color=#0099ff>\*end in</font>*** 
+# ***\*end in*** 
 
 
   
@@ -12048,7 +12048,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 即使是成功的发明家也有很多以失败告终的实验。  （人教⑧ – 3）  
 
 
-# ***<font color=#0099ff>\*end up</font>*** 
+# ***\*end up*** 
 
 
   
@@ -12071,7 +12071,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 尽管加入公司时他是个职员，但很快得到了提升，最终当上了经理。  （2010 天津）  
 
 
-# ***<font color=#0099ff>\*enjoy oneself</font>*** 
+# ***\*enjoy oneself*** 
 
 
   
@@ -12087,7 +12087,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 不管孩子是输还是赢，父母和教练都应该教会孩子享受乐趣。    
 
 
-# ***<font color=#0099ff>\*enquiry / inquiry</font>*** n
+# ***\*enquiry / inquiry*** n
 英音 ɪn'kwaɪəri     美音 'ɪnkwəri ; ɪn'kwaɪəri  
 
 | 词频 1 | 口语 2 | 书面 2 | 阅读 1 |  
@@ -12107,7 +12107,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 警方已开始进行事故调查。    
 
 
-# ***<font color=#0099ff>\*enter into</font>*** 
+# ***\*enter into*** 
 
 
   
@@ -12132,7 +12132,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 在我的计划中未考虑到她会生病。    
 
 
-# ***<font color=#0099ff>\*even / much / still less</font>*** 
+# ***\*even / much / still less*** 
 
 
   
@@ -12145,7 +12145,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 连个解释也不给，更不用说道歉了。    
 
 
-# ***<font color=#0099ff>\*even if</font>*** 
+# ***\*even if*** 
 
 
   
@@ -12158,7 +12158,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 他性情十分温和，即使有充分的理由，他也不会动怒。    
 
 
-# ***<font color=#0099ff>\*even if / though</font>*** 
+# ***\*even if / though*** 
 
 
   
@@ -12171,7 +12171,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我爷爷尽管90多岁了，仍然时不时地打打网球。  （2016 北京）  
 
 
-# ***<font color=#0099ff>\*even now / then</font>*** 
+# ***\*even now / then*** 
 
 
   
@@ -12184,7 +12184,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 即使到现在，水仍是主要的发电资源。    
 
 
-# ***<font color=#0099ff>\*even so</font>*** 
+# ***\*even so*** 
 
 
   
@@ -12197,7 +12197,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 你叔叔看上去开车技术不错；即便如此，我也不敢坐他的车。    
 
 
-# ***<font color=#0099ff>\*even though</font>*** 
+# ***\*even though*** 
 
 
   
@@ -12210,7 +12210,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我爷爷尽管90多岁了，仍然时不时地打打网球。  （2016 北京）  
 
 
-# ***<font color=#0099ff>\*ever after</font>*** 
+# ***\*ever after*** 
 
 
   
@@ -12220,7 +12220,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**从那时以后一直**  
 
 
-# ***<font color=#0099ff>\*ever since</font>*** 
+# ***\*ever since*** 
 
 
   
@@ -12233,7 +12233,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 他们的作品自那时起一直影响着其他作家。  （外研③ – 1）  
 
 
-# ***<font color=#0099ff>\*every now and then</font>*** 
+# ***\*every now and then*** 
 
 
   
@@ -12249,7 +12249,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
   
 
 
-# ***<font color=#0099ff>\*every time</font>*** 
+# ***\*every time*** 
 
 
   
@@ -12262,7 +12262,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我们最值得自豪的不在于永不跌倒，而在于每次跌倒之后都站了起来。    
 
 
-# ***<font color=#0099ff>\*except for</font>*** 
+# ***\*except for*** 
 
 
   
@@ -12278,7 +12278,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 除了角落里立着一个书架外，房间内空荡荡的。    
 
 
-# ***<font color=#0099ff>\*excuse me</font>*** 
+# ***\*excuse me*** 
 
 
   
@@ -12291,7 +12291,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 对不起，请挪一下，让我过去好吗？    
 
 
-# ***<font color=#0099ff>\*explain oneself</font>*** 
+# ***\*explain oneself*** 
 
 
   
@@ -12307,7 +12307,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我给你五分钟解释自己的所作所为。    
 
 
-# ***<font color=#0099ff>\*expose ... to</font>*** 
+# ***\*expose ... to*** 
 
 
   
@@ -12317,7 +12317,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**使显露；暴露**  
 
 
-# ***<font color=#0099ff>\*face to face</font>*** 
+# ***\*face to face*** 
 
 
   
@@ -12333,7 +12333,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 他面临一个新问题。    
 
 
-# ***<font color=#0099ff>\*face up to</font>*** 
+# ***\*face up to*** 
 
 
   
@@ -12346,7 +12346,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 勇于面对自己的问题而不是逃避是解决事情的最好办法。  （2014 浙江）  
 
 
-# ***<font color=#0099ff>\*fade out</font>*** 
+# ***\*fade out*** 
 
 
   
@@ -12359,7 +12359,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 随着男主角策马向夕阳驰去，尾声音乐逐渐消失。    
 
 
-# ***<font color=#0099ff>\*fairy tale</font>*** 
+# ***\*fairy tale*** 
 英音 ˈfɛəri teil     美音 ˈfɛəri teil  
 
 | 词频 1 |  
@@ -12369,7 +12369,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.*高义频：* **神话故事；童话**  
 
 
-# ***<font color=#0099ff>\*fall / drop asleep</font>*** 
+# ***\*fall / drop asleep*** 
 
 
   
@@ -12382,7 +12382,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我太累了，头一碰到枕头就睡着了。    
 
 
-# ***<font color=#0099ff>\*fall / get / run into debt</font>*** 
+# ***\*fall / get / run into debt*** 
 
 
   
@@ -12395,7 +12395,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 借债容易还债难。    
 
 
-# ***<font color=#0099ff>\*fall apart</font>*** 
+# ***\*fall apart*** 
 
 
   
@@ -12411,7 +12411,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我们在价格上未能达成一致，生意没做成。    
 
 
-# ***<font color=#0099ff>\*fall asleep</font>*** 
+# ***\*fall asleep*** 
 
 
   
@@ -12424,7 +12424,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 有时候人们太累了，几乎在哪儿都能睡着。  （2011 全国）  
 
 
-# ***<font color=#0099ff>\*fall behind</font>*** 
+# ***\*fall behind*** 
 
 
   
@@ -12437,7 +12437,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 当有些同学落后时，其他的同学就会主动来帮忙。  （2013 江西书面表达）  
 
 
-# ***<font color=#0099ff>\*fall down</font>*** 
+# ***\*fall down*** 
 
 
   
@@ -12456,7 +12456,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 这就是该理论的不足之处。    
 
 
-# ***<font color=#0099ff>\*fall for</font>*** 
+# ***\*fall for*** 
 
 
   
@@ -12472,7 +12472,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我们绝不能轻信这种小把戏而上当啊！    
 
 
-# ***<font color=#0099ff>\*fall ill</font>*** 
+# ***\*fall ill*** 
 
 
   
@@ -12482,7 +12482,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**生病**  
 
 
-# ***<font color=#0099ff>\*fall in love</font>*** 
+# ***\*fall in love*** 
 
 
   
@@ -12495,7 +12495,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 如果你喜欢上某件事，并一直坚持做下去，就会做得更好。  （2016 天津）  
 
 
-# ***<font color=#0099ff>\*fall in love (with)</font>*** 
+# ***\*fall in love (with)*** 
 
 
   
@@ -12508,7 +12508,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 如果你喜欢上某件事，并一直坚持做下去，就会做得更好。  （2016 天津）  
 
 
-# ***<font color=#0099ff>\*fall off</font>*** 
+# ***\*fall off*** 
 
 
   
@@ -12521,7 +12521,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 学骑自行车时，经常会摔下来。    
 
 
-# ***<font color=#0099ff>\*fall out</font>*** 
+# ***\*fall out*** 
 
 
   
@@ -12531,7 +12531,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**（头发等）脱落**  
 
 
-# ***<font color=#0099ff>\*fall over</font>*** 
+# ***\*fall over*** 
 
 
   
@@ -12547,7 +12547,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 猎人一开枪，鹿应声倒下，死了。    
 
 
-# ***<font color=#0099ff>\*fall victim to / become a victim to</font>*** 
+# ***\*fall victim to / become a victim to*** 
 
 
   
@@ -12557,7 +12557,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**成为…的牺牲品**  
 
 
-# ***<font color=#0099ff>\*fancy dress</font>*** 
+# ***\*fancy dress*** 
 
 
   
@@ -12567,7 +12567,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**化装服**  
 
 
-# ***<font color=#0099ff>\*fancy oneself (as) sth</font>*** 
+# ***\*fancy oneself (as) sth*** 
 
 
   
@@ -12577,7 +12577,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**自以为是某种人**  
 
 
-# ***<font color=#0099ff>\*far from</font>*** 
+# ***\*far from*** 
 
 
   
@@ -12593,7 +12593,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 这些在线服务中有许多不但不向消费者收取高额费用，而且还免费。  （2017 江苏改）  
 
 
-# ***<font color=#0099ff>\*far too</font>*** 
+# ***\*far too*** 
 
 
   
@@ -12603,7 +12603,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**太, 极为**  
 
 
-# ***<font color=#0099ff>\*fed up</font>*** 
+# ***\*fed up*** 
 
 
   
@@ -12613,7 +12613,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**不愉快的, 厌烦的**  
 
 
-# ***<font color=#0099ff>\*fed up with</font>*** 
+# ***\*fed up with*** 
 
 
   
@@ -12626,7 +12626,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我讨厌这种潮湿的天气。    
 
 
-# ***<font color=#0099ff>\*feed back</font>*** 
+# ***\*feed back*** 
 
 
   
@@ -12639,7 +12639,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 观众给我提的意见反过来对我的作品产生了影响。    
 
 
-# ***<font color=#0099ff>\*feed on</font>*** 
+# ***\*feed on*** 
 
 
   
@@ -12652,7 +12652,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 蝙蝠在夜间飞行，以昆虫为食。    
 
 
-# ***<font color=#0099ff>\*feel (like / quite) oneself</font>*** 
+# ***\*feel (like / quite) oneself*** 
 
 
   
@@ -12665,7 +12665,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我今天感到不太舒服。    
 
 
-# ***<font color=#0099ff>\*feel / be content with</font>*** 
+# ***\*feel / be content with*** 
 
 
   
@@ -12678,7 +12678,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 得第二名我就知足了，因为我知道自己已经尽最大努力了。  （译林⑥ – 2）  
 
 
-# ***<font color=#0099ff>\*feel at home</font>*** 
+# ***\*feel at home*** 
 
 
   
@@ -12691,7 +12691,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 她亲切的笑容使每个人都感觉宾至如归。    
 
 
-# ***<font color=#0099ff>\*feel like (doing)</font>*** 
+# ***\*feel like (doing)*** 
 
 
   
@@ -12707,7 +12707,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 天气这么好，我想出去野餐。    
 
 
-# ***<font color=#0099ff>\*feel like (doing) sth</font>*** 
+# ***\*feel like (doing) sth*** 
 
 
   
@@ -12723,7 +12723,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 天气这么好，我想出去野餐。    
 
 
-# ***<font color=#0099ff>\*fellow students</font>*** 
+# ***\*fellow students*** 
 
 
   
@@ -12736,7 +12736,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 有时我会充当同学们的听众，聊一聊他们的烦恼。  （2015 湖南）  
 
 
-# ***<font color=#0099ff>\*fibre / fiber</font>*** n
+# ***\*fibre / fiber*** n
 英音 'faɪbə(r)     美音 'faɪbər  
 
 | 词频 1 |  
@@ -12749,7 +12749,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 纤维含量丰富的食物有助于消化。    
 
 
-# ***<font color=#0099ff>\*field research</font>*** 
+# ***\*field research*** 
 
 
   
@@ -12759,7 +12759,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**实地研究，实地调研**  
 
 
-# ***<font color=#0099ff>\*fight back</font>*** 
+# ***\*fight back*** 
 
 
   
@@ -12775,7 +12775,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 她看着别处，强忍着泪。    
 
 
-# ***<font color=#0099ff>\*figure out</font>*** 
+# ***\*figure out*** 
 
 
   
@@ -12797,7 +12797,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 本弄清楚了如何猜对答案，所以得了高分。    
 
 
-# ***<font color=#0099ff>\*fill in</font>*** 
+# ***\*fill in*** 
 
 
   
@@ -12811,7 +12811,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 如果有兴趣，你需要填一些表格。  （2008 安徽）  
 
 
-# ***<font color=#0099ff>\*fill in / out</font>*** 
+# ***\*fill in / out*** 
 
 
   
@@ -12825,7 +12825,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 如果有兴趣，你需要填一些表格。  （2008 安徽）  
 
 
-# ***<font color=#0099ff>\*fill in for</font>*** 
+# ***\*fill in for*** 
 
 
   
@@ -12838,7 +12838,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 她让我临时为一个得了流感的人代班。    
 
 
-# ***<font color=#0099ff>\*fill out</font>*** 
+# ***\*fill out*** 
 
 
   
@@ -12848,7 +12848,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**填写**  
 
 
-# ***<font color=#0099ff>\*fill up</font>*** 
+# ***\*fill up*** 
 
 
   
@@ -12861,7 +12861,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 要不要我给车加满汽油？    
 
 
-# ***<font color=#0099ff>\*find fault (with)</font>*** 
+# ***\*find fault (with)*** 
 
 
   
@@ -12880,7 +12880,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 如果你不忙于挑剔生活，生活可以很美好。  （2015 福建）  
 
 
-# ***<font color=#0099ff>\*find out</font>*** 
+# ***\*find out*** 
 
 
   
@@ -12906,7 +12906,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 科学家们想努力弄清火星上是否存在生命。  （2010 重庆）  
 
 
-# ***<font color=#0099ff>\*finish off</font>*** 
+# ***\*finish off*** 
 
 
   
@@ -12919,7 +12919,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 你能给我一点时间让我完成手头的工作吗？    
 
 
-# ***<font color=#0099ff>\*finish up</font>*** 
+# ***\*finish up*** 
 
 
   
@@ -12932,7 +12932,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 许多演讲者以问答环节结束自己的演讲。  （2012 陕西）  
 
 
-# ***<font color=#0099ff>\*finish with</font>*** 
+# ***\*finish with*** 
 
 
   
@@ -12945,7 +12945,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 看完报纸之后请还给我。    
 
 
-# ***<font color=#0099ff>\*first aid</font>*** 
+# ***\*first aid*** 
 
 
   
@@ -12958,7 +12958,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 在治疗烧伤的过程中，急救处理是非常重要的第一步。  （人教⑤ – 5）  
 
 
-# ***<font color=#0099ff>\*first aid kit</font>*** 
+# ***\*first aid kit*** 
 
 
   
@@ -12968,7 +12968,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**急救箱**  
 
 
-# ***<font color=#0099ff>\*first of all</font>*** 
+# ***\*first of all*** 
 
 
   
@@ -12981,7 +12981,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我认为海伦不应该去，首先，她太年轻了。    
 
 
-# ***<font color=#0099ff>\*fit in</font>*** 
+# ***\*fit in*** 
 
 
   
@@ -13000,7 +13000,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 詹娜决定继续努力适应新学校。  （2008 天津）  
 
 
-# ***<font color=#0099ff>\*fit in (with)</font>*** 
+# ***\*fit in (with)*** 
 
 
   
@@ -13019,7 +13019,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 詹娜决定继续努力适应新学校。  （2008 天津）  
 
 
-# ***<font color=#0099ff>\*fit … in / into</font>*** 
+# ***\*fit … in / into*** 
 
 
   
@@ -13038,7 +13038,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 还能再放张桌子吗？    
 
 
-# ***<font color=#0099ff>\*fix on</font>*** 
+# ***\*fix on*** 
 
 
   
@@ -13048,7 +13048,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**注视，凝视**  
 
 
-# ***<font color=#0099ff>\*fix one's eyes on</font>*** 
+# ***\*fix one's eyes on*** 
 
 
   
@@ -13058,7 +13058,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**注视, 凝视**  
 
 
-# ***<font color=#0099ff>\*fix up</font>*** 
+# ***\*fix up*** 
 
 
   
@@ -13074,7 +13074,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 他们安排我在一家旅馆过夜。    
 
 
-# ***<font color=#0099ff>\*fix … on / upon</font>*** 
+# ***\*fix … on / upon*** 
 
 
   
@@ -13092,7 +13092,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 你必须集中注意力听老师讲。    
 
 
-# ***<font color=#0099ff>\*flash card</font>*** 
+# ***\*flash card*** 
 
 
   
@@ -13102,7 +13102,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**教学卡片；识字卡**  
 
 
-# ***<font color=#0099ff>\*flesh and blood</font>*** 
+# ***\*flesh and blood*** 
 
 
   
@@ -13112,7 +13112,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**血肉之躯**  
 
 
-# ***<font color=#0099ff>\*flow chart</font>*** 
+# ***\*flow chart*** 
 
 
   
@@ -13122,7 +13122,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**流程图，作业图**  
 
 
-# ***<font color=#0099ff>\*focus on</font>*** 
+# ***\*focus on*** 
 
 
   
@@ -13138,7 +13138,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 通过注重节约油、水、纸张、食品和衣物，我们在减少浪费方面正发挥着作用。  （2014 福建）  
 
 
-# ***<font color=#0099ff>\*focus on / upon</font>*** 
+# ***\*focus on / upon*** 
 
 
   
@@ -13154,7 +13154,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 通过注重节约油、水、纸张、食品和衣物，我们在减少浪费方面正发挥着作用。  （2014 福建）  
 
 
-# ***<font color=#0099ff>\*folk song</font>*** n
+# ***\*folk song*** n
 
 
   
@@ -13167,7 +13167,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 民歌    
 
 
-# ***<font color=#0099ff>\*follow in one's footsteps</font>*** 
+# ***\*follow in one's footsteps*** 
 
 
   
@@ -13180,7 +13180,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 他是名医生，期望儿子能继承他的事业。    
 
 
-# ***<font color=#0099ff>\*follow in sb's footsteps</font>*** 
+# ***\*follow in sb's footsteps*** 
 
 
   
@@ -13193,7 +13193,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 他是名医生，期望儿子能继承他的事业。    
 
 
-# ***<font color=#0099ff>\*follow sb's example</font>*** 
+# ***\*follow sb's example*** 
 
 
   
@@ -13203,7 +13203,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**学习某人；效仿某人**  
 
 
-# ***<font color=#0099ff>\*follow suit</font>*** 
+# ***\*follow suit*** 
 
 
   
@@ -13213,7 +13213,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**照着做；跟着做**  
 
 
-# ***<font color=#0099ff>\*follow up</font>*** 
+# ***\*follow up*** 
 
 
   
@@ -13229,7 +13229,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 要是你的信没人回复，就打个电话追问一下。    
 
 
-# ***<font color=#0099ff>\*food chain</font>*** n
+# ***\*food chain*** n
 
 
   
@@ -13239,7 +13239,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**食物链**  
 
 
-# ***<font color=#0099ff>\*for (so) long</font>*** 
+# ***\*for (so) long*** 
 
 
   
@@ -13255,7 +13255,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 真抱歉，我好长时间没给你写信了。  （译林② – 2）  
 
 
-# ***<font color=#0099ff>\*for a moment</font>*** 
+# ***\*for a moment*** 
 
 
   
@@ -13268,7 +13268,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 他沉默了一会儿。    
 
 
-# ***<font color=#0099ff>\*for a start</font>*** 
+# ***\*for a start*** 
 
 
   
@@ -13278,7 +13278,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**首先**  
 
 
-# ***<font color=#0099ff>\*for ages</font>*** 
+# ***\*for ages*** 
 
 
   
@@ -13291,7 +13291,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我很长时间没看见你了。  （2009 全国）  
 
 
-# ***<font color=#0099ff>\*for better or (for) worse</font>*** 
+# ***\*for better or (for) worse*** 
 
 
   
@@ -13301,7 +13301,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**不论好坏；不管是福是祸**  
 
 
-# ***<font color=#0099ff>\*for certain</font>*** 
+# ***\*for certain*** 
 
 
   
@@ -13311,7 +13311,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**确定；无疑**  
 
 
-# ***<font color=#0099ff>\*for company</font>*** 
+# ***\*for company*** 
 
 
   
@@ -13324,7 +13324,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 几乎没有风，只有篝火的火焰与我们作伴。  （人教① – 3）  
 
 
-# ***<font color=#0099ff>\*for example</font>*** 
+# ***\*for example*** 
 
 
   
@@ -13337,7 +13337,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 许多伟人出身贫苦，例如林肯和爱迪生。    
 
 
-# ***<font color=#0099ff>\*for fear of (doing) sth / for fear (that)</font>*** 
+# ***\*for fear of (doing) sth / for fear (that)*** 
 
 
   
@@ -13356,7 +13356,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 他早早就出发了，以免面试迟到。    
 
 
-# ***<font color=#0099ff>\*for free</font>*** 
+# ***\*for free*** 
 
 
   
@@ -13369,7 +13369,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我曾无偿为一个非营利性组织工作过。    
 
 
-# ***<font color=#0099ff>\*for fun</font>*** 
+# ***\*for fun*** 
 
 
   
@@ -13385,7 +13385,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 各大洲的人们都踢足球，一些人为了消遣，一些人为了生存。  （2010 天津）  
 
 
-# ***<font color=#0099ff>\*for good</font>*** 
+# ***\*for good*** 
 
 
   
@@ -13398,7 +13398,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 那个谋杀犯将被终身监禁。    
 
 
-# ***<font color=#0099ff>\*for good measure</font>*** 
+# ***\*for good measure*** 
 
 
   
@@ -13408,7 +13408,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**额外**  
 
 
-# ***<font color=#0099ff>\*for lack of</font>*** 
+# ***\*for lack of*** 
 
 
   
@@ -13424,7 +13424,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 由于缺少光照，叶子变黄了。  （2005 全国改）  
 
 
-# ***<font color=#0099ff>\*for nothing</font>*** 
+# ***\*for nothing*** 
 
 
   
@@ -13440,7 +13440,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我到达时，他已经离开。我白跑了一趟。    
 
 
-# ***<font color=#0099ff>\*for one thing …, for another (thing) …</font>*** 
+# ***\*for one thing …, for another (thing) …*** 
 
 
   
@@ -13453,7 +13453,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 首先，阅读文学书籍有助于提高我的写作技能并开阔视野。再者，还能丰富我的生活。  （2012 江西书面表达改）  
 
 
-# ***<font color=#0099ff>\*for pleasure</font>*** 
+# ***\*for pleasure*** 
 
 
   
@@ -13466,12 +13466,12 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我们读书主要是为了获取信息，并非为了消遣。    
 
 
-# ***<font color=#0099ff>\*for rent</font>*** 
+# ***\*for rent*** 
 
 
   
 
-# ***<font color=#0099ff>\*for sale</font>*** 
+# ***\*for sale*** 
 
 
   
@@ -13484,7 +13484,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 待售房屋    
 
 
-# ***<font color=#0099ff>\*for sb's benefit / for the benefit of sb</font>*** 
+# ***\*for sb's benefit / for the benefit of sb*** 
 
 
   
@@ -13497,7 +13497,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 该款项将用于救助穷人。    
 
 
-# ***<font color=#0099ff>\*for some reason</font>*** 
+# ***\*for some reason*** 
 
 
   
@@ -13510,7 +13510,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 不知为什么他们取消了计划。    
 
 
-# ***<font color=#0099ff>\*for sure</font>*** 
+# ***\*for sure*** 
 
 
   
@@ -13523,7 +13523,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 没有人确切地知道恐龙为什么、又是怎样在这么短的时间内从地球上消失的。  （人教② – 4）  
 
 
-# ***<font color=#0099ff>\*for the first time</font>*** 
+# ***\*for the first time*** 
 
 
   
@@ -13536,7 +13536,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 她道了声再见，这是他们第一次分开旅行。  （2010 湖北）  
 
 
-# ***<font color=#0099ff>\*for the moment</font>*** 
+# ***\*for the moment*** 
 
 
   
@@ -13549,7 +13549,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我工作得不太开心，但暂时还会留在那里。    
 
 
-# ***<font color=#0099ff>\*for the most part</font>*** 
+# ***\*for the most part*** 
 
 
   
@@ -13562,7 +13562,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 大多数情况下，学生打工赚钱是为了自己用。    
 
 
-# ***<font color=#0099ff>\*for the present</font>*** 
+# ***\*for the present*** 
 
 
   
@@ -13578,7 +13578,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 我一时想不起来了。    
 
 
-# ***<font color=#0099ff>\*for the sake of sb / sth</font>*** 
+# ***\*for the sake of sb / sth*** 
 
 
   
@@ -13591,7 +13591,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 他为了健康而搬去海边。    
 
 
-# ***<font color=#0099ff>\*for the time (being)</font>*** 
+# ***\*for the time (being)*** 
 
 
   
@@ -13604,7 +13604,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 感觉好点后，她决定暂时不想数学的事。  （2008 天津）  
 
 
-# ***<font color=#0099ff>\*for the worse</font>*** 
+# ***\*for the worse*** 
 
 
   
@@ -13617,7 +13617,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 这位病人的病情恶化了。    
 
 
-# ***<font color=#0099ff>\*forget it</font>*** 
+# ***\*forget it*** 
 
 
   
@@ -13651,7 +13651,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 别提了，那无关紧要。    
 
 
-# ***<font color=#0099ff>\*forgive and forget</font>*** 
+# ***\*forgive and forget*** 
 
 
   
@@ -13664,7 +13664,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 不记仇是一种美德，特别是在这样一个竞争激烈、有压力的社会中。  （2012 江苏书面表达改）  
 
 
-# ***<font color=#0099ff>\*frankly speaking</font>*** 
+# ***\*frankly speaking*** 
 
 
   
@@ -13674,7 +13674,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ### 1.**坦率地说**  
 
 
-# ***<font color=#0099ff>\*free from</font>*** 
+# ***\*free from*** 
 
 
   
@@ -13693,7 +13693,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 雨季最令人愉快的是可以完全没有尘土。  （2016 北京）  
 
 
-# ***<font color=#0099ff>\*free of</font>*** 
+# ***\*free of*** 
 
 
   
@@ -13706,7 +13706,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 过了几星期他的疼痛才完全消除。    
 
 
-# ***<font color=#0099ff>\*free of charge</font>*** 
+# ***\*free of charge*** 
 
 
   
@@ -13719,7 +13719,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 你订的货物将免费送达。    
 
 
-# ***<font color=#0099ff>\*frighten away / off</font>*** 
+# ***\*frighten away / off*** 
 
 
   
@@ -13735,7 +13735,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
  > 孩子们的叫喊声把鸟儿吓飞了。    
 
 
-# ***<font color=#0099ff>\*frighten sb to death / frighten the life out of sb</font>*** 
+# ***\*frighten sb to death / frighten the life out of sb*** 
 
 
   
@@ -13749,7 +13749,7 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 
 Notes: frighten用法及意义同scare，但比scare稍正式。  
 
-# ***<font color=#0099ff>\*from (then) on</font>*** 
+# ***\*from (then) on*** 
 
 
   
@@ -13762,7 +13762,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 从那时起，我们通过电子邮件保持联系。  （2010 全国）  
 
 
-# ***<font color=#0099ff>\*from ... on</font>*** 
+# ***\*from ... on*** 
 
 
   
@@ -13772,7 +13772,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 ### 1.**从……时起**  
 
 
-# ***<font color=#0099ff>\*from all sides</font>*** 
+# ***\*from all sides*** 
 
 
   
@@ -13785,7 +13785,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我们必须从各方面来研究这个问题。    
 
 
-# ***<font color=#0099ff>\*from bad to worse</font>*** 
+# ***\*from bad to worse*** 
 
 
   
@@ -13795,7 +13795,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 ### 1.**每况愈下**  
 
 
-# ***<font color=#0099ff>\*from side to side</font>*** 
+# ***\*from side to side*** 
 
 
   
@@ -13808,7 +13808,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 他慢慢地摇了摇头。    
 
 
-# ***<font color=#0099ff>\*from that moment on</font>*** 
+# ***\*from that moment on*** 
 
 
   
@@ -13818,7 +13818,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 ### 1.**从那时起**  
 
 
-# ***<font color=#0099ff>\*from the bottom of one's heart</font>*** 
+# ***\*from the bottom of one's heart*** 
 
 
   
@@ -13831,7 +13831,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我从心底里感激你。  （外研⑥ – 3）  
 
 
-# ***<font color=#0099ff>\*from then on</font>*** 
+# ***\*from then on*** 
 
 
   
@@ -13841,7 +13841,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 ### 1.**从那时起, 以后**  
 
 
-# ***<font color=#0099ff>\*from time to time</font>*** 
+# ***\*from time to time*** 
 
 
   
@@ -13854,7 +13854,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 最近，我和罗伊偶尔见面，但不再那么亲密了。  （外研⑥ – 3）  
 
 
-# ***<font color=#0099ff>\*garbage can</font>*** 
+# ***\*garbage can*** 
 
 
   
@@ -13864,7 +13864,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 ### 1.**〈美〉垃圾桶**  
 
 
-# ***<font color=#0099ff>\*generally speaking</font>*** 
+# ***\*generally speaking*** 
 
 
   
@@ -13877,7 +13877,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 一般来说，付出的越多，得到的越多。    
 
 
-# ***<font color=#0099ff>\*genetically modified</font>*** 
+# ***\*genetically modified*** 
 
 
   
@@ -13887,7 +13887,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 ### 1.**转基因的**  
 
 
-# ***<font color=#0099ff>\*get (hold of) the wrong end of the stick</font>*** 
+# ***\*get (hold of) the wrong end of the stick*** 
 
 
   
@@ -13897,7 +13897,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 ### 1.**完全误解**  
 
 
-# ***<font color=#0099ff>\*get (sb) into trouble</font>*** 
+# ***\*get (sb) into trouble*** 
 
 
   
@@ -13913,7 +13913,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 别提我的名字,免得给我惹麻烦。    
 
 
-# ***<font color=#0099ff>\*get / be tired of</font>*** 
+# ***\*get / be tired of*** 
 
 
   
@@ -13926,7 +13926,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 他厌倦了城市生活，希望迁居乡村，改变目前的生活方式。    
 
 
-# ***<font color=#0099ff>\*get a kick out of</font>*** 
+# ***\*get a kick out of*** 
 
 
   
@@ -13939,7 +13939,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 孩子自己找到答案会极其兴奋。  （2009 安徽改）  
 
 
-# ***<font color=#0099ff>\*get a load of…</font>*** 
+# ***\*get a load of…*** 
 
 
   
@@ -13949,7 +13949,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 ### 1.**注意，仔细看（常用于表示惊讶或羡慕）**  
 
 
-# ***<font color=#0099ff>\*get about</font>*** 
+# ***\*get about*** 
 
 
   
@@ -13959,7 +13959,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 ### 1.**四处走动；(消息等) 传开 (get around / round)**  
 
 
-# ***<font color=#0099ff>\*get across</font>*** 
+# ***\*get across*** 
 
 
   
@@ -13978,7 +13978,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 很难讲清楚这次旅行多么激动人心！  （北师大③ – 8）  
 
 
-# ***<font color=#0099ff>\*get along</font>*** 
+# ***\*get along*** 
 
 
   
@@ -13988,7 +13988,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 ### 1.**过活；生活；相处融洽；进展**  
 
 
-# ***<font color=#0099ff>\*get along / on ( with )</font>*** 
+# ***\*get along / on ( with )*** 
 
 
   
@@ -14006,7 +14006,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 你的论文写得怎么样了？    
 
 
-# ***<font color=#0099ff>\*get along with</font>*** 
+# ***\*get along with*** 
 
 
   
@@ -14024,7 +14024,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 你的论文写得怎么样了？    
 
 
-# ***<font color=#0099ff>\*get around</font>*** 
+# ***\*get around*** 
 
 
   
@@ -14047,7 +14047,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 他怎样能解决他的问题呢？  （2014 全国）  
 
 
-# ***<font color=#0099ff>\*get around / round</font>*** 
+# ***\*get around / round*** 
 
 
   
@@ -14070,7 +14070,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 他怎样能解决他的问题呢？  （2014 全国）  
 
 
-# ***<font color=#0099ff>\*get at</font>*** 
+# ***\*get at*** 
 
 
   
@@ -14094,7 +14094,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 他觉得自己老是被其他同学挖苦。    
 
 
-# ***<font color=#0099ff>\*get away (from)</font>*** 
+# ***\*get away (from)*** 
 
 
   
@@ -14113,7 +14113,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我需要排遣工作的压力。    
 
 
-# ***<font color=#0099ff>\*get away from</font>*** 
+# ***\*get away from*** 
 
 
   
@@ -14132,7 +14132,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我需要排遣工作的压力。    
 
 
-# ***<font color=#0099ff>\*get away with</font>*** 
+# ***\*get away with*** 
 
 
   
@@ -14148,7 +14148,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 你认为凶手应该逍遥法外吗？  （2012 辽宁）  
 
 
-# ***<font color=#0099ff>\*get back</font>*** 
+# ***\*get back*** 
 
 
   
@@ -14179,7 +14179,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我能借这本书吗？我保证你下周就能拿回去。    
 
 
-# ***<font color=#0099ff>\*get by</font>*** 
+# ***\*get by*** 
 
 
   
@@ -14200,7 +14200,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 她靠这点儿微薄的薪水怎么过活？    
 
 
-# ***<font color=#0099ff>\*get close to</font>*** 
+# ***\*get close to*** 
 
 
   
@@ -14213,7 +14213,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 先接近他，再跟他交朋友。    
 
 
-# ***<font color=#0099ff>\*get down</font>*** 
+# ***\*get down*** 
 
 
   
@@ -14235,7 +14235,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 持续的雨天真让我沮丧。    
 
 
-# ***<font color=#0099ff>\*get down to</font>*** 
+# ***\*get down to*** 
 
 
   
@@ -14249,7 +14249,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我们该开始干正事了。    
 
 
-# ***<font color=#0099ff>\*get down to business</font>*** 
+# ***\*get down to business*** 
 
 
   
@@ -14262,7 +14262,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 英德文化有相似的价值观，然而，德国人更喜欢尽快办正事。    
 
 
-# ***<font color=#0099ff>\*get down to sth.</font>*** 
+# ***\*get down to sth.*** 
 
 
   
@@ -14275,7 +14275,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 就介绍这么多吧，该开始工作了。    
 
 
-# ***<font color=#0099ff>\*get hold of</font>*** 
+# ***\*get hold of*** 
 
 
   
@@ -14288,7 +14288,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 童年的大部分时间我都在阅读我能得到的书籍。  （2010 四川改）  
 
 
-# ***<font color=#0099ff>\*get in</font>*** 
+# ***\*get in*** 
 
 
   
@@ -14310,7 +14310,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 她说起话来滔滔不绝，让人一句话都插不进去。    
 
 
-# ***<font color=#0099ff>\*get in touch</font>*** 
+# ***\*get in touch*** 
 
 
   
@@ -14323,7 +14323,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 如果你需要联系我们，这是我们的号码。    
 
 
-# ***<font color=#0099ff>\*get in touch (with)</font>*** 
+# ***\*get in touch (with)*** 
 
 
   
@@ -14336,7 +14336,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 如果你需要联系我们，这是我们的号码。    
 
 
-# ***<font color=#0099ff>\*get into</font>*** 
+# ***\*get into*** 
 
 
   
@@ -14358,7 +14358,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 许多无家可归的人开始有了乞讨的习惯以得到足够的钱活下去。    
 
 
-# ***<font color=#0099ff>\*get into shape</font>*** 
+# ***\*get into shape*** 
 
 
   
@@ -14368,7 +14368,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 ### 1.**强身健体**  
 
 
-# ***<font color=#0099ff>\*get into trouble</font>*** 
+# ***\*get into trouble*** 
 
 
   
@@ -14384,7 +14384,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 别提我的名字,免得给我惹麻烦。    
 
 
-# ***<font color=#0099ff>\*get involved with</font>*** 
+# ***\*get involved with*** 
 
 
   
@@ -14403,7 +14403,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 父亲应该更多和自己的孩子在一起。    
 
 
-# ***<font color=#0099ff>\*get married to</font>*** 
+# ***\*get married to*** 
 
 
   
@@ -14416,7 +14416,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 简一毕业就嫁给了她丈夫。    
 
 
-# ***<font color=#0099ff>\*get off</font>*** 
+# ***\*get off*** 
 
 
   
@@ -14432,7 +14432,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 把湿衣服脱下来吧。    
 
 
-# ***<font color=#0099ff>\*get on</font>*** 
+# ***\*get on*** 
 
 
   
@@ -14448,7 +14448,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 穿上你的胶鞋，我们得冒雨出去。    
 
 
-# ***<font color=#0099ff>\*get on sb's nerves</font>*** 
+# ***\*get on sb's nerves*** 
 
 
   
@@ -14461,7 +14461,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 别吹口哨了!扰得我心烦!    
 
 
-# ***<font color=#0099ff>\*get out (of)</font>*** 
+# ***\*get out (of)*** 
 
 
   
@@ -14480,7 +14480,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 他们努力改掉坏习惯。  （2013 辽宁改）  
 
 
-# ***<font color=#0099ff>\*get out of</font>*** 
+# ***\*get out of*** 
 
 
   
@@ -14493,7 +14493,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我下车查看损坏情况。    
 
 
-# ***<font color=#0099ff>\*get out of control</font>*** 
+# ***\*get out of control*** 
 
 
   
@@ -14503,7 +14503,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 ### 1.**摆脱控制**  
 
 
-# ***<font color=#0099ff>\*get out of the habit of</font>*** 
+# ***\*get out of the habit of*** 
 
 
   
@@ -14516,7 +14516,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我已经没有晚饭后散步的习惯了。    
 
 
-# ***<font color=#0099ff>\*get over</font>*** 
+# ***\*get over*** 
 
 
   
@@ -14532,7 +14532,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我们相信他一定会战胜疾病。    
 
 
-# ***<font color=#0099ff>\*get rid of</font>*** 
+# ***\*get rid of*** 
 
 
   
@@ -14545,7 +14545,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我们除不掉鱼腥味。  （北师大⑧ – 23）  
 
 
-# ***<font color=#0099ff>\*get something across</font>*** 
+# ***\*get something across*** 
 
 
   
@@ -14558,7 +14558,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 很难讲清楚那是多么激动人心！  （北师大③ – 8）  
 
 
-# ***<font color=#0099ff>\*get started</font>*** 
+# ***\*get started*** 
 
 
   
@@ -14571,7 +14571,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 都快10点了，我们开始吧。    
 
 
-# ***<font color=#0099ff>\*get sth straight</font>*** 
+# ***\*get sth straight*** 
 
 
   
@@ -14581,7 +14581,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 ### 1.**[口语] 弄清楚某事**  
 
 
-# ***<font color=#0099ff>\*get the hang of</font>*** 
+# ***\*get the hang of*** 
 
 
   
@@ -14594,7 +14594,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 开始时看上去很难，不过很快你就会掌握的。    
 
 
-# ***<font color=#0099ff>\*get the message</font>*** 
+# ***\*get the message*** 
 
 
   
@@ -14610,7 +14610,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我明白了。    
 
 
-# ***<font color=#0099ff>\*get through</font>*** 
+# ***\*get through*** 
 
 
   
@@ -14632,7 +14632,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我试过打她办公室电话，但没打通。  （2009 全国）  
 
 
-# ***<font color=#0099ff>\*get tired of doing sth.</font>*** 
+# ***\*get tired of doing sth.*** 
 
 
   
@@ -14642,7 +14642,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 ### 1.**厌倦做某事；厌烦做某事**  
 
 
-# ***<font color=#0099ff>\*get to</font>*** 
+# ***\*get to*** 
 
 
   
@@ -14658,7 +14658,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我们现在开始工作吧。    
 
 
-# ***<font color=#0099ff>\*get together</font>*** 
+# ***\*get together*** 
 
 
   
@@ -14674,7 +14674,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 我正设法召集一帮人一起过周六呢。    
 
 
-# ***<font color=#0099ff>\*get up</font>*** 
+# ***\*get up*** 
 
 
   
@@ -14690,7 +14690,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 叫到他时，他从椅子上站了起来。    
 
 
-# ***<font color=#0099ff>\*get used to</font>*** 
+# ***\*get used to*** 
 
 
   
@@ -14700,7 +14700,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 ### 1.**习惯于**  
 
 
-# ***<font color=#0099ff>\*give (...) away</font>*** 
+# ***\*give (...) away*** 
 
 
   
@@ -14729,7 +14729,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 他的口音让人听出他是南方人。    
 
 
-# ***<font color=#0099ff>\*give ... a lift</font>*** 
+# ***\*give ... a lift*** 
 
 
   
@@ -14742,7 +14742,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 你能顺路载我去车站吗？  （2008 北京）  
 
 
-# ***<font color=#0099ff>\*give / lend (sb) a hand</font>*** 
+# ***\*give / lend (sb) a hand*** 
 
 
   
@@ -14752,7 +14752,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 ### 1.**帮助 (某人)**  
 
 
-# ***<font color=#0099ff>\*give / lose ground</font>*** 
+# ***\*give / lose ground*** 
 
 
   
@@ -14765,7 +14765,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 由于菲尔的腿骨折了，这个队开始失去优势。    
 
 
-# ***<font color=#0099ff>\*give an ear to</font>*** 
+# ***\*give an ear to*** 
 
 
   
@@ -14775,7 +14775,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 ### 1.**倾听**  
 
 
-# ***<font color=#0099ff>\*give away</font>*** 
+# ***\*give away*** 
 
 
   
@@ -14785,7 +14785,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 ### 1.**暴露 (自己的情况)**  
 
 
-# ***<font color=#0099ff>\*give back</font>*** 
+# ***\*give back*** 
 
 
   
@@ -14802,7 +14802,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 手术使他的双腿恢复了功能。    
 
 
-# ***<font color=#0099ff>\*give birth to</font>*** 
+# ***\*give birth to*** 
 
 
   
@@ -14818,7 +14818,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 无休止的选择引发了人们生活中的焦虑情绪。  （2008 重庆）  
 
 
-# ***<font color=#0099ff>\*give concerts</font>*** 
+# ***\*give concerts*** 
 
 
   
@@ -14828,7 +14828,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 ### 1.**举办音乐会**  
 
 
-# ***<font color=#0099ff>\*give in</font>*** 
+# ***\*give in*** 
 
 
   
@@ -14850,7 +14850,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 请在星期一之前把作业交上来。    
 
 
-# ***<font color=#0099ff>\*give life to</font>*** 
+# ***\*give life to*** 
 
 
   
@@ -14860,7 +14860,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 ### 1.**赋予……生命（生命力，活力）**  
 
 
-# ***<font color=#0099ff>\*give off</font>*** 
+# ***\*give off*** 
 
 
   
@@ -14879,7 +14879,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
  > 炉子散发出阵阵热气。    
 
 
-# ***<font color=#0099ff>\*give out</font>*** 
+# ***\*give out*** 
 
 
   
@@ -14907,7 +14907,7 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 
 Notes: give out意为“耗尽”时，不用于被动语态。  
 
-# ***<font color=#0099ff>\*give rise to</font>*** 
+# ***\*give rise to*** 
 
 
   
@@ -14920,7 +14920,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 这可能导致受过教育的人对那些不太懂英语的人产生偏见。  （2014 江苏书面表达改）  
 
 
-# ***<font color=#0099ff>\*give sb a lift</font>*** 
+# ***\*give sb a lift*** 
 
 
   
@@ -14933,7 +14933,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 新公园让附近的每个人都很开心。    
 
 
-# ***<font color=#0099ff>\*give thought to</font>*** 
+# ***\*give thought to*** 
 
 
   
@@ -14943,7 +14943,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
 ### 1.**认真考虑，思考**  
 
 
-# ***<font color=#0099ff>\*give up</font>*** 
+# ***\*give up*** 
 
 
   
@@ -14963,7 +14963,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 他把座位让给了一位孕妇。    
 
 
-# ***<font color=#0099ff>\*give way (to)</font>*** 
+# ***\*give way (to)*** 
 
 
   
@@ -14982,7 +14982,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 电影院逐渐被新兴的网络和手机所取代。  （2017 江苏书面表达）  
 
 
-# ***<font color=#0099ff>\*give way to</font>*** 
+# ***\*give way to*** 
 
 
   
@@ -14992,7 +14992,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
 ### 1.**让步；屈服**  
 
 
-# ***<font color=#0099ff>\*given that</font>*** 
+# ***\*given that*** 
 
 
   
@@ -15008,7 +15008,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 如果能再次得到机会的话，他肯定会成功。    
 
 
-# ***<font color=#0099ff>\*glance through</font>*** 
+# ***\*glance through*** 
 
 
   
@@ -15018,7 +15018,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
 ### 1.**匆匆看一遍**  
 
 
-# ***<font color=#0099ff>\*glare at</font>*** 
+# ***\*glare at*** 
 
 
   
@@ -15031,7 +15031,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 她看上去很不高兴，只是瞪着他。  （人教③ – 2）  
 
 
-# ***<font color=#0099ff>\*global warming</font>*** 
+# ***\*global warming*** 
 
 
   
@@ -15044,7 +15044,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 烧煤会引起严重的空气污染，加剧全球气候变暖。  （外研③ – 6）  
 
 
-# ***<font color=#0099ff>\*go about</font>*** 
+# ***\*go about*** 
 
 
   
@@ -15060,7 +15060,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 假如我决定加入这个俱乐部，要做些什么呢？    
 
 
-# ***<font color=#0099ff>\*go after</font>*** 
+# ***\*go after*** 
 
 
   
@@ -15073,7 +15073,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 我们俩都在谋求同一份工作。    
 
 
-# ***<font color=#0099ff>\*go against</font>*** 
+# ***\*go against*** 
 
 
   
@@ -15089,7 +15089,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 比赛对蓝队越来越不利了。    
 
 
-# ***<font color=#0099ff>\*go ahead</font>*** 
+# ***\*go ahead*** 
 
 
   
@@ -15113,7 +15113,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 好的，问吧。  （2008 广东）  
 
 
-# ***<font color=#0099ff>\*go ahead with</font>*** 
+# ***\*go ahead with*** 
 
 
   
@@ -15123,7 +15123,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
 ### 1.**开始做；着手干**  
 
 
-# ***<font color=#0099ff>\*go all out</font>*** 
+# ***\*go all out*** 
 
 
   
@@ -15133,7 +15133,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
 ### 1.**全力以赴，竭尽全力**  
 
 
-# ***<font color=#0099ff>\*go along</font>*** 
+# ***\*go along*** 
 
 
   
@@ -15143,7 +15143,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
 ### 1.**进行；发生；发展**  
 
 
-# ***<font color=#0099ff>\*go away</font>*** 
+# ***\*go away*** 
 
 
   
@@ -15162,7 +15162,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 记住，压力肯定会消失，特别是当你弄清楚问题所在并着手解决时。  （2012 全国）  
 
 
-# ***<font color=#0099ff>\*go back (to)</font>*** 
+# ***\*go back (to)*** 
 
 
   
@@ -15182,7 +15182,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 我回忆起了1978年的往事。    
 
 
-# ***<font color=#0099ff>\*go back / return to normal</font>*** 
+# ***\*go back / return to normal*** 
 
 
   
@@ -15195,7 +15195,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 危机已经过去，生活很快就会恢复正常。    
 
 
-# ***<font color=#0099ff>\*go by</font>*** 
+# ***\*go by*** 
 
 
   
@@ -15209,7 +15209,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 随着时间的推移，一切都会好起来的。    
 
 
-# ***<font color=#0099ff>\*go down</font>*** 
+# ***\*go down*** 
 
 
   
@@ -15241,7 +15241,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 自2007年以来，青壮年手表的销售额一直在下降。  （2008 湖北）  
 
 
-# ***<font color=#0099ff>\*go down in history</font>*** 
+# ***\*go down in history*** 
 
 
   
@@ -15254,7 +15254,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 他作为一名伟大的领袖将载入史册。    
 
 
-# ***<font color=#0099ff>\*go for</font>*** 
+# ***\*go for*** 
 
 
   
@@ -15279,7 +15279,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 他说的关于你的一席话对我也适用。    
 
 
-# ***<font color=#0099ff>\*go from strength to strength</font>*** 
+# ***\*go from strength to strength*** 
 
 
   
@@ -15292,7 +15292,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 这家公司自5年前创办以来一直不断壮大。    
 
 
-# ***<font color=#0099ff>\*go hungry</font>*** 
+# ***\*go hungry*** 
 
 
   
@@ -15305,7 +15305,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 只要有一技之长，你就不会挨饿。    
 
 
-# ***<font color=#0099ff>\*go in for</font>*** 
+# ***\*go in for*** 
 
 
   
@@ -15318,7 +15318,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 她对团体比赛不感兴趣。    
 
 
-# ***<font color=#0099ff>\*go into</font>*** 
+# ***\*go into*** 
 
 
   
@@ -15344,7 +15344,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 我们需要研究一下费用问题。    
 
 
-# ***<font color=#0099ff>\*go into detail(s)</font>*** 
+# ***\*go into detail(s)*** 
 
 
   
@@ -15357,7 +15357,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 我现在不能细说，太费时间了。    
 
 
-# ***<font color=#0099ff>\*go off</font>*** 
+# ***\*go off*** 
 
 
   
@@ -15390,7 +15390,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > 疼痛将会消失。    
 
 
-# ***<font color=#0099ff>\*go on</font>*** 
+# ***\*go on*** 
 
 
   
@@ -15432,7 +15432,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 灯亮了。    
 
 
-# ***<font color=#0099ff>\*go on a diet</font>*** 
+# ***\*go on a diet*** 
 
 
   
@@ -15445,7 +15445,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 我节食的时候只吃黄瓜，迅速减轻了体重。    
 
 
-# ***<font color=#0099ff>\*go one's separate ways</font>*** 
+# ***\*go one's separate ways*** 
 
 
   
@@ -15461,7 +15461,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 她道了声再见，这是他们第一次分开旅行。  （2010 湖北）  
 
 
-# ***<font color=#0099ff>\*go out</font>*** 
+# ***\*go out*** 
 
 
   
@@ -15480,7 +15480,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
 二者都和“熄灭”有关。  
 
 
-# ***<font color=#0099ff>\*go over</font>*** 
+# ***\*go over*** 
 
 
   
@@ -15499,7 +15499,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 我必须复习笔记准备明天的考试。    
 
 
-# ***<font color=#0099ff>\*go round / around</font>*** 
+# ***\*go round / around*** 
 
 
   
@@ -15515,7 +15515,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 这种传染病传遍了全城。    
 
 
-# ***<font color=#0099ff>\*go so far / as far as to do sth</font>*** 
+# ***\*go so far / as far as to do sth*** 
 
 
   
@@ -15528,7 +15528,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 她甚至说，汉语词绝对不能表达英语词的确切含义。  （2010 辽宁改）  
 
 
-# ***<font color=#0099ff>\*go through</font>*** 
+# ***\*go through*** 
 
 
   
@@ -15557,7 +15557,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 据说新校规没有被通过。    
 
 
-# ***<font color=#0099ff>\*go through with</font>*** 
+# ***\*go through with*** 
 
 
   
@@ -15570,7 +15570,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 我没有选择，只有坚持到底。    
 
 
-# ***<font color=#0099ff>\*go to</font>*** 
+# ***\*go to*** 
 
 
   
@@ -15583,7 +15583,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 典礼快要结束时，校长宣布把最高荣誉奖授予我的女儿。  （2016 天津改）  
 
 
-# ***<font color=#0099ff>\*go to college</font>*** 
+# ***\*go to college*** 
 
 
   
@@ -15596,7 +15596,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 上大学    
 
 
-# ***<font color=#0099ff>\*go up</font>*** 
+# ***\*go up*** 
 
 
   
@@ -15615,7 +15615,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 到处矗立起新楼。    
 
 
-# ***<font color=#0099ff>\*go with</font>*** 
+# ***\*go with*** 
 
 
   
@@ -15631,7 +15631,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 你觉得这顶帽子和我的新外套相配吗？    
 
 
-# ***<font color=#0099ff>\*go without</font>*** 
+# ***\*go without*** 
 
 
   
@@ -15648,7 +15648,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 健康胜于财富，这是不言而喻的。    
 
 
-# ***<font color=#0099ff>\*go without saying</font>*** 
+# ***\*go without saying*** 
 
 
   
@@ -15661,7 +15661,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 这项建议将被采纳，这是不言而喻的。    
 
 
-# ***<font color=#0099ff>\*go wrong</font>*** 
+# ***\*go wrong*** 
 
 
   
@@ -15674,7 +15674,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 这台收音机出毛病了。    
 
 
-# ***<font color=#0099ff>\*gold medal</font>*** 
+# ***\*gold medal*** 
 
 
   
@@ -15684,7 +15684,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
 ### 1.**金牌**  
 
 
-# ***<font color=#0099ff>\*good luck (with sth)</font>*** 
+# ***\*good luck (with sth)*** 
 
 
   
@@ -15697,7 +15697,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 祝你考试成功！    
 
 
-# ***<font color=#0099ff>\*great auk</font>*** n
+# ***\*great auk*** n
 
 
 | 词频 1 |  
@@ -15707,7 +15707,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
 ### 1.*高义频：* **大海雀 (已灭绝)**  
 
 
-# ***<font color=#0099ff>\*green fingers</font>*** 
+# ***\*green fingers*** 
 
 
   
@@ -15717,7 +15717,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
 ### 1.**高超的种植技能**  
 
 
-# ***<font color=#0099ff>\*greenhouse effect</font>*** 
+# ***\*greenhouse effect*** 
 
 
   
@@ -15727,7 +15727,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
 ### 1.**温室效应**  
 
 
-# ***<font color=#0099ff>\*grow into</font>*** 
+# ***\*grow into*** 
 
 
   
@@ -15743,7 +15743,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 我出生的那个村庄已经发展成为一个城镇。  （2014 陕西）  
 
 
-# ***<font color=#0099ff>\*grow out of</font>*** 
+# ***\*grow out of*** 
 
 
   
@@ -15759,7 +15759,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 他已经长得穿不上校服了。    
 
 
-# ***<font color=#0099ff>\*grow up</font>*** 
+# ***\*grow up*** 
 
 
   
@@ -15775,7 +15775,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 这个男孩长大后成了一名伟大的科学家。    
 
 
-# ***<font color=#0099ff>\*had better</font>*** 
+# ***\*had better*** 
 
 
   
@@ -15789,7 +15789,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
 
 Notes: had better常缩写成’d better，后接动词原形。  
 
-# ***<font color=#0099ff>\*hand around / round</font>*** 
+# ***\*hand around / round*** 
 
 
   
@@ -15799,7 +15799,7 @@ Notes: had better常缩写成’d better，后接动词原形。
 ### 1.**分发**  
 
 
-# ***<font color=#0099ff>\*hand back</font>*** 
+# ***\*hand back*** 
 
 
   
@@ -15809,7 +15809,7 @@ Notes: had better常缩写成’d better，后接动词原形。
 ### 1.**交回；归还**  
 
 
-# ***<font color=#0099ff>\*hand down</font>*** 
+# ***\*hand down*** 
 
 
   
@@ -15822,7 +15822,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 这枚戒指是我家祖传的。    
 
 
-# ***<font color=#0099ff>\*hand in</font>*** 
+# ***\*hand in*** 
 
 
   
@@ -15835,7 +15835,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 如果你要在学校餐厅订午餐，请在9:30前把订单交上来。    
 
 
-# ***<font color=#0099ff>\*hand in hand</font>*** 
+# ***\*hand in hand*** 
 
 
   
@@ -15848,7 +15848,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 俗话说，成功与失败如影随形。  （2008 湖南）  
 
 
-# ***<font color=#0099ff>\*hand out</font>*** 
+# ***\*hand out*** 
 
 
   
@@ -15861,7 +15861,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 请把这些书发给大家好吗？    
 
 
-# ***<font color=#0099ff>\*hand over</font>*** 
+# ***\*hand over*** 
 
 
   
@@ -15874,7 +15874,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 他退休时把生意移交给了他的儿子。    
 
 
-# ***<font color=#0099ff>\*hang about / around</font>*** 
+# ***\*hang about / around*** 
 
 
   
@@ -15887,7 +15887,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 街上有几个孩子在游荡。    
 
 
-# ***<font color=#0099ff>\*hang about / around with sb</font>*** 
+# ***\*hang about / around with sb*** 
 
 
   
@@ -15900,7 +15900,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 以前和我一起混的人都比我年长许多。    
 
 
-# ***<font color=#0099ff>\*hang on</font>*** 
+# ***\*hang on*** 
 
 
   
@@ -15917,7 +15917,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 别挂断，我这就去看看他在不在。    
 
 
-# ***<font color=#0099ff>\*hang on a second</font>*** 
+# ***\*hang on a second*** 
 
 
   
@@ -15927,7 +15927,7 @@ Notes: had better常缩写成’d better，后接动词原形。
 ### 1.**等一下**  
 
 
-# ***<font color=#0099ff>\*hang out (with)</font>*** 
+# ***\*hang out (with)*** 
 
 
   
@@ -15943,7 +15943,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 没什么，就是跟朋友在一起。    
 
 
-# ***<font color=#0099ff>\*hang over</font>*** 
+# ***\*hang over*** 
 
 
   
@@ -15956,7 +15956,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 湿气形成云，像烟雾一样笼罩在树梢。    
 
 
-# ***<font color=#0099ff>\*hang up</font>*** 
+# ***\*hang up*** 
 
 
   
@@ -15969,7 +15969,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 刚才有人给我打电话，但我还没来得及接就挂断了。    
 
 
-# ***<font color=#0099ff>\*hard and fast</font>*** 
+# ***\*hard and fast*** 
 
 
   
@@ -15982,7 +15982,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 公众演讲基本上没有一成不变的规则。  （2013 全国）  
 
 
-# ***<font color=#0099ff>\*hard copy</font>*** 
+# ***\*hard copy*** 
 
 
   
@@ -15992,7 +15992,7 @@ Notes: had better常缩写成’d better，后接动词原形。
 ### 1.**硬副本 (指从计算机里打印出来的资料)**  
 
 
-# ***<font color=#0099ff>\*hard facts</font>*** 
+# ***\*hard facts*** 
 
 
   
@@ -16002,7 +16002,7 @@ Notes: had better常缩写成’d better，后接动词原形。
 ### 1.**确切的证据**  
 
 
-# ***<font color=#0099ff>\*hardly ever</font>*** 
+# ***\*hardly ever*** 
 
 
   
@@ -16018,7 +16018,7 @@ Notes: had better常缩写成’d better，后接动词原形。
  > 哦，我很少看电视    
 
 
-# ***<font color=#0099ff>\*hardly … when</font>*** 
+# ***\*hardly … when*** 
 
 
   
@@ -16038,7 +16038,7 @@ Notes: had better常缩写成’d better，后接动词原形。
 
 Notes: hardly ... when结构中，由when引导的从句用过去时，主句用过去完成时；hardly置于句首时句子要倒装，通常用于非常正式的书面语中。  
 
-# ***<font color=#0099ff>\*have ... in common</font>*** 
+# ***\*have ... in common*** 
 
 
   
@@ -16054,7 +16054,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我和简毫无共同之处。    
 
 
-# ***<font color=#0099ff>\*have ... in common (with)</font>*** 
+# ***\*have ... in common (with)*** 
 
 
   
@@ -16070,7 +16070,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我和简毫无共同之处。    
 
 
-# ***<font color=#0099ff>\*have ... on</font>*** 
+# ***\*have ... on*** 
 
 
   
@@ -16086,7 +16086,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 你下午有事吗？    
 
 
-# ***<font color=#0099ff>\*have / take a seat</font>*** 
+# ***\*have / take a seat*** 
 
 
   
@@ -16099,7 +16099,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 请坐。    
 
 
-# ***<font color=#0099ff>\*have / take a vacation</font>*** 
+# ***\*have / take a vacation*** 
 
 
   
@@ -16112,7 +16112,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我要做的第一件事是休一个长假。  （外研⑦ – 2）  
 
 
-# ***<font color=#0099ff>\*have a (good) eye for</font>*** 
+# ***\*have a (good) eye for*** 
 
 
   
@@ -16125,7 +16125,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 她善识便宜货。    
 
 
-# ***<font color=#0099ff>\*have a ... time</font>*** 
+# ***\*have a ... time*** 
 
 
   
@@ -16138,7 +16138,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我相信你会在加利福尼亚玩得很开心。    
 
 
-# ***<font color=#0099ff>\*have a / no future</font>*** 
+# ***\*have a / no future*** 
 
 
   
@@ -16151,7 +16151,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 人们只有学会保护自然和节约能源，我们的世界才会有未来。  （外研⑤ – 6）  
 
 
-# ***<font color=#0099ff>\*have a bad effect on</font>*** 
+# ***\*have a bad effect on*** 
 
 
   
@@ -16161,7 +16161,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 ### 1.**对……有坏影响**  
 
 
-# ***<font color=#0099ff>\*have a frog in one's throat</font>*** 
+# ***\*have a frog in one's throat*** 
 
 
   
@@ -16171,7 +16171,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 ### 1.**（尤因喉咙痛）说话困难**  
 
 
-# ***<font color=#0099ff>\*have a gift for</font>*** 
+# ***\*have a gift for*** 
 
 
   
@@ -16181,7 +16181,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 ### 1.**对……有天赋**  
 
 
-# ***<font color=#0099ff>\*have a go (at)</font>*** 
+# ***\*have a go (at)*** 
 
 
   
@@ -16194,7 +16194,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 尝试一下    
 
 
-# ***<font color=#0099ff>\*have a high / low / good / poor opinion of</font>*** 
+# ***\*have a high / low / good / poor opinion of*** 
 
 
   
@@ -16204,7 +16204,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 ### 1.**对…评价高 / 低 / 好 / 差**  
 
 
-# ***<font color=#0099ff>\*have a population of</font>*** 
+# ***\*have a population of*** 
 
 
   
@@ -16217,7 +16217,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 白族人口大约有200万，其中的90%居住在云南。  （外研⑦ – 5）  
 
 
-# ***<font color=#0099ff>\*have a temperature</font>*** 
+# ***\*have a temperature*** 
 
 
   
@@ -16230,7 +16230,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 发烧    
 
 
-# ***<font color=#0099ff>\*have a word with</font>*** 
+# ***\*have a word with*** 
 
 
   
@@ -16243,7 +16243,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 彼得在哪儿？我想跟他谈一谈。    
 
 
-# ***<font color=#0099ff>\*have affection for</font>*** 
+# ***\*have affection for*** 
 
 
   
@@ -16253,7 +16253,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 ### 1.**喜爱，钟爱**  
 
 
-# ***<font color=#0099ff>\*have an effect on</font>*** 
+# ***\*have an effect on*** 
 
 
   
@@ -16266,7 +16266,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 全球变暖正在对世界上数百种动植物物种产生重大影响。  （2012 四川）  
 
 
-# ***<font color=#0099ff>\*have connection with</font>*** 
+# ***\*have connection with*** 
 
 
   
@@ -16279,7 +16279,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我和那起案件没有什么关系。    
 
 
-# ***<font color=#0099ff>\*have control (of / over)</font>*** 
+# ***\*have control (of / over)*** 
 
 
   
@@ -16292,7 +16292,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 她是个优秀的教师，能够有效地管理课堂。    
 
 
-# ***<font color=#0099ff>\*have fun</font>*** 
+# ***\*have fun*** 
 
 
   
@@ -16305,7 +16305,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 好好玩吧！    
 
 
-# ***<font color=#0099ff>\*have fun with</font>*** 
+# ***\*have fun with*** 
 
 
   
@@ -16315,7 +16315,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 ### 1.**玩得开心**  
 
 
-# ***<font color=#0099ff>\*have got to</font>*** 
+# ***\*have got to*** 
 
 
   
@@ -16328,7 +16328,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 这个星期我得准备化学考试。    
 
 
-# ***<font color=#0099ff>\*have had enough (of)</font>*** 
+# ***\*have had enough (of)*** 
 
 
   
@@ -16341,7 +16341,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我受够了你的无礼！    
 
 
-# ***<font color=#0099ff>\*have no alternative but to do sth</font>*** 
+# ***\*have no alternative but to do sth*** 
 
 
   
@@ -16354,7 +16354,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 除了向警察举报他，我别无选择。    
 
 
-# ***<font color=#0099ff>\*have no choice (but to do sth)</font>*** 
+# ***\*have no choice (but to do sth)*** 
 
 
   
@@ -16367,7 +16367,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 当时，那位出租车司机别无选择，只能求助于游客。    
 
 
-# ***<font color=#0099ff>\*have no use for</font>*** 
+# ***\*have no use for*** 
 
 
   
@@ -16383,7 +16383,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我不喜欢那样的小说。    
 
 
-# ***<font color=#0099ff>\*have nothing to do with</font>*** 
+# ***\*have nothing to do with*** 
 
 
   
@@ -16396,7 +16396,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 约翰的成功跟好运无关，而是多年的努力成就了如今的他。  （2010 湖南）  
 
 
-# ***<font color=#0099ff>\*have one's eye on</font>*** 
+# ***\*have one's eye on*** 
 
 
   
@@ -16409,7 +16409,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我会密切注意你，所以你最好表现好点儿。    
 
 
-# ***<font color=#0099ff>\*have power over</font>*** 
+# ***\*have power over*** 
 
 
   
@@ -16419,7 +16419,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 ### 1.**控制，支配**  
 
 
-# ***<font color=#0099ff>\*have sb / sth in mind (for sth)</font>*** 
+# ***\*have sb / sth in mind (for sth)*** 
 
 
   
@@ -16432,7 +16432,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 你心目中有做这项工作的合适人选吗？    
 
 
-# ***<font color=#0099ff>\*have sb to thank (for)</font>*** 
+# ***\*have sb to thank (for)*** 
 
 
   
@@ -16445,7 +16445,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 任何曾经被社工帮助过的人都应感谢简·亚当斯。  （2016 全国）  
 
 
-# ***<font color=#0099ff>\*have second thoughts</font>*** 
+# ***\*have second thoughts*** 
 
 
   
@@ -16458,7 +16458,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 他们如果知道接下来会发生什么，就可能会改变主意了。    
 
 
-# ***<font color=#0099ff>\*have something to do with</font>*** 
+# ***\*have something to do with*** 
 
 
   
@@ -16471,7 +16471,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 这与我们都有关系。    
 
 
-# ***<font color=#0099ff>\*have the honour of (doing) sth</font>*** 
+# ***\*have the honour of (doing) sth*** 
 
 
   
@@ -16484,7 +16484,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 可以赏光和我跳这支舞吗？    
 
 
-# ***<font color=#0099ff>\*have the last laugh</font>*** 
+# ***\*have the last laugh*** 
 
 
   
@@ -16494,7 +16494,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 ### 1.**笑到最后；取得最后的成功**  
 
 
-# ***<font color=#0099ff>\*have to</font>*** 
+# ***\*have to*** 
 
 
   
@@ -16507,7 +16507,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 这个星期我得准备化学考试。    
 
 
-# ***<font color=#0099ff>\*have words with</font>*** 
+# ***\*have words with*** 
 
 
   
@@ -16520,7 +16520,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我很生气，和他就钱的事吵了起来。    
 
 
-# ***<font color=#0099ff>\*have yet to</font>*** 
+# ***\*have yet to*** 
 
 
   
@@ -16530,7 +16530,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 ### 1.**还没有**  
 
 
-# ***<font color=#0099ff>\*head for</font>*** 
+# ***\*head for*** 
 
 
   
@@ -16543,7 +16543,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 比赛结束后，球迷们朝出口走去。  （外研⑦ – 1）  
 
 
-# ***<font color=#0099ff>\*heal over / up</font>*** 
+# ***\*heal over / up*** 
 
 
   
@@ -16553,7 +16553,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 ### 1.**愈合；痊愈**  
 
 
-# ***<font color=#0099ff>\*hear about</font>*** 
+# ***\*hear about*** 
 
 
   
@@ -16569,7 +16569,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 只要一听到“无家可归者”，我们中的大多数人就会想到第三世界。  （2012 山东）  
 
 
-# ***<font color=#0099ff>\*hear from</font>*** 
+# ***\*hear from*** 
 
 
   
@@ -16585,7 +16585,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 好久没有收到他的来信了。    
 
 
-# ***<font color=#0099ff>\*hear of</font>*** 
+# ***\*hear of*** 
 
 
   
@@ -16601,7 +16601,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 听说你成功了，我们都非常高兴。    
 
 
-# ***<font color=#0099ff>\*heart and soul</font>*** 
+# ***\*heart and soul*** 
 
 
   
@@ -16614,7 +16614,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 她全心全意地爱着那些孩子。    
 
 
-# ***<font color=#0099ff>\*heart attack</font>*** n
+# ***\*heart attack*** n
 
 
   
@@ -16627,7 +16627,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 他心脏病发作了。    
 
 
-# ***<font color=#0099ff>\*heat up</font>*** 
+# ***\*heat up*** 
 
 
   
@@ -16643,7 +16643,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 选举竞争正在白热化。    
 
 
-# ***<font color=#0099ff>\*help (...) out</font>*** 
+# ***\*help (...) out*** 
 
 
   
@@ -16662,7 +16662,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 去年我在父亲的办公室里帮忙。    
 
 
-# ***<font color=#0099ff>\*help oneself (to)</font>*** 
+# ***\*help oneself (to)*** 
 
 
   
@@ -16684,7 +16684,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 他一直在偷拿抽屉中的钱。    
 
 
-# ***<font color=#0099ff>\*help out</font>*** 
+# ***\*help out*** 
 
 
   
@@ -16703,7 +16703,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 去年我在父亲的办公室里帮忙。    
 
 
-# ***<font color=#0099ff>\*here and now</font>*** 
+# ***\*here and now*** 
 
 
   
@@ -16716,7 +16716,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我们马上开始做实验吧。    
 
 
-# ***<font color=#0099ff>\*here and there</font>*** 
+# ***\*here and there*** 
 
 
   
@@ -16729,7 +16729,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 灰狼曾一度在黄石地区随处可见。  （2017 全国）  
 
 
-# ***<font color=#0099ff>\*here you are</font>*** 
+# ***\*here you are*** 
 
 
   
@@ -16739,7 +16739,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 ### 1.**给你**  
 
 
-# ***<font color=#0099ff>\*hip hop</font>*** 
+# ***\*hip hop*** 
 
 
   
@@ -16749,7 +16749,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 ### 1.**嬉蹦乐（节奏强烈、说唱形式的一种流行伴舞音乐）**  
 
 
-# ***<font color=#0099ff>\*hire out</font>*** 
+# ***\*hire out*** 
 
 
   
@@ -16762,7 +16762,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 这家公司出租小汽车。    
 
 
-# ***<font color=#0099ff>\*hit on / upon</font>*** 
+# ***\*hit on / upon*** 
 
 
   
@@ -16778,7 +16778,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我们终于想出了一个解决这个困难的办法。    
 
 
-# ***<font color=#0099ff>\*hold back</font>*** 
+# ***\*hold back*** 
 
 
   
@@ -16807,7 +16807,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 她想把自己对他的看法告诉他，但又觉得难以启齿。    
 
 
-# ***<font color=#0099ff>\*hold on</font>*** 
+# ***\*hold on*** 
 
 
   
@@ -16837,7 +16837,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 等一下！这条路不对！    
 
 
-# ***<font color=#0099ff>\*hold on to / onto</font>*** 
+# ***\*hold on to / onto*** 
 
 
   
@@ -16850,7 +16850,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我们曾考虑过卖掉这件旧家具，但后来又决定不卖了。    
 
 
-# ***<font color=#0099ff>\*hold one's breath</font>*** 
+# ***\*hold one's breath*** 
 
 
   
@@ -16860,7 +16860,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 ### 1.**屏息；憋住气**  
 
 
-# ***<font color=#0099ff>\*hold one's head high</font>*** 
+# ***\*hold one's head high*** 
 
 
   
@@ -16873,7 +16873,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 不要太趾高气扬。    
 
 
-# ***<font color=#0099ff>\*hold out</font>*** 
+# ***\*hold out*** 
 
 
   
@@ -16899,7 +16899,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我以为我能坚持到牙医度假回来，但是疼痛实在难忍。  （2013 重庆）  
 
 
-# ***<font color=#0099ff>\*hold the line</font>*** 
+# ***\*hold the line*** 
 
 
   
@@ -16915,7 +16915,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 请等一会儿。    
 
 
-# ***<font color=#0099ff>\*hold up</font>*** 
+# ***\*hold up*** 
 
 
   
@@ -16941,7 +16941,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 公共汽车被堵在了路上。  （外研⑧ - 4）  
 
 
-# ***<font color=#0099ff>\*hold water</font>*** 
+# ***\*hold water*** 
 
 
   
@@ -16951,7 +16951,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 ### 1.**(容器等) 盛得住水；(论点等) 站得住脚**  
 
 
-# ***<font color=#0099ff>\*hold your horses</font>*** 
+# ***\*hold your horses*** 
 
 
   
@@ -16961,7 +16961,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 ### 1.**慢点，别急**  
 
 
-# ***<font color=#0099ff>\*hot dog</font>*** n
+# ***\*hot dog*** n
 
 
   
@@ -16971,7 +16971,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 ### 1.**热狗（香肠面包）**  
 
 
-# ***<font color=#0099ff>\*hot pot</font>*** 
+# ***\*hot pot*** 
 
 
   
@@ -16981,7 +16981,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 ### 1.**火锅**  
 
 
-# ***<font color=#0099ff>\*hour by hour</font>*** 
+# ***\*hour by hour*** 
 
 
   
@@ -16994,7 +16994,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 即使我们忽略时间，它仍然在流逝，一分一秒，时时刻刻，滴答地走着。  （2008 江苏改）  
 
 
-# ***<font color=#0099ff>\*how far</font>*** 
+# ***\*how far*** 
 
 
   
@@ -17010,7 +17010,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 邮局离这里多远？    
 
 
-# ***<font color=#0099ff>\*how long</font>*** 
+# ***\*how long*** 
 
 
   
@@ -17023,7 +17023,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 你来这儿多长时间了？    
 
 
-# ***<font color=#0099ff>\*how much</font>*** 
+# ***\*how much*** 
 
 
   
@@ -17036,7 +17036,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 任何一位宠物的主人都会告诉你宠物会带来多少欢乐。  （ 2010 全国）  
 
 
-# ***<font color=#0099ff>\*how often</font>*** 
+# ***\*how often*** 
 
 
   
@@ -17049,7 +17049,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 你多久去那儿一次？每周一次还是两次？    
 
 
-# ***<font color=#0099ff>\*how soon</font>*** 
+# ***\*how soon*** 
 
 
   
@@ -17062,7 +17062,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 你什么时候能准备好？    
 
 
-# ***<font color=#0099ff>\*human being</font>*** n
+# ***\*human being*** n
 英音 'hjuːmən 'biːɪŋ     美音 'hjuːmən 'biːɪŋ  
 
 | 词频 4 |  
@@ -17077,7 +17077,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 1969年，人类真正登上了月球。    
 
 
-# ***<font color=#0099ff>\*human race</font>*** 
+# ***\*human race*** 
 
 
   
@@ -17090,7 +17090,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 人类正在耗尽地球上的资源。  （译林⑤ – 3）  
 
 
-# ***<font color=#0099ff>\*hundreds of</font>*** 
+# ***\*hundreds of*** 
 
 
   
@@ -17103,7 +17103,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 成百上千的人排队来观赏当代绘画作品。    
 
 
-# ***<font color=#0099ff>\*hunger for / after</font>*** 
+# ***\*hunger for / after*** 
 
 
   
@@ -17116,7 +17116,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 全世界的人都渴望和平。    
 
 
-# ***<font color=#0099ff>\*hunt out</font>*** 
+# ***\*hunt out*** 
 
 
   
@@ -17129,7 +17129,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 他找出一本旧日记。    
 
 
-# ***<font color=#0099ff>\*hurry up</font>*** 
+# ***\*hurry up*** 
 
 
   
@@ -17148,7 +17148,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 请催一下快点开饭。    
 
 
-# ***<font color=#0099ff>\*identify sb / sth with sth</font>*** 
+# ***\*identify sb / sth with sth*** 
 
 
   
@@ -17162,7 +17162,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 你不应该把财富与幸福等同起来。    
 
 
-# ***<font color=#0099ff>\*identify with sb / sth</font>*** 
+# ***\*identify with sb / sth*** 
 
 
   
@@ -17175,7 +17175,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我不喜欢这本书，因为我无法与其中任何一个主角产生共鸣。    
 
 
-# ***<font color=#0099ff>\*identity card</font>*** 
+# ***\*identity card*** 
 
 
   
@@ -17185,7 +17185,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 ### 1.**身份证**  
 
 
-# ***<font color=#0099ff>\*if anything</font>*** 
+# ***\*if anything*** 
 
 
   
@@ -17198,7 +17198,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 对于失败山姆看起来并不怎么失望，要是说有什么的话，倒是这事儿结束了，他好像松了一口气。    
 
 
-# ***<font color=#0099ff>\*if necessary</font>*** 
+# ***\*if necessary*** 
 
 
   
@@ -17211,7 +17211,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 必要的话，我们应该帮助那些非常需要帮助的人。  （2012 湖南书面表达）  
 
 
-# ***<font color=#0099ff>\*if only</font>*** 
+# ***\*if only*** 
 
 
   
@@ -17224,7 +17224,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 我要是知道她的名字就好了。    
 
 
-# ***<font color=#0099ff>\*if possible</font>*** 
+# ***\*if possible*** 
 
 
   
@@ -17237,7 +17237,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 如有可能，我想避开交通高峰期。    
 
 
-# ***<font color=#0099ff>\*if so</font>*** 
+# ***\*if so*** 
 
 
   
@@ -17250,7 +17250,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 你来过这儿吗？如果来过，来过几次呢？    
 
 
-# ***<font color=#0099ff>\*if you like</font>*** 
+# ***\*if you like*** 
 
 
   
@@ -17263,7 +17263,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 如果你愿意，我可以开车送你去那里。    
 
 
-# ***<font color=#0099ff>\*if you must (do sth)</font>*** 
+# ***\*if you must (do sth)*** 
 
 
   
@@ -17276,7 +17276,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 如果你一定要抽烟的话，请去外面抽。  （2011 全国）  
 
 
-# ***<font color=#0099ff>\*improve on / upon</font>*** 
+# ***\*improve on / upon*** 
 
 
   
@@ -17289,7 +17289,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 莉莉数学考了98分，我看没人能超过这个分数。    
 
 
-# ***<font color=#0099ff>\*in (a) … fashion</font>*** 
+# ***\*in (a) … fashion*** 
 
 
   
@@ -17305,7 +17305,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 他表现得很奇怪。    
 
 
-# ***<font color=#0099ff>\*in (all) reason</font>*** 
+# ***\*in (all) reason*** 
 
 
   
@@ -17318,7 +17318,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 只要是合情合理的事，我都愿意做。    
 
 
-# ***<font color=#0099ff>\*in (full) bloom</font>*** 
+# ***\*in (full) bloom*** 
 
 
   
@@ -17331,7 +17331,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 玫瑰盛开着。    
 
 
-# ***<font color=#0099ff>\*in / during / over / through(out) the course of</font>*** 
+# ***\*in / during / over / through(out) the course of*** 
 
 
   
@@ -17347,7 +17347,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 上学时我遇到过很多老师，其中有两位对我影响很大。  （2013 湖北）  
 
 
-# ***<font color=#0099ff>\*in / during sb's absence</font>*** 
+# ***\*in / during sb's absence*** 
 
 
   
@@ -17360,7 +17360,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 趁他不在时，我看了看他桌上有什么东西。    
 
 
-# ***<font color=#0099ff>\*in / into the distance</font>*** 
+# ***\*in / into the distance*** 
 
 
   
@@ -17373,7 +17373,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 往远处看，我可以欣赏白雪皑皑的群山。  （2015 浙江）  
 
 
-# ***<font color=#0099ff>\*in / out of season</font>*** 
+# ***\*in / out of season*** 
 
 
   
@@ -17383,7 +17383,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 ### 1.**(食物) 当季的 / 不合时令的**  
 
 
-# ***<font color=#0099ff>\*in / over the long run</font>*** 
+# ***\*in / over the long run*** 
 
 
   
@@ -17396,7 +17396,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 真正的朋友会建议我们做从长远来看对我们有利的事。    
 
 
-# ***<font color=#0099ff>\*in / under ... circumstances</font>*** 
+# ***\*in / under ... circumstances*** 
 
 
   
@@ -17412,7 +17412,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
  > 这是一个实验模型，因此在任何情况下都不要碰它。  （2012 江西改）  
 
 
-# ***<font color=#0099ff>\*in / under no circumstances</font>*** 
+# ***\*in / under no circumstances*** 
 
 
   
@@ -17426,7 +17426,7 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 
 Notes: in / under no circumstances置于句首，句子要用部分倒装语序。   
 
-# ***<font color=#0099ff>\*in / with reference to</font>*** 
+# ***\*in / with reference to*** 
 
 
   
@@ -17439,7 +17439,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 关于你询问的价格，那部电影的票价是每张35元。  （译林⑥ – 1）  
 
 
-# ***<font color=#0099ff>\*in / with regard to</font>*** 
+# ***\*in / with regard to*** 
 
 
   
@@ -17452,7 +17452,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 关于他的建议，我们将充分讨论。    
 
 
-# ***<font color=#0099ff>\*in / within range (of)</font>*** 
+# ***\*in / within range (of)*** 
 
 
   
@@ -17462,7 +17462,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 ### 1.**在 (…的) 范围内**  
 
 
-# ***<font color=#0099ff>\*in a ... manner</font>*** 
+# ***\*in a ... manner*** 
 
 
   
@@ -17478,7 +17478,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 她友好地和我打招呼。    
 
 
-# ***<font color=#0099ff>\*in a ... voice</font>*** 
+# ***\*in a ... voice*** 
 
 
   
@@ -17491,7 +17491,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 低/高声地    
 
 
-# ***<font color=#0099ff>\*in a / one's hurry</font>*** 
+# ***\*in a / one's hurry*** 
 
 
   
@@ -17507,7 +17507,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 他匆匆忙忙地去赶火车，把书落在了出租车里。    
 
 
-# ***<font color=#0099ff>\*in a flash</font>*** 
+# ***\*in a flash*** 
 
 
   
@@ -17517,12 +17517,12 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 ### 1.**瞬间, 即刻**  
 
 
-# ***<font color=#0099ff>\*in a good / bad mood</font>*** 
+# ***\*in a good / bad mood*** 
 
 
   
 
-# ***<font color=#0099ff>\*in a minute</font>*** 
+# ***\*in a minute*** 
 
 
   
@@ -17535,7 +17535,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我马上过来请您点餐。  （人教③ – 3）  
 
 
-# ***<font color=#0099ff>\*in a moment</font>*** 
+# ***\*in a moment*** 
 
 
   
@@ -17548,7 +17548,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我马上就准备好。    
 
 
-# ***<font color=#0099ff>\*in a nutshell</font>*** 
+# ***\*in a nutshell*** 
 
 
   
@@ -17558,7 +17558,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 ### 1.**简言之；概括地讲**  
 
 
-# ***<font color=#0099ff>\*in a row</font>*** 
+# ***\*in a row*** 
 
 
   
@@ -17574,7 +17574,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我已经连续三次打破这一记录了。    
 
 
-# ***<font color=#0099ff>\*in a rush</font>*** 
+# ***\*in a rush*** 
 
 
   
@@ -17584,7 +17584,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 ### 1.**匆忙地，急切地**  
 
 
-# ***<font color=#0099ff>\*in a sense</font>*** 
+# ***\*in a sense*** 
 
 
   
@@ -17597,7 +17597,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 他总是在写故事，因此从某种意义上说，他是个作家。    
 
 
-# ***<font color=#0099ff>\*in a way</font>*** 
+# ***\*in a way*** 
 
 
   
@@ -17610,7 +17610,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 在某种程度上说，你犯了那个错误我倒感到高兴，因为它会为你敲响警钟。    
 
 
-# ***<font color=#0099ff>\*in a word</font>*** 
+# ***\*in a word*** 
 
 
   
@@ -17623,7 +17623,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 总之，认真倾听确实能使我们拉近彼此的距离。  （2008 江苏书面表达）  
 
 
-# ***<font color=#0099ff>\*in action</font>*** 
+# ***\*in action*** 
 
 
   
@@ -17636,7 +17636,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 跳台滑雪者跳下时的照片    
 
 
-# ***<font color=#0099ff>\*in addition</font>*** 
+# ***\*in addition*** 
 
 
   
@@ -17649,7 +17649,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 该公司提供廉价的互联网接入服务。此外，它还免费提供共享软件。    
 
 
-# ***<font color=#0099ff>\*in addition to</font>*** 
+# ***\*in addition to*** 
 
 
   
@@ -17662,7 +17662,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我们读书除了为获取知识外，还可以得到乐趣和灵感。  （2014 浙江书面表达）  
 
 
-# ***<font color=#0099ff>\*in advance</font>*** 
+# ***\*in advance*** 
 
 
   
@@ -17678,7 +17678,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 当同学们在课前得知我的规矩后，他们中的一些人感到不快。  （ 2011 北京）  
 
 
-# ***<font color=#0099ff>\*in advance (of )</font>*** 
+# ***\*in advance (of )*** 
 
 
   
@@ -17694,7 +17694,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 当同学们在课前得知我的规矩后，他们中的一些人感到不快。  （ 2011 北京）  
 
 
-# ***<font color=#0099ff>\*in all</font>*** 
+# ***\*in all*** 
 
 
   
@@ -17707,7 +17707,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 出席聚会的共有多少人？    
 
 
-# ***<font color=#0099ff>\*in all honesty</font>*** 
+# ***\*in all honesty*** 
 
 
   
@@ -17720,7 +17720,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 说实话，我上的那所大学不如我理想中的大学出名。    
 
 
-# ***<font color=#0099ff>\*in amazement</font>*** 
+# ***\*in amazement*** 
 
 
   
@@ -17733,7 +17733,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 杰西卡的父母开始疯狂大笑的时候，她吃惊地看着。  （2011 江西）  
 
 
-# ***<font color=#0099ff>\*in answer to</font>*** 
+# ***\*in answer to*** 
 
 
   
@@ -17746,7 +17746,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 医生接了我的电话后就立即赶过来了。    
 
 
-# ***<font color=#0099ff>\*in any case</font>*** 
+# ***\*in any case*** 
 
 
   
@@ -17762,7 +17762,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我不明白为什么我不能做这件事。不管怎样，我要试一试。    
 
 
-# ***<font color=#0099ff>\*in astonishment</font>*** 
+# ***\*in astonishment*** 
 
 
   
@@ -17772,7 +17772,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 ### 1.**惊讶地，吃惊地**  
 
 
-# ***<font color=#0099ff>\*in behalf of sb / in sb's behalf</font>*** 
+# ***\*in behalf of sb / in sb's behalf*** 
 
 
   
@@ -17785,7 +17785,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我们为无家可归的人筹钱。    
 
 
-# ***<font color=#0099ff>\*in between</font>*** 
+# ***\*in between*** 
 
 
   
@@ -17798,7 +17798,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 今天上午我们有两节课，课间有休息时间。    
 
 
-# ***<font color=#0099ff>\*in brief</font>*** 
+# ***\*in brief*** 
 
 
   
@@ -17811,7 +17811,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 他的成功说来话长。但简单地说，经历多次失败后，他成功了。    
 
 
-# ***<font color=#0099ff>\*in broad daylight</font>*** 
+# ***\*in broad daylight*** 
 
 
   
@@ -17824,7 +17824,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 两者都有“宽的”之意。　  
 
 
-# ***<font color=#0099ff>\*in case of</font>*** 
+# ***\*in case of*** 
 
 
   
@@ -17837,7 +17837,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 如遇紧急情况，请拨打救助台的电话926-3736。    
 
 
-# ***<font color=#0099ff>\*in cash</font>*** 
+# ***\*in cash*** 
 
 
   
@@ -17850,7 +17850,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 你可用现金或支票付款。    
 
 
-# ***<font color=#0099ff>\*in chaos</font>*** 
+# ***\*in chaos*** 
 
 
   
@@ -17863,7 +17863,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 地震后城市陷入一片混乱。    
 
 
-# ***<font color=#0099ff>\*in charge</font>*** 
+# ***\*in charge*** 
 
 
   
@@ -17876,7 +17876,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我想跟负责人谈谈。    
 
 
-# ***<font color=#0099ff>\*in charge of</font>*** 
+# ***\*in charge of*** 
 
 
   
@@ -17889,7 +17889,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我能同国际销售部的负责人谈谈吗？  （2009 全国）  
 
 
-# ***<font color=#0099ff>\*in chorus</font>*** 
+# ***\*in chorus*** 
 
 
   
@@ -17902,7 +17902,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > “谢谢。”他们齐声说道。    
 
 
-# ***<font color=#0099ff>\*in common with</font>*** 
+# ***\*in common with*** 
 
 
   
@@ -17915,7 +17915,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 和其他学生一样，汤姆很少上学迟到。    
 
 
-# ***<font color=#0099ff>\*in company with</font>*** 
+# ***\*in company with*** 
 
 
   
@@ -17928,7 +17928,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我的朋友比尔将和他的新朋友一道来看我。    
 
 
-# ***<font color=#0099ff>\*in conclusion</font>*** 
+# ***\*in conclusion*** 
 
 
   
@@ -17944,7 +17944,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 总之，全世界的人都应当保护水资源。  （2010 福建书面表达改）  
 
 
-# ***<font color=#0099ff>\*in connection with</font>*** 
+# ***\*in connection with*** 
 
 
   
@@ -17957,7 +17957,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我写此信是想谈一谈你找工作的事。    
 
 
-# ***<font color=#0099ff>\*in consideration of / for</font>*** 
+# ***\*in consideration of / for*** 
 
 
   
@@ -17970,7 +17970,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 考虑到其他游客，在城堡内要关闭手机。  （2010 天津改）  
 
 
-# ***<font color=#0099ff>\*in contrast with / to</font>*** 
+# ***\*in contrast with / to*** 
 
 
   
@@ -17983,7 +17983,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 与他的妻子不同，布什对出国旅游没什么兴趣。    
 
 
-# ***<font color=#0099ff>\*in control of</font>*** 
+# ***\*in control of*** 
 
 
   
@@ -17996,7 +17996,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 那栋房子归谁管？    
 
 
-# ***<font color=#0099ff>\*in danger (of)</font>*** 
+# ***\*in danger (of)*** 
 
 
   
@@ -18009,7 +18009,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 有多少产业工人可能会失业？    
 
 
-# ***<font color=#0099ff>\*in debt</font>*** 
+# ***\*in debt*** 
 
 
   
@@ -18025,7 +18025,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 对于他的帮助，我欠他一份人情。    
 
 
-# ***<font color=#0099ff>\*in debt (to sb)</font>*** 
+# ***\*in debt (to sb)*** 
 
 
   
@@ -18041,7 +18041,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 对于他的帮助，我欠他一份人情。    
 
 
-# ***<font color=#0099ff>\*in defence of</font>*** 
+# ***\*in defence of*** 
 
 
   
@@ -18051,7 +18051,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 ### 1.**为辩护；防卫**  
 
 
-# ***<font color=#0099ff>\*in demand</font>*** 
+# ***\*in demand*** 
 
 
   
@@ -18064,7 +18064,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 由于模特业不易进入，好模特总是供不应求。    
 
 
-# ***<font color=#0099ff>\*in depth</font>*** 
+# ***\*in depth*** 
 
 
   
@@ -18080,7 +18080,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我还没有仔细阅读这份报告。    
 
 
-# ***<font color=#0099ff>\*in despair</font>*** 
+# ***\*in despair*** 
 
 
   
@@ -18093,7 +18093,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 兰斯绝望地趴在医生的桌子上。  （北师大⑦ – 21）  
 
 
-# ***<font color=#0099ff>\*in detail</font>*** 
+# ***\*in detail*** 
 
 
   
@@ -18106,7 +18106,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 做计划的好处在于它详细地规定了如何做我们想做的事。  （2016 浙江书面表达）  
 
 
-# ***<font color=#0099ff>\*in disguise</font>*** 
+# ***\*in disguise*** 
 
 
   
@@ -18119,7 +18119,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 公园里的那个女人原来是一个伪装的警察。    
 
 
-# ***<font color=#0099ff>\*in doubt</font>*** 
+# ***\*in doubt*** 
 
 
   
@@ -18132,7 +18132,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 和谈前途未卜。    
 
 
-# ***<font color=#0099ff>\*in effect</font>*** 
+# ***\*in effect*** 
 
 
   
@@ -18150,7 +18150,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > “祝你愉快”是个美妙的词语，实际上它在提醒我们要享受时光。    
 
 
-# ***<font color=#0099ff>\*in error</font>*** 
+# ***\*in error*** 
 
 
   
@@ -18166,7 +18166,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
   
 
 
-# ***<font color=#0099ff>\*in exchange for</font>*** 
+# ***\*in exchange for*** 
 
 
   
@@ -18176,7 +18176,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 ### 1.**交换；调换**  
 
 
-# ***<font color=#0099ff>\*in fact</font>*** 
+# ***\*in fact*** 
 
 
   
@@ -18189,7 +18189,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 事实上，运动产生对大脑有益的化学物质。  （2011 辽宁）  
 
 
-# ***<font color=#0099ff>\*in favour of</font>*** 
+# ***\*in favour of*** 
 
 
   
@@ -18202,7 +18202,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 机遇和成功往往青睐那些有准备的人。    
 
 
-# ***<font color=#0099ff>\*in fear (of sth)</font>*** 
+# ***\*in fear (of sth)*** 
 
 
   
@@ -18215,7 +18215,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 如果有人从身后走近你，并轻触你的肩膀，你可能会吓一跳。  （2010 陕西）  
 
 
-# ***<font color=#0099ff>\*in focus</font>*** 
+# ***\*in focus*** 
 
 
   
@@ -18225,7 +18225,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 ### 1.**焦点对准的；清晰的**  
 
 
-# ***<font color=#0099ff>\*in force</font>*** 
+# ***\*in force*** 
 
 
   
@@ -18238,7 +18238,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 新的法律将很快生效。    
 
 
-# ***<font color=#0099ff>\*in front (of)</font>*** 
+# ***\*in front (of)*** 
 
 
   
@@ -18257,7 +18257,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我们应该勇敢面对困难。  （2008 辽宁书面表达）  
 
 
-# ***<font color=#0099ff>\*in full</font>*** 
+# ***\*in full*** 
 
 
   
@@ -18267,7 +18267,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 ### 1.**全部地**  
 
 
-# ***<font color=#0099ff>\*in fun</font>*** 
+# ***\*in fun*** 
 
 
   
@@ -18280,7 +18280,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我讲这话不是开玩笑的。    
 
 
-# ***<font color=#0099ff>\*in future</font>*** 
+# ***\*in future*** 
 
 
   
@@ -18294,7 +18294,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 只要这次你能帮我，我保证以后会更加小心。    
 
 
-# ***<font color=#0099ff>\*in general</font>*** 
+# ***\*in general*** 
 
 
   
@@ -18314,7 +18314,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 总的说来，她的作品不错，不过这篇文章很糟糕。    
 
 
-# ***<font color=#0099ff>\*in good / bad shape</font>*** 
+# ***\*in good / bad shape*** 
 
 
   
@@ -18330,7 +18330,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 经济形势很不好，而且还有可能恶化。    
 
 
-# ***<font color=#0099ff>\*in good / poor condition</font>*** 
+# ***\*in good / poor condition*** 
 
 
   
@@ -18340,7 +18340,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 ### 1.**状况很好 (坏)； 情况很好 (坏)**  
 
 
-# ***<font color=#0099ff>\*in good spirits</font>*** 
+# ***\*in good spirits*** 
 
 
   
@@ -18350,7 +18350,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 ### 1.**心情好**  
 
 
-# ***<font color=#0099ff>\*in history</font>*** 
+# ***\*in history*** 
 
 
   
@@ -18363,7 +18363,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 拿破仑是历史上最有能力的将军之一。    
 
 
-# ***<font color=#0099ff>\*in honour of sb / in sb's honour</font>*** 
+# ***\*in honour of sb / in sb's honour*** 
 
 
   
@@ -18379,7 +18379,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 人们举行了一个仪式来纪念那些战士。    
 
 
-# ***<font color=#0099ff>\*in many ways</font>*** 
+# ***\*in many ways*** 
 
 
   
@@ -18392,7 +18392,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我和母亲在许多方面很相似。    
 
 
-# ***<font color=#0099ff>\*in memory of</font>*** 
+# ***\*in memory of*** 
 
 
   
@@ -18405,7 +18405,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 为了纪念那些勇敢的消防战士，一部电影即将开拍。  （2009 上海）  
 
 
-# ***<font color=#0099ff>\*in my opinion</font>*** 
+# ***\*in my opinion*** 
 
 
   
@@ -18418,7 +18418,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 在我看来，学习英语是一个循序渐进的过程。    
 
 
-# ***<font color=#0099ff>\*in my view</font>*** 
+# ***\*in my view*** 
 
 
   
@@ -18431,7 +18431,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 在我看来，玩电脑游戏浪费时间。    
 
 
-# ***<font color=#0099ff>\*in need</font>*** 
+# ***\*in need*** 
 
 
   
@@ -18447,7 +18447,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 我们社会上的每个人都应该帮助那些有困难的人。  （2016 江苏书面表达）  
 
 
-# ***<font color=#0099ff>\*in need of</font>*** 
+# ***\*in need of*** 
 
 
   
@@ -18460,7 +18460,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 这位先生总是帮助任何需要帮助的人。    
 
 
-# ***<font color=#0099ff>\*in no case</font>*** 
+# ***\*in no case*** 
 
 
   
@@ -18474,7 +18474,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 Notes: in no case用于句首时，句子常用部分倒装语序。  
 
-# ***<font color=#0099ff>\*in no hurry</font>*** 
+# ***\*in no hurry*** 
 
 
   
@@ -18487,7 +18487,7 @@ Notes: in no case用于句首时，句子常用部分倒装语序。
  > 我可以等，我不着急。    
 
 
-# ***<font color=#0099ff>\*in no sense</font>*** 
+# ***\*in no sense*** 
 
 
   
@@ -18504,7 +18504,7 @@ Notes: in no case用于句首时，句子常用部分倒装语序。
 
 Notes: in no sense用于句首时，句子用部分倒装语序。  
 
-# ***<font color=#0099ff>\*in no time</font>*** 
+# ***\*in no time*** 
 
 
   
@@ -18517,7 +18517,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 别担心，你很快就会好起来。    
 
 
-# ***<font color=#0099ff>\*in no way</font>*** 
+# ***\*in no way*** 
 
 
   
@@ -18533,7 +18533,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我们决不能容忍这样的事情继续下去。    
 
 
-# ***<font color=#0099ff>\*in one's own right</font>*** 
+# ***\*in one's own right*** 
 
 
   
@@ -18543,7 +18543,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 ### 1.**凭借自身,靠自己**  
 
 
-# ***<font color=#0099ff>\*in one's thirties</font>*** 
+# ***\*in one's thirties*** 
 
 
   
@@ -18553,7 +18553,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 ### 1.**在某人三十岁时**  
 
 
-# ***<font color=#0099ff>\*in one's turn</font>*** 
+# ***\*in one's turn*** 
 
 
   
@@ -18563,7 +18563,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 ### 1.**轮到某人；接着**  
 
 
-# ***<font color=#0099ff>\*in order</font>*** 
+# ***\*in order*** 
 
 
   
@@ -18579,7 +18579,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 有些老师发现维持课堂秩序很困难。    
 
 
-# ***<font color=#0099ff>\*in order that</font>*** 
+# ***\*in order that*** 
 
 
   
@@ -18592,7 +18592,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 请留下你的电话号码，以便于我们跟你联系。  （北师大⑦ – 20）  
 
 
-# ***<font color=#0099ff>\*in order to</font>*** 
+# ***\*in order to*** 
 
 
   
@@ -18614,7 +18614,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 悄悄地进去，别把你的妈妈吵醒了。    
 
 
-# ***<font color=#0099ff>\*in order to do something</font>*** 
+# ***\*in order to do something*** 
 
 
   
@@ -18636,7 +18636,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 悄悄地进去，别把你的妈妈吵醒了。    
 
 
-# ***<font color=#0099ff>\*in other words</font>*** 
+# ***\*in other words*** 
 
 
   
@@ -18649,7 +18649,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 换句话说，在英国谈论天气是一种社交手段。  （2013 重庆）  
 
 
-# ***<font color=#0099ff>\*in pairs</font>*** 
+# ***\*in pairs*** 
 
 
   
@@ -18662,7 +18662,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我希望你们两人一组完成这项任务。    
 
 
-# ***<font color=#0099ff>\*in panic</font>*** 
+# ***\*in panic*** 
 
 
   
@@ -18672,7 +18672,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 ### 1.**惊慌地**  
 
 
-# ***<font color=#0099ff>\*in part</font>*** 
+# ***\*in part*** 
 
 
   
@@ -18685,7 +18685,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 有人说他成功的部分原因是运气好。    
 
 
-# ***<font color=#0099ff>\*in particular</font>*** 
+# ***\*in particular*** 
 
 
   
@@ -18701,7 +18701,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 这个周末你有什么特别的安排吗？    
 
 
-# ***<font color=#0099ff>\*in peace</font>*** 
+# ***\*in peace*** 
 
 
   
@@ -18714,7 +18714,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 这两个社区相安无事。    
 
 
-# ***<font color=#0099ff>\*in person</font>*** 
+# ***\*in person*** 
 
 
   
@@ -18727,7 +18727,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 2011 全国    
 
 
-# ***<font color=#0099ff>\*in place</font>*** 
+# ***\*in place*** 
 
 
   
@@ -18746,7 +18746,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 这项服务将于年底准备就绪。    
 
 
-# ***<font color=#0099ff>\*in place of</font>*** 
+# ***\*in place of*** 
 
 
   
@@ -18762,7 +18762,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 如果我不去，他们会派其他人代替我的。    
 
 
-# ***<font color=#0099ff>\*in possession of</font>*** 
+# ***\*in possession of*** 
 
 
   
@@ -18775,7 +18775,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 外国游客必须持有护照。    
 
 
-# ***<font color=#0099ff>\*in practice</font>*** 
+# ***\*in practice*** 
 
 
   
@@ -18788,7 +18788,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 理论上，你的建议很好，但实际上，是行不通的。    
 
 
-# ***<font color=#0099ff>\*in praise of</font>*** 
+# ***\*in praise of*** 
 
 
   
@@ -18801,7 +18801,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 她写了一首诗歌颂自由。    
 
 
-# ***<font color=#0099ff>\*in preparation for</font>*** 
+# ***\*in preparation for*** 
 
 
   
@@ -18814,7 +18814,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我想提高我的语言技能为出国深造作准备。    
 
 
-# ***<font color=#0099ff>\*in principle</font>*** 
+# ***\*in principle*** 
 
 
   
@@ -18832,7 +18832,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我们大体上同意，但是仍需讨论细节。    
 
 
-# ***<font color=#0099ff>\*in print</font>*** 
+# ***\*in print*** 
 
 
   
@@ -18842,7 +18842,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 ### 1.**已出版的；(书等) 仍能买到的**  
 
 
-# ***<font color=#0099ff>\*in private</font>*** 
+# ***\*in private*** 
 
 
   
@@ -18855,7 +18855,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我想和你私下说几句。    
 
 
-# ***<font color=#0099ff>\*in progress</font>*** 
+# ***\*in progress*** 
 
 
   
@@ -18868,12 +18868,12 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 桥梁正在建设中。    
 
 
-# ***<font color=#0099ff>\*in proportion to</font>*** 
+# ***\*in proportion to*** 
 
 
   
 
-# ***<font color=#0099ff>\*in public</font>*** 
+# ***\*in public*** 
 
 
   
@@ -18886,7 +18886,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 不要在公共场合大声说笑，这样不礼貌。    
 
 
-# ***<font color=#0099ff>\*in quantity / in large quantities</font>*** 
+# ***\*in quantity / in large quantities*** 
 
 
   
@@ -18899,7 +18899,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 他们大量收购棉花。    
 
 
-# ***<font color=#0099ff>\*in rags</font>*** 
+# ***\*in rags*** 
 
 
   
@@ -18909,7 +18909,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 ### 1.**衣衫褴褛：**  
 
 
-# ***<font color=#0099ff>\*in reality</font>*** 
+# ***\*in reality*** 
 
 
   
@@ -18922,7 +18922,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 表面上她似乎很自信，其实她感到极其紧张。    
 
 
-# ***<font color=#0099ff>\*in relation to</font>*** 
+# ***\*in relation to*** 
 
 
   
@@ -18938,7 +18938,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 女性的收入相对于男性而言还是偏低。    
 
 
-# ***<font color=#0099ff>\*in relief</font>*** 
+# ***\*in relief*** 
 
 
   
@@ -18951,7 +18951,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 听说自己通过了考试，他松了口气。    
 
 
-# ***<font color=#0099ff>\*in reply to</font>*** 
+# ***\*in reply to*** 
 
 
   
@@ -18965,7 +18965,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我写这封信是为了回复你6月1日的来信。    
 
 
-# ***<font color=#0099ff>\*in respect of</font>*** 
+# ***\*in respect of*** 
 
 
   
@@ -18975,7 +18975,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 ### 1.**关于；就…而言**  
 
 
-# ***<font color=#0099ff>\*in response (to)</font>*** 
+# ***\*in response (to)*** 
 
 
   
@@ -18988,7 +18988,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 政府为应对经济压力采取了行动。    
 
 
-# ***<font color=#0099ff>\*in response to</font>*** 
+# ***\*in response to*** 
 
 
   
@@ -19001,7 +19001,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 政府为应对经济压力采取了行动。    
 
 
-# ***<font color=#0099ff>\*in return</font>*** 
+# ***\*in return*** 
 
 
   
@@ -19017,7 +19017,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我希望自己能做点什么以回报他对我的好意。    
 
 
-# ***<font color=#0099ff>\*in return (for sth)</font>*** 
+# ***\*in return (for sth)*** 
 
 
   
@@ -19033,7 +19033,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我希望自己能做点什么以回报他对我的好意。    
 
 
-# ***<font color=#0099ff>\*in ruins</font>*** 
+# ***\*in ruins*** 
 
 
   
@@ -19047,7 +19047,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 在可怕的15秒内，一座大城市就沦为一片废墟。  （人教① – 4）  
 
 
-# ***<font color=#0099ff>\*in sb's case</font>*** 
+# ***\*in sb's case*** 
 
 
   
@@ -19060,7 +19060,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 他们说天道酬勤，就我的个人情况而言确实如此。    
 
 
-# ***<font color=#0099ff>\*in sb's favour</font>*** 
+# ***\*in sb's favour*** 
 
 
   
@@ -19073,7 +19073,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我们选举班长，结果是28比15，王红当选。    
 
 
-# ***<font color=#0099ff>\*in sb's nature</font>*** 
+# ***\*in sb's nature*** 
 
 
   
@@ -19086,7 +19086,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > “自私”和“粗鲁”不是他的本性。  （外研⑦ – 1）  
 
 
-# ***<font color=#0099ff>\*in sb's shoes</font>*** 
+# ***\*in sb's shoes*** 
 
 
   
@@ -19100,7 +19100,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 别再生气了，要设身处地地为他们想一想。    
 
 
-# ***<font color=#0099ff>\*in search of</font>*** 
+# ***\*in search of*** 
 
 
   
@@ -19113,7 +19113,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 在过去的百年中，人类为了寻找一些重要的资源开始毁坏雨林。  （2009 安徽改）  
 
 
-# ***<font color=#0099ff>\*in secret</font>*** 
+# ***\*in secret*** 
 
 
   
@@ -19126,7 +19126,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 在将近5年的时间里，他们秘密通信。    
 
 
-# ***<font color=#0099ff>\*in shape</font>*** 
+# ***\*in shape*** 
 
 
   
@@ -19140,7 +19140,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 她每天早上慢跑一小时来保持健康。    
 
 
-# ***<font color=#0099ff>\*in shock</font>*** 
+# ***\*in shock*** 
 
 
   
@@ -19153,7 +19153,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 他们吃惊地坐在那里，不敢相信这是真的。    
 
 
-# ***<font color=#0099ff>\*in short</font>*** 
+# ***\*in short*** 
 
 
   
@@ -19166,7 +19166,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 总之，我会尽全力促成此次运动会的成功。  （2008 全国改）  
 
 
-# ***<font color=#0099ff>\*in sight</font>*** 
+# ***\*in sight*** 
 
 
   
@@ -19179,7 +19179,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我迅速向四周扫了一眼，一个人也没看见。    
 
 
-# ***<font color=#0099ff>\*in some ways</font>*** 
+# ***\*in some ways*** 
 
 
   
@@ -19189,7 +19189,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 ### 1.**在某些方面**  
 
 
-# ***<font color=#0099ff>\*in spite of</font>*** 
+# ***\*in spite of*** 
 
 
   
@@ -19202,7 +19202,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 尽管遭遇了坎坷，但她从不甘心接受命运的摆布。  （2008 福建）  
 
 
-# ***<font color=#0099ff>\*in store</font>*** 
+# ***\*in store*** 
 
 
   
@@ -19220,7 +19220,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 她想知道等待她的会是什么样的命运。    
 
 
-# ***<font color=#0099ff>\*in support of</font>*** 
+# ***\*in support of*** 
 
 
   
@@ -19233,7 +19233,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 他做了一些实验来证明自己的观点。    
 
 
-# ***<font color=#0099ff>\*in surprise</font>*** 
+# ***\*in surprise*** 
 
 
   
@@ -19246,7 +19246,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 那人惊奇地问：“你是怎么知道的？”    
 
 
-# ***<font color=#0099ff>\*in terms of</font>*** 
+# ***\*in terms of*** 
 
 
   
@@ -19259,7 +19259,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 与中国相比，欧盟的面积和人口规模如何？  （外研③ – 2）  
 
 
-# ***<font color=#0099ff>\*in terms of ...</font>*** 
+# ***\*in terms of ...*** 
 
 
   
@@ -19272,7 +19272,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 与中国相比，欧盟的面积和人口规模如何？  （外研③ – 2）  
 
 
-# ***<font color=#0099ff>\*in that</font>*** 
+# ***\*in that*** 
 
 
   
@@ -19285,7 +19285,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我们都渴望真诚的友谊，因为它对我们的生活会产生深刻的影响。    
 
 
-# ***<font color=#0099ff>\*in that case</font>*** 
+# ***\*in that case*** 
 
 
   
@@ -19301,7 +19301,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 既然那样，为什么他还同意和她见面？    
 
 
-# ***<font color=#0099ff>\*in the (near) future</font>*** 
+# ***\*in the (near) future*** 
 
 
   
@@ -19321,7 +19321,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 在不久的将来电影市场也许会萎缩。  （2016 江苏书面表达）  
 
 
-# ***<font color=#0099ff>\*in the / sb's way</font>*** 
+# ***\*in the / sb's way*** 
 
 
   
@@ -19337,7 +19337,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 虽然我认为自己是在帮父母准备饭菜，但实际上只是碍手碍脚。    
 
 
-# ***<font color=#0099ff>\*in the absence of</font>*** 
+# ***\*in the absence of*** 
 
 
   
@@ -19350,7 +19350,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 没有了灰狼，鹿的数量迅速增长  （2017 全国改）  
 
 
-# ***<font color=#0099ff>\*in the air</font>*** 
+# ***\*in the air*** 
 
 
   
@@ -19366,7 +19366,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 变革迫在眉睫。    
 
 
-# ***<font color=#0099ff>\*in the area of</font>*** 
+# ***\*in the area of*** 
 
 
   
@@ -19376,12 +19376,12 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 ### 1.**在……领域**  
 
 
-# ***<font color=#0099ff>\*in the case of</font>*** 
+# ***\*in the case of*** 
 
 
   
 
-# ***<font color=#0099ff>\*in the dark</font>*** 
+# ***\*in the dark*** 
 
 
   
@@ -19394,7 +19394,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 请告诉我事故的经过。我还蒙在鼓里呢。    
 
 
-# ***<font color=#0099ff>\*in the distance</font>*** 
+# ***\*in the distance*** 
 
 
   
@@ -19407,7 +19407,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 往远处看，我可以欣赏白雪皑皑的群山。  （2015 浙江）  
 
 
-# ***<font color=#0099ff>\*in the end</font>*** 
+# ***\*in the end*** 
 
 
   
@@ -19423,7 +19423,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 五者都有“最后”之意。  
 
 
-# ***<font color=#0099ff>\*in the event</font>*** 
+# ***\*in the event*** 
 
 
   
@@ -19436,7 +19436,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我对考试提心吊胆，但其实我本不必担心，这次考试的确很容易。    
 
 
-# ***<font color=#0099ff>\*in the event of / (that)</font>*** 
+# ***\*in the event of / (that)*** 
 
 
   
@@ -19452,7 +19452,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 如果她还不知道，我会告诉她的。    
 
 
-# ***<font color=#0099ff>\*in the face of</font>*** 
+# ***\*in the face of*** 
 
 
   
@@ -19465,7 +19465,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 即使面对危险，他也镇定自若。    
 
 
-# ***<font color=#0099ff>\*in the flesh</font>*** 
+# ***\*in the flesh*** 
 
 
   
@@ -19478,7 +19478,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
  > 我们无需亲自前往！  （北师大② – 4）  
 
 
-# ***<font color=#0099ff>\*in the front (of)</font>*** 
+# ***\*in the front (of)*** 
 
 
   
@@ -19495,7 +19495,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 
 Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物内的前部。  
 
-# ***<font color=#0099ff>\*in the hands of sb / in sb's hands</font>*** 
+# ***\*in the hands of sb / in sb's hands*** 
 
 
   
@@ -19508,7 +19508,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 这件事由警方在处理。    
 
 
-# ***<font color=#0099ff>\*in the history of</font>*** 
+# ***\*in the history of*** 
 
 
   
@@ -19518,7 +19518,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
 ### 1.**在……历史上**  
 
 
-# ***<font color=#0099ff>\*in the hope of / in hopes that / in the hope that</font>*** 
+# ***\*in the hope of / in hopes that / in the hope that*** 
 
 
   
@@ -19531,7 +19531,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 我写这封信是希望你们能考虑这些问题并有所改进。    
 
 
-# ***<font color=#0099ff>\*in the lead</font>*** 
+# ***\*in the lead*** 
 
 
   
@@ -19541,7 +19541,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
 ### 1.**领先**  
 
 
-# ***<font color=#0099ff>\*in the long / short term</font>*** 
+# ***\*in the long / short term*** 
 
 
   
@@ -19551,7 +19551,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
 ### 1.**从长远 / 眼前看**  
 
 
-# ***<font color=#0099ff>\*in the long term</font>*** 
+# ***\*in the long term*** 
 
 
   
@@ -19561,7 +19561,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
 ### 1.**从长远角度看**  
 
 
-# ***<font color=#0099ff>\*in the meantime</font>*** 
+# ***\*in the meantime*** 
 
 
   
@@ -19574,7 +19574,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 医生很快就来。现在尽量放松一下吧。    
 
 
-# ***<font color=#0099ff>\*in the meanwhile / meantime</font>*** 
+# ***\*in the meanwhile / meantime*** 
 
 
   
@@ -19587,12 +19587,12 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 你去叫辆出租车，趁这工夫我打包点吃的。    
 
 
-# ***<font color=#0099ff>\*in the middle of</font>*** 
+# ***\*in the middle of*** 
 
 
   
 
-# ***<font color=#0099ff>\*in the name of</font>*** 
+# ***\*in the name of*** 
 
 
   
@@ -19608,7 +19608,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 我已经用你的名字预订了一张桌子。    
 
 
-# ***<font color=#0099ff>\*in the open air</font>*** 
+# ***\*in the open air*** 
 
 
   
@@ -19618,7 +19618,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
 ### 1.**露天；在户外**  
 
 
-# ***<font color=#0099ff>\*in the order of</font>*** 
+# ***\*in the order of*** 
 
 
   
@@ -19631,7 +19631,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 她的年收入约为8万英镑。    
 
 
-# ***<font color=#0099ff>\*in the possession of</font>*** 
+# ***\*in the possession of*** 
 
 
   
@@ -19644,7 +19644,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 那张画为汤姆所有。    
 
 
-# ***<font color=#0099ff>\*in the presence of sb / in sb's presence</font>*** 
+# ***\*in the presence of sb / in sb's presence*** 
 
 
   
@@ -19657,7 +19657,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 他当着全家人的面向她道歉。    
 
 
-# ***<font color=#0099ff>\*in the process</font>*** 
+# ***\*in the process*** 
 
 
   
@@ -19670,7 +19670,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 我把咖啡洒了出来，还烫到了自己。    
 
 
-# ***<font color=#0099ff>\*in the same boat</font>*** 
+# ***\*in the same boat*** 
 
 
   
@@ -19683,7 +19683,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 我和她同病相怜,考试都没及格。    
 
 
-# ***<font color=#0099ff>\*in the world</font>*** 
+# ***\*in the world*** 
 
 
   
@@ -19701,7 +19701,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 她瞪着眼睛喊道：“你究竟在想什么？”  （2010 浙江）  
 
 
-# ***<font color=#0099ff>\*in theory</font>*** 
+# ***\*in theory*** 
 
 
   
@@ -19714,7 +19714,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 理论上讲这是不错，但能否行得通?    
 
 
-# ***<font color=#0099ff>\*in this case</font>*** 
+# ***\*in this case*** 
 
 
   
@@ -19727,7 +19727,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 你可能会想要放弃学习。在这种情况下，你要认真思考一下再作决定。    
 
 
-# ***<font color=#0099ff>\*in time</font>*** 
+# ***\*in time*** 
 
 
   
@@ -19743,7 +19743,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 如果坚持下去，你迟早会成功的。    
 
 
-# ***<font color=#0099ff>\*in total</font>*** 
+# ***\*in total*** 
 
 
   
@@ -19756,7 +19756,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 这些宇航员已在太空中总共待了26000多天。  （外研② – 5）  
 
 
-# ***<font color=#0099ff>\*in trouble</font>*** 
+# ***\*in trouble*** 
 
 
   
@@ -19769,7 +19769,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 我们应信任并尊重我们的朋友，在他们有困难的时候帮助他们。    
 
 
-# ***<font color=#0099ff>\*in truth</font>*** 
+# ***\*in truth*** 
 
 
   
@@ -19782,7 +19782,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 她虽然谈笑风生，但实际上并不开心。    
 
 
-# ***<font color=#0099ff>\*in tune</font>*** 
+# ***\*in tune*** 
 
 
   
@@ -19798,7 +19798,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 跟上时代潮流    
 
 
-# ***<font color=#0099ff>\*in turn</font>*** 
+# ***\*in turn*** 
 
 
   
@@ -19814,7 +19814,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 顾客表扬了经理，经理转而表扬了员工。  （北师大③ – 8）  
 
 
-# ***<font color=#0099ff>\*in use</font>*** 
+# ***\*in use*** 
 
 
   
@@ -19827,7 +19827,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 关掉所有不用的电器：灯、电视和电脑。  （2008 福建）  
 
 
-# ***<font color=#0099ff>\*in vain</font>*** 
+# ***\*in vain*** 
 
 
   
@@ -19840,7 +19840,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 我曾苦苦地探求解决问题的办法，但都是徒劳。  （2010 江苏）  
 
 
-# ***<font color=#0099ff>\*in view of</font>*** 
+# ***\*in view of*** 
 
 
   
@@ -19853,7 +19853,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 由于天气的缘故，这项比赛将在室内进行。    
 
 
-# ***<font color=#0099ff>\*in … case(s)</font>*** 
+# ***\*in … case(s)*** 
 
 
   
@@ -19866,7 +19866,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 在某种情况下这些说法是正确的，但是在其他情况下就是非常错误的。    
 
 
-# ***<font color=#0099ff>\*inch by inch</font>*** 
+# ***\*inch by inch*** 
 
 
   
@@ -19879,7 +19879,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 我慢慢地爬了进去。    
 
 
-# ***<font color=#0099ff>\*infantile paralysis</font>*** 
+# ***\*infantile paralysis*** 
 英音 ˈɪnfənˌtaɪl pəˈrælɪsɪs     美音 ˈɪnfənˌtaɪl pəˈrælɪsɪs  
 
   
@@ -19889,7 +19889,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
 ### 1.*高义频：* **小儿麻痹**  
 
 
-# ***<font color=#0099ff>\*inside out</font>*** 
+# ***\*inside out*** 
 
 
   
@@ -19902,7 +19902,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 孩子们把衬衫穿反了。    
 
 
-# ***<font color=#0099ff>\*insist on</font>*** 
+# ***\*insist on*** 
 
 
   
@@ -19915,7 +19915,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 他坚持要陪我走到车站为我送行。  （北师大④ – 12）  
 
 
-# ***<font color=#0099ff>\*instead of</font>*** 
+# ***\*instead of*** 
 
 
   
@@ -19934,12 +19934,12 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 我们应该多沟通，而不是互相指责。  （2012 江苏书面表达）  
 
 
-# ***<font color=#0099ff>\*it (so) happens that / as it happens</font>*** 
+# ***\*it (so) happens that / as it happens*** 
 
 
   
 
-# ***<font color=#0099ff>\*it can't be helped</font>*** 
+# ***\*it can't be helped*** 
 
 
   
@@ -19952,7 +19952,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 她说自己不得不暂时离开他，那是没办法的事。    
 
 
-# ***<font color=#0099ff>\*it depends</font>*** 
+# ***\*it depends*** 
 
 
   
@@ -19962,7 +19962,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
 ### 1.**那得看情况**  
 
 
-# ***<font color=#0099ff>\*it is no use doing sth</font>*** 
+# ***\*it is no use doing sth*** 
 
 
   
@@ -19975,7 +19975,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 我想现在为考试成绩哭泣没什么意义了。  （译林⑤ – 1）  
 
 
-# ***<font color=#0099ff>\*it is not until … that</font>*** 
+# ***\*it is not until … that*** 
 
 
   
@@ -19988,7 +19988,7 @@ Notes: in front (of) 指在某物外的前面；in the front (of) 指在某物�
  > 直到30岁，他才开始画画。    
 
 
-# ***<font color=#0099ff>\*it is said that ...</font>*** 
+# ***\*it is said that ...*** 
 
 
   
@@ -20005,7 +20005,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 据说他是个艺术家。    
 
 
-# ***<font color=#0099ff>\*it stands to reason (that)</font>*** 
+# ***\*it stands to reason (that)*** 
 
 
   
@@ -20018,7 +20018,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 乔既聪明又用功，他肯定会通过考试。    
 
 
-# ***<font color=#0099ff>\*it won't / doesn't hurt (sb) to do sth</font>*** 
+# ***\*it won't / doesn't hurt (sb) to do sth*** 
 
 
   
@@ -20031,7 +20031,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你不妨偶尔帮忙做下家务。    
 
 
-# ***<font color=#0099ff>\*it's (about / high) time sb did sth</font>*** 
+# ***\*it's (about / high) time sb did sth*** 
 
 
   
@@ -20044,7 +20044,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你该打扫房间了！    
 
 
-# ***<font color=#0099ff>\*it's a pleasure / (it's) my pleasure</font>*** 
+# ***\*it's a pleasure / (it's) my pleasure*** 
 
 
   
@@ -20060,7 +20060,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 别客气。    
 
 
-# ***<font color=#0099ff>\*jet lag</font>*** 
+# ***\*jet lag*** 
 英音 dʒet læɡ     美音 dʒet læɡ  
 
 | 词频 1 |  
@@ -20070,7 +20070,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.*高义频：* **飞行时差反应**  
 
 
-# ***<font color=#0099ff>\*join in</font>*** 
+# ***\*join in*** 
 
 
   
@@ -20086,7 +20086,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 四者都常译为“参加”。  
 
 
-# ***<font color=#0099ff>\*join up</font>*** 
+# ***\*join up*** 
 
 
   
@@ -20096,7 +20096,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**参军**  
 
 
-# ***<font color=#0099ff>\*junior high</font>*** 
+# ***\*junior high*** 
 
 
   
@@ -20106,7 +20106,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**初中**  
 
 
-# ***<font color=#0099ff>\*junior high school</font>*** 
+# ***\*junior high school*** 
 
 
   
@@ -20116,7 +20116,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**（美国）初级中学**  
 
 
-# ***<font color=#0099ff>\*just a minute / moment / second</font>*** 
+# ***\*just a minute / moment / second*** 
 
 
   
@@ -20129,7 +20129,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 等一下，玛格丽特，我想把你介绍给贝蒂。    
 
 
-# ***<font color=#0099ff>\*just about</font>*** 
+# ***\*just about*** 
 
 
   
@@ -20142,7 +20142,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 为了省钱，有的人几乎愿意做任何事情。  （2013 全国）  
 
 
-# ***<font color=#0099ff>\*just now</font>*** 
+# ***\*just now*** 
 
 
   
@@ -20158,7 +20158,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 现在别讨论这件事。    
 
 
-# ***<font color=#0099ff>\*keep (...) in mind</font>*** 
+# ***\*keep (...) in mind*** 
 
 
   
@@ -20171,7 +20171,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 不管何时以何种方式记笔记，你都要记住，记笔记是个有选择性的过程。  （2008 全国）  
 
 
-# ***<font color=#0099ff>\*keep (on) doing sth</font>*** 
+# ***\*keep (on) doing sth*** 
 
 
   
@@ -20184,7 +20184,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 她假装没听见，继续往前走。  （2008 山东）  
 
 
-# ***<font color=#0099ff>\*keep ... free from / of</font>*** 
+# ***\*keep ... free from / of*** 
 
 
   
@@ -20197,7 +20197,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 这可以让空气、土壤、水以及农作物免受化学物质的污染。    
 
 
-# ***<font color=#0099ff>\*keep ... out (of)</font>*** 
+# ***\*keep ... out (of)*** 
 
 
   
@@ -20210,7 +20210,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 别让这只狗进书房。    
 
 
-# ***<font color=#0099ff>\*keep / stay in touch (with)</font>*** 
+# ***\*keep / stay in touch (with)*** 
 
 
   
@@ -20223,7 +20223,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 和朋友们保持联系在友谊中很重要。  （2012 湖南）  
 
 
-# ***<font color=#0099ff>\*keep / stay out of sb's way</font>*** 
+# ***\*keep / stay out of sb's way*** 
 
 
   
@@ -20236,7 +20236,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 她心情这样不好的时候咱们避开她吧。    
 
 
-# ***<font color=#0099ff>\*keep / stay out of trouble</font>*** 
+# ***\*keep / stay out of trouble*** 
 
 
   
@@ -20249,7 +20249,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我希望蒂姆今年能远离麻烦。    
 
 
-# ***<font color=#0099ff>\*keep an eye on</font>*** 
+# ***\*keep an eye on*** 
 
 
   
@@ -20265,7 +20265,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我知道她的心一直在这里，在关注我们。  （2011 四川）  
 
 
-# ***<font color=#0099ff>\*keep an eye out (for)</font>*** 
+# ***\*keep an eye out (for)*** 
 
 
   
@@ -20278,7 +20278,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 这位女士在店铺间逛着，留意着便宜商品。  （2010 江西）  
 
 
-# ***<font color=#0099ff>\*keep balance</font>*** 
+# ***\*keep balance*** 
 
 
   
@@ -20291,7 +20291,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我穿着新溜冰鞋，努力保持平衡。    
 
 
-# ***<font color=#0099ff>\*keep body and soul together</font>*** 
+# ***\*keep body and soul together*** 
 
 
   
@@ -20304,7 +20304,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 她几乎挣不够维持温饱的钱。    
 
 
-# ***<font color=#0099ff>\*keep company (with)</font>*** 
+# ***\*keep company (with)*** 
 
 
   
@@ -20314,7 +20314,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**(和…) 经常交往**  
 
 
-# ***<font color=#0099ff>\*keep cool</font>*** 
+# ***\*keep cool*** 
 
 
   
@@ -20324,7 +20324,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**保持冷静**  
 
 
-# ***<font color=#0099ff>\*keep early / late hours</font>*** 
+# ***\*keep early / late hours*** 
 
 
   
@@ -20334,7 +20334,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**早睡早起 / 晚睡晚起**  
 
 
-# ***<font color=#0099ff>\*keep friends with</font>*** 
+# ***\*keep friends with*** 
 
 
   
@@ -20344,7 +20344,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**与…保持友好关系**  
 
 
-# ***<font color=#0099ff>\*keep going</font>*** 
+# ***\*keep going*** 
 
 
   
@@ -20357,7 +20357,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我不喜欢放弃的想法，我会尽力永远坚持下去。  （2013 四川）  
 
 
-# ***<font color=#0099ff>\*keep in touch</font>*** 
+# ***\*keep in touch*** 
 
 
   
@@ -20370,7 +20370,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 和朋友们保持联系在友谊中很重要。  （2012 湖南）  
 
 
-# ***<font color=#0099ff>\*keep in touch with</font>*** 
+# ***\*keep in touch with*** 
 
 
   
@@ -20383,7 +20383,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 不管你在世界上的什么地方，都要跟家人保持联系。  （译林⑦ – 3）  
 
 
-# ***<font color=#0099ff>\*keep it up</font>*** 
+# ***\*keep it up*** 
 
 
   
@@ -20396,7 +20396,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我们太累了，但还是满怀热情地继续做下去。    
 
 
-# ***<font color=#0099ff>\*keep off</font>*** 
+# ***\*keep off*** 
 
 
   
@@ -20415,7 +20415,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 牌子上写着“请勿践踏草坪”。    
 
 
-# ***<font color=#0099ff>\*keep on</font>*** 
+# ***\*keep on*** 
 
 
   
@@ -20432,7 +20432,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 雨一连下了好几天。    
 
 
-# ***<font color=#0099ff>\*keep one's distance</font>*** 
+# ***\*keep one's distance*** 
 
 
   
@@ -20442,7 +20442,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**保持距离　**  
 
 
-# ***<font color=#0099ff>\*keep one's eyes on</font>*** 
+# ***\*keep one's eyes on*** 
 
 
   
@@ -20452,7 +20452,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**注视，盯着看**  
 
 
-# ***<font color=#0099ff>\*keep one's mouth shut</font>*** 
+# ***\*keep one's mouth shut*** 
 
 
   
@@ -20462,7 +20462,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**保守秘密；守口如瓶**  
 
 
-# ***<font color=#0099ff>\*keep one's word</font>*** 
+# ***\*keep one's word*** 
 
 
   
@@ -20475,7 +20475,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 她说她7点钟到，他以为她不会食言。  （外研③ – 1）  
 
 
-# ***<font color=#0099ff>\*keep pace with</font>*** 
+# ***\*keep pace with*** 
 
 
   
@@ -20485,7 +20485,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**（与……）步调一致，（与……）同步**  
 
 
-# ***<font color=#0099ff>\*keep sb / sth from doing sth</font>*** 
+# ***\*keep sb / sth from doing sth*** 
 
 
   
@@ -20498,7 +20498,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 一定不要让他们知道我们的计划。    
 
 
-# ***<font color=#0099ff>\*keep sb company</font>*** 
+# ***\*keep sb company*** 
 
 
   
@@ -20511,7 +20511,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我答应妹妹在她丈夫不在的时候陪伴她。    
 
 
-# ***<font color=#0099ff>\*keep to</font>*** 
+# ***\*keep to*** 
 
 
   
@@ -20527,7 +20527,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 不管你怎么争辩，我都将坚持自己的决定。    
 
 
-# ***<font color=#0099ff>\*keep track of</font>*** 
+# ***\*keep track of*** 
 
 
   
@@ -20540,7 +20540,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他们每天阅读报纸，以了解时事。    
 
 
-# ***<font color=#0099ff>\*keep up</font>*** 
+# ***\*keep up*** 
 
 
   
@@ -20561,7 +20561,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 如果你采取的这些措施奏效了，那就继续做下去。  （2017 全国）  
 
 
-# ***<font color=#0099ff>\*keep up with</font>*** 
+# ***\*keep up with*** 
 
 
   
@@ -20577,7 +20577,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我要快走才能跟上他。    
 
 
-# ***<font color=#0099ff>\*keep watch (for)</font>*** 
+# ***\*keep watch (for)*** 
 
 
   
@@ -20590,12 +20590,12 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 当同学们在教室追逐嬉闹的时候，他总是望风，注意看老师来了没有。    
 
 
-# ***<font color=#0099ff>\*keep watch for</font>*** 
+# ***\*keep watch for*** 
 
 
   
 
-# ***<font color=#0099ff>\*keep your eyes open (for)</font>*** 
+# ***\*keep your eyes open (for)*** 
 
 
   
@@ -20608,7 +20608,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 要留心田里的兔子。    
 
 
-# ***<font color=#0099ff>\*kick off</font>*** 
+# ***\*kick off*** 
 
 
   
@@ -20621,7 +20621,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 北京艺术节将在4月27日开始，持续到5月31日。    
 
 
-# ***<font color=#0099ff>\*kick the habit</font>*** 
+# ***\*kick the habit*** 
 
 
   
@@ -20634,7 +20634,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 烟民已把全国的“戒烟热线”打爆了，他们都在寻求戒烟的办法。  （2009 山东）  
 
 
-# ***<font color=#0099ff>\*kill two birds with one stone</font>*** 
+# ***\*kill two birds with one stone*** 
 
 
   
@@ -20644,7 +20644,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**一举两得，一箭双雕**  
 
 
-# ***<font color=#0099ff>\*kind of</font>*** 
+# ***\*kind of*** 
 
 
   
@@ -20658,7 +20658,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你没出现我有点不安。    
 
 
-# ***<font color=#0099ff>\*kiss sth goodbye / kiss goodbye to sth</font>*** 
+# ***\*kiss sth goodbye / kiss goodbye to sth*** 
 
 
   
@@ -20671,7 +20671,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我还是放弃奖学金算了。  （2008 北京）  
 
 
-# ***<font color=#0099ff>\*knock ... over</font>*** 
+# ***\*knock ... over*** 
 
 
   
@@ -20684,7 +20684,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 罗伊的爸爸被车撞倒了。  （外研⑥ – 3）  
 
 
-# ***<font color=#0099ff>\*knock at / on</font>*** 
+# ***\*knock at / on*** 
 
 
   
@@ -20697,7 +20697,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 进来之前请敲门。    
 
 
-# ***<font color=#0099ff>\*knock down</font>*** 
+# ***\*knock down*** 
 
 
   
@@ -20715,7 +20715,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 这些老房子迟早得拆掉。    
 
 
-# ***<font color=#0099ff>\*knock into</font>*** 
+# ***\*knock into*** 
 
 
   
@@ -20728,7 +20728,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他如此匆忙，差点儿撞到我身上。    
 
 
-# ***<font color=#0099ff>\*knock into sb.</font>*** 
+# ***\*knock into sb.*** 
 
 
   
@@ -20741,7 +20741,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他如此匆忙，差点儿撞到我身上。    
 
 
-# ***<font color=#0099ff>\*knock off</font>*** 
+# ***\*knock off*** 
 
 
   
@@ -20754,7 +20754,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 如果买10个以上的话，他们会便宜20便士。    
 
 
-# ***<font color=#0099ff>\*knock out</font>*** 
+# ***\*knock out*** 
 
 
   
@@ -20764,7 +20764,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**摧毁**  
 
 
-# ***<font color=#0099ff>\*knock over</font>*** 
+# ***\*knock over*** 
 
 
   
@@ -20777,7 +20777,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 罗伊的爸爸被车撞倒了。  （外研⑥ – 3）  
 
 
-# ***<font color=#0099ff>\*knock sb. over</font>*** 
+# ***\*knock sb. over*** 
 
 
   
@@ -20790,7 +20790,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 罗伊的爸爸被车撞倒了。  （外研⑥ – 3）  
 
 
-# ***<font color=#0099ff>\*know about</font>*** 
+# ***\*know about*** 
 
 
   
@@ -20807,7 +20807,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我不知道你怎么办，反正我要吃点东西。    
 
 
-# ***<font color=#0099ff>\*know of</font>*** 
+# ***\*know of*** 
 
 
   
@@ -20820,7 +20820,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我不认识他，但听说过他。    
 
 
-# ***<font color=#0099ff>\*kung fu</font>*** n
+# ***\*kung fu*** n
 英音 ˌkʌŋ'fuː     美音 ˌkʌŋ'fuː  
 
 | 词频 1 |  
@@ -20830,7 +20830,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**(中国) 功夫**  
 
 
-# ***<font color=#0099ff>\*lack (for) nothing</font>*** 
+# ***\*lack (for) nothing*** 
 
 
   
@@ -20843,7 +20843,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他很富有，什么都不缺。    
 
 
-# ***<font color=#0099ff>\*land (sb) in</font>*** 
+# ***\*land (sb) in*** 
 
 
   
@@ -20853,7 +20853,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**使 (某人) 陷入 (困境)**  
 
 
-# ***<font color=#0099ff>\*last but not least</font>*** 
+# ***\*last but not least*** 
 
 
   
@@ -20866,7 +20866,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 最后但同样重要的是，我们日常生活中应该充分利用水。  （2010 福建书面表达改）  
 
 
-# ***<font color=#0099ff>\*later on</font>*** 
+# ***\*later on*** 
 
 
   
@@ -20879,7 +20879,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 后来他认识到了自己的错误。    
 
 
-# ***<font color=#0099ff>\*laugh at</font>*** 
+# ***\*laugh at*** 
 
 
   
@@ -20892,7 +20892,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 她笑话我，说我不够成熟。  （人教⑥ – 3）  
 
 
-# ***<font color=#0099ff>\*law and order</font>*** 
+# ***\*law and order*** 
 
 
   
@@ -20902,7 +20902,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**法治**  
 
 
-# ***<font color=#0099ff>\*lay down</font>*** 
+# ***\*lay down*** 
 
 
   
@@ -20921,7 +20921,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我因父亲定了这一规矩而生他的气。  （2017 天津改）  
 
 
-# ***<font color=#0099ff>\*lay eggs</font>*** 
+# ***\*lay eggs*** 
 
 
   
@@ -20934,7 +20934,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他收集蝴蝶，然后把它们带到实验室产卵。    
 
 
-# ***<font color=#0099ff>\*lay off</font>*** 
+# ***\*lay off*** 
 
 
   
@@ -20954,7 +20954,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 这家工厂在12月份解雇了50名工人。    
 
 
-# ***<font color=#0099ff>\*lay out</font>*** 
+# ***\*lay out*** 
 
 
   
@@ -20967,7 +20967,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 一百多种茶叶在长桌上铺开排成一排。  （2015 全国）  
 
 
-# ***<font color=#0099ff>\*lead a ... life</font>*** 
+# ***\*lead a ... life*** 
 
 
   
@@ -20980,7 +20980,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 过着幸福的/艰苦的/舒适的/简朴的生活    
 
 
-# ***<font color=#0099ff>\*lead the way</font>*** 
+# ***\*lead the way*** 
 
 
   
@@ -20993,7 +20993,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 先生，请让我来带路吧。  （人教③ – 3）  
 
 
-# ***<font color=#0099ff>\*lead to</font>*** 
+# ***\*lead to*** 
 
 
   
@@ -21006,7 +21006,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 缺乏自信会导致很多痛苦。    
 
 
-# ***<font color=#0099ff>\*lead up to</font>*** 
+# ***\*lead up to*** 
 
 
   
@@ -21019,7 +21019,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 导致罢工的事件    
 
 
-# ***<font color=#0099ff>\*learn ... by heart</font>*** 
+# ***\*learn ... by heart*** 
 
 
   
@@ -21032,7 +21032,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我必须熟记一首诗歌在校音乐会上朗诵。    
 
 
-# ***<font color=#0099ff>\*leave ... alone</font>*** 
+# ***\*leave ... alone*** 
 
 
   
@@ -21045,7 +21045,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你为什么不管好自己的事，别来打扰我？    
 
 
-# ***<font color=#0099ff>\*leave ... behind</font>*** 
+# ***\*leave ... behind*** 
 
 
   
@@ -21058,7 +21058,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 萨拉腿长，很快就把我们中的其他人抛在身后。    
 
 
-# ***<font color=#0099ff>\*leave / let sb alone</font>*** 
+# ***\*leave / let sb alone*** 
 
 
   
@@ -21071,7 +21071,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 为什么你就不能少管闲事不打扰我？    
 
 
-# ***<font color=#0099ff>\*leave / let sth alone</font>*** 
+# ***\*leave / let sth alone*** 
 
 
   
@@ -21084,7 +21084,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 别动那些蛋糕，那是给客人吃的。    
 
 
-# ***<font color=#0099ff>\*leave behind</font>*** 
+# ***\*leave behind*** 
 
 
   
@@ -21110,7 +21110,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 她知道童年一去不复返了。    
 
 
-# ***<font color=#0099ff>\*leave for</font>*** 
+# ***\*leave for*** 
 
 
   
@@ -21123,7 +21123,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 动身去伦敦    
 
 
-# ***<font color=#0099ff>\*leave off</font>*** 
+# ***\*leave off*** 
 
 
   
@@ -21144,7 +21144,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 也许地图的制作者在地图上遗漏了这个十字路口。  （2011 浙江）  
 
 
-# ***<font color=#0099ff>\*leave one's mark on</font>*** 
+# ***\*leave one's mark on*** 
 
 
   
@@ -21157,7 +21157,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 温斯顿 · 丘吉尔已然在世界历史上留下了大名。    
 
 
-# ***<font color=#0099ff>\*leave out</font>*** 
+# ***\*leave out*** 
 
 
   
@@ -21176,7 +21176,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 有了孩子后，初为人父者往往有一种被冷落的感觉。    
 
 
-# ***<font color=#0099ff>\*leave over</font>*** 
+# ***\*leave over*** 
 
 
   
@@ -21192,7 +21192,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 留守儿童    
 
 
-# ***<font color=#0099ff>\*leave room for</font>*** 
+# ***\*leave room for*** 
 
 
   
@@ -21202,7 +21202,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**为…留有余地**  
 
 
-# ***<font color=#0099ff>\*less and less</font>*** 
+# ***\*less and less*** 
 
 
   
@@ -21219,7 +21219,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我爷爷现在出门越来越少了。    
 
 
-# ***<font color=#0099ff>\*less than</font>*** 
+# ***\*less than*** 
 
 
   
@@ -21232,7 +21232,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我们跑完全程用了不到规定时间的一半。  （2008 江西）  
 
 
-# ***<font color=#0099ff>\*let ... alone / be</font>*** 
+# ***\*let ... alone / be*** 
 
 
   
@@ -21248,7 +21248,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 别管他，他需要一点儿自由。    
 
 
-# ***<font color=#0099ff>\*let alone</font>*** 
+# ***\*let alone*** 
 
 
   
@@ -21261,7 +21261,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 对大多数人来说，没有鼠标几乎无法操作计算机，更不用说上网了。  （2009 江苏书面表达）  
 
 
-# ***<font color=#0099ff>\*let down</font>*** 
+# ***\*let down*** 
 
 
   
@@ -21274,7 +21274,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我们不想让他失望。    
 
 
-# ***<font color=#0099ff>\*let go (of)</font>*** 
+# ***\*let go (of)*** 
 
 
   
@@ -21293,7 +21293,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 当有人深深地伤害了你时，放下仇恨是非常困难的。  （2013 辽宁）  
 
 
-# ***<font color=#0099ff>\*let me see / let's see</font>*** 
+# ***\*let me see / let's see*** 
 
 
   
@@ -21309,7 +21309,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 让我想想。应该在餐桌上。    
 
 
-# ***<font color=#0099ff>\*let off</font>*** 
+# ***\*let off*** 
 
 
   
@@ -21327,7 +21327,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 许多其他的人类活动也排放含碳气体。  （译林⑤–2）  
 
 
-# ***<font color=#0099ff>\*let off steam</font>*** 
+# ***\*let off steam*** 
 
 
   
@@ -21337,7 +21337,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**发泄怒火，宣泄情绪**  
 
 
-# ***<font color=#0099ff>\*let out</font>*** 
+# ***\*let out*** 
 
 
   
@@ -21353,7 +21353,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 目前尚不清楚是谁泄露了秘密。    
 
 
-# ***<font color=#0099ff>\*let sb. down</font>*** 
+# ***\*let sb. down*** 
 
 
   
@@ -21366,7 +21366,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我们不想让他失望。    
 
 
-# ***<font color=#0099ff>\*let … in</font>*** 
+# ***\*let … in*** 
 
 
   
@@ -21382,7 +21382,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我打开了我们卧室的窗户通风。  （2009 福建改）  
 
 
-# ***<font color=#0099ff>\*lie around / about</font>*** 
+# ***\*lie around / about*** 
 
 
   
@@ -21397,7 +21397,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 2.*高义频：* **无所事事地混日子**  
 
 
-# ***<font color=#0099ff>\*lie down</font>*** 
+# ***\*lie down*** 
 
 
   
@@ -21413,7 +21413,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 这件事我是不会罢休的。    
 
 
-# ***<font color=#0099ff>\*lie in</font>*** 
+# ***\*lie in*** 
 
 
   
@@ -21429,7 +21429,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 她告诉我快乐的真谛在于帮助他人获得快乐。    
 
 
-# ***<font color=#0099ff>\*life expectancy</font>*** 
+# ***\*life expectancy*** 
 
 
   
@@ -21439,7 +21439,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**预期寿命**  
 
 
-# ***<font color=#0099ff>\*life jacket</font>*** n
+# ***\*life jacket*** n
 
 
 | 词频 1 |  
@@ -21449,7 +21449,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**救生衣**  
 
 
-# ***<font color=#0099ff>\*lift up</font>*** 
+# ***\*lift up*** 
 
 
   
@@ -21459,7 +21459,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**举起**  
 
 
-# ***<font color=#0099ff>\*light bulb</font>*** n
+# ***\*light bulb*** n
 
 
 | 词频 1 |  
@@ -21469,7 +21469,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**电灯泡**  
 
 
-# ***<font color=#0099ff>\*light up</font>*** 
+# ***\*light up*** 
 
 
   
@@ -21485,7 +21485,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 她的脸上露出欣喜的神色。    
 
 
-# ***<font color=#0099ff>\*limit … to</font>*** 
+# ***\*limit … to*** 
 
 
   
@@ -21501,7 +21501,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我只允许自己一天喝两杯咖啡。    
 
 
-# ***<font color=#0099ff>\*line up</font>*** 
+# ***\*line up*** 
 
 
   
@@ -21517,7 +21517,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你下一个任务是去找个好乐队，然后排好他们在舞会上的位置。    
 
 
-# ***<font color=#0099ff>\*link ... to</font>*** 
+# ***\*link ... to*** 
 
 
   
@@ -21533,7 +21533,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 黄色一般与自信、自尊和友好相关。    
 
 
-# ***<font color=#0099ff>\*link ... to / with</font>*** 
+# ***\*link ... to / with*** 
 
 
   
@@ -21549,7 +21549,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 黄色一般与自信、自尊和友好相关。    
 
 
-# ***<font color=#0099ff>\*link up</font>*** 
+# ***\*link up*** 
 
 
   
@@ -21559,7 +21559,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**联合，连接**  
 
 
-# ***<font color=#0099ff>\*listen for</font>*** 
+# ***\*listen for*** 
 
 
   
@@ -21569,7 +21569,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**留神等着听**  
 
 
-# ***<font color=#0099ff>\*listen in</font>*** 
+# ***\*listen in*** 
 
 
   
@@ -21585,7 +21585,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 不要读他人的信件或偷听私人谈话。  （2009 全国改）  
 
 
-# ***<font color=#0099ff>\*little by little</font>*** 
+# ***\*little by little*** 
 
 
   
@@ -21598,7 +21598,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 看来他的健康状况正在逐渐好转。    
 
 
-# ***<font color=#0099ff>\*live a ... life</font>*** 
+# ***\*live a ... life*** 
 
 
   
@@ -21611,7 +21611,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他们在不同的地方过着幸福的新生活。  （外研③ – 6）  
 
 
-# ***<font color=#0099ff>\*live by</font>*** 
+# ***\*live by*** 
 
 
   
@@ -21624,7 +21624,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他以写作/教书为生。    
 
 
-# ***<font color=#0099ff>\*live on</font>*** 
+# ***\*live on*** 
 
 
   
@@ -21645,7 +21645,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他靠每月500美元的薪水生活。    
 
 
-# ***<font color=#0099ff>\*live through</font>*** 
+# ***\*live through*** 
 
 
   
@@ -21658,7 +21658,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我的爷爷经历过两次世界大战。    
 
 
-# ***<font color=#0099ff>\*live up to</font>*** 
+# ***\*live up to*** 
 
 
   
@@ -21671,7 +21671,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他辜负了父母的期望。    
 
 
-# ***<font color=#0099ff>\*live with</font>*** 
+# ***\*live with*** 
 
 
   
@@ -21684,7 +21684,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你可能不喜欢这种情况，但你必须学会忍受。    
 
 
-# ***<font color=#0099ff>\*loads of / a load of</font>*** 
+# ***\*loads of / a load of*** 
 
 
   
@@ -21697,7 +21697,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 在澳大利亚有很多值得一看的好地方。  （北师大④ – 12）  
 
 
-# ***<font color=#0099ff>\*log in / on</font>*** 
+# ***\*log in / on*** 
 
 
   
@@ -21710,7 +21710,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你需要密码才能登录。    
 
 
-# ***<font color=#0099ff>\*look about / around / round (for)</font>*** 
+# ***\*look about / around / round (for)*** 
 
 
   
@@ -21726,7 +21726,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我正在四处找地方住。    
 
 
-# ***<font color=#0099ff>\*look after</font>*** 
+# ***\*look after*** 
 
 
   
@@ -21739,7 +21739,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我来照看孩子，你可以去看望你妈妈。  （2012 陕西）  
 
 
-# ***<font color=#0099ff>\*look ahead</font>*** 
+# ***\*look ahead*** 
 
 
   
@@ -21752,7 +21752,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我们是时候该考虑一下未来了。    
 
 
-# ***<font color=#0099ff>\*look ahead (to sth)</font>*** 
+# ***\*look ahead (to sth)*** 
 
 
   
@@ -21765,7 +21765,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我们是时候该考虑一下未来了。    
 
 
-# ***<font color=#0099ff>\*look around for</font>*** 
+# ***\*look around for*** 
 
 
   
@@ -21778,7 +21778,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 在那以后，我四处找地方住。    
 
 
-# ***<font color=#0099ff>\*look at</font>*** 
+# ***\*look at*** 
 
 
   
@@ -21794,7 +21794,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 从不同的角度来看待所处的形势。  （2009 上海）  
 
 
-# ***<font color=#0099ff>\*look away from</font>*** 
+# ***\*look away from*** 
 
 
   
@@ -21807,7 +21807,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 不要把目光从正在和你说话的人的脸上移开。    
 
 
-# ***<font color=#0099ff>\*look back</font>*** 
+# ***\*look back*** 
 
 
   
@@ -21820,7 +21820,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他回头看见有个警察正在追他。    
 
 
-# ***<font color=#0099ff>\*look back (on)</font>*** 
+# ***\*look back (on)*** 
 
 
   
@@ -21833,7 +21833,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我们回想起到达后的第一个夜晚。  （2009 浙江）  
 
 
-# ***<font color=#0099ff>\*look back at</font>*** 
+# ***\*look back at*** 
 
 
   
@@ -21843,7 +21843,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**回顾，回忆**  
 
 
-# ***<font color=#0099ff>\*look back on / to</font>*** 
+# ***\*look back on / to*** 
 
 
   
@@ -21859,7 +21859,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 回顾2017年，我为我们所取得的成就感到骄傲。    
 
 
-# ***<font color=#0099ff>\*look back over one's shoulder</font>*** 
+# ***\*look back over one's shoulder*** 
 
 
   
@@ -21869,7 +21869,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**回头看**  
 
 
-# ***<font color=#0099ff>\*look down on</font>*** 
+# ***\*look down on*** 
 
 
   
@@ -21885,7 +21885,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 不要轻视不如你的人。    
 
 
-# ***<font color=#0099ff>\*look down on / upon</font>*** 
+# ***\*look down on / upon*** 
 
 
   
@@ -21901,7 +21901,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 不要轻视不如你的人。    
 
 
-# ***<font color=#0099ff>\*look down upon / on</font>*** 
+# ***\*look down upon / on*** 
 
 
   
@@ -21917,7 +21917,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 不要轻视不如你的人。    
 
 
-# ***<font color=#0099ff>\*look for</font>*** 
+# ***\*look for*** 
 
 
   
@@ -21930,7 +21930,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 是他该开始找工作的时候了。  （北师大⑧ – 24）  
 
 
-# ***<font color=#0099ff>\*look forward to</font>*** 
+# ***\*look forward to*** 
 
 
   
@@ -21946,7 +21946,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我盼望着下周去参观美术馆。  （ 外研② – 4）  
 
 
-# ***<font color=#0099ff>\*look forward to (doing) sth</font>*** 
+# ***\*look forward to (doing) sth*** 
 
 
   
@@ -21962,7 +21962,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我盼望着下周去参观美术馆。  （ 外研② – 4）  
 
 
-# ***<font color=#0099ff>\*look into</font>*** 
+# ***\*look into*** 
 
 
   
@@ -21975,7 +21975,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 警方正在调查两个孩子失踪的事件。    
 
 
-# ***<font color=#0099ff>\*look on</font>*** 
+# ***\*look on*** 
 
 
   
@@ -21988,7 +21988,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 学生们在游泳池里游泳，老师在一旁看着。    
 
 
-# ***<font color=#0099ff>\*look on / upon ... as</font>*** 
+# ***\*look on / upon ... as*** 
 
 
   
@@ -22004,7 +22004,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 在18世纪的英国，小说被视为是愚蠢的、不道德的。  （2018 浙江改）  
 
 
-# ***<font color=#0099ff>\*look out</font>*** 
+# ***\*look out*** 
 
 
   
@@ -22020,7 +22020,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 这是个野营的好地方，但你要提防蛇出没。    
 
 
-# ***<font color=#0099ff>\*look out (for)</font>*** 
+# ***\*look out (for)*** 
 
 
   
@@ -22036,7 +22036,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 这是个野营的好地方，但你要提防蛇出没。    
 
 
-# ***<font color=#0099ff>\*look sb up and down</font>*** 
+# ***\*look sb up and down*** 
 
 
   
@@ -22049,7 +22049,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他眯着眼睛上下打量我。    
 
 
-# ***<font color=#0099ff>\*look through</font>*** 
+# ***\*look through*** 
 
 
   
@@ -22065,7 +22065,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我必须在付款前查看并核对一下这些账单。    
 
 
-# ***<font color=#0099ff>\*look up</font>*** 
+# ***\*look up*** 
 
 
   
@@ -22082,7 +22082,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 如果有不懂的单词就查字典。    
 
 
-# ***<font color=#0099ff>\*look up to</font>*** 
+# ***\*look up to*** 
 
 
   
@@ -22095,7 +22095,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我尊敬他，因为他是个真正的艺术家。    
 
 
-# ***<font color=#0099ff>\*loose conduct</font>*** 
+# ***\*loose conduct*** 
 
 
   
@@ -22105,7 +22105,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**行为不检点, 品行不端**  
 
 
-# ***<font color=#0099ff>\*loose lips sink ships</font>*** 
+# ***\*loose lips sink ships*** 
 
 
   
@@ -22115,7 +22115,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**祸从口出**  
 
 
-# ***<font color=#0099ff>\*lose control (of / over)</font>*** 
+# ***\*lose control (of / over)*** 
 
 
   
@@ -22128,7 +22128,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 她完全失去了对车的控制。    
 
 
-# ***<font color=#0099ff>\*lose face</font>*** 
+# ***\*lose face*** 
 
 
   
@@ -22141,7 +22141,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 她害怕如果失败会很没面子。    
 
 
-# ***<font color=#0099ff>\*lose heart</font>*** 
+# ***\*lose heart*** 
 
 
   
@@ -22154,7 +22154,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 无论发生什么事，都不要灰心。    
 
 
-# ***<font color=#0099ff>\*lose interest in</font>*** 
+# ***\*lose interest in*** 
 
 
   
@@ -22164,7 +22164,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**对……失去兴趣**  
 
 
-# ***<font color=#0099ff>\*lose oneself in</font>*** 
+# ***\*lose oneself in*** 
 
 
   
@@ -22177,7 +22177,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 她专注地听着音乐，完全沉浸在美妙的旋律之中。    
 
 
-# ***<font color=#0099ff>\*lose sight of</font>*** 
+# ***\*lose sight of*** 
 
 
   
@@ -22193,7 +22193,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他的祖父是个银行家，在20世纪30年代失去了一切，但并未忘记他最看重的东西。  （2009 福建）  
 
 
-# ***<font color=#0099ff>\*lose touch (with)</font>*** 
+# ***\*lose touch (with)*** 
 
 
   
@@ -22206,7 +22206,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 很遗憾，我已与四五个朋友失去了联系。  （外研⑥ – 3）  
 
 
-# ***<font color=#0099ff>\*lose touch with</font>*** 
+# ***\*lose touch with*** 
 
 
   
@@ -22219,7 +22219,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 很遗憾，我已与四五个朋友失去了联系。  （外研⑥ – 3）  
 
 
-# ***<font color=#0099ff>\*lose track of</font>*** 
+# ***\*lose track of*** 
 
 
   
@@ -22235,7 +22235,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我玩得很愉快，以至于都忘了时间。    
 
 
-# ***<font color=#0099ff>\*lose weight</font>*** 
+# ***\*lose weight*** 
 
 
   
@@ -22248,7 +22248,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 不要光下决心减肥，要尝试一个可行性的决心：“我午餐不再吃甜品。”  （2014 北京改）  
 
 
-# ***<font color=#0099ff>\*lunar month</font>*** 
+# ***\*lunar month*** 
 
 
   
@@ -22258,7 +22258,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**太阴月, 阴历一个月**  
 
 
-# ***<font color=#0099ff>\*make (both) ends meet</font>*** 
+# ***\*make (both) ends meet*** 
 
 
   
@@ -22271,7 +22271,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我们本月入不敷出。    
 
 
-# ***<font color=#0099ff>\*make (one's) peace with</font>*** 
+# ***\*make (one's) peace with*** 
 
 
   
@@ -22284,7 +22284,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 争吵了两周后，他们终于和好了。    
 
 
-# ***<font color=#0099ff>\*make / earn a living</font>*** 
+# ***\*make / earn a living*** 
 
 
   
@@ -22303,7 +22303,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 二者均可用作形容词，有“活着的”、“在世的”之意，但用法不尽相同。  
 
 
-# ***<font color=#0099ff>\*make / pull a face / faces</font>*** 
+# ***\*make / pull a face / faces*** 
 
 
   
@@ -22316,7 +22316,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 老师转过身去的时候，孩子们互相做鬼脸。    
 
 
-# ***<font color=#0099ff>\*make / take notes</font>*** 
+# ***\*make / take notes*** 
 
 
   
@@ -22329,7 +22329,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 玛丽很会记课堂笔记。  （2012 全国）  
 
 
-# ***<font color=#0099ff>\*make a / no difference</font>*** 
+# ***\*make a / no difference*** 
 
 
   
@@ -22346,7 +22346,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 无论她说什么，都不会对我们的安排有影响。  （2015 湖北）  
 
 
-# ***<font color=#0099ff>\*make a bet</font>*** 
+# ***\*make a bet*** 
 
 
   
@@ -22359,7 +22359,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你曾经和朋友打过赌吗？    
 
 
-# ***<font color=#0099ff>\*make a breakthrough</font>*** 
+# ***\*make a breakthrough*** 
 
 
   
@@ -22369,7 +22369,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**取得重大突破（进展）**  
 
 
-# ***<font color=#0099ff>\*make a contrast with</font>*** 
+# ***\*make a contrast with*** 
 
 
   
@@ -22382,7 +22382,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 白色的墙壁与黑色的地毯形成了鲜明的对比。    
 
 
-# ***<font color=#0099ff>\*make a deal</font>*** 
+# ***\*make a deal*** 
 
 
   
@@ -22392,7 +22392,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**达成协议；做成交易**  
 
 
-# ***<font color=#0099ff>\*make a difference</font>*** 
+# ***\*make a difference*** 
 
 
   
@@ -22405,7 +22405,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 万众一心，众志成城。  （人教⑥ – 4）  
 
 
-# ***<font color=#0099ff>\*make a fool of</font>*** 
+# ***\*make a fool of*** 
 
 
   
@@ -22418,7 +22418,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我们全都被推销员骗了。    
 
 
-# ***<font color=#0099ff>\*make a fool of oneself</font>*** 
+# ***\*make a fool of oneself*** 
 
 
   
@@ -22428,7 +22428,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**干蠢事；出洋相**  
 
 
-# ***<font color=#0099ff>\*make a life</font>*** 
+# ***\*make a life*** 
 
 
   
@@ -22441,7 +22441,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 获取得以生存，给予得以生活。    
 
 
-# ***<font color=#0099ff>\*make a living</font>*** 
+# ***\*make a living*** 
 
 
   
@@ -22454,7 +22454,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 在土地肥沃的地方，当地农民可以靠种庄稼谋生。  （北师大④ – 10）  
 
 
-# ***<font color=#0099ff>\*make a name (for oneself) / make one's name</font>*** 
+# ***\*make a name (for oneself) / make one's name*** 
 
 
   
@@ -22467,7 +22467,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 她最初以写儿童读物成名。    
 
 
-# ***<font color=#0099ff>\*make a note of</font>*** 
+# ***\*make a note of*** 
 
 
   
@@ -22480,7 +22480,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 戴夫记下了她的地址。    
 
 
-# ***<font color=#0099ff>\*make a point of doing sth</font>*** 
+# ***\*make a point of doing sth*** 
 
 
   
@@ -22493,7 +22493,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 星期六他必定要和孩子们在一起。    
 
 
-# ***<font color=#0099ff>\*make a proposal</font>*** 
+# ***\*make a proposal*** 
 
 
   
@@ -22506,7 +22506,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他提议会议延期。    
 
 
-# ***<font color=#0099ff>\*make a sound</font>*** 
+# ***\*make a sound*** 
 
 
   
@@ -22519,7 +22519,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他偷偷地溜进房子里，尽量不发出一点儿声音。    
 
 
-# ***<font color=#0099ff>\*make allowance(s) for</font>*** 
+# ***\*make allowance(s) for*** 
 
 
   
@@ -22532,7 +22532,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 老板体谅他身体不好，让他每天工作六小时而不是八小时。    
 
 
-# ***<font color=#0099ff>\*make an impression</font>*** 
+# ***\*make an impression*** 
 
 
   
@@ -22548,7 +22548,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 她努力给主持面试者留个好印象。    
 
 
-# ***<font color=#0099ff>\*make an impression on sb.</font>*** 
+# ***\*make an impression on sb.*** 
 
 
   
@@ -22558,7 +22558,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**给某人留下印象**  
 
 
-# ***<font color=#0099ff>\*make contact with</font>*** 
+# ***\*make contact with*** 
 
 
   
@@ -22571,7 +22571,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我设法与一位老朋友取得了联系。    
 
 
-# ***<font color=#0099ff>\*make efforts</font>*** 
+# ***\*make efforts*** 
 
 
   
@@ -22584,7 +22584,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我决心更加努力提高英语水平。    
 
 
-# ***<font color=#0099ff>\*make friends</font>*** 
+# ***\*make friends*** 
 
 
   
@@ -22597,7 +22597,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 有共同话题的人更容易成为朋友  （2008 广东改）  
 
 
-# ***<font color=#0099ff>\*make friends again</font>*** 
+# ***\*make friends again*** 
 
 
   
@@ -22607,7 +22607,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**言归于好；重修旧好**  
 
 
-# ***<font color=#0099ff>\*make fun of</font>*** 
+# ***\*make fun of*** 
 
 
   
@@ -22620,7 +22620,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 不要感到残疾人可怜，或者取笑他们，也别不理睬他们。  （人教⑦ – 1）  
 
 
-# ***<font color=#0099ff>\*make history</font>*** 
+# ***\*make history*** 
 
 
   
@@ -22633,7 +22633,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 奥巴马是美国历史上首位黑人总统。    
 
 
-# ***<font color=#0099ff>\*make it</font>*** 
+# ***\*make it*** 
 
 
   
@@ -22664,7 +22664,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我很抱歉昨晚没能参加你的聚会。  （2011 浙江）  
 
 
-# ***<font color=#0099ff>\*make it to</font>*** 
+# ***\*make it to*** 
 
 
   
@@ -22674,7 +22674,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**到达**  
 
 
-# ***<font color=#0099ff>\*make money</font>*** 
+# ***\*make money*** 
 
 
   
@@ -22684,7 +22684,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**赚钱；获利**  
 
 
-# ***<font color=#0099ff>\*make one's acquaintance</font>*** 
+# ***\*make one's acquaintance*** 
 
 
   
@@ -22697,7 +22697,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我来英国想跟你结识！    
 
 
-# ***<font color=#0099ff>\*make one's fortune</font>*** 
+# ***\*make one's fortune*** 
 
 
   
@@ -22707,7 +22707,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**发财**  
 
 
-# ***<font color=#0099ff>\*make one's way</font>*** 
+# ***\*make one's way*** 
 
 
   
@@ -22717,7 +22717,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**前往**  
 
 
-# ***<font color=#0099ff>\*make one's way to</font>*** 
+# ***\*make one's way to*** 
 
 
   
@@ -22727,7 +22727,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**前往；到……去**  
 
 
-# ***<font color=#0099ff>\*make oneself understood</font>*** 
+# ***\*make oneself understood*** 
 
 
   
@@ -22740,7 +22740,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你能用英语说清楚自己的意思吗？    
 
 
-# ***<font color=#0099ff>\*make out</font>*** 
+# ***\*make out*** 
 
 
   
@@ -22772,7 +22772,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他假装自己是一名知名医生。  （ 译林⑦ – 2）  
 
 
-# ***<font color=#0099ff>\*make preparations for</font>*** 
+# ***\*make preparations for*** 
 
 
   
@@ -22785,12 +22785,12 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他们正忙着筹备婚礼。    
 
 
-# ***<font color=#0099ff>\*make progress</font>*** 
+# ***\*make progress*** 
 
 
   
 
-# ***<font color=#0099ff>\*make room for</font>*** 
+# ***\*make room for*** 
 
 
   
@@ -22803,7 +22803,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 请你为这位老太太腾个地方好吗?    
 
 
-# ***<font color=#0099ff>\*make sb's blood boil</font>*** 
+# ***\*make sb's blood boil*** 
 
 
   
@@ -22816,7 +22816,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他这样对待父母真的让我非常气愤。    
 
 
-# ***<font color=#0099ff>\*make sense</font>*** 
+# ***\*make sense*** 
 
 
   
@@ -22852,7 +22852,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 谁会送给我这么多花呢？想不明白。    
 
 
-# ***<font color=#0099ff>\*make sense of</font>*** 
+# ***\*make sense of*** 
 
 
   
@@ -22865,7 +22865,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你能看懂这篇文章吗？    
 
 
-# ***<font color=#0099ff>\*make something of oneself</font>*** 
+# ***\*make something of oneself*** 
 
 
   
@@ -22878,7 +22878,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 如果珍妮一直努力工作，总有一天会有出息的。    
 
 
-# ***<font color=#0099ff>\*make sure</font>*** 
+# ***\*make sure*** 
 
 
   
@@ -22896,12 +22896,12 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我们确保在校园里照顾好学生。  （译林① – 1）  
 
 
-# ***<font color=#0099ff>\*make the best of</font>*** 
+# ***\*make the best of*** 
 
 
   
 
-# ***<font color=#0099ff>\*make the most of</font>*** 
+# ***\*make the most of*** 
 
 
   
@@ -22914,7 +22914,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我希望你们大家都充分利用这个机会分享信息、交流意见。    
 
 
-# ***<font color=#0099ff>\*make up</font>*** 
+# ***\*make up*** 
 
 
   
@@ -22949,7 +22949,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 她们之间发生过3次激烈的争吵，但每次都重归于好。  （外研⑥ – 3）  
 
 
-# ***<font color=#0099ff>\*make up for</font>*** 
+# ***\*make up for*** 
 
 
   
@@ -22962,7 +22962,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 西方人应当利用古老的中国智慧弥补西方哲学的不足。  （2012 辽宁）  
 
 
-# ***<font color=#0099ff>\*make up one's mind</font>*** 
+# ***\*make up one's mind*** 
 
 
   
@@ -22979,7 +22979,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他已经下决心要克服自己的缺点。    
 
 
-# ***<font color=#0099ff>\*make use of</font>*** 
+# ***\*make use of*** 
 
 
   
@@ -22992,7 +22992,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 要成为善于学习的人，你必须充分利用图书馆里的图书、报纸和杂志。  （人教② – 3）  
 
 
-# ***<font color=#0099ff>\*make way for</font>*** 
+# ***\*make way for*** 
 
 
   
@@ -23002,7 +23002,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**给……让路，让位于……**  
 
 
-# ***<font color=#0099ff>\*make … into</font>*** 
+# ***\*make … into*** 
 
 
   
@@ -23018,7 +23018,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 人们靠自己的努力使自己成为赢家。  （2018 天津）  
 
 
-# ***<font color=#0099ff>\*manage to do</font>*** 
+# ***\*manage to do*** 
 
 
   
@@ -23031,7 +23031,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 在无数次面试后，我成功地从众多应征者中脱颖而出，仅我一个人在测试中过关。  （2014 广东改）  
 
 
-# ***<font color=#0099ff>\*manned spaceship</font>*** 
+# ***\*manned spaceship*** 
 
 
   
@@ -23041,7 +23041,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**载人宇宙飞船**  
 
 
-# ***<font color=#0099ff>\*many a</font>*** 
+# ***\*many a*** 
 
 
   
@@ -23057,7 +23057,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 二者意义相同，意为“多得多的”，但搭配不同。  
 
 
-# ***<font color=#0099ff>\*mark out</font>*** 
+# ***\*mark out*** 
 
 
   
@@ -23070,7 +23070,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 一个排球场已经在草地上画了出来。    
 
 
-# ***<font color=#0099ff>\*mass production</font>*** n
+# ***\*mass production*** n
 
 
   
@@ -23080,7 +23080,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**批量生产**  
 
 
-# ***<font color=#0099ff>\*master musician</font>*** 
+# ***\*master musician*** 
 
 
   
@@ -23090,7 +23090,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**音乐大师**  
 
 
-# ***<font color=#0099ff>\*master's degree</font>*** 
+# ***\*master's degree*** 
 
 
   
@@ -23100,7 +23100,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.*高义频：* **硕士学位**  
 
 
-# ***<font color=#0099ff>\*may / might (just) as well do sth</font>*** 
+# ***\*may / might (just) as well do sth*** 
 
 
   
@@ -23113,7 +23113,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 既然我们还没走远，我们不妨返回去取地图。  （2011 上海改）  
 
 
-# ***<font color=#0099ff>\*may as well (do)</font>*** 
+# ***\*may as well (do)*** 
 
 
   
@@ -23126,7 +23126,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你还是回家去吧，他不来了。    
 
 
-# ***<font color=#0099ff>\*meet up</font>*** 
+# ***\*meet up*** 
 
 
   
@@ -23140,7 +23140,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我现在要走了，但是以后我们还会再见。    
 
 
-# ***<font color=#0099ff>\*meet with</font>*** 
+# ***\*meet with*** 
 
 
   
@@ -23162,7 +23162,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 无论遇到什么问题，他从不放弃。  （2013 天津）  
 
 
-# ***<font color=#0099ff>\*mess up</font>*** 
+# ***\*mess up*** 
 
 
   
@@ -23178,7 +23178,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 要是搞砸了也没关系，你总是可以再来一次的。    
 
 
-# ***<font color=#0099ff>\*millions of</font>*** 
+# ***\*millions of*** 
 
 
   
@@ -23191,7 +23191,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 成千上万的奶牛不再产奶，五十万头猪和千百万只小鸡全都死了。    
 
 
-# ***<font color=#0099ff>\*mind / watch one's step</font>*** 
+# ***\*mind / watch one's step*** 
 
 
   
@@ -23201,7 +23201,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**走路小心；言行小心谨慎**  
 
 
-# ***<font color=#0099ff>\*mind reader</font>*** n
+# ***\*mind reader*** n
 
 
   
@@ -23211,7 +23211,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**（自称或被认为）能看透别人心思的人**  
 
 
-# ***<font color=#0099ff>\*mind your own business</font>*** 
+# ***\*mind your own business*** 
 
 
   
@@ -23224,7 +23224,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你为什么就不能别管闲事，让我清静一下呢？    
 
 
-# ***<font color=#0099ff>\*miss out</font>*** 
+# ***\*miss out*** 
 
 
   
@@ -23240,7 +23240,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 一些孩子由于父母担心学校组织的旅行的安全问题而失去了参加的机会。    
 
 
-# ***<font color=#0099ff>\*mistake ... for</font>*** 
+# ***\*mistake ... for*** 
 
 
   
@@ -23253,7 +23253,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他可能误把我当成其他人了。  （ 2009 天津）  
 
 
-# ***<font color=#0099ff>\*mix up</font>*** 
+# ***\*mix up*** 
 
 
   
@@ -23279,7 +23279,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他的解释让我更糊涂了。    
 
 
-# ***<font color=#0099ff>\*mobile phone</font>*** n
+# ***\*mobile phone*** n
 
 
 | 词频 5 |  
@@ -23291,7 +23291,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**移动电话；手机 (cell phone)**  
 
 
-# ***<font color=#0099ff>\*monarch butterfly</font>*** 
+# ***\*monarch butterfly*** 
 
 
   
@@ -23301,7 +23301,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**黑脉金斑蝶**  
 
 
-# ***<font color=#0099ff>\*mop up</font>*** 
+# ***\*mop up*** 
 
 
   
@@ -23317,7 +23317,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 雨林很重要，它们能吸收大气中的二氧化碳，有助于减缓全球变暖。    
 
 
-# ***<font color=#0099ff>\*more and more</font>*** 
+# ***\*more and more*** 
 
 
   
@@ -23331,7 +23331,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 越来越多的人在用智能手机获取信息和娱乐。    
 
 
-# ***<font color=#0099ff>\*more often than not / as often as not</font>*** 
+# ***\*more often than not / as often as not*** 
 
 
   
@@ -23341,7 +23341,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**通常；往往**  
 
 
-# ***<font color=#0099ff>\*more or less</font>*** 
+# ***\*more or less*** 
 
 
   
@@ -23357,7 +23357,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 工作基本上完成了。    
 
 
-# ***<font color=#0099ff>\*more than</font>*** 
+# ***\*more than*** 
 
 
   
@@ -23378,7 +23378,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我非常乐意帮忙。  （2010 全国书面表达）  
 
 
-# ***<font color=#0099ff>\*most of all</font>*** 
+# ***\*most of all*** 
 
 
   
@@ -23394,7 +23394,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 最主要是因为我没有足够的钱。    
 
 
-# ***<font color=#0099ff>\*mother tongue</font>*** 
+# ***\*mother tongue*** 
 英音 ˈmʌðəˈ tʌŋ     美音 ˈmʌðəˈ tʌŋ  
 
   
@@ -23407,7 +23407,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 母语    
 
 
-# ***<font color=#0099ff>\*motor neurone disease</font>*** n
+# ***\*motor neurone disease*** n
 
 
 | 词频 1 |  
@@ -23417,7 +23417,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**运动神经元病**  
 
 
-# ***<font color=#0099ff>\*move about / around</font>*** 
+# ***\*move about / around*** 
 
 
   
@@ -23430,7 +23430,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 他病得很重，甚至连走动都很困难。    
 
 
-# ***<font color=#0099ff>\*move off</font>*** 
+# ***\*move off*** 
 
 
   
@@ -23440,7 +23440,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**离开；起程；出发**  
 
 
-# ***<font color=#0099ff>\*move on</font>*** 
+# ***\*move on*** 
 
 
   
@@ -23456,7 +23456,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我认为这个话题我们已经谈得够多了，咱们换个话题吧。    
 
 
-# ***<font color=#0099ff>\*much the same</font>*** 
+# ***\*much the same*** 
 
 
   
@@ -23469,7 +23469,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 我已多年没有回到故乡了，但那里的一切和我记忆中的几乎一样。    
 
 
-# ***<font color=#0099ff>\*musical instrument</font>*** 
+# ***\*musical instrument*** 
 
 
   
@@ -23479,7 +23479,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**乐器**  
 
 
-# ***<font color=#0099ff>\*musical instruments</font>*** n
+# ***\*musical instruments*** n
 
 
   
@@ -23492,7 +23492,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 乐器    
 
 
-# ***<font color=#0099ff>\*my goodness</font>*** 
+# ***\*my goodness*** 
 
 
   
@@ -23502,7 +23502,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**天哪, 哎呀**  
 
 
-# ***<font color=#0099ff>\*name ... after</font>*** 
+# ***\*name ... after*** 
 
 
   
@@ -23518,7 +23518,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 杰克曾在一所乡村学校读书，该校是以他爷爷的名字命名的。  （2010 全国）  
 
 
-# ***<font color=#0099ff>\*name after</font>*** 
+# ***\*name after*** 
 
 
   
@@ -23534,7 +23534,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 杰克曾在一所乡村学校读书，该校是以他爷爷的名字命名的。  （2010 全国）  
 
 
-# ***<font color=#0099ff>\*natural selection</font>*** 
+# ***\*natural selection*** 
 
 
   
@@ -23544,7 +23544,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
 ### 1.**自然选择**  
 
 
-# ***<font color=#0099ff>\*needn't have done sth</font>*** 
+# ***\*needn't have done sth*** 
 
 
   
@@ -23557,7 +23557,7 @@ Notes: it is said that ... 常可与be said to ... 互换。
  > 你昨天工作到很晚，今天早上你原本可以不来。    
 
 
-# ***<font color=#0099ff>\*neither ... nor</font>*** 
+# ***\*neither ... nor*** 
 
 
   
@@ -23580,12 +23580,12 @@ Notes: it is said that ... 常可与be said to ... 互换。
 
 Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。连接并列主语时，谓语与靠近它的主语一致。  
 
-# ***<font color=#0099ff>\*never / not once</font>*** 
+# ***\*never / not once*** 
 
 
   
 
-# ***<font color=#0099ff>\*never say never</font>*** 
+# ***\*never say never*** 
 
 
   
@@ -23595,7 +23595,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
 ### 1.**别轻易说决不**  
 
 
-# ***<font color=#0099ff>\*next to</font>*** 
+# ***\*next to*** 
 
 
   
@@ -23611,7 +23611,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
  > 除生物外，我最喜欢物理。  （2012 全国）  
 
 
-# ***<font color=#0099ff>\*night and day / day and night</font>*** 
+# ***\*night and day / day and night*** 
 
 
   
@@ -23624,7 +23624,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
  > 他非常勤奋，夜以继日地工作。  （2008 湖南书面表达）  
 
 
-# ***<font color=#0099ff>\*no doubt</font>*** 
+# ***\*no doubt*** 
 
 
   
@@ -23640,7 +23640,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
  > 收门票无疑会把一些人拒之门外。    
 
 
-# ***<font color=#0099ff>\*no less than</font>*** 
+# ***\*no less than*** 
 
 
   
@@ -23653,7 +23653,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
  > 他买这座房子花了多达10万美元。    
 
 
-# ***<font color=#0099ff>\*no longer / not ... any longer</font>*** 
+# ***\*no longer / not ... any longer*** 
 
 
   
@@ -23669,7 +23669,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
  > 自从出国留学后，她就不再和我们保持联系了。  （2011 上海）  
 
 
-# ***<font color=#0099ff>\*no matter</font>*** 
+# ***\*no matter*** 
 
 
   
@@ -23687,7 +23687,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
  > 无论雨多急、风多大，警察一直坚守在自己的岗位上。    
 
 
-# ***<font color=#0099ff>\*no matter where, who, what,etc.</font>*** 
+# ***\*no matter where, who, what,etc.*** 
 
 
   
@@ -23703,7 +23703,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
  > 无论雨多急、风多大，警察一直坚守在自己的岗位上。    
 
 
-# ***<font color=#0099ff>\*no more</font>*** 
+# ***\*no more*** 
 
 
   
@@ -23719,7 +23719,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
  > 别再浪费时间和金钱了。  （ 2009 湖南）  
 
 
-# ***<font color=#0099ff>\*no more than</font>*** 
+# ***\*no more than*** 
 
 
   
@@ -23732,7 +23732,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
  > 他所受的学校教育全部加起来不过3年。    
 
 
-# ***<font color=#0099ff>\*no problem</font>*** 
+# ***\*no problem*** 
 
 
   
@@ -23759,7 +23759,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
 二者都可译作“问题”。  
 
 
-# ***<font color=#0099ff>\*no sooner ... than</font>*** 
+# ***\*no sooner ... than*** 
 
 
   
@@ -23776,7 +23776,7 @@ Notes: no sooner置于句首时，句子要用部分倒装结构。
  > 他刚坐下来就听见有人敲门。    
 
 
-# ***<font color=#0099ff>\*no sooner ... than ...</font>*** 
+# ***\*no sooner ... than ...*** 
 
 
   
@@ -23786,7 +23786,7 @@ Notes: no sooner置于句首时，句子要用部分倒装结构。
 ### 1.**见soon**  
 
 
-# ***<font color=#0099ff>\*no way</font>*** 
+# ***\*no way*** 
 
 
   
@@ -23806,7 +23806,7 @@ Notes: no sooner置于句首时，句子要用部分倒装结构。
  > 我们无论如何都花不起那种钱。    
 
 
-# ***<font color=#0099ff>\*no wonder</font>*** 
+# ***\*no wonder*** 
 
 
   
@@ -23822,7 +23822,7 @@ Notes: no sooner置于句首时，句子要用部分倒装结构。
  > 她的孩子不见了，难怪她如此心神不宁。    
 
 
-# ***<font color=#0099ff>\*none but</font>*** 
+# ***\*none but*** 
 
 
   
@@ -23835,7 +23835,7 @@ Notes: no sooner置于句首时，句子要用部分倒装结构。
  > 只有他知道真相。    
 
 
-# ***<font color=#0099ff>\*not ... any more</font>*** 
+# ***\*not ... any more*** 
 
 
   
@@ -23848,7 +23848,7 @@ Notes: no sooner置于句首时，句子要用部分倒装结构。
  > 别再浪费时间和金钱了。    
 
 
-# ***<font color=#0099ff>\*not ... at all</font>*** 
+# ***\*not ... at all*** 
 
 
   
@@ -23861,7 +23861,7 @@ Notes: no sooner置于句首时，句子要用部分倒装结构。
  > 电影一点儿也没意思。    
 
 
-# ***<font color=#0099ff>\*not ... but</font>*** 
+# ***\*not ... but*** 
 
 
   
@@ -23874,7 +23874,7 @@ Notes: no sooner置于句首时，句子要用部分倒装结构。
  > 生活不是竞赛，而是一场一步接着一步的旅行。    
 
 
-# ***<font color=#0099ff>\*not / nothing much</font>*** 
+# ***\*not / nothing much*** 
 
 
   
@@ -23890,7 +23890,7 @@ Notes: no sooner置于句首时，句子要用部分倒装结构。
  > 哦，没什么。事实上我刚才在想念家乡的朋友们。    
 
 
-# ***<font color=#0099ff>\*not a / one</font>*** 
+# ***\*not a / one*** 
 
 
   
@@ -23903,7 +23903,7 @@ Notes: no sooner置于句首时，句子要用部分倒装结构。
  > 那次事故中没有人员死亡。    
 
 
-# ***<font color=#0099ff>\*not a bit</font>*** 
+# ***\*not a bit*** 
 
 
   
@@ -23917,7 +23917,7 @@ Notes: no sooner置于句首时，句子要用部分倒装结构。
 
 Notes: not a little意为“非常” 、 “很多”。  
 
-# ***<font color=#0099ff>\*not a little</font>*** 
+# ***\*not a little*** 
 
 
   
@@ -23930,7 +23930,7 @@ Notes: not a little意为“非常” 、 “很多”。
  > 此事使我相当焦虑。    
 
 
-# ***<font color=#0099ff>\*not at all</font>*** 
+# ***\*not at all*** 
 
 
   
@@ -23940,7 +23940,7 @@ Notes: not a little意为“非常” 、 “很多”。
 ### 1.**根本不；别客气**  
 
 
-# ***<font color=#0099ff>\*not exactly</font>*** 
+# ***\*not exactly*** 
 
 
   
@@ -23959,7 +23959,7 @@ Notes: not a little意为“非常” 、 “很多”。
  > 根本不可能。现在都3:20了。    
 
 
-# ***<font color=#0099ff>\*not in the least / not the least (bit)</font>*** 
+# ***\*not in the least / not the least (bit)*** 
 
 
   
@@ -23972,7 +23972,7 @@ Notes: not a little意为“非常” 、 “很多”。
  > 我不知道他的名字，或者说一点儿也不了解他。  （2006 湖北）  
 
 
-# ***<font color=#0099ff>\*not more than</font>*** 
+# ***\*not more than*** 
 
 
   
@@ -23988,7 +23988,7 @@ Notes: not a little意为“非常” 、 “很多”。
   
 
 
-# ***<font color=#0099ff>\*not nearly</font>*** 
+# ***\*not nearly*** 
 
 
   
@@ -24001,7 +24001,7 @@ Notes: not a little意为“非常” 、 “很多”。
  > 天气远没有去年那么热。    
 
 
-# ***<font color=#0099ff>\*not only ... but (also)</font>*** 
+# ***\*not only ... but (also)*** 
 
 
   
@@ -24019,7 +24019,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 一个灿烂的笑容不仅能使我们自己高兴，而且能使他人感到愉快。  （2010 湖北书面表达）  
 
 
-# ***<font color=#0099ff>\*not that</font>*** 
+# ***\*not that*** 
 
 
   
@@ -24032,7 +24032,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 她没有参加会议，倒不是因为忙。    
 
 
-# ***<font color=#0099ff>\*not to mention</font>*** 
+# ***\*not to mention*** 
 
 
   
@@ -24045,7 +24045,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 创业期间，你别想有一天的空闲时间，更别说乘飞机去度一个月的假了。    
 
 
-# ***<font color=#0099ff>\*not very</font>*** 
+# ***\*not very*** 
 
 
   
@@ -24063,7 +24063,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 我根本不想去那里。    
 
 
-# ***<font color=#0099ff>\*not yet</font>*** 
+# ***\*not yet*** 
 
 
   
@@ -24079,7 +24079,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 还没有。    
 
 
-# ***<font color=#0099ff>\*note down</font>*** 
+# ***\*note down*** 
 
 
   
@@ -24092,7 +24092,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 警察记下了我说的话。    
 
 
-# ***<font color=#0099ff>\*nothing better</font>*** 
+# ***\*nothing better*** 
 
 
   
@@ -24108,7 +24108,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 作为一名学生，没有什么比在同学面前被老师表扬更好的了。  （2015 湖南书面表达）  
 
 
-# ***<font color=#0099ff>\*nothing but / except</font>*** 
+# ***\*nothing but / except*** 
 
 
   
@@ -24127,7 +24127,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 别担心，这只不过是个玩笑。    
 
 
-# ***<font color=#0099ff>\*nothing like</font>*** 
+# ***\*nothing like*** 
 
 
   
@@ -24140,7 +24140,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 它看上去根本不像一匹马。    
 
 
-# ***<font color=#0099ff>\*now and then</font>*** 
+# ***\*now and then*** 
 
 
   
@@ -24153,7 +24153,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 时不时会有蛇爬到房子附近。  （人教⑧ – 3）  
 
 
-# ***<font color=#0099ff>\*now that</font>*** 
+# ***\*now that*** 
 
 
   
@@ -24169,7 +24169,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 既然有了第一次的造访，我希望以后能常来。  （外研② – 5）  
 
 
-# ***<font color=#0099ff>\*nowhere near</font>*** 
+# ***\*nowhere near*** 
 
 
   
@@ -24182,7 +24182,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 我们的预算远远不够。    
 
 
-# ***<font color=#0099ff>\*nursery rhyme</font>*** 
+# ***\*nursery rhyme*** 
 
 
   
@@ -24192,7 +24192,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 ### 1.**童谣**  
 
 
-# ***<font color=#0099ff>\*occur to sb</font>*** 
+# ***\*occur to sb*** 
 
 
   
@@ -24215,7 +24215,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 迈克尔从未想到过有一天他能成为班上的优等生。  （2013 湖南）  
 
 
-# ***<font color=#0099ff>\*of choice for</font>*** 
+# ***\*of choice for*** 
 
 
   
@@ -24228,7 +24228,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 这是治疗这种病的首选药。    
 
 
-# ***<font color=#0099ff>\*of course (not)</font>*** 
+# ***\*of course (not)*** 
 
 
   
@@ -24244,7 +24244,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 我当然知道。  （2011 全国）  
 
 
-# ***<font color=#0099ff>\*of use</font>*** 
+# ***\*of use*** 
 
 
   
@@ -24257,7 +24257,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 希望这些信息对你有用。  （译林④ – 2）  
 
 
-# ***<font color=#0099ff>\*of value</font>*** 
+# ***\*of value*** 
 
 
   
@@ -24271,7 +24271,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 体育运动很有益处，对那些每天大部分时间都在从事脑力劳动的人来说更是如此。    
 
 
-# ***<font color=#0099ff>\*of vital importance</font>*** 
+# ***\*of vital importance*** 
 
 
   
@@ -24281,7 +24281,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 ### 1.**至关重要**  
 
 
-# ***<font color=#0099ff>\*off (sb's) guard</font>*** 
+# ***\*off (sb's) guard*** 
 
 
   
@@ -24294,7 +24294,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 他趁我不备打了我。    
 
 
-# ***<font color=#0099ff>\*off the coast</font>*** 
+# ***\*off the coast*** 
 
 
   
@@ -24307,7 +24307,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 沿海有许多岛屿。    
 
 
-# ***<font color=#0099ff>\*office hours</font>*** 
+# ***\*office hours*** 
 
 
   
@@ -24317,7 +24317,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 ### 1.**办公时间；营业时间**  
 
 
-# ***<font color=#0099ff>\*oil painting</font>*** n
+# ***\*oil painting*** n
 
 
   
@@ -24327,7 +24327,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 ### 1.**油画**  
 
 
-# ***<font color=#0099ff>\*on (the) air</font>*** 
+# ***\*on (the) air*** 
 
 
   
@@ -24340,7 +24340,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 我们三分钟后开始广播。    
 
 
-# ***<font color=#0099ff>\*on (the) condition that</font>*** 
+# ***\*on (the) condition that*** 
 
 
   
@@ -24356,7 +24356,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 倘若获得奖学金，我会考虑出国学习。    
 
 
-# ***<font color=#0099ff>\*on / under no condition</font>*** 
+# ***\*on / under no condition*** 
 
 
   
@@ -24369,7 +24369,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 你绝不能告诉他们发生了什么事。    
 
 
-# ***<font color=#0099ff>\*on account of</font>*** 
+# ***\*on account of*** 
 
 
   
@@ -24382,7 +24382,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 她因病没有去学校。    
 
 
-# ***<font color=#0099ff>\*on average</font>*** 
+# ***\*on average*** 
 
 
   
@@ -24398,7 +24398,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 女性一般更长寿。  （2016 四川）  
 
 
-# ***<font color=#0099ff>\*on behalf of</font>*** 
+# ***\*on behalf of*** 
 
 
   
@@ -24419,7 +24419,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 别为我担心。    
 
 
-# ***<font color=#0099ff>\*on behalf of sb / on sb's behalf</font>*** 
+# ***\*on behalf of sb / on sb's behalf*** 
 
 
   
@@ -24440,7 +24440,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 别为我担心。    
 
 
-# ***<font color=#0099ff>\*on board</font>*** 
+# ***\*on board*** 
 
 
   
@@ -24453,7 +24453,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 你在船上会受到很好的照顾。  （2008 全国）  
 
 
-# ***<font color=#0099ff>\*on demand</font>*** 
+# ***\*on demand*** 
 
 
   
@@ -24463,7 +24463,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 ### 1.**[正式用语] 一经要求**  
 
 
-# ***<font color=#0099ff>\*on display</font>*** 
+# ***\*on display*** 
 
 
   
@@ -24476,7 +24476,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 简在一个柜台前停了下来，柜台上面展示着一些好看的领带。  （2009 广东）  
 
 
-# ***<font color=#0099ff>\*on duty</font>*** 
+# ***\*on duty*** 
 
 
   
@@ -24489,7 +24489,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 他上午8点上班，下午5点下班。    
 
 
-# ***<font color=#0099ff>\*on earth</font>*** 
+# ***\*on earth*** 
 
 
   
@@ -24511,7 +24511,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 你到底为什么要一部手机？  （2012 全国）  
 
 
-# ***<font color=#0099ff>\*on end</font>*** 
+# ***\*on end*** 
 
 
   
@@ -24524,7 +24524,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 他们持续争论了两个小时。    
 
 
-# ***<font color=#0099ff>\*on fire</font>*** 
+# ***\*on fire*** 
 
 
   
@@ -24540,7 +24540,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 我呆呆地站着，脸上火辣辣的，恨不能找个洞躲进去。  （2008 全国）  
 
 
-# ***<font color=#0099ff>\*on foot</font>*** 
+# ***\*on foot*** 
 
 
   
@@ -24550,7 +24550,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 ### 1.**步行**  
 
 
-# ***<font color=#0099ff>\*on guard</font>*** 
+# ***\*on guard*** 
 
 
   
@@ -24563,7 +24563,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 士兵整夜站岗。    
 
 
-# ***<font color=#0099ff>\*on hand</font>*** 
+# ***\*on hand*** 
 
 
   
@@ -24576,7 +24576,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 几位以前的教师在现场讲述过去的事情。  （2012 天津）  
 
 
-# ***<font color=#0099ff>\*on hold</font>*** 
+# ***\*on hold*** 
 
 
   
@@ -24589,7 +24589,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 虽然几周的时间也将无法解决钱的问题，但简不会中断自己的项目。  （2010 四川改）  
 
 
-# ***<font color=#0099ff>\*on occasion(s)</font>*** 
+# ***\*on occasion(s)*** 
 
 
   
@@ -24602,7 +24602,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 据说，有时拜伦借着月光在湖里游泳。  （2012 湖南改）  
 
 
-# ***<font color=#0099ff>\*on offer</font>*** 
+# ***\*on offer*** 
 
 
   
@@ -24618,7 +24618,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 来我们餐馆享受提供的特价菜吧。  （2008 江西改）  
 
 
-# ***<font color=#0099ff>\*on one's own</font>*** 
+# ***\*on one's own*** 
 
 
   
@@ -24634,7 +24634,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 是团队协作而不是自己独自工作使我的工作效率更高。  （2011 湖北书面表达）  
 
 
-# ***<font color=#0099ff>\*on one's side</font>*** 
+# ***\*on one's side*** 
 
 
   
@@ -24647,7 +24647,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 侧身而卧    
 
 
-# ***<font color=#0099ff>\*on one's way</font>*** 
+# ***\*on one's way*** 
 
 
   
@@ -24657,7 +24657,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 ### 1.**在途中**  
 
 
-# ***<font color=#0099ff>\*on principle</font>*** 
+# ***\*on principle*** 
 
 
   
@@ -24670,7 +24670,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 原则上，她从不向别人借钱。    
 
 
-# ***<font color=#0099ff>\*on purpose</font>*** 
+# ***\*on purpose*** 
 
 
   
@@ -24684,7 +24684,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 灰姑娘故意把自己的鞋落在楼梯上。  （ 2014 福建）  
 
 
-# ***<font color=#0099ff>\*on sale</font>*** 
+# ***\*on sale*** 
 
 
   
@@ -24702,7 +24702,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 书店要关闭了，许多书在廉价出售。    
 
 
-# ***<font color=#0099ff>\*on sb's mind</font>*** 
+# ***\*on sb's mind*** 
 
 
   
@@ -24715,7 +24715,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 他心事重重。    
 
 
-# ***<font color=#0099ff>\*on somebody's behalf</font>*** 
+# ***\*on somebody's behalf*** 
 
 
   
@@ -24725,7 +24725,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 ### 1.**代表……**  
 
 
-# ***<font color=#0099ff>\*on the coast</font>*** 
+# ***\*on the coast*** 
 
 
   
@@ -24738,7 +24738,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 巴塞罗那是一座西班牙的海滨城市。  （外研③ – 1）  
 
 
-# ***<font color=#0099ff>\*on the contrary</font>*** 
+# ***\*on the contrary*** 
 
 
   
@@ -24751,7 +24751,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 他以为自己的营销计划完美无缺，而事实恰恰相反，这个计划不仅不完美，还徒劳无功。  （人教③ – 3）  
 
 
-# ***<font color=#0099ff>\*on the dot</font>*** 
+# ***\*on the dot*** 
 
 
   
@@ -24761,7 +24761,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 ### 1.**[非正式用语] 准时地**  
 
 
-# ***<font color=#0099ff>\*on the edge of one's seat</font>*** 
+# ***\*on the edge of one's seat*** 
 
 
   
@@ -24771,7 +24771,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 ### 1.**极为激动**  
 
 
-# ***<font color=#0099ff>\*on the increase</font>*** 
+# ***\*on the increase*** 
 
 
   
@@ -24784,7 +24784,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 几年前，它还是濒临灭绝的物种，但现在它们的数量在不断增加。  （ 外研⑤ – 6）  
 
 
-# ***<font color=#0099ff>\*on the market</font>*** 
+# ***\*on the market*** 
 
 
   
@@ -24797,7 +24797,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 市面上有好几种新型号在售。  （译林⑦ – 1）  
 
 
-# ***<font color=#0099ff>\*on the occasion of</font>*** 
+# ***\*on the occasion of*** 
 
 
   
@@ -24811,7 +24811,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 在父亲去世的悲痛时刻我回到了家乡。  （2012浙江）  
 
 
-# ***<font color=#0099ff>\*on the one hand ... on the other hand ...</font>*** 
+# ***\*on the one hand ... on the other hand ...*** 
 
 
   
@@ -24824,7 +24824,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 一方面，计算机提高了人们的工作效率，另一方面，也引起了一些新的问题。    
 
 
-# ***<font color=#0099ff>\*on the one hand … on the other (hand)</font>*** 
+# ***\*on the one hand … on the other (hand)*** 
 
 
   
@@ -24837,7 +24837,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 一方面，计算机提高了人们的工作效率，另一方面，也引起了一些新的问题。    
 
 
-# ***<font color=#0099ff>\*on the other hand</font>*** 
+# ***\*on the other hand*** 
 
 
   
@@ -24850,7 +24850,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 一方面，计算机提高了人们的工作效率，另一方面，也引起了一些新的问题。    
 
 
-# ***<font color=#0099ff>\*on the phone</font>*** 
+# ***\*on the phone*** 
 
 
   
@@ -24863,7 +24863,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 我打不通汉纳的电话，她哥哥一直在打电话。  （2008 湖南改）  
 
 
-# ***<font color=#0099ff>\*on the point of</font>*** 
+# ***\*on the point of*** 
 
 
   
@@ -24876,7 +24876,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 她正要出去，电话铃响了。    
 
 
-# ***<font color=#0099ff>\*on the run</font>*** 
+# ***\*on the run*** 
 
 
   
@@ -24886,7 +24886,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 ### 1.**躲避；忙碌，不停地奔波**  
 
 
-# ***<font color=#0099ff>\*on the spot</font>*** 
+# ***\*on the spot*** 
 
 
   
@@ -24902,7 +24902,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 几分钟内警察就赶到了现场。    
 
 
-# ***<font color=#0099ff>\*on the way out</font>*** 
+# ***\*on the way out*** 
 
 
   
@@ -24912,7 +24912,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 ### 1.**即将被淘汰；即将过时**  
 
 
-# ***<font color=#0099ff>\*on the way to</font>*** 
+# ***\*on the way to*** 
 
 
   
@@ -24925,7 +24925,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 她在上班路上把表弄丢了。    
 
 
-# ***<font color=#0099ff>\*on the whole</font>*** 
+# ***\*on the whole*** 
 
 
   
@@ -24938,7 +24938,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 总的说来，地球变暖是一个引起极大关注的现象。  （人教⑥ – 4）  
 
 
-# ***<font color=#0099ff>\*on time</font>*** 
+# ***\*on time*** 
 
 
   
@@ -24951,7 +24951,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 你必须按时将作业交给老师。  （外研④ – 7）  
 
 
-# ***<font color=#0099ff>\*on top</font>*** 
+# ***\*on top*** 
 
 
   
@@ -24967,7 +24967,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 我想，谁会得第一呢？  （北师大④ – 11）  
 
 
-# ***<font color=#0099ff>\*on top of</font>*** 
+# ***\*on top of*** 
 
 
   
@@ -24983,7 +24983,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 他管了我一顿饭，除此之外，还给了我路费。    
 
 
-# ***<font color=#0099ff>\*on trial</font>*** 
+# ***\*on trial*** 
 
 
   
@@ -25000,7 +25000,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 那位职员在试用期中。    
 
 
-# ***<font color=#0099ff>\*on vacation</font>*** 
+# ***\*on vacation*** 
 
 
   
@@ -25013,7 +25013,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 一些人在度假的时候写明信片并寄给朋友。  （2012 湖南改）  
 
 
-# ***<font color=#0099ff>\*on view</font>*** 
+# ***\*on view*** 
 
 
   
@@ -25026,7 +25026,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 那幅画目前在美术馆展出。    
 
 
-# ***<font color=#0099ff>\*on watch</font>*** 
+# ***\*on watch*** 
 
 
   
@@ -25039,17 +25039,17 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 他正站在那儿值班。    
 
 
-# ***<font color=#0099ff>\*once again / once more</font>*** 
+# ***\*once again / once more*** 
 
 
   
 
-# ***<font color=#0099ff>\*once in a while</font>*** 
+# ***\*once in a while*** 
 
 
   
 
-# ***<font color=#0099ff>\*once more</font>*** 
+# ***\*once more*** 
 
 
   
@@ -25062,12 +25062,12 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 士兵们又发起了进攻，但又一次被打败了。    
 
 
-# ***<font color=#0099ff>\*once or twice</font>*** 
+# ***\*once or twice*** 
 
 
   
 
-# ***<font color=#0099ff>\*once upon a time</font>*** 
+# ***\*once upon a time*** 
 
 
   
@@ -25080,7 +25080,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 从前，有个农夫每天在田里辛勤劳作。  （2005 广东）  
 
 
-# ***<font color=#0099ff>\*one after another</font>*** 
+# ***\*one after another*** 
 
 
   
@@ -25090,7 +25090,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 ### 1.**陆续地；一个接一个地**  
 
 
-# ***<font color=#0099ff>\*one after another / the other</font>*** 
+# ***\*one after another / the other*** 
 
 
   
@@ -25103,7 +25103,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 人们一个接一个地站了起来，分享自己的故事。    
 
 
-# ***<font color=#0099ff>\*one another</font>*** 
+# ***\*one another*** 
 
 
   
@@ -25116,7 +25116,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 毕业典礼上他们互赠礼物。    
 
 
-# ***<font color=#0099ff>\*one by one</font>*** 
+# ***\*one by one*** 
 
 
   
@@ -25129,7 +25129,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 铃声响了，学生们鱼贯而出。    
 
 
-# ***<font color=#0099ff>\*one day</font>*** 
+# ***\*one day*** 
 
 
   
@@ -25142,7 +25142,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 给予适当的训练，这些青少年足球运动员有朝一日可望成为国际巨星。  （2009 江西）  
 
 
-# ***<font color=#0099ff>\*one moment … the next</font>*** 
+# ***\*one moment … the next*** 
 
 
   
@@ -25155,7 +25155,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 一会儿森林里寂静无声，过一会儿，空气中弥漫着紧张的气氛。  （2014 重庆）  
 
 
-# ***<font color=#0099ff>\*one thing ... another ...</font>*** 
+# ***\*one thing ... another ...*** 
 
 
   
@@ -25168,12 +25168,12 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 说是一回事，做又是另一回事。    
 
 
-# ***<font color=#0099ff>\*one's bread and butter</font>*** 
+# ***\*one's bread and butter*** 
 
 
   
 
-# ***<font color=#0099ff>\*open sb's eyes to sth</font>*** 
+# ***\*open sb's eyes to sth*** 
 
 
   
@@ -25183,7 +25183,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 ### 1.**使某人长见识 / 开眼界 / 认清 (事实)**  
 
 
-# ***<font color=#0099ff>\*open the floor</font>*** 
+# ***\*open the floor*** 
 
 
   
@@ -25193,7 +25193,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 ### 1.**自由发言**  
 
 
-# ***<font color=#0099ff>\*open up</font>*** 
+# ***\*open up*** 
 
 
   
@@ -25210,7 +25210,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 人们没有几个真正的朋友，他们需要向彼此敞开心扉。  （2015 全国改）  
 
 
-# ***<font color=#0099ff>\*opening hours</font>*** 
+# ***\*opening hours*** 
 
 
   
@@ -25223,7 +25223,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > 我们正常的营业时间是从上午10点到晚上7点。    
 
 
-# ***<font color=#0099ff>\*operating theatre</font>*** n
+# ***\*operating theatre*** n
 
 
   
@@ -25233,7 +25233,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 ### 1.**手术室**  
 
 
-# ***<font color=#0099ff>\*or else</font>*** 
+# ***\*or else*** 
 
 
   
@@ -25250,7 +25250,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 
 Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebody else's。  
 
-# ***<font color=#0099ff>\*or so</font>*** 
+# ***\*or so*** 
 
 
   
@@ -25263,7 +25263,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 在过去大约20年的时间里，我们的生活发生了巨大变化。    
 
 
-# ***<font color=#0099ff>\*or whatever</font>*** 
+# ***\*or whatever*** 
 
 
   
@@ -25276,7 +25276,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 我可以跟她分享我们的旅行经历，怎样照顾宠物或任何我们有共同之处的事情。    
 
 
-# ***<font color=#0099ff>\*other than</font>*** 
+# ***\*other than*** 
 
 
   
@@ -25286,7 +25286,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**除了……以外**  
 
 
-# ***<font color=#0099ff>\*ought to</font>*** aux v  重难点词汇
+# ***\*ought to*** aux v  重难点词汇
 英音 'ɔːttə     美音 'ɔːttə  
 
 | 词频 3 | 口语 3 | 书面 3 |  
@@ -25332,7 +25332,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 我儿子现在应该已经动身去日本了。    
 
 
-# ***<font color=#0099ff>\*out of</font>*** 
+# ***\*out of*** 
 
 
   
@@ -25383,7 +25383,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 用木头做个盒子    
 
 
-# ***<font color=#0099ff>\*out of action</font>*** 
+# ***\*out of action*** 
 
 
   
@@ -25393,7 +25393,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**失去作用；停止运转**  
 
 
-# ***<font color=#0099ff>\*out of breath</font>*** 
+# ***\*out of breath*** 
 
 
   
@@ -25406,7 +25406,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 到了塔顶他就上气不接下气了。    
 
 
-# ***<font color=#0099ff>\*out of business</font>*** 
+# ***\*out of business*** 
 
 
   
@@ -25419,7 +25419,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 一天，老板告诉我们公司倒闭了。    
 
 
-# ***<font color=#0099ff>\*out of control</font>*** 
+# ***\*out of control*** 
 
 
   
@@ -25432,7 +25432,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 火势已经失去了控制，大家都不敢进去。    
 
 
-# ***<font color=#0099ff>\*out of date</font>*** 
+# ***\*out of date*** 
 
 
   
@@ -25448,7 +25448,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 这本字典过时了：自从它出版以来，语言中又增加了许多词汇。  （2016 天津）  
 
 
-# ***<font color=#0099ff>\*out of debt</font>*** 
+# ***\*out of debt*** 
 
 
   
@@ -25458,7 +25458,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**不欠债**  
 
 
-# ***<font color=#0099ff>\*out of focus</font>*** 
+# ***\*out of focus*** 
 
 
   
@@ -25468,7 +25468,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**焦点未对准的；模糊不清的**  
 
 
-# ***<font color=#0099ff>\*out of habit</font>*** 
+# ***\*out of habit*** 
 
 
   
@@ -25481,7 +25481,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 我这么做仅仅是出于习惯。    
 
 
-# ***<font color=#0099ff>\*out of order</font>*** 
+# ***\*out of order*** 
 
 
   
@@ -25497,7 +25497,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 很抱歉，这部电话出故障了。  （人教⑧ – 3）  
 
 
-# ***<font color=#0099ff>\*out of place</font>*** 
+# ***\*out of place*** 
 
 
   
@@ -25513,7 +25513,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 夹在这些成功人士中间，我觉得自己格格不入。    
 
 
-# ***<font color=#0099ff>\*out of practice</font>*** 
+# ***\*out of practice*** 
 
 
   
@@ -25526,7 +25526,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 不练习就会生疏。    
 
 
-# ***<font color=#0099ff>\*out of print</font>*** 
+# ***\*out of print*** 
 
 
   
@@ -25536,7 +25536,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**绝版的**  
 
 
-# ***<font color=#0099ff>\*out of proportion to</font>*** 
+# ***\*out of proportion to*** 
 
 
   
@@ -25546,7 +25546,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**与…不成比例；和…不相称**  
 
 
-# ***<font color=#0099ff>\*out of question</font>*** 
+# ***\*out of question*** 
 
 
   
@@ -25556,7 +25556,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**毫无疑问**  
 
 
-# ***<font color=#0099ff>\*out of range (of)</font>*** 
+# ***\*out of range (of)*** 
 
 
   
@@ -25566,7 +25566,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**超出(…的) 范围：**  
 
 
-# ***<font color=#0099ff>\*out of shape</font>*** 
+# ***\*out of shape*** 
 
 
   
@@ -25582,7 +25582,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 我已经好几个月没锻炼了，身体真的不行了。    
 
 
-# ***<font color=#0099ff>\*out of sight</font>*** 
+# ***\*out of sight*** 
 
 
   
@@ -25592,7 +25592,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**看不见；在视野之外**  
 
 
-# ***<font color=#0099ff>\*out of the question</font>*** 
+# ***\*out of the question*** 
 
 
   
@@ -25602,7 +25602,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**不可能的**  
 
 
-# ***<font color=#0099ff>\*out of the way</font>*** 
+# ***\*out of the way*** 
 
 
   
@@ -25618,7 +25618,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 五者都可作“路”解，但含义有所不同。  
 
 
-# ***<font color=#0099ff>\*out of tune</font>*** 
+# ***\*out of tune*** 
 
 
   
@@ -25634,7 +25634,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 与时代格格不入    
 
 
-# ***<font color=#0099ff>\*out of work</font>*** 
+# ***\*out of work*** 
 
 
   
@@ -25647,7 +25647,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 我担心自己是否会丢掉工作。    
 
 
-# ***<font color=#0099ff>\*over and over (again)</font>*** 
+# ***\*over and over (again)*** 
 
 
   
@@ -25660,7 +25660,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 你知道，如果反反复复地做同样的事，动作就会变得自如起来。  （人教⑥ – 3）  
 
 
-# ***<font color=#0099ff>\*over and over again</font>*** 
+# ***\*over and over again*** 
 
 
   
@@ -25673,7 +25673,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 你知道，如果反反复复地做同样的事，动作就会变得自如起来。  （人教⑥ – 3）  
 
 
-# ***<font color=#0099ff>\*over the years</font>*** 
+# ***\*over the years*** 
 
 
   
@@ -25683,7 +25683,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**数年间**  
 
 
-# ***<font color=#0099ff>\*over there</font>*** 
+# ***\*over there*** 
 
 
   
@@ -25696,7 +25696,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 站在那边的那个人是谁？    
 
 
-# ***<font color=#0099ff>\*owing to</font>*** 
+# ***\*owing to*** 
 英音 'əʊɪŋ tu     美音 'oʊɪŋ tu  
 
 | 词频 2 |  
@@ -25709,7 +25709,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 由于天气恶劣，航班延误了好几个小时。  （2012 上海）  
 
 
-# ***<font color=#0099ff>\*pack (sth) up</font>*** 
+# ***\*pack (sth) up*** 
 
 
   
@@ -25722,7 +25722,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 有一次，我和一个朋友包好一些花生酱和三明治去郊游。  （2009 浙江）  
 
 
-# ***<font color=#0099ff>\*pack up</font>*** 
+# ***\*pack up*** 
 
 
   
@@ -25735,7 +25735,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 有一次，我和一个朋友包好一些花生酱和三明治去郊游。  （2009 浙江）  
 
 
-# ***<font color=#0099ff>\*package tour</font>*** 
+# ***\*package tour*** 
 
 
   
@@ -25745,7 +25745,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**包价旅游**  
 
 
-# ***<font color=#0099ff>\*parking lot</font>*** 
+# ***\*parking lot*** 
 
 
   
@@ -25755,7 +25755,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**停车场**  
 
 
-# ***<font color=#0099ff>\*part with</font>*** 
+# ***\*part with*** 
 
 
   
@@ -25768,7 +25768,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 这部小说引人入胜，我简直爱不释手。    
 
 
-# ***<font color=#0099ff>\*pass ... off as ...</font>*** 
+# ***\*pass ... off as ...*** 
 
 
   
@@ -25781,7 +25781,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 他冒充警卫逃走了。    
 
 
-# ***<font color=#0099ff>\*pass around / round</font>*** 
+# ***\*pass around / round*** 
 
 
   
@@ -25794,7 +25794,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 请把小甜饼分发给大家，好吗？    
 
 
-# ***<font color=#0099ff>\*pass away</font>*** 
+# ***\*pass away*** 
 
 
   
@@ -25807,7 +25807,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 他去年因癌症不幸去世。  （2015 江苏）  
 
 
-# ***<font color=#0099ff>\*pass by</font>*** 
+# ***\*pass by*** 
 
 
   
@@ -25823,7 +25823,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 3小时过去了，我越来越不耐烦。  （2009 重庆）  
 
 
-# ***<font color=#0099ff>\*pass down</font>*** 
+# ***\*pass down*** 
 
 
   
@@ -25836,7 +25836,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 她长大后想成为一名体操教练，把她所学的传授给其他孩子。  （2013 北京）  
 
 
-# ***<font color=#0099ff>\*pass off as</font>*** 
+# ***\*pass off as*** 
 
 
   
@@ -25849,7 +25849,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 他冒充警卫逃走了。    
 
 
-# ***<font color=#0099ff>\*pass on</font>*** 
+# ***\*pass on*** 
 
 
   
@@ -25862,7 +25862,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 请将这个消息传达给尽可能多的人。    
 
 
-# ***<font color=#0099ff>\*pass out</font>*** 
+# ***\*pass out*** 
 
 
   
@@ -25878,7 +25878,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 看到那么多血，我差点晕了过去。    
 
 
-# ***<font color=#0099ff>\*pass something on (to somebody)</font>*** 
+# ***\*pass something on (to somebody)*** 
 
 
   
@@ -25888,7 +25888,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**转交，传给，递给**  
 
 
-# ***<font color=#0099ff>\*pass through</font>*** 
+# ***\*pass through*** 
 
 
   
@@ -25898,7 +25898,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**穿过；通过**  
 
 
-# ***<font color=#0099ff>\*pay a visit to</font>*** 
+# ***\*pay a visit to*** 
 
 
   
@@ -25911,7 +25911,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 你若有空，参观一下当地的这家博物馆。    
 
 
-# ***<font color=#0099ff>\*pay attention to</font>*** 
+# ***\*pay attention to*** 
 
 
   
@@ -25924,7 +25924,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 在公共汽车上，你常会看到有人更专注于看自己的手机。  （2013 安徽改）  
 
 
-# ***<font color=#0099ff>\*pay back</font>*** 
+# ***\*pay back*** 
 
 
   
@@ -25945,7 +25945,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 以其人之道还治其人之身。    
 
 
-# ***<font color=#0099ff>\*pay down</font>*** 
+# ***\*pay down*** 
 
 
   
@@ -25955,7 +25955,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**先支付 (部分货款) 作为定金**  
 
 
-# ***<font color=#0099ff>\*pay lip service (to)</font>*** 
+# ***\*pay lip service (to)*** 
 
 
   
@@ -25968,7 +25968,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 我们应该仅仅只是说说而已还是应该采取实际行动去保护环境呢？  （2013 江苏改）  
 
 
-# ***<font color=#0099ff>\*pay off</font>*** 
+# ***\*pay off*** 
 
 
   
@@ -25991,7 +25991,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 如果这家工厂关闭，会有超过1000名工人被解雇。    
 
 
-# ***<font color=#0099ff>\*pay off one's debts</font>*** 
+# ***\*pay off one's debts*** 
 
 
   
@@ -26001,7 +26001,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**还清债务**  
 
 
-# ***<font color=#0099ff>\*pay rise</font>*** 
+# ***\*pay rise*** 
 
 
   
@@ -26014,7 +26014,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 只有努力工作你才能指望得到加薪。    
 
 
-# ***<font color=#0099ff>\*pay up</font>*** 
+# ***\*pay up*** 
 
 
   
@@ -26024,7 +26024,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**(尤指不情愿或延迟) 付清欠款；偿还欠款**  
 
 
-# ***<font color=#0099ff>\*peace pipe</font>*** n
+# ***\*peace pipe*** n
 
 
   
@@ -26034,7 +26034,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**和平烟斗（北美印第安人某些部落于庆典、集会等场合使用的长管烟斗，为和平的象征）**  
 
 
-# ***<font color=#0099ff>\*personnel department</font>*** n
+# ***\*personnel department*** n
 
 
   
@@ -26047,7 +26047,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 我收到人事主管的一封信。  （2011 全国）  
 
 
-# ***<font color=#0099ff>\*pick on</font>*** 
+# ***\*pick on*** 
 
 
   
@@ -26063,7 +26063,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 为什么拿我的家庭说事？  （2011 江西）  
 
 
-# ***<font color=#0099ff>\*pick out</font>*** 
+# ***\*pick out*** 
 
 
   
@@ -26087,7 +26087,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 有实验证明，人们可以辨认出某种特定的气味。  （2008 北京）  
 
 
-# ***<font color=#0099ff>\*pick sb's pocket</font>*** 
+# ***\*pick sb's pocket*** 
 
 
   
@@ -26097,7 +26097,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**扒窃；掏包**  
 
 
-# ***<font color=#0099ff>\*pick up</font>*** 
+# ***\*pick up*** 
 
 
   
@@ -26178,7 +26178,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 风愈刮愈大，天空中乌云密布。    
 
 
-# ***<font color=#0099ff>\*pile up</font>*** 
+# ***\*pile up*** 
 
 
   
@@ -26191,7 +26191,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 在他离开期间，工作堆了一堆。    
 
 
-# ***<font color=#0099ff>\*pin (on)</font>*** vt
+# ***\*pin (on)*** vt
 
 
 | 词频 1 |  
@@ -26201,7 +26201,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**把责任加在（某人）身上**  
 
 
-# ***<font color=#0099ff>\*play / act a part (in)</font>*** 
+# ***\*play / act a part (in)*** 
 
 
   
@@ -26214,7 +26214,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 如今，互联网在我们的生活中起着重要作用。    
 
 
-# ***<font color=#0099ff>\*play a joke / jokes on</font>*** 
+# ***\*play a joke / jokes on*** 
 
 
   
@@ -26227,7 +26227,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 他们决定把父亲的眼镜藏起来和他开个玩笑。    
 
 
-# ***<font color=#0099ff>\*play a part</font>*** 
+# ***\*play a part*** 
 
 
   
@@ -26240,7 +26240,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 如今，互联网在我们的生活中起着重要作用。    
 
 
-# ***<font color=#0099ff>\*play a part (in)</font>*** 
+# ***\*play a part (in)*** 
 
 
   
@@ -26250,7 +26250,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**扮演一个角色；参与**  
 
 
-# ***<font color=#0099ff>\*play a trick on</font>*** 
+# ***\*play a trick on*** 
 
 
   
@@ -26263,7 +26263,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 如果邻居们不给糖果，孩子们就可以捉弄他们。  （人教③ – 1）  
 
 
-# ***<font color=#0099ff>\*play a trick on sb.</font>*** 
+# ***\*play a trick on sb.*** 
 
 
   
@@ -26276,7 +26276,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 如果邻居们不给糖果，孩子们就可以捉弄他们。  （人教③ – 1）  
 
 
-# ***<font color=#0099ff>\*play a(n) … role in</font>*** 
+# ***\*play a(n) … role in*** 
 
 
   
@@ -26289,7 +26289,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 农业在该国经济中起着重要的作用。    
 
 
-# ***<font color=#0099ff>\*play an important part in</font>*** 
+# ***\*play an important part in*** 
 
 
   
@@ -26302,7 +26302,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 如今，互联网在我们的生活中起着重要作用。    
 
 
-# ***<font color=#0099ff>\*play around</font>*** 
+# ***\*play around*** 
 
 
   
@@ -26312,7 +26312,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**四处游戏**  
 
 
-# ***<font color=#0099ff>\*play jokes on</font>*** 
+# ***\*play jokes on*** 
 
 
   
@@ -26322,7 +26322,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**戏弄**  
 
 
-# ***<font color=#0099ff>\*play the role of</font>*** 
+# ***\*play the role of*** 
 
 
   
@@ -26335,7 +26335,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 他在剧中扮演一位成功的律师。    
 
 
-# ***<font color=#0099ff>\*play tricks on</font>*** 
+# ***\*play tricks on*** 
 
 
   
@@ -26348,7 +26348,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 如果邻居们不给糖果，孩子们就可以捉弄他们。  （人教③ – 1）  
 
 
-# ***<font color=#0099ff>\*play with</font>*** 
+# ***\*play with*** 
 
 
   
@@ -26361,7 +26361,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 别老是摆弄食物！    
 
 
-# ***<font color=#0099ff>\*play with fire</font>*** 
+# ***\*play with fire*** 
 
 
   
@@ -26371,7 +26371,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ### 1.**玩火**  
 
 
-# ***<font color=#0099ff>\*plenty of</font>*** 
+# ***\*plenty of*** 
 
 
   
@@ -26388,7 +26388,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 
 Notes: plenty of 可接可数或不可数名词，只用于肯定句。  
 
-# ***<font color=#0099ff>\*plug in</font>*** 
+# ***\*plug in*** 
 
 
   
@@ -26398,7 +26398,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**(使) 插上插头以接通电源**  
 
 
-# ***<font color=#0099ff>\*plug one's ears</font>*** 
+# ***\*plug one's ears*** 
 
 
   
@@ -26408,7 +26408,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**塞住耳朵**  
 
 
-# ***<font color=#0099ff>\*point of view</font>*** n
+# ***\*point of view*** n
 
 
   
@@ -26421,7 +26421,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 你就不能从我的角度看待事物吗？  （2013 重庆）  
 
 
-# ***<font color=#0099ff>\*point out</font>*** 
+# ***\*point out*** 
 
 
   
@@ -26439,7 +26439,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 他指出这条路冬天不安全。    
 
 
-# ***<font color=#0099ff>\*power boating</font>*** n
+# ***\*power boating*** n
 
 
   
@@ -26449,7 +26449,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**（运动项目）汽艇，摩托艇**  
 
 
-# ***<font color=#0099ff>\*pray for</font>*** 
+# ***\*pray for*** 
 
 
   
@@ -26462,7 +26462,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 祈求和平    
 
 
-# ***<font color=#0099ff>\*press on</font>*** 
+# ***\*press on*** 
 
 
   
@@ -26475,7 +26475,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 他继续前进，最终冲过了终点线。    
 
 
-# ***<font color=#0099ff>\*pressure point</font>*** n
+# ***\*pressure point*** n
 
 
   
@@ -26485,7 +26485,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**压觉点，止血点**  
 
 
-# ***<font color=#0099ff>\*pretend to do</font>*** 
+# ***\*pretend to do*** 
 
 
   
@@ -26501,7 +26501,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 要是我假装认识你，你别觉得奇怪。    
 
 
-# ***<font color=#0099ff>\*prevent ... from</font>*** 
+# ***\*prevent ... from*** 
 
 
   
@@ -26517,7 +26517,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 污染使人看不到在过去很容易看到的天空中的物体。  （2013 天津改）  
 
 
-# ***<font color=#0099ff>\*previous to</font>*** 
+# ***\*previous to*** 
 
 
   
@@ -26530,7 +26530,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 在这之前，科学实验没有表明在使用手机和患癌症之间存在明确的关联。  （译林⑦ – 1）  
 
 
-# ***<font color=#0099ff>\*print off / out</font>*** 
+# ***\*print off / out*** 
 
 
   
@@ -26543,7 +26543,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 你可以使用网络打印机把数据打印出来。    
 
 
-# ***<font color=#0099ff>\*protect ... from</font>*** 
+# ***\*protect ... from*** 
 
 
   
@@ -26559,7 +26559,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 必须采取措施以保护环境免受污染。    
 
 
-# ***<font color=#0099ff>\*provide for</font>*** 
+# ***\*provide for*** 
 
 
   
@@ -26580,7 +26580,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 三者都有“供给、提供”的意思，但用法不同。  
 
 
-# ***<font color=#0099ff>\*provided that</font>*** 
+# ***\*provided that*** 
 
 
   
@@ -26593,7 +26593,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 要是我们5点结束，我就去打网球。    
 
 
-# ***<font color=#0099ff>\*public relations</font>*** 
+# ***\*public relations*** 
 
 
   
@@ -26603,7 +26603,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**公共关系**  
 
 
-# ***<font color=#0099ff>\*pull away</font>*** 
+# ***\*pull away*** 
 
 
   
@@ -26616,7 +26616,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 交通灯变绿，我开车离开。    
 
 
-# ***<font color=#0099ff>\*pull down</font>*** 
+# ***\*pull down*** 
 
 
   
@@ -26632,7 +26632,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 考虑到安全因素，那座旧楼被拆毁了。    
 
 
-# ***<font color=#0099ff>\*pull faces</font>*** 
+# ***\*pull faces*** 
 
 
   
@@ -26645,7 +26645,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 老师转过身去的时候，孩子们互相做鬼脸。    
 
 
-# ***<font color=#0099ff>\*pull in</font>*** 
+# ***\*pull in*** 
 
 
   
@@ -26655,7 +26655,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**(列车等) 进站；(汽车等) 靠边停下**  
 
 
-# ***<font color=#0099ff>\*pull off</font>*** 
+# ***\*pull off*** 
 
 
   
@@ -26665,7 +26665,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**把…驶离大路；成功完成**  
 
 
-# ***<font color=#0099ff>\*pull on</font>*** 
+# ***\*pull on*** 
 
 
   
@@ -26678,7 +26678,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 外出时戴上手套。    
 
 
-# ***<font color=#0099ff>\*pull one's weight</font>*** 
+# ***\*pull one's weight*** 
 
 
   
@@ -26688,7 +26688,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**做好分内事，尽责**  
 
 
-# ***<font color=#0099ff>\*pull out</font>*** 
+# ***\*pull out*** 
 
 
   
@@ -26713,7 +26713,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 大部分军队已撤离。    
 
 
-# ***<font color=#0099ff>\*pull over</font>*** 
+# ***\*pull over*** 
 
 
   
@@ -26723,7 +26723,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**(使) 停靠在路边**  
 
 
-# ***<font color=#0099ff>\*pull through</font>*** 
+# ***\*pull through*** 
 
 
   
@@ -26736,7 +26736,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 医生说我无法康复了。  （北师大① – 2）  
 
 
-# ***<font color=#0099ff>\*pull together</font>*** 
+# ***\*pull together*** 
 
 
   
@@ -26746,7 +26746,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**组合；整顿；同心协力**  
 
 
-# ***<font color=#0099ff>\*pull up</font>*** 
+# ***\*pull up*** 
 
 
   
@@ -26759,7 +26759,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 一辆车停在我后面。    
 
 
-# ***<font color=#0099ff>\*push ahead with</font>*** 
+# ***\*push ahead with*** 
 
 
   
@@ -26769,7 +26769,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**义无反顾地进行，努力推进**  
 
 
-# ***<font color=#0099ff>\*push aside</font>*** 
+# ***\*push aside*** 
 
 
   
@@ -26785,7 +26785,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 她抛开愤怒，强迫自己专心工作。    
 
 
-# ***<font color=#0099ff>\*push on</font>*** 
+# ***\*push on*** 
 
 
   
@@ -26798,7 +26798,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 咱们继续走吧，天快黑了。    
 
 
-# ***<font color=#0099ff>\*push over</font>*** 
+# ***\*push over*** 
 
 
   
@@ -26811,7 +26811,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 这棵大树被风刮倒了。    
 
 
-# ***<font color=#0099ff>\*pushing up daisies</font>*** 
+# ***\*pushing up daisies*** 
 
 
   
@@ -26821,7 +26821,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**（俚）死**  
 
 
-# ***<font color=#0099ff>\*put ... in action</font>*** 
+# ***\*put ... in action*** 
 
 
   
@@ -26831,7 +26831,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**使…行动起来；使…开始工作；使…起作用**  
 
 
-# ***<font color=#0099ff>\*put ... into ...</font>*** 
+# ***\*put ... into ...*** 
 
 
   
@@ -26844,7 +26844,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 世上无难事，只怕有心人。    
 
 
-# ***<font color=#0099ff>\*put ... into practice</font>*** 
+# ***\*put ... into practice*** 
 
 
   
@@ -26857,7 +26857,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 她在自己家里已经能实践很多自己学到的东西。  （2018 全国）  
 
 
-# ***<font color=#0099ff>\*put ... into prison</font>*** 
+# ***\*put ... into prison*** 
 
 
   
@@ -26870,7 +26870,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 他们把我关进监狱，但我最终被证明是清白的。  （北师大③ – 3）  
 
 
-# ***<font color=#0099ff>\*put / set / turn one's mind to / set one's mind on</font>*** 
+# ***\*put / set / turn one's mind to / set one's mind on*** 
 
 
   
@@ -26883,7 +26883,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 如果她专心致志，本可以成为一名杰出的钢琴家。    
 
 
-# ***<font color=#0099ff>\*put a spell on</font>*** 
+# ***\*put a spell on*** 
 
 
   
@@ -26893,7 +26893,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**用咒符镇住**  
 
 
-# ***<font color=#0099ff>\*put aside</font>*** 
+# ***\*put aside*** 
 
 
   
@@ -26914,7 +26914,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 他们每月都存些钱供退休后用。    
 
 
-# ***<font color=#0099ff>\*put away</font>*** 
+# ***\*put away*** 
 
 
   
@@ -26937,7 +26937,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 别再担心了，好好享受人生吧！    
 
 
-# ***<font color=#0099ff>\*put back</font>*** 
+# ***\*put back*** 
 
 
   
@@ -26955,7 +26955,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 由于天气恶劣，起航推迟了12个小时。    
 
 
-# ***<font color=#0099ff>\*put down</font>*** 
+# ***\*put down*** 
 
 
   
@@ -26978,7 +26978,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 3.*低义频：* **付 (订金)；批评**  
 
 
-# ***<font color=#0099ff>\*put forward</font>*** 
+# ***\*put forward*** 
 
 
   
@@ -26994,7 +26994,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 谁提出了黑洞理论？  （人教⑤ – 1）  
 
 
-# ***<font color=#0099ff>\*put in</font>*** 
+# ***\*put in*** 
 
 
   
@@ -27023,7 +27023,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 她种了15株西红柿和5垅各色蔬菜。  （2011 全国）  
 
 
-# ***<font color=#0099ff>\*put into</font>*** 
+# ***\*put into*** 
 
 
   
@@ -27043,7 +27043,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 把这个句子译成英语。    
 
 
-# ***<font color=#0099ff>\*put off</font>*** 
+# ***\*put off*** 
 
 
   
@@ -27071,7 +27071,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 别因为失败你就不再进一步努力了。    
 
 
-# ***<font color=#0099ff>\*put on</font>*** 
+# ***\*put on*** 
 
 
   
@@ -27120,7 +27120,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 他把自己的失败归咎于我。    
 
 
-# ***<font color=#0099ff>\*put on weight</font>*** 
+# ***\*put on weight*** 
 
 
   
@@ -27130,7 +27130,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**增加体重**  
 
 
-# ***<font color=#0099ff>\*put one's foot in one's mouth</font>*** 
+# ***\*put one's foot in one's mouth*** 
 
 
   
@@ -27140,7 +27140,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**犯使人难堪的错误；说错话**  
 
 
-# ***<font color=#0099ff>\*put one's hands on</font>*** 
+# ***\*put one's hands on*** 
 
 
   
@@ -27150,7 +27150,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**找到**  
 
 
-# ***<font color=#0099ff>\*put out</font>*** 
+# ***\*put out*** 
 
 
   
@@ -27189,7 +27189,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 二者都和“熄灭”有关。  
 
 
-# ***<font color=#0099ff>\*put sb at (one's) ease</font>*** 
+# ***\*put sb at (one's) ease*** 
 
 
   
@@ -27202,7 +27202,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 起初他有些紧张，但是她的热情欢迎很快使他放松了下来。    
 
 
-# ***<font color=#0099ff>\*put sth into operation</font>*** 
+# ***\*put sth into operation*** 
 
 
   
@@ -27215,7 +27215,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 现在应该实施我们的计划了。    
 
 
-# ***<font color=#0099ff>\*put sth to use</font>*** 
+# ***\*put sth to use*** 
 
 
   
@@ -27228,7 +27228,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 到了运用他所学到的窍门的时候了。  （2015 北京）  
 
 
-# ***<font color=#0099ff>\*put through</font>*** 
+# ***\*put through*** 
 
 
   
@@ -27251,7 +27251,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 请帮我接通经理的电话，好吗？    
 
 
-# ***<font color=#0099ff>\*put together</font>*** 
+# ***\*put together*** 
 
 
   
@@ -27264,7 +27264,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我们花了一上午的时间整理出这份建议。    
 
 
-# ***<font color=#0099ff>\*put up</font>*** 
+# ***\*put up*** 
 
 
   
@@ -27298,7 +27298,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我希望肯尼能让我留宿几天。    
 
 
-# ***<font color=#0099ff>\*put up with</font>*** 
+# ***\*put up with*** 
 
 
   
@@ -27314,7 +27314,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我能容忍很多事情，但绝不容忍小偷小摸的人。    
 
 
-# ***<font color=#0099ff>\*put … to shame</font>*** 
+# ***\*put … to shame*** 
 
 
   
@@ -27328,7 +27328,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 他的厨艺让我自愧不如。    
 
 
-# ***<font color=#0099ff>\*quantities of</font>*** 
+# ***\*quantities of*** 
 
 
   
@@ -27338,7 +27338,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**大量的**  
 
 
-# ***<font color=#0099ff>\*queue up</font>*** 
+# ***\*queue up*** 
 
 
   
@@ -27348,7 +27348,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**排队等候**  
 
 
-# ***<font color=#0099ff>\*quite a little</font>*** 
+# ***\*quite a little*** 
 
 
   
@@ -27358,7 +27358,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**相当多**  
 
 
-# ***<font color=#0099ff>\*rain cats and dogs</font>*** 
+# ***\*rain cats and dogs*** 
 
 
   
@@ -27368,7 +27368,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**下倾盆大雨**  
 
 
-# ***<font color=#0099ff>\*raise money</font>*** 
+# ***\*raise money*** 
 
 
   
@@ -27381,7 +27381,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 上周，我们学校举办了一个大型义卖会为残疾人筹款。    
 
 
-# ***<font color=#0099ff>\*rather than</font>*** 
+# ***\*rather than*** 
 
 
   
@@ -27397,7 +27397,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 当播放古典音乐而不是流行音乐时，用餐者们消费了更多。  （2018 江苏）  
 
 
-# ***<font color=#0099ff>\*raw material</font>*** n
+# ***\*raw material*** n
 
 
   
@@ -27410,7 +27410,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 这个工厂靠的是原料便宜，不涨价。    
 
 
-# ***<font color=#0099ff>\*reach out</font>*** 
+# ***\*reach out*** 
 
 
   
@@ -27425,7 +27425,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 当你需要帮助时，倾听那些关心你的人的意见。  （2012 全国）  
 
 
-# ***<font color=#0099ff>\*read out</font>*** 
+# ***\*read out*** 
 
 
   
@@ -27435,7 +27435,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**大声读出；宣读**  
 
 
-# ***<font color=#0099ff>\*refer (...) to</font>*** 
+# ***\*refer (...) to*** 
 
 
   
@@ -27474,7 +27474,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我同事说由于情况非同寻常，他会把这个问题交给他的编辑处理。    
 
 
-# ***<font color=#0099ff>\*refer (to)</font>*** 
+# ***\*refer (to)*** 
 
 
   
@@ -27487,7 +27487,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 商业这个词也指提供商品和服务的组织。  （2013 全国）  
 
 
-# ***<font color=#0099ff>\*refer to</font>*** 
+# ***\*refer to*** 
 
 
   
@@ -27503,7 +27503,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 作英语演讲时，参赛选手不得看讲稿。    
 
 
-# ***<font color=#0099ff>\*refer to ... as ...</font>*** 
+# ***\*refer to ... as ...*** 
 
 
   
@@ -27513,7 +27513,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**称……为……**  
 
 
-# ***<font color=#0099ff>\*regard as</font>*** 
+# ***\*regard as*** 
 
 
   
@@ -27523,7 +27523,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**把……视作……**  
 
 
-# ***<font color=#0099ff>\*regardless of</font>*** 
+# ***\*regardless of*** 
 
 
   
@@ -27536,7 +27536,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 不管社会地位或年龄如何，没人有权当街吐痰。  （人教⑧ – 5）  
 
 
-# ***<font color=#0099ff>\*relate (to)</font>*** 
+# ***\*relate (to)*** 
 
 
   
@@ -27549,7 +27549,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 这篇报告试图证明犯罪的增加与失业人数的增加有关。    
 
 
-# ***<font color=#0099ff>\*related to</font>*** 
+# ***\*related to*** 
 
 
   
@@ -27562,7 +27562,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 疲劳和司机的反应时间密切相关。    
 
 
-# ***<font color=#0099ff>\*rely on</font>*** 
+# ***\*rely on*** 
 
 
   
@@ -27590,7 +27590,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我信任大卫，他一定会为我保密。    
 
 
-# ***<font color=#0099ff>\*remind sb of sb/sth</font>*** 
+# ***\*remind sb of sb/sth*** 
 
 
   
@@ -27600,7 +27600,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**使某人想起（类似的人或物）**  
 
 
-# ***<font color=#0099ff>\*remind sb. of sth.</font>*** 
+# ***\*remind sb. of sth.*** 
 
 
   
@@ -27613,7 +27613,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 比尔使他想起多年前他们初识的那一天。    
 
 
-# ***<font color=#0099ff>\*remind somebody of</font>*** 
+# ***\*remind somebody of*** 
 
 
   
@@ -27626,7 +27626,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 比尔使他想起多年前他们初识的那一天。    
 
 
-# ***<font color=#0099ff>\*remind … of …</font>*** 
+# ***\*remind … of …*** 
 
 
   
@@ -27645,7 +27645,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > ——难怪他让我觉得他那么像简呢。    
 
 
-# ***<font color=#0099ff>\*remote control</font>*** 
+# ***\*remote control*** 
 
 
   
@@ -27655,7 +27655,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**遥控**  
 
 
-# ***<font color=#0099ff>\*replace ... with / by</font>*** 
+# ***\*replace ... with / by*** 
 
 
   
@@ -27668,7 +27668,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 他们用昂贵的新跑车替代了钟爱的旧车。  （2015 浙江）  
 
 
-# ***<font color=#0099ff>\*result from</font>*** 
+# ***\*result from*** 
 
 
   
@@ -27681,7 +27681,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 人类的发展引起了污染和其他严重的问题。    
 
 
-# ***<font color=#0099ff>\*result in</font>*** 
+# ***\*result in*** 
 
 
   
@@ -27694,7 +27694,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我认识到叫嚣和威胁惩罚会导致祸端。  （2014 湖北）  
 
 
-# ***<font color=#0099ff>\*return to</font>*** 
+# ***\*return to*** 
 
 
   
@@ -27708,7 +27708,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 即使经过治疗，他们也可能无法恢复正常。  （北师大⑦-21）  
 
 
-# ***<font color=#0099ff>\*rhythm and blues</font>*** n
+# ***\*rhythm and blues*** n
 
 
   
@@ -27718,7 +27718,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**节奏布鲁斯，节奏蓝调**  
 
 
-# ***<font color=#0099ff>\*rid ... of</font>*** 
+# ***\*rid ... of*** 
 
 
   
@@ -27734,7 +27734,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 还清债务    
 
 
-# ***<font color=#0099ff>\*rid sb / sth of sth</font>*** 
+# ***\*rid sb / sth of sth*** 
 
 
   
@@ -27750,7 +27750,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 还清债务    
 
 
-# ***<font color=#0099ff>\*right away</font>*** 
+# ***\*right away*** 
 
 
   
@@ -27763,7 +27763,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 设想一下你家开始摇晃了，你必须立刻离开。  （人教① – 4）  
 
 
-# ***<font color=#0099ff>\*right now</font>*** 
+# ***\*right now*** 
 
 
   
@@ -27776,7 +27776,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我还是现在就把电脑屏幕擦干净吧。    
 
 
-# ***<font color=#0099ff>\*ring back</font>*** 
+# ***\*ring back*** 
 
 
   
@@ -27789,7 +27789,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我过一会儿再回电话好吗？  （人教⑧ – 3）  
 
 
-# ***<font color=#0099ff>\*ring off</font>*** 
+# ***\*ring off*** 
 
 
   
@@ -27799,7 +27799,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**挂断电话**  
 
 
-# ***<font color=#0099ff>\*ring up</font>*** 
+# ***\*ring up*** 
 
 
   
@@ -27812,7 +27812,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我会再打电话给他。  （人教⑧ – 3）  
 
 
-# ***<font color=#0099ff>\*rip off</font>*** 
+# ***\*rip off*** 
 
 
   
@@ -27822,7 +27822,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**敲竹杠；敲诈**  
 
 
-# ***<font color=#0099ff>\*rise to one's feet</font>*** 
+# ***\*rise to one's feet*** 
 
 
   
@@ -27835,7 +27835,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 她迅速地站了起来。  （人教②–2）  
 
 
-# ***<font color=#0099ff>\*rise up against</font>*** 
+# ***\*rise up against*** 
 
 
   
@@ -27845,7 +27845,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**起义，反抗**  
 
 
-# ***<font color=#0099ff>\*rob sb of sth</font>*** 
+# ***\*rob sb of sth*** 
 
 
   
@@ -27858,7 +27858,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 那个年轻人抢走了她的包。    
 
 
-# ***<font color=#0099ff>\*rock and roll</font>*** 
+# ***\*rock and roll*** 
 英音 rɒk ənd rəʊl     美音 rɑːk ənd roʊl  
 
 | 词频 1 |  
@@ -27868,7 +27868,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.*高义频：* **(rock-and-roll) 摇滚乐**  
 
 
-# ***<font color=#0099ff>\*roll over</font>*** 
+# ***\*roll over*** 
 
 
   
@@ -27878,7 +27878,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**翻身；打滚**  
 
 
-# ***<font color=#0099ff>\*roll up</font>*** 
+# ***\*roll up*** 
 
 
   
@@ -27891,7 +27891,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 他卷起地图。    
 
 
-# ***<font color=#0099ff>\*roller coaster</font>*** n
+# ***\*roller coaster*** n
 英音 'rəulə 'kəʊstə     美音 'roulə 'koʊstə  
 
 | 词频 1 |  
@@ -27901,7 +27901,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.*高义频：* **过山车**  
 
 
-# ***<font color=#0099ff>\*rope off</font>*** 
+# ***\*rope off*** 
 
 
   
@@ -27911,7 +27911,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**用绳围起（隔开）**  
 
 
-# ***<font color=#0099ff>\*rule out</font>*** 
+# ***\*rule out*** 
 
 
   
@@ -27924,7 +27924,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我们不能排除他最终会来的可能性。    
 
 
-# ***<font color=#0099ff>\*run / take a risk</font>*** 
+# ***\*run / take a risk*** 
 
 
   
@@ -27937,7 +27937,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 他觉得他必须考虑好每一步，而不能冒险。  （人教⑥ – 3）  
 
 
-# ***<font color=#0099ff>\*run / take the risk of doing sth</font>*** 
+# ***\*run / take the risk of doing sth*** 
 
 
   
@@ -27950,7 +27950,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 玛丽不敢冒险让她的孩子独自待着，即使是很短的时间。    
 
 
-# ***<font color=#0099ff>\*run across</font>*** 
+# ***\*run across*** 
 
 
   
@@ -27966,7 +27966,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我在米兰的一次大会上碰到了他。    
 
 
-# ***<font color=#0099ff>\*run after</font>*** 
+# ***\*run after*** 
 
 
   
@@ -27982,7 +27982,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 据说约翰总是追求年轻女子。    
 
 
-# ***<font color=#0099ff>\*run away (from)</font>*** 
+# ***\*run away (from)*** 
 
 
   
@@ -27998,7 +27998,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 见了困难就躲是不负责的。    
 
 
-# ***<font color=#0099ff>\*run away from</font>*** 
+# ***\*run away from*** 
 
 
   
@@ -28008,7 +28008,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**逃走；逃避**  
 
 
-# ***<font color=#0099ff>\*run into</font>*** 
+# ***\*run into*** 
 
 
   
@@ -28027,7 +28027,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我刚开始学习用英语写作时，遇到了很多困难。    
 
 
-# ***<font color=#0099ff>\*run out</font>*** 
+# ***\*run out*** 
 
 
   
@@ -28043,7 +28043,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 在去海滩的路上，我的车因为汽油耗尽而抛锚了。  （北师大⑥ – 16）  
 
 
-# ***<font color=#0099ff>\*run out (of)</font>*** 
+# ***\*run out (of)*** 
 
 
   
@@ -28059,7 +28059,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 在去海滩的路上，我的车因为汽油耗尽而抛锚了。  （北师大⑥ – 16）  
 
 
-# ***<font color=#0099ff>\*run out of</font>*** 
+# ***\*run out of*** 
 
 
   
@@ -28075,7 +28075,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 在去海滩的路上，我的车因为汽油耗尽而抛锚了。  （北师大⑥ – 16）  
 
 
-# ***<font color=#0099ff>\*run over</font>*** 
+# ***\*run over*** 
 
 
   
@@ -28091,7 +28091,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 马克的脑子飞快地转着，把各种可能都一一作了考虑。    
 
 
-# ***<font color=#0099ff>\*run through</font>*** 
+# ***\*run through*** 
 
 
   
@@ -28101,7 +28101,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**跑着穿过；把…匆匆过一遍**  
 
 
-# ***<font color=#0099ff>\*running water</font>*** n
+# ***\*running water*** n
 
 
   
@@ -28114,7 +28114,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 自来水；流水    
 
 
-# ***<font color=#0099ff>\*safety belt</font>*** 
+# ***\*safety belt*** 
 
 
   
@@ -28124,7 +28124,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**安全带**  
 
 
-# ***<font color=#0099ff>\*salicylic acid</font>*** n
+# ***\*salicylic acid*** n
 
 
   
@@ -28134,7 +28134,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**水杨酸**  
 
 
-# ***<font color=#0099ff>\*satellite dish</font>*** n
+# ***\*satellite dish*** n
 
 
   
@@ -28144,7 +28144,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**卫星电视碟形天线**  
 
 
-# ***<font color=#0099ff>\*say hello to</font>*** 
+# ***\*say hello to*** 
 
 
   
@@ -28157,7 +28157,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我们开车过去向他问好吧。    
 
 
-# ***<font color=#0099ff>\*scare … away / off</font>*** 
+# ***\*scare … away / off*** 
 
 
   
@@ -28167,7 +28167,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**把…吓跑**  
 
 
-# ***<font color=#0099ff>\*scores of</font>*** 
+# ***\*scores of*** 
 
 
   
@@ -28180,7 +28180,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 现代艺术风格有很多种。  （人教⑥ – 1）  
 
 
-# ***<font color=#0099ff>\*seal cutting</font>*** 
+# ***\*seal cutting*** 
 
 
   
@@ -28190,7 +28190,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**篆刻**  
 
 
-# ***<font color=#0099ff>\*search engine</font>*** n
+# ***\*search engine*** n
 
 
   
@@ -28203,7 +28203,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 搜索引擎    
 
 
-# ***<font color=#0099ff>\*search for</font>*** 
+# ***\*search for*** 
 
 
   
@@ -28213,7 +28213,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**搜索；查找**  
 
 
-# ***<font color=#0099ff>\*see (to it) that</font>*** 
+# ***\*see (to it) that*** 
 
 
   
@@ -28226,7 +28226,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 你能保证把开会日期通知到每个人吗？    
 
 
-# ***<font color=#0099ff>\*see ... off</font>*** 
+# ***\*see ... off*** 
 
 
   
@@ -28239,7 +28239,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我们都到机场为她送行。    
 
 
-# ***<font color=#0099ff>\*see about</font>*** 
+# ***\*see about*** 
 
 
   
@@ -28252,7 +28252,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我得找人修理一下这辆车。    
 
 
-# ***<font color=#0099ff>\*see off</font>*** 
+# ***\*see off*** 
 
 
   
@@ -28265,7 +28265,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我们都到机场为她送行。    
 
 
-# ***<font color=#0099ff>\*see through</font>*** 
+# ***\*see through*** 
 
 
   
@@ -28278,7 +28278,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 每个人都有眼力，他们会识破你们的诡计。    
 
 
-# ***<font color=#0099ff>\*see to</font>*** 
+# ***\*see to*** 
 
 
   
@@ -28291,7 +28291,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 别担心，这事我来处理。    
 
 
-# ***<font color=#0099ff>\*seeing that</font>*** 
+# ***\*seeing that*** 
 
 
   
@@ -28304,7 +28304,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 既然你已经到了门口，我想我必须邀请你进来。    
 
 
-# ***<font color=#0099ff>\*seek out</font>*** 
+# ***\*seek out*** 
 
 
   
@@ -28317,7 +28317,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我们必须找到解决问题的办法。    
 
 
-# ***<font color=#0099ff>\*seize on / upon</font>*** 
+# ***\*seize on / upon*** 
 
 
   
@@ -28330,7 +28330,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 鲍勃以下雨为借口不去上学。    
 
 
-# ***<font color=#0099ff>\*sell off</font>*** 
+# ***\*sell off*** 
 
 
   
@@ -28343,7 +28343,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 该店将夏季存货削价出售，以便购进冬季新货。    
 
 
-# ***<font color=#0099ff>\*sell oneself</font>*** 
+# ***\*sell oneself*** 
 
 
   
@@ -28356,7 +28356,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 求职面试的时候，你的确要推销自己。    
 
 
-# ***<font color=#0099ff>\*sell out / be sold out</font>*** 
+# ***\*sell out / be sold out*** 
 
 
   
@@ -28373,7 +28373,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 对不起，先生，您这个尺码的衬衫我们全卖完了。    
 
 
-# ***<font color=#0099ff>\*send away</font>*** 
+# ***\*send away*** 
 
 
   
@@ -28386,7 +28386,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 他被老板解雇了。    
 
 
-# ***<font color=#0099ff>\*send for</font>*** 
+# ***\*send for*** 
 
 
   
@@ -28399,7 +28399,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 她母亲病了，于是她派人去请了一位医生来。    
 
 
-# ***<font color=#0099ff>\*send out</font>*** 
+# ***\*send out*** 
 
 
   
@@ -28415,7 +28415,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 成千上万的技术人员被派出国去学习现代技术。    
 
 
-# ***<font color=#0099ff>\*send up</font>*** 
+# ***\*send up*** 
 
 
   
@@ -28428,7 +28428,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 中国是在什么时候发射了自己的第一颗人造卫星？    
 
 
-# ***<font color=#0099ff>\*senior high</font>*** 
+# ***\*senior high*** 
 
 
   
@@ -28441,7 +28441,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 高中生    
 
 
-# ***<font color=#0099ff>\*senior high school</font>*** 
+# ***\*senior high school*** 
 
 
   
@@ -28451,7 +28451,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**（美国）高中**  
 
 
-# ***<font color=#0099ff>\*sentence sb. to death</font>*** 
+# ***\*sentence sb. to death*** 
 
 
   
@@ -28464,7 +28464,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 在过去100年里，美国有23个人被误判了死刑。  （北师大⑧ – 24）  
 
 
-# ***<font color=#0099ff>\*serve as</font>*** 
+# ***\*serve as*** 
 
 
   
@@ -28480,7 +28480,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 他是负责为白宫撰写演讲稿的第一个非裔美国人。  （2009 陕西改）  
 
 
-# ***<font color=#0099ff>\*service area / station</font>*** 
+# ***\*service area / station*** 
 
 
   
@@ -28490,7 +28490,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**(高速公路旁的) 服务区 / 服务站**  
 
 
-# ***<font color=#0099ff>\*set (a play,novel,ect.) in</font>*** 
+# ***\*set (a play,novel,ect.) in*** 
 
 
   
@@ -28503,7 +28503,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 《远大前程》以19世纪早期的英国为背景。  （译林⑧ – 1）  
 
 
-# ***<font color=#0099ff>\*set ... on fire / set fire to</font>*** 
+# ***\*set ... on fire / set fire to*** 
 
 
   
@@ -28519,7 +28519,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 警方认为有人故意纵火烧工厂。    
 
 
-# ***<font color=#0099ff>\*set about</font>*** 
+# ***\*set about*** 
 
 
   
@@ -28532,7 +28532,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我着手研究蛇的习性，以便用最简单的方法捕捉它们。  （人教⑧ – 3）  
 
 
-# ***<font color=#0099ff>\*set an example</font>*** 
+# ***\*set an example*** 
 
 
   
@@ -28542,7 +28542,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**树立榜样**  
 
 
-# ***<font color=#0099ff>\*set an example to sb / set sb an example</font>*** 
+# ***\*set an example to sb / set sb an example*** 
 
 
   
@@ -28555,7 +28555,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 海伦为我们大家树立了好榜样。  （2008 湖南书面表达）  
 
 
-# ***<font color=#0099ff>\*set aside</font>*** 
+# ***\*set aside*** 
 
 
   
@@ -28571,7 +28571,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 放下工作    
 
 
-# ***<font color=#0099ff>\*set down</font>*** 
+# ***\*set down*** 
 
 
   
@@ -28584,7 +28584,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我不愿像大多数人那样在日记中记流水账。  （人教① – 1）  
 
 
-# ***<font color=#0099ff>\*set fire to</font>*** 
+# ***\*set fire to*** 
 
 
   
@@ -28597,7 +28597,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 警方认为有人故意纵火烧工厂。    
 
 
-# ***<font color=#0099ff>\*set foot in / on</font>*** 
+# ***\*set foot in / on*** 
 
 
   
@@ -28613,7 +28613,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 美国人尼尔·阿姆斯特朗成为第一个登上月球的人。    
 
 
-# ***<font color=#0099ff>\*set foot on</font>*** 
+# ***\*set foot on*** 
 
 
   
@@ -28629,7 +28629,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 美国人尼尔·阿姆斯特朗成为第一个登上月球的人。    
 
 
-# ***<font color=#0099ff>\*set in</font>*** 
+# ***\*set in*** 
 
 
   
@@ -28642,7 +28642,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 玛丽开始感到恐惧，但是无法跑开——她吓呆了。  （2011 江西）  
 
 
-# ***<font color=#0099ff>\*set in motion</font>*** 
+# ***\*set in motion*** 
 
 
   
@@ -28652,7 +28652,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**使某事开始**  
 
 
-# ***<font color=#0099ff>\*set off</font>*** 
+# ***\*set off*** 
 
 
   
@@ -28675,7 +28675,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 他无礼的答复引起了我的反感。    
 
 
-# ***<font color=#0099ff>\*set one's sights on</font>*** 
+# ***\*set one's sights on*** 
 
 
   
@@ -28688,7 +28688,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 那位选手说，他的目标是在即将到来的奥运会上夺冠。    
 
 
-# ***<font color=#0099ff>\*set out</font>*** 
+# ***\*set out*** 
 
 
   
@@ -28709,7 +28709,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 他在报告中阐述了他作这个决定的理由。    
 
 
-# ***<font color=#0099ff>\*set sail</font>*** 
+# ***\*set sail*** 
 
 
   
@@ -28722,7 +28722,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 这艘船启航前往上海。  （译林⑦ – 1）  
 
 
-# ***<font color=#0099ff>\*set sail (for)</font>*** 
+# ***\*set sail (for)*** 
 
 
   
@@ -28735,7 +28735,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 这艘船启航前往上海。  （译林⑦ – 1）  
 
 
-# ***<font color=#0099ff>\*set sth up</font>*** 
+# ***\*set sth up*** 
 
 
   
@@ -28745,7 +28745,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**安装好（设备或机器）**  
 
 
-# ***<font color=#0099ff>\*set up</font>*** 
+# ***\*set up*** 
 
 
   
@@ -28769,7 +28769,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我安排了一次与她面谈，详细地讨论了她的项目。  （2013湖南）  
 
 
-# ***<font color=#0099ff>\*set … free</font>*** 
+# ***\*set … free*** 
 
 
   
@@ -28785,7 +28785,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 展望未来时要尽情想象。    
 
 
-# ***<font color=#0099ff>\*settle (down) to</font>*** 
+# ***\*settle (down) to*** 
 
 
   
@@ -28798,7 +28798,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 外面那么吵，我不能专心工作。    
 
 
-# ***<font color=#0099ff>\*settle back</font>*** 
+# ***\*settle back*** 
 
 
   
@@ -28811,7 +28811,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 她舒服地坐在座位上看电影。    
 
 
-# ***<font color=#0099ff>\*settle down</font>*** 
+# ***\*settle down*** 
 
 
   
@@ -28834,7 +28834,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 等学生们安静下来后，她才开始上课。    
 
 
-# ***<font color=#0099ff>\*settle for</font>*** 
+# ***\*settle for*** 
 
 
   
@@ -28847,7 +28847,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 她只想要最好的，绝不会将就。    
 
 
-# ***<font color=#0099ff>\*settle in</font>*** 
+# ***\*settle in*** 
 
 
   
@@ -28863,7 +28863,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 她很快就适应了大学的新生活。    
 
 
-# ***<font color=#0099ff>\*settle in / into</font>*** 
+# ***\*settle in / into*** 
 
 
   
@@ -28879,7 +28879,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 她很快就适应了大学的新生活。    
 
 
-# ***<font color=#0099ff>\*settle on</font>*** 
+# ***\*settle on*** 
 
 
   
@@ -28892,7 +28892,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我们得把见面的地点定下来。    
 
 
-# ***<font color=#0099ff>\*sewing machine</font>*** 
+# ***\*sewing machine*** 
 
 
   
@@ -28902,7 +28902,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.*高义频：* **缝纫机**  
 
 
-# ***<font color=#0099ff>\*shake off</font>*** 
+# ***\*shake off*** 
 
 
   
@@ -28918,7 +28918,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 只手难遮天。    
 
 
-# ***<font color=#0099ff>\*shape up</font>*** 
+# ***\*shape up*** 
 
 
   
@@ -28931,7 +28931,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 如果他不改进的话，很快就会失业。    
 
 
-# ***<font color=#0099ff>\*share feelings and ideas with</font>*** 
+# ***\*share feelings and ideas with*** 
 
 
   
@@ -28941,7 +28941,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**与……分享感受与想法**  
 
 
-# ***<font color=#0099ff>\*shoot at</font>*** 
+# ***\*shoot at*** 
 
 
   
@@ -28954,7 +28954,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 猎人几次射击后终于射中了狼。    
 
 
-# ***<font color=#0099ff>\*shop assistant</font>*** 
+# ***\*shop assistant*** 
 
 
   
@@ -28967,7 +28967,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 助教/店员    
 
 
-# ***<font color=#0099ff>\*show ... around/round</font>*** 
+# ***\*show ... around/round*** 
 
 
   
@@ -28980,7 +28980,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 你真是太热情了，花这么多时间带我四处参观。    
 
 
-# ***<font color=#0099ff>\*show ... in</font>*** 
+# ***\*show ... in*** 
 
 
   
@@ -28990,7 +28990,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**带或领……进来**  
 
 
-# ***<font color=#0099ff>\*show off</font>*** 
+# ***\*show off*** 
 
 
   
@@ -29003,7 +29003,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 虽然有些人喜欢炫耀自己的财富，但对大多数美国人而言，收入是一件非常隐私的事情。  （外研⑥ – 1）  
 
 
-# ***<font color=#0099ff>\*show somebody around</font>*** 
+# ***\*show somebody around*** 
 
 
   
@@ -29016,7 +29016,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 你真是太热情了，花这么多时间带我四处参观。    
 
 
-# ***<font color=#0099ff>\*show up</font>*** 
+# ***\*show up*** 
 
 
   
@@ -29029,7 +29029,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 有好几百人到场，一些电视摄影师和记者也来了。    
 
 
-# ***<font color=#0099ff>\*shut / close one's eyes to</font>*** 
+# ***\*shut / close one's eyes to*** 
 
 
   
@@ -29042,7 +29042,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 你不能对他的暴行视而不见。    
 
 
-# ***<font color=#0099ff>\*shut down</font>*** 
+# ***\*shut down*** 
 
 
   
@@ -29058,7 +29058,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 关闭计算机系统    
 
 
-# ***<font color=#0099ff>\*shut in</font>*** 
+# ***\*shut in*** 
 
 
   
@@ -29068,7 +29068,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**把…关在房内**  
 
 
-# ***<font color=#0099ff>\*shut off</font>*** 
+# ***\*shut off*** 
 
 
   
@@ -29081,7 +29081,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 别忘了关闭供水系统。    
 
 
-# ***<font color=#0099ff>\*shut out (of)</font>*** 
+# ***\*shut out (of)*** 
 
 
   
@@ -29094,7 +29094,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 太阳镜能遮挡99%的太阳光中的有害射线。    
 
 
-# ***<font color=#0099ff>\*shut up</font>*** 
+# ***\*shut up*** 
 
 
   
@@ -29110,7 +29110,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 叫他住嘴。    
 
 
-# ***<font color=#0099ff>\*side by side</font>*** 
+# ***\*side by side*** 
 
 
   
@@ -29123,7 +29123,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我们所有的成员都并肩奋斗防治污染。    
 
 
-# ***<font color=#0099ff>\*side effect</font>*** n
+# ***\*side effect*** n
 
 
   
@@ -29136,7 +29136,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 还不确定该药会带来什么副作用。  （2010 浙江）  
 
 
-# ***<font color=#0099ff>\*side road</font>*** 
+# ***\*side road*** 
 
 
   
@@ -29146,7 +29146,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.*高义频：* **旁路；支线；岔道 (= sidewalk)**  
 
 
-# ***<font color=#0099ff>\*sign up (for sth)</font>*** 
+# ***\*sign up (for sth)*** 
 
 
   
@@ -29162,7 +29162,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我准备报名参加7月中旬的那个团。    
 
 
-# ***<font color=#0099ff>\*silence is golden</font>*** 
+# ***\*silence is golden*** 
 
 
   
@@ -29172,7 +29172,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**沉默是金**  
 
 
-# ***<font color=#0099ff>\*silent film</font>*** n
+# ***\*silent film*** n
 
 
   
@@ -29185,7 +29185,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 无声电影    
 
 
-# ***<font color=#0099ff>\*sit around</font>*** 
+# ***\*sit around*** 
 
 
   
@@ -29198,7 +29198,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 大家围坐成一圈，唱歌和弹奏音乐。  （2010 上海）  
 
 
-# ***<font color=#0099ff>\*sit up</font>*** 
+# ***\*sit up*** 
 
 
   
@@ -29214,7 +29214,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 我们熬夜看了场电影。    
 
 
-# ***<font color=#0099ff>\*skip a grade</font>*** 
+# ***\*skip a grade*** 
 
 
   
@@ -29224,7 +29224,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**跳级**  
 
 
-# ***<font color=#0099ff>\*slam dunk</font>*** 
+# ***\*slam dunk*** 
 
 
   
@@ -29234,7 +29234,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**扣篮**  
 
 
-# ***<font color=#0099ff>\*slide into</font>*** 
+# ***\*slide into*** 
 
 
   
@@ -29247,7 +29247,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 偷偷地溜进房间    
 
 
-# ***<font color=#0099ff>\*slim down</font>*** 
+# ***\*slim down*** 
 
 
   
@@ -29264,7 +29264,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 这家公司要裁员。    
 
 
-# ***<font color=#0099ff>\*slow down</font>*** 
+# ***\*slow down*** 
 
 
   
@@ -29277,7 +29277,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 如果进入大气中的二氧化碳减少，全球气候变暖的速度就会放慢。  （北师大⑧ – 22）  
 
 
-# ***<font color=#0099ff>\*small talk</font>*** 
+# ***\*small talk*** 
 
 
   
@@ -29290,7 +29290,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
  > 据估计，英语中80%的谈话都是闲谈。  （外研⑥ – 1）  
 
 
-# ***<font color=#0099ff>\*smooth away</font>*** 
+# ***\*smooth away*** 
 
 
   
@@ -29300,7 +29300,7 @@ Notes: plenty of 可接可数或不可数名词，只用于肯定句。
 ### 1.**消除 (问题)；克服 (困难)**  
 
 
-# ***<font color=#0099ff>\*so ... that</font>*** 
+# ***\*so ... that*** 
 
 
   
@@ -29317,7 +29317,7 @@ Notes: 在so ... that 引导的复合句中，so位于句首时，主句部分�
  > 他说话声音很大，连隔壁房间的人都能听到。    
 
 
-# ***<font color=#0099ff>\*so ... that ...</font>*** 
+# ***\*so ... that ...*** 
 
 
   
@@ -29334,7 +29334,7 @@ Notes: 在so ... that 引导的复合句中，so位于句首时，主句部分�
  > 他说话声音很大，连隔壁房间的人都能听到。    
 
 
-# ***<font color=#0099ff>\*so as to</font>*** 
+# ***\*so as to*** 
 
 
   
@@ -29359,7 +29359,7 @@ Notes: 在so ... that 引导的复合句中，so位于句首时，主句部分�
  > 悄悄地进去，别把你的妈妈吵醒了。    
 
 
-# ***<font color=#0099ff>\*so as to (do sth)</font>*** 
+# ***\*so as to (do sth)*** 
 
 
   
@@ -29384,7 +29384,7 @@ Notes: 在so ... that 引导的复合句中，so位于句首时，主句部分�
  > 悄悄地进去，别把你的妈妈吵醒了。    
 
 
-# ***<font color=#0099ff>\*so far</font>*** 
+# ***\*so far*** 
 
 
   
@@ -29401,7 +29401,7 @@ Notes: 在so ... that 引导的复合句中，so位于句首时，主句部分�
 
 Notes: so far 常与现在完成时连用。  
 
-# ***<font color=#0099ff>\*so long as</font>*** 
+# ***\*so long as*** 
 
 
   
@@ -29414,7 +29414,7 @@ Notes: so far 常与现在完成时连用。
  > 一个人只要给别人的生活带来价值，他的生命就是有价值的。  （2012 江苏改）  
 
 
-# ***<font color=#0099ff>\*so much for</font>*** 
+# ***\*so much for*** 
 
 
   
@@ -29427,7 +29427,7 @@ Notes: so far 常与现在完成时连用。
  > 就介绍这么多吧，该开始工作了。    
 
 
-# ***<font color=#0099ff>\*so much the better / worse</font>*** 
+# ***\*so much the better / worse*** 
 
 
   
@@ -29440,7 +29440,7 @@ Notes: so far 常与现在完成时连用。
  > 如果他们可以同时做这两件事，那当然更好。    
 
 
-# ***<font color=#0099ff>\*so that</font>*** 
+# ***\*so that*** 
 
 
   
@@ -29456,7 +29456,7 @@ Notes: so far 常与现在完成时连用。
  > 他没计划好时间，结果没及时完成工作。    
 
 
-# ***<font color=#0099ff>\*so...as to</font>*** 
+# ***\*so...as to*** 
 
 
   
@@ -29469,7 +29469,7 @@ Notes: so far 常与现在完成时连用。
  > 那部电影恐怖得让你毛骨悚然。    
 
 
-# ***<font color=#0099ff>\*soap opera</font>*** n
+# ***\*soap opera*** n
 
 
   
@@ -29479,7 +29479,7 @@ Notes: so far 常与现在完成时连用。
 ### 1.**肥皂剧**  
 
 
-# ***<font color=#0099ff>\*social media</font>*** 
+# ***\*social media*** 
 
 
   
@@ -29489,7 +29489,7 @@ Notes: so far 常与现在完成时连用。
 ### 1.**社交媒体**  
 
 
-# ***<font color=#0099ff>\*social rules</font>*** 
+# ***\*social rules*** 
 
 
   
@@ -29499,7 +29499,7 @@ Notes: so far 常与现在完成时连用。
 ### 1.**社交规则**  
 
 
-# ***<font color=#0099ff>\*soft copy</font>*** 
+# ***\*soft copy*** 
 
 
   
@@ -29509,7 +29509,7 @@ Notes: so far 常与现在完成时连用。
 ### 1.**软副本 (指存在计算机里或显示在屏幕上的资料)**  
 
 
-# ***<font color=#0099ff>\*solar system</font>*** 
+# ***\*solar system*** 
 
 
   
@@ -29522,7 +29522,7 @@ Notes: so far 常与现在完成时连用。
  > 在我们的太阳系里，八大行星环绕着太阳运转。  （人教③ – 4）  
 
 
-# ***<font color=#0099ff>\*some ... or other</font>*** 
+# ***\*some ... or other*** 
 
 
   
@@ -29535,7 +29535,7 @@ Notes: so far 常与现在完成时连用。
  > 我以前曾在某一本书里读到过与此有关的内容。    
 
 
-# ***<font color=#0099ff>\*some day</font>*** 
+# ***\*some day*** 
 
 
   
@@ -29548,7 +29548,7 @@ Notes: so far 常与现在完成时连用。
  > 我希望有一天能见到他。    
 
 
-# ***<font color=#0099ff>\*some more</font>*** 
+# ***\*some more*** 
 
 
   
@@ -29561,7 +29561,7 @@ Notes: so far 常与现在完成时连用。
  > 再吃些面包，那样你会感觉好一些。    
 
 
-# ***<font color=#0099ff>\*something else</font>*** 
+# ***\*something else*** 
 
 
   
@@ -29574,7 +29574,7 @@ Notes: so far 常与现在完成时连用。
  > 他说了另外一件事，我觉得很有趣。    
 
 
-# ***<font color=#0099ff>\*sooner or later</font>*** 
+# ***\*sooner or later*** 
 
 
   
@@ -29587,7 +29587,7 @@ Notes: so far 常与现在完成时连用。
  > 不管怎样，她迟早会醒悟过来。    
 
 
-# ***<font color=#0099ff>\*sort of</font>*** 
+# ***\*sort of*** 
 
 
   
@@ -29603,7 +29603,7 @@ Notes: so far 常与现在完成时连用。
  > 知道一点儿。    
 
 
-# ***<font color=#0099ff>\*sort out</font>*** 
+# ***\*sort out*** 
 
 
   
@@ -29619,7 +29619,7 @@ Notes: so far 常与现在完成时连用。
  > 简承认她根本处理不好家庭的麻烦事。  （2013 湖北改）  
 
 
-# ***<font color=#0099ff>\*sort out (from)</font>*** 
+# ***\*sort out (from)*** 
 
 
   
@@ -29635,7 +29635,7 @@ Notes: so far 常与现在完成时连用。
  > 简承认她根本处理不好家庭的麻烦事。  （2013 湖北改）  
 
 
-# ***<font color=#0099ff>\*soul music</font>*** 
+# ***\*soul music*** 
 
 
   
@@ -29645,7 +29645,7 @@ Notes: so far 常与现在完成时连用。
 ### 1.**灵乐**  
 
 
-# ***<font color=#0099ff>\*sound as if / though</font>*** 
+# ***\*sound as if / though*** 
 
 
   
@@ -29658,7 +29658,7 @@ Notes: so far 常与现在完成时连用。
  > 听起来你在伦敦玩得很开心。  （外研⑤ – 3）  
 
 
-# ***<font color=#0099ff>\*spare no expense / effort</font>*** 
+# ***\*spare no expense / effort*** 
 
 
   
@@ -29671,7 +29671,7 @@ Notes: so far 常与现在完成时连用。
  > 为了造福子孙后代，我们应不遗余力地保护我们的地球母亲。    
 
 
-# ***<font color=#0099ff>\*speak for</font>*** 
+# ***\*speak for*** 
 
 
   
@@ -29681,7 +29681,7 @@ Notes: so far 常与现在完成时连用。
 ### 1.**代表…讲话 / 发言**  
 
 
-# ***<font color=#0099ff>\*speak highly of</font>*** 
+# ***\*speak highly of*** 
 
 
   
@@ -29694,7 +29694,7 @@ Notes: so far 常与现在完成时连用。
  > 世界各国媒体高度评价中国改革所取得的成就。    
 
 
-# ***<font color=#0099ff>\*speak of</font>*** 
+# ***\*speak of*** 
 
 
   
@@ -29707,7 +29707,7 @@ Notes: so far 常与现在完成时连用。
  > 他谈到了法国人以及他们排队的习惯。    
 
 
-# ***<font color=#0099ff>\*speak out / up</font>*** 
+# ***\*speak out / up*** 
 
 
   
@@ -29720,7 +29720,7 @@ Notes: so far 常与现在完成时连用。
  > 大声说，我们听不见你说话。    
 
 
-# ***<font color=#0099ff>\*speak up</font>*** 
+# ***\*speak up*** 
 
 
   
@@ -29730,7 +29730,7 @@ Notes: so far 常与现在完成时连用。
 ### 1.**大声地说, 自由而大胆地说出**  
 
 
-# ***<font color=#0099ff>\*speed up</font>*** 
+# ***\*speed up*** 
 
 
   
@@ -29747,7 +29747,7 @@ Notes: so far 常与现在完成时连用。
  > 现代发明大大加快了人们的生活节奏。    
 
 
-# ***<font color=#0099ff>\*split up</font>*** 
+# ***\*split up*** 
 
 
   
@@ -29757,7 +29757,7 @@ Notes: so far 常与现在完成时连用。
 ### 1.**分裂; 分割**  
 
 
-# ***<font color=#0099ff>\*spread out</font>*** 
+# ***\*spread out*** 
 
 
   
@@ -29773,7 +29773,7 @@ Notes: so far 常与现在完成时连用。
  > 搜索人员分散开来，以便于更快地搜索该地区。    
 
 
-# ***<font color=#0099ff>\*spring up</font>*** 
+# ***\*spring up*** 
 
 
   
@@ -29783,7 +29783,7 @@ Notes: so far 常与现在完成时连用。
 ### 1.**突然兴起，迅速出现**  
 
 
-# ***<font color=#0099ff>\*spy on</font>*** 
+# ***\*spy on*** 
 
 
   
@@ -29796,7 +29796,7 @@ Notes: so far 常与现在完成时连用。
  > 暗中监视某人    
 
 
-# ***<font color=#0099ff>\*squeeze out</font>*** 
+# ***\*squeeze out*** 
 
 
   
@@ -29809,7 +29809,7 @@ Notes: so far 常与现在完成时连用。
  > 他把几块布用冷水打湿、拧干，然后敷在她烫伤的脚踝处。  （人教⑤ – 5）  
 
 
-# ***<font color=#0099ff>\*stainless steel</font>*** n
+# ***\*stainless steel*** n
 
 
   
@@ -29819,7 +29819,7 @@ Notes: so far 常与现在完成时连用。
 ### 1.**不锈钢**  
 
 
-# ***<font color=#0099ff>\*stand a chance</font>*** 
+# ***\*stand a chance*** 
 
 
   
@@ -29832,7 +29832,7 @@ Notes: so far 常与现在完成时连用。
  > 一个有决心的人只要坚持梦想就有可能成功。    
 
 
-# ***<font color=#0099ff>\*stand back</font>*** 
+# ***\*stand back*** 
 
 
   
@@ -29842,7 +29842,7 @@ Notes: so far 常与现在完成时连用。
 ### 1.**退后；退一步 (考虑问题)**  
 
 
-# ***<font color=#0099ff>\*stand by</font>*** 
+# ***\*stand by*** 
 
 
   
@@ -29855,7 +29855,7 @@ Notes: so far 常与现在完成时连用。
  > 他那样虐待他的狗，你怎么能袖手旁观呢？    
 
 
-# ***<font color=#0099ff>\*stand by sth</font>*** 
+# ***\*stand by sth*** 
 
 
   
@@ -29868,7 +29868,7 @@ Notes: so far 常与现在完成时连用。
  > 总统告诉记者，他坚持自己先前的声明。  （北师大③ – 8）  
 
 
-# ***<font color=#0099ff>\*stand for</font>*** 
+# ***\*stand for*** 
 
 
   
@@ -29881,7 +29881,7 @@ Notes: so far 常与现在完成时连用。
  > 美国国旗上的每一颗星代表美国的一个州。    
 
 
-# ***<font color=#0099ff>\*stand in one's path</font>*** 
+# ***\*stand in one's path*** 
 
 
   
@@ -29891,7 +29891,7 @@ Notes: so far 常与现在完成时连用。
 ### 1.**阻碍（某人）**  
 
 
-# ***<font color=#0099ff>\*stand on one's own feet</font>*** 
+# ***\*stand on one's own feet*** 
 
 
   
@@ -29901,7 +29901,7 @@ Notes: so far 常与现在完成时连用。
 ### 1.**独立自主**  
 
 
-# ***<font color=#0099ff>\*stand out</font>*** 
+# ***\*stand out*** 
 
 
   
@@ -29917,7 +29917,7 @@ Notes: so far 常与现在完成时连用。
  > 多萝西在我印象中很突出，她是一位在偏远地区活得精彩的人。  （2013 湖南）  
 
 
-# ***<font color=#0099ff>\*stand up for</font>*** 
+# ***\*stand up for*** 
 
 
   
@@ -29930,7 +29930,7 @@ Notes: so far 常与现在完成时连用。
  > 罗莎·帕克斯拒绝给白人让座维护了全体美国人的利益。    
 
 
-# ***<font color=#0099ff>\*star in</font>*** 
+# ***\*star in*** 
 
 
   
@@ -29943,7 +29943,7 @@ Notes: so far 常与现在完成时连用。
  > 查理·卓别林自编、自导、自制他自己主演的电影。  （人教④ – 3）  
 
 
-# ***<font color=#0099ff>\*stare at</font>*** 
+# ***\*stare at*** 
 
 
   
@@ -29956,7 +29956,7 @@ Notes: so far 常与现在完成时连用。
  > 她凝视着这幅画，想知道自己曾在哪里见过它。  （2009 重庆）  
 
 
-# ***<font color=#0099ff>\*start off / out</font>*** 
+# ***\*start off / out*** 
 
 
   
@@ -29972,7 +29972,7 @@ Notes: so far 常与现在完成时连用。
  > 我起初是售票员，但后来成了公共汽车司机。    
 
 
-# ***<font color=#0099ff>\*start up</font>*** 
+# ***\*start up*** 
 
 
   
@@ -29990,7 +29990,7 @@ Notes: so far 常与现在完成时连用。
  > 司机回到车上发动了引擎。    
 
 
-# ***<font color=#0099ff>\*state of affairs</font>*** 
+# ***\*state of affairs*** 
 
 
   
@@ -30006,7 +30006,7 @@ Notes: so far 常与现在完成时连用。
 三者都有“事情”之意。  
 
 
-# ***<font color=#0099ff>\*stay away</font>*** 
+# ***\*stay away*** 
 
 
   
@@ -30019,7 +30019,7 @@ Notes: so far 常与现在完成时连用。
  > 鸟儿唱歌有时是警告其他同类不要靠近。  （2012 北京）  
 
 
-# ***<font color=#0099ff>\*stay in</font>*** 
+# ***\*stay in*** 
 
 
   
@@ -30029,7 +30029,7 @@ Notes: so far 常与现在完成时连用。
 ### 1.**待在家里；不外出**  
 
 
-# ***<font color=#0099ff>\*stay on</font>*** 
+# ***\*stay on*** 
 
 
   
@@ -30042,7 +30042,7 @@ Notes: so far 常与现在完成时连用。
  > 这份工作我继续干了5个月。    
 
 
-# ***<font color=#0099ff>\*stay out</font>*** 
+# ***\*stay out*** 
 
 
   
@@ -30056,7 +30056,7 @@ Notes: so far 常与现在完成时连用。
  > 他开始深夜不归，在外面喝酒。    
 
 
-# ***<font color=#0099ff>\*stay out of</font>*** 
+# ***\*stay out of*** 
 
 
   
@@ -30069,7 +30069,7 @@ Notes: so far 常与现在完成时连用。
  > 避免麻烦    
 
 
-# ***<font color=#0099ff>\*stay up</font>*** 
+# ***\*stay up*** 
 
 
   
@@ -30082,7 +30082,7 @@ Notes: so far 常与现在完成时连用。
  > 我熬了一整夜准备历史考试。    
 
 
-# ***<font color=#0099ff>\*steak tartare</font>*** 
+# ***\*steak tartare*** 
 英音 ˌsteɪktɑː'tɑː(r)     美音 ˌsteɪktɑːr'tɑːr  
 
   
@@ -30092,7 +30092,7 @@ Notes: so far 常与现在完成时连用。
 ### 1.**鞑靼牛肉末**  
 
 
-# ***<font color=#0099ff>\*stem cell</font>*** 
+# ***\*stem cell*** 
 
 
   
@@ -30105,7 +30105,7 @@ Notes: so far 常与现在完成时连用。
  > 干细胞是从一位捐献者身上采集的。  （2016 全国）  
 
 
-# ***<font color=#0099ff>\*step up</font>*** 
+# ***\*step up*** 
 
 
   
@@ -30115,7 +30115,7 @@ Notes: so far 常与现在完成时连用。
 ### 1.**加紧，加强，促进**  
 
 
-# ***<font color=#0099ff>\*stick around</font>*** 
+# ***\*stick around*** 
 
 
   
@@ -30125,7 +30125,7 @@ Notes: so far 常与现在完成时连用。
 ### 1.**[非正式用语] 不走开；待在原地**  
 
 
-# ***<font color=#0099ff>\*stick out</font>*** 
+# ***\*stick out*** 
 
 
   
@@ -30141,7 +30141,7 @@ Notes: so far 常与现在完成时连用。
  > 照片上，爱德华头发很短，双耳突出。    
 
 
-# ***<font color=#0099ff>\*stick to</font>*** 
+# ***\*stick to*** 
 
 
   
@@ -30157,7 +30157,7 @@ Notes: so far 常与现在完成时连用。
  > 他一旦许下诺言，就会坚守这个诺言。    
 
 
-# ***<font color=#0099ff>\*stick up</font>*** 
+# ***\*stick up*** 
 
 
   
@@ -30170,7 +30170,7 @@ Notes: so far 常与现在完成时连用。
  > 在圣诞节的早上，我们竖起一块牌子，上面写着“圣诞快乐”。  （北师大⑧ – 24）  
 
 
-# ***<font color=#0099ff>\*stick with</font>*** 
+# ***\*stick with*** 
 
 
   
@@ -30190,7 +30190,7 @@ Notes: so far 常与现在完成时连用。
  > 我余生将永远记住这些话。    
 
 
-# ***<font color=#0099ff>\*still life</font>*** n
+# ***\*still life*** n
 
 
   
@@ -30200,7 +30200,7 @@ Notes: so far 常与现在完成时连用。
 ### 1.**静物画**  
 
 
-# ***<font color=#0099ff>\*stir up</font>*** 
+# ***\*stir up*** 
 
 
   
@@ -30216,7 +30216,7 @@ Notes: so far 常与现在完成时连用。
  > 我们的麻烦事儿已经够多的了，你就别再挑拨是非了。    
 
 
-# ***<font color=#0099ff>\*stop off (in / at)</font>*** 
+# ***\*stop off (in / at)*** 
 
 
   
@@ -30229,7 +30229,7 @@ Notes: so far 常与现在完成时连用。
  > 中途我们在巴恩停留了一个小时。  （2009 全国）  
 
 
-# ***<font color=#0099ff>\*stop sth. in its tracks</font>*** 
+# ***\*stop sth. in its tracks*** 
 
 
   
@@ -30239,7 +30239,7 @@ Notes: so far 常与现在完成时连用。
 ### 1.**终止；消灭**  
 
 
-# ***<font color=#0099ff>\*straight away</font>*** 
+# ***\*straight away*** 
 
 
   
@@ -30252,7 +30252,7 @@ Notes: so far 常与现在完成时连用。
  > 我马上给妈妈打了电话。    
 
 
-# ***<font color=#0099ff>\*straight away / off</font>*** 
+# ***\*straight away / off*** 
 
 
   
@@ -30265,7 +30265,7 @@ Notes: so far 常与现在完成时连用。
  > 我马上给妈妈打了电话。    
 
 
-# ***<font color=#0099ff>\*strike ... into one's heart</font>*** 
+# ***\*strike ... into one's heart*** 
 
 
   
@@ -30278,7 +30278,7 @@ Notes: so far 常与现在完成时连用。
  > 使某人胆战心惊    
 
 
-# ***<font color=#0099ff>\*strike a balance</font>*** 
+# ***\*strike a balance*** 
 
 
   
@@ -30291,7 +30291,7 @@ Notes: so far 常与现在完成时连用。
  > 他发现家庭和工作两者很难兼顾。    
 
 
-# ***<font color=#0099ff>\*strike a deal</font>*** 
+# ***\*strike a deal*** 
 
 
   
@@ -30301,7 +30301,7 @@ Notes: so far 常与现在完成时连用。
 ### 1.**达成协议**  
 
 
-# ***<font color=#0099ff>\*stringed instrument</font>*** 
+# ***\*stringed instrument*** 
 
 
   
@@ -30311,7 +30311,7 @@ Notes: so far 常与现在完成时连用。
 ### 1.**弦乐器**  
 
 
-# ***<font color=#0099ff>\*subject matter</font>*** 
+# ***\*subject matter*** 
 
 
   
@@ -30324,7 +30324,7 @@ Notes: so far 常与现在完成时连用。
  > 他的诗歌的题材包括爱、大自然、历史、时间和衰老。  （2011 重庆改）  
 
 
-# ***<font color=#0099ff>\*subscribe (to)</font>*** 
+# ***\*subscribe (to)*** 
 
 
   
@@ -30337,7 +30337,7 @@ Notes: so far 常与现在完成时连用。
  > 所有的科学家都赞成这种观点：地球上气温的升高是由燃烧矿物燃料引起的。  （人教⑥ – 4）  
 
 
-# ***<font color=#0099ff>\*subscribe to</font>*** 
+# ***\*subscribe to*** 
 
 
   
@@ -30350,7 +30350,7 @@ Notes: so far 常与现在完成时连用。
  > 所有的科学家都赞成这种观点：地球上气温的升高是由燃烧矿物燃料引起的。  （人教⑥ – 4）  
 
 
-# ***<font color=#0099ff>\*such ... as</font>*** 
+# ***\*such ... as*** 
 
 
   
@@ -30366,7 +30366,7 @@ Notes: so far 常与现在完成时连用。
  > 沃尔特·迪斯尼为人称赞是因为创造了诸如唐老鸭和米老鼠这样的美好事物。  （2014 福建）  
 
 
-# ***<font color=#0099ff>\*such as</font>*** 
+# ***\*such as*** 
 
 
   
@@ -30389,7 +30389,7 @@ Notes: such as常用来进行列举，并直接放在列举的名 词之前。fo
  > 例如墨西哥、加拿大和中国，都有石油储备。    
 
 
-# ***<font color=#0099ff>\*such that / as to</font>*** 
+# ***\*such that / as to*** 
 
 
   
@@ -30412,7 +30412,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 我没有作过那样的决定。    
 
 
-# ***<font color=#0099ff>\*such … that</font>*** 
+# ***\*such … that*** 
 
 
   
@@ -30428,7 +30428,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 他们说那天如此美好，他们永远也不会忘记。  （2009 浙江）  
 
 
-# ***<font color=#0099ff>\*suffer from</font>*** 
+# ***\*suffer from*** 
 
 
   
@@ -30441,7 +30441,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 他患有精神疾病吗？  （2013 陕西）  
 
 
-# ***<font color=#0099ff>\*suit ... to</font>*** 
+# ***\*suit ... to*** 
 
 
   
@@ -30457,7 +30457,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
 三者都可用作动词，表“适合”之意。  
 
 
-# ***<font color=#0099ff>\*suitable for</font>*** 
+# ***\*suitable for*** 
 
 
   
@@ -30473,7 +30473,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 这本书列出了适合英国花园种植的花草。    
 
 
-# ***<font color=#0099ff>\*sum up</font>*** 
+# ***\*sum up*** 
 
 
   
@@ -30490,7 +30490,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 总之，要想心脏健康，你必须经常运动并戒烟。    
 
 
-# ***<font color=#0099ff>\*suspension bridge</font>*** 
+# ***\*suspension bridge*** 
 
 
   
@@ -30500,7 +30500,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
 ### 1.**吊桥**  
 
 
-# ***<font color=#0099ff>\*swallow up</font>*** 
+# ***\*swallow up*** 
 
 
   
@@ -30519,7 +30519,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 雾霾笼罩着整个城市。    
 
 
-# ***<font color=#0099ff>\*sweep away</font>*** 
+# ***\*sweep away*** 
 
 
   
@@ -30532,7 +30532,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 许多房子都被洪水冲走了。    
 
 
-# ***<font color=#0099ff>\*sweep over</font>*** 
+# ***\*sweep over*** 
 
 
   
@@ -30542,7 +30542,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
 ### 1.**向……扩展**  
 
 
-# ***<font color=#0099ff>\*sweep up</font>*** 
+# ***\*sweep up*** 
 
 
   
@@ -30552,7 +30552,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
 ### 1.**打扫；横扫**  
 
 
-# ***<font color=#0099ff>\*sweet dumpling</font>*** 
+# ***\*sweet dumpling*** 
 
 
   
@@ -30562,7 +30562,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
 ### 1.**元宵**  
 
 
-# ***<font color=#0099ff>\*swell up</font>*** 
+# ***\*swell up*** 
 
 
   
@@ -30572,7 +30572,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
 ### 1.**肿胀，膨胀**  
 
 
-# ***<font color=#0099ff>\*switch off</font>*** 
+# ***\*switch off*** 
 
 
   
@@ -30588,7 +30588,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 谢天谢地，我已经学会了不再烦恼，把它抛到脑后。    
 
 
-# ***<font color=#0099ff>\*switch on</font>*** 
+# ***\*switch on*** 
 
 
   
@@ -30601,7 +30601,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 每次打开收音机时我们都能听到那首歌。  （外研④ – 3）  
 
 
-# ***<font color=#0099ff>\*switch over</font>*** 
+# ***\*switch over*** 
 
 
   
@@ -30614,7 +30614,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 我们已经改用电话银行服务了。    
 
 
-# ***<font color=#0099ff>\*symbolic ambassador</font>*** 
+# ***\*symbolic ambassador*** 
 
 
   
@@ -30624,7 +30624,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
 ### 1.**形象大使**  
 
 
-# ***<font color=#0099ff>\*table tennis</font>*** n
+# ***\*table tennis*** n
 英音 'teibl'tenis     美音 'teibl'tenis  
 
 | 词频 2 |  
@@ -30636,7 +30636,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
 ### 1.*高义频：* **乒乓球运动(AmE Ping-Pong)**  
 
 
-# ***<font color=#0099ff>\*tae kwon do</font>*** n
+# ***\*tae kwon do*** n
 英音 ˌtaɪˌkwɒn'dəʊ     美音 ˌtaɪˌkwɑːn'doʊ  
 
 | 词频 1 |  
@@ -30646,7 +30646,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
 ### 1.**跆拳道**  
 
 
-# ***<font color=#0099ff>\*take ... by surprise</font>*** 
+# ***\*take ... by surprise*** 
 
 
   
@@ -30662,7 +30662,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 部队在睡梦中遭到突袭。    
 
 
-# ***<font color=#0099ff>\*take ... for example</font>*** 
+# ***\*take ... for example*** 
 
 
   
@@ -30675,7 +30675,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 你可以拿你的研究工作做个例子。    
 
 
-# ***<font color=#0099ff>\*take ... for granted</font>*** 
+# ***\*take ... for granted*** 
 
 
   
@@ -30688,7 +30688,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 我们中的有些人总是理所当然地认为，父母或者祖父母应该照顾我们。  （2009 重庆书面表达）  
 
 
-# ***<font color=#0099ff>\*take ... into consideration</font>*** 
+# ***\*take ... into consideration*** 
 
 
   
@@ -30701,7 +30701,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 在给你的考卷打分时，我们会考虑到你近期生病的因素。    
 
 
-# ***<font color=#0099ff>\*take / gain / get control (of / over)</font>*** 
+# ***\*take / gain / get control (of / over)*** 
 
 
   
@@ -30714,7 +30714,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 她意识到自己应该控制疾病，而不是受疾病的控制。  （2010 湖南改）  
 
 
-# ***<font color=#0099ff>\*take a breath</font>*** 
+# ***\*take a breath*** 
 
 
   
@@ -30724,7 +30724,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
 ### 1.**吸一口气**  
 
 
-# ***<font color=#0099ff>\*take a chance</font>*** 
+# ***\*take a chance*** 
 
 
   
@@ -30737,7 +30737,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 我虽没有把握打败他，但还是要碰碰运气。    
 
 
-# ***<font color=#0099ff>\*take account of / take ... into account</font>*** 
+# ***\*take account of / take ... into account*** 
 
 
   
@@ -30753,7 +30753,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 人们在演讲时必须要考虑听众。    
 
 
-# ***<font color=#0099ff>\*take action</font>*** 
+# ***\*take action*** 
 
 
   
@@ -30766,7 +30766,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 我们必须采取行动防治污染。    
 
 
-# ***<font color=#0099ff>\*take advantage of</font>*** 
+# ***\*take advantage of*** 
 
 
   
@@ -30779,7 +30779,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 父母应积极催促孩子利用这一机会参加运动队。  （2016 江苏）  
 
 
-# ***<font color=#0099ff>\*take apart</font>*** 
+# ***\*take apart*** 
 
 
   
@@ -30792,7 +30792,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 老人看到一些德国人把琥珀屋拆掉后搬走了。  （人教② – 1）  
 
 
-# ***<font color=#0099ff>\*take away</font>*** 
+# ***\*take away*** 
 
 
   
@@ -30811,7 +30811,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 给我开了些止疼药片。    
 
 
-# ***<font color=#0099ff>\*take back</font>*** 
+# ***\*take back*** 
 
 
   
@@ -30827,7 +30827,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 我要收回刚才说的话。    
 
 
-# ***<font color=#0099ff>\*take care</font>*** 
+# ***\*take care*** 
 
 
   
@@ -30851,7 +30851,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 再见，多保重！    
 
 
-# ***<font color=#0099ff>\*take care of</font>*** 
+# ***\*take care of*** 
 
 
   
@@ -30870,7 +30870,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 你负责为今晚的聚会买水果好吗？    
 
 
-# ***<font color=#0099ff>\*take chances / a chance</font>*** 
+# ***\*take chances / a chance*** 
 
 
   
@@ -30886,7 +30886,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 我虽没有把握打败他，但还是要碰碰运气。    
 
 
-# ***<font color=#0099ff>\*take charge of</font>*** 
+# ***\*take charge of*** 
 
 
   
@@ -30899,7 +30899,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 你知道琳达是否愿意接管这个项目吗？  （2010 安徽）  
 
 
-# ***<font color=#0099ff>\*take control of</font>*** 
+# ***\*take control of*** 
 
 
   
@@ -30915,7 +30915,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 鼓励学生要自己安排学习，而不只是依赖老师。    
 
 
-# ***<font color=#0099ff>\*take down</font>*** 
+# ***\*take down*** 
 
 
   
@@ -30934,7 +30934,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 我小时候住的那所房子已被拆除，取而代之的是一座办公楼。  （2009 江西）  
 
 
-# ***<font color=#0099ff>\*take effect</font>*** 
+# ***\*take effect*** 
 
 
   
@@ -30947,7 +30947,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 这些措施刚开始见效。    
 
 
-# ***<font color=#0099ff>\*take exercise</font>*** 
+# ***\*take exercise*** 
 
 
   
@@ -30960,7 +30960,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 医生建议他多运动。    
 
 
-# ***<font color=#0099ff>\*take hold of</font>*** 
+# ***\*take hold of*** 
 
 
   
@@ -30973,7 +30973,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 抬桌子那头，帮我把它移开。    
 
 
-# ***<font color=#0099ff>\*take in</font>*** 
+# ***\*take in*** 
 
 
   
@@ -30999,7 +30999,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 她用一番花言巧语完全把我骗住了。    
 
 
-# ***<font color=#0099ff>\*take it easy</font>*** 
+# ***\*take it easy*** 
 
 
   
@@ -31012,7 +31012,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 别着急，彼得，我来帮你解决。    
 
 
-# ***<font color=#0099ff>\*take it easy / take things easy</font>*** 
+# ***\*take it easy / take things easy*** 
 
 
   
@@ -31031,7 +31031,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 别太辛苦了，轻松点  （2012 全国）  
 
 
-# ***<font color=#0099ff>\*take matters in one's own hands</font>*** 
+# ***\*take matters in one's own hands*** 
 
 
   
@@ -31044,7 +31044,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 阿利亚把事情揽过来自己处理。  （2017 浙江）  
 
 
-# ***<font color=#0099ff>\*take note of</font>*** 
+# ***\*take note of*** 
 
 
   
@@ -31057,7 +31057,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 下次你和朋友聊天时，注意一下你的坐姿。  （2008 湖南改）  
 
 
-# ***<font color=#0099ff>\*take notes</font>*** 
+# ***\*take notes*** 
 
 
   
@@ -31070,7 +31070,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 你在课堂上做笔记了吗？    
 
 
-# ***<font color=#0099ff>\*take notice of</font>*** 
+# ***\*take notice of*** 
 
 
   
@@ -31083,7 +31083,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 你本该多加注意外面的告示。    
 
 
-# ***<font color=#0099ff>\*take off</font>*** 
+# ***\*take off*** 
 
 
   
@@ -31114,7 +31114,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 由于良好的创业环境，大学生开办的许多公司已有起色。  （2016 江苏）  
 
 
-# ***<font color=#0099ff>\*take on</font>*** 
+# ***\*take on*** 
 
 
   
@@ -31133,7 +31133,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 秘书会在他不在的时候接手他大部分的工作。  （2010 湖南改）  
 
 
-# ***<font color=#0099ff>\*take one's advice</font>*** 
+# ***\*take one's advice*** 
 
 
   
@@ -31146,7 +31146,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 我当初要是采纳了你的建议就好了。    
 
 
-# ***<font color=#0099ff>\*take one's seat</font>*** 
+# ***\*take one's seat*** 
 
 
   
@@ -31159,7 +31159,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 他们在小圆桌旁就座。    
 
 
-# ***<font color=#0099ff>\*take out</font>*** 
+# ***\*take out*** 
 
 
   
@@ -31183,7 +31183,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 每天清晨，史蒂文森都会带着全家去山上散步。  （2009 全国改）  
 
 
-# ***<font color=#0099ff>\*take over</font>*** 
+# ***\*take over*** 
 
 
   
@@ -31199,7 +31199,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 我替你开会儿车怎么样？    
 
 
-# ***<font color=#0099ff>\*take pains to do sth</font>*** 
+# ***\*take pains to do sth*** 
 
 
   
@@ -31212,7 +31212,7 @@ Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, 
  > 我们应该通过学习努力改善自己，并为将来作好准备。  （2015 福建书面表达）  
 
 
-# ***<font color=#0099ff>\*take part (in)</font>*** 
+# ***\*take part (in)*** 
 
 
   
@@ -31232,7 +31232,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 四者都常译为“参加”。  
 
 
-# ***<font color=#0099ff>\*take part in</font>*** 
+# ***\*take part in*** 
 
 
   
@@ -31252,7 +31252,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 四者都常译为“参加”。  
 
 
-# ***<font color=#0099ff>\*take place</font>*** 
+# ***\*take place*** 
 
 
   
@@ -31268,7 +31268,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 二者都可指“发生”。  
 
 
-# ***<font color=#0099ff>\*take possession of</font>*** 
+# ***\*take possession of*** 
 
 
   
@@ -31281,7 +31281,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我们已经买了房子，但要到五月份才能拿到。    
 
 
-# ***<font color=#0099ff>\*take pride in</font>*** 
+# ***\*take pride in*** 
 
 
   
@@ -31294,7 +31294,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 人们往往会为保持自己的街道清爽而感到自豪。  （2018 浙江）  
 
 
-# ***<font color=#0099ff>\*take risks (a risk)</font>*** 
+# ***\*take risks (a risk)*** 
 
 
   
@@ -31307,7 +31307,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 他觉得他必须考虑好每一步，而不能冒险。  （人教⑥ – 3）  
 
 
-# ***<font color=#0099ff>\*take sb / sth seriously</font>*** 
+# ***\*take sb / sth seriously*** 
 
 
   
@@ -31320,7 +31320,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 让我们把困难看做一种考验，认真地对待吧！    
 
 
-# ***<font color=#0099ff>\*take sb's fancy</font>*** 
+# ***\*take sb's fancy*** 
 
 
   
@@ -31333,7 +31333,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我不看电视也行，因为很少有节目能引起我的兴趣。  （2010 安徽书面表达）  
 
 
-# ***<font color=#0099ff>\*take sb. in one's arms</font>*** 
+# ***\*take sb. in one's arms*** 
 
 
   
@@ -31343,7 +31343,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**拥抱某人**  
 
 
-# ***<font color=#0099ff>\*take shape</font>*** 
+# ***\*take shape*** 
 
 
   
@@ -31356,7 +31356,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 一个想法开始在他的脑海中形成。    
 
 
-# ***<font color=#0099ff>\*take sth into consideration</font>*** 
+# ***\*take sth into consideration*** 
 
 
   
@@ -31372,7 +31372,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 如果您能考虑我的建议，我将不胜感激。  （2015 上海书面表达）  
 
 
-# ***<font color=#0099ff>\*take the lead</font>*** 
+# ***\*take the lead*** 
 
 
   
@@ -31385,7 +31385,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 比赛快结束时，他领先了。  （2011 辽宁）  
 
 
-# ***<font color=#0099ff>\*take the place of</font>*** 
+# ***\*take the place of*** 
 
 
   
@@ -31401,7 +31401,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 她不能出席会议，所以她的助手代替了她。    
 
 
-# ***<font color=#0099ff>\*take the trouble to do sth</font>*** 
+# ***\*take the trouble to do sth*** 
 
 
   
@@ -31414,7 +31414,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 父母给了我生命并含辛茹苦地把我养大。  （2009 福建书面表达改）  
 
 
-# ***<font color=#0099ff>\*take to</font>*** 
+# ***\*take to*** 
 
 
   
@@ -31430,7 +31430,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我养成了6点起床去慢跑的习惯。    
 
 
-# ***<font color=#0099ff>\*take trouble doing / to do sth</font>*** 
+# ***\*take trouble doing / to do sth*** 
 
 
   
@@ -31443,7 +31443,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 这项工作做得很糟糕，他没有尽心尽力地去做。    
 
 
-# ***<font color=#0099ff>\*take turns</font>*** 
+# ***\*take turns*** 
 
 
   
@@ -31461,7 +31461,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我们轮流做家务。    
 
 
-# ***<font color=#0099ff>\*take up</font>*** 
+# ***\*take up*** 
 
 
   
@@ -31494,7 +31494,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 里克接受了挑战，独自骑行250英里。    
 
 
-# ***<font color=#0099ff>\*take your time</font>*** 
+# ***\*take your time*** 
 
 
   
@@ -31504,7 +31504,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**别着急**  
 
 
-# ***<font color=#0099ff>\*take … for granted</font>*** 
+# ***\*take … for granted*** 
 
 
   
@@ -31517,7 +31517,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我们中的有些人总是理所当然地认为，父母或者祖父母应该照顾我们。  （2009 重庆）  
 
 
-# ***<font color=#0099ff>\*take…into account</font>*** 
+# ***\*take…into account*** 
 
 
   
@@ -31527,7 +31527,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**把……考虑进去**  
 
 
-# ***<font color=#0099ff>\*talk ... into / out of (doing) sth</font>*** 
+# ***\*talk ... into / out of (doing) sth*** 
 
 
   
@@ -31540,7 +31540,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我本不想移居国外，但是比尔把我说服了。    
 
 
-# ***<font color=#0099ff>\*talk over</font>*** 
+# ***\*talk over*** 
 
 
   
@@ -31553,7 +31553,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 有时我会充当同学们的听众，聊一聊他们的烦恼。  （2015 湖南）  
 
 
-# ***<font color=#0099ff>\*talk show</font>*** 
+# ***\*talk show*** 
 
 
   
@@ -31563,7 +31563,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**谈话节目, 现场访谈**  
 
 
-# ***<font color=#0099ff>\*talk sth. over with sb.</font>*** 
+# ***\*talk sth. over with sb.*** 
 
 
   
@@ -31573,7 +31573,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**与……详细讨论……**  
 
 
-# ***<font color=#0099ff>\*tap dancing</font>*** 
+# ***\*tap dancing*** 
 
 
   
@@ -31583,7 +31583,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**踢踏舞**  
 
 
-# ***<font color=#0099ff>\*teach sb a lesson</font>*** 
+# ***\*teach sb a lesson*** 
 
 
   
@@ -31593,7 +31593,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**给某人一个教训**  
 
 
-# ***<font color=#0099ff>\*team up with</font>*** 
+# ***\*team up with*** 
 
 
   
@@ -31606,7 +31606,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 如果你愿意的话，可以找一个同学组成一组。    
 
 
-# ***<font color=#0099ff>\*tear down</font>*** 
+# ***\*tear down*** 
 
 
   
@@ -31619,7 +31619,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 尽早拆除这堵危墙，否则不知什么时候它会倒塌并伤到你的家人。    
 
 
-# ***<font color=#0099ff>\*tear up</font>*** 
+# ***\*tear up*** 
 
 
   
@@ -31635,7 +31635,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 大风把树连根拔起。    
 
 
-# ***<font color=#0099ff>\*tell ... apart</font>*** 
+# ***\*tell ... apart*** 
 
 
   
@@ -31645,7 +31645,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**区分开**  
 
 
-# ***<font color=#0099ff>\*tell a lie</font>*** 
+# ***\*tell a lie*** 
 
 
   
@@ -31655,7 +31655,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**说谎**  
 
 
-# ***<font color=#0099ff>\*tell by</font>*** 
+# ***\*tell by*** 
 
 
   
@@ -31668,7 +31668,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 从他的衣服式样我可以看出他不是个穷人。    
 
 
-# ***<font color=#0099ff>\*tell jokes</font>*** 
+# ***\*tell jokes*** 
 
 
   
@@ -31681,7 +31681,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 他喜欢讲笑话。    
 
 
-# ***<font color=#0099ff>\*tend to</font>*** 
+# ***\*tend to*** 
 
 
   
@@ -31694,7 +31694,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 机遇和成功往往青睐那些有准备的人。    
 
 
-# ***<font color=#0099ff>\*tend to / toward(s) sth</font>*** 
+# ***\*tend to / toward(s) sth*** 
 
 
   
@@ -31707,7 +31707,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我所听的音乐形形色色，不过一般都是轻音乐。    
 
 
-# ***<font color=#0099ff>\*tend to do sth</font>*** 
+# ***\*tend to do sth*** 
 
 
   
@@ -31724,7 +31724,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 读者往往分享那些令人兴奋或者有趣的文章。  （2016 全国）  
 
 
-# ***<font color=#0099ff>\*test out</font>*** 
+# ***\*test out*** 
 
 
   
@@ -31737,7 +31737,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 李博士设计了一系列实验来检验他的理论。    
 
 
-# ***<font color=#0099ff>\*text message</font>*** n
+# ***\*text message*** n
 
 
   
@@ -31750,7 +31750,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 短信    
 
 
-# ***<font color=#0099ff>\*thanks to</font>*** 
+# ***\*thanks to*** 
 
 
   
@@ -31763,7 +31763,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 多亏他的帮助，我的演讲才如此成功，人人都为我喝彩。  （2012 湖南书面表达改）  
 
 
-# ***<font color=#0099ff>\*that is to say</font>*** 
+# ***\*that is to say*** 
 
 
   
@@ -31776,7 +31776,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 他们是两周前，也就是7月27日动身的。    
 
 
-# ***<font color=#0099ff>\*the Amazon Jungle</font>*** 
+# ***\*the Amazon Jungle*** 
 
 
   
@@ -31786,7 +31786,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.*高义频：* **亚马孙河热带丛林**  
 
 
-# ***<font color=#0099ff>\*the Andes mountains</font>*** 
+# ***\*the Andes mountains*** 
 
 
   
@@ -31796,7 +31796,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.*高义频：* **安第斯山脉**  
 
 
-# ***<font color=#0099ff>\*the Antarctic</font>*** 
+# ***\*the Antarctic*** 
 
 
   
@@ -31806,7 +31806,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**南极洲**  
 
 
-# ***<font color=#0099ff>\*the Arctic</font>*** 
+# ***\*the Arctic*** 
 
 
 | 词频 1 |  
@@ -31816,7 +31816,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.*高义频：* **北极**  
 
 
-# ***<font color=#0099ff>\*the Arctic Circle</font>*** n
+# ***\*the Arctic Circle*** n
 
 
   
@@ -31826,7 +31826,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**北极圈**  
 
 
-# ***<font color=#0099ff>\*the Big Dipper</font>*** 
+# ***\*the Big Dipper*** 
 
 
   
@@ -31836,7 +31836,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**北斗七星**  
 
 
-# ***<font color=#0099ff>\*the Dragon Boat Festival</font>*** 
+# ***\*the Dragon Boat Festival*** 
 
 
   
@@ -31846,7 +31846,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**端午节**  
 
 
-# ***<font color=#0099ff>\*the Foundation trilogy</font>*** 
+# ***\*the Foundation trilogy*** 
 英音 ðə faʊn'deɪʃn 'trɪlədʒi     美音 ðə faʊn'deɪʃn 'trɪlədʒi  
 
 | 词频 1 |  
@@ -31856,7 +31856,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.*高义频：* **《基地》 三部曲**  
 
 
-# ***<font color=#0099ff>\*the International Olympic Committee / IOC</font>*** 
+# ***\*the International Olympic Committee / IOC*** 
 
 
   
@@ -31866,7 +31866,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**国际奥林匹克委员会**  
 
 
-# ***<font color=#0099ff>\*the Lantern Festival</font>*** 
+# ***\*the Lantern Festival*** 
 
 
   
@@ -31876,7 +31876,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**元宵节**  
 
 
-# ***<font color=#0099ff>\*the Little Dipper</font>*** 
+# ***\*the Little Dipper*** 
 
 
   
@@ -31886,7 +31886,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**小北斗七星**  
 
 
-# ***<font color=#0099ff>\*the Middle East</font>*** n
+# ***\*the Middle East*** n
 
 
   
@@ -31896,7 +31896,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**中东，中东地区**  
 
 
-# ***<font color=#0099ff>\*the Milky Way</font>*** 
+# ***\*the Milky Way*** 
 
 
   
@@ -31906,7 +31906,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.*高义频：* **银河**  
 
 
-# ***<font color=#0099ff>\*the Monkees</font>*** 
+# ***\*the Monkees*** 
 英音 ðə mɔŋki:z     美音 ðə mɔŋki:z  
 
 | 词频 1 |  
@@ -31916,7 +31916,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.*高义频：* **门基乐队**  
 
 
-# ***<font color=#0099ff>\*the Norman Conquest</font>*** 
+# ***\*the Norman Conquest*** 
 
 
   
@@ -31926,7 +31926,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**诺曼征服（诺曼人对英格兰的军事征服）**  
 
 
-# ***<font color=#0099ff>\*the North Pole</font>*** n
+# ***\*the North Pole*** n
 
 
   
@@ -31939,7 +31939,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 在北极    
 
 
-# ***<font color=#0099ff>\*the Pentagon</font>*** 
+# ***\*the Pentagon*** 
 
 
   
@@ -31949,7 +31949,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**(美国) 五角大楼**  
 
 
-# ***<font color=#0099ff>\*the Renaissance</font>*** 
+# ***\*the Renaissance*** 
 英音 ðə rɪ'neɪsns     美音 ðə 'renəsɑːns  
 
 | 词频 1 |  
@@ -31959,7 +31959,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.*高义频：* **文艺复兴 (时期)**  
 
 
-# ***<font color=#0099ff>\*the Rocky Mountains</font>*** 
+# ***\*the Rocky Mountains*** 
 英音 ðə 'rɒki 'maʊntɪns     美音 ðə 'rɑːki 'maʊntɪns  
 
 | 词频 1 |  
@@ -31969,7 +31969,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.*高义频：* **落基山脉**  
 
 
-# ***<font color=#0099ff>\*the Statue of Liberty</font>*** 
+# ***\*the Statue of Liberty*** 
 
 
   
@@ -31979,7 +31979,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**自由女神像**  
 
 
-# ***<font color=#0099ff>\*the Tube</font>*** 
+# ***\*the Tube*** 
 
 
   
@@ -31989,7 +31989,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**（伦敦的）地下铁道，地铁**  
 
 
-# ***<font color=#0099ff>\*the Union Jack</font>*** 
+# ***\*the Union Jack*** 
 英音 ðə 'juːniən dʒæk     美音 ðə 'juːniən dʒæk  
 
 | 词频 1 |  
@@ -31999,7 +31999,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.*高义频：* **英国国旗**  
 
 
-# ***<font color=#0099ff>\*the United Nations</font>*** 
+# ***\*the United Nations*** 
 
 
   
@@ -32009,7 +32009,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**联合国**  
 
 
-# ***<font color=#0099ff>\*the Vatican City State</font>*** 
+# ***\*the Vatican City State*** 
 英音 ðə 'vætikən 'sɪti steɪt     美音 ðə 'vætikən 'sɪti steɪt  
 
 | 词频 1 |  
@@ -32019,7 +32019,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.*高义频：* **梵蒂冈城国**  
 
 
-# ***<font color=#0099ff>\*the apple of sb's eye</font>*** 
+# ***\*the apple of sb's eye*** 
 
 
   
@@ -32029,7 +32029,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**某人的掌上明珠 / 心肝宝贝：**  
 
 
-# ***<font color=#0099ff>\*the case</font>*** 
+# ***\*the case*** 
 
 
   
@@ -32045,7 +32045,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 有一种误解是爆米花不含热量，然而事实并非如此。  （2012 上海）  
 
 
-# ***<font color=#0099ff>\*the chances are (that)</font>*** 
+# ***\*the chances are (that)*** 
 
 
   
@@ -32058,7 +32058,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 如果你邀请她，很可能她会拒绝。    
 
 
-# ***<font color=#0099ff>\*the charts</font>*** n
+# ***\*the charts*** n
 
 
   
@@ -32068,7 +32068,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**每周流行唱片排行榜**  
 
 
-# ***<font color=#0099ff>\*the elements</font>*** 
+# ***\*the elements*** 
 
 
   
@@ -32078,7 +32078,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**天气（尤指坏天气）**  
 
 
-# ***<font color=#0099ff>\*the following</font>*** 
+# ***\*the following*** 
 
 
   
@@ -32091,7 +32091,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 下面是关于BBC和其他一些英国广播电台的介绍。    
 
 
-# ***<font color=#0099ff>\*the former ... the latter</font>*** 
+# ***\*the former ... the latter*** 
 
 
   
@@ -32104,7 +32104,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 约翰和詹姆斯是兄弟，前者是老师，后者是工程师。    
 
 
-# ***<font color=#0099ff>\*the humanities</font>*** 
+# ***\*the humanities*** 
 
 
   
@@ -32114,7 +32114,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**人文学科 (the arts)**  
 
 
-# ***<font color=#0099ff>\*the instant (that)</font>*** 
+# ***\*the instant (that)*** 
 
 
   
@@ -32127,7 +32127,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 她一停止问问题，我就起身走出了房间。  （北师大⑤ – 14）  
 
 
-# ***<font color=#0099ff>\*the last / final straw</font>*** 
+# ***\*the last / final straw*** 
 
 
   
@@ -32137,7 +32137,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**最后一根稻草；最后一击**  
 
 
-# ***<font color=#0099ff>\*the last minute</font>*** 
+# ***\*the last minute*** 
 
 
   
@@ -32150,7 +32150,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 你就是喜欢把事情拖到最后一刻。  （2010 湖北）  
 
 
-# ***<font color=#0099ff>\*the last straw</font>*** 
+# ***\*the last straw*** 
 
 
   
@@ -32160,7 +32160,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**（一系列烦恼、打击之外）最后使人受不了的事**  
 
 
-# ***<font color=#0099ff>\*the latest</font>*** 
+# ***\*the latest*** 
 
 
   
@@ -32176,7 +32176,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 你听到最新消息了吗？    
 
 
-# ***<font color=#0099ff>\*the media</font>*** 
+# ***\*the media*** 
 
 
   
@@ -32186,7 +32186,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.*高义频：* **大众传播媒体 (如电视、报纸等)**  
 
 
-# ***<font color=#0099ff>\*the minute / moment (that)</font>*** 
+# ***\*the minute / moment (that)*** 
 
 
   
@@ -32199,7 +32199,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 他一看到我脸就红了。    
 
 
-# ***<font color=#0099ff>\*the moment (that)</font>*** 
+# ***\*the moment (that)*** 
 
 
   
@@ -32215,7 +32215,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 小心！这台机器一按按钮就会启动。  （2011 湖北）  
 
 
-# ***<font color=#0099ff>\*the more ..., the more ...</font>*** 
+# ***\*the more ..., the more ...*** 
 
 
   
@@ -32231,7 +32231,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我读的书越多，学到的知识也越多。  （外研① – 5）  
 
 
-# ***<font color=#0099ff>\*the other day</font>*** 
+# ***\*the other day*** 
 
 
   
@@ -32244,7 +32244,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 前几天我碰到他的时候，他正好下班回来，看上去很兴奋。  （译林⑤ – 3）  
 
 
-# ***<font color=#0099ff>\*the same ... as</font>*** 
+# ***\*the same ... as*** 
 
 
   
@@ -32254,7 +32254,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**与……情况相同**  
 
 
-# ***<font color=#0099ff>\*the sooner / bigger / smaller, the better</font>*** 
+# ***\*the sooner / bigger / smaller, the better*** 
 
 
   
@@ -32264,7 +32264,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**越 (快 / 大 / 小) 越好**  
 
 
-# ***<font color=#0099ff>\*then / there again</font>*** 
+# ***\*then / there again*** 
 
 
   
@@ -32277,7 +32277,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 父母们觉得很难与青少年一起生活。不过，青少年对父母也有相似的感受。  （2014 广东）  
 
 
-# ***<font color=#0099ff>\*there is a / no future in sth</font>*** 
+# ***\*there is a / no future in sth*** 
 
 
   
@@ -32290,7 +32290,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 他觉得务农没有前途。    
 
 
-# ***<font color=#0099ff>\*there is no sense in (doing) sth</font>*** 
+# ***\*there is no sense in (doing) sth*** 
 
 
   
@@ -32303,7 +32303,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 现在没有必要为这件事烦恼。    
 
 
-# ***<font color=#0099ff>\*there's no doing sth</font>*** 
+# ***\*there's no doing sth*** 
 
 
   
@@ -32319,7 +32319,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 关于全球化有一点是可以确定的，那就是它不可逆转。  （2013 上海）  
 
 
-# ***<font color=#0099ff>\*there's nothing like</font>*** 
+# ***\*there's nothing like*** 
 
 
   
@@ -32332,7 +32332,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 炎热的日子里，什么都比不上喝杯冰镇饮料。    
 
 
-# ***<font color=#0099ff>\*these days</font>*** 
+# ***\*these days*** 
 
 
   
@@ -32345,7 +32345,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 如你所见，如今路上的车辆越来越多。  （2006 全国）  
 
 
-# ***<font color=#0099ff>\*think about</font>*** 
+# ***\*think about*** 
 
 
   
@@ -32358,7 +32358,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 改变审视自我的方式是改变自我形象的关键。  （2008 广东改）  
 
 
-# ***<font color=#0099ff>\*think back to</font>*** 
+# ***\*think back to*** 
 
 
   
@@ -32368,7 +32368,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**回想**  
 
 
-# ***<font color=#0099ff>\*think highly of</font>*** 
+# ***\*think highly of*** 
 
 
   
@@ -32381,7 +32381,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我们应该对他高度评价，因为他总是把别人的利益放在首位。    
 
 
-# ***<font color=#0099ff>\*think of</font>*** 
+# ***\*think of*** 
 
 
   
@@ -32408,7 +32408,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 许多人认为杰克逊先生适合做总裁。    
 
 
-# ***<font color=#0099ff>\*think of ... as ...</font>*** 
+# ***\*think of ... as ...*** 
 
 
   
@@ -32424,7 +32424,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我认为他是个快乐的、有许多朋友的人。    
 
 
-# ***<font color=#0099ff>\*think over</font>*** 
+# ***\*think over*** 
 
 
   
@@ -32437,7 +32437,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我会慎重考虑你的建议，并在一两天内把我的决定告诉你。    
 
 
-# ***<font color=#0099ff>\*think up</font>*** 
+# ***\*think up*** 
 
 
   
@@ -32450,7 +32450,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 但愿我能想出一些方法，使他们相信自己错了。    
 
 
-# ***<font color=#0099ff>\*this minute</font>*** 
+# ***\*this minute*** 
 
 
   
@@ -32463,7 +32463,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 马上下来。    
 
 
-# ***<font color=#0099ff>\*thousands of</font>*** 
+# ***\*thousands of*** 
 
 
   
@@ -32476,7 +32476,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 成千上万的人离开乡村到城里工作。  （外研③ – 5）  
 
 
-# ***<font color=#0099ff>\*throw / cast light on / upon</font>*** 
+# ***\*throw / cast light on / upon*** 
 
 
   
@@ -32489,7 +32489,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 这本书使人了解全球气候变化带来的影响。    
 
 
-# ***<font color=#0099ff>\*throw away</font>*** 
+# ***\*throw away*** 
 
 
   
@@ -32508,7 +32508,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 这是你最好的机会，把握住，别放过。    
 
 
-# ***<font color=#0099ff>\*throw light on</font>*** 
+# ***\*throw light on*** 
 
 
   
@@ -32518,7 +32518,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**帮助弄清楚；阐明某事**  
 
 
-# ***<font color=#0099ff>\*throw off</font>*** 
+# ***\*throw off*** 
 
 
   
@@ -32534,7 +32534,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 他匆忙脱下外衣，开始工作。    
 
 
-# ***<font color=#0099ff>\*throw oneself into</font>*** 
+# ***\*throw oneself into*** 
 
 
   
@@ -32547,7 +32547,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 当蔬菜被送来的时候，父亲全身心地投入到烹饪当中。  （2015 四川）  
 
 
-# ***<font color=#0099ff>\*throw oneself on</font>*** 
+# ***\*throw oneself on*** 
 
 
   
@@ -32563,7 +32563,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我就靠你来帮我赢得这场比赛了。    
 
 
-# ***<font color=#0099ff>\*throw oneself on ...</font>*** 
+# ***\*throw oneself on ...*** 
 
 
   
@@ -32579,7 +32579,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我就靠你来帮我赢得这场比赛了。    
 
 
-# ***<font color=#0099ff>\*throw out</font>*** 
+# ***\*throw out*** 
 
 
   
@@ -32595,7 +32595,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 如果不付房租，你就会被赶出去。    
 
 
-# ***<font color=#0099ff>\*throw the baby out with the bathwater</font>*** 
+# ***\*throw the baby out with the bathwater*** 
 
 
   
@@ -32605,7 +32605,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**不分良莠一起抛弃**  
 
 
-# ***<font color=#0099ff>\*throw up</font>*** 
+# ***\*throw up*** 
 
 
   
@@ -32618,7 +32618,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 恐惧地举起双手    
 
 
-# ***<font color=#0099ff>\*tick all the right boxes</font>*** 
+# ***\*tick all the right boxes*** 
 
 
   
@@ -32628,7 +32628,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**事情发展如人所愿,一切顺利**  
 
 
-# ***<font color=#0099ff>\*tie up</font>*** 
+# ***\*tie up*** 
 
 
   
@@ -32641,7 +32641,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 苏珊把绳子递给他，让他能绑好盒子。  （人教⑨ – 4）  
 
 
-# ***<font color=#0099ff>\*tighten one's belt</font>*** 
+# ***\*tighten one's belt*** 
 
 
   
@@ -32651,7 +32651,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**[非正式用语] 勒紧裤腰带过日子**  
 
 
-# ***<font color=#0099ff>\*till now</font>*** 
+# ***\*till now*** 
 
 
   
@@ -32664,7 +32664,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 今年冬天，直到现在天气都很好。    
 
 
-# ***<font color=#0099ff>\*time after time / time and (time) again</font>*** 
+# ***\*time after time / time and (time) again*** 
 
 
   
@@ -32677,7 +32677,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我反复听这个句子，但还是不明白它的意思。    
 
 
-# ***<font color=#0099ff>\*tire out</font>*** 
+# ***\*tire out*** 
 
 
   
@@ -32687,7 +32687,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**使精疲力竭**  
 
 
-# ***<font color=#0099ff>\*to (the best of) sb's knowledge</font>*** 
+# ***\*to (the best of) sb's knowledge*** 
 
 
   
@@ -32697,7 +32697,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**据某人所知**  
 
 
-# ***<font color=#0099ff>\*to / till the last</font>*** 
+# ***\*to / till the last*** 
 
 
   
@@ -32710,7 +32710,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 他们战斗到最后一刻。    
 
 
-# ***<font color=#0099ff>\*to a (certain) degree / to some degree</font>*** 
+# ***\*to a (certain) degree / to some degree*** 
 
 
   
@@ -32723,7 +32723,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 在一定程度上，这是个逻辑问题。  （2011 北京）  
 
 
-# ***<font color=#0099ff>\*to a certain extent</font>*** 
+# ***\*to a certain extent*** 
 
 
   
@@ -32733,7 +32733,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**在某种程度上**  
 
 
-# ***<font color=#0099ff>\*to be continued</font>*** 
+# ***\*to be continued*** 
 
 
   
@@ -32743,7 +32743,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**未完待续**  
 
 
-# ***<font color=#0099ff>\*to be exact</font>*** 
+# ***\*to be exact*** 
 
 
   
@@ -32756,7 +32756,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我读到一篇有关纸的文章，确切地说，是关于美国人每年用纸量的文章。    
 
 
-# ***<font color=#0099ff>\*to be honest</font>*** 
+# ***\*to be honest*** 
 
 
   
@@ -32769,7 +32769,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 老实说，我认为自己没帮上多少忙。  （2008 四川）  
 
 
-# ***<font color=#0099ff>\*to be sure</font>*** 
+# ***\*to be sure*** 
 
 
   
@@ -32782,7 +32782,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 她固然不是十全十美，但很漂亮。    
 
 
-# ***<font color=#0099ff>\*to begin with</font>*** 
+# ***\*to begin with*** 
 
 
   
@@ -32795,7 +32795,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 首先，要有积极的态度，这点很重要  （人教③ – 12）  
 
 
-# ***<font color=#0099ff>\*to come</font>*** 
+# ***\*to come*** 
 
 
   
@@ -32808,7 +32808,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 在睡眠时，你的身体在为迎接新的一天做着准备。  （译林① – 3）  
 
 
-# ***<font color=#0099ff>\*to date</font>*** 
+# ***\*to date*** 
 
 
   
@@ -32821,7 +32821,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我认为把我们到目前为止的花费统计一下是明智的。    
 
 
-# ***<font color=#0099ff>\*to one's astonishment</font>*** 
+# ***\*to one's astonishment*** 
 
 
   
@@ -32834,7 +32834,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 令我惊讶的是，他竟然这样没有礼貌。    
 
 
-# ***<font color=#0099ff>\*to one's credit</font>*** 
+# ***\*to one's credit*** 
 
 
   
@@ -32847,7 +32847,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 值得赞扬的是这四个国家在很多领域共同协作，但在制度上它们还是大不相同。  （人教⑤ – 2）  
 
 
-# ***<font color=#0099ff>\*to one's heart's content</font>*** 
+# ***\*to one's heart's content*** 
 
 
   
@@ -32857,7 +32857,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**尽情地,心满意足地**  
 
 
-# ***<font color=#0099ff>\*to one's surprise</font>*** 
+# ***\*to one's surprise*** 
 
 
   
@@ -32870,7 +32870,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 让我惊讶的是，他们中很多人表示失望。  （2008 湖北）  
 
 
-# ***<font color=#0099ff>\*to sb's credit</font>*** 
+# ***\*to sb's credit*** 
 
 
   
@@ -32883,7 +32883,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 值得赞扬的是这四个国家在很多领域共同协作，但在制度上它们还是大不相同。  （人教⑤ – 2）  
 
 
-# ***<font color=#0099ff>\*to sb's face</font>*** 
+# ***\*to sb's face*** 
 
 
   
@@ -32896,7 +32896,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 他们叫托尼“胖子”,但从未当面叫过他。    
 
 
-# ***<font color=#0099ff>\*to sb's horror / to the horror of sb</font>*** 
+# ***\*to sb's horror / to the horror of sb*** 
 
 
   
@@ -32909,12 +32909,12 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 令我感到惊恐的是，有个孩子从房顶上掉了下来。    
 
 
-# ***<font color=#0099ff>\*to sb's regret</font>*** 
+# ***\*to sb's regret*** 
 
 
   
 
-# ***<font color=#0099ff>\*to sb's satisfaction</font>*** 
+# ***\*to sb's satisfaction*** 
 
 
   
@@ -32927,7 +32927,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我通过了考试，心满意足。    
 
 
-# ***<font color=#0099ff>\*to sb's shame</font>*** 
+# ***\*to sb's shame*** 
 
 
   
@@ -32940,7 +32940,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 让我感到羞愧的是，由于粗心我犯了很多错误。    
 
 
-# ***<font color=#0099ff>\*to sb's surprise / to the surprise of sb</font>*** 
+# ***\*to sb's surprise / to the surprise of sb*** 
 
 
   
@@ -32953,7 +32953,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 让我惊讶的是，他们中很多人表示失望。  （2008 湖北）  
 
 
-# ***<font color=#0099ff>\*to some extent</font>*** 
+# ***\*to some extent*** 
 
 
   
@@ -32963,7 +32963,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 ### 1.**在…程度上**  
 
 
-# ***<font color=#0099ff>\*to start with</font>*** 
+# ***\*to start with*** 
 
 
   
@@ -32976,7 +32976,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 起初我相当紧张，但过了一会儿就好了。    
 
 
-# ***<font color=#0099ff>\*to tell (you) the truth</font>*** 
+# ***\*to tell (you) the truth*** 
 
 
   
@@ -32989,7 +32989,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 老实说，我很担心下个月的期末考试。    
 
 
-# ***<font color=#0099ff>\*to the best of one's ability</font>*** 
+# ***\*to the best of one's ability*** 
 
 
   
@@ -33002,7 +33002,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我尽全力做好我的工作。    
 
 
-# ***<font color=#0099ff>\*to the contrary</font>*** 
+# ***\*to the contrary*** 
 
 
   
@@ -33015,7 +33015,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 除非有人反对，否则我会认为会议将准时召开。    
 
 
-# ***<font color=#0099ff>\*to the full / fullest</font>*** 
+# ***\*to the full / fullest*** 
 
 
   
@@ -33031,7 +33031,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 充分利用你的空闲时间很重要。    
 
 
-# ***<font color=#0099ff>\*to the point</font>*** 
+# ***\*to the point*** 
 
 
   
@@ -33048,7 +33048,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 我希望你能切入正题。    
 
 
-# ***<font color=#0099ff>\*to this day</font>*** 
+# ***\*to this day*** 
 
 
   
@@ -33061,7 +33061,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 走之前来不及跟你告别，我至今后悔不已。    
 
 
-# ***<font color=#0099ff>\*to … extent</font>*** 
+# ***\*to … extent*** 
 
 
   
@@ -33078,7 +33078,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
  > 他的成功在很大程度上得益于家人的支持。    
 
 
-# ***<font color=#0099ff>\*together with</font>*** 
+# ***\*together with*** 
 
 
   
@@ -33092,7 +33092,7 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 
 Notes: 句子的谓语动词应该与together with前面的主语保持人称与数的一致。  
 
-# ***<font color=#0099ff>\*toilet paper</font>*** n
+# ***\*toilet paper*** n
 
 
   
@@ -33105,7 +33105,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 一卷卫生纸    
 
 
-# ***<font color=#0099ff>\*touch down</font>*** 
+# ***\*touch down*** 
 
 
   
@@ -33118,7 +33118,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 中午前后，飞机终于在机场降落。    
 
 
-# ***<font color=#0099ff>\*touch on</font>*** 
+# ***\*touch on*** 
 
 
   
@@ -33128,7 +33128,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 ### 1.**谈及，涉及**  
 
 
-# ***<font color=#0099ff>\*tourist spot</font>*** n
+# ***\*tourist spot*** n
 
 
 | 词频 1 |  
@@ -33138,7 +33138,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 ### 1.**旅游景点**  
 
 
-# ***<font color=#0099ff>\*toy with</font>*** 
+# ***\*toy with*** 
 
 
   
@@ -33148,7 +33148,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 ### 1.**戏弄，摆弄；把……当作儿戏**  
 
 
-# ***<font color=#0099ff>\*track and field</font>*** 
+# ***\*track and field*** 
 
 
   
@@ -33158,7 +33158,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 ### 1.**田径**  
 
 
-# ***<font color=#0099ff>\*traffic jam</font>*** n
+# ***\*traffic jam*** n
 
 
   
@@ -33174,7 +33174,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 你是否碰到过交通阻塞？    
 
 
-# ***<font color=#0099ff>\*travel agent</font>*** 
+# ***\*travel agent*** 
 
 
   
@@ -33184,7 +33184,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 ### 1.*高义频：* **旅行代办人；旅行代理人**  
 
 
-# ***<font color=#0099ff>\*treat ... as</font>*** 
+# ***\*treat ... as*** 
 
 
   
@@ -33197,7 +33197,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 好的公众演讲训练应该把你当作一个有着个人习惯的特殊个体来对待。  （2013 全国）  
 
 
-# ***<font color=#0099ff>\*treat sb to</font>*** 
+# ***\*treat sb to*** 
 
 
   
@@ -33211,7 +33211,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 她孩子气地离开了医院，并给自己买了一盒巧克力糖吃。  （2010 湖南改）  
 
 
-# ***<font color=#0099ff>\*trial and error</font>*** 
+# ***\*trial and error*** 
 
 
   
@@ -33224,7 +33224,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 孩子们通过不断摸索来掌握技能。    
 
 
-# ***<font color=#0099ff>\*trip over</font>*** 
+# ***\*trip over*** 
 
 
   
@@ -33234,7 +33234,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 ### 1.**绊倒**  
 
 
-# ***<font color=#0099ff>\*trunk library</font>*** 
+# ***\*trunk library*** 
 
 
   
@@ -33244,7 +33244,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 ### 1.*高义频：* **箱式 (柜式) 图书馆**  
 
 
-# ***<font color=#0099ff>\*try on</font>*** 
+# ***\*try on*** 
 
 
   
@@ -33257,7 +33257,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 我去裁缝店试穿我的新衣服。    
 
 
-# ***<font color=#0099ff>\*try out</font>*** 
+# ***\*try out*** 
 
 
   
@@ -33270,7 +33270,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 试验一种设想    
 
 
-# ***<font color=#0099ff>\*try out for</font>*** 
+# ***\*try out for*** 
 
 
   
@@ -33283,7 +33283,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 班上的全体学生都参加了篮球选拔赛。    
 
 
-# ***<font color=#0099ff>\*tune in</font>*** 
+# ***\*tune in*** 
 
 
   
@@ -33296,7 +33296,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 收听一个电台    
 
 
-# ***<font color=#0099ff>\*turn a blind eye to</font>*** 
+# ***\*turn a blind eye to*** 
 
 
   
@@ -33306,7 +33306,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 ### 1.**对…视而不见**  
 
 
-# ***<font color=#0099ff>\*turn a deaf ear (to)</font>*** 
+# ***\*turn a deaf ear (to)*** 
 
 
   
@@ -33319,7 +33319,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 他们中的许多人对他的建议置之不理，即使他们知道他的建议是有益的。    
 
 
-# ***<font color=#0099ff>\*turn around</font>*** 
+# ***\*turn around*** 
 
 
   
@@ -33335,7 +33335,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 经过一年的努力，他使一个业绩糟糕的部门有了起色。    
 
 
-# ***<font color=#0099ff>\*turn around / round</font>*** 
+# ***\*turn around / round*** 
 
 
   
@@ -33351,7 +33351,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 经过一年的努力，他使一个业绩糟糕的部门有了起色。    
 
 
-# ***<font color=#0099ff>\*turn away</font>*** 
+# ***\*turn away*** 
 
 
   
@@ -33367,7 +33367,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 因礼堂满了，许多人被打发走了。    
 
 
-# ***<font color=#0099ff>\*turn back</font>*** 
+# ***\*turn back*** 
 
 
   
@@ -33384,7 +33384,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 人们又重新开始依靠自然资源生存。    
 
 
-# ***<font color=#0099ff>\*turn down</font>*** 
+# ***\*turn down*** 
 
 
   
@@ -33403,7 +33403,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 你已经好几个月没有工作了，怎么能拒绝这么好的一份工作呢？  （2014 浙江）  
 
 
-# ***<font color=#0099ff>\*turn in</font>*** 
+# ***\*turn in*** 
 
 
   
@@ -33419,7 +33419,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 她把在路上捡到的钱包上交了。    
 
 
-# ***<font color=#0099ff>\*turn into</font>*** 
+# ***\*turn into*** 
 
 
   
@@ -33435,7 +33435,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 新建的木屋排列在街道两旁，使这座古镇变成了仙境。  （2016 北京）  
 
 
-# ***<font color=#0099ff>\*turn off</font>*** 
+# ***\*turn off*** 
 
 
   
@@ -33448,7 +33448,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 人不在房间时把灯关掉。  （译林⑤ – 2）  
 
 
-# ***<font color=#0099ff>\*turn on</font>*** 
+# ***\*turn on*** 
 
 
   
@@ -33479,7 +33479,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 那两条狗突然撕咬起来。    
 
 
-# ***<font color=#0099ff>\*turn one's back to</font>*** 
+# ***\*turn one's back to*** 
 
 
   
@@ -33489,7 +33489,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 ### 1.**背对**  
 
 
-# ***<font color=#0099ff>\*turn out</font>*** 
+# ***\*turn out*** 
 
 
   
@@ -33518,7 +33518,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 许多人参加了聚会。    
 
 
-# ***<font color=#0099ff>\*turn over</font>*** 
+# ***\*turn over*** 
 
 
   
@@ -33544,7 +33544,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 她脑子里不断琢磨当天发生的事。    
 
 
-# ***<font color=#0099ff>\*turn round</font>*** 
+# ***\*turn round*** 
 
 
   
@@ -33554,7 +33554,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 ### 1.**转过身来**  
 
 
-# ***<font color=#0099ff>\*turn sb. off</font>*** 
+# ***\*turn sb. off*** 
 
 
   
@@ -33564,7 +33564,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 ### 1.**令人讨厌**  
 
 
-# ***<font color=#0099ff>\*turn to</font>*** 
+# ***\*turn to*** 
 
 
   
@@ -33580,7 +33580,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 遇到困难请向警察求助。  （2008 上海春）  
 
 
-# ***<font color=#0099ff>\*turn to somebody / something</font>*** 
+# ***\*turn to somebody / something*** 
 
 
   
@@ -33593,7 +33593,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 遇到困难时请向警察求助。  （2008 上海春）  
 
 
-# ***<font color=#0099ff>\*turn up</font>*** 
+# ***\*turn up*** 
 
 
   
@@ -33618,7 +33618,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 别为那封信担心，我相信会找到的。    
 
 
-# ***<font color=#0099ff>\*turning point</font>*** 
+# ***\*turning point*** 
 
 
   
@@ -33628,7 +33628,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 ### 1.**转折点**  
 
 
-# ***<font color=#0099ff>\*under age</font>*** 
+# ***\*under age*** 
 
 
   
@@ -33638,7 +33638,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 ### 1.**未到法定年龄**  
 
 
-# ***<font color=#0099ff>\*under construction</font>*** 
+# ***\*under construction*** 
 
 
   
@@ -33651,7 +33651,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 这座城市现有4条地铁线路，还有几条正在建设中。    
 
 
-# ***<font color=#0099ff>\*under control</font>*** 
+# ***\*under control*** 
 
 
   
@@ -33665,7 +33665,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 她通过节食和锻炼来控制体重。    
 
 
-# ***<font color=#0099ff>\*under pressure</font>*** 
+# ***\*under pressure*** 
 
 
   
@@ -33678,7 +33678,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 我练就一副在压力下保持镇静的本领。    
 
 
-# ***<font color=#0099ff>\*under repair</font>*** 
+# ***\*under repair*** 
 
 
   
@@ -33691,7 +33691,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 这座建于1432年的城堡正在修缮中。  （人教⑤ – 3）  
 
 
-# ***<font color=#0099ff>\*under the control of</font>*** 
+# ***\*under the control of*** 
 
 
   
@@ -33704,7 +33704,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 所有的学校都归教育部管辖。    
 
 
-# ***<font color=#0099ff>\*under the name of</font>*** 
+# ***\*under the name of*** 
 
 
   
@@ -33714,7 +33714,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 ### 1.**以…为别名**  
 
 
-# ***<font color=#0099ff>\*under the umbrella of</font>*** 
+# ***\*under the umbrella of*** 
 
 
   
@@ -33724,7 +33724,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 ### 1.**在……的保护下，在……的管理下**  
 
 
-# ***<font color=#0099ff>\*under way</font>*** 
+# ***\*under way*** 
 
 
   
@@ -33734,7 +33734,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 ### 1.**进行中**  
 
 
-# ***<font color=#0099ff>\*up and down</font>*** 
+# ***\*up and down*** 
 
 
   
@@ -33750,7 +33750,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 拉夫在房间里走来走去，看起来很着急。    
 
 
-# ***<font color=#0099ff>\*up close</font>*** 
+# ***\*up close*** 
 
 
   
@@ -33760,7 +33760,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 ### 1.**靠近地**  
 
 
-# ***<font color=#0099ff>\*up to</font>*** 
+# ***\*up to*** 
 
 
   
@@ -33786,7 +33786,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 这周末你打算做什么?  （北师大② – 4）  
 
 
-# ***<font color=#0099ff>\*up to date</font>*** 
+# ***\*up to date*** 
 
 
   
@@ -33799,7 +33799,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 这一款是最新的，也是最时尚的。  （译林⑦ – 1）  
 
 
-# ***<font color=#0099ff>\*up to now</font>*** 
+# ***\*up to now*** 
 
 
   
@@ -33812,7 +33812,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 到现在，我已经理解了老师所讲的全部内容。  （外研① – 4）  
 
 
-# ***<font color=#0099ff>\*up until</font>*** 
+# ***\*up until*** 
 
 
   
@@ -33825,7 +33825,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 平时只允许他们在晚上10点半之前放音乐，可是现在已经11点半了。  （2008 湖南）  
 
 
-# ***<font color=#0099ff>\*ups and downs</font>*** 
+# ***\*ups and downs*** 
 
 
   
@@ -33838,7 +33838,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 尽管起起伏伏，但她从不甘心任凭命运摆布。  （2008 福建）  
 
 
-# ***<font color=#0099ff>\*upside down</font>*** adv
+# ***\*upside down*** adv
 英音 'ʌpsaɪd 'daʊn     美音 'ʌpsaɪd 'daʊn  
 
 | 词频 1 |  
@@ -33851,7 +33851,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 倒挂在树上    
 
 
-# ***<font color=#0099ff>\*upwards of</font>*** 
+# ***\*upwards of*** 
 
 
   
@@ -33861,7 +33861,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 ### 1.**在……以上，大于，超过**  
 
 
-# ***<font color=#0099ff>\*use up</font>*** 
+# ***\*use up*** 
 
 
   
@@ -33877,7 +33877,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
  > 今日事，今日毕。    
 
 
-# ***<font color=#0099ff>\*used to</font>*** modal v
+# ***\*used to*** modal v
 英音 'juːst tə     美音 'juːst tə  
 
 | 词频 5 |  
@@ -33889,13 +33889,13 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 
 固定搭配
 ---
-## <font color=#0099ff>\*used to do sth </font>
+## \*used to do sth 
 1.**过去常常做某事：**  
 
  > *I used to play soccer with my brother every day. *  
  > 以前我每天都和哥哥踢足球。  （北师大⑦ – 19）  
 
-## <font color=#0099ff>\*used to be </font>
+## \*used to be 
 1.**过去是：**  
 
  > *I used to be a very self-centered person, but in the past two years I have really changed. *  
@@ -33912,7 +33912,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 你过去常到那里去，是吗？    
 
 
-# ***<font color=#0099ff>\*used to be</font>*** 
+# ***\*used to be*** 
 
 
   
@@ -33935,7 +33935,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 你过去常到那里去，是吗？    
 
 
-# ***<font color=#0099ff>\*used to do sth</font>*** 
+# ***\*used to do sth*** 
 
 
   
@@ -33948,7 +33948,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 以前我每天都和哥哥踢足球。  （北师大⑦ – 19）  
 
 
-# ***<font color=#0099ff>\*vary from ... to ...</font>*** 
+# ***\*vary from ... to ...*** 
 
 
   
@@ -33961,7 +33961,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 测验成绩各校不同。    
 
 
-# ***<font color=#0099ff>\*vice versa</font>*** 
+# ***\*vice versa*** 
 
 
   
@@ -33971,7 +33971,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**反过来也一样；反之亦然**  
 
 
-# ***<font color=#0099ff>\*virtual choir</font>*** 
+# ***\*virtual choir*** 
 
 
   
@@ -33981,7 +33981,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**虚拟合唱团**  
 
 
-# ***<font color=#0099ff>\*virtual reality</font>*** 
+# ***\*virtual reality*** 
 
 
   
@@ -33991,7 +33991,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**虚拟现实**  
 
 
-# ***<font color=#0099ff>\*volcanic eruption</font>*** 
+# ***\*volcanic eruption*** 
 英音 vɔl'kænɪk ɪ'rʌpʃən     美音 vɑl'kænɪk ɪ'rʌpʃən  
 
   
@@ -34001,7 +34001,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**火山爆发**  
 
 
-# ***<font color=#0099ff>\*wait a minute / moment / second</font>*** 
+# ***\*wait a minute / moment / second*** 
 
 
   
@@ -34011,7 +34011,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**等一会儿； 等一下**  
 
 
-# ***<font color=#0099ff>\*wait in line</font>*** 
+# ***\*wait in line*** 
 
 
   
@@ -34021,7 +34021,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**排队**  
 
 
-# ***<font color=#0099ff>\*waiting room</font>*** n
+# ***\*waiting room*** n
 
 
   
@@ -34031,7 +34031,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**候车室；等候室；候诊室**  
 
 
-# ***<font color=#0099ff>\*walk the dog</font>*** 
+# ***\*walk the dog*** 
 
 
   
@@ -34041,7 +34041,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**遛狗**  
 
 
-# ***<font color=#0099ff>\*walk up (to)</font>*** 
+# ***\*walk up (to)*** 
 
 
   
@@ -34051,7 +34051,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**走近**  
 
 
-# ***<font color=#0099ff>\*war memorial</font>*** 
+# ***\*war memorial*** 
 
 
   
@@ -34061,7 +34061,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**战争纪念碑**  
 
 
-# ***<font color=#0099ff>\*warm up</font>*** 
+# ***\*warm up*** 
 
 
   
@@ -34077,7 +34077,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 他看起来非常惊讶，接着他那沧桑的脸上露出了灿烂的笑容，显得很兴奋。  （2010 全国）  
 
 
-# ***<font color=#0099ff>\*wash away</font>*** 
+# ***\*wash away*** 
 
 
   
@@ -34091,7 +34091,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 洪水冲走了镇上的一些房屋。    
 
 
-# ***<font color=#0099ff>\*wash off</font>*** 
+# ***\*wash off*** 
 
 
   
@@ -34101,7 +34101,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**洗掉；洗去**  
 
 
-# ***<font color=#0099ff>\*wash up</font>*** 
+# ***\*wash up*** 
 
 
   
@@ -34114,7 +34114,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 今天轮到你洗碗。    
 
 
-# ***<font color=#0099ff>\*watch out</font>*** 
+# ***\*watch out*** 
 
 
   
@@ -34127,7 +34127,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 当心，这里有台阶。  （译林③ – 1）  
 
 
-# ***<font color=#0099ff>\*watch out (for)</font>*** 
+# ***\*watch out (for)*** 
 
 
   
@@ -34140,7 +34140,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 当心，这里有台阶。  （译林③ – 1）  
 
 
-# ***<font color=#0099ff>\*watch out for</font>*** 
+# ***\*watch out for*** 
 
 
   
@@ -34153,7 +34153,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 当心，这里有台阶。  （译林③ – 1）  
 
 
-# ***<font color=#0099ff>\*watch over</font>*** 
+# ***\*watch over*** 
 
 
   
@@ -34169,7 +34169,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 我生病期间，父母日夜照看我。    
 
 
-# ***<font color=#0099ff>\*water lily</font>*** n
+# ***\*water lily*** n
 
 
   
@@ -34179,7 +34179,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**睡莲**  
 
 
-# ***<font color=#0099ff>\*water skiing</font>*** n
+# ***\*water skiing*** n
 英音 'wɔːtəˌskiːɪŋ     美音 'wɔːtərˌskiːɪŋ  
 
 | 词频 1 |  
@@ -34189,7 +34189,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**滑水**  
 
 
-# ***<font color=#0099ff>\*wax disk</font>*** 
+# ***\*wax disk*** 
 英音 wæks dɪsk     美音 wæks dɪsk  
 
   
@@ -34199,7 +34199,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.*高义频：* **旧式唱片**  
 
 
-# ***<font color=#0099ff>\*wear off</font>*** 
+# ***\*wear off*** 
 
 
   
@@ -34209,7 +34209,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**逐渐减少；逐渐消失**  
 
 
-# ***<font color=#0099ff>\*wear out</font>*** 
+# ***\*wear out*** 
 
 
   
@@ -34230,7 +34230,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 三者均可作“穿”解，但意义、用法不同。  
 
 
-# ***<font color=#0099ff>\*wear somebody out</font>*** 
+# ***\*wear somebody out*** 
 
 
   
@@ -34243,7 +34243,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 这些鸟因过度鸣叫面临着累坏自己的危险。  （2015 四川改）  
 
 
-# ***<font color=#0099ff>\*wearable tech</font>*** 
+# ***\*wearable tech*** 
 
 
   
@@ -34253,7 +34253,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**可穿戴技术**  
 
 
-# ***<font color=#0099ff>\*web page</font>*** n
+# ***\*web page*** n
 
 
   
@@ -34266,7 +34266,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > (互联网的)网页    
 
 
-# ***<font color=#0099ff>\*what (…) for</font>*** 
+# ***\*what (…) for*** 
 
 
   
@@ -34282,7 +34282,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 你为什么要那么做呢？    
 
 
-# ***<font color=#0099ff>\*what a relief</font>*** 
+# ***\*what a relief*** 
 
 
   
@@ -34292,7 +34292,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**真叫人宽慰**  
 
 
-# ***<font color=#0099ff>\*what if</font>*** 
+# ***\*what if*** 
 
 
   
@@ -34305,7 +34305,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 火车要是晚点怎么办？    
 
 
-# ***<font color=#0099ff>\*what is more</font>*** 
+# ***\*what is more*** 
 
 
   
@@ -34318,7 +34318,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 他学习非常刻苦，更重要的是他乐于助人。    
 
 
-# ***<font color=#0099ff>\*what's more</font>*** 
+# ***\*what's more*** 
 
 
   
@@ -34328,7 +34328,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**更有甚者；更为重要的是**  
 
 
-# ***<font color=#0099ff>\*when it comes to (doing) sth</font>*** 
+# ***\*when it comes to (doing) sth*** 
 
 
   
@@ -34344,7 +34344,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 说到朋友，我渴望那些会分享我的快乐的人。  （2008 北京）  
 
 
-# ***<font color=#0099ff>\*when necessary</font>*** 
+# ***\*when necessary*** 
 
 
   
@@ -34357,7 +34357,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 军队需要必要时愿意投入战斗的人。    
 
 
-# ***<font color=#0099ff>\*when the cat's away (the mice will play)</font>*** 
+# ***\*when the cat's away (the mice will play)*** 
 
 
   
@@ -34367,7 +34367,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**猫儿不在，老鼠作怪（指管事的不在，下面的人玩个痛快）**  
 
 
-# ***<font color=#0099ff>\*white-flag dolphin</font>*** n
+# ***\*white-flag dolphin*** n
 
 
   
@@ -34377,7 +34377,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**白鳍豚**  
 
 
-# ***<font color=#0099ff>\*white-water rafting</font>*** n
+# ***\*white-water rafting*** n
 英音 ˌwaɪtˈwɔ:tə ˈrɑ:ftiŋ     美音 ˌwaɪtˈwɔ:tə ˈrɑ:ftiŋ  
 
 | 词频 1 |  
@@ -34387,7 +34387,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**白浪漂流，激浪漂流**  
 
 
-# ***<font color=#0099ff>\*why bother</font>*** 
+# ***\*why bother*** 
 
 
   
@@ -34397,7 +34397,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**何苦**  
 
 
-# ***<font color=#0099ff>\*why not</font>*** 
+# ***\*why not*** 
 
 
   
@@ -34418,7 +34418,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 好啊！    
 
 
-# ***<font color=#0099ff>\*win ... back</font>*** 
+# ***\*win ... back*** 
 
 
   
@@ -34428,7 +34428,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**赢回；重新获得**  
 
 
-# ***<font color=#0099ff>\*wind sb. up</font>*** 
+# ***\*wind sb. up*** 
 
 
   
@@ -34438,7 +34438,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**故意惹恼（某人；尤指开玩笑）**  
 
 
-# ***<font color=#0099ff>\*wind up</font>*** 
+# ***\*wind up*** 
 
 
   
@@ -34448,7 +34448,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**上发条**  
 
 
-# ***<font color=#0099ff>\*wipe out</font>*** 
+# ***\*wipe out*** 
 
 
   
@@ -34461,7 +34461,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 1997年的一次火山喷发差点把蒙塞拉特这个小岛给毁灭了。  （北师大⑧ – 22）  
 
 
-# ***<font color=#0099ff>\*wish for</font>*** 
+# ***\*wish for*** 
 
 
   
@@ -34471,7 +34471,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**盼望，企盼**  
 
 
-# ***<font color=#0099ff>\*with / in regard to sth</font>*** 
+# ***\*with / in regard to sth*** 
 
 
   
@@ -34484,7 +34484,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 关于他的建议，我们将充分讨论。    
 
 
-# ***<font color=#0099ff>\*with / without reason</font>*** 
+# ***\*with / without reason*** 
 
 
   
@@ -34497,7 +34497,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 他辩论得头头是道。    
 
 
-# ***<font color=#0099ff>\*with an average of</font>*** 
+# ***\*with an average of*** 
 
 
   
@@ -34507,7 +34507,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**平均为……**  
 
 
-# ***<font color=#0099ff>\*with attention</font>*** 
+# ***\*with attention*** 
 
 
   
@@ -34520,7 +34520,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 这位律师全神贯注地听着，竭力不漏掉任何要点。  （2010 四川）  
 
 
-# ***<font color=#0099ff>\*with pleasure</font>*** 
+# ***\*with pleasure*** 
 
 
   
@@ -34539,7 +34539,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 当然了，我很乐意来。    
 
 
-# ***<font color=#0099ff>\*with pride</font>*** 
+# ***\*with pride*** 
 
 
   
@@ -34552,7 +34552,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 回顾过去的成就，我感到很自豪。    
 
 
-# ***<font color=#0099ff>\*with respect to</font>*** 
+# ***\*with respect to*** 
 
 
   
@@ -34562,7 +34562,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
 ### 1.**关于；就…而言**  
 
 
-# ***<font color=#0099ff>\*with satisfaction</font>*** 
+# ***\*with satisfaction*** 
 
 
   
@@ -34575,7 +34575,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 他十分满意地看着学生们。    
 
 
-# ***<font color=#0099ff>\*with sb's help / with the help of sb</font>*** 
+# ***\*with sb's help / with the help of sb*** 
 
 
   
@@ -34588,7 +34588,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 在他们的帮助下，我取得了很大进步。  （2009 福建书面表达）  
 
 
-# ***<font color=#0099ff>\*with the help of</font>*** 
+# ***\*with the help of*** 
 
 
   
@@ -34601,7 +34601,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 根据提示编写一段对话。    
 
 
-# ***<font color=#0099ff>\*within limits</font>*** 
+# ***\*within limits*** 
 
 
   
@@ -34614,7 +34614,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 我愿意帮忙，可是有一定限度。    
 
 
-# ***<font color=#0099ff>\*without / beyond doubt</font>*** 
+# ***\*without / beyond doubt*** 
 
 
   
@@ -34627,7 +34627,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 毫无疑问，信息技术方面的工作会大大增加。  （北师大⑤ – 14）  
 
 
-# ***<font color=#0099ff>\*without a second thought</font>*** 
+# ***\*without a second thought*** 
 
 
   
@@ -34640,7 +34640,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 他不假思索地随她跳入水中。    
 
 
-# ***<font color=#0099ff>\*without fear (of sth)</font>*** 
+# ***\*without fear (of sth)*** 
 
 
   
@@ -34653,7 +34653,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 团队成员必须能够自由表达自己的观点，不怕被责备。  （2011 浙江）  
 
 
-# ***<font color=#0099ff>\*work on</font>*** 
+# ***\*work on*** 
 
 
   
@@ -34666,7 +34666,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 两年来他一直致力于撰写一本关于育儿的书。    
 
 
-# ***<font color=#0099ff>\*work out</font>*** 
+# ***\*work out*** 
 
 
   
@@ -34707,7 +34707,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 我一周去一次体育馆锻炼。    
 
 
-# ***<font color=#0099ff>\*worn out</font>*** 
+# ***\*worn out*** 
 
 
   
@@ -34723,7 +34723,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 逛了一天商店，我都累坏了。    
 
 
-# ***<font color=#0099ff>\*worse and worse</font>*** 
+# ***\*worse and worse*** 
 
 
   
@@ -34736,7 +34736,7 @@ Notes: used的否定式为used not或didn’t use，一般疑 问句可用used�
  > 天气变得越来越坏。    
 
 
-# ***<font color=#0099ff>\*would rather ... (than)</font>*** 
+# ***\*would rather ... (than)*** 
 
 
   
@@ -34765,7 +34765,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
  > 我真希望你没有把真相告诉我妈妈。    
 
 
-# ***<font color=#0099ff>\*wrap up</font>*** 
+# ***\*wrap up*** 
 
 
   
@@ -34775,7 +34775,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 ### 1.**结束**  
 
 
-# ***<font color=#0099ff>\*wrestle with something</font>*** 
+# ***\*wrestle with something*** 
 
 
   
@@ -34785,7 +34785,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 ### 1.**努力解决难以处理的事物**  
 
 
-# ***<font color=#0099ff>\*write back</font>*** 
+# ***\*write back*** 
 
 
   
@@ -34798,7 +34798,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
  > 我两星期前收到了他的信，但忘了给他回信。    
 
 
-# ***<font color=#0099ff>\*write down</font>*** 
+# ***\*write down*** 
 
 
   
@@ -34811,7 +34811,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
  > 我记下新单词，加入到我自己的词汇表里。    
 
 
-# ***<font color=#0099ff>\*year after year</font>*** 
+# ***\*year after year*** 
 
 
   
@@ -34824,7 +34824,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
  > 年复一年，为了还债他不得不拼命工作。    
 
 
-# ***<font color=#0099ff>\*year by year</font>*** 
+# ***\*year by year*** 
 
 
   
@@ -34837,7 +34837,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
  > 我父亲的身体一年比一年差。    
 
 
-# ***<font color=#0099ff>\*you see</font>*** 
+# ***\*you see*** 
 
 
   
@@ -34850,7 +34850,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
  > 要知道，人生的意义要以思想和行为来衡量，而非生命的长短。    
 
 
-# ***<font color=#0099ff>\*you're welcome</font>*** 
+# ***\*you're welcome*** 
 
 
   

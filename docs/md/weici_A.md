@@ -1,6 +1,6 @@
 # Aa
 
-# ***<font color=#0099ff>\*a</font>*** art
+# ***\*a*** art
 英音 ə; eɪ     美音 ə; eɪ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -53,7 +53,7 @@ A.a; the
 答案：
 1. an → a  2. the → a  3. 第一个a → an / one  4. the; a  5. a; the  
 
-# ***<font color=#0099ff>\*abacus</font>*** n
+# ***\*abacus*** n
 英音 'æbəkəs     美音 'æbəkəs  
 
 | 词频 1 |  
@@ -65,7 +65,7 @@ A.a; the
 ### 1.*高义频：* **算盘**  
 
 
-# ***<font color=#0099ff>\*abandon</font>*** vt
+# ***\*abandon*** vt
 英音 ə'bændən     美音 ə'bændən  
 
 | 词频 3 | 书面 1 | 阅读 3 |  
@@ -108,7 +108,7 @@ abandoned /ə'bændənd/ adj
  > 一辆共享单车被遗弃在公交车站。    
 
 
-# ***<font color=#0099ff>\*abandoned</font>*** adj
+# ***\*abandoned*** adj
 英音 ə'bændənd     美音 ə'bændənd  
 
 | 词频 3 |  
@@ -121,7 +121,7 @@ abandoned /ə'bændənd/ adj
  > 一辆共享单车被遗弃在公交车站。    
 
 
-# ***<font color=#0099ff>\*ability</font>*** n
+# ***\*ability*** n
 英音 ə'bɪləti     美音 ə'bɪləti  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -154,14 +154,14 @@ abandoned /ə'bændənd/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*to the best of one's ability</font>
+## \*to the best of one's ability
 1.**尽最大努力：**  
 
  > *I try to do my job to the best of my ability.*  
  > 我尽全力做好我的工作。    
 
 
-# ***<font color=#0099ff>\*able</font>*** adj
+# ***\*able*** adj
 英音 'eɪbl     美音 'eɪbl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -189,7 +189,7 @@ abandoned /ə'bændənd/ adj
 ---
 ably / 'eɪbl/ adv   
 
-# ***<font color=#0099ff>\*abnormal</font>*** adj
+# ***\*abnormal*** adj
 英音 æb'nɔːml     美音 æb'nɔːrml  
 
 | 词频 1 | 阅读 1 |  
@@ -202,7 +202,7 @@ ably / 'eɪbl/ adv
  > 反常行为    
 
 
-# ***<font color=#0099ff>\*aboard</font>*** adv
+# ***\*aboard*** adv
 英音 ə'bɔːd     美音 ə'bɔːrd  
 
 | 词频 1 |  
@@ -219,7 +219,7 @@ ably / 'eɪbl/ adv
  > 火车即将离站，请所有乘客上车！    
 
 
-# ***<font color=#0099ff>\*aboard</font>*** prep
+# ***\*aboard*** prep
 英音 ə'bɔːd     美音 ə'bɔːrd  
 
 | 词频 1 |  
@@ -232,7 +232,7 @@ ably / 'eɪbl/ adv
  > 欢迎乘坐飞往巴黎的BA98次航班！    
 
 
-# ***<font color=#0099ff>\*abolish</font>*** vt
+# ***\*abolish*** vt
 英音 ə'bɒlɪʃ     美音 ə'bɑːlɪʃ  
 
 | 词频 1 |  
@@ -242,7 +242,7 @@ ably / 'eɪbl/ adv
 ### 1.*高义频：* **废除；废止：**  
 
 
-# ***<font color=#0099ff>\*abolition</font>*** n
+# ***\*abolition*** n
 英音 ˌæbə'lɪʃn     美音 ˌæbə'lɪʃn  
 
 | 词频 1 |  
@@ -254,7 +254,7 @@ ably / 'eɪbl/ adv
 ### 1.*高义频：* **废除；废止**  
 
 
-# ***<font color=#0099ff>\*aborigine</font>*** n
+# ***\*aborigine*** n
 英音 ˌæbə'rɪdʒəni     美音 ˌæbə'rɪdʒəni  
 
 | 词频 1 |  
@@ -264,7 +264,7 @@ ably / 'eɪbl/ adv
 ### 1.**（澳大利亚）土著居民**  
 
 
-# ***<font color=#0099ff>\*abortion</font>*** n
+# ***\*abortion*** n
 英音 əˈbɔːʃn     美音 əˈbɔːrʃn  
 
 | 词频 1 |  
@@ -276,7 +276,7 @@ ably / 'eɪbl/ adv
 ### 1.*高义频：* **人工流产；堕胎**  
 
 
-# ***<font color=#0099ff>\*about</font>*** prep
+# ***\*about*** prep
 英音 əˈbaʊt     美音 əˈbaʊt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -308,7 +308,7 @@ ably / 'eɪbl/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*What / How about ...? </font>
+## \*What / How about ...? 
 1.**…怎么样？**  
 
  > *What / How about the weather in Qinghai Province?*  
@@ -325,7 +325,7 @@ ably / 'eɪbl/ adv
 答案：
 1. about  
 
-# ***<font color=#0099ff>\*about</font>*** adv
+# ***\*about*** adv
 英音 əˈbaʊt     美音 əˈbaʊt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -353,7 +353,7 @@ ably / 'eɪbl/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*be about to do sth </font>
+## \*be about to do sth 
 1.**正要 / 准备做某事：**  
 
  > *I was about to turn off my computer when I received an email. *  
@@ -368,7 +368,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 答案：
 1. when  
 
-# ***<font color=#0099ff>\*above</font>*** prep
+# ***\*above*** prep
 英音 əˈbʌv     美音 əˈbʌv  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -400,7 +400,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 
 固定搭配
 ---
-## <font color=#0099ff>\*above all</font>
+## \*above all
 1.**最重要的是；尤其：**  
 
  > *I’d like to buy a house — modern, comfortable, and above all in a quiet neighborhood. *  
@@ -416,7 +416,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 答案：
 1. above  2. above all  3. above  
 
-# ***<font color=#0099ff>\*above</font>*** adv
+# ***\*above*** adv
 英音 əˈbʌv     美音 əˈbʌv  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -438,7 +438,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 我希望上述内容会有帮助。    
 
 
-# ***<font color=#0099ff>\*above</font>*** adj
+# ***\*above*** adj
 英音 əˈbʌv     美音 əˈbʌv  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -451,7 +451,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 因为上述原因    
 
 
-# ***<font color=#0099ff>\*abroad</font>*** adv
+# ***\*abroad*** adv
 英音 əˈbrɔːd     美音 əˈbrɔːd  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -479,7 +479,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 她刚从国外回来。  （2015 重庆改）  
 
 
-# ***<font color=#0099ff>\*abrupt</font>*** adj
+# ***\*abrupt*** adj
 英音 əˈbrʌpt     美音 əˈbrʌpt  
 
 | 词频 1 |  
@@ -493,7 +493,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 天气的骤变    
 
 
-# ***<font color=#0099ff>\*abruptly</font>*** adv
+# ***\*abruptly*** adv
 英音 ə'brʌptli     美音 ə'brʌptli  
 
 | 词频 1 |  
@@ -503,7 +503,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 ### 1.*高义频：* **突然地；意外地**  
 
 
-# ***<font color=#0099ff>\*absence</font>*** n
+# ***\*absence*** n
 英音 ˈæbsəns     美音 ˈæbsəns  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -525,20 +525,20 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 
 固定搭配
 ---
-## <font color=#0099ff>\*in / during sb’s absence</font>
+## \*in / during sb’s absence
 1.**在某人不在时：**  
 
  > *In his absence I looked to see what was on his desk. *  
  > 趁他不在时，我看了看他桌上有什么东西。    
 
-## <font color=#0099ff>\*in the absence of </font>
+## \*in the absence of 
 1.**在缺乏…的情况下：**  
 
  > *In the absence of gray wolves, the deer population grew quickly.*  
  > 没有了灰狼，鹿的数量迅速增长  （2017 全国改）  
 
 
-# ***<font color=#0099ff>\*absent</font>*** adj
+# ***\*absent*** adj
 英音 ˈæbsənt     美音 ˈæbsənt  
 
 | 词频 2 | 阅读 1 |  
@@ -558,7 +558,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 有些国家终年无雪。    
 
 
-# ***<font color=#0099ff>\*absent-minded</font>*** adj
+# ***\*absent-minded*** adj
 英音 ˌæbsənt'maɪndɪd     美音 ˌæbsənt'maɪndɪd  
 
 | 词频 1 |  
@@ -571,7 +571,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 爷爷最近变得很健忘。    
 
 
-# ***<font color=#0099ff>\*absolute</font>*** adj
+# ***\*absolute*** adj
 英音 ˈæbsəluːt     美音 ˈæbsəluːt  
 
 | 词频 1 | 口语 2 | 书面 1 | 阅读 1 |  
@@ -587,7 +587,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 我完全信任她。    
 
 
-# ***<font color=#0099ff>\*absolutely</font>*** adv
+# ***\*absolutely*** adv
 英音 'æbsəlu:tli     美音 'æbsəlu:tli  
 
 | 词频 3 | 口语 3 | 书面 1 | 阅读 1 |  
@@ -621,7 +621,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 
 固定搭配
 ---
-## <font color=#0099ff>\*Absolutely! </font>
+## \*Absolutely! 
 1.**正是；当然：**  
 
  > *— They could have told us, couldn't they?*  
@@ -630,7 +630,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > *— Absolutely! *  
  > 正是！    
 
-## <font color=#0099ff>\*Absolutely not! </font>
+## \*Absolutely not! 
 1.**绝对不行；当然不：**  
 
  > *— Do you let your kids travel alone at night? *  
@@ -640,7 +640,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
  > 当然不!    
 
 
-# ***<font color=#0099ff>\*absorb</font>*** vt  重难点词汇
+# ***\*absorb*** vt  重难点词汇
 英音 əbˈsɔːb     美音 əbˈsɔːrb  
 
 | 词频 3 | 书面 1 | 阅读 3 |  
@@ -704,7 +704,7 @@ absorbed /əb'sɔːbd/ adj
 答案：
 1. Absorbed  
 
-# ***<font color=#0099ff>\*absorbed</font>*** adj
+# ***\*absorbed*** adj
 英音 əb'sɔːbd     美音 əb'sɔːrbd  
 
   
@@ -714,7 +714,7 @@ absorbed /əb'sɔːbd/ adj
 ### 1.**专心致志的**  
 
 
-# ***<font color=#0099ff>\*abstract</font>*** adj
+# ***\*abstract*** adj
 英音 ˈæbstrækt     美音 ˈæbstrækt  
 
 | 词频 1 | 阅读 1 |  
@@ -728,7 +728,7 @@ absorbed /əb'sɔːbd/ adj
  > 抽象概念    
 
 
-# ***<font color=#0099ff>\*abstract</font>*** n
+# ***\*abstract*** n
 英音 ˈæbstrækt     美音 ˈæbstrækt  
 
 | 词频 1 | 阅读 1 |  
@@ -743,7 +743,7 @@ absorbed /əb'sɔːbd/ adj
  > 做演讲摘要    
 
 
-# ***<font color=#0099ff>\*absurd</font>*** adj
+# ***\*absurd*** adj
 英音 əbˈsɜːd     美音 əbˈsɜːrd  
 
 | 词频 1 |  
@@ -756,7 +756,7 @@ absorbed /əb'sɔːbd/ adj
  > 开车10小时只为参加一个20分钟的会议似乎很荒唐。    
 
 
-# ***<font color=#0099ff>\*abundant</font>*** adj
+# ***\*abundant*** adj
 英音 ə'bʌndənt     美音 əˈbʌndənt  
 
 | 词频 1 |  
@@ -769,7 +769,7 @@ absorbed /əb'sɔːbd/ adj
  > 充足的淡水供应    
 
 
-# ***<font color=#0099ff>\*abuse</font>*** vt
+# ***\*abuse*** vt
 英音 ə'bjuːz     美音 ə'bjuːz  
 
 | 词频 2 | 阅读 1 |  
@@ -786,7 +786,7 @@ absorbed /əb'sɔːbd/ adj
  > 辛迪生活艰难，经常遭到继母的虐待。    
 
 
-# ***<font color=#0099ff>\*abuse</font>*** n
+# ***\*abuse*** n
 英音 əˈbjuːs     美音 əˈbjuːs  
 
 | 词频 2 | 口语 2 | 书面 1 | 阅读 1 |  
@@ -802,7 +802,7 @@ absorbed /əb'sɔːbd/ adj
  > 滥用药物    
 
 
-# ***<font color=#0099ff>\*academic</font>*** n
+# ***\*academic*** n
 英音 ˌækə'demɪk     美音 ˌækə'demɪk  
 
 | 词频 4 | 书面 2 | 阅读 3 |  
@@ -819,7 +819,7 @@ academically /ˌækə'demɪkli/ adv
  > 事实上，孩子的早期阅读与其学业是否成功关系不大。  （2012 上海）  
 
 
-# ***<font color=#0099ff>\*academic</font>*** adj
+# ***\*academic*** adj
 英音 ˌækə'demɪk     美音 ˌækə'demɪk  
 
 | 词频 4 | 书面 2 | 阅读 3 |  
@@ -852,7 +852,7 @@ academically /ˌækə'demɪkli/ adv
  > 不会用电脑使他的学术研究更加困难。  （2010 湖北）  
 
 
-# ***<font color=#0099ff>\*academy</font>*** n
+# ***\*academy*** n
 英音 ə'kædəmi     美音 əˈkædəmi  
 
 | 词频 3 | 阅读 3 |  
@@ -877,7 +877,7 @@ academically /ˌækə'demɪkli/ adv
 ### 3.*低义频：* **(美国的) 私立学校**  
 
 
-# ***<font color=#0099ff>\*accelerate</font>*** v
+# ***\*accelerate*** v
 英音 əkˈseləreɪt     美音 əkˈseləreɪt  
 
 | 词频 1 |  
@@ -893,7 +893,7 @@ academically /ˌækə'demɪkli/ adv
  > 那辆汽车平稳地加速离开。    
 
 
-# ***<font color=#0099ff>\*accent</font>*** n
+# ***\*accent*** n
 英音 ˈæksent     美音 ˈæksent  
 
 | 词频 2 |  
@@ -910,7 +910,7 @@ academically /ˌækə'demɪkli/ adv
  > 他说话时带有浓重的北方口音。    
 
 
-# ***<font color=#0099ff>\*accept</font>*** v  重难点词汇
+# ***\*accept*** v  重难点词汇
 英音 ək'sept     美音 əkˈsept  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -984,7 +984,7 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
 答案：
 1. accepted  2. accepted  
 
-# ***<font color=#0099ff>\*acceptable</font>*** adj
+# ***\*acceptable*** adj
 英音 əkˈseptəbl     美音 əkˈseptəbl  
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 3 |  
@@ -1003,7 +1003,7 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
  > 父母丢下那个年纪的孩子不照看，社会是不接受这种做法的。    
 
 
-# ***<font color=#0099ff>\*acceptance</font>*** n
+# ***\*acceptance*** n
 英音 ək'septəns     美音 əkˈseptəns  
 
 | 词频 2 | 书面 1 | 阅读 2 |  
@@ -1026,7 +1026,7 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
  > 他愉快地点头赞同。    
 
 
-# ***<font color=#0099ff>\*access</font>*** n  重难点词汇
+# ***\*access*** n  重难点词汇
 英音 ˈækses     美音 ˈækses  
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -1066,7 +1066,7 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
 
 Notes:   access ≠ way, access作为名词，其含义中包含了某种动作。   
 
-# ***<font color=#0099ff>\*access</font>*** vt  重难点词汇
+# ***\*access*** vt  重难点词汇
 英音 ˈækses     美音 ˈækses  
 
 | 词频 4 | 口语 1 | 阅读 3 |  
@@ -1095,7 +1095,7 @@ the library.   （2009 浙江改）
 答案：
 1. to  
 
-# ***<font color=#0099ff>\*accessible</font>*** adj
+# ***\*accessible*** adj
 英音 ək'sesəbl     美音 əkˈsesəbl  
 
 | 词频 2 | 阅读 2 |  
@@ -1123,7 +1123,7 @@ the library.   （2009 浙江改）
 答案：
 1. accessible  
 
-# ***<font color=#0099ff>\*accident</font>*** n
+# ***\*accident*** n
 英音 ˈæksɪdənt     美音 ˈæksɪdənt  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -1152,7 +1152,7 @@ the library.   （2009 浙江改）
 
 固定搭配
 ---
-## <font color=#0099ff>\*by accident</font>
+## \*by accident
 1.**偶然地；意外地**  
 反义词 on purpose 
 
@@ -1174,7 +1174,7 @@ accidental /ˌæksɪ'dentl/ adj
 答案：
 1. accident  
 
-# ***<font color=#0099ff>\*accidentally</font>*** adv
+# ***\*accidentally*** adv
 英音 ˌæksɪ'dentəli     美音 ˌæksɪˈdentəli  
 
 | 词频 2 | 阅读 1 |  
@@ -1187,7 +1187,7 @@ accidental /ˌæksɪ'dentl/ adj
  > 我不小心踩到一个年轻人的脚。  （2009 江西书面表达）  
 
 
-# ***<font color=#0099ff>\*accommodate</font>*** vt
+# ***\*accommodate*** vt
 英音 ə'kɒmədeɪt     美音 ə'kɑːmədeɪt  
 
 | 词频 1 |  
@@ -1197,7 +1197,7 @@ accidental /ˌæksɪ'dentl/ adj
 ### 1.**容纳 (乘客等)**  
 
 
-# ***<font color=#0099ff>\*accommodation</font>*** n
+# ***\*accommodation*** n
 英音 əˌkɒməˈdeɪʃn     美音 əˌkɑːməˈdeɪʃn  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -1222,7 +1222,7 @@ Notes: 美语中常用复数 accommodations。
 答案：
 1. accommodation(s)  
 
-# ***<font color=#0099ff>\*accompany</font>*** vt
+# ***\*accompany*** vt
 英音 əˈkʌmpəni     美音 əˈkʌmpəni  
 
 | 词频 3 | 书面 2 | 阅读 3 |  
@@ -1244,7 +1244,7 @@ Notes: 美语中常用复数 accommodations。
  > 玛丽唱歌，我弹钢琴伴奏。    
 
 
-# ***<font color=#0099ff>\*accomplish</font>*** vt
+# ***\*accomplish*** vt
 英音 ə'kʌmplɪʃ     美音 əˈkɑːmplɪʃ  
 
 | 词频 1 | 阅读 2 |  
@@ -1262,7 +1262,7 @@ Notes: 美语中常用复数 accommodations。
 ---
 accomplishment /ə'kʌmplɪʃmənt/ n   
 
-# ***<font color=#0099ff>\*accomplishment</font>*** 
+# ***\*accomplishment*** 
 英音 [ə'kʌmplɪʃmənt]     美音 [ə'kɑːmplɪʃmənt]  
 
   
@@ -1272,7 +1272,7 @@ accomplishment /ə'kʌmplɪʃmənt/ n
 ### 1.**[C] 成就 (achievement)；[U] [正式用语] 完成**  
 
 
-# ***<font color=#0099ff>\*account</font>*** n  重难点词汇
+# ***\*account*** n  重难点词汇
 英音 ə'kaʊnt     美音 əˈkaʊnt  
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -1322,20 +1322,20 @@ accomplishment /ə'kʌmplɪʃmənt/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*on account of </font>
+## \*on account of 
 1.**因为；由于 (because of)：**  
 
  > *She was absent from school on account of illness.*  
  > 她因病没有去学校。    
 
-## <font color=#0099ff>\*on no account</font>
+## \*on no account
 1.**决不；绝对不：**  
 
  > *The professor warned the students that on no account should they use mobile phones in his class.*  
  > 教授警告学生，在他的课上绝对不能玩手机。  （2019 天津）  
 
 Notes: on no account置于句首，其所在的句子要用倒装语序。  
-## <font color=#0099ff>\*take account of / take ... into account</font>
+## \*take account of / take ... into account
 1.**考虑到；把…考虑进去：**  
 
  > *The company takes account of environmental issues wherever possible. *  
@@ -1352,14 +1352,14 @@ Notes: on no account置于句首，其所在的句子要用倒装语序。
 答案：
 1. opened/set up a bank account  
 
-# ***<font color=#0099ff>\*account</font>*** v  重难点词汇
+# ***\*account*** v  重难点词汇
 英音 ə'kaʊnt     美音 əˈkaʊnt  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
 
 固定搭配
 ---
-## <font color=#0099ff>\*account for</font>
+## \*account for
 1.*高义频：* **(数量、比例上) 占：**  
 
  > *It is said that body language accounts for 55 percent of a first impression while what you say just 7 percent.*  
@@ -1377,7 +1377,7 @@ Notes: on no account置于句首，其所在的句子要用倒装语序。
  > 天气不好可能是人来得少的原因。    
 
 
-# ***<font color=#0099ff>\*accountant</font>*** n
+# ***\*accountant*** n
 英音 ə'kaʊntənt     美音 əˈkaʊntənt  
 
 | 词频 2 | 阅读 1 |  
@@ -1387,7 +1387,7 @@ Notes: on no account置于句首，其所在的句子要用倒装语序。
 ### 1.*高义频：* **[C] 会计 (员)； 会计师**  
 
 
-# ***<font color=#0099ff>\*accumulate</font>*** v
+# ***\*accumulate*** v
 英音 əˈkjuːmjəleɪt     美音 əˈkjuːmjəleɪt  
 
 | 词频 1 | 阅读 1 |  
@@ -1406,7 +1406,7 @@ Notes: on no account置于句首，其所在的句子要用倒装语序。
  > 房屋不经常打扫，尘土很快就会积聚起来。    
 
 
-# ***<font color=#0099ff>\*accuracy</font>*** n
+# ***\*accuracy*** n
 英音 ˈækjərəsi     美音 ˈækjərəsi  
 
 | 词频 1 | 阅读 1 |  
@@ -1419,7 +1419,7 @@ Notes: on no account置于句首，其所在的句子要用倒装语序。
  > 准确地    
 
 
-# ***<font color=#0099ff>\*accurate</font>*** adj
+# ***\*accurate*** adj
 英音 ˈækjərət     美音 ˈækjərət  
 
 | 词频 3 | 口语 2 | 书面 1 | 阅读 2 |  
@@ -1439,7 +1439,7 @@ Notes: on no account置于句首，其所在的句子要用倒装语序。
 ---
 accurately /'ækjərətli/ adv   
 
-# ***<font color=#0099ff>\*accurately</font>*** adv
+# ***\*accurately*** adv
 英音 'ækjərətli     美音 'ækjərətli  
 
 | 词频 3 |  
@@ -1449,7 +1449,7 @@ accurately /'ækjərətli/ adv
 ### 1.**精确地, 准确地**  
 
 
-# ***<font color=#0099ff>\*accusation</font>*** n
+# ***\*accusation*** n
 英音 ˌækju'zeɪʃn     美音 ˌækju'zeɪʃn  
 
 | 词频 2 |  
@@ -1461,7 +1461,7 @@ accurately /'ækjərətli/ adv
 ### 1.*高义频：* **指责；谴责；控告**  
 
 
-# ***<font color=#0099ff>\*accuse</font>*** vt
+# ***\*accuse*** vt
 英音 əˈkjuːz     美音 əˈkjuz  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -1482,7 +1482,7 @@ accurately /'ækjərətli/ adv
  > 德国人有时受到诟病，被指缺乏幽默感。  （北师大⑤ – 13）  
 
 
-# ***<font color=#0099ff>\*accustom</font>*** vt
+# ***\*accustom*** vt
 英音 ə'kʌstəm     美音 ə'kʌstəm  
 
 | 词频 2 |  
@@ -1492,7 +1492,7 @@ accurately /'ækjərətli/ adv
 ### 1.*高义频：* **使习惯于**  
 
 
-# ***<font color=#0099ff>\*accustomed</font>*** adj
+# ***\*accustomed*** adj
 英音 ə'kʌstəmd     美音 əˈkʌstəmd  
 
 | 词频 2 | 阅读 1 |  
@@ -1521,7 +1521,7 @@ Notes: 口语中更常用 (be) used to (doing) sth。
 答案：
 1. talking  
 
-# ***<font color=#0099ff>\*ache</font>*** vi
+# ***\*ache*** vi
 英音 eɪk     美音 eɪk  
 
 | 词频 2 |  
@@ -1536,7 +1536,7 @@ Notes: 口语中更常用 (be) used to (doing) sth。
 
 Notes: ache常与表示身体部位的单词构成合成词， 如：headache, stomachache, toothache等。  
 
-# ***<font color=#0099ff>\*ache</font>*** n
+# ***\*ache*** n
 英音 eɪk     美音 eɪk  
 
 | 词频 2 |  
@@ -1553,7 +1553,7 @@ Notes: ache常与表示身体部位的单词构成合成词， 如：headache, s
  > 她感到胸口痛。    
 
 
-# ***<font color=#0099ff>\*achieve</font>*** v  重难点词汇
+# ***\*achieve*** v  重难点词汇
 英音 əˈtʃiːv     美音 əˈtʃiːv  
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -1597,7 +1597,7 @@ Notes: ache常与表示身体部位的单词构成合成词， 如：headache, s
 答案：
 1. achieved / attained  
 
-# ***<font color=#0099ff>\*achievement</font>*** n
+# ***\*achievement*** n
 英音 əˈtʃiːvmənt     美音 əˈtʃiːvmənt  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -1630,7 +1630,7 @@ Notes: ache常与表示身体部位的单词构成合成词， 如：headache, s
 答案：
 1. achievement  
 
-# ***<font color=#0099ff>\*acid</font>*** adj
+# ***\*acid*** adj
 英音 'æsɪd     美音 ˈæsɪd  
 
 | 词频 1 | 书面 1 |  
@@ -1640,7 +1640,7 @@ Notes: ache常与表示身体部位的单词构成合成词， 如：headache, s
 ### 1.*高义频：* **酸的；酸性的**  
 
 
-# ***<font color=#0099ff>\*acid</font>*** n
+# ***\*acid*** n
 英音 'æsɪd     美音 ˈæsɪd  
 
 | 词频 1 | 书面 1 |  
@@ -1650,7 +1650,7 @@ Notes: ache常与表示身体部位的单词构成合成词， 如：headache, s
 ### 1.*高义频：* **[C] & [U] 酸；酸性物质**  
 
 
-# ***<font color=#0099ff>\*acknowledge</font>*** vt
+# ***\*acknowledge*** vt
 英音 əkˈnɒlɪdʒ     美音 əkˈnɑːlɪdʒ  
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 2 |  
@@ -1690,7 +1690,7 @@ Notes: ache常与表示身体部位的单词构成合成词， 如：headache, s
 ---
 acknowledgement /ək'nɒlɪdʒmənt/ n   
 
-# ***<font color=#0099ff>\*acknowledgement</font>*** n
+# ***\*acknowledgement*** n
 英音 [ək'nɒlɪdʒmənt]     美音 [ək'nɑːlɪdʒmənt]  
 
   
@@ -1700,7 +1700,7 @@ acknowledgement /ək'nɒlɪdʒmənt/ n
 ### 1.**[C] & [U] 承认；确认；[常用复数] 鸣谢**  
 
 
-# ***<font color=#0099ff>\*acquaintance</font>*** n
+# ***\*acquaintance*** n
 英音 ə'kweɪntəns     美音 əˈkweɪntəns  
 
 | 词频 1 |  
@@ -1714,7 +1714,7 @@ acknowledgement /ək'nɒlɪdʒmənt/ n
  > 我来英国想跟你结识！  （人教⑧ – 4）  
 
 
-# ***<font color=#0099ff>\*acquire</font>*** vt  重难点词汇
+# ***\*acquire*** vt  重难点词汇
 英音 əˈkwaɪə(r)     美音 əˈkwaɪər  
 
 | 词频 3 | 书面 2 | 阅读 3 |  
@@ -1748,7 +1748,7 @@ D.test
 答案：
 1. B  
 
-# ***<font color=#0099ff>\*acquisition</font>*** n
+# ***\*acquisition*** n
 英音 ˌækwɪ'zɪʃn     美音 ˌækwɪ'zɪʃn  
 
 | 词频 1 | 书面 1 | 阅读 1 |  
@@ -1761,7 +1761,7 @@ D.test
  > 关于第二语言习得的研讨会。    
 
 
-# ***<font color=#0099ff>\*acre</font>*** n
+# ***\*acre*** n
 英音 ˈeɪkə(r)     美音 ˈeɪkər  
 
 | 词频 1 |  
@@ -1771,7 +1771,7 @@ D.test
 ### 1.*高义频：* **n [C] 英亩 (约4 047㎡)**  
 
 
-# ***<font color=#0099ff>\*acrobatics</font>*** n
+# ***\*acrobatics*** n
 英音 ˌækrə'bætɪks     美音 ˌækrə'bætɪks  
 
 | 词频 1 |  
@@ -1781,7 +1781,7 @@ D.test
 ### 1.**杂技**  
 
 
-# ***<font color=#0099ff>\*across</font>*** prep
+# ***\*across*** prep
 英音 əˈkrɒs     美音 əˈkrɔːs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1824,7 +1824,7 @@ D.across; through
 答案：
 1. D  
 
-# ***<font color=#0099ff>\*across</font>*** adv
+# ***\*across*** adv
 英音 əˈkrɒs     美音 əˈkrɔːs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1842,7 +1842,7 @@ D.across; through
  > 这条河宽一英里。    
 
 
-# ***<font color=#0099ff>\*act</font>*** v  重难点词汇
+# ***\*act*** v  重难点词汇
 英音 ækt     美音 ækt  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -1882,13 +1882,13 @@ D.across; through
 
 固定搭配
 ---
-## <font color=#0099ff>\*act as</font>
+## \*act as
 1.**担任；充当；起…作用：**  
 
  > *A trained dog can act as a guide to a blind person.*  
  > 经过训练的狗可以充当盲人的向导。    
 
-## <font color=#0099ff>\*act on</font>
+## \*act on
 1.*高义频：* **按照...行事(act upon)：**  
 
  > *Why didn’t you act on her suggestion? *  
@@ -1899,7 +1899,7 @@ D.across; through
  > *Alcohol acts quickly on the brain. *  
  > 酒精对大脑迅速产生影响。    
 
-## <font color=#0099ff>\*act out </font>
+## \*act out 
 1.**把…表演出来；将…付诸行动；充当：**  
 
  > *act out a story / dialogue *  
@@ -1916,7 +1916,7 @@ D.across; through
 答案：
 1. as  
 
-# ***<font color=#0099ff>\*act</font>*** n  重难点词汇
+# ***\*act*** n  重难点词汇
 英音 ækt     美音 ækt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1960,7 +1960,7 @@ D.across; through
  > 音乐史上的一些最伟大表演者，如猫王和滚石乐队，很少获得过格莱美奖。  （外研⑥ – 4）  
 
 
-# ***<font color=#0099ff>\*action</font>*** n
+# ***\*action*** n
 英音 'ækʃn     美音 ˈækʃn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1993,26 +1993,26 @@ D.across; through
 
 固定搭配
 ---
-## <font color=#0099ff>\*in action </font>
+## \*in action 
 1.**在活动中；在运转**  
 
  > *photos of ski jumpers in action*  
  > 跳台滑雪者跳下时的照片    
 
-## <font color=#0099ff>\*out of action </font>
+## \*out of action 
 1.**失去作用；停止运转**  
 
-## <font color=#0099ff>\*put ... in action</font>
+## \*put ... in action
 1.**使…行动起来；使…开始工作；使…起作用**  
 
-## <font color=#0099ff>\*take action </font>
+## \*take action 
 1.**采取行动：**  
 
  > *We must take action to fight pollution. *  
  > 我们必须采取行动防治污染。    
 
 
-# ***<font color=#0099ff>\*activate</font>*** v
+# ***\*activate*** v
 英音 'æktɪveɪt     
 
   
@@ -2022,7 +2022,7 @@ D.across; through
 ### 1.**激活；使活动；起动**  
 
 
-# ***<font color=#0099ff>\*active</font>*** adj
+# ***\*active*** adj
 英音 'æktɪv     美音 ˈæktɪv  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2076,7 +2076,7 @@ D.across; through
 答案：
 1. active  
 
-# ***<font color=#0099ff>\*actively</font>*** adv
+# ***\*actively*** adv
 英音 'æktɪvli     美音 ˈæktɪvli  
 
 | 词频 3 |  
@@ -2096,7 +2096,7 @@ D.across; through
 答案：
 1. actively  
 
-# ***<font color=#0099ff>\*activity</font>*** n
+# ***\*activity*** n
 英音 æk'tɪvəti     美音 ækˈtɪvəti  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -2132,7 +2132,7 @@ D.across; through
  > 经常活动身体有助于控制体重。    
 
 
-# ***<font color=#0099ff>\*actor</font>*** n
+# ***\*actor*** n
 英音 ˈæktə(r)     美音 ˈæktər  
 
 | 词频 4 | 书面 1 |  
@@ -2142,7 +2142,7 @@ D.across; through
 ### 1.*高义频：* **[C] 男演员；行动者**  
 
 
-# ***<font color=#0099ff>\*actress</font>*** n
+# ***\*actress*** n
 英音 'æktrəs     美音 'æktrəs  
 
 | 词频 3 |  
@@ -2152,7 +2152,7 @@ D.across; through
 ### 1.*高义频：* **[C] 女演员**  
 
 
-# ***<font color=#0099ff>\*actual</font>*** adj
+# ***\*actual*** adj
 英音 'æktʃuəl     美音 ˈæktʃuəl  
 
 | 词频 3 | 口语 3 | 书面 2 |  
@@ -2168,7 +2168,7 @@ D.across; through
  > 摄影记者真实记录他们所看到的事物。  （2008 陕西）  
 
 
-# ***<font color=#0099ff>\*actually</font>*** adv
+# ***\*actually*** adv
 英音 'æktʃuəli     美音 ˈæktʃuəli  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2202,7 +2202,7 @@ D.across; through
 答案：
 1. Actually  
 
-# ***<font color=#0099ff>\*acupuncture</font>*** n
+# ***\*acupuncture*** n
 英音 'ækjʊpʌŋktʃə(r)     美音 'ækjʊpʌŋktʃər  
 
 | 词频 1 |  
@@ -2212,7 +2212,7 @@ D.across; through
 ### 1.**针刺疗法**  
 
 
-# ***<font color=#0099ff>\*acupuncturist</font>*** n
+# ***\*acupuncturist*** n
 英音 'ækjupʌŋktʃərɪst     美音 'ækjupʌŋktʃərɪst  
 
 | 词频 1 |  
@@ -2222,7 +2222,7 @@ D.across; through
 ### 1.**针炙师，针疗医师**  
 
 
-# ***<font color=#0099ff>\*acute</font>*** adj
+# ***\*acute*** adj
 英音 əˈkjuːt     美音 əˈkjut  
 
 | 词频 1 |  
@@ -2248,7 +2248,7 @@ D.across; through
 ### 4.*低义频：* **（数学）锐角的**  
 
 
-# ***<font color=#0099ff>\*ad</font>*** n
+# ***\*ad*** n
 英音 æd     美音 æd  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -2258,7 +2258,7 @@ D.across; through
 ### 1.*高义频：* **[C][非正式用语]广告 (advertisement)**  
 
 
-# ***<font color=#0099ff>\*adapt</font>*** v  重难点词汇
+# ***\*adapt*** v  重难点词汇
 英音 ə'dæpt     美音 əˈdæpt  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -2290,7 +2290,7 @@ D.across; through
 答案：
 1. to  
 
-# ***<font color=#0099ff>\*adaptation</font>*** n
+# ***\*adaptation*** n
 英音 ˌædæp'teɪʃn     美音 ˌædæpˈteɪʃn  
 
 | 词频 1 |  
@@ -2300,7 +2300,7 @@ D.across; through
 ### 1.*高义频：* **[C] & [U] 适应； 改编；改编的作品**  
 
 
-# ***<font color=#0099ff>\*add</font>*** v
+# ***\*add*** v
 英音 æd     美音 æd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2333,19 +2333,19 @@ D.across; through
 
 固定搭配
 ---
-## <font color=#0099ff>\*add to </font>
+## \*add to 
 1.**增加：**  
 
  > *Colorful umbrellas add to a lively atmosphere in the summer streets. *  
  > 各种颜色的伞给夏日街头平添了活泼的气氛。    
 
-## <font color=#0099ff>\*add up</font>
+## \*add up
 1.**把…加起来；合计：**  
 
  > *Add up your score and see how many points you get.*  
  > 把你的分数加起来，看看你得多少分。  （ 人教① – 1）  
 
-## <font color=#0099ff>\*add up to </font>
+## \*add up to 
 1.**合计达；结果是：**  
 
  > *His debts added up to $5,000. *  
@@ -2362,7 +2362,7 @@ D.across; through
 答案：
 1. to  
 
-# ***<font color=#0099ff>\*addict</font>*** n
+# ***\*addict*** n
 英音 'ædɪkt     美音 ˈædɪkt  
 
 | 词频 1 |  
@@ -2379,7 +2379,7 @@ D.across; through
  > 电视迷/足球迷/电子游戏迷    
 
 
-# ***<font color=#0099ff>\*addicted</font>*** adj
+# ***\*addicted*** adj
 英音 əˈdɪktɪd     美音 əˈdɪktɪd  
 
 | 词频 2 | 阅读 1 |  
@@ -2397,7 +2397,7 @@ D.across; through
  > 他迷上了足球。    
 
 
-# ***<font color=#0099ff>\*addiction</font>*** n
+# ***\*addiction*** n
 英音 ə'dɪkʃn     美音 əˈdɪkʃn  
 
 | 词频 3 | 阅读 2 |  
@@ -2415,7 +2415,7 @@ D.across; through
  > 她改掉了一天三包烟的恶习，并戒掉了酒瘾。  （2010 湖南改）  
 
 
-# ***<font color=#0099ff>\*addictive</font>*** adj
+# ***\*addictive*** adj
 英音 ə'dɪktɪv     美音 ə'dɪktɪv  
 
 | 词频 1 |  
@@ -2425,7 +2425,7 @@ D.across; through
 ### 1.**（药物等）上瘾的**  
 
 
-# ***<font color=#0099ff>\*addition</font>*** n
+# ***\*addition*** n
 英音 ə'dɪʃn     美音 ə'dɪʃn  
 
 | 词频 4 | 口语 1 | 书面 3 | 阅读 3 |  
@@ -2450,13 +2450,13 @@ D.across; through
 
 固定搭配
 ---
-## <font color=#0099ff>\*in addition </font>
+## \*in addition 
 1.**另外；加之：**  
 
  > *The company provides cheap Internet access. In addition, it makes shareware freely available. *  
  > 该公司提供廉价的互联网接入服务。此外，它还免费提供共享软件。    
 
-## <font color=#0099ff>\*in addition to </font>
+## \*in addition to 
 1.**除…之外 (还)：**  
 
  > *In addition to reading for knowledge, we read for fun and inspiration.*  
@@ -2474,7 +2474,7 @@ additional   /ə'dɪʃənl/ adj
 答案：
 1. to  
 
-# ***<font color=#0099ff>\*additionally</font>*** adv
+# ***\*additionally*** adv
 英音 ə'dɪʃənəli     美音 ə'dɪʃənəli  
 
   
@@ -2484,7 +2484,7 @@ additional   /ə'dɪʃənl/ adj
 ### 1.**另外；同时；此外**  
 
 
-# ***<font color=#0099ff>\*address</font>*** n  重难点词汇
+# ***\*address*** n  重难点词汇
 英音 ə'dres     美音 ə'dres  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -2516,7 +2516,7 @@ additional   /ə'dɪʃənl/ adj
 答案：
 1. address  
 
-# ***<font color=#0099ff>\*address</font>*** vt  重难点词汇
+# ***\*address*** vt  重难点词汇
 英音 ə'dres     美音 ə'dres  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -2561,7 +2561,7 @@ additional   /ə'dɪʃənl/ adj
 答案：
 1. address  
 
-# ***<font color=#0099ff>\*adequate</font>*** adj
+# ***\*adequate*** adj
 英音 'ædɪkwət     美音 'ædɪkwət  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -2590,7 +2590,7 @@ adequately  /'ædɪkwətli/ adv
  > 我希望课上不要叫到我，因为我还没准备好。    
 
 
-# ***<font color=#0099ff>\*adjust</font>*** v
+# ***\*adjust*** v
 英音 ə'dʒʌst     美音 ə'dʒʌst  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -2636,7 +2636,7 @@ adjustable  /ə'dʒʌstəbl/ adj
  > 可调节座椅    
 
 
-# ***<font color=#0099ff>\*adjustable</font>*** adj
+# ***\*adjustable*** adj
 英音 ə'dʒʌstəbl     美音 ə'dʒʌstəbl  
 
   
@@ -2646,7 +2646,7 @@ adjustable  /ə'dʒʌstəbl/ adj
 ### 1.**可调整的,可调节的**  
 
 
-# ***<font color=#0099ff>\*adjustment</font>*** n
+# ***\*adjustment*** n
 英音 ə'dʒʌstmənt     美音 ə'dʒʌstmənt  
 
 | 词频 2 | 阅读 1 |  
@@ -2671,7 +2671,7 @@ D.achievements
 答案：
 1. B  
 
-# ***<font color=#0099ff>\*administration</font>*** n
+# ***\*administration*** n
 英音 ədˌmɪnɪ'streɪʃn     美音 ədˌmɪnɪ'streɪʃn  
 
 | 词频 2 | 口语 2 | 书面 2 | 阅读 2 |  
@@ -2692,7 +2692,7 @@ D.achievements
  > 奥巴马政府的外交政策    
 
 
-# ***<font color=#0099ff>\*administrative</font>*** adj
+# ***\*administrative*** adj
 英音 əd'mɪnɪstrətɪv     美音 əd'mɪnɪstreɪtɪv  
 
 | 词频 1 | 书面 1 |  
@@ -2702,7 +2702,7 @@ D.achievements
 ### 1.*高义频：* **行政的；管理的**  
 
 
-# ***<font color=#0099ff>\*admirable</font>*** adj
+# ***\*admirable*** adj
 英音 'ædmərəbl     美音 'ædmərəbl  
 
 | 词频 1 |  
@@ -2715,7 +2715,7 @@ D.achievements
  > 还在上小学时，罗恩就已经表现出令人赞叹的表演天分。  （ 北师大⑥ – 17）  
 
 
-# ***<font color=#0099ff>\*admire</font>*** vt
+# ***\*admire*** vt
 英音 əd'maɪə(r)     美音 əd'maɪər  
 
 | 词频 4 | 口语 1 |  
@@ -2744,7 +2744,7 @@ D.achievements
 ---
 admiration /ˌædmə'reɪʃn/ n   
 
-# ***<font color=#0099ff>\*admission</font>*** n
+# ***\*admission*** n
 英音 əd'mɪʃn     美音 əd'mɪʃn  
 
 | 词频 3 | 书面 1 | 阅读 3 |  
@@ -2776,7 +2776,7 @@ admiration /ˌædmə'reɪʃn/ n
  > 入场费    
 
 
-# ***<font color=#0099ff>\*admit</font>*** v  重难点词汇
+# ***\*admit*** v  重难点词汇
 英音 əd'mɪt     美音 əd'mɪt  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -2846,7 +2846,7 @@ admittedly /əd'mɪtɪdli/ adv
 答案：
 1. be admitted  
 
-# ***<font color=#0099ff>\*adolescence</font>*** n
+# ***\*adolescence*** n
 英音 ˌædə'lesns     美音 ˌædə'lesns  
 
 | 词频 1 | 阅读 1 |  
@@ -2856,7 +2856,7 @@ admittedly /əd'mɪtɪdli/ adv
 ### 1.*高义频：* **[U] 青春期；青春**  
 
 
-# ***<font color=#0099ff>\*adolescent</font>*** adj
+# ***\*adolescent*** adj
 英音 ˌædə'lesnt     美音 ˌædə'lesnt  
 
 | 词频 4 | 阅读 1 |  
@@ -2866,7 +2866,7 @@ admittedly /əd'mɪtɪdli/ adv
 ### 1.*高义频：* **青春期的；青少年的**  
 
 
-# ***<font color=#0099ff>\*adolescent</font>*** n
+# ***\*adolescent*** n
 英音 ˌædə'lesnt     美音 ˌædə'lesnt  
 
 | 词频 4 | 阅读 1 |  
@@ -2876,7 +2876,7 @@ admittedly /əd'mɪtɪdli/ adv
 ### 1.*高义频：* **[C] 青少年**  
 
 
-# ***<font color=#0099ff>\*adopt</font>*** v
+# ***\*adopt*** v
 英音 ə'dɒpt     美音 ə'dɑːpt  
 
 | 词频 3 | 口语 1 | 书面 2 |  
@@ -2915,7 +2915,7 @@ adopted  /ə'dɑːptɪd/ adj
  > 某人的移居国    
 
 
-# ***<font color=#0099ff>\*adorable</font>*** adj
+# ***\*adorable*** adj
 英音 ə'dɔːrəbl     美音 ə'dɔːrəbl  
 
 | 词频 1 |  
@@ -2925,7 +2925,7 @@ adopted  /ə'dɑːptɪd/ adj
 ### 1.**讨人喜欢的；可爱的**  
 
 
-# ***<font color=#0099ff>\*adore</font>*** vt
+# ***\*adore*** vt
 英音 ə'dɔː(r)     美音 ə'dɔːr  
 
 | 词频 1 |  
@@ -2938,7 +2938,7 @@ adopted  /ə'dɑːptɪd/ adj
  > 我深爱您胜于世界上的一切。  （ 人教⑩ – 2）  
 
 
-# ***<font color=#0099ff>\*adult</font>*** n
+# ***\*adult*** n
 英音 'ædʌlt     美音 'ædʌlt  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -2948,7 +2948,7 @@ adopted  /ə'dɑːptɪd/ adj
 ### 1.*高义频：* **[C] 成年人**  
 
 
-# ***<font color=#0099ff>\*adult</font>*** adj
+# ***\*adult*** adj
 英音 'ædʌlt     美音 'ædʌlt  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -2958,7 +2958,7 @@ adopted  /ə'dɑːptɪd/ adj
 ### 1.**成年的；成熟的**  
 
 
-# ***<font color=#0099ff>\*advance</font>*** v
+# ***\*advance*** v
 英音 əd'vɑːns     美音 əd'væns  
 
 | 词频 4 | 书面 1 |  
@@ -2993,7 +2993,7 @@ adopted  /ə'dɑːptɪd/ adj
  > 提出想法 / 理论 / 计划    
 
 
-# ***<font color=#0099ff>\*advance</font>*** n
+# ***\*advance*** n
 英音 əd'vɑːns     美音 əd'væns  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -3023,7 +3023,7 @@ adopted  /ə'dɑːptɪd/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*in advance (of ) </font>
+## \*in advance (of ) 
 1.**提前 (于…)；预先 (于…)；超前于：**  
 
  > *Thank you in advance.*  
@@ -3040,7 +3040,7 @@ adopted  /ə'dɑːptɪd/ adj
 答案：
 1. in  
 
-# ***<font color=#0099ff>\*advance</font>*** adj
+# ***\*advance*** adj
 英音 əd'vɑːns     美音 əd'væns  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -3056,7 +3056,7 @@ adopted  /ə'dɑːptɪd/ adj
  > 我们没有收到雾霾预警。    
 
 
-# ***<font color=#0099ff>\*advanced</font>*** adj
+# ***\*advanced*** adj
 英音 əd'vɑːnst     美音 əd'vænst  
 
 | 词频 4 | 书面 1 |  
@@ -3079,7 +3079,7 @@ adopted  /ə'dɑːptɪd/ adj
  > 她先在北京大学学习，然后出国深造。    
 
 
-# ***<font color=#0099ff>\*advantage</font>*** n
+# ***\*advantage*** n
 英音 əd'vɑːntɪdʒ     美音 əd'væntɪdʒ  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -3116,10 +3116,10 @@ adopted  /ə'dɑːptɪd/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*be / work to sb's advantage</font>
+## \*be / work to sb's advantage
 1.**对某人有利**  
 
-## <font color=#0099ff>\*take advantage of </font>
+## \*take advantage of 
 1.**利用：**  
 
  > *Parents should actively urge their children to take advantage of the opportunity to join sports teams.*  
@@ -3134,7 +3134,7 @@ adopted  /ə'dɑːptɪd/ adj
 答案：
 1. take  2. advantage  
 
-# ***<font color=#0099ff>\*adventure</font>*** n
+# ***\*adventure*** n
 英音 əd'ventʃə(r)     美音 əd'ventʃər  
 
 | 词频 4 | 阅读 3 |  
@@ -3155,7 +3155,7 @@ adopted  /ə'dɑːptɪd/ adj
  > 哥伦布发现新大陆是一次奇遇。    
 
 
-# ***<font color=#0099ff>\*adventurer</font>*** n
+# ***\*adventurer*** n
 英音 əd'ventʃərə(r)     美音 əd'ventʃərər  
 
 | 词频 1 |  
@@ -3167,7 +3167,7 @@ adopted  /ə'dɑːptɪd/ adj
 ### 1.*高义频：* **冒险家**  
 
 
-# ***<font color=#0099ff>\*advertise</font>*** v
+# ***\*advertise*** v
 英音 'ædvətaɪz     美音 'ædvərtaɪz  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -3188,7 +3188,7 @@ adopted  /ə'dɑːptɪd/ adj
 ---
 advertising /'ædvərtaɪzɪŋ/ n [U]   
 
-# ***<font color=#0099ff>\*advertisement</font>*** n
+# ***\*advertisement*** n
 英音 əd'vɜːtɪsmənt     美音 ˌædvər'taɪzmənt  
 
 | 词频 4 | 口语 1 |  
@@ -3202,7 +3202,7 @@ advertising /'ædvərtaɪzɪŋ/ n [U]
  > 在报纸上刊登广告    
 
 
-# ***<font color=#0099ff>\*advertiser</font>*** n
+# ***\*advertiser*** n
 英音 'ædvətaɪzə(r)     美音 'ædvərtaɪzər  
 
 | 词频 3 |  
@@ -3212,7 +3212,7 @@ advertising /'ædvərtaɪzɪŋ/ n [U]
 ### 1.**广告人**  
 
 
-# ***<font color=#0099ff>\*advertising</font>*** n
+# ***\*advertising*** n
 英音 'ædvətaɪzɪŋ     美音 'ædvərtaɪzɪŋ  
 
 | 词频 4 |  
@@ -3222,7 +3222,7 @@ advertising /'ædvərtaɪzɪŋ/ n [U]
 ### 1.**做广告；广告活动；广告业**  
 
 
-# ***<font color=#0099ff>\*advertize</font>*** v
+# ***\*advertize*** v
 英音 'ædvətaɪz     美音 'ædvərtaɪz  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -3243,7 +3243,7 @@ advertising /'ædvərtaɪzɪŋ/ n [U]
 ---
 advertising / advertizing  // n [U]  
 
-# ***<font color=#0099ff>\*advice</font>*** n
+# ***\*advice*** n
 英音 əd'vaɪs     美音 əd'vaɪs  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -3267,7 +3267,7 @@ advertising / advertizing  // n [U]
  > 接受某人的意见    
 
 
-# ***<font color=#0099ff>\*advise</font>*** v  重难点词汇
+# ***\*advise*** v  重难点词汇
 英音 əd'vaɪz     美音 əd'vaɪz  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -3330,7 +3330,7 @@ advertising / advertizing  // n [U]
 ---
 adviser / advisor /əd'vaɪzə(r)/ n [C]  
 
-# ***<font color=#0099ff>\*adviser</font>*** n
+# ***\*adviser*** n
 英音 əd'vaɪzə(r)     美音 əd'vaɪzər  
 
 | 词频 3 |  
@@ -3340,7 +3340,7 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
 ### 1.**顾问**  
 
 
-# ***<font color=#0099ff>\*advocate</font>*** n
+# ***\*advocate*** n
 英音 'ædvəkeɪt     美音 'ædvəkeɪt  
 
 | 词频 2 | 阅读 1 |  
@@ -3350,7 +3350,7 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
 ### 1.*高义频：* **提倡者；拥护者**  
 
 
-# ***<font color=#0099ff>\*advocate</font>*** vt
+# ***\*advocate*** vt
 英音 'ædvəkeɪt     美音 'ædvəkeɪt  
 
 | 词频 2 | 阅读 1 |  
@@ -3370,7 +3370,7 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
  > 领导主张每个成员都发挥各自的作用。    
 
 
-# ***<font color=#0099ff>\*aeroplane</font>*** n
+# ***\*aeroplane*** n
 英音 'eərəpleɪn     美音 'erəpleɪn  
 
 | 词频 1 |  
@@ -3382,7 +3382,7 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
 ### 1.*高义频：* **飞机 (plane, AmE airplane)**  
 
 
-# ***<font color=#0099ff>\*affair</font>*** n
+# ***\*affair*** n
 英音 ə'feə(r)     美音 ə'fer  
 
 | 词频 3 | 口语 2 | 书面 3 | 阅读 2 |  
@@ -3425,7 +3425,7 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*state of affairs</font>
+## \*state of affairs
 1.**[正式用语] 情况；局势；事态：**  
 
  > *The state of affairs should no longer be ignored. *  
@@ -3435,7 +3435,7 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
 三者都有“事情”之意。  
 
 
-# ***<font color=#0099ff>\*affect</font>*** vt
+# ***\*affect*** vt
 英音 ə'fekt     美音 ə'fekt  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -3464,7 +3464,7 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
  > 生活中几乎每个人都会生病。  （译林⑦ – 2）  
 
 
-# ***<font color=#0099ff>\*affection</font>*** n
+# ***\*affection*** n
 英音 ə'fekʃn     美音 ə'fekʃn  
 
 | 词频 1 | 阅读 1 |  
@@ -3483,7 +3483,7 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
  > 我深爱我的妈妈。    
 
 
-# ***<font color=#0099ff>\*afford</font>*** vt  重难点词汇
+# ***\*afford*** vt  重难点词汇
 英音 ə'fɔːd     美音 ə'fɔːrd  
 
 | 词频 4 | 口语 3 | 书面 1 |  
@@ -3532,7 +3532,7 @@ affordable  /ə'fɔːdəbl/ adj
 答案：
 1. affordable  2. afford  
 
-# ***<font color=#0099ff>\*affordably</font>*** adv
+# ***\*affordably*** adv
 英音 ə'fɔːdəbli     美音 ə'fɔːdəbli  
 
 | 词频 1 |  
@@ -3549,7 +3549,7 @@ affordable  /ə'fɔːdəbl/ adj
 答案：
 1. affordably  
 
-# ***<font color=#0099ff>\*afraid</font>*** adj
+# ***\*afraid*** adj
 英音 ə'freɪd     美音 ə'freɪd  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -3590,7 +3590,7 @@ affordable  /ə'fɔːdəbl/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*I’m afraid </font>
+## \*I’m afraid 
 1.**恐怕；很遗憾：**  
 
  > *I’m afraid (that) you’ve come to the wrong address. *  
@@ -3619,7 +3619,7 @@ affordable  /ə'fɔːdəbl/ adj
 答案：
 1. I’m afraid not  
 
-# ***<font color=#0099ff>\*after</font>*** prep
+# ***\*after*** prep
 英音 'ɑːftə(r)     美音 'æftər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3670,7 +3670,7 @@ affordable  /ə'fɔːdəbl/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*after all </font>
+## \*after all 
 1.**毕竟；终究：**  
 
  > *Of course I admire him — after all, he is a great writer.*  
@@ -3684,7 +3684,7 @@ affordable  /ə'fɔːdəbl/ adj
 答案：
 1. after  
 
-# ***<font color=#0099ff>\*after</font>*** conj
+# ***\*after*** conj
 英音 'ɑːftə(r)     美音 'æftər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3702,7 +3702,7 @@ affordable  /ə'fɔːdəbl/ adj
  > 他走了很久以后我们才发现那封信。    
 
 
-# ***<font color=#0099ff>\*after</font>*** adv
+# ***\*after*** adv
 英音 'ɑːftə(r)     美音 'æftər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3718,7 +3718,7 @@ affordable  /ə'fɔːdəbl/ adj
  > 他星期一来到这里，三天后就走了。    
 
 
-# ***<font color=#0099ff>\*after-school</font>*** adj
+# ***\*after-school*** adj
 英音 'ɑːftərsk'uːl     美音 'ɑːftərsk'uːl  
 
 | 词频 3 |  
@@ -3728,7 +3728,7 @@ affordable  /ə'fɔːdəbl/ adj
 ### 1.**校外的，课外的**  
 
 
-# ***<font color=#0099ff>\*afternoon</font>*** n
+# ***\*afternoon*** n
 英音 ˌɑːftə'nuːn     美音 ˌæftər'nuːn  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -3738,7 +3738,7 @@ affordable  /ə'fɔːdəbl/ adj
 ### 1.*高义频：* **下午；午后**  
 
 
-# ***<font color=#0099ff>\*afterward(s)</font>*** adv
+# ***\*afterward(s)*** adv
 英音 'ɑːftəwərdz     美音 'æftəwəd(z)  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -3755,7 +3755,7 @@ affordable  /ə'fɔːdəbl/ adj
  > 我们将在一家中餐馆吃晚饭，然后返回宾馆。  （2013 重庆）  
 
 
-# ***<font color=#0099ff>\*afterwards</font>*** adv
+# ***\*afterwards*** adv
 英音 'ɑːftəwədz     美音 'æftərwərdz  
 
 | 词频 3 |  
@@ -3765,7 +3765,7 @@ affordable  /ə'fɔːdəbl/ adj
 ### 1.**然后, 后来**  
 
 
-# ***<font color=#0099ff>\*again</font>*** adv
+# ***\*again*** adv
 英音 ə'ɡen, ə'ɡeɪn     美音 ə'ɡen, ə'ɡeɪn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3785,20 +3785,20 @@ affordable  /ə'fɔːdəbl/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*again and again </font>
+## \*again and again 
 1.**再三地；反复地：**  
 
  > *Again and again I warned him of the danger. *  
  > 我一再警告他有危险。    
 
-## <font color=#0099ff>\*then / there again</font>
+## \*then / there again
 1.**不过；另一方面：**  
 
  > *Parents feel that it is difficult to live with teenagers. Then again, teenagers have similar feelings about their parents.*  
  > 父母们觉得很难与青少年一起生活。不过，青少年对父母也有相似的感受。  （2014 广东）  
 
 
-# ***<font color=#0099ff>\*against</font>*** prep
+# ***\*against*** prep
 英音 ə'ɡenst, ə'ɡeɪnst     美音 ə'ɡenst, ə'ɡeɪnst  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3855,7 +3855,7 @@ affordable  /ə'fɔːdəbl/ adj
 答案：
 1. against  2. against  
 
-# ***<font color=#0099ff>\*age</font>*** n
+# ***\*age*** n
 英音 eɪdʒ     美音 eɪdʒ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3897,17 +3897,17 @@ affordable  /ə'fɔːdəbl/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*come of age </font>
+## \*come of age 
 1.**到达法定年龄；成年：**  
 
  > *My parents supported me until I came of age.*  
  > 父母一直供养我到我成年。  （2010 重庆）  
 
-## <font color=#0099ff>\*under age </font>
+## \*under age 
 1.**未到法定年龄**  
 
 
-# ***<font color=#0099ff>\*age</font>*** vi
+# ***\*age*** vi
 英音 eɪdʒ     美音 eɪdʒ  
 
 | 词频 5 |  
@@ -3935,7 +3935,7 @@ aging / ageing  adj
  > 中国正面临着人口老龄化的挑战。    
 
 
-# ***<font color=#0099ff>\*aged</font>*** adj
+# ***\*aged*** adj
 英音 eɪdʒd     美音 eɪdʒd  
 
 | 词频 4 | 书面 1 |  
@@ -3956,7 +3956,7 @@ aging / ageing  adj
  > 一位老人/老年人    
 
 
-# ***<font color=#0099ff>\*agency</font>*** n
+# ***\*agency*** n
 英音 'eɪdʒənsi     美音 'eɪdʒənsi  
 
 | 词频 4 | 口语 1 | 书面 3 |  
@@ -3990,7 +3990,7 @@ aging / ageing  adj
  > 环保局    
 
 
-# ***<font color=#0099ff>\*agenda</font>*** n
+# ***\*agenda*** n
 英音 ə'dʒendə     美音 ə'dʒendə  
 
 | 词频 1 |  
@@ -4004,7 +4004,7 @@ aging / ageing  adj
  > 是当务之急/是优先考虑的事    
 
 
-# ***<font color=#0099ff>\*agent</font>*** n
+# ***\*agent*** n
 英音 'eɪdʒənt     美音 'eɪdʒənt  
 
 | 词频 3 | 口语 1 | 书面 2 |  
@@ -4014,7 +4014,7 @@ aging / ageing  adj
 ### 1.*高义频：* **代理人；代理商；经纪人**  
 
 
-# ***<font color=#0099ff>\*aggressive</font>*** adj
+# ***\*aggressive*** adj
 英音 ə'ɡresɪv     美音 ə'ɡresɪv  
 
 | 词频 3 | 口语 1 | 阅读 2 |  
@@ -4046,7 +4046,7 @@ D.heroic
 答案：
 1. C  
 
-# ***<font color=#0099ff>\*ago</font>*** adv
+# ***\*ago*** adv
 英音 ə'ɡəʊ     美音 ə'ɡoʊ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4078,7 +4078,7 @@ D.heroic
  > 我昨天给他打过电话，但他妻子说他三天前去武汉了。    
 
 
-# ***<font color=#0099ff>\*agony</font>*** n
+# ***\*agony*** n
 英音 'æɡəni     美音 'æɡəni  
 
   
@@ -4088,7 +4088,7 @@ D.heroic
 ### 1.**痛楚，苦难**  
 
 
-# ***<font color=#0099ff>\*agree</font>*** v  重难点词汇
+# ***\*agree*** v  重难点词汇
 英音 ə'ɡriː     美音 ə'ɡriː  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4133,7 +4133,7 @@ Notes: agree to后面常接表示“提议”、“办法”、“计划”或�
 
 固定搭配
 ---
-## <font color=#0099ff>\*agree with</font>
+## \*agree with
 1.*高义频：* **同意；赞同：**  
 
  > *agree with one’s idea / opinion *  
@@ -4169,7 +4169,7 @@ agreeable  /ə'ɡriːəbl/ adj
 答案：
 1. with  2. on  
 
-# ***<font color=#0099ff>\*agreement</font>*** n
+# ***\*agreement*** n
 英音 ə'ɡriːmənt     美音 ə'ɡriːmənt  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -4204,7 +4204,7 @@ agreeable  /ə'ɡriːəbl/ adj
  > 他们约定在家中绝不谈工作。    
 
 
-# ***<font color=#0099ff>\*agricultural</font>*** adj
+# ***\*agricultural*** adj
 英音 ˌæɡrɪ'kʌltʃərəl     美音 ˌæɡrɪ'kʌltʃərəl  
 
 | 词频 2 |  
@@ -4217,7 +4217,7 @@ agreeable  /ə'ɡriːəbl/ adj
  > 农作物    
 
 
-# ***<font color=#0099ff>\*agriculture</font>*** n
+# ***\*agriculture*** n
 英音 'æɡrɪkʌltʃə(r)     美音 'æɡrɪkʌltʃər  
 
 | 词频 4 | 书面 2 |  
@@ -4229,7 +4229,7 @@ agreeable  /ə'ɡriːəbl/ adj
 ### 1.*高义频：* **农业；农学**  
 
 
-# ***<font color=#0099ff>\*ah</font>*** int
+# ***\*ah*** int
 英音 ɑː     美音 ɑː  
 
 | 词频 3 |  
@@ -4241,7 +4241,7 @@ agreeable  /ə'ɡriːəbl/ adj
 ### 1.*高义频：* **啊；呀**  
 
 
-# ***<font color=#0099ff>\*ahead</font>*** adv
+# ***\*ahead*** adv
 英音 ə'hed     美音 ə'hed  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -4262,7 +4262,7 @@ agreeable  /ə'ɡriːəbl/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*ahead of</font>
+## \*ahead of
 1.**在…前面；早于：**  
 
  > *There were four people ahead of me at the doctor's.*  
@@ -4275,7 +4275,7 @@ agreeable  /ə'ɡriːəbl/ adj
  > 这里的时间比伦敦早9个小时。    
 
 
-# ***<font color=#0099ff>\*aid</font>*** n
+# ***\*aid*** n
 英音 eɪd     美音 eɪd  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -4300,16 +4300,16 @@ agreeable  /ə'ɡriːəbl/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*come / go to sb’s aid </font>
+## \*come / go to sb’s aid 
 1.**帮助某人 (help sb)：**  
 
  > *Be bold and brave — and mighty forces will come to your aid.*  
  > 勇敢些，力量之神会助你一臂之力。  （2015 天津）  
 
-## <font color=#0099ff>\*in aid of</font>
+## \*in aid of
 1.
 
-# ***<font color=#0099ff>\*aid</font>*** v
+# ***\*aid*** v
 英音 eɪd     美音 eɪd  
 
 | 词频 4 |  
@@ -4325,7 +4325,7 @@ agreeable  /ə'ɡriːəbl/ adj
 三者都有“帮助”之意，但侧重点有所不同。  
 
 
-# ***<font color=#0099ff>\*aim</font>*** n
+# ***\*aim*** n
 英音 eɪm     美音 eɪm  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -4355,14 +4355,14 @@ agreeable  /ə'ɡriːəbl/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*take aim at</font>
+## \*take aim at
 1.**把目标对准…；把批评的矛头指向…**  
 
-## <font color=#0099ff>\*with the aim of</font>
+## \*with the aim of
 1.**旨在；目的是：**  
 
 
-# ***<font color=#0099ff>\*aim</font>*** v
+# ***\*aim*** v
 英音 eɪm     美音 eɪm  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -4405,7 +4405,7 @@ agreeable  /ə'ɡriːəbl/ adj
 aimless  /'eɪmləs/ adj   
 aimlessly /'eɪmləsli/ adv   
 
-# ***<font color=#0099ff>\*air</font>*** n
+# ***\*air*** n
 英音 eə(r)     美音 er  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4435,7 +4435,7 @@ aimlessly /'eɪmləsli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*in the air </font>
+## \*in the air 
 1.**(某种情绪) 弥漫在空气中；即将发生：**  
 
  > *There was a sense of excitement in the air. *  
@@ -4444,14 +4444,14 @@ aimlessly /'eɪmləsli/ adv
  > *Change is in the air. *  
  > 变革迫在眉睫。    
 
-## <font color=#0099ff>\*on / off (the) air</font>
+## \*on / off (the) air
 1.**正在/停止广播：**  
 
  > *We’ll be on air in three minutes. *  
  > 我们三分钟后开始广播。    
 
 
-# ***<font color=#0099ff>\*air</font>*** v
+# ***\*air*** v
 英音 eə(r)     美音 er  
 
 | 词频 5 |  
@@ -4480,7 +4480,7 @@ aimlessly /'eɪmləsli/ adv
 ---
 airless  /'eələs/ adj   
 
-# ***<font color=#0099ff>\*air-conditioned</font>*** adj
+# ***\*air-conditioned*** adj
 英音 'eəkənˌdɪʃənd     美音 'eəkənˌdɪʃənd  
 
 | 词频 1 |  
@@ -4490,7 +4490,7 @@ airless  /'eələs/ adj
 ### 1.**带空调的**  
 
 
-# ***<font color=#0099ff>\*aircraft</font>*** n
+# ***\*aircraft*** n
 英音 'eəkrɑːft     美音 'erkræft  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -4502,7 +4502,7 @@ airless  /'eələs/ adj
 ### 1.*高义频：* **飞机； 航空器；飞行器**  
 
 
-# ***<font color=#0099ff>\*airfield</font>*** n
+# ***\*airfield*** n
 英音 'eəfiːld     美音 'erfiːld  
 
 | 词频 1 |  
@@ -4512,7 +4512,7 @@ airless  /'eələs/ adj
 ### 1.**（军用）机场**  
 
 
-# ***<font color=#0099ff>\*airline</font>*** n
+# ***\*airline*** n
 英音 'eəlaɪn     美音 'erlaɪn  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -4530,7 +4530,7 @@ airless  /'eələs/ adj
  > 国际航空公司    
 
 
-# ***<font color=#0099ff>\*airmail</font>*** n
+# ***\*airmail*** n
 英音 'eəmeɪl     美音 'ermeɪl  
 
 | 词频 1 |  
@@ -4548,7 +4548,7 @@ airless  /'eələs/ adj
  > 空邮递送    
 
 
-# ***<font color=#0099ff>\*airplane</font>*** n
+# ***\*airplane*** n
 英音 'eəpleɪn     美音 'erpleɪn  
 
 | 词频 3 |  
@@ -4560,7 +4560,7 @@ airless  /'eələs/ adj
 ### 1.*高义频：* **飞机 (plane,BrE aeroplane)**  
 
 
-# ***<font color=#0099ff>\*airport</font>*** n
+# ***\*airport*** n
 英音 'eəpɔːt     美音 'erpɔːrt  
 
 | 词频 5 | 口语 1 | 书面 1 |  
@@ -4575,7 +4575,7 @@ airless  /'eələs/ adj
  > 我们要去机场接他。    
 
 
-# ***<font color=#0099ff>\*airsick</font>*** adj
+# ***\*airsick*** adj
 英音 'eəsɪk     美音 'ersɪk  
 
   
@@ -4585,7 +4585,7 @@ airless  /'eələs/ adj
 ### 1.**晕机的**  
 
 
-# ***<font color=#0099ff>\*airspace</font>*** n
+# ***\*airspace*** n
 英音 'eəspeɪs     美音 'erspeɪs  
 
 | 词频 1 |  
@@ -4597,7 +4597,7 @@ airless  /'eələs/ adj
 ### 1.*高义频：* **领空；空域**  
 
 
-# ***<font color=#0099ff>\*alarm</font>*** n
+# ***\*alarm*** n
 英音 ə'lɑːm     美音 ə'lɑːrm  
 
 | 词频 4 | 口语 2 |  
@@ -4626,7 +4626,7 @@ airless  /'eələs/ adj
 ### 3.*高义频：* **惊恐；惊悚**  
 
 
-# ***<font color=#0099ff>\*alarm</font>*** vt
+# ***\*alarm*** vt
 英音 alarm     美音 alarm  
 
 | 词频 4 |  
@@ -4644,7 +4644,7 @@ airless  /'eələs/ adj
 alarmed /ə'lɑːrmd/ adj   
 alarming /ə'lɑːrmɪŋ/ adj   
 
-# ***<font color=#0099ff>\*alarmed</font>*** adj
+# ***\*alarmed*** adj
 英音 ə'lɑːmd     美音 ə'lɑːrmd  
 
 | 词频 2 |  
@@ -4654,7 +4654,7 @@ alarming /ə'lɑːrmɪŋ/ adj
 ### 1.*高义频：* **担心的；害怕的**  
 
 
-# ***<font color=#0099ff>\*alarming</font>*** adj
+# ***\*alarming*** adj
 英音 ə'lɑːmɪŋ     美音 ə'lɑːrmɪŋ  
 
 | 词频 1 |  
@@ -4664,7 +4664,7 @@ alarming /ə'lɑːrmɪŋ/ adj
 ### 1.**令人担忧的；令人恐惧的**  
 
 
-# ***<font color=#0099ff>\*album</font>*** n
+# ***\*album*** n
 英音 'ælbəm     美音 'ælbəm  
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 1 |  
@@ -4679,7 +4679,7 @@ alarming /ə'lɑːrmɪŋ/ adj
  > 她把她最近拍的所有照片都放到相册里。    
 
 
-# ***<font color=#0099ff>\*alcohol</font>*** n
+# ***\*alcohol*** n
 英音 'ælkəhɒl     美音 'ælkəhɔːl  
 
 | 词频 4 | 书面 1 |  
@@ -4694,7 +4694,7 @@ alarming /ə'lɑːrmɪŋ/ adj
  > 喝/饮酒    
 
 
-# ***<font color=#0099ff>\*alcoholic</font>*** adj
+# ***\*alcoholic*** adj
 英音 ˌælkə'hɒlɪk     美音 ˌælkə'hɔːlɪk  
 
 | 词频 1 |  
@@ -4707,7 +4707,7 @@ alarming /ə'lɑːrmɪŋ/ adj
  > 有些国家彻底禁止做烟酒广告。  （人教⑨ – 5）  
 
 
-# ***<font color=#0099ff>\*alcoholic</font>*** n
+# ***\*alcoholic*** n
 英音 ˌælkə'hɔːlɪk     美音 ˌælkə'hɔːlɪk  
 
 | 词频 1 |  
@@ -4719,7 +4719,7 @@ alarming /ə'lɑːrmɪŋ/ adj
 ### 1.*高义频：* **酗酒者**  
 
 
-# ***<font color=#0099ff>\*alertly</font>*** adv
+# ***\*alertly*** adv
 英音 ə'lɜːtli     美音 ə'lɜːrtli  
 
 | 词频 1 |  
@@ -4729,7 +4729,7 @@ alarming /ə'lɑːrmɪŋ/ adj
 ### 1.**警觉地，警惕地**  
 
 
-# ***<font color=#0099ff>\*algae</font>*** n
+# ***\*algae*** n
 英音 'ældʒiː     美音 'ældʒiː  
 
 | 词频 1 |  
@@ -4739,7 +4739,7 @@ alarming /ə'lɑːrmɪŋ/ adj
 ### 1.**藻类（植物）**  
 
 
-# ***<font color=#0099ff>\*algebra</font>*** n
+# ***\*algebra*** n
 英音 'ældʒɪbrə     美音 'ældʒɪbrə  
 
 | 词频 1 |  
@@ -4751,7 +4751,7 @@ alarming /ə'lɑːrmɪŋ/ adj
 ### 1.*高义频：* **代数 (学)**  
 
 
-# ***<font color=#0099ff>\*alien</font>*** adj
+# ***\*alien*** adj
 英音 'eɪliən     美音 'eɪliən  
 
 | 词频 1 |  
@@ -4764,7 +4764,7 @@ alarming /ə'lɑːrmɪŋ/ adj
  > 异域文化    
 
 
-# ***<font color=#0099ff>\*alien</font>*** n
+# ***\*alien*** n
 英音 'eɪliən     美音 'eɪliən  
 
 | 词频 1 |  
@@ -4776,7 +4776,7 @@ alarming /ə'lɑːrmɪŋ/ adj
 ### 1.*高义频：* **侨民；外星人**  
 
 
-# ***<font color=#0099ff>\*alike</font>*** adj
+# ***\*alike*** adj
 英音 ə'laɪk     美音 ə'laɪk  
 
 | 词频 3 |  
@@ -4791,7 +4791,7 @@ alarming /ə'lɑːrmɪŋ/ adj
  > 幸福的家庭都是相似的，不幸的家庭各有各的不幸。  （— 列夫·托尔斯泰）  
 
 
-# ***<font color=#0099ff>\*alike</font>*** adv
+# ***\*alike*** adv
 英音 ə'laɪk     美音 ə'laɪk  
 
 | 词频 3 |  
@@ -4804,7 +4804,7 @@ alarming /ə'lɑːrmɪŋ/ adj
  > 这些科学乐园能给孩子极大的乐趣，对于成人也同样如此。  （2012 全国）  
 
 
-# ***<font color=#0099ff>\*alive</font>*** adj
+# ***\*alive*** adj
 英音 ə'laɪv     美音 ə'laɪv  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -4838,7 +4838,7 @@ Notes: alive 可作表语、补语或后置定语；无比较级和最高级。
 
 固定搭配
 ---
-## <font color=#0099ff>\*come alive</font>
+## \*come alive
 1.*高义频：* **变得有趣；生动起来(come to life)：**  
 
  > *The discussion came alive when an interesting topic was brought in. *  
@@ -4855,7 +4855,7 @@ Notes: alive 可作表语、补语或后置定语；无比较级和最高级。
  > 渔村在春季变得繁忙起来。    
 
 
-# ***<font color=#0099ff>\*all</font>*** adj  重难点词汇
+# ***\*all*** adj  重难点词汇
 英音 ɔːl     美音 ɔːl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4871,7 +4871,7 @@ Notes: alive 可作表语、补语或后置定语；无比较级和最高级。
  > 条条道路通罗马。    
 
 
-# ***<font color=#0099ff>\*all</font>*** adv  重难点词汇
+# ***\*all*** adv  重难点词汇
 英音 ɔːl     美音 ɔːl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4889,7 +4889,7 @@ Notes: alive 可作表语、补语或后置定语；无比较级和最高级。
 
 固定搭配
 ---
-## <font color=#0099ff>\*all along </font>
+## \*all along 
 1.**[非正式用语] 一直；始终：**  
 
  > *You’ve been very nice to me all along. *  
@@ -4898,20 +4898,20 @@ Notes: alive 可作表语、补语或后置定语；无比较级和最高级。
  > *I know that all along. *  
  > 那件事我自始至终都知道。    
 
-## <font color=#0099ff>\*all but </font>
+## \*all but 
 1.**几乎；差不多(almost)：**  
 
  > *The party was all but over when we arrived. *  
  > 我们到达时，聚会已近尾声。    
 
-## <font color=#0099ff>\*all too</font>
+## \*all too
 1.**[用于表示不好的情形] 极；甚：**  
 
  > *All too often, people buy a pen based only on looks.*  
  > 人们买笔时往往都只看外表。  （2010 安徽）  
 
 
-# ***<font color=#0099ff>\*all</font>*** pron  重难点词汇
+# ***\*all*** pron  重难点词汇
 英音 ɔːl     美音 ɔːl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4937,25 +4937,25 @@ Notes: alive 可作表语、补语或后置定语；无比较级和最高级。
 
 固定搭配
 ---
-## <font color=#0099ff>\*all in all</font>
+## \*all in all
 1.**总而言之 (altogether)：**  
 
  > *All in all her mother and I are very happy with her progress.*  
  > 总而言之，看到她的进步我和她妈妈都很高兴。  （人教⑦ – 1）  
 
-## <font color=#0099ff>\*in all </font>
+## \*in all 
 1.**总共 (altogether)：**  
 
  > *How many people were there in all at the party? *  
  > 出席聚会的共有多少人？    
 
-## <font color=#0099ff>\*not ... at all </font>
+## \*not ... at all 
 1.**根本不；一点也不：**  
 
  > *The ﬁlm was not interesting at all.*  
  > 电影一点儿也没意思。    
 
-## <font color=#0099ff>\*not at all </font>
+## \*not at all 
 1.**[客套语] 不客气：**  
 
  > *— It’s so kind of you and your parents. *  
@@ -4980,7 +4980,7 @@ D.that
 答案：
 1. that  2. Not at all  3. C  4. is  
 
-# ***<font color=#0099ff>\*all-round</font>*** adj
+# ***\*all-round*** adj
 英音 ˌɔːl'raʊnd     美音 ˌɔːl'raʊnd  
 
 | 词频 1 |  
@@ -4990,7 +4990,7 @@ D.that
 ### 1.**功能齐全的；全面的**  
 
 
-# ***<font color=#0099ff>\*allergic</font>*** adj
+# ***\*allergic*** adj
 英音 ə'lɜːdʒɪk     美音 ə'lɜːrdʒɪk  
 
 | 词频 1 |  
@@ -5011,7 +5011,7 @@ D.that
 答案：
 1. to  
 
-# ***<font color=#0099ff>\*alley</font>*** n
+# ***\*alley*** n
 英音 'ælɪ     美音 'ælɪ  
 
 | 词频 1 |  
@@ -5023,7 +5023,7 @@ D.that
 ### 1.*高义频：* **小巷；胡同**  
 
 
-# ***<font color=#0099ff>\*alligator</font>*** n
+# ***\*alligator*** n
 英音 'ælɪɡeɪtə(r)     美音 'ælɪɡeɪtər  
 
 | 词频 1 |  
@@ -5033,7 +5033,7 @@ D.that
 ### 1.**短吻鳄**  
 
 
-# ***<font color=#0099ff>\*allocate</font>*** vt
+# ***\*allocate*** vt
 英音 'æləkeɪt     美音 'æləkeɪt  
 
 | 词频 1 |  
@@ -5047,7 +5047,7 @@ D.that
  > 我已把国家一分为三，给你们每个人一份。  （人教⑩ – 2）  
 
 
-# ***<font color=#0099ff>\*allow</font>*** v  重难点词汇
+# ***\*allow*** v  重难点词汇
 英音 ə'laʊ     美音 ə'laʊ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5110,7 +5110,7 @@ D.that
 
 固定搭配
 ---
-## <font color=#0099ff>\*allow for </font>
+## \*allow for 
 1.**考虑到；顾及：**  
 
  > *Allowing for the bad weather, we should set off right now. *  
@@ -5134,7 +5134,7 @@ allowable  /ə'laʊəbl/ adj
 答案：
 1. to go  2. to flow  3. smoking  
 
-# ***<font color=#0099ff>\*allowance</font>*** n
+# ***\*allowance*** n
 英音 ə'laʊəns     美音 ə'laʊəns  
 
 | 词频 2 | 口语 2 | 书面 1 | 阅读 1 |  
@@ -5157,14 +5157,14 @@ allowable  /ə'laʊəbl/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*make allowance(s) for </font>
+## \*make allowance(s) for 
 1.**考虑到；顾及；体谅：**  
 
  > *Making allowances for his poor health, his boss allowed him to work six hours a day instead of eight.*  
  > 老板体谅他身体不好，让他每天工作六小时而不是八小时。    
 
 
-# ***<font color=#0099ff>\*almost</font>*** adv
+# ***\*almost*** adv
 英音 'ɔːlməʊst     美音 'ɔːlmoʊst  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5183,7 +5183,7 @@ allowable  /ə'laʊəbl/ adj
 二者都是副词，在肯定句中常可换用。区别如下：  
 
 
-# ***<font color=#0099ff>\*alone</font>*** adj
+# ***\*alone*** adj
 英音 ə'ləʊn     美音 ə'loʊn  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -5218,13 +5218,13 @@ allowable  /ə'laʊəbl/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*leave / let sb alone</font>
+## \*leave / let sb alone
 1.**不打扰某人；不管某人：**  
 
  > *Why don’t you just mind your own business and leave me alone?*  
  > 为什么你就不能少管闲事不打扰我？    
 
-## <font color=#0099ff>\*leave / let sth alone</font>
+## \*leave / let sth alone
 1.**不碰某物：**  
 
  > *Leave the cakes alone. They’re for the guests.*  
@@ -5243,7 +5243,7 @@ D.It’s up to you
 答案：
 1. A  
 
-# ***<font color=#0099ff>\*alone</font>*** adv
+# ***\*alone*** adv
 英音 ə'ləʊn     美音 ə'loʊn  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -5256,7 +5256,7 @@ D.It’s up to you
  > 他更喜欢独自旅行。    
 
 
-# ***<font color=#0099ff>\*along</font>*** prep
+# ***\*along*** prep
 英音 ə'lɒŋ     美音 ə'lɔːŋ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5269,7 +5269,7 @@ D.It’s up to you
  > 肖恩养成了每天沿着林荫道跑步两小时的习惯。  （2010 上海改）  
 
 
-# ***<font color=#0099ff>\*along</font>*** adv
+# ***\*along*** adv
 英音 ə'lɒŋ     美音 ə'lɔːŋ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5290,7 +5290,7 @@ D.It’s up to you
 
 固定搭配
 ---
-## <font color=#0099ff>\*along with</font>
+## \*along with
 1.**与···一起**  
 
  > *A sensible diet along with regular exercise is the best way to lose weight.*  
@@ -5306,7 +5306,7 @@ Notes: 主语后跟有along with短语时，谓语动词的单复数应和along 
 答案：
 1. is  
 
-# ***<font color=#0099ff>\*alongside</font>*** adv
+# ***\*alongside*** adv
 英音 əˌlɒŋ'saɪd     美音 əˌlɔːŋ'saɪd  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -5319,7 +5319,7 @@ Notes: 主语后跟有along with短语时，谓语动词的单复数应和along 
  > 他等了几分钟，直到一辆出租车靠边停下。    
 
 
-# ***<font color=#0099ff>\*alongside</font>*** prep
+# ***\*alongside*** prep
 英音 əˌlɒŋ'saɪd     美音 əˌlɔːŋ'saɪd  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -5340,7 +5340,7 @@ Notes: 主语后跟有along with短语时，谓语动词的单复数应和along 
  > 这个机器人不是为了替代工人，而是和其他员工一起工作。  （2015 天津改）  
 
 
-# ***<font color=#0099ff>\*aloud</font>*** adv
+# ***\*aloud*** adv
 英音 ə'laʊd     美音 ə'laʊd  
 
 | 词频 3 |  
@@ -5361,7 +5361,7 @@ Notes: 主语后跟有along with短语时，谓语动词的单复数应和along 
   
 
 
-# ***<font color=#0099ff>\*alphabet</font>*** n
+# ***\*alphabet*** n
 英音 'ælfəbet     美音 'ælfəbet  
 
 | 词频 1 |  
@@ -5373,7 +5373,7 @@ Notes: 主语后跟有along with短语时，谓语动词的单复数应和along 
 ### 1.*高义频：* **字母表；入门**  
 
 
-# ***<font color=#0099ff>\*alphabetical</font>*** adj
+# ***\*alphabetical*** adj
 英音 ˌælfə'betɪkl     美音 ˌælfə'betɪkl  
 
 | 词频 1 |  
@@ -5383,7 +5383,7 @@ Notes: 主语后跟有along with短语时，谓语动词的单复数应和along 
 ### 1.*高义频：* **字母 (表) 的；按字母顺序的**  
 
 
-# ***<font color=#0099ff>\*already</font>*** adv
+# ***\*already*** adv
 英音 ɔːl'redi     美音 ɔːl'redi  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5407,7 +5407,7 @@ Notes: 主语后跟有along with短语时，谓语动词的单复数应和along 
 
 Notes: already一般用在肯定句中，在否定句和疑问句中多用yet。  
 
-# ***<font color=#0099ff>\*also</font>*** adv
+# ***\*also*** adv
 英音 'ɔːlsəʊ     美音 'ɔːlsoʊ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5421,7 +5421,7 @@ Notes: already一般用在肯定句中，在否定句和疑问句中多用yet。
 
 Notes: also多用于肯定句中，否定句中多用either。 also多用于书面语，口语中多用too或as well。  
 
-# ***<font color=#0099ff>\*alter</font>*** v
+# ***\*alter*** v
 英音 'ɔːltə(r)     美音 'ɔːltər  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -5431,7 +5431,7 @@ Notes: also多用于肯定句中，否定句中多用either。 also多用于书�
 ### 1.*高义频：* **(使) 改变；(使) 变化**  
 
 
-# ***<font color=#0099ff>\*alternative</font>*** n  重难点词汇
+# ***\*alternative*** n  重难点词汇
 英音 ɔːl'tɜːnətɪv     美音 ɔːl'tɜːnətɪv  
 
 | 词频 3 | 口语 2 | 书面 1 | 阅读 2 |  
@@ -5452,7 +5452,7 @@ Notes: also多用于肯定句中，否定句中多用either。 also多用于书�
 
 固定搭配
 ---
-## <font color=#0099ff>\*have no alternative but to do sth</font>
+## \*have no alternative but to do sth
 1.**除了做某事别无选择：**  
 
  > *I had no alternative but to report him to the police. *  
@@ -5467,7 +5467,7 @@ alternatively /ɔːl'tɜːrnətɪvli/ adv
  > 我可以来你家找你，或者我们也可以在城里见面。    
 
 
-# ***<font color=#0099ff>\*alternative</font>*** adj  重难点词汇
+# ***\*alternative*** adj  重难点词汇
 英音 ɔːl'tɜːnətɪv     美音 ɔːl'tɜːrnətɪv  
 
 | 词频 3 | 口语 2 | 书面 2 | 阅读 2 |  
@@ -5494,7 +5494,7 @@ alternatively /ɔːl'tɜːrnətɪvli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*alternative energy </font>
+## \*alternative energy 
 1.**替代能源 (指太阳能、风能、水能等)**  
 
 
@@ -5518,7 +5518,7 @@ D.apparent
 答案：
 1. A  2. alternative energy  
 
-# ***<font color=#0099ff>\*although</font>*** conj
+# ***\*although*** conj
 英音 ɔːl'ðəʊ     美音 ɔːl'ðoʊ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5551,7 +5551,7 @@ D.Once
 答案：
 1. Although / Though  2. C  
 
-# ***<font color=#0099ff>\*altitude</font>*** n
+# ***\*altitude*** n
 英音 'æltɪtjuːd     美音 'æltɪtuːd  
 
 | 词频 1 |  
@@ -5561,7 +5561,7 @@ D.Once
 ### 1.**[C] (海拔) 高度；高处**  
 
 
-# ***<font color=#0099ff>\*altogether</font>*** adv
+# ***\*altogether*** adv
 英音 ˌɔːltə'ɡeðə(r)     美音 ˌɔːltə'ɡeðər  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -5584,7 +5584,7 @@ D.Once
  > 火车速度越来越慢，最后彻底停了下来。    
 
 
-# ***<font color=#0099ff>\*aluminium</font>*** n
+# ***\*aluminium*** n
 英音 ˌæljə'mɪniəm     美音 ˌæljə'mɪniəm  
 
 | 词频 1 |  
@@ -5596,7 +5596,7 @@ D.Once
 ### 1.*高义频：* **铝**  
 
 
-# ***<font color=#0099ff>\*always</font>*** adv
+# ***\*always*** adv
 英音 'ɔːlweɪz     美音 'ɔːlweɪz  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5620,14 +5620,14 @@ Notes: always与进行时连用，有时表示因一件事情多次重复，说�
 
 固定搭配
 ---
-## <font color=#0099ff>\*as always</font>
+## \*as always
 1.**同往常一样 (as usual)：**  
 
  > *As always, he puts on his shoes and goes for a walk.*  
  > 他和平时一样，穿上鞋出去散步了。    
 
 
-# ***<font color=#0099ff>\*am</font>*** 
+# ***\*am*** 
 英音 em     美音 em  
 
   
@@ -5637,7 +5637,7 @@ Notes: always与进行时连用，有时表示因一件事情多次重复，说�
 ### 1.**午前,上午**  
 
 
-# ***<font color=#0099ff>\*amateur</font>*** n
+# ***\*amateur*** n
 英音 'æmətə(r)     美音 'æmətər  
 
 | 词频 1 |  
@@ -5650,7 +5650,7 @@ Notes: always与进行时连用，有时表示因一件事情多次重复，说�
  > 这次比赛不仅职业选手可以参加，而且业余选手也可以参加。    
 
 
-# ***<font color=#0099ff>\*amateur</font>*** adj
+# ***\*amateur*** adj
 英音 'æmətə(r)     美音 'æmətər  
 
 | 词频 1 |  
@@ -5663,7 +5663,7 @@ Notes: always与进行时连用，有时表示因一件事情多次重复，说�
  > 业余摄影爱好者    
 
 
-# ***<font color=#0099ff>\*amaze</font>*** vt
+# ***\*amaze*** vt
 英音 ə'meɪz     美音 ə'meɪz  
 
 | 词频 3 |  
@@ -5681,7 +5681,7 @@ Notes: always与进行时连用，有时表示因一件事情多次重复，说�
 ---
 amazement /ə'meɪzmənt/ n   
 
-# ***<font color=#0099ff>\*amazed</font>*** adj
+# ***\*amazed*** adj
 英音 ə'meɪzd     美音 ə'meɪzd  
 
 | 词频 3 |  
@@ -5714,7 +5714,7 @@ amazement /ə'meɪzmənt/ n
 答案：
 1. amazing→amazed: 去掉more  2. amazed  
 
-# ***<font color=#0099ff>\*amazement</font>*** n
+# ***\*amazement*** n
 英音 ə'meɪzmənt     美音 ə'meɪzmənt  
 
 | 词频 2 |  
@@ -5726,7 +5726,7 @@ amazement /ə'meɪzmənt/ n
 ### 1.*高义频：* **惊讶；惊愕**  
 
 
-# ***<font color=#0099ff>\*amazing</font>*** adj
+# ***\*amazing*** adj
 英音 ə'meɪzɪŋ     美音 ə'meɪzɪŋ  
 
 | 词频 4 | 口语 2 |  
@@ -5739,7 +5739,7 @@ amazement /ə'meɪzmənt/ n
  > 曾被摧毁的地方现在已变成了一所美丽的学校，真让人难以相信。  （2011福建）  
 
 
-# ***<font color=#0099ff>\*ambassador</font>*** n
+# ***\*ambassador*** n
 英音 æm'bæsədə(r)     美音 æm'bæsədər  
 
 | 词频 1 |  
@@ -5753,7 +5753,7 @@ amazement /ə'meɪzmənt/ n
  > 英国驻希腊大使    
 
 
-# ***<font color=#0099ff>\*ambassadress</font>*** n
+# ***\*ambassadress*** n
 英音 æm'bæsədres     美音 æm'bæsədres  
 
 | 词频 1 |  
@@ -5763,7 +5763,7 @@ amazement /ə'meɪzmənt/ n
 ### 1.*高义频：* **[C] 女大使；大使夫人**  
 
 
-# ***<font color=#0099ff>\*amber</font>*** n
+# ***\*amber*** n
 英音 'æmbə(r)     美音 'æmbər  
 
 | 词频 1 |  
@@ -5775,7 +5775,7 @@ amazement /ə'meɪzmənt/ n
 ### 1.*高义频：* **琥珀；琥珀色**  
 
 
-# ***<font color=#0099ff>\*ambiguous</font>*** adj
+# ***\*ambiguous*** adj
 英音 æm'bɪɡjuəs     美音 æm'bɪɡjuəs  
 
 | 词频 1 |  
@@ -5788,7 +5788,7 @@ amazement /ə'meɪzmənt/ n
  > 身势语有时会产生歧义。  （北师大⑦ – 19）  
 
 
-# ***<font color=#0099ff>\*ambition</font>*** n
+# ***\*ambition*** n
 英音 æm'bɪʃn     美音 æm'bɪʃn  
 
 | 词频 3 | 书面 1 | 阅读 1 |  
@@ -5807,7 +5807,7 @@ amazement /ə'meɪzmənt/ n
  > 她最终实现了自己的夙愿，成了著名的作家。    
 
 
-# ***<font color=#0099ff>\*ambitious</font>*** adj
+# ***\*ambitious*** adj
 英音 æm'bɪʃəs     美音 æm'bɪʃəs  
 
 | 词频 2 |  
@@ -5817,7 +5817,7 @@ amazement /ə'meɪzmənt/ n
 ### 1.*高义频：* **有抱负的；野心勃勃的**  
 
 
-# ***<font color=#0099ff>\*ambulance</font>*** n
+# ***\*ambulance*** n
 英音 'æmbjələns     美音 'æmbjələns  
 
 | 词频 2 | 口语 1 |  
@@ -5827,7 +5827,7 @@ amazement /ə'meɪzmənt/ n
 ### 1.*高义频：* **[C] 救护车**  
 
 
-# ***<font color=#0099ff>\*amid</font>*** prep
+# ***\*amid*** prep
 英音 ə'mɪd     美音 ə'mɪd  
 
 | 词频 1 |  
@@ -5837,7 +5837,7 @@ amazement /ə'meɪzmənt/ n
 ### 1.**在……中**  
 
 
-# ***<font color=#0099ff>\*among</font>*** prep
+# ***\*among*** prep
 英音 ə'mʌŋ     美音 ə'mʌŋ  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -5855,7 +5855,7 @@ amazement /ə'meɪzmənt/ n
  > 武汉是中国最大的工业城市之一。    
 
 
-# ***<font color=#0099ff>\*amount</font>*** n
+# ***\*amount*** n
 英音 ə'maʊnt     美音 ə'maʊnt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5880,14 +5880,14 @@ Notes: amounts of / a large (huge / small) amount of 尤与不可数名词连用
  > 只有一点儿食物。    
 
 
-# ***<font color=#0099ff>\*amount</font>*** vi
+# ***\*amount*** vi
 英音 ə'maʊnt     美音 ə'maʊnt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
 固定搭配
 ---
-## <font color=#0099ff>\*amount to:</font>
+## \*amount to:
 1.*高义频：* **达到 (某数量)；合计：**  
 
  > *At the start of this year, foreigners living in Italy amounted to 4.56 million.*  
@@ -5899,7 +5899,7 @@ Notes: amounts of / a large (huge / small) amount of 尤与不可数名词连用
  > 占有别人的东西就相当于偷窃。    
 
 
-# ***<font color=#0099ff>\*amphibian</font>*** n
+# ***\*amphibian*** n
 英音 æm'fɪbiən     美音 æm'fɪbiən  
 
 | 词频 1 |  
@@ -5911,7 +5911,7 @@ Notes: amounts of / a large (huge / small) amount of 尤与不可数名词连用
 ### 1.*高义频：* **两栖动物**  
 
 
-# ***<font color=#0099ff>\*amphibious</font>*** adj
+# ***\*amphibious*** adj
 英音 æm'fɪbiəs     美音 æm'fɪbiəs  
 
 | 词频 1 |  
@@ -5921,7 +5921,7 @@ Notes: amounts of / a large (huge / small) amount of 尤与不可数名词连用
 ### 1.*高义频：* **两栖 (类) 的**  
 
 
-# ***<font color=#0099ff>\*ample</font>*** adj
+# ***\*ample*** adj
 英音 'æmpl     美音 'æmpl  
 
 | 词频 1 |  
@@ -5936,7 +5936,7 @@ Notes: amounts of / a large (huge / small) amount of 尤与不可数名词连用
  > 他们给他充裕的时间来做这项研究。  （人教⑧ – 5）  
 
 
-# ***<font color=#0099ff>\*amuse</font>*** vt
+# ***\*amuse*** vt
 英音 ə'mjuːz     美音 ə'mjuːz  
 
 | 词频 1 |  
@@ -5954,7 +5954,7 @@ Notes: amounts of / a large (huge / small) amount of 尤与不可数名词连用
 ---
 amusing /ə'mjuːzɪŋ/ adj   
 
-# ***<font color=#0099ff>\*amused</font>*** adj
+# ***\*amused*** adj
 英音 ə'mjuːzd     美音 ə'mjuːzd  
 
 | 词频 2 |  
@@ -5979,7 +5979,7 @@ amusing /ə'mjuːzɪŋ/ adj
 答案：
 1. amused  
 
-# ***<font color=#0099ff>\*amusement</font>*** n
+# ***\*amusement*** n
 英音 ə'mjuːzmənt     美音 ə'mjuːzmənt  
 
 | 词频 2 |  
@@ -6002,7 +6002,7 @@ amusing /ə'mjuːzɪŋ/ adj
  > 大城市有许多娱乐活动。    
 
 
-# ***<font color=#0099ff>\*amusing</font>*** adj
+# ***\*amusing*** adj
 英音 ə'mjuːzɪŋ     美音 ə'mjuːzɪŋ  
 
 | 词频 2 |  
@@ -6012,7 +6012,7 @@ amusing /ə'mjuːzɪŋ/ adj
 ### 1.*高义频：* **好笑的；有趣的**  
 
 
-# ***<font color=#0099ff>\*an</font>*** art
+# ***\*an*** art
 英音 ən, æn     美音 ən  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6067,7 +6067,7 @@ every day.
 答案：
 1. an → a  2. the → a  3. 第一个a → an / one  4. the; a  5. a; the  
 
-# ***<font color=#0099ff>\*analyse</font>*** vt
+# ***\*analyse*** vt
 英音 'ænəlaɪz     美音 'ænəlaɪz  
 
 | 词频 4 | 阅读 3 |  
@@ -6083,7 +6083,7 @@ every day.
  > 在他的帮助下，我们学会了如何分析问题、解决问题。    
 
 
-# ***<font color=#0099ff>\*analysis</font>*** n
+# ***\*analysis*** n
 英音 ə'næləsɪs     美音 ə'næləsɪs  
 
 | 词频 2 | 口语 1 | 书面 3 | 阅读 3 |  
@@ -6103,7 +6103,7 @@ every day.
  > 血样被送到实验室作分析。    
 
 
-# ***<font color=#0099ff>\*analyst</font>*** n
+# ***\*analyst*** n
 英音 'ænəlɪst     美音 'ænəlɪst  
 
 | 词频 1 |  
@@ -6113,7 +6113,7 @@ every day.
 ### 1.**分析家；分析师**  
 
 
-# ***<font color=#0099ff>\*analytical</font>*** adj
+# ***\*analytical*** adj
 英音 ˌænə'lɪtɪkl     美音 ˌænə'lɪtɪkl  
 
 | 词频 1 |  
@@ -6123,7 +6123,7 @@ every day.
 ### 1.*高义频：* **分析的**  
 
 
-# ***<font color=#0099ff>\*analyze</font>*** vt
+# ***\*analyze*** vt
 英音 'ænəlaɪz     美音 'ænəlaɪz  
 
 | 词频 3 | 阅读 3 |  
@@ -6139,7 +6139,7 @@ every day.
  > 在他的帮助下，我们学会了如何分析问题、解决问题。    
 
 
-# ***<font color=#0099ff>\*ancestor</font>*** n
+# ***\*ancestor*** n
 英音 'ænsestə(r)     美音 'ænsestər  
 
 | 词频 3 |  
@@ -6151,7 +6151,7 @@ every day.
 ### 1.*高义频：* **祖宗；祖先**  
 
 
-# ***<font color=#0099ff>\*anchor</font>*** n
+# ***\*anchor*** n
 英音 'æŋkə(r)     美音 'æŋkər  
 
 | 词频 1 |  
@@ -6163,7 +6163,7 @@ every day.
 ### 1.*高义频：* **锚**  
 
 
-# ***<font color=#0099ff>\*anchor</font>*** v
+# ***\*anchor*** v
 英音 'æŋkə(r)     美音 'æŋkər  
 
 | 词频 1 |  
@@ -6175,7 +6175,7 @@ every day.
 ### 2.**使稳固；使固定**  
 
 
-# ***<font color=#0099ff>\*ancient</font>*** adj
+# ***\*ancient*** adj
 英音 'eɪnʃənt     美音 'eɪnʃənt  
 
 | 词频 4 | 书面 2 |  
@@ -6191,7 +6191,7 @@ every day.
  > 这是个有名的中国古代成语故事。  （2015 福建书面表达）  
 
 
-# ***<font color=#0099ff>\*and</font>*** conj
+# ***\*and*** conj
 英音 ənd     美音 ənd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6237,7 +6237,7 @@ D.so
 答案：
 1. or→and  2. and  3. A  
 
-# ***<font color=#0099ff>\*android</font>*** n
+# ***\*android*** n
 英音 'ændrɔɪd     美音 'ændrɔɪd  
 
 | 词频 1 |  
@@ -6249,7 +6249,7 @@ D.so
 ### 1.*高义频：* **机器人；安卓系统 (Google开发的基于Linux平台的手机操作系统)**  
 
 
-# ***<font color=#0099ff>\*anecdote</font>*** n
+# ***\*anecdote*** n
 英音 'ænɪkdəʊt     美音 'ænɪkdoʊt  
 
 | 词频 1 |  
@@ -6261,7 +6261,7 @@ D.so
 ### 1.*高义频：* **轶事；奇闻**  
 
 
-# ***<font color=#0099ff>\*angel</font>*** n
+# ***\*angel*** n
 英音 'eɪndʒl     美音 'eɪndʒl  
 
 | 词频 2 |  
@@ -6273,7 +6273,7 @@ D.so
 ### 1.*高义频：* **天使；仁慈、善良或可爱的人**  
 
 
-# ***<font color=#0099ff>\*anger</font>*** n
+# ***\*anger*** n
 英音 'æŋɡə(r)     美音 'æŋɡər  
 
 | 词频 4 | 书面 1 |  
@@ -6295,7 +6295,7 @@ D.so
  > 他很容易被激怒。    
 
 
-# ***<font color=#0099ff>\*anger</font>*** vt
+# ***\*anger*** vt
 英音 'æŋɡə(r)     美音 'æŋɡər  
 
 | 词频 4 | 书面 1 |  
@@ -6308,7 +6308,7 @@ D.so
  > 他很容易被激怒。    
 
 
-# ***<font color=#0099ff>\*angle</font>*** n
+# ***\*angle*** n
 英音 'æŋɡl     美音 'æŋɡl  
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 1 |  
@@ -6332,7 +6332,7 @@ D.so
  > 试着从另一个角度来看这件事。    
 
 
-# ***<font color=#0099ff>\*angry</font>*** adj
+# ***\*angry*** adj
 英音 'æŋɡri     美音 'æŋɡri  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -6362,7 +6362,7 @@ D.so
 ---
 angrily /'æŋɡrəli/ adv   
 
-# ***<font color=#0099ff>\*animal</font>*** n
+# ***\*animal*** n
 英音 'ænɪml     美音 'ænɪml  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6385,7 +6385,7 @@ angrily /'æŋɡrəli/ adv
 答案：
 1. animals  
 
-# ***<font color=#0099ff>\*ankle</font>*** n
+# ***\*ankle*** n
 英音 'æŋkl     美音 'æŋkl  
 
 | 词频 1 |  
@@ -6397,7 +6397,7 @@ angrily /'æŋɡrəli/ adv
 ### 1.*高义频：* **踝；脚踝；踝骨**  
 
 
-# ***<font color=#0099ff>\*anniversary</font>*** n
+# ***\*anniversary*** n
 英音 ˌænɪ'vɜːsəri     美音 ˌænɪ'vɜːrsəri  
 
 | 词频 2 |  
@@ -6412,7 +6412,7 @@ angrily /'æŋɡrəli/ adv
  > 结婚40周年纪念日    
 
 
-# ***<font color=#0099ff>\*announce</font>*** vt
+# ***\*announce*** vt
 英音 ə'naʊns     美音 ə'naʊns  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -6442,7 +6442,7 @@ angrily /'æŋɡrəli/ adv
 ---
 announcer /ə'naʊnsə(r)/ n [C]  
 
-# ***<font color=#0099ff>\*announcement</font>*** n
+# ***\*announcement*** n
 英音 ə'naʊnsmənt     美音 ə'naʊnsmənt  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -6460,7 +6460,7 @@ announcer /ə'naʊnsə(r)/ n [C]
  > 阅读了你们在网上发布的夏令营布告，对此我很感兴趣。  （2012 全国书面表达）  
 
 
-# ***<font color=#0099ff>\*announcer</font>*** n
+# ***\*announcer*** n
 英音 ə'naʊnsə(r)     美音 ə'naʊnsər  
 
 | 词频 1 |  
@@ -6472,7 +6472,7 @@ announcer /ə'naʊnsə(r)/ n [C]
 ### 1.*高义频：* **广播员；告知者；报幕员**  
 
 
-# ***<font color=#0099ff>\*annoy</font>*** vt
+# ***\*annoy*** vt
 英音 ə'nɔɪ     美音 ə'nɔɪ  
 
 | 词频 4 | 口语 1 |  
@@ -6493,7 +6493,7 @@ announcer /ə'naʊnsə(r)/ n [C]
 ---
 annoying /ə'nɔɪɪŋ/ adj   
 
-# ***<font color=#0099ff>\*annoyance</font>*** n
+# ***\*annoyance*** n
 英音 ə'nɔɪəns     美音 ə'nɔɪəns  
 
 | 词频 1 |  
@@ -6505,7 +6505,7 @@ annoying /ə'nɔɪɪŋ/ adj
 ### 1.*高义频：* **烦恼，气恼**  
 
 
-# ***<font color=#0099ff>\*annoyed</font>*** adj
+# ***\*annoyed*** adj
 英音 ə'nɔɪd     美音 ə'nɔɪd  
 
 | 词频 2 |  
@@ -6530,7 +6530,7 @@ annoying /ə'nɔɪɪŋ/ adj
  > 那些图书不见了，戴维斯先生很生气。    
 
 
-# ***<font color=#0099ff>\*annual</font>*** adj
+# ***\*annual*** adj
 英音 'ænjuəl     美音 'ænjuəl  
 
 | 词频 2 | 口语 2 | 书面 2 | 阅读 2 |  
@@ -6555,7 +6555,7 @@ annoying /ə'nɔɪɪŋ/ adj
 ---
 annually /'ænjuəli/ adv   
 
-# ***<font color=#0099ff>\*anonymous</font>*** adj
+# ***\*anonymous*** adj
 英音 ə'nɒnɪməs     美音 ə'nɑːnɪməs  
 
 | 词频 2 |  
@@ -6569,7 +6569,7 @@ annually /'ænjuəli/ adv
  > 匿名信    
 
 
-# ***<font color=#0099ff>\*another</font>*** pron
+# ***\*another*** pron
 英音 ə'nʌðə(r)     美音 ə'nʌðər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6584,13 +6584,13 @@ annually /'ænjuəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*one after another</font>
+## \*one after another
 1.**陆续地；一个接一个地**  
 
-## <font color=#0099ff>\*one another</font>
+## \*one another
 1.**互相**  
 
-## <font color=#0099ff>\*one thing ... another ...</font>
+## \*one thing ... another ...
 1.**一回事…另一回事：**  
 
  > *Saying is one thing and doing another.*  
@@ -6604,7 +6604,7 @@ annually /'ænjuəli/ adv
 答案：
 1. another  
 
-# ***<font color=#0099ff>\*another</font>*** adj
+# ***\*another*** adj
 英音 ə'nʌðə(r)     美音 ə'nʌðər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6623,7 +6623,7 @@ annually /'ænjuəli/ adv
  > 抱歉，我们换个时间吧。  （2008 重庆）  
 
 
-# ***<font color=#0099ff>\*answer</font>*** v
+# ***\*answer*** v
 英音 'ɑːnsə(r)     美音 'ænsər  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -6655,14 +6655,14 @@ annually /'ænjuəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*answer for</font>
+## \*answer for
 1.**对…负责；对…承担责任：**  
 
  > *You’ll have to answer for your wrongdoing one day.*  
  > 总有一天，你要对你所做的错事负责。    
 
 
-# ***<font color=#0099ff>\*answer</font>*** n
+# ***\*answer*** n
 英音 'ɑːnsə(r)     美音 'ænsər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6694,14 +6694,14 @@ annually /'ænjuəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*in answer to</font>
+## \*in answer to
 1.**作为对…的回答；应…的要求：**  
 
  > *The doctor came at once in answer to my telephone call.*  
  > 医生接了我的电话后就立即赶过来了。    
 
 
-# ***<font color=#0099ff>\*ant</font>*** n
+# ***\*ant*** n
 英音 ænt     美音 ænt  
 
 | 词频 1 |  
@@ -6713,7 +6713,7 @@ annually /'ænjuəli/ adv
 ### 1.*高义频：* **蚂蚁**  
 
 
-# ***<font color=#0099ff>\*antelope</font>*** n
+# ***\*antelope*** n
 英音 'æntɪləʊp     美音 'æntɪloʊp  
 
 | 词频 1 |  
@@ -6725,7 +6725,7 @@ annually /'ænjuəli/ adv
 ### 1.*高义频：* **羚；羚类动物**  
 
 
-# ***<font color=#0099ff>\*anti-</font>*** prefix
+# ***\*anti-*** prefix
 英音 'ænti     美音 'æntaɪ  
 
 | 词频 2 |  
@@ -6741,7 +6741,7 @@ annually /'ænjuəli/ adv
  > 杀毒软件    
 
 
-# ***<font color=#0099ff>\*anti-black</font>*** adj
+# ***\*anti-black*** adj
 英音 'ænti blæk     美音 'ænti blæk  
 
 | 词频 1 |  
@@ -6751,7 +6751,7 @@ annually /'ænjuəli/ adv
 ### 1.*高义频：* **反黑人的**  
 
 
-# ***<font color=#0099ff>\*anti-smoking</font>*** n
+# ***\*anti-smoking*** n
 英音 ˌæntiˈsməʊkɪŋ     美音 ˌæntiˈsməʊkɪŋ  
 
 | 词频 1 |  
@@ -6761,7 +6761,7 @@ annually /'ænjuəli/ adv
 ### 1.**反对吸烟**  
 
 
-# ***<font color=#0099ff>\*anticipate</font>*** vt
+# ***\*anticipate*** vt
 英音 æn'tɪsɪpeɪt     美音 æn'tɪsɪpeɪt  
 
 | 词频 1 | 口语 1 |  
@@ -6774,7 +6774,7 @@ annually /'ænjuəli/ adv
  > 优秀的演讲者能够预先考虑到听众的需求。    
 
 
-# ***<font color=#0099ff>\*antique</font>*** adj
+# ***\*antique*** adj
 英音 æn'tiːk     美音 æn'tiːk  
 
 | 词频 3 |  
@@ -6787,7 +6787,7 @@ annually /'ænjuəli/ adv
  > 他们永远也不会卖掉自己的古式家具。  （北师大⑧ – 23）  
 
 
-# ***<font color=#0099ff>\*antique</font>*** n
+# ***\*antique*** n
 英音 æn'tiːk     美音 æn'tiːk  
 
 | 词频 3 |  
@@ -6802,7 +6802,7 @@ annually /'ænjuəli/ adv
  > 极其贵重的古董在大火中被焚毁了。    
 
 
-# ***<font color=#0099ff>\*anxiety</font>*** n
+# ***\*anxiety*** n
 英音 æŋ'zaɪəti     美音 æŋ'zaɪəti  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -6834,7 +6834,7 @@ annually /'ænjuəli/ adv
  > 很明显，他渴望赢得选举的胜利。    
 
 
-# ***<font color=#0099ff>\*anxious</font>*** adj  重难点词汇
+# ***\*anxious*** adj  重难点词汇
 英音 'æŋkʃəs     美音 'æŋkʃəs  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -6886,7 +6886,7 @@ anxiously /'æŋkʃəsli/ adv
 答案：
 1. anxious / worried  
 
-# ***<font color=#0099ff>\*any</font>*** adv
+# ***\*any*** adv
 英音 'eni     美音 'eni  
 
 | 词频 5 | 口语 2 |  
@@ -6910,7 +6910,7 @@ anxiously /'æŋkʃəsli/ adv
 答案：
 1. any  2. any  
 
-# ***<font color=#0099ff>\*any</font>*** adj
+# ***\*any*** adj
 英音 'eni     美音 'eni  
 
 | 词频 5 |  
@@ -6934,7 +6934,7 @@ anxiously /'æŋkʃəsli/ adv
  > 无论何时，只要需要我，就派人来找我。    
 
 
-# ***<font color=#0099ff>\*any</font>*** pron
+# ***\*any*** pron
 英音 'eni     美音 'eni  
 
 | 词频 5 | 口语 3 |  
@@ -6955,7 +6955,7 @@ anxiously /'æŋkʃəsli/ adv
  > 他的电影我一部都没看过。    
 
 
-# ***<font color=#0099ff>\*anybody</font>*** pron
+# ***\*anybody*** pron
 英音 'enibɒdi     美音 'enibɑːdi  
 
 | 词频 5 | 口语 3 | 书面 1 |  
@@ -6977,7 +6977,7 @@ anxiously /'æŋkʃəsli/ adv
  > 没有必要伤害别人的感情。    
 
 
-# ***<font color=#0099ff>\*anyhow</font>*** adv
+# ***\*anyhow*** adv
 英音 'enihaʊ     美音 'enihaʊ  
 
 | 词频 2 | 口语 1 |  
@@ -6995,7 +6995,7 @@ anxiously /'æŋkʃəsli/ adv
  > 没有吃的了。反正我也不饿。    
 
 
-# ***<font color=#0099ff>\*anyone</font>*** pron
+# ***\*anyone*** pron
 英音 'eniwʌn     美音 'eniwʌn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -7029,7 +7029,7 @@ D.nobody else
 答案：
 1. B  
 
-# ***<font color=#0099ff>\*anything</font>*** pron
+# ***\*anything*** pron
 英音 'eniθɪŋ     美音 'eniθɪŋ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -7062,7 +7062,7 @@ D.nobody else
 
 固定搭配
 ---
-## <font color=#0099ff>\*anything but</font>
+## \*anything but
 1.**根本不；除…以外的任何事物：**  
 
  > *Maria is anything but stupid!*  
@@ -7071,20 +7071,20 @@ D.nobody else
  > *Anything but a center seat is fine with me.*  
  > 除了中间的座位，其他哪里都行。    
 
-## <font color=#0099ff>\*anything like sb / sth</font>
+## \*anything like sb / sth
 1.**与某人 / 某物相像；全然 (不)：**  
 
  > *You don’t look anything like your mother.*  
  > 你长得一点儿也不像你母亲。    
 
-## <font color=#0099ff>\*if anything</font>
+## \*if anything
 1.**[口语] [用于补充内容以强调前面所说的话] 要是有什么的话：**  
 
  > *Sam didn’t seem too disappointed at losing. If anything, he seemed relieved that it was all over.*  
  > 对于失败山姆看起来并不怎么失望，要是说有什么的话，倒是这事儿结束了，他好像松了一口气。    
 
 
-# ***<font color=#0099ff>\*anyway</font>*** adv
+# ***\*anyway*** adv
 英音 'eniweɪ     美音 'eniweɪ  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -7131,7 +7131,7 @@ D.Therefore
 答案：
 1. A  
 
-# ***<font color=#0099ff>\*anywhere</font>*** adv
+# ***\*anywhere*** adv
 英音 'eniweə(r)     美音 'eniwer  
 
 | 词频 4 | 口语 3 | 书面 1 |  
@@ -7158,7 +7158,7 @@ D.Therefore
 
 固定搭配
 ---
-## <font color=#0099ff>\*anywhere between … and … / from … to …</font>
+## \*anywhere between … and … / from … to …
 1.**在…到…之间 / 从…到…：**  
 
  > *As a tutor you could expect to be paid anywhere between 100 yuan and 200 yuan per hour.*  
@@ -7180,7 +7180,7 @@ D.somewhere
 答案：
 1. between  2. C  
 
-# ***<font color=#0099ff>\*apart</font>*** adv
+# ***\*apart*** adv
 英音 ə'pɑːt     美音 ə'pɑːrt  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -7222,7 +7222,7 @@ D.somewhere
 
 固定搭配
 ---
-## <font color=#0099ff>\*apart from</font>
+## \*apart from
 1.*高义频：* **除…外 (别无)；若不：**  
 
  > *Apart from them, I had no one to talk to.*  
@@ -7233,7 +7233,7 @@ D.somewhere
  > *Apart from providing warmth, what was fire used for?*  
  > 除了用来取暖，火还有什么用处？  （外 研⑦ – 6）  
 
-## <font color=#0099ff>\*be worlds apart</font>
+## \*be worlds apart
 1.**完全不同；截然相反：**  
 
  > *Their experience of life is worlds apart.*  
@@ -7247,7 +7247,7 @@ D.somewhere
 答案：
 1. from  
 
-# ***<font color=#0099ff>\*apartment</font>*** n
+# ***\*apartment*** n
 英音 ə'pɑːtmənt     美音 ə'pɑːrtmənt  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -7259,7 +7259,7 @@ D.somewhere
 ### 1.*高义频：* **(AmE) 一套公寓房间；公寓大楼 (BrE  flat)：**  
 
 
-# ***<font color=#0099ff>\*apologise</font>*** vi
+# ***\*apologise*** vi
 英音 ə'pɒlədʒaɪz     美音 ə'pɒlədʒaɪz  
 
 | 词频 4 | 口语 2 |  
@@ -7288,7 +7288,7 @@ apologetic /əˌpɑːlə'dʒetɪk/ adj
 答案：
 1. apologised / apologized  
 
-# ***<font color=#0099ff>\*apologize</font>*** vi
+# ***\*apologize*** vi
 英音 ə'pɒlədʒaɪz     美音 ə'pɑːlədʒaɪz  
 
 | 词频 4 | 口语 2 |  
@@ -7317,7 +7317,7 @@ apologetic /əˌpɑːlə'dʒetɪk/ adj
 答案：
 1. apologized / apologised  
 
-# ***<font color=#0099ff>\*apology</font>*** n
+# ***\*apology*** n
 英音 ə'pɒlədʒi     美音 ə'pɑːlədʒi  
 
 | 词频 3 | 口语 1 |  
@@ -7358,7 +7358,7 @@ D.regrets
 答案：
 1. C  2. apology  
 
-# ***<font color=#0099ff>\*apostrophe</font>*** n
+# ***\*apostrophe*** n
 英音 ə'pɒstrəfi     美音 ə'pɑːstrəfi  
 
 | 词频 1 |  
@@ -7368,7 +7368,7 @@ D.regrets
 ### 1.**表示所有格的撇号**  
 
 
-# ***<font color=#0099ff>\*app</font>*** n
+# ***\*app*** n
 
 
 | 词频 2 |  
@@ -7378,7 +7378,7 @@ D.regrets
 ### 1.**应用程序；应用软件（application的缩略形式）**  
 
 
-# ***<font color=#0099ff>\*apparent</font>*** adj
+# ***\*apparent*** adj
 英音 ə'pærənt     美音 ə'pærənt  
 
 | 词频 2 | 书面 2 | 阅读 2 |  
@@ -7401,7 +7401,7 @@ D.regrets
  > 他考得很好，尽管表面上他对功课不感兴趣。    
 
 
-# ***<font color=#0099ff>\*apparently</font>*** adv
+# ***\*apparently*** adv
 英音 ə'pærəntli     美音 ə'pærəntli  
 
 | 词频 3 | 口语 3 | 书面 2 | 阅读 3 |  
@@ -7419,7 +7419,7 @@ D.regrets
  > 我当时不在场，但据说音乐会很精彩。    
 
 
-# ***<font color=#0099ff>\*appeal</font>*** v  重难点词汇
+# ***\*appeal*** v  重难点词汇
 英音 ə'piːl     美音 ə'piːl  
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 2 |  
@@ -7486,7 +7486,7 @@ appealing /ə'piːlɪŋ/ adj
 答案：
 1. to  
 
-# ***<font color=#0099ff>\*appeal</font>*** n  重难点词汇
+# ***\*appeal*** n  重难点词汇
 英音 ə'piːl     美音 ə'piːl  
 
 | 词频 3 | 口语 2 | 书面 3 | 阅读 2 |  
@@ -7528,7 +7528,7 @@ appealing /ə'piːlɪŋ/ adj
  > 通过上诉，刑期减为三年。    
 
 
-# ***<font color=#0099ff>\*appealing</font>*** adj
+# ***\*appealing*** adj
 英音 ə'piːlɪŋ     美音 ə'piːlɪŋ  
 
   
@@ -7538,7 +7538,7 @@ appealing /ə'piːlɪŋ/ adj
 ### 1.**有吸引力的,有趣的**  
 
 
-# ***<font color=#0099ff>\*appear</font>*** vi  重难点词汇
+# ***\*appear*** vi  重难点词汇
 英音 ə'pɪə(r)     美音 ə'pɪr  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -7591,7 +7591,7 @@ appealing /ə'piːlɪŋ/ adj
 三者都有“看起来”之意。  
 
 
-# ***<font color=#0099ff>\*appearance</font>*** n
+# ***\*appearance*** n
 英音 ə'pɪərəns     美音 ə'pɪrəns  
 
 | 词频 4 | 书面 2 |  
@@ -7627,7 +7627,7 @@ appealing /ə'piːlɪŋ/ adj
  > 这位著名歌手首次登台演出是在1997年。    
 
 
-# ***<font color=#0099ff>\*appendix</font>*** n
+# ***\*appendix*** n
 英音 ə'pendɪks     美音 ə'pendɪks  
 
 | 词频 1 |  
@@ -7639,7 +7639,7 @@ appealing /ə'piːlɪŋ/ adj
 ### 1.*高义频：* **附录；附属品；阑尾**  
 
 
-# ***<font color=#0099ff>\*appetising</font>*** adj
+# ***\*appetising*** adj
 英音 'æpɪtaɪzɪŋ     美音 'æpɪtaɪzɪŋ  
 
 | 词频 1 |  
@@ -7649,7 +7649,7 @@ appealing /ə'piːlɪŋ/ adj
 ### 1.**开胃的；增进食欲的**  
 
 
-# ***<font color=#0099ff>\*appetite</font>*** n
+# ***\*appetite*** n
 英音 'æpɪtaɪt     美音 'æpɪtaɪt  
 
 | 词频 1 |  
@@ -7672,7 +7672,7 @@ appealing /ə'piːlɪŋ/ adj
  > 他喜欢看书。    
 
 
-# ***<font color=#0099ff>\*applaud</font>*** v
+# ***\*applaud*** v
 英音 ə'plɔːd     美音 ə'plɔːd  
 
 | 词频 1 |  
@@ -7688,7 +7688,7 @@ appealing /ə'piːlɪŋ/ adj
  > 我赞成你的决定。    
 
 
-# ***<font color=#0099ff>\*applause</font>*** n
+# ***\*applause*** n
 英音 ə'plɔːz     美音 ə'plɔːz  
 
 | 词频 1 |  
@@ -7704,7 +7704,7 @@ appealing /ə'piːlɪŋ/ adj
  > 震耳欲聋/雷鸣般的掌声    
 
 
-# ***<font color=#0099ff>\*apple</font>*** n
+# ***\*apple*** n
 英音 'æpl     美音 'æpl  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -7718,11 +7718,11 @@ appealing /ə'piːlɪŋ/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*the apple of sb’s eye</font>
+## \*the apple of sb’s eye
 1.**某人的掌上明珠 / 心肝宝贝：**  
 
 
-# ***<font color=#0099ff>\*appliance</font>*** n
+# ***\*appliance*** n
 英音 ə'plaɪəns     美音 ə'plaɪəns  
 
 | 词频 1 |  
@@ -7734,7 +7734,7 @@ appealing /ə'piːlɪŋ/ adj
 ### 1.*高义频：* **用具；工具；器具**  
 
 
-# ***<font color=#0099ff>\*applicant</font>*** n
+# ***\*applicant*** n
 英音 'æplɪkənt     美音 'æplɪkənt  
 
 | 词频 2 |  
@@ -7757,7 +7757,7 @@ appealing /ə'piːlɪŋ/ adj
 答案：
 1. applicants  
 
-# ***<font color=#0099ff>\*application</font>*** n
+# ***\*application*** n
 英音 ˌæplɪ'keɪʃn     美音 ˌæplɪ'keɪʃn  
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -7793,7 +7793,7 @@ appealing /ə'piːlɪŋ/ adj
  > 这是一项可在工业上广泛应用的新发明。    
 
 
-# ***<font color=#0099ff>\*apply</font>*** v  重难点词汇
+# ***\*apply*** v  重难点词汇
 英音 ə'plaɪ     美音 ə'plaɪ  
 
 | 词频 4 | 口语 3 | 阅读 1 |  
@@ -7859,7 +7859,7 @@ appealing /ə'piːlɪŋ/ adj
  > 他按住伤口以减少流血。  （人教⑤ – 5）  
 
 
-# ***<font color=#0099ff>\*appoint</font>*** vt
+# ***\*appoint*** vt
 英音 əˈpɔɪnt     美音 əˈpɔɪnt  
 
 | 词频 2 | 口语 2 | 书面 2 |  
@@ -7893,7 +7893,7 @@ appealing /ə'piːlɪŋ/ adj
  > 所有人都在指定时间到大厅里集合了。    
 
 
-# ***<font color=#0099ff>\*appointed</font>*** adj
+# ***\*appointed*** adj
 英音 ə'pɔɪntɪd     美音 ə'pɔɪntɪd  
 
   
@@ -7903,7 +7903,7 @@ appealing /ə'piːlɪŋ/ adj
 ### 1.**约定的，指定的**  
 
 
-# ***<font color=#0099ff>\*appointment</font>*** n
+# ***\*appointment*** n
 英音 əˈpɔɪntmənt     美音 əˈpɔɪntmənt  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -7941,7 +7941,7 @@ appealing /ə'piːlɪŋ/ adj
 答案：
 1. with  
 
-# ***<font color=#0099ff>\*appreciate</font>*** vt  重难点词汇
+# ***\*appreciate*** vt  重难点词汇
 英音 ə'priːʃieɪt     美音 ə'priːʃieɪt  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -8003,7 +8003,7 @@ appealing /ə'piːlɪŋ/ adj
 答案：
 1. having  
 
-# ***<font color=#0099ff>\*appreciation</font>*** n
+# ***\*appreciation*** n
 英音 əˌpriːʃi'eɪʃn     美音 əˌpriːʃi'eɪʃn  
 
 | 词频 2 | 阅读 1 |  
@@ -8036,7 +8036,7 @@ appealing /ə'piːlɪŋ/ adj
  > 她没有认识到我们所面临的困难。    
 
 
-# ***<font color=#0099ff>\*approach</font>*** n  重难点词汇
+# ***\*approach*** n  重难点词汇
 英音 ə'prəʊtʃ     美音 ə'prəʊtʃ  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -8077,7 +8077,7 @@ appealing /ə'piːlɪŋ/ adj
 答案：
 1. to  
 
-# ***<font color=#0099ff>\*approach</font>*** v  重难点词汇
+# ***\*approach*** v  重难点词汇
 英音 ə'prəʊtʃ     美音 ə'prəʊtʃ  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -8114,7 +8114,7 @@ appealing /ə'piːlɪŋ/ adj
  > 处理这个问题/事情/任务的最佳方法是什么呢？    
 
 
-# ***<font color=#0099ff>\*appropriate</font>*** adj
+# ***\*appropriate*** adj
 英音 ə'prəʊpriət     美音 ə'proʊpriət  
 
 | 词频 2 | 口语 2 | 书面 3 | 阅读 2 |  
@@ -8136,7 +8136,7 @@ appealing /ə'piːlɪŋ/ adj
 ---
 appropriately /ə'proʊpriət/ adv   
 
-# ***<font color=#0099ff>\*appropriately</font>*** adv
+# ***\*appropriately*** adv
 英音 ə'prəʊpriətli     美音 ə'proʊpriətli  
 
 | 词频 1 |  
@@ -8146,7 +8146,7 @@ appropriately /ə'proʊpriət/ adv
 ### 1.**适当地**  
 
 
-# ***<font color=#0099ff>\*approval</font>*** n
+# ***\*approval*** n
 英音 ə'pruːvl     美音 ə'pruːvl  
 
 | 词频 2 | 口语 2 | 书面 1 | 阅读 1 |  
@@ -8171,7 +8171,7 @@ appropriately /ə'proʊpriət/ adv
  > 希望我的建议能够得到您的认可。  （人教⑦ – 1）  
 
 
-# ***<font color=#0099ff>\*approve</font>*** v
+# ***\*approve*** v
 英音 ə'pruːv     美音 ə'pruːv  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -8199,7 +8199,7 @@ appropriately /ə'proʊpriət/ adv
 ---
 approving /ə'pruːvɪŋ/ adj   
 
-# ***<font color=#0099ff>\*approximate</font>*** adj
+# ***\*approximate*** adj
 英音 ə'prɒksɪmət     美音 ə'prɑːksɪmət  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -8213,7 +8213,7 @@ approving /ə'pruːvɪŋ/ adj
  > 大概的价钱/数字/数量    
 
 
-# ***<font color=#0099ff>\*approximately</font>*** adv
+# ***\*approximately*** adv
 英音 ə'prɒksɪmətli     美音 ə'prɑːksɪmətli  
 
 | 词频 2 | 阅读 2 |  
@@ -8233,7 +8233,7 @@ approving /ə'pruːvɪŋ/ adj
 答案：
 1. approximately / about / around  
 
-# ***<font color=#0099ff>\*apron</font>*** n
+# ***\*apron*** n
 英音 'eɪprən     美音 'eɪprən  
 
 | 词频 1 |  
@@ -8245,7 +8245,7 @@ approving /ə'pruːvɪŋ/ adj
 ### 1.*高义频：* **围裙**  
 
 
-# ***<font color=#0099ff>\*aquarium</font>*** n
+# ***\*aquarium*** n
 英音 ə'kweəriəm     美音 ə'kweriəm  
 
 | 词频 3 |  
@@ -8257,7 +8257,7 @@ approving /ə'pruːvɪŋ/ adj
 ### 1.*高义频：* **(pl aquarium 或aquaria) 水族馆；水族箱；养鱼缸**  
 
 
-# ***<font color=#0099ff>\*arbitrary</font>*** adj
+# ***\*arbitrary*** adj
 英音 'ɑːbɪtrəri     美音 'ɑːrbətreri  
 
 | 词频 1 |  
@@ -8280,7 +8280,7 @@ approving /ə'pruːvɪŋ/ adj
 答案：
 1. arbitrary  
 
-# ***<font color=#0099ff>\*arch</font>*** n
+# ***\*arch*** n
 英音 ɑːtʃ     美音 ɑːrtʃ  
 
 | 词频 1 |  
@@ -8292,7 +8292,7 @@ approving /ə'pruːvɪŋ/ adj
 ### 1.*高义频：* **拱门；弓形结构；拱形**  
 
 
-# ***<font color=#0099ff>\*arch</font>*** v
+# ***\*arch*** v
 英音 ɑːtʃ     美音 ɑːrtʃ  
 
 | 词频 1 |  
@@ -8302,7 +8302,7 @@ approving /ə'pruːvɪŋ/ adj
 ### 1.*高义频：* **(使) 弯成弓形**  
 
 
-# ***<font color=#0099ff>\*archaeological</font>*** adj
+# ***\*archaeological*** adj
 英音 ˌɑːkiə'lɒdʒɪkl     美音 ˌɑːkiə'lɒdʒɪkl  
 
 | 词频 1 |  
@@ -8312,7 +8312,7 @@ approving /ə'pruːvɪŋ/ adj
 ### 1.*高义频：* **考古学的；与考古学有关的 (=archeological)**  
 
 
-# ***<font color=#0099ff>\*archaeologist</font>*** n
+# ***\*archaeologist*** n
 英音 ˌɑːki'ɒlədʒɪst     美音 ˌɑːrki'ɑːlədʒɪst  
 
 | 词频 3 |  
@@ -8324,7 +8324,7 @@ approving /ə'pruːvɪŋ/ adj
 ### 1.*高义频：* **考古学家 (=archeologist)**  
 
 
-# ***<font color=#0099ff>\*archaeology</font>*** n
+# ***\*archaeology*** n
 英音 ˌɑːki'ɒlədʒi     美音 ˌɑːrki'ɑːlədʒi  
 
 | 词频 1 |  
@@ -8336,7 +8336,7 @@ approving /ə'pruːvɪŋ/ adj
 ### 1.*高义频：* **考古学 (= archeology)**  
 
 
-# ***<font color=#0099ff>\*architect</font>*** n
+# ***\*architect*** n
 英音 'ɑːkɪtekt     美音 'ɑːrkɪtekt  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -8348,7 +8348,7 @@ approving /ə'pruːvɪŋ/ adj
 ### 1.*高义频：* **建筑师；设计师；缔造者**  
 
 
-# ***<font color=#0099ff>\*architecture</font>*** n
+# ***\*architecture*** n
 英音 'ɑːkɪtektʃə(r)     美音 'ɑːrkɪtektʃər  
 
 | 词频 1 | 口语 1 | 书面 1 | 阅读 1 |  
@@ -8363,7 +8363,7 @@ approving /ə'pruːvɪŋ/ adj
  > 那是个很棒的岛屿，岛上的建筑风格饶有趣味。  （外研① – 4改）  
 
 
-# ***<font color=#0099ff>\*area</font>*** n
+# ***\*area*** n
 英音 'eəriə     美音 'eriə  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -8406,7 +8406,7 @@ approving /ə'pruːvɪŋ/ adj
  > 选择适当的食物已成为现代生活的一个研究领域。    
 
 
-# ***<font color=#0099ff>\*arena</font>*** n
+# ***\*arena*** n
 英音 ə'riːnə     美音 ə'riːnə  
 
 | 词频 1 |  
@@ -8416,7 +8416,7 @@ approving /ə'pruːvɪŋ/ adj
 ### 1.**舞台**  
 
 
-# ***<font color=#0099ff>\*arguably</font>*** adv
+# ***\*arguably*** adv
 英音 'ɑːɡjuəbli     美音 'ɑːɡjuəbli  
 
 | 词频 1 |  
@@ -8426,7 +8426,7 @@ approving /ə'pruːvɪŋ/ adj
 ### 1.**有争议地**  
 
 
-# ***<font color=#0099ff>\*argue</font>*** v  重难点词汇
+# ***\*argue*** v  重难点词汇
 英音 'ɑːɡjuː     美音 'ɑːrɡjuː  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -8455,7 +8455,7 @@ approving /ə'pruːvɪŋ/ adj
  > 有些人论证说有天赋的孩子应该被分在专门的班级里。  （2011 广东）  
 
 
-# ***<font color=#0099ff>\*argument</font>*** n
+# ***\*argument*** n
 英音 'ɑːɡjumənt     美音 'ɑːrɡjumənt  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -8485,7 +8485,7 @@ approving /ə'pruːvɪŋ/ adj
  > 我们都觉得他的观点令人信服又有意思。  （译林⑤ – 2）  
 
 
-# ***<font color=#0099ff>\*arise</font>*** vi
+# ***\*arise*** vi
 英音 ə'raɪz     美音 ə'raɪz  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 1 |  
@@ -8511,14 +8511,14 @@ approving /ə'pruːvɪŋ/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*arise from / out of </font>
+## \*arise from / out of 
 1.**因…产生；由…引起：**  
 
  > *Accidents often arise from / out of carelessness. *  
  > 事故往往由粗心引起。    
 
 
-# ***<font color=#0099ff>\*arithmetic</font>*** n
+# ***\*arithmetic*** n
 英音 ə'rɪθmətɪk     美音 ə'rɪθmətɪk  
 
 | 词频 1 |  
@@ -8530,7 +8530,7 @@ approving /ə'pruːvɪŋ/ adj
 ### 1.*高义频：* **算术**  
 
 
-# ***<font color=#0099ff>\*arm</font>*** n
+# ***\*arm*** n
 英音 ɑːm     美音 ɑːrm  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -8560,20 +8560,20 @@ approving /ə'pruːvɪŋ/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*arm in arm </font>
+## \*arm in arm 
 1.**臂挽臂地：**  
 
  > *They walked along the beach arm in arm. *  
  > 他们臂挽臂沿着沙滩散步。    
 
-## <font color=#0099ff>\*with open arms</font>
+## \*with open arms
 1.**热烈地；热情地：**  
 
  > *They are sure to welcome you with open arms.*  
  > 他们肯定会热情地欢迎你。    
 
 
-# ***<font color=#0099ff>\*arm</font>*** vt
+# ***\*arm*** vt
 英音 ɑːm     美音 ɑːrm  
 
 | 词频 4 |  
@@ -8610,7 +8610,7 @@ armed /ɑːrmd/ adj
  > 观鸟者带着望远镜，看到岩石上落着一只鸟。  （2015 陕西改）  
 
 
-# ***<font color=#0099ff>\*armchair</font>*** n
+# ***\*armchair*** n
 英音 'ɑːmtʃeə(r)     美音 'ɑːrmtʃer  
 
 | 词频 2 |  
@@ -8622,7 +8622,7 @@ armed /ɑːrmd/ adj
 ### 1.*高义频：* **扶手椅**  
 
 
-# ***<font color=#0099ff>\*army</font>*** n
+# ***\*army*** n
 英音 'ɑːmi     美音 'ɑːrmi  
 
 | 词频 3 | 口语 3 | 书面 3 |  
@@ -8641,7 +8641,7 @@ armed /ɑːrmd/ adj
  > 一大群蚂蚁    
 
 
-# ***<font color=#0099ff>\*around</font>*** prep
+# ***\*around*** prep
 英音 ə'raʊnd     美音 ə'raʊnd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -8666,7 +8666,7 @@ armed /ɑːrmd/ adj
  > 在假日里，我要去世界各地旅行。  （2014 全国）  
 
 
-# ***<font color=#0099ff>\*around</font>*** adv
+# ***\*around*** adv
 英音 ə'raʊnd     美音 ə'raʊnd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -8689,7 +8689,7 @@ armed /ɑːrmd/ adj
  > 这个东西花了我大约10美元。    
 
 
-# ***<font color=#0099ff>\*arouse</font>*** vt
+# ***\*arouse*** vt
 英音 ə'raʊz     美音 ə'raʊz  
 
 | 词频 2 |  
@@ -8706,7 +8706,7 @@ armed /ɑːrmd/ adj
  > 激起某人的热情/兴趣/愤怒    
 
 
-# ***<font color=#0099ff>\*arrange</font>*** v  重难点词汇
+# ***\*arrange*** v  重难点词汇
 英音 ə'reɪndʒ     美音 ə'reɪndʒ  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -8763,11 +8763,11 @@ armed /ɑːrmd/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*arranged marriage</font>
+## \*arranged marriage
 1.**包办婚姻**  
 
 
-# ***<font color=#0099ff>\*arrangement</font>*** n
+# ***\*arrangement*** n
 英音 ə'reɪndʒmənt     美音 ə'reɪndʒmənt  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -8804,7 +8804,7 @@ armed /ɑːrmd/ adj
  > 我们商定，她让我搭便车上学，我辅导她英语。    
 
 
-# ***<font color=#0099ff>\*arrest</font>*** vt
+# ***\*arrest*** vt
 英音 ə'rest     美音 ə'rest  
 
 | 词频 2 | 口语 1 | 阅读 1 |  
@@ -8821,7 +8821,7 @@ armed /ɑːrmd/ adj
  > 我哥哥因为酒后驾车被拘留。    
 
 
-# ***<font color=#0099ff>\*arrest</font>*** n
+# ***\*arrest*** n
 英音 ə'rest     美音 ə'rest  
 
 | 词频 2 | 口语 1 | 阅读 1 |  
@@ -8841,7 +8841,7 @@ armed /ɑːrmd/ adj
  > 他被捕了。    
 
 
-# ***<font color=#0099ff>\*arrival</font>*** n
+# ***\*arrival*** n
 英音 ə'raɪvl     美音 ə'raɪvl  
 
 | 词频 4 | 书面 1 |  
@@ -8867,7 +8867,7 @@ armed /ɑːrmd/ adj
  > 早到/晚到/新到者    
 
 
-# ***<font color=#0099ff>\*arrive</font>*** vi
+# ***\*arrive*** vi
 英音 ə'raɪv     美音 ə'raɪv  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -8897,7 +8897,7 @@ Notes: arrive in指到达相对大的地方，arrive at指到达相对小的地�
 
 固定搭配
 ---
-## <font color=#0099ff>\*arrive at</font>
+## \*arrive at
 1.**达成 (协议) (reach)；得出 (结论)：**  
 
  > *arrive at an agreement / a decision*  
@@ -8908,7 +8908,7 @@ Notes: arrive in指到达相对大的地方，arrive at指到达相对小的地�
  > 花了很长时间才得出结论。    
 
 
-# ***<font color=#0099ff>\*arrow</font>*** n
+# ***\*arrow*** n
 英音 'ærəʊ     美音 'æroʊ  
 
 | 词频 1 |  
@@ -8926,7 +8926,7 @@ Notes: arrive in指到达相对大的地方，arrive at指到达相对小的地�
  > 跟着箭头指示的方向去放射科。    
 
 
-# ***<font color=#0099ff>\*arrowhead</font>*** n
+# ***\*arrowhead*** n
 英音 'ærəʊhed     美音 'æroʊhed  
 
 | 词频 1 |  
@@ -8938,7 +8938,7 @@ Notes: arrive in指到达相对大的地方，arrive at指到达相对小的地�
 ### 1.*高义频：* **箭头**  
 
 
-# ***<font color=#0099ff>\*art</font>*** n
+# ***\*art*** n
 英音 ɑːt     美音 ɑːrt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -8969,7 +8969,7 @@ Notes: arrive in指到达相对大的地方，arrive at指到达相对小的地�
  > 销售技巧    
 
 
-# ***<font color=#0099ff>\*article</font>*** n
+# ***\*article*** n
 英音 'ɑːtɪkl     美音 'ɑːrtɪkl  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -9001,7 +9001,7 @@ Notes: arrive in指到达相对大的地方，arrive at指到达相对小的地�
 ### 4.*低义频：* **(法律) 条款**  
 
 
-# ***<font color=#0099ff>\*artificial</font>*** adj
+# ***\*artificial*** adj
 英音 ˌɑːtɪ'fɪʃl     美音 ˌɑːrtɪ'fɪʃl  
 
 | 词频 2 | 口语 1 |  
@@ -9020,7 +9020,7 @@ Notes: arrive in指到达相对大的地方，arrive at指到达相对小的地�
  > 假笑    
 
 
-# ***<font color=#0099ff>\*artillery</font>*** n
+# ***\*artillery*** n
 英音 ɑː'tɪləri     美音 ɑː'rtɪləri  
 
 | 词频 1 |  
@@ -9030,7 +9030,7 @@ Notes: arrive in指到达相对大的地方，arrive at指到达相对小的地�
 ### 1.**大炮**  
 
 
-# ***<font color=#0099ff>\*artist</font>*** n
+# ***\*artist*** n
 英音 'ɑːtɪst     美音 'ɑːrtɪst  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -9053,7 +9053,7 @@ artistic /ɑːr'tɪstɪk/ adj
 答案：
 1. artists  
 
-# ***<font color=#0099ff>\*as</font>*** conj
+# ***\*as*** conj
 英音 əz     美音 əz  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -9100,13 +9100,13 @@ Notes: 表示比较或方式的as从句一般用正常语序，但是，在正�
 
 固定搭配
 ---
-## <font color=#0099ff>\*as for</font>
+## \*as for
 1.**至于…；就…而言：**  
 
  > *As for my favorite figure in Chinese history, it must be Wei Yuan, a great thinker in the late Qing Dynasty.*  
  > 至于我最喜欢的中国历史人物，他一定是晚清伟大的思想家魏源。  （2016 北京书面表达）  
 
-## <font color=#0099ff>\*as if / though</font>
+## \*as if / though
 1.**好像；似乎：**  
 
  > *It looks as if it is going to rain.*  
@@ -9119,7 +9119,7 @@ Notes: 表示比较或方式的as从句一般用正常语序，但是，在正�
  > 他英语讲得很好，好像他在英国生活了很多年似的。    
 
 Notes: as if / though常用于引导表语从句或状语从句，如果是不真实的情况，从句中常用过去时表示虚拟语气。  
-## <font color=#0099ff>\*as it is / was</font>
+## \*as it is / was
 1.**[置于句首] 实际上；[置于句末] 已经：**  
 
  > *As it is, I have a garden full of sweet-smelling roses for most of the year.*  
@@ -9128,7 +9128,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > *I’ve already gone into debt as it is, so don’t expect any more money from me.*  
  > 我已经欠债了，所以不要指望我会再出钱。    
 
-## <font color=#0099ff>\*as to sth</font>
+## \*as to sth
 1.**关于某事：**  
 
  > *I’m in a puzzle as to what to do next.*  
@@ -9153,7 +9153,7 @@ D.unless
 答案：
 1. as  2. as is reported  3. had done  4. twice as large as  5. As  6. as  7. C  
 
-# ***<font color=#0099ff>\*as</font>*** adv
+# ***\*as*** adv
 英音 əz     美音 əz  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -9176,7 +9176,7 @@ Notes: 否定句中也可用so代替as。
  > 也许事情并不像看上去那么糟。  （2019 全国改）  
 
 
-# ***<font color=#0099ff>\*as</font>*** prep
+# ***\*as*** prep
 英音 əz     美音 əz  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -9189,7 +9189,7 @@ Notes: 否定句中也可用so代替as。
  > 我希望会在电脑公司上班，从事程序设计员的工作。  （2014 全国书面表达）  
 
 
-# ***<font color=#0099ff>\*as</font>*** pron
+# ***\*as*** pron
 英音 əz     美音 əz  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -9215,7 +9215,7 @@ Notes: 否定句中也可用so代替as。
 二者都可引导非限制性定语从句，指代主句的全部或部分，作从句中的主语或宾语，其用法、意义区别如下：  
 
 
-# ***<font color=#0099ff>\*ash</font>*** n
+# ***\*ash*** n
 英音 æʃ     美音 æʃ  
 
 | 词频 2 |  
@@ -9240,7 +9240,7 @@ Notes: 否定句中也可用so代替as。
  > 她所有的梦想都化为泡影。    
 
 
-# ***<font color=#0099ff>\*ashamed</font>*** adj
+# ***\*ashamed*** adj
 英音 ə'ʃeɪmd     美音 ə'ʃeɪmd  
 
 | 词频 4 | 口语 1 | 阅读 3 |  
@@ -9278,7 +9278,7 @@ Notes: 否定句中也可用so代替as。
 答案：
 1. ashamed  
 
-# ***<font color=#0099ff>\*ashtray</font>*** n
+# ***\*ashtray*** n
 英音 'æʃtreɪ     美音 'æʃtreɪ  
 
 | 词频 1 |  
@@ -9288,7 +9288,7 @@ Notes: 否定句中也可用so代替as。
 ### 1.**烟灰缸**  
 
 
-# ***<font color=#0099ff>\*aside</font>*** adv
+# ***\*aside*** adv
 英音 ə'saɪd     美音 ə'saɪd  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -9307,14 +9307,14 @@ Notes: 否定句中也可用so代替as。
 
 固定搭配
 ---
-## <font color=#0099ff>\*aside from </font>
+## \*aside from 
 1.**除…之外 (apart from)：**  
 
  > *Aside from being good exercise, swimming is a very useful skill. *  
  > 除了是一项好的运动外，游泳还是一种非常有用的技能。    
 
 
-# ***<font color=#0099ff>\*ask</font>*** v
+# ***\*ask*** v
 英音 ɑːsk     美音 æsk  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -9372,7 +9372,7 @@ Notes: 否定句中也可用so代替as。
 
 固定搭配
 ---
-## <font color=#0099ff>\*ask for trouble </font>
+## \*ask for trouble 
 1.**自找麻烦；自讨苦吃**  
 
 
@@ -9385,7 +9385,7 @@ Notes: 否定句中也可用so代替as。
 答案：
 1. watching → watch; 去掉let前的to  2. asked  3. for  
 
-# ***<font color=#0099ff>\*asleep</font>*** adj
+# ***\*asleep*** adj
 英音 ə'sliːp     美音 ə'sliːp  
 
 | 词频 4 | 口语 2 |  
@@ -9409,14 +9409,14 @@ Notes: asleep常用fast, sound修饰，不用very修饰。
 
 固定搭配
 ---
-## <font color=#0099ff>\*fall / drop asleep</font>
+## \*fall / drop asleep
 1.**入睡；睡着：**  
 
  > *I was so tired that I fell asleep the moment my head touched the pillow.*  
  > 我太累了，头一碰到枕头就睡着了。    
 
 
-# ***<font color=#0099ff>\*asparagus</font>*** n
+# ***\*asparagus*** n
 英音 ə'spærəɡəs     美音 ə'spærəɡəs  
 
 | 词频 1 |  
@@ -9426,7 +9426,7 @@ Notes: asleep常用fast, sound修饰，不用very修饰。
 ### 1.**芦笋**  
 
 
-# ***<font color=#0099ff>\*aspect</font>*** n
+# ***\*aspect*** n
 英音 'æspekt     美音 'æspekt  
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -9448,7 +9448,7 @@ Notes: asleep常用fast, sound修饰，不用very修饰。
  > 我们害怕见到这个人生气的样子。    
 
 
-# ***<font color=#0099ff>\*aspirin</font>*** n
+# ***\*aspirin*** n
 英音 'æsprɪn     美音 'æsprɪn  
 
 | 词频 1 |  
@@ -9458,7 +9458,7 @@ Notes: asleep常用fast, sound修饰，不用very修饰。
 ### 1.**阿司匹林**  
 
 
-# ***<font color=#0099ff>\*assemble</font>*** v
+# ***\*assemble*** v
 英音 ə'sembl     美音 ə'sembl  
 
 | 词频 1 |  
@@ -9478,7 +9478,7 @@ Notes: asleep常用fast, sound修饰，不用very修饰。
 ---
 assembly /'sembli/ n   
 
-# ***<font color=#0099ff>\*assembly</font>*** n
+# ***\*assembly*** n
 英音 ə'sembli     美音 ə'sembli  
 
 | 词频 1 |  
@@ -9488,7 +9488,7 @@ assembly /'sembli/ n
 ### 1.**集会，会议**  
 
 
-# ***<font color=#0099ff>\*assess</font>*** vt
+# ***\*assess*** vt
 英音 ə'ses     美音 ə'ses  
 
 | 词频 3 | 口语 2 | 书面 2 | 阅读 2 |  
@@ -9512,7 +9512,7 @@ assembly /'sembli/ n
  > 该建筑物的损失估定为4万英镑。    
 
 
-# ***<font color=#0099ff>\*assessment</font>*** n
+# ***\*assessment*** n
 英音 ə'sesmənt     美音 ə'sesmənt  
 
 | 词频 3 | 书面 2 | 阅读 1 |  
@@ -9524,7 +9524,7 @@ assembly /'sembli/ n
 ### 1.*高义频：* **评定；评价；估价；估算**  
 
 
-# ***<font color=#0099ff>\*assign</font>*** vt
+# ***\*assign*** vt
 英音 ə'saɪn     美音 ə'saɪn  
 
 | 词频 2 | 阅读 2 |  
@@ -9537,7 +9537,7 @@ assembly /'sembli/ n
  > 中学老师给学生留作业每周不应超过两次。    
 
 
-# ***<font color=#0099ff>\*assignment</font>*** n
+# ***\*assignment*** n
 英音 ə'saɪnmənt     美音 ə'saɪnmənt  
 
 | 词频 3 | 口语 2 | 阅读 1 |  
@@ -9555,7 +9555,7 @@ assembly /'sembli/ n
  > 我已完成你交给我的每一项任务。    
 
 
-# ***<font color=#0099ff>\*assist</font>*** v
+# ***\*assist*** v
 英音 ə'sɪst     美音 ə'sɪst  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -9576,7 +9576,7 @@ assembly /'sembli/ n
 三者都有“帮助”之意，但侧重点有所不同。  
 
 
-# ***<font color=#0099ff>\*assistance</font>*** n
+# ***\*assistance*** n
 英音 ə'sɪstəns     美音 ə'sɪstəns  
 
 | 词频 2 | 口语 1 | 书面 2 |  
@@ -9604,7 +9604,7 @@ assembly /'sembli/ n
  > 我们能帮上什么忙吗？    
 
 
-# ***<font color=#0099ff>\*assistant</font>*** n
+# ***\*assistant*** n
 英音 ə'sɪstənt     美音 ə'sɪstənt  
 
 | 词频 4 | 口语 1 |  
@@ -9617,7 +9617,7 @@ assembly /'sembli/ n
  > 助教/店员    
 
 
-# ***<font color=#0099ff>\*assistant</font>*** adj
+# ***\*assistant*** adj
 英音 ə'sɪstənt     美音 ə'sɪstənt  
 
 | 词频 4 | 口语 1 |  
@@ -9631,7 +9631,7 @@ assembly /'sembli/ n
  > 助理经理    
 
 
-# ***<font color=#0099ff>\*associate</font>*** v  重难点词汇
+# ***\*associate*** v  重难点词汇
 英音 ə'səʊʃieɪt;ə'səʊsieɪt     美音 ə'soʊʃieɪt, ə'soʊsieɪt  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -9657,7 +9657,7 @@ assembly /'sembli/ n
  > 我不喜欢你和那些人混在一起。    
 
 
-# ***<font color=#0099ff>\*associate</font>*** n  重难点词汇
+# ***\*associate*** n  重难点词汇
 英音 ə'səʊʃieɪt;ə'səʊsieɪt     美音 ə'soʊʃieɪt, ə'soʊsieɪt  
 
 | 词频 4 |  
@@ -9670,7 +9670,7 @@ assembly /'sembli/ n
  > 生意伙伴    
 
 
-# ***<font color=#0099ff>\*associate</font>*** adj  重难点词汇
+# ***\*associate*** adj  重难点词汇
 英音 ə'səʊʃieɪt;ə'səʊsieɪt     美音 ə'soʊʃieɪt, ə'soʊsieɪt  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -9693,7 +9693,7 @@ associated /ə'soʊʃieɪtɪd/ adj
  > 有些人称古典音乐仅仅与老年人有关。  （2014 安徽）  
 
 
-# ***<font color=#0099ff>\*association</font>*** n
+# ***\*association*** n
 英音 əˌsəʊʃi'eɪʃn;əˌsəʊsi'eɪʃn     美音 əˌsoʊʃi'eɪʃn;əˌsoʊsi'eɪʃn  
 
 | 词频 4 | 口语 1 | 书面 3 |  
@@ -9725,7 +9725,7 @@ associated /ə'soʊʃieɪtɪd/ adj
  > 迪士尼乐园带给人们各种各样愉快的联想。    
 
 
-# ***<font color=#0099ff>\*assume</font>*** vt  重难点词汇
+# ***\*assume*** vt  重难点词汇
 英音 ə'sjuːm     美音 ə'suːm  
 
 | 词频 3 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -9764,7 +9764,7 @@ assuming [ə'suːmɪŋ] conj
  > 假设你被选为领导，你会怎么做？    
 
 
-# ***<font color=#0099ff>\*assumption</font>*** n
+# ***\*assumption*** n
 英音 ə'sʌmpʃn     美音 ə'sʌmpʃn  
 
 | 词频 1 | 口语 2 | 书面 2 |  
@@ -9780,7 +9780,7 @@ assuming [ə'suːmɪŋ] conj
  > 我们假设每个人都会应邀出席，并正在就此作安排。    
 
 
-# ***<font color=#0099ff>\*assure</font>*** vt
+# ***\*assure*** vt
 英音 ə'ʃʊə(r);ə'ʃɔː(r)     美音 ə'ʃʊr  
 
 | 词频 1 | 口语 2 | 书面 1 | 阅读 1 |  
@@ -9794,7 +9794,7 @@ assuming [ə'suːmɪŋ] conj
  > 我向你保证这药对你没有害处。    
 
 
-# ***<font color=#0099ff>\*asthma</font>*** n
+# ***\*asthma*** n
 英音 'æsmə     美音 'æzmə  
 
   
@@ -9804,7 +9804,7 @@ assuming [ə'suːmɪŋ] conj
 ### 1.**哮喘 (病)**  
 
 
-# ***<font color=#0099ff>\*astonish</font>*** vt
+# ***\*astonish*** vt
 英音 ə'stɒnɪʃ     美音 ə'stɑːnɪʃ  
 
 | 词频 2 |  
@@ -9822,7 +9822,7 @@ assuming [ə'suːmɪŋ] conj
 astonishing /ə'stɑːnɪʃɪŋ/ adj   
 astonishment /ə'stɑːnɪʃmənt/ n [U]   
 
-# ***<font color=#0099ff>\*astonished</font>*** adj
+# ***\*astonished*** adj
 英音 ə'stɒnɪʃt     美音 ə'stɑːnɪʃt  
 
 | 词频 3 | 阅读 3 |  
@@ -9843,7 +9843,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
  > 你看上去对这个消息感到很惊讶。    
 
 
-# ***<font color=#0099ff>\*astonishing</font>*** adj
+# ***\*astonishing*** adj
 英音 ə'stɒnɪʃɪŋ     美音 ə'stɑːnɪʃɪŋ  
 
 | 词频 2 |  
@@ -9853,7 +9853,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
 ### 1.*高义频：* **令人感到惊讶的**  
 
 
-# ***<font color=#0099ff>\*astonishment</font>*** n
+# ***\*astonishment*** n
 英音 ə'stɒnɪʃmənt     美音 ə'stɑːnɪʃmənt  
 
 | 词频 1 |  
@@ -9873,7 +9873,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
  > 他瞪着那孩子，完全惊呆了。  （外研⑦ – 3）  
 
 
-# ***<font color=#0099ff>\*astronaut</font>*** n
+# ***\*astronaut*** n
 英音 'æstrənɔːt     美音 'æstrənɔːt  
 
 | 词频 2 |  
@@ -9885,7 +9885,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
 ### 1.*高义频：* **宇航员**  
 
 
-# ***<font color=#0099ff>\*astronomer</font>*** n
+# ***\*astronomer*** n
 英音 ə'strɒnəmə(r)     美音 ə'strɑːnəmər  
 
 | 词频 1 |  
@@ -9895,7 +9895,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
 ### 1.*高义频：* **[C] 天文学家**  
 
 
-# ***<font color=#0099ff>\*astronomy</font>*** n
+# ***\*astronomy*** n
 英音 ə'strɒnəmi     美音 ə'strɑːnəmi  
 
 | 词频 1 |  
@@ -9905,7 +9905,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
 ### 1.*高义频：* **[U] 天文学**  
 
 
-# ***<font color=#0099ff>\*at</font>*** prep
+# ***\*at*** prep
 英音 ət;æt     美音 ət  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -9966,7 +9966,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
  > 以…速度    
 
 
-# ***<font color=#0099ff>\*athlete</font>*** n
+# ***\*athlete*** n
 英音 'æθliːt     美音 'æθliːt  
 
 | 词频 3 |  
@@ -9978,7 +9978,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
 ### 1.*高义频：* **运动员：**  
 
 
-# ***<font color=#0099ff>\*athletic</font>*** adj
+# ***\*athletic*** adj
 英音 æθ'letɪk     美音 æθ'letɪk  
 
 | 词频 2 |  
@@ -9994,7 +9994,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
  > 运动能力    
 
 
-# ***<font color=#0099ff>\*athletics</font>*** n
+# ***\*athletics*** n
 英音 æθ'letɪks     美音 æθ'letɪks  
 
 | 词频 1 |  
@@ -10006,7 +10006,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
 ### 1.*高义频：* **(pl) 体育运动；竞技**  
 
 
-# ***<font color=#0099ff>\*atlas</font>*** n
+# ***\*atlas*** n
 英音 'ætləs     美音 'ætləs  
 
 | 词频 1 |  
@@ -10018,7 +10018,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
 ### 1.*高义频：* **地图；地图集**  
 
 
-# ***<font color=#0099ff>\*atmosphere</font>*** n
+# ***\*atmosphere*** n
 英音 'ætməsfɪə(r)     美音 'ætməsfɪr  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -10048,7 +10048,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
 答案：
 1. atmosphere  
 
-# ***<font color=#0099ff>\*atom</font>*** n
+# ***\*atom*** n
 英音 'ætəm     美音 'ætəm  
 
 | 词频 1 |  
@@ -10067,7 +10067,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
 ---
 atomic /ə'tɑːmɪk/ adj   
 
-# ***<font color=#0099ff>\*attach</font>*** v  重难点词汇
+# ***\*attach*** v  重难点词汇
 英音 ə'tætʃ     美音 ə'tætʃ  
 
 | 词频 3 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -10142,7 +10142,7 @@ attachment /ə'tætʃmənt/ n
 答案：
 1. attach great importance to  
 
-# ***<font color=#0099ff>\*attack</font>*** n
+# ***\*attack*** n
 英音 ə'tæk     美音 ə'tæk  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -10175,7 +10175,7 @@ attachment /ə'tætʃmənt/ n
  > 他心脏病发作了。    
 
 
-# ***<font color=#0099ff>\*attack</font>*** v
+# ***\*attack*** v
 英音 ə'tæk     美音 ə'tæk  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -10202,7 +10202,7 @@ attachment /ə'tætʃmənt/ n
  > H7N9型禽流感最近侵袭了许多城市。    
 
 
-# ***<font color=#0099ff>\*attain</font>*** v
+# ***\*attain*** v
 英音 ə'teɪn     美音 ə'teɪn  
 
 | 词频 1 |  
@@ -10218,7 +10218,7 @@ attachment /ə'tætʃmənt/ n
  > 经过几年的学习和实践，他的英语达到了流利程度。    
 
 
-# ***<font color=#0099ff>\*attempt</font>*** n  重难点词汇
+# ***\*attempt*** n  重难点词汇
 英音 ə'tempt     美音 ə'tempt  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -10246,7 +10246,7 @@ attachment /ə'tætʃmənt/ n
  > 他毫不掩饰自己的情感。    
 
 
-# ***<font color=#0099ff>\*attempt</font>*** vt  重难点词汇
+# ***\*attempt*** vt  重难点词汇
 英音 ə'tempt     美音 ə'tempt  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -10265,7 +10265,7 @@ attachment /ə'tætʃmənt/ n
  > 每年大约四万人尝试攀登非洲的最高峰——乞力马扎罗山。  （2019 全国）  
 
 
-# ***<font color=#0099ff>\*attempted</font>*** adj
+# ***\*attempted*** adj
 英音 əˈtemptɪd     美音 əˈtemptəd  
 
 | 词频 1 |  
@@ -10278,7 +10278,7 @@ attachment /ə'tætʃmənt/ n
  > 谋杀/抢劫未遂    
 
 
-# ***<font color=#0099ff>\*attend</font>*** v  重难点词汇
+# ***\*attend*** v  重难点词汇
 英音 ə'tend     美音 ə'tend  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -10311,7 +10311,7 @@ attachment /ə'tætʃmənt/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*attend to</font>
+## \*attend to
 1.**照料；处理；接待 (serve)：**  
 
  > *Nurses are busy attending to the wounded. *  
@@ -10339,7 +10339,7 @@ attendant /ə'tendənt/ n [C]
 答案：
 1. attend  
 
-# ***<font color=#0099ff>\*attention</font>*** n
+# ***\*attention*** n
 英音 ə'tenʃn     美音 ə'tenʃn  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -10391,7 +10391,7 @@ attendant /ə'tendənt/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*attract / catch / get the attention of …</font>
+## \*attract / catch / get the attention of …
 1.**吸引 / 引起 / 得到……的注意：**  
 
  > *She waved to attract the attention of the waitress.*  
@@ -10400,38 +10400,38 @@ attendant /ə'tendənt/ n [C]
  > *The excellent football player quickly caught the attention of the public.*  
  > 这个出色的足球运动员很快就吸引了公众的注意。    
 
-## <font color=#0099ff>\*bring sth to sb’s attention</font>
+## \*bring sth to sb’s attention
 1.**使某事引起某人的 注意：**  
 
  > *Why don't you bring it to his attention that you're too ill to work on?*  
  > 你为什么不告诉他你病得很厉害，不能继续工作呢？  （2011 江西）  
 
-## <font color=#0099ff>\*call / draw attention to </font>
+## \*call / draw attention to 
 1.**使人们关注：**  
 
  > *The purpose of the campaign is to draw public attention to the needs of the tall.*  
  > 这项活动的目的是让公众关注高个子人群的需求。  （2011 全国改）  
 
-## <font color=#0099ff>\*hold / keep sb’s attention</font>
+## \*hold / keep sb’s attention
 1.**保持某人的注意力：**  
 
  > *This game is fun and is sure to keep children's attention.*  
  > 这个游戏很有趣，一定能保持孩子们的注意力。    
 
-## <font color=#0099ff>\*pay attention to </font>
+## \*pay attention to 
 1.**注意：**  
 
  > *On the bus, you will often notice someone paying more attention to his mobile phone.*  
  > 在公共汽车上，你常会看到有人更专注于看自己的手机。  （2013 安徽改）  
 
-## <font color=#0099ff>\*with attention </font>
+## \*with attention 
 1.**专心致志地：**  
 
  > *The lawyer listened with full attention, trying not to miss any point.*  
  > 这位律师全神贯注地听着，竭力不漏掉任何要点。  （2010 四川）  
 
 
-# ***<font color=#0099ff>\*attentive</font>*** adj
+# ***\*attentive*** adj
 英音 ə'tentɪv     美音 ə'tentɪv  
 
 | 词频 1 |  
@@ -10449,7 +10449,7 @@ attendant /ə'tendənt/ n [C]
 ---
 attentively /ə'tentɪvli/ adv   
 
-# ***<font color=#0099ff>\*attic</font>*** n
+# ***\*attic*** n
 英音 'ætɪk     美音 'ætɪk  
 
 | 词频 1 |  
@@ -10459,7 +10459,7 @@ attentively /ə'tentɪvli/ adv
 ### 1.**阁楼，顶楼**  
 
 
-# ***<font color=#0099ff>\*attitude</font>*** n
+# ***\*attitude*** n
 英音 'ætɪtjuːd     美音 'ætɪtuːd  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -10495,7 +10495,7 @@ attentively /ə'tentɪvli/ adv
 答案：
 1. attitude towards / to  
 
-# ***<font color=#0099ff>\*attract</font>*** vt
+# ***\*attract*** vt
 英音 ə'trækt     美音 ə'trækt  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -10521,7 +10521,7 @@ attentively /ə'tentɪvli/ adv
 答案：
 1. were attracted  2. attract  
 
-# ***<font color=#0099ff>\*attraction</font>*** n
+# ***\*attraction*** n
 英音 ə'trækʃn     美音 ə'trækʃn  
 
 | 词频 4 | 书面 1 |  
@@ -10540,7 +10540,7 @@ attentively /ə'tentɪvli/ adv
  > 汉普顿宫作为重要的旅游景点对公众开放。  （2015 全国改）  
 
 
-# ***<font color=#0099ff>\*attractive</font>*** adj
+# ***\*attractive*** adj
 英音 ə'træktɪv     美音 ə'træktɪv  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -10553,7 +10553,7 @@ attentively /ə'tentɪvli/ adv
  > 这是我到过的最迷人的地方之一。    
 
 
-# ***<font color=#0099ff>\*attribute</font>*** vt
+# ***\*attribute*** vt
 英音 'ætrɪbjuːt     美音 'ətrɪbjuːt  
 
 | 词频 1 | 阅读 1 |  
@@ -10568,7 +10568,7 @@ attentively /ə'tentɪvli/ adv
  > 吉姆把自己的成功归因于工作努力。    
 
 
-# ***<font color=#0099ff>\*audience</font>*** n
+# ***\*audience*** n
 英音 'ɔːdiəns     美音 'ɔːdiəns  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -10594,7 +10594,7 @@ Notes: audience是集体名词，作主语时，如果作为整体看待，谓�
  > 观众的穿着各不相同。    
 
 
-# ***<font color=#0099ff>\*audio</font>*** adj
+# ***\*audio*** adj
 英音 'ɔːdiəʊ     美音 'ɔːdioʊ  
 
 | 词频 3 |  
@@ -10606,7 +10606,7 @@ Notes: audience是集体名词，作主语时，如果作为整体看待，谓�
 ### 1.*高义频：* **音频的**  
 
 
-# ***<font color=#0099ff>\*auld</font>*** adj
+# ***\*auld*** adj
 英音 ɔːld     美音 ɔːld  
 
 | 词频 1 |  
@@ -10616,7 +10616,7 @@ Notes: audience是集体名词，作主语时，如果作为整体看待，谓�
 ### 1.**老的，旧的（苏格兰语）=old**  
 
 
-# ***<font color=#0099ff>\*aunt</font>*** n
+# ***\*aunt*** n
 英音 ɑːnt     美音 ænt  
 
 | 词频 4 |  
@@ -10628,7 +10628,7 @@ Notes: audience是集体名词，作主语时，如果作为整体看待，谓�
 ### 1.*高义频：* **姑母；姨妈；舅妈；婶母； 伯母**  
 
 
-# ***<font color=#0099ff>\*aurochs</font>*** n
+# ***\*aurochs*** n
 英音 'ɔːrɒks     美音 'ɔːrɑːks  
 
 | 词频 1 |  
@@ -10638,7 +10638,7 @@ Notes: audience是集体名词，作主语时，如果作为整体看待，谓�
 ### 1.*高义频：* **原牛 (古代欧洲野牛，已灭绝)**  
 
 
-# ***<font color=#0099ff>\*authentic</font>*** adj
+# ***\*authentic*** adj
 英音 ɔː'θentɪk     美音 ɔː'θentɪk  
 
 | 词频 1 |  
@@ -10654,7 +10654,7 @@ Notes: audience是集体名词，作主语时，如果作为整体看待，谓�
  > 在卢浮宫保存的这幅画是达·芬奇的真迹还是复制品？  （外研⑧ – 2）  
 
 
-# ***<font color=#0099ff>\*author</font>*** n
+# ***\*author*** n
 英音 'ɔːθə(r)     美音 'ɔːθər  
 
 | 词频 5 | 书面 2 |  
@@ -10666,7 +10666,7 @@ Notes: audience是集体名词，作主语时，如果作为整体看待，谓�
 ### 1.*高义频：* **作者；作家**  
 
 
-# ***<font color=#0099ff>\*authority</font>*** n
+# ***\*authority*** n
 英音 ɔː'θɒrəti     美音 ə'θɔːrəti  
 
 | 词频 3 | 书面 3 | 阅读 2 |  
@@ -10710,7 +10710,7 @@ Notes: audience是集体名词，作主语时，如果作为整体看待，谓�
  > 我们向主管部门报告了这起火车事故。    
 
 
-# ***<font color=#0099ff>\*autograph</font>*** n
+# ***\*autograph*** n
 英音 'ɔːtəɡrɑːf     美音 'ɔːtəɡræf  
 
 | 词频 1 |  
@@ -10720,7 +10720,7 @@ Notes: audience是集体名词，作主语时，如果作为整体看待，谓�
 ### 1.**亲笔签名**  
 
 
-# ***<font color=#0099ff>\*automatic</font>*** adj
+# ***\*automatic*** adj
 英音 ˌɔːtə'mætɪk     美音 ˌɔːtə'mætɪk  
 
 | 词频 2 | 口语 1 | 阅读 1 |  
@@ -10740,7 +10740,7 @@ Notes: audience是集体名词，作主语时，如果作为整体看待，谓�
 ---
 automatically /ˌɔːtə'mætɪkli/ adv   
 
-# ***<font color=#0099ff>\*automatically</font>*** adv
+# ***\*automatically*** adv
 英音 ˌɔːtə'mætɪkli     美音 ˌɔːtə'mætɪkli  
 
 | 词频 3 |  
@@ -10750,7 +10750,7 @@ automatically /ˌɔːtə'mætɪkli/ adv
 ### 1.*高义频：* **无意识地；自动地**  
 
 
-# ***<font color=#0099ff>\*automobile</font>*** n
+# ***\*automobile*** n
 英音 'ɔːtəməbiːl     美音 'ɔːtəməbiːl  
 
 | 词频 3 |  
@@ -10762,7 +10762,7 @@ automatically /ˌɔːtə'mætɪkli/ adv
 ### 1.*高义频：* **汽车 (AmE auto)**  
 
 
-# ***<font color=#0099ff>\*autonomous</font>*** adj
+# ***\*autonomous*** adj
 英音 ɔː'tɒnəməs     美音 ɔː'tɑːnəməs  
 
 | 词频 1 |  
@@ -10778,7 +10778,7 @@ automatically /ˌɔːtə'mætɪkli/ adv
  > 像美国的州一样，澳大利亚州政府的某些部门实行自治。  （人教⑨ – 3）  
 
 
-# ***<font color=#0099ff>\*autonomy</font>*** n
+# ***\*autonomy*** n
 英音 ɔː'tɒnəmi     美音 ɔː'tɑːnəmi  
 
 | 词频 1 |  
@@ -10790,7 +10790,7 @@ automatically /ˌɔːtə'mætɪkli/ adv
 ### 1.*高义频：* **自治；自治权**  
 
 
-# ***<font color=#0099ff>\*autumn</font>*** n
+# ***\*autumn*** n
 英音 'ɔːtəm     美音 'ɔːtəm  
 
 | 词频 3 |  
@@ -10808,7 +10808,7 @@ automatically /ˌɔːtə'mætɪkli/ adv
  > 没有春华便没有秋实。    
 
 
-# ***<font color=#0099ff>\*available</font>*** adj  重难点词汇
+# ***\*available*** adj  重难点词汇
 英音 ə'veɪləbl     美音 ə'veɪləbl  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -10853,7 +10853,7 @@ availability /əˌveɪlə'bɪləti/ n [U]
 答案：
 1. available / free  2. available   
 
-# ***<font color=#0099ff>\*avalanche</font>*** n
+# ***\*avalanche*** n
 英音 'ævəlɑːnʃ     美音 'ævəlæntʃ  
 
   
@@ -10863,7 +10863,7 @@ availability /əˌveɪlə'bɪləti/ n [U]
 ### 1.**雪崩**  
 
 
-# ***<font color=#0099ff>\*avenge</font>*** v
+# ***\*avenge*** v
 英音 ə'vendʒ     美音 ə'vendʒ  
 
 | 词频 1 |  
@@ -10873,7 +10873,7 @@ availability /əˌveɪlə'bɪləti/ n [U]
 ### 1.**替……报仇；报复**  
 
 
-# ***<font color=#0099ff>\*avenue</font>*** n
+# ***\*avenue*** n
 英音 'ævənjuː     美音 'ævənuː  
 
 | 词频 2 |  
@@ -10891,7 +10891,7 @@ availability /əˌveɪlə'bɪləti/ n [U]
 五者都可作“路”解，但含义有所不同。  
 
 
-# ***<font color=#0099ff>\*average</font>*** n  重难点词汇
+# ***\*average*** n  重难点词汇
 英音 'ævərɪdʒ     美音 'ævərɪdʒ  
 
 | 词频 4 | 口语 2 |  
@@ -10922,7 +10922,7 @@ availability /əˌveɪlə'bɪləti/ n [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*on average </font>
+## \*on average 
 1.**平均；一般地：**  
 
  > *On average we have five classes a day. *  
@@ -10941,7 +10941,7 @@ availability /əˌveɪlə'bɪləti/ n [U]
 答案：
 1. above average  2. an  3. average  
 
-# ***<font color=#0099ff>\*average</font>*** adj  重难点词汇
+# ***\*average*** adj  重难点词汇
 英音 'ævərɪdʒ     美音 'ævərɪdʒ  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -10976,7 +10976,7 @@ availability /əˌveɪlə'bɪləti/ n [U]
  > 弗雷迪是一名普通的学生，但却不是一个普通的人。  （2017 全国）  
 
 
-# ***<font color=#0099ff>\*avoid</font>*** vt  重难点词汇
+# ***\*avoid*** vt  重难点词汇
 英音 ə'vɔɪd     美音 ə'vɔɪd  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -11014,7 +11014,7 @@ Notes: avoid不接不定式作宾语。
 答案：
 1. looking  
 
-# ***<font color=#0099ff>\*await</font>*** vt
+# ***\*await*** vt
 英音 ə'weɪt     美音 ə'weɪt  
 
 | 词频 1 |  
@@ -11027,7 +11027,7 @@ Notes: avoid不接不定式作宾语。
  > 他们正焦急地等待结果。    
 
 
-# ***<font color=#0099ff>\*awake</font>*** adj
+# ***\*awake*** adj
 英音 ə'weɪk     美音 ə'weɪk  
 
 | 词频 3 | 口语 1 |  
@@ -11048,7 +11048,7 @@ Notes: avoid不接不定式作宾语。
  > 只喝一杯咖啡就会使我整晚睡不着。  （2009 上海）  
 
 
-# ***<font color=#0099ff>\*awake</font>*** v
+# ***\*awake*** v
 英音 ə'weɪk     美音 ə'weɪk  
 
 | 词频 3 | 口语 1 |  
@@ -11073,7 +11073,7 @@ Notes: avoid不接不定式作宾语。
 答案：
 1. awoke  
 
-# ***<font color=#0099ff>\*award</font>*** n
+# ***\*award*** n
 英音 ə'wɔːd     美音 ə'wɔːrd  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -11105,7 +11105,7 @@ Notes: avoid不接不定式作宾语。
   
 
 
-# ***<font color=#0099ff>\*award</font>*** vt
+# ***\*award*** vt
 英音 ə'wɔːd     美音 ə'wɔːrd  
 
 | 词频 4 | 书面 1 |  
@@ -11126,7 +11126,7 @@ Notes: avoid不接不定式作宾语。
  > 法庭判给伤者5000美元的赔偿金。    
 
 
-# ***<font color=#0099ff>\*aware</font>*** adj  重难点词汇
+# ***\*aware*** adj  重难点词汇
 英音 ə'weə(r)     美音 ə'wer  
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 1 |  
@@ -11155,7 +11155,7 @@ Notes: avoid不接不定式作宾语。
 ---
 awareness /ə'wernəs/ n [U]  
 
-# ***<font color=#0099ff>\*awareness</font>*** n
+# ***\*awareness*** n
 英音 ə'weənəs     美音 ə'wernəs  
 
 | 词频 3 |  
@@ -11165,7 +11165,7 @@ awareness /ə'wernəs/ n [U]
 ### 1.**意识，认识，感悟能力**  
 
 
-# ***<font color=#0099ff>\*away</font>*** adv
+# ***\*away*** adv
 英音 ə'weɪ     美音 ə'weɪ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -11212,7 +11212,7 @@ awareness /ə'wernəs/ n [U]
  > 雪融化了。    
 
 
-# ***<font color=#0099ff>\*awesome</font>*** adj
+# ***\*awesome*** adj
 英音 'ɔːsəm     美音 'ɔːsəm  
 
 | 词频 1 |  
@@ -11231,7 +11231,7 @@ awareness /ə'wernəs/ n [U]
  > 只有一个词能够形容这位世界上最好的球员——了不起！  （人教⑦ – 1）  
 
 
-# ***<font color=#0099ff>\*awful</font>*** adj
+# ***\*awful*** adj
 英音 'ɔːfl     美音 'ɔːfl  
 
 | 词频 3 | 口语 3 |  
@@ -11259,7 +11259,7 @@ awareness /ə'wernəs/ n [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*look / feel awful</font>
+## \*look / feel awful
 1.**面带病容；很不舒服**  
 英译 (look / feel ill)：
 
@@ -11272,7 +11272,7 @@ awareness /ə'wernəs/ n [U]
 ---
 awfully /'ɔːfli/ adv   
 
-# ***<font color=#0099ff>\*awfully</font>*** adv
+# ***\*awfully*** adv
 英音 'ɔːfli     
 
   
@@ -11282,7 +11282,7 @@ awfully /'ɔːfli/ adv
 ### 1.**非常地；极端地；令人嫌恶地**  
 
 
-# ***<font color=#0099ff>\*awkward</font>*** adj
+# ***\*awkward*** adj
 英音 'ɔːkwəd     美音 'ɔːkwərd  
 
 | 词频 2 | 口语 1 |  
@@ -11317,7 +11317,7 @@ awfully /'ɔːfli/ adv
 ---
 awkwardly /'ɔːkwədli/ adv   
 
-# ***<font color=#0099ff>\*axe</font>*** n
+# ***\*axe*** n
 英音 æks     美音 æks  
 
 | 词频 1 |  

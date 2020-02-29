@@ -1,6 +1,6 @@
 # Jj
 
-# ***<font color=#0099ff>\*jacket</font>*** n
+# ***\*jacket*** n
 英音 'dʒækɪt     美音 'dʒækɪt  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -12,7 +12,7 @@
 ### 1.*高义频：* **短上衣；夹克**  
 
 
-# ***<font color=#0099ff>\*jam</font>*** n
+# ***\*jam*** n
 英音 dʒæm     美音 dʒæm  
 
 | 词频 3 | 口语 1 |  
@@ -26,7 +26,7 @@
  > 你是否碰到过交通阻塞？  （外研④ – 2）  
 
 
-# ***<font color=#0099ff>\*jar</font>*** n
+# ***\*jar*** n
 英音 dʒɑː(r)     美音 dʒɑːr  
 
 | 词频 3 |  
@@ -38,7 +38,7 @@
 ### 1.**罐子；坛子；一罐的量**  
 
 
-# ***<font color=#0099ff>\*jaw</font>*** n
+# ***\*jaw*** n
 英音 dʒɔ     美音 dʒɔː  
 
 | 词频 1 |  
@@ -50,7 +50,7 @@
 ### 1.*高义频：* **颌；颚**  
 
 
-# ***<font color=#0099ff>\*jazz</font>*** n
+# ***\*jazz*** n
 英音 dʒæz     美音 dʒæz  
 
 | 词频 4 |  
@@ -62,7 +62,7 @@
 ### 1.*高义频：* **爵士乐；爵士舞 (曲)**  
 
 
-# ***<font color=#0099ff>\*jealous</font>*** adj
+# ***\*jealous*** adj
 英音 'dʒeləs     美音 'dʒeləs  
 
 | 词频 1 |  
@@ -76,7 +76,7 @@
  > 我嫉妒她的成功。    
 
 
-# ***<font color=#0099ff>\*jeans</font>*** n
+# ***\*jeans*** n
 英音 dʒiːnz     美音 dʒiːnz  
 
 | 词频 2 | 口语 1 |  
@@ -88,7 +88,7 @@
 ### 1.*高义频：* **牛仔裤； (牛仔) 工作服**  
 
 
-# ***<font color=#0099ff>\*jeep</font>*** n
+# ***\*jeep*** n
 英音 dʒiːp     美音 dʒiːp  
 
 | 词频 1 |  
@@ -100,7 +100,7 @@
 ### 1.*高义频：* **吉普车**  
 
 
-# ***<font color=#0099ff>\*jelly</font>*** n
+# ***\*jelly*** n
 英音 'dʒeli     美音 'dʒeli  
 
 | 词频 1 |  
@@ -112,7 +112,7 @@
 ### 1.*高义频：* **果冻；(不含水果块的) 果酱**  
 
 
-# ***<font color=#0099ff>\*jerk</font>*** n
+# ***\*jerk*** n
 英音 dʒɜːk     美音 dʒɜːrk  
 
 | 词频 1 |  
@@ -122,7 +122,7 @@
 ### 1.**猛拉, 猛的一动**  
 
 
-# ***<font color=#0099ff>\*jet</font>*** n
+# ***\*jet*** n
 英音 dʒet     美音 dʒet  
 
 | 词频 2 |  
@@ -137,7 +137,7 @@
  > 飞行时差综合征；时差反应    
 
 
-# ***<font color=#0099ff>\*jewel</font>*** n
+# ***\*jewel*** n
 英音 'dʒuːəl     美音 'dʒuːəl  
 
 | 词频 2 |  
@@ -152,7 +152,7 @@
  > 她喜欢佩戴闪亮的珠宝首饰。    
 
 
-# ***<font color=#0099ff>\*jewellery</font>*** n
+# ***\*jewellery*** n
 英音 'dʒuːəlrɪ     美音 'dʒuːəlrɪ  
 
 | 词频 2 |  
@@ -167,7 +167,7 @@
  > 一件首饰    
 
 
-# ***<font color=#0099ff>\*jewelry</font>*** n
+# ***\*jewelry*** n
 英音 'dʒuːəlri     美音 'dʒuːəlri  
 
 | 词频 2 |  
@@ -179,7 +179,7 @@
 ### 1.*高义频：* **珠宝；首饰：**  
 
 
-# ***<font color=#0099ff>\*job</font>*** n
+# ***\*job*** n
 英音 dʒɒb     美音 dʒɑːb  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -213,7 +213,7 @@
 ---
 jobless  /'dʒɒbləs/ adj   
 
-# ***<font color=#0099ff>\*jog</font>*** vi
+# ***\*jog*** vi
 英音 dʒɒɡ     美音 dʒɑːɡ  
 
 | 词频 4 |  
@@ -230,7 +230,7 @@ jobless  /'dʒɒbləs/ adj
 ---
 jogging  /'dʒɒɡɪŋ/ n [U]   
 
-# ***<font color=#0099ff>\*jog</font>*** n
+# ***\*jog*** n
 英音 dʒɒɡ     美音 dʒɑːɡ  
 
 | 词频 4 |  
@@ -240,7 +240,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 ### 1.**慢跑**  
 
 
-# ***<font color=#0099ff>\*jogging</font>*** n
+# ***\*jogging*** n
 英音 'dʒɒɡɪŋ     美音 'dʒɑːɡɪŋ  
 
 | 词频 3 |  
@@ -250,7 +250,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 ### 1.**慢跑**  
 
 
-# ***<font color=#0099ff>\*join</font>*** v
+# ***\*join*** v
 英音 dʒɔɪn     美音 dʒɔɪn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -292,7 +292,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*join in</font>
+## \*join in
 1.**参加 (比赛、活动等)：**  
 
  > *Be prepared to join in a class discussion. *  
@@ -302,7 +302,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 四者都常译为“参加”。  
 
 
-# ***<font color=#0099ff>\*joint</font>*** n
+# ***\*joint*** n
 英音 dʒɔɪnt     美音 dʒɔɪnt  
 
 | 词频 1 |  
@@ -318,7 +318,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > 踝/膝关节    
 
 
-# ***<font color=#0099ff>\*joint</font>*** adj
+# ***\*joint*** adj
 英音 dʒɔɪnt     美音 dʒɔɪnt  
 
 | 词频 1 | 口语 2 | 书面 2 |  
@@ -334,7 +334,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > 外交部长呼吁共同努力来保护全球自由贸易。    
 
 
-# ***<font color=#0099ff>\*join…to…</font>*** 
+# ***\*join…to…*** 
 
 
   
@@ -347,7 +347,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > 将一段管子与相邻的管子连接起来。    
 
 
-# ***<font color=#0099ff>\*joke</font>*** n
+# ***\*joke*** n
 英音 dʒəʊk     美音 dʒoʊk  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -367,7 +367,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > 我不希望任何人开我的玩笑！  （译林⑥ – 1）  
 
 
-# ***<font color=#0099ff>\*joke</font>*** vi
+# ***\*joke*** vi
 英音 dʒəʊk     美音 dʒoʊk  
 
 | 词频 4 | 口语 1 |  
@@ -387,7 +387,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*play a joke / jokes on </font>
+## \*play a joke / jokes on 
 1.**戏弄；拿…开玩笑：**  
 
  > *They decided to play a joke on their father by hiding his glasses. *  
@@ -401,7 +401,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 答案：
 1. joking  
 
-# ***<font color=#0099ff>\*journal</font>*** n
+# ***\*journal*** n
 英音 'dʒɜːnl     美音 'dʒɜːnl  
 
 | 词频 3 | 阅读 2 |  
@@ -421,7 +421,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > 记日记    
 
 
-# ***<font color=#0099ff>\*journalism</font>*** n
+# ***\*journalism*** n
 英音 'dʒɜːnəlɪzəm     美音 'dʒɜːrnəlɪzəm  
 
 | 词频 2 |  
@@ -431,7 +431,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 ### 1.**新闻业，新闻工作**  
 
 
-# ***<font color=#0099ff>\*journalist</font>*** n
+# ***\*journalist*** n
 英音 'dʒɜːnəlɪst     美音 'dʒɜːnəlɪst  
 
 | 词频 3 | 书面 1 |  
@@ -443,7 +443,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 ### 1.*高义频：* **记者；新闻工作者**  
 
 
-# ***<font color=#0099ff>\*journey</font>*** n
+# ***\*journey*** n
 英音 'dʒɜːni     美音 'dʒɜːrni  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -473,7 +473,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 四者都含“旅行”之意，但具体含义不同。  
 
 
-# ***<font color=#0099ff>\*joust</font>*** vi
+# ***\*joust*** vi
 英音 dʒaʊst     美音 dʒaʊst  
 
 | 词频 1 |  
@@ -483,7 +483,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 ### 1.*高义频：* **(指中世纪骑士) 骑着马用长矛打斗**  
 
 
-# ***<font color=#0099ff>\*joy</font>*** n
+# ***\*joy*** n
 英音 dʒɔɪ     美音 dʒɔɪ  
 
 | 词频 4 | 书面 1 |  
@@ -509,7 +509,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > 听音乐是我的一大乐事。    
 
 
-# ***<font color=#0099ff>\*judge</font>*** n
+# ***\*judge*** n
 英音 dʒʌdʒ     美音 dʒʌdʒ  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -527,7 +527,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > 两小时后，裁判宣读了参加第二轮选拔的女孩的名单。  （2008 天津）  
 
 
-# ***<font color=#0099ff>\*judge</font>*** v
+# ***\*judge*** v
 英音 dʒʌdʒ     美音 dʒʌdʒ  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -572,7 +572,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > 判案/判某人有罪    
 
 
-# ***<font color=#0099ff>\*judgement</font>*** n
+# ***\*judgement*** n
 英音 'dʒʌdʒmənt     美音 'dʒʌdʒmənt  
 
 | 词频 3 | 书面 2 |  
@@ -599,7 +599,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 ### 3.*低义频：* **审判**  
 
 
-# ***<font color=#0099ff>\*judgment</font>*** n
+# ***\*judgment*** n
 英音 'dʒʌdʒmənt     美音 'dʒʌdʒmənt  
 
 | 词频 3 | 书面 2 |  
@@ -626,7 +626,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 ### 3.*低义频：* **审判**  
 
 
-# ***<font color=#0099ff>\*juice</font>*** n
+# ***\*juice*** n
 英音 dʒuːs     美音 dʒuːs  
 
 | 词频 3 | 口语 2 |  
@@ -638,7 +638,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 ### 1.*高义频：* **(水果、蔬菜、肉类等的) 汁、液**  
 
 
-# ***<font color=#0099ff>\*jump</font>*** v
+# ***\*jump*** v
 英音 dʒʌmp     美音 dʒʌmp  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -668,11 +668,11 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*jump at sth</font>
+## \*jump at sth
 1.**迫不及待地接受某事物；欣然接受某事物**  
 
 
-# ***<font color=#0099ff>\*jump</font>*** n
+# ***\*jump*** n
 英音 dʒʌmp     美音 dʒʌmp  
 
 | 词频 4 | 口语 1 |  
@@ -692,7 +692,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > 跳高/跳远    
 
 
-# ***<font color=#0099ff>\*jump</font>*** vt
+# ***\*jump*** vt
 英音 dʒʌmp     美音 dʒʌmp  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -705,7 +705,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > 你如何才能跳过那些跨栏？    
 
 
-# ***<font color=#0099ff>\*junction</font>*** n
+# ***\*junction*** n
 英音 'dʒʌŋkʃn     美音 'dʒʌŋkʃn  
 
 | 词频 1 |  
@@ -720,7 +720,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > 丁字路口    
 
 
-# ***<font color=#0099ff>\*jungle</font>*** n
+# ***\*jungle*** n
 英音 'dʒʌŋɡl     美音 'dʒʌŋɡl  
 
 | 词频 2 |  
@@ -732,7 +732,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 ### 1.*高义频：* **丛林；密林**  
 
 
-# ***<font color=#0099ff>\*junior</font>*** adj
+# ***\*junior*** adj
 英音 'dʒuːniə(r)     美音 'dʒuːniər  
 
 | 词频 2 |  
@@ -750,7 +750,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > 她比我小四岁。    
 
 
-# ***<font color=#0099ff>\*junior</font>*** n
+# ***\*junior*** n
 英音 'dʒuːniə(r)     美音 'dʒuːniər  
 
 | 词频 2 |  
@@ -762,7 +762,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 ### 1.*高义频：* **青少年；职位较低者；(高中 / 四年制大学中)三年级学生**  
 
 
-# ***<font color=#0099ff>\*just</font>*** adv
+# ***\*just*** adv
 英音 dʒʌst     美音 dʒʌst  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -822,7 +822,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*just about </font>
+## \*just about 
 1.**几乎；差不多：**  
 
  > *Some people will do just about anything to save money.*  
@@ -842,7 +842,7 @@ D.just
 答案：
 1. Just as  2. D  
 
-# ***<font color=#0099ff>\*just</font>*** adj
+# ***\*just*** adj
 英音 dʒʌst     美音 dʒʌst  
 
 | 词频 5 |  
@@ -855,7 +855,7 @@ D.just
  > 正直的人    
 
 
-# ***<font color=#0099ff>\*justice</font>*** n
+# ***\*justice*** n
 英音 'dʒʌstɪs     美音 'dʒʌstɪs  
 
 | 词频 2 | 书面 2 | 阅读 1 |  
@@ -879,7 +879,7 @@ D.just
  > 天网恢恢，疏而不漏。    
 
 
-# ***<font color=#0099ff>\*justifiably</font>*** adv
+# ***\*justifiably*** adv
 英音 dʒʌstɪ'faɪəbli     美音 dʒʌstɪ'faɪəbli  
 
 | 词频 1 |  
@@ -889,7 +889,7 @@ D.just
 ### 1.**有正当理由地**  
 
 
-# ***<font color=#0099ff>\*justify</font>*** vt
+# ***\*justify*** vt
 英音 'dʒʌstɪfaɪ     美音 'dʒʌstɪfaɪ  
 
 | 词频 1 | 口语 1 | 书面 1 |  

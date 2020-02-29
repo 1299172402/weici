@@ -1,6 +1,6 @@
 # Nn
 
-# ***<font color=#0099ff>\*nail</font>*** n
+# ***\*nail*** n
 英音 neɪl     美音 neɪl  
 
 | 词频 2 | 口语 1 |  
@@ -10,7 +10,7 @@
 ### 1.*高义频：* **指甲；爪；钉子**  
 
 
-# ***<font color=#0099ff>\*naked</font>*** adj
+# ***\*naked*** adj
 英音 'neɪkɪd     美音 'neɪkɪd  
 
 | 词频 1 | 口语 1 |  
@@ -20,7 +20,7 @@
 ### 1.*高义频：* **裸体的；赤条条的**  
 
 
-# ***<font color=#0099ff>\*name</font>*** vt
+# ***\*name*** vt
 英音 neɪm     美音 neɪm  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -43,7 +43,7 @@
 
 固定搭配
 ---
-## <font color=#0099ff>\*name ... after </font>
+## \*name ... after 
 1.**以…的名字命名：**  
 
  > *Being a huge basketball fan, he wanted to name his son after Jordan. *  
@@ -52,14 +52,14 @@
  > *Jack studied in a village school, which is named after his grandfather. *  
  > 杰克曾在一所乡村学校读书，该校是以他爷爷的名字命名的。  （2010 全国）  
 
-## <font color=#0099ff>\*to name but a few</font>
+## \*to name but a few
 1.**不一而足；略举几例：**  
 
  > *Activities available include cooking, swimming and fishing, to name but a few.*  
  > 可进行的活动包括烹饪，游泳和钓鱼，略举几例。    
 
 
-# ***<font color=#0099ff>\*name</font>*** n
+# ***\*name*** n
 英音 neɪm     美音 neɪm  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -89,13 +89,13 @@
 
 固定搭配
 ---
-## <font color=#0099ff>\*by the name of </font>
+## \*by the name of 
 1.**[正式用语] 名叫…的：**  
 
  > *She is a British athlete by the name of Tanni Grey Thompson. *  
  > 她是一名英国运动员，名叫坦妮·格雷·汤普森。  （2008 福建）  
 
-## <font color=#0099ff>\*in the name of </font>
+## \*in the name of 
 1.**在…名下；以…的名义；代表 (in sb’s / sth’s name)：**  
 
  > *I arrest you in the name of the law. *  
@@ -104,17 +104,17 @@
  > *I’ve booked a table in your name. *  
  > 我已经用你的名字预订了一张桌子。    
 
-## <font color=#0099ff>\*make a name (for oneself) / make one’s name </font>
+## \*make a name (for oneself) / make one’s name 
 1.**成名；出名：**  
 
  > *She first made her name as a writer of children’s books. *  
  > 她最初以写儿童读物成名。    
 
-## <font color=#0099ff>\*under the name of </font>
+## \*under the name of 
 1.**以…为别名**  
 
 
-# ***<font color=#0099ff>\*namely</font>*** adv
+# ***\*namely*** adv
 英音 'neɪmli     美音 'neɪmli  
 
 | 词频 1 |  
@@ -127,7 +127,7 @@
  > 只有一个人能做这项工作，那就是你。    
 
 
-# ***<font color=#0099ff>\*nap</font>*** n
+# ***\*nap*** n
 英音 næp     美音 næp  
 
 | 词频 3 |  
@@ -137,7 +137,7 @@
 ### 1.**小睡, 打盹**  
 
 
-# ***<font color=#0099ff>\*narrator</font>*** n
+# ***\*narrator*** n
 英音 nə'reɪtə(r)     美音 nə'reɪtər  
 
 | 词频 2 |  
@@ -149,7 +149,7 @@
 ### 1.*高义频：* **讲述者，叙述者**  
 
 
-# ***<font color=#0099ff>\*narrow</font>*** adj
+# ***\*narrow*** adj
 英音 'nærəʊ     美音 'næroʊ  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -180,7 +180,7 @@
  > 险胜    
 
 
-# ***<font color=#0099ff>\*narrow</font>*** v
+# ***\*narrow*** v
 英音 'nærəʊ     美音 'næroʊ  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -208,7 +208,7 @@
 答案：
 1. narrow  
 
-# ***<font color=#0099ff>\*narrowly</font>*** adv
+# ***\*narrowly*** adv
 英音 'nærəʊli     美音 'næroʊli  
 
 | 词频 2 |  
@@ -228,7 +228,7 @@
 答案：
 1. narrowly  
 
-# ***<font color=#0099ff>\*nasty</font>*** adj
+# ***\*nasty*** adj
 英音 'nɑːsti     美音 'næsti  
 
 | 词频 1 | 口语 2 |  
@@ -238,7 +238,7 @@
 ### 1.*高义频：* **令人极不愉快的；不友善的；下流的**  
 
 
-# ***<font color=#0099ff>\*nation</font>*** n
+# ***\*nation*** n
 英音 'neɪʃn     美音 'neɪʃn  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -266,7 +266,7 @@
  > 中华民族    
 
 
-# ***<font color=#0099ff>\*national</font>*** adj
+# ***\*national*** adj
 英音 'næʃnəl     美音 'næʃnəl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -287,7 +287,7 @@
  > 国家公园 / 国家博物馆    
 
 
-# ***<font color=#0099ff>\*nationalism</font>*** n
+# ***\*nationalism*** n
 英音 'næʃnəlɪzəm     美音 'næʃnəlɪzəm  
 
 | 词频 1 |  
@@ -297,7 +297,7 @@
 ### 1.*高义频：* **民族主义；国家主义**  
 
 
-# ***<font color=#0099ff>\*nationality</font>*** n
+# ***\*nationality*** n
 英音 ˌnæʃə'næləti     美音 ˌnæʃə'næləti  
 
 | 词频 2 |  
@@ -323,7 +323,7 @@
 答案：
 1. nationality  
 
-# ***<font color=#0099ff>\*nationwide</font>*** adj
+# ***\*nationwide*** adj
 英音 ˌneɪʃn'waɪd     美音 ˌneɪʃn'waɪd  
 
 | 词频 2 |  
@@ -336,7 +336,7 @@
  > 1996年中国开展了一次全国性的公益广告活动。  （译林④ – 1）  
 
 
-# ***<font color=#0099ff>\*nationwide</font>*** adv
+# ***\*nationwide*** adv
 英音 ˌneɪʃn'waɪd     美音 ˌneɪʃn'waɪd  
 
 | 词频 2 |  
@@ -349,7 +349,7 @@
  > 这个公司在全国有500多家连锁店。    
 
 
-# ***<font color=#0099ff>\*native</font>*** adj
+# ***\*native*** adj
 英音 'neɪtɪv     美音 'neɪtɪv  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -367,7 +367,7 @@
  > 我妻子是纽约本地人，而我来自亚特兰大。    
 
 
-# ***<font color=#0099ff>\*native</font>*** n
+# ***\*native*** n
 英音 'neɪtɪv     美音 'neɪtɪv  
 
 | 词频 4 |  
@@ -379,7 +379,7 @@
 ### 1.**本地人；当地人 (local)：**  
 
 
-# ***<font color=#0099ff>\*natural</font>*** adj
+# ***\*natural*** adj
 英音 'nætʃrəl     美音 'nætʃrəl  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -403,7 +403,7 @@
  > 她有音乐天赋。    
 
 
-# ***<font color=#0099ff>\*naturally</font>*** adv
+# ***\*naturally*** adv
 英音 'nætʃrəli     美音 'nætʃrəli  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -427,7 +427,7 @@
 答案：
 1. naturally  
 
-# ***<font color=#0099ff>\*nature</font>*** n
+# ***\*nature*** n
 英音 'neɪtʃə(r)     美音 'neɪtʃər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -450,26 +450,26 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 固定搭配
 ---
-## <font color=#0099ff>\*(get / go) back to nature</font>
+## \*(get / go) back to nature
 1.**回归自然；返璞归真：**  
 
  > *City workers want to get back to nature in their holidays.*  
  > 城市上班族希望休假时可以回归自然。    
 
-## <font color=#0099ff>\*by nature </font>
+## \*by nature 
 1.**天生地；出于本性地：**  
 
  > *Children are curious by nature. *  
  > 孩子生性好奇。    
 
-## <font color=#0099ff>\*in sb’s nature </font>
+## \*in sb’s nature 
 1.**本性如此：**  
 
  > *It is not in his nature to be “selfish” and “rude”.*  
  > “自私”和“粗鲁”不是他的本性。  （外研⑦ – 1）  
 
 
-# ***<font color=#0099ff>\*naughty</font>*** adj
+# ***\*naughty*** adj
 英音 'nɔːti     美音 'nɔːti  
 
 | 词频 2 | 口语 1 |  
@@ -479,7 +479,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
 ### 1.*高义频：* **顽皮的；淘气的**  
 
 
-# ***<font color=#0099ff>\*navigation</font>*** n
+# ***\*navigation*** n
 英音 ˌnævɪ'ɡeɪʃn     美音 ˌnævɪ'ɡeɪʃn  
 
 | 词频 1 |  
@@ -491,7 +491,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
 ### 1.*高义频：* **导航；航行**  
 
 
-# ***<font color=#0099ff>\*navigator</font>*** n
+# ***\*navigator*** n
 英音 'nævɪɡeɪtə(r)     美音 'nævɪɡeɪtər  
 
 | 词频 1 |  
@@ -501,7 +501,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
 ### 1.**领航员；（飞机的）驾驶员**  
 
 
-# ***<font color=#0099ff>\*navy</font>*** n
+# ***\*navy*** n
 英音 'neɪvi     美音 'neɪvi  
 
 | 词频 2 |  
@@ -517,7 +517,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
  > 参加海军    
 
 
-# ***<font color=#0099ff>\*near</font>*** prep
+# ***\*near*** prep
 英音 nɪə(r)     美音 nɪr  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -536,7 +536,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
 二者都可作介词，表示“在附近”，但也有细微差别。  
 
 
-# ***<font color=#0099ff>\*near</font>*** adj
+# ***\*near*** adj
 英音 nɪə(r)     美音 nɪr  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -556,7 +556,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
  > 在不久的将来    
 
 
-# ***<font color=#0099ff>\*near</font>*** adv
+# ***\*near*** adv
 英音 nɪə(r)     美音 nɪr  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -574,7 +574,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
  > 考试越来越近了。    
 
 
-# ***<font color=#0099ff>\*near</font>*** v
+# ***\*near*** v
 英音 nɪə(r)     美音 nɪr  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -589,7 +589,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
  > 随着结婚日期的临近，我开始重新考虑结婚的事。    
 
 
-# ***<font color=#0099ff>\*nearby</font>*** adv
+# ***\*nearby*** adv
 英音 ˌnɪə'baɪ     美音 ˌnɪr'baɪ  
 
 | 词频 4 |  
@@ -605,7 +605,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
  > 有位老人静静地坐在旁边的长凳上。    
 
 
-# ***<font color=#0099ff>\*nearby</font>*** adj
+# ***\*nearby*** adj
 英音 ˌnɪə'baɪ     美音 ˌnɪr'baɪ  
 
 | 词频 4 | 书面 1 |  
@@ -618,7 +618,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
  > 附近街道的一家商店    
 
 
-# ***<font color=#0099ff>\*nearly</font>*** adv
+# ***\*nearly*** adv
 英音 'nɪəli     美音 'nɪəli  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -639,14 +639,14 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 固定搭配
 ---
-## <font color=#0099ff>\*not nearly </font>
+## \*not nearly 
 1.**根本不；远不及：**  
 
  > *It’s not nearly as hot as last year. *  
  > 天气远没有去年那么热。    
 
 
-# ***<font color=#0099ff>\*neat</font>*** adj
+# ***\*neat*** adj
 英音 niːt     美音 niːt  
 
 | 词频 2 | 口语 2 |  
@@ -668,7 +668,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
 ---
 neatly /niːtli/ adv   
 
-# ***<font color=#0099ff>\*necessarily</font>*** adv
+# ***\*necessarily*** adv
 英音 ˌnesə'serəli,'nesəsərəli     美音 ˌnesə'serəli  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -682,7 +682,7 @@ neatly /niːtli/ adv
  > 贵的饭店未必是最好的。    
 
 
-# ***<font color=#0099ff>\*necessary</font>*** adj
+# ***\*necessary*** adj
 英音 'nesəsəri     美音 'nesəseri  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -725,16 +725,16 @@ neatly /niːtli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*do the necessary</font>
+## \*do the necessary
 1.**做必要的事**  
 
-## <font color=#0099ff>\*if necessary </font>
+## \*if necessary 
 1.**如果必要的话：**  
 
  > *We should help those who are in great need if necessary.*  
  > 必要的话，我们应该帮助那些非常需要帮助的人。  （2012 湖南书面表达）  
 
-## <font color=#0099ff>\*when necessary </font>
+## \*when necessary 
 1.**必要时：**  
 
  > *The army needs men who are willing to fight, when necessary.*  
@@ -749,7 +749,7 @@ neatly /niːtli/ adv
 答案：
 1. (should) not be sent  
 
-# ***<font color=#0099ff>\*necessity</font>*** n
+# ***\*necessity*** n
 英音 nə'sesəti     美音 nə'sesəti  
 
 | 词频 2 | 阅读 2 |  
@@ -772,7 +772,7 @@ neatly /niːtli/ adv
  > 对于很多美国人来说，汽车是必需品。    
 
 
-# ***<font color=#0099ff>\*neck</font>*** n
+# ***\*neck*** n
 英音 nek     美音 nek  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -791,7 +791,7 @@ neatly /niːtli/ adv
  > 她脖子上戴着金项链。    
 
 
-# ***<font color=#0099ff>\*necklace</font>*** n
+# ***\*necklace*** n
 英音 'nekləs     美音 'nekləs  
 
 | 词频 2 |  
@@ -803,7 +803,7 @@ neatly /niːtli/ adv
 ### 1.*高义频：* **项链；项圈**  
 
 
-# ***<font color=#0099ff>\*need</font>*** n  重难点词汇
+# ***\*need*** n  重难点词汇
 英音 niːd     美音 niːd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -833,7 +833,7 @@ neatly /niːtli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*in need </font>
+## \*in need 
 1.**在困难中；在困境中：**  
 
  > *A friend in need is a friend indeed. *  
@@ -842,7 +842,7 @@ neatly /niːtli/ adv
  > *Everyone in our society should help those in need.*  
  > 我们社会上的每个人都应该帮助那些有困难的人。  （2016 江苏书面表达）  
 
-## <font color=#0099ff>\*in need of</font>
+## \*in need of
 1.**需要：**  
 
  > *The gentleman never fails to help whoever is in need of help.*  
@@ -860,7 +860,7 @@ needy /'niːdi/ adj
 答案：
 1. in  
 
-# ***<font color=#0099ff>\*need</font>*** vt  重难点词汇
+# ***\*need*** vt  重难点词汇
 英音 niːd     美音 niːd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -900,7 +900,7 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 答案：
 1. to be done / doing  
 
-# ***<font color=#0099ff>\*need</font>*** modal v  重难点词汇
+# ***\*need*** modal v  重难点词汇
 英音 niːd     美音 niːd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -921,7 +921,7 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 
 固定搭配
 ---
-## <font color=#0099ff>\*needn’t have done sth </font>
+## \*needn’t have done sth 
 1.**原本不必做某事：**  
 
  > *As you worked late yesterday, you needn’t have come this morning.*  
@@ -936,7 +936,7 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 答案：
 1. needn’t  2. needn’t have worried  
 
-# ***<font color=#0099ff>\*needle</font>*** n
+# ***\*needle*** n
 英音 'niːdl     美音 'niːdl  
 
 | 词频 1 |  
@@ -951,7 +951,7 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
  > 针线    
 
 
-# ***<font color=#0099ff>\*negative</font>*** adj
+# ***\*negative*** adj
 英音 'neɡətɪv     美音 'neɡətɪv  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -984,7 +984,7 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
  > 负数 / 负电荷 / 贸易逆差    
 
 
-# ***<font color=#0099ff>\*negative</font>*** n
+# ***\*negative*** n
 英音 'neɡətɪv     美音 'neɡətɪv  
 
 | 词频 4 |  
@@ -994,7 +994,7 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 ### 1.**底片；否定**  
 
 
-# ***<font color=#0099ff>\*neglect</font>*** vt
+# ***\*neglect*** vt
 英音 nɪ'ɡlekt     美音 nɪ'ɡlekt  
 
 | 词频 2 | 阅读 1 |  
@@ -1014,7 +1014,7 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
  > 我忘了锁门。    
 
 
-# ***<font color=#0099ff>\*negotiate</font>*** v
+# ***\*negotiate*** v
 英音 nɪ'ɡəʊʃieɪt     美音 nɪ'ɡoʊʃieɪt  
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 1 |  
@@ -1045,7 +1045,7 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 答案：
 1. with  
 
-# ***<font color=#0099ff>\*neigh</font>*** n
+# ***\*neigh*** n
 英音 neɪ     美音 neɪ  
 
 | 词频 1 |  
@@ -1055,7 +1055,7 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 ### 1.**（马）嘶鸣**  
 
 
-# ***<font color=#0099ff>\*neigh</font>*** v
+# ***\*neigh*** v
 英音 neɪ     美音 neɪ  
 
 | 词频 1 |  
@@ -1065,7 +1065,7 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 ### 1.**（马）嘶鸣**  
 
 
-# ***<font color=#0099ff>\*neighbo(u)r</font>*** n
+# ***\*neighbo(u)r*** n
 英音 'neɪbə(r)     美音 'neɪbər  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -1093,7 +1093,7 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 答案：
 1. neighbo(u)rs  
 
-# ***<font color=#0099ff>\*neighbo(u)rhood</font>*** n
+# ***\*neighbo(u)rhood*** n
 英音 'neɪbəhʊd     美音 'neɪbərhʊd  
 
 | 词频 4 | 书面 1 |  
@@ -1119,7 +1119,7 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
  > 我想住在公司附近。    
 
 
-# ***<font color=#0099ff>\*neighbourhood</font>*** n
+# ***\*neighbourhood*** n
 英音 'neɪbəhʊd     美音 'neɪbərhʊd  
 
 | 词频 2 |  
@@ -1129,7 +1129,7 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 ### 1.**街坊；邻近地区**  
 
 
-# ***<font color=#0099ff>\*neither</font>*** pron
+# ***\*neither*** pron
 英音 'naɪðə(r),'niːðə(r)     美音 'naɪðər,'niːðər  
 
 | 词频 4 | 书面 1 |  
@@ -1156,7 +1156,7 @@ Notes: “neither of + 复数名词 / 代词”作主语时，谓语动词既可
 答案：
 1. neither  2. neither  3. neither   
 
-# ***<font color=#0099ff>\*neither</font>*** adv
+# ***\*neither*** adv
 英音 'naɪðə(r),'niːðə(r)     美音 'naɪðər,'niːðər  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -1177,10 +1177,10 @@ Notes: neither意为“也不”时，承接在否定句后面,表示与前面�
 
 固定搭配
 ---
-## <font color=#0099ff>\*Me neither. </font>
+## \*Me neither. 
 1.**我也不 (…)。**  
 
-## <font color=#0099ff>\*neither ... nor </font>
+## \*neither ... nor 
 1.**既不…也不：**  
 
  > *Neither you nor I am wrong. *  
@@ -1205,7 +1205,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
 答案：
 1. neither  
 
-# ***<font color=#0099ff>\*neither</font>*** adj
+# ***\*neither*** adj
 英音 'naɪðə(r),'niːðə(r)     美音 'naɪðər,'niːðər  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -1219,7 +1219,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
 
 Notes: neither与单数名词连用时，谓语动词用单数。  
 
-# ***<font color=#0099ff>\*nephew</font>*** n
+# ***\*nephew*** n
 英音 'nefjuː, 'nevjuː     美音 'nefjuː, 'nevjuː  
 
 | 词频 2 |  
@@ -1238,7 +1238,7 @@ Notes: neither与单数名词连用时，谓语动词用单数。
 答案：
 1. nephew  
 
-# ***<font color=#0099ff>\*nerve</font>*** n
+# ***\*nerve*** n
 英音 nɜːv     美音 nɜːrv  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -1257,14 +1257,14 @@ Notes: neither与单数名词连用时，谓语动词用单数。
 
 固定搭配
 ---
-## <font color=#0099ff>\*get on sb’s nerves </font>
+## \*get on sb’s nerves 
 1.**令某人焦躁：**  
 
  > *Stop whistling! It’s getting on my nerves!*  
  > 别吹口哨了!扰得我心烦!    
 
 
-# ***<font color=#0099ff>\*nervous</font>*** adj
+# ***\*nervous*** adj
 英音 'nɜːvəs     美音 'nɜːrvəs  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -1287,7 +1287,7 @@ Notes: neither与单数名词连用时，谓语动词用单数。
 ---
 nervously /'nɜːvəsli/ adv   
 
-# ***<font color=#0099ff>\*nest</font>*** n
+# ***\*nest*** n
 英音 nest     美音 nest  
 
 | 词频 4 |  
@@ -1302,7 +1302,7 @@ nervously /'nɜːvəsli/ adv
  > 蚁穴    
 
 
-# ***<font color=#0099ff>\*net</font>*** n
+# ***\*net*** n
 英音 net     美音 net  
 
 | 词频 3 | 书面 1 |  
@@ -1321,7 +1321,7 @@ nervously /'nɜːvəsli/ adv
  > 撒网    
 
 
-# ***<font color=#0099ff>\*net</font>*** adj
+# ***\*net*** adj
 英音 net     美音 net  
 
 | 词频 3 | 书面 1 |  
@@ -1331,7 +1331,7 @@ nervously /'nɜːvəsli/ adv
 ### 1.**净得的；纯的**  
 
 
-# ***<font color=#0099ff>\*network</font>*** n
+# ***\*network*** n
 英音 'netwɜːk     美音 'netwɜːrk  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -1356,7 +1356,7 @@ nervously /'nɜːvəsli/ adv
  > 电视网 / 无线网络    
 
 
-# ***<font color=#0099ff>\*network</font>*** v
+# ***\*network*** v
 英音 'netwɜːk     美音 'netwɜːrk  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -1368,7 +1368,7 @@ nervously /'nɜːvəsli/ adv
 ### 2.**建立工作关系**  
 
 
-# ***<font color=#0099ff>\*neutral</font>*** n
+# ***\*neutral*** n
 英音 'njuːtrəl     美音 'nuːtrəl  
 
 | 词频 1 |  
@@ -1380,7 +1380,7 @@ nervously /'nɜːvəsli/ adv
 ### 1.*高义频：* **中立国；中立者**  
 
 
-# ***<font color=#0099ff>\*neutral</font>*** adj
+# ***\*neutral*** adj
 英音 'njuːtrəl     美音 'nuːtrəl  
 
 | 词频 1 |  
@@ -1390,7 +1390,7 @@ nervously /'nɜːvəsli/ adv
 ### 1.*高义频：* **中立的；不偏不倚的；中性的**  
 
 
-# ***<font color=#0099ff>\*never</font>*** adv
+# ***\*never*** adv
 英音 'nevə(r)     美音 'nevər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1444,7 +1444,7 @@ D.Never mind.
 答案：
 1. C  2. C  3. never  
 
-# ***<font color=#0099ff>\*nevertheless</font>*** adv
+# ***\*nevertheless*** adv
 英音 ˌnevəðə'les     美音 ˌnevərðə'les  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 1 |  
@@ -1460,7 +1460,7 @@ D.Never mind.
  > 天气变糟了，但是尽管如此，音乐节办得很成功。    
 
 
-# ***<font color=#0099ff>\*new</font>*** adj
+# ***\*new*** adj
 英音 njuː     美音 nuː  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -1486,7 +1486,7 @@ D.Never mind.
 ---
 newly /'njuːli/ adv   
 
-# ***<font color=#0099ff>\*news</font>*** n
+# ***\*news*** n
 英音 njuːz     美音 nuːz  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1510,7 +1510,7 @@ newly /'njuːli/ adv
  > 没有消息就是好消息。    
 
 
-# ***<font color=#0099ff>\*newsflash</font>*** n
+# ***\*newsflash*** n
 英音 'njuːzflæʃ     美音 'nuːzflæʃ  
 
 | 词频 1 |  
@@ -1520,7 +1520,7 @@ newly /'njuːli/ adv
 ### 1.**新闻快讯**  
 
 
-# ***<font color=#0099ff>\*newsletter</font>*** n
+# ***\*newsletter*** n
 英音 'njuːzletə(r)     美音 'nuːzletər  
 
 | 词频 1 |  
@@ -1532,7 +1532,7 @@ newly /'njuːli/ adv
 ### 1.*高义频：* **通讯；简报**  
 
 
-# ***<font color=#0099ff>\*newspaper</font>*** n
+# ***\*newspaper*** n
 英音 'njuːzpeɪpə(r)     美音 'nuːzpeɪpər  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -1556,7 +1556,7 @@ newly /'njuːli/ adv
  > 她在当地的一家报社工作。    
 
 
-# ***<font color=#0099ff>\*next</font>*** n & pron
+# ***\*next*** n & pron
 英音 nekst     美音 nekst  
 
 | 词频 5 |  
@@ -1574,7 +1574,7 @@ newly /'njuːli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*next to </font>
+## \*next to 
 1.**紧挨着 (beside)；仅次于：**  
 
  > *He sits down at a table next to the front window. *  
@@ -1584,7 +1584,7 @@ newly /'njuːli/ adv
  > 除生物外，我最喜欢物理。  （2012 全国）  
 
 
-# ***<font color=#0099ff>\*next</font>*** adj
+# ***\*next*** adj
 英音 nekst     美音 nekst  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1613,7 +1613,7 @@ Notes: 在时间上，指以现在为基准的“下一个”时，不加the。�
  > 我那天晚上生病了，不过第二天感觉好些了。    
 
 
-# ***<font color=#0099ff>\*next</font>*** adv
+# ***\*next*** adv
 英音 nekst     美音 nekst  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1633,7 +1633,7 @@ Notes: 在时间上，指以现在为基准的“下一个”时，不加the。�
  > 对我来说，最好玩的是踢足球，其次是听音乐。    
 
 
-# ***<font color=#0099ff>\*nice</font>*** adj
+# ***\*nice*** adj
 英音 naɪs     美音 naɪs  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -1675,7 +1675,7 @@ Notes: 在时间上，指以现在为基准的“下一个”时，不加the。�
 ---
 nicely /'naɪsli/ adv   
 
-# ***<font color=#0099ff>\*nickname</font>*** n
+# ***\*nickname*** n
 英音 'nɪkneɪm     美音 'nɪkneɪm  
 
 | 词频 2 |  
@@ -1694,7 +1694,7 @@ nicely /'naɪsli/ adv
  > 我们给一些同学起了有意思的外号。    
 
 
-# ***<font color=#0099ff>\*nicotine</font>*** n
+# ***\*nicotine*** n
 英音 'nɪkətiːn     美音 'nɪkətiːn  
 
 | 词频 1 |  
@@ -1706,7 +1706,7 @@ nicely /'naɪsli/ adv
 ### 1.*高义频：* **尼古丁**  
 
 
-# ***<font color=#0099ff>\*niece</font>*** n
+# ***\*niece*** n
 英音 niːs     美音 niːs  
 
 | 词频 2 |  
@@ -1718,7 +1718,7 @@ nicely /'naɪsli/ adv
 ### 1.*高义频：* **侄女；外甥女**  
 
 
-# ***<font color=#0099ff>\*night</font>*** n
+# ***\*night*** n
 英音 naɪt     美音 naɪt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1743,20 +1743,20 @@ nicely /'naɪsli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*all night (long) </font>
+## \*all night (long) 
 1.**整夜：**  
 
  > *I lay awake all night (long).*  
  > 我整夜没睡着。    
 
-## <font color=#0099ff>\*night and day / day and night </font>
+## \*night and day / day and night 
 1.**日日夜夜；夜以继日：**  
 
  > *He was so diligent that he worked day and night.*  
  > 他非常勤奋，夜以继日地工作。  （2008 湖南书面表达）  
 
 
-# ***<font color=#0099ff>\*nightfall</font>*** n
+# ***\*nightfall*** n
 英音 'naɪtfɔːl     美音 'naɪtfɔːl  
 
 | 词频 1 |  
@@ -1768,7 +1768,7 @@ nicely /'naɪsli/ adv
 ### 1.*高义频：* **黄昏，傍晚 (=dusk)**  
 
 
-# ***<font color=#0099ff>\*nightmare</font>*** n
+# ***\*nightmare*** n
 英音 'naɪtmeə(r)     美音 'naɪtmer  
 
 | 词频 1 |  
@@ -1778,7 +1778,7 @@ nicely /'naɪsli/ adv
 ### 1.**噩梦**  
 
 
-# ***<font color=#0099ff>\*nitrogen</font>*** n
+# ***\*nitrogen*** n
 英音 'naɪtrədʒən     美音 'naɪtrədʒən  
 
 | 词频 1 |  
@@ -1790,7 +1790,7 @@ nicely /'naɪsli/ adv
 ### 1.*高义频：* **氮**  
 
 
-# ***<font color=#0099ff>\*no</font>*** adv
+# ***\*no*** adv
 英音 nəʊ     美音 noʊ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1820,7 +1820,7 @@ nicely /'naɪsli/ adv
  > 我们走到桥边就不再往前了。    
 
 
-# ***<font color=#0099ff>\*no</font>*** adj
+# ***\*no*** adj
 英音 nəʊ     美音 noʊ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1848,7 +1848,7 @@ nicely /'naɪsli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*there’s no doing sth</font>
+## \*there’s no doing sth
 1.**[用于强调] 不可能做某事:**  
 
  > *There’s no knowing which team will win. *  
@@ -1858,7 +1858,7 @@ nicely /'naɪsli/ adv
  > 关于全球化有一点是可以确定的，那就是它不可逆转。  （2013 上海）  
 
 
-# ***<font color=#0099ff>\*noble</font>*** adj
+# ***\*noble*** adj
 英音 'nəʊbl     美音 'noʊbl  
 
 | 词频 3 |  
@@ -1875,7 +1875,7 @@ nicely /'naɪsli/ adv
  > 崇高的思想/高尚的心灵    
 
 
-# ***<font color=#0099ff>\*noble</font>*** n
+# ***\*noble*** n
 英音 'nəʊbl     美音 'noʊbl  
 
 | 词频 3 |  
@@ -1887,7 +1887,7 @@ nicely /'naɪsli/ adv
 ### 1.*高义频：* **贵族**  
 
 
-# ***<font color=#0099ff>\*nobody</font>*** n
+# ***\*nobody*** n
 英音 'nəʊbədi     美音 'noʊbədi  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -1902,7 +1902,7 @@ nicely /'naɪsli/ adv
  > 我想成为大人物，不愿做无名小卒。    
 
 
-# ***<font color=#0099ff>\*nobody</font>*** pron
+# ***\*nobody*** pron
 英音 'nəʊbədi     美音 'noʊbədi  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -1925,7 +1925,7 @@ Notes: 在英语口语中，nobody比no one更常用。
 答案：
 1. has / will have  2. nobody / no one  
 
-# ***<font color=#0099ff>\*nod</font>*** n
+# ***\*nod*** n
 英音 nɒd     美音 nɑːd  
 
 | 词频 3 |  
@@ -1944,7 +1944,7 @@ Notes: 在英语口语中，nobody比no one更常用。
  > 他进来时向我友好地点了点头。    
 
 
-# ***<font color=#0099ff>\*nod</font>*** v
+# ***\*nod*** v
 英音 nɒd     美音 nɑːd  
 
 | 词频 3 | 书面 2 |  
@@ -1965,7 +1965,7 @@ Notes: 在英语口语中，nobody比no one更常用。
  > 她正在给人打电话，所以我向她点头示意后就离开了。  （2014 四川改）  
 
 
-# ***<font color=#0099ff>\*noise</font>*** n
+# ***\*noise*** n
 英音 nɔɪz     美音 nɔɪz  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -1987,7 +1987,7 @@ Notes: 在英语口语中，nobody比no one更常用。
   
 
 
-# ***<font color=#0099ff>\*noisy</font>*** adj
+# ***\*noisy*** adj
 英音 'nɔɪzi     美音 'nɔɪzi  
 
 | 词频 4 | 口语 1 |  
@@ -2010,7 +2010,7 @@ Notes: 在英语口语中，nobody比no one更常用。
 ---
 noisily  /'nɔɪzɪli/ adv   
 
-# ***<font color=#0099ff>\*non-smoker</font>*** n
+# ***\*non-smoker*** n
 英音 nɒn'sməʊkə(r)     美音 nɒn'smoʊkər  
 
 | 词频 1 |  
@@ -2022,7 +2022,7 @@ noisily  /'nɔɪzɪli/ adv
 ### 1.*高义频：* **不抽烟的人**  
 
 
-# ***<font color=#0099ff>\*non-smoking</font>*** adj
+# ***\*non-smoking*** adj
 英音 ˌnɒn 'sməʊkɪŋ     美音 ˌnɒn 'smoʊkɪŋ  
 
 | 词频 1 |  
@@ -2032,7 +2032,7 @@ noisily  /'nɔɪzɪli/ adv
 ### 1.**禁止吸烟的**  
 
 
-# ***<font color=#0099ff>\*none</font>*** pron
+# ***\*none*** pron
 英音 nʌn     美音 nʌn  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -2062,7 +2062,7 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
 
 固定搭配
 ---
-## <font color=#0099ff>\*none but</font>
+## \*none but
 1.**仅仅；只有：**  
 
  > *None but he knew the truth.*  
@@ -2079,7 +2079,7 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
 答案：
 1. none  2. none  3. None  
 
-# ***<font color=#0099ff>\*nonsense</font>*** n
+# ***\*nonsense*** n
 英音 'nɒnsns     美音 'nɑːnsens  
 
 | 词频 1 | 口语 1 |  
@@ -2095,7 +2095,7 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
  > 他们又在胡说。    
 
 
-# ***<font color=#0099ff>\*nonstop</font>*** adv
+# ***\*nonstop*** adv
 英音 ˌnɒn'stɒp     美音 ˌnɒn'stɒp  
 
 | 词频 2 |  
@@ -2108,7 +2108,7 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
  > 这列火车从北京直达沈阳。    
 
 
-# ***<font color=#0099ff>\*nonstop</font>*** adj
+# ***\*nonstop*** adj
 英音 ˌnɒn'stɒp     美音 ˌnɒn'stɒp  
 
 | 词频 2 |  
@@ -2124,7 +2124,7 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
  > 他在进行一次不间断的长途旅行。    
 
 
-# ***<font color=#0099ff>\*nonverbal</font>*** adj
+# ***\*nonverbal*** adj
 英音 ˌnɒn'vɜːbl     美音 ˌnɒn'vɜːbəl  
 
 | 词频 1 |  
@@ -2134,7 +2134,7 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
 ### 1.*高义频：* **不用语言的；不用言辞表达的**  
 
 
-# ***<font color=#0099ff>\*noodle</font>*** n
+# ***\*noodle*** n
 英音 'nuːdl     美音 'nuːdl  
 
 | 词频 1 |  
@@ -2146,7 +2146,7 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
 ### 1.*高义频：* **[常用复数] 面条**  
 
 
-# ***<font color=#0099ff>\*noon</font>*** n
+# ***\*noon*** n
 英音 nuːn     美音 nuːn  
 
 | 词频 3 |  
@@ -2162,7 +2162,7 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
  > 在中午    
 
 
-# ***<font color=#0099ff>\*nor</font>*** conj
+# ***\*nor*** conj
 英音 nɔː(r)     美音 nɔːr  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -2200,7 +2200,7 @@ D.he will even give
 答案：
 1. C  2. C  
 
-# ***<font color=#0099ff>\*normal</font>*** n
+# ***\*normal*** n
 英音 'nɔːml     美音 'nɔːrml  
 
 | 词频 4 |  
@@ -2218,14 +2218,14 @@ D.he will even give
 
 固定搭配
 ---
-## <font color=#0099ff>\*go back / return to normal </font>
+## \*go back / return to normal 
 1.**恢复正常：**  
 
  > *The crisis has passed and life will go back to normal soon. *  
  > 危机已经过去，生活很快就会恢复正常。    
 
 
-# ***<font color=#0099ff>\*normal</font>*** adj
+# ***\*normal*** adj
 英音 'nɔːml     美音 'nɔːrml  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -2258,7 +2258,7 @@ D.he will even give
 答案：
 1. normal  
 
-# ***<font color=#0099ff>\*normally</font>*** adv
+# ***\*normally*** adv
 英音 'nɔːməli     美音 'nɔːrməli  
 
 | 词频 4 | 口语 3 | 书面 2 | 阅读 3 |  
@@ -2277,7 +2277,7 @@ D.he will even give
  > 开心时，我们的身体运作正常，我们感觉轻松、积极乐观。  （2008 湖南改）  
 
 
-# ***<font color=#0099ff>\*north</font>*** n
+# ***\*north*** n
 英音 nɔːθ     美音 nɔːrθ  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -2295,7 +2295,7 @@ D.he will even give
  > 在(…的)北方    
 
 
-# ***<font color=#0099ff>\*north</font>*** adj
+# ***\*north*** adj
 英音 nɔːθ     美音 nɔːrθ  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -2311,7 +2311,7 @@ D.he will even give
  > 华北    
 
 
-# ***<font color=#0099ff>\*north</font>*** adv
+# ***\*north*** adv
 英音 nɔːθ     美音 nɔːrθ  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -2328,7 +2328,7 @@ D.he will even give
  > 丰宁在北京以北约180公里处。    
 
 
-# ***<font color=#0099ff>\*north-east</font>*** n
+# ***\*north-east*** n
 英音 ˌnɔ:θˈi:st     美音 ˌnɔrθˈist  
 
 | 词频 1 |  
@@ -2338,7 +2338,7 @@ D.he will even give
 ### 1.**东北**  
 
 
-# ***<font color=#0099ff>\*north-west</font>*** n
+# ***\*north-west*** n
 英音 ˌnɔ:θˈwest     美音 ˌnɔrθˈwɛst  
 
 | 词频 1 |  
@@ -2348,7 +2348,7 @@ D.he will even give
 ### 1.**西北**  
 
 
-# ***<font color=#0099ff>\*northeast</font>*** adj
+# ***\*northeast*** adj
 英音 .nɔːθ'iːst     美音 .nɔːθr'iːst  
 
 | 词频 1 |  
@@ -2364,7 +2364,7 @@ D.he will even give
  > 东北风    
 
 
-# ***<font color=#0099ff>\*northeast</font>*** n
+# ***\*northeast*** n
 英音 ˌnɔːθ'iːst     美音 ˌnɔːθr'iːst  
 
 | 词频 1 |  
@@ -2379,7 +2379,7 @@ D.he will even give
  > 吉林省位于中国东北。    
 
 
-# ***<font color=#0099ff>\*northeast</font>*** adv
+# ***\*northeast*** adv
 英音 ˌnɔːθ'iːst     美音 ˌnɔːθr'iːst  
 
 | 词频 1 |  
@@ -2392,7 +2392,7 @@ D.he will even give
  > 这条路在这里转向东北。    
 
 
-# ***<font color=#0099ff>\*northern</font>*** adj
+# ***\*northern*** adj
 英音 'nɔːðən     美音 'nɔːrðərn  
 
 | 词频 4 |  
@@ -2412,7 +2412,7 @@ D.he will even give
 ---
 northerner /'nɔːðənə(r)/ n [C]  
 
-# ***<font color=#0099ff>\*northwest</font>*** adv
+# ***\*northwest*** adv
 英音 ˌnɔːθ'west     美音 ˌnɔːθr'west  
 
 | 词频 1 |  
@@ -2425,7 +2425,7 @@ northerner /'nɔːðənə(r)/ n [C]
  > 道路向西北延伸。    
 
 
-# ***<font color=#0099ff>\*northwest</font>*** adj
+# ***\*northwest*** adj
 英音 ˌnɔːθ'west     美音 ˌnɔːθr'west  
 
 | 词频 1 |  
@@ -2438,7 +2438,7 @@ northerner /'nɔːðənə(r)/ n [C]
  > 西北海岸    
 
 
-# ***<font color=#0099ff>\*northwest</font>*** n
+# ***\*northwest*** n
 英音 ˌnɔːθ'west     美音 ˌnɔːθr'west  
 
 | 词频 1 |  
@@ -2453,7 +2453,7 @@ northerner /'nɔːðənə(r)/ n [C]
  > 新疆位于中国西北地区。    
 
 
-# ***<font color=#0099ff>\*northwestern</font>*** adj
+# ***\*northwestern*** adj
 英音 'nɔːθ'westən     美音 'nɔːθ'westən  
 
 | 词频 1 |  
@@ -2463,7 +2463,7 @@ northerner /'nɔːðənə(r)/ n [C]
 ### 1.*高义频：* **西北部的；来自西北部的**  
 
 
-# ***<font color=#0099ff>\*nose</font>*** n
+# ***\*nose*** n
 英音 nəʊz     美音 noʊz  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2492,7 +2492,7 @@ northerner /'nɔːðənə(r)/ n [C]
  > 我们说，一个好记者必须对新闻具有敏锐的“嗅觉”。  （人教⑤ – 4）  
 
 
-# ***<font color=#0099ff>\*nosebleed</font>*** n
+# ***\*nosebleed*** n
 英音 'nəʊzbliːd     美音 'noʊzbliːd  
 
 | 词频 1 |  
@@ -2504,7 +2504,7 @@ northerner /'nɔːðənə(r)/ n [C]
 ### 1.*高义频：* **鼻出血；流鼻血**  
 
 
-# ***<font color=#0099ff>\*not</font>*** adv
+# ***\*not*** adv
 英音 nɒt     美音 nɑːt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2579,22 +2579,22 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 
 固定搭配
 ---
-## <font color=#0099ff>\*not a / one </font>
+## \*not a / one 
 1.**一个…也不：**  
 
  > *Not a man was killed in the accident. *  
  > 那次事故中没有人员死亡。    
 
-## <font color=#0099ff>\*not at all </font>
+## \*not at all 
 1.**根本不；别客气**  
 
-## <font color=#0099ff>\*not ... but </font>
+## \*not ... but 
 1.**不是…而是：**  
 
  > *Life is not a competition, but a trip, step by step.*  
  > 生活不是竞赛，而是一场一步接着一步的旅行。    
 
-## <font color=#0099ff>\*not that </font>
+## \*not that 
 1.**倒不是：**  
 
  > *She didn’t attend the meeting; not that she was busy.*  
@@ -2608,7 +2608,7 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 答案：
 1. but  
 
-# ***<font color=#0099ff>\*note</font>*** n
+# ***\*note*** n
 英音 nəʊt     美音 noʊt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2657,26 +2657,26 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 
 固定搭配
 ---
-## <font color=#0099ff>\*compare notes (with sb) </font>
+## \*compare notes (with sb) 
 1.**(与某人) 交换意见 / 信息：**  
 
  > *We saw the play separately and compared notes afterwards.*  
  > 我们分别观看了那出戏，随后交换了意见。    
 
-## <font color=#0099ff>\*make / take notes </font>
+## \*make / take notes 
 1.**记笔记：**  
 
  > *Mary is really good at taking / making notes in class.*  
  > 玛丽很会记课堂笔记。  （2012 全国）  
 
-## <font color=#0099ff>\*take note of </font>
+## \*take note of 
 1.**注意 (notice)：**  
 
  > *Next time you chat with a friend, take note of how you’re sitting.  *  
  > 下次你和朋友聊天时，注意一下你的坐姿。  （2008 湖南改）  
 
 
-# ***<font color=#0099ff>\*note</font>*** vt
+# ***\*note*** vt
 英音 nəʊt     美音 noʊt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2706,7 +2706,7 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 
 固定搭配
 ---
-## <font color=#0099ff>\*note down</font>
+## \*note down
 1.**记下；记录：**  
 
  > *The policeman noted down what I said.*  
@@ -2720,7 +2720,7 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 答案：
 1. noting  
 
-# ***<font color=#0099ff>\*notebook</font>*** n
+# ***\*notebook*** n
 英音 'nəʊtbʊk     美音 'noʊtbʊk  
 
 | 词频 2 |  
@@ -2732,7 +2732,7 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 ### 1.*高义频：* **笔记本；笔记本电脑**  
 
 
-# ***<font color=#0099ff>\*notepad</font>*** n
+# ***\*notepad*** n
 英音 'nəʊtpæd     美音 'noʊtpæd  
 
 | 词频 1 |  
@@ -2744,7 +2744,7 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 ### 1.*高义频：* **便条本；记事本**  
 
 
-# ***<font color=#0099ff>\*nothing</font>*** pron
+# ***\*nothing*** pron
 英音 'nʌθɪŋ     美音 'nʌθɪŋ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2776,7 +2776,7 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 
 固定搭配
 ---
-## <font color=#0099ff>\*for nothing</font>
+## \*for nothing
 1.**免费地 (free)；徒劳地：**  
 
  > *They repaired my bike for nothing.*  
@@ -2785,13 +2785,13 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
  > *When I arrived, he had left. I’d made the journey for nothing.*  
  > 我到达时，他已经离开。我白跑了一趟。    
 
-## <font color=#0099ff>\*have nothing to do with</font>
+## \*have nothing to do with
 1.**和…无关：**  
 
  > *John’s success has nothing to do with good luck. It is years of hard work that has made him what he is today.*  
  > 约翰的成功跟好运无关，而是多年的努力成就了如今的他。  （2010 湖南）  
 
-## <font color=#0099ff>\*nothing but</font>
+## \*nothing but
 1.**只有；仅仅：**  
 
  > *Sandy could do nothing but admit to his teacher that he was wrong.*  
@@ -2800,13 +2800,13 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
  > *Don’t worry; it is nothing but a joke.*  
  > 别担心，这只不过是个玩笑。    
 
-## <font color=#0099ff>\*nothing like</font>
+## \*nothing like
 1.**完全不像；完全不：**  
 
  > *It looks nothing like a horse.*  
  > 它看上去根本不像一匹马。    
 
-## <font color=#0099ff>\*there’s nothing like</font>
+## \*there’s nothing like
 1.**什么都比不上…；…非常好：**  
 
  > *There’s nothing like an ice-cold drink on a hot day.*  
@@ -2826,7 +2826,7 @@ D.Everything
 答案：
 1. A  2. like  3. for  
 
-# ***<font color=#0099ff>\*nothing</font>*** n
+# ***\*nothing*** n
 英音 'nʌθɪŋ     美音 'nʌθɪŋ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2851,7 +2851,7 @@ D.Everything
 
 固定搭配
 ---
-## <font color=#0099ff>\*for nothing </font>
+## \*for nothing 
 1.**免费地；徒劳地：**  
 
  > *They repaired my bike for nothing. *  
@@ -2860,13 +2860,13 @@ D.Everything
  > *When I arrived, he had left. I’d made the journey for nothing. *  
  > 我到达时，他已经离开。我白跑了一趟。    
 
-## <font color=#0099ff>\*have nothing to do with </font>
+## \*have nothing to do with 
 1.**和…无关：**  
 
  > *John’s success has nothing to do with good luck. It is years of hard work that has made him what he is today.*  
  > 约翰的成功跟好运无关，而是多年的努力成就了如今的他。  （2010 湖南）  
 
-## <font color=#0099ff>\*nothing but / except </font>
+## \*nothing but / except 
 1.**除…以外什么也不；只有；只不过：**  
 
  > *I heard a confused noise around me, but could see nothing except the sky. *  
@@ -2878,13 +2878,13 @@ D.Everything
  > *Don’t worry; it is nothing but a joke. *  
  > 别担心，这只不过是个玩笑。    
 
-## <font color=#0099ff>\*nothing like </font>
+## \*nothing like 
 1.**完全不像；完全不：**  
 
  > *It looks nothing like a horse. *  
  > 它看上去根本不像一匹马。    
 
-## <font color=#0099ff>\*there’s nothing like </font>
+## \*there’s nothing like 
 1.**什么都比不上…；…非常好：**  
 
  > *There’s nothing like an ice-cold drink on a hot day.*  
@@ -2904,7 +2904,7 @@ D.Everything
 答案：
 1. A.  2. like  3. nothing  
 
-# ***<font color=#0099ff>\*notice</font>*** n
+# ***\*notice*** n
 英音 'nəʊtɪs     美音 'noʊtɪs  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -2941,7 +2941,7 @@ D.Everything
  > 本店因修缮停止营业，开业时间另行通知。  （2011 全国）  
 
 
-# ***<font color=#0099ff>\*notice</font>*** v
+# ***\*notice*** v
 英音 'nəʊtɪs     美音 'noʊtɪs  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -2984,7 +2984,7 @@ noticeable /'nəʊtɪsəbl/ adj
 答案：
 1. winding  
 
-# ***<font color=#0099ff>\*novel</font>*** n
+# ***\*novel*** n
 英音 'nɒvl     美音 'nɑːvl  
 
 | 词频 4 | 书面 1 |  
@@ -2996,7 +2996,7 @@ noticeable /'nəʊtɪsəbl/ adj
 ### 1.*高义频：* **(长篇) 小说**  
 
 
-# ***<font color=#0099ff>\*novel</font>*** adj
+# ***\*novel*** adj
 英音 'nɒvl     美音 'nɑːvl  
 
 | 词频 4 |  
@@ -3006,7 +3006,7 @@ noticeable /'nəʊtɪsəbl/ adj
 ### 1.**新奇的；异常的**  
 
 
-# ***<font color=#0099ff>\*novelist</font>*** n
+# ***\*novelist*** n
 英音 'nɒvəlɪst     美音 'nɑːvəlɪst  
 
 | 词频 2 |  
@@ -3021,7 +3021,7 @@ noticeable /'nəʊtɪsəbl/ adj
  > 查尔斯·狄更斯是英国最著名的小说家之一。  （人教⑦ – 3）  
 
 
-# ***<font color=#0099ff>\*now</font>*** adv
+# ***\*now*** adv
 英音 naʊ     美音 naʊ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3050,7 +3050,7 @@ noticeable /'nəʊtɪsəbl/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*(every) now and then / again </font>
+## \*(every) now and then / again 
 1.**时而；偶尔：**  
 
  > *Snakes come near the house now and then. *  
@@ -3059,19 +3059,19 @@ noticeable /'nəʊtɪsəbl/ adj
  > *Now and again he still visits me. *  
  > 他偶尔还来看我。    
 
-## <font color=#0099ff>\*for now</font>
+## \*for now
 1.**目前；暂时：**  
 
  > *Although these measures are not effective forever, they are vital for now.*  
  > 尽管这些措施不会永远有效，但目前还是极为重要的。  （2016 北京）  
 
-## <font color=#0099ff>\*from now on</font>
+## \*from now on
 1.**从现在起：**  
 
  > *I’ll face everything unpleasant tolerantly from now on.*  
  > 从现在开始，我将包容地面对所有不愉快的事情。  （2009 江西书面表达）  
 
-## <font color=#0099ff>\*just now </font>
+## \*just now 
 1.**刚才；现在：**  
 
  > *Tom was here just now. *  
@@ -3080,14 +3080,14 @@ noticeable /'nəʊtɪsəbl/ adj
  > *Do not talk about it just now. *  
  > 现在别讨论这件事。    
 
-## <font color=#0099ff>\*up to now / until now / till now</font>
+## \*up to now / until now / till now
 1.**迄今为止：**  
 
  > *Up to / Until now, the program has saved thousands of children who would otherwise have died.*  
  > 到目前为止，这项计划已经挽救了成千上万名原本会死亡的那些孩子。  （2010 山东）  
 
 
-# ***<font color=#0099ff>\*now</font>*** n
+# ***\*now*** n
 英音 naʊ     美音 naʊ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3115,7 +3115,7 @@ noticeable /'nəʊtɪsəbl/ adj
  > 从现在起我要争取做得更好。    
 
 
-# ***<font color=#0099ff>\*now</font>*** conj
+# ***\*now*** conj
 英音 naʊ     美音 naʊ  
 
 | 词频 5 | 口语 3 | 书面 1 |  
@@ -3131,7 +3131,7 @@ noticeable /'nəʊtɪsəbl/ adj
  > 既然有了第一次的造访，我希望以后能常来。  （外研② – 5）  
 
 
-# ***<font color=#0099ff>\*nowadays</font>*** adv
+# ***\*nowadays*** adv
 英音 'naʊədeɪz     美音 'naʊədeɪz  
 
 | 词频 4 | 口语 2 |  
@@ -3144,7 +3144,7 @@ noticeable /'nəʊtɪsəbl/ adj
  > 现在人们把垃圾分类，以便于废物再利用。  （ 2009 湖南改）  
 
 
-# ***<font color=#0099ff>\*noway</font>*** adv
+# ***\*noway*** adv
 英音 ˌnəʊ'weɪ     美音 ˌnoʊ'weɪ  
 
 | 词频 1 |  
@@ -3154,7 +3154,7 @@ noticeable /'nəʊtɪsəbl/ adj
 ### 1.*高义频：* **(AmE) 决不； 一点儿也不**  
 
 
-# ***<font color=#0099ff>\*nowhere</font>*** adv
+# ***\*nowhere*** adv
 英音 'nəʊweə(r)     美音 'noʊwer  
 
 | 词频 3 | 口语 2 |  
@@ -3169,13 +3169,13 @@ noticeable /'nəʊtɪsəbl/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*nowhere near </font>
+## \*nowhere near 
 1.**离…差得远；远谈不上：**  
 
  > *Our budget is nowhere near enough. *  
  > 我们的预算远远不够。    
 
-## <font color=#0099ff>\*nowhere to be found / seen</font>
+## \*nowhere to be found / seen
 1.**哪儿也找不到 / 看不到：**  
 
  > **nowhere to be found**  
@@ -3194,7 +3194,7 @@ D.near nowhere enough
 答案：
 1. A.  
 
-# ***<font color=#0099ff>\*nuclear</font>*** adj
+# ***\*nuclear*** adj
 英音 'njuːkliə(r)     美音 'nuːkliər  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -3212,7 +3212,7 @@ D.near nowhere enough
  > (仅由父母和子女组成的) 核心家庭；小家庭    
 
 
-# ***<font color=#0099ff>\*nucleus</font>*** n
+# ***\*nucleus*** n
 英音 'njuːkliəs     美音 'nuːkliəs  
 
 | 词频 1 |  
@@ -3224,7 +3224,7 @@ D.near nowhere enough
 ### 1.*高义频：* **(pl nuclei) 原子核；中心**  
 
 
-# ***<font color=#0099ff>\*nudge</font>*** v
+# ***\*nudge*** v
 英音 nʌdʒ     美音 nʌdʒ  
 
 | 词频 1 |  
@@ -3234,7 +3234,7 @@ D.near nowhere enough
 ### 1.**摊开**  
 
 
-# ***<font color=#0099ff>\*nudge</font>*** n
+# ***\*nudge*** n
 英音 nʌdʒ     美音 nʌdʒ  
 
 | 词频 1 |  
@@ -3244,7 +3244,7 @@ D.near nowhere enough
 ### 1.**（通常用肘）轻推**  
 
 
-# ***<font color=#0099ff>\*nuisance</font>*** n
+# ***\*nuisance*** n
 英音 'njuːsns     美音 'nuːsns  
 
 | 词频 1 |  
@@ -3254,7 +3254,7 @@ D.near nowhere enough
 ### 1.**令人讨厌的人或事**  
 
 
-# ***<font color=#0099ff>\*numb</font>*** adj
+# ***\*numb*** adj
 英音 nʌm     美音 nʌm  
 
 | 词频 1 |  
@@ -3271,7 +3271,7 @@ D.near nowhere enough
  > 天气寒冷，我们的手脚都冻僵了。    
 
 
-# ***<font color=#0099ff>\*number</font>*** n
+# ***\*number*** n
 英音 'nʌmbə(r)     美音 'nʌmbər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3309,7 +3309,7 @@ D.near nowhere enough
 
 Notes: a number of后接复数名词，作主语时，谓语动词用复数。the number of后接复数名词，作主语时，谓语动词用单数。  
 
-# ***<font color=#0099ff>\*numerology</font>*** n
+# ***\*numerology*** n
 英音 ˌnjuːmə'rɒlədʒi     美音 ˌnuːmə'rɑːlədʒi  
 
 | 词频 1 |  
@@ -3319,7 +3319,7 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
 ### 1.**数字命理学（以出生年月日及其他数字测定之学）**  
 
 
-# ***<font color=#0099ff>\*numerous</font>*** adj
+# ***\*numerous*** adj
 英音 'njuːmərəs     美音 'nuːmərəs  
 
 | 词频 2 | 书面 1 | 阅读 2 |  
@@ -3333,7 +3333,7 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
  > 为本书做过贡献的人数不胜数。    
 
 
-# ***<font color=#0099ff>\*nurse</font>*** n
+# ***\*nurse*** n
 英音 nɜːs     美音 nɜːrs  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -3345,7 +3345,7 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
 ### 1.*高义频：* **护士；保姆**  
 
 
-# ***<font color=#0099ff>\*nursery</font>*** n
+# ***\*nursery*** n
 英音 'nɜːsəri     美音 'nɜːrsəri  
 
 | 词频 1 |  
@@ -3360,7 +3360,7 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
  > 幼儿园    
 
 
-# ***<font color=#0099ff>\*nut</font>*** n
+# ***\*nut*** n
 英音 nʌt     美音 nʌt  
 
 | 词频 1 | 口语 1 |  
@@ -3376,7 +3376,7 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
  > 棘手的问题    
 
 
-# ***<font color=#0099ff>\*nutrition</font>*** n
+# ***\*nutrition*** n
 英音 nju'trɪʃn     美音 nu'trɪʃn  
 
 | 词频 2 |  
@@ -3395,7 +3395,7 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
  > 均衡的饮食为身体提供营养。    
 
 
-# ***<font color=#0099ff>\*nutshell</font>*** n
+# ***\*nutshell*** n
 英音 'nʌtʃel     美音 'nʌtʃel  
 
 | 词频 1 |  

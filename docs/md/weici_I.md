@@ -1,6 +1,6 @@
 # Ii
 
-# ***<font color=#0099ff>\*i.e.</font>*** abbr
+# ***\*i.e.*** abbr
 英音 ˌaɪ'iː     美音 ˌaɪ'iː  
 
 | 词频 1 |  
@@ -10,7 +10,7 @@
 ### 1.*高义频：* **即；也就是**  
 
 
-# ***<font color=#0099ff>\*ibis</font>*** n
+# ***\*ibis*** n
 英音 'aɪbɪs     美音 'aɪbɪs  
 
 | 词频 1 |  
@@ -20,7 +20,7 @@
 ### 1.**鹮**  
 
 
-# ***<font color=#0099ff>\*ice</font>*** n
+# ***\*ice*** n
 英音 aɪs     美音 aɪs  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -38,7 +38,7 @@
  > 如履薄冰    
 
 
-# ***<font color=#0099ff>\*ice-cream</font>*** n
+# ***\*ice-cream*** n
 英音 aɪskriːm     美音 aɪskriːm  
 
 | 词频 2 | 口语 2 |  
@@ -50,7 +50,7 @@
 ### 1.*高义频：* **冰淇淋**  
 
 
-# ***<font color=#0099ff>\*iceberg</font>*** n
+# ***\*iceberg*** n
 英音 'aɪsbɜːɡ     美音 'aɪsbɜːrɡ  
 
 | 词频 1 |  
@@ -62,7 +62,7 @@
 ### 1.*高义频：* **冰山**  
 
 
-# ***<font color=#0099ff>\*idea</font>*** n  重难点词汇
+# ***\*idea*** n  重难点词汇
 英音 aɪ'dɪə     美音 aɪ'diːə  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -134,7 +134,7 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
 答案：
 1. have no idea  2. Great / Good idea  
 
-# ***<font color=#0099ff>\*ideal</font>*** adj
+# ***\*ideal*** adj
 英音 aɪ'diːəl     美音 aɪ'diːəl  
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 2 |  
@@ -147,7 +147,7 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
  > 理想的学习时间是晚餐后，或放学后晚餐前。  （2009 全国）  
 
 
-# ***<font color=#0099ff>\*ideal</font>*** n
+# ***\*ideal*** n
 英音 aɪ'diːəl     美音 aɪ'diːəl  
 
 | 词频 3 | 阅读 2 |  
@@ -162,7 +162,7 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
  > 理想犹如天上的星星，我们虽不能触及，却可以像水手一样靠它们调整航向。    
 
 
-# ***<font color=#0099ff>\*identical</font>*** adj
+# ***\*identical*** adj
 英音 aɪ'dentɪkl     美音 aɪ'dentɪkl  
 
 | 词频 1 |  
@@ -172,7 +172,7 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
 ### 1.*高义频：* **同一的；完全相同的**  
 
 
-# ***<font color=#0099ff>\*identification</font>*** n
+# ***\*identification*** n
 英音 aɪˌdentɪfɪ'keɪʃn     美音 aɪˌdentɪfɪ'keɪʃn  
 
 | 词频 1 | 阅读 1 |  
@@ -195,7 +195,7 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
  > 登机前，我们都需要出示身份证明，如身份证或护照。    
 
 
-# ***<font color=#0099ff>\*identify</font>*** vt
+# ***\*identify*** vt
 英音 aɪ'dentɪfaɪ     美音 aɪ'dentɪfaɪ  
 
 | 词频 3 | 口语 2 | 书面 3 | 阅读 2 |  
@@ -231,21 +231,21 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
 
 固定搭配
 ---
-## <font color=#0099ff>\*identify sb / sth with sth</font>
+## \*identify sb / sth with sth
 1.**认为某人 / 某物等同于某物：**  
 
  > **identify with**  
  > *You should not identify wealth with happiness.*  
  > 你不应该把财富与幸福等同起来。    
 
-## <font color=#0099ff>\*identify with sb / sth</font>
+## \*identify with sb / sth
 1.**认同某人 / 某物；与某人 / 某物有同感：**  
 
  > *I didn't enjoy the book because I couldn' identify with any of the main characters.*  
  > 我不喜欢这本书，因为我无法与其中任何一个主角产生共鸣。    
 
 
-# ***<font color=#0099ff>\*identity</font>*** n
+# ***\*identity*** n
 英音 aɪ'dentəti     美音 aɪ'dentəti  
 
 | 词频 2 | 书面 2 |  
@@ -276,7 +276,7 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
 答案：
 1. identity  
 
-# ***<font color=#0099ff>\*idiom</font>*** n
+# ***\*idiom*** n
 英音 'ɪdiəm     美音 'ɪdiəm  
 
 | 词频 1 |  
@@ -286,7 +286,7 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
 ### 1.*高义频：* **[C] 习语；成语**  
 
 
-# ***<font color=#0099ff>\*idiomatic</font>*** adj
+# ***\*idiomatic*** adj
 英音 ˌɪdiə'mætɪk     美音 ˌɪdiə'mætɪk  
 
 | 词频 1 |  
@@ -296,7 +296,7 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
 ### 1.*高义频：* **惯用的；合乎语言习惯的**  
 
 
-# ***<font color=#0099ff>\*if</font>*** conj
+# ***\*if*** conj
 英音 ɪf     美音 ɪf  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -330,7 +330,7 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
 
 固定搭配
 ---
-## <font color=#0099ff>\*if so </font>
+## \*if so 
 1.**如果是这样的话：**  
 
  > *Have you ever been here? And if so how many times? *  
@@ -352,7 +352,7 @@ D.if so
 答案：
 1. If  2. had not been  3. B  4. If so  5. if / whether  
 
-# ***<font color=#0099ff>\*ignorance</font>*** n
+# ***\*ignorance*** n
 英音 'ɪɡnərəns     美音 'ɪɡnərəns  
 
 | 词频 1 | 阅读 1 |  
@@ -367,7 +367,7 @@ D.if so
  > 请原谅我的无知，但请问这台机器是怎么工作的？    
 
 
-# ***<font color=#0099ff>\*ignorant</font>*** adj
+# ***\*ignorant*** adj
 英音 'ɪɡnərənt     美音 'ɪɡnərənt  
 
 | 词频 1 | 阅读 1 |  
@@ -381,7 +381,7 @@ D.if so
  > 他对日晒过度的危害一无所知。    
 
 
-# ***<font color=#0099ff>\*ignore</font>*** vt
+# ***\*ignore*** vt
 英音 ɪɡ'nɔːr     美音 ɪɡ'nɔː(r)  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -408,7 +408,7 @@ D.if so
 答案：
 1. ignore  
 
-# ***<font color=#0099ff>\*ill</font>*** adj
+# ***\*ill*** adj
 英音 ɪl     美音 ɪl  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -436,7 +436,7 @@ D.if so
  > 坏事传千里。    
 
 
-# ***<font color=#0099ff>\*ill</font>*** adv
+# ***\*ill*** adv
 英音 ɪl     美音 ɪl  
 
 | 词频 4 |  
@@ -455,7 +455,7 @@ D.if so
  > 不要说已逝者的坏话。    
 
 
-# ***<font color=#0099ff>\*illegal</font>*** adj
+# ***\*illegal*** adj
 英音 ɪ'liːɡl     美音 ɪ'liːɡl  
 
 | 词频 3 | 书面 1 | 阅读 1 |  
@@ -477,7 +477,7 @@ D.if so
  > 无照驾车是违法的。    
 
 
-# ***<font color=#0099ff>\*illegally</font>*** adv
+# ***\*illegally*** adv
 英音 ɪ'liːɡəli     美音 ɪ'liːɡəli  
 
 | 词频 1 |  
@@ -487,7 +487,7 @@ D.if so
 ### 1.**不合法地；违法地**  
 
 
-# ***<font color=#0099ff>\*illness</font>*** n
+# ***\*illness*** n
 英音 'ɪlnəs     美音 'ɪlnəs  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -513,7 +513,7 @@ D.if so
  > 得一种罕见的病    
 
 
-# ***<font color=#0099ff>\*illuminate</font>*** vt
+# ***\*illuminate*** vt
 英音 ɪ'luːmɪneɪt     美音 ɪ'luːmɪneɪt  
 
 | 词频 1 |  
@@ -523,7 +523,7 @@ D.if so
 ### 1.**照明, 照亮**  
 
 
-# ***<font color=#0099ff>\*illustrate</font>*** vt
+# ***\*illustrate*** vt
 英音 'ɪləstreɪt     美音 'ɪləstreɪt  
 
 | 词频 2 | 书面 2 |  
@@ -550,7 +550,7 @@ D.if so
 illustration /ˌɪlə'streɪʃn/ n [U]   
 illustrator /'ɪləstreɪtə(r)/ n [C]  
 
-# ***<font color=#0099ff>\*image</font>*** n
+# ***\*image*** n
 英音 'ɪmɪdʒ     美音 'ɪmɪdʒ  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -572,7 +572,7 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
  > 有趣的是，我们的自我形象和别人对我们的印象往往大相径庭。  （ 2008 广东）  
 
 
-# ***<font color=#0099ff>\*imaginary</font>*** adj
+# ***\*imaginary*** adj
 英音 ɪ'mædʒɪnəri     美音 ɪ'mædʒɪneri  
 
 | 词频 2 |  
@@ -582,7 +582,7 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
 ### 1.*高义频：* **想象中的；假想的；虚构的**  
 
 
-# ***<font color=#0099ff>\*imagination</font>*** n
+# ***\*imagination*** n
 英音 ɪˌmædʒɪ'neɪʃn     美音 ɪˌmædʒɪ'neɪʃn  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -610,7 +610,7 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
  > 实际上你什么也没有看见，那只不过是幻觉而已。    
 
 
-# ***<font color=#0099ff>\*imaginative</font>*** adj
+# ***\*imaginative*** adj
 英音 ɪ'mædʒɪnətɪv     美音 ɪ'mædʒɪnətɪv  
 
 | 词频 2 |  
@@ -620,7 +620,7 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
 ### 1.*高义频：* **富于想象力的**  
 
 
-# ***<font color=#0099ff>\*imagine</font>*** vt  重难点词汇
+# ***\*imagine*** vt  重难点词汇
 英音 ɪ'mædʒɪn     美音 ɪ'mædʒɪn  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -694,7 +694,7 @@ imaginary /ɪ'mædʒɪnəri/ adj
 答案：
 1. imagining  2. accepting  
 
-# ***<font color=#0099ff>\*imitate</font>*** vt
+# ***\*imitate*** vt
 英音 'ɪmɪteɪt     美音 'ɪmɪteɪt  
 
 | 词频 1 |  
@@ -712,7 +712,7 @@ Notes: 当表示做和其他人一样的事情时用copy，不用imitate。
 ---
 imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]  
 
-# ***<font color=#0099ff>\*imitation</font>*** n
+# ***\*imitation*** n
 英音 ˌɪmɪ'teɪʃn     美音 ˌɪmɪ'teɪʃn  
 
 | 词频 2 |  
@@ -722,7 +722,7 @@ imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
 ### 1.**模仿**  
 
 
-# ***<font color=#0099ff>\*immediate</font>*** adj
+# ***\*immediate*** adj
 英音 ɪ'miːdiət     美音 ɪ'miːdiət  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -750,7 +750,7 @@ imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
 答案：
 1. immediate  
 
-# ***<font color=#0099ff>\*immediately</font>*** adv
+# ***\*immediately*** adv
 英音 ɪ'miːdiətli     美音 ɪ'miːdiətli  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -763,7 +763,7 @@ imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
  > 面对棘手的问题，大多数人不能立即给出答案。  （2010 全国）  
 
 
-# ***<font color=#0099ff>\*immediately</font>*** conj
+# ***\*immediately*** conj
 英音 ɪ'miːdiətli     美音 ɪ'miːdiətli  
 
 | 词频 4 |  
@@ -776,7 +776,7 @@ imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
  > 12点的钟声一响我就离开了。    
 
 
-# ***<font color=#0099ff>\*immense</font>*** adj
+# ***\*immense*** adj
 英音 ɪ'mens     美音 ɪ'mens  
 
 | 词频 1 |  
@@ -786,7 +786,7 @@ imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
 ### 1.**极大的**  
 
 
-# ***<font color=#0099ff>\*immigrant</font>*** n
+# ***\*immigrant*** n
 英音 'ɪmɪɡrənt     美音 'ɪmɪɡrənt  
 
 | 词频 1 | 阅读 1 |  
@@ -798,7 +798,7 @@ imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
 ### 1.*高义频：* **(外来) 移民**  
 
 
-# ***<font color=#0099ff>\*immigrant</font>*** adj
+# ***\*immigrant*** adj
 英音 'ɪmɪɡrənt     美音 'ɪmɪɡrənt  
 
 | 词频 1 |  
@@ -808,7 +808,7 @@ imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
 ### 1.**移民的；移居的**  
 
 
-# ***<font color=#0099ff>\*immigrate</font>*** vi
+# ***\*immigrate*** vi
 英音 'ɪmɪˌɡreɪt     美音 'ɪmɪɡreɪt  
 
 | 词频 1 |  
@@ -821,7 +821,7 @@ imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
  > 移居某一国家    
 
 
-# ***<font color=#0099ff>\*immigration</font>*** n
+# ***\*immigration*** n
 英音 ˌɪmɪ'ɡreɪʃn     美音 ˌɪmɪ'ɡreɪʃn  
 
 | 词频 1 |  
@@ -839,7 +839,7 @@ imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
  > 移民局官员要求你出示签证了吗?  （外研⑥ – 1）  
 
 
-# ***<font color=#0099ff>\*immune</font>*** adj
+# ***\*immune*** adj
 英音 ɪ'mjuːn     美音 ɪ'mjuːn  
 
 | 词频 1 |  
@@ -849,7 +849,7 @@ imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
 ### 1.**有免疫力的**  
 
 
-# ***<font color=#0099ff>\*impact</font>*** n
+# ***\*impact*** n
 英音 'ɪmpækt     美音 'ɪmpækt  
 
 | 词频 3 | 阅读 2 |  
@@ -871,7 +871,7 @@ imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
  > 法语对英语产生了重大影响。  （2014 湖北改）  
 
 
-# ***<font color=#0099ff>\*impair</font>*** vt
+# ***\*impair*** vt
 英音 ɪm'peə(r)     美音 ɪm'per  
 
 | 词频 2 |  
@@ -881,7 +881,7 @@ imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
 ### 1.**削弱；损伤**  
 
 
-# ***<font color=#0099ff>\*imperative</font>*** n
+# ***\*imperative*** n
 英音 ɪm'perətɪv     美音 ɪm'perətɪv  
 
 | 词频 1 |  
@@ -891,7 +891,7 @@ imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
 ### 1.**祈使语气；命令**  
 
 
-# ***<font color=#0099ff>\*imperial</font>*** adj
+# ***\*imperial*** adj
 英音 ɪm'pɪəriəl     美音 ɪm'pɪriəl  
 
 | 词频 1 |  
@@ -901,7 +901,7 @@ imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
 ### 1.**皇帝的，皇家的**  
 
 
-# ***<font color=#0099ff>\*imply</font>*** vt
+# ***\*imply*** vt
 英音 ɪm'plaɪ     美音 ɪm'plaɪ  
 
 | 词频 4 | 书面 2 |  
@@ -923,7 +923,7 @@ imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
 ---
 implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]  
 
-# ***<font color=#0099ff>\*impolite</font>*** adj
+# ***\*impolite*** adj
 英音 ˌɪmpə'laɪt     美音 ˌɪmpə'laɪt  
 
 | 词频 2 |  
@@ -933,7 +933,7 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
 ### 1.**不礼貌的**  
 
 
-# ***<font color=#0099ff>\*import</font>*** vt
+# ***\*import*** vt
 英音 ɪm'pɔːt     美音 ɪm'pɔːt  
 
 | 词频 3 |  
@@ -947,7 +947,7 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
  > 中国从古巴进口食糖。    
 
 
-# ***<font color=#0099ff>\*import</font>*** n
+# ***\*import*** n
 英音 'ɪmpɔːt     美音 'ɪmpɔːt  
 
 | 词频 3 | 书面 1 |  
@@ -961,7 +961,7 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
  > 从非洲进口的商品包括咖啡、可可和橄榄油。    
 
 
-# ***<font color=#0099ff>\*importance</font>*** n
+# ***\*importance*** n
 英音 ɪm'pɔːtns     美音 ɪm'pɔːrtns  
 
 | 词频 4 | 口语 1 | 书面 3 |  
@@ -985,7 +985,7 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
  > 众所周知，友谊对每个人都很重要。    
 
 
-# ***<font color=#0099ff>\*important</font>*** adj
+# ***\*important*** adj
 英音 ɪm'pɔːtnt     美音 ɪm'pɔːrtnt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1008,7 +1008,7 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
 ---
 importantly /ɪm'pɔːtntli/ adv [句子副词]  
 
-# ***<font color=#0099ff>\*impose</font>*** vt
+# ***\*impose*** vt
 英音 ɪm'pəʊz     美音 ɪm'poʊz  
 
 | 词频 1 | 口语 1 | 书面 2 |  
@@ -1018,7 +1018,7 @@ importantly /ɪm'pɔːtntli/ adv [句子副词]
 ### 1.*高义频：* **强制实行；强加于**  
 
 
-# ***<font color=#0099ff>\*impossible</font>*** adj
+# ***\*impossible*** adj
 英音 ɪm'pɒsəbl     美音 ɪm'pɑːsəbl  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -1047,7 +1047,7 @@ impossibility /ɪmˌpɒsə'bɪləti/ n
 答案：
 1. impossible  
 
-# ***<font color=#0099ff>\*impress</font>*** vt  重难点词汇
+# ***\*impress*** vt  重难点词汇
 英音 ɪm'pres     美音 ɪm'pres  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -1079,7 +1079,7 @@ impossibility /ɪmˌpɒsə'bɪləti/ n
  > 老师让我意识到英语的重要性。    
 
 
-# ***<font color=#0099ff>\*impression</font>*** n
+# ***\*impression*** n
 英音 ɪm'preʃn     美音 ɪm'preʃn  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -1117,7 +1117,7 @@ impressionist /ɪm'preʃənɪst/ n  [C]
 答案：
 1. first impression  
 
-# ***<font color=#0099ff>\*impressionism</font>*** n
+# ***\*impressionism*** n
 英音 ɪm'preʃənɪzəm     美音 ɪm'preʃənɪzəm  
 
 | 词频 1 |  
@@ -1127,7 +1127,7 @@ impressionist /ɪm'preʃənɪst/ n  [C]
 ### 1.**印象主义；印象派**  
 
 
-# ***<font color=#0099ff>\*impressionist</font>*** adj
+# ***\*impressionist*** adj
 英音 ɪm'preʃənɪst     美音 ɪm'preʃənɪst  
 
 | 词频 1 |  
@@ -1137,7 +1137,7 @@ impressionist /ɪm'preʃənɪst/ n  [C]
 ### 1.**印象派的**  
 
 
-# ***<font color=#0099ff>\*impressionist</font>*** n
+# ***\*impressionist*** n
 英音 ɪm'preʃənɪst     美音 ɪm'preʃənɪst  
 
 | 词频 1 |  
@@ -1147,7 +1147,7 @@ impressionist /ɪm'preʃənɪst/ n  [C]
 ### 1.**印象派艺术家**  
 
 
-# ***<font color=#0099ff>\*impressive</font>*** adj
+# ***\*impressive*** adj
 英音 ɪm'presɪv     美音 ɪm'presɪv  
 
 | 词频 3 | 书面 1 |  
@@ -1167,7 +1167,7 @@ impressionist /ɪm'preʃənɪst/ n  [C]
 答案：
 1. impressive  
 
-# ***<font color=#0099ff>\*improve</font>*** v
+# ***\*improve*** v
 英音 ɪm'pruːv     美音 ɪm'pruːv  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -1190,7 +1190,7 @@ impressionist /ɪm'preʃənɪst/ n  [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*improve on / upon</font>
+## \*improve on / upon
 1.**对…作出改进；做得比…更好：**  
 
  > *Lily has scored 98 in the maths test, and I don't think anyone will improve on that.*  
@@ -1201,7 +1201,7 @@ impressionist /ɪm'preʃənɪst/ n  [C]
 ---
 improvement /ɪm'pruːvmənt/ n [U] & [C]  
 
-# ***<font color=#0099ff>\*improvisation</font>*** n
+# ***\*improvisation*** n
 英音 ˌɪmprəvaɪ'zeɪʃn     美音 ˌɪmprəvaɪ'zeɪʃn  
 
 | 词频 1 |  
@@ -1211,7 +1211,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 ### 1.**即席演奏**  
 
 
-# ***<font color=#0099ff>\*improvise</font>*** v
+# ***\*improvise*** v
 英音 'ɪmprəvaɪz     美音 'ɪmprəvaɪz  
 
 | 词频 1 |  
@@ -1221,7 +1221,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 ### 1.**即兴演奏,即兴表演**  
 
 
-# ***<font color=#0099ff>\*impulse</font>*** n
+# ***\*impulse*** n
 英音 'ɪmpʌls     美音 'ɪmpʌls  
 
 | 词频 1 |  
@@ -1231,7 +1231,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 ### 1.**脉冲**  
 
 
-# ***<font color=#0099ff>\*in</font>*** prep
+# ***\*in*** prep
 英音 ɪn     美音 ɪn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1308,7 +1308,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 答案：
 1. in  2. in  
 
-# ***<font color=#0099ff>\*in</font>*** adv
+# ***\*in*** adv
 英音 ɪn     美音 ɪn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1326,7 +1326,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
  > 我要按门铃看他是否在家。    
 
 
-# ***<font color=#0099ff>\*in</font>*** adj
+# ***\*in*** adj
 英音 ɪn     美音 ɪn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1339,7 +1339,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 反义词 out 
 
 
-# ***<font color=#0099ff>\*incense</font>*** n
+# ***\*incense*** n
 英音 'ɪnsens     美音 'ɪnsens  
 
 | 词频 1 |  
@@ -1351,7 +1351,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 ### 1.*高义频：* **熏香；熏香的烟**  
 
 
-# ***<font color=#0099ff>\*inch</font>*** n
+# ***\*inch*** n
 英音 ɪntʃ     美音 ɪntʃ  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -1368,20 +1368,20 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*by an inch / inches</font>
+## \*by an inch / inches
 1.**差一点儿；险些：**  
 
  > *The car missed my dog by inches. *  
  > 那辆汽车差一点儿撞到我的狗。    
 
-## <font color=#0099ff>\*inch by inch</font>
+## \*inch by inch
 1.**缓慢地；一点一点地：**  
 
  > *I crawled in inch by inch.*  
  > 我慢慢地爬了进去。    
 
 
-# ***<font color=#0099ff>\*incident</font>*** n
+# ***\*incident*** n
 英音 'ɪnsɪdənt     美音 'ɪnsɪdənt  
 
 | 词频 2 | 口语 1 | 书面 2 |  
@@ -1408,7 +1408,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 三者都含有“事件”之意。  
 
 
-# ***<font color=#0099ff>\*include</font>*** vt
+# ***\*include*** vt
 英音 ɪn'kluːd     美音 ɪn'kluːd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1445,7 +1445,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 答案：
 1. introducing  
 
-# ***<font color=#0099ff>\*including</font>*** prep
+# ***\*including*** prep
 英音 ɪn'kluːdɪŋ     美音 ɪn'kluːdɪŋ  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -1461,7 +1461,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
  > 乒乓球队将举办一系列的活动，包括一些训练和比赛。  （2017 全国书面表达改）  
 
 
-# ***<font color=#0099ff>\*income</font>*** n
+# ***\*income*** n
 英音 'ɪnkʌm,'ɪnkəm     美音 'ɪnkʌm  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -1487,7 +1487,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 答案：
 1. income  
 
-# ***<font color=#0099ff>\*incorrectly</font>*** adv
+# ***\*incorrectly*** adv
 英音 ˌɪnkə'rektli     美音 ˌɪnkə'rektli  
 
 | 词频 1 |  
@@ -1497,7 +1497,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 ### 1.**不正确地**  
 
 
-# ***<font color=#0099ff>\*increase</font>*** v
+# ***\*increase*** v
 英音 ɪn'kriːs     美音 ɪn'kriːs  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -1517,7 +1517,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
  > 旅行增进人们对世界的了解。    
 
 
-# ***<font color=#0099ff>\*increase</font>*** n
+# ***\*increase*** n
 英音 'ɪŋkriːs     美音 'ɪŋkriːs  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -1534,7 +1534,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*on the increase</font>
+## \*on the increase
 1.**在增加：**  
 
  > *A few years ago it was an endangered species, but now the population is on the increase. *  
@@ -1549,7 +1549,7 @@ D.increase
 答案：
 1. increase  
 
-# ***<font color=#0099ff>\*increasingly</font>*** adv
+# ***\*increasingly*** adv
 英音 ɪn'kriːsɪŋli     美音 ɪn'kriːsɪŋli  
 
 | 词频 4 | 书面 2 | 阅读 3 |  
@@ -1569,7 +1569,7 @@ D.increase
 答案：
 1. increasingly  
 
-# ***<font color=#0099ff>\*incredible</font>*** adj
+# ***\*incredible*** adj
 英音 ɪn'kredəbl     美音 ɪn'kredəbl  
 
 | 词频 2 | 口语 1 |  
@@ -1585,7 +1585,7 @@ D.increase
  > 真令人难以置信！看看他现在变化多大啊！    
 
 
-# ***<font color=#0099ff>\*incredibly</font>*** adv
+# ***\*incredibly*** adv
 英音 ɪn'kredəbli     美音 ɪn'kredəbli  
 
 | 词频 1 |  
@@ -1595,7 +1595,7 @@ D.increase
 ### 1.**难以置信地**  
 
 
-# ***<font color=#0099ff>\*indeed</font>*** adv
+# ***\*indeed*** adv
 英音 ɪn'diːd     美音 ɪn'diːd  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -1637,7 +1637,7 @@ D.increase
 答案：
 1. indeed  
 
-# ***<font color=#0099ff>\*independence</font>*** n
+# ***\*independence*** n
 英音 ˌɪndɪ'pendəns     美音 ˌɪndɪ'pendəns  
 
 | 词频 2 | 书面 2 |  
@@ -1656,7 +1656,7 @@ D.increase
  > 1821年，墨西哥人民脱离西班牙获得了独立。  （人教⑧ – 1）  
 
 
-# ***<font color=#0099ff>\*independent</font>*** adj
+# ***\*independent*** adj
 英音 ˌɪndɪ'pendənt     美音 ˌɪndɪ'pendənt  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -1678,7 +1678,7 @@ D.increase
 ---
 independently /ˌɪndɪ'pendəntli/ adv   
 
-# ***<font color=#0099ff>\*index</font>*** n
+# ***\*index*** n
 英音 'ɪndeks     美音 'ɪndeks  
 
 | 词频 1 |  
@@ -1690,7 +1690,7 @@ independently /ˌɪndɪ'pendəntli/ adv
 ### 1.*高义频：* **(pl indexes / indices) 指数**  
 
 
-# ***<font color=#0099ff>\*indicate</font>*** vt
+# ***\*indicate*** vt
 英音 'ɪndɪkeɪt     美音 'ɪndɪkeɪt  
 
 | 词频 4 | 口语 3 | 阅读 3 |  
@@ -1724,7 +1724,7 @@ independently /ˌɪndɪ'pendəntli/ adv
 ---
 indication /ˌɪndɪ'keɪʃn/ n [C] & [U]  
 
-# ***<font color=#0099ff>\*indigenous</font>*** adj
+# ***\*indigenous*** adj
 英音 ɪn'dɪdʒənəs     美音 ɪn'dɪdʒənəs  
 
   
@@ -1734,7 +1734,7 @@ indication /ˌɪndɪ'keɪʃn/ n [C] & [U]
 ### 1.**本地的,土生土长的**  
 
 
-# ***<font color=#0099ff>\*individual</font>*** adj
+# ***\*individual*** adj
 英音 ˌɪndɪ'vɪdʒuəl     美音 ˌɪndɪ'vɪdʒuəl  
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -1751,7 +1751,7 @@ indication /ˌɪndɪ'keɪʃn/ n [C] & [U]
  > 在人数多的班上教师很难照顾到每个孩子。    
 
 
-# ***<font color=#0099ff>\*individual</font>*** n
+# ***\*individual*** n
 英音 ˌɪndɪ'vɪdʒuəl     美音 ˌɪndɪ'vɪdʒuəl  
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -1771,7 +1771,7 @@ indication /ˌɪndɪ'keɪʃn/ n [C] & [U]
 individualism /ˌɪndɪ'vɪdʒuəlɪzəm/ n [U]   
 individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]  
 
-# ***<font color=#0099ff>\*indoor</font>*** adj
+# ***\*indoor*** adj
 英音 'ɪndɔː(r)     美音 'ɪndɔːr  
 
 | 词频 2 |  
@@ -1785,7 +1785,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
  > 室内游泳池    
 
 
-# ***<font color=#0099ff>\*indoors</font>*** adv
+# ***\*indoors*** adv
 英音 ˌɪn'dɔːz     美音 ˌɪn'dɔːrz  
 
 | 词频 2 |  
@@ -1799,7 +1799,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
  > 雨下了一整天，我们只好留在屋里。    
 
 
-# ***<font color=#0099ff>\*induce</font>*** vt
+# ***\*induce*** vt
 英音 ɪn'djuːs     美音 ɪn'duːs  
 
 | 词频 1 |  
@@ -1809,7 +1809,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 ### 1.*高义频：* **劝诱；劝使**  
 
 
-# ***<font color=#0099ff>\*industrial</font>*** adj
+# ***\*industrial*** adj
 英音 ɪn'dʌstriəl     美音 ɪn'dʌstriəl  
 
 | 词频 2 | 口语 1 | 书面 3 |  
@@ -1822,7 +1822,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
  > 工业革命    
 
 
-# ***<font color=#0099ff>\*industrialisation</font>*** n
+# ***\*industrialisation*** n
 英音 ɪnˌdʌstriəlaɪ'zeɪʃn     美音 ɪnˌdʌstriəlaɪ'zeɪʃn  
 
 | 词频 1 |  
@@ -1832,7 +1832,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 ### 1.**工业化**  
 
 
-# ***<font color=#0099ff>\*industry</font>*** n
+# ***\*industry*** n
 英音 'ɪndəstri     美音 'ɪndəstri  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -1851,7 +1851,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
  > 我的理想是长大后投身计算机行业。  （人教⑦ – 1）  
 
 
-# ***<font color=#0099ff>\*inequality</font>*** n
+# ***\*inequality*** n
 英音 ˌɪnɪ'kwɒləti     美音 ˌɪnɪ'kwɑːləti  
 
 | 词频 1 |  
@@ -1861,7 +1861,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 ### 1.**不平等**  
 
 
-# ***<font color=#0099ff>\*inescapable</font>*** adj
+# ***\*inescapable*** adj
 英音 ˌɪnɪ'skeɪpəbl     美音 ˌɪnɪ'skeɪpəbl  
 
 | 词频 1 |  
@@ -1871,7 +1871,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 ### 1.**不可避免的**  
 
 
-# ***<font color=#0099ff>\*infamous</font>*** adj
+# ***\*infamous*** adj
 英音 'ɪnfəməs     美音 'ɪnfəməs  
 
 | 词频 1 |  
@@ -1881,7 +1881,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 ### 1.**臭名昭著的；声名狼藉的**  
 
 
-# ***<font color=#0099ff>\*infant</font>*** n
+# ***\*infant*** n
 英音 'ɪnfənt     美音 'ɪnfənt  
 
 | 词频 1 | 书面 1 |  
@@ -1891,7 +1891,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 ### 1.*高义频：* **婴儿；幼儿**  
 
 
-# ***<font color=#0099ff>\*infect</font>*** vt
+# ***\*infect*** vt
 英音 ɪn'fekt     美音 ɪn'fekt  
 
 | 词频 3 | 阅读 3 |  
@@ -1914,7 +1914,7 @@ infected /ɪn'fektɪd/ adj
 infection /ɪn'fekʃn/ n   
 infectious /ɪn'fekʃəs/ adj   
 
-# ***<font color=#0099ff>\*infection</font>*** n
+# ***\*infection*** n
 英音 ɪn'fekʃn     美音 ɪn'fekʃn  
 
 | 词频 1 | 书面 1 |  
@@ -1924,7 +1924,7 @@ infectious /ɪn'fekʃəs/ adj
 ### 1.*高义频：* **[U] 传染 [C] 传染病**  
 
 
-# ***<font color=#0099ff>\*infectious</font>*** adj
+# ***\*infectious*** adj
 英音 ɪn'fekʃəs     美音 ɪn'fekʃəs  
 
 | 词频 1 |  
@@ -1934,7 +1934,7 @@ infectious /ɪn'fekʃəs/ adj
 ### 1.*高义频：* **传染的**  
 
 
-# ***<font color=#0099ff>\*infer</font>*** vt
+# ***\*infer*** vt
 英音 ɪn'fɜː(r)     美音 ɪn'fɜːr  
 
 | 词频 5 |  
@@ -1956,7 +1956,7 @@ infectious /ɪn'fekʃəs/ adj
 ---
 inference  n   
 
-# ***<font color=#0099ff>\*inflation</font>*** n
+# ***\*inflation*** n
 英音 ɪn'fleɪʃn     美音 ɪn'fleɪʃn  
 
 | 词频 1 | 口语 1 | 书面 2 |  
@@ -1968,7 +1968,7 @@ inference  n
 ### 1.*高义频：* **通货膨胀**  
 
 
-# ***<font color=#0099ff>\*influence</font>*** n
+# ***\*influence*** n
 英音 'ɪnfluəns     美音 'ɪnfluəns  
 
 | 词频 5 | 口语 1 | 书面 3 |  
@@ -1996,7 +1996,7 @@ inference  n
  > 他的朋友对他产生了不良影响。    
 
 
-# ***<font color=#0099ff>\*influence</font>*** vt
+# ***\*influence*** vt
 英音 'ɪnfluəns     美音 'ɪnfluəns  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -2016,7 +2016,7 @@ inference  n
 答案：
 1. of whom (have) influenced / of them having influenced  
 
-# ***<font color=#0099ff>\*influential</font>*** adj
+# ***\*influential*** adj
 英音 ˌɪnflu'enʃl     美音 ˌɪnflu'enʃl  
 
 | 词频 1 |  
@@ -2026,7 +2026,7 @@ inference  n
 ### 1.**有影响的；有势力的**  
 
 
-# ***<font color=#0099ff>\*inform</font>*** vt
+# ***\*inform*** vt
 英音 ɪn'fɔːm     美音 ɪn'fɔːrm  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -2047,7 +2047,7 @@ inference  n
  > 我们想通知所有乘客，餐车现在开始营业。    
 
 
-# ***<font color=#0099ff>\*informal</font>*** adj
+# ***\*informal*** adj
 英音 ɪn'fɔːml     美音 ɪn'fɔːrml  
 
 | 词频 3 | 书面 1 |  
@@ -2063,7 +2063,7 @@ inference  n
  > 非正式语言    
 
 
-# ***<font color=#0099ff>\*information</font>*** n
+# ***\*information*** n
 英音 ˌɪnfə'meɪʃn     美音 ˌɪnfər'meɪʃn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2091,7 +2091,7 @@ inference  n
 答案：
 1. informations → information  
 
-# ***<font color=#0099ff>\*informed</font>*** adj
+# ***\*informed*** adj
 英音 ɪn'fɔːmd     美音 ɪn'fɔːrmd  
 
 | 词频 2 | 阅读 3 |  
@@ -2113,7 +2113,7 @@ inference  n
  > 我很了解这个主题。    
 
 
-# ***<font color=#0099ff>\*ingredient</font>*** n
+# ***\*ingredient*** n
 英音 ɪn'ɡriːdiənt     美音 ɪn'ɡriːdiənt  
 
 | 词频 2 |  
@@ -2133,7 +2133,7 @@ inference  n
  > 勤奋是成功的一个重要因素。    
 
 
-# ***<font color=#0099ff>\*inhabit</font>*** v
+# ***\*inhabit*** v
 英音 ɪn'hæbɪt     美音 ɪn'hæbɪt  
 
 | 词频 1 |  
@@ -2143,7 +2143,7 @@ inference  n
 ### 1.**居住**  
 
 
-# ***<font color=#0099ff>\*inhabitant</font>*** n
+# ***\*inhabitant*** n
 英音 ɪn'hæbɪtənt     美音 ɪn'hæbɪtənt  
 
 | 词频 2 |  
@@ -2153,7 +2153,7 @@ inference  n
 ### 1.**居民**  
 
 
-# ***<font color=#0099ff>\*inherit</font>*** v
+# ***\*inherit*** v
 英音 ɪn'herɪt     美音 ɪn'herɪt  
 
 | 词频 2 |  
@@ -2173,7 +2173,7 @@ inference  n
  > 她遗传了她妈妈的卷发。    
 
 
-# ***<font color=#0099ff>\*inhospitable</font>*** adj
+# ***\*inhospitable*** adj
 英音 ˌɪnhɒ'spɪtəbl     美音 ˌɪnhɑː'spɪtəbl  
 
 | 词频 1 |  
@@ -2183,7 +2183,7 @@ inference  n
 ### 1.**荒凉的；不适宜居住的**  
 
 
-# ***<font color=#0099ff>\*initial</font>*** adj
+# ***\*initial*** adj
 英音 ɪ'nɪʃl     美音 ɪ'nɪʃl  
 
 | 词频 2 | 口语 1 | 书面 2 |  
@@ -2199,7 +2199,7 @@ inference  n
  > 单词的首字母    
 
 
-# ***<font color=#0099ff>\*initial</font>*** n
+# ***\*initial*** n
 英音 ɪ'nɪʃl     美音 ɪ'nɪʃl  
 
 | 词频 2 |  
@@ -2209,7 +2209,7 @@ inference  n
 ### 1.**首字母**  
 
 
-# ***<font color=#0099ff>\*initially</font>*** adv
+# ***\*initially*** adv
 英音 ɪ'nɪʃəli     美音 ɪ'nɪʃəli  
 
 | 词频 1 |  
@@ -2219,7 +2219,7 @@ inference  n
 ### 1.**起初**  
 
 
-# ***<font color=#0099ff>\*inject</font>*** vt
+# ***\*inject*** vt
 英音 ɪn'dʒekt     美音 ɪn'dʒekt  
 
 | 词频 1 |  
@@ -2233,7 +2233,7 @@ inference  n
 ---
 injection /ɪn'dʒekʃn/ n [C] & [U]   
 
-# ***<font color=#0099ff>\*injection</font>*** n
+# ***\*injection*** n
 英音 ɪn'dʒekʃn     美音 ɪn'dʒekʃn  
 
 | 词频 2 |  
@@ -2245,7 +2245,7 @@ injection /ɪn'dʒekʃn/ n [C] & [U]
 ### 1.*高义频：* **注射；注射剂**  
 
 
-# ***<font color=#0099ff>\*injure</font>*** vt
+# ***\*injure*** vt
 英音 'ɪndʒə(r)     美音 'ɪndʒər  
 
 | 词频 4 | 口语 1 |  
@@ -2276,7 +2276,7 @@ injured /'ɪndʒəd/ adj
  > 受重/轻伤    
 
 
-# ***<font color=#0099ff>\*injured</font>*** adj
+# ***\*injured*** adj
 英音 'ɪndʒəd     美音 'ɪndʒərd  
 
 | 词频 4 |  
@@ -2286,7 +2286,7 @@ injured /'ɪndʒəd/ adj
 ### 1.**受伤的；委屈的**  
 
 
-# ***<font color=#0099ff>\*injury</font>*** n
+# ***\*injury*** n
 英音 'ɪndʒəri     美音 'ɪndʒəri  
 
 | 词频 3 | 口语 1 | 书面 2 |  
@@ -2313,7 +2313,7 @@ injured /'ɪndʒəd/ adj
  > 人身伤害    
 
 
-# ***<font color=#0099ff>\*ink</font>*** n
+# ***\*ink*** n
 英音 ɪŋk     美音 ɪŋk  
 
 | 词频 2 |  
@@ -2325,7 +2325,7 @@ injured /'ɪndʒəd/ adj
 ### 1.*高义频：* **墨水**  
 
 
-# ***<font color=#0099ff>\*inland</font>*** adj
+# ***\*inland*** adj
 英音 ˌɪn'lænd     美音 ˌɪn'lænd  
 
 | 词频 2 |  
@@ -2335,7 +2335,7 @@ injured /'ɪndʒəd/ adj
 ### 1.**内地的；内陆的**  
 
 
-# ***<font color=#0099ff>\*inn</font>*** n
+# ***\*inn*** n
 英音 ɪn     美音 ɪn  
 
 | 词频 2 |  
@@ -2347,7 +2347,7 @@ injured /'ɪndʒəd/ adj
 ### 1.*高义频：* **小旅馆；客栈**  
 
 
-# ***<font color=#0099ff>\*inner</font>*** adj
+# ***\*inner*** adj
 英音 'ɪnə(r)     美音 'ɪnər  
 
 | 词频 2 | 口语 1 | 书面 2 |  
@@ -2363,7 +2363,7 @@ injured /'ɪndʒəd/ adj
  > 内心的感情    
 
 
-# ***<font color=#0099ff>\*innocent</font>*** adj
+# ***\*innocent*** adj
 英音 'ɪnəsnt     美音 'ɪnəsnt  
 
 | 词频 2 | 书面 1 |  
@@ -2390,7 +2390,7 @@ injured /'ɪndʒəd/ adj
 ---
 innocence /'ɪnəsns/ n [U]   
 
-# ***<font color=#0099ff>\*innovate</font>*** v
+# ***\*innovate*** v
 英音 'ɪnəveɪt     美音 'ɪnəveɪt  
 
 | 词频 1 |  
@@ -2400,7 +2400,7 @@ innocence /'ɪnəsns/ n [U]
 ### 1.*高义频：* **创新；革新**  
 
 
-# ***<font color=#0099ff>\*input</font>*** n
+# ***\*input*** n
 英音 'ɪnpʊt     美音 'ɪnpʊt  
 
 | 词频 2 | 书面 1 |  
@@ -2413,7 +2413,7 @@ innocence /'ɪnəsns/ n [U]
  > 在学习期间，你对孩子们的倾注会使得学习更有乐趣。  （2009 全国改）  
 
 
-# ***<font color=#0099ff>\*inquisitive</font>*** adj
+# ***\*inquisitive*** adj
 英音 ɪn'kwɪzətɪv     美音 ɪn'kwɪzətɪv  
 
 | 词频 1 |  
@@ -2423,7 +2423,7 @@ innocence /'ɪnəsns/ n [U]
 ### 1.**好奇的**  
 
 
-# ***<font color=#0099ff>\*insect</font>*** n
+# ***\*insect*** n
 英音 'ɪnsekt     美音 'ɪnsekt  
 
 | 词频 4 | 书面 1 |  
@@ -2435,7 +2435,7 @@ innocence /'ɪnəsns/ n [U]
 ### 1.*高义频：* **昆虫；虫**  
 
 
-# ***<font color=#0099ff>\*insert</font>*** vt
+# ***\*insert*** vt
 英音 ɪn'sɜːt     美音 ɪn'sɜːrt  
 
 | 词频 1 |  
@@ -2448,7 +2448,7 @@ innocence /'ɪnəsns/ n [U]
  > 将钥匙插入锁孔    
 
 
-# ***<font color=#0099ff>\*inside</font>*** prep
+# ***\*inside*** prep
 英音 ˌɪn'saɪd     美音 ˌɪn'saɪd  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -2461,7 +2461,7 @@ innocence /'ɪnəsns/ n [U]
  > 她内心深藏着许多记忆。    
 
 
-# ***<font color=#0099ff>\*inside</font>*** adv
+# ***\*inside*** adv
 英音 ˌɪn'saɪd     美音 ˌɪn'saɪd  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -2477,7 +2477,7 @@ innocence /'ɪnəsns/ n [U]
  > 我们到里面去。    
 
 
-# ***<font color=#0099ff>\*inside</font>*** n
+# ***\*inside*** n
 英音 ˌɪn'saɪd     美音 ˌɪn'saɪd  
 
 | 词频 5 | 口语 1 |  
@@ -2493,14 +2493,14 @@ innocence /'ɪnəsns/ n [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*inside out </font>
+## \*inside out 
 1.**里面朝外地：**  
 
  > *The kids were wearing their shirts inside out. *  
  > 孩子们把衬衫穿反了。    
 
 
-# ***<font color=#0099ff>\*inside</font>*** adj
+# ***\*inside*** adj
 英音 ˌɪn'saɪd     美音 ˌɪn'saɪd  
 
 | 词频 5 |  
@@ -2513,7 +2513,7 @@ innocence /'ɪnəsns/ n [U]
  > 内部消息    
 
 
-# ***<font color=#0099ff>\*insight</font>*** n
+# ***\*insight*** n
 英音 'ɪnsaɪt     美音 'ɪnsaɪt  
 
 | 词频 2 |  
@@ -2523,7 +2523,7 @@ innocence /'ɪnəsns/ n [U]
 ### 1.*高义频：* **[C] 深入了解；顿悟；[U] 洞察力；眼光：**  
 
 
-# ***<font color=#0099ff>\*insist</font>*** v  重难点词汇
+# ***\*insist*** v  重难点词汇
 英音 ɪn'sɪst     美音 ɪn'sɪst  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -2578,7 +2578,7 @@ Notes: insist表示“坚持”和“坚决要求”时，that从句中用虚拟
 答案：
 1. finding  
 
-# ***<font color=#0099ff>\*inspect</font>*** vt
+# ***\*inspect*** vt
 英音 ɪn'spekt     美音 ɪn'spekt  
 
 | 词频 2 | 阅读 1 |  
@@ -2601,7 +2601,7 @@ Notes: insist表示“坚持”和“坚决要求”时，that从句中用虚拟
 ---
 inspector /ɪn'spektə(r)/ n [C]  
 
-# ***<font color=#0099ff>\*inspiration</font>*** n
+# ***\*inspiration*** n
 英音 ˌɪnspə'reɪʃn     美音 ˌɪnspə'reɪʃn  
 
 | 词频 3 |  
@@ -2617,7 +2617,7 @@ inspector /ɪn'spektə(r)/ n [C]
  > 他鼓舞我重新拿起笔（写作）。  （2015 江苏改）  
 
 
-# ***<font color=#0099ff>\*inspire</font>*** vt
+# ***\*inspire*** vt
 英音 ɪn'spaɪə(r)     美音 ɪn'spaɪər  
 
 | 词频 4 |  
@@ -2654,7 +2654,7 @@ inspector /ɪn'spektə(r)/ n [C]
 inspired /ɪn'spaɪəd/ adj   
 inspiring /ɪn'spaɪərɪŋ/ adj   
 
-# ***<font color=#0099ff>\*inspiring</font>*** adj
+# ***\*inspiring*** adj
 英音 ɪn'spaɪərɪŋ     美音 ɪn'spaɪərɪŋ  
 
   
@@ -2664,7 +2664,7 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 ### 1.**鼓舞人心的，启发灵感的**  
 
 
-# ***<font color=#0099ff>\*install</font>*** vt
+# ***\*install*** vt
 英音 ɪn'stɔːl     美音 ɪn'stɔːl  
 
 | 词频 2 | 书面 1 |  
@@ -2674,7 +2674,7 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 ### 1.*高义频：* **安装；设置**  
 
 
-# ***<font color=#0099ff>\*instance</font>*** n
+# ***\*instance*** n
 英音 'ɪnstəns     美音 'ɪnstəns  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -2690,7 +2690,7 @@ inspiring /ɪn'spaɪərɪŋ/ adj
  > 例如    
 
 
-# ***<font color=#0099ff>\*instant</font>*** adj
+# ***\*instant*** adj
 英音 'ɪnstənt     美音 'ɪnstənt  
 
 | 词频 3 | 口语 1 |  
@@ -2706,7 +2706,7 @@ inspiring /ɪn'spaɪərɪŋ/ adj
  > 速溶咖啡/方便面    
 
 
-# ***<font color=#0099ff>\*instant</font>*** n
+# ***\*instant*** n
 英音 'ɪnstənt     美音 'ɪnstənt  
 
 | 词频 3 | 口语 1 |  
@@ -2728,7 +2728,7 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*the instant (that) </font>
+## \*the instant (that) 
 1.**一…就：**  
 
  > *The instant (= As soon as) she stopped asking questions, I got up and went out of the room.*  
@@ -2739,7 +2739,7 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 ---
 instantly /'ɪnstəntli/ adv   
 
-# ***<font color=#0099ff>\*instantly</font>*** adv
+# ***\*instantly*** adv
 英音 'ɪnstəntli     美音 'ɪnstəntli  
 
 | 词频 3 |  
@@ -2749,7 +2749,7 @@ instantly /'ɪnstəntli/ adv
 ### 1.**立即；马上**  
 
 
-# ***<font color=#0099ff>\*instead</font>*** adv
+# ***\*instead*** adv
 英音 ɪn'sted     美音 ɪn'sted  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2764,7 +2764,7 @@ instantly /'ɪnstəntli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*instead of</font>
+## \*instead of
 1.**代替；而不是：**  
 
  > *We went there on foot instead of by bus. *  
@@ -2784,7 +2784,7 @@ instantly /'ɪnstəntli/ adv
 答案：
 1. Instead  
 
-# ***<font color=#0099ff>\*institute</font>*** n
+# ***\*institute*** n
 英音 'ɪnstɪtjuːt     美音 'ɪnstɪtjuːt  
 
 | 词频 4 | 书面 1 | 阅读 3 |  
@@ -2802,7 +2802,7 @@ instantly /'ɪnstəntli/ adv
  > 英语教学研究所    
 
 
-# ***<font color=#0099ff>\*institution</font>*** n
+# ***\*institution*** n
 英音 ˌɪnstɪ'tjuːʃn     美音 ˌɪnstɪ'tjuːʃn  
 
 | 词频 2 | 书面 3 | 阅读 2 |  
@@ -2820,7 +2820,7 @@ instantly /'ɪnstəntli/ adv
  > 高等学校    
 
 
-# ***<font color=#0099ff>\*instruct</font>*** vt
+# ***\*instruct*** vt
 英音 ɪn'strʌkt     美音 ɪn'strʌkt  
 
 | 词频 2 |  
@@ -2861,7 +2861,7 @@ instantly /'ɪnstəntli/ adv
 instructive /ɪn'strʌktɪv/ adj   
 instructor /ɪn'strʌktə(r)/ n [C]  
 
-# ***<font color=#0099ff>\*instruction</font>*** n
+# ***\*instruction*** n
 英音 ɪn'strʌkʃn     美音 ɪn'strʌkʃn  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -2897,7 +2897,7 @@ instructor /ɪn'strʌktə(r)/ n [C]
 答案：
 1. instructions  
 
-# ***<font color=#0099ff>\*instructor</font>*** n
+# ***\*instructor*** n
 英音 ɪn'strʌktə(r)     美音 ɪn'strʌktər  
 
 | 词频 4 |  
@@ -2907,7 +2907,7 @@ instructor /ɪn'strʌktə(r)/ n [C]
 ### 1.**教练；导师**  
 
 
-# ***<font color=#0099ff>\*instrument</font>*** n
+# ***\*instrument*** n
 英音 'ɪnstrəmənt     美音 'ɪnstrəmənt  
 
 | 词频 3 | 书面 2 |  
@@ -2922,7 +2922,7 @@ instructor /ɪn'strʌktə(r)/ n [C]
  > 乐器/科学仪器    
 
 
-# ***<font color=#0099ff>\*insult</font>*** vt
+# ***\*insult*** vt
 英音 ɪn'sʌlt     美音 ɪn'sʌlt  
 
 | 词频 2 |  
@@ -2935,7 +2935,7 @@ instructor /ɪn'strʌktə(r)/ n [C]
  > 侮辱某人的智商    
 
 
-# ***<font color=#0099ff>\*insult</font>*** n
+# ***\*insult*** n
 英音 ɪn'sʌlt     美音 ɪn'sʌlt  
 
 | 词频 2 |  
@@ -2954,7 +2954,7 @@ instructor /ɪn'strʌktə(r)/ n [C]
 ---
 insulting /ɪn'sʌltɪŋ/ adj   
 
-# ***<font color=#0099ff>\*insurance</font>*** n
+# ***\*insurance*** n
 英音 ɪn'ʃʊərəns     美音 ɪn'ʃʊərəns  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -2978,7 +2978,7 @@ insulting /ɪn'sʌltɪŋ/ adj
  > 均衡的饮食可以防止营养不良。    
 
 
-# ***<font color=#0099ff>\*insure</font>*** vt
+# ***\*insure*** vt
 英音 ɪn'ʃʊə(r),ɪn'ʃɔː(r)     美音 ɪn'ʃʊr  
 
 | 词频 1 |  
@@ -2992,7 +2992,7 @@ insulting /ɪn'sʌltɪŋ/ adj
  > 我的房子上了火灾险和防盗险。    
 
 
-# ***<font color=#0099ff>\*intact</font>*** adj
+# ***\*intact*** adj
 英音 ɪn'tækt     美音 ɪn'tækt  
 
 | 词频 1 |  
@@ -3002,7 +3002,7 @@ insulting /ɪn'sʌltɪŋ/ adj
 ### 1.**完好无损的，完整的**  
 
 
-# ***<font color=#0099ff>\*intake</font>*** n
+# ***\*intake*** n
 英音 'ɪnteɪk     
 
   
@@ -3012,7 +3012,7 @@ insulting /ɪn'sʌltɪŋ/ adj
 ### 1.**吸入；招收；入口；通风口**  
 
 
-# ***<font color=#0099ff>\*intangible</font>*** adj
+# ***\*intangible*** adj
 英音 ɪn'tændʒəbl     美音 ɪn'tændʒəbl  
 
 | 词频 1 |  
@@ -3022,7 +3022,7 @@ insulting /ɪn'sʌltɪŋ/ adj
 ### 1.**无形的，难以捉摸的，无法形容的**  
 
 
-# ***<font color=#0099ff>\*intellectual</font>*** adj
+# ***\*intellectual*** adj
 英音 ˌɪntə'lektʃuəl     美音 ˌɪntə'lektʃuəl  
 
 | 词频 1 |  
@@ -3032,7 +3032,7 @@ insulting /ɪn'sʌltɪŋ/ adj
 ### 1.*高义频：* **智力的；脑力的**  
 
 
-# ***<font color=#0099ff>\*intelligence</font>*** n
+# ***\*intelligence*** n
 英音 ɪn'telɪdʒəns     美音 ɪn'telɪdʒəns  
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 3 |  
@@ -3055,7 +3055,7 @@ insulting /ɪn'sʌltɪŋ/ adj
  > 发挥你的聪明才智，你一定能取得成就。    
 
 
-# ***<font color=#0099ff>\*intelligent</font>*** adj
+# ***\*intelligent*** adj
 英音 ɪn'telɪdʒənt     美音 ɪn'telɪdʒənt  
 
 | 词频 3 | 口语 1 | 阅读 3 |  
@@ -3068,7 +3068,7 @@ insulting /ɪn'sʌltɪŋ/ adj
  > 聪明的学生/机智的问题    
 
 
-# ***<font color=#0099ff>\*intend</font>*** vt
+# ***\*intend*** vt
 英音 ɪn'tend     美音 ɪn'tend  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -3113,7 +3113,7 @@ intended /ɪn'tendɪd/ adj
  > 他此次访问旨在增进两国间的关系。    
 
 
-# ***<font color=#0099ff>\*intense</font>*** adj
+# ***\*intense*** adj
 英音 ɪn'tens     美音 ɪn'tens  
 
 | 词频 1 | 书面 1 |  
@@ -3123,7 +3123,7 @@ intended /ɪn'tendɪd/ adj
 ### 1.*高义频：* **强烈的；激烈的**  
 
 
-# ***<font color=#0099ff>\*intensity</font>*** n
+# ***\*intensity*** n
 英音 ɪn'tensəti     美音 ɪn'tensəti  
 
   
@@ -3133,7 +3133,7 @@ intended /ɪn'tendɪd/ adj
 ### 1.**（光、声等的）强度**  
 
 
-# ***<font color=#0099ff>\*intention</font>*** n
+# ***\*intention*** n
 英音 ɪn'tenʃn     美音 ɪn'tenʃn  
 
 | 词频 3 | 口语 1 | 书面 2 |  
@@ -3157,7 +3157,7 @@ intended /ɪn'tendɪd/ adj
  > 设立这个项目是为了帮助无家可归的人。    
 
 
-# ***<font color=#0099ff>\*interact</font>*** vi
+# ***\*interact*** vi
 英音 ˌɪntər'ækt     美音 ˌɪntər'ækt  
 
 | 词频 2 |  
@@ -3171,7 +3171,7 @@ intended /ɪn'tendɪd/ adj
  > 露西和班里的其他孩子相处得很好。    
 
 
-# ***<font color=#0099ff>\*interest</font>*** n
+# ***\*interest*** n
 英音 'ɪntrəst     美音 'ɪntrəst  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3220,7 +3220,7 @@ intended /ɪn'tendɪd/ adj
  > 作对他们最有利的决定。  （2016 全国）  
 
 
-# ***<font color=#0099ff>\*interest</font>*** vt
+# ***\*interest*** vt
 英音 'ɪntrəst     美音 'ɪntrəst  
 
 | 词频 5 |  
@@ -3233,7 +3233,7 @@ intended /ɪn'tendɪd/ adj
  > 这里有篇文章，也许你会感兴趣。    
 
 
-# ***<font color=#0099ff>\*interested</font>*** adj
+# ***\*interested*** adj
 英音 'ɪntrəstɪd     美音 'ɪntrəstɪd  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -3268,7 +3268,7 @@ intended /ɪn'tendɪd/ adj
 答案：
 1. interesting → interested  
 
-# ***<font color=#0099ff>\*interesting</font>*** adj
+# ***\*interesting*** adj
 英音 'ɪntrəstɪŋ,'ɪntrestɪŋ     美音 'ɪntrəstɪŋ  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -3287,7 +3287,7 @@ intended /ɪn'tendɪd/ adj
  > 你可以写任何相关的内容，只要它能寓教于乐。  （2015 全国书面表达）  
 
 
-# ***<font color=#0099ff>\*interestingly</font>*** adv
+# ***\*interestingly*** adv
 
 
   
@@ -3297,7 +3297,7 @@ intended /ɪn'tendɪd/ adj
 ### 1.**有趣地**  
 
 
-# ***<font color=#0099ff>\*interfere</font>*** vi
+# ***\*interfere*** vi
 英音 ˌɪntə'fɪə(r)     美音 ˌɪntər'fɪr  
 
 | 词频 1 |  
@@ -3310,7 +3310,7 @@ intended /ɪn'tendɪd/ adj
  > 我希望妈妈不再干预我，让我自己作决定。    
 
 
-# ***<font color=#0099ff>\*interior</font>*** n
+# ***\*interior*** n
 英音 ɪn'tɪəriə(r)     美音 ɪn'tɪriər  
 
 | 词频 1 |  
@@ -3320,7 +3320,7 @@ intended /ɪn'tendɪd/ adj
 ### 1.*高义频：* **内部；里面**  
 
 
-# ***<font color=#0099ff>\*interior</font>*** adj
+# ***\*interior*** adj
 英音 ɪn'tɪəriə(r)     美音 ɪn'tɪriər  
 
 | 词频 1 |  
@@ -3334,7 +3334,7 @@ intended /ɪn'tendɪd/ adj
  > 室内设计    
 
 
-# ***<font color=#0099ff>\*intermediate</font>*** adj
+# ***\*intermediate*** adj
 英音 ˌɪntə'miːdiət     美音 ˌɪntər'miːdiət  
 
 | 词频 1 |  
@@ -3344,7 +3344,7 @@ intended /ɪn'tendɪd/ adj
 ### 1.*高义频：* **(班级 / 课程等) 中级的；(水平) 中等的**  
 
 
-# ***<font color=#0099ff>\*internal</font>*** adj
+# ***\*internal*** adj
 英音 ɪn'tɜːnl     美音 ɪn'tɜːrnl  
 
 | 词频 2 | 书面 2 | 阅读 2 |  
@@ -3363,7 +3363,7 @@ intended /ɪn'tendɪd/ adj
  > 内心的疑虑    
 
 
-# ***<font color=#0099ff>\*international</font>*** adj
+# ***\*international*** adj
 英音 ˌɪntə'næʃnəl     美音 ˌɪntə'næʃnəl  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -3376,7 +3376,7 @@ intended /ɪn'tendɪd/ adj
  > 具有国际声誉的钢琴家    
 
 
-# ***<font color=#0099ff>\*internationalize</font>*** vt
+# ***\*internationalize*** vt
 英音 ˌɪntə'næʃnəlaɪz     
 
   
@@ -3386,7 +3386,7 @@ intended /ɪn'tendɪd/ adj
 ### 1.**使国际化； 把 ... 置于国际共管之下**  
 
 
-# ***<font color=#0099ff>\*interpersonal</font>*** adj
+# ***\*interpersonal*** adj
 英音 ˌɪntə'pɜːsənl     美音 ˌɪntər'pɜːrsənl  
 
 | 词频 1 |  
@@ -3396,7 +3396,7 @@ intended /ɪn'tendɪd/ adj
 ### 1.**人际关系的，人与人之间的**  
 
 
-# ***<font color=#0099ff>\*interpret</font>*** v
+# ***\*interpret*** v
 英音 ɪn'tɜːprɪt     美音 ɪn'tɜːrprɪt  
 
 | 词频 1 | 书面 1 |  
@@ -3420,7 +3420,7 @@ intended /ɪn'tendɪd/ adj
 ---
 interpretation /ɪnˌtɜːprɪ'teɪʃn/ n [C] & [U]  
 
-# ***<font color=#0099ff>\*interpreter</font>*** n
+# ***\*interpreter*** n
 英音 ɪn'tɜːprɪtə(r)     美音 ɪn'tɜːrprɪtər  
 
 | 词频 1 |  
@@ -3432,7 +3432,7 @@ interpretation /ɪnˌtɜːprɪ'teɪʃn/ n [C] & [U]
 ### 1.*高义频：* **传译员；口译者**  
 
 
-# ***<font color=#0099ff>\*interrupt</font>*** v
+# ***\*interrupt*** v
 英音 ˌɪntə'rʌpt     美音 ˌɪntə'rʌpt  
 
 | 词频 3 |  
@@ -3464,7 +3464,7 @@ interruption /ˌɪntə'rʌpʃn/ n [U] & [C]
 答案：
 1. interrupting  
 
-# ***<font color=#0099ff>\*interval</font>*** n
+# ***\*interval*** n
 英音 'ɪntəvl     美音 'ɪntəvl  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -3486,7 +3486,7 @@ interruption /ˌɪntə'rʌpʃn/ n [U] & [C]
  > 在一场剧的两部分之间，常有幕间休息。    
 
 
-# ***<font color=#0099ff>\*interview</font>*** n
+# ***\*interview*** n
 英音 'ɪntəvjuː     美音 'ɪntəvjuː  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -3504,7 +3504,7 @@ interruption /ˌɪntə'rʌpʃn/ n [U] & [C]
  > 参加面试    
 
 
-# ***<font color=#0099ff>\*interview</font>*** vt
+# ***\*interview*** vt
 英音 'ɪntəvjuː     美音 'ɪntəvjuː  
 
 | 词频 4 | 口语 2 |  
@@ -3527,7 +3527,7 @@ interruption /ˌɪntə'rʌpʃn/ n [U] & [C]
 interviewee /ˌɪntəvjuː'iː/ n [C]  
 interviewer  /'ɪntəvjuːə(r)/ n [C]   
 
-# ***<font color=#0099ff>\*interviewee</font>*** n
+# ***\*interviewee*** n
 英音 ˌɪntəvjuː'iː     美音 ˌɪntərvjuː'iː  
 
 | 词频 1 |  
@@ -3539,7 +3539,7 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 ### 1.*高义频：* **参加面试者；接受采访者**  
 
 
-# ***<font color=#0099ff>\*interviewer</font>*** n
+# ***\*interviewer*** n
 英音 'ɪntəvjuːə(r)     美音 'ɪntərvjuːər  
 
 | 词频 1 |  
@@ -3549,7 +3549,7 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 ### 1.**（面试时的）主考官；面谈者**  
 
 
-# ***<font color=#0099ff>\*intestine</font>*** n
+# ***\*intestine*** n
 英音 ɪn'testɪn     美音 ɪn'testɪn  
 
 | 词频 1 |  
@@ -3559,7 +3559,7 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 ### 1.**（常复）肠**  
 
 
-# ***<font color=#0099ff>\*intimate</font>*** adj
+# ***\*intimate*** adj
 英音 'ɪntɪmət     美音 'ɪntɪmət  
 
 | 词频 1 |  
@@ -3569,7 +3569,7 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 ### 1.**亲密的**  
 
 
-# ***<font color=#0099ff>\*into</font>*** prep
+# ***\*into*** prep
 英音 'ɪntə,'ɪntu，'ɪntuː     美音 'ɪntə,'ɪntu，'ɪntuː  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3603,7 +3603,7 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
  > 警方对导致她死亡的事件进行了调查。    
 
 
-# ***<font color=#0099ff>\*intonation</font>*** n
+# ***\*intonation*** n
 英音 ˌɪntə'neɪʃn     美音 ˌɪntə'neɪʃn  
 
 | 词频 1 |  
@@ -3613,7 +3613,7 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 ### 1.**语调**  
 
 
-# ***<font color=#0099ff>\*introduce</font>*** vt
+# ***\*introduce*** vt
 英音 ˌɪntrə'djuːs     美音 ˌɪntrə'djuːs  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -3650,7 +3650,7 @@ Notes: introduce不接双宾语。
  > 一些朋友让我初次尝试露营。  （2017 全国改）  
 
 
-# ***<font color=#0099ff>\*introduction</font>*** n
+# ***\*introduction*** n
 英音 ˌɪntrə'dʌkʃn     美音 ˌɪntrə'dʌkʃn  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -3688,7 +3688,7 @@ Notes: introduce不接双宾语。
 答案：
 1. introduction  
 
-# ***<font color=#0099ff>\*invade</font>*** v
+# ***\*invade*** v
 英音 ɪn'veɪd     美音 ɪn'veɪd  
 
 | 词频 1 |  
@@ -3710,7 +3710,7 @@ Notes: introduce不接双宾语。
 ---
 invasion /ɪn'veɪʒn/ n [C] & [U]  
 
-# ***<font color=#0099ff>\*invader</font>*** n
+# ***\*invader*** n
 英音 ɪn'veɪdə(r)     美音 ɪn'veɪdər  
 
 | 词频 1 |  
@@ -3722,7 +3722,7 @@ invasion /ɪn'veɪʒn/ n [C] & [U]
 ### 1.*高义频：* **侵略者**  
 
 
-# ***<font color=#0099ff>\*invaluable</font>*** adj
+# ***\*invaluable*** adj
 英音 ɪn'væljuəbl     美音 ɪn'væljuəbl  
 
 | 词频 1 |  
@@ -3732,7 +3732,7 @@ invasion /ɪn'veɪʒn/ n [C] & [U]
 ### 1.*高义频：* **无价的；极宝贵的**  
 
 
-# ***<font color=#0099ff>\*invasion</font>*** n
+# ***\*invasion*** n
 英音 ɪn'veɪʒn     美音 ɪn'veɪʒn  
 
 | 词频 1 |  
@@ -3748,7 +3748,7 @@ invasion /ɪn'veɪʒn/ n [C] & [U]
  > 对隐私的侵犯    
 
 
-# ***<font color=#0099ff>\*invent</font>*** vt
+# ***\*invent*** vt
 英音 ɪn'vent     美音 ɪn'vent  
 
 | 词频 4 |  
@@ -3770,7 +3770,7 @@ invasion /ɪn'veɪʒn/ n [C] & [U]
 ---
 inventor  /ɪn'ventə(r)/ n [C]   
 
-# ***<font color=#0099ff>\*invention</font>*** n
+# ***\*invention*** n
 英音 ɪn'venʃn     美音 ɪn'venʃn  
 
 | 词频 4 |  
@@ -3793,7 +3793,7 @@ inventor  /ɪn'ventə(r)/ n [C]
  > 本故事纯属虚构。    
 
 
-# ***<font color=#0099ff>\*inventor</font>*** n
+# ***\*inventor*** n
 英音 ɪn'ventə(r)     美音 ɪn'ventər  
 
 | 词频 4 |  
@@ -3803,7 +3803,7 @@ inventor  /ɪn'ventə(r)/ n [C]
 ### 1.**发明家**  
 
 
-# ***<font color=#0099ff>\*invest</font>*** v
+# ***\*invest*** v
 英音 ɪn'vest     美音 ɪn'vest  
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 2 |  
@@ -3820,7 +3820,7 @@ inventor  /ɪn'ventə(r)/ n [C]
  > 我把全部精力投入到工作中。    
 
 
-# ***<font color=#0099ff>\*investigate</font>*** v
+# ***\*investigate*** v
 英音 ɪn'vestɪɡeɪt     美音 ɪn'vestɪɡeɪt  
 
 | 词频 2 | 书面 2 | 阅读 1 |  
@@ -3837,7 +3837,7 @@ inventor  /ɪn'ventə(r)/ n [C]
 ---
 investigation /ɪnˌvestɪ'ɡeɪʃn/ n [U] & [C]   
 
-# ***<font color=#0099ff>\*investigation</font>*** n
+# ***\*investigation*** n
 英音 ɪnˌvestɪ'ɡeɪʃn     美音 ɪnˌvestɪ'ɡeɪʃn  
 
 | 词频 2 | 书面 2 |  
@@ -3852,7 +3852,7 @@ investigation /ɪnˌvestɪ'ɡeɪʃn/ n [U] & [C]
  > 我们一致同意一旦得出调查结论，就尽早让公众知晓。  （2010 上海）  
 
 
-# ***<font color=#0099ff>\*invisible</font>*** adj
+# ***\*invisible*** adj
 英音 ɪn'vɪzəbl     美音 ɪn'vɪzəbl  
 
 | 词频 2 |  
@@ -3865,7 +3865,7 @@ investigation /ɪnˌvestɪ'ɡeɪʃn/ n [U] & [C]
  > 你可以在晴朗的夜空看到这些星星，但是在白天它们是看不到的。    
 
 
-# ***<font color=#0099ff>\*invitation</font>*** n
+# ***\*invitation*** n
 英音 ˌɪnvɪ'teɪʃn     美音 ˌɪnvɪ'teɪʃn  
 
 | 词频 4 |  
@@ -3905,7 +3905,7 @@ investigation /ɪnˌvestɪ'ɡeɪʃn/ n [U] & [C]
 答案：
 1. invitations  
 
-# ***<font color=#0099ff>\*invite</font>*** vt
+# ***\*invite*** vt
 英音 ɪn'vaɪt     美音 ɪn'vaɪt  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -3943,7 +3943,7 @@ investigation /ɪnˌvestɪ'ɡeɪʃn/ n [U] & [C]
 答案：
 1. pick 前加to  
 
-# ***<font color=#0099ff>\*involve</font>*** vt  重难点词汇
+# ***\*involve*** vt  重难点词汇
 英音 ɪn'vɒlv     美音 ɪn'vɑːlv  
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -3990,7 +3990,7 @@ involvement /ɪn'vɒlvmənt/ n [U]
 答案：
 1. spending  
 
-# ***<font color=#0099ff>\*involved</font>*** adj
+# ***\*involved*** adj
 英音 ɪn'vɒlvd     美音 ɪn'vɑːlvd  
 
 | 词频 3 |  
@@ -4012,7 +4012,7 @@ involvement /ɪn'vɒlvmənt/ n [U]
  > 父亲应该更多和自己的孩子在一起。    
 
 
-# ***<font color=#0099ff>\*iron</font>*** n
+# ***\*iron*** n
 英音 'aɪən     美音 'aɪən  
 
 | 词频 2 | 口语 2 | 书面 1 |  
@@ -4030,7 +4030,7 @@ involvement /ɪn'vɒlvmənt/ n [U]
  > 电熨斗    
 
 
-# ***<font color=#0099ff>\*iron</font>*** v
+# ***\*iron*** v
 英音 'aɪən     美音 'aɪən  
 
 | 词频 2 | 口语 1 |  
@@ -4043,7 +4043,7 @@ involvement /ɪn'vɒlvmənt/ n [U]
  > 我得把那件连衣裙熨一熨。    
 
 
-# ***<font color=#0099ff>\*iron</font>*** adj
+# ***\*iron*** adj
 英音 'aɪən     美音 'aɪən  
 
 | 词频 2 |  
@@ -4057,7 +4057,7 @@ involvement /ɪn'vɒlvmənt/ n [U]
  > 坚强的意志    
 
 
-# ***<font color=#0099ff>\*irregular</font>*** adj
+# ***\*irregular*** adj
 英音 ɪ'reɡjələ(r)     美音 ɪ'reɡjələr  
 
 | 词频 1 |  
@@ -4067,7 +4067,7 @@ involvement /ɪn'vɒlvmənt/ n [U]
 ### 1.**不规则的；无规律的**  
 
 
-# ***<font color=#0099ff>\*irrigation</font>*** n
+# ***\*irrigation*** n
 英音 ˌɪrɪ'ɡeɪʃn     美音 ˌɪrɪ'ɡeɪʃn  
 
 | 词频 2 |  
@@ -4079,7 +4079,7 @@ involvement /ɪn'vɒlvmənt/ n [U]
 ### 1.*高义频：* **灌溉**  
 
 
-# ***<font color=#0099ff>\*irritate</font>*** v
+# ***\*irritate*** v
 英音 'ɪrɪteɪt     美音 'ɪrɪteɪt  
 
 | 词频 1 |  
@@ -4089,7 +4089,7 @@ involvement /ɪn'vɒlvmənt/ n [U]
 ### 1.**（尤指不断重复做某事而）使（人长期）烦躁**  
 
 
-# ***<font color=#0099ff>\*island</font>*** n
+# ***\*island*** n
 英音 'aɪlənd     美音 'aɪlənd  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -4101,7 +4101,7 @@ involvement /ɪn'vɒlvmənt/ n [U]
 ### 1.*高义频：* **岛；岛状物**  
 
 
-# ***<font color=#0099ff>\*isolated</font>*** adj
+# ***\*isolated*** adj
 英音 'aɪsəleɪtɪd     美音 'aɪsəleɪtɪd  
 
 | 词频 2 |  
@@ -4111,7 +4111,7 @@ involvement /ɪn'vɒlvmənt/ n [U]
 ### 1.**孤单的；孤立的**  
 
 
-# ***<font color=#0099ff>\*issue</font>*** n  重难点词汇
+# ***\*issue*** n  重难点词汇
 英音 'ɪʃuː     美音 'ɪʃuː  
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -4148,7 +4148,7 @@ involvement /ɪn'vɒlvmənt/ n [U]
  > 我在读上一期的报纸。  （外研⑦ – 2）  
 
 
-# ***<font color=#0099ff>\*issue</font>*** vt  重难点词汇
+# ***\*issue*** vt  重难点词汇
 英音 'ɪʃuː     美音 'ɪʃuː  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -4180,7 +4180,7 @@ involvement /ɪn'vɒlvmənt/ n [U]
  > 发行一套邮票    
 
 
-# ***<font color=#0099ff>\*it</font>*** pron
+# ***\*it*** pron
 英音 ɪt     美音 ɪt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4260,7 +4260,7 @@ involvement /ɪn'vɒlvmənt/ n [U]
 答案：
 1. it  2. It  3. it  4. it  
 
-# ***<font color=#0099ff>\*italics</font>*** n
+# ***\*italics*** n
 英音 ɪ'tælɪks     美音 ɪ'tælɪks  
 
 | 词频 1 |  
@@ -4270,7 +4270,7 @@ involvement /ɪn'vɒlvmənt/ n [U]
 ### 1.*高义频：* **(pl) 斜体 (字)**  
 
 
-# ***<font color=#0099ff>\*item</font>*** n
+# ***\*item*** n
 英音 'aɪtəm     美音 'aɪtəm  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -4295,7 +4295,7 @@ involvement /ɪn'vɒlvmənt/ n [U]
  > 第一条新闻主要是关于什么的？    
 
 
-# ***<font color=#0099ff>\*its</font>*** pron
+# ***\*its*** pron
 英音 ɪts     美音 ɪts  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4317,7 +4317,7 @@ involvement /ɪn'vɒlvmənt/ n [U]
 答案：
 1. its  
 
-# ***<font color=#0099ff>\*itself</font>*** pron
+# ***\*itself*** pron
 英音 ɪt'self     美音 ɪt'self  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -4335,7 +4335,7 @@ involvement /ɪn'vɒlvmənt/ n [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*by itself </font>
+## \*by itself 
 1.**单独地；独立地：**  
 
  > *The tree stands by itself in the garden. *  
@@ -4351,7 +4351,7 @@ involvement /ɪn'vɒlvmənt/ n [U]
 答案：
 1. itself  2. itself  
 
-# ***<font color=#0099ff>\*ivory</font>*** n
+# ***\*ivory*** n
 英音 'aɪvəri     美音 'aɪvəri  
 
 | 词频 1 |  

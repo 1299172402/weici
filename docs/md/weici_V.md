@@ -1,6 +1,6 @@
 # Vv
 
-# ***<font color=#0099ff>\*vacant</font>*** adj
+# ***\*vacant*** adj
 英音 'veɪkənt     美音 'veɪkənt  
 
 | 词频 1 |  
@@ -16,7 +16,7 @@
  > 这所房子空置了很久，布满了灰尘。  （人教⑩ – 2）  
 
 
-# ***<font color=#0099ff>\*vacation</font>*** n
+# ***\*vacation*** n
 英音 və'keɪʃn, veɪ'keɪʃn     美音 veɪ'keɪʃn, və'keɪʃn  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -34,20 +34,20 @@
 
 固定搭配
 ---
-## <font color=#0099ff>\*have / take a vacation </font>
+## \*have / take a vacation 
 1.**休假：**  
 
  > *The first thing I’m going to do is to take a long vacation! *  
  > 我要做的第一件事是休一个长假。  （外研⑦ – 2）  
 
-## <font color=#0099ff>\*on vacation </font>
+## \*on vacation 
 1.**在度假：**  
 
  > *Some people write postcards while they are on vacation and send them to friends. *  
  > 一些人在度假的时候写明信片并寄给朋友。  （2012 湖南改）  
 
 
-# ***<font color=#0099ff>\*vaccination</font>*** n
+# ***\*vaccination*** n
 英音 ˌvæksɪ'neɪʃn     美音 ˌvæksɪ'neɪʃn  
 
 | 词频 1 |  
@@ -59,7 +59,7 @@
 ### 1.*高义频：* **接种疫苗**  
 
 
-# ***<font color=#0099ff>\*vacuum</font>*** n
+# ***\*vacuum*** n
 英音 'vækjuəm     美音 'vækjuəm  
 
 | 词频 1 |  
@@ -69,7 +69,7 @@
 ### 1.**真空；空白**  
 
 
-# ***<font color=#0099ff>\*vague</font>*** adj
+# ***\*vague*** adj
 英音 veɪɡ     美音 veɪɡ  
 
 | 词频 1 | 口语 1 |  
@@ -87,7 +87,7 @@
  > 我通常能记住人们的面孔，但经常记不清他们的名字。  （人教⑩ – 4）  
 
 
-# ***<font color=#0099ff>\*vain</font>*** adj
+# ***\*vain*** adj
 英音 veɪn     美音 veɪn  
 
 | 词频 2 |  
@@ -99,7 +99,7 @@
 
 固定搭配
 ---
-## <font color=#0099ff>\*in vain </font>
+## \*in vain 
 1.**徒劳；白辛苦：**  
 
  > *I have tried very hard to find a solution to the problem, but in vain. *  
@@ -113,7 +113,7 @@
 答案：
 1. in  
 
-# ***<font color=#0099ff>\*valid</font>*** adj
+# ***\*valid*** adj
 英音 'vælɪd     美音 'vælɪd  
 
 | 词频 2 | 阅读 1 |  
@@ -129,7 +129,7 @@
  > 睡过头并不是上学迟到的正当理由。    
 
 
-# ***<font color=#0099ff>\*valley</font>*** n
+# ***\*valley*** n
 英音 'væli     美音 'væli  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -141,7 +141,7 @@
 ### 1.*高义频：* **山谷；溪谷；流域**  
 
 
-# ***<font color=#0099ff>\*valuable</font>*** adj
+# ***\*valuable*** adj
 英音 'væljuəbl     美音 'væljuəbl  
 
 | 词频 4 | 书面 1 |  
@@ -168,7 +168,7 @@
 ---
 invaluable /ɪn'væljuəbl/ adj   
 
-# ***<font color=#0099ff>\*value</font>*** n
+# ***\*value*** n
 英音 'væljuː     美音 'væljuː  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -213,7 +213,7 @@ invaluable /ɪn'væljuəbl/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*of value </font>
+## \*of value 
 1.**有价值的；有用的 (valuable)：**  
 
  > **of great value**  
@@ -221,7 +221,7 @@ invaluable /ɪn'væljuəbl/ adj
  > 体育运动很有益处，对那些每天大部分时间都在从事脑力劳动的人来说更是如此。    
 
 
-# ***<font color=#0099ff>\*value</font>*** vt
+# ***\*value*** vt
 英音 'væljuː     美音 'væljuː  
 
 | 词频 5 |  
@@ -246,7 +246,7 @@ invaluable /ɪn'væljuəbl/ adj
  > 我们应该珍惜我们所拥有的，并尽最大努力克服生活中的困难。  （2008 湖南书面表达）  
 
 
-# ***<font color=#0099ff>\*valued</font>*** adj
+# ***\*valued*** adj
 英音 'væljuːd     美音 'væljuːd  
 
 | 词频 3 |  
@@ -256,7 +256,7 @@ invaluable /ɪn'væljuəbl/ adj
 ### 1.**有价值的**  
 
 
-# ***<font color=#0099ff>\*vanguard</font>*** n
+# ***\*vanguard*** n
 英音 'vænɡɑːd     美音 'vænɡɑːrd  
 
 | 词频 1 |  
@@ -266,7 +266,7 @@ invaluable /ɪn'væljuəbl/ adj
 ### 1.**先头部队**  
 
 
-# ***<font color=#0099ff>\*vanish</font>*** vi
+# ***\*vanish*** vi
 英音 'vænɪʃ     美音 'vænɪʃ  
 
 | 词频 1 |  
@@ -283,7 +283,7 @@ invaluable /ɪn'væljuəbl/ adj
  > 许多种动物已在地球上绝迹。    
 
 
-# ***<font color=#0099ff>\*vapour</font>*** n
+# ***\*vapour*** n
 英音 'veɪpə(r)     美音 'veɪpər  
 
 | 词频 1 |  
@@ -295,7 +295,7 @@ invaluable /ɪn'væljuəbl/ adj
 ### 1.*高义频：* **(=vapor) 蒸气；水蒸气**  
 
 
-# ***<font color=#0099ff>\*variation</font>*** n
+# ***\*variation*** n
 英音 ˌveəri'eɪʃn     美音 ˌveri'eɪʃn  
 
 | 词频 1 | 书面 2 |  
@@ -314,7 +314,7 @@ invaluable /ɪn'væljuəbl/ adj
  > 毕竟，两个国家各自内部的口音差别可能跟两国之间的口音差别一样大。  （外研⑤-1）  
 
 
-# ***<font color=#0099ff>\*varied</font>*** adj
+# ***\*varied*** adj
 英音 'veərid     美音 'verid  
 
 | 词频 2 |  
@@ -324,7 +324,7 @@ invaluable /ɪn'væljuəbl/ adj
 ### 1.**多变化的**  
 
 
-# ***<font color=#0099ff>\*variety</font>*** n
+# ***\*variety*** n
 英音 və'raɪəti     美音 və'raɪəti  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -348,7 +348,7 @@ invaluable /ɪn'væljuəbl/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*a variety of</font>
+## \*a variety of
 1.**种种；各种各样的：**  
 
  > **a wide variety of**  
@@ -363,7 +363,7 @@ invaluable /ɪn'væljuəbl/ adj
 答案：
 1. a great / wide variety of  
 
-# ***<font color=#0099ff>\*various</font>*** adj
+# ***\*various*** adj
 英音 'veəriəs     美音 'veriəs  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -386,7 +386,7 @@ invaluable /ɪn'væljuəbl/ adj
 ---
 variously /'veəriəsli/ adv   
 
-# ***<font color=#0099ff>\*vary</font>*** v
+# ***\*vary*** v
 英音 'veəri     美音 'veri  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -417,7 +417,7 @@ variously /'veəriəsli/ adv
 ---
 varied /'veərid/ adj   
 
-# ***<font color=#0099ff>\*vase</font>*** n
+# ***\*vase*** n
 英音 vɑːz     美音 veɪs  
 
 | 词频 2 |  
@@ -429,7 +429,7 @@ varied /'veərid/ adj
 ### 1.*高义频：* **花瓶；(装饰用的) 瓶**  
 
 
-# ***<font color=#0099ff>\*vast</font>*** adj
+# ***\*vast*** adj
 英音 vɑːst     美音 væst  
 
 | 词频 3 | 口语 1 | 书面 2 |  
@@ -445,7 +445,7 @@ varied /'veərid/ adj
  > 一大笔资金    
 
 
-# ***<font color=#0099ff>\*vault</font>*** n
+# ***\*vault*** n
 英音 vɔːlt     美音 vɔːlt  
 
 | 词频 1 |  
@@ -455,7 +455,7 @@ varied /'veərid/ adj
 ### 1.**跳马（体操项目）；腾跳**  
 
 
-# ***<font color=#0099ff>\*vegetable</font>*** n
+# ***\*vegetable*** n
 英音 'vedʒtəbl     美音 'vedʒtəbl  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -474,7 +474,7 @@ varied /'veərid/ adj
 答案：
 1. vegetables  
 
-# ***<font color=#0099ff>\*vegetarian</font>*** adj
+# ***\*vegetarian*** adj
 英音 ˌvedʒə'teəriən     美音 ˌvedʒə'teriən  
 
   
@@ -484,7 +484,7 @@ varied /'veərid/ adj
 ### 1.**(全是) 蔬菜的没有肉类的**  
 
 
-# ***<font color=#0099ff>\*vehicle</font>*** n
+# ***\*vehicle*** n
 英音 'viːəkl     美音 'viːəkl  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -499,7 +499,7 @@ varied /'veərid/ adj
  > 小汽车和大卡车都是运载工具。    
 
 
-# ***<font color=#0099ff>\*vein</font>*** n
+# ***\*vein*** n
 英音 veɪn     美音 veɪn  
 
 | 词频 2 |  
@@ -511,7 +511,7 @@ varied /'veərid/ adj
 ### 1.*高义频：* **静脉**  
 
 
-# ***<font color=#0099ff>\*vengeful</font>*** adj
+# ***\*vengeful*** adj
 英音 'vendʒfl     美音 'vendʒfl  
 
 | 词频 1 |  
@@ -521,7 +521,7 @@ varied /'veərid/ adj
 ### 1.**复仇的，报复心切的**  
 
 
-# ***<font color=#0099ff>\*venture</font>*** vt
+# ***\*venture*** vt
 英音 'ventʃə(r)     美音 'ventʃər  
 
 | 词频 1 |  
@@ -535,7 +535,7 @@ varied /'veərid/ adj
  > 不入虎穴，焉得虎子。  （人教⑩ – 1）  
 
 
-# ***<font color=#0099ff>\*venture</font>*** n
+# ***\*venture*** n
 英音 'ventʃə(r)     美音 'ventʃər  
 
 | 词频 1 |  
@@ -554,7 +554,7 @@ varied /'veərid/ adj
  > 合资企业  （2011 湖北）  
 
 
-# ***<font color=#0099ff>\*venue</font>*** n
+# ***\*venue*** n
 英音 'venjuː     美音 'venjuː  
 
 | 词频 2 |  
@@ -564,7 +564,7 @@ varied /'veərid/ adj
 ### 1.**会场，举办地点**  
 
 
-# ***<font color=#0099ff>\*verbal</font>*** adj
+# ***\*verbal*** adj
 英音 'vɜːbl     美音 'vɜːbl  
 
 | 词频 2 |  
@@ -574,7 +574,7 @@ varied /'veərid/ adj
 ### 1.*高义频：* **口头的**  
 
 
-# ***<font color=#0099ff>\*version</font>*** n
+# ***\*version*** n
 英音 'vɜːʃn     美音 'vɜːrʒn  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -597,7 +597,7 @@ varied /'veərid/ adj
  > 对所发生的事，两家报纸说法不一。    
 
 
-# ***<font color=#0099ff>\*vertical</font>*** adj
+# ***\*vertical*** adj
 英音 'vɜːtɪkl     美音 'vɜːrtɪkl  
 
 | 词频 1 |  
@@ -614,7 +614,7 @@ varied /'veərid/ adj
  > 垂直线    
 
 
-# ***<font color=#0099ff>\*very</font>*** adj
+# ***\*very*** adj
 英音 'veri     美音 'veri  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -638,7 +638,7 @@ varied /'veərid/ adj
  > 一想到要在许多人面前讲话，我就发怵。    
 
 
-# ***<font color=#0099ff>\*very</font>*** adv
+# ***\*very*** adv
 英音 'veri     美音 'veri  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -661,7 +661,7 @@ varied /'veərid/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*not very</font>
+## \*not very
 1.**不很；根本不：**  
 
  > **not very**  
@@ -673,7 +673,7 @@ varied /'veərid/ adj
  > 我根本不想去那里。    
 
 
-# ***<font color=#0099ff>\*vest</font>*** n
+# ***\*vest*** n
 英音 vest     美音 vest  
 
 | 词频 1 |  
@@ -685,7 +685,7 @@ varied /'veərid/ adj
 ### 1.*高义频：* **汗衫；马甲**  
 
 
-# ***<font color=#0099ff>\*vet</font>*** n
+# ***\*vet*** n
 英音 vet     美音 vet  
 
 | 词频 1 | 口语 1 |  
@@ -697,7 +697,7 @@ varied /'veərid/ adj
 ### 1.*高义频：* **兽医**  
 
 
-# ***<font color=#0099ff>\*via</font>*** prep
+# ***\*via*** prep
 英音 'vaɪə     美音 'vaɪə  
 
 | 词频 2 | 书面 2 |  
@@ -713,7 +713,7 @@ varied /'veərid/ adj
  > 通过空邮寄信    
 
 
-# ***<font color=#0099ff>\*vibration</font>*** n
+# ***\*vibration*** n
 英音 vaɪ'breɪʃn     美音 vaɪ'breɪʃn  
 
   
@@ -723,7 +723,7 @@ varied /'veərid/ adj
 ### 1.**震颤，震动**  
 
 
-# ***<font color=#0099ff>\*vice</font>*** n
+# ***\*vice*** n
 英音 vaɪs     美音 vaɪs  
 
 | 词频 2 |  
@@ -741,7 +741,7 @@ Notes: 前缀vice-意为“副的”。
  > 副总统/副总裁    
 
 
-# ***<font color=#0099ff>\*victim</font>*** n
+# ***\*victim*** n
 英音 'vɪktɪm     美音 'vɪktɪm  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -759,11 +759,11 @@ Notes: 前缀vice-意为“副的”。
 
 固定搭配
 ---
-## <font color=#0099ff>\*fall victim to / become a victim to</font>
+## \*fall victim to / become a victim to
 1.**成为…的牺牲品**  
 
 
-# ***<font color=#0099ff>\*victory</font>*** n
+# ***\*victory*** n
 英音 'vɪktəri     美音 'vɪktəri  
 
 | 词频 3 | 书面 2 |  
@@ -779,7 +779,7 @@ Notes: 前缀vice-意为“副的”。
  > 战胜敌人    
 
 
-# ***<font color=#0099ff>\*video</font>*** n
+# ***\*video*** n
 英音 'vɪdiəʊ     美音 'vɪdioʊ  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -791,7 +791,7 @@ Notes: 前缀vice-意为“副的”。
 ### 1.*高义频：* **录像 (带)；视频**  
 
 
-# ***<font color=#0099ff>\*video</font>*** adj
+# ***\*video*** adj
 英音 'vɪdiəʊ     美音 'vɪdioʊ  
 
 | 词频 4 |  
@@ -806,7 +806,7 @@ Notes: 前缀vice-意为“副的”。
  > 摄像机/电子游戏    
 
 
-# ***<font color=#0099ff>\*video</font>*** vt
+# ***\*video*** vt
 英音 'vɪdiəʊ     美音 'vɪdioʊ  
 
 | 词频 4 |  
@@ -819,7 +819,7 @@ Notes: 前缀vice-意为“副的”。
  > 一位朋友把婚礼录了下来。    
 
 
-# ***<font color=#0099ff>\*videophone</font>*** n
+# ***\*videophone*** n
 英音 'vɪdiəʊfəʊn     美音 'vɪdioʊfoʊn  
 
 | 词频 1 |  
@@ -831,7 +831,7 @@ Notes: 前缀vice-意为“副的”。
 ### 1.*高义频：* **电视电话；可视电话**  
 
 
-# ***<font color=#0099ff>\*view</font>*** vt  重难点词汇
+# ***\*view*** vt  重难点词汇
 英音 vjuː     美音 vjuː  
 
 | 词频 5 |  
@@ -855,7 +855,7 @@ Notes: 前缀vice-意为“副的”。
 ---
 viewer /'vjuːə(r)/ n [C]  
 
-# ***<font color=#0099ff>\*view</font>*** n  重难点词汇
+# ***\*view*** n  重难点词汇
 英音 vjuː     美音 vjuː  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -920,20 +920,20 @@ viewer /'vjuːə(r)/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*in view of</font>
+## \*in view of
 1.**鉴于；考虑到：**  
 
  > *In view of the weather, the event will be held indoors.*  
  > 由于天气的缘故，这项比赛将在室内进行。    
 
-## <font color=#0099ff>\*on view</font>
+## \*on view
 1.**在展出；展览着：**  
 
  > *The painting is currently on view at the gallery.*  
  > 那幅画目前在美术馆展出。    
 
 
-# ***<font color=#0099ff>\*viewer</font>*** n
+# ***\*viewer*** n
 英音 'vjuːə(r)     美音 'vjuːər  
 
 | 词频 3 |  
@@ -943,7 +943,7 @@ viewer /'vjuːə(r)/ n [C]
 ### 1.**电视观众；观看者**  
 
 
-# ***<font color=#0099ff>\*village</font>*** n
+# ***\*village*** n
 英音 'vɪlɪdʒ     美音 'vɪlɪdʒ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -955,7 +955,7 @@ viewer /'vjuːə(r)/ n [C]
 ### 1.*高义频：* **村庄；[常与the连用] 村民**  
 
 
-# ***<font color=#0099ff>\*villager</font>*** n
+# ***\*villager*** n
 英音 'vɪlɪdʒə(r)     美音 'vɪlɪdʒər  
 
 | 词频 3 |  
@@ -967,7 +967,7 @@ viewer /'vjuːə(r)/ n [C]
 ### 1.*高义频：* **村民；乡下人**  
 
 
-# ***<font color=#0099ff>\*vinegar</font>*** n
+# ***\*vinegar*** n
 英音 'vɪnɪɡə(r)     美音 'vɪnɪɡər  
 
 | 词频 1 |  
@@ -979,7 +979,7 @@ viewer /'vjuːə(r)/ n [C]
 ### 1.*高义频：* **醋**  
 
 
-# ***<font color=#0099ff>\*violate</font>*** vt
+# ***\*violate*** vt
 英音 'vaɪəleɪt     美音 'vaɪəleɪt  
 
 | 词频 1 |  
@@ -995,7 +995,7 @@ viewer /'vjuːə(r)/ n [C]
  > 枪炮声打破了星期日早晨一贯的宁静。    
 
 
-# ***<font color=#0099ff>\*violence</font>*** n
+# ***\*violence*** n
 英音 'vaɪələns     美音 'vaɪələns  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -1011,7 +1011,7 @@ viewer /'vjuːə(r)/ n [C]
  > 家庭暴力    
 
 
-# ***<font color=#0099ff>\*violent</font>*** adj
+# ***\*violent*** adj
 英音 'vaɪələnt     美音 'vaɪələnt  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -1033,7 +1033,7 @@ viewer /'vjuːə(r)/ n [C]
 ---
 violently /'vaɪələntli/ adv   
 
-# ***<font color=#0099ff>\*violet</font>*** n
+# ***\*violet*** n
 英音 'vaɪələt     美音 'vaɪələt  
 
 | 词频 1 |  
@@ -1043,7 +1043,7 @@ violently /'vaɪələntli/ adv
 ### 1.**紫罗兰**  
 
 
-# ***<font color=#0099ff>\*violin</font>*** n
+# ***\*violin*** n
 英音 ˌvaɪə'lɪn     美音 ˌvaɪə'lɪn  
 
 | 词频 1 |  
@@ -1058,7 +1058,7 @@ violently /'vaɪələntli/ adv
  > 拉小提琴    
 
 
-# ***<font color=#0099ff>\*violinist</font>*** n
+# ***\*violinist*** n
 英音 ˌvaɪə'lɪnɪst     美音 ˌvaɪə'lɪnɪst  
 
 | 词频 1 |  
@@ -1070,7 +1070,7 @@ violently /'vaɪələntli/ adv
 ### 1.*高义频：* **小提琴手**  
 
 
-# ***<font color=#0099ff>\*virtual</font>*** adj
+# ***\*virtual*** adj
 英音 'vɜːtʃuəl     美音 'vɜːrtʃuəl  
 
 | 词频 3 |  
@@ -1092,7 +1092,7 @@ violently /'vaɪələntli/ adv
 ---
 virtually /'vɜːtʃuəli/ adv   
 
-# ***<font color=#0099ff>\*virtue</font>*** n
+# ***\*virtue*** n
 英音 'vɜːtʃuː     美音 'vɜːrtʃuː  
 
 | 词频 1 | 书面 1 |  
@@ -1113,7 +1113,7 @@ virtually /'vɜːtʃuəli/ adv
  > 他的一个优点是从不生气。    
 
 
-# ***<font color=#0099ff>\*virus</font>*** n
+# ***\*virus*** n
 英音 'vaɪrəs     美音 'vaɪrəs  
 
 | 词频 3 | 书面 1 |  
@@ -1131,7 +1131,7 @@ virtually /'vɜːtʃuəli/ adv
  > 一种未知的病毒刚刚攻击了我的电脑。  （人教② – 3）  
 
 
-# ***<font color=#0099ff>\*visa</font>*** n
+# ***\*visa*** n
 英音 'viːzə     美音 'viːzə  
 
 | 词频 2 |  
@@ -1143,7 +1143,7 @@ virtually /'vɜːtʃuəli/ adv
 ### 1.*高义频：* **(护照等的) 签证**  
 
 
-# ***<font color=#0099ff>\*visible</font>*** adj
+# ***\*visible*** adj
 英音 'vɪzəbl     美音 'vɪzəbl  
 
 | 词频 2 | 书面 1 | 阅读 2 |  
@@ -1160,7 +1160,7 @@ virtually /'vɜːtʃuəli/ adv
  > 我在非常显眼的地方站了几个小时，确保每个人都能看见我。    
 
 
-# ***<font color=#0099ff>\*vision</font>*** n
+# ***\*vision*** n
 英音 'vɪʒn     美音 'vɪʒn  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 1 |  
@@ -1186,7 +1186,7 @@ virtually /'vɜːtʃuəli/ adv
  > 具有远见卓识的人    
 
 
-# ***<font color=#0099ff>\*visit</font>*** n
+# ***\*visit*** n
 英音 'vɪzɪt     美音 'vɪzɪt  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -1203,14 +1203,14 @@ virtually /'vɜːtʃuəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*pay a visit to</font>
+## \*pay a visit to
 1.**参观；访问；拜访：**  
 
  > *If you have time, pay a visit to the local museum.*  
  > 你若有空，参观一下当地的这家博物馆。    
 
 
-# ***<font color=#0099ff>\*visit</font>*** vt
+# ***\*visit*** vt
 英音 'vɪzɪt     美音 'vɪzɪt  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -1237,7 +1237,7 @@ virtually /'vɜːtʃuəli/ adv
  > 预知详情，请访问这个网站。  （2014 四川改）  
 
 
-# ***<font color=#0099ff>\*visitor</font>*** n
+# ***\*visitor*** n
 英音 'vɪzɪtə(r)     美音 'vɪzɪtər  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -1249,7 +1249,7 @@ virtually /'vɜːtʃuəli/ adv
 ### 1.*高义频：* **访问者；参观者；游客**  
 
 
-# ***<font color=#0099ff>\*visual</font>*** adj
+# ***\*visual*** adj
 英音 'vɪʒuəl     美音 'vɪʒuəl  
 
 | 词频 2 | 书面 1 |  
@@ -1265,7 +1265,7 @@ virtually /'vɜːtʃuəli/ adv
  > 视野    
 
 
-# ***<font color=#0099ff>\*visually</font>*** adv
+# ***\*visually*** adv
 英音 'vɪʒuəli     美音 'vɪʒuəli  
 
 | 词频 1 |  
@@ -1275,7 +1275,7 @@ virtually /'vɜːtʃuəli/ adv
 ### 1.**外表上；视觉地**  
 
 
-# ***<font color=#0099ff>\*vital</font>*** adj
+# ***\*vital*** adj
 英音 'vaɪtl     美音 'vaɪtl  
 
 | 词频 2 | 书面 2 | 阅读 2 |  
@@ -1308,7 +1308,7 @@ virtually /'vɜːtʃuəli/ adv
 答案：
 1. learning  
 
-# ***<font color=#0099ff>\*vitamin</font>*** n
+# ***\*vitamin*** n
 英音 'vɪtəmɪn     美音 'vaɪtəmɪn  
 
 | 词频 2 |  
@@ -1320,7 +1320,7 @@ virtually /'vɜːtʃuəli/ adv
 ### 1.*高义频：* **维生素**  
 
 
-# ***<font color=#0099ff>\*vivid</font>*** adj
+# ***\*vivid*** adj
 英音 'vɪvɪd     美音 'vɪvɪd  
 
 | 词频 2 | 阅读 1 |  
@@ -1353,7 +1353,7 @@ D.vivid
 答案：
 1. vivid  
 
-# ***<font color=#0099ff>\*vividly</font>*** adv
+# ***\*vividly*** adv
 英音 'vɪvɪdli     美音 'vɪvɪdli  
 
   
@@ -1363,7 +1363,7 @@ D.vivid
 ### 1.**生动地**  
 
 
-# ***<font color=#0099ff>\*vocabulary</font>*** n
+# ***\*vocabulary*** n
 英音 və'kæbjələri     美音 və'kæbjəleri  
 
 | 词频 2 |  
@@ -1382,7 +1382,7 @@ D.vivid
 ### 2.*高义频：* **词汇表**  
 
 
-# ***<font color=#0099ff>\*vocal</font>*** adj
+# ***\*vocal*** adj
 英音 'vəʊkl     美音 'voʊkl  
 
 | 词频 1 |  
@@ -1392,7 +1392,7 @@ D.vivid
 ### 1.**嗓音的，与嗓音有关的**  
 
 
-# ***<font color=#0099ff>\*voice</font>*** vt
+# ***\*voice*** vt
 英音 vɔɪs     美音 vɔɪs  
 
 | 词频 4 |  
@@ -1405,7 +1405,7 @@ D.vivid
  > 此刻我正给你写信来表达我的看法。  （译林④ – 3）  
 
 
-# ***<font color=#0099ff>\*voice</font>*** n
+# ***\*voice*** n
 英音 vɔɪs     美音 vɔɪs  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -1457,7 +1457,7 @@ D.Voices
 答案：
 1. D  
 
-# ***<font color=#0099ff>\*volcanic</font>*** adj
+# ***\*volcanic*** adj
 英音 vɒl'kænɪk     美音 vɑːl'kænɪk  
 
 | 词频 2 |  
@@ -1467,7 +1467,7 @@ D.Voices
 ### 1.*高义频：* **火山的**  
 
 
-# ***<font color=#0099ff>\*volcano</font>*** n
+# ***\*volcano*** n
 英音 vɒl'keɪnəʊ     美音 vɑːl'keɪnoʊ  
 
 | 词频 3 |  
@@ -1483,7 +1483,7 @@ D.Voices
 ---
 volcanic /vɒl'kænɪk/ adj   
 
-# ***<font color=#0099ff>\*volcanologist</font>*** n
+# ***\*volcanologist*** n
 英音 ˌvɒlkən'ɒlədʒɪst     美音 ˌvɒlkən'ɒlədʒɪst  
 
 | 词频 1 |  
@@ -1495,7 +1495,7 @@ volcanic /vɒl'kænɪk/ adj
 ### 1.*高义频：* **火山学家**  
 
 
-# ***<font color=#0099ff>\*volcanology</font>*** n
+# ***\*volcanology*** n
 英音 ˌvɒlkə'nɒlədʒi     美音 ˌvɑːlkə'nɑːlədʒi  
 
 | 词频 1 |  
@@ -1505,7 +1505,7 @@ volcanic /vɒl'kænɪk/ adj
 ### 1.*高义频：* **火山学**  
 
 
-# ***<font color=#0099ff>\*volleyball</font>*** n
+# ***\*volleyball*** n
 英音 'vɒlibɔːl     美音 'vɑːlibɔːl  
 
 | 词频 2 |  
@@ -1520,7 +1520,7 @@ volcanic /vɒl'kænɪk/ adj
  > 打排球    
 
 
-# ***<font color=#0099ff>\*volume</font>*** n
+# ***\*volume*** n
 英音 'vɒljuːm     美音 'vɑːljuːm  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -1552,7 +1552,7 @@ volcanic /vɒl'kænɪk/ adj
  > 电视声音太大了,把音量调低点。    
 
 
-# ***<font color=#0099ff>\*voluntary</font>*** adj
+# ***\*voluntary*** adj
 英音 'vɒləntri     美音 'vɑːlənteri  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -1568,7 +1568,7 @@ volcanic /vɒl'kænɪk/ adj
  > 她是这家医院的志愿者。    
 
 
-# ***<font color=#0099ff>\*volunteer</font>*** v
+# ***\*volunteer*** v
 英音 ˌvɒlən'tɪə(r)     美音 ˌvɑːlən'tɪr  
 
 | 词频 4 |  
@@ -1589,7 +1589,7 @@ volcanic /vɒl'kænɪk/ adj
  > 唐玲自愿去福利院帮忙。  （人教⑦ – 5）  
 
 
-# ***<font color=#0099ff>\*volunteer</font>*** n
+# ***\*volunteer*** n
 英音 ˌvɒlən'tɪə(r)     美音 ˌvɑːlən'tɪr  
 
 | 词频 4 |  
@@ -1604,7 +1604,7 @@ volcanic /vɒl'kænɪk/ adj
  > 志愿者不期待任何报酬。  （2008 四川）  
 
 
-# ***<font color=#0099ff>\*volunteer</font>*** adj
+# ***\*volunteer*** adj
 英音 ˌvɒlən'tɪə(r)     美音 ˌvɑːlən'tɪr  
 
 | 词频 4 |  
@@ -1614,7 +1614,7 @@ volcanic /vɒl'kænɪk/ adj
 ### 1.**志愿的；义务的**  
 
 
-# ***<font color=#0099ff>\*vote</font>*** v
+# ***\*vote*** v
 英音 vəʊt     美音 voʊt  
 
 | 词频 2 | 口语 2 | 书面 2 |  
@@ -1641,7 +1641,7 @@ volcanic /vɒl'kænɪk/ adj
 ---
 voter /'vəʊtə(r)/ n [C]  
 
-# ***<font color=#0099ff>\*vote</font>*** n
+# ***\*vote*** n
 英音 vəʊt     美音 voʊt  
 
 | 词频 2 | 口语 2 | 书面 2 |  
@@ -1660,7 +1660,7 @@ voter /'vəʊtə(r)/ n [C]
  > 1893年新西兰成为世界上第一个赋予妇女选举权的国家。  （北师大② – 4）  
 
 
-# ***<font color=#0099ff>\*vowel</font>*** n
+# ***\*vowel*** n
 英音 'vaʊəl     美音 'vaʊəl  
 
 | 词频 1 |  
@@ -1672,7 +1672,7 @@ voter /'vəʊtə(r)/ n [C]
 ### 1.*高义频：* **元音；元音字母**  
 
 
-# ***<font color=#0099ff>\*voyage</font>*** n
+# ***\*voyage*** n
 英音 'vɔɪɪdʒ     美音 'vɔɪɪdʒ  
 
 | 词频 3 |  
@@ -1699,7 +1699,7 @@ voter /'vəʊtə(r)/ n [C]
 四者都含“旅行”之意，但具体含义不同。  
 
 
-# ***<font color=#0099ff>\*vulnerable</font>*** adj
+# ***\*vulnerable*** adj
 英音 'vʌlnərəbl     美音 'vʌlnərəbl  
 
 | 词频 1 |  
