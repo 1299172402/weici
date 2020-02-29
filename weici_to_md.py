@@ -63,7 +63,8 @@ def gy_example(t): #18417
             b=b[:-1]
         print(' > **'+b+'**  ',file=f)
     print(' > '+t['english']+'  ',file=f)
-    print(' > '+t['chinese'],file=f)
+    print(' > '+t['chinese']+'  ',file=f)
+    if t['source']!='' : print(' > 来源：'+t['source']+'  ',file=f)
     print(file=f)
     
 def gy_notes(t): #16597
@@ -77,7 +78,7 @@ def gy_notes(t): #16597
             
 def gy_biscrimination(t): #16597
     print('### 辨析 '+t['words'],file=f)
-    print(t['paraphrase'],file=f)
+    print(t['paraphrase']+'  ',file=f)
     if t['gy_example']!=[]:
         for example in t['gy_example']:
             gy_example(example)
