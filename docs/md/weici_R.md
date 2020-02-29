@@ -434,7 +434,6 @@ racing /'reɪsɪŋ/
 ---
 1. _________ (raise) in the poorest area of Glasgow, he had a long, hard road to becoming a football star.
   （2015 重庆改）  
-
 答案：
 1. Raised  
 
@@ -535,7 +534,6 @@ racing /'reɪsɪŋ/
 真题解析
 ---
 1. This restaurant has become popular for its wide ________ (一系列) of foods that suit all tastes and pockets.  （2010 湖北改）  
-
 答案：
 1. range  
 
@@ -567,7 +565,6 @@ racing /'reɪsɪŋ/
 真题解析
 ---
 1. The national park has a large collection of wildlife, ________ (range) from butterflies to elephants.  （2017 北京改）  
-
 答案：
 1. ranging  
 
@@ -751,8 +748,7 @@ Notes: rarely和seldom都表示“很少”、“不经常”，但seldom更正�
 真题解析
 ---
 1. — How was the televised debate last night?
-— Super!  ________ (rare) did a debate attrace so much media attention.  （）  
-
+— Super!  ________ (rare) did a debate attrace so much media attention.  
 答案：
 1. Rarely  
 
@@ -831,7 +827,6 @@ Notes: rarely和seldom都表示“很少”、“不经常”，但seldom更正�
 真题解析
 ---
 1. The car is running at a ________ of eighty kilometers an hour.  （2010 陕西）  
-
 答案：
 1. speed / rate  
 
@@ -930,12 +925,9 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 真题解析
 ---
 1. What we expect from you is working hard ________ (而不是) hardly working.  （2014 安徽改）  
-
 2. If what your friend comes up with surprises you, don’t reject it immediately. R________, imagine that it is true.  （2013 浙江改）  
-
 答案：
-1. rather than  
-2. Rather  
+1. rather than  2. Rather  
 
 # ***\*rating*** n
 英音 'reɪtɪŋ     美音 'reɪtɪŋ  
@@ -1131,7 +1123,6 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 真题解析
 ---
 1. Despite the previous rounds of talks, no agreement ________ (reach) so far by the two sides.  （2015 天津改）  
-
 答案：
 1. has been reached  
 
@@ -1166,12 +1157,9 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 ---
 1. — I’m looking for a nearby place for my holiday. Any good ideas?
 — How about the Moon Lake? It is ________ easy reach of the city.  （2013 上海改）  
-
 2. Always remember to put such dangerous things as knives ________ children’s reach.  （2011 四川改）  
-
 答案：
-1. within  
-2. out of / beyond  
+1. within  2. out of / beyond  
 
 # ***\*react*** vi
 英音 ri'ækt     美音 ri'ækt  
@@ -1277,7 +1265,6 @@ reader  /'riːdə(r)/ n [C]
 真题解析
 ---
 1. I ________ (read) half of the English novel, and I’ll try to finish it at the weekend.  （2016 北京）  
-
 答案：
 1. have read  
 
@@ -1430,7 +1417,6 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 真题解析
 ---
 1. When I got on the bus, I ________ (realize) I had left my wallet at home.   （2011 山东改）  
-
 答案：
 1. realized  
 
@@ -1539,7 +1525,6 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 真题解析
 ---
 1. When I got on the bus, I _________ (realize) I had left my wallet at home.  （2011 山东改）  
-
 答案：
 1. realized  
 
@@ -1579,13 +1564,10 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 ---
 1. — You know, I met my girlfriend’s parents for the first time only yesterday.
 — ________ (real)? I thought you’d met them before.  （2014 陕西改）  
-
 2. — This apple pie is too sweet, don’t you think so?
 — ________ (不是). I think it’s just right, actually.  （2014 山东改）  
-
 答案：
-1. Really  
-2. Not really  
+1. Really  2. Not really  
 
 # ***\*realm*** n
 英音 relm     美音 relm  
@@ -1709,7 +1691,6 @@ reasonably /'riːznəbli/ adv
 真题解析
 ---
 1. Be ________ (reason) — you can’t expect me to finish all this work in so little time.  （2012 山东改）  
-
 答案：
 1. reasonable  
 
@@ -1781,7 +1762,6 @@ reasonably /'riːznəbli/ adv
 真题解析
 ---
 1. Legend has it that the origin of the Dragon Boat Festival is to ________ (召回) the soul of Qu Yuan.  （2014 江苏改）  
-
 答案：
 1. recall  
 
@@ -1846,7 +1826,6 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
 真题解析
 ---
 1. Project Hope aims at helping the poor children in remote areas to ________ (接受) education.  （2003 上海春改）  
-
 答案：
 1. receive  
 
@@ -1896,7 +1875,6 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
 真题解析
 ---
 1. Chinese scientists ________ (recent) had a chance to study a wild female panda with a newborn baby.  （2016 四川）  
-
 答案：
 1. recently  
 
@@ -2043,12 +2021,9 @@ recitation /ˌresɪ'teɪʃn/ n
 真题解析
 ---
 1. Lisa, I didn’t _________ (认出) you — you’ve had your hair cut!  （2008 全国）  
-
 2. China's image is improvung steadily, with more countries ________ (recognize) its role in international affairs.  （2019 江苏改）  
-
 答案：
-1. recognise / recognize  
-2. recognizing  
+1. recognise / recognize  2. recognizing  
 
 # ***\*recognition*** n
 英音 ˌrekəɡ'nɪʃn     美音 ˌrekəɡ'nɪʃn  
@@ -2076,7 +2051,6 @@ recitation /ˌresɪ'teɪʃn/ n
 真题解析
 ---
 1. I haven’t seen Sara since she was a little girl, and she has changed beyond ________ (recognize).  （2010 安徽改）  
-
 答案：
 1. recognition  
 
@@ -2116,7 +2090,6 @@ recitation /ˌresɪ'teɪʃn/ n
 真题解析
 ---
 1. Lisa, I didn’t ________ (认出) you — you’ve had your hair cut!  （2008 全国）  
-
 答案：
 1. recognise / recognize  
 
@@ -2169,12 +2142,9 @@ recitation /ˌresɪ'teɪʃn/ n
 真题解析
 ---
 1. Eye doctors recommend that a child’s first eye exam ________ (be) at the age of six months old.  （2013 浙江改）  
-
 2. Our hosts shared many of their experiences and ________ (recommend) wonderful places to eat, shop, and visit.  （2019 全国）  
-
 答案：
-1. (should) be  
-2. recommended  
+1. (should) be  2. recommended  
 
 # ***\*recommendation*** n
 英音 ˌrekəmen'deɪʃn     美音 ˌrekəmen'deɪʃn  
@@ -2532,7 +2502,6 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 真题解析
 ---
 1. The president spoke at the business meeting for nearly an hour without referring ________ his notes.  （2005 浙江改）  
-
 答案：
 1. to  
 
@@ -2585,7 +2554,6 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 真题解析
 ---
 1. You’d better write down the phone number of that restaurant for future ________ (refer).  （2012 江西改）  
-
 答案：
 1. reference  
 
@@ -2626,7 +2594,6 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 真题解析
 ---
 1. A city is the product of the human hand and mind, ________ (reflect) man's intelligence and creativity.  （2019 江苏改）  
-
 答案：
 1. reflecting  
 
@@ -2777,7 +2744,6 @@ refusal /rɪ'fjuːzl/ n
 真题解析
 ---
 1. Alice wanted to borrow Jack’s computer, but he ________ (拒绝).  （2012 全国）  
-
 答案：
 1. refused  
 
@@ -2850,7 +2816,6 @@ regarding /rɪ'ɡɑːdɪŋ/ prep  [正式用语] (尤用于信函中)
 真题解析
 ---
 1. I am always delighted when I receive an e-mail from you. With regard ________ the party on July 1st, I shall be pleased to attend.  （2013 江苏改）  
-
 答案：
 1. to  
 
@@ -2886,7 +2851,6 @@ regarding /rɪ'ɡɑːdɪŋ/ prep  [正式用语] (尤用于信函中)
 真题解析
 ---
 1. Our club is open to everyone ________ (不管) age, sex or educational background.  （2014 福建改）  
-
 答案：
 1. regardless of  
 
@@ -2970,7 +2934,6 @@ registration /ˌredʒɪ'streɪʃn/ n
 真题解析
 ---
 1. According to the law, all foreigners have to register ________ the local police within two weeks of arrival.  （2013 湖北改）  
-
 答案：
 1. with  
 
@@ -3033,7 +2996,6 @@ registration /ˌredʒɪ'streɪʃn/ n
 真题解析
 ---
 1. It’s no use _________ (后悔) what you have done.  （2008 陕西）  
-
 答案：
 1. regretting  
 
@@ -3115,7 +3077,6 @@ registration /ˌredʒɪ'streɪʃn/ n
 真题解析
 ---
 1. I suggest that we have _________ (定期) meetings.  （2008 全国）  
-
 答案：
 1. regular  
 
@@ -3138,7 +3099,6 @@ registration /ˌredʒɪ'streɪʃn/ n
 真题解析
 ---
 1. Recent studies show that we are far more productive at work if we take short breaks ________ (regular).  （2016 全国）  
-
 答案：
 1. regularly  
 
@@ -3556,7 +3516,6 @@ relaxing /rɪ'læksɪŋ/ adj
 真题解析
 ---
 1. I don’t think what he said is relevant ________ the topic we are discussing. He has missed the point.  （2015 湖北改）  
-
 答案：
 1. to  
 
@@ -3589,7 +3548,6 @@ relaxing /rɪ'læksɪŋ/ adj
 真题解析
 ---
 1. John is very ________ (rely) — if he promises to do something he’ll do it.  （2009 浙江改）  
-
 答案：
 1. reliable  
 
@@ -3649,7 +3607,6 @@ relaxing /rɪ'læksɪŋ/ adj
 ---
 1. — Don’t worry, Mum. The doctor said it was only the flu.
 — What relief! I’ll tell Dad there’s nothing serious.  （2012 江苏改 改错）  
-
 答案：
 1. relief 前加 a  
 
@@ -3800,12 +3757,9 @@ remaining /rɪ'meɪnɪŋ/ adj
 真题解析
 ---
 1. It was already past midnight and only three young men ________ (逗留) in the teahouse.  （2006 安徽改）  
-
 2. It remains ________ (see) whether Jim’ll be fit enough to play in the finals.   （2006 浙江改）  
-
 答案：
-1. remained  
-2. to be seen  
+1. remained  2. to be seen  
 
 # ***\*remains*** n
 英音 rɪ'meɪnz     美音 rɪ'meɪnz  
@@ -3940,7 +3894,6 @@ remarkably /rɪ'mɑːkəbli/ adv [句子副词]
 真题解析
 ---
 1. I still remember ________ (visit) a friend who’d lived here for fi ve years.  （2018 浙江）  
-
 答案：
 1. visiting  
 
@@ -4001,12 +3954,9 @@ reminder /rɪ'maɪndə(r)/ n
 真题解析
 ---
 1. The photo will remind me ________ the days when we were together.  （2007 浙江改）  
-
 2. In our childhood, we were often ________ (提醒) by Grandma to pay attention to our table manners.  （2005 江苏改）  
-
 答案：
-1. of  
-2. reminded  
+1. of  2. reminded  
 
 # ***\*remote*** adj
 英音 rɪ'məʊt     美音 rɪ'moʊt  
@@ -4067,7 +4017,6 @@ removal /rɪ'muːvl/ n [C] & [U]
 真题解析
 ---
 1. When fat and salt _________________ (remove) from food, the food tastes as if it is missing something.   （2017 全国）  
-
 答案：
 1. are removed  
 
@@ -4209,7 +4158,6 @@ rented /'rentɪd/ adj
 真题解析
 ---
 1. My washing machine ________ (repair) this week, so I have to wash my clothes by hand.  （2018 天津改）  
-
 答案：
 1. is being repaired  
 
@@ -4258,7 +4206,6 @@ repetition /ˌrepə'tɪʃn/ n
 真题解析
 ---
 1. The teacher asked one student to ________ (重复) what he had heard from the tape recorder.   （2015 陕西）  
-
 答案：
 1. repeat  
 
@@ -4584,7 +4531,6 @@ replacement /rɪ'pleɪsmənt/ n
 真题解析
 ---
 1. Andorra is a small mountain _________ (共和国) between France and Spain.   （2007 陕西）  
-
 答案：
 1. republic  
 
@@ -4611,7 +4557,6 @@ replacement /rɪ'pleɪsmənt/ n
 真题解析
 ---
 1. The doctor is skilled at treating heart trouble and never accepts any gift from his patients, so he has a very good ________ (名声).  （2010 江苏改）  
-
 答案：
 1. reputation  
 
@@ -4655,7 +4600,6 @@ A.attempts
 B.requests  
 C.doubts  
 D.promises  
-
 答案：
 1. B  
 
@@ -4686,7 +4630,6 @@ D.promises
 真题解析
 ---
 1. Don’t respond to any e-mails _________ (request) personal information, no matter how official they look.  （2006 天津改）  
-
 答案：
 1. requesting   
 
@@ -4726,7 +4669,6 @@ D.promises
 真题解析
 ---
 1. Though it may appear simple, it required a lot of ideas and efforts.  （2019 全国 改错）  
-
 答案：
 1. required➜requires  
 
@@ -4894,7 +4836,6 @@ D.promises
 真题解析
 ---
 1. I’d prefer to ________ (保留) my judgement until I find all the evidence.  （2011 福建改）  
-
 答案：
 1. reserve  
 
@@ -5316,7 +5257,6 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
 真题解析
 ---
 1. The factory used 65 percent of the raw materials, the rest of which _______ (be) saved for other purposes.   （2011 安徽改）  
-
 答案：
 1. were  
 
@@ -5432,12 +5372,9 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
 真题解析
 ---
 1. Jenny nearly missed the flight as a result ________ doing too much shopping.  （2009 全国改）  
-
 2. My friend Martin was very sick with a strange fever; ________ (结果), he could neither eat nor sleep.  （2005 江西改）  
-
 答案：
-1. of  
-2. as a result  
+1. of  2. as a result  
 
 # ***\*result*** vi  重难点词汇
 英音 rɪ'zʌlt     美音 rɪ'zʌlt  
@@ -5515,7 +5452,6 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
 真题解析
 ---
 1. The students are required to ________ (复述) the story after reading it.   （2013 陕西）  
-
 答案：
 1. retell  
 
@@ -5619,7 +5555,6 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 真题解析
 ---
 1. While staying in the village, James unselfishly shared whatever he had with the villagers without asking for anything ________ return.  （2014 浙江改）  
-
 答案：
 1. in  
 
@@ -5804,7 +5739,6 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 真题解析
 ---
 1. Don’t worry if you don’t understand everything. The teacher will ________ (复习) the main points at the end.  （2009 天津改）  
-
 答案：
 1. review / revise  
 
@@ -5853,7 +5787,6 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 真题解析
 ---
 1. The old rules have to be ________ (修正) because they only applied to the circumstances that existed when they were made a hundred years ago.  （2014 湖北改）  
-
 答案：
 1. revised  
 
@@ -6567,7 +6500,6 @@ rightly /'raɪtli/ adv
 真题解析
 ---
 1. The next thing he saw was smoke ________ (rise) from behind the house.   （2011 全国改）  
-
 答案：
 1. rising   
 
@@ -6686,7 +6618,6 @@ risky /'rɪski/ adj
 真题解析
 ---
 1. Young people may risk ________ (go) deaf if they are exposed to very loud music every day.  （2013 上海改）  
-
 答案：
 1. going  
 
@@ -7169,7 +7100,6 @@ robbery /'rɒbəri/ n
 真题解析
 ---
 1. James took the magazines off the little table to make room ________ the television.  （2010 天津改）  
-
 答案：
 1. for  
 
@@ -7528,7 +7458,6 @@ A.drill
 B.action   
 C.regulation   
 D.routine  
-
 答案：
 1. D  
 
@@ -7839,7 +7768,6 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 真题解析
 ---
 1. The experiment has ________ (排除) the possibility of the existence of any life on that planet, but it does not mean there is no life on other planets. (rule)  （2010 江苏改）  
-
 答案：
 1. ruled out  
 
@@ -8007,13 +7935,10 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 ---
 1. — OK, I’ve had enough of it. I give up.
 — You can’t run away ________ your responsibilities.  （2012 江苏改）  
-
 2. — I’m still working on my project.
 — Oh, you’ll miss the deadline. Time is running ________.  （2008 江苏改）  
-
 答案：
-1. from  
-2. out  
+1. from  2. out  
 
 # ***\*run*** n  重难点词汇
 英音 rʌn     美音 rʌn  

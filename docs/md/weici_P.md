@@ -108,12 +108,9 @@
 真题解析
 ---
 1. We were first greeted with the barking by a pack ________ dogs, seven to be exact.  （2019 全国）  
-
 2. The workers ________ (把…打包) the glasses and marked on each box “This Side Up”.  （2010 全国改）  
-
 答案：
-1. of  
-2. packed  
+1. of  2. packed  
 
 # ***\*pack*** n
 英音 pæk     美音 pæk  
@@ -560,7 +557,6 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 真题解析
 ---
 1. Fewer than a thousand ________ (大熊猫) still live in the wild.   （2013 陕西）  
-
 答案：
 1. pandas  
 
@@ -614,7 +610,6 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 真题解析
 ---
 1. “Tommy, run! Be quick! The house is on fire!” the mother shouted, with ________ (恐慌) clearly in her voice.  （2011 湖北改）  
-
 答案：
 1. panic  
 
@@ -876,7 +871,6 @@ A.Never mind
 B.Don’t mention it  
 C.Sure, I don’t smoke   
 D.Pardon me  
-
 答案：
 1. D  
 
@@ -1229,7 +1223,6 @@ participant /pɑː'tɪsɪpənt/ n [C]
 真题解析
 ---
 1. She has already tried her best. Please don’t be too particular ________ her job.   （2011 江西改）  
-
 答案：
 1. about / over  
 
@@ -1564,7 +1557,6 @@ passively /'pæsɪvli/ adv
 真题解析
 ---
 1. Listening is thus an active, not a ________ (被动的), behavior consisting of hearing, understanding and remembering.  （2015 浙江改）  
-
 答案：
 1. passive  
 
@@ -1790,7 +1782,6 @@ passively /'pæsɪvli/ adv
 真题解析
 ---
 1. Whenever I made mistakes, the teacher pointed them out with ________ (耐心).  （2013 江西改）  
-
 答案：
 1. patience  
 
@@ -2049,15 +2040,10 @@ patiently /'peɪʃntli/ adv
 ---
 1. — Dad, I don’t think Oliver the right sort of person for the job.
 — I see. I’ll go right away and pay him ________.  （2014 江苏改）  
-
 2. The watch was very good, and he paid 20 percent down ________ it.  （2013 全国改）  
-
 3. The athlete’s years of hard training paid ________ when she finally won the Olympic gold medal.  （2012 安徽改）  
-
 答案：
-1. off  
-2. for  
-3. off  
+1. off  2. for  3. off  
 
 # ***\*payment*** n
 英音 'peɪmənt     美音 'peɪmənt  
@@ -2727,7 +2713,6 @@ perfection /pə'fekʃn/ n [U]
 真题解析
 ---
 1. Listening to music at home is one thing, going to hear it ________ (perform) live is quite another.  （2015 浙江改）  
-
 答案：
 1. (being) performed  
 
@@ -2768,7 +2753,6 @@ perfection /pə'fekʃn/ n [U]
 真题解析
 ---
 1. Your ________ (perform) as a student will be excellent if you develop a habit of reflecting on how you learn.  （2012 浙江改）  
-
 答案：
 1. performance  
 
@@ -2883,7 +2867,6 @@ A.practical
 B.avoidable  
 C.permanent   
 D.beneficial  
-
 答案：
 1. C  
 
@@ -2958,15 +2941,10 @@ Notes: permit和allow的用法相似，permit是正式用语；指天气、时�
 真题解析
 ---
 1. I was the first Western TV reporter ________ (permit) to film a special unit caring for pandas rescued from starvation in the wild.  （2016 全国）  
-
 2. The party will be held in the garden, weather ________ (permit).   （2012 全国改）  
-
 3. Passengers are permitted ________ (carry) only one piece of hand luggage onto the plane.  （2011 天津改）  
-
 答案：
-1. permitted  
-2. permitting  
-3. to carry  
+1. permitted  2. permitting  3. to carry  
 
 # ***\*permit*** n  重难点词汇
 英音 'pɜːmɪt      美音 'pɜːmɪt   
@@ -3055,7 +3033,6 @@ Notes: permit和allow的用法相似，permit是正式用语；指天气、时�
 真题解析
 ---
 1. In this lecture, I can only give you a purely ________ (个人的) view of how we can live life to the full and make some suggestions about the future.  （2010 湖北改）  
-
 答案：
 1. personal  
 
@@ -3099,7 +3076,6 @@ Notes: permit和allow的用法相似，permit是正式用语；指天气、时�
 真题解析
 ---
 1. They gave money to the old people’s home either ________ (personal) or through their companies.  （2015 安徽改）  
-
 答案：
 1. personally  
 
@@ -3199,7 +3175,6 @@ persuasive /pə'sweɪsɪv/ adj
 真题解析
 ---
 1. If she doesn’t want to go, nothing you can say will ________ (说服) her.  （2012 全国改）  
-
 答案：
 1. persuade  
 
@@ -3757,15 +3732,10 @@ physically /'fɪzɪkli/ adv
 真题解析
 ---
 1. It’s surprising that your brother picked ________ Russian so quickly — he hasn’t lived there very long.   （2012 四川改）  
-
 2. Sam picked ________ some knowledge of the computer just by watching others working on it.   （2010 山东改）  
-
 3. It was so dark in the cinema that I could hardly pick ________ my friend.   （2007 四川改）  
-
 答案：
-1. up  
-2. up  
-3. out  
+1. up  2. up  3. out  
 
 # ***\*pickpocket*** n
 英音 'pɪkpɒkɪt     美音 'pɪkpɑːkɪt  
@@ -4021,7 +3991,6 @@ physically /'fɪzɪkli/ adv
 真题解析
 ---
 1. The old lady needs a few feather ________ (枕头) to make herself comfortable.   （2009 全国）  
-
 答案：
 1. pillows  
 
@@ -4114,7 +4083,6 @@ physically /'fɪzɪkli/ adv
 真题解析
 ---
 1. The little girl is wearing a ________ (粉红色) dress.   （2007 全国）  
-
 答案：
 1. pink  
 
@@ -4260,13 +4228,10 @@ physically /'fɪzɪkli/ adv
 ---
 1. — Can you come to a party on Saturday, Peter?
 — Oh, what pity! I’m already going out, I’m afraid.  （2015 安徽改 改错）  
-
 2. — The Modern Art Exhibition in the City Museum has been cancelled.
 — Oh, no! It’s pity.  （2012 重庆改 改错）  
-
 答案：
-1. pity 前加 a  
-2. pity 前加 a  
+1. pity 前加 a  2. pity 前加 a  
 
 # ***\*pity*** vt
 英音 'pɪti     美音 'pɪti  
@@ -4423,7 +4388,6 @@ physically /'fɪzɪkli/ adv
 真题解析
 ---
 1. The furniture, with its modern style and bright colors, suits modern houses and their gardens, but looks ________ (不相称的) in the garden of a traditional home.  （2012 湖北改）  
-
 答案：
 1. out of place  
 
@@ -4701,7 +4665,6 @@ plainly /'pleɪnli/ adv
 真题解析
 ---
 1. If you cannot find wooden boxes, you may use either ________ (塑料的) or metal ones instead.  （2009 陕西）  
-
 答案：
 1. plastic  
 
@@ -4889,7 +4852,6 @@ playful /playful/ adj
 真题解析
 ---
 1. All the football player on the playground cheered loudly.  （2019 全国  改错）  
-
 答案：
 1. player--players  
 
@@ -5028,7 +4990,6 @@ pleasing /'pliːzɪŋ/ adj
 ---
 1. — I’m very ________ (please) with my own cooking. It looks nice and smells delicious.
 — Mm, it does have a pleasant smell.   （2002 京蒙皖改）  
-
 答案：
 1. pleased  
 
@@ -5092,7 +5053,6 @@ pleasing /'pliːzɪŋ/ adj
 ---
 1. — Could you be so kind as to close the window?
 — ________ (当然可以). (pleasure)  （2009 安徽改）  
-
 答案：
 1. With pleasure  
 
@@ -5132,7 +5092,6 @@ plentiful /'plentɪfl/ adj
 真题解析
 ---
 1. We always keep plenty ________ spare paper, in case we run out.  （2006 浙江改）  
-
 答案：
 1. of  
 
@@ -5589,12 +5548,9 @@ plentiful /'plentɪfl/ adj
 真题解析
 ---
 1. What’s the point, in your opinion, ________ helping him if he doesn’t make an effort to help himself?  （2011 江西改）  
-
 2. I like Mr Miner’s speech; it was clear and ________ the point.   （2008 辽宁改）  
-
 答案：
-1. of  
-2. to   
+1. of  2. to   
 
 # ***\*poison*** n
 英音 'pɔɪzn     美音 'pɔɪzn  
@@ -5768,7 +5724,6 @@ A.approved
 B.quoted  
 C.polished   
 D.folded  
-
 答案：
 1. C  
 
@@ -5811,7 +5766,6 @@ politeness /pə'laɪtnəs/ n [U]
 真题解析
 ---
 1. After knocking _________ (礼貌地) at the door, the applicant entered the office of the general manager.  （2015 陕西）  
-
 答案：
 1. politely  
 
@@ -5916,7 +5870,6 @@ Notes: politics单复数同形，指政治学、政治制度时视为单数，�
 真题解析
 ---
 1. This switch has decreased ________ (pollute) in the country’s major lakes and reservoirs.  （2018 全国）  
-
 答案：
 1. pollution  
 
@@ -6007,7 +5960,6 @@ poorly /'pɔːli; 'pʊəli/ adv
 真题解析
 ---
 1. It is difficult to figure out a global population of polar bears as much of the range has been ________ (poor) studied.  （2019 全国）  
-
 答案：
 1. poorly  
 
@@ -6107,7 +6059,6 @@ poorly /'pɔːli; 'pʊəli/ adv
 真题解析
 ---
 1. This magazine is very popular ________ young people, who like its content and style.   （2007 湖北改）  
-
 答案：
 1. with / among  
 
@@ -6182,7 +6133,6 @@ A.has grown
 B.have grown  
 C.grew  
 D.are growing  
-
 答案：
 1. A  
 
@@ -6372,7 +6322,6 @@ D.are growing
 真题解析
 ---
 1. From their ________ (位置) on the top of the TV Tower, visitors can have a better view of the city.  （2009 陕西改）  
-
 答案：
 1. position  
 
@@ -6496,7 +6445,6 @@ D.are growing
 真题解析
 ---
 1. Technical progress would put our firm in ________ (possess) of the home market.   （2007 陕西）  
-
 答案：
 1. possession  
 
@@ -6537,7 +6485,6 @@ D.are growing
 ---
 1. There is no possibility ________ Bob can win the first prize in the match.
   （2001 上海春改）  
-
 答案：
 1. that  
 
@@ -6611,16 +6558,11 @@ D.are growing
 真题解析
 ---
 1. Get an early start and try to be as productive ________ possible before lunch.  （2016 全国）  
-
 2. Raymond’s parents wanted him to have the ________ (good) possible education.  （2014 全国改）  
-
 3. — Have you got any particular plans for the coming holiday?
 — Yes. ________ (如果可能的话), I’m going to visit some homes for the old in the city.  （2008 安徽改）  
-
 答案：
-1. as  
-2. best  
-3. If possible  
+1. as  2. best  3. If possible  
 
 # ***\*possibly*** adv
 英音 'pɒsəbli     美音 'pɑːsəbli  
@@ -7250,8 +7192,7 @@ powerfully  /'paʊəfəli/ adv
 
 真题解析
 ---
-1. When we plan our vacation, mother often offers ________ (practice) suggestions.  （）  
-
+1. When we plan our vacation, mother often offers ________ (practice) suggestions.  
 答案：
 1. practical  
 
@@ -7360,7 +7301,6 @@ powerfully  /'paʊəfəli/ adv
 真题解析
 ---
 1. As a new driver, I have to practise ________ (park) the car in my small garage again and again.  （2008 上海春改）  
-
 答案：
 1. parking  
 
@@ -7392,7 +7332,6 @@ powerfully  /'paʊəfəli/ adv
 真题解析
 ---
 1. As a new driver, I have to practise ________ (park) the car in my small garage again and again.  （2008 上海春改）  
-
 答案：
 1. parking  
 
@@ -7427,7 +7366,6 @@ powerfully  /'paʊəfəli/ adv
 真题解析
 ---
 1. The Smiths are praised _________ the way they bring up their children.   （2013 山东改）  
-
 答案：
 1. for  
 
@@ -7585,7 +7523,6 @@ prediction /prɪ'dɪkʃn/ n [C] & [U]
 真题解析
 ---
 1. No matter how carefully you plan your finances, no one can ________ (预测) when the unexpected will happen.   （2014 浙江改）  
-
 答案：
 1. predict / forecast  
 
@@ -7662,7 +7599,6 @@ preferred  /prɪ'fəd/ adj
 真题解析
 ---
 1. We can eat out if you like, but I would ________ (更喜欢) to stay in.  （2014 陕西）  
-
 答案：
 1. prefer  
 
@@ -8161,7 +8097,6 @@ preservation /ˌprezə'veɪʃn/ n [U]
 ---
 1. — The town is so beautiful! I just love it.
 — Me too. The character of the town is well ________ (保存).  （2013 江苏改）  
-
 答案：
 1. preserved / saved  
 
@@ -8232,7 +8167,6 @@ presidential /ˌprezɪ'denʃl/ adj
 真题解析
 ---
 1. He ________ (按下) the button and the doorbell rang.   （2009 全国）  
-
 答案：
 1. pressed / pushed  
 
@@ -8324,7 +8258,6 @@ presidential /ˌprezɪ'denʃl/ adj
 真题解析
 ---
 1. Miss Harper closed her eyes and ________ to be asleep.   （2010 陕西）  
-
 答案：
 1. pretended  
 
@@ -8564,7 +8497,6 @@ previously /'priːviəsli/ adv
 真题解析
 ---
 1. Rebecca was the ________ (骄傲) of her family.  （2012 全国）  
-
 答案：
 1. pride  
 
@@ -8606,7 +8538,6 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
 真题解析
 ---
 1. In those days, our ________ (主要的) concern was to provide people who were stopped by the snow storm with food and health care.  （2008 湖北改）  
-
 答案：
 1. primary / main  
 
@@ -8746,7 +8677,6 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
 真题解析
 ---
 1. Anyway, I can’t cheat him — it’s against all my ________ (原则).   （2011 浙江改）  
-
 答案：
 1. principles  
 
@@ -9156,7 +9086,6 @@ probability /ˌprɒbə'bɪləti/ n
 1. — Are you sure you’re ready for the test?
 — ________ (没问题). I’m well prepared for it.
   （2016 浙江改）  
-
 答案：
 1. No problem  
 
@@ -9269,7 +9198,6 @@ A.produce
 B.pronounce  
 C.process  
 D.download  
-
 答案：
 1. C  
 
@@ -9868,7 +9796,6 @@ prohibition /ˌprəʊɪ'bɪʃn/ n
 真题解析
 ---
 1. The young man made a promise ________ his parents that he would try to earn his own living after graduation.  （2008 湖北改）  
-
 答案：
 1. to  
 
@@ -9926,7 +9853,6 @@ promising /'prɒmɪsɪŋ/ adj
 真题解析
 ---
 1. The new movie promises ________ (be) one of the biggest money-makers of all time.  （2010 辽宁改）  
-
 答案：
 1. to be  
 
@@ -10080,7 +10006,6 @@ promising /'prɒmɪsɪŋ/ adj
 真题解析
 ---
 1. A dog's eating habit requires regular training before it is ________ (proper) established.  （2019 天津改）  
-
 答案：
 1. properly  
 
@@ -10291,7 +10216,6 @@ protective /prə'tektɪv/ adj
 真题解析
 ---
 1. He was wearing dark glasses to ________ (保护) his eyes from the sun.  （2006 陕西）  
-
 答案：
 1. protect  
 
@@ -10416,7 +10340,6 @@ proudly /'praʊdli/ adv
 真题解析
 ---
 1. Hans Zhang was ________ (自豪的) of himself for not giving up.   （2015 陕西）  
-
 答案：
 1. proud  
 
@@ -10483,7 +10406,6 @@ Notes: 表示向某人证明某事时应该用prove sth to sb，而不能用prov
 真题解析
 ---
 1. To ________ (证明) his point, Professor Brown mentioned several other experiments which had similar results.  （2013 陕西）  
-
 答案：
 1. prove  
 
@@ -10697,7 +10619,6 @@ publicly /'pʌblɪkli/ adv
 真题解析
 ---
 1. His daughter is always shy ________ public and she never dares to make a speech to the public.  （2001 上海春改）  
-
 答案：
 1. in  
 
@@ -10749,7 +10670,6 @@ publishing /'pʌblɪʃɪŋ/ n [U]
 真题解析
 ---
 1. Sue Wood was only nine when her first short story was ________ (出版).  （2011 陕西）  
-
 答案：
 1. published  
 
@@ -11113,7 +11033,6 @@ purely /'pjʊəli/ adv
 真题解析
 ---
 1. This T-shirt is made of high quality ________ (纯的) cotton.  （2012 陕西）  
-
 答案：
 1. pure  
 
@@ -11341,7 +11260,6 @@ purposely /'pɜːpəsli/ adv
 真题解析
 ---
 1. Encourage your children to try new things, but try not to ________ (逼迫) them too hard.  （2009 全国改）  
-
 答案：
 1. push  
 
@@ -11707,38 +11625,23 @@ purposely /'pɜːpəsli/ adv
 真题解析
 ---
 1. At the last moment, Tom decided to put ________ a new character to make the story seem more likely.  （2013 全国改）  
-
 2. Mary is really good at taking notes in class. She can put _________ almost every word her teacher says.  （2012 全国改）  
-
 3. The exam results will be put _________ on Friday afternoon.  （2011 辽宁改）  
-
 4. I can put up ________ the house being untidy, but I hate it if it’s not clean.  （2011 全国改）  
-
 5. He decided that he would drive all the way home instead of ________ at a hotel for the night.  （2011 浙江）  
 A.putting down  
 B.putting off  
 C.putting on  
 D.putting up  
-
 6. My mother opened the drawer to put _________ the knives and spoons.  （2010 全国改）  
-
 7. Just as Professor Scotti often ________ it, success is ninety-nine percent mental attitude.  （2009 安徽）  
 A.gets  
 B.makes  
 C.puts  
 D.means  
-
 8. Don’t be so discouraged. If you put ________ such feelings, you will do better next time.  （2008 安徽改）  
-
 答案：
-1. in  
-2. down  
-3. up  
-4. with  
-5. D  
-6. away  
-7. C  
-8. away  
+1. in  2. down  3. up  4. with  5. D  6. away  7. C  8. away  
 
 # ***\*puzzle*** n
 英音 'pʌzl     美音 'pʌzl  

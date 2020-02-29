@@ -3257,17 +3257,14 @@ A.You can’t be serious
 B.I’m afraid not  
 C.Good idea  
 D.Well, all right  
-
 2. — Thank you for the flowers.
 — _______. I thought they might cheer you up.   （2013 江苏）  
 A.That’s right  
 B.All right  
 C.I’m all right  
 D.It’s all right  
-
 答案：
-1. D  
-2. D  
+1. D  2. D  
 
 # ***\*all right*** adv
 英音 ɔːl 'raɪt     美音 ɔːl 'raɪt  
@@ -3330,7 +3327,6 @@ A.Not at all
 B.It depends  
 C.All right then  
 D.I don’t care  
-
 答案：
 1. C  
 

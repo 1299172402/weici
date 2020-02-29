@@ -121,12 +121,9 @@ eagerness /'iːgənəs/ n
 真题解析
 ---
 1. The teacher is glad that everyone in her class is________(渴望的) to learn.  （2010 陕西）  
-
 2. Some of us were confident and eager take part in the class activity.________(改错题）  （2018 全国）  
-
 答案：
-1. eager  
-2. eager后加to  
+1. eager  2. eager后加to  
 
 # ***\*eagerness*** n
 英音 'iːgənɪs     美音 'iːɡərnɪs  
@@ -261,7 +258,6 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
 真题解析
 ---
 1. You are old enough to ________ (自谋生路).  （2011 辽宁改）  
-
 答案：
 1. earn / make your own living  
 
@@ -767,7 +763,6 @@ economically /ˌiːkə'nɒmɪkli;ˌekə'nɒmɪkli/ adv
 真题解析
 ---
 1. Small cars are ________ (economic) of fuel, so they have more appeal for consumers.  （2006 上海春改）  
-
 答案：
 1. economical  
 
@@ -1151,7 +1146,6 @@ efficiently /ɪ'fɪʃntli/ adv
 真题解析
 ---
 1. With online shopping increasingly popular, the Internet is seen as a (n) ________ (高效率的) way of reaching target customers.  （2014 福建改）  
-
 答案：
 1. efficient  
 
@@ -1250,7 +1244,6 @@ effortless /'efətləs/ adj
 真题解析
 ---
 1. I've lived in New York and Chicago, but don't like________of them very much.  （2013 山东改）  
-
 答案：
 1. either  
 
@@ -1283,12 +1276,9 @@ effortless /'efətləs/ adj
 真题解析
 ---
 1. A society cannot be successful if it throws tradition away, but it cannot be successful too if we do something to stop progress.  （2013 福建改 改错）  
-
 2. Jane won't join us for dinner tonight and Tom won't ________ .  （2011 全国改）  
-
 答案：
-1. too → either  
-2. either  
+1. too → either  2. either  
 
 # ***\*either*** conj
 英音 'aɪðə(r)     美音 'iðər  
@@ -1323,12 +1313,9 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ---
 1.  — When shall I call, in the morning or afternoon?
  — Any. I'll be in all day.  （2014 江西改 改错）  
-
 2. Either you or one of your students________ (be) to attend the meeting that is due tomorrow.   （2009 湖南改）  
-
 答案：
-1. Any → Either  
-2. is  
+1. Any → Either  2. is  
 
 # ***\*elder*** adj
 英音 'eldə(r)     美音 'eldər  
@@ -1417,7 +1404,6 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ---
 1. The school board is made up of parents who have been elected _________ (make) decisions about school
 affairs.  （2013 上海改）  
-
 答案：
 1. to make  
 
@@ -1623,7 +1609,6 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 真题解析
 ---
 1. I don't think we met before. You're taking me for someone ________ .  （2005年安徽改）  
-
 答案：
 1. else  
 
@@ -2241,12 +2226,9 @@ encouraging /ɪn'kʌrɪdʒɪŋ/ adj
 真题解析
 ---
 1. When things aren't going well, my parents always ________(鼓励) me, telling me not to give up.  （2010 陕西）  
-
-2. My advisor encouraged me ________ (take) a summer course to improve my writing skills.  （）  
-
+2. My advisor encouraged me ________ (take) a summer course to improve my writing skills.  
 答案：
-1. encourage  
-2. to take  
+1. encourage  2. to take  
 
 # ***\*encouragement*** n
 英音 ɪn'kʌrɪdʒmənt     美音 ɪn'kɜːrɪdʒmənt  
@@ -2412,7 +2394,6 @@ encouraging /ɪn'kʌrɪdʒɪŋ/ adj
 真题解析
 ---
 1. Smell the flowers before you go to sleep, and you may just end up ________ sweet dreams.  （2010 江西改）  
-
 答案：
 1. with  
 
@@ -2537,12 +2518,9 @@ energetically /ˌenə'dʒetɪkli/ adv
 真题解析
 ---
 1. My grandfather is as ________ (energy) as a young man and hates sitting around doing nothing all day.  （2003 上海改）  
-
 2. Running is cheap, easy and it's always________(energy).  （2018 全国）  
-
 答案：
-1. energetic  
-2. energetic  
+1. energetic  2. energetic  
 
 # ***\*energy*** n
 英音 'enədʒi     美音 'enərdʒi  
@@ -2588,7 +2566,6 @@ energetically /ˌenə'dʒetɪkli/ adv
 ---
 1. — You are always full of ________ (活力). Can you tell me the secret?
 — Taking plenty of exercise every day.  （2007 福建改）  
-
 答案：
 1. energy  
 
@@ -2791,12 +2768,9 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
 真题解析
 ---
 1. The park was full of people, ________ (enjoy) themselves in the sunshine.  （2015 北京改）  
-
 2. In this seaside resort, you can ________ (享受) all the comfort and convenience of modern tourism.  （2007 山东改）  
-
 答案：
-1. enjoying  
-2. enjoy  
+1. enjoying  2. enjoy  
 
 # ***\*enjoyable*** adj
 英音 ɪn'dʒɔɪəbl     美音 ɪn'dʒɔɪəbl  
@@ -2947,7 +2921,6 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
 ---
 1. Although she did not know Boston well, she made her way ________ (足够容易) to the Home Circle
 Building.  （2006 湖南改）  
-
 答案：
 1. easily enough  
 
@@ -3208,7 +3181,6 @@ enthusiastically /ɪnˌθjuːzi'æstɪkli/ adv
 真题解析
 ---
 1. She devoted herself ________ (entire) to her research and it earned her a good reputation in her field.  （2007 湖北改）  
-
 答案：
 1. entirely  
 
@@ -3237,7 +3209,6 @@ enthusiastically /ɪnˌθjuːzi'æstɪkli/ adv
 真题解析
 ---
 1. Her talent and experience entitled her ________ the respect of her colleagues.  （2003 上海改）  
-
 答案：
 1. to  
 
@@ -3460,7 +3431,6 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 ---
 1. — I'm going to San Francisco for a couple of days.
 — I really _________ (羡慕) you.  （2012 浙江改）  
-
 答案：
 1. envy  
 
@@ -3559,7 +3529,6 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 真题解析
 ---
 1. Boys and girls are e________, and thus they should be treated fairly.  （2006 浙江）  
-
 答案：
 1. equal  
 
@@ -3634,12 +3603,9 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 真题解析
 ---
 1. Men and women must be treated ________ (平等地) in education and employment.   （2014 陕西）  
-
 2. Anyone, whether he is an official or a bus driver, should be ________ (equal) respected.  （2012 福建改）  
-
 答案：
-1. equally  
-2. equally  
+1. equally  2. equally  
 
 # ***\*equate*** vt
 英音 i'kweɪt     美音 i'kweɪt  
@@ -3933,12 +3899,9 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 真题解析
 ---
 1. According to the recent survey, cancer is the leading cause of death among young adults in this area, ________ (特别是) women.  （2003 上海春改）  
-
 2. A sudden stop can be a very frightening experience,________(尤其) if you are travelling at high speed.  （2016 浙江改）  
-
 答案：
-1. especially  
-2. especially / particularly  
+1. especially  2. especially / particularly  
 
 # ***\*essay*** n
 英音 'eseɪ     美音 'eseɪ  
@@ -4037,7 +4000,6 @@ established /ɪ'stæblɪʃt/ adj
 真题解析
 ---
 1. By 1909, Picasso had established himself ________ a painter of great talent in Paris.  （2003 上海春改）  
-
 答案：
 1. as  
 
@@ -4206,7 +4168,6 @@ established /ɪ'stæblɪʃt/ adj
 真题解析
 ---
 1. It is widely acknowledged that students should be ________ (评价) in terms of overall quality.  （2014 福建改）  
-
 答案：
 1. evaluated / assessed  
 
@@ -4296,7 +4257,6 @@ Notes: even可用以强调句子的任何成分，置于被修饰的词语前；
 真题解析
 ---
 1. Much of the power of the trade unions has been lost. _________ (尽管如此), their political infl uence should be very great.  （2006 广东改）  
-
 答案：
 1. Even so  
 
@@ -4434,7 +4394,6 @@ Notes: even可用以强调句子的任何成分，置于被修饰的词语前；
 真题解析
 ---
 1. There was such a long queue for coffee at the interval that we ________ (eventual) gave up.  （2005 上海改）  
-
 答案：
 1. eventually  
 
@@ -4492,16 +4451,13 @@ A.ever
 B.already  
 C.even  
 D.nowadays  
-
 2. I thought she was famous, but none of my friends have ________heard of her.  （2006 广东）  
 A.even  
 B.ever  
 C.just  
 D.never  
-
 答案：
-1. A  
-2. B  
+1. A  2. B  
 
 # ***\*everlasting*** adj
 英音 ˌevə'lɑːstɪŋ     
@@ -4627,7 +4583,6 @@ A.One
 B.No one  
 C.Everyone  
 D.Someone  
-
 答案：
 1. C  
 
@@ -4660,7 +4615,6 @@ D.Someone
 真题解析
 ---
 1. Make sure you've got the passports and tickets and anything before you leave.  （2008 山东改 改错）  
-
 答案：
 1. anything → everything  
 
@@ -4687,7 +4641,6 @@ Notes: everywhere可引导地点状语从句。
 真题解析
 ---
 1. There were piles of newspapers ________(到处) in the house.  （2007 全国）  
-
 答案：
 1. everywhere  
 
@@ -4899,13 +4852,10 @@ evidently /'evɪdəntli/ adv
 ---
 1. — So you gave her your phone?
 — ________ (exact), she said she'd return it to me when she could afford her own.  （2011 全国改）  
-
 2. — People should stop using their cars and start using public transport.
 — ________ (正是). The roads are too crowded as it is.  （2005 浙江改）  
-
 答案：
-1. Exactly  
-2. Exactly  
+1. Exactly  2. Exactly  
 
 # ***\*exaggerate*** v
 英音 ɪɡ'zædʒəreɪt     美音 ɪɡ'zædʒəreɪt  
@@ -5072,7 +5022,6 @@ examiner /ɪɡ'zæmɪnə(r)/ n [C]
 真题解析
 ---
 1. Around 13,500 new jobs were created during the period,________ (exceed) the expected number of 12,000 held by market analysts.  （2018 江苏改）  
-
 答案：
 1. exceeding  
 
@@ -5152,7 +5101,6 @@ exception /ɪk'sepʃn/ n [C] & [U]
 真题解析
 ---
 1. Everything was perfect for the picnic except ________ the weather.  （2008 浙江改）  
-
 答案：
 1. for  
 
@@ -5209,7 +5157,6 @@ exception /ɪk'sepʃn/ n [C] & [U]
 真题解析
 ---
 1. Everything was perfect for the picnic except ________ the weather.   （2008 浙江改）  
-
 答案：
 1. for  
 
@@ -5326,7 +5273,6 @@ exception /ɪk'sepʃn/ n [C] & [U]
 真题解析
 ---
 1. It is illegal for a public official to ask people for gifts or money in exchange ________ favors to them.  （2010 湖北改）  
-
 答案：
 1.  for  
 
@@ -5512,7 +5458,6 @@ exception /ɪk'sepʃn/ n [C] & [U]
 ---
 1. — I'm sorry I stepped outside for a smoke. I was very tired.
 — There is no excuse ________ this while you are on duty.  （2003 北京改）  
-
 答案：
 1. for  
 
@@ -5617,8 +5562,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
 
 真题解析
 ---
-1. After his journey from abroad, Richard Jones returned home, _______ (exhaust).  （）  
-
+1. After his journey from abroad, Richard Jones returned home, _______ (exhaust).  
 答案：
 1. exhausted  
 
@@ -5696,8 +5640,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
 
 真题解析
 ---
-1. Xi'an International ________(展览) Center has attracted many business people.  （）  
-
+1. Xi'an International ________(展览) Center has attracted many business people.  
 答案：
 1. Exhibition  
 
@@ -5750,7 +5693,6 @@ existing /ɪɡ'zɪstɪŋ/ adj [只用于名词前]
 真题解析
 ---
 1. The development of industry has been a gradual process throughout human ________ (exist), from stone tools to modern technology.   （2012 浙江改）  
-
 答案：
 1. existence  
 
@@ -5922,12 +5864,11 @@ expected /ɪk'spektɪd/ adj
 
 真题解析
 ---
-1. Does this meal cost $50? I ________ something far better than this!  （）  
+1. Does this meal cost $50? I ________ something far better than this!  
 A.prefer  
 B.expect  
 C.suggest  
 D.suppose  
-
 答案：
 1. B  
 
@@ -6039,7 +5980,6 @@ D.suppose
 真题解析
 ---
 1. One thousand dollars a month is not a fortune but would help cover my living ________ (开支).  （2007 天津改）  
-
 答案：
 1. expenses  
 
@@ -6129,12 +6069,9 @@ D.suppose
 真题解析
 ---
 1. If you come to visit China, you will _______ (体验到) a culture of amazing depth and variety.   （2015 安徽改）  
-
-2. Jumping out of ________airplane at ten thousand feet is quite ________exciting experience.  （）  
-
+2. Jumping out of ________airplane at ten thousand feet is quite ________exciting experience.  
 答案：
-1. experience  
-2. an; an  
+1. experience  2. an; an  
 
 # ***\*experienced*** adj
 英音 ɪk'spɪəriənst     美音 ɪk'spɪriənst  
@@ -6668,7 +6605,6 @@ expressive /ɪk'spresɪv/ adj
 真题解析
 ---
 1. The ________ (express) on his face told me that he was angry.  （2006 湖北改）  
-
 答案：
 1. expression  
 

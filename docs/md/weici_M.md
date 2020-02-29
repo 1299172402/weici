@@ -495,7 +495,6 @@ Notes: 当majority后不接of短语时，如强调整体，谓语动词用单数
 ---
 1. One-third of the country ________ (be) covered with trees and the majority of the citizens ________ (be) black people. 
   （2011 湖南改）  
-
 答案：
 1. is; are  
 
@@ -676,34 +675,21 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 真题解析
 ---
 1. I love coming here and seeing my family and all the friends I _________ (make) over the years.  （2019 全国）  
-
 2. Caroline doesn’t have a gift for music, but she ________ (弥补) it with hard work.  （2014 全国改）  
-
 3. Sarah made ________ to the airport just in time to catch her plane this morning.  （2012 全国改）  
-
 4. We were all agreed that the cottage would ________ a perfect holiday home for the family.  （2012 江西）  
 A.make  
 B.turn  
 C.take  
 D.have  
-
 5. American Indians ________ (构成) about five percent of the US population.  （2008 浙江改）  
 A.fill up  
 B.bring up  
 D.set up  
-
 6. Everybody in the village likes Jack because he is good at telling and making ________ jokes.  （2005 江苏）  
-
 7. The idea puzzled me so much that I stopped for a few seconds to try to make it ________.  （2003 北京春）  
-
 答案：
-1. have made  
-2. makes up for  
-3. it  
-4. A  
-5. make up  
-6. up  
-7. out  
+1. have made  2. makes up for  3. it  4. A  5. make up  6. up  7. out  
 
 # ***\*make*** n  重难点词汇
 英音 meɪk     美音 meɪk  
@@ -914,7 +900,6 @@ D.set up
 B.serve   
 C.adapt   
 D.construct  
-
 答案：
 1. manage  
 
@@ -1178,12 +1163,9 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 真题解析
 ---
 1. I have always enjoyed all the events you organized and I hope to attend much more in the coming years.  （2016 浙江改 改错）  
-
 2. It is reported that many a new house ________ (be) being built at present in the disaster area.  （2010 陕西改）  
-
 答案：
-1. 去掉much 或 much → many  
-2. is  
+1. 去掉much 或 much → many  2. is  
 
 # ***\*map*** n
 英音 mæp     美音 mæp  
@@ -1826,7 +1808,6 @@ matching /'mætʃɪŋ/ adj [只用于名词前]
 A.connected  
 B.fitted  
 C.equipped  
-
 答案：
 1. matched / matches  
 
@@ -1873,7 +1854,6 @@ C.equipped
 真题解析
 ---
 1. When building ________ (材料) cost more, the price of houses increases.   （2008 陕西）  
-
 答案：
 1. materials  
 
@@ -1994,16 +1974,13 @@ materially /mə'tɪəriəli/ adv
 真题解析
 ---
 1. To make matters bad, now I have to share a room with my younger sister, Maggie.  （2013 浙江 改错）  
-
 2. I can’t say which wine is best — it’s ________ (关乎…的事情) personal taste.  （2007 山东改）  
 A.affair   
 B.event  
 C.matter  
 D.variety  
-
 答案：
-1. bad → worse  
-2. a matter of  
+1. bad → worse  2. a matter of  
 
 # ***\*matter*** vi
 英音 'mætə(r)     美音 'mætər  
@@ -2144,24 +2121,19 @@ A.should
 B.need  
 C.shall  
 D.may  
-
 2. — ________ I take the book out?
 — I’m afraid not.   （2010 四川）  
 A.Will  
 B.May  
 C.Must  
 D.Need  
-
 3. Some people who don’t like to talk much are not necessarily shy; they ________ just be quiet people.   （2009 安徽）  
 A.must  
 B.may  
 C.should  
 D.would  
-
 答案：
-1. D  
-2. B  
-3. B  
+1. D  2. B  3. B  
 
 # ***\*maybe*** adv
 英音 'meɪbi     美音 'meɪbi  
@@ -2361,12 +2333,9 @@ D.would
 真题解析
 ---
 1. I didn't mean ________ (eat) anything but the ice cream looked so good that I couldn't help ________ (try) it.  （2018 天津改）  
-
 2. If you think that treating a woman well means always ________ (get) her permission for things, think again.   （2006 湖南）  
-
 答案：
-1. to eat; trying  
-2. getting  
+1. to eat; trying  2. getting  
 
 # ***\*mean*** adj
 英音 miːn     美音 miːn  
@@ -2483,7 +2452,6 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ---
 1. — Can I come and have a look at your new house?
 — Yes, ________all means!  （2011 浙江改）  
-
 答案：
 1. by  
 
@@ -2545,7 +2513,6 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 真题解析
 ---
 1. It will be a big help if you go to the store and get what we need for dinner. ________ the meanwhile I’ll set the table.  （2013 浙江改）  
-
 答案：
 1. In  
 
@@ -2624,7 +2591,6 @@ measurement /'meʒəmənt/ n
 真题解析
 ---
 1. They finished ________ (测量) that piece of land last week.   （2005 全国）  
-
 答案：
 1. measuring  
 
@@ -2778,7 +2744,6 @@ measurement /'meʒəmənt/ n
 真题解析
 ---
 1. Modern m________ has cured many diseases that used to kill many people.  （2005 浙江）  
-
 答案：
 1. medicine  
 
@@ -3241,7 +3206,6 @@ mentally /'mentəli/ adv
 真题解析
 ---
 1. I hear they’ve promoted Tom, but he didn’t mention ________ (promote) when we talked on the phone.   （2008 江西改）  
-
 答案：
 1. being / having been promoted  
 
@@ -3389,7 +3353,6 @@ mentally /'mentəli/ adv
 真题解析
 ---
 1. I wasn’t blaming anyone; I ________ (mere) said errors like this could be avoided.  （2010 湖北改）  
-
 答案：
 1. merely  
 
@@ -3512,7 +3475,6 @@ mentally /'mentəli/ adv
 真题解析
 ---
 1. There’s a ________(留言) from Karen on the phone.   （2007 全国）  
-
 答案：
 1. message  
 
@@ -3642,7 +3604,6 @@ mentally /'mentəli/ adv
 真题解析
 ---
 1. Modern methods ________ tracking polar bear populations have been employed only since the mid-1980s.  （2019 全国）  
-
 答案：
 1. of/for  
 
@@ -3758,7 +3719,6 @@ mentally /'mentəli/ adv
 真题解析
 ---
 1. It was a relief and I came to a sudden stop just in the middle on the road.  （2017 全国  改错）  
-
 答案：
 1. on → of  
 
@@ -3885,17 +3845,14 @@ A.shall
 B.must  
 C.need  
 D.might  
-
 2. — You needn’t take an umbrella. It isn’t going to rain.
 — Well, I don’t know. It ________ do.  （2013 北京）  
 A.might  
 B.need   
 C. would  
 D. should  
-
 答案：
-1. D  
-2. A  
+1. D  2. A  
 
 # ***\*migrant*** n
 英音 'maɪɡrənt     美音 'maɪɡrənt  
@@ -4214,7 +4171,6 @@ D. should
 真题解析
 ---
 1. He and his wife are ________ the same mind; they both want their son to go to college.  （2007 陕西改）  
-
 答案：
 1. of  
 
@@ -4282,24 +4238,17 @@ A.I wouldn’t mind that
 B.Then we’ll get there quickly  
 C.Let’s call it a day  
 D.It’s not a requirement  
-
 2. — Is Peter coming?
 — No, he ________ (改变了主意) after a phone call at the last minute.  （2015 重庆改）  
-
 3. — Sorry I’m late. I got stuck in traffic.
 — ________. You’re here now. Come in and sit down.  （2012 山东）  
 A.You are welcome   
 B.That’s right  
 C. I have no idea  
 D.Never mind  
-
 4. Why don’t you just ________ (别管闲事) and leave me alone?  （2007 全国改）  
-
 答案：
-1. A  
-2. changed his mind  
-3. D  
-4. mind your own business  
+1. A  2. changed his mind  3. D  4. mind your own business  
 
 # ***\*minded*** adj
 英音 'maɪndɪd     美音 'maɪndɪd  
@@ -4702,7 +4651,6 @@ D.Never mind
 真题解析
 ---
 1. Jenny spends hours in front of the ________ (镜子)!   （2006 全国）  
-
 答案：
 1. mirror  
 
@@ -4869,12 +4817,9 @@ D.Never mind
 真题解析
 ---
 1. Cecily, I shall ________ (想念) our pleasant talks when you leave.  （2015 陕西）  
-
 2. We ________ (未赶上) the last bus and didn’t have any money for taxi, so we had to walk home.  （2006 全国改）  
-
 答案：
-1. miss  
-2. missed  
+1. miss  2. missed  
 
 # ***\*miss*** n
 英音 mɪs     美音 mɪs  
@@ -4932,7 +4877,6 @@ Notes: be missing表示状态；get lost表示动作。
 真题解析
 ---
 1. Police are now searching for a woman who is reported to ________ (miss) since the flood hit the area last Friday.   （2006 山东）  
-
 答案：
 1. have been missing  
 
@@ -5389,7 +5333,6 @@ mixed /mɪkst/ adj
 真题解析
 ---
 1. The ________ (现代) history of Italy dates from 1860.   （2012 全国）  
-
 答案：
 1. modern  
 
@@ -5567,7 +5510,6 @@ mixed /mɪkst/ adj
 ---
 1. — Shall we go out for a walk?
 — Sorry. This is not ________ (适当的时机) to invite me. I am too tired to walk.  （2008 江西改）  
-
 答案：
 1. the right moment  
 
@@ -6050,15 +5992,10 @@ morally  /'mɒrəli/ adv
 真题解析
 ---
 1. If parents have children help with housework, the children will feel needed. ________ (更为重要的是), they will learn to take care of themselves.  （2013 安徽改）  
-
 2. Many people have donated that type of blood; however, the blood bank needs ________ (much).  （2012 北京改）  
-
 3. It took ________ (不止) building supplies to construct these energy-saving houses. It took brains, too.  （2009 浙江改）  
-
 答案：
-1. What’s more  
-2. more  
-3. more than  
+1. What’s more  2. more  3. more than  
 
 # ***\*moreover*** adv
 英音 mɔːr'əʊvə(r)     美音 mɔːr'oʊvər  
@@ -6198,7 +6135,6 @@ morally  /'mɒrəli/ adv
 真题解析
 ---
 1. The children loved their day trip, and they enjoyed the horse ride ________ (much).  （2009 全国改）  
-
 答案：
 1. most  
 
@@ -6303,7 +6239,6 @@ motivated /'məʊtɪveɪtɪd/ adj
 真题解析
 ---
 1. Her motivation ________ writing was a desire for women to get the right to higher education.  （2014 湖北改）  
-
 答案：
 1. for  
 
@@ -6785,7 +6720,6 @@ mov(e)able /'muːvəbl/ adj
 真题解析
 ---
 1. He doesn’t have many furniture in his room — just an old desk.  （2008 陕西改 改错）  
-
 答案：
 1. many → much  
 
@@ -6894,27 +6828,18 @@ mov(e)able /'muːvəbl/ adj
 真题解析
 ---
 1. I wanted to be a teacher because I liked my English teacher too much.  （2019全国  改错）  
-
 2. — What did you do last weekend?
 — Oh, ________ (没什么).  （2014 全国改）  
-
 3. It’s high time you had your hair cut; it’s getting ________. 
   （2009 全国）  
 A.too much long  
 B.much too long  
 C.long too much  
 D.too long much  
-
 4. Usually John would be late for meetings. But this time, ________ (令我非常吃惊的是), he arrived on time.  （2009 北京改）  
-
 5. He doesn’t have many furniture in his room — just an old desk.  （2008 陕西改  改错）  
-
 答案：
-1. too → very / so  
-2. nothing / not much  
-3. B  
-4. much to my surprise  
-5. many → much  
+1. too → very / so  2. nothing / not much  3. B  4. much to my surprise  5. many → much  
 
 # ***\*mud*** n
 英音 mʌd     美音 mʌd  
@@ -7290,26 +7215,17 @@ A.may
 B.can  
 C.must  
 D.dare  
-
 2. You _________ be Carol. You haven’t changed a bit after all these years.  （2015 重庆改）  
-
 3. — I spent two weeks in London last summer.
 — Then you must have visited the British Museum during your stay, ________ you?  （2014 重庆改）  
-
 4. Since nobody gave him any help, he ________ have done the research on his own.  （2013 全国改）  
-
 5. Doctors say that exercise is important for health, but it ________ be regular exercise.  （2010 辽宁）  
 A.can  
 B.will  
 C.must  
 D.may  
-
 答案：
-1. C  
-2. must  
-3. didn’t  
-4. must  
-5. C  
+1. C  2. must  3. didn’t  4. must  5. C  
 
 # ***\*must*** n
 英音 mʌst     美音 mʌst  
@@ -7380,7 +7296,6 @@ D.may
 真题解析
 ---
 1. This picture often brings back to me many happy memories of your high school days.  （2017 全国  改错）  
-
 答案：
 1. your → my  
 
@@ -7405,7 +7320,6 @@ D.may
 真题解析
 ---
 1. “She thought I had hurt ________ (I),” says Pahlsson.  （2017 浙江）  
-
 答案：
 1. myself  
 

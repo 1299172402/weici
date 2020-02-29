@@ -397,7 +397,6 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 真题解析
 ---
 1. Everyone thought he was j________, but in fact he was completely serious.  （2006 浙江）  
-
 答案：
 1. joking  
 
@@ -832,17 +831,14 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 真题解析
 ---
 1. ________ (正如) a single word can change the meaning of a sentence, a single sentence can change the meaning of a paragraph.  （2015 浙江改）  
-
 2. If you can't come tomorrow, we'll ________ have to hold the meeting next week. 
   （2004 全国）  
 A.yet  
 B.even  
 C.rather  
 D.just  
-
 答案：
-1. Just as  
-2. D  
+1. Just as  2. D  
 
 # ***\*just*** adj
 英音 dʒʌst     美音 dʒʌst  

@@ -152,7 +152,6 @@
 真题解析
 ---
 1. The accident caused some ________ (损坏) to my car, but it’s nothing serious.  （2013 辽宁改）  
-
 答案：
 1. damage  
 
@@ -1600,7 +1599,6 @@ A.differ
 B.shrink   
 C.fail   
 D.decline  
-
 答案：
 1. D  
 
@@ -1877,7 +1875,6 @@ deepen /'diːpən/ v
 真题解析
 ---
 1. I have been _______(深深地) impressed by a number of experiences in her life.   （2010 陕西）  
-
 答案：
 1. deeply  
 
@@ -2178,7 +2175,6 @@ deepen /'diːpən/ v
 真题解析
 ---
 1. The World Health Organization gave a warning to the public without any ________ (延误) when the virus of H1N1 hit Mexico in April, 2009.   （2009 福建改）  
-
 答案：
 1. delay   
 
@@ -2256,7 +2252,6 @@ A.accidentally
 B.carelessly  
 C.deliberately  
 D.clumsily  
-
 答案：
 1. deliberately  
 
@@ -2322,7 +2317,6 @@ D.clumsily
 真题解析
 ---
 1. Honestly I thought the fried chicken was ________ (可口的).   （2006 陕西）  
-
 答案：
 1. delicious  
 
@@ -2550,7 +2544,6 @@ Notes: 不能用very修饰delighted。
 真题解析
 ---
 1. The Harry Potter books are quite popular; they are ________ great demand  in this city.   （2012 全国改）  
-
 答案：
 1. in  
 
@@ -2682,7 +2675,6 @@ A.deny
 B.refuse  
 C.reject  
 D.decline  
-
 答案：
 1. deny  
 
@@ -2809,12 +2801,9 @@ A.Don’t mention it
 B.It doesn’t matter  
 C.Forget it  
 D.It depends  
-
 2. Don’t always d________ on others. You should learn to rely on yourself.  （2007 浙江）  
-
 答案：
-1. D  
-2. depend  
+1. D  2. depend  
 
 # ***\*dependent*** adj
 英音 dɪ'pendənt     美音 dɪ'pendənt  
@@ -3003,7 +2992,6 @@ depressing /dɪ'presɪŋ/ adj
 真题解析
 ---
 1. On June 27, 2012, the Jiaolong reached a ________ (深度) of 7,062 meters in the Pacific Ocean.  （2014 陕西）  
-
 答案：
 1. depth  
 
@@ -3088,7 +3076,6 @@ descriptive /dɪ'skrɪptɪv/ adj
 真题解析
 ---
 1. The book gives a short ________ (描述) of the city.   （2007 全国）  
-
 答案：
 1. description  
 
@@ -3427,7 +3414,6 @@ A.without
 B.despite  
 C.in  
 D.to  
-
 答案：
 1. B  
 
@@ -3540,7 +3526,6 @@ detailed /'diːteɪld/ adj
 真题解析
 ---
 1. We’d better discuss everything _______ (详细地) before we work out the plan.   （2011 江苏改）  
-
 答案：
 1. in detail  
 
@@ -3729,7 +3714,6 @@ developing /dɪ'veləpɪŋ/ adj
 真题解析
 ---
 1. Hopefully in 2025 we will no longer be e-mailing each other, for we_______(develop) more convenient electronic communication tools by then.  （2018 江苏改）  
-
 答案：
 1. will have developed  
 
@@ -3979,7 +3963,6 @@ developing /dɪ'veləpɪŋ/ adj
 真题解析
 ---
 1. The English teacher gives the class a ________ (听写) almost every day.   （2008 全国）  
-
 答案：
 1. dictation  
 
@@ -4077,12 +4060,9 @@ developing /dɪ'veləpɪŋ/ adj
 真题解析
 ---
 1. You may drink, smoke, be overweight and still reduce your risk of _____ (die) early by running.   （2018 全国）  
-
-2. Although the wind has died ________, the rain remains steady, so you still need a raincoat.  （）  
-
+2. Although the wind has died ________, the rain remains steady, so you still need a raincoat.  
 答案：
-1. dying  
-2. away / down  
+1. dying  2. away / down  
 
 # ***\*diet*** vi
 英音 'daɪət     美音 'daɪət  
@@ -4233,12 +4213,9 @@ differently /'dɪfrəntli/ adv
 真题解析
 ---
 1. I enjoyed studying difference kinds of cars and planes. (改错)  （2017 全国）  
-
-2. The way he did it was different _______ what we were used to.  （）  
-
+2. The way he did it was different _______ what we were used to.  
 答案：
-1. difference → different  
-2. from  
+1. difference → different  2. from  
 
 # ***\*differentiate*** v
 英音 ˌdɪfə'renʃieɪt     美音 ˌdɪfə'renʃieɪt  
@@ -4338,7 +4315,6 @@ difficultly /'dɪfɪkəlt/ adv
 真题解析
 ---
 1. You can’t imagine what difficulty we had ________ (walk) home in the snowstorm.  （2007 辽宁改）  
-
 答案：
 1. walking  
 
@@ -4972,7 +4948,6 @@ diplomat /'dɪpləmæt/ n [C]
 真题解析
 ---
 1. They failed to reach a settlement, because they ________ (不同意) too much with each other.   （2014 陕西）  
-
 答案：
 1. disagreed  
 
@@ -5022,7 +4997,6 @@ disappearance /ˌdɪsə'pɪərəns/ n
 真题解析
 ---
 1. The symptoms of flu may be unpleasant, but they ________ (消失) within a few days.  （2011 陕西）  
-
 答案：
 1. disappear  
 
@@ -5559,7 +5533,6 @@ discoverer /dɪ'skʌvərə(r)/ n
 真题解析
 ---
 1. Making Chinese______ (dish) is seen as especially troublesome.   （2018 浙江）  
-
 答案：
 1. dishes  
 
@@ -5915,7 +5888,6 @@ discoverer /dɪ'skʌvərə(r)/ n
 真题解析
 ---
 1. The faces of four famous American presidents on Mount Rushmore can be seen ________ a distance of 60 miles.  （2004 全国改）  
-
 答案：
 1. at / from  
 
@@ -6258,7 +6230,6 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 真题解析
 ---
 1. There is much work to do, so we’ll have to ________ (分) it between us.  （2008 陕西）  
-
 答案：
 1. divide  
 
@@ -6400,7 +6371,6 @@ A.doesn’t it
 B.does it  
 C.don’t they  
 D.do they  
-
 答案：
 1. B  
 
@@ -6521,12 +6491,9 @@ A.didn’t
 B.don’t  
 C.weren’t  
 D. haven’t  
-
 2. During the war there was a serious lack of food. It was not unusual that even the wealthy families had to do ________ bread for days.  （2009 湖北改）  
-
 答案：
-1. B  
-2. without  
+1. B  2. without  
 
 # ***\*dock*** n
 英音 dɒk     美音 dɑːk  
@@ -7177,7 +7144,6 @@ Notes: 从首都去边远地区、从城市去农村、从北方去南方、从�
 真题解析
 ---
 1. I’m happy that my 80-year-old grandma has learned how to ________ (下载) from the Internet.  （2014 陕西）  
-
 答案：
 1. download  
 
@@ -7207,7 +7173,6 @@ Notes: 从首都去边远地区、从城市去农村、从北方去南方、从�
 真题解析
 ---
 1. Rose rushed ________ (向楼下) to answer the door.   （2008 全国）  
-
 答案：
 1. downstairs  
 
@@ -7333,8 +7298,7 @@ Notes: 从首都去边远地区、从城市去农村、从北方去南方、从�
 
 真题解析
 ---
-1. She went to the bookstore and bought dozens ________ books.  （）  
-
+1. She went to the bookstore and bought dozens ________ books.  
 答案：
 1. of  
 
@@ -7726,12 +7690,9 @@ dreamer /'driːmə(r)/ n
 真题解析
 ---
 1. My uncle says that he never dreams becoming rich in a short period of time.  （2016 全国 改错）  
-
 2. Owning a house of their own is a _______ (梦想) for the young couple.   （2009 陕西）  
-
 答案：
-1. dreams 后加 of  
-2. dream  
+1. dreams 后加 of  2. dream  
 
 # ***\*dreamland*** n
 英音 'driːmlænd     
@@ -8098,7 +8059,6 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
 真题解析
 ---
 1. Joe Jones, the eldest of the eight children, had to ________ （退学）high school at the age of 16 to help his father on the farm.  （2004 上海春改）  
-
 答案：
 1. drop out of  
 

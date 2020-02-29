@@ -718,12 +718,11 @@ unexpectedly /ˌʌnɪk'spektɪdli/ adv
 
 真题解析
 ---
-1. When climbing the hill, John was knocked unconscious by an _________ rolling stone.  （）  
+1. When climbing the hill, John was knocked unconscious by an _________ rolling stone.  
 A.untouched  
 B.unexpected  
 C.unfamiliar  
 D.unbelievable  
-
 答案：
 1. B  
 
@@ -1105,19 +1104,14 @@ A.if
 B.unless  
 C.once  
 D.when  
-
 2. You will never gain success if you are fully devoted to your work.  （2014 湖南改 改错）  
-
 3. All the photographs in this book,________stated otherwise, date from the 1950s.  （2012 陕 西）  
 A.unless  
 B.until  
 C.once  
 D. if  
-
 答案：
-1. B  
-2. if → unless  
-3. A  
+1. B  2. if → unless  3. A  
 
 # ***\*unlike*** prep
 英音 ˌʌn'laɪk     美音 ˌʌn'laɪk  
@@ -1319,23 +1313,18 @@ Notes: not until 放在句首时，主句的主语和谓语通常要用部分倒
 真题解析
 ---
 1. Bach died in 1750, but it was not until the early 19th century _________ his musical gift was fully recognized.  （2015 重庆改）  
-
 2. Not until he retired from teaching three years ago _________having a holiday abroad.  （2012 辽宁）  
 A.he had considered  
 B.had he considered  
 C.he considered  
 D.did he consider  
-
-3. It is difficult for us to learn a lesson in life________we’ve actually had that lesson.  （）  
+3. It is difficult for us to learn a lesson in life________we’ve actually had that lesson.  
 A.until   
 B.after  
 C.since  
 D.when  
-
 答案：
-1. that  
-2. D  
-3. A  
+1. that  2. D  3. A  
 
 # ***\*until*** prep
 英音 ən'tɪl     美音 ən'tɪl  
@@ -1378,23 +1367,18 @@ Notes: not until 放在句首时，主句的主语和谓语通常要用部分倒
 真题解析
 ---
 1. Bach died in 1750, but it was not until the early 19th century _________ his musical gift was fully recognized.  （2015 重庆改）  
-
 2. Not until he retired from teaching three years ago _________having a holiday abroad.  （2012 辽宁）  
 A.he had considered  
 B.had he considered  
 C.he considered  
 D.did he consider  
-
-3. It is difficult for us to learn a lesson in life________we’ve actually had that lesson.  （）  
+3. It is difficult for us to learn a lesson in life________we’ve actually had that lesson.  
 A.until   
 B.after  
 C.since  
 D.when  
-
 答案：
-1. that  
-2. D  
-3. A  
+1. that  2. D  3. A  
 
 # ***\*unusual*** adj
 英音 ʌn'juːʒuəl     美音 ʌn'juːʒuəl  
@@ -1556,13 +1540,10 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 ---
 1. — Hi, John. Are you busy?
 — No. _________(怎么了)? (up)  （2015 浙江改）  
-
 2. — What shall we do tonight then?
 — _________ (由你决定)— whatever you want.  （2012 全国改）  
-
 答案：
-1. What’s up  
-2. It’s up to you / Up to you  
+1. What’s up  2. It’s up to you / Up to you  
 
 # ***\*up*** n
 英音 ʌp     美音 ʌp  
@@ -1965,7 +1946,6 @@ upsetting /ʌp'setɪŋ/ adj
 真题解析
 ---
 1. Our neighbors gave_________ (we) a baby bird yesterday that hurt itself when it fell from its nest.  （2008 湖南改）  
-
 答案：
 1. us  
 
@@ -2111,15 +2091,10 @@ upsetting /ʌp'setɪŋ/ adj
 真题解析
 ---
 1. Every day he makes sure that fresh vegetables and high quality oil are using for cooking.  （2016 全国 改错）  
-
 2. People probably cooked their food in large pots, ________ (use) twigs (树枝) to remove it.  （2016 全国）  
-
 3. It is no use ________(complain) without taking action.   （2011 上海）  
-
 答案：
-1. using → used  
-2. using  
-3. complaining  
+1. using → used  2. using  3. complaining  
 
 # ***\*used*** adj
 英音 juːst     美音 juːst  
@@ -2247,7 +2222,6 @@ usefully /'juːsfəli/ adv
 真题解析
 ---
 1. I u________ go to bed at 10:00 p.m., but I stayed up till 11:00 last night.  （2008 浙江）  
-
 答案：
 1. usually  
 

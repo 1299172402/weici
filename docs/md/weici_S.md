@@ -221,7 +221,6 @@
 真题解析
 ---
 1. For your own _______ (安全), please keep away from the tiger cage.  （2015 陕西）  
-
 答案：
 1. safety  
 
@@ -722,7 +721,6 @@
 真题解析
 ---
 1. I usually just have a __________ (三明治) for lunch.  （2008 全国）  
-
 答案：
 1. sandwich  
 
@@ -971,7 +969,6 @@ satisfying /'sætɪsfaɪɪŋ/ adj
 真题解析
 ---
 1. Have a good rest; you need to ________ (保存) your energy for the tennis match this afternoon.  （2001 京蒙皖春改）  
-
 答案：
 1. save  
 
@@ -1070,24 +1067,19 @@ Notes: it is said that ... 常可与be said to ... 互换。
 真题解析
 ---
 1. It is often _________ (say) that human beings are naturally equipped to speak.    （2009 全国改）  
-
 2. The fact that she never apologized _________ a lot about what kind of person she is.   （2008 山东）  
 A.says   
 B.talks   
 C.appears   
 D.declares  
-
 3. — What should I do first?
 — The instructions _________ that you should mix flour with water carefully first.   （2006 浙江）  
 A.go   
 B.tell   
 C.write   
 D.say  
-
 答案：
-1. said   
-2. A  
-3. D  
+1. said   2. A  3. D  
 
 # ***\*saying*** n
 英音 'seɪɪŋ     美音 'seɪɪŋ  
@@ -1131,7 +1123,6 @@ A.as the saying goes old
 B.goes as the old saying  
 C.as the old saying goes  
 D.goes as old the saying  
-
 答案：
 1. C  
 
@@ -1196,7 +1187,6 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 真题解析
 ---
 1. Tony is _________(浏览) the guidebook, looking for information about Japan, where he will travel soon.   （2003 上海）  
-
 答案：
 1. scanning  
 
@@ -2375,13 +2365,10 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 真题解析
 ---
 1. Ladies and gentlemen, please remain __________ (seat) until the plane has come to a complete stop.   （2009 四川改）  
-
 2. — Can those _________ (seat) at the back of the classroom hear me?
 — No problem.   （2008 福建改）  
-
 答案：
-1. seated   
-2. seated  
+1. seated   2. seated  
 
 # ***\*seaweed*** n
 英音 'siːwiːd     美音 'siːwiːd  
@@ -2856,25 +2843,14 @@ secretly /'siːkrətli/ adv
 真题解析
 ---
 1. When walking down the street, I came across David, whom I _________ (not see) for years.  （2016 天津改）  
-
 2. Back from his two-year medical service in Africa, Dr. Lee was very happy to see his mother _________  (take) good care of at home.   （2015 陕西改）  
-
 3. If I ________ (没看到) it with my own eyes, I wouldn’t have believed it.
   （2015 北京改）  
-
 4. I’m so glad you’ve come here to see _______ this matter in person.   （2012 湖北改）  
-
 5. ________(see) that she was going off to sleep, I asked if she’d like that little doll on her bed.  （2008 北京改）  
-
-6. John is leaving for London tomorrow and I will see him _________ at the airport.  （）  
-
+6. John is leaving for London tomorrow and I will see him _________ at the airport.  
 答案：
-1. hadn’t seen  
-2. (being) taken  
-3. hadn’t seen  
-4. to  
-5. Seeing  
-6. off  
+1. hadn’t seen  2. (being) taken  3. hadn’t seen  4. to  5. Seeing  6. off  
 
 # ***\*seed*** n
 英音 siːd     美音 siːd  
@@ -3082,16 +3058,13 @@ Notes: seldom置于句首表示强调时，句子常用部分倒装语序。
 真题解析
 ---
 1. Henry was away from home for quite a bit and ________ saw his family.  （2014 全国）  
-
 2. We laugh at jokes, but seldom _________ about how they work.   （2010 四川）  
 A.we think  
 B.think we  
 C.we do think  
 D.do we think  
-
 答案：
-1. seldom / rarely  
-2. D  
+1. seldom / rarely  2. D  
 
 # ***\*select*** vt
 英音 sɪ'lekt     美音 sɪ'lekt  
@@ -3598,16 +3571,11 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 ---
 1. See, your computer has broken down again! It doesn’t make sense ________  (buy) the cheapest brand of computer just to save a few dollars. 
   （2015 天津改）  
-
 2. Dogs have a very good ________(嗅觉) and are often used to search for survivors in an earthquake.
   （2008 浙江改）  
-
 3. What’s the ________ (意义) of having a public open space where you can’t eat, drink or even simply hang out for a while?   （2008 福建改）  
-
 答案：
-1. to buy  
-2. sense of smell  
-3. sense / point  
+1. to buy  2. sense of smell  3. sense / point  
 
 # ***\*sense*** vt  重难点词汇
 英音 sens     美音 sens  
@@ -3700,7 +3668,6 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 真题解析
 ---
 1. Compared with his sister, Jerry is even more sensitive ________, and more easily troubled by, emotional and relationship problems.   （2009 江苏改）  
-
 答案：
 1. to  
 
@@ -3849,13 +3816,10 @@ separately /'sepərətli/ adv
 
 真题解析
 ---
-1. The little girl got _________ (分开) from the group in the dark.  （）  
-
-2. Hospital staff burst into cheers after doctors completed a 20-hour operation to have ________ one-year-old twins at the head.   （）  
-
+1. The little girl got _________ (分开) from the group in the dark.  
+2. Hospital staff burst into cheers after doctors completed a 20-hour operation to have ________ one-year-old twins at the head.   
 答案：
-1. separated  
-2. separated  
+1. separated  2. separated  
 
 # ***\*separation*** n
 英音 ˌsepə'reɪʃn     美音 ˌsepə'reɪʃn  
@@ -3973,7 +3937,6 @@ separately /'sepərətli/ adv
 真题解析
 ---
 1. He was wearing a very ________ (严肃的) expression and I knew something was wrong.  （2012 陕西）  
-
 答案：
 1. serious  
 
@@ -4002,8 +3965,7 @@ separately /'sepərətli/ adv
 
 真题解析
 ---
-1. He began to take political science ________ (serious) only when he left school.  （）  
-
+1. He began to take political science ________ (serious) only when he left school.  
 答案：
 1. seriously  
 
@@ -4326,21 +4288,12 @@ separately /'sepərətli/ adv
 真题解析
 ---
 1. Ralph W. Emerson would always set ________ new ideas that occurred to him.  （2014 陕西改）  
-
 2. Traditionally, college students hold a graduation ceremony to encourage themselves before they set ________ on their life journey.  （2013 安徽改）  
-
 3. In much of the animal world, night is the time set ________ for sleep — pure and simple.  （2013 湖北改）  
-
 4. Armed with the information you have gathered, you can set about ________ (prepare) your business plan.   （2012 浙江改）  
-
 5. For all three years I have been working for others. I’m hoping I’ll set ________ my own business someday.  （2006 江西改）  
-
 答案：
-1. down  
-2. off  
-3. aside  
-4. preparing  
-5. up  
+1. down  2. off  3. aside  4. preparing  5. up  
 
 # ***\*set*** n  重难点词汇
 英音 set     美音 set  
@@ -4850,33 +4803,26 @@ A.might
 B.could   
 C.shall   
 D.will  
-
 2. — Will you read me a story, Mummy?
 — OK. You ________ have one if you go to bed as soon as possible.  （2011 陕西）  
 A.might   
 B.must   
 C.could   
 D.shall  
-
 3. — What does the sign over there read?
 — “No person ________ smoke or carry a lighted cigarette, cigar or pipe in this area.”  （2007 四川）  
 A.will   
 B.may   
 C.shall   
 D.must  
-
 4. — What’s the name?
 — Khulaifi. ________ I spell that for you?  （2006 北京）  
 A.Shall   
 B.Would   
 C.Can   
 D.Might  
-
 答案：
-1. C  
-2. D  
-3. C  
-4. A  
+1. C  2. D  3. C  4. A  
 
 # ***\*shallow*** adj
 英音 'ʃæləʊ     美音 'ʃæloʊ  
@@ -5039,12 +4985,9 @@ shameless /'ʃeɪmləs/ adj
 真题解析
 ---
 1. Tom always goes jogging in the morning and he usually does push-ups too to stay ________ shape.  （2014 江苏改）  
-
-2. You have been sitting on my hat and now it is badly ________ (变形).  （）  
-
+2. You have been sitting on my hat and now it is badly ________ (变形).  
 答案：
-1. in  
-2. out of shape  
+1. in  2. out of shape  
 
 # ***\*share*** n  重难点词汇
 英音 ʃeə(r)     美音 ʃer  
@@ -5124,7 +5067,6 @@ shameless /'ʃeɪmləs/ adj
 真题解析
 ---
 1. The two friends ________ (分享) all that they had when they were studying abroad.  （2005 全国）  
-
 答案：
 1. shared  
 
@@ -5229,12 +5171,9 @@ sharpen  v
 真题解析
 ---
 1. Hardly had Sabrina finished her words when Albert said ________ (sharp), “Don’t be so mean,” pointing a finger of warning at her.  （2014 湖北改）  
-
 2. Nowadays, there is a ________ (急剧的) increase in children’s creativity, for they are greatly encouraged to develop their talents.    （2011 福建改）  
-
 答案：
-1. sharply  
-2. sharp  
+1. sharply  2. sharp  
 
 # ***\*sharpen*** vt
 英音 'ʃɑːpən     美音 'ʃɑːrpən  
@@ -5286,7 +5225,6 @@ sharpen  v
 真题解析
 ---
 1. I washed and ________ (剃须), then hurried out of the house.  （2009 全国）  
-
 答案：
 1. shaved  
 
@@ -5505,7 +5443,6 @@ sharpen  v
 真题解析
 ---
 1. Some parents are just too protective. They want to shelter their kids  ________ every kind of danger, real or imagined.  （2009 湖北改）  
-
 答案：
 1. from  
 
@@ -6017,13 +5954,10 @@ shooting /'ʃuːtɪŋ/ n
 真题解析
 ---
 1. That young man is honest, cooperative, always there when you need his help. ________ (简言之), he’s reliable.  （2016 浙江改）  
-
 2. — Why didn’t you buy the camera you had longed for?
-— I had planned to, but I was £50 ________ (缺少的).  （）  
-
+— I had planned to, but I was £50 ________ (缺少的).  
 答案：
-1. In short / In a word  
-2. short  
+1. In short / In a word  2. short  
 
 # ***\*shortage*** n
 英音 'ʃɔːtɪdʒ     美音 'ʃɔːrtɪdʒ  
@@ -6223,29 +6157,20 @@ A.must
 B.can  
 C.would  
 D.should  
-
 2. It was sad to me that they, so poor themselves, ________ bring me food.  （2014 江苏）  
 A.might  
 B.would  
 C.should  
 D.could  
-
 3. I ________ (本不应该看) that movie — it’ll give me horrible dreams.  （2010 山东改）  
-
 4. What do you mean, there are only ten tickets? There ________ (应该) be twelve.  （2009 全国）  
-
 5. This printer is of good quality. If it ________ break down within the first year, we would repair it at our expense.  （2009 天津）  
 A.would   
 B.should   
 C.could   
 D.might  
-
 答案：
-1. D  
-2. C  
-3. shouldn’t have watched  
-4. should  
-5. B  
+1. D  2. C  3. shouldn’t have watched  4. should  5. B  
 
 # ***\*shoulder*** vt
 英音 'ʃəʊldə(r)     美音 'ʃoʊldər  
@@ -6945,12 +6870,9 @@ shyly /ʃaɪli/ adv
 真题解析
 ---
 1. At the railway station, the mother waved goodbye to her daughter until the train was _______(看不见).  （2008 天津改）  
-
-2. The practice of hanging clothes across the street is a common ________ (景象) in many parts of the city.  （）  
-
+2. The practice of hanging clothes across the street is a common ________ (景象) in many parts of the city.  
 答案：
-1. out of sight  
-2. sight  
+1. out of sight  2. sight  
 
 # ***\*sighting*** n
 英音 'saɪtɪŋ     美音 'saɪtɪŋ  
@@ -7072,7 +6994,6 @@ shyly /ʃaɪli/ adv
 真题解析
 ---
 1. In our class, when the bell rang and the teacher closed his book, it was a signal ________ everyone to stand up.  （2009 湖北改）  
-
 答案：
 1. for  
 
@@ -7097,7 +7018,6 @@ shyly /ʃaɪli/ adv
 真题解析
 ---
 1. In order not to be heard, she pointed her finger upwards to ________ (示意) that someone was moving about upstairs.   （2015 湖北改）  
-
 答案：
 1. signal  
 
@@ -7444,8 +7364,7 @@ similarly /'sɪmələli/ adv
 
 真题解析
 ---
-1. I am surprised that you should have been fooled by such a(n) ________ (简单的) trick.  （）  
-
+1. I am surprised that you should have been fooled by such a(n) ________ (简单的) trick.  
 答案：
 1. simple  
 
@@ -7465,7 +7384,6 @@ similarly /'sɪmələli/ adv
 真题解析
 ---
 1. While intelligent people can often ________ (simple) the complex, a fool is more likely to complicate the simple.  （2013 湖北）  
-
 答案：
 1. simplify  
 
@@ -7504,7 +7422,6 @@ similarly /'sɪmələli/ adv
 真题解析
 ---
 1. Running a company is not _______ (simple) a matter of hiring people — they also need to be trained.  （2008 浙江改）  
-
 答案：
 1. simply  
 
@@ -7586,7 +7503,6 @@ similarly /'sɪmələli/ adv
 真题解析
 ---
 1. I have heard a lot of good things about you ________ I came back from abroad.  （2013 陕西改）  
-
 答案：
 1. since  
 
@@ -7752,7 +7668,6 @@ singing /'sɪŋɪŋ/ n [U]
 真题解析
 ---
 1. Fred entered without knocking and, very out of breath, sank ________ a chair.  （2008 安徽改）  
-
 答案：
 1. into  
 
@@ -7935,8 +7850,7 @@ singing /'sɪŋɪŋ/ n [U]
 
 真题解析
 ---
-1. School children must be taught how to deal with dangerous _______(情形).  （）  
-
+1. School children must be taught how to deal with dangerous _______(情形).  
 答案：
 1. situations  
 
@@ -8115,7 +8029,6 @@ skilfully /'skɪlfəli/ adv
 ---
 1. — Hi, Mark. How was the musical evening?
 — Excellent! Alex and Andy performed ________ (skillful) and they won the first prize.  （2008 安徽改）  
-
 答案：
 1. skillfully  
 
@@ -8204,7 +8117,6 @@ skillfully /'skɪlfʊlɪ/ adv
 ---
 1. — Hi, Mark. How was the musical evening?
 — Excellent! Alex and Andy performed ________ (skillful)and they won the first prize.   （2008 安徽改）  
-
 答案：
 1. skillfully  
 
@@ -8636,8 +8548,7 @@ sleepless /'sliːpləs/ adj
 
 真题解析
 ---
-1. Although I can walk about, there is still a ________ (轻微的) pain in my leg.  （）  
-
+1. Although I can walk about, there is still a ________ (轻微的) pain in my leg.  
 答案：
 1. slight  
 
@@ -8660,8 +8571,7 @@ sleepless /'sliːpləs/ adj
 
 真题解析
 ---
-1. It is _______ (slight) colder today than it was yesterday.  （）  
-
+1. It is _______ (slight) colder today than it was yesterday.  
 答案：
 1. slightly  
 
@@ -8765,7 +8675,6 @@ sleepless /'sliːpləs/ adj
 真题解析
 ---
 1. Seeing the big crowd coming towards him, he started to run down the hill, but ________ (滑倒) and went down on his hands and knees in the melting snow.  （2014 湖北改）  
-
 答案：
 1. slipped  
 
@@ -9229,7 +9138,6 @@ smoothly /'smuːðli/ adv
 真题解析
 ---
 1. Everything seemed to be going ________ (smooth) for the first two days after I moved to New York.  （2013 辽宁改）  
-
 答案：
 1. smoothly  
 
@@ -9486,16 +9394,11 @@ smoothly /'smuːðli/ adv
 真题解析
 ---
 1. Cathy had quit her job when her son was born ________ (为的是) she could stay home and raise her family.  （2014 浙江改）  
-
 2. Some animals carry seeds from one place to another, ________ (所以) plants can spread to new places.  （2014 北京改）  
-
 3. — Linda didn’t invite us to the party.
 — ________ (那又怎样)? I don’t care.  （2011 江苏改）  
-
 答案：
-1. so that / in order that  
-2. so  
-3. So what  
+1. so that / in order that  2. so  3. So what  
 
 # ***\*so*** adv  重难点词汇
 英音 səʊ     美音 soʊ  
@@ -9608,26 +9511,17 @@ Notes: 在so ... that 引导的复合句中，so位于句首时，主句部分�
 ---
 1. — Why, this is nothing but common vegetable soup!
 — ________ it is, madam. It’s our soup of the day.  （2013 全国改）  
-
 2. — I don’t know about you, but I’m sick and tired of this weather.
 — ________ (我也是). I can’t stand all this rain.  （2012山东改）  
-
 3. So sudden _________ that the enemy had no time to escape.  （2009 山东）  
 A.did the attack  
 B.the attack did  
 C.was the attack  
 D.the attack was  
-
 4. Some of you may have finished unit one. ________ (如果是这样), you can go on to unit two.   （2009 江西改）  
-
 5. I haven’t seen Ann for ________ long that I’ve forgotten what she looks like.  （2008 四川改）  
-
 答案：
-1. So  
-2. So am I  
-3. C  
-4. If so  
-5. so  
+1. So  2. So am I  3. C  4. If so  5. so  
 
 # ***\*soap*** n
 英音 səʊp     美音 soʊp  
@@ -9989,7 +9883,6 @@ A.solid
 B.fierce  
 C.severe  
 D.potential  
-
 答案：
 1. A  
 
@@ -10055,7 +9948,6 @@ D.potential
 真题解析
 ---
 1. The school advisors help you talk through your problems but they don’t give you any direct ________ (solve).  （2010 浙江改）  
-
 答案：
 1. solution  
 
@@ -10134,12 +10026,11 @@ D.potential
 
 真题解析
 ---
-1. Don’t worry if you can’t come to _________ party — I’ll save ________ cake for you.  （）  
+1. Don’t worry if you can’t come to _________ party — I’ll save ________ cake for you.  
 A.the; some  
 B.a; much  
 C.the; any  
 D.a; little  
-
 答案：
 1. A  
 
@@ -10294,7 +10185,6 @@ A.something
 B.anything  
 C.nothing  
 D.everything  
-
 答案：
 1. A  
 
@@ -10337,7 +10227,6 @@ Notes: something, anything, nothing, somebody,anybody, nobody, everyone, anyone,
 ---
 1. — Have you figured out how much the trip will cost?
 — $4,000, or something ________ like that.  （2012 福建改）  
-
 答案：
 1. like  
 
@@ -10373,7 +10262,6 @@ Notes: something, anything, nothing, somebody,anybody, nobody, everyone, anyone,
 真题解析
 ---
 1. Father ________ (有时) goes to the gym with us although he dislikes going there.  （2010 湖南改）  
-
 答案：
 1. sometimes  
 
@@ -10532,15 +10420,10 @@ A.had Mo Yan
 B.Mo Yan had  
 C.has Mo Yan  
 D.Mo Yan has  
-
 2. He had no sooner finished his speech ________ the students started cheering.  （2011 辽宁改）  
-
 3. Just use this room for the time being, and we’ll offer you a larger one ________ (一…就) it becomes available.  （2010 安徽改）  
-
 答案：
-1. A  
-2. than  
-3. as soon as  
+1. A  2. than  3. as soon as  
 
 # ***\*sophisticated*** adj
 英音 sə'fɪstɪkeɪtɪd     美音 sə'fɪstɪkeɪtɪd  
@@ -10845,7 +10728,6 @@ D.Mo Yan has
 ---
 1. — The movie starts at 8:30, and we can have a quick bite before we go.
 — Sound great. See you at 8:10.  （2016 浙江改 改错）  
-
 答案：
 1. Sound改为Sounds  
 
@@ -10985,7 +10867,6 @@ A.source
 B.sense  
 C.result  
 D.root  
-
 答案：
 1. A  
 
@@ -11414,8 +11295,7 @@ Notes: in space表示“在太空中”，space前不用冠词。
 
 真题解析
 ---
-1. They started off late and got to the airport with minutes to ________ (剩下).  （）  
-
+1. They started off late and got to the airport with minutes to ________ (剩下).  
 答案：
 1. spare  
 
@@ -11475,7 +11355,6 @@ A.Who are you?
 B.I’m Wang.  
 C.Speaking.  
 D.Are you John?  
-
 答案：
 1. C  
 
@@ -11827,7 +11706,6 @@ Notes: speaking常与某些副词连用，作插入语。
 真题解析
 ---
 1. They are broadening the bridge to speed ________ the flow of traffic.  （2011 山东改）  
-
 答案：
 1. up  
 
@@ -11916,7 +11794,6 @@ Notes: speaking常与某些副词连用，作插入语。
 真题解析
 ---
 1. Much time ________ (spend) sitting at a desk, office workers are generally troubled by health problems.  （2015 江苏改）  
-
 答案：
 1. spent  
 
@@ -12252,7 +12129,6 @@ A.sponsor
 B.launch  
 C.organize  
 D.plan  
-
 答案：
 1. A  
 
@@ -12561,7 +12437,6 @@ spotted /'spɒtɪd/ adj
 真题解析
 ---
 1. The idea started in Standlake and has ________ (传开) throughout the country.  （2008 陕西）  
-
 答案：
 1. spread  
 
@@ -12767,8 +12642,7 @@ spotted /'spɒtɪd/ adj
 
 真题解析
 ---
-1. Water can absorb and give off a lot of heat without big changes in temperature, thus creating a ________ (稳定的) environment.  （）  
-
+1. Water can absorb and give off a lot of heat without big changes in temperature, thus creating a ________ (稳定的) environment.  
 答案：
 1. stable  
 
@@ -13142,12 +13016,9 @@ spotted /'spɒtɪd/ adj
 真题解析
 ---
 1. Shakespeare’s writing is still popular today. It has really ________ (经得起) the test of time.  （2014 安徽改）  
-
 2. I can’t stand ________ (work) with Jane in the same office. She just refuses ________ (stop) talking while she works.  （2006 北京改）  
-
 答案：
-1. stood  
-2. working; to stop  
+1. stood  2. working; to stop  
 
 # ***\*stand-by*** adj
 
@@ -13797,7 +13668,6 @@ A.grow
 B.appear  
 C.become  
 D.stay  
-
 答案：
 1. D  
 
@@ -13835,12 +13705,9 @@ steadily /'stedɪlɪ/ adv
 真题解析
 ---
 1. He hopes that his business will grow steady.  （2016全国 改错）  
-
 2. The old engineer’s eyes still shone bright in the wrinkled brown face and his step as he came across the room was ________ (稳稳的), though slow.  （2011 湖北改）  
-
 答案：
-1. steady → steadily  
-2. steady  
+1. steady → steadily  2. steady  
 
 # ***\*steak*** n
 英音 steɪk     美音 steɪk  
@@ -14252,12 +14119,9 @@ Notes: steps 常指室外的台阶，stairs 常指屋内的楼梯。
 真题解析
 ---
 1. The cards had been ________ (卡住) through the letterbox.  （2011 全国）  
-
 2. Once a decision has been made, all of us should stick _______ it.  （2004 湖北改）  
-
 答案：
-1. stuck  
-2. to  
+1. stuck  2. to  
 
 # ***\*stick*** n  重难点词汇
 英音 stɪk     美音 stɪk  
@@ -14348,7 +14212,6 @@ stillness /'stɪlnəs/ n [U]
 真题解析
 ---
 1. The hotel is almost finished, but it _________ needs one or two weeks to get ready for guests.  （2012 四川改）  
-
 答案：
 1. still  
 
@@ -14518,7 +14381,6 @@ stillness /'stɪlnəs/ n [U]
 真题解析
 ---
 1. John missed the game because of _________ (胃) pains.  （2009 全国）  
-
 答案：
 1. stomach  
 
@@ -14743,12 +14605,9 @@ Notes: stop to do 表示停下来去做其他事情；stop doing 表示停止正
 真题解析
 ---
 1. Check carrots, potatoes, onions and any other vegetables ________ store and immediately use or throw away any which show signs of rotting.  （2014 湖北改）  
-
 2. When she first arrived in China, she wondered what the future might have ________ store for her, but now all her worries are gone.  （2008 湖北改）  
-
 答案：
-1. in   
-2. in   
+1. in   2. in   
 
 # ***\*storm*** n
 英音 stɔːm     美音 stɔːrm  
@@ -15212,12 +15071,9 @@ strategic /strə'tiːdʒɪk/ adj
 ---
 1. — Why do you choose to work in an international travel agency?
 — Well, you know, English is my _______ (强项). So it is my best choice.  （2012 福建改）  
-
-2. To make members of a team perform better, the trainer first of all has to know their ________ (强项和弱项).  （）  
-
+2. To make members of a team perform better, the trainer first of all has to know their ________ (强项和弱项).  
 答案：
-1. strength  
-2. strengths and weaknesses  
+1. strength  2. strengths and weaknesses  
 
 # ***\*strengthen*** v
 英音 'streŋθn     美音 'streŋθn  
@@ -15294,7 +15150,6 @@ stressful /'stresfl/ adj
 
   （2015 浙江改）  
 A.stress   
-
 答案：
 1. stress / pressure  
 
@@ -15384,7 +15239,6 @@ A.stress
 真题解析
 ---
 1. The acceptance of new members is _________ (严格) controlled.  （2008 陕西）  
-
 答案：
 1. strictly  
 
@@ -15898,7 +15752,6 @@ stupidly /'stjuːpɪdli/ adv
 真题解析
 ---
 1. Well, you’ve acted _________ (愚蠢地) and you will pay for it.  （2006 陕西）  
-
 答案：
 1. stupidly  
 
@@ -16207,7 +16060,6 @@ A.dramatic
 B.regional  
 C.apparent  
 D.subtle  
-
 答案：
 1. D  
 
@@ -16317,7 +16169,6 @@ D.subtle
 真题解析
 ---
 1. Very few people ________ (成功) in losing weight these days.  （2007 全国改）  
-
 答案：
 1. succeed  
 
@@ -16353,7 +16204,6 @@ D.subtle
 真题解析
 ---
 1. It is important to remember that success _______ (be) a sum of small efforts made each day and often ________ (take) years to achieve.   （2015 湖南改）  
-
 答案：
 1. is; takes  
 
@@ -16426,7 +16276,6 @@ A.Such
 B.This  
 C.That  
 D.So  
-
 答案：
 1. A  
 
@@ -16492,26 +16341,19 @@ A.so a well-known
 B.a so well-known  
 C.such well-known a  
 D.such a well-known  
-
 2. My English teacher’s humor was ________ make every student burst into laughter.  （2008 江西）  
 A.so as to  
 B.such as to  
 C.such that  
 D.so that  
-
-3. His plan was such a good one ________ we all agreed to accept it.   （）  
-
-4. As I know, there is ________ car in this neighborhood.  （）  
+3. His plan was such a good one ________ we all agreed to accept it.   
+4. As I know, there is ________ car in this neighborhood.  
 A.no such  
 B.no a  
 C.not such  
 D.no such a  
-
 答案：
-1. D  
-2. B  
-3. that  
-4. A  
+1. D  2. B  3. that  4. A  
 
 # ***\*such...as*** 
 
@@ -16604,7 +16446,6 @@ D.no such a
 真题解析
 ---
 1. We were talking on the phone when, ________ (突然), the line went dead.  （2007 陕西改）  
-
 答案：
 1. suddenly  
 
@@ -16763,15 +16604,10 @@ Notes: 当suggest意为“建议”时，其后的宾语从句用虚拟语气；
 真题解析
 ---
 1. Some classmates suggest we can go to places of interest nearby.  （2016 全国 改错）  
-
 2. Bill suggested __________ (hold) a meeting on what to do for the Shanghai Expo during the vacation.  （2009 上海改）  
-
-3. He came to my class every week, but his attitude __________ (表明) he was not really interested in the subject.   （）  
-
+3. He came to my class every week, but his attitude __________ (表明) he was not really interested in the subject.   
 答案：
-1. 删掉can或者can → should  
-2. holding   
-3. suggested / indicated  
+1. 删掉can或者can → should  2. holding   3. suggested / indicated  
 
 # ***\*suggestion*** n  重难点词汇
 英音 sə'dʒestʃən     美音 sə'dʒestʃən  
@@ -16811,7 +16647,6 @@ Notes: 当suggest意为“建议”时，其后的宾语从句用虚拟语气；
 ---
 1. — Why not buy a second-hand car first if you don’t have enough money for a new one?
 — That’s a good ________ (建议).  （2014 安徽改）  
-
 答案：
 1. suggestion  
 
@@ -16883,8 +16718,7 @@ suited /'suːtɪd/ adj [不用于名词前，与for / to连用]
 真题解析
 ---
 1. — How about eight o’clock outside the cinema?
-— That _________(适合) me fine.  （）  
-
+— That _________(适合) me fine.  
 答案：
 1. suits  
 
@@ -17354,7 +17188,6 @@ Notes: sun与某一特定形容词连用时，用不定冠词。
 真题解析
 ---
 1. As the world’s population continues to grow, the ________ (供给) of food becomes more and more of a concern.  （2013 浙江改）  
-
 答案：
 1. supply   
 
@@ -17560,16 +17393,11 @@ Notes: 上例中，when should we leave用陈述句式。
 真题解析
 ---
 1. What are you doing out of bed, Tom? You’re s_________ to be asleep.   （2011 辽宁改）  
-
 2. The message is very important, so it is supposed __________ (send) as soon as possible.  （2008 陕西改）  
-
 3. — You should apologize to her, Barry.
-— I suppose _________, but it’s not going to be easy.   （）  
-
+— I suppose _________, but it’s not going to be easy.   
 答案：
-1. supposed  
-2. to be sent   
-3. so  
+1. supposed  2. to be sent   3. so  
 
 # ***\*supposing*** conj
 英音 sə'pəʊzɪŋ     美音 sə'poʊzɪŋ  
@@ -17675,17 +17503,14 @@ A.to be rigid
 B.to be sure  
 C.to be perfect  
 D.to be fair  
-
 2. — Are you going to take part in the speech contest?
 —That’s _________sure. It’s too good an opportunity to miss.   （2011 重庆改）  
 A.No problem!  
 B.That’s for sure.  
 C.Why me?  
 D.Why bother?  
-
 答案：
-1. B  
-2. for  
+1. B  2. for  
 
 # ***\*sure*** adv
 英音 ʃʊə(r), ʃɔː(r)     美音 ʃʊr  
@@ -17715,7 +17540,6 @@ A.Thanks
 B.Go on  
 C.Sure   
 D.You are welcome  
-
 答案：
 1. C  
 
@@ -17955,7 +17779,6 @@ surprisingly /sə'praɪzɪŋli/ adv
 ---
 1. It seems that living green is _______ (surprising) easy and affordable. A small step makes a big difference.
   （2009 福建改）  
-
 答案：
 1. surprisingly  
 
@@ -18628,7 +18451,6 @@ swimmer /'swɪmə(r)/ n
 真题解析
 ---
 1. The village children like to go _________ (游泳) in the nearby river.  （2008 全国）  
-
 答案：
 1. swimming  
 
@@ -18820,7 +18642,6 @@ A.symbol
 B.portrait  
 C.identity  
 D.statue  
-
 答案：
 1. A  
 
@@ -18906,7 +18727,6 @@ A.symptom
 B.similarity  
 C.sample  
 D.shadow  
-
 答案：
 1. A  
 

@@ -552,7 +552,6 @@ gathering /'ɡæðərɪŋ/ n [C]
 真题解析
 ---
 1. ____________ general, the northerners are keen on dumplings while the southerners are fond of rice.  （2003 上海春改）  
-
 答案：
 1. In  
 
@@ -607,7 +606,6 @@ gathering /'ɡæðərɪŋ/ n [C]
 真题解析
 ---
 1. ________ (一般来说), the more expensive the camera, the better its quality.  （2005全国改）  
-
 答案：
 1. Generally speaking / In general  
 
@@ -699,7 +697,6 @@ generously /'dʒenərəsli/ adv
 真题解析
 ---
 1. He didn't selfishly keep for himself the money inherited from his uncle. Instead, he made a(n) __________ (慷慨的) contribution to help the community.  （2013 湖北改）  
-
 答案：
 1. generous  
 
@@ -847,7 +844,6 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
 真题解析
 ---
 1. In _________ (地理) lessons we learn about countries and people in them.  （2006 陕西）  
-
 答案：
 1. geography  
 
@@ -1037,7 +1033,6 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
 真题解析
 ---
 1. 1.Before driving into the city, you are required to get your car  _________ (wash).  （2012 四川改）  
-
 答案：
 1. washed  
 
@@ -1353,33 +1348,16 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
 真题解析
 ---
 1. I've been trying to phone Charles all evening, but there must be something wrong with the network; I can't seem to get ________.  （2014 湖北改）  
-
 2. Anyway, we're here now, so let's get down________ some serious work.  （2014 江西改）  
-
 3. I had hoped to take a holiday this year but I wasn't able to __________(外出度假).  （2013 天津改）  
-
 4. Team leaders must ensure that all members __________ (克服) their natural desire to avoid the embarrassment associated with making mistakes.  （2013 江苏改）  
-
 5. I've got __________ the habit of calling in on my grandparents on my way home from school.  （2012 江西改）  
-
 6. Before driving into the city, you are required to get your car________ (wash).  （2012 四川改）  
-
 7. After that, he knew he could get________ any emergency by doing what he could to the best of his ability.  （2010 浙江改）  
-
 8. It's going to rain. Xiao Feng, will you please help me get ________the clothes on the line?  （2008 陕西改）  
-
 9. I used to quarrel a lot with my parents, but now we get ________fine.  （2008 四川改）  
-
 答案：
-1. through  
-2. down to  
-3. get away  
-4. get over  
-5. into  
-6. washed  
-7. through  
-8. in  
-9. along / on  
+1. through  2. down to  3. get away  4. get over  5. into  6. washed  7. through  8. in  9. along / on  
 
 # ***\*get-together*** n
 英音 ɡettəˌɡeðə(r)     美音 ɡet tə'ɡeðər  
@@ -1723,18 +1701,11 @@ Notes: give out意为“耗尽”时，不用于被动语态。
 ---
 1. — Did you have difficulty finding Ann's house?
 — Not really. She ________ (give) us clear directions and we were able to find it easily.  （2015 北京改）  
-
 2. Body language can give ________ a lot about your mood, so standing with your arms folded can send out a signal that you are being defensive.  （2015 浙江改）  
-
 3. The news of the mayor's coming to our school for a visit was given _________ on the radio yesterday.  （2007 福建改）  
-
 4. What shall we use for power when all the oil in the world has given__________ ?  （2005 山东改）  
-
 答案：
-1. gave / had given  
-2. away  
-3. out  
-4. out  
+1. gave / had given  2. away  3. out  4. out  
 
 # ***\*given*** prep
 英音 'ɡɪvn     美音 'ɡɪvn  
@@ -2612,22 +2583,13 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
 真题解析
 ---
 1. My connection with pandas goes back ________ my days on a TV show in the mid-1980s.  （2016 全国）  
-
 2. After receiving the Oscar for Best Supporting Actress, Anne Benedict went on ________ (thank) all the people who had helped in her career.  （2015 陕西改）  
-
 3.  — Could I use this dictionary?  
  — Just________ (用吧). It's a spare one.  （2014 江西改）  
-
 4. To get a better grade, you should go _________ the notes again before the test.  （2011 四川改）  
-
 5. I don't go in ________ rock 'n' roll. It's much too noisy for my taste.  （2004 北京改）  
-
 答案：
-1. to  
-2. to thank  
-3. go ahead  
-4. over  
-5. for  
+1. to  2. to thank  3. go ahead  4. over  5. for  
 
 # ***\*goal*** n
 英音 ɡəʊl     美音 ɡoʊl  
@@ -3316,12 +3278,9 @@ graceful /'ɡreɪsfl/ adj
 真题解析
 ---
 1. The girl used to be shy, but is ________ (gradual) getting active in group work and is more willing to express herself.   （2015 湖北改）  
-
 2. You'll ________ (逐渐) get better at it — it's just a question of practice.  （2011 全国）  
-
 答案：
-1. gradually  
-2. gradually  
+1. gradually  2. gradually  
 
 # ***\*graduate*** n
 英音 'ɡrædʒuət     美音 'ɡrædʒuət  
@@ -3777,7 +3736,6 @@ Notes: 表示理解语言、词汇或文章等时只能用 understand，不能�
 真题解析
 ---
 1. I'm so grateful________ all those volunteers because they helped my terrible day end happily.  （2015 安徽改）  
-
 答案：
 1. to  
 
@@ -3904,7 +3862,6 @@ A.Yes, why not?
 B.Oh, it would be my pleasure.  
 C.Yes, please.  
 D.Oh, that would be great.  
-
 答案：
 1. D  
 
@@ -4670,17 +4627,14 @@ A.Guess what
 B.So what  
 C.Pardon me  
 D.Who cares  
-
 2. — The boys are not doing a good job at all, are they?
 — ________ .  （2003 北京春）  
 A.I guess not so  
 B.I don’t guess  
 C.I don’t guess so  
 D.I guess not  
-
 答案：
-1. A  
-2. D  
+1. A  2. D  
 
 # ***\*guest*** n
 英音 ɡest     美音 ɡest  

@@ -128,13 +128,10 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
 ---
 1. — How far can you run without stopping?
 — I ________ (不知道). I've never tried. (idea)  （2013 山东改）  
-
 2.  — I'm tired. I'm taking next week off.
 — ________ (好主意), honey. You do need a break.  （2013 陕西改）  
-
 答案：
-1. have no idea  
-2. Great / Good idea  
+1. have no idea  2. Great / Good idea  
 
 # ***\*ideal*** adj
 英音 aɪ'diːəl     美音 aɪ'diːəl  
@@ -274,7 +271,6 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
 真题解析
 ---
 1. He gave himself a new name to hide his ________ (身份) when he went to carry out the secret task.  （2015 湖北改）  
-
 答案：
 1. identity  
 
@@ -342,25 +338,16 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
 真题解析
 ---
 1. ________we don't stop climate change, many animals and plants in the world will be gone.  （2018 北京）  
-
 2. If it ________ (not be) for his invitation the other day, I should not be here now.  （2016 江苏改）  
-
 3. The climate here is quite pleasant, the temperature rarely, ________, reaching 30℃ in summer.  （2014 福建）  
 A.if not  
 B.if ever  
 C.if any  
 D.if so  
-
 4. It sounds like something is wrong with the car's engine. ________(如果是这样的话) we'd better take it to the garage immediately.  （2011 江苏改）  
-
 5. At fi rst he hated the new job but decided to give himself a few months to see ________ it got any better.  （2009 北京改）  
-
 答案：
-1. If  
-2. had not been  
-3. B  
-4. If so  
-5. if / whether  
+1. If  2. had not been  3. B  4. If so  5. if / whether  
 
 # ***\*ignorance*** n
 英音 'ɪɡnərəns     美音 'ɪɡnərəns  
@@ -414,7 +401,6 @@ D.if so
 真题解析
 ---
 1. Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the pain, believing that it would go away sooner or later.   （2014 浙江改）  
-
 答案：
 1. ignore  
 
@@ -699,12 +685,9 @@ imaginary /ɪ'mædʒɪnəri/ adj
 真题解析
 ---
 1. There is nothing there — you are just ________ (想象) things!   （2012 陕西）  
-
-2. It is difficult to imagine his ________ (accept) the decision without any consideration.  （）  
-
+2. It is difficult to imagine his ________ (accept) the decision without any consideration.  
 答案：
-1. imagining  
-2. accepting  
+1. imagining  2. accepting  
 
 # ***\*imitate*** vt
 英音 'ɪmɪteɪt     美音 'ɪmɪteɪt  
@@ -758,7 +741,6 @@ imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
 真题解析
 ---
 1. If I find someone who looks like the suspect, my ________ (立即的) reaction will be to tell the police.   （2010 湖北改）  
-
 答案：
 1. immediate  
 
@@ -1055,7 +1037,6 @@ impossibility /ɪmˌpɒsə'bɪləti/ n
 真题解析
 ---
 1. I consider it ________ (不可能) to believe a single word you say.  （2007 陕西）  
-
 答案：
 1. impossible  
 
@@ -1125,7 +1106,6 @@ impressionist /ɪm'preʃənɪst/ n  [C]
 ---
 1. My ________ (第一印象) of him was that he was a kind and thoughtful young man. 
   （2012 山东改）  
-
 答案：
 1. first impression  
 
@@ -1175,7 +1155,6 @@ impressionist /ɪm'preʃənɪst/ n  [C]
 真题解析
 ---
 1. What was so ________ (impress) about Jasmine Westland’s victory was that she came first in the marathon bare-footed.  （2014 湖北改）  
-
 答案：
 1. impressive  
 
@@ -1315,12 +1294,9 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 真题解析
 ---
 1. Jane is in a hurry because the train to the airport leaves ________ half an hour.  （2014 北京改）  
-
 2. Try on this red skirt; you will look great ________ it.  （2009 重庆改）  
-
 答案：
-1. in  
-2. in  
+1. in  2. in  
 
 # ***\*in*** adv
 英音 ɪn     美音 ɪn  
@@ -1455,7 +1431,6 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 真题解析
 ---
 1. My duties will include ________ (introduce) British visitors to the 120 plus pandas at Chengdu.  （2016 全国改）  
-
 答案：
 1. introducing  
 
@@ -1497,7 +1472,6 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 真题解析
 ---
 1. Tourism is the major source of________(收入) for this area.   （2015 陕西）  
-
 答案：
 1. income  
 
@@ -1559,7 +1533,6 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 ---
 1. One of the consequences of our planet’s being warming up is a(n) ________ (增长) in the number of natural disasters.  （2003 上海改）  
 D.increase  
-
 答案：
 1. increase  
 
@@ -1579,7 +1552,6 @@ D.increase
 真题解析
 ---
 1. Volunteering is becoming ________ (increasing) popular in China.  （2010 福建改）  
-
 答案：
 1. increasingly  
 
@@ -1647,7 +1619,6 @@ D.increase
 ---
 1. — This is a really lively party. There's a great atmosphere, isn't there?
 — Yes, ________ (确实). The hosts know how to host a party.   （2013 山东改）  
-
 答案：
 1. indeed  
 
@@ -2026,7 +1997,6 @@ inference  n
 真题解析
 ---
 1. Through the course of my schooling, I met many teachers, two ________ me greatly. 上学时遇到过很多老师，其中两位对我影响很大。  （2013 湖北改）  
-
 答案：
 1. of whom (have) influenced / of them having influenced  
 
@@ -2101,7 +2071,6 @@ inference  n
 真题解析
 ---
 1. Besides, they often get some useful informations from the Internet.  （2017 全国   改错）  
-
 答案：
 1. informations → information  
 
@@ -2588,7 +2557,6 @@ Notes: insist表示“坚持”和“坚决要求”时，that从句中用虚拟
 ---
 1. The man insisted on________ (find) a taxi for me even though I told him I lived nearby.
   （2004 江苏改）  
-
 答案：
 1. finding  
 
@@ -2794,7 +2762,6 @@ instantly /'ɪnstəntli/ adv
 真题解析
 ---
 1. The young man couldn't afford a new car. ________ (作为替代), he bought a used one.  （2011 天津改）  
-
 答案：
 1. Instead  
 
@@ -2907,7 +2874,6 @@ instructor /ɪn'strʌktə(r)/ n [C]
 真题解析
 ---
 1. Always read the ________ (instruction) on the bottle carefully and take the right amount of medicine.  （2006 福建改）  
-
 答案：
 1. instructions  
 
@@ -3278,7 +3244,6 @@ intended /ɪn'tendɪd/ adj
 真题解析
 ---
 1. In their spare time, they are interesting in planting vegetables in their garden.  （2017 全国  改错）  
-
 答案：
 1. interesting → interested  
 
@@ -3474,7 +3439,6 @@ interruption /ˌɪntə'rʌpʃn/ n [U] & [C]
 真题解析
 ---
 1. Will you stop _______ (打断) me when I’m talking?  （2012 全国）  
-
 答案：
 1. interrupting  
 
@@ -3698,7 +3662,6 @@ Notes: introduce不接双宾语。
 真题解析
 ---
 1. This development was only possible with the ________ (introduce) of electric-powered engines and lifts.  （2017 全国）  
-
 答案：
 1. introduction  
 
@@ -3915,7 +3878,6 @@ investigation /ɪnˌvestɪ'ɡeɪʃn/ n [U] & [C]
 真题解析
 ---
 1. She has turned down several ________ (invitation) to star at shows in order to concentrate on her studies.  （2017 全国）  
-
 答案：
 1. invitations  
 
@@ -3953,7 +3915,6 @@ investigation /ɪnˌvestɪ'ɡeɪʃn/ n [U] & [C]
 真题解析
 ---
 1. When summer comes, they will invite their students pick the fresh vegetables!  （2017 全国  改错）  
-
 答案：
 1. pick 前加to  
 
@@ -4000,7 +3961,6 @@ involvement /ɪn'vɒlvmənt/ n [U]
 真题解析
 ---
 1. Michelle found a job as a high school teacher which involves ________ (spend) quite a lot of time with students.  （2013 福建改）  
-
 答案：
 1. spending  
 
@@ -4266,19 +4226,12 @@ involvement /ɪn'vɒlvmənt/ n [U]
 真题解析
 ---
 1. How would you like_______ if you were watching your favorite TV program and someone came into the room and just shut it off without asking you?  （2015 浙江改）  
-
 2. — Who's that at the door? 
 —  ________ is the milkman.   （2014 全国改）  
-
 3. An average of just 18.75 cm of rain fell last year, making ________ the driest year since California became a state in 1850.  （2014 浙江改）  
-
 4. Why don't you bring _______ to his attention that you're too ill to work on?   （2011 江西改）  
-
 答案：
-1. it  
-2. It  
-3. it  
-4. it  
+1. it  2. It  3. it  4. it  
 
 # ***\*italics*** n
 英音 ɪ'tælɪks     美音 ɪ'tælɪks  
@@ -4333,7 +4286,6 @@ involvement /ɪn'vɒlvmənt/ n [U]
 真题解析
 ---
 1. On my recent visit, I held a lively three-monthold panda that had been rejected by ________  (it) mother.  （2016 全国改）  
-
 答案：
 1. its  
 
@@ -4366,12 +4318,9 @@ involvement /ɪn'vɒlvmənt/ n [U]
 ---
 1. Surprisingly, Susan's beautiful hair reached below her knees and made ________ (it) almost an overcoat for her.
   （2011 安徽改）  
-
 2. Isn't it amazing how the human body heals ________ (it) after an injury?  （2008 江西改）  
-
 答案：
-1. itself  
-2. itself  
+1. itself  2. itself  
 
 # ***\*ivory*** n
 英音 'aɪvəri     美音 'aɪvəri  

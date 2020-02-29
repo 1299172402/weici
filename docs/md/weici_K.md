@@ -233,23 +233,16 @@ keeper /'kiːpə(r)/ n [C]
 ---
 1. — I get at least half an hour of exercise almost every day.
 — Oh great! Keep it ________ .  （2014 安徽改）  
-
 2. They use computers to keep the traffic ________ (run) smoothly.  （2009 全国改）  
-
 3. — Mummy, can I put the peaches in the cupboard?
 — No, dear. They don't ________ well. Put them in the fridge instead.   （2002 北京）  
 A.keep  
 B.fit  
 C.get  
 D.last  
-
 4. Would you slow down a bit, please? I can't keep up ________ you.   （2001 京蒙皖春改）  
-
 答案：
-1. up  
-2. running  
-3. A  
-4. with  
+1. up  2. running  3. A  4. with  
 
 # ***\*kettle*** n
 英音 'ketl     美音 'ketl  
@@ -327,7 +320,6 @@ D.last
 真题解析
 ---
 1. The key to ________ (overcome) this problem is to believe in yourself.  （2012 福建）  
-
 答案：
 1. overcoming  
 
@@ -595,7 +587,6 @@ killing /'kɪlɪŋ/ n [C]
 真题解析
 ---
 1. Callie will start  ________ ( 幼儿园) in September.   （2009 全国）  
-
 答案：
 1. kindergarten  
 
@@ -726,7 +717,6 @@ killing /'kɪlɪŋ/ n [C]
 真题解析
 ---
 1. Mum is cooking in the k________ while Dad is watching TV.   （2008 浙江）  
-
 答案：
 1. kitchen  
 
@@ -1027,7 +1017,6 @@ Notes: “学到知识”不说learn / get knowledge，而说 gain / obtain / ac
 真题解析
 ---
 1. If we go on a trip abroad, we can broaden our view and gain knowledges we cannot get from books.  （2016 全国 改错）  
-
 答案：
 1. knowledges → knowledge  
 

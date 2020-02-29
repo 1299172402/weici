@@ -470,24 +470,13 @@
 真题解析
 ---
 1. Peter will take _________ his post as the head of the travel agency at the end of next month.  （2015 陕西改）  
-
 2. On Monday mornings it usually ________ (take) me an hour to drive to work although the actual distance is only 20 miles.  （2013 陕西改）  
-
 3. Briggs will take ________ as general manager when Mitchell retires.  （2013 辽宁改）  
-
 4. Some insects take ________ the color of their surroundings to protect themselves.  （2011 陕西改）  
-
 5. We tried to find a table for seven, but they were all taken ________.  （2009 安徽改）  
-
 6. I take it ________ a basic principle of the company that suppliers of raw materials should be given a fair price for their products.  （2008 江西改）  
-
 答案：
-1. up  
-2. takes   
-3. over  
-4. on  
-5. up  
-6. as  
+1. up  2. takes   3. over  4. on  5. up  6. as  
 
 # ***\*tale*** n
 英音 teɪl     美音 teɪl  
@@ -916,7 +905,6 @@ talker /'tɔːkə(r)/ n
 真题解析
 ---
 1. While she was in Paris, she ________ (开始喜欢) for fine art. (taste)  （2013 天津改）  
-
 答案：
 1. developed / acquired a taste for  
 
@@ -957,7 +945,6 @@ talker /'tɔːkə(r)/ n
 真题解析
 ---
 1. This cake t________ delicious. Would you like a try?   （2008 浙江）  
-
 答案：
 1. tastes  
 
@@ -1658,7 +1645,6 @@ teller /'telə(r)/ n
 真题解析
 ---
 1. Why didn’t you tell me about your trouble last week? If you  ________ (tell) me, I could have helped.  （2016 北京改）  
-
 答案：
 1. had told  
 
@@ -1713,7 +1699,6 @@ teller /'telə(r)/ n
 真题解析
 ---
 1. His nose ran, he coughed, and his ________ (体温) was a little up.  （2008 陕西）  
-
 答案：
 1. temperature  
 
@@ -1754,7 +1739,6 @@ A.pessimistic
 B.temporary  
 C.previous   
 D.cautious  
-
 答案：
 1. temporary  
 
@@ -1963,7 +1947,6 @@ tentatively /'tentətɪvli/ adv
 真题解析
 ---
 1. “Perhaps we need to send for Dr. Smith to see what we can do about it,” Father suggested ________ (tentative) to his neighbor who had come to discuss the problem.  （2012 湖北改）  
-
 答案：
 1. tentatively  
 
@@ -2078,7 +2061,6 @@ A.In terms of
 B.In case of  
 C.As a result of  
 D.In face of  
-
 答案：
 1. A  
 
@@ -2421,13 +2403,10 @@ A.Yes, please
 B.No, thank you  
 C.Yes, you can  
 D.No, you needn’t  
-
 2. — Bruce, I really appreciate your handwriting.
 — ________ (非常感谢).   （2009 福建改）  
-
 答案：
-1. B  
-2. Thank you / Thanks very much / Thanks a lot  
+1. B  2. Thank you / Thanks very much / Thanks a lot  
 
 # ***\*thank*** n
 英音 θæŋk     美音 θæŋk  
@@ -2472,7 +2451,6 @@ thankfully /'θæŋkfəli/ adv
 真题解析
 ---
 1. ________ (thankful), I managed to get through the game and the pain was worth it in the end.  （2011 安徽改）  
-
 答案：
 1. Thankfully  
 
@@ -2614,21 +2592,12 @@ thankfully /'θæŋkfəli/ adv
 真题解析
 ---
 1. In many ways, the education system in the US is not very different from ________ in the UK.  （2016 浙江改）  
-
 2. The most pleasant thing of the rainy season is ________ one can be entirely free from dust.  （2016 北京改）  
-
 3. It is often the case________ anything is possible for those who hang on to hope.  （2016 江苏改）  
-
 4. You are waiting at a wrong place. It is at the hotel________ the coach picks up tourists.  （2016 天津改）  
-
 5. I truly believe________ beauty comes from within.  （2015 北京改）  
-
 答案：
-1. that  
-2. that  
-3. that  
-4. that  
-5. that  
+1. that  2. that  3. that  4. that  5. that  
 
 # ***\*the*** art
 英音 ðə     美音 ðə  
@@ -2748,24 +2717,13 @@ thankfully /'θæŋkfəli/ adv
 真题解析
 ---
 1. ________ prize for the winner of the competition is ________ two-week holiday in Paris.  （2016 浙江改）  
-
 2. __________ more learned a man is, __________ more modest he usually becomes.   （2015 陕西改）  
-
 3. They chose Tom to be ________ captain of the team because they knew he was ________ smart leader.  （2014 江西改）  
-
 4. Marco Polo is said to have sailed on ________ Pacific Ocean on his way to Java in ________ thirteenth century.  （2013 陕西改）  
-
 5. Sarah looked at ________ finished painting with ________ satisfaction.  （2012 全国改）  
-
 6. As is known to all, ________ People’s Republic of China is ________ biggest developing country in the world.  （2011 陕西改）  
-
 答案：
-1. The; a  
-2. The; the  
-3. the; a  
-4. the; the  
-5. the; 不填  
-6. the; the  
+1. The; a  2. The; the  3. the; a  4. the; the  5. the; 不填  6. the; the  
 
 # ***\*theater*** n
 英音 'θɪətə(r)     美音 'θiːətər  
@@ -2906,7 +2864,6 @@ thankfully /'θæŋkfəli/ adv
 真题解析
 ---
 1. Many fast-growing countries are less concerned with protecting ________ (them) against climate change.  （2008 上海春改）  
-
 答案：
 1. themselves  
 
@@ -3089,7 +3046,6 @@ A.It has
 B.They have  
 C.It remains  
 D.There remains  
-
 答案：
 1. D  
 
@@ -3112,7 +3068,6 @@ D.There remains
 真题解析
 ---
 1. It’s our hope that we will play a greater role in the market place and, ________ (因此), supply more jobs.  （2014 安徽改）  
-
 答案：
 1. therefore  
 
@@ -3440,7 +3395,6 @@ A.Go ahead
 B.Certainly  
 C.That’s right  
 D.I don’t think so  
-
 答案：
 1. D  
 
@@ -3630,12 +3584,9 @@ thoroughly /'θʌrəli/ adv
 真题解析
 ---
 1. Half of ________ surveyed in 16 countries say they go first to their closest friend to share their deepest wishes and darkest fears.   （2013 浙江改）  
-
 2. At our factory there are a few machines similar to ________ described in this magazine.  （2013 天津改）  
-
 答案：
-1. those  
-2. those  
+1. those  2. those  
 
 # ***\*those*** adj
 英音 ðəʊz     美音 ðoʊz  
@@ -3690,20 +3641,15 @@ Notes: though意为“虽然”，引导状语从句时，可将从句中的表�
 真题解析
 ---
 1. Though not very big, but the restaurant is popular in our area.  （2016 全国 改错）  
-
 2. If scientists have learned a lot about the universe, there is much we still don’t know. 
   （2015安徽改 改错）  
-
 3. Unsatisfied _________ with the payment, he took the job just to get some work experience.  （2009 重庆）  
 A.though was he  
 B.though he was  
 C.he was though  
 D.was he though  
-
 答案：
-1. 去掉but  
-2. If → Though / Although  
-3. B  
+1. 去掉but  2. If → Though / Although  3. B  
 
 # ***\*though*** adv
 英音 ðəʊ     美音 ðoʊ  
@@ -3734,7 +3680,6 @@ A.though
 B.also   
 C.either  
 D.too  
-
 答案：
 1. A  
 
@@ -3835,7 +3780,6 @@ thoughtful /'θɔːtfl/ adj
 ---
 1. There is no need to tell me your answer now.  _________ (考虑一下) and then let me know. 
   （2015 安徽改）  
-
 答案：
 1. Give it some thought  
 
@@ -3943,7 +3887,6 @@ threatening /'θretnɪŋ/ adj
 ---
 1. David threatened ________ (report) his neighbour to the police if the damages were not paid. 
   （2009 上海改）  
-
 答案：
 1. to report  
 
@@ -4073,7 +4016,6 @@ A.through
 B.up  
 C.with  
 D.from  
-
 答案：
 1. A  
 
@@ -4517,7 +4459,6 @@ thrower /'θrəʊə(r)/ n [C]
 ---
 1. My schedule is very ________ (紧凑的) right now, but I’ll try to fit you in.
   （2011 浙江改）  
-
 答案：
 1. tight  
 
@@ -4784,23 +4725,14 @@ A.they actually broke
 B.do they actually break  
 C.did they actually break  
 D.they had actually broken  
-
 2. The manager wants to see changes in the company, and I am sure he will ________ time. 
   （2013 陕西改）  
-
 3. He will come to understand your efforts sooner or later. It’s just  ________ (时间问题). 
   （2012 四川改）  
-
 4. Jack is a great talker. It’s high time that he  ________ (do) something instead of just talking.  （2012 辽宁改）  
-
 5. The new stadium being built for the next Asian Games will be ________ (…的三倍大) the present one.  （2011 陕西改）  
-
 答案：
-1. C  
-2. in  
-3. a matter of time  
-4. did  
-5. three times as big as  
+1. C  2. in  3. a matter of time  4. did  5. three times as big as  
 
 # ***\*time*** vt  重难点词汇
 英音 taɪm     美音 taɪm  
@@ -5137,13 +5069,10 @@ Notes: to还可与动词原形连用构成动词不定式。
 真题解析
 ---
 1. Have you ever heard of the trees that are homes ________ animals both on land and sea?  （2015 浙江改）  
-
 2. Most Americans would prefer to keep their problems ________ themselves, and solve their problems  ________ themselves. 
   （2009 湖南改）  
-
 答案：
-1. to  
-2. to; by  
+1. to  2. to; by  
 
 # ***\*toast*** n
 英音 təʊst     美音 toʊst  
@@ -5194,7 +5123,6 @@ Notes: to还可与动词原形连用构成动词不定式。
 真题解析
 ---
 1. The international ________ (烟草) industry is making a lot of money from the developing countries.  （2005 全国）  
-
 答案：
 1. tobacco  
 
@@ -5281,7 +5209,6 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 ---
 1. Dr Smith, together with his wife and daughters, _______ (be) going to visit Beijing this summer.
   （2009 陕西改）  
-
 答案：
 1. is  
 
@@ -5338,7 +5265,6 @@ A.cautious
 B.grateful  
 C.tolerant  
 D.wild  
-
 答案：
 1. C  
 
@@ -5584,7 +5510,6 @@ D.wild
 ---
 1. — Try not to work yourself too hard. Take it easy.
 — Thanks.________ (你也是).  （2012 全国改）  
-
 答案：
 1. You, too  
 
@@ -6460,7 +6385,6 @@ trading /'treɪdɪŋ/ n [U]
 ---
 1. There’s a ________(传统) in our office that when it’s somebody’s birthday, they bring in a cake for us all to share. 
   （2011 山东改）  
-
 答案：
 1. tradition  
 
@@ -6484,8 +6408,7 @@ traditionally /trə'dɪʃənəli/ adv
 真题解析
 ---
 1. In ________ (tradition) Chinese culture, marriage decisions were often made by parents for their children.
-  （）  
-
+  
 答案：
 1. traditional  
 
@@ -6636,7 +6559,6 @@ trainer /'treɪnə(r)/ n [C]
 1. I always wanted to do the job which I’d been trained ________.   （2011 浙江改）  
 C.by  
 D.of  
-
 答案：
 1. for  
 
@@ -6822,7 +6744,6 @@ D.of
 真题解析
 ---
 1. The story was first written in English and later ________ (翻译) into Chinese.  （2008 全国）  
-
 答案：
 1. translated  
 
@@ -6902,7 +6823,6 @@ D.of
 真题解析
 ---
 1. The state-run company is required to make its accounts as ________ as possible for its staff to monitor the use of money.   （2011 湖北改）  
-
 答案：
 1. transparent / clear  
 
@@ -7313,7 +7233,6 @@ D.of
 真题解析
 ---
 1. Young people should always  ________ (对待) the elders with respect.  （2015 陕西）  
-
 答案：
 1. treat  
 
@@ -7559,7 +7478,6 @@ A.feature
 B.plan  
 C.cost  
 D.trick  
-
 答案：
 1. trick  
 
@@ -7780,7 +7698,6 @@ D.trick
 真题解析
 ---
 1. When Peter speaks in public, he always has trouble ________  (think) of the right things to say.   （2012 上海）  
-
 答案：
 1. thinking  
 
@@ -8137,7 +8054,6 @@ Notes: 1. try doing sth 一般表示“尝试做某事”，含 有试试看的�
 真题解析
 ---
 1. Susan wanted to be independent of her parents. She tried ________ (live) alone, but she didn’t like it and moved back home.   （2008 湖南改）  
-
 答案：
 1. living  
 
@@ -8535,22 +8451,13 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
 真题解析
 ---
 1. Tom had to turn________ the invitation to the party last weekend because he was too busy.  （2015 天津改）  
-
 2. Don’t worry. I’m sure your missing glasses will turn ________ sooner or later.  （2015 湖北改）  
-
 3. When the sports hero turned ________ at our party, he was welcomed with open arms.  （2014 安徽改）  
-
 4. — What are you reading, Tom?
 — I’m not really reading, just turning ________ the pages.   （2008 全国改）  
-
-5. She’s having a lot of trouble with the new computer, but she doesn’t know whom to turn ________.   （）  
-
+5. She’s having a lot of trouble with the new computer, but she doesn’t know whom to turn ________.   
 答案：
-1. down  
-2. up  
-3. up  
-4. over  
-5. to  
+1. down  2. up  3. up  4. over  5. to  
 
 # ***\*turn*** n  重难点词汇
 英音 tɜːn     美音 tɜːrn  
@@ -8632,12 +8539,9 @@ A. share
 B.chance  
 C.turn   
 D.lead  
-
-2. People try to avoid public transportation delays by using their own cars, and ________ (反过来) this creates further problems.   （）  
-
+2. People try to avoid public transportation delays by using their own cars, and ________ (反过来) this creates further problems.   
 答案：
-1. C  
-2. in turn  
+1. C  2. in turn  
 
 # ***\*turning*** n
 英音 'tɜːnɪŋ     美音 'tɜːrnɪŋ  
@@ -8946,7 +8850,6 @@ typically /'tɪpɪkli/ adv
 真题解析
 ---
 1. Jack is late again.  ________ (是他的特点) to keep others waiting.   （2008 江西改）  
-
 答案：
 1. It is typical of him  
 

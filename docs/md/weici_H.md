@@ -66,12 +66,9 @@
 真题解析
 ---
 1. Jeff has the ________(习惯) of listening to music while reading.   （2010 陕西）  
-
 2. I'm trying to ________ (改掉习惯) of getting up too late.  （2009 天津改）  
-
 答案：
-1. habit  
-2. break / kick the habit  
+1. habit  2. break / kick the habit  
 
 # ***\*habitat*** n
 英音 ˈhæbɪtæt     美音 ˈhæbɪˌtæt  
@@ -477,7 +474,6 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 真题解析
 ---
 1. Starting your own business could be a way to achieving financial independence. __________ (另一方面), it could just put you in debt.  （2014 江西改）  
-
 答案：
 1. On the other (hand)  
 
@@ -531,7 +527,6 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 真题解析
 ---
 1. It is certain that he will hand_________his business to his son when he gets old.  （2004 福建改）  
-
 答案：
 1. over  
 
@@ -644,7 +639,6 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 真题解析
 ---
 1. As nobody here knows what is wrong with the machine, we must send for an engineer to _________ (处理) the problem.  （2008 湖北改）  
-
 答案：
 1. handle  
 
@@ -806,13 +800,10 @@ Notes: half，all，both等作定语时，常位于定冠词或物主代词之�
 真题解析
 ---
 1. Many of his finest pictures are_________ (悬挂) in the national museum.   （2009 全国）  
-
 2. — Sorry, I have to _________ (挂断电话) now. It's time for class.
 — OK, I'll call back later.  （2009 天津改）  
-
 答案：
-1. hung / hanging  
-2. hang up  
+1. hung / hanging  2. hang up  
 
 # ***\*happen*** vi
 英音 'hæpən     美音 'hæpən  
@@ -1108,12 +1099,9 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 真题解析
 ---
 1. I had hardly got to the office________my wife phoned me to go back home at once.   （2012 全国改）  
-
 2. I must be getting fat — I can hard do my trousers up.  （2004 全国 改错）  
-
 答案：
-1. when  
-2. hard → hardly  
+1. when  2. hard → hardly  
 
 # ***\*hardship*** n
 英音 'hɑːdʃɪp     美音 'hɑːrdʃɪp  
@@ -1161,7 +1149,6 @@ Notes: hardly ... when结构中，由when引导的从句用过去时，主句用
 真题解析
 ---
 1. My brother is really ________ (勤奋). He often works in his office far into the night.   （2008 天津改）  
-
 答案：
 1. hard-working  
 
@@ -1264,7 +1251,6 @@ harmless /'hɑːmləs/ adj
 真题解析
 ---
 1. Human life is regarded as part of nature and, as such, the only way for us to survive is to live________ (与…协调) nature.  （2015 福建改）  
-
 答案：
 1. in harmony with  
 
@@ -1336,7 +1322,6 @@ harmless /'hɑːmləs/ adj
 真题解析
 ---
 1. Farmers are reporting a very big ________(收成) this year.   （2009 全国）  
-
 答案：
 1. harvest  
 
@@ -1424,7 +1409,6 @@ harmless /'hɑːmləs/ adj
 ---
 1. — Ken, I ________ (不愿这么说), but your TV is going too loud.
 — Oh, I'm sorry. I'll turn it down right now.   （2009 重庆改）  
-
 答案：
 1. hate to say this / it  
 
@@ -1572,19 +1556,12 @@ harmless /'hɑːmləs/ adj
 真题解析
 ---
 1. In art criticism, you must assume the artist has a secret message ________ (hide) within the work.  （2016 江苏改）  
-
 2. It is lucky we booked a room, or we________(have) nowhere to stay now.  （2015 安徽改）  
-
 3. Claire had her luggage ________ (check) an hour before her plane left.  （2011 陕西改）  
 C.   
-
 4. Could you please tell me where you bought the shoes you had ________yesterday?  （2005 辽宁改）  
-
 答案：
-1. hidden  
-2. would have  
-3. checked  
-4. on  
+1. hidden  2. would have  3. checked  4. on  
 
 # ***\*have*** aux v  重难点词汇
 英音 həv     美音 həv  
@@ -1611,7 +1588,6 @@ C.
 真题解析
 ---
 1. It might have saved me some trouble ________ (如果我知道) the schedule.  （2015 江苏改）  
-
 答案：
 1. had I known / if I had known  
 
@@ -2018,13 +1994,10 @@ Notes: hear强调听的结果，listen强调听的动作。如：
 真题解析
 ---
 1. Listen! Do you hear someone________ (call) for help?  （2010 湖南改）  
-
 2. — When did you last hear ________ Jay?
 —  He phoned me this morning, and we agreed ________ a time and place to meet.  （2008 湖南改）  
-
 答案：
-1. calling  
-2. from; on  
+1. calling  2. from; on  
 
 # ***\*hearing*** n
 英音 'hɪərɪŋ     美音 'hɪrɪŋ  
@@ -2139,7 +2112,6 @@ hearty /'hɑːti/ adj
 真题解析
 ---
 1. No matter what you do, you should ________ (用心于) it.  （2001 上海春改）  
-
 答案：
 1. put your heart into  
 
@@ -2313,7 +2285,6 @@ heater /heater/ n [C]
 真题解析
 ---
 1. Mr Smith used to smoke ________ (heavy) but he has given it up.  （2004 天津改）  
-
 答案：
 1. heavily  
 
@@ -2654,13 +2625,10 @@ A.check
 B.allow  
 C.stop  
 D.help  
-
 2. — Do you think I could borrow your bicycle?
 — Yes, ______ (用吧).  （2005 浙江改）  
-
 答案：
-1. D  
-2. help yourself  
+1. D  2. help yourself  
 
 # ***\*help*** n  重难点词汇
 英音 help     美音 help  
@@ -2963,7 +2931,6 @@ heroic /hə'rəʊɪk/ adj
 真题解析
 ---
 1. Catherine bought a postcard of the place she was visiting, addressed it to ________(her) and then posted it at the nearby post office.  （2006 安徽改）  
-
 答案：
 1. herself  
 
@@ -2999,7 +2966,6 @@ heroic /hə'rəʊɪk/ adj
 真题解析
 ---
 1. We are at your service. Don’t hesitate ________ (turn) to us if you have any further problems.  （2009 福建改）  
-
 答案：
 1. to turn  
 
@@ -3277,7 +3243,6 @@ heroic /hə'rəʊɪk/ adj
 真题解析
 ---
 1. Food safety is ________ (high) important, so the government spares no effort to prevent food pollution.  （2008 上海改）  
-
 答案：
 1. highly  
 
@@ -3388,7 +3353,6 @@ Notes: 美语里高速公路是freeway或expressway。
 ---
 1. — Who called me this morning when I was out?
 — A man calling ________ (him) Robert.  （2006 福建改）  
-
 答案：
 1. himself  
 
@@ -3894,19 +3858,12 @@ historian /hɪ'stɔːriən/ n [C]
 真题解析
 ---
 1. I had a strong desire to reach in and play with the toy, but ________(hold) back thankfully by the shop window.  （2015 湖南改）  
-
 2. You have to be a fairly good speaker to ________ (吸引听众的兴趣) for over an hour.  （2008 辽宁改）  
-
 3. — Is Peter there?
 — Hold ________ , please. I'll see if I can find him for you.  （2008 江苏改）  
-
 4. We want to rent a bus which can ________ (容纳)40 people for our trip to Beijing.  （2006 天津）  
-
 答案：
-1. was held  
-2. hold listeners'  interest  
-3. on  
-4. hold  
+1. was held  2. hold listeners'  interest  3. on  4. hold  
 
 # ***\*hold*** n  重难点词汇
 英音 həʊld     美音 hoʊld  
@@ -3962,7 +3919,6 @@ holding /'həʊldɪŋ/ n
 真题解析
 ---
 1. As a grassroots singer, she reads everything she can get hold _________ concerning music, and takes every opportunity to improve herself.  （2014 福建改）  
-
 答案：
 1. of  
 
@@ -4084,7 +4040,6 @@ holding /'həʊldɪŋ/ n
 真题解析
 ---
 1. I began to feel ________ home in the new school when I saw some familiar faces.  （2008 山东改）  
-
 答案：
 1. at  
 
@@ -4273,7 +4228,6 @@ holding /'həʊldɪŋ/ n
 真题解析
 ---
 1. ________ (老实说), the pay isn't attractive enough, though the job itself is quite interesting.  （2009 浙江改）  
-
 答案：
 1. To be honest / Honestly  
 
@@ -4448,7 +4402,6 @@ holding /'həʊldɪŋ/ n
 真题解析
 ---
 1. I feel greatly honored ________ (welcome) into their society.  （2008 北京）  
-
 答案：
 1. to be welcomed  
 
@@ -4663,12 +4616,9 @@ hooked /hʊkt/ adj [不用于名词前]
 真题解析
 ---
 1. If we leave right away, ________ (hopeful) we'll arrive on time.  （2013 浙江改）  
-
 2. The boy looked at his father ________ (满怀希望地) because he thought his father had brought him a present.  （2013 陕西）  
-
 答案：
-1. hopefully  
-2. hopefully  
+1. hopefully  2. hopefully  
 
 # ***\*hopeless*** adj
 英音 'həʊpləs     美音 'hoʊpləs  
@@ -4909,7 +4859,6 @@ Notes: 美式英语习惯在hospital前加定冠词，英式英语则习惯不�
 真题解析
 ---
 1. In a week, Lucy has already been interviewed by six ________ (医院).  （2015 陕西）  
-
 答案：
 1. hospitals  
 
@@ -5112,7 +5061,6 @@ hourly /'aʊəli/ adv
 真题解析
 ---
 1. As a rule, domestic servants doing odd jobs are paid ________ the hour.  （2004 上海春改）  
-
 答案：
 1. by   
 
@@ -5367,27 +5315,18 @@ hourly /'aʊəli/ adv
 真题解析
 ---
 1. By boat is the only way to get here, which is ________ we arrived.  （2018 江苏改）  
-
 2. — Michael was late for Mr. Smith's chemistry class this morning.
 — ________ (怎么可能)? As far as I know, he never came late to class.  （2017 天津改）  
-
 3. — Did you forget about my birthday?
 — ________ I've booked a table at Michel's restaurant for this evening.  （2011 全国）  
 A.What then?  
 B.I'm afraid so.  
 C.How could I?  
 D.For sure.  
-
 4. Twenty students want to attend the class that aims to teach how ________ (read) fast.  （2011 辽宁改）  
-
 5. Students are always interested in finding out how ________ they can go with a new teacher.  （2008 安徽改）  
-
 答案：
-1. how  
-2. How come  
-3. C  
-4. to read  
-5. far  
+1. how  2. How come  3. C  4. to read  5. far  
 
 # ***\*however*** adv
 英音 haʊ'evə(r)     美音 haʊ'evər  
@@ -5428,15 +5367,10 @@ Notes: however作此用法时，可置于句首、句中或句末，但必须与
 真题解析
 ---
 1. Queen ElizabethⅡ is often thought to be the richest woman in the world. _______, her personal wealth seems rather small.  （2012 安徽改）  
-
 2. ________ hard you try, it is difficult to lose weight without cutting down the amount you eat.  （2012 湖南改）  
-
 3. However ________ (一个严重的问题) you may have, you should gather your courage to face the challenge.  （2010 上海改）  
-
 答案：
-1. However  
-2. However / No matter how  
-3. serious a problem  
+1. However  2. However / No matter how  3. serious a problem  
 
 # ***\*however*** conj
 英音 haʊ'evə(r)     美音 haʊ'evər  
@@ -5923,17 +5857,14 @@ hunting /'hʌntɪŋ/ n
 ---
 1. — OK, I'll fix your computer right now.  
 — Oh, take your time. I'm ___________ no hurry.   （2014 天津改）  
-
 2. — Thank you for your MP4 player. I'll ask Mary to take it to you soon.
 — ________. I've bought a new one.  （2009 江西）  
 A.No sense  
 B.No hurry  
 C.No way  
 D.No use  
-
 答案：
-1. in  
-2. B  
+1. in  2. B  
 
 # ***\*hurry*** v
 英音 'hʌri     美音 'hɜːri  
@@ -5983,7 +5914,6 @@ hurriedly /'hʌridli/ adv
 ---
 1. — Just a moment. I haven't finished packing my suitcase.
 — Hurry _________. It's high time we left for the airport.  （2011 天津改）  
-
 答案：
 1. up  
 
@@ -6050,12 +5980,9 @@ hurriedly /'hʌridli/ adv
 ---
 1. — Do you know if Linda is willing to take charge of the program?
 — I doesn’t hurt ________ (ask), does it?  （2010 安徽改）  
-
 2. Mike didn’t play football yesterday because he ________ (把腿弄伤了).  （2006 全国改）  
-
 答案：
-1.  to ask  
-2. had hurt his leg(s)  
+1.  to ask  2. had hurt his leg(s)  
 
 # ***\*hurt*** n
 英音 hɜːt     美音 hɜːrt  

@@ -188,7 +188,6 @@ lacking /'lækɪŋ/ adj
 真题解析
 ---
 1. Though lacking of money, his parents managed to send him to university.  （改错）  
-
 答案：
 1. 去掉 of  
 
@@ -225,12 +224,9 @@ lacking /'lækɪŋ/ adj
 真题解析
 ---
 1. More and more high-rise buildings have been built in big cities ________ (因缺少) space.  （2010 福建改）  
-
-2. Health problems are closely connected with bad eating habits and ________ (缺乏) exercise.  （）  
-
+2. Health problems are closely connected with bad eating habits and ________ (缺乏) exercise.  
 答案：
-1. for lack of  
-2. a lack of  
+1. for lack of  2. a lack of  
 
 # ***\*ladder*** n
 英音 'lædə(r)     美音 'lædər  
@@ -738,7 +734,6 @@ lastly /'læstli/ adv
 真题解析
 ---
 1. The performance ________ (持续) nearly three hours, but few people left the theater early.  （2008 全国改）  
-
 答案：
 1. lasted  
 
@@ -827,7 +822,6 @@ lastly /'læstli/ adv
 真题解析
 ---
 1. A few minutes late, the instructor asked me to stop the car.  （2017 全国   改错）  
-
 答案：
 1. late → later  
 
@@ -1180,7 +1174,6 @@ lawful /'lɔːfl/ adj
 真题解析
 ---
 1. Sydney wants to become a ________ (律师) in the future.  （2009 全国）  
-
 答案：
 1. lawyer  
 
@@ -1365,8 +1358,7 @@ laziness /'leɪzinəs/ n [U]
 
 真题解析
 ---
-1. We firmly believe that war never settles anything. It only leads _______ violence.  （）  
-
+1. We firmly believe that war never settles anything. It only leads _______ violence.  
 答案：
 1. to  
 
@@ -1463,8 +1455,7 @@ laziness /'leɪzinəs/ n [U]
 
 真题解析
 ---
-1. Spring has come, and the trees are thick with green ________ (leaf).  （）  
-
+1. Spring has come, and the trees are thick with green ________ (leaf).  
 答案：
 1. leaves  
 
@@ -1692,7 +1683,6 @@ learner /'lɜːnə(r)/ n [C]
 真题解析
 ---
 1. __________ (learn) more about Chinese culture, Jack has decided to take Chinese folk music as an elective course.  （2015 福建改）  
-
 答案：
 1. To learn  
 
@@ -1762,16 +1752,13 @@ learner /'lɜːnə(r)/ n [C]
 真题解析
 ---
 1. The house still needed a lot of work, but ________ (起码) the kitchen was fi nished.  （2008 全国改）  
-
 2. David has won the first prize in singing; he is still very excited now and feels ________ desire to go to bed.   （2005 江苏）  
 A.the most   
 B.more  
 C.worse   
 D.the least  
-
 答案：
-1. at least  
-2. D  
+1. at least  2. D  
 
 # ***\*least*** adj
 英音 liːst     美音 liːst  
@@ -1981,21 +1968,12 @@ D.the least
 真题解析
 ---
 1. Now I am leaving home to college.  （2016 全国 改错）  
-
 2. Video games can be a poor infl uence if ___________ (leave) in the wrong hands.  （2015 湖南改）  
-
 3. The teacher stressed again that the students should not leave ________ any important details while retelling the story.  （2008 湖北改）  
-
-4. Don't leave the water _________ (run) while you brush your teeth.  （）  
-
-5. Go and join in the party. Leave it ________ me to do the washing-up.  （）  
-
+4. Don't leave the water _________ (run) while you brush your teeth.  
+5. Go and join in the party. Leave it ________ me to do the washing-up.  
 答案：
-1. to → for  
-2. left  
-3. out  
-4. running  
-5. to / with  
+1. to → for  2. left  3. out  4. running  5. to / with  
 
 # ***\*leave*** n  重难点词汇
 英音 liːv     美音 liːv  
@@ -2289,7 +2267,6 @@ legendary /'ledʒəndri/ adj
 真题解析
 ---
 1. If you are in trouble, Mike is always willing to ________ (帮忙). (lend)  （2013 天津改）  
-
 答案：
 1. lend a hand  
 
@@ -2376,7 +2353,6 @@ lengthen /'leŋθən/ v
 真题解析
 ---
 1. I used to earn ________ (不到) a pound a week when I first started work.   （2006 陕西改）  
-
 答案：
 1. less than  
 
@@ -2448,7 +2424,6 @@ lessen 'lesn v
 真题解析
 ---
 1. Tony can hardly boil an egg,  ________ (更不用说) cook dinner.  （2013 全国改）  
-
 答案：
 1. even / much / still less / let alone  
 
@@ -2621,12 +2596,9 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 真题解析
 ---
 1. Let those in need ________ (understand) that we will go all out to help them.   （2013 陕西改）  
-
 2. He accidentally let ________ he had quarrelled with his wife and that he hadn't been home for a couple of weeks.  （2004 湖南改）  
-
 答案：
-1. understand  
-2. out  
+1. understand  2. out  
 
 # ***\*letter*** n
 英音 'letə(r)     美音 'letər  
@@ -2948,7 +2920,6 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 真题解析
 ---
 1. There is no doubt that this candidate’s advantage lies ________ his ability to communicate with foreigners in English.  （2015 湖北改）  
-
 答案：
 1. in  
 
@@ -3069,7 +3040,6 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 真题解析
 ---
 1. You can change your job, you can move house, but friendship is meant to be _______ life.  （2012 安徽改）  
-
 答案：
 1. for  
 
@@ -3473,7 +3443,6 @@ lighter /'laɪtə(r)/ n [C]
 ---
 1. — How about dinner tonight? It’s on me. 
 — Oh, ____________ (我愿意).  （2014 四川改）  
-
 答案：
 1. I’d like / love to  
 
@@ -3567,7 +3536,6 @@ Notes: likely 的主语既可以是人或物，也可以是it。其结构为sb /
 真题解析
 ---
 1. If you find something you love doing outside of the office, you'll be less likely ________ (bring) your work home.  （2016 全国）  
-
 答案：
 1. to bring  
 
@@ -3601,7 +3569,6 @@ Notes: likely 的主语既可以是人或物，也可以是it。其结构为sb /
 真题解析
 ---
 1. Studies show that people are more ________ (可能) to suffer from back problems if they always sit before computer screens for long hours.  （2011 陕西改）  
-
 答案：
 1. likely  
 
@@ -3719,7 +3686,6 @@ limitless /'lɪmɪtləs/ adj
 真题解析
 ---
 1. Knowledge and learning are important if we want to be successful, but they may also ________ (限制) our thinking.  （2011 湖北改）  
-
 答案：
 1. limit  
 
@@ -4187,7 +4153,6 @@ Notes: 形容词的比较级和最高级更常用smaller和 smallest，而little
 真题解析
 ---
 1. There's ________ cooking oil left in the house. Would you go to the corner store and get some?  （2004 北京改）  
-
 答案：
 1. little  
 
@@ -4215,7 +4180,6 @@ Notes: little作状语置于句首时，句子往往部分倒装，结构为：l
 真题解析
 ---
 1. Little ________ (罗斯在乎) her own safety, though she was in great danger herself.  （2009 陕西改）  
-
 答案：
 1. did Rose care about  
 
@@ -4393,12 +4357,9 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 真题解析
 ---
 1. Had she ________ (遵守) her promise, she would have made it to Yale University.  （2010 湖北改）  
-
 2. In modern times, people have to learn to live ________ all kinds of pressure although they are leading a comfortable life.  （2008 湖北改）  
-
 答案：
-1. live up to / kept  
-2. with  
+1. live up to / kept  2. with  
 
 # ***\*livelihood*** n
 英音 'laɪvlihʊd     美音 'laɪvlihʊd  
@@ -4452,7 +4413,6 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 真题解析
 ---
 1. The lessons given by Mr Smith are always ________ (生动的) and interesting.  （2001 上海春改）  
-
 答案：
 1. lively  
 
@@ -4950,16 +4910,13 @@ locally /'ləʊkəli/ adv
 真题解析
 ---
 1. According to a medical journal, runners live three years ________ (long) than non-runners.  （2018 全国改）  
-
 2. You won't find paper cutting difficult ________ (只要) you keep practicing it.  （2015 北京改）  
 A.even though  
 B.as long as  
 C.as if  
 D.ever since  
-
 答案：
-1. longer  
-2. as / so long as  
+1. longer  2. as / so long as  
 
 # ***\*long*** vi  重难点词汇
 英音 lɒŋ     美音 lɔːŋ  
@@ -5234,24 +5191,13 @@ D.ever since
 真题解析
 ---
 1. He must have sensed that I ______ (look) at him. He suddenly glanced at me and said quietly, “Why are you staring at me like that?”  （2015 湖南改）  
-
 2. Terry, please look up ________ your cell phone when Grandma is talking to you.   （2014 安徽改）  
-
 3. I often look _______ the words I don’t know in the dictionary or on the Internet.  （2011 四川改）  
-
 4. No matter how low you consider yourself, there is always someone looking up ________ you wishing they were that high.   （2010 安徽改）  
-
 5. It is reported that the police will soon look ________ the case of two missing children.   （2009 江西改）  
-
 6. Would you please look ________ the paper for me and see if there are any obvious mistakes?   （2009 湖北改）  
-
 答案：
-1. was looking  
-2. from  
-3. up  
-4. to  
-5. into  
-6. through  
+1. was looking  2. from  3. up  4. to  5. into  6. through  
 
 # ***\*look*** n  重难点词汇
 英音 lʊk     美音 lʊk  
@@ -6028,8 +5974,7 @@ loyalty /'lɔɪəlti/ n [U]
 真题解析
 ---
 1. Tom: Mike, our team will play against the Rockets this weekend. I’m sure we will win.
-Mike: ________(祝你好运)!  （）  
-
+Mike: ________(祝你好运)!  
 答案：
 1. Good luck  
 

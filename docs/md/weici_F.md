@@ -138,8 +138,7 @@
 
 真题解析
 ---
-1. ________ (face) with so much trouble, we failed to complete the task on time.  （）  
-
+1. ________ (face) with so much trouble, we failed to complete the task on time.  
 答案：
 1. Faced  
 
@@ -251,7 +250,6 @@
 真题解析
 ---
 1. There’s no reason to be disappointed. ________ (事实上), this could be rather amusing.  （2014 浙江改）  
-
 答案：
 1. As a matter of fact / In fact / Actually  
 
@@ -403,7 +401,6 @@
 真题解析
 ---
 1. William found it increasingly diffi cult to read, for his eyesight was beginning to ________ (衰退).  （2011 全国改）  
-
 答案：
 1. fail  
 
@@ -900,7 +897,6 @@ faithfully /'feɪθfəli/ adv
 真题解析
 ---
 1. I am awfully tired, but I know I'll never fall sleep.  （2013 浙江 改错）  
-
 答案：
 1. sleep → asleep  
 
@@ -1044,7 +1040,6 @@ Notes: family作主语时，若指“各个家庭成员”，谓语动词用复�
 真题解析
 ---
 1. Zhejiang is f________ for tea and silk.  （2005 浙江）  
-
 答案：
 1. famous  
 
@@ -1334,18 +1329,11 @@ A.far more interesting
 B.much less interesting  
 C.no more interesting  
 D.any less interesting  
-
 2. So far we have done a lot to build a low-carbon economy, but it is ________ (远非) ideal. We have to work still harder.  （2010 江苏改）  
-
 3. In ancient times, people rarely travelled long distances and most farmers only travelled ________ (到…那么远) the local market.   （2010 上海改）  
-
 4. Progress ________ (be) so far very good and we are sure that the work will be finished on time.  （2009 全国改）  
-
 答案：
-1. A  
-2. far from  
-3. as far as  
-4. has been  
+1. A  2. far from  3. as far as  4. has been  
 
 # ***\*far-reaching*** adj
 英音 fɑː 'riːtʃɪŋ     
@@ -1608,8 +1596,7 @@ fascinated /'fæsɪneɪtɪd/ adj
 真题解析
 ---
 1. Those who change mobile phones frequently will pay a heavy price for being________(fashion).
-  （）  
-
+  
 答案：
 1. fashionable  
 
@@ -1631,8 +1618,7 @@ fascinated /'fæsɪneɪtɪd/ adj
 
 真题解析
 ---
-1. Those who change mobile phones frequently will pay a heavy price for being________ (fashion).  （）  
-
+1. Those who change mobile phones frequently will pay a heavy price for being________ (fashion).  
 答案：
 1. fashionable  
 
@@ -1877,13 +1863,10 @@ faultless /'fɔːltləs/ adj
 
 真题解析
 ---
-1. He is such a man who is always finding fault ________ other people.  （）  
-
-2. "I don't think it's ________ (我的过错) that the TV blew up. I just turned it on, that's all," said the boy.  （）  
-
+1. He is such a man who is always finding fault ________ other people.  
+2. "I don't think it's ________ (我的过错) that the TV blew up. I just turned it on, that's all," said the boy.  
 答案：
-1. with  
-2. my fault  
+1. with  2. my fault  
 
 # ***\*fault*** vt
 英音 fɔːlt     美音 fɔːlt  
@@ -1926,7 +1909,6 @@ favo(u)rable /'feɪvərəbl/ adj
 真题解析
 ---
 1. When asked about their opinions about the schoolmaster, many teachers would prefer to see him step aside ________ favor of younger men.  （2011 湖北改）  
-
 答案：
 1. in  
 
@@ -2001,12 +1983,9 @@ favo(u)rable /'feɪvərəbl/ adj
 真题解析
 ---
 1. The dishes that I cooked were Mom's favoritest.  （2016 四川 改错）  
-
 2. What is your ________(最喜欢的) color?  （2007全国）  
-
 答案：
-1. favoritest→favo(u)rite  
-2. favo(u)rite  
+1. favoritest→favo(u)rite  2. favo(u)rite  
 
 # ***\*favo(u)rite*** n
 英音 'feɪvərɪt     美音 'feɪvərɪt  
@@ -2145,7 +2124,6 @@ fearless /'fɪələs/ adj
 真题解析
 ---
 1. He got to the station early, ________ fear of missing his train.  （2004 江苏改）  
-
 答案：
 1. for  
 
@@ -2391,7 +2369,6 @@ Notes: fee指进入或加入某组织所付的费用，还可指为专业服务�
 ---
 1. Butterflies feed ________ a sweet liquid produced by flowers, which other insects collect.  （2013 湖北改）  
 B.   
-
 答案：
 1. on  
 
@@ -2618,15 +2595,10 @@ Notes: 在此结构中，it作形式宾语，真正的宾语为后面的不定�
 真题解析
 ---
 1. I felt happily that their life had improved.  （2018 全国 改错）  
-
 2. Lydia doesn’t feel like _______ (study) abroad. Her parents are old.   （2011 四川改）  
-
-3. The water________ (feel) cool when I jumped into the pool for morning exercise.  （）  
-
+3. The water________ (feel) cool when I jumped into the pool for morning exercise.  
 答案：
-1. happily → happy  
-2. studying  
-3. felt  
+1. happily → happy  2. studying  3. felt  
 
 # ***\*feel*** n  重难点词汇
 英音 fiːl     美音 fiːl  
@@ -2914,7 +2886,6 @@ Notes: 在此结构中，it作形式宾语，真正的宾语为后面的不定�
 真题解析
 ---
 1. He caught a high f________ . His body temperature was as high as 40°C.  （2007 浙江）  
-
 答案：
 1. fever  
 
@@ -2986,12 +2957,9 @@ Notes: few不论作形容词还是作代词，在句中大都表示否定，a fe
 真题解析
 ---
 1. There are a small number of people involved, possibly as little as twenty.   （2013 江西改 改错）  
-
 2. I hear ________ (相当多) boys in your school like playing football in their spare time, though others prefer basketball. (few)  （2006 辽宁改）  
-
 答案：
-1. little → few  
-2. a good few / quite a few / not a few  
+1. little → few  2. a good few / quite a few / not a few  
 
 # ***\*fiancé*** n
 英音 fɪ'ɒnseɪ     美音 ˌfiːɑːn'seɪ  
@@ -3119,7 +3087,6 @@ fiercely /fɪəsli/ adv
 真题解析
 ---
 1. They look like the teeth of a ________ (凶猛的) animal.  （2010 全国）  
-
 答案：
 1. fierce  
 
@@ -3356,7 +3323,6 @@ fighting /'faɪtɪŋ/ n
 ---
 1. The present situation is very complex, so I think it will take me some time to figure ________ its reality.  （2008 湖北改）  
 B.   
-
 答案：
 1. out  
 
@@ -3646,7 +3612,6 @@ B.
 真题解析
 ---
 1. Do you think shopping online will ________ (final) take the place of shopping in stores?   （2010 浙江改）  
-
 答案：
 1. finally  
 
@@ -3811,8 +3776,7 @@ financially /fai'nænʃəli; fə'nænʃəli/ adv
 
 真题解析
 ---
-1. A cook will be immediately fired if he is found _________ (smoke) in the kitchen.  （）  
-
+1. A cook will be immediately fired if he is found _________ (smoke) in the kitchen.  
 答案：
 1. smoking  
 
@@ -4347,7 +4311,6 @@ firstly // adv [句子副词]
 真题解析
 ---
 1. At the first, I thought I knew everything and could make decisions by myself.  （2016 全国改 改错）  
-
 答案：
 1. 去掉 the  
 
@@ -4550,7 +4513,6 @@ Notes: 同一种类的鱼单复数同形；fishes则表示“不同种类的鱼�
 真题解析
 ---
 1. Amy joined a painting group but didn't seem to fit ________, so she left.  （2009 山东改）  
-
 答案：
 1. in  
 
@@ -4998,7 +4960,6 @@ flexibility /ˌfleksə'bɪləti/ n [U]
 真题解析
 ---
 1. Mothers holding jobs outside the home should have ________ (灵活的) schedules to make it easier to care for their children.  （2010 山东改）  
-
 答案：
 1. flexible  
 
@@ -5070,7 +5031,6 @@ flexibility /ˌfleksə'bɪləti/ n [U]
 真题解析
 ---
 1. If steel is heavier than water, why are ships able to _______ (漂浮) on the sea?  （2015 浙江改）  
-
 答案：
 1. float  
 
@@ -5485,7 +5445,6 @@ focus(s)ed /'fəʊkəst/ adj
 真题解析
 ---
 1. Most of us are more focused ________ our tasks in the morning than we are later in the day.  （2016 全国）  
-
 答案：
 1. on  
 
@@ -5721,7 +5680,6 @@ follower /'fɒləʊə(r)/ n [C]
 真题解析
 ---
 1. He hurried home, never once looking back to see if he________ (follow).  （2017 江苏改）  
-
 答案：
 1. was being followed  
 
@@ -5801,8 +5759,7 @@ follower /'fɒləʊə(r)/ n [C]
 
 真题解析
 ---
-1. More and more young people are fond ________ playing tennis nowadays  （）  
-
+1. More and more young people are fond ________ playing tennis nowadays  
 答案：
 1. of  
 
@@ -5925,8 +5882,7 @@ follower /'fɒləʊə(r)/ n [C]
 
 真题解析
 ---
-1. Well, you've acted ________ (愚蠢地) and you will pay for it.  （）  
-
+1. Well, you've acted ________ (愚蠢地) and you will pay for it.  
 答案：
 1. foolishly / stupidly  
 
@@ -6113,15 +6069,10 @@ follower /'fɒləʊə(r)/ n [C]
 ---
 1. — Good morning, Mr. Lee's offi ce.
 — Good morning. I'd like to make an appointment________next Wednesday afternoon.  （2018 北京改）  
-
 2. We have more time with after-school activities.  （2014 全国 改错）  
-
 3. Nothing is so easy as ________ parents to raise their expectations of their children too high.  （2012 福建改）  
-
 答案：
-1. for  
-2. with → for  
-3. for  
+1. for  2. with → for  3. for  
 
 # ***\*for*** conj
 英音 fə(r)     美音 fər  
@@ -6142,7 +6093,6 @@ follower /'fɒləʊə(r)/ n [C]
 真题解析
 ---
 1. I am not afraid of tomorrow, ________ I have seen yesterday and I love today.  （2016 北京改）  
-
 答案：
 1. for / because  
 
@@ -6368,7 +6318,6 @@ forceful  /'fɔːsfl/ adj
 真题解析
 ---
 1. Do you speak any________ (外国) languages?  （2012 全国）  
-
 答案：
 1. foreign  
 
@@ -6512,7 +6461,6 @@ A.forget it
 B.my pleasure  
 C.help yourself  
 D.pardon me  
-
 答案：
 1. A  
 
@@ -6570,7 +6518,6 @@ D.pardon me
 真题解析
 ---
 1. One of my favourite sayings is "Understand all and ________ (宽恕) all."  （2007 陕西）  
-
 答案：
 1. forgive  
 
@@ -6644,7 +6591,6 @@ D.pardon me
 真题解析
 ---
 1. You'd sound a lot more polite if you make a request ________ (以…形式) a question.  （2009 湖北改）  
-
 答案：
 1. in the form of  
 
@@ -6801,7 +6747,6 @@ formerly /'fɔːməli/ adv
 真题解析
 ---
 1. Most of us, if we know even a little about where our food comes from, understand that every bite put into our  _______ (former) alive.  （2015 浙江改）  
-
 答案：
 1. formerly  
 
@@ -6866,7 +6811,6 @@ formerly /'fɔːməli/ adv
 真题解析
 ---
 1. I hope to be back in a________ (两星期).  （2010全国）  
-
 答案：
 1. fortnight  
 
@@ -7422,7 +7366,6 @@ Notes: free常与名词构成合成词，意为“不含…的”、 “无…�
 真题解析
 ---
 1. I felt my parents couldn't understand me so I hoped I could be freely from them.  （2016 全国 改错）  
-
 答案：
 1. freely → free  
 
@@ -7631,7 +7574,6 @@ frozen /'frəʊzn/ adj
 真题解析
 ---
 1. Drunk driving, which was once a ________ (经常的) occurrence, is now under control.  （2010 福建改）  
-
 答案：
 1. frequent  
 
@@ -7800,12 +7742,9 @@ freshness /freʃnəs/ n [U]
 真题解析
 ---
 1. In spite of repeated wrongs done to him, he looks ________ (friend) to people greeting him.  （2008 福建改）  
-
-2. Green products are becoming more and more popular because they are________ (环保的).  （）  
-
+2. Green products are becoming more and more popular because they are________ (环保的).  
 答案：
-1. friendly  
-2. environmentally friendly  
+1. friendly  2. environmentally friendly  
 
 # ***\*friendship*** n
 英音 'frendʃɪp     美音 'frendʃɪp  
@@ -7978,7 +7917,6 @@ Notes: frighten用法及意义同scare，但比scare稍正式。
 真题解析
 ---
 1. Shirley, a real book lover, often brings home many books to read ________ the library.  （2011 重庆改）  
-
 答案：
 1. from  
 
@@ -8185,7 +8123,6 @@ Notes: fruits表示“各种水果”。
 真题解析
 ---
 1. Most air pollution is caused by the burning of ________ (燃料) like coal, gas and oil.  （2008 天津改）  
-
 答案：
 1. fuel(s)  
 
@@ -8397,8 +8334,7 @@ Notes: fruits表示“各种水果”。
 
 真题解析
 ---
-1. This is not a match. We're playing chess just ________ fun.   （）  
-
+1. This is not a match. We're playing chess just ________ fun.   
 答案：
 1. for  
 
@@ -8615,7 +8551,6 @@ Notes: 指“一件家具”时，可用a piece of furniture或an article of fur
 真题解析
 ---
 1. The only piece of f________ he has in his room is a bed.  （2006 浙江）  
-
 答案：
 1. furniture  
 

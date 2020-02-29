@@ -111,14 +111,14 @@ def gy_derivative(t): #10112
            
 def gy_exam_link(exam,case): #10112
     if case=='q':
-        print(exam['subject']+'  （'+exam['source']+'）  ',file=f)
+        if exam['source']!='' : print(exam['subject']+'  （'+exam['source']+'）  ',file=f)
+        if exam['source']=='' : print(exam['subject']+'  ',file=f)
         if exam['answer_a']!='' :print('A.'+exam['answer_a']+'  ',file=f)
         if exam['answer_b']!='' :print('B.'+exam['answer_b']+'  ',file=f)
         if exam['answer_c']!='' :print('C.'+exam['answer_c']+'  ',file=f)
         if exam['answer_d']!='' :print('D.'+exam['answer_d']+'  ',file=f)
     if case=='a':
         print(exam['answer'],end='  ',file=f)
-    print(file=f)
     
 def chuli(t):
     a=json.loads(t)
@@ -195,7 +195,8 @@ def chuli(t):
             print(str(i)+'. ',end='',file=f)
             gy_exam_link(exam,'a')
             i=i+1            
-        print(file=f)            
+        print(file=f) 
+        print(file=f)
          
 # 欢迎文字
 print('\n\n')
