@@ -1,6 +1,6 @@
 # Zz
 
-# ***\*zebra*** n
+# ***<font color=#0099ff>\*zebra</font>*** n
 英音 'zi:brə, 'zebrə     美音 'zi:brə, 'zebrə  
 
 | 词频 1 |  
@@ -12,7 +12,7 @@
 ### 1.*高义频：* **斑马**  
 
 
-# ***\*zero*** n
+# ***<font color=#0099ff>\*zero</font>*** n
 英音 'zɪərəʊ     美音 'zɪroʊ  
 
 | 词频 3 |  
@@ -24,7 +24,7 @@
 ### 1.*高义频：* **(数字的) 零；(温度的) 零度**  
 
 
-# ***\*zero*** num
+# ***<font color=#0099ff>\*zero</font>*** num
 英音 'zɪərəʊ     美音 'zɪroʊ  
 
 | 词频 3 |  
@@ -33,14 +33,14 @@
 ---
 ### 1.*高义频：* **(数字的) 零；(温度的) 零；最低点：**  
 
- > twenty degrees below zero  
+ > *twenty degrees below zero*  
  > 零下20度    
 
- > a zero-carbon city   
+ > *a zero-carbon city *  
  > 无碳城市    
 
 
-# ***\*zinc*** n
+# ***<font color=#0099ff>\*zinc</font>*** n
 英音 zɪŋk     美音 zɪŋk  
 
 | 词频 1 |  
@@ -50,7 +50,7 @@
 ### 1.**锌**  
 
 
-# ***\*zip*** n
+# ***<font color=#0099ff>\*zip</font>*** n
 英音 zɪp     美音 zɪp  
 
 | 词频 1 |  
@@ -62,7 +62,7 @@
 ### 1.*高义频：* **(BrE) 拉链；拉锁**  
 
 
-# ***\*zip*** v
+# ***<font color=#0099ff>\*zip</font>*** v
 英音 zɪp     美音 zɪp  
 
 | 词频 1 |  
@@ -72,11 +72,11 @@
 ### 1.*高义频：* **vt & vi 拉开拉链；拉上拉链**  
 
  > **zipped up**  
- > She zipped up her dress.   
+ > *She zipped up her dress. *  
  > 她拉上了衣服的拉链。    
 
 
-# ***\*zipper*** n
+# ***<font color=#0099ff>\*zipper</font>*** n
 英音 'zɪpə(r)     美音 'zɪpər  
 
 | 词频 1 |  
@@ -88,7 +88,7 @@
 ### 1.*高义频：* **(AmE) 拉链；拉锁**  
 
 
-# ***\*zone*** n
+# ***<font color=#0099ff>\*zone</font>*** n
 英音 zəʊn     美音 zoʊn  
 
 | 词频 3 | 书面 1 |  
@@ -99,17 +99,17 @@
 ---
 ### 1.*高义频：* **地区；区域；地带：**  
 
- > residential zones   
+ > *residential zones *  
  > 住宅区    
 
- > a time zone   
+ > *a time zone *  
  > 时区    
 
- > economic and technological development zones   
+ > *economic and technological development zones *  
  > 经济技术开发区    
 
 
-# ***\*zoo*** n
+# ***<font color=#0099ff>\*zoo</font>*** n
 英音 zuː     美音 zuː  
 
 | 词频 4 |  
@@ -121,7 +121,7 @@
 ### 1.*高义频：* **动物园**  
 
 
-# ***\*zoology*** n
+# ***<font color=#0099ff>\*zoology</font>*** n
 英音 zəʊ'ɒlədʒi     美音 zoʊ'ɑːlədʒi  
 
 | 词频 1 |  
@@ -131,7 +131,7 @@
 ### 1.**动物学**  
 
 
-# ***\*zoom*** vi
+# ***<font color=#0099ff>\*zoom</font>*** vi
 英音 zuːm     美音 zuːm  
 
 | 词频 1 |  

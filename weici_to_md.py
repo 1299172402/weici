@@ -62,7 +62,7 @@ def gy_example(t): #18417
         while b[-1]==' ':
             b=b[:-1]
         print(' > **'+b+'**  ',file=f)
-    print(' > '+t['english']+'  ',file=f)
+    print(' > *'+t['english']+'*  ',file=f)
     if t['source']!='' : print(' > '+t['chinese']+'  （'+t['source']+'）  ',file=f)
     if t['source']=='' : print(' > '+t['chinese']+'  '+t['source']+'  ',file=f)
     print(file=f)
@@ -85,7 +85,7 @@ def gy_biscrimination(t): #16597
             gy_example(example)
     
 def gy_fixed_collocation(t): #26462
-    print('## \*'+t['fixed_word'],file=f)
+    print('## <font color=#0099ff>\*'+t['fixed_word']+'</font>',file=f)
     if len(t['gy_paraphrase']) >= 1:
         i=1
         for exam in t['gy_paraphrase']:
@@ -129,7 +129,7 @@ def chuli(t):
         b=b[1:]
     while b[-1]==' ':
         b=b[:-1]
-    print('# ***\*' + b + '*** ' + a['part_of_speech'],end='', file = f)
+    print('# ***<font color=#0099ff>\*' + b + '</font>*** ' + a['part_of_speech'],end='', file = f)
     if a['point']==1 :print('  重难点词汇',end='',file=f)
     print(file=f)
     
