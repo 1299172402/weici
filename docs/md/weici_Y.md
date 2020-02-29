@@ -1,6 +1,6 @@
 # Yy
 
-# *** *yak*** n
+# ***\*yak*** n
 英音 jæk     美音 jæk  
 
 | 词频 1 |  
@@ -12,7 +12,7 @@
 1.*高义频：* **牦牛**  
 
 
-# *** *yard*** n
+# ***\*yard*** n
 英音 jɑːd     美音 jɑːrd  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -35,7 +35,7 @@
 2.*高义频：* **[长度单位，=0.914米] 码**  
 
 
-# *** *yawn*** n
+# ***\*yawn*** n
 英音 jɔːn     美音 jɔːn  
 
 | 词频 2 |  
@@ -50,7 +50,7 @@
  > 他打了个哈欠，然后就睡着了。  
 
 
-# *** *yawn*** vi
+# ***\*yawn*** vi
 英音 jɔːn     美音 jɔːn  
 
 | 词频 2 |  
@@ -63,7 +63,7 @@
  > 他的演讲令听众直打哈欠。  
 
 
-# *** *yeah*** adv
+# ***\*yeah*** adv
 英音 jeə     美音 jeə  
 
 | 词频 4 | 口语 3 |  
@@ -73,7 +73,7 @@
 1.*高义频：* **[口语] 是；对 (yes)**  
 
 
-# *** *year*** n
+# ***\*year*** n
 英音 jɪə(r), jɜ:(r)     美音 jɪr  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -100,24 +100,24 @@
 
 固定搭配
 ---
-## - *all (the) year round   **一年到头：**  
+- ## \*all (the) year round   **一年到头：**  
 
  > The Antarctic is covered with snow and ice all year round.   
  > 南极地区终年被冰雪覆盖。  
  > 来源：北师大③ – 7  
 
-## - *year after year   **年复一年：**  
+- ## \*year after year   **年复一年：**  
 
  > Year after year he had to work hard to get out of debt.   
  > 年复一年，为了还债他不得不拼命工作。  
 
-## - *year by year   **年年；逐年：**  
+- ## \*year by year   **年年；逐年：**  
 
  > Year by year my father became weaker.   
  > 我父亲的身体一年比一年差。  
 
 
-# *** *yearly*** adj
+# ***\*yearly*** adj
 英音 'jɜ:li, 'jɪəli     美音 'jɪrli  
 
 | 词频 2 |  
@@ -130,7 +130,7 @@
  > 戴维斯先生每年去欧洲旅行一次。  
 
 
-# *** *yearly*** adv
+# ***\*yearly*** adv
 英音  'jɜ:li, 'jɪəli     美音 'jɪrli  
 
 | 词频 2 |  
@@ -143,7 +143,7 @@
  > 利息每年支付一次。  
 
 
-# *** *yell*** v
+# ***\*yell*** v
 英音 jel     美音 jel  
 
 | 词频 2 |  
@@ -162,7 +162,7 @@
  > 他大声叫她小心。  
 
 
-# *** *yell*** n
+# ***\*yell*** n
 英音 jel     美音 jel  
 
 | 词频 2 |  
@@ -172,7 +172,7 @@
 1.**叫喊，大喊，吼叫**  
 
 
-# *** *yellow*** n
+# ***\*yellow*** n
 英音 'jeləʊ     美音 'jeloʊ  
 
 | 词频 4 |  
@@ -184,7 +184,7 @@
 1.*高义频：* **黄色**  
 
 
-# *** *yellow*** adj
+# ***\*yellow*** adj
 英音 'jeləʊ     美音 'jeloʊ  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -194,7 +194,7 @@
 1.*高义频：* **黄色的；发黄的**  
 
 
-# *** *yes*** n
+# ***\*yes*** n
 英音 jes     美音 jes  
 
 | 词频 5 |  
@@ -209,7 +209,7 @@
  > 回答是或不是。  
 
 
-# *** *yes*** adv
+# ***\*yes*** adv
 英音 jes     美音 jes  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -238,7 +238,7 @@
  > 你的工作干得很好，对，干得很好。  
 
 
-# *** *yesterday*** adv
+# ***\*yesterday*** adv
 英音 'jestədeɪ, 'jestədi     美音 'jestərdeɪ, 'jestərdi  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -253,7 +253,7 @@
  > 他昨天到达。  
 
 
-# *** *yesterday*** n
+# ***\*yesterday*** n
 英音 'jestədeɪ, 'jestədi     美音 'jestərdeɪ, 'jestərdi  
 
 | 词频 5 |  
@@ -275,7 +275,7 @@
  > 昨日一去不复返。  
 
 
-# *** *yet*** conj
+# ***\*yet*** conj
 英音 jet     美音 jet  
 
 | 词频 5 | 书面 2 |  
@@ -303,7 +303,7 @@ D.thus
 ##### 答案 A  
   
 
-# *** *yet*** adv
+# ***\*yet*** adv
 英音 jet     美音 jet  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -340,7 +340,7 @@ Notes: 在肯定句中用still或already。
 
 固定搭配
 ---
-## - *not yet  **还没：**  
+- ## \*not yet  **还没：**  
 
  > — Are you ready?   
  > 准备好了吗？  
@@ -358,7 +358,7 @@ Notes: 在肯定句中用still或already。
 ##### 答案 Not yet  
   
 
-# *** *yield*** n
+# ***\*yield*** n
 英音 jiːld     美音 jiːld  
 
 | 词频 1 |  
@@ -368,7 +368,7 @@ Notes: 在肯定句中用still或already。
 1.**产量**  
 
 
-# *** *yoga*** n
+# ***\*yoga*** n
 英音 'jəʊɡə     美音 'joʊɡə  
 
 | 词频 1 |  
@@ -378,7 +378,7 @@ Notes: 在肯定句中用still或already。
 1.**瑜伽术**  
 
 
-# *** *yoghurt*** n
+# ***\*yoghurt*** n
 英音 'jɒɡət     美音 'joʊɡərt  
 
 | 词频 1 |  
@@ -390,7 +390,7 @@ Notes: 在肯定句中用still或already。
 1.*高义频：* **酸乳；酸奶**  
 
 
-# *** *you*** pron
+# ***\*you*** pron
 英音 juː, ju     美音 juː, jə  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -405,7 +405,7 @@ Notes: 在肯定句中用still或already。
  > 对不认识的人要小心。  
 
 
-# *** *young*** n
+# ***\*young*** n
 英音 jʌŋ     美音 jʌŋ  
 
 | 词频 5 |  
@@ -420,7 +420,7 @@ Notes: 在肯定句中用still或already。
 2.*高义频：* **幼小动物；崽**  
 
 
-# *** *young*** adj
+# ***\*young*** adj
 英音 jʌŋ     美音 jʌŋ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -447,7 +447,7 @@ Notes: 在肯定句中用still或already。
  > 她看起来比实际年龄小。  
 
 
-# *** *youngster*** n
+# ***\*youngster*** n
 英音 'jʌŋstə(r)     美音 'jʌŋstər  
 
 | 词频 1 |  
@@ -457,7 +457,7 @@ Notes: 在肯定句中用still或already。
 1.**年轻人**  
 
 
-# *** *your*** pron
+# ***\*your*** pron
 英音 jɔː(r)     美音 jʊr  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -467,7 +467,7 @@ Notes: 在肯定句中用still或already。
 1.*高义频：* **[形容词性物主代词，只作定语] 你的；你们的**  
 
 
-# *** *yours*** pron
+# ***\*yours*** pron
 英音 jɔːz     美音 jərz  
 
 | 词频 4 | 口语 3 | 书面 1 |  
@@ -488,7 +488,7 @@ Notes: 在肯定句中用still或already。
 2.*高义频：* **[在信末署名前与truly, faithfully, sincerely等连用] 敬上**  
 
 
-# *** *yourself*** pron
+# ***\*yourself*** pron
 英音 jɔː'self     美音 jɔːr'self  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -514,7 +514,7 @@ Treat ________ (you) to a glass of wine to help you relax at the end of the day.
 ##### 答案 yourself  
   
 
-# *** *youth*** n
+# ***\*youth*** n
 英音 juːθ     美音 juːθ  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -541,7 +541,7 @@ Treat ________ (you) to a glass of wine to help you relax at the end of the day.
  > 现在的年轻人拥有的机会比以往任何时候都要多。  
 
 
-# *** *yummy*** adj
+# ***\*yummy*** adj
 英音 'jʌmi     美音 'jʌmi  
 
 | 词频 1 |  

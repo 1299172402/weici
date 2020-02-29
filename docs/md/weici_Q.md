@@ -1,6 +1,6 @@
 # Qq
 
-# *** *quagga*** n
+# ***\*quagga*** n
 英音 'kwæɡə     美音 'kwæɡə  
 
 | 词频 1 |  
@@ -10,7 +10,7 @@
 1.*高义频：* **白氏斑马 (已灭绝)**  
 
 
-# *** *quake*** n
+# ***\*quake*** n
 英音 kweɪk     美音 kweɪk  
 
 | 词频 1 |  
@@ -22,7 +22,7 @@
 1.*高义频：* **地震 (earthquake)**  
 
 
-# *** *quake*** vi
+# ***\*quake*** vi
 英音 kweɪk     美音 kweɪk  
 
 | 词频 1 |  
@@ -39,7 +39,7 @@
  > 害怕得发抖  
 
 
-# *** *qualification*** n
+# ***\*qualification*** n
 英音 ˌkwɒlɪfɪ'keɪʃn     美音 ˌkwɑːlɪfɪ'keɪʃn  
 
 | 词频 2 | 书面 1 |  
@@ -61,7 +61,7 @@
 2.*低义频：* **资格证书**  
 
 
-# *** *qualified*** adj
+# ***\*qualified*** adj
 英音 'kwɒlɪfaɪd     美音 'kwɑːlɪfaɪd  
 
 | 词频 2 |  
@@ -84,7 +84,7 @@
  > 他没有投票资格。  
 
 
-# *** *qualify*** v
+# ***\*qualify*** v
 英音 'kwɒlɪfaɪ     美音 'kwɑːlɪfaɪ  
 
 | 词频 1 | 书面 1 |  
@@ -101,7 +101,7 @@
  > 来源：2017 江苏  
 
 
-# *** *quality*** n
+# ***\*quality*** n
 英音 'kwɒləti     美音 'kwɑːləti  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -137,7 +137,7 @@
  > 优质产品  
 
 
-# *** *quality*** adj
+# ***\*quality*** adj
 英音 'kwɒləti     美音 'kwɑːləti  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -147,7 +147,7 @@
 1.**优质的；高质量的**  
 
 
-# *** *quantity*** n
+# ***\*quantity*** n
 英音 'kwɒntəti     美音 'kwɑːntəti  
 
 | 词频 3 | 口语 1 | 书面 2 |  
@@ -164,13 +164,13 @@
 
 固定搭配
 ---
-## - *a large quantity of / large quantities of  **大量的：**  
+- ## \*a large quantity of / large quantities of  **大量的：**  
 
  > There’s a large quantity of rain in this area.  
  > 这个地区雨量大。  
 
 Notes: a large quantity of / large quantities of 后既可以接可数名词也可以接不可数名词。  
-## - *in quantity / in large quantities  **大量地：**  
+- ## \*in quantity / in large quantities  **大量地：**  
 
  > They buy cotton in quantity.  
  > 他们大量收购棉花。  
@@ -184,7 +184,7 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 ##### 答案 has  
   
 
-# *** *quarrel*** vi
+# ***\*quarrel*** vi
 英音 'kwɒrəl     美音 'kwɔːrəl  
 
 | 词频 4 |  
@@ -199,7 +199,7 @@ As a result of destroying the forests, a large quantity of desert ________ (have
  > 她因弟弟的功课而与他发生了争执。  
 
 
-# *** *quarrel*** n
+# ***\*quarrel*** n
 英音 'kwɒrəl     美音 'kwɔːrəl  
 
 | 词频 4 |  
@@ -220,7 +220,7 @@ As a result of destroying the forests, a large quantity of desert ________ (have
  > 她因家务事与丈夫吵了一架。  
 
 
-# *** *quarter*** n
+# ***\*quarter*** n
 英音 'kwɔːtə(r)     美音 'kwɔːrtər  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -253,7 +253,7 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 4.*低义频：* **(美国和加拿大的) 两角五分的硬币**  
 
 
-# *** *queen*** n
+# ***\*queen*** n
 英音 kwiːn     美音 kwiːn  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -265,7 +265,7 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 1.*高义频：* **女王；王后**  
 
 
-# *** *quest*** n
+# ***\*quest*** n
 英音 kwest     美音 kwest  
 
   
@@ -275,7 +275,7 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 1.**(长期的) 寻求,探索,追求**  
 
 
-# *** *question*** n
+# ***\*question*** n
 英音 'kwestʃən     美音 'kwestʃən  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -299,14 +299,14 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 
 固定搭配
 ---
-## - *out of question  **毫无疑问**  
+- ## \*out of question  **毫无疑问**  
 
-## - *out of the question  **不可能的**  
+- ## \*out of the question  **不可能的**  
 
-## - *in question  **讨论中的；有疑问的；不确定的**  
+- ## \*in question  **讨论中的；有疑问的；不确定的**  
 
 
-# *** *question*** vt
+# ***\*question*** vt
 英音 'kwestʃən     美音 'kwestʃən  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -328,7 +328,7 @@ As a result of destroying the forests, a large quantity of desert ________ (have
  > 来源：2019 北京  
 
 
-# *** *questionnaire*** n
+# ***\*questionnaire*** n
 英音 ˌkwestʃə'neə(r)     美音 ˌkwestʃə'ner  
 
 | 词频 1 |  
@@ -344,7 +344,7 @@ As a result of destroying the forests, a large quantity of desert ________ (have
  > 填写调查表  
 
 
-# *** *queue*** n
+# ***\*queue*** n
 英音 kjuː     美音 kjuː  
 
 | 词频 4 | 口语 1 |  
@@ -363,7 +363,7 @@ As a result of destroying the forests, a large quantity of desert ________ (have
  > 排/插队  
 
 
-# *** *queue*** vi
+# ***\*queue*** vi
 英音 kjuː     美音 kjuː  
 
 | 词频 4 |  
@@ -377,7 +377,7 @@ As a result of destroying the forests, a large quantity of desert ________ (have
  > 买票队伍中的有些人从天刚亮就开始在排队了。  
 
 
-# *** *quick*** adj
+# ***\*quick*** adj
 英音 kwɪk     美音 kwɪk  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -408,7 +408,7 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 ---
 quicken /'kwɪkən/ v   
 
-# *** *quicken*** v
+# ***\*quicken*** v
 英音 'kwɪkən     
 
   
@@ -418,7 +418,7 @@ quicken /'kwɪkən/ v
 1.**使加快；使活跃；刺激；变快；(孕妇) 进入胎动期；变活跃**  
 
 
-# *** *quickly*** adv
+# ***\*quickly*** adv
 英音 'kwɪkli     美音 'kwɪkli  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -439,7 +439,7 @@ There are only five minutes left. We’ll have to walk q________ to get there on
 ##### 答案 quickly  
   
 
-# *** *quiet*** adj
+# ***\*quiet*** adj
 英音 'kwaɪət     美音 'kwaɪət  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -466,7 +466,7 @@ There are only five minutes left. We’ll have to walk q________ to get there on
 
 固定搭配
 ---
-## - *keep sth quiet / keep quiet about sth  **对某事守口如瓶；保密：**  
+- ## \*keep sth quiet / keep quiet about sth  **对某事守口如瓶；保密：**  
 
  > We want to give him a surprise, so please keep quiet about it.  
  > 我们想给他一个惊喜，所以对此事务必要保密。  
@@ -477,7 +477,7 @@ There are only five minutes left. We’ll have to walk q________ to get there on
 ---
 quietly /'kwaɪətli/ adv   
 
-# *** *quiet*** n
+# ***\*quiet*** n
 英音 'kwaɪət     美音 'kwaɪət  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -494,7 +494,7 @@ quietly /'kwaɪətli/ adv
 ### 辨析 quiet, calm, still, silent
 四者均可用作形容词，均含有“静”的意思。  
 
-# *** *quilt*** n
+# ***\*quilt*** n
 英音 kwɪlt     美音 kwɪlt  
 
 | 词频 3 |  
@@ -506,7 +506,7 @@ quietly /'kwaɪətli/ adv
 1.*高义频：* **被子；被褥：**  
 
 
-# *** *quit*** v
+# ***\*quit*** v
 英音 kwɪt     美音 kwɪt  
 
 | 词频 3 |  
@@ -535,7 +535,7 @@ quietly /'kwaɪətli/ adv
 3.*高义频：* **关闭 / 退出 (计算机程序等)**  
 
 
-# *** *quite*** adv
+# ***\*quite*** adv
 英音 kwaɪt     美音 kwaɪt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -576,7 +576,7 @@ D.much
 ##### 答案 A  
   
 
-# *** *quiz*** n
+# ***\*quiz*** n
 英音 kwɪz     美音 kwɪz  
 
 | 词频 2 |  
@@ -591,7 +591,7 @@ D.much
  > 智力游戏节目  
 
 
-# *** *quote*** v
+# ***\*quote*** v
 英音 kwəʊt     美音 kwoʊt  
 
 | 词频 2 | 口语 2 | 书面 1 |  
@@ -606,7 +606,7 @@ D.much
  > 他引用了《圣经》中的话。  
 
 
-# *** *quote*** n
+# ***\*quote*** n
 英音 kwəʊt     美音 kwoʊt  
 
 | 词频 2 | 口语 2 |  

@@ -1,6 +1,6 @@
 # Kk
 
-# *** *kangaroo*** n
+# ***\*kangaroo*** n
 英音 ˌkæŋɡə'ruː     美音 ˌkæŋɡə'ruː  
 
 | 词频 1 |  
@@ -12,7 +12,7 @@
 1.*高义频：* **袋鼠**  
 
 
-# *** *karaoke*** n
+# ***\*karaoke*** n
 英音 ˌkæri'əʊki     美音 ˌkæri'oʊki  
 
 | 词频 1 |  
@@ -24,7 +24,7 @@
 1.*高义频：* **卡拉OK录音；自动伴奏录音**  
 
 
-# *** *kebab*** n
+# ***\*kebab*** n
 英音 kɪ'bæb     美音 kɪ'bæb  
 
 | 词频 1 |  
@@ -34,7 +34,7 @@
 1.*高义频：* **(= kabob) (印度) 烤腌羊肉串；肉串上的肉块**  
 
 
-# *** *keen*** adj
+# ***\*keen*** adj
 英音 kiːn     美音 kiːn  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -72,7 +72,7 @@
  > 她慧眼识才。  
 
 
-# *** *keep*** v  重难点词汇
+# ***\*keep*** v  重难点词汇
 英音 kiːp     美音 kiːp  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -144,24 +144,24 @@
 
 固定搭配
 ---
-## - *keep (on) doing sth   **持续做某事；反复做某事：**  
+- ## \*keep (on) doing sth   **持续做某事；反复做某事：**  
 
  > She pretended not to hear, and kept on walking.  
  > 她假装没听见，继续往前走。  
  > 来源：2008 山东  
 
-## - *keep ... from doing sth  **阻止…做某事：**  
+- ## \*keep ... from doing sth  **阻止…做某事：**  
 
  > We must keep them from getting to know our plans.  
  > 一定不要让他们知道我们的计划。  
 
-## - *keep going   **尽力维持下去；坚持 (活) 下去：**  
+- ## \*keep going   **尽力维持下去；坚持 (活) 下去：**  
 
  > I don't like the thought of giving it up and will try to keep going forever.  
  > 我不喜欢放弃的想法，我会尽力永远坚持下去。  
  > 来源：2013 四川  
 
-## - *keep off   **避开；(使) 不接近：**  
+- ## \*keep off   **避开；(使) 不接近：**  
 
  > We had to think of a way to keep off the rain.   
  > 我们得想个办法避雨。  
@@ -172,7 +172,7 @@
  > The notice said "Keep off the grass" .  
  > 牌子上写着“请勿践踏草坪”。  
 
-## - *keep on   **继续下去**  
+- ## \*keep on   **继续下去**  
 英译 to continue：
 
  > I'm happy to just keep on until it is finished.  
@@ -182,12 +182,12 @@
  > The rain kept on for several days.   
  > 雨一连下了好几天。  
 
-## - *keep ... out (of)   **遮挡；使…不进入：**  
+- ## \*keep ... out (of)   **遮挡；使…不进入：**  
 
  > Please keep the dog out of the study.   
  > 别让这只狗进书房。  
 
-## - *keep to   **遵守；坚持 (stick to)：**  
+- ## \*keep to   **遵守；坚持 (stick to)：**  
 
  > I'm sorry but we have to keep to the timetable.  
  > 抱歉，我们得遵守时间安排。  
@@ -196,7 +196,7 @@
  > Whatever your argument, I shall keep to my decision.   
  > 不管你怎么争辩，我都将坚持自己的决定。  
 
-## - *keep up   **保持；继续 (continue)：**  
+- ## \*keep up   **保持；继续 (continue)：**  
 
  > Some senior high students chanted slogans to keep their spirits up before the big examination.  
  > 一些高中生在大考前喊口号以保持高昂的情绪。  
@@ -210,12 +210,12 @@
  > 如果你采取的这些措施奏效了，那就继续做下去。  
  > 来源：2017 全国  
 
-## - *keep sb up  **使某人熬夜：**  
+- ## \*keep sb up  **使某人熬夜：**  
 
  > I hope I'm not keeping you up.  
  > 希望我没有耽误你睡觉。  
 
-## - *keep up with   **跟上：**  
+- ## \*keep up with   **跟上：**  
 
  > Jack has trouble keeping up with the rest of the class.  
  > 杰克很难跟上班里的其他同学。  
@@ -257,7 +257,7 @@ Would you slow down a bit, please? I can't keep up ________ you.
 ##### 答案 with  
   
 
-# *** *kettle*** n
+# ***\*kettle*** n
 英音 'ketl     美音 'ketl  
 
 | 词频 1 |  
@@ -269,7 +269,7 @@ Would you slow down a bit, please? I can't keep up ________ you.
 1.*高义频：* **水壶**  
 
 
-# *** *key*** adj
+# ***\*key*** adj
 英音 kiː     美音 kiː  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -283,7 +283,7 @@ Would you slow down a bit, please? I can't keep up ________ you.
  > 关键人物/要点  
 
 
-# *** *key*** n
+# ***\*key*** n
 英音 kiː     美音 kiː  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -340,7 +340,7 @@ The key to ________ (overcome) this problem is to believe in yourself.
 ##### 答案 overcoming  
   
 
-# *** *keyboard*** n
+# ***\*keyboard*** n
 英音 'kiːbɔːd     美音 'kiːbɔːrd  
 
 | 词频 3 | 口语 1 |  
@@ -352,7 +352,7 @@ The key to ________ (overcome) this problem is to believe in yourself.
 1.*高义频：* **(钢琴、计算机等的)键盘**  
 
 
-# *** *keyword*** n
+# ***\*keyword*** n
 英音 'kiːwɜːd     美音 'kiːwɜːrd  
 
 | 词频 1 |  
@@ -362,7 +362,7 @@ The key to ________ (overcome) this problem is to believe in yourself.
 1.**密码; 口令**  
 
 
-# *** *kick*** n
+# ***\*kick*** n
 英音 kɪk     美音 kɪk  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -389,7 +389,7 @@ The key to ________ (overcome) this problem is to believe in yourself.
  > 来源：2009 安徽改  
 
 
-# *** *kick*** v
+# ***\*kick*** v
 英音 kɪk     美音 kɪk  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -404,19 +404,19 @@ The key to ________ (overcome) this problem is to believe in yourself.
 
 固定搭配
 ---
-## - *kick the habit   **戒除恶习：**  
+- ## \*kick the habit   **戒除恶习：**  
 
  > Smokers have jammed telephone "quit lines" across the country seeking to kick the habit.  
  > 烟民已把全国的“戒烟热线”打爆了，他们都在寻求戒烟的办法。  
  > 来源：2009 山东  
 
-## - *kick off  **开始；进行：**  
+- ## \*kick off  **开始；进行：**  
 
  > Beijing Arts Festival will kick off on April 27 and run through May 31.  
  > 北京艺术节将在4月27日开始，持续到5月31日。  
 
 
-# *** *kid*** n
+# ***\*kid*** n
 英音 kɪd     美音 kɪd  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -428,7 +428,7 @@ The key to ________ (overcome) this problem is to believe in yourself.
 1.*高义频：* **小孩；小伙子**  
 
 
-# *** *kidney*** n
+# ***\*kidney*** n
 英音 'kɪdni     美音 'kɪdni  
 
 | 词频 2 |  
@@ -438,7 +438,7 @@ The key to ________ (overcome) this problem is to believe in yourself.
 1.**肾, 肾脏**  
 
 
-# *** *kill*** v
+# ***\*kill*** v
 英音 kɪl     美音 kɪl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -468,7 +468,7 @@ The key to ________ (overcome) this problem is to believe in yourself.
 ---
 killing /'kɪlɪŋ/ n [C]  
 
-# *** *kilo*** n
+# ***\*kilo*** n
 英音 'kiːləʊ     美音 'kiːloʊ  
 
 | 词频 1 |  
@@ -480,7 +480,7 @@ killing /'kɪlɪŋ/ n [C]
 1.*高义频：* **千克 (kilogram)；千米；公里 (kilometre / kilometer)**  
 
 
-# *** *kilogram*** n
+# ***\*kilogram*** n
 英音 'kɪləɡræm     美音 'kɪləɡræm  
 
 | 词频 2 |  
@@ -492,7 +492,7 @@ killing /'kɪlɪŋ/ n [C]
 1.*高义频：* **千克 (kg)**  
 
 
-# *** *kilogramme*** n
+# ***\*kilogramme*** n
 英音 'kɪləɡræm     美音 'kɪləɡræm  
 
 | 词频 2 |  
@@ -504,7 +504,7 @@ killing /'kɪlɪŋ/ n [C]
 1.*高义频：* **千克 (kg)**  
 
 
-# *** *kilometer*** n
+# ***\*kilometer*** n
 英音 'kɪləmiːtə(r)     美音 kɪ'lɑːmɪtər  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -516,7 +516,7 @@ killing /'kɪlɪŋ/ n [C]
 1.*高义频：* **千米；公里 (k / km)**  
 
 
-# *** *kilometre*** n
+# ***\*kilometre*** n
 英音 'kɪləmiːtə(r)     美音 kɪ'lɑːmɪtər  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -528,7 +528,7 @@ killing /'kɪlɪŋ/ n [C]
 1.*高义频：* **千米；公里 (k / km)**  
 
 
-# *** *kind*** n
+# ***\*kind*** n
 英音 kaɪnd     美音 kaɪnd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -546,7 +546,7 @@ killing /'kɪlɪŋ/ n [C]
 
 固定搭配
 ---
-## - *a kind of   **…的一种；有几分；稍稍：**  
+- ## \*a kind of   **…的一种；有几分；稍稍：**  
 
  > An e-mail is usually a kind of informal letter.  
  > 电子邮件通常是一种非正式信件。  
@@ -555,14 +555,14 @@ killing /'kɪlɪŋ/ n [C]
  > I had a kind of feeling that this might happen.  
  > 我当时就隐约感觉到会出这事。  
 
-## - *kind of   **有点儿；有几分**  
+- ## \*kind of   **有点儿；有几分**  
 英译 slightly; in some ways：
 
  > I was kind of upset that you weren't there.  
  > 你没出现我有点不安。  
 
 
-# *** *kind*** adj
+# ***\*kind*** adj
 英音 kaɪnd     美音 kaɪnd  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -584,13 +584,13 @@ killing /'kɪlɪŋ/ n [C]
 
 固定搭配
 ---
-## - *be so kind as to / be kind enough to   **请您费心：**  
+- ## \*be so kind as to / be kind enough to   **请您费心：**  
 
  > Will you be so kind as to shut the door?   
  > 请您关上门好吗？  
 
 
-# *** *kindergarten*** n
+# ***\*kindergarten*** n
 英音 'kɪndəɡɑːtn     美音 'kɪndərɡɑːrtn  
 
 | 词频 3 |  
@@ -610,7 +610,7 @@ Callie will start  ________ ( 幼儿园) in September.
 ##### 答案 kindergarten  
   
 
-# *** *kindly*** adv
+# ***\*kindly*** adv
 英音 'kaɪndli     美音 'kaɪndli  
 
 | 词频 2 |  
@@ -620,7 +620,7 @@ Callie will start  ________ ( 幼儿园) in September.
 1.*高义频：* **友善地；亲切地；[正式用语] [用于客套语] 请**  
 
 
-# *** *kindly*** adj
+# ***\*kindly*** adj
 英音 'kaɪndli     美音 'kaɪndli  
 
 | 词频 2 |  
@@ -630,7 +630,7 @@ Callie will start  ________ ( 幼儿园) in September.
 1.*高义频：* **友善的；亲切的 (kind)**  
 
 
-# *** *kindness*** n
+# ***\*kindness*** n
 英音 'kaɪndnəs     美音 'kaɪndnəs  
 
 | 词频 4 |  
@@ -656,7 +656,7 @@ Callie will start  ________ ( 幼儿园) in September.
  > 你能帮帮我吗?  
 
 
-# *** *king*** n
+# ***\*king*** n
 英音 kɪŋ     美音 kɪŋ  
 
 | 词频 4 | 书面 3 |  
@@ -668,7 +668,7 @@ Callie will start  ________ ( 幼儿园) in September.
 1.*高义频：* **国王；大王**  
 
 
-# *** *kiss*** v
+# ***\*kiss*** v
 英音 kɪs     美音 kɪs  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -687,14 +687,14 @@ Callie will start  ________ ( 幼儿园) in September.
 
 固定搭配
 ---
-## - *kiss sth goodbye / kiss goodbye to sth  **[非正式用语] 放弃某事物：**  
+- ## \*kiss sth goodbye / kiss goodbye to sth  **[非正式用语] 放弃某事物：**  
 
  > I might as well kiss the scholarship goodbye.   
  > 我还是放弃奖学金算了。  
  > 来源：2008 北京  
 
 
-# *** *kiss*** n
+# ***\*kiss*** n
 英音 kɪs     美音 kɪs  
 
 | 词频 3 |  
@@ -710,7 +710,7 @@ Callie will start  ________ ( 幼儿园) in September.
  > 妈妈亲了一下小女儿。  
 
 
-# *** *kit*** n
+# ***\*kit*** n
 英音 kɪt     美音 kɪt  
 
 | 词频 1 |  
@@ -723,7 +723,7 @@ Callie will start  ________ ( 幼儿园) in September.
  > 一套急救用品  
 
 
-# *** *kitchen*** n
+# ***\*kitchen*** n
 英音 'kɪtʃɪn     美音 'kɪtʃɪn  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -743,7 +743,7 @@ Mum is cooking in the k________ while Dad is watching TV.
 ##### 答案 kitchen  
   
 
-# *** *kite*** n
+# ***\*kite*** n
 英音 kaɪt     美音 kaɪt  
 
 | 词频 4 |  
@@ -758,7 +758,7 @@ Mum is cooking in the k________ while Dad is watching TV.
  > 放风筝  
 
 
-# *** *kitten*** n
+# ***\*kitten*** n
 英音 'kɪtn     美音 'kɪtn  
 
 | 词频 1 |  
@@ -770,7 +770,7 @@ Mum is cooking in the k________ while Dad is watching TV.
 1.*高义频：* **小猫**  
 
 
-# *** *knee*** n
+# ***\*knee*** n
 英音 niː     美音 niː  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -789,7 +789,7 @@ Mum is cooking in the k________ while Dad is watching TV.
  > 跪着/跪下  
 
 
-# *** *knife*** n
+# ***\*knife*** n
 英音 naɪf     美音 naɪf  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -801,7 +801,7 @@ Mum is cooking in the k________ while Dad is watching TV.
 1.*高义频：* **(pl knives) 刀；餐刀：**  
 
 
-# *** *knight*** n
+# ***\*knight*** n
 英音 naɪt     美音 naɪt  
 
 | 词频 1 |  
@@ -813,7 +813,7 @@ Mum is cooking in the k________ while Dad is watching TV.
 1.*高义频：* **骑士；爵士**  
 
 
-# *** *knighthood*** n
+# ***\*knighthood*** n
 英音 'naɪthʊd     美音 'naɪthʊd  
 
   
@@ -823,7 +823,7 @@ Mum is cooking in the k________ while Dad is watching TV.
 1.**（英国的）爵士封号或头衔**  
 
 
-# *** *knock*** v
+# ***\*knock*** v
 英音 nɒk     美音 nɑːk  
 
 | 词频 4 | 口语 3 | 书面 1 |  
@@ -852,12 +852,12 @@ Mum is cooking in the k________ while Dad is watching TV.
 
 固定搭配
 ---
-## - *knock at / on  **敲 (门、窗等)：**  
+- ## \*knock at / on  **敲 (门、窗等)：**  
 
  > Knock at the door before entering, please.   
  > 进来之前请敲门。  
 
-## - *knock down  1.*高义频：* **击倒；撞倒：**  
+- ## \*knock down  1.*高义频：* **击倒；撞倒：**  
 
  > I was almost knocked down by a cyclist riding on the pavement.  
  > 我差点儿被一个在人行道上骑自行车的人撞倒。  
@@ -868,24 +868,24 @@ Mum is cooking in the k________ while Dad is watching TV.
  > These old buildings will sooner or later be knocked down.   
  > 这些老房子迟早得拆掉。  
 
-## - *knock into   **撞在…上：**  
+- ## \*knock into   **撞在…上：**  
 
  > He was in such a hurry that he almost knocked into me.   
  > 他如此匆忙，差点儿撞到我身上。  
 
-## - *knock off   **[非正式用语] (从价格等中) 减去：**  
+- ## \*knock off   **[非正式用语] (从价格等中) 减去：**  
 
  > If you buy more than ten, they knock 20 pence off the price.   
  > 如果买10个以上的话，他们会便宜20便士。  
 
-## - *knock over   **撞倒；打翻：**  
+- ## \*knock over   **撞倒；打翻：**  
 
  > Roy’s father was knocked over by a car.   
  > 罗伊的爸爸被车撞倒了。  
  > 来源：外研⑥ – 3  
 
 
-# *** *knock*** n
+# ***\*knock*** n
 英音 nɒk     美音 nɑːk  
 
 | 词频 4 |  
@@ -901,7 +901,7 @@ Mum is cooking in the k________ while Dad is watching TV.
  > 有人敲门。  
 
 
-# *** *knot*** n
+# ***\*knot*** n
 英音 nɒt     美音 nɑːt  
 
 | 词频 1 |  
@@ -914,7 +914,7 @@ Mum is cooking in the k________ while Dad is watching TV.
  > 中国结  
 
 
-# *** *know*** v
+# ***\*know*** v
 英音 nəʊ     美音 noʊ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -963,7 +963,7 @@ Mum is cooking in the k________ while Dad is watching TV.
 
 固定搭配
 ---
-## - *be known as   **以…而出名；被称作；被认为：**  
+- ## \*be known as   **以…而出名；被称作；被认为：**  
 
  > Detroit was known as the automobile capital of the world.   
  > 底特律曾被认为是世界汽车之都。  
@@ -971,17 +971,17 @@ Mum is cooking in the k________ while Dad is watching TV.
  > Today he is well known as a writer.   
  > 如今他是一个很有名气的作家。  
 
-## - *be known for   **因…而闻名 (be famous for)：**  
+- ## \*be known for   **因…而闻名 (be famous for)：**  
 
  > Guilin is known for its beautiful scenery.   
  > 桂林因风景秀丽而闻名。  
 
-## - *be known to   **为…所熟知：**  
+- ## \*be known to   **为…所熟知：**  
 
  > As is known to everybody, the moon travels round the earth once every month.   
  > 众所周知，月球每月绕地球一圈。  
 
-## - *know about   **了解；知道…的情况：**  
+- ## \*know about   **了解；知道…的情况：**  
 
  > I happened to know about him.   
  > 我恰好了解他的一些情况。  
@@ -990,13 +990,13 @@ Mum is cooking in the k________ while Dad is watching TV.
  > I don't know about you, but I'm ready for something to eat.  
  > 我不知道你怎么办，反正我要吃点东西。  
 
-## - *know of   **知道；听说：**  
+- ## \*know of   **知道；听说：**  
 
  > I don't know him, but I know of him.  
  > 我不认识他，但听说过他。  
 
 
-# *** *knowledge*** n
+# ***\*knowledge*** n
 英音 'nɒlɪdʒ     美音 'nɑːlɪdʒ  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -1028,7 +1028,7 @@ Notes: “学到知识”不说learn / get knowledge，而说 gain / obtain / ac
 
 固定搭配
 ---
-## - *to (the best of) sb's knowledge  **据某人所知**  
+- ## \*to (the best of) sb's knowledge  **据某人所知**  
 
 
 真题解析
@@ -1039,7 +1039,7 @@ If we go on a trip abroad, we can broaden our view and gain knowledges we cannot
 ##### 答案 knowledges → knowledge  
   
 
-# *** *knuckle*** n
+# ***\*knuckle*** n
 英音 'nʌkl     美音 'nʌkl  
 
 | 词频 1 |  

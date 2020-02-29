@@ -1,6 +1,6 @@
 # Dd
 
-# *** *dad*** n
+# ***\*dad*** n
 英音 dæd     美音 dæd  
 
 | 词频 5 | 口语 3 | 书面 1 |  
@@ -10,7 +10,7 @@
 1.*高义频：* **[C] 爸爸；爹爹 (daddy)**  
 
 
-# *** *daffodil*** n
+# ***\*daffodil*** n
 英音 'dæfədɪl     美音 'dæfədɪl  
 
 | 词频 1 |  
@@ -20,7 +20,7 @@
 1.**水仙花**  
 
 
-# *** *daily*** n
+# ***\*daily*** n
 英音 'deɪli     美音 'deɪli  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -36,7 +36,7 @@
  > 《泰晤士报》是英国历史最悠久的全国性日报。  
 
 
-# *** *daily*** adj
+# ***\*daily*** adj
 英音 'deɪli     美音 'deɪli  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -55,7 +55,7 @@
  > 按日领薪  
 
 
-# *** *daily*** adv
+# ***\*daily*** adv
 英音 'deɪli     美音 'deɪli  
 
 | 词频 5 |  
@@ -69,7 +69,7 @@
  > 来源：2009 重庆改  
 
 
-# *** *dairy*** n
+# ***\*dairy*** n
 英音 'deəri     美音 'deri  
 
 | 词频 1 |  
@@ -79,7 +79,7 @@
 1.**牛奶场**  
 
 
-# *** *dam*** n
+# ***\*dam*** n
 英音 dæm     美音 dæm  
 
 | 词频 2 |  
@@ -95,7 +95,7 @@
  > 建水坝  
 
 
-# *** *damage*** vt  重难点词汇
+# ***\*damage*** vt  重难点词汇
 英音 'dæmɪdʒ     美音 'dæmɪdʒ  
 
 | 词频 5 | 口语 1 | 书面 1 |  
@@ -115,7 +115,7 @@
 ### 辨析 damage, hurt, injure, wound
 四者皆有“伤害”之意。  
 
-# *** *damage*** n  重难点词汇
+# ***\*damage*** n  重难点词汇
 英音 'dæmɪdʒ     美音 'dæmɪdʒ  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -157,7 +157,7 @@ The accident caused some ________ (损坏) to my car, but it’s nothing serious
 ##### 答案 damage  
   
 
-# *** *damn*** int
+# ***\*damn*** int
 英音 dæm     美音 dæm  
 
 | 词频 1 |  
@@ -170,7 +170,7 @@ The accident caused some ________ (损坏) to my car, but it’s nothing serious
  > 真该死！我忘了他要来。  
 
 
-# *** *damp*** n
+# ***\*damp*** n
 英音 dæmp     美音 dæmp  
 
 | 词频 2 |  
@@ -183,7 +183,7 @@ The accident caused some ________ (损坏) to my car, but it’s nothing serious
  > 这所老房子散发着潮湿的气味。  
 
 
-# *** *damp*** adj
+# ***\*damp*** adj
 英音 dæmp     美音 dæmp  
 
 | 词频 2 |  
@@ -197,7 +197,7 @@ The accident caused some ________ (损坏) to my car, but it’s nothing serious
  > 来源：2008 湖北  
 
 
-# *** *dance*** v
+# ***\*dance*** v
 英音 dɑːns     美音 dæns  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -218,7 +218,7 @@ The accident caused some ________ (损坏) to my car, but it’s nothing serious
  > 来源：2010 全国  
 
 
-# *** *dance*** n
+# ***\*dance*** n
 英音 dɑːns     美音 dæns  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -255,7 +255,7 @@ dancer /'dɑːnsə(r)/ n
 
 dancing /'dɑːnsɪŋ/ n [U]   
 
-# *** *danger*** n
+# ***\*danger*** n
 英音 'deɪndʒə(r)     美音 'deɪndʒər  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -298,7 +298,7 @@ dancing /'dɑːnsɪŋ/ n [U]
  > 来源：2014 江西  
 
 
-# *** *dangerous*** adj
+# ***\*dangerous*** adj
 英音 'deɪndʒərəs     美音 'deɪndʒərəs  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -319,7 +319,7 @@ dancing /'dɑːnsɪŋ/ n [U]
 ---
 dangerously /'deɪndʒərəsli/ adv   
 
-# *** *dare*** modal v
+# ***\*dare*** modal v
 英音 deə(r)     美音 der  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -340,7 +340,7 @@ dangerously /'deɪndʒərəsli/ adv
  > 无人敢提及此事。  
 
 
-# *** *dare*** v
+# ***\*dare*** v
 英音 deə(r)     美音 der  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -366,7 +366,7 @@ dangerously /'deɪndʒərəsli/ adv
  > 他们激汤姆去偷爸爸的一瓶威士忌。  
 
 
-# *** *dare*** aux v
+# ***\*dare*** aux v
 英音 deə(r)     美音 der  
 
 | 词频 3 |  
@@ -376,7 +376,7 @@ dangerously /'deɪndʒərəsli/ adv
 1.**敢于，胆敢**  
 
 
-# *** *dare*** n
+# ***\*dare*** n
 英音 deə(r)     美音 der  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -386,7 +386,7 @@ dangerously /'deɪndʒərəsli/ adv
 1.*高义频：* **[C] 激将；挑战**  
 
 
-# *** *dark*** adj
+# ***\*dark*** adj
 英音 dɑːk     美音 dɑːrk  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -419,14 +419,14 @@ dangerously /'deɪndʒərəsli/ adv
 
 固定搭配
 ---
-## - *a dark horse  **黑马；出乎意料的获胜者**  
+- ## \*a dark horse  **黑马；出乎意料的获胜者**  
 
 
 派生词汇
 ---
 darken /'dɑːkən/ v   
 
-# *** *dark*** n
+# ***\*dark*** n
 英音 dɑːk     美音 dɑːrk  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -446,13 +446,13 @@ darken /'dɑːkən/ v
 
 固定搭配
 ---
-## - *in the dark  **在暗处；秘密地；全然不知的：**  
+- ## \*in the dark  **在暗处；秘密地；全然不知的：**  
 
  > Please tell me how the accident came about. I am still in the dark.  
  > 请告诉我事故的经过。我还蒙在鼓里呢。  
 
 
-# *** *dark-skinned*** adj
+# ***\*dark-skinned*** adj
 英音 'dɑːksk'ɪnd     美音 'dɑːksk'ɪnd  
 
   
@@ -462,7 +462,7 @@ darken /'dɑːkən/ v
 1.**深肤色的**  
 
 
-# *** *darken*** v
+# ***\*darken*** v
 英音 'dɑːkən     
 
   
@@ -472,7 +472,7 @@ darken /'dɑːkən/ v
 1.**变暗；使阴郁；使变暗**  
 
 
-# *** *darkness*** n
+# ***\*darkness*** n
 英音 'dɑːknəs     美音 'dɑːrknəs  
 
 | 词频 3 | 书面 1 |  
@@ -490,7 +490,7 @@ darken /'dɑːkən/ v
  > 来源：译林③ – 1  
 
 
-# *** *darling*** n
+# ***\*darling*** n
 英音 'dɑːlɪŋ     美音 'dɑːrlɪŋ  
 
 | 词频 2 | 口语 2 |  
@@ -500,7 +500,7 @@ darken /'dɑːkən/ v
 1.*高义频：* **[口语] 亲爱的；宝贝儿**  
 
 
-# *** *darling*** adj
+# ***\*darling*** adj
 英音 'dɑːlɪŋ     美音 'dɑːrlɪŋ  
 
 | 词频 2 |  
@@ -510,7 +510,7 @@ darken /'dɑːkən/ v
 1.*高义频：* **心爱的**  
 
 
-# *** *dash*** v
+# ***\*dash*** v
 英音 dæʃ     美音 dæʃ  
 
 | 词频 1 |  
@@ -531,7 +531,7 @@ darken /'dɑːkən/ v
  > 把花瓶砸得粉碎  
 
 
-# *** *dash*** n
+# ***\*dash*** n
 英音 dæʃ     美音 dæʃ  
 
 | 词频 1 |  
@@ -551,7 +551,7 @@ darken /'dɑːkən/ v
 2.*低义频：* **[C] 破折号**  
 
 
-# *** *data*** n
+# ***\*data*** n
 英音 'deɪtə     美音 'deɪtə  
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -567,7 +567,7 @@ darken /'dɑːkən/ v
  > 数据是通过在线调查收集起来的。  
 
 
-# *** *database*** n
+# ***\*database*** n
 英音 'deɪtəbeɪs     美音 'deɪtəbeɪs  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -577,7 +577,7 @@ darken /'dɑːkən/ v
 1.*高义频：* **[C] 数据库；资料库**  
 
 
-# *** *date*** n
+# ***\*date*** n
 英音 deɪt     美音 deɪt  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -613,7 +613,7 @@ darken /'dɑːkən/ v
 
 固定搭配
 ---
-## - *out of date   **过时的；陈旧的：**  
+- ## \*out of date   **过时的；陈旧的：**  
 
  > an out-of-date train schedule   
  > 过时的列车时刻表  
@@ -622,19 +622,19 @@ darken /'dɑːkən/ v
  > 这本字典过时了：自从它出版以来，语言中又增加了许多词汇。  
  > 来源：2016 天津  
 
-## - *to date   **至今；到目前为止：**  
+- ## \*to date   **至今；到目前为止：**  
 
  > I think it wise to review how much we’ve spent to date.  
  > 我认为把我们到目前为止的花费统计一下是明智的。  
 
-## - *up to date   **最新的；时髦的：**  
+- ## \*up to date   **最新的；时髦的：**  
 
  > This model is the newest and most up to date.  
  > 这一款是最新的，也是最时尚的。  
  > 来源：译林⑦ – 1  
 
 
-# *** *date*** v
+# ***\*date*** v
 英音 deɪt     美音 deɪt  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -662,7 +662,7 @@ darken /'dɑːkən/ v
 
 固定搭配
 ---
-## - *date back (to) / date from   **追溯到；远在…年代：**  
+- ## \*date back (to) / date from   **追溯到；远在…年代：**  
 
  > This tradition dates back to the 15th century.   
  > 这一传统可追溯到15世纪。  
@@ -672,7 +672,7 @@ darken /'dɑːkən/ v
  > 来源：外研③ – 6  
 
 
-# *** *daughter*** n
+# ***\*daughter*** n
 英音 'dɔːtə(r)     美音 'dɔːtər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -682,7 +682,7 @@ darken /'dɑːkən/ v
 1.*高义频：* **[C] 女儿**  
 
 
-# *** *dawn*** vi
+# ***\*dawn*** vi
 英音 dɔːn     美音 dɔːn  
 
 | 词频 2 |  
@@ -699,7 +699,7 @@ darken /'dɑːkən/ v
  > 我开始明白了乔一直都是对的。  
 
 
-# *** *dawn*** n
+# ***\*dawn*** n
 英音 dɔːn     美音 dɔːn  
 
 | 词频 2 |  
@@ -727,7 +727,7 @@ darken /'dɑːkən/ v
  > 这本书讲述文明的起源。  
 
 
-# *** *dawning*** adj
+# ***\*dawning*** adj
 英音 'dɔːnɪŋ     美音 'dɔːnɪŋ  
 
 | 词频 1 |  
@@ -737,7 +737,7 @@ darken /'dɑːkən/ v
 1.**开始出现的，开始发展的**  
 
 
-# *** *day*** n
+# ***\*day*** n
 英音 deɪ     美音 deɪ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -803,62 +803,62 @@ darken /'dɑːkən/ v
 
 固定搭配
 ---
-## - *all day (long)   **一整天：**  
+- ## \*all day (long)   **一整天：**  
 
  > He seems to be on the move all day long.   
  > 他似乎一天到晚忙个不停。  
 
-## - *(all) day and (all) night  **整日整夜；日日夜夜地：**  
+- ## \*(all) day and (all) night  **整日整夜；日日夜夜地：**  
 
  > All day and all night it snowed, and the city began to suffer from a general traffic jam.   
  > 大雪不分昼夜地下，全城陷入交通大拥堵。  
 
-## - *day after day   **[强调重复] 日复一日地；天天：**  
+- ## \*day after day   **[强调重复] 日复一日地；天天：**  
 
  > The scientists worked hard in the laboratory day after day.   
  > 那些科学家们日复一日地在实验室努力工作。  
 
-## - *day by day  **[强调变化] 一天天地；逐日地：**  
+- ## \*day by day  **[强调变化] 一天天地；逐日地：**  
 
  > The weather is getting warmer and warmer day by day.   
  > 天气一天天地暖和起来。  
 
-## - *day in and day out / day in, day out   **天天：**  
+- ## \*day in and day out / day in, day out   **天天：**  
 
  > Day in and day out I follow almost the same routine.  
  > 日复一日，我每天都做着几乎同样的事情。  
  > 来源：人教⑦ – 5  
 
-## - *one day   **(过去或将来的) 某一天：**  
+- ## \*one day   **(过去或将来的) 某一天：**  
 
  > Given the right kind of training, these teenage soccer players may one day grow into international stars.    
  > 给予适当的训练，这些青少年足球运动员有朝一日可望成为国际巨星。  
  > 来源：2009 江西  
 
-## - *some day   **(将来) 总有一天； (日后) 某一天：**  
+- ## \*some day   **(将来) 总有一天； (日后) 某一天：**  
 
  > I hope I can meet him some day.  
  > 我希望有一天能见到他。  
 
-## - *the other day   **前几天；前不久：**  
+- ## \*the other day   **前几天；前不久：**  
 
  > When I met him the other day, he had just come back from work, looking excited.   
  > 前几天我碰到他的时候，他正好下班回来，看上去很兴奋。  
  > 来源：译林⑤ – 3  
 
-## - *these days   **现在；如今：**  
+- ## \*these days   **现在；如今：**  
 
  > As you can see, the number of cars on roads keeps rising these days.    
  > 如你所见，如今路上的车辆越来越多。  
  > 来源：2006 全国  
 
-## - *to this day   **至今：**  
+- ## \*to this day   **至今：**  
 
  > I didn’t find time to say good-bye to you before I left. I regret it to this day.   
  > 走之前来不及跟你告别，我至今后悔不已。  
 
 
-# *** *daylight*** n
+# ***\*daylight*** n
 英音 'deɪlaɪt     美音 'deɪlaɪt  
 
 | 词频 3 |  
@@ -871,7 +871,7 @@ darken /'dɑːkən/ v
  > 在白天/黎明时  
 
 
-# *** *daytime*** n
+# ***\*daytime*** n
 英音 'deɪtaɪm     美音 'deɪtaɪm  
 
 | 词频 2 |  
@@ -884,7 +884,7 @@ darken /'dɑːkən/ v
  > 在白天  
 
 
-# *** *dazzling*** adj
+# ***\*dazzling*** adj
 英音 'dæzlɪŋ     美音 'dæzlɪŋ  
 
   
@@ -894,7 +894,7 @@ darken /'dɑːkən/ v
 1.**令人印象深刻的,特别吸引人的**  
 
 
-# *** *dead*** adj
+# ***\*dead*** adj
 英音 ded     美音 ded  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -944,7 +944,7 @@ darken /'dɑːkən/ v
  > 死寂；完全安静  
 
 
-# *** *dead*** adv
+# ***\*dead*** adv
 英音 ded     美音 ded  
 
 | 词频 4 | 口语 1 |  
@@ -964,7 +964,7 @@ darken /'dɑːkən/ v
  > 我累死了，再也走不动了。  
 
 
-# *** *deadline*** n
+# ***\*deadline*** n
 英音 'dedlaɪn     美音 'dedlaɪn  
 
 | 词频 2 |  
@@ -978,7 +978,7 @@ darken /'dɑːkən/ v
  > 申请截止到本周五。  
 
 
-# *** *deadly*** adv
+# ***\*deadly*** adv
 英音 'dedli     美音 'dedli  
 
 | 词频 2 | 阅读 2 |  
@@ -991,7 +991,7 @@ darken /'dɑːkən/ v
  > 非常严肃  
 
 
-# *** *deadly*** adj
+# ***\*deadly*** adj
 英音 'dedli     美音 'dedli  
 
 | 词频 2 | 阅读 2 |  
@@ -1009,7 +1009,7 @@ darken /'dɑːkən/ v
  > 不共戴天的仇敌  
 
 
-# *** *deaf*** adj
+# ***\*deaf*** adj
 英音 def     美音 def  
 
 | 词频 3 | 书面 1 |  
@@ -1038,7 +1038,7 @@ darken /'dɑːkən/ v
 
 固定搭配
 ---
-## - *turn a deaf ear (to)   **(对…) 置之不理：**  
+- ## \*turn a deaf ear (to)   **(对…) 置之不理：**  
 
  > Many of them turned a deaf ear to his advice, even though they knew it to be valuable.   
  > 他们中的许多人对他的建议置之不理，即使他们知道他的建议是有益的。  
@@ -1048,7 +1048,7 @@ darken /'dɑːkən/ v
 ---
 deafen /'defn/ vt [常用于被动语态]   
 
-# *** *deal*** vi  重难点词汇
+# ***\*deal*** vi  重难点词汇
 英音 diːl     美音 diːl  
 
 | 词频 5 |  
@@ -1057,12 +1057,12 @@ deafen /'defn/ vt [常用于被动语态]
 
 固定搭配
 ---
-## - *deal in  **经营；买卖：**  
+- ## \*deal in  **经营；买卖：**  
 
  > The company deals in computer software.  
  > 这个公司经营计算机软件。  
 
-## - *deal with  1.*高义频：* **处理；对付；应付 (handle)：**  
+- ## \*deal with  1.*高义频：* **处理；对付；应付 (handle)：**  
 
  > I can’t control what happens to me, but I can choose how I deal with it.   
  > 我无法掌控发生在自己身上的事，但我能选择如何应对。  
@@ -1088,7 +1088,7 @@ deafen /'defn/ vt [常用于被动语态]
 ---
 dealer /'diːlə(r)/ n [C]   
 
-# *** *deal*** n  重难点词汇
+# ***\*deal*** n  重难点词汇
 英音 diːl     美音 diːl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1116,7 +1116,7 @@ dealer /'diːlə(r)/ n [C]
 
 固定搭配
 ---
-## - *a great / good deal  1.*高义频：* **大量；很多：**  
+- ## \*a great / good deal  1.*高义频：* **大量；很多：**  
 
  > Although she had never met that expert, she knew a great deal about him.  
  > 尽管她从来没有见过那位专家，但是她对他很了解。  
@@ -1126,7 +1126,7 @@ dealer /'diːlə(r)/ n [C]
  > He ran a good deal faster than I.  
  > 他比我跑得快多了。  
 
-## - *a great / good deal of  **[接不可数名词] 大量的…；很多的…：**  
+- ## \*a great / good deal of  **[接不可数名词] 大量的…；很多的…：**  
 
  > a great / good deal of time / money / effort  
  > 大量的时间/钱/努力  
@@ -1134,7 +1134,7 @@ dealer /'diːlə(r)/ n [C]
  > It takes a great deal of practice to be really good at listening.  
  > 要想具备很高的听的能力，需要做大量的练习。  
 
-## - *big deal  **［口语］没什么大不了的； 重要的事情：**  
+- ## \*big deal  **［口语］没什么大不了的； 重要的事情：**  
 
  > It's just a game. If you lose, big deal.  
  > 这只是个游戏，就是输了也没什么大不了的。  
@@ -1143,14 +1143,14 @@ dealer /'diːlə(r)/ n [C]
  > It's not a big deal.  
  > 这件事不重要。/没多大的事。  
 
-## - *What is the deal?  **出了什么事？**  
+- ## \*What is the deal?  **出了什么事？**  
 
  > He and I both knew what the deal was, but we didn't talk about it.  
  > 我和他都知道出了什么事，但是我们都心照不宣。  
  > 来源：2017 全国改  
 
 
-# *** *dealer*** n
+# ***\*dealer*** n
 英音 'diːlə(r)     美音 'diːlər  
 
 | 词频 2 |  
@@ -1160,7 +1160,7 @@ dealer /'diːlə(r)/ n [C]
 1.**（尤指买卖贵重商品的）商人**  
 
 
-# *** *dear*** n
+# ***\*dear*** n
 英音 dɪə(r)     美音 dɪr  
 
 | 词频 5 | 口语 2 |  
@@ -1170,7 +1170,7 @@ dealer /'diːlə(r)/ n [C]
 1.*高义频：* **[C] 可爱的人；亲爱的人**  
 
 
-# *** *dear*** int
+# ***\*dear*** int
 英音 dɪə(r)     美音 dɪr  
 
 | 词频 5 | 口语 3 |  
@@ -1188,7 +1188,7 @@ dealer /'diːlə(r)/ n [C]
  > 哦，天哪！  
 
 
-# *** *dear*** adj
+# ***\*dear*** adj
 英音 dɪə(r)     美音 dɪr  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -1214,7 +1214,7 @@ dealer /'diːlə(r)/ n [C]
  > 近些年土地越来越贵。  
 
 
-# *** *death*** n
+# ***\*death*** n
 英音 deθ     美音 deθ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1245,13 +1245,13 @@ dealer /'diːlə(r)/ n [C]
 
 固定搭配
 ---
-## - *be bored / scared / frightened to death   **无聊得 / 怕得要死：**  
+- ## \*be bored / scared / frightened to death   **无聊得 / 怕得要死：**  
 
  > She was scared to death of what might happen next.  
  > 她对接下来可能发生的事怕得要死。  
 
 
-# *** *debate*** v  重难点词汇
+# ***\*debate*** v  重难点词汇
 英音 dɪ'beɪt     美音 dɪ'beɪt  
 
 | 词频 3 | 阅读 3 |  
@@ -1286,7 +1286,7 @@ dealer /'diːlə(r)/ n [C]
  > 来源：2012 湖南  
 
 
-# *** *debate*** n  重难点词汇
+# ***\*debate*** n  重难点词汇
 英音 dɪ'beɪt     美音 dɪ'beɪt  
 
 | 词频 3 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -1307,7 +1307,7 @@ dealer /'diːlə(r)/ n [C]
  > 在是否进行这个实验的问题上展开了激烈的争论。  
 
 
-# *** *debt*** n
+# ***\*debt*** n
 英音 det     美音 det  
 
 | 词频 3 | 口语 1 | 书面 2 |  
@@ -1323,12 +1323,12 @@ dealer /'diːlə(r)/ n [C]
 
 固定搭配
 ---
-## - *fall / get / run into debt   **借债；负债：**  
+- ## \*fall / get / run into debt   **借债；负债：**  
 
  > It's much easier to get into debt than to get out of debt.  
  > 借债容易还债难。  
 
-## - *in debt (to sb)   **欠 (某人) 债；受 (某人) 恩惠：**  
+- ## \*in debt (to sb)   **欠 (某人) 债；受 (某人) 恩惠：**  
 
  > Nearly half the college students said they were in debt.  
  > 近一半的大学生说自己欠债。  
@@ -1336,12 +1336,12 @@ dealer /'diːlə(r)/ n [C]
  > I’m in debt to him for his help.   
  > 对于他的帮助，我欠他一份人情。  
 
-## - *out of debt   **不欠债**  
+- ## \*out of debt   **不欠债**  
 
-## - *pay off one’s debts   **还清债务**  
+- ## \*pay off one’s debts   **还清债务**  
 
 
-# *** *decade*** n
+# ***\*decade*** n
 英音 'dekeɪd     美音 'dekeɪd  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -1355,7 +1355,7 @@ dealer /'diːlə(r)/ n [C]
  > 来源：2011 山东改  
 
 
-# *** *decay*** v
+# ***\*decay*** v
 英音 dɪ'keɪ     美音 dɪ'keɪ  
 
 | 词频 1 |  
@@ -1368,7 +1368,7 @@ dealer /'diːlə(r)/ n [C]
  > 蛀牙/腐烂的食物  
 
 
-# *** *deceive*** v
+# ***\*deceive*** v
 英音 dɪ'siːv     美音 dɪ'siːv  
 
   
@@ -1378,7 +1378,7 @@ dealer /'diːlə(r)/ n [C]
 1.**欺骗**  
 
 
-# *** *decent*** adj
+# ***\*decent*** adj
 英音 'diːsnt     美音 'diːsnt  
 
 | 词频 1 |  
@@ -1388,7 +1388,7 @@ dealer /'diːlə(r)/ n [C]
 1.**正派的；得体的；相当好的**  
 
 
-# *** *decibel*** n
+# ***\*decibel*** n
 英音 'desɪbel     美音 'desɪbel  
 
 | 词频 1 |  
@@ -1398,7 +1398,7 @@ dealer /'diːlə(r)/ n [C]
 1.**分贝（音量单位）**  
 
 
-# *** *decide*** v
+# ***\*decide*** v
 英音 dɪ'saɪd     美音 dɪ'saɪd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1435,13 +1435,13 @@ dealer /'diːlə(r)/ n [C]
 
 固定搭配
 ---
-## - *decide on / upon   **决定；选定：**  
+- ## \*decide on / upon   **决定；选定：**  
 
  > Have you decided on a date for the wedding?  
  > 你们定好婚礼日期了吗？  
 
 
-# *** *decision*** n
+# ***\*decision*** n
 英音 dɪ'sɪʒn     美音 dɪ'sɪʒn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1487,7 +1487,7 @@ decisive /dɪ'saɪsɪv/ adj
  > 她在和谈中起了决定性作用。  
 
 
-# *** *deck*** n
+# ***\*deck*** n
 英音 dek     美音 dek  
 
 | 词频 2 |  
@@ -1497,7 +1497,7 @@ decisive /dɪ'saɪsɪv/ adj
 1.**甲板**  
 
 
-# *** *declare*** v  重难点词汇
+# ***\*declare*** v  重难点词汇
 英音 dɪ'kleə(r)     美音 dɪ'kler  
 
 | 词频 4 | 书面 2 |  
@@ -1543,7 +1543,7 @@ decisive /dɪ'saɪsɪv/ adj
  > 如果你没有东西要申报，那就走绿色通道。  
 
 
-# *** *decline*** n
+# ***\*decline*** n
 英音 dɪ'klaɪn     美音 dɪ'klaɪn  
 
 | 词频 3 | 书面 2 | 阅读 2 |  
@@ -1561,7 +1561,7 @@ decisive /dɪ'saɪsɪv/ adj
  > 人口急剧下降。  
 
 
-# *** *decline*** v
+# ***\*decline*** v
 英音 dɪ'klaɪn     美音 dɪ'klaɪn  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -1607,7 +1607,7 @@ D.decline
 ##### 答案 D  
   
 
-# *** *decorate*** v
+# ***\*decorate*** v
 英音 'dekəreɪt     美音 'dekəreɪt  
 
 | 词频 2 |  
@@ -1626,7 +1626,7 @@ D.decline
  > 来源：北师大① – 3  
 
 
-# *** *decoration*** n
+# ***\*decoration*** n
 英音 ˌdekə'reɪʃn     美音 ˌdekə'reɪʃn  
 
 | 词频 2 |  
@@ -1643,7 +1643,7 @@ D.decline
  > 圣诞节装饰品  
 
 
-# *** *decrease*** n
+# ***\*decrease*** n
 英音 'diːkriːs     美音 'diːkriːs  
 
 | 词频 3 | 口语 1 | 阅读 3 |  
@@ -1661,7 +1661,7 @@ D.decline
  > 参观博物馆的人数下降近6%。  
 
 
-# *** *decrease*** v
+# ***\*decrease*** v
 英音 dɪ'kriːs     美音 dɪ'kriːs  
 
 | 词频 3 | 阅读 3 |  
@@ -1682,7 +1682,7 @@ D.decline
  > 人们在荒丘上种植了树木，以减少水土流失。  
 
 
-# *** *dedicated*** adj
+# ***\*dedicated*** adj
 英音 'dedɪkeɪtɪd     美音 'dedɪkeɪtɪd  
 
 | 词频 1 |  
@@ -1692,7 +1692,7 @@ D.decline
 1.**专心致志的**  
 
 
-# *** *dedication*** n
+# ***\*dedication*** n
 英音 ˌdedɪ'keɪʃn     美音 ˌdedɪ'keɪʃn  
 
 | 词频 1 |  
@@ -1702,7 +1702,7 @@ D.decline
 1.**专心致志**  
 
 
-# *** *deduce*** vt
+# ***\*deduce*** vt
 英音 dɪ'djuːs     美音 dɪ'djuːs  
 
 | 词频 1 |  
@@ -1712,7 +1712,7 @@ D.decline
 1.*高义频：* **推论；推断 (infer)**  
 
 
-# *** *deduction*** n
+# ***\*deduction*** n
 英音 dɪ'dʌkʃn     美音 dɪ'dʌkʃn  
 
 | 词频 1 |  
@@ -1722,7 +1722,7 @@ D.decline
 1.**推理；推断**  
 
 
-# *** *deed*** n
+# ***\*deed*** n
 英音 diːd     美音 diːd  
 
 | 词频 2 |  
@@ -1741,7 +1741,7 @@ D.decline
  > 他们言行不一。  
 
 
-# *** *deep*** adj
+# ***\*deep*** adj
 英音 diːp     美音 diːp  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -1799,7 +1799,7 @@ D.decline
 ---
 deepen /'diːpən/ v   
 
-# *** *deep*** adv
+# ***\*deep*** adv
 英音 diːp     美音 diːp  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -1822,10 +1822,10 @@ deepen /'diːpən/ v
 
 固定搭配
 ---
-## - *deep down  **心底；本质上**  
+- ## \*deep down  **心底；本质上**  
 
 
-# *** *deep-breathing*** adj
+# ***\*deep-breathing*** adj
 英音 ˌdi:p ˈbri:ðɪŋ     美音 ˌdip ˈbriðɪŋ  
 
 | 词频 1 |  
@@ -1835,7 +1835,7 @@ deepen /'diːpən/ v
 1.**深呼吸的**  
 
 
-# *** *deepen*** vt
+# ***\*deepen*** vt
 英音 'diːpən     
 
   
@@ -1845,7 +1845,7 @@ deepen /'diːpən/ v
 1.**使 ... 加深； 使 ... 强烈**  
 
 
-# *** *deepen*** vi
+# ***\*deepen*** vi
 英音 'diːpən     
 
   
@@ -1855,7 +1855,7 @@ deepen /'diːpən/ v
 1.**加深； 变浓**  
 
 
-# *** *deeply*** adv
+# ***\*deeply*** adv
 英音 'diːpli     美音 'diːpli  
 
 | 词频 3 | 书面 1 |  
@@ -1889,7 +1889,7 @@ I have been _______(深深地) impressed by a number of experiences in her life.
 ##### 答案 deeply  
   
 
-# *** *deer*** n
+# ***\*deer*** n
 英音 dɪə(r)     美音 dɪr  
 
 | 词频 3 |  
@@ -1899,7 +1899,7 @@ I have been _______(深深地) impressed by a number of experiences in her life.
 1.*高义频：* **[C] (pl deer ) 鹿**  
 
 
-# *** *defeat*** n
+# ***\*defeat*** n
 英音 dɪ'fiːt     美音 dɪ'fiːt  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -1917,7 +1917,7 @@ I have been _______(深深地) impressed by a number of experiences in her life.
  > 承认失败  
 
 
-# *** *defeat*** vt
+# ***\*defeat*** vt
 英音 dɪ'fiːt     美音 dɪ'fiːt  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -1940,7 +1940,7 @@ I have been _______(深深地) impressed by a number of experiences in her life.
  > 不要放松手臂，那样会失去锻炼的效果。  
 
 
-# *** *defence*** n
+# ***\*defence*** n
 英音 dɪ'fens     美音 dɪ'fens  
 
 | 词频 3 | 口语 2 | 书面 3 | 阅读 2 |  
@@ -1973,7 +1973,7 @@ I have been _______(深深地) impressed by a number of experiences in her life.
 4.*低义频：* **[C] (体育运动中) 后卫；防守队员**  
 
 
-# *** *defend*** v
+# ***\*defend*** v
 英音 dɪ'fend     美音 dɪ'fend  
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 2 |  
@@ -2005,7 +2005,7 @@ I have been _______(深深地) impressed by a number of experiences in her life.
 ### 辨析 defend, guard, protect
 1. 三者都含有“保护”之意。  
 
-# *** *defense*** n
+# ***\*defense*** n
 英音 dɪ'fens     美音 dɪ'fens  
 
 | 词频 3 | 口语 2 | 书面 3 | 阅读 2 |  
@@ -2038,7 +2038,7 @@ I have been _______(深深地) impressed by a number of experiences in her life.
 4.*低义频：* **[C] (体育运动中) 后卫；防守队员**  
 
 
-# *** *define*** vt
+# ***\*define*** vt
 英音 dɪ'faɪn     美音 dɪ'faɪn  
 
 | 词频 2 | 口语 2 | 书面 2 |  
@@ -2059,7 +2059,7 @@ I have been _______(深深地) impressed by a number of experiences in her life.
  > 《宪法》规定了总统的权力。  
 
 
-# *** *definite*** adj
+# ***\*definite*** adj
 英音 'defɪnət     美音 'defɪnət  
 
 | 词频 1 | 口语 1 |  
@@ -2075,7 +2075,7 @@ I have been _______(深深地) impressed by a number of experiences in her life.
  > 他肯定要来。  
 
 
-# *** *definitely*** adv
+# ***\*definitely*** adv
 英音 'defɪnətli     美音 'defɪnətli  
 
 | 词频 3 | 阅读 3 |  
@@ -2088,7 +2088,7 @@ I have been _______(深深地) impressed by a number of experiences in her life.
  > 这家博物馆绝对值得参观。  
 
 
-# *** *definition*** n
+# ***\*definition*** n
 英音 ˌdefɪ'nɪʃn     美音 ˌdefɪ'nɪʃn  
 
 | 词频 3 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -2105,7 +2105,7 @@ I have been _______(深深地) impressed by a number of experiences in her life.
  > 来源：2013 天津  
 
 
-# *** *degree*** n
+# ***\*degree*** n
 英音 dɪ'ɡriː     美音 dɪ'ɡriː  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -2139,14 +2139,14 @@ I have been _______(深深地) impressed by a number of experiences in her life.
 
 固定搭配
 ---
-## - *to a (certain) degree / to some degree  **在 (一 定) 程度上；相当：**  
+- ## \*to a (certain) degree / to some degree  **在 (一 定) 程度上；相当：**  
 
  > To a certain degree, it’s a matter of logic.   
  > 在一定程度上，这是个逻辑问题。  
  > 来源：2011 北京  
 
 
-# *** *delay*** v  重难点词汇
+# ***\*delay*** v  重难点词汇
 英音 dɪ'leɪ     美音 dɪ'leɪ  
 
 | 词频 4 | 书面 1 |  
@@ -2167,7 +2167,7 @@ I have been _______(深深地) impressed by a number of experiences in her life.
  > 他迟迟没有把这消息告诉她，他在等待适当的时机。  
 
 
-# *** *delay*** n  重难点词汇
+# ***\*delay*** n  重难点词汇
 英音 dɪ'leɪ     美音 dɪ'leɪ  
 
 | 词频 4 | 书面 1 |  
@@ -2196,7 +2196,7 @@ The World Health Organization gave a warning to the public without any ________ 
 ##### 答案 delay   
   
 
-# *** *delegate*** n
+# ***\*delegate*** n
 英音 'delɪɡət     美音 'delɪɡeɪt  
 
 | 词频 1 |  
@@ -2206,7 +2206,7 @@ The World Health Organization gave a warning to the public without any ________ 
 1.**代表**  
 
 
-# *** *delete*** n
+# ***\*delete*** n
 英音 dɪ'liːt     美音 dɪ'liːt  
 
 | 词频 1 |  
@@ -2216,7 +2216,7 @@ The World Health Organization gave a warning to the public without any ________ 
 1.*高义频：* **[C] (键盘) 删除键**  
 
 
-# *** *delete*** vt
+# ***\*delete*** vt
 英音 dɪ'liːt     美音 dɪ'liːt  
 
 | 词频 1 |  
@@ -2229,7 +2229,7 @@ The World Health Organization gave a warning to the public without any ________ 
  > 误删文档  
 
 
-# *** *deliberate*** adj
+# ***\*deliberate*** adj
 英音 dɪ'lɪbərət     美音 dɪ'lɪbərət  
 
 | 词频 1 |  
@@ -2245,7 +2245,7 @@ The World Health Organization gave a warning to the public without any ________ 
  > 她说话慢条斯理，不慌不忙。  
 
 
-# *** *deliberately*** adv
+# ***\*deliberately*** adv
 英音 dɪ'lɪbərətli     美音 dɪ'lɪbərətli  
 
 | 词频 1 | 口语 1 |  
@@ -2275,7 +2275,7 @@ D.clumsily
 ##### 答案 deliberately  
   
 
-# *** *delicacy*** n
+# ***\*delicacy*** n
 英音 'delɪkəsi     美音 'delɪkəsi  
 
 | 词频 1 |  
@@ -2285,7 +2285,7 @@ D.clumsily
 1.**佳肴；珍馐**  
 
 
-# *** *delicate*** adj
+# ***\*delicate*** adj
 英音 'delɪkət     美音 'delɪkət  
 
 | 词频 2 | 阅读 1 |  
@@ -2322,7 +2322,7 @@ D.clumsily
  > 微妙的国际形势  
 
 
-# *** *delicious*** adj
+# ***\*delicious*** adj
 英音 dɪ'lɪʃəs     美音 dɪ'lɪʃəs  
 
 | 词频 4 |  
@@ -2343,7 +2343,7 @@ Honestly I thought the fried chicken was ________ (可口的).
 ##### 答案 delicious  
   
 
-# *** *delight*** n  重难点词汇
+# ***\*delight*** n  重难点词汇
 英音 dɪ'laɪt     美音 dɪ'laɪt  
 
 | 词频 4 |  
@@ -2381,7 +2381,7 @@ Honestly I thought the fried chicken was ________ (可口的).
  > 看到父母身体这么健康我真高兴。  
 
 
-# *** *delight*** vt  重难点词汇
+# ***\*delight*** vt  重难点词汇
 英音 dɪ'laɪt     美音 dɪ'laɪt  
 
 | 词频 4 |  
@@ -2401,13 +2401,13 @@ Honestly I thought the fried chicken was ________ (可口的).
 
 固定搭配
 ---
-## - *delight in  **[不用于被动语态] 以…为乐；喜欢 (尤指他人认为不好的事)：**  
+- ## \*delight in  **[不用于被动语态] 以…为乐；喜欢 (尤指他人认为不好的事)：**  
 
  > The boss delights in complicating a problem, which makes others confused.   
  > 这位老板喜欢把问题复杂化，这让其他人摸不着头脑。  
 
 
-# *** *delighted*** adj
+# ***\*delighted*** adj
 英音 dɪ'laɪtɪd     美音 dɪ'laɪtɪd  
 
 | 词频 4 |  
@@ -2439,7 +2439,7 @@ Honestly I thought the fried chicken was ________ (可口的).
 
 Notes: 不能用very修饰delighted。  
 
-# *** *delightful*** adj
+# ***\*delightful*** adj
 英音 dɪ'laɪtfl     美音 dɪ'laɪtfl  
 
 | 词频 2 |  
@@ -2449,7 +2449,7 @@ Notes: 不能用very修饰delighted。
 1.*高义频：* **(事物) 令人高兴的；使人快乐的； (人) 讨人喜欢的**  
 
 
-# *** *deliver*** vt
+# ***\*deliver*** vt
 英音 dɪ'lɪvə(r)     美音 dɪ'lɪvər  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -2489,7 +2489,7 @@ Notes: 不能用very修饰delighted。
  > 她丈夫不得不亲自接生。  
 
 
-# *** *delivery*** n
+# ***\*delivery*** n
 英音 dɪ'lɪvəri     美音 dɪ'lɪvəri  
 
 | 词频 4 | 口语 1 | 书面 1 | 阅读 3 |  
@@ -2514,7 +2514,7 @@ Notes: 不能用very修饰delighted。
 2.*低义频：* **分娩；生产**  
 
 
-# *** *delta*** n
+# ***\*delta*** n
 英音 'deltə     美音 'deltə  
 
 | 词频 1 |  
@@ -2526,7 +2526,7 @@ Notes: 不能用very修饰delighted。
 1.*高义频：* **三角洲**  
 
 
-# *** *demand*** n  重难点词汇
+# ***\*demand*** n  重难点词汇
 英音 dɪ'mɑːnd     美音 dɪ'mænd  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -2562,12 +2562,12 @@ Notes: 不能用very修饰delighted。
 
 固定搭配
 ---
-## - *in demand   **非常需要的；受欢迎的：**  
+- ## \*in demand   **非常需要的；受欢迎的：**  
 
  > While modeling business is by no means easy to get into, the good model will always be in demand.   
  > 由于模特业不易进入，好模特总是供不应求。  
 
-## - *on demand   **[正式用语] 一经要求**  
+- ## \*on demand   **[正式用语] 一经要求**  
 
 
 真题解析
@@ -2578,7 +2578,7 @@ The Harry Potter books are quite popular; they are ________ great demand  in thi
 ##### 答案 in  
   
 
-# *** *demand*** vt  重难点词汇
+# ***\*demand*** vt  重难点词汇
 英音 dɪ'mɑːnd     美音 dɪ'mænd  
 
 | 词频 4 | 书面 2 |  
@@ -2608,7 +2608,7 @@ Notes: 不能用demand sb to do sth。
  > 这项工作需要细心和耐心。  
 
 
-# *** *demanding*** adj
+# ***\*demanding*** adj
 英音 dɪ'mɑːndɪŋ     美音 dɪ'mændɪŋ  
 
 | 词频 3 | 阅读 2 |  
@@ -2632,7 +2632,7 @@ Notes: 不能用demand sb to do sth。
  > 苛刻的老板  
 
 
-# *** *demonstrate*** v
+# ***\*demonstrate*** v
 英音 'demənstreɪt     美音 'demənstreɪt  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -2657,7 +2657,7 @@ Notes: 不能用demand sb to do sth。
  > 示威反对某人/某事  
 
 
-# *** *dentist*** n
+# ***\*dentist*** n
 英音 'dentɪst     美音 'dentɪst  
 
 | 词频 1 | 口语 1 |  
@@ -2667,7 +2667,7 @@ Notes: 不能用demand sb to do sth。
 1.*高义频：* **[C] 牙医**  
 
 
-# *** *deny*** vt
+# ***\*deny*** vt
 英音 dɪ'naɪ     美音 dɪ'naɪ  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -2715,7 +2715,7 @@ D.decline
 ##### 答案 deny  
   
 
-# *** *depart*** vi
+# ***\*depart*** vi
 英音 dɪ'pɑːt     美音 dɪ'pɑːt  
 
 | 词频 2 | 阅读 1 |  
@@ -2733,7 +2733,7 @@ D.decline
  > 这趟航班飞往巴黎。  
 
 
-# *** *department*** n
+# ***\*department*** n
 英音 dɪ'pɑːtmənt     美音 dɪ'pɑːrtmənt  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -2754,7 +2754,7 @@ D.decline
  > 英语系  
 
 
-# *** *departure*** n
+# ***\*departure*** n
 英音 dɪ'pɑːtʃə(r)     美音 dɪ'pɑːrtʃər  
 
 | 词频 1 | 书面 1 | 阅读 1 |  
@@ -2772,7 +2772,7 @@ D.decline
  > 对常规做法的偏离  
 
 
-# *** *depend*** vi  重难点词汇
+# ***\*depend*** vi  重难点词汇
 英音 dɪ'pend     美音 dɪ'pend  
 
 | 词频 5 | 口语 3 |  
@@ -2783,7 +2783,7 @@ D.decline
 
 固定搭配
 ---
-## - *depend on / upon  1.*高义频：* **依靠；依赖(rely on / upon)：**  
+- ## \*depend on / upon  1.*高义频：* **依靠；依赖(rely on / upon)：**  
 
  > **depend on,to**  
  > We depend on energy to do many things in our daily lives.    
@@ -2816,7 +2816,7 @@ D.decline
  > 旅途大约需要两小时，这取决于交通状况。  
  > 来源：2011 上海  
 
-## - *It / That (all) depends.   **那得看情况。**  
+- ## \*It / That (all) depends.   **那得看情况。**  
 
  > — How long are you staying?  
  > 你会待多久？  
@@ -2850,7 +2850,7 @@ Don’t always d________ on others. You should learn to rely on yourself.
 ##### 答案 depend  
   
 
-# *** *dependent*** adj
+# ***\*dependent*** adj
 英音 dɪ'pendənt     美音 dɪ'pendənt  
 
 | 词频 2 | 阅读 2 |  
@@ -2869,7 +2869,7 @@ Don’t always d________ on others. You should learn to rely on yourself.
  > 来源：2018 江苏  
 
 
-# *** *deposit*** n
+# ***\*deposit*** n
 英音 dɪ'pɒzɪt     美音 dɪ'pɑːzɪt  
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 1 |  
@@ -2893,7 +2893,7 @@ Don’t always d________ on others. You should learn to rely on yourself.
  > 他们通常要求支付100美元作为订金。  
 
 
-# *** *deposit*** vt
+# ***\*deposit*** vt
 英音 dɪ'pɒzɪt     美音 dɪ'pɑːzɪt  
 
 | 词频 2 | 阅读 1 |  
@@ -2925,7 +2925,7 @@ Don’t always d________ on others. You should learn to rely on yourself.
  > 河水流速变慢时，一层泥沙便沉积下来。  
 
 
-# *** *depress*** vt
+# ***\*depress*** vt
 英音 dɪ'pres     美音 dɪ'pres  
 
 | 词频 3 |  
@@ -2957,7 +2957,7 @@ depressed /dɪ'prest/ adj
 
 depressing /dɪ'presɪŋ/ adj   
 
-# *** *depressed*** adj
+# ***\*depressed*** adj
 英音 dɪ'prest     美音 dɪ'prest  
 
 | 词频 3 |  
@@ -2972,7 +2972,7 @@ depressing /dɪ'presɪŋ/ adj
  > 来源：2002 上海  
 
 
-# *** *depressing*** adj
+# ***\*depressing*** adj
 英音 dɪ'presɪŋ     美音 dɪ'presɪŋ  
 
 | 词频 2 |  
@@ -2982,7 +2982,7 @@ depressing /dɪ'presɪŋ/ adj
 1.**令人沮丧的；令人抑郁的**  
 
 
-# *** *depression*** n
+# ***\*depression*** n
 英音 dɪ'preʃn     美音 dɪ'preʃn  
 
 | 词频 3 | 阅读 3 |  
@@ -3001,7 +3001,7 @@ depressing /dɪ'presɪŋ/ adj
  > 来源：2011 山东  
 
 
-# *** *depth*** n
+# ***\*depth*** n
 英音 depθ     美音 depθ  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -3029,7 +3029,7 @@ depressing /dɪ'presɪŋ/ adj
 
 固定搭配
 ---
-## - *in depth   **全面地；深入地；仔细地：**  
+- ## \*in depth   **全面地；深入地；仔细地：**  
 
  > an in-depth study   
  > 深入的研究  
@@ -3046,7 +3046,7 @@ On June 27, 2012, the Jiaolong reached a ________ (深度) of 7,062 meters in th
 ##### 答案 depth  
   
 
-# *** *descend*** v
+# ***\*descend*** v
 英音 dɪ'send     美音 dɪ'send  
 
 | 词频 1 |  
@@ -3056,7 +3056,7 @@ On June 27, 2012, the Jiaolong reached a ________ (深度) of 7,062 meters in th
 1.**下来；下降**  
 
 
-# *** *descendant*** n
+# ***\*descendant*** n
 英音 dɪ'sendənt     美音 dɪ'sendənt  
 
 | 词频 1 |  
@@ -3069,7 +3069,7 @@ On June 27, 2012, the Jiaolong reached a ________ (深度) of 7,062 meters in th
  > 他们中许多人都是早期移民的后裔。  
 
 
-# *** *describe*** vt
+# ***\*describe*** vt
 英音 dɪ'skraɪb     美音 dɪ'skraɪb  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -3101,7 +3101,7 @@ On June 27, 2012, the Jiaolong reached a ________ (深度) of 7,062 meters in th
 ---
 descriptive /dɪ'skrɪptɪv/ adj   
 
-# *** *description*** n
+# ***\*description*** n
 英音 dɪ'skrɪpʃn     美音 dɪ'skrɪpʃn  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -3117,7 +3117,7 @@ descriptive /dɪ'skrɪptɪv/ adj
 
 固定搭配
 ---
-## - *beyond description  **难以描述；难以形容：**  
+- ## \*beyond description  **难以描述；难以形容：**  
 
  > The grand sight of Mount Huangshan is beyond description.   
  > 黄山的壮丽美景难以形容。  
@@ -3131,7 +3131,7 @@ The book gives a short ________ (描述) of the city.
 ##### 答案 description  
   
 
-# *** *desert*** n
+# ***\*desert*** n
 英音 'dezət     美音 'dezərt  
 
 | 词频 4 | 书面 1 |  
@@ -3141,7 +3141,7 @@ The book gives a short ________ (描述) of the city.
 1.*高义频：* **[C] & [U] 沙漠；荒原**  
 
 
-# *** *desert*** vt
+# ***\*desert*** vt
 英音 dɪ'zɜːt     美音 dɪ'zɜːrt  
 
 | 词频 4 |  
@@ -3166,7 +3166,7 @@ deserted /dɪ'zɜːtɪd/ adj
  > 荒芜的村庄  
 
 
-# *** *desertification*** n
+# ***\*desertification*** n
 英音 dɪˌzɜːtɪfɪ'keɪʃn     美音 dɪˌzɜːrtɪfɪ'keɪʃn  
 
 | 词频 1 |  
@@ -3176,7 +3176,7 @@ deserted /dɪ'zɜːtɪd/ adj
 1.**（土地的）沙漠化**  
 
 
-# *** *deserve*** vt  重难点词汇
+# ***\*deserve*** vt  重难点词汇
 英音 dɪ'zɜːv     美音 dɪ'zɜːrv  
 
 | 词频 4 | 口语 1 | 书面 1 | 阅读 3 |  
@@ -3226,7 +3226,7 @@ deserving /dɪ'zɜːvɪŋ/ adj
  > 值得帮助的穷人  
 
 
-# *** *design*** n
+# ***\*design*** n
 英音 dɪ'zaɪn     美音 dɪ'zaɪn  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -3257,7 +3257,7 @@ deserving /dɪ'zɜːvɪŋ/ adj
  > 她对他的钱财有企图。  
 
 
-# *** *design*** vt
+# ***\*design*** vt
 英音 dɪ'zaɪn     美音 dɪ'zaɪn  
 
 | 词频 5 | 口语 1 | 书面 3 |  
@@ -3289,7 +3289,7 @@ deserving /dɪ'zɜːvɪŋ/ adj
  > 据说早期欧洲的纸牌游戏是为娱乐和教育而设计的。  
 
 
-# *** *designer*** adj
+# ***\*designer*** adj
 英音 dɪ'zaɪnə(r)     美音 dɪ'zaɪnər  
 
 | 词频 4 |  
@@ -3303,7 +3303,7 @@ deserving /dɪ'zɜːvɪŋ/ adj
  > 来源：2011 江西  
 
 
-# *** *designer*** n
+# ***\*designer*** n
 英音 dɪ'zaɪnə(r)     美音 dɪ'zaɪnər  
 
 | 词频 4 | 口语 1 |  
@@ -3317,7 +3317,7 @@ deserving /dɪ'zɜːvɪŋ/ adj
  > 来源：2014 全国书面表达  
 
 
-# *** *desire*** n  重难点词汇
+# ***\*desire*** n  重难点词汇
 英音 dɪ'zaɪə(r)     美音 dɪ'zaɪər  
 
 | 词频 4 | 书面 2 | 阅读 3 |  
@@ -3339,7 +3339,7 @@ deserving /dɪ'zɜːvɪŋ/ adj
  > 孔子说过：“七十而从心所欲。”  
 
 
-# *** *desire*** vt  重难点词汇
+# ***\*desire*** vt  重难点词汇
 英音 dɪ'zaɪə(r)     美音 dɪ'zaɪər  
 
 | 词频 4 | 阅读 3 |  
@@ -3362,7 +3362,7 @@ deserving /dɪ'zɜːvɪŋ/ adj
 ### 辨析 desire, wish, want
 三者都含有“想”、“希望”之意。  
 
-# *** *desk*** n
+# ***\*desk*** n
 英音 desk     美音 desk  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -3375,7 +3375,7 @@ deserving /dɪ'zɜːvɪŋ/ adj
  > 在办公；在读书  
 
 
-# *** *despair*** n
+# ***\*despair*** n
 英音 dɪ'speə(r)     美音 dɪ'sper  
 
 | 词频 2 | 阅读 1 |  
@@ -3397,14 +3397,14 @@ deserving /dɪ'zɜːvɪŋ/ adj
 
 固定搭配
 ---
-## - *in despair   **绝望地：**  
+- ## \*in despair   **绝望地：**  
 
  > Lance put his head on the doctor’s desk in despair.    
  > 兰斯绝望地趴在医生的桌子上。  
  > 来源：北师大⑦ – 21  
 
 
-# *** *despair*** vi
+# ***\*despair*** vi
 英音 dɪ'speə(r)     美音 dɪ'sper  
 
 | 词频 2 | 阅读 1 |  
@@ -3421,7 +3421,7 @@ deserving /dɪ'zɜːvɪŋ/ adj
  > 他没有失去赢得最后胜利的信心。  
 
 
-# *** *desperate*** adj
+# ***\*desperate*** adj
 英音 'despərət     美音 'despərət  
 
 | 词频 1 | 口语 1 | 书面 1 | 阅读 1 |  
@@ -3452,7 +3452,7 @@ deserving /dɪ'zɜːvɪŋ/ adj
 ---
 desperately   /'despərətli/ adv   
 
-# *** *despite*** prep
+# ***\*despite*** prep
 英音 dɪ'spaɪt     美音 dɪ'spaɪt  
 
 | 词频 4 | 口语 1 | 书面 3 | 阅读 3 |  
@@ -3479,7 +3479,7 @@ D.to
 ##### 答案 B  
   
 
-# *** *dessert*** n
+# ***\*dessert*** n
 英音 dɪ'zɜːt     美音 dɪ'zɜːrt  
 
 | 词频 2 |  
@@ -3489,7 +3489,7 @@ D.to
 1.*高义频：* **[C] & [U] (饭后) 甜点**  
 
 
-# *** *destination*** n
+# ***\*destination*** n
 英音 ˌdestɪ'neɪʃn     美音 ˌdestɪ'neɪʃn  
 
 | 词频 3 | 阅读 2 |  
@@ -3503,7 +3503,7 @@ D.to
  > 来源：2009 江西  
 
 
-# *** *destiny*** n
+# ***\*destiny*** n
 英音 'destəni     美音 'destəni  
 
 | 词频 1 |  
@@ -3513,7 +3513,7 @@ D.to
 1.**命运；天命**  
 
 
-# *** *destroy*** vt  重难点词汇
+# ***\*destroy*** vt  重难点词汇
 英音 dɪ'strɔɪ     美音 dɪ'strɔɪ  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -3541,7 +3541,7 @@ D.to
  > 那只狗袭击了一个小孩，所以要被杀掉。  
 
 
-# *** *destruction*** n
+# ***\*destruction*** n
 英音 dɪ'strʌkʃn     美音 dɪ'strʌkʃn  
 
 | 词频 2 | 书面 1 | 阅读 2 |  
@@ -3554,7 +3554,7 @@ D.to
  > 洪水严重毁坏了铁路。  
 
 
-# *** *detail*** n
+# ***\*detail*** n
 英音 'diːteɪl     美音 'diːteɪl  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -3570,13 +3570,13 @@ D.to
 
 固定搭配
 ---
-## - *in detail   **详细地：**  
+- ## \*in detail   **详细地：**  
 
  > Planning is good as it decides in detail how we do what we want to do.  
  > 做计划的好处在于它详细地规定了如何做我们想做的事。  
  > 来源：2016 浙江书面表达  
 
-## - *go into detail(s)   **详细叙述；逐一说明：**  
+- ## \*go into detail(s)   **详细叙述；逐一说明：**  
 
  > I can’t go into details now; it would take too long.  
  > 我现在不能细说，太费时间了。  
@@ -3594,7 +3594,7 @@ We’d better discuss everything _______ (详细地) before we work out the plan
 ##### 答案 in detail  
   
 
-# *** *detect*** vt
+# ***\*detect*** vt
 英音 dɪ'tekt     美音 dɪ'tekt  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -3610,7 +3610,7 @@ We’d better discuss everything _______ (详细地) before we work out the plan
  > 如果发现得早，许多癌症都可以治愈。  
 
 
-# *** *detective*** n
+# ***\*detective*** n
 英音 dɪ'tektɪv     美音 dɪ'tektɪv  
 
 | 词频 1 | 书面 1 |  
@@ -3623,7 +3623,7 @@ We’d better discuss everything _______ (详细地) before we work out the plan
  > 侦探小说  
 
 
-# *** *determination*** n
+# ***\*determination*** n
 英音 dɪˌtɜːmɪ'neɪʃn     美音 dɪˌtɜːrmɪ'neɪʃn  
 
 | 词频 3 | 书面 1 | 阅读 3 |  
@@ -3645,7 +3645,7 @@ We’d better discuss everything _______ (详细地) before we work out the plan
  > 来源：——歌德  
 
 
-# *** *determine*** v
+# ***\*determine*** v
 英音 dɪ'tɜːmɪn     美音 dɪ'tɜːrmɪn  
 
 | 词频 4 | 书面 3 |  
@@ -3688,7 +3688,7 @@ We’d better discuss everything _______ (详细地) before we work out the plan
  > 他已决定明天去。  
 
 
-# *** *determined*** adj
+# ***\*determined*** adj
 英音 dɪ'tɜːmɪnd     美音 dɪ'tɜːmɪnd  
 
 | 词频 4 | 书面 1 |  
@@ -3716,7 +3716,7 @@ We’d better discuss everything _______ (详细地) before we work out the plan
  > 来源：人教① – 3  
 
 
-# *** *detour*** n
+# ***\*detour*** n
 英音 'diːtʊə(r)     美音 'diːtʊr  
 
 | 词频 1 |  
@@ -3726,7 +3726,7 @@ We’d better discuss everything _______ (详细地) before we work out the plan
 1.**迂路；绕行之路**  
 
 
-# *** *develop*** v  重难点词汇
+# ***\*develop*** v  重难点词汇
 英音 dɪ'veləp     美音 dɪ'veləp  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -3796,7 +3796,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 ##### 答案 will have developed  
   
 
-# *** *development*** n
+# ***\*development*** n
 英音 dɪ'veləpmənt     美音 dɪ'veləpmənt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3822,7 +3822,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
  > 来源：外研⑦ – 1  
 
 
-# *** *device*** n
+# ***\*device*** n
 英音 dɪ'vaɪs     美音 dɪ'vaɪs  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -3835,7 +3835,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
  > 节水装置  
 
 
-# *** *devil*** n
+# ***\*devil*** n
 英音 'devl     美音 'devl  
 
 | 词频 1 |  
@@ -3845,7 +3845,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 1.*高义频：* **[常与the连用] 魔鬼**  
 
 
-# *** *devote*** vt
+# ***\*devote*** vt
 英音 dɪ'vəʊt     美音 dɪ'voʊt  
 
 | 词频 4 |  
@@ -3867,14 +3867,14 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 
 固定搭配
 ---
-## - *devote oneself to  **献身于；致力于；专心于：**  
+- ## \*devote oneself to  **献身于；致力于；专心于：**  
 
  > If you have a job, do devote yourself to it and finally you’ll succeed.   
  > 如果你有一份工作，务必全身心地投入，最终你会成功的。  
  > 来源：2010 四川  
 
 
-# *** *devoted*** adj
+# ***\*devoted*** adj
 英音 dɪ'vəʊtɪd     美音 dɪ'voʊtɪd  
 
 | 词频 2 |  
@@ -3888,7 +3888,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
  > 她深爱的儿子10年前出国了。  
 
 
-# *** *devotion*** n
+# ***\*devotion*** n
 英音 dɪ'vəʊʃn     美音 dɪ'voʊʃn  
 
 | 词频 3 | 阅读 2 |  
@@ -3906,7 +3906,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
  > 我敬重他对教学的热爱。  
 
 
-# *** *diabetes*** n
+# ***\*diabetes*** n
 英音 ˌdaɪə'biːtiːz     美音 ˌdaɪə'biːtiːz  
 
 | 词频 3 |  
@@ -3916,7 +3916,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 1.**糖尿病**  
 
 
-# *** *diagnose*** vt
+# ***\*diagnose*** vt
 英音 'daɪəɡ'nəʊz     美音 ˌdaɪəɡ'noʊs  
 
 | 词频 3 |  
@@ -3926,7 +3926,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 1.**诊断**  
 
 
-# *** *diagram*** n
+# ***\*diagram*** n
 英音 'daɪəɡræm     美音 'daɪəɡræm  
 
 | 词频 1 |  
@@ -3936,7 +3936,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 1.*高义频：* **[C] 图表；示意图**  
 
 
-# *** *dial*** n
+# ***\*dial*** n
 英音 'daɪəl     美音 'daɪəl  
 
 | 词频 2 |  
@@ -3946,7 +3946,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 1.*高义频：* **[C] (电话机的) 拨号盘**  
 
 
-# *** *dial*** v
+# ***\*dial*** v
 英音 'daɪəl     美音 'daɪəl  
 
 | 词频 2 |  
@@ -3962,7 +3962,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
  > 报警请拨打110。  
 
 
-# *** *dialect*** n
+# ***\*dialect*** n
 英音 'daɪəlekt     美音 'daɪəlekt  
 
 | 词频 1 |  
@@ -3972,7 +3972,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 1.*高义频：* **[C] & [U] 地方话；方言**  
 
 
-# *** *dialog*** n
+# ***\*dialog*** n
 英音 'daɪəlɒg     美音 'daɪəˌlɒg  
 
 | 词频 2 |  
@@ -3982,7 +3982,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 1.*高义频：* **[C] 对话；对白：**  
 
 
-# *** *dialogue*** n
+# ***\*dialogue*** n
 英音 'daɪəlɒɡ     美音 'daɪəlɑːɡ  
 
 | 词频 2 |  
@@ -3992,7 +3992,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 1.*高义频：* **[C] 对话；对白：**  
 
 
-# *** *diamond*** n
+# ***\*diamond*** n
 英音 'daɪəmənd     美音 'daɪəmənd  
 
 | 词频 2 | 口语 1 |  
@@ -4008,7 +4008,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 2.*高义频：* **[C] 菱形**  
 
 
-# *** *diary*** n
+# ***\*diary*** n
 英音 'daɪəri     美音 'daɪəri  
 
 | 词频 4 | 口语 1 |  
@@ -4022,7 +4022,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
  > 记日记是个好习惯。  
 
 
-# *** *dictation*** n
+# ***\*dictation*** n
 英音 dɪk'teɪʃn     美音 dɪk'teɪʃn  
 
 | 词频 1 |  
@@ -4052,7 +4052,7 @@ The English teacher gives the class a ________ (听写) almost every day.
 ##### 答案 dictation  
   
 
-# *** *dictionary*** n
+# ***\*dictionary*** n
 英音 'dɪkʃənəri     美音 'dɪkʃəneri  
 
 | 词频 4 |  
@@ -4065,7 +4065,7 @@ The English teacher gives the class a ________ (听写) almost every day.
  > 查词典  
 
 
-# *** *die*** vi  重难点词汇
+# ***\*die*** vi  重难点词汇
 英音 daɪ     美音 daɪ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4092,23 +4092,23 @@ The English teacher gives the class a ________ (听写) almost every day.
 
 固定搭配
 ---
-## - *be dying for sth  **[口语] 极想要某物：**  
+- ## \*be dying for sth  **[口语] 极想要某物：**  
 
  > I’m dying for a cup of tea.  
  > 我很想喝杯茶。  
 
-## - *be dying to do sth  **[口语] 渴望做某事：**  
+- ## \*be dying to do sth  **[口语] 渴望做某事：**  
 
  > I’m dying to see you.  
  > 我很想见你。  
 
-## - *die away  **逐渐减弱 (至消失)**  
+- ## \*die away  **逐渐减弱 (至消失)**  
 英译 to slowly become weaker and finally disappear：
 
  > The sound of their laughter died away.  
  > 他们的笑声渐渐远去。  
 
-## - *die down  **逐渐变弱；逐渐降低**  
+- ## \*die down  **逐渐变弱；逐渐降低**  
 英译 to slowly become less strong：
 
  > When the applause had died down, she began her speech.  
@@ -4117,7 +4117,7 @@ The English teacher gives the class a ________ (听写) almost every day.
  > The wind has died down a bit.   
  > 风小了一点。  
 
-## - *die from / of  **死于：**  
+- ## \*die from / of  **死于：**  
 
  > She died from a wound.  
  > 她因受伤而亡。  
@@ -4126,12 +4126,12 @@ The English teacher gives the class a ________ (听写) almost every day.
  > 19世纪40年代，约有75万人死于饥饿。  
  > 来源：2011 安徽改  
 
-## - *die off  **相继死去：**  
+- ## \*die off  **相继死去：**  
 
  > The survivors are dying off daily.   
  > 活下来的人正在一天天地相继死去。  
 
-## - *die out  **灭绝；消失：**  
+- ## \*die out  **灭绝；消失：**  
 
  > As a result, many species are quickly dying out.   
  > 结果，许多物种正在迅速灭绝。  
@@ -4150,7 +4150,7 @@ Although the wind has died ________, the rain remains steady, so you still need 
 ##### 答案 away / down  
   
 
-# *** *diet*** vi
+# ***\*diet*** vi
 英音 'daɪət     美音 'daɪət  
 
 | 词频 5 |  
@@ -4163,7 +4163,7 @@ Although the wind has died ________, the rain remains steady, so you still need 
  > 她总在节食，但体重似乎从未减轻。  
 
 
-# *** *diet*** n
+# ***\*diet*** n
 英音 'daɪət     美音 'daɪət  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -4185,13 +4185,13 @@ Although the wind has died ________, the rain remains steady, so you still need 
 
 固定搭配
 ---
-## - *be / go on a diet  **节食：**  
+- ## \*be / go on a diet  **节食：**  
 
  > When I go on a diet, I eat only cucumbers, and that reduces my weight quickly.   
  > 我节食的时候只吃黄瓜，迅速减轻了体重。  
 
 
-# *** *differ*** vi
+# ***\*differ*** vi
 英音 'dɪfə(r)     美音 'dɪfər  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -4218,7 +4218,7 @@ Although the wind has died ________, the rain remains steady, so you still need 
 
 固定搭配
 ---
-## - *I beg to differ  **恕我不敢苟同：**  
+- ## \*I beg to differ  **恕我不敢苟同：**  
 
  > —Only those who have a lot in common can get along well.  
  > 只有那些志趣相投的人才能相处融洽。  
@@ -4228,7 +4228,7 @@ Although the wind has died ________, the rain remains steady, so you still need 
  > 来源：2016 江苏  
 
 
-# *** *difference*** n
+# ***\*difference*** n
 英音 'dɪfrəns     美音 'dɪfrəns  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4260,7 +4260,7 @@ Although the wind has died ________, the rain remains steady, so you still need 
 
 固定搭配
 ---
-## - *make a / no difference  **有 / 无影响；有重要作用 / 无关紧要：**  
+- ## \*make a / no difference  **有 / 无影响；有重要作用 / 无关紧要：**  
 
  > Hannah is one of many examples of young people who are making a difference in the world.  
  > 汉纳是那些正在改变着世界的许多年轻榜样中的一个。  
@@ -4272,7 +4272,7 @@ Although the wind has died ________, the rain remains steady, so you still need 
  > 来源：2015 湖北  
 
 
-# *** *different*** adj
+# ***\*different*** adj
 英音 'dɪfrənt     美音 'dɪfrənt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4314,7 +4314,7 @@ The way he did it was different _______ what we were used to.
 ##### 答案 from  
   
 
-# *** *differentiate*** v
+# ***\*differentiate*** v
 英音 ˌdɪfə'renʃieɪt     美音 ˌdɪfə'renʃieɪt  
 
 | 词频 1 |  
@@ -4324,7 +4324,7 @@ The way he did it was different _______ what we were used to.
 1.*低义频：* **vi & vt 区别；使...不同于 (distinguish); vi 区别对待**  
 
 
-# *** *difficult*** adj
+# ***\*difficult*** adj
 英音 'dɪfɪkəlt     美音 'dɪfɪkəlt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4356,7 +4356,7 @@ The way he did it was different _______ what we were used to.
 ---
 difficultly /'dɪfɪkəlt/ adv   
 
-# *** *difficulty*** n
+# ***\*difficulty*** n
 英音 'dɪfɪkəlti     美音 'dɪfɪkəlti  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -4420,7 +4420,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 ##### 答案 walking  
   
 
-# *** *dig*** v
+# ***\*dig*** v
 英音 dɪɡ     美音 dɪɡ  
 
 | 词频 4 | 口语 2 |  
@@ -4438,7 +4438,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 固定搭配
 ---
-## - *dig (...) into  **插入；戳进；探究：**  
+- ## \*dig (...) into  **插入；戳进；探究：**  
 
  > She dug into her purse and took out some coins.  
  > 她从钱包里掏出一些硬币。  
@@ -4447,7 +4447,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
  > 我们俩都集中精力钻研要饰演的角色。  
  > 来源：2017 全国改  
 
-## - *dig out  **挖出；找出；发现：**  
+- ## \*dig out  **挖出；找出；发现：**  
 
  > The army organized teams to dig out those who were trapped and to bury the dead.  
  > 军人组成小分队，挖出被困者，掩埋遇难者。  
@@ -4456,7 +4456,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
  > The truth was dug out.  
  > 真相被发现了。  
 
-## - *dig up  **掘起；开垦 (荒地)；搜集：**  
+- ## \*dig up  **掘起；开垦 (荒地)；搜集：**  
 
  > Cutting down trees and digging up grass can cause deserts and sandstorms to increase.  
  > 砍树挖草能导致沙漠变大、沙尘暴增加。  
@@ -4466,7 +4466,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
  > 许多地区的人都在搜集古老的民间故事。  
 
 
-# *** *digest*** v
+# ***\*digest*** v
 英音 daɪ'dʒest;dɪ'dʒest     美音 daɪ'dʒest  
 
 | 词频 2 |  
@@ -4488,7 +4488,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
  > 来源：人教⑩ – 4  
 
 
-# *** *digest*** n
+# ***\*digest*** n
 英音 'daɪ'dʒest     美音 'daɪdʒest  
 
 | 词频 2 |  
@@ -4498,7 +4498,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 1.*高义频：* **[C] 摘要；文摘**  
 
 
-# *** *digital*** adj
+# ***\*digital*** adj
 英音 'dɪdʒɪtl     美音 'dɪdʒɪtl  
 
 | 词频 4 |  
@@ -4511,7 +4511,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
  > 数字时代/数码相机  
 
 
-# *** *dignity*** n
+# ***\*dignity*** n
 英音 'dɪɡnəti     美音 'dɪɡnəti  
 
 | 词频 1 |  
@@ -4532,7 +4532,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
  > 绅士、淑女应该始终保持端庄得体的举止。  
 
 
-# *** *dilemma*** n
+# ***\*dilemma*** n
 英音 dɪ'lemə;daɪ'lemə     美音 dɪ'lemə;daɪ'lemə  
 
 | 词频 1 |  
@@ -4550,7 +4550,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
  > 她陷入两难境地，不知是否接受邀请。  
 
 
-# *** *diligence*** n
+# ***\*diligence*** n
 英音 'dɪlɪdʒəns     美音 'dɪlɪdʒəns  
 
 | 词频 1 |  
@@ -4563,7 +4563,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
  > 好运来自勤奋。  
 
 
-# *** *diligent*** adj
+# ***\*diligent*** adj
 英音 'dɪlɪdʒənt     美音 'dɪlɪdʒənt  
 
 | 词频 1 |  
@@ -4576,7 +4576,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
  > 勤奋的学生  
 
 
-# *** *dim*** v
+# ***\*dim*** v
 英音 dɪm     美音 dɪm  
 
 | 词频 2 | 阅读 1 |  
@@ -4589,7 +4589,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
  > 即将放映电影时，电影院里的灯光开始逐渐变暗。  
 
 
-# *** *dim*** adj
+# ***\*dim*** adj
 英音 dɪm     美音 dɪm  
 
 | 词频 2 | 阅读 1 |  
@@ -4602,7 +4602,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
  > 光线太暗，我看不见。  
 
 
-# *** *dimension*** n
+# ***\*dimension*** n
 英音 daɪ'menʃn     美音 daɪ'menʃn  
 
 | 词频 1 | 书面 1 |  
@@ -4627,7 +4627,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
  > 她的工作为她的生活增添了新的内容。  
 
 
-# *** *dine*** vi
+# ***\*dine*** vi
 英音 daɪn     美音 daɪn  
 
 | 词频 3 |  
@@ -4641,7 +4641,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
  > 这对夫妻每星期一起出去吃顿饭。  
 
 
-# *** *dining*** n
+# ***\*dining*** n
 英音 /'daɪnɪŋ/     美音 /'daɪnɪŋ/  
 
 | 词频 3 |  
@@ -4654,7 +4654,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
  > 餐厅；食堂  
 
 
-# *** *dining-room*** n
+# ***\*dining-room*** n
 英音 'daɪnɪŋ rʊm     
 
   
@@ -4664,7 +4664,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 1.**餐厅；食堂**  
 
 
-# *** *dinner*** n
+# ***\*dinner*** n
 英音 'dɪnə(r)     美音 'dɪnər  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -4685,7 +4685,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
  > 设宴款待某人  
 
 
-# *** *dinosaur*** n
+# ***\*dinosaur*** n
 英音 'daɪnəsɔː(r)     美音 'daɪnəsɔːr  
 
 | 词频 4 |  
@@ -4695,7 +4695,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 1.*高义频：* **[C] 恐龙**  
 
 
-# *** *dioxide*** n
+# ***\*dioxide*** n
 英音 daɪ'ɒksaɪd     美音 daɪ'ɑːksaɪd  
 
 | 词频 3 |  
@@ -4708,7 +4708,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
  > 二氧化碳  
 
 
-# *** *dip*** vi
+# ***\*dip*** vi
 英音 dɪp     美音 dɪp  
 
 | 词频 1 |  
@@ -4718,7 +4718,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 1.*高义频：* **浸一浸；浸水**  
 
 
-# *** *dip*** vt
+# ***\*dip*** vt
 英音 dɪp     美音 dɪp  
 
 | 词频 1 |  
@@ -4737,7 +4737,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
  > 来源：外研⑦ – 1  
 
 
-# *** *dip*** v
+# ***\*dip*** v
 英音 dɪp     美音 dɪp  
 
 | 词频 1 |  
@@ -4747,7 +4747,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 1.**下降**  
 
 
-# *** *diploma*** n
+# ***\*diploma*** n
 英音 dɪ'pləʊmə     美音 dɪ'ploʊmə  
 
 | 词频 1 |  
@@ -4765,7 +4765,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
  > 来源：外研① – 1  
 
 
-# *** *diplomacy*** n
+# ***\*diplomacy*** n
 英音 dɪ'pləʊməsi     美音 dɪ'ploʊməsi  
 
 | 词频 1 |  
@@ -4779,7 +4779,7 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 ---
 diplomat /'dɪpləmæt/ n [C]  
 
-# *** *direct*** adj
+# ***\*direct*** adj
 英音 də'rekt;dɪ'rekt;daɪ'rekt     美音 də'rekt;dɪ'rekt;daɪ'rekt  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -4802,7 +4802,7 @@ diplomat /'dɪpləmæt/ n [C]
  > 直达伦敦的航班  
 
 
-# *** *direct*** adv
+# ***\*direct*** adv
 英音 də'rekt;dɪ'rekt;daɪ'rekt     美音 də'rekt;dɪ'rekt;daɪ'rekt  
 
 | 词频 4 |  
@@ -4816,7 +4816,7 @@ diplomat /'dɪpləmæt/ n [C]
  > 我必须直达巴黎。  
 
 
-# *** *direct*** v
+# ***\*direct*** v
 英音 də'rekt;dɪ'rekt;daɪ'rekt     美音 də'rekt;dɪ'rekt;daɪ'rekt  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -4852,7 +4852,7 @@ diplomat /'dɪpləmæt/ n [C]
  > 我想把精力更多地投入到自己的项目中去。  
 
 
-# *** *direction*** n
+# ***\*direction*** n
 英音 də'rekʃn;dɪ'rekʃn;daɪ'rekʃn     美音 də'rekʃn;dɪ'rekʃn;daɪ'rekʃn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4885,7 +4885,7 @@ diplomat /'dɪpləmæt/ n [C]
  > 来源：人教① – 2  
 
 
-# *** *directly*** conj
+# ***\*directly*** conj
 英音 də'rektli;dɪ'rektli;daɪ'rektli     美音 də'rektli;dɪ'rektli;daɪ'rektli  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -4898,7 +4898,7 @@ diplomat /'dɪpləmæt/ n [C]
  > 老师一进来大家就安静了。  
 
 
-# *** *directly*** adv
+# ***\*directly*** adv
 英音 də'rektli;dɪ'rektli;daɪ'rektli     美音 də'rektli;dɪ'rektli;daɪ'rektli  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -4912,7 +4912,7 @@ diplomat /'dɪpləmæt/ n [C]
  > 她驱车直奔医院。  
 
 
-# *** *director*** n
+# ***\*director*** n
 英音 də'rektə(r);dɪ'rektə(r);daɪ'rektə(r)     美音 də'rektər;dɪ'rektər;daɪ'rektər  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -4922,7 +4922,7 @@ diplomat /'dɪpləmæt/ n [C]
 1.*高义频：* **[C] 导演；校长；经理；指挥**  
 
 
-# *** *directory*** n
+# ***\*directory*** n
 英音 də'rektəri;dɪ'rektəri;daɪ'rektəri     美音 də'rektəri;dɪ'rektəri;daɪ'rektəri  
 
 | 词频 1 | 口语 1 |  
@@ -4932,7 +4932,7 @@ diplomat /'dɪpləmæt/ n [C]
 1.*高义频：* **[C] 名录；号码簿；目录**  
 
 
-# *** *dirt*** n
+# ***\*dirt*** n
 英音 dɜːt     美音 dɜːrt  
 
 | 词频 3 | 口语 1 |  
@@ -4949,7 +4949,7 @@ diplomat /'dɪpləmæt/ n [C]
  > 洗掉汽车上的污泥。  
 
 
-# *** *dirty*** adj
+# ***\*dirty*** adj
 英音 'dɜːti     美音 'dɜːrti  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -4966,7 +4966,7 @@ diplomat /'dɪpləmæt/ n [C]
  > 他是个没有体育道德的运动员。  
 
 
-# *** *disability*** n
+# ***\*disability*** n
 英音 ˌdɪsə'bɪləti     美音 ˌdɪsə'bɪləti  
 
 | 词频 2 |  
@@ -4986,7 +4986,7 @@ diplomat /'dɪpləmæt/ n [C]
  > 来源：2016 天津  
 
 
-# *** *disabled*** adj
+# ***\*disabled*** adj
 英音 dɪs'eɪbld     美音 dɪs'eɪbld  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -5004,7 +5004,7 @@ diplomat /'dɪpləmæt/ n [C]
  > 这里的孩子都是智障儿童，但他们的体格是健全的。  
 
 
-# *** *disadvantage*** n
+# ***\*disadvantage*** n
 英音 ˌdɪsəd'vɑːntɪdʒ     美音 ˌdɪsəd'væntɪdʒ  
 
 | 词频 4 |  
@@ -5024,13 +5024,13 @@ diplomat /'dɪpləmæt/ n [C]
 
 固定搭配
 ---
-## - *at a disadvantage  **处于不利地位：**  
+- ## \*at a disadvantage  **处于不利地位：**  
 
  > I feel rather at a disadvantage talking to her because she’s so clever.   
  > 她太伶俐，我跟她讲话总觉得吃亏。  
 
 
-# *** *disagree*** vi
+# ***\*disagree*** vi
 英音 ˌdɪsə'ɡriː     美音 ˌdɪsə'ɡriː  
 
 | 词频 3 | 口语 1 |  
@@ -5062,7 +5062,7 @@ They failed to reach a settlement, because they ________ (不同意) too much wi
 ##### 答案 disagreed  
   
 
-# *** *disagreement*** n
+# ***\*disagreement*** n
 英音 ˌdɪsə'ɡriːmənt     美音 ˌdɪsə'ɡriːmənt  
 
 | 词频 3 |  
@@ -5080,7 +5080,7 @@ They failed to reach a settlement, because they ________ (不同意) too much wi
  > 对治疗这种疾病的最佳方案医生们意见不一。  
 
 
-# *** *disappear*** vi
+# ***\*disappear*** vi
 英音 ˌdɪsə'pɪə(r)     美音 ˌdɪsə'pɪr  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -5113,7 +5113,7 @@ The symptoms of flu may be unpleasant, but they ________ (消失) within a few d
 ##### 答案 disappear  
   
 
-# *** *disappearance*** n
+# ***\*disappearance*** n
 英音 ˌdɪsə'pɪərəns     美音 ˌdɪsə'pɪərəns  
 
 | 词频 2 |  
@@ -5131,7 +5131,7 @@ The symptoms of flu may be unpleasant, but they ________ (消失) within a few d
  > 警方正在调查这名女子的失踪案。  
 
 
-# *** *disappoint*** vt
+# ***\*disappoint*** vt
 英音 ˌdɪsə'pɔɪnt     美音 ˌdɪsə'pɔɪnt  
 
 | 词频 4 | 书面 1 |  
@@ -5155,7 +5155,7 @@ disappointing /ˌdɪsə'pɔɪntɪŋ/ adj
  > 令人失望的考试成绩  
 
 
-# *** *disappointed*** adj
+# ***\*disappointed*** adj
 英音 ˌdɪsə'pɔɪntɪd     美音 ˌdɪsə'pɔɪntɪd  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -5197,7 +5197,7 @@ disappointing /ˌdɪsə'pɔɪntɪŋ/ adj
  > 来源：2009 湖北  
 
 
-# *** *disappointing*** adj
+# ***\*disappointing*** adj
 英音 ˌdɪsə'pɔɪntɪŋ     美音 ˌdɪsə'pɔɪntɪŋ  
 
 | 词频 2 |  
@@ -5207,7 +5207,7 @@ disappointing /ˌdɪsə'pɔɪntɪŋ/ adj
 1.**令人失望的**  
 
 
-# *** *disappointment*** n
+# ***\*disappointment*** n
 英音 ˌdɪsə'pɔɪntmənt     美音 ˌdɪsə'pɔɪntmənt  
 
 | 词频 3 |  
@@ -5231,7 +5231,7 @@ disappointing /ˌdɪsə'pɔɪntɪŋ/ adj
  > 表演让我们大失所望。  
 
 
-# *** *disapprove*** v
+# ***\*disapprove*** v
 英音 ˌdɪsə'pruːv     美音 ˌdɪsə'pruːv  
 
 | 词频 2 |  
@@ -5252,7 +5252,7 @@ disappointing /ˌdɪsə'pɔɪntɪŋ/ adj
  disapproval /ˌdɪsə'pruːvl/ n [U]   
 disapproving /ˌdɪsə'pruːvɪŋ/ adj   
 
-# *** *disaster*** n
+# ***\*disaster*** n
 英音 dɪ'zɑːstə(r)     美音 dɪ'zæstər  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -5275,7 +5275,7 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
  > 由于天气不好，活动彻底搞砸了。  
 
 
-# *** *disbelief*** n
+# ***\*disbelief*** n
 英音 ˌdɪsbɪ'liːf     美音 ˌdɪsbɪ'liːf  
 
 | 词频 2 |  
@@ -5285,7 +5285,7 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 1.**不信；怀疑；疑惑**  
 
 
-# *** *disc*** n
+# ***\*disc*** n
 英音 dɪsk     美音 dɪsk  
 
 | 词频 1 |  
@@ -5295,7 +5295,7 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 1.**唱片；（计算机）磁盘**  
 
 
-# *** *discharge*** vt
+# ***\*discharge*** vt
 英音 dɪs'tʃɑːdʒ     美音 dɪs'tʃɑːrdʒ  
 
 | 词频 1 |  
@@ -5308,7 +5308,7 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
  > 他们在纽约卸下了货物。  
 
 
-# *** *discharge*** n
+# ***\*discharge*** n
 英音 'dɪstʃɑːdʒ     美音 'dɪstʃɑːrdʒ  
 
 | 词频 1 |  
@@ -5318,7 +5318,7 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 1.*高义频：* **[C] & [U] 卸货；排出；释放；退役：**  
 
 
-# *** *discipline*** n
+# ***\*discipline*** n
 英音 'dɪsəplɪn     美音 'dɪsəplɪn  
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 1 |  
@@ -5348,7 +5348,7 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
  > 在家学习需要具备良好的自制力。  
 
 
-# *** *disco*** n
+# ***\*disco*** n
 英音 'dɪskəʊ     美音 'dɪskoʊ  
 
 | 词频 1 |  
@@ -5360,7 +5360,7 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 1.*高义频：* **迪斯科舞会；迪斯科舞厅**  
 
 
-# *** *disconnect*** v
+# ***\*disconnect*** v
 英音 ˌdɪskə'nekt     美音 ˌdɪskə'nekt  
 
 | 词频 2 |  
@@ -5370,7 +5370,7 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 1.**使不连接；切断**  
 
 
-# *** *discount*** n
+# ***\*discount*** n
 英音 'dɪskaʊnt     美音 'dɪskaʊnt  
 
 | 词频 2 | 口语 1 |  
@@ -5394,7 +5394,7 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
  > 来源：2012 重庆改  
 
 
-# *** *discount*** vt
+# ***\*discount*** vt
 英音 dɪs'kaʊnt     美音 dɪs'kaʊnt  
 
 | 词频 2 | 口语 1 |  
@@ -5411,7 +5411,7 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
  > 来源：人教⑩ – 5  
 
 
-# *** *discourage*** vt
+# ***\*discourage*** vt
 英音 dɪs'kʌrɪdʒ     美音 dɪs'kɜːrɪdʒ  
 
 | 词频 4 |  
@@ -5436,7 +5436,7 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 discouraged /dɪs'kʌrɪdʒd/ adj   
 discouraging /dɪs'kʌrɪdʒɪŋ/ adj   
 
-# *** *discover*** vt
+# ***\*discover*** vt
 英音 dɪ'skʌvə(r)     美音 dɪ'skʌvər  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -5472,7 +5472,7 @@ discouraging /dɪs'kʌrɪdʒɪŋ/ adj
 ---
 discoverer /dɪ'skʌvərə(r)/ n   
 
-# *** *discovery*** n
+# ***\*discovery*** n
 英音 dɪ'skʌvəri     美音 dɪ'skʌvəri  
 
 | 词频 4 | 书面 1 |  
@@ -5490,7 +5490,7 @@ discoverer /dɪ'skʌvərə(r)/ n
  > 哈勃望远镜使天文学家有了重大发现。  
 
 
-# *** *discrimination*** n
+# ***\*discrimination*** n
 英音 dɪˌskrɪmɪ'neɪʃn     美音 dɪˌskrɪmɪ'neɪʃn  
 
 | 词频 1 |  
@@ -5516,7 +5516,7 @@ discoverer /dɪ'skʌvərə(r)/ n
  > 他在择友方面颇具慧眼。  
 
 
-# *** *discuss*** vt
+# ***\*discuss*** vt
 英音 dɪ'skʌs     美音 dɪ'skʌs  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -5536,7 +5536,7 @@ discoverer /dɪ'skʌvərə(r)/ n
  > 我们讨论了怎样做这件事和由谁做这件事。  
 
 
-# *** *discussion*** n
+# ***\*discussion*** n
 英音 dɪ'skʌʃn     美音 dɪ'skʌʃn  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -5560,7 +5560,7 @@ discoverer /dɪ'skʌvərə(r)/ n
  > 他说的话与正在讨论的话题无关。  
 
 
-# *** *disease*** n
+# ***\*disease*** n
 英音 dɪ'ziːz     美音 dɪ'ziːz  
 
 | 词频 5 | 口语 1 | 书面 3 |  
@@ -5573,7 +5573,7 @@ discoverer /dɪ'skʌvərə(r)/ n
  > 病情弄清楚，病根除一半。  
 
 
-# *** *disguise*** n
+# ***\*disguise*** n
 英音 dɪs'ɡaɪz     美音 dɪs'ɡaɪz  
 
 | 词频 1 |  
@@ -5585,7 +5585,7 @@ discoverer /dɪ'skʌvərə(r)/ n
 1.*高义频：* **伪装**  
 
 
-# *** *disguise*** vt
+# ***\*disguise*** vt
 英音 dɪs'ɡaɪz     美音 dɪs'ɡaɪz  
 
 | 词频 1 |  
@@ -5595,7 +5595,7 @@ discoverer /dɪ'skʌvərə(r)/ n
 1.*高义频：* **伪装；假扮；遮掩**  
 
 
-# *** *disgust*** vt
+# ***\*disgust*** vt
 英音 dɪs'ɡʌst     美音 dɪs'ɡʌst  
 
 | 词频 1 |  
@@ -5605,7 +5605,7 @@ discoverer /dɪ'skʌvərə(r)/ n
 1.*高义频：* **(使) 反感；(使) 恶心**  
 
 
-# *** *disgust*** n
+# ***\*disgust*** n
 英音 dɪs'ɡʌst     美音 dɪs'ɡʌst  
 
 | 词频 1 |  
@@ -5617,7 +5617,7 @@ discoverer /dɪ'skʌvərə(r)/ n
 1.*高义频：* **厌恶；反感；气愤**  
 
 
-# *** *disgusted*** adj
+# ***\*disgusted*** adj
 英音 dɪs'ɡʌstɪd     美音 dɪs'ɡʌstɪd  
 
 | 词频 1 |  
@@ -5627,7 +5627,7 @@ discoverer /dɪ'skʌvərə(r)/ n
 1.*高义频：* **厌恶的；反感的；气愤的**  
 
 
-# *** *disgusting*** adj
+# ***\*disgusting*** adj
 英音 dɪs'ɡʌstɪŋ     美音 dɪs'ɡʌstɪŋ  
 
 | 词频 1 | 口语 2 |  
@@ -5640,7 +5640,7 @@ discoverer /dɪ'skʌvərə(r)/ n
  > 看到垃圾堆得到处都是，真恶心啊。  
 
 
-# *** *dish*** vt
+# ***\*dish*** vt
 英音 dɪʃ     美音 dɪʃ  
 
 | 词频 4 |  
@@ -5652,7 +5652,7 @@ discoverer /dɪ'skʌvərə(r)/ n
 
 固定搭配
 ---
-## - *dish up  **提供；娓娓道来：**  
+- ## \*dish up  **提供；娓娓道来：**  
 
  > Familyfun magazine dishes up these and more interesting activities in over 180 colorful pages.  
  > 《家庭娱乐》杂志用180多页彩页把这些内容和更多有趣的活动娓娓道来。  
@@ -5666,7 +5666,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 ##### 答案 dishes  
   
 
-# *** *dish*** n
+# ***\*dish*** n
 英音 dɪʃ     美音 dɪʃ  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -5694,7 +5694,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
  > 我们的菜单上至少有3种意大利菜。  
 
 
-# *** *dishwasher*** n
+# ***\*dishwasher*** n
 英音 'dɪʃwɒʃə(r)     美音 'dɪʃwɔːʃər  
 
 | 词频 3 |  
@@ -5704,7 +5704,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 1.**洗碗碟机**  
 
 
-# *** *disk*** n
+# ***\*disk*** n
 英音 dɪsk     美音 dɪsk  
 
 | 词频 1 | 口语 2 | 书面 1 |  
@@ -5717,7 +5717,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
  > 硬盘  
 
 
-# *** *dislike*** vt
+# ***\*dislike*** vt
 英音 dɪs'laɪk     美音 dɪs'laɪk  
 
 | 词频 4 |  
@@ -5737,7 +5737,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
  > 来源：外研① – 2  
 
 
-# *** *dislike*** n
+# ***\*dislike*** n
 英音 dɪs'laɪk     美音 dɪs'laɪk  
 
 | 词频 4 |  
@@ -5761,7 +5761,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
  > 称职的经理应该知道老主顾的好恶。  
 
 
-# *** *dismiss*** vt
+# ***\*dismiss*** vt
 英音 dɪs'mɪs     美音 dɪs'mɪs  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -5796,7 +5796,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
  > 他只是笑，认为我的建议不切实际，拒绝考虑。  
 
 
-# *** *disobey*** v
+# ***\*disobey*** v
 英音 ˌdɪsə'beɪ     美音 ˌdɪsə'beɪ  
 
 | 词频 1 |  
@@ -5806,7 +5806,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 1.*高义频：* **不服从；违抗**  
 
 
-# *** *disorder*** n
+# ***\*disorder*** n
 英音 dɪs'ɔːdə(r)     美音 dɪs'ɔːrdər  
 
 | 词频 3 |  
@@ -5836,7 +5836,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
  > 来源：2012 上海  
 
 
-# *** *disorganised*** adj
+# ***\*disorganised*** adj
 英音 dɪs'ɔːɡənaɪzd     美音 dɪs'ɔːrɡənaɪzd  
 
 | 词频 1 |  
@@ -5846,7 +5846,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 1.**杂乱无章的**  
 
 
-# *** *display*** n
+# ***\*display*** n
 英音 dɪ'spleɪ     美音 dɪ'spleɪ  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -5872,14 +5872,14 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 固定搭配
 ---
-## - *on display  **展出 (on show)：**  
+- ## \*on display  **展出 (on show)：**  
 
  > Jane paused in front of a counter where some attractive ties were on display.  
  > 简在一个柜台前停了下来，柜台上面展示着一些好看的领带。  
  > 来源：2009 广东  
 
 
-# *** *display*** vt
+# ***\*display*** vt
 英音 dɪ'spleɪ     美音 dɪ'spleɪ  
 
 | 词频 4 | 书面 2 | 阅读 3 |  
@@ -5896,7 +5896,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
  > 必须在饭店外面公示价格。  
 
 
-# *** *disposal*** n
+# ***\*disposal*** n
 英音 dɪ'spəʊzl     美音 dɪ'spoʊzl  
 
 | 词频 1 |  
@@ -5908,7 +5908,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 1.*高义频：* **清除；处理**  
 
 
-# *** *dispose*** vt
+# ***\*dispose*** vt
 英音 dɪ'spəʊz     美音 dɪ'spoʊz  
 
 | 词频 2 |  
@@ -5918,7 +5918,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 1.*高义频：* **布置；安排**  
 
 
-# *** *dispute*** vt
+# ***\*dispute*** vt
 英音 dɪ'spjuːt     美音 dɪ'spjuːt  
 
 | 词频 1 |  
@@ -5928,7 +5928,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 1.*高义频：* **对...表示异议 / 反对**  
 
 
-# *** *dispute*** n
+# ***\*dispute*** n
 英音 dɪ'spjuːt     美音 dɪ'spjuːt  
 
 | 词频 1 | 书面 2 |  
@@ -5944,7 +5944,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
  > 介入争论/卷入纠纷  
 
 
-# *** *disqualify*** v
+# ***\*disqualify*** v
 英音 dɪs'kwɒlɪfaɪ     美音 dɪs'kwɑːlɪfaɪ  
 
   
@@ -5954,7 +5954,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
 1.**（因犯规而）取消……的资格**  
 
 
-# *** *dissolve*** v
+# ***\*dissolve*** v
 英音 dɪ'zɒlv     美音 dɪ'zɑːlv  
 
 | 词频 1 | 阅读 1 |  
@@ -5971,7 +5971,7 @@ Making Chinese______ (dish) is seen as especially troublesome.
  > 来源：2009 江苏改  
 
 
-# *** *distance*** n
+# ***\*distance*** n
 英音 'dɪstəns     美音 'dɪstəns  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -6007,18 +6007,18 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 固定搭配
 ---
-## - *at / from a distance  **有相当距离：**  
+- ## \*at / from a distance  **有相当距离：**  
 
  > The picture looks beautiful at a distance.  
  > 那幅画远看显得很美。  
 
-## - *in / into the distance   **在远处：**  
+- ## \*in / into the distance   **在远处：**  
 
  > Farther in the distance, I could enjoy the view of snowy mountains.  
  > 往远处看，我可以欣赏白雪皑皑的群山。  
  > 来源：2015 浙江  
 
-## - *keep one’s distance  **保持距离　**  
+- ## \*keep one’s distance  **保持距离　**  
 
 
 真题解析
@@ -6029,7 +6029,7 @@ The faces of four famous American presidents on Mount Rushmore can be seen _____
 ##### 答案 at / from  
   
 
-# *** *distance*** v
+# ***\*distance*** v
 英音 [ˈdɪstəns]     美音 ['dɪstəns]  
 
 | 词频 1 |  
@@ -6039,7 +6039,7 @@ The faces of four famous American presidents on Mount Rushmore can be seen _____
 1.**使与……保持距离，撇清和……的关系**  
 
 
-# *** *distant*** adj
+# ***\*distant*** adj
 英音 'dɪstənt     美音 'dɪstənt  
 
 | 词频 3 | 书面 1 |  
@@ -6074,7 +6074,7 @@ The faces of four famous American presidents on Mount Rushmore can be seen _____
  > 他是我的远房表兄弟/远亲。  
 
 
-# *** *distinct*** adj
+# ***\*distinct*** adj
 英音 dɪ'stɪŋkt     美音 dɪ'stɪŋkt  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -6100,7 +6100,7 @@ The faces of four famous American presidents on Mount Rushmore can be seen _____
  > 清晰的笔迹  
 
 
-# *** *distinction*** n
+# ***\*distinction*** n
 英音 dɪ'stɪŋkʃn     美音 dɪ'stɪŋkʃn  
 
 | 词频 2 | 书面 2 | 阅读 1 |  
@@ -6120,7 +6120,7 @@ The faces of four famous American presidents on Mount Rushmore can be seen _____
  > 中国诗歌的主要特征  
 
 
-# *** *distinctive*** adj
+# ***\*distinctive*** adj
 英音 dɪ'stɪŋktɪv     美音 dɪ'stɪŋktɪv  
 
 | 词频 2 |  
@@ -6130,7 +6130,7 @@ The faces of four famous American presidents on Mount Rushmore can be seen _____
 1.**与众不同的**  
 
 
-# *** *distinguish*** v
+# ***\*distinguish*** v
 英音 dɪ'stɪŋɡwɪʃ     美音 dɪ'stɪŋɡwɪʃ  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -6165,7 +6165,7 @@ The faces of four famous American presidents on Mount Rushmore can be seen _____
 ---
 distinguished /dɪ'stɪŋɡwɪʃt/ adj   
 
-# *** *distraction*** n
+# ***\*distraction*** n
 英音 dɪ'strækʃn     美音 dɪ'strækʃn  
 
 | 词频 1 |  
@@ -6175,7 +6175,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 1.**分心；分散注意力**  
 
 
-# *** *distribute*** vt
+# ***\*distribute*** vt
 英音 dɪ'strɪbjuːt     美音 dɪ'strɪbjuːt  
 
 | 词频 2 | 书面 1 | 阅读 2 |  
@@ -6189,7 +6189,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
  > 已经向地震灾民发放了衣服和毯子。  
 
 
-# *** *distribution*** n
+# ***\*distribution*** n
 英音 ˌdɪstrɪ'bjuːʃn     美音 ˌdɪstrɪ'bjuːʃn  
 
 | 词频 2 | 书面 2 |  
@@ -6201,7 +6201,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 1.*高义频：* **[U] 分配；配送；[C] & [U] 分布**  
 
 
-# *** *district*** n
+# ***\*district*** n
 英音 'dɪstrɪkt     美音 'dɪstrɪkt  
 
 | 词频 3 | 口语 1 | 书面 2 |  
@@ -6216,7 +6216,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
  > 沿海地区的公园很美。  
 
 
-# *** *disturb*** vt
+# ***\*disturb*** vt
 英音 dɪ'stɜːb     美音 dɪ'stɜːrb  
 
 | 词频 4 | 书面 1 |  
@@ -6230,7 +6230,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
  > 抱歉打扰您，我能跟您聊一会儿吗？  
 
 
-# *** *disturbing*** adj
+# ***\*disturbing*** adj
 英音 dɪ'stɜːbɪŋ     美音 dɪ'stɜrːbɪŋ  
 
 | 词频 2 |  
@@ -6243,7 +6243,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
  > 令人不安的消息  
 
 
-# *** *dive*** vi
+# ***\*dive*** vi
 英音 daɪv     美音 daɪv  
 
 | 词频 4 |  
@@ -6273,7 +6273,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
  > 来源：2016 天津  
 
 
-# *** *dive*** n
+# ***\*dive*** n
 英音 daɪv     美音 daɪv  
 
 | 词频 4 |  
@@ -6287,7 +6287,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
  > 她做了一个漂亮的跳水动作。  
 
 
-# *** *diver*** n
+# ***\*diver*** n
 英音 'daɪvə(r)     美音 'daɪvər  
 
 | 词频 2 |  
@@ -6299,7 +6299,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 1.*高义频：* **潜水员**  
 
 
-# *** *diverse*** adj
+# ***\*diverse*** adj
 英音 daɪ'vɜːs     美音 daɪ'vɜːrs  
 
 | 词频 2 | 阅读 1 |  
@@ -6312,7 +6312,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
  > 生活在城市里会让你接触到来自各种文化背景的人。  
 
 
-# *** *diversity*** n
+# ***\*diversity*** n
 英音 daɪ'vɜːrsəti     美音 daɪ'vɜːrsəti  
 
 | 词频 1 |  
@@ -6324,7 +6324,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 1.*高义频：* **多种多样；多样性**  
 
 
-# *** *divert*** v
+# ***\*divert*** v
 英音 daɪ'vɜːt     美音 daɪ'vɜːrt  
 
 | 词频 1 |  
@@ -6334,7 +6334,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 1.**使改道**  
 
 
-# *** *divide*** v
+# ***\*divide*** v
 英音 dɪ'vaɪd     美音 dɪ'vaɪd  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -6383,7 +6383,7 @@ There is much work to do, so we’ll have to ________ (分) it between us.
 ##### 答案 divide  
   
 
-# *** *division*** n
+# ***\*division*** n
 英音 dɪ'vɪʒn     美音 dɪ'vɪʒn  
 
 | 词频 2 | 口语 1 | 书面 3 | 阅读 1 |  
@@ -6411,7 +6411,7 @@ There is much work to do, so we’ll have to ________ (分) it between us.
  > 他们之间的意见分歧导致了他们的失败。  
 
 
-# *** *divorce*** v
+# ***\*divorce*** v
 英音 dɪ'vɔːs     美音 dɪ'vɔːrs  
 
 | 词频 2 |  
@@ -6428,7 +6428,7 @@ There is much work to do, so we’ll have to ________ (分) it between us.
  > 来源：北师大① – 2  
 
 
-# *** *divorce*** n
+# ***\*divorce*** n
 英音 dɪ'vɔːs     美音 dɪ'vɔːrs  
 
 | 词频 2 | 书面 1 |  
@@ -6442,7 +6442,7 @@ There is much work to do, so we’ll have to ________ (分) it between us.
 ---
 divorced /dɪ'vɔːst/ adj   
 
-# *** *dizzy*** adj
+# ***\*dizzy*** adj
 英音 'dɪzi     美音 'dɪzi  
 
 | 词频 1 |  
@@ -6455,7 +6455,7 @@ divorced /dɪ'vɔːst/ adj
  > 飞机升到令人头晕目眩的高度。  
 
 
-# *** *do*** n
+# ***\*do*** n
 英音 də:;du:     美音 də:;du  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6477,7 +6477,7 @@ done /dʌn/ adj ［不用于名词前］
  > 你看完这本书了吗？  
 
 
-# *** *do*** aux v
+# ***\*do*** aux v
 英音 də:;du:     美音 də:;du  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6528,7 +6528,7 @@ D.do they
 ##### 答案 B  
   
 
-# *** *do*** v
+# ***\*do*** v
 英音 də:;du:     美音 də:;du  
 
 | 词频 5 |  
@@ -6594,7 +6594,7 @@ D.do they
 
 固定搭配
 ---
-## - *be / have to do with  *高义频：* **关于；与……有关：**  
+- ## \*be / have to do with  *高义频：* **关于；与……有关：**  
 
  > I'm sorry about the accident, but it is / has nothing to do with me.  
  > 对这次事故我感到很抱歉，但此事与我毫无关系。  
@@ -6603,12 +6603,12 @@ D.do they
  > 我们如何理解事物与我们的感觉有很大关系。  
  > 来源：2015 北京  
 
-## - *do away with  *高义频：* **废除：**  
+- ## \*do away with  *高义频：* **废除：**  
 
  > They did away with the law.  
  > 他们废除了那项法律。  
 
-## - *do up  *高义频：* **包起来；捆；修缮；打扮：**  
+- ## \*do up  *高义频：* **包起来；捆；修缮；打扮：**  
 
  > Do up a parcel.  
  > 捆包裹。  
@@ -6620,7 +6620,7 @@ D.do they
  > She did herself up for the dinner.  
  > 她打扮起来参加宴会。  
 
-## - *do with  *高义频：* **处置；（使）度过时间：**  
+- ## \*do with  *高义频：* **处置；（使）度过时间：**  
 
  > **what to do with**  
  > David’s biggest headache is what to do with his money.  
@@ -6631,7 +6631,7 @@ D.do they
  > She didn’t know what to do with herself after she retired.  
  > 退休后她不知道该怎么打发时间。  
 
-## - *do without  *高义频：* **没有…也行；将就：**  
+- ## \*do without  *高义频：* **没有…也行；将就：**  
 
  > I don’t have any sugar so you’ll have to do without.  
  > 我没有糖了，所以你只好将就一下。  
@@ -6654,7 +6654,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 ##### 答案 without  
   
 
-# *** *dock*** n
+# ***\*dock*** n
 英音 dɒk     美音 dɑːk  
 
 | 词频 1 |  
@@ -6664,7 +6664,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 1.**码头**  
 
 
-# *** *dock*** vi
+# ***\*dock*** vi
 英音 dɒk     美音 dɑːk  
 
 | 词频 1 |  
@@ -6674,7 +6674,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 1.**驶入码头**  
 
 
-# *** *doctor*** n
+# ***\*doctor*** n
 英音 'dɒktə(r)     美音 'dɑːktər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6691,7 +6691,7 @@ During the war there was a serious lack of food. It was not unusual that even th
  > 法学/医学博士  
 
 
-# *** *document*** n
+# ***\*document*** n
 英音 'dɒkjumənt     美音 'dɑːkjumənt  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -6701,7 +6701,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 1.*高义频：* **文件；公文；文档**  
 
 
-# *** *document*** vt
+# ***\*document*** vt
 英音 'dɒkjumənt     美音 'dɑːkjumənt  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -6711,7 +6711,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 1.**记录；记载（详情）**  
 
 
-# *** *documentary*** n
+# ***\*documentary*** n
 英音 ˌdɒkju'mentri     美音 ˌdɑːkju'mentri  
 
   
@@ -6721,7 +6721,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 1.**纪录片**  
 
 
-# *** *dog*** n
+# ***\*dog*** n
 英音 dɒɡ     美音 dɔːɡ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6740,7 +6740,7 @@ During the war there was a serious lack of food. It was not unusual that even th
  > 同类不相残。  
 
 
-# *** *doll*** n
+# ***\*doll*** n
 英音 dɒl     美音 dɑːl  
 
 | 词频 3 |  
@@ -6750,7 +6750,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 1.*高义频：* **[C] 玩偶；玩具娃娃**  
 
 
-# *** *dollar*** n
+# ***\*dollar*** n
 英音 'dɒlə(r)     美音 'dɑːlər  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -6760,7 +6760,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 1.*高义频：* **[C] (美国、加拿大等国的货币单位) 元**  
 
 
-# *** *dolphin*** n
+# ***\*dolphin*** n
 英音 'dɒlfɪn     美音 'dɑːlfɪn  
 
 | 词频 3 |  
@@ -6770,7 +6770,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 1.**海豚**  
 
 
-# *** *domain*** n
+# ***\*domain*** n
 英音 də'meɪn     美音 doʊ'meɪn  
 
 | 词频 1 | 阅读 1 |  
@@ -6783,7 +6783,7 @@ During the war there was a serious lack of food. It was not unusual that even th
  > ［计算机］域名  
 
 
-# *** *domestic*** adj
+# ***\*domestic*** adj
 英音 də'mestɪk     美音 də'mestɪk  
 
 | 词频 3 | 书面 2 | 阅读 2 |  
@@ -6805,7 +6805,7 @@ During the war there was a serious lack of food. It was not unusual that even th
  > 国内外新闻  
 
 
-# *** *dominate*** v
+# ***\*dominate*** v
 英音 'dɒmɪneɪt     美音 'dɑːmɪneɪt  
 
 | 词频 1 |  
@@ -6823,7 +6823,7 @@ During the war there was a serious lack of food. It was not unusual that even th
  > 雅典的卫城高耸于雅典全城之上。  
 
 
-# *** *donate*** v
+# ***\*donate*** v
 英音 dəʊ'neɪt     美音 'doʊneɪt  
 
 | 词频 2 |  
@@ -6845,7 +6845,7 @@ During the war there was a serious lack of food. It was not unusual that even th
  > 来源：2013 江苏改  
 
 
-# *** *donate…to…*** 
+# ***\*donate…to…*** 
 
 
   
@@ -6858,7 +6858,7 @@ During the war there was a serious lack of food. It was not unusual that even th
  > 这位退休老人把大部分积蓄都捐给了那所在地震中受到破坏的学校。  
 
 
-# *** *donation*** n
+# ***\*donation*** n
 英音 dəʊ'neɪʃn     美音 doʊ'neɪʃn  
 
 | 词频 2 |  
@@ -6871,7 +6871,7 @@ During the war there was a serious lack of food. It was not unusual that even th
  > 慷慨的/大量的/少量的捐助  
 
 
-# *** *donkey*** n
+# ***\*donkey*** n
 英音 'dɒŋki     美音 'dɔːŋki  
 
 | 词频 1 |  
@@ -6884,7 +6884,7 @@ During the war there was a serious lack of food. It was not unusual that even th
  > 非常固执  
 
 
-# *** *door*** n
+# ***\*door*** n
 英音 dɔː(r)     美音 dɔːr  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6899,13 +6899,13 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 固定搭配
 ---
-## - *(from) door to door  **挨家挨户地：**  
+- ## \*(from) door to door  **挨家挨户地：**  
 
  > On the ﬁrst day of the Spring Festival, most families go out to say greetings from door to door.  
  > 春节第一天，大多数家庭挨家挨户去拜年。  
 
 
-# *** *doormat*** n
+# ***\*doormat*** n
 英音 'dɔːmæt     美音 'dɔːrmæt  
 
 | 词频 1 |  
@@ -6915,7 +6915,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 1.**门前擦鞋垫**  
 
 
-# *** *doorway*** n
+# ***\*doorway*** n
 英音 'dɔːweɪ     美音 'dɔːrweɪ  
 
 | 词频 2 |  
@@ -6932,7 +6932,7 @@ During the war there was a serious lack of food. It was not unusual that even th
  > 来源：人教⑦ – 4  
 
 
-# *** *doping*** n
+# ***\*doping*** n
 英音 'dəʊpɪŋ     美音 'doʊpɪŋ  
 
 | 词频 1 |  
@@ -6942,7 +6942,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 1.**服兴奋剂**  
 
 
-# *** *dormitory*** n
+# ***\*dormitory*** n
 英音 'dɔːmətri     美音 'dɔːrmətɔːri  
 
 | 词频 2 |  
@@ -6952,7 +6952,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 1.*高义频：* **[C] 寝室；宿舍 (dorm)**  
 
 
-# *** *dot*** vt
+# ***\*dot*** vt
 英音 dɒt     美音 dɑːt  
 
 | 词频 1 | 口语 2 |  
@@ -6966,7 +6966,7 @@ During the war there was a serious lack of food. It was not unusual that even th
  > 繁星满天。  
 
 
-# *** *dot*** n
+# ***\*dot*** n
 英音 dɒt     美音 dɑːt  
 
 | 词频 1 | 口语 2 |  
@@ -6981,10 +6981,10 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 固定搭配
 ---
-## - *on the dot  **[非正式用语] 准时地**  
+- ## \*on the dot  **[非正式用语] 准时地**  
 
 
-# *** *double*** v
+# ***\*double*** v
 英音 'dʌb(ə)l     美音 'dʌbl  
 
 | 词频 4 | 书面 1 |  
@@ -7001,7 +7001,7 @@ During the war there was a serious lack of food. It was not unusual that even th
  > 来源：2008 全国  
 
 
-# *** *double*** adj
+# ***\*double*** adj
 英音 'dʌb(ə)l     美音 'dʌbl  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -7031,7 +7031,7 @@ During the war there was a serious lack of food. It was not unusual that even th
  > 我叫格林，有两个e字母，我的电话号码是2422。  
 
 
-# *** *double*** n
+# ***\*double*** n
 英音 'dʌb(ə)l     美音 'dʌbl  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -7058,7 +7058,7 @@ During the war there was a serious lack of food. It was not unusual that even th
  > 你要的是单人间还是双人间？  
 
 
-# *** *double*** adv
+# ***\*double*** adv
 英音 'dʌb(ə)l     美音 'dʌbl  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -7073,7 +7073,7 @@ During the war there was a serious lack of food. It was not unusual that even th
  > 来源：2013 北京  
 
 
-# *** *double-decker*** n
+# ***\*double-decker*** n
 英音 'dʌbl 'dekə     美音 'dʌbl 'dekə  
 
 | 词频 1 |  
@@ -7083,7 +7083,7 @@ During the war there was a serious lack of food. It was not unusual that even th
 1.**双层公共汽车**  
 
 
-# *** *doubt*** n  重难点词汇
+# ***\*doubt*** n  重难点词汇
 英音 daʊt     美音 daʊt  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -7129,12 +7129,12 @@ Notes: 在这个结构中，从属连词that引导同位语从 句，说明名�
 
 固定搭配
 ---
-## - *in doubt  **不确定；拿不准：**  
+- ## \*in doubt  **不确定；拿不准：**  
 
  > The future of the peace talks is in doubt.  
  > 和谈前途未卜。  
 
-## - *no doubt  **无疑；很可能：**  
+- ## \*no doubt  **无疑；很可能：**  
 
  > No doubt you will have your own ideas.  
  > 你很可能会有自己的观点。  
@@ -7142,14 +7142,14 @@ Notes: 在这个结构中，从属连词that引导同位语从 句，说明名�
  > Charging entrance fees will no doubt keep some people away.  
  > 收门票无疑会把一些人拒之门外。  
 
-## - *without / beyond doubt  **毫无疑问；的确：**  
+- ## \*without / beyond doubt  **毫无疑问；的确：**  
 
  > Without doubt, the number of jobs in information technology will multiply.   
  > 毫无疑问，信息技术方面的工作会大大增加。  
  > 来源：北师大⑤ – 14  
 
 
-# *** *doubt*** vt  重难点词汇
+# ***\*doubt*** vt  重难点词汇
 英音 daʊt     美音 daʊt  
 
 | 词频 4 | 口语 2 |  
@@ -7182,7 +7182,7 @@ Notes: doubt后接宾语从句时，如果主句为疑问句或否定 句，连�
 ---
 doubtful /'daʊtfl/ adj   
 
-# *** *doubtful*** adj
+# ***\*doubtful*** adj
 英音 'daʊtfl     美音 'daʊtfl  
 
 | 词频 4 |  
@@ -7192,7 +7192,7 @@ doubtful /'daʊtfl/ adj
 1.**怀疑的, 不肯定的**  
 
 
-# *** *dove*** n
+# ***\*dove*** n
 英音 dʌv     美音 dʌv  
 
 | 词频 1 |  
@@ -7202,7 +7202,7 @@ doubtful /'daʊtfl/ adj
 1.**鸽子**  
 
 
-# *** *down*** adj
+# ***\*down*** adj
 英音 daʊn     美音 daʊn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -7215,7 +7215,7 @@ doubtful /'daʊtfl/ adj
  > 因为考试分数不高，蒂姆最近情绪很低落。  
 
 
-# *** *down*** prep
+# ***\*down*** prep
 英音 daʊn     美音 daʊn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -7232,7 +7232,7 @@ doubtful /'daʊtfl/ adj
 
 Notes: 从首都去边远地区、从城市去农村、从北方去南方、从上游到下游、从内地去沿海等通常用down， 反之常用up。  
 
-# *** *down*** adv
+# ***\*down*** adv
 英音 daʊn     美音 daʊn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -7271,7 +7271,7 @@ Notes: 从首都去边远地区、从城市去农村、从北方去南方、从�
  > 请将答案写在纸上。  
 
 
-# *** *downhill*** adj
+# ***\*downhill*** adj
 英音 ˌdaʊn'hɪl     美音 ˌdaʊn'hɪl  
 
 | 词频 1 |  
@@ -7281,7 +7281,7 @@ Notes: 从首都去边远地区、从城市去农村、从北方去南方、从�
 1.**向山下的，下坡的**  
 
 
-# *** *downhill*** adv
+# ***\*downhill*** adv
 英音 ˌdaʊn'hɪl     美音 ˌdaʊn'hɪl  
 
 | 词频 1 |  
@@ -7291,7 +7291,7 @@ Notes: 从首都去边远地区、从城市去农村、从北方去南方、从�
 1.**向山下，下坡**  
 
 
-# *** *download*** v
+# ***\*download*** v
 英音 ˌdaʊn'ləʊd     美音 'daʊnloʊd  
 
 | 词频 2 |  
@@ -7313,7 +7313,7 @@ I’m happy that my 80-year-old grandma has learned how to ________ (下载) fro
 ##### 答案 download  
   
 
-# *** *download*** n
+# ***\*download*** n
 英音 ˌdaʊn'ləʊd     美音 'daʊnloʊd  
 
 | 词频 2 |  
@@ -7323,7 +7323,7 @@ I’m happy that my 80-year-old grandma has learned how to ________ (下载) fro
 1.**下载；已下载的数据资料**  
 
 
-# *** *downstairs*** adv
+# ***\*downstairs*** adv
 英音 ˌdaʊn'steəz     美音 ˌdaʊn'sterz  
 
 | 词频 3 | 口语 2 |  
@@ -7344,7 +7344,7 @@ Rose rushed ________ (向楼下) to answer the door.
 ##### 答案 downstairs  
   
 
-# *** *downstairs*** adj
+# ***\*downstairs*** adj
 英音 ˌdaʊn'steəz     美音 ˌdaʊn'sterz  
 
 | 词频 3 | 口语 2 |  
@@ -7357,7 +7357,7 @@ Rose rushed ________ (向楼下) to answer the door.
  > 楼下的房间  
 
 
-# *** *downstream*** adv
+# ***\*downstream*** adv
 英音 ˌdaʊn'striːm     美音 ˌdaʊn'striːm  
 
 | 词频 1 |  
@@ -7367,7 +7367,7 @@ Rose rushed ________ (向楼下) to answer the door.
 1.**向下游；随波而下**  
 
 
-# *** *downtown*** n
+# ***\*downtown*** n
 英音 daʊn'taʊn     美音 daʊn'taʊn  
 
 | 词频 3 |  
@@ -7380,7 +7380,7 @@ Rose rushed ________ (向楼下) to answer the door.
  > 你喜欢住在市中心吗？  
 
 
-# *** *downtown*** adj
+# ***\*downtown*** adj
 英音 daʊn'taʊn     美音 daʊn'taʊn  
 
 | 词频 3 |  
@@ -7394,7 +7394,7 @@ Rose rushed ________ (向楼下) to answer the door.
  > 来源：2012 陕西改  
 
 
-# *** *downtown*** adv
+# ***\*downtown*** adv
 英音 daʊn'taʊn     美音 daʊn'taʊn  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -7408,7 +7408,7 @@ Rose rushed ________ (向楼下) to answer the door.
  > 我们今天下午到商业区去购物吧。  
 
 
-# *** *downward*** adj
+# ***\*downward*** adj
 英音 'daʊnwəd     美音 'daʊnwərd  
 
 | 词频 2 |  
@@ -7421,7 +7421,7 @@ Rose rushed ________ (向楼下) to answer the door.
  > 他正在走下坡路。  
 
 
-# *** *downward*** adv
+# ***\*downward*** adv
 英音 'daʊnwəd     美音 'daʊnwərd  
 
 | 词频 2 |  
@@ -7438,7 +7438,7 @@ Rose rushed ________ (向楼下) to answer the door.
  > 人往高处走，水往低处流。  
 
 
-# *** *dozen*** n
+# ***\*dozen*** n
 英音 'dʌzn     美音 'dʌzn  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -7458,7 +7458,7 @@ Rose rushed ________ (向楼下) to answer the door.
 
 固定搭配
 ---
-## - *dozens of  **很多：**  
+- ## \*dozens of  **很多：**  
 
  > The hurricane blew away dozens of farming villages and brought down thousands of trees.  
  > 飓风刮走了很多村庄，刮倒了数千棵树。  
@@ -7471,7 +7471,7 @@ She went to the bookstore and bought dozens ________ books.
 ##### 答案 of  
   
 
-# *** *draft*** vt
+# ***\*draft*** vt
 英音 drɑːft     美音 dræft  
 
 | 词频 2 |  
@@ -7484,7 +7484,7 @@ She went to the bookstore and bought dozens ________ books.
  > 起草法案  
 
 
-# *** *draft*** n
+# ***\*draft*** n
 英音 drɑːft     美音 dræft  
 
 | 词频 2 | 口语 2 | 书面 1 |  
@@ -7509,7 +7509,7 @@ She went to the bookstore and bought dozens ________ books.
  > 来源：2009 湖北  
 
 
-# *** *drag*** v
+# ***\*drag*** v
 英音 dræɡ     美音 dræɡ  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -7551,13 +7551,13 @@ She went to the bookstore and bought dozens ________ books.
 
 固定搭配
 ---
-## - *drag one’s feet  **做事拖拉；迟迟不做：**  
+- ## \*drag one’s feet  **做事拖拉；迟迟不做：**  
 
  > It is not a good idea to drag your feet when the work needs to be done.  
  > 拖延需要完成的工作不好。  
 
 
-# *** *dragon*** n
+# ***\*dragon*** n
 英音 'dræɡən     美音 'dræɡən  
 
 | 词频 1 |  
@@ -7569,7 +7569,7 @@ She went to the bookstore and bought dozens ________ books.
 1.*高义频：* **龙**  
 
 
-# *** *drama*** n
+# ***\*drama*** n
 英音 'drɑːmə     美音 'drɑːmə  
 
 | 词频 3 | 书面 1 |  
@@ -7592,7 +7592,7 @@ She went to the bookstore and bought dozens ________ books.
  > 戏剧学校  
 
 
-# *** *dramatic*** adj
+# ***\*dramatic*** adj
 英音 drə'mætɪk     美音 drə'mætɪk  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -7621,7 +7621,7 @@ She went to the bookstore and bought dozens ________ books.
 ---
 dramatically /drə'mætɪkli/ adv   
 
-# *** *dramatically*** adv
+# ***\*dramatically*** adv
 英音 drə'mætɪkli     美音 drə'mætɪkli  
 
 | 词频 2 |  
@@ -7631,7 +7631,7 @@ dramatically /drə'mætɪkli/ adv
 1.**戏剧性地**  
 
 
-# *** *draw*** v  重难点词汇
+# ***\*draw*** v  重难点词汇
 英音 drɔː     美音 drɔː  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -7683,12 +7683,12 @@ Notes: draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘
 
 固定搭配
 ---
-## - *draw in  **(火车等) 进站：**  
+- ## \*draw in  **(火车等) 进站：**  
 
  > The train drew in at 7:53.   
  > 火车7点53分进站。  
 
-## - *draw near / closer  **接近；靠近：**  
+- ## \*draw near / closer  **接近；靠近：**  
 
  > Christmas is drawing near.  
  > 圣诞节就要来了。  
@@ -7697,10 +7697,10 @@ Notes: draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘
  > 随着春节的临近，人们将举办丰富多彩的庆祝活动。  
  > 来源：2009 山东书面表达  
 
-## - *draw out   *高义频：* **拖延；拉长：**  
+- ## \*draw out   *高义频：* **拖延；拉长：**  
 
 
-# *** *draw*** n  重难点词汇
+# ***\*draw*** n  重难点词汇
 英音 drɔː     美音 drɔː  
 
 | 词频 5 | 口语 1 |  
@@ -7714,7 +7714,7 @@ Notes: draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘
  > 比赛结果是平局。  
 
 
-# *** *drawback*** n
+# ***\*drawback*** n
 英音 'drɔːbæk     美音 'drɔːbæk  
 
 | 词频 1 |  
@@ -7732,7 +7732,7 @@ Notes: draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘
  > 来源：2010 北京  
 
 
-# *** *drawer*** n
+# ***\*drawer*** n
 英音 drɔː(r)     美音 drɔːr  
 
 | 词频 2 | 口语 1 |  
@@ -7742,7 +7742,7 @@ Notes: draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘
 1.*高义频：* **[C] 抽屉**  
 
 
-# *** *drawing*** n
+# ***\*drawing*** n
 英音 'drɔːɪŋ     美音 'drɔːɪŋ  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -7763,7 +7763,7 @@ Notes: draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘
  > 这幅画出自名家之手。  
 
 
-# *** *dread*** v
+# ***\*dread*** v
 英音 dred     美音 dred  
 
 | 词频 1 |  
@@ -7773,7 +7773,7 @@ Notes: draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘
 1.*高义频：* **害怕；畏惧**  
 
 
-# *** *dreadful*** adj
+# ***\*dreadful*** adj
 英音 'dredfl     美音 'dredfl  
 
 | 词频 1 |  
@@ -7787,7 +7787,7 @@ Notes: draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘
 ---
  dreadfully /'dredfəli/ adv   
 
-# *** *dream*** v
+# ***\*dream*** v
 英音 driːm     美音 driːm  
 
 | 词频 5 | 口语 1 | 书面 1 |  
@@ -7825,7 +7825,7 @@ Notes: draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘
 ---
 dreamer /'driːmə(r)/ n   
 
-# *** *dream*** n
+# ***\*dream*** n
 英音 driːm     美音 driːm  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -7870,7 +7870,7 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 ##### 答案 dream  
   
 
-# *** *dreamland*** n
+# ***\*dreamland*** n
 英音 'driːmlænd     
 
   
@@ -7880,7 +7880,7 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 1.**梦境；梦乡；理想中的境界**  
 
 
-# *** *dress*** v  重难点词汇
+# ***\*dress*** v  重难点词汇
 英音 dres     美音 dres  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -7904,9 +7904,9 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 
 固定搭配
 ---
-## - *dress down  *高义频：* **（比平时）穿着随便**  
+- ## \*dress down  *高义频：* **（比平时）穿着随便**  
 
-## - *dress up   **(给…) 穿上盛装；(给…) 乔装打扮：**  
+- ## \*dress up   **(给…) 穿上盛装；(给…) 乔装打扮：**  
 
  > dress up for the wedding   
  > 穿上盛装参加婚礼  
@@ -7916,7 +7916,7 @@ Owning a house of their own is a _______ (梦想) for the young couple.
  > 来源：人教③ – 1  
 
 
-# *** *dress*** n  重难点词汇
+# ***\*dress*** n  重难点词汇
 英音 dres     美音 dres  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -7940,7 +7940,7 @@ Owning a house of their own is a _______ (梦想) for the young couple.
  > 他穿着白色的制服，看起来不像个医生，倒更像个厨师。  
 
 
-# *** *drift*** v
+# ***\*drift*** v
 英音 drɪft     美音 drɪft  
 
 | 词频 2 |  
@@ -7950,7 +7950,7 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 1.**漂流；漂泊**  
 
 
-# *** *driftnet*** n
+# ***\*driftnet*** n
 英音 d'rɪftnet     美音 d'rɪftnet  
 
 | 词频 1 |  
@@ -7962,7 +7962,7 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 1.*高义频：* **流网**  
 
 
-# *** *drill*** v
+# ***\*drill*** v
 英音 drɪl     美音 drɪl  
 
 | 词频 2 |  
@@ -7981,7 +7981,7 @@ Owning a house of their own is a _______ (梦想) for the young couple.
  > 训练学生的语法  
 
 
-# *** *drill*** n
+# ***\*drill*** n
 英音 drɪl     美音 drɪl  
 
 | 词频 2 |  
@@ -8002,7 +8002,7 @@ Owning a house of their own is a _______ (梦想) for the young couple.
  > 消防演习  
 
 
-# *** *drink*** v
+# ***\*drink*** v
 英音 drɪŋk     美音 drɪŋk  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -8031,15 +8031,15 @@ Notes: “喝水”要说drink water；用汤匙“喝汤”要 说eat soup，�
 
 固定搭配
 ---
-## - *drink sb’s health  **为某人的健康干杯**  
+- ## \*drink sb’s health  **为某人的健康干杯**  
 
-## - *drink to sb / sth  **为某人 / 某事干杯：**  
+- ## \*drink to sb / sth  **为某人 / 某事干杯：**  
 
  > Let's drink to your success in your new job.  
  > 让我们为你在新工作中取得成功而干杯。  
 
 
-# *** *drink*** n
+# ***\*drink*** n
 英音 drɪŋk     美音 drɪŋk  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -8059,7 +8059,7 @@ Notes: “喝水”要说drink water；用汤匙“喝汤”要 说eat soup，�
 ---
 drinker /'drɪŋkə(r)/ n   
 
-# *** *drive*** v
+# ***\*drive*** v
 英音 draɪv     美音 draɪv  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -8101,14 +8101,14 @@ drinker /'drɪŋkə(r)/ n
 
 固定搭配
 ---
-## - *drive away   **驱车离开；赶跑**  
+- ## \*drive away   **驱车离开；赶跑**  
 
  > After two and a half years, the mother drove the young panda away.  
  > 两年半后，熊猫妈妈把小熊猫赶跑了。  
  > 来源：2016 四川  
 
 
-# *** *drive*** n
+# ***\*drive*** n
 英音 draɪv     美音 draɪv  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -8130,7 +8130,7 @@ drinker /'drɪŋkə(r)/ n
 ---
  driving /'draɪvɪŋ/ n [U]   
 
-# *** *driver*** n
+# ***\*driver*** n
 英音 'draɪvə(r)     美音 'draɪvər  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -8140,7 +8140,7 @@ drinker /'drɪŋkə(r)/ n
 1.*高义频：* **[C] 驾驶员；司机**  
 
 
-# *** *droop*** vi
+# ***\*droop*** vi
 英音 druːp     美音 druːp  
 
 | 词频 1 |  
@@ -8150,7 +8150,7 @@ drinker /'drɪŋkə(r)/ n
 1.*高义频：* **低垂；凋萎；萎靡**  
 
 
-# *** *drop*** v  重难点词汇
+# ***\*drop*** v  重难点词汇
 英音 drɒp     美音 drɑːp  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -8186,13 +8186,13 @@ drinker /'drɪŋkə(r)/ n
 
 固定搭配
 ---
-## - *drop by  **顺便访问：**  
+- ## \*drop by  **顺便访问：**  
 
  > **2009 天津**  
  > Why don’t you drop by my house sometime?  
  > 你为什么不找个时间顺便到我家坐坐呢？  
 
-## - *drop in  **顺便走访：**  
+- ## \*drop in  **顺便走访：**  
 
  > Please drop in any time you like.   
  > 欢迎随时来。  
@@ -8201,7 +8201,7 @@ drinker /'drɪŋkə(r)/ n
  > 你明晚顺便来和我们谈谈好吗？  
 
 Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop in at some place”。  
-## - *drop off [非正式用语]  1.*低义频：* **睡着；打盹 (fall asleep)：**  
+- ## \*drop off [非正式用语]  1.*低义频：* **睡着；打盹 (fall asleep)：**  
 
  > I dropped off and missed the end of the film.   
  > 我打了个盹,错过了电影的结尾。  
@@ -8221,7 +8221,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 我把公共汽车停在路边，好让那个小女孩下车。  
  > 来源：2012 全国改  
 
-## - *drop out (of)   **不参与；退学：**  
+- ## \*drop out (of)   **不参与；退学：**  
 
  > Her injuries forced her to drop out of the competition.  
  > 伤病迫使她退出了比赛。  
@@ -8238,7 +8238,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 ##### 答案 drop out of  
   
 
-# *** *drop*** n  重难点词汇
+# ***\*drop*** n  重难点词汇
 英音 drɒp     美音 drɑːp  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -8275,7 +8275,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 4.*低义频：* **[常用单数] 倾斜或垂直的距离**  
 
 
-# *** *drought*** n
+# ***\*drought*** n
 英音 draʊt     美音 draʊt  
 
 | 词频 3 |  
@@ -8287,7 +8287,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 1.*高义频：* **旱灾；干旱**  
 
 
-# *** *drown*** v
+# ***\*drown*** v
 英音 draʊn     美音 draʊn  
 
 | 词频 2 |  
@@ -8315,7 +8315,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
  > 来源：人教③ – 1  
 
 
-# *** *drug*** n
+# ***\*drug*** n
 英音 drʌɡ     美音 drʌɡ  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -8329,7 +8329,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
  > 来源：译林④ – 1  
 
 
-# *** *drugstore*** n
+# ***\*drugstore*** n
 英音 'drʌɡstɔː(r)     美音 'drʌɡstɔːr  
 
 | 词频 4 |  
@@ -8341,7 +8341,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 1.*高义频：* **药店 (chemist’s)**  
 
 
-# *** *drum*** n
+# ***\*drum*** n
 英音 drʌm     美音 drʌm  
 
 | 词频 2 |  
@@ -8351,7 +8351,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 1.*高义频：* **[C] 鼓**  
 
 
-# *** *drummer*** n
+# ***\*drummer*** n
 英音 'drʌmə(r)     美音 'drʌmər  
 
 | 词频 1 |  
@@ -8361,7 +8361,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 1.**鼓手**  
 
 
-# *** *drunk*** adj
+# ***\*drunk*** adj
 英音 drʌŋk     美音 drʌŋk  
 
 | 词频 3 | 口语 1 |  
@@ -8379,7 +8379,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
  > 陶醉于欢乐/胜利中  
 
 
-# *** *drunk*** n
+# ***\*drunk*** n
 英音 drʌŋk     美音 drʌŋk  
 
 | 词频 3 |  
@@ -8389,7 +8389,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 1.**醉汉，酒鬼**  
 
 
-# *** *dry*** v
+# ***\*dry*** v
 英音 draɪ     美音 draɪ  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -8411,17 +8411,17 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 
 固定搭配
 ---
-## - *dry off   **(使) 变干；(把…) 弄干**  
+- ## \*dry off   **(使) 变干；(把…) 弄干**  
 
-## - *dry out  **(使) 完全变干；干透**  
+- ## \*dry out  **(使) 完全变干；干透**  
 
-## - *dry up  **(河流、湖泊等) 干涸：**  
+- ## \*dry up  **(河流、湖泊等) 干涸：**  
 
  > Over the centuries, the water dried up.  
  > 经过几个世纪，水完全干了。  
 
 
-# *** *dry*** adj
+# ***\*dry*** adj
 英音 draɪ     美音 draɪ  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -8437,7 +8437,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
  > 这是数年来最干旱的夏天。  
 
 
-# *** *duchess*** n
+# ***\*duchess*** n
 英音 'dʌtʃəs     美音 'dʌtʃəs  
 
 | 词频 1 |  
@@ -8449,7 +8449,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 1.*高义频：* **公爵夫人；女公爵**  
 
 
-# *** *duck*** n
+# ***\*duck*** n
 英音 dʌk     美音 dʌk  
 
 | 词频 2 | 口语 1 |  
@@ -8459,7 +8459,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 1.*高义频：* **[C] 鸭；[U] 鸭肉**  
 
 
-# *** *duck*** 
+# ***\*duck*** 
 英音 dʌk     美音 dʌk  
 
 | 词频 2 | 口语 1 |  
@@ -8469,7 +8469,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 1.**低下 (头)；弯下 (身)**  
 
 
-# *** *due*** adj  重难点词汇
+# ***\*due*** adj  重难点词汇
 英音 djuː     美音 duː  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -8519,7 +8519,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 
 固定搭配
 ---
-## - *due to  **由于；因为：**  
+- ## \*due to  **由于；因为：**  
 
  > The town was cut off from the rest of the world due to heavy snow.  
  > 由于暴雪，这个小镇与外界隔绝了。  
@@ -8530,7 +8530,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
  > 来源：2010 福建书面表达改  
 
 
-# *** *dull*** adj
+# ***\*dull*** adj
 英音 dʌl     美音 dʌl  
 
 | 词频 5 | 口语 1 |  
@@ -8557,7 +8557,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
  > 只工作不玩耍，聪明孩子也变傻。  
 
 
-# *** *dumb*** adj
+# ***\*dumb*** adj
 英音 dʌm     美音 dʌm  
 
 | 词频 1 | 口语 1 |  
@@ -8570,7 +8570,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
  > 聋哑儿童  
 
 
-# *** *dump*** n
+# ***\*dump*** n
 英音 dʌmp     美音 dʌmp  
 
 | 词频 1 |  
@@ -8583,7 +8583,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
  > 这个小镇真是又脏又乱。  
 
 
-# *** *dump*** vt
+# ***\*dump*** vt
 英音 dʌmp     美音 dʌmp  
 
 | 词频 1 |  
@@ -8597,7 +8597,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
  > 有些人径直往河里倒垃圾。  
 
 
-# *** *dumpling*** n
+# ***\*dumpling*** n
 英音 'dʌmplɪŋ     美音 'dʌmplɪŋ  
 
 | 词频 1 |  
@@ -8607,7 +8607,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 1.*高义频：* **[C] 饺子**  
 
 
-# *** *dune*** n
+# ***\*dune*** n
 英音 djuːn     美音 duːn  
 
 | 词频 2 |  
@@ -8617,7 +8617,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 1.**沙丘**  
 
 
-# *** *duration*** n
+# ***\*duration*** n
 英音 dju'reɪʃn     美音 du'reɪʃn  
 
 | 词频 1 |  
@@ -8627,7 +8627,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 1.*高义频：* **[U] 持续；期间**  
 
 
-# *** *during*** prep
+# ***\*during*** prep
 英音 'djʊərɪŋ     美音 'dʊrɪŋ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -8644,7 +8644,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
  > 来源：2008 上海  
 
 
-# *** *dusk*** n
+# ***\*dusk*** n
 英音 dʌsk     美音 dʌsk  
 
 | 词频 1 |  
@@ -8661,7 +8661,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
  > 人们在暮色苍茫中看不远。  
 
 
-# *** *dust*** n
+# ***\*dust*** n
 英音 dʌst     美音 dʌst  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -8676,14 +8676,14 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 
 固定搭配
 ---
-## - *(as) dry as dust  **枯燥无味的；渴死人的：**  
+- ## \*(as) dry as dust  **枯燥无味的；渴死人的：**  
 
  > “You’re a very silly person,” the figure in the doorway said, his voice dry as dust.  
  > “你真是个蠢人！”门口那人说，声音干巴巴的。  
  > 来源：2006 江西  
 
 
-# *** *dust*** vt
+# ***\*dust*** vt
 英音 dʌst     美音 dʌst  
 
 | 词频 3 |  
@@ -8696,7 +8696,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
  > 掸掉帽子上的灰/打扫房间  
 
 
-# *** *dustbin*** n
+# ***\*dustbin*** n
 英音 'dʌstbɪn     美音 'dʌstbɪn  
 
 | 词频 1 |  
@@ -8706,7 +8706,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 1.*高义频：* **[C] 垃圾箱**  
 
 
-# *** *dusty*** adj
+# ***\*dusty*** adj
 英音 'dʌsti     美音 'dʌsti  
 
 | 词频 1 |  
@@ -8720,7 +8720,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
  > 来源：人教⑩ – 2  
 
 
-# *** *duty*** n
+# ***\*duty*** n
 英音 'djuːti     美音 'duːti  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -8767,19 +8767,19 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 
 固定搭配
 ---
-## - *do one’s duty  **尽自己的责任：**  
+- ## \*do one’s duty  **尽自己的责任：**  
 
  > The parents had done their duty.  
  > 那对父母尽了自己的责任。  
  > 来源：2017 全国  
 
-## - *on / off duty  **值 / 下班；值 / 不值勤：**  
+- ## \*on / off duty  **值 / 下班；值 / 不值勤：**  
 
  > He goes on duty at 8 am and comes off duty at 5 pm.  
  > 他上午8点上班，下午5点下班。  
 
 
-# *** *dwarf*** n
+# ***\*dwarf*** n
 英音 dwɔːf     美音 dwɔːrf  
 
 | 词频 1 |  
@@ -8789,7 +8789,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 1.**侏儒，小矮人**  
 
 
-# *** *dye*** v
+# ***\*dye*** v
 英音 daɪ     美音 daɪ  
 
 | 词频 1 |  
@@ -8805,7 +8805,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
  > 她把头发染成了褐色。  
 
 
-# *** *dye*** n
+# ***\*dye*** n
 英音 daɪ     美音 daɪ  
 
 | 词频 1 |  
@@ -8815,7 +8815,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 1.*高义频：* **[C] & [U] 染料；染液：**  
 
 
-# *** *dying*** adj
+# ***\*dying*** adj
 英音 'daɪɪŋ     美音 'daɪɪŋ  
 
 | 词频 3 |  
@@ -8833,7 +8833,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
  > 活到老，学到老。  
 
 
-# *** *dynamic*** adj
+# ***\*dynamic*** adj
 英音 daɪ'næmɪk     美音 daɪ'næmɪk  
 
 | 词频 1 |  
@@ -8850,7 +8850,7 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
  > 来源：北师大⑤ – 14  
 
 
-# *** *dynasty*** n
+# ***\*dynasty*** n
 英音 'dɪnəsti     美音 'daɪnəsti  
 
 | 词频 1 |  

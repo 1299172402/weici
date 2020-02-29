@@ -1,6 +1,6 @@
 # Oo
 
-# *** *o'clock*** adv
+# ***\*o'clock*** adv
 英音 ə'klɒk     美音 ə'klɑːk  
 
 | 词频 1 |  
@@ -10,7 +10,7 @@
 1.*高义频：* **[of the clock的缩写，只用于正点] …点钟**  
 
 
-# *** *o'clock*** adv
+# ***\*o'clock*** adv
 英音 ə'klɒk     美音 ə'klɑːk  
 
 | 词频 1 |  
@@ -22,7 +22,7 @@
 1.*高义频：* **... 点钟**  
 
 
-# *** *oar*** n
+# ***\*oar*** n
 英音 ɔː(r)     美音 ɔːr  
 
 | 词频 1 |  
@@ -34,7 +34,7 @@
 1.*高义频：* **桨；橹**  
 
 
-# *** *obesity*** n
+# ***\*obesity*** n
 英音 əʊ'biːsəti     美音 əʊ'biːsəti  
 
 | 词频 3 |  
@@ -46,7 +46,7 @@
 1.*高义频：* **过度肥胖**  
 
 
-# *** *obey*** v
+# ***\*obey*** v
 英音 ə'beɪ     美音 ə'beɪ  
 
 | 词频 3 |  
@@ -64,7 +64,7 @@
  > 他拒绝服从 (她)。  
 
 
-# *** *object*** n
+# ***\*object*** n
 英音 'ɒbdʒɪkt     美音 'ɑːbdʒekt  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -93,7 +93,7 @@
 4.*低义频：* **[语法] 宾语**  
 
 
-# *** *object*** v
+# ***\*object*** v
 英音 əb'dʒekt     美音 əb'dʒekt  
 
 | 词频 4 | 口语 2 |  
@@ -123,7 +123,7 @@
  > 他们表示反对，说日程安排得太紧。  
 
 
-# *** *objection*** n
+# ***\*objection*** n
 英音 əb'dʒekʃn     美音 əb'dʒekʃn  
 
 | 词频 1 | 口语 1 | 阅读 1 |  
@@ -140,7 +140,7 @@
  > 来源：人教⑧ – 2  
 
 
-# *** *objective*** n
+# ***\*objective*** n
 英音 əb'dʒektɪv     美音 əb'dʒektɪv  
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 1 |  
@@ -160,7 +160,7 @@
  > 来源：2019 全国  
 
 
-# *** *objective*** adj
+# ***\*objective*** adj
 英音 əb'dʒektɪv     美音 əb'dʒektɪv  
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 1 |  
@@ -175,7 +175,7 @@
  > 客观的评价/分析  
 
 
-# *** *obligation*** n
+# ***\*obligation*** n
 英音 ˌɒblɪ'ɡeɪʃn     美音 ˌɑːblɪ'ɡeɪʃn  
 
 | 词频 1 | 书面 1 |  
@@ -187,7 +187,7 @@
 1.*高义频：* **义务；职责**  
 
 
-# *** *obscure*** adj
+# ***\*obscure*** adj
 英音 əb'skjʊə(r)     美音 əb'skjʊər  
 
 | 词频 1 |  
@@ -197,7 +197,7 @@
 1.**难理解的；晦涩的**  
 
 
-# *** *observation*** n
+# ***\*observation*** n
 英音 ˌɒbzə'veɪʃn     美音 ˌɑːbzər'veɪʃn  
 
 | 词频 3 | 书面 1 |  
@@ -207,7 +207,7 @@
 1.*高义频：* **观察；观测**  
 
 
-# *** *observatory*** n
+# ***\*observatory*** n
 英音 əb'zɜːvətri     美音 əb'zɜːrvətɔːri  
 
 | 词频 1 |  
@@ -219,7 +219,7 @@
 1.*高义频：* **观象台；天文台；气象台**  
 
 
-# *** *observe*** v  重难点词汇
+# ***\*observe*** v  重难点词汇
 英音 əb'zɜːv     美音 əb'zɜːrv  
 
 | 词频 4 | 书面 2 |  
@@ -296,7 +296,7 @@ Though having lived abroad for years, many Chinese still ________ (奉行) the t
 ##### 答案 observe  
   
 
-# *** *obsess*** v
+# ***\*obsess*** v
 英音 əb'ses     美音 əb'ses  
 
 | 词频 1 |  
@@ -306,7 +306,7 @@ Though having lived abroad for years, many Chinese still ________ (奉行) the t
 1.**使着迷**  
 
 
-# *** *obsess*** vt
+# ***\*obsess*** vt
 英音 əb'ses     美音 əb'ses  
 
 | 词频 1 |  
@@ -316,7 +316,7 @@ Though having lived abroad for years, many Chinese still ________ (奉行) the t
 1.**使着迷**  
 
 
-# *** *obtain*** vt
+# ***\*obtain*** vt
 英音 əb'teɪn     美音 əb'teɪn  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -338,7 +338,7 @@ Though having lived abroad for years, many Chinese still ________ (奉行) the t
  > 来源：2013 江西改  
 
 
-# *** *obvious*** adj
+# ***\*obvious*** adj
 英音 'ɒbviəs     美音 'ɑːbviəs  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -356,7 +356,7 @@ Though having lived abroad for years, many Chinese still ________ (奉行) the t
  > 来源：2009 天津  
 
 
-# *** *obviously*** adv
+# ***\*obviously*** adv
 英音 'ɒbviəsli     美音 'ɑːbviəsli  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -378,7 +378,7 @@ Most people on this island are recreational fishers, and ________ (obvious), fis
 ##### 答案 obviously  
   
 
-# *** *occasion*** n
+# ***\*occasion*** n
 英音 ə'keɪʒn     美音 ə'keɪʒn  
 
 | 词频 3 | 口语 3 | 书面 2 | 阅读 3 |  
@@ -424,13 +424,13 @@ Most people on this island are recreational fishers, and ________ (obvious), fis
 
 固定搭配
 ---
-## - *on occasion(s)  **有时；偶尔：**  
+- ## \*on occasion(s)  **有时；偶尔：**  
 
  > It is said that on occasion Byron swam by moonlight in the lake.  
  > 据说，有时拜伦借着月光在湖里游泳。  
  > 来源：2012 湖南改  
 
-## - *on the occasion of  **在…之际：**  
+- ## \*on the occasion of  **在…之际：**  
 
  > **on the,occasion of**  
  > I traveled back to my hometown on the sad occasion of Dad’s death.  
@@ -446,7 +446,7 @@ I saw Bob play the piano at John’s party and ________ that occasion he was sim
 ##### 答案 on  
   
 
-# *** *occasional*** adj
+# ***\*occasional*** adj
 英音 ə'keɪʒənl     美音 ə'keɪʒənl  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -459,7 +459,7 @@ I saw Bob play the piano at John’s party and ________ that occasion he was sim
  > 他只是个临时工。  
 
 
-# *** *occasionally*** adv
+# ***\*occasionally*** adv
 英音 ə'keɪʒnəli     美音 ə'keɪʒnəli  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -480,7 +480,7 @@ I’ve been writing this report ________ (occasional) for the last two weeks, bu
 ##### 答案 occasionally  
   
 
-# *** *occupation*** n
+# ***\*occupation*** n
 英音 ˌɒkju'peɪʃn     美音 ˌɑːkju'peɪʃn  
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 3 |  
@@ -503,7 +503,7 @@ I’ve been writing this report ________ (occasional) for the last two weeks, bu
  > 来源：人教⑤ – 4  
 
 
-# *** *occupied*** adj
+# ***\*occupied*** adj
 英音 'ɒkjupaɪd     美音 'ɑːkjupaɪd  
 
 | 词频 2 |  
@@ -535,7 +535,7 @@ I’ve been writing this report ________ (occasional) for the last two weeks, bu
  > 照顾三个小孩把他忙得不可开交。  
 
 
-# *** *occupy*** vt
+# ***\*occupy*** vt
 英音 'ɒkjupaɪ     美音 'ɑːkjupaɪ  
 
 | 词频 2 | 书面 2 | 阅读 2 |  
@@ -562,7 +562,7 @@ I’ve been writing this report ________ (occasional) for the last two weeks, bu
  > 工作使他忙了一整天。  
 
 
-# *** *occur*** vi  重难点词汇
+# ***\*occur*** vi  重难点词汇
 英音 ə'kɜː(r)     美音 ə'kɜːr  
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -590,7 +590,7 @@ I’ve been writing this report ________ (occasional) for the last two weeks, bu
 
 固定搭配
 ---
-## - *occur to sb   **浮现于脑中；被想起：**  
+- ## \*occur to sb   **浮现于脑中；被想起：**  
 
 - it occurs to sb to do sth:
 
@@ -627,7 +627,7 @@ It suddenly occurred to him ________ he had left his keys in the office.
 ##### 答案 that  
   
 
-# *** *ocean*** n
+# ***\*ocean*** n
 英音 'əʊʃn     美音 'oʊʃn  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -639,7 +639,7 @@ It suddenly occurred to him ________ he had left his keys in the office.
 1.*高义频：* **海洋**  
 
 
-# *** *odd*** adj
+# ***\*odd*** adj
 英音 ɒd     美音 ɑːd  
 
 | 词频 2 | 口语 3 | 书面 1 |  
@@ -663,7 +663,7 @@ It suddenly occurred to him ________ he had left his keys in the office.
  > 不配对的短袜 / 手套 / 鞋  
 
 
-# *** *of*** prep
+# ***\*of*** prep
 英音 əv,ɒv     美音 əv,ʌv  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -743,7 +743,7 @@ ________ all the animals I’ve ever had, these two dogs are the most sensitive 
 ##### 答案 Of  
   
 
-# *** *off*** adv
+# ***\*off*** adv
 英音 ɒf     美音 ɔːf  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -796,7 +796,7 @@ She drove so fast at the turn that the car almost went _________ the road.
 ##### 答案 off  
   
 
-# *** *off*** prep
+# ***\*off*** prep
 英音 ɒf     美音 ɔːf  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -835,7 +835,7 @@ The Well Hotel stands in a quiet place ________ the main road at the far end of 
 ##### 答案 off  
   
 
-# *** *offence*** n
+# ***\*offence*** n
 英音 ə'fens     美音 ə'fens  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 1 |  
@@ -855,7 +855,7 @@ The Well Hotel stands in a quiet place ________ the main road at the far end of 
  > 不要为他的话感到不快，他没有冒犯你的意思。  
 
 
-# *** *offend*** v
+# ***\*offend*** v
 英音 ə'fend     美音 ə'fend  
 
 | 词频 1 |  
@@ -880,7 +880,7 @@ D.bother
 ##### 答案 B  
   
 
-# *** *offense*** n
+# ***\*offense*** n
 英音 ə'fens     美音 ə'fens  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 1 |  
@@ -900,7 +900,7 @@ D.bother
  > 不要为他的话感到不快，他没有冒犯你的意思。  
 
 
-# *** *offensive*** adj
+# ***\*offensive*** adj
 英音 ə'fensɪv     美音 ə'fensɪv  
 
 | 词频 1 | 阅读 1 |  
@@ -913,7 +913,7 @@ D.bother
  > 无礼的话  
 
 
-# *** *offer*** vt  重难点词汇
+# ***\*offer*** vt  重难点词汇
 英音 'ɒfə(r)     美音 'ɔːfər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -974,7 +974,7 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 ##### 答案 offering  
   
 
-# *** *offer*** n  重难点词汇
+# ***\*offer*** n  重难点词汇
 英音 'ɒfə(r)     美音 'ɔːfər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1011,7 +1011,7 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 
 固定搭配
 ---
-## - *on offer  **削价 / 特价出售的：**  
+- ## \*on offer  **削价 / 特价出售的：**  
 
  > This computer was on special offer.  
  > 这款电脑正特价出售。  
@@ -1031,7 +1031,7 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 ##### 答案 offer  
   
 
-# *** *offer*** vi  重难点词汇
+# ***\*offer*** vi  重难点词汇
 英音 'ɒfə(r)     美音 'ɔːfər  
 
 | 词频 5 |  
@@ -1041,7 +1041,7 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 1.**(主动) 提出 (愿意做某事)**  
 
 
-# *** *offering*** n
+# ***\*offering*** n
 英音 'ɒfərɪŋ     美音 'ɔːfərɪŋ  
 
 | 词频 1 |  
@@ -1051,7 +1051,7 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 1.**供品, 祭品**  
 
 
-# *** *office*** n
+# ***\*office*** n
 英音 'ɒfɪs     美音 'ɔːfɪs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1078,10 +1078,10 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 
 固定搭配
 ---
-## - *office hours   **办公时间；营业时间**  
+- ## \*office hours   **办公时间；营业时间**  
 
 
-# *** *officer*** n
+# ***\*officer*** n
 英音 'ɒfɪsə(r)     美音 'ɔːfɪsər  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -1097,7 +1097,7 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
  > 海关官员/警官  
 
 
-# *** *official*** adj
+# ***\*official*** adj
 英音 ə'fɪʃl     美音 ə'fɪʃl  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -1123,7 +1123,7 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
  > 来源：人教① – 2  
 
 
-# *** *official*** n
+# ***\*official*** n
 英音 ə'fɪʃl     美音 ə'fɪʃl  
 
 | 词频 4 | 口语 1 | 书面 3 |  
@@ -1141,7 +1141,7 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
  > 银行高级职员  
 
 
-# *** *official-looking*** adj
+# ***\*official-looking*** adj
 英音 əˌfɪʃl'lʊkɪŋ     美音 əˌfɪʃl'lʊkɪŋ  
 
 | 词频 1 |  
@@ -1151,7 +1151,7 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 1.**貌似官方的**  
 
 
-# *** *officially*** adv
+# ***\*officially*** adv
 英音 ə'fɪʃəli     美音 ə'fɪʃəli  
 
 | 词频 2 | 阅读 2 |  
@@ -1173,7 +1173,7 @@ The title will be ________ (official) given to me at a ceremony in London.
 ##### 答案 officially  
   
 
-# *** *offshore*** adj
+# ***\*offshore*** adj
 英音 ˌɒf'ʃɔː(r)     美音 ˌɒf'ʃɔːr  
 
 | 词频 1 |  
@@ -1186,7 +1186,7 @@ The title will be ________ (official) given to me at a ceremony in London.
  > 近海岛屿  
 
 
-# *** *offshore*** adv
+# ***\*offshore*** adv
 英音 ˌɒf'ʃɔː(r)     美音 ˌɒf'ʃɔːr  
 
 | 词频 1 |  
@@ -1199,7 +1199,7 @@ The title will be ________ (official) given to me at a ceremony in London.
  > 风暴向近海移动。  
 
 
-# *** *often*** adv
+# ***\*often*** adv
 英音 'ɒfn,'ɒftən     美音 'ɔːfn,'ɔftən  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1221,7 +1221,7 @@ The title will be ________ (official) given to me at a ceremony in London.
 
 固定搭配
 ---
-## - *more often than not / as often as not   **通常；往往**  
+- ## \*more often than not / as often as not   **通常；往往**  
 
 
 真题解析
@@ -1233,7 +1233,7 @@ The title will be ________ (official) given to me at a ceremony in London.
 ##### 答案 often  
   
 
-# *** *oh*** int
+# ***\*oh*** int
 英音 əʊ     美音 oʊ  
 
 | 词频 5 |  
@@ -1243,7 +1243,7 @@ The title will be ________ (official) given to me at a ceremony in London.
 1.*高义频：* **[表示惊讶、快乐、悲哀、痛苦、责难、招呼等] 哦；噢；啊；呀；哎**  
 
 
-# *** *oil*** n
+# ***\*oil*** n
 英音 ɔɪl     美音 ɔɪl  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -1255,7 +1255,7 @@ The title will be ________ (official) given to me at a ceremony in London.
 1.*高义频：* **油；石油**  
 
 
-# *** *oilfield*** n
+# ***\*oilfield*** n
 英音 'ɔɪlfiːld     美音 'ɔɪlfiːld  
 
 | 词频 1 |  
@@ -1267,7 +1267,7 @@ The title will be ________ (official) given to me at a ceremony in London.
 1.*高义频：* **油田**  
 
 
-# *** *ointment*** n
+# ***\*ointment*** n
 英音 'ɔɪntmənt     美音 'ɔɪntmənt  
 
 | 词频 1 |  
@@ -1279,7 +1279,7 @@ The title will be ________ (official) given to me at a ceremony in London.
 1.*高义频：* **药膏；油膏**  
 
 
-# *** *old*** adj
+# ***\*old*** adj
 英音 əʊld     美音 oʊld  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1315,7 +1315,7 @@ The title will be ________ (official) given to me at a ceremony in London.
  > 往昔的美好时光  
 
 
-# *** *old-fashioned*** adj
+# ***\*old-fashioned*** adj
 英音 'əuld'fæʃənd     美音 'əuld'fæʃənd  
 
 | 词频 1 |  
@@ -1325,7 +1325,7 @@ The title will be ________ (official) given to me at a ceremony in London.
 1.*高义频：* **老式的；过时的；(人) 守旧的**  
 
 
-# *** *olive*** n
+# ***\*olive*** n
 英音 'ɒlɪv     美音 'ɑːlɪv  
 
 | 词频 1 |  
@@ -1337,7 +1337,7 @@ The title will be ________ (official) given to me at a ceremony in London.
 1.*高义频：* **橄榄树；橄榄叶；橄榄枝；橄榄色**  
 
 
-# *** *omit*** vt
+# ***\*omit*** vt
 英音 ə'mɪt     美音 ə'mɪt  
 
 | 词频 1 |  
@@ -1349,7 +1349,7 @@ The title will be ________ (official) given to me at a ceremony in London.
 1.*高义频：* **删除；忽略：**  
 
 
-# *** *on*** prep
+# ***\*on*** prep
 英音 ɒn     美音 ɑːn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1439,7 +1439,7 @@ He invited me to a dance after the show ________ Christmas Eve.
 ##### 答案 on  
   
 
-# *** *on*** adv
+# ***\*on*** adv
 英音 ɒn     美音 ɑːn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1478,7 +1478,7 @@ He invited me to a dance after the show ________ Christmas Eve.
  > 电影院在上演什么片子？  
 
 
-# *** *once*** adv  重难点词汇
+# ***\*once*** adv  重难点词汇
 英音 wʌns     美音 wʌns  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1502,24 +1502,24 @@ He invited me to a dance after the show ________ Christmas Eve.
 
 固定搭配
 ---
-## - *all at once  **突然：**  
+- ## \*all at once  **突然：**  
 
  > All at once the answer came to him.  
  > 他突然想到了答案。  
 
-## - *at once  **立刻；马上：**  
+- ## \*at once  **立刻；马上：**  
 
  > I have to go home at once.  
  > 我必须马上回家。  
  > 来源：人教③ – 2  
 
-## - *(every) once in a while  **偶尔；间或：**  
+- ## \*(every) once in a while  **偶尔；间或：**  
 
  > He was busy writing a story, only stopping once in a while to smoke a cigarette.  
  > 他忙着写故事，只是偶尔停下来抽根烟。  
  > 来源：2008 辽宁  
 
-## - *(just) for once / just this once  **(与通常情况对比而言) 仅此一次：**  
+- ## \*(just) for once / just this once  **(与通常情况对比而言) 仅此一次：**  
 
  > Just for once let me make my own decision.  
  > 这一次就让我自己做决定吧。  
@@ -1527,23 +1527,23 @@ He invited me to a dance after the show ________ Christmas Eve.
  > Go on, lend me the bicycle, just this once.  
  > 好啦，把自行车借给我，就这一次。  
 
-## - *never / not once  **从未：**  
+- ## \*never / not once  **从未：**  
 
  > The old couple have been married for 40 years and never once have they quarreled with each other.  
  > 那对老夫妇已经结婚40年了，彼此从未吵过架。  
 
 Notes: never / not once位于句首时，句子用部分倒装语序。  
-## - *once again / once more  **再一次：**  
+- ## \*once again / once more  **再一次：**  
 
  > Tell me just once again.  
  > 你就再告诉我一次吧。  
 
-## - *once and for all  **彻底地；一劳永逸地：**  
+- ## \*once and for all  **彻底地；一劳永逸地：**  
 
  > Let’s settle this matter once and for all.  
  > 我们把这个问题彻底解决了吧。  
 
-## - *once or twice  **一两次；几次：**  
+- ## \*once or twice  **一两次；几次：**  
 
  > I have been there once or twice.  
  > 我去过那儿一两次。  
@@ -1557,7 +1557,7 @@ Mary and I see each other ________ (偶尔), but not as often as we used to.
 ##### 答案 once in a while  
   
 
-# *** *once*** conj  重难点词汇
+# ***\*once*** conj  重难点词汇
 英音 wʌns     美音 wʌns  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1578,7 +1578,7 @@ ________ (一旦) the damage is done, it will take many years for the farmland t
 ##### 答案 Once  
   
 
-# *** *one*** adj
+# ***\*one*** adj
 英音 wʌn     美音 wʌn  
 
 | 词频 5 |  
@@ -1606,7 +1606,7 @@ ________ (一旦) the damage is done, it will take many years for the farmland t
  > 某个晴朗的午后  
 
 
-# *** *one*** pron
+# ***\*one*** pron
 英音 wʌn     美音 wʌn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1653,17 +1653,17 @@ Notes:  one 代替前面出现过的可数名词，表示同种类中的一个�
 
 固定搭配
 ---
-## - *one after another / the other  **一个接一个地； 接连地：**  
+- ## \*one after another / the other  **一个接一个地； 接连地：**  
 
  > One after another, people stood up and shared their own stories.  
  > 人们一个接一个地站了起来，分享自己的故事。  
 
-## - *one another  **[两者或多者之间] 相互；彼此：**  
+- ## \*one another  **[两者或多者之间] 相互；彼此：**  
 
  > They gave presents to one another at the graduation ceremony.  
  > 毕业典礼上他们互赠礼物。  
 
-## - *one by one  **逐个地；依次地：**  
+- ## \*one by one  **逐个地；依次地：**  
 
  > As the bell rang, the students went out one by one.  
  > 铃声响了，学生们鱼贯而出。  
@@ -1691,7 +1691,7 @@ Charles was alone at home, with no ________ looking after him.
 ##### 答案 one  
   
 
-# *** *oneself*** pron
+# ***\*oneself*** pron
 英音 wʌn'self     美音 wʌn'self  
 
 | 词频 2 |  
@@ -1716,12 +1716,12 @@ Charles was alone at home, with no ________ looking after him.
 
 固定搭配
 ---
-## - *be oneself  **(人) 处于正常状态：**  
+- ## \*be oneself  **(人) 处于正常状态：**  
 
-## - *(all) by oneself  **独自地；独立地**  
+- ## \*(all) by oneself  **独自地；独立地**  
 
 
-# *** *onion*** n
+# ***\*onion*** n
 英音 'ʌnjən     美音 'ʌnjən  
 
 | 词频 1 | 口语 1 |  
@@ -1733,7 +1733,7 @@ Charles was alone at home, with no ________ looking after him.
 1.*高义频：* **洋葱；葱头**  
 
 
-# *** *online*** adj
+# ***\*online*** adj
 英音 ˌɒn'laɪn     美音 ˌɑːn'laɪn  
 
 | 词频 5 |  
@@ -1743,7 +1743,7 @@ Charles was alone at home, with no ________ looking after him.
 1.*高义频：* **在线的；联网的**  
 
 
-# *** *online*** adv
+# ***\*online*** adv
 英音 ˌɒn'laɪn     美音 ˌɑːn'laɪn  
 
 | 词频 5 |  
@@ -1753,7 +1753,7 @@ Charles was alone at home, with no ________ looking after him.
 1.*高义频：* **在网上**  
 
 
-# *** *only*** adj  重难点词汇
+# ***\*only*** adj  重难点词汇
 英音 'əʊnli     美音 'oʊnli  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1774,7 +1774,7 @@ Charles was alone at home, with no ________ looking after him.
  > 她是这项工作的最佳人选。  
 
 
-# *** *only*** adv  重难点词汇
+# ***\*only*** adv  重难点词汇
 英音 'əʊnli     美音 'oʊnli  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1808,12 +1808,12 @@ Notes: “only + 状语”置于句首时，通常引起部分倒装。句子结
 
 固定搭配
 ---
-## - *if only  **[与虚拟语气连用] 但愿；如果…就好了：**  
+- ## \*if only  **[与虚拟语气连用] 但愿；如果…就好了：**  
 
  > If only I knew her name.  
  > 我要是知道她的名字就好了。  
 
-## - *not only ... but (also)  **不但…而且：**  
+- ## \*not only ... but (also)  **不但…而且：**  
 
 Notes: not only … but (also) 可以连接并列成分。连接主语时，谓语与靠近它的主语一致。  
  > Not only the students but also their teacher is enjoying the film.  
@@ -1843,7 +1843,7 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
 ##### 答案 to find  
   
 
-# *** *onto*** prep
+# ***\*onto*** prep
 英音 'ɒntə,'ɒntu     美音 'ɑːntə,'ɑːntu  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -1859,7 +1859,7 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
  > 这辆车侧翻了。  
 
 
-# *** *onwards*** adv
+# ***\*onwards*** adv
 英音 onwards     美音 'ɒnwədz  
 
 | 词频 1 |  
@@ -1869,7 +1869,7 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
 1.*高义频：* **(=onward) 向前地；前进地**  
 
 
-# *** *oolong*** n
+# ***\*oolong*** n
 英音 'uːlɒŋ     美音 'uːlɒŋ  
 
   
@@ -1879,7 +1879,7 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
 1.**乌龙茶**  
 
 
-# *** *open*** adj
+# ***\*open*** adj
 英音 'əʊpən     美音 'oʊpən  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1935,10 +1935,10 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
 
 固定搭配
 ---
-## - *have / keep an open mind (about / on)  **对…不怀成见 / 对…不先入为主**  
+- ## \*have / keep an open mind (about / on)  **对…不怀成见 / 对…不先入为主**  
 
 
-# *** *open*** v
+# ***\*open*** v
 英音 'əʊpən     美音 'oʊpən  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1999,9 +1999,9 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
 
 固定搭配
 ---
-## - *open sb’s eyes to sth  **使某人长见识 / 开眼界 / 认清 (事实)**  
+- ## \*open sb’s eyes to sth  **使某人长见识 / 开眼界 / 认清 (事实)**  
 
-## - *open up  **打开；开辟；直抒胸怀：**  
+- ## \*open up  **打开；开辟；直抒胸怀：**  
 
  > Einstein’s theories opened up a new area of study.  
  > 爱因斯坦的理论开创了一个新的研究领域。  
@@ -2012,7 +2012,7 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
  > 来源：2015 全国改  
 
 
-# *** *open*** n
+# ***\*open*** n
 英音 'əʊpən     美音 'oʊpən  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2039,7 +2039,7 @@ openly /'əʊpənli/ adv
  > 当众哭泣  
 
 
-# *** *open-mouthed*** adj
+# ***\*open-mouthed*** adj
 
 
   
@@ -2049,7 +2049,7 @@ openly /'əʊpənli/ adv
 1.**目瞪口呆的；惊愕得张大嘴的**  
 
 
-# *** *opener*** n
+# ***\*opener*** n
 英音 'əʊpnə(r)     美音 'oʊpnər  
 
 | 词频 1 |  
@@ -2065,7 +2065,7 @@ openly /'əʊpənli/ adv
  > 开瓶器；起子  
 
 
-# *** *opening*** n
+# ***\*opening*** n
 英音 'əʊpnɪŋ     美音 'oʊpnɪŋ  
 
 | 词频 4 |  
@@ -2095,7 +2095,7 @@ openly /'əʊpənli/ adv
 4.*低义频：* **空缺**  
 
 
-# *** *opening*** adj
+# ***\*opening*** adj
 英音 'əʊpnɪŋ     美音 'oʊpnɪŋ  
 
 | 词频 4 |  
@@ -2111,7 +2111,7 @@ openly /'əʊpənli/ adv
  > 开幕式  
 
 
-# *** *opera*** n
+# ***\*opera*** n
 英音 'ɒpər     美音 'ɑːpər  
 
 | 词频 2 |  
@@ -2132,10 +2132,10 @@ openly /'əʊpənli/ adv
 
 固定搭配
 ---
-## - *soap opera  **肥皂剧**  
+- ## \*soap opera  **肥皂剧**  
 
 
-# *** *operate*** v  重难点词汇
+# ***\*operate*** v  重难点词汇
 英音 'ɒpəreɪt     美音 'ɑːpəreɪt  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2187,7 +2187,7 @@ openly /'əʊpənli/ adv
 ---
 operator  n   
 
-# *** *operation*** n
+# ***\*operation*** n
 英音 ˌɒpə'reɪʃn     美音 ˌɑːpə'reɪʃn  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -2247,13 +2247,13 @@ operator  n
 
 固定搭配
 ---
-## - *put ... into operation  **实施；使…运转；启用：**  
+- ## \*put ... into operation  **实施；使…运转；启用：**  
 
  > It’s time to put our plan into operation.  
  > 现在应该实施我们的计划了。  
 
 
-# *** *operational*** adj
+# ***\*operational*** adj
 英音 ˌɒpə'reɪʃənl     美音 ˌɑːpə'reɪʃənl  
 
 | 词频 2 |  
@@ -2263,7 +2263,7 @@ operator  n
 1.**工作着的；即可使用的**  
 
 
-# *** *operator*** n
+# ***\*operator*** n
 英音 'ɒpəreɪtə(r)     美音 'ɑːpəreɪtər  
 
 | 词频 2 | 书面 1 |  
@@ -2275,7 +2275,7 @@ operator  n
 1.*高义频：* **话务员；操作员；经营者**  
 
 
-# *** *opinion*** n  重难点词汇
+# ***\*opinion*** n  重难点词汇
 英音 ə'pɪnjən     美音 ə'pɪnjən  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -2333,10 +2333,10 @@ operator  n
 
 固定搭配
 ---
-## - *have a high / low / good / poor opinion of  **对…评价高 / 低 / 好 / 差**  
+- ## \*have a high / low / good / poor opinion of  **对…评价高 / 低 / 好 / 差**  
 
 
-# *** *opponent*** n
+# ***\*opponent*** n
 英音 ə'pəʊnənt     美音 ə'poʊnənt  
 
 | 词频 2 | 书面 1 |  
@@ -2348,7 +2348,7 @@ operator  n
 1.*高义频：* **对手；反对者**  
 
 
-# *** *opportunity*** n
+# ***\*opportunity*** n
 英音 ˌɒpə'tjuːnəti     美音 ˌɑːpər'tuːnəti  
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -2389,7 +2389,7 @@ operator  n
  > 工作一旦完成，就有很多放松的机会。  
 
 
-# *** *oppose*** vt
+# ***\*oppose*** vt
 英音 ə'pəʊz     美音 ə'poʊz  
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 2 |  
@@ -2414,7 +2414,7 @@ opposed /ə'pəʊzd/ adj [不用于名词前]
  > His parents are opposed to the marriage.  
  > 他的父母反对这桩婚事。  
 
-## - *as opposed to  **而；而非：**  
+- ## \*as opposed to  **而；而非：**  
 
  > Two hundred people attended the meeting, as opposed to 300 the previous year.  
  > 200人出席了这次会议，而前一年是300人。  
@@ -2424,7 +2424,7 @@ opposed /ə'pəʊzd/ adj [不用于名词前]
 
 opposing /ə'pəʊzɪŋ/ adj [只用于名词前]  
 
-# *** *opposed*** adj
+# ***\*opposed*** adj
 英音 ə'pəʊzd     美音 ə'poʊzd  
 
 | 词频 2 |  
@@ -2434,7 +2434,7 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 1.**反对的；对立的**  
 
 
-# *** *opposing*** adj
+# ***\*opposing*** adj
 英音 ə'pəʊzɪŋ     美音 ə'poʊzɪŋ  
 
   
@@ -2444,7 +2444,7 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 1.**（观点、意见等）相反的，相对立的**  
 
 
-# *** *opposite*** adj  重难点词汇
+# ***\*opposite*** adj  重难点词汇
 英音 'ɒpəzɪt     美音 'ɑːpəzət  
 
 | 词频 4 |  
@@ -2481,7 +2481,7 @@ David turned and walked off in the ________ (相反) direction.
 ##### 答案 opposite  
   
 
-# *** *opposite*** prep  重难点词汇
+# ***\*opposite*** prep  重难点词汇
 英音 'ɒpəzɪt     美音 'ɑːpəzət  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2495,7 +2495,7 @@ David turned and walked off in the ________ (相反) direction.
  > 来源：2011 全国改  
 
 
-# *** *opposite*** n  重难点词汇
+# ***\*opposite*** n  重难点词汇
 英音 'ɒpəzɪt     美音 'ɑːpəzət  
 
 | 词频 4 |  
@@ -2515,7 +2515,7 @@ David turned and walked off in the ________ (相反) direction.
  > 我一点儿都不困，事实上正好相反。  
 
 
-# *** *opposition*** n
+# ***\*opposition*** n
 英音 ˌɒpə'zɪʃn     美音 ˌɑːpə'zɪʃn  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -2531,7 +2531,7 @@ David turned and walked off in the ________ (相反) direction.
  > 对这个决定有很多反对意见。  
 
 
-# *** *optimism*** n
+# ***\*optimism*** n
 英音 'ɒptɪmɪzəm     美音 'ɑːptɪmɪzəm  
 
 | 词频 2 |  
@@ -2543,7 +2543,7 @@ David turned and walked off in the ________ (相反) direction.
 1.*高义频：* **乐观；乐观主义**  
 
 
-# *** *optimistic*** adj
+# ***\*optimistic*** adj
 英音 ˌɒptɪ'mɪstɪk     美音 ˌɑːptɪ'mɪstɪk  
 
 | 词频 2 | 阅读 1 |  
@@ -2569,7 +2569,7 @@ My good performance in the job interview left me optimistic ________ my future.
 ##### 答案 about  
   
 
-# *** *option*** n
+# ***\*option*** n
 英音 'ɒpʃn     美音 'ɑːpʃn  
 
 | 词频 1 | 口语 3 | 书面 2 | 阅读 2 |  
@@ -2589,7 +2589,7 @@ My good performance in the job interview left me optimistic ________ my future.
  > 你别无选择，只能拒绝他的提议。  
 
 
-# *** *optional*** adj
+# ***\*optional*** adj
 英音 'ɒpʃənl     美音 'ɑːpʃənl  
 
 | 词频 1 | 阅读 1 |  
@@ -2616,7 +2616,7 @@ In that school, English is compulsory for all students, but French and Russian a
 ##### 答案 optional  
   
 
-# *** *or*** conj
+# ***\*or*** conj
 英音 ɔː(r)     美音 ɔːr  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2658,7 +2658,7 @@ Don’t turn off the computer before closing all programs, ________ you could ha
 ##### 答案 or   
   
 
-# *** *oral*** adj
+# ***\*oral*** adj
 英音 'ɔːrəl     美音 'ɔːrəl  
 
 | 词频 2 |  
@@ -2678,7 +2678,7 @@ Don’t turn off the computer before closing all programs, ________ you could ha
 ---
 orally /'ɔːrəli/ adv   
 
-# *** *orange*** n
+# ***\*orange*** n
 英音 'ɒrɪndʒ     美音 'ɔːrɪndʒ  
 
 | 词频 4 | 口语 1 |  
@@ -2688,7 +2688,7 @@ orally /'ɔːrəli/ adv
 1.*高义频：* **[C] 柑橘；橙子； [U] 橘色**  
 
 
-# *** *orange*** adj
+# ***\*orange*** adj
 英音 'ɒrɪndʒ     美音 'ɔːrɪndʒ  
 
 | 词频 4 | 口语 1 |  
@@ -2700,7 +2700,7 @@ orally /'ɔːrəli/ adv
 1.*高义频：* **柑橘的；橘色的**  
 
 
-# *** *orangutan*** n
+# ***\*orangutan*** n
 英音 ɔːˌræŋuː'tæn     美音 ə'ræŋətæn  
 
 | 词频 1 |  
@@ -2710,7 +2710,7 @@ orally /'ɔːrəli/ adv
 1.**猩猩**  
 
 
-# *** *orbit*** n
+# ***\*orbit*** n
 英音 'ɔːbɪt     美音 'ɔːrbɪt  
 
 | 词频 3 |  
@@ -2726,7 +2726,7 @@ orally /'ɔːrəli/ adv
  > 这颗人造卫星已被送入环绕地球运行的轨道。  
 
 
-# *** *orbit*** v
+# ***\*orbit*** v
 英音 'ɔːbɪt     美音 'ɔːrbɪt  
 
 | 词频 3 |  
@@ -2740,7 +2740,7 @@ orally /'ɔːrəli/ adv
  > 地球绕太阳一周需要一年的时间。  
 
 
-# *** *orchestra*** n
+# ***\*orchestra*** n
 英音 'ɔːkɪstrə     美音 'ɔːrkɪstrə  
 
 | 词频 2 |  
@@ -2752,7 +2752,7 @@ orally /'ɔːrəli/ adv
 1.*高义频：* **(大型的) 管弦乐队**  
 
 
-# *** *order*** n  重难点词汇
+# ***\*order*** n  重难点词汇
 英音 'ɔːdə(r)     美音 'ɔːrdər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2825,7 +2825,7 @@ orally /'ɔːrəli/ adv
 
 固定搭配
 ---
-## - *in order  **按顺序；有序地；整齐地：**  
+- ## \*in order  **按顺序；有序地；整齐地：**  
 
  > Careful people usually put everything in good order.  
  > 细心的人总是把每样东西都放得很整齐。  
@@ -2833,13 +2833,13 @@ orally /'ɔːrəli/ adv
  > Some teachers find it difficult to keep their classes in order.   
  > 有些老师发现维持课堂秩序很困难。  
 
-## - *in order that  **为了；以便：**  
+- ## \*in order that  **为了；以便：**  
 
  > Leave your telephone number in order that we might contact you.  
  > 请留下你的电话号码，以便于我们跟你联系。  
  > 来源：北师大⑦ – 20  
 
-## - *in order to  **为了；以便：**  
+- ## \*in order to  **为了；以便：**  
 
  > In order to find a better job, he decided to study a second foreign language.  
  > 为了能找个更好的工作，他决定再学一门外语。  
@@ -2853,12 +2853,12 @@ orally /'ɔːrəli/ adv
  > Go in quietly so as not to wake your mother.  
  > 悄悄地进去，别把你的妈妈吵醒了。  
 
-## - *in the order of   **大约：**  
+- ## \*in the order of   **大约：**  
 
  > She earns something in the order of £80,000 a year.  
  > 她的年收入约为8万英镑。  
 
-## - *out of order  **次序颠倒；发生故障：**  
+- ## \*out of order  **次序颠倒；发生故障：**  
 
  > The newspaper pages were out of order.  
  > 报纸的版面顺序乱了。  
@@ -2881,7 +2881,7 @@ The police officers in our city work hard ________ (为了) the rest of us can l
 ##### 答案 in order that / so that  
   
 
-# *** *order*** v  重难点词汇
+# ***\*order*** v  重难点词汇
 英音 'ɔːdə(r)     美音 'ɔːrdər  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -2928,7 +2928,7 @@ ordered /'ɔːdəd/ adj
  > 井然有序的世界  
 
 
-# *** *orderly*** adj
+# ***\*orderly*** adj
 英音 'ɔːdəli     美音 'ɔːrdərli  
 
 | 词频 1 | 阅读 1 |  
@@ -2943,7 +2943,7 @@ ordered /'ɔːdəd/ adj
  > 来源：译林⑦ – 4  
 
 
-# *** *ordinary*** adj
+# ***\*ordinary*** adj
 英音 'ɔːdnri     美音 'ɔːrdneri  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -2968,7 +2968,7 @@ What I want is not just an ordinarily cafe but a vey special one.
 ##### 答案 ordinarily-ordinary  
   
 
-# *** *organ*** n
+# ***\*organ*** n
 英音 'ɔːɡən     美音 'ɔːrɡən  
 
 | 词频 2 | 书面 1 |  
@@ -2992,7 +2992,7 @@ What I want is not just an ordinarily cafe but a vey special one.
  > 演奏管风琴  
 
 
-# *** *organic*** adj
+# ***\*organic*** adj
 英音 ɔː'ɡænɪk     美音 ɔːr'ɡænɪk  
 
 | 词频 3 | 书面 1 | 阅读 1 |  
@@ -3008,7 +3008,7 @@ What I want is not just an ordinarily cafe but a vey special one.
  > 有机食品  
 
 
-# *** *organisation*** n
+# ***\*organisation*** n
 英音 ˌɔːɡənaɪ'zeɪʃn     美音 ˌɔːrɡənə'zeɪʃn  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -3030,7 +3030,7 @@ What I want is not just an ordinarily cafe but a vey special one.
  > 他正忙于筹建一个新的俱乐部。  
 
 
-# *** *organisational*** adj
+# ***\*organisational*** adj
 英音 ˌɔːgənaɪ'zeɪʃənl     美音 ˌɔːrgənə'zeɪʃənl  
 
 | 词频 1 |  
@@ -3040,7 +3040,7 @@ What I want is not just an ordinarily cafe but a vey special one.
 1.**组织上的**  
 
 
-# *** *organise*** v
+# ***\*organise*** v
 英音 'ɔːɡənaɪz     美音 'ɔːrɡənaɪz  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -3097,7 +3097,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
  organizer / organiser  /'ɔːgənaɪzə/ n  [C]   
 
-# *** *organised*** adj
+# ***\*organised*** adj
 英音 'ɔːɡənaɪzd     美音 'ɔːɡənaɪzd  
 
 | 词频 4 |  
@@ -3119,7 +3119,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
  > 很有条理的人  
 
 
-# *** *organism*** n
+# ***\*organism*** n
 英音 'ɔːɡənɪzəm     美音 'ɔːrɡənɪzəm  
 
 | 词频 1 | 口语 1 |  
@@ -3135,7 +3135,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
  > 来源：2012 四川改  
 
 
-# *** *organization*** n
+# ***\*organization*** n
 英音 ˌɔːɡənaɪ'zeɪʃn     美音 ˌɔːrɡənə'zeɪʃn  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -3157,7 +3157,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
  > 他正忙于筹建一个新的俱乐部。  
 
 
-# *** *organize*** v
+# ***\*organize*** v
 英音 'ɔːɡənaɪz     美音 'ɔːrɡənaɪz  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -3215,7 +3215,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
  organizer / organiser  /'ɔːɡənaɪzə(r)/ n [C]   
 
-# *** *orientation*** n
+# ***\*orientation*** n
 英音 ˌɔːriən'teɪʃn     美音 ˌɔːriən'teɪʃn  
 
   
@@ -3225,7 +3225,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
 1.**（新工作或学习课程开始前一段时间的）培训，迎新**  
 
 
-# *** *origin*** n
+# ***\*origin*** n
 英音 'ɒrɪdʒɪn     美音 'ɔːrɪdʒɪn  
 
 | 词频 2 | 书面 2 |  
@@ -3253,7 +3253,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
  > 这种特别的习俗源于威尔士。  
 
 
-# *** *original*** adj  重难点词汇
+# ***\*original*** adj  重难点词汇
 英音 ə'rɪdʒənl     美音 ə'rɪdʒənl  
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -3279,7 +3279,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
  > 那个建议没什么新意。  
 
 
-# *** *original*** n  重难点词汇
+# ***\*original*** n  重难点词汇
 英音 ə'rɪdʒənl     美音 ə'rɪdʒənl  
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -3295,7 +3295,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
  > 原著  
 
 
-# *** *originally*** adv
+# ***\*originally*** adv
 英音 ə'rɪdʒənəli     美音 ə'rɪdʒənəli  
 
 | 词频 2 | 口语 2 | 书面 2 | 阅读 2 |  
@@ -3311,7 +3311,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
  > 起先，我们计划到苏格兰旅游，但最后没有成行。  
 
 
-# *** *ornate*** adj
+# ***\*ornate*** adj
 英音 ɔː'neɪt     美音 ɔːr'neɪt  
 
 | 词频 1 |  
@@ -3321,7 +3321,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
 1.**华丽的**  
 
 
-# *** *orphan*** n
+# ***\*orphan*** n
 英音 'ɔːfn     美音 'ɔːrfn  
 
 | 词频 1 |  
@@ -3333,7 +3333,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
 1.*高义频：* **孤儿**  
 
 
-# *** *orphan*** adj
+# ***\*orphan*** adj
 英音 'ɔːfn     美音 'ɔːrfn  
 
 | 词频 1 |  
@@ -3343,7 +3343,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
 1.*高义频：* **孤儿的**  
 
 
-# *** *other*** adj  重难点词汇
+# ***\*other*** adj  重难点词汇
 英音 'ʌðə(r)     美音 'ʌðər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3386,12 +3386,12 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 固定搭配
 ---
-## - *no other than  **正是；恰恰是：**  
+- ## \*no other than  **正是；恰恰是：**  
 
  > He is no other than the writer I have often talked about.  
  > 他正是我常谈起的那位作家。  
 
-## - *other than  **除…以外 (except)：**  
+- ## \*other than  **除…以外 (except)：**  
 
  > I don’t know any French people other than you.  
  > 除了你，我不认识别的法国人。  
@@ -3418,7 +3418,7 @@ I got the story from Tom and ________ (其他的一些) people who had worked wi
 ##### 答案 some other  
   
 
-# *** *other*** pron  重难点词汇
+# ***\*other*** pron  重难点词汇
 英音 'ʌðə(r)     美音 'ʌðər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3471,7 +3471,7 @@ You are a team star! Working with other is really your cup of tea.
 ##### 答案 other → others  
   
 
-# *** *otherwise*** adv  重难点词汇
+# ***\*otherwise*** adv  重难点词汇
 英音 'ʌðərwaɪz     美音 'ʌðərwaɪz  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -3505,7 +3505,7 @@ You are a team star! Working with other is really your cup of tea.
  > 来源：2014 江苏改  
 
 
-# *** *ouch*** int
+# ***\*ouch*** int
 英音 aʊtʃ     美音 aʊtʃ  
 
 | 词频 1 |  
@@ -3515,7 +3515,7 @@ You are a team star! Working with other is really your cup of tea.
 1.*高义频：* **哎哟**  
 
 
-# *** *ought*** aux v
+# ***\*ought*** aux v
 英音 ɔːt     美音 ɔːt  
 
 | 词频 3 |  
@@ -3525,7 +3525,7 @@ You are a team star! Working with other is really your cup of tea.
 1.**应当；应该**  
 
 
-# *** *our*** pron
+# ***\*our*** pron
 英音 ɑː(r), 'aʊə(r)     美音 'aʊər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3535,7 +3535,7 @@ You are a team star! Working with other is really your cup of tea.
 1.*高义频：* **我们的**  
 
 
-# *** *ours*** pron
+# ***\*ours*** pron
 英音 ɑːz, 'aʊəz     美音 'aʊərz  
 
 | 词频 3 | 口语 3 |  
@@ -3554,7 +3554,7 @@ You are a team star! Working with other is really your cup of tea.
  > 我们的家是一个大家庭。  
 
 
-# *** *ourselves*** pron
+# ***\*ourselves*** pron
 英音 ɑː'selvz     美音 ɑːr'selvz  
 
 | 词频 4 | 口语 3 | 书面 1 |  
@@ -3572,7 +3572,7 @@ You are a team star! Working with other is really your cup of tea.
  > 我们亲眼看到的。  
 
 
-# *** *out*** adv & prep
+# ***\*out*** adv & prep
 英音 aʊt     美音 aʊt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3615,7 +3615,7 @@ You are a team star! Working with other is really your cup of tea.
 
 固定搭配
 ---
-## - *out of  1.*高义频：* **从...中 (出去)：**  
+- ## \*out of  1.*高义频：* **从...中 (出去)：**  
 
  > **out of the room**  
  > She went out of the room.  
@@ -3660,7 +3660,7 @@ You are a team star! Working with other is really your cup of tea.
  > 用木头做个盒子  
 
 
-# *** *outbreak*** n
+# ***\*outbreak*** n
 英音 'aʊtbreɪk     美音 'aʊtbreɪk  
 
 | 词频 1 |  
@@ -3672,7 +3672,7 @@ You are a team star! Working with other is really your cup of tea.
 1.*高义频：* **爆发；发作 (尤指疾病或战争)**  
 
 
-# *** *outcome*** n
+# ***\*outcome*** n
 英音 'aʊtkʌm     美音 'aʊtkʌm  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -3690,7 +3690,7 @@ You are a team star! Working with other is really your cup of tea.
  > 来源：译林⑦ – 3  
 
 
-# *** *outdoor*** adj
+# ***\*outdoor*** adj
 英音 'aʊtdɔː(r)     美音 'aʊtdɔːr  
 
 | 词频 4 |  
@@ -3704,7 +3704,7 @@ You are a team star! Working with other is really your cup of tea.
  > 户外活动  
 
 
-# *** *outdoors*** adv
+# ***\*outdoors*** adv
 英音 ˌaʊt'dɔːz     美音 ˌaʊt'dɔːrz  
 
 | 词频 3 |  
@@ -3718,7 +3718,7 @@ You are a team star! Working with other is really your cup of tea.
  > 来源：人教⑥ – 1  
 
 
-# *** *outdoors*** n
+# ***\*outdoors*** n
 英音 ˌaʊt'dɔːz     美音 ˌaʊt'dɔːrz  
 
 | 词频 3 |  
@@ -3733,7 +3733,7 @@ You are a team star! Working with other is really your cup of tea.
  > 汤姆是个运动迷，并且热爱户外运动。  
 
 
-# *** *outer*** adj
+# ***\*outer*** adj
 英音 'aʊtə(r)     美音 'aʊtər  
 
 | 词频 3 |  
@@ -3750,7 +3750,7 @@ You are a team star! Working with other is really your cup of tea.
  > 外面的门大开着，但里面的门却紧锁着。  
 
 
-# *** *outgoing*** adj
+# ***\*outgoing*** adj
 英音 'aʊtɡəʊɪŋ     美音 'aʊtɡoʊɪŋ  
 
 | 词频 2 |  
@@ -3764,7 +3764,7 @@ You are a team star! Working with other is really your cup of tea.
  > 来源：译林⑤ – 1  
 
 
-# *** *outing*** n
+# ***\*outing*** n
 英音 'aʊtɪŋ     美音 'aʊtɪŋ  
 
 | 词频 2 |  
@@ -3783,7 +3783,7 @@ You are a team star! Working with other is really your cup of tea.
  > 去远足  
 
 
-# *** *outline*** n
+# ***\*outline*** n
 英音 'aʊtlaɪn     美音 'aʊtlaɪn  
 
 | 词频 2 |  
@@ -3809,7 +3809,7 @@ You are a team star! Working with other is really your cup of tea.
  > 中国略图  
 
 
-# *** *outline*** vt
+# ***\*outline*** vt
 英音 'aʊtlaɪn     美音 'aʊtlaɪn  
 
 | 词频 2 |  
@@ -3828,7 +3828,7 @@ You are a team star! Working with other is really your cup of tea.
  > 他们看见天空映衬下那座巨型建筑的轮廓。  
 
 
-# *** *outlook*** n
+# ***\*outlook*** n
 英音 'aʊtlʊk     美音 'aʊtlʊk  
 
 | 词频 2 | 阅读 1 |  
@@ -3852,7 +3852,7 @@ You are a team star! Working with other is really your cup of tea.
  > 世界和平的前景是光明的。  
 
 
-# *** *outnumber*** v
+# ***\*outnumber*** v
 英音 ˌaʊt'nʌmbə(r)     美音 ˌaʊt'nʌmbər  
 
 | 词频 1 |  
@@ -3862,7 +3862,7 @@ You are a team star! Working with other is really your cup of tea.
 1.**在数量上胜过……；比……多**  
 
 
-# *** *outpatient*** n
+# ***\*outpatient*** n
 英音 'aʊtpeɪʃnt     美音 'aʊtpeɪʃnt  
 
 | 词频 1 |  
@@ -3872,7 +3872,7 @@ You are a team star! Working with other is really your cup of tea.
 1.**门诊病人**  
 
 
-# *** *output*** n
+# ***\*output*** n
 英音 'aʊtpʊt     美音 'aʊtpʊt  
 
 | 词频 1 | 书面 2 | 阅读 1 |  
@@ -3892,7 +3892,7 @@ You are a team star! Working with other is really your cup of tea.
  > 来源：外研⑥ – 2  
 
 
-# *** *outside*** adv
+# ***\*outside*** adv
 英音 ˌaʊt'saɪd     美音 ˌaʊt'saɪd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3908,7 +3908,7 @@ You are a team star! Working with other is really your cup of tea.
  > 他到外面抽了支烟。  
 
 
-# *** *outside*** prep
+# ***\*outside*** prep
 英音 ˌaʊt'saɪd     美音 ˌaʊt'saɪd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3925,7 +3925,7 @@ You are a team star! Working with other is really your cup of tea.
  > 来源：2008 浙江改  
 
 
-# *** *outside*** adj
+# ***\*outside*** adj
 英音 'aʊtsaɪd     美音 'aʊtsaɪd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3942,7 +3942,7 @@ You are a team star! Working with other is really your cup of tea.
  > 我们必须寻求外援。  
 
 
-# *** *outside*** n
+# ***\*outside*** n
 英音 ˌaʊt'saɪd     美音 ˌaʊt'saɪd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3961,7 +3961,7 @@ You are a team star! Working with other is really your cup of tea.
  > 房子的外墙需要粉刷。  
 
 
-# *** *outspoken*** adj
+# ***\*outspoken*** adj
 英音 aʊt'spəʊkən     美音 aʊt'spoʊkən  
 
 | 词频 1 |  
@@ -3974,7 +3974,7 @@ You are a team star! Working with other is really your cup of tea.
  > 直率的人  
 
 
-# *** *outstanding*** adj
+# ***\*outstanding*** adj
 英音 aʊt'stændɪŋ     美音 aʊt'stændɪŋ  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -3991,7 +3991,7 @@ You are a team star! Working with other is really your cup of tea.
  > 来源：2011 福建  
 
 
-# *** *outward*** adj
+# ***\*outward*** adj
 英音 'aʊtwəd     美音 'aʊtwərd  
 
 | 词频 1 |  
@@ -4011,7 +4011,7 @@ You are a team star! Working with other is really your cup of tea.
  > 她一定很难过，但没表现出来。  
 
 
-# *** *outward(s)*** adv
+# ***\*outward(s)*** adv
 英音 'aʊtwədz     美音 'aʊtwərdz  
 
 | 词频 1 |  
@@ -4027,7 +4027,7 @@ You are a team star! Working with other is really your cup of tea.
  > 他穿上雨衣向外走去。  
 
 
-# *** *outwards*** adv
+# ***\*outwards*** adv
 英音 'aʊtwədz     美音 'aʊtwərdz  
 
 | 词频 1 |  
@@ -4037,7 +4037,7 @@ You are a team star! Working with other is really your cup of tea.
 1.**向外地**  
 
 
-# *** *oval*** adj
+# ***\*oval*** adj
 英音 'əʊvl     美音 'oʊvl  
 
 | 词频 1 |  
@@ -4047,7 +4047,7 @@ You are a team star! Working with other is really your cup of tea.
 1.*高义频：* **椭圆形的**  
 
 
-# *** *oval*** n
+# ***\*oval*** n
 英音 'əʊvl     美音 'oʊvl  
 
 | 词频 1 |  
@@ -4059,7 +4059,7 @@ You are a team star! Working with other is really your cup of tea.
 1.*高义频：* **椭圆 (形)**  
 
 
-# *** *oven*** n
+# ***\*oven*** n
 英音 'ʌvn     美音 'ʌvn  
 
 | 词频 1 | 口语 1 |  
@@ -4071,7 +4071,7 @@ You are a team star! Working with other is really your cup of tea.
 1.*高义频：* **烤炉；烤箱**  
 
 
-# *** *over*** prep
+# ***\*over*** prep
 英音 'əʊvə(r)     美音 'oʊvər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4155,7 +4155,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 固定搭配
 ---
-## - *all over  *高义频：* **到处；各处：**  
+- ## \*all over  *高义频：* **到处；各处：**  
 
  > Countries all over the world name places in similar ways.  
  > 全世界的国家都用相似的方式给地方命名。  
@@ -4183,7 +4183,7 @@ They had a pleasant chat ________ a cup of coffee.
 ##### 答案 over  
   
 
-# *** *over*** adv
+# ***\*over*** adv
 英音 'əʊvə(r)     美音 'oʊvər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4242,19 +4242,19 @@ They had a pleasant chat ________ a cup of coffee.
 
 固定搭配
 ---
-## - *(all) over again  **再一遍；重新：**  
+- ## \*(all) over again  **再一遍；重新：**  
 
  > He did the work so badly that I had to do it all over again myself.  
  > 他工作做得太差劲了,我只好亲自重做。  
 
-## - *over and over (again)  **反复；再三：**  
+- ## \*over and over (again)  **反复；再三：**  
 
  > As you know, if you do the same thing over and over again, you begin to do it automatically.  
  > 你知道，如果反反复复地做同样的事，动作就会变得自如起来。  
  > 来源：人教⑥ – 3  
 
 
-# *** *over-fishing*** n
+# ***\*over-fishing*** n
 英音 ˌəʊvəfɪʃɪŋ     美音 ˌoʊvərfɪʃɪŋ  
 
 | 词频 1 |  
@@ -4264,7 +4264,7 @@ They had a pleasant chat ________ a cup of coffee.
 1.**过度捕捞**  
 
 
-# *** *overall*** adj
+# ***\*overall*** adj
 英音 ˌəʊvər'ɔːl     美音 ˌoʊvər'ɔːl  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -4280,7 +4280,7 @@ They had a pleasant chat ________ a cup of coffee.
  > 全部费用  
 
 
-# *** *overall*** adv
+# ***\*overall*** adv
 英音 ˌəʊvər'ɔːl     美音 ˌoʊvər'ɔːl  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -4294,7 +4294,7 @@ They had a pleasant chat ________ a cup of coffee.
  > 总的来说，这是一本很有用的书。  
 
 
-# *** *overboard*** adv
+# ***\*overboard*** adv
 英音 'əʊvəbɔːd     美音 'əʊvəbɔːd  
 
 | 词频 1 |  
@@ -4304,7 +4304,7 @@ They had a pleasant chat ________ a cup of coffee.
 1.*高义频：* **越过船舷进入水中**  
 
 
-# *** *overcoat*** n
+# ***\*overcoat*** n
 英音 'əʊvəkəʊt     美音 'oʊvərkoʊt  
 
 | 词频 2 |  
@@ -4316,7 +4316,7 @@ They had a pleasant chat ________ a cup of coffee.
 1.*高义频：* **大衣；外套**  
 
 
-# *** *overcome*** vt
+# ***\*overcome*** vt
 英音 ˌəʊvə'kʌm     美音 ˌoʊvər'kʌm  
 
 | 词频 4 | 口语 1 | 书面 1 | 阅读 3 |  
@@ -4344,7 +4344,7 @@ They had a pleasant chat ________ a cup of coffee.
  > 在葬礼上她的父母悲痛欲绝。  
 
 
-# *** *overhead*** adv
+# ***\*overhead*** adv
 英音 ˌəʊvə'hed     美音 ˌoʊvər'hed  
 
 | 词频 2 |  
@@ -4357,7 +4357,7 @@ They had a pleasant chat ________ a cup of coffee.
  > 鸟儿在空中飞过，发出欢快的叫声。  
 
 
-# *** *overhead*** adj
+# ***\*overhead*** adj
 英音 ˌəʊvə'hed     美音 ˌoʊvər'hed  
 
 | 词频 2 |  
@@ -4373,7 +4373,7 @@ They had a pleasant chat ________ a cup of coffee.
  > 投影仪  
 
 
-# *** *overlook*** vt
+# ***\*overlook*** vt
 英音 ˌəʊvə'lʊk     美音 ˌoʊvər'lʊk  
 
 | 词频 3 | 阅读 3 |  
@@ -4397,7 +4397,7 @@ They had a pleasant chat ________ a cup of coffee.
  > 我没有追究他的过错。  
 
 
-# *** *overnight*** adv
+# ***\*overnight*** adv
 英音 ˌəʊvə'naɪt     美音 ˌoʊvər'naɪt  
 
 | 词频 2 |  
@@ -4417,7 +4417,7 @@ They had a pleasant chat ________ a cup of coffee.
  > 一夜成名  
 
 
-# *** *overnight*** adj
+# ***\*overnight*** adj
 英音 'əʊvənaɪt     美音 'oʊvərnaɪt  
 
 | 词频 2 |  
@@ -4435,7 +4435,7 @@ They had a pleasant chat ________ a cup of coffee.
  > 这场演出一举成功。  
 
 
-# *** *overpass*** n
+# ***\*overpass*** n
 英音 'əʊvəpɑːs     美音 'oʊvərpæs  
 
 | 词频 1 |  
@@ -4447,7 +4447,7 @@ They had a pleasant chat ________ a cup of coffee.
 1.*高义频：* **天桥；立交桥**  
 
 
-# *** *overseas*** adv
+# ***\*overseas*** adv
 英音 ˌəʊvə'siːz     美音 ˌoʊvər'siːz  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -4461,7 +4461,7 @@ They had a pleasant chat ________ a cup of coffee.
  > 他将去国外工作。  
 
 
-# *** *overseas*** adj
+# ***\*overseas*** adj
 英音 ˌəʊvə'siːz     美音 ˌoʊvər'siːz  
 
 | 词频 3 | 书面 1 |  
@@ -4474,7 +4474,7 @@ They had a pleasant chat ________ a cup of coffee.
  > 我接到了一个在巴黎的朋友打来的越洋电话。  
 
 
-# *** *overtake*** vt
+# ***\*overtake*** vt
 英音 ˌəʊvə'teɪk     美音 ˌoʊvər'teɪk  
 
 | 词频 2 | 阅读 1 |  
@@ -4489,7 +4489,7 @@ They had a pleasant chat ________ a cup of coffee.
  > 2010年中国超越日本，成为世界第二大经济体。  
 
 
-# *** *overtime*** n
+# ***\*overtime*** n
 英音 'əʊvətaɪm     美音 'oʊvərtaɪm  
 
 | 词频 3 |  
@@ -4499,7 +4499,7 @@ They had a pleasant chat ________ a cup of coffee.
 1.**加时赛**  
 
 
-# *** *overview*** n
+# ***\*overview*** n
 英音 'əʊvəvjuː     美音 'oʊvərvjuː  
 
 | 词频 1 |  
@@ -4509,7 +4509,7 @@ They had a pleasant chat ________ a cup of coffee.
 1.**概要；综述**  
 
 
-# *** *overweight*** adj
+# ***\*overweight*** adj
 英音 ˌəʊvə'weɪt     美音 ˌoʊvər'weɪt  
 
 | 词频 3 |  
@@ -4526,7 +4526,7 @@ They had a pleasant chat ________ a cup of coffee.
  > 这个包裹超重两公斤。  
 
 
-# *** *overwhelm*** vt
+# ***\*overwhelm*** vt
 英音 ˌəʊvə'welm     美音 ˌoʊvər'welm  
 
 | 词频 1 |  
@@ -4546,7 +4546,7 @@ They had a pleasant chat ________ a cup of coffee.
 ---
 overwhelming /ˌəʊvə'welmɪŋ/ adj   
 
-# *** *owe*** vt
+# ***\*owe*** vt
 英音 əʊ     美音 oʊ  
 
 | 词频 3 | 口语 2 | 书面 1 | 阅读 2 |  
@@ -4579,7 +4579,7 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
  > 来源：人教⑨ – 3  
 
 
-# *** *own*** adj
+# ***\*own*** adj
 英音 əʊn     美音 oʊn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4594,7 +4594,7 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
  > 直到我亲眼看到我才会相信你的话。  
 
 
-# *** *own*** pron
+# ***\*own*** pron
 英音 əʊn     美音 oʊn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4618,7 +4618,7 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 
 固定搭配
 ---
-## - *(all) on one’s own  **独自地；独立地 (alone)：**  
+- ## \*(all) on one’s own  **独自地；独立地 (alone)：**  
 
  > My grandmother lives all on her own.  
  > 我祖母独自一个人生活。  
@@ -4628,7 +4628,7 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
  > 来源：2011 湖北书面表达  
 
 
-# *** *own*** vt
+# ***\*own*** vt
 英音 əʊn     美音 oʊn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4642,7 +4642,7 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
  > 来源：外研① – 7  
 
 
-# *** *owner*** n
+# ***\*owner*** n
 英音 'əʊnə(r)     美音 'oʊnər  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -4654,7 +4654,7 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 1.*高义频：* **物主；所有者**  
 
 
-# *** *ownership*** n
+# ***\*ownership*** n
 英音 'əʊnəʃɪp     美音 'oʊnərʃɪp  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -4670,7 +4670,7 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
  > 来源：2010 全国  
 
 
-# *** *ox*** n
+# ***\*ox*** n
 英音 ɒks     美音 ɑːks  
 
 | 词频 3 |  
@@ -4682,7 +4682,7 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 1.*高义频：* **牛；公牛**  
 
 
-# *** *oxide*** n
+# ***\*oxide*** n
 英音 'ɒksaɪd     美音 'ɑːksaɪd  
 
 | 词频 1 |  
@@ -4692,7 +4692,7 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 1.**氧化物**  
 
 
-# *** *oxygen*** n
+# ***\*oxygen*** n
 英音 'ɒksɪdʒən     美音 'ɑːksɪdʒən  
 
 | 词频 3 |  
