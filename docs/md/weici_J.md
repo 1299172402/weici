@@ -23,8 +23,7 @@
 
  > **traffic jam**  
  > Have you ever been stuck in a traffic jam?  
- > 你是否碰到过交通阻塞？  
- > 来源：外研④ – 2  
+ > 你是否碰到过交通阻塞？  （外研④ – 2）  
 
 
 # ***\*jar*** n
@@ -74,7 +73,7 @@
 
  > **jealous of**  
  > I'm jealous of her success.  
- > 我嫉妒她的成功。  
+ > 我嫉妒她的成功。  （）  
 
 
 # ***\*jeans*** n
@@ -135,7 +134,7 @@
 ### 1.*高义频：* **喷气式飞机：**  
 
  > jet lag   
- > 飞行时差综合征；时差反应  
+ > 飞行时差综合征；时差反应  （）  
 
 
 # ***\*jewel*** n
@@ -150,7 +149,7 @@
 ### 1.**[C] 宝石； [常用复数] 宝石饰物；贵重饰物：**  
 
  > She loves wearing shining jewels.  
- > 她喜欢佩戴闪亮的珠宝首饰。  
+ > 她喜欢佩戴闪亮的珠宝首饰。  （）  
 
 
 # ***\*jewellery*** n
@@ -165,7 +164,7 @@
 ### 1.*高义频：* **珠宝；首饰：**  
 
  > a piece of jewellery  
- > 一件首饰  
+ > 一件首饰  （）  
 
 
 # ***\*jewelry*** n
@@ -193,21 +192,21 @@
 
  > **apply for / quit a job**  
  > apply for / quit a job  
- > 求职/辞职  
+ > 求职/辞职  （）  
 
  > **be out of a job**  
  > be out of a job   
- > 失业  
+ > 失业  （）  
 
 ### 2.*高义频：* **(单件) 工作；活儿 (task)：**  
 
  > You do a good / bad job.   
- > 你干得好/不好。  
+ > 你干得好/不好。  （）  
 
 ### 3.*高义频：* **职责；任务：**  
 
  > It's not my job.  
- > 这不是我的职责。  
+ > 这不是我的职责。  （）  
 
 
 派生词汇
@@ -224,7 +223,7 @@ jobless  /'dʒɒbləs/ adj
 ### 1.*高义频：* **慢跑：**  
 
  > When I was young, my parents liked jogging on the beach.   
- > 我小时候，父母喜欢在海滩上慢跑。  
+ > 我小时候，父母喜欢在海滩上慢跑。  （）  
 
 
 派生词汇
@@ -262,37 +261,33 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
  > **joined to**  
  > The island, joined to the mainland by a bridge, is easy to go to.   
- > 这个岛由一座大桥与大陆相连，很容易到达。  
- > 来源：2011 全国  
+ > 这个岛由一座大桥与大陆相连，很容易到达。  （2011 全国）  
 
  > **joined hands**  
  > Our generation once joined hands and stood firm at times of national emergency.  
- > 在国家危急关头，我们这代人曾携手合作，坚定不移。  
- > 来源：2016 北京  
+ > 在国家危急关头，我们这代人曾携手合作，坚定不移。  （2016 北京）  
 
 ### 2.*高义频：* **加入 (组织)：**  
 
  > join the army / the League   
- > 参军/入团  
+ > 参军/入团  （）  
 
 ### 3.*高义频：* **参加 (活动等)；和…一起：**  
 
  > Over 200 members of staff joined the strike.   
- > 有超过200名员工参与了罢工。  
+ > 有超过200名员工参与了罢工。  （）  
 
  > **join us for**  
  > Will you join us for lunch?   
- > 你和我们一起去吃午饭吗？  
+ > 你和我们一起去吃午饭吗？  （）  
 
  > **join us in**  
  > Would you like to join us in the game?   
- > 你愿意和我们一起玩游戏吗？  
- > 来源：2008 福建  
+ > 你愿意和我们一起玩游戏吗？  （2008 福建）  
 
  > **join,in**  
  > I wonder if it is convenient for you to join me in visiting the exhibition.  
- > 我想知道你是否方便和我一起去参观展览。  
- > 来源：2017 全国书面表达  
+ > 我想知道你是否方便和我一起去参观展览。  （2017 全国书面表达）  
 
 
 固定搭配
@@ -301,8 +296,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 1.**参加 (比赛、活动等)：**  
 
  > Be prepared to join in a class discussion.   
- > 做好准备加入课堂讨论。  
- > 来源：人教⑤ – 3  
+ > 做好准备加入课堂讨论。  （人教⑤ – 3）  
 
 #### 辨析 join, join in, take part in, attend
 四者都常译为“参加”。  
@@ -321,7 +315,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
  > **ankle / knee joints**  
  > ankle / knee joints  
- > 踝/膝关节  
+ > 踝/膝关节  （）  
 
 
 # ***\*joint*** adj
@@ -337,7 +331,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
  > **joint efforts**  
  > The foreign minister calls for joint efforts to protect global free trade.  
- > 外交部长呼吁共同努力来保护全球自由贸易。  
+ > 外交部长呼吁共同努力来保护全球自由贸易。  （）  
 
 
 # ***\*join…to…*** 
@@ -350,7 +344,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 ### 1.**把…...和……连接或联结起来**  
 
  > Join one section of pipe to the next.  
- > 将一段管子与相邻的管子连接起来。  
+ > 将一段管子与相邻的管子连接起来。  （）  
 
 
 # ***\*joke*** n
@@ -366,12 +360,11 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
  > **telling jokes**  
  > He has a habit of telling jokes.   
- > 他喜欢讲笑话。  
+ > 他喜欢讲笑话。  （）  
 
  > **make a joke about**  
  > I don't want anyone to make a joke about me!  
- > 我不希望任何人开我的玩笑！  
- > 来源：译林⑥ – 1  
+ > 我不希望任何人开我的玩笑！  （译林⑥ – 1）  
 
 
 # ***\*joke*** vi
@@ -385,11 +378,11 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
  > **You're joking**  
  > You're joking!  
- > 你在开玩笑吧!  
+ > 你在开玩笑吧!  （）  
 
  > **joked with,about**  
  > He joked with me about the matter.  
- > 他在这件事上跟我开了个玩笑。  
+ > 他在这件事上跟我开了个玩笑。  （）  
 
 
 固定搭配
@@ -398,17 +391,15 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 1.**戏弄；拿…开玩笑：**  
 
  > They decided to play a joke on their father by hiding his glasses.   
- > 他们决定把父亲的眼镜藏起来和他开个玩笑。  
+ > 他们决定把父亲的眼镜藏起来和他开个玩笑。  （）  
 
 
 真题解析
 ---
-##### 题目  
-Everyone thought he was j________, but in fact he was completely serious.  
-##### 来源：2006 浙江  
-##### 答案 joking  
-  
+1. Everyone thought he was j________, but in fact he was completely serious.  （2006 浙江）  
 
+答案：
+1. joking  
 # ***\*journal*** n
 英音 'dʒɜːnl     美音 'dʒɜːnl  
 
@@ -421,12 +412,12 @@ Everyone thought he was j________, but in fact he was completely serious.
 ### 1.*高义频：* **日报；杂志；期刊：**  
 
  > a college / science journal  
- > 大学学报/科学杂志  
+ > 大学学报/科学杂志  （）  
 
 ### 2.*低义频：* **日志；日记：**  
 
  > keep a journal   
- > 记日记  
+ > 记日记  （）  
 
 
 # ***\*journalism*** n
@@ -464,19 +455,18 @@ Everyone thought he was j________, but in fact he was completely serious.
 
  > **set out on a journey**  
  > set out on a journey   
- > 出发去旅行  
+ > 出发去旅行  （）  
 
  > **go on / make / take a journey**  
  > go on / make / take a journey  
- > 去旅行  
+ > 去旅行  （）  
 
  > **a safe journey**  
  > Waving goodbye to them on the platform, I wished them a safe journey.  
- > 我在站台上向他们挥手告别，祝他们旅途平安。  
+ > 我在站台上向他们挥手告别，祝他们旅途平安。  （）  
 
  > It's the journey, not the arrival, that counts.  
- > 重要的是过程，而不是结果。  
- > 来源：2015 天津  
+ > 重要的是过程，而不是结果。  （2015 天津）  
 
 #### 辨析 voyage, journey, trip, tour
 四者都含“旅行”之意，但具体含义不同。  
@@ -503,19 +493,19 @@ Everyone thought he was j________, but in fact he was completely serious.
 
  > **jumped for joy**  
  > I jumped for joy when I heard the good news.   
- > 听到这个好消息我高兴得跳了起来。  
+ > 听到这个好消息我高兴得跳了起来。  （）  
 
  > **To our joy**  
  > To our joy we found him alive.   
- > 令我们欣喜的是，他还活着。  
+ > 令我们欣喜的是，他还活着。  （）  
 
 ### 2.*低义频：* **乐事；乐趣：**  
 
  > our joys and sadnesses  
- > 我们的欢乐与悲伤  
+ > 我们的欢乐与悲伤  （）  
 
  > Listening to music is one of my greatest joys.   
- > 听音乐是我的一大乐事。  
+ > 听音乐是我的一大乐事。  （）  
 
 
 # ***\*judge*** n
@@ -530,11 +520,10 @@ Everyone thought he was j________, but in fact he was completely serious.
 ### 1.*高义频：* **法官；裁判员；鉴定人：**  
 
  > The prisoner was taken before the judge.   
- > 犯人被带到法官面前。  
+ > 犯人被带到法官面前。  （）  
 
  > Two hours later, the judge read a list of the girls for a second tryout.   
- > 两小时后，裁判宣读了参加第二轮选拔的女孩的名单。  
- > 来源：2008 天津  
+ > 两小时后，裁判宣读了参加第二轮选拔的女孩的名单。  （2008 天津）  
 
 
 # ***\*judge*** v
@@ -549,38 +538,37 @@ Everyone thought he was j________, but in fact he was completely serious.
 
  > **Judging from**  
  > Judging from her accent, she must be from Sichuan.  
- > 听口音，她准是四川人。  
+ > 听口音，她准是四川人。  （）  
 
  > **Judging by**  
  > Judging by his last letter, they are having a wonderful time.   
- > 从他上次的来信看，他们过得很不错。  
+ > 从他上次的来信看，他们过得很不错。  （）  
 
 ### 2.*高义频：* **估计**  
 英译 to guess the size, amount, etc. of sth：
 
  > **judge how**  
  > It's difficult to judge how long the journey will take.  
- > 很难估计这段旅程要花多长时间。  
+ > 很难估计这段旅程要花多长时间。  （）  
 
 ### 3.*高义频：* **评价**  
 英译 to be critical about sb, to decide whether sb is good or bad：
 
  > I've learnt a good lesson: not to judge people.  
- > 我得到了有益的教训：不要对他人品头论足。  
- > 来源：2010 北京  
+ > 我得到了有益的教训：不要对他人品头论足。  （2010 北京）  
 
  > I'm in no position to judge whether what she is doing is right or wrong.  
- > 我无权评价她正在做的事是对还是错。  
+ > 我无权评价她正在做的事是对还是错。  （）  
 
 ### 4.*高义频：* **裁判；评判：**  
 
  > She was asked to judge the English speech competition.  
- > 她应邀担任英语演讲比赛的裁判。  
+ > 她应邀担任英语演讲比赛的裁判。  （）  
 
 ### 5.*低义频：* **审判；判决：**  
 
  > judge a case / judge sb guilty   
- > 判案/判某人有罪  
+ > 判案/判某人有罪  （）  
 
 
 # ***\*judgement*** n
@@ -594,18 +582,18 @@ Everyone thought he was j________, but in fact he was completely serious.
 英译 the ability to form opinions or to make sensible decisions：
 
  > He showed excellent judgement in choosing a friend.   
- > 他在择友方面表现出了敏锐的判断力。  
+ > 他在择友方面表现出了敏锐的判断力。  （）  
 
 ### 2.*高义频：* **意见；看法；评价**  
 英译 an opinion that you form after thinking carefully：
 
  > **make a judgement on / about**  
  > make a judgement on / about  
- > 对…作出评价  
+ > 对…作出评价  （）  
 
  > **In her judgment**  
  > In her judgment, it was a wrong thing to give children so much pocket money.   
- > 在她看来，给孩子们这么多零花钱是不对的。  
+ > 在她看来，给孩子们这么多零花钱是不对的。  （）  
 
 ### 3.*低义频：* **审判**  
 
@@ -621,18 +609,18 @@ Everyone thought he was j________, but in fact he was completely serious.
 英译 the ability to form opinions or to make sensible decisions：
 
  > He showed excellent judgement in choosing a friend.  
- > 他在择友方面表现出了敏锐的判断力。  
+ > 他在择友方面表现出了敏锐的判断力。  （）  
 
 ### 2.*高义频：* **意见；看法；评价**  
 英译 an opinion that you form after thinking carefully：
 
  > **make a judgement on / about**  
  > make a judgement on / about  
- > 对…作出评价  
+ > 对…作出评价  （）  
 
  > **In her judgment**  
  > In her judgment, it was a wrong thing to give children so much pocket money.   
- > 在她看来，给孩子们这么多零花钱是不对的。  
+ > 在她看来，给孩子们这么多零花钱是不对的。  （）  
 
 ### 3.*低义频：* **审判**  
 
@@ -660,21 +648,21 @@ Everyone thought he was j________, but in fact he was completely serious.
 
  > **jumped onto**  
  > The cat jumped onto her bed.  
- > 猫跳到了她的床上。  
+ > 猫跳到了她的床上。  （）  
 
  > His heart jumped at the news.  
- > 听到这个消息他心里咯噔了一下。  
+ > 听到这个消息他心里咯噔了一下。  （）  
 
 ### 2.*高义频：* **vt 跳过：**  
 
  > How can you jump those hurdles?  
- > 你如何才能跳过那些跨栏？  
+ > 你如何才能跳过那些跨栏？  （）  
 
 ### 3.*高义频：* **vi (话题等) 突然转换：**  
 
  > **jump from,to**  
  > jump from one subject to another  
- > 从一个话题跳到另一个话题  
+ > 从一个话题跳到另一个话题  （）  
 
 
 固定搭配
@@ -696,11 +684,11 @@ Everyone thought he was j________, but in fact he was completely serious.
 
  > **do / make a jump**  
  > do / make a jump into the ocean  
- > 朝海里一跳  
+ > 朝海里一跳  （）  
 
  > **high / long jump**  
  > the high / long jump   
- > 跳高/跳远  
+ > 跳高/跳远  （）  
 
 
 # ***\*jump*** vt
@@ -713,7 +701,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 ### 1.*高义频：* **跳过：**  
 
  > How can you jump those hurdles?  
- > 你如何才能跳过那些跨栏？  
+ > 你如何才能跳过那些跨栏？  （）  
 
 
 # ***\*junction*** n
@@ -728,7 +716,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 ### 1.*高义频：* **连接点；汇合处； 交叉口：**  
 
  > the T-junction   
- > 丁字路口  
+ > 丁字路口  （）  
 
 
 # ***\*jungle*** n
@@ -754,11 +742,11 @@ Everyone thought he was j________, but in fact he was completely serious.
 
  > **junior school**  
  > a junior school   
- > (英国7至11岁的孩子上的)小学  
+ > (英国7至11岁的孩子上的)小学  （）  
 
  > **junior to**  
  > She is 4 years junior to me.   
- > 她比我小四岁。  
+ > 她比我小四岁。  （）  
 
 
 # ***\*junior*** n
@@ -784,52 +772,51 @@ Everyone thought he was j________, but in fact he was completely serious.
 
  > **just then**  
  > just then / just at that time   
- > 就在那时  
+ > 就在那时  （）  
 
  > **just as,as_2**  
  > The summer here is just as hot as it is in my hometown.  
- > 这里的夏天和我家乡的夏天一样热。  
+ > 这里的夏天和我家乡的夏天一样热。  （）  
 
  > **just about to,when**  
  > He was just about to go out when it began to rain.  
- > 他刚要出去，天就下起了雨。  
+ > 他刚要出去，天就下起了雨。  （）  
 
  > **just have to**  
  > You just have to accept things and get on with your life.  
- > 你只好接受这些事情，继续你的生活。  
- > 来源：2008 山东  
+ > 你只好接受这些事情，继续你的生活。  （2008 山东）  
 
 ### 2.*高义频：* **刚刚；刚才：**  
 
  > — Where is Eric?   
- > 艾瑞克在哪儿？  
+ > 艾瑞克在哪儿？  （）  
 
  > — He has just gone / just went out.  
- > 他刚刚出去/刚才出去了。  
+ > 他刚刚出去/刚才出去了。  （）  
 
 ### 3.*高义频：* **只是；仅仅 (only / simply)：**  
 
  > **just a minute / moment / second**  
  > just a minute / moment / second   
- > 等一会儿  
+ > 等一会儿  （）  
 
  > **just for fun**  
  > I decided to learn French, just for fun.   
- > 我决定学习法语，只是为了消遣。  
+ > 我决定学习法语，只是为了消遣。  （）  
 
  > **Just because,it does not mean**  
  > Just because a subject is difficult to learn, it does not mean you are not good at it.  
- > 不要因为某一科目难学，就认为你学不好。  
+ > 不要因为某一科目难学，就认为你学不好。  （）  
 
 ### 4.*低义频：* **非常；真正：**  
 
  > The chocolate is just wonderful.   
- > 巧克力非常好吃。  
+ > 巧克力非常好吃。  （）  
 
 ### 5.*低义频：* **请；尽管：**  
 
  > Anytime you want me, just send for me.   
- > 无论什么时候需要，只管派人来叫我。  
+ > 无论什么时候需要，只管派人来叫我。  （）  
 
 
 固定搭配
@@ -838,28 +825,21 @@ Everyone thought he was j________, but in fact he was completely serious.
 1.**几乎；差不多：**  
 
  > Some people will do just about anything to save money.  
- > 为了省钱，有的人几乎愿意做任何事情。  
- > 来源：2013 全国  
+ > 为了省钱，有的人几乎愿意做任何事情。  （2013 全国）  
 
 
 真题解析
 ---
-##### 题目  
-________ (正如) a single word can change the meaning of a sentence, a single sentence can change the meaning of a paragraph.  
-##### 来源：2015 浙江改  
-##### 答案 Just as  
-  
-##### 题目  
-If you can't come tomorrow, we'll ________ have to hold the meeting next week. 
-  
+1. ________ (正如) a single word can change the meaning of a sentence, a single sentence can change the meaning of a paragraph.  （2015 浙江改）  
+2. If you can't come tomorrow, we'll ________ have to hold the meeting next week. 
+  （2004 全国）  
 A.yet  
 B.even  
 C.rather  
 D.just  
-##### 来源：2004 全国  
-##### 答案 D  
-  
 
+答案：
+1. Just as  2. D  
 # ***\*just*** adj
 英音 dʒʌst     美音 dʒʌst  
 
@@ -870,7 +850,7 @@ D.just
 ### 1.*高义频：* **公正的；正直的；正义的 (fair)：**  
 
  > a just man  
- > 正直的人  
+ > 正直的人  （）  
 
 
 # ***\*justice*** n
@@ -886,15 +866,15 @@ D.just
 反义词 injustice 
 
  > a strong sense of justice   
- > 强烈的正义感  
+ > 强烈的正义感  （）  
 
  > treat sb with justice   
- > 公平对待某人  
+ > 公平对待某人  （）  
 
 ### 2.*高义频：* **法律制裁；司法：**  
 
  > Justice has long arms.   
- > 天网恢恢，疏而不漏。  
+ > 天网恢恢，疏而不漏。  （）  
 
 
 # ***\*justifiably*** adv
@@ -917,6 +897,6 @@ D.just
 ### 1.*高义频：* **证明...正当 / 有理；为...辩护；对...作出解释：**  
 
  > How can we justify spending so much money on dinner?   
- > 我们怎么解释花这么多钱吃饭呢？  
+ > 我们怎么解释花这么多钱吃饭呢？  （）  
 
 

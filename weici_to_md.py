@@ -63,8 +63,7 @@ def gy_example(t): #18417
             b=b[:-1]
         print(' > **'+b+'**  ',file=f)
     print(' > '+t['english']+'  ',file=f)
-    print(' > '+t['chinese']+'  ',file=f)
-    if t['source']!='' : print(' > 来源：'+t['source']+'  ',file=f)
+    print(' > '+t['chinese']+'  （'+t['source']+'）  ',file=f)
     print(file=f)
     
 def gy_notes(t): #16597
@@ -109,16 +108,15 @@ def gy_derivative(t): #10112
         for exam in t['gy_fixed_collocation']:
             gy_fixed_collocation(exam)  
            
-def gy_exam_link(exam): #10112
-    print('##### 题目  ',file=f)
-    print(exam['subject']+'  ',file=f)
-    if exam['answer_a']!='' :print('A.'+exam['answer_a']+'  ',file=f)
-    if exam['answer_b']!='' :print('B.'+exam['answer_b']+'  ',file=f)
-    if exam['answer_c']!='' :print('C.'+exam['answer_c']+'  ',file=f)
-    if exam['answer_d']!='' :print('D.'+exam['answer_d']+'  ',file=f)
-    if exam['source']!='' : print('##### 来源：'+exam['source']+'  ',file=f)
-    print('##### 答案 '+ exam['answer']+'  ',file=f)
-    print('  ',file=f)
+def gy_exam_link(exam,case): #10112
+    if case=='q':
+        print(exam['subject']+'  （'+exam['source']+'）  ',file=f)
+        if exam['answer_a']!='' :print('A.'+exam['answer_a']+'  ',file=f)
+        if exam['answer_b']!='' :print('B.'+exam['answer_b']+'  ',file=f)
+        if exam['answer_c']!='' :print('C.'+exam['answer_c']+'  ',file=f)
+        if exam['answer_d']!='' :print('D.'+exam['answer_d']+'  ',file=f)
+    if case=='a':
+        print(exam['answer'],end='  ',file=f)
     
 def chuli(t):
     a=json.loads(t)
@@ -184,8 +182,18 @@ def chuli(t):
     if a['gy_exam_link']!=[]:
         print('真题解析',file=f)
         print('---',file=f)  
+        i=1
         for exam in a['gy_exam_link']:
-            gy_exam_link(exam)           
+            print(str(i)+'. ',end='',file=f)
+            gy_exam_link(exam,'q')
+            i=i+1
+        print(file=f)
+        i=1
+        print('答案：',file=f)
+        for exam in a['gy_exam_link']:
+            print(str(i)+'. ',end='',file=f)
+            gy_exam_link(exam,'a')
+            i=i+1            
         print(file=f)            
          
 # 欢迎文字
@@ -203,7 +211,7 @@ c = conn.cursor()
 
 #保存位置
 path_save = input('请输入保存位置：\n')
-if path_save=='':path_save = r'C:\Users\Administrator\Desktop\victory'
+if path_save=='':path_save = r'C:\Users\Administrator\Desktop\weici\docs\md'
 print('注意：文件将存到%s' % path_save)
 if not os.path.exists(path_save):
     os.makedirs(path_save)
