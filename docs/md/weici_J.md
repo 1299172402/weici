@@ -297,7 +297,8 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 固定搭配
 ---
-## \*join in  1.**参加 (比赛、活动等)：**  
+## \*join in
+1.**参加 (比赛、活动等)：**  
 
  > Be prepared to join in a class discussion.   
  > 做好准备加入课堂讨论。  
@@ -393,7 +394,8 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 固定搭配
 ---
-## \*play a joke / jokes on   1.**戏弄；拿…开玩笑：**  
+## \*play a joke / jokes on 
+1.**戏弄；拿…开玩笑：**  
 
  > They decided to play a joke on their father by hiding his glasses.   
  > 他们决定把父亲的眼镜藏起来和他开个玩笑。  
@@ -403,7 +405,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 ---
 ##### 题目  
 Everyone thought he was j________, but in fact he was completely serious.  
-来源：2006 浙江  
+##### 来源：2006 浙江  
 ##### 答案 joking  
   
 
@@ -677,7 +679,8 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 固定搭配
 ---
-## \*jump at sth  1.**迫不及待地接受某事物；欣然接受某事物**  
+## \*jump at sth
+1.**迫不及待地接受某事物；欣然接受某事物**  
 
 
 # ***\*jump*** n
@@ -831,7 +834,8 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 固定搭配
 ---
-## \*just about   1.**几乎；差不多：**  
+## \*just about 
+1.**几乎；差不多：**  
 
  > Some people will do just about anything to save money.  
  > 为了省钱，有的人几乎愿意做任何事情。  
@@ -842,7 +846,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 ---
 ##### 题目  
 ________ (正如) a single word can change the meaning of a sentence, a single sentence can change the meaning of a paragraph.  
-来源：2015 浙江改  
+##### 来源：2015 浙江改  
 ##### 答案 Just as  
   
 ##### 题目  
@@ -852,7 +856,7 @@ A.yet
 B.even  
 C.rather  
 D.just  
-来源：2004 全国  
+##### 来源：2004 全国  
 ##### 答案 D  
   
 

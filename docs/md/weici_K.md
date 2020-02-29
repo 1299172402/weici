@@ -144,24 +144,28 @@
 
 固定搭配
 ---
-## \*keep (on) doing sth   1.**持续做某事；反复做某事：**  
+## \*keep (on) doing sth 
+1.**持续做某事；反复做某事：**  
 
  > She pretended not to hear, and kept on walking.  
  > 她假装没听见，继续往前走。  
  > 来源：2008 山东  
 
-## \*keep ... from doing sth  1.**阻止…做某事：**  
+## \*keep ... from doing sth
+1.**阻止…做某事：**  
 
  > We must keep them from getting to know our plans.  
  > 一定不要让他们知道我们的计划。  
 
-## \*keep going   1.**尽力维持下去；坚持 (活) 下去：**  
+## \*keep going 
+1.**尽力维持下去；坚持 (活) 下去：**  
 
  > I don't like the thought of giving it up and will try to keep going forever.  
  > 我不喜欢放弃的想法，我会尽力永远坚持下去。  
  > 来源：2013 四川  
 
-## \*keep off   1.**避开；(使) 不接近：**  
+## \*keep off 
+1.**避开；(使) 不接近：**  
 
  > We had to think of a way to keep off the rain.   
  > 我们得想个办法避雨。  
@@ -172,7 +176,8 @@
  > The notice said "Keep off the grass" .  
  > 牌子上写着“请勿践踏草坪”。  
 
-## \*keep on   1.**继续下去**  
+## \*keep on 
+1.**继续下去**  
 英译 to continue：
 
  > I'm happy to just keep on until it is finished.  
@@ -182,12 +187,14 @@
  > The rain kept on for several days.   
  > 雨一连下了好几天。  
 
-## \*keep ... out (of)   1.**遮挡；使…不进入：**  
+## \*keep ... out (of) 
+1.**遮挡；使…不进入：**  
 
  > Please keep the dog out of the study.   
  > 别让这只狗进书房。  
 
-## \*keep to   1.**遵守；坚持 (stick to)：**  
+## \*keep to 
+1.**遵守；坚持 (stick to)：**  
 
  > I'm sorry but we have to keep to the timetable.  
  > 抱歉，我们得遵守时间安排。  
@@ -196,7 +203,8 @@
  > Whatever your argument, I shall keep to my decision.   
  > 不管你怎么争辩，我都将坚持自己的决定。  
 
-## \*keep up   1.**保持；继续 (continue)：**  
+## \*keep up 
+1.**保持；继续 (continue)：**  
 
  > Some senior high students chanted slogans to keep their spirits up before the big examination.  
  > 一些高中生在大考前喊口号以保持高昂的情绪。  
@@ -210,12 +218,14 @@
  > 如果你采取的这些措施奏效了，那就继续做下去。  
  > 来源：2017 全国  
 
-## \*keep sb up  1.**使某人熬夜：**  
+## \*keep sb up
+1.**使某人熬夜：**  
 
  > I hope I'm not keeping you up.  
  > 希望我没有耽误你睡觉。  
 
-## \*keep up with   1.**跟上：**  
+## \*keep up with 
+1.**跟上：**  
 
  > Jack has trouble keeping up with the rest of the class.  
  > 杰克很难跟上班里的其他同学。  
@@ -233,12 +243,12 @@ keeper /'kiːpə(r)/ n [C]
 ##### 题目  
 — I get at least half an hour of exercise almost every day.
 — Oh great! Keep it ________ .  
-来源：2014 安徽改  
+##### 来源：2014 安徽改  
 ##### 答案 up  
   
 ##### 题目  
 They use computers to keep the traffic ________ (run) smoothly.  
-来源：2009 全国改  
+##### 来源：2009 全国改  
 ##### 答案 running  
   
 ##### 题目  
@@ -248,12 +258,12 @@ A.keep
 B.fit  
 C.get  
 D.last  
-来源：2002 北京  
+##### 来源：2002 北京  
 ##### 答案 A  
   
 ##### 题目  
 Would you slow down a bit, please? I can't keep up ________ you.   
-来源：2001 京蒙皖春改  
+##### 来源：2001 京蒙皖春改  
 ##### 答案 with  
   
 
@@ -336,7 +346,7 @@ Would you slow down a bit, please? I can't keep up ________ you.
 ---
 ##### 题目  
 The key to ________ (overcome) this problem is to believe in yourself.  
-来源：2012 福建  
+##### 来源：2012 福建  
 ##### 答案 overcoming  
   
 
@@ -404,13 +414,15 @@ The key to ________ (overcome) this problem is to believe in yourself.
 
 固定搭配
 ---
-## \*kick the habit   1.**戒除恶习：**  
+## \*kick the habit 
+1.**戒除恶习：**  
 
  > Smokers have jammed telephone "quit lines" across the country seeking to kick the habit.  
  > 烟民已把全国的“戒烟热线”打爆了，他们都在寻求戒烟的办法。  
  > 来源：2009 山东  
 
-## \*kick off  1.**开始；进行：**  
+## \*kick off
+1.**开始；进行：**  
 
  > Beijing Arts Festival will kick off on April 27 and run through May 31.  
  > 北京艺术节将在4月27日开始，持续到5月31日。  
@@ -546,7 +558,8 @@ killing /'kɪlɪŋ/ n [C]
 
 固定搭配
 ---
-## \*a kind of   1.**…的一种；有几分；稍稍：**  
+## \*a kind of 
+1.**…的一种；有几分；稍稍：**  
 
  > An e-mail is usually a kind of informal letter.  
  > 电子邮件通常是一种非正式信件。  
@@ -555,7 +568,8 @@ killing /'kɪlɪŋ/ n [C]
  > I had a kind of feeling that this might happen.  
  > 我当时就隐约感觉到会出这事。  
 
-## \*kind of   1.**有点儿；有几分**  
+## \*kind of 
+1.**有点儿；有几分**  
 英译 slightly; in some ways：
 
  > I was kind of upset that you weren't there.  
@@ -584,7 +598,8 @@ killing /'kɪlɪŋ/ n [C]
 
 固定搭配
 ---
-## \*be so kind as to / be kind enough to   1.**请您费心：**  
+## \*be so kind as to / be kind enough to 
+1.**请您费心：**  
 
  > Will you be so kind as to shut the door?   
  > 请您关上门好吗？  
@@ -606,7 +621,7 @@ killing /'kɪlɪŋ/ n [C]
 ---
 ##### 题目  
 Callie will start  ________ ( 幼儿园) in September.   
-来源：2009 全国  
+##### 来源：2009 全国  
 ##### 答案 kindergarten  
   
 
@@ -687,7 +702,8 @@ Callie will start  ________ ( 幼儿园) in September.
 
 固定搭配
 ---
-## \*kiss sth goodbye / kiss goodbye to sth  1.**[非正式用语] 放弃某事物：**  
+## \*kiss sth goodbye / kiss goodbye to sth
+1.**[非正式用语] 放弃某事物：**  
 
  > I might as well kiss the scholarship goodbye.   
  > 我还是放弃奖学金算了。  
@@ -739,7 +755,7 @@ Callie will start  ________ ( 幼儿园) in September.
 ---
 ##### 题目  
 Mum is cooking in the k________ while Dad is watching TV.   
-来源：2008 浙江  
+##### 来源：2008 浙江  
 ##### 答案 kitchen  
   
 
@@ -852,12 +868,14 @@ Mum is cooking in the k________ while Dad is watching TV.
 
 固定搭配
 ---
-## \*knock at / on  1.**敲 (门、窗等)：**  
+## \*knock at / on
+1.**敲 (门、窗等)：**  
 
  > Knock at the door before entering, please.   
  > 进来之前请敲门。  
 
-## \*knock down  1.*高义频：* **击倒；撞倒：**  
+## \*knock down
+1.*高义频：* **击倒；撞倒：**  
 
  > I was almost knocked down by a cyclist riding on the pavement.  
  > 我差点儿被一个在人行道上骑自行车的人撞倒。  
@@ -868,17 +886,20 @@ Mum is cooking in the k________ while Dad is watching TV.
  > These old buildings will sooner or later be knocked down.   
  > 这些老房子迟早得拆掉。  
 
-## \*knock into   1.**撞在…上：**  
+## \*knock into 
+1.**撞在…上：**  
 
  > He was in such a hurry that he almost knocked into me.   
  > 他如此匆忙，差点儿撞到我身上。  
 
-## \*knock off   1.**[非正式用语] (从价格等中) 减去：**  
+## \*knock off 
+1.**[非正式用语] (从价格等中) 减去：**  
 
  > If you buy more than ten, they knock 20 pence off the price.   
  > 如果买10个以上的话，他们会便宜20便士。  
 
-## \*knock over   1.**撞倒；打翻：**  
+## \*knock over 
+1.**撞倒；打翻：**  
 
  > Roy’s father was knocked over by a car.   
  > 罗伊的爸爸被车撞倒了。  
@@ -963,7 +984,8 @@ Mum is cooking in the k________ while Dad is watching TV.
 
 固定搭配
 ---
-## \*be known as   1.**以…而出名；被称作；被认为：**  
+## \*be known as 
+1.**以…而出名；被称作；被认为：**  
 
  > Detroit was known as the automobile capital of the world.   
  > 底特律曾被认为是世界汽车之都。  
@@ -971,17 +993,20 @@ Mum is cooking in the k________ while Dad is watching TV.
  > Today he is well known as a writer.   
  > 如今他是一个很有名气的作家。  
 
-## \*be known for   1.**因…而闻名 (be famous for)：**  
+## \*be known for 
+1.**因…而闻名 (be famous for)：**  
 
  > Guilin is known for its beautiful scenery.   
  > 桂林因风景秀丽而闻名。  
 
-## \*be known to   1.**为…所熟知：**  
+## \*be known to 
+1.**为…所熟知：**  
 
  > As is known to everybody, the moon travels round the earth once every month.   
  > 众所周知，月球每月绕地球一圈。  
 
-## \*know about   1.**了解；知道…的情况：**  
+## \*know about 
+1.**了解；知道…的情况：**  
 
  > I happened to know about him.   
  > 我恰好了解他的一些情况。  
@@ -990,7 +1015,8 @@ Mum is cooking in the k________ while Dad is watching TV.
  > I don't know about you, but I'm ready for something to eat.  
  > 我不知道你怎么办，反正我要吃点东西。  
 
-## \*know of   1.**知道；听说：**  
+## \*know of 
+1.**知道；听说：**  
 
  > I don't know him, but I know of him.  
  > 我不认识他，但听说过他。  
@@ -1028,14 +1054,15 @@ Notes: “学到知识”不说learn / get knowledge，而说 gain / obtain / ac
 
 固定搭配
 ---
-## \*to (the best of) sb's knowledge  1.**据某人所知**  
+## \*to (the best of) sb's knowledge
+1.**据某人所知**  
 
 
 真题解析
 ---
 ##### 题目  
 If we go on a trip abroad, we can broaden our view and gain knowledges we cannot get from books.  
-来源：2016 全国 改错  
+##### 来源：2016 全国 改错  
 ##### 答案 knowledges → knowledge  
   
 

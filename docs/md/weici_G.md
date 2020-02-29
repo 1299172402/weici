@@ -78,7 +78,8 @@
 
 固定搭配
 ---
-## \*gain ground  1.**变得更强大 / 更成功 / 更有效；逼近**  
+## \*gain ground
+1.**变得更强大 / 更成功 / 更有效；逼近**  
 
 
 # ***\*gain*** n
@@ -542,7 +543,8 @@ gathering /'ɡæðərɪŋ/ n [C]
 
 固定搭配
 ---
-## \*in general  1.*高义频：* **一般地；大体上**  
+## \*in general
+1.*高义频：* **一般地；大体上**  
 英译 usually：
 
  > In most cultures the smile is in general an expression of pleasure.  
@@ -560,7 +562,7 @@ gathering /'ɡæðərɪŋ/ n [C]
 ---
 ##### 题目  
 ____________ general, the northerners are keen on dumplings while the southerners are fond of rice.  
-来源：2003 上海春改  
+##### 来源：2003 上海春改  
 ##### 答案 In  
   
 
@@ -606,7 +608,8 @@ ____________ general, the northerners are keen on dumplings while the southerner
 
 固定搭配
 ---
-## \*generally speaking  1.**一般说来：**  
+## \*generally speaking
+1.**一般说来：**  
 
  > Generally speaking, the more you pay, the more you get.  
  > 一般来说，付出的越多，得到的越多。  
@@ -616,7 +619,7 @@ ____________ general, the northerners are keen on dumplings while the southerner
 ---
 ##### 题目  
 ________ (一般来说), the more expensive the camera, the better its quality.  
-来源：2005全国改  
+##### 来源：2005全国改  
 ##### 答案 Generally speaking / In general  
   
 
@@ -712,7 +715,7 @@ generously /'dʒenərəsli/ adv
 ---
 ##### 题目  
 He didn't selfishly keep for himself the money inherited from his uncle. Instead, he made a(n) __________ (慷慨的) contribution to help the community.  
-来源：2013 湖北改  
+##### 来源：2013 湖北改  
 ##### 答案 generous  
   
 
@@ -861,7 +864,7 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
 ---
 ##### 题目  
 In _________ (地理) lessons we learn about countries and people in them.  
-来源：2006 陕西  
+##### 来源：2006 陕西  
 ##### 答案 geography  
   
 
@@ -1055,7 +1058,7 @@ In _________ (地理) lessons we learn about countries and people in them.
 ---
 ##### 题目  
 1.Before driving into the city, you are required to get your car  _________ (wash).  
-来源：2012 四川改  
+##### 来源：2012 四川改  
 ##### 答案 washed  
   
 
@@ -1116,9 +1119,11 @@ In _________ (地理) lessons we learn about countries and people in them.
 
 固定搭配
 ---
-## \*get about  1.**四处走动；(消息等) 传开 (get around / round)**  
+## \*get about
+1.**四处走动；(消息等) 传开 (get around / round)**  
 
-## \*get across  1.**(使) 通过；(使) 被理解；(把…) 讲清楚：**  
+## \*get across
+1.**(使) 通过；(使) 被理解；(把…) 讲清楚：**  
 
  > Traffic lights turned red before they could get across the street.  
  > 还没等他们穿过马路，交通灯就变红了。  
@@ -1130,7 +1135,8 @@ In _________ (地理) lessons we learn about countries and people in them.
  > 很难讲清楚这次旅行多么激动人心！  
  > 来源：北师大③ – 8  
 
-## \*get along / on ( with )  1.
+## \*get along / on ( with )
+1.
  > We can't get along without your help.  
  > 没有你的帮助，我们无法生活。  
 
@@ -1141,7 +1147,8 @@ In _________ (地理) lessons we learn about countries and people in them.
  > How are you getting along / on with your essay?  
  > 你的论文写得怎么样了？  
 
-## \*get around / round  1.*高义频：* **出行；走动 (get about)：**  
+## \*get around / round
+1.*高义频：* **出行；走动 (get about)：**  
 
  > Public transport provides a cheap way to get around in Beijing.  
  > 在北京，公共交通为人们的出行提供了便宜的方式。  
@@ -1158,7 +1165,8 @@ In _________ (地理) lessons we learn about countries and people in them.
  > 他怎样能解决他的问题呢？  
  > 来源：2014 全国  
 
-## \*get at  1.*高义频：* **到达；够着**  
+## \*get at
+1.*高义频：* **到达；够着**  
 英译 to reach sb / sth：
 
  > You'd better not leave the medicine where kids can get at it.  
@@ -1175,7 +1183,8 @@ In _________ (地理) lessons we learn about countries and people in them.
  > He felt he was being got at by the other students.  
  > 他觉得自己老是被其他同学挖苦。  
 
-## \*get away (from)  1.**离开；外出度假；摆脱：**  
+## \*get away (from)
+1.**离开；外出度假；摆脱：**  
 
  > I won't be able to get away from the office before 7.  
  > 7点前我不能离开办公室。  
@@ -1186,7 +1195,8 @@ In _________ (地理) lessons we learn about countries and people in them.
  > I needed to get away from the pressures of work.  
  > 我需要排遣工作的压力。  
 
-## \*get away with  1.**偷走；做 (坏事) 而未受到惩罚：**  
+## \*get away with
+1.**偷走；做 (坏事) 而未受到惩罚：**  
 
  > Thieves got away with gold jewellery worth $60,000.  
  > 盗贼偷走了价值6万美元的黄金首饰。  
@@ -1195,7 +1205,8 @@ In _________ (地理) lessons we learn about countries and people in them.
  > 你认为凶手应该逍遥法外吗？  
  > 来源：2012 辽宁  
 
-## \*get back  1.**回来；恢复；取回；拿回：**  
+## \*get back
+1.**回来；恢复；取回；拿回：**  
 
  > **got back to**  
  > He got back to the office just before lunchtime.  
@@ -1218,7 +1229,8 @@ In _________ (地理) lessons we learn about countries and people in them.
  > Can I borrow this book? You'll get it back next week, I promise.  
  > 我能借这本书吗？我保证你下周就能拿回去。  
 
-## \*get by  1.**通过；勉强应付；设法过活：**  
+## \*get by
+1.**通过；勉强应付；设法过活：**  
 
  > I moved aside to let him get by.  
  > 我站到一边,让他过去。  
@@ -1231,7 +1243,8 @@ In _________ (地理) lessons we learn about countries and people in them.
  > How does she get by on such a small salary?  
  > 她靠这点儿微薄的薪水怎么过活？  
 
-## \*get down  1.**(从…) 下来；吞下；写下；使沮丧：**  
+## \*get down
+1.**(从…) 下来；吞下；写下；使沮丧：**  
 
  > Get down from the horse at once!  
  > 立刻从马上下来！  
@@ -1245,13 +1258,15 @@ In _________ (地理) lessons we learn about countries and people in them.
  > The continual wet weather is getting me down.  
  > 持续的雨天真让我沮丧。  
 
-## \*get down to  1.**开始做；开始认真对待：**  
+## \*get down to
+1.**开始做；开始认真对待：**  
 
  > **got down to business**  
  > It's time we got down to business.  
  > 我们该开始干正事了。  
 
-## \*get in  1.**进入；到达；把…收进来；收割；插 (话)：**  
+## \*get in
+1.**进入；到达；把…收进来；收割；插 (话)：**  
 
  > A car stopped before him and he got in.  
  > 一辆小汽车停在面前，他上了车。  
@@ -1265,7 +1280,8 @@ In _________ (地理) lessons we learn about countries and people in them.
  > She talks so much that it's impossible to get a word in.  
  > 她说起话来滔滔不绝，让人一句话都插不进去。  
 
-## \*get into  1.**进入；陷入；被录取；染上 (习惯) ：**  
+## \*get into
+1.**进入；陷入；被录取；染上 (习惯) ：**  
 
  > get into trouble  
  > 陷入麻烦  
@@ -1280,7 +1296,8 @@ In _________ (地理) lessons we learn about countries and people in them.
  > Many homeless people get into the habit of begging to get enough money to stay alive.  
  > 许多无家可归的人开始有了乞讨的习惯以得到足够的钱活下去。  
 
-## \*get off  1.**下车；脱下 (衣服等)：**  
+## \*get off
+1.**下车；脱下 (衣服等)：**  
 
  > Sue got off the train.  
  > 苏下了火车。  
@@ -1288,7 +1305,8 @@ In _________ (地理) lessons we learn about countries and people in them.
  > Get your wet clothes off.  
  > 把湿衣服脱下来吧。  
 
-## \*get on  1.**上车 / 马；穿上：**  
+## \*get on
+1.**上车 / 马；穿上：**  
 
  > get on a horse  
  > 上马  
@@ -1296,7 +1314,8 @@ In _________ (地理) lessons we learn about countries and people in them.
  > Get on your rubbers; we have to go out in the rain.  
  > 穿上你的胶鞋，我们得冒雨出去。  
 
-## \*get out (of)  1.**(使) 出去；离开；逃脱；摆脱；放弃：**  
+## \*get out (of)
+1.**(使) 出去；离开；逃脱；摆脱；放弃：**  
 
  > He decided to get out while there was still time.  
  > 他决定趁还有点儿时间出去一趟。  
@@ -1308,7 +1327,8 @@ In _________ (地理) lessons we learn about countries and people in them.
  > 他们努力改掉坏习惯。  
  > 来源：2013 辽宁改  
 
-## \*get over  1.**越过 (墙等)；克服 (困难、偏见等) (overcome)；从 (疾病、损失等) 中恢复过来：**  
+## \*get over
+1.**越过 (墙等)；克服 (困难、偏见等) (overcome)；从 (疾病、损失等) 中恢复过来：**  
 
  > I don't know how we are going to get over these difficulties.  
  > 我不知道我们怎样才能克服这些困难。  
@@ -1316,7 +1336,8 @@ In _________ (地理) lessons we learn about countries and people in them.
  > We are certain that he will get over his illness.  
  > 我们相信他一定会战胜疾病。  
 
-## \*get through  1.**到达；办完；(使) 通过；(使) 熬过；(打电话时) 打通：**  
+## \*get through
+1.**到达；办完；(使) 通过；(使) 熬过；(打电话时) 打通：**  
 
  > get through (with) one's work  
  > 完成工作  
@@ -1332,7 +1353,8 @@ In _________ (地理) lessons we learn about countries and people in them.
  > 我试过打她办公室电话，但没打通。  
  > 来源：2009 全国  
 
-## \*get to  1.**到达；接触到；开始；着手处理：**  
+## \*get to
+1.**到达；接触到；开始；着手处理：**  
 
  > When it gets to ten o'clock I begin to feel tired.  
  > 到10点钟的时候，我开始觉得累了。  
@@ -1340,7 +1362,8 @@ In _________ (地理) lessons we learn about countries and people in them.
  > Let's get to our work now.  
  > 我们现在开始工作吧。  
 
-## \*get together  1.**聚集；相聚；收集；召集：**  
+## \*get together
+1.**聚集；相聚；收集；召集：**  
 
  > When can we get together?  
  > 我们何时能相聚？  
@@ -1348,7 +1371,8 @@ In _________ (地理) lessons we learn about countries and people in them.
  > I'm trying to get a team together for Saturday.  
  > 我正设法召集一帮人一起过周六呢。  
 
-## \*get up  1.**(使) 起床；(使) 起立(rise)：**  
+## \*get up
+1.**(使) 起床；(使) 起立(rise)：**  
 
  > I'm not used to getting up early.  
  > 我不习惯早起。  
@@ -1361,47 +1385,47 @@ In _________ (地理) lessons we learn about countries and people in them.
 ---
 ##### 题目  
 I've been trying to phone Charles all evening, but there must be something wrong with the network; I can't seem to get ________.  
-来源：2014 湖北改  
+##### 来源：2014 湖北改  
 ##### 答案 through  
   
 ##### 题目  
 Anyway, we're here now, so let's get down________ some serious work.  
-来源：2014 江西改  
+##### 来源：2014 江西改  
 ##### 答案 down to  
   
 ##### 题目  
 I had hoped to take a holiday this year but I wasn't able to __________(外出度假).  
-来源：2013 天津改  
+##### 来源：2013 天津改  
 ##### 答案 get away  
   
 ##### 题目  
 Team leaders must ensure that all members __________ (克服) their natural desire to avoid the embarrassment associated with making mistakes.  
-来源：2013 江苏改  
+##### 来源：2013 江苏改  
 ##### 答案 get over  
   
 ##### 题目  
 I've got __________ the habit of calling in on my grandparents on my way home from school.  
-来源：2012 江西改  
+##### 来源：2012 江西改  
 ##### 答案 into  
   
 ##### 题目  
 Before driving into the city, you are required to get your car________ (wash).  
-来源：2012 四川改  
+##### 来源：2012 四川改  
 ##### 答案 washed  
   
 ##### 题目  
 After that, he knew he could get________ any emergency by doing what he could to the best of his ability.  
-来源：2010 浙江改  
+##### 来源：2010 浙江改  
 ##### 答案 through  
   
 ##### 题目  
 It's going to rain. Xiao Feng, will you please help me get ________the clothes on the line?  
-来源：2008 陕西改  
+##### 来源：2008 陕西改  
 ##### 答案 in  
   
 ##### 题目  
 I used to quarrel a lot with my parents, but now we get ________fine.  
-来源：2008 四川改  
+##### 来源：2008 四川改  
 ##### 答案 along / on  
   
 
@@ -1647,7 +1671,8 @@ I used to quarrel a lot with my parents, but now we get ________fine.
 
 固定搭配
 ---
-## \*give (...) away  1.*高义频：* **送掉；分发 (奖品等)：**  
+## \*give (...) away
+1.*高义频：* **送掉；分发 (奖品等)：**  
 
  > The Students' Union called on us to give away our used books to the students in the lower grades.  
  > 学生会号召我们把用过的书送给低年级的学生。  
@@ -1670,7 +1695,8 @@ I used to quarrel a lot with my parents, but now we get ________fine.
  > His accent gives him away as a southerner.  
  > 他的口音让人听出他是南方人。  
 
-## \*give back  1.**(归) 还；使返回；恢复：**  
+## \*give back
+1.**(归) 还；使返回；恢复：**  
 
  > **Give,back to**  
  > Give the book back to your brother.  
@@ -1679,7 +1705,8 @@ I used to quarrel a lot with my parents, but now we get ________fine.
  > The operation gave him back the use of his legs.  
  > 手术使他的双腿恢复了功能。  
 
-## \*give in  1.*高义频：* **屈服；让步：**  
+## \*give in
+1.*高义频：* **屈服；让步：**  
 
  > At first Robert wouldn't let his daughter go diving, but eventually he gave in.  
  > 起初罗伯特不让女儿潜水，但最后还是让步了。  
@@ -1694,7 +1721,8 @@ I used to quarrel a lot with my parents, but now we get ________fine.
  > Please give your work in before Monday.  
  > 请在星期一之前把作业交上来。  
 
-## \*give off  1.**发出 (气味、光、热等)：**  
+## \*give off
+1.**发出 (气味、光、热等)：**  
 
  > The flowers gave off a fragrant perfume.  
  > 花朵散发出芳香。  
@@ -1706,7 +1734,8 @@ I used to quarrel a lot with my parents, but now we get ________fine.
  > The stove gives off a lot of heat.  
  > 炉子散发出阵阵热气。  
 
-## \*give out  1.*高义频：* **分发 (hand out)；发出 (光、热、信号等)；公布：**  
+## \*give out
+1.*高义频：* **分发 (hand out)；发出 (光、热、信号等)；公布：**  
 
  > The teacher gave out the exam papers.  
  > 老师发了试卷。  
@@ -1726,7 +1755,8 @@ I used to quarrel a lot with my parents, but now we get ________fine.
  > 他筋疲力尽了。  
 
 Notes: give out意为“耗尽”时，不用于被动语态。  
-## \*give up  1.**让；放弃：**  
+## \*give up
+1.**让；放弃：**  
 
  > It is difficult to give up smoking.  
  > 戒烟可不容易。  
@@ -1739,7 +1769,8 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > He gave up his seat to a pregnant woman.  
  > 他把座位让给了一位孕妇。  
 
-## \*give up on  1.**对…不抱希望**  
+## \*give up on
+1.**对…不抱希望**  
 
 
 真题解析
@@ -1747,22 +1778,22 @@ Notes: give out意为“耗尽”时，不用于被动语态。
 ##### 题目  
 — Did you have difficulty finding Ann's house?
 — Not really. She ________ (give) us clear directions and we were able to find it easily.  
-来源：2015 北京改  
+##### 来源：2015 北京改  
 ##### 答案 gave / had given  
   
 ##### 题目  
 Body language can give ________ a lot about your mood, so standing with your arms folded can send out a signal that you are being defensive.  
-来源：2015 浙江改  
+##### 来源：2015 浙江改  
 ##### 答案 away  
   
 ##### 题目  
 The news of the mayor's coming to our school for a visit was given _________ on the radio yesterday.  
-来源：2007 福建改  
+##### 来源：2007 福建改  
 ##### 答案 out  
   
 ##### 题目  
 What shall we use for power when all the oil in the world has given__________ ?  
-来源：2005 山东改  
+##### 来源：2005 山东改  
 ##### 答案 out  
   
 
@@ -1781,7 +1812,8 @@ What shall we use for power when all the oil in the world has given__________ ?
 
 固定搭配
 ---
-## \*given that  1.**考虑到；如果：**  
+## \*given that
+1.**考虑到；如果：**  
 
  > Given that she is interested in children, I'm sure teaching is the right career for her.  
  > 考虑到她喜欢小孩子，我可以肯定教书是最适合她的职业。  
@@ -2223,7 +2255,8 @@ gladly /'ɡlædli/ adv
 
 固定搭配
 ---
-## \*(be) on the go  1.**忙个不停**  
+## \*(be) on the go
+1.**忙个不停**  
 
 
 # ***\*go*** vi  重难点词汇
@@ -2338,7 +2371,8 @@ Notes: go意为“变为”时，后接形容词作表语，通常表示情况�
 
 固定搭配
 ---
-## \*go about  1.**从事；忙于；开始做：**  
+## \*go about
+1.**从事；忙于；开始做：**  
 
  > The villagers were going about their business as usual.  
  > 村民们如往常一样忙着自己的事。  
@@ -2346,12 +2380,14 @@ Notes: go意为“变为”时，后接形容词作表语，通常表示情况�
  > If I decided to join the club, how do I go about it?  
  > 假如我决定加入这个俱乐部，要做些什么呢？  
 
-## \*go after  1.**追赶；追求；谋求：**  
+## \*go after
+1.**追赶；追求；谋求：**  
 
  > We're both going after the same job.  
  > 我们俩都在谋求同一份工作。  
 
-## \*go against  1.**违反；违背；不利于：**  
+## \*go against
+1.**违反；违背；不利于：**  
 
  > Jason was determined not to go against his father's wishes.  
  > 杰森决定不违背父亲的心愿。  
@@ -2360,7 +2396,8 @@ Notes: go意为“变为”时，后接形容词作表语，通常表示情况�
  > The contest is going against the blue team.  
  > 比赛对蓝队越来越不利了。  
 
-## \*go ahead  1.*高义频：* **前进；先走**  
+## \*go ahead
+1.*高义频：* **前进；先走**  
 
 2.*高义频：* **(经过计划或允许后) 开始做：**  
 
@@ -2378,7 +2415,8 @@ Notes: go意为“变为”时，后接形容词作表语，通常表示情况�
  > 好的，问吧。  
  > 来源：2008 广东  
 
-## \*go away  1.**走开；离开；外出 (度假)；消失：**  
+## \*go away
+1.**走开；离开；外出 (度假)；消失：**  
 
  > Don't go away until I come back.  
  > 我回来你再走。  
@@ -2390,7 +2428,8 @@ Notes: go意为“变为”时，后接形容词作表语，通常表示情况�
  > 记住，压力肯定会消失，特别是当你弄清楚问题所在并着手解决时。  
  > 来源：2012 全国  
 
-## \*go back (to)  1.**回到；追溯到；回忆起：**  
+## \*go back (to)
+1.**回到；追溯到；回忆起：**  
 
  > **no going back**  
  > Once you have made this decision, there will be no going back.  
@@ -2403,13 +2442,15 @@ Notes: go意为“变为”时，后接形容词作表语，通常表示情况�
  > My mind went back to the year 1978.  
  > 我回忆起了1978年的往事。  
 
-## \*go by  1.**走过；流逝；过去：**  
+## \*go by
+1.**走过；流逝；过去：**  
 
  > **as time goes by**  
  > Everything will get easier as time goes by.  
  > 随着时间的推移，一切都会好起来的。  
 
-## \*go down  1.*低义频：* **下去：**  
+## \*go down
+1.*低义频：* **下去：**  
 
  > Let's go down by lift.  
  > 我们乘电梯下去吧。  
@@ -2434,7 +2475,8 @@ Notes: go意为“变为”时，后接形容词作表语，通常表示情况�
  > 自2007年以来，青壮年手表的销售额一直在下降。  
  > 来源：2008 湖北  
 
-## \*go for  1.*低义频：* **为...去；努力获取：**  
+## \*go for
+1.*低义频：* **为...去；努力获取：**  
 
  > He has gone for some milk / a doctor.  
  > 他买牛奶/请医生去了。  
@@ -2452,12 +2494,14 @@ Notes: go意为“变为”时，后接形容词作表语，通常表示情况�
  > What he said about you goes for me too.  
  > 他说的关于你的一席话对我也适用。  
 
-## \*go in for  1.**参加；从事；对…有兴趣：**  
+## \*go in for
+1.**参加；从事；对…有兴趣：**  
 
  > She doesn't go in for team games.  
  > 她对团体比赛不感兴趣。  
 
-## \*go into  1.*高义频：* **撞在...上：**  
+## \*go into
+1.*高义频：* **撞在...上：**  
 
  > The car went into a tree in the street.  
  > 车撞在了街上的一棵树上。  
@@ -2475,7 +2519,8 @@ Notes: go意为“变为”时，后接形容词作表语，通常表示情况�
  > We need to go into the question of costs.  
  > 我们需要研究一下费用问题。  
 
-## \*go off  1.*低义频：* **离开：**  
+## \*go off
+1.*低义频：* **离开：**  
 
  > Don't go off without saying good-bye.  
  > 不要不辞而别。  
@@ -2501,7 +2546,8 @@ Notes: go意为“变为”时，后接形容词作表语，通常表示情况�
  > The pain will go off.  
  > 疼痛将会消失。  
 
-## \*go on  1.*高义频：* **发生；进行**  
+## \*go on
+1.*高义频：* **发生；进行**  
 英译 to happen：
 
  > **What is going on**  
@@ -2537,7 +2583,8 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > The light went on.  
  > 灯亮了。  
 
-## \*go out  1.**外出；(灯火等) 熄灭：**  
+## \*go out
+1.**外出；(灯火等) 熄灭：**  
 
  > Perhaps we could go out to do some sightseeing together.  
  > 也许我们可以一起出去看看风景。  
@@ -2548,7 +2595,8 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
 #### 辨析 go out, put out
 二者都和“熄灭”有关。  
 
-## \*go over  1.**从一处到 (另一处)；仔细检查；温习：**  
+## \*go over
+1.**从一处到 (另一处)；仔细检查；温习：**  
 
  > We went over to the flower seller and asked her if we could buy a flower.  
  > 我们到卖花的人身边，问她我们能不能买朵花。  
@@ -2560,7 +2608,8 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > I've got to go over my notes for tomorrow's exam.  
  > 我必须复习笔记准备明天的考试。  
 
-## \*go round / around  1.**四处走动；(疾病、消息等)流传：**  
+## \*go round / around
+1.**四处走动；(疾病、消息等)流传：**  
 
  > She often goes around barefoot.   
  > 她常常光着脚到处跑。  
@@ -2568,7 +2617,8 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > The infection went round the whole city.  
  > 这种传染病传遍了全城。  
 
-## \*go through  1.*高义频：* **穿过：**  
+## \*go through
+1.*高义频：* **穿过：**  
 
  > It took them an entire day to go through the forest.  
  > 他们花了整整一天时间才走出那片森林。  
@@ -2591,18 +2641,21 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > It is said that the new school rule didn't go through.  
  > 据说新校规没有被通过。  
 
-## \*go through with  1.**将…进行到底：**  
+## \*go through with
+1.**将…进行到底：**  
 
  > I had no choice but to go through with it.  
  > 我没有选择，只有坚持到底。  
 
-## \*go to  1.**由…获得；被授予：**  
+## \*go to
+1.**由…获得；被授予：**  
 
  > As the ceremony was nearing the end, the headmaster announced the highest honor went to my daughter.  
  > 典礼快要结束时，校长宣布把最高荣誉奖授予我的女儿。  
  > 来源：2016 天津改  
 
-## \*go up  1.*高义频：* **(温度、价格等) 增长 (rise)**  
+## \*go up
+1.*高义频：* **(温度、价格等) 增长 (rise)**  
 反义词 go down ： 
 
  > The price of homes goes up and people from the area cannot afford to buy a house there.   
@@ -2614,7 +2667,8 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > New buildings are going up everywhere.   
  > 到处矗立起新楼。  
 
-## \*go with  1.**陪…一起去；与…相配 (match)：**  
+## \*go with
+1.**陪…一起去；与…相配 (match)：**  
 
  > May I go with you?   
  > 我可以和你一起去吗？  
@@ -2622,7 +2676,8 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > Do you think this hat would go with my new coat?  
  > 你觉得这顶帽子和我的新外套相配吗？  
 
-## \*go without  1.**没有…也行：**  
+## \*go without
+1.**没有…也行：**  
 
  > People cannot live without water and neither agriculture nor industry can go without it.  
  > 人活着离不开水，而且农业和工业也离不开水。  
@@ -2632,7 +2687,8 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > It goes without saying ( that ) health is above wealth.  
  > 健康胜于财富，这是不言而喻的。  
 
-## \*go wrong   1.**出毛病；失败：**  
+## \*go wrong 
+1.**出毛病；失败：**  
 
  > Something has gone wrong with the radio.   
  > 这台收音机出毛病了。  
@@ -2642,28 +2698,28 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
 ---
 ##### 题目  
 My connection with pandas goes back ________ my days on a TV show in the mid-1980s.  
-来源：2016 全国  
+##### 来源：2016 全国  
 ##### 答案 to  
   
 ##### 题目  
 After receiving the Oscar for Best Supporting Actress, Anne Benedict went on ________ (thank) all the people who had helped in her career.  
-来源：2015 陕西改  
+##### 来源：2015 陕西改  
 ##### 答案 to thank  
   
 ##### 题目  
  — Could I use this dictionary?  
  — Just________ (用吧). It's a spare one.  
-来源：2014 江西改  
+##### 来源：2014 江西改  
 ##### 答案 go ahead  
   
 ##### 题目  
 To get a better grade, you should go _________ the notes again before the test.  
-来源：2011 四川改  
+##### 来源：2011 四川改  
 ##### 答案 over  
   
 ##### 题目  
 I don't go in ________ rock 'n' roll. It's much too noisy for my taste.  
-来源：2004 北京改  
+##### 来源：2004 北京改  
 ##### 答案 for  
   
 
@@ -2849,25 +2905,29 @@ I don't go in ________ rock 'n' roll. It's much too noisy for my taste.
 
 固定搭配
 ---
-## \*be no good  1.**没有用处：**  
+## \*be no good
+1.**没有用处：**  
 
  > **It is no good watching**  
  > It is no good watching so much television.  
  > 看这么多电视没什么用。  
 
-## \*do good (to)  1.**(对…) 有益：**  
+## \*do good (to)
+1.**(对…) 有益：**  
 
  > People believe that climbing can do good to health.  
  > 人们认为登山有益健康。  
  > 来源：2008 安徽  
 
-## \*do sb good  1.**对某人有好处：**  
+## \*do sb good
+1.**对某人有好处：**  
 
  > Thinking that way does you no good.  
  > 那样想对你没好处。  
  > 来源：2013 广东  
 
-## \*for good  1.**永远：**  
+## \*for good
+1.**永远：**  
 
  > The murderer will stay in prison for good.  
  > 那个谋杀犯将被终身监禁。  
@@ -3368,12 +3428,12 @@ graceful /'ɡreɪsfl/ adj
 ---
 ##### 题目  
 The girl used to be shy, but is ________ (gradual) getting active in group work and is more willing to express herself.   
-来源：2015 湖北改  
+##### 来源：2015 湖北改  
 ##### 答案 gradually  
   
 ##### 题目  
 You'll ________ (逐渐) get better at it — it's just a question of practice.  
-来源：2011 全国  
+##### 来源：2011 全国  
 ##### 答案 gradually  
   
 
@@ -3660,7 +3720,8 @@ grammatical /ɡrə'mætɪkl/ adj
 
 固定搭配
 ---
-## \*take ... for granted (that)  1.**认为…理所当然：**  
+## \*take ... for granted (that)
+1.**认为…理所当然：**  
 
  > Some of us always take it for granted (that) our parents or grandparents should take care of us.  
  > 我们中的有些人总是理所当然地认为，父母或者祖父母应该照顾我们。  
@@ -3837,7 +3898,7 @@ Notes: 表示理解语言、词汇或文章等时只能用 understand，不能�
 ---
 ##### 题目  
 I'm so grateful________ all those volunteers because they helped my terrible day end happily.  
-来源：2015 安徽改  
+##### 来源：2015 安徽改  
 ##### 答案 to  
   
 
@@ -3966,7 +4027,7 @@ A.Yes, why not?
 B.Oh, it would be my pleasure.  
 C.Yes, please.  
 D.Oh, that would be great.  
-来源：2011 陕西  
+##### 来源：2011 陕西  
 ##### 答案 D  
   
 
@@ -4358,7 +4419,8 @@ D.Oh, that would be great.
 
 固定搭配
 ---
-## \*give / lose ground  1.**退让；让步；失利：**  
+## \*give / lose ground
+1.**退让；让步；失利：**  
 
  > The team began to lose ground because Phil's leg was broken.  
  > 由于菲尔的腿骨折了，这个队开始失去优势。  
@@ -4382,7 +4444,8 @@ D.Oh, that would be great.
 
 固定搭配
 ---
-## \*a group of  1.**一群 / 组：**  
+## \*a group of
+1.**一群 / 组：**  
 
  > a group of islands  
  > 一群岛屿  
@@ -4488,7 +4551,8 @@ D.Oh, that would be great.
 
 固定搭配
 ---
-## \*grow into  1.**变成；发展成：**  
+## \*grow into
+1.**变成；发展成：**  
 
  > He has grown into a fine young man.  
  > 他已长成一个不错的小伙子。  
@@ -4497,7 +4561,8 @@ D.Oh, that would be great.
  > 我出生的那个村庄已经发展成为一个城镇。  
  > 来源：2014 陕西  
 
-## \*grow out of  1.**产生于；长大得与…不再相称：**  
+## \*grow out of
+1.**产生于；长大得与…不再相称：**  
 
  > Our friendship grew out of the experience of making that film.  
  > 我们的友谊源自于拍摄那部电影的经历。  
@@ -4506,7 +4571,8 @@ D.Oh, that would be great.
  > He's already grown out of his school uniform.  
  > 他已经长得穿不上校服了。  
 
-## \*grow up  1.**成熟；长成；形成；发展：**  
+## \*grow up
+1.**成熟；长成；形成；发展：**  
 
  > Plants grow up towards the sunlight.  
  > 植物向阳生长。  
@@ -4644,12 +4710,14 @@ D.Oh, that would be great.
 
 固定搭配
 ---
-## \*on guard  1.**站岗；值班：**  
+## \*on guard
+1.**站岗；值班：**  
 
  > The soldier was on guard all night.  
  > 士兵整夜站岗。  
 
-## \*off (sb's) guard  1.**不提防；丧失警惕：**  
+## \*off (sb's) guard
+1.**不提防；丧失警惕：**  
 
  > He struck me while I was off guard.  
  > 他趁我不备打了我。  
@@ -4745,7 +4813,7 @@ A.Guess what
 B.So what  
 C.Pardon me  
 D.Who cares  
-来源：2015 天津  
+##### 来源：2015 天津  
 ##### 答案 A  
   
 ##### 题目  
@@ -4755,7 +4823,7 @@ A.I guess not so
 B.I don’t guess  
 C.I don’t guess so  
 D.I guess not  
-来源：2003 北京春  
+##### 来源：2003 北京春  
 ##### 答案 D  
   
 

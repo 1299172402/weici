@@ -65,12 +65,14 @@ Notes: 1. each不用于否定句，否定句中要用 none。 如：None of the 
 
 固定搭配
 ---
-## \*each and every  1.**[用于加强语气] 每一个：**  
+## \*each and every
+1.**[用于加强语气] 每一个：**  
 
  > These are issues that affect each and every one of us.   
  > 这些问题影响到我们每一个人。  
 
-## \*each other   1.**互相；彼此：**  
+## \*each other 
+1.**互相；彼此：**  
 
  > We waved good-bye to each other.   
  > 我们互相挥手告别。  
@@ -122,12 +124,12 @@ eagerness /'iːgənəs/ n
 ---
 ##### 题目  
 The teacher is glad that everyone in her class is________(渴望的) to learn.  
-来源：2010 陕西  
+##### 来源：2010 陕西  
 ##### 答案 eager  
   
 ##### 题目  
 Some of us were confident and eager take part in the class activity.________(改错题）  
-来源：2018 全国  
+##### 来源：2018 全国  
 ##### 答案 eager后加to  
   
 
@@ -171,11 +173,14 @@ Some of us were confident and eager take part in the class activity.________(改
 
 固定搭配
 ---
-## \*be all ears   1.**[非正式用语] 洗耳恭听**  
+## \*be all ears 
+1.**[非正式用语] 洗耳恭听**  
 
-## \*close / shut one's ears to  1.**不听；不愿听**  
+## \*close / shut one's ears to
+1.**不听；不愿听**  
 
-## \*lend an ear to  1.**倾听**  
+## \*lend an ear to
+1.**倾听**  
 
 
 # ***\*early*** adj
@@ -252,7 +257,8 @@ Some of us were confident and eager take part in the class activity.________(改
 
 固定搭配
 ---
-## \*earn a / one's living  1.**谋生：**  
+## \*earn a / one's living
+1.**谋生：**  
 
  > He earns a / his living by doing odd jobs.   
  > 他靠打零工谋生。  
@@ -266,7 +272,7 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
 ---
 ##### 题目  
 You are old enough to ________ (自谋生路).  
-来源：2011 辽宁改  
+##### 来源：2011 辽宁改  
 ##### 答案 earn / make your own living  
   
 
@@ -339,7 +345,8 @@ You are old enough to ________ (自谋生路).
 
 固定搭配
 ---
-## \*on earth  1.*低义频：* **[可用于否定词或最高级后，以加强语气](在)世界上；(在) 人间：**  
+## \*on earth
+1.*低义频：* **[可用于否定词或最高级后，以加强语气](在)世界上；(在) 人间：**  
 
  > There is nothing great but man on earth; there is nothing great but mind in man.   
  > 世界上最伟大的是人类，而人类最伟大的是思想。  
@@ -396,12 +403,14 @@ You are old enough to ________ (自谋生路).
 
 固定搭配
 ---
-## \*at ease  1.**放松；舒适；自在：**  
+## \*at ease
+1.**放松；舒适；自在：**  
 
  > His mind was at ease knowing that the children were safe.   
  > 得知孩子们都安全，他才放心。  
 
-## \*put sb at (one's) ease  1.**使某人放松：**  
+## \*put sb at (one's) ease
+1.**使某人放松：**  
 
  > He was nervous at first but her warm welcome soon put him at ease.   
  > 起初他有些紧张，但是她的热情欢迎很快使他放松了下来。  
@@ -435,7 +444,8 @@ You are old enough to ________ (自谋生路).
 
 固定搭配
 ---
-## \*ease (sb / oneself) into  1.**(使某人) 熟悉 (新工作等)：**  
+## \*ease (sb / oneself) into
+1.**(使某人) 熟悉 (新工作等)：**  
 
  > After the baby, she eased herself back into work.   
  > 生完孩子她又重新开始工作了。  
@@ -604,9 +614,11 @@ You are old enough to ________ (自谋生路).
 
 固定搭配
 ---
-## \*go easy on / with  1.**[非正式用语] 省着 / 少用…**  
+## \*go easy on / with
+1.**[非正式用语] 省着 / 少用…**  
 
-## \*take it / things easy  1.**放松；不急；不紧张：**  
+## \*take it / things easy
+1.**放松；不急；不紧张：**  
 
  > He should learn to take things easy.  
  > 他应该学会放松。  
@@ -654,9 +666,11 @@ You are old enough to ________ (自谋生路).
 
 固定搭配
 ---
-## \*eat one's words  1.**收回前言；承认错误**  
+## \*eat one's words
+1.**收回前言；承认错误**  
 
-## \*eat out   1.**外出就餐：**  
+## \*eat out 
+1.**外出就餐：**  
 
  > — I am too tired to cook.   
  > 我太累了，不想做饭。  
@@ -664,7 +678,8 @@ You are old enough to ________ (自谋生路).
  > — It's all right. We can eat out today.  
  > 没关系，我们今天可以出去吃。  
 
-## \*eat up   1.**吃完；耗尽：**  
+## \*eat up 
+1.**吃完；耗尽：**  
 
  > Eat up your dinner before it gets cold.   
  > 饭凉之前把它吃完。  
@@ -770,7 +785,7 @@ economically /ˌiːkə'nɒmɪkli;ˌekə'nɒmɪkli/ adv
 ---
 ##### 题目  
 Small cars are ________ (economic) of fuel, so they have more appeal for consumers.  
-来源：2006 上海春改  
+##### 来源：2006 上海春改  
 ##### 答案 economical  
   
 
@@ -1062,9 +1077,11 @@ educational /ˌedʒu'keɪʃənl/ adj
 
 固定搭配
 ---
-## \*bring / put ... into effect  1.**实施；实行**  
+## \*bring / put ... into effect
+1.**实施；实行**  
 
-## \*in effect  1.*低义频：* **在实施中；有效：**  
+## \*in effect
+1.*低义频：* **在实施中；有效：**  
 
  > Some laws from the eighteenth century are still in effect.   
  > 一些18世纪的法律至今仍然有效。  
@@ -1074,7 +1091,8 @@ educational /ˌedʒu'keɪʃənl/ adj
  > “Have a nice day” is a wonderful phrase, reminding us, in effect, to enjoy the moment.   
  > “祝你愉快”是个美妙的词语，实际上它在提醒我们要享受时光。  
 
-## \*take effect   1.**生效 (come into effect)；起作用：**  
+## \*take effect 
+1.**生效 (come into effect)；起作用：**  
 
  > These measures are just beginning to take effect.   
  > 这些措施刚开始见效。  
@@ -1161,7 +1179,7 @@ efficiently /ɪ'fɪʃntli/ adv
 ---
 ##### 题目  
 With online shopping increasingly popular, the Internet is seen as a (n) ________ (高效率的) way of reaching target customers.  
-来源：2014 福建改  
+##### 来源：2014 福建改  
 ##### 答案 efficient  
   
 
@@ -1262,7 +1280,7 @@ effortless /'efətləs/ adj
 ---
 ##### 题目  
 I've lived in New York and Chicago, but don't like________of them very much.  
-来源：2013 山东改  
+##### 来源：2013 山东改  
 ##### 答案 either  
   
 
@@ -1296,12 +1314,12 @@ I've lived in New York and Chicago, but don't like________of them very much.
 ---
 ##### 题目  
 A society cannot be successful if it throws tradition away, but it cannot be successful too if we do something to stop progress.  
-来源：2013 福建改 改错  
+##### 来源：2013 福建改 改错  
 ##### 答案 too → either  
   
 ##### 题目  
 Jane won't join us for dinner tonight and Tom won't ________ .  
-来源：2011 全国改  
+##### 来源：2011 全国改  
 ##### 答案 either  
   
 
@@ -1317,7 +1335,8 @@ Jane won't join us for dinner tonight and Tom won't ________ .
 
 固定搭配
 ---
-## \*either … or …  1.**[可连接两个单词、短语或句子] 或者…或者…；要么…要么…：**  
+## \*either … or …
+1.**[可连接两个单词、短语或句子] 或者…或者…；要么…要么…：**  
 
  > You can take either the blue pencil or the black one.  
  > 你可以拿这支蓝铅笔或那支黑铅笔。  
@@ -1338,12 +1357,12 @@ Notes: either ... or ... 连接主语时，谓语在人称和数上要与邻近�
 ##### 题目  
  — When shall I call, in the morning or afternoon?
  — Any. I'll be in all day.  
-来源：2014 江西改 改错  
+##### 来源：2014 江西改 改错  
 ##### 答案 Any → Either  
   
 ##### 题目  
 Either you or one of your students________ (be) to attend the meeting that is due tomorrow.   
-来源：2009 湖南改  
+##### 来源：2009 湖南改  
 ##### 答案 is  
   
 
@@ -1436,7 +1455,7 @@ Either you or one of your students________ (be) to attend the meeting that is du
 ##### 题目  
 The school board is made up of parents who have been elected _________ (make) decisions about school
 affairs.  
-来源：2013 上海改  
+##### 来源：2013 上海改  
 ##### 答案 to make  
   
 
@@ -1629,7 +1648,8 @@ affairs.
 
 固定搭配
 ---
-## \*or else  1.**[用于表示会有不好的结果] 否则；要不然：**  
+## \*or else
+1.**[用于表示会有不好的结果] 否则；要不然：**  
 
  > He must be joking, or else he's mad.  
  > 他一定是在开玩笑，要不然就是疯了。  
@@ -1643,7 +1663,7 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 ---
 ##### 题目  
 I don't think we met before. You're taking me for someone ________ .  
-来源：2005年安徽改  
+##### 来源：2005年安徽改  
 ##### 答案 else  
   
 
@@ -2011,7 +2031,8 @@ emotionally /ɪ'məʊʃənəli/ adv
 
 固定搭配
 ---
-## \*be employed in doing sth   1.**忙于做某事**  
+## \*be employed in doing sth 
+1.**忙于做某事**  
 
  > She was employed in making a list of all the jobs to be done.  
  > 她忙着把要做的所有工作列一个清单。  
@@ -2271,7 +2292,7 @@ encouraging /ɪn'kʌrɪdʒɪŋ/ adj
 ---
 ##### 题目  
 When things aren't going well, my parents always ________(鼓励) me, telling me not to give up.  
-来源：2010 陕西  
+##### 来源：2010 陕西  
 ##### 答案 encourage  
   
 ##### 题目  
@@ -2327,7 +2348,8 @@ My advisor encouraged me ________ (take) a summer course to improve my writing s
 
 固定搭配
 ---
-## \*at the end of   1.**在…的末梢；在…的尽头：**  
+## \*at the end of 
+1.**在…的末梢；在…的尽头：**  
 
  > I stood silently at the end of the bed.  
  > 我静静地站在床尾。  
@@ -2344,15 +2366,18 @@ My advisor encouraged me ________ (take) a summer course to improve my writing s
  > I'm at the end of my patience.  
  > 我已忍无可忍。  
 
-## \*at the end of the day   1.**[口语] 最终；到头来：**  
+## \*at the end of the day 
+1.**[口语] 最终；到头来：**  
 
  > Those who'd shared the wealth felt much happier at the end of the day than those who'd spent it on themselves.  
  > 最终，愿意分享财富的人比只给自己花钱的人要快乐得多。  
  > 来源：2013 安徽  
 
-## \*be at / on the receiving end (of sth)  1.**[非正式用语] 承受 (不愉快之事)**  
+## \*be at / on the receiving end (of sth)
+1.**[非正式用语] 承受 (不愉快之事)**  
 
-## \*bring / put an end to   1.**结束；终止：**  
+## \*bring / put an end to 
+1.**结束；终止：**  
 
  > It's hoped that the talks may bring an end to the violence.  
  > 人们希望谈判能终结这次暴力事件。  
@@ -2360,17 +2385,20 @@ My advisor encouraged me ________ (take) a summer course to improve my writing s
  > The government is determined to put an end to terrorism.   
  > 政府决心遏止恐怖主义活动。  
 
-## \*by the end of   1.**[常与完成时连用] 在…结束时； 到…末为止：**  
+## \*by the end of 
+1.**[常与完成时连用] 在…结束时； 到…末为止：**  
 
  > We had learned all the songs by the end of last month.  
  > 到上个月月底，我们已学会了所有的歌曲。  
 
-## \*come to an end   1.**告终；结束；完结：**  
+## \*come to an end 
+1.**告终；结束；完结：**  
 
  > The summer vacation came to an end at last.   
  > 暑假终于结束了。  
 
-## \*in the end  1.**最后；终于：**  
+## \*in the end
+1.**最后；终于：**  
 
  > Thankfully, I managed to get through the game and the pain was worth it in the end.  
  > 很幸运，我最后完成了比赛，努力没有白费。  
@@ -2379,12 +2407,14 @@ My advisor encouraged me ________ (take) a summer course to improve my writing s
 #### 辨析 finally, eventually, in the end, at last, lastly  
 五者都有“最后”之意。  
 
-## \*make (both) ends meet  1.**使收支相抵；量入为出：**  
+## \*make (both) ends meet
+1.**使收支相抵；量入为出：**  
 
  > We can't make both ends meet this month.  
  > 我们本月入不敷出。  
 
-## \*on end  1.**连续地：**  
+## \*on end
+1.**连续地：**  
 
  > They argued for two hours on end.  
  > 他们持续争论了两个小时。  
@@ -2413,13 +2443,15 @@ My advisor encouraged me ________ (take) a summer course to improve my writing s
 
 固定搭配
 ---
-## \*end in   1.**以…结尾；以…告终：**  
+## \*end in 
+1.**以…结尾；以…告终：**  
 
  > Even a successful inventor makes many experiments that end in failure.   
  > 即使是成功的发明家也有很多以失败告终的实验。  
  > 来源：人教⑧ – 3  
 
-## \*end up   1.**[尤指经历一系列意料之外的事情后] 最终处于；最终成为**  
+## \*end up 
+1.**[尤指经历一系列意料之外的事情后] 最终处于；最终成为**  
 英译 to find yourself in a place or situation that you did not expect to：
 
  > **end up remembering**  
@@ -2442,7 +2474,7 @@ My advisor encouraged me ________ (take) a summer course to improve my writing s
 ---
 ##### 题目  
 Smell the flowers before you go to sleep, and you may just end up ________ sweet dreams.  
-来源：2010 江西改  
+##### 来源：2010 江西改  
 ##### 答案 with  
   
 
@@ -2571,12 +2603,12 @@ energetically /ˌenə'dʒetɪkli/ adv
 ---
 ##### 题目  
 My grandfather is as ________ (energy) as a young man and hates sitting around doing nothing all day.  
-来源：2003 上海改  
+##### 来源：2003 上海改  
 ##### 答案 energetic  
   
 ##### 题目  
 Running is cheap, easy and it's always________(energy).  
-来源：2018 全国  
+##### 来源：2018 全国  
 ##### 答案 energetic  
   
 
@@ -2625,7 +2657,7 @@ Running is cheap, easy and it's always________(energy).
 ##### 题目  
 — You are always full of ________ (活力). Can you tell me the secret?
 — Taking plenty of exercise every day.  
-来源：2007 福建改  
+##### 来源：2007 福建改  
 ##### 答案 energy  
   
 
@@ -2822,7 +2854,8 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
 
 固定搭配
 ---
-## \*enjoy oneself   1.**过得开心；得到乐趣：**  
+## \*enjoy oneself 
+1.**过得开心；得到乐趣：**  
 
  > I hope you'll enjoy yourselves at the ball.  
  > 我希望你们在舞会上玩得愉快。  
@@ -2835,12 +2868,12 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
 ---
 ##### 题目  
 The park was full of people, ________ (enjoy) themselves in the sunshine.  
-来源：2015 北京改  
+##### 来源：2015 北京改  
 ##### 答案 enjoying  
   
 ##### 题目  
 In this seaside resort, you can ________ (享受) all the comfort and convenience of modern tourism.  
-来源：2007 山东改  
+##### 来源：2007 山东改  
 ##### 答案 enjoy  
   
 
@@ -2987,7 +3020,8 @@ In this seaside resort, you can ________ (享受) all the comfort and convenienc
 
 固定搭配
 ---
-## \*have had enough (of)  1.**[口语] 够了 / 受够了：**  
+## \*have had enough (of)
+1.**[口语] 够了 / 受够了：**  
 
  > I have had enough of your rudeness.   
  > 我受够了你的无礼！  
@@ -2998,7 +3032,7 @@ In this seaside resort, you can ________ (享受) all the comfort and convenienc
 ##### 题目  
 Although she did not know Boston well, she made her way ________ (足够容易) to the Home Circle
 Building.  
-来源：2006 湖南改  
+##### 来源：2006 湖南改  
 ##### 答案 easily enough  
   
 
@@ -3071,7 +3105,8 @@ Building.
 
 固定搭配
 ---
-## \*enter into  1.*低义频：* **开始 (讨论)；着手处理：**  
+## \*enter into
+1.*低义频：* **开始 (讨论)；着手处理：**  
 
  > **enter into discussions / negotiations**  
  > enter into discussions / negotiations  
@@ -3262,7 +3297,7 @@ enthusiastically /ɪnˌθjuːzi'æstɪkli/ adv
 ---
 ##### 题目  
 She devoted herself ________ (entire) to her research and it earned her a good reputation in her field.  
-来源：2007 湖北改  
+##### 来源：2007 湖北改  
 ##### 答案 entirely  
   
 
@@ -3292,7 +3327,7 @@ She devoted herself ________ (entire) to her research and it earned her a good r
 ---
 ##### 题目  
 Her talent and experience entitled her ________ the respect of her colleagues.  
-来源：2003 上海改  
+##### 来源：2003 上海改  
 ##### 答案 to  
   
 
@@ -3494,7 +3529,8 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 
 固定搭配
 ---
-## \*be the envy of   1.**是令…羡慕或嫉妒的对象**  
+## \*be the envy of 
+1.**是令…羡慕或嫉妒的对象**  
 
 
 # ***\*envy*** vt
@@ -3522,7 +3558,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 ##### 题目  
 — I'm going to San Francisco for a couple of days.
 — I really _________ (羡慕) you.  
-来源：2012 浙江改  
+##### 来源：2012 浙江改  
 ##### 答案 envy  
   
 
@@ -3602,7 +3638,8 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 
 固定搭配
 ---
-## \*be equal to  1.*高义频：* **与...相等 / 平等：**  
+## \*be equal to
+1.*高义频：* **与...相等 / 平等：**  
 
  > The rent was equal to half his monthly income.   
  > 这租金相当于他半个月的收入。  
@@ -3622,7 +3659,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 ---
 ##### 题目  
 Boys and girls are e________, and thus they should be treated fairly.  
-来源：2006 浙江  
+##### 来源：2006 浙江  
 ##### 答案 equal  
   
 
@@ -3699,12 +3736,12 @@ Boys and girls are e________, and thus they should be treated fairly.
 ---
 ##### 题目  
 Men and women must be treated ________ (平等地) in education and employment.   
-来源：2014 陕西  
+##### 来源：2014 陕西  
 ##### 答案 equally  
   
 ##### 题目  
 Anyone, whether he is an official or a bus driver, should be ________ (equal) respected.  
-来源：2012 福建改  
+##### 来源：2012 福建改  
 ##### 答案 equally  
   
 
@@ -3866,7 +3903,8 @@ Anyone, whether he is an official or a bus driver, should be ________ (equal) re
 
 固定搭配
 ---
-## \*in error   1.**弄错了的；错误地：**  
+## \*in error 
+1.**弄错了的；错误地：**  
 
  > I'm afraid he is in error in saying that.  
  > 恐怕他那样说是弄错了。  
@@ -4004,12 +4042,12 @@ Anyone, whether he is an official or a bus driver, should be ________ (equal) re
 ---
 ##### 题目  
 According to the recent survey, cancer is the leading cause of death among young adults in this area, ________ (特别是) women.  
-来源：2003 上海春改  
+##### 来源：2003 上海春改  
 ##### 答案 especially  
   
 ##### 题目  
 A sudden stop can be a very frightening experience,________(尤其) if you are travelling at high speed.  
-来源：2016 浙江改  
+##### 来源：2016 浙江改  
 ##### 答案 especially / particularly  
   
 
@@ -4115,7 +4153,7 @@ established /ɪ'stæblɪʃt/ adj
 ---
 ##### 题目  
 By 1909, Picasso had established himself ________ a painter of great talent in Paris.  
-来源：2003 上海春改  
+##### 来源：2003 上海春改  
 ##### 答案 as  
   
 
@@ -4289,7 +4327,7 @@ By 1909, Picasso had established himself ________ a painter of great talent in P
 ---
 ##### 题目  
 It is widely acknowledged that students should be ________ (评价) in terms of overall quality.  
-来源：2014 福建改  
+##### 来源：2014 福建改  
 ##### 答案 evaluated / assessed  
   
 
@@ -4349,18 +4387,21 @@ Notes: even可用以强调句子的任何成分，置于被修饰的词语前；
 
 固定搭配
 ---
-## \*even if / though  1.**尽管；即使：**  
+## \*even if / though
+1.**尽管；即使：**  
 
  > My grandfather still plays tennis now and then, even though he's in his nineties.  
  > 我爷爷尽管90多岁了，仍然时不时地打打网球。  
  > 来源：2016 北京  
 
-## \*even now / then   1.**即使到现在 / 那时；即便如此 / 那样：**  
+## \*even now / then 
+1.**即使到现在 / 那时；即便如此 / 那样：**  
 
  > Even now water is still the main resource to produce electricity.   
  > 即使到现在，水仍是主要的发电资源。  
 
-## \*even so   1.**尽管如此；即使那样：**  
+## \*even so 
+1.**尽管如此；即使那样：**  
 
  > Your uncle seems to be a good driver; even so, I wouldn't dare to travel in his car.  
  > 你叔叔看上去开车技术不错；即便如此，我也不敢坐他的车。  
@@ -4380,7 +4421,7 @@ Notes: even可用以强调句子的任何成分，置于被修饰的词语前；
 ---
 ##### 题目  
 Much of the power of the trade unions has been lost. _________ (尽管如此), their political infl uence should be very great.  
-来源：2006 广东改  
+##### 来源：2006 广东改  
 ##### 答案 Even so  
   
 
@@ -4457,17 +4498,20 @@ Much of the power of the trade unions has been lost. _________ (尽管如此), t
 
 固定搭配
 ---
-## \*at all events / in any event   1.**不论怎样；无论如何：**  
+## \*at all events / in any event 
+1.**不论怎样；无论如何：**  
 
  > At all events we will carry the struggle through to the end.   
  > 无论如何我们都会拼搏到底。  
 
-## \*in the event   1.**结果；到头来：**  
+## \*in the event 
+1.**结果；到头来：**  
 
  > I got very nervous about the exam, but in the event, I needn’t have worried; it was really easy.   
  > 我对考试提心吊胆，但其实我本不必担心，这次考试的确很容易。  
 
-## \*in the event of / (that)   1.**如果…发生；倘若：**  
+## \*in the event of / (that) 
+1.**如果…发生；倘若：**  
 
  > In the event of an accident, call this number.   
  > 万一发生事故就打这个电话。  
@@ -4520,7 +4564,7 @@ Much of the power of the trade unions has been lost. _________ (尽管如此), t
 ---
 ##### 题目  
 There was such a long queue for coffee at the interval that we ________ (eventual) gave up.  
-来源：2005 上海改  
+##### 来源：2005 上海改  
 ##### 答案 eventually  
   
 
@@ -4558,9 +4602,11 @@ Notes: ever常用于否定句、一般疑问句以及表示条件和比较的从
 
 固定搭配
 ---
-## \*ever after   1.**从那时以后一直**  
+## \*ever after 
+1.**从那时以后一直**  
 
-## \*ever since   1.**自从；从…以来；此后一直：**  
+## \*ever since 
+1.**自从；从…以来；此后一直：**  
 
  > Their work has influenced other writers ever since.   
  > 他们的作品此后一直影响着后世的作家。  
@@ -4578,7 +4624,7 @@ A.ever
 B.already  
 C.even  
 D.nowadays  
-来源：2006 江西  
+##### 来源：2006 江西  
 ##### 答案 A  
   
 ##### 题目  
@@ -4587,7 +4633,7 @@ A.even
 B.ever  
 C.just  
 D.never  
-来源：2006 广东  
+##### 来源：2006 广东  
 ##### 答案 B  
   
 
@@ -4640,7 +4686,8 @@ D.never
 
 固定搭配
 ---
-## \*every now and then   1.**不时地；偶尔 (every so often)：**  
+## \*every now and then 
+1.**不时地；偶尔 (every so often)：**  
 
  > Every now and then I watch a soap on TV at my friend’s house.   
  > 我时不时会去朋友家看肥皂剧。  
@@ -4716,7 +4763,7 @@ A.One
 B.No one  
 C.Everyone  
 D.Someone  
-来源：2014 安徽  
+##### 来源：2014 安徽  
 ##### 答案 C  
   
 
@@ -4750,7 +4797,7 @@ D.Someone
 ---
 ##### 题目  
 Make sure you've got the passports and tickets and anything before you leave.  
-来源：2008 山东改 改错  
+##### 来源：2008 山东改 改错  
 ##### 答案 anything → everything  
   
 
@@ -4780,7 +4827,7 @@ Notes: everywhere可引导地点状语从句。
 ---
 ##### 题目  
 There were piles of newspapers ________(到处) in the house.  
-来源：2007 全国  
+##### 来源：2007 全国  
 ##### 答案 everywhere  
   
 
@@ -4948,7 +4995,8 @@ evidently /'evɪdəntli/ adv
 
 固定搭配
 ---
-## \*to be exact   1.**确切地说：**  
+## \*to be exact 
+1.**确切地说：**  
 
  > I read an article about paper, to be exact, about how much Americans use up each year.   
  > 我读到一篇有关纸的文章，确切地说，是关于美国人每年用纸量的文章。  
@@ -4979,7 +5027,8 @@ evidently /'evɪdəntli/ adv
 
 固定搭配
 ---
-## \*not exactly   1.**不完全；并不；根本不：**  
+## \*not exactly 
+1.**不完全；并不；根本不：**  
 
  > It's similar to the music you listen to, but it's not exactly the same.  
  > 这首曲子和你刚听的相似，但不完全相同。  
@@ -4997,13 +5046,13 @@ evidently /'evɪdəntli/ adv
 ##### 题目  
 — So you gave her your phone?
 — ________ (exact), she said she'd return it to me when she could afford her own.  
-来源：2011 全国改  
+##### 来源：2011 全国改  
 ##### 答案 Exactly  
   
 ##### 题目  
 — People should stop using their cars and start using public transport.
 — ________ (正是). The roads are too crowded as it is.  
-来源：2005 浙江改  
+##### 来源：2005 浙江改  
 ##### 答案 Exactly  
   
 
@@ -5116,20 +5165,24 @@ examiner /ɪɡ'zæmɪnə(r)/ n [C]
 
 固定搭配
 ---
-## \*follow sb's example  1.**学习某人；效仿某人**  
+## \*follow sb's example
+1.**学习某人；效仿某人**  
 
-## \*for example   1.**例如：**  
+## \*for example 
+1.**例如：**  
 
  > Many great men have risen from poverty — Lincoln and Edison, for example.   
  > 许多伟人出身贫苦，例如林肯和爱迪生。  
 
-## \*set an example to sb  1.**为某人树立榜样：**  
+## \*set an example to sb
+1.**为某人树立榜样：**  
 
  > Helen has set an excellent example to all of us.  
  > 海伦为我们大家树立了好榜样。  
  > 来源：2008 湖南书面表达  
 
-## \*take ... for example   1.**以…为例：**  
+## \*take ... for example 
+1.**以…为例：**  
 
  > You can take your research work for example.   
  > 你可以拿你的研究工作做个例子。  
@@ -5171,7 +5224,7 @@ examiner /ɪɡ'zæmɪnə(r)/ n [C]
 ---
 ##### 题目  
 Around 13,500 new jobs were created during the period,________ (exceed) the expected number of 12,000 held by market analysts.  
-来源：2018 江苏改  
+##### 来源：2018 江苏改  
 ##### 答案 exceeding  
   
 
@@ -5227,7 +5280,8 @@ Around 13,500 new jobs were created during the period,________ (exceed) the expe
 
 固定搭配
 ---
-## \*except for   1.**除了…外；除去；只是：**  
+## \*except for 
+1.**除了…外；除去；只是：**  
 
  > His composition is good, except for some spelling mistakes.   
  > 他的这篇作文写得很好，只是有几处拼写错误。  
@@ -5253,7 +5307,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
 ---
 ##### 题目  
 Everything was perfect for the picnic except ________ the weather.  
-来源：2008 浙江改  
+##### 来源：2008 浙江改  
 ##### 答案 for  
   
 
@@ -5286,7 +5340,8 @@ Everything was perfect for the picnic except ________ the weather.
 
 固定搭配
 ---
-## \*except for  1.**除了…外；除去；只是：**  
+## \*except for
+1.**除了…外；除去；只是：**  
 
  > His composition is good, except for some spelling mistakes.  
  > 他的这篇作文写得很好，只是有几处拼写错误。  
@@ -5311,7 +5366,7 @@ exception /ɪk'sepʃn/ n [C] & [U]
 ---
 ##### 题目  
 Everything was perfect for the picnic except ________ the weather.   
-来源：2008 浙江改  
+##### 来源：2008 浙江改  
 ##### 答案 for  
   
 
@@ -5429,7 +5484,7 @@ Everything was perfect for the picnic except ________ the weather.
 ---
 ##### 题目  
 It is illegal for a public official to ask people for gifts or money in exchange ________ favors to them.  
-来源：2010 湖北改  
+##### 来源：2010 湖北改  
 ##### 答案  for  
   
 
@@ -5590,7 +5645,8 @@ It is illegal for a public official to ask people for gifts or money in exchange
 
 固定搭配
 ---
-## \*excuse me   1.**[用于与陌生人谈话、插话、表示异议等] 对不起；抱歉；劳驾：**  
+## \*excuse me 
+1.**[用于与陌生人谈话、插话、表示异议等] 对不起；抱歉；劳驾：**  
 
  > Excuse me, could you please move in a bit to let me pass?   
  > 对不起，请挪一下，让我过去好吗？  
@@ -5619,7 +5675,7 @@ It is illegal for a public official to ask people for gifts or money in exchange
 ##### 题目  
 — I'm sorry I stepped outside for a smoke. I was very tired.
 — There is no excuse ________ this while you are on duty.  
-来源：2003 北京改  
+##### 来源：2003 北京改  
 ##### 答案 for  
   
 
@@ -5847,7 +5903,8 @@ existing /ɪɡ'zɪstɪŋ/ adj [只用于名词前]
  > The sense of existence is the greatest happiness.   
  > 意识到自己的存在是最大的幸福。  
 
-## \*come into existence  1.**开始存在；产生：**  
+## \*come into existence
+1.**开始存在；产生：**  
 
  > No one knows how this world came into existence.  
  > 没有人知道这个世界是怎样形成的。  
@@ -5859,7 +5916,7 @@ existing /ɪɡ'zɪstɪŋ/ adj [只用于名词前]
 ---
 ##### 题目  
 The development of industry has been a gradual process throughout human ________ (exist), from stone tools to modern technology.   
-来源：2012 浙江改  
+##### 来源：2012 浙江改  
 ##### 答案 existence  
   
 
@@ -6023,7 +6080,8 @@ The development of industry has been a gradual process throughout human ________
 
 固定搭配
 ---
-## \*be expecting a baby / child   1.**怀孕：**  
+## \*be expecting a baby / child 
+1.**怀孕：**  
 
  > If you are expecting a baby, your smoking habit might cause problems for it.   
  > 如果你怀孕了，吸烟的习惯可能会对胎儿产生不良影响。  
@@ -6081,7 +6139,8 @@ D.suppose
 
 固定搭配
 ---
-## \*beyond (sb's) expectation(s)  1.**出乎 (某人) 意料地：**  
+## \*beyond (sb's) expectation(s)
+1.**出乎 (某人) 意料地：**  
 
  > It was an A+, which was beyond my modest expectations.  
  > 我得了个A+，这大大出乎我的意料。  
@@ -6137,12 +6196,14 @@ D.suppose
 
 固定搭配
 ---
-## \*at sb's expense  1.**由某人付费 / 负担费用：**  
+## \*at sb's expense
+1.**由某人付费 / 负担费用：**  
 
  > I published a book at my own expense.   
  > 我自费出版了一本书。  
 
-## \*at the expense of   1.**以…为代价：**  
+## \*at the expense of 
+1.**以…为代价：**  
 
  > He finished the job at the expense of his health.   
  > 他以健康为代价完成了这项工作。  
@@ -6152,7 +6213,7 @@ D.suppose
 ---
 ##### 题目  
 One thousand dollars a month is not a fortune but would help cover my living ________ (开支).  
-来源：2007 天津改  
+##### 来源：2007 天津改  
 ##### 答案 expenses  
   
 
@@ -6247,7 +6308,7 @@ One thousand dollars a month is not a fortune but would help cover my living ___
 ---
 ##### 题目  
 If you come to visit China, you will _______ (体验到) a culture of amazing depth and variety.   
-来源：2015 安徽改  
+##### 来源：2015 安徽改  
 ##### 答案 experience  
   
 ##### 题目  
@@ -6399,7 +6460,8 @@ Notes: explain不可接双宾语。
 
 固定搭配
 ---
-## \*explain oneself  1.**说明自己的意思；为自己的行为解释：**  
+## \*explain oneself
+1.**说明自己的意思；为自己的行为解释：**  
 
  > Sorry, I'm not explaining myself very well.  
  > 对不起，我没把自己的意思表达清楚。  
@@ -6804,7 +6866,7 @@ expressive /ɪk'spresɪv/ adj
 ---
 ##### 题目  
 The ________ (express) on his face told me that he was angry.  
-来源：2006 湖北改  
+##### 来源：2006 湖北改  
 ##### 答案 expression  
   
 
@@ -6902,7 +6964,8 @@ The ________ (express) on his face told me that he was angry.
 
 固定搭配
 ---
-## \*to … extent  1.**在…程度上：**  
+## \*to … extent
+1.**在…程度上：**  
 
  > **to some extent**  
  > We all to some extent remember the good times and forget the bad.  
@@ -7096,7 +7159,8 @@ The ________ (express) on his face told me that he was angry.
 
 固定搭配
 ---
-## \*extreme sports  1.**极限运动**  
+## \*extreme sports
+1.**极限运动**  
 
 
 # ***\*extremely*** adv
@@ -7155,25 +7219,30 @@ The ________ (express) on his face told me that he was angry.
 
 固定搭配
 ---
-## \*beauty is in the eye of the beholder  1.**情人眼里出西施**  
+## \*beauty is in the eye of the beholder
+1.**情人眼里出西施**  
 
-## \*have a (good) eye for   1.**对…有鉴赏力 / 识别力：**  
+## \*have a (good) eye for 
+1.**对…有鉴赏力 / 识别力：**  
 
  > She has a good eye for a bargain.   
  > 她善识便宜货。  
 
-## \*have one's eye on  1.**密切注视；监视：**  
+## \*have one's eye on
+1.**密切注视；监视：**  
 
  > I'll have my eye on you so you'd better behave.  
  > 我会密切注意你，所以你最好表现好点儿。  
 
-## \*in sb's eyes  1.**依某人看：**  
+## \*in sb's eyes
+1.**依某人看：**  
 
  > Campers, in my eyes, were people who enjoyed insect bites, ill-cooked meals, and uncomfortable sleeping bags.  
  > 在我看来，露营者是一群喜欢被虫咬、吃糟糕的饭菜和睡不舒服的睡袋的人。  
  > 来源：2017 全国  
 
-## \*keep an eye on   1.**照看；注意：**  
+## \*keep an eye on 
+1.**照看；注意：**  
 
  > Can you keep an eye on my bag while I go to the bathroom?  
  > 我去卫生间的时候，你可不可以帮我看着包？  
@@ -7182,13 +7251,15 @@ The ________ (express) on his face told me that he was angry.
  > 我知道她的心一直在这里，在关注我们。  
  > 来源：2011 四川  
 
-## \*keep an eye out (for)   1.**密切注意；留神：**  
+## \*keep an eye out (for) 
+1.**密切注意；留神：**  
 
  > The lady walked around the shops, keeping an eye out for bargains.   
  > 这位女士在店铺间逛着，留意着便宜商品。  
  > 来源：2010 江西  
 
-## \*shut / close one's eyes to  1.**对…视而不见；对… 置若罔闻：**  
+## \*shut / close one's eyes to
+1.**对…视而不见；对… 置若罔闻：**  
 
  > You can't just close your eyes to his violence.  
  > 你不能对他的暴行视而不见。  

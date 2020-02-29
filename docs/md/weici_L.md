@@ -172,7 +172,8 @@
 
 固定搭配
 ---
-## \*lack (for) nothing   1.**[正式用语] 什么也不缺：**  
+## \*lack (for) nothing 
+1.**[正式用语] 什么也不缺：**  
 
  > As he is very rich he lacks for nothing.   
  > 他很富有，什么都不缺。  
@@ -181,14 +182,15 @@
 派生词汇
 ---
 lacking /'lækɪŋ/ adj   
-## \*be lacking in sth  1.**缺少某物**  
+## \*be lacking in sth
+1.**缺少某物**  
 
 
 真题解析
 ---
 ##### 题目  
 Though lacking of money, his parents managed to send him to university.  
-来源：改错  
+##### 来源：改错  
 ##### 答案 去掉 of  
   
 
@@ -212,7 +214,8 @@ Though lacking of money, his parents managed to send him to university.
 
 固定搭配
 ---
-## \*for lack of   1.**因缺少：**  
+## \*for lack of 
+1.**因缺少：**  
 
  > The tour was cancelled for lack of bookings.   
  > 这次出游因无人预订而取消了。  
@@ -226,7 +229,7 @@ Though lacking of money, his parents managed to send him to university.
 ---
 ##### 题目  
 More and more high-rise buildings have been built in big cities ________ (因缺少) space.  
-来源：2010 福建改  
+##### 来源：2010 福建改  
 ##### 答案 for lack of  
   
 ##### 题目  
@@ -375,7 +378,8 @@ Health problems are closely connected with bad eating habits and ________ (缺�
 
 固定搭配
 ---
-## \*land (sb) in  1.**使 (某人) 陷入 (困境)**  
+## \*land (sb) in
+1.**使 (某人) 陷入 (困境)**  
 
 
 # ***\*landfill*** n
@@ -653,7 +657,8 @@ largely /'lɑːdʒli/ adv
 
 固定搭配
 ---
-## \*last but not least   1.**最后但同样重要的：**  
+## \*last but not least 
+1.**最后但同样重要的：**  
 
  > Last but not least, we should make good use of water in our daily life.  
  > 最后但同样重要的是，我们日常生活中应该充分利用水。  
@@ -676,7 +681,8 @@ largely /'lɑːdʒli/ adv
 
 固定搭配
 ---
-## \*at last   1.**最终；终于 (finally)：**  
+## \*at last 
+1.**最终；终于 (finally)：**  
 
  > Diana at last achieved her original goal.   
  > 戴安娜最终实现了自己最初的目标。  
@@ -689,7 +695,8 @@ largely /'lɑːdʒli/ adv
 #### 辨析 finally, eventually, in the end, at last, lastly  
 五者都有“最后”之意。  
 
-## \*to / till the last   1.**直到最后：**  
+## \*to / till the last 
+1.**直到最后：**  
 
  > They fought to the last.   
  > 他们战斗到最后一刻。  
@@ -745,7 +752,7 @@ lastly /'læstli/ adv
 ---
 ##### 题目  
 The performance ________ (持续) nearly three hours, but few people left the theater early.  
-来源：2008 全国改  
+##### 来源：2008 全国改  
 ##### 答案 lasted  
   
 
@@ -797,7 +804,8 @@ The performance ________ (持续) nearly three hours, but few people left the th
 
 固定搭配
 ---
-## \*be too late   1.**为时已晚；已失时机：**  
+## \*be too late 
+1.**为时已晚；已失时机：**  
 
  > By the time he realizes he has walked into a trap, it'll be too late for him to do anything about it.  
  > 等他意识到自己已落入圈套时，那就做什么都来不及了。  
@@ -839,7 +847,7 @@ The performance ________ (持续) nearly three hours, but few people left the th
 ---
 ##### 题目  
 A few minutes late, the instructor asked me to stop the car.  
-来源：2017 全国   改错  
+##### 来源：2017 全国   改错  
 ##### 答案 late → later  
   
 
@@ -866,7 +874,8 @@ A few minutes late, the instructor asked me to stop the car.
 
 固定搭配
 ---
-## \*later on   1.**以后；过后：**  
+## \*later on 
+1.**以后；过后：**  
 
  > Later on he realized his mistake.   
  > 后来他认识到了自己的错误。  
@@ -881,7 +890,8 @@ A few minutes late, the instructor asked me to stop the car.
 
 固定搭配
 ---
-## \*the latest  1.**最新事物；最新消息：**  
+## \*the latest
+1.**最新事物；最新消息：**  
 
  > This machine is the latest in video recorder technology.  
  > 这台机器代表着最新的录像技术。  
@@ -889,7 +899,8 @@ A few minutes late, the instructor asked me to stop the car.
  > Have you heard the latest?   
  > 你听到最新消息了吗？  
 
-## \*at the latest   1.**最晚；最迟：**  
+## \*at the latest 
+1.**最晚；最迟：**  
 
  > I shall be back by five o'clock at the latest.  
  > 我最晚5点回来。  
@@ -948,7 +959,8 @@ A few minutes late, the instructor asked me to stop the car.
 
 固定搭配
 ---
-## \*the former ... the latter   1.**前者…后者：**  
+## \*the former ... the latter 
+1.**前者…后者：**  
 
  > John and James are brothers. The former is a teacher; the latter is an engineer.   
  > 约翰和詹姆斯是兄弟，前者是老师，后者是工程师。  
@@ -981,7 +993,8 @@ A few minutes late, the instructor asked me to stop the car.
 
 固定搭配
 ---
-## \*laugh at  1.**嘲笑：**  
+## \*laugh at
+1.**嘲笑：**  
 
  > She laughed at me and said that I was not grown-up enough.   
  > 她笑话我，说我不够成熟。  
@@ -1006,7 +1019,8 @@ A few minutes late, the instructor asked me to stop the car.
 
 固定搭配
 ---
-## \*have the last laugh   1.**笑到最后；取得最后的成功**  
+## \*have the last laugh 
+1.**笑到最后；取得最后的成功**  
 
 
 # ***\*laughter*** n
@@ -1031,7 +1045,8 @@ A few minutes late, the instructor asked me to stop the car.
 
 固定搭配
 ---
-## \*burst into laughter   1.**突然大笑起来**  
+## \*burst into laughter 
+1.**突然大笑起来**  
 
 
 # ***\*launch*** vt  重难点词汇
@@ -1158,7 +1173,8 @@ A few minutes late, the instructor asked me to stop the car.
 
 固定搭配
 ---
-## \*law and order  1.**法治**  
+## \*law and order
+1.**法治**  
 
 
 派生词汇
@@ -1196,7 +1212,7 @@ lawful /'lɔːfl/ adj
 ---
 ##### 题目  
 Sydney wants to become a ________ (律师) in the future.  
-来源：2009 全国  
+##### 来源：2009 全国  
 ##### 答案 lawyer  
   
 
@@ -1242,7 +1258,8 @@ Sydney wants to become a ________ (律师) in the future.
 
 固定搭配
 ---
-## \*lay down   1.**放下；停止使用 (put down)；规定：**  
+## \*lay down 
+1.**放下；停止使用 (put down)；规定：**  
 
  > She laid down her books on the table.   
  > 她把书放在桌子上。  
@@ -1254,7 +1271,8 @@ Sydney wants to become a ________ (律师) in the future.
  > 我因父亲定了这一规矩而生他的气。  
  > 来源：2017 天津改  
 
-## \*lay off   1.*高义频：* **[非正式用语] 停止使用**  
+## \*lay off 
+1.*高义频：* **[非正式用语] 停止使用**  
 英译 to stop using sth：
 
  > I think you'd better lay off fatty food.  
@@ -1266,7 +1284,8 @@ Sydney wants to become a ________ (律师) in the future.
  > The factory laid off 50 workers in December.  
  > 这家工厂在12月份解雇了50名工人。  
 
-## \*lay out  1.*高义频：* **铺开；展开：**  
+## \*lay out
+1.*高义频：* **铺开；展开：**  
 
  > Over a hundred kinds of tea are laid out in a line on long tables.  
  > 一百多种茶叶在长桌上铺成一排。  
@@ -1376,7 +1395,8 @@ laziness /'leɪzinəs/ n [U]
 
 固定搭配
 ---
-## \*lead up to  1.**是…的先导；是导致…的原因：**  
+## \*lead up to
+1.**是…的先导；是导致…的原因：**  
 
  > the events leading up to the strike   
  > 导致罢工的事件  
@@ -1705,7 +1725,8 @@ Spring has come, and the trees are thick with green ________ (leaf).
 
 固定搭配
 ---
-## \*learn ... by heart   1.**记熟；把…背下来：**  
+## \*learn ... by heart 
+1.**记熟；把…背下来：**  
 
  > I had to learn a poem by heart for the school concert.  
  > 我必须熟记一首诗歌在校音乐会上朗诵。  
@@ -1720,7 +1741,7 @@ learner /'lɜːnə(r)/ n [C]
 ---
 ##### 题目  
 __________ (learn) more about Chinese culture, Jack has decided to take Chinese folk music as an elective course.  
-来源：2015 福建改  
+##### 来源：2015 福建改  
 ##### 答案 To learn  
   
 
@@ -1771,7 +1792,8 @@ __________ (learn) more about Chinese culture, Jack has decided to take Chinese 
 
 固定搭配
 ---
-## \*at (the) least  1.*高义频：* **(数量上) 不少于：**  
+## \*at (the) least
+1.*高义频：* **(数量上) 不少于：**  
 
  > I need at least five days to complete the task.   
  > 我至少需要5天时间来完成这项任务。  
@@ -1783,7 +1805,8 @@ __________ (learn) more about Chinese culture, Jack has decided to take Chinese 
  > 一个好朋友愿意在你需要时提供帮助，或者至少可以给你一些建议。  
  > 来源： 2010 重庆  
 
-## \*not in the least / not the least (bit)   1.**一点儿也不 (not at all)：**  
+## \*not in the least / not the least (bit) 
+1.**一点儿也不 (not at all)：**  
 
  > I didn't know his name or the least bit about him.  
  > 我不知道他的名字，或者说一点儿也不了解他。  
@@ -1794,7 +1817,7 @@ __________ (learn) more about Chinese culture, Jack has decided to take Chinese 
 ---
 ##### 题目  
 The house still needed a lot of work, but ________ (起码) the kitchen was fi nished.  
-来源：2008 全国改  
+##### 来源：2008 全国改  
 ##### 答案 at least  
   
 ##### 题目  
@@ -1803,7 +1826,7 @@ A.the most
 B.more  
 C.worse   
 D.the least  
-来源：2005 江苏  
+##### 来源：2005 江苏  
 ##### 答案 D  
   
 
@@ -1960,7 +1983,8 @@ D.the least
 
 固定搭配
 ---
-## \*leave behind  1.*高义频：* **把...丢在后面；超过：**  
+## \*leave behind
+1.*高义频：* **把...丢在后面；超过：**  
 
  > Sarah, with her long legs, soon left the rest of us behind.  
  > 萨拉腿长，很快就把我们中的其他人抛在身后。  
@@ -1979,7 +2003,8 @@ D.the least
  > She knew that she had left her childhood behind.  
  > 她知道童年一去不复返了。  
 
-## \*leave off  1.*低义频：* **[非正式用语] 停止：**  
+## \*leave off
+1.*低义频：* **[非正式用语] 停止：**  
 
  > Barry took up the story where Justine had left off.   
  > 巴里从贾斯廷停下的地方把故事接着讲了下去。  
@@ -1993,7 +2018,8 @@ D.the least
  > 也许地图的制作者在地图上遗漏了这个十字路口。  
  > 来源：2011 浙江  
 
-## \*leave out  1.*高义频：* **遗漏；不包括：**  
+## \*leave out
+1.*高义频：* **遗漏；不包括：**  
 
  > If you study in a systematic way, you won't leave anything out.  
  > 如果你用系统的方法来学习，你就不会遗漏任何东西。  
@@ -2005,7 +2031,8 @@ D.the least
  > New fathers often feel left out when baby arrives.   
  > 有了孩子后，初为人父者往往有一种被冷落的感觉。  
 
-## \*(be) left over  1.**被剩下；被留下：**  
+## \*(be) left over
+1.**被剩下；被留下：**  
 
  > There were some chairs left over when everyone had sat down.   
  > 当每个人都坐下时，还有一些椅子空着。  
@@ -2014,24 +2041,25 @@ D.the least
  > a left-over child  
  > 留守儿童  
 
-## \*leave room for   1.**为…留有余地**  
+## \*leave room for 
+1.**为…留有余地**  
 
 
 真题解析
 ---
 ##### 题目  
 Now I am leaving home to college.  
-来源：2016 全国 改错  
+##### 来源：2016 全国 改错  
 ##### 答案 to → for  
   
 ##### 题目  
 Video games can be a poor infl uence if ___________ (leave) in the wrong hands.  
-来源：2015 湖南改  
+##### 来源：2015 湖南改  
 ##### 答案 left  
   
 ##### 题目  
 The teacher stressed again that the students should not leave ________ any important details while retelling the story.  
-来源：2008 湖北改  
+##### 来源：2008 湖北改  
 ##### 答案 out  
   
 ##### 题目  
@@ -2324,7 +2352,8 @@ legendary /'ledʒəndri/ adj
 
 固定搭配
 ---
-## \*give / lend (sb) a hand  1.**帮助 (某人)：**  
+## \*give / lend (sb) a hand
+1.**帮助 (某人)：**  
 
  > I saw two men pushing a broken-down car so I stopped to lend (them) a hand.  
  > 我看到两个人正在推一辆抛锚的车，于是停下来帮他们。  
@@ -2337,7 +2366,7 @@ legendary /'ledʒəndri/ adj
 ---
 ##### 题目  
 If you are in trouble, Mike is always willing to ________ (帮忙). (lend)  
-来源：2013 天津改  
+##### 来源：2013 天津改  
 ##### 答案 lend a hand  
   
 
@@ -2370,7 +2399,8 @@ If you are in trouble, Mike is always willing to ________ (帮忙). (lend)
 
 固定搭配
 ---
-## \*at length  1.*低义频：* **最后；终于：**  
+## \*at length
+1.*低义频：* **最后；终于：**  
 
  > At length, we began to understand what he wanted.  
  > 最后，我们开始明白他想要什么了。  
@@ -2426,7 +2456,7 @@ lengthen /'leŋθən/ v
 ---
 ##### 题目  
 I used to earn ________ (不到) a pound a week when I first started work.   
-来源：2006 陕西改  
+##### 来源：2006 陕西改  
 ##### 答案 less than  
   
 
@@ -2463,12 +2493,14 @@ I used to earn ________ (不到) a pound a week when I first started work.
 
 固定搭配
 ---
-## \*even / much / still less   1.**更不用说：**  
+## \*even / much / still less 
+1.**更不用说：**  
 
  > No explanation was offered, still less an apology.   
  > 连个解释也不给，更不用说道歉了。  
 
-## \*less and less   1.**越来越少：**  
+## \*less and less 
+1.**越来越少：**  
 反义词 more and more 
 
  > He showed less and less interest in his research.   
@@ -2477,13 +2509,15 @@ I used to earn ________ (不到) a pound a week when I first started work.
  > My grandfather goes out less and less these days.   
  > 我爷爷现在出门越来越少了。  
 
-## \*less than   1.**少于；不超过：**  
+## \*less than 
+1.**少于；不超过：**  
 
  > We finished the run in less than half the time allowed.   
  > 我们跑完全程用了不到规定时间的一半。  
  > 来源：2008 江西  
 
-## \*no less than   1.**不少于；多达：**  
+## \*no less than 
+1.**不少于；多达：**  
 
  > He paid no less than 100, 000 dollars for the house.  
  > 他买这座房子花了多达10万美元。  
@@ -2497,7 +2531,7 @@ lessen 'lesn v
 ---
 ##### 题目  
 Tony can hardly boil an egg,  ________ (更不用说) cook dinner.  
-来源：2013 全国改  
+##### 来源：2013 全国改  
 ##### 答案 even / much / still less / let alone  
   
 
@@ -2552,7 +2586,8 @@ Tony can hardly boil an egg,  ________ (更不用说) cook dinner.
 
 固定搭配
 ---
-## \*teach sb a lesson   1.**给某人一个教训：**  
+## \*teach sb a lesson 
+1.**给某人一个教训：**  
 
  > It was painful but it has taught me a good lesson.   
  > 这很痛苦，但给了我一个很好的教训。  
@@ -2606,13 +2641,15 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 
 固定搭配
 ---
-## \*let alone   1.**更不用说：**  
+## \*let alone 
+1.**更不用说：**  
 
  > For most people, it's almost impossible to operate a computer without a mouse, let alone surf the Internet.  
  > 对大多数人来说，没有鼠标几乎无法操作计算机，更不用说上网了。  
  > 来源：2009 江苏书面表达  
 
-## \*let ... alone / be   1.**不要碰；不干涉：**  
+## \*let ... alone / be 
+1.**不要碰；不干涉：**  
 
  > Let my things alone!   
  > 别动我的东西。  
@@ -2620,12 +2657,14 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > Let him alone / be. He needs a bit of freedom.   
  > 别管他，他需要一点儿自由。  
 
-## \*let down   1.**使失望；辜负：**  
+## \*let down 
+1.**使失望；辜负：**  
 
  > We did not want to let him down.   
  > 我们不想让他失望。  
 
-## \*let go (of ...) / let ... go  1.**放开；释放；放手：**  
+## \*let go (of ...) / let ... go
+1.**放开；释放；放手：**  
 
  > Let go! You're hurting me!  
  > 放手！你弄疼我了！  
@@ -2637,7 +2676,8 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > 当有人深深地伤害了你时，放下仇恨是非常困难的。  
  > 来源：2013 辽宁  
 
-## \*let … in   1.**让…进来；放进：**  
+## \*let … in 
+1.**让…进来；放进：**  
 
  > The theatre was so small that they refused to let in any more people.   
  > 剧院太小了，所以他们不让更多的人进来。  
@@ -2647,7 +2687,8 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > 我打开了我们卧室的窗户通风。  
  > 来源：2009 福建改  
 
-## \*let off  1.*高义频：* **饶恕；放过：**  
+## \*let off
+1.*高义频：* **饶恕；放过：**  
 
  > She was let off with a fine instead of being sent to prison.  
  > 没让她入狱，而是罚款了事。  
@@ -2658,7 +2699,8 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > 许多其他的人类活动也排放含碳气体。  
  > 来源：译林⑤–2  
 
-## \*let out   1.**发出 (叫声等)；放出；泄露：**  
+## \*let out 
+1.**发出 (叫声等)；放出；泄露：**  
 
  > Throwing their hats into the air, the fans of the winning team let out loud shouts of victory.  
  > 获胜队的支持者把帽子抛向空中，发出胜利的欢呼声。  
@@ -2672,12 +2714,12 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 ---
 ##### 题目  
 Let those in need ________ (understand) that we will go all out to help them.   
-来源：2013 陕西改  
+##### 来源：2013 陕西改  
 ##### 答案 understand  
   
 ##### 题目  
 He accidentally let ________ he had quarrelled with his wife and that he hadn't been home for a couple of weeks.  
-来源：2004 湖南改  
+##### 来源：2004 湖南改  
 ##### 答案 out  
   
 
@@ -2834,7 +2876,8 @@ He accidentally let ________ he had quarrelled with his wife and that he hadn't 
 
 固定搭配
 ---
-## \*at liberty   1.**自由的：**  
+## \*at liberty 
+1.**自由的：**  
 
  > You're at liberty to say what you like.  
  > 你尽可畅所欲言。  
@@ -2979,14 +3022,16 @@ He accidentally let ________ he had quarrelled with his wife and that he hadn't 
 
 固定搭配
 ---
-## \*lie around / about  1.*高义频：* **到处乱扔乱放：**  
+## \*lie around / about
+1.*高义频：* **到处乱扔乱放：**  
 
  > Don't leave toys lying around.  
  > 不要弄得到处是玩具。  
 
 2.*高义频：* **无所事事地混日子**  
 
-## \*lie down   1.**躺下；屈服；顺从：**  
+## \*lie down 
+1.**躺下；屈服；顺从：**  
 
  > I think I shall lie down for an hour. 　  
  > 我想我得躺下休息一个小时。  
@@ -2999,7 +3044,7 @@ He accidentally let ________ he had quarrelled with his wife and that he hadn't 
 ---
 ##### 题目  
 There is no doubt that this candidate’s advantage lies ________ his ability to communicate with foreigners in English.  
-来源：2015 湖北改  
+##### 来源：2015 湖北改  
 ##### 答案 in  
   
 
@@ -3089,13 +3134,15 @@ There is no doubt that this candidate’s advantage lies ________ his ability to
 
 固定搭配
 ---
-## \*all one's life  1.**终生；一辈子：**  
+## \*all one's life
+1.**终生；一辈子：**  
 
  > Bell was an inventor all his life.    
  > 贝尔终生都在搞发明。  
  > 来源：人教⑧ – 3  
 
-## \*bring … to life   1.**使苏醒过来；使更生动：**  
+## \*bring … to life 
+1.**使苏醒过来；使更生动：**  
 
  > He asks the Greek Goddess to bring her to life.  
  > 他请求希腊女神让她复活。  
@@ -3104,7 +3151,8 @@ There is no doubt that this candidate’s advantage lies ________ his ability to
  > The new teacher always brought the class to life with his humor.   
  > 新来的老师总是用他的幽默把课上得生动活泼。  
 
-## \*come to life   1.**苏醒过来；变得活跃 (come alive)：**  
+## \*come to life 
+1.**苏醒过来；变得活跃 (come alive)：**  
 
  > When the girl finally came to life, we began to breathe easily.   
  > 当女孩最终醒过来时我们才松了一口气。  
@@ -3112,7 +3160,8 @@ There is no doubt that this candidate’s advantage lies ________ his ability to
  > The match came to life in the final minutes of the second half.  
  > 比赛在下半场的最后几分钟变得精彩起来。  
 
-## \*life and / or death  1.**生死攸关的；关系重大的：**  
+## \*life and / or death
+1.**生死攸关的；关系重大的：**  
 
  > a life and death decision  
  > 生死攸关的决定  
@@ -3122,7 +3171,7 @@ There is no doubt that this candidate’s advantage lies ________ his ability to
 ---
 ##### 题目  
 You can change your job, you can move house, but friendship is meant to be _______ life.  
-来源：2012 安徽改  
+##### 来源：2012 安徽改  
 ##### 答案 for  
   
 
@@ -3229,7 +3278,8 @@ You can change your job, you can move house, but friendship is meant to be _____
 
 固定搭配
 ---
-## \*give sb a lift   1.**让某人振奋起来：**  
+## \*give sb a lift 
+1.**让某人振奋起来：**  
 
  > The new park has given everyone in the neighbourhood a lift.   
  > 新公园让附近的每个人都很开心。  
@@ -3294,22 +3344,26 @@ You can change your job, you can move house, but friendship is meant to be _____
 
 固定搭配
 ---
-## \*bring … to light   1.**将…曝光；揭露：**  
+## \*bring … to light 
+1.**将…曝光；揭露：**  
 
  > These documents have brought new information to light about Shakespeare's early life.  
  > 这些文献披露了莎士比亚早期生活的新资料。  
 
-## \*come to light   1.**为人所知；暴露：**  
+## \*come to light 
+1.**为人所知；暴露：**  
 
  > A hidden fact has recently come to light through the efforts of the police.   
  > 在警方的努力下，一件隐秘的事实最近被发现了。  
 
-## \*in a good / bad / different / ... light  1.**从好 / 坏 / 不同 / … 的角度：**  
+## \*in a good / bad / different / ... light
+1.**从好 / 坏 / 不同 / … 的角度：**  
 
  > You must not view what happened in a negative light.  
  > 你切不要从负面的角度来看待发生的事。  
 
-## \*throw / cast light on / upon  1.**阐明；使人了解：**  
+## \*throw / cast light on / upon
+1.**阐明；使人了解：**  
 
  > This book throws light on the effects of global climate change.  
  > 这本书使人了解全球气候变化带来的影响。  
@@ -3388,7 +3442,8 @@ You can change your job, you can move house, but friendship is meant to be _____
 
 固定搭配
 ---
-## \*light up   1.**照亮；喜形于色：**  
+## \*light up 
+1.**照亮；喜形于色：**  
 
  > New Year's fireworks lit up the sky over the city.  
  > 新年焰火照亮了整个城市的天空。  
@@ -3506,15 +3561,18 @@ lighter /'laɪtə(r)/ n [C]
 
 固定搭配
 ---
-## \*How do you like ...?   1.**你 (们) 认为…怎么样？**  
+## \*How do you like ...? 
+1.**你 (们) 认为…怎么样？**  
 
  > How do you like this oil painting?    
  > 你认为这幅油画怎么样？  
  > 来源：2008 上海  
 
-## \*I'd like to.  1.**[省略句，作答语用] 我愿意。**  
+## \*I'd like to.
+1.**[省略句，作答语用] 我愿意。**  
 
-## \*if you like   1.**如果你愿意：**  
+## \*if you like 
+1.**如果你愿意：**  
 
  > I can take you there in my car, if you like.   
  > 如果你愿意，我可以开车送你去那里。  
@@ -3525,7 +3583,7 @@ lighter /'laɪtə(r)/ n [C]
 ##### 题目  
 — How about dinner tonight? It’s on me. 
 — Oh, ____________ (我愿意).  
-来源：2014 四川改  
+##### 来源：2014 四川改  
 ##### 答案 I’d like / love to  
   
 
@@ -3628,7 +3686,7 @@ Notes: likely 的主语既可以是人或物，也可以是it。其结构为sb /
 ---
 ##### 题目  
 If you find something you love doing outside of the office, you'll be less likely ________ (bring) your work home.  
-来源：2016 全国  
+##### 来源：2016 全国  
 ##### 答案 to bring  
   
 
@@ -3650,7 +3708,8 @@ If you find something you love doing outside of the office, you'll be less likel
 
 固定搭配
 ---
-## \*Not likely!  1.**[表示强烈的否定] 绝不可能！才不呢！**  
+## \*Not likely!
+1.**[表示强烈的否定] 绝不可能！才不呢！**  
 
  > — Would she mind playing against her former teammates?   
  > 她介意和她以前的队友比赛吗？  
@@ -3664,7 +3723,7 @@ If you find something you love doing outside of the office, you'll be less likel
 ---
 ##### 题目  
 Studies show that people are more ________ (可能) to suffer from back problems if they always sit before computer screens for long hours.  
-来源：2011 陕西改  
+##### 来源：2011 陕西改  
 ##### 答案 likely  
   
 
@@ -3740,7 +3799,8 @@ Studies show that people are more ________ (可能) to suffer from back problems
 
 固定搭配
 ---
-## \*within limits   1.**在某种范围内；适度地：**  
+## \*within limits 
+1.**在某种范围内；适度地：**  
 
  > I'm willing to help, within limits.  
  > 我愿意帮忙，可是有一定限度。  
@@ -3764,7 +3824,8 @@ Studies show that people are more ________ (可能) to suffer from back problems
 
 固定搭配
 ---
-## \*limit … to   1.**将…限制在 (某范围内)：**  
+## \*limit … to 
+1.**将…限制在 (某范围内)：**  
 
  > I believe teaching should not be limited to the classroom.  
  > 我认为教学不应该局限于教室之内。  
@@ -3783,7 +3844,7 @@ limitless /'lɪmɪtləs/ adj
 ---
 ##### 题目  
 Knowledge and learning are important if we want to be successful, but they may also ________ (限制) our thinking.  
-来源：2011 湖北改  
+##### 来源：2011 湖北改  
 ##### 答案 limit  
   
 
@@ -3882,7 +3943,8 @@ Knowledge and learning are important if we want to be successful, but they may a
 
 固定搭配
 ---
-## \*in line with sth  1.**与某事物一致；与某事物紧密相连**  
+## \*in line with sth
+1.**与某事物一致；与某事物紧密相连**  
 
 
 # ***\*line*** vt
@@ -3900,7 +3962,8 @@ Knowledge and learning are important if we want to be successful, but they may a
 
 固定搭配
 ---
-## \*be lined with   1.**排列着 / 排满了：**  
+## \*be lined with 
+1.**排列着 / 排满了：**  
 
  > The street is lined with green trees.   
  > 街道两旁绿树成行。  
@@ -3909,7 +3972,8 @@ Knowledge and learning are important if we want to be successful, but they may a
  > 我的卧室里有一面墙排满了书架。  
  > 来源：2010 四川改  
 
-## \*line up   1.**(使) 排成行；安排：**  
+## \*line up 
+1.**(使) 排成行；安排：**  
 
  > The visitors lined up at the entrance to the exhibition.   
  > 参观的人在展览会入口处排起了队。  
@@ -3982,7 +4046,8 @@ Knowledge and learning are important if we want to be successful, but they may a
 
 固定搭配
 ---
-## \*link ... to / with  1.**把…连接 / 联系起来：**  
+## \*link ... to / with
+1.**把…连接 / 联系起来：**  
 
  > A subway line will link the airport to the city centre.  
  > 地铁将把机场和市中心连接起来。  
@@ -4113,9 +4178,11 @@ Knowledge and learning are important if we want to be successful, but they may a
 
 固定搭配
 ---
-## \*listen for   1.**留神等着听**  
+## \*listen for 
+1.**留神等着听**  
 
-## \*listen in  1.*低义频：* **收听 (电台的广播)**  
+## \*listen in
+1.*低义频：* **收听 (电台的广播)**  
 
 2.*高义频：* **偷听；窃听 (on)：**  
 
@@ -4254,7 +4321,7 @@ Notes: 形容词的比较级和最高级更常用smaller和 smallest，而little
 ---
 ##### 题目  
 There's ________ cooking oil left in the house. Would you go to the corner store and get some?  
-来源：2004 北京改  
+##### 来源：2004 北京改  
 ##### 答案 little  
   
 
@@ -4283,7 +4350,7 @@ Notes: little作状语置于句首时，句子往往部分倒装，结构为：l
 ---
 ##### 题目  
 Little ________ (罗斯在乎) her own safety, though she was in great danger herself.  
-来源：2009 陕西改  
+##### 来源：2009 陕西改  
 ##### 答案 did Rose care about  
   
 
@@ -4306,7 +4373,8 @@ Little ________ (罗斯在乎) her own safety, though she was in great danger he
 
 固定搭配
 ---
-## \*a little   1.**[表示肯定含义] 少量；有点儿 (a bit)：**  
+## \*a little 
+1.**[表示肯定含义] 少量；有点儿 (a bit)：**  
 
  > There was only a little applause when I left the stage.   
  > 我离开舞台时，只有稀稀落落的一点儿掌声。  
@@ -4320,17 +4388,20 @@ Little ________ (罗斯在乎) her own safety, though she was in great danger he
  > 他样样都懂一点儿。  
 
 Notes: a little可修饰不可数名词、形容词、副词和动词等。  
-## \*little by little   1.**逐渐地；一点点地：**  
+## \*little by little 
+1.**逐渐地；一点点地：**  
 
  > His health seems to be improving little by little.   
  > 看来他的健康状况正在逐渐好转。  
 
-## \*not a little   1.**相当多 (much)：**  
+## \*not a little 
+1.**相当多 (much)：**  
 
  > It caused me not a little anxiety.   
  > 此事使我相当焦虑。  
 
-## \*quite a little   1.**相当多**  
+## \*quite a little 
+1.**相当多**  
 
 
 # ***\*little-known*** adj
@@ -4415,18 +4486,21 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 
 固定搭配
 ---
-## \*live a ... life   1.**过…生活 (lead / have a ... life)：**  
+## \*live a ... life 
+1.**过…生活 (lead / have a ... life)：**  
 
  > They're living a happy new life in different areas.  
  > 他们在不同的地方过着幸福的新生活。  
  > 来源：外研③ – 6  
 
-## \*live by   1.**靠…过活：**  
+## \*live by 
+1.**靠…过活：**  
 
  > He lives by writing / teaching.  
  > 他以写作/教书为生。  
 
-## \*live on  1.*低义频：* **继续活着；继续存在：**  
+## \*live on
+1.*低义频：* **继续活着；继续存在：**  
 
  > She died ten years ago but her memory lives on.  
  > 她十年前就去世了，但还留在人们的记忆中。  
@@ -4439,17 +4513,20 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > He lives on a salary of $500 a month.   
  > 他靠每月500美元的薪水生活。  
 
-## \*live through   1.**经历…而幸存：**  
+## \*live through 
+1.**经历…而幸存：**  
 
  > My grandpa lives through two world wars.   
  > 我的爷爷经历过两次世界大战。  
 
-## \*live up to   1.**不辜负；符合；履行：**  
+## \*live up to 
+1.**不辜负；符合；履行：**  
 
  > He failed to live up to his parents'  expectations.  
  > 他辜负了父母的期望。  
 
-## \*live with   1.**和…一起住 (live together)；忍受 (put up with)：**  
+## \*live with 
+1.**和…一起住 (live together)；忍受 (put up with)：**  
 
  > You might not like the situation, but you'll have to learn to live with it.  
  > 你可能不喜欢这种情况，但你必须学会忍受。  
@@ -4459,12 +4536,12 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 ---
 ##### 题目  
 Had she ________ (遵守) her promise, she would have made it to Yale University.  
-来源：2010 湖北改  
+##### 来源：2010 湖北改  
 ##### 答案 live up to / kept  
   
 ##### 题目  
 In modern times, people have to learn to live ________ all kinds of pressure although they are leading a comfortable life.  
-来源：2008 湖北改  
+##### 来源：2008 湖北改  
 ##### 答案 with  
   
 
@@ -4522,7 +4599,7 @@ In modern times, people have to learn to live ________ all kinds of pressure alt
 ---
 ##### 题目  
 The lessons given by Mr Smith are always ________ (生动的) and interesting.  
-来源：2001 上海春改  
+##### 来源：2001 上海春改  
 ##### 答案 lively  
   
 
@@ -4588,7 +4665,8 @@ Notes: the living表示“活着的人”，作主语时，谓语动词用复数
 
 固定搭配
 ---
-## \*make / earn a living   1.**谋生；度日 (earn one's living)：**  
+## \*make / earn a living 
+1.**谋生；度日 (earn one's living)：**  
 
  > On land with rich soil, local farmers can grow crops to make a living.   
  > 在土地肥沃的地方，当地农民可以靠种庄稼谋生。  
@@ -4628,7 +4706,8 @@ Notes: the living表示“活着的人”，作主语时，谓语动词用复数
 
 固定搭配
 ---
-## \*loads of / a load of   1.**很多：**  
+## \*loads of / a load of 
+1.**很多：**  
 
  > There are loads of great places to see in Australia.   
  > 在澳大利亚有很多值得一看的好地方。  
@@ -4741,7 +4820,8 @@ locally /'ləʊkəli/ adv
 
 固定搭配
 ---
-## \*(be) located in / on  1.**坐落于；位于：**  
+## \*(be) located in / on
+1.**坐落于；位于：**  
 
  > One of the world's largest art galleries, the Louvre, is located in Paris.  
  > 作为世界上最大的艺术博物馆之一的卢浮宫坐落在巴黎。  
@@ -4819,7 +4899,8 @@ locally /'ləʊkəli/ adv
 
 固定搭配
 ---
-## \*lock up  1.**锁好 (门窗)；把…锁藏好**  
+## \*lock up
+1.**锁好 (门窗)；把…锁藏好**  
 
 
 # ***\*locker*** n
@@ -4844,7 +4925,8 @@ locally /'ləʊkəli/ adv
 
 固定搭配
 ---
-## \*log in / on  1.**使注册；使登录：**  
+## \*log in / on
+1.**使注册；使登录：**  
 
  > You need a password to log on.  
  > 你需要密码才能登录。  
@@ -4988,7 +5070,8 @@ locally /'ləʊkəli/ adv
 
 固定搭配
 ---
-## \*as / so long as  1.**只要：**  
+## \*as / so long as
+1.**只要：**  
 
  > I don't mind where you go, as long as you're back before midnight.  
  > 只要你在午夜之前回来，你去哪儿都行。  
@@ -4998,12 +5081,14 @@ locally /'ləʊkəli/ adv
  > 一个人只要给别人的生活带来价值，他的生命就是有价值的。  
  > 来源：2012 江苏改  
 
-## \*before long   1.**很快；不久：**  
+## \*before long 
+1.**很快；不久：**  
 
  > I hope to hear from you before long.   
  > 我希望不久就能收到你的信。  
 
-## \*for (so) long   1.**长久地；长时间地：**  
+## \*for (so) long 
+1.**长久地；长时间地：**  
 
  > Danny has worked hard for long to realize his dream.  
  > 为实现梦想，丹尼一直在努力工作。  
@@ -5012,7 +5097,8 @@ locally /'ləʊkəli/ adv
  > 真抱歉，我好长时间没给你写信了。  
  > 来源：译林② – 2  
 
-## \*no longer / not ... any longer   1.**不再：**  
+## \*no longer / not ... any longer 
+1.**不再：**  
 
  > He didn't smoke any longer after the operation.  
  > 动过手术后他不再抽烟了。  
@@ -5026,7 +5112,7 @@ locally /'ləʊkəli/ adv
 ---
 ##### 题目  
 According to a medical journal, runners live three years ________ (long) than non-runners.  
-来源：2018 全国改  
+##### 来源：2018 全国改  
 ##### 答案 longer  
   
 ##### 题目  
@@ -5035,7 +5121,7 @@ A.even though
 B.as long as  
 C.as if  
 D.ever since  
-来源：2015 北京改  
+##### 来源：2015 北京改  
 ##### 答案 as / so long as  
   
 
@@ -5169,7 +5255,8 @@ D.ever since
 
 固定搭配
 ---
-## \*look about / around / round (for)  1.**四下环顾；到处寻找：**  
+## \*look about / around / round (for)
+1.**四下环顾；到处寻找：**  
 
  > He looked about but saw no one.   
  > 他环顾四周，但什么人也没看到。  
@@ -5177,18 +5264,21 @@ D.ever since
  > I'm looking around for a place to live in.  
  > 我正在四处找地方住。  
 
-## \*look after   1.**照顾 (take care of)：**  
+## \*look after 
+1.**照顾 (take care of)：**  
 
  > I'll look after the kids, and you can go visit your mom.  
  > 我来照看孩子，你可以去看望你妈妈。  
  > 来源：2012 陕西  
 
-## \*look ahead (to sth)   1.**展望未来；为将来设想：**  
+## \*look ahead (to sth) 
+1.**展望未来；为将来设想：**  
 
  > The time has come when we should look ahead to the future.   
  > 我们是时候该考虑一下未来了。  
 
-## \*look at   1.**看；查看；看待：**  
+## \*look at 
+1.**看；查看；看待：**  
 
  > Sharon looked at herself in the mirror and sighed.  
  > 莎伦看着镜中的自己，叹息了一声。  
@@ -5198,17 +5288,20 @@ D.ever since
  > 从不同的角度来看待所处的形势。  
  > 来源：2009 上海  
 
-## \*look away from   1.**把目光从…上移开：**  
+## \*look away from 
+1.**把目光从…上移开：**  
 
  > Don’t look away from the person who’s talking to you.  
  > 不要把目光从正在和你说话的人的脸上移开。  
 
-## \*look back  1.**回头看：**  
+## \*look back
+1.**回头看：**  
 
  > He looked back and saw a policeman running after him.   
  > 他回头看见有个警察正在追他。  
 
-## \*look back on / to   1.**回忆；回顾 (reflect on)：**  
+## \*look back on / to 
+1.**回忆；回顾 (reflect on)：**  
 
  > We looked back on the first night we had arrived.   
  > 我们回想起到达后的第一个夜晚。  
@@ -5217,7 +5310,8 @@ D.ever since
  > When I look back to 2017, I am proud of what we have achieved.  
  > 回顾2017年，我为我们所取得的成就感到骄傲。  
 
-## \*look down on / upon  1.**轻视；看不起：**  
+## \*look down on / upon
+1.**轻视；看不起：**  
 
  > Many people look down upon poor people.   
  > 很多人看不起穷人。  
@@ -5226,13 +5320,15 @@ D.ever since
  > Never look down on people who are not superior to you.  
  > 不要轻视不如你的人。  
 
-## \*look for   1.**寻找 (search for)：**  
+## \*look for 
+1.**寻找 (search for)：**  
 
  > It’s about time he started looking for a job.  
  > 是他该开始找工作的时候了。  
  > 来源：北师大⑧ – 24  
 
-## \*look forward to (doing) sth   1.**盼望 / 期待 (做)某事：**  
+## \*look forward to (doing) sth 
+1.**盼望 / 期待 (做)某事：**  
 
  > I am looking forward to your early reply.  
  > 我期待你尽快回复。  
@@ -5242,17 +5338,20 @@ D.ever since
  > 我盼望着下周去参观美术馆。  
  > 来源： 外研② – 4  
 
-## \*look into  1.**调查：**  
+## \*look into
+1.**调查：**  
 
  > The police are looking into the disappearance of two children.  
  > 警方正在调查两个孩子失踪的事件。  
 
-## \*look on   1.**旁观；在一旁观看：**  
+## \*look on 
+1.**旁观；在一旁观看：**  
 
  > The students swam in the pool while the teacher looked on.  
  > 学生们在游泳池里游泳，老师在一旁看着。  
 
-## \*look on / upon ... as   1.**把…看作：**  
+## \*look on / upon ... as 
+1.**把…看作：**  
 
  > They all looked on him as a member of their family.  
  > 他们都把他看作是自家人。  
@@ -5261,7 +5360,8 @@ D.ever since
  > 在18世纪的英国，小说被视为是愚蠢的、不道德的。  
  > 来源：2018 浙江改  
 
-## \*look out (for)   1.**当心；留神 (watch out)：**  
+## \*look out (for) 
+1.**当心；留神 (watch out)：**  
 
  > Whenever Dad’s face turns red, look out!  
  > 爸爸的脸变红时就要小心了！  
@@ -5269,12 +5369,14 @@ D.ever since
  > This is a great place for camping but you have to look out for snakes.   
  > 这是个野营的好地方，但你要提防蛇出没。  
 
-## \*look sb up and down  1.**上下打量某人：**  
+## \*look sb up and down
+1.**上下打量某人：**  
 
  > He looked me up and down with narrowed eyes.   
  > 他眯着眼睛上下打量我。  
 
-## \*look through   1.**浏览；快速查看 (go through)：**  
+## \*look through 
+1.**浏览；快速查看 (go through)：**  
 
  > I looked through today’s newspaper but I found nothing important.   
  > 我翻阅了今天的报纸，但没有发现重要消息。  
@@ -5282,7 +5384,8 @@ D.ever since
  > I must look through these bills and check them before I pay them.   
  > 我必须在付款前查看并核对一下这些账单。  
 
-## \*look up   1.**抬头看；(在词典、计算机等中) 查阅：**  
+## \*look up 
+1.**抬头看；(在词典、计算机等中) 查阅：**  
 
  > **looked up from**  
  > She looked up from her books as I entered the room.  
@@ -5291,12 +5394,14 @@ D.ever since
  > If there are words you do not understand, look them up in a dictionary.   
  > 如果有不懂的单词就查字典。  
 
-## \*look up to   1.**尊敬；仰视：**  
+## \*look up to 
+1.**尊敬；仰视：**  
 
  > I look up to him because he’s a real artist.   
  > 我尊敬他，因为他是个真正的艺术家。  
 
-## \*never / not look back  1.**[非正式用语] 一帆风顺；蒸蒸日上：**  
+## \*never / not look back
+1.**[非正式用语] 一帆风顺；蒸蒸日上：**  
 
  > Her first novel was published in 2014 and since then she hasn't looked back.  
  > 她的第一部小说于2014年发表，自此她便一发不可收拾。  
@@ -5306,32 +5411,32 @@ D.ever since
 ---
 ##### 题目  
 He must have sensed that I ______ (look) at him. He suddenly glanced at me and said quietly, “Why are you staring at me like that?”  
-来源：2015 湖南改  
+##### 来源：2015 湖南改  
 ##### 答案 was looking  
   
 ##### 题目  
 Terry, please look up ________ your cell phone when Grandma is talking to you.   
-来源：2014 安徽改  
+##### 来源：2014 安徽改  
 ##### 答案 from  
   
 ##### 题目  
 I often look _______ the words I don’t know in the dictionary or on the Internet.  
-来源：2011 四川改  
+##### 来源：2011 四川改  
 ##### 答案 up  
   
 ##### 题目  
 No matter how low you consider yourself, there is always someone looking up ________ you wishing they were that high.   
-来源：2010 安徽改  
+##### 来源：2010 安徽改  
 ##### 答案 to  
   
 ##### 题目  
 It is reported that the police will soon look ________ the case of two missing children.   
-来源：2009 江西改  
+##### 来源：2009 江西改  
 ##### 答案 into  
   
 ##### 题目  
 Would you please look ________ the paper for me and see if there are any obvious mistakes?   
-来源：2009 湖北改  
+##### 来源：2009 湖北改  
 ##### 答案 through  
   
 
@@ -5543,7 +5648,8 @@ loosely /'luːsli/ adv
 
 固定搭配
 ---
-## \*lose oneself in   1.**专心于；全神贯注于：**  
+## \*lose oneself in 
+1.**专心于；全神贯注于：**  
 
  > She listened attentively to the music, losing herself in its beauty.   
  > 她专注地听着音乐，完全沉浸在美妙的旋律之中。  
@@ -5607,7 +5713,8 @@ loser /'luːzə(r)/ n [C]
 
 固定搭配
 ---
-## \*at a loss  1.*高义频：* **感到迷惑；不知所措：**  
+## \*at a loss
+1.*高义频：* **感到迷惑；不知所措：**  
 
  > We are at a loss as to what kind of business to start.  
  > 我们不知道该做什么生意。  
@@ -5657,7 +5764,8 @@ loser /'luːzə(r)/ n [C]
 
 固定搭配
 ---
-## \*(be) lost in   1.**沉湎于；专注于：**  
+## \*(be) lost in 
+1.**沉湎于；专注于：**  
 
  > He was lost in his books and did not notice my coming.   
  > 他专注于看书，没注意到我来。  
@@ -5684,7 +5792,8 @@ loser /'luːzə(r)/ n [C]
 
 固定搭配
 ---
-## \*a lot of / lots of  1.**[接可数名词或不可数名词] 很多；许多：**  
+## \*a lot of / lots of
+1.**[接可数名词或不可数名词] 很多；许多：**  
 
  > She spends a lot of money on clothes.   
  > 她花很多钱买衣服。  
@@ -5705,7 +5814,8 @@ loser /'luːzə(r)/ n [C]
 
 固定搭配
 ---
-## \*a lot  1.*低义频：* **[修饰动词] 非常；经常：**  
+## \*a lot
+1.*低义频：* **[修饰动词] 非常；经常：**  
 
  > We need you a lot.   
  > 我们非常需要你。  
@@ -5893,12 +6003,14 @@ lover /'lʌvə(r)/ n [C]
 
 固定搭配
 ---
-## \*be in love (with)  1.**(与…) 相爱：**  
+## \*be in love (with)
+1.**(与…) 相爱：**  
 
  > They married after having been in love for five years.   
  > 他们相爱5年后结婚了。  
 
-## \*fall in love (with)   1.**爱上：**  
+## \*fall in love (with) 
+1.**爱上：**  
 
  > If you fall in love with something and do it all the time, you will get better at it.  
  > 如果你喜欢上某件事，并一直坚持做下去，就会做得更好。  
@@ -5963,7 +6075,8 @@ lover /'lʌvə(r)/ n [C]
 
 固定搭配
 ---
-## \*be low in   1.**含量低：**  
+## \*be low in 
+1.**含量低：**  
 
  > For good heart health, eat a diet that is low in fat and salt.   
  > 为了心脏健康，饮食要低脂少盐。  
@@ -6107,7 +6220,8 @@ loyalty /'lɔɪəlti/ n [U]
 
 固定搭配
 ---
-## \*good luck (with sth)   1.**祝 (…) 好运：**  
+## \*good luck (with sth) 
+1.**祝 (…) 好运：**  
 
  > Good luck with your exams.   
  > 祝你考试成功！  
@@ -6223,7 +6337,8 @@ Mike: ________(祝你好运)!
 
 固定搭配
 ---
-## \*at lunch   1.**在吃午饭：**  
+## \*at lunch 
+1.**在吃午饭：**  
 
  > They were at lunch when we got there.   
  > 我们到那里时，他们正在吃午饭。  

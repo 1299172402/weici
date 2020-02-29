@@ -500,7 +500,7 @@ Notes: 当majority后不接of短语时，如强调整体，谓语动词用单数
 ##### 题目  
 One-third of the country ________ (be) covered with trees and the majority of the citizens ________ (be) black people. 
   
-来源：2011 湖南改  
+##### 来源：2011 湖南改  
 ##### 答案 is; are  
   
 
@@ -576,7 +576,8 @@ Notes: 被动式为be made to do sth
 
 固定搭配
 ---
-## \*be made from / of   1.**由…制造；用…为原料制取：**  
+## \*be made from / of 
+1.**由…制造；用…为原料制取：**  
 
  > Early paper in China was made from bamboo fibre.   
  > 中国早期的纸是由竹子纤维制成的。  
@@ -587,9 +588,11 @@ Notes: 被动式为be made to do sth
  > 来源：外研⑧ – 2  
 
 Notes: be made from通常指从制成品中看不出原料，而be made of通常从成品中能看出原料。  
-## \*make away with  1.**[非正式用语] 偷走**  
+## \*make away with
+1.**[非正式用语] 偷走**  
 
-## \*make … into   1.**把…变成 (turn ... into)：**  
+## \*make … into 
+1.**把…变成 (turn ... into)：**  
 
  > We can make your room into a study.   
  > 我们可以把你的房间改成书房。  
@@ -598,7 +601,8 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 人们靠自己的努力使自己成为赢家。  
  > 来源：2018 天津  
 
-## \*make it  1.*高义频：* **做到；成功：**  
+## \*make it
+1.*高义频：* **做到；成功：**  
 
  > As long as you have a dream, keep trying and you’ll make it.  
  > 只要你有梦想，不断努力就一定会成功。  
@@ -624,7 +628,8 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 我很抱歉昨晚没能参加你的聚会。  
  > 来源：2011 浙江  
 
-## \*make out  1.*高义频：* **勉强看见；听出(distinguish)：**  
+## \*make out
+1.*高义频：* **勉强看见；听出(distinguish)：**  
 
  > I could barely make out the stage in the darkness.   
  > 黑暗中我几乎看不见舞台。  
@@ -651,7 +656,8 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 他假装自己是一名知名医生。  
  > 来源： 译林⑦ – 2  
 
-## \*make up  1.*高义频：* **[不用于进行时] 组成；构成：**  
+## \*make up
+1.*高义频：* **[不用于进行时] 组成；构成：**  
 
  > In some languages, 100 words make up half of all words used in daily conversations.   
  > 在一些语言中，100个词就构成了一半的日常会话用语。  
@@ -681,7 +687,8 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > 她们之间发生过3次激烈的争吵，但每次都重归于好。  
  > 来源：外研⑥ – 3  
 
-## \*make up for   1.**弥补：**  
+## \*make up for 
+1.**弥补：**  
 
  > Westerners should take advantage of the ancient Chinese wisdom to make up for the drawbacks of Western philosophy.  
  > 西方人应当利用古老的中国智慧弥补西方哲学的不足。  
@@ -692,17 +699,17 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 ---
 ##### 题目  
 I love coming here and seeing my family and all the friends I _________ (make) over the years.  
-来源：2019 全国  
+##### 来源：2019 全国  
 ##### 答案 have made  
   
 ##### 题目  
 Caroline doesn’t have a gift for music, but she ________ (弥补) it with hard work.  
-来源：2014 全国改  
+##### 来源：2014 全国改  
 ##### 答案 makes up for  
   
 ##### 题目  
 Sarah made ________ to the airport just in time to catch her plane this morning.  
-来源：2012 全国改  
+##### 来源：2012 全国改  
 ##### 答案 it  
   
 ##### 题目  
@@ -711,7 +718,7 @@ A.make
 B.turn  
 C.take  
 D.have  
-来源：2012 江西  
+##### 来源：2012 江西  
 ##### 答案 A  
   
 ##### 题目  
@@ -719,17 +726,17 @@ American Indians ________ (构成) about five percent of the US population.
 A.fill up  
 B.bring up  
 D.set up  
-来源：2008 浙江改  
+##### 来源：2008 浙江改  
 ##### 答案 make up  
   
 ##### 题目  
 Everybody in the village likes Jack because he is good at telling and making ________ jokes.  
-来源：2005 江苏  
+##### 来源：2005 江苏  
 ##### 答案 up  
   
 ##### 题目  
 The idea puzzled me so much that I stopped for a few seconds to try to make it ________.  
-来源：2003 北京春  
+##### 来源：2003 北京春  
 ##### 答案 out  
   
 
@@ -944,7 +951,7 @@ Your house is always so neat — how do you ________ (设法做到) it with thre
 B.serve   
 C.adapt   
 D.construct  
-来源：2010 山东改  
+##### 来源：2010 山东改  
 ##### 答案 manage  
   
 
@@ -1045,12 +1052,14 @@ D.construct
 
 固定搭配
 ---
-## \*all manner of   1.**[正式用语] 各种各样的：**  
+## \*all manner of 
+1.**[正式用语] 各种各样的：**  
 
  > The problem can be solved in all manner of ways.   
  > 这个问题可以用多种方式解决。  
 
-## \*in a ... manner   1.**用…的方式 / 态度：**  
+## \*in a ... manner 
+1.**用…的方式 / 态度：**  
 
  > They worked in an orderly manner.   
  > 他们有条不紊地工作。  
@@ -1178,7 +1187,8 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 
 固定搭配
 ---
-## \*a good / great many  1.**很多 / 极多：**  
+## \*a good / great many
+1.**很多 / 极多：**  
 
  > **2005 江苏**  
  > This book contains a good many nice pictures.   
@@ -1187,12 +1197,14 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
  > Most of the young men went off to the war, and a great many never came back.   
  > 大部分年轻人上了战场，其中很多人再也没有回来。  
 
-## \*as many as   1.**多达：**  
+## \*as many as 
+1.**多达：**  
 
  > In the 1980s, as many as one million elephants were killed throughout Africa.   
  > 在20世纪80年代，整个非洲有多达100万头大象被杀。  
 
-## \*many a   1.**[正式用语] [接可数名词单数作主语时，谓语动词用单数] 许多的；非常多的：**  
+## \*many a 
+1.**[正式用语] [接可数名词单数作主语时，谓语动词用单数] 许多的；非常多的：**  
 
  > Many a student has attended the lecture.   
  > 很多学生听了这场演讲。  
@@ -1205,12 +1217,12 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 ---
 ##### 题目  
 I have always enjoyed all the events you organized and I hope to attend much more in the coming years.  
-来源：2016 浙江改 改错  
+##### 来源：2016 浙江改 改错  
 ##### 答案 去掉much 或 much → many  
   
 ##### 题目  
 It is reported that many a new house ________ (be) being built at present in the disaster area.  
-来源：2010 陕西改  
+##### 来源：2010 陕西改  
 ##### 答案 is  
   
 
@@ -1370,7 +1382,8 @@ marcher /'mɑːtʃə(r)/ n [C]
 
 固定搭配
 ---
-## \*leave one's mark (on)  1.**取得成功；出名：**  
+## \*leave one's mark (on)
+1.**取得成功；出名：**  
 
  > Winston Churchill has surely left his mark on world history.  
  > 温斯顿 · 丘吉尔已然在世界历史上留下了大名。  
@@ -1443,7 +1456,8 @@ marcher /'mɑːtʃə(r)/ n [C]
 
 固定搭配
 ---
-## \*on the market   1.**在出售；可买到：**  
+## \*on the market 
+1.**在出售；可买到：**  
 
  > There are several new models on the market.   
  > 市面上有好几种新型号在售。  
@@ -1516,12 +1530,14 @@ marcher /'mɑːtʃə(r)/ n [C]
 
 固定搭配
 ---
-## \*be married to   1.**[表示状态] 与…结婚：**  
+## \*be married to 
+1.**[表示状态] 与…结婚：**  
 
  > They have been married to each other for 20 years.   
  > 他们已经结婚20年了。  
 
-## \*get married to   1.**[表示动作] 与…结婚：**  
+## \*get married to 
+1.**[表示动作] 与…结婚：**  
 
  > Jane got married to her husband immediately after graduation.   
  > 简一毕业就嫁给了她丈夫。  
@@ -1867,7 +1883,7 @@ She ________ (匹配) the carpet with some very nice curtains in colour.
 A.connected  
 B.fitted  
 C.equipped  
-来源：2013 江西改  
+##### 来源：2013 江西改  
 ##### 答案 matched / matches  
   
 
@@ -1915,7 +1931,7 @@ C.equipped
 ---
 ##### 题目  
 When building ________ (材料) cost more, the price of houses increases.   
-来源：2008 陕西  
+##### 来源：2008 陕西  
 ##### 答案 materials  
   
 
@@ -2006,7 +2022,8 @@ materially /mə'tɪəriəli/ adv
 
 固定搭配
 ---
-## \*a matter of  1.**关乎…的事情：**  
+## \*a matter of
+1.**关乎…的事情：**  
 
  > Observance of law is a matter of principle for us.   
  > 遵守法律对我们而言是原则问题。  
@@ -2014,7 +2031,8 @@ materially /mə'tɪəriəli/ adv
  > Reducing the number of road deaths is not simply a matter of improving roads.   
  > 减少交通事故的死亡人数不单是改善道路状况的问题。  
 
-## \*no matter   1.**[与疑问词连用] 无论；不管：**  
+## \*no matter 
+1.**[与疑问词连用] 无论；不管：**  
 
  > **no matter what**  
  > You and I will always be friends, no matter what happens.  
@@ -2025,7 +2043,8 @@ materially /mə'tɪəriəli/ adv
  > No matter how hard the rain falls and the wind blows, the police keep to their posts.   
  > 无论雨多急、风多大，警察一直坚守在自己的岗位上。  
 
-## \*take matters in to one's own hands  1.**亲自处理**  
+## \*take matters in to one's own hands
+1.**亲自处理**  
 
  > Alia took matters into her own hands.  
  > 阿利亚把事情揽过来自己处理。  
@@ -2036,7 +2055,7 @@ materially /mə'tɪəriəli/ adv
 ---
 ##### 题目  
 To make matters bad, now I have to share a room with my younger sister, Maggie.  
-来源：2013 浙江 改错  
+##### 来源：2013 浙江 改错  
 ##### 答案 bad → worse  
   
 ##### 题目  
@@ -2045,7 +2064,7 @@ A.affair
 B.event  
 C.matter  
 D.variety  
-来源：2007 山东改  
+##### 来源：2007 山东改  
 ##### 答案 a matter of  
   
 
@@ -2175,7 +2194,8 @@ Notes: matter作动词用时，主要用于疑问句和否定句，并且不用�
 
 固定搭配
 ---
-## \*may as well (do)   1.**还是 (做) …好；倒不如 (做)：**  
+## \*may as well (do) 
+1.**还是 (做) …好；倒不如 (做)：**  
 
  > You may as well go home. He isn’t coming.   
  > 你还是回家去吧，他不来了。  
@@ -2189,7 +2209,7 @@ A.should
 B.need  
 C.shall  
 D.may  
-来源：2015 陕西  
+##### 来源：2015 陕西  
 ##### 答案 D  
   
 ##### 题目  
@@ -2199,7 +2219,7 @@ A.Will
 B.May  
 C.Must  
 D.Need  
-来源：2010 四川  
+##### 来源：2010 四川  
 ##### 答案 B  
   
 ##### 题目  
@@ -2208,7 +2228,7 @@ A.must
 B.may  
 C.should  
 D.would  
-来源：2009 安徽  
+##### 来源：2009 安徽  
 ##### 答案 B  
   
 
@@ -2380,12 +2400,14 @@ D.would
 
 固定搭配
 ---
-## \*be meant to be   1.**被普遍认为是：**  
+## \*be meant to be 
+1.**被普遍认为是：**  
 
  > The restaurant is meant to be excellent.   
  > 大家都说这家饭店很棒。  
 
-## \*I mean   1.**[用于解释或更正刚说过的话] 我 (的意思) 是说：**  
+## \*I mean 
+1.**[用于解释或更正刚说过的话] 我 (的意思) 是说：**  
 
  > — What do you think is the matter with your car?  
  > 你认为你的车有什么毛病？  
@@ -2393,7 +2415,8 @@ D.would
  > — Well, it wouldn’t start at all. I mean, I turned the key and nothing happened.   
  > 唉，它根本发动不起来，我是说，我转动了钥匙，结果什么反应也没有。  
 
-## \*What do you mean ... ?  1.**你是什么意思？**  
+## \*What do you mean ... ?
+1.**你是什么意思？**  
 
 - 
 
@@ -2413,12 +2436,12 @@ D.would
 ---
 ##### 题目  
 I didn't mean ________ (eat) anything but the ice cream looked so good that I couldn't help ________ (try) it.  
-来源：2018 天津改  
+##### 来源：2018 天津改  
 ##### 答案 to eat; trying  
   
 ##### 题目  
 If you think that treating a woman well means always ________ (get) her permission for things, think again.   
-来源：2006 湖南  
+##### 来源：2006 湖南  
 ##### 答案 getting  
   
 
@@ -2502,7 +2525,8 @@ meaningless  /'miːnɪŋləs/ adj
 
 固定搭配
 ---
-## \*by all means   1.**尽一切办法；务必；[表示答应] 当然可以：**  
+## \*by all means 
+1.**尽一切办法；务必；[表示答应] 当然可以：**  
 
  > Please by all means hand in the report on time.   
  > 请务必准时上交报告。  
@@ -2513,12 +2537,14 @@ meaningless  /'miːnɪŋləs/ adj
  > — By all means.   
  > 当然。  
 
-## \*by means of  1.**[正式用语] 借助；依靠：**  
+## \*by means of
+1.**[正式用语] 借助；依靠：**  
 
  > This is a two-year course taught by means of lectures.  
  > 这是一门为期两年的通过讲座形式教授的课程。  
 
-## \*by no means / not by any means  1.**决不；一点也不 not at all：**  
+## \*by no means / not by any means
+1.**决不；一点也不 not at all：**  
 
  > Punishment is by no means a wise choice to help students grow up mentally and physically.  
  > 惩罚绝对不是帮助学生身心成长的明智选择。  
@@ -2537,7 +2563,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ##### 题目  
 — Can I come and have a look at your new house?
 — Yes, ________all means!  
-来源：2011 浙江改  
+##### 来源：2011 浙江改  
 ##### 答案 by  
   
 
@@ -2553,7 +2579,8 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 
 固定搭配
 ---
-## \*in the meantime  1.**在此期间；与此同时：**  
+## \*in the meantime
+1.**在此期间；与此同时：**  
 
  > The doctor will be here soon. In the meantime, try and relax.  
  > 医生很快就来。现在尽量放松一下吧。  
@@ -2588,7 +2615,8 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 
 固定搭配
 ---
-## \*in the meanwhile / meantime   1.**在此期间；与此同时：**  
+## \*in the meanwhile / meantime 
+1.**在此期间；与此同时：**  
 
  > Please find a taxi, and in the meanwhile I’ll pack some food.   
  > 你去叫辆出租车，趁这工夫我打包点吃的。  
@@ -2598,7 +2626,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 ---
 ##### 题目  
 It will be a big help if you go to the store and get what we need for dinner. ________ the meanwhile I’ll set the table.  
-来源：2013 浙江改  
+##### 来源：2013 浙江改  
 ##### 答案 In  
   
 
@@ -2680,7 +2708,7 @@ measurement /'meʒəmənt/ n
 ---
 ##### 题目  
 They finished ________ (测量) that piece of land last week.   
-来源：2005 全国  
+##### 来源：2005 全国  
 ##### 答案 measuring  
   
 
@@ -2837,7 +2865,7 @@ They finished ________ (测量) that piece of land last week.
 ---
 ##### 题目  
 Modern m________ has cured many diseases that used to kill many people.  
-来源：2005 浙江  
+##### 来源：2005 浙江  
 ##### 答案 medicine  
   
 
@@ -2956,13 +2984,15 @@ Modern m________ has cured many diseases that used to kill many people.
 
 固定搭配
 ---
-## \*meet up  1.**碰面；会面：**  
+## \*meet up
+1.**碰面；会面：**  
 
  > **meet up with**  
  > I’ve got to go now, but I’ll meet up with you later.  
  > 我现在要走了，但是以后我们还会再见。  
 
-## \*meet with  1.*高义频：* **会见；会晤：**  
+## \*meet with
+1.*高义频：* **会见；会晤：**  
 
  > I'm going to meet with Professor Smith at ten past two.  
  > 我两点十分要和史密斯教授会面。  
@@ -3201,7 +3231,8 @@ Modern m________ has cured many diseases that used to kill many people.
 
 固定搭配
 ---
-## \*in memory of   1.**作为对…的纪念；纪念：**  
+## \*in memory of 
+1.**作为对…的纪念；纪念：**  
 
  > A film will be made in memory of those brave fire fighters.   
  > 为了纪念那些勇敢的消防战士，一部电影即将开拍。  
@@ -3291,9 +3322,11 @@ mentally /'mentəli/ adv
 
 固定搭配
 ---
-## \*Don’t mention it.   1.**[答复别人道谢时的用语] 不用客气。**  
+## \*Don’t mention it. 
+1.**[答复别人道谢时的用语] 不用客气。**  
 
-## \*not to mention   1.**更不用提：**  
+## \*not to mention 
+1.**更不用提：**  
 
  > When starting your own business, you shouldn’t think of a free day, not to mention flying off for a month’s vacation.   
  > 创业期间，你别想有一天的空闲时间，更别说乘飞机去度一个月的假了。  
@@ -3303,7 +3336,7 @@ mentally /'mentəli/ adv
 ---
 ##### 题目  
 I hear they’ve promoted Tom, but he didn’t mention ________ (promote) when we talked on the phone.   
-来源：2008 江西改  
+##### 来源：2008 江西改  
 ##### 答案 being / having been promoted  
   
 
@@ -3404,7 +3437,8 @@ I hear they’ve promoted Tom, but he didn’t mention ________ (promote) when w
 
 固定搭配
 ---
-## \*at the mercy of   1.**完全受…支配；任凭…摆布：**  
+## \*at the mercy of 
+1.**完全受…支配；任凭…摆布：**  
 
  > The little ship was at the mercy of the storm.   
  > 小船在暴风雨中失去控制。  
@@ -3451,7 +3485,7 @@ I hear they’ve promoted Tom, but he didn’t mention ________ (promote) when w
 ---
 ##### 题目  
 I wasn’t blaming anyone; I ________ (mere) said errors like this could be avoided.  
-来源：2010 湖北改  
+##### 来源：2010 湖北改  
 ##### 答案 merely  
   
 
@@ -3520,7 +3554,8 @@ I wasn’t blaming anyone; I ________ (mere) said errors like this could be avoi
 
 固定搭配
 ---
-## \*mess up   1.**弄脏；弄乱；弄糟：**  
+## \*mess up 
+1.**弄脏；弄乱；弄糟：**  
 
  > Don’t mess up the house while I’m gone.   
  > 我不在的时候别把房子弄得乱糟糟的。  
@@ -3528,7 +3563,8 @@ I wasn’t blaming anyone; I ________ (mere) said errors like this could be avoi
  > It doesn't matter if you mess it up; you can always try again.  
  > 要是搞砸了也没关系，你总是可以再来一次的。  
 
-## \*mess with  1.**与…有牵连；欺骗；试图改变**  
+## \*mess with
+1.**与…有牵连；欺骗；试图改变**  
 
 
 # ***\*message*** n
@@ -3559,7 +3595,8 @@ I wasn’t blaming anyone; I ________ (mere) said errors like this could be avoi
 
 固定搭配
 ---
-## \*get the message   1.**领悟；理解；明白 (别人的暗示)：**  
+## \*get the message 
+1.**领悟；理解；明白 (别人的暗示)：**  
 
  > — Mark, I think you’re the right person for the job.  
  > 马克，我认为你是这个职位的合适人选。  
@@ -3572,7 +3609,7 @@ I wasn’t blaming anyone; I ________ (mere) said errors like this could be avoi
 ---
 ##### 题目  
 There’s a ________(留言) from Karen on the phone.   
-来源：2007 全国  
+##### 来源：2007 全国  
 ##### 答案 message  
   
 
@@ -3704,7 +3741,7 @@ There’s a ________(留言) from Karen on the phone.
 ---
 ##### 题目  
 Modern methods ________ tracking polar bear populations have been employed only since the mid-1980s.  
-来源：2019 全国  
+##### 来源：2019 全国  
 ##### 答案 of/for  
   
 
@@ -3821,7 +3858,7 @@ Modern methods ________ tracking polar bear populations have been employed only 
 ---
 ##### 题目  
 It was a relief and I came to a sudden stop just in the middle on the road.  
-来源：2017 全国  改错  
+##### 来源：2017 全国  改错  
 ##### 答案 on → of  
   
 
@@ -3953,7 +3990,7 @@ A.shall
 B.must  
 C.need  
 D.might  
-来源：2014 江西  
+##### 来源：2014 江西  
 ##### 答案 D  
   
 ##### 题目  
@@ -3963,7 +4000,7 @@ A.might
 B.need   
 C. would  
 D. should  
-来源：2013 北京  
+##### 来源：2013 北京  
 ##### 答案 A  
   
 
@@ -4228,12 +4265,14 @@ D. should
 
 固定搭配
 ---
-## \*be of the same mind   1.**意见相同；保持原来的意见：**  
+## \*be of the same mind 
+1.**意见相同；保持原来的意见：**  
 
  > We are all of the same mind about this issue.   
  > 我们在这个问题上意见一致。  
 
-## \*bear / keep … in mind   1.**将…记在心中；记起 (bear / keep in mind that)：**  
+## \*bear / keep … in mind 
+1.**将…记在心中；记起 (bear / keep in mind that)：**  
 
  > It’s a good idea — I’ll bear it in mind.   
  > 这是个好主意，我会记在心里的。  
@@ -4242,23 +4281,27 @@ D. should
  > 不管何时以何种方式记笔记，你都要记住，记笔记是个有选择性的过程。  
  > 来源： 2008 全国  
 
-## \*change one’s mind   1.**改变主意：**  
+## \*change one’s mind 
+1.**改变主意：**  
 
  > When I first met Bryan I didn’t like him, but I have changed my mind.   
  > 我第一次见到布赖恩时并不喜欢他，但是现在我的看法变了。  
  > 来源：2013 全国  
 
-## \*come into one’s mind   1.**掠过 / 进入某人的脑海：**  
+## \*come into one’s mind 
+1.**掠过 / 进入某人的脑海：**  
 
  > Suddenly a terrible thought came into my mind.   
  > 突然一个可怕的念头出现在我的脑海。  
 
-## \*have sb / sth in mind (for sth)   1.**(对某事) 心中有合适的人选 / 想做的事：**  
+## \*have sb / sth in mind (for sth) 
+1.**(对某事) 心中有合适的人选 / 想做的事：**  
 
  > Do you have anyone in mind for the job?   
  > 你心目中有做这项工作的合适人选吗？  
 
-## \*make up one’s mind   1.**拿定主意；下定决心：**  
+## \*make up one’s mind 
+1.**拿定主意；下定决心：**  
 
  > Once she has made up her mind, nothing can change it.  
  > 她一旦拿定主意就不会改变主意。  
@@ -4268,12 +4311,14 @@ D. should
  > He has made up his mind to overcome his shortcomings.  
  > 他已经下决心要克服自己的缺点。  
 
-## \*on sb’s mind   1.**在某人心上：**  
+## \*on sb’s mind 
+1.**在某人心上：**  
 
  > There are many problems on his mind.   
  > 他心事重重。  
 
-## \*put / set / turn one’s mind to / set one’s mind on  1.**集中精力做：**  
+## \*put / set / turn one’s mind to / set one’s mind on
+1.**集中精力做：**  
 
  > She could have been a brilliant pianist if she’d put her mind to it.   
  > 如果她专心致志，本可以成为一名杰出的钢琴家。  
@@ -4283,7 +4328,7 @@ D. should
 ---
 ##### 题目  
 He and his wife are ________ the same mind; they both want their son to go to college.  
-来源：2007 陕西改  
+##### 来源：2007 陕西改  
 ##### 答案 of  
   
 
@@ -4336,12 +4381,14 @@ He and his wife are ________ the same mind; they both want their son to go to co
 
 固定搭配
 ---
-## \*mind your own business  1.**[非正式用语] 别管闲事：**  
+## \*mind your own business
+1.**[非正式用语] 别管闲事：**  
 
  > Why don’t you just mind your own business and leave me in peace?  
  > 你为什么就不能别管闲事，让我清静一下呢？  
 
-## \*Never mind.  1.**不要紧。/ 没关系。**  
+## \*Never mind.
+1.**不要紧。/ 没关系。**  
 
 
 真题解析
@@ -4353,13 +4400,13 @@ A.I wouldn’t mind that
 B.Then we’ll get there quickly  
 C.Let’s call it a day  
 D.It’s not a requirement  
-来源：2015 浙江  
+##### 来源：2015 浙江  
 ##### 答案 A  
   
 ##### 题目  
 — Is Peter coming?
 — No, he ________ (改变了主意) after a phone call at the last minute.  
-来源：2015 重庆改  
+##### 来源：2015 重庆改  
 ##### 答案 changed his mind  
   
 ##### 题目  
@@ -4369,12 +4416,12 @@ A.You are welcome
 B.That’s right  
 C. I have no idea  
 D.Never mind  
-来源：2012 山东  
+##### 来源：2012 山东  
 ##### 答案 D  
   
 ##### 题目  
 Why don’t you just ________ (别管闲事) and leave me alone?  
-来源：2007 全国改  
+##### 来源：2007 全国改  
 ##### 答案 mind your own business  
   
 
@@ -4713,39 +4760,46 @@ Why don’t you just ________ (别管闲事) and leave me alone?
 
 固定搭配
 ---
-## \*(at) any minute  1.**随时：**  
+## \*(at) any minute
+1.**随时：**  
 
  > Hurry up! He’ll be back at any minute.   
  > 快点儿！他随时会回来。  
 
-## \*in a minute   1.**马上；立刻：**  
+## \*in a minute 
+1.**马上；立刻：**  
 
  > I’ll take your order in a minute.   
  > 我马上过来请您点餐。  
  > 来源：人教③ – 3  
 
-## \*just a minute / moment / second   1.**等一下：**  
+## \*just a minute / moment / second 
+1.**等一下：**  
 
  > Just a minute, Margaret, I want to introduce you to Betty.   
  > 等一下，玛格丽特，我想把你介绍给贝蒂。  
 
-## \*the last minute   1.**最后一刻：**  
+## \*the last minute 
+1.**最后一刻：**  
 
  > You really like leaving things to the last minute.   
  > 你就是喜欢把事情拖到最后一刻。  
  > 来源：2010 湖北  
 
-## \*the minute / moment (that)   1.**一…就：**  
+## \*the minute / moment (that) 
+1.**一…就：**  
 
  > The minute he saw me he turned red.   
  > 他一看到我脸就红了。  
 
-## \*this minute   1.**立刻；马上：**  
+## \*this minute 
+1.**立刻；马上：**  
 
  > Come down this minute.   
  > 马上下来。  
 
-## \*wait a minute / moment / second   1.**等一会儿； 等一下**  
+## \*wait a minute / moment / second 
+1.**等一会儿； 等一下**  
 
 
 # ***\*mirror*** n
@@ -4778,7 +4832,7 @@ Why don’t you just ________ (别管闲事) and leave me alone?
 ---
 ##### 题目  
 Jenny spends hours in front of the ________ (镜子)!   
-来源：2006 全国  
+##### 来源：2006 全国  
 ##### 答案 mirror  
   
 
@@ -4935,7 +4989,8 @@ Jenny spends hours in front of the ________ (镜子)!
 
 固定搭配
 ---
-## \*miss out   1.**遗漏；失去 (机会)：**  
+## \*miss out 
+1.**遗漏；失去 (机会)：**  
 
  > I’ll read through the guest list again to make sure I haven’t missed anybody out.   
  > 我要再看一遍宾客名单，以免漏掉谁。  
@@ -4948,12 +5003,12 @@ Jenny spends hours in front of the ________ (镜子)!
 ---
 ##### 题目  
 Cecily, I shall ________ (想念) our pleasant talks when you leave.  
-来源：2015 陕西  
+##### 来源：2015 陕西  
 ##### 答案 miss  
   
 ##### 题目  
 We ________ (未赶上) the last bus and didn’t have any money for taxi, so we had to walk home.  
-来源：2006 全国改  
+##### 来源：2006 全国改  
 ##### 答案 missed  
   
 
@@ -5014,7 +5069,7 @@ Notes: be missing表示状态；get lost表示动作。
 ---
 ##### 题目  
 Police are now searching for a woman who is reported to ________ (miss) since the flood hit the area last Friday.   
-来源：2006 山东  
+##### 来源：2006 山东  
 ##### 答案 have been missing  
   
 
@@ -5084,7 +5139,8 @@ misty /'mɪsti/ adj
 
 固定搭配
 ---
-## \*by mistake  1.**错误地；无意地 (accidentally)**  
+## \*by mistake
+1.**错误地；无意地 (accidentally)**  
 反义词 on purpose 
 
  > Someone has taken my dictionary by mistake.  
@@ -5108,7 +5164,8 @@ misty /'mɪsti/ adj
 
 固定搭配
 ---
-## \*mistake ... for   1.**把…错当成…：**  
+## \*mistake ... for 
+1.**把…错当成…：**  
 
  > Perhaps he had mistaken me for someone else.   
  > 他可能误把我当成其他人了。  
@@ -5236,7 +5293,8 @@ misunderstood /ˌmɪsʌndə'stʊd/ adj
 
 固定搭配
 ---
-## \*mix up  1.*高义频：* **搅匀；使混合：**  
+## \*mix up
+1.*高义频：* **搅匀；使混合：**  
 
  > Dashan, who has been learning crosstalk, the Chinese comedic tradition, for decades, wants to mix it up with the Western stand-up tradition.  
  > 几十年来，大山一直在学习相声这一中国传统的喜剧形式，想把它与西方单口相声结合起来。  
@@ -5439,7 +5497,8 @@ mixed /mɪkst/ adj
 
 固定搭配
 ---
-## \*be modeled on / after  1.**模仿；仿照**  
+## \*be modeled on / after
+1.**模仿；仿照**  
 
 
 # ***\*modem*** n
@@ -5476,7 +5535,7 @@ mixed /mɪkst/ adj
 ---
 ##### 题目  
 The ________ (现代) history of Italy dates from 1860.   
-来源：2012 全国  
+##### 来源：2012 全国  
 ##### 答案 modern  
   
 
@@ -5600,43 +5659,51 @@ The ________ (现代) history of Italy dates from 1860.
 
 固定搭配
 ---
-## \*(at) any moment (now)   1.**马上；立刻：**  
+## \*(at) any moment (now) 
+1.**马上；立刻：**  
 
  > Hurry up! He’ll be back any moment now.   
  > 快点儿！他马上就会回来。  
 
-## \*(at) the last moment   1.**(在) 最后一刻：**  
+## \*(at) the last moment 
+1.**(在) 最后一刻：**  
 
  > They changed the plans at the last moment.   
  > 他们在最后一刻改变了计划。  
 
-## \*at the moment   1.**此刻；目前：**  
+## \*at the moment 
+1.**此刻；目前：**  
 
  > I’m terribly busy at the moment.   
  > 我目前忙得很。  
 
-## \*for a moment   1.**片刻；一会儿：**  
+## \*for a moment 
+1.**片刻；一会儿：**  
 
  > He was silent for a moment.   
  > 他沉默了一会儿。  
 
-## \*for the moment   1.**暂时；目前 (for the present)：**  
+## \*for the moment 
+1.**暂时；目前 (for the present)：**  
 
  > I’m not very happy at work, but I’ll stay there for the moment.   
  > 我工作得不太开心，但暂时还会留在那里。  
 
-## \*in a moment   1.**马上；立即：**  
+## \*in a moment 
+1.**马上；立即：**  
 
  > I’ll be ready in a moment.   
  > 我马上就准备好。  
 
-## \*one moment … the next   1.**一会儿…过一会儿：**  
+## \*one moment … the next 
+1.**一会儿…过一会儿：**  
 
  > One moment it was quiet and calm in the forest, the next, the air was charged with tension.    
  > 一会儿森林里寂静无声，过一会儿，空气中弥漫着紧张的气氛。  
  > 来源：2014 重庆  
 
-## \*the moment (that)   1.**[引导时间状语从句，相当于连词as soon as] 一… (就…)：**  
+## \*the moment (that) 
+1.**[引导时间状语从句，相当于连词as soon as] 一… (就…)：**  
 
  > Alisha fell asleep the moment she got into bed.   
  > 艾丽莎一上床就睡着了。  
@@ -5652,7 +5719,7 @@ The ________ (现代) history of Italy dates from 1860.
 ##### 题目  
 — Shall we go out for a walk?
 — Sorry. This is not ________ (适当的时机) to invite me. I am too tired to walk.  
-来源：2008 江西改  
+##### 来源：2008 江西改  
 ##### 答案 the right moment  
   
 
@@ -5704,7 +5771,8 @@ The ________ (现代) history of Italy dates from 1860.
 
 固定搭配
 ---
-## \*make money   1.**赚钱；获利**  
+## \*make money 
+1.**赚钱；获利**  
 
 
 # ***\*monitor*** n
@@ -5928,7 +5996,8 @@ The ________ (现代) history of Italy dates from 1860.
 
 固定搭配
 ---
-## \*mop up   1.**擦干；肃清：**  
+## \*mop up 
+1.**擦干；肃清：**  
 
  > He mopped up the spilt milk.  
  > 他擦干了洒出来的牛奶。  
@@ -6052,18 +6121,21 @@ morally  /'mɒrəli/ adv
 
 固定搭配
 ---
-## \*all the more   1.**更加；越发：**  
+## \*all the more 
+1.**更加；越发：**  
 
  > His mother asked him to stop teasing the cat, but he only did it all the more.   
  > 他妈妈叫他不要再逗这只猫，他反而更起劲了。  
 
-## \*more and more   1.**越来越 (多的 / 地) (increasingly)**  
+## \*more and more 
+1.**越来越 (多的 / 地) (increasingly)**  
 反义词 less and less 
 
  > More and more people are using smart phones for information and entertainment.  
  > 越来越多的人在用智能手机获取信息和娱乐。  
 
-## \*more or less   1.**或多或少；几乎；差不多：**  
+## \*more or less 
+1.**或多或少；几乎；差不多：**  
 
  > Her health has more or less improved.   
  > 她的身体状况多少有点好转了。  
@@ -6071,7 +6143,8 @@ morally  /'mɒrəli/ adv
  > The work is more or less finished.  
  > 工作基本上完成了。  
 
-## \*more than  1.*高义频：* **多于...的；不止：**  
+## \*more than
+1.*高义频：* **多于...的；不止：**  
 
  > For many, fishing is more than a sport; it is an art.  
  > 对很多人来说，钓鱼不只是一项运动，它是一门艺术。  
@@ -6087,7 +6160,8 @@ morally  /'mɒrəli/ adv
  > 我非常乐意帮忙。  
  > 来源：2010 全国书面表达  
 
-## \*no more   1.**不再 (not ... any more)：**  
+## \*no more 
+1.**不再 (not ... any more)：**  
 
  > He works in a shop and is no more a student.   
  > 他现在在商店工作，已经不再是学生了。  
@@ -6096,12 +6170,14 @@ morally  /'mɒrəli/ adv
  > 别再浪费时间和金钱了。  
  > 来源： 2009 湖南  
 
-## \*no more than   1.**仅仅：**  
+## \*no more than 
+1.**仅仅：**  
 
  > His whole school education added up to no more than three years.   
  > 他所受的学校教育全部加起来不过3年。  
 
-## \*not more than   1.**不超过：**  
+## \*not more than 
+1.**不超过：**  
 
  > He earns not more than 2,000 dollars a month.    
  > 他每月所赚的钱不超过2000美元。  
@@ -6109,12 +6185,14 @@ morally  /'mɒrəli/ adv
 #### 辨析 no more (…) than, not more (…) than
   
 
-## \*once more   1.**再次；又：**  
+## \*once more 
+1.**再次；又：**  
 
  > Once more the soldiers attacked and once more they were defeated.   
  > 士兵们又发起了进攻，但又一次被打败了。  
 
-## \*the more ..., the more ...   1.**愈…，愈…：**  
+## \*the more ..., the more ... 
+1.**愈…，愈…：**  
 
  > The more learned a man is, the more modest he usually becomes.  
  > 一个人学识越渊博，通常也会越谦虚。  
@@ -6124,7 +6202,8 @@ morally  /'mɒrəli/ adv
  > 我读的书越多，学到的知识也越多。  
  > 来源：外研① – 5  
 
-## \*what is more   1.**更为重要的是；更有甚者：**  
+## \*what is more 
+1.**更为重要的是；更有甚者：**  
 
  > He studies very hard, and what’s more, he is ready to help others.   
  > 他学习非常刻苦，更重要的是他乐于助人。  
@@ -6134,17 +6213,17 @@ morally  /'mɒrəli/ adv
 ---
 ##### 题目  
 If parents have children help with housework, the children will feel needed. ________ (更为重要的是), they will learn to take care of themselves.  
-来源：2013 安徽改  
+##### 来源：2013 安徽改  
 ##### 答案 What’s more  
   
 ##### 题目  
 Many people have donated that type of blood; however, the blood bank needs ________ (much).  
-来源：2012 北京改  
+##### 来源：2012 北京改  
 ##### 答案 more  
   
 ##### 题目  
 It took ________ (不止) building supplies to construct these energy-saving houses. It took brains, too.  
-来源：2009 浙江改  
+##### 来源：2009 浙江改  
 ##### 答案 more than  
   
 
@@ -6240,12 +6319,14 @@ It took ________ (不止) building supplies to construct these energy-saving hou
 
 固定搭配
 ---
-## \*at (the) most  1.**至多；不超过：**  
+## \*at (the) most
+1.**至多；不超过：**  
 
  > The railway will be completed in six months at (the) most.   
  > 这条铁路至多6个月就会完工。  
 
-## \*make the most of  1.**充分利用 (get the most out of)：**  
+## \*make the most of
+1.**充分利用 (get the most out of)：**  
 
  > I hope you will all make the most of this chance to share information and opinions.   
  > 我希望你们大家都充分利用这个机会分享信息、交流意见。  
@@ -6273,7 +6354,8 @@ It took ________ (不止) building supplies to construct these energy-saving hou
 
 固定搭配
 ---
-## \*most of all   1.**最重要的是；特别：**  
+## \*most of all 
+1.**最重要的是；特别：**  
 
  > — Why don’t you just take the plane? It’s much faster.   
  > 你为什么不乘飞机？那样会快得多。  
@@ -6286,7 +6368,7 @@ It took ________ (不止) building supplies to construct these energy-saving hou
 ---
 ##### 题目  
 The children loved their day trip, and they enjoyed the horse ride ________ (much).  
-来源：2009 全国改  
+##### 来源：2009 全国改  
 ##### 答案 most  
   
 
@@ -6395,7 +6477,7 @@ motivated /'məʊtɪveɪtɪd/ adj
 ---
 ##### 题目  
 Her motivation ________ writing was a desire for women to get the right to higher education.  
-来源：2014 湖北改  
+##### 来源：2014 湖北改  
 ##### 答案 for  
   
 
@@ -6558,7 +6640,8 @@ Her motivation ________ writing was a desire for women to get the right to highe
 
 固定搭配
 ---
-## \*a mountain of / mountains of   1.**大量；大堆：**  
+## \*a mountain of / mountains of 
+1.**大量；大堆：**  
 
  > a mountain of / mountains of work / debt / sandwiches   
  > 一大堆的工作/债务/三明治  
@@ -6662,7 +6745,8 @@ Her motivation ________ writing was a desire for women to get the right to highe
 
 固定搭配
 ---
-## \*keep one’s mouth shut   1.**保守秘密；守口如瓶**  
+## \*keep one’s mouth shut 
+1.**保守秘密；守口如瓶**  
 
 
 派生词汇
@@ -6743,12 +6827,14 @@ mouthful /'maʊθfʊl/ n [C]
 
 固定搭配
 ---
-## \*move about / around  1.**四处走动；经常搬动：**  
+## \*move about / around
+1.**四处走动；经常搬动：**  
 
  > He became very ill and it was difficult for him to even move around.   
  > 他病得很重，甚至连走动都很困难。  
 
-## \*move on   1.**继续前进；转换 (话题)：**  
+## \*move on 
+1.**继续前进；转换 (话题)：**  
 
  > After a few minutes, the bus moved on again.  
  > 几分钟后，公共汽车又继续往前开了。  
@@ -6883,7 +6969,7 @@ mov(e)able /'muːvəbl/ adj
 ---
 ##### 题目  
 He doesn’t have many furniture in his room — just an old desk.  
-来源：2008 陕西改 改错  
+##### 来源：2008 陕西改 改错  
 ##### 答案 many → much  
   
 
@@ -6942,23 +7028,27 @@ He doesn’t have many furniture in his room — just an old desk.
 
 固定搭配
 ---
-## \*as much   1.**同样数量；同样的事：**  
+## \*as much 
+1.**同样数量；同样的事：**  
 
  > Tony lent me the money, hoping that I’d do as much for him.  
  > 托尼借给我钱，希望我以后也会为他做同样的事。  
  > 来源：2012 全国  
 
-## \*as much as   1.**像…那么多；多达：**  
+## \*as much as 
+1.**像…那么多；多达：**  
 
  > She spends as much as $2,000 on clothes every month.   
  > 她每月买衣服的开销高达2000美元。  
 
-## \*as much … as   1.**和…同样多的；和…一样：**  
+## \*as much … as 
+1.**和…同样多的；和…一样：**  
 
  > We didn’t spend as much time at the museum as I had hoped.  
  > 我们在博物馆花的时间没有我期望的那么长。  
 
-## \*as much as sb can / could (do)  1.**尽某人最大努力 (as much as possible)：**  
+## \*as much as sb can / could (do)
+1.**尽某人最大努力 (as much as possible)：**  
 
  > I have done as much as I could do to help him.   
  > 我已尽力去帮助他了。  
@@ -6966,13 +7056,15 @@ He doesn’t have many furniture in his room — just an old desk.
  > Students are encouraged to read as much as possible outside school.   
  > 我们鼓励学生在课外尽量多阅读。  
 
-## \*how much   1.**多少；什么价钱：**  
+## \*how much 
+1.**多少；什么价钱：**  
 
  > Any owner will tell you how much joy a pet brings.  
  > 任何一位宠物的主人都会告诉你宠物会带来多少欢乐。  
  > 来源： 2010 全国  
 
-## \*not / nothing much  1.**没什么：**  
+## \*not / nothing much
+1.**没什么：**  
 
  > — Is there anything wrong, Bob? You look sad.  
  > 鲍勃，怎么了？你看起来很难过。  
@@ -6980,7 +7072,8 @@ He doesn’t have many furniture in his room — just an old desk.
  > — Oh, nothing much. In fact, I was just thinking of my friends back home.  
  > 哦，没什么。事实上我刚才在想念家乡的朋友们。  
 
-## \*so much for   1.**[用于结束某个话题] 到此为止：**  
+## \*so much for 
+1.**[用于结束某个话题] 到此为止：**  
 
  > So much for all those introductions. It’s time to get down to business.   
  > 就介绍这么多吧，该开始工作了。  
@@ -6990,13 +7083,13 @@ He doesn’t have many furniture in his room — just an old desk.
 ---
 ##### 题目  
 I wanted to be a teacher because I liked my English teacher too much.  
-来源：2019全国  改错  
+##### 来源：2019全国  改错  
 ##### 答案 too → very / so  
   
 ##### 题目  
 — What did you do last weekend?
 — Oh, ________ (没什么).  
-来源：2014 全国改  
+##### 来源：2014 全国改  
 ##### 答案 nothing / not much  
   
 ##### 题目  
@@ -7006,17 +7099,17 @@ A.too much long
 B.much too long  
 C.long too much  
 D.too long much  
-来源：2009 全国  
+##### 来源：2009 全国  
 ##### 答案 B  
   
 ##### 题目  
 Usually John would be late for meetings. But this time, ________ (令我非常吃惊的是), he arrived on time.  
-来源：2009 北京改  
+##### 来源：2009 北京改  
 ##### 答案 much to my surprise  
   
 ##### 题目  
 He doesn’t have many furniture in his room — just an old desk.  
-来源：2008 陕西改  改错  
+##### 来源：2008 陕西改  改错  
 ##### 答案 many → much  
   
 
@@ -7382,7 +7475,8 @@ Notes: must表示推测时，一般用于肯定句。
 
 固定搭配
 ---
-## \*if you must (do sth)  1.**如果你一定要(做某事)：**  
+## \*if you must (do sth)
+1.**如果你一定要(做某事)：**  
 
  > If you must smoke, please go outside.  
  > 如果你一定要抽烟的话，请去外面抽。  
@@ -7398,23 +7492,23 @@ A.may
 B.can  
 C.must  
 D.dare  
-来源：2015 北京  
+##### 来源：2015 北京  
 ##### 答案 C  
   
 ##### 题目  
 You _________ be Carol. You haven’t changed a bit after all these years.  
-来源：2015 重庆改  
+##### 来源：2015 重庆改  
 ##### 答案 must  
   
 ##### 题目  
 — I spent two weeks in London last summer.
 — Then you must have visited the British Museum during your stay, ________ you?  
-来源：2014 重庆改  
+##### 来源：2014 重庆改  
 ##### 答案 didn’t  
   
 ##### 题目  
 Since nobody gave him any help, he ________ have done the research on his own.  
-来源：2013 全国改  
+##### 来源：2013 全国改  
 ##### 答案 must  
   
 ##### 题目  
@@ -7423,7 +7517,7 @@ A.can
 B.will  
 C.must  
 D.may  
-来源：2010 辽宁  
+##### 来源：2010 辽宁  
 ##### 答案 C  
   
 
@@ -7497,7 +7591,7 @@ D.may
 ---
 ##### 题目  
 This picture often brings back to me many happy memories of your high school days.  
-来源：2017 全国  改错  
+##### 来源：2017 全国  改错  
 ##### 答案 your → my  
   
 
@@ -7524,7 +7618,7 @@ This picture often brings back to me many happy memories of your high school day
 ---
 ##### 题目  
 “She thought I had hurt ________ (I),” says Pahlsson.  
-来源：2017 浙江  
+##### 来源：2017 浙江  
 ##### 答案 myself  
   
 

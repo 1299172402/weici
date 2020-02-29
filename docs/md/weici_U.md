@@ -501,7 +501,8 @@ underlined /ˌʌndə'laɪnd/ adj
 
 固定搭配
 ---
-## \*make oneself understood   1.**[尤指用另一种语 言] 把自己的意思说清楚：**  
+## \*make oneself understood 
+1.**[尤指用另一种语 言] 把自己的意思说清楚：**  
 
  > Can you make yourself understood in English?  
  > 你能用英语说清楚自己的意思吗？  
@@ -1118,12 +1119,12 @@ A.if
 B.unless  
 C.once  
 D.when  
-来源：2015 江苏  
+##### 来源：2015 江苏  
 ##### 答案 B  
   
 ##### 题目  
 You will never gain success if you are fully devoted to your work.  
-来源：2014 湖南改 改错  
+##### 来源：2014 湖南改 改错  
 ##### 答案 if → unless  
   
 ##### 题目  
@@ -1132,7 +1133,7 @@ A.unless
 B.until  
 C.once  
 D. if  
-来源：2012 陕 西  
+##### 来源：2012 陕 西  
 ##### 答案 A  
   
 
@@ -1329,7 +1330,8 @@ Notes: not until 放在句首时，主句的主语和谓语通常要用部分倒
 
 固定搭配
 ---
-## \*it is not until … that   1.**直到…才…：**  
+## \*it is not until … that 
+1.**直到…才…：**  
 
  > It was not until he was thirty that he started to paint.  
  > 直到30岁，他才开始画画。  
@@ -1339,7 +1341,7 @@ Notes: not until 放在句首时，主句的主语和谓语通常要用部分倒
 ---
 ##### 题目  
 Bach died in 1750, but it was not until the early 19th century _________ his musical gift was fully recognized.  
-来源：2015 重庆改  
+##### 来源：2015 重庆改  
 ##### 答案 that  
   
 ##### 题目  
@@ -1348,7 +1350,7 @@ A.he had considered
 B.had he considered  
 C.he considered  
 D.did he consider  
-来源：2012 辽宁  
+##### 来源：2012 辽宁  
 ##### 答案 D  
   
 ##### 题目  
@@ -1392,7 +1394,8 @@ Notes: not until 放在句首时，主句的主语和谓语通常要用部分倒
 
 固定搭配
 ---
-## \*it is not until … that  1.**直到…才…：**  
+## \*it is not until … that
+1.**直到…才…：**  
 
  > It was not until he was thirty that he started to paint.  
  > 直到30岁，他才开始画画。  
@@ -1402,7 +1405,7 @@ Notes: not until 放在句首时，主句的主语和谓语通常要用部分倒
 ---
 ##### 题目  
 Bach died in 1750, but it was not until the early 19th century _________ his musical gift was fully recognized.  
-来源：2015 重庆改  
+##### 来源：2015 重庆改  
 ##### 答案 that  
   
 ##### 题目  
@@ -1411,7 +1414,7 @@ A.he had considered
 B.had he considered  
 C.he considered  
 D.did he consider  
-来源：2012 辽宁  
+##### 来源：2012 辽宁  
 ##### 答案 D  
   
 ##### 题目  
@@ -1533,7 +1536,8 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 
 固定搭配
 ---
-## \*be up to sb  1.**由某人决定；是某人的义务：**  
+## \*be up to sb
+1.**由某人决定；是某人的义务：**  
 
  > It’s up to you what kind of life you will lead in the future.  
  > 将来过怎样的生活取决于你自己。  
@@ -1545,7 +1549,8 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
  > It’s up to the travel companies to warn customers of any possible dangers.  
  > 旅游公司有义务提醒顾客任何可能的危险。  
 
-## \*up and down   1.**上上下下；前前后后：**  
+## \*up and down 
+1.**上上下下；前前后后：**  
 
  > A butterfly is flying up and down among the flowers.  
  > 有一只蝴蝶正在花丛里飞来飞去。  
@@ -1553,7 +1558,8 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
  > Ralph paced up and down the room, looking worried.  
  > 拉夫在房间里走来走去，看起来很着急。  
 
-## \*up to  1.*高义频：* **达到；最多有：**  
+## \*up to
+1.*高义频：* **达到；最多有：**  
 
  > She has treated many patients who wash their hands up to 30 times a day.  
  > 她曾经治疗过很多每天要洗30次手的病人。  
@@ -1573,7 +1579,8 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
  > 这周末你打算做什么?  
  > 来源：北师大② – 4  
 
-## \*up until  1.**直到 (up to)：**  
+## \*up until
+1.**直到 (up to)：**  
 
  > They are only allowed to play music up until 10:30 on week nights, and it’s already 11:30.   
  > 平时只允许他们在晚上10点半之前放音乐，可是现在已经11点半了。  
@@ -1585,13 +1592,13 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 ##### 题目  
 — Hi, John. Are you busy?
 — No. _________(怎么了)? (up)  
-来源：2015 浙江改  
+##### 来源：2015 浙江改  
 ##### 答案 What’s up  
   
 ##### 题目  
 — What shall we do tonight then?
 — _________ (由你决定)— whatever you want.  
-来源：2012 全国改  
+##### 来源：2012 全国改  
 ##### 答案 It’s up to you / Up to you  
   
 
@@ -1604,7 +1611,8 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 
 固定搭配
 ---
-## \*ups and downs  1.**好运和坏运的交替；盛衰；沉浮：**  
+## \*ups and downs
+1.**好运和坏运的交替；盛衰；沉浮：**  
 
  > In spite of ups and downs, she never takes her fate lying down.  
  > 尽管起起伏伏，但她从不甘心任凭命运摆布。  
@@ -2009,7 +2017,7 @@ upsetting /ʌp'setɪŋ/ adj
 ---
 ##### 题目  
 Our neighbors gave_________ (we) a baby bird yesterday that hurt itself when it fell from its nest.  
-来源：2008 湖南改  
+##### 来源：2008 湖南改  
 ##### 答案 us  
   
 
@@ -2069,7 +2077,8 @@ Our neighbors gave_________ (we) a baby bird yesterday that hurt itself when it 
 
 固定搭配
 ---
-## \*use up   1.**用光；耗尽：**  
+## \*use up 
+1.**用光；耗尽：**  
 
  > The human race is using up Earth’s resources.   
  > 人类正在耗尽地球上的资源。  
@@ -2110,12 +2119,14 @@ Our neighbors gave_________ (we) a baby bird yesterday that hurt itself when it 
 
 固定搭配
 ---
-## \*come into use   1.**开始被使用：**  
+## \*come into use 
+1.**开始被使用：**  
 
  > When did the umbrella come into use?  
  > 雨伞是什么时候开始使用的？  
 
-## \*have no use for   1.**不需要；不喜欢：**  
+## \*have no use for 
+1.**不需要；不喜欢：**  
 
  > People may have no use for your gift, but the effort is appreciated.   
  > 人们可能用不上你的礼物，但还是会感激你送礼。  
@@ -2123,31 +2134,36 @@ Our neighbors gave_________ (we) a baby bird yesterday that hurt itself when it 
  > I have no use for novels like that.   
  > 我不喜欢那样的小说。  
 
-## \*in use   1.**在使用着：**  
+## \*in use 
+1.**在使用着：**  
 
  > Turn off everything not in use: lights, TVs, computers.   
  > 关掉所有不用的电器：灯、电视和电脑。  
  > 来源：2008 福建  
 
-## \*it is no use doing sth   1.**做某事没有用 / 意义：**  
+## \*it is no use doing sth 
+1.**做某事没有用 / 意义：**  
 
  > I think it is no use crying about your exam results now.   
  > 我想现在为考试成绩哭泣没什么意义了。  
  > 来源：译林⑤ – 1  
 
-## \*make use of   1.**利用：**  
+## \*make use of 
+1.**利用：**  
 
  > To be a good learner, you must make full use of library books, newspapers and magazines.   
  > 要成为善于学习的人，你必须充分利用图书馆里的图书、报纸和杂志。  
  > 来源：人教② – 3  
 
-## \*of use   1.**有用的 (useful)：**  
+## \*of use 
+1.**有用的 (useful)：**  
 
  > I hope this information will be of use to you.   
  > 希望这些信息对你有用。  
  > 来源：译林④ – 2  
 
-## \*put sth to use  1.**利用某事物：**  
+## \*put sth to use
+1.**利用某事物：**  
 
  > It was time to put the tips he had learned to use.  
  > 到了运用他所学到的窍门的时候了。  
@@ -2158,17 +2174,17 @@ Our neighbors gave_________ (we) a baby bird yesterday that hurt itself when it 
 ---
 ##### 题目  
 Every day he makes sure that fresh vegetables and high quality oil are using for cooking.  
-来源：2016 全国 改错  
+##### 来源：2016 全国 改错  
 ##### 答案 using → used  
   
 ##### 题目  
 People probably cooked their food in large pots, ________ (use) twigs (树枝) to remove it.  
-来源：2016 全国  
+##### 来源：2016 全国  
 ##### 答案 using  
   
 ##### 题目  
 It is no use ________(complain) without taking action.   
-来源：2011 上海  
+##### 来源：2011 上海  
 ##### 答案 complaining  
   
 
@@ -2278,7 +2294,8 @@ usefully /'juːsfəli/ adv
 
 固定搭配
 ---
-## \*as usual  1.**像平常一样；照例(as always)：**  
+## \*as usual
+1.**像平常一样；照例(as always)：**  
 
  > Wang Wei rode in front of me as usual.   
  > 像平时那样，王薇骑车在我的前面。  
@@ -2303,7 +2320,7 @@ usefully /'juːsfəli/ adv
 ---
 ##### 题目  
 I u________ go to bed at 10:00 p.m., but I stayed up till 11:00 last night.  
-来源：2008 浙江  
+##### 来源：2008 浙江  
 ##### 答案 usually  
   
 

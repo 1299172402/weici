@@ -219,7 +219,8 @@ racing /'reɪsɪŋ/
 
 固定搭配
 ---
-## \*in rags   1.**衣衫褴褛：**  
+## \*in rags 
+1.**衣衫褴褛：**  
 
 
 # ***\*raid*** n
@@ -440,7 +441,7 @@ racing /'reɪsɪŋ/
 ##### 题目  
 _________ (raise) in the poorest area of Glasgow, he had a long, hard road to becoming a football star.
   
-来源：2015 重庆改  
+##### 来源：2015 重庆改  
 ##### 答案 Raised  
   
 
@@ -477,7 +478,8 @@ _________ (raise) in the poorest area of Glasgow, he had a long, hard road to be
 
 固定搭配
 ---
-## \*at random   1.**任意地；随机地：**  
+## \*at random 
+1.**任意地；随机地：**  
 
  > Choose any number at random.   
  > 随机抽取一个数字。  
@@ -534,16 +536,18 @@ _________ (raise) in the poorest area of Glasgow, he had a long, hard road to be
 
 固定搭配
 ---
-## \*in / within range (of)   1.**在 (…的) 范围内**  
+## \*in / within range (of) 
+1.**在 (…的) 范围内**  
 
-## \*out of range (of)   1.**超出(…的) 范围：**  
+## \*out of range (of) 
+1.**超出(…的) 范围：**  
 
 
 真题解析
 ---
 ##### 题目  
 This restaurant has become popular for its wide ________ (一系列) of foods that suit all tastes and pockets.  
-来源：2010 湖北改  
+##### 来源：2010 湖北改  
 ##### 答案 range  
   
 
@@ -577,7 +581,7 @@ This restaurant has become popular for its wide ________ (一系列) of foods th
 ---
 ##### 题目  
 The national park has a large collection of wildlife, ________ (range) from butterflies to elephants.  
-来源：2017 北京改  
+##### 来源：2017 北京改  
 ##### 答案 ranging  
   
 
@@ -823,24 +827,27 @@ Notes: rarely和seldom都表示“很少”、“不经常”，但seldom更正�
 
 固定搭配
 ---
-## \*at any rate   1.**无论如何 (anyway)：**  
+## \*at any rate 
+1.**无论如何 (anyway)：**  
 
  > At any rate, the medical supplies will reach you within a week.   
  > 无论如何，医疗物资将于一周内运到你处。  
 
-## \*at this / that rate   1.**这样 / 那样的话：**  
+## \*at this / that rate 
+1.**这样 / 那样的话：**  
 
  > If you go on at that rate, you will damage your health.   
  > 如果继续那样的话，你会把身体搞垮的。  
 
-## \*first-rate / second-rate / third-rate  1.**一流的 / 二流的 / 三流的**  
+## \*first-rate / second-rate / third-rate
+1.**一流的 / 二流的 / 三流的**  
 
 
 真题解析
 ---
 ##### 题目  
 The car is running at a ________ of eighty kilometers an hour.  
-来源：2010 陕西  
+##### 来源：2010 陕西  
 ##### 答案 speed / rate  
   
 
@@ -900,12 +907,14 @@ The car is running at a ________ of eighty kilometers an hour.
 
 固定搭配
 ---
-## \*(or) rather   1.**更确切地说：**  
+## \*(or) rather 
+1.**更确切地说：**  
 
  > He worked till late last night, or rather, early this morning.   
  > 他昨晚一直工作到深夜，更确切地说，是到今天凌晨。  
 
-## \*rather than   1.**而不：**  
+## \*rather than 
+1.**而不：**  
 
  > It is better to express your anger, rather than bottle it up.   
  > 将怒气发泄出来更好，而不要憋在心里。  
@@ -914,7 +923,8 @@ The car is running at a ________ of eighty kilometers an hour.
  > 当播放古典音乐而不是流行音乐时，用餐者们消费了更多。  
  > 来源：2018 江苏  
 
-## \*would rather ... (than)   1.**宁愿 / 宁可… (而不)：**  
+## \*would rather ... (than) 
+1.**宁愿 / 宁可… (而不)：**  
 
  > — Will you join us in the game?  
  > 和我们一起玩游戏吧？  
@@ -940,12 +950,12 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 ---
 ##### 题目  
 What we expect from you is working hard ________ (而不是) hardly working.  
-来源：2014 安徽改  
+##### 来源：2014 安徽改  
 ##### 答案 rather than  
   
 ##### 题目  
 If what your friend comes up with surprises you, don’t reject it immediately. R________, imagine that it is true.  
-来源：2013 浙江改  
+##### 来源：2013 浙江改  
 ##### 答案 Rather  
   
 
@@ -1141,7 +1151,8 @@ If what your friend comes up with surprises you, don’t reject it immediately. 
 
 固定搭配
 ---
-## \*reach out to sb   1.**向某人提供 / 寻求帮助：**  
+## \*reach out to sb 
+1.**向某人提供 / 寻求帮助：**  
 
  > When you need help, reach out to the people who care about you.  
  > 当你需要帮助时，向那些关心你的人寻求帮助。  
@@ -1152,7 +1163,7 @@ If what your friend comes up with surprises you, don’t reject it immediately. 
 ---
 ##### 题目  
 Despite the previous rounds of talks, no agreement ________ (reach) so far by the two sides.  
-来源：2015 天津改  
+##### 来源：2015 天津改  
 ##### 答案 has been reached  
   
 
@@ -1188,12 +1199,12 @@ Despite the previous rounds of talks, no agreement ________ (reach) so far by th
 ##### 题目  
 — I’m looking for a nearby place for my holiday. Any good ideas?
 — How about the Moon Lake? It is ________ easy reach of the city.  
-来源：2013 上海改  
+##### 来源：2013 上海改  
 ##### 答案 within  
   
 ##### 题目  
 Always remember to put such dangerous things as knives ________ children’s reach.  
-来源：2011 四川改  
+##### 来源：2011 四川改  
 ##### 答案 out of / beyond  
   
 
@@ -1291,7 +1302,8 @@ Always remember to put such dangerous things as knives ________ children’s rea
 
 固定搭配
 ---
-## \*read out   1.**大声读出；宣读**  
+## \*read out 
+1.**大声读出；宣读**  
 
 
 派生词汇
@@ -1302,7 +1314,7 @@ reader  /'riːdə(r)/ n [C]
 ---
 ##### 题目  
 I ________ (read) half of the English novel, and I’ll try to finish it at the weekend.  
-来源：2016 北京  
+##### 来源：2016 北京  
 ##### 答案 have read  
   
 
@@ -1460,7 +1472,7 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 ---
 ##### 题目  
 When I got on the bus, I ________ (realize) I had left my wallet at home.   
-来源：2011 山东改  
+##### 来源：2011 山东改  
 ##### 答案 realized  
   
 
@@ -1521,7 +1533,8 @@ When I got on the bus, I ________ (realize) I had left my wallet at home.
 
 固定搭配
 ---
-## \*in reality   1.**实际上；事实上：**  
+## \*in reality 
+1.**实际上；事实上：**  
 
  > Outwardly she seemed confident but in reality she felt extremely nervous.   
  > 表面上她似乎很自信，其实她感到极其紧张。  
@@ -1571,7 +1584,7 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 ---
 ##### 题目  
 When I got on the bus, I _________ (realize) I had left my wallet at home.  
-来源：2011 山东改  
+##### 来源：2011 山东改  
 ##### 答案 realized  
   
 
@@ -1604,7 +1617,8 @@ When I got on the bus, I _________ (realize) I had left my wallet at home.
 
 固定搭配
 ---
-## \*Not really.   1.**[表示否定，语气较弱] 不是。**  
+## \*Not really. 
+1.**[表示否定，语气较弱] 不是。**  
 
 
 真题解析
@@ -1612,13 +1626,13 @@ When I got on the bus, I _________ (realize) I had left my wallet at home.
 ##### 题目  
 — You know, I met my girlfriend’s parents for the first time only yesterday.
 — ________ (real)? I thought you’d met them before.  
-来源：2014 陕西改  
+##### 来源：2014 陕西改  
 ##### 答案 Really  
   
 ##### 题目  
 — This apple pie is too sweet, don’t you think so?
 — ________ (不是). I think it’s just right, actually.  
-来源：2014 山东改  
+##### 来源：2014 山东改  
 ##### 答案 Not really  
   
 
@@ -1666,22 +1680,26 @@ When I got on the bus, I _________ (realize) I had left my wallet at home.
 
 固定搭配
 ---
-## \*by reason of   1.**由于：**  
+## \*by reason of 
+1.**由于：**  
 
  > He won the first prize by reason of hard work.  
  > 由于刻苦用功，他获得了一等奖。  
 
-## \*for some reason   1.**不知什么原因：**  
+## \*for some reason 
+1.**不知什么原因：**  
 
  > For some reason they cancelled the plan.  
  > 不知为什么他们取消了计划。  
 
-## \*in (all) reason   1.**明智；合情合理：**  
+## \*in (all) reason 
+1.**明智；合情合理：**  
 
  > I would do anything in reason.   
  > 只要是合情合理的事，我都愿意做。  
 
-## \*with / without reason   1.**有 / 没有道理：**  
+## \*with / without reason 
+1.**有 / 没有道理：**  
 
  > He argued with much reason.   
  > 他辩论得头头是道。  
@@ -1744,7 +1762,7 @@ reasonably /'riːznəbli/ adv
 ---
 ##### 题目  
 Be ________ (reason) — you can’t expect me to finish all this work in so little time.  
-来源：2012 山东改  
+##### 来源：2012 山东改  
 ##### 答案 reasonable  
   
 
@@ -1818,7 +1836,7 @@ Be ________ (reason) — you can’t expect me to finish all this work in so lit
 ---
 ##### 题目  
 Legend has it that the origin of the Dragon Boat Festival is to ________ (召回) the soul of Qu Yuan.  
-来源：2014 江苏改  
+##### 来源：2014 江苏改  
 ##### 答案 recall  
   
 
@@ -1884,7 +1902,7 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
 ---
 ##### 题目  
 Project Hope aims at helping the poor children in remote areas to ________ (接受) education.  
-来源：2003 上海春改  
+##### 来源：2003 上海春改  
 ##### 答案 receive  
   
 
@@ -1935,7 +1953,7 @@ Project Hope aims at helping the poor children in remote areas to ________ (接�
 ---
 ##### 题目  
 Chinese scientists ________ (recent) had a chance to study a wild female panda with a newborn baby.  
-来源：2016 四川  
+##### 来源：2016 四川  
 ##### 答案 recently  
   
 
@@ -2087,12 +2105,12 @@ recitation /ˌresɪ'teɪʃn/ n
 ---
 ##### 题目  
 Lisa, I didn’t _________ (认出) you — you’ve had your hair cut!  
-来源：2008 全国  
+##### 来源：2008 全国  
 ##### 答案 recognise / recognize  
   
 ##### 题目  
 China's image is improvung steadily, with more countries ________ (recognize) its role in international affairs.  
-来源：2019 江苏改  
+##### 来源：2019 江苏改  
 ##### 答案 recognizing  
   
 
@@ -2123,7 +2141,7 @@ China's image is improvung steadily, with more countries ________ (recognize) it
 ---
 ##### 题目  
 I haven’t seen Sara since she was a little girl, and she has changed beyond ________ (recognize).  
-来源：2010 安徽改  
+##### 来源：2010 安徽改  
 ##### 答案 recognition  
   
 
@@ -2165,7 +2183,7 @@ I haven’t seen Sara since she was a little girl, and she has changed beyond __
 ---
 ##### 题目  
 Lisa, I didn’t ________ (认出) you — you’ve had your hair cut!  
-来源：2008 全国  
+##### 来源：2008 全国  
 ##### 答案 recognise / recognize  
   
 
@@ -2221,12 +2239,12 @@ Lisa, I didn’t ________ (认出) you — you’ve had your hair cut!
 ---
 ##### 题目  
 Eye doctors recommend that a child’s first eye exam ________ (be) at the age of six months old.  
-来源：2013 浙江改  
+##### 来源：2013 浙江改  
 ##### 答案 (should) be  
   
 ##### 题目  
 Our hosts shared many of their experiences and ________ (recommend) wonderful places to eat, shop, and visit.  
-来源：2019 全国  
+##### 来源：2019 全国  
 ##### 答案 recommended  
   
 
@@ -2313,7 +2331,8 @@ Our hosts shared many of their experiences and ________ (recommend) wonderful pl
 
 固定搭配
 ---
-## \*break / beat / cut the / a record   1.**打破纪录：**  
+## \*break / beat / cut the / a record 
+1.**打破纪录：**  
 
  > She’s hoping to break the record for the 100 metres.  
  > 她希望能打破百米纪录。  
@@ -2556,7 +2575,8 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 
 固定搭配
 ---
-## \*refer (...) to  1.*高义频：* **谈到；提到**  
+## \*refer (...) to
+1.*高义频：* **谈到；提到**  
 英译 to mention or speak about sb / sth：
 
  > The scientist referred to global warming at least three times in his speech.  
@@ -2596,7 +2616,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 ---
 ##### 题目  
 The president spoke at the business meeting for nearly an hour without referring ________ his notes.  
-来源：2005 浙江改  
+##### 来源：2005 浙江改  
 ##### 答案 to  
   
 
@@ -2640,7 +2660,8 @@ The president spoke at the business meeting for nearly an hour without referring
 
 固定搭配
 ---
-## \*in / with reference to  1.**关于；根据…而论：**  
+## \*in / with reference to
+1.**关于；根据…而论：**  
 
  > In reference to your question about cost, the tickets for the film are 35 yuan each.  
  > 关于你询问的价格，那部电影的票价是每张35元。  
@@ -2651,7 +2672,7 @@ The president spoke at the business meeting for nearly an hour without referring
 ---
 ##### 题目  
 You’d better write down the phone number of that restaurant for future ________ (refer).  
-来源：2012 江西改  
+##### 来源：2012 江西改  
 ##### 答案 reference  
   
 
@@ -2696,7 +2717,7 @@ You’d better write down the phone number of that restaurant for future _______
 ---
 ##### 题目  
 A city is the product of the human hand and mind, ________ (reflect) man's intelligence and creativity.  
-来源：2019 江苏改  
+##### 来源：2019 江苏改  
 ##### 答案 reflecting  
   
 
@@ -2849,7 +2870,7 @@ refusal /rɪ'fjuːzl/ n
 ---
 ##### 题目  
 Alice wanted to borrow Jack’s computer, but he ________ (拒绝).  
-来源：2012 全国  
+##### 来源：2012 全国  
 ##### 答案 refused  
   
 
@@ -2906,7 +2927,8 @@ Alice wanted to borrow Jack’s computer, but he ________ (拒绝).
 
 固定搭配
 ---
-## \*with / in regard to sth  1.**[正式用语] 关于某事：**  
+## \*with / in regard to sth
+1.**[正式用语] 关于某事：**  
 
  > With / In regard to his suggestions, we shall discuss them fully.   
  > 关于他的建议，我们将充分讨论。  
@@ -2923,7 +2945,7 @@ regarding /rɪ'ɡɑːdɪŋ/ prep  [正式用语] (尤用于信函中)
 ---
 ##### 题目  
 I am always delighted when I receive an e-mail from you. With regard ________ the party on July 1st, I shall be pleased to attend.  
-来源：2013 江苏改  
+##### 来源：2013 江苏改  
 ##### 答案 to  
   
 
@@ -2949,7 +2971,8 @@ I am always delighted when I receive an e-mail from you. With regard ________ th
 
 固定搭配
 ---
-## \*regardless of   1.**不管；不顾：**  
+## \*regardless of 
+1.**不管；不顾：**  
 
  > Nobody has the right to spit in the street regardless of their social position or age.   
  > 不管社会地位或年龄如何，没人有权当街吐痰。  
@@ -2960,7 +2983,7 @@ I am always delighted when I receive an e-mail from you. With regard ________ th
 ---
 ##### 题目  
 Our club is open to everyone ________ (不管) age, sex or educational background.  
-来源：2014 福建改  
+##### 来源：2014 福建改  
 ##### 答案 regardless of  
   
 
@@ -3046,7 +3069,7 @@ registration /ˌredʒɪ'streɪʃn/ n
 ---
 ##### 题目  
 According to the law, all foreigners have to register ________ the local police within two weeks of arrival.  
-来源：2013 湖北改  
+##### 来源：2013 湖北改  
 ##### 答案 with  
   
 
@@ -3112,7 +3135,7 @@ According to the law, all foreigners have to register ________ the local police 
 ---
 ##### 题目  
 It’s no use _________ (后悔) what you have done.  
-来源：2008 陕西  
+##### 来源：2008 陕西  
 ##### 答案 regretting  
   
 
@@ -3198,7 +3221,7 @@ It’s no use _________ (后悔) what you have done.
 ---
 ##### 题目  
 I suggest that we have _________ (定期) meetings.  
-来源：2008 全国  
+##### 来源：2008 全国  
 ##### 答案 regular  
   
 
@@ -3223,7 +3246,7 @@ I suggest that we have _________ (定期) meetings.
 ---
 ##### 题目  
 Recent studies show that we are far more productive at work if we take short breaks ________ (regular).  
-来源：2016 全国  
+##### 来源：2016 全国  
 ##### 答案 regularly  
   
 
@@ -3362,7 +3385,8 @@ rejection /rɪ'dʒekʃn/ n
 
 固定搭配
 ---
-## \*(be) related to   1.**与…有关：**  
+## \*(be) related to 
+1.**与…有关：**  
 
  > The “new four great inventions” are all related to China’s high-tech innovation.  
  > “新四大发明”都与中国高科技创新有关。  
@@ -3396,7 +3420,8 @@ rejection /rɪ'dʒekʃn/ n
 
 固定搭配
 ---
-## \*in relation to   1.**[正式用语] 关于；与…相比：**  
+## \*in relation to 
+1.**[正式用语] 关于；与…相比：**  
 
  > I have a lot to say in relation to this affair.   
  > 关于这件事，我有很多话要说。  
@@ -3645,7 +3670,7 @@ relaxing /rɪ'læksɪŋ/ adj
 ---
 ##### 题目  
 I don’t think what he said is relevant ________ the topic we are discussing. He has missed the point.  
-来源：2015 湖北改  
+##### 来源：2015 湖北改  
 ##### 答案 to  
   
 
@@ -3679,7 +3704,7 @@ I don’t think what he said is relevant ________ the topic we are discussing. H
 ---
 ##### 题目  
 John is very ________ (rely) — if he promises to do something he’ll do it.  
-来源：2009 浙江改  
+##### 来源：2009 浙江改  
 ##### 答案 reliable  
   
 
@@ -3729,7 +3754,8 @@ John is very ________ (rely) — if he promises to do something he’ll do it.
 
 固定搭配
 ---
-## \*in / with relief  1.**如释重负；松了口气：**  
+## \*in / with relief
+1.**如释重负；松了口气：**  
 
  > Hearing that he had passed the exam, he sighed in / with relief.  
  > 听说自己通过了考试，他松了口气。  
@@ -3740,7 +3766,7 @@ John is very ________ (rely) — if he promises to do something he’ll do it.
 ##### 题目  
 — Don’t worry, Mum. The doctor said it was only the flu.
 — What relief! I’ll tell Dad there’s nothing serious.  
-来源：2012 江苏改 改错  
+##### 来源：2012 江苏改 改错  
 ##### 答案 relief 前加 a  
   
 
@@ -3806,7 +3832,8 @@ relieved /rɪ'liːvd/ adj
 
 固定搭配
 ---
-## \*rely on / upon  1.*高义频：* **依靠**  
+## \*rely on / upon
+1.*高义频：* **依靠**  
 英译 to depend on sb / sth：
 
  > **rely,on,for**  
@@ -3899,12 +3926,12 @@ remaining /rɪ'meɪnɪŋ/ adj
 ---
 ##### 题目  
 It was already past midnight and only three young men ________ (逗留) in the teahouse.  
-来源：2006 安徽改  
+##### 来源：2006 安徽改  
 ##### 答案 remained  
   
 ##### 题目  
 It remains ________ (see) whether Jim’ll be fit enough to play in the finals.   
-来源：2006 浙江改  
+##### 来源：2006 浙江改  
 ##### 答案 to be seen  
   
 
@@ -4032,7 +4059,8 @@ remarkably /rɪ'mɑːkəbli/ adv [句子副词]
 
 固定搭配
 ---
-## \*be remembered as / for   1.**因…而著名：**  
+## \*be remembered as / for 
+1.**因…而著名：**  
 
  > Madame Curie will always be remembered as the discoverer of the element radium.   
  > 居里夫人作为镭元素的发现者将永远被人们记住。  
@@ -4045,7 +4073,7 @@ remarkably /rɪ'mɑːkəbli/ adv [句子副词]
 ---
 ##### 题目  
 I still remember ________ (visit) a friend who’d lived here for fi ve years.  
-来源：2018 浙江  
+##### 来源：2018 浙江  
 ##### 答案 visiting  
   
 
@@ -4110,12 +4138,12 @@ reminder /rɪ'maɪndə(r)/ n
 ---
 ##### 题目  
 The photo will remind me ________ the days when we were together.  
-来源：2007 浙江改  
+##### 来源：2007 浙江改  
 ##### 答案 of  
   
 ##### 题目  
 In our childhood, we were often ________ (提醒) by Grandma to pay attention to our table manners.  
-来源：2005 江苏改  
+##### 来源：2005 江苏改  
 ##### 答案 reminded  
   
 
@@ -4181,7 +4209,7 @@ removal /rɪ'muːvl/ n [C] & [U]
 ---
 ##### 题目  
 When fat and salt _________________ (remove) from food, the food tastes as if it is missing something.   
-来源：2017 全国  
+##### 来源：2017 全国  
 ##### 答案 are removed  
   
 
@@ -4311,9 +4339,11 @@ rented /'rentɪd/ adj
 
 固定搭配
 ---
-## \*beyond repair   1.**无法修复**  
+## \*beyond repair 
+1.**无法修复**  
 
-## \*under repair   1.**在修理中：**  
+## \*under repair 
+1.**在修理中：**  
 
  > The castle built in 1432 is under repair.   
  > 这座建于1432年的城堡正在修缮中。  
@@ -4324,7 +4354,7 @@ rented /'rentɪd/ adj
 ---
 ##### 题目  
 My washing machine ________ (repair) this week, so I have to wash my clothes by hand.  
-来源：2018 天津改  
+##### 来源：2018 天津改  
 ##### 答案 is being repaired  
   
 
@@ -4375,7 +4405,7 @@ repetition /ˌrepə'tɪʃn/ n
 ---
 ##### 题目  
 The teacher asked one student to ________ (重复) what he had heard from the tape recorder.   
-来源：2015 陕西  
+##### 来源：2015 陕西  
 ##### 答案 repeat  
   
 
@@ -4437,7 +4467,8 @@ The teacher asked one student to ________ (重复) what he had heard from the ta
 
 固定搭配
 ---
-## \*replace ... with / by   1.**用…替换：**  
+## \*replace ... with / by 
+1.**用…替换：**  
 
  > They replaced their beloved old cars with expensive new sports cars.   
  > 他们用昂贵的新跑车替代了钟爱的旧车。  
@@ -4488,7 +4519,8 @@ replacement /rɪ'pleɪsmənt/ n
 
 固定搭配
 ---
-## \*in reply to   1.**[正式用语] 为答复：**  
+## \*in reply to 
+1.**[正式用语] 为答复：**  
 
  > **in reply to**  
  > I’m writing in reply to your letter of June 1st.   
@@ -4704,7 +4736,7 @@ replacement /rɪ'pleɪsmənt/ n
 ---
 ##### 题目  
 Andorra is a small mountain _________ (共和国) between France and Spain.   
-来源：2007 陕西  
+##### 来源：2007 陕西  
 ##### 答案 republic  
   
 
@@ -4733,7 +4765,7 @@ Andorra is a small mountain _________ (共和国) between France and Spain.
 ---
 ##### 题目  
 The doctor is skilled at treating heart trouble and never accepts any gift from his patients, so he has a very good ________ (名声).  
-来源：2010 江苏改  
+##### 来源：2010 江苏改  
 ##### 答案 reputation  
   
 
@@ -4764,7 +4796,8 @@ The doctor is skilled at treating heart trouble and never accepts any gift from 
 
 固定搭配
 ---
-## \*at sb’s request / at the request of sb   1.**应某人的要求：**  
+## \*at sb’s request / at the request of sb 
+1.**应某人的要求：**  
 
  > The students were there at the teacher’s request.   
  > 学生们应老师的要求到了那里。  
@@ -4778,7 +4811,7 @@ A.attempts
 B.requests  
 C.doubts  
 D.promises  
-来源：2014 浙江  
+##### 来源：2014 浙江  
 ##### 答案 B  
   
 
@@ -4810,7 +4843,7 @@ D.promises
 ---
 ##### 题目  
 Don’t respond to any e-mails _________ (request) personal information, no matter how official they look.  
-来源：2006 天津改  
+##### 来源：2006 天津改  
 ##### 答案 requesting   
   
 
@@ -4853,7 +4886,7 @@ Don’t respond to any e-mails _________ (request) personal information, no matt
 ---
 ##### 题目  
 Though it may appear simple, it required a lot of ideas and efforts.  
-来源：2019 全国 改错  
+##### 来源：2019 全国 改错  
 ##### 答案 required➜requires  
   
 
@@ -5026,7 +5059,7 @@ Though it may appear simple, it required a lot of ideas and efforts.
 ---
 ##### 题目  
 I’d prefer to ________ (保留) my judgement until I find all the evidence.  
-来源：2011 福建改  
+##### 来源：2011 福建改  
 ##### 答案 reserve  
   
 
@@ -5293,9 +5326,11 @@ respectively /rɪ'spektɪvli/ adv
 
 固定搭配
 ---
-## \*in respect of   1.**关于；就…而言**  
+## \*in respect of 
+1.**关于；就…而言**  
 
-## \*with respect to   1.**关于；就…而言**  
+## \*with respect to 
+1.**关于；就…而言**  
 
 
 # ***\*respectful*** adj
@@ -5359,7 +5394,8 @@ respectively /rɪ'spektɪvli/ adv
 
 固定搭配
 ---
-## \*in response (to)   1.**作为 (对…的) 回答 / 反应：**  
+## \*in response (to) 
+1.**作为 (对…的) 回答 / 反应：**  
 
  > The government acted in response to economic pressure.   
  > 政府为应对经济压力采取了行动。  
@@ -5456,7 +5492,7 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
 ---
 ##### 题目  
 The factory used 65 percent of the raw materials, the rest of which _______ (be) saved for other purposes.   
-来源：2011 安徽改  
+##### 来源：2011 安徽改  
 ##### 答案 were  
   
 
@@ -5560,7 +5596,8 @@ The factory used 65 percent of the raw materials, the rest of which _______ (be)
 
 固定搭配
 ---
-## \*as a result (of)   1.**作为 (…的) 结果：**  
+## \*as a result (of) 
+1.**作为 (…的) 结果：**  
 
  > Alice overslept this morning. As a result, she was late for work.  
  > 艾丽斯今天早上睡过了头，结果上班迟到了。  
@@ -5574,12 +5611,12 @@ The factory used 65 percent of the raw materials, the rest of which _______ (be)
 ---
 ##### 题目  
 Jenny nearly missed the flight as a result ________ doing too much shopping.  
-来源：2009 全国改  
+##### 来源：2009 全国改  
 ##### 答案 of  
   
 ##### 题目  
 My friend Martin was very sick with a strange fever; ________ (结果), he could neither eat nor sleep.  
-来源：2005 江西改  
+##### 来源：2005 江西改  
 ##### 答案 as a result  
   
 
@@ -5595,12 +5632,14 @@ My friend Martin was very sick with a strange fever; ________ (结果), he could
 
 固定搭配
 ---
-## \*result from   1.**因…发生；随…产生：**  
+## \*result from 
+1.**因…发生；随…产生：**  
 
  > Pollution and other serious problems have resulted from human progress.   
  > 人类的发展引起了污染和其他严重的问题。  
 
-## \*result in   1.**造成；导致 (cause / lead to)：**  
+## \*result in 
+1.**造成；导致 (cause / lead to)：**  
 
  > I learned that shouting and threats of punishment would result in a disaster.  
  > 我认识到叫嚣和威胁惩罚会导致祸端。  
@@ -5660,7 +5699,7 @@ My friend Martin was very sick with a strange fever; ________ (结果), he could
 ---
 ##### 题目  
 The students are required to ________ (复述) the story after reading it.   
-来源：2013 陕西  
+##### 来源：2013 陕西  
 ##### 答案 retell  
   
 
@@ -5756,7 +5795,8 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 
 固定搭配
 ---
-## \*in return (for sth)   1.**作为 (…的) 交换; 作为 (…的) 回报：**  
+## \*in return (for sth) 
+1.**作为 (…的) 交换; 作为 (…的) 回报：**  
 
  > If we smile at life, life will smile on us in return.    
  > 如果我们微笑地面对生活，生活也会以微笑回报我们。  
@@ -5770,7 +5810,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ---
 ##### 题目  
 While staying in the village, James unselfishly shared whatever he had with the villagers without asking for anything ________ return.  
-来源：2014 浙江改  
+##### 来源：2014 浙江改  
 ##### 答案 in  
   
 
@@ -5812,7 +5852,8 @@ While staying in the village, James unselfishly shared whatever he had with the 
 
 固定搭配
 ---
-## \*return to  1.**(使) 恢复；继续做；重新做：**  
+## \*return to
+1.**(使) 恢复；继续做；重新做：**  
 
  > **return to normal**  
  > Even with treatment, they may never return to normal.    
@@ -5959,7 +6000,7 @@ While staying in the village, James unselfishly shared whatever he had with the 
 ---
 ##### 题目  
 Don’t worry if you don’t understand everything. The teacher will ________ (复习) the main points at the end.  
-来源：2009 天津改  
+##### 来源：2009 天津改  
 ##### 答案 review / revise  
   
 
@@ -6010,7 +6051,7 @@ Don’t worry if you don’t understand everything. The teacher will ________ (�
 ---
 ##### 题目  
 The old rules have to be ________ (修正) because they only applied to the circumstances that existed when they were made a hundred years ago.  
-来源：2014 湖北改  
+##### 来源：2014 湖北改  
 ##### 答案 revised  
   
 
@@ -6312,7 +6353,8 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 
 固定搭配
 ---
-## \*be rich in   1.**在…方面丰富：**  
+## \*be rich in 
+1.**在…方面丰富：**  
 
  > The country is rich in resources.   
  > 这个国家资源丰富。  
@@ -6344,7 +6386,8 @@ richness /'rɪtʃnəs/ n
 
 固定搭配
 ---
-## \*be / get rid of   1.**摆脱；除去：**  
+## \*be / get rid of 
+1.**摆脱；除去：**  
 
  > He is rid of fever.   
  > 他不发烧了。  
@@ -6353,7 +6396,8 @@ richness /'rɪtʃnəs/ n
  > 我们除不掉鱼腥味。  
  > 来源：北师大⑧ – 23  
 
-## \*rid sb / sth of sth  1.**[正式用语] 使摆脱；使除掉：**  
+## \*rid sb / sth of sth
+1.**[正式用语] 使摆脱；使除掉：**  
 
  > Thanks to his research, the UN has more tools in the battle to rid the world of hunger.   
  > 由于他的研究，联合国在消除世界饥饿的战斗中有了更多的方法。  
@@ -6513,12 +6557,14 @@ riding /'raɪdɪŋ/ n [U]
 
 固定搭配
 ---
-## \*right now   1.**现在；立刻；马上：**  
+## \*right now 
+1.**现在；立刻；马上：**  
 
  > I’d better clean the screen of computer right now.   
  > 我还是现在就把电脑屏幕擦干净吧。  
 
-## \*right away   1.**立刻：**  
+## \*right away 
+1.**立刻：**  
 
  > Imagine your home begins to shake and you must leave it right away.   
  > 设想一下你家开始摇晃了，你必须立刻离开。  
@@ -6625,9 +6671,11 @@ rightly /'raɪtli/ adv
 
 固定搭配
 ---
-## \*ring off   1.**挂断电话**  
+## \*ring off 
+1.**挂断电话**  
 
-## \*ring up   1.**打电话 (给)：**  
+## \*ring up 
+1.**打电话 (给)：**  
 
  > I’ll ring him up again.   
  > 我会再打电话给他。  
@@ -6739,7 +6787,7 @@ rightly /'raɪtli/ adv
 ---
 ##### 题目  
 The next thing he saw was smoke ________ (rise) from behind the house.   
-来源：2011 全国改  
+##### 来源：2011 全国改  
 ##### 答案 rising   
   
 
@@ -6772,7 +6820,8 @@ The next thing he saw was smoke ________ (rise) from behind the house.
 
 固定搭配
 ---
-## \*give rise to   1.**[正式用语] 引起；导致 (尤指坏事)：**  
+## \*give rise to 
+1.**[正式用语] 引起；导致 (尤指坏事)：**  
 
  > This may give rise to prejudices of the educated against those with little knowledge of English.  
  > 这可能导致受过教育的人对那些不太懂英语的人产生偏见。  
@@ -6806,7 +6855,8 @@ The next thing he saw was smoke ________ (rise) from behind the house.
 
 固定搭配
 ---
-## \*at risk (from / of)   1.**有危险：**  
+## \*at risk (from / of) 
+1.**有危险：**  
 
  > **put at risk**  
  > If we go to war, innocent lives will be put at risk.   
@@ -6816,18 +6866,21 @@ The next thing he saw was smoke ________ (rise) from behind the house.
  > 一些地方水位升高，很多房子都有被洪水淹没的危险。  
  > 来源：北师大⑧ – 22  
 
-## \*at the risk of doing sth   1.**冒着做某事的风险：**  
+## \*at the risk of doing sth 
+1.**冒着做某事的风险：**  
 
  > He saved my life at the risk of losing his own.   
  > 他冒着生命危险救了我的命。  
 
-## \*run / take a risk   1.**冒险 (run / take risks)：**  
+## \*run / take a risk 
+1.**冒险 (run / take risks)：**  
 
  > He felt he had to decide on every step instead of taking risks.   
  > 他觉得他必须考虑好每一步，而不能冒险。  
  > 来源：人教⑥ – 3  
 
-## \*run / take the risk of doing sth   1.**冒险做某事：**  
+## \*run / take the risk of doing sth 
+1.**冒险做某事：**  
 
  > Mary couldn’t take the risk of leaving her baby alone even for a short time.   
  > 玛丽不敢冒险让她的孩子独自待着，即使是很短的时间。  
@@ -6861,7 +6914,7 @@ risky /'rɪski/ adj
 ---
 ##### 题目  
 Young people may risk ________ (go) deaf if they are exposed to very loud music every day.  
-来源：2013 上海改  
+##### 来源：2013 上海改  
 ##### 答案 going  
   
 
@@ -7019,7 +7072,8 @@ Young people may risk ________ (go) deaf if they are exposed to very loud music 
 
 固定搭配
 ---
-## \*rob sb of sth   1.**抢走某人的某物：**  
+## \*rob sb of sth 
+1.**抢走某人的某物：**  
 
  > The young man robbed her of her bag.   
  > 那个年轻人抢走了她的包。  
@@ -7178,7 +7232,8 @@ robbery /'rɒbəri/ n
  > the leading role   
  > 主角  
 
-## \*play the role of  1.**扮演…的角色：**  
+## \*play the role of
+1.**扮演…的角色：**  
 
  > He played the role of a successful lawyer in the play.  
  > 他在剧中扮演一位成功的律师。  
@@ -7192,7 +7247,8 @@ robbery /'rɒbəri/ n
 
 固定搭配
 ---
-## \*play a(n) … role in   1.**在…中起…作用：**  
+## \*play a(n) … role in 
+1.**在…中起…作用：**  
 
  > Farming plays an important role in the country’s economy.   
  > 农业在该国经济中起着重要的作用。  
@@ -7227,7 +7283,8 @@ robbery /'rɒbəri/ n
 
 固定搭配
 ---
-## \*roll over   1.**翻身；打滚**  
+## \*roll over 
+1.**翻身；打滚**  
 
 
 # ***\*roll*** n
@@ -7344,7 +7401,7 @@ robbery /'rɒbəri/ n
 ---
 ##### 题目  
 James took the magazines off the little table to make room ________ the television.  
-来源：2010 天津改  
+##### 来源：2010 天津改  
 ##### 答案 for  
   
 
@@ -7708,7 +7765,7 @@ A.drill
 B.action   
 C.regulation   
 D.routine  
-来源：2007 上海  
+##### 来源：2007 上海  
 ##### 答案 D  
   
 
@@ -7746,7 +7803,8 @@ D.routine
 
 固定搭配
 ---
-## \*in a row   1.**排成一排；连续地：**  
+## \*in a row 
+1.**排成一排；连续地：**  
 
  > The children were asked to stand in a row.   
  > 孩子们被要求站成一列。  
@@ -7879,7 +7937,8 @@ D.routine
 
 固定搭配
 ---
-## \*be rude to sb   1.**对某人无礼：**  
+## \*be rude to sb 
+1.**对某人无礼：**  
 
  > You mustn’t be rude to teachers.  
  > 不能对老师无礼。  
@@ -7958,7 +8017,8 @@ rudely /'ruːdli/ adv
 
 固定搭配
 ---
-## \*in ruins   1.**成废墟；严重受损：**  
+## \*in ruins 
+1.**成废墟；严重受损：**  
 
  > **lay in ruins**  
  > In fifteen terrible seconds a large city lay in ruins.  
@@ -8012,7 +8072,8 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 
 固定搭配
 ---
-## \*rule out   1.**排除；取消：**  
+## \*rule out 
+1.**排除；取消：**  
 
  > We can’t rule out the possibility that he’ll come after all.   
  > 我们不能排除他最终会来的可能性。  
@@ -8022,7 +8083,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 ---
 ##### 题目  
 The experiment has ________ (排除) the possibility of the existence of any life on that planet, but it does not mean there is no life on other planets. (rule)  
-来源：2010 江苏改  
+##### 来源：2010 江苏改  
 ##### 答案 ruled out  
   
 
@@ -8126,7 +8187,8 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 
 固定搭配
 ---
-## \*run across   1.**跑着穿过；偶然碰见：**  
+## \*run across 
+1.**跑着穿过；偶然碰见：**  
 
  > He ran across the fields.   
  > 他跑过了田野。  
@@ -8134,7 +8196,8 @@ The experiment has ________ (排除) the possibility of the existence of any lif
  > I ran across him at a conference in Milan.   
  > 我在米兰的一次大会上碰到了他。  
 
-## \*run after   1.**追赶；追求：**  
+## \*run after 
+1.**追赶；追求：**  
 
  > If you run after two hares, you will catch neither.   
  > 面面俱到，诸事未了。  
@@ -8142,7 +8205,8 @@ The experiment has ________ (排除) the possibility of the existence of any lif
  > It is said that John’s always running after younger women.   
  > 据说约翰总是追求年轻女子。  
 
-## \*run away (from)   1.**逃走；逃避：**  
+## \*run away (from) 
+1.**逃走；逃避：**  
 
  > The thief heard the noise and ran away quickly.   
  > 小偷听到声音，匆忙逃走了。  
@@ -8150,7 +8214,8 @@ The experiment has ________ (排除) the possibility of the existence of any lif
  > It’s irresponsible of you to run away from difficulties.  
  > 见了困难就躲是不负责的。  
 
-## \*run into   1.**撞上；偶然遇见；遇到 (困难等)：**  
+## \*run into 
+1.**撞上；偶然遇见；遇到 (困难等)：**  
 
  > The driver of a large truck, unable to stop in time, ran into our car.   
  > 大卡车司机没能及时停车，撞上了我们的车。  
@@ -8162,7 +8227,8 @@ The experiment has ________ (排除) the possibility of the existence of any lif
  > When I first learned to write in English, I ran into many difficulties.   
  > 我刚开始学习用英语写作时，遇到了很多困难。  
 
-## \*run out (of)  1.**用完；耗尽：**  
+## \*run out (of)
+1.**用完；耗尽：**  
 
  > In the future, care for the environment will become very important as earth’s natural resources run out.  
  > 在未来，爱护环境将会很重要，因为地球的资源将濒临枯竭。  
@@ -8172,7 +8238,8 @@ The experiment has ________ (排除) the possibility of the existence of any lif
  > 在去海滩的路上，我的车因为汽油耗尽而抛锚了。  
  > 来源：北师大⑥ – 16  
 
-## \*run over   1.**碾过；思考：**  
+## \*run over 
+1.**碾过；思考：**  
 
  > To the public’s sadness, she was run over and killed by the bus.   
  > 令公众伤心的是她被公共汽车撞死了。  
@@ -8180,7 +8247,8 @@ The experiment has ________ (排除) the possibility of the existence of any lif
  > Mark’s mind raced, running over all the possibilities.   
  > 马克的脑子飞快地转着，把各种可能都一一作了考虑。  
 
-## \*run through   1.**跑着穿过；把…匆匆过一遍**  
+## \*run through 
+1.**跑着穿过；把…匆匆过一遍**  
 
 
 真题解析
@@ -8188,13 +8256,13 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 ##### 题目  
 — OK, I’ve had enough of it. I give up.
 — You can’t run away ________ your responsibilities.  
-来源：2012 江苏改  
+##### 来源：2012 江苏改  
 ##### 答案 from  
   
 ##### 题目  
 — I’m still working on my project.
 — Oh, you’ll miss the deadline. Time is running ________.  
-来源：2008 江苏改  
+##### 来源：2008 江苏改  
 ##### 答案 out  
   
 
@@ -8224,7 +8292,8 @@ The experiment has ________ (排除) the possibility of the existence of any lif
 
 固定搭配
 ---
-## \*in / over the long run   1.**从长远看：**  
+## \*in / over the long run 
+1.**从长远看：**  
 
  > A true friend will advise us to do what he thinks is best for us in the long run.   
  > 真正的朋友会建议我们做从长远来看对我们有利的事。  

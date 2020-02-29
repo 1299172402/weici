@@ -40,7 +40,8 @@
 
 固定搭配
 ---
-## \*keep pace (with sb / sth)  1.**(与某人 / 事物) 并驾齐驱；步调一致**  
+## \*keep pace (with sb / sth)
+1.**(与某人 / 事物) 并驾齐驱；步调一致**  
 
 
 # ***\*pace*** vi
@@ -99,7 +100,8 @@
 
 固定搭配
 ---
-## \*pack up  1.**把…打包；收拾 (行李)：**  
+## \*pack up
+1.**把…打包；收拾 (行李)：**  
 
  > Once a friend and I packed up some peanut butter and sandwiches for an outing.   
  > 有一次，我和一个朋友包好一些花生酱和三明治去郊游。  
@@ -110,12 +112,12 @@
 ---
 ##### 题目  
 We were first greeted with the barking by a pack ________ dogs, seven to be exact.  
-来源：2019 全国  
+##### 来源：2019 全国  
 ##### 答案 of  
   
 ##### 题目  
 The workers ________ (把…打包) the glasses and marked on each box “This Side Up”.  
-来源：2010 全国改  
+##### 来源：2010 全国改  
 ##### 答案 packed  
   
 
@@ -280,7 +282,8 @@ packaging /'pækɪdʒɪŋ/ n [U]
 
 固定搭配
 ---
-## \*turn the page  1.**翻开新的一页**  
+## \*turn the page
+1.**翻开新的一页**  
 
 
 # ***\*pain*** n
@@ -316,7 +319,8 @@ packaging /'pækɪdʒɪŋ/ n [U]
 
 固定搭配
 ---
-## \*take pains to do sth   1.**努力 / 下苦功做某事：**  
+## \*take pains to do sth 
+1.**努力 / 下苦功做某事：**  
 
  > We should take pains to improve ourselves through learning and get prepared for the future.  
  > 我们应该通过学习努力改善自己，并为将来作好准备。  
@@ -463,7 +467,8 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 
 固定搭配
 ---
-## \*in pairs   1.**成对地；两人一组地：**  
+## \*in pairs 
+1.**成对地；两人一组地：**  
 
  > I want you to do this task in pairs.   
  > 我希望你们两人一组完成这项任务。  
@@ -568,7 +573,7 @@ Notes: “a pair of +复数名词”作主语时，谓语动 词通常用单数�
 ---
 ##### 题目  
 Fewer than a thousand ________ (大熊猫) still live in the wild.   
-来源：2013 陕西  
+##### 来源：2013 陕西  
 ##### 答案 pandas  
   
 
@@ -625,7 +630,7 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 ---
 ##### 题目  
 “Tommy, run! Be quick! The house is on fire!” the mother shouted, with ________ (恐慌) clearly in her voice.  
-来源：2011 湖北改  
+##### 来源：2011 湖北改  
 ##### 答案 panic  
   
 
@@ -841,7 +846,8 @@ Fewer than a thousand ________ (大熊猫) still live in the wild.
 
 固定搭配
 ---
-## \*I beg your pardon  1.*高义频：* **[未听清对方的话，请求重复；常简化为 “beg pardon” 或 “pardon”] 什么；请再说一遍：**  
+## \*I beg your pardon
+1.*高义频：* **[未听清对方的话，请求重复；常简化为 “beg pardon” 或 “pardon”] 什么；请再说一遍：**  
 
  > — You’re very quiet today.   
  > 你今天话很少啊。  
@@ -888,7 +894,7 @@ A.Never mind
 B.Don’t mention it  
 C.Sure, I don’t smoke   
 D.Pardon me  
-来源：2007 全国  
+##### 来源：2007 全国  
 ##### 答案 D  
   
 
@@ -1034,22 +1040,26 @@ Notes: part前有形容词修饰时使用不定冠词，没有形容词修饰时
 
 固定搭配
 ---
-## \*for the most part   1.**通常；多数情况下：**  
+## \*for the most part 
+1.**通常；多数情况下：**  
 
  > For the most part, students work to earn money for their own use.   
  > 大多数情况下，学生打工赚钱是为了自己用。  
 
-## \*in part   1.**部分地；在某种程度上：**  
+## \*in part 
+1.**部分地；在某种程度上：**  
 
  > Some people said his success was due in part to luck.  
  > 有人说他成功的部分原因是运气好。  
 
-## \*play / act a(n) (...) part (in)  1.**(在…中) 扮演角色 / 起作用：**  
+## \*play / act a(n) (...) part (in)
+1.**(在…中) 扮演角色 / 起作用：**  
 
  > Nowadays, the Internet plays an important part in our lives.   
  > 如今，互联网在我们的生活中起着重要作用。  
 
-## \*take part (in)   1.**参加；参与：**  
+## \*take part (in) 
+1.**参加；参与：**  
 
  > If Jim took part in the Talent Show, he’d win it for sure.   
  > 如果吉姆参加才艺大赛，他肯定会赢。  
@@ -1087,7 +1097,8 @@ Notes: take part in是固定搭配，part前一般不用冠词，但part前有�
 
 固定搭配
 ---
-## \*part with   1.**(不情愿地) 放弃：**  
+## \*part with 
+1.**(不情愿地) 放弃：**  
 
  > The novel is so attractive that I can’t stand parting with it.   
  > 这部小说引人入胜，我简直爱不释手。  
@@ -1231,7 +1242,8 @@ participant /pɑː'tɪsɪpənt/ n [C]
 
 固定搭配
 ---
-## \*in particular   1.**尤其；特别：**  
+## \*in particular 
+1.**尤其；特别：**  
 
  > Parents and coaches in particular should act as better examples for children.   
  > 父母和教练尤其要给孩子们树立更好的榜样。  
@@ -1245,7 +1257,7 @@ participant /pɑː'tɪsɪpənt/ n [C]
 ---
 ##### 题目  
 She has already tried her best. Please don’t be too particular ________ her job.   
-来源：2011 江西改  
+##### 来源：2011 江西改  
 ##### 答案 about / over  
   
 
@@ -1384,18 +1396,21 @@ partnership /'pɑːtnəʃɪp/ n [U] & [C]
 
 固定搭配
 ---
-## \*pass around / round   1.**分发；传阅：**  
+## \*pass around / round 
+1.**分发；传阅：**  
 
  > Pass the cookies around / round, would you?   
  > 请把小甜饼分发给大家，好吗？  
 
-## \*pass away   1.**[委婉语] 去世；逝世：**  
+## \*pass away 
+1.**[委婉语] 去世；逝世：**  
 
  > He unfortunately passed away last year due to his cancer.  
  > 他去年因癌症不幸去世。  
  > 来源：2015 江苏  
 
-## \*pass by   1.**经过；(时间) 过去：**  
+## \*pass by 
+1.**经过；(时间) 过去：**  
 
  > Did you see a man in black pass by just now?   
  > 你刚才有没有看见一位身穿黑色衣服的男子经过？  
@@ -1404,23 +1419,27 @@ partnership /'pɑːtnəʃɪp/ n [U] & [C]
  > 3小时过去了，我越来越不耐烦。  
  > 来源：2009 重庆  
 
-## \*pass down   1.**把…传下去 (hand down)：**  
+## \*pass down 
+1.**把…传下去 (hand down)：**  
 
  > She wants to be a gymnastics coach to pass down what she’s learned to other kids when she grows up.   
  > 她长大后想成为一名体操教练，把她所学的传授给其他孩子。  
  > 来源：2013 北京  
 
-## \*pass off as  1.**把…冒充成：**  
+## \*pass off as
+1.**把…冒充成：**  
 
  > He escaped by passing himself off as a guard.   
  > 他冒充警卫逃走了。  
 
-## \*pass on   1.**传递：**  
+## \*pass on 
+1.**传递：**  
 
  > Please pass on the message to as many people as possible.   
  > 请将这个消息传达给尽可能多的人。  
 
-## \*pass out   1.**分发；分配；昏倒：**  
+## \*pass out 
+1.**分发；分配；昏倒：**  
 
  > In the home for sick people, I helped wash clothes and sheets, and pass out lunch.   
  > 在患者之家，我帮忙洗衣服和床单，分发午餐。  
@@ -1429,9 +1448,11 @@ partnership /'pɑːtnəʃɪp/ n [U] & [C]
  > I nearly passed out when I saw all the blood.   
  > 看到那么多血，我差点晕了过去。  
 
-## \*pass through   1.**穿过；通过**  
+## \*pass through 
+1.**穿过；通过**  
 
-## \*pass up  1.**放弃；错过 (机会等)：**  
+## \*pass up
+1.**放弃；错过 (机会等)：**  
 
  > You shouldn’t pass up the opportunity to go to university.  
  > 你不该放弃上大学的机会。  
@@ -1580,7 +1601,7 @@ passively /'pæsɪvli/ adv
 ---
 ##### 题目  
 Listening is thus an active, not a ________ (被动的), behavior consisting of hearing, understanding and remembering.  
-来源：2015 浙江改  
+##### 来源：2015 浙江改  
 ##### 答案 passive  
   
 
@@ -1811,7 +1832,7 @@ Listening is thus an active, not a ________ (被动的), behavior consisting of 
 ---
 ##### 题目  
 Whenever I made mistakes, the teacher pointed them out with ________ (耐心).  
-来源：2013 江西改  
+##### 来源：2013 江西改  
 ##### 答案 patience  
   
 
@@ -2029,7 +2050,8 @@ patiently /'peɪʃntli/ adv
 
 固定搭配
 ---
-## \*pay back  1.*高义频：* **偿还；报答：**  
+## \*pay back
+1.*高义频：* **偿还；报答：**  
 
  > Will you lend me $10? I’ll pay (it) back next month.  
  > 你借给我10美元好吗？我下个月还你。  
@@ -2043,9 +2065,11 @@ patiently /'peɪʃntli/ adv
  > Pay somebody back in his own coin.   
  > 以其人之道还治其人之身。  
 
-## \*pay down  1.**先支付 (部分货款) 作为定金**  
+## \*pay down
+1.**先支付 (部分货款) 作为定金**  
 
-## \*pay off  1.*低义频：* **还清 (欠债等)：**  
+## \*pay off
+1.*低义频：* **还清 (欠债等)：**  
 
  > Once we’ve paid off the debts, we’ll owe money to no one.   
  > 一旦还清了债务，我们就不欠任何人的钱了。  
@@ -2060,7 +2084,8 @@ patiently /'peɪʃntli/ adv
  > Over 1,000 workers will be paid off if this factory closes.   
  > 如果这家工厂关闭，会有超过1000名工人被解雇。  
 
-## \*pay up  1.**(尤指不情愿或延迟) 付清欠款；偿还欠款**  
+## \*pay up
+1.**(尤指不情愿或延迟) 付清欠款；偿还欠款**  
 
 
 真题解析
@@ -2068,17 +2093,17 @@ patiently /'peɪʃntli/ adv
 ##### 题目  
 — Dad, I don’t think Oliver the right sort of person for the job.
 — I see. I’ll go right away and pay him ________.  
-来源：2014 江苏改  
+##### 来源：2014 江苏改  
 ##### 答案 off  
   
 ##### 题目  
 The watch was very good, and he paid 20 percent down ________ it.  
-来源：2013 全国改  
+##### 来源：2013 全国改  
 ##### 答案 for  
   
 ##### 题目  
 The athlete’s years of hard training paid ________ when she finally won the Olympic gold medal.  
-来源：2012 安徽改  
+##### 来源：2012 安徽改  
 ##### 答案 off  
   
 
@@ -2156,7 +2181,8 @@ The athlete’s years of hard training paid ________ when she finally won the Ol
 
 固定搭配
 ---
-## \*at peace   1.**处于和平 / 平静状态：**  
+## \*at peace 
+1.**处于和平 / 平静状态：**  
 
  > The countries have been at peace for more than a century.   
  > 这些国家和平共处已有一个多世纪了。  
@@ -2164,12 +2190,14 @@ The athlete’s years of hard training paid ________ when she finally won the Ol
  > Her mind is at peace.   
  > 她心境平和。  
 
-## \*in peace   1.**和平地；安宁地：**  
+## \*in peace 
+1.**和平地；安宁地：**  
 
  > The two communities live together in peace.   
  > 这两个社区相安无事。  
 
-## \*make (one’s) peace with  1.**同…言归于好：**  
+## \*make (one’s) peace with
+1.**同…言归于好：**  
 
  > They finally made peace with each other after two weeks of arguing.   
  > 争吵了两周后，他们终于和好了。  
@@ -2754,7 +2782,7 @@ perfection /pə'fekʃn/ n [U]
 ---
 ##### 题目  
 Listening to music at home is one thing, going to hear it ________ (perform) live is quite another.  
-来源：2015 浙江改  
+##### 来源：2015 浙江改  
 ##### 答案 (being) performed  
   
 
@@ -2797,7 +2825,7 @@ Listening to music at home is one thing, going to hear it ________ (perform) liv
 ---
 ##### 题目  
 Your ________ (perform) as a student will be excellent if you develop a habit of reflecting on how you learn.  
-来源：2012 浙江改  
+##### 来源：2012 浙江改  
 ##### 答案 performance  
   
 
@@ -2915,7 +2943,7 @@ A.practical
 B.avoidable  
 C.permanent   
 D.beneficial  
-来源：2011 湖北  
+##### 来源：2011 湖北  
 ##### 答案 C  
   
 
@@ -2993,17 +3021,17 @@ Notes: permit和allow的用法相似，permit是正式用语；指天气、时�
 ---
 ##### 题目  
 I was the first Western TV reporter ________ (permit) to film a special unit caring for pandas rescued from starvation in the wild.  
-来源：2016 全国  
+##### 来源：2016 全国  
 ##### 答案 permitted  
   
 ##### 题目  
 The party will be held in the garden, weather ________ (permit).   
-来源：2012 全国改  
+##### 来源：2012 全国改  
 ##### 答案 permitting  
   
 ##### 题目  
 Passengers are permitted ________ (carry) only one piece of hand luggage onto the plane.  
-来源：2011 天津改  
+##### 来源：2011 天津改  
 ##### 答案 to carry  
   
 
@@ -3055,7 +3083,8 @@ Passengers are permitted ________ (carry) only one piece of hand luggage onto th
 
 固定搭配
 ---
-## \*in person   1.**亲自；亲身 (personally)：**  
+## \*in person 
+1.**亲自；亲身 (personally)：**  
 
  > Fill in the form and return it either in person or by post.  
  > 2011 全国  
@@ -3094,7 +3123,7 @@ Passengers are permitted ________ (carry) only one piece of hand luggage onto th
 ---
 ##### 题目  
 In this lecture, I can only give you a purely ________ (个人的) view of how we can live life to the full and make some suggestions about the future.  
-来源：2010 湖北改  
+##### 来源：2010 湖北改  
 ##### 答案 personal  
   
 
@@ -3141,7 +3170,7 @@ In this lecture, I can only give you a purely ________ (个人的) view of how w
 ---
 ##### 题目  
 They gave money to the old people’s home either ________ (personal) or through their companies.  
-来源：2015 安徽改  
+##### 来源：2015 安徽改  
 ##### 答案 personally  
   
 
@@ -3244,7 +3273,7 @@ persuasive /pə'sweɪsɪv/ adj
 ---
 ##### 题目  
 If she doesn’t want to go, nothing you can say will ________ (说服) her.  
-来源：2012 全国改  
+##### 来源：2012 全国改  
 ##### 答案 persuade  
   
 
@@ -3424,7 +3453,8 @@ If she doesn’t want to go, nothing you can say will ________ (说服) her.
 
 固定搭配
 ---
-## \*(be) on the phone  1.**在打电话：**  
+## \*(be) on the phone
+1.**在打电话：**  
 
  > I couldn’t get through to Hannah. Her brother was talking on the phone all the time!  
  > 我打不通汉纳的电话，她哥哥一直在打电话。  
@@ -3696,9 +3726,11 @@ physically /'fɪzɪkli/ adv
 
 固定搭配
 ---
-## \*pick sb’s pocket  1.**扒窃；掏包**  
+## \*pick sb’s pocket
+1.**扒窃；掏包**  
 
-## \*pick on   1.**挑选；故意挑剔：**  
+## \*pick on 
+1.**挑选；故意挑剔：**  
 
  > Why do you pick on me to do the unpleasant jobs?  
  > 你为什么找我做这些令人不愉快的工作?  
@@ -3707,7 +3739,8 @@ physically /'fɪzɪkli/ adv
  > 为什么拿我的家庭说事？  
  > 来源：2011 江西  
 
-## \*pick out  1.*高义频：* **选出；拣出：**  
+## \*pick out
+1.*高义频：* **选出；拣出：**  
 
  > Perhaps you can help me pick out a pair of jeans, since you are an expert.  
  > 因为你是个行家，也许你能帮我挑选一条牛仔裤。  
@@ -3725,7 +3758,8 @@ physically /'fɪzɪkli/ adv
  > 有实验证明，人们可以辨认出某种特定的气味。  
  > 来源：2008 北京  
 
-## \*pick up  1.*高义频：* **提起；拿起：**  
+## \*pick up
+1.*高义频：* **提起；拿起：**  
 
 - 拿起；拾起：
 
@@ -3807,17 +3841,17 @@ physically /'fɪzɪkli/ adv
 ---
 ##### 题目  
 It’s surprising that your brother picked ________ Russian so quickly — he hasn’t lived there very long.   
-来源：2012 四川改  
+##### 来源：2012 四川改  
 ##### 答案 up  
   
 ##### 题目  
 Sam picked ________ some knowledge of the computer just by watching others working on it.   
-来源：2010 山东改  
+##### 来源：2010 山东改  
 ##### 答案 up  
   
 ##### 题目  
 It was so dark in the cinema that I could hardly pick ________ my friend.   
-来源：2007 四川改  
+##### 来源：2007 四川改  
 ##### 答案 out  
   
 
@@ -3928,7 +3962,8 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 
 固定搭配
 ---
-## \*a piece of   1.**[与不可数名词连用] 一张 / 片 / 块等；一篇 / 首 / 幅等：**  
+## \*a piece of 
+1.**[与不可数名词连用] 一张 / 片 / 块等；一篇 / 首 / 幅等：**  
 
  > a piece of good news   
  > 一条好消息  
@@ -3936,7 +3971,8 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
  > a piece of paper / furniture   
  > 一张纸/一件家具  
 
-## \*a piece of cake  1.**小菜一碟；轻而易举的事**  
+## \*a piece of cake
+1.**小菜一碟；轻而易举的事**  
 
 
 # ***\*pierce*** v
@@ -4018,7 +4054,8 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 
 固定搭配
 ---
-## \*pile up   1.**堆积：**  
+## \*pile up 
+1.**堆积：**  
 
  > Work has piled up during his absence.   
  > 在他离开期间，工作堆了一堆。  
@@ -4075,7 +4112,7 @@ It was so dark in the cinema that I could hardly pick ________ my friend.
 ---
 ##### 题目  
 The old lady needs a few feather ________ (枕头) to make herself comfortable.   
-来源：2009 全国  
+##### 来源：2009 全国  
 ##### 答案 pillows  
   
 
@@ -4169,7 +4206,7 @@ The old lady needs a few feather ________ (枕头) to make herself comfortable.
 ---
 ##### 题目  
 The little girl is wearing a ________ (粉红色) dress.   
-来源：2007 全国  
+##### 来源：2007 全国  
 ##### 答案 pink  
   
 
@@ -4317,13 +4354,13 @@ The little girl is wearing a ________ (粉红色) dress.
 ##### 题目  
 — Can you come to a party on Saturday, Peter?
 — Oh, what pity! I’m already going out, I’m afraid.  
-来源：2015 安徽改 改错  
+##### 来源：2015 安徽改 改错  
 ##### 答案 pity 前加 a  
   
 ##### 题目  
 — The Modern Art Exhibition in the City Museum has been cancelled.
 — Oh, no! It’s pity.  
-来源：2012 重庆改 改错  
+##### 来源：2012 重庆改 改错  
 ##### 答案 pity 前加 a  
   
 
@@ -4409,7 +4446,8 @@ The little girl is wearing a ________ (粉红色) dress.
 
 固定搭配
 ---
-## \*in place   1.**在适当的位置；适当的；准备妥当：**  
+## \*in place 
+1.**在适当的位置；适当的；准备妥当：**  
 
  > The ropes hold you in place so that you don’t fall.   
  > 绳子会把你固定在适当的位置，这样你就不会掉下去。  
@@ -4421,7 +4459,8 @@ The little girl is wearing a ________ (粉红色) dress.
  > The service could be in place by the end of the year.  
  > 这项服务将于年底准备就绪。  
 
-## \*in place of   1.**代替；取代 (in sb’s / sth’s place)：**  
+## \*in place of 
+1.**代替；取代 (in sb’s / sth’s place)：**  
 
  > You can use yoghurt in place of cream to make this salad.   
  > 你可以用酸奶替代奶油来做这道沙拉。  
@@ -4429,7 +4468,8 @@ The little girl is wearing a ________ (粉红色) dress.
  > If I refused to go, they would send someone else in my place.   
  > 如果我不去，他们会派其他人代替我的。  
 
-## \*out of place   1.**不在合适的位置上；不合适的；不相称的：**  
+## \*out of place 
+1.**不在合适的位置上；不合适的；不相称的：**  
 
  > Some of these files seem to be out of place.   
  > 有些文件似乎没放对地方。  
@@ -4437,7 +4477,8 @@ The little girl is wearing a ________ (粉红色) dress.
  > I felt completely out of place among all these successful people.   
  > 夹在这些成功人士中间，我觉得自己格格不入。  
 
-## \*take place   1.**发生；举行：**  
+## \*take place 
+1.**发生；举行：**  
 
  > Great changes have taken place in the way people communicate in recent years.  
  > 近年来，人们交流的方式发生了巨大的变化。  
@@ -4445,7 +4486,8 @@ The little girl is wearing a ________ (粉红色) dress.
 #### 辨析 happen, take place
 二者都可指“发生”。  
 
-## \*take the place of   1.**代替 (take sb’s / sth’s place):**  
+## \*take the place of 
+1.**代替 (take sb’s / sth’s place):**  
 
  > Computers have taken the place of typewriters in offices.  
  > 在办公室里，电脑已取代了打字机。  
@@ -4482,7 +4524,7 @@ The little girl is wearing a ________ (粉红色) dress.
 ---
 ##### 题目  
 The furniture, with its modern style and bright colors, suits modern houses and their gardens, but looks ________ (不相称的) in the garden of a traditional home.  
-来源：2012 湖北改  
+##### 来源：2012 湖北改  
 ##### 答案 out of place  
   
 
@@ -4768,7 +4810,7 @@ plainly /'pleɪnli/ adv
 ---
 ##### 题目  
 If you cannot find wooden boxes, you may use either ________ (塑料的) or metal ones instead.  
-来源：2009 陕西  
+##### 来源：2009 陕西  
 ##### 答案 plastic  
   
 
@@ -4899,7 +4941,8 @@ If you cannot find wooden boxes, you may use either ________ (塑料的) or meta
 
 固定搭配
 ---
-## \*play with  1.**玩弄：**  
+## \*play with
+1.**玩弄：**  
 
  > Stop playing with your food!  
  > 别老是摆弄食物！  
@@ -4958,7 +5001,7 @@ playful /playful/ adj
 ---
 ##### 题目  
 All the football player on the playground cheered loudly.  
-来源：2019 全国  改错  
+##### 来源：2019 全国  改错  
 ##### 答案 player--players  
   
 
@@ -5093,7 +5136,8 @@ pleasing /'pliːzɪŋ/ adj
 
 固定搭配
 ---
-## \*(be) pleased with oneself   1.**自鸣得意**  
+## \*(be) pleased with oneself 
+1.**自鸣得意**  
 
 
 真题解析
@@ -5101,7 +5145,7 @@ pleasing /'pliːzɪŋ/ adj
 ##### 题目  
 — I’m very ________ (please) with my own cooking. It looks nice and smells delicious.
 — Mm, it does have a pleasant smell.   
-来源：2002 京蒙皖改  
+##### 来源：2002 京蒙皖改  
 ##### 答案 pleased  
   
 
@@ -5135,12 +5179,14 @@ pleasing /'pliːzɪŋ/ adj
 
 固定搭配
 ---
-## \*for pleasure   1.**作为消遣：**  
+## \*for pleasure 
+1.**作为消遣：**  
 
  > We read mainly for information, not for pleasure.   
  > 我们读书主要是为了获取信息，并非为了消遣。  
 
-## \*it’s a pleasure / (it’s) my pleasure  1.**[用于对别人感谢的回答] 别客气；没什么：**  
+## \*it’s a pleasure / (it’s) my pleasure
+1.**[用于对别人感谢的回答] 别客气；没什么：**  
 
  > — Thank you for coming to help us.   
  > 谢谢你来帮助我们。  
@@ -5148,7 +5194,8 @@ pleasing /'pliːzɪŋ/ adj
  > — It’s a pleasure. / My pleasure.  
  > 别客气。  
 
-## \*with pleasure   1.**高兴地；[用于应答] 非常乐意：**  
+## \*with pleasure 
+1.**高兴地；[用于应答] 非常乐意：**  
 
  > Invited into a friend’s home, you should accept with pleasure.  
  > 如果被邀请去朋友家做客，你应该高兴地接受。  
@@ -5165,7 +5212,7 @@ pleasing /'pliːzɪŋ/ adj
 ##### 题目  
 — Could you be so kind as to close the window?
 — ________ (当然可以). (pleasure)  
-来源：2009 安徽改  
+##### 来源：2009 安徽改  
 ##### 答案 With pleasure  
   
 
@@ -5187,7 +5234,8 @@ pleasing /'pliːzɪŋ/ adj
 
 固定搭配
 ---
-## \*plenty of   1.**相当多的；充足的：**  
+## \*plenty of 
+1.**相当多的；充足的：**  
 
  > There are plenty of books on the shelf.   
  > 书架上有许多书。  
@@ -5205,7 +5253,7 @@ plentiful /'plentɪfl/ adj
 ---
 ##### 题目  
 We always keep plenty ________ spare paper, in case we run out.  
-来源：2006 浙江改  
+##### 来源：2006 浙江改  
 ##### 答案 of  
   
 
@@ -5307,7 +5355,8 @@ We always keep plenty ________ spare paper, in case we run out.
 
 固定搭配
 ---
-## \*plug in  1.**(使) 插上插头以接通电源**  
+## \*plug in
+1.**(使) 插上插头以接通电源**  
 
 
 # ***\*plural*** n
@@ -5548,7 +5597,8 @@ We always keep plenty ________ spare paper, in case we run out.
 
 固定搭配
 ---
-## \*point out  1.**把…指出来 (给看)；指出；指明：**  
+## \*point out
+1.**把…指出来 (给看)；指出；指明：**  
 
  > **pointed out to**  
  > I pointed out to him where I used to live.  
@@ -5640,17 +5690,20 @@ We always keep plenty ________ spare paper, in case we run out.
 
 固定搭配
 ---
-## \*make a point of doing sth  1.**(即使费力也) 特意做某事：**  
+## \*make a point of doing sth
+1.**(即使费力也) 特意做某事：**  
 
  > He made a point of spending Saturdays with his children.   
  > 星期六他必定要和孩子们在一起。  
 
-## \*on the point of   1.**正要…的时候：**  
+## \*on the point of 
+1.**正要…的时候：**  
 
  > She was on the point of going out when the telephone rang.   
  > 她正要出去，电话铃响了。  
 
-## \*to the point   1.**中肯的；切题的：**  
+## \*to the point 
+1.**中肯的；切题的：**  
 
  > Your advice is very much to the point.  
  > 你的建议很中肯。  
@@ -5664,12 +5717,12 @@ We always keep plenty ________ spare paper, in case we run out.
 ---
 ##### 题目  
 What’s the point, in your opinion, ________ helping him if he doesn’t make an effort to help himself?  
-来源：2011 江西改  
+##### 来源：2011 江西改  
 ##### 答案 of  
   
 ##### 题目  
 I like Mr Miner’s speech; it was clear and ________ the point.   
-来源：2008 辽宁改  
+##### 来源：2008 辽宁改  
 ##### 答案 to   
   
 
@@ -5848,7 +5901,7 @@ A.approved
 B.quoted  
 C.polished   
 D.folded  
-来源：2012 湖北  
+##### 来源：2012 湖北  
 ##### 答案 C  
   
 
@@ -5892,7 +5945,7 @@ politeness /pə'laɪtnəs/ n [U]
 ---
 ##### 题目  
 After knocking _________ (礼貌地) at the door, the applicant entered the office of the general manager.  
-来源：2015 陕西  
+##### 来源：2015 陕西  
 ##### 答案 politely  
   
 
@@ -5999,7 +6052,7 @@ Notes: politics单复数同形，指政治学、政治制度时视为单数，�
 ---
 ##### 题目  
 This switch has decreased ________ (pollute) in the country’s major lakes and reservoirs.  
-来源：2018 全国  
+##### 来源：2018 全国  
 ##### 答案 pollution  
   
 
@@ -6091,7 +6144,7 @@ poorly /'pɔːli; 'pʊəli/ adv
 ---
 ##### 题目  
 It is difficult to figure out a global population of polar bears as much of the range has been ________ (poor) studied.  
-来源：2019 全国  
+##### 来源：2019 全国  
 ##### 答案 poorly  
   
 
@@ -6137,7 +6190,8 @@ It is difficult to figure out a global population of polar bears as much of the 
 
 固定搭配
 ---
-## \*pop up  1.**突然出现；冒出来**  
+## \*pop up
+1.**突然出现；冒出来**  
 
 
 # ***\*popcorn*** n
@@ -6167,7 +6221,8 @@ It is difficult to figure out a global population of polar bears as much of the 
  > 在线投票越来越盛行，很多比赛都让人们参与进来投票。  
  > 来源：2016 江苏书面表达  
 
-## \*be popular with / among  1.**为…喜欢；受…欢迎：**  
+## \*be popular with / among
+1.**为…喜欢；受…欢迎：**  
 
  > The mobile phone is fashionable and convenient to carry, so it is very popular with youngsters.  
  > 这款手机样式新颖、携带方便，深受年轻人的欢迎。  
@@ -6193,7 +6248,7 @@ It is difficult to figure out a global population of polar bears as much of the 
 ---
 ##### 题目  
 This magazine is very popular ________ young people, who like its content and style.   
-来源：2007 湖北改  
+##### 来源：2007 湖北改  
 ##### 答案 with / among  
   
 
@@ -6270,7 +6325,7 @@ A.has grown
 B.have grown  
 C.grew  
 D.are growing  
-来源：2009 江苏  
+##### 来源：2009 江苏  
 ##### 答案 A  
   
 
@@ -6463,7 +6518,7 @@ D.are growing
 ---
 ##### 题目  
 From their ________ (位置) on the top of the TV Tower, visitors can have a better view of the city.  
-来源：2009 陕西改  
+##### 来源：2009 陕西改  
 ##### 答案 position  
   
 
@@ -6570,17 +6625,20 @@ From their ________ (位置) on the top of the TV Tower, visitors can have a bet
 
 固定搭配
 ---
-## \*in possession of   1.**占有；拥有：**  
+## \*in possession of 
+1.**占有；拥有：**  
 
  > Foreign visitors are required to be in possession of a passport.    
  > 外国游客必须持有护照。  
 
-## \*in the possession of   1.**为…所有：**  
+## \*in the possession of 
+1.**为…所有：**  
 
  > That picture is in the possession of Tom.  
  > 那张画为汤姆所有。  
 
-## \*take possession of   1.**占有；拥有；占领：**  
+## \*take possession of 
+1.**占有；拥有；占领：**  
 
  > We’ve already bought the house but we won’t take possession of it until May.   
  > 我们已经买了房子，但要到五月份才能拿到。  
@@ -6590,7 +6648,7 @@ From their ________ (位置) on the top of the TV Tower, visitors can have a bet
 ---
 ##### 题目  
 Technical progress would put our firm in ________ (possess) of the home market.   
-来源：2007 陕西  
+##### 来源：2007 陕西  
 ##### 答案 possession  
   
 
@@ -6633,7 +6691,7 @@ Technical progress would put our firm in ________ (possess) of the home market.
 ##### 题目  
 There is no possibility ________ Bob can win the first prize in the match.
   
-来源：2001 上海春改  
+##### 来源：2001 上海春改  
 ##### 答案 that  
   
 
@@ -6680,7 +6738,8 @@ There is no possibility ________ Bob can win the first prize in the match.
 
 固定搭配
 ---
-## \*as ... as possible   1.**尽可能...地：**  
+## \*as ... as possible 
+1.**尽可能...地：**  
 
  > Try to make your poster as attractive as possible.  
  > 使你的海报尽可能地吸引人。  
@@ -6693,12 +6752,14 @@ There is no possibility ________ Bob can win the first prize in the match.
  > 你要寻找尽可能多的机会练习听力。  
  > 来源：人教⑦ – 5  
 
-## \*if possible   1.**如果可能的话：**  
+## \*if possible 
+1.**如果可能的话：**  
 
  > I want to avoid the rush hour traffic if possible.  
  > 如有可能，我想避开交通高峰期。  
 
-## \*whenever / wherever possible  1.**只要有可能；一有机会：**  
+## \*whenever / wherever possible
+1.**只要有可能；一有机会：**  
 
  > Use public transport whenever possible (= when you can).  
  > 只要有可能，就用公共交通工具。  
@@ -6708,18 +6769,18 @@ There is no possibility ________ Bob can win the first prize in the match.
 ---
 ##### 题目  
 Get an early start and try to be as productive ________ possible before lunch.  
-来源：2016 全国  
+##### 来源：2016 全国  
 ##### 答案 as  
   
 ##### 题目  
 Raymond’s parents wanted him to have the ________ (good) possible education.  
-来源：2014 全国改  
+##### 来源：2014 全国改  
 ##### 答案 best  
   
 ##### 题目  
 — Have you got any particular plans for the coming holiday?
 — Yes. ________ (如果可能的话), I’m going to visit some homes for the old in the city.  
-来源：2008 安徽改  
+##### 来源：2008 安徽改  
 ##### 答案 If possible  
   
 
@@ -6753,7 +6814,8 @@ Raymond’s parents wanted him to have the ________ (good) possible education.
 
 固定搭配
 ---
-## \*could you possibly  1.**... [表示郑重的请求] 您能…吗：**  
+## \*could you possibly
+1.**... [表示郑重的请求] 您能…吗：**  
 
  > Could you possibly ask her to bring along that book?  
  > 您能让她把那本书带来吗？  
@@ -7423,17 +7485,20 @@ When we plan our vacation, mother often offers ________ (practice) suggestions.
 
 固定搭配
 ---
-## \*in practice   1.**实际上；事实上：**  
+## \*in practice 
+1.**实际上；事实上：**  
 
  > Your suggestion is very good in theory, but in practice it will not work.   
  > 理论上，你的建议很好，但实际上，是行不通的。  
 
-## \*out of practice   1.**生疏；疏于练习：**  
+## \*out of practice 
+1.**生疏；疏于练习：**  
 
  > If you don’t play, you’ll get out of practice.   
  > 不练习就会生疏。  
 
-## \*put ... into practice   1.**将…付诸实践：**  
+## \*put ... into practice 
+1.**将…付诸实践：**  
 
  > She’s been able to put a lot of what she’s learnt into practice in her home.  
  > 她在自己家里已经能实践很多自己学到的东西。  
@@ -7470,7 +7535,7 @@ When we plan our vacation, mother often offers ________ (practice) suggestions.
 ---
 ##### 题目  
 As a new driver, I have to practise ________ (park) the car in my small garage again and again.  
-来源：2008 上海春改  
+##### 来源：2008 上海春改  
 ##### 答案 parking  
   
 
@@ -7504,7 +7569,7 @@ As a new driver, I have to practise ________ (park) the car in my small garage a
 ---
 ##### 题目  
 As a new driver, I have to practise ________ (park) the car in my small garage again and again.  
-来源：2008 上海春改  
+##### 来源：2008 上海春改  
 ##### 答案 parking  
   
 
@@ -7540,7 +7605,7 @@ As a new driver, I have to practise ________ (park) the car in my small garage a
 ---
 ##### 题目  
 The Smiths are praised _________ the way they bring up their children.   
-来源：2013 山东改  
+##### 来源：2013 山东改  
 ##### 答案 for  
   
 
@@ -7564,7 +7629,8 @@ The Smiths are praised _________ the way they bring up their children.
 
 固定搭配
 ---
-## \*in praise of   1.**赞扬：**  
+## \*in praise of 
+1.**赞扬：**  
 
  > She wrote a poem in praise of freedom.   
  > 她写了一首诗歌颂自由。  
@@ -7701,7 +7767,7 @@ prediction /prɪ'dɪkʃn/ n [C] & [U]
 ---
 ##### 题目  
 No matter how carefully you plan your finances, no one can ________ (预测) when the unexpected will happen.   
-来源：2014 浙江改  
+##### 来源：2014 浙江改  
 ##### 答案 predict / forecast  
   
 
@@ -7782,7 +7848,7 @@ preferred  /prɪ'fəd/ adj
 ---
 ##### 题目  
 We can eat out if you like, but I would ________ (更喜欢) to stay in.  
-来源：2014 陕西  
+##### 来源：2014 陕西  
 ##### 答案 prefer  
   
 
@@ -7928,12 +7994,14 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
 
 固定搭配
 ---
-## \*in preparation for   1.**为…作准备：**  
+## \*in preparation for 
+1.**为…作准备：**  
 
  > I want to improve my language skills in preparation for further study overseas.   
  > 我想提高我的语言技能为出国深造作准备。  
 
-## \*make preparations for   1.**为…作准备：**  
+## \*make preparations for 
+1.**为…作准备：**  
 
  > They are busy making preparations for the wedding.  
  > 他们正忙着筹备婚礼。  
@@ -8066,7 +8134,8 @@ We can eat out if you like, but I would ________ (更喜欢) to stay in.
 
 固定搭配
 ---
-## \*in the presence of sb / in sb’s presence   1.**当着某人的面：**  
+## \*in the presence of sb / in sb’s presence 
+1.**当着某人的面：**  
 
  > He apologized to her in the presence of the whole family.   
  > 他当着全家人的面向她道歉。  
@@ -8165,13 +8234,15 @@ presenter /prɪ'zentə(r)/ n [C]
 
 固定搭配
 ---
-## \*at present  1.**现在；目前：**  
+## \*at present
+1.**现在；目前：**  
 
  > My classmate is at present in hospital with a broken leg.   
  > 我的同学因为摔断了腿目前正在住院。  
  > 来源：2009 陕西改  
 
-## \*for the present   1.**暂时 (for the moment)：**  
+## \*for the present 
+1.**暂时 (for the moment)：**  
 
  > We shall not need any more for the present.   
  > 我们暂时不需要更多的了。  
@@ -8289,7 +8360,7 @@ preservation /ˌprezə'veɪʃn/ n [U]
 ##### 题目  
 — The town is so beautiful! I just love it.
 — Me too. The character of the town is well ________ (保存).  
-来源：2013 江苏改  
+##### 来源：2013 江苏改  
 ##### 答案 preserved / saved  
   
 
@@ -8351,7 +8422,8 @@ presidential /ˌprezɪ'denʃl/ adj
 
 固定搭配
 ---
-## \*press on   1.**(不顾困难) 继续进行：**  
+## \*press on 
+1.**(不顾困难) 继续进行：**  
 
  > He pressed on and finally got passed the finishing line.  
  > 他继续前进，最终冲过了终点线。  
@@ -8361,7 +8433,7 @@ presidential /ˌprezɪ'denʃl/ adj
 ---
 ##### 题目  
 He ________ (按下) the button and the doorbell rang.   
-来源：2009 全国  
+##### 来源：2009 全国  
 ##### 答案 pressed / pushed  
   
 
@@ -8455,7 +8527,7 @@ He ________ (按下) the button and the doorbell rang.
 ---
 ##### 题目  
 Miss Harper closed her eyes and ________ to be asleep.   
-来源：2010 陕西  
+##### 来源：2010 陕西  
 ##### 答案 pretended  
   
 
@@ -8487,7 +8559,8 @@ Miss Harper closed her eyes and ________ to be asleep.
 
 固定搭配
 ---
-## \*pretty well / much  1.**[非正式用语] 几乎；差不多**  
+## \*pretty well / much
+1.**[非正式用语] 几乎；差不多**  
 
 #### 辨析 fairly, quite, rather, pretty
 四者都有“相当”之意。  
@@ -8508,7 +8581,8 @@ Miss Harper closed her eyes and ________ to be asleep.
 
 固定搭配
 ---
-## \*prevent sb / sth (from) doing sth:  1.
+## \*prevent sb / sth (from) doing sth:
+1.
  > There were many ways to prevent this from happening.  
  > 有多种方法可以防止此事发生。  
  > 来源： 2008 广东改  
@@ -8570,7 +8644,8 @@ prevention /prɪ'venʃn/ n [U]
 
 固定搭配
 ---
-## \*previous to   1.**[正式用语] 在…之前：**  
+## \*previous to 
+1.**[正式用语] 在…之前：**  
 
  > Previous to this, scientific experiments did not show a definite link between mobile phone use and cancer.  
  > 在这之前，科学实验没有表明在使用手机和患癌症之间存在明确的关联。  
@@ -8603,7 +8678,8 @@ previously /'priːviəsli/ adv
 
 固定搭配
 ---
-## \*at the price of   1.**以…的代价：**  
+## \*at the price of 
+1.**以…的代价：**  
 
  > She achieved success at the price of her health.  
  > 她的成功是以牺牲自身健康为代价的。  
@@ -8680,13 +8756,15 @@ previously /'priːviəsli/ adv
 
 固定搭配
 ---
-## \*take pride in   1.**对…感到自豪：**  
+## \*take pride in 
+1.**对…感到自豪：**  
 
  > People tend to take pride in keeping everything in their street fresh.  
  > 人们往往会为保持自己的街道清爽而感到自豪。  
  > 来源：2018 浙江  
 
-## \*with pride   1.**自豪地：**  
+## \*with pride 
+1.**自豪地：**  
 
  > I looked with pride at what I had achieved.   
  > 回顾过去的成就，我感到很自豪。  
@@ -8696,7 +8774,7 @@ previously /'priːviəsli/ adv
 ---
 ##### 题目  
 Rebecca was the ________ (骄傲) of her family.  
-来源：2012 全国  
+##### 来源：2012 全国  
 ##### 答案 pride  
   
 
@@ -8739,7 +8817,7 @@ primarily /praɪ'merəli; 'praɪmərəli/ adv
 ---
 ##### 题目  
 In those days, our ________ (主要的) concern was to provide people who were stopped by the snow storm with food and health care.  
-来源：2008 湖北改  
+##### 来源：2008 湖北改  
 ##### 答案 primary / main  
   
 
@@ -8864,7 +8942,8 @@ In those days, our ________ (主要的) concern was to provide people who were s
 
 固定搭配
 ---
-## \*in principle  1.*高义频：* **理论上；原则上：**  
+## \*in principle
+1.*高义频：* **理论上；原则上：**  
 
  > I agree with it in principle but I doubt if it will happen in practice.   
  > 理论上我同意，但是不知道实际上能否可行。  
@@ -8879,7 +8958,7 @@ In those days, our ________ (主要的) concern was to provide people who were s
 ---
 ##### 题目  
 Anyway, I can’t cheat him — it’s against all my ________ (原则).   
-来源：2011 浙江改  
+##### 来源：2011 浙江改  
 ##### 答案 principles  
   
 
@@ -8911,7 +8990,8 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
 
 固定搭配
 ---
-## \*print off / out  1.**打印：**  
+## \*print off / out
+1.**打印：**  
 
  > You may use an online printer to print out the data.  
  > 你可以使用网络打印机把数据打印出来。  
@@ -8938,9 +9018,11 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
 
 固定搭配
 ---
-## \*in print   1.**已出版的；(书等) 仍能买到的**  
+## \*in print 
+1.**已出版的；(书等) 仍能买到的**  
 
-## \*out of print   1.**绝版的**  
+## \*out of print 
+1.**绝版的**  
 
 
 # ***\*printer*** n
@@ -8988,7 +9070,8 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
 
 固定搭配
 ---
-## \*prior to  1.**在…之前**  
+## \*prior to
+1.**在…之前**  
 
 
 # ***\*priority*** n
@@ -9112,7 +9195,8 @@ Anyway, I can’t cheat him — it’s against all my ________ (原则).
 
 固定搭配
 ---
-## \*in private   1.**私下地【反:in public】：**  
+## \*in private 
+1.**私下地【反:in public】：**  
 
  > I want to have a word with you in private.   
  > 我想和你私下说几句。  
@@ -9267,7 +9351,8 @@ probability /ˌprɒbə'bɪləti/ n
 
 固定搭配
 ---
-## \*no problem  1.*高义频：* **[表示乐于相助或事情容易做]没问题：**  
+## \*no problem
+1.*高义频：* **[表示乐于相助或事情容易做]没问题：**  
 
  > — How about meeting at the nearby restaurant?   
  > 在附近的餐馆见面如何？  
@@ -9293,7 +9378,7 @@ probability /ˌprɒbə'bɪləti/ n
 — Are you sure you’re ready for the test?
 — ________ (没问题). I’m well prepared for it.
   
-来源：2016 浙江改  
+##### 来源：2016 浙江改  
 ##### 答案 No problem  
   
 
@@ -9373,7 +9458,8 @@ probability /ˌprɒbə'bɪləti/ n
 
 固定搭配
 ---
-## \*in the process  1.**同时：**  
+## \*in the process
+1.**同时：**  
 
  > I spilt the coffee, burning myself in the process.   
  > 我把咖啡洒了出来，还烫到了自己。  
@@ -9410,7 +9496,7 @@ A.produce
 B.pronounce  
 C.process  
 D.download  
-来源：2015 浙江  
+##### 来源：2015 浙江  
 ##### 答案 C  
   
 
@@ -9852,7 +9938,8 @@ programming /'prəʊɡræmɪŋ/ n
 
 固定搭配
 ---
-## \*in progress  1.**[正式用语] 在进行中：**  
+## \*in progress
+1.**[正式用语] 在进行中：**  
 
  > The building of the bridge is in progress.   
  > 桥梁正在建设中。  
@@ -10020,7 +10107,7 @@ prohibition /ˌprəʊɪ'bɪʃn/ n
 ---
 ##### 题目  
 The young man made a promise ________ his parents that he would try to earn his own living after graduation.  
-来源：2008 湖北改  
+##### 来源：2008 湖北改  
 ##### 答案 to  
   
 
@@ -10080,7 +10167,7 @@ promising /'prɒmɪsɪŋ/ adj
 ---
 ##### 题目  
 The new movie promises ________ (be) one of the biggest money-makers of all time.  
-来源：2010 辽宁改  
+##### 来源：2010 辽宁改  
 ##### 答案 to be  
   
 
@@ -10242,7 +10329,7 @@ The new movie promises ________ (be) one of the biggest money-makers of all time
 ---
 ##### 题目  
 A dog's eating habit requires regular training before it is ________ (proper) established.  
-来源：2019 天津改  
+##### 来源：2019 天津改  
 ##### 答案 properly  
   
 
@@ -10287,7 +10374,8 @@ A dog's eating habit requires regular training before it is ________ (proper) es
 
 固定搭配
 ---
-## \*out of proportion to  1.**与…不成比例；和…不相称**  
+## \*out of proportion to
+1.**与…不成比例；和…不相称**  
 
 
 # ***\*proposal*** n
@@ -10455,7 +10543,7 @@ protective /prə'tektɪv/ adj
 ---
 ##### 题目  
 He was wearing dark glasses to ________ (保护) his eyes from the sun.  
-来源：2006 陕西  
+##### 来源：2006 陕西  
 ##### 答案 protect  
   
 
@@ -10583,7 +10671,7 @@ proudly /'praʊdli/ adv
 ---
 ##### 题目  
 Hans Zhang was ________ (自豪的) of himself for not giving up.   
-来源：2015 陕西  
+##### 来源：2015 陕西  
 ##### 答案 proud  
   
 
@@ -10656,7 +10744,7 @@ Notes: 表示向某人证明某事时应该用prove sth to sb，而不能用prov
 ---
 ##### 题目  
 To ________ (证明) his point, Professor Brown mentioned several other experiments which had similar results.  
-来源：2013 陕西  
+##### 来源：2013 陕西  
 ##### 答案 prove  
   
 
@@ -10703,7 +10791,8 @@ To ________ (证明) his point, Professor Brown mentioned several other experime
 
 固定搭配
 ---
-## \*provide for  1.*低义频：* **抚养；供养：**  
+## \*provide for
+1.*低义频：* **抚养；供养：**  
 
  > She needs her new, busy work to provide for her family.  
  > 她的新工作很繁忙，但她需要它来养家糊口。  
@@ -10863,7 +10952,8 @@ Notes: the public作主语时，如表示整体，谓语动词用单数形式；
 
 固定搭配
 ---
-## \*in public  1.**当众；公开地【反:in private】：**  
+## \*in public
+1.**当众；公开地【反:in private】：**  
 
  > Don’t laugh or talk loudly in public. It’s bad manners.  
  > 不要在公共场合大声说笑，这样不礼貌。  
@@ -10878,7 +10968,7 @@ publicly /'pʌblɪkli/ adv
 ---
 ##### 题目  
 His daughter is always shy ________ public and she never dares to make a speech to the public.  
-来源：2001 上海春改  
+##### 来源：2001 上海春改  
 ##### 答案 in  
   
 
@@ -10932,7 +11022,7 @@ publishing /'pʌblɪʃɪŋ/ n [U]
 ---
 ##### 题目  
 Sue Wood was only nine when her first short story was ________ (出版).  
-来源：2011 陕西  
+##### 来源：2011 陕西  
 ##### 答案 published  
   
 
@@ -11000,12 +11090,14 @@ Sue Wood was only nine when her first short story was ________ (出版).
 
 固定搭配
 ---
-## \*pull away  1.**驶离；离开：**  
+## \*pull away
+1.**驶离；离开：**  
 
  > The traffic lights went green and I pulled away.  
  > 交通灯变绿，我开车离开。  
 
-## \*pull down  1.**把…往下拉；拆毁：**  
+## \*pull down
+1.**把…往下拉；拆毁：**  
 
  > Pull down your hat so that nobody will recognize you.   
  > 把帽子拉低，这样就没人能认出你。  
@@ -11013,16 +11105,20 @@ Sue Wood was only nine when her first short story was ________ (出版).
  > The old building has been pulled down for safety reasons.  
  > 考虑到安全因素，那座旧楼被拆毁了。  
 
-## \*pull in / into  1.**(列车等) 进站；(汽车等) 靠边停下**  
+## \*pull in / into
+1.**(列车等) 进站；(汽车等) 靠边停下**  
 
-## \*pull off  1.**把…驶离大路；成功完成**  
+## \*pull off
+1.**把…驶离大路；成功完成**  
 
-## \*pull on  1.**穿；戴 (袜子、手套等)：**  
+## \*pull on
+1.**穿；戴 (袜子、手套等)：**  
 
  > Pull on gloves when you go out.  
  > 外出时戴上手套。  
 
-## \*pull out  1.*高义频：* **拉出；拿出：**  
+## \*pull out
+1.*高义频：* **拉出；拿出：**  
 
  > He pulled out a mobile phone and made a call.  
  > 他掏出手机打了个电话。  
@@ -11040,17 +11136,21 @@ Sue Wood was only nine when her first short story was ________ (出版).
  > Most of the troops have been pulled out.  
  > 大部分军队已撤离。  
 
-## \*pull over  1.**(使) 停靠在路边**  
+## \*pull over
+1.**(使) 停靠在路边**  
 
-## \*pull through  1.**(使) 恢复健康；(使) 渡过难关：**  
+## \*pull through
+1.**(使) 恢复健康；(使) 渡过难关：**  
 
  > The doctor said I was not going to pull through.  
  > 医生说我无法康复了。  
  > 来源：北师大① – 2  
 
-## \*pull together  1.**组合；整顿；同心协力**  
+## \*pull together
+1.**组合；整顿；同心协力**  
 
-## \*pull up  1.**(使) (车等) 停下：**  
+## \*pull up
+1.**(使) (车等) 停下：**  
 
  > A car pulled up behind me.  
  > 一辆车停在我后面。  
@@ -11293,7 +11393,7 @@ purely /'pjʊəli/ adv
 ---
 ##### 题目  
 This T-shirt is made of high quality ________ (纯的) cotton.  
-来源：2012 陕西  
+##### 来源：2012 陕西  
 ##### 答案 pure  
   
 
@@ -11390,7 +11490,8 @@ This T-shirt is made of high quality ________ (纯的) cotton.
 
 固定搭配
 ---
-## \*on purpose  1.**故意地；有意地 (deliberately)**  
+## \*on purpose
+1.**故意地；有意地 (deliberately)**  
 反义词 by accident： 
 
  > Cinderella left her shoe on the stairs on purpose.  
@@ -11501,7 +11602,8 @@ purposely /'pɜːpəsli/ adv
 
 固定搭配
 ---
-## \*push aside  1.**推开；排挤；设法忘掉：**  
+## \*push aside
+1.**推开；排挤；设法忘掉：**  
 
  > Just when she was about to speak, a student rushed in and pushed her aside!  
  > 正当她要讲话时，一个学生冲了进来将她推到一边。  
@@ -11510,12 +11612,14 @@ purposely /'pɜːpəsli/ adv
  > She pushed aside her anger, forcing herself to focus on her work.   
  > 她抛开愤怒，强迫自己专心工作。  
 
-## \*push on   1.**继续前进；继续 (做某事)：**  
+## \*push on 
+1.**继续前进；继续 (做某事)：**  
 
  > Let’s push on; it’s nearly nightfall.  
  > 咱们继续走吧，天快黑了。  
 
-## \*push over   1.**推倒；(风) 刮倒：**  
+## \*push over 
+1.**推倒；(风) 刮倒：**  
 
  > The big tree was pushed over by the wind.   
  > 这棵大树被风刮倒了。  
@@ -11525,7 +11629,7 @@ purposely /'pɜːpəsli/ adv
 ---
 ##### 题目  
 Encourage your children to try new things, but try not to ________ (逼迫) them too hard.  
-来源：2009 全国改  
+##### 来源：2009 全国改  
 ##### 答案 push  
   
 
@@ -11634,7 +11738,8 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
 
 固定搭配
 ---
-## \*put aside  1.*低义频：* **把...放在一边；把...撇开不理：**  
+## \*put aside
+1.*低义频：* **把...放在一边；把...撇开不理：**  
 
  > She put the newspaper aside and stood up.   
  > 她把报纸放到一边站了起来。  
@@ -11647,7 +11752,8 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
  > They put some money aside every month for their retirement.   
  > 他们每月都存些钱供退休后用。  
 
-## \*put away  1.*高义频：* **把...收起；放好：**  
+## \*put away
+1.*高义频：* **把...收起；放好：**  
 
  > Kids — will you put away your toys now?   
  > 孩子们，现在把玩具收起来好吗？  
@@ -11662,7 +11768,8 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
  > Put your worries away and enjoy life.   
  > 别再担心了，好好享受人生吧！  
 
-## \*put back  1.*高义频：* **把...放回原处；使...恢复原状：**  
+## \*put back
+1.*高义频：* **把...放回原处；使...恢复原状：**  
 
  > Please put back the books and magazines when you’ve finished with them.   
  > 阅读完书和杂志后请放回原处。  
@@ -11672,7 +11779,8 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
  > Because of the bad weather, the voyage was put back twelve hours.   
  > 由于天气恶劣，起航推迟了12个小时。  
 
-## \*put down  1.*高义频：* **放下：**  
+## \*put down
+1.*高义频：* **放下：**  
 
  > Once I started reading the mystery novel, I just couldn’t put it down.  
  > 一旦我开始读那本疑案小说，就再也放不下了。  
@@ -11687,7 +11795,8 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
 
 3.*低义频：* **付 (订金)；批评**  
 
-## \*put forward   1.**把…提前；提出 ; 推荐 :**  
+## \*put forward 
+1.**把…提前；提出 ; 推荐 :**  
 
  > We have put forward the wedding by two weeks.   
  > 我们把婚礼提前了两周。  
@@ -11696,7 +11805,8 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
  > 谁提出了黑洞理论？  
  > 来源：人教⑤ – 1  
 
-## \*put in  1.*低义频：* **插入 (意见、话语等)；投入 (时间、金钱等)：**  
+## \*put in
+1.*低义频：* **插入 (意见、话语等)；投入 (时间、金钱等)：**  
 
  > Holly is always putting in her unwanted opinions.  
  > 霍莉总是插嘴，发表些没用的见解。  
@@ -11719,7 +11829,8 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
  > 她种了15株西红柿和5垅各色蔬菜。  
  > 来源：2011 全国  
 
-## \*put into   1.**把…投入；(使) 进入… (状态)；把…翻译成：**  
+## \*put into 
+1.**把…投入；(使) 进入… (状态)；把…翻译成：**  
 
  > Nothing is difficult in the world if you put your heart into it.   
  > 世上无难事，只怕有心人。  
@@ -11731,7 +11842,8 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
  > Put this sentence into English.  
  > 把这个句子译成英语。  
 
-## \*put off  1.*高义频：* **延期；推迟 (delay / postpone)：**  
+## \*put off
+1.*高义频：* **延期；推迟 (delay / postpone)：**  
 
  > She called this afternoon to put off the meeting to next week.   
  > 她下午打电话说把会议推迟到下周。  
@@ -11751,7 +11863,8 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
  > Don’t let your failures put you off trying harder.  
  > 别因为失败你就不再进一步努力了。  
 
-## \*put on  1.*高义频：* **穿上；戴上【反:take off】；抹：**  
+## \*put on
+1.*高义频：* **穿上；戴上【反:take off】；抹：**  
 
  > Remember to put on more clothes to keep warm.   
  > 记得多穿点衣服保暖。  
@@ -11796,7 +11909,8 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
  > He put the blame for his failure on me.   
  > 他把自己的失败归咎于我。  
 
-## \*put out  1.*高义频：* **把...拿出去：**  
+## \*put out
+1.*高义频：* **把...拿出去：**  
 
  > put the rubbish / garbage out   
  > 清理垃圾  
@@ -11828,7 +11942,8 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
 #### 辨析 go out, put out
 二者都和“熄灭”有关。  
 
-## \*put through  1.*低义频：* **使经受 (困难或令人不悦的事情)：**  
+## \*put through
+1.*低义频：* **使经受 (困难或令人不悦的事情)：**  
 
  > I told myself I would not put my mom through that pain again.   
  > 我告诉自己不能再让妈妈经受那样的痛苦了。  
@@ -11843,12 +11958,14 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
  > Could you put me through to the manager, please?  
  > 请帮我接通经理的电话，好吗？  
 
-## \*put together   1.**组装；组建；拼凑出：**  
+## \*put together 
+1.**组装；组建；拼凑出：**  
 
  > It took us all morning to put the proposal together.  
  > 我们花了一上午的时间整理出这份建议。  
 
-## \*put up  1.*高义频：* **举起；抬起；提高：**  
+## \*put up
+1.*高义频：* **举起；抬起；提高：**  
 
  > Put up your hands if you have any questions.  
  > 如果有问题请举手。  
@@ -11877,7 +11994,8 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
  > I was hoping Kenny could put me up for a few days.  
  > 我希望肯尼能让我留宿几天。  
 
-## \*put up with   1.**忍受；容忍 (tolerate)：**  
+## \*put up with 
+1.**忍受；容忍 (tolerate)：**  
 
  > I can’t put up with their smoking any longer.   
  > 我再也无法忍受他们抽烟了。  
@@ -11890,22 +12008,22 @@ Encourage your children to try new things, but try not to ________ (逼迫) them
 ---
 ##### 题目  
 At the last moment, Tom decided to put ________ a new character to make the story seem more likely.  
-来源：2013 全国改  
+##### 来源：2013 全国改  
 ##### 答案 in  
   
 ##### 题目  
 Mary is really good at taking notes in class. She can put _________ almost every word her teacher says.  
-来源：2012 全国改  
+##### 来源：2012 全国改  
 ##### 答案 down  
   
 ##### 题目  
 The exam results will be put _________ on Friday afternoon.  
-来源：2011 辽宁改  
+##### 来源：2011 辽宁改  
 ##### 答案 up  
   
 ##### 题目  
 I can put up ________ the house being untidy, but I hate it if it’s not clean.  
-来源：2011 全国改  
+##### 来源：2011 全国改  
 ##### 答案 with  
   
 ##### 题目  
@@ -11914,12 +12032,12 @@ A.putting down
 B.putting off  
 C.putting on  
 D.putting up  
-来源：2011 浙江  
+##### 来源：2011 浙江  
 ##### 答案 D  
   
 ##### 题目  
 My mother opened the drawer to put _________ the knives and spoons.  
-来源：2010 全国改  
+##### 来源：2010 全国改  
 ##### 答案 away  
   
 ##### 题目  
@@ -11928,12 +12046,12 @@ A.gets
 B.makes  
 C.puts  
 D.means  
-来源：2009 安徽  
+##### 来源：2009 安徽  
 ##### 答案 C  
   
 ##### 题目  
 Don’t be so discouraged. If you put ________ such feelings, you will do better next time.  
-来源：2008 安徽改  
+##### 来源：2008 安徽改  
 ##### 答案 away  
   
 
@@ -11967,7 +12085,8 @@ Don’t be so discouraged. If you put ________ such feelings, you will do better
 
 固定搭配
 ---
-## \*puzzle over / about  1.**苦苦思索；仔细琢磨**  
+## \*puzzle over / about
+1.**苦苦思索；仔细琢磨**  
 
 
 # ***\*puzzled*** adj

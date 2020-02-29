@@ -3289,9 +3289,11 @@ Notes: agree with表示“同意”、“赞同”时，后常接人或表示“
 
 固定搭配
 ---
-## \*It’s all right.  1.**别怕。/ 没事的。**  
+## \*It’s all right.
+1.**别怕。/ 没事的。**  
 
-## \*It’s / That’s all right.  1.**没关系。/ 不用谢。**  
+## \*It’s / That’s all right.
+1.**没关系。/ 不用谢。**  
 
 
 真题解析
@@ -3303,7 +3305,7 @@ A.You can’t be serious
 B.I’m afraid not  
 C.Good idea  
 D.Well, all right  
-来源：2015 陕西  
+##### 来源：2015 陕西  
 ##### 答案 D  
   
 ##### 题目  
@@ -3313,7 +3315,7 @@ A.That’s right
 B.All right  
 C.I’m all right  
 D.It’s all right  
-来源：2013 江苏  
+##### 来源：2013 江苏  
 ##### 答案 D  
   
 
@@ -3352,9 +3354,11 @@ D.It’s all right
 
 固定搭配
 ---
-## \*It’s all right.  1.**别怕。/ 没事的。**  
+## \*It’s all right.
+1.**别怕。/ 没事的。**  
 
-## \*It’s / That’s all right.  1.**没关系。/ 不用谢。**  
+## \*It’s / That’s all right.
+1.**没关系。/ 不用谢。**  
 
 
 # ***\*all right*** int
@@ -3379,7 +3383,7 @@ A.Not at all
 B.It depends  
 C.All right then  
 D.I don’t care  
-来源：2013 全国  
+##### 来源：2013 全国  
 ##### 答案 C  
   
 
@@ -34707,13 +34711,15 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 
 固定搭配
 ---
-## \*used to do sth   1.**过去常常做某事：**  
+## \*used to do sth 
+1.**过去常常做某事：**  
 
  > I used to play soccer with my brother every day.   
  > 以前我每天都和哥哥踢足球。  
  > 来源：北师大⑦ – 19  
 
-## \*used to be   1.**过去是：**  
+## \*used to be 
+1.**过去是：**  
 
  > I used to be a very self-centered person, but in the past two years I have really changed.   
  > 我过去曾是一个非常自私的人，但近两年来我真的变了。  

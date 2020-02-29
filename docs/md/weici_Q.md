@@ -164,13 +164,15 @@
 
 固定搭配
 ---
-## \*a large quantity of / large quantities of  1.**大量的：**  
+## \*a large quantity of / large quantities of
+1.**大量的：**  
 
  > There’s a large quantity of rain in this area.  
  > 这个地区雨量大。  
 
 Notes: a large quantity of / large quantities of 后既可以接可数名词也可以接不可数名词。  
-## \*in quantity / in large quantities  1.**大量地：**  
+## \*in quantity / in large quantities
+1.**大量地：**  
 
  > They buy cotton in quantity.  
  > 他们大量收购棉花。  
@@ -180,7 +182,7 @@ Notes: a large quantity of / large quantities of 后既可以接可数名词也�
 ---
 ##### 题目  
 As a result of destroying the forests, a large quantity of desert ________ (have) covered the land.  
-来源：2001 上海改  
+##### 来源：2001 上海改  
 ##### 答案 has  
   
 
@@ -300,11 +302,14 @@ As a result of destroying the forests, a large quantity of desert ________ (have
 
 固定搭配
 ---
-## \*out of question  1.**毫无疑问**  
+## \*out of question
+1.**毫无疑问**  
 
-## \*out of the question  1.**不可能的**  
+## \*out of the question
+1.**不可能的**  
 
-## \*in question  1.**讨论中的；有疑问的；不确定的**  
+## \*in question
+1.**讨论中的；有疑问的；不确定的**  
 
 
 # ***\*question*** vt
@@ -437,7 +442,7 @@ quicken /'kwɪkən/ v
 ---
 ##### 题目  
 There are only five minutes left. We’ll have to walk q________ to get there on time.  
-来源：2007 浙江  
+##### 来源：2007 浙江  
 ##### 答案 quickly  
   
 
@@ -469,7 +474,8 @@ There are only five minutes left. We’ll have to walk q________ to get there on
 
 固定搭配
 ---
-## \*keep sth quiet / keep quiet about sth  1.**对某事守口如瓶；保密：**  
+## \*keep sth quiet / keep quiet about sth
+1.**对某事守口如瓶；保密：**  
 
  > We want to give him a surprise, so please keep quiet about it.  
  > 我们想给他一个惊喜，所以对此事务必要保密。  
@@ -577,7 +583,7 @@ A.quite
 B.very  
 C.rather  
 D.much  
-来源：2011 全国  
+##### 来源：2011 全国  
 ##### 答案 A  
   
 

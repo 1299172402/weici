@@ -292,7 +292,7 @@ observer /əb'zɜːvə(r)/ n [C]
 ---
 ##### 题目  
 Though having lived abroad for years, many Chinese still ________ (奉行) the traditional customs.  
-来源：2008 湖北改  
+##### 来源：2008 湖北改  
 ##### 答案 observe  
   
 
@@ -374,7 +374,7 @@ Though having lived abroad for years, many Chinese still ________ (奉行) the t
 ---
 ##### 题目  
 Most people on this island are recreational fishers, and ________ (obvious), fishing forms an actual part of their leisure time.  
-来源：2004 上海改  
+##### 来源：2004 上海改  
 ##### 答案 obviously  
   
 
@@ -424,13 +424,15 @@ Most people on this island are recreational fishers, and ________ (obvious), fis
 
 固定搭配
 ---
-## \*on occasion(s)  1.**有时；偶尔：**  
+## \*on occasion(s)
+1.**有时；偶尔：**  
 
  > It is said that on occasion Byron swam by moonlight in the lake.  
  > 据说，有时拜伦借着月光在湖里游泳。  
  > 来源：2012 湖南改  
 
-## \*on the occasion of  1.**在…之际：**  
+## \*on the occasion of
+1.**在…之际：**  
 
  > **on the,occasion of**  
  > I traveled back to my hometown on the sad occasion of Dad’s death.  
@@ -442,7 +444,7 @@ Most people on this island are recreational fishers, and ________ (obvious), fis
 ---
 ##### 题目  
 I saw Bob play the piano at John’s party and ________ that occasion he was simply brilliant.  
-来源：2002 上海春改  
+##### 来源：2002 上海春改  
 ##### 答案 on  
   
 
@@ -476,7 +478,7 @@ I saw Bob play the piano at John’s party and ________ that occasion he was sim
 ---
 ##### 题目  
 I’ve been writing this report ________ (occasional) for the last two weeks, but it has to be handed in tomorrow.  
-来源：2011 浙江改  
+##### 来源：2011 浙江改  
 ##### 答案 occasionally  
   
 
@@ -590,7 +592,8 @@ I’ve been writing this report ________ (occasional) for the last two weeks, bu
 
 固定搭配
 ---
-## \*occur to sb   1.**浮现于脑中；被想起：**  
+## \*occur to sb 
+1.**浮现于脑中；被想起：**  
 
 - it occurs to sb to do sth:
 
@@ -623,7 +626,7 @@ occurrence /ə'kʌrəns/ n
 ---
 ##### 题目  
 It suddenly occurred to him ________ he had left his keys in the office.  
-来源：2012 江西改  
+##### 来源：2012 江西改  
 ##### 答案 that  
   
 
@@ -734,12 +737,12 @@ It suddenly occurred to him ________ he had left his keys in the office.
 ---
 ##### 题目  
 A common memory they all have ________ their school days is the school uniform.  
-来源：2015 福建改  
+##### 来源：2015 福建改  
 ##### 答案 of  
   
 ##### 题目  
 ________ all the animals I’ve ever had, these two dogs are the most sensitive to the spoken word.  
-来源：2012 浙江改  
+##### 来源：2012 浙江改  
 ##### 答案 Of  
   
 
@@ -792,7 +795,7 @@ ________ all the animals I’ve ever had, these two dogs are the most sensitive 
 ---
 ##### 题目  
 She drove so fast at the turn that the car almost went _________ the road.  
-来源：2014 重庆改  
+##### 来源：2014 重庆改  
 ##### 答案 off  
   
 
@@ -831,7 +834,7 @@ She drove so fast at the turn that the car almost went _________ the road.
 ---
 ##### 题目  
 The Well Hotel stands in a quiet place ________ the main road at the far end of the lake.  
-来源：2012 辽宁改  
+##### 来源：2012 辽宁改  
 ##### 答案 off  
   
 
@@ -876,7 +879,7 @@ A.discourage
 B.offend  
 C.disturb   
 D.bother  
-来源：2002 上海春  
+##### 来源：2002 上海春  
 ##### 答案 B  
   
 
@@ -971,7 +974,7 @@ D.bother
 ---
 ##### 题目  
 A good listener takes part in the conversation, ________ (offer) ideas and raising questions to keep the talk flowing.  
-来源：2013 浙江改  
+##### 来源：2013 浙江改  
 ##### 答案 offering  
   
 
@@ -1012,7 +1015,8 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 
 固定搭配
 ---
-## \*on offer  1.**削价 / 特价出售的：**  
+## \*on offer
+1.**削价 / 特价出售的：**  
 
  > This computer was on special offer.  
  > 这款电脑正特价出售。  
@@ -1028,7 +1032,7 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 ##### 题目  
 — Can I help you with it?
 — I appreciate your ________ (好意), but I can manage it myself.  
-来源：2012 江苏改  
+##### 来源：2012 江苏改  
 ##### 答案 offer  
   
 
@@ -1079,7 +1083,8 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 
 固定搭配
 ---
-## \*office hours   1.**办公时间；营业时间**  
+## \*office hours 
+1.**办公时间；营业时间**  
 
 
 # ***\*officer*** n
@@ -1170,7 +1175,7 @@ A good listener takes part in the conversation, ________ (offer) ideas and raisi
 ---
 ##### 题目  
 The title will be ________ (official) given to me at a ceremony in London.  
-来源：2016 全国  
+##### 来源：2016 全国  
 ##### 答案 officially  
   
 
@@ -1222,7 +1227,8 @@ The title will be ________ (official) given to me at a ceremony in London.
 
 固定搭配
 ---
-## \*more often than not / as often as not   1.**通常；往往**  
+## \*more often than not / as often as not 
+1.**通常；往往**  
 
 
 真题解析
@@ -1230,7 +1236,7 @@ The title will be ________ (official) given to me at a ceremony in London.
 ##### 题目  
 — I wonder how ________ you’ll water this kind of flower.
 — Every other day.  
-来源：2009 四川改  
+##### 来源：2009 四川改  
 ##### 答案 often  
   
 
@@ -1433,12 +1439,12 @@ The title will be ________ (official) given to me at a ceremony in London.
 ---
 ##### 题目  
 Nick, it’s good for you to read some books ________ China before you start your trip there.  
-来源：2011 四川改  
+##### 来源：2011 四川改  
 ##### 答案 on / about  
   
 ##### 题目  
 He invited me to a dance after the show ________ Christmas Eve.  
-来源：2009 陕西改  
+##### 来源：2009 陕西改  
 ##### 答案 on  
   
 
@@ -1505,24 +1511,28 @@ He invited me to a dance after the show ________ Christmas Eve.
 
 固定搭配
 ---
-## \*all at once  1.**突然：**  
+## \*all at once
+1.**突然：**  
 
  > All at once the answer came to him.  
  > 他突然想到了答案。  
 
-## \*at once  1.**立刻；马上：**  
+## \*at once
+1.**立刻；马上：**  
 
  > I have to go home at once.  
  > 我必须马上回家。  
  > 来源：人教③ – 2  
 
-## \*(every) once in a while  1.**偶尔；间或：**  
+## \*(every) once in a while
+1.**偶尔；间或：**  
 
  > He was busy writing a story, only stopping once in a while to smoke a cigarette.  
  > 他忙着写故事，只是偶尔停下来抽根烟。  
  > 来源：2008 辽宁  
 
-## \*(just) for once / just this once  1.**(与通常情况对比而言) 仅此一次：**  
+## \*(just) for once / just this once
+1.**(与通常情况对比而言) 仅此一次：**  
 
  > Just for once let me make my own decision.  
  > 这一次就让我自己做决定吧。  
@@ -1530,23 +1540,27 @@ He invited me to a dance after the show ________ Christmas Eve.
  > Go on, lend me the bicycle, just this once.  
  > 好啦，把自行车借给我，就这一次。  
 
-## \*never / not once  1.**从未：**  
+## \*never / not once
+1.**从未：**  
 
  > The old couple have been married for 40 years and never once have they quarreled with each other.  
  > 那对老夫妇已经结婚40年了，彼此从未吵过架。  
 
 Notes: never / not once位于句首时，句子用部分倒装语序。  
-## \*once again / once more  1.**再一次：**  
+## \*once again / once more
+1.**再一次：**  
 
  > Tell me just once again.  
  > 你就再告诉我一次吧。  
 
-## \*once and for all  1.**彻底地；一劳永逸地：**  
+## \*once and for all
+1.**彻底地；一劳永逸地：**  
 
  > Let’s settle this matter once and for all.  
  > 我们把这个问题彻底解决了吧。  
 
-## \*once or twice  1.**一两次；几次：**  
+## \*once or twice
+1.**一两次；几次：**  
 
  > I have been there once or twice.  
  > 我去过那儿一两次。  
@@ -1556,7 +1570,7 @@ Notes: never / not once位于句首时，句子用部分倒装语序。
 ---
 ##### 题目  
 Mary and I see each other ________ (偶尔), but not as often as we used to.  
-来源：2009 山东改  
+##### 来源：2009 山东改  
 ##### 答案 once in a while  
   
 
@@ -1577,7 +1591,7 @@ Mary and I see each other ________ (偶尔), but not as often as we used to.
 ---
 ##### 题目  
 ________ (一旦) the damage is done, it will take many years for the farmland to recover.  
-来源：2015 北京改  
+##### 来源：2015 北京改  
 ##### 答案 Once  
   
 
@@ -1656,17 +1670,20 @@ Notes:  one 代替前面出现过的可数名词，表示同种类中的一个�
 
 固定搭配
 ---
-## \*one after another / the other  1.**一个接一个地； 接连地：**  
+## \*one after another / the other
+1.**一个接一个地； 接连地：**  
 
  > One after another, people stood up and shared their own stories.  
  > 人们一个接一个地站了起来，分享自己的故事。  
 
-## \*one another  1.**[两者或多者之间] 相互；彼此：**  
+## \*one another
+1.**[两者或多者之间] 相互；彼此：**  
 
  > They gave presents to one another at the graduation ceremony.  
  > 毕业典礼上他们互赠礼物。  
 
-## \*one by one  1.**逐个地；依次地：**  
+## \*one by one
+1.**逐个地；依次地：**  
 
  > As the bell rang, the students went out one by one.  
  > 铃声响了，学生们鱼贯而出。  
@@ -1676,7 +1693,7 @@ Notes:  one 代替前面出现过的可数名词，表示同种类中的一个�
 ---
 ##### 题目  
 If you’re buying today’s paper from the stand, could you get ________ for me?  
-来源：2012 辽宁改  
+##### 来源：2012 辽宁改  
 ##### 答案 one  
   
 ##### 题目  
@@ -1685,12 +1702,12 @@ A.it
 B.that  
 C.what  
 D.one  
-来源：2010 山东  
+##### 来源：2010 山东  
 ##### 答案 D  
   
 ##### 题目  
 Charles was alone at home, with no ________ looking after him.  
-来源：2009 全国改  
+##### 来源：2009 全国改  
 ##### 答案 one  
   
 
@@ -1719,9 +1736,11 @@ Charles was alone at home, with no ________ looking after him.
 
 固定搭配
 ---
-## \*be oneself  1.**(人) 处于正常状态：**  
+## \*be oneself
+1.**(人) 处于正常状态：**  
 
-## \*(all) by oneself  1.**独自地；独立地**  
+## \*(all) by oneself
+1.**独自地；独立地**  
 
 
 # ***\*onion*** n
@@ -1811,12 +1830,14 @@ Notes: “only + 状语”置于句首时，通常引起部分倒装。句子结
 
 固定搭配
 ---
-## \*if only  1.**[与虚拟语气连用] 但愿；如果…就好了：**  
+## \*if only
+1.**[与虚拟语气连用] 但愿；如果…就好了：**  
 
  > If only I knew her name.  
  > 我要是知道她的名字就好了。  
 
-## \*not only ... but (also)  1.**不但…而且：**  
+## \*not only ... but (also)
+1.**不但…而且：**  
 
 Notes: not only … but (also) 可以连接并列成分。连接主语时，谓语与靠近它的主语一致。  
  > Not only the students but also their teacher is enjoying the film.  
@@ -1832,17 +1853,17 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 ---
 ##### 题目  
 I have grown not only physically, and also mentally in the past few years.  
-来源：2017 全国  改错  
+##### 来源：2017 全国  改错  
 ##### 答案 and → but  
   
 ##### 题目  
 Only when Lily walked into the office ________ (她才意识到) that she had left the contract at home.  
-来源：2015 天津改  
+##### 来源：2015 天津改  
 ##### 答案 did she realize  
   
 ##### 题目  
 Anxiously, she took the dress out of the package and tried it on, only ________ (find) it didn’t fit.  
-来源：2014 天津改  
+##### 来源：2014 天津改  
 ##### 答案 to find  
   
 
@@ -1938,7 +1959,8 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
 
 固定搭配
 ---
-## \*have / keep an open mind (about / on)  1.**对…不怀成见 / 对…不先入为主**  
+## \*have / keep an open mind (about / on)
+1.**对…不怀成见 / 对…不先入为主**  
 
 
 # ***\*open*** v
@@ -2002,9 +2024,11 @@ Anxiously, she took the dress out of the package and tried it on, only ________ 
 
 固定搭配
 ---
-## \*open sb’s eyes to sth  1.**使某人长见识 / 开眼界 / 认清 (事实)**  
+## \*open sb’s eyes to sth
+1.**使某人长见识 / 开眼界 / 认清 (事实)**  
 
-## \*open up  1.**打开；开辟；直抒胸怀：**  
+## \*open up
+1.**打开；开辟；直抒胸怀：**  
 
  > Einstein’s theories opened up a new area of study.  
  > 爱因斯坦的理论开创了一个新的研究领域。  
@@ -2135,7 +2159,8 @@ openly /'əʊpənli/ adv
 
 固定搭配
 ---
-## \*soap opera  1.**肥皂剧**  
+## \*soap opera
+1.**肥皂剧**  
 
 
 # ***\*operate*** v  重难点词汇
@@ -2250,7 +2275,8 @@ operator  n
 
 固定搭配
 ---
-## \*put ... into operation  1.**实施；使…运转；启用：**  
+## \*put ... into operation
+1.**实施；使…运转；启用：**  
 
  > It’s time to put our plan into operation.  
  > 现在应该实施我们的计划了。  
@@ -2336,7 +2362,8 @@ operator  n
 
 固定搭配
 ---
-## \*have a high / low / good / poor opinion of  1.**对…评价高 / 低 / 好 / 差**  
+## \*have a high / low / good / poor opinion of
+1.**对…评价高 / 低 / 好 / 差**  
 
 
 # ***\*opponent*** n
@@ -2417,7 +2444,8 @@ opposed /ə'pəʊzd/ adj [不用于名词前]
  > His parents are opposed to the marriage.  
  > 他的父母反对这桩婚事。  
 
-## \*as opposed to  1.**而；而非：**  
+## \*as opposed to
+1.**而；而非：**  
 
  > Two hundred people attended the meeting, as opposed to 300 the previous year.  
  > 200人出席了这次会议，而前一年是300人。  
@@ -2480,7 +2508,7 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 ---
 ##### 题目  
 David turned and walked off in the ________ (相反) direction.  
-来源：2008 全国  
+##### 来源：2008 全国  
 ##### 答案 opposite  
   
 
@@ -2568,7 +2596,7 @@ David turned and walked off in the ________ (相反) direction.
 ---
 ##### 题目  
 My good performance in the job interview left me optimistic ________ my future.  
-来源：2014 安徽改  
+##### 来源：2014 安徽改  
 ##### 答案 about  
   
 
@@ -2615,7 +2643,7 @@ My good performance in the job interview left me optimistic ________ my future.
 ---
 ##### 题目  
 In that school, English is compulsory for all students, but French and Russian are ________ (option).  
-来源：2011 江苏改  
+##### 来源：2011 江苏改  
 ##### 答案 optional  
   
 
@@ -2657,7 +2685,7 @@ In that school, English is compulsory for all students, but French and Russian a
 ---
 ##### 题目  
 Don’t turn off the computer before closing all programs, ________ you could have problems.  
-来源：2013 北京改  
+##### 来源：2013 北京改  
 ##### 答案 or   
   
 
@@ -2828,7 +2856,8 @@ orally /'ɔːrəli/ adv
 
 固定搭配
 ---
-## \*in order  1.**按顺序；有序地；整齐地：**  
+## \*in order
+1.**按顺序；有序地；整齐地：**  
 
  > Careful people usually put everything in good order.  
  > 细心的人总是把每样东西都放得很整齐。  
@@ -2836,13 +2865,15 @@ orally /'ɔːrəli/ adv
  > Some teachers find it difficult to keep their classes in order.   
  > 有些老师发现维持课堂秩序很困难。  
 
-## \*in order that  1.**为了；以便：**  
+## \*in order that
+1.**为了；以便：**  
 
  > Leave your telephone number in order that we might contact you.  
  > 请留下你的电话号码，以便于我们跟你联系。  
  > 来源：北师大⑦ – 20  
 
-## \*in order to  1.**为了；以便：**  
+## \*in order to
+1.**为了；以便：**  
 
  > In order to find a better job, he decided to study a second foreign language.  
  > 为了能找个更好的工作，他决定再学一门外语。  
@@ -2857,12 +2888,14 @@ orally /'ɔːrəli/ adv
  > Go in quietly so as not to wake your mother.  
  > 悄悄地进去，别把你的妈妈吵醒了。  
 
-## \*in the order of   1.**大约：**  
+## \*in the order of 
+1.**大约：**  
 
  > She earns something in the order of £80,000 a year.  
  > 她的年收入约为8万英镑。  
 
-## \*out of order  1.**次序颠倒；发生故障：**  
+## \*out of order
+1.**次序颠倒；发生故障：**  
 
  > The newspaper pages were out of order.  
  > 报纸的版面顺序乱了。  
@@ -2876,12 +2909,12 @@ orally /'ɔːrəli/ adv
 ---
 ##### 题目  
 ________ (order) over a week ago, the books are expected to arrive any time now.  
-来源：2016 北京改  
+##### 来源：2016 北京改  
 ##### 答案 Ordered  
   
 ##### 题目  
 The police officers in our city work hard ________ (为了) the rest of us can live a safe life.   
-来源：2011 上海改  
+##### 来源：2011 上海改  
 ##### 答案 in order that / so that  
   
 
@@ -2969,7 +3002,7 @@ ordered /'ɔːdəd/ adj
 ---
 ##### 题目  
 What I want is not just an ordinarily cafe but a vey special one.  
-来源：2006 全国  改错  
+##### 来源：2006 全国  改错  
 ##### 答案 ordinarily-ordinary  
   
 
@@ -3391,12 +3424,14 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 固定搭配
 ---
-## \*no other than  1.**正是；恰恰是：**  
+## \*no other than
+1.**正是；恰恰是：**  
 
  > He is no other than the writer I have often talked about.  
  > 他正是我常谈起的那位作家。  
 
-## \*other than  1.**除…以外 (except)：**  
+## \*other than
+1.**除…以外 (except)：**  
 
  > I don’t know any French people other than you.  
  > 除了你，我不认识别的法国人。  
@@ -3409,17 +3444,17 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 ---
 ##### 题目  
 The form cannot be signed by anyone ________ (除了) yourself.  
-来源：2011 全国改  
+##### 来源：2011 全国改  
 ##### 答案 other than / except  
   
 ##### 题目  
 I’ll spend half of my holiday practising English and ________ half learning drawing.  
-来源：2010 全国改  
+##### 来源：2010 全国改  
 ##### 答案 the other  
   
 ##### 题目  
 I got the story from Tom and ________ (其他的一些) people who had worked with him.  
-来源：2004 天津改  
+##### 来源：2004 天津改  
 ##### 答案 some other  
   
 
@@ -3463,17 +3498,17 @@ I got the story from Tom and ________ (其他的一些) people who had worked wi
 ---
 ##### 题目  
 While one of the twins is being bottle-fed, ________ other is with mum.  
-来源：2016 全国改  
+##### 来源：2016 全国改  
 ##### 答案 the  
   
 ##### 题目  
 In some countries, people eat with chopsticks, while in ________, knives and forks.  
-来源：2014 福建改  
+##### 来源：2014 福建改  
 ##### 答案 others  
   
 ##### 题目  
 You are a team star! Working with other is really your cup of tea.  
-来源：2010 安徽改 改错  
+##### 来源：2010 安徽改 改错  
 ##### 答案 other → others  
   
 
@@ -3621,7 +3656,8 @@ You are a team star! Working with other is really your cup of tea.
 
 固定搭配
 ---
-## \*out of  1.*高义频：* **从...中 (出去)：**  
+## \*out of
+1.*高义频：* **从...中 (出去)：**  
 
  > **out of the room**  
  > She went out of the room.  
@@ -4162,7 +4198,8 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 固定搭配
 ---
-## \*all over  1.*高义频：* **到处；各处：**  
+## \*all over
+1.*高义频：* **到处；各处：**  
 
  > Countries all over the world name places in similar ways.  
  > 全世界的国家都用相似的方式给地方命名。  
@@ -4177,12 +4214,12 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 ---
 ##### 题目  
 I’m sorry I didn’t phone you, but I’ve been very busy ________ the past couple of weeks.  
-来源：2011 山东改  
+##### 来源：2011 山东改  
 ##### 答案 over  
   
 ##### 题目  
 You can’t wear a blue jacket _________ that shirt — it’ll look terrible.  
-来源：2004 湖南  
+##### 来源：2004 湖南  
 ##### 答案 over  
   
 ##### 题目  
@@ -4249,12 +4286,14 @@ They had a pleasant chat ________ a cup of coffee.
 
 固定搭配
 ---
-## \*(all) over again  1.**再一遍；重新：**  
+## \*(all) over again
+1.**再一遍；重新：**  
 
  > He did the work so badly that I had to do it all over again myself.  
  > 他工作做得太差劲了,我只好亲自重做。  
 
-## \*over and over (again)  1.**反复；再三：**  
+## \*over and over (again)
+1.**反复；再三：**  
 
  > As you know, if you do the same thing over and over again, you begin to do it automatically.  
  > 你知道，如果反反复复地做同样的事，动作就会变得自如起来。  
@@ -4625,7 +4664,8 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 
 固定搭配
 ---
-## \*(all) on one’s own  1.**独自地；独立地 (alone)：**  
+## \*(all) on one’s own
+1.**独自地；独立地 (alone)：**  
 
  > My grandmother lives all on her own.  
  > 我祖母独自一个人生活。  

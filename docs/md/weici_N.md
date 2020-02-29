@@ -45,7 +45,8 @@
 
 固定搭配
 ---
-## \*name ... after   1.**以…的名字命名：**  
+## \*name ... after 
+1.**以…的名字命名：**  
 
  > Being a huge basketball fan, he wanted to name his son after Jordan.   
  > 他是个狂热的篮球迷，想给儿子取名为乔丹。  
@@ -54,7 +55,8 @@
  > 杰克曾在一所乡村学校读书，该校是以他爷爷的名字命名的。  
  > 来源：2010 全国  
 
-## \*to name but a few  1.**不一而足；略举几例：**  
+## \*to name but a few
+1.**不一而足；略举几例：**  
 
  > Activities available include cooking, swimming and fishing, to name but a few.  
  > 可进行的活动包括烹饪，游泳和钓鱼，略举几例。  
@@ -90,13 +92,15 @@
 
 固定搭配
 ---
-## \*by the name of   1.**[正式用语] 名叫…的：**  
+## \*by the name of 
+1.**[正式用语] 名叫…的：**  
 
  > She is a British athlete by the name of Tanni Grey Thompson.   
  > 她是一名英国运动员，名叫坦妮·格雷·汤普森。  
  > 来源：2008 福建  
 
-## \*in the name of   1.**在…名下；以…的名义；代表 (in sb’s / sth’s name)：**  
+## \*in the name of 
+1.**在…名下；以…的名义；代表 (in sb’s / sth’s name)：**  
 
  > I arrest you in the name of the law.   
  > 我依法逮捕你。  
@@ -104,12 +108,14 @@
  > I’ve booked a table in your name.   
  > 我已经用你的名字预订了一张桌子。  
 
-## \*make a name (for oneself) / make one’s name   1.**成名；出名：**  
+## \*make a name (for oneself) / make one’s name 
+1.**成名；出名：**  
 
  > She first made her name as a writer of children’s books.   
  > 她最初以写儿童读物成名。  
 
-## \*under the name of   1.**以…为别名**  
+## \*under the name of 
+1.**以…为别名**  
 
 
 # ***\*namely*** adv
@@ -204,7 +210,7 @@
 ---
 ##### 题目  
 Parents and children should communicate more to n________ the gap between them so that they can understand each other better.  
-来源：2012 天津改  
+##### 来源：2012 天津改  
 ##### 答案 narrow  
   
 
@@ -320,7 +326,7 @@ The final score of the basketball match was 93-94. We were only  ________ (narro
 ---
 ##### 题目  
 David Beckham’s ________ (国籍) is British.  
-来源：2012 全国  
+##### 来源：2012 全国  
 ##### 答案 nationality  
   
 
@@ -427,7 +433,7 @@ David Beckham’s ________ (国籍) is British.
 ---
 ##### 题目  
 You will be better accepted if you can speak more ________ (自然地) in public.   
-来源：2005 全国  
+##### 来源：2005 全国  
 ##### 答案 naturally  
   
 
@@ -455,17 +461,20 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 固定搭配
 ---
-## \*(get / go) back to nature  1.**回归自然；返璞归真：**  
+## \*(get / go) back to nature
+1.**回归自然；返璞归真：**  
 
  > City workers want to get back to nature in their holidays.  
  > 城市上班族希望休假时可以回归自然。  
 
-## \*by nature   1.**天生地；出于本性地：**  
+## \*by nature 
+1.**天生地；出于本性地：**  
 
  > Children are curious by nature.   
  > 孩子生性好奇。  
 
-## \*in sb’s nature   1.**本性如此：**  
+## \*in sb’s nature 
+1.**本性如此：**  
 
  > It is not in his nature to be “selfish” and “rude”.  
  > “自私”和“粗鲁”不是他的本性。  
@@ -643,7 +652,8 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 固定搭配
 ---
-## \*not nearly   1.**根本不；远不及：**  
+## \*not nearly 
+1.**根本不；远不及：**  
 
  > It’s not nearly as hot as last year.   
  > 天气远没有去年那么热。  
@@ -729,15 +739,18 @@ neatly /niːtli/ adv
 
 固定搭配
 ---
-## \*do the necessary  1.**做必要的事**  
+## \*do the necessary
+1.**做必要的事**  
 
-## \*if necessary   1.**如果必要的话：**  
+## \*if necessary 
+1.**如果必要的话：**  
 
  > We should help those who are in great need if necessary.  
  > 必要的话，我们应该帮助那些非常需要帮助的人。  
  > 来源：2012 湖南书面表达  
 
-## \*when necessary   1.**必要时：**  
+## \*when necessary 
+1.**必要时：**  
 
  > The army needs men who are willing to fight, when necessary.  
  > 军队需要必要时愿意投入战斗的人。  
@@ -748,7 +761,7 @@ neatly /niːtli/ adv
 ##### 题目  
 — Don’t you think it necessary that he ________ (not send) to Miami but to New York?
 — I agree, but the problem is that he has refused to.  
-来源：2005 江苏改  
+##### 来源：2005 江苏改  
 ##### 答案 (should) not be sent  
   
 
@@ -837,7 +850,8 @@ neatly /niːtli/ adv
 
 固定搭配
 ---
-## \*in need   1.**在困难中；在困境中：**  
+## \*in need 
+1.**在困难中；在困境中：**  
 
  > A friend in need is a friend indeed.   
  > 患难见真情。  
@@ -846,7 +860,8 @@ neatly /niːtli/ adv
  > 我们社会上的每个人都应该帮助那些有困难的人。  
  > 来源：2016 江苏书面表达  
 
-## \*in need of  1.**需要：**  
+## \*in need of
+1.**需要：**  
 
  > The gentleman never fails to help whoever is in need of help.  
  > 这位先生总是帮助任何需要帮助的人。  
@@ -860,7 +875,7 @@ needy /'niːdi/ adj
 ---
 ##### 题目  
 Many Chinese universities provide scholarships for students ________ need of financial aid.  
-来源：2008 天津改  
+##### 来源：2008 天津改  
 ##### 答案 in  
   
 
@@ -903,7 +918,7 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 ---
 ##### 题目  
 We’ve had a good start, but next, more work needs ________ (do) to achieve the final success.  
-来源：2012 湖南改  
+##### 来源：2012 湖南改  
 ##### 答案 to be done / doing  
   
 
@@ -929,7 +944,8 @@ We’ve had a good start, but next, more work needs ________ (do) to achieve the
 
 固定搭配
 ---
-## \*needn’t have done sth   1.**原本不必做某事：**  
+## \*needn’t have done sth 
+1.**原本不必做某事：**  
 
  > As you worked late yesterday, you needn’t have come this morning.  
  > 你昨天工作到很晚，今天早上你原本可以不来。  
@@ -939,12 +955,12 @@ We’ve had a good start, but next, more work needs ________ (do) to achieve the
 ---
 ##### 题目  
 I love the weekend, because I ________ (不必) get up early on Saturdays and Sundays  
-来源：2016 北京改  
+##### 来源：2016 北京改  
 ##### 答案 needn’t  
   
 ##### 题目  
 I ________ (原不必担心) before I came to the new school, for my classmates here are very friendly to me. (need)  
-来源：2015 天津改  
+##### 来源：2015 天津改  
 ##### 答案 needn’t have worried  
   
 
@@ -1055,7 +1071,7 @@ I ________ (原不必担心) before I came to the new school, for my classmates 
 ---
 ##### 题目  
 The minister said, “We are ready for discussions with any legal parties, but we’ll never negotiate ________ criminals.”  
-来源：2011 湖北改  
+##### 来源：2011 湖北改  
 ##### 答案 with  
   
 
@@ -1104,7 +1120,7 @@ The minister said, “We are ready for discussions with any legal parties, but w
 ---
 ##### 题目  
 One of our ________ (邻居) kept a very beautiful garden.  
-来源：2008 全国  
+##### 来源：2008 全国  
 ##### 答案 neighbo(u)rs  
   
 
@@ -1167,17 +1183,17 @@ Notes: “neither of + 复数名词 / 代词”作主语时，谓语动词既可
 ---
 ##### 题目  
 The research group produced two reports based on the survey, but _______ contained any useful suggestions.  
-来源：2015 福建改  
+##### 来源：2015 福建改  
 ##### 答案 neither  
   
 ##### 题目  
 She’d lived in London and Manchester, but she liked ________ and moved to Cambridge.   
-来源：2014 四川改  
+##### 来源：2014 四川改  
 ##### 答案 neither  
   
 ##### 题目  
 Larry asks Bill and Peter to go on a picnic with him, but ________ of them wants to, because they have work to do.   
-来源：2012 全国改  
+##### 来源：2012 全国改  
 ##### 答案 neither   
   
 
@@ -1202,9 +1218,11 @@ Notes: neither意为“也不”时，承接在否定句后面,表示与前面�
 
 固定搭配
 ---
-## \*Me neither.   1.**我也不 (…)。**  
+## \*Me neither. 
+1.**我也不 (…)。**  
 
-## \*neither ... nor   1.**既不…也不：**  
+## \*neither ... nor 
+1.**既不…也不：**  
 
  > Neither you nor I am wrong.   
  > 你没错，我也没错。  
@@ -1225,7 +1243,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
 ##### 题目  
 — Poor Steve! I could hardly recognize him just now!
 — Me ________. He has changed so much.   
-来源：2009 山东改  
+##### 来源：2009 山东改  
 ##### 答案 neither  
   
 
@@ -1259,7 +1277,7 @@ Notes: neither与单数名词连用时，谓语动词用单数。
 ---
 ##### 题目  
 Bob’s ________ (侄子) is a freshman at Harvard University.   
-来源：2012 全国  
+##### 来源：2012 全国  
 ##### 答案 nephew  
   
 
@@ -1282,7 +1300,8 @@ Bob’s ________ (侄子) is a freshman at Harvard University.
 
 固定搭配
 ---
-## \*get on sb’s nerves   1.**令某人焦躁：**  
+## \*get on sb’s nerves 
+1.**令某人焦躁：**  
 
  > Stop whistling! It’s getting on my nerves!  
  > 别吹口哨了!扰得我心烦!  
@@ -1461,7 +1480,7 @@ A.had she
 B.she had  
 C.has she  
 D.she has  
-来源：2012 江西  
+##### 来源：2012 江西  
 ##### 答案 C  
   
 ##### 题目  
@@ -1471,12 +1490,12 @@ A.Nothing much.
 B.Nothing serious.  
 C.Never again.  
 D.Never mind.  
-来源：2011 四川  
+##### 来源：2011 四川  
 ##### 答案 C  
   
 ##### 题目  
 I can ________ (永不) be a teacher. I’m not a very patient person.  
-来源：2009 湖南改  
+##### 来源：2009 湖南改  
 ##### 答案 never  
   
 
@@ -1610,7 +1629,8 @@ newly /'njuːli/ adv
 
 固定搭配
 ---
-## \*next to   1.**紧挨着 (beside)；仅次于：**  
+## \*next to 
+1.**紧挨着 (beside)；仅次于：**  
 
  > He sits down at a table next to the front window.   
  > 他在靠近前窗的桌子旁坐下来。  
@@ -1783,12 +1803,14 @@ nicely /'naɪsli/ adv
 
 固定搭配
 ---
-## \*all night (long)   1.**整夜：**  
+## \*all night (long) 
+1.**整夜：**  
 
  > I lay awake all night (long).  
  > 我整夜没睡着。  
 
-## \*night and day / day and night   1.**日日夜夜；夜以继日：**  
+## \*night and day / day and night 
+1.**日日夜夜；夜以继日：**  
 
  > He was so diligent that he worked day and night.  
  > 他非常勤奋，夜以继日地工作。  
@@ -1887,7 +1909,8 @@ nicely /'naɪsli/ adv
 
 固定搭配
 ---
-## \*there’s no doing sth  1.**[用于强调] 不可能做某事:**  
+## \*there’s no doing sth
+1.**[用于强调] 不可能做某事:**  
 
  > There’s no knowing which team will win.   
  > 无法预知哪个队会赢。  
@@ -1960,12 +1983,12 @@ Notes: 在英语口语中，nobody比no one更常用。
 ---
 ##### 题目  
 When every pupil in the school wears the uniform, nobody ________ (have) to worry about fashion(时尚）  
-来源：2019 浙江  
+##### 来源：2019 浙江  
 ##### 答案 has / will have  
   
 ##### 题目  
 The meeting will be held in September, but ________ (没人) knows the date for sure.  
-来源：2015 重庆改  
+##### 来源：2015 重庆改  
 ##### 答案 nobody / no one  
   
 
@@ -2107,7 +2130,8 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
 
 固定搭配
 ---
-## \*none but  1.**仅仅；只有：**  
+## \*none but
+1.**仅仅；只有：**  
 
  > None but he knew the truth.  
  > 只有他知道真相。  
@@ -2117,18 +2141,18 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
 ---
 ##### 题目  
 Niki is always full of ideas, but ________ is useful to my knowledge.  
-来源：2015 四川改  
+##### 来源：2015 四川改  
 ##### 答案 none  
   
 ##### 题目  
 Although Rosemary had suffered from a serious illness for years, she lost ________ of her enthusiasm for life.  
-来源：2013 陕西改  
+##### 来源：2013 陕西改  
 ##### 答案 none  
   
 ##### 题目  
 — What do you think of the performance today?
 — Great! ________ but a musical genius could perform so successfully.   
-来源：2007 江西改  
+##### 来源：2007 江西改  
 ##### 答案 None  
   
 
@@ -2245,7 +2269,7 @@ A.is there
 B.there is  
 C.is it  
 D.it is  
-来源：2012 四川  
+##### 来源：2012 四川  
 ##### 答案 C  
   
 ##### 题目  
@@ -2254,7 +2278,7 @@ A.does he even give
 B.he even gives  
 C.will he even give  
 D.he will even give  
-来源：2012 重庆  
+##### 来源：2012 重庆  
 ##### 答案 C  
   
 
@@ -2276,7 +2300,8 @@ D.he will even give
 
 固定搭配
 ---
-## \*go back / return to normal   1.**恢复正常：**  
+## \*go back / return to normal 
+1.**恢复正常：**  
 
  > The crisis has passed and life will go back to normal soon.   
  > 危机已经过去，生活很快就会恢复正常。  
@@ -2312,7 +2337,7 @@ D.he will even give
 ---
 ##### 题目  
 Such a blood pressure is  ________ (正常的) for  a person of his age.  
-来源： 2013 陕西  
+##### 来源： 2013 陕西  
 ##### 答案 normal  
   
 
@@ -2640,19 +2665,23 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 
 固定搭配
 ---
-## \*not a / one   1.**一个…也不：**  
+## \*not a / one 
+1.**一个…也不：**  
 
  > Not a man was killed in the accident.   
  > 那次事故中没有人员死亡。  
 
-## \*not at all   1.**根本不；别客气**  
+## \*not at all 
+1.**根本不；别客气**  
 
-## \*not ... but   1.**不是…而是：**  
+## \*not ... but 
+1.**不是…而是：**  
 
  > Life is not a competition, but a trip, step by step.  
  > 生活不是竞赛，而是一场一步接着一步的旅行。  
 
-## \*not that   1.**倒不是：**  
+## \*not that 
+1.**倒不是：**  
 
  > She didn’t attend the meeting; not that she was busy.  
  > 她没有参加会议，倒不是因为忙。  
@@ -2662,7 +2691,7 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 ---
 ##### 题目  
 It is often said that the joy of travelling is not in arriving at your destination ________ in the journey itself.  
-来源：2008 江苏改  
+##### 来源：2008 江苏改  
 ##### 答案 but  
   
 
@@ -2716,18 +2745,21 @@ It is often said that the joy of travelling is not in arriving at your destinati
 
 固定搭配
 ---
-## \*compare notes (with sb)   1.**(与某人) 交换意见 / 信息：**  
+## \*compare notes (with sb) 
+1.**(与某人) 交换意见 / 信息：**  
 
  > We saw the play separately and compared notes afterwards.  
  > 我们分别观看了那出戏，随后交换了意见。  
 
-## \*make / take notes   1.**记笔记：**  
+## \*make / take notes 
+1.**记笔记：**  
 
  > Mary is really good at taking / making notes in class.  
  > 玛丽很会记课堂笔记。  
  > 来源：2012 全国  
 
-## \*take note of   1.**注意 (notice)：**  
+## \*take note of 
+1.**注意 (notice)：**  
 
  > Next time you chat with a friend, take note of how you’re sitting.    
  > 下次你和朋友聊天时，注意一下你的坐姿。  
@@ -2765,7 +2797,8 @@ It is often said that the joy of travelling is not in arriving at your destinati
 
 固定搭配
 ---
-## \*note down  1.**记下；记录：**  
+## \*note down
+1.**记下；记录：**  
 
  > The policeman noted down what I said.  
  > 警察记下了我说的话。  
@@ -2775,7 +2808,7 @@ It is often said that the joy of travelling is not in arriving at your destinati
 ---
 ##### 题目  
 Scientists have responded by ________ (note) that hungry bears may be congregating(聚集) around human settlements.  
-来源：2019 全国  
+##### 来源：2019 全国  
 ##### 答案 noting  
   
 
@@ -2836,7 +2869,8 @@ Scientists have responded by ________ (note) that hungry bears may be congregati
 
 固定搭配
 ---
-## \*for nothing  1.**免费地 (free)；徒劳地：**  
+## \*for nothing
+1.**免费地 (free)；徒劳地：**  
 
  > They repaired my bike for nothing.  
  > 他们免费为我修了自行车。  
@@ -2844,13 +2878,15 @@ Scientists have responded by ________ (note) that hungry bears may be congregati
  > When I arrived, he had left. I’d made the journey for nothing.  
  > 我到达时，他已经离开。我白跑了一趟。  
 
-## \*have nothing to do with  1.**和…无关：**  
+## \*have nothing to do with
+1.**和…无关：**  
 
  > John’s success has nothing to do with good luck. It is years of hard work that has made him what he is today.  
  > 约翰的成功跟好运无关，而是多年的努力成就了如今的他。  
  > 来源：2010 湖南  
 
-## \*nothing but  1.**只有；仅仅：**  
+## \*nothing but
+1.**只有；仅仅：**  
 
  > Sandy could do nothing but admit to his teacher that he was wrong.  
  > 山迪只能向老师承认自己错了。  
@@ -2858,12 +2894,14 @@ Scientists have responded by ________ (note) that hungry bears may be congregati
  > Don’t worry; it is nothing but a joke.  
  > 别担心，这只不过是个玩笑。  
 
-## \*nothing like  1.**完全不像；完全不：**  
+## \*nothing like
+1.**完全不像；完全不：**  
 
  > It looks nothing like a horse.  
  > 它看上去根本不像一匹马。  
 
-## \*there’s nothing like  1.**什么都比不上…；…非常好：**  
+## \*there’s nothing like
+1.**什么都比不上…；…非常好：**  
 
  > There’s nothing like an ice-cold drink on a hot day.  
  > 炎热的日子里，什么都比不上喝杯冰镇饮料。  
@@ -2877,17 +2915,17 @@ A.Nothing
 B.Anything  
 C.Something  
 D.Everything  
-来源：2013 安徽  
+##### 来源：2013 安徽  
 ##### 答案 A  
   
 ##### 题目  
 Swimming is my favorite sport. There is nothing ________ swimming as a means of keeping fit.  
-来源：2010 江西改  
+##### 来源：2010 江西改  
 ##### 答案 like  
   
 ##### 题目  
 I got this bicycle ________ nothing: My friend gave it to me when she bought a new one.  
-来源：2011 全国改  
+##### 来源：2011 全国改  
 ##### 答案 for  
   
 
@@ -2916,7 +2954,8 @@ I got this bicycle ________ nothing: My friend gave it to me when she bought a n
 
 固定搭配
 ---
-## \*for nothing   1.**免费地；徒劳地：**  
+## \*for nothing 
+1.**免费地；徒劳地：**  
 
  > They repaired my bike for nothing.   
  > 他们免费为我修了自行车。  
@@ -2924,13 +2963,15 @@ I got this bicycle ________ nothing: My friend gave it to me when she bought a n
  > When I arrived, he had left. I’d made the journey for nothing.   
  > 我到达时，他已经离开。我白跑了一趟。  
 
-## \*have nothing to do with   1.**和…无关：**  
+## \*have nothing to do with 
+1.**和…无关：**  
 
  > John’s success has nothing to do with good luck. It is years of hard work that has made him what he is today.  
  > 约翰的成功跟好运无关，而是多年的努力成就了如今的他。  
  > 来源：2010 湖南  
 
-## \*nothing but / except   1.**除…以外什么也不；只有；只不过：**  
+## \*nothing but / except 
+1.**除…以外什么也不；只有；只不过：**  
 
  > I heard a confused noise around me, but could see nothing except the sky.   
  > 我隐约听到身边有模糊的噪音，但是除了天空什么也没看到。  
@@ -2942,12 +2983,14 @@ I got this bicycle ________ nothing: My friend gave it to me when she bought a n
  > Don’t worry; it is nothing but a joke.   
  > 别担心，这只不过是个玩笑。  
 
-## \*nothing like   1.**完全不像；完全不：**  
+## \*nothing like 
+1.**完全不像；完全不：**  
 
  > It looks nothing like a horse.   
  > 它看上去根本不像一匹马。  
 
-## \*there’s nothing like   1.**什么都比不上…；…非常好：**  
+## \*there’s nothing like 
+1.**什么都比不上…；…非常好：**  
 
  > There’s nothing like an ice-cold drink on a hot day.  
  > 炎热的日子里，什么都比不上喝杯冰镇饮料。  
@@ -2961,17 +3004,17 @@ A.Nothing
 B.Anything  
 C.Something  
 D.Everything  
-来源：2013 安徽  
+##### 来源：2013 安徽  
 ##### 答案 A.  
   
 ##### 题目  
 Swimming is my favorite sport. There is nothing ________ swimming as a means of keeping fit.  
-来源：2010 江西改  
+##### 来源：2010 江西改  
 ##### 答案 like  
   
 ##### 题目  
 I got this bicycle for _________: My friend gave it to me when she bought a new one.  
-来源：2011 全国改  
+##### 来源：2011 全国改  
 ##### 答案 nothing  
   
 
@@ -3057,7 +3100,7 @@ noticeable /'nəʊtɪsəbl/ adj
 ---
 ##### 题目  
 I looked up and noticed a snake ________ (wind) its way up the tree to catch its breakfast.   
-来源：2012 四川改  
+##### 来源：2012 四川改  
 ##### 答案 winding  
   
 
@@ -3128,7 +3171,8 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 固定搭配
 ---
-## \*(every) now and then / again   1.**时而；偶尔：**  
+## \*(every) now and then / again 
+1.**时而；偶尔：**  
 
  > Snakes come near the house now and then.   
  > 时不时会有蛇爬到房子附近。  
@@ -3137,19 +3181,22 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
  > Now and again he still visits me.   
  > 他偶尔还来看我。  
 
-## \*for now  1.**目前；暂时：**  
+## \*for now
+1.**目前；暂时：**  
 
  > Although these measures are not effective forever, they are vital for now.  
  > 尽管这些措施不会永远有效，但目前还是极为重要的。  
  > 来源：2016 北京  
 
-## \*from now on  1.**从现在起：**  
+## \*from now on
+1.**从现在起：**  
 
  > I’ll face everything unpleasant tolerantly from now on.  
  > 从现在开始，我将包容地面对所有不愉快的事情。  
  > 来源：2009 江西书面表达  
 
-## \*just now   1.**刚才；现在：**  
+## \*just now 
+1.**刚才；现在：**  
 
  > Tom was here just now.   
  > 汤姆刚才在这儿的。  
@@ -3157,7 +3204,8 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
  > Do not talk about it just now.   
  > 现在别讨论这件事。  
 
-## \*up to now / until now / till now  1.**迄今为止：**  
+## \*up to now / until now / till now
+1.**迄今为止：**  
 
  > Up to / Until now, the program has saved thousands of children who would otherwise have died.  
  > 到目前为止，这项计划已经挽救了成千上万名原本会死亡的那些孩子。  
@@ -3249,12 +3297,14 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 固定搭配
 ---
-## \*nowhere near   1.**离…差得远；远谈不上：**  
+## \*nowhere near 
+1.**离…差得远；远谈不上：**  
 
  > Our budget is nowhere near enough.   
  > 我们的预算远远不够。  
 
-## \*nowhere to be found / seen  1.**哪儿也找不到 / 看不到：**  
+## \*nowhere to be found / seen
+1.**哪儿也找不到 / 看不到：**  
 
  > **nowhere to be found**  
  > I left my necklace on the table by the bed, but it is just nowhere to be found.  
@@ -3270,7 +3320,7 @@ A.nowhere near enough
 B.near enough nowhere  
 C.enough near nowhere  
 D.near nowhere enough  
-来源：2010 辽宁  
+##### 来源：2010 辽宁  
 ##### 答案 A.  
   
 

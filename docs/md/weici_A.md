@@ -46,28 +46,28 @@
 ---
 ##### 题目  
 Each of my cafes will have a different theme and an unique style.  
-来源：2019 全国 改错  
+##### 来源：2019 全国 改错  
 ##### 答案 an → a  
   
 ##### 题目  
 As the kid,I love to watch cartoons.  
-来源：2018 全国 改错  
+##### 来源：2018 全国 改错  
 ##### 答案 the → a  
   
 ##### 题目  
 It takes them about a hour and a half to go to work every day.  
-来源：2017 全国 改错  
+##### 来源：2017 全国 改错  
 ##### 答案 第一个a → an / one  
   
 ##### 题目  
 I can't tell you ________ way to the Wilsons' because we don't have ________ Wilson here in the village.  
-来源：2014 重庆改  
+##### 来源：2014 重庆改  
 ##### 答案 the; a  
   
 ##### 题目  
 The paper is due next month, and I am working seven days ________ week, often long into ________ night.  
 A.a; the  
-来源：2014 浙江改  
+##### 来源：2014 浙江改  
 ##### 答案 a; the  
   
 
@@ -175,7 +175,8 @@ abandoned /ə'bændənd/ adj
 
 固定搭配
 ---
-## \*to the best of one's ability  1.**尽最大努力：**  
+## \*to the best of one's ability
+1.**尽最大努力：**  
 
  > I try to do my job to the best of my ability.  
  > 我尽全力做好我的工作。  
@@ -332,7 +333,8 @@ ably / 'eɪbl/ adv
 
 固定搭配
 ---
-## \*What / How about ...?   1.**…怎么样？**  
+## \*What / How about ...? 
+1.**…怎么样？**  
 
  > What / How about the weather in Qinghai Province?  
  > 青海省的天气如何？  
@@ -345,7 +347,7 @@ ably / 'eɪbl/ adv
 ---
 ##### 题目  
 Modern equipment and no smoking are two of the things I like ________ working here.  
-来源：2008 全国改  
+##### 来源：2008 全国改  
 ##### 答案 about  
   
 
@@ -377,7 +379,8 @@ Modern equipment and no smoking are two of the things I like ________ working he
 
 固定搭配
 ---
-## \*be about to do sth   1.**正要 / 准备做某事：**  
+## \*be about to do sth 
+1.**正要 / 准备做某事：**  
 
  > I was about to turn off my computer when I received an email.   
  > 我正准备关电脑,这时收到了一封电子邮件。  
@@ -389,7 +392,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 ---
 ##### 题目  
 Tom was about to close the window ________ his attention was caught by a bird.  
-来源：2010 全国改  
+##### 来源：2010 全国改  
 ##### 答案 when  
   
 
@@ -425,7 +428,8 @@ Tom was about to close the window ________ his attention was caught by a bird.
 
 固定搭配
 ---
-## \*above all  1.**最重要的是；尤其：**  
+## \*above all
+1.**最重要的是；尤其：**  
 
  > I’d like to buy a house — modern, comfortable, and above all in a quiet neighborhood.   
  > 我要买一座房子，要现代、要舒适，最重要的是周围要安静。  
@@ -435,17 +439,17 @@ Tom was about to close the window ________ his attention was caught by a bird.
 ---
 ##### 题目  
 Last year was the warmest year on record, with global temperature 0.68℃ ________ the average.  
-来源：2015 重庆改  
+##### 来源：2015 重庆改  
 ##### 答案 above  
   
 ##### 题目  
 To be great, you must be smart, confident, and, _________(最重要的是), honest.  
-来源：2011 安徽改  
+##### 来源：2011 安徽改  
 ##### 答案 above all  
   
 ##### 题目  
 A great person is always putting others’ interests  ________ his own.  
-来源：2009 四川改  
+##### 来源：2009 四川改  
 ##### 答案 above  
   
 
@@ -560,12 +564,14 @@ A great person is always putting others’ interests  ________ his own.
 
 固定搭配
 ---
-## \*in / during sb’s absence  1.**在某人不在时：**  
+## \*in / during sb’s absence
+1.**在某人不在时：**  
 
  > In his absence I looked to see what was on his desk.   
  > 趁他不在时，我看了看他桌上有什么东西。  
 
-## \*in the absence of   1.**在缺乏…的情况下：**  
+## \*in the absence of 
+1.**在缺乏…的情况下：**  
 
  > In the absence of gray wolves, the deer population grew quickly.  
  > 没有了灰狼，鹿的数量迅速增长  
@@ -657,7 +663,8 @@ A great person is always putting others’ interests  ________ his own.
 
 固定搭配
 ---
-## \*Absolutely!   1.**正是；当然：**  
+## \*Absolutely! 
+1.**正是；当然：**  
 
  > — They could have told us, couldn't they?  
  > 他们本来可以告诉我们的，不是吗？  
@@ -665,7 +672,8 @@ A great person is always putting others’ interests  ________ his own.
  > — Absolutely!   
  > 正是！  
 
-## \*Absolutely not!   1.**绝对不行；当然不：**  
+## \*Absolutely not! 
+1.**绝对不行；当然不：**  
 
  > — Do you let your kids travel alone at night?   
  > 你让自己的孩子们晚上单独外出吗？  
@@ -740,7 +748,7 @@ absorbed /əb'sɔːbd/ adj
 ---
 ##### 题目  
 ________ (absorb) in painting, John didn’t notice evening approaching.  
-来源：2015 天津改  
+##### 来源：2015 天津改  
 ##### 答案 Absorbed  
   
 
@@ -1026,12 +1034,12 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
 ---
 ##### 题目  
 If ______ (accept) for the job, you’ll be informed soon.  
-来源：2015 北京改  
+##### 来源：2015 北京改  
 ##### 答案 accepted  
   
 ##### 题目  
 It was pouring with rain so I ______ (接受) his offer of a lift.  
-来源：2015 陕西  
+##### 来源：2015 陕西  
 ##### 答案 accepted  
   
 
@@ -1148,7 +1156,7 @@ Notes:   access ≠ way, access作为名词，其含义中包含了某种动作�
 ##### 题目  
 The system has been designed to give students quick and easy access ________ the digital resources of
 the library.   
-来源：2009 浙江改  
+##### 来源：2009 浙江改  
 ##### 答案 to  
   
 
@@ -1179,7 +1187,7 @@ the library.
 ---
 ##### 题目  
 Frank put the medicine in the top drawer to make sure it would not be ________ (access) to the kids.  
-来源：2009 江西改  
+##### 来源：2009 江西改  
 ##### 答案 accessible  
   
 
@@ -1212,7 +1220,8 @@ Frank put the medicine in the top drawer to make sure it would not be ________ (
 
 固定搭配
 ---
-## \*by accident  1.**偶然地；意外地**  
+## \*by accident
+1.**偶然地；意外地**  
 反义词 on purpose 
 
  > Yesterday when I was wandering on the pavement near a park, I met an old neighbour by accident.  
@@ -1231,7 +1240,7 @@ accidental /ˌæksɪ'dentl/ adj
 ---
 ##### 题目  
 Lucy was badly hurt in a traffic a________ last week.   
-来源：2008 浙江  
+##### 来源：2008 浙江  
 ##### 答案 accident  
   
 
@@ -1283,7 +1292,7 @@ Notes: 美语中常用复数 accommodations。
 ---
 ##### 题目  
 After the earthquake, the first thing the local government did was to provide _______ (住处) for the homeless families.  
-来源：2010 湖北改  
+##### 来源：2010 湖北改  
 ##### 答案 accommodation(s)  
   
 
@@ -1390,19 +1399,22 @@ accomplishment /ə'kʌmplɪʃmənt/ n
 
 固定搭配
 ---
-## \*on account of   1.**因为；由于 (because of)：**  
+## \*on account of 
+1.**因为；由于 (because of)：**  
 
  > She was absent from school on account of illness.  
  > 她因病没有去学校。  
 
-## \*on no account  1.**决不；绝对不：**  
+## \*on no account
+1.**决不；绝对不：**  
 
  > The professor warned the students that on no account should they use mobile phones in his class.  
  > 教授警告学生，在他的课上绝对不能玩手机。  
  > 来源：2019 天津  
 
 Notes: on no account置于句首，其所在的句子要用倒装语序。  
-## \*take account of / take ... into account  1.**考虑到；把…考虑进去：**  
+## \*take account of / take ... into account
+1.**考虑到；把…考虑进去：**  
 
  > The company takes account of environmental issues wherever possible.   
  > 只要有可能，这家公司都会考虑到环境问题。  
@@ -1415,7 +1427,7 @@ Notes: on no account置于句首，其所在的句子要用倒装语序。
 ---
 ##### 题目  
 I ________ (开了个银行账户) after I made $1,000 by doing a part-time job during the summer vacation.  
-来源：2011 天津改  
+##### 来源：2011 天津改  
 ##### 答案 opened/set up a bank account  
   
 
@@ -1426,7 +1438,8 @@ I ________ (开了个银行账户) after I made $1,000 by doing a part-time job 
 
 固定搭配
 ---
-## \*account for  1.*高义频：* **(数量、比例上) 占：**  
+## \*account for
+1.*高义频：* **(数量、比例上) 占：**  
 
  > It is said that body language accounts for 55 percent of a first impression while what you say just 7 percent.  
  > 据说肢体语言在第一印象中占55%，而你所说的话仅占7%。  
@@ -1590,7 +1603,7 @@ Notes: 口语中更常用 (be) used to (doing) sth。
 ##### 题目  
 — They are quiet, aren’t they?
 — Yes. They are accustomed to not _________ (talk) at meals  
-来源：2008 江苏改  
+##### 来源：2008 江苏改  
 ##### 答案 talking  
   
 
@@ -1703,7 +1716,7 @@ Lucy has ________ (达到) all of the goals she set for herself in high school a
 ---
 ##### 题目  
 Handle the most important tasks first so you’ll feel a real sense of ________ (achieve).  
-来源：2016 全国  
+##### 来源：2016 全国  
 ##### 答案 achievement  
   
 
@@ -1824,7 +1837,7 @@ A.display
 B.acquire  
 C.teach  
 D.test  
-来源：2018 天津  
+##### 来源：2018 天津  
 ##### 答案 B  
   
 
@@ -1966,12 +1979,14 @@ D.across; through
 
 固定搭配
 ---
-## \*act as  1.**担任；充当；起…作用：**  
+## \*act as
+1.**担任；充当；起…作用：**  
 
  > A trained dog can act as a guide to a blind person.  
  > 经过训练的狗可以充当盲人的向导。  
 
-## \*act on  1.*高义频：* **按照...行事(act upon)：**  
+## \*act on
+1.*高义频：* **按照...行事(act upon)：**  
 
  > Why didn’t you act on her suggestion?   
  > 你为什么不按照她的建议来做呢？  
@@ -1981,7 +1996,8 @@ D.across; through
  > Alcohol acts quickly on the brain.   
  > 酒精对大脑迅速产生影响。  
 
-## \*act out   1.**把…表演出来；将…付诸行动；充当：**  
+## \*act out 
+1.**把…表演出来；将…付诸行动；充当：**  
 
  > act out a story / dialogue   
  > 把故事/对话表演出来  
@@ -2079,16 +2095,20 @@ We went to Canada to travel and my cousin acted ________ our guide.
 
 固定搭配
 ---
-## \*in action   1.**在活动中；在运转**  
+## \*in action 
+1.**在活动中；在运转**  
 
  > photos of ski jumpers in action  
  > 跳台滑雪者跳下时的照片  
 
-## \*out of action   1.**失去作用；停止运转**  
+## \*out of action 
+1.**失去作用；停止运转**  
 
-## \*put ... in action  1.**使…行动起来；使…开始工作；使…起作用**  
+## \*put ... in action
+1.**使…行动起来；使…开始工作；使…起作用**  
 
-## \*take action   1.**采取行动：**  
+## \*take action 
+1.**采取行动：**  
 
  > We must take action to fight pollution.   
  > 我们必须采取行动防治污染。  
@@ -2285,7 +2305,7 @@ It is good for elderly people to be ________ (active) involved in community serv
 ##### 题目  
 — Do you think it’s a good idea to make friends with your students?
 — ________ (actual), I do. I think it’s a great idea.  
-来源：2009 安徽改  
+##### 来源：2009 安徽改  
 ##### 答案 Actually  
   
 
@@ -2376,7 +2396,7 @@ It is good for elderly people to be ________ (active) involved in community serv
 ---
 ##### 题目  
 The good thing about children is that they adapt very easily ________ new environments.  
-来源：2009 浙江改  
+##### 来源：2009 浙江改  
 ##### 答案 to  
   
 
@@ -2424,18 +2444,21 @@ The good thing about children is that they adapt very easily ________ new enviro
 
 固定搭配
 ---
-## \*add to   1.**增加：**  
+## \*add to 
+1.**增加：**  
 
  > Colorful umbrellas add to a lively atmosphere in the summer streets.   
  > 各种颜色的伞给夏日街头平添了活泼的气氛。  
 
-## \*add up  1.**把…加起来；合计：**  
+## \*add up
+1.**把…加起来；合计：**  
 
  > Add up your score and see how many points you get.  
  > 把你的分数加起来，看看你得多少分。  
  > 来源： 人教① – 1  
 
-## \*add up to   1.**合计达；结果是：**  
+## \*add up to 
+1.**合计达；结果是：**  
 
  > His debts added up to $5,000.   
  > 他的欠债合计达到5000美元。  
@@ -2541,12 +2564,14 @@ The engine of the ship was out of order and the bad weather added ________ the h
 
 固定搭配
 ---
-## \*in addition   1.**另外；加之：**  
+## \*in addition 
+1.**另外；加之：**  
 
  > The company provides cheap Internet access. In addition, it makes shareware freely available.   
  > 该公司提供廉价的互联网接入服务。此外，它还免费提供共享软件。  
 
-## \*in addition to   1.**除…之外 (还)：**  
+## \*in addition to 
+1.**除…之外 (还)：**  
 
  > In addition to reading for knowledge, we read for fun and inspiration.  
  > 我们读书除了为获取知识外，还可以得到乐趣和灵感。  
@@ -2561,7 +2586,7 @@ additional   /ə'dɪʃənl/ adj
 ---
 ##### 题目  
 In addition________the school, the village has a clinic, which was also built with government support.  
-来源：2014 天津改  
+##### 来源：2014 天津改  
 ##### 答案 to  
   
 
@@ -2762,7 +2787,7 @@ A.judgments
 B.adjustments  
 C.comments  
 D.achievements  
-来源：2015 江苏  
+##### 来源：2015 江苏  
 ##### 答案 B  
   
 
@@ -2944,7 +2969,7 @@ admittedly /əd'mɪtɪdli/ adv
 ---
 ##### 题目  
 If you leave the club, you will not ________ (admit)back in.   
-来源：2009 全国改  
+##### 来源：2009 全国改  
 ##### 答案 be admitted  
   
 
@@ -3127,7 +3152,8 @@ adopted  /ə'dɑːptɪd/ adj
 
 固定搭配
 ---
-## \*in advance (of )   1.**提前 (于…)；预先 (于…)；超前于：**  
+## \*in advance (of ) 
+1.**提前 (于…)；预先 (于…)；超前于：**  
 
  > Thank you in advance.  
  > 先行致谢。  
@@ -3142,7 +3168,7 @@ adopted  /ə'dɑːptɪd/ adj
 ---
 ##### 题目  
 This meeting room is a non-smoking area. I would like to warn you _______ advance that if you smoked here you would be fined.  
-来源：2015 湖北改  
+##### 来源：2015 湖北改  
 ##### 答案 in  
   
 
@@ -3224,9 +3250,11 @@ This meeting room is a non-smoking area. I would like to warn you _______ advanc
 
 固定搭配
 ---
-## \*be / work to sb's advantage  1.**对某人有利**  
+## \*be / work to sb's advantage
+1.**对某人有利**  
 
-## \*take advantage of   1.**利用：**  
+## \*take advantage of 
+1.**利用：**  
 
  > Parents should actively urge their children to take advantage of the opportunity to join sports teams.  
  > 父母应积极催促孩子利用这一机会参加运动队。  
@@ -3237,12 +3265,12 @@ This meeting room is a non-smoking area. I would like to warn you _______ advanc
 ---
 ##### 题目  
 I’m going to________ advantage of this tour to explore the history of the castle.  
-来源：2016 天津改  
+##### 来源：2016 天津改  
 ##### 答案 take  
   
 ##### 题目  
 For a goalkeeper, it’s a great ________ (优势) to have big hands.   
-来源：2009 全国  
+##### 来源：2009 全国  
 ##### 答案 advantage  
   
 
@@ -3541,7 +3569,8 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
 
 固定搭配
 ---
-## \*state of affairs  1.**[正式用语] 情况；局势；事态：**  
+## \*state of affairs
+1.**[正式用语] 情况；局势；事态：**  
 
  > The state of affairs should no longer be ignored.   
  > 局势不容忽视。  
@@ -3647,12 +3676,12 @@ affordable  /ə'fɔːdəbl/ adj
 ---
 ##### 题目  
 Eating out once or twice a week may be __________(afford) but doing this most days adds up.  
-来源：2018 浙江  
+##### 来源：2018 浙江  
 ##### 答案 affordable  
   
 ##### 题目  
 More and more Chinese people are able to ________ (付得起) to travel abroad.   
-来源：2012 陕西  
+##### 来源：2012 陕西  
 ##### 答案 afford  
   
 
@@ -3670,7 +3699,7 @@ More and more Chinese people are able to ________ (付得起) to travel abroad.
 ---
 ##### 题目  
 Those poor and needy teenagers were excited to find a shop at the corner where they could buy ________ (affordable) priced bikes.  
-来源：2013 福建改  
+##### 来源：2013 福建改  
 ##### 答案 affordably  
   
 
@@ -3715,7 +3744,8 @@ Those poor and needy teenagers were excited to find a shop at the corner where t
 
 固定搭配
 ---
-## \*I’m afraid   1.**恐怕；很遗憾：**  
+## \*I’m afraid 
+1.**恐怕；很遗憾：**  
 
  > I’m afraid (that) you’ve come to the wrong address.   
  > 对不起，你找错地址了。  
@@ -3740,7 +3770,7 @@ Those poor and needy teenagers were excited to find a shop at the corner where t
 ##### 题目  
 — Everybody is going to climb the mountain. Can I go too, mom?
 — ________ (恐怕不行). Wait till you are old enough, dear.  
-来源：2010 全国改  
+##### 来源：2010 全国改  
 ##### 答案 I’m afraid not  
   
 
@@ -3796,7 +3826,8 @@ Those poor and needy teenagers were excited to find a shop at the corner where t
 
 固定搭配
 ---
-## \*after all   1.**毕竟；终究：**  
+## \*after all 
+1.**毕竟；终究：**  
 
  > Of course I admire him — after all, he is a great writer.  
  > 我当然钦佩他，毕竟他是一位伟大的作家。  
@@ -3806,7 +3837,7 @@ Those poor and needy teenagers were excited to find a shop at the corner where t
 ---
 ##### 题目  
 Bob thought he couldn’t go to the party because he had to write a report, but he went_______all.  
-来源：2018 天津改  
+##### 来源：2018 天津改  
 ##### 答案 after  
   
 
@@ -3913,12 +3944,14 @@ Bob thought he couldn’t go to the party because he had to write a report, but 
 
 固定搭配
 ---
-## \*again and again   1.**再三地；反复地：**  
+## \*again and again 
+1.**再三地；反复地：**  
 
  > Again and again I warned him of the danger.   
  > 我一再警告他有危险。  
 
-## \*then / there again  1.**不过；另一方面：**  
+## \*then / there again
+1.**不过；另一方面：**  
 
  > Parents feel that it is difficult to live with teenagers. Then again, teenagers have similar feelings about their parents.  
  > 父母们觉得很难与青少年一起生活。不过，青少年对父母也有相似的感受。  
@@ -3979,12 +4012,12 @@ Bob thought he couldn’t go to the party because he had to write a report, but 
 ---
 ##### 题目  
  It was a real race ________ time to get the project done. Luckily, we made it.   
-来源：2013 全国改  
+##### 来源：2013 全国改  
 ##### 答案 against  
   
 ##### 题目  
 An agreement seems to be impossible because the majority of the committee members are _______ (反对) it.  
-来源：2012 陕西改  
+##### 来源：2012 陕西改  
 ##### 答案 against  
   
 
@@ -4032,13 +4065,15 @@ An agreement seems to be impossible because the majority of the committee member
 
 固定搭配
 ---
-## \*come of age   1.**到达法定年龄；成年：**  
+## \*come of age 
+1.**到达法定年龄；成年：**  
 
  > My parents supported me until I came of age.  
  > 父母一直供养我到我成年。  
  > 来源：2010 重庆  
 
-## \*under age   1.**未到法定年龄**  
+## \*under age 
+1.**未到法定年龄**  
 
 
 # ***\*age*** vi
@@ -4181,7 +4216,7 @@ A.childish
 B.artificial  
 C.aggressive  
 D.heroic  
-来源：2008 上海  
+##### 来源：2008 上海  
 ##### 答案 C  
   
 
@@ -4275,7 +4310,8 @@ Notes: agree to后面常接表示“提议”、“办法”、“计划”或�
 
 固定搭配
 ---
-## \*agree with  1.*高义频：* **同意；赞同：**  
+## \*agree with
+1.*高义频：* **同意；赞同：**  
 
  > agree with one’s idea / opinion   
  > 赞同某人的想法/意见  
@@ -4305,13 +4341,13 @@ agreeable  /ə'ɡriːəbl/ adj
 ---
 ##### 题目  
 You look well. The air and the sea foods in Sanya must agree ________ you, I suppose.  
-来源：2010 陕西改  
+##### 来源：2010 陕西改  
 ##### 答案 with  
   
 ##### 题目  
 — When did you last hear from Jay?
 — He phoned me this morning, and we agreed ________ a time and place to meet.  
-来源：2008 湖南改  
+##### 来源：2008 湖南改  
 ##### 答案 on  
   
 
@@ -4408,7 +4444,8 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 
 固定搭配
 ---
-## \*ahead of  1.**在…前面；早于：**  
+## \*ahead of
+1.**在…前面；早于：**  
 
  > There were four people ahead of me at the doctor's.  
  > 诊所里有四个人排在我前面。  
@@ -4445,13 +4482,15 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 
 固定搭配
 ---
-## \*come / go to sb’s aid   1.**帮助某人 (help sb)：**  
+## \*come / go to sb’s aid 
+1.**帮助某人 (help sb)：**  
 
  > Be bold and brave — and mighty forces will come to your aid.  
  > 勇敢些，力量之神会助你一臂之力。  
  > 来源：2015 天津  
 
-## \*in aid of  1.
+## \*in aid of
+1.
 
 # ***\*aid*** v
 英音 eɪd     美音 eɪd  
@@ -4500,9 +4539,11 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 
 固定搭配
 ---
-## \*take aim at  1.**把目标对准…；把批评的矛头指向…**  
+## \*take aim at
+1.**把目标对准…；把批评的矛头指向…**  
 
-## \*with the aim of  1.**旨在；目的是：**  
+## \*with the aim of
+1.**旨在；目的是：**  
 
 
 # ***\*aim*** v
@@ -4581,7 +4622,8 @@ aimlessly /'eɪmləsli/ adv
 
 固定搭配
 ---
-## \*in the air   1.**(某种情绪) 弥漫在空气中；即将发生：**  
+## \*in the air 
+1.**(某种情绪) 弥漫在空气中；即将发生：**  
 
  > There was a sense of excitement in the air.   
  > 到处洋溢着一种激动的气氛。  
@@ -4589,7 +4631,8 @@ aimlessly /'eɪmləsli/ adv
  > Change is in the air.   
  > 变革迫在眉睫。  
 
-## \*on / off (the) air  1.**正在/停止广播：**  
+## \*on / off (the) air
+1.**正在/停止广播：**  
 
  > We’ll be on air in three minutes.   
  > 我们三分钟后开始广播。  
@@ -4987,7 +5030,8 @@ Notes: alive 可作表语、补语或后置定语；无比较级和最高级。
 
 固定搭配
 ---
-## \*come alive  1.*高义频：* **变得有趣；生动起来(come to life)：**  
+## \*come alive
+1.*高义频：* **变得有趣；生动起来(come to life)：**  
 
  > The discussion came alive when an interesting topic was brought in.   
  > 当引入一个有趣的话题时，讨论活跃了起来。  
@@ -5037,7 +5081,8 @@ Notes: alive 可作表语、补语或后置定语；无比较级和最高级。
 
 固定搭配
 ---
-## \*all along   1.**[非正式用语] 一直；始终：**  
+## \*all along 
+1.**[非正式用语] 一直；始终：**  
 
  > You’ve been very nice to me all along.   
  > 你一直待我很好。  
@@ -5045,12 +5090,14 @@ Notes: alive 可作表语、补语或后置定语；无比较级和最高级。
  > I know that all along.   
  > 那件事我自始至终都知道。  
 
-## \*all but   1.**几乎；差不多(almost)：**  
+## \*all but 
+1.**几乎；差不多(almost)：**  
 
  > The party was all but over when we arrived.   
  > 我们到达时，聚会已近尾声。  
 
-## \*all too  1.**[用于表示不好的情形] 极；甚：**  
+## \*all too
+1.**[用于表示不好的情形] 极；甚：**  
 
  > All too often, people buy a pen based only on looks.  
  > 人们买笔时往往都只看外表。  
@@ -5083,23 +5130,27 @@ Notes: alive 可作表语、补语或后置定语；无比较级和最高级。
 
 固定搭配
 ---
-## \*all in all  1.**总而言之 (altogether)：**  
+## \*all in all
+1.**总而言之 (altogether)：**  
 
  > All in all her mother and I are very happy with her progress.  
  > 总而言之，看到她的进步我和她妈妈都很高兴。  
  > 来源：人教⑦ – 1  
 
-## \*in all   1.**总共 (altogether)：**  
+## \*in all 
+1.**总共 (altogether)：**  
 
  > How many people were there in all at the party?   
  > 出席聚会的共有多少人？  
 
-## \*not ... at all   1.**根本不；一点也不：**  
+## \*not ... at all 
+1.**根本不；一点也不：**  
 
  > The ﬁlm was not interesting at all.  
  > 电影一点儿也没意思。  
 
-## \*not at all   1.**[客套语] 不客气：**  
+## \*not at all 
+1.**[客套语] 不客气：**  
 
  > — It’s so kind of you and your parents.   
  > 非常感谢您和您的父母。  
@@ -5112,13 +5163,13 @@ Notes: alive 可作表语、补语或后置定语；无比较级和最高级。
 ---
 ##### 题目  
 All________ is important is that you are doing your best and moving in the right direction.  
-来源：2010 浙江改  
+##### 来源：2010 浙江改  
 ##### 答案 that  
   
 ##### 题目  
 — Do you mind if I record your lecture? alongside
 — ________(一点儿也不). Go ahead.  
-来源：2008 江 苏改  
+##### 来源：2008 江 苏改  
 ##### 答案 Not at all  
   
 ##### 题目  
@@ -5131,7 +5182,7 @@ D.that
   
 ##### 题目  
 All we need _______ (be) a small piece of land where we can plant various kinds of fruit trees throughout the growing seasons of the year.  
-来源：2014 湖南改  
+##### 来源：2014 湖南改  
 ##### 答案 is  
   
 
@@ -5164,7 +5215,7 @@ All we need _______ (be) a small piece of land where we can plant various kinds 
 ---
 ##### 题目  
 David is allergic ________ animal fur, so he won’t visit anyone who has cats or dogs in the house.   
-来源：2013 安徽改  
+##### 来源：2013 安徽改  
 ##### 答案 to  
   
 
@@ -5272,7 +5323,8 @@ David is allergic ________ animal fur, so he won’t visit anyone who has cats o
 
 固定搭配
 ---
-## \*allow for   1.**考虑到；顾及：**  
+## \*allow for 
+1.**考虑到；顾及：**  
 
  > Allowing for the bad weather, we should set off right now.   
  > 考虑到天气不好，我们应该马上出发。  
@@ -5289,12 +5341,12 @@ allowable  /ə'laʊəbl/ adj
 ---
 ##### 题目  
 As Jack left his membership card at home, he wasn’t allowed ________(go) into the sports club.  
-来源：2012 上海改  
+##### 来源：2012 上海改  
 ##### 答案 to go  
   
 ##### 题目  
 The writing point of the pen should allow the ink ________ (flow) evenly (均匀地) while the pen remains in touch with the paper.  
-来源：2010 安徽改  
+##### 来源：2010 安徽改  
 ##### 答案 to flow  
   
 ##### 题目  
@@ -5327,7 +5379,8 @@ The writing point of the pen should allow the ink ________ (flow) evenly (均匀
 
 固定搭配
 ---
-## \*make allowance(s) for   1.**考虑到；顾及；体谅：**  
+## \*make allowance(s) for 
+1.**考虑到；顾及；体谅：**  
 
  > Making allowances for his poor health, his boss allowed him to work six hours a day instead of eight.  
  > 老板体谅他身体不好，让他每天工作六小时而不是八小时。  
@@ -5388,12 +5441,14 @@ The writing point of the pen should allow the ink ________ (flow) evenly (均匀
 
 固定搭配
 ---
-## \*leave / let sb alone  1.**不打扰某人；不管某人：**  
+## \*leave / let sb alone
+1.**不打扰某人；不管某人：**  
 
  > Why don’t you just mind your own business and leave me alone?  
  > 为什么你就不能少管闲事不打扰我？  
 
-## \*leave / let sth alone  1.**不碰某物：**  
+## \*leave / let sth alone
+1.**不碰某物：**  
 
  > Leave the cakes alone. They’re for the guests.  
  > 别动那些蛋糕，那是给客人吃的。  
@@ -5408,7 +5463,7 @@ A.You’re not alone
 B.It’s hard to say  
 C.I’m afraid not  
 D.It’s up to you  
-来源：2014 福建  
+##### 来源：2014 福建  
 ##### 答案 A  
   
 
@@ -5460,7 +5515,8 @@ D.It’s up to you
 
 固定搭配
 ---
-## \*along with  1.**与···一起**  
+## \*along with
+1.**与···一起**  
 
  > A sensible diet along with regular exercise is the best way to lose weight.  
  > 合理饮食和定期锻炼是减肥的最佳途径。  
@@ -5472,7 +5528,7 @@ Notes: 主语后跟有along with短语时，谓语动词的单复数应和along 
 ##### 题目  
 Nowadays, cycling, along with jogging and swimming, ______
 (be) regarded as one of the best all-round forms of exercise.   
-来源：2017 天津改  
+##### 来源：2017 天津改  
 ##### 答案 is  
   
 
@@ -5627,7 +5683,8 @@ Notes: also多用于肯定句中，否定句中多用either。 also多用于书�
 
 固定搭配
 ---
-## \*have no alternative but to do sth  1.**除了做某事别无选择：**  
+## \*have no alternative but to do sth
+1.**除了做某事别无选择：**  
 
  > I had no alternative but to report him to the police.   
  > 除了向警察举报他，我别无选择。  
@@ -5668,7 +5725,8 @@ alternatively /ɔːl'tɜːrnətɪvli/ adv
 
 固定搭配
 ---
-## \*alternative energy   1.**替代能源 (指太阳能、风能、水能等)**  
+## \*alternative energy 
+1.**替代能源 (指太阳能、风能、水能等)**  
 
 
 派生词汇
@@ -5687,12 +5745,12 @@ A.alternative
 B.aggressive  
 C.ambiguous  
 D.apparent  
-来源：2017 江苏  
+##### 来源：2017 江苏  
 ##### 答案 A  
   
 ##### 题目  
 As there is less and less coal and oil, scientists are exploring new ways of making use of ________(替代能源), such as sunlight, wind and water for power and fuel.  
-来源：2009 湖北改  
+##### 来源：2009 湖北改  
 ##### 答案 alternative energy  
   
 
@@ -5723,7 +5781,7 @@ Notes: although不与but连用，但可以与yet, still等表转折的副词连�
 ---
 ##### 题目  
 _______ (尽管) birds use their feathers for ﬂight, some of their feathers are for other purposes.  
-来源：2017 北京改  
+##### 来源：2017 北京改  
 ##### 答案 Although / Though  
   
 ##### 题目  
@@ -5732,7 +5790,7 @@ A.As
 B.If  
 C.Although  
 D.Once  
-来源：2013 天津  
+##### 来源：2013 天津  
 ##### 答案 C  
   
 
@@ -5807,7 +5865,8 @@ Notes: always与进行时连用，有时表示因一件事情多次重复，说�
 
 固定搭配
 ---
-## \*as always  1.**同往常一样 (as usual)：**  
+## \*as always
+1.**同往常一样 (as usual)：**  
 
  > As always, he puts on his shoes and goes for a walk.  
  > 他和平时一样，穿上鞋出去散步了。  
@@ -5897,12 +5956,12 @@ amazement /ə'meɪzmənt/ n
 ---
 ##### 题目  
 I was amazing at the fact that a sick person could feel much more better after seeing a doctor.  
-来源：2019 全国 改错  
+##### 来源：2019 全国 改错  
 ##### 答案 amazing→amazed: 去掉more  
   
 ##### 题目  
 Little Tom sat_______(amaze) watching the monkey dancing in front of him.  
-来源：2015 四川改  
+##### 来源：2015 四川改  
 ##### 答案 amazed  
   
 
@@ -6082,7 +6141,8 @@ Notes: amounts of / a large (huge / small) amount of 尤与不可数名词连用
 
 固定搭配
 ---
-## \*amount to:  1.*高义频：* **达到 (某数量)；合计：**  
+## \*amount to:
+1.*高义频：* **达到 (某数量)；合计：**  
 
  > At the start of this year, foreigners living in Italy amounted to 4.56 million.  
  > 今年年初，居住在意大利的外国人数量达到了456万。  
@@ -6172,7 +6232,7 @@ amusing /ə'mjuːzɪŋ/ adj
 ---
 ##### 题目  
 Lucy has a great sense of humour and always keeps her colleagues ________ (amuse) with her stories.  
-来源：2010 上海改  
+##### 来源：2010 上海改  
 ##### 答案 amused  
   
 
@@ -6255,30 +6315,30 @@ Lucy has a great sense of humour and always keeps her colleagues ________ (amuse
 ---
 ##### 题目  
 Each of my cafes will have a different theme and an unique style.  
-来源：2019 全国改错  
+##### 来源：2019 全国改错  
 ##### 答案 an → a  
   
 ##### 题目  
 As the kid, I loved to watch cartoons. 
   
-来源：2018 全国改错  
+##### 来源：2018 全国改错  
 ##### 答案 the → a  
   
 ##### 题目  
 It takes them about a hour and a half to go to work
 every day.
   
-来源：2017 全国改错  
+##### 来源：2017 全国改错  
 ##### 答案 第一个a → an / one  
   
 ##### 题目  
 I can't tell you ________ way to the Wilsons' because we don’t have ________ Wilson here in the village.  
-来源：2014 重庆改  
+##### 来源：2014 重庆改  
 ##### 答案 the; a  
   
 ##### 题目  
 The paper is due next month, and I am working seven days ________ week, often long into ________ night.  
-来源：2014 浙江改  
+##### 来源：2014 浙江改  
 ##### 答案 a; the  
   
 
@@ -6445,12 +6505,12 @@ The paper is due next month, and I am working seven days ________ week, often lo
 ---
 ##### 题目  
 When I studied chemistry in high school, I reconsidered my goal or decided to be a doctor.   
-来源：2019 全国改错  
+##### 来源：2019 全国改错  
 ##### 答案 or→and  
   
 ##### 题目  
 Give me a chance,________ I’ll give you a wonderful surprise.  
-来源：2014 天津改  
+##### 来源：2014 天津改  
 ##### 答案 and  
   
 ##### 题目  
@@ -6459,7 +6519,7 @@ A.and
 B.or  
 C.but  
 D.so  
-来源：2008 重庆  
+##### 来源：2008 重庆  
 ##### 答案 A  
   
 
@@ -6608,7 +6668,7 @@ angrily /'æŋɡrəli/ adv
 ---
 ##### 题目  
 Plants and a________, including humans, need food and water to survive.  
-来源：2008 浙江  
+##### 来源：2008 浙江  
 ##### 答案 animals  
   
 
@@ -6818,11 +6878,14 @@ annually /'ænjuəli/ adv
 
 固定搭配
 ---
-## \*one after another  1.**陆续地；一个接一个地**  
+## \*one after another
+1.**陆续地；一个接一个地**  
 
-## \*one another  1.**互相**  
+## \*one another
+1.**互相**  
 
-## \*one thing ... another ...  1.**一回事…另一回事：**  
+## \*one thing ... another ...
+1.**一回事…另一回事：**  
 
  > Saying is one thing and doing another.  
  > 说是一回事，做又是另一回事。  
@@ -6832,7 +6895,7 @@ annually /'ænjuəli/ adv
 ---
 ##### 题目  
 Recycling is one way to protect the environment;reusing is ________.  
-来源：2013 重庆改  
+##### 来源：2013 重庆改  
 ##### 答案 another  
   
 
@@ -6888,7 +6951,8 @@ Recycling is one way to protect the environment;reusing is ________.
 
 固定搭配
 ---
-## \*answer for  1.**对…负责；对…承担责任：**  
+## \*answer for
+1.**对…负责；对…承担责任：**  
 
  > You’ll have to answer for your wrongdoing one day.  
  > 总有一天，你要对你所做的错事负责。  
@@ -6926,7 +6990,8 @@ Recycling is one way to protect the environment;reusing is ________.
 
 固定搭配
 ---
-## \*in answer to  1.**作为对…的回答；应…的要求：**  
+## \*in answer to
+1.**作为对…的回答；应…的要求：**  
 
  > The doctor came at once in answer to my telephone call.  
  > 医生接了我的电话后就立即赶过来了。  
@@ -7117,7 +7182,7 @@ anxiously /'æŋkʃəsli/ adv
 ---
 ##### 题目  
 My mother always gets a bit ________ (焦虑的) if we don’t arrive when we say we will.  
-来源：2005 浙江改  
+##### 来源：2005 浙江改  
 ##### 答案 anxious / worried  
   
 
@@ -7141,7 +7206,7 @@ My mother always gets a bit ________ (焦虑的) if we don’t arrive when we sa
 ---
 ##### 题目  
 Jane was asked a lot of questions, but she didn’t answer ________ of them.  
-来源：2009 陕西改  
+##### 来源：2009 陕西改  
 ##### 答案 any  
   
 ##### 题目  
@@ -7301,7 +7366,8 @@ D.nobody else
 
 固定搭配
 ---
-## \*anything but  1.**根本不；除…以外的任何事物：**  
+## \*anything but
+1.**根本不；除…以外的任何事物：**  
 
  > Maria is anything but stupid!  
  > 玛利亚才不笨呢！  
@@ -7309,12 +7375,14 @@ D.nobody else
  > Anything but a center seat is fine with me.  
  > 除了中间的座位，其他哪里都行。  
 
-## \*anything like sb / sth  1.**与某人 / 某物相像；全然 (不)：**  
+## \*anything like sb / sth
+1.**与某人 / 某物相像；全然 (不)：**  
 
  > You don’t look anything like your mother.  
  > 你长得一点儿也不像你母亲。  
 
-## \*if anything  1.**[口语] [用于补充内容以强调前面所说的话] 要是有什么的话：**  
+## \*if anything
+1.**[口语] [用于补充内容以强调前面所说的话] 要是有什么的话：**  
 
  > Sam didn’t seem too disappointed at losing. If anything, he seemed relieved that it was all over.  
  > 对于失败山姆看起来并不怎么失望，要是说有什么的话，倒是这事儿结束了，他好像松了一口气。  
@@ -7364,7 +7432,7 @@ A.Anyway
 B.Besides  
 C.Otherwise  
 D.Therefore  
-来源：2013 江西  
+##### 来源：2013 江西  
 ##### 答案 A  
   
 
@@ -7396,7 +7464,8 @@ D.Therefore
 
 固定搭配
 ---
-## \*anywhere between … and … / from … to …  1.**在…到…之间 / 从…到…：**  
+## \*anywhere between … and … / from … to …
+1.**在…到…之间 / 从…到…：**  
 
  > As a tutor you could expect to be paid anywhere between 100 yuan and 200 yuan per hour.  
  > 作为一名家教，你有望得到每小时100到200元的报酬。  
@@ -7410,7 +7479,7 @@ D.Therefore
 ---
 ##### 题目  
 I think Mrs. Stark could be anywhere _______ 50 and 60 years of age.  
-来源：2014 全国改  
+##### 来源：2014 全国改  
 ##### 答案 between  
   
 ##### 题目  
@@ -7419,7 +7488,7 @@ A.anything
 B.something  
 C.anywhere  
 D.somewhere  
-来源：2011 浙江  
+##### 来源：2011 浙江  
 ##### 答案 C  
   
 
@@ -7467,7 +7536,8 @@ D.somewhere
 
 固定搭配
 ---
-## \*apart from  1.*高义频：* **除…外 (别无)；若不：**  
+## \*apart from
+1.*高义频：* **除…外 (别无)；若不：**  
 
  > Apart from them, I had no one to talk to.  
  > 除了他们，没有人和我说话。  
@@ -7478,7 +7548,8 @@ D.somewhere
  > 除了用来取暖，火还有什么用处？  
  > 来源：外 研⑦ – 6  
 
-## \*be worlds apart  1.**完全不同；截然相反：**  
+## \*be worlds apart
+1.**完全不同；截然相反：**  
 
  > Their experience of life is worlds apart.  
  > 他们的生活经历完全不同。  
@@ -7489,7 +7560,7 @@ D.somewhere
 ---
 ##### 题目  
 Apart________ good service, the restaurant offers different kinds of traditional Fujian dishes.   
-来源：2011 福建改  
+##### 来源：2011 福建改  
 ##### 答案 from  
   
 
@@ -7532,7 +7603,7 @@ apologetic /əˌpɑːlə'dʒetɪk/ adj
 ---
 ##### 题目  
 Yesterday Michael a________ to his boss for being late.  
-来源：2008 浙江  
+##### 来源：2008 浙江  
 ##### 答案 apologised / apologized  
   
 
@@ -7563,7 +7634,7 @@ apologetic /əˌpɑːlə'dʒetɪk/ adj
 ---
 ##### 题目  
 Yesterday Michael a________ to his boss for being late.  
-来源：2008 浙江  
+##### 来源：2008 浙江  
 ##### 答案 apologized / apologised  
   
 
@@ -7604,12 +7675,12 @@ A.requests
 B.excuses  
 C.apologies  
 D.regrets  
-来源：2015 江苏  
+##### 来源：2015 江苏  
 ##### 答案 C  
   
 ##### 题目  
 I have an ________ (道歉) to make to you — I’m afraid I opened your letter by mistake.   
-来源：2011 陕西  
+##### 来源：2011 陕西  
 ##### 答案 apology  
   
 
@@ -7740,7 +7811,7 @@ appealing /ə'piːlɪŋ/ adj
 ---
 ##### 题目  
 We tend to have a better memory for things that excite our senses or appeal ______ our emotions than for straight facts.  
-来源：2015 浙江改  
+##### 来源：2015 浙江改  
 ##### 答案 to  
   
 
@@ -7981,7 +8052,8 @@ We tend to have a better memory for things that excite our senses or appeal ____
 
 固定搭配
 ---
-## \*the apple of sb’s eye  1.**某人的掌上明珠 / 心肝宝贝：**  
+## \*the apple of sb’s eye
+1.**某人的掌上明珠 / 心肝宝贝：**  
 
 
 # ***\*appliance*** n
@@ -8016,7 +8088,7 @@ We tend to have a better memory for things that excite our senses or appeal ____
 ---
 ##### 题目  
 The advertisement for engineers in the local paper attracted many ________ (申请人).   
-来源：2014 陕西  
+##### 来源：2014 陕西  
 ##### 答案 applicants  
   
 
@@ -8209,7 +8281,7 @@ The advertisement for engineers in the local paper attracted many ________ (申�
 ---
 ##### 题目  
 I have an appointment ______ Dr. Smith, but I need to change it.   
-来源：2013 北京改  
+##### 来源：2013 北京改  
 ##### 答案 with  
   
 
@@ -8510,7 +8582,7 @@ approving /ə'pruːvɪŋ/ adj
 ---
 ##### 题目  
 The questionnaire takes ________ (大约) ten to fifteen minutes to complete and can be used along with the assessment interview.  
-来源：2009 湖北改  
+##### 来源：2009 湖北改  
 ##### 答案 approximately / about / around  
   
 
@@ -8559,7 +8631,7 @@ The questionnaire takes ________ (大约) ten to fifteen minutes to complete and
 ---
 ##### 题目  
 People complain that decisions to approve or deny a permit are often ________ （随意的）rather than based on fixed criteria.  
-来源：2013 湖北改  
+##### 来源：2013 湖北改  
 ##### 答案 arbitrary  
   
 
@@ -8804,7 +8876,8 @@ People complain that decisions to approve or deny a permit are often ________ �
 
 固定搭配
 ---
-## \*arise from / out of   1.**因…产生；由…引起：**  
+## \*arise from / out of 
+1.**因…产生；由…引起：**  
 
  > Accidents often arise from / out of carelessness.   
  > 事故往往由粗心引起。  
@@ -8852,12 +8925,14 @@ People complain that decisions to approve or deny a permit are often ________ �
 
 固定搭配
 ---
-## \*arm in arm   1.**臂挽臂地：**  
+## \*arm in arm 
+1.**臂挽臂地：**  
 
  > They walked along the beach arm in arm.   
  > 他们臂挽臂沿着沙滩散步。  
 
-## \*with open arms  1.**热烈地；热情地：**  
+## \*with open arms
+1.**热烈地；热情地：**  
 
  > They are sure to welcome you with open arms.  
  > 他们肯定会热情地欢迎你。  
@@ -9058,7 +9133,8 @@ armed /ɑːrmd/ adj
 
 固定搭配
 ---
-## \*arranged marriage  1.**包办婚姻**  
+## \*arranged marriage
+1.**包办婚姻**  
 
 
 # ***\*arrangement*** n
@@ -9193,7 +9269,8 @@ Notes: arrive in指到达相对大的地方，arrive at指到达相对小的地�
 
 固定搭配
 ---
-## \*arrive at  1.**达成 (协议) (reach)；得出 (结论)：**  
+## \*arrive at
+1.**达成 (协议) (reach)；得出 (结论)：**  
 
  > arrive at an agreement / a decision  
  > 达成协议/作出决定  
@@ -9346,7 +9423,7 @@ artistic /ɑːr'tɪstɪk/ adj
 ---
 ##### 题目  
 The open exhibition will allow local ________ (艺术家) to show their talents.   
-来源：2012 陕西  
+##### 来源：2012 陕西  
 ##### 答案 artists  
   
 
@@ -9398,13 +9475,15 @@ Notes: 表示比较或方式的as从句一般用正常语序，但是，在正�
 
 固定搭配
 ---
-## \*as for  1.**至于…；就…而言：**  
+## \*as for
+1.**至于…；就…而言：**  
 
  > As for my favorite figure in Chinese history, it must be Wei Yuan, a great thinker in the late Qing Dynasty.  
  > 至于我最喜欢的中国历史人物，他一定是晚清伟大的思想家魏源。  
  > 来源：2016 北京书面表达  
 
-## \*as if / though  1.**好像；似乎：**  
+## \*as if / though
+1.**好像；似乎：**  
 
  > It looks as if it is going to rain.  
  > 看样子好像要下雨。  
@@ -9416,7 +9495,8 @@ Notes: 表示比较或方式的as从句一般用正常语序，但是，在正�
  > 他英语讲得很好，好像他在英国生活了很多年似的。  
 
 Notes: as if / though常用于引导表语从句或状语从句，如果是不真实的情况，从句中常用过去时表示虚拟语气。  
-## \*as it is / was  1.**[置于句首] 实际上；[置于句末] 已经：**  
+## \*as it is / was
+1.**[置于句首] 实际上；[置于句末] 已经：**  
 
  > As it is, I have a garden full of sweet-smelling roses for most of the year.  
  > 其实，我有一座花园，一年中大部分时间都玫瑰飘香。  
@@ -9424,7 +9504,8 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > I’ve already gone into debt as it is, so don’t expect any more money from me.  
  > 我已经欠债了，所以不要指望我会再出钱。  
 
-## \*as to sth  1.**关于某事：**  
+## \*as to sth
+1.**关于某事：**  
 
  > I’m in a puzzle as to what to do next.  
  > 关于下一步该做什么我也不知道。  
@@ -9434,32 +9515,32 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
 ---
 ##### 题目  
 Over time, _______ the population grew, people began cutting food into small pieces so it would cook more quickly.  
-来源：2016 全国  
+##### 来源：2016 全国  
 ##### 答案 as  
   
 ##### 题目  
 The number of smokers, _______ （据报道）, has dropped by 17 percent in just one year.  
-来源：2015 江苏改  
+##### 来源：2015 江苏改  
 ##### 答案 as is reported  
   
 ##### 题目  
 It was John who broke the window. Why are you talking to me as if I _______ (do) it?  
-来源：2014 重庆改  
+##### 来源：2014 重庆改  
 ##### 答案 had done  
   
 ##### 题目  
 It’s said that the power plant is now _______ (…的两倍大) what it was.  
-来源：2013 安徽改  
+##### 来源：2013 安徽改  
 ##### 答案 twice as large as  
   
 ##### 题目  
 ________ is often the case with children, Amy was better by the time the doctor arrived.  
-来源：2013 陕西改  
+##### 来源：2013 陕西改  
 ##### 答案 As  
   
 ##### 题目  
 Hot ________ the night air was, we slept deeply because we were so tired after the long journey.   
-来源：2012 陕西改  
+##### 来源：2012 陕西改  
 ##### 答案 as  
   
 ##### 题目  
@@ -9469,7 +9550,7 @@ A.until
 B.before  
 C.as  
 D.unless  
-来源：2012 重庆  
+##### 来源：2012 重庆  
 ##### 答案 C  
   
 
@@ -9634,7 +9715,8 @@ Tom was ________ (羞愧) of having lied to his parents.
 
 固定搭配
 ---
-## \*aside from   1.**除…之外 (apart from)：**  
+## \*aside from 
+1.**除…之外 (apart from)：**  
 
  > Aside from being good exercise, swimming is a very useful skill.   
  > 除了是一项好的运动外，游泳还是一种非常有用的技能。  
@@ -9700,19 +9782,20 @@ Tom was ________ (羞愧) of having lied to his parents.
 
 固定搭配
 ---
-## \*ask for trouble   1.**自找麻烦；自讨苦吃**  
+## \*ask for trouble 
+1.**自找麻烦；自讨苦吃**  
 
 
 真题解析
 ---
 ##### 题目  
 No matter how many times I asked to watching cartoons, my parents would not to let me. (改错)  
-来源：2018 全国  
+##### 来源：2018 全国  
 ##### 答案 watching → watch; 去掉let前的to  
   
 ##### 题目  
 I wasn’t able to hide my eagerness when I _______ (ask), “What do you wish me to do now?”  
-来源：2015 湖南改  
+##### 来源：2015 湖南改  
 ##### 答案 asked  
   
 ##### 题目  
@@ -9744,7 +9827,8 @@ Notes: asleep常用fast, sound修饰，不用very修饰。
 
 固定搭配
 ---
-## \*fall / drop asleep  1.**入睡；睡着：**  
+## \*fall / drop asleep
+1.**入睡；睡着：**  
 
  > I was so tired that I fell asleep the moment my head touched the pillow.  
  > 我太累了，头一碰到枕头就睡着了。  
@@ -10388,7 +10472,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
 ---
 ##### 题目  
 The top leaders of the two countries are holding talks in a friendly ________ (气氛).  
-来源：2008 湖北改  
+##### 来源：2008 湖北改  
 ##### 答案 atmosphere  
   
 
@@ -10488,7 +10572,7 @@ attachment /ə'tætʃmənt/ n
 ---
 ##### 题目  
 My parents always ________ (对…很重视) my getting a good education.  
-来源：2014 天津改  
+##### 来源：2014 天津改  
 ##### 答案 attach great importance to  
   
 
@@ -10666,7 +10750,8 @@ My parents always ________ (对…很重视) my getting a good education.
 
 固定搭配
 ---
-## \*attend to  1.**照料；处理；接待 (serve)：**  
+## \*attend to
+1.**照料；处理；接待 (serve)：**  
 
  > Nurses are busy attending to the wounded.   
  > 护士正忙着照顾伤员。  
@@ -10691,7 +10776,7 @@ attendant /ə'tendənt/ n [C]
 ---
 ##### 题目  
 We will ________ (参加) a meeting to celebrate the sixtieth birthday of the P.R. China.   
-来源：2009 陕西  
+##### 来源：2009 陕西  
 ##### 答案 attend  
   
 
@@ -10749,7 +10834,8 @@ We will ________ (参加) a meeting to celebrate the sixtieth birthday of the P.
 
 固定搭配
 ---
-## \*attract / catch / get the attention of …  1.**吸引 / 引起 / 得到……的注意：**  
+## \*attract / catch / get the attention of …
+1.**吸引 / 引起 / 得到……的注意：**  
 
  > She waved to attract the attention of the waitress.  
  > 她挥手想引起服务员的注意。  
@@ -10757,30 +10843,35 @@ We will ________ (参加) a meeting to celebrate the sixtieth birthday of the P.
  > The excellent football player quickly caught the attention of the public.  
  > 这个出色的足球运动员很快就吸引了公众的注意。  
 
-## \*bring sth to sb’s attention  1.**使某事引起某人的 注意：**  
+## \*bring sth to sb’s attention
+1.**使某事引起某人的 注意：**  
 
  > Why don't you bring it to his attention that you're too ill to work on?  
  > 你为什么不告诉他你病得很厉害，不能继续工作呢？  
  > 来源：2011 江西  
 
-## \*call / draw attention to   1.**使人们关注：**  
+## \*call / draw attention to 
+1.**使人们关注：**  
 
  > The purpose of the campaign is to draw public attention to the needs of the tall.  
  > 这项活动的目的是让公众关注高个子人群的需求。  
  > 来源：2011 全国改  
 
-## \*hold / keep sb’s attention  1.**保持某人的注意力：**  
+## \*hold / keep sb’s attention
+1.**保持某人的注意力：**  
 
  > This game is fun and is sure to keep children's attention.  
  > 这个游戏很有趣，一定能保持孩子们的注意力。  
 
-## \*pay attention to   1.**注意：**  
+## \*pay attention to 
+1.**注意：**  
 
  > On the bus, you will often notice someone paying more attention to his mobile phone.  
  > 在公共汽车上，你常会看到有人更专注于看自己的手机。  
  > 来源：2013 安徽改  
 
-## \*with attention   1.**专心致志地：**  
+## \*with attention 
+1.**专心致志地：**  
 
  > The lawyer listened with full attention, trying not to miss any point.  
  > 这位律师全神贯注地听着，竭力不漏掉任何要点。  
@@ -10876,7 +10967,7 @@ Despite such a big difference in ________ (对…的态度) what one eats, there
 ---
 ##### 题目  
 Thousands of foreigners  ________ (attract) to the Shanghai World Expo the day it opened.  
-来源：2010 江苏改  
+##### 来源：2010 江苏改  
 ##### 答案 were attracted  
   
 ##### 题目  
@@ -11220,13 +11311,13 @@ availability /əˌveɪlə'bɪləti/ n [U]
 ##### 题目  
  — I want to see Mr White. We have an appointment.
 — I’m sorry, but he is not__________(有空的) at the moment, for the meeting hasn’t ended.   
-来源：2017 天津改  
+##### 来源：2017 天津改  
 ##### 答案 available / free  
   
 ##### 题目  
 — Can you lend me the book Gone with the Wind?
 — Sorry. I returned it to the library just now. Maybe it is still ________(可借到的).   
-来源：2012 福建改  
+##### 来源：2012 福建改  
 ##### 答案 available   
   
 
@@ -11299,7 +11390,8 @@ availability /əˌveɪlə'bɪləti/ n [U]
 
 固定搭配
 ---
-## \*on average   1.**平均；一般地：**  
+## \*on average 
+1.**平均；一般地：**  
 
  > On average we have five classes a day.   
  > 我们平均每天上五节课。  
@@ -11313,17 +11405,17 @@ availability /əˌveɪlə'bɪləti/ n [U]
 ---
 ##### 题目  
 He was a good student and scored__________ (高于平均水平) in most subjects.   
-来源：2011 天津改  
+##### 来源：2011 天津改  
 ##### 答案 above average  
   
 ##### 题目  
  Last year the number of students who graduated with a driving license reached 200,000, ________ average of 40,000 per year.   
-来源：2010 江西改  
+##### 来源：2010 江西改  
 ##### 答案 an  
   
 ##### 题目  
 On ________ (平均), people who don’t smoke are healthier than people who do.   
-来源：2009 全国  
+##### 来源：2009 全国  
 ##### 答案 average  
   
 
@@ -11403,7 +11495,7 @@ Notes: avoid不接不定式作宾语。
 ---
 ##### 题目  
 I quickly lower myself, ducking my head to avoid_________(look) directly into his eyes.   
-来源：2018 全国  
+##### 来源：2018 全国  
 ##### 答案 looking  
   
 
@@ -11465,7 +11557,7 @@ I quickly lower myself, ducking my head to avoid_________(look) directly into hi
 ---
 ##### 题目  
 The baby in the next room ________ (睡醒) and began to cry.  
-来源：2010 全国  
+##### 来源：2010 全国  
 ##### 答案 awoke  
   
 
@@ -11660,7 +11752,8 @@ awareness /ə'wernəs/ n [U]
 
 固定搭配
 ---
-## \*look / feel awful  1.**面带病容；很不舒服**  
+## \*look / feel awful
+1.**面带病容；很不舒服**  
 英译 (look / feel ill)：
 
  > **2012 重庆**  

@@ -131,13 +131,13 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
 ##### 题目  
 — How far can you run without stopping?
 — I ________ (不知道). I've never tried. (idea)  
-来源：2013 山东改  
+##### 来源：2013 山东改  
 ##### 答案 have no idea  
   
 ##### 题目  
  — I'm tired. I'm taking next week off.
 — ________ (好主意), honey. You do need a break.  
-来源：2013 陕西改  
+##### 来源：2013 陕西改  
 ##### 答案 Great / Good idea  
   
 
@@ -241,13 +241,15 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
 
 固定搭配
 ---
-## \*identify sb / sth with sth  1.**认为某人 / 某物等同于某物：**  
+## \*identify sb / sth with sth
+1.**认为某人 / 某物等同于某物：**  
 
  > **identify with**  
  > You should not identify wealth with happiness.  
  > 你不应该把财富与幸福等同起来。  
 
-## \*identify with sb / sth  1.**认同某人 / 某物；与某人 / 某物有同感：**  
+## \*identify with sb / sth
+1.**认同某人 / 某物；与某人 / 某物有同感：**  
 
  > I didn't enjoy the book because I couldn' identify with any of the main characters.  
  > 我不喜欢这本书，因为我无法与其中任何一个主角产生共鸣。  
@@ -283,7 +285,7 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
 ---
 ##### 题目  
 He gave himself a new name to hide his ________ (身份) when he went to carry out the secret task.  
-来源：2015 湖北改  
+##### 来源：2015 湖北改  
 ##### 答案 identity  
   
 
@@ -344,7 +346,8 @@ He gave himself a new name to hide his ________ (身份) when he went to carry o
 
 固定搭配
 ---
-## \*if so   1.**如果是这样的话：**  
+## \*if so 
+1.**如果是这样的话：**  
 
  > Have you ever been here? And if so how many times?   
  > 你来过这儿吗？如果来过，来过几次呢？  
@@ -354,12 +357,12 @@ He gave himself a new name to hide his ________ (身份) when he went to carry o
 ---
 ##### 题目  
 ________we don't stop climate change, many animals and plants in the world will be gone.  
-来源：2018 北京  
+##### 来源：2018 北京  
 ##### 答案 If  
   
 ##### 题目  
 If it ________ (not be) for his invitation the other day, I should not be here now.  
-来源：2016 江苏改  
+##### 来源：2016 江苏改  
 ##### 答案 had not been  
   
 ##### 题目  
@@ -368,17 +371,17 @@ A.if not
 B.if ever  
 C.if any  
 D.if so  
-来源：2014 福建  
+##### 来源：2014 福建  
 ##### 答案 B  
   
 ##### 题目  
 It sounds like something is wrong with the car's engine. ________(如果是这样的话) we'd better take it to the garage immediately.  
-来源：2011 江苏改  
+##### 来源：2011 江苏改  
 ##### 答案 If so  
   
 ##### 题目  
 At fi rst he hated the new job but decided to give himself a few months to see ________ it got any better.  
-来源：2009 北京改  
+##### 来源：2009 北京改  
 ##### 答案 if / whether  
   
 
@@ -436,7 +439,7 @@ At fi rst he hated the new job but decided to give himself a few months to see _
 ---
 ##### 题目  
 Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the pain, believing that it would go away sooner or later.   
-来源：2014 浙江改  
+##### 来源：2014 浙江改  
 ##### 答案 ignore  
   
 
@@ -728,7 +731,7 @@ imaginary /ɪ'mædʒɪnəri/ adj
 ---
 ##### 题目  
 There is nothing there — you are just ________ (想象) things!   
-来源：2012 陕西  
+##### 来源：2012 陕西  
 ##### 答案 imagining  
   
 ##### 题目  
@@ -791,7 +794,7 @@ imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
 ---
 ##### 题目  
 If I find someone who looks like the suspect, my ________ (立即的) reaction will be to tell the police.   
-来源：2010 湖北改  
+##### 来源：2010 湖北改  
 ##### 答案 immediate  
   
 
@@ -1094,7 +1097,7 @@ impossibility /ɪmˌpɒsə'bɪləti/ n
 ---
 ##### 题目  
 I consider it ________ (不可能) to believe a single word you say.  
-来源：2007 陕西  
+##### 来源：2007 陕西  
 ##### 答案 impossible  
   
 
@@ -1167,7 +1170,7 @@ impressionist /ɪm'preʃənɪst/ n  [C]
 ##### 题目  
 My ________ (第一印象) of him was that he was a kind and thoughtful young man. 
   
-来源：2012 山东改  
+##### 来源：2012 山东改  
 ##### 答案 first impression  
   
 
@@ -1218,7 +1221,7 @@ My ________ (第一印象) of him was that he was a kind and thoughtful young ma
 ---
 ##### 题目  
 What was so ________ (impress) about Jasmine Westland’s victory was that she came first in the marathon bare-footed.  
-来源：2014 湖北改  
+##### 来源：2014 湖北改  
 ##### 答案 impressive  
   
 
@@ -1246,7 +1249,8 @@ What was so ________ (impress) about Jasmine Westland’s victory was that she c
 
 固定搭配
 ---
-## \*improve on / upon  1.**对…作出改进；做得比…更好：**  
+## \*improve on / upon
+1.**对…作出改进；做得比…更好：**  
 
  > Lily has scored 98 in the maths test, and I don't think anyone will improve on that.  
  > 莉莉数学考了98分，我看没人能超过这个分数。  
@@ -1359,12 +1363,12 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 ---
 ##### 题目  
 Jane is in a hurry because the train to the airport leaves ________ half an hour.  
-来源：2014 北京改  
+##### 来源：2014 北京改  
 ##### 答案 in  
   
 ##### 题目  
 Try on this red skirt; you will look great ________ it.  
-来源：2009 重庆改  
+##### 来源：2009 重庆改  
 ##### 答案 in  
   
 
@@ -1428,12 +1432,14 @@ Try on this red skirt; you will look great ________ it.
 
 固定搭配
 ---
-## \*by an inch / inches  1.**差一点儿；险些：**  
+## \*by an inch / inches
+1.**差一点儿；险些：**  
 
  > The car missed my dog by inches.   
  > 那辆汽车差一点儿撞到我的狗。  
 
-## \*inch by inch  1.**缓慢地；一点一点地：**  
+## \*inch by inch
+1.**缓慢地；一点一点地：**  
 
  > I crawled in inch by inch.  
  > 我慢慢地爬了进去。  
@@ -1503,7 +1509,7 @@ Try on this red skirt; you will look great ________ it.
 ---
 ##### 题目  
 My duties will include ________ (introduce) British visitors to the 120 plus pandas at Chengdu.  
-来源：2016 全国改  
+##### 来源：2016 全国改  
 ##### 答案 introducing  
   
 
@@ -1547,7 +1553,7 @@ My duties will include ________ (introduce) British visitors to the 120 plus pan
 ---
 ##### 题目  
 Tourism is the major source of________(收入) for this area.   
-来源：2015 陕西  
+##### 来源：2015 陕西  
 ##### 答案 income  
   
 
@@ -1600,7 +1606,8 @@ Tourism is the major source of________(收入) for this area.
 
 固定搭配
 ---
-## \*on the increase  1.**在增加：**  
+## \*on the increase
+1.**在增加：**  
 
  > A few years ago it was an endangered species, but now the population is on the increase.   
  > 几年前，它还是濒临灭绝的物种，但现在它们的数量在不断增加。  
@@ -1612,7 +1619,7 @@ Tourism is the major source of________(收入) for this area.
 ##### 题目  
 One of the consequences of our planet’s being warming up is a(n) ________ (增长) in the number of natural disasters.  
 D.increase  
-来源：2003 上海改  
+##### 来源：2003 上海改  
 ##### 答案 increase  
   
 
@@ -1633,7 +1640,7 @@ D.increase
 ---
 ##### 题目  
 Volunteering is becoming ________ (increasing) popular in China.  
-来源：2010 福建改  
+##### 来源：2010 福建改  
 ##### 答案 increasingly  
   
 
@@ -1703,7 +1710,7 @@ Volunteering is becoming ________ (increasing) popular in China.
 ##### 题目  
 — This is a really lively party. There's a great atmosphere, isn't there?
 — Yes, ________ (确实). The hosts know how to host a party.   
-来源：2013 山东改  
+##### 来源：2013 山东改  
 ##### 答案 indeed  
   
 
@@ -2091,7 +2098,7 @@ inference  n
 ---
 ##### 题目  
 Through the course of my schooling, I met many teachers, two ________ me greatly. 上学时遇到过很多老师，其中两位对我影响很大。  
-来源：2013 湖北改  
+##### 来源：2013 湖北改  
 ##### 答案 of whom (have) influenced / of them having influenced  
   
 
@@ -2168,7 +2175,7 @@ Through the course of my schooling, I met many teachers, two ________ me greatly
 ---
 ##### 题目  
 Besides, they often get some useful informations from the Internet.  
-来源：2017 全国   改错  
+##### 来源：2017 全国   改错  
 ##### 答案 informations → information  
   
 
@@ -2577,7 +2584,8 @@ innocence /'ɪnəsns/ n [U]
 
 固定搭配
 ---
-## \*inside out   1.**里面朝外地：**  
+## \*inside out 
+1.**里面朝外地：**  
 
  > The kids were wearing their shirts inside out.   
  > 孩子们把衬衫穿反了。  
@@ -2660,7 +2668,7 @@ Notes: insist表示“坚持”和“坚决要求”时，that从句中用虚拟
 ##### 题目  
 The man insisted on________ (find) a taxi for me even though I told him I lived nearby.
   
-来源：2004 江苏改  
+##### 来源：2004 江苏改  
 ##### 答案 finding  
   
 
@@ -2818,7 +2826,8 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 
 固定搭配
 ---
-## \*the instant (that)   1.**一…就：**  
+## \*the instant (that) 
+1.**一…就：**  
 
  > The instant (= As soon as) she stopped asking questions, I got up and went out of the room.  
  > 她一停止问问题，我就起身走出了房间。  
@@ -2854,7 +2863,8 @@ instantly /'ɪnstəntli/ adv
 
 固定搭配
 ---
-## \*instead of  1.**代替；而不是：**  
+## \*instead of
+1.**代替；而不是：**  
 
  > We went there on foot instead of by bus.   
  > 我们步行去了那儿，没坐车。  
@@ -2871,7 +2881,7 @@ instantly /'ɪnstəntli/ adv
 ---
 ##### 题目  
 The young man couldn't afford a new car. ________ (作为替代), he bought a used one.  
-来源：2011 天津改  
+##### 来源：2011 天津改  
 ##### 答案 Instead  
   
 
@@ -2986,7 +2996,7 @@ instructor /ɪn'strʌktə(r)/ n [C]
 ---
 ##### 题目  
 Always read the ________ (instruction) on the bottle carefully and take the right amount of medicine.  
-来源：2006 福建改  
+##### 来源：2006 福建改  
 ##### 答案 instructions  
   
 
@@ -3362,7 +3372,7 @@ intended /ɪn'tendɪd/ adj
 ---
 ##### 题目  
 In their spare time, they are interesting in planting vegetables in their garden.  
-来源：2017 全国  改错  
+##### 来源：2017 全国  改错  
 ##### 答案 interesting → interested  
   
 
@@ -3560,7 +3570,7 @@ interruption /ˌɪntə'rʌpʃn/ n [U] & [C]
 ---
 ##### 题目  
 Will you stop _______ (打断) me when I’m talking?  
-来源：2012 全国  
+##### 来源：2012 全国  
 ##### 答案 interrupting  
   
 
@@ -3788,7 +3798,7 @@ Notes: introduce不接双宾语。
 ---
 ##### 题目  
 This development was only possible with the ________ (introduce) of electric-powered engines and lifts.  
-来源：2017 全国  
+##### 来源：2017 全国  
 ##### 答案 introduction  
   
 
@@ -4010,7 +4020,7 @@ investigation /ɪnˌvestɪ'ɡeɪʃn/ n [U] & [C]
 ---
 ##### 题目  
 She has turned down several ________ (invitation) to star at shows in order to concentrate on her studies.  
-来源：2017 全国  
+##### 来源：2017 全国  
 ##### 答案 invitations  
   
 
@@ -4051,7 +4061,7 @@ She has turned down several ________ (invitation) to star at shows in order to c
 ---
 ##### 题目  
 When summer comes, they will invite their students pick the fresh vegetables!  
-来源：2017 全国  改错  
+##### 来源：2017 全国  改错  
 ##### 答案 pick 前加to  
   
 
@@ -4103,7 +4113,7 @@ involvement /ɪn'vɒlvmənt/ n [U]
 ---
 ##### 题目  
 Michelle found a job as a high school teacher which involves ________ (spend) quite a lot of time with students.  
-来源：2013 福建改  
+##### 来源：2013 福建改  
 ##### 答案 spending  
   
 
@@ -4374,23 +4384,23 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 ---
 ##### 题目  
 How would you like_______ if you were watching your favorite TV program and someone came into the room and just shut it off without asking you?  
-来源：2015 浙江改  
+##### 来源：2015 浙江改  
 ##### 答案 it  
   
 ##### 题目  
 — Who's that at the door? 
 —  ________ is the milkman.   
-来源：2014 全国改  
+##### 来源：2014 全国改  
 ##### 答案 It  
   
 ##### 题目  
 An average of just 18.75 cm of rain fell last year, making ________ the driest year since California became a state in 1850.  
-来源：2014 浙江改  
+##### 来源：2014 浙江改  
 ##### 答案 it  
   
 ##### 题目  
 Why don't you bring _______ to his attention that you're too ill to work on?   
-来源：2011 江西改  
+##### 来源：2011 江西改  
 ##### 答案 it  
   
 
@@ -4448,7 +4458,7 @@ Why don't you bring _______ to his attention that you're too ill to work on?
 ---
 ##### 题目  
 On my recent visit, I held a lively three-monthold panda that had been rejected by ________  (it) mother.  
-来源：2016 全国改  
+##### 来源：2016 全国改  
 ##### 答案 its  
   
 
@@ -4470,7 +4480,8 @@ On my recent visit, I held a lively three-monthold panda that had been rejected 
 
 固定搭配
 ---
-## \*by itself   1.**单独地；独立地：**  
+## \*by itself 
+1.**单独地；独立地：**  
 
  > The tree stands by itself in the garden.   
  > 那棵树孤零零地立在花园中。  
@@ -4481,12 +4492,12 @@ On my recent visit, I held a lively three-monthold panda that had been rejected 
 ##### 题目  
 Surprisingly, Susan's beautiful hair reached below her knees and made ________ (it) almost an overcoat for her.
   
-来源：2011 安徽改  
+##### 来源：2011 安徽改  
 ##### 答案 itself  
   
 ##### 题目  
 Isn't it amazing how the human body heals ________ (it) after an injury?  
-来源：2008 江西改  
+##### 来源：2008 江西改  
 ##### 答案 itself  
   
 

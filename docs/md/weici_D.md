@@ -155,7 +155,7 @@
 ---
 ##### 题目  
 The accident caused some ________ (损坏) to my car, but it’s nothing serious.  
-来源：2013 辽宁改  
+##### 来源：2013 辽宁改  
 ##### 答案 damage  
   
 
@@ -421,7 +421,8 @@ dangerously /'deɪndʒərəsli/ adv
 
 固定搭配
 ---
-## \*a dark horse  1.**黑马；出乎意料的获胜者**  
+## \*a dark horse
+1.**黑马；出乎意料的获胜者**  
 
 
 派生词汇
@@ -448,7 +449,8 @@ darken /'dɑːkən/ v
 
 固定搭配
 ---
-## \*in the dark  1.**在暗处；秘密地；全然不知的：**  
+## \*in the dark
+1.**在暗处；秘密地；全然不知的：**  
 
  > Please tell me how the accident came about. I am still in the dark.  
  > 请告诉我事故的经过。我还蒙在鼓里呢。  
@@ -615,7 +617,8 @@ darken /'dɑːkən/ v
 
 固定搭配
 ---
-## \*out of date   1.**过时的；陈旧的：**  
+## \*out of date 
+1.**过时的；陈旧的：**  
 
  > an out-of-date train schedule   
  > 过时的列车时刻表  
@@ -624,12 +627,14 @@ darken /'dɑːkən/ v
  > 这本字典过时了：自从它出版以来，语言中又增加了许多词汇。  
  > 来源：2016 天津  
 
-## \*to date   1.**至今；到目前为止：**  
+## \*to date 
+1.**至今；到目前为止：**  
 
  > I think it wise to review how much we’ve spent to date.  
  > 我认为把我们到目前为止的花费统计一下是明智的。  
 
-## \*up to date   1.**最新的；时髦的：**  
+## \*up to date 
+1.**最新的；时髦的：**  
 
  > This model is the newest and most up to date.  
  > 这一款是最新的，也是最时尚的。  
@@ -664,7 +669,8 @@ darken /'dɑːkən/ v
 
 固定搭配
 ---
-## \*date back (to) / date from   1.**追溯到；远在…年代：**  
+## \*date back (to) / date from 
+1.**追溯到；远在…年代：**  
 
  > This tradition dates back to the 15th century.   
  > 这一传统可追溯到15世纪。  
@@ -805,56 +811,66 @@ darken /'dɑːkən/ v
 
 固定搭配
 ---
-## \*all day (long)   1.**一整天：**  
+## \*all day (long) 
+1.**一整天：**  
 
  > He seems to be on the move all day long.   
  > 他似乎一天到晚忙个不停。  
 
-## \*(all) day and (all) night  1.**整日整夜；日日夜夜地：**  
+## \*(all) day and (all) night
+1.**整日整夜；日日夜夜地：**  
 
  > All day and all night it snowed, and the city began to suffer from a general traffic jam.   
  > 大雪不分昼夜地下，全城陷入交通大拥堵。  
 
-## \*day after day   1.**[强调重复] 日复一日地；天天：**  
+## \*day after day 
+1.**[强调重复] 日复一日地；天天：**  
 
  > The scientists worked hard in the laboratory day after day.   
  > 那些科学家们日复一日地在实验室努力工作。  
 
-## \*day by day  1.**[强调变化] 一天天地；逐日地：**  
+## \*day by day
+1.**[强调变化] 一天天地；逐日地：**  
 
  > The weather is getting warmer and warmer day by day.   
  > 天气一天天地暖和起来。  
 
-## \*day in and day out / day in, day out   1.**天天：**  
+## \*day in and day out / day in, day out 
+1.**天天：**  
 
  > Day in and day out I follow almost the same routine.  
  > 日复一日，我每天都做着几乎同样的事情。  
  > 来源：人教⑦ – 5  
 
-## \*one day   1.**(过去或将来的) 某一天：**  
+## \*one day 
+1.**(过去或将来的) 某一天：**  
 
  > Given the right kind of training, these teenage soccer players may one day grow into international stars.    
  > 给予适当的训练，这些青少年足球运动员有朝一日可望成为国际巨星。  
  > 来源：2009 江西  
 
-## \*some day   1.**(将来) 总有一天； (日后) 某一天：**  
+## \*some day 
+1.**(将来) 总有一天； (日后) 某一天：**  
 
  > I hope I can meet him some day.  
  > 我希望有一天能见到他。  
 
-## \*the other day   1.**前几天；前不久：**  
+## \*the other day 
+1.**前几天；前不久：**  
 
  > When I met him the other day, he had just come back from work, looking excited.   
  > 前几天我碰到他的时候，他正好下班回来，看上去很兴奋。  
  > 来源：译林⑤ – 3  
 
-## \*these days   1.**现在；如今：**  
+## \*these days 
+1.**现在；如今：**  
 
  > As you can see, the number of cars on roads keeps rising these days.    
  > 如你所见，如今路上的车辆越来越多。  
  > 来源：2006 全国  
 
-## \*to this day   1.**至今：**  
+## \*to this day 
+1.**至今：**  
 
  > I didn’t find time to say good-bye to you before I left. I regret it to this day.   
  > 走之前来不及跟你告别，我至今后悔不已。  
@@ -1040,7 +1056,8 @@ darken /'dɑːkən/ v
 
 固定搭配
 ---
-## \*turn a deaf ear (to)   1.**(对…) 置之不理：**  
+## \*turn a deaf ear (to) 
+1.**(对…) 置之不理：**  
 
  > Many of them turned a deaf ear to his advice, even though they knew it to be valuable.   
  > 他们中的许多人对他的建议置之不理，即使他们知道他的建议是有益的。  
@@ -1059,12 +1076,14 @@ deafen /'defn/ vt [常用于被动语态]
 
 固定搭配
 ---
-## \*deal in  1.**经营；买卖：**  
+## \*deal in
+1.**经营；买卖：**  
 
  > The company deals in computer software.  
  > 这个公司经营计算机软件。  
 
-## \*deal with  1.*高义频：* **处理；对付；应付 (handle)：**  
+## \*deal with
+1.*高义频：* **处理；对付；应付 (handle)：**  
 
  > I can’t control what happens to me, but I can choose how I deal with it.   
  > 我无法掌控发生在自己身上的事，但我能选择如何应对。  
@@ -1118,7 +1137,8 @@ dealer /'diːlə(r)/ n [C]
 
 固定搭配
 ---
-## \*a great / good deal  1.*高义频：* **大量；很多：**  
+## \*a great / good deal
+1.*高义频：* **大量；很多：**  
 
  > Although she had never met that expert, she knew a great deal about him.  
  > 尽管她从来没有见过那位专家，但是她对他很了解。  
@@ -1128,7 +1148,8 @@ dealer /'diːlə(r)/ n [C]
  > He ran a good deal faster than I.  
  > 他比我跑得快多了。  
 
-## \*a great / good deal of  1.**[接不可数名词] 大量的…；很多的…：**  
+## \*a great / good deal of
+1.**[接不可数名词] 大量的…；很多的…：**  
 
  > a great / good deal of time / money / effort  
  > 大量的时间/钱/努力  
@@ -1136,7 +1157,8 @@ dealer /'diːlə(r)/ n [C]
  > It takes a great deal of practice to be really good at listening.  
  > 要想具备很高的听的能力，需要做大量的练习。  
 
-## \*big deal  1.**［口语］没什么大不了的； 重要的事情：**  
+## \*big deal
+1.**［口语］没什么大不了的； 重要的事情：**  
 
  > It's just a game. If you lose, big deal.  
  > 这只是个游戏，就是输了也没什么大不了的。  
@@ -1145,7 +1167,8 @@ dealer /'diːlə(r)/ n [C]
  > It's not a big deal.  
  > 这件事不重要。/没多大的事。  
 
-## \*What is the deal?  1.**出了什么事？**  
+## \*What is the deal?
+1.**出了什么事？**  
 
  > He and I both knew what the deal was, but we didn't talk about it.  
  > 我和他都知道出了什么事，但是我们都心照不宣。  
@@ -1247,7 +1270,8 @@ dealer /'diːlə(r)/ n [C]
 
 固定搭配
 ---
-## \*be bored / scared / frightened to death   1.**无聊得 / 怕得要死：**  
+## \*be bored / scared / frightened to death 
+1.**无聊得 / 怕得要死：**  
 
  > She was scared to death of what might happen next.  
  > 她对接下来可能发生的事怕得要死。  
@@ -1325,12 +1349,14 @@ dealer /'diːlə(r)/ n [C]
 
 固定搭配
 ---
-## \*fall / get / run into debt   1.**借债；负债：**  
+## \*fall / get / run into debt 
+1.**借债；负债：**  
 
  > It's much easier to get into debt than to get out of debt.  
  > 借债容易还债难。  
 
-## \*in debt (to sb)   1.**欠 (某人) 债；受 (某人) 恩惠：**  
+## \*in debt (to sb) 
+1.**欠 (某人) 债；受 (某人) 恩惠：**  
 
  > Nearly half the college students said they were in debt.  
  > 近一半的大学生说自己欠债。  
@@ -1338,9 +1364,11 @@ dealer /'diːlə(r)/ n [C]
  > I’m in debt to him for his help.   
  > 对于他的帮助，我欠他一份人情。  
 
-## \*out of debt   1.**不欠债**  
+## \*out of debt 
+1.**不欠债**  
 
-## \*pay off one’s debts   1.**还清债务**  
+## \*pay off one’s debts 
+1.**还清债务**  
 
 
 # ***\*decade*** n
@@ -1437,7 +1465,8 @@ dealer /'diːlə(r)/ n [C]
 
 固定搭配
 ---
-## \*decide on / upon   1.**决定；选定：**  
+## \*decide on / upon 
+1.**决定；选定：**  
 
  > Have you decided on a date for the wedding?  
  > 你们定好婚礼日期了吗？  
@@ -1605,7 +1634,7 @@ A.differ
 B.shrink   
 C.fail   
 D.decline  
-来源：2012 浙江  
+##### 来源：2012 浙江  
 ##### 答案 D  
   
 
@@ -1824,7 +1853,8 @@ deepen /'diːpən/ v
 
 固定搭配
 ---
-## \*deep down  1.**心底；本质上**  
+## \*deep down
+1.**心底；本质上**  
 
 
 # ***\*deep-breathing*** adj
@@ -1887,7 +1917,7 @@ deepen /'diːpən/ v
 ---
 ##### 题目  
 I have been _______(深深地) impressed by a number of experiences in her life.   
-来源：2010 陕西  
+##### 来源：2010 陕西  
 ##### 答案 deeply  
   
 
@@ -2142,7 +2172,8 @@ I have been _______(深深地) impressed by a number of experiences in her life.
 
 固定搭配
 ---
-## \*to a (certain) degree / to some degree  1.**在 (一 定) 程度上；相当：**  
+## \*to a (certain) degree / to some degree
+1.**在 (一 定) 程度上；相当：**  
 
  > To a certain degree, it’s a matter of logic.   
  > 在一定程度上，这是个逻辑问题。  
@@ -2195,7 +2226,7 @@ I have been _______(深深地) impressed by a number of experiences in her life.
 ---
 ##### 题目  
 The World Health Organization gave a warning to the public without any ________ (延误) when the virus of H1N1 hit Mexico in April, 2009.   
-来源：2009 福建改  
+##### 来源：2009 福建改  
 ##### 答案 delay   
   
 
@@ -2274,7 +2305,7 @@ A.accidentally
 B.carelessly  
 C.deliberately  
 D.clumsily  
-来源：2013 湖北改  
+##### 来源：2013 湖北改  
 ##### 答案 deliberately  
   
 
@@ -2342,7 +2373,7 @@ D.clumsily
 ---
 ##### 题目  
 Honestly I thought the fried chicken was ________ (可口的).   
-来源：2006 陕西  
+##### 来源：2006 陕西  
 ##### 答案 delicious  
   
 
@@ -2404,7 +2435,8 @@ Honestly I thought the fried chicken was ________ (可口的).
 
 固定搭配
 ---
-## \*delight in  1.**[不用于被动语态] 以…为乐；喜欢 (尤指他人认为不好的事)：**  
+## \*delight in
+1.**[不用于被动语态] 以…为乐；喜欢 (尤指他人认为不好的事)：**  
 
  > The boss delights in complicating a problem, which makes others confused.   
  > 这位老板喜欢把问题复杂化，这让其他人摸不着头脑。  
@@ -2565,19 +2597,21 @@ Notes: 不能用very修饰delighted。
 
 固定搭配
 ---
-## \*in demand   1.**非常需要的；受欢迎的：**  
+## \*in demand 
+1.**非常需要的；受欢迎的：**  
 
  > While modeling business is by no means easy to get into, the good model will always be in demand.   
  > 由于模特业不易进入，好模特总是供不应求。  
 
-## \*on demand   1.**[正式用语] 一经要求**  
+## \*on demand 
+1.**[正式用语] 一经要求**  
 
 
 真题解析
 ---
 ##### 题目  
 The Harry Potter books are quite popular; they are ________ great demand  in this city.   
-来源：2012 全国改  
+##### 来源：2012 全国改  
 ##### 答案 in  
   
 
@@ -2714,7 +2748,7 @@ A.deny
 B.refuse  
 C.reject  
 D.decline  
-来源：2011 江苏  
+##### 来源：2011 江苏  
 ##### 答案 deny  
   
 
@@ -2786,7 +2820,8 @@ D.decline
 
 固定搭配
 ---
-## \*depend on / upon  1.*高义频：* **依靠；依赖(rely on / upon)：**  
+## \*depend on / upon
+1.*高义频：* **依靠；依赖(rely on / upon)：**  
 
  > **depend on,to**  
  > We depend on energy to do many things in our daily lives.    
@@ -2819,7 +2854,8 @@ D.decline
  > 旅途大约需要两小时，这取决于交通状况。  
  > 来源：2011 上海  
 
-## \*It / That (all) depends.   1.**那得看情况。**  
+## \*It / That (all) depends. 
+1.**那得看情况。**  
 
  > — How long are you staying?  
  > 你会待多久？  
@@ -2844,12 +2880,12 @@ A.Don’t mention it
 B.It doesn’t matter  
 C.Forget it  
 D.It depends  
-来源：2012 福建  
+##### 来源：2012 福建  
 ##### 答案 D  
   
 ##### 题目  
 Don’t always d________ on others. You should learn to rely on yourself.  
-来源：2007 浙江  
+##### 来源：2007 浙江  
 ##### 答案 depend  
   
 
@@ -3032,7 +3068,8 @@ depressing /dɪ'presɪŋ/ adj
 
 固定搭配
 ---
-## \*in depth   1.**全面地；深入地；仔细地：**  
+## \*in depth 
+1.**全面地；深入地；仔细地：**  
 
  > an in-depth study   
  > 深入的研究  
@@ -3045,7 +3082,7 @@ depressing /dɪ'presɪŋ/ adj
 ---
 ##### 题目  
 On June 27, 2012, the Jiaolong reached a ________ (深度) of 7,062 meters in the Pacific Ocean.  
-来源：2014 陕西  
+##### 来源：2014 陕西  
 ##### 答案 depth  
   
 
@@ -3120,7 +3157,8 @@ descriptive /dɪ'skrɪptɪv/ adj
 
 固定搭配
 ---
-## \*beyond description  1.**难以描述；难以形容：**  
+## \*beyond description
+1.**难以描述；难以形容：**  
 
  > The grand sight of Mount Huangshan is beyond description.   
  > 黄山的壮丽美景难以形容。  
@@ -3130,7 +3168,7 @@ descriptive /dɪ'skrɪptɪv/ adj
 ---
 ##### 题目  
 The book gives a short ________ (描述) of the city.   
-来源：2007 全国  
+##### 来源：2007 全国  
 ##### 答案 description  
   
 
@@ -3401,7 +3439,8 @@ deserving /dɪ'zɜːvɪŋ/ adj
 
 固定搭配
 ---
-## \*in despair   1.**绝望地：**  
+## \*in despair 
+1.**绝望地：**  
 
  > Lance put his head on the doctor’s desk in despair.    
  > 兰斯绝望地趴在医生的桌子上。  
@@ -3479,7 +3518,7 @@ A.without
 B.despite  
 C.in  
 D.to  
-来源：2014 江西  
+##### 来源：2014 江西  
 ##### 答案 B  
   
 
@@ -3575,13 +3614,15 @@ D.to
 
 固定搭配
 ---
-## \*in detail   1.**详细地：**  
+## \*in detail 
+1.**详细地：**  
 
  > Planning is good as it decides in detail how we do what we want to do.  
  > 做计划的好处在于它详细地规定了如何做我们想做的事。  
  > 来源：2016 浙江书面表达  
 
-## \*go into detail(s)   1.**详细叙述；逐一说明：**  
+## \*go into detail(s) 
+1.**详细叙述；逐一说明：**  
 
  > I can’t go into details now; it would take too long.  
  > 我现在不能细说，太费时间了。  
@@ -3595,7 +3636,7 @@ detailed /'diːteɪld/ adj
 ---
 ##### 题目  
 We’d better discuss everything _______ (详细地) before we work out the plan.   
-来源：2011 江苏改  
+##### 来源：2011 江苏改  
 ##### 答案 in detail  
   
 
@@ -3797,7 +3838,7 @@ developing /dɪ'veləpɪŋ/ adj
 ---
 ##### 题目  
 Hopefully in 2025 we will no longer be e-mailing each other, for we_______(develop) more convenient electronic communication tools by then.  
-来源：2018 江苏改  
+##### 来源：2018 江苏改  
 ##### 答案 will have developed  
   
 
@@ -3872,7 +3913,8 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 
 固定搭配
 ---
-## \*devote oneself to  1.**献身于；致力于；专心于：**  
+## \*devote oneself to
+1.**献身于；致力于；专心于：**  
 
  > If you have a job, do devote yourself to it and finally you’ll succeed.   
  > 如果你有一份工作，务必全身心地投入，最终你会成功的。  
@@ -4053,7 +4095,7 @@ Hopefully in 2025 we will no longer be e-mailing each other, for we_______(devel
 ---
 ##### 题目  
 The English teacher gives the class a ________ (听写) almost every day.   
-来源：2008 全国  
+##### 来源：2008 全国  
 ##### 答案 dictation  
   
 
@@ -4097,23 +4139,27 @@ The English teacher gives the class a ________ (听写) almost every day.
 
 固定搭配
 ---
-## \*be dying for sth  1.**[口语] 极想要某物：**  
+## \*be dying for sth
+1.**[口语] 极想要某物：**  
 
  > I’m dying for a cup of tea.  
  > 我很想喝杯茶。  
 
-## \*be dying to do sth  1.**[口语] 渴望做某事：**  
+## \*be dying to do sth
+1.**[口语] 渴望做某事：**  
 
  > I’m dying to see you.  
  > 我很想见你。  
 
-## \*die away  1.**逐渐减弱 (至消失)**  
+## \*die away
+1.**逐渐减弱 (至消失)**  
 英译 to slowly become weaker and finally disappear：
 
  > The sound of their laughter died away.  
  > 他们的笑声渐渐远去。  
 
-## \*die down  1.**逐渐变弱；逐渐降低**  
+## \*die down
+1.**逐渐变弱；逐渐降低**  
 英译 to slowly become less strong：
 
  > When the applause had died down, she began her speech.  
@@ -4122,7 +4168,8 @@ The English teacher gives the class a ________ (听写) almost every day.
  > The wind has died down a bit.   
  > 风小了一点。  
 
-## \*die from / of  1.**死于：**  
+## \*die from / of
+1.**死于：**  
 
  > She died from a wound.  
  > 她因受伤而亡。  
@@ -4131,12 +4178,14 @@ The English teacher gives the class a ________ (听写) almost every day.
  > 19世纪40年代，约有75万人死于饥饿。  
  > 来源：2011 安徽改  
 
-## \*die off  1.**相继死去：**  
+## \*die off
+1.**相继死去：**  
 
  > The survivors are dying off daily.   
  > 活下来的人正在一天天地相继死去。  
 
-## \*die out  1.**灭绝；消失：**  
+## \*die out
+1.**灭绝；消失：**  
 
  > As a result, many species are quickly dying out.   
  > 结果，许多物种正在迅速灭绝。  
@@ -4147,7 +4196,7 @@ The English teacher gives the class a ________ (听写) almost every day.
 ---
 ##### 题目  
 You may drink, smoke, be overweight and still reduce your risk of _____ (die) early by running.   
-来源：2018 全国  
+##### 来源：2018 全国  
 ##### 答案 dying  
   
 ##### 题目  
@@ -4190,7 +4239,8 @@ Although the wind has died ________, the rain remains steady, so you still need 
 
 固定搭配
 ---
-## \*be / go on a diet  1.**节食：**  
+## \*be / go on a diet
+1.**节食：**  
 
  > When I go on a diet, I eat only cucumbers, and that reduces my weight quickly.   
  > 我节食的时候只吃黄瓜，迅速减轻了体重。  
@@ -4223,7 +4273,8 @@ Although the wind has died ________, the rain remains steady, so you still need 
 
 固定搭配
 ---
-## \*I beg to differ  1.**恕我不敢苟同：**  
+## \*I beg to differ
+1.**恕我不敢苟同：**  
 
  > —Only those who have a lot in common can get along well.  
  > 只有那些志趣相投的人才能相处融洽。  
@@ -4265,7 +4316,8 @@ Although the wind has died ________, the rain remains steady, so you still need 
 
 固定搭配
 ---
-## \*make a / no difference  1.**有 / 无影响；有重要作用 / 无关紧要：**  
+## \*make a / no difference
+1.**有 / 无影响；有重要作用 / 无关紧要：**  
 
  > Hannah is one of many examples of young people who are making a difference in the world.  
  > 汉纳是那些正在改变着世界的许多年轻榜样中的一个。  
@@ -4311,7 +4363,7 @@ differently /'dɪfrəntli/ adv
 ---
 ##### 题目  
 I enjoyed studying difference kinds of cars and planes. (改错)  
-来源：2017 全国  
+##### 来源：2017 全国  
 ##### 答案 difference → different  
   
 ##### 题目  
@@ -4421,7 +4473,7 @@ difficultly /'dɪfɪkəlt/ adv
 ---
 ##### 题目  
 You can’t imagine what difficulty we had ________ (walk) home in the snowstorm.  
-来源：2007 辽宁改  
+##### 来源：2007 辽宁改  
 ##### 答案 walking  
   
 
@@ -4443,7 +4495,8 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
 
 固定搭配
 ---
-## \*dig (...) into  1.**插入；戳进；探究：**  
+## \*dig (...) into
+1.**插入；戳进；探究：**  
 
  > She dug into her purse and took out some coins.  
  > 她从钱包里掏出一些硬币。  
@@ -4452,7 +4505,8 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
  > 我们俩都集中精力钻研要饰演的角色。  
  > 来源：2017 全国改  
 
-## \*dig out  1.**挖出；找出；发现：**  
+## \*dig out
+1.**挖出；找出；发现：**  
 
  > The army organized teams to dig out those who were trapped and to bury the dead.  
  > 军人组成小分队，挖出被困者，掩埋遇难者。  
@@ -4461,7 +4515,8 @@ You can’t imagine what difficulty we had ________ (walk) home in the snowstorm
  > The truth was dug out.  
  > 真相被发现了。  
 
-## \*dig up  1.**掘起；开垦 (荒地)；搜集：**  
+## \*dig up
+1.**掘起；开垦 (荒地)；搜集：**  
 
  > Cutting down trees and digging up grass can cause deserts and sandstorms to increase.  
  > 砍树挖草能导致沙漠变大、沙尘暴增加。  
@@ -5029,7 +5084,8 @@ diplomat /'dɪpləmæt/ n [C]
 
 固定搭配
 ---
-## \*at a disadvantage  1.**处于不利地位：**  
+## \*at a disadvantage
+1.**处于不利地位：**  
 
  > I feel rather at a disadvantage talking to her because she’s so clever.   
  > 她太伶俐，我跟她讲话总觉得吃亏。  
@@ -5063,7 +5119,7 @@ diplomat /'dɪpləmæt/ n [C]
 ---
 ##### 题目  
 They failed to reach a settlement, because they ________ (不同意) too much with each other.   
-来源：2014 陕西  
+##### 来源：2014 陕西  
 ##### 答案 disagreed  
   
 
@@ -5114,7 +5170,7 @@ disappearance /ˌdɪsə'pɪərəns/ n
 ---
 ##### 题目  
 The symptoms of flu may be unpleasant, but they ________ (消失) within a few days.  
-来源：2011 陕西  
+##### 来源：2011 陕西  
 ##### 答案 disappear  
   
 
@@ -5657,7 +5713,8 @@ discoverer /dɪ'skʌvərə(r)/ n
 
 固定搭配
 ---
-## \*dish up  1.**提供；娓娓道来：**  
+## \*dish up
+1.**提供；娓娓道来：**  
 
  > Familyfun magazine dishes up these and more interesting activities in over 180 colorful pages.  
  > 《家庭娱乐》杂志用180多页彩页把这些内容和更多有趣的活动娓娓道来。  
@@ -5667,7 +5724,7 @@ discoverer /dɪ'skʌvərə(r)/ n
 ---
 ##### 题目  
 Making Chinese______ (dish) is seen as especially troublesome.   
-来源：2018 浙江  
+##### 来源：2018 浙江  
 ##### 答案 dishes  
   
 
@@ -5877,7 +5934,8 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 固定搭配
 ---
-## \*on display  1.**展出 (on show)：**  
+## \*on display
+1.**展出 (on show)：**  
 
  > Jane paused in front of a counter where some attractive ties were on display.  
  > 简在一个柜台前停了下来，柜台上面展示着一些好看的领带。  
@@ -6012,25 +6070,28 @@ Making Chinese______ (dish) is seen as especially troublesome.
 
 固定搭配
 ---
-## \*at / from a distance  1.**有相当距离：**  
+## \*at / from a distance
+1.**有相当距离：**  
 
  > The picture looks beautiful at a distance.  
  > 那幅画远看显得很美。  
 
-## \*in / into the distance   1.**在远处：**  
+## \*in / into the distance 
+1.**在远处：**  
 
  > Farther in the distance, I could enjoy the view of snowy mountains.  
  > 往远处看，我可以欣赏白雪皑皑的群山。  
  > 来源：2015 浙江  
 
-## \*keep one’s distance  1.**保持距离　**  
+## \*keep one’s distance
+1.**保持距离　**  
 
 
 真题解析
 ---
 ##### 题目  
 The faces of four famous American presidents on Mount Rushmore can be seen ________ a distance of 60 miles.  
-来源：2004 全国改  
+##### 来源：2004 全国改  
 ##### 答案 at / from  
   
 
@@ -6385,7 +6446,7 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 ---
 ##### 题目  
 There is much work to do, so we’ll have to ________ (分) it between us.  
-来源：2008 陕西  
+##### 来源：2008 陕西  
 ##### 答案 divide  
   
 
@@ -6530,7 +6591,7 @@ A.doesn’t it
 B.does it  
 C.don’t they  
 D.do they  
-来源：2011 上海  
+##### 来源：2011 上海  
 ##### 答案 B  
   
 
@@ -6600,7 +6661,8 @@ D.do they
 
 固定搭配
 ---
-## \*be / have to do with  1.*高义频：* **关于；与……有关：**  
+## \*be / have to do with
+1.*高义频：* **关于；与……有关：**  
 
  > I'm sorry about the accident, but it is / has nothing to do with me.  
  > 对这次事故我感到很抱歉，但此事与我毫无关系。  
@@ -6609,12 +6671,14 @@ D.do they
  > 我们如何理解事物与我们的感觉有很大关系。  
  > 来源：2015 北京  
 
-## \*do away with  1.*高义频：* **废除：**  
+## \*do away with
+1.*高义频：* **废除：**  
 
  > They did away with the law.  
  > 他们废除了那项法律。  
 
-## \*do up  1.*高义频：* **包起来；捆；修缮；打扮：**  
+## \*do up
+1.*高义频：* **包起来；捆；修缮；打扮：**  
 
  > Do up a parcel.  
  > 捆包裹。  
@@ -6626,7 +6690,8 @@ D.do they
  > She did herself up for the dinner.  
  > 她打扮起来参加宴会。  
 
-## \*do with  1.*高义频：* **处置；（使）度过时间：**  
+## \*do with
+1.*高义频：* **处置；（使）度过时间：**  
 
  > **what to do with**  
  > David’s biggest headache is what to do with his money.  
@@ -6637,7 +6702,8 @@ D.do they
  > She didn’t know what to do with herself after she retired.  
  > 退休后她不知道该怎么打发时间。  
 
-## \*do without  1.*高义频：* **没有…也行；将就：**  
+## \*do without
+1.*高义频：* **没有…也行；将就：**  
 
  > I don’t have any sugar so you’ll have to do without.  
  > 我没有糖了，所以你只好将就一下。  
@@ -6651,12 +6717,12 @@ A.didn’t
 B.don’t  
 C.weren’t  
 D. haven’t  
-来源：2015 湖南  
+##### 来源：2015 湖南  
 ##### 答案 B  
   
 ##### 题目  
 During the war there was a serious lack of food. It was not unusual that even the wealthy families had to do ________ bread for days.  
-来源：2009 湖北改  
+##### 来源：2009 湖北改  
 ##### 答案 without  
   
 
@@ -6906,7 +6972,8 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 固定搭配
 ---
-## \*(from) door to door  1.**挨家挨户地：**  
+## \*(from) door to door
+1.**挨家挨户地：**  
 
  > On the ﬁrst day of the Spring Festival, most families go out to say greetings from door to door.  
  > 春节第一天，大多数家庭挨家挨户去拜年。  
@@ -6988,7 +7055,8 @@ During the war there was a serious lack of food. It was not unusual that even th
 
 固定搭配
 ---
-## \*on the dot  1.**[非正式用语] 准时地**  
+## \*on the dot
+1.**[非正式用语] 准时地**  
 
 
 # ***\*double*** v
@@ -7136,12 +7204,14 @@ Notes: 在这个结构中，从属连词that引导同位语从 句，说明名�
 
 固定搭配
 ---
-## \*in doubt  1.**不确定；拿不准：**  
+## \*in doubt
+1.**不确定；拿不准：**  
 
  > The future of the peace talks is in doubt.  
  > 和谈前途未卜。  
 
-## \*no doubt  1.**无疑；很可能：**  
+## \*no doubt
+1.**无疑；很可能：**  
 
  > No doubt you will have your own ideas.  
  > 你很可能会有自己的观点。  
@@ -7149,7 +7219,8 @@ Notes: 在这个结构中，从属连词that引导同位语从 句，说明名�
  > Charging entrance fees will no doubt keep some people away.  
  > 收门票无疑会把一些人拒之门外。  
 
-## \*without / beyond doubt  1.**毫无疑问；的确：**  
+## \*without / beyond doubt
+1.**毫无疑问；的确：**  
 
  > Without doubt, the number of jobs in information technology will multiply.   
  > 毫无疑问，信息技术方面的工作会大大增加。  
@@ -7316,7 +7387,7 @@ Notes: 从首都去边远地区、从城市去农村、从北方去南方、从�
 ---
 ##### 题目  
 I’m happy that my 80-year-old grandma has learned how to ________ (下载) from the Internet.  
-来源：2014 陕西  
+##### 来源：2014 陕西  
 ##### 答案 download  
   
 
@@ -7347,7 +7418,7 @@ I’m happy that my 80-year-old grandma has learned how to ________ (下载) fro
 ---
 ##### 题目  
 Rose rushed ________ (向楼下) to answer the door.   
-来源：2008 全国  
+##### 来源：2008 全国  
 ##### 答案 downstairs  
   
 
@@ -7465,7 +7536,8 @@ Rose rushed ________ (向楼下) to answer the door.
 
 固定搭配
 ---
-## \*dozens of  1.**很多：**  
+## \*dozens of
+1.**很多：**  
 
  > The hurricane blew away dozens of farming villages and brought down thousands of trees.  
  > 飓风刮走了很多村庄，刮倒了数千棵树。  
@@ -7559,7 +7631,8 @@ She went to the bookstore and bought dozens ________ books.
 
 固定搭配
 ---
-## \*drag one’s feet  1.**做事拖拉；迟迟不做：**  
+## \*drag one’s feet
+1.**做事拖拉；迟迟不做：**  
 
  > It is not a good idea to drag your feet when the work needs to be done.  
  > 拖延需要完成的工作不好。  
@@ -7692,12 +7765,14 @@ Notes: draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘
 
 固定搭配
 ---
-## \*draw in  1.**(火车等) 进站：**  
+## \*draw in
+1.**(火车等) 进站：**  
 
  > The train drew in at 7:53.   
  > 火车7点53分进站。  
 
-## \*draw near / closer  1.**接近；靠近：**  
+## \*draw near / closer
+1.**接近；靠近：**  
 
  > Christmas is drawing near.  
  > 圣诞节就要来了。  
@@ -7706,7 +7781,8 @@ Notes: draw指用铅笔、钢笔、蜡笔等素描或绘画； paint指使用绘
  > 随着春节的临近，人们将举办丰富多彩的庆祝活动。  
  > 来源：2009 山东书面表达  
 
-## \*draw out   1.*高义频：* **拖延；拉长：**  
+## \*draw out 
+1.*高义频：* **拖延；拉长：**  
 
 
 # ***\*draw*** n  重难点词汇
@@ -7870,12 +7946,12 @@ dreamer /'driːmə(r)/ n
 ---
 ##### 题目  
 My uncle says that he never dreams becoming rich in a short period of time.  
-来源：2016 全国 改错  
+##### 来源：2016 全国 改错  
 ##### 答案 dreams 后加 of  
   
 ##### 题目  
 Owning a house of their own is a _______ (梦想) for the young couple.   
-来源：2009 陕西  
+##### 来源：2009 陕西  
 ##### 答案 dream  
   
 
@@ -7914,9 +7990,11 @@ Owning a house of their own is a _______ (梦想) for the young couple.
 
 固定搭配
 ---
-## \*dress down  1.*高义频：* **（比平时）穿着随便**  
+## \*dress down
+1.*高义频：* **（比平时）穿着随便**  
 
-## \*dress up   1.**(给…) 穿上盛装；(给…) 乔装打扮：**  
+## \*dress up 
+1.**(给…) 穿上盛装；(给…) 乔装打扮：**  
 
  > dress up for the wedding   
  > 穿上盛装参加婚礼  
@@ -8041,9 +8119,11 @@ Notes: “喝水”要说drink water；用汤匙“喝汤”要 说eat soup，�
 
 固定搭配
 ---
-## \*drink sb’s health  1.**为某人的健康干杯**  
+## \*drink sb’s health
+1.**为某人的健康干杯**  
 
-## \*drink to sb / sth  1.**为某人 / 某事干杯：**  
+## \*drink to sb / sth
+1.**为某人 / 某事干杯：**  
 
  > Let's drink to your success in your new job.  
  > 让我们为你在新工作中取得成功而干杯。  
@@ -8111,7 +8191,8 @@ drinker /'drɪŋkə(r)/ n
 
 固定搭配
 ---
-## \*drive away   1.**驱车离开；赶跑**  
+## \*drive away 
+1.**驱车离开；赶跑**  
 
  > After two and a half years, the mother drove the young panda away.  
  > 两年半后，熊猫妈妈把小熊猫赶跑了。  
@@ -8196,13 +8277,15 @@ drinker /'drɪŋkə(r)/ n
 
 固定搭配
 ---
-## \*drop by  1.**顺便访问：**  
+## \*drop by
+1.**顺便访问：**  
 
  > **2009 天津**  
  > Why don’t you drop by my house sometime?  
  > 你为什么不找个时间顺便到我家坐坐呢？  
 
-## \*drop in  1.**顺便走访：**  
+## \*drop in
+1.**顺便走访：**  
 
  > Please drop in any time you like.   
  > 欢迎随时来。  
@@ -8211,7 +8294,8 @@ drinker /'drɪŋkə(r)/ n
  > 你明晚顺便来和我们谈谈好吗？  
 
 Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop in at some place”。  
-## \*drop off [非正式用语]  1.*低义频：* **睡着；打盹 (fall asleep)：**  
+## \*drop off [非正式用语]
+1.*低义频：* **睡着；打盹 (fall asleep)：**  
 
  > I dropped off and missed the end of the film.   
  > 我打了个盹,错过了电影的结尾。  
@@ -8231,7 +8315,8 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 我把公共汽车停在路边，好让那个小女孩下车。  
  > 来源：2012 全国改  
 
-## \*drop out (of)   1.**不参与；退学：**  
+## \*drop out (of) 
+1.**不参与；退学：**  
 
  > Her injuries forced her to drop out of the competition.  
  > 伤病迫使她退出了比赛。  
@@ -8244,7 +8329,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
 ---
 ##### 题目  
 Joe Jones, the eldest of the eight children, had to ________ （退学）high school at the age of 16 to help his father on the farm.  
-来源：2004 上海春改  
+##### 来源：2004 上海春改  
 ##### 答案 drop out of  
   
 
@@ -8421,11 +8506,14 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 
 固定搭配
 ---
-## \*dry off   1.**(使) 变干；(把…) 弄干**  
+## \*dry off 
+1.**(使) 变干；(把…) 弄干**  
 
-## \*dry out  1.**(使) 完全变干；干透**  
+## \*dry out
+1.**(使) 完全变干；干透**  
 
-## \*dry up  1.**(河流、湖泊等) 干涸：**  
+## \*dry up
+1.**(河流、湖泊等) 干涸：**  
 
  > Over the centuries, the water dried up.  
  > 经过几个世纪，水完全干了。  
@@ -8529,7 +8617,8 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 
 固定搭配
 ---
-## \*due to  1.**由于；因为：**  
+## \*due to
+1.**由于；因为：**  
 
  > The town was cut off from the rest of the world due to heavy snow.  
  > 由于暴雪，这个小镇与外界隔绝了。  
@@ -8686,7 +8775,8 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 
 固定搭配
 ---
-## \*(as) dry as dust  1.**枯燥无味的；渴死人的：**  
+## \*(as) dry as dust
+1.**枯燥无味的；渴死人的：**  
 
  > “You’re a very silly person,” the figure in the doorway said, his voice dry as dust.  
  > “你真是个蠢人！”门口那人说，声音干巴巴的。  
@@ -8777,13 +8867,15 @@ Joe Jones, the eldest of the eight children, had to ________ （退学）high sc
 
 固定搭配
 ---
-## \*do one’s duty  1.**尽自己的责任：**  
+## \*do one’s duty
+1.**尽自己的责任：**  
 
  > The parents had done their duty.  
  > 那对父母尽了自己的责任。  
  > 来源：2017 全国  
 
-## \*on / off duty  1.**值 / 下班；值 / 不值勤：**  
+## \*on / off duty
+1.**值 / 下班；值 / 不值勤：**  
 
  > He goes on duty at 8 am and comes off duty at 5 pm.  
  > 他上午8点上班，下午5点下班。  

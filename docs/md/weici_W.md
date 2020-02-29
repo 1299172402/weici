@@ -123,13 +123,15 @@
 
 固定搭配
 ---
-## \*be waiting  1.**(某物) 已准备好可供使用：**  
+## \*be waiting
+1.**(某物) 已准备好可供使用：**  
 
  > **is waiting for**  
  > The car is waiting for us.  
  > 车已为我们备好。  
 
-## \*can’t wait  1.**急切地；迫不及待地：**  
+## \*can’t wait
+1.**急切地；迫不及待地：**  
 
  > **couldn’t wait to**  
  > When winter arrived the kids couldn’t wait to go skating.  
@@ -238,7 +240,8 @@
 
 固定搭配
 ---
-## \*walk up (to)  1.**走近**  
+## \*walk up (to)
+1.**走近**  
 
 
 # ***\*walk*** n
@@ -274,7 +277,8 @@
 
 固定搭配
 ---
-## \*a walk of life  1.**行业；职业；社会阶层(background)：**  
+## \*a walk of life
+1.**行业；职业；社会阶层(background)：**  
 
  > **from all walks of life**  
  > Our volunteers include people from all walks of life.  
@@ -432,13 +436,15 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
 固定搭配
 ---
-## \*at war (with)  1.**(与…) 交战：**  
+## \*at war (with)
+1.**(与…) 交战：**  
 
  > This was a time when the two countries were at war.  
  > 此时正值两国交战之际。  
  > 来源：人教② – 1  
 
-## \*declare war on  1.**对…宣战**  
+## \*declare war on
+1.**对…宣战**  
 
 
 # ***\*ward*** n
@@ -513,7 +519,8 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
 固定搭配
 ---
-## \*warm up  1.**(使) 暖起来；(使) 兴奋起来：**  
+## \*warm up
+1.**(使) 暖起来；(使) 兴奋起来：**  
 
  > Have a cup of coffee to warm you up.  
  > 喝杯咖啡暖暖身子。  
@@ -619,7 +626,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ---
 ##### 题目  
 My father warned me ________ going to the West Coast because it was crowded with tourists.  
-来源：2010 天津改  
+##### 来源：2010 天津改  
 ##### 答案 against  
   
 
@@ -689,15 +696,18 @@ My father warned me ________ going to the West Coast because it was crowded with
 
 固定搭配
 ---
-## \*wash away  1.**冲掉；洗掉；消除…的影响：**  
+## \*wash away
+1.**冲掉；洗掉；消除…的影响：**  
 
  > **washed,away**  
  > The flood washed some of the houses away in the town.  
  > 洪水冲走了镇上的一些房屋。  
 
-## \*wash off  1.**洗掉；洗去**  
+## \*wash off
+1.**洗掉；洗去**  
 
-## \*wash up  1.**(BrE) 洗餐具；(AmE) 洗手或洗脸：**  
+## \*wash up
+1.**(BrE) 洗餐具；(AmE) 洗手或洗脸：**  
 
  > It’s your turn to wash up today.  
  > 今天轮到你洗碗。  
@@ -783,7 +793,7 @@ My father warned me ________ going to the West Coast because it was crowded with
 ---
 ##### 题目  
 Keep in mind that it is a shame to ________ (浪费) food.  
-来源：2014 陕西  
+##### 来源：2014 陕西  
 ##### 答案 waste  
   
 
@@ -820,7 +830,7 @@ Keep in mind that it is a shame to ________ (浪费) food.
 ##### 题目  
 — He says that my new car is ________ (浪费钱).
 — Don’t you think those words are just sour grapes?  
-来源：2009 山东改  
+##### 来源：2009 山东改  
 ##### 答案 a waste of money  
   
 
@@ -897,13 +907,15 @@ Keep in mind that it is a shame to ________ (浪费) food.
 
 固定搭配
 ---
-## \*watch out(for)  1.**当心 (…)；注意 (…)：**  
+## \*watch out(for)
+1.**当心 (…)；注意 (…)：**  
 
  > Watch out for the step here.  
  > 当心，这里有台阶。  
  > 来源：译林③ – 1  
 
-## \*watch over  1.**[正式用语] 保护；监视；照管：**  
+## \*watch over
+1.**[正式用语] 保护；监视；照管：**  
 
  > Could you watch over my clothes while I have a swim?  
  > 我游泳的时候你能帮我看着衣服吗？  
@@ -935,12 +947,14 @@ Keep in mind that it is a shame to ________ (浪费) food.
 
 固定搭配
 ---
-## \*keep watch (for)  1.**看守；警惕：**  
+## \*keep watch (for)
+1.**看守；警惕：**  
 
  > He kept watch for the teacher as the students ran around the room.  
  > 当同学们在教室追逐嬉闹的时候，他总是望风，注意看老师来了没有。  
 
-## \*on watch  1.**守望；值班：**  
+## \*on watch
+1.**守望；值班：**  
 
  > He was standing there on watch.  
  > 他正站在那儿值班。  
@@ -1003,7 +1017,8 @@ Keep in mind that it is a shame to ________ (浪费) food.
 
 固定搭配
 ---
-## \*hold water  1.**(容器等) 盛得住水；(论点等) 站得住脚**  
+## \*hold water
+1.**(容器等) 盛得住水；(论点等) 站得住脚**  
 
 
 # ***\*watercolour*** n
@@ -1217,7 +1232,8 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
 
 固定搭配
 ---
-## \*all the way  1.**一直；自始至终；完全地：**  
+## \*all the way
+1.**一直；自始至终；完全地：**  
 
  > The girls climbed down the tree and ran all the way to the riverside.  
  > 女孩们从树上爬下来，一路跑向河边。  
@@ -1225,9 +1241,11 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
  > I’m with you all the way.  
  > 我完全支持你。  
 
-## \*by the way  1.**顺便说；顺便一提**  
+## \*by the way
+1.**顺便说；顺便一提**  
 
-## \*by way of  1.**经由；通过…方法：**  
+## \*by way of
+1.**经由；通过…方法：**  
 
  > He flew to America by way of Hong Kong.  
  > 他坐飞机经香港去美国。  
@@ -1235,7 +1253,8 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
  > Children often learn reading by way of pictures.  
  > 孩子们通常看图识字。  
 
-## \*give way (to)  1.**让步 (于)；屈服 (于)：**  
+## \*give way (to)
+1.**让步 (于)；屈服 (于)：**  
 
  > give way to pressure  
  > 在压力下让步  
@@ -1248,12 +1267,14 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
  > 电影院逐渐被新兴的网络和手机所取代。  
  > 来源：2017 江苏书面表达  
 
-## \*in a way  1.**在某种程度上：**  
+## \*in a way
+1.**在某种程度上：**  
 
  > In a way, I’m glad you made that mistake, for it’ll serve as a warning to you.  
  > 在某种程度上说，你犯了那个错误我倒感到高兴，因为它会为你敲响警钟。  
 
-## \*in no way  1.**一点儿也不；决不：**  
+## \*in no way
+1.**一点儿也不；决不：**  
 
  > I am in no way to blame.   
  > 我一点错也没有。  
@@ -1261,7 +1282,8 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
  > In no way can we allow this to continue.   
  > 我们决不能容忍这样的事情继续下去。  
 
-## \*in the / sb’s way  1.**挡某人的道；妨碍某人：**  
+## \*in the / sb’s way
+1.**挡某人的道；妨碍某人：**  
 
  > Nothing is to stand in my way.   
  > 没有什么能阻挡我。  
@@ -1269,12 +1291,14 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
  > Although I thought I was helping my parents prepare dinner, I was only in the way.   
  > 虽然我认为自己是在帮父母准备饭菜，但实际上只是碍手碍脚。  
 
-## \*keep / stay out of sb’s way  1.**避开某人：**  
+## \*keep / stay out of sb’s way
+1.**避开某人：**  
 
  > Let’s keep out of her way while she is in such a bad mood.  
  > 她心情这样不好的时候咱们避开她吧。  
 
-## \*no way  1.**不可能；决不；不行：**  
+## \*no way
+1.**不可能；决不；不行：**  
 
  > — I think you should phone Jenny and say sorry to her.  
  > 我认为你应该打电话向珍妮道歉。  
@@ -1286,7 +1310,8 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
  > There's no way we could afford that sort of money.  
  > 我们无论如何都花不起那种钱。  
 
-## \*out of the way  1.**不挡道；不碍事：**  
+## \*out of the way
+1.**不挡道；不碍事：**  
 
  > As he walked on, Pierre moved out of the way for him to pass.  
  > 当他往前走的时候，皮埃尔让开路让他过去。  
@@ -1300,7 +1325,7 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
 ---
 ##### 题目  
 Mrs. Smith finds it hard to clear up the mess, as her children are always ________ the way whenever she tries to.  
-来源：2013 福建改  
+##### 来源：2013 福建改  
 ##### 答案 in  
   
 ##### 题目  
@@ -1393,7 +1418,7 @@ weakly /'wiːkli/ adv
 ---
 ##### 题目  
 We should know our own strengths and ________ (弱点) and think what could be done about them.  
-来源：2009 陕西  
+##### 来源：2009 陕西  
 ##### 答案 weaknesses  
   
 
@@ -1478,9 +1503,11 @@ We should know our own strengths and ________ (弱点) and think what could be d
 
 固定搭配
 ---
-## \*wear off  1.**逐渐减少；逐渐消失**  
+## \*wear off
+1.**逐渐减少；逐渐消失**  
 
-## \*wear out  1.*高义频：* **穿破；磨损：**  
+## \*wear out
+1.*高义频：* **穿破；磨损：**  
 
  > My old boots are worn out.  
  > 我的旧靴子穿破了。  
@@ -1499,7 +1526,7 @@ We should know our own strengths and ________ (弱点) and think what could be d
 ---
 ##### 题目  
 Mother always complains that children ________ (穿破) their shoes very quickly.  
-来源：2013 江西改  
+##### 来源：2013 江西改  
 ##### 答案 wear out  
   
 
@@ -1903,7 +1930,7 @@ The w________ in the hills can change very quickly, so take suitable clothes.
 ---
 ##### 题目  
 Brown stood at the door, ________ (欢迎) newcomers with a large smile.  
-来源：2009 陕西  
+##### 来源：2009 陕西  
 ##### 答案 welcoming  
   
 
@@ -1945,7 +1972,8 @@ Brown stood at the door, ________ (欢迎) newcomers with a large smile.
 
 固定搭配
 ---
-## \*you’re welcome  1.**别客气；不用谢**  
+## \*you’re welcome
+1.**别客气；不用谢**  
 
 
 # ***\*welcome*** int  重难点词汇
@@ -2043,12 +2071,14 @@ welcoming /'welkəmɪŋ/ adj
 
 固定搭配
 ---
-## \*as well  1.**也；还：**  
+## \*as well
+1.**也；还：**  
 
  > I’ll do some reading for fun, and for knowledge as well.   
  > 我会读点书，既可以消遣，也可以学点知识。  
 
-## \*as well as  1.*高义频：* **与...一样好：**  
+## \*as well as
+1.*高义频：* **与...一样好：**  
 
  > I wish I could speak English as well as he can.  
  > 我希望自己英语讲得跟他一样好。  
@@ -2073,7 +2103,8 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > The teacher as well as his students is going to plant trees tomorrow.  
  > 明天不但学生们去植树，老师也去。  
 
-## \*may / might (just) as well do sth   1.*高义频：* **做某事也无妨：**  
+## \*may / might (just) as well do sth 
+1.*高义频：* **做某事也无妨：**  
 
  > Since we haven’t gone very far, we might just as well  turn around to get the map.   
  > 既然我们还没走远，我们不妨返回去取地图。  
@@ -2084,12 +2115,12 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ---
 ##### 题目  
 The famous musician, as well as his students, _______ (invite) to perform at the opening ceremony of the 2012 Taipei Flower Expo.   
-来源：2013 福建改  
+##### 来源：2013 福建改  
 ##### 答案 was invited  
   
 ##### 题目  
 This training program can give you a lift at work, as good as increase your income by 40%.  
-来源：2012 四川改 改错  
+##### 来源：2012 四川改 改错  
 ##### 答案 good → well  
   
 
@@ -2382,12 +2413,14 @@ westerner /'westənə(r)/ n [C]
 
 固定搭配
 ---
-## \*(and) what is more  1.**还有；而且：**  
+## \*(and) what is more
+1.**还有；而且：**  
 
  > Natural gas is a very efficient fuel. And what’s more, it is clean.   
  > 天然气是一种很高效的燃料，而且是清洁的。  
 
-## \*what (…) for   1.**为什么：**  
+## \*what (…) for 
+1.**为什么：**  
 
  > His mother told him to put on his hat. “What for?” he asked.   
  > 他母亲让他戴上帽子。“带帽子干什么？”他问道。  
@@ -2395,7 +2428,8 @@ westerner /'westənə(r)/ n [C]
  > What did you do that for?   
  > 你为什么要那么做呢？  
 
-## \*what if   1.**如果…会怎样：**  
+## \*what if 
+1.**如果…会怎样：**  
 
  > What if the train is late?   
  > 火车要是晚点怎么办？  
@@ -2405,32 +2439,32 @@ westerner /'westənə(r)/ n [C]
 ---
 ##### 题目  
 My classmates and I are talking about how to do during the holiday.  
-来源：2016 全国 改错  
+##### 来源：2016 全国 改错  
 ##### 答案 how → what 或during前加it  
   
 ##### 题目  
 A ship in harbor is safe, but that’s not _______ ships are built for.   
-来源：2015 安徽改  
+##### 来源：2015 安徽改  
 ##### 答案 what  
   
 ##### 题目  
 Reading her biography, I was lost in admiration for _______ Doris Lessing had achieved in literature.   
-来源：2015 陕西改  
+##### 来源：2015 陕西改  
 ##### 答案 what  
   
 ##### 题目  
 If you swim in a river or lake, be sure to investigate _______ is below the water surface. Often there are rocks or branches hidden in the water.   
-来源：2015 浙江改  
+##### 来源：2015 浙江改  
 ##### 答案 what  
   
 ##### 题目  
 ________ I want to tell you is the deep love and respect I have for my parents.  
-来源：2013 天津改  
+##### 来源：2013 天津改  
 ##### 答案 What  
   
 ##### 题目  
 _______ a strange plant! I’ve never seen it before.   
-来源：2011 辽宁改  
+##### 来源：2011 辽宁改  
 ##### 答案 What  
   
 
@@ -2490,7 +2524,8 @@ _______ a strange plant! I’ve never seen it before.
 
 固定搭配
 ---
-## \*or whatever   1.**或诸如此类的东西：**  
+## \*or whatever 
+1.**或诸如此类的东西：**  
 
  > I can share with her our traveling experiences, taking care of pets, or whatever we have in common.   
  > 我可以跟她分享我们的旅行经历，怎样照顾宠物或任何我们有共同之处的事情。  
@@ -2504,7 +2539,7 @@ A.whatever
 B.whenever  
 C.wherever  
 D.however  
-来源：2014 北京  
+##### 来源：2014 北京  
 ##### 答案 A  
   
 ##### 题目  
@@ -2514,7 +2549,7 @@ A.whichever
 B.however  
 C.whatever  
 D.whoever  
-来源：2010 浙江  
+##### 来源：2010 浙江  
 ##### 答案 C  
   
 ##### 题目  
@@ -2523,7 +2558,7 @@ A.whatever
 B.wherever  
 C.whenever  
 D.however  
-来源：2008 全国  
+##### 来源：2008 全国  
 ##### 答案 A  
   
 ##### 题目  
@@ -2532,7 +2567,7 @@ A.However the weather is like
 B.However is the weather like  
 C.Whatever is the weather like  
 D.Whatever the weather is like  
-来源：2007 上海春  
+##### 来源：2007 上海春  
 ##### 答案 D  
   
 
@@ -2636,12 +2671,12 @@ D.Whatever the weather is like
 ---
 ##### 题目  
 Exactly ________ the potato was introduced into Europe is uncertain, but it was probably around 1565.  
-来源：2014 全国改  
+##### 来源：2014 全国改  
 ##### 答案 when  
   
 ##### 题目  
 As the smallest child of his family, Alex is always longing for the time _______ he should be able to be independent.   
-来源：2015 陕西改  
+##### 来源：2015 陕西改  
 ##### 答案 when  
   
 
@@ -2694,12 +2729,12 @@ Notes: 此时主句的时态通常是过去完成时、过去进 行时或含有
 ---
 ##### 题目  
 It was April 29, 2011 _______ Prince William and Kate Middleton walked into the palace hall of the wedding ceremony.   
-来源：2011 福建改  
+##### 来源：2011 福建改  
 ##### 答案 when  
   
 ##### 题目  
 She had just finished her homework ________ her mother asked her to practise playing the piano yesterday.  
-来源：2009 福建改  
+##### 来源：2009 福建改  
 ##### 答案 when  
   
 
@@ -2725,7 +2760,7 @@ She had just finished her homework ________ her mother asked her to practise pla
 ---
 ##### 题目  
 The last time we had great fun was ________ we were visiting the Water Park.  
-来源：2008 天津改  
+##### 来源：2008 天津改  
 ##### 答案 when  
   
 
@@ -2760,7 +2795,7 @@ A.Whatever
 B.Whenever  
 C.Whoever  
 D.However  
-来源：2013 山东  
+##### 来源：2013 山东  
 ##### 答案 B  
   
 ##### 题目  
@@ -2769,7 +2804,7 @@ A.whenever
 B.whatever  
 C.wherever  
 D.however  
-来源：2012 上海  
+##### 来源：2012 上海  
 ##### 答案 A  
   
 
@@ -2836,27 +2871,27 @@ Notes: 先行词为表示抽象地点概念的名词case, situation, position, s
 ---
 ##### 题目  
 My uncle is the owner of a restaurant close to that I live.  
-来源：2016全国 改错  
+##### 来源：2016全国 改错  
 ##### 答案 that → where  
   
 ##### 题目  
  ________he once felt like giving up, he now has the determination to push further and keep on going.  
-来源：2015 安徽改  
+##### 来源：2015 安徽改  
 ##### 答案 Where  
   
 ##### 题目  
 Opposite is St. Paul’s Church, ________ you can hear some lovely music.  
-来源：2015 北京改  
+##### 来源：2015 北京改  
 ##### 答案 where  
   
 ##### 题目  
 The boss of the company is trying to create an easy atmosphere ________ his employees enjoy their work.  
-来源：2015 天津改  
+##### 来源：2015 天津改  
 ##### 答案 where  
   
 ##### 题目  
 You have to know ________ you’re going if you are to plan the best way of getting there.  
-来源：2015 湖南改  
+##### 来源：2015 湖南改  
 ##### 答案 where  
   
 
@@ -2958,7 +2993,7 @@ A.whatever
 B.whoever  
 C.wherever  
 D.whichever  
-来源：2013 江苏  
+##### 来源：2013 江苏  
 ##### 答案 C  
   
 
@@ -3030,17 +3065,17 @@ Notes: whether 的以上用法中，只有引导宾语从句时可以与if 互�
 ---
 ##### 题目  
 It remains to be seen ________ the newly formed committee’s policy can be put into practice.  
-来源：2013 陕西改  
+##### 来源：2013 陕西改  
 ##### 答案 whether / if  
   
 ##### 题目  
 Everyone in the village is very friendly. It doesn’t matter ________ you have lived there for a short or a long time.  
-来源：2012 湖南改  
+##### 来源：2012 湖南改  
 ##### 答案 whether  
   
 ##### 题目  
 All people, ________ they are old or young, rich or poor, have been trying their best to help those in need since the disaster.  
-来源：2008 重庆改  
+##### 来源：2008 重庆改  
 ##### 答案 whether  
   
 
@@ -3096,17 +3131,17 @@ All people, ________ they are old or young, rich or poor, have been trying their
 ---
 ##### 题目  
 Scientists have advanced many theories about why human beings cry tears, none of ________ has been proved.  
-来源：2016 浙江改  
+##### 来源：2016 浙江改  
 ##### 答案 which  
   
 ##### 题目  
 China Today attracts a worldwide readership, ________ shows that more and more people all over the world want to learn about China.  
-来源：2015 福建改  
+##### 来源：2015 福建改  
 ##### 答案 which  
   
 ##### 题目  
 Creating an atmosphere ________ which employees fell part of a team is a big challenge.  
-来源：2015 浙江改  
+##### 来源：2015 浙江改  
 ##### 答案 in  
   
 ##### 题目  
@@ -3115,7 +3150,7 @@ A.when
 B.where   
 C.why   
 D.which  
-来源：2014 安徽  
+##### 来源：2014 安徽  
 ##### 答案 D  
   
 
@@ -3169,7 +3204,7 @@ A.whatever
 B.whichever  
 C.whenever  
 D.wherever  
-来源：2012 陕西  
+##### 来源：2012 陕西  
 ##### 答案 B  
   
 
@@ -3199,7 +3234,7 @@ A.Whoever
 B.Whatever  
 C.whichever  
 D.Wherever  
-来源：2013 江西  
+##### 来源：2013 江西  
 ##### 答案 C  
   
 
@@ -3245,12 +3280,12 @@ D.Wherever
 ##### 题目  
 Give your body and brain a rest by stepping outside for________ while, exercising, or doing something you enjoy.
   
-来源：2016 全国  
+##### 来源：2016 全国  
 ##### 答案 a  
   
 ##### 题目  
 ________ (尽管) the students came from different countries, they got along quite well in the summer camp.  
-来源：2015 福建改  
+##### 来源：2015 福建改  
 ##### 答案 While / Although / Though  
   
 ##### 题目  
@@ -3259,12 +3294,12 @@ A.since
 B.if  
 C.as  
 D.while  
-来源：2013 全国  
+##### 来源：2013 全国  
 ##### 答案 D  
   
 ##### 题目  
 Mary made coffee ________ her guests were finishing their meal.  
-来源：2010 全国改  
+##### 来源：2010 全国改  
 ##### 答案 while  
   
 
@@ -3369,7 +3404,7 @@ Mary made coffee ________ her guests were finishing their meal.
 ---
 ##### 题目  
 What are you girls ________ (耳语) about?  
-来源：2012 全国  
+##### 来源：2012 全国  
 ##### 答案 whispering  
   
 ##### 题目  
@@ -3497,17 +3532,17 @@ Notes: who还可用于强调句型 it is / was ... who ...，此时被强调部�
 ---
 ##### 题目  
 Happiness and success often come to those ________ are good at recognizing their own strengths.  
-来源：2013 湖南改  
+##### 来源：2013 湖南改  
 ##### 答案 who  
   
 ##### 题目  
 After the flooding, people were suffering in that area, ________ urgently needed clean water, medicine and shelter to survive.  
-来源：2012 江苏改  
+##### 来源：2012 江苏改  
 ##### 答案 who  
   
 ##### 题目  
 How much one enjoys himself travelling depends largely on ________ he goes with, whether his friends or relatives.  
-来源：2010 四川改  
+##### 来源：2010 四川改  
 ##### 答案 who / whom  
   
 
@@ -3547,7 +3582,7 @@ A.who
 B.whom  
 C.whoever  
 D.whomever  
-来源：2012 福建  
+##### 来源：2012 福建  
 ##### 答案 C  
   
 ##### 题目  
@@ -3556,7 +3591,7 @@ A.whoever
 B.wherever  
 C.Whatever  
 D.however  
-来源：2012 山东  
+##### 来源：2012 山东  
 ##### 答案 A  
   
 ##### 题目  
@@ -3565,7 +3600,7 @@ A.who
 B.whomever  
 C.no matter who  
 D.whoever  
-来源：2009 陕西  
+##### 来源：2009 陕西  
 ##### 答案 D  
   
 
@@ -3609,12 +3644,14 @@ D.whoever
 
 固定搭配
 ---
-## \*as a whole   1.**总体上：**  
+## \*as a whole 
+1.**总体上：**  
 
  > We must consider these matters as a whole.  
  > 我们必须全盘考虑这些事。  
 
-## \*on the whole   1.**总的看来；总体而言：**  
+## \*on the whole 
+1.**总的看来；总体而言：**  
 
  > On the whole the warming of the earth is a phenomenon that causes great concern.  
  > 总的说来，地球变暖是一个引起极大关注的现象。  
@@ -3666,22 +3703,22 @@ D.whoever
 ---
 ##### 题目  
 Many young people, most of ________ were well-educated, headed for remote regions to chase their dreams.  
-来源：2016 江苏改  
+##### 来源：2016 江苏改  
 ##### 答案 whom  
   
 ##### 题目  
 Have you sent thank-you notes to the relatives from ________ you received gifts?  
-来源：2012 上海改  
+##### 来源：2012 上海改  
 ##### 答案 whom  
   
 ##### 题目  
 In our class there are 46 students, ________ whom half wear glasses.  
-来源：2012 四川改  
+##### 来源：2012 四川改  
 ##### 答案 of  
   
 ##### 题目  
 She brought with her three friends, none of ________ I had ever met before.  
-来源：2009 全国改  
+##### 来源：2009 全国改  
 ##### 答案 whom  
   
 
@@ -3725,17 +3762,17 @@ She brought with her three friends, none of ________ I had ever met before.
 ---
 ##### 题目  
 I live next door to a couple ________ children often make a lot of noise.  
-来源：2016 北京改  
+##### 来源：2016 北京改  
 ##### 答案 whose  
   
 ##### 题目  
 The books on the desk, ________ covers are shiny, are prizes for us.  
-来源：2015 四川改  
+##### 来源：2015 四川改  
 ##### 答案 whose  
   
 ##### 题目  
 I wish to thank Professor Smith, without ________ help I would never have got this far.  
-来源：2012 天津改  
+##### 来源：2012 天津改  
 ##### 答案 whose  
   
 
@@ -3770,7 +3807,8 @@ I wish to thank Professor Smith, without ________ help I would never have got th
 
 固定搭配
 ---
-## \*why not  1.*高义频：* **为什么不：**  
+## \*why not
+1.*高义频：* **为什么不：**  
 
  > Why not buy a book or some pencils?  
  > 为什么不买本书或一些铅笔呢？  
@@ -3784,7 +3822,8 @@ I wish to thank Professor Smith, without ________ help I would never have got th
  > — Why not?   
  > 好啊！  
 
-## \*Why sb?  1.**为什么是某人？**  
+## \*Why sb?
+1.**为什么是某人？**  
 
 
 真题解析
@@ -3792,13 +3831,13 @@ I wish to thank Professor Smith, without ________ help I would never have got th
 ##### 题目  
 — Let’s go to the New Year’s Eve party, shall we?
 — ________ (为什么不)? I guess it will be fun.  
-来源：2015 陕西改  
+##### 来源：2015 陕西改  
 ##### 答案 Why not  
   
 ##### 题目  
 — Jim, can you work this Sunday?
 — ________(为什么是我)?  I’ve been working for two weeks on end.  
-来源：2015 江苏改  
+##### 来源：2015 江苏改  
 ##### 答案 Why me  
   
 ##### 题目  
@@ -3807,13 +3846,13 @@ A.where
 B.why  
 C.what  
 D.which  
-来源：2015 四川改  
+##### 来源：2015 四川改  
 ##### 答案 B  
   
 ##### 题目  
 — Is it true that Mike refused an offer from Yale University yesterday?
 — Yeah, but I have no idea ________ he did it; that’s one of his favorite universities.  
-来源：2014 重庆改  
+##### 来源：2014 重庆改  
 ##### 答案 why  
   
 
@@ -3948,7 +3987,7 @@ widen /'waɪdn/ v
 ---
 ##### 题目  
 China Daily is ________ (广泛地) read in North America.  
-来源：2009 陕西  
+##### 来源：2009 陕西  
 ##### 答案 widely  
   
 
@@ -4121,12 +4160,14 @@ wildly /'waɪldli/ adv
 
 固定搭配
 ---
-## \*against one’s will   1.**不情愿地；违心地：**  
+## \*against one’s will 
+1.**不情愿地；违心地：**  
 
  > I was forced to sign the agreement against my will.  
  > 我被迫违心地在协议上签了字。  
 
-## \*at will   1.**随意地；随心所欲地：**  
+## \*at will 
+1.**随意地；随心所欲地：**  
 
  > They could travel at will, and the clock was not their master.   
  > 他们能随意旅行，不受时间支配。  
@@ -4179,7 +4220,7 @@ A.shouldn’t
 B.couldn’t  
 C.wouldn’t  
 D.mightn’t  
-来源：2013 全国  
+##### 来源：2013 全国  
 ##### 答案 C  
   
 ##### 题目  
@@ -4188,7 +4229,7 @@ D.mightn’t
 A.I did  
 B.I do  
 C.I shall  
-来源：2012 四川改  
+##### 来源：2012 四川改  
 ##### 答案 will  
   
 ##### 题目  
@@ -4197,7 +4238,7 @@ C.I shall
 B.don’t  
 C.will  
 D.do  
-来源：2006 重庆改  
+##### 来源：2006 重庆改  
 ##### 答案 won’t  
   
 
@@ -4459,7 +4500,8 @@ winding  /winding/ adj
 
 固定搭配
 ---
-## \*wipe out   1.**去除；消灭；摧毁：**  
+## \*wipe out 
+1.**去除；消灭；摧毁：**  
 
  > A volcanic eruption nearly wiped out the small island of Montserrat in 1997.   
  > 1997年的一次火山喷发差点把蒙塞拉特这个小岛给毁灭了。  
@@ -4601,12 +4643,12 @@ winding  /winding/ adj
 ---
 ##### 题目  
 Ellen is a fantastic dancer. I wish I ________ (dance) as well as her.  
-来源：2015 陕西改  
+##### 来源：2015 陕西改  
 ##### 答案 danced  
   
 ##### 题目  
 I wish I ________ (be) at my sister’s wedding last Tuesday, but I was on a business trip in New York then.  
-来源：2015 天津改  
+##### 来源：2015 天津改  
 ##### 答案 had been  
   
 
@@ -4737,12 +4779,12 @@ Notes: “with＋名词＋不定式 / 动词-ing / 过去分词 / 介词短语�
 ---
 ##### 题目  
 In India, for example, most people traditionally eat ________ their hands.  
-来源：2016 全国  
+##### 来源：2016 全国  
 ##### 答案 with  
   
 ##### 题目  
 The Scottish girl ________ blue eyes won the first prize in the Fifth Chinese Speech Contest.  
-来源：2014 陕西改  
+##### 来源：2014 陕西改  
 ##### 答案 with  
   
 ##### 题目  
@@ -4751,12 +4793,12 @@ A.by
 B.of   
 C.with   
 D.from  
-来源：2009 北京  
+##### 来源：2009 北京  
 ##### 答案 C  
   
 ##### 题目  
 You have no idea how she finished the relay race ________her foot wounded so much.  
-来源：2008 福建改  
+##### 来源：2008 福建改  
 ##### 答案 with  
   
 
@@ -4827,7 +4869,7 @@ It saves time in the kitchen to have things you use a lot ________easy reach.
 A.near  
 B.upon  
 D.around  
-来源：2009 山东改  
+##### 来源：2009 山东改  
 ##### 答案 within   
   
 
@@ -4855,7 +4897,7 @@ A.against
 B.before  
 C.beyond   
 D.without  
-来源：2013 全国  
+##### 来源：2013 全国  
 ##### 答案 D  
   
 ##### 题目  
@@ -4864,7 +4906,7 @@ A.For
 B.Without   
 C.Beneath   
 D.By  
-来源：2012 上海  
+##### 来源：2012 上海  
 ##### 答案 B  
   
 
@@ -4884,7 +4926,8 @@ D.By
 
 固定搭配
 ---
-## \*be (a) witness to  1.**是…的目击者；是…的见证人**  
+## \*be (a) witness to
+1.**是…的目击者；是…的见证人**  
 
 
 # ***\*witness*** vt
@@ -4972,7 +5015,8 @@ D.By
 
 固定搭配
 ---
-## \*I wonder if / whether  1.**[礼貌的请求] (我) 不知是否 (I was wondering if / whether)：**  
+## \*I wonder if / whether
+1.**[礼貌的请求] (我) 不知是否 (I was wondering if / whether)：**  
 
  > I wonder if you can help me.  
  > 不知你是否能帮我。  
@@ -5013,7 +5057,8 @@ D.By
 
 固定搭配
 ---
-## \*(it is) no wonder (that)  1.**不足为奇：**  
+## \*(it is) no wonder (that)
+1.**不足为奇：**  
 
  > With all these attractions, no wonder tourism is increasing wherever there is a Disneyland.   
  > 有这些引人入胜的东西，难怪哪里有迪斯尼乐园，哪里的旅游业就会发展起来。  
@@ -5199,34 +5244,40 @@ A.
 
 固定搭配
 ---
-## \*break one’s word   1.**失信；食言：**  
+## \*break one’s word 
+1.**失信；食言：**  
 
  > He has broken his word so many times that I cannot trust him any more.  
  > 他经常食言，我再也不能相信他了。  
 
-## \*have a word with   1.**与…谈一谈：**  
+## \*have a word with 
+1.**与…谈一谈：**  
 
  > Where is Peter? I want to have a word with him.   
  > 彼得在哪儿？我想跟他谈一谈。  
 
-## \*have words with   1.**与…争论：**  
+## \*have words with 
+1.**与…争论：**  
 
  > I was very angry and had words with him over money.   
  > 我很生气，和他就钱的事吵了起来。  
 
-## \*in a word   1.**总之；简言之；一句话：**  
+## \*in a word 
+1.**总之；简言之；一句话：**  
 
  > In a word, good listening can really enable us to get closer to each other.  
  > 总之，认真倾听确实能使我们拉近彼此的距离。  
  > 来源：2008 江苏书面表达  
 
-## \*in other words  1.**也就是说；换句话说：**  
+## \*in other words
+1.**也就是说；换句话说：**  
 
  > In other words, English weather-speak is a means of social bonding.  
  > 换句话说，在英国谈论天气是一种社交手段。  
  > 来源：2013 重庆  
 
-## \*keep one’s word   1.**遵守诺言：**  
+## \*keep one’s word 
+1.**遵守诺言：**  
 
  > She said she would be there at seven o’ clock, and he thought she would keep her word.   
  > 她说她7点钟到，他以为她不会食言。  
@@ -5286,12 +5337,14 @@ A.
 
 固定搭配
 ---
-## \*work on   1.**从事于；致力于：**  
+## \*work on 
+1.**从事于；致力于：**  
 
  > He has spent the last two years working on a book about childcare.   
  > 两年来他一直致力于撰写一本关于育儿的书。  
 
-## \*work out  1.*高义频：* **算出 (calculate)；总共达：**  
+## \*work out
+1.*高义频：* **算出 (calculate)；总共达：**  
 
  > I’m just trying to work out how much I spend each month.   
  > 我正在尽力算出我每月的开销。  
@@ -5330,7 +5383,7 @@ A.
 ---
 ##### 题目  
 I had as much fun sailing the seas as I now do ________ (work) with students.  
-来源：2016 浙江改  
+##### 来源：2016 浙江改  
 ##### 答案 working  
   
 ##### 题目  
@@ -5339,12 +5392,12 @@ A.worked
 B.has been working  
 C.had worked  
 D.has worked  
-来源：2015 陕西改  
+##### 来源：2015 陕西改  
 ##### 答案 B  
   
 ##### 题目  
 You can’t predict everything. Often things don’t work ________as you expect.  
-来源：2011 江西改  
+##### 来源：2011 江西改  
 ##### 答案 out  
   
 
@@ -5384,7 +5437,8 @@ You can’t predict everything. Often things don’t work ________as you expect.
 
 固定搭配
 ---
-## \*at work   1.**在工作；在运转：**  
+## \*at work 
+1.**在工作；在运转：**  
 
  > I was at work when I got a phone call.   
  > 我工作时接到一个电话。  
@@ -5392,7 +5446,8 @@ You can’t predict everything. Often things don’t work ________as you expect.
  > The machine is at work.   
  > 这台机器正在运转。  
 
-## \*out of work   1.**失业 (unemployed)：**  
+## \*out of work 
+1.**失业 (unemployed)：**  
 
  > I was worried about whether I would be out of work.  
  > 我担心自己是否会丢掉工作。  
@@ -5515,7 +5570,8 @@ working /'wɜːkɪŋ/ n [常用复数]
 
 固定搭配
 ---
-## \*in the world  1.*高义频：* **[强调最高级] 在全世界：**  
+## \*in the world
+1.*高义频：* **[强调最高级] 在全世界：**  
 
  > I have the greatest job in the world.  
  > 我拥有世界上最好的工作。  
@@ -5593,7 +5649,8 @@ working /'wɜːkɪŋ/ n [常用复数]
 
 固定搭配
 ---
-## \*worn out   1.**破旧的；筋疲力尽的(exhausted)：**  
+## \*worn out 
+1.**破旧的；筋疲力尽的(exhausted)：**  
 
  > It’s a very old watch and is quite worn out.   
  > 这是一块旧表，破旧不堪。  
@@ -5710,7 +5767,7 @@ worrying /'wʌriɪŋ/ adj
 ---
 ##### 题目  
 It looks like the weather is changing ________ the worse . Shall we stick to our plan?   
-来源：2008 辽宁  
+##### 来源：2008 辽宁  
 ##### 答案 for  
   
 
@@ -5732,7 +5789,8 @@ It looks like the weather is changing ________ the worse . Shall we stick to our
 
 固定搭配
 ---
-## \*worse and worse   1.**越来越坏；每况愈下：**  
+## \*worse and worse 
+1.**越来越坏；每况愈下：**  
 
  > The weather is getting worse and worse.   
  > 天气变得越来越坏。  
@@ -5750,7 +5808,8 @@ It looks like the weather is changing ________ the worse . Shall we stick to our
 
 固定搭配
 ---
-## \*for the worse   1.**向更坏的方向：**  
+## \*for the worse 
+1.**向更坏的方向：**  
 
  > The sick man’s condition changed for the worse.   
  > 这位病人的病情恶化了。  
@@ -5945,7 +6004,7 @@ worthless /'wɜːθləs/ adj
 ---
 ##### 题目  
 Mistakes don’t just happen; they occur for a reason. Find out the reason, and then making the mistake becomes ________ (值得的).   
-来源：2010 湖北改  
+##### 来源：2010 湖北改  
 ##### 答案 worthwhile  
   
 
@@ -6039,7 +6098,7 @@ Mistakes don’t just happen; they occur for a reason. Find out the reason, and 
 ---
 ##### 题目  
 Without his wartime experiences, Hemingway ________ (不会写出) his famous novel A Farewell to Arms.  
-来源：2015 重庆改  
+##### 来源：2015 重庆改  
 ##### 答案 wouldn’t have written  
   
 ##### 题目  
@@ -6048,12 +6107,12 @@ A.might
 B.must   
 C.would   
 D.should  
-来源：2014 四川  
+##### 来源：2014 四川  
 ##### 答案 C  
   
 ##### 题目  
 They were abroad during the months when we were carrying out the investigation, or they ________(come) to our help.  
-来源：2014 浙江改  
+##### 来源：2014 浙江改  
 ##### 答案 would have come  
   
 ##### 题目  
@@ -6062,7 +6121,7 @@ A.mustn’t
 B.shouldn’t   
 C.wouldn’t   
 D.mightn’t  
-来源：2012 江苏  
+##### 来源：2012 江苏  
 ##### 答案 C  
   
 ##### 题目  
@@ -6291,12 +6350,14 @@ wrestling  /'reslɪŋ/ n [U]
 
 固定搭配
 ---
-## \*write back   1.**回信：**  
+## \*write back 
+1.**回信：**  
 
  > I received his letter two weeks ago, but I forgot to write back.  
  > 我两星期前收到了他的信，但忘了给他回信。  
 
-## \*write down   1.**写下；记下：**  
+## \*write down 
+1.**写下；记下：**  
 
  > I wrote down new words and added them to my collection.   
  > 我记下新单词，加入到我自己的词汇表里。  
@@ -6310,7 +6371,7 @@ writer  /'raɪtə(r)/ n [C]
 ---
 ##### 题目  
 The article was w ________in German and translated into Chinese.   
-来源：2005 浙江  
+##### 来源：2005 浙江  
 ##### 答案 written  
   
 
@@ -6391,7 +6452,8 @@ The article was w ________in German and translated into Chinese.
 
 固定搭配
 ---
-## \*What’s wrong with …?  1.**…怎么了？**  
+## \*What’s wrong with …?
+1.**…怎么了？**  
 
  > I don’t know what’s wrong with the engine.   
  > 我不知道引擎出了什么问题。  

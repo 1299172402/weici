@@ -100,18 +100,21 @@
 
 固定搭配
 ---
-## \*all (the) year round   1.**一年到头：**  
+## \*all (the) year round 
+1.**一年到头：**  
 
  > The Antarctic is covered with snow and ice all year round.   
  > 南极地区终年被冰雪覆盖。  
  > 来源：北师大③ – 7  
 
-## \*year after year   1.**年复一年：**  
+## \*year after year 
+1.**年复一年：**  
 
  > Year after year he had to work hard to get out of debt.   
  > 年复一年，为了还债他不得不拼命工作。  
 
-## \*year by year   1.**年年；逐年：**  
+## \*year by year 
+1.**年年；逐年：**  
 
  > Year by year my father became weaker.   
  > 我父亲的身体一年比一年差。  
@@ -299,7 +302,7 @@ A.yet
 B.still  
 C.even   
 D.thus  
-来源：2012 浙江  
+##### 来源：2012 浙江  
 ##### 答案 A  
   
 
@@ -340,7 +343,8 @@ Notes: 在肯定句中用still或already。
 
 固定搭配
 ---
-## \*not yet  1.**还没：**  
+## \*not yet
+1.**还没：**  
 
  > — Are you ready?   
  > 准备好了吗？  
@@ -354,7 +358,7 @@ Notes: 在肯定句中用still或already。
 ##### 题目  
 — Have you finished your first paper?
 — ________ (还没有). Just half of it, how about you?  
-来源：2009 陕西改  
+##### 来源：2009 陕西改  
 ##### 答案 Not yet  
   
 
