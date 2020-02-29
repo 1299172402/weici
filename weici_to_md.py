@@ -62,7 +62,7 @@ def gy_example(t): #18417
         while b[-1]==' ':
             b=b[:-1]
         print(' > **'+b+'**  ',file=f)
-    print(' > *'+t['english']+'*  ',file=f)
+    print(' > '+t['english']+'  ',file=f)
     if t['source']!='' : print(' > '+t['chinese']+'  （'+t['source']+'）  ',file=f)
     if t['source']=='' : print(' > '+t['chinese']+'  '+t['source']+'  ',file=f)
     print(file=f)
