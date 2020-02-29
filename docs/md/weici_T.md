@@ -38,7 +38,7 @@
 
 固定搭配
 ---
-## <font color=#0099ff>\*at table </font>
+<font color=#0099ff>## \*at table </font>
 1.**在进餐；进餐时：**  
 
  > *It’s not acceptable to talk with food in mouth at table. *  
@@ -311,13 +311,13 @@
 
 固定搭配
 ---
-## <font color=#0099ff>\*take apart </font>
+<font color=#0099ff>## \*take apart </font>
 1.**拆开：**  
 
  > *The old man saw some Germans taking apart the Amber Room and removing it. *  
  > 老人看到一些德国人把琥珀屋拆掉后搬走了。  （人教② – 1）  
 
-## <font color=#0099ff>\*take away </font>
+<font color=#0099ff>## \*take away </font>
 1.**拿走；带走；使消失：**  
 
  > *Mom! Robby took away my cake! *  
@@ -329,7 +329,7 @@
  > *I was given some pills to take away the pain. *  
  > 给我开了些止疼药片。    
 
-## <font color=#0099ff>\*take back </font>
+<font color=#0099ff>## \*take back </font>
 1.**退回；收回：**  
 
  > *If the shirt doesn’t fit, take it back. *  
@@ -338,7 +338,7 @@
  > *I’ll take back what I just said. *  
  > 我要收回刚才说的话。    
 
-## <font color=#0099ff>\*take down </font>
+<font color=#0099ff>## \*take down </font>
 1.**取下；记下；拆除：**  
 
  > *take the curtains down *  
@@ -350,7 +350,7 @@
  > *The house I grew up in has been taken down and replaced by an office building. *  
  > 我小时候住的那所房子已被拆除，取而代之的是一座办公楼。  （2009 江西）  
 
-## <font color=#0099ff>\*take in</font>
+<font color=#0099ff>## \*take in</font>
 1.*高义频：* **吸入；收留：**  
 
  > *Trees take in carbon dioxide and give out oxygen. *  
@@ -369,7 +369,7 @@
  > *She took me in completely with her story. *  
  > 她用一番花言巧语完全把我骗住了。    
 
-## <font color=#0099ff>\*take off</font>
+<font color=#0099ff>## \*take off</font>
 1.*高义频：* **脱下 (衣、帽等)**  
 反义词 put on： 
 
@@ -393,7 +393,7 @@
  > *Many businesses started up by college students have taken off thanks to the comfortable climate for business creation.*  
  > 由于良好的创业环境，大学生开办的许多公司已有起色。  （2016 江苏）  
 
-## <font color=#0099ff>\*take on </font>
+<font color=#0099ff>## \*take on </font>
 1.**呈现；雇用；接受 (工作); 承担 (责任)：**  
 
  > *Shortly after suffering from a massive earthquake and being reduced to ruins, the city took on a new look. *  
@@ -405,7 +405,7 @@
  > *His secretary will have to take on most of his work while he’s gone. *  
  > 秘书会在他不在的时候接手他大部分的工作。  （2010 湖南改）  
 
-## <font color=#0099ff>\*take out</font>
+<font color=#0099ff>## \*take out</font>
 1.*高义频：* **取出；拿出：**  
 
  > *The doctor took out five of John’s teeth. *  
@@ -422,7 +422,7 @@
  > *Each morning Stevenson would take his family out for a walk over the hills.  *  
  > 每天清晨，史蒂文森都会带着全家去山上散步。  （2009 全国改）  
 
-## <font color=#0099ff>\*take over </font>
+<font color=#0099ff>## \*take over </font>
 1.**接收；接管：**  
 
  > *take over the job as a manager *  
@@ -431,7 +431,7 @@
  > *Would you like me to take over the driving for a while? *  
  > 我替你开会儿车怎么样？    
 
-## <font color=#0099ff>\*take to </font>
+<font color=#0099ff>## \*take to </font>
 1.**[不用于被动语态] 开始从事；喜欢上； 养成…的习惯：**  
 
  > *He gave up medicine and took to literature. *  
@@ -440,7 +440,7 @@
  > *I’ve taken to getting up at 6 and going jogging. *  
  > 我养成了6点起床去慢跑的习惯。    
 
-## <font color=#0099ff>\*take up </font>
+<font color=#0099ff>## \*take up </font>
 1.**(尤指为消遣) 学着做；开始做**  
 
  > *After he retired from office, Rogers took up painting for a while, but soon lost interest.*  
@@ -584,13 +584,13 @@ talented /'tæləntɪd/ adj
  > *We talked music all night.*  
  > 我们整夜谈论音乐。    
 
-## <font color=#0099ff>\*talk ... into / out of (doing) sth</font>
+<font color=#0099ff>## \*talk ... into / out of (doing) sth</font>
 1.**说服某人做 / 不做某事：**  
 
  > *I didn’t want to move abroad but Bill talked me into it.*  
  > 我本不想移居国外，但是比尔把我说服了。    
 
-## <font color=#0099ff>\*talk over</font>
+<font color=#0099ff>## \*talk over</font>
 1.**详细讨论：**  
 
  > *Sometimes I act as a listening ear for fellow students to talk over what is bothering them.*  
@@ -1117,7 +1117,7 @@ talker /'tɔːkə(r)/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*teach sb a lesson</font>
+<font color=#0099ff>## \*teach sb a lesson</font>
 1.**给某人一个教训**  
 
 
@@ -1241,13 +1241,13 @@ talker /'tɔːkə(r)/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*tear down</font>
+<font color=#0099ff>## \*tear down</font>
 1.**扯下；拆毁：**  
 
  > *Tear down the dangerous wall as soon as possible, or sometime it may fall down and injure your family.*  
  > 尽早拆除这堵危墙，否则不知什么时候它会倒塌并伤到你的家人。    
 
-## <font color=#0099ff>\*tear up</font>
+<font color=#0099ff>## \*tear up</font>
 1.**撕碎；拔起：**  
 
  > *He tore up the letter as soon as he had read it.*  
@@ -1757,13 +1757,13 @@ D.cautious
 
 固定搭配
 ---
-## <font color=#0099ff>\*tend to / toward(s) sth</font>
+<font color=#0099ff>## \*tend to / toward(s) sth</font>
 1.*高义频：* **倾向于；有...的趋势：**  
 
  > *The sort of music I listen to varies, but it tends toward light music.*  
  > 我所听的音乐形形色色，不过一般都是轻音乐。    
 
-## <font color=#0099ff>\*tend to do sth</font>
+<font color=#0099ff>## \*tend to do sth</font>
 1.*高义频：* **易于做某事；往往会做某事**  
 英译 to usually do or be sth：
 
@@ -1996,7 +1996,7 @@ tentatively /'tentətɪvli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*in the long / short term</font>
+<font color=#0099ff>## \*in the long / short term</font>
 1.**从长远 / 眼前看**  
 
 
@@ -2048,13 +2048,13 @@ tentatively /'tentətɪvli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*in terms of</font>
+<font color=#0099ff>## \*in terms of</font>
 1.**从…方面来讲；就…而言：**  
 
  > *In terms of size and population, how big is the European Union compared with China?*  
  > 与中国相比，欧盟的面积和人口规模如何？  （外研③ – 2）  
 
-## <font color=#0099ff>\*be on good terms with</font>
+<font color=#0099ff>## \*be on good terms with</font>
 1.**与…关系好：**  
 
  > *We were on good terms with everyone in the village.*  
@@ -2359,22 +2359,22 @@ terrorist /'terərɪst/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*more than</font>
+<font color=#0099ff>## \*more than</font>
 1.**见 more**  
 
-## <font color=#0099ff>\*no more than</font>
+<font color=#0099ff>## \*no more than</font>
 1.**见 more**  
 
-## <font color=#0099ff>\*no other than</font>
+<font color=#0099ff>## \*no other than</font>
 1.**见 other**  
 
-## <font color=#0099ff>\*no sooner ... than</font>
+<font color=#0099ff>## \*no sooner ... than</font>
 1.**见soon**  
 
-## <font color=#0099ff>\*other than</font>
+<font color=#0099ff>## \*other than</font>
 1.**见 other**  
 
-## <font color=#0099ff>\*would rather ... (than)</font>
+<font color=#0099ff>## \*would rather ... (than)</font>
 1.**见 rather**  
 
 
@@ -2396,7 +2396,7 @@ terrorist /'terərɪst/ n
  > *I’d like to thank her in my speech for all her support.*  
  > 我想在演讲中对她的所有支持表示感谢。    
 
-## <font color=#0099ff>\*have sb to thank (for)</font>
+<font color=#0099ff>## \*have sb to thank (for)</font>
 1.**(因…) 感谢某人：**  
 
  > *Anyone who has ever been helped by a social worker has Jane Addams to thank.*  
@@ -2429,7 +2429,7 @@ D.No, you needn’t
 
 固定搭配
 ---
-## <font color=#0099ff>\*thanks to</font>
+<font color=#0099ff>## \*thanks to</font>
 1.**幸亏；由于：**  
 
  > *Thanks to his help, my speech was so successful that everyone cheered for me.*  
@@ -2592,7 +2592,7 @@ thankfully /'θæŋkfəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*in that</font>
+<font color=#0099ff>## \*in that</font>
 1.**在…这一点上；因为：**  
 
  > *We all long for sincere friendship in that it can deeply influence our lives.*  
@@ -2967,7 +2967,7 @@ thankfully /'θæŋkfəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*in theory</font>
+<font color=#0099ff>## \*in theory</font>
 1.**理论上：**  
 
  > *It sounds fine in theory, but will it work?*  
@@ -3039,13 +3039,13 @@ thankfully /'θæŋkfəli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*over there</font>
+<font color=#0099ff>## \*over there</font>
 1.**在那里：**  
 
  > *Who is the man standing over there?*  
  > 站在那边的那个人是谁？    
 
-## <font color=#0099ff>\*be (always) there (for sb)</font>
+<font color=#0099ff>## \*be (always) there (for sb)</font>
 1.**[口语] 给予支持或援助：**  
 
  > *My father was always there for me with good advice.*  
@@ -3282,7 +3282,7 @@ thickness /'θɪknəs/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*for one thing …, for another (thing) …</font>
+<font color=#0099ff>## \*for one thing …, for another (thing) …</font>
 1.**首先 …， 再者…：**  
 
  > *For one thing, reading literary books help to improve my writing skills and broaden my horizons. For another, they can enrich my life.*  
@@ -3344,19 +3344,19 @@ thickness /'θɪknəs/ n
 
 固定搭配
 ---
-## <font color=#0099ff>\*think about</font>
+<font color=#0099ff>## \*think about</font>
 1.**思考；考虑：**  
 
  > *Changing the way you think about yourself is the key to changing your self-image.*  
  > 改变审视自我的方式是改变自我形象的关键。  （2008 广东改）  
 
-## <font color=#0099ff>\*think highly of</font>
+<font color=#0099ff>## \*think highly of</font>
 1.**对…高度评价：**  
 
  > *We should think highly of him, because he always put others’ interest first.*  
  > 我们应该对他高度评价，因为他总是把别人的利益放在首位。    
 
-## <font color=#0099ff>\*think of</font>
+<font color=#0099ff>## \*think of</font>
 1.*高义频：* **考虑；关心：**  
 
  > *I’m thinking of taking a trip during the Christmas holidays.*  
@@ -3376,7 +3376,7 @@ thickness /'θɪknəs/ n
  > *Many people thought of Mr Jackson for the president.*  
  > 许多人认为杰克逊先生适合做总裁。    
 
-## <font color=#0099ff>\*think of ... as ...</font>
+<font color=#0099ff>## \*think of ... as ...</font>
 1.**把…看作…；认为…是…：**  
 
  > *I thought of reading as natural as breathing.*  
@@ -3385,13 +3385,13 @@ thickness /'θɪknəs/ n
  > *I think of him as a happy person with many friends.*  
  > 我认为他是个快乐的、有许多朋友的人。    
 
-## <font color=#0099ff>\*think over</font>
+<font color=#0099ff>## \*think over</font>
 1.**仔细考虑：**  
 
  > *I’ll think over your suggestions, and let you know my decision in a day or two.*  
  > 我会慎重考虑你的建议，并在一两天内把我的决定告诉你。    
 
-## <font color=#0099ff>\*think up</font>
+<font color=#0099ff>## \*think up</font>
 1.**想出：**  
 
  > *I wish I could think up some ways of convincing them of their mistakes.*  
@@ -3684,7 +3684,7 @@ D.was he though
 
 固定搭配
 ---
-## <font color=#0099ff>\*even though </font>
+<font color=#0099ff>## \*even though </font>
 1.**即使；虽然：**  
 
  > *My grandfather still plays tennis now and then, even though he’s in his nineties. *  
@@ -3772,19 +3772,19 @@ D.too
 
 固定搭配
 ---
-## <font color=#0099ff>\*at the thought of </font>
+<font color=#0099ff>## \*at the thought of </font>
 1.**一想起… (就)：**  
 
  > *She was sad at the thought of leaving the house, as it was full of so many memories. *  
  > 一想到要离开这栋房子她就难过起来，因为这里充满了很多回忆。    
 
-## <font color=#0099ff>\*have second thoughts </font>
+<font color=#0099ff>## \*have second thoughts </font>
 1.**改变主意：**  
 
  > *Had they known what was coming next, they might have had second thoughts. *  
  > 他们如果知道接下来会发生什么，就可能会改变主意了。    
 
-## <font color=#0099ff>\*without a second thought</font>
+<font color=#0099ff>## \*without a second thought</font>
 1.**立即；不假思索：**  
 
  > *He dived in after her without a second thought.*  
@@ -3828,7 +3828,7 @@ thoughtful /'θɔːtfl/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*thousands of </font>
+<font color=#0099ff>## \*thousands of </font>
 1.**大量的；成千上万的：**  
 
  > *Thousands of people left the countryside to work in the city. *  
@@ -4129,7 +4129,7 @@ D.from
 
 固定搭配
 ---
-## <font color=#0099ff>\*throw away</font>
+<font color=#0099ff>## \*throw away</font>
 1.**扔掉(throw out)；浪费 (金钱等)；放过 (机会等)：**  
 
  > *People are recycling many things which they would have thrown away in the past.*  
@@ -4141,7 +4141,7 @@ D.from
  > *This is the best chance you can have. Take it. Don’t throw it away. *  
  > 这是你最好的机会，把握住，别放过。    
 
-## <font color=#0099ff>\*throw off </font>
+<font color=#0099ff>## \*throw off </font>
 1.**扔掉；摆脱；匆匆脱掉 (衣服)：**  
 
  > *Throw off all your unpleasant memories. *  
@@ -4150,13 +4150,13 @@ D.from
  > *He threw off his coat and started work. *  
  > 他匆忙脱下外衣，开始工作。    
 
-## <font color=#0099ff>\*throw oneself into</font>
+<font color=#0099ff>## \*throw oneself into</font>
 1.**投身于；积极从事：**  
 
  > *As the vegetables started coming in, Dad threw himself into cooking.  *  
  > 当蔬菜被送来的时候，父亲全身心地投入到烹饪当中。  （2015 四川）  
 
-## <font color=#0099ff>\*throw oneself on </font>
+<font color=#0099ff>## \*throw oneself on </font>
 1.**扑倒在…上；完全依赖：**  
 
  > *I threw myself on the bed in my clothes, trying to find a few moments of sleep.  *  
@@ -4165,7 +4165,7 @@ D.from
  > *I throw myself on your support to help me with this competition. *  
  > 我就靠你来帮我赢得这场比赛了。    
 
-## <font color=#0099ff>\*throw out </font>
+<font color=#0099ff>## \*throw out </font>
 1.**抛出；扔掉(throw away)；撵走；开除：**  
 
  > *Protect the water environment consciously; don’t throw out peels, paper scraps, etc. *  
@@ -4174,7 +4174,7 @@ D.from
  > *You’ll be thrown out if you don’t pay the rent. *  
  > 如果不付房租，你就会被赶出去。    
 
-## <font color=#0099ff>\*throw up </font>
+<font color=#0099ff>## \*throw up </font>
 1.**抛起；举起：**  
 
  > *throw up one’s hands in fear *  
@@ -4418,7 +4418,7 @@ thrower /'θrəʊə(r)/ n [C]
 
 固定搭配
 ---
-## <font color=#0099ff>\*tie up </font>
+<font color=#0099ff>## \*tie up </font>
 1.**系紧；拴牢：**  
 
  > *Susan handed him the string so he could tie up the box.*  
@@ -4611,49 +4611,49 @@ tightly /'taɪtli/ adv
 
 固定搭配
 ---
-## <font color=#0099ff>\*ahead of time </font>
+<font color=#0099ff>## \*ahead of time </font>
 1.**提前；提早：**  
 
  > *Can you finish your homework ahead of time? *  
  > 你能提前做完作业吗？    
 
-## <font color=#0099ff>\*all the time </font>
+<font color=#0099ff>## \*all the time </font>
 1.**一直；始终：**  
 
  > *Opportunities are present all the time, but often they go by unnoticed. *  
  > 机会始终都在，但常常被人忽视。    
 
-## <font color=#0099ff>\*at a time </font>
+<font color=#0099ff>## \*at a time </font>
 1.**一次；同时：**  
 
  > *Wealth starts with a goal saving a dollar at a time.*  
  > 财富始于一次存一美元的目标。  （2014 浙江）  
 
-## <font color=#0099ff>\*at all times </font>
+<font color=#0099ff>## \*at all times </font>
 1.**随时；总是：**  
 
  > *No man is wise at all times. *  
  > 智者千虑，必有一失。    
 
-## <font color=#0099ff>\*(at) any time </font>
+<font color=#0099ff>## \*(at) any time </font>
 1.**任何时候；随时：**  
 
  > *Unexpected disasters can strike at any time. *  
  > 不可预料的灾难随时可能发生。    
 
-## <font color=#0099ff>\*at no time</font>
+<font color=#0099ff>## \*at no time</font>
 1.**在任何时候都不；决不：**  
 
  > *At no time during the tour was I bored.*  
  > 观光途中我从未觉得无聊过。  （译林⑧ – 3）  
 
-## <font color=#0099ff>\*at one time </font>
+<font color=#0099ff>## \*at one time </font>
 1.**一度：**  
 
  > *At one time, half the land on the Earth’s surface was covered by forest. *  
  > 曾经，地球表面的一半被森林所覆盖。  （北师大⑧ – 22）  
 
-## <font color=#0099ff>\*at the same time</font>
+<font color=#0099ff>## \*at the same time</font>
 1.**同时；但：**  
 
  > *It’s impossible to get everybody together at the same time. *  
@@ -4662,49 +4662,49 @@ tightly /'taɪtli/ adv
  > *Space travel can be so delightful but at the same time invisibly dangerous. *  
  > 太空旅行可以很令人愉快，但同时也存在无形的危险。  （2015 湖北）  
 
-## <font color=#0099ff>\*at times</font>
+<font color=#0099ff>## \*at times</font>
 1.**有时；间或：**  
 
  > *He was made to practise the piano so much that, at times, he thought about giving up. *  
  > 他被安排练琴的时间太长，有时都想放弃了。  （北师大② – 5）  
 
-## <font color=#0099ff>\*by the time </font>
+<font color=#0099ff>## \*by the time </font>
 1.**在…以前：**  
 
  > *By the time I retire I’ll finish paying for my house.*  
  > 我将在退休前付清房款。    
 
-## <font color=#0099ff>\*every time </font>
+<font color=#0099ff>## \*every time </font>
 1.**每次；每当：**  
 
  > *Our greatest glory consists not in never falling but in rising every time we fall. *  
  > 我们最值得自豪的不在于永不跌倒，而在于每次跌倒之后都站了起来。    
 
-## <font color=#0099ff>\*for the time (being) </font>
+<font color=#0099ff>## \*for the time (being) </font>
 1.**暂时；眼下：**  
 
  > *Feeling better, she decided not to worry about math for the time being. *  
  > 感觉好点后，她决定暂时不想数学的事。  （2008 天津）  
 
-## <font color=#0099ff>\*from time to time </font>
+<font color=#0099ff>## \*from time to time </font>
 1.**有时；不时：**  
 
  > *These days, Roy and I see each other from time to time, but we’re no longer close.*  
  > 最近，我和罗伊偶尔见面，但不再那么亲密了。  （外研⑥ – 3）  
 
-## <font color=#0099ff>\*have a ... time </font>
+<font color=#0099ff>## \*have a ... time </font>
 1.**过得…：**  
 
  > *I’m sure you’ll have a great time in California. *  
  > 我相信你会在加利福尼亚玩得很开心。    
 
-## <font color=#0099ff>\*in no time </font>
+<font color=#0099ff>## \*in no time </font>
 1.**立即；马上：**  
 
  > *Don’t worry. You’ll be all right in no time. *  
  > 别担心，你很快就会好起来。    
 
-## <font color=#0099ff>\*in time </font>
+<font color=#0099ff>## \*in time </font>
 1.**及时；迟早：**  
 
  > *Firemen reached the house on fire in time. *  
@@ -4713,28 +4713,28 @@ tightly /'taɪtli/ adv
  > *If you keep on, you will succeed in time. *  
  > 如果坚持下去，你迟早会成功的。    
 
-## <font color=#0099ff>\*it’s (about / high) time sb did sth </font>
+<font color=#0099ff>## \*it’s (about / high) time sb did sth </font>
 1.**是某人做事的时候了：**  
 
  > *It’s high time you cleaned your room! *  
  > 你该打扫房间了！    
 
-## <font color=#0099ff>\*on time </font>
+<font color=#0099ff>## \*on time </font>
 1.**按时；准时：**  
 
  > *You must give your homework to the teacher on time.*  
  > 你必须按时将作业交给老师。  （外研④ – 7）  
 
-## <font color=#0099ff>\*once upon a time </font>
+<font color=#0099ff>## \*once upon a time </font>
 1.**[常用于故事开头] 从前：**  
 
  > *Once upon a time there was a farmer who worked hard in the fields every day. *  
  > 从前，有个农夫每天在田里辛勤劳作。  （2005 广东）  
 
-## <font color=#0099ff>\*take your time </font>
+<font color=#0099ff>## \*take your time </font>
 1.**别着急**  
 
-## <font color=#0099ff>\*time after time / time and (time) again </font>
+<font color=#0099ff>## \*time after time / time and (time) again </font>
 1.**一再； 反复：**  
 
  > *I listened to the sentence time after time, but still can’t follow its meaning. *  
@@ -4885,7 +4885,7 @@ D.they had actually broken
 
 固定搭配
 ---
-## <font color=#0099ff>\*tire out</font>
+<font color=#0099ff>## \*tire out</font>
 1.**使精疲力竭**  
 
 
@@ -5223,7 +5223,7 @@ Notes: to还可与动词原形连用构成动词不定式。
 
 固定搭配
 ---
-## <font color=#0099ff>\*together with </font>
+<font color=#0099ff>## \*together with </font>
 1.**和：**  
 
  > *My friend Ann, together with me, is going to do field study. *  
@@ -5515,13 +5515,13 @@ D.wild
 
 固定搭配
 ---
-## <font color=#0099ff>\*all too </font>
+<font color=#0099ff>## \*all too </font>
 1.**太：**  
 
  > *Accidents like this happen all too often. *  
  > 这类事故发生得太频繁了。    
 
-## <font color=#0099ff>\*can’t / can never ... too ... </font>
+<font color=#0099ff>## \*can’t / can never ... too ... </font>
 1.**怎么…也不过分； 越…越好：**  
 
  > *— Must I turn off the gas after cooking?  *  
@@ -5645,7 +5645,7 @@ D.wild
 
 固定搭配
 ---
-## <font color=#0099ff>\*on top </font>
+<font color=#0099ff>## \*on top </font>
 1.**在上方；领先地：**  
 
  > *Stand on top and look down. *  
@@ -5654,7 +5654,7 @@ D.wild
  > *Who will come out on top, I wonder? *  
  > 我想，谁会得第一呢？  （北师大④ – 11）  
 
-## <font color=#0099ff>\*on top of </font>
+<font color=#0099ff>## \*on top of </font>
 1.**在…之上；加之：**  
 
  > *That high mountain has a tower on top of it. *  
@@ -5798,7 +5798,7 @@ D.wild
 
 固定搭配
 ---
-## <font color=#0099ff>\*in total </font>
+<font color=#0099ff>## \*in total </font>
 1.**总共；总计：**  
 
  > *In total, these astronauts have spent more than 26,000 days in space. *  
@@ -5868,7 +5868,7 @@ D.wild
 
 固定搭配
 ---
-## <font color=#0099ff>\*touch down </font>
+<font color=#0099ff>## \*touch down </font>
 1.**降落；着陆：**  
 
  > *The plane finally touched down at the airport around midday. *  
@@ -5905,31 +5905,31 @@ D.wild
 
 固定搭配
 ---
-## <font color=#0099ff>\*(be) in touch (with) </font>
+<font color=#0099ff>## \*(be) in touch (with) </font>
 1.**(与…) 有联系：**  
 
  > *Are you still in touch with your former colleagues?*  
  > 你与以前的同事还有联系吗？    
 
-## <font color=#0099ff>\*(be) out of touch (with) </font>
+<font color=#0099ff>## \*(be) out of touch (with) </font>
 1.**(与…) 不联系 / 不接触：**  
 
  > *We have been out of touch with them for about two years. *  
  > 我们大约有两年没有和他们联系了。    
 
-## <font color=#0099ff>\*get in touch (with) </font>
+<font color=#0099ff>## \*get in touch (with) </font>
 1.**(与…) 取得联系：**  
 
  > *Here’s our number if you need to get in touch with us. *  
  > 如果你需要联系我们，这是我们的号码。    
 
-## <font color=#0099ff>\*keep / stay in touch (with)</font>
+<font color=#0099ff>## \*keep / stay in touch (with)</font>
 1.**(与…) 保持联系：**  
 
  > *Keeping in touch with our friends is an important part of friendship. *  
  > 和朋友们保持联系在友谊中很重要。  （2012 湖南）  
 
-## <font color=#0099ff>\*lose touch (with) </font>
+<font color=#0099ff>## \*lose touch (with) </font>
 1.**(与…) 失去联系：**  
 
  > *I regret to say that I have lost touch with four or five friends. *  
@@ -6276,13 +6276,13 @@ toughness /tʌfnəs/ n [U]
 
 固定搭配
 ---
-## <font color=#0099ff>\*keep track of </font>
+<font color=#0099ff>## \*keep track of </font>
 1.**了解…的动态；与…保持联系：**  
 
  > *They read the newspapers every day to keep track of current events. *  
  > 他们每天阅读报纸，以了解时事。    
 
-## <font color=#0099ff>\*lose track of </font>
+<font color=#0099ff>## \*lose track of </font>
 1.**失去…的线索；与…失去联系；忘记：**  
 
  > *The police have lost track of the criminals. *  
@@ -7256,7 +7256,7 @@ D.of
 
 固定搭配
 ---
-## <font color=#0099ff>\*treat sb to </font>
+<font color=#0099ff>## \*treat sb to </font>
 1.**用…招待某人；以…款待某人：**  
 
  > **treated herself to**  
@@ -7422,7 +7422,7 @@ D.of
 
 固定搭配
 ---
-## <font color=#0099ff>\*on trial </font>
+<font color=#0099ff>## \*on trial </font>
 1.**在试用中；在受审：**  
 
  > **on trial for**  
@@ -7432,7 +7432,7 @@ D.of
  > *The clerk was employed on trial. *  
  > 那位职员在试用期中。    
 
-## <font color=#0099ff>\*trial and error </font>
+<font color=#0099ff>## \*trial and error </font>
 1.**反复试验；不断摸索：**  
 
  > *Children learn technical skills by trial and error. *  
@@ -7697,7 +7697,7 @@ D.trick
 
 固定搭配
 ---
-## <font color=#0099ff>\*get (sb) into trouble</font>
+<font color=#0099ff>## \*get (sb) into trouble</font>
 1.**(使某人) 陷入困境；(使某人) 遇到麻烦：**  
 
  > *Even an experienced climber can get into trouble.*  
@@ -7706,25 +7706,25 @@ D.trick
  > *Don’t mention my name or you’ll get me into trouble. *  
  > 别提我的名字,免得给我惹麻烦。    
 
-## <font color=#0099ff>\*keep / stay out of trouble</font>
+<font color=#0099ff>## \*keep / stay out of trouble</font>
 1.**远离麻烦：**  
 
  > *I hope Tim stays out of trouble this year. *  
  > 我希望蒂姆今年能远离麻烦。    
 
-## <font color=#0099ff>\*in trouble </font>
+<font color=#0099ff>## \*in trouble </font>
 1.**处于困境中：**  
 
  > *We should trust our friends, respect them and always be ready to help them when they are in trouble. *  
  > 我们应信任并尊重我们的朋友，在他们有困难的时候帮助他们。    
 
-## <font color=#0099ff>\*take the trouble to do sth</font>
+<font color=#0099ff>## \*take the trouble to do sth</font>
 1.**费神做某事；不辞辛劳地做某事：**  
 
  > *My parents have given me life and take all the trouble to bring me up.*  
  > 父母给了我生命并含辛茹苦地把我养大。  （2009 福建书面表达改）  
 
-## <font color=#0099ff>\*take trouble doing / to do sth</font>
+<font color=#0099ff>## \*take trouble doing / to do sth</font>
 1.**尽心尽力地做某事：**  
 
  > *The work is badly done; he didn’t take much trouble to do it.*  
@@ -7858,7 +7858,7 @@ troubled /'trʌbld/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*come true</font>
+<font color=#0099ff>## \*come true</font>
 1.**实现；成为现实：**  
 
  > *These predictions will come true if technology continues to develop.*  
@@ -7898,7 +7898,7 @@ troubled /'trʌbld/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*Yours truly</font>
+<font color=#0099ff>## \*Yours truly</font>
 1.**[用于书信结尾、签名之前] 你忠实的**  
 
 
@@ -7957,7 +7957,7 @@ troubled /'trʌbld/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*I trust (that) </font>
+<font color=#0099ff>## \*I trust (that) </font>
 1.**[口语] 我希望…：**  
 
  > *I trust that everything will go all right. *  
@@ -7997,13 +7997,13 @@ troubled /'trʌbld/ adj
 
 固定搭配
 ---
-## <font color=#0099ff>\*in truth </font>
+<font color=#0099ff>## \*in truth </font>
 1.**事实上；的确 (really)：**  
 
  > *She was laughing and chatting but not, in truth, having much fun. *  
  > 她虽然谈笑风生，但实际上并不开心。    
 
-## <font color=#0099ff>\*to tell (you) the truth </font>
+<font color=#0099ff>## \*to tell (you) the truth </font>
 1.**[口语] 老实说：**  
 
  > *To tell you the truth, I’m very worried about the final examinations next month. *  
@@ -8069,19 +8069,19 @@ Notes: 1. try doing sth 一般表示“尝试做某事”，含 有试试看的�
 
 固定搭配
 ---
-## <font color=#0099ff>\*try on </font>
+<font color=#0099ff>## \*try on </font>
 1.**试穿：**  
 
  > *I went to the tailor’s to try on my new suit.*  
  > 我去裁缝店试穿我的新衣服。    
 
-## <font color=#0099ff>\*try out </font>
+<font color=#0099ff>## \*try out </font>
 1.**试验：**  
 
  > *try out an idea *  
  > 试验一种设想    
 
-## <font color=#0099ff>\*try out for </font>
+<font color=#0099ff>## \*try out for </font>
 1.**参加…选拔 / 试演：**  
 
  > *All the students in the class tried out for the basketball match. *  
@@ -8169,7 +8169,7 @@ Notes: 1. try doing sth 一般表示“尝试做某事”，含 有试试看的�
 
 固定搭配
 ---
-## <font color=#0099ff>\*in tune </font>
+<font color=#0099ff>## \*in tune </font>
 1.**合调；协调：**  
 
  > *sing in tune *  
@@ -8178,7 +8178,7 @@ Notes: 1. try doing sth 一般表示“尝试做某事”，含 有试试看的�
  > *be in tune with the times *  
  > 跟上时代潮流    
 
-## <font color=#0099ff>\*out of tune </font>
+<font color=#0099ff>## \*out of tune </font>
 1.**走调；不协调：**  
 
  > *I have no ear for music. My singing is out of tune.*  
@@ -8200,7 +8200,7 @@ Notes: 1. try doing sth 一般表示“尝试做某事”，含 有试试看的�
 
 固定搭配
 ---
-## <font color=#0099ff>\*tune in </font>
+<font color=#0099ff>## \*tune in </font>
 1.**收听；收看：**  
 
  > *tune in to a radio station *  
@@ -8329,7 +8329,7 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
 
 固定搭配
 ---
-## <font color=#0099ff>\*turn around / round </font>
+<font color=#0099ff>## \*turn around / round </font>
 1.**转身；转变；好转：**  
 
  > *I turned around and walked out without saying a word. *  
@@ -8338,7 +8338,7 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
  > *After a year’s hard work, he had turned around a badly performing department. *  
  > 经过一年的努力，他使一个业绩糟糕的部门有了起色。    
 
-## <font color=#0099ff>\*turn away </font>
+<font color=#0099ff>## \*turn away </font>
 1.**把…转过去；把…打发走：**  
 
  > *She turned her head away, feeling too ashamed to meet his gaze. *  
@@ -8347,7 +8347,7 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
  > *Because the hall was full, many people were turned away. *  
  > 因礼堂满了，许多人被打发走了。    
 
-## <font color=#0099ff>\*turn back </font>
+<font color=#0099ff>## \*turn back </font>
 1.**(使) 往回走；改变做法：**  
 
  > *The weather became so bad that they had to turn back. *  
@@ -8357,7 +8357,7 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
  > *The people are turning back to natural resources to survive. *  
  > 人们又重新开始依靠自然资源生存。    
 
-## <font color=#0099ff>\*turn down</font>
+<font color=#0099ff>## \*turn down</font>
 1.*高义频：* **关小；调低 (音量等)：**  
 反义词 turn up 
 
@@ -8369,7 +8369,7 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
  > *How could you turn down such a fantastic job when you have been out of work for months?*  
  > 你已经好几个月没有工作了，怎么能拒绝这么好的一份工作呢？  （2014 浙江）  
 
-## <font color=#0099ff>\*turn in</font>
+<font color=#0099ff>## \*turn in</font>
 1.**上交(BrE hand in)；上缴：**  
 
  > *Turn in your papers, please. *  
@@ -8378,7 +8378,7 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
  > *She turned in the wallet she picked up on the way.*  
  > 她把在路上捡到的钱包上交了。    
 
-## <font color=#0099ff>\*turn into</font>
+<font color=#0099ff>## \*turn into</font>
 1.**(使) 变成；(使) 成为：**  
 
  > *Peter can show you how to turn an idea into an act.*  
@@ -8387,13 +8387,13 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
  > *Newly-built wooden cottages line the street, turning the old town into a dreamland.*  
  > 新建的木屋排列在街道两旁，使这座古镇变成了仙境。  （2016 北京）  
 
-## <font color=#0099ff>\*turn off </font>
+<font color=#0099ff>## \*turn off </font>
 1.**关 (水、煤气、电灯等)turn on 反 turn off：**  
 
  > *Turn off the lights when you are not in a room. *  
  > 人不在房间时把灯关掉。  （译林⑤ – 2）  
 
-## <font color=#0099ff>\*turn on</font>
+<font color=#0099ff>## \*turn on</font>
 1.*高义频：* **开 (水、煤气、电灯等)：**  
 反义词 turn off 
 
@@ -8417,7 +8417,7 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
  > *The dogs suddenly turned on each other. *  
  > 那两条狗突然撕咬起来。    
 
-## <font color=#0099ff>\*turn out</font>
+<font color=#0099ff>## \*turn out</font>
 1.*低义频：* **制造；生产；培养出：**  
 
  > *The factory turns out 900 cars a week. *  
@@ -8439,7 +8439,7 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
  > *A lot of people turned out for the party.*  
  > 许多人参加了聚会。    
 
-## <font color=#0099ff>\*turn over</font>
+<font color=#0099ff>## \*turn over</font>
 1.*高义频：* **翻身；(使) 翻转；翻过 (书页):**  
 
  > *He did not fall asleep, turning over in bed from time to time. *  
@@ -8458,7 +8458,7 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
  > *She kept turning over the events of the day in her mind. *  
  > 她脑子里不断琢磨当天发生的事。    
 
-## <font color=#0099ff>\*turn to </font>
+<font color=#0099ff>## \*turn to </font>
 1.**转向；求助于：**  
 
  > *Their talk turned to the change that had taken place in the city. *  
@@ -8467,7 +8467,7 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
  > *Please turn to the police for help when you are in trouble.  *  
  > 遇到困难请向警察求助。  （2008 上海春）  
 
-## <font color=#0099ff>\*turn up</font>
+<font color=#0099ff>## \*turn up</font>
 1.*高义频：* **开大；调高 (音量等)**  
 反义词 turn down 
 
@@ -8544,13 +8544,13 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
 
 固定搭配
 ---
-## <font color=#0099ff>\*by turns</font>
+<font color=#0099ff>## \*by turns</font>
 1.**轮流；交替：**  
 
  > *Leaving home for the first time he felt cheerful and sad by turns. *  
  > 第一次离开家，他时而高兴时而悲伤。    
 
-## <font color=#0099ff>\*in turn </font>
+<font color=#0099ff>## \*in turn </font>
 1.**依次；反过来；转而：**  
 
  > *They answered the teacher’s questions in turn. *  
@@ -8559,7 +8559,7 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
  > *The customer praised the manager, who, in turn praised his staff.  *  
  > 顾客表扬了经理，经理转而表扬了员工。  （北师大③ – 8）  
 
-## <font color=#0099ff>\*take turns </font>
+<font color=#0099ff>## \*take turns </font>
 1.**轮流；依次：**  
 
  > **took turns,in,driving**  

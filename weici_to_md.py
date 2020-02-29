@@ -85,7 +85,7 @@ def gy_biscrimination(t): #16597
             gy_example(example)
     
 def gy_fixed_collocation(t): #26462
-    print('## <font color=#0099ff>\*'+t['fixed_word']+'</font>',file=f)
+    print('<font color=#0099ff>## \*'+t['fixed_word']+'</font>',file=f)
     if len(t['gy_paraphrase']) >= 1:
         i=1
         for exam in t['gy_paraphrase']:
@@ -235,8 +235,8 @@ print('请稍后Processing。。。')
 
 #Save
 if ch.find('1')!=-1: #按小写字母输出到文件
-    i=1
-    while i<=26:  
+    i=20
+    while i<=20:  
         f = open('%s' % path_save+'\weici_'+chr(ord('A')+i-1)+'.md','w',encoding='utf-8')
         cursor = c.execute("select * from fb_word_detail order by word asc")
         print('%s' % path_save+'\weici_'+chr(ord('A')+i-1)+'.md')
