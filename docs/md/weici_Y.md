@@ -24,13 +24,13 @@
 ### 1.*高义频：* **院子；庭院：**  
 
  > a farm yard   
- > 农家院  （）  
+ > 农家院    
 
  > a yard sale   
- > (在自家院子进行的)旧货出售  （）  
+ > (在自家院子进行的)旧货出售    
 
  > We cleaned up the yard and painted the house.   
- > 我们打扫了院子，粉刷了房子。  （）  
+ > 我们打扫了院子，粉刷了房子。    
 
 ### 2.*高义频：* **[长度单位，=0.914米] 码**  
 
@@ -47,7 +47,7 @@
 ### 1.*高义频：* **哈欠：**  
 
  > He gave a yawn and then fell asleep.  
- > 他打了个哈欠，然后就睡着了。  （）  
+ > 他打了个哈欠，然后就睡着了。    
 
 
 # ***\*yawn*** vi
@@ -60,7 +60,7 @@
 ### 1.*高义频：* **打哈欠：**  
 
  > His speech made the audience yawn.   
- > 他的演讲令听众直打哈欠。  （）  
+ > 他的演讲令听众直打哈欠。    
 
 
 # ***\*yeah*** adv
@@ -87,7 +87,7 @@
 ### 2.*低义频：* **年度；学年：**  
 
  > I am in my first year at high school.   
- > 我是高中一年级学生。  （）  
+ > 我是高中一年级学生。    
 
 ### 3.*高义频：* **...岁**  
 
@@ -109,13 +109,13 @@
 1.**年复一年：**  
 
  > Year after year he had to work hard to get out of debt.   
- > 年复一年，为了还债他不得不拼命工作。  （）  
+ > 年复一年，为了还债他不得不拼命工作。    
 
 ## \*year by year 
 1.**年年；逐年：**  
 
  > Year by year my father became weaker.   
- > 我父亲的身体一年比一年差。  （）  
+ > 我父亲的身体一年比一年差。    
 
 
 # ***\*yearly*** adj
@@ -128,7 +128,7 @@
 ### 1.*高义频：* **每年的；一年一度的：**  
 
  > Mr Davis takes a yearly trip to Europe.   
- > 戴维斯先生每年去欧洲旅行一次。  （）  
+ > 戴维斯先生每年去欧洲旅行一次。    
 
 
 # ***\*yearly*** adv
@@ -141,7 +141,7 @@
 ### 1.*高义频：* **每年；一年一次地：**  
 
  > Interest is paid yearly.   
- > 利息每年支付一次。  （）  
+ > 利息每年支付一次。    
 
 
 # ***\*yell*** v
@@ -155,12 +155,12 @@
 
  > **yelled at the top of,voice**  
  > “Help me!”she yelled at the top of her voice (= very loudly).  
- > “救救我！”她声嘶力竭地喊道。  （）  
+ > “救救我！”她声嘶力竭地喊道。    
 
 - yell (sth) at sb to do sth:
 
  > He yelled at her to be careful.   
- > 他大声叫她小心。  （）  
+ > 他大声叫她小心。    
 
 
 # ***\*yell*** n
@@ -207,7 +207,7 @@
 ### 1.*高义频：* **是：**  
 
  > Answer with a yes or a no.   
- > 回答是或不是。  （）  
+ > 回答是或不是。    
 
 
 # ***\*yes*** adv
@@ -220,23 +220,23 @@
 ### 1.*高义频：* **[对肯定的问句的回答] 是；是的：**  
 
  > — Will you come?   
- > 你要来吗?  （）  
+ > 你要来吗?    
 
  > — Yes, I will.   
- > 对，我要来。  （）  
+ > 对，我要来。    
 
 ### 2.*高义频：* **[对否定的问句的回答] 不：**  
 
  > — You weren’t invited, were you?   
- > 没有邀请您，是吗？  （）  
+ > 没有邀请您，是吗？    
 
  > — Yes, I was.   
- > 不，邀请了。  （）  
+ > 不，邀请了。    
 
 ### 3.*高义频：* **[同意对方的话或对自己的话加以肯定] 对；是的：**  
 
  > Your work is good, yes, very good.   
- > 你的工作干得很好，对，干得很好。  （）  
+ > 你的工作干得很好，对，干得很好。    
 
 
 # ***\*yesterday*** adv
@@ -251,7 +251,7 @@
 ### 1.*高义频：* **昨天：**  
 
  > He arrived yesterday.   
- > 他昨天到达。  （）  
+ > 他昨天到达。    
 
 
 # ***\*yesterday*** n
@@ -267,13 +267,13 @@
 
  > **the day before yesterday**  
  > the day before yesterday  
- > 前天  （）  
+ > 前天    
 
  > yesterday morning / afternoon / evening   
- > 昨天上午/下午/晚上  （）  
+ > 昨天上午/下午/晚上    
 
  > Yesterday will not be called again.   
- > 昨日一去不复返。  （）  
+ > 昨日一去不复返。    
 
 
 # ***\*yet*** conj
@@ -286,10 +286,10 @@
 ### 1.*高义频：* **[与but相比，比较的意味较强，常与and连用] 然而；可是：**  
 
  > The story is simple yet interesting.   
- > 这个故事简单但很有趣。  （）  
+ > 这个故事简单但很有趣。    
 
  > She is a funny girl, and yet you can’t help liking her.  
- > 她是个滑稽的姑娘，可你会禁不住喜欢她。  （）  
+ > 她是个滑稽的姑娘，可你会禁不住喜欢她。    
 
 
 真题解析
@@ -302,6 +302,7 @@ D.thus
 
 答案：
 1. A  
+
 # ***\*yet*** adv
 英音 jet     美音 jet  
 
@@ -312,29 +313,29 @@ D.thus
 ### 1.*高义频：* **[用于否定句中，常置于句末以及not后] 还；尚 (没)：**  
 
  > We haven’t finished the work yet.   
- > 我们还没有完成这项工作。  （）  
+ > 我们还没有完成这项工作。    
 
 Notes: 在肯定句中用still或already。  
  > She is still young.   
- > 她还年轻。  （）  
+ > 她还年轻。    
 
  > He has already come back. 他已经回来了 。  
- >   （）  
+ >     
 
 ### 2.*高义频：* **[用于表示肯定的疑问句] 已经：**  
 
  > Have you seen the film yet?   
- > 你看过那部电影了吗？  （）  
+ > 你看过那部电影了吗？    
 
 ### 3.*低义频：* **[与if, whether从句连用] 已经：**  
 
  > I doubt if she has written the paper yet.   
- > 我怀疑她是否已经写了论文。  （）  
+ > 我怀疑她是否已经写了论文。    
 
 ### 4.*低义频：* **[用于肯定句中等于still，但有较强的感情色彩] 甚至；更：**  
 
  > I have yet more exciting news to tell you.   
- > 我还有更令人激动的消息告诉你。  （）  
+ > 我还有更令人激动的消息告诉你。    
 
 
 固定搭配
@@ -343,10 +344,10 @@ Notes: 在肯定句中用still或already。
 1.**还没：**  
 
  > — Are you ready?   
- > 准备好了吗？  （）  
+ > 准备好了吗？    
 
  > — Not yet.  
- > 还没有。  （）  
+ > 还没有。    
 
 
 真题解析
@@ -356,6 +357,7 @@ Notes: 在肯定句中用still或already。
 
 答案：
 1. Not yet  
+
 # ***\*yield*** n
 英音 jiːld     美音 jiːld  
 
@@ -400,7 +402,7 @@ Notes: 在肯定句中用still或already。
 ### 2.*高义频：* **人；任何人：**  
 
  > You have to be careful with people you don’t know.  
- > 对不认识的人要小心。  （）  
+ > 对不认识的人要小心。    
 
 
 # ***\*young*** n
@@ -413,7 +415,7 @@ Notes: 在肯定句中用still或already。
 ### 1.*高义频：* **[集合名词，常与the连用] 年轻人；青年：**  
 
  > Microbloging is popular with the young.   
- > 年轻人很喜欢发微博。  （）  
+ > 年轻人很喜欢发微博。    
 
 ### 2.*高义频：* **幼小动物；崽**  
 
@@ -429,20 +431,20 @@ Notes: 在肯定句中用still或already。
 反义词 old 
 
  > a young mother   
- > 年轻的母亲  （）  
+ > 年轻的母亲    
 
  > Young babies sleep a great deal.   
- > 幼儿睡的时间长。  （）  
+ > 幼儿睡的时间长。    
 
 ### 2.*高义频：* **新兴的；新的：**  
 
  > a young company   
- > 新兴的企业  （）  
+ > 新兴的企业    
 
 ### 3.*高义频：* **年轻有活力的；青春的：**  
 
  > She looks young for her age.   
- > 她看起来比实际年龄小。  （）  
+ > 她看起来比实际年龄小。    
 
 
 # ***\*youngster*** n
@@ -475,13 +477,13 @@ Notes: 在肯定句中用still或already。
 ### 1.*高义频：* **[名词性物主代词，可作主语、宾语、表语] 你的；你们的：**  
 
  > My hands are clean, but yours are dirty.  
- > 我的手干净，但你的(手)很脏。  （）  
+ > 我的手干净，但你的(手)很脏。    
 
  > I like my toy. I don’t like yours.   
- > 我喜欢我的玩具，我不喜欢你的(玩具)。  （）  
+ > 我喜欢我的玩具，我不喜欢你的(玩具)。    
 
  > That book is yours.   
- > 那本书是你的。  （）  
+ > 那本书是你的。    
 
 ### 2.*高义频：* **[在信末署名前与truly, faithfully, sincerely等连用] 敬上**  
 
@@ -501,7 +503,7 @@ Notes: 在肯定句中用still或already。
  > 自我形象是你内心对自己的评价。  （2008 广东）  
 
  > You yourself told me the news.   
- > 是你亲自把这消息告诉我的。  （）  
+ > 是你亲自把这消息告诉我的。    
 
 
 真题解析
@@ -510,6 +512,7 @@ Notes: 在肯定句中用still或already。
 
 答案：
 1. yourself  
+
 # ***\*youth*** n
 英音 juːθ     美音 juːθ  
 
@@ -527,13 +530,13 @@ Notes: 在肯定句中用still或already。
 ### 2.*高义频：* **[U] 青春；朝气：**  
 
  > Her face still kept its youth.   
- > 她的面容青春尤驻。  （）  
+ > 她的面容青春尤驻。    
 
 ### 3.*高义频：* **[集合名词，常与the连用] 年轻人；青年：**  
 
  > **The youth of today**  
  > The youth of today has / have greater opportunities than ever before.   
- > 现在的年轻人拥有的机会比以往任何时候都要多。  （）  
+ > 现在的年轻人拥有的机会比以往任何时候都要多。    
 
 
 # ***\*yummy*** adj

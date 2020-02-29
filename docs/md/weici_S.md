@@ -22,15 +22,15 @@
 ### 1.*低义频：* **神圣的；宗教 (性) 的：**  
 
  > the sacred Olympic flame   
- > 奥运圣火  （）  
+ > 奥运圣火    
 
  > Temples and churches are all sacred buildings.   
- > 寺庙和教堂都是宗教建筑。  （）  
+ > 寺庙和教堂都是宗教建筑。    
 
 ### 2.*低义频：* **郑重的；庄严的：**  
 
  > a sacred promise   
- > 郑重的承诺  （）  
+ > 郑重的承诺    
 
 
 # ***\*sacrifice*** vt
@@ -43,17 +43,17 @@
 ### 1.*高义频：* **牺牲；献祭：**  
 
  > He sacrificed a sheep in the temple.   
- > 他在寺庙里供奉了一只羊作祭品。  （）  
+ > 他在寺庙里供奉了一只羊作祭品。    
 
 - sacrifice sth for:
 
  > A mother will sacrifice her life for her children.   
- > 母亲会为自己的孩子奉献一生。  （）  
+ > 母亲会为自己的孩子奉献一生。    
 
 - sacrifice sth to do sth:
 
  > He sacrificed a promising career to look after his kids.   
- > 他为了照看孩子而牺牲了很有前途的事业。  （）  
+ > 他为了照看孩子而牺牲了很有前途的事业。    
 
 
 # ***\*sacrifice*** n
@@ -68,7 +68,7 @@
 ### 1.*高义频：* **牺牲；祭品：**  
 
  > offer sacrifices   
- > 供奉祭品  （）  
+ > 供奉祭品    
 
 
 # ***\*sad*** adj
@@ -82,7 +82,7 @@
 
  > **sad about**  
  > I was sad about the friends I was leaving behind.   
- > 要离开这些朋友，我感到很难过。  （）  
+ > 要离开这些朋友，我感到很难过。    
 
  > **it is,sad that**  
  > The reporter thinks it is very sad that old trees will be burnt.   
@@ -91,7 +91,7 @@
 ### 2.*低义频：* **糟透的；坏透的：**  
 
  > A sad accident happened.   
- > 发生了一起惨祸。  （）  
+ > 发生了一起惨祸。    
 
 
 # ***\*sadly*** adv
@@ -114,7 +114,7 @@
 ### 1.*高义频：* **[U] 悲伤；难过：**  
 
  > The best cure for sadness is a big smile.   
- > 治疗忧伤的一剂良药就是开怀大笑。  （）  
+ > 治疗忧伤的一剂良药就是开怀大笑。    
 
 ### 2.*低义频：* **[C] [常用复数] 使人悲伤的事**  
 
@@ -140,11 +140,11 @@
 
  > **keep a safe distance**  
  > Drivers should keep a safe distance from the car in front.   
- > 司机应该与前车保持安全距离。  （）  
+ > 司机应该与前车保持安全距离。    
 
  > **safe and sound**  
  > The missing children were found safe and sound.   
- > 失踪的孩子都安然无恙。  （）  
+ > 失踪的孩子都安然无恙。    
 
 
 # ***\*safe*** n
@@ -170,7 +170,7 @@
 
  > **safeguard sb’s interests**  
  > safeguard sb’s interests   
- > 保护某人的利益  （）  
+ > 保护某人的利益    
 
 
 # ***\*safeguard*** n
@@ -208,14 +208,14 @@
 
  > **road safety**  
  > road safety   
- > 道路安全  （）  
+ > 道路安全    
 
  > ensure the safety   
- > 确保安全  （）  
+ > 确保安全    
 
  > **in safety**  
  > They crossed the road in safety.   
- > 他们安全地穿过了马路。  （）  
+ > 他们安全地穿过了马路。    
 
 
 真题解析
@@ -224,6 +224,7 @@
 
 答案：
 1. safety  
+
 # ***\*sail*** n
 英音 seɪl     美音 seɪl  
 
@@ -234,20 +235,20 @@
 ### 1.*高义频：* **[C] & [U] 帆：**  
 
  > put up / lower a sail   
- > 扬/下帆  （）  
+ > 扬/下帆    
 
 ### 2.*低义频：* **[单复数同形] 帆船：**  
 
  > a fleet of 10 sail   
- > 一支由10艘船组成的船队  （）  
+ > 一支由10艘船组成的船队    
 
 ### 3.*高义频：* **[C] & [U] 航程；航行：**  
 
  > go for a sail   
- > 乘船游览  （）  
+ > 乘船游览    
 
  > It is two days’ sail from here to Shanghai.   
- > 从这儿乘船到上海需要两天的时间。  （）  
+ > 从这儿乘船到上海需要两天的时间。    
 
 
 固定搭配
@@ -270,15 +271,15 @@
 
  > **sail the Pacific**  
  > sail the Pacific   
- > 航行于太平洋上  （）  
+ > 航行于太平洋上    
 
  > **sailed,along**  
  > The captain sailed his ship along the coast.   
- > 船长驾船沿海岸航行。  （）  
+ > 船长驾船沿海岸航行。    
 
  > **sail for**  
  > The ship will sail for Qingdao tomorrow.   
- > 这艘船明天起航前往青岛。  （）  
+ > 这艘船明天起航前往青岛。    
 
  > **sail across**  
  > It took Columbus two months to sail across the Atlantic in 1492.   
@@ -299,7 +300,7 @@
 
  > **sailing**  
  > go sailing   
- > 驾船出游  （）  
+ > 驾船出游    
 
 ### 2.*低义频：* **[C] (船的) 航班**  
 
@@ -329,7 +330,7 @@
 1.**为了某人 / 某事物的缘故 (for sb’s / sth’s sake):**  
 
  > He moved to the seaside for the sake of his health.   
- > 他为了健康而搬去海边。  （）  
+ > 他为了健康而搬去海边。    
 
 
 # ***\*salaam*** n
@@ -354,7 +355,7 @@
 ### 1.*高义频：* **色拉；凉拌菜：**  
 
  > 3 green salads   
- > 三份蔬菜色拉  （）  
+ > 三份蔬菜色拉    
 
 
 # ***\*salary*** n
@@ -383,18 +384,18 @@
 ### 1.*高义频：* **出售；卖；销路：**  
 
  > He got £1,700 from the sale of the house.   
- > 他的房子卖了1700英镑。  （）  
+ > 他的房子卖了1700英镑。    
 
  > have a large / good sale   
- > 销路好  （）  
+ > 销路好    
 
 ### 2.*高义频：* **[U] [用复数] 销量；销售部：**  
 
  > The sales of her latest book have reached 50 million.  
- > 她的新书销量已达到五千万册。  （）  
+ > 她的新书销量已达到五千万册。    
 
  > a sales manager   
- > 销售部经理  （）  
+ > 销售部经理    
 
 ### 3.*高义频：* **[C] 特价销售；大减价**  
 
@@ -402,7 +403,7 @@
 1.**待售：**  
 
  > a house for sale  
- > 待售房屋  （）  
+ > 待售房屋    
 
 
 固定搭配
@@ -416,7 +417,7 @@
 2.*低义频：* **廉价出售：**  
 
  > The bookstore is to close down, and many books are on sale.   
- > 书店要关闭了，许多书在廉价出售。  （）  
+ > 书店要关闭了，许多书在廉价出售。    
 
 
 # ***\*salesgirl*** n
@@ -477,7 +478,7 @@
 ### 1.*高义频：* **盐：**  
 
  > table / common salt   
- > 食盐  （）  
+ > 食盐    
 
 
 # ***\*salt*** vt
@@ -491,7 +492,7 @@
 
  > **salted pork / fish**  
  > the salted pork / fish   
- > 腌制的猪肉/鱼  （）  
+ > 腌制的猪肉/鱼    
 
 
 # ***\*salt*** adj
@@ -507,7 +508,7 @@
 
  > **salt water**  
  > salt water   
- > 海水；咸水  （）  
+ > 海水；咸水    
 
 
 # ***\*salty*** adj
@@ -533,7 +534,7 @@
  > 车上的人向我们挥手，我们向他们回礼。  （人教⑩ – 3）  
 
  > They salute the flag every day at school.   
- > 在学校里他们每天都向国旗行礼。  （）  
+ > 在学校里他们每天都向国旗行礼。    
 
 
 # ***\*salute*** n
@@ -548,10 +549,10 @@
 ### 1.*高义频：* **行礼；礼炮：**  
 
  > The children gave a salute to the policeman.   
- > 孩子们向警察敬礼。  （）  
+ > 孩子们向警察敬礼。    
 
  > fire a salute of 21 guns   
- > 鸣礼炮21响  （）  
+ > 鸣礼炮21响    
 
 
 # ***\*same*** adj  重难点词汇
@@ -566,25 +567,25 @@
 ### 1.*高义频：* **同一的：**  
 
  > Don’t forget to return the book to the same place where you found it.   
- > 别忘了把书放回原处。  （）  
+ > 别忘了把书放回原处。    
 
 - the very same + n:
 
  > The two teachers have told us the very same joke.   
- > 两位老师给我们讲了个完全一样的笑话。  （）  
+ > 两位老师给我们讲了个完全一样的笑话。    
 
 - the same ... as / wh-从句：
 
  > The teacher gave me the same advice as he did last time.   
- > 老师给了我和上次相同的建议。  （）  
+ > 老师给了我和上次相同的建议。    
 
  > It was the same place where I had experienced many things — floods of memories went through my mind.   
- > 正是在此地我经历了许多事情，无数回忆涌上心头。  （）  
+ > 正是在此地我经历了许多事情，无数回忆涌上心头。    
 
 ### 2.*高义频：* **同样的：**  
 
  > Men and women now get the same pay for doing the same jobs.   
- > 现在男女同工同酬。  （）  
+ > 现在男女同工同酬。    
 
 
 # ***\*same*** pron  重难点词汇
@@ -599,7 +600,7 @@
 ### 1.*高义频：* **同样的事物 / 人：**  
 
  > The mother cleaned the floor and her child did the same.   
- > 母亲擦地板，孩子也跟着做。  （）  
+ > 母亲擦地板，孩子也跟着做。    
 
 
 固定搭配
@@ -608,22 +609,22 @@
 1.**仍然；依然；照样：**  
 
  > It was raining hard, but we got there in time all the same.  
- > 虽然下着大雨，但我们还是及时赶到了那里。  （）  
+ > 虽然下着大雨，但我们还是及时赶到了那里。    
 
 ## \*much the same 
 1.**几乎一样：**  
 
  > I hadn’t been to my home town for years but it was much the same as I remember it.   
- > 我已多年没有回到故乡了，但那里的一切和我记忆中的几乎一样。  （）  
+ > 我已多年没有回到故乡了，但那里的一切和我记忆中的几乎一样。    
 
 ## \*(the) same to you 
 1.**我也同样祝福你**  
 
  > — Goodbye, Henry. All the best to you!   
- > 再见，亨利！保重！  （）  
+ > 再见，亨利！保重！    
 
  > — Thanks, Mary! The same to you!   
- > 玛丽，谢谢！你也保重！  （）  
+ > 玛丽，谢谢！你也保重！    
 
 
 # ***\*same*** adv  重难点词汇
@@ -637,7 +638,7 @@
 
  > **the same as**  
  > They will welcome you the same as they do me.   
- > 他们会像欢迎我一样欢迎你。  （）  
+ > 他们会像欢迎我一样欢迎你。    
 
 
 # ***\*samosa*** n
@@ -662,10 +663,10 @@
 ### 1.*高义频：* **样本；样品；试用品：**  
 
  > a blood / water / soil sample   
- > 血样/水样/土样  （）  
+ > 血样/水样/土样    
 
  > free samples of shampoo   
- > 洗发水免费试用品  （）  
+ > 洗发水免费试用品    
 
 
 # ***\*sample*** v
@@ -688,12 +689,12 @@
 ### 1.*高义频：* **[U] 沙：**  
 
  > I have sand in my shoe.   
- > 我的一只鞋里有沙子。  （）  
+ > 我的一只鞋里有沙子。    
 
 ### 2.*高义频：* **[C] & [U] [常用复数] 沙地；沙滩：**  
 
  > Some children are playing on the sands.   
- > 几个孩子正在沙滩上玩耍。  （）  
+ > 几个孩子正在沙滩上玩耍。    
 
 
 # ***\*sandstorm*** n
@@ -724,6 +725,7 @@
 
 答案：
 1. sandwich  
+
 # ***\*sandy*** adj
 英音 'sændi     美音 'sændi  
 
@@ -766,7 +768,7 @@
 ### 1.*高义频：* **卫星：**  
 
  > a man-made satellite   
- > 人造卫星  （）  
+ > 人造卫星    
 
 
 # ***\*satisfaction*** n
@@ -783,11 +785,11 @@
 
  > **feeling / sense of satisfaction**  
  > a feeling / sense of satisfaction   
- > 满足感  （）  
+ > 满足感    
 
  > **expressed,satisfaction with / at**  
  > She expressed her satisfaction with / at the result.  
- > 她对结果表示满意。  （）  
+ > 她对结果表示满意。    
 
 
 固定搭配
@@ -796,13 +798,13 @@
 1.**令某人满意的是：**  
 
  > To my satisfaction, I have passed the examination.  
- > 我通过了考试，心满意足。  （）  
+ > 我通过了考试，心满意足。    
 
 ## \*with satisfaction 
 1.**满意地：**  
 
  > He looked at his students with great satisfaction.   
- > 他十分满意地看着学生们。  （）  
+ > 他十分满意地看着学生们。    
 
 
 # ***\*satisfactory*** adj
@@ -833,19 +835,19 @@ satisfactorily /ˌsætɪs'fæktərəli/ adv
 反义词 dissatisfied ： 
 
  > The man had a satisfied expression on his face.   
- > 那个男人的脸上露出了满意的表情。  （）  
+ > 那个男人的脸上露出了满意的表情。    
 
 - (be) satisfied with:
 
  > If you are not satisfied with the watch after you get it, you may simply return it within 30 days.   
- > 买了这块手表后如果你不满意，只要在30天内退回即可。  （）  
+ > 买了这块手表后如果你不满意，只要在30天内退回即可。    
 
 ### 2.*高义频：* **确信的：**  
 
 - (be) satisfied + that 从句：
 
  > I’m satisfied that he is telling the truth.   
- > 我确信他说的是实情。  （）  
+ > 我确信他说的是实情。    
 
 
 # ***\*satisfy*** vt
@@ -859,17 +861,17 @@ satisfactorily /ˌsætɪs'fæktərəli/ adv
 
  > **satisfy sb’s needs / curiosity**  
  > satisfy sb’s needs / curiosity   
- > 满足某人的需要/好奇心  （）  
+ > 满足某人的需要/好奇心    
 
  > Nick is looking for another job because he feels that nothing he does satisfies his boss.   
- > 尼克正在找新工作，因为他感到老板对他做的工作都不满意。  （）  
+ > 尼克正在找新工作，因为他感到老板对他做的工作都不满意。    
 
 
 派生词汇
 ---
 satisfying /'sætɪsfaɪɪŋ/ adj   
  > a satisfying meal   
- > 可口的饭菜  （）  
+ > 可口的饭菜    
 
 
 # ***\*satisfying*** adj
@@ -935,17 +937,17 @@ satisfying /'sætɪsfaɪɪŋ/ adj
 
  > **time-saving**  
  > a time-saving skill   
- > 节省时间的技巧  （）  
+ > 节省时间的技巧    
 
  > **save on**  
  > save on coal   
- > 节煤  （）  
+ > 节煤    
 
  > Everyone is being encouraged to save energy.   
- > 应该鼓励大家节约能源。  （）  
+ > 应该鼓励大家节约能源。    
 
  > Doctors’ door-to-door visits save many old people’s trouble of going to hospital.   
- > 医生挨家挨户上门巡医，省去了许多老年人去医院的麻烦。  （）  
+ > 医生挨家挨户上门巡医，省去了许多老年人去医院的麻烦。    
 
 ### 3.*高义频：* **储蓄；积攒：**  
 
@@ -955,15 +957,15 @@ satisfying /'sætɪsfaɪɪŋ/ adj
 
  > **save up**  
  > I should save up for a rainy day.   
- > 我应该存钱以备不时之需。  （）  
+ > 我应该存钱以备不时之需。    
 
 ### 4.*高义频：* **保留；保存：**  
 
  > save a seat   
- > 保留座位  （）  
+ > 保留座位    
 
  > Don’t forget to save before you close the file.  
- > 关闭文档之前，不要忘记保存。  （）  
+ > 关闭文档之前，不要忘记保存。    
 
 
 真题解析
@@ -972,6 +974,7 @@ satisfying /'sætɪsfaɪɪŋ/ adj
 
 答案：
 1. save  
+
 # ***\*saving*** n
 英音 'seɪvɪŋ     美音 'seɪvɪŋ  
 
@@ -984,11 +987,11 @@ satisfying /'sætɪsfaɪɪŋ/ adj
 ### 1.*高义频：* **节约；节省物；[复数] 储蓄：**  
 
  > a saving on energy   
- > 能源节约  （）  
+ > 能源节约    
 
  > **savings accounts**  
  > Most of them deposit checks or withdraw money from their savings accounts.   
- > 大多数人把支票存入银行或从他们的储蓄账户中取钱。  （）  
+ > 大多数人把支票存入银行或从他们的储蓄账户中取钱。    
 
 
 # ***\*saxophone*** n
@@ -1019,24 +1022,24 @@ satisfying /'sætɪsfaɪɪŋ/ adj
 ### 2.*高义频：* **写道；报道；[不用于被动语态] (事情、表情等) 表明 / 显示：**  
 
  > The TV Guide said that the game would be on at 8:00.  
- > 电视节目单预告比赛将在8点开始。  （）  
+ > 电视节目单预告比赛将在8点开始。    
 
  > The way he leads his life says a lot about his value.  
- > 他的生活方式充分说明了他的价值观。  （）  
+ > 他的生活方式充分说明了他的价值观。    
 
 ### 3.*高义频：* **念；背诵：**  
 
  > This poem can be both said and sung.   
- > 这首诗既可以朗诵又可以唱。  （）  
+ > 这首诗既可以朗诵又可以唱。    
 
 ### 4.*高义频：* **说话；发表意见：**  
 
  > It’s hard to say.   
- > 很难说。  （）  
+ > 很难说。    
 
  > **say to oneself**  
  > say to oneself   
- > 心中暗想  （）  
+ > 心中暗想    
 
 
 固定搭配
@@ -1045,7 +1048,7 @@ satisfying /'sætɪsfaɪɪŋ/ adj
 1.**[引起话头或表示惊奇、反悔] 喂；啊；哎：**  
 
  > I say, Tom, I want to have a word with you.   
- > 哎，汤姆，我想和你说句话。  （）  
+ > 哎，汤姆，我想和你说句话。    
 
 ## \*it is said that ... 
 1.**据说…：**  
@@ -1055,23 +1058,25 @@ satisfying /'sætɪsfaɪɪŋ/ adj
 
 Notes: it is said that ... 常可与be said to ... 互换。  
  > It is said that he is an artist. / He is said to be an artist.  
- > 据说他是个艺术家。  （）  
+ > 据说他是个艺术家。    
 
 ## \*that is to say 
 1.**也就是说：**  
 
  > They left two weeks ago, that is to say, on July 27th.  
- > 他们是两周前，也就是7月27日动身的。  （）  
+ > 他们是两周前，也就是7月27日动身的。    
 
 
 真题解析
 ---
 1. It is often _________ (say) that human beings are naturally equipped to speak.    （2009 全国改）  
+
 2. The fact that she never apologized _________ a lot about what kind of person she is.   （2008 山东）  
 A.says   
 B.talks   
 C.appears   
 D.declares  
+
 3. — What should I do first?
 — The instructions _________ that you should mix flour with water carefully first.   （2006 浙江）  
 A.go   
@@ -1080,7 +1085,10 @@ C.write
 D.say  
 
 答案：
-1. said   2. A  3. D  
+1. said   
+2. A  
+3. D  
+
 # ***\*saying*** n
 英音 'seɪɪŋ     美音 'seɪɪŋ  
 
@@ -1093,12 +1101,12 @@ D.say
 ### 1.*低义频：* **(说) 话；(发表) 言论：**  
 
  > sayings and doings   
- > 言行  （）  
+ > 言行    
 
 ### 2.*高义频：* **格言；警句；谚语：**  
 
  > a collection of the sayings of great men   
- > 伟人名言集  （）  
+ > 伟人名言集    
 
 
 固定搭配
@@ -1113,7 +1121,7 @@ D.say
 1.**不言而喻：**  
 
  > It goes without saying that the proposal will be accepted.   
- > 这项建议将被采纳，这是不言而喻的。  （）  
+ > 这项建议将被采纳，这是不言而喻的。    
 
 
 真题解析
@@ -1126,6 +1134,7 @@ D.goes as old the saying
 
 答案：
 1. C  
+
 # ***\*scald*** v
 英音 skɔːld     美音 skɔːld  
 
@@ -1147,14 +1156,14 @@ D.goes as old the saying
 
  > **on a,scale**  
  > on a global scale   
- > 在全球范围内  （）  
+ > 在全球范围内    
 
 ### 2.*高义频：* **秤；天平**  
 
 ### 3.*高义频：* **[C] & [U] 比例：**  
 
  > a large-scale map   
- > 大比例的地图  （）  
+ > 大比例的地图    
 
 
 # ***\*scan*** vt
@@ -1168,12 +1177,12 @@ D.goes as old the saying
 英译 to examine every part carefully but quickly, because you’re looking for a particular person or thing：
 
  > scan the first paragraph to find out the topic   
- > 仔细阅读第一段以找出主题  （）  
+ > 仔细阅读第一段以找出主题    
 
 ### 2.*低义频：* **浏览:**  
 
  > He scanned the letter before he signed it.  
- > 他把信浏览了一遍，然后签了字。  （）  
+ > 他把信浏览了一遍，然后签了字。    
 
 #### 辨析 scan, skim, skip
 scan, skim和skip是阅读文章时所采取的三种策略。  
@@ -1181,7 +1190,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 3.*高义频：* **扫描：**  
 
  > scanning equipment   
- > 扫描设备  （）  
+ > 扫描设备    
 
 
 真题解析
@@ -1190,6 +1199,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 
 答案：
 1. scanning  
+
 # ***\*scan*** n
 英音 skæn     美音 skæn  
 
@@ -1212,7 +1222,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **伤痕；疤痕：**  
 
  > The police are looking for a man with a scar on his face.   
- > 警察正在搜寻一个脸上有疤的男子。  （）  
+ > 警察正在搜寻一个脸上有疤的男子。    
 
 
 # ***\*scarce*** adj
@@ -1238,7 +1248,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **使恐惧；使害怕 (frighten)：**  
 
  > The thunder scared the children.   
- > 雷声吓着了那些孩子。  （）  
+ > 雷声吓着了那些孩子。    
 
 
 固定搭配
@@ -1259,20 +1269,20 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 - (be) scared of (doing) sth:
 
  > Almost every child is scared of something, from monsters to dogs.   
- > 几乎每个孩子都害怕些什么，从怪物到狗。  （）  
+ > 几乎每个孩子都害怕些什么，从怪物到狗。    
 
  > She is scared of going out alone.   
- > 她害怕一个人出去。  （）  
+ > 她害怕一个人出去。    
 
 - (be) scared to do sth:
 
  > The boys were scared to cross the street.   
- > 那些男孩子不敢过马路。  （）  
+ > 那些男孩子不敢过马路。    
 
 - (be) scared + that 从句:
 
  > She didn’t like riding because she was scared that the horse might kick her.   
- > 她不喜欢骑马因为她害怕马会踢她。  （）  
+ > 她不喜欢骑马因为她害怕马会踢她。    
 
 
 # ***\*scarf*** n
@@ -1312,13 +1322,13 @@ scan, skim和skip是阅读文章时所采取的三种策略。
  > 第一幕第三场  （人教③ – 3）  
 
  > The movie opens with a scene in a New York apartment.  
- > 电影的开场戏发生在纽约的一套公寓里。  （）  
+ > 电影的开场戏发生在纽约的一套公寓里。    
 
 ### 2.*高义频：* **[常用单数] 事发地点；现场：**  
 
  > **on the scene**  
  > The police were soon on the scene.  
- > 警察很快到了现场。  （）  
+ > 警察很快到了现场。    
 
  > **scene of the accident**  
  > Doctors and nurses rushed to the scene of the accident to carry out the rescue.  
@@ -1328,7 +1338,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 英译 a view that you see：
 
  > He photographed a wide range of street scenes.  
- > 他拍摄下了各样的街景。  （）  
+ > 他拍摄下了各样的街景。    
 
 #### 辨析 view, scene, scenery, sight
 四者都有“风景”之意。  
@@ -1336,13 +1346,13 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 4.*高义频：* **情景：**  
 
  > The little boy came riding full speed down the road on his bicycle. What a dangerous scene it was!  
- > 那个小男孩骑着自行车沿着路全速冲了下来，多惊险的场面啊！  （）  
+ > 那个小男孩骑着自行车沿着路全速冲了下来，多惊险的场面啊！    
 
 ### 5.*低义频：* **[单数] 活动领域；圈子：**  
 
  > **the comedy scene**  
  > He’s the funniest comedian on the comedy scene.  
- > 他是喜剧界最有趣的滑稽演员。2016全国改  （）  
+ > 他是喜剧界最有趣的滑稽演员。2016全国改    
 
 
 # ***\*scenery*** n
@@ -1358,7 +1368,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 英译 natural things such as trees, hills, and lakes that you can see in a particular place：
 
  > There is no scenery comparable to that of the West Lake.   
- > 西湖风景之美无与伦比。  （）  
+ > 西湖风景之美无与伦比。    
 
 #### 辨析 view, scene, scenery, sight
 四者都有“风景”之意。  
@@ -1405,7 +1415,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 1.**对…持怀疑态度：**  
 
  > She is sceptical of everything.  
- > 她怀疑一切。  （）  
+ > 她怀疑一切。    
 
 
 # ***\*schedule*** n  重难点词汇
@@ -1421,22 +1431,22 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 英译 a plan of things that will happen or of work that must be done (timetable)：
 
  > a train schedule   
- > 列车时刻表  （）  
+ > 列车时刻表    
 
  > Now she is planning our schedule for the trip.   
  > 现在她在为我们安排旅途行程。  （人教① – 3）  
 
  > **on schedule**  
  > The majority of holiday flights depart and arrive on schedule.   
- > 大部分假日航班都能按时起降。  （）  
+ > 大部分假日航班都能按时起降。    
 
  > **ahead of schedule**  
  > Thanks to your help, we accomplished the task ahead of schedule.   
- > 多亏你们的帮助，我们提前完成了任务。  （）  
+ > 多亏你们的帮助，我们提前完成了任务。    
 
  > **behind schedule**  
  > The tunnel project has already fallen behind schedule.   
- > 隧道工程的工期已经落后。  （）  
+ > 隧道工程的工期已经落后。    
 
 
 # ***\*schedule*** vt  重难点词汇
@@ -1452,7 +1462,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 - schedule sth (for sth):
 
  > The sale is scheduled for tomorrow.   
- > 大减价定于明日举行。  （）  
+ > 大减价定于明日举行。    
 
 - schedule sb / sth to do sth:
 
@@ -1473,7 +1483,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 英译 a plan or system for doing or organizing sth：
 
  > a scheme for the term work   
- > 学期工作安排  （）  
+ > 学期工作安排    
 
 ### 2.*高义频：* **阴谋；诡计**  
 英译 a clever plan to do sth that is bad or illegal
@@ -1491,7 +1501,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **学者：**  
 
  > a history scholar   
- > 研究历史的学者  （）  
+ > 研究历史的学者    
 
 
 # ***\*scholarship*** n
@@ -1507,7 +1517,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 
  > **win a scholarship**  
  > win a scholarship   
- > 获得奖学金  （）  
+ > 获得奖学金    
 
 
 # ***\*school*** n
@@ -1520,21 +1530,21 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **[C] (中、小) 学校；专科学校；(大学的) 学院：**  
 
  > a middle / primary school   
- > 中/小学  （）  
+ > 中/小学    
 
 ### 2.*高义频：* **[U] [不用冠词] 上学；学业；上课时间：**  
 
  > School begins at eight.  
- > 8点开始上课。  （）  
+ > 8点开始上课。    
 
  > at / in school   
- > 在上课；上学  （）  
+ > 在上课；上学    
 
  > go to / finish school   
- > 去上学/完成学业；毕业  （）  
+ > 去上学/完成学业；毕业    
 
  > leave / quit school   
- > (毕业)离校；退学  （）  
+ > (毕业)离校；退学    
 
 
 # ***\*school*** vt
@@ -1605,7 +1615,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **教育；学校教育：**  
 
  > He did not get much formal schooling.  
- > 他没有受过多少正规的学校教育。  （）  
+ > 他没有受过多少正规的学校教育。    
 
 
 # ***\*schoolmate*** n
@@ -1640,21 +1650,21 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **[U] 科学：**  
 
  > natural / social science   
- > 自然/社会科学  （）  
+ > 自然/社会科学    
 
  > **science fiction**  
  > science fiction   
- > 科幻小说  （）  
+ > 科幻小说    
 
 ### 2.*高义频：* **[C] & [U] (理科中的一门) 学科：**  
 
  > computer science   
- > 计算机科学  （）  
+ > 计算机科学    
 
 ### 3.*高义频：* **[U] 理科：**  
 
  > science students   
- > 理科学生  （）  
+ > 理科学生    
 
 
 # ***\*scientific*** adj
@@ -1667,7 +1677,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **科学 (上) 的：**  
 
  > a scientific experiment   
- > 科学实验  （）  
+ > 科学实验    
 
  > The belief that the world is flat is not scientific.  
  > “地球是平的”这种认识不科学。  （人教③ – 5）  
@@ -1705,12 +1715,12 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **责骂；斥责：**  
 
  > Be grateful to those who have scolded you, as they reminded you of your faults.   
- > 感谢那些斥责你的人，因为他们提醒了你的缺点。  （）  
+ > 感谢那些斥责你的人，因为他们提醒了你的缺点。    
 
 - scold sb for (doing) sth:
 
  > Her father scolded her for upsetting her mother.   
- > 她因惹母亲生气而被父亲斥责。  （）  
+ > 她因惹母亲生气而被父亲斥责。    
 
 
 # ***\*scoop*** n
@@ -1736,16 +1746,16 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 
  > **score of**  
  > win by a score of 7 to 5   
- > 以7比5获胜  （）  
+ > 以7比5获胜    
 
 ### 2.*低义频：* **[单复数同] 二十：**  
 
  > **a score of**  
  > a score of apples   
- > 20个苹果  （）  
+ > 20个苹果    
 
  > two score of people   
- > 40个人  （）  
+ > 40个人    
 
 
 固定搭配
@@ -1803,7 +1813,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **刮；擦：**  
 
  > scrape the mud off a shoe   
- > 刮掉鞋上的泥  （）  
+ > 刮掉鞋上的泥    
 
 
 # ***\*scrape*** n
@@ -1840,7 +1850,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **搔；抓：**  
 
  > scratch one’s head   
- > 挠头  （）  
+ > 挠头    
 
 
 # ***\*scratch*** n
@@ -1855,7 +1865,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **抓痕；擦伤：**  
 
  > a scratch on her hand   
- > 她手上的抓痕  （）  
+ > 她手上的抓痕    
 
 
 # ***\*scream*** vi
@@ -1869,7 +1879,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 
  > **scream in / with**  
  > scream in / with fear   
- > 吓得尖叫  （）  
+ > 吓得尖叫    
 
  > She screamed, grabbing her purse and the keys.    
  > 她大声尖叫起来，紧紧抓着钱包和钥匙。  （2008 湖北）  
@@ -1885,7 +1895,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **尖叫着说；尖叫着发出：**  
 
  > She screamed that there was a snake.   
- > 她尖叫着说有蛇。  （）  
+ > 她尖叫着说有蛇。    
 
 
 # ***\*scream*** n
@@ -1900,11 +1910,11 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **尖叫声；尖锐刺耳的声音：**  
 
  > give a scream   
- > 发出尖叫声  （）  
+ > 发出尖叫声    
 
  > **scream of laughter**  
  > a scream of laughter   
- > 纵声大笑  （）  
+ > 纵声大笑    
 
 
 # ***\*screen*** n
@@ -1986,7 +1996,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **雕刻；雕塑：**  
 
  > sculpture a statue out of jade   
- > 雕刻玉石雕像  （）  
+ > 雕刻玉石雕像    
 
 
 # ***\*scurvy*** n
@@ -2013,11 +2023,11 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **海洋；海：**  
 
  > cross the sea   
- > 横渡海洋  （）  
+ > 横渡海洋    
 
  > **the open sea**  
  > We left the port and headed for the open sea(= part of the sea far away from the land).   
- > 我们离开港口向公海驶去。  （）  
+ > 我们离开港口向公海驶去。    
 
 
 固定搭配
@@ -2026,19 +2036,19 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 1.**在海上；在海上航海：**  
 
  > He was lost at sea and brought to land by another ship.   
- > 他在海上迷失了方向，被另一只船带上岸。  （）  
+ > 他在海上迷失了方向，被另一只船带上岸。    
 
 ## \*by sea 
 1.**由海路；乘船：**  
 
  > He travelled to New York by sea.   
- > 他乘船去了纽约。  （）  
+ > 他乘船去了纽约。    
 
 ## \*by the sea 
 1.**在海边：**  
 
  > I have a cottage by the sea.   
- > 我有一间海滨小屋。  （）  
+ > 我有一间海滨小屋。    
 
 
 # ***\*sea-slug*** n
@@ -2087,15 +2097,15 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **印记；图章：**  
 
  > a document under sb’s hand and seal   
- > 由某人亲自签名盖章的文件  （）  
+ > 由某人亲自签名盖章的文件    
 
 ### 2.*高义频：* **封蜡；封条；封口胶带：**  
 
  > the seal of a letter   
- > 信的封口处  （）  
+ > 信的封口处    
 
  > break a seal   
- > 拆封  （）  
+ > 拆封    
 
 
 # ***\*seal*** vt
@@ -2108,7 +2118,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **密封；封；盖章于：**  
 
  > seal an envelope   
- > 封信  （）  
+ > 封信    
 
 
 # ***\*seal*** n
@@ -2150,18 +2160,18 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 - search sb (for sth):
 
  > The police searched her for drugs.   
- > 警察搜查她,看她身上是否藏有毒品。  （）  
+ > 警察搜查她,看她身上是否藏有毒品。    
 
 ### 3.*高义频：* **探索；思索**  
 英译 to try to find an answer to a problem：
 
  > **searching for**  
  > She paused, searching for inspiration.   
- > 她停了下来寻找灵感。  （）  
+ > 她停了下来寻找灵感。    
 
  > **search into**  
  > The general manager promised to search into the matter.   
- > 总经理答应深入调查此事。  （）  
+ > 总经理答应深入调查此事。    
 
 
 # ***\*search*** n  重难点词汇
@@ -2177,13 +2187,13 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 
  > **thorough search**  
  > They made a thorough search of the house.   
- > 他们彻底搜查了房子。  （）  
+ > 他们彻底搜查了房子。    
 
 ### 2.*高义频：* **(计算机的) 搜索；检索：**  
 
  > **search engine**  
  > a search engine   
- > 搜索引擎  （）  
+ > 搜索引擎    
 
 
 固定搭配
@@ -2230,7 +2240,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 
  > **at the seaside**  
  > at the seaside   
- > 在海滨  （）  
+ > 在海滨    
 
 
 # ***\*seaside*** adj
@@ -2246,7 +2256,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 
  > **a seaside town**  
  > a seaside town   
- > 海滨小镇  （）  
+ > 海滨小镇    
 
 
 # ***\*season*** n
@@ -2262,11 +2272,11 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 
  > **the rainy / holiday season**  
  > the rainy / holiday season   
- > 雨季/节假日  （）  
+ > 雨季/节假日    
 
  > **the low / off season**  
  > the low / off season   
- > 淡季  （）  
+ > 淡季    
 
 
 固定搭配
@@ -2297,17 +2307,17 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **座；座位：**  
 
  > Seats must be booked in advance.   
- > 必须提前订座。  （）  
+ > 必须提前订座。    
 
 ### 2.*高义频：* **席位：**  
 
  > A promotion for him would mean a seat on the board of directors.   
- > 他升职意味着将在董事会拥有一个席位。  （）  
+ > 他升职意味着将在董事会拥有一个席位。    
 
 ### 3.*低义频：* **中心；所在地；宅邸：**  
 
  > a family / country seat   
- > 私家/乡间宅邸  （）  
+ > 私家/乡间宅邸    
 
  > She moved her family into the county seat.   
  > 她把全家搬到了县城里。  （2010 江苏改）  
@@ -2319,13 +2329,13 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 1.**坐下：**  
 
  > Take a seat, please.   
- > 请坐。  （）  
+ > 请坐。    
 
 ## \*take one’s seat 
 1.**就座：**  
 
  > They took their seats at the small round table.   
- > 他们在小圆桌旁就座。  （）  
+ > 他们在小圆桌旁就座。    
 
 
 # ***\*seat*** vt  重难点词汇
@@ -2339,10 +2349,10 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 
  > **seated himself**  
  > He seated himself in a chair.   
- > 他坐在椅子上。  （）  
+ > 他坐在椅子上。    
 
  > He seated us in the front row.   
- > 他安排我们在前排就座。  （）  
+ > 他安排我们在前排就座。    
 
 #### 辨析 seat, sit
   
@@ -2359,17 +2369,20 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 1.**就座；坐下：**  
 
  > Be seated, please.   
- > 请坐。  （）  
+ > 请坐。    
 
 
 真题解析
 ---
 1. Ladies and gentlemen, please remain __________ (seat) until the plane has come to a complete stop.   （2009 四川改）  
+
 2. — Can those _________ (seat) at the back of the classroom hear me?
 — No problem.   （2008 福建改）  
 
 答案：
-1. seated   2. seated  
+1. seated   
+2. seated  
+
 # ***\*seaweed*** n
 英音 'siːwiːd     美音 'siːwiːd  
 
@@ -2392,19 +2405,19 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **第二的；次要的：**  
 
  > students in the second year of senior high school   
- > 高中二年级的学生  （）  
+ > 高中二年级的学生    
 
  > **is second to none**  
  > As a dancer, he is second to none.   
- > 作为舞蹈家，无人能出其右。  （）  
+ > 作为舞蹈家，无人能出其右。    
 
 ### 2.*高义频：* **[常与a连用] 又一个的；另外的：**  
 
  > every second year   
- > 每隔一年  （）  
+ > 每隔一年    
 
  > A friend is a second self.   
- > 朋友是另一个自我。  （）  
+ > 朋友是另一个自我。    
 
 
 # ***\*second*** adv  重难点词汇
@@ -2418,12 +2431,12 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 
  > **finished second**  
  > She finished second in the race.   
- > 她在赛跑中获得了第二名。  （）  
+ > 她在赛跑中获得了第二名。    
 
 ### 2.*高义频：* **[句子副词] 其次：**  
 
  > First, he is young. Second, he is healthy.   
- > 首先，他年轻；其次，他健康。  （）  
+ > 首先，他年轻；其次，他健康。    
 
 ### 3.*高义频：* **[用在形容词最高级前] 第二：**  
 
@@ -2441,21 +2454,21 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*低义频：* **[U] 第二：**  
 
  > the second of March   
- > 3月2日  （）  
+ > 3月2日    
 
  > He was the second to come here.   
- > 他是第二个来这儿的。  （）  
+ > 他是第二个来这儿的。    
 
 ### 2.*高义频：* **[C] 秒：**  
 
  > Every second counts.   
- > 一寸光阴一寸金。  （）  
+ > 一寸光阴一寸金。    
 
 ### 3.*高义频：* **[C] 片刻：**  
 
  > **in a second**  
  > I’ll be back in a second.   
- > 我马上回来。  （）  
+ > 我马上回来。    
 
 
 # ***\*second-hand*** adj
@@ -2468,7 +2481,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **二手的；旧的：**  
 
  > a second-hand car   
- > 二手车  （）  
+ > 二手车    
 
 
 # ***\*secondary*** adj
@@ -2481,12 +2494,12 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **第二位的；中等的：**  
 
  > secondary education   
- > 中等教育  （）  
+ > 中等教育    
 
 ### 2.*高义频：* **次要的：**  
 
  > a question of secondary importance   
- > 次要问题  （）  
+ > 次要问题    
 
 
 # ***\*secondly*** adv
@@ -2512,15 +2525,15 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 
  > **keep a secret**  
  > let out / keep a secret   
- > 泄露/保守秘密  （）  
+ > 泄露/保守秘密    
 
  > I have no secret from you.   
- > 我对你无秘密可言。  （）  
+ > 我对你无秘密可言。    
 
 ### 2.*高义频：* **[常与the连用] 诀窍：**  
 
  > The secret of his success was hard work.   
- > 他成功的秘诀是勤奋。  （）  
+ > 他成功的秘诀是勤奋。    
 
 ### 3.*低义频：* **[C] [常用复数] 奥秘：**  
 
@@ -2534,7 +2547,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 1.**秘密地；私下地：**  
 
  > For nearly five years, they wrote to each other in secret.   
- > 在将近5年的时间里，他们秘密通信。  （）  
+ > 在将近5年的时间里，他们秘密通信。    
 
 
 # ***\*secret*** adj
@@ -2547,11 +2560,11 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **秘密的；不引人注意的：**  
 
  > a secret valley   
- > 幽谷  （）  
+ > 幽谷    
 
  > **secret about**  
  > There’s nothing secret about it.   
- > 其中并无奥秘。  （）  
+ > 其中并无奥秘。    
 
 
 派生词汇
@@ -2599,12 +2612,12 @@ secretly /'siːkrətli/ adv
 
  > **sports / travel section**  
  > the sports / travel section  
- > 体育/旅游版  （）  
+ > 体育/旅游版    
 
 ### 2.*低义频：* **部门；阶层：**  
 
  > all sections of the people   
- > 各阶层人民  （）  
+ > 各阶层人民    
 
 
 # ***\*sector*** n
@@ -2630,13 +2643,13 @@ secretly /'siːkrətli/ adv
 
  > **secure place**  
  > Keep your passport in a secure place.   
- > 把你的护照放在一个安全的地方。  （）  
+ > 把你的护照放在一个安全的地方。    
 
 ### 2.*高义频：* **无忧的；有把握的：**  
 
  > **secure life**  
  > live a secure life   
- > 过无忧无虑的生活  （）  
+ > 过无忧无虑的生活    
 
 
 # ***\*secure*** vt
@@ -2650,17 +2663,17 @@ secretly /'siːkrətli/ adv
 
  > **secure,against**  
  > secure sb against / from attack   
- > 保证某人不受袭击  （）  
+ > 保证某人不受袭击    
 
  > secure a position in a firm   
- > 在一家公司找到一个职位  （）  
+ > 在一家公司找到一个职位    
 
 ### 2.*高义频：* **(尤指经过努力) 获得；取得**  
 
 ### 3.*低义频：* **使…固定：**  
 
  > He secured the rope firmly to the back of the car.  
- > 他把绳子牢牢地拴在车后。  （）  
+ > 他把绳子牢牢地拴在车后。    
 
 
 # ***\*security*** n
@@ -2675,14 +2688,14 @@ secretly /'siːkrətli/ adv
 ### 1.*高义频：* **安全；保证；保障；担保 (品)：**  
 
  > a sense of security   
- > 安全感  （）  
+ > 安全感    
 
  > **security check**  
  > a security check  
- > 安全检查  （）  
+ > 安全检查    
 
  > A good fire is a security against wild beasts.   
- > 生一大堆火可确保不受野兽的侵扰。  （）  
+ > 生一大堆火可确保不受野兽的侵扰。    
 
 
 # ***\*see*** v  重难点词汇
@@ -2697,28 +2710,28 @@ secretly /'siːkrətli/ adv
 ### 1.*高义频：* **[通常不用于进行时] 看见；看到：**  
 
  > Look at this picture. How many people can you see in it?   
- > 看这张照片，你能从中看见多少人？  （）  
+ > 看这张照片，你能从中看见多少人？    
 
  > Seeing is believing.   
- > 眼见为实。  （）  
+ > 眼见为实。    
 
 - see ... + adj / prep:
 
  > I never saw him angry.  
- > 我从没见过他生气。  （）  
+ > 我从没见过他生气。    
 
  > I saw them in the classroom.   
- > 我看见他们在教室里。  （）  
+ > 我看见他们在教室里。    
 
 - see sb / sth do sth:
 
  > I saw the cat run away a few minutes ago.   
- > 几分钟前我看见那只猫跑开了。  （）  
+ > 几分钟前我看见那只猫跑开了。    
 
 - see sb / sth doing sth:
 
  > From the window we could see the children playing in the yard.  
- > 从窗户里，我们可以看见孩子们正在院子里玩耍。  （）  
+ > 从窗户里，我们可以看见孩子们正在院子里玩耍。    
 
 - see sb / sth done sth:
 
@@ -2731,59 +2744,59 @@ secretly /'siːkrətli/ adv
 ### 2.*高义频：* **会见：**  
 
  > see a doctor   
- > 看医生  （）  
+ > 看医生    
 
  > He is seeing a client at 2:30.   
- > 他两点半要见一位客户。  （）  
+ > 他两点半要见一位客户。    
 
 ### 3.*高义频：* **[通常不用于进行时] 领悟到：**  
 
  > After a month’s practice, you should see a difference in your playing.   
- > 经过一个月的练习，你应该能看出自己演奏上的变化。  （）  
+ > 经过一个月的练习，你应该能看出自己演奏上的变化。    
 
 ### 4.*高义频：* **[通常不用于进行时] 理解；明白：**  
 
  > **can’t see the point of**  
  > I can’t see the point of spending so much money on a car.   
- > 我不明白为什么要花这么多钱买一辆车。  （）  
+ > 我不明白为什么要花这么多钱买一辆车。    
 
  > — Look! That’s the solution of the maths problem.  
- > 看，这是这道数学题的解法。  （）  
+ > 看，这是这道数学题的解法。    
 
  > **I see**  
  > — Oh, I see.   
- > 哦，我明白了。  （）  
+ > 哦，我明白了。    
 
  > **As far as I can see**  
  > As far as I can see, he is an honest man.   
- > 据我所知，他是个诚实的人。  （）  
+ > 据我所知，他是个诚实的人。    
 
 - see + that / wh- 从句：
 
  > **Can’t you see**  
  > Can’t you see that he’s taking advantage of you?   
- > 难道你不明白他是在利用你吗？  （）  
+ > 难道你不明白他是在利用你吗？    
 
  > **see what I mean**  
  > Do you see what I mean?   
- > 你明白我的意思吗？  （）  
+ > 你明白我的意思吗？    
 
 ### 5.*高义频：* **[通常不用于进行时] 看待；认为：**  
 
  > **As I see it**  
  > As I see it, you don’t have any choice.   
- > 在我看来，你没有选择的余地。  （）  
+ > 在我看来，你没有选择的余地。    
 
  > I just can’t see them winning the game.   
- > 我认为他们赢不了比赛。  （）  
+ > 我认为他们赢不了比赛。    
 
 ### 6.*低义频：* **遭受；经历：**  
 
  > This year has seen a big increase in road accidents.   
- > 今年道路交通事故大增。  （）  
+ > 今年道路交通事故大增。    
 
  > He has seen a great deal in his long life.   
- > 他在漫长的一生中经历过很多事。  （）  
+ > 他在漫长的一生中经历过很多事。    
 
 
 固定搭配
@@ -2792,66 +2805,77 @@ secretly /'siːkrətli/ adv
 1.**让我 (们) 看看；让我 (们) 想想：**  
 
  > — Where did you put the letter?   
- > 你把信放哪儿了？  （）  
+ > 你把信放哪儿了？    
 
  > — Let me see. It should be on the dinning table.   
- > 让我想想。应该在餐桌上。  （）  
+ > 让我想想。应该在餐桌上。    
 
 ## \*see about 
 1.**安排；处理：**  
 
  > I have to see about getting the car repaired.   
- > 我得找人修理一下这辆车。  （）  
+ > 我得找人修理一下这辆车。    
 
 ## \*see off 
 1.**为…送行：**  
 
  > We all went to the airport to see her off.   
- > 我们都到机场为她送行。  （）  
+ > 我们都到机场为她送行。    
 
 ## \*see through 
 1.**看穿；识破：**  
 
  > People have eyes and will see through your tricks.  
- > 每个人都有眼力，他们会识破你们的诡计。  （）  
+ > 每个人都有眼力，他们会识破你们的诡计。    
 
 ## \*see to 
 1.**照料；处理：**  
 
  > Don’t worry. I’ll see to it.   
- > 别担心，这事我来处理。  （）  
+ > 别担心，这事我来处理。    
 
 ## \*see (to it) that 
 1.**务必使…；保证使…：**  
 
  > Can you see to it that everyone knows the date of the meeting?   
- > 你能保证把开会日期通知到每个人吗？  （）  
+ > 你能保证把开会日期通知到每个人吗？    
 
 ## \*seeing that 
 1.**因为；鉴于；既然：**  
 
  > Seeing that you are already at the door, I suppose I must invite you inside.   
- > 既然你已经到了门口，我想我必须邀请你进来。  （）  
+ > 既然你已经到了门口，我想我必须邀请你进来。    
 
 ## \*you see 
 1.**你看 / 知道：**  
 
  > You see, life is measured by thought and action, not by time.   
- > 要知道，人生的意义要以思想和行为来衡量，而非生命的长短。  （）  
+ > 要知道，人生的意义要以思想和行为来衡量，而非生命的长短。    
 
 
 真题解析
 ---
 1. When walking down the street, I came across David, whom I _________ (not see) for years.  （2016 天津改）  
+
 2. Back from his two-year medical service in Africa, Dr. Lee was very happy to see his mother _________  (take) good care of at home.   （2015 陕西改）  
+
 3. If I ________ (没看到) it with my own eyes, I wouldn’t have believed it.
   （2015 北京改）  
+
 4. I’m so glad you’ve come here to see _______ this matter in person.   （2012 湖北改）  
+
 5. ________(see) that she was going off to sleep, I asked if she’d like that little doll on her bed.  （2008 北京改）  
+
 6. John is leaving for London tomorrow and I will see him _________ at the airport.  （）  
 
 答案：
-1. hadn’t seen  2. (being) taken  3. hadn’t seen  4. to  5. Seeing  6. off  
+1. hadn’t seen  
+2. (being) taken  
+3. hadn’t seen  
+4. to  
+5. Seeing  
+6. off  
+
 # ***\*seed*** n
 英音 siːd     美音 siːd  
 
@@ -2889,21 +2913,21 @@ secretly /'siːkrətli/ adv
 英译  to look for sb / sth：
 
  > seek jobs / work / employment   
- > 找工作；求职  （）  
+ > 找工作；求职    
 
  > a job-seeking guide   
- > 求职指南  （）  
+ > 求职指南    
 
  > **sought for**  
  > They sought for a place to shelter from the rain, but in vain.   
- > 他们寻找避雨的地方，但没能找到。  （）  
+ > 他们寻找避雨的地方，但没能找到。    
 
 ### 2.*高义频：* **寻求；谋求**  
 英译 to try to get sth：
 
  > **seek one’s fortune**  
  > seek one’s fortune   
- > 寻找出路；寻找致富之路  （）  
+ > 寻找出路；寻找致富之路    
 
  > The book inspires confidence in students who wish to seek their own answers.  
  > 这本书使那些想寻求自己的答案的学生产生自信心。  （2014 天津）  
@@ -2916,11 +2940,11 @@ secretly /'siːkrətli/ adv
 
  > **seek ( sb’s ) advice**  
  > seek ( sb’s ) advice  
- > 征求(某人的)建议  （）  
+ > 征求(某人的)建议    
 
  > **seek ( sb’s ) help,assistance**  
  > seek ( sb’s ) help / assistance  
- > 请求(某人的)帮助  （）  
+ > 请求(某人的)帮助    
 
 ### 4.*低义频：* **试图；企图 (attempt)：**  
 
@@ -2936,7 +2960,7 @@ secretly /'siːkrətli/ adv
 1.**找出；找到：**  
 
  > We must seek out a solution to the problem.   
- > 我们必须找到解决问题的办法。  （）  
+ > 我们必须找到解决问题的办法。    
 
 
 # ***\*seem*** vi  重难点词汇
@@ -2951,15 +2975,15 @@ secretly /'siːkrətli/ adv
 - seem (to be / like) + n:
 
  > It seemed like a good idea.   
- > 这主意好像不错。  （）  
+ > 这主意好像不错。    
 
  > The theory without practice seems to be the cars without motors.   
- > 没有实践的理论就像没有引擎的汽车。  （）  
+ > 没有实践的理论就像没有引擎的汽车。    
 
 - seem (to be) + adj:
 
  > She seemed (to be) very interested.   
- > 她似乎很感兴趣。  （）  
+ > 她似乎很感兴趣。    
 
  > Although the answer seemed a little strange, nobody but I doubted it.  
  > 虽然答案有点奇怪，但只有我对它产生了怀疑。  （2015 湖北书面表达）  
@@ -2973,10 +2997,10 @@ Notes: it seems as if / though引导的从句中常使用虚拟语气。
 - it seems (to sb) + that 从句：
 
  > It seemed that he was lying.   
- > 他似乎在撒谎。  （）  
+ > 他似乎在撒谎。    
 
  > It seems to me that working experience is more important than a degree.   
- > 在我看来，工作经验比学历更重要。  （）  
+ > 在我看来，工作经验比学历更重要。    
 
 - seem to do sth:
 
@@ -2984,11 +3008,11 @@ Notes: it seems as if / though引导的从句中常使用虚拟语气。
  > 照片中的每个人好像都胖了些，是不是？  （译林① – 3）  
 
  > There seems to be some disagreement between his words and actions.   
- > 他的言行似乎不一致。  （）  
+ > 他的言行似乎不一致。    
 
 Notes: seem后既可以接从句又可以接不定式，通常可以相互转换。  
  > It seems that he isn't happy. / He doesn't seem to be happy.  
- > 他看起来不高兴。  （）  
+ > 他看起来不高兴。    
 
 #### 辨析 appear, look, seem
 三者都有“看起来”之意。  
@@ -3004,22 +3028,22 @@ Notes: seem后既可以接从句又可以接不定式，通常可以相互转换
 ### 1.*高义频：* **抓住 (grab)；逮捕：**  
 
  > seize sb by the arm   
- > 抓住某人的胳膊  （）  
+ > 抓住某人的胳膊    
 
  > seize a thief   
- > 抓小偷  （）  
+ > 抓小偷    
 
 ### 2.*低义频：* **夺取：**  
 
  > **seize power**  
  > seize power   
- > 夺权  （）  
+ > 夺权    
 
 ### 3.*低义频：* **抓住；把握 (时机等)：**  
 
  > **seize,chance**  
  > I will seize the golden chance to go abroad.   
- > 我会抓住这次绝好的机会出国。  （）  
+ > 我会抓住这次绝好的机会出国。    
 
 
 固定搭配
@@ -3028,7 +3052,7 @@ Notes: seem后既可以接从句又可以接不定式，通常可以相互转换
 1.**抓住 (可利用的事物)；突然对…大为关注：**  
 
  > Bob seized on the rain as an excuse for missing school.   
- > 鲍勃以下雨为借口不去上学。  （）  
+ > 鲍勃以下雨为借口不去上学。    
 
 
 # ***\*seldom*** adv
@@ -3041,15 +3065,15 @@ Notes: seem后既可以接从句又可以接不定式，通常可以相互转换
 ### 1.*高义频：* **很少；不常(rarely)：**  
 
  > You seldom get what you go after unless you know in advance what you want.   
- > 要得到你所追求的东西，就必须先知道自己想要什么。  （）  
+ > 要得到你所追求的东西，就必须先知道自己想要什么。    
 
 Notes: 在反意疑问句中，陈述部分含seldom时， 疑问部分用肯定形式。  
  > You seldom go to the library, do you?   
- > 你很少去图书馆，是吗？  （）  
+ > 你很少去图书馆，是吗？    
 
 Notes: seldom置于句首表示强调时，句子常用部分倒装语序。  
  > Seldom does he go to school late.   
- > 他上学很少迟到。  （）  
+ > 他上学很少迟到。    
 
  > Seldom have they played video games ever since they entered college.    
  > 他们自从上了大学就很少玩电子游戏。  （2008 湖北）  
@@ -3058,6 +3082,7 @@ Notes: seldom置于句首表示强调时，句子常用部分倒装语序。
 真题解析
 ---
 1. Henry was away from home for quite a bit and ________ saw his family.  （2014 全国）  
+
 2. We laugh at jokes, but seldom _________ about how they work.   （2010 四川）  
 A.we think  
 B.think we  
@@ -3065,7 +3090,9 @@ C.we do think
 D.do we think  
 
 答案：
-1. seldom / rarely  2. D  
+1. seldom / rarely  
+2. D  
+
 # ***\*select*** vt
 英音 sɪ'lekt     美音 sɪ'lekt  
 
@@ -3077,17 +3104,17 @@ D.do we think
 英译 to choose sb / sth, usually carefully, from a number of similar things：
 
  > He selected a mobile phone for personal use.   
- > 他挑了一部手机自用。  （）  
+ > 他挑了一部手机自用。    
 
 - select sb / sth for sth:
 
  > He had hopes of being selected for the national team.   
- > 他有望被选入国家队。  （）  
+ > 他有望被选入国家队。    
 
 - select sb / sth as sth:
 
  > Mr Clark was selected as the Best Teacher of the Year.  
- > 克拉克先生被评为年度最佳教师。  （）  
+ > 克拉克先生被评为年度最佳教师。    
 
 - select sb / sth to do sth:
 
@@ -3115,10 +3142,10 @@ selective /sɪ'lektɪv/ adj
 
  > **make,selection**  
  > make a selection   
- > 作出选择  （）  
+ > 作出选择    
 
  > Selections From Charles Dickens  
- > 《狄更斯选集》  （）  
+ > 《狄更斯选集》    
 
 
 # ***\*self*** n
@@ -3132,15 +3159,15 @@ selective /sɪ'lektɪv/ adj
 
  > **real,true,self**  
  > a real / true self   
- > 真实的自我  （）  
+ > 真实的自我    
 
 ### 2.*低义频：* **[U] 个性；自我；私心：**  
 
  > a lack of confidence in the self   
- > 缺乏自信  （）  
+ > 缺乏自信    
 
  > He always puts self first.   
- > 他总是把自己放在第一位。  （）  
+ > 他总是把自己放在第一位。    
 
 Notes: self-用于构成复合名词或复合形容词，表示“自身的”、“靠自身的”、“为自身的”。  
 
@@ -3204,7 +3231,7 @@ Notes: self-用于构成复合名词或复合形容词，表示“自身的”�
 ### 1.*高义频：* **自私的：**  
 
  > a selfish deed   
- > 自私的行为  （）  
+ > 自私的行为    
 
 
 派生词汇
@@ -3225,18 +3252,18 @@ selfishness /'selfɪʃnəs/ n
 
  > **sold,for**  
  > I sold my computer to my neighbour for $250.   
- > 我以250美元的价格把自己的电脑卖给了邻居。  （）  
+ > 我以250美元的价格把自己的电脑卖给了邻居。    
 
  > This brand of clothes should sell well.   
- > 这个牌子的衣服应该很好卖。  （）  
+ > 这个牌子的衣服应该很好卖。    
 
 ### 2.*高义频：* **(个人、商店) 出售；(商品) 卖出 (某个数量)：**  
 
  > They sell candy, cookies and cakes at the supermarket.  
- > 他们在那家超市卖糖果、饼干和蛋糕。  （）  
+ > 他们在那家超市卖糖果、饼干和蛋糕。    
 
  > Her new book has sold fifty thousand in the past week.   
- > 她的新书上周卖了50000册。  （）  
+ > 她的新书上周卖了50000册。    
 
 
 固定搭配
@@ -3245,23 +3272,23 @@ selfishness /'selfɪʃnəs/ n
 1.**廉价出售 (存货)：**  
 
  > The store sold off its summer stock to be ready for the new winter goods.   
- > 该店将夏季存货削价出售，以便购进冬季新货。  （）  
+ > 该店将夏季存货削价出售，以便购进冬季新货。    
 
 ## \*sell oneself 
 1.**自荐：**  
 
  > You really have to sell yourself at a job interview.   
- > 求职面试的时候，你的确要推销自己。  （）  
+ > 求职面试的时候，你的确要推销自己。    
 
 ## \*sell out / be sold out 
 1.**售完：**  
 
  > All the tickets for today’s performance are sold out.  
- > 今天演出的票全部卖光了。  （）  
+ > 今天演出的票全部卖光了。    
 
  > **sold out of**  
  > Sorry, sir, we’ve completely sold out of those shirts in your size.   
- > 对不起，先生，您这个尺码的衬衫我们全卖完了。  （）  
+ > 对不起，先生，您这个尺码的衬衫我们全卖完了。    
 
 
 派生词汇
@@ -3281,7 +3308,7 @@ seller /'selə(r)/ n
 
  > **spring,fall semester**  
  > the spring / fall semester   
- > 春/秋季学期  （）  
+ > 春/秋季学期    
 
 
 # ***\*semi-circle*** n
@@ -3342,24 +3369,24 @@ seller /'selə(r)/ n
 ### 1.*高义频：* **邮寄；发送：**  
 
  > send a letter / an email   
- > 寄信/发电子邮件  （）  
+ > 寄信/发电子邮件    
 
  > **send sb sth / send sth to sb**  
  > send sb sth / send sth to sb:  
- >   （）  
+ >     
 
  > We sent her a letter of apology. / We sent a letter of apology to her.   
- > 我们给她寄了一封道歉信。  （）  
+ > 我们给她寄了一封道歉信。    
 
 ### 2.*高义频：* **打发；派 (人)：**  
 
 - send sb to some place / on sth:
 
  > He has to send Mary to hospital.   
- > 他不得不送玛丽去医院。  （）  
+ > 他不得不送玛丽去医院。    
 
  > The company sent her on a training course.   
- > 公司派她去参加一个培训课程。  （）  
+ > 公司派她去参加一个培训课程。    
 
  > Luckily she was not badly injured and we sent her to the nearest hospital.  
  > 幸运的是，她受伤不重，我们将她送往最近的医院。  （2014 湖北书面表达改）  
@@ -3367,13 +3394,13 @@ seller /'selə(r)/ n
 - send sb / sth to do sth:
 
  > The National Park Service had to send water trucks to provide water for the visitors.   
- > 国家公园管理局不得不派水车为游客供水。  （）  
+ > 国家公园管理局不得不派水车为游客供水。    
 
 ### 3.*高义频：* **传达；转告：**  
 
  > **sends,message**  
  > Advertising sends the message that you have to be thin to be successful.   
- > 广告传递的信息是，要想成功就得瘦。  （）  
+ > 广告传递的信息是，要想成功就得瘦。    
 
 
 固定搭配
@@ -3382,28 +3409,28 @@ seller /'selə(r)/ n
 1.**解雇；把…打发走：**  
 
  > He was sent away by his boss.   
- > 他被老板解雇了。  （）  
+ > 他被老板解雇了。    
 
 ## \*send for 
 1.**派人去叫；召唤：**  
 
  > Her mother was ill, so she sent for a doctor.   
- > 她母亲病了，于是她派人去请了一位医生来。  （）  
+ > 她母亲病了，于是她派人去请了一位医生来。    
 
 ## \*send out 
 1.**发出 (光、味、声音等)；送出；派遣：**  
 
  > The sun sends out light and heat.   
- > 太阳发出光和热。  （）  
+ > 太阳发出光和热。    
 
  > Thousands of technicians have been sent out of the country to learn modern technology.   
- > 成千上万的技术人员被派出国去学习现代技术。  （）  
+ > 成千上万的技术人员被派出国去学习现代技术。    
 
 ## \*send up 
 1.**发出；射出；长出：**  
 
  > When did China send up its first man-made satellite?  
- > 中国是在什么时候发射了自己的第一颗人造卫星？  （）  
+ > 中国是在什么时候发射了自己的第一颗人造卫星？    
 
 
 # ***\*senior*** adj
@@ -3416,11 +3443,11 @@ seller /'selə(r)/ n
 ### 1.*高义频：* **较年长的；地位较高的；(学校) 高年级的：**  
 
  > senior high school students   
- > 高中生  （）  
+ > 高中生    
 
  > **senior to**  
  > I’m three years senior to you.   
- > 我比你大3岁。  （）  
+ > 我比你大3岁。    
 
 
 # ***\*senior*** n
@@ -3446,33 +3473,33 @@ seller /'selə(r)/ n
 
  > **sense of sight,hearing,taste,touch**  
  > the sense of sight / hearing / taste / touch   
- > 视/听/味/触觉  （）  
+ > 视/听/味/触觉    
 
  > **a keen / strong sense of smell**  
  > The dog has a keen / strong sense of smell.   
- > 狗具有敏锐的嗅觉。  （）  
+ > 狗具有敏锐的嗅觉。    
 
 ### 2.*高义频：* **[C] (对重大事情的) 感受；意识**  
 英译 a feeling about sth important：
 
  > **sense of loss,responsibility**  
  > a sense of loss / responsibility   
- > 失落感/责任感  （）  
+ > 失落感/责任感    
 
  > **a great sense of**  
  > He gets a great sense of fulfillment from his work.  
- > 他从工作中获得了极大的成就感。  （）  
+ > 他从工作中获得了极大的成就感。    
 
 ### 3.*高义频：* **[常用单数] 理解力；判断力**  
 英译 an ability to understand or judge sth：
 
  > **dress sense**  
  > dress sense   
- > 着装鉴赏力  （）  
+ > 着装鉴赏力    
 
  > **sense of direction,rhythm,humour**  
  > a sense of direction / rhythm / humour   
- > 方向/节奏/幽默感  （）  
+ > 方向/节奏/幽默感    
 
 ### 4.*高义频：* **[U] 见识；通情达理**  
 英译 the knowledge of what’s sensible behavior; the ability to think or act in a reasonable or sensible way：
@@ -3482,29 +3509,29 @@ seller /'selə(r)/ n
  > 常识  （2010 天津）  
 
  > a man of sense   
- > 通情达理的人  （）  
+ > 通情达理的人    
 
  > There’s a lot of sense in what she says.   
- > 她说的话很有见地。  （）  
+ > 她说的话很有见地。    
 
 ### 5.*低义频：* **[C] 理智；心智：**  
 
  > **come to one’s senses**  
  > come to one’s senses   
- > 恢复理性；苏醒  （）  
+ > 恢复理性；苏醒    
 
  > lose one’s senses   
- > 失去理智  （）  
+ > 失去理智    
 
 ### 6.*高义频：* **[C] 意思；意义**  
 英译 the meaning of a word or phrase; a way of understanding sth：
 
  > He tried to memorize the sense of every word and phrase.   
- > 他试图记住每个词语的意思。  （）  
+ > 他试图记住每个词语的意思。    
 
  > **in every sense of the word**  
  > He was a true friend, in every sense of the word.   
- > 无论从哪方面看，他都是个真正的朋友。  （）  
+ > 无论从哪方面看，他都是个真正的朋友。    
 
 
 固定搭配
@@ -3513,16 +3540,16 @@ seller /'selə(r)/ n
 1.**从某种意义上说：**  
 
  > He writes stories all the time, so in a sense, he’s a writer.   
- > 他总是在写故事，因此从某种意义上说，他是个作家。  （）  
+ > 他总是在写故事，因此从某种意义上说，他是个作家。    
 
 ## \*in no sense 
 1.**决不：**  
 
  > In no sense do I agree with this suggestion.   
- > 我决不赞成这个建议。  （）  
+ > 我决不赞成这个建议。    
 
  > The hotel was in no sense comfortable.   
- > 这家酒店一点儿也不舒适。  （）  
+ > 这家酒店一点儿也不舒适。    
 
 Notes: in no sense用于句首时，句子用部分倒装语序。  
 ## \*make sense 
@@ -3530,53 +3557,58 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 英译 to have a meaning and be easy to understand
 
  > This sentence doesn’t make sense.  
- > 这个句子讲不通/无意义。  （）  
+ > 这个句子讲不通/无意义。    
 
  > Read this and tell me if it makes sense.  
- > 读一读这个，然后告诉我是否通顺。  （）  
+ > 读一读这个，然后告诉我是否通顺。    
 
 2.**是明智的；是合乎情理的**  
 英译 to be a sensible thing to do
 
  > **It would make sense to**  
  > It would make sense to leave early, so that we miss the traffic.  
- > 早出发避开车流是明智之举。  （）  
+ > 早出发避开车流是明智之举。    
 
  > Planning so far ahead makes no sense — so many things will have changed by next year.  
  > 提前这么久做计划没有意义，许多事情到第二年可能都已经变了。  （2011 全国）  
 
  > She doesn’t talk much, but what she says makes sense.  
- > 她说得不多，但说的在理/言之有理。  （）  
+ > 她说得不多，但说的在理/言之有理。    
 
 3.**易于理解；道理明显**  
 英译 to be easy to understand or explain
 
  > Who would send me all these flowers? It makes no sense.  
- > 谁会送给我这么多花呢？想不明白。  （）  
+ > 谁会送给我这么多花呢？想不明白。    
 
 ## \*make sense of 
 1.**弄懂…的意思：**  
 
  > Can you make any sense of this article?   
- > 你能看懂这篇文章吗？  （）  
+ > 你能看懂这篇文章吗？    
 
 ## \*there is no sense in (doing) sth 
 1.**(做) 某事是没道理的：**  
 
  > There’s no sense in getting upset about it now.   
- > 现在没有必要为这件事烦恼。  （）  
+ > 现在没有必要为这件事烦恼。    
 
 
 真题解析
 ---
 1. See, your computer has broken down again! It doesn’t make sense ________  (buy) the cheapest brand of computer just to save a few dollars. 
   （2015 天津改）  
+
 2. Dogs have a very good ________(嗅觉) and are often used to search for survivors in an earthquake.
   （2008 浙江改）  
+
 3. What’s the ________ (意义) of having a public open space where you can’t eat, drink or even simply hang out for a while?   （2008 福建改）  
 
 答案：
-1. to buy  2. sense of smell  3. sense / point  
+1. to buy  
+2. sense of smell  
+3. sense / point  
+
 # ***\*sense*** vt  重难点词汇
 英音 sens     美音 sens  
 
@@ -3587,7 +3619,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 ### 1.*高义频：* **感觉到；察觉到：**  
 
  > The deer sensed the danger and ran into the woods.  
- > 小鹿察觉到危险，跑进了树林。  （）  
+ > 小鹿察觉到危险，跑进了树林。    
 
  > She sensed that she was being watched.   
  > 她察觉到有人在监视自己。  （译林③ – 1）  
@@ -3603,10 +3635,10 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 ### 1.*高义频：* **失去知觉的；无意义的；不明智的：**  
 
  > fall senseless   
- > 失去知觉  （）  
+ > 失去知觉    
 
  > a senseless argument   
- > 无意义的争论  （）  
+ > 无意义的争论    
 
 
 # ***\*sensible*** adj
@@ -3619,11 +3651,11 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 ### 1.*高义频：* **明智的；合理的(wise)；可觉察到的：**  
 
  > a sensible answer / option   
- > 明智的回答/选择  （）  
+ > 明智的回答/选择    
 
  > **be sensible of**  
  > He did not appear to be sensible of the difficulties that lay ahead.   
- > 他看上去并没有意识到面前的困难。  （）  
+ > 他看上去并没有意识到面前的困难。    
 
 
 # ***\*sensitive*** adj
@@ -3638,31 +3670,31 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 
  > **is,sensitive to**  
  > She is very sensitive to other people’s feelings.  
- > 她很能体谅他人的情感。  （）  
+ > 她很能体谅他人的情感。    
 
 ### 2.*高义频：* **(感情) 敏感的；易生气的**  
 英译 easily offended or upset：
 
  > a very sensitive child  
- > 很敏感的小孩  （）  
+ > 很敏感的小孩    
 
  > **is,sensitive to**  
  > She is very sensitive to criticism.  
- > 她一听批评就急。  （）  
+ > 她一听批评就急。    
 
 ### 3.*高义频：* **(对光、温度等) 敏感的；过敏的；易受影响的：**  
 
  > **are,sensitive to**  
  > My teeth are very sensitive to cold food.  
- > 我的牙齿对凉的食物很敏感。  （）  
+ > 我的牙齿对凉的食物很敏感。    
 
  > Wetlands are environmentally sensitive areas.  
- > 湿地是环境脆弱的区域。  （）  
+ > 湿地是环境脆弱的区域。    
 
 ### 4.*低义频：* **(话题、形势等) 敏感的**  
 
  > a highly sensitive topic  
- > 高度敏感的话题  （）  
+ > 高度敏感的话题    
 
 
 真题解析
@@ -3671,6 +3703,7 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 
 答案：
 1. to  
+
 # ***\*sensory*** adj
 英音 'sensəri     美音 'sensəri  
 
@@ -3694,15 +3727,15 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 
  > **serve a sentence**  
  > serve a sentence  
- > 服刑  （）  
+ > 服刑    
 
  > **death sentence**  
  > a death sentence   
- > 死刑  （）  
+ > 死刑    
 
  > **prison sentence**  
  > He received a 10-year prison sentence.   
- > 他被判处10年有期徒刑。  （）  
+ > 他被判处10年有期徒刑。    
 
 
 # ***\*sentence*** vt
@@ -3741,14 +3774,14 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 ### 1.*高义频：* **单独的；分开的；不同的：**  
 
  > two separate buildings   
- > 两座独立的大楼  （）  
+ > 两座独立的大楼    
 
  > **keep,separate from**  
  > You’d better keep meat separate from other food in the fridge.   
- > 你最好把肉同冰箱里的其他食物分开放。  （）  
+ > 你最好把肉同冰箱里的其他食物分开放。    
 
  > Use separate knives for raw and cooked meat.   
- > 切生肉和熟肉要用不同的刀。  （）  
+ > 切生肉和熟肉要用不同的刀。    
 
 
 固定搭配
@@ -3775,11 +3808,11 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 
  > **separate,eggs**  
  > separate the eggs   
- > 把蛋清和蛋黄分开  （）  
+ > 把蛋清和蛋黄分开    
 
  > **separated into**  
  > The students were separated into four groups.   
- > 学生被分成了4组。  （）  
+ > 学生被分成了4组。    
 
  > **separated from**  
  > As we joined the big crowd I got separated from my friends.   
@@ -3793,21 +3826,21 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 
  > **separated from**  
  > England is separated from France by the Channel.  
- > 英国和法国之间隔着英吉利海峡。  （）  
+ > 英国和法国之间隔着英吉利海峡。    
 
 ### 3.*低义频：* **区分；分清：**  
 英译 to make sb / sth different in someway from sb / sth else：
 
  > **separates,from**  
  > The capacity to think separates humans from animals.   
- > 思维能力使人有别于动物。  （）  
+ > 思维能力使人有别于动物。    
 
 ### 4.*高义频：* **分居；分手**  
 英译 to stop living together as a couple：
 
  > **separated from**  
  > He separated from his wife after 7 years of marriage.   
- > 他和妻子结婚7年后分居了。  （）  
+ > 他和妻子结婚7年后分居了。    
 
 
 派生词汇
@@ -3817,10 +3850,13 @@ separately /'sepərətli/ adv
 真题解析
 ---
 1. The little girl got _________ (分开) from the group in the dark.  （）  
+
 2. Hospital staff burst into cheers after doctors completed a 20-hour operation to have ________ one-year-old twins at the head.   （）  
 
 答案：
-1. separated  2. separated  
+1. separated  
+2. separated  
+
 # ***\*separation*** n
 英音 ˌsepə'reɪʃn     美音 ˌsepə'reɪʃn  
 
@@ -3835,7 +3871,7 @@ separately /'sepərətli/ adv
 
  > **Separation from**  
  > Separation from his family made him very sad.  
- > 与家人分开使他非常伤心。  （）  
+ > 与家人分开使他非常伤心。    
 
 ### 2.*低义频：* **[C] 分居**  
 
@@ -3871,7 +3907,7 @@ separately /'sepərətli/ adv
 ### 1.*高义频：* **一系列；连续：**  
 
  > TV series  
- > 电视连续剧  （）  
+ > 电视连续剧    
 
 
 固定搭配
@@ -3880,7 +3916,7 @@ separately /'sepərətli/ adv
 1.**一连串的；一系列的：**  
 
  > a series of car accidents  
- > 一连串的车祸  （）  
+ > 一连串的车祸    
 
  > Mobile phone users have developed a series of symbols to show how they feel.  
  > 手机用户开发出一系列用来表达感情的符号。  （外研① – 6）  
@@ -3897,7 +3933,7 @@ separately /'sepərətli/ adv
 
  > **serious accident,illness,injury**  
  > a serious accident / illness / injury   
- > 严重的事故/重病/重伤  （）  
+ > 严重的事故/重病/重伤    
 
  > **serious damage**  
  > Too much packaging is doing serious damage to the environment.    
@@ -3911,12 +3947,12 @@ separately /'sepərətli/ adv
 
  > **serious thought**  
  > That sounds a good suggestion. I will give it some serious thought.   
- > 那听起来是个好主意，我会认真考虑。  （）  
+ > 那听起来是个好主意，我会认真考虑。    
 
 ### 3.*高义频：* **严肃的；认真的：**  
 
  > She looked serious as she told us the bad news.   
- > 她告诉我们这个坏消息时看上去很严肃。  （）  
+ > 她告诉我们这个坏消息时看上去很严肃。    
 
  > I should not have laughed if I had thought you were serious.    
  > 如果我想到你是认真的，我就不会笑了。  （2013 江苏）  
@@ -3940,6 +3976,7 @@ separately /'sepərətli/ adv
 
 答案：
 1. serious  
+
 # ***\*seriously*** adv
 英音 'sɪəriəsli     美音 'sɪriəsli  
 
@@ -3951,7 +3988,7 @@ separately /'sepərətli/ adv
 
  > **seriously ill / injured**  
  > seriously ill / injured  
- > 病得/伤得严重  （）  
+ > 病得/伤得严重    
 
 
 固定搭配
@@ -3960,7 +3997,7 @@ separately /'sepərətli/ adv
 1.**认真对待某人 / 某事：**  
 
  > Let’s see the difficulties as a kind of test and take them seriously.  
- > 让我们把困难看做一种考验，认真地对待吧！  （）  
+ > 让我们把困难看做一种考验，认真地对待吧！    
 
 
 真题解析
@@ -3969,6 +4006,7 @@ separately /'sepərətli/ adv
 
 答案：
 1. seriously  
+
 # ***\*servant*** n
 英音 'sɜːvənt     美音 'sɜːrvənt  
 
@@ -3991,23 +4029,23 @@ separately /'sepərətli/ adv
 ### 1.*高义频：* **vt & vi (在饮食方面) 服务；接待：**  
 
  > Breakfast is served between 7 and 10 am.   
- > 早上7点到10点供应早餐。  （）  
+ > 早上7点到10点供应早餐。    
 
  > I wonder when our beef will be served.  
- > 不知道我们的牛肉什么时候才能端上来。  （）  
+ > 不知道我们的牛肉什么时候才能端上来。    
 
  > All the dishes in this menu, unless otherwise stated, will serve two to three people.  
  > 除非另有说明，这个菜单里的所有菜都足够两到三人食用。  （2009 全国）  
 
  > **serving customers**  
  > There was only one girl serving customers in the store.   
- > 店里只有一个女孩接待顾客。  （）  
+ > 店里只有一个女孩接待顾客。    
 
 ### 2.*高义频：* **vt & vi (为...) 服务；(为...) 工作；(为...) 服役：**  
 
  > **serve in the army**  
  > serve in the army  
- > 服役  （）  
+ > 服役    
 
  > As students, there are many ways in which you can serve the community.   
  > 作为学生，你有许多服务于社区的方式。  （2013 福建）  
@@ -4015,7 +4053,7 @@ separately /'sepərətli/ adv
 ### 3.*高义频：* **vt 提供；满足...的需要：**  
 
  > This housing area is well served with water and gas.  
- > 这个住宅区供水供气的设施齐全。  （）  
+ > 这个住宅区供水供气的设施齐全。    
 
 ### 4.*低义频：* **vt & vi 适合；(对...) 起作用：**  
 
@@ -4049,17 +4087,17 @@ separately /'sepərətli/ adv
 ### 1.*高义频：* **公共服务系统；公共事业机构：**  
 
  > the Civil Service Examination   
- > 公务员考试  （）  
+ > 公务员考试    
 
  > **National Health Service**  
  > the National Health Service (the NHS)   
- > (英国的)国民保健制度  （）  
+ > (英国的)国民保健制度    
 
 ### 2.*高义频：* **服务；效力；使用：**  
 
  > **service industry,charge**  
  > service industry / charge   
- > 服务业/服务费  （）  
+ > 服务业/服务费    
 
  > **years of service**  
  > In 1291, after 17 years of service to the Emperor, Marco returned to Italy.    
@@ -4067,7 +4105,7 @@ separately /'sepərətli/ adv
 
  > **out of service**  
  > Sorry, the number you dialed is out of service.   
- > 对不起，您拨打的号码已停机。  （）  
+ > 对不起，您拨打的号码已停机。    
 
 
 固定搭配
@@ -4076,7 +4114,7 @@ separately /'sepərətli/ adv
 1.**听候某人吩咐；为某人效劳：**  
 
  > Just feel free to call Room Service. We’re always at your service.   
- > 请尽管呼叫服务部，我们随时为您服务。  （）  
+ > 请尽管呼叫服务部，我们随时为您服务。    
 
 ## \*pay lip service (to) 
 1.**对…空口答应 (而不行动)：**  
@@ -4102,16 +4140,16 @@ separately /'sepərətli/ adv
 
  > **session of**  
  > a session of the UN General Assembly  
- > 一届联合国大会  （）  
+ > 一届联合国大会    
 
  > **in session**  
  > The court is now in session.  
- > 法院现在正在开庭。  （）  
+ > 法院现在正在开庭。    
 
 ### 2.*高义频：* **(从事某一活动的) 一段时间；学年：**  
 
  > a question-and-answer session  
- > 问答时间  （）  
+ > 问答时间    
 
 
 # ***\*set*** v  重难点词汇
@@ -4127,30 +4165,30 @@ separately /'sepərətli/ adv
 
  > **set the table**  
  > set the table for dinner  
- > 摆好桌子准备吃饭  （）  
+ > 摆好桌子准备吃饭    
 
  > She set the piano against the wall.  
- > 她把钢琴靠墙摆放。  （）  
+ > 她把钢琴靠墙摆放。    
 
  > The house is set in (= located) fifty acres of parkland.  
- > 那所房子周围是50英亩的绿地。  （）  
+ > 那所房子周围是50英亩的绿地。    
 
 ### 2.*高义频：* **vt 使...开始；使...处于 (某种状态)：**  
 
  > set a fire  
- > 点火  （）  
+ > 点火    
 
 - set sb / sth + adv / prep / adj:
 
  > Her manner immediately set everyone comfortably.  
- > 她的态度立刻使大家感到轻松。  （）  
+ > 她的态度立刻使大家感到轻松。    
 
  > The firm’s accounts need to be set in order.  
- > 公司的账目需要清理。  （）  
+ > 公司的账目需要清理。    
 
  > **set free**  
  > Three years ago, five parrots were set free in a wild place.  
- > 3年前，5只鹦鹉在野外被放飞。  （）  
+ > 3年前，5只鹦鹉在野外被放飞。    
 
 - set sb / sth doing sth:
 
@@ -4161,25 +4199,25 @@ separately /'sepərətli/ adv
 
  > **set,alarm**  
  > She set her alarm for 7 o’clock.  
- > 她把闹钟设到了7点。  （）  
+ > 她把闹钟设到了7点。    
 
 ### 4.*高义频：* **vt 确定 (价值、目标、日期等)；制定：**  
 
  > set a price of $50,000 on the painting  
- > 给那幅画定价5万美元  （）  
+ > 给那幅画定价5万美元    
 
  > **set a goal**  
  > set a goal / rule   
- > 确定目标/制定规则  （）  
+ > 确定目标/制定规则    
 
  > **set a date**  
  > set a wedding date  
- > 确定婚期  （）  
+ > 确定婚期    
 
 ### 5.*高义频：* **vt 布置；安排：**  
 
  > The teacher set the students a lot of homework.  
- > 老师给学生留了很多家庭作业。  （）  
+ > 老师给学生留了很多家庭作业。    
 
 ### 6.*高义频：* **vt 树立 (榜样)；开创 (新风尚等)；创造 (纪录)：**  
 
@@ -4189,11 +4227,11 @@ separately /'sepərətli/ adv
 
  > **set fashions**  
  > Rock stars often set fashions in clothes.  
- > 摇滚歌星常开创时装的新式样。  （）  
+ > 摇滚歌星常开创时装的新式样。    
 
  > **set a new world record**  
  > She set a new world record for the high jump.  
- > 她创造了一项新的世界跳高纪录。  （）  
+ > 她创造了一项新的世界跳高纪录。    
 
 ### 7.*高义频：* **vt [常用于被动语态] 以...为背景：**  
 
@@ -4205,7 +4243,7 @@ separately /'sepərətli/ adv
 反义词 rise 
 
  > We watched the sun setting.  
- > 我们看着太阳落下。  （）  
+ > 我们看着太阳落下。    
 
 
 固定搭配
@@ -4220,10 +4258,10 @@ separately /'sepərətli/ adv
 1.**留出；把…置于一旁：**  
 
  > Set aside some time each day to write, even if it is only five minutes.  
- > 每天留出一点儿时间来写作，哪怕只有5分钟。  （）  
+ > 每天留出一点儿时间来写作，哪怕只有5分钟。    
 
  > set aside one’s work  
- > 放下工作  （）  
+ > 放下工作    
 
 ## \*set down
 1.**记下；放下：**  
@@ -4241,43 +4279,43 @@ separately /'sepərətli/ adv
 1.*高义频：* **出发；动身：**  
 
  > We ought to set off at 7:00, while the roads are empty.  
- > 我们应该7点出发，趁那时路上没什么车。  （）  
+ > 我们应该7点出发，趁那时路上没什么车。    
 
 2.*高义频：* **触响（警报）；放（烟火）：**  
 
  > Some boys are setting off fireworks in the street.  
- > 一些男孩正在街上放烟火。  （）  
+ > 一些男孩正在街上放烟火。    
 
 3.*低义频：* **引发；激发：**  
 
  > His rude reply set off a bad feeling of me.  
- > 他无礼的答复引起了我的反感。  （）  
+ > 他无礼的答复引起了我的反感。    
 
 ## \*set out
 1.**出发；打算；阐述：**  
 
  > **setting out on a,walk**  
  > When setting out on a long walk, always wear suitable shoes.  
- > 出发远行时，一定穿上合适的鞋子。  （）  
+ > 出发远行时，一定穿上合适的鞋子。    
 
  > **set out to**  
  > We set out to paint the whole house but finished only the front part that day.  
  > 那天我们打算把整个房子粉刷完，但只粉刷完了前面的部分。  （2012 全国）  
 
  > He set out the reasons for his decision in his report.  
- > 他在报告中阐述了他作这个决定的理由。  （）  
+ > 他在报告中阐述了他作这个决定的理由。    
 
 ## \*set up
 1.*高义频：* **建起；竖起；安装：**  
 
  > set up camp  
- > 搭建营地  （）  
+ > 搭建营地    
 
 2.*高义频：* **建立；设立；创立 (establish)：**  
 
  > **set up a company**  
  > set up a company  
- > 开公司  （）  
+ > 开公司    
 
 3.*高义频：* **安排：**  
 
@@ -4288,13 +4326,22 @@ separately /'sepərətli/ adv
 真题解析
 ---
 1. Ralph W. Emerson would always set ________ new ideas that occurred to him.  （2014 陕西改）  
+
 2. Traditionally, college students hold a graduation ceremony to encourage themselves before they set ________ on their life journey.  （2013 安徽改）  
+
 3. In much of the animal world, night is the time set ________ for sleep — pure and simple.  （2013 湖北改）  
+
 4. Armed with the information you have gathered, you can set about ________ (prepare) your business plan.   （2012 浙江改）  
+
 5. For all three years I have been working for others. I’m hoping I’ll set ________ my own business someday.  （2006 江西改）  
 
 答案：
-1. down  2. off  3. aside  4. preparing  5. up  
+1. down  
+2. off  
+3. aside  
+4. preparing  
+5. up  
+
 # ***\*set*** n  重难点词汇
 英音 set     美音 set  
 
@@ -4307,12 +4354,12 @@ separately /'sepərətli/ adv
 ### 1.*高义频：* **(一) 套；(一) 部：**  
 
  > a set of tools   
- > 一套工具  （）  
+ > 一套工具    
 
 ### 2.*低义频：* **装置；设备：**  
 
  > Do not adjust your TV set.  
- > 请勿自行调整电视机。  （）  
+ > 请勿自行调整电视机。    
 
 
 # ***\*setting*** n
@@ -4325,10 +4372,10 @@ separately /'sepərətli/ adv
 ### 1.*高义频：* **[C] 环境；背景：**  
 
  > the setting of the film  
- > 这部电影的背景  （）  
+ > 这部电影的背景    
 
  > the educational / cultural setting  
- > 教育/文化背景  （）  
+ > 教育/文化背景    
 
 
 # ***\*settle*** v  重难点词汇
@@ -4343,63 +4390,63 @@ separately /'sepərətli/ adv
 
  > **settled on**  
  > The dog settled on the grass to enjoy its bone.  
- > 那条狗舒服地坐在草地上享受骨头的美味。  （）  
+ > 那条狗舒服地坐在草地上享受骨头的美味。    
 
  > **settled herself into**  
  > She settled herself into her chair and started to read.  
- > 她舒舒服服地坐在椅子上开始看书。  （）  
+ > 她舒舒服服地坐在椅子上开始看书。    
 
 ### 2.*高义频：* **(移民、殖民) 定居 (于)**  
 英译 to make a place your permanent home：
 
  > **settled,into**  
  > We settled happily into our new life in the town.  
- > 我们高兴地在那个镇上定居下来，开始了新的生活。  （）  
+ > 我们高兴地在那个镇上定居下来，开始了新的生活。    
 
  > This region was settled by the Dutch in the 19th century.  
- > 这个地区在19世纪开始有荷兰人定居。  （）  
+ > 这个地区在19世纪开始有荷兰人定居。    
 
 ### 3.*高义频：* **对某事达成一致意见；解决**  
 英译 to end an argument or solve a disagreement：
 
  > **settle an argument**  
  > settle an argument  
- > 解决争论  （）  
+ > 解决争论    
 
  > Most of the problems have been settled satisfactorily.  
- > 大多数问题已得到满意的解决。  （）  
+ > 大多数问题已得到满意的解决。    
 
 ### 4.*高义频：* **[常用于被动语态] 确定；决定**  
 英译 to decide or arrange sth finally：
 
  > — When do you go to America?  
- > 你什么时候去美国？  （）  
+ > 你什么时候去美国？    
 
  > — Nothing’s settled yet.  
- > 一切待定。  （）  
+ > 一切待定。    
 
  > **It was settled that**  
  > It was settled that they would get married in June.  
- > 他们决定于6月结婚。  （）  
+ > 他们决定于6月结婚。    
 
 ### 5.*低义频：* **(使) 平静；(使) 安定**  
 英译 to become or make sb / sth become calm or quiet：
 
  > **settle,nerves**  
  > She breathed deeply to settle her nerves.  
- > 她深呼吸来平复自己的紧张情绪。  （）  
+ > 她深呼吸来平复自己的紧张情绪。    
 
 ### 6.*低义频：* **降落；停留：**  
 
  > **settled on**  
  > A butterfly settled on a red flower.  
- > 一只蝴蝶落在一朵红色的花上面。  （）  
+ > 一只蝴蝶落在一朵红色的花上面。    
 
 ### 7.*低义频：* **围绕；充满：**  
 
  > **settled over**  
  > Depression settled over her like a heavy black cloud.  
- > 忧郁的情绪像一片乌云笼罩在她的心头。  （）  
+ > 忧郁的情绪像一片乌云笼罩在她的心头。    
 
 
 固定搭配
@@ -4408,7 +4455,7 @@ separately /'sepərətli/ adv
 1.**舒服地坐下 / 躺下：**  
 
  > She settled back in her seat to enjoy the film.  
- > 她舒服地坐在座位上看电影。  （）  
+ > 她舒服地坐在座位上看电影。    
 
 ## \*settle down
 1.*高义频：* **舒适地坐下 / 躺下：**  
@@ -4419,39 +4466,39 @@ separately /'sepərətli/ adv
 2.*高义频：* **安顿下来；安定下来：**  
 
  > When are you going to get married and settle down?  
- > 你打算什么时候结婚成家，安定下来啊？  （）  
+ > 你打算什么时候结婚成家，安定下来啊？    
 
 3.*高义频：* **(使) 安静；(使) 平静：**  
 
  > She didn’t start the lesson until the pupils settled down.  
- > 等学生们安静下来后，她才开始上课。  （）  
+ > 等学生们安静下来后，她才开始上课。    
 
 ## \*settle (down) to
 1.**开始专心于；着手认真做：**  
 
  > With so much noise outside, I couldn’t settle down to my work.  
- > 外面那么吵，我不能专心工作。  （）  
+ > 外面那么吵，我不能专心工作。    
 
 ## \*settle for
 1.**勉强接受；将就：**  
 
  > She doesn’t settle for anything but the best.  
- > 她只想要最好的，绝不会将就。  （）  
+ > 她只想要最好的，绝不会将就。    
 
 ## \*settle in / into
 1.**适应；习惯 (新事物)：**  
 
  > How’s your new home? Are you settling in OK?  
- > 你的新家怎么样？你习惯吗？  （）  
+ > 你的新家怎么样？你习惯吗？    
 
  > She soon settled into her new college life.  
- > 她很快就适应了大学的新生活。  （）  
+ > 她很快就适应了大学的新生活。    
 
 ## \*settle on
 1.**决定；选定**  
 
  > We must settle on a place to meet.  
- > 我们得把见面的地点定下来。  （）  
+ > 我们得把见面的地点定下来。    
 
 
 # ***\*settlement*** n
@@ -4465,12 +4512,12 @@ separately /'sepərətli/ adv
 
  > **reach a peace settlement**  
  > come to / reach a peace settlement with  
- > 与…达成和平协议  （）  
+ > 与…达成和平协议    
 
 ### 2.*低义频：* **[U] 解决；处理：**  
 
  > the settlement of an issue  
- > 问题的解决  （）  
+ > 问题的解决    
 
 ### 3.*低义频：* **[U] 安顿；定居：**  
 
@@ -4502,7 +4549,7 @@ separately /'sepərətli/ adv
 ### 1.*高义频：* **几个的；数个的 (至少三个)：**  
 
  > I have been to Beijing several times.  
- > 我去过几次北京。  （）  
+ > 我去过几次北京。    
 
 
 # ***\*several*** pron
@@ -4515,7 +4562,7 @@ separately /'sepərətli/ adv
 ### 1.*高义频：* **几个；数个：**  
 
  > Several of us failed in the exam.  
- > 我们中有几个人考试不及格。  （）  
+ > 我们中有几个人考试不及格。    
 
 
 # ***\*severe*** adj
@@ -4529,30 +4576,30 @@ separately /'sepərətli/ adv
 英译 extremely bad or serious：
 
  > severe damage / a severe crisis   
- > 严重的损害/危机  （）  
+ > 严重的损害/危机    
 
 ### 2.*高义频：* **严厉的；苛刻的：**  
 
  > be severe with oneself  
- > 严于律己  （）  
+ > 严于律己    
 
 ### 3.*低义频：* **严峻的；激烈的：**  
 
  > the severe winter  
- > 严冬  （）  
+ > 严冬    
 
  > severe competition  
- > 激烈的竞争  （）  
+ > 激烈的竞争    
 
 
 派生词汇
 ---
 severely /sə'vɪrlɪ/ adv   
  > a severely polluted lake  
- > 严重污染的湖  （）  
+ > 严重污染的湖    
 
  > Anyone breaking the law will be severely punished.  
- > 任何人犯法都会受到严惩。  （）  
+ > 任何人犯法都会受到严惩。    
 
 
 # ***\*sew*** v
@@ -4616,7 +4663,7 @@ sexually /'sekʃəli/ adv
 ### 1.*高义频：* **破旧的；寒酸的：**  
 
  > a shabby dress / room  
- > 破旧的连衣裙/房间  （）  
+ > 破旧的连衣裙/房间    
 
 
 # ***\*shade*** n
@@ -4632,10 +4679,10 @@ sexually /'sekʃəli/ adv
 
  > **in the shade**  
  > sit in the shade  
- > 坐在背阴处  （）  
+ > 坐在背阴处    
 
  > In hot, sunny climates, wide-edged hats provide shade from the sun.  
- > 在炎热的天气里，宽檐帽可以遮阳。  （）  
+ > 在炎热的天气里，宽檐帽可以遮阳。    
 
 #### 辨析 shade, shadow
   
@@ -4656,10 +4703,10 @@ shady /'ʃeɪdi/ adj
 
  > **shadows under sb’s eyes**  
  > shadows under sb’s eyes  
- > 某人的黑眼圈  （）  
+ > 某人的黑眼圈    
 
  > the shadow of death  
- > 死亡的阴影  （）  
+ > 死亡的阴影    
 
  > **casts,shadow**  
  > When the sun is low, the grand building casts its shadow right across the city.  
@@ -4669,7 +4716,7 @@ shady /'ʃeɪdi/ adj
 
  > **in the shadow**  
  > Sometimes she sits alone in the shadow.  
- > 有时候她独自一人坐在暗处。  （）  
+ > 有时候她独自一人坐在暗处。    
 
 #### 辨析 shade, shadow
   
@@ -4692,34 +4739,34 @@ shadowy /'ʃædəʊi/ adj
 
  > **shake one’s head**  
  > shake one’s head  
- > 摇头  （）  
+ > 摇头    
 
  > Shake the bottle before drinking.  
- > 喝前摇一摇瓶子。  （）  
+ > 喝前摇一摇瓶子。    
 
  > He was shaking with anger.  
- > 他气得发抖。  （）  
+ > 他气得发抖。    
 
 ### 2.*高义频：* **vt 握 (手)；同...握手：**  
 
  > **shake hands with**  
  > shake hands with  
- > 与…握手  （）  
+ > 与…握手    
 
  > **shake sb by the hand**  
  > shake sb by the hand  
- > 同某人握手  （）  
+ > 同某人握手    
 
 ### 3.*低义频：* **vt 动摇；减弱；削弱：**  
 
  > **shake sb’s confidence**  
  > shake sb’s confidence  
- > 动摇某人的信心  （）  
+ > 动摇某人的信心    
 
 ### 4.*低义频：* **vt 摆脱；摒弃：**  
 
  > shake a bad habit  
- > 摆脱恶习  （）  
+ > 摆脱恶习    
 
 
 固定搭配
@@ -4731,7 +4778,7 @@ shadowy /'ʃædəʊi/ adj
  > 傍晚时分的散步是摆脱一天的心烦意乱的时候。  （2015 浙江）  
 
  > You can’t shake off the sun with one hand.  
- > 只手难遮天。  （）  
+ > 只手难遮天。    
 
 
 # ***\*shake*** n
@@ -4746,10 +4793,10 @@ shadowy /'ʃædəʊi/ adj
 ### 1.*高义频：* **摇动；摇晃：奶昔：**  
 
  > Give the bottle a good shake before use.  
- > 使用前要用力晃瓶子。  （）  
+ > 使用前要用力晃瓶子。    
 
  > a strawberry shake  
- > 草莓奶昔  （）  
+ > 草莓奶昔    
 
 
 # ***\*shall*** modal v
@@ -4764,36 +4811,36 @@ shadowy /'ʃædəʊi/ adj
 ### 1.*高义频：* **[用于第一人称] 将要；将会：**  
 
  > Shall we get off at the next stop?  
- > 我们下一站下车吗？  （）  
+ > 我们下一站下车吗？    
 
  > I shall be twenty next month.  
- > 下个月我就20岁了。  （）  
+ > 下个月我就20岁了。    
 
 ### 2.*低义频：* **[表示说话者的允诺、命令、决心等，用于陈述句的第二、三人称] 必须；应；可：**  
 
  > You shall get the answer right this afternoon.  
- > 今天下午你一定会得到答复的。  （）  
+ > 今天下午你一定会得到答复的。    
 
 ### 3.*高义频：* **[在问句中表示征求对方意见，主要用于第一、三人称] ...好吗：**  
 
  > Shall I fetch some chalk?  
- > 我去拿些粉笔来好吗？  （）  
+ > 我去拿些粉笔来好吗？    
 
  > Shall he come to see you?  
- > 要他来见你吗？  （）  
+ > 要他来见你吗？    
 
 ### 4.*低义频：* **[用在表示意图、要求等的从句中] 应该；要：**  
 
  > I wish that you shall stay at home tonight.  
- > 我希望你今晚留在家里。  （）  
+ > 我希望你今晚留在家里。    
 
  > Ordinary people merely think how they shall spend their time; a man of talent tries to use it.  
- > 普通人只想到要如何度过时间，而有才能的人却设法利用时间。——叔本华  （）  
+ > 普通人只想到要如何度过时间，而有才能的人却设法利用时间。——叔本华    
 
 ### 5.*低义频：* **[用于法律、条约、协定等文件中] 义务；规定：**  
 
  > Each citizen shall carry his identification card when travelling.  
- > 旅行时每个公民都必须带上身份证。  （）  
+ > 旅行时每个公民都必须带上身份证。    
 
 
 真题解析
@@ -4803,18 +4850,21 @@ A.might
 B.could   
 C.shall   
 D.will  
+
 2. — Will you read me a story, Mummy?
 — OK. You ________ have one if you go to bed as soon as possible.  （2011 陕西）  
 A.might   
 B.must   
 C.could   
 D.shall  
+
 3. — What does the sign over there read?
 — “No person ________ smoke or carry a lighted cigarette, cigar or pipe in this area.”  （2007 四川）  
 A.will   
 B.may   
 C.shall   
 D.must  
+
 4. — What’s the name?
 — Khulaifi. ________ I spell that for you?  （2006 北京）  
 A.Shall   
@@ -4823,7 +4873,11 @@ C.Can
 D.Might  
 
 答案：
-1. C  2. D  3. C  4. A  
+1. C  
+2. D  
+3. C  
+4. A  
+
 # ***\*shallow*** adj
 英音 'ʃæləʊ     美音 'ʃæloʊ  
 
@@ -4834,10 +4888,10 @@ D.Might
 ### 1.*高义频：* **浅的 反 deep；肤浅的：**  
 
  > shallow water  
- > 浅水  （）  
+ > 浅水    
 
  > a shallow writer / opinion  
- > 肤浅的作者/观点  （）  
+ > 肤浅的作者/观点    
 
 
 # ***\*shame*** n
@@ -4851,17 +4905,17 @@ D.Might
 
  > **hung his head in shame**  
  > The boy hung his head in shame.  
- > 那个男孩子羞愧地低下了头。  （）  
+ > 那个男孩子羞愧地低下了头。    
 
 ### 2.*高义频：* **[常用单数] 可耻的事或人；遗憾的事 (pity)：**  
 
  > **It is a shame to**  
  > It is a shame to be so wasteful.  
- > 这样浪费太可耻了。  （）  
+ > 这样浪费太可耻了。    
 
  > **It’s a shame that**  
  > It’s a shame that you have to leave so soon.  
- > 你这么快就要走，真令人遗憾。  （）  
+ > 你这么快就要走，真令人遗憾。    
 
 
 固定搭配
@@ -4871,13 +4925,13 @@ D.Might
 英译 to be much better than sb / sth：
 
  > His cooking puts mine to shame.  
- > 他的厨艺让我自愧不如。  （）  
+ > 他的厨艺让我自愧不如。    
 
 ## \*to sb’s shame
 1.**令某人感到羞愧的是：**  
 
  > To my shame, I made many mistakes because of carelessness.  
- > 让我感到羞愧的是，由于粗心我犯了很多错误。  （）  
+ > 让我感到羞愧的是，由于粗心我犯了很多错误。    
 
 ## \*What a shame!
 1.**真遗憾！**  
@@ -4908,7 +4962,7 @@ shameless /'ʃeɪmləs/ adj
 ### 1.*高义频：* **使成形：**  
 
  > an L-shaped sofa   
- > L形的沙发  （）  
+ > L形的沙发    
 
  > Italy shaped like a boot lies in the south of Europe.   
  > 意大利位于欧洲的南部，它的形状像一只靴子。  （人教⑧-1）  
@@ -4925,7 +4979,7 @@ shameless /'ʃeɪmləs/ adj
 1.**[非正式用语] 改进 (行为 / 工作)：**  
 
  > If he doesn’t shape up, he’ll soon be out of a job.   
- > 如果他不改进的话，很快就会失业。  （）  
+ > 如果他不改进的话，很快就会失业。    
 
 
 # ***\*shape*** n
@@ -4954,41 +5008,44 @@ shameless /'ʃeɪmləs/ adj
 1.**身体健康 / 不健康；状态好 / 不好：**  
 
  > He’s in good shape for a man of his age.   
- > 对他这个年龄的人来说，他这身体算是不错了。  （）  
+ > 对他这个年龄的人来说，他这身体算是不错了。    
 
  > The economy is in very bad shape and is likely to get worse.   
- > 经济形势很不好，而且还有可能恶化。  （）  
+ > 经济形势很不好，而且还有可能恶化。    
 
 ## \*in shape 
 1.**健康状况好：**  
 
  > **keep,stay in shape**  
  > She jogs for an hour every morning to keep / stay in shape.   
- > 她每天早上慢跑一小时来保持健康。  （）  
+ > 她每天早上慢跑一小时来保持健康。    
 
 ## \*out of shape 
 1.**变形；身体不健康：**  
 
  > The front wheel of the bicycle was out of shape.   
- > 这辆自行车的前轮变形了。  （）  
+ > 这辆自行车的前轮变形了。    
 
  > I hadn’t been training for months and was really out of shape.   
- > 我已经好几个月没锻炼了，身体真的不行了。  （）  
+ > 我已经好几个月没锻炼了，身体真的不行了。    
 
 ## \*take shape 
 1.**形成；使成形：**  
 
  > An idea was beginning to take shape in his mind.   
- > 一个想法开始在他的脑海中形成。  （）  
+ > 一个想法开始在他的脑海中形成。    
 
 
 真题解析
 ---
 1. Tom always goes jogging in the morning and he usually does push-ups too to stay ________ shape.  （2014 江苏改）  
+
 2. You have been sitting on my hat and now it is badly ________ (变形).  （）  
 
 答案：
-1. in  2. out of shape  
+1. in  
+2. out of shape  
+
 # ***\*share*** n  重难点词汇
 英音 ʃeə(r)     美音 ʃer  
 
@@ -5002,11 +5059,11 @@ shameless /'ʃeɪmləs/ adj
 
  > **share of**  
  > I’ll bear / take / have my share of the expense.  
- > 我愿承担我的那份费用。  （）  
+ > 我愿承担我的那份费用。    
 
  > **Share prices**  
  > Share prices are down in London.  
- > 伦敦的股票价格在下跌。  （）  
+ > 伦敦的股票价格在下跌。    
 
 
 # ***\*share*** v  重难点词汇
@@ -5025,20 +5082,20 @@ shameless /'ʃeɪmləs/ adj
 
  > **shared,with**  
  > She shared a house with three other students.  
- > 她和其他三个学生合住一所房子。  （）  
+ > 她和其他三个学生合住一所房子。    
 
  > There isn’t an empty table. Would you mind sharing?  
- > 没有空桌了，你介意拼桌吗？  （）  
+ > 没有空桌了，你介意拼桌吗？    
 
 ### 2.*高义频：* **vt 分配；分摊；分担**  
 英译 to divide sth between two or more people：
 
  > **shared,between**  
  > After his death, his property was shared out between his children.  
- > 他去世后，财产被分给了子女。  （）  
+ > 他去世后，财产被分给了子女。    
 
  > I took a taxi together with another passenger and we shared the bill.  
- > 我和另外一名乘客同坐一辆出租车，我们分摊了费用。  （）  
+ > 我和另外一名乘客同坐一辆出租车，我们分摊了费用。    
 
  > I can do my bit to help with the housework, so as to share mother’s daily burden.  
  > 我尽自己的一点力来帮忙做家务，以分担妈妈的日常负担。  （2011 江苏书面表达改）  
@@ -5047,21 +5104,21 @@ shameless /'ʃeɪmləs/ adj
 英译 to have the same feelings, ideas, etc. as sb else：
 
  > They shared a common interest in football.  
- > 他们都对足球感兴趣。  （）  
+ > 他们都对足球感兴趣。    
 
  > **share,belief**  
  > All the parents presented share the belief in the importance of reading with Miss Li.  
- > 所有在场的家长都和李老师看法一样，认为阅读非常重要。  （）  
+ > 所有在场的家长都和李老师看法一样，认为阅读非常重要。    
 
 ### 4.*高义频：* **vt & vi 向某人诉说 (想法 / 秘密 / 问题等)**  
 英译 to tell others about your ideas, experiences and feelings：
 
  > The two friends shared everything and they had no secrets.  
- > 这对朋友无话不谈，他们之间毫无秘密。  （）  
+ > 这对朋友无话不谈，他们之间毫无秘密。    
 
  > **share,with**  
  > Could you share your experiences with us?   
- > 你能和我们讲讲你的经历吗？  （）  
+ > 你能和我们讲讲你的经历吗？    
 
 
 真题解析
@@ -5070,6 +5127,7 @@ shameless /'ʃeɪmləs/ adj
 
 答案：
 1. shared  
+
 # ***\*shark*** n
 英音 ʃɑːk     美音 ʃɑːrk  
 
@@ -5090,7 +5148,7 @@ shameless /'ʃeɪmləs/ adj
 ### 1.*高义频：* **正 (指时刻)；整：**  
 
  > 2 o’clock sharp  
- > 两点整  （）  
+ > 两点整    
 
 
 # ***\*sharp*** adj
@@ -5103,41 +5161,41 @@ shameless /'ʃeɪmləs/ adj
 ### 1.*高义频：* **锋利的；尖的：**  
 
  > sharp teeth  
- > 锋利的牙齿  （）  
+ > 锋利的牙齿    
 
 ### 2.*高义频：* **(角度、变化等) 急剧的；明显的**  
 英译 sudden and rapid, especially of a change：
 
  > a sharp bend  
- > 急转弯  （）  
+ > 急转弯    
 
  > a sharp drop / increase in prices   
- > 价格急剧下跌/上涨  （）  
+ > 价格急剧下跌/上涨    
 
 ### 3.*高义频：* **(感观) 敏锐的；(人) 机灵的：**  
 反义词 dull / stupid 
 
  > **sharp eyes**  
  > She has sharp eyes.  
- > 她目光敏锐。  （）  
+ > 她目光敏锐。    
 
  > a sharp child  
- > 机灵的孩子  （）  
+ > 机灵的孩子    
 
 ### 4.*高义频：* **(言辞等) 尖刻的；严厉的**  
 英译 (of a person or what they say) critical or severe：
 
  > sharp criticism  
- > 尖锐的批评  （）  
+ > 尖锐的批评    
 
  > **be sharp with**  
  > be sharp with sb  
- > 对某人严厉  （）  
+ > 对某人严厉    
 
 ### 5.*高义频：* **剧烈的；猛烈的：**  
 
  > I felt a sharp pain in my back.  
- > 我感到背上一阵剧痛。  （）  
+ > 我感到背上一阵剧痛。    
 
 ### 6.*高义频：* **尖厉的；刺耳的：**  
 
@@ -5151,30 +5209,33 @@ sharply /'ʃɑːpli/ adv
 1. **急剧地；严厉地：**  
 
  > House prices have risen sharply over the last decade.  
- > 过去十年里房价急剧上涨。  （）  
+ > 过去十年里房价急剧上涨。    
 
  > speak sharply to sb   
- > 斥责某人  （）  
+ > 斥责某人    
 
 sharpen  v   
 1. *低义频：* **削尖；磨快**  
 
  > sharpen a pencil  
- > 削铅笔  （）  
+ > 削铅笔    
 
 2. *低义频：* **使提高；使改进**  
 
  > Debates sharpen one’s wits.  
- > 辩论增长才智。  （）  
+ > 辩论增长才智。    
 
 
 真题解析
 ---
 1. Hardly had Sabrina finished her words when Albert said ________ (sharp), “Don’t be so mean,” pointing a finger of warning at her.  （2014 湖北改）  
+
 2. Nowadays, there is a ________ (急剧的) increase in children’s creativity, for they are greatly encouraged to develop their talents.    （2011 福建改）  
 
 答案：
-1. sharply  2. sharp  
+1. sharply  
+2. sharp  
+
 # ***\*sharpen*** vt
 英音 'ʃɑːpən     美音 'ʃɑːrpən  
 
@@ -5185,7 +5246,7 @@ sharpen  v
 ### 1.*低义频：* **削尖；磨快：**  
 
  > sharpen a pencil  
- > 削铅笔  （）  
+ > 削铅笔    
 
  > They also made tools of bones and sharpened stones.  
  > 他们还用骨头和磨尖的石头制作工具。  （外研⑦ – 6）  
@@ -5193,7 +5254,7 @@ sharpen  v
 ### 2.*低义频：* **使提高；使改进：**  
 
  > Debates sharpen one’s wits.  
- > 辩论增长才智。  （）  
+ > 辩论增长才智。    
 
 
 # ***\*sharpener*** n
@@ -5219,7 +5280,7 @@ sharpen  v
 
  > **shave one’s head**  
  > shave one’s head / the lawn   
- > 剃头/修剪草坪  （）  
+ > 剃头/修剪草坪    
 
 
 真题解析
@@ -5228,6 +5289,7 @@ sharpen  v
 
 答案：
 1. shaved  
+
 # ***\*shave*** n
 英音 ʃeɪv     美音 ʃeɪv  
 
@@ -5240,7 +5302,7 @@ sharpen  v
 ### 1.*高义频：* **刮脸；修面：**  
 
  > The barber gave him a shave and a haircut.  
- > 理发师给他修了修面、理了理发。  （）  
+ > 理发师给他修了修面、理了理发。    
 
 
 # ***\*shaver*** n
@@ -5277,10 +5339,10 @@ sharpen  v
 ### 2.*低义频：* **[作为国家、地球、月球、车船等的代词] 她；它：**  
 
  > — What’s wrong with the car?  
- > 车出什么毛病了？  （）  
+ > 车出什么毛病了？    
 
  > — She won’t start.  
- > 发动不起来了。  （）  
+ > 发动不起来了。    
 
 
 # ***\*sheep*** n
@@ -5317,12 +5379,12 @@ sharpen  v
 ### 1.*高义频：* **被单；床单：**  
 
  > table cloths and bed sheets  
- > 桌布和床单  （）  
+ > 桌布和床单    
 
 ### 2.*高义频：* **一张 (纸)；(一) 片；(一) 块：**  
 
  > a sheet of notepaper  
- > 一张信纸  （）  
+ > 一张信纸    
 
 
 # ***\*shelf*** n
@@ -5338,11 +5400,11 @@ sharpen  v
 
  > **shelf life**  
  > shelf life  
- > 保存期；货架期  （）  
+ > 保存期；货架期    
 
  > **on the shelf**  
  > Replace the books on the shelf after reading.  
- > 阅读后把书放回书架。  （）  
+ > 阅读后把书放回书架。    
 
 
 # ***\*shell*** vt
@@ -5356,7 +5418,7 @@ sharpen  v
 
  > **shelling peas**  
  > as easy as shelling peas   
- > 像剥豆子一样容易；非常容易  （）  
+ > 像剥豆子一样容易；非常容易    
 
 
 # ***\*shell*** n
@@ -5394,7 +5456,7 @@ sharpen  v
 
  > **shelter from**  
  > We should find a shelter from the wind.  
- > 我们应该找个避风的地方。  （）  
+ > 我们应该找个避风的地方。    
 
  > **shelters for**  
  > Workers built shelters for survivors whose homes had been destroyed.  
@@ -5409,11 +5471,11 @@ sharpen  v
 
  > **take shelter from**  
  > find / take shelter from the rain  
- > 避雨  （）  
+ > 避雨    
 
  > **under the shelter of**  
  > They were standing under the shelter of a huge tree.  
- > 他们站在一棵大树下躲着。  （）  
+ > 他们站在一棵大树下躲着。    
 
 
 # ***\*shelter*** v  重难点词汇
@@ -5426,18 +5488,18 @@ sharpen  v
 ### 1.*高义频：* **vt 掩蔽；保护；为...提供避难所：**  
 
  > The darkness of the night sheltered their activities.  
- > 黑夜掩护了他们的行动。  （）  
+ > 黑夜掩护了他们的行动。    
 
 - shelter ... from :
 
  > Trees were planted to shelter this area from strong sand storms.  
- > 人们种树使这个地区免受强沙尘暴的侵袭。  （）  
+ > 人们种树使这个地区免受强沙尘暴的侵袭。    
 
 ### 2.*高义频：* **vi 躲避；避难：**  
 
  > **sheltering from**  
  > We sat in the shade, sheltering from the sun.  
- > 我们坐在背阴处躲避日晒。  （）  
+ > 我们坐在背阴处躲避日晒。    
 
 
 真题解析
@@ -5446,6 +5508,7 @@ sharpen  v
 
 答案：
 1. from  
+
 # ***\*shepherd*** n
 英音 'ʃepəd     美音 'ʃepərd  
 
@@ -5467,13 +5530,13 @@ sharpen  v
 
  > **shift in**  
  > A shift in the wind is expected tonight.  
- > 预计今晚风向会有变化。  （）  
+ > 预计今晚风向会有变化。    
 
 ### 2.*高义频：* **[C] 班；轮班：**  
 
  > **day / night shift**  
  > be on the day / night shift  
- > 值白/夜班  （）  
+ > 值白/夜班    
 
 ### 3.*低义频：* **[U] (计算机) 转换 (键)**  
 
@@ -5488,25 +5551,25 @@ sharpen  v
 ### 1.*高义频：* **vi & vt (使) 移动；(使) 转移：**  
 
  > shift the furniture  
- > 搬家具  （）  
+ > 搬家具    
 
  > **shifting,from,to**  
  > Joe listened, shifting uncomfortably from one foot to another.  
- > 乔听着，不安地把重心从一只脚移到另一只脚上。  （）  
+ > 乔听着，不安地把重心从一只脚移到另一只脚上。    
 
  > **shift,attention away**  
  > The White House hopes to shift the media’s attention away from foreign policy issues.  
- > 白宫希望把媒体的注意力从外交政策问题上转移开。  （）  
+ > 白宫希望把媒体的注意力从外交政策问题上转移开。    
 
 ### 2.*高义频：* **vi & vt 改变；更替**  
 英译 to change your opinion of or attitude towards sb / sth：
 
  > **shift,ground**  
  > He refused to shift his ground.  
- > 他拒绝改变立场。  （）  
+ > 他拒绝改变立场。    
 
  > Public attitude towards marriage have shifted over the past 50 years.  
- > 在过去的50年里，公众对婚姻的态度已经改变了。  （）  
+ > 在过去的50年里，公众对婚姻的态度已经改变了。    
 
 
 # ***\*shilling*** n
@@ -5534,10 +5597,10 @@ sharpen  v
 
  > **moon shone**  
  > The moon shone brightly in the sky.  
- > 皓月当空。  （）  
+ > 皓月当空。    
 
  > Please shine your flashlight over there.  
- > 请把手电筒往那儿照。  （）  
+ > 请把手电筒往那儿照。    
 
 
 派生词汇
@@ -5576,7 +5639,7 @@ shiny /'ʃaɪni/ adj
 ### 1.*高义频：* **把...装上船；用船运送：**  
 
  > They shipped the machine from Shanghai to Tianjin last week.  
- > 上周他们用船把机器从上海运往天津。  （）  
+ > 上周他们用船把机器从上海运往天津。    
 
 
 # ***\*shipyard*** n
@@ -5612,36 +5675,36 @@ shiny /'ʃaɪni/ adj
 
  > **shock wave**  
  > the shock wave  
- > 冲击波  （）  
+ > 冲击波    
 
  > The shock of the earthquake was felt miles away.  
- > 地震引起的震动在数英里之外都能感觉得到。  （）  
+ > 地震引起的震动在数英里之外都能感觉得到。    
 
 ### 2.*高义频：* **[C] 电击；触电：**  
 
  > **get a shock**  
  > Don’t touch that wire or you’ll get a shock.  
- > 别碰那根线，否则你会触电的。  （）  
+ > 别碰那根线，否则你会触电的。    
 
 ### 3.*高义频：* **[U] & [C] [常用单数] (精神上的) 震惊；打击；令人震惊的事：**  
 
  > **in,a state of,shock**  
  > She was in ( a state of) shock for about two weeks after the accident.  
- > 出事后差不多两个星期里，她都处于惊魂未定的状态。  （）  
+ > 出事后差不多两个星期里，她都处于惊魂未定的状态。    
 
  > **shock of**  
  > Mom hasn’t gotten over the shock of Dad’s death.  
- > 妈妈还没有从爸爸去世的打击中恢复过来。  （）  
+ > 妈妈还没有从爸爸去世的打击中恢复过来。    
 
  > **came as a shock**  
  > It came as a shock to hear that the factory would have to close.  
- > 听说工厂要关闭，人们感到很震惊。  （）  
+ > 听说工厂要关闭，人们感到很震惊。    
 
 ### 4.*高义频：* **[U] 休克：**  
 
  > **suffering from shock**  
  > She was taken to hospital suffering from shock.  
- > 她因休克被送往医院。  （）  
+ > 她因休克被送往医院。    
 
 
 固定搭配
@@ -5663,7 +5726,7 @@ shiny /'ʃaɪni/ adj
  > 斯科特的死讯让整个世界为之震惊。  （北师大③ – 8）  
 
  > He seems to enjoy shocking people.  
- > 他好像以冒犯他人为乐。  （）  
+ > 他好像以冒犯他人为乐。    
 
 
 派生词汇
@@ -5671,20 +5734,20 @@ shiny /'ʃaɪni/ adj
 shocked /ʃɒkt/ adj   
  > **shocked look,expression**  
  > a shocked look / expression  
- > 惊讶的样子/表情  （）  
+ > 惊讶的样子/表情    
 
  > **deeply shocked at,by**  
  > They were deeply shocked at / by her behaviour.  
- > 她的行为让他们深感气愤。  （）  
+ > 她的行为让他们深感气愤。    
 
 shocking /'ʃɒkɪŋ/ adj   
  > **shocking news**  
  > shocking news  
- > 令人震惊的消息  （）  
+ > 令人震惊的消息    
 
  > **It’s shocking that**  
  > It’s shocking that he refused to help his twin brother.  
- > 令人憎恶的是，他竟然拒绝帮助他的双胞胎兄弟。  （）  
+ > 令人憎恶的是，他竟然拒绝帮助他的双胞胎兄弟。    
 
 
 # ***\*shocked*** adj
@@ -5709,7 +5772,7 @@ shocking /'ʃɒkɪŋ/ adj
 ### 1.*高义频：* **鞋：**  
 
  > Every shoe fits not every foot.  
- > 不可用一种尺度衡量一切。  （）  
+ > 不可用一种尺度衡量一切。    
 
 
 固定搭配
@@ -5719,7 +5782,7 @@ shocking /'ʃɒkɪŋ/ adj
 
  > **put yourself in their shoes**  
  > Don’t be angry any more. Try to put yourself in their shoes.  
- > 别再生气了，要设身处地地为他们想一想。  （）  
+ > 别再生气了，要设身处地地为他们想一想。    
 
 
 # ***\*shoot*** n
@@ -5734,10 +5797,10 @@ shocking /'ʃɒkɪŋ/ adj
 ### 1.*高义频：* **嫩枝；新芽：**  
 
  > bamboo shoots  
- > 竹笋  （）  
+ > 竹笋    
 
  > The rose is putting out new shoots.  
- > 玫瑰正抽出新芽。  （）  
+ > 玫瑰正抽出新芽。    
 
 
 # ***\*shoot*** v
@@ -5752,34 +5815,34 @@ shocking /'ʃɒkɪŋ/ adj
 ### 1.*高义频：* **vi & vt 射出；射击：**  
 
  > The guns shoot a hundred metres.  
- > 这些枪能射出100米远。  （）  
+ > 这些枪能射出100米远。    
 
  > **shot,arrow**  
  > He shot the arrow from the bow.  
- > 他拉弓把箭射了出去。  （）  
+ > 他拉弓把箭射了出去。    
 
  > One more look and he noticed flames shooting out from under the vehicle.  
- > 他又看了一眼，便注意到火苗从那辆车下喷了出来。  （）  
+ > 他又看了一眼，便注意到火苗从那辆车下喷了出来。    
 
 ### 2.*高义频：* **vt 射中；射死：**  
 
  > The police shot one suspect when he pulled a gun on them.   
- > 警方击毙一名对他们拔枪的嫌疑人。  （）  
+ > 警方击毙一名对他们拔枪的嫌疑人。    
 
 ### 3.*高义频：* **vt & vi拍摄：**  
 
  > The movie was shot in New Zealand.  
- > 这部电影是在新西兰拍摄的。  （）  
+ > 这部电影是在新西兰拍摄的。    
 
 ### 4.*高义频：* **vt & vi射门；投篮：**  
 
  > The basketball player shot the last goal.  
- > 那位篮球运动员投进了最后一球。  （）  
+ > 那位篮球运动员投进了最后一球。    
 
 ### 5.*高义频：* **vi & vt(使)快速移动：**  
 
  > The pickpocket shot his hand into her bag.  
- > 扒手迅速地将手伸进了她的包。  （）  
+ > 扒手迅速地将手伸进了她的包。    
 
 
 固定搭配
@@ -5788,7 +5851,7 @@ shocking /'ʃɒkɪŋ/ adj
 1.**向…射击：**  
 
  > The hunter shot the wolf after he shot at it several times.  
- > 猎人几次射击后终于射中了狼。  （）  
+ > 猎人几次射击后终于射中了狼。    
 
 
 派生词汇
@@ -5807,10 +5870,10 @@ shooting /'ʃuːtɪŋ/ n
 ### 1.*高义频：* **商店；车间；工厂：**  
 
  > a beauty shop  
- > 美容院  （）  
+ > 美容院    
 
  > run / open / close a shop  
- > 经营/开/关店铺  （）  
+ > 经营/开/关店铺    
 
 
 # ***\*shop*** vi
@@ -5861,7 +5924,7 @@ shooting /'ʃuːtɪŋ/ n
 ### 1.*高义频：* **购物：**  
 
  > go shopping  
- > 去购物  （）  
+ > 去购物    
 
 
 # ***\*shore*** n
@@ -5876,7 +5939,7 @@ shooting /'ʃuːtɪŋ/ n
 ### 1.*高义频：* **岸；滨：**  
 
  > The trees on the shores of the lake were reflected in the clear water.  
- > 湖沿岸的树木倒映在清澈的湖水里。  （）  
+ > 湖沿岸的树木倒映在清澈的湖水里。    
 
 
 # ***\*short*** n
@@ -5910,27 +5973,27 @@ shooting /'ʃuːtɪŋ/ n
 ### 1.*高义频：* **(长度、时间) 短的 反 long；近的；矮的 反 tall：**  
 
  > cut / make a long story short  
- > 长话短说  （）  
+ > 长话短说    
 
  > The bus stop is a short way off.  
- > 公交车站离这儿不远。  （）  
+ > 公交车站离这儿不远。    
 
  > He is too short to become a basketball player.  
- > 他个子太矮，当不了篮球运动员。  （）  
+ > 他个子太矮，当不了篮球运动员。    
 
 ### 2.*高义频：* **不足的；缺乏的：**  
 
  > Guide dogs are short in number.  
- > 导盲犬数量不足。  （）  
+ > 导盲犬数量不足。    
 
  > **are short in supply**  
  > These goods are short in supply.  
- > 这些货物供应短缺。  （）  
+ > 这些货物供应短缺。    
 
 ### 3.*低义频：* **简短的；简洁的；缩写的：**  
 
  > His answer was short and to the point.  
- > 他的回答简明切题。  （）  
+ > 他的回答简明切题。    
 
 
 固定搭配
@@ -5939,26 +6002,29 @@ shooting /'ʃuːtɪŋ/ n
 1.**为…的缩写 / 简称：**  
 
  > UN is short for United Nations.  
- > UN是UnitedNations的简称。  （）  
+ > UN是UnitedNations的简称。    
 
 ## \*(be) short of
 1.**缺乏；不足：**  
 
  > He is short of funds right now.  
- > 眼下他资金短缺。  （）  
+ > 眼下他资金短缺。    
 
  > The report seemed to be short of facts.  
- > 这个报告似乎缺乏事实依据。  （）  
+ > 这个报告似乎缺乏事实依据。    
 
 
 真题解析
 ---
 1. That young man is honest, cooperative, always there when you need his help. ________ (简言之), he’s reliable.  （2016 浙江改）  
+
 2. — Why didn’t you buy the camera you had longed for?
 — I had planned to, but I was £50 ________ (缺少的).  （）  
 
 答案：
-1. In short / In a word  2. short  
+1. In short / In a word  
+2. short  
+
 # ***\*shortage*** n
 英音 'ʃɔːtɪdʒ     美音 'ʃɔːrtɪdʒ  
 
@@ -5972,11 +6038,11 @@ shooting /'ʃuːtɪŋ/ n
 
  > **food,water,housing shortages**  
  > food / water / housing shortages  
- > 食物/用水/住房短缺  （）  
+ > 食物/用水/住房短缺    
 
  > **shortage of**  
  > To overcome a shortage of medical staff, 10 doctors have been employed from overseas.  
- > 为解决医务人员不足的问题，从海外聘用了10名医生。  （）  
+ > 为解决医务人员不足的问题，从海外聘用了10名医生。    
 
 
 # ***\*shortcoming*** n
@@ -5991,7 +6057,7 @@ shooting /'ʃuːtɪŋ/ n
 ### 1.*高义频：* **缺点；短处：**  
 
  > overcome shortcomings  
- > 克服缺点  （）  
+ > 克服缺点    
 
 
 # ***\*shorten*** v
@@ -6004,13 +6070,13 @@ shooting /'ʃuːtɪŋ/ n
 ### 1.*高义频：* **vt & vi (使) 变短；缩短：**  
 
  > a shortened version of classics  
- > 经典著作的缩略版  （）  
+ > 经典著作的缩略版    
 
  > Smoking shortens your life.  
- > 吸烟会减寿。  （）  
+ > 吸烟会减寿。    
 
  > Days shorten in winter.  
- > 冬季白天变短。  （）  
+ > 冬季白天变短。    
 
 
 # ***\*shortly*** adv
@@ -6024,7 +6090,7 @@ shooting /'ʃuːtɪŋ/ n
 
  > **shortly after**  
  > He finished a difficult task on his own shortly after he entered the company.  
- > 他进公司后不久就独立完成了一项艰巨的任务。  （）  
+ > 他进公司后不久就独立完成了一项艰巨的任务。    
 
 
 # ***\*shorts*** n
@@ -6052,45 +6118,45 @@ shooting /'ʃuːtɪŋ/ n
 
  > **firing,shots**  
  > All the soldiers had been ordered to issue clear warnings before firing any shots.  
- > 命令所有士兵在开枪前必须明确示警。  （）  
+ > 命令所有士兵在开枪前必须明确示警。    
 
  > **took a shot at**  
  > Someone took a shot at the car.  
- > 有人朝轿车开枪。  （）  
+ > 有人朝轿车开枪。    
 
  > We heard some shots in the distance.  
- > 我们听见远处有几声枪响。  （）  
+ > 我们听见远处有几声枪响。    
 
 ### 2.*低义频：* **枪手；炮手**  
 
 ### 3.*高义频：* **投篮；射门；击球：**  
 
  > In the football match Shaw took a shot at the goal from the halfway line, but missed.  
- > 在足球赛中，肖从中场线射门，但没射中。  （）  
+ > 在足球赛中，肖从中场线射门，但没射中。    
 
 ### 4.*低义频：* **尝试；努力：**  
 
  > **have a shot at**  
  > I decided to have a shot at decorating the house myself.  
- > 我决定试着自己动手装修房子。  （）  
+ > 我决定试着自己动手装修房子。    
 
  > **give it a shot**  
  > He didn’t think he had much chance of winning, but he’d give it a shot.  
- > 他觉得自己获胜的机会不大，但还是要尝试一下。  （）  
+ > 他觉得自己获胜的机会不大，但还是要尝试一下。    
 
 ### 5.*低义频：* **注射：**  
 
  > The baby burst out crying when the doctor gave him a shot.  
- > 医生给婴儿打针时，那婴儿放声大哭起来。  （）  
+ > 医生给婴儿打针时，那婴儿放声大哭起来。    
 
 ### 6.*低义频：* **拍摄；照相；(电影中的) 镜头：**  
 
  > **get,good shots**  
  > I managed to get some good shots of the festival.  
- > 我设法拍到了几张精彩的节日照片。  （）  
+ > 我设法拍到了几张精彩的节日照片。    
 
  > a shot of a car chase  
- > 汽车追逐的镜头  （）  
+ > 汽车追逐的镜头    
 
 
 # ***\*should*** modal v
@@ -6103,30 +6169,30 @@ shooting /'ʃuːtɪŋ/ n
 ### 1.*高义频：* **[表示责任、义务] 应该：**  
 
  > We should respect our teachers and parents.  
- > 我们应该尊敬老师和父母。  （）  
+ > 我们应该尊敬老师和父母。    
 
 ### 2.*高义频：* **[表示可能性、推测或推论] 可能；应该：**  
 
  > The report is written after much research, so it should be reliable.  
- > 这份报告是经过充分调研后才写的，所以应该是可靠的。  （）  
+ > 这份报告是经过充分调研后才写的，所以应该是可靠的。    
 
 ### 3.*高义频：* **[表示语气较强的假设，常用于虚拟条件句]万一；竟然：**  
 
  > If you should change your mind, do let me know.  
- > 万一你改变主意，请务必告诉我。  （）  
+ > 万一你改变主意，请务必告诉我。    
 
  > Should it rain tomorrow, the football match would be put off. / If it should rain tomorrow, the football match would be put off.  
- > 万一明天下雨，足球赛就会延期。  （）  
+ > 万一明天下雨，足球赛就会延期。    
 
 ### 4.*高义频：* **[用于表示建议、命令、决定等的句中] 应该；必须：**  
 
  > Dr Bethune insisted that the patient (should) be operated on at once.  
- > 白求恩大夫坚持应立刻给病人动手术。  （）  
+ > 白求恩大夫坚持应立刻给病人动手术。    
 
 ### 5.*高义频：* **[表示与预期相反] 本应；本当：**  
 
  > It should be snowing now, according to the weather broadcast.  
- > 按照天气预报，现在应该在下雪。  （）  
+ > 按照天气预报，现在应该在下雪。    
 
 - [表示本该做某事，而实际没做] should have done sth:
 
@@ -6136,17 +6202,17 @@ shooting /'ʃuːtɪŋ/ n
 - [表示本不该做某事，实际却做了] shouldn’t have done sth:
 
  > I was really anxious about you. You shouldn’t have left home without a word.  
- > 我真为你担心，你不该不说一声就离开家。  （）  
+ > 我真为你担心，你不该不说一声就离开家。    
 
 ### 6.*高义频：* **[用于过去将来时，常用于间接引语] 将会；将要：**  
 
  > The monitor said that we should have a class meeting the next week.  
- > 班长说我们下周要开班会。  （）  
+ > 班长说我们下周要开班会。    
 
 ### 7.*低义频：* **[用于许多表示感情的形容词后的that从句中]：**  
 
  > I find it astonishing that he should be so rude to you.  
- > 他竟然对你这样无理，真叫我吃惊。  （）  
+ > 他竟然对你这样无理，真叫我吃惊。    
 
 
 真题解析
@@ -6157,13 +6223,17 @@ A.must
 B.can  
 C.would  
 D.should  
+
 2. It was sad to me that they, so poor themselves, ________ bring me food.  （2014 江苏）  
 A.might  
 B.would  
 C.should  
 D.could  
+
 3. I ________ (本不应该看) that movie — it’ll give me horrible dreams.  （2010 山东改）  
+
 4. What do you mean, there are only ten tickets? There ________ (应该) be twelve.  （2009 全国）  
+
 5. This printer is of good quality. If it ________ break down within the first year, we would repair it at our expense.  （2009 天津）  
 A.would   
 B.should   
@@ -6171,7 +6241,12 @@ C.could
 D.might  
 
 答案：
-1. D  2. C  3. shouldn’t have watched  4. should  5. B  
+1. D  
+2. C  
+3. shouldn’t have watched  
+4. should  
+5. B  
+
 # ***\*shoulder*** vt
 英音 'ʃəʊldə(r)     美音 'ʃoʊldər  
 
@@ -6183,7 +6258,7 @@ D.might
 
  > **shoulder the blame**  
  > You don’t need to shoulder the blame for this failure.  
- > 你无须对这次失败承担责任。  （）  
+ > 你无须对这次失败承担责任。    
 
 
 # ***\*shoulder*** n
@@ -6199,7 +6274,7 @@ D.might
 
  > **shoulder to shoulder**  
  > shoulder to shoulder  
- > 肩并肩地  （）  
+ > 肩并肩地    
 
 
 # ***\*shoulder-length*** adj
@@ -6225,7 +6300,7 @@ D.might
 
  > **shout of**  
  > Seeing the sun rising above the surface of the sea, we let out a shout of joy.  
- > 看到太阳从海面升起来，我们高兴得叫了起来。  （）  
+ > 看到太阳从海面升起来，我们高兴得叫了起来。    
 
 
 # ***\*shout*** v
@@ -6238,11 +6313,11 @@ D.might
 ### 1.*高义频：* **vi & vt 呼喊；大声说；斥责：**  
 
  > shout orders  
- > 高喊口令  （）  
+ > 高喊口令    
 
  > **shouted out for help**  
  > She shouted out for help.  
- > 她大声呼救。  （）  
+ > 她大声呼救。    
 
  > **shouted at,to**  
  > I was very angry. I opened my window and shouted at / to the other driver.  
@@ -6261,17 +6336,17 @@ D.might
 ### 1.*高义频：* **演出；表演；(广播 / 电视) 节目：**  
 
  > The theatre gives two shows in one day.  
- > 这家剧场一天演出两场。  （）  
+ > 这家剧场一天演出两场。    
 
  > **quiz show**  
  > a quiz show  
- > 智力竞赛节目  （）  
+ > 智力竞赛节目    
 
 ### 2.*低义频：* **展览 (会)：**  
 
  > **on show**  
  > The designer clothes will be on show in Chicago next month.  
- > 这些名牌服装将于下个月在芝加哥展出。  （）  
+ > 这些名牌服装将于下个月在芝加哥展出。    
 
 
 # ***\*show*** v  重难点词汇
@@ -6286,17 +6361,17 @@ D.might
 ### 1.*高义频：* **vt 给...看；出示：**  
 
  > Show your passport, please.  
- > 请出示护照。  （）  
+ > 请出示护照。    
 
 - show sth to sb / show sb sth:
 
  > Show your photos to your classmates. / Show your classmates your photos.  
- > 把你的照片给同学们看。  （）  
+ > 把你的照片给同学们看。    
 
 ### 2.*高义频：* **vt 展览；陈列；上映；上演：**  
 
  > She plans to show her paintings next year.  
- > 她计划明年展出自己的绘画作品。  （）  
+ > 她计划明年展出自己的绘画作品。    
 
  > Next week we will show the Chinese film My Happy Life.   
  > 下周我们将放映中国电影《我的幸福生活》。  （2010 湖南）  
@@ -6305,7 +6380,7 @@ D.might
 
  > **showed into**  
  > We were showed into the waiting room.  
- > 我们被领进了等候室。  （）  
+ > 我们被领进了等候室。    
 
 - show sb sth:
 
@@ -6316,7 +6391,7 @@ D.might
 ### 4.*高义频：* **vt 表明；说明；证明：**  
 
  > Gary has shown his faith in the club’s future by agreeing to stay on.  
- > 加里同意留下，表明了他对这家俱乐部的未来有信心。  （）  
+ > 加里同意留下，表明了他对这家俱乐部的未来有信心。    
 
 - show + that / wh- 从句:
 
@@ -6329,14 +6404,14 @@ D.might
 - show oneself to be / have sth:
 
  > Charles shows himself to be a fine leader.  
- > 查尔斯证明自己是个出色的领导。  （）  
+ > 查尔斯证明自己是个出色的领导。    
 
 ### 5.*高义频：* **vt (通过示范) 教；告知：**  
 
 - show sth to sb / show sb sth:
 
  > She showed the technique to her students. / She showed her students the technique.  
- > 她教给学生那个技巧。  （）  
+ > 她教给学生那个技巧。    
 
 - show sb + wh- 从句 / wh- to do sth:
 
@@ -6344,7 +6419,7 @@ D.might
  > 它们告诉人们战争是多么残酷。  （外研⑥ – 6）  
 
  > Let me show you how to use the new machine.  
- > 我来给你演示一下这台新机器怎么用。  （）  
+ > 我来给你演示一下这台新机器怎么用。    
 
 ### 6.*高义频：* **vt & vi 表现 (出)；体现 (出)；流露 (出)：**  
 
@@ -6352,12 +6427,12 @@ D.might
  > 高中时，埃德蒙就表现出写作的天分。  （2009 陕西）  
 
  > She tried not to let her disappointment show.  
- > 她极力掩饰自己的失望。  （）  
+ > 她极力掩饰自己的失望。    
 
 ### 7.*低义频：* **vi[非正式用语] 出现；露面：**  
 
  > I waited an hour but he didn’t show.  
- > 我等了一个小时，可他一直没露面。  （）  
+ > 我等了一个小时，可他一直没露面。    
 
 
 固定搭配
@@ -6366,7 +6441,7 @@ D.might
 1.**带领…参观 (某地)：**  
 
  > It’s really good of you to spend so much time showing me around.  
- > 你真是太热情了，花这么多时间带我四处参观。  （）  
+ > 你真是太热情了，花这么多时间带我四处参观。    
 
 ## \*show off
 1.**[非正式用语] 卖弄；炫耀：**  
@@ -6378,7 +6453,7 @@ D.might
 1.**[非正式用语] 出席；到场：**  
 
  > A few hundred people showed up, as well as some television cameramen and reporters.  
- > 有好几百人到场，一些电视摄影师和记者也来了。  （）  
+ > 有好几百人到场，一些电视摄影师和记者也来了。    
 
 
 # ***\*shower*** n
@@ -6393,11 +6468,11 @@ D.might
 ### 1.*高义频：* **阵雨；淋浴 (器)：**  
 
  > Tom was caught in a shower yesterday.  
- > 汤姆昨天淋了雨。  （）  
+ > 汤姆昨天淋了雨。    
 
  > **take,have a hot shower**  
  > take / have a hot shower  
- > 淋热水浴  （）  
+ > 淋热水浴    
 
 
 # ***\*shrimp*** n
@@ -6424,10 +6499,10 @@ D.might
 ### 1.*低义频：* **vi & vt (使) 缩水；(使) 收缩：**  
 
  > Will this shirt shrink in the wash?  
- > 这件衬衫洗后会缩水吗？  （）  
+ > 这件衬衫洗后会缩水吗？    
 
  > The hot water shrank my sweater.  
- > 我的毛衣遇热水后收缩了。  （）  
+ > 我的毛衣遇热水后收缩了。    
 
 ### 2.*高义频：* **vi & vt (使) 缩小；减少；贬值：**  
 
@@ -6435,7 +6510,7 @@ D.might
  > 随着一些人悄悄离开，人群缩小了。  （外研⑥ – 4）  
 
  > The Internet in a sense has shrunk the world.  
- > 从某种意义上来说，互联网把世界缩小了。  （）  
+ > 从某种意义上来说，互联网把世界缩小了。    
 
 ### 3.*低义频：* **vi 退缩；畏缩**  
 
@@ -6450,7 +6525,7 @@ D.might
 ### 1.*高义频：* **vt & vi (为表示冷漠、无奈、蔑视、不满等) 耸 (肩)：**  
 
  > I just shrugged my shoulders and ignored him.  
- > 我只是耸耸肩，不去理睬他。  （）  
+ > 我只是耸耸肩，不去理睬他。    
 
 
 # ***\*shudder*** n
@@ -6476,23 +6551,23 @@ D.might
 
  > **shut,eyes**  
  > shut one’s eyes / a book  
- > 闭上眼睛/合上书  （）  
+ > 闭上眼睛/合上书    
 
  > The window won’t shut.  
- > 这扇窗户关不上。  （）  
+ > 这扇窗户关不上。    
 
 ### 2.*低义频：* **vt 禁闭；把...关住：**  
 
  > They shut the poor girl in the room upstairs.  
- > 他们把那可怜的女孩关在楼上的房间里。  （）  
+ > 他们把那可怜的女孩关在楼上的房间里。    
 
 ### 3.*高义频：* **vt & vi (使) 停止营业(close)：**  
 
  > It’s time to shut the shop.  
- > 商店该关门了。  （）  
+ > 商店该关门了。    
 
  > The stores shut at 9:30 pm.  
- > 这些商店晚上9:30关门。  （）  
+ > 这些商店晚上9:30关门。    
 
 
 固定搭配
@@ -6504,7 +6579,7 @@ D.might
  > 在格拉斯哥，父母们反对关闭25所小学的计划。  （2009 湖北改）  
 
  > shut down the computer system  
- > 关闭计算机系统  （）  
+ > 关闭计算机系统    
 
 ## \*shut in
 1.**把…关在房内**  
@@ -6513,22 +6588,22 @@ D.might
 1.**关掉；切断 (turn off)：**  
 
  > Don’t forget to shut off the water supply.  
- > 别忘了关闭供水系统。  （）  
+ > 别忘了关闭供水系统。    
 
 ## \*shut out (of)
 1.**使…不能进入；挡住；不去想：**  
 
  > The sunglasses shut out 99 percent of the sun’s harmful rays.  
- > 太阳镜能遮挡99%的太阳光中的有害射线。  （）  
+ > 太阳镜能遮挡99%的太阳光中的有害射线。    
 
 ## \*shut up
 1.**关闭；(使) 住口：**  
 
  > Shut up the window before you go out.  
- > 出去前关好窗户。  （）  
+ > 出去前关好窗户。    
 
  > Tell him to shut up.  
- > 叫他住嘴。  （）  
+ > 叫他住嘴。    
 
 
 # ***\*shuttle*** n
@@ -6553,7 +6628,7 @@ D.might
 ### 1.*高义频：* **害羞的；羞怯的：**  
 
  > a shy smile  
- > 羞怯的微笑  （）  
+ > 羞怯的微笑    
 
 
 派生词汇
@@ -6571,11 +6646,11 @@ shyly /ʃaɪli/ adv
 
  > **get,sick**  
  > get / become sick  
- > 生病  （）  
+ > 生病    
 
  > **on sick leave**  
  > He has been on sick leave for three days.  
- > 他休病假已经三天了。  （）  
+ > 他休病假已经三天了。    
 
 #### 辨析 ill, sick
 二者均含 “生病的”之意。  
@@ -6584,13 +6659,13 @@ shyly /ʃaɪli/ adv
 
  > **am,sick**  
  > I am always sick in the car.  
- > 我经常晕车。  （）  
+ > 我经常晕车。    
 
 ### 3.*高义频：* **[口语] 厌倦的；厌恶的：**  
 
  > **sick of**  
  > I was growing sick of my life in San Francisco.  
- > 我对在旧金山的生活愈发厌倦。  （）  
+ > 我对在旧金山的生活愈发厌倦。    
 
 
 固定搭配
@@ -6599,7 +6674,7 @@ shyly /ʃaɪli/ adv
 1.**极度担心；担心得要命：**  
 
  > We have been worried sick about you. Are you okay?  
- > 我们非常担心你，你还好吗？  （）  
+ > 我们非常担心你，你还好吗？    
 
 
 # ***\*sickness*** n
@@ -6612,7 +6687,7 @@ shyly /ʃaɪli/ adv
 ### 1.*高义频：* **[U] & [C] 患病；疾病 (illness)：**  
 
  > a sickness of fear  
- > 恐惧症  （）  
+ > 恐惧症    
 
 ### 2.*低义频：* **[U] 呕吐；恶心**  
 
@@ -6630,31 +6705,31 @@ shyly /ʃaɪli/ adv
 
  > **side of**  
  > the right / wrong side of the paper  
- > 纸的正面/背面  （）  
+ > 纸的正面/背面    
 
  > **on the other side of**  
  > There is a bank on the other side of the street.  
- > 街对面有一家银行。  （）  
+ > 街对面有一家银行。    
 
 ### 2.*高义频：* **(事物的) 一个方面：**  
 
  > **look,on the bright side**  
  > We should look more on the bright side of things.  
- > 我们应该多看事物积极的一面。  （）  
+ > 我们应该多看事物积极的一面。    
 
 ### 3.*高义频：* **(敌对的) 一方；一派：**  
 
  > both sides in a battle  
- > 作战双方  （）  
+ > 作战双方    
 
  > be on the same side of the fence  
- > 站在同一立场上  （）  
+ > 站在同一立场上    
 
 ### 4.*高义频：* **(身体的) 侧边：**  
 
  > **lie on,side**  
  > lie on one’s side  
- > 侧身而卧  （）  
+ > 侧身而卧    
 
 
 固定搭配
@@ -6663,19 +6738,19 @@ shyly /ʃaɪli/ adv
 1.**从各个方向；从各方面：**  
 
  > We must study the question from all sides.  
- > 我们必须从各方面来研究这个问题。  （）  
+ > 我们必须从各方面来研究这个问题。    
 
 ## \*from side to side
 1.**从左到右：**  
 
  > He shook his head slowly from side to side.  
- > 他慢慢地摇了摇头。  （）  
+ > 他慢慢地摇了摇头。    
 
 ## \*side by side
 1.**肩并肩地：**  
 
  > All our members work side by side to fight pollution.  
- > 我们所有的成员都并肩奋斗防治污染。  （）  
+ > 我们所有的成员都并肩奋斗防治污染。    
 
 
 # ***\*sideroad*** n
@@ -6724,7 +6799,7 @@ shyly /ʃaɪli/ adv
 ### 1.*高义频：* **斜向旁边；侧着身子：**  
 
  > If you would move sideways to the left, I can get everyone in the picture.  
- > 如果你向左边侧一下身子，我就能把所有人都拍进去。  （）  
+ > 如果你向左边侧一下身子，我就能把所有人都拍进去。    
 
 
 # ***\*sideways*** adj
@@ -6737,7 +6812,7 @@ shyly /ʃaɪli/ adv
 ### 1.*高义频：* **往旁边的；侧的：**  
 
  > The boy gave the girl a sideways look.  
- > 男孩斜着眼睛看了看女孩。  （）  
+ > 男孩斜着眼睛看了看女孩。    
 
 
 # ***\*sigh*** n
@@ -6753,7 +6828,7 @@ shyly /ʃaɪli/ adv
 
  > **breathe,let out a,sigh**  
  > breathe / let out a deep sigh  
- > 发出深深的叹息  （）  
+ > 发出深深的叹息    
 
 
 # ***\*sigh*** vi
@@ -6780,7 +6855,7 @@ shyly /ʃaɪli/ adv
 ### 1.*高义频：* **[U] 视力；视觉：**  
 
  > have good / poor sight  
- > 视力好/差  （）  
+ > 视力好/差    
 
  > **lost his sight**  
  > When Shaw lost his sight, his wife suggested he apply for a guide dog.  
@@ -6790,33 +6865,33 @@ shyly /ʃaɪli/ adv
 
  > **sight of**  
  > Just the sight of the monster made her go all weak.  
- > 她一看到那个怪物就两腿发软。  （）  
+ > 她一看到那个怪物就两腿发软。    
 
 ### 3.*高义频：* **[U] 视域；眼界：**  
 英译 the area or distance within which sb can see or sth can be seen：
 
  > **no one in sight**  
  > I glanced around me quickly. There was no one in sight.  
- > 我迅速向四周扫了一眼，一个人也没看见。  （）  
+ > 我迅速向四周扫了一眼，一个人也没看见。    
 
  > **out of,sight**  
  > She never lets her daughter out of her sight.  
- > 她从不让女儿离开她的视线。  （）  
+ > 她从不让女儿离开她的视线。    
 
 ### 4.*高义频：* **[C] 看见的事物；景象；情景：**  
 英译 the thing that you can see：
 
  > **common sight**  
  > The practice of hanging flags is a common sight in many parts of the country on National Day.  
- > 国庆节期间全国各地都悬挂旗帜是常见的景象。  （）  
+ > 国庆节期间全国各地都悬挂旗帜是常见的景象。    
 
  > These mountains are a splendid sight when viewed from the valley floor.  
- > 从谷底看，这些山非常壮观。  （）  
+ > 从谷底看，这些山非常壮观。    
 
 ### 5.*高义频：* **[复数] 名胜；景点：**  
 
  > Overseas visitors are impressed by the beautiful sights of Beijing.  
- > 北京美丽的景点给海外游客留下深刻的印象。  （）  
+ > 北京美丽的景点给海外游客留下深刻的印象。    
 
 #### 辨析 view, scene, scenery, sight
 四者都有“风景”之意。  
@@ -6828,7 +6903,7 @@ shyly /ʃaɪli/ adv
 1.**一见 (就)；乍一看：**  
 
  > fall in love with sb at first sight  
- > 与某人一见钟情  （）  
+ > 与某人一见钟情    
 
  > At first sight, there is nothing special about the watch, but in fact it is a mobile phone.  
  > 乍一看，那块表没什么特别之处，但实际上它是一部手机。  （2010 上海）  
@@ -6837,25 +6912,25 @@ shyly /ʃaɪli/ adv
 1.**一看见：**  
 
  > Some people will faint at the sight of blood.  
- > 有些人一见血就晕。  （）  
+ > 有些人一见血就晕。    
 
 ## \*catch sight of
 1.**看见；发现：**  
 
  > Suddenly, I caught sight of my English teacher in the crowd.  
- > 突然，我在人群中看到了我的英语老师。  （）  
+ > 突然，我在人群中看到了我的英语老师。    
 
 ## \*come into sight
 1.**进入视线；映入眼帘：**  
 
  > As the plane came down through the clouds, green fields and white houses came into sight.  
- > 当飞机穿过云层下降时，绿色的田野和白色的房屋映入了眼帘。  （）  
+ > 当飞机穿过云层下降时，绿色的田野和白色的房屋映入了眼帘。    
 
 ## \*lose sight of
 1.**看不见；忽略；忘记：**  
 
  > I lost sight of him in the crowd.  
- > 他消失在人群中，我看不见他了。  （）  
+ > 他消失在人群中，我看不见他了。    
 
  > His grandfather, a banker, lost all in the 1930s, but did not lose sight of what he valued most.  
  > 他的祖父是个银行家，在20世纪30年代失去了一切，但并未忘记他最看重的东西。  （2009 福建）  
@@ -6864,16 +6939,19 @@ shyly /ʃaɪli/ adv
 1.**以…为奋斗目标：**  
 
  > The player said that he had set his sights on winning the championship in the coming Olympics.  
- > 那位选手说，他的目标是在即将到来的奥运会上夺冠。  （）  
+ > 那位选手说，他的目标是在即将到来的奥运会上夺冠。    
 
 
 真题解析
 ---
 1. At the railway station, the mother waved goodbye to her daughter until the train was _______(看不见).  （2008 天津改）  
+
 2. The practice of hanging clothes across the street is a common ________ (景象) in many parts of the city.  （）  
 
 答案：
-1. out of sight  2. sight  
+1. out of sight  
+2. sight  
+
 # ***\*sighting*** n
 英音 'saɪtɪŋ     美音 'saɪtɪŋ  
 
@@ -6897,10 +6975,10 @@ shyly /ʃaɪli/ adv
 
  > **go sightseeing**  
  > go sightseeing  
- > 去观光  （）  
+ > 去观光    
 
  > a sightseeing tour  
- > 观光旅行  （）  
+ > 观光旅行    
 
 
 # ***\*sign*** n
@@ -6913,32 +6991,32 @@ shyly /ʃaɪli/ adv
 ### 1.*高义频：* **[C] 符号：**  
 
  > a plus sign  
- > 加号  （）  
+ > 加号    
 
 ### 2.*高义频：* **[C] 指示牌；标记：**  
 
  > **road,traffic sign**  
  > a road / traffic sign  
- > 道路/交通标识  （）  
+ > 道路/交通标识    
 
  > The sign says “No smoking”.  
- > 告示牌上写着“禁止吸烟”。  （）  
+ > 告示牌上写着“禁止吸烟”。    
 
 ### 3.*高义频：* **[C] 手势；(头、手、眼等的) 示意动作：**  
 
  > **sign language**  
  > sign language  
- > 手势语  （）  
+ > 手势语    
 
  > **made a sign**  
  > He made a sign to me to leave the room.  
- > 他打手势示意我离开房间。  （）  
+ > 他打手势示意我离开房间。    
 
 ### 4.*高义频：* **[C] & [U] 迹象；征兆：**  
 
  > **showed no sign of**  
  > The rainy weather showed no sign of improving.  
- > 雨还在下，没有转晴的迹象。  （）  
+ > 雨还在下，没有转晴的迹象。    
 
 
 # ***\*sign*** v
@@ -6952,12 +7030,12 @@ shyly /ʃaɪli/ adv
 
  > **sign an agreement,a contract**  
  > sign an agreement / a contract  
- > 签协议/合同  （）  
+ > 签协议/合同    
 
 ### 2.*低义频：* **示意；以手势表示 (signal)：**  
 
  > The teacher signed me to enter.  
- > 老师打手势示意我进来。  （）  
+ > 老师打手势示意我进来。    
 
 
 固定搭配
@@ -6966,10 +7044,10 @@ shyly /ʃaɪli/ adv
 1.**报名参加 (课程等)；登记注册：**  
 
  > sign up for the course in advance  
- > 提前报名参加课程  （）  
+ > 提前报名参加课程    
 
  > I’m ready to sign up for the mid July group.  
- > 我准备报名参加7月中旬的那个团。  （）  
+ > 我准备报名参加7月中旬的那个团。    
 
 
 # ***\*signal*** n
@@ -6984,7 +7062,7 @@ shyly /ʃaɪli/ adv
 ### 1.*高义频：* **信号；暗号(sign)；信号灯：**  
 
  > digital TV signals  
- > 数字电视信号  （）  
+ > 数字电视信号    
 
  > **signal for**  
  > This was a signal for him to continue.  
@@ -6997,6 +7075,7 @@ shyly /ʃaɪli/ adv
 
 答案：
 1. for  
+
 # ***\*signal*** v
 英音 'sɪɡnəl     美音 'sɪɡnəl  
 
@@ -7008,11 +7087,11 @@ shyly /ʃaɪli/ adv
 
  > **signalled,for**  
  > He signalled widly for help, but nobody noticed.  
- > 他拼命地发信号求助，但是没人注意到。  （）  
+ > 他拼命地发信号求助，但是没人注意到。    
 
  > **signalled that**  
  > The bell signalled that school was over.  
- > 铃声响起，放学了。  （）  
+ > 铃声响起，放学了。    
 
 
 真题解析
@@ -7021,6 +7100,7 @@ shyly /ʃaɪli/ adv
 
 答案：
 1. signal  
+
 # ***\*signature*** n
 英音 'sɪɡnətʃə(r)     美音 'sɪɡnətʃər  
 
@@ -7033,7 +7113,7 @@ shyly /ʃaɪli/ adv
 ### 1.*高义频：* **署名；签名：**  
 
  > add / write one’s signature  
- > 签字  （）  
+ > 签字    
 
 
 # ***\*significance*** n
@@ -7049,7 +7129,7 @@ shyly /ʃaɪli/ adv
 
  > **attach,significance to**  
  > To be honest, a lot of people attach too much significance to becoming rich and famous.  
- > 老实说，很多人太看重名和利。  （）  
+ > 老实说，很多人太看重名和利。    
 
  > **significance of**  
  > All the members should realize the value and significance of what they are going to do.  
@@ -7057,7 +7137,7 @@ shyly /ʃaɪli/ adv
 
  > **of great significance for,to**  
  > The discovery of the new drug is of great significance for / to people suffering from heart problems.  
- > 这种新药的发现对心脏病患者来说意义重大。  （）  
+ > 这种新药的发现对心脏病患者来说意义重大。    
 
 
 # ***\*significant*** adj
@@ -7072,17 +7152,17 @@ shyly /ʃaɪli/ adv
 
  > **highly significant**  
  > a highly significant discovery  
- > 具有极其重大意义的发现  （）  
+ > 具有极其重大意义的发现    
 
  > The elevator’s role in American history has been no less significant than that of cars.  
  > 电梯在美国历史上的重要作用丝毫不逊于汽车。  （2014 湖北）  
 
  > significant improvement / increase  
- > 明显的进步/显著的增长  （）  
+ > 明显的进步/显著的增长    
 
  > **It is significant that**  
  > It is significant that girls generally do better in examinations than boys.  
- > 很明显，女生在考试中的表现通常好于男生。  （）  
+ > 很明显，女生在考试中的表现通常好于男生。    
 
 ### 2.*高义频：* **(数量) 大的：**  
 
@@ -7094,7 +7174,7 @@ shyly /ʃaɪli/ adv
 ---
 significantly /sɪɡ'nɪfɪkəntli/ adv   
  > Health problems can be significantly reduced by careful diet.   
- > 注意饮食可以大大减少健康方面的问题。  （）  
+ > 注意饮食可以大大减少健康方面的问题。    
 
  > Since that first attempt I had been jogging regularly and was significantly fitter.   
  > 自从尝试了第一次，我就一直坚持慢跑，身体明显好多了。  （2011 湖南）  
@@ -7130,7 +7210,7 @@ significantly /sɪɡ'nɪfɪkəntli/ adv
 ### 1.*高义频：* **使沉默；使哑口无言：**  
 
  > The teacher tried to silence the pupils.  
- > 老师设法让学生们安静下来。  （）  
+ > 老师设法让学生们安静下来。    
 
 
 # ***\*silence*** n
@@ -7144,17 +7224,17 @@ significantly /sɪɡ'nɪfɪkəntli/ adv
 
  > **two-minute silence**  
  > a two-minute silence in honour of those who had died  
- > 为死去的人默哀两分钟  （）  
+ > 为死去的人默哀两分钟    
 
  > **silence on**  
  > I got used to his silence on the money.  
- > 我习惯了他在钱的问题上保持沉默。  （）  
+ > 我习惯了他在钱的问题上保持沉默。    
 
 ### 2.*高义频：* **无声；寂静：(quiet)**  
 
  > **broke the silence**  
  > A scream broke the silence of the night.  
- > 一声尖叫打破了深夜的寂静。  （）  
+ > 一声尖叫打破了深夜的寂静。    
 
  > **in silence**  
  > I can’t study with any kind of music — I have to work in silence or I can’t think!  
@@ -7177,19 +7257,19 @@ significantly /sɪɡ'nɪfɪkəntli/ adv
 ### 1.*高义频：* **沉默的；不作声的：**  
 
  > silent reading  
- > 默读  （）  
+ > 默读    
 
  > **keep,remain silent**  
  > keep / remain silent  
- > 保持沉默  （）  
+ > 保持沉默    
 
 ### 2.*高义频：* **寂静无声的；不发音的：**  
 
  > a silent, moonless night  
- > 寂静的没有月亮的夜晚  （）  
+ > 寂静的没有月亮的夜晚    
 
  > a silent letter  
- > 不发音的字母  （）  
+ > 不发音的字母    
 
 #### 辨析 quiet, calm, still, silent
 四者均可用作形容词，均含有“静”的意思。  
@@ -7198,7 +7278,7 @@ significantly /sɪɡ'nɪfɪkəntli/ adv
 
  > **silent about**  
  > History is silent about it.  
- > 历史对这件事没有记载。  （）  
+ > 历史对这件事没有记载。    
 
 
 派生词汇
@@ -7215,7 +7295,7 @@ silently /'saɪləntli/ adv
 ### 1.*高义频：* **丝；丝绸；丝线：**  
 
  > the Silk Road  
- > 丝绸之路  （）  
+ > 丝绸之路    
 
 ### 2.*低义频：* **[常用复数] 丝绸衣服**  
 
@@ -7235,7 +7315,7 @@ silky /'sɪlki/ adj
 反义词 wise 
 
  > It’s silly of you to believe him. / You are silly to believe him.  
- > 你真傻，居然相信他。  （）  
+ > 你真傻，居然相信他。    
 
 ### 2.*低义频：* **无聊的**  
 
@@ -7252,10 +7332,10 @@ silky /'sɪlki/ adj
 ### 1.*高义频：* **银；银器；银币；银白色：**  
 
  > fine / pure silver  
- > 纯银  （）  
+ > 纯银    
 
  > He has hair of silver.  
- > 他一头银发。  （）  
+ > 他一头银发。    
 
 
 # ***\*silver*** adj
@@ -7268,10 +7348,10 @@ silky /'sɪlki/ adj
 ### 1.*高义频：* **银制的；银白色的：**  
 
  > a silver ring  
- > 银戒指  （）  
+ > 银戒指    
 
  > silver hair  
- > 银发  （）  
+ > 银发    
 
 
 # ***\*similar*** adj
@@ -7284,7 +7364,7 @@ silky /'sɪlki/ adj
 ### 1.*高义频：* **相似的；类似的**  
 
  > Some body language is similar everywhere.  
- > 有些肢体语言在各个地方都相似。  （）  
+ > 有些肢体语言在各个地方都相似。    
 
 - (be) similar to:
 
@@ -7328,7 +7408,7 @@ similarly /'sɪmələli/ adv
 ### 1.**明喻**  
 
  > Metaphor and simile are the most commonly used figures of speech in everyday language.  
- > 隐喻和明喻是日常语言中最常用的修辞手法。  （）  
+ > 隐喻和明喻是日常语言中最常用的修辞手法。    
 
 
 # ***\*simple*** adj  重难点词汇
@@ -7346,20 +7426,20 @@ similarly /'sɪmələli/ adv
 ### 2.*高义频：* **朴素的；纯朴的：反 fancy**  
 
  > He lives a simple life.  
- > 他过着简朴的生活。  （）  
+ > 他过着简朴的生活。    
 
  > a simple fisherman  
- > 纯朴的渔民  （）  
+ > 纯朴的渔民    
 
 ### 3.*低义频：* **头脑简单的；迟钝的：**  
 
  > They’re not so simple as to believe all that.  
- > 他们不至于糊涂到相信那一套。  （）  
+ > 他们不至于糊涂到相信那一套。    
 
 ### 4.*低义频：* **纯粹的：**  
 
  > You must accept it because that’s a simple fact.  
- > 你必须接受，因为那完全是事实。  （）  
+ > 你必须接受，因为那完全是事实。    
 
 
 真题解析
@@ -7368,6 +7448,7 @@ similarly /'sɪmələli/ adv
 
 答案：
 1. simple  
+
 # ***\*simplify*** vt
 英音 'sɪmplɪfaɪ     美音 'sɪmplɪfaɪ  
 
@@ -7387,6 +7468,7 @@ similarly /'sɪmələli/ adv
 
 答案：
 1. simplify  
+
 # ***\*simply*** adv
 英音 'sɪmpli     美音 'sɪmpli  
 
@@ -7398,15 +7480,15 @@ similarly /'sɪmələli/ adv
 
  > **To put it simply**  
  > To put it simply, computer skills are vital to today’s learners and tomorrow’s bread-winners.   
- > 简而言之，计算机技能对今天的学习者以及将来要养家糊口的人而言都是至关重要的。  （）  
+ > 简而言之，计算机技能对今天的学习者以及将来要养家糊口的人而言都是至关重要的。    
 
  > The book explains grammar simply and clearly.  
- > 这本书对语法解释得简洁明了。  （）  
+ > 这本书对语法解释得简洁明了。    
 
 ### 2.*高义频：* **朴素地；简朴地**  
 
  > live simply  
- > 简朴地生活  （）  
+ > 简朴地生活    
 
 ### 3.*高义频：* **仅仅；只不过：(just)**  
 
@@ -7425,6 +7507,7 @@ similarly /'sɪmələli/ adv
 
 答案：
 1. simply  
+
 # ***\*sin*** n
 英音 sɪn     美音 sɪn  
 
@@ -7449,7 +7532,7 @@ similarly /'sɪmələli/ adv
 ### 1.*高义频：* **从那时以后；后来：**  
 
  > I have not seen him since.  
- > 从那以后，我就没见过他。  （）  
+ > 从那以后，我就没见过他。    
 
 
 固定搭配
@@ -7473,7 +7556,7 @@ similarly /'sɪmələli/ adv
 ### 1.*高义频：* **自...以来；从...以后：**  
 
  > I have not heard from him since last year.  
- > 自从去年以来我一直没有收到过他的信。  （）  
+ > 自从去年以来我一直没有收到过他的信。    
 
 
 # ***\*since*** conj
@@ -7486,7 +7569,7 @@ similarly /'sɪmələli/ adv
 ### 1.*高义频：* **[常与现在或过去完成时连用] 自...以来；从...以后：**  
 
  > I haven’t visited my teacher since I graduated.  
- > 自从毕业后我就没拜访过我的老师。  （）  
+ > 自从毕业后我就没拜访过我的老师。    
 
  > It had been a year since Susan became blind.  
  > 苏珊失明已经一年了。  （2010 湖北）  
@@ -7494,7 +7577,7 @@ similarly /'sɪmələli/ adv
 ### 2.*高义频：* **因为；既然：**  
 
  > Since you are unable to answer, perhaps I should ask someone else.  
- > 既然你回答不了，也许我该问问别人。  （）  
+ > 既然你回答不了，也许我该问问别人。    
 
 #### 辨析 because, since, as, for
   
@@ -7506,6 +7589,7 @@ similarly /'sɪmələli/ adv
 
 答案：
 1. since  
+
 # ***\*sincere*** adj
 英音 sɪn'sɪə(r)     美音 sɪn'sɪr  
 
@@ -7526,7 +7610,7 @@ similarly /'sɪmələli/ adv
 ### 1.*高义频：* **真诚地；诚实地：**  
 
  > I sincerely hope your father will be well again soon.  
- > 我真诚地希望你父亲早日康复。  （）  
+ > 我真诚地希望你父亲早日康复。    
 
  > I sincerely hope you could join us.  
  > 我真诚地希望你能加入我们。  （2017 全国书面表达）  
@@ -7550,13 +7634,13 @@ similarly /'sɪmələli/ adv
 ### 1.*高义频：* **唱；演唱；歌唱；歌颂：**  
 
  > sing a song for sb / sing sb a song  
- > 为某人唱一首歌  （）  
+ > 为某人唱一首歌    
 
  > sing to the guitar  
- > 和着吉他伴奏唱歌  （）  
+ > 和着吉他伴奏唱歌    
 
  > sing high praise for  
- > 高度赞扬  （）  
+ > 高度赞扬    
 
 
 派生词汇
@@ -7586,23 +7670,23 @@ singing /'sɪŋɪŋ/ n [U]
 
  > **every single**  
  > every single detail of the incident  
- > 这次事件的每个细节  （）  
+ > 这次事件的每个细节    
 
  > a single survivor  
- > 唯一的幸存者  （）  
+ > 唯一的幸存者    
 
 ### 2.*高义频：* **单人 (用) 的；单程的：**  
 
  > a single room / bed  
- > 单人间/床  （）  
+ > 单人间/床    
 
  > a single ticket  
- > 单程票  （）  
+ > 单程票    
 
 ### 3.*高义频：* **未婚的；单身的：**  
 
  > a single man  
- > 单身男士  （）  
+ > 单身男士    
 
 
 # ***\*single*** n
@@ -7638,7 +7722,7 @@ singing /'sɪŋɪŋ/ n [U]
 
  > **sank to the bottom of**  
  > The ship sank to the bottom of the river.  
- > 船沉入了河底。  （）  
+ > 船沉入了河底。    
 
  > The sun was starting to sink.  
  > 太阳开始下山。  （2010 浙江）  
@@ -7646,13 +7730,13 @@ singing /'sɪŋɪŋ/ n [U]
 ### 2.*低义频：* **(头、目光等) 下垂：**  
 
  > His head sank on his chest.  
- > 他的头垂在胸前。  （）  
+ > 他的头垂在胸前。    
 
 ### 3.*低义频：* **坐下；倒下：**  
 
  > **sank into a**  
  > She let out a sigh and sank into a chair.  
- > 她叹息了一声，颓然坐进椅子里。  （）  
+ > 她叹息了一声，颓然坐进椅子里。    
 
 ### 4.*低义频：* **消沉；陷入：**  
 
@@ -7662,7 +7746,7 @@ singing /'sɪŋɪŋ/ n [U]
 
  > **was,sank in**  
  > I was worried and sank in my thoughts.  
- > 我有些担心，陷入了深思。  （）  
+ > 我有些担心，陷入了深思。    
 
 
 真题解析
@@ -7671,6 +7755,7 @@ singing /'sɪŋɪŋ/ n [U]
 
 答案：
 1. into  
+
 # ***\*sink*** vt
 英音 sɪŋk     美音 sɪŋk  
 
@@ -7683,7 +7768,7 @@ singing /'sɪŋɪŋ/ n [U]
 ### 1.*高义频：* **使下沉；使下垂：**  
 
  > He sank his head in his hands.  
- > 他双手捂头。  （）  
+ > 他双手捂头。    
 
 
 # ***\*sink*** n
@@ -7742,17 +7827,17 @@ singing /'sɪŋɪŋ/ n [U]
 ### 1.*高义频：* **(使) 坐；(使) 就座：**  
 
  > sit on / in a chair  
- > 坐在椅子上  （）  
+ > 坐在椅子上    
 
  > sit at the table  
- > 坐在桌子旁  （）  
+ > 坐在桌子旁    
 
  > **Sit down**  
  > Sit down, please!  
- > 请坐！  （）  
+ > 请坐！    
 
  > The mother sat the child at a little table.  
- > 母亲帮孩子在小桌旁坐好。  （）  
+ > 母亲帮孩子在小桌旁坐好。    
 
 #### 辨析 seat, sit
   
@@ -7761,12 +7846,12 @@ singing /'sɪŋɪŋ/ n [U]
 
  > **sits on**  
  > The city sits on a hill.  
- > 这座城市坐落在山上。  （）  
+ > 这座城市坐落在山上。    
 
 ### 3.*低义频：* **可供...坐：**  
 
  > The car will sit six people.  
- > 这辆车可坐6人。  （）  
+ > 这辆车可坐6人。    
 
 
 固定搭配
@@ -7778,7 +7863,7 @@ singing /'sɪŋɪŋ/ n [U]
  > 如果脸部烧伤，伤员应该坐直。  （人教⑤ – 5）  
 
  > We sat up late watching a movie.   
- > 我们熬夜看了场电影。  （）  
+ > 我们熬夜看了场电影。    
 
 
 # ***\*site*** n
@@ -7794,13 +7879,13 @@ singing /'sɪŋɪŋ/ n [U]
 
  > **construction site**  
  > a construction site  
- > 工地  （）  
+ > 工地    
 
  > the site of the Battle of Waterloo  
- > 滑铁卢战役旧址  （）  
+ > 滑铁卢战役旧址    
 
  > a web site  
- > 网址；网站  （）  
+ > 网址；网站    
 
 
 # ***\*sitting-room*** n
@@ -7836,7 +7921,7 @@ singing /'sɪŋɪŋ/ n [U]
 
  > **situation where**  
  > It’s helpful to put children in a situation where they can see themselves differently.  
- > 让孩子置身于能让他们看到不一样的自己的局面里，这对他们是有帮助的。  （）  
+ > 让孩子置身于能让他们看到不一样的自己的局面里，这对他们是有帮助的。    
 
  > **in a,situation**  
  > When you are in a tight situation, don’t panic.  
@@ -7845,7 +7930,7 @@ singing /'sɪŋɪŋ/ n [U]
 ### 2.*低义频：* **[正式用语] 位置；地点 (location)：**  
 
  > choose a situation for a camp  
- > 选扎营地  （）  
+ > 选扎营地    
 
 
 真题解析
@@ -7854,6 +7939,7 @@ singing /'sɪŋɪŋ/ n [U]
 
 答案：
 1. situations  
+
 # ***\*size*** n
 英音 saɪz     美音 saɪz  
 
@@ -7864,20 +7950,20 @@ singing /'sɪŋɪŋ/ n [U]
 ### 1.*高义频：* **大小；规模：**  
 
  > Jim’s a small boy of my own size.  
- > 吉米是个小男孩，个子和我差不多。  （）  
+ > 吉米是个小男孩，个子和我差不多。    
 
  > **the size of**  
  > Built from lightweight materials, the robots are about the size of a human arm or smaller.  
- > 这些机器人由轻型材料制成，和人的胳膊差不多大或者更小一些。  （）  
+ > 这些机器人由轻型材料制成，和人的胳膊差不多大或者更小一些。    
 
 ### 2.*高义频：* **尺码：**  
 
  > What size do you want / take?   
- > 你穿多大尺码的？  （）  
+ > 你穿多大尺码的？    
 
  > **in my size**  
  > They didn’t have the trousers in my size.  
- > 那款裤子没有我的尺码。  （）  
+ > 那款裤子没有我的尺码。    
 
 
 # ***\*skate*** n
@@ -7892,10 +7978,10 @@ singing /'sɪŋɪŋ/ n [U]
 ### 1.*高义频：* **(滑) 冰鞋；一次滑冰：**  
 
  > a pair of skates  
- > 一双冰鞋  （）  
+ > 一双冰鞋    
 
  > go for a skate  
- > 去滑冰  （）  
+ > 去滑冰    
 
 
 # ***\*skate*** vi
@@ -7908,10 +7994,10 @@ singing /'sɪŋɪŋ/ n [U]
 ### 1.*高义频：* **滑冰：**  
 
  > go skating  
- > 去滑冰  （）  
+ > 去滑冰    
 
  > The ice is not strong enough to skate upon.  
- > 这冰太薄，不能在上面滑。  （）  
+ > 这冰太薄，不能在上面滑。    
 
 
 # ***\*skateboard*** n
@@ -7965,7 +8051,7 @@ singing /'sɪŋɪŋ/ n [U]
 1.**对…持怀疑态度：**  
 
  > She is skeptical of everything.   
- > 她怀疑一切。  （）  
+ > 她怀疑一切。    
 
 
 # ***\*ski*** n
@@ -8011,14 +8097,14 @@ singing /'sɪŋɪŋ/ n [U]
 反义词 unskilful 
 
  > a skillful worker  
- > 熟练工人  （）  
+ > 熟练工人    
 
  > **skillful at ( doing ) sth**  
  > (be) skillful at ( doing ) sth  
- > 擅长(做)某事  （）  
+ > 擅长(做)某事    
 
  > He’s not very skilful with his chopsticks.  
- > 他筷子用得不太熟练。  （）  
+ > 他筷子用得不太熟练。    
 
 
 派生词汇
@@ -8032,6 +8118,7 @@ skilfully /'skɪlfəli/ adv
 
 答案：
 1. skillfully  
+
 # ***\*skill*** n
 英音 skɪl     美音 skɪl  
 
@@ -8044,11 +8131,11 @@ skilfully /'skɪlfəli/ adv
 
  > **with skill**  
  > He played the piano with skill.  
- > 他钢琴弹得很娴熟。  （）  
+ > 他钢琴弹得很娴熟。    
 
  > **skill in / at**  
  > He has great skill in / at drawing.  
- > 他画画很有技巧。  （）  
+ > 他画画很有技巧。    
 
 ### 2.*高义频：* **技能**  
 英译 an ability that you need to do a job, etc. well：
@@ -8057,17 +8144,17 @@ skilfully /'skɪlfəli/ adv
  > 记住人名是一种重要的社交技能。  （2009 安徽）  
 
  > Reading skills include skipping, skimming, scanning, and so on.   
- > 阅读技巧包括跳读、略读、查读等。  （）  
+ > 阅读技巧包括跳读、略读、查读等。    
 
  > Mastery of a skill is much better than storing up a thousand pieces of gold.   
- > 一艺在身，胜积千金。  （）  
+ > 一艺在身，胜积千金。    
 
 
 派生词汇
 ---
 skilled /skɪld/ adj   
  > skilled craftsmen   
- > 技术熟练的工匠  （）  
+ > 技术熟练的工匠    
 
  > **skilled in / at**  
  > Dad was quite skilled in / at sailing, but not good at swimming.  
@@ -8099,14 +8186,14 @@ skilled /skɪld/ adj
 反义词 unskillful 
 
  > a skillful worker   
- > 熟练工人  （）  
+ > 熟练工人    
 
  > **skillful in / at (doing) sth**  
  > (be) skillful in / at (doing) sth   
- > 擅长(做)某事  （）  
+ > 擅长(做)某事    
 
  > He’s not very skilful with his chopsticks.  
- > 他筷子用得不太熟练。  （）  
+ > 他筷子用得不太熟练。    
 
 
 派生词汇
@@ -8120,6 +8207,7 @@ skillfully /'skɪlfʊlɪ/ adv
 
 答案：
 1. skillfully  
+
 # ***\*skim*** v
 英音 skɪm     美音 skɪm  
 
@@ -8131,12 +8219,12 @@ skillfully /'skɪlfʊlɪ/ adv
 英译 to read sth quickly to find the main points：
 
  > skim the newspaper  
- > 浏览报纸  （）  
+ > 浏览报纸    
 
 - skim through / over:
 
  > He skimmed over the list, looking for his name.  
- > 他快速地浏览名单，寻找自己的名字。  （）  
+ > 他快速地浏览名单，寻找自己的名字。    
 
 #### 辨析 scan, skim, skip
 scan, skim和skip是阅读文章时所采取的三种策略。  
@@ -8152,7 +8240,7 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **剥去...的皮：**  
 
  > Add the tomatoes, skinned and sliced.  
- > 把去了皮并切成片的番茄放进去。  （）  
+ > 把去了皮并切成片的番茄放进去。    
 
 
 # ***\*skin*** n
@@ -8168,12 +8256,12 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 
  > **dark skin**  
  > He has dark skin.  
- > 他皮肤黝黑。  （）  
+ > 他皮肤黝黑。    
 
 ### 2.*高义频：* **(植物、果实等的) 外皮；壳：**  
 
  > banana skins  
- > 香蕉皮  （）  
+ > 香蕉皮    
 
 
 # ***\*skip*** v
@@ -8186,17 +8274,17 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*低义频：* **跳；跳过：**  
 
  > skip over the fence  
- > 跳过栅栏  （）  
+ > 跳过栅栏    
 
  > She watched her little granddaughter skip down the path.  
- > 她看着小孙女沿着小路边走边跳。  （）  
+ > 她看着小孙女沿着小路边走边跳。    
 
 ### 2.*低义频：* **略过；遗漏**  
 英译 to miss the next thing that you would normally read, do, etc.：
 
  > **skipped over**  
  > I skipped over the last part of the book.  
- > 我略过了那本书的最后一部分。  （）  
+ > 我略过了那本书的最后一部分。    
 
 #### 辨析 scan, skim, skip
 scan, skim和skip是阅读文章时所采取的三种策略。  
@@ -8205,11 +8293,11 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 英译 to not do sth that you usually do or should do (miss)：
 
  > If you skip meals, you don’t get enough calories, and then you feel tired.  
- > 如果不吃饭，身体就不会获得足够的热量，你就会感到疲劳。  （）  
+ > 如果不吃饭，身体就不会获得足够的热量，你就会感到疲劳。    
 
  > **skip,class**  
  > She decided to skip the afternoon’s class.  
- > 她决定下午的课不去上了。  （）  
+ > 她决定下午的课不去上了。    
 
 
 固定搭配
@@ -8255,11 +8343,11 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 
  > **in the sky**  
  > in the sky  
- > 在空中  （）  
+ > 在空中    
 
  > **blue,sky**  
  > a blue / cloudy / dark sky  
- > 蓝色/多云/阴暗的天空  （）  
+ > 蓝色/多云/阴暗的天空    
 
 Notes: sky 常与定冠词连用；有形容词修饰时，可与不定冠词连用。  
 
@@ -8296,13 +8384,13 @@ Notes: sky 常与定冠词连用；有形容词修饰时，可与不定冠词连
 
  > **slapping me on the back**  
  > “Congratulations,” he said, slapping me on the back.  
- > 他在我背上拍了拍，说道：“祝贺你。”  （）  
+ > 他在我背上拍了拍，说道：“祝贺你。”    
 
 ### 2.*低义频：* **拍击：**  
 
  > **slapped against**  
  > Small waves slapped against the side of the boat.  
- > 细浪拍击着船舷。  （）  
+ > 细浪拍击着船舷。    
 
 
 # ***\*slave*** n
@@ -8331,7 +8419,7 @@ Notes: sky 常与定冠词连用；有形容词修饰时，可与不定冠词连
 ### 1.*高义频：* **奴隶制度；奴隶身份：**  
 
  > abolish slavery  
- > 废除奴隶制度  （）  
+ > 废除奴隶制度    
 
  > When work is a pleasure, life is joy! When work is duty, life is slavery.   
  > 工作是一种乐趣时，生活是一种享受！工作是一种义务时，生活则是一种苦役。  （——高尔基）  
@@ -8368,10 +8456,10 @@ Notes: sky 常与定冠词连用；有形容词修饰时，可与不定冠词连
 
  > **sleep well / soundly**  
  > sleep well / soundly  
- > 睡得很好/很香  （）  
+ > 睡得很好/很香    
 
  > sleep a sound sleep  
- > 熟睡一觉  （）  
+ > 熟睡一觉    
 
 
 # ***\*sleep*** n
@@ -8387,15 +8475,15 @@ Notes: sky 常与定冠词连用；有形容词修饰时，可与不定冠词连
 
  > **light / deep sleep**  
  > a light / deep sleep  
- > 浅/深睡眠  （）  
+ > 浅/深睡眠    
 
  > **went to sleep**  
  > He went to sleep while he was in church.   
- > 他在教堂里做礼拜时睡着了。  （）  
+ > 他在教堂里做礼拜时睡着了。    
 
  > **get to sleep**  
  > I couldn’t get to sleep last night.   
- > 我昨晚睡不着。  （）  
+ > 我昨晚睡不着。    
 
 
 派生词汇
@@ -8412,12 +8500,12 @@ sleepless /'sliːpləs/ adj
 ### 1.*高义频：* **困的；欲睡的：**  
 
  > feel / look sleepy  
- > 觉得/看起来困了  （）  
+ > 觉得/看起来困了    
 
 ### 2.*低义频：* **(城镇或地区) 冷清的：**  
 
  > a sleepy village  
- > 冷清的村庄  （）  
+ > 冷清的村庄    
 
 
 # ***\*sleeve*** n
@@ -8433,7 +8521,7 @@ sleepless /'sliːpləs/ adj
 
  > **roll up one ’ s sleeves**  
  > roll up one ’ s sleeves  
- > 卷起袖子(准备大干)；(着手做难事时)振作精神  （）  
+ > 卷起袖子(准备大干)；(着手做难事时)振作精神    
 
 ### 2.*低义频：* **套袖**  
 
@@ -8461,17 +8549,17 @@ sleepless /'sliːpləs/ adj
 
  > **slice of bread**  
  > a slice of bread / ham  
- > 一片面包/火腿  （）  
+ > 一片面包/火腿    
 
  > **cut,into,slices**  
  > cut the meat into thin slices  
- > 把肉切成薄片  （）  
+ > 把肉切成薄片    
 
 ### 2.*低义频：* **份；部分：**  
 
  > **slice of**  
  > a big / large slice of income  
- > 收入中的一大部分  （）  
+ > 收入中的一大部分    
 
 
 # ***\*slide*** n
@@ -8487,7 +8575,7 @@ sleepless /'sliːpləs/ adj
 
  > **on the slide**  
  > on the slide  
- > 每况愈下  （）  
+ > 每况愈下    
 
 ### 2.*低义频：* **幻灯片**  
 
@@ -8509,23 +8597,23 @@ sleepless /'sliːpləs/ adj
 ### 2.*低义频：* **滑落：**  
 
  > The pen slid from his hand.  
- > 笔从他手中滑落下来。  （）  
+ > 笔从他手中滑落下来。    
 
 ### 3.*高义频：* **(使) 悄悄移到；(使) 悄悄移动(slip)：**  
 
  > **slide into**  
  > slide into a room  
- > 偷偷地溜进房间  （）  
+ > 偷偷地溜进房间    
 
  > **slide sth into**  
  > slide sth into a drawer  
- > 把某物偷偷塞进抽屉  （）  
+ > 把某物偷偷塞进抽屉    
 
 ### 4.*低义频：* **逐渐败坏；开始出现问题：**  
 
  > **slide into**  
  > slide into bad habits  
- > 不知不觉地沾染上坏习惯  （）  
+ > 不知不觉地沾染上坏习惯    
 
 
 # ***\*slight*** adj
@@ -8540,10 +8628,10 @@ sleepless /'sliːpləs/ adj
 反义词 big 
 
  > a slight difference / injury  
- > 微小的区别/轻伤  （）  
+ > 微小的区别/轻伤    
 
  > without the slightest hesitation  
- > 毫不犹豫地  （）  
+ > 毫不犹豫地    
 
 
 真题解析
@@ -8552,6 +8640,7 @@ sleepless /'sliːpləs/ adj
 
 答案：
 1. slight  
+
 # ***\*slightly*** adv
 英音 'slaɪtli     美音 'slaɪtli  
 
@@ -8575,6 +8664,7 @@ sleepless /'sliːpləs/ adj
 
 答案：
 1. slightly  
+
 # ***\*slim*** vi
 英音 slɪm     美音 slɪm  
 
@@ -8592,10 +8682,10 @@ sleepless /'sliːpləs/ adj
 
  > **slimmed down to**  
  > She slimmed down to 60 kilos before her wedding.  
- > 婚礼前她把体重减到了60公斤。  （）  
+ > 婚礼前她把体重减到了60公斤。    
 
  > The company is going to slim down its workforce.  
- > 这家公司要裁员。  （）  
+ > 这家公司要裁员。    
 
 
 # ***\*slim*** adj
@@ -8608,16 +8698,16 @@ sleepless /'sliːpləs/ adj
 ### 1.*高义频：* **苗条的：**  
 
  > a slim young woman  
- > 身材苗条的年轻女子  （）  
+ > 身材苗条的年轻女子    
 
 ### 2.*低义频：* **微小的(small)；不足的：**  
 
  > **slim chances**  
  > slim chances of success  
- > 渺茫的成功机会  （）  
+ > 渺茫的成功机会    
 
  > slim salary  
- > 微薄的薪水  （）  
+ > 微薄的薪水    
 
 
 # ***\*slip*** n
@@ -8632,7 +8722,7 @@ sleepless /'sliːpləs/ adj
 ### 1.*高义频：* **滑动；下降：**  
 
  > have a slip on the ice  
- > 在冰上滑了一跤  （）  
+ > 在冰上滑了一跤    
 
 
 # ***\*slip*** v
@@ -8645,7 +8735,7 @@ sleepless /'sliːpləs/ adj
 ### 1.*高义频：* **滑动；滑倒；滑落：**  
 
  > The boat slips through the water.  
- > 船在水上轻快地滑行。  （）  
+ > 船在水上轻快地滑行。    
 
  > **slip on**  
  > Be careful! Don’t slip on the wet floor.  
@@ -8655,21 +8745,21 @@ sleepless /'sliːpləs/ adj
 
  > **slipping away**  
  > Time is slipping away.  
- > 时间悄悄地流逝。  （）  
+ > 时间悄悄地流逝。    
 
 ### 3.*低义频：* **把...悄悄地放在；(把...) (迅速地) 穿上 / 脱下**  
 
  > He slipped the ring on her finger.  
- > 他把戒指悄悄地戴在她的手指上。  （）  
+ > 他把戒指悄悄地戴在她的手指上。    
 
 ### 4.*低义频：* **错过；被...遗忘 / 忽略：**  
 
  > — Have you brought my book?  
- > 你把我的书拿来了吗？  （）  
+ > 你把我的书拿来了吗？    
 
  > **slipped my mind**  
  > — Oh, I’m sorry. It slipped my mind.  
- > 哦，对不起，我忘了。  （）  
+ > 哦，对不起，我忘了。    
 
 
 真题解析
@@ -8678,6 +8768,7 @@ sleepless /'sliːpləs/ adj
 
 答案：
 1. slipped  
+
 # ***\*slippery*** adj
 英音 'slɪpəri     美音 'slɪpəri  
 
@@ -8701,7 +8792,7 @@ sleepless /'sliːpləs/ adj
 
  > **advertising slogan**  
  > an advertising slogan  
- > 广告标语  （）  
+ > 广告标语    
 
 
 # ***\*slope*** n
@@ -8727,26 +8818,26 @@ sleepless /'sliːpləs/ adj
 反义词 quick / fast 
 
  > a slow stream  
- > 缓慢的溪流  （）  
+ > 缓慢的溪流    
 
  > **five minutes slow**  
  > My watch is five minutes slow.  
- > 我的表慢了5分钟。  （）  
+ > 我的表慢了5分钟。    
 
  > I missed the fast train and had to get the slow one.  
- > 我没赶上快车，只得坐慢车了。  （）  
+ > 我没赶上快车，只得坐慢车了。    
 
 ### 2.*高义频：* **迟迟不...的；慢吞吞的：**  
 
 - (be) slow in doing / to do sth:
 
  > The police were slow in coming.  
- > 警察迟迟不来。  （）  
+ > 警察迟迟不来。    
 
 ### 3.*高义频：* **迟钝的；笨的：**  
 
  > a slow learner  
- > 迟钝的学习者  （）  
+ > 迟钝的学习者    
 
 
 派生词汇
@@ -8763,10 +8854,10 @@ slowly /'sləʊli/ adv
 ### 1.*高义频：* **缓慢地；慢慢地：**  
 
  > My watch goes slow.  
- > 我的表走得慢。  （）  
+ > 我的表走得慢。    
 
  > How slow the time passes!  
- > 时间过得真慢啊！  （）  
+ > 时间过得真慢啊！    
 
 
 # ***\*slow*** v
@@ -8798,13 +8889,13 @@ slowly /'sləʊli/ adv
 ### 1.*高义频：* **小的；(数量) 少的；(字母) 小写的：**  
 
  > a small town  
- > 小镇  （）  
+ > 小镇    
 
  > a small sum of money  
- > 一小笔钱  （）  
+ > 一小笔钱    
 
  > small letters  
- > 小写字母  （）  
+ > 小写字母    
 
 ### 2.*高义频：* **幼小的；矮小的：**  
 
@@ -8815,10 +8906,10 @@ slowly /'sləʊli/ adv
 
  > **small talk**  
  > small talk  
- > 聊天；闲聊  （）  
+ > 聊天；闲聊    
 
  > a small matter  
- > 小事  （）  
+ > 小事    
 
 
 # ***\*smart*** adj
@@ -8831,10 +8922,10 @@ slowly /'sləʊli/ adv
 ### 1.*高义频：* **聪明的；精明的：**  
 
  > Mary’s teacher says she’s one of the smartest kids in the class.   
- > 玛丽的老师说她是班上最聪明的孩子之一。  （）  
+ > 玛丽的老师说她是班上最聪明的孩子之一。    
 
  > You are quite smart about business.  
- > 你做生意很精明。  （）  
+ > 你做生意很精明。    
 
 ### 2.*高义频：* **漂亮的；潇洒的：**  
 
@@ -8866,19 +8957,19 @@ slowly /'sləʊli/ adv
  > 自制的新鲜面包的气味  （2013 辽宁）  
 
  > What a smell!  
- > 好臭的味儿啊！  （）  
+ > 好臭的味儿啊！    
 
 ### 2.*高义频：* **嗅觉：**  
 
  > **sense of smell**  
  > a fine sense of smell  
- > 良好的嗅觉  （）  
+ > 良好的嗅觉    
 
 ### 3.*低义频：* **[用单数] 闻；嗅：**  
 
  > **Have a smell of**  
  > Have a smell of this cheese; does it seem all right?  
- > 闻一闻这块奶酪，它是不是好的？  （）  
+ > 闻一闻这块奶酪，它是不是好的？    
 
 
 派生词汇
@@ -8897,7 +8988,7 @@ smelly /'smeli/ adj
 ### 1.*高义频：* **闻；嗅：**  
 
  > She bent down and smelt the flowers.  
- > 她弯下腰闻了闻花。  （）  
+ > 她弯下腰闻了闻花。    
 
  > Sharks can smell blood over a long distance.  
  > 鲨鱼很远就能闻到血腥味。  （译林③ – 1）  
@@ -8907,42 +8998,42 @@ smelly /'smeli/ adj
 - smell sth doing:
 
  > I smell something burning in the kitchen.  
- > 我闻到厨房里有东西烧焦了。  （）  
+ > 我闻到厨房里有东西烧焦了。    
 
 ### 3.*高义频：* **[用作系动词] 闻起来有...的气味 / 气息：**  
 
 - smell + adj / prep:
 
  > The flowers smell sweet.  
- > 这些花闻起来很香。  （）  
+ > 这些花闻起来很香。    
 
  > My room smells like / of a cigarette smoke.  
- > 我的房间闻起来有烟味。  （）  
+ > 我的房间闻起来有烟味。    
 
  > You smell wonderful — what perfume is that?  
- > 你闻起来真香——那是什么香水？  （）  
+ > 你闻起来真香——那是什么香水？    
 
 ### 4.*低义频：* **[常与can, could连用] 闻到气味；有嗅觉：**  
 
  > He can’t smell because he has a cold.  
- > 因为感冒，他闻不出味道。  （）  
+ > 因为感冒，他闻不出味道。    
 
 ### 5.*高义频：* **[不用于进行时] 有难闻的气味；有臭气：**  
 
  > Your feet smell!  
- > 你的脚好臭！  （）  
+ > 你的脚好臭！    
 
  > The fish smells; I don’t think it’s quite fresh.  
- > 这条鱼有臭味，我认为它不新鲜了。  （）  
+ > 这条鱼有臭味，我认为它不新鲜了。    
 
 ### 6.*低义频：* **[不用于被动语态] 察觉出；感觉到：**  
 
  > I can smell a festival atmosphere.  
- > 我能感觉到节日的气氛。  （）  
+ > 我能感觉到节日的气氛。    
 
  > **smell trouble**  
  > I can smell trouble.  
- > 我感到有麻烦了。  （）  
+ > 我感到有麻烦了。    
 
 
 # ***\*smelly*** adj
@@ -8967,7 +9058,7 @@ smelly /'smeli/ adj
 ### 1.*高义频：* **微笑；笑容：**  
 
  > have / wear a smile  
- > 面带微笑  （）  
+ > 面带微笑    
 
  > **with a smile**  
  > In a word, let’s greet every day with a smile.  
@@ -8990,7 +9081,7 @@ smelly /'smeli/ adj
 ### 2.*低义频：* **以微笑表示：**  
 
  > She smiles her thanks.  
- > 她以微笑表示感谢。  （）  
+ > 她以微笑表示感谢。    
 
 
 # ***\*smog*** n
@@ -9015,17 +9106,17 @@ smelly /'smeli/ adj
 ### 1.*高义频：* **抽 (烟)；吸 (烟)：**  
 
  > Does your father smoke?  
- > 你父亲抽烟吗？  （）  
+ > 你父亲抽烟吗？    
 
 ### 2.*高义频：* **冒烟：**  
 
  > That fireplace smokes badly.  
- > 那壁炉烟冒得很厉害。  （）  
+ > 那壁炉烟冒得很厉害。    
 
 ### 3.*高义频：* **用烟熏制：**  
 
  > smoke fish and ham  
- > 熏制鱼和火腿  （）  
+ > 熏制鱼和火腿    
 
 
 # ***\*smoke*** n
@@ -9039,12 +9130,12 @@ smelly /'smeli/ adj
 
  > **There,is,no,smoke,without,fire**  
  > There is no smoke without fire.  
- > 无风不起浪。  （）  
+ > 无风不起浪。    
 
 ### 2.*低义频：* **[常用单数] 香烟；抽烟：**  
 
  > Have a smoke.  
- > 抽支烟。  （）  
+ > 抽支烟。    
 
 
 # ***\*smoker*** n
@@ -9060,7 +9151,7 @@ smelly /'smeli/ adj
 
  > **heavy smoker**  
  > a heavy smoker  
- > 烟瘾大的人  （）  
+ > 烟瘾大的人    
 
 
 # ***\*smoking*** n
@@ -9076,7 +9167,7 @@ smelly /'smeli/ adj
 
  > **give up / quit smoking**  
  > give up / quit smoking  
- > 戒烟  （）  
+ > 戒烟    
 
 
 # ***\*smooth*** vt
@@ -9094,7 +9185,7 @@ smelly /'smeli/ adj
 
  > **smoothed the path / way for**  
  > He smoothed the path / way for us.  
- > 他为我们铺平了道路。  （）  
+ > 他为我们铺平了道路。    
 
 
 固定搭配
@@ -9116,15 +9207,15 @@ smelly /'smeli/ adj
  > 他的头发顺滑乌黑，他的声音低沉浑厚。  （人教⑦ – 2）  
 
  > a smooth sea  
- > 平静的海面  （）  
+ > 平静的海面    
 
  > The car came to a smooth stop.  
- > 汽车平稳地停了下来。  （）  
+ > 汽车平稳地停了下来。    
 
 ### 2.*高义频：* **顺利的：**  
 
  > Her journey to becoming the fastest woman on earth has been anything but smooth and effortless.  
- > 她成为全球跑得最快的女性的道路并非一帆风顺。  （）  
+ > 她成为全球跑得最快的女性的道路并非一帆风顺。    
 
 
 派生词汇
@@ -9132,7 +9223,7 @@ smelly /'smeli/ adj
 smoothly /'smuːðli/ adv   
  > **goes smoothly**  
  > I hope everything goes smoothly.  
- > 我希望一切顺利。  （）  
+ > 我希望一切顺利。    
 
 
 真题解析
@@ -9141,6 +9232,7 @@ smoothly /'smuːðli/ adv
 
 答案：
 1. smoothly  
+
 # ***\*snack*** n
 英音 snæk     美音 snæk  
 
@@ -9278,15 +9370,15 @@ smoothly /'smuːðli/ adv
 
  > **heavy,snow**  
  > heavy / thick snow  
- > 大雪/厚厚的雪  （）  
+ > 大雪/厚厚的雪    
 
  > clear / sweep snow  
- > 清理雪/扫雪  （）  
+ > 清理雪/扫雪    
 
 ### 2.*低义频：* **[常用复数] 积雪 (地区)：**  
 
  > the high snows  
- > 高原积雪带  （）  
+ > 高原积雪带    
 
 
 # ***\*snow*** vi
@@ -9299,7 +9391,7 @@ smoothly /'smuːðli/ adv
 ### 1.*高义频：* **下雪；雪一般地落下：**  
 
  > It is snowing hard.  
- > 雪下得很大。  （）  
+ > 雪下得很大。    
 
 
 # ***\*snowboarding*** n
@@ -9344,7 +9436,7 @@ smoothly /'smuːðli/ adv
 ### 1.*高义频：* **降雪的；多雪的；被雪覆盖的：**  
 
  > a snowy climate  
- > 多雪的气候  （）  
+ > 多雪的气候    
 
 
 # ***\*so*** conj  重难点词汇
@@ -9357,17 +9449,17 @@ smoothly /'smuːðli/ adv
 ### 1.*高义频：* **因此；所以：**  
 
  > It was late, so we went home.  
- > 天晚了，我们就回家了。  （）  
+ > 天晚了，我们就回家了。    
 
 ### 2.*高义频：* **为的是；以便：**  
 
  > Speak clearly, so they may understand you.  
- > 说得清楚些，以便他们能听懂你的意思。  （）  
+ > 说得清楚些，以便他们能听懂你的意思。    
 
 ### 3.*高义频：* **如此说来：**  
 
  > So, what kind of work do you do?  
- > 那么，你是做什么工作的呢？  （）  
+ > 那么，你是做什么工作的呢？    
 
 
 固定搭配
@@ -9379,27 +9471,32 @@ smoothly /'smuːðli/ adv
  > 我们努力工作为的是多赚些钱。  （北师大⑧ – 24）  
 
  > He didn’t plan his time well, so that he didn’t finish the work in time.   
- > 他没计划好时间，结果没及时完成工作。  （）  
+ > 他没计划好时间，结果没及时完成工作。    
 
 ## \*So what?
 1.**那又怎么样？**  
 
  > — Andrew won’t like it, you know.  
- > 你知道安德鲁是不会喜欢的。  （）  
+ > 你知道安德鲁是不会喜欢的。    
 
  > — So what? I don’t care what Andrew thinks!  
- > 那又怎样？我才不在乎安德鲁怎么想呢！  （）  
+ > 那又怎样？我才不在乎安德鲁怎么想呢！    
 
 
 真题解析
 ---
 1. Cathy had quit her job when her son was born ________ (为的是) she could stay home and raise her family.  （2014 浙江改）  
+
 2. Some animals carry seeds from one place to another, ________ (所以) plants can spread to new places.  （2014 北京改）  
+
 3. — Linda didn’t invite us to the party.
 — ________ (那又怎样)? I don’t care.  （2011 江苏改）  
 
 答案：
-1. so that / in order that  2. so  3. So what  
+1. so that / in order that  
+2. so  
+3. So what  
+
 # ***\*so*** adv  重难点词汇
 英音 səʊ     美音 soʊ  
 
@@ -9410,19 +9507,19 @@ smoothly /'smuːðli/ adv
 ### 1.*低义频：* **[表示方式、方法、情况等] 像这样；像那样：**  
 
  > Hold your pen so.  
- > 这样拿笔。  （）  
+ > 这样拿笔。    
 
  > Is that so?  
- > 是那样的吗？  （）  
+ > 是那样的吗？    
 
 ### 2.*高义频：* **[表示程度] 这么；那么；如此：**  
 
  > He works so hard.  
- > 他工作那么努力。  （）  
+ > 他工作那么努力。    
 
 Notes: so修饰置于单数可数名词之前的形容词时，语序为“so + adj + a / an + n”。  
  > so important an event  
- > 如此重要的一件事  （）  
+ > 如此重要的一件事    
 
 ### 3.*高义频：* **[代替上文中的名词、形容词或动词] 同样；也；对：**  
 
@@ -9431,17 +9528,17 @@ Notes: so意为“同样”、“也”时，常承接在肯定句后面，引�
  > 足球对我很重要，但我们的友谊同样重要。  （译林⑤ – 1）  
 
  > — I like to read Chris Paine.  
- > 我喜欢读克里斯·佩恩的作品。  （）  
+ > 我喜欢读克里斯·佩恩的作品。    
 
  > — So do I.  
- > 我也是。  （）  
+ > 我也是。    
 
 Notes: “so + 主语 + 助动词 / 情态动词 / be动词”表示对之前或对方所说情况的赞同或证实，意为“对”或“的确如此”。  
  > — It’s warmer today.  
- > 今天暖和一些了。  （）  
+ > 今天暖和一些了。    
 
  > — So it is.  
- > 是的。  （）  
+ > 是的。    
 
 ### 4.*高义频：* **非常；极：**  
 
@@ -9451,11 +9548,11 @@ Notes: “so + 主语 + 助动词 / 情态动词 / be动词”表示对之前或
 ### 5.*高义频：* **[与expect, hope, say, think等动词连用，指代前文] 这样；如此：**  
 
  > — Did they mind?  
- > 他们介意吗？  （）  
+ > 他们介意吗？    
 
  > **I don’t think so**  
  > — I don’t think so.  
- > 我想不介意。  （）  
+ > 我想不介意。    
 
 
 固定搭配
@@ -9470,7 +9567,7 @@ Notes: “so + 主语 + 助动词 / 情态动词 / be动词”表示对之前或
 1.**大约：**  
 
  > Over the past twenty years or so, great changes have taken place in our life.  
- > 在过去大约20年的时间里，我们的生活发生了巨大变化。  （）  
+ > 在过去大约20年的时间里，我们的生活发生了巨大变化。    
 
 ## \*so as to
 1.**为了：**  
@@ -9479,22 +9576,22 @@ Notes: “so + 主语 + 助动词 / 情态动词 / be动词”表示对之前或
  > 为了不损害孩子的健康，我戒烟了。  （北师大④ – 10）  
 
  > The government should encourage more people to use public transport and bicycles so as to ease the traffic flow.  
- > 为了缓解交通拥堵，政府应鼓励更多的人使用公共交通和自行车出行。  （）  
+ > 为了缓解交通拥堵，政府应鼓励更多的人使用公共交通和自行车出行。    
 
 #### 辨析 in order to, so as to
 二者都有“以便”、“为了”之意，in order to 可用于句首或句中，so as to 一般不用于句首。  
 
  > We’ll have to save as much as possible in order to pay for the new house.  
- > 为了买新房子，我们不得不尽量节俭。  （）  
+ > 为了买新房子，我们不得不尽量节俭。    
 
  > Go in quietly so as not to wake your mother.  
- > 悄悄地进去，别把你的妈妈吵醒了。  （）  
+ > 悄悄地进去，别把你的妈妈吵醒了。    
 
 ## \*so...as to
 1.**如此…以至：**  
 
  > The movie was so frightening as to make your hair stand on end.   
- > 那部电影恐怖得让你毛骨悚然。  （）  
+ > 那部电影恐怖得让你毛骨悚然。    
 
 ## \*so ... that ...
 1.**如此…以至于：**  
@@ -9504,25 +9601,34 @@ Notes: “so + 主语 + 助动词 / 情态动词 / be动词”表示对之前或
 
 Notes: 在so ... that 引导的复合句中，so位于句首时，主句部分要用倒装结构。  
  > So loudly did he speak that even people in the next room could hear him.   
- > 他说话声音很大，连隔壁房间的人都能听到。  （）  
+ > 他说话声音很大，连隔壁房间的人都能听到。    
 
 
 真题解析
 ---
 1. — Why, this is nothing but common vegetable soup!
 — ________ it is, madam. It’s our soup of the day.  （2013 全国改）  
+
 2. — I don’t know about you, but I’m sick and tired of this weather.
 — ________ (我也是). I can’t stand all this rain.  （2012山东改）  
+
 3. So sudden _________ that the enemy had no time to escape.  （2009 山东）  
 A.did the attack  
 B.the attack did  
 C.was the attack  
 D.the attack was  
+
 4. Some of you may have finished unit one. ________ (如果是这样), you can go on to unit two.   （2009 江西改）  
+
 5. I haven’t seen Ann for ________ long that I’ve forgotten what she looks like.  （2008 四川改）  
 
 答案：
-1. So  2. So am I  3. C  4. If so  5. so  
+1. So  
+2. So am I  
+3. C  
+4. If so  
+5. so  
+
 # ***\*soap*** n
 英音 səʊp     美音 soʊp  
 
@@ -9536,7 +9642,7 @@ D.the attack was
 
  > **bar,piece of soap**  
  > a bar / piece of soap  
- > 一块肥皂  （）  
+ > 一块肥皂    
 
 
 # ***\*soar*** vi
@@ -9561,7 +9667,7 @@ D.the attack was
 ### 1.*高义频：* **啜泣 (声)；呜咽 (声)：**  
 
  > big / little sobs  
- > 止不住的/小阵的啜泣  （）  
+ > 止不住的/小阵的啜泣    
 
 
 # ***\*sob*** v
@@ -9599,7 +9705,7 @@ D.the attack was
 ### 1.*高义频：* **社会的；社交的：**  
 
  > social issues  
- > 社会问题  （）  
+ > 社会问题    
 
  > There were many new inventions and social changes.  
  > 当时有许多新发明和社会变革。  （人教⑥ – 1）  
@@ -9631,7 +9737,7 @@ socially /'səʊʃəli/ adv
 ### 1.*高义频：* **社会主义 (者) 的：**  
 
  > socialist construction  
- > 社会主义建设  （）  
+ > 社会主义建设    
 
 
 # ***\*socialist*** n
@@ -9656,15 +9762,15 @@ socially /'səʊʃəli/ adv
 ### 1.*高义频：* **[不与the连用] 社会：**  
 
  > western / modern society  
- > 西方/现代社会  （）  
+ > 西方/现代社会    
 
  > fit into society  
- > 融入社会  （）  
+ > 融入社会    
 
 ### 2.*高义频：* **协会；俱乐部；社团：**  
 
  > the American Cancer Society  
- > 美国癌症学会  （）  
+ > 美国癌症学会    
 
 
 # ***\*sock*** n
@@ -9726,28 +9832,28 @@ socially /'səʊʃəli/ adv
 ### 1.*高义频：* **柔软的【反:hard】；柔和的；轻柔的；**  
 
  > soft skin  
- > 柔滑的肌肤  （）  
+ > 柔滑的肌肤    
 
  > soft light / colors  
- > 柔和的灯光/颜色  （）  
+ > 柔和的灯光/颜色    
 
  > soft music  
- > 轻柔的音乐  （）  
+ > 轻柔的音乐    
 
 ### 2.*低义频：* **(饮料) 不含酒精的；(水) 不含无机盐的：**  
 
  > soft drinks  
- > 软饮料(不含酒精的饮料)  （）  
+ > 软饮料(不含酒精的饮料)    
 
 ### 3.*低义频：* **(天气等) 温暖的；和煦的：**  
 
  > He is used to the soft climate of the south.  
- > 他习惯于南方温暖的气候。  （）  
+ > 他习惯于南方温暖的气候。    
 
 ### 4.*低义频：* **温柔的；宽厚的；和蔼的：**  
 
  > have a soft heart  
- > 有一副软心肠  （）  
+ > 有一副软心肠    
 
 
 派生词汇
@@ -9790,13 +9896,13 @@ softly /'sɒftli/ adv
 
  > **rich / poor soil**  
  > rich / poor soil  
- > 肥沃的/贫瘠的土地  （）  
+ > 肥沃的/贫瘠的土地    
 
 ### 2.*低义频：* **领土；国家：**  
 
  > **one’s native soil**  
  > one’s native soil  
- > 故土  （）  
+ > 故土    
 
 
 # ***\*solar*** adj
@@ -9809,10 +9915,10 @@ softly /'sɒftli/ adv
 ### 1.*高义频：* **太阳的；利用太阳能的：**  
 
  > the solar calendar  
- > 阳历  （）  
+ > 阳历    
 
  > solar energy / panels  
- > 太阳能/太阳能电池板  （）  
+ > 太阳能/太阳能电池板    
 
 
 # ***\*soldier*** n
@@ -9853,27 +9959,27 @@ softly /'sɒftli/ adv
 
  > **solid fuel**  
  > solid fuel  
- > 固体燃料  （）  
+ > 固体燃料    
 
 ### 2.*高义频：* **坚固的；牢固的：**  
 
  > **solid foundation**  
  > The old house has a solid foundation.  
- > 这幢旧房子的地基很牢固。  （）  
+ > 这幢旧房子的地基很牢固。    
 
  > A solid parent-child relationship is often a strong support for teenagers as they face challenges.  
- > 父母与子女之间的牢固关系，常常是青少年面临挑战时的强大支撑。  （）  
+ > 父母与子女之间的牢固关系，常常是青少年面临挑战时的强大支撑。    
 
 ### 3.*高义频：* **可靠的：**  
 
  > **solid evidence**  
  > There is solid evidence to show he wasn’t there when the crime took place.  
- > 有可靠证据证明案发时他不在现场。  （）  
+ > 有可靠证据证明案发时他不在现场。    
 
 ### 4.*低义频：* **实心的：**  
 
  > a solid ball  
- > 实心球  （）  
+ > 实心球    
 
 
 真题解析
@@ -9886,6 +9992,7 @@ D.potential
 
 答案：
 1. A  
+
 # ***\*solo*** n
 英音 'səʊləʊ     美音 'soʊloʊ  
 
@@ -9898,7 +10005,7 @@ D.potential
 ### 1.*高义频：* **独奏曲；独唱曲：**  
 
  > a guitar / piano / violin solo  
- > 吉他/钢琴/小提琴独奏曲  （）  
+ > 吉他/钢琴/小提琴独奏曲    
 
 
 # ***\*solo*** adj
@@ -9911,12 +10018,12 @@ D.potential
 ### 1.*高义频：* **单独的；独自的：**  
 
  > a solo flight / voyage  
- > 独自飞行/航行  （）  
+ > 独自飞行/航行    
 
 ### 2.*高义频：* **独奏的；独唱的：**  
 
  > a solo artist / singer  
- > 独奏艺术家/独唱歌手  （）  
+ > 独奏艺术家/独唱歌手    
 
 
 # ***\*soloist*** n
@@ -9951,6 +10058,7 @@ D.potential
 
 答案：
 1. solution  
+
 # ***\*solve*** vt
 英音 sɒlv     美音 sɑːlv  
 
@@ -9961,7 +10069,7 @@ D.potential
 ### 1.*高义频：* **解决；解答：**  
 
  > I’m trying to solve this problem, but I can’t find the right solution.  
- > 我正试图解决这个问题，可是找不到正确的方法。  （）  
+ > 我正试图解决这个问题，可是找不到正确的方法。    
 
 
 # ***\*somatic*** adj
@@ -9984,7 +10092,7 @@ D.potential
 ### 1.*高义频：* **[多用于肯定句，与不可数名词或可数名词复数连用] 若干的；一些的：**  
 
  > You left some money on the table.  
- > 你把钱落在桌子上了。  （）  
+ > 你把钱落在桌子上了。    
 
  > May I help you? You seem to be having some problems.  
  > 有什么需要帮忙的吗？你好像碰到了一些麻烦事。  （2012 安徽）  
@@ -9992,21 +10100,21 @@ D.potential
 ### 2.*高义频：* **[用于疑问句，希望得到肯定的回答或表示建议、请求等] 一些；一点：**  
 
  > Would you have some tea?  
- > 喝点儿茶吗？  （）  
+ > 喝点儿茶吗？    
 
  > Aren’t there some envelopes in that drawer?  
- > 那个抽屉里不是还有几个信封吗？  （）  
+ > 那个抽屉里不是还有几个信封吗？    
 
 ### 3.*高义频：* **[用于可数名词单数之前，表示未知或说话人不想说明的事物等] 某个；某一：**  
 
  > in some way  
- > 以某种方式  （）  
+ > 以某种方式    
 
  > for some reason  
- > 由于某种原因  （）  
+ > 由于某种原因    
 
  > Some person at the door is asking to see you.  
- > 门口有个人要见你。  （）  
+ > 门口有个人要见你。    
 
 
 固定搭配
@@ -10015,13 +10123,13 @@ D.potential
 1.**再多点 (的)；再多些 (的)：**  
 
  > Have some more bread; it’ll make you feel much better  
- > 再吃些面包，那样你会感觉好一些。  （）  
+ > 再吃些面包，那样你会感觉好一些。    
 
 ## \*some ... or other
 1.**[用于表示不肯定或不精确] 某一：**  
 
  > I’ve read about it before in some book or other.   
- > 我以前曾在某一本书里读到过与此有关的内容。  （）  
+ > 我以前曾在某一本书里读到过与此有关的内容。    
 
 
 真题解析
@@ -10034,6 +10142,7 @@ D.a; little
 
 答案：
 1. A  
+
 # ***\*some*** pron  重难点词汇
 英音 səm,sʌm     美音 səm,sʌm  
 
@@ -10049,7 +10158,7 @@ D.a; little
 ### 2.*高义频：* **[用作复数] 有些人；有些事物：**  
 
  > Some answered yes and some answered no.  
- > 有些人回答“是”，有些人回答“不是”。  （）  
+ > 有些人回答“是”，有些人回答“不是”。    
 
 
 # ***\*some*** adv  重难点词汇
@@ -10079,7 +10188,7 @@ D.a; little
 ### 1.*高义频：* **重要人物：**  
 
  > He thinks that he is somebody, but actually he is a nobody.  
- > 他自以为是个大人物，但实际上只是个无名小卒。  （）  
+ > 他自以为是个大人物，但实际上只是个无名小卒。    
 
 
 # ***\*somebody*** pron
@@ -10093,7 +10202,7 @@ D.a; little
 反义词 nobody 
 
  > People are hungry for somebody to tell them the truth.  
- > 人们渴望有人告诉他们真相。  （）  
+ > 人们渴望有人告诉他们真相。    
 
 
 # ***\*someday*** adv
@@ -10119,12 +10228,12 @@ D.a; little
 ### 1.*高义频：* **以某种方式；用某种方法：**  
 
  > Don’t worry. We’ll get the money back somehow.  
- > 别担心，我们总会把那些钱拿回来的。  （）  
+ > 别担心，我们总会把那些钱拿回来的。    
 
 ### 2.*高义频：* **不知为什么：**  
 
  > Somehow the right chance never seemed to present itself.  
- > 不知怎么回事，好像从来没有合适的机会。  （）  
+ > 不知怎么回事，好像从来没有合适的机会。    
 
 
 # ***\*someone*** pron
@@ -10150,11 +10259,11 @@ D.a; little
 
  > **There’s something in**  
  > There’s something in what he says.  
- > 他说的有点道理。  （）  
+ > 他说的有点道理。    
 
  > **is quite something**  
  > He believes he is quite something.  
- > 他相信自己很了不起。  （）  
+ > 他相信自己很了不起。    
 
 
 固定搭配
@@ -10163,19 +10272,19 @@ D.a; little
 1.**与…有关系：**  
 
  > It has something to do with all of us.  
- > 这与我们都有关系。  （）  
+ > 这与我们都有关系。    
 
 ## \*make something of oneself
 1.**有所成就；获得成功：**  
 
  > Jenny should make something of herself one day if she kept working hard.  
- > 如果珍妮一直努力工作，总有一天会有出息的。  （）  
+ > 如果珍妮一直努力工作，总有一天会有出息的。    
 
 ## \*something else
 1.**别的东西；另外一件事：**  
 
  > He said something else that I thought was interesting.  
- > 他说了另外一件事，我觉得很有趣。  （）  
+ > 他说了另外一件事，我觉得很有趣。    
 
 
 真题解析
@@ -10188,6 +10297,7 @@ D.everything
 
 答案：
 1. A  
+
 # ***\*something*** pron  重难点词汇
 英音 'sʌmθɪŋ     美音 'sʌmθɪŋ  
 
@@ -10198,29 +10308,29 @@ D.everything
 ### 1.*高义频：* **[常用于陈述句中；当表示说话者期望得到肯定的回答时，可以用在疑问句中] 某物；某事：**  
 
  > I have something to tell you.  
- > 我有事要告诉你。  （）  
+ > 我有事要告诉你。    
 
  > Do you want something to eat?  
- > 你想来些吃的吗？  （）  
+ > 你想来些吃的吗？    
 
 Notes: something, anything, nothing, somebody,anybody, nobody, everyone, anyone, no one等不定代词有修饰语修饰时，修饰语后置。  
  > **something wrong**  
  > I think there’s something wrong with the phone.  
- > 我觉得这部电话有问题。  （）  
+ > 我觉得这部电话有问题。    
 
 ### 2.*高义频：* **[表示模糊的概念] 什么：**  
 
  > **something like**  
  > The air fare was about 200 pounds or something like that.  
- > 机票200英镑左右，大概是那个价格。  （）  
+ > 机票200英镑左右，大概是那个价格。    
 
 ### 3.*低义频：* **[和nothing相对] 实有之物：**  
 
  > You can’t make something out of nothing.  
- > 巧妇难为无米之炊。  （）  
+ > 巧妇难为无米之炊。    
 
  > Happiness is not something you experience; it’s something you remember.  
- > 幸福不是你经历的事，而是你记得的事。  （）  
+ > 幸福不是你经历的事，而是你记得的事。    
 
 
 真题解析
@@ -10230,6 +10340,7 @@ Notes: something, anything, nothing, somebody,anybody, nobody, everyone, anyone,
 
 答案：
 1. like  
+
 # ***\*sometime*** adv
 英音 'sʌmtaɪm     美音 'sʌmtaɪm  
 
@@ -10240,7 +10351,7 @@ Notes: something, anything, nothing, somebody,anybody, nobody, everyone, anyone,
 ### 1.*高义频：* **在 (过去或将来) 某个时候 (some time)：**  
 
  > We must get together sometime.  
- > 我们一定要找个时间聚一下。  （）  
+ > 我们一定要找个时间聚一下。    
 
 
 # ***\*sometimes*** adv
@@ -10253,10 +10364,10 @@ Notes: something, anything, nothing, somebody,anybody, nobody, everyone, anyone,
 ### 1.*高义频：* **不时；有时：**  
 
  > Sometimes I have letters from him.  
- > 我有时会收到他的信。  （）  
+ > 我有时会收到他的信。    
 
  > The journey takes an hour, sometimes even longer.  
- > 旅程需要一个小时，有时甚至会更长。  （）  
+ > 旅程需要一个小时，有时甚至会更长。    
 
 
 真题解析
@@ -10265,6 +10376,7 @@ Notes: something, anything, nothing, somebody,anybody, nobody, everyone, anyone,
 
 答案：
 1. sometimes  
+
 # ***\*somewhat*** adv
 英音 'sʌmwɒt     美音 'sʌmwʌt  
 
@@ -10275,7 +10387,7 @@ Notes: something, anything, nothing, somebody,anybody, nobody, everyone, anyone,
 ### 1.*高义频：* **稍微；有点：**  
 
  > The situation has improved somewhat.  
- > 情况有所改善。  （）  
+ > 情况有所改善。    
 
 
 # ***\*somewhere*** adv
@@ -10288,7 +10400,7 @@ Notes: something, anything, nothing, somebody,anybody, nobody, everyone, anyone,
 ### 1.*高义频：* **在某处；到某处：**  
 
  > I must have left it somewhere.  
- > 我一定把它丢在哪儿了。  （）  
+ > 我一定把它丢在哪儿了。    
 
 Notes: somewhere通常用于肯定句中。但当表示说话者期望得到肯定的回答时，可以用在疑问句中。  
 
@@ -10302,7 +10414,7 @@ Notes: somewhere通常用于肯定句中。但当表示说话者期望得到肯�
 ### 1.*高义频：* **某处：**  
 
  > Everyone needs somewhere to live.  
- > 每个人都需要有个住的地方。  （）  
+ > 每个人都需要有个住的地方。    
 
 
 # ***\*son*** n
@@ -10317,7 +10429,7 @@ Notes: somewhere通常用于肯定句中。但当表示说话者期望得到肯�
 ### 1.*高义频：* **儿子：**  
 
  > Like father, like son.  
- > 有其父必有其子。  （）  
+ > 有其父必有其子。    
 
 ### 2.*低义频：* **[常用复数] 子孙；后代**  
 
@@ -10337,11 +10449,11 @@ Notes: somewhere通常用于肯定句中。但当表示说话者期望得到肯�
 
  > **popular / folk song**  
  > a popular / folk song  
- > 流行歌曲/民谣  （）  
+ > 流行歌曲/民谣    
 
  > **burst into song**  
  > burst into song  
- > 突然唱起歌来  （）  
+ > 突然唱起歌来    
 
 
 # ***\*songbird*** n
@@ -10375,12 +10487,12 @@ Notes: somewhere通常用于肯定句中。但当表示说话者期望得到肯�
 
  > **soon after**  
  > He sold the house soon after the incident.  
- > 那次事件过后不久，他就卖掉了房子。  （）  
+ > 那次事件过后不久，他就卖掉了房子。    
 
 ### 2.*高义频：* **早；(时间) 快：**  
 
  > Leaving so soon?  
- > 这么早就走？  （）  
+ > 这么早就走？    
 
 
 固定搭配
@@ -10394,23 +10506,23 @@ Notes: somewhere通常用于肯定句中。但当表示说话者期望得到肯�
 2.*低义频：* **如...那么早 / 快：**  
 
  > They didn’t arrive as soon as we had expected.  
- > 他们到得没有我们预期的那么早。  （）  
+ > 他们到得没有我们预期的那么早。    
 
 ## \*no sooner ... than
 1.**一…就：**  
 
  > I had no sooner reached home than it began to rain. / No sooner had I reached home than it began to rain.  
- > 我刚到家就开始下雨了。  （）  
+ > 我刚到家就开始下雨了。    
 
 Notes: no sooner置于句首时，句子要用部分倒装结构。  
  > No sooner had he sat down than he heard someone knock at the door.  
- > 他刚坐下来就听见有人敲门。  （）  
+ > 他刚坐下来就听见有人敲门。    
 
 ## \*sooner or later 
 1.**迟早：**  
 
  > Sooner or later she was going to awake anyhow.  
- > 不管怎样，她迟早会醒悟过来。  （）  
+ > 不管怎样，她迟早会醒悟过来。    
 
 
 真题解析
@@ -10420,11 +10532,16 @@ A.had Mo Yan
 B.Mo Yan had  
 C.has Mo Yan  
 D.Mo Yan has  
+
 2. He had no sooner finished his speech ________ the students started cheering.  （2011 辽宁改）  
+
 3. Just use this room for the time being, and we’ll offer you a larger one ________ (一…就) it becomes available.  （2010 安徽改）  
 
 答案：
-1. A  2. than  3. as soon as  
+1. A  
+2. than  
+3. as soon as  
+
 # ***\*sophisticated*** adj
 英音 sə'fɪstɪkeɪtɪd     美音 sə'fɪstɪkeɪtɪd  
 
@@ -10476,12 +10593,12 @@ D.Mo Yan has
 
  > **deep sorrow**  
  > To his deep sorrow, his grandfather died in a car accident yesterday.  
- > 令他悲痛万分的是，他的爷爷昨天丧生于车祸。  （）  
+ > 令他悲痛万分的是，他的爷爷昨天丧生于车祸。    
 
 ### 2.*低义频：* **伤心事；不幸事：**  
 
  > joys and sorrows of life  
- > 人生的悲欢  （）  
+ > 人生的悲欢    
 
 
 # ***\*sorry*** int  重难点词汇
@@ -10494,7 +10611,7 @@ D.Mo Yan has
 ### 1.*高义频：* **对不起；不好意思：**  
 
  > Sorry, I’m late!  
- > 对不起，我来晚了！  （）  
+ > 对不起，我来晚了！    
 
 
 # ***\*sorry*** adj  重难点词汇
@@ -10511,16 +10628,16 @@ D.Mo Yan has
 - (be / feel) sorry about sth / for sb:
 
  > She is very sorry about her son’s accidental death.  
- > 儿子的意外死亡让她很难过。  （）  
+ > 儿子的意外死亡让她很难过。    
 
  > The students decided to help the orphans because they felt sorry for them.  
- > 学生们很同情那些孤儿，因此决定帮助他们。  （）  
+ > 学生们很同情那些孤儿，因此决定帮助他们。    
 
 - (be) sorry to do sth:
 
  > **sorry to hear**  
  > I’m sorry to hear that you didn’t pass the exam.  
- > 听说你没通过考试，我心里不好受。  （）  
+ > 听说你没通过考试，我心里不好受。    
 
 - (be) sorry + that 从句：
 
@@ -10532,12 +10649,12 @@ D.Mo Yan has
 - (be) sorry for / (doing) about sth:
 
  > I’m sorry for what I have done to you.  
- > 我为自己对你做过的事感到抱歉。  （）  
+ > 我为自己对你做过的事感到抱歉。    
 
 - (be) sorry to do sth:
 
  > I’m sorry to have troubled you so much.  
- > 很抱歉这么麻烦你。  （）  
+ > 很抱歉这么麻烦你。    
 
 - (be) sorry + that 从句：
 
@@ -10549,7 +10666,7 @@ D.Mo Yan has
 - (be) sorry to do sth:
 
  > I’m sorry to say that the negotiations have made no progress.  
- > 很遗憾，谈判没有取得进展。  （）  
+ > 很遗憾，谈判没有取得进展。    
 
  > I’m sorry to say that I cannot go to the bookstore with you on Friday afternoon.  
  > 很遗憾，周五下午我不能和你去书店。  （2016 全国书面表达）  
@@ -10557,7 +10674,7 @@ D.Mo Yan has
 - (be) sorry + (that) 从句：
 
  > He was sorry that he had to leave.  
- > 他很遗憾不得不离开。  （）  
+ > 他很遗憾不得不离开。    
 
 
 # ***\*sort*** n  重难点词汇
@@ -10573,7 +10690,7 @@ D.Mo Yan has
 
  > **this sort of**  
  > I’ll never do this sort of thing.  
- > 我绝对不会干这种事。  （）  
+ > 我绝对不会干这种事。    
 
  > **all sorts of**  
  > Real friendship should be able to stand all sorts of tests.  
@@ -10581,7 +10698,7 @@ D.Mo Yan has
 
  > **What sort of**  
  > What sort of price were you thinking of?  
- > 你想出什么价？  （）  
+ > 你想出什么价？    
 
 
 固定搭配
@@ -10590,10 +10707,10 @@ D.Mo Yan has
 1.**有几分；有点：**  
 
  > — Do you know what I mean?  
- > 你知道我什么意思吗？  （）  
+ > 你知道我什么意思吗？    
 
  > — Sort of.  
- > 知道一点儿。  （）  
+ > 知道一点儿。    
 
 
 # ***\*sort*** vt  重难点词汇
@@ -10607,7 +10724,7 @@ D.Mo Yan has
 
  > **sorted,into**  
  > He sorted the apples into big ones and small ones.  
- > 他把这些苹果分成大小两类。  （）  
+ > 他把这些苹果分成大小两类。    
 
 
 固定搭配
@@ -10616,7 +10733,7 @@ D.Mo Yan has
 1.**(从…中) 挑选出；整理；处理：**  
 
  > We should sort out enemies from friends.  
- > 我们应该分清敌友。  （）  
+ > 我们应该分清敌友。    
 
  > Jane admits that she can’t sort out all the mess in the households.  
  > 简承认她根本处理不好家庭的麻烦事。  （2013 湖北改）  
@@ -10634,7 +10751,7 @@ D.Mo Yan has
 ### 1.*高义频：* **灵魂；心灵；精神：**  
 
  > pray for the souls of the dead  
- > 为逝者的灵魂祈祷  （）  
+ > 为逝者的灵魂祈祷    
 
  > Knowledge is the food of the soul.  
  > 知识是精神食粮。  （——柏拉图）  
@@ -10642,7 +10759,7 @@ D.Mo Yan has
 ### 2.*高义频：* **精髓；中心人物：**  
 
  > the soul of a book  
- > 一本书的精髓  （）  
+ > 一本书的精髓    
 
 ### 3.*低义频：* **人；家伙：**  
 
@@ -10660,11 +10777,11 @@ D.Mo Yan has
 ### 1.*高义频：* **声；声音：**  
 
  > Light travels faster than sound.  
- > 光比声音传播得快。  （）  
+ > 光比声音传播得快。    
 
  > **make a sound**  
  > He slided into the house trying not to make a sound.  
- > 他偷偷地溜进房里，尽量不发出一点儿声音。  （）  
+ > 他偷偷地溜进房里，尽量不发出一点儿声音。    
 
 #### 辨析 noise, sound, voice
   
@@ -10672,15 +10789,15 @@ D.Mo Yan has
 ### 2.*高义频：* **(广播、电视等的) 音响；音量：**  
 
  > He is a sound engineer.  
- > 他是位音响师。  （）  
+ > 他是位音响师。    
 
  > Turn the sound down / up a little, will you?  
- > 把音量调低/高一点儿好吗？  （）  
+ > 把音量调低/高一点儿好吗？    
 
 ### 3.*低义频：* **[常用复数] 音乐：**  
 
  > I need to buy some new sounds.  
- > 我要买些新的音乐了。  （）  
+ > 我要买些新的音乐了。    
 
 
 # ***\*sound*** v  重难点词汇
@@ -10694,15 +10811,15 @@ D.Mo Yan has
 
  > **sound an alarm**  
  > sound an alarm / a horn  
- > 鸣响警报/警笛  （）  
+ > 鸣响警报/警笛    
 
  > The whistle sounded for the match.  
- > 比赛的哨声响了。  （）  
+ > 比赛的哨声响了。    
 
 ### 2.*低义频：* **发...音：**  
 
  > The “s” in the “island” is not sounded.   
- > island中的字母s不发音。  （）  
+ > island中的字母s不发音。    
 
 ### 3.*高义频：* **[用作系动词] 听起来；似乎：**  
 
@@ -10731,6 +10848,7 @@ D.Mo Yan has
 
 答案：
 1. Sound改为Sounds  
+
 # ***\*sound*** adj  重难点词汇
 英音 saʊnd     美音 saʊnd  
 
@@ -10742,28 +10860,28 @@ D.Mo Yan has
 英译 sensible and likely to produce the right results：
 
  > Through the study of philosophy, one develops sound methods of research and analysis.  
- > 通过学习哲学，人们可以培养正确的研究和分析方法。  （）  
+ > 通过学习哲学，人们可以培养正确的研究和分析方法。    
 
  > **environmentally sound**  
  > Most of the products in this furniture store are environmentally sound.  
- > 这个家具店的大多数产品都很环保。  （）  
+ > 这个家具店的大多数产品都很环保。    
 
 ### 2.*低义频：* **健康的；健全的**  
 英译 healthy and strong; in good condition：
 
  > **sound mind**  
  > have a sound mind  
- > 心智健全  （）  
+ > 心智健全    
 
 ### 3.*低义频：* **[只用于名词前] 充分的；彻底的；酣畅的：**  
 
  > **a sound grasp of**  
  > He has a sound grasp of the issue.  
- > 他对这个问题理解得很透彻。  （）  
+ > 他对这个问题理解得很透彻。    
 
  > **sound sleeper**  
  > a sound sleeper(= someone who always sleeps well)  
- > 睡觉沉的人  （）  
+ > 睡觉沉的人    
 
 
 # ***\*sound*** adv  重难点词汇
@@ -10777,7 +10895,7 @@ D.Mo Yan has
 
  > **sound asleep**  
  > The baby was sound asleep.  
- > 婴儿睡得很香。  （）  
+ > 婴儿睡得很香。    
 
 
 # ***\*soundproof*** adj
@@ -10837,7 +10955,7 @@ D.Mo Yan has
  > 湄公河的发源地  （人教① – 3）  
 
  > Every tree has its roots and every river has its source.  
- > 木有本，水有源。  （）  
+ > 木有本，水有源。    
 
 ### 2.*高义频：* **来源：**  
 
@@ -10846,7 +10964,7 @@ D.Mo Yan has
  > 太阳是地球获取能量的主要来源。  （2008 安徽）  
 
  > For me, music is a great source of enjoyment.  
- > 对我来说，音乐是快乐的重要源泉。  （）  
+ > 对我来说，音乐是快乐的重要源泉。    
 
 ### 3.*高义频：* **根源；原因：**  
 
@@ -10857,7 +10975,7 @@ D.Mo Yan has
 ### 4.*高义频：* **[常用复数] 消息来源；原始资料：**  
 
  > List all your sources at the end of your essay.  
- > 在论文末尾列出你所有资料的出处。  （）  
+ > 在论文末尾列出你所有资料的出处。    
 
 
 真题解析
@@ -10870,6 +10988,7 @@ D.root
 
 答案：
 1. A  
+
 # ***\*south*** n
 英音 saʊθ     美音 saʊθ  
 
@@ -10882,7 +11001,7 @@ D.root
 ### 1.*高义频：* **南；南方 (South)：**  
 
  > Guangdong Province is in the south of China.  
- > 广东省位于中国的南部。  （）  
+ > 广东省位于中国的南部。    
 
 
 # ***\*south*** adj
@@ -10909,10 +11028,10 @@ D.root
 ### 1.*高义频：* **向南；向南方：**  
 
  > This window faces south.  
- > 这扇窗户朝南。  （）  
+ > 这扇窗户朝南。    
 
  > The wind blows south.  
- > 刮南风。  （）  
+ > 刮南风。    
 
 
 # ***\*south-west*** n
@@ -10937,7 +11056,7 @@ D.root
 ### 1.*高义频：* **东南；东南部：**  
 
  > Taiwan lies in the southeast of our country.  
- > 台湾位于我国东南部。  （）  
+ > 台湾位于我国东南部。    
 
 
 # ***\*southeast*** adj
@@ -10998,7 +11117,7 @@ southerner /'sʌðənə(r)/ n [C]
 ### 1.*高义频：* **向南方 (的)：**  
 
  > Wild geese fly southwards in autumn.  
- > 秋天大雁往南飞。  （）  
+ > 秋天大雁往南飞。    
 
 
 # ***\*southwards*** adj & adv
@@ -11011,7 +11130,7 @@ southerner /'sʌðənə(r)/ n [C]
 ### 1.*高义频：* **向南方 (的)：**  
 
  > Wild geese fly southwards in autumn.  
- > 秋天大雁往南飞。  （）  
+ > 秋天大雁往南飞。    
 
 
 # ***\*southwest*** n
@@ -11074,10 +11193,10 @@ southerner /'sʌðənə(r)/ n [C]
 ### 1.*高义频：* **播种；传播：**  
 
  > sow vegetable seeds  
- > 播种蔬菜  （）  
+ > 播种蔬菜    
 
  > As a man sows, so he shall reap.  
- > 种瓜得瓜，种豆得豆。  （）  
+ > 种瓜得瓜，种豆得豆。    
 
 
 # ***\*soybean*** n
@@ -11103,11 +11222,11 @@ southerner /'sʌðənə(r)/ n [C]
 
  > **space and time**  
  > space and time  
- > 空间和时间  （）  
+ > 空间和时间    
 
  > **open space**  
  > open space  
- > 空地  （）  
+ > 空地    
 
  > Setting up a space in a common area of your home can be a good idea for children.  
  > 在家里的公共区域给孩子们设一片空间是个不错的主意。  （2009 辽宁）  
@@ -11154,7 +11273,7 @@ Notes: in space表示“在太空中”，space前不用冠词。
 ### 1.*高义频：* **宇宙飞船：**  
 
  > launch a manned / unmanned spaceship  
- > 发射载人/无人宇宙飞船  （）  
+ > 发射载人/无人宇宙飞船    
 
 
 # ***\*spade*** n
@@ -11203,7 +11322,7 @@ Notes: in space表示“在太空中”，space前不用冠词。
 ### 1.*高义频：* **备用品；备件：**  
 
  > I’ve lost my key and I haven’t got a spare.  
- > 我把钥匙弄丢了，而且没有备用的。  （）  
+ > 我把钥匙弄丢了，而且没有备用的。    
 
 
 # ***\*spare*** adj  重难点词汇
@@ -11221,16 +11340,16 @@ Notes: in space表示“在太空中”，space前不用冠词。
 
  > **spare cash**  
  > I’m afraid I haven’t got any spare cash.  
- > 恐怕我手头上没有闲钱。  （）  
+ > 恐怕我手头上没有闲钱。    
 
 ### 2.*高义频：* **备用的；额外的：**  
 英译 kept in case you need to replace the one you usually use (extra)：
 
  > spare parts  
- > 备用件  （）  
+ > 备用件    
 
  > a spare tire  
- > 备用轮胎  （）  
+ > 备用轮胎    
 
 ### 3.*高义频：* **空闲的：**  
 英译 time when you are not working (free)：
@@ -11241,7 +11360,7 @@ Notes: in space表示“在太空中”，space前不用冠词。
 
  > **spare moment**  
  > I haven’t had a spare moment this morning.  
- > 今天上午我一刻也没闲着。  （）  
+ > 今天上午我一刻也没闲着。    
 
 
 # ***\*spare*** vt  重难点词汇
@@ -11255,31 +11374,31 @@ Notes: in space表示“在太空中”，space前不用冠词。
 
  > **I can’t spare,time**  
  > I can’t spare the time.  
- > 我抽不出时间。  （）  
+ > 我抽不出时间。    
 
  > Could you spare one of your staff to help us out?  
- > 你能不能从你的手下中抽一个人来帮帮我们？  （）  
+ > 你能不能从你的手下中抽一个人来帮帮我们？    
 
  > **money to spare**  
  > They still have some money to spare.  
- > 他们还有一些余钱。  （）  
+ > 他们还有一些余钱。    
 
 - spare sth / sb for:
 
  > We can only spare one room for you.  
- > 我们只能给你腾出一个房间。  （）  
+ > 我们只能给你腾出一个房间。    
 
 - spare sb sth:
 
  > He said he could spare me only ten minutes.  
- > 他说他只能抽出十分钟的时间给我。  （）  
+ > 他说他只能抽出十分钟的时间给我。    
 
 ### 2.*低义频：* **不伤害；赦免**  
 英译 to not hurt or damage sb / sth：
 
  > **spare,life**  
  > spare sb’s life  
- > 饶某人一命  （）  
+ > 饶某人一命    
 
 ### 3.*低义频：* **节约；吝惜：**  
 
@@ -11290,7 +11409,7 @@ Notes: in space表示“在太空中”，space前不用冠词。
 1.**不惜工本；全力以赴：**  
 
  > For the sake of the welfare of our offspring, we should spare no effort to protect our mother planet.  
- > 为了造福子孙后代，我们应不遗余力地保护我们的地球母亲。  （）  
+ > 为了造福子孙后代，我们应不遗余力地保护我们的地球母亲。    
 
 
 真题解析
@@ -11299,6 +11418,7 @@ Notes: in space表示“在太空中”，space前不用冠词。
 
 答案：
 1. spare  
+
 # ***\*sparrow*** n
 英音 'spærəʊ     美音 'spæroʊ  
 
@@ -11323,28 +11443,28 @@ Notes: in space表示“在太空中”，space前不用冠词。
 ### 1.*高义频：* **说话；讲 (话)：**  
 
  > speak in English  
- > 用英语说  （）  
+ > 用英语说    
 
  > Please speak more slowly to make your speech understood.  
- > 为了让别人听懂你的演讲，请说得再慢些。  （）  
+ > 为了让别人听懂你的演讲，请说得再慢些。    
 
 ### 2.*高义频：* **谈话；交谈：**  
 
  > **speak to**  
  > I’ll speak to the hospital management about that.  
- > 我会向医院管理人员反映那个情况。  （）  
+ > 我会向医院管理人员反映那个情况。    
 
  > **speak with**  
  > — Can I speak with Tom, please?  
- > 请问，我能和汤姆通话吗？  （）  
+ > 请问，我能和汤姆通话吗？    
 
  > — Speaking.  
- > 我就是，请讲。  （）  
+ > 我就是，请讲。    
 
 ### 3.*高义频：* **演讲；发言：**  
 
  > speak on global warming  
- > 就全球气候变暖进行演讲  （）  
+ > 就全球气候变暖进行演讲    
 
 
 真题解析
@@ -11358,6 +11478,7 @@ D.Are you John?
 
 答案：
 1. C  
+
 # ***\*speak*** vt  重难点词汇
 英音 spiːk     美音 spiːk  
 
@@ -11371,16 +11492,16 @@ D.Are you John?
 
  > **can speak**  
  > He can speak several languages.   
- > 他会讲好几种语言。  （）  
+ > 他会讲好几种语言。    
 
 ### 2.*高义频：* **说 (话)；表达：**  
 
  > speak / tell the truth   
- > 说实话  （）  
+ > 说实话    
 
 Notes: speaking常与某些副词连用，作插入语。  
  > strictly / roughly / generally speaking   
- > 严格/大体/一般说来  （）  
+ > 严格/大体/一般说来    
 
 
 固定搭配
@@ -11392,19 +11513,19 @@ Notes: speaking常与某些副词连用，作插入语。
 1.**赞扬：**  
 
  > World media spoke highly of China’s achievements in reform.   
- > 世界各国媒体高度评价中国改革所取得的成就。  （）  
+ > 世界各国媒体高度评价中国改革所取得的成就。    
 
 ## \*speak of 
 1.**谈到；提及：**  
 
  > He spoke of the French and their “habit of standing in a queue”.   
- > 他谈到了法国人以及他们排队的习惯。  （）  
+ > 他谈到了法国人以及他们排队的习惯。    
 
 ## \*speak out / up 
 1.**清楚响亮地说；大胆地说：**  
 
  > Speak out — we can’t hear you.   
- > 大声说，我们听不见你说话。  （）  
+ > 大声说，我们听不见你说话。    
 
 
 # ***\*speaker*** n
@@ -11443,21 +11564,21 @@ Notes: speaking常与某些副词连用，作插入语。
 ### 1.*高义频：* **[常用于名词前] 特别的；特殊的：**  
 
  > — What’s new in today’s newspaper?  
- > 今天的报纸上有什么新消息？  （）  
+ > 今天的报纸上有什么新消息？    
 
  > **Nothing special**  
  > — Nothing special.  
- > 没什么特别的。  （）  
+ > 没什么特别的。    
 
  > Roses need special care so that they can live through winter.  
- > 玫瑰花需要特别护理才能过冬。  （）  
+ > 玫瑰花需要特别护理才能过冬。    
 
 ### 2.*高义频：* **[只用于名词前] 专门的；特设的**  
 英译 for a particular purpose：
 
  > **A special school**  
  > A special school is for children who have physical or learning problems.  
- > 特殊学校是为有身体缺陷或学习障碍的孩子们设立的。  （）  
+ > 特殊学校是为有身体缺陷或学习障碍的孩子们设立的。    
 
 
 # ***\*special*** n
@@ -11472,7 +11593,7 @@ Notes: speaking常与某些副词连用，作插入语。
 ### 1.*高义频：* **特别的人 / 物；特色菜；特价品：**  
 
  > The restaurant has two new specials today.  
- > 这家餐厅今天有两样新的特色菜。  （）  
+ > 这家餐厅今天有两样新的特色菜。    
 
 
 # ***\*specialise*** vi
@@ -11486,11 +11607,11 @@ Notes: speaking常与某些副词连用，作插入语。
 
  > **specialize in**  
  > He decided to specialize in economics when in college.  
- > 他决定大学期间专攻经济学。  （）  
+ > 他决定大学期间专攻经济学。    
 
  > **specializes in**  
  > That shop specializes in foreign magazines.  
- > 那家商店专营外国杂志。  （）  
+ > 那家商店专营外国杂志。    
 
 
 # ***\*specialist*** n
@@ -11506,7 +11627,7 @@ Notes: speaking常与某些副词连用，作插入语。
 
  > **specialist in**  
  > a specialist in military history  
- > 军事史专家  （）  
+ > 军事史专家    
 
 
 # ***\*specialize*** vi
@@ -11520,11 +11641,11 @@ Notes: speaking常与某些副词连用，作插入语。
 
  > **specialize in**  
  > He decided to specialize in economics when in college.  
- > 他决定大学期间专攻经济学。  （）  
+ > 他决定大学期间专攻经济学。    
 
  > **specializes in**  
  > That shop specializes in foreign magazines.  
- > 那家商店专营外国杂志。  （）  
+ > 那家商店专营外国杂志。    
 
 
 # ***\*specially*** adv
@@ -11563,7 +11684,7 @@ Notes: speaking常与某些副词连用，作插入语。
 英译 detailed and exact (precise)：
 
  > a specific goal / answer  
- > 明确的目标/答案  （）  
+ > 明确的目标/答案    
 
  > In this article, you need to back up general statements with specific examples.  
  > 在这篇文章中，你得用具体的实例来支撑自己的概括性陈述。  （2016 浙江）  
@@ -11572,7 +11693,7 @@ Notes: speaking常与某些副词连用，作插入语。
 
  > **specific to**  
  > It’s a way of living specific to America.  
- > 这是美国特有的生活方式。  （）  
+ > 这是美国特有的生活方式。    
 
  > We discourage you from smoking except in specific areas.  
  > 除特定区域外，我们禁止吸烟。  （外研⑧ – 1）  
@@ -11588,7 +11709,7 @@ Notes: speaking常与某些副词连用，作插入语。
 ### 1.*高义频：* **尤其；具体地：**  
 
  > She wants to visit European cities, specifically Paris and Rome.  
- > 她想去参观欧洲的城市，尤其是巴黎和罗马。  （）  
+ > 她想去参观欧洲的城市，尤其是巴黎和罗马。    
 
 
 # ***\*specify*** v
@@ -11622,19 +11743,19 @@ Notes: speaking常与某些副词连用，作插入语。
 
  > **deliver / give / make a speech**  
  > deliver / give / make a speech  
- > 发表演说  （）  
+ > 发表演说    
 
  > an opening / a closing speech  
- > 开/闭幕词  （）  
+ > 开/闭幕词    
 
 ### 2.*高义频：* **说话；言语：**  
 
  > **freedom of speech**  
  > freedom of speech  
- > 言论自由  （）  
+ > 言论自由    
 
  > Speech is the mirror of action.  
- > 语言是行动的镜子。  （）  
+ > 语言是行动的镜子。    
 
 
 # ***\*speed*** n  重难点词汇
@@ -11650,7 +11771,7 @@ Notes: speaking常与某些副词连用，作插入语。
 
  > **pick up / gather speed**  
  > pick up / gather speed  
- > 加速  （）  
+ > 加速    
 
  > **at top speed**  
  > After driving at top speed, he arrived half an hour early.  
@@ -11658,7 +11779,7 @@ Notes: speaking常与某些副词连用，作插入语。
 
  > **at a speed of**  
  > at a speed of over 400 kilometres per hour  
- > 以每小时400多公里的速度  （）  
+ > 以每小时400多公里的速度    
 
 
 # ***\*speed*** v  重难点词汇
@@ -11673,21 +11794,21 @@ Notes: speaking常与某些副词连用，作插入语。
 ### 1.*低义频：* **迅速前进；超速行驶：**  
 
  > Delighted, I jumped into the car and speeded off.  
- > 我兴奋不已，跳上车快速开走了。  （）  
+ > 我兴奋不已，跳上车快速开走了。    
 
  > **caught,speeding**  
  > The police caught him speeding.  
- > 他超速行驶被警察抓住了。  （）  
+ > 他超速行驶被警察抓住了。    
 
 ### 2.*低义频：* **快速运送：**  
 
  > An ambulance sped her to the hospital.  
- > 一辆救护车迅速把她送往医院。  （）  
+ > 一辆救护车迅速把她送往医院。    
 
 ### 3.*低义频：* **加快；促进：**  
 
  > The best thing you can do to speed your recovery is to rest.  
- > 加快康复的最好的办法就是休息。  （）  
+ > 加快康复的最好的办法就是休息。    
 
 
 固定搭配
@@ -11700,7 +11821,7 @@ Notes: speaking常与某些副词连用，作插入语。
  > 我们都得加快速度以争取及时完成任务！  （北师大⑧ – 22）  
 
  > Modern inventions have speeded up people’s lives amazingly.  
- > 现代发明大大加快了人们的生活节奏。  （）  
+ > 现代发明大大加快了人们的生活节奏。    
 
 
 真题解析
@@ -11709,6 +11830,7 @@ Notes: speaking常与某些副词连用，作插入语。
 
 答案：
 1. up  
+
 # ***\*spell*** v
 英音 spel     美音 spel  
 
@@ -11722,7 +11844,7 @@ Notes: speaking常与某些副词连用，作插入语。
 
  > **How do you spell**  
  > How do you spell your name?  
- > 你的名字是怎么拼写的？  （）  
+ > 你的名字是怎么拼写的？    
 
 
 # ***\*spellbind*** vt
@@ -11763,7 +11885,7 @@ Notes: speaking常与某些副词连用，作插入语。
 - spend ... on (doing) sth:
 
  > I spend about 50 pounds a month just on books.  
- > 我每月仅买书就要花50英镑左右。  （）  
+ > 我每月仅买书就要花50英镑左右。    
 
 - spend … doing sth:
 
@@ -11778,7 +11900,7 @@ Notes: speaking常与某些副词连用，作插入语。
 - spend ... on sth:
 
  > He spends too much time on his study.  
- > 他在学习上花的时间太多了。  （）  
+ > 他在学习上花的时间太多了。    
 
 - spend ... (in) doing sth:
 
@@ -11797,6 +11919,7 @@ Notes: speaking常与某些副词连用，作插入语。
 
 答案：
 1. spent  
+
 # ***\*spice*** n
 英音 spaɪs     美音 spaɪs  
 
@@ -11889,33 +12012,33 @@ Notes: speaking常与某些副词连用，作插入语。
 
  > **team,public spirit**  
  > team / public spirit  
- > 团队精神/热心公益的精神  （）  
+ > 团队精神/热心公益的精神    
 
  > Yoga is very healthy for both body and spirit.  
- > 瑜伽有助于身体和精神的健康。  （）  
+ > 瑜伽有助于身体和精神的健康。    
 
  > Today’s activity has taught us the new meaning of the spirit of Lei Feng.  
- > 今天的活动使我们明白了雷锋精神的新意。  （）  
+ > 今天的活动使我们明白了雷锋精神的新意。    
 
 ### 2.*高义频：* **灵魂 (soul)：**  
 
  > the spirits of the dead  
- > 亡灵  （）  
+ > 亡灵    
 
 ### 3.*高义频：* **[常用复数] 情绪；心情(mood)：**  
 
  > **in low spirits**  
  > be in low spirits  
- > 意志消沉  （）  
+ > 意志消沉    
 
  > **in high spirits**  
  > Setting off very early, we went along an extremely narrow road, all in high spirits(= excited and happy).  
- > 我们很早就出发了，沿着一条极窄的小路行进，个个都兴高采烈的。  （）  
+ > 我们很早就出发了，沿着一条极窄的小路行进，个个都兴高采烈的。    
 
 ### 4.*低义频：* **[与形容词连用] 具有特定品质的人：**  
 
  > I guess I am a really restless spirit.  
- > 我想我真是一个闲不住的人。  （）  
+ > 我想我真是一个闲不住的人。    
 
 
 # ***\*spiritual*** adj
@@ -11929,10 +12052,10 @@ Notes: speaking常与某些副词连用，作插入语。
 
  > **one’s spiritual home**  
  > one’s spiritual home  
- > 某人的精神家园  （）  
+ > 某人的精神家园    
 
  > spiritual life  
- > 精神生活  （）  
+ > 精神生活    
 
 ### 2.*高义频：* **宗教的**  
 
@@ -11953,11 +12076,11 @@ spiritually /'spɪrɪtʃuəli/ adv
 ### 1.*高义频：* **吐 (唾液、痰等)：**  
 
  > No spitting!  
- > 不准随地吐痰!  （）  
+ > 不准随地吐痰!    
 
  > **spit at / on / upon**  
  > spit at / on / upon  
- > 向…吐唾沫(以示藐视或憎恨)  （）  
+ > 向…吐唾沫(以示藐视或憎恨)    
 
 
 # ***\*spite*** n
@@ -12001,18 +12124,18 @@ spiritually /'spɪrɪtʃuəli/ adv
 ### 1.*高义频：* **壮丽的；辉煌的；灿烂的 (magnificent)：**  
 
  > a splendid castle  
- > 金碧辉煌的城堡  （）  
+ > 金碧辉煌的城堡    
 
  > a splendid victory  
- > 辉煌的胜利  （）  
+ > 辉煌的胜利    
 
  > China is a multiethnic country with a long history and a splendid culture.  
- > 中国是一个历史悠久、文化灿烂的多民族国家。  （）  
+ > 中国是一个历史悠久、文化灿烂的多民族国家。    
 
 ### 2.*高义频：* **极好的；绝妙的 (excellent)：**  
 
  > a splendid idea  
- > 绝妙的主意  （）  
+ > 绝妙的主意    
 
 
 # ***\*split*** v
@@ -12027,16 +12150,16 @@ spiritually /'spɪrɪtʃuəli/ adv
 ### 1.*高义频：* **(使) 分裂；(使) 分开：**  
 
  > The branch split under their weight.  
- > 树枝在他们的重压下断裂了。  （）  
+ > 树枝在他们的重压下断裂了。    
 
  > **Split,down the middle**  
  > Split the pineapple down the middle.  
- > 把菠萝从中间切开。  （）  
+ > 把菠萝从中间切开。    
 
 ### 2.*高义频：* **分担；分摊：**  
 
  > We share a house and split all the bills.  
- > 我们合住一所房子，分摊所有费用。  （）  
+ > 我们合住一所房子，分摊所有费用。    
 
 
 # ***\*spoil*** vt
@@ -12053,7 +12176,7 @@ spiritually /'spɪrɪtʃuəli/ adv
 
  > **spoil your appetite**  
  > If you eat sweets just before a meal, you’ll just spoil your appetite.  
- > 用餐之前吃甜食会影响食欲。  （）  
+ > 用餐之前吃甜食会影响食欲。    
 
 #### 辨析 damage, destroy, ruin, spoil
 四者都有“破坏”之意。  
@@ -12061,10 +12184,10 @@ spiritually /'spɪrɪtʃuəli/ adv
 ### 2.*高义频：* **宠坏；溺爱：**  
 
  > a spoiled child  
- > 被宠坏的孩子  （）  
+ > 被宠坏的孩子    
 
  > She’s an only child, but her parents didn’t really spoil her.  
- > 她是个独生女，不过她的父母没有娇惯她。  （）  
+ > 她是个独生女，不过她的父母没有娇惯她。    
 
 
 派生词汇
@@ -12082,7 +12205,7 @@ spoiled/spoilt /spɔɪld/ /spɔɪlt/ adj
 
  > **spoken language**  
  > spoken language and written language  
- > 口语和书面语  （）  
+ > 口语和书面语    
 
 
 # ***\*spokesman*** n
@@ -12119,7 +12242,7 @@ spoiled/spoilt /spɔɪld/ /spɔɪlt/ adj
 ### 1.*高义频：* **赞助；发起：**  
 
  > The exhibition was sponsored by the Society of Culture.  
- > 这个展览会是由文化协会赞助举办的。  （）  
+ > 这个展览会是由文化协会赞助举办的。    
 
 
 真题解析
@@ -12132,6 +12255,7 @@ D.plan
 
 答案：
 1. A  
+
 # ***\*sponsor*** n
 英音 'spɒnsə(r)     美音 'spɑːnsər  
 
@@ -12145,7 +12269,7 @@ D.plan
 
  > **sponsor of**  
  > Our company is a sponsor of the Olympics.  
- > 我们公司是奥运会的赞助商。  （）  
+ > 我们公司是奥运会的赞助商。    
 
 ### 2.*低义频：* **发起者；主办者**  
 
@@ -12176,7 +12300,7 @@ D.plan
 ### 1.*高义频：* **一匙的量：**  
 
  > three spoonfuls of soup  
- > 3匙汤  （）  
+ > 3匙汤    
 
 
 # ***\*sport*** n
@@ -12191,12 +12315,12 @@ D.plan
 ### 1.*高义频：* **运动：**  
 
  > outdoor / indoor sports  
- > 户外/室内运动  （）  
+ > 户外/室内运动    
 
 ### 2.*高义频：* **[常用复数] 运动会：**  
 
  > the school sports  
- > 学校运动会  （）  
+ > 学校运动会    
 
 
 # ***\*sportsman*** n
@@ -12262,19 +12386,19 @@ spotted /'spɒtɪd/ adj
 ### 1.*高义频：* **点；斑点；污点：**  
 
  > ink spots  
- > 墨水渍  （）  
+ > 墨水渍    
 
  > My dog has some brown spots.  
- > 我的狗身上有一些褐色的斑点。  （）  
+ > 我的狗身上有一些褐色的斑点。    
 
 ### 2.*高义频：* **地点；场所：**  
 
  > **beauty spot**  
  > a scenic / beauty spot  
- > 风景胜地  （）  
+ > 风景胜地    
 
  > a historic spot  
- > 名胜古迹  （）  
+ > 名胜古迹    
 
  > The most beautiful spot on the river is the Three Gorges.  
  > 长江最美丽的地方是三峡。  （外研④ – 5）  
@@ -12286,10 +12410,10 @@ spotted /'spɒtɪd/ adj
 1.**当场；在现场：**  
 
  > The bullet struck his head and he was killed on the spot.  
- > 子弹击中了他的头部，他当场死亡。  （）  
+ > 子弹击中了他的头部，他当场死亡。    
 
  > The police were on the spot within a few minutes.  
- > 几分钟内警察就赶到了现场。  （）  
+ > 几分钟内警察就赶到了现场。    
 
 
 # ***\*spotted*** adj
@@ -12357,10 +12481,10 @@ spotted /'spɒtɪd/ adj
 ### 1.*高义频：* **传播；蔓延：**  
 
  > prevent the spread of the disease  
- > 防止疾病的传播  （）  
+ > 防止疾病的传播    
 
  > the spread of education  
- > 教育的普及  （）  
+ > 教育的普及    
 
 ### 2.*低义频：* **[常用单数] (分布) 范围；幅度：**  
 
@@ -12381,13 +12505,13 @@ spotted /'spɒtɪd/ adj
 ### 1.*高义频：* **伸开；打开；铺开：**  
 
  > The bird spread its wings.  
- > 鸟儿展开翅膀。  （）  
+ > 鸟儿展开翅膀。    
 
  > She spread her arms and the child ran towards her.  
- > 她张开双臂，孩子向她跑去。  （）  
+ > 她张开双臂，孩子向她跑去。    
 
  > spread a cloth on a table  
- > 在桌上铺一块布  （）  
+ > 在桌上铺一块布    
 
 ### 2.*高义频：* **传播；(使) 蔓延；(使) 流传：**  
 
@@ -12405,21 +12529,21 @@ spotted /'spɒtɪd/ adj
 ### 3.*高义频：* **覆盖；(使) 分布：**  
 
  > The desert spreads for hundreds of miles.  
- > 沙漠绵延数百英里。  （）  
+ > 沙漠绵延数百英里。    
 
  > **spread,across**  
  > He always spread his energy across many goals, so he got nothing at last.  
- > 他总是把精力分散在许多目标上，最后一无所获。  （）  
+ > 他总是把精力分散在许多目标上，最后一无所获。    
 
 ### 4.*高义频：* **(被) 涂开；(被) 敷开：**  
 
  > **spread,on**  
  > spread butter on pieces of bread  
- > 在面包片上涂黄油  （）  
+ > 在面包片上涂黄油    
 
  > **spread evenly**  
  > If the paint is too thick, it will not spread evenly.  
- > 油漆如果太稠就涂不均匀。  （）  
+ > 油漆如果太稠就涂不均匀。    
 
 
 固定搭配
@@ -12428,10 +12552,10 @@ spotted /'spɒtɪd/ adj
 1.**伸展；摊开；分散：**  
 
  > The general spread out a map to command his army.  
- > 将军铺开地图指挥部队。  （）  
+ > 将军铺开地图指挥部队。    
 
  > The searchers spread out to cover the area faster.  
- > 搜索人员分散开来，以便于更快地搜索该地区。  （）  
+ > 搜索人员分散开来，以便于更快地搜索该地区。    
 
 
 真题解析
@@ -12440,6 +12564,7 @@ spotted /'spɒtɪd/ adj
 
 答案：
 1. spread  
+
 # ***\*spring*** vi
 英音 sprɪŋ     美音 sprɪŋ  
 
@@ -12452,7 +12577,7 @@ spotted /'spɒtɪd/ adj
 ### 1.*高义频：* **跳；跃；涌出；源 (自)：**  
 
  > spring back  
- > 向后跳；弹回  （）  
+ > 向后跳；弹回    
 
  > **spring from**  
  > The reporter believes that good stories spring from good questions.  
@@ -12475,7 +12600,7 @@ spotted /'spɒtɪd/ adj
 
  > **a hot,spring**  
  > a hot / mineral spring  
- > 温/矿泉  （）  
+ > 温/矿泉    
 
 
 # ***\*spy*** v
@@ -12489,11 +12614,11 @@ spotted /'spɒtɪd/ adj
 
  > **spy on / upon sb**  
  > spy on / upon sb   
- > 暗中监视某人  （）  
+ > 暗中监视某人    
 
  > **spy into sth**  
  > spy into sth  
- > 侦查某事  （）  
+ > 侦查某事    
 
 
 # ***\*spy*** n
@@ -12544,7 +12669,7 @@ spotted /'spɒtɪd/ adj
 ### 3.*低义频：* **平方；二次幂：**  
 
  > The square of 7 is 49.  
- > 7的平方是49。  （）  
+ > 7的平方是49。    
 
 
 # ***\*square*** adj
@@ -12557,13 +12682,13 @@ spotted /'spɒtɪd/ adj
 ### 1.*高义频：* **方形的：**  
 
  > a square table  
- > 方桌  （）  
+ > 方桌    
 
 ### 2.*高义频：* **平方的：**  
 
  > **square kilometres**  
  > 5 square kilometres  
- > 5平方公里  （）  
+ > 5平方公里    
 
 
 # ***\*squeeze*** v
@@ -12576,14 +12701,14 @@ spotted /'spɒtɪd/ adj
 ### 1.*高义频：* **挤；握紧；压榨：**  
 
  > squeeze a tube of toothpaste  
- > 挤牙膏  （）  
+ > 挤牙膏    
 
  > squeeze the juice out of an orange  
- > 榨橙汁  （）  
+ > 榨橙汁    
 
  > **squeezed out**  
  > He wetted the cloths, squeezed out the cold water and then placed them over her burnt ankle.  
- > 他把几块布用冷水打湿，拧干，然后敷在她烫伤的脚踝处。  （）  
+ > 他把几块布用冷水打湿，拧干，然后敷在她烫伤的脚踝处。    
 
 
 # ***\*squire*** n
@@ -12632,12 +12757,12 @@ spotted /'spɒtɪd/ adj
 ### 1.*高义频：* **稳定的；牢固的 (steady)：**  
 
  > a stable job  
- > 稳定的工作  （）  
+ > 稳定的工作    
 
 ### 2.*高义频：* **沉稳的；稳重的：**  
 
  > He’s about the most stable person I know.  
- > 我认识的人当中，大概数他最稳重。  （）  
+ > 我认识的人当中，大概数他最稳重。    
 
 
 真题解析
@@ -12646,6 +12771,7 @@ spotted /'spɒtɪd/ adj
 
 答案：
 1. stable  
+
 # ***\*stable*** n
 英音 'steɪbl     美音 'steɪbl  
 
@@ -12682,10 +12808,10 @@ spotted /'spɒtɪd/ adj
 ### 1.*高义频：* **全体人员；全体职员：**  
 
  > the teaching staff of a school  
- > 学校的全体教师  （）  
+ > 学校的全体教师    
 
  > The staff are not very happy about the latest pay increase.  
- > 员工们对最近一次的加薪不是很满意。  （）  
+ > 员工们对最近一次的加薪不是很满意。    
 
 
 # ***\*stage*** n
@@ -12700,18 +12826,18 @@ spotted /'spɒtɪd/ adj
 ### 1.*高义频：* **舞台：**  
 
  > When the superstar appeared on the stage, all the audience stood up to applaud.  
- > 当这位巨星出现在舞台上时，所有的观众都站起来鼓掌。  （）  
+ > 当这位巨星出现在舞台上时，所有的观众都站起来鼓掌。    
 
 ### 2.*高义频：* **[与the连用] 戏剧表演：**  
 
  > For him the stage is just a means of making a living.  
- > 对他来说，戏剧表演只是谋生的手段。  （）  
+ > 对他来说，戏剧表演只是谋生的手段。    
 
 ### 3.*高义频：* **时期；阶段**  
 英译 one part of the progress or development of sth：
 
  > at different stages of development  
- > 在不同的发展时期  （）  
+ > 在不同的发展时期    
 
 
 # ***\*stain*** n
@@ -12727,14 +12853,14 @@ spotted /'spɒtɪd/ adj
 
  > **blood / coffee stain**  
  > a blood / coffee stain  
- > 血渍/咖啡渍  （）  
+ > 血渍/咖啡渍    
 
  > **removing stubborn stains**  
  > White vinegar is great for removing stubborn stains.  
- > 白醋去除顽固污渍的效果很好。  （）  
+ > 白醋去除顽固污渍的效果很好。    
 
  > a stain on sb’s reputation  
- > 某人名誉上的污点  （）  
+ > 某人名誉上的污点    
 
 
 # ***\*stain*** v
@@ -12747,13 +12873,13 @@ spotted /'spɒtɪd/ adj
 ### 1.*高义频：* **(被) 弄污；(被) 玷污：**  
 
  > a T-shirt stained with sweat  
- > 有汗渍的T恤  （）  
+ > 有汗渍的T恤    
 
  > Be careful you don’t stain the carpet.  
- > 当心别把地毯弄脏了。  （）  
+ > 当心别把地毯弄脏了。    
 
  > This tablecloth stains very easily.  
- > 这块桌布很容易脏。  （）  
+ > 这块桌布很容易脏。    
 
 
 # ***\*stainless*** adj
@@ -12767,7 +12893,7 @@ spotted /'spɒtɪd/ adj
 
  > **stainless steel**  
  > stainless steel  
- > 不锈钢  （）  
+ > 不锈钢    
 
 
 # ***\*stair*** n
@@ -12783,11 +12909,11 @@ spotted /'spɒtɪd/ adj
 
  > **up / down stairs**  
  > come up / down stairs  
- > 上/下楼  （）  
+ > 上/下楼    
 
  > **a flight of stairs**  
  > climb a flight of stairs  
- > 爬一段楼梯  （）  
+ > 爬一段楼梯    
 
 
 # ***\*stall*** n
@@ -12825,17 +12951,17 @@ spotted /'spɒtɪd/ adj
  > 请附上一个贴有邮票、写有姓名地址的信封。  （2011 陕西）  
 
  > The woman at the desk stamped my passport.  
- > 柜台旁的那位女士在我的护照上盖了章。  （）  
+ > 柜台旁的那位女士在我的护照上盖了章。    
 
 ### 2.*高义频：* **跺 (脚)；用力踩：**  
 
  > **stamping her feet**  
  > She tried stamping her feet to keep warm at the bus stop.  
- > 她在公共汽车站试着跺脚取暖。  （）  
+ > 她在公共汽车站试着跺脚取暖。    
 
  > **stamped on**  
  > The child stamped on the spider.  
- > 小孩踩了那只蜘蛛一脚。  （）  
+ > 小孩踩了那只蜘蛛一脚。    
 
 
 # ***\*stamp*** n
@@ -12850,7 +12976,7 @@ spotted /'spɒtɪd/ adj
 ### 1.*高义频：* **邮票；印章；戳：**  
 
  > collect stamps  
- > 集邮  （）  
+ > 集邮    
 
 
 # ***\*stampede*** n
@@ -12877,16 +13003,16 @@ spotted /'spɒtɪd/ adj
 ### 1.*高义频：* **架；货摊：**  
 
  > a fish stand  
- > 鱼摊  （）  
+ > 鱼摊    
 
  > a self-checkout stand  
- > 自助付款台  （）  
+ > 自助付款台    
 
 ### 2.*低义频：* **[常用单数] 观点：**  
 
  > **take a,stand on**  
  > take a firm / strong stand on sth  
- > 在某事上采取坚定的立场  （）  
+ > 在某事上采取坚定的立场    
 
 
 # ***\*stand*** vi
@@ -12901,29 +13027,29 @@ spotted /'spɒtɪd/ adj
 ### 1.*高义频：* **站立；起立：**  
 
  > stand in a queue / stand in line  
- > 排队  （）  
+ > 排队    
 
  > stand in the way  
- > 挡道；阻挡  （）  
+ > 挡道；阻挡    
 
 ### 2.*高义频：* **位于 (某处)：**  
 
  > Here once stood an old castle.  
- > 以前这里有座古城堡。  （）  
+ > 以前这里有座古城堡。    
 
  > The city stands on the bank of the Changjiang River  
- > 这座城市位于长江沿岸。  （）  
+ > 这座城市位于长江沿岸。    
 
 ### 3.*低义频：* **[用作系动词] 高度为；[不用于进行时] 达到...数量：**  
 
  > There are two buildings, the larger of which stands nearly a hundred feet high.  
- > 两幢大楼伫立在那里，稍大的那栋高达近百英尺。  （）  
+ > 两幢大楼伫立在那里，稍大的那栋高达近百英尺。    
 
 ### 4.*低义频：* **[用作系动词] 处于 (某种状态)：**  
 
  > **stood empty**  
  > The house stood empty for a long time.  
- > 那所房子空了很长一段时间。  （）  
+ > 那所房子空了很长一段时间。    
 
 
 # ***\*stand*** vt
@@ -12936,7 +13062,7 @@ spotted /'spɒtɪd/ adj
 ### 1.*低义频：* **使直立；使站立：**  
 
  > Stand the ladder against the wall.  
- > 把梯子竖起来靠在墙上。  （）  
+ > 把梯子竖起来靠在墙上。    
 
  > Mom stood me in her usual spot behind the ironing board.  
  > 妈妈让我站在烫衣板后她通常站的位置。  （2014 湖南）  
@@ -12945,21 +13071,21 @@ spotted /'spɒtɪd/ adj
 
  > **can’t stand**  
  > I can’t stand bad manners.  
- > 我不能容忍没有礼貌。  （）  
+ > 我不能容忍没有礼貌。    
 
 - stand (sb / sth) doing:
 
  > She couldn’t stand being kept waiting.  
- > 她受不了让她一直等着。  （）  
+ > 她受不了让她一直等着。    
 
  > I can’t stand people interrupting all the time.  
- > 我不能容忍老有人打岔。  （）  
+ > 我不能容忍老有人打岔。    
 
 ### 3.*高义频：* **承受；经得起：**  
 
  > **stood the test of time**  
  > A classic is a literary work that has stood the test of time.  
- > 经典著作是经得起时间考验的文学作品。  （）  
+ > 经典著作是经得起时间考验的文学作品。    
 
 
 固定搭配
@@ -12968,13 +13094,13 @@ spotted /'spɒtɪd/ adj
 1.**理所当然：**  
 
  > Joe is intelligent and studies hard; it stands to reason that he will pass the examination.  
- > 乔既聪明又用功，他肯定会通过考试。  （）  
+ > 乔既聪明又用功，他肯定会通过考试。    
 
 ## \*stand a chance
 1.**有希望；有可能：**  
 
  > A determined man stands a chance of succeeding as long as he sticks to his dreams.  
- > 一个有决心的人只要坚持梦想就有可能成功。  （）  
+ > 一个有决心的人只要坚持梦想就有可能成功。    
 
 ## \*stand back
 1.**退后；退一步 (考虑问题)**  
@@ -12983,7 +13109,7 @@ spotted /'spɒtɪd/ adj
 1.**袖手旁观：**  
 
  > How can you stand by and let him treat his dog like that?  
- > 他那样虐待他的狗，你怎么能袖手旁观呢？  （）  
+ > 他那样虐待他的狗，你怎么能袖手旁观呢？    
 
 ## \*stand by sth
 1.**信守约定；坚持某事物：**  
@@ -12995,7 +13121,7 @@ spotted /'spɒtɪd/ adj
 1.**[不用于被动语态和进行时] 代表；象征：**  
 
  > Each star on the flag of the United States stands for a state of the nation.  
- > 美国国旗上的每一颗星代表美国的一个州。  （）  
+ > 美国国旗上的每一颗星代表美国的一个州。    
 
 ## \*stand out
 1.**引人注目；突出：**  
@@ -13010,16 +13136,19 @@ spotted /'spɒtɪd/ adj
 1.**维护；替…说话：**  
 
  > Rosa Parks stood up for all Americans by refusing to give her seat to a white man.  
- > 罗莎·帕克斯拒绝给白人让座维护了全体美国人的利益。  （）  
+ > 罗莎·帕克斯拒绝给白人让座维护了全体美国人的利益。    
 
 
 真题解析
 ---
 1. Shakespeare’s writing is still popular today. It has really ________ (经得起) the test of time.  （2014 安徽改）  
+
 2. I can’t stand ________ (work) with Jane in the same office. She just refuses ________ (stop) talking while she works.  （2006 北京改）  
 
 答案：
-1. stood  2. working; to stop  
+1. stood  
+2. working; to stop  
+
 # ***\*stand-by*** adj
 
 
@@ -13060,10 +13189,10 @@ spotted /'spɒtɪd/ adj
 ### 1.*高义频：* **标准的：**  
 
  > standard English  
- > 规范的英语  （）  
+ > 规范的英语    
 
  > the standard size / time / unit  
- > 标准尺寸/时间/单位  （）  
+ > 标准尺寸/时间/单位    
 
 
 # ***\*standard*** n
@@ -13079,11 +13208,11 @@ spotted /'spɒtɪd/ adj
 
  > **set a standard**  
  > fix / set a standard  
- > 制定标准  （）  
+ > 制定标准    
 
  > **the living standards**  
  > the living standards  
- > 生活水平  （）  
+ > 生活水平    
 
  > **Standards of**  
  > Standards of beauty change across time and cultural groups.  
@@ -13130,12 +13259,12 @@ spotted /'spɒtɪd/ adj
 ### 2.*高义频：* **星标；星状物；星级**  
 
  > a five-star hotel  
- > 一家五星级酒店  （）  
+ > 一家五星级酒店    
 
 ### 3.*高义频：* **明星；高手；名家：**  
 
  > a film star  
- > 电影明星  （）  
+ > 电影明星    
 
 
 # ***\*stare*** n
@@ -13151,7 +13280,7 @@ spotted /'spɒtɪd/ adj
 
  > **give,stare**  
  > give sb a rude stare  
- > 无礼地盯着某人  （）  
+ > 无礼地盯着某人    
 
 
 # ***\*stare*** v
@@ -13164,10 +13293,10 @@ spotted /'spɒtɪd/ adj
 ### 1.*高义频：* **盯；凝视：**  
 
  > stare sb up and down  
- > 上下打量某人  （）  
+ > 上下打量某人    
 
  > It’s rude to stare.  
- > 盯着人看是没有礼貌的。  （）  
+ > 盯着人看是没有礼貌的。    
 
  > **stared at**  
  > She stared at the painting, wondering where she had seen it.  
@@ -13210,20 +13339,20 @@ spotted /'spɒtɪd/ adj
 ### 2.*高义频：* **出发；启程(set out)：**  
 
  > start for Beijing  
- > 动身去北京  （）  
+ > 动身去北京    
 
 ### 3.*高义频：* **发动：**  
 
  > He couldn’t start the car.  
- > 他无法发动汽车。  （）  
+ > 他无法发动汽车。    
 
  > The engine won’t start.  
- > 引擎发动不起来。  （）  
+ > 引擎发动不起来。    
 
 ### 4.*高义频：* **创办；开办：**  
 
  > start a newspaper / company  
- > 创办报纸/公司  （）  
+ > 创办报纸/公司    
 
  > I’d like to start my own business.  
  > 我想开办自己的公司。  （2011 陕西）  
@@ -13235,33 +13364,33 @@ spotted /'spɒtɪd/ adj
 1.**开始；着手；动手：**  
 
  > It’s nearly ten o’clock. Let’s get started.  
- > 都快10点了，我们开始吧。  （）  
+ > 都快10点了，我们开始吧。    
 
 ## \*start off / out
 1.**出发；启程；起先：**  
 
  > We’ll have to start out / off early to get there by lunchtime.  
- > 我们得早点出发，以便在午饭前赶到那里。  （）  
+ > 我们得早点出发，以便在午饭前赶到那里。    
 
  > I started off as a conductor but became a bus driver.  
- > 我起初是售票员，但后来成了公共汽车司机。  （）  
+ > 我起初是售票员，但后来成了公共汽车司机。    
 
 ## \*start up
 1.*低义频：* **创立；组建：**  
 
  > start up businesses  
- > 创办企业  （）  
+ > 创办企业    
 
 2.*高义频：* **启动；发动：**  
 
  > The driver got back the car and started up.  
- > 司机回到车上发动了引擎。  （）  
+ > 司机回到车上发动了引擎。    
 
 ## \*to start with
 1.**首先；起初：**  
 
  > I was pretty nervous to start with, but after a while I was fine.  
- > 起初我相当紧张，但过了一会儿就好了。  （）  
+ > 起初我相当紧张，但过了一会儿就好了。    
 
 
 # ***\*start*** n
@@ -13275,7 +13404,7 @@ spotted /'spɒtɪd/ adj
 
  > **early start**  
  > make an early start  
- > 早点动身  （）  
+ > 早点动身    
 
  > **early start**  
  > All the advantage isn’t in running fast, but rather in getting an early start.  
@@ -13285,7 +13414,7 @@ spotted /'spɒtɪd/ adj
 
  > **gave,a start**  
  > You gave me quite a start!  
- > 你吓了我一大跳！  （）  
+ > 你吓了我一大跳！    
 
 
 # ***\*starvation*** n
@@ -13301,7 +13430,7 @@ spotted /'spɒtɪd/ adj
 
  > **die of,from starvation**  
  > die of / from starvation  
- > 饿死  （）  
+ > 饿死    
 
 
 # ***\*starve*** v
@@ -13315,11 +13444,11 @@ spotted /'spɒtɪd/ adj
 
  > **starve to death**  
  > starve to death  
- > 饿死  （）  
+ > 饿死    
 
  > **starving herself**  
  > She’s starving herself trying to lose weight.  
- > 她为了减肥而挨饿。  （）  
+ > 她为了减肥而挨饿。    
 
 
 固定搭配
@@ -13328,7 +13457,7 @@ spotted /'spɒtɪd/ adj
 1.**饿极了：**  
 
  > When’s food? I’m starving!  
- > 饭什么时候好？我快饿死了！  （）  
+ > 饭什么时候好？我快饿死了！    
 
 
 # ***\*starving*** adj
@@ -13369,7 +13498,7 @@ spotted /'spɒtɪd/ adj
 
  > **state of mind**  
  > a confused state of mind   
- > 思绪混乱  （）  
+ > 思绪混乱    
 
  > Antarctica holds 90% of the world’s ice, and most of its fresh water is in a frozen state.  
  > 南极洲拥有世界上90%的冰川，其中大部分的淡水处于结冰状态。  （外研⑧ – 1）  
@@ -13381,7 +13510,7 @@ spotted /'spɒtɪd/ adj
 ### 2.*高义频：* **国家；领土；州：**  
 
  > the southern states of America  
- > 美国南部各州  （）  
+ > 美国南部各州    
 
  > Imagine that you work for the state office of cultural relics.  
  > 假设你在国家文化遗产保护办公室工作。  （人教② – 1）  
@@ -13413,15 +13542,15 @@ spotted /'spɒtɪd/ adj
 
  > **public,an official statement**  
  > a public / written / an official statement  
- > 公开/书面/正式声明  （）  
+ > 公开/书面/正式声明    
 
  > **made / issued a statement**  
  > A government spokesperson made / issued a statement to the press.  
- > 政府发言人向新闻界发表了一份声明。  （）  
+ > 政府发言人向新闻界发表了一份声明。    
 
  > **took a statement**  
  > The detective took a statement from both witnesses.  
- > 警探把两个证人的陈述都记录了下来。  （）  
+ > 警探把两个证人的陈述都记录了下来。    
 
 
 # ***\*statesman*** n
@@ -13460,22 +13589,22 @@ spotted /'spɒtɪd/ adj
 ### 1.*高义频：* **车站：**  
 
  > the station platform  
- > 站台  （）  
+ > 站台    
 
  > **train / railway station**  
  > a train / railway station  
- > 火车站  （）  
+ > 火车站    
 
  > go to the station to see sb off  
- > 到车站为某人送行  （）  
+ > 到车站为某人送行    
 
 ### 2.*高义频：* **站；所；台；局：**  
 
  > a police / fire / TV / gas station  
- > 警察局/消防站/电视台/加油站  （）  
+ > 警察局/消防站/电视台/加油站    
 
  > the International Space Station  
- > 国际空间站  （）  
+ > 国际空间站    
 
 
 # ***\*station*** vt
@@ -13499,12 +13628,12 @@ spotted /'spɒtɪd/ adj
 
  > **Statistics show**  
  > Statistics show that 50% of new businesses fail in their first year.  
- > 统计数据显示，50%的新企业在第一年就倒闭。  （）  
+ > 统计数据显示，50%的新企业在第一年就倒闭。    
 
 ### 2.*低义频：* **统计学：**  
 
  > Statistics is a branch of mathematics.  
- > 统计学是数学的一个分支。  （）  
+ > 统计学是数学的一个分支。    
 
 
 # ***\*statue*** n
@@ -13519,7 +13648,7 @@ spotted /'spɒtɪd/ adj
 ### 1.*高义频：* **塑像；雕像：**  
 
  > the Statue of Liberty  
- > 自由女神像  （）  
+ > 自由女神像    
 
 
 # ***\*statuette*** n
@@ -13545,14 +13674,14 @@ spotted /'spɒtɪd/ adj
 
  > **social status**  
  > social status / status in society  
- > 社会地位  （）  
+ > 社会地位    
 
  > status as a teacher  
- > 教师身份  （）  
+ > 教师身份    
 
  > **the status of**  
  > the status of affairs  
- > 事态；形势  （）  
+ > 事态；形势    
 
 
 # ***\*staunch*** adj
@@ -13578,10 +13707,10 @@ spotted /'spɒtɪd/ adj
 
  > **short stay**  
  > a short stay in hospital   
- > 短期住院  （）  
+ > 短期住院    
 
  > I visited a lot of temples during my stay in Kyoto.   
- > 我在京都逗留期间参观了许多寺庙。  （）  
+ > 我在京都逗留期间参观了许多寺庙。    
 
 
 # ***\*stay*** vi
@@ -13595,11 +13724,11 @@ spotted /'spɒtɪd/ adj
 
  > **stay for dinner**  
  > stay for dinner  
- > 留下来吃饭  （）  
+ > 留下来吃饭    
 
  > **stayed,at,home**  
  > She stayed ( at ) home (= did not go out to work) while the children were young.  
- > 孩子们还小的时候她留在家中(没去上班)。  （）  
+ > 孩子们还小的时候她留在家中(没去上班)。    
 
  > **stayed,for**  
  > I went to Ningxia and stayed there for one year, teaching as a volunteer.  
@@ -13609,19 +13738,19 @@ spotted /'spɒtɪd/ adj
 
  > **stay at / in a hotel**  
  > stay at / in a hotel  
- > 住旅馆  （）  
+ > 住旅馆    
 
  > **stay the night / stay overnight / stay over**  
  > stay the night / stay overnight / stay over  
- > 过夜  （）  
+ > 过夜    
 
 ### 3.*高义频：* **[用作系动词] 保持 (某种状态) (remain)：**  
 
  > We promised to stay friends for ever.  
- > 我们约定永远做朋友。  （）  
+ > 我们约定永远做朋友。    
 
  > We must stay competitive in the competitive society.  
- > 我们必须在这个充满竞争的社会保持竞争力。  （）  
+ > 我们必须在这个充满竞争的社会保持竞争力。    
 
 
 固定搭配
@@ -13639,26 +13768,26 @@ spotted /'spɒtɪd/ adj
 1.**留下来继续 (工作 / 学习)：**  
 
  > I stayed on the job for five months.  
- > 这份工作我继续干了5个月。  （）  
+ > 这份工作我继续干了5个月。    
 
 ## \*stay out
 1.**待在户外；(晚上) 不回家：**  
 
  > **staying out late**  
  > He started staying out late, drinking.  
- > 他开始深夜不归，在外面喝酒。  （）  
+ > 他开始深夜不归，在外面喝酒。    
 
 ## \*stay out of
 1.**避开；远离；不介入：**  
 
  > stay out of trouble  
- > 避免麻烦  （）  
+ > 避免麻烦    
 
 ## \*stay up
 1.**熬夜：**  
 
  > I stayed up all night preparing for my history exam.  
- > 我熬了一整夜准备历史考试。  （）  
+ > 我熬了一整夜准备历史考试。    
 
 
 真题解析
@@ -13671,6 +13800,7 @@ D.stay
 
 答案：
 1. D  
+
 # ***\*steadily*** adv
 英音 'stedɪlɪ     美音 'stedəlɪ  
 
@@ -13692,7 +13822,7 @@ D.stay
 反义词 unsteady： 
 
  > a steady income  
- > 稳定的收入  （）  
+ > 稳定的收入    
 
  > In early January this year, the rate of UFO reports was steady, around three per week.  
  > 今年一月初，有关于UFO的报道持续不断，大约每周3次。  （2011 辽宁）  
@@ -13705,10 +13835,13 @@ steadily /'stedɪlɪ/ adv
 真题解析
 ---
 1. He hopes that his business will grow steady.  （2016全国 改错）  
+
 2. The old engineer’s eyes still shone bright in the wrinkled brown face and his step as he came across the room was ________ (稳稳的), though slow.  （2011 湖北改）  
 
 答案：
-1. steady → steadily  2. steady  
+1. steady → steadily  
+2. steady  
+
 # ***\*steak*** n
 英音 steɪk     美音 steɪk  
 
@@ -13733,7 +13866,7 @@ steadily /'stedɪlɪ/ adv
 ### 1.*高义频：* **偷；窃取：**  
 
  > I’m terribly sad because my new bicycle was stolen yesterday.  
- > 昨天我的新自行车被偷了，我很难过。  （）  
+ > 昨天我的新自行车被偷了，我很难过。    
 
  > **steal from**  
  > The passing years steal from us one thing after another.  
@@ -13743,11 +13876,11 @@ steadily /'stedɪlɪ/ adv
 
  > **steal a glance**  
  > steal a glance at  
- > 偷看一眼  （）  
+ > 偷看一眼    
 
  > **stole out of**  
  > He stole out of the house without anyone seeing him.  
- > 他偷偷溜出了房子，没人发觉。  （）  
+ > 他偷偷溜出了房子，没人发觉。    
 
 
 # ***\*steal*** n
@@ -13784,7 +13917,7 @@ steadily /'stedɪlɪ/ adv
 
  > **steam engine**  
  > the steam engine  
- > 蒸汽机  （）  
+ > 蒸汽机    
 
 
 派生词汇
@@ -13827,10 +13960,10 @@ steamer /'stiːmə(r)/ n [C]
 ### 1.*高义频：* **钢：**  
 
  > steel workers / plants  
- > 炼钢工人/厂  （）  
+ > 炼钢工人/厂    
 
  > iron and steel  
- > 钢铁  （）  
+ > 钢铁    
 
 
 # ***\*steep*** adj
@@ -13844,10 +13977,10 @@ steamer /'stiːmə(r)/ n [C]
 
  > **steep hill**  
  > a steep hill  
- > 陡峭的山  （）  
+ > 陡峭的山    
 
  > the steep rise in prices  
- > 物价飞涨  （）  
+ > 物价飞涨    
 
 
 # ***\*stem*** n
@@ -13872,19 +14005,19 @@ steamer /'stiːmə(r)/ n [C]
 ### 1.*高义频：* **跨步；踏脚：**  
 
  > step back  
- > 后退  （）  
+ > 后退    
 
  > **step aside**  
  > Please step aside to make room for the passengers.  
- > 请靠边站，给乘客让地方。  （）  
+ > 请靠边站，给乘客让地方。    
 
  > **stepped off**  
  > A lady and her husband stepped off the train in Boston.  
- > 一位女士和她的丈夫在波士顿火车站下了车。  （）  
+ > 一位女士和她的丈夫在波士顿火车站下了车。    
 
  > **step out**  
  > Great things happen when you step out of your comfort zone.  
- > 当你踏出自己的自在区，好事就会发生。  （）  
+ > 当你踏出自己的自在区，好事就会发生。    
 
 
 # ***\*step*** n  重难点词汇
@@ -13899,7 +14032,7 @@ steamer /'stiːmə(r)/ n [C]
 ### 1.*高义频：* **脚步；步：**  
 
  > walk with slow steps  
- > 慢步行走  （）  
+ > 慢步行走    
 
  > That’s one small step for a man, one giant leap for mankind.  
  > 对于一个人来说，这只是一小步。但对人类来说，这却是巨大的一步。  （——阿姆斯特朗）  
@@ -13907,22 +14040,22 @@ steamer /'stiːmə(r)/ n [C]
 ### 2.*高义频：* **脚步声；脚印：**  
 
  > I know his steps.  
- > 我听得出他的脚步声。  （）  
+ > 我听得出他的脚步声。    
 
  > I saw his steps in the snow.  
- > 我看见雪地上有他的脚印。  （）  
+ > 我看见雪地上有他的脚印。    
 
 ### 3.*高义频：* **阶梯；台阶：**  
 
  > a flight of 30 steps  
- > 一段30级的台阶  （）  
+ > 一段30级的台阶    
 
 Notes: steps 常指室外的台阶，stairs 常指屋内的楼梯。  
 ### 4.*高义频：* **步骤；措施：**  
 
  > **take a,step**  
  > take a decisive / positive step  
- > 采取果断的/积极的措施  （）  
+ > 采取果断的/积极的措施    
 
  > **first step in**  
  > This is the first step in reforming the welfare system.  
@@ -13935,7 +14068,7 @@ Notes: steps 常指室外的台阶，stairs 常指屋内的楼梯。
 ### 5.*高义频：* **阶段 (stage)；进程；等级 ：**  
 
  > Record your result, and go on to step 3.  
- > 把你的成绩记录下来，接着进入第三级。  （）  
+ > 把你的成绩记录下来，接着进入第三级。    
 
  > **step by step**  
  > You can start exercising slowly, and then increase the amount of exercise step by step.  
@@ -14035,38 +14168,38 @@ Notes: steps 常指室外的台阶，stairs 常指屋内的楼梯。
 
  > **stuck,into**  
  > The nurse stuck the needle into my arm.  
- > 护士把针扎进我的手臂。  （）  
+ > 护士把针扎进我的手臂。    
 
  > **sticking in**  
  > I found a nail sticking in the tyre.  
- > 我发现轮胎上扎了一根钉子。  （）  
+ > 我发现轮胎上扎了一根钉子。    
 
 ### 2.*高义频：* **粘 (住)；贴 (住)：**  
 
  > stick a stamp on an envelope  
- > 在信封上贴邮票  （）  
+ > 在信封上贴邮票    
 
  > **stick to**  
  > This food can stick to your teeth.  
- > 这种食物容易粘牙。  （）  
+ > 这种食物容易粘牙。    
 
 ### 3.*低义频：* **伸出：**  
 
  > Peter stuck his head behind the door.  
- > 彼得从门后探出头来。  （）  
+ > 彼得从门后探出头来。    
 
 ### 4.*高义频：* **[非正式用语] 放置：**  
 
  > Stick your bags down there.  
- > 把你们的包搁在那儿吧。  （）  
+ > 把你们的包搁在那儿吧。    
 
 ### 5.*高义频：* **阻塞；(被) 难住：**  
 
  > The key has stuck in the lock.  
- > 钥匙卡在锁里了。  （）  
+ > 钥匙卡在锁里了。    
 
  > He was stuck by this question.  
- > 他被这个问题难住了。  （）  
+ > 他被这个问题难住了。    
 
 
 固定搭配
@@ -14075,7 +14208,7 @@ Notes: steps 常指室外的台阶，stairs 常指屋内的楼梯。
 1.**卡住；陷入：**  
 
  > They got stuck in a traffic jam.  
- > 他们遇到了交通堵塞。  （）  
+ > 他们遇到了交通堵塞。    
 
 ## \*stick around
 1.**[非正式用语] 不走开；待在原地**  
@@ -14084,19 +14217,19 @@ Notes: steps 常指室外的台阶，stairs 常指屋内的楼梯。
 1.**伸出；突出：**  
 
  > Stick out your tongue, please.  
- > 请把舌头伸出来。  （）  
+ > 请把舌头伸出来。    
 
  > The photo showed Edward with very short hair and his ears sticking out.  
- > 照片上，爱德华头发很短，双耳突出。  （）  
+ > 照片上，爱德华头发很短，双耳突出。    
 
 ## \*stick to
 1.**坚持；遵守：**  
 
  > The surest way to success is sticking to your goal.  
- > 通向成功最可靠的方法是坚持目标。  （）  
+ > 通向成功最可靠的方法是坚持目标。    
 
  > Once he made a promise, he would stick to it (= he did as he had promised).  
- > 他一旦许下诺言，就会坚守这个诺言。  （）  
+ > 他一旦许下诺言，就会坚守这个诺言。    
 
 ## \*stick up
 1.**竖立：**  
@@ -14113,16 +14246,19 @@ Notes: steps 常指室外的台阶，stairs 常指屋内的楼梯。
 2.*低义频：* **留在...的记忆里：**  
 
  > Those words will stick with me for the rest of my life.  
- > 我余生将永远记住这些话。  （）  
+ > 我余生将永远记住这些话。    
 
 
 真题解析
 ---
 1. The cards had been ________ (卡住) through the letterbox.  （2011 全国）  
+
 2. Once a decision has been made, all of us should stick _______ it.  （2004 湖北改）  
 
 答案：
-1. stuck  2. to  
+1. stuck  
+2. to  
+
 # ***\*stick*** n  重难点词汇
 英音 stɪk     美音 stɪk  
 
@@ -14135,12 +14271,12 @@ Notes: steps 常指室外的台阶，stairs 常指屋内的楼梯。
 ### 1.*高义频：* **枝条；树枝：**  
 
  > gather sticks to make a fire  
- > 拾柴生火  （）  
+ > 拾柴生火    
 
 ### 2.*高义频：* **棍；棒；棍 / 条状物：**  
 
  > a walking stick  
- > 手杖  （）  
+ > 手杖    
 
 
 固定搭配
@@ -14199,10 +14335,10 @@ Notes: steps 常指室外的台阶，stairs 常指屋内的楼梯。
 ### 3.*低义频：* **[修饰比较级] 更：**  
 
  > He’s tall, but his brother is still taller.  
- > 他个子高，他哥哥更高。  （）  
+ > 他个子高，他哥哥更高。    
 
  > Work hard to achieve still greater success.  
- > 努力工作以取得更大的成功。  （）  
+ > 努力工作以取得更大的成功。    
 
 
 派生词汇
@@ -14215,6 +14351,7 @@ stillness /'stɪlnəs/ n [U]
 
 答案：
 1. still  
+
 # ***\*still*** adj  重难点词汇
 英音 stɪl     美音 stɪl  
 
@@ -14225,11 +14362,11 @@ stillness /'stɪlnəs/ n [U]
 ### 1.*高义频：* **不动的；寂静的：**  
 
  > a still lake  
- > 平静的湖泊  （）  
+ > 平静的湖泊    
 
  > **Still waters run deep**  
  > Still waters run deep.  
- > 静水流深。  （）  
+ > 静水流深。    
 
  > **stay still**  
  > They told the injured driver to stay still until the emergency personnel arrived.  
@@ -14314,7 +14451,7 @@ stillness /'stɪlnəs/ n [U]
 
  > **stocked with**  
  > Our refrigerator is always stocked with meat and vegetables.  
- > 我们的冰箱里总是备有肉和蔬菜。  （）  
+ > 我们的冰箱里总是备有肉和蔬菜。    
 
 
 # ***\*stock*** n
@@ -14328,10 +14465,10 @@ stillness /'stɪlnəs/ n [U]
 
  > **out of stock / in stock**  
  > out of stock / in stock  
- > 缺货/有货  （）  
+ > 缺货/有货    
 
  > Buy now while stocks last!  
- > 存货有限，欲购从速！  （）  
+ > 存货有限，欲购从速！    
 
 ### 2.*低义频：* **股份**  
 
@@ -14371,11 +14508,11 @@ stillness /'stɪlnəs/ n [U]
 
  > **a full stomach**  
  > It’s unwise to swim on a full stomach.   
- > 刚吃完饭不宜游泳。  （）  
+ > 刚吃完饭不宜游泳。    
 
  > **stomachache**  
  > I have a terrible stomachache.  
- > 我胃/肚子很疼。  （）  
+ > 我胃/肚子很疼。    
 
 
 真题解析
@@ -14384,6 +14521,7 @@ stillness /'stɪlnəs/ n [U]
 
 答案：
 1. stomach  
+
 # ***\*stone*** n
 英音 stəʊn     美音 stoʊn  
 
@@ -14446,7 +14584,7 @@ stony /'stəʊni/ adj
 - stop doing sth:
 
  > No matter how bad the weather is, she never stops running.  
- > 不管天气多么糟糕，她都不会停止跑步。  （）  
+ > 不管天气多么糟糕，她都不会停止跑步。    
 
 - stop sb / sth (from) doing sth:
 
@@ -14454,7 +14592,7 @@ stony /'stəʊni/ adj
  > 没有成为获奖者并没有阻止我的女儿继续努力。  （2016 天津改）  
 
  > The UN will have to work hard to stop history from repeating itself.  
- > 联合国必须要努力使历史不再重演。  （）  
+ > 联合国必须要努力使历史不再重演。    
 
 - stop to do sth:
 
@@ -14484,17 +14622,17 @@ Notes: stop to do 表示停下来去做其他事情；stop doing 表示停止正
 ### 1.*高义频：* **停止；中止：**  
 
  > without a stop  
- > 不停地  （）  
+ > 不停地    
 
 ### 2.*高义频：* **停车站：**  
 
  > Where is the nearest bus stop?  
- > 最近的公共汽车站在哪儿？  （）  
+ > 最近的公共汽车站在哪儿？    
 
 ### 3.*低义频：* **标点 (尤指句号)：**  
 
  > Put a (full) stop at the end of the sentence.  
- > 在句末加上句号。  （）  
+ > 在句末加上句号。    
 
 
 固定搭配
@@ -14503,13 +14641,13 @@ Notes: stop to do 表示停下来去做其他事情；stop doing 表示停止正
 1.**使…停下来：**  
 
  > The accident brought the traffic to a complete stop.  
- > 这起事故使交通完全中断了。  （）  
+ > 这起事故使交通完全中断了。    
 
 ## \*come to a stop
 1.**停止：**  
 
  > He came to such a sudden stop that we almost hit him.  
- > 他突然停了下来，我们差点撞上他。  （）  
+ > 他突然停了下来，我们差点撞上他。    
 
 
 # ***\*stor(e)y*** n
@@ -14524,7 +14662,7 @@ Notes: stop to do 表示停下来去做其他事情；stop doing 表示停止正
 ### 1.*高义频：* **(房屋的) 一层：**  
 
  > a house of two stories / storeys  
- > 一栋二层的楼房  （）  
+ > 一栋二层的楼房    
 
 
 # ***\*storage*** n
@@ -14540,10 +14678,10 @@ Notes: stop to do 表示停下来去做其他事情；stop doing 表示停止正
 
  > **in storage**  
  > put sth in storage  
- > 把某物储存起来  （）  
+ > 把某物储存起来    
 
  > a storage battery  
- > 蓄电池  （）  
+ > 蓄电池    
 
 
 # ***\*store*** vt
@@ -14556,11 +14694,11 @@ Notes: stop to do 表示停下来去做其他事情；stop doing 表示停止正
 ### 1.*高义频：* **贮存；储存：**  
 
  > store data on a disk  
- > 在磁盘上存储数据  （）  
+ > 在磁盘上存储数据    
 
  > **store up**  
  > Ants store up food for the winter.  
- > 蚂蚁贮藏过冬的食物。  （）  
+ > 蚂蚁贮藏过冬的食物。    
 
 
 # ***\*store*** n
@@ -14575,12 +14713,12 @@ Notes: stop to do 表示停下来去做其他事情；stop doing 表示停止正
 ### 1.*高义频：* **商店：**  
 
  > keep a department store   
- > 经营一家百货店  （）  
+ > 经营一家百货店    
 
 ### 2.*低义频：* **贮存；储存品：**  
 
  > have a store of food  
- > 贮藏食物  （）  
+ > 贮藏食物    
 
 ### 3.*低义频：* **仓库：**  
 
@@ -14595,20 +14733,23 @@ Notes: stop to do 表示停下来去做其他事情；stop doing 表示停止正
 
  > **in store for**  
  > Squirrels have enough nuts in store for their winter hibernation.  
- > 松鼠为冬眠准备了充足的坚果。  （）  
+ > 松鼠为冬眠准备了充足的坚果。    
 
  > **in store for**  
  > She wondered what fate had in store for her next.  
- > 她想知道等待她的会是什么样的命运。  （）  
+ > 她想知道等待她的会是什么样的命运。    
 
 
 真题解析
 ---
 1. Check carrots, potatoes, onions and any other vegetables ________ store and immediately use or throw away any which show signs of rotting.  （2014 湖北改）  
+
 2. When she first arrived in China, she wondered what the future might have ________ store for her, but now all her worries are gone.  （2008 湖北改）  
 
 答案：
-1. in   2. in   
+1. in   
+2. in   
+
 # ***\*storm*** n
 英音 stɔːm     美音 stɔːrm  
 
@@ -14621,14 +14762,14 @@ Notes: stop to do 表示停下来去做其他事情；stop doing 表示停止正
 ### 1.*高义频：* **风暴；暴风雨：**  
 
  > The sun returns after every storm.  
- > 阳光总在风雨后。  （）  
+ > 阳光总在风雨后。    
 
  > be caught in a storm  
- > 遇上暴风雨  （）  
+ > 遇上暴风雨    
 
  > **brain storm**  
  > a brain storm  
- > 头脑风暴  （）  
+ > 头脑风暴    
 
 
 派生词汇
@@ -14647,21 +14788,21 @@ stormy /'stɔːmi/ adj
 ### 1.*高义频：* **故事；小说：**  
 
  > stories about / of the outer space  
- > 外太空的故事  （）  
+ > 外太空的故事    
 
  > **tell a story**  
  > tell a story  
- > 讲故事  （）  
+ > 讲故事    
 
 ### 2.*高义频：* **经历；原委：**  
 
  > I know her story.  
- > 我知道她的经历。  （）  
+ > 我知道她的经历。    
 
 ### 3.*高义频：* **新闻报道：**  
 
  > a front-page story  
- > 头版新闻报道  （）  
+ > 头版新闻报道    
 
 
 # ***\*storytelling*** n
@@ -14699,7 +14840,7 @@ stormy /'stɔːmi/ adj
 ### 1.*高义频：* **炉；火炉：**  
 
  > light the cooking stove  
- > 点燃烹饪炉  （）  
+ > 点燃烹饪炉    
 
 
 # ***\*straight*** adv
@@ -14712,7 +14853,7 @@ stormy /'stɔːmi/ adj
 ### 1.*高义频：* **笔直地；成直线地：**  
 
  > The soldiers stood straight.  
- > 士兵们笔直地站着。  （）  
+ > 士兵们笔直地站着。    
 
  > An American shakes your hand firmly while looking you straight in the eye.    
  > 美国人直视着你的眼睛，与你紧紧地握手。  （2012 安徽）  
@@ -14724,12 +14865,12 @@ stormy /'stɔːmi/ adj
 
  > **come / get straight to the point**  
  > I’ll come / get straight to the point.   
- > 我就直说了。  （）  
+ > 我就直说了。    
 
 ### 3.*低义频：* **连续地：**  
 
  > One of her books is the Times best-seller for 381 weeks straight.  
- > 她的一本书连续381周登上《泰晤士报》的畅销书榜。  （）  
+ > 她的一本书连续381周登上《泰晤士报》的畅销书榜。    
 
 
 固定搭配
@@ -14738,7 +14879,7 @@ stormy /'stɔːmi/ adj
 1.**立即；马上：**  
 
  > I phoned my mother straight away.  
- > 我马上给妈妈打了电话。  （）  
+ > 我马上给妈妈打了电话。    
 
 
 # ***\*straight*** adj
@@ -14751,20 +14892,20 @@ stormy /'stɔːmi/ adj
 ### 1.*高义频：* **(笔) 直的；平直的；**  
 
  > a straight road / line  
- > 直路/直线  （）  
+ > 直路/直线    
 
 ### 2.*高义频：* **整齐的；端正的：**  
 
  > I have straight white teeth.  
- > 我的牙齿整齐洁白。  （）  
+ > 我的牙齿整齐洁白。    
 
  > Is my tie straight?  
- > 我的领带正不正？  （）  
+ > 我的领带正不正？    
 
 ### 3.*低义频：* **正直的；诚实的：**  
 
  > He is a straight judge.  
- > 他是位正直的法官。  （）  
+ > 他是位正直的法官。    
 
 ### 4.*低义频：* **纯粹的：**  
 
@@ -14805,13 +14946,13 @@ straighten /'streɪtn/ vt
 ### 1.*高义频：* **坦率的：**  
 
  > a straightforward explanation  
- > 率直的解释  （）  
+ > 率直的解释    
 
 ### 2.*低义频：* **易懂的；简单的 (easy)：**  
 反义词 complicated 
 
  > written in straightforward language  
- > 用浅显易懂的文字写的  （）  
+ > 用浅显易懂的文字写的    
 
 
 # ***\*strain*** n
@@ -14826,7 +14967,7 @@ straighten /'streɪtn/ vt
 ### 1.*高义频：* **(植物的) 品种；种类**  
 
  > different strains of wheat   
- > 不同品种的小麦  （）  
+ > 不同品种的小麦    
 
 
 # ***\*strait*** n
@@ -14841,7 +14982,7 @@ straighten /'streɪtn/ vt
 ### 1.*高义频：* **[常用复数] 海峡：**  
 
  > the Straits of Gibraltar  
- > 直布罗陀海峡  （）  
+ > 直布罗陀海峡    
 
 
 # ***\*strange*** adj
@@ -14855,7 +14996,7 @@ straighten /'streɪtn/ vt
 
  > **It is strange that**  
  > It is strange that she did not come yesterday.  
- > 很奇怪，她昨天没来。  （）  
+ > 很奇怪，她昨天没来。    
 
  > **Isn’t it strange that**  
  > Isn’t it strange that there are so many cultural differences?  
@@ -14865,7 +15006,7 @@ straighten /'streɪtn/ vt
 
  > **strange to**  
  > The handwriting is strange to me.  
- > 我没有见过这笔迹。  （）  
+ > 我没有见过这笔迹。    
 
 
 派生词汇
@@ -14884,11 +15025,11 @@ strangely /'streɪndʒli/ adv
 ### 1.*高义频：* **陌生人；外人：**  
 
  > He makes no stranger of me.  
- > 他不把我当外人。  （）  
+ > 他不把我当外人。    
 
  > **be a stranger to**  
  > be a stranger to music / art  
- > 对音乐/艺术外行  （）  
+ > 对音乐/艺术外行    
 
 
 # ***\*strategy*** n
@@ -14904,10 +15045,10 @@ strangely /'streɪndʒli/ adv
 英译 a plan that you use to achieve sth：
 
  > military / economic strategies  
- > 军事/经济战略  （）  
+ > 军事/经济战略    
 
  > learning strategies  
- > 学习策略  （）  
+ > 学习策略    
 
 
 派生词汇
@@ -14926,7 +15067,7 @@ strategic /strə'tiːdʒɪk/ adj
 ### 1.*高义频：* **稻草；麦秸：**  
 
  > a straw hat  
- > 草帽  （）  
+ > 草帽    
 
 
 固定搭配
@@ -14957,7 +15098,7 @@ strategic /strə'tiːdʒɪk/ adj
 ### 1.*高义频：* **流动：**  
 
  > Tears were streaming down her cheeks.  
- > 泪水顺着她的脸颊流了下来。  （）  
+ > 泪水顺着她的脸颊流了下来。    
 
 
 # ***\*stream*** n
@@ -14974,7 +15115,7 @@ strategic /strə'tiːdʒɪk/ adj
 ### 2.*高义频：* **(液 / 气) 流：**  
 
  > a stream of cold wind  
- > 一股冷风  （）  
+ > 一股冷风    
 
 ### 3.*高义频：* **一连串：**  
 
@@ -14996,14 +15137,14 @@ strategic /strə'tiːdʒɪk/ adj
 
  > **two-way street**  
  > a two-way street  
- > 双行道  （）  
+ > 双行道    
 
  > in / on the street  
- > 在街上  （）  
+ > 在街上    
 
  > **main street**  
  > The house is just across the main street.  
- > 房子就在大街对面。  （）  
+ > 房子就在大街对面。    
 
 #### 辨析 way, road, path, street, avenue
 五者都可作“路”解，但含义有所不同。  
@@ -15035,17 +15176,17 @@ strategic /strə'tiːdʒɪk/ adj
 
  > **inner strength / strength of will**  
  > inner strength / strength of will   
- > 内心力量/意志力  （）  
+ > 内心力量/意志力    
 
  > **have,find the strength to start**  
  > I hope you have / find the strength to start all over again.   
- > 我希望你能有勇气重头再来。  （）  
+ > 我希望你能有勇气重头再来。    
 
 ### 3.*高义频：* **实力**  
 英译 the power and influence that sb has：
 
  > Political power depends upon economic strength.  
- > 政治实力取决于经济实力。  （）  
+ > 政治实力取决于经济实力。    
 
 ### 4.*高义频：* **优点；长处**  
 英译 a good quality or ability that sb / sth has
@@ -15064,17 +15205,20 @@ strategic /strə'tiːdʒɪk/ adj
 1.**不断壮大：**  
 
  > The company has gone from strength to strength since it was established five years ago.   
- > 这家公司自5年前创办以来一直不断壮大。  （）  
+ > 这家公司自5年前创办以来一直不断壮大。    
 
 
 真题解析
 ---
 1. — Why do you choose to work in an international travel agency?
 — Well, you know, English is my _______ (强项). So it is my best choice.  （2012 福建改）  
+
 2. To make members of a team perform better, the trainer first of all has to know their ________ (强项和弱项).  （）  
 
 答案：
-1. strength  2. strengths and weaknesses  
+1. strength  
+2. strengths and weaknesses  
+
 # ***\*strengthen*** v
 英音 'streŋθn     美音 'streŋθn  
 
@@ -15085,10 +15229,10 @@ strategic /strə'tiːdʒɪk/ adj
 ### 1.*高义频：* **加强；巩固**  
 
  > The wind was strengthening.  
- > 风力正在增强。  （）  
+ > 风力正在增强。    
 
  > I believe that this magazine will surely strengthen our ties.  
- > 我相信这本杂志一定会加强我们的联系。  （）  
+ > 我相信这本杂志一定会加强我们的联系。    
 
 
 # ***\*stress*** vt
@@ -15123,11 +15267,11 @@ stressful /'stresfl/ adj
 
  > **relieve stress**  
  > relieve stress  
- > 缓解压力  （）  
+ > 缓解压力    
 
  > **under stress**  
  > under stress  
- > 在压力下  （）  
+ > 在压力下    
 
  > The research suggests that stress may change the way people make choices.  
  > 研究表明压力可能改变人们作选择的方式。  （2012 北京改）  
@@ -15136,12 +15280,12 @@ stressful /'stresfl/ adj
 
  > **lay stress on / upon**  
  > lay stress on / upon  
- > 强调；着重于  （）  
+ > 强调；着重于    
 
 ### 3.*高义频：* **重音：**  
 
  > primary / secondary stress  
- > 主/次重音  （）  
+ > 主/次重音    
 
 
 真题解析
@@ -15153,6 +15297,7 @@ A.stress
 
 答案：
 1. stress / pressure  
+
 # ***\*stressful*** adj
 英音 'stresfl     美音 'stresfl  
 
@@ -15175,14 +15320,14 @@ A.stress
 ### 1.*高义频：* **(被) 拉长；伸；延：**  
 
  > stretch a rope tight  
- > 把绳子拉紧  （）  
+ > 把绳子拉紧    
 
  > stretch oneself  
- > 伸懒腰  （）  
+ > 伸懒腰    
 
  > **stretched across**  
  > The road stretched across the desert into the distance.  
- > 这条道路穿过沙漠伸向远方。  （）  
+ > 这条道路穿过沙漠伸向远方。    
 
 
 # ***\*stretch*** n
@@ -15197,10 +15342,10 @@ A.stress
 ### 1.*高义频：* **伸长；延伸；伸展；连绵：**  
 
  > give a stretch  
- > 伸懒腰  （）  
+ > 伸懒腰    
 
  > a stretch of open country  
- > 一片旷野  （）  
+ > 一片旷野    
 
 
 # ***\*strict*** adj
@@ -15218,12 +15363,12 @@ A.stress
 - (be) strict with sb:
 
  > I think teachers need to be strict with students.  
- > 我认为老师应该对学生严格要求。  （）  
+ > 我认为老师应该对学生严格要求。    
 
 - (be) strict about sth:
 
  > be strict about work / discipline  
- > 对工作/纪律要求严格  （）  
+ > 对工作/纪律要求严格    
 
 
 # ***\*strictly*** adv
@@ -15242,6 +15387,7 @@ A.stress
 
 答案：
 1. strictly  
+
 # ***\*strike*** v  重难点词汇
 英音 straɪk     美音 straɪk  
 
@@ -15254,20 +15400,20 @@ A.stress
 ### 1.*高义频：* **打；撞击：**  
 
  > The ship struck a rock.  
- > 船触礁了。  （）  
+ > 船触礁了。    
 
  > The boy fell, striking his head on the edge of the table.  
- > 男孩摔了一跤，头撞在桌沿上。  （）  
+ > 男孩摔了一跤，头撞在桌沿上。    
 
 ### 2.*低义频：* **(时钟等) 敲响；报 (时)：**  
 
  > The church clock began to strike twelve.  
- > 教堂的钟开始敲响12点。  （）  
+ > 教堂的钟开始敲响12点。    
 
 ### 3.*高义频：* **(不幸等) 突然降临；突然袭击：**  
 
  > Last month, part of Southeast Asia was struck by floods.  
- > 上个月，东南亚部分地区遭受洪灾。  （）  
+ > 上个月，东南亚部分地区遭受洪灾。    
 
  > She was practicing surfing when a shark struck.  
  > 她练习冲浪时，一头鲨鱼突然攻击了她。  （2011 广东改）  
@@ -15279,32 +15425,32 @@ A.stress
 英译 to come suddenly into sb’s mind：
 
  > The solution struck me immediately.  
- > 我一下想到了解决的办法。  （）  
+ > 我一下想到了解决的办法。    
 
 - it strikes sb + that 从句：
 
  > It struck me that we might have made the wrong decision.  
- > 我突然想到我们可能作出了错误的决定。  （）  
+ > 我突然想到我们可能作出了错误的决定。    
 
 ### 5.*高义频：* **给...以某种印象**  
 英译 to give sb a particular impression：
 
  > We were struck by her kindness.  
- > 我们被她的善良所打动。  （）  
+ > 我们被她的善良所打动。    
 
  > What struck me most was the enthusiasm of the local people.  
- > 给我印象最深的是当地人的热情。  （）  
+ > 给我印象最深的是当地人的热情。    
 
 - strike sb as (being) …:
 
  > He strikes me as (being) a very serious person.  
- > 他给我的印象是一个非常严肃的人。  （）  
+ > 他给我的印象是一个非常严肃的人。    
 
 ### 6.*高义频：* **罢工：**  
 
  > **striking for**  
  > The bus drivers were striking for more money.  
- > 公共汽车司机罢工要求增加工资。  （）  
+ > 公共汽车司机罢工要求增加工资。    
 
 
 固定搭配
@@ -15313,7 +15459,7 @@ A.stress
 1.**两者兼顾；达到平衡：**  
 
  > He found it difficult to strike a balance between his family and his work.  
- > 他发现家庭和工作两者很难兼顾。  （）  
+ > 他发现家庭和工作两者很难兼顾。    
 
 ## \*strike a deal
 1.**达成协议**  
@@ -15332,14 +15478,14 @@ A.stress
 
  > **go on strike**  
  > The workers will go on strike if the demands they put forward are turned down.  
- > 如果工人们提出的要求被拒，他们将罢工。  （）  
+ > 如果工人们提出的要求被拒，他们将罢工。    
 
 
 派生词汇
 ---
 stricken /'strɪkən/ adj   
  > earthquake-stricken areas   
- > 地震灾区  （）  
+ > 地震灾区    
 
 striker /'straɪkə(r)/ n [C]  
 striking /'straɪkɪŋ/ adj   
@@ -15426,7 +15572,7 @@ striped /straɪpt/ adj
 ### 1.*高义频：* **击；打：**  
 
  > With one stroke of his ax, he cut the tree down.  
- > 他一斧子就砍倒了这棵树。  （）  
+ > 他一斧子就砍倒了这棵树。    
 
 ### 2.*低义频：* **中风**  
 
@@ -15441,7 +15587,7 @@ striped /straɪpt/ adj
 ### 1.*高义频：* **抚摸：**  
 
  > stroke a cat / one’s beard  
- > 抚摸猫/捋自己的胡须  （）  
+ > 抚摸猫/捋自己的胡须    
 
 
 # ***\*strong*** adj
@@ -15456,28 +15602,28 @@ striped /straɪpt/ adj
 
  > **strong,wind**  
  > a strong man / wind  
- > 强壮的人/强风  （）  
+ > 强壮的人/强风    
 
 ### 2.*高义频：* **坚固的；结实的：**  
 
  > strong furniture  
- > 结实的家具  （）  
+ > 结实的家具    
 
 ### 3.*高义频：* **坚强的；坚定的：**  
 
  > a strong will / belief  
- > 坚强的意志/坚定的信念  （）  
+ > 坚强的意志/坚定的信念    
 
 ### 4.*高义频：* **(国家) 强大的：**  
 
  > a strong nation  
- > 强盛的国家  （）  
+ > 强盛的国家    
 
 ### 5.*高义频：* **强烈的：**  
 
  > **a strong sense of**  
  > a strong sense of responsibility  
- > 强烈的责任感  （）  
+ > 强烈的责任感    
 
  > **strong desire**  
  > She impressed the world with her courage and strong desire to succeed.  
@@ -15487,10 +15633,10 @@ striped /straɪpt/ adj
 
  > **strong point**  
  > a strong point  
- > 长处  （）  
+ > 长处    
 
  > He is strong in mathematics.  
- > 他擅长数学。  （）  
+ > 他擅长数学。    
 
 
 派生词汇
@@ -15527,10 +15673,10 @@ strongly /strɒŋli/ adv
 ### 1.*高义频：* **结构；构造：**  
 
  > grammar structure  
- > 语法结构  （）  
+ > 语法结构    
 
  > the structure of human body  
- > 人体构造  （）  
+ > 人体构造    
 
 ### 2.*高义频：* **建筑物：**  
 
@@ -15553,23 +15699,23 @@ structured /'strʌktʃəd/ adj
 ### 1.*高义频：* **(与某人) 搏斗；斗争；奋力前进；挣扎：**  
 
  > struggle through the snowstorm  
- > 冒着暴风雪前进  （）  
+ > 冒着暴风雪前进    
 
  > struggle to one’s feet  
- > 挣扎着站起来  （）  
+ > 挣扎着站起来    
 
 - struggle with / against:
 
  > He has been struggling with illness for years.  
- > 他已经与病魔斗争了很多年。  （）  
+ > 他已经与病魔斗争了很多年。    
 
 - struggle for / to do sth:
 
  > struggle for freedom / independence / human rights  
- > 为争取自由/独立/人权而斗争  （）  
+ > 为争取自由/独立/人权而斗争    
 
  > Dr Yuan Longping has struggled for the past five decades to help farmers.  
- > 过去50年来，袁隆平博士一直在努力帮助农民。  （）  
+ > 过去50年来，袁隆平博士一直在努力帮助农民。    
 
 
 # ***\*struggle*** n  重难点词汇
@@ -15585,14 +15731,14 @@ structured /'strʌktʃəd/ adj
 
  > **struggle for**  
  > The struggle for freedom was long and hard.  
- > 争取自由的斗争是长期而且艰难的。  （）  
+ > 争取自由的斗争是长期而且艰难的。    
 
  > Never give up without a struggle.  
- > 未经努力不要放弃。  （）  
+ > 未经努力不要放弃。    
 
  > **was a struggle for her**  
  > It was a struggle for her to make him understand.  
- > 让他理解对她来说真是件难事。  （）  
+ > 让他理解对她来说真是件难事。    
 
 
 # ***\*stubborn*** adj
@@ -15613,10 +15759,10 @@ structured /'strʌktʃəd/ adj
 ### 2.*低义频：* **难对付的；棘手的 (tough)：**  
 
  > stubborn stains / illnesses  
- > 顽渍/疾  （）  
+ > 顽渍/疾    
 
  > stubborn problems  
- > 棘手的问题  （）  
+ > 棘手的问题    
 
 
 # ***\*stuck*** adj
@@ -15641,7 +15787,7 @@ structured /'strʌktʃəd/ adj
 ### 1.*高义频：* **学生；学员：**  
 
  > the Students’ Union  
- > 学生会  （）  
+ > 学生会    
 
 
 # ***\*studio*** n
@@ -15656,7 +15802,7 @@ structured /'strʌktʃəd/ adj
 ### 1.*高义频：* **(广播、电视的) 演播室；录音室；录制室：**  
 
  > Romeo and Juliet is being broadcast from our studio.  
- > 我们的演播室正在播放《罗密欧与朱丽叶》。  （）  
+ > 我们的演播室正在播放《罗密欧与朱丽叶》。    
 
  > Musicians record their songs in a studio.  
  > 音乐家在录音棚录制歌曲。  （外研⑦ – 4）  
@@ -15664,7 +15810,7 @@ structured /'strʌktʃəd/ adj
 ### 2.*低义频：* **(画家、雕刻家、摄影师等的) 工作室：**  
 
  > The artist is at his studio, painting.  
- > 画家正在他的画室里作画。  （）  
+ > 画家正在他的画室里作画。    
 
 
 # ***\*study*** v
@@ -15682,7 +15828,7 @@ structured /'strʌktʃəd/ adj
 ### 2.*高义频：* **研究；调查：**  
 
  > Scientists are studying the photographs of Mars for signs of life.  
- > 科学家们正在研究火星照片，看有没有生命的迹象。  （）  
+ > 科学家们正在研究火星照片，看有没有生命的迹象。    
 
 
 # ***\*study*** n
@@ -15695,18 +15841,18 @@ structured /'strʌktʃəd/ adj
 ### 1.*高义频：* **学习；求学：**  
 
  > go abroad for further study  
- > 出国深造  （）  
+ > 出国深造    
 
 ### 2.*高义频：* **[常用复数] 功课；学业：**  
 
  > He has made great progress in his studies.  
- > 他的功课进步很大。  （）  
+ > 他的功课进步很大。    
 
 ### 3.*高义频：* **研究：**  
 
  > **making a study of**  
  > She’s making a study of the country’s foreign trade.  
- > 她正在研究该国的外贸。  （）  
+ > 她正在研究该国的外贸。    
 
 
 # ***\*stuff*** n
@@ -15742,7 +15888,7 @@ structured /'strʌktʃəd/ adj
 
  > **It is stupid of you**  
  > It is stupid of you to believe that.  
- > 你真蠢，居然相信那种事。  （）  
+ > 你真蠢，居然相信那种事。    
 
 
 派生词汇
@@ -15755,6 +15901,7 @@ stupidly /'stjuːpɪdli/ adv
 
 答案：
 1. stupidly  
+
 # ***\*style*** n
 英音 staɪl     美音 staɪl  
 
@@ -15765,51 +15912,51 @@ stupidly /'stjuːpɪdli/ adv
 ### 1.*高义频：* **(文学／艺术／音乐／建筑等的) 风格；文体：**  
 
  > Hemingway’s direct style  
- > 海明威的直白风格  （）  
+ > 海明威的直白风格    
 
  > Different areas have different styles of old Irish songs.  
  > 不同地区有不同风格的古老的爱尔兰歌曲。  （2011 安徽）  
 
  > **traditional style**  
  > The new houses have been built in a traditional style.  
- > 这些新房子是以传统风格建造的。  （）  
+ > 这些新房子是以传统风格建造的。    
 
 ### 2.*高义频：* **方式；作风**  
 英译 the particular way in which sth is done：
 
  > a management style / a style of management  
- > 管理风格  （）  
+ > 管理风格    
 
  > Children have different styles of learning: some learn by seeing, some by hearing, some by doing.  
- > 儿童有不同的学习风格：有的通过观察，有的通过耳闻，有的通过动手。  （）  
+ > 儿童有不同的学习风格：有的通过观察，有的通过耳闻，有的通过动手。    
 
  > **it’s not my style**  
  > I don’t hold big parties — it’s not my style.  
- > 我不举办大型聚会，那不是我的风格。  （）  
+ > 我不举办大型聚会，那不是我的风格。    
 
 ### 3.*高义频：* **款式；流行式样：**  
 
  > The computer is modern in style and convenient to carry, so it is very popular with youngsters.  
- > 这款电脑式样新颖、携带方便，深受年轻人的欢迎。  （）  
+ > 这款电脑式样新颖、携带方便，深受年轻人的欢迎。    
 
  > **in style**  
  > Long skirts are back in style.  
- > 长裙又开始流行了。  （）  
+ > 长裙又开始流行了。    
 
 ### 4.*高义频：* **风度；气派**  
 英译 the ability to do things in a way that other people admire：
 
  > **has style**  
  > You may not like her, but she certainly has style.  
- > 你可能不喜欢她，但是她确实有气质。  （）  
+ > 你可能不喜欢她，但是她确实有气质。    
 
  > **in style**  
  > Let’s rent a big car and go there in style.  
- > 咱们租一辆大一点儿的车很体面地去那里吧。  （）  
+ > 咱们租一辆大一点儿的车很体面地去那里吧。    
 
  > **with style**  
  > The professional basketball team played with style.  
- > 那支职业篮球队打得很有气势。  （）  
+ > 那支职业篮球队打得很有气势。    
 
 
 # ***\*subject*** n
@@ -15822,20 +15969,20 @@ stupidly /'stjuːpɪdli/ adv
 ### 1.*高义频：* **主题：**  
 
  > The subject of the poem is love.  
- > 这首诗的主题是爱。  （）  
+ > 这首诗的主题是爱。    
 
 ### 2.*高义频：* **科目；学科：**  
 
  > academic subjects  
- > 学科  （）  
+ > 学科    
 
  > Biology and English are my favourite subjects.  
- > 生物和英语是我最喜欢的科目。  （）  
+ > 生物和英语是我最喜欢的科目。    
 
 ### 3.*低义频：* **对象：**  
 
  > the subject of an experiment  
- > 实验的对象  （）  
+ > 实验的对象    
 
 ### 4.*低义频：* **[语法] 主语**  
 
@@ -15860,10 +16007,10 @@ stupidly /'stjuːpɪdli/ adv
 反义词 objective 
 
  > a subjective impression   
- > 主观印象  （）  
+ > 主观印象    
 
  > Time can not be lengthened by man’s subjective will, but it can be shortened by his wasting it.  
- > 时间不因人的主观意志而延长，却可以因其浪费而缩短。  （）  
+ > 时间不因人的主观意志而延长，却可以因其浪费而缩短。    
 
 
 # ***\*submarine*** n
@@ -15903,7 +16050,7 @@ stupidly /'stjuːpɪdli/ adv
 ### 2.*低义频：* **[U] 屈服；屈从：**  
 
  > No way can you force her into submission.  
- > 你不可能让她屈服。  （）  
+ > 你不可能让她屈服。    
 
 
 # ***\*submit*** v
@@ -15917,21 +16064,21 @@ stupidly /'stjuːpɪdli/ adv
 
  > **submit an application**  
  > submit an application   
- > 呈递申请书  （）  
+ > 呈递申请书    
 
  > **submit,to**  
  > Please submit your reports to me before the deadline.  
- > 请在截止日期之前将报告交给我。  （）  
+ > 请在截止日期之前将报告交给我。    
 
 ### 2.*低义频：* **(使) 屈服；(使) 服从：**  
 
  > **submitted himself to**  
  > He submitted himself to a search by the guards.  
- > 他只好让士兵搜身。  （）  
+ > 他只好让士兵搜身。    
 
  > **submit to**  
  > Derek has agreed to submit to questioning.  
- > 德里克同意接受询问。  （）  
+ > 德里克同意接受询问。    
 
 
 # ***\*subscribe*** vi
@@ -15945,13 +16092,13 @@ stupidly /'stjuːpɪdli/ adv
 
  > **subscribe to**  
  > subscribe to Time   
- > 订阅《时代》周刊  （）  
+ > 订阅《时代》周刊    
 
 ### 2.*低义频：* **定期交纳 (会费)；定期捐款：**  
 
  > **subscribe to**  
  > subscribe to a charity   
- > 向慈善机构定期捐款  （）  
+ > 向慈善机构定期捐款    
 
 
 固定搭配
@@ -15973,10 +16120,10 @@ stupidly /'stjuːpɪdli/ adv
 ### 1.*高义频：* **[C] 物质；东西; [U] 事实基础；根据：**  
 
  > a chemical / radioactive substance   
- > 化学/放射性物质  （）  
+ > 化学/放射性物质    
 
  > There is some substance in what he says.  
- > 他说的话是有一定根据的。  （）  
+ > 他说的话是有一定根据的。    
 
 
 # ***\*substantial*** adj
@@ -16016,11 +16163,11 @@ stupidly /'stjuːpɪdli/ adv
 
  > **substitute,for**  
  > You can substitute vegetable oil for butter in this recipe.  
- > 在这份食谱中，你可用植物油代替黄油。  （）  
+ > 在这份食谱中，你可用植物油代替黄油。    
 
  > **substituted for**  
  > Bill substituted for Larry, who was off work.  
- > 拉里没有上班，比尔代替了他。  （）  
+ > 拉里没有上班，比尔代替了他。    
 
 
 # ***\*subtitle*** n
@@ -16043,14 +16190,14 @@ stupidly /'stjuːpɪdli/ adv
 ### 1.*高义频：* **难以察觉的；微妙的；精巧的：**  
 
  > subtle differences / changes   
- > 细微的差异/变化  （）  
+ > 细微的差异/变化    
 
  > **subtle flavours / smells**  
  > subtle flavours / smells  
- > 淡淡的味道/气味  （）  
+ > 淡淡的味道/气味    
 
  > a subtle device   
- > 精巧的设计  （）  
+ > 精巧的设计    
 
 
 真题解析
@@ -16063,6 +16210,7 @@ D.subtle
 
 答案：
 1. D  
+
 # ***\*suburb*** n
 英音 'sʌbɜːb     美音 'sʌbɜːrb  
 
@@ -16073,11 +16221,11 @@ D.subtle
 ### 1.*高义频：* **[C] [常用复数] 市郊；郊区：**  
 
  > a London suburb / a suburb of London   
- > 伦敦郊区  （）  
+ > 伦敦郊区    
 
  > **the suburbs**  
  > live in the suburbs   
- > 住在郊区  （）  
+ > 住在郊区    
 
 
 # ***\*suburban*** adj
@@ -16102,15 +16250,15 @@ D.subtle
 ### 2.*低义频：* **地铁 (BrE underground)：**  
 
  > by subway  
- > 乘地铁  （）  
+ > 乘地铁    
 
  > **ride / take the subway**  
  > ride / take the subway   
- > 乘地铁  （）  
+ > 乘地铁    
 
  > **subway train / station**  
  > a subway train / station   
- > 地铁列车/站  （）  
+ > 地铁列车/站    
 
 
 # ***\*succeed*** v  重难点词汇
@@ -16124,7 +16272,7 @@ D.subtle
 英译 to manage to achieve what you want：
 
  > If at first you don’t succeed, try again.  
- > 若首次不成功，那就再试一次。  （）  
+ > 若首次不成功，那就再试一次。    
 
 - succeed in doing sth:
 
@@ -16133,37 +16281,37 @@ D.subtle
 
  > **succeeded in**  
  > I tried to discuss it with her but only succeeded in making her angry.  
- > 我试图跟她商量，却反倒把她惹火了。  （）  
+ > 我试图跟她商量，却反倒把她惹火了。    
 
 ### 2.*高义频：* **(在事业上) 取得成功；功成名就**  
 英译 to do well in your job, especially because you have worked hard at it for a long time：
 
  > **succeeded in**  
  > a woman who succeeded in politics  
- > 在政界很有成就的一位女性  （）  
+ > 在政界很有成就的一位女性    
 
  > **succeed at**  
  > Everyone wants to succeed at work.  
- > 每个人都希望在工作中有所成就。  （）  
+ > 每个人都希望在工作中有所成就。    
 
 ### 3.*低义频：* **接替；替换：**  
 
  > **succeed,as**  
  > He will succeed his father as manager of the shop.  
- > 他将接替父亲担任商店的经理。  （）  
+ > 他将接替父亲担任商店的经理。    
 
  > This car is intended to succeed the popular Fiesta.  
- > 这款汽车是为了取代广受欢迎的福特嘉年华而推出的。  （）  
+ > 这款汽车是为了取代广受欢迎的福特嘉年华而推出的。    
 
 ### 4.*低义频：* **继承 (财产、地位等)：**  
 
  > **succeeded to**  
  > He succeeded to his uncle’s property.   
- > 他继承了伯父的财产。  （）  
+ > 他继承了伯父的财产。    
 
  > **succeeded to**  
  > When the king died, his elder son succeeded to the throne.  
- > 国王死后，他的长子继承了王位。  （）  
+ > 国王死后，他的长子继承了王位。    
 
 
 真题解析
@@ -16172,6 +16320,7 @@ D.subtle
 
 答案：
 1. succeed  
+
 # ***\*success*** n
 英音 sək'ses     美音 sək'ses  
 
@@ -16182,7 +16331,7 @@ D.subtle
 ### 1.*高义频：* **[U] 成功；成就：**  
 
  > achieve / earn / win great success in life  
- > 在人生中取得巨大的成就  （）  
+ > 在人生中取得巨大的成就    
 
  > **without success**  
  > I had suggested his doing it another way, but without success.    
@@ -16195,10 +16344,10 @@ D.subtle
 
  > **a great success**  
  > He is a great success as a writer.   
- > 作为作家他很成功。  （）  
+ > 作为作家他很成功。    
 
  > A true friend is one who overlooks your failures and tolerates your successes.  
- > 真正的朋友从不追究你的过错，也从不妒忌你的成功。  （）  
+ > 真正的朋友从不追究你的过错，也从不妒忌你的成功。    
 
 
 真题解析
@@ -16207,6 +16356,7 @@ D.subtle
 
 答案：
 1. is; takes  
+
 # ***\*successful*** adj
 英音 sək'sesfl     美音 sək'sesfl  
 
@@ -16218,12 +16368,12 @@ D.subtle
 反义词 unsuccessful 
 
  > a successful career / plan  
- > 成功的事业/计划  （）  
+ > 成功的事业/计划    
 
 - (be) successful in (doing) sth:
 
  > He is successful in his career.   
- > 他事业有成。  （）  
+ > 他事业有成。    
 
  > They were very successful in achieving both aims.  
  > 他们成功地实现了两个目标。  （外研② – 4）  
@@ -16243,10 +16393,10 @@ successfully  /sək'sesfəli/ adv
 ### 1.*高义频：* **这样的人 / 事物：**  
 
  > Such were her words.   
- > 这些就是她所说的话。  （）  
+ > 这些就是她所说的话。    
 
  > Such was Einstein, a simple man of great achievements.  
- > 这就是爱因斯坦，一个简朴而又取得伟大成就的人。  （）  
+ > 这就是爱因斯坦，一个简朴而又取得伟大成就的人。    
 
 Notes: 为加强语气，such位于句首时主语和谓语用部分倒装语序。  
 
@@ -16256,17 +16406,17 @@ Notes: 为加强语气，such位于句首时主语和谓语用部分倒装语序
 1.**诸如；例如：**  
 
  > Cartoon characters such as Mickey Mouse and Snoopy are still popular.  
- > 像米老鼠和史努比这样的卡通人物仍然很受欢迎。  （）  
+ > 像米老鼠和史努比这样的卡通人物仍然很受欢迎。    
 
 Notes: such as常用来进行列举，并直接放在列举的名 词之前。for example表示“例如”，用来举例说明某一情况或论点，可放在句首、句中或句末。  
  > She does well in many subjects such as mathematics, physics, and chemistry.  
- > 她许多学科的成绩都很好，比如数学、物理和化学。  （）  
+ > 她许多学科的成绩都很好，比如数学、物理和化学。    
 
  > His spelling is terrible! For example, look at this word.  
- > 他的拼写太糟糕了，例如，就看看这个单词吧。  （）  
+ > 他的拼写太糟糕了，例如，就看看这个单词吧。    
 
  > Mexico, Canada, and China, for example, all have oil reserves.  
- > 例如墨西哥、加拿大和中国，都有石油储备。  （）  
+ > 例如墨西哥、加拿大和中国，都有石油储备。    
 
 
 真题解析
@@ -16279,6 +16429,7 @@ D.So
 
 答案：
 1. A  
+
 # ***\*such*** adj
 英音 sʌtʃ     美音 sʌtʃ  
 
@@ -16289,13 +16440,13 @@ D.So
 ### 1.*高义频：* **[无最高级和比较级] 这样的；那样的；此类的：**  
 
  > Such behaviour is just not acceptable in our school.  
- > 这样的行为在我们学校是绝对不能接受的。  （）  
+ > 这样的行为在我们学校是绝对不能接受的。    
 
 ## \*such..as
 1.
  > **There is no such thing as**  
  > There is no such thing as a free lunch.  
- > 世界上没有免费的午餐。  （）  
+ > 世界上没有免费的午餐。    
 
  > Walt Disney is credited for creating such wonderful things as Donald Duck and Mickey Mouse.  
  > 沃尔特·迪斯尼为人称赞是因为创造了诸如唐老鸭和米老鼠这样的美好事物。  （2014 福建）  
@@ -16303,7 +16454,7 @@ D.So
 ### 2.*高义频：* **[用于强调] 那么的；如此的：**  
 
  > Why are you in such a hurry?   
- > 你为什么这么着急？  （）  
+ > 你为什么这么着急？    
 
 
 固定搭配
@@ -16312,7 +16463,7 @@ D.So
 1.**如此…以至于：**  
 
  > This issue is of such importance that we can’t afford to ignore it.  
- > 这个问题十分重要，我们疏忽不得。  （）  
+ > 这个问题十分重要，我们疏忽不得。    
 
  > They said it was such a beautiful day that they would remember it forever  
  > 他们说那天如此美好，他们永远也不会忘记。  （2009 浙江）  
@@ -16321,17 +16472,17 @@ D.So
 1.**到如此程度以致：**  
 
  > The force of the explosion was such that windows were blown out.  
- > 爆炸的力量如此之大，以致窗户都被震碎了。  （）  
+ > 爆炸的力量如此之大，以致窗户都被震碎了。    
 
  > The pain in my foot wasn’t such as to stop my walking.  
- > 我脚疼，但还不至于不能行走。  （）  
+ > 我脚疼，但还不至于不能行走。    
 
 Notes: 与不定冠词连用时，such要放在不定冠词之前；与no, all, many, one, few, several, some, any等连用时，则放在其后。  
  > such a proposal   
- > 那样的建议  （）  
+ > 那样的建议    
 
  > I made no such decision.   
- > 我没有作过那样的决定。  （）  
+ > 我没有作过那样的决定。    
 
 
 真题解析
@@ -16341,12 +16492,15 @@ A.so a well-known
 B.a so well-known  
 C.such well-known a  
 D.such a well-known  
+
 2. My English teacher’s humor was ________ make every student burst into laughter.  （2008 江西）  
 A.so as to  
 B.such as to  
 C.such that  
 D.so that  
+
 3. His plan was such a good one ________ we all agreed to accept it.   （）  
+
 4. As I know, there is ________ car in this neighborhood.  （）  
 A.no such  
 B.no a  
@@ -16354,7 +16508,11 @@ C.not such
 D.no such a  
 
 答案：
-1. D  2. B  3. that  4. A  
+1. D  
+2. B  
+3. that  
+4. A  
+
 # ***\*such...as*** 
 
 
@@ -16365,7 +16523,7 @@ D.no such a
 ### 1.
  > **There is no such thing as**  
  > There is no such thing as a free lunch.  
- > 世界上没有免费的午餐。  （）  
+ > 世界上没有免费的午餐。    
 
  > Walt Disney is credited for creating such wonderful things as Donald Duck and Mickey Mouse.  
  > 沃尔特·迪斯尼为人称赞是因为创造了诸如唐老鸭和米老鼠这样的美好事物。  （2014 福建）  
@@ -16383,11 +16541,11 @@ D.no such a
 ### 1.*高义频：* **吸；吸食；吸取：**  
 
  > suck the juice from an orange   
- > 吮吸橙子的汁液  （）  
+ > 吮吸橙子的汁液    
 
  > **suck in**  
  > suck in knowledge   
- > 吸取知识  （）  
+ > 吸取知识    
 
 
 # ***\*suck*** n
@@ -16402,7 +16560,7 @@ D.no such a
 ### 1.*高义频：* **吸；吸食；吸取：**  
 
  > He took a suck of juice.   
- > 他吸了一口果汁。  （）  
+ > 他吸了一口果汁。    
 
 
 # ***\*sudden*** adj
@@ -16415,10 +16573,10 @@ D.no such a
 ### 1.*高义频：* **突然的；意外的：**  
 
  > a sudden decision / increase   
- > 突然的决定/增长  （）  
+ > 突然的决定/增长    
 
  > a sudden turn in the road   
- > 路上的急转弯  （）  
+ > 路上的急转弯    
 
 
 固定搭配
@@ -16427,7 +16585,7 @@ D.no such a
 1.**突然；冷不防：**  
 
  > They were watching TV when all of a sudden the power went out.  
- > 他们正在看电视，突然停电了。  （）  
+ > 他们正在看电视，突然停电了。    
 
 
 # ***\*suddenly*** adv
@@ -16440,7 +16598,7 @@ D.no such a
 ### 1.*高义频：* **突然地；意外地：**  
 
  > We were about to leave there when it began to rain heavily and suddenly.   
- > 就在我们要离开时，突然下起了大雨。  （）  
+ > 就在我们要离开时，突然下起了大雨。    
 
 
 真题解析
@@ -16449,6 +16607,7 @@ D.no such a
 
 答案：
 1. suddenly  
+
 # ***\*suffer*** v  重难点词汇
 英音 'sʌfə(r)     美音 'sʌfər  
 
@@ -16461,21 +16620,21 @@ D.no such a
 
  > **suffer pain / defeat / loss**  
  > suffer pain / defeat / loss   
- > 遭受痛苦/失败/损失  （）  
+ > 遭受痛苦/失败/损失    
 
  > suffer a heart attack   
- > 心脏病突发  （）  
+ > 心脏病突发    
 
  > **suffered,damage**  
  > The factory suffered severe damage in the fire.   
- > 那个工厂在火灾中损失惨重。  （）  
+ > 那个工厂在火灾中损失惨重。    
 
 ### 2.*高义频：* **受苦；感到疼痛；患病**  
 英译 to be badly affected by a disease, pain, a lack of sth, etc.：
 
  > **suffer,for**  
  > You will suffer one day for your carelessness.   
- > 你早晚会因为你的粗心而吃苦头。  （）  
+ > 你早晚会因为你的粗心而吃苦头。    
 
  > **suffer from**  
  > Does he suffer from any kind of mental disability?  
@@ -16485,7 +16644,7 @@ D.no such a
 英译 to become worse：
 
  > His school work is suffering because of family problems.   
- > 因为家庭问题他的学业受到了影响。  （）  
+ > 因为家庭问题他的学业受到了影响。    
 
 
 # ***\*suffering*** n
@@ -16498,10 +16657,10 @@ D.no such a
 ### 1.*高义频：* **(身体或精神上) 疼痛；痛苦：**  
 
  > A lack of confidence can lead to a lot of suffering.  
- > 缺乏自信会带来很多痛苦。  （）  
+ > 缺乏自信会带来很多痛苦。    
 
  > He died without much suffering.   
- > 他死的时候没有多少痛苦。  （）  
+ > 他死的时候没有多少痛苦。    
 
 ### 2.*低义频：* **[常用复数] 苦难；折磨：**  
 
@@ -16523,7 +16682,7 @@ D.no such a
 - sufficient to do sth:
 
  > The handful of foreign coins is often not sufficient to buy much from the duty-free shop.   
- > 一把外国硬币在免税店往往不够买太多东西。  （）  
+ > 一把外国硬币在免税店往往不够买太多东西。    
 
 
 # ***\*sugar*** n
@@ -16558,7 +16717,7 @@ D.no such a
 ### 1.*高义频：* **建议；提议；提出：**  
 
  > John suggested a swim and we all agreed.   
- > 约翰提议去游泳，我们都同意了。  （）  
+ > 约翰提议去游泳，我们都同意了。    
 
 - suggest doing sth:
 
@@ -16568,15 +16727,15 @@ D.no such a
 - suggest (that) ... (should) do sth:
 
  > The doctor suggested he go for a holiday.   
- > 医生建议他去休个假。  （）  
+ > 医生建议他去休个假。    
 
  > We all suggested that a lab be built.   
- > 我们都建议建个实验室。  （）  
+ > 我们都建议建个实验室。    
 
 - it is suggested that sb (should) do sth:
 
  > It has been suggested that bright children (should) take their exams early.  
- > 有人提议天资好的孩子应该提前考试。  （）  
+ > 有人提议天资好的孩子应该提前考试。    
 
  > It is suggested that we smile as much as possible.  
  > 有人建议我们尽可能多地微笑。  （2010 湖北书面表达）  
@@ -16587,28 +16746,33 @@ D.no such a
 ### 2.*高义频：* **推荐(recommend)：**  
 
  > Can you suggest a good dictionary?   
- > 你能推荐本好字典吗？  （）  
+ > 你能推荐本好字典吗？    
 
 ### 3.*低义频：* **表明；暗示(indicate)：**  
 
 - suggest +(that) 从句：
 
  > Her expression suggested (that) she was angry.   
- > 她的表情说明她生气了。  （）  
+ > 她的表情说明她生气了。    
 
  > Are you suggesting that I’m not working hard?   
- > 你是在暗示说我工作不努力吗？  （）  
+ > 你是在暗示说我工作不努力吗？    
 
 Notes: 当suggest意为“建议”时，其后的宾语从句用虚拟语气；当suggest意为“表明；暗示”时， 其后的宾语从句则不用虚拟语气。  
 
 真题解析
 ---
 1. Some classmates suggest we can go to places of interest nearby.  （2016 全国 改错）  
+
 2. Bill suggested __________ (hold) a meeting on what to do for the Shanghai Expo during the vacation.  （2009 上海改）  
+
 3. He came to my class every week, but his attitude __________ (表明) he was not really interested in the subject.   （）  
 
 答案：
-1. 删掉can或者can → should  2. holding   3. suggested / indicated  
+1. 删掉can或者can → should  
+2. holding   
+3. suggested / indicated  
+
 # ***\*suggestion*** n  重难点词汇
 英音 sə'dʒestʃən     美音 sə'dʒestʃən  
 
@@ -16620,10 +16784,10 @@ Notes: 当suggest意为“建议”时，其后的宾语从句用虚拟语气；
 
  > **make a,suggestion**  
  > make a useful / timely suggestion  
- > 提出有用的/及时的建议  （）  
+ > 提出有用的/及时的建议    
 
  > He is so stubborn that I failed to persuade him to accept our suggestion.   
- > 他太顽固了，我没能说服他接受我们的建议。  （）  
+ > 他太顽固了，我没能说服他接受我们的建议。    
 
  > I’d like to make some suggestions on English teaching and learning in our school.  
  > 我想就我校的英语教学提出一些建议。  （2010 江苏书面表达）  
@@ -16631,16 +16795,16 @@ Notes: 当suggest意为“建议”时，其后的宾语从句用虚拟语气；
 - the suggestion (is) that … (should) do:
 
  > He made the suggestion that all the political prisoners (should) be set free.   
- > 他提议释放所有的政治犯。  （）  
+ > 他提议释放所有的政治犯。    
 
  > The professor’s suggestion is that students should review in time after learning.   
- > 教授的建议是学生们学完后应该及时复习。  （）  
+ > 教授的建议是学生们学完后应该及时复习。    
 
 ### 2.*低义频：* **[C] & [U] 暗示；迹象：**  
 
  > **a suggestion of**  
  > There was a suggestion of anger in her face.   
- > 她面带怒色。  （）  
+ > 她面带怒色。    
 
 
 真题解析
@@ -16650,6 +16814,7 @@ Notes: 当suggest意为“建议”时，其后的宾语从句用虚拟语气；
 
 答案：
 1. suggestion  
+
 # ***\*suicide*** n
 英音 'suːɪsaɪd     美音 'suːɪsaɪd  
 
@@ -16662,7 +16827,7 @@ Notes: 当suggest意为“建议”时，其后的宾语从句用虚拟语气；
 ### 1.*高义频：* **自杀：**  
 
  > an attempted suicide   
- > 试图自杀  （）  
+ > 试图自杀    
 
 
 # ***\*suit*** n
@@ -16677,7 +16842,7 @@ Notes: 当suggest意为“建议”时，其后的宾语从句用虚拟语气；
 ### 1.*高义频：* **(一套) 衣服：**  
 
  > a business / diving suit   
- > 西服/潜水服  （）  
+ > 西服/潜水服    
 
  > I was stopped by an old man in a blue suit.   
  > 一位身穿蓝色套装的老人拦住了我。  （外研⑤ – 2）  
@@ -16693,10 +16858,10 @@ Notes: 当suggest意为“建议”时，其后的宾语从句用虚拟语气；
 ### 1.*高义频：* **(服装、颜色等) 适合；对 (某人) 方便；中...的意：**  
 
  > I found an evening dress that suited me perfectly.   
- > 我找到一件非常适合我的晚礼服。  （）  
+ > 我找到一件非常适合我的晚礼服。    
 
  > If we meet at 9 a.m., would that suit you?   
- > 我们早上9点见面，你方便吗？  （）  
+ > 我们早上9点见面，你方便吗？    
 
 
 固定搭配
@@ -16705,7 +16870,7 @@ Notes: 当suggest意为“建议”时，其后的宾语从句用虚拟语气；
 1.**使…适合：**  
 
  > A good teacher suits his lesson to the age of his pupils.   
- > 优秀的老师会使他的授课适合学生的年龄特点。  （）  
+ > 优秀的老师会使他的授课适合学生的年龄特点。    
 
 #### 辨析 fit, match, suit
 三者都可用作动词，表“适合”之意。  
@@ -16722,6 +16887,7 @@ suited /'suːtɪd/ adj [不用于名词前，与for / to连用]
 
 答案：
 1. suits  
+
 # ***\*suitable*** adj
 英音 'suːtəbl, 'sjuːtəbl     美音 'suːtəbl  
 
@@ -16733,15 +16899,15 @@ suited /'suːtɪd/ adj [不用于名词前，与for / to连用]
 
  > **suitable to**  
  > I don’t have anything suitable to wear for the party.  
- > 我没有适合在晚会上穿的衣服。  （）  
+ > 我没有适合在晚会上穿的衣服。    
 
  > **suitable for**  
  > This programme is not suitable for children.  
- > 这个节目儿童不宜。  （）  
+ > 这个节目儿童不宜。    
 
  > **are suitable for**  
  > Not all men are suitable for that kind of work.   
- > 不是所有的人都适合从事那类工作。  （）  
+ > 不是所有的人都适合从事那类工作。    
 
 
 # ***\*suitcase*** n
@@ -16768,11 +16934,11 @@ suited /'suːtɪd/ adj [不用于名词前，与for / to连用]
 ### 1.*高义频：* **(一套) 家具；套房；一套物件：**  
 
  > book a suite   
- > 订套房  （）  
+ > 订套房    
 
  > **suite of**  
  > a suite of programs for a computer   
- > 计算机的一组程序  （）  
+ > 计算机的一组程序    
 
 
 # ***\*sum*** n
@@ -16787,23 +16953,23 @@ suited /'suːtɪd/ adj [不用于名词前，与for / to连用]
 ### 1.*低义频：* **算术：**  
 
  > do a sum in one’s head   
- > 心算  （）  
+ > 心算    
 
 ### 2.*高义频：* **[常用单数] 总数；总和；全部：**  
 
  > **The sum of**  
  > The sum of two and two is four.   
- > 2加2的总和是4。  （）  
+ > 2加2的总和是4。    
 
  > **the sum of**  
  > That is the sum of our experience.   
- > 那就是我们全部的经验。  （）  
+ > 那就是我们全部的经验。    
 
 ### 3.*高义频：* **金额：**  
 
  > **a,sum of**  
  > a large sum of money   
- > 一大笔钱  （）  
+ > 一大笔钱    
 
 
 # ***\*sum*** v
@@ -16819,11 +16985,11 @@ suited /'suːtɪd/ adj [不用于名词前，与for / to连用]
 1.**总结；概括：**  
 
  > His speech summed up the present situation of economy.   
- > 他的演讲概述了目前的经济形势。  （）  
+ > 他的演讲概述了目前的经济形势。    
 
  > **To sum up**  
  > To sum up, for a healthy heart you must take regular exercise and stop smoking.   
- > 总之，要想心脏健康，你必须经常运动并戒烟。  （）  
+ > 总之，要想心脏健康，你必须经常运动并戒烟。    
 
 
 # ***\*summary*** adj
@@ -16836,7 +17002,7 @@ suited /'suːtɪd/ adj [不用于名词前，与for / to连用]
 ### 1.*高义频：* **概括的；扼要的：**  
 
  > a summary account / explanation   
- > 概括性的描述/扼要的解释  （）  
+ > 概括性的描述/扼要的解释    
 
 
 # ***\*summary*** n
@@ -16852,18 +17018,18 @@ suited /'suːtɪd/ adj [不用于名词前，与for / to连用]
 
  > **in summary**  
  > in summary   
- > 总的来说  （）  
+ > 总的来说    
 
  > **summary of**  
  > Can you give me a quick summary of your research?  
- > 你能给我简要概括一下你的研究工作吗？  （）  
+ > 你能给我简要概括一下你的研究工作吗？    
 
 
 派生词汇
 ---
 summarise / summarize /'sʌməraɪz/ v vi & vt  
  > To summarise, this is a clever approach to a common problem.   
- > 总而言之，这是一个解决常见问题的巧妙方法。  （）  
+ > 总而言之，这是一个解决常见问题的巧妙方法。    
 
 
 # ***\*summer*** n
@@ -16889,21 +17055,21 @@ summarise / summarize /'sʌməraɪz/ v vi & vt
 
  > **The sun rises / sets**  
  > The sun rises / sets.   
- > 太阳升起/落下。  （）  
+ > 太阳升起/落下。    
 
  > **everything under the sun**  
  > We talked about everything under the sun.   
- > 天南地北我们无所不谈。  （）  
+ > 天南地北我们无所不谈。    
 
 Notes: sun与某一特定形容词连用时，用不定冠词。   
  > a burning sun   
- > 炎热的太阳  （）  
+ > 炎热的太阳    
 
 ### 2.*高义频：* **[U] 阳光：**  
 
  > **in the sun**  
  > in the sun   
- > 在阳光下  （）  
+ > 在阳光下    
 
 
 # ***\*sunburnt*** adj
@@ -16916,7 +17082,7 @@ Notes: sun与某一特定形容词连用时，用不定冠词。
 ### 1.*高义频：* **晒黑的；晒伤的(sunburned)：**  
 
  > sunburnt shoulders   
- > 晒伤的肩膀  （）  
+ > 晒伤的肩膀    
 
 
 # ***\*suncream*** n
@@ -16951,7 +17117,7 @@ Notes: sun与某一特定形容词连用时，用不定冠词。
 ### 1.*高义频：* **太阳镜；墨镜：**  
 
  > wear a pair of sunglasses   
- > 戴着墨镜  （）  
+ > 戴着墨镜    
 
 
 # ***\*sunlight*** n
@@ -16966,10 +17132,10 @@ Notes: sun与某一特定形容词连用时，用不定冠词。
 ### 1.*高义频：* **阳光；日光：**  
 
  > in the sunlight   
- > 在阳光下  （）  
+ > 在阳光下    
 
  > Outdoor sunlight is good for health.   
- > 户外的阳光对健康有益。  （）  
+ > 户外的阳光对健康有益。    
 
 
 # ***\*sunny*** adj
@@ -16995,7 +17161,7 @@ Notes: sun与某一特定形容词连用时，用不定冠词。
 
  > **at sunrise**  
  > The daisy opens at sunrise and closes at sunset.   
- > 雏菊日出时开放，日落时闭合。  （）  
+ > 雏菊日出时开放，日落时闭合。    
 
 
 # ***\*sunset*** n
@@ -17022,11 +17188,11 @@ Notes: sun与某一特定形容词连用时，用不定冠词。
 ### 1.*高义频：* **阳光；晴天；欢乐：**  
 
  > After rain comes sunshine.   
- > 雨过天晴。/苦尽甘来。  （）  
+ > 雨过天晴。/苦尽甘来。    
 
  > **ray of sunshine**  
  > Her smile brought a ray of sunshine into the room.  
- > 她的微笑给这个房间带来了一丝欢乐。  （）  
+ > 她的微笑给这个房间带来了一丝欢乐。    
 
 
 # ***\*super*** adj
@@ -17039,7 +17205,7 @@ Notes: sun与某一特定形容词连用时，用不定冠词。
 ### 1.*高义频：* **极好的；超级的：**  
 
  > a super day / book   
- > 极好的一天/一本书  （）  
+ > 极好的一天/一本书    
 
 
 # ***\*superb*** adj
@@ -17052,10 +17218,10 @@ Notes: sun与某一特定形容词连用时，用不定冠词。
 ### 1.*高义频：* **极好的；壮丽的：**  
 
  > a superb palace   
- > 壮丽的宫殿  （）  
+ > 壮丽的宫殿    
 
  > He commented that her acting was superb.   
- > 他评论说她的演技精湛。  （）  
+ > 他评论说她的演技精湛。    
 
 
 # ***\*superhero*** n
@@ -17078,16 +17244,16 @@ Notes: sun与某一特定形容词连用时，用不定冠词。
 ### 1.*低义频：* **更好的；优越的；有优越感的：**  
 
  > with a superior air   
- > 态度傲慢地  （）  
+ > 态度傲慢地    
 
  > **superior to**  
  > Your computer is far superior to mine.   
- > 你的电脑比我的强多了。  （）  
+ > 你的电脑比我的强多了。    
 
 ### 2.*高义频：* **(在数量等方面) 较大的；较多的：**  
 
  > be superior in numbers   
- > 在数量上占优势  （）  
+ > 在数量上占优势    
 
 ### 3.*高义频：* **(职位、地位等) 较高的**  
 
@@ -17136,7 +17302,7 @@ Notes: sun与某一特定形容词连用时，用不定冠词。
 ### 1.*高义频：* **晚餐：**  
 
  > After dinner sit a while; after supper walk a mile.   
- > 午饭后坐片刻，晚饭后走一里。  （）  
+ > 午饭后坐片刻，晚饭后走一里。    
 
 
 # ***\*supplement*** n
@@ -17162,27 +17328,27 @@ Notes: sun与某一特定形容词连用时，用不定冠词。
 
  > **plentiful supply of**  
  > There was a plentiful supply of cheap labour.   
- > 有大量的廉价劳动力。  （）  
+ > 有大量的廉价劳动力。    
 
  > **short supply**  
  > Water is in short supply.  
- > 水资源短缺。  （）  
+ > 水资源短缺。    
 
 ### 2.*高义频：* **[复数] 生活必需品；补给品：**  
 
  > **school / medical / relief supplies**  
  > school / medical / relief supplies   
- > 学校用品/医疗用品/救援物资  （）  
+ > 学校用品/医疗用品/救援物资    
 
 ### 3.*高义频：* **[U] 供应；供给：**  
 
  > **supply and demand**  
  > supply and demand   
- > 供应与需求  （）  
+ > 供应与需求    
 
  > **electricity supply**  
  > cut off the electricity supply   
- > 切断电力供应  （）  
+ > 切断电力供应    
 
 
 真题解析
@@ -17191,6 +17357,7 @@ Notes: sun与某一特定形容词连用时，用不定冠词。
 
 答案：
 1. supply   
+
 # ***\*supply*** vt  重难点词汇
 英音 sə'plaɪ     美音 sə'plaɪ  
 
@@ -17203,7 +17370,7 @@ Notes: sun与某一特定形容词连用时，用不定冠词。
 - supply sth to sb / supply sb with sth:
 
  > The media supplies lots of information to us every day.   
- > 媒体每天给我们提供很多信息。  （）  
+ > 媒体每天给我们提供很多信息。    
 
 #### 辨析 provide, offer, supply
 三者都有“供给、提供”的意思，但用法不同。  
@@ -17219,7 +17386,7 @@ Notes: sun与某一特定形容词连用时，用不定冠词。
 ### 1.*高义频：* **支撑；承受：**  
 
  > Is this bridge strong enough to support heavy lorries?   
- > 这座桥禁得住重型卡车吗?  （）  
+ > 这座桥禁得住重型卡车吗?    
 
 ### 2.*高义频：* **支持：**  
 
@@ -17230,15 +17397,15 @@ Notes: sun与某一特定形容词连用时，用不定冠词。
 - support sb in (doing) sth:
 
  > They supported us in the struggle for an increase in pay.   
- > 他们支持我们争取加薪。  （）  
+ > 他们支持我们争取加薪。    
 
 ### 3.*高义频：* **为...提供资金；供养：**  
 
  > The research was financially supported by the government.   
- > 这项研究得到了政府的资助。  （）  
+ > 这项研究得到了政府的资助。    
 
  > I had to work to support my family.   
- > 我必须工作来养家。  （）  
+ > 我必须工作来养家。    
 
 ### 4.*高义频：* **为...提供证据；证实：**  
 
@@ -17262,15 +17429,15 @@ supporter /sə'pɔːtə(r)/ n
 ### 1.*高义频：* **支撑物；支持：**  
 
  > These wooden supports help to hold up the building.  
- > 这些木制支架有助于稳固建筑。  （）  
+ > 这些木制支架有助于稳固建筑。    
 
  > I depend on my friends for emotional support.   
- > 我依赖朋友给我情感支持。  （）  
+ > 我依赖朋友给我情感支持。    
 
 ### 2.*高义频：* **资助；赡养：**  
 
  > Her job is the family’s only means of support.   
- > 她家全靠她的工作来维持生计。  （）  
+ > 她家全靠她的工作来维持生计。    
 
 
 固定搭配
@@ -17279,7 +17446,7 @@ supporter /sə'pɔːtə(r)/ n
 1.**支持；证明：**  
 
  > He made some experiments in support of his own idea.   
- > 他做了一些实验来证明自己的观点。  （）  
+ > 他做了一些实验来证明自己的观点。    
 
 
 # ***\*supporting*** adj
@@ -17305,42 +17472,42 @@ supporter /sə'pɔːtə(r)/ n
 - suppose (that) …:
 
  > I suppose (that) price will go up.   
- > 我认为价格会上涨。  （）  
+ > 我认为价格会上涨。    
 
  > — Will it rain tomorrow?   
- > 明天会下雨吗？  （）  
+ > 明天会下雨吗？    
 
  > — I suppose so. / I suppose not.   
- > 我想会/我想不会。  （）  
+ > 我想会/我想不会。    
 
 Notes: 常用so或not来代替that从句进行回答。  
 - I don’t suppose (that) …:
 
  > I don’t suppose anyone will volunteer, will they?   
- > 我觉得没有人会自告奋勇，是不是？  （）  
+ > 我觉得没有人会自告奋勇，是不是？    
 
 Notes: suppose后的that从句的否定形式通常转移到 suppose上。主句主语是I时，反意疑问句仍然跟从句相关，且用肯定形式。  
 - When / Why / What / … do you suppose …?
 
  > When do you suppose we should leave?   
- > 你认为我们应该什么时候动身？  （）  
+ > 你认为我们应该什么时候动身？    
 
 Notes: 上例中，when should we leave用陈述句式。  
 - suppose ... to be / to do sth:
 
  > I shall suppose him to be about fifty.   
- > 我想他应该在50岁左右。  （）  
+ > 我想他应该在50岁左右。    
 
  > We suppose them to have finished their homework.  
- > 我们想他们已经完成作业了。  （）  
+ > 我们想他们已经完成作业了。    
 
 - suppose ... + adj / n:
 
  > She had supposed him (to be) very rich.   
- > 她原以为他很有钱。  （）  
+ > 她原以为他很有钱。    
 
  > I had supposed his wife a younger woman.   
- > 我原以为他的妻子更年轻。  （）  
+ > 我原以为他的妻子更年轻。    
 
 ### 2.*高义频：* **假定；假设**  
 英译 to pretend that sth will happen or is true：
@@ -17348,29 +17515,29 @@ Notes: 上例中，when should we leave用陈述句式。
 - suppose (that) …:
 
  > Suppose (that) you have one million dollars — what would you do?   
- > 假如你有一百万美金，你会做什么？  （）  
+ > 假如你有一百万美金，你会做什么？    
 
 - suppose ... to be / to do sth:
 
  > Let’s suppose the old woman to be your mother.   
- > 我们假定那位老妇人是你的母亲。  （）  
+ > 我们假定那位老妇人是你的母亲。    
 
 - suppose ... + adj / n:
 
  > Suppose the hero dead — what then？  
- > 假设男主角死了，那怎么办？  （）  
+ > 假设男主角死了，那怎么办？    
 
 ### 3.*高义频：* **[表示婉转提建议或勉强同意]：**  
 
  > Suppose we go for a swim.   
- > 咱们去游泳吧。  （）  
+ > 咱们去游泳吧。    
 
  > — Can I borrow the car?   
- > 我能借车一用吗？  （）  
+ > 我能借车一用吗？    
 
  > **I suppose so**  
  > — Oh, I suppose so.   
- > 噢，可以吧。  （）  
+ > 噢，可以吧。    
 
 
 固定搭配
@@ -17379,7 +17546,7 @@ Notes: 上例中，when should we leave用陈述句式。
 1.*高义频：* **被认为；被当作：**  
 
  > I haven’t seen it myself, but it is supposed to be a great movie.   
- > 我没看过这部电影，但是据说很不错。  （）  
+ > 我没看过这部电影，但是据说很不错。    
 
 2.*高义频：* **应该；理应：**  
 
@@ -17387,18 +17554,23 @@ Notes: 上例中，when should we leave用陈述句式。
  > 大学期间应是培养独立性的重要时期。  （2016 北京改）  
 
  > You’re not supposed to smoke here.   
- > 这里不可以吸烟。  （）  
+ > 这里不可以吸烟。    
 
 
 真题解析
 ---
 1. What are you doing out of bed, Tom? You’re s_________ to be asleep.   （2011 辽宁改）  
+
 2. The message is very important, so it is supposed __________ (send) as soon as possible.  （2008 陕西改）  
+
 3. — You should apologize to her, Barry.
 — I suppose _________, but it’s not going to be easy.   （）  
 
 答案：
-1. supposed  2. to be sent   3. so  
+1. supposed  
+2. to be sent   
+3. so  
+
 # ***\*supposing*** conj
 英音 sə'pəʊzɪŋ     美音 sə'poʊzɪŋ  
 
@@ -17409,7 +17581,7 @@ Notes: 上例中，when should we leave用陈述句式。
 ### 1.*高义频：* **假如；如果**  
 
  > Supposing (that) it rains, can we play the match indoors?   
- > 要是下雨的话,我们可以在室内比赛吗?  （）  
+ > 要是下雨的话,我们可以在室内比赛吗?    
 
 
 # ***\*supreme*** adj
@@ -17423,12 +17595,12 @@ Notes: 上例中，when should we leave用陈述句式。
 
  > **the Supreme Court**  
  > the Supreme Court   
- > 最高法院  （）  
+ > 最高法院    
 
 ### 2.*低义频：* **(品质、程度等) 最大的；至上的：**  
 
  > Winning an Olympic gold medal was, I suppose, the supreme moment of my life.   
- > 我认为赢得奥运金牌是我一生中最重要的时刻。  （）  
+ > 我认为赢得奥运金牌是我一生中最重要的时刻。    
 
 
 # ***\*sure*** adj
@@ -17442,20 +17614,20 @@ Notes: 上例中，when should we leave用陈述句式。
 反义词 unsure 
 
  > I think he is coming, but I’m not quite sure.   
- > 我认为他会来，但我不太肯定。  （）  
+ > 我认为他会来，但我不太肯定。    
 
 - (be) sure about / of:
 
  > He is sure of success.   
- > 他有把握成功。  （）  
+ > 他有把握成功。    
 
 - (be) sure +(that) / wh- 从句：
 
  > I am sure that smoking harms you.   
- > 我确信吸烟对你有害。  （）  
+ > 我确信吸烟对你有害。    
 
  > I haven’t been sure whether I should write to him or not.   
- > 我还不确定要不要给他写信。  （）  
+ > 我还不确定要不要给他写信。    
 
 ### 2.*高义频：* **一定会；准会：**  
 
@@ -17467,7 +17639,7 @@ Notes: 上例中，when should we leave用陈述句式。
 - [用于祈使句] (be) sure (not) to do sth：
 
  > Be sure not to touch anything in the lab.   
- > 千万别碰实验室里的任何东西。  （）  
+ > 千万别碰实验室里的任何东西。    
 
 
 固定搭配
@@ -17483,7 +17655,7 @@ Notes: 上例中，when should we leave用陈述句式。
 
  > **make sure of**  
  > He arrived at the cinema early to make sure of a seat.   
- > 为确保有座位，他早早地到了电影院。  （）  
+ > 为确保有座位，他早早地到了电影院。    
 
  > **make sure,that**  
  > We make sure (that) we take good care of students on campus.   
@@ -17493,7 +17665,7 @@ Notes: 上例中，when should we leave用陈述句式。
 1.**诚然；固然：**  
 
  > She’s not perfect, to be sure, but she is pretty.   
- > 她固然不是十全十美，但很漂亮。  （）  
+ > 她固然不是十全十美，但很漂亮。    
 
 
 真题解析
@@ -17503,6 +17675,7 @@ A.to be rigid
 B.to be sure  
 C.to be perfect  
 D.to be fair  
+
 2. — Are you going to take part in the speech contest?
 —That’s _________sure. It’s too good an opportunity to miss.   （2011 重庆改）  
 A.No problem!  
@@ -17511,7 +17684,9 @@ C.Why me?
 D.Why bother?  
 
 答案：
-1. B  2. for  
+1. B  
+2. for  
+
 # ***\*sure*** adv
 英音 ʃʊə(r), ʃɔː(r)     美音 ʃʊr  
 
@@ -17522,10 +17697,10 @@ D.Why bother?
 ### 1.*高义频：* **[主要用于口语] 肯定地；当然：**  
 
  > — Would you like to come?   
- > 你愿意来吗？  （）  
+ > 你愿意来吗？    
 
  > — Sure!   
- > 当然愿意！  （）  
+ > 当然愿意！    
 
 
 派生词汇
@@ -17543,6 +17718,7 @@ D.You are welcome
 
 答案：
 1. C  
+
 # ***\*surf*** v
 英音 sɜːf     美音 sɜːrf  
 
@@ -17556,7 +17732,7 @@ D.You are welcome
 
  > **surf the Internet / Net**  
  > surf the Internet / Net   
- > 网上冲浪；上网  （）  
+ > 网上冲浪；上网    
 
 
 # ***\*surface*** n
@@ -17574,7 +17750,7 @@ D.You are welcome
  > 地球表面的三分之二都是水。  （外研① – 5）  
 
  > The box has six surfaces.   
- > 箱子有六个面。  （）  
+ > 箱子有六个面。    
 
 
 # ***\*surface*** adj
@@ -17620,7 +17796,7 @@ D.You are welcome
 
  > **major,surgery**  
  > major heart surgery   
- > 心脏大手术  （）  
+ > 心脏大手术    
 
 ### 2.*低义频：* **[C] 诊所**  
 
@@ -17663,7 +17839,7 @@ D.You are welcome
 ### 1.*高义频：* **过剩的；剩余的：**  
 
  > surplus labour / value   
- > 剩余劳动力/价值  （）  
+ > 剩余劳动力/价值    
 
 
 # ***\*surprise*** vt
@@ -17677,11 +17853,11 @@ D.You are welcome
 
  > **It surprised me that**  
  > It surprised me that such a little boy of seven could play the piano so well.   
- > 一个七岁的小男孩钢琴能弹得这么好，这让我感到很惊讶。  （）  
+ > 一个七岁的小男孩钢琴能弹得这么好，这让我感到很惊讶。    
 
  > **What surprised,most**  
  > What surprised me most was that he spoke English so well.   
- > 令我最惊奇的是，他英语说得这么好。  （）  
+ > 令我最惊奇的是，他英语说得这么好。    
 
 
 # ***\*surprise*** n
@@ -17694,12 +17870,12 @@ D.You are welcome
 ### 1.*高义频：* **[U] & [C] 惊奇；诧异：**  
 
  > He expressed surprise that no one had offered to help.   
- > 谁都不肯帮忙，他感到诧异。  （）  
+ > 谁都不肯帮忙，他感到诧异。    
 
 ### 2.*高义频：* **[C] 使人吃惊的事：**  
 
  > We have a Christmas surprise for you.   
- > 我们要给你一份意想不到的圣诞礼物。  （）  
+ > 我们要给你一份意想不到的圣诞礼物。    
 
 
 固定搭配
@@ -17708,16 +17884,16 @@ D.You are welcome
 1.**惊奇地：**  
 
  > “How did you come to know it?” asked the man in surprise.   
- > 那人惊奇地问：“你是怎么知道的？”  （）  
+ > 那人惊奇地问：“你是怎么知道的？”    
 
 ## \*take ... by surprise 
 1.**使…吃惊；突袭：**  
 
  > The question took the professor by surprise.   
- > 那个问题使教授大感意外。  （）  
+ > 那个问题使教授大感意外。    
 
  > The troop were taken by surprise while sleeping.   
- > 部队在睡梦中遭到突袭。  （）  
+ > 部队在睡梦中遭到突袭。    
 
 ## \*to sb’s surprise / to the surprise of sb 
 1.**使某人吃惊的是：**  
@@ -17736,12 +17912,12 @@ D.You are welcome
 ### 1.*高义频：* **吃惊的；感到惊讶的：**  
 
  > I was surprised and delighted to win.   
- > 能够获胜让我既惊讶又高兴。  （）  
+ > 能够获胜让我既惊讶又高兴。    
 
 - (be) surprised at:
 
  > The staff were surprised at the fact.   
- > 工作人员对事实感到惊讶。  （）  
+ > 工作人员对事实感到惊讶。    
 
 - (be) surprised to do sth:
 
@@ -17751,7 +17927,7 @@ D.You are welcome
 - (be) surprised + that 从句：
 
  > He’s surprised that he got the scholarship.    
- > 他很惊讶自己获得了奖学金。  （）  
+ > 他很惊讶自己获得了奖学金。    
 
 
 # ***\*surprising*** adj
@@ -17764,11 +17940,11 @@ D.You are welcome
 ### 1.*高义频：* **令人吃惊的；惊人的；出人意料的：**  
 
  > We had a surprising amount in common.   
- > 我们的共同之处出奇得多。  （）  
+ > 我们的共同之处出奇得多。    
 
  > **It’s not surprising that**  
  > It’s not surprising that the cheap machine broke down only a week later.   
- > 这部廉价的机器一周后就坏了，一点也不奇怪。  （）  
+ > 这部廉价的机器一周后就坏了，一点也不奇怪。    
 
 
 派生词汇
@@ -17782,6 +17958,7 @@ surprisingly /sə'praɪzɪŋli/ adv
 
 答案：
 1. surprisingly  
+
 # ***\*surrender*** v
 英音 sə'rendə(r)     美音 sə'rendər  
 
@@ -17806,7 +17983,7 @@ surprisingly /sə'praɪzɪŋli/ adv
  > 对有些人来说，幸福就是一直有家人和朋友陪伴在身边。  （译林⑥ – 2）  
 
  > Armed police surrounded a house in the street.   
- > 武装警察包围了街上的一栋房子。  （）  
+ > 武装警察包围了街上的一栋房子。    
 
  > **Surrounding yourself with**  
  > Surrounding yourself with people who’ll provide you with support can be very beneficial.   
@@ -17815,7 +17992,7 @@ surprisingly /sə'praɪzɪŋli/ adv
 ### 2.*低义频：* **与...紧密相关：**  
 
  > some issues surrounding alcohol abuse   
- > 有关酗酒的一些问题  （）  
+ > 有关酗酒的一些问题    
 
 
 # ***\*surrounding*** adj
@@ -17830,7 +18007,7 @@ surprisingly /sə'praɪzɪŋli/ adv
 ### 1.*高义频：* **周围的：**  
 
  > the surrounding scenery   
- > 四周的风景  （）  
+ > 四周的风景    
 
 
 # ***\*surroundings*** n
@@ -17862,13 +18039,13 @@ surprisingly /sə'praɪzɪŋli/ adv
 
  > **conduct / carry out a survey**  
  > We usually conduct / carry out a survey to collect information.   
- > 我们一般通过调查收集信息。  （）  
+ > 我们一般通过调查收集信息。    
 
 ### 2.*低义频：* **测量；勘测：**  
 
  > **survey of**  
  > make a survey of the road   
- > 测量道路  （）  
+ > 测量道路    
 
 
 # ***\*survey*** vt
@@ -17881,12 +18058,12 @@ surprisingly /sə'praɪzɪŋli/ adv
 ### 1.*高义频：* **调查；全面审视：**  
 
  > We surveyed the damage caused by the fire.  
- > 我们调查了火灾造成的损失。  （）  
+ > 我们调查了火灾造成的损失。    
 
 ### 2.*低义频：* **测量；勘测：**  
 
  > survey a railway   
- > 测量铁路  （）  
+ > 测量铁路    
 
 
 # ***\*survival*** n
@@ -17900,17 +18077,17 @@ surprisingly /sə'praɪzɪŋli/ adv
 
  > **the survival of the fittest**  
  > the survival of the fittest   
- > 适者生存  （）  
+ > 适者生存    
 
  > **the struggle for survival**  
  > the struggle for survival   
- > 求生  （）  
+ > 求生    
 
 ### 2.*低义频：* **[C] 幸存物；残存物：**  
 
  > **a survival from**  
  > The ceremony is a survival from pre-Christian times.   
- > 这种仪式是从公元前遗留下来的。  （）  
+ > 这种仪式是从公元前遗留下来的。    
 
 
 # ***\*survive*** v
@@ -17923,34 +18100,34 @@ surprisingly /sə'praɪzɪŋli/ adv
 ### 1.*高义频：* **幸存 (于)；艰难度过：**  
 
  > Her parents died in the accident, but she survived.   
- > 她的父母在那次事故中丧生了，但是她活了下来。  （）  
+ > 她的父母在那次事故中丧生了，但是她活了下来。    
 
  > He survived the earthquake.   
- > 他在地震中幸免于难。  （）  
+ > 他在地震中幸免于难。    
 
 Notes: 不能说He survived from / after / in the earthquake.  
  > **survive on**  
  > How do you survive on such a low salary?   
- > 你是如何靠这么低的工资维持生计的？  （）  
+ > 你是如何靠这么低的工资维持生计的？    
 
 ### 2.*高义频：* **保存下来：**  
 
  > **survived into**  
  > Some old customs have survived into the present.   
- > 有些古老的风俗一直保留到现在。  （）  
+ > 有些古老的风俗一直保留到现在。    
 
  > **survived from**  
  > Several buildings in the town survived from medieval times.   
- > 镇上有几座建筑物从中世纪留存至今。  （）  
+ > 镇上有几座建筑物从中世纪留存至今。    
 
  > **survives as**  
  > The main building was destroyed, but the library still survives as a museum.   
- > 主楼毁了，但图书馆仍作为博物馆继续存留。  （）  
+ > 主楼毁了，但图书馆仍作为博物馆继续存留。    
 
 ### 3.*低义频：* **比...活得长：**  
 
  > She survived her husband by ten years.   
- > 她丈夫去世后，她又活了10年。  （）  
+ > 她丈夫去世后，她又活了10年。    
 
 
 派生词汇
@@ -17982,15 +18159,15 @@ survivor /sə'vaɪvə(r)/ n
 英译 to think that sth bad has happened or is happening：
 
  > I suspected his motives in offering to help.   
- > 我怀疑他主动提供帮助的动机。  （）  
+ > 我怀疑他主动提供帮助的动机。    
 
  > **strongly suspected**  
  > She strongly suspected he was lying to her.   
- > 她非常怀疑他在对她撒谎。  （）  
+ > 她非常怀疑他在对她撒谎。    
 
  > **I suspect**  
  > She’s not going to be very happy about this, I suspect.   
- > 我想她对此事是不会太高兴的。  （）  
+ > 我想她对此事是不会太高兴的。    
 
 ### 2.*高义频：* **怀疑 (某人有罪)**  
 英译 to think that sb is probably guilty of a crime：
@@ -17998,10 +18175,10 @@ survivor /sə'vaɪvə(r)/ n
 - suspect sb of (doing) sth:
 
  > They suspect him of a theft.   
- > 他们觉得他有偷窃嫌疑。  （）  
+ > 他们觉得他有偷窃嫌疑。    
 
  > The policeman suspected him of killing the girl.   
- > 警察怀疑他杀了那个女孩。  （）  
+ > 警察怀疑他杀了那个女孩。    
 
 
 # ***\*suspect*** n
@@ -18016,7 +18193,7 @@ survivor /sə'vaɪvə(r)/ n
 ### 1.*高义频：* **嫌疑犯；可疑分子：**  
 
  > question a suspect   
- > 审问嫌疑人  （）  
+ > 审问嫌疑人    
 
 
 # ***\*suspect*** adj
@@ -18029,7 +18206,7 @@ survivor /sə'vaɪvə(r)/ n
 ### 1.*高义频：* **不可信的；可疑的：**  
 
  > a suspect package   
- > 可疑包裹  （）  
+ > 可疑包裹    
 
 
 # ***\*suspension*** n
@@ -18078,10 +18255,10 @@ survivor /sə'vaɪvə(r)/ n
 ### 1.*高义频：* **可持续的；不破坏环境的：**  
 
  > Cycling is a totally sustainable form of transport.   
- > 骑自行车是一种十分环保的交通方式。  （）  
+ > 骑自行车是一种十分环保的交通方式。    
 
  > Today, sustainable development is a popular trend in many countries.   
- > 如今，可持续发展在很多国家是一种流行趋势。  （）  
+ > 如今，可持续发展在很多国家是一种流行趋势。    
 
 
 # ***\*sutra*** n
@@ -18105,12 +18282,12 @@ survivor /sə'vaɪvə(r)/ n
 
  > **swallowed,whole**  
  > He put a grape into his mouth and swallowed it whole.   
- > 他把一粒葡萄放进嘴里，整个吞了下去。  （）  
+ > 他把一粒葡萄放进嘴里，整个吞了下去。    
 
 ### 2.*低义频：* **抑制：**  
 
  > She swallowed her anger and turned to face him.   
- > 她忍住怒气，转过身来面对着他。  （）  
+ > 她忍住怒气，转过身来面对着他。    
 
 
 固定搭配
@@ -18119,13 +18296,13 @@ survivor /sə'vaɪvə(r)/ n
 1.**吞没；淹没；用尽：**  
 
  > The ship was swallowed up by the wave.   
- > 船被大浪吞没了。  （）  
+ > 船被大浪吞没了。    
 
  > The extra money was soon swallowed up.   
- > 这笔额外的钱很快就花光了。  （）  
+ > 这笔额外的钱很快就花光了。    
 
  > The smog swallowed up the whole city.   
- > 雾霾笼罩着整个城市。  （）  
+ > 雾霾笼罩着整个城市。    
 
 
 # ***\*swallow*** n
@@ -18140,7 +18317,7 @@ survivor /sə'vaɪvə(r)/ n
 ### 1.*高义频：* **燕子：**  
 
  > One swallow doesn’t make a summer.   
- > 独燕不成夏。  （）  
+ > 独燕不成夏。    
 
 
 # ***\*swan*** n
@@ -18164,7 +18341,7 @@ survivor /sə'vaɪvə(r)/ n
 
  > **swap,with**  
  > Online they swap information about their super heroes with each other.   
- > 他们在网上相互交流各自心中超级英雄的信息。  （）  
+ > 他们在网上相互交流各自心中超级英雄的信息。    
 
 
 # ***\*swear*** v
@@ -18180,23 +18357,23 @@ survivor /sə'vaɪvə(r)/ n
 
  > **swear at**  
  > swear at sb   
- > 咒骂某人  （）  
+ > 咒骂某人    
 
 ### 2.*高义频：* **宣誓；发誓：**  
 
  > **swear to God**  
  > swear to God   
- > 向上帝发誓  （）  
+ > 向上帝发誓    
 
 - swear to do sth:
 
  > Do you swear to tell the truth, the whole truth, and nothing but the truth?   
- > 你能发誓据实陈述而决无谎言吗？  （）  
+ > 你能发誓据实陈述而决无谎言吗？    
 
 - swear +(that)从句：
 
  > She swore (that) she’d never seen him before.   
- > 她发誓说以前从没见过他。  （）  
+ > 她发誓说以前从没见过他。    
 
 
 # ***\*sweat*** n
@@ -18221,7 +18398,7 @@ survivor /sə'vaɪvə(r)/ n
 ### 1.*高义频：* **出汗：**  
 
  > He is sweating all over.   
- > 他浑身冒汗。  （）  
+ > 他浑身冒汗。    
 
 
 # ***\*sweater*** n
@@ -18258,23 +18435,23 @@ survivor /sə'vaɪvə(r)/ n
 ### 1.*高义频：* **扫；扫除：**  
 
  > sweep the dust from the carpets   
- > 清扫地毯上的灰尘  （）  
+ > 清扫地毯上的灰尘    
 
  > A new broom sweeps clean.   
- > 新官上任三把火。  （）  
+ > 新官上任三把火。    
 
 ### 2.*低义频：* **横扫；(暴风雨等) 袭击；蔓延：**  
 
  > **swept across**  
  > A rare snowstorm swept across the region yesterday.  
- > 昨天一场罕见的暴风雪袭击了该地区。  （）  
+ > 昨天一场罕见的暴风雪袭击了该地区。    
 
  > The cooling wind swept through our bedroom windows, making air conditioning unnecessary.  
  > 凉爽的风从我们卧室的窗户吹进来，都没必要开空调。  （2016 天津）  
 
  > **swept the country**  
  > Some awful news has swept the country.   
- > 一些可怕的消息在那个国家蔓延。  （）  
+ > 一些可怕的消息在那个国家蔓延。    
 
 
 # ***\*sweet*** adj
@@ -18287,13 +18464,13 @@ survivor /sə'vaɪvə(r)/ n
 ### 1.*高义频：* **香甜的；甜美的；新鲜的：**  
 
  > sweet bread / coffee   
- > 甜面包/加糖的咖啡  （）  
+ > 甜面包/加糖的咖啡    
 
  > a sweet smile   
- > 甜美的笑容  （）  
+ > 甜美的笑容    
 
  > sweet air / colours   
- > 新鲜空气/悦目的颜色  （）  
+ > 新鲜空气/悦目的颜色    
 
 
 派生词汇
@@ -18344,12 +18521,12 @@ sweetly /'swiːtli/ adv
 ### 1.*高义频：* **膨胀；肿胀：**  
 
  > Wood often swells when wet.   
- > 木材潮湿后往往膨胀。  （）  
+ > 木材潮湿后往往膨胀。    
 
 ### 2.*低义频：* **(使) 逐渐增加；(使) 上涨：**  
 
  > Small extra costs all swell the total.   
- > 零星的额外费用积少成多，使总数增大了。  （）  
+ > 零星的额外费用积少成多，使总数增大了。    
 
 
 派生词汇
@@ -18368,7 +18545,7 @@ swelling /'swelɪŋ/ n
 
  > **swift to take**  
  > be swift to take measures   
- > 立刻采取措施  （）  
+ > 立刻采取措施    
 
  > Success was not swift and Rowling might have given up.   
  > 成功并非一蹴而就，罗琳可能也曾放弃过。  （外研⑥ – 2）  
@@ -18400,7 +18577,7 @@ swiftly /swɪftli/ adv
 ### 1.*高义频：* **游泳：**  
 
  > Don’t teach fish to swim.   
- > 不要班门弄斧。  （）  
+ > 不要班门弄斧。    
 
 ### 2.*低义频：* **晃动；旋转：**  
 
@@ -18425,7 +18602,7 @@ swimmer /'swɪmə(r)/ n
 
  > **go for a swim**  
  > go for a swim   
- > 游泳  （）  
+ > 游泳    
 
 
 # ***\*swimming*** n
@@ -18441,11 +18618,11 @@ swimmer /'swɪmə(r)/ n
 
  > **go swimming**  
  > go swimming   
- > 去游泳  （）  
+ > 去游泳    
 
  > **swimming pool**  
  > a swimming pool   
- > 游泳池  （）  
+ > 游泳池    
 
 
 真题解析
@@ -18454,6 +18631,7 @@ swimmer /'swɪmə(r)/ n
 
 答案：
 1. swimming  
+
 # ***\*swing*** v
 英音 swɪŋ     美音 swɪŋ  
 
@@ -18466,7 +18644,7 @@ swimmer /'swɪmə(r)/ n
 ### 1.*高义频：* **摆动；转动；挥动：**  
 
  > It’s bad manners to swing your legs while eating.   
- > 吃饭时晃腿是不礼貌的。  （）  
+ > 吃饭时晃腿是不礼貌的。    
 
  > **swung open**  
  > At that moment, the door swung open, and Roy walked in.   
@@ -18474,7 +18652,7 @@ swimmer /'swɪmə(r)/ n
 
  > **swung at**  
  > Shay swung at the ball but missed.   
- > 谢伊挥拍击球，但没打中。  （）  
+ > 谢伊挥拍击球，但没打中。    
 
 
 # ***\*swing*** n
@@ -18502,7 +18680,7 @@ swimmer /'swɪmə(r)/ n
 
  > **light switch**  
  > turn on / off the light switch   
- > 打开/关掉灯的开关  （）  
+ > 打开/关掉灯的开关    
 
 ### 2.*低义频：* **骤变；突变**  
 
@@ -18523,7 +18701,7 @@ swimmer /'swɪmə(r)/ n
 
  > **switched,from,to**  
  > He switched the conversation from one subject to another.   
- > 他把话题换来换去。  （）  
+ > 他把话题换来换去。    
 
  > **switch to**  
  > We’d take the train into the city center, then switch to the tram.   
@@ -18533,7 +18711,7 @@ swimmer /'swɪmə(r)/ n
 英译 to exchange one thing for another：
 
  > You drive first and then we’ll switch round.   
- > 你先开车，过一会儿咱们再换着开。  （）  
+ > 你先开车，过一会儿咱们再换着开。    
 
 
 固定搭配
@@ -18545,7 +18723,7 @@ swimmer /'swɪmə(r)/ n
  > 睡觉时请关上电视。  （北师大① – 1）  
 
  > Thankfully, I’ve learned to switch off and let it go over my head.  
- > 谢天谢地，我已经学会了不再烦恼，把它抛到脑后。  （）  
+ > 谢天谢地，我已经学会了不再烦恼，把它抛到脑后。    
 
 ## \*switch on
 1.*高义频：* **打开 (电灯、电视等)：**  
@@ -18557,7 +18735,7 @@ swimmer /'swɪmə(r)/ n
 1.*高义频：* **改变；转换：**  
 
  > We’ve switched over to telephone banking.  
- > 我们已经改用电话银行服务了。  （）  
+ > 我们已经改用电话银行服务了。    
 
 
 # ***\*swollen*** adj
@@ -18588,10 +18766,10 @@ swelling /'swelɪŋ/ n
 
  > **draw a sword**  
  > draw a sword   
- > 拔剑；开战  （）  
+ > 拔剑；开战    
 
  > The emperor unified the country by the sword.   
- > 那位皇帝用武力统一了全国。  （）  
+ > 那位皇帝用武力统一了全国。    
 
 
 # ***\*syllable*** n
@@ -18623,12 +18801,12 @@ swelling /'swelɪŋ/ n
 
  > **symbol of**  
  > Mother Teresa came to be a living symbol of selfless devotion to the sick and poor.   
- > 特瑞萨修女成为了对病人和穷人无私奉献的活生生的象征。  （）  
+ > 特瑞萨修女成为了对病人和穷人无私奉献的活生生的象征。    
 
 ### 2.*高义频：* **符号：**  
 
  > a chemical symbol   
- > 化学符号  （）  
+ > 化学符号    
 
 
 派生词汇
@@ -18645,6 +18823,7 @@ D.statue
 
 答案：
 1. A  
+
 # ***\*symbolic*** adj
 英音 sɪm'bɒlɪk     美音 sɪm'bɑːlɪk  
 
@@ -18665,11 +18844,11 @@ D.statue
 ### 1.*高义频：* **同情的；表示同情的：**  
 
  > a sympathetic look / smile   
- > 同情的表情/笑容  （）  
+ > 同情的表情/笑容    
 
  > **sympathetic towards**  
  > feel sympathetic towards sb   
- > 对某人感到同情  （）  
+ > 对某人感到同情    
 
 
 # ***\*sympathy*** n
@@ -18685,10 +18864,10 @@ D.statue
 
  > **felt,sympathy for**  
  > They felt great sympathy for the victims.   
- > 他们十分同情遇难者。  （）  
+ > 他们十分同情遇难者。    
 
  > It is in bad times that we value most highly the support and sympathy of our friends.   
- > 艰难时刻我们最看重朋友们的支持与同情。  （）  
+ > 艰难时刻我们最看重朋友们的支持与同情。    
 
 
 # ***\*symphony*** n
@@ -18704,7 +18883,7 @@ D.statue
 
  > **symphony orchestra**  
  > a symphony orchestra   
- > 交响乐团/队  （）  
+ > 交响乐团/队    
 
 
 # ***\*symptom*** n
@@ -18730,6 +18909,7 @@ D.shadow
 
 答案：
 1. A  
+
 # ***\*syncopation*** n
 英音 ˌsɪŋkə'peɪʃn     美音 ˌsɪŋkə'peɪʃn  
 
@@ -18775,12 +18955,12 @@ D.shadow
  > 1959年该公司研制出ELEA计算机系统。  （2010 安徽）  
 
  > Eleven-year-old Angela had something wrong with her nervous system.   
- > 安吉拉11岁，她的神经系统出了问题。  （）  
+ > 安吉拉11岁，她的神经系统出了问题。    
 
 ### 2.*高义频：* **[C] 体系；体制；制度：**  
 
  > the postal system   
- > 邮政系统  （）  
+ > 邮政系统    
 
  > What similarities or differences do you know about American and Chinese school systems?   
  > 你知道美国和中国的学校制度有什么异同吗？  （外研① – 1）  

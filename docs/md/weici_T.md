@@ -23,17 +23,17 @@
 
  > **lay / set the table**  
  > lay / set the table   
- > 摆放餐具  （）  
+ > 摆放餐具    
 
 ### 2.*低义频：* **表格：**  
 
  > **multiplication tables**  
  > the multiplication tables   
- > 乘法口诀表  （）  
+ > 乘法口诀表    
 
  > **table of contents**  
  > a table of contents   
- > 目录表  （）  
+ > 目录表    
 
 
 固定搭配
@@ -113,7 +113,7 @@
 ### 1.*高义频：* **尾巴；末尾部分：**  
 
  > the tail of Halley’s Comet   
- > 哈雷彗星的彗尾  （）  
+ > 哈雷彗星的彗尾    
 
 
 # ***\*tailor*** n
@@ -128,7 +128,7 @@
 ### 1.*高义频：* **(尤指男装的) 裁缝：**  
 
  > at the tailor’s   
- > 在裁缝店  （）  
+ > 在裁缝店    
 
 
 # ***\*tailor*** vt
@@ -142,7 +142,7 @@
 
  > **tailored,to**  
  > The account offered by the bank will be tailored exactly to your needs.   
- > 银行提供的账户会完全根据您的需求来定制。  （）  
+ > 银行提供的账户会完全根据您的需求来定制。    
 
 
 # ***\*take*** vt
@@ -158,25 +158,25 @@
 
  > **take,from**  
  > take a glass from the cupboard   
- > 从碗柜里拿一个玻璃杯  （）  
+ > 从碗柜里拿一个玻璃杯    
 
  > I passed him the book, and he took it.   
- > 我把书递给他，他接了过去。  （）  
+ > 我把书递给他，他接了过去。    
 
 ### 2.*高义频：* **拿走；取走**  
 反义词 bring： 
 
  > Did the thief take anything of value?   
- > 小偷偷走什么值钱的东西了吗？  （）  
+ > 小偷偷走什么值钱的东西了吗？    
 
 ### 3.*高义频：* **携带；引领；使达到：**  
 
  > It’s too far to walk — I will take you there by car.   
- > 步行去那儿太远了，我会开车送你去。  （）  
+ > 步行去那儿太远了，我会开车送你去。    
 
  > **took,to**  
  > Her energy and talent took her to the top of her profession.   
- > 她的活力和才华使她达到了事业的顶峰。  （）  
+ > 她的活力和才华使她达到了事业的顶峰。    
 
 - take sth with sb:
 
@@ -187,91 +187,91 @@
 - take sb sth / take sth to sb:
 
  > Shall I take my host family a gift? / Shall I take a gift to my host family?   
- > 我要不要给主人家带件礼物呢？  （）  
+ > 我要不要给主人家带件礼物呢？    
 
 ### 4.*高义频：* **夺取；攻占；控制：**  
 
  > Enemy forces have taken the airport.   
- > 敌军已经占领了机场。  （）  
+ > 敌军已经占领了机场。    
 
 ### 5.*高义频：* **选择；购买；租用：**  
 
  > — How about the pink T-shirt?   
- > 那件粉色的T恤衫怎么样？  （）  
+ > 那件粉色的T恤衫怎么样？    
 
  > — Yes, that’s nice. I’ll take it.   
  > 啊，不错，我要把它买下来。  （2009 北京改）  
 
  > He took the house for a year.   
- > 这房子他租了一年。  （）  
+ > 这房子他租了一年。    
 
 ### 6.*高义频：* **采取：**  
 
  > **take measures / action**  
  > take measures / action  
- > 采取措施/行动  （）  
+ > 采取措施/行动    
 
 ### 7.*高义频：* **接收；接受；容纳：**  
 
  > **take sb’s advice**  
  > take sb’s advice   
- > 接受某人的建议  （）  
+ > 接受某人的建议    
 
  > This school doesn’t take boys.   
- > 这所学校不收男生。  （）  
+ > 这所学校不收男生。    
 
  > This new bus takes sixty passengers.   
- > 这辆新公共汽车可容纳60名乘客。  （）  
+ > 这辆新公共汽车可容纳60名乘客。    
 
 ### 8.*高义频：* **遭受；承受；忍受：**  
 
  > **took a beating**  
  > Small businesses took a beating in the financial crisis.   
- > 小企业在这场金融危机中遭受了打击。  （）  
+ > 小企业在这场金融危机中遭受了打击。    
 
  > **hard to take**  
  > I found his attitude a little hard to take.   
- > 我发觉他的态度有点让人难以忍受。  （）  
+ > 我发觉他的态度有点让人难以忍受。    
 
 ### 9.*高义频：* **吃；喝；服 (药)：**  
 
  > take coffee / medicine   
- > 喝咖啡/吃药  （）  
+ > 喝咖啡/吃药    
 
 ### 10.*高义频：* **搭乘 (交通工具)：**  
 
  > take a train   
- > 坐火车  （）  
+ > 坐火车    
 
 ### 11.*高义频：* **记录；量 (体温等)；拍摄：**  
 
  > **take notes / a photo**  
  > take notes / a photo   
- > 记笔记/照相  （）  
+ > 记笔记/照相    
 
  > take one’s temperature   
- > 量体温  （）  
+ > 量体温    
 
 ### 12.*高义频：* **[后接名词形成动宾短语，表示做一次动作，其意义相当于相应的动词]：**  
 
  > take a bath / shower / walk / rest   
- > 洗澡/淋浴/散步/休息  （）  
+ > 洗澡/淋浴/散步/休息    
 
  > **take an interest**  
  > take an interest in collecting stamps   
- > 对集邮感兴趣  （）  
+ > 对集邮感兴趣    
 
  > **took a look**  
  > He took a look at himself in the glass.   
- > 他看了看镜子里的自己。  （）  
+ > 他看了看镜子里的自己。    
 
 ### 13.*高义频：* **花费；占用：**  
 
  > Organizing a successful birthday party takes a lot of energy.   
- > 举办一次成功的生日聚会要花费很多精力。  （）  
+ > 举办一次成功的生日聚会要花费很多精力。    
 
  > The case doesn’t take much room.   
- > 这箱子占地方不多。  （）  
+ > 这箱子占地方不多。    
 
 - it takes sb (sth) to do sth:
 
@@ -279,7 +279,7 @@
  > 我花了21年多才拿到大学文凭。  （2011 天津）  
 
  > It takes hard work to make dreams into reality.   
- > 实现梦想需要付出艰苦的努力。  （）  
+ > 实现梦想需要付出艰苦的努力。    
 
 #### 辨析 cost, spend, pay, take
 这四个词都经常译为“花费”，但用法各不相同。  
@@ -287,26 +287,26 @@
 ### 14.*高义频：* **参加；学习：**  
 
  > He is going to take an oral test.   
- > 他要参加一场口语考试。  （）  
+ > 他要参加一场口语考试。    
 
  > Are you taking French next year?   
- > 你明年学习法语吗？  （）  
+ > 你明年学习法语吗？    
 
 ### 15.*高义频：* **理解；认为；把...看作；**  
 
  > I was joking, but he took me seriously.   
- > 我在开玩笑，他却当真了。  （）  
+ > 我在开玩笑，他却当真了。    
 
 - take ... as / for / to be:
 
  > take sb’s patience as a sign of weakness   
- > 把某人的耐心当作软弱的象征  （）  
+ > 把某人的耐心当作软弱的象征    
 
  > Even the experts took the painting for a genuine Picasso.   
- > 连行家都认为这幅画是毕加索的真迹。  （）  
+ > 连行家都认为这幅画是毕加索的真迹。    
 
  > I take him to be sincere.   
- > 我认为他是真诚的。  （）  
+ > 我认为他是真诚的。    
 
 
 固定搭配
@@ -321,31 +321,31 @@
 1.**拿走；带走；使消失：**  
 
  > Mom! Robby took away my cake!   
- > 妈妈！罗比抢走了我的蛋糕！  （）  
+ > 妈妈！罗比抢走了我的蛋糕！    
 
  > Fish and chips to take away, please.   
- > 炸鱼和薯条，带走，谢谢。  （）  
+ > 炸鱼和薯条，带走，谢谢。    
 
  > I was given some pills to take away the pain.   
- > 给我开了些止疼药片。  （）  
+ > 给我开了些止疼药片。    
 
 ## \*take back 
 1.**退回；收回：**  
 
  > If the shirt doesn’t fit, take it back.   
- > 如果衬衣不合身，拿去退货吧。  （）  
+ > 如果衬衣不合身，拿去退货吧。    
 
  > I’ll take back what I just said.   
- > 我要收回刚才说的话。  （）  
+ > 我要收回刚才说的话。    
 
 ## \*take down 
 1.**取下；记下；拆除：**  
 
  > take the curtains down   
- > 取下窗帘  （）  
+ > 取下窗帘    
 
  > take down the telephone number   
- > 记下电话号码  （）  
+ > 记下电话号码    
 
  > The house I grew up in has been taken down and replaced by an office building.   
  > 我小时候住的那所房子已被拆除，取而代之的是一座办公楼。  （2009 江西）  
@@ -357,7 +357,7 @@
  > 树木吸收二氧化碳释放氧气。  （外研③ – 4）  
 
  > He was homeless, so we took him in.   
- > 他无家可归，于是我们收留了他。  （）  
+ > 他无家可归，于是我们收留了他。    
 
 2.*高义频：* **理解 (absorb)：**  
 
@@ -367,20 +367,20 @@
 3.*高义频：* **欺骗：**  
 
  > She took me in completely with her story.   
- > 她用一番花言巧语完全把我骗住了。  （）  
+ > 她用一番花言巧语完全把我骗住了。    
 
 ## \*take off
 1.*高义频：* **脱下 (衣、帽等)**  
 反义词 put on： 
 
  > He took off my wet boots and made me sit by the fire.  
- > 他脱掉我的湿靴子，让我在火边坐下。  （）  
+ > 他脱掉我的湿靴子，让我在火边坐下。    
 
 2.*高义频：* **(飞机等) 起飞：**  
 反义词 land 
 
  > The plane took off on time.   
- > 飞机正点起飞。  （）  
+ > 飞机正点起飞。    
 
 3.*高义频：* **在 (某段时间) 休假：**  
 
@@ -400,7 +400,7 @@
  > 在遭受大地震成为废墟后不久，这座城市呈现出新面貌。  （2013 江苏）  
 
  > No more workers are being taken on at present.   
- > 眼下不再招收工人。  （）  
+ > 眼下不再招收工人。    
 
  > His secretary will have to take on most of his work while he’s gone.   
  > 秘书会在他不在的时候接手他大部分的工作。  （2010 湖南改）  
@@ -409,13 +409,13 @@
 1.*高义频：* **取出；拿出：**  
 
  > The doctor took out five of John’s teeth.   
- > 医生拔掉了约翰的五颗牙。  （）  
+ > 医生拔掉了约翰的五颗牙。    
 
 2.*低义频：* **获得；领取：**  
 
  > **take out an insurance**  
  > take out an insurance   
- > 领取保险  （）  
+ > 领取保险    
 
 3.*高义频：* **带...出去：**  
 
@@ -426,58 +426,69 @@
 1.**接收；接管：**  
 
  > take over the job as a manager   
- > 接任经理一职  （）  
+ > 接任经理一职    
 
  > Would you like me to take over the driving for a while?   
- > 我替你开会儿车怎么样？  （）  
+ > 我替你开会儿车怎么样？    
 
 ## \*take to 
 1.**[不用于被动语态] 开始从事；喜欢上； 养成…的习惯：**  
 
  > He gave up medicine and took to literature.   
- > 他弃医从文了。  （）  
+ > 他弃医从文了。    
 
  > I’ve taken to getting up at 6 and going jogging.   
- > 我养成了6点起床去慢跑的习惯。  （）  
+ > 我养成了6点起床去慢跑的习惯。    
 
 ## \*take up 
 1.**(尤指为消遣) 学着做；开始做**  
 
  > After he retired from office, Rogers took up painting for a while, but soon lost interest.  
- > 退休后，罗杰斯学了一段时间绘画，但很快便失去了兴趣。  （）  
+ > 退休后，罗杰斯学了一段时间绘画，但很快便失去了兴趣。    
 
 2.**开始从事；开始担当**  
 英译 to start or begin sth such as a job
 
  > If you want to take up this job, you should first be trained for three months.  
- > 假如你想从事这项工作，你必须先接受三个月的训练。  （）  
+ > 假如你想从事这项工作，你必须先接受三个月的训练。    
 
 3.**占用 (occupy)**  
 
  > The desk takes up a lot of room.  
- > 这张桌子占了太多的空间。  （）  
+ > 这张桌子占了太多的空间。    
 
  > Helen always helps her mother even though going to school takes up most of her day.  
- > 尽管海伦一天大部分时间都上学，但她总是给自己的母亲帮忙。  （）  
+ > 尽管海伦一天大部分时间都上学，但她总是给自己的母亲帮忙。    
 
 4.**接受**  
 英译 to accept sth that is offered or available
 
  > Rick took up the challenge and cycled alone for 250 miles.  
- > 里克接受了挑战，独自骑行250英里。  （）  
+ > 里克接受了挑战，独自骑行250英里。    
 
 
 真题解析
 ---
 1. Peter will take _________ his post as the head of the travel agency at the end of next month.  （2015 陕西改）  
+
 2. On Monday mornings it usually ________ (take) me an hour to drive to work although the actual distance is only 20 miles.  （2013 陕西改）  
+
 3. Briggs will take ________ as general manager when Mitchell retires.  （2013 辽宁改）  
+
 4. Some insects take ________ the color of their surroundings to protect themselves.  （2011 陕西改）  
+
 5. We tried to find a table for seven, but they were all taken ________.  （2009 安徽改）  
+
 6. I take it ________ a basic principle of the company that suppliers of raw materials should be given a fair price for their products.  （2008 江西改）  
 
 答案：
-1. up  2. takes   3. over  4. on  5. up  6. as  
+1. up  
+2. takes   
+3. over  
+4. on  
+5. up  
+6. as  
+
 # ***\*tale*** n
 英音 teɪl     美音 teɪl  
 
@@ -491,11 +502,11 @@
 
  > **fairy / romantic tale**  
  > a fairy / romantic tale   
- > 童话/爱情故事  （）  
+ > 童话/爱情故事    
 
  > **tales of**  
  > tell the tales of one’s experience   
- > 讲述自己的经历  （）  
+ > 讲述自己的经历    
 
  > **Tales of**  
  > Tales of the supernatural are common in all parts of Britain.   
@@ -518,22 +529,22 @@
 
  > **talent show / competition**  
  > a talent show / competition   
- > 才艺大赛  （）  
+ > 才艺大赛    
 
 - talent for (doing) sth:
 
  > He has a natural talent for music.   
- > 他天生就有音乐天赋。  （）  
+ > 他天生就有音乐天赋。    
 
  > **showed,talent for**  
  > She showed a talent for acting at an early age.  
- > 她在很小的时候就显示出了表演天赋。  （）  
+ > 她在很小的时候就显示出了表演天赋。    
 
 ### 2.*低义频：* **人才；有才能的人：**  
 
  > **a wealth of talent**  
  > There’s a wealth of talent in English football.  
- > 英格兰足球界人才济济。  （）  
+ > 英格兰足球界人才济济。    
 
 
 派生词汇
@@ -560,7 +571,7 @@ talented /'tæləntɪd/ adj
 ### 1.*高义频：* **谈话；讲话；说话：**  
 
  > Follow your own course, and let people talk.   
- > 走自己的路，让别人去说吧。  （）  
+ > 走自己的路，让别人去说吧。    
 
  > First, talk to someone you trust about how you feel.  
  > 首先，和你信任的某个人谈你的感受。  （2014 安徽书面表达）  
@@ -568,26 +579,26 @@ talented /'tæləntɪd/ adj
 - talk of / about / on (doing) sth:
 
  > At the meeting he talked of the importance of learning computer skills.   
- > 他在会上谈到了学习计算机技能的重要性。  （）  
+ > 他在会上谈到了学习计算机技能的重要性。    
 
  > The last time I saw him he was talking about retiring at the end of the year.   
- > 上次我见到他时，他说起了年底退休的事。  （）  
+ > 上次我见到他时，他说起了年底退休的事。    
 
 - talk to / with sb:
 
  > I will talk to him about his carelessness.   
- > 他太马虎了，我得找他谈谈。  （）  
+ > 他太马虎了，我得找他谈谈。    
 
 ### 2.*高义频：* **谈论；讨论：**  
 
  > We talked music all night.  
- > 我们整夜谈论音乐。  （）  
+ > 我们整夜谈论音乐。    
 
 ## \*talk ... into / out of (doing) sth
 1.**说服某人做 / 不做某事：**  
 
  > I didn’t want to move abroad but Bill talked me into it.  
- > 我本不想移居国外，但是比尔把我说服了。  （）  
+ > 我本不想移居国外，但是比尔把我说服了。    
 
 ## \*talk over
 1.**详细讨论：**  
@@ -613,24 +624,24 @@ talker /'tɔːkə(r)/ n
 
  > **give a talk about / on**  
  > give a talk about / on forest   
- > 作关于森林的报告  （）  
+ > 作关于森林的报告    
 
  > big talk   
- > 大话；牛皮  （）  
+ > 大话；牛皮    
 
  > **small talk**  
  > small talk   
- > 闲聊；家常话  （）  
+ > 闲聊；家常话    
 
  > **had a long talk with**  
  > I had a long talk with my teacher about my study.  
- > 我和老师就我的学习进行了一次长谈。  （）  
+ > 我和老师就我的学习进行了一次长谈。    
 
 ### 2.*高义频：* **[复数] (正式) 会谈；会议：**  
 
  > **summit talks**  
  > summit talks   
- > 峰会  （）  
+ > 峰会    
 
 
 # ***\*talking*** n
@@ -645,7 +656,7 @@ talker /'tɔːkə(r)/ n
 ### 1.*高义频：* **讲话；谈话：**  
 
  > Talking mends no holes.   
- > 空谈无益。  （）  
+ > 空谈无益。    
 
 
 # ***\*tall*** adj
@@ -660,7 +671,7 @@ talker /'tɔːkə(r)/ n
 
  > **six feet tall**  
  > He is six feet tall and weighs 200 pounds.   
- > 他身高6英尺，体重200磅。  （）  
+ > 他身高6英尺，体重200磅。    
 
 #### 辨析 high, tall
 二者均有“高”之意，均可指建筑物。  
@@ -708,7 +719,7 @@ talker /'tɔːkə(r)/ n
 ### 1.*高义频：* **(盛液体或气体的) 大容器；箱；槽：**  
 
  > a water tank   
- > 水箱  （）  
+ > 水箱    
 
 ### 2.*高义频：* **坦克**  
 
@@ -726,7 +737,7 @@ talker /'tɔːkə(r)/ n
 
  > **turn on / off the tap**  
  > turn on / off the tap   
- > 开/关龙头  （）  
+ > 开/关龙头    
 
 ### 2.*高义频：* **轻打；轻拍：**  
 
@@ -748,11 +759,11 @@ talker /'tɔːkə(r)/ n
 
  > **tap sb on the shoulder**  
  > tap sb on the shoulder   
- > 轻拍某人的肩膀  （）  
+ > 轻拍某人的肩膀    
 
  > **tapping at**  
  > Someone is tapping at the door.   
- > 有人在轻轻叩门。  （）  
+ > 有人在轻轻叩门。    
 
  > I tap my feet and sing along with him.   
  > 我用脚踩着节拍跟他唱起来。  （外研⑥ – 4）  
@@ -770,13 +781,13 @@ talker /'tɔːkə(r)/ n
 ### 1.*高义频：* **线带；胶带；录音带；录像带：**  
 
  > play a tape   
- > 放录音/录像带  （）  
+ > 放录音/录像带    
 
  > a tape recorder   
- > 磁带录音机  （）  
+ > 磁带录音机    
 
  > The papers were in a pile, tied together with a tape.  
- > 文件叠成一摞，用带子捆着。  （）  
+ > 文件叠成一摞，用带子捆着。    
 
 ### 2.*低义频：* **终点线；卷尺**  
 
@@ -796,7 +807,7 @@ talker /'tɔːkə(r)/ n
 ### 2.*高义频：* **录音；录像(video)：**  
 
  > Would you mind if I taped this conversation?   
- > 你介意我把这次谈话录下来吗？  （）  
+ > 你介意我把这次谈话录下来吗？    
 
 
 # ***\*target*** n
@@ -812,14 +823,14 @@ talker /'tɔːkə(r)/ n
 
  > **hit / missed the target**  
  > His shot hit / missed the target.  
- > 他的子弹射中了靶子/脱靶了。  （）  
+ > 他的子弹射中了靶子/脱靶了。    
 
  > set a target   
- > 设定目标  （）  
+ > 设定目标    
 
  > **target audience**  
  > The target audience for the TV series are young people aged 13 to 18.   
- > 这部电视连续剧的目标受众是13岁至18岁的年轻人。  （）  
+ > 这部电视连续剧的目标受众是13岁至18岁的年轻人。    
 
 
 # ***\*target*** v
@@ -846,11 +857,11 @@ talker /'tɔːkə(r)/ n
 
  > **a simple,task**  
  > a simple / hard / challenging task   
- > 简单的/艰巨的/具有挑战性的任务  （）  
+ > 简单的/艰巨的/具有挑战性的任务    
 
  > **undertake a task**  
  > undertake a task   
- > 承担任务  （）  
+ > 承担任务    
 
 
 # ***\*task-based*** adj
@@ -877,7 +888,7 @@ talker /'tɔːkə(r)/ n
  > 这口井的水味道甘甜。  （2012 四川）  
 
  > His taste is sensitive.  
- > 他的味觉很敏锐。  （）  
+ > 他的味觉很敏锐。    
 
  > My mother is preparing my favorite dishes. Go with me and have a taste, okay?  
  > 我妈妈正在准备我最喜爱的饭菜，跟我一起去尝尝，好吗？  （2009 陕西）  
@@ -886,15 +897,15 @@ talker /'tɔːkə(r)/ n
 
  > **to,taste**  
  > Popular music is not to everyone’s taste.  
- > 并非每个人都喜欢流行音乐。  （）  
+ > 并非每个人都喜欢流行音乐。    
 
  > **developed / acquired a taste for**  
  > He had developed / acquired a taste for travel.   
- > 他喜欢上了旅游。  （）  
+ > 他喜欢上了旅游。    
 
  > **has,taste in**  
  > She has good taste in dressing, I would say.  
- > 我想说，她在穿着方面很有品位。  （）  
+ > 我想说，她在穿着方面很有品位。    
 
 ### 3.*低义频：* **[C] [常用单数] 感受；体验：**  
 
@@ -908,6 +919,7 @@ talker /'tɔːkə(r)/ n
 
 答案：
 1. developed / acquired a taste for  
+
 # ***\*taste*** v  重难点词汇
 英音 teɪst     美音 teɪst  
 
@@ -919,27 +931,27 @@ talker /'tɔːkə(r)/ n
 
  > **tasted better**  
  > The food tasted better than it looked.  
- > 这食物的味道比看上去要好。  （）  
+ > 这食物的味道比看上去要好。    
 
  > **taste like**  
  > What does pumpkin taste like?  
- > 南瓜是什么味道？  （）  
+ > 南瓜是什么味道？    
 
 ### 2.*高义频：* **尝；品尝；[不用于进行时] 尝出...的味道：**  
 
  > He tasted the soup to see if he had put enough salt in it.  
- > 他尝了尝汤，看是否加够了盐。  （）  
+ > 他尝了尝汤，看是否加够了盐。    
 
  > I can taste grape in this bread.  
- > 我能吃出这面包有葡萄味。  （）  
+ > 我能吃出这面包有葡萄味。    
 
 ### 3.*低义频：* **vt 尝到；体验：**  
 
  > He deserves not the sweet that will not taste the sour.  
- > 不愿吃苦，不配享福。  （）  
+ > 不愿吃苦，不配享福。    
 
  > I have never tasted the delights of country life.  
- > 我从未体验过乡村生活的乐趣。  （）  
+ > 我从未体验过乡村生活的乐趣。    
 
 
 真题解析
@@ -948,6 +960,7 @@ talker /'tɔːkə(r)/ n
 
 答案：
 1. tastes  
+
 # ***\*tasteless*** adj
 英音 'teɪstləs     美音 'teɪstləs  
 
@@ -958,12 +971,12 @@ talker /'tɔːkə(r)/ n
 ### 1.*高义频：* **无味的：**  
 
  > tasteless food  
- > 淡而无味的食物  （）  
+ > 淡而无味的食物    
 
 ### 2.*低义频：* **不雅观的；俗气的：**  
 
  > a set of tasteless furniture  
- > 一套俗气的家具  （）  
+ > 一套俗气的家具    
 
 
 # ***\*tasty*** adj
@@ -976,7 +989,7 @@ talker /'tɔːkə(r)/ n
 ### 1.*高义频：* **美味的：**  
 
  > a simple but tasty meal  
- > 简单而美味的菜肴  （）  
+ > 简单而美味的菜肴    
 
 
 # ***\*tattoo*** n
@@ -1000,11 +1013,11 @@ talker /'tɔːkə(r)/ n
 
  > **income,tax**  
  > income / property tax  
- > 所得/财产税  （）  
+ > 所得/财产税    
 
  > **tax on**  
  > lay a tax on sth  
- > 对某物征税  （）  
+ > 对某物征税    
 
 
 # ***\*tax*** vt
@@ -1017,7 +1030,7 @@ talker /'tɔːkə(r)/ n
 ### 1.*高义频：* **征...税：**  
 
  > It is reasonable to tax the rich more heavily than the poor.  
- > 富人课税重于穷人是合理的。  （）  
+ > 富人课税重于穷人是合理的。    
 
 
 # ***\*taxi*** n
@@ -1031,11 +1044,11 @@ talker /'tɔːkə(r)/ n
 
  > **take a taxi**  
  > take a taxi to the station  
- > 乘出租汽车到车站  （）  
+ > 乘出租汽车到车站    
 
  > **by taxi**  
  > go home by taxi  
- > 乘出租汽车回家  （）  
+ > 乘出租汽车回家    
 
 
 # ***\*taxpayer*** n
@@ -1058,10 +1071,10 @@ talker /'tɔːkə(r)/ n
 ### 1.*高义频：* **[U] 茶；茶点：**  
 
  > black / green tea  
- > 红/绿茶  （）  
+ > 红/绿茶    
 
  > make (the) tea  
- > 沏茶  （）  
+ > 沏茶    
 
 
 # ***\*teach*** v  重难点词汇
@@ -1077,23 +1090,23 @@ talker /'tɔːkə(r)/ n
 英译 to give lessons to students in a school, college, university, etc.：
 
  > I would like to teach after graduation.  
- > 毕业后我想教书。  （）  
+ > 毕业后我想教书。    
 
 - teach sb. sth. / teach sth. to sb.:
 
  > She teaches children French. / She teaches French to children.  
- > 她教孩子学法语。  （）  
+ > 她教孩子学法语。    
 
 ### 2.*高义频：* **教**  
 英译 to show sb. how to do sth：
 
  > Can you teach me one of your card tricks?  
- > 你能教我一种纸牌戏法吗？  （）  
+ > 你能教我一种纸牌戏法吗？    
 
 - teach sb (how) to do sth.:
 
  > Who taught you (how) to ride a bicycle?  
- > 是谁教你骑自行车的？  （）  
+ > 是谁教你骑自行车的？    
 
 ### 3.*高义频：* **教导；教育**  
 英译 to make sb. think, feel, or act in a new or different way：
@@ -1109,7 +1122,7 @@ talker /'tɔːkə(r)/ n
 - teach sb + that 从句：
 
  > History teaches us that war is wrong.  
- > 历史告诉我们战争是错误的。  （）  
+ > 历史告诉我们战争是错误的。    
 
 
 固定搭配
@@ -1128,7 +1141,7 @@ talker /'tɔːkə(r)/ n
 ### 1.*高义频：* **[C] 教师：**  
 
  > Experience is the best teacher.  
- > 经验是最好的老师。  （）  
+ > 经验是最好的老师。    
 
 
 # ***\*teaching*** n
@@ -1141,15 +1154,15 @@ talker /'tɔːkə(r)/ n
 ### 1.*高义频：* **[U] 教学 (工作)；教学事业：**  
 
  > teaching methods  
- > 教学方法  （）  
+ > 教学方法    
 
  > She is thinking of going into teaching.  
- > 她在考虑当老师。  （）  
+ > 她在考虑当老师。    
 
 ### 2.*高义频：* **[C] [常用复数] 指导；学说；教义：**  
 
  > the teachings of Confucius and Mencius  
- > 孔孟之道  （）  
+ > 孔孟之道    
 
 
 # ***\*team*** n
@@ -1162,10 +1175,10 @@ talker /'tɔːkə(r)/ n
 ### 1.*高义频：* **[C] [集体名词] 队；组：**  
 
  > The team is / are not playing very well this season.  
- > 该队本赛季表现不佳。  （）  
+ > 该队本赛季表现不佳。    
 
  > The team are driving to the game in their own cars.  
- > 队员们开自己的车去参加比赛。  （）  
+ > 队员们开自己的车去参加比赛。    
 
 
 # ***\*teammate*** n
@@ -1216,24 +1229,24 @@ talker /'tɔːkə(r)/ n
 
  > **tear,to pieces**  
  > tear the letter into / to pieces  
- > 把信撕成碎片  （）  
+ > 把信撕成碎片    
 
  > This paper / cloth tears easily.  
- > 这纸/布一撕就破。  （）  
+ > 这纸/布一撕就破。    
 
  > **tore,open**  
  > Jack tore the package open.  
- > 杰克把包裹撕开。  （）  
+ > 杰克把包裹撕开。    
 
 ### 2.*高义频：* **vt 撕掉：**  
 
  > **tear,from**  
  > When we tear one page from the calender, it means our life has been shortened by one day.  
- > 每当我们从日历上撕下一页纸，就意味着我们的生命又减少了一天。  （）  
+ > 每当我们从日历上撕下一页纸，就意味着我们的生命又减少了一天。    
 
  > **tore,off**  
  > He tore his clothes off and dived into the lake.  
- > 他把衣服从身上扯下，跳进湖里。  （）  
+ > 他把衣服从身上扯下，跳进湖里。    
 
 
 固定搭配
@@ -1242,16 +1255,16 @@ talker /'tɔːkə(r)/ n
 1.**扯下；拆毁：**  
 
  > Tear down the dangerous wall as soon as possible, or sometime it may fall down and injure your family.  
- > 尽早拆除这堵危墙，否则不知什么时候它会倒塌并伤到你的家人。  （）  
+ > 尽早拆除这堵危墙，否则不知什么时候它会倒塌并伤到你的家人。    
 
 ## \*tear up
 1.**撕碎；拔起：**  
 
  > He tore up the letter as soon as he had read it.  
- > 他一看完信就把它撕了。  （）  
+ > 他一看完信就把它撕了。    
 
  > The tree was torn up by the strong wind.  
- > 大风把树连根拔起。  （）  
+ > 大风把树连根拔起。    
 
 
 # ***\*tear*** n
@@ -1279,10 +1292,10 @@ talker /'tɔːkə(r)/ n
 
  > **tease,about**  
  > She used to tease me about my hair.  
- > 她以前经常取笑我的发型。  （）  
+ > 她以前经常取笑我的发型。    
 
  > Don’t take what he said seriously; he was only teasing.  
- > 别拿他的话当真，他不过是在开玩笑。  （）  
+ > 别拿他的话当真，他不过是在开玩笑。    
 
 
 # ***\*technical*** adj
@@ -1295,10 +1308,10 @@ talker /'tɔːkə(r)/ n
 ### 1.*高义频：* **技术的；技术性的：**  
 
  > technical training / support  
- > 技术培训/支持  （）  
+ > 技术培训/支持    
 
  > technical terms  
- > 术语  （）  
+ > 术语    
 
 
 派生词汇
@@ -1335,12 +1348,12 @@ technically /'teknɪkli/ adv
 ### 1.*高义频：* **[C] 技巧：**  
 
  > interview techniques  
- > 面试技巧  （）  
+ > 面试技巧    
 
 ### 2.*高义频：* **[U] 技术；技能：**  
 
  > He’s a great player, with brilliant technique.  
- > 他是个伟大的球员，球技十分精湛。  （）  
+ > 他是个伟大的球员，球技十分精湛。    
 
 
 # ***\*techno*** n
@@ -1375,17 +1388,17 @@ technically /'teknɪkli/ adv
 ### 1.*高义频：* **技术；科技：**  
 
  > environmental / information technology  
- > 环境/信息技术  （）  
+ > 环境/信息技术    
 
  > high technology  
- > 高科技  （）  
+ > 高科技    
 
 
 派生词汇
 ---
 technological /ˌteknə'lɒdʒɪkl/ adj   
  > technological developments / advances   
- > 技术发展/科技进步  （）  
+ > 技术发展/科技进步    
 
 
 # ***\*teen*** n
@@ -1403,11 +1416,11 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 
  > **early / late teens**  
  > early / late teens   
- > 十三四岁/十八九岁  （）  
+ > 十三四岁/十八九岁    
 
  > **in one ’ s teens**  
  > in one ’ s teens  
- > 在某人十几岁时  （）  
+ > 在某人十几岁时    
 
 
 # ***\*teen*** adj
@@ -1452,11 +1465,11 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 ### 1.*高义频：* **青少年时期 (13至19岁的年龄)**  
 
  > be in one’s teens   
- > 某人十几岁时  （）  
+ > 某人十几岁时    
 
  > **early teens**  
  > We moved to London when I was in my early teens.   
- > 我十三四岁时我们家搬到了伦敦。  （）  
+ > 我十三四岁时我们家搬到了伦敦。    
 
 
 # ***\*telecommunication*** n
@@ -1489,11 +1502,11 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 ### 1.*高义频：* **[U] & [C] 电话 (phone)：**  
 
  > a telephone book / directory  
- > 电话(号码)簿  （）  
+ > 电话(号码)簿    
 
  > **on the telephone**  
  > You are wanted on the telephone.  
- > 你的电话。  （）  
+ > 你的电话。    
 
 
 # ***\*telephone*** v
@@ -1508,10 +1521,10 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 ### 1.*高义频：* **(给...) 打电话 (phone / call)：**  
 
  > telephone sb by long distance  
- > 给某人打长途电话  （）  
+ > 给某人打长途电话    
 
  > Telephone to me tomorrow.  
- > 明天打电话给我。  （）  
+ > 明天打电话给我。    
 
 
 # ***\*telescope*** n
@@ -1548,10 +1561,10 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 ### 2.*高义频：* **[U] 电视 (节目)：**  
 
  > watch television  
- > 看电视  （）  
+ > 看电视    
 
  > on (the) television  
- > 在电视上播放；通过电视  （）  
+ > 在电视上播放；通过电视    
 
 
 # ***\*tell*** v  重难点词汇
@@ -1567,70 +1580,70 @@ technological /ˌteknə'lɒdʒɪkl/ adj
 
  > **tell a lie / story / joke**  
  > tell a lie / story / joke  
- > 说谎/讲故事/讲笑话  （）  
+ > 说谎/讲故事/讲笑话    
 
  > tell the truth  
- > 讲真话  （）  
+ > 讲真话    
 
 - tell sb sth / tell sth to sb:
 
  > Did you tell your parents the news? / Did you tell the news to your parents?  
- > 你把这个消息告诉父母了吗？  （）  
+ > 你把这个消息告诉父母了吗？    
 
 - tell sb about / of sth:
 
  > The sailor told us of his many adventures.  
- > 那个水手跟我们谈起他很多的冒险的经历。  （）  
+ > 那个水手跟我们谈起他很多的冒险的经历。    
 
 - tell sb + (that) 从句:
 
  > This picture tells us that we should always look into the future with hope and confidence.  
- > 这幅画告诉我们要一直满怀希望和信心地放眼未来。  （）  
+ > 这幅画告诉我们要一直满怀希望和信心地放眼未来。    
 
 - tell sb + wh- 从句:
 
  > You should tell someone where you’re going before you set out and what time you expect to be back.  
- > 你应该在出发前告诉某个人你要去哪里，以及你什么时候回来。  （）  
+ > 你应该在出发前告诉某个人你要去哪里，以及你什么时候回来。    
 
 ### 2.*高义频：* **vt 吩咐；命令：**  
 
 - tell sb to do sth:
 
  > There is a sign telling the drivers to slow down over there.  
- > 那边有一个让司机减速的指示牌。  （）  
+ > 那边有一个让司机减速的指示牌。    
 
 - tell sb + wh- to do sth:
 
  > Stop trying to tell me what to do all the time.  
- > 别老是对我指手画脚。  （）  
+ > 别老是对我指手画脚。    
 
 - tell sb + (that) 从句：
 
  > The doctor told me that I should eat less candy.  
- > 医生嘱咐我要少吃糖。  （）  
+ > 医生嘱咐我要少吃糖。    
 
 ### 3.*高义频：* **vt 辨别；分辨：**  
 
  > **tell them apart**  
  > The twin brothers are so much alike that you can hardly tell them apart.  
- > 这对孪生兄弟长得很像，你几乎分辨不出谁是谁。  （）  
+ > 这对孪生兄弟长得很像，你几乎分辨不出谁是谁。    
 
  > **tell the difference between**  
  > Can you tell the difference between this picture and that one ?  
- > 你能辨别这幅画和那幅画有什么不同吗？  （）  
+ > 你能辨别这幅画和那幅画有什么不同吗？    
 
  > **tell,from**  
  > It’s easy to tell the expensive wine from the cheap one.  
- > 区分昂贵的葡萄酒和廉价的葡萄酒很简单。  （）  
+ > 区分昂贵的葡萄酒和廉价的葡萄酒很简单。    
 
 ### 4.*高义频：* **vt & vi 断定；说 (出)：**  
 
  > It’s difficult to tell his identity from his appearance.  
- > 很难从他的外表判断他的身份。  （）  
+ > 很难从他的外表判断他的身份。    
 
  > **As far as I can tell**  
  > As far as I can tell, he’s enjoying the course.  
- > 据我判断，他喜欢这门课。  （）  
+ > 据我判断，他喜欢这门课。    
 
 - tell + that / wh- 从句：
 
@@ -1648,6 +1661,7 @@ teller /'telə(r)/ n
 
 答案：
 1. had told  
+
 # ***\*telly*** n
 英音 'teli     美音 'teli  
 
@@ -1671,11 +1685,11 @@ teller /'telə(r)/ n
 
  > **lose / control one’s temper**  
  > lose / control one’s temper  
- > 发/控制脾气  （）  
+ > 发/控制脾气    
 
  > **good-tempered / bad-tempered**  
  > good-tempered / bad-tempered  
- > 脾气好的/不好的  （）  
+ > 脾气好的/不好的    
 
 
 # ***\*temperature*** n
@@ -1689,11 +1703,11 @@ teller /'telə(r)/ n
 
  > **take sb’s temperature**  
  > take sb’s temperature  
- > 给某人量体温  （）  
+ > 给某人量体温    
 
  > **have / be running a temperature**  
  > have / be running a temperature  
- > 发烧  （）  
+ > 发烧    
 
 
 真题解析
@@ -1702,6 +1716,7 @@ teller /'telə(r)/ n
 
 答案：
 1. temperature  
+
 # ***\*temple*** n
 英音 'templ     美音 'templ  
 
@@ -1722,10 +1737,10 @@ teller /'telə(r)/ n
 ### 1.*高义频：* **暂时的；临时的：**  
 
  > temporary employment  
- > 临时雇用  （）  
+ > 临时雇用    
 
  > a temporary job  
- > 临时工作  （）  
+ > 临时工作    
 
 
 派生词汇
@@ -1742,6 +1757,7 @@ D.cautious
 
 答案：
 1. temporary  
+
 # ***\*tend*** vi
 英音 tend     美音 tend  
 
@@ -1755,7 +1771,7 @@ D.cautious
 1.*高义频：* **倾向于；有...的趋势：**  
 
  > The sort of music I listen to varies, but it tends toward light music.  
- > 我所听的音乐形形色色，不过一般都是轻音乐。  （）  
+ > 我所听的音乐形形色色，不过一般都是轻音乐。    
 
 ## \*tend to do sth
 1.*高义频：* **易于做某事；往往会做某事**  
@@ -1781,10 +1797,10 @@ D.cautious
 
  > **tend,to**  
  > tend ( to ) the sick  
- > 护理病人  （）  
+ > 护理病人    
 
  > I would like to tend the store for you while you’re away.  
- > 你不在时我愿意替你照看店铺。  （）  
+ > 你不在时我愿意替你照看店铺。    
 
 
 # ***\*tendency*** n
@@ -1797,15 +1813,15 @@ D.cautious
 ### 1.*高义频：* **趋势；倾向：**  
 
  > display artistic / criminal tendencies  
- > 显示出对艺术的偏好/有犯罪倾向  （）  
+ > 显示出对艺术的偏好/有犯罪倾向    
 
  > **tendency towards,to**  
  > a tendency towards / to regional cooperation  
- > 地区性合作的趋势  （）  
+ > 地区性合作的趋势    
 
  > **has a tendency to**  
  > He has a tendency to forget things.  
- > 他好忘事。  （）  
+ > 他好忘事。    
 
 
 # ***\*tender*** adj
@@ -1818,18 +1834,18 @@ D.cautious
 ### 1.*高义频：* **和善的；温柔的：**  
 
  > tender words / looks  
- > 亲切的话语/表情  （）  
+ > 亲切的话语/表情    
 
 ### 2.*低义频：* **(食物) 嫩的；软的：**  
 反义词 tough 
 
  > Cook for an hour or until the meat is tender.  
- > 煮一小时或煮到肉变软为止。  （）  
+ > 煮一小时或煮到肉变软为止。    
 
 ### 3.*高义频：* **纤弱的：**  
 
  > tender young plants  
- > 娇嫩的幼苗  （）  
+ > 娇嫩的幼苗    
 
 
 # ***\*tennis*** n
@@ -1852,17 +1868,17 @@ D.cautious
 ### 1.*低义频：* **(身体部位) 绷紧的：**  
 
  > a face tense with anxiety  
- > 焦虑紧张的面孔  （）  
+ > 焦虑紧张的面孔    
 
 ### 2.*高义频：* **(神经) 紧张的；担心的：**  
 
  > When exposed to noise and strong light, I feel tense and restless.  
- > 一听到噪音或见到强光我就紧张不安。  （）  
+ > 一听到噪音或见到强光我就紧张不安。    
 
 ### 3.*低义频：* **(形势、事件) 令人紧张的：**  
 
  > a tense political situation  
- > 紧张的政治局势  （）  
+ > 紧张的政治局势    
 
 
 # ***\*tense*** n
@@ -1875,7 +1891,7 @@ D.cautious
 ### 1.*高义频：* **[C] & [U] [语法] 时态：**  
 
  > the present / past / future tense  
- > 现在/过去/将来时  （）  
+ > 现在/过去/将来时    
 
 
 # ***\*tension*** n
@@ -1888,18 +1904,18 @@ D.cautious
 ### 1.*低义频：* **[U] 拉伸；张力；绷紧程度：**  
 
  > The sudden tension on the line told me (that) I had hooked a fish.  
- > 线突然绷紧，说明我钓到鱼了。  （）  
+ > 线突然绷紧，说明我钓到鱼了。    
 
 ### 2.*高义频：* **[U] (情绪上) 紧张；烦躁：**  
 
  > **Ease tension**  
  > Relax yourself. Ease tension by doing exercise.  
- > 放松!做做运动来放松紧张的神经。  （）  
+ > 放松!做做运动来放松紧张的神经。    
 
 ### 3.*高义频：* **[C] & [U] (局势、关系或状况) 紧张：**  
 
  > international tension  
- > 国际紧张局势  （）  
+ > 国际紧张局势    
 
 
 # ***\*tent*** n
@@ -1912,7 +1928,7 @@ D.cautious
 ### 1.*高义频：* **[C] 帐篷：**  
 
  > put up / take down a tent  
- > 搭/拆帐篷  （）  
+ > 搭/拆帐篷    
 
 
 # ***\*tentative*** adj
@@ -1927,17 +1943,17 @@ D.cautious
 反义词 definite 
 
  > a tentative agenda  
- > 暂定的议程  （）  
+ > 暂定的议程    
 
  > **tentative steps**  
  > I’m taking tentative steps towards fitness.  
- > 我正在采取试探性措施来健身。  （）  
+ > 我正在采取试探性措施来健身。    
 
 ### 2.*低义频：* **踌躇的；犹豫的**  
 英译 done without confidence：
 
  > a tentative greeting  
- > 怯声怯气的问候  （）  
+ > 怯声怯气的问候    
 
 
 派生词汇
@@ -1950,6 +1966,7 @@ tentatively /'tentətɪvli/ adv
 
 答案：
 1. tentatively  
+
 # ***\*tentatively*** adv
 英音 'tentətɪvli     美音 'tentətɪvli  
 
@@ -1973,18 +1990,18 @@ tentatively /'tentətɪvli/ adv
 
  > **spring / summer / autumn term**  
  > in the spring / summer / autumn term  
- > 在春季/夏季/秋季学期  （）  
+ > 在春季/夏季/秋季学期    
 
 ### 2.*高义频：* **[C] 时期；期限：**  
 
  > **term in office**  
  > during one’s term in office  
- > 在某人任职期间  （）  
+ > 在某人任职期间    
 
 ### 3.*高义频：* **[C] 术语：**  
 
  > scientific / medical terms  
- > 科学/医学术语  （）  
+ > 科学/医学术语    
 
 
 固定搭配
@@ -2003,10 +2020,10 @@ tentatively /'tentətɪvli/ adv
 ### 1.*高义频：* **末期的；终点的；最终的：**  
 
  > a terminal cancer  
- > 癌症晚期  （）  
+ > 癌症晚期    
 
  > a terminal examination  
- > 期末考试  （）  
+ > 期末考试    
 
 
 # ***\*terminal*** n
@@ -2019,12 +2036,12 @@ tentatively /'tentətɪvli/ adv
 ### 1.*低义频：* **航站楼：**  
 
  > Passengers are conveyed by bus to the air terminal.  
- > 公共汽车载乘客前往航站楼。  （）  
+ > 公共汽车载乘客前往航站楼。    
 
 ### 2.*低义频：* **终点 (站)；末端：**  
 
  > a bus terminal  
- > 公共汽车终点站  （）  
+ > 公共汽车终点站    
 
 ### 3.*高义频：* **[计算机] 终端；终端机**  
 
@@ -2064,6 +2081,7 @@ D.In face of
 
 答案：
 1. A  
+
 # ***\*terrace*** n
 英音 'terəs     美音 'terəs  
 
@@ -2085,7 +2103,7 @@ D.In face of
 英译 making you feel afraid or shocked：
 
  > a terrible experience / nightmare  
- > 令人不悦的经历/噩梦  （）  
+ > 令人不悦的经历/噩梦    
 
  > Envy is a most terrible thing, and would spoil anybody’s nature.  
  > 嫉妒是很可怕的东西，它会毁坏人的天性。  （—— 王尔德）  
@@ -2093,18 +2111,18 @@ D.In face of
 ### 2.*高义频：* **厉害的；猛烈的；非常严重的 (horrible / awful)：**  
 
  > a terrible storm / accident  
- > 猛烈的暴风雨/重大事故  （）  
+ > 猛烈的暴风雨/重大事故    
 
  > I’d got a terrible flu, so I just stayed in bed.  
- > 我患了重感冒，所以卧床休息。  （）  
+ > 我患了重感冒，所以卧床休息。    
 
 ### 3.*高义频：* **[非正式用语] 坏透的；很糟的：**  
 
  > — How do you like the food here?  
- > 你觉得这里的饭菜怎么样?  （）  
+ > 你觉得这里的饭菜怎么样?    
 
  > — Well, the rice is terrible, but the vegetable soup is OK.  
- > 嗯，米饭很难吃，但是蔬菜汤还不错。  （）  
+ > 嗯，米饭很难吃，但是蔬菜汤还不错。    
 
 
 # ***\*terribly*** adv
@@ -2117,7 +2135,7 @@ D.In face of
 ### 1.*高义频：* **[口语] 非常；很：**  
 
  > Oh, I’m terribly sorry about that.  
- > 哦，对那件事我很抱歉。  （）  
+ > 哦，对那件事我很抱歉。    
 
  > He was terribly excited on the morning of that day as customers began arriving.  
  > 那天早晨客人们陆续到达，他很兴奋。  （2009 天津）  
@@ -2151,7 +2169,7 @@ D.In face of
 - (be) terrified at / by / with:
 
  > We were terrified at the deafening explosion.  
- > 我们被震耳欲聋的爆炸声吓了一跳。  （）  
+ > 我们被震耳欲聋的爆炸声吓了一跳。    
 
 
 派生词汇
@@ -2181,12 +2199,12 @@ terrifying /'terɪfaɪŋ/ adj
 
  > **enemy / foreign territory**  
  > enemy / foreign territory  
- > 敌方/外国领土  （）  
+ > 敌方/外国领土    
 
 ### 2.*低义频：* **(具有某种特性的) 地区；区域：**  
 
  > a sales territory   
- > 销售地区  （）  
+ > 销售地区    
 
 
 # ***\*terror*** n
@@ -2200,16 +2218,16 @@ terrifying /'terɪfaɪŋ/ adj
 
  > **flee in terror**  
  > flee in terror  
- > 仓皇逃走  （）  
+ > 仓皇逃走    
 
  > **in terror of**  
  > The student was in terror of the teacher, who had always been hard on him.  
- > 那个学生对老师怕得要命，老师一贯对他很严厉。  （）  
+ > 那个学生对老师怕得要命，老师一贯对他很严厉。    
 
 ### 2.*低义频：* **[C] 引起恐怖的人 / 物：**  
 
  > These street gangs have become the terror of the neighbourhood.  
- > 这些街头团伙使得周围邻居谈之色变。  （）  
+ > 这些街头团伙使得周围邻居谈之色变。    
 
 
 派生词汇
@@ -2237,11 +2255,11 @@ terrorist /'terərɪst/ n
 ### 1.*高义频：* **测验；检验；考验：**  
 
  > test sb’s hearing  
- > 检查某人的听力  （）  
+ > 检查某人的听力    
 
  > **tested,on**  
  > He tested his students on reading.  
- > 他测试了学生的阅读能力。  （）  
+ > 他测试了学生的阅读能力。    
 
  > I have come to test their bravery with a little game.  
  > 我最终用小游戏考验了他们的勇气。  （北师大⑤ – 5）  
@@ -2262,21 +2280,21 @@ terrorist /'terərɪst/ n
 ### 1.*高义频：* **测验；考查；(身体上的) 检查：**  
 
  > an IQ test  
- > 智商测验  （）  
+ > 智商测验    
 
  > give / take a test  
- > 举行/参加测验  （）  
+ > 举行/参加测验    
 
  > an eye test  
- > 视力检查  （）  
+ > 视力检查    
 
 ### 2.*高义频：* **试验；检验：**  
 
  > a nuclear test  
- > 核试验  （）  
+ > 核试验    
 
  > Practice is the only reliable test of a theory.  
- > 实践是检验真理的唯一标准。  （）  
+ > 实践是检验真理的唯一标准。    
 
 
 # ***\*tetrahedron*** n
@@ -2311,7 +2329,7 @@ terrorist /'terərɪst/ n
 ### 1.*高义频：* **(用手机给...) 发短消息：**  
 
  > text a message  
- > 发短信  （）  
+ > 发短信    
 
 
 # ***\*textbook*** n
@@ -2324,7 +2342,7 @@ terrorist /'terərɪst/ n
 ### 1.*高义频：* **[C] 课本；教科书：**  
 
  > Difficult circumstances serve as a textbook of life for people.  
- > 困境是人生的教科书。  （）  
+ > 困境是人生的教科书。    
 
 
 # ***\*than*** conj & prep
@@ -2337,7 +2355,7 @@ terrorist /'terərɪst/ n
 ### 1.*高义频：* **比：**  
 
  > Easier said than done.  
- > 说起来容易做起来难。  （）  
+ > 说起来容易做起来难。    
 
  > He is recovering faster than expected and will be out of hospital in a few weeks.  
  > 他身体恢复比预期的要快，几周后就可以出院。  （2009 陕西）  
@@ -2346,7 +2364,7 @@ terrorist /'terərɪst/ n
  > 对我来说，没有比你的支持更大的回报了。  （2009 湖北）  
 
  > What I learned from the job was much more important than what I earned.  
- > 我在工作中所学到的比所赚到的要重要得多。  （）  
+ > 我在工作中所学到的比所赚到的要重要得多。    
 
 
 固定搭配
@@ -2381,12 +2399,12 @@ terrorist /'terərɪst/ n
 
  > **thank heavens / goodness**  
  > thank heavens / goodness  
- > 谢天谢地  （）  
+ > 谢天谢地    
 
 - thank sb for (doing) sth:
 
  > I’d like to thank her in my speech for all her support.  
- > 我想在演讲中对她的所有支持表示感谢。  （）  
+ > 我想在演讲中对她的所有支持表示感谢。    
 
 ## \*have sb to thank (for)
 1.**(因…) 感谢某人：**  
@@ -2403,11 +2421,14 @@ A.Yes, please
 B.No, thank you  
 C.Yes, you can  
 D.No, you needn’t  
+
 2. — Bruce, I really appreciate your handwriting.
 — ________ (非常感谢).   （2009 福建改）  
 
 答案：
-1. B  2. Thank you / Thanks very much / Thanks a lot  
+1. B  
+2. Thank you / Thanks very much / Thanks a lot  
+
 # ***\*thank*** n
 英音 θæŋk     美音 θæŋk  
 
@@ -2438,10 +2459,10 @@ D.No, you needn’t
 
  > **thankful for**  
  > We must be thankful for small mercies.  
- > 对小小的恩惠我们也必须心存感激。  （）  
+ > 对小小的恩惠我们也必须心存感激。    
 
  > My mother is thankful that I have won the scholarship.  
- > 我获得了奖学金，妈妈很欣慰。  （）  
+ > 我获得了奖学金，妈妈很欣慰。    
 
 
 派生词汇
@@ -2454,6 +2475,7 @@ thankfully /'θæŋkfəli/ adv
 
 答案：
 1. Thankfully  
+
 # ***\*thankfully*** adv
 英音 'θæŋkfəli     美音 'θæŋkfəli  
 
@@ -2488,10 +2510,10 @@ thankfully /'θæŋkfəli/ adv
 - [用作指示代词] 那；那个：
 
  > Which do you prefer, this or that?  
- > 你喜欢哪一个，这个还是那个？  （）  
+ > 你喜欢哪一个，这个还是那个？    
 
  > Is that you, John?  
- > [打电话用语]约翰，是你吗？  （）  
+ > [打电话用语]约翰，是你吗？    
 
 - [用来代替前面提到的单词、短语或从句，避免重复]：
 
@@ -2499,12 +2521,12 @@ thankfully /'θæŋkfəli/ adv
  > 美国英语和英国英语只有一些细微的差别。  （2008 全国）  
 
  > Her mom was ill. That’s why she couldn’t come to the party.  
- > 她母亲生病了，所以她不能来参加聚会。  （）  
+ > 她母亲生病了，所以她不能来参加聚会。    
 
 - [用作关系代词，引导定语从句]：
 
  > The books (that) you lent me are very useful.  
- > 你借给我的那些书很有用。  （）  
+ > 你借给我的那些书很有用。    
 
 
 # ***\*that*** adj
@@ -2522,7 +2544,7 @@ thankfully /'θæŋkfəli/ adv
 ### 2.*低义频：* **那样的；如此的：**  
 
  > He was angry to that degree that he turned pale.  
- > 他怒火中烧，脸色苍白。  （）  
+ > 他怒火中烧，脸色苍白。    
 
 
 # ***\*that*** adv
@@ -2535,7 +2557,7 @@ thankfully /'θæŋkfəli/ adv
 ### 1.*高义频：* **那么；那样：**  
 
  > I’m sorry. I hadn’t realized the situation was that bad.  
- > 很抱歉，我没有意识到情况会那么糟糕。  （）  
+ > 很抱歉，我没有意识到情况会那么糟糕。    
 
 
 # ***\*that*** conj
@@ -2558,7 +2580,7 @@ thankfully /'θæŋkfəli/ adv
  > 飞机失事的消息让我们很难过。  （译林③ – 1）  
 
  > That he lost the match surprised us.  
- > 他输了比赛，我们很吃惊。  （）  
+ > 他输了比赛，我们很吃惊。    
 
  > The manager put forward a suggestion that we should have an assistant.  
  > 经理提出一个建议，我们应该招一个助理。  （2016 天津）  
@@ -2566,10 +2588,10 @@ thankfully /'θæŋkfəli/ adv
 - 引导状语从句，表示原因、目的、结果等：
 
  > Speak louder (so) that I can hear you.  
- > 大声点说，好让我听见。  （）  
+ > 大声点说，好让我听见。    
 
  > What was the matter with him that he looked so unhappy?  
- > 出了什么事，他看起来这么不高兴？  （）  
+ > 出了什么事，他看起来这么不高兴？    
 
 - 用于强调结构“it is / was ... that …”中：
 
@@ -2577,7 +2599,7 @@ thankfully /'θæŋkfəli/ adv
  > 伊丽莎白是在新西兰初遇史密斯先生的。  （2008 全国）  
 
  > It’s not doing the things we like, but liking the things we have to do that makes life happy.  
- > 生活的快乐不在于做自己喜欢的事，而在于喜欢自己不得不做的事。  （）  
+ > 生活的快乐不在于做自己喜欢的事，而在于喜欢自己不得不做的事。    
 
 
 固定搭配
@@ -2586,19 +2608,28 @@ thankfully /'θæŋkfəli/ adv
 1.**在…这一点上；因为：**  
 
  > We all long for sincere friendship in that it can deeply influence our lives.  
- > 我们都渴望真诚的友谊，因为它对我们的生活会产生深刻的影响。  （）  
+ > 我们都渴望真诚的友谊，因为它对我们的生活会产生深刻的影响。    
 
 
 真题解析
 ---
 1. In many ways, the education system in the US is not very different from ________ in the UK.  （2016 浙江改）  
+
 2. The most pleasant thing of the rainy season is ________ one can be entirely free from dust.  （2016 北京改）  
+
 3. It is often the case________ anything is possible for those who hang on to hope.  （2016 江苏改）  
+
 4. You are waiting at a wrong place. It is at the hotel________ the coach picks up tourists.  （2016 天津改）  
+
 5. I truly believe________ beauty comes from within.  （2015 北京改）  
 
 答案：
-1. that  2. that  3. that  4. that  5. that  
+1. that  
+2. that  
+3. that  
+4. that  
+5. that  
+
 # ***\*the*** art
 英音 ðə     美音 ðə  
 
@@ -2610,121 +2641,132 @@ thankfully /'θæŋkfəli/ adv
 - 
 
  > This is the house where Lu Xun once lived.  
- > 这是鲁迅曾经住过的房子。  （）  
+ > 这是鲁迅曾经住过的房子。    
 
  > What is the title of the book?  
- > 这本书的书名是什么？  （）  
+ > 这本书的书名是什么？    
 
 - 
 
  > the sun  
- > 太阳  （）  
+ > 太阳    
 
 - 
 
  > the wind / north  
- > 风/北  （）  
+ > 风/北    
 
 - 
 
  > play the piano / violin  
- > 弹钢琴/拉小提琴  （）  
+ > 弹钢琴/拉小提琴    
 
 - 
 
  > The horse is a useful animal.  
- > 马是有用的动物。  （）  
+ > 马是有用的动物。    
 
 - 
 
  > the people / Americans  
- > 人民/美国人  （）  
+ > 人民/美国人    
 
 - 
 
  > The Wangs have moved into the new house.  
- > 王家搬入了新居。  （）  
+ > 王家搬入了新居。    
 
 - 
 
  > the Yangtze River   
- > 长江  （）  
+ > 长江    
 
 - 
 
  > the Tianshan Mountains  
- > 天山山脉  （）  
+ > 天山山脉    
 
  > the Philippine Islands  
- > 菲律宾群岛  （）  
+ > 菲律宾群岛    
 
 - 
 
  > the University of Leeds  
- > 利兹大学  （）  
+ > 利兹大学    
 
 - 
 
  > the Queen Maria  
- > 玛丽皇后号  （）  
+ > 玛丽皇后号    
 
  > the British Museum  
- > 大英博物馆  （）  
+ > 大英博物馆    
 
 - 
 
  > The New York Times  
- > 《纽约时报》  （）  
+ > 《纽约时报》    
 
  > The Times  
- > 《泰晤士报》  （）  
+ > 《泰晤士报》    
 
 - 
 
  > the pure, the good and the beautiful  
- > 真、善、美  （）  
+ > 真、善、美    
 
 - 
 
  > the old and the young  
- > 老人和青年  （）  
+ > 老人和青年    
 
  > the unemployed  
- > 失业者  （）  
+ > 失业者    
 
 - 
 
  > That is the highest mountain in the world.  
- > 那是世界上最高的山。  （）  
+ > 那是世界上最高的山。    
 
  > Tom is the elder of the two brothers.  
- > 兄弟两人中汤姆年龄较大。  （）  
+ > 兄弟两人中汤姆年龄较大。    
 
 - 
 
  > in the seventies of the twentieth century  
- > 在20世纪70年代  （）  
+ > 在20世纪70年代    
 
  > a man in the / his fifties  
- > 50多岁的男子  （）  
+ > 50多岁的男子    
 
 - 
 
  > buy at ten dollars by the kilogram  
- > 以每千克10美元的价格买入  （）  
+ > 以每千克10美元的价格买入    
 
 
 真题解析
 ---
 1. ________ prize for the winner of the competition is ________ two-week holiday in Paris.  （2016 浙江改）  
+
 2. __________ more learned a man is, __________ more modest he usually becomes.   （2015 陕西改）  
+
 3. They chose Tom to be ________ captain of the team because they knew he was ________ smart leader.  （2014 江西改）  
+
 4. Marco Polo is said to have sailed on ________ Pacific Ocean on his way to Java in ________ thirteenth century.  （2013 陕西改）  
+
 5. Sarah looked at ________ finished painting with ________ satisfaction.  （2012 全国改）  
+
 6. As is known to all, ________ People’s Republic of China is ________ biggest developing country in the world.  （2011 陕西改）  
 
 答案：
-1. The; a  2. The; the  3. the; a  4. the; the  5. the; 不填  6. the; the  
+1. The; a  
+2. The; the  
+3. the; a  
+4. the; the  
+5. the; 不填  
+6. the; the  
+
 # ***\*theater*** n
 英音 'θɪətə(r)     美音 'θiːətər  
 
@@ -2735,10 +2777,10 @@ thankfully /'θæŋkfəli/ adv
 ### 1.*高义频：* **[C] 戏院；剧院；戏剧：**  
 
  > go to the theatre  
- > 去看戏  （）  
+ > 去看戏    
 
  > I like music, theatre and cinema.  
- > 我喜欢音乐、戏剧和电影。  （）  
+ > 我喜欢音乐、戏剧和电影。    
 
 
 # ***\*theatre*** n
@@ -2751,10 +2793,10 @@ thankfully /'θæŋkfəli/ adv
 ### 1.*高义频：* **[C] 戏院；剧院；戏剧：**  
 
  > go to the theatre  
- > 去看戏  （）  
+ > 去看戏    
 
  > I like music, theatre and cinema.  
- > 我喜欢音乐、戏剧和电影。  （）  
+ > 我喜欢音乐、戏剧和电影。    
 
 
 # ***\*thee*** pron
@@ -2777,7 +2819,7 @@ thankfully /'θæŋkfəli/ adv
 ### 1.*高义频：* **[C] & [U] 偷窃；盗窃罪：**  
 
  > car theft  
- > 盗窃汽车  （）  
+ > 盗窃汽车    
 
 
 # ***\*their*** pron
@@ -2790,12 +2832,12 @@ thankfully /'θæŋkfəli/ adv
 ### 1.*高义频：* **[形容词性物主代词，用于名词前] 他们的；她们的；它们的：**  
 
  > They have a house of their own.  
- > 他们有自己的房子。  （）  
+ > 他们有自己的房子。    
 
 ### 2.*高义频：* **[用作one, whoever, everyone或anyone 等代词的所有格] 他的；她的：**  
 
  > Let us give everybody their due.  
- > 让我们公平对待每个人。  （）  
+ > 让我们公平对待每个人。    
 
 
 # ***\*theirs*** pron
@@ -2810,7 +2852,7 @@ thankfully /'θæŋkfəli/ adv
 ### 1.*高义频：* **他们的；她们的；它们的：**  
 
  > She managed to hold on to her job when several of her colleagues lost theirs.  
- > 她的几位同事都失业了，而她却设法保住了自己的职位。  （）  
+ > 她的几位同事都失业了，而她却设法保住了自己的职位。    
 
 
 # ***\*them*** pron
@@ -2823,7 +2865,7 @@ thankfully /'θæŋkfəli/ adv
 ### 1.*高义频：* **[they的宾格] 他们；她们；它们：**  
 
  > I know both of them.  
- > 他们两个我都认识。  （）  
+ > 他们两个我都认识。    
 
 
 # ***\*theme*** n
@@ -2840,7 +2882,7 @@ thankfully /'θæŋkfəli/ adv
 
  > **theme park**  
  > Disneyland is the world’s biggest theme park.  
- > 迪士尼乐园是世界上最大的主题公园。  （）  
+ > 迪士尼乐园是世界上最大的主题公园。    
 
 
 # ***\*themselves*** pron
@@ -2853,12 +2895,12 @@ thankfully /'θæŋkfəli/ adv
 ### 1.*高义频：* **他们自己；她们自己；它们本身：**  
 
  > The object of educators is to prepare the young to educate themselves throughout their lives.  
- > 教育工作者的目标是让青年人毕生进行自我教育。  （）  
+ > 教育工作者的目标是让青年人毕生进行自我教育。    
 
 ### 2.*高义频：* **[用于加强语气] 亲自：**  
 
  > Doctors themselves are the first to admit the treatment has side effects.  
- > 医生们自己最先承认这种治疗有副作用。  （）  
+ > 医生们自己最先承认这种治疗有副作用。    
 
 
 真题解析
@@ -2867,6 +2909,7 @@ thankfully /'θæŋkfəli/ adv
 
 答案：
 1. themselves  
+
 # ***\*then*** adv
 英音 ðen     美音 ðen  
 
@@ -2878,25 +2921,25 @@ thankfully /'θæŋkfəli/ adv
 
  > **Just then**  
  > Just then she opened her eyes and gave him a smile.  
- > 正好那时她睁开眼睛冲他微笑了一下。  （）  
+ > 正好那时她睁开眼睛冲他微笑了一下。    
 
  > We shall have left school then.  
- > 到那时我们就毕业了。  （）  
+ > 到那时我们就毕业了。    
 
 ### 2.*高义频：* **然后；接着：**  
 
  > Byron travelled to Italy and then to Greece.  
- > 拜伦先去意大利旅行，然后去了希腊。  （）  
+ > 拜伦先去意大利旅行，然后去了希腊。    
 
 ### 3.*高义频：* **那么：**  
 
  > If I expect you to be punctual, then I should be punctual first.  
- > 如果我要求你准时，那么首先我就应该准时。  （）  
+ > 如果我要求你准时，那么首先我就应该准时。    
 
 ### 4.*低义频：* **另外；还有：**  
 
  > She has been very busy at work and then there was all that trouble with her son.  
- > 她工作一直很忙，另外还有儿子的一大堆麻烦事。  （）  
+ > 她工作一直很忙，另外还有儿子的一大堆麻烦事。    
 
 
 # ***\*then*** n
@@ -2909,13 +2952,13 @@ thankfully /'θæŋkfəli/ adv
 ### 1.*高义频：* **[U] 那时：**  
 
  > by then  
- > 到那时  （）  
+ > 到那时    
 
  > from then on  
- > 从那时起  （）  
+ > 从那时起    
 
  > since then  
- > 自那时以来  （）  
+ > 自那时以来    
 
 
 # ***\*theoretical*** adj
@@ -2939,17 +2982,17 @@ thankfully /'θæŋkfəli/ adv
 
  > **theory of**  
  > Darwin’s theory of evolution  
- > 达尔文的进化论  （）  
+ > 达尔文的进化论    
 
 ### 2.*高义频：* **[U] 理论；原理：**  
 
  > combine theory with practice  
- > 把理论和实践相结合  （）  
+ > 把理论和实践相结合    
 
 ### 3.*高义频：* **[C] 推测：**  
 
  > I have this theory that most people prefer being at work to being at home.  
- > 依我看，大多数人喜欢工作而不愿意呆在家里。  （）  
+ > 依我看，大多数人喜欢工作而不愿意呆在家里。    
 
 
 固定搭配
@@ -2958,7 +3001,7 @@ thankfully /'θæŋkfəli/ adv
 1.**理论上：**  
 
  > It sounds fine in theory, but will it work?  
- > 理论上讲这是不错，但能否行得通?  （）  
+ > 理论上讲这是不错，但能否行得通?    
 
 
 # ***\*there*** int
@@ -2971,7 +3014,7 @@ thankfully /'θæŋkfəli/ adv
 ### 1.*高义频：* **[表示安慰等] 瞧；你看；好啦：**  
 
  > There, there, don’t cry.  
- > 好啦，好啦，别哭了。  （）  
+ > 好啦，好啦，别哭了。    
 
 
 # ***\*there*** adv
@@ -2984,7 +3027,7 @@ thankfully /'θæŋkfəli/ adv
 ### 1.*高义频：* **在那里；到那里；往那里：**  
 
  > We went on to Paris and stayed there eleven days.  
- > 我们接着去了巴黎，在那里待了11天。  （）  
+ > 我们接着去了巴黎，在那里待了11天。    
 
 ### 2.*高义频：* **[与动词be连用表示存在]：**  
 
@@ -3005,7 +3048,7 @@ thankfully /'θæŋkfəli/ adv
  > 在冰川底部生活着一种小鱼。  （2008 辽宁改）  
 
  > There remains a chance that Fred might still turn up alive.  
- > 弗雷德仍有可能活着回来。  （）  
+ > 弗雷德仍有可能活着回来。    
 
 ### 4.*低义频：* **[用以引起注意、加强语气等]：**  
 
@@ -3013,15 +3056,15 @@ thankfully /'θæŋkfəli/ adv
  > 看，我们其余的客人来了！  （2010 江苏）  
 
  > There he comes now.  
- > 瞧，他来了。  （）  
+ > 瞧，他来了。    
 
  > There goes the phone.  
- > 电话铃响了。  （）  
+ > 电话铃响了。    
 
 ### 5.*低义频：* **在那一点上：**  
 
  > There I disagree with you.  
- > 在那点上我不同意你的看法。  （）  
+ > 在那点上我不同意你的看法。    
 
 
 固定搭配
@@ -3030,13 +3073,13 @@ thankfully /'θæŋkfəli/ adv
 1.**在那里：**  
 
  > Who is the man standing over there?  
- > 站在那边的那个人是谁？  （）  
+ > 站在那边的那个人是谁？    
 
 ## \*be (always) there (for sb)
 1.**[口语] 给予支持或援助：**  
 
  > My father was always there for me with good advice.  
- > 我父亲总能给我好建议。  （）  
+ > 我父亲总能给我好建议。    
 
 
 真题解析
@@ -3049,6 +3092,7 @@ D.There remains
 
 答案：
 1. D  
+
 # ***\*therefore*** adv
 英音 'ðeəfɔː(r)     美音 'ðerfɔːr  
 
@@ -3071,6 +3115,7 @@ D.There remains
 
 答案：
 1. therefore  
+
 # ***\*thermometer*** n
 英音 θə'mɒmɪtə(r)     美音 θər'mɑːmɪtər  
 
@@ -3101,10 +3146,10 @@ D.There remains
 ### 1.*高义频：* **这些；以下这些：**  
 
  > We can’t read these signs at night.  
- > 我们在夜间不能辨认出这些标识。  （）  
+ > 我们在夜间不能辨认出这些标识。    
 
  > What I want to say is about these two topics: the protection of the environment and the importance of action.  
- > 我将就以下两个话题进行发言：环境保护和行动的重要性。  （）  
+ > 我将就以下两个话题进行发言：环境保护和行动的重要性。    
 
 
 # ***\*these*** pron
@@ -3117,7 +3162,7 @@ D.There remains
 ### 1.*高义频：* **这些：**  
 
  > We’ll discuss these in detail below.  
- > 我们将在下面详细讨论这些。  （）  
+ > 我们将在下面详细讨论这些。    
 
 
 # ***\*they*** pron
@@ -3132,15 +3177,15 @@ D.There remains
 ### 2.*高义频：* **人们：**  
 
  > They say he is a great painter.  
- > 人们说他是个伟大的画家。  （）  
+ > 人们说他是个伟大的画家。    
 
 ### 3.*高义频：* **他；她：**  
 
  > Nobody ever admits that they are to blame.  
- > 没有人承认自己应负有责任。  （）  
+ > 没有人承认自己应负有责任。    
 
  > Stay here and you’ll be able to see everybody as they come in.  
- > 呆在这儿，这样无论谁进来你都能看见。  （）  
+ > 呆在这儿，这样无论谁进来你都能看见。    
 
 
 # ***\*thick*** adj
@@ -3154,32 +3199,32 @@ D.There remains
 反义词 thin 
 
  > thick paper  
- > 厚纸  （）  
+ > 厚纸    
 
  > **feet thick**  
  > The snow is two feet thick.  
- > 雪有两英尺厚。  （）  
+ > 雪有两英尺厚。    
 
  > a thick line  
- > 粗线  （）  
+ > 粗线    
 
 ### 2.*高义频：* **浓密的；茂密的；密集的：**  
 
  > **thick fog**  
  > a thick fog  
- > 浓雾  （）  
+ > 浓雾    
 
  > Much of this beautiful, mountainous area is thick forest.  
  > 这片美丽的山区很大一部分是茂密的森林。  （人教⑥ – 5）  
 
  > **thick with**  
  > The hall is thick with students.  
- > 大厅里挤满了学生。  （）  
+ > 大厅里挤满了学生。    
 
 ### 3.*低义频：* **浓重的( strong)：**  
 
  > a thick Russian accent  
- > 浓重的俄罗斯口音  （）  
+ > 浓重的俄罗斯口音    
 
 
 派生词汇
@@ -3207,24 +3252,24 @@ thickness /'θɪknəs/ n
 ### 1.*高义频：* **薄的；细的 反 thick；瘦的 反 fat：**  
 
  > a thin blouse  
- > 薄薄的女衬衫  （）  
+ > 薄薄的女衬衫    
 
  > a thin stick / line  
- > 细棍/线  （）  
+ > 细棍/线    
 
  > thin arms / fingers  
- > 纤细的胳膊/手指  （）  
+ > 纤细的胳膊/手指    
 
 ### 2.*高义频：* **稀疏的；淡的；稀薄的：**  
 
  > a thin audience in the hall  
- > 礼堂中寥寥无几的观众  （）  
+ > 礼堂中寥寥无几的观众    
 
  > thin blue  
- > 淡蓝  （）  
+ > 淡蓝    
 
  > thin air  
- > 稀薄的空气  （）  
+ > 稀薄的空气    
 
 
 # ***\*thin-faced*** adj
@@ -3247,22 +3292,22 @@ thickness /'θɪknəs/ n
 ### 1.*高义频：* **物；东西：**  
 
  > I couldn’t see a thing in the thick fog.  
- > 在浓雾中我什么也看不见。  （）  
+ > 在浓雾中我什么也看不见。    
 
 ### 2.*高义频：* **事情；事物；事件(matter)：**  
 
  > do the right / wrong thing  
- > 做正确的/错误的事情  （）  
+ > 做正确的/错误的事情    
 
 ### 3.*高义频：* **[常用复数] 情况；形势：**  
 
  > How are things (with you)?  
- > 近来怎么样？  （）  
+ > 近来怎么样？    
 
 ### 4.*高义频：* **[常用复数] (个人的) 所有物；用品；财产：**  
 
  > Take your things and go.  
- > 带上你的东西走吧。  （）  
+ > 带上你的东西走吧。    
 
 
 固定搭配
@@ -3286,14 +3331,14 @@ thickness /'θɪknəs/ n
 ### 1.*高义频：* **vt & vi 想；思考：**  
 
  > Mary may not say, but she thinks a lot.  
- > 玛丽可能不说什么，但她想得很多。  （）  
+ > 玛丽可能不说什么，但她想得很多。    
 
  > If you don’t learn to think when you are young, you may never learn.  
  > 如果你年轻时没有学会思考，那就永远学不会思考。  （—— 爱迪生）  
 
  > **Think twice before**  
  > Think twice before you do.  
- > 三思而后行。  （）  
+ > 三思而后行。    
 
  > **thought to myself**  
  > I thought to myself, “If he can do it, then so can I.”   
@@ -3303,7 +3348,7 @@ thickness /'θɪknəs/ n
 
  > **it was thought that**  
  > Until 1954 it was thought that no man could run one mile in less than four minutes.  
- > 1954年以前，人们认为没人能在4分钟内跑完1英里。  （）  
+ > 1954年以前，人们认为没人能在4分钟内跑完1英里。    
 
  > **are thought to**  
  > The fats in fish are thought to help prevent heart disease.  
@@ -3311,20 +3356,20 @@ thickness /'θɪknəs/ n
 
  > **I don’t think so**  
  > I don’t think so. / I think not.  
- > 我认为并非如此。  （）  
+ > 我认为并非如此。    
 
 ### 3.*高义频：* **vt & vi 料想；猜想；想象：**  
 
  > I can’t think how she could figure out all the problems in an hour.  
- > 我想不出她是如何在一个小时之内算出所有题的。  （）  
+ > 我想不出她是如何在一个小时之内算出所有题的。    
 
  > The plan may prove better than you think.  
- > 这个计划可能比你预想的要好。  （）  
+ > 这个计划可能比你预想的要好。    
 
 ### 4.*低义频：* **vt 记忆；想起：**  
 
  > He was trying to think where he’d seen her before.  
- > 他在努力回想以前在哪儿见过她。  （）  
+ > 他在努力回想以前在哪儿见过她。    
 
 
 固定搭配
@@ -3339,16 +3384,16 @@ thickness /'θɪknəs/ n
 1.**对…高度评价：**  
 
  > We should think highly of him, because he always put others’ interest first.  
- > 我们应该对他高度评价，因为他总是把别人的利益放在首位。  （）  
+ > 我们应该对他高度评价，因为他总是把别人的利益放在首位。    
 
 ## \*think of
 1.*高义频：* **考虑；关心：**  
 
  > I’m thinking of taking a trip during the Christmas holidays.  
- > 我正在考虑圣诞假期出门旅行。  （）  
+ > 我正在考虑圣诞假期出门旅行。    
 
  > He never thinks of anyone but himself.  
- > 除了自己，他从不关心任何人。  （）  
+ > 除了自己，他从不关心任何人。    
 
 2.*高义频：* **想出；想起**  
 英译 to remember sth：
@@ -3359,28 +3404,28 @@ thickness /'θɪknəs/ n
 3.*高义频：* **认为...适合：**  
 
  > Many people thought of Mr Jackson for the president.  
- > 许多人认为杰克逊先生适合做总裁。  （）  
+ > 许多人认为杰克逊先生适合做总裁。    
 
 ## \*think of ... as ...
 1.**把…看作…；认为…是…：**  
 
  > I thought of reading as natural as breathing.  
- > 我把阅读看成如呼吸一样自然的事。  （）  
+ > 我把阅读看成如呼吸一样自然的事。    
 
  > I think of him as a happy person with many friends.  
- > 我认为他是个快乐的、有许多朋友的人。  （）  
+ > 我认为他是个快乐的、有许多朋友的人。    
 
 ## \*think over
 1.**仔细考虑：**  
 
  > I’ll think over your suggestions, and let you know my decision in a day or two.  
- > 我会慎重考虑你的建议，并在一两天内把我的决定告诉你。  （）  
+ > 我会慎重考虑你的建议，并在一两天内把我的决定告诉你。    
 
 ## \*think up
 1.**想出：**  
 
  > I wish I could think up some ways of convincing them of their mistakes.  
- > 但愿我能想出一些方法，使他们相信自己错了。  （）  
+ > 但愿我能想出一些方法，使他们相信自己错了。    
 
 
 派生词汇
@@ -3398,6 +3443,7 @@ D.I don’t think so
 
 答案：
 1. D  
+
 # ***\*thinker*** n
 英音 'θɪŋkə(r)     美音 'θɪŋkər  
 
@@ -3418,10 +3464,10 @@ D.I don’t think so
 ### 1.*高义频：* **[U] 思想；见解：**  
 
  > One’s thinking directs one’s actions.  
- > 思想指导行动。  （）  
+ > 思想指导行动。    
 
  > What’s your thinking on this question?  
- > 你对此事有何见解？  （）  
+ > 你对此事有何见解？    
 
 
 # ***\*thirst*** n
@@ -3436,13 +3482,13 @@ D.I don’t think so
 ### 1.*高义频：* **渴；口渴：**  
 
  > satisfy one’s thirst  
- > 解渴  （）  
+ > 解渴    
 
 ### 2.*低义频：* **渴望；热望：**  
 
  > **thirst for knowledge**  
  > My thirst for knowledge was greater than my pains of hunger.  
- > 我对知识的渴望胜过饥饿的煎熬。  （）  
+ > 我对知识的渴望胜过饥饿的煎熬。    
 
 
 # ***\*thirsty*** adj
@@ -3455,12 +3501,12 @@ D.I don’t think so
 ### 1.*高义频：* **渴的：**  
 
  > Salty food makes you thirsty.  
- > 吃咸的食物会使你口渴。  （）  
+ > 吃咸的食物会使你口渴。    
 
 ### 2.*低义频：* **缺水的；干旱的：**  
 
  > thirsty fields  
- > 干旱的田地  （）  
+ > 干旱的田地    
 
 ### 3.*高义频：* **渴求的；渴望的：**  
 
@@ -3479,16 +3525,16 @@ D.I don’t think so
 ### 1.*高义频：* **这；这个：**  
 
  > This is my computer.  
- > 这是我的电脑。  （）  
+ > 这是我的电脑。    
 
 Notes: 打电话时用this指代自己。  
  > Hello, this is Mr King speaking. 你好，我是金先生。  
- >   （）  
+ >     
 
 ### 2.*高义频：* **此事；以下内容：**  
 
  > You’d better remember this: Smile to everyone.  
- > 你最好记住这一点：对每个人微笑。  （）  
+ > 你最好记住这一点：对每个人微笑。    
 
 
 # ***\*this*** adj
@@ -3501,13 +3547,13 @@ Notes: 打电话时用this指代自己。
 ### 1.*高义频：* **这个；以下的：**  
 
  > Get out of this room.  
- > 离开这个房间。  （）  
+ > 离开这个房间。    
 
  > They wanted to show us this point: She is innocent.  
- > 他们想告诉我们以下观点：她是无辜的。  （）  
+ > 他们想告诉我们以下观点：她是无辜的。    
 
  > this evening / year  
- > 今晚/今年  （）  
+ > 今晚/今年    
 
 
 # ***\*this*** adv
@@ -3520,7 +3566,7 @@ Notes: 打电话时用this指代自己。
 ### 1.*高义频：* **[口语] 这么；这样：**  
 
  > You need to cut about this much off the end of the pipe.  
- > 你需要把管头切下大约这么多。  （）  
+ > 你需要把管头切下大约这么多。    
 
 
 # ***\*thistle*** n
@@ -3553,12 +3599,12 @@ Notes: 打电话时用this指代自己。
 ### 1.*高义频：* **完全的；彻底的：**  
 
  > give the room a thorough cleaning  
- > 把房间彻底打扫一遍  （）  
+ > 把房间彻底打扫一遍    
 
 ### 2.*高义频：* **详尽的；细致的：**  
 
  > He was determined to be thorough in his research.  
- > 他决心细致深入地进行研究。  （）  
+ > 他决心细致深入地进行研究。    
 
 
 派生词汇
@@ -3575,7 +3621,7 @@ thoroughly /'θʌrəli/ adv
 ### 1.*高义频：* **那些；那些人；那些物：**  
 
  > Those are my books.  
- > 那些是我的书。  （）  
+ > 那些是我的书。    
 
  > Only those who will risk going too far can possibly find out how far one can go.    
  > 只有那些愿意冒险不断前行的人，才能知道自己能够走多远。  （——艾略特）  
@@ -3584,10 +3630,13 @@ thoroughly /'θʌrəli/ adv
 真题解析
 ---
 1. Half of ________ surveyed in 16 countries say they go first to their closest friend to share their deepest wishes and darkest fears.   （2013 浙江改）  
+
 2. At our factory there are a few machines similar to ________ described in this magazine.  （2013 天津改）  
 
 答案：
-1. those  2. those  
+1. those  
+2. those  
+
 # ***\*those*** adj
 英音 ðəʊz     美音 ðoʊz  
 
@@ -3598,7 +3647,7 @@ thoroughly /'θʌrəli/ adv
 ### 1.*高义频：* **那些：**  
 
  > Those two problems are hard.  
- > 那两道题很难解。  （）  
+ > 那两道题很难解。    
 
 
 # ***\*thou*** pron
@@ -3625,24 +3674,26 @@ thoroughly /'θʌrəli/ adv
 
 Notes: though意为“虽然”，引导状语从句时，可将从句中的表语、状语等提前，其他成分保持陈述语序。  
  > Much though I admire her, I cannot excuse her faults.   
- > 虽然我非常崇拜她，但我不能原谅她的错误。  （）  
+ > 虽然我非常崇拜她，但我不能原谅她的错误。    
 
 ### 2.*低义频：* **即使：**  
 
  > Though I fail, I shall try again.   
- > 即使失败，我也要再试一次。  （）  
+ > 即使失败，我也要再试一次。    
 
 ### 3.*高义频：* **可是；不过；然而：**  
 
  > He’ll probably say no, though it’s worth asking.   
- > 他很可能会拒绝，不过问一下也没什么坏处。  （）  
+ > 他很可能会拒绝，不过问一下也没什么坏处。    
 
 
 真题解析
 ---
 1. Though not very big, but the restaurant is popular in our area.  （2016 全国 改错）  
+
 2. If scientists have learned a lot about the universe, there is much we still don’t know. 
   （2015安徽改 改错）  
+
 3. Unsatisfied _________ with the payment, he took the job just to get some work experience.  （2009 重庆）  
 A.though was he  
 B.though he was  
@@ -3650,7 +3701,10 @@ C.he was though
 D.was he though  
 
 答案：
-1. 去掉but  2. If → Though / Although  3. B  
+1. 去掉but  
+2. If → Though / Although  
+3. B  
+
 # ***\*though*** adv
 英音 ðəʊ     美音 ðoʊ  
 
@@ -3661,7 +3715,7 @@ D.was he though
 ### 1.*高义频：* **可是；然而：**  
 
  > Our team lost. It was a good game, though.   
- > 我们队输了，可是也不失为一场很好的比赛。  （）  
+ > 我们队输了，可是也不失为一场很好的比赛。    
 
 
 固定搭配
@@ -3683,6 +3737,7 @@ D.too
 
 答案：
 1. A  
+
 # ***\*thought*** n  重难点词汇
 英音 θɔːt     美音 θɔːt  
 
@@ -3694,7 +3749,7 @@ D.too
 英译 (act, power or process of) thinking：
 
  > A good teacher encourages independence of thought.   
- > 优秀的老师鼓励独立思考。  （）  
+ > 优秀的老师鼓励独立思考。    
 
  > **deep in thought**  
  > Their bad behavior left me deep in thought.  
@@ -3702,48 +3757,48 @@ D.too
 
  > **lost in thought**  
  > She sat by the window, lost in thought.   
- > 她坐在窗前，陷入沉思。  （）  
+ > 她坐在窗前，陷入沉思。    
 
 ### 2.*高义频：* **[C] 想法；主意 an idea or opinion (idea)；[常用 复数] 心思 sb’s mind and all the ideas that are in it：**  
 
  > **thoughts crossed my mind**  
  > Several thoughts crossed my mind as I watched him work.   
- > 我看着他工作时，有了一些想法。  （）  
+ > 我看着他工作时，有了一些想法。    
 
  > — Why don’t you ask Jane for help?   
- > 你为什么不找简帮忙呢？  （）  
+ > 你为什么不找简帮忙呢？    
 
  > **That’s a thought**  
  > — That’s a thought! I’ll phone her right away.  
- > 好主意！我这就给她打电话。  （）  
+ > 好主意！我这就给她打电话。    
 
  > **Her thoughts,turned to**  
  > Her thoughts have turned to travel.   
- > 她的心思都在旅行上。  （）  
+ > 她的心思都在旅行上。    
 
 ### 3.*高义频：* **考虑；思索**  
 英译 careful and serious consideration (consideration)：
 
  > **giving,thought**  
  > I’ve been giving your proposal a lot of thought.  
- > 我一直在认真地考虑你的提议。  （）  
+ > 我一直在认真地考虑你的提议。    
 
 ### 4.*低义频：* **关心；顾念**  
 英译 a feeling of care or worry：
 
  > **spare a thought**  
  > In good times we always spare a thought for the bad times.   
- > 我们要居安思危。  （）  
+ > 我们要居安思危。    
 
  > **thought for**  
  > He rushed back into the burning building with no thought for his own safety.   
- > 他冲回燃烧着的大楼，根本不顾及自己的安危。  （）  
+ > 他冲回燃烧着的大楼，根本不顾及自己的安危。    
 
 ### 5.*低义频：* **意图；打算：**  
 
  > **thought of**  
  > He had no thought of hurting her feelings.   
- > 他无意伤害她的感情。  （）  
+ > 他无意伤害她的感情。    
 
 ### 6.*低义频：* **思想；思潮：**  
 
@@ -3757,19 +3812,19 @@ D.too
 1.**一想起… (就)：**  
 
  > She was sad at the thought of leaving the house, as it was full of so many memories.   
- > 一想到要离开这栋房子她就难过起来，因为这里充满了很多回忆。  （）  
+ > 一想到要离开这栋房子她就难过起来，因为这里充满了很多回忆。    
 
 ## \*have second thoughts 
 1.**改变主意：**  
 
  > Had they known what was coming next, they might have had second thoughts.   
- > 他们如果知道接下来会发生什么，就可能会改变主意了。  （）  
+ > 他们如果知道接下来会发生什么，就可能会改变主意了。    
 
 ## \*without a second thought
 1.**立即；不假思索：**  
 
  > He dived in after her without a second thought.  
- > 他不假思索地随她跳入水中。  （）  
+ > 他不假思索地随她跳入水中。    
 
 
 派生词汇
@@ -3783,6 +3838,7 @@ thoughtful /'θɔːtfl/ adj
 
 答案：
 1. Give it some thought  
+
 # ***\*thoughtful*** adj
 英音 'θɔːtfl     美音 'θɔːtfl  
 
@@ -3827,7 +3883,7 @@ thoughtful /'θɔːtfl/ adj
 ### 2.*低义频：* **思路；头绪；贯穿的主线：**  
 
  > a thread running through the film   
- > 贯穿这部电影的一条主线  （）  
+ > 贯穿这部电影的一条主线    
 
 
 # ***\*threat*** n
@@ -3841,19 +3897,19 @@ thoughtful /'θɔːtfl/ adj
 
  > **threat of**  
  > The threat of war has depressed business activity.  
- > 由于战争的威胁，商业活动变得不景气了。  （）  
+ > 由于战争的威胁，商业活动变得不景气了。    
 
 ### 2.*高义频：* **构成威胁的人 / 事物：**  
 
  > **poses a threat to**  
  > Pollution poses a threat to the continued existence of this species.   
- > 污染对这一物种的生存造成威胁。  （）  
+ > 污染对这一物种的生存造成威胁。    
 
 ### 3.*高义频：* **凶兆：**  
 
  > **threat of**  
  > There was a threat of typhoon.   
- > 有刮台风的征兆。  （）  
+ > 有刮台风的征兆。    
 
 
 # ***\*threaten*** v
@@ -3866,17 +3922,17 @@ thoughtful /'θɔːtfl/ adj
 ### 1.*高义频：* **威胁；恐吓；危及到：**  
 
  > If a stranger should enter your territory and threaten you, you might shout.   
- > 如果陌生人闯入你的领地并威胁到你，你可以大喊。  （）  
+ > 如果陌生人闯入你的领地并威胁到你，你可以大喊。    
 
 - threaten to do sth:
 
  > Her brother threatened to leave her in the dark room alone when she disobeyed his order.   
- > 哥哥要挟她说，不听话就把她一个人关在黑屋子里。  （）  
+ > 哥哥要挟她说，不听话就把她一个人关在黑屋子里。    
 
 ### 2.*高义频：* **预示 (...的) 凶兆：**  
 
  > The dark clouds threatened rain.   
- > 乌云密布预示大雨将至。  （）  
+ > 乌云密布预示大雨将至。    
 
 
 派生词汇
@@ -3890,6 +3946,7 @@ threatening /'θretnɪŋ/ adj
 
 答案：
 1. to report  
+
 # ***\*threatening*** adj
 英音 'θretnɪŋ     美音 'θretnɪŋ  
 
@@ -3912,12 +3969,12 @@ threatening /'θretnɪŋ/ adj
 ### 1.*高义频：* **激动；刺激：**  
 
  > a thrill of joy / horror   
- > 一阵喜悦/恐怖  （）  
+ > 一阵喜悦/恐怖    
 
 ### 2.*低义频：* **令人激动 / 兴奋的事：**  
 
  > Meeting the famous footballer was a great thrill for the children.   
- > 跟这位著名的足球运动员见面对孩子们来说是一件非常激动人心的事。  （）  
+ > 跟这位著名的足球运动员见面对孩子们来说是一件非常激动人心的事。    
 
 
 # ***\*thrill*** v
@@ -3974,13 +4031,13 @@ thrilling /'θrɪlɪŋ/ adj
 ### 1.*高义频：* **穿过；通过：**  
 
  > They drove through a snowstorm.   
- > 他们驱车穿过暴风雪。  （）  
+ > 他们驱车穿过暴风雪。    
 
  > Light comes in through the window.   
- > 光线透过窗户射进来。  （）  
+ > 光线透过窗户射进来。    
 
  > I couldn’t hear their conversation through the wall.  
- > 我隔着墙听不到他们的谈话。  （）  
+ > 我隔着墙听不到他们的谈话。    
 
 #### 辨析 across , through
 二者都有“穿过”的意思。  
@@ -3988,20 +4045,20 @@ thrilling /'θrɪlɪŋ/ adj
 ### 2.*高义频：* **从头到尾：**  
 
  > The children were too young to sit through a concert.  
- > 这些孩子太小，音乐会没结束就坐不住了。  （）  
+ > 这些孩子太小，音乐会没结束就坐不住了。    
 
 ### 3.*高义频：* **遍及；在...中间：**  
 
  > tour through France   
- > 周游法国  （）  
+ > 周游法国    
 
  > a walk through the flowers   
- > 在花丛中散步  （）  
+ > 在花丛中散步    
 
 ### 4.*高义频：* **(做) 完...；(耗) 尽...：**  
 
  > get through a book   
- > 看完一本书  （）  
+ > 看完一本书    
 
 ### 5.*高义频：* **经由；以：**  
 
@@ -4019,6 +4076,7 @@ D.from
 
 答案：
 1. A  
+
 # ***\*through*** adv  重难点词汇
 英音 θruː     美音 θruː  
 
@@ -4029,23 +4087,23 @@ D.from
 ### 1.*高义频：* **从一端到另一端：**  
 
  > It’s a bit crowded in here — can you get through?  
- > 这里有些挤，你过得去吗?  （）  
+ > 这里有些挤，你过得去吗?    
 
 ### 2.*高义频：* **从头到尾；完全地：**  
 
  > Don’t tell me how it ends — I haven’t read it all the way through.  
- > 先别告诉我故事的结局，我还没看完呢。  （）  
+ > 先别告诉我故事的结局，我还没看完呢。    
 
 ### 3.*高义频：* **直达；通往：**  
 
  > This train goes straight through to New York.   
- > 这趟火车直达纽约。  （）  
+ > 这趟火车直达纽约。    
 
 ### 4.*高义频：* **接通：**  
 
  > **put,through**  
  > Please hold the line and I’ll put you through.   
- > 请别挂断电话，我给您转接过去。  （）  
+ > 请别挂断电话，我给您转接过去。    
 
 
 # ***\*throughout*** prep
@@ -4058,10 +4116,10 @@ D.from
 ### 1.*高义频：* **遍及；整个...期间：**  
 
  > throughout the country / world   
- > 遍及全国/全世界  （）  
+ > 遍及全国/全世界    
 
  > throughout history / one’s life   
- > 纵观历史/毕生  （）  
+ > 纵观历史/毕生    
 
 
 # ***\*throughout*** adv
@@ -4074,10 +4132,10 @@ D.from
 ### 1.*高义频：* **到处；始终：**  
 
  > The house is painted green throughout.   
- > 这座房子完全被刷成了绿色。  （）  
+ > 这座房子完全被刷成了绿色。    
 
  > The ceremony lasted two hours and we had to stand throughout.   
- > 仪式进行了两个小时，我们自始至终都得站着。  （）  
+ > 仪式进行了两个小时，我们自始至终都得站着。    
 
 
 # ***\*throw*** v
@@ -4093,16 +4151,16 @@ D.from
 
  > **Throw_2, to**  
  > Throw me the ball. / Throw the ball to me.   
- > 把球抛给我。  （）  
+ > 把球抛给我。    
 
  > I was thrown by a horse.   
- > 我被马甩了下来。  （）  
+ > 我被马甩了下来。    
 
 ### 2.*高义频：* **猛推；使劲撞：**  
 
  > **threw open**  
  > She drew the curtains and threw open the windows.  
- > 她拉开窗帘，一把推开窗户。  （）  
+ > 她拉开窗帘，一把推开窗户。    
 
 
 固定搭配
@@ -4114,19 +4172,19 @@ D.from
  > 人们在回收利用很多他们在过去会扔掉的东西。  （2014 安徽）  
 
  > throw away the best time of one’s life   
- > 浪费人生中的金色年华  （）  
+ > 浪费人生中的金色年华    
 
  > This is the best chance you can have. Take it. Don’t throw it away.   
- > 这是你最好的机会，把握住，别放过。  （）  
+ > 这是你最好的机会，把握住，别放过。    
 
 ## \*throw off 
 1.**扔掉；摆脱；匆匆脱掉 (衣服)：**  
 
  > Throw off all your unpleasant memories.   
- > 忘掉你所有不愉快的记忆。  （）  
+ > 忘掉你所有不愉快的记忆。    
 
  > He threw off his coat and started work.   
- > 他匆忙脱下外衣，开始工作。  （）  
+ > 他匆忙脱下外衣，开始工作。    
 
 ## \*throw oneself into
 1.**投身于；积极从事：**  
@@ -4141,22 +4199,22 @@ D.from
  > 我和衣倒在床上，试图睡上一会儿。  （外研⑥ – 5）  
 
  > I throw myself on your support to help me with this competition.   
- > 我就靠你来帮我赢得这场比赛了。  （）  
+ > 我就靠你来帮我赢得这场比赛了。    
 
 ## \*throw out 
 1.**抛出；扔掉(throw away)；撵走；开除：**  
 
  > Protect the water environment consciously; don’t throw out peels, paper scraps, etc.   
- > 自觉保护水环境，不要乱扔果皮、纸屑等。  （）  
+ > 自觉保护水环境，不要乱扔果皮、纸屑等。    
 
  > You’ll be thrown out if you don’t pay the rent.   
- > 如果不付房租，你就会被赶出去。  （）  
+ > 如果不付房租，你就会被赶出去。    
 
 ## \*throw up 
 1.**抛起；举起：**  
 
  > throw up one’s hands in fear   
- > 恐惧地举起双手  （）  
+ > 恐惧地举起双手    
 
 
 派生词汇
@@ -4197,10 +4255,10 @@ thrower /'θrəʊə(r)/ n [C]
 ### 1.*高义频：* **雷；雷声；似雷的声音：**  
 
  > thunder and lightning   
- > 雷电  （）  
+ > 雷电    
 
  > the thunder of applause   
- > 雷鸣般的掌声  （）  
+ > 雷鸣般的掌声    
 
 
 # ***\*thunder*** vi
@@ -4213,10 +4271,10 @@ thrower /'θrəʊə(r)/ n [C]
 ### 1.*高义频：* **打雷；发出雷鸣般的声响：**  
 
  > It thundered a few times, but no rain fell.   
- > 打了几声雷，但没下雨。  （）  
+ > 打了几声雷，但没下雨。    
 
  > The train thundered through the small station.   
- > 火车轰隆隆地驶过那个小站。  （）  
+ > 火车轰隆隆地驶过那个小站。    
 
 
 # ***\*thunderstorm*** n
@@ -4242,13 +4300,13 @@ thrower /'θrəʊə(r)/ n [C]
 英译 in this way; like this：
 
  > Neither pour out all you know nor remark all you see thus to keep a quiet life.   
- > 知道的不要全部倾吐，看到的不要都评论，这样生活才可以平静。  （）  
+ > 知道的不要全部倾吐，看到的不要都评论，这样生活才可以平静。    
 
 ### 2.*高义频：* **因而；从而**  
 英译 (therefore)：
 
  > We failed to find enough evidence; thus we concluded that he was innocent.   
- > 我们未能找到足够的证据，因此，我们认定他是无罪的。  （）  
+ > 我们未能找到足够的证据，因此，我们认定他是无罪的。    
 
 
 # ***\*tick*** n
@@ -4273,7 +4331,7 @@ thrower /'θrəʊə(r)/ n [C]
 ### 1.*低义频：* **给...标记号：**  
 
  > Your job is to tick the names of those present at the meeting.   
- > 你的工作是在出席会议的人员名字前作记号。  （）  
+ > 你的工作是在出席会议的人员名字前作记号。    
 
 ### 2.*高义频：* **(钟表等) 嘀嗒嘀嗒响：**  
 
@@ -4291,14 +4349,14 @@ thrower /'θrəʊə(r)/ n [C]
 
  > **a single / return ticket**  
  > a single / return ticket  
- > 单程/往返票  （）  
+ > 单程/往返票    
 
  > **a parking ticket**  
  > a parking ticket   
- > 违章停车罚单  （）  
+ > 违章停车罚单    
 
  > Admission by ticket only.   
- > 凭票入场。  （）  
+ > 凭票入场。    
 
 
 # ***\*tidal*** adj
@@ -4324,7 +4382,7 @@ thrower /'θrəʊə(r)/ n [C]
 
  > **against the tide**  
  > It takes courage to speak out against the tide of opinion.  
- > 跟舆论唱反调需要勇气。  （）  
+ > 跟舆论唱反调需要勇气。    
 
 
 # ***\*tidy*** adj
@@ -4337,7 +4395,7 @@ thrower /'θrəʊə(r)/ n [C]
 ### 1.*高义频：* **整齐的：**  
 
  > her tidy handwriting   
- > 她的工整笔迹  （）  
+ > 她的工整笔迹    
 
  > A neat person likes to keep things tidy.   
  > 爱整洁的人喜欢把东西摆放整齐。  （ 北师大⑤ – 13）  
@@ -4354,7 +4412,7 @@ thrower /'θrəʊə(r)/ n [C]
 
  > **tidy up**  
  > I must tidy myself up.   
- > 我得梳理一下。  （）  
+ > 我得梳理一下。    
 
 
 # ***\*tie*** n
@@ -4372,12 +4430,12 @@ thrower /'θrəʊə(r)/ n [C]
 
  > **close ties with**  
  > The firm has close ties with an American corporation.  
- > 这家商行与一家美国公司关系密切。  （）  
+ > 这家商行与一家美国公司关系密切。    
 
 ### 3.*低义频：* **[常用复数] 平局(BrE draw)：**  
 
  > Each team scored twice and the game ended in a tie.  
- > 每个队都得分两次，比赛最终打成了平局。  （）  
+ > 每个队都得分两次，比赛最终打成了平局。    
 
 
 # ***\*tie*** vt
@@ -4391,7 +4449,7 @@ thrower /'θrəʊə(r)/ n [C]
 
  > **Tie,to_1**  
  > Tie your bike to a tree so as to prevent it from being stolen.  
- > 把自行车拴在树上以防被偷。  （）  
+ > 把自行车拴在树上以防被偷。    
 
 
 固定搭配
@@ -4426,19 +4484,19 @@ thrower /'θrəʊə(r)/ n [C]
 反义词 loose  
 
  > The drawer is so tight that I can’t open it.   
- > 抽屉太紧，我打不开。  （）  
+ > 抽屉太紧，我打不开。    
 
  > She is wearing a tight pair of jeans.   
- > 她穿着一条紧身牛仔裤。  （）  
+ > 她穿着一条紧身牛仔裤。    
 
 ### 2.*低义频：* **(时间、空间) 紧凑的；(经济) 紧张的：**  
 
  > **schedule,tight**  
  > I can’t see you next week because the schedule is very tight.   
- > 我下周日程排得满满的，所以不能见你。  （）  
+ > 我下周日程排得满满的，所以不能见你。    
 
  > There was a tight group of people around the speaker.   
- > 演讲者周围严严实实地挤了一群人。  （）  
+ > 演讲者周围严严实实地挤了一群人。    
 
  > **Money was,tight**  
  > Money was always tight, but we had a roof over our heads, food on the table, clothes on our backs.   
@@ -4447,12 +4505,12 @@ thrower /'θrəʊə(r)/ n [C]
 ### 3.*低义频：* **困难的：**  
 
  > He’s a good man to have around if you’re ever in a tight corner.   
- > 如果你有困难，有他在身旁会很有用的。  （）  
+ > 如果你有困难，有他在身旁会很有用的。    
 
 ### 4.*高义频：* **严格的：**  
 
  > The airport security is very tight.   
- > 机场的安保工作很严格。  （）  
+ > 机场的安保工作很严格。    
 
 
 真题解析
@@ -4462,6 +4520,7 @@ thrower /'θrəʊə(r)/ n [C]
 
 答案：
 1. tight  
+
 # ***\*tight*** adv
 英音 taɪt     美音 taɪt  
 
@@ -4473,11 +4532,11 @@ thrower /'θrəʊə(r)/ n [C]
 
  > **Shut,tight**  
  > Shut the door tight.   
- > 把门关紧。  （）  
+ > 把门关紧。    
 
  > **Sleep tight**  
  > Sleep tight!  
- > 睡个好觉！  （）  
+ > 睡个好觉！    
 
 
 派生词汇
@@ -4507,12 +4566,12 @@ tightly /'taɪtli/ adv
 ### 1.*高义频：* **直到...为止：**  
 
  > We had very good weather this winter, till now.   
- > 今年冬天，直到现在天气都很好。  （）  
+ > 今年冬天，直到现在天气都很好。    
 
 ### 2.*低义频：* **在...以前；直到... (才)：**  
 
  > I didn’t know about the news till just now.  
- > 直到现在我才知道那个消息。  （）  
+ > 直到现在我才知道那个消息。    
 
 
 # ***\*till*** conj
@@ -4525,12 +4584,12 @@ tightly /'taɪtli/ adv
 ### 1.*高义频：* **直到...为止：**  
 
  > You must keep on fighting till the final victory belongs to you.   
- > 你们必须坚持战斗直到最后的胜利。  （）  
+ > 你们必须坚持战斗直到最后的胜利。    
 
 ### 2.*低义频：* **直到... (才)：**  
 
  > You will never know what you can do till you try.   
- > 直到你去尝试你才知道自己能做什么。  （）  
+ > 直到你去尝试你才知道自己能做什么。    
 
 
 # ***\*time*** n  重难点词汇
@@ -4543,10 +4602,10 @@ tightly /'taɪtli/ adv
 ### 1.*高义频：* **[U] 时间；[常用单数] 一段时间：**  
 
  > time and space  
- > 时空  （）  
+ > 时空    
 
  > a long / short time   
- > 长/短时间  （）  
+ > 长/短时间    
 
  > To choose time is to save time.   
  > 合理安排时间就是节约时间。  （ —— 富兰克林）  
@@ -4554,36 +4613,36 @@ tightly /'taɪtli/ adv
 ### 2.*高义频：* **时刻；(特定之) 时：**  
 
  > It’s time for us to start.   
- > 我们该动身了。  （）  
+ > 我们该动身了。    
 
  > What is the time?   
- > 现在几点了？  （）  
+ > 现在几点了？    
 
  > at this time of (the) year   
- > 每年的这个时间  （）  
+ > 每年的这个时间    
 
 ### 3.*高义频：* **(历史) 时代：**  
 
  > in modern times   
- > 在现代  （）  
+ > 在现代    
 
 ### 4.*高义频：* **次；回：**  
 
  > **Next time**  
  > Next time you’re here, let’s have lunch together.   
- > 下次你来这儿，咱们一起吃午饭。  （）  
+ > 下次你来这儿，咱们一起吃午饭。    
 
  > **Last time**  
  > Last time I met her, she said she was going to get married.   
- > 我上次见到她，她说要结婚了。  （）  
+ > 我上次见到她，她说要结婚了。    
 
 ### 5.*低义频：* **倍：**  
 
  > His salary is four times higher than mine.   
- > 他的薪水比我的高4倍。  （）  
+ > 他的薪水比我的高4倍。    
 
  > There were three times as many girls as boys in class.   
- > 班上女孩的数量是男孩的三倍。  （）  
+ > 班上女孩的数量是男孩的三倍。    
 
 
 固定搭配
@@ -4592,13 +4651,13 @@ tightly /'taɪtli/ adv
 1.**提前；提早：**  
 
  > Can you finish your homework ahead of time?   
- > 你能提前做完作业吗？  （）  
+ > 你能提前做完作业吗？    
 
 ## \*all the time 
 1.**一直；始终：**  
 
  > Opportunities are present all the time, but often they go by unnoticed.   
- > 机会始终都在，但常常被人忽视。  （）  
+ > 机会始终都在，但常常被人忽视。    
 
 ## \*at a time 
 1.**一次；同时：**  
@@ -4610,13 +4669,13 @@ tightly /'taɪtli/ adv
 1.**随时；总是：**  
 
  > No man is wise at all times.   
- > 智者千虑，必有一失。  （）  
+ > 智者千虑，必有一失。    
 
 ## \*(at) any time 
 1.**任何时候；随时：**  
 
  > Unexpected disasters can strike at any time.   
- > 不可预料的灾难随时可能发生。  （）  
+ > 不可预料的灾难随时可能发生。    
 
 ## \*at no time
 1.**在任何时候都不；决不：**  
@@ -4634,7 +4693,7 @@ tightly /'taɪtli/ adv
 1.**同时；但：**  
 
  > It’s impossible to get everybody together at the same time.   
- > 使所有人都同时聚到一起是不可能的。  （）  
+ > 使所有人都同时聚到一起是不可能的。    
 
  > Space travel can be so delightful but at the same time invisibly dangerous.   
  > 太空旅行可以很令人愉快，但同时也存在无形的危险。  （2015 湖北）  
@@ -4649,13 +4708,13 @@ tightly /'taɪtli/ adv
 1.**在…以前：**  
 
  > By the time I retire I’ll finish paying for my house.  
- > 我将在退休前付清房款。  （）  
+ > 我将在退休前付清房款。    
 
 ## \*every time 
 1.**每次；每当：**  
 
  > Our greatest glory consists not in never falling but in rising every time we fall.   
- > 我们最值得自豪的不在于永不跌倒，而在于每次跌倒之后都站了起来。  （）  
+ > 我们最值得自豪的不在于永不跌倒，而在于每次跌倒之后都站了起来。    
 
 ## \*for the time (being) 
 1.**暂时；眼下：**  
@@ -4673,28 +4732,28 @@ tightly /'taɪtli/ adv
 1.**过得…：**  
 
  > I’m sure you’ll have a great time in California.   
- > 我相信你会在加利福尼亚玩得很开心。  （）  
+ > 我相信你会在加利福尼亚玩得很开心。    
 
 ## \*in no time 
 1.**立即；马上：**  
 
  > Don’t worry. You’ll be all right in no time.   
- > 别担心，你很快就会好起来。  （）  
+ > 别担心，你很快就会好起来。    
 
 ## \*in time 
 1.**及时；迟早：**  
 
  > Firemen reached the house on fire in time.   
- > 消防队员及时赶到那所失火的房子。  （）  
+ > 消防队员及时赶到那所失火的房子。    
 
  > If you keep on, you will succeed in time.   
- > 如果坚持下去，你迟早会成功的。  （）  
+ > 如果坚持下去，你迟早会成功的。    
 
 ## \*it’s (about / high) time sb did sth 
 1.**是某人做事的时候了：**  
 
  > It’s high time you cleaned your room!   
- > 你该打扫房间了！  （）  
+ > 你该打扫房间了！    
 
 ## \*on time 
 1.**按时；准时：**  
@@ -4715,7 +4774,7 @@ tightly /'taɪtli/ adv
 1.**一再； 反复：**  
 
  > I listened to the sentence time after time, but still can’t follow its meaning.   
- > 我反复听这个句子，但还是不明白它的意思。  （）  
+ > 我反复听这个句子，但还是不明白它的意思。    
 
 
 真题解析
@@ -4725,15 +4784,24 @@ A.they actually broke
 B.do they actually break  
 C.did they actually break  
 D.they had actually broken  
+
 2. The manager wants to see changes in the company, and I am sure he will ________ time. 
   （2013 陕西改）  
+
 3. He will come to understand your efforts sooner or later. It’s just  ________ (时间问题). 
   （2012 四川改）  
+
 4. Jack is a great talker. It’s high time that he  ________ (do) something instead of just talking.  （2012 辽宁改）  
+
 5. The new stadium being built for the next Asian Games will be ________ (…的三倍大) the present one.  （2011 陕西改）  
 
 答案：
-1. C  2. in  3. a matter of time  4. did  5. three times as big as  
+1. C  
+2. in  
+3. a matter of time  
+4. did  
+5. three times as big as  
+
 # ***\*time*** vt  重难点词汇
 英音 taɪm     美音 taɪm  
 
@@ -4744,7 +4812,7 @@ D.they had actually broken
 ### 1.*高义频：* **安排...的时间；为...计时：**  
 
  > I saw from the station clock that I had timed my arrival perfectly.   
- > 从车站的大钟上，我看到自己到达的时间算得分秒不差。  （）  
+ > 从车站的大钟上，我看到自己到达的时间算得分秒不差。    
 
 
 # ***\*time-consuming*** adj
@@ -4769,7 +4837,7 @@ D.they had actually broken
 ### 1.*高义频：* **时间表；课程表(AmE schedule)：**  
 
  > a railway timetable   
- > 火车时刻表  （）  
+ > 火车时刻表    
 
 
 # ***\*tin*** n
@@ -4794,7 +4862,7 @@ D.they had actually broken
 ### 1.*高义频：* **极小的；微小的：**  
 
  > This is the tiniest car I’ve seen.  
- > 这是我见过的最小的汽车。  （）  
+ > 这是我见过的最小的汽车。    
 
 
 # ***\*tip*** n
@@ -4808,11 +4876,11 @@ D.they had actually broken
 
  > **tips of**  
  > the tips of branches / fingers   
- > 树梢/指尖  （）  
+ > 树梢/指尖    
 
  > **tip of**  
  > Cape Town is at the southern tip of the African continent.   
- > 开普敦位于非洲大陆的南端。  （）  
+ > 开普敦位于非洲大陆的南端。    
 
 ### 2.*高义频：* **小费**  
 
@@ -4820,7 +4888,7 @@ D.they had actually broken
 
  > **tips on**  
  > learning tips on grammar   
- > 语法学习建议  （）  
+ > 语法学习建议    
 
 
 # ***\*tip*** vt
@@ -4833,7 +4901,7 @@ D.they had actually broken
 ### 1.*高义频：* **给...小费：**  
 
  > I tipped the waitress 50 yuan.   
- > 我给了女服务员50元小费。  （）  
+ > 我给了女服务员50元小费。    
 
 
 # ***\*tire*** v
@@ -4846,17 +4914,17 @@ D.they had actually broken
 ### 1.*高义频：* **(使) 感到累；(使) 感到厌烦：**  
 
  > He tired his eyes by too much reading.   
- > 他看书太多，眼睛很累。  （）  
+ > 他看书太多，眼睛很累。    
 
  > He tired the audience with his long speeches.   
- > 听众对他冗长的发言感到很不耐烦。  （）  
+ > 听众对他冗长的发言感到很不耐烦。    
 
  > The patient tires easily.   
- > 病人很容易疲劳。  （）  
+ > 病人很容易疲劳。    
 
  > **never tires of**  
  > She never tires of talking about her children.  
- > 她总是不厌其烦地谈她的孩子。  （）  
+ > 她总是不厌其烦地谈她的孩子。    
 
 
 固定搭配
@@ -4878,7 +4946,7 @@ D.they had actually broken
 
  > **flat tyre**  
  > a flat tyre  
- > 轮胎瘪了  （）  
+ > 轮胎瘪了    
 
 
 # ***\*tired*** adj
@@ -4891,17 +4959,17 @@ D.they had actually broken
 ### 1.*高义频：* **疲劳的；累的：**  
 
  > a tired child   
- > 疲劳的孩子  （）  
+ > 疲劳的孩子    
 
  > **too tired to**  
  > He was too tired to argue.  
- > 他太疲惫了，吵不动了。  （）  
+ > 他太疲惫了，吵不动了。    
 
 ### 2.*高义频：* **厌烦的；厌倦的：**  
 
  > **tired of**  
  > He was tired of the urban life and hoped to move to the country, expecting a change in his current life style.   
- > 他厌倦了城市生活，希望迁居乡村，改变目前的生活方式。  （）  
+ > 他厌倦了城市生活，希望迁居乡村，改变目前的生活方式。    
 
 
 # ***\*tiresome*** adj
@@ -4914,7 +4982,7 @@ D.they had actually broken
 ### 1.*高义频：* **令人厌倦的；讨厌的：**  
 
  > a tiresome child / job   
- > 烦人的孩子/工作  （）  
+ > 烦人的孩子/工作    
 
 
 # ***\*tiring*** adj
@@ -4927,7 +4995,7 @@ D.they had actually broken
 ### 1.*高义频：* **引起疲劳的；累人的：**  
 
  > a tiring job   
- > 累人的工作  （）  
+ > 累人的工作    
 
 
 # ***\*tissue*** n
@@ -4940,12 +5008,12 @@ D.they had actually broken
 ### 1.*高义频：* **(生理) 组织：**  
 
  > nervous / muscular tissue   
- > 神经/肌肉组织  （）  
+ > 神经/肌肉组织    
 
 ### 2.*低义频：* **纸巾；面巾纸：**  
 
  > face / facial tissues  
- > 面巾纸  （）  
+ > 面巾纸    
 
 
 # ***\*title*** n
@@ -4960,7 +5028,7 @@ D.they had actually broken
 ### 1.*高义频：* **标题；书名；称号；冠军：**  
 
  > The title of this play is Othello.   
- > 这部戏剧名叫《奥赛罗》。  （）  
+ > 这部戏剧名叫《奥赛罗》。    
 
  > How many times did Michael Jordan’s team win the NBA title?   
  > 迈克尔·乔丹所在的球队得过几次NBA冠军？  （外研⑦ – 1）  
@@ -4986,94 +5054,97 @@ D.they had actually broken
 ### 1.*高义频：* **到；向；往；离：**  
 
  > fall to the ground   
- > 落到地面  （）  
+ > 落到地面    
 
  > Scotland is to the north of England.   
- > 苏格兰在英格兰的北面。  （）  
+ > 苏格兰在英格兰的北面。    
 
 ### 2.*高义频：* **趋于；倾向于：**  
 
  > go from bad to worse   
- > 每况愈下  （）  
+ > 每况愈下    
 
  > a tendency to improvement   
- > 改善的趋势  （）  
+ > 改善的趋势    
 
 ### 3.*高义频：* **到...：**  
 
  > from Monday to Friday   
- > 星期一到星期五  （）  
+ > 星期一到星期五    
 
 ### 4.*高义频：* **到；达到：**  
 
  > to some extent   
- > 在某种程度上  （）  
+ > 在某种程度上    
 
 ### 5.*高义频：* **对；面对：**  
 
  > stand face to face  
- > 面对面站着  （）  
+ > 面对面站着    
 
  > write to sb   
- > 给某人写信  （）  
+ > 给某人写信    
 
 ### 6.*高义频：* **在；紧靠着：**  
 
  > put one’s ear to the wall   
- > 把耳朵贴在墙上  （）  
+ > 把耳朵贴在墙上    
 
 ### 7.*高义频：* **...的：**  
 
  > the key to the house   
- > 屋子的钥匙  （）  
+ > 屋子的钥匙    
 
 ### 8.*高义频：* **比：**  
 
  > The score of the match was 6 to 2.   
- > 比赛的比分为6比2。  （）  
+ > 比赛的比分为6比2。    
 
  > I prefer walking to climbing.   
- > 比起爬山，我更喜欢散步。  （）  
+ > 比起爬山，我更喜欢散步。    
 
 ### 9.*低义频：* **为了；用作：**  
 
  > drink to sb’s health   
- > 为某人的健康干杯  （）  
+ > 为某人的健康干杯    
 
 ### 10.*高义频：* **对于；至于：**  
 
  > the right answer to the question   
- > 问题的正确答案  （）  
+ > 问题的正确答案    
 
  > What do you say to that?   
- > 你对那件事有什么意见？  （）  
+ > 你对那件事有什么意见？    
 
 ### 11.*高义频：* **按照：**  
 
  > add salt to taste  
- > 按照口味加盐  （）  
+ > 按照口味加盐    
 
 ### 12.*高义频：* **致使：**  
 
  > be sentenced to death   
- > 被判死刑  （）  
+ > 被判死刑    
 
  > to sb’s surprise   
- > 使某人吃惊的是  （）  
+ > 使某人吃惊的是    
 
 Notes: to还可与动词原形连用构成动词不定式。  
  > I want to know the answer.   
- > 我想知道答案。  （）  
+ > 我想知道答案。    
 
 
 真题解析
 ---
 1. Have you ever heard of the trees that are homes ________ animals both on land and sea?  （2015 浙江改）  
+
 2. Most Americans would prefer to keep their problems ________ themselves, and solve their problems  ________ themselves. 
   （2009 湖南改）  
 
 答案：
-1. to  2. to; by  
+1. to  
+2. to; by  
+
 # ***\*toast*** n
 英音 təʊst     美音 toʊst  
 
@@ -5084,13 +5155,13 @@ Notes: to还可与动词原形连用构成动词不定式。
 ### 1.*高义频：* **烤面包 (片)；吐司：**  
 
  > two pieces of buttered toast   
- > 两片涂黄油的烤面包片  （）  
+ > 两片涂黄油的烤面包片    
 
 ### 2.*低义频：* **祝酒；干杯：**  
 
  > **propose a toast**  
  > I’d like to propose a toast to the bride and groom.  
- > 我建议为新郎新娘干杯。  （）  
+ > 我建议为新郎新娘干杯。    
 
 
 # ***\*toast*** vt
@@ -5105,7 +5176,7 @@ Notes: to还可与动词原形连用构成动词不定式。
 ### 2.*高义频：* **向...祝酒；为...干杯：**  
 
  > I toast your health.   
- > 我为你的健康干杯。  （）  
+ > 我为你的健康干杯。    
 
 
 # ***\*tobacco*** n
@@ -5126,6 +5197,7 @@ Notes: to还可与动词原形连用构成动词不定式。
 
 答案：
 1. tobacco  
+
 # ***\*today*** adv
 英音 tə'deɪ     美音 tə'deɪ  
 
@@ -5136,10 +5208,10 @@ Notes: to还可与动词原形连用构成动词不定式。
 ### 1.*高义频：* **在今天；现在；当代：**  
 
  > Are you going shopping today?   
- > 你今天要去购物吗？  （）  
+ > 你今天要去购物吗？    
 
  > More women have jobs today than in the past.   
- > 现在就业的妇女比以前多了。  （）  
+ > 现在就业的妇女比以前多了。    
 
 
 # ***\*today*** n
@@ -5154,10 +5226,10 @@ Notes: to还可与动词原形连用构成动词不定式。
 ### 1.*高义频：* **今天；现代；当今：**  
 
  > science of today   
- > 现代科学  （）  
+ > 现代科学    
 
  > Today must borrow nothing of tomorrow.   
- > 今日事，今日毕。  （）  
+ > 今日事，今日毕。    
 
 
 # ***\*toe*** n
@@ -5192,7 +5264,7 @@ Notes: to还可与动词原形连用构成动词不定式。
 ### 1.*高义频：* **共同；一起：**  
 
  > travel together   
- > 一起旅行  （）  
+ > 一起旅行    
 
 
 固定搭配
@@ -5212,6 +5284,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 
 答案：
 1. is  
+
 # ***\*toil*** n
 英音 tɔɪl     美音 tɔɪl  
 
@@ -5255,7 +5328,7 @@ Notes: 句子的谓语动词应该与together with前面的主语保持人称与
 
  > **tolerant of**  
  > Luckily, my parents were tolerant of my choice of books.  
- > 幸运的是，我父母对我选择读什么书持宽容态度。  （）  
+ > 幸运的是，我父母对我选择读什么书持宽容态度。    
 
 
 真题解析
@@ -5268,6 +5341,7 @@ D.wild
 
 答案：
 1. C  
+
 # ***\*tolerate*** vt
 英音 'tɒləreɪt     美音 'tɑːləreɪt  
 
@@ -5278,7 +5352,7 @@ D.wild
 ### 1.*高义频：* **容忍；忍受 (put up with)：**  
 
  > Those who know how to tolerate others can naturally lead a happy life.   
- > 那些懂得容忍他人的人自然可以过得幸福。  （）  
+ > 那些懂得容忍他人的人自然可以过得幸福。    
 
 
 # ***\*toll*** n
@@ -5329,7 +5403,7 @@ D.wild
 ### 1.*高义频：* **在明天；在 (不久的) 将来：**  
 
  > See you tomorrow.   
- > 明天见。  （）  
+ > 明天见。    
 
 
 # ***\*tomorrow*** n
@@ -5371,7 +5445,7 @@ D.wild
 ### 1.*高义频：* **音调；语调：**  
 
  > a falling / rising tone   
- > 降/升调  （）  
+ > 降/升调    
 
 ### 2.*高义频：* **腔调；语气：**  
 
@@ -5405,10 +5479,10 @@ D.wild
 
  > **mother / native tongue**  
  > one’s mother / native tongue   
- > 母语  （）  
+ > 母语    
 
  > in one’s own tongue   
- > 用本国语说  （）  
+ > 用本国语说    
 
 
 # ***\*tonight*** adv
@@ -5421,7 +5495,7 @@ D.wild
 ### 1.*高义频：* **今夜：**  
 
  > Professor Li asked us to finish reading the book tonight.   
- > 李教授让我们今晚读完这本书。  （）  
+ > 李教授让我们今晚读完这本书。    
 
 
 # ***\*tonight*** n
@@ -5436,7 +5510,7 @@ D.wild
 ### 1.*高义频：* **今夜：**  
 
  > on tonight’s TV  
- > 在今晚的电视上  （）  
+ > 在今晚的电视上    
 
 
 # ***\*tonne*** n
@@ -5461,28 +5535,28 @@ D.wild
 ### 1.*高义频：* **也；而且：**  
 
  > I have a stomachache, and a headache, too.   
- > 我肚子疼，头也疼。  （）  
+ > 我肚子疼，头也疼。    
 
  > — I’m hungry.   
- > 我饿了。  （）  
+ > 我饿了。    
 
  > — Me, too.   
- > 我也是。  （）  
+ > 我也是。    
 
 ### 2.*高义频：* **太；过分：**  
 
  > The coat is too large for me.  
- > 这件外套我穿太大了。  （）  
+ > 这件外套我穿太大了。    
 
 - too + adj + a / an + n …:
 
  > It was too difficult a book for her.   
- > 那本书对她来说太难了。  （）  
+ > 那本书对她来说太难了。    
 
 - too + adj / adv + (for sb / sth) to do sth:
 
  > The problem is too complicated for us to solve.   
- > 那个问题太复杂，我们无法解决。  （）  
+ > 那个问题太复杂，我们无法解决。    
 
 
 固定搭配
@@ -5491,16 +5565,16 @@ D.wild
 1.**太：**  
 
  > Accidents like this happen all too often.   
- > 这类事故发生得太频繁了。  （）  
+ > 这类事故发生得太频繁了。    
 
 ## \*can’t / can never ... too ... 
 1.**怎么…也不过分； 越…越好：**  
 
  > — Must I turn off the gas after cooking?    
- > 做完饭后一定要把煤气关掉吗？  （）  
+ > 做完饭后一定要把煤气关掉吗？    
 
  > — Of course. You can never be too careful with that.  
- > 当然，你越小心越好。  （）  
+ > 当然，你越小心越好。    
 
 #### 辨析 much too, too much
   
@@ -5513,6 +5587,7 @@ D.wild
 
 答案：
 1. You, too  
+
 # ***\*tool*** n
 英音 tuːl     美音 tuːl  
 
@@ -5542,11 +5617,11 @@ D.wild
 ### 1.*高义频：* **牙**  
 
  > brush / clean one’s teeth   
- > 刷牙  （）  
+ > 刷牙    
 
  > **had a tooth out**  
  > I’ve just had a tooth out at the dentist’s.   
- > 我刚在牙医那里拔了颗牙。  （）  
+ > 我刚在牙医那里拔了颗牙。    
 
 
 # ***\*toothache*** n
@@ -5599,19 +5674,19 @@ D.wild
 
  > **at the top**  
  > at the top of a mountain   
- > 在山顶  （）  
+ > 在山顶    
 
  > the tops of the trees   
- > 树梢  （）  
+ > 树梢    
 
  > polish the top of the table   
- > 擦亮桌面  （）  
+ > 擦亮桌面    
 
 ### 2.*高义频：* **最高或最重要的级别或位置：**  
 
  > **at the top of**  
  > She is at the top of her class in French.  
- > 她的法语在班上名列前茅。  （）  
+ > 她的法语在班上名列前茅。    
 
 
 固定搭配
@@ -5620,7 +5695,7 @@ D.wild
 1.**在上方；领先地：**  
 
  > Stand on top and look down.   
- > 站在顶上俯视。  （）  
+ > 站在顶上俯视。    
 
  > Who will come out on top, I wonder?   
  > 我想，谁会得第一呢？  （北师大④ – 11）  
@@ -5629,10 +5704,10 @@ D.wild
 1.**在…之上；加之：**  
 
  > That high mountain has a tower on top of it.   
- > 那座高山顶上有一座塔。  （）  
+ > 那座高山顶上有一座塔。    
 
  > He gave me a meal and, on top of that, money for my journey.   
- > 他管了我一顿饭，除此之外，还给了我路费。  （）  
+ > 他管了我一顿饭，除此之外，还给了我路费。    
 
 
 # ***\*top*** adj
@@ -5646,7 +5721,7 @@ D.wild
 
  > **top floor**  
  > He lives on the top floor.   
- > 他住在顶层。  （）  
+ > 他住在顶层。    
 
  > I became one of the top students in my class.  
  > 我成为班上最优秀的学生之一。  （2012 湖北书面表达）  
@@ -5684,7 +5759,7 @@ D.wild
 ### 1.*高义频：* **话题；题目：**  
 
  > a hot / sensitive topic   
- > 热门/敏感话题  （）  
+ > 热门/敏感话题    
 
 
 # ***\*torch*** n
@@ -5701,7 +5776,7 @@ D.wild
 ### 2.*低义频：* **火炬；火把：**  
 
  > the Olympic torch relay   
- > 奥运火炬传递  （）  
+ > 奥运火炬传递    
 
 
 # ***\*tornado*** n
@@ -5745,7 +5820,7 @@ D.wild
 ### 2.*高义频：* **完全的；彻底的(complete)：**  
 
  > total darkness / silence   
- > 漆黑/寂静  （）  
+ > 漆黑/寂静    
 
 
 # ***\*total*** n
@@ -5760,11 +5835,11 @@ D.wild
 ### 1.*高义频：* **总数；合计：**  
 
  > Add up these figures and see if the total is correct.  
- > 把这些数目加起来，看看总数是否正确。  （）  
+ > 把这些数目加起来，看看总数是否正确。    
 
  > **a total of**  
  > His income reached a total of $1,000.  
- > 他的总收入达到1000美元。  （）  
+ > 他的总收入达到1000美元。    
 
 
 固定搭配
@@ -5786,7 +5861,7 @@ D.wild
 ### 1.*高义频：* **计算...的总数；总数达：**  
 
  > The visitors totaled 250.   
- > 来宾总计250人。  （）  
+ > 来宾总计250人。    
 
 
 # ***\*totally*** adv
@@ -5809,32 +5884,32 @@ D.wild
 ### 1.*高义频：* **(伸手) 触摸；接触 (到)：**  
 
  > Don’t touch that dish — it’s very hot!   
- > 别摸那个盘子，它烫极了!  （）  
+ > 别摸那个盘子，它烫极了!    
 
  > As our glasses touched, he said, “Cheers!”   
- > 我们碰杯，他说：“干杯！”  （）  
+ > 我们碰杯，他说：“干杯！”    
 
  > Her dress was so long that it was touching the ground.   
- > 她的裙子太长，都拖地了。  （）  
+ > 她的裙子太长，都拖地了。    
 
 ### 2.*高义频：* **触动；感动：**  
 
  > **touched,heart**  
  > What he said really touched my heart.   
- > 他的话确实触动了我的心弦。  （）  
+ > 他的话确实触动了我的心弦。    
 
 ### 3.*低义频：* **[常与否定词连用] 吃；喝；用 to eat, drink or use sth：**  
 
  > You have hardly touched your food.   
- > 你没怎么吃东西啊。  （）  
+ > 你没怎么吃东西啊。    
 
  > He hasn’t touched the money his aunt left him.   
- > 他还没动过姑妈给他的钱。  （）  
+ > 他还没动过姑妈给他的钱。    
 
 ### 4.*低义频：* **(说话或写作中) 简略提到；涉及：**  
 
  > The article touches many of the issues which are currently popular.  
- > 这篇文章涉及到了很多时下热门的话题。  （）  
+ > 这篇文章涉及到了很多时下热门的话题。    
 
 
 固定搭配
@@ -5843,7 +5918,7 @@ D.wild
 1.**降落；着陆：**  
 
  > The plane finally touched down at the airport around midday.   
- > 中午前后，飞机终于在机场降落。  （）  
+ > 中午前后，飞机终于在机场降落。    
 
 
 # ***\*touch*** n  重难点词汇
@@ -5856,22 +5931,22 @@ D.wild
 ### 1.*高义频：* **触觉：**  
 
  > the sense of touch   
- > 触觉  （）  
+ > 触觉    
 
 ### 2.*高义频：* **触摸；碰；接触：**  
 
  > A bubble will burst at the slightest touch.   
- > 气泡稍微一碰就破。  （）  
+ > 气泡稍微一碰就破。    
 
 ### 3.*低义频：* **手法；风格；技巧**  
 英译 a way or style of doing sth：
 
  > The room was decorated with a very artistic touch.  
- > 房间装饰得很有艺术韵味。  （）  
+ > 房间装饰得很有艺术韵味。    
 
  > **losing,touch**  
  > This meal is awful. I think I’m losing my touch (= lost my ability).   
- > 这顿饭太难吃了。我想我的烹调水平下降了。  （）  
+ > 这顿饭太难吃了。我想我的烹调水平下降了。    
 
 
 固定搭配
@@ -5880,19 +5955,19 @@ D.wild
 1.**(与…) 有联系：**  
 
  > Are you still in touch with your former colleagues?  
- > 你与以前的同事还有联系吗？  （）  
+ > 你与以前的同事还有联系吗？    
 
 ## \*(be) out of touch (with) 
 1.**(与…) 不联系 / 不接触：**  
 
  > We have been out of touch with them for about two years.   
- > 我们大约有两年没有和他们联系了。  （）  
+ > 我们大约有两年没有和他们联系了。    
 
 ## \*get in touch (with) 
 1.**(与…) 取得联系：**  
 
  > Here’s our number if you need to get in touch with us.   
- > 如果你需要联系我们，这是我们的号码。  （）  
+ > 如果你需要联系我们，这是我们的号码。    
 
 ## \*keep / stay in touch (with)
 1.**(与…) 保持联系：**  
@@ -5912,7 +5987,7 @@ D.wild
 touched /tʌtʃt/ adj   
  > **were,touched by,**  
  > We were deeply touched by your concern.  
- > 你的关心让我们深受感动。  （）  
+ > 你的关心让我们深受感动。    
 
 touching /'tʌtʃɪŋ/ adj   
 
@@ -5936,36 +6011,36 @@ touching /'tʌtʃɪŋ/ adj
 ### 1.*高义频：* **强壮的【反:weak】;坚强的：**  
 
  > Are you sure you’re physically tough enough for this job?  
- > 你确定你的身体足够强壮能应付这份工作吗？  （）  
+ > 你确定你的身体足够强壮能应付这份工作吗？    
 
  > **tough guy**  
  > He plays the tough guy in the movie.   
- > 他在电影中扮演硬汉。  （）  
+ > 他在电影中扮演硬汉。    
 
 ### 2.*高义频：* **结实的；坚固的：**  
 
  > a tough pair of shoes  
- > 一双结实的鞋子  （）  
+ > 一双结实的鞋子    
 
 ### 3.*高义频：* **(食物等) 嚼不烂的；老的**  
 反义词 tender  
 
  > The meat was tough and hard to chew.   
- > 这肉太老，很难嚼动。  （）  
+ > 这肉太老，很难嚼动。    
 
 ### 4.*高义频：* **强硬的; 严厉的：**  
 
  > **tough on / with**  
  > Don’t be too tough on / with him — he was only a child.   
- > 别对他要求过严，他只是个孩子。  （）  
+ > 别对他要求过严，他只是个孩子。    
 
 ### 5.*高义频：* **艰苦的；艰难的；棘手的：**  
 
  > a tough match / job   
- > 艰苦的比赛/棘手的工作  （）  
+ > 艰苦的比赛/棘手的工作    
 
  > It is tough to make a decision.   
- > 很难作决定。  （）  
+ > 很难作决定。    
 
 
 派生词汇
@@ -5988,7 +6063,7 @@ toughness /tʌfnəs/ n [U]
 
  > **tour guide**  
  > a tour guide  
- > 导游  （）  
+ > 导游    
 
  > **tour round**  
  > When I went on a tour round China, I saw many historical sites.   
@@ -5996,7 +6071,7 @@ toughness /tʌfnəs/ n [U]
 
  > **tour of**  
  > He planned to make a tour of the world on foot.   
- > 他计划徒步周游世界。  （）  
+ > 他计划徒步周游世界。    
 
 #### 辨析 voyage, journey, trip, tour
 四者都含“旅行”之意，但具体含义不同。  
@@ -6004,11 +6079,11 @@ toughness /tʌfnəs/ n [U]
 ### 2.*高义频：* **巡回演出；巡回比赛：**  
 
  > on a lecture tour   
- > 巡回讲学  （）  
+ > 巡回讲学    
 
  > **on tour**  
  > The England cricket team is on tour in Pakistan.   
- > 英格兰板球队正在巴基斯坦巡回比赛。  （）  
+ > 英格兰板球队正在巴基斯坦巡回比赛。    
 
 
 # ***\*tour*** vt
@@ -6060,7 +6135,7 @@ toughness /tʌfnəs/ n [U]
 ### 1.*高义频：* **锦标赛；联赛：**  
 
  > tennis tournaments   
- > 网球锦标赛  （）  
+ > 网球锦标赛    
 
 
 # ***\*toward*** n
@@ -6073,7 +6148,7 @@ toughness /tʌfnəs/ n [U]
 ### 1.*高义频：* **朝；向；面对：**  
 
  > She sat with her back towards the window.   
- > 她背对窗户坐着。  （）  
+ > 她背对窗户坐着。    
 
  > She took my arm and we walked slowly towards the car.   
  > 她挽住我的胳膊，我们慢慢向车走去。  （2008 北京）  
@@ -6081,12 +6156,12 @@ toughness /tʌfnəs/ n [U]
 ### 2.*高义频：* **针对；关于：**  
 
  > her attitude / feelings towards the comment   
- > 她对此评论的态度/感受  （）  
+ > 她对此评论的态度/感受    
 
 ### 3.*高义频：* **接近：**  
 
  > Towards the end of the game she fell asleep.   
- > 她在比赛快结束时睡着了。  （）  
+ > 她在比赛快结束时睡着了。    
 
 
 # ***\*towards*** prep
@@ -6099,7 +6174,7 @@ toughness /tʌfnəs/ n [U]
 ### 1.*高义频：* **朝；向；面对：**  
 
  > She sat with her back towards the window.   
- > 她背对窗户坐着。  （）  
+ > 她背对窗户坐着。    
 
  > She took my arm and we walked slowly towards the car.  
  > 她挽住我的胳膊，我们慢慢向车走去。  （2008 北京）  
@@ -6107,12 +6182,12 @@ toughness /tʌfnəs/ n [U]
 ### 2.*高义频：* **针对；关于：**  
 
  > her attitude / feelings towards the comment   
- > 她对此评论的态度/感受  （）  
+ > 她对此评论的态度/感受    
 
 ### 3.*高义频：* **接近：**  
 
  > Towards the end of the game she fell asleep.   
- > 她在比赛快结束时睡着了。  （）  
+ > 她在比赛快结束时睡着了。    
 
 
 # ***\*towel*** n
@@ -6139,7 +6214,7 @@ toughness /tʌfnəs/ n [U]
 ### 1.*高义频：* **塔；发射塔；塔状建筑：**  
 
  > a television tower   
- > 电视塔  （）  
+ > 电视塔    
 
 
 # ***\*tower*** vi
@@ -6162,17 +6237,17 @@ toughness /tʌfnəs/ n [U]
 ### 1.*高义频：* **镇；城镇；(与农村相对的) 城市：**  
 
  > A town is usually smaller than a city but larger than a village.   
- > 镇通常比城市小，但比村庄大。  （）  
+ > 镇通常比城市小，但比村庄大。    
 
 ### 2.*高义频：* **(某一市镇的) 居民；市民：**  
 
  > I suppose the whole town is talking about it.   
- > 我想全城的人都在议论这件事。  （）  
+ > 我想全城的人都在议论这件事。    
 
 ### 3.*高义频：* **商业中心区：**  
 
  > He had to go up to town that morning on business.  
- > 那天早上他得去市中心办公事。  （）  
+ > 那天早上他得去市中心办公事。    
 
 
 # ***\*toy*** n
@@ -6221,10 +6296,10 @@ toughness /tʌfnəs/ n [U]
 ### 1.*高义频：* **足迹；轨迹；车辙：**  
 
  > follow sb’s tracks   
- > 跟踪某人  （）  
+ > 跟踪某人    
 
  > We saw wild animals tracks near the cave.   
- > 在岩洞附近我们看到了野生动物的足迹。  （）  
+ > 在岩洞附近我们看到了野生动物的足迹。    
 
 ### 2.*高义频：* **小路；小径：**  
 
@@ -6234,15 +6309,15 @@ toughness /tʌfnəs/ n [U]
 ### 3.*高义频：* **轨道；滑轨：**  
 
  > a single / double track   
- > 单/双轨  （）  
+ > 单/双轨    
 
 ### 4.*高义频：* **跑道；径赛运动：**  
 
  > track events   
- > 径赛项目  （）  
+ > 径赛项目    
 
  > They ran five times round the track.   
- > 他们绕跑道跑了五圈。  （）  
+ > 他们绕跑道跑了五圈。    
 
 
 固定搭配
@@ -6251,16 +6326,16 @@ toughness /tʌfnəs/ n [U]
 1.**了解…的动态；与…保持联系：**  
 
  > They read the newspapers every day to keep track of current events.   
- > 他们每天阅读报纸，以了解时事。  （）  
+ > 他们每天阅读报纸，以了解时事。    
 
 ## \*lose track of 
 1.**失去…的线索；与…失去联系；忘记：**  
 
  > The police have lost track of the criminals.   
- > 警方已失去罪犯的线索。  （）  
+ > 警方已失去罪犯的线索。    
 
  > I had so much fun that I lost track of time.   
- > 我玩得很愉快，以至于都忘了时间。  （）  
+ > 我玩得很愉快，以至于都忘了时间。    
 
 
 # ***\*track*** vt
@@ -6305,19 +6380,19 @@ toughness /tʌfnəs/ n [U]
 ### 1.*高义频：* **交易；贸易；生意 (commerce)：**  
 
  > carry on / conduct a trade   
- > 做生意  （）  
+ > 做生意    
 
  > The organization promotes fair trade with developing countries.   
- > 该组织提倡同发展中国家进行公平贸易。  （）  
+ > 该组织提倡同发展中国家进行公平贸易。    
 
 ### 2.*高义频：* **行业；职业：**  
 
  > the building / food trade   
- > 建筑业/食品业  （）  
+ > 建筑业/食品业    
 
  > **by trade**  
  > My father is a doctor by trade.   
- > 我爸爸的职业是医生。  （）  
+ > 我爸爸的职业是医生。    
 
 
 # ***\*trade*** v
@@ -6331,13 +6406,13 @@ toughness /tʌfnəs/ n [U]
 
  > **trades with,in_1**  
  > England trades with nearly all the countries in different things in the world.   
- > 英国几乎与世界上所有的国家进行不同商品的贸易往来。  （）  
+ > 英国几乎与世界上所有的国家进行不同商品的贸易往来。    
 
 ### 2.*低义频：* **用...交换：**  
 
  > **traded for with**  
  > He traded his pen for a knife with me.  
- > 他用笔跟我换了一把刀。  （）  
+ > 他用笔跟我换了一把刀。    
 
 
 派生词汇
@@ -6388,6 +6463,7 @@ trading /'treɪdɪŋ/ n [U]
 
 答案：
 1. tradition  
+
 # ***\*traditional*** adj
 英音 trə'dɪʃənl     美音 trə'dɪʃənl  
 
@@ -6412,6 +6488,7 @@ traditionally /trə'dɪʃənəli/ adv
 
 答案：
 1. traditional  
+
 # ***\*traditionally*** adv
 英音 trə'dɪʃənəli     美音 trə'dɪʃənəli  
 
@@ -6434,7 +6511,7 @@ traditionally /trə'dɪʃənəli/ adv
 ### 1.*高义频：* **交通：**  
 
  > traffic jams   
- > 交通堵塞  （）  
+ > 交通堵塞    
 
  > The traffic is heavy these days.   
  > 这几天交通繁忙。  （2009 辽宁）  
@@ -6443,7 +6520,7 @@ traditionally /trə'dɪʃənəli/ adv
 
  > **traffic of**  
  > the traffic of goods between one country and another  
- > 一国与另一国间的货物运输  （）  
+ > 一国与另一国间的货物运输    
 
 
 # ***\*tragedy*** n
@@ -6458,7 +6535,7 @@ traditionally /trə'dɪʃənəli/ adv
 ### 1.*高义频：* **悲剧性事件；惨案；不幸：**  
 
  > an air tragedy   
- > 空难  （）  
+ > 空难    
 
  > The tragedy of life is not so much what men suffer, but what they miss.   
  > 生活的悲剧不在于人们受多少苦，而在于人们错过了什么。  （—— 卡莱尔）  
@@ -6466,7 +6543,7 @@ traditionally /trə'dɪʃənəli/ adv
 ### 2.*低义频：* **(文学体裁) 悲剧；悲剧作品：**  
 
  > Shakespeare’s tragedy of Hamlet   
- > 莎士比亚的悲剧《哈姆雷特》  （）  
+ > 莎士比亚的悲剧《哈姆雷特》    
 
 
 # ***\*trail*** n
@@ -6481,7 +6558,7 @@ traditionally /trə'dɪʃənəli/ adv
 ### 1.*低义频：* **痕迹；足迹：**  
 
  > a trail of blood / footprints   
- > 血迹/足迹  （）  
+ > 血迹/足迹    
 
 ### 2.*高义频：* **小径：**  
 
@@ -6500,10 +6577,10 @@ traditionally /trə'dɪʃənəli/ adv
 英译 to pull or be pulled along behind sb / sth：
 
  > A jeep trailing a cloud of dust was speeding in my direction.   
- > 一辆吉普车拖着一股扬尘，朝我这边疾驰而来。  （）  
+ > 一辆吉普车拖着一股扬尘，朝我这边疾驰而来。    
 
  > The bride’s dress trailed behind her.  
- > 新娘的礼服拖在身后。  （）  
+ > 新娘的礼服拖在身后。    
 
 
 # ***\*train*** n
@@ -6519,18 +6596,18 @@ traditionally /trə'dɪʃənəli/ adv
 
  > **by train**  
  > travel by train   
- > 坐火车旅行  （）  
+ > 坐火车旅行    
 
 ### 2.*低义频：* **长列；队列：**  
 
  > a long train of visitors before the monument   
- > 纪念碑前长长的参观队伍  （）  
+ > 纪念碑前长长的参观队伍    
 
 ### 3.*低义频：* **系列：**  
 
  > **A train of**  
  > A train of nice recollections runs across my mind when speaking about my college years.   
- > 一说起大学时代，我的脑中就闪过一串美好的回忆。  （）  
+ > 一说起大学时代，我的脑中就闪过一串美好的回忆。    
 
 
 # ***\*train*** v
@@ -6543,11 +6620,11 @@ traditionally /trə'dɪʃənəli/ adv
 ### 1.*高义频：* **(受) 训练；(受) 培训：**  
 
  > Sports help to train a person’s character.   
- > 运动有助于培养人的性格。  （）  
+ > 运动有助于培养人的性格。    
 
  > **training,for**  
  > The school basketball team is training hard for the league match.   
- > 校篮球队正在刻苦训练备战联赛。  （）  
+ > 校篮球队正在刻苦训练备战联赛。    
 
 
 派生词汇
@@ -6562,6 +6639,7 @@ D.of
 
 答案：
 1. for  
+
 # ***\*trainer*** n
 英音 'treɪnə(r)     美音 'treɪnər  
 
@@ -6585,14 +6663,14 @@ D.of
 
  > **give sb training**  
  > give sb training   
- > 培训某人  （）  
+ > 培训某人    
 
  > **receive / undergo training**  
  > receive / undergo training   
- > 接受培训  （）  
+ > 接受培训    
 
  > a training course   
- > 培训课程  （）  
+ > 培训课程    
 
 
 # ***\*tram*** n
@@ -6607,7 +6685,7 @@ D.of
 ### 1.*高义频：* **(有轨) 电车；缆车：**  
 
  > a tram track / service / stop   
- > 有轨电车轨道/服务/站  （）  
+ > 有轨电车轨道/服务/站    
 
 
 # ***\*tramp*** n
@@ -6678,7 +6756,7 @@ D.of
 
  > **transform,into**  
  > Water can transform a desert into a garden.   
- > 水能使沙漠变为花园。  （）  
+ > 水能使沙漠变为花园。    
 
 
 # ***\*transfusion*** n
@@ -6731,7 +6809,7 @@ D.of
  > 许多唐诗已被译成英文。  （人教⑥ – 2）  
 
  > Most poetry doesn’t translate well.   
- > 大多数诗歌都翻译得不好。  （）  
+ > 大多数诗歌都翻译得不好。    
 
 ### 2.*低义频：* **(使) 转变；(使) 变为**  
 英译 to change sth from oneform into another：
@@ -6747,6 +6825,7 @@ D.of
 
 答案：
 1. translated  
+
 # ***\*translation*** n
 英音 træns'leɪʃn, trænz'leɪʃn     美音 træns'leɪʃn, trænz'leɪʃn  
 
@@ -6758,13 +6837,13 @@ D.of
 
  > **translation from**  
  > The volunteer is good at translation from Russian to English.   
- > 这位志愿者擅长把俄语译成英语。  （）  
+ > 这位志愿者擅长把俄语译成英语。    
 
 ### 2.*高义频：* **[C] & [U] 译文；译本：**  
 
  > **translation of**  
  > a Chinese translation of Harry Potter and the Half-Blood Prince   
- > 《哈里·波特与混血王子》的汉译本  （）  
+ > 《哈里·波特与混血王子》的汉译本    
 
 
 # ***\*translator*** n
@@ -6789,20 +6868,20 @@ D.of
 ### 1.*高义频：* **输送；传送；发射；播送：**  
 
  > Iron transmits heat.   
- > 铁能导热。  （）  
+ > 铁能导热。    
 
  > Language, in its broad sense, is a way information is transmitted.    
  > 从广义上说，语言是一种传递信息的方法。  （译林③ – 2）  
 
  > **transmitted live**  
  > The ceremony was transmitted live by satellite to over fifty countries.   
- > 典礼通过卫星向五十多个国家实况转播。  （）  
+ > 典礼通过卫星向五十多个国家实况转播。    
 
 ### 2.*低义频：* **传播；传染：**  
 
  > **transmitted to**  
  > This infection is transmitted to humans by mosquitoes.   
- > 这种传染病是由蚊子传染给人类的。  （）  
+ > 这种传染病是由蚊子传染给人类的。    
 
 
 # ***\*transparent*** adj
@@ -6817,7 +6896,7 @@ D.of
 ### 2.*低义频：* **显而易见的 (obvious)；易懂的：**  
 
  > a transparent lie   
- > 明显的谎言  （）  
+ > 明显的谎言    
 
 
 真题解析
@@ -6826,6 +6905,7 @@ D.of
 
 答案：
 1. transparent / clear  
+
 # ***\*transplant*** n
 英音 'trænsplɑːnt     美音 'trænsplænt  
 
@@ -6878,13 +6958,13 @@ D.of
 
  > **transport of**  
  > The company will arrange transport of goods from the airport.   
- > 公司将会安排从机场运输货物。  （）  
+ > 公司将会安排从机场运输货物。    
 
 ### 2.*高义频：* **交通工具；交通运输系统：**  
 
  > **air / road transport**  
  > air / road transport   
- > 空运/陆运  （）  
+ > 空运/陆运    
 
  > Which kind of transport do you prefer to use: bus or train?   
  > 你更喜欢使用哪种交通工具：公共汽车还是火车？  （人教① – 3）  
@@ -6914,20 +6994,20 @@ D.of
 ### 1.*高义频：* **(捕鸟兽的) 陷阱；夹子；罗网：**  
 
  > set / lay / place a trap for mice   
- > 设夹子捉老鼠  （）  
+ > 设夹子捉老鼠    
 
 ### 2.*高义频：* **(陷害人的) 圈套；诡计：**  
 
  > fall into / get out of a trap   
- > 落入/摆脱圈套  （）  
+ > 落入/摆脱圈套    
 
 ### 3.*低义频：* **牢笼；困境：**  
 
  > the unemployment trap   
- > 失业困境  （）  
+ > 失业困境    
 
  > Some people feel that marriage is a trap.   
- > 有些人认为婚姻是牢笼。  （）  
+ > 有些人认为婚姻是牢笼。    
 
 
 # ***\*trap*** vt
@@ -6940,10 +7020,10 @@ D.of
 ### 1.*高义频：* **设陷阱捕捉；夹住；卡住：**  
 
  > It’s cruel to trap birds.   
- > 捕鸟是残忍的。  （）  
+ > 捕鸟是残忍的。    
 
  > I trapped my coat in the car door.   
- > 我的外衣被车门夹住了。  （）  
+ > 我的外衣被车门夹住了。    
 
 ### 2.*高义频：* **把...困住；使陷入困境：**  
 
@@ -6991,18 +7071,18 @@ D.of
 ### 1.*高义频：* **旅行；长途旅行：**  
 
  > travel around the world   
- > 环游世界  （）  
+ > 环游世界    
 
  > travel in / to Europe  
- > 在/去欧洲旅行  （）  
+ > 在/去欧洲旅行    
 
 ### 2.*高义频：* **行进；被传播：**  
 
  > Light travels faster than sound.   
- > 光比声音传播得快。  （）  
+ > 光比声音传播得快。    
 
  > The good news traveled quickly.   
- > 喜讯不胫而走。  （）  
+ > 喜讯不胫而走。    
 
 
 # ***\*travel*** n
@@ -7017,17 +7097,17 @@ D.of
 
  > **air / space travel**  
  > air / space travel   
- > 航空/太空旅行  （）  
+ > 航空/太空旅行    
 
  > a travel agency   
- > 旅行社  （）  
+ > 旅行社    
 
 ### 2.*高义频：* **[C] [常用复数] 旅游**  
 英译 journeys to places that are far away, usually for pleasure：
 
  > **on our travels**  
  > We met some very interesting people on our travels in Thailand.  
- > 我们在泰国旅游时碰到一些非常有趣的人。  （）  
+ > 我们在泰国旅游时碰到一些非常有趣的人。    
 
 
 # ***\*traveler*** n
@@ -7054,7 +7134,7 @@ D.of
 ### 1.*高义频：* **旅行：**  
 
  > go travelling   
- > 去旅行  （）  
+ > 去旅行    
 
 
 # ***\*traveling*** adj
@@ -7067,10 +7147,10 @@ D.of
 ### 1.*高义频：* **旅行 (用) 的；巡回的：**  
 
  > the travelling public   
- > 旅游爱好者们  （）  
+ > 旅游爱好者们    
 
  > a travelling performer   
- > 巡回表演者  （）  
+ > 巡回表演者    
 
 
 # ***\*traveller*** n
@@ -7097,7 +7177,7 @@ D.of
 ### 1.*高义频：* **旅行：**  
 
  > go travelling  
- > 去旅行  （）  
+ > 去旅行    
 
 
 # ***\*travelling*** adj
@@ -7110,10 +7190,10 @@ D.of
 ### 1.*高义频：* **旅行 (用) 的；巡回的：**  
 
  > the travelling public   
- > 旅游爱好者们  （）  
+ > 旅游爱好者们    
 
  > a travelling performer  
- > 巡回表演者  （）  
+ > 巡回表演者    
 
 
 # ***\*tread*** v
@@ -7136,10 +7216,10 @@ D.of
 ### 1.*高义频：* **珍视；珍藏：**  
 
  > The boy treasured the teacher’s good opinion above all else.  
- > 那个男孩最重视教师的金玉良言。  （）  
+ > 那个男孩最重视教师的金玉良言。    
 
  > She treasured those memories.   
- > 她珍藏着那些记忆。  （）  
+ > 她珍藏着那些记忆。    
 
 
 # ***\*treasure*** n
@@ -7157,7 +7237,7 @@ D.of
 ### 2.*高义频：* **[C] 珍贵物品：**  
 
  > This photograph from our wedding is my greatest treasure.   
- > 我们婚礼上的这张照片是我最珍贵的物品。  （）  
+ > 我们婚礼上的这张照片是我最珍贵的物品。    
 
 
 # ***\*treat*** n
@@ -7172,7 +7252,7 @@ D.of
 ### 1.*高义频：* **招待；款待：**  
 
  > He took his son to the cinema, as a birthday treat.  
- > 他带儿子去看了场电影，作为生日的款待。  （）  
+ > 他带儿子去看了场电影，作为生日的款待。    
 
 
 # ***\*treat*** vt
@@ -7203,21 +7283,21 @@ D.of
 
  > **treating,for**  
  > Which doctors are treating her for her illness?   
- > 哪些医生在为她治病？  （）  
+ > 哪些医生在为她治病？    
 
  > **treated with**  
  > The condition is usually treated with drugs and a strict diet.   
- > 这种病情通常用药物和严格控制饮食进行治疗。  （）  
+ > 这种病情通常用药物和严格控制饮食进行治疗。    
 
 ### 3.*高义频：* **(化学) 处理：**  
 
  > Beijing is able to treat 90 percent of waste water.   
- > 北京有能力处理90%的废水。  （）  
+ > 北京有能力处理90%的废水。    
 
 ### 4.*低义频：* **招待；款待；请 (客)：**  
 
  > Don’t worry about the cost; I’ll treat you.   
- > 别担心费用，我请客。  （）  
+ > 别担心费用，我请客。    
 
 
 固定搭配
@@ -7236,6 +7316,7 @@ D.of
 
 答案：
 1. treat  
+
 # ***\*treatment*** n
 英音 'triːtmənt     美音 'triːtmənt  
 
@@ -7246,12 +7327,12 @@ D.of
 ### 1.*高义频：* **[U] 对待；处理：**  
 
  > fair / special treatment  
- > 公平对待/特殊处理  （）  
+ > 公平对待/特殊处理    
 
 ### 2.*高义频：* **[C] & [U] 治疗；疗法：**  
 
  > under medical treatment   
- > 正在接受治疗  （）  
+ > 正在接受治疗    
 
  > First aid is a very important first step in the treatment of burns.    
  > 在治疗烧伤的过程中，急救处理是非常重要的第一步。  （人教⑤ – 5）  
@@ -7279,7 +7360,7 @@ D.of
 ### 1.*高义频：* **树；树形图：**  
 
  > a family tree  
- > 家谱  （）  
+ > 家谱    
 
 
 # ***\*tremble*** vi
@@ -7294,12 +7375,12 @@ D.of
 
  > **tremble with,fear**  
  > tremble with cold / fear   
- > 冻/吓得发抖  （）  
+ > 冻/吓得发抖    
 
 ### 2.*低义频：* **(轻微地) 摇晃；摇动：**  
 
  > The leaves trembled in the wind.  
- > 树叶在风中摇曳。  （）  
+ > 树叶在风中摇曳。    
 
 
 # ***\*tremble*** n
@@ -7314,7 +7395,7 @@ D.of
 ### 1.*高义频：* **颤抖；发抖：**  
 
  > a tremble of excitement / fear   
- > 激动/恐惧得发抖  （）  
+ > 激动/恐惧得发抖    
 
 
 # ***\*tremendous*** adj
@@ -7349,7 +7430,7 @@ D.of
 ### 1.*高义频：* **趋向；趋势：**  
 
  > the general trend of history   
- > 历史的总趋势  （）  
+ > 历史的总趋势    
 
  > **trend towards**  
  > Recently, we have seen a gradual trend towards healthier food.   
@@ -7358,7 +7439,7 @@ D.of
 ### 2.*高义频：* **潮流：**  
 
  > the trend towards long hair   
- > 流行长发  （）  
+ > 流行长发    
 
 
 # ***\*trial*** n
@@ -7374,7 +7455,7 @@ D.of
 
  > **a trial period**  
  > a trial period  
- > 试用期  （）  
+ > 试用期    
 
  > New cars have several severe trials before they are put on the market.  
  > 新车在投放市场前要经过多次严格的试验。  （ 人教② – 1）  
@@ -7392,16 +7473,16 @@ D.of
 
  > **on trial for**  
  > He’s on trial for theft.   
- > 他因盗窃而受审。  （）  
+ > 他因盗窃而受审。    
 
  > The clerk was employed on trial.   
- > 那位职员在试用期中。  （）  
+ > 那位职员在试用期中。    
 
 ## \*trial and error 
 1.**反复试验；不断摸索：**  
 
  > Children learn technical skills by trial and error.   
- > 孩子们通过不断摸索来掌握技能。  （）  
+ > 孩子们通过不断摸索来掌握技能。    
 
 
 # ***\*triangle*** n
@@ -7450,7 +7531,7 @@ D.of
 ### 1.*高义频：* **诡计；花招；恶作剧：**  
 
  > Her tears were just a trick to deceive others.  
- > 她的眼泪只是骗人的诡计。  （）  
+ > 她的眼泪只是骗人的诡计。    
 
  > **play a trick on**  
  > If the neighbours do not give any sweets, the children might play a trick on them.  
@@ -7460,14 +7541,14 @@ D.of
 
  > **perform magic tricks**  
  > perform magic tricks  
- > 表演魔术  （）  
+ > 表演魔术    
 
 ### 3.*低义频：* **技巧；诀窍：**  
 英译 a way of doing sth that works well; a good method：
 
  > **the trick of**  
  > Patience is the trick of doing this job well.  
- > 耐心是做好这份工作的诀窍。  （）  
+ > 耐心是做好这份工作的诀窍。    
 
 
 真题解析
@@ -7481,6 +7562,7 @@ D.trick
 
 答案：
 1. trick  
+
 # ***\*trick*** vt
 英音 trɪk     美音 trɪk  
 
@@ -7491,11 +7573,11 @@ D.trick
 ### 1.*高义频：* **欺骗；哄骗：**  
 
  > I’d been tricked and I felt stupid.   
- > 我被骗了，觉得自己真傻。  （）  
+ > 我被骗了，觉得自己真傻。    
 
  > **trick,into**  
  > An advertiser might be trying to trick customers into buying a product or a service.  
- > 广告商可能试图哄骗顾客购买产品或服务。  （）  
+ > 广告商可能试图哄骗顾客购买产品或服务。    
 
 
 # ***\*tricky*** adj
@@ -7508,7 +7590,7 @@ D.trick
 ### 1.*高义频：* **棘手的；难对付的：**  
 
  > a tricky question / task  
- > 棘手的问题/艰难的任务  （）  
+ > 棘手的问题/艰难的任务    
 
 
 # ***\*tricycle*** n
@@ -7549,11 +7631,11 @@ D.trick
 
  > **go on / take a trip**  
  > go on / take a trip   
- > 去旅行  （）  
+ > 去旅行    
 
  > **business trip to**  
  > a business trip to Japan   
- > 去日本出差  （）  
+ > 去日本出差    
 
 #### 辨析 voyage, journey, trip, tour
 四者都含“旅行”之意，但具体含义不同。  
@@ -7595,7 +7677,7 @@ D.trick
 ### 2.*低义频：* **一群：**  
 
  > a troop of guests   
- > 一群客人  （）  
+ > 一群客人    
 
 
 # ***\*tropical*** adj
@@ -7620,11 +7702,11 @@ D.trick
 
  > **The trouble with ,is that**  
  > The trouble with you is that you don’t listen.   
- > 你的问题是听不进别人的话。  （）  
+ > 你的问题是听不进别人的话。    
 
  > **poured out,troubles**  
  > She poured out all her troubles to me (= told me all about her problems) on the phone.  
- > 她在电话里向我倾诉了所有的烦恼。  （）  
+ > 她在电话里向我倾诉了所有的烦恼。    
 
  > **having,trouble getting**  
  > Tom was having much trouble getting up in the morning and was always late for work.    
@@ -7634,29 +7716,29 @@ D.trick
 英译 illness or pain; sth wrong with a machine, vehicle, etc.：
 
  > engine trouble   
- > 发动机故障  （）  
+ > 发动机故障    
 
  > **has trouble with**  
  > She has trouble with her heart.   
- > 她心脏有问题。  （）  
+ > 她心脏有问题。    
 
 ### 3.*高义频：* **[U] 困境；险境**  
 英译 a situation with a lot of problems：
 
  > **ran into trouble**  
  > The company ran into trouble when a major order was cancelled.   
- > 有一个大订单被取消，这家公司陷入了困境。  （）  
+ > 有一个大订单被取消，这家公司陷入了困境。    
 
 ### 4.*高义频：* **[U] 麻烦；费事**  
 英译 extra effort or work：
 
  > **is more trouble than it's worth**  
  > Repairing the radio is more trouble than it's worth (= takes too much time and effort).  
- > 这台收音机修理起来很麻烦,不值得修。  （）  
+ > 这台收音机修理起来很麻烦,不值得修。    
 
  > **no trouble**  
  > I can call back later — it’s no trouble.  
- > 我可以过一会儿回电话，这不费事。  （）  
+ > 我可以过一会儿回电话，这不费事。    
 
 
 固定搭配
@@ -7665,22 +7747,22 @@ D.trick
 1.**(使某人) 陷入困境；(使某人) 遇到麻烦：**  
 
  > Even an experienced climber can get into trouble.  
- > 再有经验的登山者也会遇到麻烦。  （）  
+ > 再有经验的登山者也会遇到麻烦。    
 
  > Don’t mention my name or you’ll get me into trouble.   
- > 别提我的名字,免得给我惹麻烦。  （）  
+ > 别提我的名字,免得给我惹麻烦。    
 
 ## \*keep / stay out of trouble
 1.**远离麻烦：**  
 
  > I hope Tim stays out of trouble this year.   
- > 我希望蒂姆今年能远离麻烦。  （）  
+ > 我希望蒂姆今年能远离麻烦。    
 
 ## \*in trouble 
 1.**处于困境中：**  
 
  > We should trust our friends, respect them and always be ready to help them when they are in trouble.   
- > 我们应信任并尊重我们的朋友，在他们有困难的时候帮助他们。  （）  
+ > 我们应信任并尊重我们的朋友，在他们有困难的时候帮助他们。    
 
 ## \*take the trouble to do sth
 1.**费神做某事；不辞辛劳地做某事：**  
@@ -7692,7 +7774,7 @@ D.trick
 1.**尽心尽力地做某事：**  
 
  > The work is badly done; he didn’t take much trouble to do it.  
- > 这项工作做得很糟糕，他没有尽心尽力地去做。  （）  
+ > 这项工作做得很糟糕，他没有尽心尽力地去做。    
 
 
 真题解析
@@ -7701,6 +7783,7 @@ D.trick
 
 答案：
 1. thinking  
+
 # ***\*trouble*** vt  重难点词汇
 英音 'trʌbl     美音 'trʌbl  
 
@@ -7711,23 +7794,23 @@ D.trick
 ### 1.*高义频：* **使担忧；使烦恼；使疼痛：**  
 
  > It troubles me that I haven’t heard from her recently.  
- > 最近一直没有收到她的信，这使我很担心。  （）  
+ > 最近一直没有收到她的信，这使我很担心。    
 
  > I was not really troubled by the loss.  
  > 对于损失，我真的不感到烦恼。  （2008 四川）  
 
  > My back’s been troubling me.  
- > 我的背一直在疼。  （）  
+ > 我的背一直在疼。    
 
 ### 2.*低义频：* **麻烦；打扰 (bother)：**  
 
  > **trouble,with**  
  > I don’t want to trouble the doctor with such a little cold.   
- > 我不想为这种小感冒去麻烦医生。  （）  
+ > 我不想为这种小感冒去麻烦医生。    
 
  > **Sorry to trouble you**  
  > Sorry to trouble you, but could you tell me the time?  
- > 对不起打扰您一下，请问几点了？  （）  
+ > 对不起打扰您一下，请问几点了？    
 
 
 派生词汇
@@ -7745,7 +7828,7 @@ troubled /'trʌbld/ adj
 英译 causing problems, in an annoying way：
 
  > a troublesome boy / task  
- > 让人头疼的男孩/工作  （）  
+ > 让人头疼的男孩/工作    
 
 
 # ***\*trousers*** n
@@ -7761,7 +7844,7 @@ troubled /'trʌbld/ adj
 
  > **pair of trousers**  
  > a pair of trousers   
- > 一条裤子  （）  
+ > 一条裤子    
 
 
 # ***\*truck*** n
@@ -7788,7 +7871,7 @@ troubled /'trʌbld/ adj
 
  > **true or false**  
  > I do not know whether what I’ve been told is true or false.  
- > 我不知道自己听到的是真还是假。  （）  
+ > 我不知道自己听到的是真还是假。    
 
  > **a true story**  
  > His first book to be published next month is based on a true story.  
@@ -7796,7 +7879,7 @@ troubled /'trʌbld/ adj
 
  > **the same is true of**  
  > The food in this restaurant is good and the same is true of the service.  
- > 这家餐馆的饭菜好，服务也好。  （）  
+ > 这家餐馆的饭菜好，服务也好。    
 
 ### 2.*高义频：* **实际的；真实的 (real)：**  
 
@@ -7810,7 +7893,7 @@ troubled /'trʌbld/ adj
 ### 3.*高义频：* **真正的：**  
 
  > true love / a true friend  
- > 真爱/真正的朋友  （）  
+ > 真爱/真正的朋友    
 
 ### 4.*高义频：* **确实的：**  
 
@@ -7848,7 +7931,7 @@ troubled /'trʌbld/ adj
 ### 1.*高义频：* **真诚地：**  
 
  > I’m truly sorry that things had to end like this.   
- > 事情落到这样的结局，我真的很抱歉。  （）  
+ > 事情落到这样的结局，我真的很抱歉。    
 
 ### 2.*高义频：* **确实；确切：**  
 
@@ -7902,7 +7985,7 @@ troubled /'trʌbld/ adj
 
  > **put your trust in**  
  > If you put your trust in me, I’ll not let you down.   
- > 如果你信赖我，我不会让你失望。  （）  
+ > 如果你信赖我，我不会让你失望。    
 
 
 # ***\*trust*** vt
@@ -7924,7 +8007,7 @@ troubled /'trʌbld/ adj
 1.**[口语] 我希望…：**  
 
  > I trust that everything will go all right.   
- > 我相信一切都会很顺利。  （）  
+ > 我相信一切都会很顺利。    
 
 
 # ***\*truth*** n
@@ -7944,18 +8027,18 @@ troubled /'trʌbld/ adj
 ### 2.*高义频：* **[U] 真实性：**  
 
  > doubt the truth of the evidence   
- > 怀疑证据的真实性  （）  
+ > 怀疑证据的真实性    
 
  > Finally, I must remind you that you have to answer for the truth of what you have said.   
- > 最后，我必须提醒你，你必须对自己所讲的话的真实性负责。  （）  
+ > 最后，我必须提醒你，你必须对自己所讲的话的真实性负责。    
 
 ### 3.*低义频：* **[C] 真理：**  
 
  > stand for the truth   
- > 坚持真理  （）  
+ > 坚持真理    
 
  > Truth is the daughter of time.   
- > 真理经得起时间的检验。  （）  
+ > 真理经得起时间的检验。    
 
 
 固定搭配
@@ -7964,13 +8047,13 @@ troubled /'trʌbld/ adj
 1.**事实上；的确 (really)：**  
 
  > She was laughing and chatting but not, in truth, having much fun.   
- > 她虽然谈笑风生，但实际上并不开心。  （）  
+ > 她虽然谈笑风生，但实际上并不开心。    
 
 ## \*to tell (you) the truth 
 1.**[口语] 老实说：**  
 
  > To tell you the truth, I’m very worried about the final examinations next month.   
- > 老实说，我很担心下个月的期末考试。  （）  
+ > 老实说，我很担心下个月的期末考试。    
 
 
 派生词汇
@@ -7989,7 +8072,7 @@ truthfully /'truːθfəli/ adv
 
  > **Try,luck**  
  > Try your strength / luck.   
- > 试试你的力气/碰碰你的运气吧。  （）  
+ > 试试你的力气/碰碰你的运气吧。    
 
  > **Try as she might**  
  > Try as she might (= as hard as she could), Sue couldn’t get the door open.  
@@ -8002,12 +8085,12 @@ truthfully /'truːθfəli/ adv
 
  > **tried hard to**  
  > Bob tried hard to learn cooking, but the meals he prepared were terrible.  
- > 鲍勃非常努力地学习烹饪，但他做的饭菜很难吃。  （）  
+ > 鲍勃非常努力地学习烹饪，但他做的饭菜很难吃。    
 
 - try one’s best (to do sth):
 
  > She never gave up but tried her best to overcome the difficulty in life.  
- > 她从未放弃过，而是努力克服生活中的困难。  （）  
+ > 她从未放弃过，而是努力克服生活中的困难。    
 
 #### 辨析 manage, try
   
@@ -8016,18 +8099,18 @@ truthfully /'truːθfəli/ adv
 
  > **try something different**  
  > If I’m going out for a meal, I prefer to try something different.   
- > 如果到外面吃饭，我喜欢尝试不同的饭菜。  （）  
+ > 如果到外面吃饭，我喜欢尝试不同的饭菜。    
 
 - try doing sth:
 
  > John isn’t here. Try phoning his home number.  
- > 约翰不在这里，试试打他家里的电话。  （）  
+ > 约翰不在这里，试试打他家里的电话。    
 
 Notes: 1. try doing sth 一般表示“尝试做某事”，含 有试试看的意味；try to do sth 则表示“努力做某 事”。2. 口语中，尤其在祈使句中，常用try and 代替 try to。  
 ### 3.*低义频：* **考验；磨炼：**  
 
  > try sb’s courage   
- > 考验某人的胆量  （）  
+ > 考验某人的胆量    
 
 
 固定搭配
@@ -8036,19 +8119,19 @@ Notes: 1. try doing sth 一般表示“尝试做某事”，含 有试试看的�
 1.**试穿：**  
 
  > I went to the tailor’s to try on my new suit.  
- > 我去裁缝店试穿我的新衣服。  （）  
+ > 我去裁缝店试穿我的新衣服。    
 
 ## \*try out 
 1.**试验：**  
 
  > try out an idea   
- > 试验一种设想  （）  
+ > 试验一种设想    
 
 ## \*try out for 
 1.**参加…选拔 / 试演：**  
 
  > All the students in the class tried out for the basketball match.   
- > 班上的全体学生都参加了篮球选拔赛。  （）  
+ > 班上的全体学生都参加了篮球选拔赛。    
 
 
 真题解析
@@ -8057,6 +8140,7 @@ Notes: 1. try doing sth 一般表示“尝试做某事”，含 有试试看的�
 
 答案：
 1. living  
+
 # ***\*try*** n  重难点词汇
 英音 traɪ     美音 traɪ  
 
@@ -8096,12 +8180,12 @@ Notes: 1. try doing sth 一般表示“尝试做某事”，含 有试试看的�
 ### 1.*高义频：* **管；试管；电子管；显像管：**  
 
  > a test tube   
- > 试管  （）  
+ > 试管    
 
 ### 2.*低义频：* **地铁：**  
 
  > go by tube   
- > 乘地铁  （）  
+ > 乘地铁    
 
 
 # ***\*tuna*** n
@@ -8135,19 +8219,19 @@ Notes: 1. try doing sth 一般表示“尝试做某事”，含 有试试看的�
 1.**合调；协调：**  
 
  > sing in tune   
- > 唱得合调  （）  
+ > 唱得合调    
 
  > be in tune with the times   
- > 跟上时代潮流  （）  
+ > 跟上时代潮流    
 
 ## \*out of tune 
 1.**走调；不协调：**  
 
  > I have no ear for music. My singing is out of tune.  
- > 我不懂音乐，唱歌总跑调。  （）  
+ > 我不懂音乐，唱歌总跑调。    
 
  > be out of tune with the times   
- > 与时代格格不入  （）  
+ > 与时代格格不入    
 
 
 # ***\*tune*** vi
@@ -8166,7 +8250,7 @@ Notes: 1. try doing sth 一般表示“尝试做某事”，含 有试试看的�
 1.**收听；收看：**  
 
  > tune in to a radio station   
- > 收听一个电台  （）  
+ > 收听一个电台    
 
 
 # ***\*tunnel*** n
@@ -8181,10 +8265,10 @@ Notes: 1. try doing sth 一般表示“尝试做某事”，含 有试试看的�
 ### 1.*高义频：* **隧道；地道：**  
 
  > a railway / railroad tunnel   
- > 铁路隧道  （）  
+ > 铁路隧道    
 
  > the Channel Tunnel   
- > 英吉利海峡隧道  （）  
+ > 英吉利海峡隧道    
 
 
 # ***\*turkey*** n
@@ -8219,15 +8303,15 @@ Notes: 1. try doing sth 一般表示“尝试做某事”，含 有试试看的�
 ### 1.*高义频：* **转动；旋转：**  
 
  > turn the tap / switch / key   
- > 拧龙头/开关/钥匙  （）  
+ > 拧龙头/开关/钥匙    
 
  > The wheels of the car began to turn.   
- > 汽车的轮子开始转动起来。  （）  
+ > 汽车的轮子开始转动起来。    
 
 ### 2.*高义频：* **扭转 (身体部位)；转 (身)：**  
 
  > She turned her head in surprise.   
- > 她惊讶地转过头来。  （）  
+ > 她惊讶地转过头来。    
 
  > **turned to look**  
  > The children all turned to look at the famous actress as she entered the classroom.  
@@ -8237,56 +8321,56 @@ Notes: 1. try doing sth 一般表示“尝试做某事”，含 有试试看的�
 
  > **turn,to face**  
  > Could you turn your chairs to face this way?   
- > 你们把椅子转过来朝这边好吗？  （）  
+ > 你们把椅子转过来朝这边好吗？    
 
  > **Turn,over**  
  > Turn ( over ) the page and look through the material.  
- > 翻过这一页，然后浏览这段材料。  （）  
+ > 翻过这一页，然后浏览这段材料。    
 
 ### 4.*高义频：* **vt & vi (使) 转弯；(使) 转向：**  
 
  > **turned the corner**  
  > She waved to me as she turned the corner.   
- > 她拐弯时向我挥了挥手。  （）  
+ > 她拐弯时向我挥了挥手。    
 
  > **turned,into**  
  > I turned the car into the parking lot.   
- > 我转弯把车开进了停车场。  （）  
+ > 我转弯把车开进了停车场。    
 
  > The road turns to the left after the church.   
- > 这条路过了教堂后向左转弯。  （）  
+ > 这条路过了教堂后向左转弯。    
 
 ### 5.*高义频：* **vt & vi (使) 转移：**  
 
  > **turned her attention to**  
  > She looked at her husband then turned her attention to the children.   
- > 她看了看丈夫，然后把注意力转到孩子们身上。  （）  
+ > 她看了看丈夫，然后把注意力转到孩子们身上。    
 
 ### 6.*高义频：* **vt & vi (使) 变成；(使) 变为：**  
 
 - turn + adj:
 
  > The leaves were already turning brown.   
- > 叶子已经变黄了。  （）  
+ > 叶子已经变黄了。    
 
 - turn sth + adj:
 
  > The shock turned her hair white.   
- > 那次打击使她的头发变白了。  （）  
+ > 那次打击使她的头发变白了。    
 
 - turn + n:
 
  > He turned economist at the age of 40.   
- > 他在40岁时成了经济学家。  （）  
+ > 他在40岁时成了经济学家。    
 
 Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是连系动词。  
 ### 7.*低义频：* **vt 到达；超过 (某一时间或年龄)：**  
 
  > She turns 21 in June.   
- > 她到6月就满21岁了。  （）  
+ > 她到6月就满21岁了。    
 
  > It’s turned midnight.   
- > 已经过了午夜了。  （）  
+ > 已经过了午夜了。    
 
 
 固定搭配
@@ -8298,33 +8382,33 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
  > 我一言未发，转身走了出去。  （外研⑥ – 3）  
 
  > After a year’s hard work, he had turned around a badly performing department.   
- > 经过一年的努力，他使一个业绩糟糕的部门有了起色。  （）  
+ > 经过一年的努力，他使一个业绩糟糕的部门有了起色。    
 
 ## \*turn away 
 1.**把…转过去；把…打发走：**  
 
  > She turned her head away, feeling too ashamed to meet his gaze.   
- > 因为害羞而不敢和他对视，她把头转了过去。  （）  
+ > 因为害羞而不敢和他对视，她把头转了过去。    
 
  > Because the hall was full, many people were turned away.   
- > 因礼堂满了，许多人被打发走了。  （）  
+ > 因礼堂满了，许多人被打发走了。    
 
 ## \*turn back 
 1.**(使) 往回走；改变做法：**  
 
  > The weather became so bad that they had to turn back.   
- > 天气变得很糟糕,他们只好返回。  （）  
+ > 天气变得很糟糕,他们只好返回。    
 
  > **turning back to**  
  > The people are turning back to natural resources to survive.   
- > 人们又重新开始依靠自然资源生存。  （）  
+ > 人们又重新开始依靠自然资源生存。    
 
 ## \*turn down
 1.*高义频：* **关小；调低 (音量等)：**  
 反义词 turn up 
 
  > Could you please turn down your TV a bit?   
- > 你可以把电视音量关小一点儿吗?  （）  
+ > 你可以把电视音量关小一点儿吗?    
 
 2.*高义频：* **拒绝：**  
 
@@ -8335,10 +8419,10 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
 1.**上交(BrE hand in)；上缴：**  
 
  > Turn in your papers, please.   
- > 请把试卷交上来吧。  （）  
+ > 请把试卷交上来吧。    
 
  > She turned in the wallet she picked up on the way.  
- > 她把在路上捡到的钱包上交了。  （）  
+ > 她把在路上捡到的钱包上交了。    
 
 ## \*turn into
 1.**(使) 变成；(使) 成为：**  
@@ -8365,30 +8449,30 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
 2.*低义频：* **使 (某人) 产生兴趣：**  
 
  > Science fiction just doesn’t turn me on.   
- > 科幻小说根本提不起我的兴趣。  （）  
+ > 科幻小说根本提不起我的兴趣。    
 
  > **turned,on to**  
  > It was Dad who turned me on to fishing.   
- > 是爸爸让我喜欢上钓鱼的。  （）  
+ > 是爸爸让我喜欢上钓鱼的。    
 
 3.*低义频：* **对...发怒；突然攻击...：**  
 
  > He turned on his brother, who he thought, had deceived him.   
- > 他对兄弟翻脸，认为兄弟欺骗了他。  （）  
+ > 他对兄弟翻脸，认为兄弟欺骗了他。    
 
  > The dogs suddenly turned on each other.   
- > 那两条狗突然撕咬起来。  （）  
+ > 那两条狗突然撕咬起来。    
 
 ## \*turn out
 1.*低义频：* **制造；生产；培养出：**  
 
  > The factory turns out 900 cars a week.   
- > 这家工厂一周生产九百辆汽车。  （）  
+ > 这家工厂一周生产九百辆汽车。    
 
 2.*高义频：* **原来 (是)；证明 (是)；结果 (是)**  
 
  > Unexpectedly the weather turned out pretty nice that day.   
- > 出乎意料的是，那天天气特别好。  （）  
+ > 出乎意料的是，那天天气特别好。    
 
  > **It turned out that**  
  > It turned out that his brother died of a heart attack.  
@@ -8399,32 +8483,32 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
 
  > **turned out for**  
  > A lot of people turned out for the party.  
- > 许多人参加了聚会。  （）  
+ > 许多人参加了聚会。    
 
 ## \*turn over
 1.*高义频：* **翻身；(使) 翻转；翻过 (书页):**  
 
  > He did not fall asleep, turning over in bed from time to time.   
- > 他没睡着，在床上时不时地翻身。  （）  
+ > 他没睡着，在床上时不时地翻身。    
 
  > Don’t turn over the page yet.   
- > 先别把这页翻过去。  （）  
+ > 先别把这页翻过去。    
 
 2.*低义频：* **移交：**  
 
  > He turned over the work to the secretary.   
- > 他把工作移交给了秘书。  （）  
+ > 他把工作移交给了秘书。    
 
 3.*低义频：* **反复考虑：**  
 
  > She kept turning over the events of the day in her mind.   
- > 她脑子里不断琢磨当天发生的事。  （）  
+ > 她脑子里不断琢磨当天发生的事。    
 
 ## \*turn to 
 1.**转向；求助于：**  
 
  > Their talk turned to the change that had taken place in the city.   
- > 他们的话题转到了城市发生的变化。  （）  
+ > 他们的话题转到了城市发生的变化。    
 
  > Please turn to the police for help when you are in trouble.    
  > 遇到困难请向警察求助。  （2008 上海春）  
@@ -8434,7 +8518,7 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
 反义词 turn down 
 
  > Turn up the radio so that I can hear the program.  
- > 把收音机音量开大些，好让我听到这个节目。  （）  
+ > 把收音机音量开大些，好让我听到这个节目。    
 
 2.*高义频：* **(人) 到达；出现**  
 英译 to arrive at a place：
@@ -8445,20 +8529,29 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
 3.*高义频：* **(尤指失去后) 被发现：**  
 
  > Don’t worry about the letter — I’m sure it’ll turn up.  
- > 别为那封信担心，我相信会找到的。  （）  
+ > 别为那封信担心，我相信会找到的。    
 
 
 真题解析
 ---
 1. Tom had to turn________ the invitation to the party last weekend because he was too busy.  （2015 天津改）  
+
 2. Don’t worry. I’m sure your missing glasses will turn ________ sooner or later.  （2015 湖北改）  
+
 3. When the sports hero turned ________ at our party, he was welcomed with open arms.  （2014 安徽改）  
+
 4. — What are you reading, Tom?
 — I’m not really reading, just turning ________ the pages.   （2008 全国改）  
+
 5. She’s having a lot of trouble with the new computer, but she doesn’t know whom to turn ________.   （）  
 
 答案：
-1. down  2. up  3. up  4. over  5. to  
+1. down  
+2. up  
+3. up  
+4. over  
+5. to  
+
 # ***\*turn*** n  重难点词汇
 英音 tɜːn     美音 tɜːrn  
 
@@ -8471,17 +8564,17 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
 ### 1.*高义频：* **转动：**  
 
  > Give the handle a few turns.   
- > 转动几下把手。  （）  
+ > 转动几下把手。    
 
 ### 2.*低义频：* **翻动；翻身：**  
 
  > With a few turns, she slept again.  
- > 她翻了几次身又睡着了。  （）  
+ > 她翻了几次身又睡着了。    
 
 ### 3.*高义频：* **(车辆的) 转弯； (道路的) 弯道：**  
 
  > take a turn to the right / left   
- > 向右/左转弯  （）  
+ > 向右/左转弯    
 
 ### 4.*低义频：* **(异乎寻常或意外的) 转变；变化：**  
 
@@ -8490,11 +8583,11 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
  > 可怕的事态变化  （2016 浙江）  
 
  > give a new turn to the argument   
- > 把辩论引到一个新的方面  （）  
+ > 把辩论引到一个新的方面    
 
  > **took a turn for the better,worse_1**  
  > Two days after the operation, Dad took a turn for the better / worse(= suddenly got better / worse).  
- > 手术两天后，爸爸的病情好转/恶化了。  （）  
+ > 手术两天后，爸爸的病情好转/恶化了。    
 
 ### 5.*高义频：* **(依次轮到的) 机会：**  
 
@@ -8509,13 +8602,13 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
 1.**轮流；交替：**  
 
  > Leaving home for the first time he felt cheerful and sad by turns.   
- > 第一次离开家，他时而高兴时而悲伤。  （）  
+ > 第一次离开家，他时而高兴时而悲伤。    
 
 ## \*in turn 
 1.**依次；反过来；转而：**  
 
  > They answered the teacher’s questions in turn.   
- > 他们依次回答了老师的问题。  （）  
+ > 他们依次回答了老师的问题。    
 
  > The customer praised the manager, who, in turn praised his staff.    
  > 顾客表扬了经理，经理转而表扬了员工。  （北师大③ – 8）  
@@ -8525,11 +8618,11 @@ Notes: turn表示“(使) 变成、(使) 变为”，作不及物动词时，是
 
  > **took turns,in,driving**  
  > They took turns ( in ) driving.   
- > 他们轮流开车。  （）  
+ > 他们轮流开车。    
 
  > **take turns to do**  
  > We take turns to do the housework.   
- > 我们轮流做家务。  （）  
+ > 我们轮流做家务。    
 
 
 真题解析
@@ -8539,10 +8632,13 @@ A. share
 B.chance  
 C.turn   
 D.lead  
+
 2. People try to avoid public transportation delays by using their own cars, and ________ (反过来) this creates further problems.   （）  
 
 答案：
-1. C  2. in turn  
+1. C  
+2. in turn  
+
 # ***\*turning*** n
 英音 'tɜːnɪŋ     美音 'tɜːrnɪŋ  
 
@@ -8555,11 +8651,11 @@ D.lead
 ### 1.*高义频：* **转弯处；岔路口 (AmE turn)：**  
 
  > stop at the next turning   
- > 在前面的拐弯处停下来  （）  
+ > 在前面的拐弯处停下来    
 
  > **turning point**  
  > a turning point in history   
- > 历史转折点  （）  
+ > 历史转折点    
 
 ### 2.*低义频：* **旋转**  
 
@@ -8638,10 +8734,10 @@ D.lead
 ### 1.*高义频：* **两次；两倍：**  
 
  > twice a year   
- > 一年两次  （）  
+ > 一年两次    
 
  > He is nearly twice as heavy as you.   
- > 他几乎是你的两倍重。  （）  
+ > 他几乎是你的两倍重。    
 
 
 # ***\*twin*** n
@@ -8656,7 +8752,7 @@ D.lead
 ### 1.*高义频：* **孪生儿之一；双胞胎：**  
 
  > Twins often look just alike.   
- > 双胞胎往往长得很像。  （）  
+ > 双胞胎往往长得很像。    
 
 
 # ***\*twin*** adj
@@ -8669,7 +8765,7 @@ D.lead
 ### 1.*高义频：* **孪生的；双胞胎的：**  
 
  > a twin sister   
- > 孪生姐姐/妹妹  （）  
+ > 孪生姐姐/妹妹    
 
 
 # ***\*twist*** v
@@ -8682,18 +8778,18 @@ D.lead
 ### 1.*高义频：* **vt & vi (使) 弯曲；(使) 扭曲：**  
 
  > Twist the wire to form a circle.   
- > 把金属丝弯成一个环。  （）  
+ > 把金属丝弯成一个环。    
 
  > His face twisted with pain.   
- > 他痛苦得脸都变形了。  （）  
+ > 他痛苦得脸都变形了。    
 
 ### 2.*高义频：* **vt & vi 转动 (身体等)：**  
 
  > The visitor twisted his neck to look at the photograph on the wall behind him.   
- > 参观者扭过头看他身后墙上的照片。  （）  
+ > 参观者扭过头看他身后墙上的照片。    
 
  > He twisted the cap off the bottle.   
- > 他旋开了瓶盖。  （）  
+ > 他旋开了瓶盖。    
 
 ### 3.*高义频：* **vt 扭伤：**  
 
@@ -8705,16 +8801,16 @@ D.lead
 
  > **twisting around**  
  > A snake was twisting around his arm.   
- > 一条蛇盘绕在他的手臂上。  （）  
+ > 一条蛇盘绕在他的手臂上。    
 
  > **twists and turns**  
  > The river twists and turns through the green fields.  
- > 河流蜿蜒穿过绿色的田野。  （）  
+ > 河流蜿蜒穿过绿色的田野。    
 
 ### 5.*低义频：* **vt 歪曲；曲解：**  
 
  > The papers twisted everything I said.   
- > 报纸把我说的一切都歪曲了。  （）  
+ > 报纸把我说的一切都歪曲了。    
 
 
 # ***\*twist*** n
@@ -8729,10 +8825,10 @@ D.lead
 ### 1.*高义频：* **转弯；弯曲；转折：**  
 
  > a road full of twists and turns   
- > 弯弯曲曲的路  （）  
+ > 弯弯曲曲的路    
 
  > a twist of fate   
- > 命运的转变  （）  
+ > 命运的转变    
 
 
 派生词汇
@@ -8769,16 +8865,16 @@ twisted /'twɪstɪd/ adj
 ### 1.*高义频：* **类型：**  
 
  > a new type of program   
- > 新型程序  （）  
+ > 新型程序    
 
  > **of his type**  
  > Men of his type are not to be trusted.   
- > 像他这样的人不可信赖。  （）  
+ > 像他这样的人不可信赖。    
 
 ### 2.*低义频：* **典型；模范；具有代表性的人：**  
 
  > I don’t think she’s the sporty type.   
- > 我认为她不是那种喜欢运动的人。  （）  
+ > 我认为她不是那种喜欢运动的人。    
 
 
 # ***\*type*** vt
@@ -8791,7 +8887,7 @@ twisted /'twɪstɪd/ adj
 ### 1.*高义频：* **用打字机打：**  
 
  > She typed the letter carefully.   
- > 她认真地把信打了出来。  （）  
+ > 她认真地把信打了出来。    
 
 
 # ***\*typewriter*** n
@@ -8828,7 +8924,7 @@ twisted /'twɪstɪd/ adj
 ### 1.*高义频：* **典型的；有代表性的：**  
 
  > a typical Italian cafe   
- > 典型的意大利餐馆  （）  
+ > 典型的意大利餐馆    
 
  > **typical example**  
  > The painting, named Poppy, is a typical example of Chen’s style.   
@@ -8837,10 +8933,10 @@ twisted /'twɪstɪd/ adj
 - it is typical of sb to do sth:
 
  > It is typical of him to be so gentle.   
- > 他一向都是这么温和。  （）  
+ > 他一向都是这么温和。    
 
  > It is typical of John to think about helping others in this way.   
- > 只有约翰才会想到以这种方式去帮助别人。  （）  
+ > 只有约翰才会想到以这种方式去帮助别人。    
 
 
 派生词汇
@@ -8853,6 +8949,7 @@ typically /'tɪpɪkli/ adv
 
 答案：
 1. It is typical of him  
+
 # ***\*typically*** adv
 英音 'tɪpɪkli     美音 'tɪpɪkli  
 
@@ -8888,6 +8985,6 @@ typically /'tɪpɪkli/ adv
 
  > **flat tyre**  
  > a flat tyre  
- > 轮胎瘪了  （）  
+ > 轮胎瘪了    
 
 
