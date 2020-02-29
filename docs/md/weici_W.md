@@ -612,6 +612,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 真题解析
 ---
 1. My father warned me ________ going to the West Coast because it was crowded with tourists.  （2010 天津改）  
+
 答案：
 1. against  
 
@@ -775,6 +776,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 真题解析
 ---
 1. Keep in mind that it is a shame to ________ (浪费) food.  （2014 陕西）  
+
 答案：
 1. waste  
 
@@ -810,6 +812,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ---
 1. — He says that my new car is ________ (浪费钱).
 — Don’t you think those words are just sour grapes?  （2009 山东改）  
+
 答案：
 1. a waste of money  
 
@@ -1296,6 +1299,7 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
 1. Mrs. Smith finds it hard to clear up the mess, as her children are always ________ the way whenever she tries to.  （2013 福建改）  
 2. — I think he is taking an active part in social work.
 — I agree with you ________ (在某种程度上).  
+
 答案：
 1. in  2. in a way  
 
@@ -1379,6 +1383,7 @@ weakly /'wiːkli/ adv
 真题解析
 ---
 1. We should know our own strengths and ________ (弱点) and think what could be done about them.  （2009 陕西）  
+
 答案：
 1. weaknesses  
 
@@ -1481,6 +1486,7 @@ weakly /'wiːkli/ adv
 真题解析
 ---
 1. Mother always complains that children ________ (穿破) their shoes very quickly.  （2013 江西改）  
+
 答案：
 1. wear out  
 
@@ -1509,6 +1515,7 @@ weakly /'wiːkli/ adv
 真题解析
 ---
 1. The w________ in the hills can change very quickly, so take suitable clothes.  
+
 答案：
 1. weather  
 
@@ -1878,6 +1885,7 @@ weakly /'wiːkli/ adv
 真题解析
 ---
 1. Brown stood at the door, ________ (欢迎) newcomers with a large smile.  （2009 陕西）  
+
 答案：
 1. welcoming  
 
@@ -2056,6 +2064,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ---
 1. The famous musician, as well as his students, _______ (invite) to perform at the opening ceremony of the 2012 Taipei Flower Expo.   （2013 福建改）  
 2. This training program can give you a lift at work, as good as increase your income by 40%.  （2012 四川改 改错）  
+
 答案：
 1. was invited  2. good → well  
 
@@ -2375,6 +2384,7 @@ westerner /'westənə(r)/ n [C]
 4. If you swim in a river or lake, be sure to investigate _______ is below the water surface. Often there are rocks or branches hidden in the water.   （2015 浙江改）  
 5. ________ I want to tell you is the deep love and respect I have for my parents.  （2013 天津改）  
 6. _______ a strange plant! I’ve never seen it before.   （2011 辽宁改）  
+
 答案：
 1. how → what 或during前加it  2. what  3. what  4. what  5. What  6. What  
 
@@ -2460,6 +2470,7 @@ A.However the weather is like
 B.However is the weather like  
 C.Whatever is the weather like  
 D.Whatever the weather is like  
+
 答案：
 1. A  2. C  3. A  4. D  
 
@@ -2562,6 +2573,7 @@ D.Whatever the weather is like
 ---
 1. Exactly ________ the potato was introduced into Europe is uncertain, but it was probably around 1565.  （2014 全国改）  
 2. As the smallest child of his family, Alex is always longing for the time _______ he should be able to be independent.   （2015 陕西改）  
+
 答案：
 1. when  2. when  
 
@@ -2612,6 +2624,7 @@ Notes: 此时主句的时态通常是过去完成时、过去进 行时或含有
 ---
 1. It was April 29, 2011 _______ Prince William and Kate Middleton walked into the palace hall of the wedding ceremony.   （2011 福建改）  
 2. She had just finished her homework ________ her mother asked her to practise playing the piano yesterday.  （2009 福建改）  
+
 答案：
 1. when  2. when  
 
@@ -2636,6 +2649,7 @@ Notes: 此时主句的时态通常是过去完成时、过去进 行时或含有
 真题解析
 ---
 1. The last time we had great fun was ________ we were visiting the Water Park.  （2008 天津改）  
+
 答案：
 1. when  
 
@@ -2673,6 +2687,7 @@ A.whenever
 B.whatever  
 C.wherever  
 D.however  
+
 答案：
 1. B  2. A  
 
@@ -2740,6 +2755,7 @@ Notes: 先行词为表示抽象地点概念的名词case, situation, position, s
 3. Opposite is St. Paul’s Church, ________ you can hear some lovely music.  （2015 北京改）  
 4. The boss of the company is trying to create an easy atmosphere ________ his employees enjoy their work.  （2015 天津改）  
 5. You have to know ________ you’re going if you are to plan the best way of getting there.  （2015 湖南改）  
+
 答案：
 1. that → where  2. Where  3. where  4. where  5. where  
 
@@ -2837,6 +2853,7 @@ A.whatever
 B.whoever  
 C.wherever  
 D.whichever  
+
 答案：
 1. C  
 
@@ -2908,6 +2925,7 @@ Notes: whether 的以上用法中，只有引导宾语从句时可以与if 互�
 1. It remains to be seen ________ the newly formed committee’s policy can be put into practice.  （2013 陕西改）  
 2. Everyone in the village is very friendly. It doesn’t matter ________ you have lived there for a short or a long time.  （2012 湖南改）  
 3. All people, ________ they are old or young, rich or poor, have been trying their best to help those in need since the disaster.  （2008 重庆改）  
+
 答案：
 1. whether / if  2. whether  3. whether  
 
@@ -2965,6 +2983,7 @@ A.when
 B.where   
 C.why   
 D.which  
+
 答案：
 1. which  2. which  3. in  4. D  
 
@@ -3017,6 +3036,7 @@ A.whatever
 B.whichever  
 C.whenever  
 D.wherever  
+
 答案：
 1. B  
 
@@ -3045,6 +3065,7 @@ A.Whoever
 B.Whatever  
 C.whichever  
 D.Wherever  
+
 答案：
 1. C  
 
@@ -3093,6 +3114,7 @@ B.if
 C.as  
 D.while  
 4. Mary made coffee ________ her guests were finishing their meal.  （2010 全国改）  
+
 答案：
 1. a  2. While / Although / Though  3. D  4. while  
 
@@ -3196,6 +3218,7 @@ D.while
 ---
 1. What are you girls ________ (耳语) about?  （2012 全国）  
 2. Mum whispered_________ us, “Be quiet! Your little sister’s sleeping.”   
+
 答案：
 1. whispering  2. to   
 
@@ -3318,6 +3341,7 @@ Notes: who还可用于强调句型 it is / was ... who ...，此时被强调部�
 1. Happiness and success often come to those ________ are good at recognizing their own strengths.  （2013 湖南改）  
 2. After the flooding, people were suffering in that area, ________ urgently needed clean water, medicine and shelter to survive.  （2012 江苏改）  
 3. How much one enjoys himself travelling depends largely on ________ he goes with, whether his friends or relatives.  （2010 四川改）  
+
 答案：
 1. who  2. who  3. who / whom  
 
@@ -3364,6 +3388,7 @@ A.who
 B.whomever  
 C.no matter who  
 D.whoever  
+
 答案：
 1. C  2. A  3. D  
 
@@ -3466,6 +3491,7 @@ D.whoever
 2. Have you sent thank-you notes to the relatives from ________ you received gifts?  （2012 上海改）  
 3. In our class there are 46 students, ________ whom half wear glasses.  （2012 四川改）  
 4. She brought with her three friends, none of ________ I had ever met before.  （2009 全国改）  
+
 答案：
 1. whom  2. whom  3. of  4. whom  
 
@@ -3508,6 +3534,7 @@ D.whoever
 1. I live next door to a couple ________ children often make a lot of noise.  （2016 北京改）  
 2. The books on the desk, ________ covers are shiny, are prizes for us.  （2015 四川改）  
 3. I wish to thank Professor Smith, without ________ help I would never have got this far.  （2012 天津改）  
+
 答案：
 1. whose  2. whose  3. whose  
 
@@ -3573,6 +3600,7 @@ C.what
 D.which  
 4. — Is it true that Mike refused an offer from Yale University yesterday?
 — Yeah, but I have no idea ________ he did it; that’s one of his favorite universities.  （2014 重庆改）  
+
 答案：
 1. Why not  2. Why me  3. B  4. why  
 
@@ -3705,6 +3733,7 @@ widen /'waɪdn/ v
 真题解析
 ---
 1. China Daily is ________ (广泛地) read in North America.  （2009 陕西）  
+
 答案：
 1. widely  
 
@@ -3943,6 +3972,7 @@ C.I shall
 B.don’t  
 C.will  
 D.do  
+
 答案：
 1. C  2. will  3. won’t  
 
@@ -4342,6 +4372,7 @@ winding  /winding/ adj
 ---
 1. Ellen is a fantastic dancer. I wish I ________ (dance) as well as her.  （2015 陕西改）  
 2. I wish I ________ (be) at my sister’s wedding last Tuesday, but I was on a business trip in New York then.  （2015 天津改）  
+
 答案：
 1. danced  2. had been  
 
@@ -4473,6 +4504,7 @@ B.of
 C.with   
 D.from  
 4. You have no idea how she finished the relay race ________her foot wounded so much.  （2008 福建改）  
+
 答案：
 1. with  2. with  3. C  4. with  
 
@@ -4539,6 +4571,7 @@ D.from
 A.near  
 B.upon  
 D.around  
+
 答案：
 1. within   
 
@@ -4570,6 +4603,7 @@ A.For
 B.Without   
 C.Beneath   
 D.By  
+
 答案：
 1. D  2. B  
 
@@ -4742,6 +4776,7 @@ D.By
 ---
 1. He hasn’t slept at all for three days. ________ (难怪) he is tired out.  
 A.	  
+
 答案：
 1. It is no wonder / No wonder  
 
@@ -5034,6 +5069,7 @@ B.has been working
 C.had worked  
 D.has worked  
 3. You can’t predict everything. Often things don’t work ________as you expect.  （2011 江西改）  
+
 答案：
 1. working  2. B  3. out  
 
@@ -5395,6 +5431,7 @@ worrying /'wʌriɪŋ/ adj
 真题解析
 ---
 1. It looks like the weather is changing ________ the worse . Shall we stick to our plan?   （2008 辽宁）  
+
 答案：
 1. for  
 
@@ -5628,6 +5665,7 @@ worthless /'wɜːθləs/ adj
 真题解析
 ---
 1. Mistakes don’t just happen; they occur for a reason. Find out the reason, and then making the mistake becomes ________ (值得的).   （2010 湖北改）  
+
 答案：
 1. worthwhile  
 
@@ -5736,6 +5774,7 @@ A.hadn’t you
 B.wouldn’t you   
 C.aren’t I   
 D.didn’t she  
+
 答案：
 1. wouldn’t have written  2. C  3. would have come  4. C  5. B  
 
@@ -5975,6 +6014,7 @@ writer  /'raɪtə(r)/ n [C]
 真题解析
 ---
 1. The article was w ________in German and translated into Chinese.   （2005 浙江）  
+
 答案：
 1. written  
 

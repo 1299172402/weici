@@ -285,6 +285,7 @@ observer /əb'zɜːvə(r)/ n [C]
 真题解析
 ---
 1. Though having lived abroad for years, many Chinese still ________ (奉行) the traditional customs.  （2008 湖北改）  
+
 答案：
 1. observe  
 
@@ -361,6 +362,7 @@ observer /əb'zɜːvə(r)/ n [C]
 真题解析
 ---
 1. Most people on this island are recreational fishers, and ________ (obvious), fishing forms an actual part of their leisure time.  （2004 上海改）  
+
 答案：
 1. obviously  
 
@@ -426,6 +428,7 @@ observer /əb'zɜːvə(r)/ n [C]
 真题解析
 ---
 1. I saw Bob play the piano at John’s party and ________ that occasion he was simply brilliant.  （2002 上海春改）  
+
 答案：
 1. on  
 
@@ -458,6 +461,7 @@ observer /əb'zɜːvə(r)/ n [C]
 真题解析
 ---
 1. I’ve been writing this report ________ (occasional) for the last two weeks, but it has to be handed in tomorrow.  （2011 浙江改）  
+
 答案：
 1. occasionally  
 
@@ -596,6 +600,7 @@ occurrence /ə'kʌrəns/ n
 真题解析
 ---
 1. It suddenly occurred to him ________ he had left his keys in the office.  （2012 江西改）  
+
 答案：
 1. that  
 
@@ -706,6 +711,7 @@ occurrence /ə'kʌrəns/ n
 ---
 1. A common memory they all have ________ their school days is the school uniform.  （2015 福建改）  
 2. ________ all the animals I’ve ever had, these two dogs are the most sensitive to the spoken word.  （2012 浙江改）  
+
 答案：
 1. of  2. Of  
 
@@ -757,6 +763,7 @@ occurrence /ə'kʌrəns/ n
 真题解析
 ---
 1. She drove so fast at the turn that the car almost went _________ the road.  （2014 重庆改）  
+
 答案：
 1. off  
 
@@ -794,6 +801,7 @@ occurrence /ə'kʌrəns/ n
 真题解析
 ---
 1. The Well Hotel stands in a quiet place ________ the main road at the far end of the lake.  （2012 辽宁改）  
+
 答案：
 1. off  
 
@@ -837,6 +845,7 @@ A.discourage
 B.offend  
 C.disturb   
 D.bother  
+
 答案：
 1. B  
 
@@ -927,6 +936,7 @@ D.bother
 真题解析
 ---
 1. A good listener takes part in the conversation, ________ (offer) ideas and raising questions to keep the talk flowing.  （2013 浙江改）  
+
 答案：
 1. offering  
 
@@ -980,6 +990,7 @@ D.bother
 ---
 1. — Can I help you with it?
 — I appreciate your ________ (好意), but I can manage it myself.  （2012 江苏改）  
+
 答案：
 1. offer  
 
@@ -1119,6 +1130,7 @@ D.bother
 真题解析
 ---
 1. The title will be ________ (official) given to me at a ceremony in London.  （2016 全国）  
+
 答案：
 1. officially  
 
@@ -1176,6 +1188,7 @@ D.bother
 ---
 1. — I wonder how ________ you’ll water this kind of flower.
 — Every other day.  （2009 四川改）  
+
 答案：
 1. often  
 
@@ -1378,6 +1391,7 @@ D.bother
 ---
 1. Nick, it’s good for you to read some books ________ China before you start your trip there.  （2011 四川改）  
 2. He invited me to a dance after the show ________ Christmas Eve.  （2009 陕西改）  
+
 答案：
 1. on / about  2. on  
 
@@ -1500,6 +1514,7 @@ Notes: never / not once位于句首时，句子用部分倒装语序。
 真题解析
 ---
 1. Mary and I see each other ________ (偶尔), but not as often as we used to.  （2009 山东改）  
+
 答案：
 1. once in a while  
 
@@ -1519,6 +1534,7 @@ Notes: never / not once位于句首时，句子用部分倒装语序。
 真题解析
 ---
 1. ________ (一旦) the damage is done, it will take many years for the farmland to recover.  （2015 北京改）  
+
 答案：
 1. Once  
 
@@ -1623,6 +1639,7 @@ B.that
 C.what  
 D.one  
 3. Charles was alone at home, with no ________ looking after him.  （2009 全国改）  
+
 答案：
 1. one  2. D  3. one  
 
@@ -1766,6 +1783,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 1. I have grown not only physically, and also mentally in the past few years.  （2017 全国  改错）  
 2. Only when Lily walked into the office ________ (她才意识到) that she had left the contract at home.  （2015 天津改）  
 3. Anxiously, she took the dress out of the package and tried it on, only ________ (find) it didn’t fit.  （2014 天津改）  
+
 答案：
 1. and → but  2. did she realize  3. to find  
 
@@ -2398,6 +2416,7 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 真题解析
 ---
 1. David turned and walked off in the ________ (相反) direction.  （2008 全国）  
+
 答案：
 1. opposite  
 
@@ -2482,6 +2501,7 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 真题解析
 ---
 1. My good performance in the job interview left me optimistic ________ my future.  （2014 安徽改）  
+
 答案：
 1. about  
 
@@ -2524,6 +2544,7 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 真题解析
 ---
 1. In that school, English is compulsory for all students, but French and Russian are ________ (option).  （2011 江苏改）  
+
 答案：
 1. optional  
 
@@ -2564,6 +2585,7 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 真题解析
 ---
 1. Don’t turn off the computer before closing all programs, ________ you could have problems.  （2013 北京改）  
+
 答案：
 1. or   
 
@@ -2783,6 +2805,7 @@ orally /'ɔːrəli/ adv
 ---
 1. ________ (order) over a week ago, the books are expected to arrive any time now.  （2016 北京改）  
 2. The police officers in our city work hard ________ (为了) the rest of us can live a safe life.   （2011 上海改）  
+
 答案：
 1. Ordered  2. in order that / so that  
 
@@ -2866,6 +2889,7 @@ ordered /'ɔːdəd/ adj
 真题解析
 ---
 1. What I want is not just an ordinarily cafe but a vey special one.  （2006 全国  改错）  
+
 答案：
 1. ordinarily-ordinary  
 
@@ -3300,6 +3324,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 1. The form cannot be signed by anyone ________ (除了) yourself.  （2011 全国改）  
 2. I’ll spend half of my holiday practising English and ________ half learning drawing.  （2010 全国改）  
 3. I got the story from Tom and ________ (其他的一些) people who had worked with him.  （2004 天津改）  
+
 答案：
 1. other than / except  2. the other  3. some other  
 
@@ -3342,6 +3367,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 1. While one of the twins is being bottle-fed, ________ other is with mum.  （2016 全国改）  
 2. In some countries, people eat with chopsticks, while in ________, knives and forks.  （2014 福建改）  
 3. You are a team star! Working with other is really your cup of tea.  （2010 安徽改 改错）  
+
 答案：
 1. the  2. others  3. other → others  
 
@@ -4030,6 +4056,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 1. I’m sorry I didn’t phone you, but I’ve been very busy ________ the past couple of weeks.  （2011 山东改）  
 2. You can’t wear a blue jacket _________ that shirt — it’ll look terrible.  （2004 湖南）  
 3. They had a pleasant chat ________ a cup of coffee.  
+
 答案：
 1. over  2. over  3. over  
 

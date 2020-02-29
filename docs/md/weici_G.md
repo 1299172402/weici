@@ -552,6 +552,7 @@ gathering /'ɡæðərɪŋ/ n [C]
 真题解析
 ---
 1. ____________ general, the northerners are keen on dumplings while the southerners are fond of rice.  （2003 上海春改）  
+
 答案：
 1. In  
 
@@ -606,6 +607,7 @@ gathering /'ɡæðərɪŋ/ n [C]
 真题解析
 ---
 1. ________ (一般来说), the more expensive the camera, the better its quality.  （2005全国改）  
+
 答案：
 1. Generally speaking / In general  
 
@@ -697,6 +699,7 @@ generously /'dʒenərəsli/ adv
 真题解析
 ---
 1. He didn't selfishly keep for himself the money inherited from his uncle. Instead, he made a(n) __________ (慷慨的) contribution to help the community.  （2013 湖北改）  
+
 答案：
 1. generous  
 
@@ -844,6 +847,7 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
 真题解析
 ---
 1. In _________ (地理) lessons we learn about countries and people in them.  （2006 陕西）  
+
 答案：
 1. geography  
 
@@ -1033,6 +1037,7 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
 真题解析
 ---
 1. 1.Before driving into the city, you are required to get your car  _________ (wash).  （2012 四川改）  
+
 答案：
 1. washed  
 
@@ -1356,6 +1361,7 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
 7. After that, he knew he could get________ any emergency by doing what he could to the best of his ability.  （2010 浙江改）  
 8. It's going to rain. Xiao Feng, will you please help me get ________the clothes on the line?  （2008 陕西改）  
 9. I used to quarrel a lot with my parents, but now we get ________fine.  （2008 四川改）  
+
 答案：
 1. through  2. down to  3. get away  4. get over  5. into  6. washed  7. through  8. in  9. along / on  
 
@@ -1704,6 +1710,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
 2. Body language can give ________ a lot about your mood, so standing with your arms folded can send out a signal that you are being defensive.  （2015 浙江改）  
 3. The news of the mayor's coming to our school for a visit was given _________ on the radio yesterday.  （2007 福建改）  
 4. What shall we use for power when all the oil in the world has given__________ ?  （2005 山东改）  
+
 答案：
 1. gave / had given  2. away  3. out  4. out  
 
@@ -2588,6 +2595,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  — Just________ (用吧). It's a spare one.  （2014 江西改）  
 4. To get a better grade, you should go _________ the notes again before the test.  （2011 四川改）  
 5. I don't go in ________ rock 'n' roll. It's much too noisy for my taste.  （2004 北京改）  
+
 答案：
 1. to  2. to thank  3. go ahead  4. over  5. for  
 
@@ -3279,6 +3287,7 @@ graceful /'ɡreɪsfl/ adj
 ---
 1. The girl used to be shy, but is ________ (gradual) getting active in group work and is more willing to express herself.   （2015 湖北改）  
 2. You'll ________ (逐渐) get better at it — it's just a question of practice.  （2011 全国）  
+
 答案：
 1. gradually  2. gradually  
 
@@ -3736,6 +3745,7 @@ Notes: 表示理解语言、词汇或文章等时只能用 understand，不能�
 真题解析
 ---
 1. I'm so grateful________ all those volunteers because they helped my terrible day end happily.  （2015 安徽改）  
+
 答案：
 1. to  
 
@@ -3862,6 +3872,7 @@ A.Yes, why not?
 B.Oh, it would be my pleasure.  
 C.Yes, please.  
 D.Oh, that would be great.  
+
 答案：
 1. D  
 
@@ -4633,6 +4644,7 @@ A.I guess not so
 B.I don’t guess  
 C.I don’t guess so  
 D.I guess not  
+
 答案：
 1. A  2. D  
 

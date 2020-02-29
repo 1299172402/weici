@@ -204,6 +204,7 @@
 真题解析
 ---
 1. Parents and children should communicate more to n________ the gap between them so that they can understand each other better.  （2012 天津改）  
+
 答案：
 1. narrow  
 
@@ -223,6 +224,7 @@
 真题解析
 ---
 1. The final score of the basketball match was 93-94. We were only  ________ (narrow) beaten.  
+
 答案：
 1. narrowly  
 
@@ -317,6 +319,7 @@
 真题解析
 ---
 1. David Beckham’s ________ (国籍) is British.  （2012 全国）  
+
 答案：
 1. nationality  
 
@@ -420,6 +423,7 @@
 真题解析
 ---
 1. You will be better accepted if you can speak more ________ (自然地) in public.   （2005 全国）  
+
 答案：
 1. naturally  
 
@@ -741,6 +745,7 @@ neatly /niːtli/ adv
 ---
 1. — Don’t you think it necessary that he ________ (not send) to Miami but to New York?
 — I agree, but the problem is that he has refused to.  （2005 江苏改）  
+
 答案：
 1. (should) not be sent  
 
@@ -851,6 +856,7 @@ needy /'niːdi/ adj
 真题解析
 ---
 1. Many Chinese universities provide scholarships for students ________ need of financial aid.  （2008 天津改）  
+
 答案：
 1. in  
 
@@ -890,6 +896,7 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 真题解析
 ---
 1. We’ve had a good start, but next, more work needs ________ (do) to achieve the final success.  （2012 湖南改）  
+
 答案：
 1. to be done / doing  
 
@@ -925,6 +932,7 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 ---
 1. I love the weekend, because I ________ (不必) get up early on Saturdays and Sundays  （2016 北京改）  
 2. I ________ (原不必担心) before I came to the new school, for my classmates here are very friendly to me. (need)  （2015 天津改）  
+
 答案：
 1. needn’t  2. needn’t have worried  
 
@@ -1033,6 +1041,7 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 真题解析
 ---
 1. The minister said, “We are ready for discussions with any legal parties, but we’ll never negotiate ________ criminals.”  （2011 湖北改）  
+
 答案：
 1. with  
 
@@ -1080,6 +1089,7 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 真题解析
 ---
 1. One of our ________ (邻居) kept a very beautiful garden.  （2008 全国）  
+
 答案：
 1. neighbo(u)rs  
 
@@ -1142,6 +1152,7 @@ Notes: “neither of + 复数名词 / 代词”作主语时，谓语动词既可
 1. The research group produced two reports based on the survey, but _______ contained any useful suggestions.  （2015 福建改）  
 2. She’d lived in London and Manchester, but she liked ________ and moved to Cambridge.   （2014 四川改）  
 3. Larry asks Bill and Peter to go on a picnic with him, but ________ of them wants to, because they have work to do.   （2012 全国改）  
+
 答案：
 1. neither  2. neither  3. neither   
 
@@ -1190,6 +1201,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
 ---
 1. — Poor Steve! I could hardly recognize him just now!
 — Me ________. He has changed so much.   （2009 山东改）  
+
 答案：
 1. neither  
 
@@ -1222,6 +1234,7 @@ Notes: neither与单数名词连用时，谓语动词用单数。
 真题解析
 ---
 1. Bob’s ________ (侄子) is a freshman at Harvard University.   （2012 全国）  
+
 答案：
 1. nephew  
 
@@ -1427,6 +1440,7 @@ B.Nothing serious.
 C.Never again.  
 D.Never mind.  
 3. I can ________ (永不) be a teacher. I’m not a very patient person.  （2009 湖南改）  
+
 答案：
 1. C  2. C  3. never  
 
@@ -1907,6 +1921,7 @@ Notes: 在英语口语中，nobody比no one更常用。
 ---
 1. When every pupil in the school wears the uniform, nobody ________ (have) to worry about fashion(时尚）  （2019 浙江）  
 2. The meeting will be held in September, but ________ (没人) knows the date for sure.  （2015 重庆改）  
+
 答案：
 1. has / will have  2. nobody / no one  
 
@@ -2060,6 +2075,7 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
 2. Although Rosemary had suffered from a serious illness for years, she lost ________ of her enthusiasm for life.  （2013 陕西改）  
 3. — What do you think of the performance today?
 — Great! ________ but a musical genius could perform so successfully.   （2007 江西改）  
+
 答案：
 1. none  2. none  3. None  
 
@@ -2180,6 +2196,7 @@ A.does he even give
 B.he even gives  
 C.will he even give  
 D.he will even give  
+
 答案：
 1. C  2. C  
 
@@ -2237,6 +2254,7 @@ D.he will even give
 真题解析
 ---
 1. Such a blood pressure is  ________ (正常的) for  a person of his age.  （ 2013 陕西）  
+
 答案：
 1. normal  
 
@@ -2586,6 +2604,7 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 真题解析
 ---
 1. It is often said that the joy of travelling is not in arriving at your destination ________ in the journey itself.  （2008 江苏改）  
+
 答案：
 1. but  
 
@@ -2697,6 +2716,7 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 真题解析
 ---
 1. Scientists have responded by ________ (note) that hungry bears may be congregating(聚集) around human settlements.  （2019 全国）  
+
 答案：
 1. noting  
 
@@ -2802,6 +2822,7 @@ C.Something
 D.Everything  
 2. Swimming is my favorite sport. There is nothing ________ swimming as a means of keeping fit.  （2010 江西改）  
 3. I got this bicycle ________ nothing: My friend gave it to me when she bought a new one.  （2011 全国改）  
+
 答案：
 1. A  2. like  3. for  
 
@@ -2879,6 +2900,7 @@ C.Something
 D.Everything  
 2. Swimming is my favorite sport. There is nothing ________ swimming as a means of keeping fit.  （2010 江西改）  
 3. I got this bicycle for _________: My friend gave it to me when she bought a new one.  （2011 全国改）  
+
 答案：
 1. A.  2. like  3. nothing  
 
@@ -2958,6 +2980,7 @@ noticeable /'nəʊtɪsəbl/ adj
 真题解析
 ---
 1. I looked up and noticed a snake ________ (wind) its way up the tree to catch its breakfast.   （2012 四川改）  
+
 答案：
 1. winding  
 
@@ -3167,6 +3190,7 @@ A.nowhere near enough
 B.near enough nowhere  
 C.enough near nowhere  
 D.near nowhere enough  
+
 答案：
 1. A.  
 

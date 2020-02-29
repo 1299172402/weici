@@ -189,6 +189,7 @@ def chuli(t):
             print(str(i)+'. ',end='',file=f)
             gy_exam_link(exam,'q')
             i=i+1
+        print(file=f)
         i=1
         print('答案：',file=f)
         for exam in a['gy_exam_link']:

@@ -49,6 +49,7 @@
 4. I can't tell you ________ way to the Wilsons' because we don't have ________ Wilson here in the village.  （2014 重庆改）  
 5. The paper is due next month, and I am working seven days ________ week, often long into ________ night.  （2014 浙江改）  
 A.a; the  
+
 答案：
 1. an → a  2. the → a  3. 第一个a → an / one  4. the; a  5. a; the  
 
@@ -320,6 +321,7 @@ ably / 'eɪbl/ adv
 真题解析
 ---
 1. Modern equipment and no smoking are two of the things I like ________ working here.  （2008 全国改）  
+
 答案：
 1. about  
 
@@ -362,6 +364,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 真题解析
 ---
 1. Tom was about to close the window ________ his attention was caught by a bird.  （2010 全国改）  
+
 答案：
 1. when  
 
@@ -409,6 +412,7 @@ Notes: be about to常与when连用，表示“刚要…突然…”。
 1. Last year was the warmest year on record, with global temperature 0.68℃ ________ the average.  （2015 重庆改）  
 2. To be great, you must be smart, confident, and, _________(最重要的是), honest.  （2011 安徽改）  
 3. A great person is always putting others’ interests  ________ his own.  （2009 四川改）  
+
 答案：
 1. above  2. above all  3. above  
 
@@ -696,6 +700,7 @@ absorbed /əb'sɔːbd/ adj
 真题解析
 ---
 1. ________ (absorb) in painting, John didn’t notice evening approaching.  （2015 天津改）  
+
 答案：
 1. Absorbed  
 
@@ -975,6 +980,7 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
 ---
 1. If ______ (accept) for the job, you’ll be informed soon.  （2015 北京改）  
 2. It was pouring with rain so I ______ (接受) his offer of a lift.  （2015 陕西）  
+
 答案：
 1. accepted  2. accepted  
 
@@ -1085,6 +1091,7 @@ Notes:   access ≠ way, access作为名词，其含义中包含了某种动作�
 ---
 1. The system has been designed to give students quick and easy access ________ the digital resources of
 the library.   （2009 浙江改）  
+
 答案：
 1. to  
 
@@ -1112,6 +1119,7 @@ the library.   （2009 浙江改）
 真题解析
 ---
 1. Frank put the medicine in the top drawer to make sure it would not be ________ (access) to the kids.  （2009 江西改）  
+
 答案：
 1. accessible  
 
@@ -1162,6 +1170,7 @@ accidental /ˌæksɪ'dentl/ adj
 真题解析
 ---
 1. Lucy was badly hurt in a traffic a________ last week.   （2008 浙江）  
+
 答案：
 1. accident  
 
@@ -1209,6 +1218,7 @@ Notes: 美语中常用复数 accommodations。
 真题解析
 ---
 1. After the earthquake, the first thing the local government did was to provide _______ (住处) for the homeless families.  （2010 湖北改）  
+
 答案：
 1. accommodation(s)  
 
@@ -1338,6 +1348,7 @@ Notes: on no account置于句首，其所在的句子要用倒装语序。
 真题解析
 ---
 1. I ________ (开了个银行账户) after I made $1,000 by doing a part-time job during the summer vacation.  （2011 天津改）  
+
 答案：
 1. opened/set up a bank account  
 
@@ -1506,6 +1517,7 @@ Notes: 口语中更常用 (be) used to (doing) sth。
 ---
 1. — They are quiet, aren’t they?
 — Yes. They are accustomed to not _________ (talk) at meals  （2008 江苏改）  
+
 答案：
 1. talking  
 
@@ -1581,6 +1593,7 @@ Notes: ache常与表示身体部位的单词构成合成词， 如：headache, s
 真题解析
 ---
 1. Lucy has ________ (达到) all of the goals she set for herself in high school and is ready for new challenges at university.  
+
 答案：
 1. achieved / attained  
 
@@ -1613,6 +1626,7 @@ Notes: ache常与表示身体部位的单词构成合成词， 如：headache, s
 真题解析
 ---
 1. Handle the most important tasks first so you’ll feel a real sense of ________ (achieve).  （2016 全国）  
+
 答案：
 1. achievement  
 
@@ -1730,6 +1744,7 @@ A.display
 B.acquire  
 C.teach  
 D.test  
+
 答案：
 1. B  
 
@@ -1805,6 +1820,7 @@ A.across; across
 B.over; through  
 C.over; into  
 D.across; through  
+
 答案：
 1. D  
 
@@ -1896,6 +1912,7 @@ D.across; through
 真题解析
 ---
 1. We went to Canada to travel and my cousin acted ________ our guide.  
+
 答案：
 1. as  
 
@@ -2055,6 +2072,7 @@ D.across; through
 真题解析
 ---
 1. While a person is asleep, a part of his brain is still _________(活跃的).  
+
 答案：
 1. active  
 
@@ -2074,6 +2092,7 @@ D.across; through
 真题解析
 ---
 1. It is good for elderly people to be ________ (active) involved in community service.  
+
 答案：
 1. actively  
 
@@ -2179,6 +2198,7 @@ D.across; through
 ---
 1. — Do you think it’s a good idea to make friends with your students?
 — ________ (actual), I do. I think it’s a great idea.  （2009 安徽改）  
+
 答案：
 1. Actually  
 
@@ -2266,6 +2286,7 @@ D.across; through
 真题解析
 ---
 1. The good thing about children is that they adapt very easily ________ new environments.  （2009 浙江改）  
+
 答案：
 1. to  
 
@@ -2337,6 +2358,7 @@ D.across; through
 真题解析
 ---
 1. The engine of the ship was out of order and the bad weather added ________ the helplessness of the crew at sea.  
+
 答案：
 1. to  
 
@@ -2448,6 +2470,7 @@ additional   /ə'dɪʃənl/ adj
 真题解析
 ---
 1. In addition________the school, the village has a clinic, which was also built with government support.  （2014 天津改）  
+
 答案：
 1. to  
 
@@ -2489,6 +2512,7 @@ additional   /ə'dɪʃənl/ adj
 真题解析
 ---
 1. Fill in the form with your name, home a ________, and phone number.   
+
 答案：
 1. address  
 
@@ -2533,6 +2557,7 @@ additional   /ə'dɪʃənl/ adj
 真题解析
 ---
 1. Fill in the form with your name, home a____________, and phone number.  
+
 答案：
 1. address  
 
@@ -2642,6 +2667,7 @@ A.judgments
 B.adjustments  
 C.comments  
 D.achievements  
+
 答案：
 1. B  
 
@@ -2816,6 +2842,7 @@ admittedly /əd'mɪtɪdli/ adv
 真题解析
 ---
 1. If you leave the club, you will not ________ (admit)back in.   （2009 全国改）  
+
 答案：
 1. be admitted  
 
@@ -3009,6 +3036,7 @@ adopted  /ə'dɑːptɪd/ adj
 真题解析
 ---
 1. This meeting room is a non-smoking area. I would like to warn you _______ advance that if you smoked here you would be fined.  （2015 湖北改）  
+
 答案：
 1. in  
 
@@ -3102,6 +3130,7 @@ adopted  /ə'dɑːptɪd/ adj
 ---
 1. I’m going to________ advantage of this tour to explore the history of the castle.  （2016 天津改）  
 2. For a goalkeeper, it’s a great ________ (优势) to have big hands.   （2009 全国）  
+
 答案：
 1. take  2. advantage  
 
@@ -3499,6 +3528,7 @@ affordable  /ə'fɔːdəbl/ adj
 ---
 1. Eating out once or twice a week may be __________(afford) but doing this most days adds up.  （2018 浙江）  
 2. More and more Chinese people are able to ________ (付得起) to travel abroad.   （2012 陕西）  
+
 答案：
 1. affordable  2. afford  
 
@@ -3515,6 +3545,7 @@ affordable  /ə'fɔːdəbl/ adj
 真题解析
 ---
 1. Those poor and needy teenagers were excited to find a shop at the corner where they could buy ________ (affordable) priced bikes.  （2013 福建改）  
+
 答案：
 1. affordably  
 
@@ -3584,6 +3615,7 @@ affordable  /ə'fɔːdəbl/ adj
 ---
 1. — Everybody is going to climb the mountain. Can I go too, mom?
 — ________ (恐怕不行). Wait till you are old enough, dear.  （2010 全国改）  
+
 答案：
 1. I’m afraid not  
 
@@ -3648,6 +3680,7 @@ affordable  /ə'fɔːdəbl/ adj
 真题解析
 ---
 1. Bob thought he couldn’t go to the party because he had to write a report, but he went_______all.  （2018 天津改）  
+
 答案：
 1. after  
 
@@ -3818,6 +3851,7 @@ affordable  /ə'fɔːdəbl/ adj
 ---
 1.  It was a real race ________ time to get the project done. Luckily, we made it.   （2013 全国改）  
 2. An agreement seems to be impossible because the majority of the committee members are _______ (反对) it.  （2012 陕西改）  
+
 答案：
 1. against  2. against  
 
@@ -4008,6 +4042,7 @@ A.childish
 B.artificial  
 C.aggressive  
 D.heroic  
+
 答案：
 1. C  
 
@@ -4130,6 +4165,7 @@ agreeable  /ə'ɡriːəbl/ adj
 1. You look well. The air and the sea foods in Sanya must agree ________ you, I suppose.  （2010 陕西改）  
 2. — When did you last hear from Jay?
 — He phoned me this morning, and we agreed ________ a time and place to meet.  （2008 湖南改）  
+
 答案：
 1. with  2. on  
 
@@ -4940,6 +4976,7 @@ B.anything
 C.all  
 D.that  
 4. All we need _______ (be) a small piece of land where we can plant various kinds of fruit trees throughout the growing seasons of the year.  （2014 湖南改）  
+
 答案：
 1. that  2. Not at all  3. C  4. is  
 
@@ -4970,6 +5007,7 @@ D.that
 真题解析
 ---
 1. David is allergic ________ animal fur, so he won’t visit anyone who has cats or dogs in the house.   （2013 安徽改）  
+
 答案：
 1. to  
 
@@ -5092,6 +5130,7 @@ allowable  /ə'laʊəbl/ adj
 2. The writing point of the pen should allow the ink ________ (flow) evenly (均匀地) while the pen remains in touch with the paper.  （2010 安徽改）  
 3. — Can I smoke here?
 — Sorry. We don’t allow ________ (smoke) here.  
+
 答案：
 1. to go  2. to flow  3. smoking  
 
@@ -5200,6 +5239,7 @@ A.You’re not alone
 B.It’s hard to say  
 C.I’m afraid not  
 D.It’s up to you  
+
 答案：
 1. A  
 
@@ -5262,6 +5302,7 @@ Notes: 主语后跟有along with短语时，谓语动词的单复数应和along 
 ---
 1. Nowadays, cycling, along with jogging and swimming, ______
 (be) regarded as one of the best all-round forms of exercise.   （2017 天津改）  
+
 答案：
 1. is  
 
@@ -5473,6 +5514,7 @@ B.aggressive
 C.ambiguous  
 D.apparent  
 2. As there is less and less coal and oil, scientists are exploring new ways of making use of ________(替代能源), such as sunlight, wind and water for power and fuel.  （2009 湖北改）  
+
 答案：
 1. A  2. alternative energy  
 
@@ -5505,6 +5547,7 @@ A.As
 B.If  
 C.Although  
 D.Once  
+
 答案：
 1. Although / Though  2. C  
 
@@ -5667,6 +5710,7 @@ amazement /ə'meɪzmənt/ n
 ---
 1. I was amazing at the fact that a sick person could feel much more better after seeing a doctor.  （2019 全国 改错）  
 2. Little Tom sat_______(amaze) watching the monkey dancing in front of him.  （2015 四川改）  
+
 答案：
 1. amazing→amazed: 去掉more  2. amazed  
 
@@ -5931,6 +5975,7 @@ amusing /ə'mjuːzɪŋ/ adj
 真题解析
 ---
 1. Lucy has a great sense of humour and always keeps her colleagues ________ (amuse) with her stories.  （2010 上海改）  
+
 答案：
 1. amused  
 
@@ -6018,6 +6063,7 @@ every day.
   （2017 全国改错）  
 4. I can't tell you ________ way to the Wilsons' because we don’t have ________ Wilson here in the village.  （2014 重庆改）  
 5. The paper is due next month, and I am working seven days ________ week, often long into ________ night.  （2014 浙江改）  
+
 答案：
 1. an → a  2. the → a  3. 第一个a → an / one  4. the; a  5. a; the  
 
@@ -6187,6 +6233,7 @@ A.and
 B.or  
 C.but  
 D.so  
+
 答案：
 1. or→and  2. and  3. A  
 
@@ -6334,6 +6381,7 @@ angrily /'æŋɡrəli/ adv
 真题解析
 ---
 1. Plants and a________, including humans, need food and water to survive.  （2008 浙江）  
+
 答案：
 1. animals  
 
@@ -6552,6 +6600,7 @@ annually /'ænjuəli/ adv
 真题解析
 ---
 1. Recycling is one way to protect the environment;reusing is ________.  （2013 重庆改）  
+
 答案：
 1. another  
 
@@ -6833,6 +6882,7 @@ anxiously /'æŋkʃəsli/ adv
 真题解析
 ---
 1. My mother always gets a bit ________ (焦虑的) if we don’t arrive when we say we will.  （2005 浙江改）  
+
 答案：
 1. anxious / worried  
 
@@ -6856,6 +6906,7 @@ anxiously /'æŋkʃəsli/ adv
 ---
 1. Jane was asked a lot of questions, but she didn’t answer ________ of them.  （2009 陕西改）  
 2. We had three sets of garden tools and we seemed to have no use for ________ .  
+
 答案：
 1. any  2. any  
 
@@ -6974,6 +7025,7 @@ A.no one else
 B.anyone else  
 C.someone else  
 D.nobody else  
+
 答案：
 1. B  
 
@@ -7075,6 +7127,7 @@ A.Anyway
 B.Besides  
 C.Otherwise  
 D.Therefore  
+
 答案：
 1. A  
 
@@ -7123,6 +7176,7 @@ A.anything
 B.something  
 C.anywhere  
 D.somewhere  
+
 答案：
 1. between  2. C  
 
@@ -7189,6 +7243,7 @@ D.somewhere
 真题解析
 ---
 1. Apart________ good service, the restaurant offers different kinds of traditional Fujian dishes.   （2011 福建改）  
+
 答案：
 1. from  
 
@@ -7229,6 +7284,7 @@ apologetic /əˌpɑːlə'dʒetɪk/ adj
 真题解析
 ---
 1. Yesterday Michael a________ to his boss for being late.  （2008 浙江）  
+
 答案：
 1. apologised / apologized  
 
@@ -7257,6 +7313,7 @@ apologetic /əˌpɑːlə'dʒetɪk/ adj
 真题解析
 ---
 1. Yesterday Michael a________ to his boss for being late.  （2008 浙江）  
+
 答案：
 1. apologized / apologised  
 
@@ -7297,6 +7354,7 @@ B.excuses
 C.apologies  
 D.regrets  
 2. I have an ________ (道歉) to make to you — I’m afraid I opened your letter by mistake.   （2011 陕西）  
+
 答案：
 1. C  2. apology  
 
@@ -7424,6 +7482,7 @@ appealing /ə'piːlɪŋ/ adj
 真题解析
 ---
 1. We tend to have a better memory for things that excite our senses or appeal ______ our emotions than for straight facts.  （2015 浙江改）  
+
 答案：
 1. to  
 
@@ -7694,6 +7753,7 @@ appealing /ə'piːlɪŋ/ adj
 真题解析
 ---
 1. The advertisement for engineers in the local paper attracted many ________ (申请人).   （2014 陕西）  
+
 答案：
 1. applicants  
 
@@ -7877,6 +7937,7 @@ appealing /ə'piːlɪŋ/ adj
 真题解析
 ---
 1. I have an appointment ______ Dr. Smith, but I need to change it.   （2013 北京改）  
+
 答案：
 1. with  
 
@@ -7938,6 +7999,7 @@ appealing /ə'piːlɪŋ/ adj
 真题解析
 ---
 1. I really appreciate ________ (have) time to relax with you on this nice island.  
+
 答案：
 1. having  
 
@@ -8011,6 +8073,7 @@ appealing /ə'piːlɪŋ/ adj
 真题解析
 ---
 1. At the meeting they discussed three different approaches ________ the study of mathematics.  
+
 答案：
 1. to  
 
@@ -8166,6 +8229,7 @@ approving /ə'pruːvɪŋ/ adj
 真题解析
 ---
 1. The questionnaire takes ________ (大约) ten to fifteen minutes to complete and can be used along with the assessment interview.  （2009 湖北改）  
+
 答案：
 1. approximately / about / around  
 
@@ -8212,6 +8276,7 @@ approving /ə'pruːvɪŋ/ adj
 真题解析
 ---
 1. People complain that decisions to approve or deny a permit are often ________ （随意的）rather than based on fixed criteria.  （2013 湖北改）  
+
 答案：
 1. arbitrary  
 
@@ -8984,6 +9049,7 @@ artistic /ɑːr'tɪstɪk/ adj
 真题解析
 ---
 1. The open exhibition will allow local ________ (艺术家) to show their talents.   （2012 陕西）  
+
 答案：
 1. artists  
 
@@ -9083,6 +9149,7 @@ A.until
 B.before  
 C.as  
 D.unless  
+
 答案：
 1. as  2. as is reported  3. had done  4. twice as large as  5. As  6. as  7. C  
 
@@ -9207,6 +9274,7 @@ Notes: 否定句中也可用so代替as。
 真题解析
 ---
 1. Tom was ________ (羞愧) of having lied to his parents.   
+
 答案：
 1. ashamed  
 
@@ -9313,6 +9381,7 @@ Notes: 否定句中也可用so代替as。
 1. No matter how many times I asked to watching cartoons, my parents would not to let me. (改错)  （2018 全国）  
 2. I wasn’t able to hide my eagerness when I _______ (ask), “What do you wish me to do now?”  （2015 湖南改）  
 3. Before building a house, you will have to ask _______ the government’s permission.  
+
 答案：
 1. watching → watch; 去掉let前的to  2. asked  3. for  
 
@@ -9975,6 +10044,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
 真题解析
 ---
 1. The top leaders of the two countries are holding talks in a friendly ________ (气氛).  （2008 湖北改）  
+
 答案：
 1. atmosphere  
 
@@ -10068,6 +10138,7 @@ attachment /ə'tætʃmənt/ n
 真题解析
 ---
 1. My parents always ________ (对…很重视) my getting a good education.  （2014 天津改）  
+
 答案：
 1. attach great importance to  
 
@@ -10264,6 +10335,7 @@ attendant /ə'tendənt/ n [C]
 真题解析
 ---
 1. We will ________ (参加) a meeting to celebrate the sixtieth birthday of the P.R. China.   （2009 陕西）  
+
 答案：
 1. attend  
 
@@ -10419,6 +10491,7 @@ attentively /ə'tentɪvli/ adv
 真题解析
 ---
 1. Despite such a big difference in ________ (对…的态度) what one eats, there is no doubt that people in the west regard the Chinese food as something special  
+
 答案：
 1. attitude towards / to  
 
@@ -10444,6 +10517,7 @@ attentively /ə'tentɪvli/ adv
 ---
 1. Thousands of foreigners  ________ (attract) to the Shanghai World Expo the day it opened.  （2010 江苏改）  
 2. The company is starting a new advertising campaign to ________ (吸引) new customers to its stores.  
+
 答案：
 1. were attracted  2. attract  
 
@@ -10775,6 +10849,7 @@ availability /əˌveɪlə'bɪləti/ n [U]
 — I’m sorry, but he is not__________(有空的) at the moment, for the meeting hasn’t ended.   （2017 天津改）  
 2. — Can you lend me the book Gone with the Wind?
 — Sorry. I returned it to the library just now. Maybe it is still ________(可借到的).   （2012 福建改）  
+
 答案：
 1. available / free  2. available   
 
@@ -10862,6 +10937,7 @@ availability /əˌveɪlə'bɪləti/ n [U]
 1. He was a good student and scored__________ (高于平均水平) in most subjects.   （2011 天津改）  
 2.  Last year the number of students who graduated with a driving license reached 200,000, ________ average of 40,000 per year.   （2010 江西改）  
 3. On ________ (平均), people who don’t smoke are healthier than people who do.   （2009 全国）  
+
 答案：
 1. above average  2. an  3. average  
 
@@ -10934,6 +11010,7 @@ Notes: avoid不接不定式作宾语。
 真题解析
 ---
 1. I quickly lower myself, ducking my head to avoid_________(look) directly into his eyes.   （2018 全国）  
+
 答案：
 1. looking  
 
@@ -10992,6 +11069,7 @@ Notes: avoid不接不定式作宾语。
 真题解析
 ---
 1. The baby in the next room ________ (睡醒) and began to cry.  （2010 全国）  
+
 答案：
 1. awoke  
 

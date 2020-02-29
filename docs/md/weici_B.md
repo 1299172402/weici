@@ -442,6 +442,7 @@
 真题解析
 ---
 1. It’s hard for him playing against me. I’ve got nothing to play for, but for him, he needs to win so________(bad).  
+
 答案：
 1. badly  
 
@@ -592,6 +593,7 @@
 1. When he was running after his brother, the boy lost his _______ and had a bad fall.  （2015 湖北改）  
 2. I’ve got a good sense of ________ (平衡) and learnt to ski quite quickly.  （2013 陕西）  
 3. You are working too hard. You’d better ________ (保持平衡) between work and relaxation.   （2012 天津改）  
+
 答案：
 1. balance  2. balance  3. keep a balance   
 
@@ -1061,6 +1063,7 @@ Notes: 英式英语中理发店为the barber’s。
 ---
 1. You can get even better deals if you are prepared to________ (讨价还价).   （2011 全国）  
 2. I bought a dress for only 10 dollars in a sale; it was  ________(真便宜).    （2008 山东改）  
+
 答案：
 1. bargain  2.  a real bargain  
 
@@ -1150,6 +1153,7 @@ A.difference
 B.comparison  
 C.connection  
 D.barrier  
+
 答案：
 1. D  
 
@@ -1323,6 +1327,7 @@ based /beɪst/ adj
 真题解析
 ---
 1. The little girl picked some grapes and put them into her ________ (篮子).  （2013 陕西）  
+
 答案：
 1.  basket  
 
@@ -1564,6 +1569,7 @@ Notes: 表示“洗澡”常用have / take a bath。
 2. The publication of Great Expectations, which______(be) both widely reviewed and highly praised strengthened Dickens’ status as a leading novelist.   （2017 江苏改）  
 3. Confucius believed knives would remind people of killings and _______ (be) too violent for use at the table.  （2016 全国）  
 4. Albert Einstein was born in 1879. As a child, few people guessed that he  _______(be) a famous scientist whose theories would change the world.  （2015 浙江改）  
+
 答案：
 1. is  2. was  3. were  4.  was going to / would be  
 
@@ -1951,6 +1957,7 @@ beautifully /'bju:tɪfli/ adv
 ---
 1. I really enjoy listening to music b_________ it helps me relax and takes my mind away from other cares of the day.  （2016 北京改）  
 2. The open-air celebration has been put off because ________ the bad weather.  
+
 答案：
 1. because  2. of  
 
@@ -1994,6 +2001,7 @@ beautifully /'bju:tɪfli/ adv
 ---
 1. While regularly eating out seems to_______(become) common for many young people in recent years, it’s not without a cost.   （2018 浙江）  
 2. Silk  _______ (become) one of the primary goods traded along the Silk Road by about 100 BC.   （2016 浙江改）  
+
 答案：
 1. have become  2. had become  
 
@@ -2184,6 +2192,7 @@ C.before
 D.as  
 2. If you miss this chance, it may be years _______ you get another one.  （2015 重庆改）  
 3. The meaning of the word “nice” changed a few times ________ it finally came to include the sense “pleasant”.  （2014 安徽改）  
+
 答案：
 1. C  2. before  3. before  
 
@@ -2300,6 +2309,7 @@ D.as
 真题解析
 ---
 1. It was Monday morning, and the writing class had just begin. (改错)   （2018 全国 改错）  
+
 答案：
 1. begin → begun  
 
@@ -2377,6 +2387,7 @@ D.as
 真题解析
 ---
 1. ________ (代表) everyone here, I wish you a pleasant journey back to your country.  （2013 辽宁改）  
+
 答案：
 1. On behalf of  
 
@@ -2410,6 +2421,7 @@ D.as
 真题解析
 ---
 1. Tom, ________ (规矩点). Did you forget the school rules?  
+
 答案：
 1. behave yourself  
 
@@ -2615,6 +2627,7 @@ D.as
 真题解析
 ---
 1. Increases in bear sightings around human settlements have led to a ______(believe) that polar bear populations are increasing.  （2019 全国改）  
+
 答案：
 1. belief  
 
@@ -2706,6 +2719,7 @@ Notes: believe sb表示相信某人所说的话，believe in sb表示相信某�
 ---
 1. — According to my grandma, it is a good idea to eat chicken soup when you have a cold.
 — _______（信不信由你）, scientists agree with her.   （2010 浙江改）  
+
 答案：
 1. Believe it or not  
 
@@ -2796,6 +2810,7 @@ belonging /bɪ'lɒŋɪŋ/ n
 真题解析
 ---
 1. Professor Williams keeps telling his students that the future ________ (belong) to the well-educated.  （2009 重庆改）  
+
 答案：
 1. belongs  
 
@@ -3072,6 +3087,7 @@ belted /'beltɪd/ adj
 真题解析
 ---
 1. China has been pushing the reform of public hospitals ________ (为了…的利益) all its citizens.  （2012 福建改）  
+
 答案：
 1. for the benefit of  
 
@@ -3146,6 +3162,7 @@ belted /'beltɪd/ adj
 真题解析
 ---
 1. Bicycling is good exercise; except, it does not pollute the air.    （2012 湖南改 改错）  
+
 答案：
 1. except → besides  
 
@@ -3168,6 +3185,7 @@ belted /'beltɪd/ adj
 真题解析
 ---
 1. Some people choose jobs for other reasons ________(除…之外) money these days.  
+
 答案：
 1. besides  
 
@@ -3218,6 +3236,7 @@ belted /'beltɪd/ adj
 ---
 1. Andy is content with the toy. It is ________ (good) he has ever got.  （2015 四川改）  
 2. The school isn’t the one I really wanted to go to, but I suppose I’ll just have to ________ (充分利用) it. (best)   （2011 浙江改）  
+
 答案：
 1. the best  2. make the best of  
 
@@ -3240,6 +3259,7 @@ belted /'beltɪd/ adj
 真题解析
 ---
 1. Next to biology, I ________(最喜欢物理).  （2012 全国改）  
+
 答案：
 1. like physics best  
 
@@ -3336,6 +3356,7 @@ A.You bet
 B.It depends  
 C.Forget it  
 D.No kidding  
+
 答案：
 1. A  
 
@@ -3406,6 +3427,7 @@ betting /'betɪŋ/ n [U]
 真题解析
 ---
 1. The result is not very important to us, but if we do win, then so much ________better.  （2012 全国改）  
+
 答案：
 1. the  
 
@@ -3516,6 +3538,7 @@ Notes: had better常缩写成’d better，后接动词原形。
 1.  It may not be a great suggestion. But before a ________ (good) one is put forward, we’ll make do with it.   （2013 全国改）  
 2.  Mr Stevenson is great to work for — I really couldn’t ask for a ________ (good) boss.  （2011 全国改）  
 3. It is ________ (good) to spend money on preventing illnesses by promoting healthy living rather than spending it trying to make people ________ (good) after they are ill.   （2008 江苏改）  
+
 答案：
 1. better  2. better  3. better; better  
 
@@ -3565,6 +3588,7 @@ C.over
 D.during  
 2. — It’s a top secret.
 — Yes, I see. I will keep the secret ________ you and me.  
+
 答案：
 1. A  2. between  
 
@@ -3632,6 +3656,7 @@ C.within
 D.upon  
 3. This new model of car is so expensive that it is ________ (超出) the reach of those with average income.   
 4. It’s quite ________ (超出我的理解能力) why such things have been allowed to happen.  
+
 答案：
 1. beyond words  2. B  3. beyond  4. beyond me  
 
@@ -4161,6 +4186,7 @@ Notes: not a little意为“非常” 、 “很多”。
 真题解析
 ---
 1. You’re driving too fast. Can you drive ________(慢一点儿)?   （2008 全国改）  
+
 答案：
 1. a bit / a little more slowly  
 
@@ -4423,6 +4449,7 @@ blacken /'blækən/
 真题解析
 ---
 1. Mr Green stood up in defence of the 16- year-old boy, saying that he was not the one________ (blame).   
+
 答案：
 1. to blame  
 
@@ -4468,6 +4495,7 @@ blacken /'blækən/
 真题解析
 ---
 1. The professor could tell by the __________ (茫然的) look in Mary’s eyes that she didn’t understand a single word of his lecture.   （2011 浙江改）  
+
 答案：
 1. blank  
 
@@ -4496,6 +4524,7 @@ blacken /'blækən/
 真题解析
 ---
 1. It’s cold today. Please put another ________ (毯子) on the bed.  （2008 陕西）  
+
 答案：
 1. blanket  
 
@@ -4634,6 +4663,7 @@ blindness /'blaɪndnəs/ n
 真题解析
 ---
 1. The aim of education is to teach young people to think for themselves and not follow others _________(blind).  （2014 浙江改）  
+
 答案：
 1. blindly  
 
@@ -5062,6 +5092,7 @@ bloody /'blʌdi/ adj
 真题解析
 ---
 1. The failure was a big blow _______ him, but he wasn’t discouraged and soon got as enthusiastic as ever.   （2015 福建改）  
+
 答案：
 1. to  
 
@@ -5347,6 +5378,7 @@ boating /'boʊtɪŋ/ n [U]
 真题解析
 ---
 1. 100℃ is the temperature _______ which water will boil.   （2012 全国改）  
+
 答案：
 1. at  
 
@@ -5597,6 +5629,7 @@ booking
 真题解析
 ---
 1. Her ________ (书架) are filled with books and photos.   （2012 全国）  
+
 答案：
 1. bookshelves / bookcases  
 
@@ -5805,6 +5838,7 @@ booking
 真题解析
 ---
 1. Mr Smith, ________ (tire) of the ________ (bore) speech, started to read a novel.  
+
 答案：
 1. tired; boring  
 
@@ -6031,6 +6065,7 @@ Notes: both 的用法：
 ---
 1. Mr and Mrs Zhang all work in our school.  （2017 全国改错）  
 2. Both Dad or I planned to do something on Mother’s Day.  （2016 四川 改错）  
+
 答案：
 1. all → both  2. or → and  
 
@@ -6085,6 +6120,7 @@ A.Why bother
 B.Why not  
 C.So what  
 D.What for  
+
 答案：
 1. A  
 
@@ -6605,6 +6641,7 @@ bottled /'bɒtld/ adj
 ---
 1. The head office of the bank is in Beijing, but it has ________ (分部) all over the country.
   
+
 答案：
 1. branches  
 
@@ -6675,6 +6712,7 @@ bravely   /'breɪvli/ adv
 真题解析
 ---
 1. It was ________ (勇敢的) of Mary to quit her job and start her own business.  （2014 陕西）  
+
 答案：
 1. brave  
 
@@ -6952,6 +6990,7 @@ bravely   /'breɪvli/ adv
 1. The two countries are going to meet to break ________ some barriers to trade between them.  （2014 天津改）  
 2. Old-fashioned phones matter when wireless networks break ________ in disasters.  （2013 福建改）  
 3. I was still sleeping when the fire broke ________, and then it spread quickly.   
+
 答案：
 1. down  2. down  3. out  
 
@@ -7100,6 +7139,7 @@ bravely   /'breɪvli/ adv
 ---
 1. Jack took a deep ________ (呼吸) and then dived into the water.   
 2. Eric came running into the room, out of b________ .   
+
 答案：
 1. breath  2. breath  
 
@@ -7146,6 +7186,7 @@ breathing  /'briːðɪŋ/ n [U]
 真题解析
 ---
 1. We had great difficulty in ________ (呼吸), for the air was thin.   
+
 答案：
 1. breathing  
 
@@ -7663,6 +7704,7 @@ brilliantly /'brɪliəntli/ adv
 1. Working with the medical team in Africa has brought________ the best in her as a doctor.  （2017 江苏改）  
 2. Born into a family with three brothers, David was brought ________ to value the sense of sharing.  （2011 福建改）  
 3. The Internet has brought ________ big changes in the way we work.   
+
 答案：
 1. out  2. up  3. about  
 
@@ -7753,6 +7795,7 @@ broadly /'brɔːdli/ adv
 真题解析
 ---
 1. This football game was ________ (播出) live on TV across Europe.  
+
 答案：
 1. broadcast / broadcasted  
 
@@ -8177,6 +8220,7 @@ builder /'bɪldə(r)/ n [C]
 ---
 1. It is reported that a space station _______ (build) on the moon in years to come.  （2015 安徽改）  
 2. Bears build ________ fat stores throughout the summer and fall to have energy enough to last them through their winter sleep.  （2013 浙江改）  
+
 答案：
 1. will be built  2. up  
 
@@ -8826,6 +8870,7 @@ burnt /bɜːrnt/ adj
 真题解析
 ---
 1. I work not because I have to, _________ because I want to.  （2019 全国）  
+
 答案：
 1. but  
 
@@ -8880,6 +8925,7 @@ A.thanks to
 B.regardless of  
 C.aside from  
 D.but for  
+
 答案：
 1. D  
 
@@ -9152,6 +9198,7 @@ B.by
 C.across  
 D.out  
 4. A great man shows his greatness ________ the way he treats little men.  （2008 福建改）  
+
 答案：
 1. wear → wearing  2. by  3. B  4. by  
 

@@ -109,6 +109,7 @@
 真题解析
 ---
 1. His efforts to raise money for his program were________vain because no one showed any intention to take a cent out of their pockets.  （2009 湖北改）  
+
 答案：
 1. in  
 
@@ -358,6 +359,7 @@ invaluable /ɪn'væljuəbl/ adj
 真题解析
 ---
 1. More and more people choose to shop in a supermarket as it offers ________ (丰富多样的)goods.  
+
 答案：
 1. a great / wide variety of  
 
@@ -468,6 +470,7 @@ varied /'veərid/ adj
 真题解析
 ---
 1. Cabbage, carrots, and tomatoes are my favorite v________ .  （2005 浙江）  
+
 答案：
 1. vegetables  
 
@@ -1301,6 +1304,7 @@ virtually /'vɜːtʃuəli/ adv
 真题解析
 ---
 1. Interest is as vital to________ (learn) as the ability to understand, even more so.  （2012 安徽改）  
+
 答案：
 1. learning  
 
@@ -1345,6 +1349,7 @@ A.clear
 B.cautious  
 C.funny  
 D.vivid  
+
 答案：
 1. vivid  
 
@@ -1448,6 +1453,7 @@ A.Sky
 B.Life  
 C.Arts  
 D.Voices  
+
 答案：
 1. D  
 

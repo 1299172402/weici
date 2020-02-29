@@ -723,6 +723,7 @@ A.untouched
 B.unexpected  
 C.unfamiliar  
 D.unbelievable  
+
 答案：
 1. B  
 
@@ -1110,6 +1111,7 @@ A.unless
 B.until  
 C.once  
 D. if  
+
 答案：
 1. B  2. if → unless  3. A  
 
@@ -1323,6 +1325,7 @@ A.until
 B.after  
 C.since  
 D.when  
+
 答案：
 1. that  2. D  3. A  
 
@@ -1377,6 +1380,7 @@ A.until
 B.after  
 C.since  
 D.when  
+
 答案：
 1. that  2. D  3. A  
 
@@ -1542,6 +1546,7 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 — No. _________(怎么了)? (up)  （2015 浙江改）  
 2. — What shall we do tonight then?
 — _________ (由你决定)— whatever you want.  （2012 全国改）  
+
 答案：
 1. What’s up  2. It’s up to you / Up to you  
 
@@ -1946,6 +1951,7 @@ upsetting /ʌp'setɪŋ/ adj
 真题解析
 ---
 1. Our neighbors gave_________ (we) a baby bird yesterday that hurt itself when it fell from its nest.  （2008 湖南改）  
+
 答案：
 1. us  
 
@@ -2093,6 +2099,7 @@ upsetting /ʌp'setɪŋ/ adj
 1. Every day he makes sure that fresh vegetables and high quality oil are using for cooking.  （2016 全国 改错）  
 2. People probably cooked their food in large pots, ________ (use) twigs (树枝) to remove it.  （2016 全国）  
 3. It is no use ________(complain) without taking action.   （2011 上海）  
+
 答案：
 1. using → used  2. using  3. complaining  
 
@@ -2222,6 +2229,7 @@ usefully /'juːsfəli/ adv
 真题解析
 ---
 1. I u________ go to bed at 10:00 p.m., but I stayed up till 11:00 last night.  （2008 浙江）  
+
 答案：
 1. usually  
 

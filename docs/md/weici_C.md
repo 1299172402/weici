@@ -169,6 +169,7 @@ calculator /'kælkjuleɪtə(r)/ n [C]
 真题解析
 ---
 1. The loss has not yet been ________ accurately, but it is believed to be well beyond a hundred million dollars.   （2009 湖北改）  
+
 答案：
 1. calculated  
 
@@ -316,6 +317,7 @@ calculator /'kælkjuleɪtə(r)/ n [C]
 — All right. I _______ (call) him later.  （2015 北京改）  
 3. The Somali robbers’ frequent attacks on the sea urged the United Nations to call ________ all nations to take immediate action.  （2009 福建改）  
 4. As I grew up in a small town at the foot of a mountain, the visit to the village called ________ scenes of my childhood.  
+
 答案：
 1. for  2. will call  3. on / upon  4. up  
 
@@ -644,6 +646,7 @@ A.mustn’t
 B.can’t  
 C.won’t  
 D.needn’t  
+
 答案：
 1. C  2. C  3. B  4. B  
 
@@ -1515,6 +1518,7 @@ carelessly /'keələsli/ adv
 1. I was sent to the village last month to see how the development plan had been carried ________ in
 the past two years.  （2018 江苏改）  
 2. I hate it when she calls me at work — I’m always too busy to carry _______ a conversation with her.   （2016 天津改）  
+
 答案：
 1. out  2. on  
 
@@ -1730,6 +1734,7 @@ Notes: in no case用于句首时，句子常用部分倒装语序。
 4. ________ (万一) fire, all exits must be kept clear.  
 5. — I’m afraid Mr Wood can’t see you until 4 o’clock.
 — Oh, ________ (既然那样) I won’t wait.  
+
 答案：
 1. In  2. in  3. It’s not the case  4. In case of  5. in that case  
 
@@ -2080,6 +2085,7 @@ casually /'kæʒuəli/ adv
 ---
 1. _______ (catch) the early flight, we ordered a taxi in advance and got up very early.  （2015 北京改）  
 2. In order to catch up ________ the advanced countries, we must keep learning.   
+
 答案：
 1. To catch  2. with  
 
@@ -2128,6 +2134,7 @@ casually /'kæʒuəli/ adv
 ---
 1. The university started some new language programs to cater_______ the country’s Silk Road Economic Belt.  
   （2015 江苏改）  
+
 答案：
 1. for  
 
@@ -2227,6 +2234,7 @@ Notes: cattle 指牛的总称，不能说a cattle。
 ---
 1. A mere five to 10 minutes a day of running reduced the risk of heart disease and early deaths from all ________ (cause).  （2018 全国）  
 2. According to the recent research, heavy coffee drinking and heart attack is not necessarily ________ (因果).  （2002 上海改）  
+
 答案：
 1. causes  2. cause and effect  
 
@@ -2375,6 +2383,7 @@ cautiously /'kɔːʃəsli/ adv
 真题解析
 ---
 1. He turned on the television set hanging from the ________ (天花板).   
+
 答案：
 1. ceiling  
 
@@ -2406,6 +2415,7 @@ celebrated /'selɪbreɪtɪd/ adj
 真题解析
 ---
 1. They’re going to ________ (庆祝) their victory with music and dancing.  
+
 答案：
 1. celebrate  
 
@@ -2799,6 +2809,7 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 ---
 1. — May I ask a question after class, Sir?
 — ________(certain), but not during my lunch break.  （2008 重庆改）  
+
 答案：
 1. Certainly  
 
@@ -3177,6 +3188,7 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 1. The weather forecast says it will be cloudy with a slight _______ (可能) of rain later tonight.  （2016 天津改）  
 2. An artist who was recently traveling on a ferry to the southern island discovered ________ (意外地) a long lost antique Greek vase.  （2013 湖北改）  
 3. Volunteering gives you a chance _______ (change) lives, including your own.  （2013 北京改）  
+
 答案：
 1. chance  2. by chance / accident  3. to change  
 
@@ -3518,6 +3530,7 @@ characterize / characterise  /'kærɪktəraɪz/ vt
 1. Hiking by oneself can be fun and good for one’s
 health. It may also be good for ________ (良好品格的培养).  （2009 湖北改）  
 2. He proved himself a true gentleman and the beauty of his ________ (性格) was seen at its best when he worked with others.  
+
 答案：
 1. character building  2. character  
 
@@ -3887,6 +3900,7 @@ cheaply /'tʃiːpli/ adv
 真题解析
 ---
 1. Bread is c________ in this shop; it costs twice as much across the street.  
+
 答案：
 1. cheap / cheaper  
 
@@ -3996,6 +4010,7 @@ cheaply /'tʃiːpli/ adv
 ---
 1. — Julin said she sent you a birthday card yesterday. Have you got it?
 — Oh, really! I haven’t__________ (查看) my mailbox yet.  
+
 答案：
 1. checked  
 
@@ -4117,6 +4132,7 @@ cheaply /'tʃiːpli/ adv
 ---
 1. — I’m thinking of the test tomorrow. I’m afraid I can’t pass this time.
 —__________ (振作点儿)! I’m sure you’ll make it.  
+
 答案：
 1. Cheer up  
 
@@ -4256,6 +4272,7 @@ cheerfully /'tʃɪəfəli/ adv
 真题解析
 ---
 1. Our class president went up to Cambridge at the age of 15 to study _______ (化学) .  （2015 陕西）  
+
 答案：
 1. chemistry  
 
@@ -4363,6 +4380,7 @@ cheerfully /'tʃɪəfəli/ adv
 真题解析
 ---
 1. They had a big separate house to raise dozens of chicken. (改错)  （2018 全国）  
+
 答案：
 1. chicken → chickens  
 
@@ -4592,6 +4610,7 @@ cheerfully /'tʃɪəfəli/ adv
 真题解析
 ---
 1. You have to ________ a choice. Are you going to leave the job or stay?  （2008 四川改）  
+
 答案：
 1. make  
 
@@ -4717,6 +4736,7 @@ cheerfully /'tʃɪəfəli/ adv
 真题解析
 ---
 1. To my delight, I _______ (choose) from hundreds of applicants to attend the opening ceremony.   （2015 福建改）  
+
 答案：
 1. was chosen  
 
@@ -5912,6 +5932,7 @@ cleverness /'klevənəs/ n
 真题解析
 ---
 1. We left the road and________ (爬) the hill towards the wood.  （2009 陕西）  
+
 答案：
 1. climbed  
 
@@ -6699,6 +6720,7 @@ coincidental /kəʊˌɪnsɪ'dentl/ adj
 真题解析
 ---
 1. It can’t be a(n) ________ （巧合）that four jewelry stores were robbed in one night.  
+
 答案：
 1. coincidence  
 
@@ -7018,6 +7040,7 @@ coldness /'kəʊldnəs/ n
 真题解析
 ---
 1. With new technology, pictures of underwater valleys can be taken _______ colour.  （2011 北京改）  
+
 答案：
 1. in  
 
@@ -7241,6 +7264,7 @@ combination /ˌkɒmbɪ'neɪʃn/ n [C]
 1. In recent years an English word “infosphere” has appeared, _______ (combine) the sense of “information” and “atmosphere”.   （2015 福建改）  
 2. — In this day and age, women can have children and jobs as well.
 — I can’t agree more. It’s great to have the two ________(combine).  （2010 福建改）  
+
 答案：
 1. combining  2. combined  
 
@@ -7573,6 +7597,7 @@ D.Take it easy
 6. — Four dollars a pair? I think it’s a bit too much.
 — If you buy three pairs, the price for each will come ________ to three fifty.  （2006 安徽改）  
 7. It’s already 10 o’clock. I wonder how it came ________ that she was two hours late on such a short trip.  （2006 湖北改）  
+
 答案：
 1. C  2. C  3. across  4. along  5.  with  6. down  7. about  
 
@@ -8012,6 +8037,7 @@ A.project
 B.commitment  
 C.competition  
 D.ambition  
+
 答案：
 1. B  
 
@@ -8127,6 +8153,7 @@ A.common
 B.normal  
 C.ordinary  
 D.usual  
+
 答案：
 1. A  
 
@@ -8366,6 +8393,7 @@ D.usual
 真题解析
 ---
 1. It is said that dogs will ________ (陪伴你) for as long as you want when you are feeling lonely.  （2006 江西改）  
+
 答案：
 1. keep you company  
 
@@ -8466,6 +8494,7 @@ D.usual
 ---
 1. Film has a much shorter history, especially when _______ (compare) to such art forms as music and painting.   （2012 全国改）  
 2. Worst of all, I get a larger quantity of homework,________ (对比) to them.  （2010 福建）  
+
 答案：
 1. compared  2. compared  
 
@@ -8579,6 +8608,7 @@ D.usual
 真题解析
 ---
 1. Several companies have announced their intention to ________ (竞争) for the construction project.  （2011 陕西）  
+
 答案：
 1. compete  
 
@@ -8923,6 +8953,7 @@ complexity /kəm'pleksəti/ n
 真题解析
 ---
 1. When Richard said, “You are much more agreeable and prettier now,” Joan’s face turned red at the unexpected  ________ (称赞).  （2014 湖北改）  
+
 答案：
 1. compliment  
 
@@ -9088,6 +9119,7 @@ A.comprehensive
 B.complicated  
 C.conscious  
 D.crucial  
+
 答案：
 1. A  
 
@@ -9471,6 +9503,7 @@ concentrated ['kɑːnsntreɪtɪd] adj
 真题解析
 ---
 1. When the group discussion is nearing its end, make sure to conclude it ________ important points.  （2013 浙江改）  
+
 答案：
 1. with  
 
@@ -9676,6 +9709,7 @@ concentrated ['kɑːnsntreɪtɪd] adj
 真题解析
 ---
 1. I agree to his suggestion ________ the condition that he drops all charges.  （2010 辽宁改）  
+
 答案：
 1. on   
 
@@ -9754,6 +9788,7 @@ concentrated ['kɑːnsntreɪtɪd] adj
 真题解析
 ---
 1. To return to the problem of water pollution, I’d like you to look at a study ______ (conduct) in Australia in 2012.  （2016 浙江改）  
+
 答案：
 1. conducted  
 
@@ -9897,6 +9932,7 @@ confidently /'kɒnfədəntlɪ/ adv
 真题解析
 ---
 1. The little girl walked ________ (自信地) onto the stage, ready for her first speech.  （2012 陕西）  
+
 答案：
 1. confidently  
 
@@ -10171,6 +10207,7 @@ confidently /'kɒnfədəntlɪ/ adv
 1. — I got that job I wanted at the public library.
 — _______ (祝贺你)! That’s good news.  （2014 陕西改）  
 2. Please give my ________ (祝贺) when you see her.   （2006 陕西）  
+
 答案：
 1. Congratulations  2. congratulations  
 
@@ -10701,6 +10738,7 @@ considerately /kən'sɪdərətli/ adv
 真题解析
 ---
 1. It was considerate _______ Michael to inform us of his delay in case we got worried.   （2015 福建改）  
+
 答案：
 1. of  
 
@@ -10845,6 +10883,7 @@ constantly /'kɒnstəntli/ adv
 真题解析
 ---
 1. The Forbidden City attracts ________  (络绎不绝的游客) every day, especially during national holidays.  （2013 福建改）  
+
 答案：
 1. a constant stream of visitors / tourists  
 
@@ -10948,6 +10987,7 @@ constantly /'kɒnstəntli/ adv
 真题解析
 ---
 1. If you have any doubts about your health, you’d better _______ (咨询) your doctor at once.  （2015 天津改）  
+
 答案：
 1. consult  
 
@@ -11097,6 +11137,7 @@ constantly /'kɒnstəntli/ adv
 真题解析
 ---
 1. Little Johnny felt the bag, curious to know what it _________ (装有).  （2008 全国改）  
+
 答案：
 1. contained  
 
@@ -11338,6 +11379,7 @@ continued /kən'tɪnjuːd/ adj [只用于名词前]
 真题解析
 ---
 1. The rain c________ for days, so we could not go out to play.  （2005 浙江）  
+
 答案：
 1. continued  
 
@@ -11457,6 +11499,7 @@ continuously /kən'tɪnjuəsli/ adv
 真题解析
 ---
 1. He seems to be giving the impression that he didn’t enjoy himself in Paris. ________ (正相反) he had a wonderful time.  （2012 江西改）  
+
 答案：
 1. On the contrary  
 
@@ -11484,6 +11527,7 @@ continuously /kən'tɪnjuəsli/ adv
 真题解析
 ---
 1. He seems to be giving the impression that he didn’t enjoy himself in Paris. ________(正相反) he had a wonderful time.   （2012 江西改）  
+
 答案：
 1. On the contrary  
 
@@ -11546,6 +11590,7 @@ continuously /kən'tɪnjuəsli/ adv
 真题解析
 ---
 1. Most people work because it’s unavoidable. _______ (相比之下), there are some people who actually enjoy work.   （2015 浙江改）  
+
 答案：
 1. By / In contrast  
 
@@ -11766,6 +11811,7 @@ controlled  /kən'trəʊld/ adj
 真题解析
 ---
 1. Whether the buildings in this area should be pulled down has remained ________ (有争议的); people are still looking for other possible solutions.  （2012 湖北改）  
+
 答案：
 1. controversial  
 
@@ -11842,6 +11888,7 @@ controlled  /kən'trəʊld/ adj
 ---
 1. The secretary arranged a(n) ________ (方便的) time and place for the applicants to have an interview.  （2012 天津改）  
 2. Would it  ________(对…方便) you to pick me up at four o’clock and take me to the airport?  （2008 山东改）  
+
 答案：
 1. convenient  2.  be convenient for  
 
@@ -11974,6 +12021,7 @@ controlled  /kən'trəʊld/ adj
 真题解析
 ---
 1. I don’t believe what you said, but if you can prove it, you may be able to ________ (使我相信).  （2014 江西改）  
+
 答案：
 1. convince me  
 
@@ -12386,6 +12434,7 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 真题解析
 ---
 1. They believe that there are transport developments _______ the corner that will bring a lot of changes for the better.   （2015 安徽改）  
+
 答案：
 1. around / round  
 
@@ -12780,6 +12829,7 @@ coughing   /kɒfɪŋ/ n [U]
 真题解析
 ---
 1. Don’t ________ (咳嗽) more than you can help.  （2012 全国）  
+
 答案：
 1. cough  
 
@@ -12850,6 +12900,7 @@ A.should have wished
 B.must have wished  
 C.may have wished  
 D.could have wished  
+
 答案：
 1. D  2. A  3. B  4. D  
 
@@ -12980,6 +13031,7 @@ countless /'kaʊntləs/ adj
 ---
 1. The whole team count _______ Cristiano Ronaldo, and he seldom lets them down.  （2015 江苏改）  
 2. Surely it doesn’t matter where the student associations get their money from; what ________ (count) is what they do with it.  （2007 湖北改）  
+
 答案：
 1. on / upon  2. counts  
 
@@ -13395,6 +13447,7 @@ D.covered
 — Oh yes, enough and to spare.  （2009 山东改）  
 B.   
 3. About 71 percent of the earth’s surface is c________ by water.  （2008 浙江）  
+
 答案：
 1. C  2. cover  3. covered  
 
@@ -13714,6 +13767,7 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 真题解析
 ---
 1. Skilled workers also combine various hardwoods and metal ______ (create) special designs.  （2016 全国）  
+
 答案：
 1. to create  
 
@@ -14492,6 +14546,7 @@ cruelty /'kruːəlti/ n
 真题解析
 ---
 1. People won’t pay attention to you when they still have a lot of ideas of their own crying ________ expression.  （2014 浙江改）  
+
 答案：
 1. for  
 
@@ -14752,6 +14807,7 @@ curiously /'kjʊəriəsli/ adv
 ---
 1. He was ________ (好奇) to know what was happening in the office.  （2008 陕西）  
 2. People have always been curious ________ how living things on the earth exactly began.  （2006 辽宁改）  
+
 答案：
 1. curious  2. about  
 
@@ -15165,6 +15221,7 @@ curved /kɜːvd/ adj
 1. When their children lived far away from them, these old people felt cut ________ from the world.   （2016 浙江改）  
 2. My uncle hasn’t been able to quit smoking, but at least he has cut ________.   （2013 陕西改）  
 3. I was just talking to Margaret when Jackson cut ________.  （2005 湖南改）  
+
 答案：
 1. off  2. down  3. in  
 

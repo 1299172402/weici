@@ -397,6 +397,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 真题解析
 ---
 1. Everyone thought he was j________, but in fact he was completely serious.  （2006 浙江）  
+
 答案：
 1. joking  
 
@@ -837,6 +838,7 @@ A.yet
 B.even  
 C.rather  
 D.just  
+
 答案：
 1. Just as  2. D  
 

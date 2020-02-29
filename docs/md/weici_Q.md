@@ -177,6 +177,7 @@ Notes: a large quantity of / large quantities of 后既可以接可数名词也�
 真题解析
 ---
 1. As a result of destroying the forests, a large quantity of desert ________ (have) covered the land.  （2001 上海改）  
+
 答案：
 1. has  
 
@@ -433,6 +434,7 @@ quicken /'kwɪkən/ v
 真题解析
 ---
 1. There are only five minutes left. We’ll have to walk q________ to get there on time.  （2007 浙江）  
+
 答案：
 1. quickly  
 
@@ -567,6 +569,7 @@ A.quite
 B.very  
 C.rather  
 D.much  
+
 答案：
 1. A  
 

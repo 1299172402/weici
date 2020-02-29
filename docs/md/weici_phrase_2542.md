@@ -3263,6 +3263,7 @@ A.That’s right
 B.All right  
 C.I’m all right  
 D.It’s all right  
+
 答案：
 1. D  2. D  
 
@@ -3327,6 +3328,7 @@ A.Not at all
 B.It depends  
 C.All right then  
 D.I don’t care  
+
 答案：
 1. C  
 

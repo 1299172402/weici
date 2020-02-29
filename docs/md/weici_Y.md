@@ -299,6 +299,7 @@ A.yet
 B.still  
 C.even   
 D.thus  
+
 答案：
 1. A  
 
@@ -353,6 +354,7 @@ Notes: 在肯定句中用still或already。
 ---
 1. — Have you finished your first paper?
 — ________ (还没有). Just half of it, how about you?  （2009 陕西改）  
+
 答案：
 1. Not yet  
 
@@ -507,6 +509,7 @@ Notes: 在肯定句中用still或already。
 真题解析
 ---
 1. Treat ________ (you) to a glass of wine to help you relax at the end of the day.   
+
 答案：
 1. yourself  
 
