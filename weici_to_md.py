@@ -15,13 +15,13 @@ def gy_paraphrase(t): #12568
         while b[-1]==' ':
             b=b[:-1]
         print('**' + b + '**  ',file=f)
-    '''
+    
     if t['english']!='':print('英译 '+t['english'],file=f)
     
     if t['antonym']!='':print('反义词 ' + t['antonym']+' ',file=f)
     if t['synonyms']!='':print('近义词 ' + t['synonyms']+'  ',file=f)
     print(file=f)
-    '''
+    
     if t['gy_sentential_form']!=[]:
         for exam in t['gy_sentential_form']:
             gy_sentential_form(exam) 
@@ -106,7 +106,7 @@ def gy_derivative(t): #10112
     if t['gy_fixed_collocation']!=[]:
         for exam in t['gy_fixed_collocation']:
             gy_fixed_collocation(exam)  
-    '''        
+           
 def gy_exam_link(exam): #10112
     print('##### 题目  ',file=f)
     print(exam['subject']+'  ',file=f)
@@ -116,7 +116,7 @@ def gy_exam_link(exam): #10112
     if exam['answer_d']!='' :print('D.'+exam['answer_d']+'  ',file=f)
     print('##### 答案 '+ exam['answer']+'  ',file=f)
     print('  ',file=f)
-    '''
+    
 def chuli(t):
     a=json.loads(t)
     
@@ -134,7 +134,7 @@ def chuli(t):
     if a['en_phonetic_symbols']!='':print('英音 ' + a['en_phonetic_symbols'],end='     ',file=f)
     if a['usa_phonetic_symbols']!='':print('美音 ' + a['usa_phonetic_symbols'],end='  ',file=f)
     print(file=f)
-    '''
+    
     #word_level
     print(file=f)
     if a['lv_frequency']!=0 or a['lv_speak']!=0 or a['lv_write']!=0 or a['lv_read']!=0 : print('|',end='',file=f)
@@ -149,7 +149,7 @@ def chuli(t):
     if a['use_method']!='' : 
         print('用法点拨  '+ a['use_method'],file=f)
         print(file=f)
-    '''
+    
     #paraphrase
     if a['gy_paraphrase']!=[]:
         print('英文释义',file=f)
@@ -176,7 +176,7 @@ def chuli(t):
         for exam in a['gy_derivative']:
             gy_derivative(exam)   
         print(file=f)
-    '''    
+        
     #exam真题解析
     if a['gy_exam_link']!=[]:
         print('真题解析',file=f)
@@ -184,7 +184,7 @@ def chuli(t):
         for exam in a['gy_exam_link']:
             gy_exam_link(exam)           
         print(file=f)            
-    '''     
+         
 # 欢迎文字
 print('\n\n')
 print('####### 维克多英语词汇导出程序 #######\n')
@@ -258,4 +258,4 @@ if ch.find('1')==-1 and ch.find('2')==-1 and ch.find('3')==-1 and ch.find('4')==
 
 #Finish
 print()
-input('按Enter以退出')
+#input('按Enter以退出')
