@@ -7,7 +7,7 @@
 
 英文释义
 ---
-1.*高义频：* **指甲；爪；钉子**  
+### 1.*高义频：* **指甲；爪；钉子**  
 
 
 # ***\*naked*** adj
@@ -17,7 +17,7 @@
 
 英文释义
 ---
-1.*高义频：* **裸体的；赤条条的**  
+### 1.*高义频：* **裸体的；赤条条的**  
 
 
 # ***\*name*** vt
@@ -27,13 +27,13 @@
 
 英文释义
 ---
-1.*高义频：* **给…取 / 命名 (call)：**  
+### 1.*高义频：* **给…取 / 命名 (call)：**  
 
  > I have a new roommate named Louis.   
  > 我有位新室友，名叫路易斯。  
  > 来源：2008 浙江  
 
-2.*高义频：* **说出...的名字；列举；选中：**  
+### 2.*高义频：* **说出...的名字；列举；选中：**  
 
  > He knows most of the kids at the school, but can't name each one.  
  > 他认识学校里的大多数孩子，但是叫不出每个人的名字。  
@@ -45,7 +45,7 @@
 
 固定搭配
 ---
-- ## \*name ... after   **以…的名字命名：**  
+## \*name ... after   1.**以…的名字命名：**  
 
  > Being a huge basketball fan, he wanted to name his son after Jordan.   
  > 他是个狂热的篮球迷，想给儿子取名为乔丹。  
@@ -54,7 +54,7 @@
  > 杰克曾在一所乡村学校读书，该校是以他爷爷的名字命名的。  
  > 来源：2010 全国  
 
-- ## \*to name but a few  **不一而足；略举几例：**  
+## \*to name but a few  1.**不一而足；略举几例：**  
 
  > Activities available include cooking, swimming and fishing, to name but a few.  
  > 可进行的活动包括烹饪，游泳和钓鱼，略举几例。  
@@ -69,19 +69,19 @@
 
 英文释义
 ---
-1.*高义频：* **名字；名称：**  
+### 1.*高义频：* **名字；名称：**  
 
  > **Sign,name**  
  > Sign your name here, please.   
  > 请在这里签上你的名字。  
 
-2.*低义频：* **名声 (reputation)：**  
+### 2.*低义频：* **名声 (reputation)：**  
 
  > **has a good name for**  
  > The college has a good name for teaching languages.  
  > 这个学院的语言教学颇有名气。  
 
-3.*低义频：* **名人：**  
+### 3.*低义频：* **名人：**  
 
  > **biggest names**  
  > Some of the biggest names in the show business were at the party.  
@@ -90,13 +90,13 @@
 
 固定搭配
 ---
-- ## \*by the name of   **[正式用语] 名叫…的：**  
+## \*by the name of   1.**[正式用语] 名叫…的：**  
 
  > She is a British athlete by the name of Tanni Grey Thompson.   
  > 她是一名英国运动员，名叫坦妮·格雷·汤普森。  
  > 来源：2008 福建  
 
-- ## \*in the name of   **在…名下；以…的名义；代表 (in sb’s / sth’s name)：**  
+## \*in the name of   1.**在…名下；以…的名义；代表 (in sb’s / sth’s name)：**  
 
  > I arrest you in the name of the law.   
  > 我依法逮捕你。  
@@ -104,12 +104,12 @@
  > I’ve booked a table in your name.   
  > 我已经用你的名字预订了一张桌子。  
 
-- ## \*make a name (for oneself) / make one’s name   **成名；出名：**  
+## \*make a name (for oneself) / make one’s name   1.**成名；出名：**  
 
  > She first made her name as a writer of children’s books.   
  > 她最初以写儿童读物成名。  
 
-- ## \*under the name of   **以…为别名**  
+## \*under the name of   1.**以…为别名**  
 
 
 # ***\*namely*** adv
@@ -119,7 +119,7 @@
 
 英文释义
 ---
-1.*高义频：* **即；也就是：**  
+### 1.*高义频：* **即；也就是：**  
 
  > Only one person can do the job, namely you.   
  > 只有一个人能做这项工作，那就是你。  
@@ -132,7 +132,7 @@
 
 英文释义
 ---
-1.**小睡, 打盹**  
+### 1.**小睡, 打盹**  
 
 
 # ***\*narrator*** n
@@ -144,7 +144,7 @@
 
 英文释义
 ---
-1.*高义频：* **讲述者，叙述者**  
+### 1.*高义频：* **讲述者，叙述者**  
 
 
 # ***\*narrow*** adj
@@ -154,14 +154,14 @@
 
 英文释义
 ---
-1.*高义频：* **(宽度等) 狭窄的**  
+### 1.*高义频：* **(宽度等) 狭窄的**  
 反义词 wide 
 
  > As we set out, I was shocked at how narrow the path was.   
  > 出发后，我吃惊地发现这条小路是多么狭窄！  
  > 来源：2008 陕西  
 
-2.*高义频：* **(心胸、视野等) 狭隘的 / 狭窄的：**  
+### 2.*高义频：* **(心胸、视野等) 狭隘的 / 狭窄的：**  
 反义词 broad  
 
  > **narrow-minded**  
@@ -172,7 +172,7 @@
  > She has a very narrow view of the world.   
  > 她的世界观非常狭隘。  
 
-3.*高义频：* **[常用于名词前] 勉强的；好不容易的：**  
+### 3.*高义频：* **[常用于名词前] 勉强的；好不容易的：**  
 
  > **narrow victory**  
  > a narrow victory   
@@ -186,7 +186,7 @@
 
 英文释义
 ---
-1.*高义频：* **(使) 变窄；(使) 变小：**  
+### 1.*高义频：* **(使) 变窄；(使) 变小：**  
 
  > **narrow,eyes**  
  > He had to narrow his eyes in the strong light of the sun.   
@@ -215,7 +215,7 @@ Parents and children should communicate more to n________ the gap between them s
 
 英文释义
 ---
-1.*高义频：* **勉强地；差点儿 (没)：**  
+### 1.*高义频：* **勉强地；差点儿 (没)：**  
 
  > The car narrowly missed a cyclist.   
  > 汽车差点儿撞上一位骑自行车的人。  
@@ -235,7 +235,7 @@ The final score of the basketball match was 93-94. We were only  ________ (narro
 
 英文释义
 ---
-1.*高义频：* **令人极不愉快的；不友善的；下流的**  
+### 1.*高义频：* **令人极不愉快的；不友善的；下流的**  
 
 
 # ***\*nation*** n
@@ -247,19 +247,20 @@ The final score of the basketball match was 93-94. We were only  ________ (narro
 
 英文释义
 ---
-1.*高义频：* **国家：**  
+### 1.*高义频：* **国家：**  
 
  > an independent nation   
  > 独立的国家  
 
-### 辨析 country, nation, state
+#### 辨析 country, nation, state
 三者都含有“国家”的意思。  
-2.*高义频：* **[总称，谓语动词常用单数] 国民：**  
+
+### 2.*高义频：* **[总称，谓语动词常用单数] 国民：**  
 
  > The entire nation was watching the developments of the incident.   
  > 全国人民都在关注这一事件的进展。  
 
-3.*低义频：* **民族：**  
+### 3.*低义频：* **民族：**  
 
  > the Chinese nation  
  > 中华民族  
@@ -272,7 +273,7 @@ The final score of the basketball match was 93-94. We were only  ________ (narro
 
 英文释义
 ---
-1.*高义频：* **国家的；全国性的；民族的：**  
+### 1.*高义频：* **国家的；全国性的；民族的：**  
 
  > National Day   
  > 国庆节  
@@ -280,7 +281,7 @@ The final score of the basketball match was 93-94. We were only  ________ (narro
  > a national hero  
  > 民族英雄  
 
-2.*高义频：* **国有的；国营的：**  
+### 2.*高义频：* **国有的；国营的：**  
 
  > a national park / museum  
  > 国家公园 / 国家博物馆  
@@ -293,7 +294,7 @@ The final score of the basketball match was 93-94. We were only  ________ (narro
 
 英文释义
 ---
-1.*高义频：* **民族主义；国家主义**  
+### 1.*高义频：* **民族主义；国家主义**  
 
 
 # ***\*nationality*** n
@@ -303,13 +304,13 @@ The final score of the basketball match was 93-94. We were only  ________ (narro
 
 英文释义
 ---
-1.*高义频：* **[C] & [U] 国籍：**  
+### 1.*高义频：* **[C] & [U] 国籍：**  
 
  > **British nationality**  
  > She lives in France but has British nationality.  
  > 她住在法国，但有英国国籍。  
 
-2.*低义频：* **[C] 民族：**  
+### 2.*低义频：* **[C] 民族：**  
 
  > the Chinese people of all nationalities   
  > 中国各族人民  
@@ -330,7 +331,7 @@ David Beckham’s ________ (国籍) is British.
 
 英文释义
 ---
-1.*高义频：* **全国性的；遍及全国的：**  
+### 1.*高义频：* **全国性的；遍及全国的：**  
 
  > China began a nationwide public service advertising campaign in 1996.   
  > 1996年中国开展了一次全国性的公益广告活动。  
@@ -344,7 +345,7 @@ David Beckham’s ________ (国籍) is British.
 
 英文释义
 ---
-1.*高义频：* **在全国：**  
+### 1.*高义频：* **在全国：**  
 
  > The company has over 500 chain stores nationwide.  
  > 这个公司在全国有500多家连锁店。  
@@ -357,7 +358,7 @@ David Beckham’s ________ (国籍) is British.
 
 英文释义
 ---
-1.*高义频：* **[只用于名词前]出生地的；本国的；本土的：**  
+### 1.*高义频：* **[只用于名词前]出生地的；本国的；本土的：**  
 
  > **native speaker**  
  > You speak English like a native speaker.   
@@ -377,7 +378,7 @@ David Beckham’s ________ (国籍) is British.
 
 英文释义
 ---
-1.**本地人；当地人 (local)：**  
+### 1.**本地人；当地人 (local)：**  
 
 
 # ***\*natural*** adj
@@ -387,18 +388,18 @@ David Beckham’s ________ (国籍) is British.
 
 英文释义
 ---
-1.*高义频：* **大自然的；天然的：**  
+### 1.*高义频：* **大自然的；天然的：**  
 
  > natural science / disasters  
  > 自然科学/自然灾害  
 
-2.*高义频：* **自然的；正常的：**  
+### 2.*高义频：* **自然的；正常的：**  
 
  > **It is natural to**  
  > It is natural to laugh when you are happy.  
  > 高兴时大笑是很自然的。  
 
-3.*高义频：* **天生的：**  
+### 3.*高义频：* **天生的：**  
 
  > She has a natural talent for music.  
  > 她有音乐天赋。  
@@ -411,7 +412,7 @@ David Beckham’s ________ (国籍) is British.
 
 英文释义
 ---
-1.*高义频：* **自然地；当然地；天生地：**  
+### 1.*高义频：* **自然地；当然地；天生地：**  
 
  > **Naturally enough**  
  > Naturally enough, she wanted her child to grow up fit and strong.   
@@ -437,34 +438,34 @@ You will be better accepted if you can speak more ________ (自然地) in public
 
 英文释义
 ---
-1.*高义频：* **[U] 大自然；自然界：**  
+### 1.*高义频：* **[U] 大自然；自然界：**  
 
  > Not only did the mountain-climbing get us close to nature, it also promoted friendship between us.   
  > 爬山不仅让我们接近大自然，也增进了我们之间的友谊。  
  > 来源：2013 江西改  
 
 Notes: nature意为“大自然”时，其前不加冠词。  
-2.*高义频：* **天性；本性：**  
+### 2.*高义频：* **天性；本性：**  
 
  > Being naughty is children’s nature.  
  > 顽皮是孩子们的天性。  
 
-3.*低义频：* **特点；性质**  
+### 3.*低义频：* **特点；性质**  
 
 
 固定搭配
 ---
-- ## \*(get / go) back to nature  **回归自然；返璞归真：**  
+## \*(get / go) back to nature  1.**回归自然；返璞归真：**  
 
  > City workers want to get back to nature in their holidays.  
  > 城市上班族希望休假时可以回归自然。  
 
-- ## \*by nature   **天生地；出于本性地：**  
+## \*by nature   1.**天生地；出于本性地：**  
 
  > Children are curious by nature.   
  > 孩子生性好奇。  
 
-- ## \*in sb’s nature   **本性如此：**  
+## \*in sb’s nature   1.**本性如此：**  
 
  > It is not in his nature to be “selfish” and “rude”.  
  > “自私”和“粗鲁”不是他的本性。  
@@ -478,7 +479,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 英文释义
 ---
-1.*高义频：* **顽皮的；淘气的**  
+### 1.*高义频：* **顽皮的；淘气的**  
 
 
 # ***\*navigation*** n
@@ -490,7 +491,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 英文释义
 ---
-1.*高义频：* **导航；航行**  
+### 1.*高义频：* **导航；航行**  
 
 
 # ***\*navigator*** n
@@ -500,7 +501,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 英文释义
 ---
-1.**领航员；（飞机的）驾驶员**  
+### 1.**领航员；（飞机的）驾驶员**  
 
 
 # ***\*navy*** n
@@ -512,7 +513,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 英文释义
 ---
-1.*高义频：* **海军；海军部队：**  
+### 1.*高义频：* **海军；海军部队：**  
 
  > **join the navy**  
  > join the navy  
@@ -526,7 +527,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 英文释义
 ---
-1.*高义频：* **(空间、时间) 接近；靠近：**  
+### 1.*高义频：* **(空间、时间) 接近；靠近：**  
 
  > She sits near the window in the classroom.   
  > 她坐在教室里靠窗户的地方。  
@@ -534,8 +535,9 @@ Notes: nature意为“大自然”时，其前不加冠词。
  > It’s near Christmas.  
  > 圣诞节快到了。  
 
-### 辨析 by, near
+#### 辨析 by, near
 二者都可作介词，表示“在附近”，但也有细微差别。  
+
 
 # ***\*near*** adj
 英音 nɪə(r)     美音 nɪr  
@@ -544,7 +546,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 英文释义
 ---
-1.*高义频：* **(空间、时间) 近的；接近的 (close)：**  
+### 1.*高义频：* **(空间、时间) 近的；接近的 (close)：**  
 
  > We could have walked to the station; it was so near.  
  > 我们本来可以步行去车站的，很近。  
@@ -564,7 +566,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 英文释义
 ---
-1.*高义频：* **(空间、时间) 接近；靠近：**  
+### 1.*高义频：* **(空间、时间) 接近；靠近：**  
 
  > **coming near**  
  > A train is coming near quickly.   
@@ -584,7 +586,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 英文释义
 ---
-1.*高义频：* **靠近；接近；临近 (approach)：**  
+### 1.*高义频：* **靠近；接近；临近 (approach)：**  
 
  > As the wedding day neared, I started to have second thoughts about getting married.  
  > 随着结婚日期的临近，我开始重新考虑结婚的事。  
@@ -597,7 +599,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 英文释义
 ---
-1.*高义频：* **在附近：**  
+### 1.*高义频：* **在附近：**  
 
  > The plane landed nearby.  
  > 飞机在不远处着陆。  
@@ -613,7 +615,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 英文释义
 ---
-1.*高义频：* **附近的：**  
+### 1.*高义频：* **附近的：**  
 
  > a shop in a nearby street   
  > 附近街道的一家商店  
@@ -626,7 +628,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 英文释义
 ---
-1.*高义频：* **几乎；差不多：**  
+### 1.*高义频：* **几乎；差不多：**  
 
  > I stayed there for nearly three months.  
  > 我在那里待了将近三个月。  
@@ -635,12 +637,13 @@ Notes: nature意为“大自然”时，其前不加冠词。
  > The building is nearly completed.   
  > 这幢大楼即将竣工。  
 
-### 辨析 almost, nearly
+#### 辨析 almost, nearly
 二者都是副词，在肯定句中常可换用。区别如下：  
+
 
 固定搭配
 ---
-- ## \*not nearly   **根本不；远不及：**  
+## \*not nearly   1.**根本不；远不及：**  
 
  > It’s not nearly as hot as last year.   
  > 天气远没有去年那么热。  
@@ -653,12 +656,12 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 英文释义
 ---
-1.*高义频：* **(场所) 整洁的；整齐的：**  
+### 1.*高义频：* **(场所) 整洁的；整齐的：**  
 
  > He always keeps his desk neat.   
  > 他总是保持桌子整洁。  
 
-2.*高义频：* **(人) (爱) 整洁的：**  
+### 2.*高义频：* **(人) (爱) 整洁的：**  
 
  > a very neat woman   
  > 装束十分整洁的女人  
@@ -675,7 +678,7 @@ neatly /niːtli/ adv
 
 英文释义
 ---
-1.*高义频：* **必然地；必需地：**  
+### 1.*高义频：* **必然地；必需地：**  
 
  > **not necessarily**  
  > Expensive restaurants are not necessarily the best.  
@@ -689,7 +692,7 @@ neatly /niːtli/ adv
 
 英文释义
 ---
-1.*高义频：* **必需的；必要的 (essential)：**  
+### 1.*高义频：* **必需的；必要的 (essential)：**  
 
  > The booklet provides all the necessary information about the college.   
  > 这本手册提供有关这所大学的所有必要信息。  
@@ -718,7 +721,7 @@ neatly /niːtli/ adv
  > A good diet is necessary for maintaining a healthy body.  
  > 想保持身体健康，合理的饮食必不可少。  
 
-2.*高义频：* **[只用于名词前] 必然的；不可避免的：**  
+### 2.*高义频：* **[只用于名词前] 必然的；不可避免的：**  
 
  > Some don’t agree that environmental pollution is a necessary consequence of development.  
  > 有些人认为环境污染并不是发展的必然结果。  
@@ -726,15 +729,15 @@ neatly /niːtli/ adv
 
 固定搭配
 ---
-- ## \*do the necessary  **做必要的事**  
+## \*do the necessary  1.**做必要的事**  
 
-- ## \*if necessary   **如果必要的话：**  
+## \*if necessary   1.**如果必要的话：**  
 
  > We should help those who are in great need if necessary.  
  > 必要的话，我们应该帮助那些非常需要帮助的人。  
  > 来源：2012 湖南书面表达  
 
-- ## \*when necessary   **必要时：**  
+## \*when necessary   1.**必要时：**  
 
  > The army needs men who are willing to fight, when necessary.  
  > 军队需要必要时愿意投入战斗的人。  
@@ -756,7 +759,7 @@ neatly /niːtli/ adv
 
 英文释义
 ---
-1.*高义频：* **[U] 必要 (性)；需要：**  
+### 1.*高义频：* **[U] 必要 (性)；需要：**  
 
  > **the necessity of**  
  > We were discussing the necessity of employing more staff.   
@@ -767,7 +770,7 @@ neatly /niːtli/ adv
  > 出于需要我们走了乡间小路。  
  > 来源：2013 天津  
 
-2.*低义频：* **[C] 必需品；必要之物：**  
+### 2.*低义频：* **[C] 必需品；必要之物：**  
 
  > For many Americans the automobile is a necessity.  
  > 对于很多美国人来说，汽车是必需品。  
@@ -782,7 +785,7 @@ neatly /niːtli/ adv
 
 英文释义
 ---
-1.*高义频：* **脖子；(某物的) 颈部：**  
+### 1.*高义频：* **脖子；(某物的) 颈部：**  
 
  > the neck of a bottle   
  > 瓶颈  
@@ -801,7 +804,7 @@ neatly /niːtli/ adv
 
 英文释义
 ---
-1.*高义频：* **项链；项圈**  
+### 1.*高义频：* **项链；项圈**  
 
 
 # ***\*need*** n  重难点词汇
@@ -811,7 +814,7 @@ neatly /niːtli/ adv
 
 英文释义
 ---
-1.*高义频：* **[U] [单数] 需要；必要：**  
+### 1.*高义频：* **[U] [单数] 需要；必要：**  
 
  > **a need for**  
  > There is a need for more communication between parents and children.   
@@ -825,7 +828,7 @@ neatly /niːtli/ adv
  > Everything is fine with me; there is no need for you to be concerned.   
  > 我一切都好，你不必挂念。  
 
-2.*高义频：* **[C] [常用复数] 需求；需用的东西：**  
+### 2.*高义频：* **[C] [常用复数] 需求；需用的东西：**  
 
  > **meet / satisfy sb’s needs**  
  > meet / satisfy sb’s needs   
@@ -834,7 +837,7 @@ neatly /niːtli/ adv
 
 固定搭配
 ---
-- ## \*in need   **在困难中；在困境中：**  
+## \*in need   1.**在困难中；在困境中：**  
 
  > A friend in need is a friend indeed.   
  > 患难见真情。  
@@ -843,7 +846,7 @@ neatly /niːtli/ adv
  > 我们社会上的每个人都应该帮助那些有困难的人。  
  > 来源：2016 江苏书面表达  
 
-- ## \*in need of  **需要：**  
+## \*in need of  1.**需要：**  
 
  > The gentleman never fails to help whoever is in need of help.  
  > 这位先生总是帮助任何需要帮助的人。  
@@ -868,7 +871,7 @@ Many Chinese universities provide scholarships for students ________ need of fin
 
 英文释义
 ---
-1.*高义频：* **需要；必需**  
+### 1.*高义频：* **需要；必需**  
 
  > **badly needed**  
  > These students badly needed an improvement in confidence.   
@@ -911,7 +914,7 @@ We’ve had a good start, but next, more work needs ________ (do) to achieve the
 
 英文释义
 ---
-1.*高义频：* **[无时态、人称变化，多用于否定句和疑问句] 需要；必须：**  
+### 1.*高义频：* **[无时态、人称变化，多用于否定句和疑问句] 需要；必须：**  
 
  > My room is a mess, but I needn’t clean it before I go out tonight.  
  > 我的房间很脏乱，但是我今晚出去前不需要打扫。  
@@ -926,7 +929,7 @@ We’ve had a good start, but next, more work needs ________ (do) to achieve the
 
 固定搭配
 ---
-- ## \*needn’t have done sth   **原本不必做某事：**  
+## \*needn’t have done sth   1.**原本不必做某事：**  
 
  > As you worked late yesterday, you needn’t have come this morning.  
  > 你昨天工作到很晚，今天早上你原本可以不来。  
@@ -954,7 +957,7 @@ I ________ (原不必担心) before I came to the new school, for my classmates 
 
 英文释义
 ---
-1.*高义频：* **针；指针；注射针：**  
+### 1.*高义频：* **针；指针；注射针：**  
 
  > a needle and thread   
  > 针线  
@@ -967,7 +970,7 @@ I ________ (原不必担心) before I came to the new school, for my classmates 
 
 英文释义
 ---
-1.*高义频：* **否定的：**  
+### 1.*高义频：* **否定的：**  
 
  > a negative sentence / reply  
  > 否定句 / 否定的答复  
@@ -975,7 +978,7 @@ I ________ (原不必担心) before I came to the new school, for my classmates 
  > I have a negative opinion on the value of this idea while others are positive about it.  
  > 我对这个想法的价值持否定观点，而其他人持肯定观点。  
 
-2.*高义频：* **负面的；消极的：**  
+### 2.*高义频：* **负面的；消极的：**  
 反义词 positive 
 
  > **negative effects on**  
@@ -987,7 +990,7 @@ I ________ (原不必担心) before I came to the new school, for my classmates 
  > A negative attitude will never give you a positive life.  
  > 消极的态度永远不会带来美好的人生。  
 
-3.*高义频：* **(电 / 数字) 负的；(医) 阴性的**  
+### 3.*高义频：* **(电 / 数字) 负的；(医) 阴性的**  
 反义词 positive 
 
  > a negative number / charge / trade balance  
@@ -1001,7 +1004,7 @@ I ________ (原不必担心) before I came to the new school, for my classmates 
 
 英文释义
 ---
-1.**底片；否定**  
+### 1.**底片；否定**  
 
 
 # ***\*neglect*** vt
@@ -1011,7 +1014,7 @@ I ________ (原不必担心) before I came to the new school, for my classmates 
 
 英文释义
 ---
-1.*高义频：* **忽视；疏忽；漏做 (某事)：**  
+### 1.*高义频：* **忽视；疏忽；漏做 (某事)：**  
 
  > neglect one’s duty   
  > 玩忽职守  
@@ -1031,7 +1034,7 @@ I ________ (原不必担心) before I came to the new school, for my classmates 
 
 英文释义
 ---
-1.*高义频：* **谈判；协商**  
+### 1.*高义频：* **谈判；协商**  
 英译 to try to reach an agreement by formal discussion, especially in business or politics：
 
  > **negotiate with**  
@@ -1042,7 +1045,7 @@ I ________ (原不必担心) before I came to the new school, for my classmates 
  > We have been negotiating for more pay.  
  > 我们一直在为增加工资进行协商。  
 
-2.*高义频：* **vt 商定；达成 (协议)：**  
+### 2.*高义频：* **vt 商定；达成 (协议)：**  
 
  > negotiate a deal / contract  
  > 达成交易 / 确立合同  
@@ -1063,7 +1066,7 @@ The minister said, “We are ready for discussions with any legal parties, but w
 
 英文释义
 ---
-1.**（马）嘶鸣**  
+### 1.**（马）嘶鸣**  
 
 
 # ***\*neigh*** v
@@ -1073,7 +1076,7 @@ The minister said, “We are ready for discussions with any legal parties, but w
 
 英文释义
 ---
-1.**（马）嘶鸣**  
+### 1.**（马）嘶鸣**  
 
 
 # ***\*neighbo(u)r*** n
@@ -1085,7 +1088,7 @@ The minister said, “We are ready for discussions with any legal parties, but w
 
 英文释义
 ---
-1.*高义频：* **邻居；邻国；邻近的人 / 物：**  
+### 1.*高义频：* **邻居；邻国；邻近的人 / 物：**  
 
  > next-door neighbours   
  > 隔壁邻居  
@@ -1112,7 +1115,7 @@ One of our ________ (邻居) kept a very beautiful garden.
 
 英文释义
 ---
-1.*高义频：* **[C] 社区；街坊；(某特定的) 地段：**  
+### 1.*高义频：* **[C] 社区；街坊；(某特定的) 地段：**  
 
  > I live in a quiet neighbourhood.   
  > 我居住的社区很安静。  
@@ -1120,7 +1123,7 @@ One of our ________ (邻居) kept a very beautiful garden.
  > The houses in that neighbourhood are expensive.   
  > 那个地段的房子很贵。  
 
-2.*高义频：* **[集体名词，用the neighbourhood，谓语动词用单数] 附近地区 (的居民)：**  
+### 2.*高义频：* **[集体名词，用the neighbourhood，谓语动词用单数] 附近地区 (的居民)：**  
 
  > **All the neighbourhood**  
  > All the neighbourhood is aware of it.   
@@ -1138,7 +1141,7 @@ One of our ________ (邻居) kept a very beautiful garden.
 
 英文释义
 ---
-1.**街坊；邻近地区**  
+### 1.**街坊；邻近地区**  
 
 
 # ***\*neither*** pron
@@ -1148,7 +1151,7 @@ One of our ________ (邻居) kept a very beautiful garden.
 
 英文释义
 ---
-1.*高义频：* **(两者之中) 无一个：**  
+### 1.*高义频：* **(两者之中) 无一个：**  
 
  > Now neither of my parents give me money.   
  > 现在，父母都不给我钱了。  
@@ -1185,7 +1188,7 @@ Larry asks Bill and Peter to go on a picnic with him, but ________ of them wants
 
 英文释义
 ---
-1.*高义频：* **也不：**  
+### 1.*高义频：* **也不：**  
 
  > **neither did I**  
  > He didn’t remember and neither did I.   
@@ -1199,9 +1202,9 @@ Notes: neither意为“也不”时，承接在否定句后面,表示与前面�
 
 固定搭配
 ---
-- ## \*Me neither.   **我也不 (…)。**  
+## \*Me neither.   1.**我也不 (…)。**  
 
-- ## \*neither ... nor   **既不…也不：**  
+## \*neither ... nor   1.**既不…也不：**  
 
  > Neither you nor I am wrong.   
  > 你没错，我也没错。  
@@ -1233,7 +1236,7 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
 
 英文释义
 ---
-1.*高义频：* **(两者) 都不的：**  
+### 1.*高义频：* **(两者) 都不的：**  
 
  > Neither answer is correct.   
  > 两个答案都不对。  
@@ -1249,7 +1252,7 @@ Notes: neither与单数名词连用时，谓语动词用单数。
 
 英文释义
 ---
-1.*高义频：* **侄子；外甥**  
+### 1.*高义频：* **侄子；外甥**  
 
 
 真题解析
@@ -1269,17 +1272,17 @@ Bob’s ________ (侄子) is a freshman at Harvard University.
 
 英文释义
 ---
-1.*高义频：* **神经：**  
+### 1.*高义频：* **神经：**  
 
  > nerve cells / endings  
  > 神经细胞/末梢  
 
-2.*高义频：* **[用复数] 神经紧张；焦躁：**  
+### 2.*高义频：* **[用复数] 神经紧张；焦躁：**  
 
 
 固定搭配
 ---
-- ## \*get on sb’s nerves   **令某人焦躁：**  
+## \*get on sb’s nerves   1.**令某人焦躁：**  
 
  > Stop whistling! It’s getting on my nerves!  
  > 别吹口哨了!扰得我心烦!  
@@ -1292,12 +1295,12 @@ Bob’s ________ (侄子) is a freshman at Harvard University.
 
 英文释义
 ---
-1.*高义频：* **神经的；神经方面的：**  
+### 1.*高义频：* **神经的；神经方面的：**  
 
  > the central nervous system   
  > 中枢神经系统  
 
-2.*高义频：* **神经质的；紧张的；不安的：**  
+### 2.*高义频：* **神经质的；紧张的；不安的：**  
 
  > **nervous about**  
  > We were all nervous about the approaching examinations.  
@@ -1318,7 +1321,7 @@ nervously /'nɜːvəsli/ adv
 
 英文释义
 ---
-1.*高义频：* **(鸟、虫等的) 巢；窝；巢穴：**  
+### 1.*高义频：* **(鸟、虫等的) 巢；窝；巢穴：**  
 
  > an ants’ nest  
  > 蚁穴  
@@ -1333,7 +1336,7 @@ nervously /'nɜːvəsli/ adv
 
 英文释义
 ---
-1.*高义频：* **网；球网；(the Net) 互联网：**  
+### 1.*高义频：* **网；球网；(the Net) 互联网：**  
 
  > **fishing net**  
  > a fishing net   
@@ -1350,7 +1353,7 @@ nervously /'nɜːvəsli/ adv
 
 英文释义
 ---
-1.**净得的；纯的**  
+### 1.**净得的；纯的**  
 
 
 # ***\*network*** n
@@ -1362,7 +1365,7 @@ nervously /'nɜːvəsli/ adv
 
 英文释义
 ---
-1.*高义频：* **网状系统；关系网：**  
+### 1.*高义频：* **网状系统；关系网：**  
 
  > **network of**  
  > a high-speed network of railways  
@@ -1371,7 +1374,7 @@ nervously /'nɜːvəsli/ adv
  > a social network   
  > 社交网  
 
-2.*高义频：* **广播网；电视网；互联网：**  
+### 2.*高义频：* **广播网；电视网；互联网：**  
 
  > **TV,wireless networks**  
  > TV / wireless networks  
@@ -1385,9 +1388,9 @@ nervously /'nɜːvəsli/ adv
 
 英文释义
 ---
-1.**将…连接成网络；联播**  
+### 1.**将…连接成网络；联播**  
 
-2.**建立工作关系**  
+### 2.**建立工作关系**  
 
 
 # ***\*neutral*** n
@@ -1399,7 +1402,7 @@ nervously /'nɜːvəsli/ adv
 
 英文释义
 ---
-1.*高义频：* **中立国；中立者**  
+### 1.*高义频：* **中立国；中立者**  
 
 
 # ***\*neutral*** adj
@@ -1409,7 +1412,7 @@ nervously /'nɜːvəsli/ adv
 
 英文释义
 ---
-1.*高义频：* **中立的；不偏不倚的；中性的**  
+### 1.*高义频：* **中立的；不偏不倚的；中性的**  
 
 
 # ***\*never*** adv
@@ -1419,7 +1422,7 @@ nervously /'nɜːvəsli/ adv
 
 英文释义
 ---
-1.*高义频：* **从不；从未；永不：**  
+### 1.*高义频：* **从不；从未；永不：**  
 
  > **Never say die**  
  > Never say die.   
@@ -1437,7 +1440,7 @@ Notes: never在句首时，句子要用部分倒装结构，即“Never + 助动
  > I finally got the job I dreamed about. Never in all my life had I felt so happy!   
  > 我终于得到了自己梦寐以求的工作，我这辈子从没这么高兴过。  
 
-2.*高义频：* **[用于加强语气] 不；没有；不要：**  
+### 2.*高义频：* **[用于加强语气] 不；没有；不要：**  
 
  > — I told my boss exactly what I thought of her.   
  > 我对老板说了我对她的真实看法。  
@@ -1484,7 +1487,7 @@ I can ________ (永不) be a teacher. I’m not a very patient person.
 
 英文释义
 ---
-1.*高义频：* **然而；不过：**  
+### 1.*高义频：* **然而；不过：**  
 
  > There is little chance that we will win the match. Nevertheless it is important that we try.  
  > 我们赢得比赛的可能性不大。不过，重要的是我们要努力争取。  
@@ -1500,7 +1503,7 @@ I can ________ (永不) be a teacher. I’m not a very patient person.
 
 英文释义
 ---
-1.*高义频：* **新的【反:old】；重新的：**  
+### 1.*高义频：* **新的【反:old】；重新的：**  
 
  > a new dress / medicine  
  > 新衣服/新药  
@@ -1508,7 +1511,7 @@ I can ________ (永不) be a teacher. I’m not a very patient person.
  > Let’s make a new start.   
  > 我们重新开始吧。  
 
-2.*高义频：* **不熟悉的；新接触的：**  
+### 2.*高义频：* **不熟悉的；新接触的：**  
 
  > **new to**  
  > He is new to the job.  
@@ -1528,7 +1531,7 @@ newly /'njuːli/ adv
 
 英文释义
 ---
-1.*高义频：* **新闻；消息：**  
+### 1.*高义频：* **新闻；消息：**  
 
  > **piece of news**  
  > a piece of news   
@@ -1550,7 +1553,7 @@ newly /'njuːli/ adv
 
 英文释义
 ---
-1.**新闻快讯**  
+### 1.**新闻快讯**  
 
 
 # ***\*newsletter*** n
@@ -1562,7 +1565,7 @@ newly /'njuːli/ adv
 
 英文释义
 ---
-1.*高义频：* **通讯；简报**  
+### 1.*高义频：* **通讯；简报**  
 
 
 # ***\*newspaper*** n
@@ -1574,7 +1577,7 @@ newly /'njuːli/ adv
 
 英文释义
 ---
-1.*高义频：* **报纸 (paper)；报社：**  
+### 1.*高义频：* **报纸 (paper)；报社：**  
 
  > **daily / weekly newspaper**  
  > a daily / weekly newspaper   
@@ -1596,7 +1599,7 @@ newly /'njuːli/ adv
 
 英文释义
 ---
-1.*高义频：* **下一个人 / 物：**  
+### 1.*高义频：* **下一个人 / 物：**  
 
  > the week / year after next  
  > 下下周 / 后年  
@@ -1607,7 +1610,7 @@ newly /'njuːli/ adv
 
 固定搭配
 ---
-- ## \*next to   **紧挨着 (beside)；仅次于：**  
+## \*next to   1.**紧挨着 (beside)；仅次于：**  
 
  > He sits down at a table next to the front window.   
  > 他在靠近前窗的桌子旁坐下来。  
@@ -1625,7 +1628,7 @@ newly /'njuːli/ adv
 
 英文释义
 ---
-1.*高义频：* **[只用于名词前] 下一个的；接下来的：**  
+### 1.*高义频：* **[只用于名词前] 下一个的；接下来的：**  
 
  > Drop me at the next corner, please.   
  > 请让我在下一个拐角处下车。  
@@ -1655,7 +1658,7 @@ Notes: 在时间上，指以现在为基准的“下一个”时，不加the。�
 
 英文释义
 ---
-1.*高义频：* **接下来；下次：**  
+### 1.*高义频：* **接下来；下次：**  
 
  > We’ve had a good idea. Next, we’ll try it out.  
  > 我们已经有了好的想法，接下来我们要验证它。  
@@ -1675,7 +1678,7 @@ Notes: 在时间上，指以现在为基准的“下一个”时，不加the。�
 
 英文释义
 ---
-1.*高义频：* **美好的；极好的：**  
+### 1.*高义频：* **美好的；极好的：**  
 
  > **a nice day**  
  > What a nice day, isn’t it?  
@@ -1685,7 +1688,7 @@ Notes: 在时间上，指以现在为基准的“下一个”时，不加the。�
  > You did a good job today. Nice work, James!   
  > 你今天干得不错。好样的，詹姆斯！  
 
-2.*高义频：* **宜人的；愉快的：**  
+### 2.*高义频：* **宜人的；愉快的：**  
 
  > a nice hot bath   
  > 舒服的热水澡  
@@ -1694,7 +1697,7 @@ Notes: 在时间上，指以现在为基准的“下一个”时，不加the。�
  > have a nice time   
  > 玩得开心  
 
-3.*高义频：* **亲切的；友好的：**  
+### 3.*高义频：* **亲切的；友好的：**  
 
  > **nice to sb**  
  > be nice to sb  
@@ -1719,7 +1722,7 @@ nicely /'naɪsli/ adv
 
 英文释义
 ---
-1.*高义频：* **绰号：**  
+### 1.*高义频：* **绰号：**  
 
  > Einstein was given the nickname, “the student who asks questions”.  
  > 爱因斯坦得了个绰号叫“问问题的学生”。  
@@ -1739,7 +1742,7 @@ nicely /'naɪsli/ adv
 
 英文释义
 ---
-1.*高义频：* **尼古丁**  
+### 1.*高义频：* **尼古丁**  
 
 
 # ***\*niece*** n
@@ -1751,7 +1754,7 @@ nicely /'naɪsli/ adv
 
 英文释义
 ---
-1.*高义频：* **侄女；外甥女**  
+### 1.*高义频：* **侄女；外甥女**  
 
 
 # ***\*night*** n
@@ -1763,7 +1766,7 @@ nicely /'naɪsli/ adv
 
 英文释义
 ---
-1.*高义频：* **夜；夜晚：**  
+### 1.*高义频：* **夜；夜晚：**  
 
  > **in / during the night**  
  > in / during the night   
@@ -1780,12 +1783,12 @@ nicely /'naɪsli/ adv
 
 固定搭配
 ---
-- ## \*all night (long)   **整夜：**  
+## \*all night (long)   1.**整夜：**  
 
  > I lay awake all night (long).  
  > 我整夜没睡着。  
 
-- ## \*night and day / day and night   **日日夜夜；夜以继日：**  
+## \*night and day / day and night   1.**日日夜夜；夜以继日：**  
 
  > He was so diligent that he worked day and night.  
  > 他非常勤奋，夜以继日地工作。  
@@ -1801,7 +1804,7 @@ nicely /'naɪsli/ adv
 
 英文释义
 ---
-1.*高义频：* **黄昏，傍晚 (=dusk)**  
+### 1.*高义频：* **黄昏，傍晚 (=dusk)**  
 
 
 # ***\*nightmare*** n
@@ -1811,7 +1814,7 @@ nicely /'naɪsli/ adv
 
 英文释义
 ---
-1.**噩梦**  
+### 1.**噩梦**  
 
 
 # ***\*nitrogen*** n
@@ -1823,7 +1826,7 @@ nicely /'naɪsli/ adv
 
 英文释义
 ---
-1.*高义频：* **氮**  
+### 1.*高义频：* **氮**  
 
 
 # ***\*no*** adv
@@ -1833,7 +1836,7 @@ nicely /'naɪsli/ adv
 
 英文释义
 ---
-1.*高义频：* **[表示否定回答] 不；不是：**  
+### 1.*高义频：* **[表示否定回答] 不；不是：**  
 
  > — Do you smoke?   
  > 你抽烟吗？  
@@ -1847,7 +1850,7 @@ nicely /'naɪsli/ adv
  > — No, it’s really dangerous.  
  > 是啊，那样真的很危险。  
 
-2.*低义频：* **[用在形容词、副词比较级前] 根本不；毫不：**  
+### 2.*低义频：* **[用在形容词、副词比较级前] 根本不；毫不：**  
 
  > She’s feeling no better this morning.   
  > 她今天早晨还是不见好转。  
@@ -1863,12 +1866,12 @@ nicely /'naɪsli/ adv
 
 英文释义
 ---
-1.*高义频：* **没有的 (not any / not a)：**  
+### 1.*高义频：* **没有的 (not any / not a)：**  
 
  > Time waits for no man.  
  > 时间不等人。/ 时不我待。  
 
-2.*高义频：* **[强调与所说的事截然相反] 不是；并不：**  
+### 2.*高义频：* **[强调与所说的事截然相反] 不是；并不：**  
 
  > That girl’s no fool.   
  > 那个女孩一点儿也不傻。  
@@ -1876,7 +1879,7 @@ nicely /'naɪsli/ adv
  > She was wearing no ordinary hat.   
  > 她戴的那顶帽子可不一般。  
 
-3.*高义频：* **不许的；禁止的：**  
+### 3.*高义频：* **不许的；禁止的：**  
 
  > No smoking!   
  > 禁止吸烟！  
@@ -1884,7 +1887,7 @@ nicely /'naɪsli/ adv
 
 固定搭配
 ---
-- ## \*there’s no doing sth  **[用于强调] 不可能做某事:**  
+## \*there’s no doing sth  1.**[用于强调] 不可能做某事:**  
 
  > There’s no knowing which team will win.   
  > 无法预知哪个队会赢。  
@@ -1901,7 +1904,7 @@ nicely /'naɪsli/ adv
 
 英文释义
 ---
-1.*高义频：* **贵族的；高贵的；崇高的：**  
+### 1.*高义频：* **贵族的；高贵的；崇高的：**  
 
  > **noble family**  
  > a noble family   
@@ -1920,7 +1923,7 @@ nicely /'naɪsli/ adv
 
 英文释义
 ---
-1.*高义频：* **贵族**  
+### 1.*高义频：* **贵族**  
 
 
 # ***\*nobody*** n
@@ -1932,7 +1935,7 @@ nicely /'naɪsli/ adv
 
 英文释义
 ---
-1.*高义频：* **小人物；无足轻重的人：**  
+### 1.*高义频：* **小人物；无足轻重的人：**  
 
  > I want to be somebody, and I’m tired of being a nobody.   
  > 我想成为大人物，不愿做无名小卒。  
@@ -1945,7 +1948,7 @@ nicely /'naɪsli/ adv
 
 英文释义
 ---
-1.*高义频：* **没有人；无人 (no one)：**  
+### 1.*高义频：* **没有人；无人 (no one)：**  
 反义词 somebody 
 
  > Luckily nobody was injured in that incident.    
@@ -1975,7 +1978,7 @@ The meeting will be held in September, but ________ (没人) knows the date for 
 
 英文释义
 ---
-1.*高义频：* **点头；点头同意：**  
+### 1.*高义频：* **点头；点头同意：**  
 
  > greet sb with a nod   
  > 向某人点头打招呼  
@@ -1992,7 +1995,7 @@ The meeting will be held in September, but ________ (没人) knows the date for 
 
 英文释义
 ---
-1.*高义频：* **vi & vt [表示同意或打招呼等] 点头：**  
+### 1.*高义频：* **vi & vt [表示同意或打招呼等] 点头：**  
 
  > I asked him if he would help me and he nodded.  
  > 我问他能否帮帮我，他点了点头。  
@@ -2016,7 +2019,7 @@ The meeting will be held in September, but ________ (没人) knows the date for 
 
 英文释义
 ---
-1.*高义频：* **(令人不快的) 声音；噪音：**  
+### 1.*高义频：* **(令人不快的) 声音；噪音：**  
 
  > **make,noise**  
  > Don’t make so much noise.   
@@ -2025,8 +2028,9 @@ The meeting will be held in September, but ________ (没人) knows the date for 
  > I covered my ears, trying to keep the noises out, but failed.  
  > 我捂上耳朵尽力阻止噪音，但这并不起作用。  
 
-### 辨析 noise, sound, voice
+#### 辨析 noise, sound, voice
   
+
 
 # ***\*noisy*** adj
 英音 'nɔɪzi     美音 'nɔɪzi  
@@ -2035,7 +2039,7 @@ The meeting will be held in September, but ________ (没人) knows the date for 
 
 英文释义
 ---
-1.*高义频：* **吵闹的；喧闹的；嘈杂的：**  
+### 1.*高义频：* **吵闹的；喧闹的；嘈杂的：**  
 
  > a noisy kid   
  > 吵闹的孩子  
@@ -2060,7 +2064,7 @@ noisily  /'nɔɪzɪli/ adv
 
 英文释义
 ---
-1.*高义频：* **不抽烟的人**  
+### 1.*高义频：* **不抽烟的人**  
 
 
 # ***\*non-smoking*** adj
@@ -2070,7 +2074,7 @@ noisily  /'nɔɪzɪli/ adv
 
 英文释义
 ---
-1.**禁止吸烟的**  
+### 1.**禁止吸烟的**  
 
 
 # ***\*none*** pron
@@ -2080,7 +2084,7 @@ noisily  /'nɔɪzɪli/ adv
 
 英文释义
 ---
-1.*高义频：* **[三个或三个以上的人或事中] 没有一个：**  
+### 1.*高义频：* **[三个或三个以上的人或事中] 没有一个：**  
 
  > — Do you have any questions?   
  > 你有问题吗？  
@@ -2103,7 +2107,7 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
 
 固定搭配
 ---
-- ## \*none but  **仅仅；只有：**  
+## \*none but  1.**仅仅；只有：**  
 
  > None but he knew the truth.  
  > 只有他知道真相。  
@@ -2137,7 +2141,7 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
 
 英文释义
 ---
-1.*高义频：* **胡说；废话：**  
+### 1.*高义频：* **胡说；废话：**  
 
  > **talking nonsense**  
  > They are talking nonsense again.   
@@ -2151,7 +2155,7 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
 
 英文释义
 ---
-1.*高义频：* **不停地；连续不断地；直达地：**  
+### 1.*高义频：* **不停地；连续不断地；直达地：**  
 
  > The train goes from Beijing to Shenyang nonstop.   
  > 这列火车从北京直达沈阳。  
@@ -2164,7 +2168,7 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
 
 英文释义
 ---
-1.*高义频：* **不停的；连续不断的 (continuous)；直达的 (direct)：**  
+### 1.*高义频：* **不停的；连续不断的 (continuous)；直达的 (direct)：**  
 
  > a nonstop train   
  > 直达列车  
@@ -2180,7 +2184,7 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
 
 英文释义
 ---
-1.*高义频：* **不用语言的；不用言辞表达的**  
+### 1.*高义频：* **不用语言的；不用言辞表达的**  
 
 
 # ***\*noodle*** n
@@ -2192,7 +2196,7 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
 
 英文释义
 ---
-1.*高义频：* **[常用复数] 面条**  
+### 1.*高义频：* **[常用复数] 面条**  
 
 
 # ***\*noon*** n
@@ -2204,7 +2208,7 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
 
 英文释义
 ---
-1.*高义频：* **正午；中午：**  
+### 1.*高义频：* **正午；中午：**  
 
  > **at noon**  
  > at noon   
@@ -2218,7 +2222,7 @@ Although Rosemary had suffered from a serious illness for years, she lost ______
 
 英文释义
 ---
-1.*高义频：* **也不；也没有：**  
+### 1.*高义频：* **也不；也没有：**  
 
 - not … nor:
 
@@ -2263,7 +2267,7 @@ D.he will even give
 
 英文释义
 ---
-1.*高义频：* **正常状态 / 水平 / 数量等：**  
+### 1.*高义频：* **正常状态 / 水平 / 数量等：**  
 
  > **above / below normal**  
  > above / below normal   
@@ -2272,7 +2276,7 @@ D.he will even give
 
 固定搭配
 ---
-- ## \*go back / return to normal   **恢复正常：**  
+## \*go back / return to normal   1.**恢复正常：**  
 
  > The crisis has passed and life will go back to normal soon.   
  > 危机已经过去，生活很快就会恢复正常。  
@@ -2285,7 +2289,7 @@ D.he will even give
 
 英文释义
 ---
-1.*高义频：* **正常的；平常的**  
+### 1.*高义频：* **正常的；平常的**  
 英译 typical, usual or expected：
 
  > **normal,a normal life**  
@@ -2297,9 +2301,10 @@ D.he will even give
  > It’s normal for students to feel nervous before an exam.  
  > 学生在考试之前感到紧张是正常的。  
 
-### 辨析 common, normal, ordinary, usual
+#### 辨析 common, normal, ordinary, usual
   
-2.*高义频：* **智力正常的；精神健全的**  
+
+### 2.*高义频：* **智力正常的；精神健全的**  
 反义词 abnormal 
 
 
@@ -2318,12 +2323,12 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 
 英文释义
 ---
-1.*高义频：* **通常；平常 usually：**  
+### 1.*高义频：* **通常；平常 usually：**  
 
  > We do not normally look into someone’s eyes for long.   
  > 通常情况下，我们不会盯着别人的眼睛看很久。  
 
-2.*高义频：* **正常地：**  
+### 2.*高义频：* **正常地：**  
 反义词 abnormally 
 
  > When we’re happy, our body works normally and we feel relaxed and positive.  
@@ -2340,7 +2345,7 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 
 英文释义
 ---
-1.*高义频：* **[常用the north] 北；北方；北部：**  
+### 1.*高义频：* **[常用the north] 北；北方；北部：**  
 
  > the cold wind from the north   
  > 北方吹来的冷风  
@@ -2356,7 +2361,7 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 
 英文释义
 ---
-1.*高义频：* **北的；北方的；北部的：**  
+### 1.*高义频：* **北的；北方的；北部的：**  
 
  > the north window   
  > 北面的窗户  
@@ -2372,7 +2377,7 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 
 英文释义
 ---
-1.*高义频：* **向北方；在北方：**  
+### 1.*高义频：* **向北方；在北方：**  
 
  > They walked north.   
  > 他们向北走。  
@@ -2389,7 +2394,7 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 
 英文释义
 ---
-1.**东北**  
+### 1.**东北**  
 
 
 # ***\*north-west*** n
@@ -2399,7 +2404,7 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 
 英文释义
 ---
-1.**西北**  
+### 1.**西北**  
 
 
 # ***\*northeast*** adj
@@ -2409,7 +2414,7 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 
 英文释义
 ---
-1.*高义频：* **东北的；东北部的：**  
+### 1.*高义频：* **东北的；东北部的：**  
 
  > the Northeast Plain   
  > 东北平原  
@@ -2427,7 +2432,7 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 
 英文释义
 ---
-1.*高义频：* **[常用the northeast] 东北；东北部：**  
+### 1.*高义频：* **[常用the northeast] 东北；东北部：**  
 
  > Jilin Province lies in the northeast of China.   
  > 吉林省位于中国东北。  
@@ -2440,7 +2445,7 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 
 英文释义
 ---
-1.*高义频：* **向东北；在东北：**  
+### 1.*高义频：* **向东北；在东北：**  
 
  > At this point the road turns northeast.   
  > 这条路在这里转向东北。  
@@ -2453,7 +2458,7 @@ Such a blood pressure is  ________ (正常的) for  a person of his age.
 
 英文释义
 ---
-1.*高义频：* **[常作Northern] 北方的；北部的：**  
+### 1.*高义频：* **[常作Northern] 北方的；北部的：**  
 
  > Northern Europe   
  > 北欧  
@@ -2473,7 +2478,7 @@ northerner /'nɔːðənə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **向西北；在西北：**  
+### 1.*高义频：* **向西北；在西北：**  
 
  > The road runs northwest.  
  > 道路向西北延伸。  
@@ -2486,7 +2491,7 @@ northerner /'nɔːðənə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **西北的；西北部的：**  
+### 1.*高义频：* **西北的；西北部的：**  
 
  > the northwest coast   
  > 西北海岸  
@@ -2501,7 +2506,7 @@ northerner /'nɔːðənə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **[常用the northwest] 西北；西北部：**  
+### 1.*高义频：* **[常用the northwest] 西北；西北部：**  
 
  > Xinjiang lies in the northwest of China.  
  > 新疆位于中国西北地区。  
@@ -2514,7 +2519,7 @@ northerner /'nɔːðənə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **西北部的；来自西北部的**  
+### 1.*高义频：* **西北部的；来自西北部的**  
 
 
 # ***\*nose*** n
@@ -2526,7 +2531,7 @@ northerner /'nɔːðənə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **鼻子； (动物的) 鼻口部：**  
+### 1.*高义频：* **鼻子； (动物的) 鼻口部：**  
 
  > **blow / pick,nose**  
  > blow / pick one’s nose  
@@ -2537,7 +2542,7 @@ northerner /'nɔːðənə(r)/ n [C]
  > 我以为自己患了流感，因为我流鼻涕而且有点儿发烧。  
  > 来源：2009 北京改  
 
-2.*低义频：* **嗅觉；发现 / 辨别事物的能力：**  
+### 2.*低义频：* **嗅觉；发现 / 辨别事物的能力：**  
 
  > Dogs have good noses.   
  > 狗嗅觉灵敏。  
@@ -2557,7 +2562,7 @@ northerner /'nɔːðənə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **鼻出血；流鼻血**  
+### 1.*高义频：* **鼻出血；流鼻血**  
 
 
 # ***\*not*** adv
@@ -2567,7 +2572,7 @@ northerner /'nɔːðənə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **不；没；不是：**  
+### 1.*高义频：* **不；没；不是：**  
 
 - 构成助动词be, do, have等和情态动词can, must等的否定形式，常缩写为n’t。
 
@@ -2614,7 +2619,7 @@ northerner /'nɔːðənə(r)/ n [C]
  > — Not a lot.   
  > 没做多少事。  
 
-2.*高义频：* **并非；并不：**  
+### 2.*高义频：* **并非；并不：**  
 
  > Not all men are wise.   
  > 并非所有的人都聪明。  
@@ -2623,7 +2628,7 @@ northerner /'nɔːðənə(r)/ n [C]
  > 他并不总在这儿。  
 
 Notes: 与all, both, every等词连用时，常表示部分否定。  
-3.*高义频：* **[常与very, too, much, really等连用] 不太：**  
+### 3.*高义频：* **[常与very, too, much, really等连用] 不太：**  
 
  > not too well   
  > (身体)不太好  
@@ -2635,19 +2640,19 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 
 固定搭配
 ---
-- ## \*not a / one   **一个…也不：**  
+## \*not a / one   1.**一个…也不：**  
 
  > Not a man was killed in the accident.   
  > 那次事故中没有人员死亡。  
 
-- ## \*not at all   **根本不；别客气**  
+## \*not at all   1.**根本不；别客气**  
 
-- ## \*not ... but   **不是…而是：**  
+## \*not ... but   1.**不是…而是：**  
 
  > Life is not a competition, but a trip, step by step.  
  > 生活不是竞赛，而是一场一步接着一步的旅行。  
 
-- ## \*not that   **倒不是：**  
+## \*not that   1.**倒不是：**  
 
  > She didn’t attend the meeting; not that she was busy.  
  > 她没有参加会议，倒不是因为忙。  
@@ -2670,13 +2675,13 @@ It is often said that the joy of travelling is not in arriving at your destinati
 
 英文释义
 ---
-1.*高义频：* **单音；音调；音符：**  
+### 1.*高义频：* **单音；音调；音符：**  
 
  > **high notes**  
  > She has a good voice but has trouble hitting the high notes.  
  > 她嗓音很好，但唱高音有困难。  
 
-2.*高义频：* **记录；[复数] 笔记：**  
+### 2.*高义频：* **记录；[复数] 笔记：**  
 
  > **made a note of**  
  > Dave made a note of her address.   
@@ -2690,7 +2695,7 @@ It is often said that the joy of travelling is not in arriving at your destinati
  > She made a mental note (= decided that she must remember) to ask Alan about it.  
  > 她提醒自己要向艾伦问问这件事。  
 
-3.*高义频：* **注释；评注：**  
+### 3.*高义频：* **注释；评注：**  
 
  > notes to / on a text   
  > 课文注释  
@@ -2698,12 +2703,12 @@ It is often said that the joy of travelling is not in arriving at your destinati
  > See the notes at the end of the book.   
  > 参看书后的注释。  
 
-4.*高义频：* **便条；短笺：**  
+### 4.*高义频：* **便条；短笺：**  
 
  > She left me a note to say my supper was in the fridge.  
  > 她给我留了个便条，告诉我晚饭在冰箱里。  
 
-5.*高义频：* **纸币 (AmE bill)：**  
+### 5.*高义频：* **纸币 (AmE bill)：**  
 
  > a five-pound note  
  > 一张5英镑的钞票  
@@ -2711,18 +2716,18 @@ It is often said that the joy of travelling is not in arriving at your destinati
 
 固定搭配
 ---
-- ## \*compare notes (with sb)   **(与某人) 交换意见 / 信息：**  
+## \*compare notes (with sb)   1.**(与某人) 交换意见 / 信息：**  
 
  > We saw the play separately and compared notes afterwards.  
  > 我们分别观看了那出戏，随后交换了意见。  
 
-- ## \*make / take notes   **记笔记：**  
+## \*make / take notes   1.**记笔记：**  
 
  > Mary is really good at taking / making notes in class.  
  > 玛丽很会记课堂笔记。  
  > 来源：2012 全国  
 
-- ## \*take note of   **注意 (notice)：**  
+## \*take note of   1.**注意 (notice)：**  
 
  > Next time you chat with a friend, take note of how you’re sitting.    
  > 下次你和朋友聊天时，注意一下你的坐姿。  
@@ -2738,7 +2743,7 @@ It is often said that the joy of travelling is not in arriving at your destinati
 
 英文释义
 ---
-1.*高义频：* **注意；留意：**  
+### 1.*高义频：* **注意；留意：**  
 
  > **note**  
  > Please note (that) food and fruit are forbidden in the library.  
@@ -2748,7 +2753,7 @@ It is often said that the joy of travelling is not in arriving at your destinati
  > Please note how the computer is operated.   
  > 请注意计算机的操作方法。  
 
-2.*低义频：* **特别提到；指出：**  
+### 2.*低义频：* **特别提到；指出：**  
 
  > as noted above   
  > 如上所述  
@@ -2760,7 +2765,7 @@ It is often said that the joy of travelling is not in arriving at your destinati
 
 固定搭配
 ---
-- ## \*note down  **记下；记录：**  
+## \*note down  1.**记下；记录：**  
 
  > The policeman noted down what I said.  
  > 警察记下了我说的话。  
@@ -2783,7 +2788,7 @@ Scientists have responded by ________ (note) that hungry bears may be congregati
 
 英文释义
 ---
-1.*高义频：* **笔记本；笔记本电脑**  
+### 1.*高义频：* **笔记本；笔记本电脑**  
 
 
 # ***\*notepad*** n
@@ -2795,7 +2800,7 @@ Scientists have responded by ________ (note) that hungry bears may be congregati
 
 英文释义
 ---
-1.*高义频：* **便条本；记事本**  
+### 1.*高义频：* **便条本；记事本**  
 
 
 # ***\*nothing*** pron
@@ -2805,7 +2810,7 @@ Scientists have responded by ________ (note) that hungry bears may be congregati
 
 英文释义
 ---
-1.*高义频：* **没有东西；没有事情：**  
+### 1.*高义频：* **没有东西；没有事情：**  
 
  > **Nothing else**  
  > Nothing else matters to him apart from his job.  
@@ -2815,7 +2820,7 @@ Scientists have responded by ________ (note) that hungry bears may be congregati
  > 微笑不费分文，受者得益良多。  
  > 来源：2014 重庆  
 
-2.*高义频：* **微不足道的人 / 事物：**  
+### 2.*高义频：* **微不足道的人 / 事物：**  
 
  > **nothing to**  
  > She is nothing to me.  
@@ -2831,7 +2836,7 @@ Scientists have responded by ________ (note) that hungry bears may be congregati
 
 固定搭配
 ---
-- ## \*for nothing  **免费地 (free)；徒劳地：**  
+## \*for nothing  1.**免费地 (free)；徒劳地：**  
 
  > They repaired my bike for nothing.  
  > 他们免费为我修了自行车。  
@@ -2839,13 +2844,13 @@ Scientists have responded by ________ (note) that hungry bears may be congregati
  > When I arrived, he had left. I’d made the journey for nothing.  
  > 我到达时，他已经离开。我白跑了一趟。  
 
-- ## \*have nothing to do with  **和…无关：**  
+## \*have nothing to do with  1.**和…无关：**  
 
  > John’s success has nothing to do with good luck. It is years of hard work that has made him what he is today.  
  > 约翰的成功跟好运无关，而是多年的努力成就了如今的他。  
  > 来源：2010 湖南  
 
-- ## \*nothing but  **只有；仅仅：**  
+## \*nothing but  1.**只有；仅仅：**  
 
  > Sandy could do nothing but admit to his teacher that he was wrong.  
  > 山迪只能向老师承认自己错了。  
@@ -2853,12 +2858,12 @@ Scientists have responded by ________ (note) that hungry bears may be congregati
  > Don’t worry; it is nothing but a joke.  
  > 别担心，这只不过是个玩笑。  
 
-- ## \*nothing like  **完全不像；完全不：**  
+## \*nothing like  1.**完全不像；完全不：**  
 
  > It looks nothing like a horse.  
  > 它看上去根本不像一匹马。  
 
-- ## \*there’s nothing like  **什么都比不上…；…非常好：**  
+## \*there’s nothing like  1.**什么都比不上…；…非常好：**  
 
  > There’s nothing like an ice-cold drink on a hot day.  
  > 炎热的日子里，什么都比不上喝杯冰镇饮料。  
@@ -2895,7 +2900,7 @@ I got this bicycle ________ nothing: My friend gave it to me when she bought a n
 
 英文释义
 ---
-1.*高义频：* **微不足道的人 / 事物：**  
+### 1.*高义频：* **微不足道的人 / 事物：**  
 
  > **is nothing to**  
  > She is nothing to me.   
@@ -2911,7 +2916,7 @@ I got this bicycle ________ nothing: My friend gave it to me when she bought a n
 
 固定搭配
 ---
-- ## \*for nothing   **免费地；徒劳地：**  
+## \*for nothing   1.**免费地；徒劳地：**  
 
  > They repaired my bike for nothing.   
  > 他们免费为我修了自行车。  
@@ -2919,13 +2924,13 @@ I got this bicycle ________ nothing: My friend gave it to me when she bought a n
  > When I arrived, he had left. I’d made the journey for nothing.   
  > 我到达时，他已经离开。我白跑了一趟。  
 
-- ## \*have nothing to do with   **和…无关：**  
+## \*have nothing to do with   1.**和…无关：**  
 
  > John’s success has nothing to do with good luck. It is years of hard work that has made him what he is today.  
  > 约翰的成功跟好运无关，而是多年的努力成就了如今的他。  
  > 来源：2010 湖南  
 
-- ## \*nothing but / except   **除…以外什么也不；只有；只不过：**  
+## \*nothing but / except   1.**除…以外什么也不；只有；只不过：**  
 
  > I heard a confused noise around me, but could see nothing except the sky.   
  > 我隐约听到身边有模糊的噪音，但是除了天空什么也没看到。  
@@ -2937,12 +2942,12 @@ I got this bicycle ________ nothing: My friend gave it to me when she bought a n
  > Don’t worry; it is nothing but a joke.   
  > 别担心，这只不过是个玩笑。  
 
-- ## \*nothing like   **完全不像；完全不：**  
+## \*nothing like   1.**完全不像；完全不：**  
 
  > It looks nothing like a horse.   
  > 它看上去根本不像一匹马。  
 
-- ## \*there’s nothing like   **什么都比不上…；…非常好：**  
+## \*there’s nothing like   1.**什么都比不上…；…非常好：**  
 
  > There’s nothing like an ice-cold drink on a hot day.  
  > 炎热的日子里，什么都比不上喝杯冰镇饮料。  
@@ -2977,7 +2982,7 @@ I got this bicycle for _________: My friend gave it to me when she bought a new 
 
 英文释义
 ---
-1.*高义频：* **[U] 注意：**  
+### 1.*高义频：* **[U] 注意：**  
 
  > **brought,to my notice**  
  > It was Jenny who brought the problem to my notice.  
@@ -2991,13 +2996,13 @@ I got this bicycle for _________: My friend gave it to me when she bought a new 
  > The boss took no notice of the suggestion given by the clerk.  
  > 老板没理会员工提出的建议。  
 
-2.*高义频：* **[C] 布告 (牌)；通告：**  
+### 2.*高义频：* **[C] 布告 (牌)；通告：**  
 
  > A notice was put up in order to remind the students of the changed lecture time.  
  > 为了提醒学生们讲座时间有变动，张贴了一张通告。  
  > 来源：2009 陕西  
 
-3.*高义频：* **[U] 通知；预告：**  
+### 3.*高义频：* **[U] 通知；预告：**  
 
  > **at such short notice**  
  > Thanks for agreeing to see me at such short notice.  
@@ -3016,7 +3021,7 @@ I got this bicycle for _________: My friend gave it to me when she bought a new 
 
 英文释义
 ---
-1.*高义频：* **[通常不用于进行时] 察觉 (到)；注意 (到)：**  
+### 1.*高义频：* **[通常不用于进行时] 察觉 (到)；注意 (到)：**  
 
  > He must have been working too hard to notice!  
  > 他一定是工作得太投了入而没有注意到！  
@@ -3065,7 +3070,7 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 英文释义
 ---
-1.*高义频：* **(长篇) 小说**  
+### 1.*高义频：* **(长篇) 小说**  
 
 
 # ***\*novel*** adj
@@ -3075,7 +3080,7 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 英文释义
 ---
-1.**新奇的；异常的**  
+### 1.**新奇的；异常的**  
 
 
 # ***\*novelist*** n
@@ -3087,7 +3092,7 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 英文释义
 ---
-1.*高义频：* **小说家：**  
+### 1.*高义频：* **小说家：**  
 
  > Charles Dickens is one of England’s most famous novelists.   
  > 查尔斯·狄更斯是英国最著名的小说家之一。  
@@ -3101,7 +3106,7 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 英文释义
 ---
-1.*高义频：* **[表示时间段] 现在；目前：**  
+### 1.*高义频：* **[表示时间段] 现在；目前：**  
 
  > **by now**  
  > I suppose he has arrived in Beijing by now.  
@@ -3110,12 +3115,12 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
  > It is quite difficult now to find a person without a cell phone.   
  > 现在很难找到没有手机的人。  
 
-2.*高义频：* **[表示时间点] 立刻；马上：**  
+### 2.*高义频：* **[表示时间点] 立刻；马上：**  
 
  > Start writing now.   
  > 马上开始写吧。  
 
-3.*高义频：* **[表示话题转换]：**  
+### 3.*高义频：* **[表示话题转换]：**  
 
  > Now, open your books to page 15.   
  > 现在，打开书翻到15页。  
@@ -3123,7 +3128,7 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 固定搭配
 ---
-- ## \*(every) now and then / again   **时而；偶尔：**  
+## \*(every) now and then / again   1.**时而；偶尔：**  
 
  > Snakes come near the house now and then.   
  > 时不时会有蛇爬到房子附近。  
@@ -3132,19 +3137,19 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
  > Now and again he still visits me.   
  > 他偶尔还来看我。  
 
-- ## \*for now  **目前；暂时：**  
+## \*for now  1.**目前；暂时：**  
 
  > Although these measures are not effective forever, they are vital for now.  
  > 尽管这些措施不会永远有效，但目前还是极为重要的。  
  > 来源：2016 北京  
 
-- ## \*from now on  **从现在起：**  
+## \*from now on  1.**从现在起：**  
 
  > I’ll face everything unpleasant tolerantly from now on.  
  > 从现在开始，我将包容地面对所有不愉快的事情。  
  > 来源：2009 江西书面表达  
 
-- ## \*just now   **刚才；现在：**  
+## \*just now   1.**刚才；现在：**  
 
  > Tom was here just now.   
  > 汤姆刚才在这儿的。  
@@ -3152,7 +3157,7 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
  > Do not talk about it just now.   
  > 现在别讨论这件事。  
 
-- ## \*up to now / until now / till now  **迄今为止：**  
+## \*up to now / until now / till now  1.**迄今为止：**  
 
  > Up to / Until now, the program has saved thousands of children who would otherwise have died.  
  > 到目前为止，这项计划已经挽救了成千上万名原本会死亡的那些孩子。  
@@ -3168,7 +3173,7 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 英文释义
 ---
-1.*高义频：* **现在；此刻：**  
+### 1.*高义频：* **现在；此刻：**  
 
  > **for now**  
  > That’s all for now.   
@@ -3195,7 +3200,7 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 英文释义
 ---
-1.*高义频：* **[常用now that] 既然；由于：**  
+### 1.*高义频：* **[常用now that] 既然；由于：**  
 
  > Now (that) I’m well again, I can go on with my work.   
  > 我既然恢复了健康，就可以继续工作了。  
@@ -3212,7 +3217,7 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 英文释义
 ---
-1.*高义频：* **(与过去相比) 如今；现在：**  
+### 1.*高义频：* **(与过去相比) 如今；现在：**  
 
  > Nowadays people separate their waste to make it easier for it to be reused.   
  > 现在人们把垃圾分类，以便于废物再利用。  
@@ -3226,7 +3231,7 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 英文释义
 ---
-1.*高义频：* **(AmE) 决不； 一点儿也不**  
+### 1.*高义频：* **(AmE) 决不； 一点儿也不**  
 
 
 # ***\*nowhere*** adv
@@ -3236,7 +3241,7 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 英文释义
 ---
-1.*高义频：* **任何地方都不 (not anywhere)：**  
+### 1.*高义频：* **任何地方都不 (not anywhere)：**  
 
  > I’m going nowhere until you are back.   
  > 你回来之前我哪儿都不去。  
@@ -3244,12 +3249,12 @@ I looked up and noticed a snake ________ (wind) its way up the tree to catch its
 
 固定搭配
 ---
-- ## \*nowhere near   **离…差得远；远谈不上：**  
+## \*nowhere near   1.**离…差得远；远谈不上：**  
 
  > Our budget is nowhere near enough.   
  > 我们的预算远远不够。  
 
-- ## \*nowhere to be found / seen  **哪儿也找不到 / 看不到：**  
+## \*nowhere to be found / seen  1.**哪儿也找不到 / 看不到：**  
 
  > **nowhere to be found**  
  > I left my necklace on the table by the bed, but it is just nowhere to be found.  
@@ -3276,7 +3281,7 @@ D.near nowhere enough
 
 英文释义
 ---
-1.*高义频：* **核的；核能的；核心的：**  
+### 1.*高义频：* **核的；核能的；核心的：**  
 
  > **nuclear energy / weapons / fuel**  
  > nuclear energy / weapons / fuel   
@@ -3296,7 +3301,7 @@ D.near nowhere enough
 
 英文释义
 ---
-1.*高义频：* **(pl nuclei) 原子核；中心**  
+### 1.*高义频：* **(pl nuclei) 原子核；中心**  
 
 
 # ***\*nudge*** v
@@ -3306,7 +3311,7 @@ D.near nowhere enough
 
 英文释义
 ---
-1.**摊开**  
+### 1.**摊开**  
 
 
 # ***\*nudge*** n
@@ -3316,7 +3321,7 @@ D.near nowhere enough
 
 英文释义
 ---
-1.**（通常用肘）轻推**  
+### 1.**（通常用肘）轻推**  
 
 
 # ***\*nuisance*** n
@@ -3326,7 +3331,7 @@ D.near nowhere enough
 
 英文释义
 ---
-1.**令人讨厌的人或事**  
+### 1.**令人讨厌的人或事**  
 
 
 # ***\*numb*** adj
@@ -3336,7 +3341,7 @@ D.near nowhere enough
 
 英文释义
 ---
-1.*高义频：* **失去知觉的；麻木的：**  
+### 1.*高义频：* **失去知觉的；麻木的：**  
 
  > **numb with shock**  
  > I was numb with shock!  
@@ -3356,12 +3361,12 @@ D.near nowhere enough
 
 英文释义
 ---
-1.*高义频：* **数；数字：**  
+### 1.*高义频：* **数；数字：**  
 
  > an unknown number   
  > 未知数  
 
-2.*高义频：* **[略作No. / no.] 号码；编号；…号：**  
+### 2.*高义频：* **[略作No. / no.] 号码；编号；…号：**  
 
  > a telephone / flight number  
  > 电话号码 / 航班号  
@@ -3369,7 +3374,7 @@ D.near nowhere enough
  > My room is No. 6.  
  > 我的房间是6号。  
 
-3.*高义频：* **数目；数量：**  
+### 3.*高义频：* **数目；数量：**  
 
  > **in large / great numbers**  
  > Visitors came in large / great numbers.  
@@ -3393,7 +3398,7 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
 
 英文释义
 ---
-1.**数字命理学（以出生年月日及其他数字测定之学）**  
+### 1.**数字命理学（以出生年月日及其他数字测定之学）**  
 
 
 # ***\*numerous*** adj
@@ -3403,7 +3408,7 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
 
 英文释义
 ---
-1.*高义频：* **[正式用语] [修饰复数名词] 许多的 (many)：**  
+### 1.*高义频：* **[正式用语] [修饰复数名词] 许多的 (many)：**  
 
  > **too numerous to mention**  
  > The individuals who have contributed to this book are far too numerous to mention.   
@@ -3419,7 +3424,7 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
 
 英文释义
 ---
-1.*高义频：* **护士；保姆**  
+### 1.*高义频：* **护士；保姆**  
 
 
 # ***\*nursery*** n
@@ -3431,7 +3436,7 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
 
 英文释义
 ---
-1.*高义频：* **幼儿园；托儿所；保育室：**  
+### 1.*高义频：* **幼儿园；托儿所；保育室：**  
 
  > a nursery school  
  > 幼儿园  
@@ -3446,7 +3451,7 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
 
 英文释义
 ---
-1.*高义频：* **坚果；果仁**  
+### 1.*高义频：* **坚果；果仁**  
 
  > **a hard / tough nut to crack**  
  > a hard / tough nut to crack  
@@ -3462,7 +3467,7 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
 
 英文释义
 ---
-1.*高义频：* **营养；营养学：**  
+### 1.*高义频：* **营养；营养学：**  
 
  > **poor nutrition**  
  > poor nutrition  
@@ -3479,6 +3484,6 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
 
 英文释义
 ---
-1.**坚果壳；简单的一句话**  
+### 1.**坚果壳；简单的一句话**  
 
 

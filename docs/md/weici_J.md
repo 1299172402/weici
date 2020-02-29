@@ -9,7 +9,7 @@
 
 英文释义
 ---
-1.*高义频：* **短上衣；夹克**  
+### 1.*高义频：* **短上衣；夹克**  
 
 
 # ***\*jam*** n
@@ -19,7 +19,7 @@
 
 英文释义
 ---
-1.*高义频：* **[C] & [U] 果酱; [C] 堵塞**  
+### 1.*高义频：* **[C] & [U] 果酱; [C] 堵塞**  
 
  > **traffic jam**  
  > Have you ever been stuck in a traffic jam?  
@@ -36,7 +36,7 @@
 
 英文释义
 ---
-1.**罐子；坛子；一罐的量**  
+### 1.**罐子；坛子；一罐的量**  
 
 
 # ***\*jaw*** n
@@ -48,7 +48,7 @@
 
 英文释义
 ---
-1.*高义频：* **颌；颚**  
+### 1.*高义频：* **颌；颚**  
 
 
 # ***\*jazz*** n
@@ -60,7 +60,7 @@
 
 英文释义
 ---
-1.*高义频：* **爵士乐；爵士舞 (曲)**  
+### 1.*高义频：* **爵士乐；爵士舞 (曲)**  
 
 
 # ***\*jealous*** adj
@@ -70,7 +70,7 @@
 
 英文释义
 ---
-1.*高义频：* **嫉妒的；羡慕的：**  
+### 1.*高义频：* **嫉妒的；羡慕的：**  
 
  > **jealous of**  
  > I'm jealous of her success.  
@@ -86,7 +86,7 @@
 
 英文释义
 ---
-1.*高义频：* **牛仔裤； (牛仔) 工作服**  
+### 1.*高义频：* **牛仔裤； (牛仔) 工作服**  
 
 
 # ***\*jeep*** n
@@ -98,7 +98,7 @@
 
 英文释义
 ---
-1.*高义频：* **吉普车**  
+### 1.*高义频：* **吉普车**  
 
 
 # ***\*jelly*** n
@@ -110,7 +110,7 @@
 
 英文释义
 ---
-1.*高义频：* **果冻；(不含水果块的) 果酱**  
+### 1.*高义频：* **果冻；(不含水果块的) 果酱**  
 
 
 # ***\*jerk*** n
@@ -120,7 +120,7 @@
 
 英文释义
 ---
-1.**猛拉, 猛的一动**  
+### 1.**猛拉, 猛的一动**  
 
 
 # ***\*jet*** n
@@ -132,7 +132,7 @@
 
 英文释义
 ---
-1.*高义频：* **喷气式飞机：**  
+### 1.*高义频：* **喷气式飞机：**  
 
  > jet lag   
  > 飞行时差综合征；时差反应  
@@ -147,7 +147,7 @@
 
 英文释义
 ---
-1.**[C] 宝石； [常用复数] 宝石饰物；贵重饰物：**  
+### 1.**[C] 宝石； [常用复数] 宝石饰物；贵重饰物：**  
 
  > She loves wearing shining jewels.  
  > 她喜欢佩戴闪亮的珠宝首饰。  
@@ -162,7 +162,7 @@
 
 英文释义
 ---
-1.*高义频：* **珠宝；首饰：**  
+### 1.*高义频：* **珠宝；首饰：**  
 
  > a piece of jewellery  
  > 一件首饰  
@@ -177,7 +177,7 @@
 
 英文释义
 ---
-1.*高义频：* **珠宝；首饰：**  
+### 1.*高义频：* **珠宝；首饰：**  
 
 
 # ***\*job*** n
@@ -189,7 +189,7 @@
 
 英文释义
 ---
-1.*高义频：* **工作；职业：**  
+### 1.*高义频：* **工作；职业：**  
 
  > **apply for / quit a job**  
  > apply for / quit a job  
@@ -199,12 +199,12 @@
  > be out of a job   
  > 失业  
 
-2.*高义频：* **(单件) 工作；活儿 (task)：**  
+### 2.*高义频：* **(单件) 工作；活儿 (task)：**  
 
  > You do a good / bad job.   
  > 你干得好/不好。  
 
-3.*高义频：* **职责；任务：**  
+### 3.*高义频：* **职责；任务：**  
 
  > It's not my job.  
  > 这不是我的职责。  
@@ -221,7 +221,7 @@ jobless  /'dʒɒbləs/ adj
 
 英文释义
 ---
-1.*高义频：* **慢跑：**  
+### 1.*高义频：* **慢跑：**  
 
  > When I was young, my parents liked jogging on the beach.   
  > 我小时候，父母喜欢在海滩上慢跑。  
@@ -238,7 +238,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 英文释义
 ---
-1.**慢跑**  
+### 1.**慢跑**  
 
 
 # ***\*jogging*** n
@@ -248,7 +248,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 英文释义
 ---
-1.**慢跑**  
+### 1.**慢跑**  
 
 
 # ***\*join*** v
@@ -258,7 +258,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 英文释义
 ---
-1.*高义频：* **(使) 连接；(使) 汇合：**  
+### 1.*高义频：* **(使) 连接；(使) 汇合：**  
 
  > **joined to**  
  > The island, joined to the mainland by a bridge, is easy to go to.   
@@ -270,12 +270,12 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > 在国家危急关头，我们这代人曾携手合作，坚定不移。  
  > 来源：2016 北京  
 
-2.*高义频：* **加入 (组织)：**  
+### 2.*高义频：* **加入 (组织)：**  
 
  > join the army / the League   
  > 参军/入团  
 
-3.*高义频：* **参加 (活动等)；和…一起：**  
+### 3.*高义频：* **参加 (活动等)；和…一起：**  
 
  > Over 200 members of staff joined the strike.   
  > 有超过200名员工参与了罢工。  
@@ -297,14 +297,15 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 固定搭配
 ---
-- ## \*join in  **参加 (比赛、活动等)：**  
+## \*join in  1.**参加 (比赛、活动等)：**  
 
  > Be prepared to join in a class discussion.   
  > 做好准备加入课堂讨论。  
  > 来源：人教⑤ – 3  
 
-### 辨析 join, join in, take part in, attend
+#### 辨析 join, join in, take part in, attend
 四者都常译为“参加”。  
+
 
 # ***\*joint*** n
 英音 dʒɔɪnt     美音 dʒɔɪnt  
@@ -315,7 +316,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 英文释义
 ---
-1.*高义频：* **关节；接缝；接合处：**  
+### 1.*高义频：* **关节；接缝；接合处：**  
 
  > **ankle / knee joints**  
  > ankle / knee joints  
@@ -331,7 +332,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 英文释义
 ---
-1.*高义频：* **联合的；共同的：**  
+### 1.*高义频：* **联合的；共同的：**  
 
  > **joint efforts**  
  > The foreign minister calls for joint efforts to protect global free trade.  
@@ -345,7 +346,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 英文释义
 ---
-1.**把…...和……连接或联结起来**  
+### 1.**把…...和……连接或联结起来**  
 
  > Join one section of pipe to the next.  
  > 将一段管子与相邻的管子连接起来。  
@@ -360,7 +361,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 英文释义
 ---
-1.*高义频：* **笑话；玩笑：**  
+### 1.*高义频：* **笑话；玩笑：**  
 
  > **telling jokes**  
  > He has a habit of telling jokes.   
@@ -379,7 +380,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 英文释义
 ---
-1.*高义频：* **开玩笑：**  
+### 1.*高义频：* **开玩笑：**  
 
  > **You're joking**  
  > You're joking!  
@@ -392,7 +393,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 固定搭配
 ---
-- ## \*play a joke / jokes on   **戏弄；拿…开玩笑：**  
+## \*play a joke / jokes on   1.**戏弄；拿…开玩笑：**  
 
  > They decided to play a joke on their father by hiding his glasses.   
  > 他们决定把父亲的眼镜藏起来和他开个玩笑。  
@@ -415,12 +416,12 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 英文释义
 ---
-1.*高义频：* **日报；杂志；期刊：**  
+### 1.*高义频：* **日报；杂志；期刊：**  
 
  > a college / science journal  
  > 大学学报/科学杂志  
 
-2.*低义频：* **日志；日记：**  
+### 2.*低义频：* **日志；日记：**  
 
  > keep a journal   
  > 记日记  
@@ -433,7 +434,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 英文释义
 ---
-1.**新闻业，新闻工作**  
+### 1.**新闻业，新闻工作**  
 
 
 # ***\*journalist*** n
@@ -445,7 +446,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 英文释义
 ---
-1.*高义频：* **记者；新闻工作者**  
+### 1.*高义频：* **记者；新闻工作者**  
 
 
 # ***\*journey*** n
@@ -457,7 +458,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 英文释义
 ---
-1.*高义频：* **旅行；旅程；过程：**  
+### 1.*高义频：* **旅行；旅程；过程：**  
 
  > **set out on a journey**  
  > set out on a journey   
@@ -475,8 +476,9 @@ Everyone thought he was j________, but in fact he was completely serious.
  > 重要的是过程，而不是结果。  
  > 来源：2015 天津  
 
-### 辨析 voyage, journey, trip, tour
+#### 辨析 voyage, journey, trip, tour
 四者都含“旅行”之意，但具体含义不同。  
+
 
 # ***\*joust*** vi
 英音 dʒaʊst     美音 dʒaʊst  
@@ -485,7 +487,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 英文释义
 ---
-1.*高义频：* **(指中世纪骑士) 骑着马用长矛打斗**  
+### 1.*高义频：* **(指中世纪骑士) 骑着马用长矛打斗**  
 
 
 # ***\*joy*** n
@@ -495,7 +497,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 英文释义
 ---
-1.*高义频：* **欢乐；高兴：**  
+### 1.*高义频：* **欢乐；高兴：**  
 
  > **jumped for joy**  
  > I jumped for joy when I heard the good news.   
@@ -505,7 +507,7 @@ Everyone thought he was j________, but in fact he was completely serious.
  > To our joy we found him alive.   
  > 令我们欣喜的是，他还活着。  
 
-2.*低义频：* **乐事；乐趣：**  
+### 2.*低义频：* **乐事；乐趣：**  
 
  > our joys and sadnesses  
  > 我们的欢乐与悲伤  
@@ -523,7 +525,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 英文释义
 ---
-1.*高义频：* **法官；裁判员；鉴定人：**  
+### 1.*高义频：* **法官；裁判员；鉴定人：**  
 
  > The prisoner was taken before the judge.   
  > 犯人被带到法官面前。  
@@ -540,7 +542,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 英文释义
 ---
-1.*高义频：* **判断**  
+### 1.*高义频：* **判断**  
 英译 to form an opinion about sb / sth：
 
  > **Judging from**  
@@ -551,14 +553,14 @@ Everyone thought he was j________, but in fact he was completely serious.
  > Judging by his last letter, they are having a wonderful time.   
  > 从他上次的来信看，他们过得很不错。  
 
-2.*高义频：* **估计**  
+### 2.*高义频：* **估计**  
 英译 to guess the size, amount, etc. of sth：
 
  > **judge how**  
  > It's difficult to judge how long the journey will take.  
  > 很难估计这段旅程要花多长时间。  
 
-3.*高义频：* **评价**  
+### 3.*高义频：* **评价**  
 英译 to be critical about sb, to decide whether sb is good or bad：
 
  > I've learnt a good lesson: not to judge people.  
@@ -568,12 +570,12 @@ Everyone thought he was j________, but in fact he was completely serious.
  > I'm in no position to judge whether what she is doing is right or wrong.  
  > 我无权评价她正在做的事是对还是错。  
 
-4.*高义频：* **裁判；评判：**  
+### 4.*高义频：* **裁判；评判：**  
 
  > She was asked to judge the English speech competition.  
  > 她应邀担任英语演讲比赛的裁判。  
 
-5.*低义频：* **审判；判决：**  
+### 5.*低义频：* **审判；判决：**  
 
  > judge a case / judge sb guilty   
  > 判案/判某人有罪  
@@ -586,13 +588,13 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 英文释义
 ---
-1.*高义频：* **判断 (力)；辨别力**  
+### 1.*高义频：* **判断 (力)；辨别力**  
 英译 the ability to form opinions or to make sensible decisions：
 
  > He showed excellent judgement in choosing a friend.   
  > 他在择友方面表现出了敏锐的判断力。  
 
-2.*高义频：* **意见；看法；评价**  
+### 2.*高义频：* **意见；看法；评价**  
 英译 an opinion that you form after thinking carefully：
 
  > **make a judgement on / about**  
@@ -603,7 +605,7 @@ Everyone thought he was j________, but in fact he was completely serious.
  > In her judgment, it was a wrong thing to give children so much pocket money.   
  > 在她看来，给孩子们这么多零花钱是不对的。  
 
-3.*低义频：* **审判**  
+### 3.*低义频：* **审判**  
 
 
 # ***\*judgment*** n
@@ -613,13 +615,13 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 英文释义
 ---
-1.*高义频：* **判断 (力)；辨别力**  
+### 1.*高义频：* **判断 (力)；辨别力**  
 英译 the ability to form opinions or to make sensible decisions：
 
  > He showed excellent judgement in choosing a friend.  
  > 他在择友方面表现出了敏锐的判断力。  
 
-2.*高义频：* **意见；看法；评价**  
+### 2.*高义频：* **意见；看法；评价**  
 英译 an opinion that you form after thinking carefully：
 
  > **make a judgement on / about**  
@@ -630,7 +632,7 @@ Everyone thought he was j________, but in fact he was completely serious.
  > In her judgment, it was a wrong thing to give children so much pocket money.   
  > 在她看来，给孩子们这么多零花钱是不对的。  
 
-3.*低义频：* **审判**  
+### 3.*低义频：* **审判**  
 
 
 # ***\*juice*** n
@@ -642,7 +644,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 英文释义
 ---
-1.*高义频：* **(水果、蔬菜、肉类等的) 汁、液**  
+### 1.*高义频：* **(水果、蔬菜、肉类等的) 汁、液**  
 
 
 # ***\*jump*** v
@@ -652,7 +654,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 英文释义
 ---
-1.*高义频：* **vi 跳；跳跃；快速移动：**  
+### 1.*高义频：* **vi 跳；跳跃；快速移动：**  
 
  > **jumped onto**  
  > The cat jumped onto her bed.  
@@ -661,12 +663,12 @@ Everyone thought he was j________, but in fact he was completely serious.
  > His heart jumped at the news.  
  > 听到这个消息他心里咯噔了一下。  
 
-2.*高义频：* **vt 跳过：**  
+### 2.*高义频：* **vt 跳过：**  
 
  > How can you jump those hurdles?  
  > 你如何才能跳过那些跨栏？  
 
-3.*高义频：* **vi (话题等) 突然转换：**  
+### 3.*高义频：* **vi (话题等) 突然转换：**  
 
  > **jump from,to**  
  > jump from one subject to another  
@@ -675,7 +677,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 固定搭配
 ---
-- ## \*jump at sth  **迫不及待地接受某事物；欣然接受某事物**  
+## \*jump at sth  1.**迫不及待地接受某事物；欣然接受某事物**  
 
 
 # ***\*jump*** n
@@ -687,7 +689,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 英文释义
 ---
-1.*高义频：* **跳；越：**  
+### 1.*高义频：* **跳；越：**  
 
  > **do / make a jump**  
  > do / make a jump into the ocean  
@@ -705,7 +707,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 英文释义
 ---
-1.*高义频：* **跳过：**  
+### 1.*高义频：* **跳过：**  
 
  > How can you jump those hurdles?  
  > 你如何才能跳过那些跨栏？  
@@ -720,7 +722,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 英文释义
 ---
-1.*高义频：* **连接点；汇合处； 交叉口：**  
+### 1.*高义频：* **连接点；汇合处； 交叉口：**  
 
  > the T-junction   
  > 丁字路口  
@@ -735,7 +737,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 英文释义
 ---
-1.*高义频：* **丛林；密林**  
+### 1.*高义频：* **丛林；密林**  
 
 
 # ***\*junior*** adj
@@ -745,7 +747,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 英文释义
 ---
-1.*高义频：* **青少年的；初级的 【反 senior】；(高中 / 四年制大学) 三年级 (学生) 的：**  
+### 1.*高义频：* **青少年的；初级的 【反 senior】；(高中 / 四年制大学) 三年级 (学生) 的：**  
 
  > **junior school**  
  > a junior school   
@@ -765,7 +767,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 英文释义
 ---
-1.*高义频：* **青少年；职位较低者；(高中 / 四年制大学中)三年级学生**  
+### 1.*高义频：* **青少年；职位较低者；(高中 / 四年制大学中)三年级学生**  
 
 
 # ***\*just*** adv
@@ -775,7 +777,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 英文释义
 ---
-1.*高义频：* **正好；恰好 (exactly)：**  
+### 1.*高义频：* **正好；恰好 (exactly)：**  
 
  > **just then**  
  > just then / just at that time   
@@ -794,7 +796,7 @@ Everyone thought he was j________, but in fact he was completely serious.
  > 你只好接受这些事情，继续你的生活。  
  > 来源：2008 山东  
 
-2.*高义频：* **刚刚；刚才：**  
+### 2.*高义频：* **刚刚；刚才：**  
 
  > — Where is Eric?   
  > 艾瑞克在哪儿？  
@@ -802,7 +804,7 @@ Everyone thought he was j________, but in fact he was completely serious.
  > — He has just gone / just went out.  
  > 他刚刚出去/刚才出去了。  
 
-3.*高义频：* **只是；仅仅 (only / simply)：**  
+### 3.*高义频：* **只是；仅仅 (only / simply)：**  
 
  > **just a minute / moment / second**  
  > just a minute / moment / second   
@@ -816,12 +818,12 @@ Everyone thought he was j________, but in fact he was completely serious.
  > Just because a subject is difficult to learn, it does not mean you are not good at it.  
  > 不要因为某一科目难学，就认为你学不好。  
 
-4.*低义频：* **非常；真正：**  
+### 4.*低义频：* **非常；真正：**  
 
  > The chocolate is just wonderful.   
  > 巧克力非常好吃。  
 
-5.*低义频：* **请；尽管：**  
+### 5.*低义频：* **请；尽管：**  
 
  > Anytime you want me, just send for me.   
  > 无论什么时候需要，只管派人来叫我。  
@@ -829,7 +831,7 @@ Everyone thought he was j________, but in fact he was completely serious.
 
 固定搭配
 ---
-- ## \*just about   **几乎；差不多：**  
+## \*just about   1.**几乎；差不多：**  
 
  > Some people will do just about anything to save money.  
  > 为了省钱，有的人几乎愿意做任何事情。  
@@ -861,7 +863,7 @@ D.just
 
 英文释义
 ---
-1.*高义频：* **公正的；正直的；正义的 (fair)：**  
+### 1.*高义频：* **公正的；正直的；正义的 (fair)：**  
 
  > a just man  
  > 正直的人  
@@ -876,7 +878,7 @@ D.just
 
 英文释义
 ---
-1.*高义频：* **正义；公正；公道 ：**  
+### 1.*高义频：* **正义；公正；公道 ：**  
 反义词 injustice 
 
  > a strong sense of justice   
@@ -885,7 +887,7 @@ D.just
  > treat sb with justice   
  > 公平对待某人  
 
-2.*高义频：* **法律制裁；司法：**  
+### 2.*高义频：* **法律制裁；司法：**  
 
  > Justice has long arms.   
  > 天网恢恢，疏而不漏。  
@@ -898,7 +900,7 @@ D.just
 
 英文释义
 ---
-1.**有正当理由地**  
+### 1.**有正当理由地**  
 
 
 # ***\*justify*** vt
@@ -908,7 +910,7 @@ D.just
 
 英文释义
 ---
-1.*高义频：* **证明...正当 / 有理；为...辩护；对...作出解释：**  
+### 1.*高义频：* **证明...正当 / 有理；为...辩护；对...作出解释：**  
 
  > How can we justify spending so much money on dinner?   
  > 我们怎么解释花这么多钱吃饭呢？  

@@ -77,16 +77,16 @@ def gy_notes(t): #16597
             gy_sentential_form(form)
             
 def gy_biscrimination(t): #16597
-    print('### 辨析 '+t['words'],file=f)
+    print('#### 辨析 '+t['words'],file=f)
     print(t['paraphrase']+'  ',file=f)
+    print(file=f)
     if t['gy_example']!=[]:
         for example in t['gy_example']:
             gy_example(example)
     
 def gy_fixed_collocation(t): #26462
-    print('- ## \*'+t['fixed_word'],end='  ',file=f)
-    if len(t['gy_paraphrase']) == 1 : gy_paraphrase(t['gy_paraphrase'][0])
-    if len(t['gy_paraphrase']) > 1:
+    print('## \*'+t['fixed_word'],end='  ',file=f)
+    if len(t['gy_paraphrase']) >= 1:
         i=1
         for exam in t['gy_paraphrase']:
             print(str(i) + '.',end='',file=f)
@@ -159,7 +159,7 @@ def chuli(t):
         print('---',file=f)
         i=1
         for exam in a['gy_paraphrase']:
-            print(str(i) + '.',end='',file=f)
+            print('### '+str(i) + '.',end='',file=f)
             gy_paraphrase(exam)    
             i=i+1
         print(file=f)

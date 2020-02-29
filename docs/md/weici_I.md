@@ -7,7 +7,7 @@
 
 英文释义
 ---
-1.*高义频：* **即；也就是**  
+### 1.*高义频：* **即；也就是**  
 
 
 # ***\*ibis*** n
@@ -17,7 +17,7 @@
 
 英文释义
 ---
-1.**鹮**  
+### 1.**鹮**  
 
 
 # ***\*ice*** n
@@ -29,7 +29,7 @@
 
 英文释义
 ---
-1.*高义频：* **冰；冰块：**  
+### 1.*高义频：* **冰；冰块：**  
 
  > a block of ice  
  > 一块冰  
@@ -47,7 +47,7 @@
 
 英文释义
 ---
-1.*高义频：* **冰淇淋**  
+### 1.*高义频：* **冰淇淋**  
 
 
 # ***\*iceberg*** n
@@ -59,7 +59,7 @@
 
 英文释义
 ---
-1.*高义频：* **冰山**  
+### 1.*高义频：* **冰山**  
 
 
 # ***\*idea*** n  重难点词汇
@@ -69,7 +69,7 @@
 
 英文释义
 ---
-1.*高义频：* **想法；主意：**  
+### 1.*高义频：* **想法；主意：**  
 
  > have / get an idea   
  > 有/想到一个主意  
@@ -89,21 +89,21 @@
  > 来源：2008 广东  
 
 Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。  
-2.*高义频：* **大致的了解**  
+### 2.*高义频：* **大致的了解**  
 英译 a general understanding of sth：
 
  > **have no idea**  
  > I have no idea what he's talking about.  
  > 我完全不明白他在说什么。  
 
-3.*高义频：* **[常用复数] 意见；见解**  
+### 3.*高义频：* **[常用复数] 意见；见解**  
 英译 sb's opinion or belief of sth：
 
  > **ideas about**  
  > I don't agree with his ideas about education.  
  > 我不同意他对教育的看法。  
 
-4.*高义频：* **目的；意图**  
+### 4.*高义频：* **目的；意图**  
 英译 the aim or purpose of sth：
 
  > **The idea behind / of**  
@@ -114,13 +114,13 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
  > He's saving money with the idea of buying an original novel.  
  > 他正在攒钱想买本原版小说。  
 
-5.*高义频：* **感受；印象：**  
+### 5.*高义频：* **感受；印象：**  
 
  > **have an idea (that)**  
  > I have an idea (that) I've seen her somewhere before.  
  > 我有印象好像在哪儿见过她。  
 
-6.*高义频：* **思想；观念：**  
+### 6.*高义频：* **思想；观念：**  
 
  > Besides the words people speak, learning a foreign language includes their body language, dress, manners, ideas and so on.  
  > 学习外语除了学习外国人讲的语言，还包括身势语、穿着、礼仪和思想观念等。  
@@ -148,7 +148,7 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
 
 英文释义
 ---
-1.*高义频：* **理想的；完美的：**  
+### 1.*高义频：* **理想的；完美的：**  
 
  > Ideal study times are after dinner or right after school before dinner.   
  > 理想的学习时间是晚餐后，或放学后晚餐前。  
@@ -164,7 +164,7 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
 
 英文释义
 ---
-1.*高义频：* **理想；想象中的人 / 事物：**  
+### 1.*高义频：* **理想；想象中的人 / 事物：**  
 
  > Ideals are like the stars — we never reach them, but like sailors, we chart our course by them.  
  > 理想犹如天上的星星，我们虽不能触及，却可以像水手一样靠它们调整航向。  
@@ -177,7 +177,7 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
 
 英文释义
 ---
-1.*高义频：* **同一的；完全相同的**  
+### 1.*高义频：* **同一的；完全相同的**  
 
 
 # ***\*identification*** n
@@ -187,7 +187,7 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
 
 英文释义
 ---
-1.*低义频：* **识别；鉴定；确认**  
+### 1.*低义频：* **识别；鉴定；确认**  
 英译 when you recognize sth or discover exactly what it is：
 
  > **identification number**  
@@ -198,7 +198,7 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
  > 战斗中，每个队长都需要一面旗子或一种颜色，容易看到，易于识别。  
  > 来源：译林⑨ – 3  
 
-2.*高义频：* **[缩写为ID] 身份证明 (文件) ：**  
+### 2.*高义频：* **[缩写为ID] 身份证明 (文件) ：**  
 
  > We are all asked to show some identification — an identity card or a passport — before boarding the plane.   
  > 登机前，我们都需要出示身份证明，如身份证或护照。  
@@ -211,7 +211,7 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
 
 英文释义
 ---
-1.*高义频：* **认出；识别**  
+### 1.*高义频：* **认出；识别**  
 英译 to recognize and correctly name sb / sth：
 
  > He was too far away to be able to identify faces.   
@@ -221,7 +221,7 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
  > One of the 17 people killed in the school shooting was identified as Jamie.  
  > 在学校枪击案中遇害的17人中有一人被认出是杰米。  
 
-2.*高义频：* **确认；找出**  
+### 2.*高义频：* **确认；找出**  
 英译 to find or discover sb / sth：
 
  > Scientists have identified a link between diet and cancer.   
@@ -231,7 +231,7 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
  > 要想有效果，你需要明确自己的优势并专注在这些方面。  
  > 来源：2009 浙江  
 
-3.*低义频：* **表明...的身份**  
+### 3.*低义频：* **表明...的身份**  
 英译  to be a sign that shows who or what sb / sth is：
 
  > **identified him as**  
@@ -241,13 +241,13 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
 
 固定搭配
 ---
-- ## \*identify sb / sth with sth  **认为某人 / 某物等同于某物：**  
+## \*identify sb / sth with sth  1.**认为某人 / 某物等同于某物：**  
 
  > **identify with**  
  > You should not identify wealth with happiness.  
  > 你不应该把财富与幸福等同起来。  
 
-- ## \*identify with sb / sth  **认同某人 / 某物；与某人 / 某物有同感：**  
+## \*identify with sb / sth  1.**认同某人 / 某物；与某人 / 某物有同感：**  
 
  > I didn't enjoy the book because I couldn' identify with any of the main characters.  
  > 我不喜欢这本书，因为我无法与其中任何一个主角产生共鸣。  
@@ -260,7 +260,7 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
 
 英文释义
 ---
-1.*高义频：* **身份：**  
+### 1.*高义频：* **身份：**  
 
  > an identity card (ID card)  
  > 身份证  
@@ -268,7 +268,7 @@ Notes: 不说the idea to do sth，但可以说it is an / one's idea to do sth。
  > Only when your identity has been checked, will you be allowed in.   
  > 只有确认身份后才允许你进入。  
 
-2.*高义频：* **(区别人或群体的) 个性 / 特征：**  
+### 2.*高义频：* **(区别人或群体的) 个性 / 特征：**  
 
  > After years of performing, he felt that in some ways he had lost his identity.   
  > 多年演奏之后，他觉得自己在某些方面失去了个性。  
@@ -294,7 +294,7 @@ He gave himself a new name to hide his ________ (身份) when he went to carry o
 
 英文释义
 ---
-1.*高义频：* **[C] 习语；成语**  
+### 1.*高义频：* **[C] 习语；成语**  
 
 
 # ***\*idiomatic*** adj
@@ -304,7 +304,7 @@ He gave himself a new name to hide his ________ (身份) when he went to carry o
 
 英文释义
 ---
-1.*高义频：* **惯用的；合乎语言习惯的**  
+### 1.*高义频：* **惯用的；合乎语言习惯的**  
 
 
 # ***\*if*** conj
@@ -314,13 +314,13 @@ He gave himself a new name to hide his ________ (身份) when he went to carry o
 
 英文释义
 ---
-1.*高义频：* **如果：**  
+### 1.*高义频：* **如果：**  
 
  > If you lose something on a bus or train or in a station, please call Lost & Found at 202-962-1195.  
  > 如果你在公共汽车上、火车上或是车站丢失了什么东西，请拨打失物招领处电话202-962-1195。  
  > 来源：2014 全国  
 
-2.*高义频：* **假如；万一：**  
+### 2.*高义频：* **假如；万一：**  
 
  > **If I were you**  
  > If I were you, I’d study finance.   
@@ -331,12 +331,12 @@ He gave himself a new name to hide his ________ (身份) when he went to carry o
  > 如果那时没带伞，我们全身就会湿透了。  
  > 来源：2013 重庆改  
 
-3.*高义频：* **是否：**  
+### 3.*高义频：* **是否：**  
 
  > Let me see if I can help you.  
  > 我看看能否帮助你。  
 
-4.*低义频：* **即使；虽然；尽管：**  
+### 4.*低义频：* **即使；虽然；尽管：**  
 
  > Brian rarely, if ever, goes to bed before 11:00 p.m.  
  > 布莱恩难得在晚上11点之前睡觉。  
@@ -344,7 +344,7 @@ He gave himself a new name to hide his ________ (身份) when he went to carry o
 
 固定搭配
 ---
-- ## \*if so   **如果是这样的话：**  
+## \*if so   1.**如果是这样的话：**  
 
  > Have you ever been here? And if so how many times?   
  > 你来过这儿吗？如果来过，来过几次呢？  
@@ -391,7 +391,7 @@ At fi rst he hated the new job but decided to give himself a few months to see _
 
 英文释义
 ---
-1.*高义频：* **无知；愚昧； 不知：**  
+### 1.*高义频：* **无知；愚昧； 不知：**  
 
  > Excuse my ignorance, but how does this machine work?  
  > 请原谅我的无知，但请问这台机器是怎么工作的？  
@@ -404,7 +404,7 @@ At fi rst he hated the new job but decided to give himself a few months to see _
 
 英文释义
 ---
-1.*高义频：* **无知的；愚昧的：**  
+### 1.*高义频：* **无知的；愚昧的：**  
 
  > **ignorant about / of**  
  > He's ignorant about / of the danger of too much sun.  
@@ -418,7 +418,7 @@ At fi rst he hated the new job but decided to give himself a few months to see _
 
 英文释义
 ---
-1.*高义频：* **(故意) 不理会；忽视：**  
+### 1.*高义频：* **(故意) 不理会；忽视：**  
 
  > ignore sb's advice  
  > 无视某人的忠告  
@@ -449,7 +449,7 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
 
 英文释义
 ---
-1.*高义频：* **生病的 (AmE sick)：**  
+### 1.*高义频：* **生病的 (AmE sick)：**  
 
  > **seriously,ill**  
  > extremely / seriously / severely ill  
@@ -459,9 +459,10 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
  > I'm afraid he may have fallen ill.  
  > 恐怕他已经病倒了。  
 
-### 辨析 ill, sick
+#### 辨析 ill, sick
 二者均含 “生病的”之意。  
-2.*高义频：* **坏的；有害的：**  
+
+### 2.*高义频：* **坏的；有害的：**  
 
  > Ill news flies fast.   
  > 坏事传千里。  
@@ -476,7 +477,7 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
 
 英文释义
 ---
-1.*高义频：* **坏；不利地：**  
+### 1.*高义频：* **坏；不利地：**  
 
  > **think ill of sb**  
  > think ill of sb  
@@ -493,7 +494,7 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
 
 英文释义
 ---
-1.*高义频：* **不合法的；违法的：**  
+### 1.*高义频：* **不合法的；违法的：**  
 反义词 legal 
 
  > Wild camping is illegal in England.  
@@ -516,7 +517,7 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
 
 英文释义
 ---
-1.**不合法地；违法地**  
+### 1.**不合法地；违法地**  
 
 
 # ***\*illness*** n
@@ -528,7 +529,7 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
 
 英文释义
 ---
-1.*高义频：* **疾病 (sickness)：**  
+### 1.*高义频：* **疾病 (sickness)：**  
 
  > **suffer from a serious illness**  
  > suffer from a serious illness  
@@ -552,7 +553,7 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
 
 英文释义
 ---
-1.**照明, 照亮**  
+### 1.**照明, 照亮**  
 
 
 # ***\*illustrate*** vt
@@ -562,7 +563,7 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
 
 英文释义
 ---
-1.*高义频：* **给…作插图：**  
+### 1.*高义频：* **给…作插图：**  
 
  > an illustrated textbook  
  > 有插图的课本  
@@ -570,7 +571,7 @@ Last week a tennis ball hit me on the head, but I tried to ________ (忽视) the
  > Over a hundred pictures and photos illustrate the book.  
  > 这本书有一百多幅插图和照片。  
 
-2.*高义频：* **(用示例、图画等) 说明；解释：**  
+### 2.*高义频：* **(用示例、图画等) 说明；解释：**  
 
  > **To illustrate my point**  
  > To illustrate my point, let me tell you a little story.  
@@ -591,7 +592,7 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **影像；图像；形象；印象：**  
+### 1.*高义频：* **影像；图像；形象；印象：**  
 
  > He saw the image of his face in the mirror.  
  > 他在镜子里看到了自己的脸。  
@@ -613,7 +614,7 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **想象中的；假想的；虚构的**  
+### 1.*高义频：* **想象中的；假想的；虚构的**  
 
 
 # ***\*imagination*** n
@@ -623,7 +624,7 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **想象；想象力：**  
+### 1.*高义频：* **想象；想象力：**  
 
  > **creative / vivid imagination**  
  > a creative / vivid imagination  
@@ -639,7 +640,7 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
  > 想象力比知识更重要。  
  > 来源： ——爱因斯坦  
 
-2.*高义频：* **想像出来的事物；幻想：**  
+### 2.*高义频：* **想像出来的事物；幻想：**  
 
  > You didn't really see anything — it was only imagination.  
  > 实际上你什么也没有看见，那只不过是幻觉而已。  
@@ -652,7 +653,7 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **富于想象力的**  
+### 1.*高义频：* **富于想象力的**  
 
 
 # ***\*imagine*** vt  重难点词汇
@@ -662,7 +663,7 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **想象；设想：**  
+### 1.*高义频：* **想象；设想：**  
 
  > Can you imagine life without electricity?   
  > 你能想象没有电的生活会是什么样子吗?  
@@ -689,7 +690,7 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
  > I had imagined her to be older than me.  
  > 我本以为她的年龄比我大。  
 
-2.*高义频：* **胡思乱想；误以为：**  
+### 2.*高义频：* **胡思乱想；误以为：**  
 
  > — Did you hear a noise?  
  > 你听见什么声音了吗？  
@@ -701,7 +702,7 @@ illustrator /'ɪləstreɪtə(r)/ n [C]
  > I've never heard her criticize you — I think you imagine it.  
  > 我从没听说过她批评你，我想你是乱猜的吧。  
 
-3.*高义频：* **料想；认为 (suppose)：**  
+### 3.*高义频：* **料想；认为 (suppose)：**  
 
  > I imagine (that) you'll be on vacation by that time.  
  > 我料想到那时你将在度假。  
@@ -742,7 +743,7 @@ It is difficult to imagine his ________ (accept) the decision without any consid
 
 英文释义
 ---
-1.*高义频：* **模仿；仿效：**  
+### 1.*高义频：* **模仿；仿效：**  
 
  > Don't imitate others. Just be yourself.  
  > 不要模仿他人，做你自己。  
@@ -760,7 +761,7 @@ imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
 
 英文释义
 ---
-1.**模仿**  
+### 1.**模仿**  
 
 
 # ***\*immediate*** adj
@@ -770,7 +771,7 @@ imitation /ˌɪmɪ'teɪʃn/ n [C] & [U]
 
 英文释义
 ---
-1.*高义频：* **立即的；[只用于名词前] 当前的： Without immediate medical**  
+### 1.*高义频：* **立即的；[只用于名词前] 当前的： Without immediate medical**  
 
  > Without immediate medical care, Paris would die.  
  > 如果不马上医治，帕里斯就会死。  
@@ -801,7 +802,7 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 
 英文释义
 ---
-1.*高义频：* **立即；马上：(at once)**  
+### 1.*高义频：* **立即；马上：(at once)**  
 
  > When facing a hard question, most people can’t give an answer immediately.   
  > 面对棘手的问题，大多数人不能立即给出答案。  
@@ -815,7 +816,7 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 
 英文释义
 ---
-1.*高义频：* **一...就... (as soon as)：**  
+### 1.*高义频：* **一...就... (as soon as)：**  
 
  > I left immediately the clock struck 12.  
  > 12点的钟声一响我就离开了。  
@@ -828,7 +829,7 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 
 英文释义
 ---
-1.**极大的**  
+### 1.**极大的**  
 
 
 # ***\*immigrant*** n
@@ -840,7 +841,7 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 
 英文释义
 ---
-1.*高义频：* **(外来) 移民**  
+### 1.*高义频：* **(外来) 移民**  
 
 
 # ***\*immigrant*** adj
@@ -850,7 +851,7 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 
 英文释义
 ---
-1.**移民的；移居的**  
+### 1.**移民的；移居的**  
 
 
 # ***\*immigrate*** vi
@@ -860,7 +861,7 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 
 英文释义
 ---
-1.*高义频：* **(从外国) 移入；作为移民定居：**  
+### 1.*高义频：* **(从外国) 移入；作为移民定居：**  
 
  > immigrate into a country  
  > 移居某一国家  
@@ -875,7 +876,7 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 
 英文释义
 ---
-1.*高义频：* **移民；移民局：**  
+### 1.*高义频：* **移民；移民局：**  
 
  > There are strict limits on immigration into this country.  
  > 移民到这个国家有很严格的限制。  
@@ -892,7 +893,7 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 
 英文释义
 ---
-1.**有免疫力的**  
+### 1.**有免疫力的**  
 
 
 # ***\*impact*** n
@@ -904,12 +905,12 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 
 英文释义
 ---
-1.*高义频：* **撞击 (力)；冲击 (力)：**  
+### 1.*高义频：* **撞击 (力)；冲击 (力)：**  
 
  > The car hit the stone wall with great impact.  
  > 汽车猛烈地撞在石墙上。  
 
-2.*高义频：* **影响；作用**  
+### 2.*高义频：* **影响；作用**  
 英译 a powerful effect or influence：
 
  > **had a,impact on**  
@@ -925,7 +926,7 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 
 英文释义
 ---
-1.**削弱；损伤**  
+### 1.**削弱；损伤**  
 
 
 # ***\*imperative*** n
@@ -935,7 +936,7 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 
 英文释义
 ---
-1.**祈使语气；命令**  
+### 1.**祈使语气；命令**  
 
 
 # ***\*imperial*** adj
@@ -945,7 +946,7 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 
 英文释义
 ---
-1.**皇帝的，皇家的**  
+### 1.**皇帝的，皇家的**  
 
 
 # ***\*imply*** vt
@@ -955,12 +956,12 @@ If I find someone who looks like the suspect, my ________ (立即的) reaction w
 
 英文释义
 ---
-1.*高义频：* **含有…的意思；暗示；暗指：**  
+### 1.*高义频：* **含有…的意思；暗示；暗指：**  
 
  > Are you implying that I'm lying?  
  > 你是暗指我在撒谎吗？  
 
-2.*低义频：* **说明；表明 (suggest)：**  
+### 2.*低义频：* **说明；表明 (suggest)：**  
 
  > The teacher's smile implied that she had forgiven me.  
  > 老师的微笑表明她已经原谅了我。  
@@ -977,7 +978,7 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
 
 英文释义
 ---
-1.**不礼貌的**  
+### 1.**不礼貌的**  
 
 
 # ***\*import*** vt
@@ -987,7 +988,7 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
 
 英文释义
 ---
-1.*高义频：* **进口；输入；引进：**  
+### 1.*高义频：* **进口；输入；引进：**  
 
  > **imports,from**  
  > China imports sugar from Cuba.   
@@ -1001,7 +1002,7 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
 
 英文释义
 ---
-1.*高义频：* **[C] 进口物品；[U] 进口；输入：**  
+### 1.*高义频：* **[C] 进口物品；[U] 进口；输入：**  
 
  > **Imports from**  
  > Imports from Africa included coffee, cocoa and olive oil.  
@@ -1017,7 +1018,7 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
 
 英文释义
 ---
-1.*高义频：* **重要 (性)；重大：**  
+### 1.*高义频：* **重要 (性)；重大：**  
 
  > **attach importance to**  
  > attach importance to  
@@ -1039,7 +1040,7 @@ implication /ˌɪmplɪ'keɪʃn/ n  [C] & [U]
 
 英文释义
 ---
-1.*高义频：* **重要的；重大的；(人) 有影响力的**  
+### 1.*高义频：* **重要的；重大的；(人) 有影响力的**  
 反义词 unimportant 
 
  > **important to**  
@@ -1064,7 +1065,7 @@ importantly /ɪm'pɔːtntli/ adv [句子副词]
 
 英文释义
 ---
-1.*高义频：* **强制实行；强加于**  
+### 1.*高义频：* **强制实行；强加于**  
 
 
 # ***\*impossible*** adj
@@ -1074,7 +1075,7 @@ importantly /ɪm'pɔːtntli/ adv [句子副词]
 
 英文释义
 ---
-1.*高义频：* **不可能的：**  
+### 1.*高义频：* **不可能的：**  
 反义词 possible 
 
  > Nothing is impossible.  
@@ -1104,9 +1105,9 @@ I consider it ________ (不可能) to believe a single word you say.
 
 英文释义
 ---
-1.*低义频：* **印；盖 (印) 于**  
+### 1.*低义频：* **印；盖 (印) 于**  
 
-2.*高义频：* **给...留下极深的印象；使钦佩：**  
+### 2.*高义频：* **给...留下极深的印象；使钦佩：**  
 英译 to make sb feel admiration and respect
 
  > **It impressed me that**  
@@ -1118,7 +1119,7 @@ I consider it ________ (不可能) to believe a single word you say.
  > One candidate in particular impressed us with her knowledge.  
  > 尤其有一位候选人，她的学识给我们留下了深刻的印象。  
 
-3.*低义频：* **[正式用语] 使意识到**  
+### 3.*低义频：* **[正式用语] 使意识到**  
 英译 to try to make sb understand how important sth is：
 
  > impress sth on sb's mind  
@@ -1138,9 +1139,9 @@ I consider it ________ (不可能) to believe a single word you say.
 
 英文释义
 ---
-1.*低义频：* **印记；压痕**  
+### 1.*低义频：* **印记；压痕**  
 
-2.*高义频：* **印象；感觉：**  
+### 2.*高义频：* **印象；感觉：**  
 
  > **left / made,impression on, left me with,impression_2**  
  > He left / made a deep impression on me. / He left me with a deep impression.  
@@ -1177,7 +1178,7 @@ My ________ (第一印象) of him was that he was a kind and thoughtful young ma
 
 英文释义
 ---
-1.**印象主义；印象派**  
+### 1.**印象主义；印象派**  
 
 
 # ***\*impressionist*** adj
@@ -1187,7 +1188,7 @@ My ________ (第一印象) of him was that he was a kind and thoughtful young ma
 
 英文释义
 ---
-1.**印象派的**  
+### 1.**印象派的**  
 
 
 # ***\*impressionist*** n
@@ -1197,7 +1198,7 @@ My ________ (第一印象) of him was that he was a kind and thoughtful young ma
 
 英文释义
 ---
-1.**印象派艺术家**  
+### 1.**印象派艺术家**  
 
 
 # ***\*impressive*** adj
@@ -1207,7 +1208,7 @@ My ________ (第一印象) of him was that he was a kind and thoughtful young ma
 
 英文释义
 ---
-1.*高义频：* **给人深刻印象的； 令人钦佩的：**  
+### 1.*高义频：* **给人深刻印象的； 令人钦佩的：**  
 
  > She was very impressive in the interview.   
  > 她在面试中表现得非常出色。  
@@ -1230,7 +1231,7 @@ What was so ________ (impress) about Jasmine Westland’s victory was that she c
 
 英文释义
 ---
-1.*高义频：* **改善；提高：**  
+### 1.*高义频：* **改善；提高：**  
 
  > improve the environment  
  > 改善环境  
@@ -1245,7 +1246,7 @@ What was so ________ (impress) about Jasmine Westland’s victory was that she c
 
 固定搭配
 ---
-- ## \*improve on / upon  **对…作出改进；做得比…更好：**  
+## \*improve on / upon  1.**对…作出改进；做得比…更好：**  
 
  > Lily has scored 98 in the maths test, and I don't think anyone will improve on that.  
  > 莉莉数学考了98分，我看没人能超过这个分数。  
@@ -1262,7 +1263,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 
 英文释义
 ---
-1.**即席演奏**  
+### 1.**即席演奏**  
 
 
 # ***\*improvise*** v
@@ -1272,7 +1273,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 
 英文释义
 ---
-1.**即兴演奏,即兴表演**  
+### 1.**即兴演奏,即兴表演**  
 
 
 # ***\*impulse*** n
@@ -1282,7 +1283,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 
 英文释义
 ---
-1.**脉冲**  
+### 1.**脉冲**  
 
 
 # ***\*in*** prep
@@ -1292,7 +1293,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
 
 英文释义
 ---
-1.*高义频：* **在…内；在…之中：**  
+### 1.*高义频：* **在…内；在…之中：**  
 
  > swim in the river  
  > 在河里游泳  
@@ -1300,7 +1301,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
  > sit in an armchair  
  > 坐在扶手椅上  
 
-2.*高义频：* **在…期间：**  
+### 2.*高义频：* **在…期间：**  
 
  > in (the) winter  
  > 在冬季  
@@ -1308,12 +1309,12 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
  > In doing we learn.   
  > 边做边学。  
 
-3.*高义频：* **在…以后：**  
+### 3.*高义频：* **在…以后：**  
 
  > The concert will begin in an hour from now.   
  > 音乐会在一个小时后开始。  
 
-4.*高义频：* **穿着；戴着：**  
+### 4.*高义频：* **穿着；戴着：**  
 
  > He is (dressed) in green.  
  > 他穿着绿衣服。  
@@ -1321,7 +1322,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
  > a man in glasses  
  > 戴眼镜的男子  
 
-5.*高义频：* **处于；在…状态中：**  
+### 5.*高义频：* **处于；在…状态中：**  
 
  > live in peace  
  > 过着平静的生活  
@@ -1329,7 +1330,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
  > in good condition  
  > 状态/状况好  
 
-6.*高义频：* **以；按照：**  
+### 6.*高义频：* **以；按照：**  
 
  > arrange in alphabetic order  
  > 按字母顺序安排  
@@ -1337,7 +1338,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
  > The children sat in a circle.   
  > 孩子们坐成一圈。  
 
-7.*高义频：* **在…方面：**  
+### 7.*高义频：* **在…方面：**  
 
  > He's weak in maths.  
  > 他数学不好。  
@@ -1345,7 +1346,7 @@ improvement /ɪm'pruːvmənt/ n [U] & [C]
  > The table is two metres in length and one metre in width.  
  > 这张桌子长两米、宽一米。  
 
-8.*高义频：* **用：**  
+### 8.*高义频：* **用：**  
 
  > Write in ink / pencil.  
  > 用墨水/铅笔写。  
@@ -1374,12 +1375,12 @@ Try on this red skirt; you will look great ________ it.
 
 英文释义
 ---
-1.*高义频：* **在里面；向里面：**  
+### 1.*高义频：* **在里面；向里面：**  
 
  > She opened the door and went in.  
  > 她打开门走了进去。  
 
-2.*高义频：* **在家：**  
+### 2.*高义频：* **在家：**  
 
  > I’ll ring and see if he is in.  
  > 我要按门铃看他是否在家。  
@@ -1394,7 +1395,7 @@ Try on this red skirt; you will look great ________ it.
 
 英文释义
 ---
-1.*高义频：* **时尚的**  
+### 1.*高义频：* **时尚的**  
 反义词 out 
 
 
@@ -1407,7 +1408,7 @@ Try on this red skirt; you will look great ________ it.
 
 英文释义
 ---
-1.*高义频：* **熏香；熏香的烟**  
+### 1.*高义频：* **熏香；熏香的烟**  
 
 
 # ***\*inch*** n
@@ -1419,7 +1420,7 @@ Try on this red skirt; you will look great ________ it.
 
 英文释义
 ---
-1.*高义频：* **[长度单位，等于2.54厘米] 英寸：**  
+### 1.*高义频：* **[长度单位，等于2.54厘米] 英寸：**  
 
  > I'm five feet six inches tall.  
  > 我身高5英尺6英寸。  
@@ -1427,12 +1428,12 @@ Try on this red skirt; you will look great ________ it.
 
 固定搭配
 ---
-- ## \*by an inch / inches  **差一点儿；险些：**  
+## \*by an inch / inches  1.**差一点儿；险些：**  
 
  > The car missed my dog by inches.   
  > 那辆汽车差一点儿撞到我的狗。  
 
-- ## \*inch by inch  **缓慢地；一点一点地：**  
+## \*inch by inch  1.**缓慢地；一点一点地：**  
 
  > I crawled in inch by inch.  
  > 我慢慢地爬了进去。  
@@ -1447,7 +1448,7 @@ Try on this red skirt; you will look great ________ it.
 
 英文释义
 ---
-1.*高义频：* **(尤指不平常的) 事件**  
+### 1.*高义频：* **(尤指不平常的) 事件**  
 英译 sth that happens, especially sth unusual or unpleasant：
 
  > a shooting incident  
@@ -1456,13 +1457,14 @@ Try on this red skirt; you will look great ________ it.
  > Not too long ago, an incident that happened at Walt Disney touched me greatly.   
  > 不久前，在迪斯尼乐园发生的一件事深深触动了我。  
 
-2.*高义频：* **事变：**  
+### 2.*高义频：* **事变：**  
 
  > the July 7th Incident of 1937   
  > 1937年的七七事变  
 
-### 辨析 accident, incident, event
+#### 辨析 accident, incident, event
 三者都含有“事件”之意。  
+
 
 # ***\*include*** vt
 英音 ɪn'kluːd     美音 ɪn'kluːd  
@@ -1471,7 +1473,7 @@ Try on this red skirt; you will look great ________ it.
 
 英文释义
 ---
-1.*高义频：* **[不用于进行时] 包括；包含**  
+### 1.*高义频：* **[不用于进行时] 包括；包含**  
 反义词 exclude 
 
 - include (doing) sth:
@@ -1483,7 +1485,7 @@ Try on this red skirt; you will look great ________ it.
  > The tour included visiting the Science Museum.  
  > 这次游览包括参观科学博物馆。  
 
-2.*高义频：* **把...列入；使...成为...一部分**  
+### 2.*高义频：* **把...列入；使...成为...一部分**  
 英译 to make sb / sth part of sth：
 
  > **include,in**  
@@ -1512,7 +1514,7 @@ My duties will include ________ (introduce) British visitors to the 120 plus pan
 
 英文释义
 ---
-1.*高义频：* **包括…在内：**  
+### 1.*高义频：* **包括…在内：**  
 
  > I've got three days'  holiday including New Year's Day.  
  > 包括元旦在内我有3天假。  
@@ -1531,7 +1533,7 @@ My duties will include ________ (introduce) British visitors to the 120 plus pan
 
 英文释义
 ---
-1.*高义频：* **收入；收益：**  
+### 1.*高义频：* **收入；收益：**  
 
  > **high- / low-income**  
  > high- / low-income families  
@@ -1556,7 +1558,7 @@ Tourism is the major source of________(收入) for this area.
 
 英文释义
 ---
-1.**不正确地**  
+### 1.**不正确地**  
 
 
 # ***\*increase*** v
@@ -1566,7 +1568,7 @@ Tourism is the major source of________(收入) for this area.
 
 英文释义
 ---
-1.*高义频：* **增加；增长：**  
+### 1.*高义频：* **增加；增长：**  
 
  > **increased by**  
  > Food prices increased by 3% last year.  
@@ -1589,7 +1591,7 @@ Tourism is the major source of________(收入) for this area.
 
 英文释义
 ---
-1.*高义频：* **增加；增长：**  
+### 1.*高义频：* **增加；增长：**  
 
  > Not only do the nurses want a pay increase, they want reduced hours as well.  
  > 护士们不仅想要涨工资，还想要减少工作时间。  
@@ -1598,7 +1600,7 @@ Tourism is the major source of________(收入) for this area.
 
 固定搭配
 ---
-- ## \*on the increase  **在增加：**  
+## \*on the increase  1.**在增加：**  
 
  > A few years ago it was an endangered species, but now the population is on the increase.   
  > 几年前，它还是濒临灭绝的物种，但现在它们的数量在不断增加。  
@@ -1621,7 +1623,7 @@ D.increase
 
 英文释义
 ---
-1.*高义频：* **渐增地：**  
+### 1.*高义频：* **渐增地：**  
 
  > Reading is increasingly popular among children.  
  > 阅读越来越受孩子们喜欢。  
@@ -1642,7 +1644,7 @@ Volunteering is becoming ________ (increasing) popular in China.
 
 英文释义
 ---
-1.*高义频：* **难以置信的；无法相信的；[口语] 极好的：**  
+### 1.*高义频：* **难以置信的；无法相信的；[口语] 极好的：**  
 
  > an incredible house  
  > 相当不错的房子  
@@ -1658,7 +1660,7 @@ Volunteering is becoming ________ (increasing) popular in China.
 
 英文释义
 ---
-1.**难以置信地**  
+### 1.**难以置信地**  
 
 
 # ***\*indeed*** adv
@@ -1668,7 +1670,7 @@ Volunteering is becoming ________ (increasing) popular in China.
 
 英文释义
 ---
-1.*高义频：* **真正地；当然；确实：**  
+### 1.*高义频：* **真正地；当然；确实：**  
 
 - [句子副词] [强调陈述或回答]：
 
@@ -1714,7 +1716,7 @@ Volunteering is becoming ________ (increasing) popular in China.
 
 英文释义
 ---
-1.*高义频：* **独立；自主：**  
+### 1.*高义频：* **独立；自主：**  
 
  > live a life of independence  
  > 过着独立的生活  
@@ -1732,7 +1734,7 @@ Volunteering is becoming ________ (increasing) popular in China.
 
 英文释义
 ---
-1.*高义频：* **独立的；自立的**  
+### 1.*高义频：* **独立的；自立的**  
 反义词 dependent 
 
  > economically independent  
@@ -1756,7 +1758,7 @@ independently /ˌɪndɪ'pendəntli/ adv
 
 英文释义
 ---
-1.*高义频：* **(pl indexes / indices) 指数**  
+### 1.*高义频：* **(pl indexes / indices) 指数**  
 
 
 # ***\*indicate*** vt
@@ -1766,19 +1768,19 @@ independently /ˌɪndɪ'pendəntli/ adv
 
 英文释义
 ---
-1.*高义频：* **指示；指出**  
+### 1.*高义频：* **指示；指出**  
 英译 to direct sb's attention to sb / sth, especially by pointing：
 
  > The arrow on a sign indicates the way to go.   
  > 牌子上的箭头指明道路的方向。  
 
-2.*高义频：* **表明；显示**  
+### 2.*高义频：* **表明；显示**  
 英译 to show that sth is probably true or exists：
 
  > The study indicates a connection between poverty and crime.  
  > 研究显示贫穷和犯罪有关联。  
 
-3.*高义频：* **示意；暗示**  
+### 3.*高义频：* **示意；暗示**  
 英译 to say or do sth to make your wishes, intentions etc. clearly：
 
  > In his letter, he indicated his willingness to cooperate.  
@@ -1801,7 +1803,7 @@ indication /ˌɪndɪ'keɪʃn/ n [C] & [U]
 
 英文释义
 ---
-1.**本地的,土生土长的**  
+### 1.**本地的,土生土长的**  
 
 
 # ***\*individual*** adj
@@ -1811,7 +1813,7 @@ indication /ˌɪndɪ'keɪʃn/ n [C] & [U]
 
 英文释义
 ---
-1.*高义频：* **单独的；个人的：**  
+### 1.*高义频：* **单独的；个人的：**  
 
  > **Each individual**  
  > Each individual leaf on the tree is different.  
@@ -1830,7 +1832,7 @@ indication /ˌɪndɪ'keɪʃn/ n [C] & [U]
 
 英文释义
 ---
-1.*高义频：* **个人；个体；人：**  
+### 1.*高义频：* **个人；个体；人：**  
 
  > Together, individuals can make a difference.  
  > 万众一心，众志成城。  
@@ -1849,7 +1851,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 
 英文释义
 ---
-1.*高义频：* **(在) 室内的**  
+### 1.*高义频：* **(在) 室内的**  
 反义词 outdoor 
 
  > an indoor swimming pool  
@@ -1863,7 +1865,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 
 英文释义
 ---
-1.*高义频：* **在室内；往室内：**  
+### 1.*高义频：* **在室内；往室内：**  
 反义词 outdoors 
 
  > It rained all day so we had to stay indoors.  
@@ -1877,7 +1879,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 
 英文释义
 ---
-1.*高义频：* **劝诱；劝使**  
+### 1.*高义频：* **劝诱；劝使**  
 
 
 # ***\*industrial*** adj
@@ -1887,7 +1889,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 
 英文释义
 ---
-1.*高义频：* **工业的；产业的：**  
+### 1.*高义频：* **工业的；产业的：**  
 
  > the Industrial Revolution  
  > 工业革命  
@@ -1900,7 +1902,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 
 英文释义
 ---
-1.**工业化**  
+### 1.**工业化**  
 
 
 # ***\*industry*** n
@@ -1912,7 +1914,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 
 英文释义
 ---
-1.*高义频：* **工业；产业； 行业：**  
+### 1.*高义频：* **工业；产业； 行业：**  
 
  > **light / heavy industry**  
  > light / heavy industry  
@@ -1930,7 +1932,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 
 英文释义
 ---
-1.**不平等**  
+### 1.**不平等**  
 
 
 # ***\*inescapable*** adj
@@ -1940,7 +1942,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 
 英文释义
 ---
-1.**不可避免的**  
+### 1.**不可避免的**  
 
 
 # ***\*infamous*** adj
@@ -1950,7 +1952,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 
 英文释义
 ---
-1.**臭名昭著的；声名狼藉的**  
+### 1.**臭名昭著的；声名狼藉的**  
 
 
 # ***\*infant*** n
@@ -1960,7 +1962,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 
 英文释义
 ---
-1.*高义频：* **婴儿；幼儿**  
+### 1.*高义频：* **婴儿；幼儿**  
 
 
 # ***\*infect*** vt
@@ -1970,7 +1972,7 @@ individuality /ˌɪndɪˌvɪdʒu'æləti/ n [U]
 
 英文释义
 ---
-1.*高义频：* **传染；染上：**  
+### 1.*高义频：* **传染；染上：**  
 
  > **are infected with**  
  > Officials say that few patients are infected with the virus owing to the effective prevention.  
@@ -1995,7 +1997,7 @@ infectious /ɪn'fekʃəs/ adj
 
 英文释义
 ---
-1.*高义频：* **[U] 传染 [C] 传染病**  
+### 1.*高义频：* **[U] 传染 [C] 传染病**  
 
 
 # ***\*infectious*** adj
@@ -2005,7 +2007,7 @@ infectious /ɪn'fekʃəs/ adj
 
 英文释义
 ---
-1.*高义频：* **传染的**  
+### 1.*高义频：* **传染的**  
 
 
 # ***\*infer*** vt
@@ -2015,7 +2017,7 @@ infectious /ɪn'fekʃəs/ adj
 
 英文释义
 ---
-1.*高义频：* **推断：**  
+### 1.*高义频：* **推断：**  
 
  > **inferred,from**  
  > I inferred the fact from the news.  
@@ -2039,7 +2041,7 @@ inference  n
 
 英文释义
 ---
-1.*高义频：* **通货膨胀**  
+### 1.*高义频：* **通货膨胀**  
 
 
 # ***\*influence*** n
@@ -2049,7 +2051,7 @@ inference  n
 
 英文释义
 ---
-1.*高义频：* **影响**  
+### 1.*高义频：* **影响**  
 英译 the power to affect, change or control sb / sth：
 
  > **Under,influence**  
@@ -2061,7 +2063,7 @@ inference  n
  > 物理老师是我的榜样，他对我的影响与我所作的决定有很大的关系。  
  > 来源：2012 安徽改  
 
-2.*高义频：* **有影响的人 / 物：**  
+### 2.*高义频：* **有影响的人 / 物：**  
 
  > Who or what are your musical influences?  
  > 哪些人或哪些事对你在音乐方面产生了影响？  
@@ -2079,7 +2081,7 @@ inference  n
 
 英文释义
 ---
-1.*高义频：* **影响：**  
+### 1.*高义频：* **影响：**  
 
  > Confucius greatly influenced the development of China's culture and education.  
  > 孔子对中国文化和教育的发展产生了深远的影响。  
@@ -2100,7 +2102,7 @@ Through the course of my schooling, I met many teachers, two ________ me greatly
 
 英文释义
 ---
-1.**有影响的；有势力的**  
+### 1.**有影响的；有势力的**  
 
 
 # ***\*inform*** vt
@@ -2110,7 +2112,7 @@ Through the course of my schooling, I met many teachers, two ________ me greatly
 
 英文释义
 ---
-1.**[正式用语] 通知；告诉**  
+### 1.**[正式用语] 通知；告诉**  
 英译 to tell sb about sth, especially in an official way：
 
 - inform sb about / of sth:
@@ -2132,7 +2134,7 @@ Through the course of my schooling, I met many teachers, two ________ me greatly
 
 英文释义
 ---
-1.*高义频：* **非正式的**  
+### 1.*高义频：* **非正式的**  
 
  > an informal talk / meeting  
  > 非正式会谈/会议  
@@ -2150,7 +2152,7 @@ Through the course of my schooling, I met many teachers, two ________ me greatly
 
 英文释义
 ---
-1.*高义频：* **信息；消息；通知：**  
+### 1.*高义频：* **信息；消息；通知：**  
 
  > a piece of information  
  > 一则消息  
@@ -2177,7 +2179,7 @@ Besides, they often get some useful informations from the Internet.
 
 英文释义
 ---
-1.*高义频：* **有知识的；见多识广的；消息灵通的：**  
+### 1.*高义频：* **有知识的；见多识广的；消息灵通的：**  
 
  > **informed choice**  
  > The child was not old enough to make an informed choice.  
@@ -2201,12 +2203,12 @@ Besides, they often get some useful informations from the Internet.
 
 英文释义
 ---
-1.*高义频：* **(烹饪用的) 材料；成分：**  
+### 1.*高义频：* **(烹饪用的) 材料；成分：**  
 
  > fresh / basic ingredients  
  > 新鲜食材/基本配料  
 
-2.*高义频：* **(完成某事的) 要素；因素：**  
+### 2.*高义频：* **(完成某事的) 要素；因素：**  
 
  > Hard work is a vital ingredient for success.  
  > 勤奋是成功的一个重要因素。  
@@ -2219,7 +2221,7 @@ Besides, they often get some useful informations from the Internet.
 
 英文释义
 ---
-1.**居住**  
+### 1.**居住**  
 
 
 # ***\*inhabitant*** n
@@ -2229,7 +2231,7 @@ Besides, they often get some useful informations from the Internet.
 
 英文释义
 ---
-1.**居民**  
+### 1.**居民**  
 
 
 # ***\*inherit*** v
@@ -2239,13 +2241,13 @@ Besides, they often get some useful informations from the Internet.
 
 英文释义
 ---
-1.*高义频：* **继承 (遗产等)：**  
+### 1.*高义频：* **继承 (遗产等)：**  
 
  > **inherited,from**  
  > He inherited a fortune from his father.  
  > 他从父亲那儿继承了一笔财产。  
 
-2.*高义频：* **经遗传获得 (外貌、性格、特征等)：**  
+### 2.*高义频：* **经遗传获得 (外貌、性格、特征等)：**  
 
  > **inherited_2,from**  
  > She inherited her mother's curly hair. / She inherited curly hair from her mother.  
@@ -2259,7 +2261,7 @@ Besides, they often get some useful informations from the Internet.
 
 英文释义
 ---
-1.**荒凉的；不适宜居住的**  
+### 1.**荒凉的；不适宜居住的**  
 
 
 # ***\*initial*** adj
@@ -2269,7 +2271,7 @@ Besides, they often get some useful informations from the Internet.
 
 英文释义
 ---
-1.*高义频：* **最初的；词首的：**  
+### 1.*高义频：* **最初的；词首的：**  
 
  > in the initial stages of sth  
  > 在某事的初始阶段  
@@ -2285,7 +2287,7 @@ Besides, they often get some useful informations from the Internet.
 
 英文释义
 ---
-1.**首字母**  
+### 1.**首字母**  
 
 
 # ***\*initially*** adv
@@ -2295,7 +2297,7 @@ Besides, they often get some useful informations from the Internet.
 
 英文释义
 ---
-1.**起初**  
+### 1.**起初**  
 
 
 # ***\*inject*** vt
@@ -2305,7 +2307,7 @@ Besides, they often get some useful informations from the Internet.
 
 英文释义
 ---
-1.*高义频：* **注射；注入**  
+### 1.*高义频：* **注射；注入**  
 
 
 派生词汇
@@ -2321,7 +2323,7 @@ injection /ɪn'dʒekʃn/ n [C] & [U]
 
 英文释义
 ---
-1.*高义频：* **注射；注射剂**  
+### 1.*高义频：* **注射；注射剂**  
 
 
 # ***\*injure*** vt
@@ -2331,7 +2333,7 @@ injection /ɪn'dʒekʃn/ n [C] & [U]
 
 英文释义
 ---
-1.*高义频：* **使受伤；伤害：**  
+### 1.*高义频：* **使受伤；伤害：**  
 
  > **be seriously,injured**  
  > be seriously / slightly injured  
@@ -2344,8 +2346,9 @@ injection /ɪn'dʒekʃn/ n [C] & [U]
  > She injured her arm in the accident.  
  > 她在事故中伤了胳膊。  
 
-### 辨析 damage, hurt, injure, wound
+#### 辨析 damage, hurt, injure, wound
 四者皆有“伤害”之意。  
+
 
 派生词汇
 ---
@@ -2362,7 +2365,7 @@ injured /'ɪndʒəd/ adj
 
 英文释义
 ---
-1.**受伤的；委屈的**  
+### 1.**受伤的；委屈的**  
 
 
 # ***\*injury*** n
@@ -2374,7 +2377,7 @@ injured /'ɪndʒəd/ adj
 
 英文释义
 ---
-1.*高义频：* **(身体上的) 伤；损害；(情感上的) 伤害：**  
+### 1.*高义频：* **(身体上的) 伤；损害；(情感上的) 伤害：**  
 
  > **suffer (from) an injury**  
  > suffer (from) an injury  
@@ -2401,7 +2404,7 @@ injured /'ɪndʒəd/ adj
 
 英文释义
 ---
-1.*高义频：* **墨水**  
+### 1.*高义频：* **墨水**  
 
 
 # ***\*inland*** adj
@@ -2411,7 +2414,7 @@ injured /'ɪndʒəd/ adj
 
 英文释义
 ---
-1.**内地的；内陆的**  
+### 1.**内地的；内陆的**  
 
 
 # ***\*inn*** n
@@ -2423,7 +2426,7 @@ injured /'ɪndʒəd/ adj
 
 英文释义
 ---
-1.*高义频：* **小旅馆；客栈**  
+### 1.*高义频：* **小旅馆；客栈**  
 
 
 # ***\*inner*** adj
@@ -2433,7 +2436,7 @@ injured /'ɪndʒəd/ adj
 
 英文释义
 ---
-1.*高义频：* **内部的；内心的：**  
+### 1.*高义频：* **内部的；内心的：**  
 
  > an inner room  
  > 内室  
@@ -2449,7 +2452,7 @@ injured /'ɪndʒəd/ adj
 
 英文释义
 ---
-1.*高义频：* **无罪的；无辜的：**  
+### 1.*高义频：* **无罪的；无辜的：**  
 反义词 guilty 
 
  > **innocent of**  
@@ -2460,7 +2463,7 @@ injured /'ɪndʒəd/ adj
  > 他们把我关进监狱，但是最终我被证明是无辜的。  
  > 来源：北师大③ – LS3  
 
-2.*高义频：* **天真的；单纯的；无知的：**  
+### 2.*高义频：* **天真的；单纯的；无知的：**  
 
  > an innocent face   
  > 一张天真无邪的脸  
@@ -2477,7 +2480,7 @@ innocence /'ɪnəsns/ n [U]
 
 英文释义
 ---
-1.*高义频：* **创新；革新**  
+### 1.*高义频：* **创新；革新**  
 
 
 # ***\*input*** n
@@ -2487,7 +2490,7 @@ innocence /'ɪnəsns/ n [U]
 
 英文释义
 ---
-1.*高义频：* **投入 (时间、知识等)；(计算机) 输入：**  
+### 1.*高义频：* **投入 (时间、知识等)；(计算机) 输入：**  
 
  > The input you give your children during study periods will help make studying enjoyable.  
  > 在学习期间，你对孩子们的倾注会使得学习更有乐趣。  
@@ -2501,7 +2504,7 @@ innocence /'ɪnəsns/ n [U]
 
 英文释义
 ---
-1.**好奇的**  
+### 1.**好奇的**  
 
 
 # ***\*insect*** n
@@ -2513,7 +2516,7 @@ innocence /'ɪnəsns/ n [U]
 
 英文释义
 ---
-1.*高义频：* **昆虫；虫**  
+### 1.*高义频：* **昆虫；虫**  
 
 
 # ***\*insert*** vt
@@ -2523,7 +2526,7 @@ innocence /'ɪnəsns/ n [U]
 
 英文释义
 ---
-1.*高义频：* **插入；嵌入：**  
+### 1.*高义频：* **插入；嵌入：**  
 
  > insert a key in / into a lock   
  > 将钥匙插入锁孔  
@@ -2536,7 +2539,7 @@ innocence /'ɪnəsns/ n [U]
 
 英文释义
 ---
-1.*高义频：* **在…的里面：**  
+### 1.*高义频：* **在…的里面：**  
 
  > She has many memories locked inside her heart.   
  > 她内心深藏着许多记忆。  
@@ -2549,7 +2552,7 @@ innocence /'ɪnəsns/ n [U]
 
 英文释义
 ---
-1.*高义频：* **在 / 向里面；在 / 向室内；在心里：**  
+### 1.*高义频：* **在 / 向里面；在 / 向室内；在心里：**  
 
  > stay inside  
  > 待在屋里  
@@ -2565,7 +2568,7 @@ innocence /'ɪnəsns/ n [U]
 
 英文释义
 ---
-1.*高义频：* **[C] 内部；内侧：**  
+### 1.*高义频：* **[C] 内部；内侧：**  
 
  > **the inside**  
  > The door is locked from the inside.   
@@ -2574,7 +2577,7 @@ innocence /'ɪnəsns/ n [U]
 
 固定搭配
 ---
-- ## \*inside out   **里面朝外地：**  
+## \*inside out   1.**里面朝外地：**  
 
  > The kids were wearing their shirts inside out.   
  > 孩子们把衬衫穿反了。  
@@ -2587,7 +2590,7 @@ innocence /'ɪnəsns/ n [U]
 
 英文释义
 ---
-1.*高义频：* **内部的；里面的：**  
+### 1.*高义频：* **内部的；里面的：**  
 
  > inside information  
  > 内部消息  
@@ -2600,7 +2603,7 @@ innocence /'ɪnəsns/ n [U]
 
 英文释义
 ---
-1.*高义频：* **[C] 深入了解；顿悟；[U] 洞察力；眼光：**  
+### 1.*高义频：* **[C] 深入了解；顿悟；[U] 洞察力；眼光：**  
 
 
 # ***\*insist*** v  重难点词汇
@@ -2612,7 +2615,7 @@ innocence /'ɪnəsns/ n [U]
 
 英文释义
 ---
-1.*高义频：* **坚持；坚决要求**  
+### 1.*高义频：* **坚持；坚决要求**  
 英译 to demand that sth should happen：
 
  > — Why don't you call them up today?  
@@ -2637,7 +2640,7 @@ innocence /'ɪnəsns/ n [U]
  > 他执意要求在会上讨论这个问题。  
  > 来源：2010 湖北改  
 
-2.*高义频：* **坚持说；坚持认为**  
+### 2.*高义频：* **坚持说；坚持认为**  
 英译 to say firmly that sth is true, especially when others don’t believe you：
 
 - insist on sth:
@@ -2668,7 +2671,7 @@ The man insisted on________ (find) a taxi for me even though I told him I lived 
 
 英文释义
 ---
-1.*高义频：* **仔细检查 (examine)；视察；检阅：**  
+### 1.*高义频：* **仔细检查 (examine)；视察；检阅：**  
 
  > Make sure you inspect the goods before signing for them.  
  > 签收前一定要仔细检查货物。  
@@ -2676,8 +2679,9 @@ The man insisted on________ (find) a taxi for me even though I told him I lived 
  > The visiting president inspected the troops.   
  > 来访的总统检阅了部队。  
 
-### 辨析 check, examine, inspect, test
+#### 辨析 check, examine, inspect, test
   
+
 
 派生词汇
 ---
@@ -2690,7 +2694,7 @@ inspector /ɪn'spektə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **[U] 灵感；[C] 鼓舞人心的人 / 事：**  
+### 1.*高义频：* **[U] 灵感；[C] 鼓舞人心的人 / 事：**  
 
  > Genius is one percent inspiration and ninety-nine percent perspiration.  
  > 天才就是1%的灵感加上99%的汗水。  
@@ -2708,7 +2712,7 @@ inspector /ɪn'spektə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **激励；鼓舞**  
+### 1.*高义频：* **激励；鼓舞**  
 英译 to make sb want to do sth：
 
  > We need someone who can inspire the team.   
@@ -2720,14 +2724,14 @@ inspector /ɪn'spektə(r)/ n [C]
  > 她对我的信任激励着我去尝试本以为不可能的事。  
  > 来源：2010北京  
 
-2.*高义频：* **激发；唤起**  
+### 2.*高义频：* **激发；唤起**  
 英译 to make sb feel, think, etc. sth：
 
  > **inspires confidence**  
  > His driving hardly inspires confidence (= make people feel confident because they trust your ability).  
  > 他的开车技术让人难以放心。  
 
-3.*高义频：* **启发；给...灵感**  
+### 3.*高义频：* **启发；给...灵感**  
 英译 to give sb the idea for sth：
 
  > This piece of music was inspired by dolphin sounds.  
@@ -2746,7 +2750,7 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 
 英文释义
 ---
-1.**鼓舞人心的，启发灵感的**  
+### 1.**鼓舞人心的，启发灵感的**  
 
 
 # ***\*install*** vt
@@ -2756,7 +2760,7 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **安装；设置**  
+### 1.*高义频：* **安装；设置**  
 
 
 # ***\*instance*** n
@@ -2768,7 +2772,7 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **例子；事例：**  
+### 1.*高义频：* **例子；事例：**  
 
  > **for instance**  
  > for instance (= for example)  
@@ -2782,7 +2786,7 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **立刻的；马上的 (immediate)；即食的：**  
+### 1.*高义频：* **立刻的；马上的 (immediate)；即食的：**  
 
  > an instant reply   
  > 即时回答  
@@ -2800,7 +2804,7 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **瞬间；即刻 (moment)：**  
+### 1.*高义频：* **瞬间；即刻 (moment)：**  
 
  > **for an instant**  
  > I couldn't answer for an instant.  
@@ -2814,7 +2818,7 @@ inspiring /ɪn'spaɪərɪŋ/ adj
 
 固定搭配
 ---
-- ## \*the instant (that)   **一…就：**  
+## \*the instant (that)   1.**一…就：**  
 
  > The instant (= As soon as) she stopped asking questions, I got up and went out of the room.  
  > 她一停止问问题，我就起身走出了房间。  
@@ -2832,7 +2836,7 @@ instantly /'ɪnstəntli/ adv
 
 英文释义
 ---
-1.**立即；马上**  
+### 1.**立即；马上**  
 
 
 # ***\*instead*** adv
@@ -2842,7 +2846,7 @@ instantly /'ɪnstəntli/ adv
 
 英文释义
 ---
-1.*高义频：* **作为替代；反而：**  
+### 1.*高义频：* **作为替代；反而：**  
 
  > Jack didn't study law. Instead, he decided to become a doctor.  
  > 杰克没有学习法律，而是决定当医生。  
@@ -2850,7 +2854,7 @@ instantly /'ɪnstəntli/ adv
 
 固定搭配
 ---
-- ## \*instead of  **代替；而不是：**  
+## \*instead of  1.**代替；而不是：**  
 
  > We went there on foot instead of by bus.   
  > 我们步行去了那儿，没坐车。  
@@ -2880,7 +2884,7 @@ The young man couldn't afford a new car. ________ (作为替代), he bought a us
 
 英文释义
 ---
-1.*高义频：* **学院；(研究) 院 / 所：**  
+### 1.*高义频：* **学院；(研究) 院 / 所：**  
 
  > an institute of technology   
  > 理工学院  
@@ -2898,7 +2902,7 @@ The young man couldn't afford a new car. ________ (作为替代), he bought a us
 
 英文释义
 ---
-1.*高义频：* **机构；团体；制度：**  
+### 1.*高义频：* **机构；团体；制度：**  
 
  > educational institutions  
  > 教育机构  
@@ -2916,7 +2920,7 @@ The young man couldn't afford a new car. ________ (作为替代), he bought a us
 
 英文释义
 ---
-1.*低义频：* **教授；指导**  
+### 1.*低义频：* **教授；指导**  
 英译 to teach sb sth, or show sb how to do sth：
 
  > **instructs,in**  
@@ -2927,7 +2931,7 @@ The young man couldn't afford a new car. ________ (作为替代), he bought a us
  > We should instruct the young not only in words, but by deeds.   
  > 我们应该对青年人言传身教。  
 
-2.*高义频：* **指示；命令**  
+### 2.*高义频：* **指示；命令**  
 英译 to officially tell sb to do sth (order)：
 
 - instruct sb to do sth:
@@ -2941,7 +2945,7 @@ The young man couldn't afford a new car. ________ (作为替代), he bought a us
  > I have been instructed when to start.   
  > 我已得到何时出发的通知。  
 
-3.*低义频：* **[常用于被动语态] 通知**  
+### 3.*低义频：* **[常用于被动语态] 通知**  
 
 
 派生词汇
@@ -2956,7 +2960,7 @@ instructor /ɪn'strʌktə(r)/ n [C]
 
 英文释义
 ---
-1.*低义频：* **[正式用语] 教授；指导：**  
+### 1.*低义频：* **[正式用语] 教授；指导：**  
 
  > **instruction in**  
  > receive instruction in computer  
@@ -2965,13 +2969,13 @@ instructor /ɪn'strʌktə(r)/ n [C]
  > They were given special instruction and practice in reading.  
  > 在阅读上他们得到了专门的指导和训练。  
 
-2.*高义频：* **[C] [常用复数] 指示；命令 (order)：**  
+### 2.*高义频：* **[C] [常用复数] 指示；命令 (order)：**  
 
  > **instructions to do**  
  > receive instructions to do sth  
  > 接到命令做某事  
 
-3.*高义频：* **[用复数] 用法说明；操作指南 (directions)：**  
+### 3.*高义频：* **[用复数] 用法说明；操作指南 (directions)：**  
 
  > **instructions on**  
  > Read the instructions on medicine thoroughly.  
@@ -2993,7 +2997,7 @@ Always read the ________ (instruction) on the bottle carefully and take the righ
 
 英文释义
 ---
-1.**教练；导师**  
+### 1.**教练；导师**  
 
 
 # ***\*instrument*** n
@@ -3005,7 +3009,7 @@ Always read the ________ (instruction) on the bottle carefully and take the righ
 
 英文释义
 ---
-1.*高义频：* **乐器；工具； 仪器：**  
+### 1.*高义频：* **乐器；工具； 仪器：**  
 
  > musical / scientific instruments   
  > 乐器/科学仪器  
@@ -3018,7 +3022,7 @@ Always read the ________ (instruction) on the bottle carefully and take the righ
 
 英文释义
 ---
-1.*高义频：* **侮辱；辱骂；冒犯：**  
+### 1.*高义频：* **侮辱；辱骂；冒犯：**  
 
  > insult sb's intelligence  
  > 侮辱某人的智商  
@@ -3033,7 +3037,7 @@ Always read the ________ (instruction) on the bottle carefully and take the righ
 
 英文释义
 ---
-1.*高义频：* **侮辱；辱骂；冒犯：**  
+### 1.*高义频：* **侮辱；辱骂；冒犯：**  
 
  > Their offer was so low I took it as an insult.   
  > 他们的出价太低，我认为是一种侮辱。  
@@ -3052,7 +3056,7 @@ insulting /ɪn'sʌltɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **保险；保证；保险金：**  
+### 1.*高义频：* **保险；保证；保险金：**  
 
  > **an insurance company**  
  > an insurance company  
@@ -3074,7 +3078,7 @@ insulting /ɪn'sʌltɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **给…购买保险：**  
+### 1.*高义频：* **给…购买保险：**  
 
  > **insured against**  
  > My house is insured against fire and theft.   
@@ -3088,7 +3092,7 @@ insulting /ɪn'sʌltɪŋ/ adj
 
 英文释义
 ---
-1.**完好无损的，完整的**  
+### 1.**完好无损的，完整的**  
 
 
 # ***\*intake*** n
@@ -3098,7 +3102,7 @@ insulting /ɪn'sʌltɪŋ/ adj
 
 英文释义
 ---
-1.**吸入；招收；入口；通风口**  
+### 1.**吸入；招收；入口；通风口**  
 
 
 # ***\*intangible*** adj
@@ -3108,7 +3112,7 @@ insulting /ɪn'sʌltɪŋ/ adj
 
 英文释义
 ---
-1.**无形的，难以捉摸的，无法形容的**  
+### 1.**无形的，难以捉摸的，无法形容的**  
 
 
 # ***\*intellectual*** adj
@@ -3118,7 +3122,7 @@ insulting /ɪn'sʌltɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **智力的；脑力的**  
+### 1.*高义频：* **智力的；脑力的**  
 
 
 # ***\*intelligence*** n
@@ -3130,7 +3134,7 @@ insulting /ɪn'sʌltɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **聪明；智力：**  
+### 1.*高义频：* **聪明；智力：**  
 
  > **intelligence quotient**  
  > intelligence quotient (IQ)   
@@ -3151,7 +3155,7 @@ insulting /ɪn'sʌltɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **聪明的；有才智的；有智力的：**  
+### 1.*高义频：* **聪明的；有才智的；有智力的：**  
 
  > intelligent students / questions  
  > 聪明的学生/机智的问题  
@@ -3164,7 +3168,7 @@ insulting /ɪn'sʌltɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **打算；想要：**  
+### 1.*高义频：* **打算；想要：**  
 英译 to plan or mean to do sth：
 
  > I intend no harm.   
@@ -3209,7 +3213,7 @@ intended /ɪn'tendɪd/ adj
 
 英文释义
 ---
-1.*高义频：* **强烈的；激烈的**  
+### 1.*高义频：* **强烈的；激烈的**  
 
 
 # ***\*intensity*** n
@@ -3219,7 +3223,7 @@ intended /ɪn'tendɪd/ adj
 
 英文释义
 ---
-1.**（光、声等的）强度**  
+### 1.**（光、声等的）强度**  
 
 
 # ***\*intention*** n
@@ -3231,7 +3235,7 @@ intended /ɪn'tendɪd/ adj
 
 英文释义
 ---
-1.*高义频：* **意图；目的(aim, purpose)：**  
+### 1.*高义频：* **意图；目的(aim, purpose)：**  
 
  > **have no intention of changing**  
  > I have no intention of changing my plan.   
@@ -3254,7 +3258,7 @@ intended /ɪn'tendɪd/ adj
 
 英文释义
 ---
-1.*高义频：* **相互交流；相互影响：**  
+### 1.*高义频：* **相互交流；相互影响：**  
 
  > **interacts,with**  
  > Lucy interacts well with other children in the class.  
@@ -3268,7 +3272,7 @@ intended /ɪn'tendɪd/ adj
 
 英文释义
 ---
-1.*高义频：* **兴趣：**  
+### 1.*高义频：* **兴趣：**  
 
  > **have / develop an interest in**  
  > have / develop an interest in  
@@ -3282,7 +3286,7 @@ intended /ɪn'tendɪd/ adj
  > He took an interest in sports.   
  > 他对体育运动感兴趣。  
 
-2.*高义频：* **吸引力；趣味：**  
+### 2.*高义频：* **吸引力；趣味：**  
 
  > **are of no interest**  
  > His books are of no interest to me at all.   
@@ -3292,18 +3296,18 @@ intended /ɪn'tendɪd/ adj
  > There are many places of interest in the city of Rome.  
  > 罗马城有很多名胜古迹。  
 
-3.*高义频：* **[常用复数]兴趣爱好：**  
+### 3.*高义频：* **[常用复数]兴趣爱好：**  
 
  > His two great interests in life are music and chess.  
  > 他生活中的两大乐趣是听音乐和下国际象棋。  
 
-4.*高义频：* **利息：**  
+### 4.*高义频：* **利息：**  
 
  > **interest rates**  
  > interest rates  
  > (银行贷款或存款的)利率  
 
-5.*低义频：* **[C] & [U] [常用复数] 利益：**  
+### 5.*低义频：* **[C] & [U] [常用复数] 利益：**  
 
  > **in the best interests of**  
  > Make decisions in the best interests of (= be the best thing for) their own.  
@@ -3318,7 +3322,7 @@ intended /ɪn'tendɪd/ adj
 
 英文释义
 ---
-1.*高义频：* **使…感兴趣：**  
+### 1.*高义频：* **使…感兴趣：**  
 
  > Here's an article which might interest you.  
  > 这里有篇文章，也许你会感兴趣。  
@@ -3331,7 +3335,7 @@ intended /ɪn'tendɪd/ adj
 
 英文释义
 ---
-1.*高义频：* **感兴趣的：**  
+### 1.*高义频：* **感兴趣的：**  
 
  > interested looks   
  > 感兴趣的表情  
@@ -3369,7 +3373,7 @@ In their spare time, they are interesting in planting vegetables in their garden
 
 英文释义
 ---
-1.*高义频：* **令人感兴趣的；有意思的：**  
+### 1.*高义频：* **令人感兴趣的；有意思的：**  
 
  > an interesting story / book   
  > 有趣的故事/书  
@@ -3389,7 +3393,7 @@ In their spare time, they are interesting in planting vegetables in their garden
 
 英文释义
 ---
-1.**有趣地**  
+### 1.**有趣地**  
 
 
 # ***\*interfere*** vi
@@ -3399,7 +3403,7 @@ In their spare time, they are interesting in planting vegetables in their garden
 
 英文释义
 ---
-1.*高义频：* **干预；干涉：**  
+### 1.*高义频：* **干预；干涉：**  
 
  > I wish my mother would stop interfering and let me make my own decisions.  
  > 我希望妈妈不再干预我，让我自己作决定。  
@@ -3412,7 +3416,7 @@ In their spare time, they are interesting in planting vegetables in their garden
 
 英文释义
 ---
-1.*高义频：* **内部；里面**  
+### 1.*高义频：* **内部；里面**  
 
 
 # ***\*interior*** adj
@@ -3422,7 +3426,7 @@ In their spare time, they are interesting in planting vegetables in their garden
 
 英文释义
 ---
-1.*高义频：* **内部的；里面的：**  
+### 1.*高义频：* **内部的；里面的：**  
 
  > **interior design**  
  > interior design  
@@ -3436,7 +3440,7 @@ In their spare time, they are interesting in planting vegetables in their garden
 
 英文释义
 ---
-1.*高义频：* **(班级 / 课程等) 中级的；(水平) 中等的**  
+### 1.*高义频：* **(班级 / 课程等) 中级的；(水平) 中等的**  
 
 
 # ***\*internal*** adj
@@ -3446,7 +3450,7 @@ In their spare time, they are interesting in planting vegetables in their garden
 
 英文释义
 ---
-1.*高义频：* **内部的；体内的； 内心的：**  
+### 1.*高义频：* **内部的；体内的； 内心的：**  
 
  > the internal relations of things   
  > 事物的内部联系  
@@ -3465,7 +3469,7 @@ In their spare time, they are interesting in planting vegetables in their garden
 
 英文释义
 ---
-1.*高义频：* **国际的；世界的：**  
+### 1.*高义频：* **国际的；世界的：**  
 
  > a pianist with an international reputation   
  > 具有国际声誉的钢琴家  
@@ -3478,7 +3482,7 @@ In their spare time, they are interesting in planting vegetables in their garden
 
 英文释义
 ---
-1.**使国际化； 把 ... 置于国际共管之下**  
+### 1.**使国际化； 把 ... 置于国际共管之下**  
 
 
 # ***\*interpersonal*** adj
@@ -3488,7 +3492,7 @@ In their spare time, they are interesting in planting vegetables in their garden
 
 英文释义
 ---
-1.**人际关系的，人与人之间的**  
+### 1.**人际关系的，人与人之间的**  
 
 
 # ***\*interpret*** v
@@ -3498,13 +3502,13 @@ In their spare time, they are interesting in planting vegetables in their garden
 
 英文释义
 ---
-1.*高义频：* **解释；阐述**  
+### 1.*高义频：* **解释；阐述**  
 英译 to explain the meaning of sth：
 
  > Freud attempted to interpret the meaning of dreams.  
  > 弗洛伊德试图解释梦的含义。  
 
-2.*高义频：* **(口头) 翻译：**  
+### 2.*高义频：* **(口头) 翻译：**  
 
  > **interpret for**  
  > She couldn't speak English so her children had to interpret for her.  
@@ -3524,7 +3528,7 @@ interpretation /ɪnˌtɜːprɪ'teɪʃn/ n [C] & [U]
 
 英文释义
 ---
-1.*高义频：* **传译员；口译者**  
+### 1.*高义频：* **传译员；口译者**  
 
 
 # ***\*interrupt*** v
@@ -3534,7 +3538,7 @@ interpretation /ɪnˌtɜːprɪ'teɪʃn/ n [C] & [U]
 
 英文释义
 ---
-1.*高义频：* **打断；打扰：**  
+### 1.*高义频：* **打断；打扰：**  
 
  > Don't interrupt the speaker; ask your questions afterwards.  
  > 不要打断演讲者，等他讲完你再提问。  
@@ -3542,7 +3546,7 @@ interpretation /ɪnˌtɜːprɪ'teɪʃn/ n [C] & [U]
  > I'm sorry to interrupt, but there's something important I have to tell you.  
  > 抱歉打扰一下，我有要事相告。  
 
-2.*高义频：* **中断；阻断：**  
+### 2.*高义频：* **中断；阻断：**  
 
  > Traffic was interrupted by floods.   
  > 交通被洪水阻断。  
@@ -3569,7 +3573,7 @@ Will you stop _______ (打断) me when I’m talking?
 
 英文释义
 ---
-1.*高义频：* **(时间的) 间隔；间歇；幕间休息；(空间的) 间距：**  
+### 1.*高义频：* **(时间的) 间隔；间歇；幕间休息；(空间的) 间距：**  
 
  > **at regular intervals**  
  > at regular intervals   
@@ -3591,7 +3595,7 @@ Will you stop _______ (打断) me when I’m talking?
 
 英文释义
 ---
-1.*高义频：* **采访；面试；会见：**  
+### 1.*高义频：* **采访；面试；会见：**  
 
  > a television / job interview  
  > 电视采访/求职面试  
@@ -3607,7 +3611,7 @@ Will you stop _______ (打断) me when I’m talking?
 
 英文释义
 ---
-1.*高义频：* **采访；面试；会见：**  
+### 1.*高义频：* **采访；面试；会见：**  
 
  > **interviewing,for**  
  > I was interviewing a woman villager for an article.  
@@ -3632,7 +3636,7 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **参加面试者；接受采访者**  
+### 1.*高义频：* **参加面试者；接受采访者**  
 
 
 # ***\*interviewer*** n
@@ -3642,7 +3646,7 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 
 英文释义
 ---
-1.**（面试时的）主考官；面谈者**  
+### 1.**（面试时的）主考官；面谈者**  
 
 
 # ***\*intestine*** n
@@ -3652,7 +3656,7 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 
 英文释义
 ---
-1.**（常复）肠**  
+### 1.**（常复）肠**  
 
 
 # ***\*intimate*** adj
@@ -3662,7 +3666,7 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 
 英文释义
 ---
-1.**亲密的**  
+### 1.**亲密的**  
 
 
 # ***\*into*** prep
@@ -3672,7 +3676,7 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **到…里；直到：**  
+### 1.*高义频：* **到…里；直到：**  
 
  > Come into the house.  
  > 走进房子。  
@@ -3680,7 +3684,7 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
  > work far into the night   
  > 工作到深夜  
 
-2.*高义频：* **成为；变成：**  
+### 2.*高义频：* **成为；变成：**  
 
  > When it is boiled, water changes into steam.   
  > 水烧开时会变成蒸汽。  
@@ -3689,12 +3693,12 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
  > 一关灯，我们就都沉沉地酣睡过去。  
  > 来源： 北师大① – 3  
 
-3.*高义频：* **触及；撞上；碰上：**  
+### 3.*高义频：* **触及；撞上；碰上：**  
 
  > The truck crashed into a parked car.   
  > 那辆卡车撞上了一辆停着的轿车。  
 
-4.*高义频：* **关于；有关：**  
+### 4.*高义频：* **关于；有关：**  
 
  > The police made an investigation into the events leading up to her death.   
  > 警方对导致她死亡的事件进行了调查。  
@@ -3707,7 +3711,7 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 
 英文释义
 ---
-1.**语调**  
+### 1.**语调**  
 
 
 # ***\*introduce*** vt
@@ -3717,7 +3721,7 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **引进；传入：**  
+### 1.*高义频：* **引进；传入：**  
 
 - introduce sth to / into sth:
 
@@ -3725,13 +3729,13 @@ interviewer  /'ɪntəvjuːə(r)/ n [C]
  > 咖啡是从欧洲大陆引进英国的。  
 
 Notes: introduce不接双宾语。  
-2.*高义频：* **推行；采用 (bring in)：**  
+### 2.*高义频：* **推行；采用 (bring in)：**  
 
  > Every month the magazine introduces a fresh new topic with articles.  
  > 这本杂志每月都会推出一个新话题以及相关的文章。  
  > 来源：2017 北京  
 
-3.*高义频：* **介绍；引见：**  
+### 3.*高义频：* **介绍；引见：**  
 
  > May I introduce myself?  
  > 我能自我介绍一下吗？  
@@ -3741,7 +3745,7 @@ Notes: introduce不接双宾语。
  > June, let me introduce you to Bob.  
  > 琼，我来把你介绍给鲍勃。  
 
-4.*低义频：* **使初次了解 / 尝试：**  
+### 4.*低义频：* **使初次了解 / 尝试：**  
 
  > **introduced,to**  
  > Some friends introduced me to camping.  
@@ -3756,12 +3760,12 @@ Notes: introduce不接双宾语。
 
 英文释义
 ---
-1.*高义频：* **引进；采用：**  
+### 1.*高义频：* **引进；采用：**  
 
  > the introduction of a new method into language teaching  
  > 语言教学中新方法的引入  
 
-2.*高义频：* **入门导读；序言：**  
+### 2.*高义频：* **入门导读；序言：**  
 
  > an introduction to the advanced course   
  > 高级课程入门  
@@ -3770,7 +3774,7 @@ Notes: introduce不接双宾语。
  > The book is a complete introduction to all the best Indian films.   
  > 本书完整介绍了印度所有最好的电影。  
 
-3.*高义频：* **介绍；引见：**  
+### 3.*高义频：* **介绍；引见：**  
 
  > a letter of introduction   
  > 介绍信  
@@ -3797,7 +3801,7 @@ This development was only possible with the ________ (introduce) of electric-pow
 
 英文释义
 ---
-1.*高义频：* **侵入；侵略；侵犯：**  
+### 1.*高义频：* **侵入；侵略；侵犯：**  
 
  > invade a neighbouring country   
  > 侵入邻国  
@@ -3819,7 +3823,7 @@ invasion /ɪn'veɪʒn/ n [C] & [U]
 
 英文释义
 ---
-1.*高义频：* **侵略者**  
+### 1.*高义频：* **侵略者**  
 
 
 # ***\*invaluable*** adj
@@ -3829,7 +3833,7 @@ invasion /ɪn'veɪʒn/ n [C] & [U]
 
 英文释义
 ---
-1.*高义频：* **无价的；极宝贵的**  
+### 1.*高义频：* **无价的；极宝贵的**  
 
 
 # ***\*invasion*** n
@@ -3841,7 +3845,7 @@ invasion /ɪn'veɪʒn/ n [C] & [U]
 
 英文释义
 ---
-1.*高义频：* **入侵；侵略； 侵犯：**  
+### 1.*高义频：* **入侵；侵略； 侵犯：**  
 
  > **invasion of**  
  > an invasion of privacy   
@@ -3855,13 +3859,13 @@ invasion /ɪn'veɪʒn/ n [C] & [U]
 
 英文释义
 ---
-1.*高义频：* **发明；创造：**  
+### 1.*高义频：* **发明；创造：**  
 
  > Alexander Graham Bell became famous overnight by inventing the telephone.  
  > 亚历山大·格雷厄姆·贝尔因发明了电话而一夜成名。  
  > 来源：2011 陕西  
 
-2.*高义频：* **编造：**  
+### 2.*高义频：* **编造：**  
 
  > We must invent an excuse for being late.   
  > 我们得为迟到编一个理由。  
@@ -3878,17 +3882,17 @@ inventor  /ɪn'ventə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **发明；研制：**  
+### 1.*高义频：* **发明；研制：**  
 
  > Necessity is the mother of invention.   
  > 发明源于需要。  
 
-2.*高义频：* **发明物：**  
+### 2.*高义频：* **发明物：**  
 
  > the Four Great inventions  
  > 四大发明  
 
-3.*低义频：* **捏造；虚构：**  
+### 3.*低义频：* **捏造；虚构：**  
 
  > The story was a complete invention.   
  > 本故事纯属虚构。  
@@ -3901,7 +3905,7 @@ inventor  /ɪn'ventə(r)/ n [C]
 
 英文释义
 ---
-1.**发明家**  
+### 1.**发明家**  
 
 
 # ***\*invest*** v
@@ -3911,7 +3915,7 @@ inventor  /ɪn'ventə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **投资；投入：**  
+### 1.*高义频：* **投资；投入：**  
 
  > **invested,in**  
  > I have invested all my money in that company.  
@@ -3928,7 +3932,7 @@ inventor  /ɪn'ventə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **调查； 调查研究；侦查：**  
+### 1.*高义频：* **调查； 调查研究；侦查：**  
 
  > The police are investigating the robbery.   
  > 警方正在调查这起抢劫案。  
@@ -3947,7 +3951,7 @@ investigation /ɪnˌvestɪ'ɡeɪʃn/ n [U] & [C]
 
 英文释义
 ---
-1.*高义频：* **调查**  
+### 1.*高义频：* **调查**  
 
  > We all agree that once the conclusion of the investigation is drawn, it will be made known to the public as soon as possible.   
  > 我们一致同意一旦得出调查结论，就尽早让公众知晓。  
@@ -3961,7 +3965,7 @@ investigation /ɪnˌvestɪ'ɡeɪʃn/ n [U] & [C]
 
 英文释义
 ---
-1.*高义频：* **看不见的 【反:visible】；无形的：**  
+### 1.*高义频：* **看不见的 【反:visible】；无形的：**  
 
  > You can see the stars on a clear night, but in the daytime they are invisible.   
  > 你可以在晴朗的夜空看到这些星星，但是在白天它们是看不到的。  
@@ -3974,7 +3978,7 @@ investigation /ɪnˌvestɪ'ɡeɪʃn/ n [U] & [C]
 
 英文释义
 ---
-1.*高义频：* **邀请：**  
+### 1.*高义频：* **邀请：**  
 
  > **at the invitation of sb / at sb's invitation**  
  > at the invitation of sb / at sb's invitation  
@@ -3989,13 +3993,13 @@ investigation /ɪnˌvestɪ'ɡeɪʃn/ n [U] & [C]
  > accept / refuse an invitation  
  > 接受/拒绝邀请  
 
-2.*高义频：* **请柬：**  
+### 2.*高义频：* **请柬：**  
 
  > The hostess had the invitations delivered a week before the party.  
  > 女主人在聚会前一周就安排发出了请柬。  
  > 来源：人教⑨ – 5  
 
-3.*低义频：* **引诱；招致：**  
+### 3.*低义频：* **引诱；招致：**  
 
  > **is,an open invitation to**  
  > Leaving the car unlocked is just an open invitation to thieves.   
@@ -4017,7 +4021,7 @@ She has turned down several ________ (invitation) to star at shows in order to c
 
 英文释义
 ---
-1.*高义频：* **邀请：**  
+### 1.*高义频：* **邀请：**  
 
  > **invite,for**  
  > Why don't we invite our new neighbour over for tea?  
@@ -4033,14 +4037,14 @@ She has turned down several ________ (invitation) to star at shows in order to c
  > 我们做得很出色，应邀向全校学生分享我们的想法和经验。  
  > 来源：2016 北京书面表达  
 
-2.*低义频：* **请求；征求**  
+### 2.*低义频：* **请求；征求**  
 英译 to ask sb formally to do sth：
 
  > A TV programme, Hero Show, is inviting students'  opinions on what qualities heroes and heroines should have.  
  > 电视节目《英雄秀》正就英雄应该具备什么样的品质征求学生的意见。  
  > 来源：北师大① – 2  
 
-3.*低义频：* **招致 (尤指坏事)**  
+### 3.*低义频：* **招致 (尤指坏事)**  
 
 
 真题解析
@@ -4058,7 +4062,7 @@ When summer comes, they will invite their students pick the fresh vegetables!
 
 英文释义
 ---
-1.*高义频：* **包含；需要**  
+### 1.*高义频：* **包含；需要**  
 英译 to make sth necessary in an activity or situation：
 
 - involve (doing) sth:
@@ -4071,7 +4075,7 @@ When summer comes, they will invite their students pick the fresh vegetables!
  > 驯象师的工作需要爱和奉献。  
  > 来源：2010 上海改  
 
-2.*高义频：* **涉及；影响**  
+### 2.*高义频：* **涉及；影响**  
 英译 to include or affect sb / sth：
 
  > If your goal involves other people, put yourself in their positions.  
@@ -4081,7 +4085,7 @@ When summer comes, they will invite their students pick the fresh vegetables!
  > How many vehicles were involved in the crash?   
  > 这次撞车事故涉及多少辆车？  
 
-3.*高义频：* **使参加**  
+### 3.*高义频：* **使参加**  
 英译 to make sb take part in sth：
 
 - involve sb / oneself (in sth):
@@ -4110,7 +4114,7 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 
 英文释义
 ---
-1.*高义频：* **参与的：投入的：**  
+### 1.*高义频：* **参与的：投入的：**  
 
 - be / get involved (in / with):
 
@@ -4134,12 +4138,12 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 
 英文释义
 ---
-1.*高义频：* **铁：**  
+### 1.*高义频：* **铁：**  
 
  > Strike while the iron is hot.   
  > 趁热打铁。  
 
-2.*高义频：* **铁制品；熨斗：**  
+### 2.*高义频：* **铁制品；熨斗：**  
 
  > an electric iron   
  > 电熨斗  
@@ -4152,7 +4156,7 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 
 英文释义
 ---
-1.*高义频：* **熨烫：**  
+### 1.*高义频：* **熨烫：**  
 
  > I'll need to iron that dress.  
  > 我得把那件连衣裙熨一熨。  
@@ -4165,7 +4169,7 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 
 英文释义
 ---
-1.*高义频：* **[只用于名词前] 坚强的：**  
+### 1.*高义频：* **[只用于名词前] 坚强的：**  
 
  > **an iron will / a will of iron**  
  > an iron will / a will of iron  
@@ -4179,7 +4183,7 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 
 英文释义
 ---
-1.**不规则的；无规律的**  
+### 1.**不规则的；无规律的**  
 
 
 # ***\*irrigation*** n
@@ -4191,7 +4195,7 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 
 英文释义
 ---
-1.*高义频：* **灌溉**  
+### 1.*高义频：* **灌溉**  
 
 
 # ***\*irritate*** v
@@ -4201,7 +4205,7 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 
 英文释义
 ---
-1.**（尤指不断重复做某事而）使（人长期）烦躁**  
+### 1.**（尤指不断重复做某事而）使（人长期）烦躁**  
 
 
 # ***\*island*** n
@@ -4213,7 +4217,7 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 
 英文释义
 ---
-1.*高义频：* **岛；岛状物**  
+### 1.*高义频：* **岛；岛状物**  
 
 
 # ***\*isolated*** adj
@@ -4223,7 +4227,7 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 
 英文释义
 ---
-1.**孤单的；孤立的**  
+### 1.**孤单的；孤立的**  
 
 
 # ***\*issue*** n  重难点词汇
@@ -4235,7 +4239,7 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 
 英文释义
 ---
-1.*高义频：* **议题；争论的问题 (尤指社会或政治方面)**  
+### 1.*高义频：* **议题；争论的问题 (尤指社会或政治方面)**  
 英译 an important topic that's discussed or argued about：
 
  > **environmental issue**  
@@ -4246,14 +4250,14 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
  > Food safety is an important issue involving the public health.   
  > 食品安全是关系到公众健康的重要问题。  
 
-2.*高义频：* **(令人担忧的) 问题**  
+### 2.*高义频：* **(令人担忧的) 问题**  
 英译 a problem or worry that sb has with sth：
 
  > **not an issue**  
  > Money is not an issue.   
  > 钱不是问题。  
 
-3.*高义频：* **(报刊的) 号；版次**  
+### 3.*高义频：* **(报刊的) 号；版次**  
 英译 one of a regular series of magazines or newspapers：
 
  > the January issue of Newsweek  
@@ -4271,13 +4275,13 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 
 英文释义
 ---
-1.*高义频：* **公布；发布：**  
+### 1.*高义频：* **公布；发布：**  
 
  > **issued a statement to**  
  > The minister issued a statement to the press.  
  > 部长向新闻界发表了声明。  
 
-2.*高义频：* **(正式) 发给；供给：**  
+### 2.*高义频：* **(正式) 发给；供给：**  
 
  > **issue,to,issue,with**  
  > issue warm clothing to the survivors / issue the survivors with warm clothing.  
@@ -4287,7 +4291,7 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
  > issue a passport / visa  
  > 签发护照/签证  
 
-3.*低义频：* **发行：**  
+### 3.*低义频：* **发行：**  
 
  > issue a magazine   
  > 发行一本杂志  
@@ -4303,7 +4307,7 @@ Michelle found a job as a high school teacher which involves ________ (spend) qu
 
 英文释义
 ---
-1.*高义频：* **它；这；那：**  
+### 1.*高义频：* **它；这；那：**  
 
 - 指已提及的事物、动植物和婴儿等：
 
@@ -4397,7 +4401,7 @@ Why don't you bring _______ to his attention that you're too ill to work on?
 
 英文释义
 ---
-1.*高义频：* **(pl) 斜体 (字)**  
+### 1.*高义频：* **(pl) 斜体 (字)**  
 
 
 # ***\*item*** n
@@ -4409,17 +4413,17 @@ Why don't you bring _______ to his attention that you're too ill to work on?
 
 英文释义
 ---
-1.*高义频：* **(表格、目录、数据等的) 项目；细目：**  
+### 1.*高义频：* **(表格、目录、数据等的) 项目；细目：**  
 
  > We have many items to discuss in our meeting today.   
  > 今天的会议我们有很多事项要讨论。  
 
-2.*高义频：* **一件商品 / 物品：**  
+### 2.*高义频：* **一件商品 / 物品：**  
 
  > Can I pay for each item separately?   
  > 我能否一件一件地分别付钱？  
 
-3.*高义频：* **一条 / 一则 (新闻)：**  
+### 3.*高义频：* **一条 / 一则 (新闻)：**  
 
  > What is the first news item mainly about?   
  > 第一条新闻主要是关于什么的？  
@@ -4434,7 +4438,7 @@ Why don't you bring _______ to his attention that you're too ill to work on?
 
 英文释义
 ---
-1.*高义频：* **它的：**  
+### 1.*高义频：* **它的：**  
 
  > The book has lost its cover.   
  > 这本书的封面没了。  
@@ -4455,7 +4459,7 @@ On my recent visit, I held a lively three-monthold panda that had been rejected 
 
 英文释义
 ---
-1.*高义频：* **它自己；它本身：**  
+### 1.*高义频：* **它自己；它本身：**  
 
  > The chance will not find you itself.  
  > 机会不会自己送上门。  
@@ -4466,7 +4470,7 @@ On my recent visit, I held a lively three-monthold panda that had been rejected 
 
 固定搭配
 ---
-- ## \*by itself   **单独地；独立地：**  
+## \*by itself   1.**单独地；独立地：**  
 
  > The tree stands by itself in the garden.   
  > 那棵树孤零零地立在花园中。  
@@ -4495,6 +4499,6 @@ Isn't it amazing how the human body heals ________ (it) after an injury?
 
 英文释义
 ---
-1.*高义频：* **象牙**  
+### 1.*高义频：* **象牙**  
 
 

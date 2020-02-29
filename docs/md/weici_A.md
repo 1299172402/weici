@@ -9,7 +9,7 @@
 
 英文释义
 ---
-1.*高义频：* **(非特指的) 一 (个)：**  
+### 1.*高义频：* **(非特指的) 一 (个)：**  
 
  > a university   
  > 一所大学  
@@ -17,17 +17,17 @@
  > an honest man   
  > 一个老实人  
 
-2.*高义频：* **(一类事物中的) 任何一个 (any)：**  
+### 2.*高义频：* **(一类事物中的) 任何一个 (any)：**  
 
  > A square has four sides.   
  > 正方形有四条边。  
 
-3.*高义频：* **一 (one)：**  
+### 3.*高义频：* **一 (one)：**  
 
  > Rome was not built in a day.   
  > 罗马不是一天建成的。  
 
-4.*高义频：* **每一 (each)：**  
+### 4.*高义频：* **每一 (each)：**  
 
  > twenty dollars a week   
  > 每周20美元  
@@ -35,7 +35,7 @@
  > three times a day   
  > 一日三次  
 
-5.*高义频：* **某一 (a certain，用于专有名词特别是人名前)：**  
+### 5.*高义频：* **某一 (a certain，用于专有名词特别是人名前)：**  
 
  > Brian is gifted in writing music; he is very likely to be a Beethoven.  
  > 布莱恩有作曲天赋，他很有可能成为又一个贝多芬。  
@@ -80,7 +80,7 @@ A.a; the
 
 英文释义
 ---
-1.*高义频：* **算盘**  
+### 1.*高义频：* **算盘**  
 
 
 # ***\*abandon*** vt
@@ -90,7 +90,7 @@ A.a; the
 
 英文释义
 ---
-1.*高义频：* **放弃**  
+### 1.*高义频：* **放弃**  
 英译 to stop doing or having sth：
 
  > **abandoned,hope**  
@@ -101,7 +101,7 @@ A.a; the
  > 因为经济方面的原因，这些计划被终止了。  
  > 来源：2017 全国  
 
-2.*高义频：* **遗弃**  
+### 2.*高义频：* **遗弃**  
 英译 to leave sb, especially sb you're responsible for：
 
  > How could she abandon her own child?  
@@ -111,7 +111,7 @@ A.a; the
  > 人们为遗弃动物找出各种借口。  
  > 来源：2010 北京  
 
-3.*高义频：* **离弃**  
+### 3.*高义频：* **离弃**  
 英译 to leave a place, vehicle etc., especially because it is impossible or dangerous to stay (leave)：
 
  > Snow forced many drivers to abandon their vehicles.  
@@ -135,7 +135,7 @@ abandoned /ə'bændənd/ adj
 
 英文释义
 ---
-1.**被遗弃的；被离弃的；废弃的：**  
+### 1.**被遗弃的；被离弃的；废弃的：**  
 
  > A shared bike is left abandoned at a bus stop.  
  > 一辆共享单车被遗弃在公交车站。  
@@ -148,7 +148,7 @@ abandoned /ə'bændənd/ adj
 
 英文释义
 ---
-1.*高义频：* **[U] 能力**  
+### 1.*高义频：* **[U] 能力**  
 英译 the fact of being able to do sth：
 反义词 inability 
 
@@ -158,7 +158,7 @@ abandoned /ə'bændənd/ adj
  > 笑与微笑实际上是我们与生俱来的能力。  
  > 来源：2011 陕西改  
 
-2.*高义频：* **[C] & [U] 才能；才识；技能**  
+### 2.*高义频：* **[C] & [U] 才能；才识；技能**  
 英译 a level of skill at doing sth：
 
  > develop an ability   
@@ -175,7 +175,7 @@ abandoned /ə'bændənd/ adj
 
 固定搭配
 ---
-- ## \*to the best of one's ability  **尽最大努力：**  
+## \*to the best of one's ability  1.**尽最大努力：**  
 
  > I try to do my job to the best of my ability.  
  > 我尽全力做好我的工作。  
@@ -188,7 +188,7 @@ abandoned /ə'bændənd/ adj
 
 英文释义
 ---
-1.*高义频：* **能：**  
+### 1.*高义频：* **能：**  
 反义词 unable 
 
 - (be) able to do sth:
@@ -201,7 +201,7 @@ abandoned /ə'bændənd/ adj
  > 能与人闲谈是和他人打交道的非常实用的技能。  
  > 来源：2012 辽宁  
 
-2.*低义频：* **能干的；有能力的：**  
+### 2.*低义频：* **能干的；有能力的：**  
 
  > Even the most able students found the test difficult.  
  > 连能力最强的学生都觉得这次测验很难。  
@@ -218,7 +218,7 @@ ably / 'eɪbl/ adv
 
 英文释义
 ---
-1.*高义频：* **不正常的；反常的；变态的**  
+### 1.*高义频：* **不正常的；反常的；变态的**  
 
  > abnormal behaviour   
  > 反常行为  
@@ -231,7 +231,7 @@ ably / 'eɪbl/ adv
 
 英文释义
 ---
-1.*高义频：* **上船 / 车 / 飞机 (on board)：**  
+### 1.*高义频：* **上船 / 车 / 飞机 (on board)：**  
 
  > The plane crashed, killing all 200 people aboard.   
  > 飞机失事，机上200人全部遇难。  
@@ -248,7 +248,7 @@ ably / 'eɪbl/ adv
 
 英文释义
 ---
-1.*高义频：* **在船 / 车 / 飞机上；上船 / 车 / 飞机：**  
+### 1.*高义频：* **在船 / 车 / 飞机上；上船 / 车 / 飞机：**  
 
  > Welcome aboard Flight BA98 for Paris!  
  > 欢迎乘坐飞往巴黎的BA98次航班！  
@@ -261,7 +261,7 @@ ably / 'eɪbl/ adv
 
 英文释义
 ---
-1.*高义频：* **废除；废止：**  
+### 1.*高义频：* **废除；废止：**  
 
 
 # ***\*abolition*** n
@@ -273,7 +273,7 @@ ably / 'eɪbl/ adv
 
 英文释义
 ---
-1.*高义频：* **废除；废止**  
+### 1.*高义频：* **废除；废止**  
 
 
 # ***\*aborigine*** n
@@ -283,7 +283,7 @@ ably / 'eɪbl/ adv
 
 英文释义
 ---
-1.**（澳大利亚）土著居民**  
+### 1.**（澳大利亚）土著居民**  
 
 
 # ***\*abortion*** n
@@ -295,7 +295,7 @@ ably / 'eɪbl/ adv
 
 英文释义
 ---
-1.*高义频：* **人工流产；堕胎**  
+### 1.*高义频：* **人工流产；堕胎**  
 
 
 # ***\*about*** prep
@@ -305,7 +305,7 @@ ably / 'eɪbl/ adv
 
 英文释义
 ---
-1.*高义频：* **关于：**  
+### 1.*高义频：* **关于：**  
 
  > The passage is about the writer's childhood.  
  > 这篇文章讲述的是作者的童年。  
@@ -315,7 +315,7 @@ ably / 'eɪbl/ adv
  > 我想和你谈谈我换专业的事。  
  > 来源：2008 天津  
 
-2.*低义频：* **在...周围；到处 (AmE around, BrE round)：**  
+### 2.*低义频：* **在...周围；到处 (AmE around, BrE round)：**  
 
  > I planted bamboo about my house.   
  > 我在房子四周栽种了竹子。  
@@ -323,7 +323,7 @@ ably / 'eɪbl/ adv
  > After dinner I wandered alone about the town.  
  > 饭后我一个人在城里四处逛了逛。  
 
-3.*高义频：* **目的是；为了:**  
+### 3.*高义频：* **目的是；为了:**  
 
  > **all about**  
  > Tiger parenting is all about raising independent,creative and brave kids.  
@@ -332,7 +332,7 @@ ably / 'eɪbl/ adv
 
 固定搭配
 ---
-- ## \*What / How about ...?   **…怎么样？**  
+## \*What / How about ...?   1.**…怎么样？**  
 
  > What / How about the weather in Qinghai Province?  
  > 青海省的天气如何？  
@@ -356,17 +356,17 @@ Modern equipment and no smoking are two of the things I like ________ working he
 
 英文释义
 ---
-1.*高义频：* **大约；左右：**  
+### 1.*高义频：* **大约；左右：**  
 
  > It’s about 10 minutes’ walk.   
  > 步行大约需要10分钟。  
 
-2.*高义频：* **在 / 向周围；四处：**  
+### 2.*高义频：* **在 / 向周围；四处：**  
 
  > Look about and tell me what you see.  
  > 向四周看看，告诉我你看到了什么。  
 
-3.*高义频：* **将近；差不多：**  
+### 3.*高义频：* **将近；差不多：**  
 
  > Supper is about ready.   
  > 晚饭快好了。  
@@ -377,7 +377,7 @@ Modern equipment and no smoking are two of the things I like ________ working he
 
 固定搭配
 ---
-- ## \*be about to do sth   **正要 / 准备做某事：**  
+## \*be about to do sth   1.**正要 / 准备做某事：**  
 
  > I was about to turn off my computer when I received an email.   
  > 我正准备关电脑,这时收到了一封电子邮件。  
@@ -400,15 +400,16 @@ Tom was about to close the window ________ his attention was caught by a bird.
 
 英文释义
 ---
-1.*高义频：* **在...上方：**  
+### 1.*高义频：* **在...上方：**  
 反义词 below 
 
  > We were flying above the clouds.   
  > 我们在云层上面飞行。  
 
-### 辨析 above, on, over
+#### 辨析 above, on, over
 三者都含有“在…上”之意。  
-2.*高义频：* **(数量 / 程度 / 地位等) 大于；超出；高于：**  
+
+### 2.*高义频：* **(数量 / 程度 / 地位等) 大于；超出；高于：**  
 
  > **above freezing**  
  > The temperature was only a few degrees above freezing.  
@@ -424,7 +425,7 @@ Tom was about to close the window ________ his attention was caught by a bird.
 
 固定搭配
 ---
-- ## \*above all  **最重要的是；尤其：**  
+## \*above all  1.**最重要的是；尤其：**  
 
  > I’d like to buy a house — modern, comfortable, and above all in a quiet neighborhood.   
  > 我要买一座房子，要现代、要舒适，最重要的是周围要安静。  
@@ -455,7 +456,7 @@ A great person is always putting others’ interests  ________ his own.
 
 英文释义
 ---
-1.*高义频：* **(空间) 在上面；(数量等) 以上：**  
+### 1.*高义频：* **(空间) 在上面；(数量等) 以上：**  
 
  > **and above**  
  > children aged 12 and above   
@@ -464,7 +465,7 @@ A great person is always putting others’ interests  ________ his own.
  > My room is just above.   
  > 我的房间就在上面。  
 
-2.*低义频：* **上述的；在上文：**  
+### 2.*低义频：* **上述的；在上文：**  
 
  > I hope what’s mentioned above might be helpful.   
  > 我希望上述内容会有帮助。  
@@ -477,7 +478,7 @@ A great person is always putting others’ interests  ________ his own.
 
 英文释义
 ---
-1.**[只用于名词前] 上面的；上述的：**  
+### 1.**[只用于名词前] 上面的；上述的：**  
 
  > for the above reasons  
  > 因为上述原因  
@@ -490,7 +491,7 @@ A great person is always putting others’ interests  ________ his own.
 
 英文释义
 ---
-1.*高义频：* **在 / 到国外；在 / 到海外：**  
+### 1.*高义频：* **在 / 到国外；在 / 到海外：**  
 
  > **go abroad**  
  > go abroad for further study  
@@ -520,7 +521,7 @@ A great person is always putting others’ interests  ________ his own.
 
 英文释义
 ---
-1.*高义频：* **突然的；意外的；粗鲁的：**  
+### 1.*高义频：* **突然的；意外的；粗鲁的：**  
 
  > **abrupt change**  
  > an abrupt change in the weather  
@@ -534,7 +535,7 @@ A great person is always putting others’ interests  ________ his own.
 
 英文释义
 ---
-1.*高义频：* **突然地；意外地**  
+### 1.*高义频：* **突然地；意外地**  
 
 
 # ***\*absence*** n
@@ -544,13 +545,13 @@ A great person is always putting others’ interests  ________ his own.
 
 英文释义
 ---
-1.*高义频：* **[C] & [U] 缺席；不在：**  
+### 1.*高义频：* **[C] & [U] 缺席；不在：**  
 
  > **absence from**  
  > He was eager to be back after more than a week’s absence from school.   
  > 他一个多星期没有去学校，急切地想回去。  
 
-2.*高义频：* **[U] 缺乏：**  
+### 2.*高义频：* **[U] 缺乏：**  
 
  > **absence of mind**  
  > Her absence of mind during driving nearly caused an accident.  
@@ -559,12 +560,12 @@ A great person is always putting others’ interests  ________ his own.
 
 固定搭配
 ---
-- ## \*in / during sb’s absence  **在某人不在时：**  
+## \*in / during sb’s absence  1.**在某人不在时：**  
 
  > In his absence I looked to see what was on his desk.   
  > 趁他不在时，我看了看他桌上有什么东西。  
 
-- ## \*in the absence of   **在缺乏…的情况下：**  
+## \*in the absence of   1.**在缺乏…的情况下：**  
 
  > In the absence of gray wolves, the deer population grew quickly.  
  > 没有了灰狼，鹿的数量迅速增长  
@@ -578,14 +579,14 @@ A great person is always putting others’ interests  ________ his own.
 
 英文释义
 ---
-1.*高义频：* **缺席的；不在的：**  
+### 1.*高义频：* **缺席的；不在的：**  
 反义词 present 
 
  > **absent from**  
  > be absent from class / work  
  > 缺课/缺勤  
 
-2.*高义频：* **缺乏的：**  
+### 2.*高义频：* **缺乏的：**  
 
  > Snow is absent in some countries.   
  > 有些国家终年无雪。  
@@ -598,7 +599,7 @@ A great person is always putting others’ interests  ________ his own.
 
 英文释义
 ---
-1.*高义频：* **心不在焉的；健忘的 (forgetful)：**  
+### 1.*高义频：* **心不在焉的；健忘的 (forgetful)：**  
 
  > Grandpa’s been getting rather absent-minded lately.   
  > 爷爷最近变得很健忘。  
@@ -611,7 +612,7 @@ A great person is always putting others’ interests  ________ his own.
 
 英文释义
 ---
-1.*高义频：* **完全的；绝对的；确实的：**  
+### 1.*高义频：* **完全的；绝对的；确实的：**  
 
  > without absolute proof   
  > 无确凿证据  
@@ -627,7 +628,7 @@ A great person is always putting others’ interests  ________ his own.
 
 英文释义
 ---
-1.*高义频：* **完全地；绝对地 (quite)：**  
+### 1.*高义频：* **完全地；绝对地 (quite)：**  
 
  > He made his reasons for resigning absolutely clear.  
  > 他把辞职的理由讲得一清二楚。  
@@ -639,7 +640,7 @@ A great person is always putting others’ interests  ________ his own.
  > 我认为你说的完全正确。  
  > 来源：外研③ – 4  
 
-2.*高义频：* **[用于强调] 确实：**  
+### 2.*高义频：* **[用于强调] 确实：**  
 
  > **absolutely nothing**  
  > When I’m reading a book, absolutely nothing can get my attention.   
@@ -656,7 +657,7 @@ A great person is always putting others’ interests  ________ his own.
 
 固定搭配
 ---
-- ## \*Absolutely!   **正是；当然：**  
+## \*Absolutely!   1.**正是；当然：**  
 
  > — They could have told us, couldn't they?  
  > 他们本来可以告诉我们的，不是吗？  
@@ -664,7 +665,7 @@ A great person is always putting others’ interests  ________ his own.
  > — Absolutely!   
  > 正是！  
 
-- ## \*Absolutely not!   **绝对不行；当然不：**  
+## \*Absolutely not!   1.**绝对不行；当然不：**  
 
  > — Do you let your kids travel alone at night?   
  > 你让自己的孩子们晚上单独外出吗？  
@@ -680,7 +681,7 @@ A great person is always putting others’ interests  ________ his own.
 
 英文释义
 ---
-1.*高义频：* **吸收**  
+### 1.*高义频：* **吸收**  
 英译 to take in and hold sth (a liquid, heat, etc.)：
 
  > A transparent object doesn’t absorb light.  
@@ -691,13 +692,13 @@ A great person is always putting others’ interests  ________ his own.
  > 一公顷森林每年可以吸收23吨二氧化碳。  
  > 来源：人教⑥ – 4  
 
-2.*低义频：* **吸纳**  
+### 2.*低义频：* **吸纳**  
 英译 to take sth into sth larger, so that it becomes part of it：
 
  > Service work absorbed a great number of women who arrived in the cities from the country.  
  > 服务业吸纳了很多从农村来到城市的妇女。  
 
-3.*高义频：* **理解；掌握**  
+### 3.*高义频：* **理解；掌握**  
 英译 to take sth into the mind and understand it(take in)：
 
  > absorb new knowledge / information  
@@ -707,13 +708,13 @@ A great person is always putting others’ interests  ________ his own.
  > 我一直忙于学习，并试图理解身边所有的新事物。  
  > 来源：北师大④ – 12  
 
-4.*低义频：* **吸引；使专心**  
+### 4.*低义频：* **吸引；使专心**  
 英译 to interest sb so much that they don’t pay attention to other things：
 
  > This work has absorbed him for years.  
  > 多年来，他一直专注于这项工作。  
 
-5.*低义频：* **缓冲：**  
+### 5.*低义频：* **缓冲：**  
 
  > Well-designed sports shoes should absorb the impact on your feet.  
  > 设计精良的运动鞋可以缓解脚部受到的冲击。  
@@ -750,7 +751,7 @@ ________ (absorb) in painting, John didn’t notice evening approaching.
 
 英文释义
 ---
-1.**专心致志的**  
+### 1.**专心致志的**  
 
 
 # ***\*abstract*** adj
@@ -760,7 +761,7 @@ ________ (absorb) in painting, John didn’t notice evening approaching.
 
 英文释义
 ---
-1.*高义频：* **抽象的；抽象派的：**  
+### 1.*高义频：* **抽象的；抽象派的：**  
 
  > **abstract idea / concept**  
  > an abstract idea / concept  
@@ -776,7 +777,7 @@ ________ (absorb) in painting, John didn’t notice evening approaching.
 
 英文释义
 ---
-1.*高义频：* **抽象派作品；摘要；梗概：**  
+### 1.*高义频：* **抽象派作品；摘要；梗概：**  
 
  > make an abstract of a speech  
  > 做演讲摘要  
@@ -789,7 +790,7 @@ ________ (absorb) in painting, John didn’t notice evening approaching.
 
 英文释义
 ---
-1.*高义频：* **荒谬的；荒唐可笑的(ridiculous)：**  
+### 1.*高义频：* **荒谬的；荒唐可笑的(ridiculous)：**  
 
  > It seems quite absurd to drive for 10 hours just for a 20-minute meeting.   
  > 开车10小时只为参加一个20分钟的会议似乎很荒唐。  
@@ -802,7 +803,7 @@ ________ (absorb) in painting, John didn’t notice evening approaching.
 
 英文释义
 ---
-1.*高义频：* **[正式用语] 大量的；充足的； 丰富的：**  
+### 1.*高义频：* **[正式用语] 大量的；充足的； 丰富的：**  
 
  > an abundant supply of fresh water   
  > 充足的淡水供应  
@@ -815,7 +816,7 @@ ________ (absorb) in painting, John didn’t notice evening approaching.
 
 英文释义
 ---
-1.*高义频：* **滥用；虐待；辱骂：**  
+### 1.*高义频：* **滥用；虐待；辱骂：**  
 
  > **abuse alcohol**  
  > abuse alcohol / one’s power  
@@ -834,7 +835,7 @@ ________ (absorb) in painting, John didn’t notice evening approaching.
 
 英文释义
 ---
-1.*高义频：* **滥用；虐待；辱骂：**  
+### 1.*高义频：* **滥用；虐待；辱骂：**  
 
  > **drug abuse**  
  > drug abuse   
@@ -848,7 +849,7 @@ ________ (absorb) in painting, John didn’t notice evening approaching.
 
 英文释义
 ---
-1.*高义频：* **大学教师**  
+### 1.*高义频：* **大学教师**  
 
 
 派生词汇
@@ -868,7 +869,7 @@ academically /ˌækə'demɪkli/ adv
 
 英文释义
 ---
-1.*高义频：* **学校的；学院的**  
+### 1.*高义频：* **学校的；学院的**  
 英译 connected with the educational activities of schools, colleges and universities：
 
  > the office of academic affairs   
@@ -881,7 +882,7 @@ academically /ˌækə'demɪkli/ adv
  > the start of the new academic year  
  > 新学年的开始  
 
-2.*高义频：* **学术的**  
+### 2.*高义频：* **学术的**  
 英译 connected with studying from books, opposite to practical skills： 
 
  > **academic subjects**  
@@ -902,12 +903,12 @@ academically /ˌækə'demɪkli/ adv
 
 英文释义
 ---
-1.*高义频：* **(某一领域的) 研究院；学会：**  
+### 1.*高义频：* **(某一领域的) 研究院；学会：**  
 
  > Chinese Academy of Sciences (CAS)   
  > 中国科学院  
 
-2.*高义频：* **专科学校；(尤指音乐、军事) 学院：**  
+### 2.*高义频：* **专科学校；(尤指音乐、军事) 学院：**  
 
  > a police / military academy   
  > 警校/军校  
@@ -915,7 +916,7 @@ academically /ˌækə'demɪkli/ adv
  > an academy of music   
  > 音乐学院  
 
-3.*低义频：* **(美国的) 私立学校**  
+### 3.*低义频：* **(美国的) 私立学校**  
 
 
 # ***\*accelerate*** v
@@ -925,7 +926,7 @@ academically /ˌækə'demɪkli/ adv
 
 英文释义
 ---
-1.*高义频：* **vt & vi （使）加速； 促进：**  
+### 1.*高义频：* **vt & vi （使）加速； 促进：**  
 
  > accelerate economic development  
  > 加快经济发展  
@@ -941,7 +942,7 @@ academically /ˌækə'demɪkli/ adv
 
 英文释义
 ---
-1.*高义频：* **[C] & [U] 口音；腔调；重音 (stress)：**  
+### 1.*高义频：* **[C] & [U] 口音；腔调；重音 (stress)：**  
 
  > the accent and intonation  
  > 重音和语调  
@@ -958,7 +959,7 @@ academically /ˌækə'demɪkli/ adv
 
 英文释义
 ---
-1.*高义频：* **接受：**  
+### 1.*高义频：* **接受：**  
 
  > **accept sb’s advice / suggestion**  
  > accept sb’s advice / suggestion  
@@ -979,12 +980,13 @@ academically /ˌækə'demɪkli/ adv
  > While I accept that he is not perfect, I do actually like the person.   
  > 我承认他不够完美，但我的确喜欢这个人。  
 
-### 辨析 accept, receive
+#### 辨析 accept, receive
 receive 表示客观上收到，accept 表示主观上愿意接受。  
+
  > She received a gift from him, but did not accept it.  
  > 她收到了他的礼物，但没有接受。  
 
-2.*高义频：* **忍受；承受**  
+### 2.*高义频：* **忍受；承受**  
 英译 to continue in a difficult situation without complaining, because you can’t change it：
 
  > **accept,the,fact,that**  
@@ -995,7 +997,7 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
  > 在我看来，人必须学会接受现实，并不断努力。  
  > 来源：2013 北京书面表达  
 
-3.*高义频：* **接纳**  
+### 3.*高义频：* **接纳**  
 英译 to allow sb to join a group, etc.：
 
  > The college I applied to has accepted me.  
@@ -1006,7 +1008,7 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
  > 我希望能成为你们夏令营中的一员。  
  > 来源：2012 全国书面表达  
 
-4.*高义频：* **承担 (责任 / 指责)**  
+### 4.*高义频：* **承担 (责任 / 指责)**  
 英译 to admit that you’re responsible or to blame for sth：
 
  > **accept the blame for**  
@@ -1040,7 +1042,7 @@ It was pouring with rain so I ______ (接受) his offer of a lift.
 
 英文释义
 ---
-1.*高义频：* **可接受的；令人满意的：**  
+### 1.*高义频：* **可接受的；令人满意的：**  
 反义词 unacceptable 
 
  > **acceptable to**  
@@ -1059,18 +1061,18 @@ It was pouring with rain so I ______ (接受) his offer of a lift.
 
 英文释义
 ---
-1.*高义频：* **[U] & [C] 接受：**  
+### 1.*高义频：* **[U] & [C] 接受：**  
 
  > Since we sent out the invitations we've received five acceptances and one refusal.  
  > 我们发出邀请后，已收到的回复是五位接受，一位推辞。  
 
-2.*低义频：* **[U] 接纳 (成为会员)：**  
+### 2.*低义频：* **[U] 接纳 (成为会员)：**  
 
  > The acceptance of new members is strictly controlled.  
  > 新成员的接纳受到严格控制。  
  > 来源： 2008 陕西  
 
-3.*低义频：* **[U] 赞同；赞成：**  
+### 3.*低义频：* **[U] 赞同；赞成：**  
 
  > He nodded in delighted acceptance.  
  > 他愉快地点头赞同。  
@@ -1085,7 +1087,7 @@ It was pouring with rain so I ______ (接受) his offer of a lift.
 
 英文释义
 ---
-1.*高义频：* **通道；入口**  
+### 1.*高义频：* **通道；入口**  
 英译 a way of reaching or entering a place：
 
  > **access to**  
@@ -1096,7 +1098,7 @@ It was pouring with rain so I ______ (接受) his offer of a lift.
  > The police gained access through a broken window.  
  > 警察从一扇破窗中钻了进去。  
 
-2.*高义频：* **使用 / 接近…的权利或机会**  
+### 2.*高义频：* **使用 / 接近…的权利或机会**  
 英译 the opportunity or right to use sth or to see sb / sth：
 
  > Each room comes with its own bathroom and Internet access.  
@@ -1126,12 +1128,12 @@ Notes:   access ≠ way, access作为名词，其含义中包含了某种动作�
 
 英文释义
 ---
-1.*低义频：* **[正式用语] 到达；进入；使用：**  
+### 1.*低义频：* **[正式用语] 到达；进入；使用：**  
 
  > The road is closed but can be accessed by emergency vehicles.   
  > 这条路封了，但是应急车辆可以通过。  
 
-2.*高义频：* **访问；获取 (计算机数据)：**  
+### 2.*高义频：* **访问；获取 (计算机数据)：**  
 
  > access the Internet   
  > 访问互联网  
@@ -1157,20 +1159,20 @@ the library.
 
 英文释义
 ---
-1.*高义频：* **易进入的；易得到的；易使用的：**  
+### 1.*高义频：* **易进入的；易得到的；易使用的：**  
 
  > Each floor has wheelchair accessible toilets.  
  > 每层都设有无障碍卫生间。  
  > 来源：2014 北京  
 
-2.*低义频：* **易懂的：**  
+### 2.*低义频：* **易懂的：**  
 
  > **accessible to**  
  > This magazine makes complex ideas attractive and accessible to children.  
  > 这本杂志使复杂的思想吸引孩子且容易被他们理解。  
  > 来源：2017 北京改  
 
-3.*低义频：* **(人) 易接近的；平易近人的**  
+### 3.*低义频：* **(人) 易接近的；平易近人的**  
 
 
 真题解析
@@ -1188,7 +1190,7 @@ Frank put the medicine in the top drawer to make sure it would not be ________ (
 
 英文释义
 ---
-1.*高义频：* **事故：**  
+### 1.*高义频：* **事故：**  
 
  > avoid / meet / cause an accident   
  > 避免/遇到/造成事故  
@@ -1201,7 +1203,7 @@ Frank put the medicine in the top drawer to make sure it would not be ________ (
  > Ken had an accident at work and had to go to hospital.  
  > 肯在工作中出了事故，不得不去医院。  
 
-2.*低义频：* **偶然的事；意外的事**  
+### 2.*低义频：* **偶然的事；意外的事**  
 英译 sth that happens unexpectedly and is not planned in advance：
 
  > The discovery was a happy accident.   
@@ -1210,15 +1212,16 @@ Frank put the medicine in the top drawer to make sure it would not be ________ (
 
 固定搭配
 ---
-- ## \*by accident  **偶然地；意外地**  
+## \*by accident  1.**偶然地；意外地**  
 反义词 on purpose 
 
  > Yesterday when I was wandering on the pavement near a park, I met an old neighbour by accident.  
  > 昨天当我正在公园附近的人行道上闲逛时，偶然遇到了一位从前的邻居。  
  > 来源：人教③-3  
 
-### 辨析 accident, incident, event
+#### 辨析 accident, incident, event
 三者都含有“事件”之意。  
+
 
 派生词汇
 ---
@@ -1239,7 +1242,7 @@ Lucy was badly hurt in a traffic a________ last week.
 
 英文释义
 ---
-1.*高义频：* **意外地；偶然地(by mistake)：**  
+### 1.*高义频：* **意外地；偶然地(by mistake)：**  
 
  > I stepped on a young man’s foot accidentally.  
  > 我不小心踩到一个年轻人的脚。  
@@ -1253,7 +1256,7 @@ Lucy was badly hurt in a traffic a________ last week.
 
 英文释义
 ---
-1.**容纳 (乘客等)**  
+### 1.**容纳 (乘客等)**  
 
 
 # ***\*accommodation*** n
@@ -1263,7 +1266,7 @@ Lucy was badly hurt in a traffic a________ last week.
 
 英文释义
 ---
-1.*高义频：* **[U] 住处；住宿； 工作场所**  
+### 1.*高义频：* **[U] 住处；住宿； 工作场所**  
 英译 a place to live, work or stay in：
 
  > The advantage of using accommodation agencies is that you will have access to a large number of accommodations.    
@@ -1291,7 +1294,7 @@ After the earthquake, the first thing the local government did was to provide __
 
 英文释义
 ---
-1.*高义频：* **陪伴；伴随：**  
+### 1.*高义频：* **陪伴；伴随：**  
 
  > Children under 14 must be accompanied by an adult.  
  > 不满14岁的孩子必须有大人陪同。  
@@ -1299,7 +1302,7 @@ After the earthquake, the first thing the local government did was to provide __
  > Thunder usually accompanies lightning.   
  > 雷声常常伴随着闪电。  
 
-2.*低义频：* **为...伴奏：**  
+### 2.*低义频：* **为...伴奏：**  
 
  > **accompanied, on**  
  > Mary sang and I accompanied her on the piano.   
@@ -1313,7 +1316,7 @@ After the earthquake, the first thing the local government did was to provide __
 
 英文释义
 ---
-1.*高义频：* **(通过努力) 完成；实现 (achieve)：**  
+### 1.*高义频：* **(通过努力) 完成；实现 (achieve)：**  
 
  > **accomplished the task**  
  > The workers were not better organized, otherwise they would have accomplished the task in half the time.  
@@ -1332,7 +1335,7 @@ accomplishment /ə'kʌmplɪʃmənt/ n
 
 英文释义
 ---
-1.**[C] 成就 (achievement)；[U] [正式用语] 完成**  
+### 1.**[C] 成就 (achievement)；[U] [正式用语] 完成**  
 
 
 # ***\*account*** n  重难点词汇
@@ -1344,7 +1347,7 @@ accomplishment /ə'kʌmplɪʃmənt/ n
 
 英文释义
 ---
-1.*高义频：* **[常用复数] 账；账目：**  
+### 1.*高义频：* **[常用复数] 账；账目：**  
 
  > an account book   
  > 账本；账簿  
@@ -1352,7 +1355,7 @@ accomplishment /ə'kʌmplɪʃmənt/ n
  > He takes care of the business and his wife keeps the accounts.   
  > 他打理生意，他太太则负责记账。  
 
-2.*高义频：* **账户；账号：**  
+### 2.*高义频：* **账户；账号：**  
 
  > **open / close an account**  
  > open / close an account  
@@ -1373,7 +1376,7 @@ accomplishment /ə'kʌmplɪʃmənt/ n
  > 我爸爸帮我开了个银行账户。  
  > 来源：2010 辽宁  
 
-3.*低义频：* **叙述；报道；描写：**  
+### 3.*低义频：* **叙述；报道；描写：**  
 
  > **eye-witness account of**  
  > an eye-witness account of a murder  
@@ -1387,19 +1390,19 @@ accomplishment /ə'kʌmplɪʃmənt/ n
 
 固定搭配
 ---
-- ## \*on account of   **因为；由于 (because of)：**  
+## \*on account of   1.**因为；由于 (because of)：**  
 
  > She was absent from school on account of illness.  
  > 她因病没有去学校。  
 
-- ## \*on no account  **决不；绝对不：**  
+## \*on no account  1.**决不；绝对不：**  
 
  > The professor warned the students that on no account should they use mobile phones in his class.  
  > 教授警告学生，在他的课上绝对不能玩手机。  
  > 来源：2019 天津  
 
 Notes: on no account置于句首，其所在的句子要用倒装语序。  
-- ## \*take account of / take ... into account  **考虑到；把…考虑进去：**  
+## \*take account of / take ... into account  1.**考虑到；把…考虑进去：**  
 
  > The company takes account of environmental issues wherever possible.   
  > 只要有可能，这家公司都会考虑到环境问题。  
@@ -1423,7 +1426,7 @@ I ________ (开了个银行账户) after I made $1,000 by doing a part-time job 
 
 固定搭配
 ---
-- ## \*account for  1.*高义频：* **(数量、比例上) 占：**  
+## \*account for  1.*高义频：* **(数量、比例上) 占：**  
 
  > It is said that body language accounts for 55 percent of a first impression while what you say just 7 percent.  
  > 据说肢体语言在第一印象中占55%，而你所说的话仅占7%。  
@@ -1449,7 +1452,7 @@ I ________ (开了个银行账户) after I made $1,000 by doing a part-time job 
 
 英文释义
 ---
-1.*高义频：* **[C] 会计 (员)； 会计师**  
+### 1.*高义频：* **[C] 会计 (员)； 会计师**  
 
 
 # ***\*accumulate*** v
@@ -1459,7 +1462,7 @@ I ________ (开了个银行账户) after I made $1,000 by doing a part-time job 
 
 英文释义
 ---
-1.*高义频：* **vt 积累 (collect)；积聚；vi 堆积：**  
+### 1.*高义频：* **vt 积累 (collect)；积聚；vi 堆积：**  
 
  > accumulate wealth / evidence  
  > 积累财富/收集证据  
@@ -1479,7 +1482,7 @@ I ________ (开了个银行账户) after I made $1,000 by doing a part-time job 
 
 英文释义
 ---
-1.*高义频：* **[U] 准确性；精确度**  
+### 1.*高义频：* **[U] 准确性；精确度**  
 
  > with accuracy   
  > 准确地  
@@ -1492,7 +1495,7 @@ I ________ (开了个银行账户) after I made $1,000 by doing a part-time job 
 
 英文释义
 ---
-1.*高义频：* **准确的；精确的**  
+### 1.*高义频：* **准确的；精确的**  
 
  > an accurate description / account / calculation   
  > 准确的描述/叙述/计算  
@@ -1513,7 +1516,7 @@ accurately /'ækjərətli/ adv
 
 英文释义
 ---
-1.**精确地, 准确地**  
+### 1.**精确地, 准确地**  
 
 
 # ***\*accusation*** n
@@ -1525,7 +1528,7 @@ accurately /'ækjərətli/ adv
 
 英文释义
 ---
-1.*高义频：* **指责；谴责；控告**  
+### 1.*高义频：* **指责；谴责；控告**  
 
 
 # ***\*accuse*** vt
@@ -1535,7 +1538,7 @@ accurately /'ækjərətli/ adv
 
 英文释义
 ---
-1.*高义频：* **指责；控告；指控：**  
+### 1.*高义频：* **指责；控告；指控：**  
 
  > the accused  
  > 被告  
@@ -1557,7 +1560,7 @@ accurately /'ækjərətli/ adv
 
 英文释义
 ---
-1.*高义频：* **使习惯于**  
+### 1.*高义频：* **使习惯于**  
 
 
 # ***\*accustomed*** adj
@@ -1569,7 +1572,7 @@ accurately /'ækjərətli/ adv
 
 英文释义
 ---
-1.*高义频：* **经常的；惯常的；习惯的：**  
+### 1.*高义频：* **经常的；惯常的；习惯的：**  
 
 - (be) accustomed to (doing) sth:
 
@@ -1598,7 +1601,7 @@ Notes: 口语中更常用 (be) used to (doing) sth。
 
 英文释义
 ---
-1.*高义频：* **疼痛 (hurt)：**  
+### 1.*高义频：* **疼痛 (hurt)：**  
 
  > **aching from**  
  > My feet were aching from standing so long.  
@@ -1613,7 +1616,7 @@ Notes: ache常与表示身体部位的单词构成合成词， 如：headache, s
 
 英文释义
 ---
-1.*高义频：* **[C] 疼痛：**  
+### 1.*高义频：* **[C] 疼痛：**  
 
  > **aches and pains**  
  > have aches and pains all over   
@@ -1630,7 +1633,7 @@ Notes: ache常与表示身体部位的单词构成合成词， 如：headache, s
 
 英文释义
 ---
-1.*高义频：* **(凭借努力) 达到 (目标、地位、标准)**  
+### 1.*高义频：* **(凭借努力) 达到 (目标、地位、标准)**  
 英译 to succeed in reaching a particular goal, status or standard, especially after much effort (attain)：
 
  > **achieve success / progress**  
@@ -1645,7 +1648,7 @@ Notes: ache常与表示身体部位的单词构成合成词， 如：headache, s
  > 为实现自己的学习目标，我曾尝试过一些有效的方法。  
  > 来源：2014 江西书面表达  
 
-2.*低义频：* **完成**  
+### 2.*低义频：* **完成**  
 英译 to succeed in doing sth or causing sth to happen (accomplish)：
 
  > No one can achieve anything without effort.  
@@ -1655,7 +1658,7 @@ Notes: ache常与表示身体部位的单词构成合成词， 如：headache, s
  > 他做成了自己以为不可能的事。  
  > 来源：2009 北京改  
 
-3.*低义频：* **获得成功**  
+### 3.*低义频：* **获得成功**  
 英译 to be successful：
 
  > He is an excellent lawyer with a good brain and a determination to achieve.   
@@ -1677,7 +1680,7 @@ Lucy has ________ (达到) all of the goals she set for herself in high school a
 
 英文释义
 ---
-1.*高义频：* **[U] 达成；完成**  
+### 1.*高义频：* **[U] 达成；完成**  
 英译 the act or process of achieving sth：
 
  > **a sense of achievement**  
@@ -1687,7 +1690,7 @@ Lucy has ________ (达到) all of the goals she set for herself in high school a
  > It is only the achievement of these goals that will finally bring lasting peace.   
  > 只有达成这些目标才能最终带来持久的和平。  
 
-2.*高义频：* **[C] 成就；功绩**  
+### 2.*高义频：* **[C] 成就；功绩**  
 
  > great scientific achievements  
  > 伟大的科学成就  
@@ -1711,7 +1714,7 @@ Handle the most important tasks first so you’ll feel a real sense of ________ 
 
 英文释义
 ---
-1.*高义频：* **酸的；酸性的**  
+### 1.*高义频：* **酸的；酸性的**  
 
 
 # ***\*acid*** n
@@ -1721,7 +1724,7 @@ Handle the most important tasks first so you’ll feel a real sense of ________ 
 
 英文释义
 ---
-1.*高义频：* **[C] & [U] 酸；酸性物质**  
+### 1.*高义频：* **[C] & [U] 酸；酸性物质**  
 
 
 # ***\*acknowledge*** vt
@@ -1731,7 +1734,7 @@ Handle the most important tasks first so you’ll feel a real sense of ________ 
 
 英文释义
 ---
-1.*高义频：* **承认**  
+### 1.*高义频：* **承认**  
 英译 to accept or admit that sth is true or exists：
 
  > acknowledge one’s error   
@@ -1744,7 +1747,7 @@ Handle the most important tasks first so you’ll feel a real sense of ________ 
  > They acknowledged (to us) that they were defeated.  
  > 他们(向我们)承认已被打败。  
 
-2.*低义频：* **向...打招呼；对...作出反应**  
+### 2.*低义频：* **向...打招呼；对...作出反应**  
 英译 to show that you have seen or noticed sb / sth or received sth：
 
  > I was standing right next to her, but she didn’t even acknowledge me.   
@@ -1753,7 +1756,7 @@ Handle the most important tasks first so you’ll feel a real sense of ________ 
  > He acknowledged the greeting with a nod.   
  > 他点头回应了问候。  
 
-3.*低义频：* **(公开) 感谢**  
+### 3.*低义频：* **(公开) 感谢**  
 英译 to publicly express thanks for help you have been given：
 
  > I should like to acknowledge all the help I have received from my family.  
@@ -1771,7 +1774,7 @@ acknowledgement /ək'nɒlɪdʒmənt/ n
 
 英文释义
 ---
-1.**[C] & [U] 承认；确认；[常用复数] 鸣谢**  
+### 1.**[C] & [U] 承认；确认；[常用复数] 鸣谢**  
 
 
 # ***\*acquaintance*** n
@@ -1781,7 +1784,7 @@ acknowledgement /ək'nɒlɪdʒmənt/ n
 
 英文释义
 ---
-1.*高义频：* **[C] & [U] 熟 悉；[C] 相识（的人）；熟人：**  
+### 1.*高义频：* **[C] & [U] 熟 悉；[C] 相识（的人）；熟人：**  
 
  > **make your acquaintance**  
  > I came to England to make your acquaintance!  
@@ -1798,14 +1801,14 @@ acknowledgement /ək'nɒlɪdʒmənt/ n
 
 英文释义
 ---
-1.*高义频：* **(经过努力) 获得；学到**  
+### 1.*高义频：* **(经过努力) 获得；学到**  
 英译 to gain sth by your own efforts, ability or behaviour：
 
  > Spare no effort to acquire knowledge and never get discouraged.  
  > 要不遗余力地获取知识，决不灰心。  
  > 来源：2015 福建书面表达改  
 
-2.*高义频：* **购得；得到**  
+### 2.*高义频：* **购得；得到**  
 英译 to obtain sth by buying or being given it：
 
  > How did the gallery come to acquire so many Picassos?  
@@ -1832,7 +1835,7 @@ D.test
 
 英文释义
 ---
-1.*高义频：* **[C] & [U] 获得； 习得；得到的东西：**  
+### 1.*高义频：* **[C] & [U] 获得； 习得；得到的东西：**  
 
  > a seminar on second language acquisition.  
  > 关于第二语言习得的研讨会。  
@@ -1845,7 +1848,7 @@ D.test
 
 英文释义
 ---
-1.*高义频：* **n [C] 英亩 (约4 047㎡)**  
+### 1.*高义频：* **n [C] 英亩 (约4 047㎡)**  
 
 
 # ***\*acrobatics*** n
@@ -1855,7 +1858,7 @@ D.test
 
 英文释义
 ---
-1.**杂技**  
+### 1.**杂技**  
 
 
 # ***\*across*** prep
@@ -1865,7 +1868,7 @@ D.test
 
 英文释义
 ---
-1.*高义频：* **(从一边到另一边) 横过；穿过：**  
+### 1.*高义频：* **(从一边到另一边) 横过；穿过：**  
 
  > walk across the bridge / street / road  
  > 过桥/街/马路  
@@ -1878,14 +1881,15 @@ D.test
  > 你觉得这衬衫的肩部是不是太紧了？  
  > 来源：2012 北京  
 
-### 辨析 across , through
+#### 辨析 across , through
 二者都有“穿过”的意思。  
-2.*高义频：* **在…另一边；在…对面：**  
+
+### 2.*高义频：* **在…另一边；在…对面：**  
 
  > At the front door stood a five-year-old boy from across the street.   
  > 前门站着一个来自街对面的5岁男孩。  
 
-3.*低义频：* **从 / 在 / 到...各处：**  
+### 3.*低义频：* **从 / 在 / 到...各处：**  
 
  > Nelson Mandela is respected and admired across the world.  
  > 纳尔逊·曼德拉在世界各地受到尊重和敬仰。  
@@ -1909,12 +1913,12 @@ D.across; through
 
 英文释义
 ---
-1.*高义频：* **横过；在 / 向对面：**  
+### 1.*高义频：* **横过；在 / 向对面：**  
 
  > I got into the boat and rowed across.  
  > 我上船划了过去。  
 
-2.*高义频：* **宽；横：**  
+### 2.*高义频：* **宽；横：**  
 
  > The river is one mile across.  
  > 这条河宽一英里。  
@@ -1927,12 +1931,12 @@ D.across; through
 
 英文释义
 ---
-1.*高义频：* **行动；做事：**  
+### 1.*高义频：* **行动；做事：**  
 
  > Think twice before you act.  
  > 三思而后行。  
 
-2.*高义频：* **举止；表现**  
+### 2.*高义频：* **举止；表现**  
 英译 to behave in a particular way (behave)：
 
  > Those who have more money than sense may sometimes act foolishly.  
@@ -1943,14 +1947,14 @@ D.across; through
  > I was in great pain at that moment, but I tried to act as if nothing had happened.    
  > 那一刻我感到非常疼痛，但我尽力表现得好像什么也没发生过似的。  
 
-3.*高义频：* **假装**  
+### 3.*高义频：* **假装**  
 英译 to pretend to have feelings, qualities, etc. that are different from your true ones：
 
  > **act the fool**  
  > Don’t act the fool!  
  > 别装傻！  
 
-4.*高义频：* **演 (戏)；扮演 (角色)：**  
+### 4.*高义频：* **演 (戏)；扮演 (角色)：**  
 
  > He had always wanted to act in films, so he moved to Hollywood.   
  > 他一直想演电影，于是搬到了好莱坞。  
@@ -1962,12 +1966,12 @@ D.across; through
 
 固定搭配
 ---
-- ## \*act as  **担任；充当；起…作用：**  
+## \*act as  1.**担任；充当；起…作用：**  
 
  > A trained dog can act as a guide to a blind person.  
  > 经过训练的狗可以充当盲人的向导。  
 
-- ## \*act on  1.*高义频：* **按照...行事(act upon)：**  
+## \*act on  1.*高义频：* **按照...行事(act upon)：**  
 
  > Why didn’t you act on her suggestion?   
  > 你为什么不按照她的建议来做呢？  
@@ -1977,7 +1981,7 @@ D.across; through
  > Alcohol acts quickly on the brain.   
  > 酒精对大脑迅速产生影响。  
 
-- ## \*act out   **把…表演出来；将…付诸行动；充当：**  
+## \*act out   1.**把…表演出来；将…付诸行动；充当：**  
 
  > act out a story / dialogue   
  > 把故事/对话表演出来  
@@ -2002,7 +2006,7 @@ We went to Canada to travel and my cousin acted ________ our guide.
 
 英文释义
 ---
-1.*高义频：* **行动；行为；作为：**  
+### 1.*高义频：* **行动；行为；作为：**  
 
  > **act of**  
  > an act of kindness  
@@ -2012,24 +2016,24 @@ We went to Canada to travel and my cousin acted ________ our guide.
  > 别担心，彼得会告诉你如何将想法变成行动。  
  > 来源：2010 辽宁  
 
-2.*高义频：* **法令；条例：**  
+### 2.*高义频：* **法令；条例：**  
 
  > the Civil Rights Act   
  > 民权法案  
 
-3.*高义频：* **[用单数] 装模作样的行为：**  
+### 3.*高义频：* **[用单数] 装模作样的行为：**  
 
  > **put on an act**  
  > Be natural. Don’t feel you have to put on an act.   
  > 自然点，不必装模作样。  
 
-4.*低义频：* **(戏剧等的) 一幕：**  
+### 4.*低义频：* **(戏剧等的) 一幕：**  
 
  > Very short plays are often called one-act plays.  
  > 非常短的戏剧常被称为独幕剧。  
  > 来源：译林⑥ – 1  
 
-5.*低义频：* **一段表演；表演者：**  
+### 5.*低义频：* **一段表演；表演者：**  
 
  > **a circus / comedy / magic act**  
  > a circus / comedy / magic act  
@@ -2047,7 +2051,7 @@ We went to Canada to travel and my cousin acted ________ our guide.
 
 英文释义
 ---
-1.*高义频：* **[U] & [C] 行动；行为：**  
+### 1.*高义频：* **[U] & [C] 行动；行为：**  
 
  > He is a man of action.    
  > 他是一个实干的人。  
@@ -2060,13 +2064,13 @@ We went to Canada to travel and my cousin acted ________ our guide.
  > 只有我们言行一致的时候，才能把我们想做的任何事做得不同凡响。  
  > 来源：2013 江苏  
 
-2.*高义频：* **诉讼；起诉：**  
+### 2.*高义频：* **诉讼；起诉：**  
 
  > **taking legal action against**  
  > He is considering taking legal action against the company.  
  > 他正考虑起诉这家公司。  
 
-3.*低义频：* **[U] 作用；影响：**  
+### 3.*低义频：* **[U] 作用；影响：**  
 
  > **action of,on**  
  > the action of sunlight on the skin  
@@ -2075,16 +2079,16 @@ We went to Canada to travel and my cousin acted ________ our guide.
 
 固定搭配
 ---
-- ## \*in action   **在活动中；在运转**  
+## \*in action   1.**在活动中；在运转**  
 
  > photos of ski jumpers in action  
  > 跳台滑雪者跳下时的照片  
 
-- ## \*out of action   **失去作用；停止运转**  
+## \*out of action   1.**失去作用；停止运转**  
 
-- ## \*put ... in action  **使…行动起来；使…开始工作；使…起作用**  
+## \*put ... in action  1.**使…行动起来；使…开始工作；使…起作用**  
 
-- ## \*take action   **采取行动：**  
+## \*take action   1.**采取行动：**  
 
  > We must take action to fight pollution.   
  > 我们必须采取行动防治污染。  
@@ -2097,7 +2101,7 @@ We went to Canada to travel and my cousin acted ________ our guide.
 
 英文释义
 ---
-1.**激活；使活动；起动**  
+### 1.**激活；使活动；起动**  
 
 
 # ***\*active*** adj
@@ -2107,7 +2111,7 @@ We went to Canada to travel and my cousin acted ________ our guide.
 
 英文释义
 ---
-1.*高义频：* **(行动、思想) 活跃的：**  
+### 1.*高义频：* **(行动、思想) 活跃的：**  
 反义词 inactive 
 
  > a child with a very active imagination   
@@ -2117,7 +2121,7 @@ We went to Canada to travel and my cousin acted ________ our guide.
  > 作为一个活跃的年轻人，我喜欢体育运动和户外活动。  
  > 来源：2011 辽宁书面表达  
 
-2.*高义频：* **积极 (参与) 的：**  
+### 2.*高义频：* **积极 (参与) 的：**  
 
  > **take an active part in**  
  > Encourage students to take an active part in discussions.  
@@ -2132,7 +2136,7 @@ We went to Canada to travel and my cousin acted ________ our guide.
  > She has been active in local education for many years.  
  > 多年来，她一直积极参与当地的教育事业。  
 
-3.*低义频：* **起作用的；(火山等) 活的：**  
+### 3.*低义频：* **起作用的；(火山等) 活的：**  
 
  > medicine that is active against cold   
  > 抗感冒药  
@@ -2141,7 +2145,7 @@ We went to Canada to travel and my cousin acted ________ our guide.
  > an active volcano   
  > 活火山  
 
-4.*低义频：* **[语法] 主动的：**  
+### 4.*低义频：* **[语法] 主动的：**  
 反义词 passive 
 
  > “Tom told me.” is an active sentence, and “I was told by Tom.” is passive.  
@@ -2162,7 +2166,7 @@ While a person is asleep, a part of his brain is still _________(活跃的).
 
 英文释义
 ---
-1.*高义频：* **活跃地；积极地：**  
+### 1.*高义频：* **活跃地；积极地：**  
 
  > She was actively looking for a job.  
  > 她正积极找工作。  
@@ -2182,7 +2186,7 @@ It is good for elderly people to be ________ (active) involved in community serv
 
 英文释义
 ---
-1.*高义频：* **[C] [常用单数] (出于爱好的) 活动**  
+### 1.*高义频：* **[C] [常用单数] (出于爱好的) 活动**  
 英译 a thing that you do for interest or pleasure：
 
  > **outdoor activities**  
@@ -2195,13 +2199,13 @@ It is good for elderly people to be ________ (active) involved in community serv
  > After-class activities are treated as an essential part of school life.   
  > 课外活动被视为学校生活不可或缺的一部分。  
 
-2.*高义频：* **[C] & [U] (有组织的，有目的的) 活动**  
+### 2.*高义频：* **[C] & [U] (有组织的，有目的的) 活动**  
 英译 a thing that you do in order to achieve a particular aim：
 
  > fund-raising activities  
  > 筹款活动  
 
-3.*高义频：* **[U] (正在进行的或正在做的) 活动**  
+### 3.*高义频：* **[U] (正在进行的或正在做的) 活动**  
 英译 a situation in which sth is happening or a lot of things are happening or being done：
 
  > The streets were noisy and full of activity.   
@@ -2218,7 +2222,7 @@ It is good for elderly people to be ________ (active) involved in community serv
 
 英文释义
 ---
-1.*高义频：* **[C] 男演员；行动者**  
+### 1.*高义频：* **[C] 男演员；行动者**  
 
 
 # ***\*actress*** n
@@ -2228,7 +2232,7 @@ It is good for elderly people to be ________ (active) involved in community serv
 
 英文释义
 ---
-1.*高义频：* **[C] 女演员**  
+### 1.*高义频：* **[C] 女演员**  
 
 
 # ***\*actual*** adj
@@ -2238,7 +2242,7 @@ It is good for elderly people to be ________ (active) involved in community serv
 
 英文释义
 ---
-1.*高义频：* **实际的； 真实的：**  
+### 1.*高义频：* **实际的； 真实的：**  
 
  > The actual cost was much higher than we had expected.   
  > 实际费用比我们预料的高得多。  
@@ -2255,7 +2259,7 @@ It is good for elderly people to be ________ (active) involved in community serv
 
 英文释义
 ---
-1.*高义频：* **实际上；事实上：**  
+### 1.*高义频：* **实际上；事实上：**  
 
 - [强调真实情况]
 
@@ -2292,7 +2296,7 @@ It is good for elderly people to be ________ (active) involved in community serv
 
 英文释义
 ---
-1.**针刺疗法**  
+### 1.**针刺疗法**  
 
 
 # ***\*acupuncturist*** n
@@ -2302,7 +2306,7 @@ It is good for elderly people to be ________ (active) involved in community serv
 
 英文释义
 ---
-1.**针炙师，针疗医师**  
+### 1.**针炙师，针疗医师**  
 
 
 # ***\*acute*** adj
@@ -2312,24 +2316,24 @@ It is good for elderly people to be ________ (active) involved in community serv
 
 英文释义
 ---
-1.*低义频：* **敏锐的；灵敏的：**  
+### 1.*低义频：* **敏锐的；灵敏的：**  
 
  > His hearing is so acute that he can even hear a pin drop.    
  > 他的听觉非常灵敏，就是一根针落地他也能听到。  
  > 来源：人教⑩ – 4  
 
-2.*高义频：* **剧烈的；强烈的：**  
+### 2.*高义频：* **剧烈的；强烈的：**  
 
  > **acute pain**  
  > acute pain / embarrassment   
  > 剧痛/极度的尴尬  
 
-3.*低义频：* **(事态) 严重的； (疾病) 急性的：**  
+### 3.*低义频：* **(事态) 严重的； (疾病) 急性的：**  
 
  > an acute shortage of food   
  > 食物的严重匮乏  
 
-4.*低义频：* **（数学）锐角的**  
+### 4.*低义频：* **（数学）锐角的**  
 
 
 # ***\*ad*** n
@@ -2339,7 +2343,7 @@ It is good for elderly people to be ________ (active) involved in community serv
 
 英文释义
 ---
-1.*高义频：* **[C][非正式用语]广告 (advertisement)**  
+### 1.*高义频：* **[C][非正式用语]广告 (advertisement)**  
 
 
 # ***\*adapt*** v  重难点词汇
@@ -2349,7 +2353,7 @@ It is good for elderly people to be ________ (active) involved in community serv
 
 英文释义
 ---
-1.*高义频：* **vt & vi (使) 适应 (adjust)：**  
+### 1.*高义频：* **vt & vi (使) 适应 (adjust)：**  
 
 - adapt (oneself) to sth:
 
@@ -2357,7 +2361,7 @@ It is good for elderly people to be ________ (active) involved in community serv
  > 随着时间的推移，我逐渐适应了学校生活。  
  > 来源：2011 广东书面表达  
 
-2.*高义频：* **[常用于被动语态] 改编；改写：**  
+### 2.*高义频：* **[常用于被动语态] 改编；改写：**  
 
  > **adapted from**  
  > This new film is said to be adapted from a novel by Jane Austen.   
@@ -2383,7 +2387,7 @@ The good thing about children is that they adapt very easily ________ new enviro
 
 英文释义
 ---
-1.*高义频：* **[C] & [U] 适应； 改编；改编的作品**  
+### 1.*高义频：* **[C] & [U] 适应； 改编；改编的作品**  
 
 
 # ***\*add*** v
@@ -2393,7 +2397,7 @@ The good thing about children is that they adapt very easily ________ new enviro
 
 英文释义
 ---
-1.*高义频：* **增添；增加：**  
+### 1.*高义频：* **增添；增加：**  
 
  > If the tea is too strong, add some more water.   
  > 茶若太浓，就再加些水。  
@@ -2403,13 +2407,13 @@ The good thing about children is that they adapt very easily ________ new enviro
  > 粗话、辱骂和指责只会火上浇油。  
  > 来源：2012 浙江  
 
-2.*高义频：* **vi & vt (使) 相加：**  
+### 2.*高义频：* **vi & vt (使) 相加：**  
 
  > **Add,7,and,5,together**  
  > Add 7 and 5 ( together ) to make 12.   
  > 7加5等于12。  
 
-3.*高义频：* **补充说：**  
+### 3.*高义频：* **补充说：**  
 
  > “And don’t be late,” she added.  
  > “别迟到了，”她补充道。  
@@ -2420,18 +2424,18 @@ The good thing about children is that they adapt very easily ________ new enviro
 
 固定搭配
 ---
-- ## \*add to   **增加：**  
+## \*add to   1.**增加：**  
 
  > Colorful umbrellas add to a lively atmosphere in the summer streets.   
  > 各种颜色的伞给夏日街头平添了活泼的气氛。  
 
-- ## \*add up  **把…加起来；合计：**  
+## \*add up  1.**把…加起来；合计：**  
 
  > Add up your score and see how many points you get.  
  > 把你的分数加起来，看看你得多少分。  
  > 来源： 人教① – 1  
 
-- ## \*add up to   **合计达；结果是：**  
+## \*add up to   1.**合计达；结果是：**  
 
  > His debts added up to $5,000.   
  > 他的欠债合计达到5000美元。  
@@ -2455,7 +2459,7 @@ The engine of the ship was out of order and the bad weather added ________ the h
 
 英文释义
 ---
-1.*高义频：* **[C] 吸毒上瘾的人；对…着迷的人：**  
+### 1.*高义频：* **[C] 吸毒上瘾的人；对…着迷的人：**  
 
  > **drug addict**  
  > a drug addict  
@@ -2472,7 +2476,7 @@ The engine of the ship was out of order and the bad weather added ________ the h
 
 英文释义
 ---
-1.*高义频：* **上瘾的；入迷的：**  
+### 1.*高义频：* **上瘾的；入迷的：**  
 
 - (be) addicted to (doing) sth:
 
@@ -2490,7 +2494,7 @@ The engine of the ship was out of order and the bad weather added ________ the h
 
 英文释义
 ---
-1.*高义频：* **[U] & [C]上瘾；热衷：**  
+### 1.*高义频：* **[U] & [C]上瘾；热衷：**  
 
  > **drug / alcohol / Internet / online shopping addiction**  
  > drug / alcohol / Internet / online shopping addiction  
@@ -2509,7 +2513,7 @@ The engine of the ship was out of order and the bad weather added ________ the h
 
 英文释义
 ---
-1.**（药物等）上瘾的**  
+### 1.**（药物等）上瘾的**  
 
 
 # ***\*addition*** n
@@ -2519,7 +2523,7 @@ The engine of the ship was out of order and the bad weather added ________ the h
 
 英文释义
 ---
-1.*高义频：* **[U] 加法；增加：**  
+### 1.*高义频：* **[U] 加法；增加：**  
 
  > The sign " + " stands for addition.   
  > 符号“＋”代表加法。  
@@ -2528,7 +2532,7 @@ The engine of the ship was out of order and the bad weather added ________ the h
  > The expenses of the household, with the addition of a second child, were heavy.  
  > 多了个孩子，家庭开销大了。  
 
-2.*高义频：* **[C] 增加的人 / 物；附加物：**  
+### 2.*高义频：* **[C] 增加的人 / 物；附加物：**  
 
  > **addition to**  
  > I love roses, and I think they make a beautiful addition to any garden.   
@@ -2537,12 +2541,12 @@ The engine of the ship was out of order and the bad weather added ________ the h
 
 固定搭配
 ---
-- ## \*in addition   **另外；加之：**  
+## \*in addition   1.**另外；加之：**  
 
  > The company provides cheap Internet access. In addition, it makes shareware freely available.   
  > 该公司提供廉价的互联网接入服务。此外，它还免费提供共享软件。  
 
-- ## \*in addition to   **除…之外 (还)：**  
+## \*in addition to   1.**除…之外 (还)：**  
 
  > In addition to reading for knowledge, we read for fun and inspiration.  
  > 我们读书除了为获取知识外，还可以得到乐趣和灵感。  
@@ -2568,7 +2572,7 @@ In addition________the school, the village has a clinic, which was also built wi
 
 英文释义
 ---
-1.**另外；同时；此外**  
+### 1.**另外；同时；此外**  
 
 
 # ***\*address*** n  重难点词汇
@@ -2580,7 +2584,7 @@ In addition________the school, the village has a clinic, which was also built wi
 
 英文释义
 ---
-1.*高义频：* **地址；通讯处：**  
+### 1.*高义频：* **地址；通讯处：**  
 
  > home/email/delivery address  
  > 住址/电子邮箱地址/收货地址  
@@ -2588,7 +2592,7 @@ In addition________the school, the village has a clinic, which was also built wi
  > Please ask him to leave his address.   
  > 请让他留下地址。  
 
-2.*低义频：* **(正式的) 演讲**  
+### 2.*低义频：* **(正式的) 演讲**  
 英译 a formal speech：
 
  > **gave / delivered an address**  
@@ -2610,7 +2614,7 @@ Fill in the form with your name, home a ________, and phone number.
 
 英文释义
 ---
-1.*高义频：* **在…上写姓名、地址：**  
+### 1.*高义频：* **在…上写姓名、地址：**  
 
  > Please address the letter for me.   
  > 请替我在信上写地址。  
@@ -2619,7 +2623,7 @@ Fill in the form with your name, home a ________, and phone number.
  > That letter was addressed to me.  
  > 那封信是寄给我的。  
 
-2.*低义频：* **[正式用语] 对...演说 / 演讲；对...说话：**  
+### 2.*低义频：* **[正式用语] 对...演说 / 演讲；对...说话：**  
 
  > **address,a,meeting**  
  > address a meeting   
@@ -2628,13 +2632,13 @@ Fill in the form with your name, home a ________, and phone number.
  > I was surprised when he addressed me in fluent English.  
  > 他用流利的英语和我说话时我很惊讶。  
 
-3.*低义频：* **称呼：**  
+### 3.*低义频：* **称呼：**  
 
  > The Swiss tend to be formal and address each other by last name.  
  > 瑞士人往往比较庄重，相互之间用姓氏称呼彼此。  
  > 来源：2014 浙江  
 
-4.*低义频：* **[正式用语] 设法解决；处理**  
+### 4.*低义频：* **[正式用语] 设法解决；处理**  
 英译 to try to deal with a problem：
 
  > **address a problem / question**  
@@ -2656,7 +2660,7 @@ Fill in the form with your name, home a____________, and phone number.
 
 英文释义
 ---
-1.*高义频：* **足够的；充分的；合乎需要的：**  
+### 1.*高义频：* **足够的；充分的；合乎需要的：**  
 英译 enough in quantity or good enough in quality for a particular purpose
 反义词 inadequate 
 
@@ -2686,7 +2690,7 @@ adequately  /'ædɪkwətli/ adv
 
 英文释义
 ---
-1.*高义频：* **调整；调节：**  
+### 1.*高义频：* **调整；调节：**  
 
  > adjust the indoor temperature   
  > 调节室内温度  
@@ -2695,7 +2699,7 @@ adequately  /'ædɪkwətli/ adv
  > Watch out for the sharp bends and adjust your speed accordingly.  
  > 当心急转弯并相应调整速度。  
 
-2.*高义频：* **(使) 适应；(使) 习惯 (adapt)：**  
+### 2.*高义频：* **(使) 适应；(使) 习惯 (adapt)：**  
 
  > Over the years, we all learned to adjust and to become more comfortable with each other.   
  > 几年来，我们都学会了适应，学会了彼此宽容。  
@@ -2733,7 +2737,7 @@ adjustable  /ə'dʒʌstəbl/ adj
 
 英文释义
 ---
-1.**可调整的,可调节的**  
+### 1.**可调整的,可调节的**  
 
 
 # ***\*adjustment*** n
@@ -2743,7 +2747,7 @@ adjustable  /ə'dʒʌstəbl/ adj
 
 英文释义
 ---
-1.**调整；调节；适应：**  
+### 1.**调整；调节；适应：**  
 
  > **make,adjustment,to_2**  
  > I tried to make the necessary adjustment to this new situation.  
@@ -2769,7 +2773,7 @@ D.achievements
 
 英文释义
 ---
-1.*高义频：* **[U] (公司或机构的) 管理；行政；[与the连用] 行政部门：**  
+### 1.*高义频：* **[U] (公司或机构的) 管理；行政；[与the连用] 行政部门：**  
 
  > the university administration   
  > 大学行政部门  
@@ -2777,7 +2781,7 @@ D.achievements
  > An executive should be experienced in administration.  
  > 行政主管应有管理经验。  
 
-2.*低义频：* **[C] 政府：**  
+### 2.*低义频：* **[C] 政府：**  
 
  > the Obama Administration’s foreign policies  
  > 奥巴马政府的外交政策  
@@ -2790,7 +2794,7 @@ D.achievements
 
 英文释义
 ---
-1.*高义频：* **行政的；管理的**  
+### 1.*高义频：* **行政的；管理的**  
 
 
 # ***\*admirable*** adj
@@ -2800,7 +2804,7 @@ D.achievements
 
 英文释义
 ---
-1.*高义频：* **[正式用语] 令人钦佩的；值得赞美的；绝妙的：**  
+### 1.*高义频：* **[正式用语] 令人钦佩的；值得赞美的；绝妙的：**  
 
  > While still at primary school, Rowan had already shown admirable acting talent.  
  > 还在上小学时，罗恩就已经表现出令人赞叹的表演天分。  
@@ -2814,7 +2818,7 @@ D.achievements
 
 英文释义
 ---
-1.*高义频：* **钦佩；羡慕；赞美**  
+### 1.*高义频：* **钦佩；羡慕；赞美**  
 英译 to respect or like sb / sth very much：
 
  > I admire your courage.   
@@ -2825,7 +2829,7 @@ D.achievements
  > Everybody admires him for his fine sense of humour.  
  > 人人都钦佩他那绝妙的幽默感。  
 
-2.*高义频：* **欣赏；观赏**  
+### 2.*高义频：* **欣赏；观赏**  
 英译 to look at sth with pleasure：
 
  > China and Japan have mid-autumn festivals, when people admire the moon and in China, enjoy mooncakes.   
@@ -2844,7 +2848,7 @@ admiration /ˌædmə'reɪʃn/ n
 
 英文释义
 ---
-1.*高义频：* **[U] & [C] 接纳；进入权；准许入会 / 学：**  
+### 1.*高义频：* **[U] & [C] 接纳；进入权；准许入会 / 学：**  
 
  > Admission by ticket.   
  > 凭票入场。  
@@ -2856,13 +2860,13 @@ admiration /ˌædmə'reɪʃn/ n
  > the university admissions policy / office  
  > 大学招生政策 / 招生办  
 
-2.*低义频：* **[C] [常作单数] 承认；供认：**  
+### 2.*低义频：* **[C] [常作单数] 承认；供认：**  
 
  > **admission of**  
  > an admission of a mistake / failure  
  > 认错 / 承认失败  
 
-3.*低义频：* **入场费**  
+### 3.*低义频：* **入场费**  
 
  > **admission charges / prices**  
  > admission charges / prices  
@@ -2876,7 +2880,7 @@ admiration /ˌædmə'reɪʃn/ n
 
 英文释义
 ---
-1.*高义频：* **容许...进入**  
+### 1.*高义频：* **容许...进入**  
 英译 to allow sb / sth to enter a place：
 
  > A hole in the top of the roof admitted the light.  
@@ -2887,7 +2891,7 @@ admiration /ˌædmə'reɪʃn/ n
  > Only ticket-holders will be admitted to / into the stadium.   
  > 持票者方可进入体育场。  
 
-2.*低义频：* **接纳；招收**  
+### 2.*低义频：* **接纳；招收**  
 英译 to allow sb to become a member of a club, a school, etc.：
 
  > **be admiitted to**  
@@ -2899,7 +2903,7 @@ admiration /ˌædmə'reɪʃn/ n
  > 我们学校的乒乓球队正在招收新队员。  
  > 来源：2017 全国书面表达  
 
-3.*高义频：* **承认**  
+### 3.*高义频：* **承认**  
 英译 to agree, often unwillingly, that sth is true：
 
  > “I can’t sing at all,” he freely / openly / frankly admitted.  
@@ -2917,7 +2921,7 @@ admiration /ˌædmə'reɪʃn/ n
  > 尽管我不太喜欢这位作者，但不得不承认他的书还是很激动人心。  
  > 来源：2014 山东  
 
-4.*高义频：* **供认**  
+### 4.*高义频：* **供认**  
 英译 to say that you have done sth wrong or illegal：
 
  > **admit,to_2**  
@@ -2951,7 +2955,7 @@ If you leave the club, you will not ________ (admit)back in.
 
 英文释义
 ---
-1.*高义频：* **[U] 青春期；青春**  
+### 1.*高义频：* **[U] 青春期；青春**  
 
 
 # ***\*adolescent*** adj
@@ -2961,7 +2965,7 @@ If you leave the club, you will not ________ (admit)back in.
 
 英文释义
 ---
-1.*高义频：* **青春期的；青少年的**  
+### 1.*高义频：* **青春期的；青少年的**  
 
 
 # ***\*adolescent*** n
@@ -2971,7 +2975,7 @@ If you leave the club, you will not ________ (admit)back in.
 
 英文释义
 ---
-1.*高义频：* **[C] 青少年**  
+### 1.*高义频：* **[C] 青少年**  
 
 
 # ***\*adopt*** v
@@ -2981,7 +2985,7 @@ If you leave the club, you will not ________ (admit)back in.
 
 英文释义
 ---
-1.*高义频：* **收养；领养：**  
+### 1.*高义频：* **收养；领养：**  
 
  > adopt an orphan / a dog  
  > 收养孤儿/狗  
@@ -2989,7 +2993,7 @@ If you leave the club, you will not ________ (admit)back in.
  > The couple are unable to have children of their own, but hope to adopt.   
  > 这对夫妇自己不能生育，但希望领养孩子。  
 
-2.*高义频：* **采用；采纳**  
+### 2.*高义频：* **采用；采纳**  
 英译 to take and use sth：
 
  > adopt a suggestion / view   
@@ -3020,7 +3024,7 @@ adopted  /ə'dɑːptɪd/ adj
 
 英文释义
 ---
-1.**讨人喜欢的；可爱的**  
+### 1.**讨人喜欢的；可爱的**  
 
 
 # ***\*adore*** vt
@@ -3030,7 +3034,7 @@ adopted  /ə'dɑːptɪd/ adj
 
 英文释义
 ---
-1.*高义频：* **崇拜；敬重；非常喜欢：**  
+### 1.*高义频：* **崇拜；敬重；非常喜欢：**  
 
  > I adore you more than anything else in the whole world.   
  > 我深爱您胜于世界上的一切。  
@@ -3044,7 +3048,7 @@ adopted  /ə'dɑːptɪd/ adj
 
 英文释义
 ---
-1.*高义频：* **[C] 成年人**  
+### 1.*高义频：* **[C] 成年人**  
 
 
 # ***\*adult*** adj
@@ -3054,7 +3058,7 @@ adopted  /ə'dɑːptɪd/ adj
 
 英文释义
 ---
-1.**成年的；成熟的**  
+### 1.**成年的；成熟的**  
 
 
 # ***\*advance*** v
@@ -3064,13 +3068,13 @@ adopted  /ə'dɑːptɪd/ adj
 
 英文释义
 ---
-1.*高义频：* **(尤指士兵) 前进；向前移动：**  
+### 1.*高义频：* **(尤指士兵) 前进；向前移动：**  
 
  > **advanced across**  
  > The army advanced across the plain.   
  > 军队前进穿过平原。  
 
-2.*高义频：* **(使) 进展；(使) 进步：**  
+### 2.*高义频：* **(使) 进展；(使) 进步：**  
 
  > We have advanced greatly / significantly / considerably in our knowledge of the universe.  
  > 我们对宇宙的认识取得了很大的进步。  
@@ -3078,7 +3082,7 @@ adopted  /ə'dɑːptɪd/ adj
  > This research has done much to advance our understanding of language learning.   
  > 这项研究非常有助于我们提高对语言学习的认识。  
 
-3.*高义频：* **(时间) 提前；(价格) 上涨；预支 (钱)：**  
+### 3.*高义频：* **(时间) 提前；(价格) 上涨；预支 (钱)：**  
 
  > The date of the meeting was advanced from July 10 to July 1.   
  > 会议日期已从7月10日提早到7月1日。  
@@ -3086,7 +3090,7 @@ adopted  /ə'dɑːptɪd/ adj
  > We are willing to advance the money to you / advance you the money.  
  > 我们愿意把钱预支给你。  
 
-4.*低义频：* **提出：**  
+### 4.*低义频：* **提出：**  
 
  > advance an idea / a theory / a plan  
  > 提出想法 / 理论 / 计划  
@@ -3099,9 +3103,9 @@ adopted  /ə'dɑːptɪd/ adj
 
 英文释义
 ---
-1.*高义频：* **[U] 前进**  
+### 1.*高义频：* **[U] 前进**  
 
-2.*高义频：* **[C] 进步；进展：**  
+### 2.*高义频：* **[C] 进步；进展：**  
 
  > make great advances   
  > 取得很大进展  
@@ -3115,7 +3119,7 @@ adopted  /ə'dɑːptɪd/ adj
  > 说出这段时间的三项科技进步。  
  > 来源：外研⑧ – 6  
 
-3.*低义频：* **[C] [常用单数] 预付款：**  
+### 3.*低义频：* **[C] [常用单数] 预付款：**  
 
  > pay sb a $500 advance   
  > 预付某人500美元  
@@ -3123,7 +3127,7 @@ adopted  /ə'dɑːptɪd/ adj
 
 固定搭配
 ---
-- ## \*in advance (of )   **提前 (于…)；预先 (于…)；超前于：**  
+## \*in advance (of )   1.**提前 (于…)；预先 (于…)；超前于：**  
 
  > Thank you in advance.  
  > 先行致谢。  
@@ -3149,7 +3153,7 @@ This meeting room is a non-smoking area. I would like to warn you _______ advanc
 
 英文释义
 ---
-1.*高义频：* **[只用于名词前] 预先的：**  
+### 1.*高义频：* **[只用于名词前] 预先的：**  
 
  > Advance reservations are / booking is required,  
  > 需要提前预订。  
@@ -3166,14 +3170,14 @@ This meeting room is a non-smoking area. I would like to warn you _______ advanc
 
 英文释义
 ---
-1.*高义频：* **先进的；高级的**  
+### 1.*高义频：* **先进的；高级的**  
 英译 very modern and highly developed：
 
  > Thanks to the advanced technology, we live in an age of bettered communication.  
  > 多亏了先进技术，我们生活在通讯更通畅的年代。  
  > 来源：2015 北京  
 
-2.*高义频：* **(课程) 高深的；高级的**  
+### 2.*高义频：* **(课程) 高深的；高级的**  
 英译 (of a course of study) at a high or difficult level：
 
  > Oxford Advanced Learner’s Dictionary  
@@ -3192,7 +3196,7 @@ This meeting room is a non-smoking area. I would like to warn you _______ advanc
 
 英文释义
 ---
-1.*高义频：* **有利条件；优势：**  
+### 1.*高义频：* **有利条件；优势：**  
 英译 sth that may help you to do better than others：
 
  > Experience in teaching is an advantage but not specially required.   
@@ -3206,7 +3210,7 @@ This meeting room is a non-smoking area. I would like to warn you _______ advanc
  > Younger workers tend to be at an advantage (= have an advantage) when applying for jobs.  
  > 较年轻的工人在申请工作时更有优势。  
 
-2.*高义频：* **好处；优点**  
+### 2.*高义频：* **好处；优点**  
 英译 a good or useful quality or condition that sth has：
 
  > **big / considerable / great advantage**  
@@ -3220,9 +3224,9 @@ This meeting room is a non-smoking area. I would like to warn you _______ advanc
 
 固定搭配
 ---
-- ## \*be / work to sb's advantage  **对某人有利**  
+## \*be / work to sb's advantage  1.**对某人有利**  
 
-- ## \*take advantage of   **利用：**  
+## \*take advantage of   1.**利用：**  
 
  > Parents should actively urge their children to take advantage of the opportunity to join sports teams.  
  > 父母应积极催促孩子利用这一机会参加运动队。  
@@ -3249,13 +3253,13 @@ For a goalkeeper, it’s a great ________ (优势) to have big hands.
 
 英文释义
 ---
-1.*高义频：* **[U] 冒险：**  
+### 1.*高义频：* **[U] 冒险：**  
 
  > Do you like adventure in your life?   
  > 生活中，你喜欢冒险吗？  
  > 来源：人教⑥ – 5  
 
-2.*高义频：* **[C] 冒险经历；奇遇：**  
+### 2.*高义频：* **[C] 冒险经历；奇遇：**  
 
  > The Adventures of Tom Sawyer  
  > 《汤姆·索亚历险记》  
@@ -3273,7 +3277,7 @@ For a goalkeeper, it’s a great ________ (优势) to have big hands.
 
 英文释义
 ---
-1.*高义频：* **冒险家**  
+### 1.*高义频：* **冒险家**  
 
 
 # ***\*advertise*** v
@@ -3283,7 +3287,7 @@ For a goalkeeper, it’s a great ________ (优势) to have big hands.
 
 英文释义
 ---
-1.*高义频：* **(为...) 做广告 / 宣传；(为...) 登广告；征聘：**  
+### 1.*高义频：* **(为...) 做广告 / 宣传；(为...) 登广告；征聘：**  
 
  > Now you are asked to make a poster to advertise a sporting event.   
  > 现在要求你制作一幅海报，为一项体育赛事做宣传。  
@@ -3305,7 +3309,7 @@ advertising /'ædvərtaɪzɪŋ/ n [U]
 
 英文释义
 ---
-1.*高义频：* **[C] 广告 (ad)：**  
+### 1.*高义频：* **[C] 广告 (ad)：**  
 
  > **put an advertisement in a newspaper**  
  > put an advertisement in a newspaper   
@@ -3319,7 +3323,7 @@ advertising /'ædvərtaɪzɪŋ/ n [U]
 
 英文释义
 ---
-1.**广告人**  
+### 1.**广告人**  
 
 
 # ***\*advertising*** n
@@ -3329,7 +3333,7 @@ advertising /'ædvərtaɪzɪŋ/ n [U]
 
 英文释义
 ---
-1.**做广告；广告活动；广告业**  
+### 1.**做广告；广告活动；广告业**  
 
 
 # ***\*advertize*** v
@@ -3339,7 +3343,7 @@ advertising /'ædvərtaɪzɪŋ/ n [U]
 
 英文释义
 ---
-1.*高义频：* **(为...) 做广告 / 宣传；(为...) 登广告；征聘：**  
+### 1.*高义频：* **(为...) 做广告 / 宣传；(为...) 登广告；征聘：**  
 
  > Now you are asked to make a poster to advertise a sporting event.   
  > 现在要求你制作一幅海报，为一项体育赛事做广告。  
@@ -3363,7 +3367,7 @@ advertising / advertizing  // n [U]
 
 英文释义
 ---
-1.*高义频：* **忠告；建议：**  
+### 1.*高义频：* **忠告；建议：**  
 
  > **a piece of advice**  
  > a piece of advice   
@@ -3385,7 +3389,7 @@ advertising / advertizing  // n [U]
 
 英文释义
 ---
-1.*高义频：* **劝告；建议：**  
+### 1.*高义频：* **劝告；建议：**  
 
  > It’s easy for you to advise, but difficult to take advice from others.   
  > 劝告别人容易，接受别人的劝告就难了。  
@@ -3418,9 +3422,10 @@ advertising / advertizing  // n [U]
  > She advised the government on environmental issues.  
  > 她就环境问题给政府提建议。  
 
-### 辨析 advise, suggest
+#### 辨析 advise, suggest
 表示“建议”时，二者意义十分接近。但用法不尽相同。  
-2.*低义频：* **[正式用语] 通知**  
+
+### 2.*低义频：* **[正式用语] 通知**  
 英译 to officially tell sb sth：
 
 - advise sb (of sth):
@@ -3448,7 +3453,7 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
 
 英文释义
 ---
-1.**顾问**  
+### 1.**顾问**  
 
 
 # ***\*advocate*** n
@@ -3458,7 +3463,7 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **提倡者；拥护者**  
+### 1.*高义频：* **提倡者；拥护者**  
 
 
 # ***\*advocate*** vt
@@ -3468,7 +3473,7 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **提倡；拥护；主张：**  
+### 1.*高义频：* **提倡；拥护；主张：**  
 
 - advocate (sb) doing sth:
 
@@ -3490,7 +3495,7 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **飞机 (plane, AmE airplane)**  
+### 1.*高义频：* **飞机 (plane, AmE airplane)**  
 
 
 # ***\*affair*** n
@@ -3502,7 +3507,7 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **事务**  
+### 1.*高义频：* **事务**  
 英译 important personal, business, national, etc. matters：
 
  > **Foreign Affairs**  
@@ -3513,7 +3518,7 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
  > current / international / business affairs  
  > 时事/国际事务/商业事务  
 
-2.*高义频：* **[常用单数] 事件；事情**  
+### 2.*高义频：* **[常用单数] 事件；事情**  
 英译 an event or situation：
 
  > the Watergate affair   
@@ -3523,7 +3528,7 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
  > She wanted the celebration to be a simple family affair.  
  > 她希望庆祝活动仅限于家人参加。  
 
-3.*高义频：* **暧昧关系；通奸；私通：**  
+### 3.*高义频：* **暧昧关系；通奸；私通：**  
 
  > **have an affair with sb**  
  > have an affair with sb   
@@ -3536,13 +3541,14 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
 
 固定搭配
 ---
-- ## \*state of affairs  **[正式用语] 情况；局势；事态：**  
+## \*state of affairs  1.**[正式用语] 情况；局势；事态：**  
 
  > The state of affairs should no longer be ignored.   
  > 局势不容忽视。  
 
-### 辨析 matter, affair, event
+#### 辨析 matter, affair, event
 三者都有“事情”之意。  
+
 
 # ***\*affect*** vt
 英音 ə'fekt     美音 ə'fekt  
@@ -3551,7 +3557,7 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **影响**  
+### 1.*高义频：* **影响**  
 英译 to influence sb / sth：
 
  > decisions which affect our lives   
@@ -3561,14 +3567,14 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
  > 在政府的援助下，那些受到地震影响的人已经搬到新的定居点。  
  > 来源：2009 上海改  
 
-2.*高义频：* **使感动；打动**  
+### 2.*高义频：* **使感动；打动**  
 英译 to make sb have strong feelings of sadness, pity, etc.：
 
  > **deeply affected**  
  > She was deeply affected by the story.   
  > 她被这个故事深深打动了。  
 
-3.*高义频：* **使感染 (疾病)：**  
+### 3.*高义频：* **使感染 (疾病)：**  
 
  > Diseases affect almost everyone at some time during their lives.  
  > 生活中几乎每个人都会生病。  
@@ -3584,7 +3590,7 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **喜爱；钟爱； [常用复数]爱慕；爱情：**  
+### 1.*高义频：* **喜爱；钟爱； [常用复数]爱慕；爱情：**  
 
  > gain / win sb’s affections   
  > 得到某人的爱  
@@ -3601,7 +3607,7 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **[常与can, could或be able to连用，常用于疑问句、否定句] 买得起；承担得起 (时间、后果等)：**  
+### 1.*高义频：* **[常与can, could或be able to连用，常用于疑问句、否定句] 买得起；承担得起 (时间、后果等)：**  
 
  > **can’t afford**  
  > I can’t afford the time and money for a long journey.   
@@ -3621,7 +3627,7 @@ adviser / advisor /əd'vaɪzə(r)/ n [C]
  > It is a very important exam and I can’t afford to fail it.  
  > 这次考试很重要，我输不起。  
 
-2.*低义频：* **提供；给予：**  
+### 2.*低义频：* **提供；给予：**  
 
  > Reading affords pleasure.   
  > 读书予人快乐。  
@@ -3657,7 +3663,7 @@ More and more Chinese people are able to ________ (付得起) to travel abroad.
 
 英文释义
 ---
-1.*高义频：* **支付得起地**  
+### 1.*高义频：* **支付得起地**  
 
 
 真题解析
@@ -3677,7 +3683,7 @@ Those poor and needy teenagers were excited to find a shop at the corner where t
 
 英文释义
 ---
-1.*高义频：* **害怕的；恐惧的(scared)：**  
+### 1.*高义频：* **害怕的；恐惧的(scared)：**  
 
 - (be) afraid of (doing) sth:
 
@@ -3689,7 +3695,7 @@ Those poor and needy teenagers were excited to find a shop at the corner where t
  > She is afraid to be here alone.   
  > 她不敢单独待在这里。  
 
-2.*高义频：* **担心的；忧虑的：**  
+### 2.*高义频：* **担心的；忧虑的：**  
 
 - (be) afraid of (doing) sth:
 
@@ -3709,7 +3715,7 @@ Those poor and needy teenagers were excited to find a shop at the corner where t
 
 固定搭配
 ---
-- ## \*I’m afraid   **恐怕；很遗憾：**  
+## \*I’m afraid   1.**恐怕；很遗憾：**  
 
  > I’m afraid (that) you’ve come to the wrong address.   
  > 对不起，你找错地址了。  
@@ -3745,7 +3751,7 @@ Those poor and needy teenagers were excited to find a shop at the corner where t
 
 英文释义
 ---
-1.*高义频：* **在...之后：**  
+### 1.*高义频：* **在...之后：**  
 反义词 before 
 
  > after school / work / lunch   
@@ -3766,7 +3772,7 @@ Those poor and needy teenagers were excited to find a shop at the corner where t
  > 刚跑过起点线不久，我的鞋带松了。  
  > 来源：2018 北京  
 
-2.*高义频：* **在…后面：**  
+### 2.*高义频：* **在…后面：**  
 
  > **After you**  
  > After you!   
@@ -3776,12 +3782,12 @@ Those poor and needy teenagers were excited to find a shop at the corner where t
  > Please line up one after another.  
  > 请按顺序排队。  
 
-3.*高义频：* **在…后面：**  
+### 3.*高义频：* **在…后面：**  
 
  > Shut the door after you.   
  > 随手关门。  
 
-4.*高义频：* **以…为追求的目标：**  
+### 4.*高义频：* **以…为追求的目标：**  
 
  > **were after**  
  > The police were after him.  
@@ -3790,7 +3796,7 @@ Those poor and needy teenagers were excited to find a shop at the corner where t
 
 固定搭配
 ---
-- ## \*after all   **毕竟；终究：**  
+## \*after all   1.**毕竟；终究：**  
 
  > Of course I admire him — after all, he is a great writer.  
  > 我当然钦佩他，毕竟他是一位伟大的作家。  
@@ -3811,7 +3817,7 @@ Bob thought he couldn’t go to the party because he had to write a report, but 
 
 英文释义
 ---
-1.*高义频：* **在…之后：**  
+### 1.*高义频：* **在…之后：**  
 
  > **Soon / Shortly after**  
  > Soon / Shortly after Aunt returned, we began to prepare supper.  
@@ -3829,7 +3835,7 @@ Bob thought he couldn’t go to the party because he had to write a report, but 
 
 英文释义
 ---
-1.*高义频：* **后来；以后**  
+### 1.*高义频：* **后来；以后**  
 
  > the day after   
  > 第二天；次日  
@@ -3845,7 +3851,7 @@ Bob thought he couldn’t go to the party because he had to write a report, but 
 
 英文释义
 ---
-1.**校外的，课外的**  
+### 1.**校外的，课外的**  
 
 
 # ***\*afternoon*** n
@@ -3855,7 +3861,7 @@ Bob thought he couldn’t go to the party because he had to write a report, but 
 
 英文释义
 ---
-1.*高义频：* **下午；午后**  
+### 1.*高义频：* **下午；午后**  
 
 
 # ***\*afterward(s)*** adv
@@ -3865,7 +3871,7 @@ Bob thought he couldn’t go to the party because he had to write a report, but 
 
 英文释义
 ---
-1.*高义频：* **后来；以后：**  
+### 1.*高义频：* **后来；以后：**  
 
  > **shortly / soon afterwards**  
  > I needn’t have written to Anne because she phoned me shortly / soon afterwards.  
@@ -3883,7 +3889,7 @@ Bob thought he couldn’t go to the party because he had to write a report, but 
 
 英文释义
 ---
-1.**然后, 后来**  
+### 1.**然后, 后来**  
 
 
 # ***\*again*** adv
@@ -3893,12 +3899,12 @@ Bob thought he couldn’t go to the party because he had to write a report, but 
 
 英文释义
 ---
-1.*高义频：* **又；再：**  
+### 1.*高义频：* **又；再：**  
 
  > If you fail the first time, try again.   
  > 如果第一次失败了，再试一次。  
 
-2.*高义频：* **而且；另外：**  
+### 2.*高义频：* **而且；另外：**  
 
  > Again, spending too long at the computer results in painful wrists and fingers.  
  > 另外，长时间使用电脑还会导致手腕和手指疼痛。  
@@ -3907,12 +3913,12 @@ Bob thought he couldn’t go to the party because he had to write a report, but 
 
 固定搭配
 ---
-- ## \*again and again   **再三地；反复地：**  
+## \*again and again   1.**再三地；反复地：**  
 
  > Again and again I warned him of the danger.   
  > 我一再警告他有危险。  
 
-- ## \*then / there again  **不过；另一方面：**  
+## \*then / there again  1.**不过；另一方面：**  
 
  > Parents feel that it is difficult to live with teenagers. Then again, teenagers have similar feelings about their parents.  
  > 父母们觉得很难与青少年一起生活。不过，青少年对父母也有相似的感受。  
@@ -3926,13 +3932,13 @@ Bob thought he couldn’t go to the party because he had to write a report, but 
 
 英文释义
 ---
-1.*高义频：* **反对：**  
+### 1.*高义频：* **反对：**  
 
  > Personally, I’m against the measure of paying students to learn.  
  > 就我个人而言，我反对用金钱鼓励学生学习的做法。  
  > 来源：2010 广东书面表达  
 
-2.*高义频：* **违背；逆：**  
+### 2.*高义频：* **违背；逆：**  
 
  > **against one’s wishes / will**  
  > against one’s wishes / will  
@@ -3945,12 +3951,12 @@ Bob thought he couldn’t go to the party because he had to write a report, but 
  > The ship is sailing against the wind.   
  > 船正在逆风航行。  
 
-3.*高义频：* **和...比赛、对抗等：**  
+### 3.*高义频：* **和...比赛、对抗等：**  
 
  > We’ll be competing against some of the best companies in Europe.  
  > 我们要和一些一流的欧洲公司竞争。  
 
-4.*低义频：* **倚靠；向着；对着：**  
+### 4.*低义频：* **倚靠；向着；对着：**  
 
  > He leaned against the door.   
  > 他倚着门。  
@@ -3958,12 +3964,12 @@ Bob thought he couldn’t go to the party because he had to write a report, but 
  > The rain beat against the windows.   
  > 雨打在窗户上。  
 
-5.*低义频：* **防备；以备：**  
+### 5.*低义频：* **防备；以备：**  
 
  > Squirrels store up food against the winter.   
  > 松鼠贮存食物以备过冬。  
 
-6.*低义频：* **以...为背景；衬托：**  
+### 6.*低义频：* **以...为背景；衬托：**  
 
  > The picture looks good against the white wall.   
  > 在白墙的衬托下这幅画很好看。  
@@ -3989,7 +3995,7 @@ An agreement seems to be impossible because the majority of the committee member
 
 英文释义
 ---
-1.*高义频：* **年龄：**  
+### 1.*高义频：* **年龄：**  
 
  > be of the same age   
  > 同龄  
@@ -4010,14 +4016,14 @@ An agreement seems to be impossible because the majority of the committee member
  > You look really young for your age.  
  > 您看上去要比您的实际年龄小。  
 
-2.*高义频：* **很长时间：**  
+### 2.*高义频：* **很长时间：**  
 
  > **for ages**  
  > I haven’t seen you for ages.   
  > 我很长时间没看见你了。  
  > 来源：2009 全国  
 
-3.*高义频：* **世纪；年代：**  
+### 3.*高义频：* **世纪；年代：**  
 
  > **the Middle Ages / the Stone Age**  
  > the Middle Ages / the Stone Age  
@@ -4026,13 +4032,13 @@ An agreement seems to be impossible because the majority of the committee member
 
 固定搭配
 ---
-- ## \*come of age   **到达法定年龄；成年：**  
+## \*come of age   1.**到达法定年龄；成年：**  
 
  > My parents supported me until I came of age.  
  > 父母一直供养我到我成年。  
  > 来源：2010 重庆  
 
-- ## \*under age   **未到法定年龄**  
+## \*under age   1.**未到法定年龄**  
 
 
 # ***\*age*** vi
@@ -4042,7 +4048,7 @@ An agreement seems to be impossible because the majority of the committee member
 
 英文释义
 ---
-1.*高义频：* **（使）变老；（使）老化：**  
+### 1.*高义频：* **（使）变老；（使）老化：**  
 
  > As your son grows you also age.  
  > 你儿子长大的同时你也在变老。  
@@ -4072,7 +4078,7 @@ aging / ageing  adj
 
 英文释义
 ---
-1.*高义频：* **…岁的：**  
+### 1.*高义频：* **…岁的：**  
 
  > a girl aged fifteen   
  > 15岁的少女  
@@ -4081,7 +4087,7 @@ aging / ageing  adj
  > 我们的大多数志愿者年龄在17岁到24岁之间。  
  > 来源：2019 北京  
 
-2.*低义频：* **年老的：**  
+### 2.*低义频：* **年老的：**  
 
  > an aged man/the aged  
  > 一位老人/老年人  
@@ -4096,7 +4102,7 @@ aging / ageing  adj
 
 英文释义
 ---
-1.*高义频：* **代理处；经销处；代理机构：**  
+### 1.*高义频：* **代理处；经销处；代理机构：**  
 
  > **a,travel,housing,agency**  
  > a travel / housing agency  
@@ -4109,7 +4115,7 @@ aging / ageing  adj
  > The company has agencies in all parts of Africa.   
  > 该公司在非洲各地都有代理处。  
 
-2.*高义频：* **(尤指政府内的) 机构；局；部；厅：**  
+### 2.*高义频：* **(尤指政府内的) 机构；局；部；厅：**  
 
  > Xinhua News Agency   
  > 新华社  
@@ -4128,7 +4134,7 @@ aging / ageing  adj
 
 英文释义
 ---
-1.*高义频：* **议程；议题：**  
+### 1.*高义频：* **议程；议题：**  
 
  > **be high on the agenda / be top of the agenda**  
  > be high on the agenda / be top of the agenda  
@@ -4142,7 +4148,7 @@ aging / ageing  adj
 
 英文释义
 ---
-1.*高义频：* **代理人；代理商；经纪人**  
+### 1.*高义频：* **代理人；代理商；经纪人**  
 
 
 # ***\*aggressive*** adj
@@ -4152,7 +4158,7 @@ aging / ageing  adj
 
 英文释义
 ---
-1.*高义频：* **好斗的；侵略性的；攻击性的：**  
+### 1.*高义频：* **好斗的；侵略性的；攻击性的：**  
 
  > aggressive behaviour  
  > 攻击性行为  
@@ -4161,7 +4167,7 @@ aging / ageing  adj
  > 所有文化都形成了一种向陌生人打招呼的礼节，以表明自己是友好的。  
  > 来源：外研④ – 3  
 
-2.*高义频：* **有进取心的；有冲劲的：**  
+### 2.*高义频：* **有进取心的；有冲劲的：**  
 
  > A good salesman has to be aggressive.   
  > 好的推销员要有股闯劲。  
@@ -4186,7 +4192,7 @@ D.heroic
 
 英文释义
 ---
-1.*高义频：* **以前：**  
+### 1.*高义频：* **以前：**  
 
  > **a,minute,moment,ago**  
  > a minute / moment ago  
@@ -4202,8 +4208,9 @@ D.heroic
  > 我上次见到他是在几个月以前。  
  > 来源：2017 全国  
 
-### 辨析 ago, before
+#### 辨析 ago, before
 二者都可作副词，表示“(某段时间) 以前”。 ago 表示从现在算起某段时间以前，before 表示从过去的某个时候算起某段时间以前。ago 常与一般过去时连用，before 常与过去完成时连用。  
+
  > I don’t know where he is, but he was here a minute ago.  
  > 我不知道他现在在哪儿，但是刚才他在这儿。  
 
@@ -4218,7 +4225,7 @@ D.heroic
 
 英文释义
 ---
-1.**痛楚，苦难**  
+### 1.**痛楚，苦难**  
 
 
 # ***\*agree*** v  重难点词汇
@@ -4230,7 +4237,7 @@ D.heroic
 
 英文释义
 ---
-1.*高义频：* **(意见、观点等) 一致**  
+### 1.*高义频：* **(意见、观点等) 一致**  
 英译 to have the same opinion as sb/sth：
 反义词 disagree 
 
@@ -4250,7 +4257,7 @@ D.heroic
  > 李江和苏华在穿什么衣服去迎接英国学生的问题上意见不一。  
 
 Notes: agree on主要指双方通过协商而就某事取得一致意见或达成协议。  
-2.*高义频：* **同意；赞同**  
+### 2.*高义频：* **同意；赞同**  
 英译 to say yes to sth：
 反义词 refuse 
 
@@ -4268,7 +4275,7 @@ Notes: agree to后面常接表示“提议”、“办法”、“计划”或�
 
 固定搭配
 ---
-- ## \*agree with  1.*高义频：* **同意；赞同：**  
+## \*agree with  1.*高义频：* **同意；赞同：**  
 
  > agree with one’s idea / opinion   
  > 赞同某人的想法/意见  
@@ -4315,7 +4322,7 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 
 英文释义
 ---
-1.*高义频：* **同意；(意见) 一致**  
+### 1.*高义频：* **同意；(意见) 一致**  
 反义词  disagreement： 
 
  > **reach agreement**  
@@ -4326,7 +4333,7 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
  > We are in agreement about the price.  
  > 关于价格我们意见一致。  
 
-2.*高义频：* **协定；协议：**  
+### 2.*高义频：* **协定；协议：**  
 
  > sign an agreement   
  > 签订协议  
@@ -4350,7 +4357,7 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 
 英文释义
 ---
-1.*高义频：* **农业的；耕种的；农学 (上) 的：**  
+### 1.*高义频：* **农业的；耕种的；农学 (上) 的：**  
 
  > agricultural crops  
  > 农作物  
@@ -4365,7 +4372,7 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 
 英文释义
 ---
-1.*高义频：* **农业；农学**  
+### 1.*高义频：* **农业；农学**  
 
 
 # ***\*ah*** int
@@ -4377,7 +4384,7 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 
 英文释义
 ---
-1.*高义频：* **啊；呀**  
+### 1.*高义频：* **啊；呀**  
 
 
 # ***\*ahead*** adv
@@ -4387,7 +4394,7 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 
 英文释义
 ---
-1.*高义频：* **向前；在前；领先：**  
+### 1.*高义频：* **向前；在前；领先：**  
 
  > think / plan ahead (= in advance)  
  > 事先考虑/计划  
@@ -4401,7 +4408,7 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 
 固定搭配
 ---
-- ## \*ahead of  **在…前面；早于：**  
+## \*ahead of  1.**在…前面；早于：**  
 
  > There were four people ahead of me at the doctor's.  
  > 诊所里有四个人排在我前面。  
@@ -4420,7 +4427,7 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 
 英文释义
 ---
-1.*高义频：* **援助；救助；帮助：**  
+### 1.*高义频：* **援助；救助；帮助：**  
 
  > **first aid**  
  > do / give / offer first aid  
@@ -4430,7 +4437,7 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
  > with the aid of   
  > 在…帮助下；借助于  
 
-2.*低义频：* **辅助者；有助之物：**  
+### 2.*低义频：* **辅助者；有助之物：**  
 
  > A dictionary is an important aid in learning a new language.   
  > 词典是学习新语言的重要工具。  
@@ -4438,13 +4445,13 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 
 固定搭配
 ---
-- ## \*come / go to sb’s aid   **帮助某人 (help sb)：**  
+## \*come / go to sb’s aid   1.**帮助某人 (help sb)：**  
 
  > Be bold and brave — and mighty forces will come to your aid.  
  > 勇敢些，力量之神会助你一臂之力。  
  > 来源：2015 天津  
 
-- ## \*in aid of  
+## \*in aid of  1.
 
 # ***\*aid*** v
 英音 eɪd     美音 eɪd  
@@ -4453,13 +4460,14 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 
 英文释义
 ---
-1.*高义频：* **帮助：**  
+### 1.*高义频：* **帮助：**  
 
  > Not only are pleasant mealtimes enjoyable, but they aid digestion.  
  > 进餐愉快不仅让人心情愉悦，而且还有助于消化。  
 
-### 辨析 assist, help, aid
+#### 辨析 assist, help, aid
 三者都有“帮助”之意，但侧重点有所不同。  
+
 
 # ***\*aim*** n
 英音 eɪm     美音 eɪm  
@@ -4468,13 +4476,13 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 
 英文释义
 ---
-1.*低义频：* **瞄准：**  
+### 1.*低义频：* **瞄准：**  
 
  > **took aim at**  
  > Alan took aim at the target.  
  > 艾伦瞄准了目标。  
 
-2.*高义频：* **[C] 目标 (goal)；目的**  
+### 2.*高义频：* **[C] 目标 (goal)；目的**  
 英译 sth you intend to do; a purpose：
 
  > **achieve,realize one’s aim**  
@@ -4492,9 +4500,9 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 
 固定搭配
 ---
-- ## \*take aim at  **把目标对准…；把批评的矛头指向…**  
+## \*take aim at  1.**把目标对准…；把批评的矛头指向…**  
 
-- ## \*with the aim of  **旨在；目的是：**  
+## \*with the aim of  1.**旨在；目的是：**  
 
 
 # ***\*aim*** v
@@ -4504,13 +4512,13 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
 
 英文释义
 ---
-1.*高义频：* **(用...) 瞄准；(用...) 对准：**  
+### 1.*高义频：* **(用...) 瞄准；(用...) 对准：**  
 
  > **aiming for**  
  > The pilot was aiming for the runway but came down in a nearby field.   
  > 飞行员的目标是跑道，却降落在附近的农田里。  
 
-2.*高义频：* **力求达到**  
+### 2.*高义频：* **力求达到**  
 英译 to try to do or achieve sth：
 
  > **aims high**  
@@ -4529,7 +4537,7 @@ You look well. The air and the sea foods in Sanya must agree ________ you, I sup
  > 这项活动的目的是提高学生的听说能力。  
  > 来源：2009 天津改  
 
-3.*高义频：* **[常用于被动语态] 针对：**  
+### 3.*高义频：* **[常用于被动语态] 针对：**  
 
 - aim sth at sb:
 
@@ -4549,7 +4557,7 @@ aimlessly /'eɪmləsli/ adv
 
 英文释义
 ---
-1.*高义频：* **空气；天空；空中：**  
+### 1.*高义频：* **空气；天空；空中：**  
 
  > **air conditioning / conditioners**  
  > air conditioning / conditioners  
@@ -4563,7 +4571,7 @@ aimlessly /'eɪmləsli/ adv
  > It saves a great deal of time to travel by air.   
  > 乘飞机出行能节省很多时间。  
 
-2.*低义频：* **神态；样子：**  
+### 2.*低义频：* **神态；样子：**  
 
  > **air of**  
  > The dog hardly ate anything and had such an air of sadness.  
@@ -4573,7 +4581,7 @@ aimlessly /'eɪmləsli/ adv
 
 固定搭配
 ---
-- ## \*in the air   **(某种情绪) 弥漫在空气中；即将发生：**  
+## \*in the air   1.**(某种情绪) 弥漫在空气中；即将发生：**  
 
  > There was a sense of excitement in the air.   
  > 到处洋溢着一种激动的气氛。  
@@ -4581,7 +4589,7 @@ aimlessly /'eɪmləsli/ adv
  > Change is in the air.   
  > 变革迫在眉睫。  
 
-- ## \*on / off (the) air  **正在/停止广播：**  
+## \*on / off (the) air  1.**正在/停止广播：**  
 
  > We’ll be on air in three minutes.   
  > 我们三分钟后开始广播。  
@@ -4594,20 +4602,20 @@ aimlessly /'eɪmləsli/ adv
 
 英文释义
 ---
-1.*高义频：* **使通风：**  
+### 1.*高义频：* **使通风：**  
 
  > **air out**  
  > We opened doors and windows to air out the house.  
  > 我们打开了门窗，让房子通通风。  
  > 来源：2015 四川  
 
-2.*低义频：* **公开发表 (看法等)(voice)：**  
+### 2.*低义频：* **公开发表 (看法等)(voice)：**  
 
  > **air one’s views,complaints**  
  > air one’s views / complaints   
  > 述说看法/怨言  
 
-3.*低义频：* **播放；广播：**  
+### 3.*低义频：* **播放；广播：**  
 
  > The TV play is due to air next week.   
  > 这部电视剧定于下周播出。  
@@ -4624,7 +4632,7 @@ airless  /'eələs/ adj
 
 英文释义
 ---
-1.**带空调的**  
+### 1.**带空调的**  
 
 
 # ***\*aircraft*** n
@@ -4636,7 +4644,7 @@ airless  /'eələs/ adj
 
 英文释义
 ---
-1.*高义频：* **飞机； 航空器；飞行器**  
+### 1.*高义频：* **飞机； 航空器；飞行器**  
 
 
 # ***\*airfield*** n
@@ -4646,7 +4654,7 @@ airless  /'eələs/ adj
 
 英文释义
 ---
-1.**（军用）机场**  
+### 1.**（军用）机场**  
 
 
 # ***\*airline*** n
@@ -4658,7 +4666,7 @@ airless  /'eələs/ adj
 
 英文释义
 ---
-1.*高义频：* **航空公司：**  
+### 1.*高义频：* **航空公司：**  
 
  > an airline pilot   
  > 航空公司飞行员  
@@ -4676,7 +4684,7 @@ airless  /'eələs/ adj
 
 英文释义
 ---
-1.*高义频：* **航空邮件；航空邮递：**  
+### 1.*高义频：* **航空邮件；航空邮递：**  
 
  > an airmail letter   
  > 航空信  
@@ -4694,7 +4702,7 @@ airless  /'eələs/ adj
 
 英文释义
 ---
-1.*高义频：* **飞机 (plane,BrE aeroplane)**  
+### 1.*高义频：* **飞机 (plane,BrE aeroplane)**  
 
 
 # ***\*airport*** n
@@ -4706,7 +4714,7 @@ airless  /'eələs/ adj
 
 英文释义
 ---
-1.*高义频：* **飞机场；航空站：**  
+### 1.*高义频：* **飞机场；航空站：**  
 
  > We’ll meet him at the airport.   
  > 我们要去机场接他。  
@@ -4719,7 +4727,7 @@ airless  /'eələs/ adj
 
 英文释义
 ---
-1.**晕机的**  
+### 1.**晕机的**  
 
 
 # ***\*airspace*** n
@@ -4731,7 +4739,7 @@ airless  /'eələs/ adj
 
 英文释义
 ---
-1.*高义频：* **领空；空域**  
+### 1.*高义频：* **领空；空域**  
 
 
 # ***\*alarm*** n
@@ -4741,7 +4749,7 @@ airless  /'eələs/ adj
 
 英文释义
 ---
-1.*高义频：* **警报 (器)：**  
+### 1.*高义频：* **警报 (器)：**  
 
  > **raised,sounded the alarm**  
  > I raised / sounded the alarm as soon as I saw the smoke.  
@@ -4750,7 +4758,7 @@ airless  /'eələs/ adj
  > Everyone fled from the building when the fire alarm sounded.  
  > 火警响起时，所有人都从大楼里逃了出来。  
 
-2.*低义频：* **闹钟 (alarm clock)：**  
+### 2.*低义频：* **闹钟 (alarm clock)：**  
 
  > **set the alarm**  
  > set the alarm for six   
@@ -4760,7 +4768,7 @@ airless  /'eələs/ adj
  > The alarm went off at five.   
  > 闹钟在5点时响了。  
 
-3.*高义频：* **惊恐；惊悚**  
+### 3.*高义频：* **惊恐；惊悚**  
 
 
 # ***\*alarm*** vt
@@ -4770,7 +4778,7 @@ airless  /'eələs/ adj
 
 英文释义
 ---
-1.*高义频：* **使惊恐；使担忧(worry)：**  
+### 1.*高义频：* **使惊恐；使担忧(worry)：**  
 
  > The news that the enemies were near alarmed everybody.  
  > 敌军迫近的消息使大家感到恐慌。  
@@ -4788,7 +4796,7 @@ alarming /ə'lɑːrmɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **担心的；害怕的**  
+### 1.*高义频：* **担心的；害怕的**  
 
 
 # ***\*alarming*** adj
@@ -4798,7 +4806,7 @@ alarming /ə'lɑːrmɪŋ/ adj
 
 英文释义
 ---
-1.**令人担忧的；令人恐惧的**  
+### 1.**令人担忧的；令人恐惧的**  
 
 
 # ***\*album*** n
@@ -4810,7 +4818,7 @@ alarming /ə'lɑːrmɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **相册；集邮册；唱片专辑；签名簿；粘贴簿：**  
+### 1.*高义频：* **相册；集邮册；唱片专辑；签名簿；粘贴簿：**  
 
  > She kept all the photographs she took recently in an album.  
  > 她把她最近拍的所有照片都放到相册里。  
@@ -4825,7 +4833,7 @@ alarming /ə'lɑːrmɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **酒；酒精；乙醇：**  
+### 1.*高义频：* **酒；酒精；乙醇：**  
 
  > drink / consume alcohol  
  > 喝/饮酒  
@@ -4838,7 +4846,7 @@ alarming /ə'lɑːrmɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **(含) 酒精的：**  
+### 1.*高义频：* **(含) 酒精的：**  
 
  > In some countries advertising alcoholic drinks or tobacco is banned altogether.   
  > 有些国家彻底禁止做烟酒广告。  
@@ -4854,7 +4862,7 @@ alarming /ə'lɑːrmɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **酗酒者**  
+### 1.*高义频：* **酗酒者**  
 
 
 # ***\*alertly*** adv
@@ -4864,7 +4872,7 @@ alarming /ə'lɑːrmɪŋ/ adj
 
 英文释义
 ---
-1.**警觉地，警惕地**  
+### 1.**警觉地，警惕地**  
 
 
 # ***\*algae*** n
@@ -4874,7 +4882,7 @@ alarming /ə'lɑːrmɪŋ/ adj
 
 英文释义
 ---
-1.**藻类（植物）**  
+### 1.**藻类（植物）**  
 
 
 # ***\*algebra*** n
@@ -4886,7 +4894,7 @@ alarming /ə'lɑːrmɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **代数 (学)**  
+### 1.*高义频：* **代数 (学)**  
 
 
 # ***\*alien*** adj
@@ -4896,7 +4904,7 @@ alarming /ə'lɑːrmɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **陌生的；异域的；外星人的：**  
+### 1.*高义频：* **陌生的；异域的；外星人的：**  
 
  > alien cultures  
  > 异域文化  
@@ -4911,7 +4919,7 @@ alarming /ə'lɑːrmɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **侨民；外星人**  
+### 1.*高义频：* **侨民；外星人**  
 
 
 # ***\*alike*** adj
@@ -4923,7 +4931,7 @@ alarming /ə'lɑːrmɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **同样的；相像的 （similar）：**  
+### 1.*高义频：* **同样的；相像的 （similar）：**  
 
  > All happy families are alike; each unhappy family is unhappy in its own way.  
  > 幸福的家庭都是相似的，不幸的家庭各有各的不幸。  
@@ -4937,7 +4945,7 @@ alarming /ə'lɑːrmɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **相似地；相同地；同样都：**  
+### 1.*高义频：* **相似地；相同地；同样都：**  
 
  > These science play-lands are great fun for kids and grown-ups alike.   
  > 这些科学乐园能给孩子极大的乐趣，对于成人也同样如此。  
@@ -4953,7 +4961,7 @@ alarming /ə'lɑːrmɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **活着的【反:dead】；仍存在的：**  
+### 1.*高义频：* **活着的【反:dead】；仍存在的：**  
 
  > Who is the greatest man alive?  
  > 谁是当今最伟大的人？  
@@ -4966,9 +4974,10 @@ alarming /ə'lɑːrmɪŋ/ adj
  > 地震发生两天后她才发现她母亲还活着。  
  > 来源：2011 湖北  
 
-### 辨析 living, alive
+#### 辨析 living, alive
 二者均可用作形容词，有“活着的”、“在世的”之意，但用法不尽相同。  
-2.*低义频：* **有活力的：**  
+
+### 2.*低义频：* **有活力的：**  
 
  > **alive with**  
  > Edward was alive with happiness.   
@@ -4978,7 +4987,7 @@ Notes: alive 可作表语、补语或后置定语；无比较级和最高级。
 
 固定搭配
 ---
-- ## \*come alive  1.*高义频：* **变得有趣；生动起来(come to life)：**  
+## \*come alive  1.*高义频：* **变得有趣；生动起来(come to life)：**  
 
  > The discussion came alive when an interesting topic was brought in.   
  > 当引入一个有趣的话题时，讨论活跃了起来。  
@@ -5001,7 +5010,7 @@ Notes: alive 可作表语、补语或后置定语；无比较级和最高级。
 
 英文释义
 ---
-1.*高义频：* **所有的；整个的；全部的：**  
+### 1.*高义频：* **所有的；整个的；全部的：**  
 
  > all day / night   
  > 整天/整夜  
@@ -5017,7 +5026,7 @@ Notes: alive 可作表语、补语或后置定语；无比较级和最高级。
 
 英文释义
 ---
-1.*高义频：* **完全地；十分：**  
+### 1.*高义频：* **完全地；十分：**  
 
  > My hands are all wet.   
  > 我的手全湿了。  
@@ -5028,7 +5037,7 @@ Notes: alive 可作表语、补语或后置定语；无比较级和最高级。
 
 固定搭配
 ---
-- ## \*all along   **[非正式用语] 一直；始终：**  
+## \*all along   1.**[非正式用语] 一直；始终：**  
 
  > You’ve been very nice to me all along.   
  > 你一直待我很好。  
@@ -5036,12 +5045,12 @@ Notes: alive 可作表语、补语或后置定语；无比较级和最高级。
  > I know that all along.   
  > 那件事我自始至终都知道。  
 
-- ## \*all but   **几乎；差不多(almost)：**  
+## \*all but   1.**几乎；差不多(almost)：**  
 
  > The party was all but over when we arrived.   
  > 我们到达时，聚会已近尾声。  
 
-- ## \*all too  **[用于表示不好的情形] 极；甚：**  
+## \*all too  1.**[用于表示不好的情形] 极；甚：**  
 
  > All too often, people buy a pen based only on looks.  
  > 人们买笔时往往都只看外表。  
@@ -5055,7 +5064,7 @@ Notes: alive 可作表语、补语或后置定语；无比较级和最高级。
 
 英文释义
 ---
-1.*高义频：* **全部；全体：**  
+### 1.*高义频：* **全部；全体：**  
 
  > All for one, one for all.   
  > 人人为我，我为人人。  
@@ -5063,7 +5072,7 @@ Notes: alive 可作表语、补语或后置定语；无比较级和最高级。
  > All of them enjoyed themselves.   
  > 他们都玩得很愉快。  
 
-2.*高义频：* **唯一；一切：**  
+### 2.*高义频：* **唯一；一切：**  
 
  > All (that) I need is peace and quiet.   
  > 我需要的是安宁与平静。  
@@ -5074,23 +5083,23 @@ Notes: alive 可作表语、补语或后置定语；无比较级和最高级。
 
 固定搭配
 ---
-- ## \*all in all  **总而言之 (altogether)：**  
+## \*all in all  1.**总而言之 (altogether)：**  
 
  > All in all her mother and I are very happy with her progress.  
  > 总而言之，看到她的进步我和她妈妈都很高兴。  
  > 来源：人教⑦ – 1  
 
-- ## \*in all   **总共 (altogether)：**  
+## \*in all   1.**总共 (altogether)：**  
 
  > How many people were there in all at the party?   
  > 出席聚会的共有多少人？  
 
-- ## \*not ... at all   **根本不；一点也不：**  
+## \*not ... at all   1.**根本不；一点也不：**  
 
  > The ﬁlm was not interesting at all.  
  > 电影一点儿也没意思。  
 
-- ## \*not at all   **[客套语] 不客气：**  
+## \*not at all   1.**[客套语] 不客气：**  
 
  > — It’s so kind of you and your parents.   
  > 非常感谢您和您的父母。  
@@ -5133,7 +5142,7 @@ All we need _______ (be) a small piece of land where we can plant various kinds 
 
 英文释义
 ---
-1.**功能齐全的；全面的**  
+### 1.**功能齐全的；全面的**  
 
 
 # ***\*allergic*** adj
@@ -5143,7 +5152,7 @@ All we need _______ (be) a small piece of land where we can plant various kinds 
 
 英文释义
 ---
-1.*高义频：* **(对…)过敏的：**  
+### 1.*高义频：* **(对…)过敏的：**  
 
  > **was allergic to**  
  > He was allergic to cat fur and started sneezing when she brought her pet into the room.   
@@ -5168,7 +5177,7 @@ David is allergic ________ animal fur, so he won’t visit anyone who has cats o
 
 英文释义
 ---
-1.*高义频：* **小巷；胡同**  
+### 1.*高义频：* **小巷；胡同**  
 
 
 # ***\*alligator*** n
@@ -5178,7 +5187,7 @@ David is allergic ________ animal fur, so he won’t visit anyone who has cats o
 
 英文释义
 ---
-1.**短吻鳄**  
+### 1.**短吻鳄**  
 
 
 # ***\*allocate*** vt
@@ -5188,7 +5197,7 @@ David is allergic ________ animal fur, so he won’t visit anyone who has cats o
 
 英文释义
 ---
-1.*高义频：* **分配；分派：**  
+### 1.*高义频：* **分配；分派：**  
 
  > **allocated,to**  
  > I have divided the kingdom into three parts, and allocated one part to each of you.   
@@ -5203,7 +5212,7 @@ David is allergic ________ animal fur, so he won’t visit anyone who has cats o
 
 英文释义
 ---
-1.*高义频：* **允许；准许(permit):**  
+### 1.*高义频：* **允许；准许(permit):**  
 
  > **is not allowed**  
  > Smoking is not allowed in the hall.  
@@ -5226,7 +5235,7 @@ David is allergic ________ animal fur, so he won’t visit anyone who has cats o
  > You're allowed an hour to complete the test.  
  > 给你们一个小时的时间来完成测验。  
 
-2.*高义频：* **使...有可能**  
+### 2.*高义频：* **使...有可能**  
 英译 to make sth possible (permit)：
 
 - allow sb / sth to do sth:
@@ -5250,7 +5259,7 @@ David is allergic ________ animal fur, so he won’t visit anyone who has cats o
  > The new system will allow for more efficient use of resources.   
  > 新系统将使资源得到更有效的利用。  
 
-3.*高义频：* **留出；给出 (时间、金钱、食物等)：**  
+### 3.*高义频：* **留出；给出 (时间、金钱、食物等)：**  
 英译 to provide money, time, etc. for sb / sth：
 
  > **allow,for**  
@@ -5263,7 +5272,7 @@ David is allergic ________ animal fur, so he won’t visit anyone who has cats o
 
 固定搭配
 ---
-- ## \*allow for   **考虑到；顾及：**  
+## \*allow for   1.**考虑到；顾及：**  
 
  > Allowing for the bad weather, we should set off right now.   
  > 考虑到天气不好，我们应该马上出发。  
@@ -5303,7 +5312,7 @@ The writing point of the pen should allow the ink ________ (flow) evenly (均匀
 
 英文释义
 ---
-1.*高义频：* **限额；限量； 津贴；补贴；零用钱：**  
+### 1.*高义频：* **限额；限量； 津贴；补贴；零用钱：**  
 
  > the daily allowance of Vitamin C   
  > 维生素C的每日摄入量  
@@ -5318,7 +5327,7 @@ The writing point of the pen should allow the ink ________ (flow) evenly (均匀
 
 固定搭配
 ---
-- ## \*make allowance(s) for   **考虑到；顾及；体谅：**  
+## \*make allowance(s) for   1.**考虑到；顾及；体谅：**  
 
  > Making allowances for his poor health, his boss allowed him to work six hours a day instead of eight.  
  > 老板体谅他身体不好，让他每天工作六小时而不是八小时。  
@@ -5331,7 +5340,7 @@ The writing point of the pen should allow the ink ________ (flow) evenly (均匀
 
 英文释义
 ---
-1.*高义频：* **几乎；差不多：**  
+### 1.*高义频：* **几乎；差不多：**  
 
  > He slipped and almost fell.  
  > 他脚下一滑，差点摔倒。  
@@ -5339,8 +5348,9 @@ The writing point of the pen should allow the ink ________ (flow) evenly (均匀
  > Dinner is almost ready.   
  > 晚饭差不多准备好了。  
 
-### 辨析 almost, nearly
+#### 辨析 almost, nearly
 二者都是副词，在肯定句中常可换用。区别如下：  
+
 
 # ***\*alone*** adj
 英音 ə'ləʊn     美音 ə'loʊn  
@@ -5351,7 +5361,7 @@ The writing point of the pen should allow the ink ________ (flow) evenly (均匀
 
 英文释义
 ---
-1.*高义频：* **单独的；独自的：**  
+### 1.*高义频：* **单独的；独自的：**  
 
  > Better be alone than in bad company.   
  > 交损友不如无友。  
@@ -5363,13 +5373,13 @@ The writing point of the pen should allow the ink ________ (flow) evenly (均匀
  > Believe me; you’re not alone in feeling sad.  
  > 相信我，并不只是你一个人感到难过。  
 
-2.*高义频：* **孤独的；寂寞的：**  
+### 2.*高义频：* **孤独的；寂寞的：**  
 
  > **felt so alone**  
  > The old man cried like a child because he felt so alone.   
  > 老人感到很孤独，像小孩子一样哭了起来。  
 
-3.*高义频：* **仅仅；只：**  
+### 3.*高义频：* **仅仅；只：**  
 
  > In the United States alone, over 100 million cellphones are thrown away each year  
  > 仅在美国，每年就有超过1亿部手机被扔掉。  
@@ -5378,12 +5388,12 @@ The writing point of the pen should allow the ink ________ (flow) evenly (均匀
 
 固定搭配
 ---
-- ## \*leave / let sb alone  **不打扰某人；不管某人：**  
+## \*leave / let sb alone  1.**不打扰某人；不管某人：**  
 
  > Why don’t you just mind your own business and leave me alone?  
  > 为什么你就不能少管闲事不打扰我？  
 
-- ## \*leave / let sth alone  **不碰某物：**  
+## \*leave / let sth alone  1.**不碰某物：**  
 
  > Leave the cakes alone. They’re for the guests.  
  > 别动那些蛋糕，那是给客人吃的。  
@@ -5409,7 +5419,7 @@ D.It’s up to you
 
 英文释义
 ---
-1.*高义频：* **单独地；独自地：**  
+### 1.*高义频：* **单独地；独自地：**  
 
  > He prefers to travel alone.  
  > 他更喜欢独自旅行。  
@@ -5422,7 +5432,7 @@ D.It’s up to you
 
 英文释义
 ---
-1.*高义频：* **沿着：**  
+### 1.*高义频：* **沿着：**  
 
  > Sean has formed the habit of jogging along the tree-lined avenue for two hours every day.  
  > 肖恩养成了每天沿着林荫道跑步两小时的习惯。  
@@ -5436,12 +5446,12 @@ D.It’s up to you
 
 英文释义
 ---
-1.*高义频：* **向前：**  
+### 1.*高义频：* **向前：**  
 
  > The police told the crowd to move along.   
  > 警察叫人群向前移动。  
 
-2.*高义频：* **一道；一起：**  
+### 2.*高义频：* **一道；一起：**  
 
  > **along with**  
  > Would you like me to come along with you?   
@@ -5450,7 +5460,7 @@ D.It’s up to you
 
 固定搭配
 ---
-- ## \*along with  **与···一起**  
+## \*along with  1.**与···一起**  
 
  > A sensible diet along with regular exercise is the best way to lose weight.  
  > 合理饮食和定期锻炼是减肥的最佳途径。  
@@ -5473,7 +5483,7 @@ Nowadays, cycling, along with jogging and swimming, ______
 
 英文释义
 ---
-1.*高义频：* **在旁边；沿着边；并排地：**  
+### 1.*高义频：* **在旁边；沿着边；并排地：**  
 
  > He waited several minutes for a taxi to pull up alongside.   
  > 他等了几分钟，直到一辆出租车靠边停下。  
@@ -5486,7 +5496,7 @@ Nowadays, cycling, along with jogging and swimming, ______
 
 英文释义
 ---
-1.*高义频：* **在…旁边；沿着…的边；与…并排：**  
+### 1.*高义频：* **在…旁边；沿着…的边；与…并排：**  
 
  > Children’s prices are shown alongside adult prices.  
  > 儿童票价写在成人票价的旁边。  
@@ -5495,7 +5505,7 @@ Nowadays, cycling, along with jogging and swimming, ______
  > 我后面的司机不耐烦了，有的竟加速与我并排行驶。  
  > 来源：2011 广东改  
 
-2.*高义频：* **与…一起；与…同时：**  
+### 2.*高义频：* **与…一起；与…同时：**  
 
  > The robot is not intended to replace workers, but to work alongside other employees.  
  > 这个机器人不是为了替代工人，而是和其他员工一起工作。  
@@ -5509,18 +5519,19 @@ Nowadays, cycling, along with jogging and swimming, ______
 
 英文释义
 ---
-1.*高义频：* **出声地：**  
+### 1.*高义频：* **出声地：**  
 
  > Revise your report and be prepared to read it aloud in class.  
  > 修改你的报告，并准备在课堂上朗读。  
 
-2.*低义频：* **大声地：**  
+### 2.*低义频：* **大声地：**  
 
  > He called aloud for help.   
  > 他大声呼救。  
 
-### 辨析 loud, loudly, aloud
+#### 辨析 loud, loudly, aloud
   
+
 
 # ***\*alphabet*** n
 英音 'ælfəbet     美音 'ælfəbet  
@@ -5531,7 +5542,7 @@ Nowadays, cycling, along with jogging and swimming, ______
 
 英文释义
 ---
-1.*高义频：* **字母表；入门**  
+### 1.*高义频：* **字母表；入门**  
 
 
 # ***\*alphabetical*** adj
@@ -5541,7 +5552,7 @@ Nowadays, cycling, along with jogging and swimming, ______
 
 英文释义
 ---
-1.*高义频：* **字母 (表) 的；按字母顺序的**  
+### 1.*高义频：* **字母 (表) 的；按字母顺序的**  
 
 
 # ***\*already*** adv
@@ -5551,7 +5562,7 @@ Nowadays, cycling, along with jogging and swimming, ______
 
 英文释义
 ---
-1.*高义频：* **已经：**  
+### 1.*高义频：* **已经：**  
 
 - [表示在某个时间之前]：
 
@@ -5576,7 +5587,7 @@ Notes: already一般用在肯定句中，在否定句和疑问句中多用yet。
 
 英文释义
 ---
-1.*高义频：* **也；还：**  
+### 1.*高义频：* **也；还：**  
 
  > Ken is a good photographer who also loves to draw and paint.  
  > 肯是名优秀的摄影师，他还喜欢绘画。  
@@ -5590,7 +5601,7 @@ Notes: also多用于肯定句中，否定句中多用either。 also多用于书�
 
 英文释义
 ---
-1.*高义频：* **(使) 改变；(使) 变化**  
+### 1.*高义频：* **(使) 改变；(使) 变化**  
 
 
 # ***\*alternative*** n  重难点词汇
@@ -5602,7 +5613,7 @@ Notes: also多用于肯定句中，否定句中多用either。 also多用于书�
 
 英文释义
 ---
-1.*高义频：* **选择；供选择的东西**  
+### 1.*高义频：* **选择；供选择的东西**  
 
  > **alternative to**  
  > Minibuses with seats for 12 passengers offer an alternative to expensive taxis and crowded public transport.   
@@ -5616,7 +5627,7 @@ Notes: also多用于肯定句中，否定句中多用either。 also多用于书�
 
 固定搭配
 ---
-- ## \*have no alternative but to do sth  **除了做某事别无选择：**  
+## \*have no alternative but to do sth  1.**除了做某事别无选择：**  
 
  > I had no alternative but to report him to the police.   
  > 除了向警察举报他，我别无选择。  
@@ -5637,7 +5648,7 @@ alternatively /ɔːl'tɜːrnətɪvli/ adv
 
 英文释义
 ---
-1.*高义频：* **[只用于名词前] 可供替代的；可供选择的**  
+### 1.*高义频：* **[只用于名词前] 可供替代的；可供选择的**  
 英译 that you can use, do, etc. instead of sth else：
 
  > **alternative method**  
@@ -5647,7 +5658,7 @@ alternatively /ɔːl'tɜːrnətɪvli/ adv
  > The way was blocked, so we went by an alternative road.   
  > 这条路堵塞了，因此我们走了另一条路。  
 
-2.*高义频：* **非传统的；另类的**  
+### 2.*高义频：* **非传统的；另类的**  
 英译 different from what is usual or traditional ：
 
  > **alternative lifestyle**  
@@ -5657,7 +5668,7 @@ alternatively /ɔːl'tɜːrnətɪvli/ adv
 
 固定搭配
 ---
-- ## \*alternative energy   **替代能源 (指太阳能、风能、水能等)**  
+## \*alternative energy   1.**替代能源 (指太阳能、风能、水能等)**  
 
 
 派生词汇
@@ -5694,13 +5705,13 @@ As there is less and less coal and oil, scientists are exploring new ways of mak
 
 英文释义
 ---
-1.*高义频：* **尽管；虽然：**  
+### 1.*高义频：* **尽管；虽然：**  
 
  > Although the job takes a signiﬁcant amount of time, most students agree that the experience is worth it.  
  > 尽管这份工作会花大量的时间，但是大部分学生都认为这个经历是值得的。  
  > 来源：2015 湖南  
 
-2.*高义频：* **然而；但是：**  
+### 2.*高义频：* **然而；但是：**  
 
  > I don’t believe we’ve met before, although I must say you do look familiar.  
  > 我想我们以前没见过，不过我得说你看上去的确面熟。  
@@ -5732,7 +5743,7 @@ D.Once
 
 英文释义
 ---
-1.**[C] (海拔) 高度；高处**  
+### 1.**[C] (海拔) 高度；高处**  
 
 
 # ***\*altogether*** adv
@@ -5742,17 +5753,17 @@ D.Once
 
 英文释义
 ---
-1.*高义频：* **总共；一共(in all / in total)**  
+### 1.*高义频：* **总共；一共(in all / in total)**  
 
  > There are altogether eleven books on the shelf, of which five are mine.   
  > 书架上总共有11本书，其中5本是我的。  
 
-2.*高义频：* **总的说来 (all in all)：**  
+### 2.*高义频：* **总的说来 (all in all)：**  
 
  > The food was good and we loved the atmosphere and the people. Altogether it was a great evening.  
  > 吃的东西不错，而且我们喜欢那里的气氛和人。总之，那天晚上过得很愉快。  
 
-3.*高义频：* **完全地：**  
+### 3.*高义频：* **完全地：**  
 
  > The train went slower and slower until it stopped altogether.  
  > 火车速度越来越慢，最后彻底停了下来。  
@@ -5767,7 +5778,7 @@ D.Once
 
 英文释义
 ---
-1.*高义频：* **铝**  
+### 1.*高义频：* **铝**  
 
 
 # ***\*always*** adv
@@ -5777,7 +5788,7 @@ D.Once
 
 英文释义
 ---
-1.*高义频：* **总是；一直：**  
+### 1.*高义频：* **总是；一直：**  
 
  > I'm always inspired by things of beauty and harmony.  
  > 我总是能从美好和谐的事物中受到启发。  
@@ -5787,7 +5798,7 @@ D.Once
  > 你为什么总抱怨我的厨艺？  
 
 Notes: always与进行时连用，有时表示因一件事情多次重复，说话人感觉焦躁或不满。  
-2.*高义频：* **永远：**  
+### 2.*高义频：* **永远：**  
 
  > Dear Mom, wherever I am, I will always love you.  
  > 亲爱的妈妈，无论我身在何处都永远爱您。  
@@ -5796,7 +5807,7 @@ Notes: always与进行时连用，有时表示因一件事情多次重复，说�
 
 固定搭配
 ---
-- ## \*as always  **同往常一样 (as usual)：**  
+## \*as always  1.**同往常一样 (as usual)：**  
 
  > As always, he puts on his shoes and goes for a walk.  
  > 他和平时一样，穿上鞋出去散步了。  
@@ -5809,7 +5820,7 @@ Notes: always与进行时连用，有时表示因一件事情多次重复，说�
 
 英文释义
 ---
-1.**午前,上午**  
+### 1.**午前,上午**  
 
 
 # ***\*amateur*** n
@@ -5819,7 +5830,7 @@ Notes: always与进行时连用，有时表示因一件事情多次重复，说�
 
 英文释义
 ---
-1.*高义频：* **[C] (艺术、体育、科学等的) 业余爱好者：**  
+### 1.*高义频：* **[C] (艺术、体育、科学等的) 业余爱好者：**  
 
  > The tournament is open to amateurs as well as professionals.  
  > 这次比赛不仅职业选手可以参加，而且业余选手也可以参加。  
@@ -5832,7 +5843,7 @@ Notes: always与进行时连用，有时表示因一件事情多次重复，说�
 
 英文释义
 ---
-1.*高义频：* **业余 (爱好) 的：**  
+### 1.*高义频：* **业余 (爱好) 的：**  
 
  > an amateur photographer  
  > 业余摄影爱好者  
@@ -5845,7 +5856,7 @@ Notes: always与进行时连用，有时表示因一件事情多次重复，说�
 
 英文释义
 ---
-1.*高义频：* **使大为吃惊；使感到惊愕**  
+### 1.*高义频：* **使大为吃惊；使感到惊愕**  
 英译 to surprise sb very much：
 
  > Her knowledge amazes me.  
@@ -5863,7 +5874,7 @@ amazement /ə'meɪzmənt/ n
 
 英文释义
 ---
-1.*高义频：* **吃惊的；惊奇的(astonished)：**  
+### 1.*高义频：* **吃惊的；惊奇的(astonished)：**  
 
 - (be) amazed to do sth:
 
@@ -5904,7 +5915,7 @@ Little Tom sat_______(amaze) watching the monkey dancing in front of him.
 
 英文释义
 ---
-1.*高义频：* **惊讶；惊愕**  
+### 1.*高义频：* **惊讶；惊愕**  
 
 
 # ***\*amazing*** adj
@@ -5914,7 +5925,7 @@ Little Tom sat_______(amaze) watching the monkey dancing in front of him.
 
 英文释义
 ---
-1.*高义频：* **令人惊异的(astonishing)：**  
+### 1.*高义频：* **令人惊异的(astonishing)：**  
 
  > It is really amazing that the once-ruined place has now been turned into a beautiful school.  
  > 曾被摧毁的地方现在已变成了一所美丽的学校，真让人难以相信。  
@@ -5928,7 +5939,7 @@ Little Tom sat_______(amaze) watching the monkey dancing in front of him.
 
 英文释义
 ---
-1.*高义频：* **[C] 大使；使者**  
+### 1.*高义频：* **[C] 大使；使者**  
 
  > **ambassador to**  
  > the British ambassador to Greece  
@@ -5942,7 +5953,7 @@ Little Tom sat_______(amaze) watching the monkey dancing in front of him.
 
 英文释义
 ---
-1.*高义频：* **[C] 女大使；大使夫人**  
+### 1.*高义频：* **[C] 女大使；大使夫人**  
 
 
 # ***\*amber*** n
@@ -5954,7 +5965,7 @@ Little Tom sat_______(amaze) watching the monkey dancing in front of him.
 
 英文释义
 ---
-1.*高义频：* **琥珀；琥珀色**  
+### 1.*高义频：* **琥珀；琥珀色**  
 
 
 # ***\*ambiguous*** adj
@@ -5964,7 +5975,7 @@ Little Tom sat_______(amaze) watching the monkey dancing in front of him.
 
 英文释义
 ---
-1.*高义频：* **模棱两可的；不清楚的；有歧义的：**  
+### 1.*高义频：* **模棱两可的；不清楚的；有歧义的：**  
 
  > Body language can sometimes be ambiguous.   
  > 身势语有时会产生歧义。  
@@ -5978,7 +5989,7 @@ Little Tom sat_______(amaze) watching the monkey dancing in front of him.
 
 英文释义
 ---
-1.*高义频：* **[C] & [U] 野心；雄心；抱负：**  
+### 1.*高义频：* **[C] & [U] 野心；雄心；抱负：**  
 
  > Until all is over ambition never dies.  
  > 不到黄河心不死。  
@@ -5997,7 +6008,7 @@ Little Tom sat_______(amaze) watching the monkey dancing in front of him.
 
 英文释义
 ---
-1.*高义频：* **有抱负的；野心勃勃的**  
+### 1.*高义频：* **有抱负的；野心勃勃的**  
 
 
 # ***\*ambulance*** n
@@ -6007,7 +6018,7 @@ Little Tom sat_______(amaze) watching the monkey dancing in front of him.
 
 英文释义
 ---
-1.*高义频：* **[C] 救护车**  
+### 1.*高义频：* **[C] 救护车**  
 
 
 # ***\*amid*** prep
@@ -6017,7 +6028,7 @@ Little Tom sat_______(amaze) watching the monkey dancing in front of him.
 
 英文释义
 ---
-1.**在……中**  
+### 1.**在……中**  
 
 
 # ***\*among*** prep
@@ -6029,7 +6040,7 @@ Little Tom sat_______(amaze) watching the monkey dancing in front of him.
 
 英文释义
 ---
-1.*高义频：* **在…中间；在…之中：**  
+### 1.*高义频：* **在…中间；在…之中：**  
 
  > The problem you are facing is common among our teenagers.  
  > 你面临的问题在我们青少年中很常见。  
@@ -6046,7 +6057,7 @@ Little Tom sat_______(amaze) watching the monkey dancing in front of him.
 
 英文释义
 ---
-1.*高义频：* **[C] & [U] 数量；数额；总数：**  
+### 1.*高义频：* **[C] & [U] 数量；数额；总数：**  
 
  > **large amounts of**  
  > When you are traveling, don’t display large amounts of cash to others.  
@@ -6071,7 +6082,7 @@ Notes: amounts of / a large (huge / small) amount of 尤与不可数名词连用
 
 固定搭配
 ---
-- ## \*amount to:  1.*高义频：* **达到 (某数量)；合计：**  
+## \*amount to:  1.*高义频：* **达到 (某数量)；合计：**  
 
  > At the start of this year, foreigners living in Italy amounted to 4.56 million.  
  > 今年年初，居住在意大利的外国人数量达到了456万。  
@@ -6092,7 +6103,7 @@ Notes: amounts of / a large (huge / small) amount of 尤与不可数名词连用
 
 英文释义
 ---
-1.*高义频：* **两栖动物**  
+### 1.*高义频：* **两栖动物**  
 
 
 # ***\*amphibious*** adj
@@ -6102,7 +6113,7 @@ Notes: amounts of / a large (huge / small) amount of 尤与不可数名词连用
 
 英文释义
 ---
-1.*高义频：* **两栖 (类) 的**  
+### 1.*高义频：* **两栖 (类) 的**  
 
 
 # ***\*ample*** adj
@@ -6112,7 +6123,7 @@ Notes: amounts of / a large (huge / small) amount of 尤与不可数名词连用
 
 英文释义
 ---
-1.*高义频：* **足够的；充裕的：**  
+### 1.*高义频：* **足够的；充裕的：**  
 英译 more than enough:
 
  > **ample time**  
@@ -6128,7 +6139,7 @@ Notes: amounts of / a large (huge / small) amount of 尤与不可数名词连用
 
 英文释义
 ---
-1.*高义频：* **给...提供娱乐 / 消遣(entertain)；逗...乐：**  
+### 1.*高义频：* **给...提供娱乐 / 消遣(entertain)；逗...乐：**  
 
  > **amused themselves**  
  > The children amused themselves by playing hide-and-seek games.  
@@ -6146,7 +6157,7 @@ amusing /ə'mjuːzɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **好玩的；愉快的；开心的：**  
+### 1.*高义频：* **好玩的；愉快的；开心的：**  
 
  > **amused at,by**  
  > We were all amused at / by his stories.  
@@ -6174,7 +6185,7 @@ Lucy has a great sense of humour and always keeps her colleagues ________ (amuse
 
 英文释义
 ---
-1.*高义频：* **[U] 欢乐；娱乐 [C] [常用复数] 娱乐活动：**  
+### 1.*高义频：* **[U] 欢乐；娱乐 [C] [常用复数] 娱乐活动：**  
 
  > **amusement park**  
  > an amusement park  
@@ -6195,7 +6206,7 @@ Lucy has a great sense of humour and always keeps her colleagues ________ (amuse
 
 英文释义
 ---
-1.*高义频：* **好笑的；有趣的**  
+### 1.*高义频：* **好笑的；有趣的**  
 
 
 # ***\*an*** art
@@ -6207,7 +6218,7 @@ Lucy has a great sense of humour and always keeps her colleagues ________ (amuse
 
 英文释义
 ---
-1.*高义频：* **(非特指的) 一 (个)：**  
+### 1.*高义频：* **(非特指的) 一 (个)：**  
 
  > a university   
  > 一所大学  
@@ -6215,17 +6226,17 @@ Lucy has a great sense of humour and always keeps her colleagues ________ (amuse
  > an honest man   
  > 一个老实人  
 
-2.*高义频：* **(一类事物中的) 任何一个 (any)：**  
+### 2.*高义频：* **(一类事物中的) 任何一个 (any)：**  
 
  > A square has four sides.   
  > 正方形有四条边。  
 
-3.*高义频：* **一 (one)：**  
+### 3.*高义频：* **一 (one)：**  
 
  > Rome was not built in a day.   
  > 罗马不是一天建成的。  
 
-4.*高义频：* **每一 (each)：**  
+### 4.*高义频：* **每一 (each)：**  
 
  > twenty dollars a week   
  > 每周20美元  
@@ -6233,7 +6244,7 @@ Lucy has a great sense of humour and always keeps her colleagues ________ (amuse
  > three times a day   
  > 一日三次  
 
-5.*高义频：* **某一 (a certain，用于专有名词特别是人名前)：**  
+### 5.*高义频：* **某一 (a certain，用于专有名词特别是人名前)：**  
 
  > Brian is gifted in writing music; he is very likely to be a Beethoven.  
  > 布莱恩有作曲天赋，他很有可能成为又一个贝多芬。  
@@ -6278,7 +6289,7 @@ The paper is due next month, and I am working seven days ________ week, often lo
 
 英文释义
 ---
-1.*高义频：* **分析：**  
+### 1.*高义频：* **分析：**  
 
  > analyze the data  
  > 分析数据  
@@ -6296,7 +6307,7 @@ The paper is due next month, and I am working seven days ________ week, often lo
 
 英文释义
 ---
-1.*高义频：* **分析：**  
+### 1.*高义频：* **分析：**  
 
  > **carry out,do an analysis of**  
  > carry out / do an analysis of   
@@ -6314,7 +6325,7 @@ The paper is due next month, and I am working seven days ________ week, often lo
 
 英文释义
 ---
-1.**分析家；分析师**  
+### 1.**分析家；分析师**  
 
 
 # ***\*analytical*** adj
@@ -6324,7 +6335,7 @@ The paper is due next month, and I am working seven days ________ week, often lo
 
 英文释义
 ---
-1.*高义频：* **分析的**  
+### 1.*高义频：* **分析的**  
 
 
 # ***\*analyze*** vt
@@ -6334,7 +6345,7 @@ The paper is due next month, and I am working seven days ________ week, often lo
 
 英文释义
 ---
-1.*高义频：* **分析：**  
+### 1.*高义频：* **分析：**  
 
  > analyze the data  
  > 分析数据  
@@ -6352,7 +6363,7 @@ The paper is due next month, and I am working seven days ________ week, often lo
 
 英文释义
 ---
-1.*高义频：* **祖宗；祖先**  
+### 1.*高义频：* **祖宗；祖先**  
 
 
 # ***\*anchor*** n
@@ -6364,7 +6375,7 @@ The paper is due next month, and I am working seven days ________ week, often lo
 
 英文释义
 ---
-1.*高义频：* **锚**  
+### 1.*高义频：* **锚**  
 
 
 # ***\*anchor*** v
@@ -6374,9 +6385,9 @@ The paper is due next month, and I am working seven days ________ week, often lo
 
 英文释义
 ---
-1.*高义频：* **抛锚； (使) 停泊**  
+### 1.*高义频：* **抛锚； (使) 停泊**  
 
-2.**使稳固；使固定**  
+### 2.**使稳固；使固定**  
 
 
 # ***\*ancient*** adj
@@ -6386,7 +6397,7 @@ The paper is due next month, and I am working seven days ________ week, often lo
 
 英文释义
 ---
-1.*高义频：* **古代的；古老的：**  
+### 1.*高义频：* **古代的；古老的：**  
 
  > in ancient times  
  > 在古代  
@@ -6403,7 +6414,7 @@ The paper is due next month, and I am working seven days ________ week, often lo
 
 英文释义
 ---
-1.*高义频：* **和；又；而：**  
+### 1.*高义频：* **和；又；而：**  
 
  > Drive slowly and carefully.  
  > 小心，慢点儿开车。(表示并列)  
@@ -6420,7 +6431,7 @@ The paper is due next month, and I am working seven days ________ week, often lo
  > He kept on talking and talking.  
  > 他不停地说啊说。(表示反复)  
 
-2.*高义频：* **(只要…) 就：**  
+### 2.*高义频：* **(只要…) 就：**  
 
  > Work hard and you’ll pass the exam.  
  > 只要用功，你就能通过考试。  
@@ -6461,7 +6472,7 @@ D.so
 
 英文释义
 ---
-1.*高义频：* **机器人；安卓系统 (Google开发的基于Linux平台的手机操作系统)**  
+### 1.*高义频：* **机器人；安卓系统 (Google开发的基于Linux平台的手机操作系统)**  
 
 
 # ***\*anecdote*** n
@@ -6473,7 +6484,7 @@ D.so
 
 英文释义
 ---
-1.*高义频：* **轶事；奇闻**  
+### 1.*高义频：* **轶事；奇闻**  
 
 
 # ***\*angel*** n
@@ -6485,7 +6496,7 @@ D.so
 
 英文释义
 ---
-1.*高义频：* **天使；仁慈、善良或可爱的人**  
+### 1.*高义频：* **天使；仁慈、善良或可爱的人**  
 
 
 # ***\*anger*** n
@@ -6495,7 +6506,7 @@ D.so
 
 英文释义
 ---
-1.*高义频：* **生气；愤怒：**  
+### 1.*高义频：* **生气；愤怒：**  
 
  > **in anger**  
  > speak in anger  
@@ -6504,7 +6515,7 @@ D.so
  > His face turned red with anger.  
  > 他气得满脸通红。  
 
-2.**使生气；激怒：**  
+### 2.**使生气；激怒：**  
 
  > He is easily angered.  
  > 他很容易被激怒。  
@@ -6517,7 +6528,7 @@ D.so
 
 英文释义
 ---
-1.*高义频：* **使生气；激怒：**  
+### 1.*高义频：* **使生气；激怒：**  
 
  > He is easily angered.  
  > 他很容易被激怒。  
@@ -6532,7 +6543,7 @@ D.so
 
 英文释义
 ---
-1.*高义频：* **角：**  
+### 1.*高义频：* **角：**  
 
  > at a 90-degree angle to the ground  
  > 和地面呈90度角  
@@ -6540,7 +6551,7 @@ D.so
  > a dead angle  
  > 死角  
 
-2.*高义频：* **角度；观点(point of view)；方面：**  
+### 2.*高义频：* **角度；观点(point of view)；方面：**  
 
  > **from a,angle**  
  > Try looking at the affair from a different angle.  
@@ -6554,7 +6565,7 @@ D.so
 
 英文释义
 ---
-1.*高义频：* **发怒的；生气的：**  
+### 1.*高义频：* **发怒的；生气的：**  
 
  > an angry young man  
  > 愤青  
@@ -6586,7 +6597,7 @@ angrily /'æŋɡrəli/ adv
 
 英文释义
 ---
-1.*高义频：* **动物；牲畜：**  
+### 1.*高义频：* **动物；牲畜：**  
 
  > **wild animals**  
  > wild animals  
@@ -6610,7 +6621,7 @@ Plants and a________, including humans, need food and water to survive.
 
 英文释义
 ---
-1.*高义频：* **踝；脚踝；踝骨**  
+### 1.*高义频：* **踝；脚踝；踝骨**  
 
 
 # ***\*anniversary*** n
@@ -6622,7 +6633,7 @@ Plants and a________, including humans, need food and water to survive.
 
 英文释义
 ---
-1.*高义频：* **周年纪念 (日)：**  
+### 1.*高义频：* **周年纪念 (日)：**  
 
  > the fortieth wedding anniversary  
  > 结婚40周年纪念日  
@@ -6635,7 +6646,7 @@ Plants and a________, including humans, need food and water to survive.
 
 英文释义
 ---
-1.*高义频：* **宣告；宣布：**  
+### 1.*高义频：* **宣告；宣布：**  
 
  > Please remain seated; the winner of the prize will be announced soon.  
  > 请坐好，马上公布获奖者。  
@@ -6645,13 +6656,13 @@ Plants and a________, including humans, need food and water to survive.
  > 怀特先生宣布他将于二月份去中国。  
  > 来源：2008 全国  
 
-2.*高义频：* **(尤指在机场或火车站) 广播通知：**  
+### 2.*高义频：* **(尤指在机场或火车站) 广播通知：**  
 
  > The pilot announced with apology that there would be a slight delay before setting down.  
  > 飞行员抱歉地通知，飞机会晚一点着陆。  
  > 来源：2010 四川  
 
-3.*低义频：* **宣布…的到来 / 出席：**  
+### 3.*低义频：* **宣布…的到来 / 出席：**  
 
  > Would you announce the guests as they come in?  
  > 客人来时你通报一声好吗？  
@@ -6668,7 +6679,7 @@ announcer /ə'naʊnsə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **[C] 通告；布告 [U] 宣布；宣告：**  
+### 1.*高义频：* **[C] 通告；布告 [U] 宣布；宣告：**  
 
  > **make an announcement**  
  > make an announcement  
@@ -6689,7 +6700,7 @@ announcer /ə'naʊnsə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **广播员；告知者；报幕员**  
+### 1.*高义频：* **广播员；告知者；报幕员**  
 
 
 # ***\*annoy*** vt
@@ -6699,7 +6710,7 @@ announcer /ə'naʊnsə(r)/ n [C]
 
 英文释义
 ---
-1.*高义频：* **使恼怒；使烦恼；使生气**  
+### 1.*高义频：* **使恼怒；使烦恼；使生气**  
 英译 to make sb feel slightly angry and unhappy：
 
  > Her cold voice really annoyed me.  
@@ -6723,7 +6734,7 @@ annoying /ə'nɔɪɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **烦恼，气恼**  
+### 1.*高义频：* **烦恼，气恼**  
 
 
 # ***\*annoyed*** adj
@@ -6733,7 +6744,7 @@ annoying /ə'nɔɪɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **恼怒的；烦恼的：**  
+### 1.*高义频：* **恼怒的；烦恼的：**  
 
 - (be) annoyed at / with sb:
 
@@ -6759,7 +6770,7 @@ annoying /ə'nɔɪɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **每年的；年度的：**  
+### 1.*高义频：* **每年的；年度的：**  
 
  > **annual income,leave**  
  > annual income / leave  
@@ -6785,7 +6796,7 @@ annually /'ænjuəli/ adv
 
 英文释义
 ---
-1.*高义频：* **无名的；匿名的：**  
+### 1.*高义频：* **无名的；匿名的：**  
 
  > **anonymous letter**  
  > an anonymous letter  
@@ -6799,7 +6810,7 @@ annually /'ænjuəli/ adv
 
 英文释义
 ---
-1.*高义频：* **又一个；再一个；另一个：**  
+### 1.*高义频：* **又一个；再一个；另一个：**  
 
  > I don’t like this hat. Show me another.  
  > 我不喜欢这顶帽子，再给我拿一顶。  
@@ -6807,11 +6818,11 @@ annually /'ænjuəli/ adv
 
 固定搭配
 ---
-- ## \*one after another  **陆续地；一个接一个地**  
+## \*one after another  1.**陆续地；一个接一个地**  
 
-- ## \*one another  **互相**  
+## \*one another  1.**互相**  
 
-- ## \*one thing ... another ...  **一回事…另一回事：**  
+## \*one thing ... another ...  1.**一回事…另一回事：**  
 
  > Saying is one thing and doing another.  
  > 说是一回事，做又是另一回事。  
@@ -6832,7 +6843,7 @@ Recycling is one way to protect the environment;reusing is ________.
 
 英文释义
 ---
-1.*高义频：* **又一的；再一个的；另一的：**  
+### 1.*高义频：* **又一的；再一个的；另一的：**  
 
  > Won’t you have another cup of tea?  
  > 你不再喝一杯茶吗？  
@@ -6852,7 +6863,7 @@ Recycling is one way to protect the environment;reusing is ________.
 
 英文释义
 ---
-1.*高义频：* **回答；答复：**  
+### 1.*高义频：* **回答；答复：**  
 
  > **answer a question**  
  > answer a question  
@@ -6869,7 +6880,7 @@ Recycling is one way to protect the environment;reusing is ________.
  > He answered (that) he knew nothing about it.  
  > 他回答说他对那件事一无所知。  
 
-2.*高义频：* **响应：**  
+### 2.*高义频：* **响应：**  
 
  > answer sb’s call  
  > 响应某人的号召  
@@ -6877,7 +6888,7 @@ Recycling is one way to protect the environment;reusing is ________.
 
 固定搭配
 ---
-- ## \*answer for  **对…负责；对…承担责任：**  
+## \*answer for  1.**对…负责；对…承担责任：**  
 
  > You’ll have to answer for your wrongdoing one day.  
  > 总有一天，你要对你所做的错事负责。  
@@ -6892,7 +6903,7 @@ Recycling is one way to protect the environment;reusing is ________.
 
 英文释义
 ---
-1.*高义频：* **回答；答复(reply)：**  
+### 1.*高义频：* **回答；答复(reply)：**  
 
  > **answer to**  
  > I have had an answer to her letter.  
@@ -6902,7 +6913,7 @@ Recycling is one way to protect the environment;reusing is ________.
  > She made / gave no answer.  
  > 她没有回答。  
 
-2.*高义频：* **答案；解决办法：**  
+### 2.*高义频：* **答案；解决办法：**  
 
  > **answer to**  
  > What was the answer to question 4?  
@@ -6915,7 +6926,7 @@ Recycling is one way to protect the environment;reusing is ________.
 
 固定搭配
 ---
-- ## \*in answer to  **作为对…的回答；应…的要求：**  
+## \*in answer to  1.**作为对…的回答；应…的要求：**  
 
  > The doctor came at once in answer to my telephone call.  
  > 医生接了我的电话后就立即赶过来了。  
@@ -6930,7 +6941,7 @@ Recycling is one way to protect the environment;reusing is ________.
 
 英文释义
 ---
-1.*高义频：* **蚂蚁**  
+### 1.*高义频：* **蚂蚁**  
 
 
 # ***\*antelope*** n
@@ -6942,7 +6953,7 @@ Recycling is one way to protect the environment;reusing is ________.
 
 英文释义
 ---
-1.*高义频：* **羚；羚类动物**  
+### 1.*高义频：* **羚；羚类动物**  
 
 
 # ***\*anti-*** prefix
@@ -6952,7 +6963,7 @@ Recycling is one way to protect the environment;reusing is ________.
 
 英文释义
 ---
-1.*高义频：* **[构成名词和形容词]反对；相反；防 (止)：**  
+### 1.*高义频：* **[构成名词和形容词]反对；相反；防 (止)：**  
 
  > anti-slavery / antisocial  
  > 反对奴隶制/反社会的  
@@ -6968,7 +6979,7 @@ Recycling is one way to protect the environment;reusing is ________.
 
 英文释义
 ---
-1.*高义频：* **反黑人的**  
+### 1.*高义频：* **反黑人的**  
 
 
 # ***\*anti-smoking*** n
@@ -6978,7 +6989,7 @@ Recycling is one way to protect the environment;reusing is ________.
 
 英文释义
 ---
-1.**反对吸烟**  
+### 1.**反对吸烟**  
 
 
 # ***\*anticipate*** vt
@@ -6988,7 +6999,7 @@ Recycling is one way to protect the environment;reusing is ________.
 
 英文释义
 ---
-1.*高义频：* **期待；预期；预料：**  
+### 1.*高义频：* **期待；预期；预料：**  
 
  > A good speaker is able to anticipate an audience’s needs.  
  > 优秀的演讲者能够预先考虑到听众的需求。  
@@ -7001,7 +7012,7 @@ Recycling is one way to protect the environment;reusing is ________.
 
 英文释义
 ---
-1.*高义频：* **古老的；古董的：**  
+### 1.*高义频：* **古老的；古董的：**  
 
  > Never will they sell their antique furniture.  
  > 他们永远也不会卖掉自己的古式家具。  
@@ -7017,7 +7028,7 @@ Recycling is one way to protect the environment;reusing is ________.
 
 英文释义
 ---
-1.*高义频：* **古董；古玩；古代文物：**  
+### 1.*高义频：* **古董；古玩；古代文物：**  
 
  > Priceless antiques were destroyed in the fire.  
  > 极其贵重的古董在大火中被焚毁了。  
@@ -7030,7 +7041,7 @@ Recycling is one way to protect the environment;reusing is ________.
 
 英文释义
 ---
-1.*高义频：* **焦虑；不安；担心(concern)：**  
+### 1.*高义频：* **焦虑；不安；担心(concern)：**  
 
  > **acute / deep anxiety**  
  > He was waiting for his brother's return with acute / deep anxiety.  
@@ -7045,7 +7056,7 @@ Recycling is one way to protect the environment;reusing is ________.
  > 数百万失业的美国人可能正在担忧中备受煎熬，而且缺乏安全感。  
  > 来源：2010 广东改  
 
-2.*低义频：* **渴望；热望：**  
+### 2.*低义频：* **渴望；热望：**  
 
  > **anxiety for**  
  > anxiety for knowledge  
@@ -7063,7 +7074,7 @@ Recycling is one way to protect the environment;reusing is ________.
 
 英文释义
 ---
-1.*高义频：* **忧虑的；焦虑的**  
+### 1.*高义频：* **忧虑的；焦虑的**  
 英译 feeling worried or nervous (worried)：
 
  > **anxious for sb,about sth**  
@@ -7078,13 +7089,13 @@ Recycling is one way to protect the environment;reusing is ________.
  > She was anxious (that) it might be cancer.  
  > 她担心可能是癌症。  
 
-2.*高义频：* **令人焦虑的**  
+### 2.*高义频：* **令人焦虑的**  
 英译 causing worry, fear and nerves (worrying)：
 
  > We had an anxious couple of weeks waiting for the test results.  
  > 我们惴惴不安地过了几个星期，等待着考试成绩出来。  
 
-3.*高义频：* **渴望的**  
+### 3.*高义频：* **渴望的**  
 英译 wanting sth very much (keen)：
 
 - (be) anxious to do sth：
@@ -7117,7 +7128,7 @@ My mother always gets a bit ________ (焦虑的) if we don’t arrive when we sa
 
 英文释义
 ---
-1.*高义频：* **稍；有点：**  
+### 1.*高义频：* **稍；有点：**  
 
  > Is that any better?  
  > 好点了吗？  
@@ -7145,7 +7156,7 @@ We had three sets of garden tools and we seemed to have no use for ________ .
 
 英文释义
 ---
-1.*高义频：* **一些； 什么：**  
+### 1.*高义频：* **一些； 什么：**  
 
  > Are there any cows in the field?  
  > 田里有奶牛吗？  
@@ -7153,7 +7164,7 @@ We had three sets of garden tools and we seemed to have no use for ________ .
  > If there’s any trouble, let me know.  
  > 有什么麻烦就告诉我。  
 
-2.*高义频：* **任何：**  
+### 2.*高义频：* **任何：**  
 
  > Come any day you like.  
  > 你喜欢哪天来都行。  
@@ -7169,7 +7180,7 @@ We had three sets of garden tools and we seemed to have no use for ________ .
 
 英文释义
 ---
-1.*高义频：* **一些：**  
+### 1.*高义频：* **一些：**  
 
  > I have no money. Do you have any with you?  
  > 我没带钱。你带了没有？  
@@ -7177,7 +7188,7 @@ We had three sets of garden tools and we seemed to have no use for ________ .
  > Give me some if there’s any.  
  > 如果有的话就给我一些。  
 
-2.*高义频：* **任何一个；任何一些：**  
+### 2.*高义频：* **任何一个；任何一些：**  
 
  > I haven’t seen any of his movies.  
  > 他的电影我一部都没看过。  
@@ -7192,7 +7203,7 @@ We had three sets of garden tools and we seemed to have no use for ________ .
 
 英文释义
 ---
-1.*高义频：* **任何人：**  
+### 1.*高义频：* **任何人：**  
 
  > Is anyone / anybody there?  
  > 有人吗？  
@@ -7214,7 +7225,7 @@ We had three sets of garden tools and we seemed to have no use for ________ .
 
 英文释义
 ---
-1.*高义频：* **[非正式用语]不管怎样； 无论如何 (anyway)：**  
+### 1.*高义频：* **[非正式用语]不管怎样； 无论如何 (anyway)：**  
 
  > It may rain, but anyhow I shall go out.  
  > 可能要下雨，但无论如何我都要出门。  
@@ -7232,7 +7243,7 @@ We had three sets of garden tools and we seemed to have no use for ________ .
 
 英文释义
 ---
-1.*高义频：* **任何人：**  
+### 1.*高义频：* **任何人：**  
 
  > Is anyone / anybody there?  
  > 有人吗？  
@@ -7264,7 +7275,7 @@ D.nobody else
 
 英文释义
 ---
-1.*高义频：* **任何事 (物)：**  
+### 1.*高义频：* **任何事 (物)：**  
 
  > **Anything else**  
  > Anything else?  
@@ -7279,7 +7290,7 @@ D.nobody else
  > Jim sold most of his things. He has hardly anything left in the house.  
  > 吉姆卖掉了大部分的东西。房子里几乎没剩下什么。  
 
-2.*高义频：* **无论什么东西；随便什么事情：**  
+### 2.*高义频：* **无论什么东西；随便什么事情：**  
 
  > You can take anything you like.  
  > 喜欢什么随便拿。  
@@ -7290,7 +7301,7 @@ D.nobody else
 
 固定搭配
 ---
-- ## \*anything but  **根本不；除…以外的任何事物：**  
+## \*anything but  1.**根本不；除…以外的任何事物：**  
 
  > Maria is anything but stupid!  
  > 玛利亚才不笨呢！  
@@ -7298,12 +7309,12 @@ D.nobody else
  > Anything but a center seat is fine with me.  
  > 除了中间的座位，其他哪里都行。  
 
-- ## \*anything like sb / sth  **与某人 / 某物相像；全然 (不)：**  
+## \*anything like sb / sth  1.**与某人 / 某物相像；全然 (不)：**  
 
  > You don’t look anything like your mother.  
  > 你长得一点儿也不像你母亲。  
 
-- ## \*if anything  **[口语] [用于补充内容以强调前面所说的话] 要是有什么的话：**  
+## \*if anything  1.**[口语] [用于补充内容以强调前面所说的话] 要是有什么的话：**  
 
  > Sam didn’t seem too disappointed at losing. If anything, he seemed relieved that it was all over.  
  > 对于失败山姆看起来并不怎么失望，要是说有什么的话，倒是这事儿结束了，他好像松了一口气。  
@@ -7318,22 +7329,22 @@ D.nobody else
 
 英文释义
 ---
-1.*高义频：* **无论如何；反正：**  
+### 1.*高义频：* **无论如何；反正：**  
 
  > I’m too tired to study anymore; anyway, I’m getting hungry.  
  > 我太累，学不下去了，反正我也饿了。  
 
-2.*高义频：* **尽管如此：**  
+### 2.*高义频：* **尽管如此：**  
 
  > He didn't enjoy washing his car, but it was so dirty that he did it anyway.  
  > 他不喜欢洗车，但是车太脏了，所以他还是洗了。  
 
-3.*高义频：* **至少：**  
+### 3.*高义频：* **至少：**  
 
  > Let's think about it for a while, for a few days anyway.  
  > 让我们想一想，至少考虑几天。  
 
-4.*高义频：* **对了；好吧；总之：**  
+### 4.*高义频：* **对了；好吧；总之：**  
 
  > Anyway, let's forget about that for the moment.  
  > 好吧，咱们暂时不要提这件事了。  
@@ -7364,7 +7375,7 @@ D.Therefore
 
 英文释义
 ---
-1.*高义频：* **在 / 去任何地方：**  
+### 1.*高义频：* **在 / 去任何地方：**  
 
  > He’s never been anywhere outside Britain.  
  > 他从未去过英国以外的任何地方。  
@@ -7372,7 +7383,7 @@ D.Therefore
  > Did you go anywhere interesting for your paid annual holiday?  
  > 你有没有去什么好玩的地方休带薪年假？  
 
-2.*高义频：* **无论何处；随便哪个地方：**  
+### 2.*高义频：* **无论何处；随便哪个地方：**  
 
  > There are times when people are so tired that they fall asleep almost anywhere.  
  > 有时候人们太累了，几乎在哪儿都能睡着。  
@@ -7385,7 +7396,7 @@ D.Therefore
 
 固定搭配
 ---
-- ## \*anywhere between … and … / from … to …  **在…到…之间 / 从…到…：**  
+## \*anywhere between … and … / from … to …  1.**在…到…之间 / 从…到…：**  
 
  > As a tutor you could expect to be paid anywhere between 100 yuan and 200 yuan per hour.  
  > 作为一名家教，你有望得到每小时100到200元的报酬。  
@@ -7419,7 +7430,7 @@ D.somewhere
 
 英文释义
 ---
-1.*高义频：* **相隔地；相距地：**  
+### 1.*高义频：* **相隔地；相距地：**  
 
  > The buildings stood several miles apart.  
  > 这些楼之间相隔数英里远。  
@@ -7427,7 +7438,7 @@ D.somewhere
  > Our birthdays are exactly a month apart.  
  > 我们的生日正好相差一个月。  
 
-2.*高义频：* **分开地：**  
+### 2.*高义频：* **分开地：**  
 
  > **set,apart**  
  > He had a deep voice, which set him apart from others in our small town.  
@@ -7438,7 +7449,7 @@ D.somewhere
  > I can’t tell the twins apart.  
  > 我区分不开这对双胞胎。  
 
-3.*高义频：* **零散地；成碎片地：**  
+### 3.*高义频：* **零散地；成碎片地：**  
 
  > **taking apart**  
  > Rod loves taking apart clocks. However, he never manages to put them together again.  
@@ -7456,7 +7467,7 @@ D.somewhere
 
 固定搭配
 ---
-- ## \*apart from  1.*高义频：* **除…外 (别无)；若不：**  
+## \*apart from  1.*高义频：* **除…外 (别无)；若不：**  
 
  > Apart from them, I had no one to talk to.  
  > 除了他们，没有人和我说话。  
@@ -7467,7 +7478,7 @@ D.somewhere
  > 除了用来取暖，火还有什么用处？  
  > 来源：外 研⑦ – 6  
 
-- ## \*be worlds apart  **完全不同；截然相反：**  
+## \*be worlds apart  1.**完全不同；截然相反：**  
 
  > Their experience of life is worlds apart.  
  > 他们的生活经历完全不同。  
@@ -7491,7 +7502,7 @@ Apart________ good service, the restaurant offers different kinds of traditional
 
 英文释义
 ---
-1.*高义频：* **(AmE) 一套公寓房间；公寓大楼 (BrE  flat)：**  
+### 1.*高义频：* **(AmE) 一套公寓房间；公寓大楼 (BrE  flat)：**  
 
 
 # ***\*apologise*** vi
@@ -7501,7 +7512,7 @@ Apart________ good service, the restaurant offers different kinds of traditional
 
 英文释义
 ---
-1.*高义频：* **道歉；表示歉意：**  
+### 1.*高义频：* **道歉；表示歉意：**  
 
  > I think I’ll buy her a present and apologize.  
  > 我想给她买份礼物来赔个不是。  
@@ -7532,7 +7543,7 @@ Yesterday Michael a________ to his boss for being late.
 
 英文释义
 ---
-1.*高义频：* **道歉；表示歉意：**  
+### 1.*高义频：* **道歉；表示歉意：**  
 
  > I think I’ll buy her a present and apologize.  
  > 我想给她买份礼物来赔个不是。  
@@ -7565,7 +7576,7 @@ Yesterday Michael a________ to his boss for being late.
 
 英文释义
 ---
-1.*高义频：* **道歉；歉意：**  
+### 1.*高义频：* **道歉；歉意：**  
 
  > **accept sb’s apology**  
  > accept sb’s apology  
@@ -7609,7 +7620,7 @@ I have an ________ (道歉) to make to you — I’m afraid I opened your letter
 
 英文释义
 ---
-1.**表示所有格的撇号**  
+### 1.**表示所有格的撇号**  
 
 
 # ***\*app*** n
@@ -7619,7 +7630,7 @@ I have an ________ (道歉) to make to you — I’m afraid I opened your letter
 
 英文释义
 ---
-1.**应用程序；应用软件（application的缩略形式）**  
+### 1.**应用程序；应用软件（application的缩略形式）**  
 
 
 # ***\*apparent*** adj
@@ -7629,7 +7640,7 @@ I have an ________ (道歉) to make to you — I’m afraid I opened your letter
 
 英文释义
 ---
-1.*高义频：* **明显的；显而易见的(obvious)：**  
+### 1.*高义频：* **明显的；显而易见的(obvious)：**  
 
  > **It,became apparent to everyone that**  
  > It soon became apparent to everyone that he couldn’t sing.  
@@ -7639,7 +7650,7 @@ I have an ________ (道歉) to make to you — I’m afraid I opened your letter
  > For no apparent reason, the train suddenly stopped.  
  > 不知什么原因，火车突然停了下来。  
 
-2.*高义频：* **表面上的：**  
+### 2.*高义频：* **表面上的：**  
 
  > He did well in his exams, despite his apparent lack of interest in his work.  
  > 他考得很好，尽管表面上他对功课不感兴趣。  
@@ -7654,7 +7665,7 @@ I have an ________ (道歉) to make to you — I’m afraid I opened your letter
 
 英文释义
 ---
-1.*高义频：* **看来 (好像)；显然；据说：**  
+### 1.*高义频：* **看来 (好像)；显然；据说：**  
 
  > I thought she had retired, but apparently she hasn’t.  
  > 我以为她退休了，但显然她还没有。  
@@ -7670,7 +7681,7 @@ I have an ________ (道歉) to make to you — I’m afraid I opened your letter
 
 英文释义
 ---
-1.*高义频：* **呼吁；恳请**  
+### 1.*高义频：* **呼吁；恳请**  
 英译 to make a serious request for sth you need or want very much：
 
 - appeal (to sb) (for sth):
@@ -7686,7 +7697,7 @@ I have an ________ (道歉) to make to you — I’m afraid I opened your letter
  > The government is appealing to everyone to save water.  
  > 政府呼吁人人节约用水。  
 
-2.*高义频：* **有吸引力；有感染力**  
+### 2.*高义频：* **有吸引力；有感染力**  
 英译 to be attractive or interesting to sb：
 
 - appeal to sb:
@@ -7695,7 +7706,7 @@ I have an ________ (道歉) to make to you — I’m afraid I opened your letter
  > 体育运动已成为一种重要的娱乐形式，吸引着男男女女。  
  > 来源：2011 江西  
 
-3.*低义频：* **上诉；申诉：**  
+### 3.*低义频：* **上诉；申诉：**  
 
  > She’s not happy with the decision and plans to appeal.  
  > 她不服判决，打算上诉。  
@@ -7703,7 +7714,7 @@ I have an ________ (道歉) to make to you — I’m afraid I opened your letter
  > He appealed the case five times, always losing.  
  > 这个案件他上诉了五次，都败诉了。  
 
-4.*低义频：* **启发；激发**  
+### 4.*低义频：* **启发；激发**  
 英译 to influence sb’s feelings or thoughts so that they will do sth you want：
 
 - appeal to sth:
@@ -7740,7 +7751,7 @@ We tend to have a better memory for things that excite our senses or appeal ____
 
 英文释义
 ---
-1.*高义频：* **[C] & [U] 呼吁；恳请：**  
+### 1.*高义频：* **[C] & [U] 呼吁；恳请：**  
 
 - appeal (to sb) for sth:
 
@@ -7754,7 +7765,7 @@ We tend to have a better memory for things that excite our senses or appeal ____
  > The organization has launched an appeal to the public to raise £150,000 for the sick kid.  
  > 这个组织呼吁公众筹集15万英镑以拯救这个生病的孩子。  
 
-2.*高义频：* **[U] 吸引力；魅力：**  
+### 2.*高义频：* **[U] 吸引力；魅力：**  
 
  > **wide,popular appeal**  
  > have / hold wide / popular appeal  
@@ -7765,7 +7776,7 @@ We tend to have a better memory for things that excite our senses or appeal ____
  > Small cars are economical of fuel, so they have more appeal for consumers.  
  > 小型车油耗低，因而更受消费者青睐。  
 
-3.*低义频：* **[C] & [U] 上诉；申诉；上诉权：**  
+### 3.*低义频：* **[C] & [U] 上诉；申诉；上诉权：**  
 
  > lose an appeal  
  > 上诉失败  
@@ -7782,7 +7793,7 @@ We tend to have a better memory for things that excite our senses or appeal ____
 
 英文释义
 ---
-1.**有吸引力的,有趣的**  
+### 1.**有吸引力的,有趣的**  
 
 
 # ***\*appear*** vi  重难点词汇
@@ -7792,13 +7803,13 @@ We tend to have a better memory for things that excite our senses or appeal ____
 
 英文释义
 ---
-1.*高义频：* **出现**  
+### 1.*高义频：* **出现**  
 反义词 disappear: 
 
  > One day a stranger appeared on my doorstep.  
  > 一天，一个陌生人出现在我家门前。  
 
-2.*低义频：* **参加演出；亮相：**  
+### 2.*低义频：* **参加演出；亮相：**  
 
  > She has already appeared in a few films.  
  > 她已参演过几部影片。  
@@ -7806,7 +7817,7 @@ We tend to have a better memory for things that excite our senses or appeal ____
  > The principal appeared on television to advocate the reform.  
  > 校长上了电视节目，倡导改革。  
 
-3.*高义频：* **似乎；显得 (seem)：**  
+### 3.*高义频：* **似乎；显得 (seem)：**  
 
  > Things aren't always what they appear (to be).  
  > 事情往往不是它们看上去的样子。  
@@ -7832,13 +7843,14 @@ We tend to have a better memory for things that excite our senses or appeal ____
  > It appeared that he had a taste for music.  
  > 他似乎喜欢音乐。  
 
-4.*低义频：* **出版；刊登；发表：**  
+### 4.*低义频：* **出版；刊登；发表：**  
 
  > His new book will be appearing in the spring.  
  > 他的新书将在春季出版。  
 
-### 辨析 appear, look, seem
+#### 辨析 appear, look, seem
 三者都有“看起来”之意。  
+
 
 # ***\*appearance*** n
 英音 ə'pɪərəns     美音 ə'pɪrəns  
@@ -7847,7 +7859,7 @@ We tend to have a better memory for things that excite our senses or appeal ____
 
 英文释义
 ---
-1.*高义频：* **外观；外貌；外表：**  
+### 1.*高义频：* **外观；外貌；外表：**  
 
  > **judge by appearances**  
  > Don’t judge by appearances — appearances can be misleading.  
@@ -7861,12 +7873,12 @@ We tend to have a better memory for things that excite our senses or appeal ____
  > In appearance, it is a strong building.  
  > 从外观上看，这是一座很坚固的建筑物。  
 
-2.*高义频：* **出现；到来：**  
+### 2.*高义频：* **出现；到来：**  
 
  > The sudden appearance of a security guard scared the thief away.  
  > 保安人员的突然出现吓跑了窃贼。  
 
-3.*低义频：* **公开露面；演出：**  
+### 3.*低义频：* **公开露面；演出：**  
 
  > **appearance money,fee**  
  > appearance money / fee  
@@ -7886,7 +7898,7 @@ We tend to have a better memory for things that excite our senses or appeal ____
 
 英文释义
 ---
-1.*高义频：* **附录；附属品；阑尾**  
+### 1.*高义频：* **附录；附属品；阑尾**  
 
 
 # ***\*appetising*** adj
@@ -7896,7 +7908,7 @@ We tend to have a better memory for things that excite our senses or appeal ____
 
 英文释义
 ---
-1.**开胃的；增进食欲的**  
+### 1.**开胃的；增进食欲的**  
 
 
 # ***\*appetite*** n
@@ -7906,7 +7918,7 @@ We tend to have a better memory for things that excite our senses or appeal ____
 
 英文释义
 ---
-1.*高义频：* **胃口；食欲：**  
+### 1.*高义频：* **胃口；食欲：**  
 
  > lose one’s appetite / have no appetite  
  > 没胃口  
@@ -7915,7 +7927,7 @@ We tend to have a better memory for things that excite our senses or appeal ____
  > All that walking has given me an appetite for dinner.  
  > 走了那么多路使我吃饭胃口大开。  
 
-2.*高义频：* **欲望；爱好：**  
+### 2.*高义频：* **欲望；爱好：**  
 
  > **an appetite for**  
  > He has an appetite for reading.  
@@ -7929,7 +7941,7 @@ We tend to have a better memory for things that excite our senses or appeal ____
 
 英文释义
 ---
-1.*高义频：* **鼓掌；称赞；赞成：**  
+### 1.*高义频：* **鼓掌；称赞；赞成：**  
 
  > People stayed silent and listened to us, and applauded at the end.  
  > 人们静静地听我们说，最后为我们鼓掌。  
@@ -7948,7 +7960,7 @@ We tend to have a better memory for things that excite our senses or appeal ____
 
 英文释义
 ---
-1.*高义频：* **鼓掌；掌声；喝彩：**  
+### 1.*高义频：* **鼓掌；掌声；喝彩：**  
 
  > **thunderous applause**  
  > deafening / thunderous applause  
@@ -7964,12 +7976,12 @@ We tend to have a better memory for things that excite our senses or appeal ____
 
 英文释义
 ---
-1.*高义频：* **苹果**  
+### 1.*高义频：* **苹果**  
 
 
 固定搭配
 ---
-- ## \*the apple of sb’s eye  **某人的掌上明珠 / 心肝宝贝：**  
+## \*the apple of sb’s eye  1.**某人的掌上明珠 / 心肝宝贝：**  
 
 
 # ***\*appliance*** n
@@ -7981,7 +7993,7 @@ We tend to have a better memory for things that excite our senses or appeal ____
 
 英文释义
 ---
-1.*高义频：* **用具；工具；器具**  
+### 1.*高义频：* **用具；工具；器具**  
 
 
 # ***\*applicant*** n
@@ -7993,7 +8005,7 @@ We tend to have a better memory for things that excite our senses or appeal ____
 
 英文释义
 ---
-1.*高义频：* **申请人；应征者：**  
+### 1.*高义频：* **申请人；应征者：**  
 
  > **successful applicants**  
  > successful applicants  
@@ -8017,7 +8029,7 @@ The advertisement for engineers in the local paper attracted many ________ (申�
 
 英文释义
 ---
-1.*高义频：* **申请；申请书；申请表：**  
+### 1.*高义频：* **申请；申请书；申请表：**  
 
  > **job application**  
  > a job application   
@@ -8034,7 +8046,7 @@ The advertisement for engineers in the local paper attracted many ________ (申�
  > accept / reject sb’s application  
  > 接受/拒绝某人的申请  
 
-2.*高义频：* **应用；运用；[缩略为app] 应用程序：**  
+### 2.*高义频：* **应用；运用；[缩略为app] 应用程序：**  
 
  > **application of**  
  > make practical application of new technology to teaching  
@@ -8051,7 +8063,7 @@ The advertisement for engineers in the local paper attracted many ________ (申�
 
 英文释义
 ---
-1.*高义频：* **申请**  
+### 1.*高义频：* **申请**  
 英译 to make a formal request, usually in writing：
 
 - apply for sth:
@@ -8074,7 +8086,7 @@ The advertisement for engineers in the local paper attracted many ________ (申�
  > 他申请跟这位著名音乐家学习作曲。  
  > 来源：2013 山东  
 
-2.*高义频：* **运用；应用；使用：**  
+### 2.*高义频：* **运用；应用；使用：**  
 
  > **apply,to_3,to_4**  
  > We had to write a paper on how we plan to apply what we would learn in class to our future professions and to our lives.  
@@ -8085,26 +8097,26 @@ The advertisement for engineers in the local paper attracted many ________ (申�
  > The new technology was applied to farming.  
  > 这项新技术被应用于农业。  
 
-3.*高义频：* **[不用于进行时] (对…) 适用；(对…) 有效：**  
+### 3.*高义频：* **[不用于进行时] (对…) 适用；(对…) 有效：**  
 
  > **apply to**  
  > If the constitution said that all people were free and equal, then she thought it should apply to her.  
  > 如果这部宪法称所有人都是自由和平等的，那么她认为这也应适用于自己。  
  > 来源：2014 山东  
 
-4.*高义频：* **涂；敷：**  
+### 4.*高义频：* **涂；敷：**  
 
  > **Apply,to**  
  > Apply the cream evenly to your face and neck.  
  > 将乳霜均匀地涂抹于面部和颈部。  
 
-5.*低义频：* **努力；使专注于：**  
+### 5.*低义频：* **努力；使专注于：**  
 
  > **applied himself to**  
  > Recently, he has applied himself to his studies.  
  > 近来，他专心学习。  
 
-6.*低义频：* **手压；脚踩：**  
+### 6.*低义频：* **手压；脚踩：**  
 
  > apply the brakes  
  > 踩刹车  
@@ -8122,7 +8134,7 @@ The advertisement for engineers in the local paper attracted many ________ (申�
 
 英文释义
 ---
-1.*高义频：* **任命；委派：**  
+### 1.*高义频：* **任命；委派：**  
 
 - appoint sb (as) sth:
 
@@ -8141,7 +8153,7 @@ The advertisement for engineers in the local paper attracted many ________ (申�
  > 一名护士被委派来守护她。  
  > 来源：2014 浙江改  
 
-2.*低义频：* **指定；约定：**  
+### 2.*低义频：* **指定；约定：**  
 
  > We appointed a day in June for celebration.  
  > 我们把庆祝会定在六月的一天。  
@@ -8158,7 +8170,7 @@ The advertisement for engineers in the local paper attracted many ________ (申�
 
 英文释义
 ---
-1.**约定的，指定的**  
+### 1.**约定的，指定的**  
 
 
 # ***\*appointment*** n
@@ -8168,7 +8180,7 @@ The advertisement for engineers in the local paper attracted many ________ (申�
 
 英文释义
 ---
-1.*高义频：* **约会；约定；预约：**  
+### 1.*高义频：* **约会；约定；预约：**  
 
  > **make / keep an appointment**  
  > make / keep an appointment  
@@ -8183,7 +8195,7 @@ The advertisement for engineers in the local paper attracted many ________ (申�
  > Viewing is by appointment only.  
  > 参观必须预约。  
 
-2.*高义频：* **任命；任职；职位：**  
+### 2.*高义频：* **任命；任职；职位：**  
 
  > He holds an appointment in the English Department at present.  
  > 他目前在英语系任职。  
@@ -8210,7 +8222,7 @@ I have an appointment ______ Dr. Smith, but I need to change it.
 
 英文释义
 ---
-1.*高义频：* **欣赏；赏识：**  
+### 1.*高义频：* **欣赏；赏识：**  
 英译 to understand how good or useful sb / sth is：
 
  > I really appreciate your handwriting.  
@@ -8219,7 +8231,7 @@ I have an appointment ______ Dr. Smith, but I need to change it.
  > His talents aren’t appreciated by his boss, which makes him depressed.  
  > 他的才干不为老板赏识，这使得他很沮丧。  
 
-2.*高义频：* **感激；感谢：**  
+### 2.*高义频：* **感激；感谢：**  
 英译 to be grateful for sth：
 
  > I appreciate your help very much.  
@@ -8238,7 +8250,7 @@ I have an appointment ______ Dr. Smith, but I need to change it.
  > I’d appreciate it if you could give me the opportunity.  
  > 如果您能给我这个机会的话我将不胜感激。  
 
-3.*低义频：* **理解；明白：**  
+### 3.*低义频：* **理解；明白：**  
 英译 to understand that sth is ture(realize)：
 
  > **appreciate the significance,value of sth**  
@@ -8271,7 +8283,7 @@ I really appreciate ________ (have) time to relax with you on this nice island.
 
 英文释义
 ---
-1.*低义频：* **欣赏；赏识；鉴赏：**  
+### 1.*低义频：* **欣赏；赏识；鉴赏：**  
 
  > **appreciation of**  
  > have a deep appreciation of literature  
@@ -8280,7 +8292,7 @@ I really appreciate ________ (have) time to relax with you on this nice island.
  > Chinese arts have won the appreciation of a lot of people outside China.   
  > 中国艺术已经赢得了许多国外人士的赞赏。  
 
-2.*高义频：* **感激；感谢：**  
+### 2.*高义频：* **感激；感谢：**  
 
  > **in appreciation of**  
  > Please accept this gift in appreciation of all you’ve done for us.  
@@ -8290,7 +8302,7 @@ I really appreciate ________ (have) time to relax with you on this nice island.
  > I would like to express my appreciation and thanks to you all.  
  > 我向所有人表示诚挚的感谢！  
 
-3.*高义频：* **理解；认识：**  
+### 3.*高义频：* **理解；认识：**  
 
  > **appreciation of**  
  > She had no appreciation of the difﬁculties we were facing.  
@@ -8304,7 +8316,7 @@ I really appreciate ________ (have) time to relax with you on this nice island.
 
 英文释义
 ---
-1.*高义频：* **靠近；接近：**  
+### 1.*高义频：* **靠近；接近：**  
 
  > the approach of autumn  
  > 秋天的来临  
@@ -8312,14 +8324,14 @@ I really appreciate ________ (have) time to relax with you on this nice island.
  > The students stopped talking at the teacher's approach.  
  > 老师一走近，学生们就不说话了。  
 
-2.*低义频：* **通道；道路**  
+### 2.*低义频：* **通道；道路**  
 英译 a road or path, etc. leading to sth：
 
  > **approaches to**  
  > All approaches to the town were blocked.  
  > 所有去城里的路都被堵住了。  
 
-3.*高义频：* **(处理...的) 方法；(达到...的) 途径**  
+### 3.*高义频：* **(处理...的) 方法；(达到...的) 途径**  
 英译 a way of dealing with sb / sth：
 
  > **adopt / take a,approach to**  
@@ -8346,7 +8358,7 @@ At the meeting they discussed three different approaches ________ the study of m
 
 英文释义
 ---
-1.*高义频：* **(距离上) 靠近 (near)；(时间上) 临近； (数量上) 接近：**  
+### 1.*高义频：* **(距离上) 靠近 (near)；(时间上) 临近； (数量上) 接近：**  
 英译 to come near or nearer to sb / sth in space, time, amount or quality:
 
  > Approaching the vehicle, they saw that a woman was trying to get out of the broken window.  
@@ -8360,7 +8372,7 @@ At the meeting they discussed three different approaches ________ the study of m
  > The population of our province is now approaching 74 million.  
  > 我省人口现已接近七千四百万。  
 
-2.*高义频：* **与…接洽**  
+### 2.*高义频：* **与…接洽**  
 英译 to speak to sb usually in order to ask for sth：
 
  > The staff soon found the new manager easy to approach.  
@@ -8371,7 +8383,7 @@ At the meeting they discussed three different approaches ________ the study of m
  > The students approach their teacher for advice.  
  > 学生们找到老师征求意见。  
 
-3.*高义频：* **处理**  
+### 3.*高义频：* **处理**  
 英译 to start dealing with a problem, task, etc.：
 
  > **approaching,problem / matter / task**  
@@ -8386,7 +8398,7 @@ At the meeting they discussed three different approaches ________ the study of m
 
 英文释义
 ---
-1.*高义频：* **恰当的；适当的：**  
+### 1.*高义频：* **恰当的；适当的：**  
 
  > **appropriate for**  
  > His casual clothes were not appropriate for such a formal occasion.  
@@ -8408,7 +8420,7 @@ appropriately /ə'proʊpriət/ adv
 
 英文释义
 ---
-1.**适当地**  
+### 1.**适当地**  
 
 
 # ***\*approval*** n
@@ -8420,7 +8432,7 @@ appropriately /ə'proʊpriət/ adv
 
 英文释义
 ---
-1.*高义频：* **赞成；同意；批准：**  
+### 1.*高义频：* **赞成；同意；批准：**  
 反义词 disapproval： 
 
  > **in approval**  
@@ -8444,7 +8456,7 @@ appropriately /ə'proʊpriət/ adv
 
 英文释义
 ---
-1.*高义频：* **批准；认可**  
+### 1.*高义频：* **批准；认可**  
 英译 to officially accept a plan, proposal, etc.：
 
  > We would be pleased if you would approve our proposal.  
@@ -8454,7 +8466,7 @@ appropriately /ə'proʊpriət/ adv
  > The Ministry of Education approved a new policy today.  
  > 教育部今天批准了一项新政策。  
 
-2.*高义频：* **赞成；赞同：**  
+### 2.*高义频：* **赞成；赞同：**  
 反义词 disapprove 
 
  > **approve of you / your trying**  
@@ -8473,7 +8485,7 @@ approving /ə'pruːvɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **大约的；大概的：**  
+### 1.*高义频：* **大约的；大概的：**  
 反义词 exact 
 
  > an approximate price / fi gure / amount  
@@ -8487,7 +8499,7 @@ approving /ə'pruːvɪŋ/ adj
 
 英文释义
 ---
-1.*高义频：* **大约； 大概 (about)：**  
+### 1.*高义频：* **大约； 大概 (about)：**  
 
  > Approximately two thirds of people have lied about reading a book which they haven’t.  
  > 大约有三分之二的人撒谎说自己读了实际上没读的书。  
@@ -8511,7 +8523,7 @@ The questionnaire takes ________ (大约) ten to fifteen minutes to complete and
 
 英文释义
 ---
-1.*高义频：* **围裙**  
+### 1.*高义频：* **围裙**  
 
 
 # ***\*aquarium*** n
@@ -8523,7 +8535,7 @@ The questionnaire takes ________ (大约) ten to fifteen minutes to complete and
 
 英文释义
 ---
-1.*高义频：* **(pl aquarium 或aquaria) 水族馆；水族箱；养鱼缸**  
+### 1.*高义频：* **(pl aquarium 或aquaria) 水族馆；水族箱；养鱼缸**  
 
 
 # ***\*arbitrary*** adj
@@ -8533,7 +8545,7 @@ The questionnaire takes ________ (大约) ten to fifteen minutes to complete and
 
 英文释义
 ---
-1.*高义频：* **专横的；武断的；任意的：**  
+### 1.*高义频：* **专横的；武断的；任意的：**  
 
  > an arbitrary decision  
  > 武断的决定  
@@ -8560,7 +8572,7 @@ People complain that decisions to approve or deny a permit are often ________ �
 
 英文释义
 ---
-1.*高义频：* **拱门；弓形结构；拱形**  
+### 1.*高义频：* **拱门；弓形结构；拱形**  
 
 
 # ***\*arch*** v
@@ -8570,7 +8582,7 @@ People complain that decisions to approve or deny a permit are often ________ �
 
 英文释义
 ---
-1.*高义频：* **(使) 弯成弓形**  
+### 1.*高义频：* **(使) 弯成弓形**  
 
 
 # ***\*archaeological*** adj
@@ -8580,7 +8592,7 @@ People complain that decisions to approve or deny a permit are often ________ �
 
 英文释义
 ---
-1.*高义频：* **考古学的；与考古学有关的 (=archeological)**  
+### 1.*高义频：* **考古学的；与考古学有关的 (=archeological)**  
 
 
 # ***\*archaeologist*** n
@@ -8592,7 +8604,7 @@ People complain that decisions to approve or deny a permit are often ________ �
 
 英文释义
 ---
-1.*高义频：* **考古学家 (=archeologist)**  
+### 1.*高义频：* **考古学家 (=archeologist)**  
 
 
 # ***\*archaeology*** n
@@ -8604,7 +8616,7 @@ People complain that decisions to approve or deny a permit are often ________ �
 
 英文释义
 ---
-1.*高义频：* **考古学 (= archeology)**  
+### 1.*高义频：* **考古学 (= archeology)**  
 
 
 # ***\*architect*** n
@@ -8616,7 +8628,7 @@ People complain that decisions to approve or deny a permit are often ________ �
 
 英文释义
 ---
-1.*高义频：* **建筑师；设计师；缔造者**  
+### 1.*高义频：* **建筑师；设计师；缔造者**  
 
 
 # ***\*architecture*** n
@@ -8628,7 +8640,7 @@ People complain that decisions to approve or deny a permit are often ________ �
 
 英文释义
 ---
-1.*高义频：* **建筑学； 建筑式样；建筑风格：**  
+### 1.*高义频：* **建筑学； 建筑式样；建筑风格：**  
 
  > It's a great island with some really interesting architecture.  
  > 那是个很棒的岛屿，岛上的建筑风格饶有趣味。  
@@ -8644,7 +8656,7 @@ People complain that decisions to approve or deny a permit are often ________ �
 
 英文释义
 ---
-1.*高义频：* **地区；地带：**  
+### 1.*高义频：* **地区；地带：**  
 
  > an industrial area  
  > 工业区  
@@ -8652,7 +8664,7 @@ People complain that decisions to approve or deny a permit are often ________ �
  > the area code  
  > 区号  
 
-2.*高义频：* **场所；地方：**  
+### 2.*高义频：* **场所；地方：**  
 英译 a part of a room, building or particular space that is used for a special purpose：
 
  > **no-smoking area**  
@@ -8667,12 +8679,12 @@ People complain that decisions to approve or deny a permit are often ________ �
  > a play / parking / dining area  
  > 游戏场地/停车场/用餐处  
 
-3.*高义频：* **面积：**  
+### 3.*高义频：* **面积：**  
 
  > The island covered an area of 800 square kilometers.  
  > 这座岛占地面积为800平方公里。  
 
-4.*高义频：* **领域；范围：**  
+### 4.*高义频：* **领域；范围：**  
 
  > Choosing the right food has become an area of study in modern life.  
  > 选择适当的食物已成为现代生活的一个研究领域。  
@@ -8685,7 +8697,7 @@ People complain that decisions to approve or deny a permit are often ________ �
 
 英文释义
 ---
-1.**舞台**  
+### 1.**舞台**  
 
 
 # ***\*arguably*** adv
@@ -8695,7 +8707,7 @@ People complain that decisions to approve or deny a permit are often ________ �
 
 英文释义
 ---
-1.**有争议地**  
+### 1.**有争议地**  
 
 
 # ***\*argue*** v  重难点词汇
@@ -8705,7 +8717,7 @@ People complain that decisions to approve or deny a permit are often ________ �
 
 英文释义
 ---
-1.*高义频：* **争论；争辩；争吵：**  
+### 1.*高义频：* **争论；争辩；争吵：**  
 
 - argue (with sb) (about / over sth):
 
@@ -8717,7 +8729,7 @@ People complain that decisions to approve or deny a permit are often ________ �
  > 枪支管控是美国人争论已久的话题。  
  > 来源：2009 陕西  
 
-2.*高义频：* **论证**  
+### 2.*高义频：* **论证**  
 英译 to give reasons that support your opinion about sth：
 
  > **argued for,against**  
@@ -8738,7 +8750,7 @@ People complain that decisions to approve or deny a permit are often ________ �
 
 英文释义
 ---
-1.*高义频：* **[C] & [U]争吵；争论；辩论：**  
+### 1.*高义频：* **[C] & [U]争吵；争论；辩论：**  
 
  > **have an argument (with sb) (about / over sth)**  
  > have an argument (with sb) (about / over sth)  
@@ -8752,7 +8764,7 @@ People complain that decisions to approve or deny a permit are often ________ �
  > Settle the question by argument, not by fighting.   
  > 解决这个问题要靠说理，而不是靠打架。  
 
-2.*高义频：* **[C]论据；理由；论点：**  
+### 2.*高义频：* **[C]论据；理由；论点：**  
 
  > **arguments against**  
  > This paragraph gives the arguments against cars.  
@@ -8773,7 +8785,7 @@ People complain that decisions to approve or deny a permit are often ________ �
 
 英文释义
 ---
-1.*高义频：* **(问题或困难) 出现；发生；产生(occur)：**  
+### 1.*高义频：* **(问题或困难) 出现；发生；产生(occur)：**  
 
  > What problems may arise when humans are cloned?  
  > 克隆人类的时候会发生什么问题？  
@@ -8783,7 +8795,7 @@ People complain that decisions to approve or deny a permit are often ________ �
  > 在一年前还是废墟的地方立起了许多高楼大厦。  
  > 来源：2012 山东  
 
-2.*低义频：* **起身；起立：**  
+### 2.*低义频：* **起身；起立：**  
 
  > **arose from**  
  > He arose from his seat.  
@@ -8792,7 +8804,7 @@ People complain that decisions to approve or deny a permit are often ________ �
 
 固定搭配
 ---
-- ## \*arise from / out of   **因…产生；由…引起：**  
+## \*arise from / out of   1.**因…产生；由…引起：**  
 
  > Accidents often arise from / out of carelessness.   
  > 事故往往由粗心引起。  
@@ -8807,7 +8819,7 @@ People complain that decisions to approve or deny a permit are often ________ �
 
 英文释义
 ---
-1.*高义频：* **算术**  
+### 1.*高义频：* **算术**  
 
 
 # ***\*arm*** n
@@ -8819,7 +8831,7 @@ People complain that decisions to approve or deny a permit are often ________ �
 
 英文释义
 ---
-1.*高义频：* **手臂；胳膊：**  
+### 1.*高义频：* **手臂；胳膊：**  
 
  > **hold / take sb in one’s arms**  
  > hold / take sb in one’s arms  
@@ -8829,9 +8841,9 @@ People complain that decisions to approve or deny a permit are often ________ �
  > He caught the thief by the arm.   
  > 他抓住了小偷的胳膊。  
 
-2.*高义频：* **(椅子的) 扶手**  
+### 2.*高义频：* **(椅子的) 扶手**  
 
-3.*高义频：* **[正式用语] [复数] 武器：**  
+### 3.*高义频：* **[正式用语] [复数] 武器：**  
 
  > **took up arms**  
  > The soldiers took up arms to fight.  
@@ -8840,12 +8852,12 @@ People complain that decisions to approve or deny a permit are often ________ �
 
 固定搭配
 ---
-- ## \*arm in arm   **臂挽臂地：**  
+## \*arm in arm   1.**臂挽臂地：**  
 
  > They walked along the beach arm in arm.   
  > 他们臂挽臂沿着沙滩散步。  
 
-- ## \*with open arms  **热烈地；热情地：**  
+## \*with open arms  1.**热烈地；热情地：**  
 
  > They are sure to welcome you with open arms.  
  > 他们肯定会热情地欢迎你。  
@@ -8858,13 +8870,13 @@ People complain that decisions to approve or deny a permit are often ________ �
 
 英文释义
 ---
-1.*高义频：* **用武器装备：**  
+### 1.*高义频：* **用武器装备：**  
 
  > **armed,with**  
  > These security guards armed themselves with guns.  
  > 这些保安配有枪支。  
 
-2.*高义频：* **提供；配备 (equip)：**  
+### 2.*高义频：* **提供；配备 (equip)：**  
 
  > **arms,with**  
  > The book arms the reader with a mass of useful information.   
@@ -8898,7 +8910,7 @@ armed /ɑːrmd/ adj
 
 英文释义
 ---
-1.*高义频：* **扶手椅**  
+### 1.*高义频：* **扶手椅**  
 
 
 # ***\*army*** n
@@ -8910,7 +8922,7 @@ armed /ɑːrmd/ adj
 
 英文释义
 ---
-1.*高义频：* **陆军 (部队)；大群：**  
+### 1.*高义频：* **陆军 (部队)；大群：**  
 
  > **in the army**  
  > be / serve in the army  
@@ -8929,17 +8941,17 @@ armed /ɑːrmd/ adj
 
 英文释义
 ---
-1.*高义频：* **在…周围；环绕着：**  
+### 1.*高义频：* **在…周围；环绕着：**  
 
  > He walked around the table touching glasses with the guests.   
  > 他绕桌而行，与客人碰杯。  
 
-2.*高义频：* **在…附近：**  
+### 2.*高义频：* **在…附近：**  
 
  > He lives somewhere around London.   
  > 他住在伦敦附近的某个地方。  
 
-3.*高义频：* **在…各处：**  
+### 3.*高义频：* **在…各处：**  
 
  > On my holidays, I'll travel around the world.  
  > 在假日里，我要去世界各地旅行。  
@@ -8953,17 +8965,17 @@ armed /ɑːrmd/ adj
 
 英文释义
 ---
-1.*高义频：* **在附近；在周围：**  
+### 1.*高义频：* **在附近；在周围：**  
 
  > He looked around but could see nothing.   
  > 他向四周张望，但什么也没有看到。  
 
-2.*高义频：* **各处；到处：**  
+### 2.*高义频：* **各处；到处：**  
 
  > Children were running around on the sand.  
  > 孩子们在沙滩上跑来跑去。  
 
-3.*高义频：* **大约 (about)：**  
+### 3.*高义频：* **大约 (about)：**  
 
  > It cost me around $10.   
  > 这个东西花了我大约10美元。  
@@ -8976,7 +8988,7 @@ armed /ɑːrmd/ adj
 
 英文释义
 ---
-1.*高义频：* **唤醒；引起；激起：**  
+### 1.*高义频：* **唤醒；引起；激起：**  
 
  > **arouse,from**  
  > arouse sb from sleep   
@@ -8993,7 +9005,7 @@ armed /ɑːrmd/ adj
 
 英文释义
 ---
-1.*高义频：* **安排；筹划**  
+### 1.*高义频：* **安排；筹划**  
 英译 to make plans and preparations for sth to happen：
 
  > In China, many parents arrange everything for their children and pave the way for their success.  
@@ -9027,7 +9039,7 @@ armed /ɑːrmd/ adj
  > The manager arranged that the meeting should be put off for a couple of days.  
  > 经理安排会议推迟几天。  
 
-2.*高义频：* **排列；整理**  
+### 2.*高义频：* **排列；整理**  
 英译 to put sth in a particular order：
 
  > The list is arranged alphabetically.   
@@ -9037,7 +9049,7 @@ armed /ɑːrmd/ adj
  > 你可以按照从头到尾、从小到大或别的顺序来整理物品。  
  > 来源：2012 陕西  
 
-3.*低义频：* **编写 / 改编 (乐曲)**  
+### 3.*低义频：* **编写 / 改编 (乐曲)**  
 英译 to write or change a piece of music：
 
  > write and arrange musical compositions   
@@ -9046,7 +9058,7 @@ armed /ɑːrmd/ adj
 
 固定搭配
 ---
-- ## \*arranged marriage  **包办婚姻**  
+## \*arranged marriage  1.**包办婚姻**  
 
 
 # ***\*arrangement*** n
@@ -9056,7 +9068,7 @@ armed /ɑːrmd/ adj
 
 英文释义
 ---
-1.*高义频：* **[C] [常用复数] 安排；筹备**  
+### 1.*高义频：* **[C] [常用复数] 安排；筹备**  
 英译 a plan or preparation：
 
  > travel arrangements  
@@ -9066,20 +9078,20 @@ armed /ɑːrmd/ adj
  > Our college is to make arrangements for the meeting.  
  > 我们学院将筹备这次会议。  
 
-2.*高义频：* **[C] [常用复数] 安排方式**  
+### 2.*高义频：* **[C] [常用复数] 安排方式**  
 英译 the way things are done or organized：
 
  > **security arrangements**  
  > The airport is currently reviewing its new security arrangements.  
  > 机场目前正在检查新的安保措施。  
 
-3.*高义频：* **[C] & [U] 排列；布置**  
+### 3.*高义频：* **[C] & [U] 排列；布置**  
 英译 a group of things that are put in a particular way：
 
  > the seating arrangements  
  > 座次安排  
 
-4.*高义频：* **[C] & [U] 商定；约定**  
+### 4.*高义频：* **[C] & [U] 商定；约定**  
 英译 sth that has been organized or agreed on (agreement)：
 
  > We have come to an arrangement — she gives me a ride to school and I help her with her English.  
@@ -9093,7 +9105,7 @@ armed /ɑːrmd/ adj
 
 英文释义
 ---
-1.*高义频：* **逮捕；拘留：**  
+### 1.*高义频：* **逮捕；拘留：**  
 
  > A man has been arrested and is being questioned now.  
  > 一名男子已被逮捕，正在接受审问。  
@@ -9112,7 +9124,7 @@ armed /ɑːrmd/ adj
 
 英文释义
 ---
-1.*高义频：* **逮捕：**  
+### 1.*高义频：* **逮捕：**  
 
  > **made,arrests**  
  > The police made several arrests.   
@@ -9130,7 +9142,7 @@ armed /ɑːrmd/ adj
 
 英文释义
 ---
-1.*高义频：* **[U] & [C] 到来；到达：**  
+### 1.*高义频：* **[U] & [C] 到来；到达：**  
 反义词 departure 
 
  > the arrivals lounge  
@@ -9144,7 +9156,7 @@ armed /ɑːrmd/ adj
  > 一到那里，吉米就发现申请者排起了长队等着面试。  
  > 来源：2013 山东  
 
-2.*高义频：* **[C] 到达者；到达物：**  
+### 2.*高义频：* **[C] 到达者；到达物：**  
 
  > early / late / new arrivals  
  > 早到/晚到/新到者  
@@ -9157,7 +9169,7 @@ armed /ɑːrmd/ adj
 
 英文释义
 ---
-1.*高义频：* **到达；送达；到来：**  
+### 1.*高义频：* **到达；送达；到来：**  
 
  > Christmas soon arrived.   
  > 圣诞节很快就到了。  
@@ -9175,12 +9187,13 @@ armed /ɑːrmd/ adj
  > 他们及时赶到了车站。  
 
 Notes: arrive in指到达相对大的地方，arrive at指到达相对小的地点。  
-### 辨析 arrive, get, reach
+#### 辨析 arrive, get, reach
 三者均有“到达”之意。  
+
 
 固定搭配
 ---
-- ## \*arrive at  **达成 (协议) (reach)；得出 (结论)：**  
+## \*arrive at  1.**达成 (协议) (reach)；得出 (结论)：**  
 
  > arrive at an agreement / a decision  
  > 达成协议/作出决定  
@@ -9199,7 +9212,7 @@ Notes: arrive in指到达相对大的地方，arrive at指到达相对小的地�
 
 英文释义
 ---
-1.*高义频：* **箭；箭头 (符号)：**  
+### 1.*高义频：* **箭；箭头 (符号)：**  
 
  > Time flies like an arrow.   
  > 光阴似箭。  
@@ -9217,7 +9230,7 @@ Notes: arrive in指到达相对大的地方，arrive at指到达相对小的地�
 
 英文释义
 ---
-1.*高义频：* **箭头**  
+### 1.*高义频：* **箭头**  
 
 
 # ***\*art*** n
@@ -9227,7 +9240,7 @@ Notes: arrive in指到达相对大的地方，arrive at指到达相对小的地�
 
 英文释义
 ---
-1.*高义频：* **[U] 艺术；美术 [用复数] 艺术 / 美术作品：**  
+### 1.*高义频：* **[U] 艺术；美术 [用复数] 艺术 / 美术作品：**  
 
  > an art gallery / exhibition   
  > 美术馆/美术展览  
@@ -9235,17 +9248,17 @@ Notes: arrive in指到达相对大的地方，arrive at指到达相对小的地�
  > arts and crafts  
  > 手工艺品  
 
-2.*高义频：* **[U] [the arts] [总称] 艺术：**  
+### 2.*高义频：* **[U] [the arts] [总称] 艺术：**  
 
  > Government funding for the arts has been reduced.  
  > 政府对艺术的资助减少了。  
 
-3.*高义频：* **[C] [常用复数] 人文学科；文科：**  
+### 3.*高义频：* **[C] [常用复数] 人文学科；文科：**  
 
  > a Bachelor of Arts   
  > 文学学士  
 
-4.*低义频：* **技术；技巧：**  
+### 4.*低义频：* **技术；技巧：**  
 
  > the art of selling   
  > 销售技巧  
@@ -9260,18 +9273,18 @@ Notes: arrive in指到达相对大的地方，arrive at指到达相对小的地�
 
 英文释义
 ---
-1.*高义频：* **文章：**  
+### 1.*高义频：* **文章：**  
 
  > **an article about,on**  
  > write an article about / on   
  > 写一篇关于…的文章  
 
-2.*低义频：* **[语法] 冠词：**  
+### 2.*低义频：* **[语法] 冠词：**  
 
  > the definite / indefinite article   
  > 定/不定冠词  
 
-3.*高义频：* **[正式用语] (一件) 物品 (item)：**  
+### 3.*高义频：* **[正式用语] (一件) 物品 (item)：**  
 
  > **an article of clothing**  
  > an article of clothing  
@@ -9281,7 +9294,7 @@ Notes: arrive in指到达相对大的地方，arrive at指到达相对小的地�
  > 彼得喜欢买二手物品。  
  > 来源：2015 广东  
 
-4.*低义频：* **(法律) 条款**  
+### 4.*低义频：* **(法律) 条款**  
 
 
 # ***\*artificial*** adj
@@ -9291,12 +9304,12 @@ Notes: arrive in指到达相对大的地方，arrive at指到达相对小的地�
 
 英文释义
 ---
-1.*高义频：* **人造的；人工的：**  
+### 1.*高义频：* **人造的；人工的：**  
 
  > artificial legs / flowers / light / fertilizers  
  > 假肢/假花/人造光/化肥  
 
-2.*高义频：* **做作的；不自然的：**  
+### 2.*高义频：* **做作的；不自然的：**  
 
  > **an artificial smile**  
  > an artificial smile   
@@ -9310,7 +9323,7 @@ Notes: arrive in指到达相对大的地方，arrive at指到达相对小的地�
 
 英文释义
 ---
-1.**大炮**  
+### 1.**大炮**  
 
 
 # ***\*artist*** n
@@ -9322,7 +9335,7 @@ Notes: arrive in指到达相对大的地方，arrive at指到达相对小的地�
 
 英文释义
 ---
-1.*高义频：* **艺术家；画家**  
+### 1.*高义频：* **艺术家；画家**  
 
 
 派生词汇
@@ -9344,7 +9357,7 @@ The open exhibition will allow local ________ (艺术家) to show their talents.
 
 英文释义
 ---
-1.*高义频：* **当…时候；一面…一面…；随着：**  
+### 1.*高义频：* **当…时候；一面…一面…；随着：**  
 
  > They sang songs as they were doing farm work.   
  > 他们一边干农活，一边唱着歌。  
@@ -9353,14 +9366,15 @@ The open exhibition will allow local ________ (艺术家) to show their talents.
  > 随着人口平均年龄的增长，有越来越多的老年人需要关照。  
  > 来源：2016 天津  
 
-2.*高义频：* **因为；既然：**  
+### 2.*高义频：* **因为；既然：**  
 
  > As he wasn’t ready in time, we went without him.   
  > 因为他没有及时准备好，我们没等他就走了。  
 
-### 辨析 because, since, as, for
+#### 辨析 because, since, as, for
   
-3.*高义频：* **虽然；尽管：**  
+
+### 3.*高义频：* **虽然；尽管：**  
 
  > Clever as she is, she works very hard. / Although she is clever, she works very hard.   
  > 尽管聪明，她还是很努力。  
@@ -9369,7 +9383,7 @@ Notes: as意为“尽管”时，引导的从句要用倒装语序，其结构�
  > Child as he was, he knew a lot. / Although he was a child, he knew a lot.  
  > 他虽然是个孩子，但懂的很多。  
 
-4.*高义频：* **如；像；按照(like)：**  
+### 4.*高义频：* **如；像；按照(like)：**  
 
  > When in Rome do as the Romans do.  
  > 入乡随俗。  
@@ -9384,13 +9398,13 @@ Notes: 表示比较或方式的as从句一般用正常语序，但是，在正�
 
 固定搭配
 ---
-- ## \*as for  **至于…；就…而言：**  
+## \*as for  1.**至于…；就…而言：**  
 
  > As for my favorite figure in Chinese history, it must be Wei Yuan, a great thinker in the late Qing Dynasty.  
  > 至于我最喜欢的中国历史人物，他一定是晚清伟大的思想家魏源。  
  > 来源：2016 北京书面表达  
 
-- ## \*as if / though  **好像；似乎：**  
+## \*as if / though  1.**好像；似乎：**  
 
  > It looks as if it is going to rain.  
  > 看样子好像要下雨。  
@@ -9402,7 +9416,7 @@ Notes: 表示比较或方式的as从句一般用正常语序，但是，在正�
  > 他英语讲得很好，好像他在英国生活了很多年似的。  
 
 Notes: as if / though常用于引导表语从句或状语从句，如果是不真实的情况，从句中常用过去时表示虚拟语气。  
-- ## \*as it is / was  **[置于句首] 实际上；[置于句末] 已经：**  
+## \*as it is / was  1.**[置于句首] 实际上；[置于句末] 已经：**  
 
  > As it is, I have a garden full of sweet-smelling roses for most of the year.  
  > 其实，我有一座花园，一年中大部分时间都玫瑰飘香。  
@@ -9410,7 +9424,7 @@ Notes: as if / though常用于引导表语从句或状语从句，如果是不�
  > I’ve already gone into debt as it is, so don’t expect any more money from me.  
  > 我已经欠债了，所以不要指望我会再出钱。  
 
-- ## \*as to sth  **关于某事：**  
+## \*as to sth  1.**关于某事：**  
 
  > I’m in a puzzle as to what to do next.  
  > 关于下一步该做什么我也不知道。  
@@ -9466,7 +9480,7 @@ D.unless
 
 英文释义
 ---
-1.*高义频：* **同样地：**  
+### 1.*高义频：* **同样地：**  
 
  > Ten years ago the population of our village was twice as large as that of theirs.  
  > 十年前我们村子的人口数量是他们的两倍。  
@@ -9492,7 +9506,7 @@ Notes: 否定句中也可用so代替as。
 
 英文释义
 ---
-1.*高义频：* **作为：**  
+### 1.*高义频：* **作为：**  
 
  > I hope I’ll work in a computer company as a program designer.  
  > 我希望会在电脑公司上班，从事程序设计员的工作。  
@@ -9506,7 +9520,7 @@ Notes: 否定句中也可用so代替as。
 
 英文释义
 ---
-1.*高义频：* **(正) 如…一样：**  
+### 1.*高义频：* **(正) 如…一样：**  
 
 - 作关系代词，引导限制性定语从句，常与 such和the same连用：
 
@@ -9522,8 +9536,9 @@ Notes: 否定句中也可用so代替as。
  > As we all know, success comes from hard work.   
  > 众所周知，成功源于勤奋。  
 
-### 辨析 as, which
+#### 辨析 as, which
 二者都可引导非限制性定语从句，指代主句的全部或部分，作从句中的主语或宾语，其用法、意义区别如下：  
+
 
 # ***\*ash*** n
 英音 æʃ     美音 æʃ  
@@ -9532,7 +9547,7 @@ Notes: 否定句中也可用so代替as。
 
 英文释义
 ---
-1.*高义频：* **[C] & [U] 灰；[复数] 灰烬：**  
+### 1.*高义频：* **[C] & [U] 灰；[复数] 灰烬：**  
 
  > cigarette / volcanic ash   
  > 香烟灰/火山灰  
@@ -9540,7 +9555,7 @@ Notes: 否定句中也可用so代替as。
  > The house burnt to ashes.   
  > 房子烧成了灰烬。  
 
-2.*低义频：* **[复数] 骨灰；废墟：**  
+### 2.*低义频：* **[复数] 骨灰；废墟：**  
 
  > She wanted her ashes to be buried under the cherry tree.   
  > 她希望自己的骨灰埋在樱花树下。  
@@ -9559,7 +9574,7 @@ Notes: 否定句中也可用so代替as。
 
 英文释义
 ---
-1.*高义频：* **羞耻的；惭愧的【反：proud 】；害臊的：**  
+### 1.*高义频：* **羞耻的；惭愧的【反：proud 】；害臊的：**  
 
 - (be) ashamed of sb / sth:
 
@@ -9596,7 +9611,7 @@ Tom was ________ (羞愧) of having lied to his parents.
 
 英文释义
 ---
-1.**烟灰缸**  
+### 1.**烟灰缸**  
 
 
 # ***\*aside*** adv
@@ -9606,7 +9621,7 @@ Tom was ________ (羞愧) of having lied to his parents.
 
 英文释义
 ---
-1.*高义频：* **在 / 到 / 向旁边：**  
+### 1.*高义频：* **在 / 到 / 向旁边：**  
 
  > Joe stepped aside to let Jane go in first.  
  > 乔闪到一边让简先进去。  
@@ -9619,7 +9634,7 @@ Tom was ________ (羞愧) of having lied to his parents.
 
 固定搭配
 ---
-- ## \*aside from   **除…之外 (apart from)：**  
+## \*aside from   1.**除…之外 (apart from)：**  
 
  > Aside from being good exercise, swimming is a very useful skill.   
  > 除了是一项好的运动外，游泳还是一种非常有用的技能。  
@@ -9632,7 +9647,7 @@ Tom was ________ (羞愧) of having lied to his parents.
 
 英文释义
 ---
-1.*高义频：* **问；询问：**  
+### 1.*高义频：* **问；询问：**  
 
  > She asked Mary what time it was.   
  > 她问玛丽几点了。  
@@ -9644,7 +9659,7 @@ Tom was ________ (羞愧) of having lied to his parents.
  > She asked about Jesse’s health.   
  > 她询问了杰西的健康状况。  
 
-2.*高义频：* **要求；请求：**  
+### 2.*高义频：* **要求；请求：**  
 
 - ask (sb) to do sth:
 
@@ -9669,14 +9684,14 @@ Tom was ________ (羞愧) of having lied to his parents.
  > I went into a cafe and asked for a coffee.   
  > 我走进一家咖啡馆要了杯咖啡。  
 
-3.*高义频：* **邀请：**  
+### 3.*高义频：* **邀请：**  
 
 - ask sb to do sth:
 
  > She’s asked him to come to the party.   
  > 她已邀请他来参加聚会。  
 
-4.*高义频：* **索要 (价格)：**  
+### 4.*高义频：* **索要 (价格)：**  
 
  > **asking,for**  
  > He’s asking ￡80 a month rent for that flat.   
@@ -9685,7 +9700,7 @@ Tom was ________ (羞愧) of having lied to his parents.
 
 固定搭配
 ---
-- ## \*ask for trouble   **自找麻烦；自讨苦吃**  
+## \*ask for trouble   1.**自找麻烦；自讨苦吃**  
 
 
 真题解析
@@ -9714,7 +9729,7 @@ Before building a house, you will have to ask _______ the government’s permiss
 
 英文释义
 ---
-1.*高义频：* **睡着的；睡熟的：**  
+### 1.*高义频：* **睡着的；睡熟的：**  
 反义词 awake 
 
  > **half asleep**  
@@ -9729,7 +9744,7 @@ Notes: asleep常用fast, sound修饰，不用very修饰。
 
 固定搭配
 ---
-- ## \*fall / drop asleep  **入睡；睡着：**  
+## \*fall / drop asleep  1.**入睡；睡着：**  
 
  > I was so tired that I fell asleep the moment my head touched the pillow.  
  > 我太累了，头一碰到枕头就睡着了。  
@@ -9742,7 +9757,7 @@ Notes: asleep常用fast, sound修饰，不用very修饰。
 
 英文释义
 ---
-1.**芦笋**  
+### 1.**芦笋**  
 
 
 # ***\*aspect*** n
@@ -9752,14 +9767,14 @@ Notes: asleep常用fast, sound修饰，不用very修饰。
 
 英文释义
 ---
-1.*高义频：* **[C] 方面：**  
+### 1.*高义频：* **[C] 方面：**  
 
  > **aspect of**  
  > Technological change is everywhere and affects every aspect of life.  
  > 技术革新到处可见，并影响着生活的方方面面。  
  > 来源：2015 北京  
 
-2.*低义频：* **[U] [单数] [正式用语] 外观；样子：**  
+### 2.*低义频：* **[U] [单数] [正式用语] 外观；样子：**  
 
  > Our school takes on an entirely new aspect.  
  > 我们的学校面貌一新。  
@@ -9775,7 +9790,7 @@ Notes: asleep常用fast, sound修饰，不用very修饰。
 
 英文释义
 ---
-1.**阿司匹林**  
+### 1.**阿司匹林**  
 
 
 # ***\*assemble*** v
@@ -9785,7 +9800,7 @@ Notes: asleep常用fast, sound修饰，不用very修饰。
 
 英文释义
 ---
-1.*高义频：* **集合；聚集；组装：**  
+### 1.*高义频：* **集合；聚集；组装：**  
 
  > All the people assembled at Mary’s house.   
  > 所有人都聚集在玛丽的屋子里。  
@@ -9805,7 +9820,7 @@ assembly /'sembli/ n
 
 英文释义
 ---
-1.**集会，会议**  
+### 1.**集会，会议**  
 
 
 # ***\*assess*** vt
@@ -9815,7 +9830,7 @@ assembly /'sembli/ n
 
 英文释义
 ---
-1.*高义频：* **评价；评定**  
+### 1.*高义频：* **评价；评定**  
 英译 to make a judgment about a person or situation(judge)：
 
  > **assess the impact**  
@@ -9825,7 +9840,7 @@ assembly /'sembli/ n
  > Many of the adults were assessed as having learning difficulties.  
  > 许多成年人被认定有学习困难。  
 
-2.*高义频：* **估算；估价**  
+### 2.*高义频：* **估算；估价**  
 英译 to calculate the value or cost of sth (estimate)：
 
  > Damage to the building was assessed at £40 000.  
@@ -9841,7 +9856,7 @@ assembly /'sembli/ n
 
 英文释义
 ---
-1.*高义频：* **评定；评价；估价；估算**  
+### 1.*高义频：* **评定；评价；估价；估算**  
 
 
 # ***\*assign*** vt
@@ -9851,7 +9866,7 @@ assembly /'sembli/ n
 
 英文释义
 ---
-1.**分配；分派：**  
+### 1.**分配；分派：**  
 
  > High school teachers should assign homework no more than twice a week.  
  > 中学老师给学生留作业每周不应超过两次。  
@@ -9866,7 +9881,7 @@ assembly /'sembli/ n
 
 英文释义
 ---
-1.*高义频：* **[C] & [U] 任务；作业 [U] 分配：**  
+### 1.*高义频：* **[C] & [U] 任务；作业 [U] 分配：**  
 
  > a written assignment   
  > 书面作业  
@@ -9882,7 +9897,7 @@ assembly /'sembli/ n
 
 英文释义
 ---
-1.*高义频：* **帮助；协助：**  
+### 1.*高义频：* **帮助；协助：**  
 
  > **assist in,with**  
  > We’re looking for people who would be willing to assist in / with the group’s work.   
@@ -9893,8 +9908,9 @@ assembly /'sembli/ n
  > 我迅速游向父亲，并协助他爬到船上。  
  > 来源：2011 重庆改  
 
-### 辨析 assist, help, aid
+#### 辨析 assist, help, aid
 三者都有“帮助”之意，但侧重点有所不同。  
+
 
 # ***\*assistance*** n
 英音 ə'sɪstəns     美音 ə'sɪstəns  
@@ -9905,7 +9921,7 @@ assembly /'sembli/ n
 
 英文释义
 ---
-1.*高义频：* **帮助；协助；援助：**  
+### 1.*高义频：* **帮助；协助；援助：**  
 
  > **technical assistance**  
  > medical / technical assistance  
@@ -9932,7 +9948,7 @@ assembly /'sembli/ n
 
 英文释义
 ---
-1.*高义频：* **[C] 助手；副手；助理；店员：**  
+### 1.*高义频：* **[C] 助手；副手；助理；店员：**  
 
  > a teaching / shop assistant  
  > 助教/店员  
@@ -9945,7 +9961,7 @@ assembly /'sembli/ n
 
 英文释义
 ---
-1.*高义频：* **助理的；辅助的**  
+### 1.*高义频：* **助理的；辅助的**  
 英译 having a rank below a senior person and helping them in their work：
 
  > an assistant manager  
@@ -9959,7 +9975,7 @@ assembly /'sembli/ n
 
 英文释义
 ---
-1.*高义频：* **把…联想 / 联系起来**  
+### 1.*高义频：* **把…联想 / 联系起来**  
 英译 to connect sb or sth in your mind with sb or sth else：
 
  > **associate,with**  
@@ -9971,7 +9987,7 @@ assembly /'sembli/ n
  > 我们往往把新鲜空气和身体保健联系在一起。  
  > 来源：2019 全国  
 
-2.*低义频：* **交往；结交**  
+### 2.*低义频：* **交往；结交**  
 英译 to spend time with sb, especially sb that other people disapprove of：
 
  > **associating with**  
@@ -9986,7 +10002,7 @@ assembly /'sembli/ n
 
 英文释义
 ---
-1.*高义频：* **[C] 同事 (colleague)；(生意) 伙伴：**  
+### 1.*高义频：* **[C] 同事 (colleague)；(生意) 伙伴：**  
 
  > business associates   
  > 生意伙伴  
@@ -9999,7 +10015,7 @@ assembly /'sembli/ n
 
 英文释义
 ---
-1.*高义频：* **副的**  
+### 1.*高义频：* **副的**  
 英译 having fewer rights in a particular profession or organization：
 
  > **associate,professor**  
@@ -10023,12 +10039,12 @@ associated /ə'soʊʃieɪtɪd/ adj
 
 英文释义
 ---
-1.*高义频：* **[C] 协会；联盟；社团：**  
+### 1.*高义频：* **[C] 协会；联盟；社团：**  
 
  > the National Basketball Association (NBA)   
  > (美国)国家篮球协会  
 
-2.*高义频：* **[C] & [U] (与人或团体的) 关联；交往：**  
+### 2.*高义频：* **[C] & [U] (与人或团体的) 关联；交往：**  
 
  > **association with**  
  > His English improved rapidly because of his association with British people.   
@@ -10038,7 +10054,7 @@ associated /ə'soʊʃieɪtɪd/ adj
  > We are working in association with a local company to raise money for the homeless.   
  > 我们正联合一家当地的公司，为无家可归的人筹款。  
 
-3.*高义频：* **[C] 联系；联想：**  
+### 3.*高义频：* **[C] 联系；联想：**  
 
  > **association between**  
  > There is a proven association between passive smoking and cancer.   
@@ -10055,7 +10071,7 @@ associated /ə'soʊʃieɪtɪd/ adj
 
 英文释义
 ---
-1.*低义频：* **[正式用语] 担任；承担 (take)：**  
+### 1.*低义频：* **[正式用语] 担任；承担 (take)：**  
 
  > assume office  
  > 就职  
@@ -10064,7 +10080,7 @@ associated /ə'soʊʃieɪtɪd/ adj
  > I made a mistake and I will assume responsibility for it.   
  > 我错了，我愿意为此承担责任。  
 
-2.*高义频：* **假定；设想**  
+### 2.*高义频：* **假定；设想**  
 英译 to accept or think that sth is true although you have no proof：
 
  > **it is reasonable to assume**  
@@ -10098,7 +10114,7 @@ assuming [ə'suːmɪŋ] conj
 
 英文释义
 ---
-1.*高义频：* **假定；假设：**  
+### 1.*高义频：* **假定；假设：**  
 
  > **working on the assumption**  
  > We are working on the assumption that everyone invited will turn up.   
@@ -10112,7 +10128,7 @@ assuming [ə'suːmɪŋ] conj
 
 英文释义
 ---
-1.*高义频：* **[多接从句] 向…保证：**  
+### 1.*高义频：* **[多接从句] 向…保证：**  
 
  > **assure,that**  
  > I assure you that this medicine cannot harm you.  
@@ -10126,7 +10142,7 @@ assuming [ə'suːmɪŋ] conj
 
 英文释义
 ---
-1.**哮喘 (病)**  
+### 1.**哮喘 (病)**  
 
 
 # ***\*astonish*** vt
@@ -10136,7 +10152,7 @@ assuming [ə'suːmɪŋ] conj
 
 英文释义
 ---
-1.*高义频：* **使大为惊讶；使惊骇：**  
+### 1.*高义频：* **使大为惊讶；使惊骇：**  
 
  > What he said at the meeting astonished everybody present.  
  > 他在会上所说的话令在场的所有人感到吃惊。  
@@ -10154,7 +10170,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
 
 英文释义
 ---
-1.*高义频：* **感到大为惊讶的**  
+### 1.*高义频：* **感到大为惊讶的**  
 英译 very surprised (amazed)：
 
  > I was astonished to see him here.   
@@ -10175,7 +10191,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
 
 英文释义
 ---
-1.*高义频：* **令人感到惊讶的**  
+### 1.*高义频：* **令人感到惊讶的**  
 
 
 # ***\*astonishment*** n
@@ -10187,7 +10203,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
 
 英文释义
 ---
-1.*高义频：* **惊讶：**  
+### 1.*高义频：* **惊讶：**  
 
  > **To my astonishment**  
  > To my astonishment, he was so impolite.   
@@ -10208,7 +10224,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
 
 英文释义
 ---
-1.*高义频：* **宇航员**  
+### 1.*高义频：* **宇航员**  
 
 
 # ***\*astronomer*** n
@@ -10218,7 +10234,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
 
 英文释义
 ---
-1.*高义频：* **[C] 天文学家**  
+### 1.*高义频：* **[C] 天文学家**  
 
 
 # ***\*astronomy*** n
@@ -10228,7 +10244,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
 
 英文释义
 ---
-1.*高义频：* **[U] 天文学**  
+### 1.*高义频：* **[U] 天文学**  
 
 
 # ***\*at*** prep
@@ -10238,7 +10254,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
 
 英文释义
 ---
-1.*高义频：* **在：**  
+### 1.*高义频：* **在：**  
 
 - 表示地点：
 
@@ -10278,12 +10294,12 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
  > be good / bad at maths   
  > 数学好/不好  
 
-2.*高义频：* **[表示原因] 由于：**  
+### 2.*高义频：* **[表示原因] 由于：**  
 
  > The children all laughed at his jokes.   
  > 孩子们听了他的笑话都大笑起来。  
 
-3.*高义频：* **[表示速度、价格等] 以：**  
+### 3.*高义频：* **[表示速度、价格等] 以：**  
 
  > at a low / high price   
  > 以低/高价  
@@ -10301,7 +10317,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
 
 英文释义
 ---
-1.*高义频：* **运动员：**  
+### 1.*高义频：* **运动员：**  
 
 
 # ***\*athletic*** adj
@@ -10311,7 +10327,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
 
 英文释义
 ---
-1.*高义频：* **健壮的；[只用于名词前] 运动的：**  
+### 1.*高义频：* **健壮的；[只用于名词前] 运动的：**  
 
  > a tall athletic man   
  > 高大强壮的男子  
@@ -10329,7 +10345,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
 
 英文释义
 ---
-1.*高义频：* **(pl) 体育运动；竞技**  
+### 1.*高义频：* **(pl) 体育运动；竞技**  
 
 
 # ***\*atlas*** n
@@ -10341,7 +10357,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
 
 英文释义
 ---
-1.*高义频：* **地图；地图集**  
+### 1.*高义频：* **地图；地图集**  
 
 
 # ***\*atmosphere*** n
@@ -10351,7 +10367,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
 
 英文释义
 ---
-1.*高义频：* **[C] 大气层；气体；空气：**  
+### 1.*高义频：* **[C] 大气层；气体；空气：**  
 
  > **the atmosphere**  
  > The waste the factories create goes into the atmosphere and makes us sick.  
@@ -10360,7 +10376,7 @@ astonishment /ə'stɑːnɪʃmənt/ n [U]
  > a smoky atmosphere   
  > 烟雾弥漫的空气  
 
-2.*高义频：* **[C] & [U] 气氛；环境：**  
+### 2.*高义频：* **[C] & [U] 气氛；环境：**  
 
  > **atmosphere of**  
  > His appearance created an atmosphere of tension.  
@@ -10385,7 +10401,7 @@ The top leaders of the two countries are holding talks in a friendly ________ (�
 
 英文释义
 ---
-1.*高义频：* **原子：**  
+### 1.*高义频：* **原子：**  
 
  > an atom bomb  
  > 原子弹  
@@ -10402,7 +10418,7 @@ atomic /ə'tɑːmɪk/ adj
 
 英文释义
 ---
-1.*高义频：* **系；贴；连接**  
+### 1.*高义频：* **系；贴；连接**  
 英译 to fasten or join one thing to another：
 
  > **attached,to**  
@@ -10414,13 +10430,13 @@ atomic /ə'tɑːmɪk/ adj
  > 车站竖起一个牌子，上面用别针别着些美元钞票。  
  > 来源：2019 浙江  
 
-2.*低义频：* **[正式用语] (与…) 有关联：**  
+### 2.*低义频：* **[正式用语] (与…) 有关联：**  
 
  > **attaches to**  
  > the advantage that attaches to wealth  
  > 与财富有关的有利条件  
 
-3.*高义频：* **重视；认为...重要**  
+### 3.*高义频：* **重视；认为...重要**  
 英译 to believe that sth is important or worth thinking about：
 
  > **attach,importance to**  
@@ -10483,7 +10499,7 @@ My parents always ________ (对…很重视) my getting a good education.
 
 英文释义
 ---
-1.*高义频：* **[C] & [U] 攻击；进攻：**  
+### 1.*高义频：* **[C] & [U] 攻击；进攻：**  
 
  > **air attack**  
  > an air attack   
@@ -10498,12 +10514,12 @@ My parents always ________ (对…很重视) my getting a good education.
  > 当植物遭受侵害时，会释放出某些化学物质。  
  > 来源：2017 全国改  
 
-2.*高义频：* **[C] & [U] 抨击：**  
+### 2.*高义频：* **[C] & [U] 抨击：**  
 
  > a personal attack   
  > 人身攻击  
 
-3.*高义频：* **[C] (疾病等) 侵袭；发作：**  
+### 3.*高义频：* **[C] (疾病等) 侵袭；发作：**  
 
  > **a heart attack**  
  > He suffered a heart attack.  
@@ -10517,7 +10533,7 @@ My parents always ________ (对…很重视) my getting a good education.
 
 英文释义
 ---
-1.*高义频：* **攻击；进攻：**  
+### 1.*高义频：* **攻击；进攻：**  
 
  > Travelers should not feed the wild animals in a close distance because they may attack people.   
  > 旅游者不应该近距离喂野生动物，因为它们有可能会袭击人。  
@@ -10526,13 +10542,13 @@ My parents always ________ (对…很重视) my getting a good education.
  > Snakes will only attack if you disturb them.   
  > 蛇只有在受到骚扰时才会主动攻击。  
 
-2.*高义频：* **抨击：**  
+### 2.*高义频：* **抨击：**  
 英译 to criticize sb / sth strongly：
 
  > His remarks were attacked in the newspaper.   
  > 他的言论在报纸上受到抨击。  
 
-3.*高义频：* **(疾病、虫、化学物等) 侵袭；侵蚀：**  
+### 3.*高义频：* **(疾病、虫、化学物等) 侵袭；侵蚀：**  
 
  > Recently, the H7N9 bird flu has attacked many cities.  
  > H7N9型禽流感最近侵袭了许多城市。  
@@ -10545,7 +10561,7 @@ My parents always ________ (对…很重视) my getting a good education.
 
 英文释义
 ---
-1.*高义频：* **[正式用语] (经过长时间努力) 达到 (achieve)；得到；取得：**  
+### 1.*高义频：* **[正式用语] (经过长时间努力) 达到 (achieve)；得到；取得：**  
 
  > attain one's goal  
  > 达到目标  
@@ -10563,7 +10579,7 @@ My parents always ________ (对…很重视) my getting a good education.
 
 英文释义
 ---
-1.*高义频：* **试图；尝试；努力 (try)：**  
+### 1.*高义频：* **试图；尝试；努力 (try)：**  
 
  > **attempts,to**  
  > All attempts by the experts to cure him failed.  
@@ -10590,7 +10606,7 @@ My parents always ________ (对…很重视) my getting a good education.
 
 英文释义
 ---
-1.*高义频：* **试图；尝试；企图**  
+### 1.*高义频：* **试图；尝试；企图**  
 英译 to try to do sth, especially sth difficult：
 
  > He did not attempt the last question in the examination.  
@@ -10610,7 +10626,7 @@ My parents always ________ (对…很重视) my getting a good education.
 
 英文释义
 ---
-1.*高义频：* **企图的；未遂的：**  
+### 1.*高义频：* **企图的；未遂的：**  
 
  > attempted murder / robbery   
  > 谋杀/抢劫未遂  
@@ -10625,7 +10641,7 @@ My parents always ________ (对…很重视) my getting a good education.
 
 英文释义
 ---
-1.*高义频：* **出席；参加：**  
+### 1.*高义频：* **出席；参加：**  
 
  > attend a lecture / party / meeting / an interview  
  > 听课/参加聚会/参加会议/参加面试  
@@ -10633,15 +10649,16 @@ My parents always ________ (对…很重视) my getting a good education.
  > Please let us know if you are unable to attend.   
  > 如果不能出席请通知我们。  
 
-### 辨析 join, join in, take part in, attend
+#### 辨析 join, join in, take part in, attend
 四者都常译为“参加”。  
-2.*高义频：* **上 (学)：**  
+
+### 2.*高义频：* **上 (学)：**  
 
  > That holiday morning I didn’t have to attend school.   
  > 那个假日的早上，我不必去上学。  
  > 来源：2012 江西  
 
-3.*低义频：* **看护；照料：**  
+### 3.*低义频：* **看护；照料：**  
 
  > The patient was attended by a nurse.  
  > 病人由一名护士照料。  
@@ -10649,7 +10666,7 @@ My parents always ________ (对…很重视) my getting a good education.
 
 固定搭配
 ---
-- ## \*attend to  **照料；处理；接待 (serve)：**  
+## \*attend to  1.**照料；处理；接待 (serve)：**  
 
  > Nurses are busy attending to the wounded.   
  > 护士正忙着照顾伤员。  
@@ -10687,7 +10704,7 @@ We will ________ (参加) a meeting to celebrate the sixtieth birthday of the P.
 
 英文释义
 ---
-1.*高义频：* **注意；专心：**  
+### 1.*高义频：* **注意；专心：**  
 
  > **have your attention**  
  > May / Could I have your attention, please?  
@@ -10697,7 +10714,7 @@ We will ________ (参加) a meeting to celebrate the sixtieth birthday of the P.
  > He turned his attention back to the road again.  
  > 他把注意力又转回到道路上。  
 
-2.*高义频：* **兴趣；关注：**  
+### 2.*高义频：* **兴趣；关注：**  
 
  > The post has since gained the attention of social media users all over the world.  
  > 之后，这个帖子得到了世界各地社交媒体用户的关注。  
@@ -10707,19 +10724,19 @@ We will ________ (参加) a meeting to celebrate the sixtieth birthday of the P.
  > Rob loves being the centre of attention.  
  > 罗布喜欢成为人们关注的焦点。  
 
-3.*高义频：* **关心；照料：**  
+### 3.*高义频：* **关心；照料：**  
 
  > Thank you for your kind attention.   
  > 谢谢你善意的关心。  
  > 来源：译林③ – 3  
 
-4.*低义频：* **维修；保养：**  
+### 4.*低义频：* **维修；保养：**  
 
  > **needs,attention**  
  > The old car needs a lot of attention.  
  > 这辆旧车该大修了。  
 
-5.*低义频：* **立正姿势：**  
+### 5.*低义频：* **立正姿势：**  
 
  > **Attention**  
  > Attention!  
@@ -10732,7 +10749,7 @@ We will ________ (参加) a meeting to celebrate the sixtieth birthday of the P.
 
 固定搭配
 ---
-- ## \*attract / catch / get the attention of …  **吸引 / 引起 / 得到……的注意：**  
+## \*attract / catch / get the attention of …  1.**吸引 / 引起 / 得到……的注意：**  
 
  > She waved to attract the attention of the waitress.  
  > 她挥手想引起服务员的注意。  
@@ -10740,30 +10757,30 @@ We will ________ (参加) a meeting to celebrate the sixtieth birthday of the P.
  > The excellent football player quickly caught the attention of the public.  
  > 这个出色的足球运动员很快就吸引了公众的注意。  
 
-- ## \*bring sth to sb’s attention  **使某事引起某人的 注意：**  
+## \*bring sth to sb’s attention  1.**使某事引起某人的 注意：**  
 
  > Why don't you bring it to his attention that you're too ill to work on?  
  > 你为什么不告诉他你病得很厉害，不能继续工作呢？  
  > 来源：2011 江西  
 
-- ## \*call / draw attention to   **使人们关注：**  
+## \*call / draw attention to   1.**使人们关注：**  
 
  > The purpose of the campaign is to draw public attention to the needs of the tall.  
  > 这项活动的目的是让公众关注高个子人群的需求。  
  > 来源：2011 全国改  
 
-- ## \*hold / keep sb’s attention  **保持某人的注意力：**  
+## \*hold / keep sb’s attention  1.**保持某人的注意力：**  
 
  > This game is fun and is sure to keep children's attention.  
  > 这个游戏很有趣，一定能保持孩子们的注意力。  
 
-- ## \*pay attention to   **注意：**  
+## \*pay attention to   1.**注意：**  
 
  > On the bus, you will often notice someone paying more attention to his mobile phone.  
  > 在公共汽车上，你常会看到有人更专注于看自己的手机。  
  > 来源：2013 安徽改  
 
-- ## \*with attention   **专心致志地：**  
+## \*with attention   1.**专心致志地：**  
 
  > The lawyer listened with full attention, trying not to miss any point.  
  > 这位律师全神贯注地听着，竭力不漏掉任何要点。  
@@ -10777,7 +10794,7 @@ We will ________ (参加) a meeting to celebrate the sixtieth birthday of the P.
 
 英文释义
 ---
-1.*高义频：* **专心的；留心的；注意的：**  
+### 1.*高义频：* **专心的；留心的；注意的：**  
 
  > **attentive to**  
  > They want their children to be attentive to their studies.  
@@ -10795,7 +10812,7 @@ attentively /ə'tentɪvli/ adv
 
 英文释义
 ---
-1.**阁楼，顶楼**  
+### 1.**阁楼，顶楼**  
 
 
 # ***\*attitude*** n
@@ -10807,7 +10824,7 @@ attentively /ə'tentɪvli/ adv
 
 英文释义
 ---
-1.*高义频：* **态度；看法：**  
+### 1.*高义频：* **态度；看法：**  
 
  > **have / take / adopt a positive attitude**  
  > have / take / adopt a positive attitude  
@@ -10823,7 +10840,7 @@ attentively /ə'tentɪvli/ adv
  > 我们应该树立良好的生活态度。  
  > 来源：2008 辽宁书面表达  
 
-2.*低义频：* **姿势：**  
+### 2.*低义频：* **姿势：**  
 
  > He knelt in an attitude of prayer.   
  > 他以祈祷的姿势跪着。  
@@ -10843,7 +10860,7 @@ Despite such a big difference in ________ (对…的态度) what one eats, there
 
 英文释义
 ---
-1.*高义频：* **吸引；引起 (…的兴趣)：**  
+### 1.*高义频：* **吸引；引起 (…的兴趣)：**  
 
  > Dickens' style of writing attracted audiences from all walks of life.  
  > 狄更斯的写作风格吸引了来自各行各业的读者。  
@@ -10874,12 +10891,12 @@ The company is starting a new advertising campaign to ________ (吸引) new cust
 
 英文释义
 ---
-1.*高义频：* **[U] 吸引；吸引力：**  
+### 1.*高义频：* **[U] 吸引；吸引力：**  
 
  > When we met at the restaurant I felt an immediate attraction for him.  
  > 我们在饭馆遇见时，我一下子就被他吸引住了。  
 
-2.*高义频：* **[C] 有吸引力的事 / 人：**  
+### 2.*高义频：* **[C] 有吸引力的事 / 人：**  
 
  > **tourist attraction**  
  > Hampton Court Palace is open to the public as a major tourist attraction.   
@@ -10894,7 +10911,7 @@ The company is starting a new advertising campaign to ________ (吸引) new cust
 
 英文释义
 ---
-1.*高义频：* **有吸引力的； 有魅力的：**  
+### 1.*高义频：* **有吸引力的； 有魅力的：**  
 
  > This is one of the most attractive places I’ve been to.  
  > 这是我到过的最迷人的地方之一。  
@@ -10907,7 +10924,7 @@ The company is starting a new advertising campaign to ________ (吸引) new cust
 
 英文释义
 ---
-1.*高义频：* **把...归因于；认为是...的结果：**  
+### 1.*高义频：* **把...归因于；认为是...的结果：**  
 
 - attribute sth to sth:
 
@@ -10924,7 +10941,7 @@ The company is starting a new advertising campaign to ________ (吸引) new cust
 
 英文释义
 ---
-1.*高义频：* **观众；听众：**  
+### 1.*高义频：* **观众；听众：**  
 
  > **an audience of**  
  > When Mozart’s music was performed in America, there was an audience of 100,000 people.  
@@ -10951,7 +10968,7 @@ Notes: audience是集体名词，作主语时，如果作为整体看待，谓�
 
 英文释义
 ---
-1.*高义频：* **音频的**  
+### 1.*高义频：* **音频的**  
 
 
 # ***\*auld*** adj
@@ -10961,7 +10978,7 @@ Notes: audience是集体名词，作主语时，如果作为整体看待，谓�
 
 英文释义
 ---
-1.**老的，旧的（苏格兰语）=old**  
+### 1.**老的，旧的（苏格兰语）=old**  
 
 
 # ***\*aunt*** n
@@ -10973,7 +10990,7 @@ Notes: audience是集体名词，作主语时，如果作为整体看待，谓�
 
 英文释义
 ---
-1.*高义频：* **姑母；姨妈；舅妈；婶母； 伯母**  
+### 1.*高义频：* **姑母；姨妈；舅妈；婶母； 伯母**  
 
 
 # ***\*aurochs*** n
@@ -10983,7 +11000,7 @@ Notes: audience是集体名词，作主语时，如果作为整体看待，谓�
 
 英文释义
 ---
-1.*高义频：* **原牛 (古代欧洲野牛，已灭绝)**  
+### 1.*高义频：* **原牛 (古代欧洲野牛，已灭绝)**  
 
 
 # ***\*authentic*** adj
@@ -10993,7 +11010,7 @@ Notes: audience是集体名词，作主语时，如果作为整体看待，谓�
 
 英文释义
 ---
-1.*高义频：* **真正的；真实的；原作的：**  
+### 1.*高义频：* **真正的；真实的；原作的：**  
 
  > an authentic report  
  > 真实可靠的报道  
@@ -11012,7 +11029,7 @@ Notes: audience是集体名词，作主语时，如果作为整体看待，谓�
 
 英文释义
 ---
-1.*高义频：* **作者；作家**  
+### 1.*高义频：* **作者；作家**  
 
 
 # ***\*authority*** n
@@ -11022,13 +11039,13 @@ Notes: audience是集体名词，作主语时，如果作为整体看待，谓�
 
 英文释义
 ---
-1.*低义频：* **权威人士；专家；泰斗 (specialist)：**  
+### 1.*低义频：* **权威人士；专家；泰斗 (specialist)：**  
 
  > **authority on**  
  > He is an authority on vocabulary.   
  > 他是词汇研究方面的权威。  
 
-2.*高义频：* **权威；权力；当权**  
+### 2.*高义频：* **权威；权力；当权**  
 英译 the power to give orders to people：
 
  > Teenagers, when they grow up, begin to question their parents’ authority and wisdom.   
@@ -11042,14 +11059,14 @@ Notes: audience是集体名词，作主语时，如果作为整体看待，谓�
  > Could I speak to someone in authority (= who has a position of power) here, please?  
  > 我能和这儿主管的人谈谈吗？  
 
-3.*高义频：* **(正式的) 许可；授权**  
+### 3.*高义频：* **(正式的) 许可；授权**  
 英译 the official right or permission to do sth：
 
  > **without my authority**  
  > No one may enter without my authority.   
  > 未经我许可任何人都不能进入。  
 
-4.*高义频：* **[C] [常用复数] 官方；当局：**  
+### 4.*高义频：* **[C] [常用复数] 官方；当局：**  
 
  > **health authorities**  
  > health authorities   
@@ -11067,7 +11084,7 @@ Notes: audience是集体名词，作主语时，如果作为整体看待，谓�
 
 英文释义
 ---
-1.**亲笔签名**  
+### 1.**亲笔签名**  
 
 
 # ***\*automatic*** adj
@@ -11077,7 +11094,7 @@ Notes: audience是集体名词，作主语时，如果作为整体看待，谓�
 
 英文释义
 ---
-1.*高义频：* **自动的；无意识的：**  
+### 1.*高义频：* **自动的；无意识的：**  
 
  > automatic driving  
  > 自动驾驶  
@@ -11097,7 +11114,7 @@ automatically /ˌɔːtə'mætɪkli/ adv
 
 英文释义
 ---
-1.*高义频：* **无意识地；自动地**  
+### 1.*高义频：* **无意识地；自动地**  
 
 
 # ***\*automobile*** n
@@ -11109,7 +11126,7 @@ automatically /ˌɔːtə'mætɪkli/ adv
 
 英文释义
 ---
-1.*高义频：* **汽车 (AmE auto)**  
+### 1.*高义频：* **汽车 (AmE auto)**  
 
 
 # ***\*autonomous*** adj
@@ -11119,7 +11136,7 @@ automatically /ˌɔːtə'mætɪkli/ adv
 
 英文释义
 ---
-1.*高义频：* **自治的； 有自治权的；自主的；有自主权的 (independent)：**  
+### 1.*高义频：* **自治的； 有自治权的；自主的；有自主权的 (independent)：**  
 
  > autonomous vehicles  
  > 自动驾驶车辆  
@@ -11138,7 +11155,7 @@ automatically /ˌɔːtə'mætɪkli/ adv
 
 英文释义
 ---
-1.*高义频：* **自治；自治权**  
+### 1.*高义频：* **自治；自治权**  
 
 
 # ***\*autumn*** n
@@ -11150,7 +11167,7 @@ automatically /ˌɔːtə'mætɪkli/ adv
 
 英文释义
 ---
-1.*高义频：* **秋季 (AmE fall)：**  
+### 1.*高义频：* **秋季 (AmE fall)：**  
 
  > in (the) early / late autumn   
  > 在初/晚秋  
@@ -11166,7 +11183,7 @@ automatically /ˌɔːtə'mætɪkli/ adv
 
 英文释义
 ---
-1.*高义频：* **可用的；可得到的**  
+### 1.*高义频：* **可用的；可得到的**  
 英译 able to be used or can easily be bought or found：
 
  > Cold drinks will be available at the Sports Center.  
@@ -11186,7 +11203,7 @@ automatically /ˌɔːtə'mætɪkli/ adv
  > 将有四个篮球场供我们使用，每场比赛都有一名教师监视。  
  > 来源：2010 福建  
 
-2.*高义频：* **(人) 有空的**  
+### 2.*高义频：* **(人) 有空的**  
 英译  (of a person) free to be seen, talked to, etc.：
 
  > I would have gone to my cousin’s birthday party last night, but I was not available.    
@@ -11220,7 +11237,7 @@ availability /əˌveɪlə'bɪləti/ n [U]
 
 英文释义
 ---
-1.**雪崩**  
+### 1.**雪崩**  
 
 
 # ***\*avenge*** v
@@ -11230,7 +11247,7 @@ availability /əˌveɪlə'bɪləti/ n [U]
 
 英文释义
 ---
-1.**替……报仇；报复**  
+### 1.**替……报仇；报复**  
 
 
 # ***\*avenue*** n
@@ -11242,13 +11259,14 @@ availability /əˌveɪlə'bɪləti/ n [U]
 
 英文释义
 ---
-1.*高义频：* **大街；林荫道；途径：**  
+### 1.*高义频：* **大街；林荫道；途径：**  
 
  > Madison Avenue   
  > 麦迪逊大道  
 
-### 辨析 way, road, path, street, avenue
+#### 辨析 way, road, path, street, avenue
 五者都可作“路”解，但含义有所不同。  
+
 
 # ***\*average*** n  重难点词汇
 英音 'ævərɪdʒ     美音 'ævərɪdʒ  
@@ -11259,7 +11277,7 @@ availability /əˌveɪlə'bɪləti/ n [U]
 
 英文释义
 ---
-1.*高义频：* **平均；平均数：**  
+### 1.*高义频：* **平均；平均数：**  
 
  > The average of 3, 8 and 10 is 7.   
  > 数字3、8、10的平均数是7。  
@@ -11268,7 +11286,7 @@ availability /əˌveɪlə'bɪləti/ n [U]
  > I spend an average of about $200 a year on books.  
  > 我平均每年大约花200美元买书。  
 
-2.*高义频：* **一般水平；平均标准：**  
+### 2.*高义频：* **一般水平；平均标准：**  
 
  > **below / above,average**  
  > below / above average  
@@ -11281,7 +11299,7 @@ availability /əˌveɪlə'bɪləti/ n [U]
 
 固定搭配
 ---
-- ## \*on average   **平均；一般地：**  
+## \*on average   1.**平均；一般地：**  
 
  > On average we have five classes a day.   
  > 我们平均每天上五节课。  
@@ -11318,7 +11336,7 @@ On ________ (平均), people who don’t smoke are healthier than people who do.
 
 英文释义
 ---
-1.*高义频：* **[只用于名词前] 平均的：**  
+### 1.*高义频：* **[只用于名词前] 平均的：**  
 
  > Scientists believe the world’s average temperature has risen by about 0.8℃ since 1900.    
  > 科学家认为自1900年以来，世界平均温度已经升高了约0.8℃。  
@@ -11328,7 +11346,7 @@ On ________ (平均), people who don’t smoke are healthier than people who do.
  > 平均每户家庭的电子设备数量从1992年的4件上升到了2007年的13件。  
  > 来源：2018 全国  
 
-2.*高义频：* **中等的；适中的**  
+### 2.*高义频：* **中等的；适中的**  
 英译 normal or typical：
 
  > **of average intelligence**  
@@ -11339,7 +11357,7 @@ On ________ (平均), people who don’t smoke are healthier than people who do.
  > He was in his late twenties and of average height.  
  > 他年近三十，中等个头。  
 
-3.*低义频：* **平常的；普遍的**  
+### 3.*低义频：* **平常的；普遍的**  
 英译 not special; ordinary：
 
  > Freddy was an average student, but not an average person.  
@@ -11354,7 +11372,7 @@ On ________ (平均), people who don’t smoke are healthier than people who do.
 
 英文释义
 ---
-1.*高义频：* **避免；防止**  
+### 1.*高义频：* **避免；防止**  
 英译 to prevent sth bad from happening：
 
  > Road safety is taught to young children to avoid road accident.   
@@ -11366,7 +11384,7 @@ On ________ (平均), people who don’t smoke are healthier than people who do.
  > 为了避免错过末班列车，请查阅车站张贴的末班列车时刻表。  
  > 来源：2014 全国  
 
-2.*高义频：* **回避；避开**  
+### 2.*高义频：* **回避；避开**  
 英译 to stay away from sb or sth, or to deliberately not do sth：
 
  > Generally we dislike arguments, and we avoid topics which lead to disagreement.   
@@ -11396,7 +11414,7 @@ I quickly lower myself, ducking my head to avoid_________(look) directly into hi
 
 英文释义
 ---
-1.*高义频：* **等候；等待：**  
+### 1.*高义频：* **等候；等待：**  
 
  > They are anxiously awaiting the result.   
  > 他们正焦急地等待结果。  
@@ -11411,7 +11429,7 @@ I quickly lower myself, ducking my head to avoid_________(look) directly into hi
 
 英文释义
 ---
-1.*高义频：* **醒着的：**  
+### 1.*高义频：* **醒着的：**  
 反义词 asleep 
 
  > **wide awake**  
@@ -11434,7 +11452,7 @@ I quickly lower myself, ducking my head to avoid_________(look) directly into hi
 
 英文释义
 ---
-1.*高义频：* **(使) 醒来；唤醒**  
+### 1.*高义频：* **(使) 醒来；唤醒**  
 
  > The noise awoke me.   
  > 喧闹声把我吵醒了。  
@@ -11460,7 +11478,7 @@ The baby in the next room ________ (睡醒) and began to cry.
 
 英文释义
 ---
-1.*高义频：* **奖；奖金；奖品；奖状：**  
+### 1.*高义频：* **奖；奖金；奖品；奖状：**  
 
  > an award of $10,000  
  > 10000美元的奖金  
@@ -11480,8 +11498,9 @@ The baby in the next room ________ (睡醒) and began to cry.
  > The award for this year's best actress went to Emma Stone.  
  > 本年度最佳女演员的得奖者是艾玛·斯通。  
 
-### 辨析 reward, award, prize
+#### 辨析 reward, award, prize
   
+
 
 # ***\*award*** vt
 英音 ə'wɔːd     美音 ə'wɔːrd  
@@ -11490,7 +11509,7 @@ The baby in the next room ________ (睡醒) and began to cry.
 
 英文释义
 ---
-1.*高义频：* **授予；给予；判给：**  
+### 1.*高义频：* **授予；给予；判给：**  
 
 - award sb sth / award sth to sb:
 
@@ -11513,7 +11532,7 @@ The baby in the next room ________ (睡醒) and began to cry.
 
 英文释义
 ---
-1.*高义频：* **意识到的；察觉到的：**  
+### 1.*高义频：* **意识到的；察觉到的：**  
 
 - (be) aware of:
 
@@ -11542,7 +11561,7 @@ awareness /ə'wernəs/ n [U]
 
 英文释义
 ---
-1.**意识，认识，感悟能力**  
+### 1.**意识，认识，感悟能力**  
 
 
 # ***\*away*** adv
@@ -11552,7 +11571,7 @@ awareness /ə'wernəs/ n [U]
 
 英文释义
 ---
-1.*高义频：* **离；离开；间隔：**  
+### 1.*高义频：* **离；离开；间隔：**  
 
  > Go / Run away!  
  > 走/跑开！  
@@ -11568,22 +11587,22 @@ awareness /ə'wernəs/ n [U]
  > The sports meet is two weeks away.  
  > 离运动会还有两个星期。  
 
-2.*高义频：* **朝另一个方向：**  
+### 2.*高义频：* **朝另一个方向：**  
 
  > Don’t look away while driving.  
  > 开车时不要四处张望。  
 
-3.*高义频：* **在别处；在适当的地方：**  
+### 3.*高义频：* **在别处；在适当的地方：**  
 
  > He put his tools away.  
  > 他把工具收起来了。  
 
-4.*高义频：* **不在；外出：**  
+### 4.*高义频：* **不在；外出：**  
 
  > He is away in town.  
  > 他去城里了。  
 
-5.*低义频：* **[多与动词连用] ...去；...掉：**  
+### 5.*低义频：* **[多与动词连用] ...去；...掉：**  
 
  > wash away  
  > 冲走；冲掉  
@@ -11599,13 +11618,13 @@ awareness /ə'wernəs/ n [U]
 
 英文释义
 ---
-1.*低义频：* **引起敬畏的；可怕的：**  
+### 1.*低义频：* **引起敬畏的；可怕的：**  
 英译 very impressive or very difﬁcult and perhaps rather frightening：
 
  > They had an awesome task ahead.  
  > 前面有十分艰巨的任务等着他们。  
 
-2.*高义频：* **[尤用于美语，非正式用语] 极好的；了不起的：**  
+### 2.*高义频：* **[尤用于美语，非正式用语] 极好的；了不起的：**  
 
  > There is only one word to describe the best player in the world — awesome!  
  > 只有一个词能够形容这位世界上最好的球员——了不起！  
@@ -11619,7 +11638,7 @@ awareness /ə'wernəs/ n [U]
 
 英文释义
 ---
-1.*高义频：* **[非正式用语] 糟糕的；恶劣的；讨厌的 (terrible)：**  
+### 1.*高义频：* **[非正式用语] 糟糕的；恶劣的；讨厌的 (terrible)：**  
 
  > What awful weather!  
  > 天气糟糕透了!  
@@ -11628,7 +11647,7 @@ awareness /ə'wernəs/ n [U]
  > 如果你不介意我糟糕的字迹，当然可以借我的笔记。  
  > 来源：2008 天津改  
 
-2.*高义频：* **[非正式用语] [只用于名词前] 非常的；很多的：**  
+### 2.*高义频：* **[非正式用语] [只用于名词前] 非常的；很多的：**  
 
  > It’s going to cost an awful lot of money.  
  > 这要花很多的钱。  
@@ -11636,12 +11655,12 @@ awareness /ə'wernəs/ n [U]
  > I’ve got an awful headache.   
  > 我头疼得要命。  
 
-3.*高义频：* **可怕的；骇人听闻的 (terrible)**  
+### 3.*高义频：* **可怕的；骇人听闻的 (terrible)**  
 
 
 固定搭配
 ---
-- ## \*look / feel awful  **面带病容；很不舒服**  
+## \*look / feel awful  1.**面带病容；很不舒服**  
 英译 (look / feel ill)：
 
  > **2012 重庆**  
@@ -11660,7 +11679,7 @@ awfully /'ɔːfli/ adv
 
 英文释义
 ---
-1.**非常地；极端地；令人嫌恶地**  
+### 1.**非常地；极端地；令人嫌恶地**  
 
 
 # ***\*awkward*** adj
@@ -11670,7 +11689,7 @@ awfully /'ɔːfli/ adv
 
 英文释义
 ---
-1.*高义频：* **尴尬的；别扭的**  
+### 1.*高义频：* **尴尬的；别扭的**  
 英译 embarrasing：
 
  > **awkward silence**  
@@ -11681,7 +11700,7 @@ awfully /'ɔːfli/ adv
  > 我感到很尴尬，冲他笑了笑。  
  > 来源：外研⑦ – 5  
 
-2.*高义频：* **使用不便的；难以应付的(difficult)：**  
+### 2.*高义频：* **使用不便的；难以应付的(difficult)：**  
 
  > an awkward machine  
  > 不好用的机器  
@@ -11689,7 +11708,7 @@ awfully /'ɔːfli/ adv
  > ask an awkward question  
  > 问一个难以回答的问题  
 
-3.*高义频：* **不方便的 (inconvenient)：**  
+### 3.*高义频：* **不方便的 (inconvenient)：**  
 
  > Please arrange the next meeting at a less awkward time.   
  > 请把下次会议时间安排得方便些。  
@@ -11708,6 +11727,6 @@ awkwardly /'ɔːkwədli/ adv
 
 英文释义
 ---
-1.*高义频：* **(=ax) 斧；斧子**  
+### 1.*高义频：* **(=ax) 斧；斧子**  
 
 
