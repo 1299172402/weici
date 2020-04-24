@@ -9,3 +9,6 @@ weici_ext.db https://www.lanzous.com/i9hjewb
 weici_to_txt.exe https://www.lanzous.com/i9hnh1c
 
 weici_to_md.exe https://www.lanzous.com/i9hnh7i
+
+fb_word_detail.json https://zhiyuyu.lanzous.com/ibwa7vg
+
