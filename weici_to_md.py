@@ -3,6 +3,7 @@
 import json
 import sqlite3
 import os
+import re
 
 def gy_paraphrase(t): #12568
     if t['translate_frequency']==1:print('*高义频：* ',end='',file=f)
@@ -56,13 +57,28 @@ def gy_sentential_form(t): #15924
           
 def gy_example(t): #18417
     b=t['highlight']
+    english = t["english"]
     if b!='' :
         while b[0]==' ':
             b=b[1:]
         while b[-1]==' ':
             b=b[:-1]
-        print(' > **'+b+'**  ',file=f)
-    print(' > '+t['english']+'  ',file=f)
+        #print(' > **'+b+'**  ',file=f)     
+    if b:
+        highlight = b.split(",")
+        if highlight:
+            #print(english)
+            for a in highlight:
+                #if a== "abandoned":english = english[:english.find(a)] + "**" + a + "**" + english[len(english[:english.find(a)])+english.find(a)-4:]
+                start = english.find(a)
+                while start>0 and start+len(a)<len(english) and (((english[start-1]>'a' and english[start-1]<'z') or (english[start-1]>'A' and english[start-1]<'Z')) or ((english[start+len(a)]>'a' and english[start+len(a)]<'z') or (english[start+len(a)]>'A' and english[start+len(a)]<'Z'))):
+                    start = english.find(a,start+1)
+                english = english[:start] + "**" + a + "**" +english[len(english[:start])+len(a):]
+                #print(len(english[:english.find(a)])+len(a)+4)
+                #print(english)
+                #print("01234567891123456789212345678931234567894123456789512345678961234567897123456789812345678991234567890")
+            #exit()
+    print(' > '+ english +'  ',file=f)
     if t['source']!='' : print(' > '+t['chinese']+'  （'+t['source']+'）  ',file=f)
     if t['source']=='' : print(' > '+t['chinese']+'  '+t['source']+'  ',file=f)
     print(file=f)
@@ -79,13 +95,20 @@ def gy_notes(t): #16597
 def gy_biscrimination(t): #16597
     print('#### 辨析 '+t['words'],file=f)
     print(t['paraphrase']+'  ',file=f)
-    print(file=f)
     if t['gy_example']!=[]:
         for example in t['gy_example']:
             gy_example(example)
+    if t["gy_biscrimination_word"]:
+        for example in t["gy_biscrimination_word"]:
+            print("**"+example["word"]+"**",end=" ",file=f)
+            print(example["description"],file=f)
+        if example["gy_example"]:
+            for i in example["gy_example"]:
+                gy_example(i)
+    print(file=f)
     
 def gy_fixed_collocation(t): #26462
-    print('## \*'+t['fixed_word'],file=f)
+    print('## \#'+t['fixed_word'],file=f)
     if len(t['gy_paraphrase']) >= 1:
         i=1
         for exam in t['gy_paraphrase']:
@@ -129,7 +152,7 @@ def chuli(t):
         b=b[1:]
     while b[-1]==' ':
         b=b[:-1]
-    print('# ***\*' + b + '*** ' + a['part_of_speech'],end='', file = f)
+    print('# ***\#' + b + '*** ' + a['part_of_speech'],end='', file = f)
     if a['point']==1 :print('  重难点词汇',end='',file=f)
     print(file=f)
     
@@ -208,13 +231,13 @@ print('')
 
 #文件位置
 path = input('请输入weici_ext.db文件位置：\n')
-if path=='' : path=r'C:\Users\Administrator\Desktop\weici_ext.db'
+if path=='' : path=r'D:\weici_ext.db'
 conn = sqlite3.connect(path)
 c = conn.cursor()
 
 #保存位置
 path_save = input('请输入保存位置：\n')
-if path_save=='':path_save = r'C:\Users\Administrator\Desktop\weici\docs\md'
+if path_save=='':path_save = r'D:\weici'
 print('注意：文件将存到%s' % path_save)
 if not os.path.exists(path_save):
     os.makedirs(path_save)
