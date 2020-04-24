@@ -1,6 +1,6 @@
 # Uu
 
-# ***\*ugly*** adj
+# ***\#ugly*** adj
 英音 'ʌɡli     美音 'ʌɡli  
 
 | 词频 3 | 口语 1 |  
@@ -18,12 +18,11 @@
  > an ugly smell   
  > 令人作呕的气味    
 
- > **ugly incident**  
- > an ugly incident   
+ > an **ugly incident**   
  > 可怕的事件    
 
 
-# ***\*ultimate*** adj
+# ***\#ultimate*** adj
 英音 'ʌltɪmət     美音 'ʌltɪmət  
 
 | 词频 1 |  
@@ -35,7 +34,6 @@
 ### 1.*高义频：* **最后的；最终的(final)：**  
 
  > **an ultimate goal / aim / objective / target**  
- > an ultimate goal / aim / objective / target  
  > 最终目标    
 
 ### 2.*高义频：* **(同类中) 最出色的；最大的；最糟糕的：**  
@@ -48,7 +46,7 @@
 ---
 ultimately /'ʌltɪmətli/ adv [句子副词]  
 
-# ***\*ultraviolet*** adj
+# ***\#ultraviolet*** adj
 英音 ˌʌltrə'vaɪələt     美音 ˌʌltrə'vaɪələt  
 
 | 词频 1 |  
@@ -58,7 +56,7 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 ### 1.**紫外线的**  
 
 
-# ***\*umbrella*** n
+# ***\#umbrella*** n
 英音 ʌm'brelə     美音 ʌm'brelə  
 
 | 词频 4 |  
@@ -69,16 +67,14 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 ---
 ### 1.*高义频：* **(雨、阳) 伞；保护伞：**  
 
- > **put up,umbrella**  
- > put up / fold an umbrella   
+ > **put up** / fold an **umbrella**   
  > 撑开/收起伞    
 
  > **under the umbrella of**  
- > under the umbrella of  
  > 在…的保护下    
 
 
-# ***\*unable*** adj
+# ***\#unable*** adj
 英音 ʌn'eɪbl     美音 ʌn'eɪbl  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -96,7 +92,7 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
  > 他试图打电话，但没能打通。    
 
 
-# ***\*unaware*** adj
+# ***\#unaware*** adj
 英音 ˌʌnə'weə(r)     美音 ˌʌnə'weə(r)  
 
   
@@ -106,7 +102,7 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 ### 1.**未觉察到的，未意识到的**  
 
 
-# ***\*unbearable*** adj
+# ***\#unbearable*** adj
 英音 ʌn'beərəbl     美音 ʌn'berəbl  
 
 | 词频 1 |  
@@ -119,7 +115,7 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
  > 牙痛确实难以忍受。    
 
 
-# ***\*unbelievable*** adj
+# ***\#unbelievable*** adj
 英音 ˌʌnbɪ'liːvəbl     美音 ˌʌnbɪ'liːvəbl  
 
 | 词频 3 | 口语 1 |  
@@ -132,7 +128,7 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
  > 她的饭量大得惊人。    
 
 
-# ***\*uncertain*** adj
+# ***\#uncertain*** adj
 英音 ʌn'sɜːtn     美音 ʌn'sɜːrtn  
 
 | 词频 2 |  
@@ -157,8 +153,7 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 
 - (be) uncertain + wh- 从句：
 
- > **It is uncertain what**  
- > It is uncertain what his role in the company will be.  
+ > **It is uncertain what** his role in the company will be.  
  > 他将在公司担任什么职务尚未确定。    
 
 ### 2.*高义频：* **易变的；捉摸不定的**  
@@ -172,7 +167,7 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 ---
 uncertainty /ʌn'sɜːtnti/ n   
 
-# ***\*uncle*** n
+# ***\#uncle*** n
 英音 'ʌŋkl     美音 'ʌŋkl  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -186,7 +181,7 @@ uncertainty /ʌn'sɜːtnti/ n
 ### 2.*低义频：* **(对年长者的称呼) 大伯；大叔**  
 
 
-# ***\*unclear*** adj
+# ***\#unclear*** adj
 英音 ˌʌn'klɪə(r)     美音 ˌʌn'klɪr  
 
 | 词频 1 |  
@@ -196,7 +191,7 @@ uncertainty /ʌn'sɜːtnti/ n
 ### 1.**不清楚的**  
 
 
-# ***\*uncomfortable*** adj
+# ***\#uncomfortable*** adj
 英音 ʌn'kʌmftəbl, ʌn'kʌmfətəbl     美音 ʌn'kʌmftəbl, ʌn'kʌmfərtəbl  
 
 | 词频 3 |  
@@ -217,7 +212,7 @@ uncertainty /ʌn'sɜːtnti/ n
  > 令人不舒服的椅子    
 
 
-# ***\*uncomfortably*** adv
+# ***\#uncomfortably*** adv
 英音 ʌn'kʌmftəbli     美音 ʌn'kʌmftəbli  
 
 | 词频 1 |  
@@ -227,7 +222,7 @@ uncertainty /ʌn'sɜːtnti/ n
 ### 1.*高义频：* **不舒服地；不自在地**  
 
 
-# ***\*unconditional*** adj
+# ***\#unconditional*** adj
 英音 ˌʌnkən'dɪʃənl     美音 ˌʌnkən'dɪʃənl  
 
 | 词频 1 |  
@@ -240,7 +235,7 @@ uncertainty /ʌn'sɜːtnti/ n
  > 无条件的爱    
 
 
-# ***\*unconditionally*** adv
+# ***\#unconditionally*** adv
 英音 ˌʌnkən'dɪʃənəli     美音 ˌʌnkən'dɪʃənəli  
 
 | 词频 1 |  
@@ -250,7 +245,7 @@ uncertainty /ʌn'sɜːtnti/ n
 ### 1.**无条件地**  
 
 
-# ***\*unconscious*** adj
+# ***\#unconscious*** adj
 英音 ʌn'kɒnʃəs     美音 ʌn'kɑːnʃəs  
 
 | 词频 2 | 阅读 2 |  
@@ -264,8 +259,7 @@ uncertainty /ʌn'sɜːtnti/ n
 
 ### 2.*高义频：* **不知道的；未发觉的：**  
 
- > **is unconscious of**  
- > He is unconscious of his mistake.   
+ > He **is unconscious of** his mistake.   
  > 他没有意识到自己的错误。    
 
 ### 3.*高义频：* **无意识的；不知不觉的：**  
@@ -274,7 +268,7 @@ uncertainty /ʌn'sɜːtnti/ n
  > 我们经常看到无意识的身势语。  （外研④ – 3）  
 
 
-# ***\*uncontrolled*** adj
+# ***\#uncontrolled*** adj
 英音 ˌʌnkən'trəʊld     美音 ˌʌnkən'trəʊld  
 
 | 词频 1 |  
@@ -284,7 +278,7 @@ uncertainty /ʌn'sɜːtnti/ n
 ### 1.*高义频：* **不受控制的；不加克制的**  
 
 
-# ***\*uncover*** vt
+# ***\#uncover*** vt
 英音 ʌn'kʌvə(r)     美音 ʌn'kʌvər  
 
 | 词频 3 | 阅读 2 |  
@@ -305,7 +299,7 @@ uncertainty /ʌn'sɜːtnti/ n
  > 揭露他们的阴谋诡计    
 
 
-# ***\*under*** prep
+# ***\#under*** prep
 英音 'ʌndə(r)     美音 'ʌndər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -324,8 +318,7 @@ uncertainty /ʌn'sɜːtnti/ n
 ### 2.*高义频：* **低于；少于；在...以下：**  
 反义词 over 
 
- > **under the age of**  
- > Nearly l8 million children under the age of five around the world are estimated to be overweight.  
+ > Nearly l8 million children **under the age of** five around the world are estimated to be overweight.  
  > 估计全世界有近1800万5岁以下的儿童超重。  （2013 湖北改）  
 
 ### 3.*高义频：* **在...之下：**  
@@ -334,7 +327,6 @@ uncertainty /ʌn'sɜːtnti/ n
  > 在某人的领导下工作    
 
  > **under control / pressure**  
- > under control / pressure  
  > 在掌控之下/在压力下    
 
 ### 4.*高义频：* **在...中：**  
@@ -342,18 +334,16 @@ uncertainty /ʌn'sɜːtnti/ n
  > under construction / repair   
  > 在建设/修理中    
 
- > **under discussion**  
- > It is still under discussion (= being discussed) whether the old bus station should be replaced with a modern hotel or not.   
+ > It is still **under discussion** (= being discussed) whether the old bus station should be replaced with a modern hotel or not.   
  > 是否应拆掉旧车站建一个现代化的宾馆还在讨论中。    
 
 ### 5.*低义频：* **用；凭借：**  
 
- > **under,the,name,of**  
- > Mary Ann Evans wrote under the name of George Eliot.   
+ > Mary Ann Evans wrote **under** **the** **name** **of** George Eliot.   
  > 玛丽·安·埃文斯用乔治·艾略特作笔名进行创作。    
 
 
-# ***\*under*** adv
+# ***\#under*** adv
 英音 'ʌndə(r)     美音 'ʌndər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -366,7 +356,7 @@ uncertainty /ʌn'sɜːtnti/ n
  > 船沉了。    
 
 
-# ***\*underdog*** n
+# ***\#underdog*** n
 英音 'ʌndədɒɡ     美音 'ʌndərdɔːɡ  
 
 | 词频 1 |  
@@ -378,7 +368,7 @@ uncertainty /ʌn'sɜːtnti/ n
 ### 1.*高义频：* **失败者；处于劣势的一方**  
 
 
-# ***\*undergo*** vt
+# ***\#undergo*** vt
 英音 ˌʌndə'ɡəʊ     美音 ˌʌndər'ɡoʊ  
 
 | 词频 2 | 阅读 1 |  
@@ -393,7 +383,7 @@ uncertainty /ʌn'sɜːtnti/ n
  > 我们的宇航员要经历长时间的考验和训练。    
 
 
-# ***\*underground*** adj
+# ***\#underground*** adj
 英音 ˌʌndə'ɡraʊnd     美音 ˌʌndə'ɡraʊnd  
 
 | 词频 4 |  
@@ -409,7 +399,7 @@ uncertainty /ʌn'sɜːtnti/ n
  > 地下购物区    
 
 
-# ***\*underground*** n
+# ***\#underground*** n
 英音 'ʌndəɡraʊnd     美音 'ʌndəɡraʊnd  
 
 | 词频 4 |  
@@ -425,7 +415,7 @@ uncertainty /ʌn'sɜːtnti/ n
  > 地铁站    
 
 
-# ***\*underline*** vt
+# ***\#underline*** vt
 英音 ˌʌndə'laɪn     美音 ˌʌndər'laɪn  
 
 | 词频 5 |  
@@ -442,7 +432,7 @@ uncertainty /ʌn'sɜːtnti/ n
 ---
 underlined /ˌʌndə'laɪnd/ adj   
 
-# ***\*underneath*** prep
+# ***\#underneath*** prep
 英音 ˌʌndə'niːθ     美音 ˌʌndər'niːθ  
 
 | 词频 1 | 口语 2 |  
@@ -455,7 +445,7 @@ underlined /ˌʌndə'laɪnd/ adj
  > 他走向桌子想找些报纸，发现它们放在一堆书下面。  （外研⑥ – 3）  
 
 
-# ***\*underpants*** n
+# ***\#underpants*** n
 英音 'ʌndəpænts     美音 'ʌndəpænts  
 
 | 词频 1 |  
@@ -465,7 +455,7 @@ underlined /ˌʌndə'laɪnd/ adj
 ### 1.**内衣裤**  
 
 
-# ***\*understand*** v
+# ***\#understand*** v
 英音 ˌʌndə'stænd     美音 ˌʌndər'stænd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -495,7 +485,7 @@ underlined /ˌʌndə'laɪnd/ adj
 
 固定搭配
 ---
-## \*make oneself understood 
+## \#make oneself understood 
 1.**[尤指用另一种语 言] 把自己的意思说清楚：**  
 
  > Can you make yourself understood in English?  
@@ -506,7 +496,7 @@ underlined /ˌʌndə'laɪnd/ adj
 ---
 understandable /ˌʌndə'stændəbl/ adj   
 
-# ***\*understanding*** n
+# ***\#understanding*** n
 英音 ˌʌndə'stændɪŋ     美音 ˌʌndər'stændɪŋ  
 
 | 词频 4 | 书面 1 |  
@@ -523,12 +513,11 @@ understandable /ˌʌndə'stændəbl/ adj
 
 ### 2.*高义频：* **(非正式的) 协定：**  
 
- > **come to,reach an understanding**  
- > come to / arrive at / reach an understanding with sb  
+ > **come to** / arrive at / **reach an understanding** with sb  
  > 和某人达成共识    
 
 
-# ***\*undertake*** vt
+# ***\#undertake*** vt
 英音 ˌʌndə'teɪk     美音 ˌʌndər'teɪk  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -543,8 +532,7 @@ understandable /ˌʌndə'stændəbl/ adj
  > undertake responsibility 承担责任  
  >     
 
- > **undertook,task**  
- > He undertook the difficult task willingly.   
+ > He **undertook** the difficult **task** willingly.   
  > 他欣然承担起了这一艰巨任务。    
 
 ### 2.*低义频：* **接受；同意**  
@@ -556,7 +544,7 @@ understandable /ˌʌndə'stændəbl/ adj
  > 他同意星期五之前完成这项工作。    
 
 
-# ***\*underwater*** adj
+# ***\#underwater*** adj
 英音 ˌʌndə'wɔːtə(r)     美音 ˌʌndər'wɔːtər  
 
 | 词频 3 |  
@@ -566,7 +554,7 @@ understandable /ˌʌndə'stændəbl/ adj
 ### 1.*高义频：* **在水下的；在水中生长的**  
 
 
-# ***\*underwater*** adv
+# ***\#underwater*** adv
 英音 ˌʌndə'wɔːtə(r)     美音 ˌʌndər'wɔːtər  
 
 | 词频 3 |  
@@ -576,7 +564,7 @@ understandable /ˌʌndə'stændəbl/ adj
 ### 1.*高义频：* **在水下；在水中**  
 
 
-# ***\*underway*** adj
+# ***\#underway*** adj
 英音 ˌʌndə'weɪ     美音 ˌʌndər'weɪ  
 
 | 词频 1 |  
@@ -586,7 +574,7 @@ understandable /ˌʌndə'stændəbl/ adj
 ### 1.**在进行中的**  
 
 
-# ***\*underwear*** n
+# ***\#underwear*** n
 英音 'ʌndəweə(r)     美音 'ʌndərwer  
 
 | 词频 1 |  
@@ -598,7 +586,7 @@ understandable /ˌʌndə'stændəbl/ adj
 ### 1.*高义频：* **[总称] 内衣；衬衣**  
 
 
-# ***\*undo*** vt
+# ***\#undo*** vt
 英音 ʌn'duː     美音 ʌn'duː  
 
 | 词频 1 |  
@@ -609,8 +597,7 @@ understandable /ˌʌndə'stændəbl/ adj
 ---
 ### 1.*高义频：* **解开；打开；松开：**  
 
- > **undo a button**  
- > undo a button / parcel  
+ > **undo a button** / parcel  
  > 解开纽扣/打开包裹    
 
 ### 2.*低义频：* **恢复原状；取消：**  
@@ -622,7 +609,7 @@ understandable /ˌʌndə'stændəbl/ adj
  > 撤销他的职位    
 
 
-# ***\*undoubtedly*** adv
+# ***\#undoubtedly*** adv
 英音 ʌn'daʊtɪdli     美音 ʌn'daʊtɪdli  
 
 | 词频 2 |  
@@ -635,7 +622,7 @@ understandable /ˌʌndə'stændəbl/ adj
  > 毫无疑问，科技的发展非常重要，它甚至会对我们的生活产生更大的影响。  （ 2011 上海）  
 
 
-# ***\*unearth*** vt
+# ***\#unearth*** vt
 英音 ʌn'ɜːθ     美音 ʌn'ɜːrθ  
 
 | 词频 1 |  
@@ -645,7 +632,7 @@ understandable /ˌʌndə'stændəbl/ adj
 ### 1.**挖掘；发掘**  
 
 
-# ***\*uneasy*** adj
+# ***\#uneasy*** adj
 英音 ʌn'iːzi     美音 ʌn'iːzi  
 
 | 词频 2 | 阅读 2 |  
@@ -654,16 +641,14 @@ understandable /ˌʌndə'stændəbl/ adj
 ---
 ### 1.*高义频：* **不自在的；忧虑的 (anxious)：**  
 
- > **feel uneasy**  
- > feel uneasy with strangers   
+ > **feel uneasy** with strangers   
  > 与陌生人在一起不自在    
 
- > **feel uneasy about**  
- > feel uneasy about the future   
+ > **feel uneasy about** the future   
  > 担心未来    
 
 
-# ***\*unemployed*** adj
+# ***\#unemployed*** adj
 英音 ˌʌnɪm'plɔɪd     美音 ˌʌnɪm'plɔɪd  
 
 | 词频 2 | 口语 2 | 书面 1 | 阅读 2 |  
@@ -676,7 +661,7 @@ understandable /ˌʌndə'stændəbl/ adj
  > 失业者渴望得到工作。    
 
 
-# ***\*unemployment*** n
+# ***\#unemployment*** n
 英音 ˌʌnɪm'plɔɪmənt     美音 ˌʌnɪm'plɔɪmənt  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -690,12 +675,11 @@ understandable /ˌʌndə'stændəbl/ adj
  > unemployment problems   
  > 失业问题    
 
- > **high / low unemployment**  
- > high / low unemployment   
+ > **high / low unemployment**   
  > 高/低失业率    
 
 
-# ***\*unexpected*** adj
+# ***\#unexpected*** adj
 英音 ˌʌnɪk'spektɪd     美音 ˌʌnɪk'spektɪd  
 
 | 词频 4 |  
@@ -707,8 +691,7 @@ understandable /ˌʌndə'stændəbl/ adj
  > an unexpected guest / visitor   
  > 不速之客    
 
- > **the unexpected**  
- > Police officers must be prepared for the unexpected.  
+ > Police officers must be prepared for **the unexpected**.  
  > 警察必须为意外情况做好准备。    
 
 
@@ -727,7 +710,7 @@ D.unbelievable
 答案：
 1. B  
 
-# ***\*unexplained*** adj
+# ***\#unexplained*** adj
 英音 ˌʌnɪk'spleɪnd     美音 ˌʌnɪk'spleɪnd  
 
 | 词频 1 |  
@@ -737,7 +720,7 @@ D.unbelievable
 ### 1.**无法解释的；神秘的**  
 
 
-# ***\*unfair*** adj
+# ***\#unfair*** adj
 英音 ˌʌn'feə(r)     美音 ˌʌn'fer  
 
 | 词频 2 | 口语 1 |  
@@ -750,8 +733,7 @@ D.unbelievable
  > unfair treatment   
  > 不公平的待遇  （2009 江苏）  
 
- > **unfair on,to_1**  
- > It seems unfair on / to him to make him pay for everything.   
+ > It seems **unfair on** / to him to make him pay for everything.**to_1**  
  > 让他承担一切费用似乎对他不公平。    
 
  > by unfair means   
@@ -763,7 +745,7 @@ D.unbelievable
 unfairly /ˌʌn'feə(r)li/ adv   
 unfairness /ˌʌn'feə(r)nes/ n   
 
-# ***\*unfamiliar*** adj
+# ***\#unfamiliar*** adj
 英音 ˌʌnfə'mɪliə(r)     美音 ˌʌnfə'mɪliər  
 
   
@@ -773,7 +755,7 @@ unfairness /ˌʌn'feə(r)nes/ n
 ### 1.**不熟悉的，不了解的**  
 
 
-# ***\*unfit*** adj
+# ***\#unfit*** adj
 英音 ʌn'fɪt     美音 ʌn'fɪt  
 
 | 词频 1 |  
@@ -783,20 +765,17 @@ unfairness /ˌʌn'feə(r)nes/ n
 ### 1.*高义频：* **不适合的；不合格的；不健康的 (out of shape)**  
 反义词 fit 
 
- > **unfit for**  
- > a place unfit for camping   
+ > a place **unfit for** camping   
  > 不适合露营的地方    
 
- > **unfit to**  
- > He is drunk and unfit to drive.   
+ > He is drunk and **unfit to** drive.   
  > 他喝醉了，不适合开车。    
 
- > **人教⑨ – 1**  
- > As a child he was very unfit and was not at all interested in sports.  
+ > As a child he was very unfit and was not at all interested in sports**人教⑨ – 1**  
  > 他小时候身体很不好，一点儿也不喜欢运动。    
 
 
-# ***\*unfold*** vt
+# ***\#unfold*** vt
 英音 ʌn'fəʊld     美音 ʌn'foʊld  
 
   
@@ -806,7 +785,7 @@ unfairness /ˌʌn'feə(r)nes/ n
 ### 1.**（卷着的东西）展开，打开**  
 
 
-# ***\*unforgettable*** adj
+# ***\#unforgettable*** adj
 英音 ˌʌnfə'ɡetəbl     美音 ˌʌnfər'ɡetəbl  
 
 | 词频 3 |  
@@ -819,7 +798,7 @@ unfairness /ˌʌn'feə(r)nes/ n
  > 难忘的经历/时刻/回忆    
 
 
-# ***\*unfortunate*** adj
+# ***\#unfortunate*** adj
 英音 ʌn'fɔːtʃənət     美音 ʌn'fɔːrtʃənət  
 
 | 词频 2 | 口语 1 |  
@@ -832,7 +811,7 @@ unfairness /ˌʌn'feə(r)nes/ n
  > 不幸的事故    
 
 
-# ***\*unfortunately*** adv
+# ***\#unfortunately*** adv
 英音 ʌn'fɔːtʃənətli     美音 ʌn'fɔːrtʃənətli  
 
 | 词频 4 | 口语 3 | 书面 1 |  
@@ -847,7 +826,7 @@ unfairness /ˌʌn'feə(r)nes/ n
  > 不幸的是，他没打到球，反而打到了自己的假牙!  （北师大⑥ – 17）  
 
 
-# ***\*unhappy*** adj
+# ***\#unhappy*** adj
 英音 ʌn'hæpi     美音 ʌn'hæpi  
 
 | 词频 4 | 口语 1 |  
@@ -857,12 +836,11 @@ unfairness /ˌʌn'feə(r)nes/ n
 ### 1.*高义频：* **不幸福的；不愉快的；不满意的：**  
 反义词 happy 
 
- > **was unhappy at / with / about**  
- > He was unhappy at / with / about being left out of the school team.  
+ > He **was unhappy at / with / about** being left out of the school team.  
  > 他因未能入选校队而闷闷不乐。    
 
 
-# ***\*unhealthy*** adj
+# ***\#unhealthy*** adj
 英音 ʌn'helθi     美音 ʌn'helθi  
 
 | 词频 3 |  
@@ -873,7 +851,7 @@ unfairness /ˌʌn'feə(r)nes/ n
 反义词 healthy 
 
 
-# ***\*uniform*** n
+# ***\#uniform*** n
 英音 'juːnɪfɔːm     美音 'juːnɪfɔːrm  
 
 | 词频 4 | 口语 1 | 阅读 2 |  
@@ -884,16 +862,14 @@ unfairness /ˌʌn'feə(r)nes/ n
 ---
 ### 1.*高义频：* **制服：**  
 
- > **wear school uniforms**  
- > wear school uniforms   
+ > **wear school uniforms**   
  > 穿校服    
 
- > **in uniform**  
- > in uniform   
+ > **in uniform**   
  > 穿着制服    
 
 
-# ***\*unify*** v
+# ***\#unify*** v
 英音 'juːnɪfaɪ     美音 'juːnɪfaɪ  
 
 | 词频 1 |  
@@ -903,7 +879,7 @@ unfairness /ˌʌn'feə(r)nes/ n
 ### 1.**统一；（使）成一体**  
 
 
-# ***\*union*** n
+# ***\#union*** n
 英音 'juːniən     美音 'juːniən  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -929,7 +905,7 @@ unfairness /ˌʌn'feə(r)nes/ n
  > 团结就是力量。    
 
 
-# ***\*unique*** adj
+# ***\#unique*** adj
 英音 ju'niːk     美音 ju'niːk  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -941,12 +917,11 @@ unfairness /ˌʌn'feə(r)nes/ n
  > Everyone’s fingerprints are unique.   
  > 每个人的指纹都是独一无二的。    
 
- > **unique to**  
- > The koala is unique to Australia.   
+ > The koala is **unique to** Australia.   
  > 树袋熊是澳大利亚独有的动物。    
 
 
-# ***\*unit*** n
+# ***\#unit*** n
 英音 'juːnɪt     美音 'juːnɪt  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -957,12 +932,10 @@ unfairness /ˌʌn'feə(r)nes/ n
 ---
 ### 1.*高义频：* **(构成) 单位：**  
 
- > **unit of**  
- > A cell is the smallest unit of living things.   
+ > A cell is the smallest **unit of** living things.   
  > 细胞是生物体的最小构成单位。    
 
- > **unit of**  
- > The family is the basic unit of society.   
+ > The family is the basic **unit of** society.   
  > 家庭是社会的基本单位。    
 
 ### 2.*低义频：* **(计量) 单位：**  
@@ -975,7 +948,7 @@ unfairness /ˌʌn'feə(r)nes/ n
 ### 4.*高义频：* **(设备等的) 一套；一组**  
 
 
-# ***\*unite*** v
+# ***\#unite*** v
 英音 ju'naɪt     美音 ju'naɪt  
 
 | 词频 5 |  
@@ -984,8 +957,7 @@ unfairness /ˌʌn'feə(r)nes/ n
 ---
 ### 1.*高义频：* **(使) 联合；(使) 团结；(使) 合并：**  
 
- > **unite with**  
- > We should unite with all the forces that can be united.   
+ > We should **unite with** all the forces that can be united.   
  > 我们应该团结一切可以团结的力量。    
 
  > England and Scotland united in 1706.   
@@ -996,7 +968,7 @@ unfairness /ˌʌn'feə(r)nes/ n
 ---
 unity /'juːnəti/ n   
 
-# ***\*united*** adj
+# ***\#united*** adj
 英音 ju'naɪtɪd     美音 ju'naɪtɪd  
 
 | 词频 5 | 书面 1 |  
@@ -1012,7 +984,7 @@ unity /'juːnəti/ n
  > 同心协力    
 
 
-# ***\*universal*** adj
+# ***\#universal*** adj
 英音 ˌjuːnɪ'vɜːsl     美音 ˌjuːnɪ'vɜːrsl  
 
 | 词频 3 | 书面 1 |  
@@ -1021,8 +993,7 @@ unity /'juːnəti/ n
 ---
 ### 1.*高义频：* **普遍的；通用的：**  
 
- > **universal truth**  
- > a universal truth   
+ > a **universal truth**   
  > 普遍真理    
 
 ### 2.*低义频：* **全世界的；全体的：**  
@@ -1034,7 +1005,7 @@ unity /'juːnəti/ n
  > 嫉妒是人们共同的弱点。    
 
 
-# ***\*universe*** n
+# ***\#universe*** n
 英音 'juːnɪvɜːs     美音 'juːnɪvɜːrs  
 
 | 词频 2 | 书面 1 |  
@@ -1049,7 +1020,7 @@ unity /'juːnəti/ n
  > 我们的世界只是宇宙的一小部分。    
 
 
-# ***\*university*** n
+# ***\#university*** n
 英音 ˌjuːnɪ'vɜːsəti     美音 ˌjuːnɪ'vɜːrsəti  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -1060,16 +1031,14 @@ unity /'juːnəti/ n
 ---
 ### 1.*高义频：* **综合性大学；大学：**  
 
- > **at university**  
- > at university   
+ > **at university**   
  > 在上大学    
 
- > **go to university**  
- > go to university   
+ > **go to university**   
  > 去上大学    
 
 
-# ***\*unknown*** adj
+# ***\#unknown*** adj
 英音 ˌʌn'nəʊn     美音 ˌʌn'noʊn  
 
 | 词频 4 | 口语 2 |  
@@ -1082,7 +1051,7 @@ unity /'juːnəti/ n
  > 不知名的艺术家    
 
 
-# ***\*unless*** conj
+# ***\#unless*** conj
 英音 ən'les     美音 ən'les  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1115,7 +1084,7 @@ D. if
 答案：
 1. B  2. if → unless  3. A  
 
-# ***\*unlike*** prep
+# ***\#unlike*** prep
 英音 ˌʌn'laɪk     美音 ˌʌn'laɪk  
 
 | 词频 4 | 口语 1 |  
@@ -1132,7 +1101,7 @@ D. if
  > 跟自己的父母不同，很多人想住在城市里。  （2010 安徽）  
 
 
-# ***\*unlike*** adj
+# ***\#unlike*** adj
 英音 ˌʌn'laɪk     美音 ˌʌn'laɪk  
 
 | 词频 4 |  
@@ -1147,7 +1116,7 @@ D. if
  > 之前我从未见过长得不像的双胞胎。    
 
 
-# ***\*unlikely*** adj
+# ***\#unlikely*** adj
 英音 ʌn'laɪkli     美音 ʌn'laɪkli  
 
 | 词频 2 | 口语 1 | 书面 2 |  
@@ -1171,7 +1140,7 @@ D. if
  > 她不大可能在七点前到达。    
 
 
-# ***\*unload*** v
+# ***\#unload*** v
 英音 ˌʌn'ləʊd     美音 ˌʌn'loʊd  
 
 | 词频 2 |  
@@ -1181,7 +1150,7 @@ D. if
 ### 1.**卸下**  
 
 
-# ***\*unnecessary*** adj
+# ***\#unnecessary*** adj
 英音 ʌn'nesəsəri     美音 ʌn'nesəseri  
 
 | 词频 3 |  
@@ -1198,7 +1167,7 @@ D. if
  > 你不必这样做。    
 
 
-# ***\*unpaid*** adj
+# ***\#unpaid*** adj
 英音 ˌʌn'peɪd     美音 ˌʌn'peɪd  
 
 | 词频 1 |  
@@ -1208,7 +1177,7 @@ D. if
 ### 1.*高义频：* **未付款的；不收报酬的**  
 
 
-# ***\*unpleasant*** adj
+# ***\#unpleasant*** adj
 英音 ʌn'pleznt     美音 ʌn'pleznt  
 
 | 词频 3 |  
@@ -1225,7 +1194,7 @@ D. if
  > 水里的矿物质弄得这水很难喝。    
 
 
-# ***\*unpredictable*** adj
+# ***\#unpredictable*** adj
 英音 ˌʌnprɪ'dɪktəbl     美音 ˌʌnprɪ'dɪktəbl  
 
 | 词频 2 |  
@@ -1235,7 +1204,7 @@ D. if
 ### 1.**变化莫测的**  
 
 
-# ***\*unrecognisable*** adj
+# ***\#unrecognisable*** adj
 英音 ʌnrekəɡ'naɪzəbl     美音 ʌnrekəɡ'naɪzəbl  
 
 | 词频 1 |  
@@ -1245,7 +1214,7 @@ D. if
 ### 1.**无法辨认的**  
 
 
-# ***\*unrest*** n
+# ***\#unrest*** n
 英音 ʌn'rest     美音 ʌn'rest  
 
 | 词频 1 |  
@@ -1256,15 +1225,14 @@ D. if
 ---
 ### 1.*高义频：* **(社会的)动荡； (心里的)不安：**  
 
- > **social unrest**  
- > social unrest   
+ > **social unrest**   
  > 社会动荡    
 
  > be in a state of unrest   
  > 处于不安的状态之中    
 
 
-# ***\*unspoken*** adj
+# ***\#unspoken*** adj
 英音 ˌʌn'spəʊkən     美音 ˌʌn'spoʊkən  
 
 | 词频 1 |  
@@ -1274,7 +1242,7 @@ D. if
 ### 1.*高义频：* **未说出口的；非口语的**  
 
 
-# ***\*until*** conj
+# ***\#until*** conj
 英音 ən'tɪl     美音 ən'tɪl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1294,8 +1262,7 @@ D. if
 
 ### 2.*高义频：* **[用于否定句] 在...以前；直到...才：**  
 
- > **Not until**  
- > Not until the film had begun did she arrive.   
+ > **Not until** the film had begun did she arrive.   
  > 直到电影开始她才到。    
 
  > Not until recently did they encourage the development of tourist-related activities in the rural areas.  
@@ -1305,7 +1272,7 @@ Notes: not until 放在句首时，主句的主语和谓语通常要用部分倒
 
 固定搭配
 ---
-## \*it is not until … that 
+## \#it is not until … that 
 1.**直到…才…：**  
 
  > It was not until he was thirty that he started to paint.  
@@ -1329,7 +1296,7 @@ D.when
 答案：
 1. that  2. D  3. A  
 
-# ***\*until*** prep
+# ***\#until*** prep
 英音 ən'tɪl     美音 ən'tɪl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1349,8 +1316,7 @@ D.when
 
 ### 2.*高义频：* **[用于否定句] 在...以前；直到...才：**  
 
- > **Not until**  
- > Not until the film had begun did she arrive.   
+ > **Not until** the film had begun did she arrive.   
  > 直到电影开始她才到。    
 
  > Not until recently did they encourage the development of tourist-related activities in the rural areas.  
@@ -1360,7 +1326,7 @@ Notes: not until 放在句首时，主句的主语和谓语通常要用部分倒
 
 固定搭配
 ---
-## \*it is not until … that
+## \#it is not until … that
 1.**直到…才…：**  
 
  > It was not until he was thirty that he started to paint.  
@@ -1384,7 +1350,7 @@ D.when
 答案：
 1. that  2. D  3. A  
 
-# ***\*unusual*** adj
+# ***\#unusual*** adj
 英音 ʌn'juːʒuəl     美音 ʌn'juːʒuəl  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -1397,8 +1363,7 @@ D.when
  > an unusual voice  
  > 独特的嗓音    
 
- > **It is unusual for**  
- > It is unusual for you to catch a cold on hot days.   
+ > **It is unusual for** you to catch a cold on hot days.   
  > 你在大热天感冒实在少见。    
 
 
@@ -1406,7 +1371,7 @@ D.when
 ---
 unusually /ʌn'juːʒuəli; ʌn'juːʒəli/ adv   
 
-# ***\*unwilling*** adj
+# ***\#unwilling*** adj
 英音 ʌn'wɪlɪŋ     美音 ʌn'wɪlɪŋ  
 
 | 词频 2 |  
@@ -1424,7 +1389,7 @@ unusually /ʌn'juːʒuəli; ʌn'juːʒəli/ adv
 ---
 unwillingly /ʌn'wɪlɪŋli/ adv   
 
-# ***\*unzip*** v
+# ***\#unzip*** v
 英音 ˌʌn'zɪp     美音 ˌʌn'zɪp  
 
 | 词频 1 |  
@@ -1434,7 +1399,7 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 ### 1.**解开**  
 
 
-# ***\*up*** adv
+# ***\#up*** adv
 英音 ʌp     美音 ʌp  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1457,8 +1422,7 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 
 ### 2.*高义频：* **接近：**  
 
- > **up to**  
- > He moved up to the end of the line.   
+ > He moved **up to** the end of the line.   
  > 他挪到了队尾。    
 
 ### 3.*高义频：* **(数量、价格、程度等) 上升：**  
@@ -1493,7 +1457,7 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 
 固定搭配
 ---
-## \*be up to sb
+## \#be up to sb
 1.**由某人决定；是某人的义务：**  
 
  > It’s up to you what kind of life you will lead in the future.  
@@ -1505,7 +1469,7 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
  > It’s up to the travel companies to warn customers of any possible dangers.  
  > 旅游公司有义务提醒顾客任何可能的危险。    
 
-## \*up and down 
+## \#up and down 
 1.**上上下下；前前后后：**  
 
  > A butterfly is flying up and down among the flowers.  
@@ -1514,7 +1478,7 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
  > Ralph paced up and down the room, looking worried.  
  > 拉夫在房间里走来走去，看起来很着急。    
 
-## \*up to
+## \#up to
 1.*高义频：* **达到；最多有：**  
 
  > She has treated many patients who wash their hands up to 30 times a day.  
@@ -1533,7 +1497,7 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
  > What are you up to this weekend?  
  > 这周末你打算做什么?  （北师大② – 4）  
 
-## \*up until
+## \#up until
 1.**直到 (up to)：**  
 
  > They are only allowed to play music up until 10:30 on week nights, and it’s already 11:30.   
@@ -1550,7 +1514,7 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 答案：
 1. What’s up  2. It’s up to you / Up to you  
 
-# ***\*up*** n
+# ***\#up*** n
 英音 ʌp     美音 ʌp  
 
 | 词频 5 |  
@@ -1559,14 +1523,14 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 
 固定搭配
 ---
-## \*ups and downs
+## \#ups and downs
 1.**好运和坏运的交替；盛衰；沉浮：**  
 
  > In spite of ups and downs, she never takes her fate lying down.  
  > 尽管起起伏伏，但她从不甘心任凭命运摆布。  （2008 福建）  
 
 
-# ***\*up*** prep
+# ***\#up*** prep
 英音 ʌp     美音 ʌp  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1584,7 +1548,7 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
  > 沿着公路走    
 
 
-# ***\*up*** adj
+# ***\#up*** adj
 英音 ʌp     美音 ʌp  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1605,7 +1569,7 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
  > 他怒火中烧。    
 
 
-# ***\*up-to-date*** adj
+# ***\#up-to-date*** adj
 英音 'ʌptə'deɪt     美音 'ʌptə'deɪt  
 
 | 词频 2 | 阅读 2 |  
@@ -1614,16 +1578,14 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 ---
 ### 1.*高义频：* **最新 (式) 的；现代的：**  
 
- > **up,to,date,information**  
- > up - to - date information    
+ > **up** - **to** - **date** **information**    
  > 最新消息  （人教④ – 5）  
 
- > **up,to,date,equipment**  
- > up - to - date equipment   
+ > **up** - **to** - **date** **equipment**   
  > 现代化设备    
 
 
-# ***\*upbringing*** n
+# ***\#upbringing*** n
 英音 'ʌpbrɪŋɪŋ     美音 'ʌpbrɪŋɪŋ  
 
 | 词频 1 |  
@@ -1633,7 +1595,7 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 ### 1.**抚育，养育**  
 
 
-# ***\*update*** vt
+# ***\#update*** vt
 英音 ˌʌp'deɪt     美音 ˌʌp'deɪt  
 
 | 词频 3 |  
@@ -1649,7 +1611,7 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
  > 定期更新数据很重要。  （2011 北京）  
 
 
-# ***\*update*** n
+# ***\#update*** n
 英音 'ʌpdeɪt     美音 'ʌpdeɪt  
 
 | 词频 3 |  
@@ -1661,7 +1623,7 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 ### 1.*高义频：* **最新信息；最新情况；(程序的) 更新**  
 
 
-# ***\*upgrade*** vt
+# ***\#upgrade*** vt
 英音 ˌʌp'ɡreɪd     美音 ˌʌp'ɡreɪd  
 
 | 词频 2 |  
@@ -1670,16 +1632,14 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 ---
 ### 1.*高义频：* **使升级；提升：**  
 
- > **upgrade,to_2**  
- > You’ll need to upgrade your hard drive to 320GB before running this software.   
+ > You’ll need to **upgrade** your hard drive to 320GB before running this software.**to_2**  
  > 运行这个软件之前，你需要把硬盘升级到320GB。    
 
- > **upgraded to**  
- > On the flight back, we were upgraded to business class.  
+ > On the flight back, we were **upgraded to** business class.  
  > 返航时，我们被升级到公务舱。    
 
 
-# ***\*upon*** prep
+# ***\#upon*** prep
 英音 ə'pɒn     美音 ə'pɑːn, ə'pɔːn  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -1704,7 +1664,7 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
  > 听到“志愿者”这个词，你会想到什么？    
 
 
-# ***\*upper*** adj
+# ***\#upper*** adj
 英音 'ʌpə(r)     美音 'ʌpər  
 
 | 词频 4 | 书面 2 |  
@@ -1720,7 +1680,7 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
  > 上流社会  （人教⑧ – 4）  
 
 
-# ***\*upset*** vt
+# ***\#upset*** vt
 英音 ʌp'set     美音 ʌp'set  
 
 | 词频 4 | 口语 2 |  
@@ -1755,7 +1715,7 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 ---
 upsetting /ʌp'setɪŋ/ adj   
 
-# ***\*upset*** adj
+# ***\#upset*** adj
 英音 ˌʌp'set     美音 ˌʌp'set  
 
 | 词频 4 | 口语 2 |  
@@ -1764,8 +1724,7 @@ upsetting /ʌp'setɪŋ/ adj
 ---
 ### 1.*高义频：* **(肠胃) 不适的：**  
 
- > **upset stomach**  
- > an upset stomach  
+ > an **upset stomach**  
  > 肠胃不适    
 
 ### 2.*高义频：* **[不用于名词前] 心烦意乱的；难过的**  
@@ -1795,7 +1754,7 @@ upsetting /ʌp'setɪŋ/ adj
  > 你不再生我的气了，对吧？    
 
 
-# ***\*upstairs*** adv
+# ***\#upstairs*** adv
 英音 ˌʌp'steəz     美音 ˌʌp'sterz  
 
 | 词频 3 | 口语 2 |  
@@ -1808,7 +1767,7 @@ upsetting /ʌp'setɪŋ/ adj
  > 我跑到了楼上，发现她正在卧室里哭泣。  （2005 广东）  
 
 
-# ***\*upstairs*** adj
+# ***\#upstairs*** adj
 英音 ˌʌp'steəz     美音 ˌʌp'sterz  
 
 | 词频 3 | 口语 2 |  
@@ -1821,7 +1780,7 @@ upsetting /ʌp'setɪŋ/ adj
  > 楼上的房间    
 
 
-# ***\*upward*** adj & adv
+# ***\#upward*** adj & adv
 英音 'ʌpwəd     美音 'ʌpwərd  
 
 | 词频 2 |  
@@ -1831,7 +1790,7 @@ upsetting /ʌp'setɪŋ/ adj
 ### 1.*高义频：* **向上 (的)；上升 (的)**  
 
 
-# ***\*upwards*** adj & adv
+# ***\#upwards*** adj & adv
 英音 'ʌpwədz     美音 'ʌpwərdz  
 
 | 词频 2 |  
@@ -1845,7 +1804,7 @@ upsetting /ʌp'setɪŋ/ adj
  > 我向上一直爬到山顶。    
 
 
-# ***\*upwards*** adv
+# ***\#upwards*** adv
 英音 'ʌpwədz     美音 'ʌpwərdz  
 
 | 词频 2 |  
@@ -1855,7 +1814,7 @@ upsetting /ʌp'setɪŋ/ adj
 ### 1.**向上地；上升地**  
 
 
-# ***\*urban*** adj
+# ***\#urban*** adj
 英音 'ɜːbən     美音 'ɜːrbən  
 
 | 词频 3 | 书面 2 |  
@@ -1874,7 +1833,7 @@ upsetting /ʌp'setɪŋ/ adj
  > 67%的城市居民使用互联网。  （2007 上海）  
 
 
-# ***\*urge*** vt
+# ***\#urge*** vt
 英音 ɜːdʒ     美音 ɜːrdʒ  
 
 | 词频 3 | 书面 1 |  
@@ -1903,7 +1862,7 @@ upsetting /ʌp'setɪŋ/ adj
  > 他极力主张我们采取这些措施。    
 
 
-# ***\*urge*** n
+# ***\#urge*** n
 英音 ɜːdʒ     美音 ɜːrdʒ  
 
 | 词频 3 |  
@@ -1914,12 +1873,11 @@ upsetting /ʌp'setɪŋ/ adj
 ---
 ### 1.*高义频：* **强烈的冲动 (desire)：**  
 
- > **urge to**  
- > I was embarrassed, but I fought the urge to run off the stage.   
+ > I was embarrassed, but I fought the **urge to** run off the stage.   
  > 我感到很尴尬，但是我抑制住了想跑下台的冲动。  （2010 山东）  
 
 
-# ***\*urgent*** adj
+# ***\#urgent*** adj
 英音 'ɜːdʒənt     美音 'ɜːrdʒənt  
 
 | 词频 2 | 口语 1 | 阅读 2 |  
@@ -1928,15 +1886,14 @@ upsetting /ʌp'setɪŋ/ adj
 ---
 ### 1.*高义频：* **急迫的；迫切的；紧急的：**  
 
- > **in urgent need of**  
- > in urgent need of money   
+ > **in urgent need of** money   
  > 迫切需要钱    
 
  > Every minute of the day is filled with urgent matters.  
  > 一天中的每分钟都排满了亟待解决的事情。  （北师大① – 1）  
 
 
-# ***\*us*** pron
+# ***\#us*** pron
 英音 əs, ʌs     美音 ʌs, əs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1955,7 +1912,7 @@ upsetting /ʌp'setɪŋ/ adj
 答案：
 1. us  
 
-# ***\*usage*** n
+# ***\#usage*** n
 英音 'juːsɪdʒ     美音 'juːsɪdʒ  
 
 | 词频 2 |  
@@ -1967,7 +1924,7 @@ upsetting /ʌp'setɪŋ/ adj
 ### 1.*高义频：* **使用；用注；词语惯用法**  
 
 
-# ***\*use*** vt
+# ***\#use*** vt
 英音 juːz     美音 juːz  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2008,7 +1965,7 @@ upsetting /ʌp'setɪŋ/ adj
 
 固定搭配
 ---
-## \*use up 
+## \#use up 
 1.**用光；耗尽：**  
 
  > The human race is using up Earth’s resources.   
@@ -2018,7 +1975,7 @@ upsetting /ʌp'setɪŋ/ adj
  > 今日事，今日毕。    
 
 
-# ***\*use*** n
+# ***\#use*** n
 英音 juːs     美音 juːs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2032,14 +1989,12 @@ upsetting /ʌp'setɪŋ/ adj
 
 ### 2.*高义频：* **[C] & [U] 用途；用法：**  
 
- > **uses**  
- > This chemical has a wide range of industrial uses.  
+ > This chemical has a wide range of industrial **uses**.  
  > 这种化学品在工业上用途广泛。    
 
 ### 3.*低义频：* **[U] 使用权；运用能力：**  
 
- > **use of**  
- > I have the use of the car this week.   
+ > I have the **use of** the car this week.   
  > 这辆车本周归我用。    
 
  > I believe I will recover the use of my hand fully in the near future.   
@@ -2048,13 +2003,13 @@ upsetting /ʌp'setɪŋ/ adj
 
 固定搭配
 ---
-## \*come into use 
+## \#come into use 
 1.**开始被使用：**  
 
  > When did the umbrella come into use?  
  > 雨伞是什么时候开始使用的？    
 
-## \*have no use for 
+## \#have no use for 
 1.**不需要；不喜欢：**  
 
  > People may have no use for your gift, but the effort is appreciated.   
@@ -2063,31 +2018,31 @@ upsetting /ʌp'setɪŋ/ adj
  > I have no use for novels like that.   
  > 我不喜欢那样的小说。    
 
-## \*in use 
+## \#in use 
 1.**在使用着：**  
 
  > Turn off everything not in use: lights, TVs, computers.   
  > 关掉所有不用的电器：灯、电视和电脑。  （2008 福建）  
 
-## \*it is no use doing sth 
+## \#it is no use doing sth 
 1.**做某事没有用 / 意义：**  
 
  > I think it is no use crying about your exam results now.   
  > 我想现在为考试成绩哭泣没什么意义了。  （译林⑤ – 1）  
 
-## \*make use of 
+## \#make use of 
 1.**利用：**  
 
  > To be a good learner, you must make full use of library books, newspapers and magazines.   
  > 要成为善于学习的人，你必须充分利用图书馆里的图书、报纸和杂志。  （人教② – 3）  
 
-## \*of use 
+## \#of use 
 1.**有用的 (useful)：**  
 
  > I hope this information will be of use to you.   
  > 希望这些信息对你有用。  （译林④ – 2）  
 
-## \*put sth to use
+## \#put sth to use
 1.**利用某事物：**  
 
  > It was time to put the tips he had learned to use.  
@@ -2103,7 +2058,7 @@ upsetting /ʌp'setɪŋ/ adj
 答案：
 1. using → used  2. using  3. complaining  
 
-# ***\*used*** adj
+# ***\#used*** adj
 英音 juːst     美音 juːst  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -2126,7 +2081,7 @@ upsetting /ʌp'setɪŋ/ adj
  > 二手车    
 
 
-# ***\*useful*** adj
+# ***\#useful*** adj
 英音 'juːsfl     美音 'juːsfl  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -2136,8 +2091,7 @@ upsetting /ʌp'setɪŋ/ adj
 ### 1.*高义频：* **有用的；有益的:**  
 反义词 useless 
 
- > **useful tool**  
- > a useful tool  
+ > a **useful tool**  
  > 有用的工具    
 
  > These activities are useful in helping them prepare for their future.   
@@ -2148,7 +2102,7 @@ upsetting /ʌp'setɪŋ/ adj
 ---
 usefully /'juːsfəli/ adv   
 
-# ***\*useless*** adj
+# ***\#useless*** adj
 英音 'juːsləs     美音 'juːsləs  
 
 | 词频 3 |  
@@ -2165,7 +2119,7 @@ usefully /'juːsfəli/ adv
  > 为这件事担心无济于事。    
 
 
-# ***\*user*** n
+# ***\#user*** n
 英音 'juːzə(r)     美音 'juːzər  
 
 | 词频 4 | 口语 1 | 书面 3 |  
@@ -2177,7 +2131,7 @@ usefully /'juːsfəli/ adv
 ### 1.*高义频：* **使用者；用户**  
 
 
-# ***\*user-friendly*** adj
+# ***\#user-friendly*** adj
 英音 'juːzə 'frendli     美音 'juːzər 'frendli  
 
 | 词频 1 |  
@@ -2187,7 +2141,7 @@ usefully /'juːsfəli/ adv
 ### 1.**方便用户的，便于使用的**  
 
 
-# ***\*usual*** adj
+# ***\#usual*** adj
 英音 'juːʒuəl, 'juːʒəl     美音 'juːʒuəl, 'juːʒəl  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2202,18 +2156,28 @@ usefully /'juːsfəli/ adv
 
 #### 辨析 common, normal, ordinary, usual
   
+**common** 侧重表示普遍、常见。
+**normal** 侧重指“正常的”、“平常的”。
+**ordinary** 侧重表示平常、平凡、无奇特之处。形容人时可与common通用。
+**usual** 表示由于长时间没有变化而形成了一种习惯或制度，强调习惯性。
+ > He arrived later than usual.   
+ > 他到得比平时晚。    
+
+ > It is usual for him to sit up late at night.   
+ > 他熬夜已成习惯。    
+
 
 
 固定搭配
 ---
-## \*as usual
+## \#as usual
 1.**像平常一样；照例(as always)：**  
 
  > Wang Wei rode in front of me as usual.   
  > 像平时那样，王薇骑车在我的前面。  （人教① – 3）  
 
 
-# ***\*usually*** adv
+# ***\#usually*** adv
 英音 'juːʒuəli, 'juːʒəli     美音 'juːʒuəli, 'juːʒəli  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2233,7 +2197,7 @@ usefully /'juːsfəli/ adv
 答案：
 1. usually  
 
-# ***\*utter*** vt
+# ***\#utter*** vt
 英音 'ʌtə(r)     美音 utter  
 
 | 词频 1 |  
@@ -2245,7 +2209,7 @@ usefully /'juːsfəli/ adv
 ### 1.*高义频：* **说；讲；发出 (声音)**  
 
 
-# ***\*utterly*** adv
+# ***\#utterly*** adv
 英音 'ʌtəli:     美音 'ʌtəli:  
 
 | 词频 1 |  

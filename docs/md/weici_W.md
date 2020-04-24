@@ -1,6 +1,6 @@
 # Ww
 
-# ***\*wag*** v
+# ***\#wag*** v
 英音 wæɡ     美音 wæɡ  
 
 | 词频 3 |  
@@ -13,7 +13,7 @@
  > 狗一高兴就摇尾巴。    
 
 
-# ***\*wage*** n
+# ***\#wage*** n
 英音 weɪdʒ     美音 weɪdʒ  
 
 | 词频 2 | 口语 2 | 书面 2 |  
@@ -27,15 +27,23 @@
  > high / low wages  
  > 高/低薪    
 
- > **weekly wage**  
- > a weekly wage  
+ > a **weekly wage**  
  > 周薪    
 
 #### 辨析 pay, salary, wage
 三者都可用作名词，含“报酬”之意，都常译为“工资”。  
+**pay** 指不论工作性质如何，通过各种劳动所得到的报酬，它包含salary和wage，不可数。
+**salary ** 指非体力劳动者所得到的“工资”、“薪水”，通常按月计算，有时按季或年计算。
+**wage** 指简单劳动或体力劳动工作者所得的“工资”、“工钱”，通常按周、日、小时等短期计算发给，常用复数形式，但用于名词前时用单数形式。
+ > Wages are paid on Fridays.   
+ > 每周五发工资。    
+
+ > wage earners  
+ > 工薪族    
 
 
-# ***\*wagon*** n
+
+# ***\#wagon*** n
 英音 'wæɡən     美音 'wæɡən  
 
 | 词频 2 |  
@@ -47,7 +55,7 @@
 ### 1.*高义频：* **四轮运货马车；运货车**  
 
 
-# ***\*waist*** n
+# ***\#waist*** n
 英音 weɪst     美音 weɪst  
 
 | 词频 1 |  
@@ -62,7 +70,7 @@
  > 她腰身纤细。    
 
 
-# ***\*wait*** n
+# ***\#wait*** n
 英音 weɪt     美音 weɪt  
 
 | 词频 5 |  
@@ -73,12 +81,11 @@
 ---
 ### 1.*高义频：* **等待；等待的时间：**  
 
- > **wait for**  
- > He now faces a painful two-month wait for the test result.  
+ > He now faces a painful two-month **wait for** the test result.  
  > 如今考试成绩还没公布，他要痛苦地等两个月。    
 
 
-# ***\*wait*** v
+# ***\#wait*** v
 英音 weɪt     美音 weɪt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -90,12 +97,10 @@
  > wait a chance  
  > 等待机会    
 
- > **Wait your turn**  
- > Wait your turn.  
+ > **Wait your turn**.  
  > 等着轮到你。    
 
- > **kept you waiting**  
- > Sorry to have kept you waiting.  
+ > Sorry to have **kept you waiting**.  
  > 对不起，让您久等了。    
 
 - wait for sb / sth:
@@ -120,26 +125,23 @@
 
 固定搭配
 ---
-## \*be waiting
+## \#be waiting
 1.**(某物) 已准备好可供使用：**  
 
- > **is waiting for**  
- > The car is waiting for us.  
+ > The car **is waiting for** us.  
  > 车已为我们备好。    
 
-## \*can’t wait
+## \#can’t wait
 1.**急切地；迫不及待地：**  
 
- > **couldn’t wait to**  
- > When winter arrived the kids couldn’t wait to go skating.  
+ > When winter arrived the kids **couldn’t wait to** go skating.  
  > 到了冬天，孩子们迫不及待地去滑冰。  （2014 湖南）  
 
- > **can't wait for**  
- > I can't wait for his return.  
+ > I **can't wait for** his return.  
  > 我急切地等他回来。    
 
 
-# ***\*waiter*** n
+# ***\#waiter*** n
 英音 'weɪtə(r)     美音 'weɪtər  
 
 | 词频 3 |  
@@ -151,7 +153,7 @@
 ### 1.*高义频：* **男服务员；男侍应生**  
 
 
-# ***\*waiting-room*** n
+# ***\#waiting-room*** n
 英音 'weɪtɪŋ'ruːm     美音 'weɪtɪŋ'ruːm  
 
 | 词频 1 |  
@@ -163,7 +165,7 @@
 ### 1.*高义频：* **候诊室；候车 / 船 / 机室**  
 
 
-# ***\*waitress*** n
+# ***\#waitress*** n
 英音 'weɪtrəs     美音 'weɪtrəs  
 
 | 词频 2 |  
@@ -175,7 +177,7 @@
 ### 1.*高义频：* **女服务员**  
 
 
-# ***\*wake*** v
+# ***\#wake*** v
 英音 weɪk     美音 weɪk  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -186,12 +188,10 @@
 ---
 ### 1.*高义频：* **醒；醒来；醒着：**  
 
- > **wake up**  
- > What time do you usually wake up in the morning?  
+ > What time do you usually **wake up** in the morning?  
  > 你早晨通常几点醒？    
 
- > **woke,up**  
- > He woke ( up ) to find himself alone in the house.  
+ > He **woke** ( **up** ) to find himself alone in the house.  
  > 他醒来时，发现屋里只有自己一个人。    
 
 ### 2.*高义频：* **唤醒；弄醒：**  
@@ -203,7 +203,7 @@
  > 有人来回走动，把我吵醒了。    
 
 
-# ***\*walk*** v
+# ***\#walk*** v
 英音 wɔːk     美音 wɔːk  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -218,28 +218,25 @@
  > The door opened and Joe walked in.  
  > 门开了，乔走了进来。    
 
- > **walk the streets**  
- > It’s dangerous to walk the streets alone at night.  
+ > It’s dangerous to **walk the streets** alone at night.  
  > 晚上一个人在大街上走很危险。    
 
 ### 2.*低义频：* **遛 (动物)；陪 (某人) 走：**  
 
- > **walk,dog**  
- > walk a dog  
+ > **walk** a **dog**  
  > 遛狗    
 
- > **walk,to**  
- > I will walk you to the bus stop.  
+ > I will **walk** you **to** the bus stop.  
  > 我要陪你走到公交车站。    
 
 
 固定搭配
 ---
-## \*walk up (to)
+## \#walk up (to)
 1.**走近**  
 
 
-# ***\*walk*** n
+# ***\#walk*** n
 英音 wɔːk     美音 wɔːk  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -251,35 +248,30 @@
 ### 1.*高义频：* **走路；散步：**  
 
  > **go ( out ) for a walk**  
- > go ( out ) for a walk  
  > 出去散步    
 
  > **take / have a walk**  
- > take / have a walk  
  > 散步    
 
- > **take,for a walk**  
- > I take Tina, the dog, for a walk every afternoon.  
+ > I **take** Tina, the dog, **for a walk** every afternoon.  
  > 我每天下午都带小狗蒂娜去散步。  （北师大⑦ – 1）  
 
 ### 2.*高义频：* **步行距离；行走路程：**  
 
- > **ten,minute walk**  
- > The office is a ten - minute walk from here.  
+ > The office is a **ten** - **minute walk** from here.  
  > 从这里到办公室要步行10分钟。    
 
 
 固定搭配
 ---
-## \*a walk of life
+## \#a walk of life
 1.**行业；职业；社会阶层(background)：**  
 
- > **from all walks of life**  
- > Our volunteers include people from all walks of life.  
+ > Our volunteers include people **from all walks of life**.  
  > 我们的志愿者包括各界人士。    
 
 
-# ***\*wall*** n
+# ***\#wall*** n
 英音 wɔːl     美音 wɔːl  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -300,7 +292,7 @@
  > 翻墙    
 
 
-# ***\*wallet*** n
+# ***\#wallet*** n
 英音 'wɒlɪt     美音 'wɑːlɪt  
 
 | 词频 3 |  
@@ -313,7 +305,7 @@
 
 Notes: 带拉链或按扣的女用钱包为purse。  
 
-# ***\*walnut*** n
+# ***\#walnut*** n
 英音 'wɔːlnʌt     美音 'wɔːlnʌt  
 
 | 词频 1 |  
@@ -325,7 +317,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ### 1.*高义频：* **核桃；胡桃；胡桃树**  
 
 
-# ***\*waltz*** n
+# ***\#waltz*** n
 英音 wɔːls     美音 wɔːls  
 
 | 词频 1 |  
@@ -335,7 +327,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ### 1.**华尔兹舞**  
 
 
-# ***\*wander*** v
+# ***\#wander*** v
 英音 'wɒndə(r)     美音 'wɑːndər  
 
 | 词频 2 | 口语 1 |  
@@ -348,7 +340,6 @@ Notes: 带拉链或按扣的女用钱包为purse。
  > 周游世界    
 
  > **wander ( through / around ) the street**  
- > wander ( through / around ) the street  
  > 在街上游荡    
 
 ### 2.*高义频：* **走神；胡思乱想：**  
@@ -357,7 +348,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
  > 我开始天马行空地思考，我应该做什么样的工作呢？  （人教⑤ – 3）  
 
 
-# ***\*want*** vt  重难点词汇
+# ***\#want*** vt  重难点词汇
 英音 wɒnt     美音 wɑːnt, wɔːnt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -396,6 +387,15 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
 #### 辨析 desire, wish, want
 三者都含有“想”、“希望”之意。  
+**desire** 较正式，可代替 wish 和 want，强调主观愿望的热切、渴盼，有“渴盼”的意思。
+**wish** 语气比 desire 弱，一般用于难以实现或不可能实现的愿望，强调主观愿望，有“希望、愿、想”之意。
+**want** 多用于口语和普通场合，有“想、要、需要”之意。
+ > She wants me to go with her.   
+ > 她想让我跟她一起去。    
+
+ > All I want is the truth.   
+ > 我只想知道实情。    
+
 
 ### 2.*高义频：* **需要：**  
 
@@ -411,7 +411,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
  > 房子需要修葺。    
 
 
-# ***\*war*** n
+# ***\#war*** n
 英音 wɔː(r)     美音 wɔːr  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -428,17 +428,17 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
 固定搭配
 ---
-## \*at war (with)
+## \#at war (with)
 1.**(与…) 交战：**  
 
  > This was a time when the two countries were at war.  
  > 此时正值两国交战之际。  （人教② – 1）  
 
-## \*declare war on
+## \#declare war on
 1.**对…宣战**  
 
 
-# ***\*ward*** n
+# ***\#ward*** n
 英音 wɔːd     美音 wɔːrd  
 
 | 词频 2 | 书面 1 |  
@@ -450,7 +450,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ### 1.*高义频：* **病房**  
 
 
-# ***\*warden*** n
+# ***\#warden*** n
 英音 'wɔːdn     美音 'wɔːrdn  
 
 | 词频 1 |  
@@ -460,7 +460,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ### 1.**管理员**  
 
 
-# ***\*wardrobe*** n
+# ***\#wardrobe*** n
 英音 'wɔːdrəʊb     美音 'wɔːrdroʊb  
 
 | 词频 1 |  
@@ -470,7 +470,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ### 1.**衣橱**  
 
 
-# ***\*warehouse*** n
+# ***\#warehouse*** n
 英音 'weəhaʊs     美音 'werhaʊs  
 
 | 词频 1 |  
@@ -482,7 +482,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ### 1.*高义频：* **仓库**  
 
 
-# ***\*wariness*** n
+# ***\#wariness*** n
 英音 'weərinəs     美音 'werinəs  
 
 | 词频 1 |  
@@ -492,7 +492,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ### 1.**谨慎，小心**  
 
 
-# ***\*warm*** v
+# ***\#warm*** v
 英音 wɔːm     美音 wɔːrm  
 
 | 词频 5 |  
@@ -510,7 +510,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
 固定搭配
 ---
-## \*warm up
+## \#warm up
 1.**(使) 暖起来；(使) 兴奋起来：**  
 
  > Have a cup of coffee to warm you up.  
@@ -520,7 +520,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
  > 他看起来非常惊讶，接着他那沧桑的脸上露出了灿烂的笑容，显得很兴奋。  （2010 全国）  
 
 
-# ***\*warm*** adj
+# ***\#warm*** adj
 英音 wɔːm     美音 wɔːrm  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -543,12 +543,11 @@ Notes: 带拉链或按扣的女用钱包为purse。
  > a warm heart / person  
  > 热心肠/人    
 
- > **warm welcome**  
- > The speaker was given a warm welcome.  
+ > The speaker was given a **warm welcome**.  
  > 发言人受到热烈的欢迎。    
 
 
-# ***\*warm-hearted*** adj
+# ***\#warm-hearted*** adj
 英音 wɔːm 'hɑːtɪd     美音 wɔːrm 'hɑːtɪd  
 
 | 词频 2 |  
@@ -561,7 +560,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
  > 李伟总是很热心，并且对同学们关爱有加。  （ 2010 浙江改）  
 
 
-# ***\*warmth*** n
+# ***\#warmth*** n
 英音 wɔːmθ     美音 wɔːrmθ  
 
 | 词频 3 |  
@@ -576,7 +575,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
  > 三月的一个下午走在田野上，他能感觉到春天的温暖。  （2008 安徽）  
 
 
-# ***\*warn*** vt  重难点词汇
+# ***\#warn*** vt  重难点词汇
 英音 wɔːn     美音 wɔːrn  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -616,7 +615,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 答案：
 1. against  
 
-# ***\*warning*** n
+# ***\#warning*** n
 英音 'wɔːnɪŋ     美音 'wɔːrnɪŋ  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -627,16 +626,14 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ---
 ### 1.*高义频：* **警告；告诫：**  
 
- > **issued a warning**  
- > The government has issued a warning that the fish may not be fit to eat.  
+ > The government has **issued a warning** that the fish may not be fit to eat.  
  > 政府发出警告，那种鱼可能不宜食用。    
 
- > **gave,a warning**  
- > She gave her children a warning not to bite their nails.  
+ > She **gave** her children **a warning** not to bite their nails.  
  > 她告诫孩子们不要咬指甲。    
 
 
-# ***\*warrior*** n
+# ***\#warrior*** n
 英音 'wɒriə(r)     美音 'wɒriə(r)  
 
 | 词频 1 |  
@@ -648,7 +645,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ### 1.*高义频：* **(尤指旧时的) 武士；勇士；战士**  
 
 
-# ***\*wash*** v
+# ***\#wash*** v
 英音 wɒʃ     美音 wɑːʃ  
 
 | 词频 4 | 口语 3 | 书面 1 |  
@@ -657,8 +654,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ---
 ### 1.*高义频：* **洗 (手、脸、身体等)；洗涤：**  
 
- > **wash,dishes**  
- > wash clothes / dishes  
+ > **wash** clothes / **dishes**  
  > 洗衣服/碗    
 
  > Wash your hands before eating.  
@@ -669,8 +665,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
 ### 2.*低义频：* **耐洗：**  
 
- > **wash well**  
- > Does this dress wash well?  
+ > Does this dress **wash well**?  
  > 这件连衣裙耐洗吗？    
 
 ### 3.*低义频：* **冲走；冲出：**  
@@ -681,24 +676,23 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
 固定搭配
 ---
-## \*wash away
+## \#wash away
 1.**冲掉；洗掉；消除…的影响：**  
 
- > **washed,away**  
- > The flood washed some of the houses away in the town.  
+ > The flood **washed** some of the houses **away** in the town.  
  > 洪水冲走了镇上的一些房屋。    
 
-## \*wash off
+## \#wash off
 1.**洗掉；洗去**  
 
-## \*wash up
+## \#wash up
 1.**(BrE) 洗餐具；(AmE) 洗手或洗脸：**  
 
  > It’s your turn to wash up today.  
  > 今天轮到你洗碗。    
 
 
-# ***\*wash*** n
+# ***\#wash*** n
 英音 wɒʃ     美音 wɑːʃ  
 
 | 词频 4 |  
@@ -707,16 +701,14 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ---
 ### 1.*高义频：* **洗；洗涤；冲洗(washing)：**  
 
- > **have a wash**  
- > Go to the bathroom and have a wash.  
+ > Go to the bathroom and **have a wash**.  
  > 到浴室去洗个澡。    
 
- > **a good wash**  
- > The floor needs a good wash.  
+ > The floor needs **a good wash**.  
  > 地板要好好冲洗一下。    
 
 
-# ***\*washing*** n
+# ***\#washing*** n
 英音 'wɒʃɪŋ     美音 'wɑːʃɪŋ  
 
 | 词频 4 | 口语 2 |  
@@ -731,7 +723,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
  > 洗洗涮涮    
 
 
-# ***\*washroom*** n
+# ***\#washroom*** n
 英音 'wɒʃruːm     美音 'wɑːʃruːm  
 
 | 词频 1 |  
@@ -743,7 +735,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ### 1.*高义频：* **盥洗室；厕所**  
 
 
-# ***\*waste*** vt  重难点词汇
+# ***\#waste*** vt  重难点词汇
 英音 weɪst     美音 weɪst  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -768,8 +760,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
 - waste sth (in) doing sth:
 
- > **wasted no time**  
- > She wasted no time (in) rejecting the offer(= she rejected the offer immediately).  
+ > She **wasted no time** (in) rejecting the offer(= she rejected the offer immediately).  
  > 她当即拒绝了这个提议。    
 
 
@@ -780,7 +771,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 答案：
 1. waste  
 
-# ***\*waste*** n  重难点词汇
+# ***\#waste*** n  重难点词汇
 英音 weɪst     美音 weɪst  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -791,12 +782,10 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ---
 ### 1.*高义频：* **浪费；滥用：**  
 
- > **a waste of time**  
- > It is a waste of time to wait any longer  
+ > It is **a waste of time** to wait any longer  
  > 再等下去是白费时间。    
 
- > **go to waste**  
- > I hate to see good food go to waste (= be thrown away).  
+ > I hate to see good food **go to waste** (= be thrown away).  
  > 我不愿看到好好的食物被浪费掉。    
 
 ### 2.*高义频：* **废弃物；废料：**  
@@ -816,7 +805,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 答案：
 1. a waste of money  
 
-# ***\*waste*** adj  重难点词汇
+# ***\#waste*** adj  重难点词汇
 英音 weɪst     美音 weɪst  
 
 | 词频 5 | 书面 1 |  
@@ -829,7 +818,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
  > 废水/纸    
 
 
-# ***\*watch*** v  重难点词汇
+# ***\#watch*** v  重难点词汇
 英音 wɒtʃ     美音 wɑːtʃ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -864,11 +853,16 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
 #### 辨析 look, see, watch
 三者均有“看”的含义，均可作及物动词和不及物动词。  
+**look 强调“看”的动作。** 
+**see 强调“看”的结果，通常译成“看见”、“看到”。** 
+**watch 表示注意观看，留心整个过程，通常译成“观看”、“注视”。常用于看电视，观看比赛、表演和如何操作等。** 
+ > They are watching a football game.  
+ > 他们正在观看足球比赛。    
+
 
 ### 2.*高义频：* **注意；当心(BrE mind)：**  
 
- > **watch my step**  
- > He told me to watch my step (= behave in a careful way) and not to do anything wrong.  
+ > He told me to **watch my step** (= behave in a careful way) and not to do anything wrong.  
  > 他告诉我要谨慎行事，不要出任何差错。    
 
 - watch + that / wh- 从句：
@@ -887,13 +881,13 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
 固定搭配
 ---
-## \*watch out(for)
+## \#watch out(for)
 1.**当心 (…)；注意 (…)：**  
 
  > Watch out for the step here.  
  > 当心，这里有台阶。  （译林③ – 1）  
 
-## \*watch over
+## \#watch over
 1.**[正式用语] 保护；监视；照管：**  
 
  > Could you watch over my clothes while I have a swim?  
@@ -903,7 +897,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
  > 我生病期间，父母日夜照看我。    
 
 
-# ***\*watch*** n  重难点词汇
+# ***\#watch*** n  重难点词汇
 英音 wɒtʃ     美音 wɑːtʃ  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -926,20 +920,20 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
 固定搭配
 ---
-## \*keep watch (for)
+## \#keep watch (for)
 1.**看守；警惕：**  
 
  > He kept watch for the teacher as the students ran around the room.  
  > 当同学们在教室追逐嬉闹的时候，他总是望风，注意看老师来了没有。    
 
-## \*on watch
+## \#on watch
 1.**守望；值班：**  
 
  > He was standing there on watch.  
  > 他正站在那儿值班。    
 
 
-# ***\*watchtower*** n
+# ***\#watchtower*** n
 英音 'wɒtʃtaʊə(r)     美音 'wɑːtʃtaʊər  
 
 | 词频 1 |  
@@ -949,7 +943,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ### 1.**望台**  
 
 
-# ***\*water*** vt
+# ***\#water*** vt
 英音 'wɔːtə(r)     美音 'wɔːtər  
 
 | 词频 5 |  
@@ -962,7 +956,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
  > 浇花    
 
 
-# ***\*water*** n
+# ***\#water*** n
 英音 'wɔːtə(r)     美音 'wɔːtər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -974,33 +968,29 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ### 1.*高义频：* **水：**  
 
  > **running / fresh water**  
- > running / fresh water  
  > 自来水/淡水    
 
 ### 2.*高义频：* **水路；水上运输：**  
 
- > **by water**  
- > He came to Shanghai by water.  
+ > He came to Shanghai **by water**.  
  > 他由水路来到上海。    
 
 ### 3.*低义频：* **水域；领海：**  
 
- > **coastal waters**  
- > The species is found in coastal waters around the Indian Ocean.  
+ > The species is found in **coastal waters** around the Indian Ocean.  
  > 这一物种可在环印度洋沿岸的海域找到。    
 
- > **British waters**  
- > We were still in British waters.  
+ > We were still in **British waters**.  
  > 我们仍在英国领海上。    
 
 
 固定搭配
 ---
-## \*hold water
+## \#hold water
 1.**(容器等) 盛得住水；(论点等) 站得住脚**  
 
 
-# ***\*watercolour*** n
+# ***\#watercolour*** n
 英音 'wɔːtəkʌlə(r)     美音 'wɔːtərkʌlər  
 
 | 词频 1 |  
@@ -1010,7 +1000,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ### 1.**水彩画**  
 
 
-# ***\*waterfall*** n
+# ***\#waterfall*** n
 英音 'wɔːtəfɔːl     美音 'wɔːtərfɔːl  
 
 | 词频 1 |  
@@ -1022,7 +1012,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ### 1.*高义频：* **瀑布**  
 
 
-# ***\*watermelon*** n
+# ***\#watermelon*** n
 英音 'wɔːtəmelən     美音 'wɔːtərmelən  
 
 | 词频 1 |  
@@ -1034,7 +1024,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ### 1.*高义频：* **西瓜**  
 
 
-# ***\*waterproof*** adj
+# ***\#waterproof*** adj
 英音 'wɔːtəpruːf     美音 'wɔːtərpruːf  
 
 | 词频 1 |  
@@ -1044,7 +1034,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ### 1.*高义频：* **不透水的；防水的**  
 
 
-# ***\*watery*** adj
+# ***\#watery*** adj
 英音 'wɔːtəri     美音 'wɑːtəri  
 
 | 词频 1 |  
@@ -1054,7 +1044,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ### 1.*高义频：* **(似) 水的**  
 
 
-# ***\*wave*** v
+# ***\#wave*** v
 英音 weɪv     美音 wev  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -1068,21 +1058,19 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
 ### 2.*高义频：* **挥舞；挥动：**  
 
- > **waving flags**  
- > Crowds lined the route, waving flags and cheering.  
+ > Crowds lined the route, **waving flags** and cheering.  
  > 拥挤的人们站在路线两边，又是挥旗，又是欢呼。    
 
 ### 3.*高义频：* **挥手 (表示...)；(向...) 挥手示意：**  
 
- > **wave sb goodbye,wave goodbye to sb**  
- > wave sb goodbye / wave goodbye to sb  
+ > **wave sb goodbye** / **wave goodbye to sb**  
  > 向某人挥手道别    
 
  > He waved until they were out of sight.  
  > 他向他们挥手，直到看不见他们为止。    
 
 
-# ***\*wave*** n
+# ***\#wave*** n
 英音 weɪv     美音 wev  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -1098,18 +1086,16 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
 ### 2.*高义频：* **挥手；招手：**  
 
- > **gave,a wave**  
- > He gave us a wave as the bus drove off.  
+ > He **gave** us **a wave** as the bus drove off.  
  > 公共汽车开走时，他向我们挥了挥手。    
 
 ### 3.*高义频：* **(声、光、电等的) 波：**  
 
  > **sound waves**  
- > sound waves  
  > 声波    
 
 
-# ***\*wavy*** adj
+# ***\#wavy*** adj
 英音 'weɪvi     美音 'weɪvi  
 
 | 词频 1 |  
@@ -1119,7 +1105,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ### 1.**波状的**  
 
 
-# ***\*wax*** n
+# ***\#wax*** n
 英音 wæks     美音 wæks  
 
 | 词频 1 |  
@@ -1131,7 +1117,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ### 1.*高义频：* **蜡；蜂蜡**  
 
 
-# ***\*way*** n  重难点词汇
+# ***\#way*** n  重难点词汇
 英音 weɪ     美音 weɪ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1143,21 +1129,17 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ### 1.*高义频：* **路；道路；路线：**  
 
  > **lose one’s way**  
- > lose one’s way  
  > 迷路    
 
- > **show / tell me the way to**  
- > Could you please show / tell me the way to Beihai Park?  
+ > Could you please **show / tell me the way to** Beihai Park?  
  > 请问到北海公园怎么走？  （人教③ – 1）  
 
- > **on my way**  
- > Want a lift? It’s on my way.  
+ > Want a lift? It’s **on my way**.  
  > 要搭车吗？你和我同路。    
 
 ### 2.*高义频：* **通道；出入口：**  
 
  > **the way in / out**  
- > the way in / out  
  > 入口/出口    
 
 ### 3.*高义频：* **方向：**  
@@ -1165,39 +1147,33 @@ Notes: 带拉链或按扣的女用钱包为purse。
  > Look both ways before crossing the road.  
  > 过马路前要朝左右两边看一看。    
 
- > **the other way**  
- > We just missed a taxi coming the other way.  
+ > We just missed a taxi coming **the other way**.  
  > 我们刚错过一辆从对面开过来的出租车。    
 
 ### 4.*高义频：* **距离：**  
 
- > **a long way**  
- > The beach is a long way from here.  
+ > The beach is **a long way** from here.  
  > 海滩离这里很远。    
 
- > **have a long way to go**  
- > We still have a long way to go to solve all the problems concerning the Yangtze River.  
+ > We still **have a long way to go** to solve all the problems concerning the Yangtze River.  
  > 要解决涉及长江的所有问题，我们还有很长的一段路要走。  （译林⑤ – 2）  
 
 ### 5.*高义频：* **方式；方法；手段**  
 英译 a method that you use to do or achieve sth：
 
- > **way to do / of doing sth**  
- > the best way to do / of doing sth  
+ > the best **way to do / of doing sth**  
  > 做某事的最佳途径    
 
  > What surprised me was not what he said but the way (that / in which) he said it.  
  > 令我吃惊的不是他说的话而是他说话的方式。    
 
- > **It’s not his way**  
- > It’s not his way to wait passively for things to happen.  
+ > **It’s not his way** to wait passively for things to happen.  
  > 被动地等待事情发生不是他的风格。    
 
 Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关系词在定语从句中作方式状语时， 引导定语从句的in which或that可省略。  
 ### 6.*高义频：* **方面：**  
 
- > **in every way**  
- > Ben is a perfectly normal child in every way.  
+ > Ben is a perfectly normal child **in every way**.  
  > 本在各方面都是一个完全正常的孩子。    
 
 ### 7.*低义频：* **[常用复数] 习惯；习俗：**  
@@ -1208,7 +1184,7 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
 
 固定搭配
 ---
-## \*all the way
+## \#all the way
 1.**一直；自始至终；完全地：**  
 
  > The girls climbed down the tree and ran all the way to the riverside.  
@@ -1217,10 +1193,10 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
  > I’m with you all the way.  
  > 我完全支持你。    
 
-## \*by the way
+## \#by the way
 1.**顺便说；顺便一提**  
 
-## \*by way of
+## \#by way of
 1.**经由；通过…方法：**  
 
  > He flew to America by way of Hong Kong.  
@@ -1229,7 +1205,7 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
  > Children often learn reading by way of pictures.  
  > 孩子们通常看图识字。    
 
-## \*give way (to)
+## \#give way (to)
 1.**让步 (于)；屈服 (于)：**  
 
  > give way to pressure  
@@ -1241,13 +1217,13 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
  > Cinemas have gradually given way to the rise of the Internet and cellphones.  
  > 电影院逐渐被新兴的网络和手机所取代。  （2017 江苏书面表达）  
 
-## \*in a way
+## \#in a way
 1.**在某种程度上：**  
 
  > In a way, I’m glad you made that mistake, for it’ll serve as a warning to you.  
  > 在某种程度上说，你犯了那个错误我倒感到高兴，因为它会为你敲响警钟。    
 
-## \*in no way
+## \#in no way
 1.**一点儿也不；决不：**  
 
  > I am in no way to blame.   
@@ -1256,7 +1232,7 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
  > In no way can we allow this to continue.   
  > 我们决不能容忍这样的事情继续下去。    
 
-## \*in the / sb’s way
+## \#in the / sb’s way
 1.**挡某人的道；妨碍某人：**  
 
  > Nothing is to stand in my way.   
@@ -1265,13 +1241,13 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
  > Although I thought I was helping my parents prepare dinner, I was only in the way.   
  > 虽然我认为自己是在帮父母准备饭菜，但实际上只是碍手碍脚。    
 
-## \*keep / stay out of sb’s way
+## \#keep / stay out of sb’s way
 1.**避开某人：**  
 
  > Let’s keep out of her way while she is in such a bad mood.  
  > 她心情这样不好的时候咱们避开她吧。    
 
-## \*no way
+## \#no way
 1.**不可能；决不；不行：**  
 
  > — I think you should phone Jenny and say sorry to her.  
@@ -1280,11 +1256,10 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
  > — No way. It was her fault.  
  > 不可能，都是她的错。    
 
- > **There's no way**  
- > There's no way we could afford that sort of money.  
+ > **There's no way** we could afford that sort of money.  
  > 我们无论如何都花不起那种钱。    
 
-## \*out of the way
+## \#out of the way
 1.**不挡道；不碍事：**  
 
  > As he walked on, Pierre moved out of the way for him to pass.  
@@ -1292,6 +1267,14 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
 
 #### 辨析 way, road, path, street, avenue
 五者都可作“路”解，但含义有所不同。  
+**way** 常指到达某个地方所经过的路径，其后常接to。
+**road** 侧重指两地之间的平坦、光滑、坚硬、供有轮子的车辆通行的道路或公路。
+**path** 指自然踩踏形成的“小路”，或庭院、公园里等散步用的小径。
+**street** 指城市中的路两边有房屋或店铺的“街 道”、“大街”。
+**avenue** 指城市中的路两边有树木的大街或通向大住宅的林荫道；Avenue用于城市中街道的命名。
+ > It’s a hotel on Fifth Avenue.  
+ > 这是位于第五大道上的一家旅馆。    
+
 
 
 真题解析
@@ -1303,7 +1286,7 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
 答案：
 1. in  2. in a way  
 
-# ***\*we*** pron
+# ***\#we*** pron
 英音 wɪ:, wɪ     美音 wɪ, wɪ:  
 
 | 词频 5 |  
@@ -1321,7 +1304,7 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
  > 短短几小时内，积雪已有50厘米厚。    
 
 
-# ***\*weak*** adj
+# ***\#weak*** adj
 英音 wi:k     美音 wi:k  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -1336,11 +1319,9 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
 ### 2.*高义频：* **不擅长的；(能力等) 差的：**  
 
  > **weak points**  
- > weak points  
  > 弱点    
 
- > **weak in**  
- > He is weak in mathematics, but good at English.  
+ > He is **weak in** mathematics, but good at English.  
  > 他数学差，但英语好。    
 
 
@@ -1348,7 +1329,7 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
 ---
 weakly /'wiːkli/ adv   
 
-# ***\*weaken*** v
+# ***\#weaken*** v
 英音 'wi:kən     美音 'wi:kən  
 
 | 词频 2 |  
@@ -1361,7 +1342,7 @@ weakly /'wiːkli/ adv
  > HIV病毒会削弱人的免疫系统。  （人教⑥ – 3）  
 
 
-# ***\*weakness*** n
+# ***\#weakness*** n
 英音 'wiːknəs     美音 'wiːknəs  
 
 | 词频 4 | 书面 1 |  
@@ -1375,8 +1356,7 @@ weakly /'wiːkli/ adv
 
 ### 2.*高义频：* **弱点；缺点：**  
 
- > **strengths and weaknesses**  
- > Think about the job and write down your strengths and weaknesses.  
+ > Think about the job and write down your **strengths and weaknesses**.  
  > 考虑一下这份工作，然后写下你的优点和不足。  （北师大⑤ – 14）  
 
 
@@ -1387,7 +1367,7 @@ weakly /'wiːkli/ adv
 答案：
 1. weaknesses  
 
-# ***\*wealth*** n
+# ***\#wealth*** n
 英音 welθ     美音 welθ  
 
 | 词频 4 | 书面 1 |  
@@ -1402,7 +1382,7 @@ weakly /'wiːkli/ adv
  > 健康比财富更重要。  （人教⑤ – 5）  
 
 
-# ***\*wealthy*** adj
+# ***\#wealthy*** adj
 英音 'welθi     美音 'welθi  
 
 | 词频 3 |  
@@ -1415,7 +1395,7 @@ weakly /'wiːkli/ adv
  > 他通过辛勤工作和精打细算致富。  （北师大③ – 8）  
 
 
-# ***\*weapon*** n
+# ***\#weapon*** n
 英音 'wepən     美音 'wepən  
 
 | 词频 3 | 口语 1 | 书面 2 |  
@@ -1427,7 +1407,7 @@ weakly /'wiːkli/ adv
 ### 1.*高义频：* **武器；兵器**  
 
 
-# ***\*wear*** v
+# ***\#wear*** v
 英音 weə(r)     美音 wer  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1452,23 +1432,21 @@ weakly /'wiːkli/ adv
  > This old overcoat is much worn.  
  > 这件旧大衣已穿得很破旧。    
 
- > **wears well**  
- > The material wears well.  
+ > The material **wears well**.  
  > 这种材料很耐用。    
 
 ### 3.*低义频：* **面带 / 露 (表情、态度等)：**  
 
  > **wear a smile**  
- > wear a smile  
  > 面带微笑    
 
 
 固定搭配
 ---
-## \*wear off
+## \#wear off
 1.**逐渐减少；逐渐消失**  
 
-## \*wear out
+## \#wear out
 1.*高义频：* **穿破；磨损：**  
 
  > My old boots are worn out.  
@@ -1481,6 +1459,18 @@ weakly /'wiːkli/ adv
 
 #### 辨析 wear, put on, dress
 三者均可作“穿”解，但意义、用法不同。  
+**wear** 强调穿衣的状态，即衣服已穿在身上。
+**put on** 侧重表示穿衣的动作、过程。
+**dress** 常含注意选择服饰，为某一正式场合而穿着得体的服装等意，既可表穿衣动作，又可表穿衣状态；作及物动词时，宾语为人。
+ > Don’t come in! I’m dressing.  
+ > 别进来，我在穿衣服。    
+
+ > Wait! I’m just dressing the baby.  
+ > 等等！我在给孩子穿衣服。    
+
+ > He **got dressed** in his Sunday clothes.  
+ > 他穿上了自己最好的衣服。    
+
 
 
 真题解析
@@ -1490,7 +1480,7 @@ weakly /'wiːkli/ adv
 答案：
 1. wear out  
 
-# ***\*weary*** v
+# ***\#weary*** v
 英音 'wɪəri     美音 'wɪri  
 
 | 词频 1 |  
@@ -1500,7 +1490,7 @@ weakly /'wiːkli/ adv
 ### 1.**使人疲倦，使人厌烦**  
 
 
-# ***\*weather*** n
+# ***\#weather*** n
 英音 'weðə(r)     美音 'weðər  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -1519,7 +1509,7 @@ weakly /'wiːkli/ adv
 答案：
 1. weather  
 
-# ***\*weave*** v
+# ***\#weave*** v
 英音 wiːv     美音 wiːv  
 
 | 词频 1 |  
@@ -1531,7 +1521,7 @@ weakly /'wiːkli/ adv
 ### 1.*高义频：* **(编) 织；编造；迂回行进**  
 
 
-# ***\*web*** n
+# ***\#web*** n
 英音 web     美音 web  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -1543,23 +1533,19 @@ weakly /'wiːkli/ adv
 ### 1.*高义频：* **(蜘蛛等结的) 网；网状物；网络：**  
 
  > **the World Wide Web**  
- > the World Wide Web  
  > 万维网    
 
  > **web pages**  
- > web pages  
  > (互联网的)网页    
 
- > **spinning,web**  
- > He watched a spider spinning its web.  
+ > He watched a spider **spinning** its **web**.  
  > 他看着一只蜘蛛在织网。    
 
- > **on the Web**  
- > I found the information on the Web.  
+ > I found the information **on the Web**.  
  > 我在网上查到了信息。    
 
 
-# ***\*website*** n
+# ***\#website*** n
 英音 'websaɪt     美音 'websaɪt  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -1570,12 +1556,11 @@ weakly /'wiːkli/ adv
 ---
 ### 1.*高义频：* **网站：**  
 
- > **visit,website**  
- > build / visit a website   
+ > build / **visit** a **website**   
  > 建/访问网站    
 
 
-# ***\*wedding*** n
+# ***\#wedding*** n
 英音 'wedɪŋ     美音 'wedɪŋ  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -1590,7 +1575,7 @@ weakly /'wiːkli/ adv
  > 筹备/参加/举行婚礼    
 
 
-# ***\*wedding*** n
+# ***\#wedding*** n
 英音 'wedɪŋ     美音 'wedɪŋ  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -1603,7 +1588,7 @@ weakly /'wiːkli/ adv
  > 筹备/参加/举行婚礼    
 
 
-# ***\*weed*** n
+# ***\#weed*** n
 英音 wiːd     美音 wiːd  
 
 | 词频 2 |  
@@ -1615,7 +1600,7 @@ weakly /'wiːkli/ adv
 ### 1.*高义频：* **杂草**  
 
 
-# ***\*weed*** v
+# ***\#weed*** v
 英音 wiːd     美音 wiːd  
 
 | 词频 2 |  
@@ -1625,7 +1610,7 @@ weakly /'wiːkli/ adv
 ### 1.**vt. & vi.除杂草**  
 
 
-# ***\*week*** n
+# ***\#week*** n
 英音 wiːk     美音 wiːk  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1646,7 +1631,7 @@ weakly /'wiːkli/ adv
  > 上上一周    
 
 
-# ***\*weekday*** n
+# ***\#weekday*** n
 英音 'wiːkdeɪ     美音 'wiːkdeɪ  
 
 | 词频 2 |  
@@ -1664,7 +1649,7 @@ weakly /'wiːkli/ adv
  > 他在工作日总是很忙。    
 
 
-# ***\*weekend*** n
+# ***\#weekend*** n
 英音 ˌwiːk'end     美音 'wiːkend  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -1676,18 +1661,16 @@ weakly /'wiːkli/ adv
 ### 1.*高义频：* **周末：**  
 
  > **at / on the weekend**  
- > at / on the weekend  
  > 在周末    
 
  > **on / at weekends**  
- > on / at weekends  
  > 在周末    
 
  > go for a weekend  
  > 去度周末    
 
 
-# ***\*weekly*** adj
+# ***\#weekly*** adj
 英音 'wiːkli     美音 'wiːkli  
 
 | 词频 3 | 书面 1 |  
@@ -1700,7 +1683,7 @@ weakly /'wiːkli/ adv
  > 周报    
 
 
-# ***\*weekly*** adv
+# ***\#weekly*** adv
 英音 'wiːkli     美音 'wiːkli  
 
 | 词频 3 | 书面 1 |  
@@ -1713,7 +1696,7 @@ weakly /'wiːkli/ adv
  > 我们每周有4节英语课。    
 
 
-# ***\*weekly*** n
+# ***\#weekly*** n
 英音 'wiːkli     美音 'wiːkli  
 
 | 词频 3 |  
@@ -1723,7 +1706,7 @@ weakly /'wiːkli/ adv
 ### 1.**周刊；周报**  
 
 
-# ***\*weep*** vi
+# ***\#weep*** vi
 英音 wiːp     美音 wiːp  
 
 | 词频 1 | 口语 1 | 书面 1 |  
@@ -1735,15 +1718,13 @@ weakly /'wiːkli/ adv
 ### 1.*高义频：* **流泪；哭泣：**  
 
  > **weep for joy**  
- > weep for joy  
  > 喜极而泣    
 
- > **wept with**  
- > When Claire got home, she wept with anger in her armchair.  
+ > When Claire got home, she **wept with** anger in her armchair.  
  > 回家后，克莱尔气得坐在椅子上哭了起来。  （人教⑦ – 2）  
 
 
-# ***\*weep*** n
+# ***\#weep*** n
 英音 wiːp     美音 wiːp  
 
 | 词频 1 |  
@@ -1753,7 +1734,7 @@ weakly /'wiːkli/ adv
 ### 1.**哭；哭泣**  
 
 
-# ***\*weigh*** v
+# ***\#weigh*** v
 英音 weɪ     美音 weɪ  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -1762,8 +1743,7 @@ weakly /'wiːkli/ adv
 ---
 ### 1.*高义频：* **称...的重量：**  
 
- > **weighed himself**  
- > He weighed himself on the bathroom scales.  
+ > He **weighed himself** on the bathroom scales.  
  > 他在浴室的磅秤上称了称体重。    
 
 ### 2.*高义频：* **重量为：**  
@@ -1771,18 +1751,16 @@ weakly /'wiːkli/ adv
  > She weighs 60 kilos.  
  > 她的体重为60公斤。    
 
- > **What,weigh**  
- > What does this box weigh?  
+ > **What** does this box **weigh**?  
  > 这个箱子有多重?    
 
 ### 3.*低义频：* **认真考虑；权衡：**  
 
- > **weighed,against**  
- > We weighed the benefits of the plan against the risks involved.  
+ > We **weighed** the benefits of the plan **against** the risks involved.  
  > 我们权衡了这个计划的好处和相关的风险。    
 
 
-# ***\*weight*** n
+# ***\#weight*** n
 英音 weɪt     美音 weɪt  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -1793,23 +1771,20 @@ weakly /'wiːkli/ adv
 ---
 ### 1.*高义频：* **重量；体重：**  
 
- > **lose weight / put on weight**  
- > lose weight / put on weight   
+ > **lose weight / put on weight**   
  > 减肥/发福；体重增加    
 
- > **in weight**  
- > The bag is 2 pounds in weight.  
+ > The bag is 2 pounds **in weight**.  
  > 这个包重两磅。    
 
  > What is your weight?  
  > 你的体重是多少?    
 
- > **by weight**  
- > Bananas are sold by weight.  
+ > Bananas are sold **by weight**.  
  > 香蕉按重量出售。    
 
 
-# ***\*weight-loss*** n
+# ***\#weight-loss*** n
 英音 'weɪtl'ɒs     美音 'weɪtl'ɒs  
 
 | 词频 1 |  
@@ -1819,7 +1794,7 @@ weakly /'wiːkli/ adv
 ### 1.**减肥，瘦身**  
 
 
-# ***\*weightlessly*** adv
+# ***\#weightlessly*** adv
 英音 'weɪtləs     美音 'weɪtləs  
 
 | 词频 1 |  
@@ -1829,7 +1804,7 @@ weakly /'wiːkli/ adv
 ### 1.*高义频：* **失重地**  
 
 
-# ***\*weird*** adj
+# ***\#weird*** adj
 英音 wɪəd     美音 wɪrd  
 
 | 词频 1 | 口语 2 |  
@@ -1842,7 +1817,7 @@ weakly /'wiːkli/ adv
  > 离奇的梦/怪异的想法    
 
 
-# ***\*welcome*** n  重难点词汇
+# ***\#welcome*** n  重难点词汇
 英音 'welkəm     美音 'welkəm  
 
 | 词频 5 |  
@@ -1856,12 +1831,11 @@ weakly /'wiːkli/ adv
  > a welcome speech  
  > 欢迎辞  （人教⑧ – 5）  
 
- > **warm welcome**  
- > Their warm welcome made me feel comfortable.  
+ > Their **warm welcome** made me feel comfortable.  
  > 他们的热情接待让我感到很舒服。    
 
 
-# ***\*welcome*** vt  重难点词汇
+# ***\#welcome*** vt  重难点词汇
 英音 'welkəm     美音 'welkəm  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -1889,7 +1863,7 @@ weakly /'wiːkli/ adv
 答案：
 1. welcoming  
 
-# ***\*welcome*** adj  重难点词汇
+# ***\#welcome*** adj  重难点词汇
 英音 'welkəm     美音 'welkəm  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -1926,11 +1900,11 @@ weakly /'wiːkli/ adv
 
 固定搭配
 ---
-## \*you’re welcome
+## \#you’re welcome
 1.**别客气；不用谢**  
 
 
-# ***\*welcome*** int  重难点词汇
+# ***\#welcome*** int  重难点词汇
 英音 'welkəm     美音 'welkəm  
 
 | 词频 5 |  
@@ -1939,8 +1913,7 @@ weakly /'wiːkli/ adv
 ---
 ### 1.*高义频：* **欢迎：**  
 
- > **Welcome to**  
- > Welcome to our school!   
+ > **Welcome to** our school!   
  > 欢迎光临我校!    
 
 
@@ -1948,7 +1921,7 @@ weakly /'wiːkli/ adv
 ---
 welcoming /'welkəmɪŋ/ adj   
 
-# ***\*welfare*** n
+# ***\#welfare*** n
 英音 'welfeə(r)     美音 'welfer  
 
 | 词频 1 | 口语 1 | 书面 2 | 阅读 1 |  
@@ -1966,7 +1939,7 @@ welcoming /'welkəmɪŋ/ adj
  > 父母要对子女的幸福负责。    
 
 
-# ***\*well*** n
+# ***\#well*** n
 英音 wel     美音 wel  
 
 | 词频 2 |  
@@ -1978,7 +1951,7 @@ welcoming /'welkəmɪŋ/ adj
 ### 1.*高义频：* **井**  
 
 
-# ***\*well*** adv  重难点词汇
+# ***\#well*** adv  重难点词汇
 英音 wel     美音 wel  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2012,8 +1985,7 @@ welcoming /'welkəmɪŋ/ adj
  > My grandmother is well past eighty.   
  > 我祖母早已经过了八十岁了。    
 
- > **well after**  
- > It was well after 12 o’clock when they arrived.  
+ > It was **well after** 12 o’clock when they arrived.  
  > 他们是12点过了之后很久才到的。    
 
 ### 4.*高义频：* **彻底地；充分地：**  
@@ -2024,13 +1996,13 @@ welcoming /'welkəmɪŋ/ adj
 
 固定搭配
 ---
-## \*as well
+## \#as well
 1.**也；还：**  
 
  > I’ll do some reading for fun, and for knowledge as well.   
  > 我会读点书，既可以消遣，也可以学点知识。    
 
-## \*as well as
+## \#as well as
 1.*高义频：* **与...一样好：**  
 
  > I wish I could speak English as well as he can.  
@@ -2053,7 +2025,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > The teacher as well as his students is going to plant trees tomorrow.  
  > 明天不但学生们去植树，老师也去。    
 
-## \*may / might (just) as well do sth 
+## \#may / might (just) as well do sth 
 1.*高义频：* **做某事也无妨：**  
 
  > Since we haven’t gone very far, we might just as well  turn around to get the map.   
@@ -2068,7 +2040,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 答案：
 1. was invited  2. good → well  
 
-# ***\*well*** adj  重难点词汇
+# ***\#well*** adj  重难点词汇
 英音 wel     美音 wel  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -2079,12 +2051,11 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ---
 ### 1.*高义频：* **健康的：**  
 
- > **feel,well**  
- > I don’t feel very well today.   
+ > I don’t **feel** very **well** today.   
  > 我今天感觉不太舒服。    
 
 
-# ***\*well*** int  重难点词汇
+# ***\#well*** int  重难点词汇
 英音 wel     美音 wel  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2096,7 +2067,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.*高义频：* **是啊；那么；嗯；哎呀**  
 
 
-# ***\*well-behaved*** adj
+# ***\#well-behaved*** adj
 英音 'welbɪh'eɪvd     
 
   
@@ -2106,7 +2077,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**很乖的；行为端正的**  
 
 
-# ***\*well-being*** n
+# ***\#well-being*** n
 英音 wel 'biːɪŋ     美音 wel 'biːɪŋ  
 
 | 词频 2 |  
@@ -2121,7 +2092,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 为了您自身的安全和动物的健康，请不要喂野生动物。  （2008 四川）  
 
 
-# ***\*well-dressed*** adj
+# ***\#well-dressed*** adj
 英音 well-dressed     美音 'wel'drest  
 
   
@@ -2131,7 +2102,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**穿着入时的；穿着考究的**  
 
 
-# ***\*well-educated*** adj
+# ***\#well-educated*** adj
 英音 'wel'edjuːkeɪtɪd     
 
   
@@ -2141,7 +2112,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**受过良好教育的**  
 
 
-# ***\*well-known*** adj
+# ***\#well-known*** adj
 英音 'wel'nəʊn     美音 'wel'noʊn  
 
 | 词频 4 |  
@@ -2153,20 +2124,17 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > a well-known writer   
  > 著名的作家    
 
- > **It is well-known that**  
- > It is well-known that paper was first made in China.  
+ > **It is well-known that** paper was first made in China.  
  > 众所周知，纸最早是在中国制造出来的。    
 
- > **well-known for**  
- > The province is well-known for coal.   
+ > The province is **well-known for** coal.   
  > 这个省以煤炭而著称。    
 
- > **well-known as**  
- > He is well-known as an artist.   
+ > He is **well-known as** an artist.   
  > 他是一个著名的艺术家。    
 
 
-# ***\*well-off*** adj
+# ***\#well-off*** adj
 英音 ˌwel'ɔf     美音 ˌwel'ɔf  
 
 | 词频 1 |  
@@ -2176,7 +2144,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.**富有的**  
 
 
-# ***\*west*** n
+# ***\#west*** n
 英音 west     美音 west  
 
 | 词频 5 |  
@@ -2188,14 +2156,13 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ### 1.*高义频：* **西；[常与the连用] 西部：**  
 
  > **the West**  
- > the West  
  > 西方国家(尤指西欧和北美)；美国西部    
 
  > The sun rises in the east and sets in the west.  
  > 太阳从东方升起，在西方落下。    
 
 
-# ***\*west*** adj
+# ***\#west*** adj
 英音 west     美音 west  
 
 | 词频 5 |  
@@ -2211,7 +2178,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 一阵西风    
 
 
-# ***\*west*** adv
+# ***\#west*** adv
 英音 west     美音 west  
 
 | 词频 5 |  
@@ -2224,7 +2191,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 他面朝西坐着，看着太阳落山。    
 
 
-# ***\*western*** adj
+# ***\#western*** adj
 英音 'westən     美音 'westərn  
 
 | 词频 4 | 口语 2 |  
@@ -2246,7 +2213,7 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 ---
 westerner /'westənə(r)/ n [C]   
 
-# ***\*westward*** adj & adv
+# ***\#westward*** adj & adv
 英音 'westwəd     美音 'westwəd  
 
 | 词频 1 |  
@@ -2262,7 +2229,7 @@ westerner /'westənə(r)/ n [C]
  > 飞机向西起飞。    
 
 
-# ***\*westwards*** adj & adv
+# ***\#westwards*** adj & adv
 英音 'westwədz     美音 'westwərdz  
 
 | 词频 1 |  
@@ -2278,7 +2245,7 @@ westerner /'westənə(r)/ n [C]
  > 飞机向西起飞。    
 
 
-# ***\*wet*** adj
+# ***\#wet*** adj
 英音 wet     美音 wet  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -2290,12 +2257,11 @@ westerner /'westənə(r)/ n [C]
  > The floor is awfully wet.  
  > 地板非常潮湿。  （2009 上海）  
 
- > **wet weather**  
- > Generally speaking, I do not like wet weather.  
+ > Generally speaking, I do not like **wet weather**.  
  > 总的来说，我不喜欢下雨天。    
 
 
-# ***\*whale*** n
+# ***\#whale*** n
 英音 weɪl     美音 weɪl  
 
 | 词频 3 |  
@@ -2307,7 +2273,7 @@ westerner /'westənə(r)/ n [C]
 ### 1.*高义频：* **鲸**  
 
 
-# ***\*wharf*** n
+# ***\#wharf*** n
 英音 wɔːf     美音 wɔːrf  
 
 | 词频 1 |  
@@ -2319,7 +2285,7 @@ westerner /'westənə(r)/ n [C]
 ### 1.*高义频：* **(pl wharves) 码头**  
 
 
-# ***\*what*** pron
+# ***\#what*** pron
 英音 wɒt     美音 wɑːt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2354,13 +2320,13 @@ westerner /'westənə(r)/ n [C]
 
 固定搭配
 ---
-## \*(and) what is more
+## \#(and) what is more
 1.**还有；而且：**  
 
  > Natural gas is a very efficient fuel. And what’s more, it is clean.   
  > 天然气是一种很高效的燃料，而且是清洁的。    
 
-## \*what (…) for 
+## \#what (…) for 
 1.**为什么：**  
 
  > His mother told him to put on his hat. “What for?” he asked.   
@@ -2369,7 +2335,7 @@ westerner /'westənə(r)/ n [C]
  > What did you do that for?   
  > 你为什么要那么做呢？    
 
-## \*what if 
+## \#what if 
 1.**如果…会怎样：**  
 
  > What if the train is late?   
@@ -2388,7 +2354,7 @@ westerner /'westənə(r)/ n [C]
 答案：
 1. how → what 或during前加it  2. what  3. what  4. what  5. What  6. What  
 
-# ***\*what*** adj
+# ***\#what*** adj
 英音 wɒt     美音 wɑːt  
 
 | 词频 5 |  
@@ -2406,7 +2372,7 @@ westerner /'westənə(r)/ n [C]
  > 多么好的一个居住地啊！  （2008 全国）  
 
 
-# ***\*whatever*** pron
+# ***\#whatever*** pron
 英音 wɒt'evə(r)     美音 wət'evər  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -2440,7 +2406,7 @@ westerner /'westənə(r)/ n [C]
 
 固定搭配
 ---
-## \*or whatever 
+## \#or whatever 
 1.**或诸如此类的东西：**  
 
  > I can share with her our traveling experiences, taking care of pets, or whatever we have in common.   
@@ -2474,7 +2440,7 @@ D.Whatever the weather is like
 答案：
 1. A  2. C  3. A  4. D  
 
-# ***\*whatever*** adj
+# ***\#whatever*** adj
 英音 wɒt'evə(r)     美音 wət'evər  
 
 | 词频 4 |  
@@ -2490,7 +2456,7 @@ D.Whatever the weather is like
  > 不管你有什么字典，借给我。    
 
 
-# ***\*whatever*** adv
+# ***\#whatever*** adv
 英音 wɒt'evə(r)     美音 wət'evər  
 
 | 词频 4 |  
@@ -2503,7 +2469,7 @@ D.Whatever the weather is like
  > 我们告诉他，不管发生什么事我们都会支持他。    
 
 
-# ***\*wheat*** n
+# ***\#wheat*** n
 英音 wiːt     美音 wiːt  
 
 | 词频 2 |  
@@ -2515,7 +2481,7 @@ D.Whatever the weather is like
 ### 1.*高义频：* **小麦**  
 
 
-# ***\*wheel*** n
+# ***\#wheel*** n
 英音 wiːl     美音 wiːl  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -2527,7 +2493,7 @@ D.Whatever the weather is like
 ### 1.*高义频：* **车轮；方向盘**  
 
 
-# ***\*wheelchair*** n
+# ***\#wheelchair*** n
 英音 'wiːltʃeə(r)     美音 'wiːltʃer  
 
 | 词频 4 |  
@@ -2539,7 +2505,7 @@ D.Whatever the weather is like
 ### 1.*高义频：* **轮椅**  
 
 
-# ***\*when*** adv
+# ***\#when*** adv
 英音 wen     美音 wen  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2561,8 +2527,7 @@ D.Whatever the weather is like
 
 ### 3.*高义频：* **[关系副词，引导定语从句] 在那时：**  
 
- > **the moment when**  
- > This was the moment when I made my decision.  
+ > This was **the moment when** I made my decision.  
  > 这是我作出决定的时刻。    
 
  > The last time I went to Scotland was in May, when the weather was beautiful.   
@@ -2577,7 +2542,7 @@ D.Whatever the weather is like
 答案：
 1. when  2. when  
 
-# ***\*when*** conj
+# ***\#when*** conj
 英音 wen     美音 wen  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2628,7 +2593,7 @@ Notes: 此时主句的时态通常是过去完成时、过去进 行时或含有
 答案：
 1. when  2. when  
 
-# ***\*when*** pron
+# ***\#when*** pron
 英音 wen     美音 wen  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2653,7 +2618,7 @@ Notes: 此时主句的时态通常是过去完成时、过去进 行时或含有
 答案：
 1. when  
 
-# ***\*whenever*** conj
+# ***\#whenever*** conj
 英音 wen'evə(r)     美音 wen'evər  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -2667,8 +2632,7 @@ Notes: 此时主句的时态通常是过去完成时、过去进 行时或含有
 
 ### 2.*高义频：* **无论何时：**  
 
- > **whenever possible**  
- > We try to help whenever possible.  
+ > We try to help **whenever possible**.  
  > 只要有可能我们都会尽量帮忙。    
 
  > When I was a child, I could watch TV whenever I wanted to.  
@@ -2691,7 +2655,7 @@ D.however
 答案：
 1. B  2. A  
 
-# ***\*whenever*** adv
+# ***\#whenever*** adv
 英音 wen'evə(r)     美音 wen'evər  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -2706,7 +2670,7 @@ D.however
  > 我究竟什么时候许过这样的诺言？    
 
 
-# ***\*where*** adv
+# ***\#where*** adv
 英音 weə(r)     美音 wer  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2759,7 +2723,7 @@ Notes: 先行词为表示抽象地点概念的名词case, situation, position, s
 答案：
 1. that → where  2. Where  3. where  4. where  5. where  
 
-# ***\*where*** conj
+# ***\#where*** conj
 英音 weə(r)     美音 wer  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2785,7 +2749,7 @@ Notes: 先行词为表示抽象地点概念的名词case, situation, position, s
  > 有志者，事竟成。    
 
 
-# ***\*where*** pron
+# ***\#where*** pron
 英音 weə(r)     美音 wer  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2803,7 +2767,7 @@ Notes: 先行词为表示抽象地点概念的名词case, situation, position, s
  > 去哪里？    
 
 
-# ***\*whereabouts*** adv
+# ***\#whereabouts*** adv
 英音 'weərəbaʊts     美音 'werəbaʊts  
 
 | 词频 1 |  
@@ -2813,7 +2777,7 @@ Notes: 先行词为表示抽象地点概念的名词case, situation, position, s
 ### 1.**在哪里**  
 
 
-# ***\*whereas*** conj
+# ***\#whereas*** conj
 英音 ˌweər'æz     美音 ˌwer'æz  
 
 | 词频 2 | 口语 2 | 书面 2 | 阅读 2 |  
@@ -2828,7 +2792,7 @@ Notes: 先行词为表示抽象地点概念的名词case, situation, position, s
  > 他肯定六十岁左右，而他妻子看起来只有大约三十岁。    
 
 
-# ***\*wherever*** conj
+# ***\#wherever*** conj
 英音 weər'evə(r)     美音 wer'evər  
 
 | 词频 3 |  
@@ -2857,7 +2821,7 @@ D.whichever
 答案：
 1. C  
 
-# ***\*wherever*** adv
+# ***\#wherever*** adv
 英音 weər'evə(r)     美音 wer'evər  
 
 | 词频 3 |  
@@ -2872,7 +2836,7 @@ D.whichever
  > 你到底在哪里发现那件漂亮的毛衣的？    
 
 
-# ***\*whether*** conj
+# ***\#whether*** conj
 英音 'weðə(r)     美音 'weðər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2883,15 +2847,13 @@ D.whichever
 
 - 引导名词性从句：
 
- > **whether,or,not**  
- > I don’t know whether you like flowers ( or not ).   
+ > I don’t know **whether** you like flowers ( **or** **not** ).   
  > 我不知道你是不是喜欢花。    
 
  > I worry about whether I hurt her feelings.   
  > 我担心自己是不是伤害了她的感情。    
 
- > **Whether,or**  
- > Whether it will do us harm or good remains to be seen.  
+ > **Whether** it will do us harm **or** good remains to be seen.  
  > 究竟此事对我们有害还是有利，还有待验证。    
 
  > His first question was whether Holmes had arrived yet.   
@@ -2902,21 +2864,18 @@ D.whichever
 
 - [在not sure / certain, doubtful 等后] 引导从句：
 
- > **whether,or**  
- > He wasn’t sure whether he ought to laugh or cry.  
+ > He wasn’t sure **whether** he ought to laugh **or** cry.  
  > 他哭笑不得。    
 
 - 接不定式：
 
- > **whether,or**  
- > I don’t know whether to accept or refuse.   
+ > I don’t know **whether** to accept **or** refuse.   
  > 我不知道应该接受还是拒绝。    
 
 Notes: whether 的以上用法中，只有引导宾语从句时可以与if 互换，但引导的宾语从句作介词宾语或与 or not 连用时，一般用 whether。  
 ### 2.*高义频：* **[引导让步状语从句] 不管... (还是)：**  
 
- > **whether,or**  
- > Quality input ensures quality output, whether it is speaking or writing.   
+ > Quality input ensures quality output, **whether** it is speaking **or** writing.   
  > 不管是说还是写，高质量的输入才能确保高质量的输出。  （北师大⑦ – 19）  
 
 
@@ -2929,7 +2888,7 @@ Notes: whether 的以上用法中，只有引导宾语从句时可以与if 互�
 答案：
 1. whether / if  2. whether  3. whether  
 
-# ***\*which*** pron
+# ***\#which*** pron
 英音 wɪtʃ     美音 wɪtʃ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2971,6 +2930,11 @@ Notes: whether 的以上用法中，只有引导宾语从句时可以与if 互�
 
 #### 辨析 as, which
 二者都可引导非限制性定语从句，指代主句的全部或部分，作从句中的主语或宾语，其用法、意义区别如下：  
+**1. as** 引导的定语从句可置于主句前，而which引导的不可以。
+**2. as** 引导定语从句时，常有“正如”之意，而which没有。
+ > The size of the audience, as we had expected, was well over one thousand.  
+ > 正如我们所料，观众的人数远远超过了1000。    
+
 
 
 真题解析
@@ -2987,7 +2951,7 @@ D.which
 答案：
 1. which  2. which  3. in  4. D  
 
-# ***\*which*** adj
+# ***\#which*** adj
 英音 wɪtʃ     美音 wɪtʃ  
 
 | 词频 5 |  
@@ -3003,7 +2967,7 @@ D.which
  > 你去的是哪所大学，牛津还是剑桥?    
 
 
-# ***\*whichever*** pron
+# ***\#whichever*** pron
 英音 wɪtʃ'evə(r)     美音 wɪtʃ'evər  
 
 | 词频 3 |  
@@ -3040,7 +3004,7 @@ D.wherever
 答案：
 1. B  
 
-# ***\*whichever*** adj
+# ***\#whichever*** adj
 英音 wɪtʃ'evə(r)     美音 wɪtʃ'evər  
 
 | 词频 3 |  
@@ -3069,7 +3033,7 @@ D.Wherever
 答案：
 1. C  
 
-# ***\*while*** conj
+# ***\#while*** conj
 英音 waɪl     美音 waɪl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3118,7 +3082,7 @@ D.while
 答案：
 1. a  2. While / Although / Though  3. D  4. while  
 
-# ***\*while*** n
+# ***\#while*** n
 英音 waɪl     美音 waɪl  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -3130,19 +3094,16 @@ D.while
 ### 1.*高义频：* **一段时间；一会儿：**  
 
  > **once in a while**  
- > once in a while  
  > 偶尔；间或    
 
- > **for a while**  
- > Would you like to come in and rest for a while?  
+ > Would you like to come in and rest **for a while**?  
  > 你要不要进来休息一会儿？  （译林③ – 1）  
 
- > **take a short while**  
- > The file may take a short while to download.  
+ > The file may **take a short while** to download.  
  > 下载这个文件可能需要点儿时间。    
 
 
-# ***\*whilst*** conj
+# ***\#whilst*** conj
 英音 waɪlst     美音 waɪlst  
 
 | 词频 1 |  
@@ -3152,7 +3113,7 @@ D.while
 ### 1.**=while**  
 
 
-# ***\*whip*** n
+# ***\#whip*** n
 英音 wɪp     美音 wɪp  
 
 | 词频 1 |  
@@ -3164,7 +3125,7 @@ D.while
 ### 1.*高义频：* **鞭子**  
 
 
-# ***\*whip*** vt
+# ***\#whip*** vt
 英音 wɪp     美音 wɪp  
 
 | 词频 1 |  
@@ -3177,7 +3138,7 @@ D.while
  > 策马前行    
 
 
-# ***\*whirlpool*** n
+# ***\#whirlpool*** n
 英音 'wɜːlpuːl     美音 'wɜːrlpuːl  
 
 | 词频 1 |  
@@ -3187,7 +3148,7 @@ D.while
 ### 1.**漩涡**  
 
 
-# ***\*whisker*** n
+# ***\#whisker*** n
 英音 'wɪskə(r)     美音 'wɪskər  
 
 | 词频 1 |  
@@ -3197,7 +3158,7 @@ D.while
 ### 1.**（猫的）胡须；触须**  
 
 
-# ***\*whisper*** v
+# ***\#whisper*** v
 英音 'wɪspə(r)     美音 'wɪspər  
 
 | 词频 3 | 书面 1 |  
@@ -3206,8 +3167,7 @@ D.while
 ---
 ### 1.*高义频：* **低声讲：**  
 
- > **whisper,to**  
- > James leaned over to whisper something to Michael.  
+ > James leaned over **to** **whisper** something to Michael.  
  > 詹姆斯俯身跟迈克尔低声说了点什么。    
 
  > You’ll have to whisper or he’ll hear you.   
@@ -3222,7 +3182,7 @@ D.while
 答案：
 1. whispering  2. to   
 
-# ***\*whisper*** n
+# ***\#whisper*** n
 英音 'wɪspə(r)     美音 'wɪspər  
 
 | 词频 3 |  
@@ -3233,12 +3193,11 @@ D.while
 ---
 ### 1.*高义频：* **低语；私语；耳语：**  
 
- > **in a whisper**  
- > speak in a whisper   
+ > speak **in a whisper**   
  > 低声说话    
 
 
-# ***\*whistle*** n
+# ***\#whistle*** n
 英音 'wɪsl     美音 'wɪsl  
 
 | 词频 3 |  
@@ -3249,16 +3208,14 @@ D.while
 ---
 ### 1.*高义频：* **哨子；口哨：**  
 
- > **give a,whistle**  
- > give a loud / low whistle  
+ > **give a** loud / low **whistle**  
  > 响亮地/轻轻地吹了声口哨    
 
- > **blew,whistle**  
- > The lifeguard blew his whistle.  
+ > The lifeguard **blew** his **whistle**.  
  > 救生员吹响了哨子。    
 
 
-# ***\*whistle*** vi
+# ***\#whistle*** vi
 英音 'wɪsl     美音 'wɪsl  
 
 | 词频 3 |  
@@ -3274,7 +3231,7 @@ D.while
  > 当你高兴的时候，很可能会唱歌或吹口哨。    
 
 
-# ***\*white*** adj
+# ***\#white*** adj
 英音 waɪt     美音 waɪt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3287,7 +3244,7 @@ D.while
  > 他吓得脸色苍白。    
 
 
-# ***\*white*** n
+# ***\#white*** n
 英音 waɪt     美音 waɪt  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -3297,7 +3254,7 @@ D.while
 ### 1.*高义频：* **[U] 白色；[C] 白种人**  
 
 
-# ***\*who*** pron
+# ***\#who*** pron
 英音 huː     美音 huː  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3345,7 +3302,7 @@ Notes: who还可用于强调句型 it is / was ... who ...，此时被强调部�
 答案：
 1. who  2. who  3. who / whom  
 
-# ***\*whoever*** pron
+# ***\#whoever*** pron
 英音 huː'evə(r)     美音 huː'evər  
 
 | 词频 3 | 口语 2 |  
@@ -3392,7 +3349,7 @@ D.whoever
 答案：
 1. C  2. A  3. D  
 
-# ***\*whole*** adj
+# ***\#whole*** adj
 英音 həʊl     美音 hoʊl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3413,7 +3370,7 @@ D.whoever
  > 整个蛋糕    
 
 
-# ***\*whole*** n
+# ***\#whole*** n
 英音 həʊl     美音 hoʊl  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -3422,8 +3379,7 @@ D.whoever
 ---
 ### 1.*高义频：* **[用the whole] 全部；全体；[常用a whole] 统一体：**  
 
- > **the whole of**  
- > Some of his ideas are interesting, but the whole of it is ridiculous.   
+ > Some of his ideas are interesting, but **the whole of** it is ridiculous.   
  > 他的一部分想法很有趣，但整体来看很荒谬。    
 
  > Nature is a whole.  
@@ -3432,20 +3388,20 @@ D.whoever
 
 固定搭配
 ---
-## \*as a whole 
+## \#as a whole 
 1.**总体上：**  
 
  > We must consider these matters as a whole.  
  > 我们必须全盘考虑这些事。    
 
-## \*on the whole 
+## \#on the whole 
 1.**总的看来；总体而言：**  
 
  > On the whole the warming of the earth is a phenomenon that causes great concern.  
  > 总的说来，地球变暖是一个引起极大关注的现象。  （人教⑥ – 4）  
 
 
-# ***\*whom*** pron
+# ***\#whom*** pron
 英音 huːm     美音 huːm  
 
 | 词频 4 | 口语 1 | 书面 3 |  
@@ -3495,7 +3451,7 @@ D.whoever
 答案：
 1. whom  2. whom  3. of  4. whom  
 
-# ***\*whose*** pron
+# ***\#whose*** pron
 英音 huːz     美音 huːz  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -3538,7 +3494,7 @@ D.whoever
 答案：
 1. whose  2. whose  3. whose  
 
-# ***\*why*** adv
+# ***\#why*** adv
 英音 waɪ     美音 waɪ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3569,7 +3525,7 @@ D.whoever
 
 固定搭配
 ---
-## \*why not
+## \#why not
 1.*高义频：* **为什么不：**  
 
  > Why not buy a book or some pencils?  
@@ -3583,7 +3539,7 @@ D.whoever
  > — Why not?   
  > 好啊！    
 
-## \*Why sb?
+## \#Why sb?
 1.**为什么是某人？**  
 
 
@@ -3604,7 +3560,7 @@ D.which
 答案：
 1. Why not  2. Why me  3. B  4. why  
 
-# ***\*why*** int
+# ***\#why*** int
 英音 waɪ     美音 waɪ  
 
 | 词频 5 |  
@@ -3617,7 +3573,7 @@ D.which
  > 哎呀，看看这是谁！    
 
 
-# ***\*wicked*** adj
+# ***\#wicked*** adj
 英音 'wɪkɪd     美音 'wɪkɪd  
 
 | 词频 1 |  
@@ -3627,7 +3583,7 @@ D.which
 ### 1.**邪恶的**  
 
 
-# ***\*wide*** adj
+# ***\#wide*** adj
 英音 waɪd     美音 waɪd  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -3642,11 +3598,15 @@ D.which
 
 #### 辨析 broad, wide
 两者都有“宽的”之意。　  
+**broad** 带有主观意向，不可丈量。常用来形容身体部位，如肩、胸、额头、背部等。
+**wide** 着重指从一边到另一边的距离，可以丈量。 但也可修饰身体部位如口、眼。
+ > Sam has a wide mouth.  
+ > 萨姆嘴很大。    
+
 
 ### 2.*高义频：* **宽...的；宽度为...的：**  
 
- > **1 0 metres wide**  
- > The river is 1 0 metres wide.   
+ > The river is **1 0 metres wide**.   
  > 这条河10米宽。    
 
 ### 3.*低义频：* **(眼睛) 睁大的：**  
@@ -3656,15 +3616,14 @@ D.which
 
 ### 4.*高义频：* **广泛的：**  
 
- > **a wide range / variety / choice of**  
- > a wide range / variety / choice of goods   
+ > **a wide range / variety / choice of** goods   
  > 品种繁多的/各种各样的/大量可供选择的商品    
 
  > Jenny has a wide circle of friends.  
  > 珍妮交友广泛。    
 
 
-# ***\*wide*** adv
+# ***\#wide*** adv
 英音 waɪd     美音 waɪd  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -3673,26 +3632,29 @@ D.which
 ---
 ### 1.*高义频：* **充分 (张开) 地：**  
 
- > **wide open**  
- > The door was wide open.  
+ > The door was **wide open**.  
  > 门大开着。    
 
  > I don’t remember ever smiling so wide.  
  > 我不记得自己曾笑得如此开怀。    
 
- > **Open,wide**  
- > Open your mouth wide.  
+ > **Open** your mouth **wide**.  
  > 把嘴张大。    
 
 #### 辨析 wide, widely
 二者均可作副词。  
+**wide** 表示具体的意义，指空间宽度，宽度具有可测量性和可见性。
+**widely** 表示抽象的意义，意为“范围广地”。
+ > English is widely used in the world.  
+ > 英语在世界上被广泛使用。    
+
 
 
 派生词汇
 ---
 widen /'waɪdn/ v   
 
-# ***\*wide-eyed*** adj
+# ***\#wide-eyed*** adj
 英音 waɪdaɪd     美音 waɪdaɪd  
 
   
@@ -3702,7 +3664,7 @@ widen /'waɪdn/ v
 ### 1.**睁大眼睛的；吃惊的；天真的**  
 
 
-# ***\*widely*** adv
+# ***\#widely*** adv
 英音 'waɪdli     美音 'waɪdli  
 
 | 词频 4 | 书面 2 |  
@@ -3717,12 +3679,16 @@ widen /'waɪdn/ v
  > He travels widely and enjoys adventures and challenges.  
  > 他四处旅游，喜欢冒险和挑战。    
 
- > **widely read**  
- > Her books are widely read.  
+ > Her books are **widely read**.  
  > 她的书读的人很多。    
 
 #### 辨析 wide, widely
 二者均可作副词。  
+**wide** 表示具体的意义，指空间宽度，宽度具有可测量性和可见性。
+**widely** 表示抽象的意义，意为“范围广地”。
+ > English is widely used in the world.  
+ > 英语在世界上被广泛使用。    
+
 
 ### 2.*高义频：* **大大地；非常地：**  
 
@@ -3737,7 +3703,7 @@ widen /'waɪdn/ v
 答案：
 1. widely  
 
-# ***\*widen*** v
+# ***\#widen*** v
 英音 'waɪdn     
 
   
@@ -3747,7 +3713,7 @@ widen /'waɪdn/ v
 ### 1.**加宽；使变宽；扩大**  
 
 
-# ***\*widespread*** adj
+# ***\#widespread*** adj
 英音 'waɪdspred     美音 'waɪdspred  
 
 | 词频 2 | 书面 1 | 阅读 2 |  
@@ -3762,12 +3728,11 @@ widen /'waɪdn/ v
  > The consequence of a rising sea level would be widespread flooding.   
  > 海平面上升将会导致大面积的洪涝灾害。  （人教⑥ – 4）  
 
- > **widespread use**  
- > The high cost prohibits the widespread use of the drug.   
+ > The high cost prohibits the **widespread use** of the drug.   
  > 这种药品因价格昂贵而不能广泛使用。    
 
 
-# ***\*widow*** n
+# ***\#widow*** n
 英音 'wɪdəʊ     美音 'wɪdoʊ  
 
 | 词频 1 |  
@@ -3779,7 +3744,7 @@ widen /'waɪdn/ v
 ### 1.*高义频：* **寡妇**  
 
 
-# ***\*width*** n
+# ***\#width*** n
 英音 wɪdθ     美音 wɪdθ  
 
 | 词频 1 |  
@@ -3790,8 +3755,7 @@ widen /'waɪdn/ v
 ---
 ### 1.*高义频：* **宽度；幅度：**  
 
- > **width of,in width**  
- > a width of four feet / four feet in width  
+ > a **width of** four feet / four feet **in width**  
  > 4英尺宽    
 
  > a road of great width   
@@ -3801,7 +3765,7 @@ widen /'waɪdn/ v
  > 泰晤士河在伦敦地区的宽度是多少?    
 
 
-# ***\*wife*** n
+# ***\#wife*** n
 英音 waɪf     美音 waɪf  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3813,7 +3777,7 @@ widen /'waɪdn/ v
 ### 1.*高义频：* **妻子**  
 
 
-# ***\*wild*** adj
+# ***\#wild*** adj
 英音 waɪld     美音 waɪld  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -3822,8 +3786,7 @@ widen /'waɪdn/ v
 ---
 ### 1.*高义频：* **野 (生) 的：**  
 
- > **wild animals / flowers**  
- > wild animals / flowers   
+ > **wild animals / flowers**   
  > 野生动物/野花    
 
 ### 2.*高义频：* **荒芜的；荒凉的：**  
@@ -3841,8 +3804,7 @@ widen /'waɪdn/ v
 
 ### 4.*高义频：* **狂热的；疯狂的：**  
 
- > **go wild**  
- > His rock music makes the audience go wild.   
+ > His rock music makes the audience **go wild**.   
  > 他的摇滚乐使听众疯狂。    
 
 
@@ -3850,7 +3812,7 @@ widen /'waɪdn/ v
 ---
 wildly /'waɪldli/ adv   
 
-# ***\*wild*** n
+# ***\#wild*** n
 英音 waɪld     美音 waɪld  
 
 | 词频 4 |  
@@ -3861,12 +3823,11 @@ wildly /'waɪldli/ adv
 ---
 ### 1.*高义频：* **荒地：**  
 
- > **in the wild**  
- > He went to Africa to see lions, giraffes, and elephants in the wild.   
+ > He went to Africa to see lions, giraffes, and elephants **in the wild**.   
  > 他到非洲去看野外的狮子、长颈鹿和大象。    
 
 
-# ***\*wildlife*** n
+# ***\#wildlife*** n
 英音 'waɪldlaɪf     美音 'waɪldlaɪf  
 
 | 词频 4 |  
@@ -3878,7 +3839,7 @@ wildly /'waɪldli/ adv
 ### 1.*高义频：* **野生生物**  
 
 
-# ***\*will*** n
+# ***\#will*** n
 英音 wɪl     美音 wɪl  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -3887,37 +3848,34 @@ wildly /'waɪldli/ adv
 ---
 ### 1.*高义频：* **[C] & [U] 意志；决心：**  
 
- > **a strong will**  
- > have a strong will   
+ > have **a strong will**   
  > 有坚强的意志    
 
  > **an iron will / a will of iron**  
- > an iron will / a will of iron  
  > 钢铁般的意志    
 
 ### 2.*高义频：* **[C] 遗嘱：**  
 
- > **make a will**  
- > make a will   
+ > **make a will**   
  > 立遗嘱    
 
 
 固定搭配
 ---
-## \*against one’s will 
+## \#against one’s will 
 1.**不情愿地；违心地：**  
 
  > I was forced to sign the agreement against my will.  
  > 我被迫违心地在协议上签了字。    
 
-## \*at will 
+## \#at will 
 1.**随意地；随心所欲地：**  
 
  > They could travel at will, and the clock was not their master.   
  > 他们能随意旅行，不受时间支配。  （2012 江西）  
 
 
-# ***\*will*** modal v
+# ***\#will*** modal v
 英音 wɪl     美音 wɪl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3976,7 +3934,7 @@ D.do
 答案：
 1. C  2. will  3. won’t  
 
-# ***\*willing*** adj
+# ***\#willing*** adj
 英音 'wɪlɪŋ     美音 'wɪlɪŋ  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -4001,7 +3959,7 @@ D.do
  willingly  /'wɪlɪŋli/ adv   
 willingness /'wɪlɪŋnəs/ n [U]   
 
-# ***\*willow*** n
+# ***\#willow*** n
 英音 'wɪləʊ     美音 'wɪloʊ  
 
 | 词频 1 |  
@@ -4011,7 +3969,7 @@ willingness /'wɪlɪŋnəs/ n [U]
 ### 1.**柳树**  
 
 
-# ***\*win*** v
+# ***\#win*** v
 英音 wɪn     美音 wɪn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4023,25 +3981,21 @@ willingness /'wɪlɪŋnəs/ n [U]
 ### 1.*高义频：* **(在...中) 获胜；赢：**  
 反义词 lose 
 
- > **win a race / a game / an election**  
- > win a race / a game / an election   
+ > **win a race / a game / an election**   
  > 在赛跑/比赛/选举中获胜    
 
- > **won by four points**  
- > She won by four points.   
+ > She **won by four points**.   
  > 她领先4分获胜。    
 
 ### 2.*高义频：* **赢得；获得；博得：**  
 
- > **win,medal**  
- > win the gold medal   
+ > **win** the gold **medal**   
  > 获得金牌    
 
  > Winning a scholarship gave Martin the chance to go to college.   
  > 获得奖学金使马丁有机会去上大学。  （2009 湖北改）  
 
- > **wins,from**  
- > He is a good teacher and wins respect from his students.  
+ > He is a good teacher and **wins** respect **from** his students.  
  > 他是一名好老师，赢得了学生们的尊重。    
 
 
@@ -4049,7 +4003,7 @@ willingness /'wɪlɪŋnəs/ n [U]
 ---
 winning /winning/ adj [只用于名词前]  
 
-# ***\*wind*** n
+# ***\#wind*** n
 英音 wɪnd     美音 wɪnd  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -4064,7 +4018,7 @@ winning /winning/ adj [只用于名词前]
  > 大风    
 
 
-# ***\*wind*** v
+# ***\#wind*** v
 英音 waɪnd     美音 waɪnd  
 
 | 词频 2 | 口语 2 | 书面 1 |  
@@ -4088,8 +4042,7 @@ winning /winning/ adj [只用于名词前]
  > The river winds to the sea.   
  > 这条河蜿蜒流向大海。    
 
- > **winds its way along**  
- > Highway 90 winds its way along the coast.  
+ > Highway 90 **winds its way along** the coast.  
  > 90号高速公路沿着海岸线蜿蜒而去。    
 
 
@@ -4100,7 +4053,7 @@ winding  /winding/ adj
  > 蜿蜒的小路    
 
 
-# ***\*window*** n
+# ***\#window*** n
 英音 'wɪndəʊ     美音 'wɪndoʊ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4115,7 +4068,7 @@ winding  /winding/ adj
  > 小偷从窗户进来的。    
 
 
-# ***\*windsurfing*** n
+# ***\#windsurfing*** n
 英音 'wɪndsɜːfɪŋ     美音 'wɪndsɜːfɪŋ  
 
 | 词频 1 |  
@@ -4125,7 +4078,7 @@ winding  /winding/ adj
 ### 1.**风帆滑浪**  
 
 
-# ***\*windy*** adj
+# ***\#windy*** adj
 英音 'wɪndi     美音 'wɪndi  
 
 | 词频 2 | 口语 1 |  
@@ -4135,7 +4088,7 @@ winding  /winding/ adj
 ### 1.*高义频：* **有风的；风大的**  
 
 
-# ***\*wine*** n
+# ***\#wine*** n
 英音 waɪn     美音 waɪn  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -4147,7 +4100,7 @@ winding  /winding/ adj
 ### 1.*高义频：* **葡萄酒；酒**  
 
 
-# ***\*wing*** n
+# ***\#wing*** n
 英音 wɪŋ     美音 wɪŋ  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -4159,7 +4112,7 @@ winding  /winding/ adj
 ### 1.*高义频：* **翅膀；机翼**  
 
 
-# ***\*winner*** n
+# ***\#winner*** n
 英音 'wɪnə(r)     美音 'wɪnər  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -4171,7 +4124,7 @@ winding  /winding/ adj
 ### 1.*高义频：* **获胜者；成功者**  
 
 
-# ***\*winning*** adj
+# ***\#winning*** adj
 英音 'wɪnɪŋ     美音 'wɪnɪŋ  
 
 | 词频 4 |  
@@ -4181,7 +4134,7 @@ winding  /winding/ adj
 ### 1.**制胜的，获胜的**  
 
 
-# ***\*winter*** n
+# ***\#winter*** n
 英音 'wɪntə(r)     美音 'wɪntər  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -4192,12 +4145,11 @@ winding  /winding/ adj
 ---
 ### 1.*高义频：* **冬；冬季：**  
 
- > **in ( the ) winter**  
- > in ( the ) winter   
+ > **in ( the ) winter**   
  > 在冬季    
 
 
-# ***\*wipe*** vt
+# ***\#wipe*** vt
 英音 waɪp     美音 waɪp  
 
 | 词频 2 | 口语 1 |  
@@ -4206,8 +4158,7 @@ winding  /winding/ adj
 ---
 ### 1.*低义频：* **擦；抹：**  
 
- > **wipe,with**  
- > wipe the table with a damp cloth   
+ > **wipe** the table **with** a damp cloth   
  > 用一块湿布擦桌子    
 
  > wipe glasses dry   
@@ -4220,27 +4171,25 @@ winding  /winding/ adj
 
 ### 2.*高义频：* **擦掉 (液体、污垢等)：**  
 
- > **wiped away**  
- > They wiped away the girls’ tears.   
+ > They **wiped away** the girls’ tears.   
  > 他们擦掉女孩子们的眼泪。    
 
 ### 3.*低义频：* **去除；使消失：**  
 
- > **wipe,off**  
- > Don’t wipe the scales off the fish.   
+ > Don’t **wipe** the scales **off** the fish.   
  > 不要把鱼鳞剔除。    
 
 
 固定搭配
 ---
-## \*wipe out 
+## \#wipe out 
 1.**去除；消灭；摧毁：**  
 
  > A volcanic eruption nearly wiped out the small island of Montserrat in 1997.   
  > 1997年的一次火山喷发差点把蒙塞拉特这个小岛给毁灭了。  （北师大⑧ – 22）  
 
 
-# ***\*wire*** n
+# ***\#wire*** n
 英音 'waɪə(r)     美音 'waɪər  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -4252,7 +4201,7 @@ winding  /winding/ adj
 ### 1.*高义频：* **金属丝 / 线；电线；电话线**  
 
 
-# ***\*wireless*** adj
+# ***\#wireless*** adj
 英音 'waɪələs     美音 'waɪərləs  
 
 | 词频 2 |  
@@ -4262,7 +4211,7 @@ winding  /winding/ adj
 ### 1.*高义频：* **无线的**  
 
 
-# ***\*wisdom*** n
+# ***\#wisdom*** n
 英音 'wɪzdəm     美音 'wɪzdəm  
 
 | 词频 3 |  
@@ -4280,7 +4229,7 @@ winding  /winding/ adj
  > 他的智慧和美德激励着我们，使我们的行为更加高尚。  （人教⑨ – 1）  
 
 
-# ***\*wise*** adj
+# ***\#wise*** adj
 英音 'waɪz     美音 'waɪz  
 
 | 词频 3 | 口语 1 |  
@@ -4297,16 +4246,14 @@ winding  /winding/ adj
 
 ### 2.*高义频：* **(行为、决定等) 高明的；明智的 (sensible)：**  
 
- > **a wise move**  
- > a wise move / choice / decision  
+ > **a wise move** / choice / decision  
  > 明智之举/明智的选择/明智的决定    
 
- > **It is wise to**  
- > It is wise to have some money put away for old age.  
+ > **It is wise to** have some money put away for old age.  
  > 存钱养老是明智之举。    
 
 
-# ***\*wisely*** adv
+# ***\#wisely*** adv
 英音 waɪzli     美音 waɪzli  
 
 | 词频 2 |  
@@ -4316,7 +4263,7 @@ winding  /winding/ adj
 ### 1.*高义频：* **明智地；精明地**  
 
 
-# ***\*wish*** v
+# ***\#wish*** v
 英音 wɪʃ     美音 wɪʃ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4339,8 +4286,7 @@ winding  /winding/ adj
 
 ### 2.*高义频：* **想；希望：**  
 
- > **if you wish**  
- > You may leave now, if you wish.   
+ > You may leave now, **if you wish**.   
  > 如果你想走，现在就可以走了。    
 
 - wish to do sth:
@@ -4360,8 +4306,7 @@ winding  /winding/ adj
 
 ### 3.*高义频：* **祝愿：**  
 
- > **wished,well**  
- > Finally, I rose to leave, wished him well, and headed for the exit.   
+ > Finally, I rose to leave, **wished** him **well**, and headed for the exit.   
  > 最后，我站起身来，说了一些祝福他的话，然后向出口走去。  （2010 重庆）  
 
  > I wish you every success.   
@@ -4376,7 +4321,7 @@ winding  /winding/ adj
 答案：
 1. danced  2. had been  
 
-# ***\*wish*** n
+# ***\#wish*** n
 英音 wɪʃ     美音 wɪʃ  
 
 | 词频 5 | 口语 1 |  
@@ -4387,19 +4332,26 @@ winding  /winding/ adj
 ---
 ### 1.*高义频：* **愿望；希望； [常用复数] 祝愿：**  
 
- > **go against,wishes**  
- > Jason was determined not to go against his father’s wishes.   
+ > Jason was determined not to **go against** his father’s **wishes**.   
  > 贾森决定不违背父亲的意愿。  （2012 江西改）  
 
- > **best wishes**  
- > Mary sends you best wishes for a Happy New Year.  
+ > Mary sends you **best wishes** for a Happy New Year.  
  > 玛丽衷心祝愿你新年快乐。    
 
 #### 辨析 desire, wish, want
 三者都含有“想”、“希望”之意。  
+**desire** 较正式，可代替 wish 和 want，强调主观愿望的热切、渴盼，有“渴盼”的意思。
+**wish** 语气比 desire 弱，一般用于难以实现或不可能实现的愿望，强调主观愿望，有“希望、愿、想”之意。
+**want** 多用于口语和普通场合，有“想、要、需要”之意。
+ > She wants me to go with her.   
+ > 她想让我跟她一起去。    
+
+ > All I want is the truth.   
+ > 我只想知道实情。    
 
 
-# ***\*witch*** n
+
+# ***\#witch*** n
 英音 wɪtʃ     美音 wɪtʃ  
 
 | 词频 1 |  
@@ -4409,7 +4361,7 @@ winding  /winding/ adj
 ### 1.**女巫，巫婆**  
 
 
-# ***\*with*** prep
+# ***\#with*** prep
 英音 wɪð, wɪθ     美音 wɪθ, wɪð  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4508,7 +4460,7 @@ D.from
 答案：
 1. with  2. with  3. C  4. with  
 
-# ***\*withdraw*** v
+# ***\#withdraw*** v
 英音 wɪð'drɔː, wɪθ'drɔː     美音 wɪθ'drɔː, wɪð'drɔː  
 
 | 词频 3 | 口语 3 | 书面 2 | 阅读 1 |  
@@ -4519,8 +4471,7 @@ D.from
 ---
 ### 1.*高义频：* **提取 (存款等)：**  
 
- > **withdraw,from**  
- > I wanted to withdraw $40 from our bank account.   
+ > I wanted to **withdraw** $40 **from** our bank account.   
  > 我想从我们的银行账户里取40美元。  （北师大⑥ – 17）  
 
 ### 2.*高义频：* **收回 (发言、意见等)；退出：**  
@@ -4528,12 +4479,11 @@ D.from
  > The minister withdrew his statement later.  
  > 后来部长收回了自己的言论。    
 
- > **withdraw from**  
- > I made the choice to withdraw from college to care for her.  
+ > I made the choice to **withdraw from** college to care for her.  
  > 我选择了退学来照顾她。  （ 2011 天津）  
 
 
-# ***\*withdrawal*** n
+# ***\#withdrawal*** n
 英音 wɪð'drɔːəl     美音 wɪð'drɔːəl  
 
 | 词频 1 |  
@@ -4545,7 +4495,7 @@ D.from
 ### 1.*高义频：* **收回；撤退；戒毒 (或脱瘾) 过程**  
 
 
-# ***\*within*** prep
+# ***\#within*** prep
 英音 wɪ'ðɪn     美音 wɪ'ðɪn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4557,8 +4507,7 @@ D.from
  > We normally respond to article submissions within six weeks.   
  > 我们通常在6周内对提交的文章作出回应。    
 
- > **within,reach**  
- > Put the tools within your reach.  
+ > Put the tools **within** your **reach**.  
  > 把工具放在你能够得着的地方。    
 
  > Should they keep their conclusion within the team or share it with other employees?   
@@ -4575,7 +4524,7 @@ D.around
 答案：
 1. within   
 
-# ***\*without*** prep
+# ***\#without*** prep
 英音 wɪ'ðaʊt     美音 wɪ'ðaʊt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4607,7 +4556,7 @@ D.By
 答案：
 1. D  2. B  
 
-# ***\*witness*** n
+# ***\#witness*** n
 英音 'wɪtnəs     美音 'wɪtnəs  
 
 | 词频 2 | 口语 2 | 书面 1 |  
@@ -4616,18 +4565,17 @@ D.By
 ---
 ### 1.*高义频：* **目击者；证人；见证人：**  
 
- > **witness to**  
- > We have a witness to the killing.   
+ > We have a **witness to** the killing.   
  > 我们有一位这起杀人案的目击者。    
 
 
 固定搭配
 ---
-## \*be (a) witness to
+## \#be (a) witness to
 1.**是…的目击者；是…的见证人**  
 
 
-# ***\*witness*** vt
+# ***\#witness*** vt
 英音 'wɪtnəs     美音 'wɪtnəs  
 
 | 词频 2 |  
@@ -4643,7 +4591,7 @@ D.By
  > 1849年那个国家发生了一场大战。    
 
 
-# ***\*wizard*** n
+# ***\#wizard*** n
 英音 'wɪzərd     美音 'wɪzəd  
 
 | 词频 1 |  
@@ -4655,7 +4603,7 @@ D.By
 ### 1.*高义频：* **巫师；能手；奇才**  
 
 
-# ***\*wolf*** n
+# ***\#wolf*** n
 英音 wʊlf     美音 wʊlf  
 
 | 词频 4 |  
@@ -4667,7 +4615,7 @@ D.By
 ### 1.*高义频：* **狼**  
 
 
-# ***\*woman*** n
+# ***\#woman*** n
 英音 'wʊmən     美音 'wʊmən  
 
 | 词频 5 | 书面 3 |  
@@ -4679,7 +4627,7 @@ D.By
 ### 1.*高义频：* **妇女；女人**  
 
 
-# ***\*wonder*** v  重难点词汇
+# ***\#wonder*** v  重难点词汇
 英音 'wʌndə(r)     美音 'wʌndər  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -4688,12 +4636,10 @@ D.By
 ---
 ### 1.*低义频：* **(对...) 感到惊讶 / 诧异：**  
 
- > **wonder at**  
- > I wonder at his beautiful singing.   
+ > I **wonder at** his beautiful singing.   
  > 他优美的歌声让我感到很惊讶。    
 
- > **wondered about**  
- > He wondered about her response, and just to clarify, he asked her another question.   
+ > He **wondered about** her response, and just to clarify, he asked her another question.   
  > 他对她的回答感到很好奇，为了弄清楚，他又问了她一个问题。  （北师⑥ – 17）  
 
  > I wonder that I was able to survive the terrible accident.   
@@ -4709,7 +4655,7 @@ D.By
 
 固定搭配
 ---
-## \*I wonder if / whether
+## \#I wonder if / whether
 1.**[礼貌的请求] (我) 不知是否 (I was wondering if / whether)：**  
 
  > I wonder if you can help me.  
@@ -4719,7 +4665,7 @@ D.By
  > 不知道我们是否能一起吃午饭。  （2013 北京）  
 
 
-# ***\*wonder*** n  重难点词汇
+# ***\#wonder*** n  重难点词汇
 英音 'wʌndə(r)     美音 'wʌndər  
 
 | 词频 5 |  
@@ -4739,8 +4685,7 @@ D.By
  > the Seven Wonders of the World  
  > 世界七大奇观    
 
- > **It's a wonder that**  
- > It's a wonder that you didn’t lose your way in the dark.   
+ > **It's a wonder that** you didn’t lose your way in the dark.   
  > 你在黑暗中居然没有迷路，这真是个奇迹。    
 
  > Jim, you’re a wonder! I would never have thought of doing that.   
@@ -4749,7 +4694,7 @@ D.By
 
 固定搭配
 ---
-## \*(it is) no wonder (that)
+## \#(it is) no wonder (that)
 1.**不足为奇：**  
 
  > With all these attractions, no wonder tourism is increasing wherever there is a Disneyland.   
@@ -4759,7 +4704,7 @@ D.By
  > 她的孩子不见了，难怪她如此心神不宁。    
 
 
-# ***\*wonder*** adj  重难点词汇
+# ***\#wonder*** adj  重难点词汇
 英音 'wʌndə(r)     美音 'wʌndər  
 
 | 词频 5 |  
@@ -4780,7 +4725,7 @@ A.
 答案：
 1. It is no wonder / No wonder  
 
-# ***\*wonderful*** adj
+# ***\#wonderful*** adj
 英音 'wʌndəfl     美音 'wʌndərfl  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -4796,7 +4741,7 @@ A.
  > 人的大脑是一个奇妙的器官。    
 
 
-# ***\*wonderland*** n
+# ***\#wonderland*** n
 英音 'wʌndəlænd     美音 'wʌndəlænd  
 
   
@@ -4806,7 +4751,7 @@ A.
 ### 1.**(故事中的) 仙境,奇境**  
 
 
-# ***\*wood*** n
+# ***\#wood*** n
 英音 wʊd     美音 wʊd  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -4817,12 +4762,11 @@ A.
 
 ### 2.*高义频：* **树林；森林：**  
 
- > **the woods**  
- > As kids, my friends and I spent a lot of time out in the woods.   
+ > As kids, my friends and I spent a lot of time out in **the woods**.   
  > 小时候，我和朋友们经常在树林里玩。  （2008 天津）  
 
 
-# ***\*wooden*** adj
+# ***\#wooden*** adj
 英音 'wʊdn     美音 'wʊdn  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -4840,7 +4784,7 @@ A.
  > 僵硬的动作    
 
 
-# ***\*wool*** n
+# ***\#wool*** n
 英音 wʊl     美音 wʊl  
 
 | 词频 2 | 口语 1 |  
@@ -4852,7 +4796,7 @@ A.
 ### 1.*高义频：* **羊毛；毛线；羊毛织物**  
 
 
-# ***\*wool(l)en*** adj
+# ***\#wool(l)en*** adj
 英音 'wʊlən     美音 'wʊlɪn  
 
 | 词频 1 |  
@@ -4865,7 +4809,7 @@ A.
  > 她穿着一件羊毛外套。    
 
 
-# ***\*woolen*** adj
+# ***\#woolen*** adj
 英音 'wʊlən     美音 'wʊlɪn  
 
 | 词频 1 |  
@@ -4878,7 +4822,7 @@ A.
  > 她穿着一件羊毛外套。    
 
 
-# ***\*woollen*** adj
+# ***\#woollen*** adj
 英音 'wʊlən     美音 'wʊlən  
 
 | 词频 1 |  
@@ -4891,7 +4835,7 @@ A.
  > 她穿着一件羊毛外套。    
 
 
-# ***\*word*** n
+# ***\#word*** n
 英音 wɜːd     美音 wɜːrd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4918,59 +4862,56 @@ A.
 
 ### 4.*高义频：* **诺言；保证：**  
 
- > **was as good as her word**  
- > Angela was as good as her word.   
+ > Angela **was as good as her word**.   
  > 安吉拉说话算数。    
 
- > **gave her his word**  
- > He gave her his word that he would never be late again.   
+ > He **gave her his word** that he would never be late again.   
  > 他向她保证再也不迟到了。    
 
- > **man of his word**  
- > He is a man of his word.   
+ > He is a **man of his word**.   
  > 他是个守信的人    
 
 
 固定搭配
 ---
-## \*break one’s word 
+## \#break one’s word 
 1.**失信；食言：**  
 
  > He has broken his word so many times that I cannot trust him any more.  
  > 他经常食言，我再也不能相信他了。    
 
-## \*have a word with 
+## \#have a word with 
 1.**与…谈一谈：**  
 
  > Where is Peter? I want to have a word with him.   
  > 彼得在哪儿？我想跟他谈一谈。    
 
-## \*have words with 
+## \#have words with 
 1.**与…争论：**  
 
  > I was very angry and had words with him over money.   
  > 我很生气，和他就钱的事吵了起来。    
 
-## \*in a word 
+## \#in a word 
 1.**总之；简言之；一句话：**  
 
  > In a word, good listening can really enable us to get closer to each other.  
  > 总之，认真倾听确实能使我们拉近彼此的距离。  （2008 江苏书面表达）  
 
-## \*in other words
+## \#in other words
 1.**也就是说；换句话说：**  
 
  > In other words, English weather-speak is a means of social bonding.  
  > 换句话说，在英国谈论天气是一种社交手段。  （2013 重庆）  
 
-## \*keep one’s word 
+## \#keep one’s word 
 1.**遵守诺言：**  
 
  > She said she would be there at seven o’ clock, and he thought she would keep her word.   
  > 她说她7点钟到，他以为她不会食言。  （外研③ – 1）  
 
 
-# ***\*work*** v  重难点词汇
+# ***\#work*** v  重难点词汇
 英音 wɜːk     美音 wɜːrk  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4979,16 +4920,13 @@ A.
 ---
 ### 1.*高义频：* **(使) 工作；(使) 劳动：**  
 
- > **working on**  
- > After Jack had sent some e-mails, he started working on his project.   
+ > After Jack had sent some e-mails, he started **working on** his project.   
  > 杰克发了几封电子邮件后，就开始做他这个项目的工作。  （2012 山东）  
 
- > **worked,for**  
- > He worked tirelessly for the charity throughout his life.   
+ > He **worked** tirelessly **for** the charity throughout his life.   
  > 他毕生为慈善事业孜孜不倦地工作。    
 
- > **worked herself**  
- > She worked herself too hard.   
+ > She **worked herself** too hard.   
  > 她工作起来太努力了。    
 
 ### 2.*高义频：* **从事职业：**  
@@ -4996,8 +4934,7 @@ A.
  > Why do you choose to work in an international travel agency?  
  > 你为什么选择在一家国际旅行社工作呢？  （2012 福建）  
 
- > **worked as**  
- > I once worked as a reporter for my school broadcasting station.  
+ > I once **worked as** a reporter for my school broadcasting station.  
  > 我曾经在校广播电台当过记者。    
 
 ### 3.*高义频：* **(使) 运行；(使) 运转：**  
@@ -5019,20 +4956,19 @@ A.
 
 固定搭配
 ---
-## \*work on 
+## \#work on 
 1.**从事于；致力于：**  
 
  > He has spent the last two years working on a book about childcare.   
  > 两年来他一直致力于撰写一本关于育儿的书。    
 
-## \*work out
+## \#work out
 1.*高义频：* **算出 (calculate)；总共达：**  
 
  > I’m just trying to work out how much I spend each month.   
  > 我正在尽力算出我每月的开销。    
 
- > **work out at**  
- > The travelling expenses work out at 12 dollars per day each.   
+ > The travelling expenses **work out at** 12 dollars per day each.   
  > 每人每天的旅行费用总共12美元。    
 
 2.*高义频：* **解决 (solve)；把...弄清楚：**  
@@ -5073,7 +5009,7 @@ D.has worked
 答案：
 1. working  2. B  3. out  
 
-# ***\*work*** n  重难点词汇
+# ***\#work*** n  重难点词汇
 英音 wɜːk     美音 wɜːrk  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5085,8 +5021,7 @@ D.has worked
  > Though I had a lot of experience and a Master’s degree, I could not find satisfying work.  
  > 虽然我有丰富的经验和硕士学位，但我没能找到满意的工作。  （2012 全国）  
 
- > **hard work**  
- > She earned excellent grades through hard work.   
+ > She earned excellent grades through **hard work**.   
  > 她通过艰苦的努力取得了优异的成绩。    
 
 ### 2.*高义频：* **工作成果；产品：**  
@@ -5107,7 +5042,7 @@ D.has worked
 
 固定搭配
 ---
-## \*at work 
+## \#at work 
 1.**在工作；在运转：**  
 
  > I was at work when I got a phone call.   
@@ -5116,7 +5051,7 @@ D.has worked
  > The machine is at work.   
  > 这台机器正在运转。    
 
-## \*out of work 
+## \#out of work 
 1.**失业 (unemployed)：**  
 
  > I was worried about whether I would be out of work.  
@@ -5127,16 +5062,14 @@ D.has worked
 ---
 working /'wɜːkɪŋ/ adj [只用于名词前]  
  > **working hours / days**  
- > working hours / days  
  > 工作时间/日    
 
 working /'wɜːkɪŋ/ n [常用复数]  
- > **workings of**  
- > the workings of the human mind  
+ > the **workings of** the human mind  
  > 人大脑的工作方式    
 
 
-# ***\*workaholic*** n
+# ***\#workaholic*** n
 英音 ˌwɜːkə'hɒlɪk     美音 ˌwɜːrkə'hɔːlɪk  
 
 | 词频 1 |  
@@ -5146,7 +5079,7 @@ working /'wɜːkɪŋ/ n [常用复数]
 ### 1.**工作狂**  
 
 
-# ***\*workday*** n
+# ***\#workday*** n
 英音 'wɜːkdeɪ     美音 'wɜːrkdeɪ  
 
 | 词频 2 |  
@@ -5156,7 +5089,7 @@ working /'wɜːkɪŋ/ n [常用复数]
 ### 1.**工作日**  
 
 
-# ***\*worker*** n
+# ***\#worker*** n
 英音 'wɜːkə(r)     美音 'wɜːrkər  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -5168,7 +5101,7 @@ working /'wɜːkɪŋ/ n [常用复数]
 ### 1.*高义频：* **工人；劳动者；工作者**  
 
 
-# ***\*workhouse*** n
+# ***\#workhouse*** n
 英音 'wɜːkhaʊs     美音 'wɜːrkhaʊs  
 
 | 词频 1 |  
@@ -5178,7 +5111,7 @@ working /'wɜːkɪŋ/ n [常用复数]
 ### 1.**（英国昔日的）济贫院；贫民习艺所**  
 
 
-# ***\*workplace*** n
+# ***\#workplace*** n
 英音 'wɜːkpleɪs     美音 'wɜːrkpleɪs  
 
 | 词频 3 |  
@@ -5190,7 +5123,7 @@ working /'wɜːkɪŋ/ n [常用复数]
 ### 1.*高义频：* **工作场所；工作地点**  
 
 
-# ***\*workshop*** n
+# ***\#workshop*** n
 英音 'wɜːkʃɒp     美音 'wɜːrkʃɑːp  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -5202,7 +5135,7 @@ working /'wɜːkɪŋ/ n [常用复数]
 ### 1.*高义频：* **车间；研讨会；研习班**  
 
 
-# ***\*world*** n
+# ***\#world*** n
 英音 wɜːld     美音 wɜːrld  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5213,12 +5146,10 @@ working /'wɜːkɪŋ/ n [常用复数]
 ---
 ### 1.*高义频：* **世界；地球：**  
 
- > **all over the world**  
- > people all over the world   
+ > people **all over the world**   
  > 全世界人民    
 
- > **around the world**  
- > a voyage around the world   
+ > a voyage **around the world**   
  > 环球航行    
 
 ### 2.*高义频：* **全世界的人：**  
@@ -5233,14 +5164,13 @@ working /'wɜːkɪŋ/ n [常用复数]
 
 ### 4.*高义频：* **(个人的) 生活经历；生活圈子；场所：**  
 
- > **entire world**  
- > When she lost her son, her entire world changed.   
+ > When she lost her son, her **entire world** changed.   
  > 自从失去儿子以后，她的整个世界完全改变了。    
 
 
 固定搭配
 ---
-## \*in the world
+## \#in the world
 1.*高义频：* **[强调最高级] 在全世界：**  
 
  > I have the greatest job in the world.  
@@ -5252,7 +5182,7 @@ working /'wɜːkɪŋ/ n [常用复数]
  > 她瞪着眼睛喊道：“你究竟在想什么？”  （2010 浙江）  
 
 
-# ***\*worldwide*** adj
+# ***\#worldwide*** adj
 英音 'wɜːldwaɪd     美音 'wɜːrldwaɪd  
 
 | 词频 4 |  
@@ -5268,7 +5198,7 @@ working /'wɜːkɪŋ/ n [常用复数]
  > 现在差不多全世界都在使用汽油。    
 
 
-# ***\*worldwide*** adv
+# ***\#worldwide*** adv
 英音 'wɜːldwaɪd     美音 'wɜːrldwaɪd  
 
 | 词频 4 |  
@@ -5281,7 +5211,7 @@ working /'wɜːkɪŋ/ n [常用复数]
  > 全球每天发生大约400次地震。    
 
 
-# ***\*worm*** n
+# ***\#worm*** n
 英音 wɜːm     美音 wɜːrm  
 
 | 词频 1 |  
@@ -5293,7 +5223,7 @@ working /'wɜːkɪŋ/ n [常用复数]
 ### 1.*高义频：* **虫；蠕虫**  
 
 
-# ***\*worn*** adj
+# ***\#worn*** adj
 英音 wɔːn     美音 wɔːrn  
 
 | 词频 3 |  
@@ -5316,7 +5246,7 @@ working /'wɜːkɪŋ/ n [常用复数]
 
 固定搭配
 ---
-## \*worn out 
+## \#worn out 
 1.**破旧的；筋疲力尽的(exhausted)：**  
 
  > It’s a very old watch and is quite worn out.   
@@ -5326,7 +5256,7 @@ working /'wɜːkɪŋ/ n [常用复数]
  > 逛了一天商店，我都累坏了。    
 
 
-# ***\*worn-out*** adj
+# ***\#worn-out*** adj
 英音 'wɔːn'aʊt     美音 'woʊrn'aʊt  
 
 | 词频 2 |  
@@ -5336,7 +5266,7 @@ working /'wɜːkɪŋ/ n [常用复数]
 ### 1.*高义频：* **磨破的；穿旧的**  
 
 
-# ***\*worried*** adj
+# ***\#worried*** adj
 英音 'wʌrid     美音 'wɜːrid  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -5345,20 +5275,17 @@ working /'wɜːkɪŋ/ n [常用复数]
 ---
 ### 1.*高义频：* **焦虑的；担心的**  
 
- > **worried look**  
- > a worried look   
+ > a **worried look**   
  > 焦虑的神情    
 
- > **worried about**  
- > She was very worried about her sick mother.  
+ > She was very **worried about** her sick mother.  
  > 她非常担心生病的母亲。    
 
- > **worried that**  
- > I’m worried that something bad has happened to him.   
+ > I’m **worried that** something bad has happened to him.   
  > 我担心他遭遇不测。  （译林② – 1）  
 
 
-# ***\*worry*** v
+# ***\#worry*** v
 英音 'wʌri     美音 'wɜːri  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -5387,12 +5314,11 @@ working /'wɜːkɪŋ/ n [常用复数]
  > You have no cause / reason to worry.   
  > 你没有理由担心。    
 
- > **worry about**  
- > Frank doesn’t worry about making mistakes.  
+ > Frank doesn’t **worry about** making mistakes.  
  > 弗兰克不担心犯错。    
 
 
-# ***\*worry*** n
+# ***\#worry*** n
 英音 'wʌri     美音 'wɜːri  
 
 | 词频 5 | 口语 2 |  
@@ -5401,8 +5327,7 @@ working /'wɜːkɪŋ/ n [常用复数]
 ---
 ### 1.*高义频：* **焦虑；担忧；烦恼 (anxiety)：**  
 
- > **worry about**  
- > She lost weight because of all the worry about her son’s illness.  
+ > She lost weight because of all the **worry about** her son’s illness.  
  > 她因为担心儿子的病情而消瘦了。    
 
 ### 2.*高义频：* **令人担忧的事；让人发愁的事**  
@@ -5412,7 +5337,7 @@ working /'wɜːkɪŋ/ n [常用复数]
 ---
 worrying /'wʌriɪŋ/ adj   
 
-# ***\*worse*** adj
+# ***\#worse*** adj
 英音 wɜːs     美音 wɜːrs  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -5435,7 +5360,7 @@ worrying /'wʌriɪŋ/ adj
 答案：
 1. for  
 
-# ***\*worse*** adv
+# ***\#worse*** adv
 英音 wɜːs     美音 wɜːrs  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -5453,14 +5378,14 @@ worrying /'wʌriɪŋ/ adj
 
 固定搭配
 ---
-## \*worse and worse 
+## \#worse and worse 
 1.**越来越坏；每况愈下：**  
 
  > The weather is getting worse and worse.   
  > 天气变得越来越坏。    
 
 
-# ***\*worse*** n
+# ***\#worse*** n
 英音 wɜːs     美音 wɜːrs  
 
 | 词频 4 |  
@@ -5472,14 +5397,14 @@ worrying /'wʌriɪŋ/ adj
 
 固定搭配
 ---
-## \*for the worse 
+## \#for the worse 
 1.**向更坏的方向：**  
 
  > The sick man’s condition changed for the worse.   
  > 这位病人的病情恶化了。    
 
 
-# ***\*worship*** n
+# ***\#worship*** n
 英音 'wɜːʃɪp     美音 'wɜːrʃɪp  
 
 | 词频 1 |  
@@ -5491,7 +5416,7 @@ worrying /'wʌriɪŋ/ adj
 ### 1.*高义频：* **崇拜；敬神**  
 
 
-# ***\*worship*** v
+# ***\#worship*** v
 英音 'wɜːʃɪp     美音 'wɜːrʃɪp  
 
 | 词频 1 |  
@@ -5501,7 +5426,7 @@ worrying /'wʌriɪŋ/ adj
 ### 1.*高义频：* **崇拜；敬奉**  
 
 
-# ***\*worst*** adj
+# ***\#worst*** adj
 英音 wɜːst     美音 wɜːrst  
 
 | 词频 3 |  
@@ -5517,7 +5442,7 @@ worrying /'wʌriɪŋ/ adj
  > 这是多年来最严重的一次事故。    
 
 
-# ***\*worst*** adv
+# ***\#worst*** adv
 英音 wɜːst     美音 wɜːrst  
 
 | 词频 3 |  
@@ -5530,7 +5455,7 @@ worrying /'wʌriɪŋ/ adj
  > 四个人当中，我唱得最糟糕。    
 
 
-# ***\*worst*** n
+# ***\#worst*** n
 英音 wɜːst     美音 wɜːrst  
 
 | 词频 3 |  
@@ -5541,12 +5466,11 @@ worrying /'wʌriɪŋ/ adj
 ---
 ### 1.*高义频：* **最坏的人 / 事：**  
 
- > **The worst of**  
- > The worst of the storm seemed to be over.   
+ > **The worst of** the storm seemed to be over.   
  > 最猛烈的一阵暴风雨似乎已经过去。    
 
 
-# ***\*worth*** adj
+# ***\#worth*** adj
 英音 wɜːθ     美音 wɜːrθ  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -5562,8 +5486,7 @@ worrying /'wʌriɪŋ/ adj
  > The old stamp is worth about 5,000 yuan.   
  > 这张旧邮票价值5000元左右。    
 
- > **How much is,worth**  
- > How much is the land worth?  
+ > **How much is** the land **worth**?  
  > 这块土地的价值是多少？    
 
  > An hour in the morning is worth two in the evening.  
@@ -5573,8 +5496,7 @@ worrying /'wʌriɪŋ/ adj
 
 - (be) worth sth:
 
- > **it is well worth it**  
- > Although we take an hour a day for exercise, it is well worth it.   
+ > Although we take an hour a day for exercise, **it is well worth it**.   
  > 虽然我们每天都要锻炼一小时，但一切都是值得的。    
 
  > Although this apple doesn’t taste of anything special, it’s still worth a try.  
@@ -5591,7 +5513,7 @@ worrying /'wʌriɪŋ/ adj
  > 那个美术馆值得一去。    
 
 
-# ***\*worth*** n
+# ***\#worth*** n
 英音 wɜːθ     美音 wɜːrθ  
 
 | 词频 4 |  
@@ -5614,9 +5536,17 @@ worthless /'wɜːθləs/ adj
 
 #### 辨析 worthless, invaluable, valueless, priceless
   
+**worthless 与 valueless ** 同义，意为“无价值 的”、“无用的”。
+**invaluable 与 priceless ** 同义，意为“宝贵的”、 “无价的”、“贵重的”。
+ > The new job will provide you with invaluable experience.  
+ > 这份新工作会让你获得非常宝贵的经验。    
+
+ > We saw priceless paintings at the museum.  
+ > 我们在这个博物馆里看到了一些贵重的名画。    
 
 
-# ***\*worth*** prep
+
+# ***\#worth*** prep
 英音 wɜːθ     美音 wɜːrθ  
 
 | 词频 4 |  
@@ -5626,7 +5556,7 @@ worthless /'wɜːθləs/ adj
 ### 1.**值得的;相当于……的价值**  
 
 
-# ***\*worthless*** adj
+# ***\#worthless*** adj
 
 
 | 词频 2 |  
@@ -5638,9 +5568,17 @@ worthless /'wɜːθləs/ adj
 
 #### 辨析 worthless, invaluable, valueless, priceless
   
+**invaluable 与 priceless ** 同义，意为“宝贵的”、“无价的”、“贵重的”。
+**worthless 与 valueless ** 同义，意为“无价值 的”、“无用的”。
+ > The house was full of worthless junk.   
+ > 这栋房子里堆满了没用的东西。    
+
+ > His comments were so general as to be nearly valueless.   
+ > 他的评论太过空泛，几乎都是废话。    
 
 
-# ***\*worthwhile*** adj
+
+# ***\#worthwhile*** adj
 英音 ˌwɜːθ'waɪl     美音 ˌwɜːrθ'waɪl  
 
 | 词频 2 | 口语 1 |  
@@ -5649,8 +5587,7 @@ worthless /'wɜːθləs/ adj
 ---
 ### 1.*高义频：* **值得花时间 / 精力的：**  
 
- > **worthwhile,cause**  
- > a worthwhile job / cause   
+ > a **worthwhile** job / **cause**   
  > 值得干的工作/值得为之奋斗的事业    
 
  > The smile on her face made it all worthwhile.   
@@ -5669,7 +5606,7 @@ worthless /'wɜːθləs/ adj
 答案：
 1. worthwhile  
 
-# ***\*worthy*** adj
+# ***\#worthy*** adj
 英音 'wɜːði     美音 'wɜːrði  
 
 | 词频 2 |  
@@ -5691,8 +5628,7 @@ worthless /'wɜːθləs/ adj
  > Her achievements are worthy of the highest praise.  
  > 她的成就值得给予最高奖赏。    
 
- > **worthy of note**  
- > Two points in this report are especially worthy of note.  
+ > Two points in this report are especially **worthy of note**.  
  > 这个报告中有两个要点特别值得关注。    
 
 -  (be) worthy to do sth:
@@ -5706,7 +5642,7 @@ worthless /'wɜːθləs/ adj
  > 孺子可教。    
 
 
-# ***\*would*** modal v
+# ***\#would*** modal v
 英音 wʊd     美音 wʊd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5778,7 +5714,7 @@ D.didn’t she
 答案：
 1. wouldn’t have written  2. C  3. would have come  4. C  5. B  
 
-# ***\*wound*** vt
+# ***\#wound*** vt
 英音 wuːnd     美音 wuːnd  
 
 | 词频 3 | 书面 1 |  
@@ -5795,9 +5731,19 @@ D.didn’t she
 
 #### 辨析 damage, hurt, injure, wound
 四者皆有“伤害”之意。  
+**damage ** 指对物体造成破坏，还指对人的健康或身体部位造成伤害。对人造成伤害一般不用damage，而用hurt, injure或wound。
+**hurt ** 是普通用词。 可指意外事故对人的身体造成伤害， 还指情感等方面受到伤害。
+**injure ** 是正式用词。 通常指意外事故对人的身体造成伤害。
+**wound ** 通常指受到刀、 枪等武器的伤害。
+ > A bullet hit the soldier and he was wounded in the leg.  
+ > 子弹击中了那个士兵，他的腿受伤了。    
+
+ > a wounded soldier   
+ > 伤员    
 
 
-# ***\*wound*** n
+
+# ***\#wound*** n
 英音 wuːnd     美音 wuːnd  
 
 | 词频 3 |  
@@ -5819,7 +5765,7 @@ D.didn’t she
 ---
 wounded /'wuːndɪd/ adj   
 
-# ***\*wrap*** vt
+# ***\#wrap*** vt
 英音 ræp     美音 ræp  
 
 | 词频 3 | 口语 1 |  
@@ -5828,18 +5774,15 @@ wounded /'wuːndɪd/ adj
 ---
 ### 1.*高义频：* **裹；包：**  
 
- > **wrap,in**  
- > I’d like to wrap Christmas presents in pretty paper.  
+ > I’d like to **wrap** Christmas presents **in** pretty paper.  
  > 我喜欢用漂亮的纸把圣诞礼物包起来。    
 
- > **wrapped in**  
- > I saw a boy wrapped in a towel on the side of the pool.   
+ > I saw a boy **wrapped in** a towel on the side of the pool.   
  > 我看到一个男孩裹着毛巾坐在游泳池边。    
 
 ### 2.*高义频：* **缠绕:**  
 
- > **wrapped,around**  
- > He wrapped a scarf around his neck.   
+ > He **wrapped** a scarf **around** his neck.   
  > 他在脖子上围了一条围巾。    
 
 
@@ -5847,7 +5790,7 @@ wounded /'wuːndɪd/ adj
 ---
 wrapping /'ræpɪŋ/ n [C] & [U]  
 
-# ***\*wreath*** n
+# ***\#wreath*** n
 英音 riːθ     美音 riːθ  
 
 | 词频 1 |  
@@ -5859,7 +5802,7 @@ wrapping /'ræpɪŋ/ n [C] & [U]
 ### 1.*高义频：* **花圈；花冠；圈状物**  
 
 
-# ***\*wreck*** vt
+# ***\#wreck*** vt
 英音 rek     美音 rek  
 
 | 词频 1 |  
@@ -5875,7 +5818,7 @@ wrapping /'ræpɪŋ/ n [C] & [U]
  > 这次意外事故损坏了他的健康。    
 
 
-# ***\*wreck*** n
+# ***\#wreck*** n
 英音 rek     美音 rek  
 
 | 词频 1 |  
@@ -5893,7 +5836,7 @@ wrapping /'ræpɪŋ/ n [C] & [U]
  > 那次事故后，我的车成了一堆废铁。    
 
 
-# ***\*wrestle*** v
+# ***\#wrestle*** v
 英音 'resl     美音 'resl  
 
 | 词频 1 |  
@@ -5907,7 +5850,7 @@ wrapping /'ræpɪŋ/ n [C] & [U]
 ---
 wrestling  /'reslɪŋ/ n [U]   
 
-# ***\*wrestling*** n
+# ***\#wrestling*** n
 英音 'reslɪŋ     美音 'reslɪŋ  
 
 | 词频 1 |  
@@ -5917,7 +5860,7 @@ wrestling  /'reslɪŋ/ n [U]
 ### 1.**摔跤（运动）**  
 
 
-# ***\*wrinkle*** n
+# ***\#wrinkle*** n
 英音 'rɪŋkl     美音 'rɪŋkl  
 
 | 词频 1 |  
@@ -5932,7 +5875,7 @@ wrestling  /'reslɪŋ/ n [U]
  > 祖父的脸上有许多皱纹。    
 
 
-# ***\*wrinkle*** v
+# ***\#wrinkle*** v
 英音 'rɪŋkl     美音 'rɪŋkl  
 
 | 词频 1 |  
@@ -5948,7 +5891,7 @@ wrestling  /'reslɪŋ/ n [U]
  > 他微笑时脸上出现了皱纹。    
 
 
-# ***\*wrinkled*** adj
+# ***\#wrinkled*** adj
 英音 'rɪŋkld     美音 'rɪŋkld  
 
 | 词频 1 |  
@@ -5958,7 +5901,7 @@ wrestling  /'reslɪŋ/ n [U]
 ### 1.**（皮肤等）布满皱纹的，具有褶皱的**  
 
 
-# ***\*wrist*** n
+# ***\#wrist*** n
 英音 rɪst     美音 rɪst  
 
 | 词频 2 |  
@@ -5970,7 +5913,7 @@ wrestling  /'reslɪŋ/ n [U]
 ### 1.*高义频：* **腕；腕关节**  
 
 
-# ***\*write*** v
+# ***\#write*** v
 英音 raɪt     美音 raɪt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5987,20 +5930,19 @@ wrestling  /'reslɪŋ/ n [U]
  > write a letter to sb   
  > 给某人写信    
 
- > **write to**  
- > Don’t forget to write to me.   
+ > Don’t forget to **write to** me.   
  > 记得写信给我。    
 
 
 固定搭配
 ---
-## \*write back 
+## \#write back 
 1.**回信：**  
 
  > I received his letter two weeks ago, but I forgot to write back.  
  > 我两星期前收到了他的信，但忘了给他回信。    
 
-## \*write down 
+## \#write down 
 1.**写下；记下：**  
 
  > I wrote down new words and added them to my collection.   
@@ -6018,7 +5960,7 @@ writer  /'raɪtə(r)/ n [C]
 答案：
 1. written  
 
-# ***\*writer*** n
+# ***\#writer*** n
 英音 'raɪtə(r)     美音 'raɪtər  
 
 | 词频 5 |  
@@ -6028,7 +5970,7 @@ writer  /'raɪtə(r)/ n [C]
 ### 1.**作者, 作家**  
 
 
-# ***\*writing*** n
+# ***\#writing*** n
 英音 'raɪtɪŋ     美音 'raɪtɪŋ  
 
 | 词频 5 | 口语 2 | 书面 1 |  
@@ -6049,7 +5991,7 @@ writer  /'raɪtə(r)/ n [C]
  > 信纸    
 
 
-# ***\*wrong*** adj
+# ***\#wrong*** adj
 英音 rɒŋ     美音 rɔːŋ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6059,12 +6001,10 @@ writer  /'raɪtə(r)/ n [C]
 ### 1.*高义频：* **错误的；不正确的：**  
 反义词 right 
 
- > **wrong number**  
- > Sorry, you have the wrong number.   
+ > Sorry, you have the **wrong number**.   
  > 对不起，你打错电话了。    
 
- > **wrong about**  
- > You’re wrong about Tom; he hasn’t married at all.  
+ > You’re **wrong about** Tom; he hasn’t married at all.  
  > 你弄错了，汤姆根本没有结婚。    
 
  > You’re wrong to leave your child alone at home.  
@@ -6076,14 +6016,12 @@ writer  /'raɪtə(r)/ n [C]
  > Telling lies is wrong.   
  > 撒谎是不对的。    
 
- > **It was wrong,to**  
- > It was wrong of you to steal money.   
+ > **It was wrong** of you **to** steal money.   
  > 你偷钱是不对的。    
 
 ### 3.*高义频：* **出故障的；有毛病的：**  
 
- > **There was something wrong with**  
- > There was something wrong with my computer yesterday.  
+ > **There was something wrong with** my computer yesterday.  
  > 昨天我的电脑坏了。    
 
 ### 4.*高义频：* **不合适的：**  
@@ -6095,14 +6033,14 @@ writer  /'raɪtə(r)/ n [C]
 
 固定搭配
 ---
-## \*What’s wrong with …?
+## \#What’s wrong with …?
 1.**…怎么了？**  
 
  > I don’t know what’s wrong with the engine.   
  > 我不知道引擎出了什么问题。    
 
 
-# ***\*wrong*** adv
+# ***\#wrong*** adv
 英音 rɒŋ     美音 rɔːŋ  
 
 | 词频 5 | 口语 2 |  
@@ -6116,7 +6054,7 @@ writer  /'raɪtə(r)/ n [C]
  > 你把这个单词拼错了。    
 
 
-# ***\*wrong*** n
+# ***\#wrong*** n
 英音 rɒŋ     美音 rɔːŋ  
 
 | 词频 5 |  
@@ -6125,21 +6063,18 @@ writer  /'raɪtə(r)/ n [C]
 ---
 ### 1.*高义频：* **坏事；过失：**  
 
- > **Her son can do no wrong**  
- > Her son can do no wrong in her eyes.  
+ > **Her son can do no wrong** in her eyes.  
  > 在她眼里，自己儿子不可能做错事。    
 
  > the difference between right and wrong   
  > 是非之分    
 
- > **in the wrong**  
- > If you’re the person who is in the wrong, just admit it!  
+ > If you’re the person who is **in the wrong**, just admit it!  
  > 如果你是理亏的那个人，尽管承认吧！  （2015 福建）  
 
 ### 2.*低义频：* **不公正的事；冤屈：**  
 
- > **done me,wrong**  
- > They have done me a great wrong.   
+ > They have **done me** a great **wrong**.   
  > 他们对我非常不公平。    
 
 

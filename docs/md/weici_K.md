@@ -1,6 +1,6 @@
 # Kk
 
-# ***\*kangaroo*** n
+# ***\#kangaroo*** n
 英音 ˌkæŋɡə'ruː     美音 ˌkæŋɡə'ruː  
 
 | 词频 1 |  
@@ -12,7 +12,7 @@
 ### 1.*高义频：* **袋鼠**  
 
 
-# ***\*karaoke*** n
+# ***\#karaoke*** n
 英音 ˌkæri'əʊki     美音 ˌkæri'oʊki  
 
 | 词频 1 |  
@@ -24,7 +24,7 @@
 ### 1.*高义频：* **卡拉OK录音；自动伴奏录音**  
 
 
-# ***\*kebab*** n
+# ***\#kebab*** n
 英音 kɪ'bæb     美音 kɪ'bæb  
 
 | 词频 1 |  
@@ -34,7 +34,7 @@
 ### 1.*高义频：* **(= kabob) (印度) 烤腌羊肉串；肉串上的肉块**  
 
 
-# ***\*keen*** adj
+# ***\#keen*** adj
 英音 kiːn     美音 kiːn  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -44,12 +44,10 @@
 ### 1.*高义频：* **热衷的；渴望的**  
 英译 wanting to do sth (eager)：
 
- > **were keen on**  
- > We were keen on going to picnic.  
+ > We **were keen on** going to picnic.  
  > 我们很想去野餐。    
 
- > **keen to**  
- > He's very keen to see his birthplace again.  
+ > He's very **keen to** see his birthplace again.  
  > 他很想再去看一看自己出生的地方。    
 
 ### 2.*高义频：* **[非正式用语] (关心、兴趣等) 强烈的；浓烈的**  
@@ -61,18 +59,16 @@
  > have a keen interest in   
  > 对…有强烈兴趣    
 
- > **am not very keen on**  
- > I am not very keen on detective stories.  
+ > I **am not very keen on** detective stories.  
  > 我不太喜欢侦探小说。    
 
 ### 3.*低义频：* **灵敏的；敏锐的 (sharp)：**  
 
- > **a keen eye for**  
- > She has a keen eye for (= is good at noticing) talent.  
+ > She has **a keen eye for** (= is good at noticing) talent.  
  > 她慧眼识才。    
 
 
-# ***\*keep*** v  重难点词汇
+# ***\#keep*** v  重难点词汇
 英音 kiːp     美音 kiːp  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -85,8 +81,7 @@
 
 - keep (sb / sth) + adj / adv / prep:
 
- > **keep fit**  
- > The best way to keep fit is to get plenty of exercise by doing sports.   
+ > The best way to **keep fit** is to get plenty of exercise by doing sports.   
  > 保持健康的最佳方法是通过体育活动获得大量的锻炼。  （2011 福建）  
 
  > We should keep the earth healthy while using its supply of natural resources.   
@@ -103,15 +98,12 @@
 ### 2.*高义频：* **保留；遵守；保守：**  
 
  > **keep a secret / one's promise**  
- > keep a secret / one's promise  
  > 保守秘密/遵守诺言    
 
- > **keep the change**  
- > Here's a five-dollar bill — please keep the change.  
+ > Here's a five-dollar bill — please **keep the change**.  
  > 这是一张五元钞票——零钱不用找了。    
 
- > **could keep,to yourself**  
- > I'd be grateful if you kept this information to yourself.  
+ > I'd be grateful if you kept this information **to yourself****could keep**  
  > 这事你若能保密我将不胜感激。    
 
 ### 3.*高义频：* **保存；保管；存放：**  
@@ -140,25 +132,25 @@
 
 固定搭配
 ---
-## \*keep (on) doing sth 
+## \#keep (on) doing sth 
 1.**持续做某事；反复做某事：**  
 
  > She pretended not to hear, and kept on walking.  
  > 她假装没听见，继续往前走。  （2008 山东）  
 
-## \*keep ... from doing sth
+## \#keep ... from doing sth
 1.**阻止…做某事：**  
 
  > We must keep them from getting to know our plans.  
  > 一定不要让他们知道我们的计划。    
 
-## \*keep going 
+## \#keep going 
 1.**尽力维持下去；坚持 (活) 下去：**  
 
  > I don't like the thought of giving it up and will try to keep going forever.  
  > 我不喜欢放弃的想法，我会尽力永远坚持下去。  （2013 四川）  
 
-## \*keep off 
+## \#keep off 
 1.**避开；(使) 不接近：**  
 
  > We had to think of a way to keep off the rain.   
@@ -170,7 +162,7 @@
  > The notice said "Keep off the grass" .  
  > 牌子上写着“请勿践踏草坪”。    
 
-## \*keep on 
+## \#keep on 
 1.**继续下去**  
 英译 to continue：
 
@@ -180,13 +172,13 @@
  > The rain kept on for several days.   
  > 雨一连下了好几天。    
 
-## \*keep ... out (of) 
+## \#keep ... out (of) 
 1.**遮挡；使…不进入：**  
 
  > Please keep the dog out of the study.   
  > 别让这只狗进书房。    
 
-## \*keep to 
+## \#keep to 
 1.**遵守；坚持 (stick to)：**  
 
  > I'm sorry but we have to keep to the timetable.  
@@ -195,27 +187,25 @@
  > Whatever your argument, I shall keep to my decision.   
  > 不管你怎么争辩，我都将坚持自己的决定。    
 
-## \*keep up 
+## \#keep up 
 1.**保持；继续 (continue)：**  
 
  > Some senior high students chanted slogans to keep their spirits up before the big examination.  
  > 一些高中生在大考前喊口号以保持高昂的情绪。    
 
- > **Keep up the good work**  
- > Well done! Keep up the good work!  
+ > Well done! **Keep up the good work**!  
  > 做得不错！继续好好干！    
 
- > **keep it up**  
- > If the steps you take are working, keep it up.  
+ > If the steps you take are working, **keep it up**.  
  > 如果你采取的这些措施奏效了，那就继续做下去。  （2017 全国）  
 
-## \*keep sb up
+## \#keep sb up
 1.**使某人熬夜：**  
 
  > I hope I'm not keeping you up.  
  > 希望我没有耽误你睡觉。    
 
-## \*keep up with 
+## \#keep up with 
 1.**跟上：**  
 
  > Jack has trouble keeping up with the rest of the class.  
@@ -245,7 +235,7 @@ D.last
 答案：
 1. up  2. running  3. A  4. with  
 
-# ***\*kettle*** n
+# ***\#kettle*** n
 英音 'ketl     美音 'ketl  
 
 | 词频 1 |  
@@ -257,7 +247,7 @@ D.last
 ### 1.*高义频：* **水壶**  
 
 
-# ***\*key*** adj
+# ***\#key*** adj
 英音 kiː     美音 kiː  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -266,12 +256,11 @@ D.last
 ---
 ### 1.*高义频：* **[无比较等级] 主要的；关键的：**  
 
- > **key figure / key points**  
- > a key figure / key points  
+ > a **key figure / key points**  
  > 关键人物/要点    
 
 
-# ***\*key*** n
+# ***\#key*** n
 英音 kiː     美音 kiː  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -285,28 +274,23 @@ D.last
  > house / car keys  
  > 房门的/车钥匙    
 
- > **key to**  
- > Here is your key to Room 212.   
+ > Here is your **key to** Room 212.   
  > 这是你212房间的钥匙。    
 
 ### 2.*高义频：* **答案：**  
 
- > **key to**  
- > the key to the grammar exercises   
+ > the **key to** the grammar exercises   
  > 语法练习的答案    
 
 ### 3.*高义频：* **关键；要诀：**  
 
- > **key to**  
- > Knowledge is a treasure, but practice is the key to it.  
+ > Knowledge is a treasure, but practice is the **key to** it.  
  > 知识是一座宝库，而实践是打开宝库的钥匙。    
 
- > **key to**  
- > My uncle tells me the key to his success is honesty.  
+ > My uncle tells me the **key to** his success is honesty.  
  > 我叔叔告诉我说他成功的关键是诚信。  （2016 全国）  
 
- > **key to**  
- > Color is the key to making a room feel the way you want it to feel.  
+ > Color is the **key to** making a room feel the way you want it to feel.  
  > 使房间有你想要的那种感觉，色彩是关键。  （2018 全国）  
 
 ### 4.*高义频：* **(电脑、钢琴等的) 键：**  
@@ -325,7 +309,7 @@ D.last
 答案：
 1. overcoming  
 
-# ***\*keyboard*** n
+# ***\#keyboard*** n
 英音 'kiːbɔːd     美音 'kiːbɔːrd  
 
 | 词频 3 | 口语 1 |  
@@ -337,7 +321,7 @@ D.last
 ### 1.*高义频：* **(钢琴、计算机等的)键盘**  
 
 
-# ***\*keyword*** n
+# ***\#keyword*** n
 英音 'kiːwɜːd     美音 'kiːwɜːrd  
 
 | 词频 1 |  
@@ -347,7 +331,7 @@ D.last
 ### 1.**密码; 口令**  
 
 
-# ***\*kick*** n
+# ***\#kick*** n
 英音 kɪk     美音 kɪk  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -364,16 +348,14 @@ D.last
 ### 2.*低义频：* **[非正式用语] 极度的兴奋；极大的乐趣**  
 英译 a feeling of great pleasure, excitement, etc.：
 
- > **gave,a kick**  
- > It gave the children a kick to see their own performance on TV.   
+ > It **gave** the children **a kick** to see their own performance on TV.   
  > 看到自己在电视上的表演让孩子们极其兴奋。    
 
- > **get a kick out of**  
- > The kid will get a kick out of finding the answer by himself.   
+ > The kid will **get a kick out of** finding the answer by himself.   
  > 孩子自己找到答案会极其兴奋。  （2009 安徽改）  
 
 
-# ***\*kick*** v
+# ***\#kick*** v
 英音 kɪk     美音 kɪk  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -388,20 +370,20 @@ D.last
 
 固定搭配
 ---
-## \*kick the habit 
+## \#kick the habit 
 1.**戒除恶习：**  
 
  > Smokers have jammed telephone "quit lines" across the country seeking to kick the habit.  
  > 烟民已把全国的“戒烟热线”打爆了，他们都在寻求戒烟的办法。  （2009 山东）  
 
-## \*kick off
+## \#kick off
 1.**开始；进行：**  
 
  > Beijing Arts Festival will kick off on April 27 and run through May 31.  
  > 北京艺术节将在4月27日开始，持续到5月31日。    
 
 
-# ***\*kid*** n
+# ***\#kid*** n
 英音 kɪd     美音 kɪd  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -413,7 +395,7 @@ D.last
 ### 1.*高义频：* **小孩；小伙子**  
 
 
-# ***\*kidney*** n
+# ***\#kidney*** n
 英音 'kɪdni     美音 'kɪdni  
 
 | 词频 2 |  
@@ -423,7 +405,7 @@ D.last
 ### 1.**肾, 肾脏**  
 
 
-# ***\*kill*** v
+# ***\#kill*** v
 英音 kɪl     美音 kɪl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -443,8 +425,7 @@ D.last
 
 ### 2.*低义频：* **消磨：**  
 
- > **killing, time**  
- > I was killing my time at home when I discovered the online computer courses.  
+ > I was **killing** my time at home when I discovered the online computer courses** time**  
  > 我正在家里消磨时间，这时我发现了在线的电脑课程。  （2016 北京改）  
 
 
@@ -452,7 +433,7 @@ D.last
 ---
 killing /'kɪlɪŋ/ n [C]  
 
-# ***\*kilo*** n
+# ***\#kilo*** n
 英音 'kiːləʊ     美音 'kiːloʊ  
 
 | 词频 1 |  
@@ -464,7 +445,7 @@ killing /'kɪlɪŋ/ n [C]
 ### 1.*高义频：* **千克 (kilogram)；千米；公里 (kilometre / kilometer)**  
 
 
-# ***\*kilogram*** n
+# ***\#kilogram*** n
 英音 'kɪləɡræm     美音 'kɪləɡræm  
 
 | 词频 2 |  
@@ -476,7 +457,7 @@ killing /'kɪlɪŋ/ n [C]
 ### 1.*高义频：* **千克 (kg)**  
 
 
-# ***\*kilogramme*** n
+# ***\#kilogramme*** n
 英音 'kɪləɡræm     美音 'kɪləɡræm  
 
 | 词频 2 |  
@@ -488,7 +469,7 @@ killing /'kɪlɪŋ/ n [C]
 ### 1.*高义频：* **千克 (kg)**  
 
 
-# ***\*kilometer*** n
+# ***\#kilometer*** n
 英音 'kɪləmiːtə(r)     美音 kɪ'lɑːmɪtər  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -500,7 +481,7 @@ killing /'kɪlɪŋ/ n [C]
 ### 1.*高义频：* **千米；公里 (k / km)**  
 
 
-# ***\*kilometre*** n
+# ***\#kilometre*** n
 英音 'kɪləmiːtə(r)     美音 kɪ'lɑːmɪtər  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -512,7 +493,7 @@ killing /'kɪlɪŋ/ n [C]
 ### 1.*高义频：* **千米；公里 (k / km)**  
 
 
-# ***\*kind*** n
+# ***\#kind*** n
 英音 kaɪnd     美音 kaɪnd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -523,14 +504,13 @@ killing /'kɪlɪŋ/ n [C]
 ---
 ### 1.*高义频：* **种类 (sort / type)：**  
 
- > **all kinds of**  
- > You can find all kinds of information in just a few minutes on the Internet.   
+ > You can find **all kinds of** information in just a few minutes on the Internet.   
  > 在互联网上，只要几分钟你就能找到各种各样的信息。    
 
 
 固定搭配
 ---
-## \*a kind of 
+## \#a kind of 
 1.**…的一种；有几分；稍稍：**  
 
  > An e-mail is usually a kind of informal letter.  
@@ -539,7 +519,7 @@ killing /'kɪlɪŋ/ n [C]
  > I had a kind of feeling that this might happen.  
  > 我当时就隐约感觉到会出这事。    
 
-## \*kind of 
+## \#kind of 
 1.**有点儿；有几分**  
 英译 slightly; in some ways：
 
@@ -547,7 +527,7 @@ killing /'kɪlɪŋ/ n [C]
  > 你没出现我有点不安。    
 
 
-# ***\*kind*** adj
+# ***\#kind*** adj
 英音 kaɪnd     美音 kaɪnd  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -556,25 +536,23 @@ killing /'kɪlɪŋ/ n [C]
 ---
 ### 1.*高义频：* **仁慈的；友爱的；好意的：**  
 
- > **It was,kind of you**  
- > It was really very kind of you to give me a lift home.  
+ > **It was** really very **kind of you** to give me a lift home.  
  > 你让我搭便车回家，真是太好了。  （ ）  
 
- > **kind to**  
- > To avoid conflicts, we should be kind to one another.  
+ > To avoid conflicts, we should be **kind to** one another.  
  > 为了避免冲突，我们应该友好相待。  （2012 江苏书面表达改）  
 
 
 固定搭配
 ---
-## \*be so kind as to / be kind enough to 
+## \#be so kind as to / be kind enough to 
 1.**请您费心：**  
 
  > Will you be so kind as to shut the door?   
  > 请您关上门好吗？    
 
 
-# ***\*kindergarten*** n
+# ***\#kindergarten*** n
 英音 'kɪndəɡɑːtn     美音 'kɪndərɡɑːrtn  
 
 | 词频 3 |  
@@ -593,7 +571,7 @@ killing /'kɪlɪŋ/ n [C]
 答案：
 1. kindergarten  
 
-# ***\*kindly*** adv
+# ***\#kindly*** adv
 英音 'kaɪndli     美音 'kaɪndli  
 
 | 词频 2 |  
@@ -603,7 +581,7 @@ killing /'kɪlɪŋ/ n [C]
 ### 1.*高义频：* **友善地；亲切地；[正式用语] [用于客套语] 请**  
 
 
-# ***\*kindly*** adj
+# ***\#kindly*** adj
 英音 'kaɪndli     美音 'kaɪndli  
 
 | 词频 2 |  
@@ -613,7 +591,7 @@ killing /'kɪlɪŋ/ n [C]
 ### 1.*高义频：* **友善的；亲切的 (kind)**  
 
 
-# ***\*kindness*** n
+# ***\#kindness*** n
 英音 'kaɪndnəs     美音 'kaɪndnəs  
 
 | 词频 4 |  
@@ -633,12 +611,11 @@ killing /'kɪlɪŋ/ n [C]
 
 ### 2.*低义频：* **[C] 好心的行为；好事； (一番) 好意：**  
 
- > **do me a kindness**  
- > Will you do me a kindness?   
+ > Will you **do me a kindness**?   
  > 你能帮帮我吗?    
 
 
-# ***\*king*** n
+# ***\#king*** n
 英音 kɪŋ     美音 kɪŋ  
 
 | 词频 4 | 书面 3 |  
@@ -650,7 +627,7 @@ killing /'kɪlɪŋ/ n [C]
 ### 1.*高义频：* **国王；大王**  
 
 
-# ***\*kiss*** v
+# ***\#kiss*** v
 英音 kɪs     美音 kɪs  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -662,21 +639,20 @@ killing /'kɪlɪŋ/ n [C]
  > She kissed her baby on the cheek.   
  > 她在宝宝的脸上亲了一下。    
 
- > **kiss sb good night / goodbye**  
- > kiss sb good night / goodbye   
+ > **kiss sb good night / goodbye**   
  > 与某人亲吻道晚安/说再见    
 
 
 固定搭配
 ---
-## \*kiss sth goodbye / kiss goodbye to sth
+## \#kiss sth goodbye / kiss goodbye to sth
 1.**[非正式用语] 放弃某事物：**  
 
  > I might as well kiss the scholarship goodbye.   
  > 我还是放弃奖学金算了。  （2008 北京）  
 
 
-# ***\*kiss*** n
+# ***\#kiss*** n
 英音 kɪs     美音 kɪs  
 
 | 词频 3 |  
@@ -687,12 +663,11 @@ killing /'kɪlɪŋ/ n [C]
 ---
 ### 1.*高义频：* **吻；亲：**  
 
- > **gave,a kiss**  
- > The mother gave her little daughter a kiss.   
+ > The mother **gave** her little daughter **a kiss**.   
  > 妈妈亲了一下小女儿。    
 
 
-# ***\*kit*** n
+# ***\#kit*** n
 英音 kɪt     美音 kɪt  
 
 | 词频 1 |  
@@ -705,7 +680,7 @@ killing /'kɪlɪŋ/ n [C]
  > 一套急救用品    
 
 
-# ***\*kitchen*** n
+# ***\#kitchen*** n
 英音 'kɪtʃɪn     美音 'kɪtʃɪn  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -724,7 +699,7 @@ killing /'kɪlɪŋ/ n [C]
 答案：
 1. kitchen  
 
-# ***\*kite*** n
+# ***\#kite*** n
 英音 kaɪt     美音 kaɪt  
 
 | 词频 4 |  
@@ -739,7 +714,7 @@ killing /'kɪlɪŋ/ n [C]
  > 放风筝    
 
 
-# ***\*kitten*** n
+# ***\#kitten*** n
 英音 'kɪtn     美音 'kɪtn  
 
 | 词频 1 |  
@@ -751,7 +726,7 @@ killing /'kɪlɪŋ/ n [C]
 ### 1.*高义频：* **小猫**  
 
 
-# ***\*knee*** n
+# ***\#knee*** n
 英音 niː     美音 niː  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -763,14 +738,13 @@ killing /'kɪlɪŋ/ n [C]
 ### 1.*高义频：* **膝盖：**  
 
  > **on one's knee**  
- > on one's knee  
  > 在某人膝上    
 
  > be / fall on one's knees  
  > 跪着/跪下    
 
 
-# ***\*knife*** n
+# ***\#knife*** n
 英音 naɪf     美音 naɪf  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -782,7 +756,7 @@ killing /'kɪlɪŋ/ n [C]
 ### 1.*高义频：* **(pl knives) 刀；餐刀：**  
 
 
-# ***\*knight*** n
+# ***\#knight*** n
 英音 naɪt     美音 naɪt  
 
 | 词频 1 |  
@@ -794,7 +768,7 @@ killing /'kɪlɪŋ/ n [C]
 ### 1.*高义频：* **骑士；爵士**  
 
 
-# ***\*knighthood*** n
+# ***\#knighthood*** n
 英音 'naɪthʊd     美音 'naɪthʊd  
 
   
@@ -804,7 +778,7 @@ killing /'kɪlɪŋ/ n [C]
 ### 1.**（英国的）爵士封号或头衔**  
 
 
-# ***\*knock*** v
+# ***\#knock*** v
 英音 nɒk     美音 nɑːk  
 
 | 词频 4 | 口语 3 | 书面 1 |  
@@ -813,32 +787,28 @@ killing /'kɪlɪŋ/ n [C]
 ---
 ### 1.*高义频：* **vt & vi 敲；击；碰；撞：**  
 
- > **knocks,at**  
- > Fortune knocks once at least at every man's gate.  
+ > Fortune **knocks** once **at** least at every man's gate.  
  > 人人都有走运的一天。    
 
- > **knocked,into**  
- > I knocked the nail into the board.   
+ > I **knocked** the nail **into** the board.   
  > 我把钉子钉入了木板。    
 
- > **knocked,on the head**  
- > I knocked him on the head.   
+ > I **knocked** him **on the head**.   
  > 我打了他的头。    
 
- > **knocked,on**  
- > She had knocked her head on a stone.   
+ > She had **knocked** her head **on** a stone.   
  > 她的头撞上了石头。  （2009 江西）  
 
 
 固定搭配
 ---
-## \*knock at / on
+## \#knock at / on
 1.**敲 (门、窗等)：**  
 
  > Knock at the door before entering, please.   
  > 进来之前请敲门。    
 
-## \*knock down
+## \#knock down
 1.*高义频：* **击倒；撞倒：**  
 
  > I was almost knocked down by a cyclist riding on the pavement.  
@@ -849,26 +819,26 @@ killing /'kɪlɪŋ/ n [C]
  > These old buildings will sooner or later be knocked down.   
  > 这些老房子迟早得拆掉。    
 
-## \*knock into 
+## \#knock into 
 1.**撞在…上：**  
 
  > He was in such a hurry that he almost knocked into me.   
  > 他如此匆忙，差点儿撞到我身上。    
 
-## \*knock off 
+## \#knock off 
 1.**[非正式用语] (从价格等中) 减去：**  
 
  > If you buy more than ten, they knock 20 pence off the price.   
  > 如果买10个以上的话，他们会便宜20便士。    
 
-## \*knock over 
+## \#knock over 
 1.**撞倒；打翻：**  
 
  > Roy’s father was knocked over by a car.   
  > 罗伊的爸爸被车撞倒了。  （外研⑥ – 3）  
 
 
-# ***\*knock*** n
+# ***\#knock*** n
 英音 nɒk     美音 nɑːk  
 
 | 词频 4 |  
@@ -879,12 +849,11 @@ killing /'kɪlɪŋ/ n [C]
 ---
 ### 1.*高义频：* **敲；打；敲击声：**  
 
- > **knock at / on**  
- > There is a knock at / on the door.   
+ > There is a **knock at / on** the door.   
  > 有人敲门。    
 
 
-# ***\*knot*** n
+# ***\#knot*** n
 英音 nɒt     美音 nɑːt  
 
 | 词频 1 |  
@@ -897,7 +866,7 @@ killing /'kɪlɪŋ/ n [C]
  > 中国结    
 
 
-# ***\*know*** v
+# ***\#know*** v
 英音 nəʊ     美音 noʊ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -909,7 +878,6 @@ killing /'kɪlɪŋ/ n [C]
 ### 1.**[不用于进行时] 知道；懂得：**  
 
  > **as far as I know**  
- > as far as I know  
  > 据我所知    
 
  > Only a fool thinks he knows everything.  
@@ -944,7 +912,7 @@ killing /'kɪlɪŋ/ n [C]
 
 固定搭配
 ---
-## \*be known as 
+## \#be known as 
 1.**以…而出名；被称作；被认为：**  
 
  > Detroit was known as the automobile capital of the world.   
@@ -953,36 +921,35 @@ killing /'kɪlɪŋ/ n [C]
  > Today he is well known as a writer.   
  > 如今他是一个很有名气的作家。    
 
-## \*be known for 
+## \#be known for 
 1.**因…而闻名 (be famous for)：**  
 
  > Guilin is known for its beautiful scenery.   
  > 桂林因风景秀丽而闻名。    
 
-## \*be known to 
+## \#be known to 
 1.**为…所熟知：**  
 
  > As is known to everybody, the moon travels round the earth once every month.   
  > 众所周知，月球每月绕地球一圈。    
 
-## \*know about 
+## \#know about 
 1.**了解；知道…的情况：**  
 
  > I happened to know about him.   
  > 我恰好了解他的一些情况。    
 
- > **don't know about you,but**  
- > I don't know about you, but I'm ready for something to eat.  
+ > I **don't know about you**, **but** I'm ready for something to eat.  
  > 我不知道你怎么办，反正我要吃点东西。    
 
-## \*know of 
+## \#know of 
 1.**知道；听说：**  
 
  > I don't know him, but I know of him.  
  > 我不认识他，但听说过他。    
 
 
-# ***\*knowledge*** n
+# ***\#knowledge*** n
 英音 'nɒlɪdʒ     美音 'nɑːlɪdʒ  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -994,7 +961,6 @@ killing /'kɪlɪŋ/ n [C]
 ### 1.*高义频：* **知识；学问：**  
 
  > **acquire / gain knowledge**  
- > acquire / gain knowledge  
  > 获取知识    
 
  > The research program broadened students' knowledge.  
@@ -1003,18 +969,16 @@ killing /'kɪlɪŋ/ n [C]
 Notes: “学到知识”不说learn / get knowledge，而说 gain / obtain / acquire knowledge。  
 ### 2.*高义频：* **[可与不定冠词连用] 知道；理解；认识：**  
 
- > **have a good knowledge of**  
- > They have a good knowledge of English but little do they know about German.   
+ > They **have a good knowledge of** English but little do they know about German.   
  > 他们通晓英语，但不怎么懂德语。    
 
- > **had no knowledge of**  
- > We had no knowledge of that incident.   
+ > We **had no knowledge of** that incident.   
  > 我们对那次事件一无所知。    
 
 
 固定搭配
 ---
-## \*to (the best of) sb's knowledge
+## \#to (the best of) sb's knowledge
 1.**据某人所知**  
 
 
@@ -1025,7 +989,7 @@ Notes: “学到知识”不说learn / get knowledge，而说 gain / obtain / ac
 答案：
 1. knowledges → knowledge  
 
-# ***\*knuckle*** n
+# ***\#knuckle*** n
 英音 'nʌkl     美音 'nʌkl  
 
 | 词频 1 |  

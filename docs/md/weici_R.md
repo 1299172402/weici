@@ -1,6 +1,6 @@
 # Rr
 
-# ***\*rabbit*** n
+# ***\#rabbit*** n
 英音 'ræbɪt     美音 'ræbɪt  
 
 | 词频 2 |  
@@ -12,7 +12,7 @@
 ### 1.*高义频：* **兔子**  
 
 
-# ***\*race*** n
+# ***\#race*** n
 英音 reɪs     美音 reɪs  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -24,8 +24,7 @@
  > compete in / drop out of a race   
  > 参加/退出比赛    
 
- > **a race against time**  
- > Finishing this project by December is going to be a race against time.   
+ > Finishing this project by December is going to be **a race against time**.   
  > 要在12月之前完成这个项目，我们需要争分夺秒。    
 
 ### 2.*高义频：* **[U] 竞争：**  
@@ -34,7 +33,7 @@
  > 人们正在竞相开发更加环保的能源。    
 
 
-# ***\*race*** v
+# ***\#race*** v
 英音 reɪs     美音 reɪs  
 
 | 词频 5 |  
@@ -53,7 +52,7 @@
 ---
 racing /'reɪsɪŋ/    
 
-# ***\*race*** n
+# ***\#race*** n
 英音 reɪs     美音 reɪs  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -67,12 +66,11 @@ racing /'reɪsɪŋ/
 
 ### 2.*低义频：* **[C] (生物的) 种；属；类：**  
 
- > **The human race**  
- > The human race is using up Earth’s resources.   
+ > **The human race** is using up Earth’s resources.   
  > 人类正在逐渐用尽地球的资源。  （译林⑤ – 3）  
 
 
-# ***\*racer*** n
+# ***\#racer*** n
 英音 'reɪsə(r)     美音 'reɪsər  
 
 | 词频 1 |  
@@ -82,7 +80,7 @@ racing /'reɪsɪŋ/
 ### 1.**赛车手**  
 
 
-# ***\*racial*** adj
+# ***\#racial*** adj
 英音 'reɪʃl     美音 'reɪʃl  
 
 | 词频 1 |  
@@ -95,7 +93,7 @@ racing /'reɪsɪŋ/
  > 种族歧视    
 
 
-# ***\*racism*** n
+# ***\#racism*** n
 英音 'reɪsɪzəm     美音 'reɪsɪzəm  
 
 | 词频 3 |  
@@ -105,7 +103,7 @@ racing /'reɪsɪŋ/
 ### 1.**种族主义**  
 
 
-# ***\*radar*** n
+# ***\#radar*** n
 英音 'reɪdɑː(r)     美音 'reɪdɑːr  
 
 | 词频 2 |  
@@ -117,7 +115,7 @@ racing /'reɪsɪŋ/
 ### 1.*高义频：* **雷达**  
 
 
-# ***\*radiation*** n
+# ***\#radiation*** n
 英音 ˌreɪdi'eɪʃn     美音 ˌreɪdi'eɪʃn  
 
 | 词频 2 |  
@@ -132,7 +130,7 @@ racing /'reɪsɪŋ/
  > 核辐射    
 
 
-# ***\*radio*** n
+# ***\#radio*** n
 英音 'reɪdiəʊ     美音 'reɪdioʊ  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -143,12 +141,10 @@ racing /'reɪsɪŋ/
 ---
 ### 1.*高义频：* **[U] 无线电； (无线电) 广播节目：**  
 
- > **by radio**  
- > send a message by radio  
+ > send a message **by radio**  
  > 用无线电发报    
 
- > **on / over / upon the radio**  
- > We heard the news on / over / upon the radio.   
+ > We heard the news **on / over / upon the radio**.   
  > 我们从无线电广播中听到这条新闻。    
 
 ### 2.*高义频：* **[C] 无线电报；收音机：**  
@@ -160,7 +156,7 @@ racing /'reɪsɪŋ/
  > 把收音机的音量调大/小    
 
 
-# ***\*radioactive*** adj
+# ***\#radioactive*** adj
 英音 ˌreɪdiəʊ'æktɪv     美音 'reɪdioʊ'æktɪv  
 
 | 词频 1 |  
@@ -170,7 +166,7 @@ racing /'reɪsɪŋ/
 ### 1.*高义频：* **放射性的**  
 
 
-# ***\*radioactivity*** n
+# ***\#radioactivity*** n
 英音 ˌreɪdiəʊæk'tɪvəti     美音 ˌreɪdiəʊæk'tɪvəti  
 
 | 词频 1 |  
@@ -182,7 +178,7 @@ racing /'reɪsɪŋ/
 ### 1.*高义频：* **放射性**  
 
 
-# ***\*radium*** n
+# ***\#radium*** n
 英音 'reɪdiəm     美音 'reɪdiəm  
 
 | 词频 1 |  
@@ -194,7 +190,7 @@ racing /'reɪsɪŋ/
 ### 1.*高义频：* **镭(符号Ra)**  
 
 
-# ***\*raft*** n
+# ***\#raft*** n
 英音 rɑːft     美音 ræft  
 
 | 词频 3 |  
@@ -204,7 +200,7 @@ racing /'reɪsɪŋ/
 ### 1.**木排；木筏**  
 
 
-# ***\*rag*** n
+# ***\#rag*** n
 英音 ræɡ     美音 ræɡ  
 
 | 词频 2 |  
@@ -218,11 +214,11 @@ racing /'reɪsɪŋ/
 
 固定搭配
 ---
-## \*in rags 
+## \#in rags 
 1.**衣衫褴褛：**  
 
 
-# ***\*raid*** n
+# ***\#raid*** n
 英音 reɪd     美音 reɪd  
 
 | 词频 1 |  
@@ -232,7 +228,7 @@ racing /'reɪsɪŋ/
 ### 1.**（警方的）突击搜查**  
 
 
-# ***\*raid*** vt
+# ***\#raid*** vt
 英音 reɪd     美音 reɪd  
 
 | 词频 1 |  
@@ -242,7 +238,7 @@ racing /'reɪsɪŋ/
 ### 1.**（警方的）突击搜查**  
 
 
-# ***\*rail*** n
+# ***\#rail*** n
 英音 reɪl     美音 reɪl  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -251,8 +247,7 @@ racing /'reɪsɪŋ/
 ---
 ### 1.*高义频：* **[U] 铁路（系统）：**  
 
- > **by,rail**  
- > I can’t make up my mind whether to go by road or rail.   
+ > I can’t make up my mind whether to go **by** road or **rail**.   
  > 我不知道该乘汽车还是火车去。    
 
 ### 2.*高义频：* **[C] 铁轨；轨道**  
@@ -260,7 +255,7 @@ racing /'reɪsɪŋ/
 ### 3.*高义频：* **[C] 栏杆；扶手：**  
 
 
-# ***\*railway*** n
+# ***\#railway*** n
 英音 'reɪlweɪ     美音 'reɪlweɪ  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -275,7 +270,7 @@ racing /'reɪsɪŋ/
  > 高速铁路    
 
 
-# ***\*rain*** n
+# ***\#rain*** n
 英音 reɪn     美音 reɪn  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -287,15 +282,13 @@ racing /'reɪsɪŋ/
 ### 1.*高义频：* **雨；雨水：**  
 
  > **in the rain**  
- > in the rain  
  > 冒雨；在雨中    
 
- > **It looks like rain**  
- > It looks like rain.  
+ > **It looks like rain**.  
  > 好像要下雨了。    
 
 
-# ***\*rain*** vi
+# ***\#rain*** vi
 英音 reɪn     美音 reɪn  
 
 | 词频 5 | 口语 1 |  
@@ -304,12 +297,11 @@ racing /'reɪsɪŋ/
 ---
 ### 1.*高义频：* **下雨；降雨：**  
 
- > **It’s raining cats and dogs**  
- > It’s raining cats and dogs outside.   
+ > **It’s raining cats and dogs** outside.   
  > 外面正下着倾盆大雨。    
 
 
-# ***\*rainbow*** n
+# ***\#rainbow*** n
 英音 'reɪnbəʊ     美音 'reɪnboʊ  
 
 | 词频 2 |  
@@ -321,7 +313,7 @@ racing /'reɪsɪŋ/
 ### 1.*高义频：* **彩虹**  
 
 
-# ***\*raincoat*** n
+# ***\#raincoat*** n
 英音 'reɪnkəʊt     美音 'reɪnkoʊt  
 
 | 词频 1 |  
@@ -333,7 +325,7 @@ racing /'reɪsɪŋ/
 ### 1.*高义频：* **雨衣**  
 
 
-# ***\*rainfall*** n
+# ***\#rainfall*** n
 英音 'reɪnfɔːl     美音 'reɪnfɔːl  
 
 | 词频 3 |  
@@ -345,7 +337,7 @@ racing /'reɪsɪŋ/
 ### 1.*高义频：* **(降) 雨量**  
 
 
-# ***\*rainforest*** n
+# ***\#rainforest*** n
 英音 'reɪnfɒrɪst     美音 'reɪnfɔːrɪst  
 
 | 词频 4 |  
@@ -357,7 +349,7 @@ racing /'reɪsɪŋ/
 ### 1.*高义频：* **热带雨林**  
 
 
-# ***\*rainy*** adj
+# ***\#rainy*** adj
 英音 'reɪni     美音 'reɪni  
 
 | 词频 3 |  
@@ -367,7 +359,7 @@ racing /'reɪsɪŋ/
 ### 1.*高义频：* **下雨的；多雨的**  
 
 
-# ***\*raise*** vt  重难点词汇
+# ***\#raise*** vt  重难点词汇
 英音 reɪz     美音 reɪz  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -387,35 +379,35 @@ racing /'reɪsɪŋ/
 ### 2.*高义频：* **提高；增加；提升**  
 英译 to increase the amount or level of sth：
 
- > **raise your voice**  
- > You raise your voice when you should reinforce your argument.   
+ > You **raise your voice** when you should reinforce your argument.   
  > 想强调论点时，你会提高嗓门。  （北师大⑧ – 23）  
 
- > **raise,awareness**  
- > Earth Day, marked on 22 April, is an annual event aiming to raise public awareness about environmental protection.  
+ > Earth Day, marked on 22 April, is an annual event aiming to **raise** public **awareness** about environmental protection.  
  > 每年4月22日是世界地球日，是旨在提高公众环境保定意识的活动。  （2019 北京）  
 
 #### 辨析 rise, raise
 两者都有“上升”、“增长”之意，但是用法不同。  
+**rise** 是不及物动词，不可接宾语。
+**raise** 是及物动词，其后可接宾语。
+ > raise salaries / prices / profits 加薪 / 涨价 / 增加利润  
+ >     
+
 
 ### 3.*高义频：* **筹 (款)**  
 英译 to collect money：
 
- > **raise money**  
- > Last week our school had a big fair in order to raise money for the disabled.   
+ > Last week our school had a big fair in order to **raise money** for the disabled.   
  > 上周，我们学校举办了一个大型义卖会为残疾人筹款。    
 
 ### 4.*高义频：* **提出**  
 英译 to introduce a subject that needs to be talked about or dealt with (bring up)：
 
- > **raised,question**  
- > Betty raised the important question of who will be in charge.   
+ > Betty **raised** the important **question** of who will be in charge.   
  > 贝蒂提出了一个重要问题，就是由谁来负责。    
 
 ### 5.*低义频：* **引起：**  
 
- > **raised,doubts**  
- > Some schools pay their students to encourage them to learn, which has raised many doubts.  
+ > Some schools pay their students to encourage them to learn, which has **raised** many **doubts**.  
  > 有些学校用钱激励学生学习，这引起了很多质疑。  （2010 广东书面表达改）  
 
 ### 6.*高义频：* **养育(bring up)；饲养 to look after a child or an animal until it’s grown up；种植：**  
@@ -438,7 +430,7 @@ racing /'reɪsɪŋ/
 答案：
 1. Raised  
 
-# ***\*raised*** adj
+# ***\#raised*** adj
 英音 reɪzd     美音 reɪzd  
 
 | 词频 4 |  
@@ -448,7 +440,7 @@ racing /'reɪsɪŋ/
 ### 1.**凸起的**  
 
 
-# ***\*random*** adj
+# ***\#random*** adj
 英音 'rændəm     美音 'rændəm  
 
 | 词频 2 |  
@@ -457,12 +449,11 @@ racing /'reɪsɪŋ/
 ---
 ### 1.*高义频：* **任意的；随机的；随便的：**  
 
- > **random choice**  
- > make a random choice  
+ > make a **random choice**  
  > 随机选择    
 
 
-# ***\*random*** n
+# ***\#random*** n
 英音 'rændəm     美音 'rændəm  
 
 | 词频 2 |  
@@ -471,14 +462,14 @@ racing /'reɪsɪŋ/
 
 固定搭配
 ---
-## \*at random 
+## \#at random 
 1.**任意地；随机地：**  
 
  > Choose any number at random.   
  > 随机抽取一个数字。    
 
 
-# ***\*range*** n  重难点词汇
+# ***\#range*** n  重难点词汇
 英音 reɪndʒ     美音 reɪndʒ  
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -488,47 +479,40 @@ racing /'reɪsɪŋ/
 ### 1.*高义频：* **一系列**  
 英译 a variety of things of a particular type：
 
- > **a range of**  
- > a range of services / products   
+ > **a range of** services / products   
  > 一整套服务/一系列产品    
 
- > **range of**  
- > our new range of hair products  
+ > our new **range of** hair products  
  > 我们的新护发产品系列    
 
- > **a wide range of**  
- > College students come from a wide range of social, cultural and economic backgrounds.  
+ > College students come from **a wide range of** social, cultural and economic backgrounds.  
  > 大学生们有着不同的社会、文化和经济背景。  （北师大⑧ – 23改）  
 
 ### 2.*高义频：* **范围；界限：**  
 
- > **age range**  
- > Most of the students are in the 16-19 age range.   
+ > Most of the students are in the 16-19 **age range**.   
  > 大部分学生的年龄在16到19岁之间。    
 
- > **beyond,range**  
- > The price was beyond our range, so we declined.    
+ > The price was **beyond** our **range**, so we declined.    
  > 那个价格超出了我们能承受的范围，所以我们拒绝了。  （2015 天津）  
 
 ### 3.*高义频：* **距离：**  
 
- > **at close range**  
- > Do not miss this opportunity to see whales at close range (= very close) on their annual migration south to the Antarctic.  
+ > Do not miss this opportunity to see whales **at close range** (= very close) on their annual migration south to the Antarctic.  
  > 不要错过近距离观看每年一度南下向南极洲迁徙的鲸群。  （人教⑦ – 3）  
 
 ### 4.*低义频：* **山脉：**  
 
- > **mountain range**  
- > Between Italy and France, there is a mountain range called the Alps.  
+ > Between Italy and France, there is a **mountain range** called the Alps.  
  > 在意大利和法国之间，有一座被称作阿尔卑斯山的山脉。  （外研③ – 1）  
 
 
 固定搭配
 ---
-## \*in / within range (of) 
+## \#in / within range (of) 
 1.**在 (…的) 范围内**  
 
-## \*out of range (of) 
+## \#out of range (of) 
 1.**超出(…的) 范围：**  
 
 
@@ -539,7 +523,7 @@ racing /'reɪsɪŋ/
 答案：
 1. range  
 
-# ***\*range*** v  重难点词汇
+# ***\#range*** v  重难点词汇
 英音 reɪndʒ     美音 reɪndʒ  
 
 | 词频 4 | 书面 1 | 阅读 3 |  
@@ -548,14 +532,12 @@ racing /'reɪsɪŋ/
 ---
 ### 1.*高义频：* **包括：**  
 
- > **ranging from,to**  
- > The show had a large audience, ranging from children to grandparents.  
+ > The show had a large audience, **ranging from** children **to** grandparents.  
  > 这个节目观众很多，从小孩子到爷爷奶奶一辈的都有。    
 
 ### 2.*高义频：* **(价格、水平、温度等) 处于某个范围之内：**  
 
- > **ranges between,and**  
- > The price ranges between $25 and $400.  
+ > The price **ranges between** $25 **and** $400.  
  > 价格在25美元到400美元之间。    
 
 ### 3.*低义频：* **漫步; 四处移动 (wander)**  
@@ -571,7 +553,7 @@ racing /'reɪsɪŋ/
 答案：
 1. ranging  
 
-# ***\*rank*** n
+# ***\#rank*** n
 英音 ræŋk     美音 ræŋk  
 
 | 词频 2 | 书面 1 | 阅读 2 |  
@@ -580,25 +562,22 @@ racing /'reɪsɪŋ/
 ---
 ### 1.*高义频：* **[U] & [C] 等级；地位；军衔：**  
 
- > **of the first rank**  
- > a painter of the first rank  
+ > a painter **of the first rank**  
  > 一流的画家    
 
  > a man of rank   
  > 有地位的人    
 
- > **hold,rank of**  
- > hold the rank of captain   
+ > **hold** the **rank of** captain   
  > 拥有上尉军衔    
 
 ### 2.*低义频：* **[C] 行；列；[the ranks] (团体或组织的) 成员：**  
 
- > **joined the ranks of**  
- > That summer I was fired and joined the ranks of the unemployed.   
+ > That summer I was fired and **joined the ranks of** the unemployed.   
  > 那年夏天，我被解雇了，加入了失业者的行列。    
 
 
-# ***\*rank*** v
+# ***\#rank*** v
 英音 ræŋk     美音 ræŋk  
 
 | 词频 2 | 阅读 2 |  
@@ -607,19 +586,17 @@ racing /'reɪsɪŋ/
 ---
 ### 1.*高义频：* **把…分等级；属于某等级：**  
 
- > **rank,as**  
- > They rank Lang Lang as a first-class pianist.   
+ > They **rank** Lang Lang **as** a first-class pianist.   
  > 他们把郎朗评价为一流的钢琴家。    
 
  > — How do you behave at school?  
  > 你在学校表现如何？    
 
- > **rank high**  
- > — Very well. I rank high in my class.  
+ > — Very well. I **rank high** in my class.  
  > 很好。我在班里名列前茅。    
 
 
-# ***\*ranking*** n
+# ***\#ranking*** n
 英音 'ræŋkIŋ     美音 'ræŋkIŋ  
 
   
@@ -629,7 +606,7 @@ racing /'reɪsɪŋ/
 ### 1.**排行,排名**  
 
 
-# ***\*rap*** n
+# ***\#rap*** n
 英音 ræp     美音 ræp  
 
 | 词频 2 |  
@@ -641,7 +618,7 @@ racing /'reɪsɪŋ/
 ### 1.*高义频：* **说唱乐**  
 
 
-# ***\*rap*** v
+# ***\#rap*** v
 英音 ræp     美音 ræp  
 
 | 词频 2 |  
@@ -651,7 +628,7 @@ racing /'reɪsɪŋ/
 ### 1.**敲击；（说唱歌中的）念白**  
 
 
-# ***\*rape*** n
+# ***\#rape*** n
 英音 reɪp     美音 reɪp  
 
 | 词频 1 |  
@@ -661,7 +638,7 @@ racing /'reɪsɪŋ/
 ### 1.**强奸**  
 
 
-# ***\*rapid*** adj
+# ***\#rapid*** adj
 英音 'ræpɪd     美音 'ræpɪd  
 
 | 词频 3 | 书面 1 |  
@@ -673,15 +650,21 @@ racing /'reɪsɪŋ/
  > make rapid progress   
  > 进步很快    
 
- > **rapid development**  
- > with the rapid development of science and technology  
+ > with the **rapid development** of science and technology  
  > 随着科学技术的飞速发展    
 
 #### 辨析 fast, quick, rapid, swift
 四者都可用作形容词，表示“快的”、“迅速的”等意。  
+**fast** 侧重指人或物体移动或能够移动得很快,常指 car, train, horse, runner 等move quickly。
+**quick** 侧重指做某事用时很少或毫无拖延，常修饰 glance, look, reply, decision, way 等。
+**rapid** 多用来指事物变化的速度快，不表示物体移动得快或做事快。
+**swift** 通常指事物发生或完成的速度快而及时，较为正式，常用于书面语。
+ > The government took swift action.  
+ > 政府立即采取了行动。    
 
 
-# ***\*rapidly*** adv
+
+# ***\#rapidly*** adv
 英音 'ræpɪdli     美音 'ræpɪdli  
 
 | 词频 4 | 书面 1 |  
@@ -694,7 +677,7 @@ racing /'reɪsɪŋ/
  > 近几年，共享经济发展迅猛。    
 
 
-# ***\*rapids*** n
+# ***\#rapids*** n
 英音 'ræpɪdz     美音 'ræpɪdz  
 
 | 词频 1 |  
@@ -704,7 +687,7 @@ racing /'reɪsɪŋ/
 ### 1.*高义频：* **(pl)急流；湍流**  
 
 
-# ***\*rapper*** n
+# ***\#rapper*** n
 英音 'ræpə(r)     美音 'ræpər  
 
 | 词频 1 |  
@@ -714,7 +697,7 @@ racing /'reɪsɪŋ/
 ### 1.**说唱乐歌手**  
 
 
-# ***\*rare*** adj
+# ***\#rare*** adj
 英音 reə(r)     美音 rer  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -730,7 +713,7 @@ racing /'reɪsɪŋ/
 ### 2.*低义频：* **(肉) 半熟的；半生的**  
 
 
-# ***\*rarely*** adv
+# ***\#rarely*** adv
 英音 'reəli     美音 'rerli  
 
 | 词频 3 | 书面 2 | 阅读 3 |  
@@ -756,7 +739,7 @@ Notes: rarely和seldom都表示“很少”、“不经常”，但seldom更正�
 答案：
 1. Rarely  
 
-# ***\*rascal*** n
+# ***\#rascal*** n
 英音 'rɑːskl     美音 'ræskl  
 
 | 词频 1 |  
@@ -766,7 +749,7 @@ Notes: rarely和seldom都表示“很少”、“不经常”，但seldom更正�
 ### 1.**恶棍；无赖**  
 
 
-# ***\*rat*** n
+# ***\#rat*** n
 英音 ræt     美音 ræt  
 
 | 词频 1 |  
@@ -778,7 +761,7 @@ Notes: rarely和seldom都表示“很少”、“不经常”，但seldom更正�
 ### 1.*高义频：* **老鼠**  
 
 
-# ***\*rate*** n
+# ***\#rate*** n
 英音 reɪt     美音 reɪt  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -789,42 +772,38 @@ Notes: rarely和seldom都表示“很少”、“不经常”，但seldom更正�
 ---
 ### 1.*高义频：* **比率：**  
 
- > **birth,unemployment / success / heart rate**  
- > the birth / death / unemployment / success / heart rate  
+ > the **birth** / death / **unemployment / success / heart rate**  
  > 出生 / 死亡 / 失业 / 成功 / 心率    
 
 ### 2.*高义频：* **速度；速率：**  
 
- > **at an alarming rate**  
- > Our money was running out at an alarming rate.   
+ > Our money was running out **at an alarming rate**.   
  > 我们的钱正在以惊人的速度消耗殆尽。    
 
 ### 3.*低义频：* **价格；费用：**  
 
  > **exchange / interest rates**  
- > exchange / interest rates  
  > 汇率 / 利率    
 
- > **at,a,rate**  
- > be sold at a high rate  
+ > be sold **at** **a** high **rate**  
  > 以高价出售    
 
 
 固定搭配
 ---
-## \*at any rate 
+## \#at any rate 
 1.**无论如何 (anyway)：**  
 
  > At any rate, the medical supplies will reach you within a week.   
  > 无论如何，医疗物资将于一周内运到你处。    
 
-## \*at this / that rate 
+## \#at this / that rate 
 1.**这样 / 那样的话：**  
 
  > If you go on at that rate, you will damage your health.   
  > 如果继续那样的话，你会把身体搞垮的。    
 
-## \*first-rate / second-rate / third-rate
+## \#first-rate / second-rate / third-rate
 1.**一流的 / 二流的 / 三流的**  
 
 
@@ -835,7 +814,7 @@ Notes: rarely和seldom都表示“很少”、“不经常”，但seldom更正�
 答案：
 1. speed / rate  
 
-# ***\*rate*** vt
+# ***\#rate*** vt
 英音 reɪt     美音 reɪt  
 
 | 词频 4 |  
@@ -846,12 +825,10 @@ Notes: rarely和seldom都表示“很少”、“不经常”，但seldom更正�
 ---
 ### 1.*高义频：* **对...评估；对...评价：**  
 
- > **highly rated**  
- > The university is highly rated for its research.   
+ > The university is **highly rated** for its research.   
  > 这所大学因其研究工作而受到高度评价。    
 
- > **rated as**  
- > The show was rated as a great success by critics.   
+ > The show was **rated as** a great success by critics.   
  > 评论家认为这场演出是一次巨大的成功。    
 
 ### 2.*高义频：* **给...划分等级：**  
@@ -860,7 +837,7 @@ Notes: rarely和seldom都表示“很少”、“不经常”，但seldom更正�
  > 当学生按照学科的重要性对其划分等级时，文科不可避免地被列在最后。  （2009 北京改）  
 
 
-# ***\*rather*** adv  重难点词汇
+# ***\#rather*** adv  重难点词汇
 英音 'rɑːðə(r)     美音 'ræðər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -875,27 +852,32 @@ Notes: rarely和seldom都表示“很少”、“不经常”，但seldom更正�
 
 #### 辨析 fairly, quite, rather, pretty
 四者都有“相当”之意。  
+**fairly** 不与动词连用。不与too及比较级连用。
+**quite** 不与too及比较级连用。修饰与不定冠词连用的形容词时须放在不定冠词之前。当修饰无比较级的形容词或副词时，意为“完全”、“十分”。
+**rather** 可与too及比较级连用。修饰与不定冠词连用的形容词时，放在不定冠词前或后都可以。
+**pretty** 不与动词连用，也不与too及比较级连用。
+ > pretty good  
+ > 相当好    
+
 
 ### 2.*高义频：* **相反地；反而：**  
 
- > **not,Rather**  
- > It’s not cold. Rather, it’s very hot.   
+ > It’s **not** cold. **Rather**, it’s very hot.   
  > 天气不冷，反倒是很热。    
 
- > **but rather**  
- > Online voting sometimes does not depend on the strong points of the competitors, but rather on how many social networking resources they have.  
+ > Online voting sometimes does not depend on the strong points of the competitors, **but rather** on how many social networking resources they have.  
  > 在线投票有时不是靠选手的实力，而是靠有多少社交网络资源。  （2016 江苏书面表达改）  
 
 
 固定搭配
 ---
-## \*(or) rather 
+## \#(or) rather 
 1.**更确切地说：**  
 
  > He worked till late last night, or rather, early this morning.   
  > 他昨晚一直工作到深夜，更确切地说，是到今天凌晨。    
 
-## \*rather than 
+## \#rather than 
 1.**而不：**  
 
  > It is better to express your anger, rather than bottle it up.   
@@ -904,7 +886,7 @@ Notes: rarely和seldom都表示“很少”、“不经常”，但seldom更正�
  > When classical, rather than pop, music was playing, diners spent more.  
  > 当播放古典音乐而不是流行音乐时，用餐者们消费了更多。  （2018 江苏）  
 
-## \*would rather ... (than) 
+## \#would rather ... (than) 
 1.**宁愿 / 宁可… (而不)：**  
 
  > — Will you join us in the game?  
@@ -935,7 +917,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 答案：
 1. rather than  2. Rather  
 
-# ***\*rating*** n
+# ***\#rating*** n
 英音 'reɪtɪŋ     美音 'reɪtɪŋ  
 
 | 词频 2 |  
@@ -945,14 +927,13 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 ### 1.**等级；级别；排名：**  
 
  > **credit rating**  
- > credit rating  
  > (银行等作出的) 信用等级评定    
 
  > a rating of the Top Ten Restaurants  
  > 前10名最好的餐馆排名  （2018 江苏书面表达）  
 
 
-# ***\*ratio*** n
+# ***\#ratio*** n
 英音 'reɪʃiəʊ     美音 'reɪʃioʊ  
 
 | 词频 1 |  
@@ -964,7 +945,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 ### 1.*高义频：* **比；比例；比率**  
 
 
-# ***\*rational*** adj
+# ***\#rational*** adj
 英音 'ræʃnəl     美音 'ræʃnəl  
 
 | 词频 1 |  
@@ -974,7 +955,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 ### 1.**理智的；合理的**  
 
 
-# ***\*rattle*** v
+# ***\#rattle*** v
 英音 'rætl     美音 'rætl  
 
 | 词频 1 |  
@@ -984,7 +965,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 ### 1.**（使）发出咔嗒咔嗒的声音；使紧张或恐惧**  
 
 
-# ***\*raw*** adj
+# ***\#raw*** adj
 英音 rɔː     美音 rɔː  
 
 | 词频 2 | 书面 1 |  
@@ -1002,7 +983,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
  > 原材料    
 
 
-# ***\*ray*** n
+# ***\#ray*** n
 英音 reɪ     美音 reɪ  
 
 | 词频 2 |  
@@ -1017,7 +998,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
  > 太阳光线    
 
 
-# ***\*razor*** n
+# ***\#razor*** n
 英音 'reɪzə(r)     美音 'reɪzər  
 
 | 词频 1 |  
@@ -1029,7 +1010,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 ### 1.*高义频：* **剃刀；剃须刀**  
 
 
-# ***\*re-*** prefix
+# ***\#re-*** prefix
 英音 riː     美音 riː  
 
 | 词频 5 |  
@@ -1039,7 +1020,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 ### 1.*高义频：* **再；重新**  
 
 
-# ***\*reach*** v  重难点词汇
+# ***\#reach*** v  重难点词汇
 英音 riːtʃ     美音 riːtʃ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1051,8 +1032,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
  > As they were introduced, George reached his hand out to the Japanese student.   
  > 经介绍后，乔治向那位日本学生伸出了手。  （人教④ – 4）  
 
- > **reached for**  
- > I was quite surprised when I reached for my wallet and found it wasn’t there.  
+ > I was quite surprised when I **reached for** my wallet and found it wasn’t there.  
  > 当我要拿钱包却发现钱包不在时，大吃一惊。  （2013 湖北）  
 
 ### 2.*高义频：* **伸手 / 脚等够到：**  
@@ -1062,8 +1042,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 
 ### 3.*高义频：* **延伸 (到)；达到：**  
 
- > **reaches down to**  
- > Her hair reaches down to her waist.  
+ > Her hair **reaches down to** her waist.  
  > 她的头发垂到了腰间。    
 
  > Is the cable long enough to reach the socket?  
@@ -1076,11 +1055,16 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 
 #### 辨析 arrive, get, reach
 三者均有“到达”之意。  
+**arrive** 为不及物动词，后接in或at。一般到达国家、城市等大地方用in；到达城镇、乡村、车站等小地方用at。
+**get** 为不及物动词，后接to。
+**reach** 是及物动词，后接地点名词或副词。
+ > We won’t reach Miami / there till five or six o’clock.  
+ > 我们五六点钟才能赶到迈阿密 / 那里。    
+
 
 ### 5.*高义频：* **达到 (某阶段、数量或速度等)：**  
 
- > **reached a point**  
- > I have reached a point in my career where I needed to decide which way to go.   
+ > I have **reached a point** in my career where I needed to decide which way to go.   
  > 我的事业到了需要我决定何去何从的阶段。    
 
  > The obesity rate among French children has reached 17% — and is growing.  
@@ -1089,16 +1073,13 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 ### 6.*高义频：* **达成 (arrive at)；作出；实现**  
 英译 to achieve a particular aim：
 
- > **reach an agreement**  
- > The purpose of the meeting was to reach an agreement about next year’s prices.   
+ > The purpose of the meeting was to **reach an agreement** about next year’s prices.   
  > 这次会议的目的是对明年的价格达成协议。    
 
- > **reach a decision**  
- > Only after they had discussed the matter for several hours did they reach a decision.   
+ > Only after they had discussed the matter for several hours did they **reach a decision**.   
  > 关于那个问题，他们仅仅讨论了几个小时就作出了决定。  （2011 湖南）  
 
- > **reach the goal**  
- > To reach the goal, I must try my best to enter a good university.  
+ > To **reach the goal**, I must try my best to enter a good university.  
  > 为了实现这一目标，我必须尽全力考上一所好大学。  （2010 四川书面表达改）  
 
 ### 7.*低义频：* **与...取得联系**  
@@ -1112,14 +1093,13 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
  > The news reached us in London.   
  > 我们在伦敦得知了这个消息。    
 
- > **reached,audience**  
- > His book reached an even wider audience when it was made into a movie.  
+ > His book **reached** an even wider **audience** when it was made into a movie.  
  > 他的书被搬上银幕后被更广大的观众所熟知。    
 
 
 固定搭配
 ---
-## \*reach out to sb 
+## \#reach out to sb 
 1.**向某人提供 / 寻求帮助：**  
 
  > When you need help, reach out to the people who care about you.  
@@ -1133,7 +1113,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 答案：
 1. has been reached  
 
-# ***\*reach*** n  重难点词汇
+# ***\#reach*** n  重难点词汇
 英音 riːtʃ     美音 riːtʃ  
 
 | 词频 5 |  
@@ -1142,16 +1122,13 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 ---
 ### 1.*低义频：* **[U] (手、力量、影响的) 范围：**  
 
- > **out of / beyond my reach**  
- > The shelf is so high that it is well out of / beyond my reach.   
+ > The shelf is so high that it is well **out of / beyond my reach**.   
  > 架子太高，我根本够不到。    
 
- > **within the reach of**  
- > The new mobile phone is priced well within the reach of most people.   
+ > The new mobile phone is priced well **within the reach of** most people.   
  > 那款新手机的定价在大多数人承受的范围内。    
 
- > **within easy reach of**  
- > The beach is within easy reach of (= close to) the hotel.  
+ > The beach is **within easy reach of** (= close to) the hotel.  
  > 酒店离海滩很近。    
 
 ### 2.*低义频：* **[C] [常用复数] 河段；水域：**  
@@ -1169,7 +1146,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 答案：
 1. within  2. out of / beyond  
 
-# ***\*react*** vi
+# ***\#react*** vi
 英音 ri'ækt     美音 ri'ækt  
 
 | 词频 4 | 口语 1 | 书面 1 | 阅读 3 |  
@@ -1178,8 +1155,7 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 ---
 ### 1.*高义频：* **(对…) 作出反应 (respond)：**  
 
- > **react to**  
- > How did the students react to the monitor’s suggestion?  
+ > How did the students **react to** the monitor’s suggestion?  
  > 同学们对班长的提议有何反应？    
 
 ### 2.*高义频：* **产生不良反应**  
@@ -1190,12 +1166,11 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 
 ### 3.*低义频：* **起 (化学) 反应：**  
 
- > **reacts with,with**  
- > It shows us how iron reacts with air and with water.  
+ > It shows us how iron **reacts **with**** air and with water.  
  > 它向我们展示了铁是如何与空气和水起反应的。  （外研① – 5）  
 
 
-# ***\*reaction*** n
+# ***\#reaction*** n
 英音 ri'ækʃn     美音 ri'ækʃn  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -1207,18 +1182,16 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 ### 1.*高义频：* **反应；作用：**  
 
  > **sb’s first / immediate reaction**  
- > sb’s first / immediate reaction  
  > 某人的第一反应    
 
  > the reaction of metals with oxygen   
  > 金属和氧的反应    
 
- > **reaction to**  
- > the public reaction to the news  
+ > the public **reaction to** the news  
  > 公众对这条新闻的反应    
 
 
-# ***\*read*** v
+# ***\#read*** v
 英音 riːd     美音 riːd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1229,12 +1202,10 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 ---
 ### 1.*高义频：* **阅读；朗读：**  
 
- > **widely read**  
- > Her books are quite widely read.   
+ > Her books are quite **widely read**.   
  > 她的书有很多人阅读。    
 
- > **reading,to**  
- > He liked reading Harry Potter to his grandchildren.  
+ > He liked **reading** Harry Potter **to** his grandchildren.  
  > 他喜欢给孙子孙女读《哈利·波特》。    
 
 ### 2.*高义频：* **理解；读懂：**  
@@ -1255,14 +1226,13 @@ Notes: would rather后的that从句要用虚拟语气。从句用“一般过去
 
 ### 4.*高义频：* **读到；获悉：**  
 
- > **read about / of**  
- > I was shocked when I read about / of his death in today’s newspaper.   
+ > I was shocked when I **read about / of** his death in today’s newspaper.   
  > 当我从今天的报纸上获悉他的死讯时，感到很震惊。    
 
 
 固定搭配
 ---
-## \*read out 
+## \#read out 
 1.**大声读出；宣读**  
 
 
@@ -1277,7 +1247,7 @@ reader  /'riːdə(r)/ n [C]
 答案：
 1. have read  
 
-# ***\*read*** n
+# ***\#read*** n
 英音 riːd     美音 riːd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1291,7 +1261,7 @@ reader  /'riːdə(r)/ n [C]
 ---
 reader /'riːdə(r)/ n [C]  
 
-# ***\*reading*** n
+# ***\#reading*** n
 英音 'riːdɪŋ     美音 'riːdɪŋ  
 
 | 词频 5 | 书面 2 |  
@@ -1305,12 +1275,11 @@ reader /'riːdə(r)/ n [C]
  > Reading makes a full man; conference a ready man; and writing an exact man.   
  > 读书使人充实，讨论使人机敏，写作使人严谨。  （——培根）  
 
- > **light reading**  
- > I borrowed a bit of light reading for my holiday.   
+ > I borrowed a bit of **light reading** for my holiday.   
  > 我借了一些假期里看的轻松读物。    
 
 
-# ***\*ready*** adj
+# ***\#ready*** adj
 英音 'redi     美音 'redi  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -1352,7 +1321,7 @@ reader /'riːdə(r)/ n [C]
 ---
 readily  /'redɪli/ adv   
 
-# ***\*real*** adj
+# ***\#real*** adj
 英音 rɪəl,'riːəl     美音 'riːəl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1361,8 +1330,7 @@ readily  /'redɪli/ adv
 ---
 ### 1.*高义频：* **真的；真实的；真正的：**  
 
- > **in real life**  
- > in real life   
+ > **in real life**   
  > 在现实生活中    
 
  > the real world  
@@ -1373,9 +1341,17 @@ readily  /'redɪli/ adv
 
 #### 辨析 real, true
 二者都常译为“真的”。  
+**real** 表示确实存在、非想象的。
+**true** 表示与事实相符、真实而不是杜撰的。
+ > This is a **true story**.   
+ > 这是个真实的故事。    
+
+ > **Is it true that** he has left London?   
+ > 他真的离开伦敦了吗?    
 
 
-# ***\*real-life*** adj
+
+# ***\#real-life*** adj
 英音 ˌriːəl'laɪf     美音 ˌriːəl'laɪf  
 
 | 词频 2 |  
@@ -1385,7 +1361,7 @@ readily  /'redɪli/ adv
 ### 1.**真实的，现实生活中的**  
 
 
-# ***\*realise*** vt  重难点词汇
+# ***\#realise*** vt  重难点词汇
 英音 'riːəlaɪz;'riəlaɪz     美音 'riːəlaɪz  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1394,8 +1370,7 @@ readily  /'redɪli/ adv
 ---
 ### 1.*高义频：* **实现；使...成为现实：**  
 
- > **realize,ambitions**  
- > realize one’s dreams / hopes / ambitions   
+ > **realize** one’s dreams / hopes / **ambitions**   
  > 实现某人的梦想/希望/抱负    
 
  > Her wish to become a movie star was finally realized.  
@@ -1430,7 +1405,7 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 答案：
 1. realized  
 
-# ***\*realist*** n
+# ***\#realist*** n
 英音 'riːəlɪst     美音 'riːəlɪst  
 
 | 词频 1 |  
@@ -1440,7 +1415,7 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 ### 1.**现实主义作家**  
 
 
-# ***\*realistic*** adj
+# ***\#realistic*** adj
 英音 ˌriːə'lɪstɪk,ˌriə'lɪstɪk     美音 ˌriːə'lɪstɪk  
 
 | 词频 2 | 口语 1 | 阅读 1 |  
@@ -1458,7 +1433,7 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
  > 现实主义小说    
 
 
-# ***\*reality*** n
+# ***\#reality*** n
 英音 ri'æləti     美音 ri'æləti  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -1469,32 +1444,29 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 ---
 ### 1.*高义频：* **真实；现实；事实：**  
 
- > **reality show**  
- > a reality show  
+ > a **reality show**  
  > 真人秀节目    
 
  > This is not imagination, but reality.   
  > 这不是想象，而是现实。    
 
- > **face reality**  
- > She refuses to face reality.  
+ > She refuses to **face reality**.  
  > 她不肯面对现实。    
 
- > **become a reality**  
- > Will time travel ever become a reality?  
+ > Will time travel ever **become a reality**?  
  > 时光旅行真的会变成现实吗？    
 
 
 固定搭配
 ---
-## \*in reality 
+## \#in reality 
 1.**实际上；事实上：**  
 
  > Outwardly she seemed confident but in reality she felt extremely nervous.   
  > 表面上她似乎很自信，其实她感到极其紧张。    
 
 
-# ***\*realize*** vt  重难点词汇
+# ***\#realize*** vt  重难点词汇
 英音 'riːəlaɪz,'riəlaɪz     美音 'riːəlaɪz  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1503,8 +1475,7 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 ---
 ### 1.*高义频：* **实现；使...成为现实：**  
 
- > **realize,ambitions**  
- > realize one’s dreams / hopes / ambitions   
+ > **realize** one’s dreams / hopes / **ambitions**   
  > 实现某人的梦想/希望/抱负    
 
  > Her wish to become a doctor was finally realized.  
@@ -1539,7 +1510,7 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 答案：
 1. realized  
 
-# ***\*really*** adv
+# ***\#really*** adv
 英音 'riːəli,'riəli     美音 'riːəli  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1567,7 +1538,7 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 
 固定搭配
 ---
-## \*Not really. 
+## \#Not really. 
 1.**[表示否定，语气较弱] 不是。**  
 
 
@@ -1581,7 +1552,7 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 答案：
 1. Really  2. Not really  
 
-# ***\*realm*** n
+# ***\#realm*** n
 英音 relm     美音 relm  
 
 | 词频 1 |  
@@ -1591,7 +1562,7 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 ### 1.**王国；国度；领域；范围**  
 
 
-# ***\*reason*** n
+# ***\#reason*** n
 英音 'riːzn     美音 'riːzn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1600,12 +1571,10 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 ---
 ### 1.*高义频：* **[C] 原因；理由：**  
 
- > **reasons for saying**  
- > What are your reasons for saying that?   
+ > What are your **reasons for saying** that?   
  > 你那么说有什么理由？  （人教① – 1）  
 
- > **reason why**  
- > The reason why he didn’t pass the driving test is lacking practice.  
+ > The **reason why** he didn’t pass the driving test is lacking practice.  
  > 他没通过驾驶考试的原因是缺乏练习。    
 
  > Cities usually have a good reason for being where they are, like a nearby port or river.  
@@ -1613,6 +1582,14 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 
 #### 辨析 cause, reason
 二者都可用作名词，都含“原因”之意。  
+**cause** 侧重指导致某事发生的“起因”，常用 cause of 结构。
+**reason** 多指做某事或解释某事的“理由”、 “借口”。常用 reason for, reason why 结构。
+ > She gave no **reasons for** her decision.   
+ > 她没有解释自己为什么作出这个决定。    
+
+ > We’d like to know the **reason why** she didn’t accept the job.   
+ > 我们想知道她为什么拒绝了这份工作。    
+
 
 ### 2.*高义频：* **[U] 道理；情理**  
 英译 sensible judgment and understanding：
@@ -1623,32 +1600,32 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 
 固定搭配
 ---
-## \*by reason of 
+## \#by reason of 
 1.**由于：**  
 
  > He won the first prize by reason of hard work.  
  > 由于刻苦用功，他获得了一等奖。    
 
-## \*for some reason 
+## \#for some reason 
 1.**不知什么原因：**  
 
  > For some reason they cancelled the plan.  
  > 不知为什么他们取消了计划。    
 
-## \*in (all) reason 
+## \#in (all) reason 
 1.**明智；合情合理：**  
 
  > I would do anything in reason.   
  > 只要是合情合理的事，我都愿意做。    
 
-## \*with / without reason 
+## \#with / without reason 
 1.**有 / 没有道理：**  
 
  > He argued with much reason.   
  > 他辩论得头头是道。    
 
 
-# ***\*reason*** v
+# ***\#reason*** v
 英音 'riːzn     美音 'riːzn  
 
 | 词频 5 |  
@@ -1657,18 +1634,16 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 ---
 ### 1.*低义频：* **推理；劝说；辩论：**  
 
- > **Reasoning with**  
- > Reasoning with them is a waste of time.   
+ > **Reasoning with** them is a waste of time.   
  > 和他们讲道理是浪费时间。    
 
 ### 2.*低义频：* **推断；推论：**  
 
- > **reasoned,that**  
- > We reasoned (that) if we started early in the morning, we would get there by noon.  
+ > We **reasoned** (**that**) if we started early in the morning, we would get there by noon.  
  > 我们推断如果一大早出发的话，中午之前就能到达那里。    
 
 
-# ***\*reasonable*** adj
+# ***\#reasonable*** adj
 英音 'riːznəbl     美音 'riːznəbl  
 
 | 词频 4 | 口语 3 | 书面 2 | 阅读 3 |  
@@ -1686,8 +1661,7 @@ realization / realisation /ˌriːəlaɪ'zeɪʃn; ˌriəlaɪ'zeɪʃn/ n
 
 ### 2.*高义频：* **(价钱) 公道的 (fair)：**  
 
- > **reasonable enough**  
- > Ten pounds for a good dictionary seems reasonable enough.   
+ > Ten pounds for a good dictionary seems **reasonable enough**.   
  > 花10英镑买一部好词典，价钱算是够公道的了。    
 
 ### 3.*高义频：* **尚好的；过得去的 (average)：**  
@@ -1707,7 +1681,7 @@ reasonably /'riːznəbli/ adv
 答案：
 1. reasonable  
 
-# ***\*reasonably*** adv
+# ***\#reasonably*** adv
 英音 'riːznəbli     美音 'riːznəbli  
 
   
@@ -1717,7 +1691,7 @@ reasonably /'riːznəbli/ adv
 ### 1.**适度地；相当地；合理地；有理性地**  
 
 
-# ***\*rebel*** n
+# ***\#rebel*** n
 英音 rɪ'bel     美音 'rebl  
 
 | 词频 1 |  
@@ -1727,7 +1701,7 @@ reasonably /'riːznəbli/ adv
 ### 1.**造反者, 反叛者**  
 
 
-# ***\*rebirth*** n
+# ***\#rebirth*** n
 英音 ˌriː'bɜːθ     美音 ˌriː'bɜːrθ  
 
 | 词频 1 |  
@@ -1739,7 +1713,7 @@ reasonably /'riːznəbli/ adv
 ### 1.*高义频：* **再生；复活；复兴**  
 
 
-# ***\*rebuild*** vt
+# ***\#rebuild*** vt
 英音 ˌriː'bɪld     美音 ˌriː'bɪld  
 
 | 词频 2 |  
@@ -1754,7 +1728,7 @@ reasonably /'riːznəbli/ adv
  > 街道整洁一新，重建了许多房屋  （2016 北京改）  
 
 
-# ***\*recall*** vt
+# ***\#recall*** vt
 英音 rɪ'kɔːl     美音 rɪ'kɔːl  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -1779,7 +1753,7 @@ reasonably /'riːznəbli/ adv
 答案：
 1. recall  
 
-# ***\*receipt*** n
+# ***\#receipt*** n
 英音 rɪ'siːt     美音 rɪ'siːt  
 
 | 词频 1 | 口语 2 | 阅读 1 |  
@@ -1788,8 +1762,7 @@ reasonably /'riːznəbli/ adv
 ---
 ### 1.*低义频：* **[U] 收到：**  
 
- > **in receipt of**  
- > We are in receipt of your letter.   
+ > We are **in receipt of** your letter.   
  > 我们已收到您的来函。    
 
 ### 2.*高义频：* **[C] 收据；收条：**  
@@ -1798,7 +1771,7 @@ reasonably /'riːznəbli/ adv
  > 开收据    
 
 
-# ***\*receive*** vt  重难点词汇
+# ***\#receive*** vt  重难点词汇
 英音 rɪ'siːv     美音 rɪ'siːv  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -1815,20 +1788,18 @@ reasonably /'riːznəbli/ adv
 
 #### 辨析 accept, receive
 receive 表示客观上收到，accept 表示主观上愿意接受。  
-
  > She received a gift from him, but did not accept it.  
  > 她收到了他的礼物，但没有接受。    
 
+
 ### 2.*高义频：* **接纳；承认：**  
 
- > **well received**  
- > The film is well received by young people.   
+ > The film is **well received** by young people.   
  > 这部影片深受年轻人的欢迎。    
 
 ### 3.*低义频：* **接见；接待：**  
 
- > **receive,guests**  
- > receive foreign guests   
+ > **receive** foreign **guests**   
  > 接待/接见外宾    
 
 ### 4.*低义频：* **容纳；承受：**  
@@ -1844,7 +1815,7 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
 答案：
 1. receive  
 
-# ***\*receiver*** n
+# ***\#receiver*** n
 英音 rɪ'siːvə(r)     美音 rɪ'siːvər  
 
 | 词频 2 |  
@@ -1859,7 +1830,7 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
  > 无线电接收器    
 
 
-# ***\*recent*** adj
+# ***\#recent*** adj
 英音 'riːsnt     美音 'riːsnt  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -1868,12 +1839,11 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
 ---
 ### 1.*高义频：* **最近的；近来的：**  
 
- > **In recent years**  
- > In recent years, learning Chinese has become popular among people around the world.  
+ > **In recent years**, learning Chinese has become popular among people around the world.  
  > 近年来，学习汉语在世界各地的人当中流行起来。    
 
 
-# ***\*recently*** adv
+# ***\#recently*** adv
 英音 'riːsntli     美音 'riːsntli  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -1894,7 +1864,7 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
 答案：
 1. recently  
 
-# ***\*reception*** n
+# ***\#reception*** n
 英音 rɪ'sepʃn     美音 rɪ'sepʃn  
 
 | 词频 2 | 书面 1 |  
@@ -1903,18 +1873,15 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
 ---
 ### 1.*低义频：* **[C] [常用单数] 接待；欢迎；反响：**  
 
- > **a warm reception**  
- > He got a warm reception from the crowd.   
+ > He got **a warm reception** from the crowd.   
  > 他受到了人群的热烈欢迎。    
 
- > **met with mixed reception**  
- > His latest album has met with mixed reception from fans.   
+ > His latest album has **met with mixed reception** from fans.   
  > 歌迷对他的最新专辑反响各异。    
 
 ### 2.*高义频：* **[U] 接待处；前台：**  
 
- > **reception desk**  
- > Please leave your key at the reception desk.   
+ > Please leave your key at the **reception desk**.   
  > 请把你的钥匙放在前台。    
 
 ### 3.*低义频：* **[C] 招待会；欢迎会；宴会：**  
@@ -1924,12 +1891,11 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
 
 ### 4.*低义频：* **[U] (无线电等的) 接收效果：**  
 
- > **poor reception**  
- > There was very poor reception on my cell phone.  
+ > There was very **poor reception** on my cell phone.  
  > 我手机的信号很差。    
 
 
-# ***\*receptionist*** n
+# ***\#receptionist*** n
 英音 rɪ'sepʃənɪst     美音 rɪ'sepʃənɪst  
 
 | 词频 1 |  
@@ -1941,7 +1907,7 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
 ### 1.*高义频：* **接待员**  
 
 
-# ***\*recipe*** n
+# ***\#recipe*** n
 英音 'resəpi     美音 'resəpi  
 
 | 词频 1 | 口语 1 |  
@@ -1952,15 +1918,14 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
 ---
 ### 1.*高义频：* **食谱；秘诀：**  
 
- > **recipe for**  
- > — Can you tell us your recipe for happiness and a long life?  
+ > — Can you tell us your **recipe for** happiness and a long life?  
  > 您能告诉我们您快乐和长寿的秘诀吗？    
 
  > — Living every day to the full, definitely.  
  > 当然是充分度过每一天。  （2016 江苏）  
 
 
-# ***\*recite*** v
+# ***\#recite*** v
 英音 rɪ'saɪt     美音 rɪ'saɪt  
 
 | 词频 2 |  
@@ -1977,7 +1942,7 @@ receive 表示客观上收到，accept 表示主观上愿意接受。
 ---
 recitation /ˌresɪ'teɪʃn/ n   
 
-# ***\*reckon*** vt
+# ***\#reckon*** vt
 英音 'rekən     美音 'rekən  
 
 | 词频 1 | 口语 3 | 书面 1 |  
@@ -1989,7 +1954,7 @@ recitation /ˌresɪ'teɪʃn/ n
 ### 1.*高义频：* **认为；估计**  
 
 
-# ***\*recognisable*** adj
+# ***\#recognisable*** adj
 英音 'rekəgnaɪzəbl     美音 'rekəgnaɪzəbl  
 
 | 词频 1 |  
@@ -1999,7 +1964,7 @@ recitation /ˌresɪ'teɪʃn/ n
 ### 1.**能辨认的；能认出的**  
 
 
-# ***\*recognise*** vt
+# ***\#recognise*** vt
 英音 'rekəɡnaɪz     美音 'rekəɡnaɪz  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2013,19 +1978,16 @@ recitation /ˌresɪ'teɪʃn/ n
 
 ### 2.*高义频：* **(正式) 承认；公认；**  
 
- > **recognized,as**  
- > The British recognized America as an independent state.   
+ > The British **recognized** America **as** an independent state.   
  > 英国承认美国为一个独立的国家。    
 
- > **recognized as**  
- > Arthur Miller is universally recognized as one of the greatest dramatists of the 20th century.  
+ > Arthur Miller is universally **recognized as** one of the greatest dramatists of the 20th century.  
  > 阿瑟·米勒被公认为是20世纪最伟大的剧作家之一。  （2011 山东）  
 
 ### 3.*高义频：* **意识到**  
 英译 to accept or admit that sth is true：
 
- > **recognize what**  
- > I was surprised by her words, which made me recognize what silly mistakes I had made.  
+ > I was surprised by her words, which made me **recognize what** silly mistakes I had made.  
  > 我对她的话感到惊讶，那些话让我意识到自己犯了多么愚蠢的错误。    
 
 ### 4.*低义频：* **表扬；表彰：**  
@@ -2042,7 +2004,7 @@ recitation /ˌresɪ'teɪʃn/ n
 答案：
 1. recognise / recognize  2. recognizing  
 
-# ***\*recognition*** n
+# ***\#recognition*** n
 英音 ˌrekəɡ'nɪʃn     美音 ˌrekəɡ'nɪʃn  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -2053,12 +2015,10 @@ recitation /ˌresɪ'teɪʃn/ n
 ---
 ### 1.*高义频：* **认出；识别；承认：**  
 
- > **changed beyond all recognition**  
- > The town has changed beyond all recognition since I was last here.   
+ > The town has **changed beyond all recognition** since I was last here.   
  > 自从我上次离开这里，这座小城已变得让人认不出来了。    
 
- > **recognition that**  
- > There is general recognition that the study techniques of many students are weak.  
+ > There is general **recognition that** the study techniques of many students are weak.  
  > 人们普遍意识到很多学生的学习技能薄弱。    
 
  > face / speech recognition  
@@ -2072,7 +2032,7 @@ recitation /ˌresɪ'teɪʃn/ n
 答案：
 1. recognition  
 
-# ***\*recognize*** vt
+# ***\#recognize*** vt
 英音 'rekəɡnaɪz     美音 'rekəɡnaɪz  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2086,8 +2046,7 @@ recitation /ˌresɪ'teɪʃn/ n
 
 ### 2.*高义频：* **(正式) 承认；认识到：**  
 
- > **recognized,as**  
- > The British recognized America as an independent state.   
+ > The British **recognized** America **as** an independent state.   
  > 英国承认美国为一个独立的国家。    
 
  > I was surprised by her words, which made me recognize what silly mistakes I had made.  
@@ -2095,8 +2054,7 @@ recitation /ˌresɪ'teɪʃn/ n
 
 ### 3.*高义频：* **意识到：**  
 
- > **recognize what**  
- > I was surprised by her words, which made me recognize what silly mistakes I had made.  
+ > I was surprised by her words, which made me **recognize what** silly mistakes I had made.  
  > 我对她的话感到惊讶，那些话让我意识到自己犯了多么愚蠢的错误。    
 
 ### 4.*低义频：* **表扬；表彰：**  
@@ -2112,7 +2070,7 @@ recitation /ˌresɪ'teɪʃn/ n
 答案：
 1. recognise / recognize  
 
-# ***\*recommend*** vt  重难点词汇
+# ***\#recommend*** vt  重难点词汇
 英音 ˌrekə'mend     美音 ˌrekə'mend  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -2125,8 +2083,7 @@ recitation /ˌresɪ'teɪʃn/ n
  > I don’t know what to read. Can you recommend anything?   
  > 我不知道该读些什么，你能推荐点什么吗？  （2010 上海）  
 
- > **highly recommended**  
- > This hotel is highly recommended.   
+ > This hotel is **highly recommended**.   
  > 强烈推荐这家酒店。    
 
 - recommend sb / sth to sb:
@@ -2166,7 +2123,7 @@ recitation /ˌresɪ'teɪʃn/ n
 答案：
 1. (should) be  2. recommended  
 
-# ***\*recommendation*** n
+# ***\#recommendation*** n
 英音 ˌrekəmen'deɪʃn     美音 ˌrekəmen'deɪʃn  
 
 | 词频 2 | 口语 1 | 书面 1 |  
@@ -2184,7 +2141,7 @@ recitation /ˌresɪ'teɪʃn/ n
  > 听从某人的劝告    
 
 
-# ***\*reconstruct*** v
+# ***\#reconstruct*** v
 英音 ˌriːkən'strʌkt     美音 ˌriːkən'strʌkt  
 
   
@@ -2194,7 +2151,7 @@ recitation /ˌresɪ'teɪʃn/ n
 ### 1.**重建,再建**  
 
 
-# ***\*record*** vt
+# ***\#record*** vt
 英音 rɪ'kɔːd     美音 rɪ'kɔːd  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -2210,7 +2167,7 @@ recitation /ˌresɪ'teɪʃn/ n
  > 音乐家在录音棚录制歌曲。  （外研⑦ – 4）  
 
 
-# ***\*record*** n
+# ***\#record*** n
 英音 'rekɔːd     美音 'rekərd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2224,18 +2181,15 @@ recitation /ˌresɪ'teɪʃn/ n
  > a personal record   
  > 个人履历    
 
- > **Keep a record of**  
- > Keep a record of what interests you most.   
+ > **Keep a record of** what interests you most.   
  > 记下你最感兴趣的事。  （人教④ – 4）  
 
 ### 2.*高义频：* **(尤指体育运动的) 纪录：**  
 
- > **set a,record**  
- > She set a new world record in the 200-meter dash.  
+ > She **set a** new world **record** in the 200-meter dash.  
  > 她创造了200米短跑的新世界纪录。    
 
  > **in record time**  
- > in record time  
  > 用最短的时间    
 
 ### 3.*高义频：* **唱片：**  
@@ -2246,14 +2200,14 @@ recitation /ˌresɪ'teɪʃn/ n
 
 固定搭配
 ---
-## \*break / beat / cut the / a record 
+## \#break / beat / cut the / a record 
 1.**打破纪录：**  
 
  > She’s hoping to break the record for the 100 metres.  
  > 她希望能打破百米纪录。    
 
 
-# ***\*recorder*** n
+# ***\#recorder*** n
 英音 rɪ'kɔːdə(r)     美音 rɪ'kɔːrdər  
 
 | 词频 2 |  
@@ -2265,7 +2219,7 @@ recitation /ˌresɪ'teɪʃn/ n
 ### 1.*高义频：* **录音机**  
 
 
-# ***\*recording*** 
+# ***\#recording*** 
 英音 rɪ'kɔːdɪŋ     美音 rɪ'kɔːrdɪŋ  
 
 | 词频 3 |  
@@ -2275,7 +2229,7 @@ recitation /ˌresɪ'teɪʃn/ n
 ### 1.**n [U] 记录；录制；[C] 录制品**  
 
 
-# ***\*recover*** v  重难点词汇
+# ***\#recover*** v  重难点词汇
 英音 rɪ'kʌvə(r)     美音 rɪ'kʌvər  
 
 | 词频 4 | 书面 2 | 阅读 3 |  
@@ -2288,8 +2242,7 @@ recitation /ˌresɪ'teɪʃn/ n
  > recover oneself   
  > 恢复知觉    
 
- > **recover consciousness**  
- > It took her a few minutes to recover consciousness.  
+ > It took her a few minutes to **recover consciousness**.  
  > 过了几分钟她才恢复意识。    
 
 ### 2.*高义频：* **(从疾病或病态等中) 恢复过来**  
@@ -2301,8 +2254,7 @@ recitation /ˌresɪ'teɪʃn/ n
  > The economy is at last beginning to recover.   
  > 经济终于开始复苏了。    
 
- > **recover from**  
- > How can Linda recover from her illness in this room when it’s so dirty and dusty?   
+ > How can Linda **recover from** her illness in this room when it’s so dirty and dusty?   
  > 在这样一间落满灰尘的脏屋子里，琳达怎能痊愈呢？  （人教① – 1）  
 
 ### 3.*高义频：* **重新获得**  
@@ -2315,7 +2267,7 @@ recitation /ˌresɪ'teɪʃn/ n
  > 我们努力工作以弥补失去的时间。    
 
 
-# ***\*recovery*** n
+# ***\#recovery*** n
 英音 rɪ'kʌvəri     美音 rɪ'kʌvəri  
 
 | 词频 3 | 书面 1 | 阅读 2 |  
@@ -2326,16 +2278,14 @@ recitation /ˌresɪ'teɪʃn/ n
 ---
 ### 1.*高义频：* **痊愈；重获；复苏：**  
 
- > **made a full recovery from**  
- > He has made a full recovery from his operation.  
+ > He has **made a full recovery from** his operation.  
  > 手术后他已完全康复。  （2014 四川改）  
 
- > **economic recovery**  
- > an economic recovery   
+ > an **economic recovery**   
  > 经济复苏    
 
 
-# ***\*recreation*** n
+# ***\#recreation*** n
 英音 ˌrekri'eɪʃn     美音 ˌrekri'eɪʃn  
 
 | 词频 1 |  
@@ -2348,7 +2298,7 @@ recitation /ˌresɪ'teɪʃn/ n
  > 我们每周打一次篮球作为娱乐。    
 
 
-# ***\*rectangle*** n
+# ***\#rectangle*** n
 英音 'rektæŋɡl     美音 'rektæŋɡl  
 
 | 词频 1 |  
@@ -2360,7 +2310,7 @@ recitation /ˌresɪ'teɪʃn/ n
 ### 1.*高义频：* **矩形；长方形**  
 
 
-# ***\*rectangular*** adj
+# ***\#rectangular*** adj
 英音 rek'tæŋɡjələ(r)     美音 rek'tæŋɡjələ(r)  
 
 | 词频 1 |  
@@ -2370,7 +2320,7 @@ recitation /ˌresɪ'teɪʃn/ n
 ### 1.*高义频：* **长方形的；矩形的**  
 
 
-# ***\*recycle*** v
+# ***\#recycle*** v
 英音 ˌriː'saɪkl     美音 ˌriː'saɪkl  
 
 | 词频 4 |  
@@ -2386,12 +2336,11 @@ recitation /ˌresɪ'teɪʃn/ n
 派生词汇
 ---
 recycling /ˌriː'saɪklɪŋ/ n [U]  
- > **recycling system**  
- > a recycling system  
+ > a **recycling system**  
  > 回收利用系统    
 
 
-# ***\*red*** adj
+# ***\#red*** adj
 英音 red     美音 red  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -2400,8 +2349,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 ---
 ### 1.*高义频：* **红色的；(因尴尬或生气) 通红的：**  
 
- > **turned / went red**  
- > He turned / went red with anger.   
+ > He **turned / went red** with anger.   
  > 他气得脸通红。    
 
 ### 2.*低义频：* **[象征左派革命、共产主义] 红的；赤的：**  
@@ -2410,7 +2358,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
  > 红军    
 
 
-# ***\*red*** n
+# ***\#red*** n
 英音 red     美音 red  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -2425,7 +2373,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
  > 穿着红衣服的小女孩    
 
 
-# ***\*rediscover*** vt
+# ***\#rediscover*** vt
 英音 ˌriːdɪ'skʌvə(r)     美音 ˌriːdɪ'skʌvər  
 
 | 词频 2 |  
@@ -2435,7 +2383,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 ### 1.**重新发现**  
 
 
-# ***\*reduce*** v
+# ***\#reduce*** v
 英音 rɪ'duːs     美音 rɪ'duːs  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -2444,20 +2392,17 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 ---
 ### 1.*高义频：* **缩减；减少 (cut)：**  
 
- > **reduced from**  
- > The price has been reduced from $10 to $8.   
+ > The price has been **reduced from** $10 to $8.   
  > 价格已经从10美元降低到8美元。    
 
- > **reduce,by**  
- > Eating just one carrot a day can reduce the possibility of getting this disease by 40%.   
+ > Eating just one carrot a day can **reduce** the possibility of getting this disease **by** 40%.   
  > 每天吃一根胡萝卜可以将患这种病的几率减少40%。  （2009 陕西）  
 
- > **reduced to ruins**  
- > There lay my house, reduced to ruins, smelly and dirty.  
+ > There lay my house, **reduced to ruins**, smelly and dirty.  
  > 我的房子坍塌在那里，已沦为废墟，又臭又脏。    
 
 
-# ***\*reduction*** n
+# ***\#reduction*** n
 英音 rɪ'dʌkʃn     美音 rɪ'dʌkʃn  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -2469,7 +2414,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 ### 1.*高义频：* **缩减；减少**  
 
 
-# ***\*reef*** n
+# ***\#reef*** n
 英音 riːf     美音 riːf  
 
   
@@ -2479,14 +2424,14 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 ### 1.**礁**  
 
 
-# ***\*refer*** v  重难点词汇
+# ***\#refer*** v  重难点词汇
 英音 rɪ'fɜː(r)     美音 rɪ'fɜːr  
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
 固定搭配
 ---
-## \*refer (...) to
+## \#refer (...) to
 1.*高义频：* **谈到；提到**  
 英译 to mention or speak about sb / sth：
 
@@ -2508,14 +2453,12 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 3.*高义频：* **指的是**  
 英译 to describe or be connected to sb / sth：
 
- > **referred to**  
- > Pritzker Architecture Prize is referred to as the Nobel Prize in architecture.  
+ > Pritzker Architecture Prize is **referred to** as the Nobel Prize in architecture.  
  > 普利兹克建筑奖有建筑界的诺贝尔奖之称。  （2018 全国改）  
 
 4.*低义频：* **把…交送给：**  
 
- > **refer,to**  
- > My colleague said that as the situation was unusual he would refer the matter to his editor.  
+ > My colleague said that as the situation was unusual he would **refer** the matter **to** his editor.  
  > 我同事说由于情况非同寻常，他会把这个问题交给他的编辑处理。    
 
 
@@ -2526,7 +2469,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 答案：
 1. to  
 
-# ***\*referee*** n
+# ***\#referee*** n
 英音 ˌrefə'riː     美音 ˌrefə'riː  
 
 | 词频 1 |  
@@ -2538,7 +2481,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 ### 1.*高义频：* **裁判员；仲裁人**  
 
 
-# ***\*reference*** n
+# ***\#reference*** n
 英音 'refrəns     美音 'refrəns  
 
 | 词频 2 | 口语 1 | 书面 3 | 阅读 3 |  
@@ -2547,8 +2490,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 ---
 ### 1.*高义频：* **[C] & [U] 提及；涉及：**  
 
- > **making,reference to**  
- > Avoid making any reference to his illness.   
+ > Avoid **making** any **reference to** his illness.   
  > 千万别提起他的病。    
 
 ### 2.*高义频：* **[U] 查阅；参考：**  
@@ -2557,7 +2499,6 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
  > 这儿有一本备忘录供你接电话的时候参考。  （2010 福建）  
 
  > **reference books**  
- > reference books  
  > 参考书    
 
 ### 3.*高义频：* **推荐信；推荐人**  
@@ -2565,7 +2506,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 
 固定搭配
 ---
-## \*in / with reference to
+## \#in / with reference to
 1.**关于；根据…而论：**  
 
  > In reference to your question about cost, the tickets for the film are 35 yuan each.  
@@ -2579,7 +2520,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 答案：
 1. reference  
 
-# ***\*reflect*** v
+# ***\#reflect*** v
 英音 rɪ'flekt     美音 rɪ'flekt  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -2593,8 +2534,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 
 ### 2.*高义频：* **[常用于被动语态] (镜子等) 映出：**  
 
- > **was reflected in**  
- > Her face was reflected in the mirror.   
+ > Her face **was reflected in** the mirror.   
  > 镜子中映出她的脸。    
 
 ### 3.*高义频：* **[通常不用于进行时] 反映：**  
@@ -2604,12 +2544,10 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 
 ### 4.*高义频：* **反思；回想；仔细考虑：**  
 
- > **refl ected that**  
- > On the way home he reflected that the interview had gone well.  
+ > On the way home he reflected that the interview had gone well**refl ected that**  
  > 在回家的路上，他想这次面试进行得很顺利。    
 
- > **reflect on / upon**  
- > I reflect on / upon how my day's gone and think about the rest of the week.  
+ > I **reflect on / upon** how my day's gone and think about the rest of the week.  
  > 我反思一下我这一天是如何度过的，并思考着这周剩下几天怎么过。  （2019 全国改）  
 
 
@@ -2620,7 +2558,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 答案：
 1. reflecting  
 
-# ***\*reflection*** n
+# ***\#reflection*** n
 英音 rɪ'flekʃn     美音 rɪ'flekʃn  
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 2 |  
@@ -2634,20 +2572,18 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 
 ### 2.*低义频：* **[C] 映像：**  
 
- > **reflection of**  
- > the reflection of the trees in the lake   
+ > the **reflection of** the trees in the lake   
  > 湖面映出树的倒影    
 
 ### 3.*高义频：* **[C] 反映：**  
 
- > **are a reflection on**  
- > On some level, a student’s grades are a reflection on the teacher.   
+ > On some level, a student’s grades **are a reflection on** the teacher.   
  > 在某种程度上，学生的成绩是老师水平的反映。    
 
 ### 4.*低义频：* **[C] & [U] 反复思考；仔细考虑**  
 
 
-# ***\*reform*** v
+# ***\#reform*** v
 英音 rɪ'fɔːrm     美音 rɪ'fɔːrm  
 
 | 词频 2 |  
@@ -2663,7 +2599,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
  > 这名罪犯许诺要改过自新。    
 
 
-# ***\*reform*** n
+# ***\#reform*** n
 英音 rɪ'fɔːrm     美音 rɪ'fɔːrm  
 
 | 词频 2 | 书面 2 |  
@@ -2674,12 +2610,11 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 ---
 ### 1.*高义频：* **改革；改造：**  
 
- > **political / medical reform**  
- > social / political / medical reform  
+ > social / **political / medical reform**  
  > 社会 / 政治变革 / 医疗改革    
 
 
-# ***\*refresh*** vt
+# ***\#refresh*** vt
 英音 rɪ'freʃ     美音 rɪ'freʃ  
 
 | 词频 2 |  
@@ -2692,7 +2627,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
  > 我喝了杯咖啡提提神。    
 
 
-# ***\*refreshing*** adj
+# ***\#refreshing*** adj
 英音 rɪ'freʃɪŋ     美音 rɪ'freʃɪŋ  
 
 | 词频 1 |  
@@ -2702,7 +2637,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 ### 1.**令人耳目一新的**  
 
 
-# ***\*refrigerator*** n
+# ***\#refrigerator*** n
 英音 rɪ'frɪdʒəreɪtə(r)     美音 rɪ'frɪdʒəreɪtər  
 
 | 词频 2 |  
@@ -2714,7 +2649,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 ### 1.*高义频：* **冰箱；冷藏库**  
 
 
-# ***\*refund*** vt
+# ***\#refund*** vt
 英音 ri'fʌnd     美音 ri'fʌnd  
 
 | 词频 1 |  
@@ -2727,7 +2662,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
  > 如果您不满意我们会退款给您。    
 
 
-# ***\*refund*** n
+# ***\#refund*** n
 英音 'riːfʌnd     美音 'riːfʌnd  
 
 | 词频 1 |  
@@ -2739,7 +2674,7 @@ recycling /ˌriː'saɪklɪŋ/ n [U]
 ### 1.*高义频：* **退款：**  
 
 
-# ***\*refuse*** v
+# ***\#refuse*** v
 英音 rɪ'fjuːz     美音 rɪ'fjuːz  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -2771,7 +2706,7 @@ refusal /rɪ'fjuːzl/ n
 答案：
 1. refused  
 
-# ***\*regard*** vt  重难点词汇
+# ***\#regard*** vt  重难点词汇
 英音 rɪ'ɡɑːd     美音 rɪ'ɡɑːrd  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -2781,8 +2716,7 @@ refusal /rɪ'fjuːzl/ n
 ### 1.*高义频：* **[不用于进行时] 把...看作；认为...是**  
 英译 to think about sb / sth in a particular way：
 
- > **regard,as**  
- > Never regard study as a duty.   
+ > Never **regard** study **as** a duty.   
  > 绝对不要把学习视为任务。    
 
  > Even to this day, Lincoln is regarded as one of the most inspiring figures in the world.  
@@ -2795,7 +2729,7 @@ refusal /rɪ'fjuːzl/ n
  > 她退后站着，冷冷地看着他。    
 
 
-# ***\*regard*** n  重难点词汇
+# ***\#regard*** n  重难点词汇
 英音 rɪ'ɡɑːd     美音 rɪ'ɡɑːrd  
 
 | 词频 4 | 口语 1 |  
@@ -2811,8 +2745,7 @@ refusal /rɪ'fjuːzl/ n
 ### 2.*高义频：* **[正式用语] 关注**  
 英译 attention to or care for sb / sth：
 
- > **regard for**  
- > She has no regard for other people’s feelings.   
+ > She has no **regard for** other people’s feelings.   
  > 她无视别人的感受。    
 
 ### 3.*低义频：* **[用复数] 问候；致意：**  
@@ -2823,7 +2756,7 @@ refusal /rɪ'fjuːzl/ n
 
 固定搭配
 ---
-## \*with / in regard to sth
+## \#with / in regard to sth
 1.**[正式用语] 关于某事：**  
 
  > With / In regard to his suggestions, we shall discuss them fully.   
@@ -2844,7 +2777,7 @@ regarding /rɪ'ɡɑːdɪŋ/ prep  [正式用语] (尤用于信函中)
 答案：
 1. to  
 
-# ***\*regarding*** prep
+# ***\#regarding*** prep
 英音 rɪ'ɡɑːdɪŋ     美音 rɪ'ɡɑːrdɪŋ  
 
 | 词频 2 |  
@@ -2854,7 +2787,7 @@ regarding /rɪ'ɡɑːdɪŋ/ prep  [正式用语] (尤用于信函中)
 ### 1.**关于**  
 
 
-# ***\*regardless*** adv
+# ***\#regardless*** adv
 英音 rɪ'ɡɑːdləs     美音 rɪ'ɡɑːrdləs  
 
 | 词频 3 |  
@@ -2866,7 +2799,7 @@ regarding /rɪ'ɡɑːdɪŋ/ prep  [正式用语] (尤用于信函中)
 
 固定搭配
 ---
-## \*regardless of 
+## \#regardless of 
 1.**不管；不顾：**  
 
  > Nobody has the right to spit in the street regardless of their social position or age.   
@@ -2880,7 +2813,7 @@ regarding /rɪ'ɡɑːdɪŋ/ prep  [正式用语] (尤用于信函中)
 答案：
 1. regardless of  
 
-# ***\*reggae*** n
+# ***\#reggae*** n
 英音 'reɡeɪ     美音 'reɡeɪ  
 
 | 词频 1 |  
@@ -2890,7 +2823,7 @@ regarding /rɪ'ɡɑːdɪŋ/ prep  [正式用语] (尤用于信函中)
 ### 1.**雷盖（西印度群岛的一种节奏强劲的流行音乐）**  
 
 
-# ***\*region*** n
+# ***\#region*** n
 英音 'riːdʒən     美音 'riːdʒən  
 
 | 词频 3 | 口语 3 | 书面 3 | 阅读 3 |  
@@ -2914,7 +2847,7 @@ regarding /rɪ'ɡɑːdɪŋ/ prep  [正式用语] (尤用于信函中)
 ---
 regional /'riːdʒənl/ adj [常用于名词前]   
 
-# ***\*register*** n
+# ***\#register*** n
 英音 'redʒɪstə(r)     美音 'redʒɪstər  
 
 | 词频 4 | 阅读 3 |  
@@ -2929,11 +2862,10 @@ regional /'riːdʒənl/ adj [常用于名词前]
  > 点名册/收款台    
 
  > **call / take the register**  
- > call / take the register  
  > 点名    
 
 
-# ***\*register*** v
+# ***\#register*** v
 英音 'redʒɪstə(r)     美音 'redʒɪstər  
 
 | 词频 4 | 口语 1 | 书面 1 | 阅读 3 |  
@@ -2942,12 +2874,10 @@ regional /'riːdʒənl/ adj [常用于名词前]
 ---
 ### 1.*高义频：* **注册；登记：**  
 
- > **registered for**  
- > How many students have registered for English classes?   
+ > How many students have **registered for** English classes?   
  > 有多少学生登记选修英语课了？    
 
- > **register with**  
- > All visitors should register with the British Embassy.   
+ > All visitors should **register with** the British Embassy.   
  > 所有游客都必须到英国大使馆登记。    
 
 
@@ -2964,7 +2894,7 @@ registration /ˌredʒɪ'streɪʃn/ n
 答案：
 1. with  
 
-# ***\*registration*** n
+# ***\#registration*** n
 英音 ˌredʒɪ'streɪʃn     美音 ˌredʒɪ'streɪʃn  
 
 | 词频 3 |  
@@ -2974,7 +2904,7 @@ registration /ˌredʒɪ'streɪʃn/ n
 ### 1.**登记；注册；挂号**  
 
 
-# ***\*regret*** vt  重难点词汇
+# ***\#regret*** vt  重难点词汇
 英音 rɪ'ɡret     美音 rɪ'ɡret  
 
 | 词频 4 | 书面 1 |  
@@ -2999,8 +2929,7 @@ registration /ˌredʒɪ'streɪʃn/ n
  > I regret that I didn’t follow your advice.   
  > 我真后悔没听你的劝告。    
 
- > **deeply / bitterly / greatly regret**  
- > I deeply / bitterly / greatly regret what I said just now.  
+ > I **deeply / bitterly / greatly regret** what I said just now.  
  > 我对刚才说的话感到非常后悔。    
 
 ### 2.*高义频：* **[正式用语] 抱歉；遗憾**  
@@ -3027,7 +2956,7 @@ registration /ˌredʒɪ'streɪʃn/ n
 答案：
 1. regretting  
 
-# ***\*regret*** n  重难点词汇
+# ***\#regret*** n  重难点词汇
 英音 rɪ'ɡret     美音 rɪ'ɡret  
 
 | 词频 4 |  
@@ -3038,20 +2967,17 @@ registration /ˌredʒɪ'streɪʃn/ n
 ---
 ### 1.*高义频：* **遗憾；悔恨：**  
 
- > **have,regrets about**  
- > I have no regrets about leaving.   
+ > I **have** no **regrets about** leaving.   
  > 我毫不后悔离开。    
 
- > **Much to my regret**  
- > Much to my regret, I am unable to accept your kind invitation.  
+ > **Much to my regret**, I am unable to accept your kind invitation.  
  > 非常遗憾，我不能接受你的盛情邀请。    
 
- > **with great / deep regret**  
- > It is with great / deep regret that I accept your resignation.  
+ > It is **with great / deep regret** that I accept your resignation.  
  > 接受你的辞呈，我感到非常遗憾。    
 
 
-# ***\*regular*** adj
+# ***\#regular*** adj
 英音 'reɡjələ(r)     美音 'reɡjələr  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -3065,23 +2991,19 @@ registration /ˌredʒɪ'streɪʃn/ n
  > The sides of the building aren’t regular. So the building has an unusual shape.    
  > 这座大厦的侧面是不对称的，所以有着独特的造型。  （2014 湖北）  
 
- > **at regular intervals**  
- > The gardeners planted the trees at regular intervals.   
+ > The gardeners planted the trees **at regular intervals**.   
  > 园丁按固定的间距种树。    
 
- > **on a regular basis**  
- > The equipment is checked on a regular basis.   
+ > The equipment is checked **on a regular basis**.   
  > 设备定期进行检查。    
 
 ### 2.*高义频：* **经常的；频繁的**  
 英译 happening or doing sth very often; frequent：
 
  > **regular customers / visitors**  
- > regular customers / visitors  
  > 常客 / 忠实读者    
 
- > **regular exercise**  
- > Healthy eating along with regular exercise is probably the only way to become fit.  
+ > Healthy eating along with **regular exercise** is probably the only way to become fit.  
  > 健康的饮食加上经常锻炼可能是健康的唯一途径。  （译林①–3）  
 
 ### 3.*高义频：* **正常的；惯常的；普通的：**  
@@ -3095,8 +3017,7 @@ registration /ˌredʒɪ'streɪʃn/ n
 ### 4.*高义频：* **持久的；稳定的**  
 英译 lasting or happening over a long period：
 
- > **a regular job**  
- > Maybe a regular job won’t be as dull as I feared.  
+ > Maybe **a regular job** won’t be as dull as I feared.  
  > 一份固定的工作可能并不像我担心的那样乏味。  （2014 天津）  
 
 ### 5.*低义频：* **[语法] 规则的**  
@@ -3109,7 +3030,7 @@ registration /ˌredʒɪ'streɪʃn/ n
 答案：
 1. regular  
 
-# ***\*regularly*** adv
+# ***\#regularly*** adv
 英音 'reɡjələrli     美音 'reɡjələrli  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -3132,7 +3053,7 @@ registration /ˌredʒɪ'streɪʃn/ n
 答案：
 1. regularly  
 
-# ***\*regulate*** vt
+# ***\#regulate*** vt
 英音 'reɡjuleɪt     美音 'reɡjuleɪt  
 
 | 词频 2 | 阅读 1 |  
@@ -3150,7 +3071,7 @@ registration /ˌredʒɪ'streɪʃn/ n
  > 校准手表    
 
 
-# ***\*regulation*** n
+# ***\#regulation*** n
 英音 ˌreɡju'leɪʃn     美音 ˌreɡju'leɪʃn  
 
 | 词频 2 | 口语 2 | 书面 2 | 阅读 2 |  
@@ -3164,12 +3085,11 @@ registration /ˌredʒɪ'streɪʃn/ n
 
 ### 2.*低义频：* **[U] 控制；管理：**  
 
- > **regulation of**  
- > the regulation of affairs   
+ > the **regulation of** affairs   
  > 事务管理    
 
 
-# ***\*reheat*** v
+# ***\#reheat*** v
 英音 ˌriː'hiːt     美音 ˌriː'hiːt  
 
 | 词频 1 |  
@@ -3179,7 +3099,7 @@ registration /ˌredʒɪ'streɪʃn/ n
 ### 1.**重新加热**  
 
 
-# ***\*reinforce*** vt
+# ***\#reinforce*** vt
 英音 ˌriːɪn'fɔːs     美音 ˌriːɪn'fɔːrs  
 
 | 词频 1 | 书面 1 |  
@@ -3189,7 +3109,7 @@ registration /ˌredʒɪ'streɪʃn/ n
 ### 1.*高义频：* **加强；强化**  
 
 
-# ***\*reiterate*** v
+# ***\#reiterate*** v
 英音 ri'ɪtəreɪt     美音 ri'ɪtəreɪt  
 
 | 词频 1 |  
@@ -3199,7 +3119,7 @@ registration /ˌredʒɪ'streɪʃn/ n
 ### 1.**反复地说，重述**  
 
 
-# ***\*reject*** vt
+# ***\#reject*** vt
 英音 'riːdʒekt     美音 'riːdʒekt  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 1 |  
@@ -3219,7 +3139,7 @@ registration /ˌredʒɪ'streɪʃn/ n
 ---
 rejection /rɪ'dʒekʃn/ n   
 
-# ***\*relate*** v
+# ***\#relate*** v
 英音 rɪ'leɪt     美音 rɪ'leɪt  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -3230,12 +3150,10 @@ rejection /rɪ'dʒekʃn/ n
 ---
 ### 1.*高义频：* **(使) 互有关联 (connect)：**  
 
- > **relate,to_2**  
- > The report seeks to relate the rise in crime to an increase in unemployment.  
+ > The report seeks to **relate** the rise in crime to an increase in unemployment**to_2**  
  > 这篇报告试图证明犯罪活动的增加与失业率的上涨有关。    
 
- > **relates to**  
- > The second paragraph relates to the trade war between US and China.  
+ > The second paragraph **relates to** the trade war between US and China.  
  > 第二段涉及到了中美之间的贸易战。    
 
 ### 2.*高义频：* **[正式用语] 叙述；讲：**  
@@ -3245,12 +3163,11 @@ rejection /rɪ'dʒekʃn/ n
 
 ### 3.*低义频：* **理解；认同：**  
 
- > **relate to**  
- > I love technology and try to keep up with it so I can relate to my students.    
+ > I love technology and try to keep up with it so I can **relate to** my students.    
  > 我热爱技术，并试图跟上技术的发展，因此我可以理解学生的想法。  （2011 北京）  
 
 
-# ***\*related*** adj
+# ***\#related*** adj
 英音 rɪ'leɪtɪd     美音 rɪ'leɪtɪd  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -3265,14 +3182,14 @@ rejection /rɪ'dʒekʃn/ n
 
 固定搭配
 ---
-## \*(be) related to 
+## \#(be) related to 
 1.**与…有关：**  
 
  > The “new four great inventions” are all related to China’s high-tech innovation.  
  > “新四大发明”都与中国高科技创新有关。    
 
 
-# ***\*relation*** n
+# ***\#relation*** n
 英音 rɪ'leɪʃn     美音 rɪ'leɪʃn  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -3281,26 +3198,23 @@ rejection /rɪ'dʒekʃn/ n
 ---
 ### 1.*高义频：* **[C] & [U] 关系；联系 (relationship)：**  
 
- > **relation between**  
- > The relation between them is that of teacher and pupil.   
+ > The **relation between** them is that of teacher and pupil.   
  > 他们是师生关系。    
 
 ### 2.*高义频：* **[用复数] 交往；事务：**  
 
- > **relations with**  
- > He established good relations with his neighbors.  
+ > He established good **relations with** his neighbors.  
  > 他和邻居建立了良好的关系。    
 
 ### 3.*高义频：* **亲属；家属 (relative)：**  
 
- > **distant relation**  
- > a distant relation  
+ > a **distant relation**  
  > 远亲    
 
 
 固定搭配
 ---
-## \*in relation to 
+## \#in relation to 
 1.**[正式用语] 关于；与…相比：**  
 
  > I have a lot to say in relation to this affair.   
@@ -3310,7 +3224,7 @@ rejection /rɪ'dʒekʃn/ n
  > 女性的收入相对于男性而言还是偏低。    
 
 
-# ***\*relationship*** n
+# ***\#relationship*** n
 英音 rɪ'leɪʃnʃɪp     美音 rɪ'leɪʃnʃɪp  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3321,20 +3235,17 @@ rejection /rɪ'dʒekʃn/ n
 ---
 ### 1.*高义频：* **关系；联系：**  
 
- > **relationship between,and**  
- > the relationship between teachers and students   
+ > the **relationship between** teachers **and** students   
  > 师生关系    
 
- > **close relationship with**  
- > in close relationship with   
+ > in **close relationship with**   
  > 与…有密切关系    
 
- > **relationship to**  
- > have a direct relationship to   
+ > have a direct **relationship to**   
  > 与…有直接关系    
 
 
-# ***\*relative*** n
+# ***\#relative*** n
 英音 'relətɪv     美音 'relətɪv  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -3347,7 +3258,7 @@ rejection /rɪ'dʒekʃn/ n
  > 亲友    
 
 
-# ***\*relative*** adj
+# ***\#relative*** adj
 英音 'relətɪv     美音 'relətɪv  
 
 | 词频 4 | 书面 2 |  
@@ -3361,8 +3272,7 @@ rejection /rɪ'dʒekʃn/ n
 
 ### 2.*低义频：* **[正式用语] 有关系的：**  
 
- > **relative to**  
- > a question relative to my plan   
+ > a question **relative to** my plan   
  > 与我的计划有关的问题    
 
 
@@ -3373,7 +3283,7 @@ relatively /'relətɪvli/ adv
  > 西班牙语是一门相对较容易学的语言。    
 
 
-# ***\*relativity*** n
+# ***\#relativity*** n
 英音 ˌrelə'tɪvəti     美音 ˌrelə'tɪvəti  
 
 | 词频 1 |  
@@ -3383,7 +3293,7 @@ relatively /'relətɪvli/ adv
 ### 1.**相对论**  
 
 
-# ***\*relax*** v
+# ***\#relax*** v
 英音 rɪ'læks     美音 rɪ'læks  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -3405,7 +3315,7 @@ relaxation /ˌriːlæk'seɪʃn/ n [U]
 relaxed /rɪ'lækst/ adj   
 relaxing /rɪ'læksɪŋ/ adj   
 
-# ***\*relaxation*** n
+# ***\#relaxation*** n
 英音 ˌriːlæk'seɪʃn     美音 ˌriːlæk'seɪʃn  
 
 | 词频 3 |  
@@ -3417,7 +3327,7 @@ relaxing /rɪ'læksɪŋ/ adj
 ### 1.*高义频：* **放松；松弛**  
 
 
-# ***\*relaxed*** adj
+# ***\#relaxed*** adj
 英音 rɪ'lækst     美音 rɪ'lækst  
 
 | 词频 1 |  
@@ -3427,7 +3337,7 @@ relaxing /rɪ'læksɪŋ/ adj
 ### 1.**轻松的；松懈的；宽松的**  
 
 
-# ***\*relaxing*** adj
+# ***\#relaxing*** adj
 英音 rɪ'læksɪŋ     美音 rɪ'læksɪŋ  
 
 | 词频 3 |  
@@ -3437,7 +3347,7 @@ relaxing /rɪ'læksɪŋ/ adj
 ### 1.**使人放松的**  
 
 
-# ***\*relay*** n
+# ***\#relay*** n
 英音 'riːleɪ     美音 'riːleɪ  
 
 | 词频 2 |  
@@ -3448,16 +3358,14 @@ relaxing /rɪ'læksɪŋ/ adj
 ---
 ### 1.*高义频：* **接替；接力赛：**  
 
- > **Olympic torch relay**  
- > the Olympic torch relay   
+ > the **Olympic torch relay**   
  > 奥运会火炬传递    
 
- > **relay race**  
- > a relay race   
+ > a **relay race**   
  > 接力赛    
 
 
-# ***\*relay*** vt
+# ***\#relay*** vt
 英音 'riːleɪ, rɪ'leɪ     美音 'riːleɪ,rɪ'leɪ  
 
 | 词频 2 |  
@@ -3470,7 +3378,7 @@ relaxing /rɪ'læksɪŋ/ adj
  > 在古代，中国人通过沿着长城点燃烽火传递信息。  （北师大⑧ – 24）  
 
 
-# ***\*release*** vt  重难点词汇
+# ***\#release*** vt  重难点词汇
 英音 rɪ'liːs     美音 rɪ'liːs  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -3498,7 +3406,7 @@ relaxing /rɪ'læksɪŋ/ adj
  > 发行影片/发布新版本    
 
 
-# ***\*release*** n  重难点词汇
+# ***\#release*** n  重难点词汇
 英音 rɪ'liːs     美音 rɪ'liːs  
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -3507,8 +3415,7 @@ relaxing /rɪ'læksɪŋ/ adj
 ---
 ### 1.*高义频：* **[U] [可用单数] 放走；释放；排放；宣泄：**  
 
- > **release from**  
- > a release from prison   
+ > a **release from** prison   
  > 从狱中释放    
 
  > the release of homing pigeons   
@@ -3525,7 +3432,7 @@ relaxing /rɪ'læksɪŋ/ adj
  > 最新发行的产品    
 
 
-# ***\*relevant*** adj
+# ***\#relevant*** adj
 英音 'reləvənt     美音 'reləvənt  
 
 | 词频 2 | 口语 2 | 书面 2 | 阅读 1 |  
@@ -3550,7 +3457,7 @@ relaxing /rɪ'læksɪŋ/ adj
 答案：
 1. to  
 
-# ***\*reliability*** n
+# ***\#reliability*** n
 英音 rɪˌlaɪə'bɪləti     美音 rɪˌlaɪə'bɪləti  
 
 | 词频 1 |  
@@ -3560,7 +3467,7 @@ relaxing /rɪ'læksɪŋ/ adj
 ### 1.**可靠性**  
 
 
-# ***\*reliable*** adj
+# ***\#reliable*** adj
 英音 rɪ'laɪəbl     美音 rɪ'laɪəbl  
 
 | 词频 3 | 阅读 3 |  
@@ -3583,7 +3490,7 @@ relaxing /rɪ'læksɪŋ/ adj
 答案：
 1. reliable  
 
-# ***\*relic*** n
+# ***\#relic*** n
 英音 'relɪk     美音 'relɪk  
 
 | 词频 1 |  
@@ -3598,7 +3505,7 @@ relaxing /rɪ'læksɪŋ/ adj
  > 文化遗产    
 
 
-# ***\*relief*** n
+# ***\#relief*** n
 英音 rɪ'liːf     美音 rɪ'liːf  
 
 | 词频 2 | 口语 2 | 书面 2 | 阅读 2 |  
@@ -3609,12 +3516,10 @@ relaxing /rɪ'læksɪŋ/ adj
 ---
 ### 1.*高义频：* **(痛苦等的) 减轻；宽慰：**  
 
- > **To our,relief**  
- > To our great relief, the accident caused little damage.  
+ > **To our** great **relief**, the accident caused little damage.  
  > 令我们十分宽慰的是，事故造成的损失很小。    
 
- > **What a relief**  
- > The doctor said it was only a slight wound. What a relief!   
+ > The doctor said it was only a slight wound. **What a relief**!   
  > 医生说只是轻伤。谢天谢地！    
 
  > Those who suffer from headache will find they get relief from this medicine.    
@@ -3628,7 +3533,7 @@ relaxing /rɪ'læksɪŋ/ adj
 
 固定搭配
 ---
-## \*in / with relief
+## \#in / with relief
 1.**如释重负；松了口气：**  
 
  > Hearing that he had passed the exam, he sighed in / with relief.  
@@ -3643,7 +3548,7 @@ relaxing /rɪ'læksɪŋ/ adj
 答案：
 1. relief 前加 a  
 
-# ***\*relieve*** vt
+# ***\#relieve*** vt
 英音 rɪ'liːv     美音 rɪ'liːv  
 
 | 词频 2 | 口语 1 |  
@@ -3660,7 +3565,7 @@ relaxing /rɪ'læksɪŋ/ adj
 ---
 relieved /rɪ'liːvd/ adj   
 
-# ***\*religion*** n
+# ***\#religion*** n
 英音 rɪ'lɪdʒən     美音 rɪ'lɪdʒən  
 
 | 词频 2 | 口语 2 | 书面 2 |  
@@ -3672,7 +3577,7 @@ relieved /rɪ'liːvd/ adj
 ### 1.*高义频：* **宗教；宗教信仰**  
 
 
-# ***\*religious*** adj
+# ***\#religious*** adj
 英音 rɪ'lɪdʒəs     美音 rɪ'lɪdʒəs  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -3687,7 +3592,7 @@ relieved /rɪ'liːvd/ adj
 ### 2.*低义频：* **笃信宗教的；虔诚的**  
 
 
-# ***\*reluctant*** adj
+# ***\#reluctant*** adj
 英音 rɪ'lʌktənt     美音 rɪ'lʌktənt  
 
 | 词频 1 |  
@@ -3697,19 +3602,18 @@ relieved /rɪ'liːvd/ adj
 ### 1.*高义频：* **勉强的；不情愿的**  
 
 
-# ***\*rely*** vi
+# ***\#rely*** vi
 英音 rɪ'laɪ     美音 rɪ'laɪ  
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
 固定搭配
 ---
-## \*rely on / upon
+## \#rely on / upon
 1.*高义频：* **依靠**  
 英译 to depend on sb / sth：
 
- > **rely,on,for**  
- > You shouldn’t always rely just on the Internet for your research.  
+ > You shouldn’t always **rely** just **on** the Internet **for** your research.  
  > 你不能总是依靠网络进行研究。  （2015 湖南）  
 
 - rely on / upon … to do sth:
@@ -3726,7 +3630,7 @@ relieved /rɪ'liːvd/ adj
  > 我信任大卫，他一定会为我保密。    
 
 
-# ***\*remain*** vi  重难点词汇
+# ***\#remain*** vi  重难点词汇
 英音 rɪ'meɪn     美音 rɪ'meɪn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3754,7 +3658,6 @@ relieved /rɪ'liːvd/ adj
 - remain + adj:
 
  > **remain silent / seated**  
- > remain silent / seated  
  > 保持沉默/留在座位上坐好    
 
  > I went to Professor Janye, who listened to my arguments but remained unmoved.  
@@ -3795,7 +3698,7 @@ remaining /rɪ'meɪnɪŋ/ adj
 答案：
 1. remained  2. to be seen  
 
-# ***\*remains*** n
+# ***\#remains*** n
 英音 rɪ'meɪnz     美音 rɪ'meɪnz  
 
 | 词频 3 | 书面 1 |  
@@ -3810,12 +3713,11 @@ remaining /rɪ'meɪnɪŋ/ adj
  > prehistoric remains  
  > 史前遗迹    
 
- > **Human remains**  
- > Human remains of ancient settlements will be reburied.  
+ > **Human remains** of ancient settlements will be reburied.  
  > 古代定居点的人类遗骸将被重新安葬。  （2011 上海）  
 
 
-# ***\*remark*** n
+# ***\#remark*** n
 英音 rɪ'mɑːrk     美音 rɪ'mɑːrk  
 
 | 词频 3 | 书面 1 |  
@@ -3830,11 +3732,10 @@ remaining /rɪ'meɪnɪŋ/ adj
  > 出自…的话    
 
  > **make a remark**  
- > make a remark  
  > 发表评论    
 
 
-# ***\*remark*** v
+# ***\#remark*** v
 英音 rɪ'mɑːrk     美音 rɪ'mɑːrk  
 
 | 词频 3 |  
@@ -3843,16 +3744,14 @@ remaining /rɪ'meɪnɪŋ/ adj
 ---
 ### 1.*高义频：* **vt & vi 谈论；评论：**  
 
- > **remarked that**  
- > The teacher remarked that the article was well written.   
+ > The teacher **remarked that** the article was well written.   
  > 老师评论说那篇文章写得很好。    
 
- > **remark on / upon**  
- > It would be rude to remark on / upon other’s appearance.   
+ > It would be rude to **remark on / upon** other’s appearance.   
  > 对他人的相貌品头论足是不礼貌的。    
 
 
-# ***\*remarkable*** adj
+# ***\#remarkable*** adj
 英音 rɪ'mɑːkəbl     美音 rɪ'mɑːrkəbl  
 
 | 词频 2 | 书面 1 |  
@@ -3866,7 +3765,7 @@ remaining /rɪ'meɪnɪŋ/ adj
 ---
 remarkably /rɪ'mɑːkəbli/ adv [句子副词]   
 
-# ***\*remember*** v  重难点词汇
+# ***\#remember*** v  重难点词汇
 英音 rɪ'membə(r)     美音 rɪ'membər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -3908,14 +3807,13 @@ remarkably /rɪ'mɑːkəbli/ adv [句子副词]
 
 ### 3.*低义频：* **代...致意；代...问好：**  
 
- > **remember me to**  
- > Will you kindly remember me to your family?   
+ > Will you kindly **remember me to** your family?   
  > 请代我向你的家人问好，好吗?    
 
 
 固定搭配
 ---
-## \*be remembered as / for 
+## \#be remembered as / for 
 1.**因…而著名：**  
 
  > Madame Curie will always be remembered as the discoverer of the element radium.   
@@ -3932,7 +3830,7 @@ remarkably /rɪ'mɑːkəbli/ adv [句子副词]
 答案：
 1. visiting  
 
-# ***\*remind*** vt  重难点词汇
+# ***\#remind*** vt  重难点词汇
 英音 rɪ'maɪnd     美音 rɪ'maɪnd  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -3942,8 +3840,7 @@ remarkably /rɪ'mɑːkəbli/ adv [句子副词]
 ### 1.*高义频：* **提醒**  
 英译 to make sb remember sth that they must do：
 
- > **Remind you**  
- > Remind you, Jane. Take care. My wife got her purse picked at the station once.   
+ > **Remind you**, Jane. Take care. My wife got her purse picked at the station once.   
  > 提醒你一下，简，要当心。我妻子的钱包曾在火车站被偷过。    
 
 - remind sb about / of:
@@ -3994,7 +3891,7 @@ reminder /rɪ'maɪndə(r)/ n
 答案：
 1. of  2. reminded  
 
-# ***\*remote*** adj
+# ***\#remote*** adj
 英音 rɪ'məʊt     美音 rɪ'moʊt  
 
 | 词频 3 | 书面 1 | 阅读 3 |  
@@ -4007,7 +3904,7 @@ reminder /rɪ'maɪndə(r)/ n
  > 偏僻的村庄 / 偏远地区    
 
 
-# ***\*remove*** vt
+# ***\#remove*** vt
 英音 rɪ'muːv     美音 rɪ'muːv  
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -4019,8 +3916,7 @@ reminder /rɪ'maɪndə(r)/ n
  > He was too tired to remove the stone.   
  > 他太累了，移不开那块石头。    
 
- > **removed,from**  
- > He removed a notice from the door.  
+ > He **removed** a notice **from** the door.  
  > 他揭掉了门上的告示。    
 
  > remove banana skins  
@@ -4041,8 +3937,7 @@ reminder /rɪ'maɪndə(r)/ n
 
 ### 4.*高义频：* **把...免职；撤去：**  
 
- > **remove,from**  
- > remove a man from office   
+ > **remove** a man **from** office   
  > 免除一个人的职务    
 
 
@@ -4057,7 +3952,7 @@ removal /rɪ'muːvl/ n [C] & [U]
 答案：
 1. are removed  
 
-# ***\*renaissance*** n
+# ***\#renaissance*** n
 英音 rɪ'neɪsns     美音 'renəsɑːns  
 
 | 词频 1 |  
@@ -4069,7 +3964,7 @@ removal /rɪ'muːvl/ n [C] & [U]
 ### 1.*高义频：* **复兴**  
 
 
-# ***\*renew*** vt
+# ***\#renew*** vt
 英音 rɪ'njuː     美音 rɪ'nuː  
 
 | 词频 2 |  
@@ -4083,12 +3978,10 @@ removal /rɪ'muːvl/ n [C] & [U]
 
 ### 2.*低义频：* **延长 (协议、官方文件等) 的期限；使续期：**  
 
- > **renew sb’s passport / license**  
- > renew sb’s passport / license   
+ > **renew sb’s passport / license**   
  > 续签护照/更新执照    
 
- > **renew a book**  
- > renew a book   
+ > **renew a book**   
  > 续借一本书    
 
 ### 3.*高义频：* **更换；更新**  
@@ -4101,7 +3994,7 @@ renewable /rɪ'njuːəbl/ adj
  > 可再生能源/资源    
 
 
-# ***\*renewable*** adj
+# ***\#renewable*** adj
 英音 rɪ'njuːəbl     美音 rɪ'nuːəbl  
 
 | 词频 2 |  
@@ -4111,7 +4004,7 @@ renewable /rɪ'njuːəbl/ adj
 ### 1.*高义频：* **能再生的；可更新的**  
 
 
-# ***\*rent*** v
+# ***\#rent*** v
 英音 rent     美音 rent  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -4120,19 +4013,17 @@ renewable /rɪ'njuːəbl/ adj
 ---
 ### 1.*高义频：* **租用；出租；(AmE) (短期) 租借：**  
 
- > **rent,from**  
- > rent an apartment from sb   
+ > **rent** an apartment **from** sb   
  > 从某人那里租套公寓    
 
  > rent (out) the room to students  
  > 把房间租给学生    
 
- > **rents at / for**  
- > The apartment rents at / for $2,000 a month.  
+ > The apartment **rents at / for** $2,000 a month.  
  > 这套公寓以每月2000美元出租。    
 
 
-# ***\*rent*** n
+# ***\#rent*** n
 英音 rent     美音 rent  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -4143,8 +4034,7 @@ renewable /rɪ'njuːəbl/ adj
 ---
 ### 1.*高义频：* **租金：**  
 
- > **pay,rent**  
- > pay the rent   
+ > **pay** the **rent**   
  > 付租金    
 
 
@@ -4152,7 +4042,7 @@ renewable /rɪ'njuːəbl/ adj
 ---
 rented /'rentɪd/ adj   
 
-# ***\*repair*** vt
+# ***\#repair*** vt
 英音 rɪ'peə(r)     美音 rɪ'per  
 
 | 词频 5 | 口语 1 |  
@@ -4165,7 +4055,7 @@ rented /'rentɪd/ adj
  > 修理坏掉的手表    
 
 
-# ***\*repair*** n
+# ***\#repair*** n
 英音 rɪ'peə(r)     美音 rɪ'per  
 
 | 词频 5 |  
@@ -4182,10 +4072,10 @@ rented /'rentɪd/ adj
 
 固定搭配
 ---
-## \*beyond repair 
+## \#beyond repair 
 1.**无法修复**  
 
-## \*under repair 
+## \#under repair 
 1.**在修理中：**  
 
  > The castle built in 1432 is under repair.   
@@ -4199,7 +4089,7 @@ rented /'rentɪd/ adj
 答案：
 1. is being repaired  
 
-# ***\*repay*** vt
+# ***\#repay*** vt
 英音 rɪ'peɪ     美音 rɪ'peɪ  
 
 | 词频 1 | 阅读 1 |  
@@ -4217,7 +4107,7 @@ rented /'rentɪd/ adj
  > 你现在所做的艰苦工作将在以后的生活中获得回报。  （2012 湖南）  
 
 
-# ***\*repeat*** v
+# ***\#repeat*** v
 英音 rɪ'piːt     美音 rɪ'piːt  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -4248,7 +4138,7 @@ repetition /ˌrepə'tɪʃn/ n
 答案：
 1. repeat  
 
-# ***\*repeat*** n
+# ***\#repeat*** n
 英音 rɪ'piːt     美音 rɪ'piːt  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -4260,7 +4150,7 @@ repetition /ˌrepə'tɪʃn/ n
 ### 1.*高义频：* **重复 (事物)；重播**  
 
 
-# ***\*repertoire*** n
+# ***\#repertoire*** n
 英音 'repətwɑː(r)     美音 'repərtwɑːr  
 
 | 词频 1 |  
@@ -4270,7 +4160,7 @@ repetition /ˌrepə'tɪʃn/ n
 ### 1.**演奏曲目，演出节目**  
 
 
-# ***\*repetition*** n
+# ***\#repetition*** n
 英音 ˌrepə'tɪʃn     美音 ˌrepə'tɪʃn  
 
 | 词频 1 |  
@@ -4282,7 +4172,7 @@ repetition /ˌrepə'tɪʃn/ n
 ### 1.*高义频：* **重复**  
 
 
-# ***\*replace*** vt
+# ***\#replace*** vt
 英音 rɪ'pleɪs     美音 rɪ'pleɪs  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -4305,7 +4195,7 @@ repetition /ˌrepə'tɪʃn/ n
 
 固定搭配
 ---
-## \*replace ... with / by 
+## \#replace ... with / by 
 1.**用…替换：**  
 
  > They replaced their beloved old cars with expensive new sports cars.   
@@ -4316,7 +4206,7 @@ repetition /ˌrepə'tɪʃn/ n
 ---
 replacement /rɪ'pleɪsmənt/ n   
 
-# ***\*reply*** v
+# ***\#reply*** v
 英音 rɪ'plaɪ     美音 rɪ'plaɪ  
 
 | 词频 4 | 书面 2 |  
@@ -4325,16 +4215,14 @@ replacement /rɪ'pleɪsmənt/ n
 ---
 ### 1.*高义频：* **回答；答复：**  
 
- > **reply to**  
- > reply to a question   
+ > **reply to** a question   
  > 回答问题    
 
- > **replied that**  
- > He replied that he knew nothing about it.   
+ > He **replied that** he knew nothing about it.   
  > 他回答说对此一无所知。    
 
 
-# ***\*reply*** n
+# ***\#reply*** n
 英音 rɪ'plaɪ     美音 rɪ'plaɪ  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -4348,22 +4236,20 @@ replacement /rɪ'pleɪsmənt/ n
  > I am looking forward to your early reply.  
  > 期待你早日答复。  （2008 福建书面表达）  
 
- > **make no reply**  
- > make no reply   
+ > **make no reply**   
  > 不作答复    
 
 
 固定搭配
 ---
-## \*in reply to 
+## \#in reply to 
 1.**[正式用语] 为答复：**  
 
- > **in reply to**  
- > I’m writing in reply to your letter of June 1st.   
+ > I’m writing **in reply to** your letter of June 1st.   
  > 我写这封信是为了回复你6月1日的来信。    
 
 
-# ***\*report*** v  重难点词汇
+# ***\#report*** v  重难点词汇
 英音 rɪ'pɔːt     美音 rɪ'pɔːrt  
 
 | 词频 5 | 口语 2 |  
@@ -4375,8 +4261,7 @@ replacement /rɪ'pleɪsmənt/ n
  > They will report the matter in the newspaper.   
  > 他们将在报纸上报道这件事。    
 
- > **report on**  
- > The school newspaper sent her to report on the contest.   
+ > The school newspaper sent her to **report on** the contest.   
  > 校报派她去报道本次竞赛。    
 
 - report + doing sth / (that) 从句：
@@ -4394,18 +4279,16 @@ replacement /rɪ'pleɪsmənt/ n
  > I’d like to report a robbery.   
  > 我要举报一起抢劫案。    
 
- > **report him to**  
- > We should report him to the police.   
+ > We should **report him to** the police.   
  > 我们应向警察举报他。    
 
 ### 3.*高义频：* **报到：**  
 
- > **report to**  
- > All visitors must report to the reception desk on arrival.   
+ > All visitors must **report to** the reception desk on arrival.   
  > 所有来访者到达后务必在接待处报到。    
 
 
-# ***\*report*** n  重难点词汇
+# ***\#report*** n  重难点词汇
 英音 rɪ'pɔːt     美音 rɪ'pɔːrt  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -4416,19 +4299,17 @@ replacement /rɪ'pleɪsmənt/ n
 ---
 ### 1.*高义频：* **报告；汇报；成绩报告单：**  
 
- > **give a report**  
- > make / give a report on / of / about  
+ > make / **give a report** on / of / about  
  > 作关于…的报告    
 
  > write a report  
  > 写报告    
 
- > **news,report**  
- > a news / weather / book / research report  
+ > a **news** / weather / book / research **report**  
  > 新闻报道 / 天气预报 / 读书报告 / 研究报告    
 
 
-# ***\*reportedly*** adv
+# ***\#reportedly*** adv
 英音 [rɪ'pɔːtɪdli     美音 rɪ'pɔːrtɪdli  
 
   
@@ -4438,7 +4319,7 @@ replacement /rɪ'pleɪsmənt/ n
 ### 1.**据报道；据说**  
 
 
-# ***\*reporter*** n
+# ***\#reporter*** n
 英音 rɪ'pɔːtə(r)     美音 rɪ'pɔːrtər  
 
 | 词频 4 | 口语 1 |  
@@ -4450,7 +4331,7 @@ replacement /rɪ'pleɪsmənt/ n
 ### 1.*高义频：* **记者；报告人**  
 
 
-# ***\*represent*** v  重难点词汇
+# ***\#represent*** v  重难点词汇
 英音 ˌreprɪ'zent     美音 ˌreprɪ'zent  
 
 | 词频 3 | 口语 2 | 书面 3 |  
@@ -4488,7 +4369,7 @@ replacement /rɪ'pleɪsmənt/ n
  > 对我来说，加薪10%相当于全年收入增加3600美元。    
 
 
-# ***\*representative*** n
+# ***\#representative*** n
 英音 ˌreprɪ'zentətɪv     美音 ˌreprɪ'zentətɪv  
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 2 |  
@@ -4499,19 +4380,17 @@ replacement /rɪ'pleɪsmənt/ n
 ---
 ### 1.*高义频：* **代表；代理人：**  
 
- > **representative of**  
- > a representative of Russia to the UN   
+ > a **representative of** Russia to the UN   
  > 俄罗斯驻联合国代表    
 
  > a student / sales representative  
  > 学生/销售代表    
 
  > **众议院**  
- >   
  > House of Representatives    
 
 
-# ***\*representative*** adj
+# ***\#representative*** adj
 英音 ˌreprɪ'zentətɪv     美音 ˌreprɪ'zentətɪv  
 
 | 词频 2 | 阅读 2 |  
@@ -4520,12 +4399,11 @@ replacement /rɪ'pleɪsmənt/ n
 ---
 ### 1.*高义频：* **典型的；有代表性的：**  
 
- > **representative of**  
- > be representative of the people   
+ > be **representative of** the people   
  > 代表人民    
 
 
-# ***\*reproduce*** v
+# ***\#reproduce*** v
 英音 ˌriːprə'djuːs     美音 ˌriːprə'duːs  
 
 | 词频 2 |  
@@ -4540,7 +4418,7 @@ replacement /rɪ'pleɪsmənt/ n
 ### 2.*高义频：* **生殖；繁殖**  
 
 
-# ***\*reptile*** n
+# ***\#reptile*** n
 英音 'reptaɪl     美音 'reptaɪl  
 
 | 词频 1 |  
@@ -4552,7 +4430,7 @@ replacement /rɪ'pleɪsmənt/ n
 ### 1.*高义频：* **爬行动物**  
 
 
-# ***\*republic*** n
+# ***\#republic*** n
 英音 rɪ'pʌblɪk     美音 rɪ'pʌblɪk  
 
 | 词频 2 |  
@@ -4574,7 +4452,7 @@ replacement /rɪ'pleɪsmənt/ n
 答案：
 1. republic  
 
-# ***\*reputation*** n
+# ***\#reputation*** n
 英音 ˌrepju'teɪʃn     美音 ˌrepju'teɪʃn  
 
 | 词频 3 | 书面 1 |  
@@ -4585,12 +4463,10 @@ replacement /rɪ'pleɪsmənt/ n
 ---
 ### 1.*高义频：* **名声；名誉：**  
 
- > **had,reputation for**  
- > Typical of the Scotch, Burns had a reputation for being funny and charming.    
+ > Typical of the Scotch, Burns **had** a **reputation for** being funny and charming.    
  > 彭斯是个典型的苏格兰人，他以风趣和富有魅力而闻名。  （译林⑧ – 1）  
 
- > **earn / gain,a good reputation as**  
- > earn / gain / acquire a good reputation as a doctor  
+ > **earn / gain** / acquire **a good reputation as** a doctor  
  > 作为医生获得好名声    
 
 
@@ -4601,7 +4477,7 @@ replacement /rɪ'pleɪsmənt/ n
 答案：
 1. reputation  
 
-# ***\*request*** n  重难点词汇
+# ***\#request*** n  重难点词汇
 英音 rɪ'kwest     美音 rɪ'kwest  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -4612,22 +4488,19 @@ replacement /rɪ'pleɪsmənt/ n
 ---
 ### 1.*高义频：* **（正式的）要求；请求：**  
 
- > **make,request for**  
- > make a request for help  
+ > **make** a **request for** help  
  > 请求帮助    
 
- > **request for**  
- > In Japan, the “OK” sign is a request for small change.   
+ > In Japan, the “OK” sign is a **request for** small change.   
  > 在日本，手势OK表示要零钱。  （译林⑥ – 3）  
 
- > **request that**  
- > The pianist listened to our request that he (should) play in public again.   
+ > The pianist listened to our **request that** he (should) play in public again.   
  > 那位钢琴家听从了我们的请求，答应再次公演。    
 
 
 固定搭配
 ---
-## \*at sb’s request / at the request of sb 
+## \#at sb’s request / at the request of sb 
 1.**应某人的要求：**  
 
  > The students were there at the teacher’s request.   
@@ -4645,7 +4518,7 @@ D.promises
 答案：
 1. B  
 
-# ***\*request*** vt  重难点词汇
+# ***\#request*** vt  重难点词汇
 英音 rɪ'kwest     美音 rɪ'kwest  
 
 | 词频 4 |  
@@ -4676,7 +4549,7 @@ D.promises
 答案：
 1. requesting   
 
-# ***\*require*** vt  重难点词汇
+# ***\#require*** vt  重难点词汇
 英音 rɪ'kwaɪə(r)     美音 rɪ'kwaɪər  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4716,7 +4589,7 @@ D.promises
 答案：
 1. required➜requires  
 
-# ***\*requirement*** n
+# ***\#requirement*** n
 英音 rɪ'kwaɪəmənt     美音 rɪ'kwaɪərmənt  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -4731,11 +4604,10 @@ D.promises
  > 基本的要求    
 
  > **meet / satisfy a requirement**  
- > meet / satisfy a requirement  
  > 满足要求    
 
 
-# ***\*rescue*** vt
+# ***\#rescue*** vt
 英音 'reskjuː     美音 'reskjuː  
 
 | 词频 4 | 口语 1 | 书面 1 |  
@@ -4744,12 +4616,11 @@ D.promises
 ---
 ### 1.*高义频：* **营救：**  
 
- > **rescued from**  
- > She was rescued from a burning building.   
+ > She was **rescued from** a burning building.   
  > 她从着火的楼里被救了出来。    
 
 
-# ***\*rescue*** n
+# ***\#rescue*** n
 英音 'reskjuː     美音 'reskjuː  
 
 | 词频 4 |  
@@ -4760,16 +4631,14 @@ D.promises
 ---
 ### 1.*高义频：* **救援；营救：**  
 
- > **come to sb’s rescue**  
- > come to sb’s rescue   
+ > **come to sb’s rescue**   
  > 营救某人    
 
- > **rescue workers**  
- > Some of the rescue workers and doctors were trapped under the ruins.   
+ > Some of the **rescue workers** and doctors were trapped under the ruins.   
  > 一些救援人员和医生被困在了废墟下面。  （人教① – 4）  
 
 
-# ***\*research*** n
+# ***\#research*** n
 英音 rɪ'sɜːtʃ, 'riːsɜːtʃ     美音 ri'sɜːrtʃ, 'rɪːsɜːrtʃ  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -4780,12 +4649,11 @@ D.promises
 ---
 ### 1.*高义频：* **[正式用语] 调查；研究：**  
 
- > **do research on / in / into**  
- > do research on / in / into Roman history   
+ > **do research on / in / into** Roman history   
  > 从事关于古罗马历史的研究    
 
 
-# ***\*research*** v
+# ***\#research*** v
 英音 rɪ'sɜːtʃ     美音 ri'sɜːrtʃ  
 
 | 词频 5 |  
@@ -4799,12 +4667,11 @@ D.promises
  > Doctors have been researching that question.   
  > 医生们一直在研究那个问题。  （译林⑥ – 1）  
 
- > **research into / on**  
- > research into / on ways of improving people’s diet  
+ > **research into / on** ways of improving people’s diet  
  > 研究改进人们饮食的方法    
 
 
-# ***\*researcher*** n
+# ***\#researcher*** n
 英音 rɪ'sɜːtʃə(r)     美音 rɪ'sətʃər  
 
 | 词频 5 |  
@@ -4816,7 +4683,7 @@ D.promises
 ### 1.*高义频：* **研究人员**  
 
 
-# ***\*resemble*** vt
+# ***\#resemble*** vt
 英音 rɪ'zembl     美音 rɪ'zembl  
 
 | 词频 2 | 阅读 1 |  
@@ -4830,7 +4697,7 @@ D.promises
  > 通常，作家的生活和他们所创作的人物的生活非常相似。  （ 外研⑤ – 3）  
 
 
-# ***\*reservation*** n
+# ***\#reservation*** n
 英音 ˌrezə'veɪʃn     美音 ˌrezər'veɪʃn  
 
 | 词频 2 | 口语 1 |  
@@ -4839,18 +4706,16 @@ D.promises
 ---
 ### 1.*低义频：* **[C] & [U] 保留；异议：**  
 
- > **without reservation**  
- > I accept your statement without reservation.   
+ > I accept your statement **without reservation**.   
  > 我完全相信你的话。    
 
 ### 2.*高义频：* **(旅馆房间、剧院座位等的) 预订：**  
 
- > **make a reservation**  
- > I’ll call the restaurant to make a reservation.   
+ > I’ll call the restaurant to **make a reservation**.   
  > 我来给餐馆打电话预定。    
 
 
-# ***\*reserve*** vt
+# ***\#reserve*** vt
 英音 rɪ'zɜːv     美音 rɪ'zɜːrv  
 
 | 词频 4 | 书面 1 |  
@@ -4864,16 +4729,13 @@ D.promises
 
 ### 2.*高义频：* **保留；保存；储备：**  
 
- > **reserved for**  
- > These seats are reserved for special guests.  
+ > These seats are **reserved for** special guests.  
  > 这些座位是留给贵宾的。    
 
- > **reserve the right to**  
- > If you order after that, we reserve the right to either accept or reject order requests.    
+ > If you order after that, we **reserve the right to** either accept or reject order requests.    
  > 若您在那之后订购，我们保留接受或拒绝订单的权利。  （2013 北京改）  
 
- > **reserve (my) judgment**  
- > I’ll reserve (my) judgment until I’ve looked at the details of the proposal.   
+ > I’ll **reserve (my) judgment** until I’ve looked at the details of the proposal.   
  > 在看过提议的细节之前我将保留意见。    
 
 
@@ -4884,7 +4746,7 @@ D.promises
 答案：
 1. reserve  
 
-# ***\*reserve*** n
+# ***\#reserve*** n
 英音 rɪ'zɜːv     美音 rɪ'zɜːrv  
 
 | 词频 4 | 口语 1 |  
@@ -4893,18 +4755,16 @@ D.promises
 ---
 ### 1.*高义频：* **[常用复数] 储备：**  
 
- > **oil / gold reserves**  
- > oil / gold reserves   
+ > **oil / gold reserves**   
  > 石油/黄金储备    
 
 ### 2.*高义频：* **(野生动植物的) 保护区：**  
 
- > **wildlife reserve**  
- > This coastal area was named a national wildlife reserve last year.   
+ > This coastal area was named a national **wildlife reserve** last year.   
  > 这个沿海地区去年被命名为国家野生动物保护区。  （2010 湖南）  
 
 
-# ***\*reservoir*** n
+# ***\#reservoir*** n
 英音 'rezəvwɑː(r)     美音 'rezərvwɑːr  
 
 | 词频 1 |  
@@ -4914,7 +4774,7 @@ D.promises
 ### 1.**水库**  
 
 
-# ***\*resident*** n
+# ***\#resident*** n
 英音 'rezɪdənt     美音 'rezɪdənt  
 
 | 词频 4 | 口语 1 | 书面 1 | 阅读 3 |  
@@ -4933,7 +4793,7 @@ D.promises
 ---
 residential /ˌrezɪ'denʃl/ adj   
 
-# ***\*resident*** adj
+# ***\#resident*** adj
 英音 'rezɪdənt     美音 'rezɪdənt  
 
 | 词频 4 | 口语 1 | 书面 1 | 阅读 3 |  
@@ -4943,7 +4803,7 @@ residential /ˌrezɪ'denʃl/ adj
 ### 1.**（在某地）居住的**  
 
 
-# ***\*resign*** v
+# ***\#resign*** v
 英音 rɪ'zaɪn     美音 rɪ'zaɪn  
 
 | 词频 1 | 书面 1 |  
@@ -4952,8 +4812,7 @@ residential /ˌrezɪ'denʃl/ adj
 ---
 ### 1.*高义频：* **辞去 (职务)；放弃：**  
 
- > **resign from**  
- > resign from a job   
+ > **resign from** a job   
  > 辞职    
 
  > They overheard him say that he hoped John would resign.   
@@ -4963,7 +4822,7 @@ residential /ˌrezɪ'denʃl/ adj
  > 汤姆已经退出了高尔夫球俱乐部。    
 
 
-# ***\*resist*** v
+# ***\#resist*** v
 英音 rɪ'zɪst     美音 rɪ'zɪst  
 
 | 词频 2 | 书面 1 |  
@@ -4979,18 +4838,15 @@ residential /ˌrezɪ'denʃl/ adj
 
 ### 2.*高义频：* **[常用于否定句] 忍住；抵制：**  
 
- > **resist the temptation**  
- > I can’t resist the temptation.   
+ > I can’t **resist the temptation**.   
  > 我抵制不了这种诱惑。    
 
- > **I couldn’t resist it**  
- > I finished the cake. I couldn’t resist it.   
+ > I finished the cake. **I couldn’t resist it**.   
  > 我忍不住把蛋糕吃光了。    
 
 - resist doing sth:
 
- > **hard to resist buying**  
- > He found it hard to resist buying these books.   
+ > He found it **hard to resist buying** these books.   
  > 他发现忍住不买这些书很难。    
 
 ### 3.*高义频：* **抵抗：**  
@@ -5003,7 +4859,7 @@ residential /ˌrezɪ'denʃl/ adj
 ---
 resistance /rɪ'zɪstəns/ n   
 
-# ***\*resistance*** n
+# ***\#resistance*** n
 英音 rɪ'zɪstəns     美音 rɪ'zɪstəns  
 
 | 词频 2 |  
@@ -5013,7 +4869,7 @@ resistance /rɪ'zɪstəns/ n
 ### 1.**反抗；抵制**  
 
 
-# ***\*resolution*** n
+# ***\#resolution*** n
 英音 ˌrezə'luːʃn     美音 ˌrezə'luːʃn  
 
 | 词频 3 |  
@@ -5023,7 +4879,7 @@ resistance /rɪ'zɪstəns/ n
 ### 1.**决心要做的事**  
 
 
-# ***\*resolve*** v
+# ***\#resolve*** v
 英音 rɪ'zɒlv     美音 rɪ'zɑːlv  
 
 | 词频 2 | 书面 1 |  
@@ -5034,14 +4890,12 @@ resistance /rɪ'zɪstəns/ n
 ---
 ### 1.*高义频：* **解决 (settle)：**  
 
- > **resolve a conflict / an issue**  
- > resolve a conflict / an issue / difficulties  
+ > **resolve a conflict / an issue** / difficulties  
  > 解决冲突/解决问题/解决难题    
 
 ### 2.*高义频：* **[正式用语] 决心；决定：**  
 
- > **resolving to lose**  
- > Instead of resolving to lose weight, try an actionable resolution: “I’ll stop having dessert for lunch.”    
+ > Instead of **resolving to lose** weight, try an actionable resolution: “I’ll stop having dessert for lunch.”    
  > 不要光下决心减肥，要尝试一个可行性的决心：“我午餐不再吃甜品。”  （2014 北京改）  
 
 
@@ -5052,7 +4906,7 @@ resolution /ˌrezə'luːʃn/ n [C] & [U]
  > 冲突解决    
 
 
-# ***\*resort*** n
+# ***\#resort*** n
 英音 rɪ'zɔːt     美音 rɪ'zɔːrt  
 
 | 词频 2 | 书面 1 |  
@@ -5064,7 +4918,7 @@ resolution /ˌrezə'luːʃn/ n [C] & [U]
 ### 1.*高义频：* **度假胜地**  
 
 
-# ***\*resource*** n
+# ***\#resource*** n
 英音 rɪ'sɔːs; rɪ'zɔːs     美音 'riːsɔːs  
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
@@ -5075,16 +4929,14 @@ resolution /ˌrezə'luːʃn/ n [C] & [U]
 ---
 ### 1.*高义频：* **资源；物力；财力：**  
 
- > **natural resources**  
- > natural resources   
+ > **natural resources**   
  > 自然资源    
 
- > **financial resources**  
- > She had no financial resources.   
+ > She had no **financial resources**.   
  > 她没有钱。    
 
 
-# ***\*respect*** vt
+# ***\#respect*** vt
 英音 rɪ'spekt     美音 rɪ'spekt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5110,7 +4962,7 @@ respectful /rɪ'spektfl/ adj
 respective /rɪ'spektɪv/ adj   
 respectively /rɪ'spektɪvli/ adv   
 
-# ***\*respect*** n
+# ***\#respect*** n
 英音 rɪ'spekt     美音 rɪ'spekt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5122,33 +4974,30 @@ respectively /rɪ'spektɪvli/ adv
  > Friendship is built upon respect for each other.  
  > 友谊建立在彼此尊重的基础之上。  （2014 浙江）  
 
- > **win the respect of**  
- > win the respect of   
+ > **win the respect of**   
  > 赢得…的尊重    
 
 ### 2.*高义频：* **问候：**  
 
- > **Give my respects to**  
- > Give my respects to your father.   
+ > **Give my respects to** your father.   
  > 代我向你父亲致意。    
 
 ### 3.*高义频：* **[C] 关系；方面：**  
 
- > **In this respect**  
- > In this respect, new technologies have shaped our culture.   
+ > **In this respect**, new technologies have shaped our culture.   
  > 在这一方面，新技术塑造了我们的文化。    
 
 
 固定搭配
 ---
-## \*in respect of 
+## \#in respect of 
 1.**关于；就…而言**  
 
-## \*with respect to 
+## \#with respect to 
 1.**关于；就…而言**  
 
 
-# ***\*respectful*** adj
+# ***\#respectful*** adj
 英音 rɪ'spektfl     美音 rɪ'spektfl  
 
 | 词频 2 |  
@@ -5158,7 +5007,7 @@ respectively /rɪ'spektɪvli/ adv
 ### 1.*高义频：* **恭敬的**  
 
 
-# ***\*respond*** v
+# ***\#respond*** v
 英音 rɪ'spɒnd     美音 rɪ'spɑːnd  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -5167,15 +5016,13 @@ respectively /rɪ'spektɪvli/ adv
 ---
 ### 1.*高义频：* **回答 (reply)：**  
 
- > **respond to**  
- > respond to a letter   
+ > **respond to** a letter   
  > 回信    
 
  > respond with a smile   
  > 报以微笑    
 
- > **responded that**  
- > When asked about the company’s future, the director responded that he remained optimistic.   
+ > When asked about the company’s future, the director **responded that** he remained optimistic.   
  > 当被问到公司的未来时，经理回答说他依然乐观。    
 
 ### 2.*高义频：* **响应；有反应 (react)：**  
@@ -5184,7 +5031,7 @@ respectively /rɪ'spektɪvli/ adv
  > 懂得基本的急救技能将有助于你对紧急情况做出迅速反应。  （2013 福建）  
 
 
-# ***\*response*** n
+# ***\#response*** n
 英音 rɪ'spɒns     美音 rɪ'spɑːns  
 
 | 词频 4 | 口语 3 | 书面 3 |  
@@ -5198,8 +5045,7 @@ respectively /rɪ'spektɪvli/ adv
  > a quick response   
  > 迅速的答复    
 
- > **make,response**  
- > make no response to the question   
+ > **make** no **response** to the question   
  > 没有对提问作答    
 
  > bring / produce response   
@@ -5208,14 +5054,14 @@ respectively /rɪ'spektɪvli/ adv
 
 固定搭配
 ---
-## \*in response (to) 
+## \#in response (to) 
 1.**作为 (对…的) 回答 / 反应：**  
 
  > The government acted in response to economic pressure.   
  > 政府为应对经济压力采取了行动。    
 
 
-# ***\*responsibility*** n  重难点词汇
+# ***\#responsibility*** n  重难点词汇
 英音 rɪˌspɒnsə'bɪləti     美音 rɪˌspɑːnsə'bɪləti  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -5226,20 +5072,17 @@ respectively /rɪ'spektɪvli/ adv
 ---
 ### 1.*高义频：* **责任；职责：**  
 
- > **accept,responsibility**  
- > accept / shoulder (a) responsibility   
+ > **accept** / shoulder (a) **responsibility**   
  > 承担/担起责任    
 
- > **Taking responsibility for**  
- > Taking responsibility for something that went wrong is a mark of great maturity.   
+ > **Taking responsibility for** something that went wrong is a mark of great maturity.   
  > 对做错的事负责是非常成熟的标志。  （2010 天津）  
 
- > **moral responsibility**  
- > The media has a moral responsibility to report news truthfully.   
+ > The media has a **moral responsibility** to report news truthfully.   
  > 媒体有如实报道新闻的道德责任。  （人教⑧ – 2）  
 
 
-# ***\*responsible*** adj
+# ***\#responsible*** adj
 英音 rɪ'spɒnsəbl     美音 rɪ'spɑːnsəbl  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -5251,12 +5094,11 @@ respectively /rɪ'spektɪvli/ adv
  > a responsible teacher   
  > 负责的老师    
 
- > **is,responsible for**  
- > Human activity is not responsible for all water shortages.   
+ > Human activity **is** not **responsible for** all water shortages.   
  > 水资源短缺不完全是由人类活动造成的。  （2013 安徽）  
 
 
-# ***\*rest*** v
+# ***\#rest*** v
 英音 rest     美音 rest  
 
 | 词频 5 | 口语 1 | 书面 1 |  
@@ -5272,7 +5114,7 @@ respectively /rɪ'spektɪvli/ adv
  > 她从没得到过片刻休息。    
 
 
-# ***\*rest*** n
+# ***\#rest*** n
 英音 rest     美音 rest  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5281,14 +5123,12 @@ respectively /rɪ'spektɪvli/ adv
 ---
 ### 1.*高义频：* **[C] & [U] 休息：**  
 
- > **have / take a rest**  
- > Let’s have / take a rest under the tree.   
+ > Let’s **have / take a rest** under the tree.   
  > 我们在这棵树下休息一下吧。    
 
 ### 2.*高义频：* **[与the连用] 剩余部分；余下的人 / 物：**  
 
- > **the rest of his life**  
- > He lived the rest of his life in the US.   
+ > He lived **the rest of his life** in the US.   
  > 他在美国度过了余生。    
 
  > Three of us will go; the rest are to stay here.   
@@ -5306,7 +5146,7 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
 答案：
 1. were  
 
-# ***\*restaurant*** n
+# ***\#restaurant*** n
 英音 'restrɒnt     美音 'restrɑːnt  
 
 | 词频 5 | 书面 2 |  
@@ -5321,7 +5161,7 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
  > 经营餐馆    
 
 
-# ***\*restore*** vt
+# ***\#restore*** vt
 英音 rɪ'stɔː(r)     美音 rɪ'stɔːr  
 
 | 词频 2 | 书面 1 |  
@@ -5334,7 +5174,7 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
  > 她的工作是修复古画。    
 
 
-# ***\*restrict*** vt
+# ***\#restrict*** vt
 英音 rɪ'strɪkt     美音 rɪ'strɪkt  
 
 | 词频 2 | 书面 1 | 阅读 1 |  
@@ -5347,7 +5187,7 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
  > 限制某人的自由    
 
 
-# ***\*restriction*** n
+# ***\#restriction*** n
 英音 rɪ'strɪkʃn     美音 rɪ'strɪkʃn  
 
 | 词频 1 | 书面 1 | 阅读 1 |  
@@ -5358,16 +5198,14 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
 ---
 ### 1.*高义频：* **限制；约束：**  
 
- > **import / speed restrictions**  
- > import / speed restrictions   
+ > **import / speed restrictions**   
  > 进口/速度限制    
 
- > **restriction on**  
- > a restriction on smoking in schools  
+ > a **restriction on** smoking in schools  
  > 禁止在学校吸烟    
 
 
-# ***\*restrictive*** adj
+# ***\#restrictive*** adj
 英音 rɪ'strɪktɪv     美音 rɪ'strɪktɪv  
 
 | 词频 1 |  
@@ -5377,7 +5215,7 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
 ### 1.*高义频：* **限制 (性) 的；约束(性) 的**  
 
 
-# ***\*result*** n  重难点词汇
+# ***\#result*** n  重难点词汇
 英音 rɪ'zʌlt     美音 rɪ'zʌlt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -5386,12 +5224,10 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
 ---
 ### 1.*高义频：* **[C] & [U] 结果；成果：**  
 
- > **achieve,results**  
- > If you believe in yourself and work hard, you can achieve great results.   
+ > If you believe in yourself and work hard, you can **achieve** great **results**.   
  > 相信自己并付出努力，你就会得到好结果。  （ 2008 浙江）  
 
- > **result of**  
- > The book is the result of 25 years of research.   
+ > The book is the **result of** 25 years of research.   
  > 这本书是25年研究的成果。    
 
 ### 2.*高义频：* **比赛结果；考试成绩：**  
@@ -5405,7 +5241,7 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
 
 固定搭配
 ---
-## \*as a result (of) 
+## \#as a result (of) 
 1.**作为 (…的) 结果：**  
 
  > Alice overslept this morning. As a result, she was late for work.  
@@ -5423,7 +5259,7 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
 答案：
 1. of  2. as a result  
 
-# ***\*result*** vi  重难点词汇
+# ***\#result*** vi  重难点词汇
 英音 rɪ'zʌlt     美音 rɪ'zʌlt  
 
 | 词频 5 |  
@@ -5435,20 +5271,20 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
 
 固定搭配
 ---
-## \*result from 
+## \#result from 
 1.**因…发生；随…产生：**  
 
  > Pollution and other serious problems have resulted from human progress.   
  > 人类的发展引起了污染和其他严重的问题。    
 
-## \*result in 
+## \#result in 
 1.**造成；导致 (cause / lead to)：**  
 
  > I learned that shouting and threats of punishment would result in a disaster.  
  > 我认识到叫嚣和威胁惩罚会导致祸端。  （2014 湖北）  
 
 
-# ***\*resume*** vt
+# ***\#resume*** vt
 英音 rɪ'zjuːm     美音 rɪ'zuːm  
 
 | 词频 2 |  
@@ -5466,7 +5302,7 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
  > 休息之后我们重新开始工作。    
 
 
-# ***\*resume*** n
+# ***\#resume*** n
 英音 'rezjumeɪ     美音 'rezjumeɪ  
 
 | 词频 2 |  
@@ -5481,7 +5317,7 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
  > 你们的记者给了我一份他的简历。  （2010 北京）  
 
 
-# ***\*retell*** vt
+# ***\#retell*** vt
 英音 ˌriː'tel     美音 ˌriː'tel  
 
 | 词频 2 |  
@@ -5503,7 +5339,7 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
 答案：
 1. retell  
 
-# ***\*retire*** v
+# ***\#retire*** v
 英音 rɪ'taɪə(r)     美音 rɪ'taɪər  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -5512,12 +5348,10 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
 ---
 ### 1.*高义频：* **(使) 退休；(使) 引退：**  
 
- > **retired**  
- > At age 68, he retired, but he never stopped serving the community.    
+ > At age 68, he **retired**, but he never stopped serving the community.    
  > 在68岁时，他退休了，但从未停止过服务于社区。  （2015 天津改）  
 
- > **retires from**  
- > The work of a great sportsman does not finish when he retires from the sport.    
+ > The work of a great sportsman does not finish when he **retires from** the sport.    
  > 当一个伟大的运动员退役后他的工作并没有结束。  （外研⑤ – 5）  
 
 
@@ -5526,7 +5360,7 @@ Notes: the rest (of sth) 作主语时，若指代可数名词，谓语动词用�
 retired /rɪ'taɪəd/ adj   
 retirement /rɪ'taɪəmənt/ n [C] & [U]  
 
-# ***\*retired*** adj
+# ***\#retired*** adj
 英音 rɪ'taɪəd     美音 rɪ'taɪərd  
 
   
@@ -5536,7 +5370,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ### 1.**退休的**  
 
 
-# ***\*retirement*** n
+# ***\#retirement*** n
 英音 rɪ'taɪəmənt     美音 rɪ'taɪəmənt  
 
 | 词频 3 |  
@@ -5546,7 +5380,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ### 1.**退休**  
 
 
-# ***\*retreat*** v
+# ***\#retreat*** v
 英音 rɪ'triːt     美音 rɪ'triːt  
 
 | 词频 1 |  
@@ -5556,7 +5390,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ### 1.**撤退，后退**  
 
 
-# ***\*return*** n
+# ***\#return*** n
 英音 rɪ'tɜːn     美音 rɪ'tɜːrn  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -5567,21 +5401,18 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ---
 ### 1.*高义频：* **回来；归来；再现：**  
 
- > **return flight / journey**  
- > the return flight / journey   
+ > the **return flight / journey**   
  > 返程航班/回程    
 
  > This festival is meant to celebrate the return of spring after winter.   
  > 这个节日旨在庆祝冬去春来。    
 
- > **Upon,return**  
- > Upon her return home, Alice was filled with joy at the news.    
+ > **Upon** her **return** home, Alice was filled with joy at the news.    
  > 爱丽斯一回到家，听到这个消息高兴万分。  （2015 重庆）  
 
 ### 2.*高义频：* **归还；退还；放回：**  
 
- > **return address**  
- > The return address on the envelope caught his attention.   
+ > The **return address** on the envelope caught his attention.   
  > 信封上的寄件人地址引起了他的注意。  （2008 江苏）  
 
  > Your satisfaction is guaranteed, with our 30-day return privilege.    
@@ -5590,7 +5421,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 
 固定搭配
 ---
-## \*in return (for sth) 
+## \#in return (for sth) 
 1.**作为 (…的) 交换; 作为 (…的) 回报：**  
 
  > If we smile at life, life will smile on us in return.    
@@ -5607,7 +5438,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 答案：
 1. in  
 
-# ***\*return*** v
+# ***\#return*** v
 英音 rɪ'tɜːn     美音 rɪ'tɜːrn  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -5616,8 +5447,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ---
 ### 1.*高义频：* **回来；返回；重新出现 (go / come back)：**  
 
- > **returned,to,from_1**  
- > By the time Jack returned home / to his home from England, his son had graduated from college.    
+ > By the time Jack **returned** home / **to** his home from England, his son had graduated from college. **from_1**  
  > 当杰克从英国回到家乡的时候，他的儿子已经大学毕业了。  （2011 辽宁改）  
 
  > If the pain returns, make another appointment to see the doctor.   
@@ -5625,32 +5455,28 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 
 ### 2.*高义频：* **归还；送回；放回：**  
 
- > **return,to**  
- > Please make sure you return the book to the library before it’s due.  
+ > Please make sure you **return** the book **to** the library before it’s due.  
  > 请务必在到期前把书还给图书馆。  （2012 全国改）  
 
- > **returned,to**  
- > My mother’s call returned me to the real world.   
+ > My mother’s call **returned** me **to** the real world.   
  > 母亲的喊声把我带回到现实世界。  （2015 天津）  
 
 ### 3.*低义频：* **(以相同的东西) 回报 / 报答：**  
 
- > **return the favour**  
- > Thanks for helping me. I’ll try to return the favour some day.   
+ > Thanks for helping me. I’ll try to **return the favour** some day.   
  > 谢谢你对我的帮助，有朝一日我会报答你的。    
 
 
 固定搭配
 ---
-## \*return to
+## \#return to
 1.**(使) 恢复；继续做；重新做：**  
 
- > **return to normal**  
- > Even with treatment, they may never return to normal.    
+ > Even with treatment, they may never **return to normal**.    
  > 即使经过治疗，他们也可能无法恢复正常。  （北师大⑦-21）  
 
 
-# ***\*reunite*** vt
+# ***\#reunite*** vt
 英音 ˌriːjuː'naɪt     美音 ˌriːjuː'naɪt  
 
 | 词频 1 |  
@@ -5661,12 +5487,11 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ---
 ### 1.*高义频：* **再统一；再联合；重聚：**  
 
- > **reunited with**  
- > The children were finally reunited with their families.   
+ > The children were finally **reunited with** their families.   
  > 孩子们终于和自己的家人重聚了。    
 
 
-# ***\*reusable*** adj
+# ***\#reusable*** adj
 英音 ˌriː'juːzəbl     美音 ˌriː'juːzəbl  
 
   
@@ -5676,7 +5501,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ### 1.**可再度使用的，可多次使用的**  
 
 
-# ***\*reuse*** vt
+# ***\#reuse*** vt
 英音 ˌriː'juːz     美音 ˌriː'juːz  
 
 | 词频 2 |  
@@ -5689,7 +5514,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
  > 工厂的废水净化后重新使用，可以节约很多钱。    
 
 
-# ***\*reveal*** vt
+# ***\#reveal*** vt
 英音 rɪ'viːl     美音 rɪ'viːl  
 
 | 词频 2 | 书面 3 | 阅读 2 |  
@@ -5698,12 +5523,11 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ---
 ### 1.*高义频：* **揭露；泄露：**  
 
- > **reveal,to**  
- > He did not reveal his secret plan to us.   
+ > He did not **reveal** his secret plan **to** us.   
  > 他没有向我们透露他的秘密计划。    
 
 
-# ***\*revenge*** v
+# ***\#revenge*** v
 英音 rɪ'vendʒ     美音 rɪ'vendʒ  
 
 | 词频 1 |  
@@ -5713,7 +5537,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ### 1.**报仇，复仇**  
 
 
-# ***\*revenge*** n
+# ***\#revenge*** n
 英音 rɪ'vendʒ     美音 rɪ'vendʒ  
 
 | 词频 1 |  
@@ -5723,7 +5547,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ### 1.**复仇；报复**  
 
 
-# ***\*revenue*** n
+# ***\#revenue*** n
 英音 'revənjuː     美音 'revənuː  
 
 | 词频 1 | 书面 2 |  
@@ -5735,7 +5559,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ### 1.*高义频：* **收入；税收**  
 
 
-# ***\*reverse*** v
+# ***\#reverse*** v
 英音 rɪ'vɜːs     美音 rɪ'vɜːrs  
 
 | 词频 1 | 书面 1 |  
@@ -5745,7 +5569,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ### 1.*高义频：* **vt 颠倒；改变；vt & vi 倒 (车)**  
 
 
-# ***\*reverse*** n
+# ***\#reverse*** n
 英音 rɪ'vɜːs     美音 rɪ'vɜːrs  
 
 | 词频 1 |  
@@ -5757,7 +5581,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ### 1.*高义频：* **相反；反面；(机动车的) 倒挡**  
 
 
-# ***\*review*** vt  重难点词汇
+# ***\#review*** vt  重难点词汇
 英音 rɪ'vjuː     美音 rɪ'vjuː  
 
 | 词频 4 | 口语 1 | 书面 1 | 阅读 3 |  
@@ -5792,7 +5616,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 答案：
 1. review / revise  
 
-# ***\*review*** n  重难点词汇
+# ***\#review*** n  重难点词汇
 英音 rɪ'vjuː     美音 rɪ'vjuː  
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
@@ -5811,12 +5635,11 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
  > a book / film review   
  > 书评/影评    
 
- > **good reviews**  
- > His first novel has received good reviews since it came out last month.   
+ > His first novel has received **good reviews** since it came out last month.   
  > 他的第一部小说自上月出版以来一直备受好评。  （ 2011 陕西）  
 
 
-# ***\*revise*** v
+# ***\#revise*** v
 英音 rɪ'vaɪz     美音 rɪ'vaɪz  
 
 | 词频 2 |  
@@ -5841,7 +5664,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 答案：
 1. revised  
 
-# ***\*revision*** n
+# ***\#revision*** n
 英音 rɪ'vɪʒn     美音 rɪ'vɪʒn  
 
 | 词频 2 | 阅读 1 |  
@@ -5856,7 +5679,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ### 2.*高义频：* **[C] & [U] 修订；修正**  
 
 
-# ***\*revival*** n
+# ***\#revival*** n
 英音 rɪ'vaɪvl     美音 rɪ'vaɪvl  
 
 | 词频 1 |  
@@ -5869,7 +5692,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
  > 一股经济艺术复兴的大潮正席卷全国。    
 
 
-# ***\*revive*** vt
+# ***\#revive*** vt
 英音 rɪ'vaɪv     美音 rɪ'vaɪv  
 
 | 词频 1 |  
@@ -5882,7 +5705,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
  > 经济开始复苏。    
 
 
-# ***\*revolution*** n
+# ***\#revolution*** n
 英音 ˌrevə'luːʃn     美音 ˌrevə'luːʃn  
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 3 |  
@@ -5897,7 +5720,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
  > 工业革命    
 
 
-# ***\*revolutionary*** adj
+# ***\#revolutionary*** adj
 英音 ˌrevə'luːʃəneri     美音 ˌrevə'luːʃəneri  
 
 | 词频 1 | 阅读 1 |  
@@ -5910,7 +5733,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
  > 哥白尼的革命性理论  （人教⑤ – 1）  
 
 
-# ***\*revolve*** v
+# ***\#revolve*** v
 英音 rɪ'vɒlv     美音 rɪ'vɑːlv  
 
 | 词频 1 |  
@@ -5920,7 +5743,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 ### 1.*高义频：* **(使) 旋转**  
 
 
-# ***\*reward*** n  重难点词汇
+# ***\#reward*** n  重难点词汇
 英音 rɪ'wɔːd     美音 rɪ'wɔːrd  
 
 | 词频 4 | 书面 1 |  
@@ -5933,8 +5756,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
  > My grandmother says that a good deed is its own reward.   
  > 我祖母说善举本身就是回报。  （2012 浙江改）  
 
- > **financial rewards**  
- > This job is difficult, but the financial rewards are great.   
+ > This job is difficult, but the **financial rewards** are great.   
  > 这项工作很辛苦，但报酬丰厚。    
 
  > The school has a system of rewards and punishments to encourage good behaviour.   
@@ -5942,19 +5764,26 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
 
 ### 2.*高义频：* **[C] 悬赏金；赏金：**  
 
- > **reward for**  
- > There is a reward for information leading to catching the killer.   
+ > There is a **reward for** information leading to catching the killer.   
  > 为抓捕凶手提供消息的人有悬赏金。    
 
- > **reward of**  
- > The old lady is offering a reward of $50 to anyone who finds her cat for her!   
+ > The old lady is offering a **reward of** $50 to anyone who finds her cat for her!   
  > 不管谁找到她的猫，老太太都会给50美元的赏金！  （北师大⑤ – 14）  
 
 #### 辨析 reward, award, prize
   
+**reward ** 一指因工作、贡献等而得到的“回报”、“报酬”。二指因给警方提供帮助或帮助他人找回失物而得到的“赏金”。
+**award ** 指因某种突出的成就而由官方颁发的奖赏或荣誉，可以是“奖 (品)”、“奖状”、“奖金”等。
+**prize ** 指因在某方面作出巨大的贡献或在竞赛、比赛中胜出而获得的“奖赏”、“奖品”。
+ > the **Nobel Prize for** Physics / Medicine / Peace   
+ > 诺贝尔物理学奖/医学奖/和平奖    
+
+ > She won the **first prize** at the speech contest.   
+ > 她在演讲比赛中获得了一等奖。    
 
 
-# ***\*reward*** vt  重难点词汇
+
+# ***\#reward*** vt  重难点词汇
 英音 rɪ'wɔːd     美音 rɪ'wɔːrd  
 
 | 词频 4 |  
@@ -5966,8 +5795,7 @@ retirement /rɪ'taɪəmənt/ n [C] & [U]
  > The police will reward whoever provides useful information to catch the robber.  
  > 任何人提供有用信息帮助抓住劫匪，警方将予以奖励。  （2014 湖北）  
 
- > **rewarded with**  
- > The students have been working hard on their lessons and their efforts will be rewarded with success in the end.  
+ > The students have been working hard on their lessons and their efforts will be **rewarded with** success in the end.  
  > 学生们一直努力学习功课，他们的努力最终会带来成功。  （2016 北京）  
 
 
@@ -5978,7 +5806,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
  > 当被问及对教学工作的看法时，菲利普说它既有趣又有意义。  （2012 安徽）  
 
 
-# ***\*rewind*** v
+# ***\#rewind*** v
 英音 ˌriː'waɪnd     美音 ˌriː'waɪnd  
 
 | 词频 1 |  
@@ -5993,7 +5821,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
  > 倒带    
 
 
-# ***\*rewrite*** vt
+# ***\#rewrite*** vt
 英音 ˌriː'raɪt     美音 ˌriː'raɪt  
 
 | 词频 2 |  
@@ -6005,7 +5833,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 ### 1.*高义频：* **重写；改写 (故事等)**  
 
 
-# ***\*rhetorical*** adj
+# ***\#rhetorical*** adj
 英音 rɪ'tɒrɪkl     美音 rɪ'tɔːrɪkl  
 
 | 词频 1 |  
@@ -6015,7 +5843,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 ### 1.**修辞的**  
 
 
-# ***\*rhino*** n
+# ***\#rhino*** n
 英音 'raɪnəʊ     美音 'raɪnoʊ  
 
 | 词频 1 |  
@@ -6025,7 +5853,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 ### 1.*高义频：* **[pl rhinos] 犀牛**  
 
 
-# ***\*rhyme*** n
+# ***\#rhyme*** n
 英音 raɪm     美音 raɪm  
 
 | 词频 1 |  
@@ -6034,8 +5862,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 ---
 ### 1.*低义频：* **[U] 韵；押韵：**  
 
- > **in rhyme**  
- > It is a poem written in rhyme.   
+ > It is a poem written **in rhyme**.   
  > 这是一首押韵的诗。    
 
 ### 2.*低义频：* **[C] 押韵诗；儿歌；韵文：**  
@@ -6044,7 +5871,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
  > 儿歌和童话    
 
 
-# ***\*rhyme*** v
+# ***\#rhyme*** v
 英音 raɪm     美音 raɪm  
 
 | 词频 1 |  
@@ -6053,12 +5880,11 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 ---
 ### 1.*高义频：* **(使) 押韵：**  
 
- > **rhymes with**  
- > “Though” rhymes with “low”.   
+ > “Though” **rhymes with** “low”.   
  > though和low押韵。    
 
 
-# ***\*rhythm*** n
+# ***\#rhythm*** n
 英音 'rɪðəm     美音 'rɪðəm  
 
 | 词频 2 | 书面 1 |  
@@ -6073,7 +5899,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
  > 她开始随着音乐的节拍跳舞。    
 
 
-# ***\*rhythmic*** adj
+# ***\#rhythmic*** adj
 英音 'rɪðmɪk     美音 'rɪðmɪk  
 
 | 词频 1 |  
@@ -6085,7 +5911,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 ### 1.*高义频：* **有节奏的；节奏强劲的**  
 
 
-# ***\*ribbon*** n
+# ***\#ribbon*** n
 英音 'rɪbən     美音 'rɪbən  
 
 | 词频 1 |  
@@ -6097,7 +5923,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 ### 1.*高义频：* **丝带；带状物**  
 
 
-# ***\*rice*** n
+# ***\#rice*** n
 英音 raɪs     美音 raɪs  
 
 | 词频 3 | 口语 1 |  
@@ -6112,7 +5938,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
  > 大米是印度、中国和日本的主食。    
 
 
-# ***\*rich*** adj
+# ***\#rich*** adj
 英音 rɪtʃ     美音 rɪtʃ  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -6132,7 +5958,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 
 固定搭配
 ---
-## \*be rich in 
+## \#be rich in 
 1.**在…方面丰富：**  
 
  > The country is rich in resources.   
@@ -6144,7 +5970,7 @@ rewarding /rɪ'wɔːdɪŋ/ adj
 richly /'rɪtʃli/ adv   
 richness /'rɪtʃnəs/ n   
 
-# ***\*rickets*** n
+# ***\#rickets*** n
 英音 'rɪkɪts     美音 'rɪkɪts  
 
 | 词频 1 |  
@@ -6156,7 +5982,7 @@ richness /'rɪtʃnəs/ n
 ### 1.*高义频：* **佝偻病**  
 
 
-# ***\*rid*** vt
+# ***\#rid*** vt
 英音 rɪd     美音 rɪd  
 
 | 词频 3 | 口语 3 |  
@@ -6165,7 +5991,7 @@ richness /'rɪtʃnəs/ n
 
 固定搭配
 ---
-## \*be / get rid of 
+## \#be / get rid of 
 1.**摆脱；除去：**  
 
  > He is rid of fever.   
@@ -6174,7 +6000,7 @@ richness /'rɪtʃnəs/ n
  > We couldn’t get rid of the smell of fish.   
  > 我们除不掉鱼腥味。  （北师大⑧ – 23）  
 
-## \*rid sb / sth of sth
+## \#rid sb / sth of sth
 1.**[正式用语] 使摆脱；使除掉：**  
 
  > Thanks to his research, the UN has more tools in the battle to rid the world of hunger.   
@@ -6184,7 +6010,7 @@ richness /'rɪtʃnəs/ n
  > 还清债务    
 
 
-# ***\*riddle*** n
+# ***\#riddle*** n
 英音 'rɪdl     美音 'rɪdl  
 
 | 词频 1 |  
@@ -6195,12 +6021,11 @@ richness /'rɪtʃnəs/ n
 ---
 ### 1.*高义频：* **谜；难以理解的人 / 事：**  
 
- > **solve,riddle**  
- > solve / answer a riddle   
+ > **solve** / answer a **riddle**   
  > 猜谜；解谜    
 
 
-# ***\*ride*** v
+# ***\#ride*** v
 英音 raɪd     美音 raɪd  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -6211,8 +6036,7 @@ richness /'rɪtʃnəs/ n
 ---
 ### 1.*高义频：* **骑 (马等)；乘 (车等)：**  
 
- > **ride on**  
- > ride on a motorcycle / horse   
+ > **ride on** a motorcycle / horse   
  > 骑摩托车/马    
 
  > ride in / on a train   
@@ -6222,7 +6046,7 @@ richness /'rɪtʃnəs/ n
  > 乘电梯    
 
 
-# ***\*ride*** n
+# ***\#ride*** n
 英音 raɪd     美音 raɪd  
 
 | 词频 5 | 口语 1 |  
@@ -6233,8 +6057,7 @@ richness /'rɪtʃnəs/ n
 ---
 ### 1.*高义频：* **乘车；骑； (游乐园中) 供骑、乘的玩具：**  
 
- > **give you a ride**  
- > Shall I give you a ride as you live so far away?   
+ > Shall I **give you a ride** as you live so far away?   
  > 你住那么远，我顺路捎你一程吧？    
 
  > Although Dollywood has rides, the park’s main attraction is its culture.   
@@ -6246,7 +6069,7 @@ richness /'rɪtʃnəs/ n
 rider /'raɪdə(r)/ n [C]  
 riding /'raɪdɪŋ/ n [U]  
 
-# ***\*ridge*** n
+# ***\#ridge*** n
 英音 rɪdʒ     美音 rɪdʒ  
 
 | 词频 2 |  
@@ -6258,7 +6081,7 @@ riding /'raɪdɪŋ/ n [U]
 ### 1.*高义频：* **山脊；屋脊**  
 
 
-# ***\*ridiculous*** adj
+# ***\#ridiculous*** adj
 英音 rɪ'dɪkjələs     美音 rɪ'dɪkjələs  
 
 | 词频 2 | 口语 2 | 阅读 2 |  
@@ -6268,7 +6091,7 @@ riding /'raɪdɪŋ/ n [U]
 ### 1.*高义频：* **荒谬的；可笑的；滑稽的 (absurd)**  
 
 
-# ***\*right*** adj
+# ***\#right*** adj
 英音 raɪt     美音 raɪt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6281,8 +6104,7 @@ riding /'raɪdɪŋ/ n [U]
  > Rules often tell us what is right or wrong.   
  > 规则往往告诉我们什么是正确的或什么是错误的。    
 
- > **right to**  
- > It is right to be kind to other people.   
+ > It is **right to** be kind to other people.   
  > 善待他人是正确的。    
 
 ### 2.*高义频：* **右的；右翼的**  
@@ -6303,7 +6125,7 @@ riding /'raɪdɪŋ/ n [U]
  > 你这会儿感觉好吗?    
 
 
-# ***\*right*** adv
+# ***\#right*** adv
 英音 raɪt     美音 raɪt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6312,8 +6134,7 @@ riding /'raɪdɪŋ/ n [U]
 ---
 ### 1.*高义频：* **恰好：**  
 
- > **Right after**  
- > Right after he was rescued by the soldiers from the ruins, he saluted and smiled to them.  
+ > **Right after** he was rescued by the soldiers from the ruins, he saluted and smiled to them.  
  > 他刚被战士们从废墟中救出来就微笑着向他们敬礼。  （2010 湖北书面表达）  
 
 ### 2.*高义频：* **正确地**  
@@ -6331,20 +6152,20 @@ riding /'raɪdɪŋ/ n [U]
 
 固定搭配
 ---
-## \*right now 
+## \#right now 
 1.**现在；立刻；马上：**  
 
  > I’d better clean the screen of computer right now.   
  > 我还是现在就把电脑屏幕擦干净吧。    
 
-## \*right away 
+## \#right away 
 1.**立刻：**  
 
  > Imagine your home begins to shake and you must leave it right away.   
  > 设想一下你家开始摇晃了，你必须立刻离开。  （人教① – 4）  
 
 
-# ***\*right*** n
+# ***\#right*** n
 英音 raɪt     美音 raɪt  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6361,14 +6182,12 @@ riding /'raɪdɪŋ/ n [U]
  > The boy looked to the right.   
  > 那男孩朝右边看了看。    
 
- > **on sb’s right**  
- > on sb’s right   
+ > **on sb’s right**   
  > 在某人的右侧    
 
 ### 3.*高义频：* **[C] & [U] 权利：**  
 
- > **have the right**  
- > I believe that children have the right to live in a world that is safe.   
+ > I believe that children **have the right** to live in a world that is safe.   
  > 我认为孩子们有权生活在一个安全的世界中。  （2008 辽宁）  
 
 
@@ -6376,7 +6195,7 @@ riding /'raɪdɪŋ/ n [U]
 ---
 rightly /'raɪtli/ adv   
 
-# ***\*right-handed*** adj
+# ***\#right-handed*** adj
 英音 raɪt 'hændɪd     美音 raɪt 'hændɪd  
 
 | 词频 2 |  
@@ -6389,7 +6208,7 @@ rightly /'raɪtli/ adv
  > 我们绝大多数人是惯用右手的。    
 
 
-# ***\*rigid*** adj
+# ***\#rigid*** adj
 英音 'rɪdʒɪd     美音 'rɪdʒɪd  
 
 | 词频 1 |  
@@ -6407,7 +6226,7 @@ rightly /'raɪtli/ adv
  > 固执的态度    
 
 
-# ***\*ring*** v
+# ***\#ring*** v
 英音 rɪŋ     美音 rɪŋ  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -6432,8 +6251,7 @@ rightly /'raɪtli/ adv
  > ring for a taxi   
  > 打电话叫出租车    
 
- > **ring back**  
- > Can I ring back later?   
+ > Can I **ring back** later?   
  > 我过一会儿再回电话好吗？  （人教⑧ – 3）  
 
  > I’ll ring you this evening.   
@@ -6442,17 +6260,17 @@ rightly /'raɪtli/ adv
 
 固定搭配
 ---
-## \*ring off 
+## \#ring off 
 1.**挂断电话**  
 
-## \*ring up 
+## \#ring up 
 1.**打电话 (给)：**  
 
  > I’ll ring him up again.   
  > 我会再打电话给他。  （人教⑧ – 3）  
 
 
-# ***\*ring*** n
+# ***\#ring*** n
 英音 rɪŋ     美音 rɪŋ  
 
 | 词频 5 | 口语 3 | 书面 2 |  
@@ -6466,7 +6284,7 @@ rightly /'raɪtli/ adv
 ### 2.*高义频：* **铃声；钟声**  
 
 
-# ***\*ripe*** adj
+# ***\#ripe*** adj
 英音 raɪp     美音 raɪp  
 
 | 词频 2 |  
@@ -6478,12 +6296,11 @@ rightly /'raɪtli/ adv
  > ripe apples   
  > 成熟的苹果    
 
- > **The time is ripe for**  
- > The time is ripe for a reform.   
+ > **The time is ripe for** a reform.   
  > 改革的时机已经成熟。    
 
 
-# ***\*ripen*** v
+# ***\#ripen*** v
 英音 'raɪpən     美音 'raɪpən  
 
 | 词频 1 |  
@@ -6498,7 +6315,7 @@ rightly /'raɪtli/ adv
  > 稻子已经成熟了。    
 
 
-# ***\*rise*** vi
+# ***\#rise*** vi
 英音 raɪz     美音 raɪz  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -6509,12 +6326,10 @@ rightly /'raɪtli/ adv
 ---
 ### 1.*高义频：* **(直) 起身；起立 (get up)：**  
 
- > **rose to her feet**  
- > She rose to her feet in one swift movement.    
+ > She **rose to her feet** in one swift movement.    
  > 她迅速地站了起来。  （人教②–2）  
 
- > **rose from**  
- > After a while I rose from my seat and walked to the front of the bus.    
+ > After a while I **rose from** my seat and walked to the front of the bus.    
  > 过了一会儿我从座位上站了起来，走向公共汽车的前部。  （2011 广东）  
 
  > Our greatest glory consists not in never falling, but in rising every time we fall.  
@@ -6523,8 +6338,7 @@ rightly /'raɪtli/ adv
 ### 2.*高义频：* **升高；上升；升起**  
 反义词 set： 
 
- > **rose and fell_1**  
- > For three days the water in the village wells rose and fell, rose and fell.    
+ > For three days the water in the village wells rose and fell, rose and fell. **rose and fell_1**  
  > 三天内村子井里的水位反复起落。  （人教①-4）  
 
  > The sun rises in the east and sets in the west.  
@@ -6532,8 +6346,7 @@ rightly /'raɪtli/ adv
 
 ### 3.*高义频：* **(数值等) 增加；增长；上涨：**  
 
- > **risen sharply**  
- > The price of petrol has risen sharply since last month.   
+ > The price of petrol has **risen sharply** since last month.   
  > 汽油的价格自上个月起急剧上涨。  （2009 江西改）  
 
 ### 4.*高义频：* **(声音) 提高；(感情或情绪) 变得强烈：**  
@@ -6546,6 +6359,11 @@ rightly /'raɪtli/ adv
 
 #### 辨析 rise, raise
 两者都有“上升”、“增长”之意，但是用法不同。  
+**rise** 是不及物动词，不可接宾语。
+**raise** 是及物动词，其后可接宾语。
+ > raise salaries / prices / profits 加薪 / 涨价 / 增加利润  
+ >     
+
 
 
 真题解析
@@ -6555,7 +6373,7 @@ rightly /'raɪtli/ adv
 答案：
 1. rising   
 
-# ***\*rise*** n
+# ***\#rise*** n
 英音 raɪz     美音 raɪz  
 
 | 词频 5 | 口语 1 | 书面 2 |  
@@ -6566,12 +6384,10 @@ rightly /'raɪtli/ adv
 ---
 ### 1.*高义频：* **上升；上涨；增长【反:fall】；加薪 (AmE raise)：**  
 
- > **on the rise**  
- > The cost of living is on the rise.    
+ > The cost of living is **on the rise**.    
  > 生活成本正在上涨。  （2011 全国）  
 
- > **a pay rise**  
- > Only with hard work can you expect to get a pay rise.   
+ > Only with hard work can you expect to get **a pay rise**.   
  > 只有努力工作你才能指望得到加薪。    
 
 ### 2.*高义频：* **兴起：**  
@@ -6582,14 +6398,14 @@ rightly /'raɪtli/ adv
 
 固定搭配
 ---
-## \*give rise to 
+## \#give rise to 
 1.**[正式用语] 引起；导致 (尤指坏事)：**  
 
  > This may give rise to prejudices of the educated against those with little knowledge of English.  
  > 这可能导致受过教育的人对那些不太懂英语的人产生偏见。  （2014 江苏书面表达改）  
 
 
-# ***\*risk*** n  重难点词汇
+# ***\#risk*** n  重难点词汇
 英音 rɪsk     美音 rɪsk  
 
 | 词频 4 | 口语 2 | 书面 3 |  
@@ -6598,53 +6414,49 @@ rightly /'raɪtli/ adv
 ---
 ### 1.*高义频：* **[C] & [U] 危险；风险：**  
 
- > **increase / reduce the risk**  
- > increase / reduce the risk   
+ > **increase / reduce the risk**   
  > 增加/降低风险    
 
- > **risk of**  
- > Regular exercise cuts the risk of heart disease by 50%!   
+ > Regular exercise cuts the **risk of** heart disease by 50%!   
  > 经常运动可使患心脏病的风险减半！  （北师大③ – 9）  
 
 ### 2.*高义频：* **[C] 危险人物；会带来风险的事物：**  
 
- > **health / fire risk**  
- > a major health / fire risk  
+ > a major **health / fire risk**  
  > 健康/火灾的一大隐患    
 
 
 固定搭配
 ---
-## \*at risk (from / of) 
+## \#at risk (from / of) 
 1.**有危险：**  
 
- > **put at risk**  
- > If we go to war, innocent lives will be put at risk.   
+ > If we go to war, innocent lives will be **put at risk**.   
  > 如果我们发动战争，无辜的生命就会受到威胁。    
 
  > The water level has risen so high in several places that many homes are at risk from flooding.   
  > 一些地方水位升高，很多房子都有被洪水淹没的危险。  （北师大⑧ – 22）  
 
-## \*at the risk of doing sth 
+## \#at the risk of doing sth 
 1.**冒着做某事的风险：**  
 
  > He saved my life at the risk of losing his own.   
  > 他冒着生命危险救了我的命。    
 
-## \*run / take a risk 
+## \#run / take a risk 
 1.**冒险 (run / take risks)：**  
 
  > He felt he had to decide on every step instead of taking risks.   
  > 他觉得他必须考虑好每一步，而不能冒险。  （人教⑥ – 3）  
 
-## \*run / take the risk of doing sth 
+## \#run / take the risk of doing sth 
 1.**冒险做某事：**  
 
  > Mary couldn’t take the risk of leaving her baby alone even for a short time.   
  > 玛丽不敢冒险让她的孩子独自待着，即使是很短的时间。    
 
 
-# ***\*risk*** vt  重难点词汇
+# ***\#risk*** vt  重难点词汇
 英音 rɪsk     美音 rɪsk  
 
 | 词频 4 |  
@@ -6653,8 +6465,7 @@ rightly /'raɪtli/ adv
 ---
 ### 1.*高义频：* **冒...的危险；冒险干：**  
 
- > **risked,life**  
- > You risked your life to save the children.   
+ > You **risked** your **life** to save the children.   
  > 你冒着生命危险去救那些孩子。    
 
 - risk doing sth:
@@ -6674,7 +6485,7 @@ risky /'rɪski/ adj
 答案：
 1. going  
 
-# ***\*risky*** adj
+# ***\#risky*** adj
 英音 'rɪski     美音 'rɪski  
 
 | 词频 3 |  
@@ -6684,7 +6495,7 @@ risky /'rɪski/ adj
 ### 1.**危险的；冒险的**  
 
 
-# ***\*rival*** n
+# ***\#rival*** n
 英音 'raɪvl     美音 'raɪvl  
 
 | 词频 2 | 书面 1 |  
@@ -6696,7 +6507,7 @@ risky /'rɪski/ adj
 ### 1.*高义频：* **对手**  
 
 
-# ***\*rivalry*** n
+# ***\#rivalry*** n
 英音 'raɪvlri     美音 'raɪvlri  
 
 | 词频 1 |  
@@ -6706,7 +6517,7 @@ risky /'rɪski/ adj
 ### 1.**（不断的）竞争**  
 
 
-# ***\*river*** n
+# ***\#river*** n
 英音 'rɪvə(r)     美音 'rɪvər  
 
 | 词频 5 | 口语 2 | 书面 2 |  
@@ -6718,7 +6529,7 @@ risky /'rɪski/ adj
 ### 1.*高义频：* **河；江**  
 
 
-# ***\*road*** n
+# ***\#road*** n
 英音 rəʊd     美音 roʊd  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -6729,19 +6540,25 @@ risky /'rɪski/ adj
 ---
 ### 1.*高义频：* **路；道路：**  
 
- > **in the road**  
- > in the road   
+ > **in the road**   
  > 挡路    
 
- > **across the road**  
- > get across the road   
+ > get **across the road**   
  > 穿过马路    
 
 #### 辨析 way, road, path, street, avenue
 五者都可作“路”解，但含义有所不同。  
+**way** 常指到达某个地方所经过的路径，其后常接to。
+**road** 侧重指两地之间的平坦、光滑、坚硬、供有轮子的车辆通行的道路或公路。
+**path** 指自然踩踏形成的“小路”，或庭院、公园里等散步用的小径。
+**street** 指城市中的路两边有房屋或店铺的“街 道”、“大街”。
+**avenue** 指城市中的路两边有树木的大街或通向大住宅的林荫道；Avenue用于城市中街道的命名。
+ > It’s a hotel on Fifth Avenue.  
+ > 这是位于第五大道上的一家旅馆。    
 
 
-# ***\*roadwork*** n
+
+# ***\#roadwork*** n
 英音 'rəʊdwɜːk     美音 'roʊdwɜːrk  
 
 | 词频 1 |  
@@ -6751,7 +6568,7 @@ risky /'rɪski/ adj
 ### 1.**（常作复数）道路施工**  
 
 
-# ***\*roar*** v
+# ***\#roar*** v
 英音 rɔː(r)     美音 rɔːr  
 
 | 词频 2 |  
@@ -6761,7 +6578,7 @@ risky /'rɪski/ adj
 ### 1.*高义频：* **吼叫；大声喊叫**  
 
 
-# ***\*roar*** n
+# ***\#roar*** n
 英音 rɔː(r)     美音 rɔːr  
 
 | 词频 2 |  
@@ -6773,7 +6590,7 @@ risky /'rɪski/ adj
 ### 1.*高义频：* **吼叫声；喊叫声**  
 
 
-# ***\*roast*** v
+# ***\#roast*** v
 英音 rəʊst     美音 roʊst  
 
 | 词频 1 |  
@@ -6789,7 +6606,7 @@ risky /'rɪski/ adj
  > 肉正在炉子里烤着。    
 
 
-# ***\*roast*** adj
+# ***\#roast*** adj
 英音 rəʊst     美音 roʊst  
 
 | 词频 1 |  
@@ -6802,7 +6619,7 @@ risky /'rɪski/ adj
  > 烤猪肉    
 
 
-# ***\*roast*** n
+# ***\#roast*** n
 英音 rəʊst     美音 rəʊst  
 
 | 词频 1 |  
@@ -6812,7 +6629,7 @@ risky /'rɪski/ adj
 ### 1.**烤，烘**  
 
 
-# ***\*rob*** vt
+# ***\#rob*** vt
 英音 rɒb     美音 rɑːb  
 
 | 词频 3 | 口语 1 |  
@@ -6827,7 +6644,7 @@ risky /'rɪski/ adj
 
 固定搭配
 ---
-## \*rob sb of sth 
+## \#rob sb of sth 
 1.**抢走某人的某物：**  
 
  > The young man robbed her of her bag.   
@@ -6839,7 +6656,7 @@ risky /'rɪski/ adj
 robber /'rɒbə(r)/ n   
 robbery /'rɒbəri/ n   
 
-# ***\*robbery*** n
+# ***\#robbery*** n
 英音 'rɒbəri     美音 'rɑːbəri  
 
 | 词频 1 |  
@@ -6851,7 +6668,7 @@ robbery /'rɒbəri/ n
 ### 1.*高义频：* **抢劫；盗窃**  
 
 
-# ***\*robe*** n
+# ***\#robe*** n
 英音 rəʊb     美音 roʊb  
 
 | 词频 1 |  
@@ -6861,7 +6678,7 @@ robbery /'rɒbəri/ n
 ### 1.**长袍**  
 
 
-# ***\*robot*** n
+# ***\#robot*** n
 英音 'rəʊbɒt     美音 'roʊbɑːt  
 
 | 词频 4 |  
@@ -6873,7 +6690,7 @@ robbery /'rɒbəri/ n
 ### 1.*高义频：* **机器人**  
 
 
-# ***\*rock*** n
+# ***\#rock*** n
 英音 rɒk     美音 rɑːk  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -6889,12 +6706,11 @@ robbery /'rɒbəri/ n
 
 ### 3.*高义频：* **[U] 摇；摆动；摇滚乐：**  
 
- > **Rock’ n’ Roll,rock band**  
- > Rock’ n’ Roll / a rock band  
+ > **Rock’ n’ Roll** / a **rock band**  
  > 摇滚乐/摇滚乐队    
 
 
-# ***\*rock*** v
+# ***\#rock*** v
 英音 rɒk     美音 rɑːk  
 
 | 词频 4 |  
@@ -6910,7 +6726,7 @@ robbery /'rɒbəri/ n
  > 这个消息使全家震惊。    
 
 
-# ***\*rock'n'roll*** 
+# ***\#rock'n'roll*** 
 
 
   
@@ -6920,7 +6736,7 @@ robbery /'rɒbəri/ n
 ### 1.**摇滚乐**  
 
 
-# ***\*rockabilly*** n
+# ***\#rockabilly*** n
 英音 'rɒkəbɪli     美音 'rɑːkəbɪli  
 
 | 词频 1 |  
@@ -6930,7 +6746,7 @@ robbery /'rɒbəri/ n
 ### 1.**乡村摇滚乐（一种由乡村音乐与摇滚音乐结合而成的旋律狂热的轻音乐）**  
 
 
-# ***\*rocket*** n
+# ***\#rocket*** n
 英音 'rɒkɪt     美音 'rɑːkɪt  
 
 | 词频 1 |  
@@ -6941,12 +6757,11 @@ robbery /'rɒbəri/ n
 ---
 ### 1.*高义频：* **火箭；火箭弹：**  
 
- > **launch a rocket**  
- > launch a rocket   
+ > **launch a rocket**   
  > 发射火箭    
 
 
-# ***\*rocket*** vi
+# ***\#rocket*** vi
 英音 'rɒkɪt     美音 'rɑːkɪt  
 
 | 词频 1 |  
@@ -6955,12 +6770,11 @@ robbery /'rɒbəri/ n
 ---
 ### 1.*高义频：* **飞速上升；飞驰：**  
 
- > **rocketed up**  
- > Unemployment has rocketed up again.   
+ > Unemployment has **rocketed up** again.   
  > 失业人数再次猛增。    
 
 
-# ***\*rod*** n
+# ***\#rod*** n
 英音 rɒd     美音 rɑːd  
 
 | 词频 1 |  
@@ -6972,7 +6786,7 @@ robbery /'rɒbəri/ n
 ### 1.*高义频：* **杆；竿；棒**  
 
 
-# ***\*role*** n
+# ***\#role*** n
 英音 rəʊl     美音 roʊl  
 
 | 词频 5 | 口语 2 | 书面 3 |  
@@ -6983,11 +6797,10 @@ robbery /'rɒbəri/ n
 ---
 ### 1.*高义频：* **角色：**  
 
- > **leading role**  
- > the leading role   
+ > the **leading role**   
  > 主角    
 
-## \*play the role of
+## \#play the role of
 1.**扮演…的角色：**  
 
  > He played the role of a successful lawyer in the play.  
@@ -6995,21 +6808,20 @@ robbery /'rɒbəri/ n
 
 ### 2.*高义频：* **作用：**  
 
- > **leading role**  
- > a leading role   
+ > a **leading role**   
  > 重要作用    
 
 
 固定搭配
 ---
-## \*play a(n) … role in 
+## \#play a(n) … role in 
 1.**在…中起…作用：**  
 
  > Farming plays an important role in the country’s economy.   
  > 农业在该国经济中起着重要的作用。    
 
 
-# ***\*roll*** v
+# ***\#roll*** v
 英音 rəʊl     美音 roʊl  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -7020,28 +6832,25 @@ robbery /'rɒbəri/ n
 ---
 ### 1.*高义频：* **(使) 滚动；转动：**  
 
- > **rolled her eyes**  
- > Cassie rolled her eyes.   
+ > Cassie **rolled her eyes**.   
  > 卡西翻了翻眼睛。  （2008 湖南）  
 
- > **rolled down**  
- > Tears slowly rolled down her cheeks.   
+ > Tears slowly **rolled down** her cheeks.   
  > 泪水从她脸上慢慢地流了下来。    
 
 ### 2.*高义频：* **卷：**  
 
- > **rolled up**  
- > He rolled up the map.   
+ > He **rolled up** the map.   
  > 他卷起地图。    
 
 
 固定搭配
 ---
-## \*roll over 
+## \#roll over 
 1.**翻身；打滚**  
 
 
-# ***\*roll*** n
+# ***\#roll*** n
 英音 rəʊl     美音 roʊl  
 
 | 词频 4 |  
@@ -7059,7 +6868,7 @@ robbery /'rɒbəri/ n
  > 鸡肉卷/火腿卷    
 
 
-# ***\*romance*** n
+# ***\#romance*** n
 英音 rəʊ'mæns     美音 'roʊmæns  
 
 | 词频 1 |  
@@ -7069,7 +6878,7 @@ robbery /'rɒbəri/ n
 ### 1.*高义频：* **[U] 浪漫的气氛；[C] 爱情故事**  
 
 
-# ***\*romantic*** adj
+# ***\#romantic*** adj
 英音 rəʊ'mæntɪk     美音 roʊ'mæntɪk  
 
 | 词频 2 |  
@@ -7091,7 +6900,7 @@ robbery /'rɒbəri/ n
  > 夸大的报道    
 
 
-# ***\*romantic*** n
+# ***\#romantic*** n
 英音 rəʊ'mæntɪk     美音 roʊ'mæntɪk  
 
 | 词频 2 |  
@@ -7103,7 +6912,7 @@ robbery /'rɒbəri/ n
 ### 1.*高义频：* **浪漫的人；浪漫主义作家 / 音乐家 / 艺术家**  
 
 
-# ***\*roof*** n
+# ***\#roof*** n
 英音 ruːf     美音 ruːf  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -7115,7 +6924,7 @@ robbery /'rɒbəri/ n
 ### 1.*高义频：* **(pl roofs) 屋顶**  
 
 
-# ***\*rooftop*** n
+# ***\#rooftop*** n
 英音 'ruːftɒp     美音 'ruːftɑːp  
 
 | 词频 1 |  
@@ -7125,7 +6934,7 @@ robbery /'rɒbəri/ n
 ### 1.**屋顶**  
 
 
-# ***\*room*** n
+# ***\#room*** n
 英音 ruːm;rʊm     美音 ruːm;rum  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -7142,8 +6951,7 @@ robbery /'rɒbəri/ n
  > There is little room to move in the crowd.   
  > 人群中没有挪动的空间。    
 
- > **make room for**  
- > Would you kindly make room for the old lady?   
+ > Would you kindly **make room for** the old lady?   
  > 请你为这位老太太腾个地方好吗?    
 
  > There is still much room for improvement.  
@@ -7157,7 +6965,7 @@ robbery /'rɒbəri/ n
 答案：
 1. for  
 
-# ***\*rooster*** n
+# ***\#rooster*** n
 英音 'ruːstə(r)     美音 'ruːstər  
 
 | 词频 1 |  
@@ -7169,7 +6977,7 @@ robbery /'rɒbəri/ n
 ### 1.*高义频：* **公鸡**  
 
 
-# ***\*root*** n
+# ***\#root*** n
 英音 ruːt     美音 ruːt  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -7186,12 +6994,11 @@ robbery /'rɒbəri/ n
  > Words often come from the same root.   
  > 词常常有相同的词根。  （人教② – 2）  
 
- > **the root of all evil**  
- > Money is often said to be the root of all evil.   
+ > Money is often said to be **the root of all evil**.   
  > 金钱常被说成是万恶之源。    
 
 
-# ***\*root*** v
+# ***\#root*** v
 英音 ruːt     美音 ruːt  
 
 | 词频 4 |  
@@ -7200,16 +7007,14 @@ robbery /'rɒbəri/ n
 ---
 ### 1.*高义频：* **(使) 生根；(使) 扎根：**  
 
- > **is rooted in**  
- > Great cause is rooted in great dreams, so as well the great life.   
+ > Great cause **is rooted in** great dreams, so as well the great life.   
  > 伟大的事业源于伟大的梦想；伟大的人生源于伟大的梦境。    
 
- > **deeply rooted in**  
- > With mother’s words deeply rooted in my soul, I never doubted we would succeed.   
+ > With mother’s words **deeply rooted in** my soul, I never doubted we would succeed.   
  > 母亲的话深深地根植于我的灵魂，我坚信我们一定会成功。    
 
 
-# ***\*roots*** n
+# ***\#roots*** n
 英音 ruːts     美音 ruːts  
 
 | 词频 3 |  
@@ -7219,7 +7024,7 @@ robbery /'rɒbəri/ n
 ### 1.**根，根基**  
 
 
-# ***\*rope*** n
+# ***\#rope*** n
 英音 rəʊp     美音 roʊp  
 
 | 词频 3 | 口语 1 | 书面 1 |  
@@ -7231,7 +7036,7 @@ robbery /'rɒbəri/ n
 ### 1.*高义频：* **绳；索**  
 
 
-# ***\*rose*** n
+# ***\#rose*** n
 英音 rəʊz     美音 roʊz  
 
 | 词频 4 |  
@@ -7243,7 +7048,7 @@ robbery /'rɒbəri/ n
 ### 1.*高义频：* **玫瑰花**  
 
 
-# ***\*rosebud*** n
+# ***\#rosebud*** n
 英音 'rəʊzbʌd     美音 'roʊzbʌd  
 
 | 词频 1 |  
@@ -7255,7 +7060,7 @@ robbery /'rɒbəri/ n
 ### 1.*高义频：* **玫瑰花蕾**  
 
 
-# ***\*rot*** v
+# ***\#rot*** v
 英音 rɒt     美音 rɑːt  
 
 | 词频 2 |  
@@ -7264,15 +7069,14 @@ robbery /'rɒbəri/ n
 ---
 ### 1.*高义频：* **(使) 腐烂； (使) 腐败：**  
 
- > **rot away**  
- > rot away   
+ > **rot away**   
  > 腐烂掉    
 
  > The warm humid air helped to rot the old fruit.   
  > 空气闷热潮湿，使得放久了的水果加快腐烂。    
 
 
-# ***\*rot*** n
+# ***\#rot*** n
 英音 rɒt     美音 rɑːt  
 
 | 词频 2 |  
@@ -7282,7 +7086,7 @@ robbery /'rɒbəri/ n
 ### 1.**（细菌引起的）腐败病；腐蚀病**  
 
 
-# ***\*rotating*** adj
+# ***\#rotating*** adj
 英音 rəʊ'teɪtɪŋ     美音 roʊ'teɪtɪŋ  
 
 | 词频 1 |  
@@ -7292,7 +7096,7 @@ robbery /'rɒbəri/ n
 ### 1.**旋转的；循环的**  
 
 
-# ***\*rough*** adj
+# ***\#rough*** adj
 英音 rʌf     美音 rʌf  
 
 | 词频 3 | 口语 2 | 书面 1 |  
@@ -7318,14 +7122,12 @@ robbery /'rɒbəri/ n
 
 ### 3.*高义频：* **[无比较级变化] 粗略的：**  
 
- > **rough estimate**  
- > a rough estimate   
+ > a **rough estimate**   
  > 粗略估计    
 
 ### 4.*高义频：* **艰难的 (tough)；难受的：**  
 
- > **have a rough time**  
- > have a rough time   
+ > **have a rough time**   
  > 处境艰难    
 
 ### 5.*高义频：* **多暴力的；犯罪率高的：**  
@@ -7341,7 +7143,7 @@ roughly /'rʌfli/ adv
  > 这篇论文考察了大约40000名德国人健康与福利的调查报告。  （2013 湖北改）  
 
 
-# ***\*roughly*** adv
+# ***\#roughly*** adv
 英音 'rʌfli     美音 'rʌfli  
 
 | 词频 3 | 口语 2 |  
@@ -7351,7 +7153,7 @@ roughly /'rʌfli/ adv
 ### 1.*高义频：* **粗略地；粗糙地**  
 
 
-# ***\*round*** adj
+# ***\#round*** adj
 英音 raʊnd     美音 raʊnd  
 
 | 词频 4 | 口语 3 | 书面 2 |  
@@ -7373,7 +7175,7 @@ roughly /'rʌfli/ adv
  > 一整打/一整天    
 
 
-# ***\*round*** adv
+# ***\#round*** adv
 英音 raʊnd     美音 raʊnd  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -7386,7 +7188,7 @@ roughly /'rʌfli/ adv
  > 他环顾四周，但谁也没看见。    
 
 
-# ***\*round*** prep
+# ***\#round*** prep
 英音 raʊnd     美音 raʊnd  
 
 | 词频 4 | 口语 2 | 书面 2 |  
@@ -7399,7 +7201,7 @@ roughly /'rʌfli/ adv
  > 有八大行星围绕着太阳转。    
 
 
-# ***\*round*** v
+# ***\#round*** v
 英音 raʊnd     美音 raʊnd  
 
 | 词频 4 |  
@@ -7415,7 +7217,7 @@ roughly /'rʌfli/ adv
  > 他骑车绕大厦转了几圈。    
 
 
-# ***\*round*** n
+# ***\#round*** n
 英音 raʊnd     美音 raʊnd  
 
 | 词频 4 |  
@@ -7427,7 +7229,7 @@ roughly /'rʌfli/ adv
 ### 1.*高义频：* **轮次；一回合；一局**  
 
 
-# ***\*round-faced*** adj
+# ***\#round-faced*** adj
 英音 'raʊnd'feɪst     美音 'raʊnd'feɪst  
 
   
@@ -7437,7 +7239,7 @@ roughly /'rʌfli/ adv
 ### 1.**圆脸的**  
 
 
-# ***\*roundabout*** adj
+# ***\#roundabout*** adj
 英音 'raʊndəbaʊt     美音 'raʊndəbaʊt  
 
 | 词频 1 |  
@@ -7449,12 +7251,11 @@ roughly /'rʌfli/ adv
  > take a roundabout route   
  > 绕道    
 
- > **roundabout way**  
- > You speak in a roundabout way.   
+ > You speak in a **roundabout way**.   
  > 你说话拐弯抹角。    
 
 
-# ***\*roundabout*** n
+# ***\#roundabout*** n
 英音 'raʊndəbaʊt     美音 'raʊndəbaʊt  
 
 | 词频 1 |  
@@ -7466,7 +7267,7 @@ roughly /'rʌfli/ adv
 ### 1.*高义频：* **(道路交叉处的) 环形路；迂回路线**  
 
 
-# ***\*route*** n
+# ***\#route*** n
 英音 ruːt     美音 raʊt  
 
 | 词频 4 | 口语 1 | 书面 2 |  
@@ -7477,12 +7278,11 @@ roughly /'rʌfli/ adv
 ---
 ### 1.*高义频：* **路线；路程；航线；途径：**  
 
- > **take / follow a route**  
- > take / follow a route   
+ > **take / follow a route**   
  > 走某条路线    
 
 
-# ***\*routine*** n
+# ***\#routine*** n
 英音 ruː'tiːn     美音 ruː'tiːn  
 
 | 词频 2 | 书面 1 | 阅读 2 |  
@@ -7491,8 +7291,7 @@ roughly /'rʌfli/ adv
 ---
 ### 1.*高义频：* **[C] & [U] 例行公事；惯例：**  
 
- > **daily routine**  
- > daily routine   
+ > **daily routine**   
  > 日常工作    
 
  > establish / break a routine   
@@ -7500,8 +7299,7 @@ roughly /'rʌfli/ adv
 
 ### 2.*低义频：* **[C] 常规节目；一套舞步 / 舞蹈动作：**  
 
- > **dance routine**  
- > a dance routine   
+ > a **dance routine**   
  > 一套舞步    
 
 
@@ -7516,7 +7314,7 @@ D.routine
 答案：
 1. D  
 
-# ***\*routine*** adj
+# ***\#routine*** adj
 英音 ruː'tiːn     美音 ruː'tiːn  
 
 | 词频 2 | 阅读 2 |  
@@ -7529,7 +7327,7 @@ D.routine
  > 例行报告    
 
 
-# ***\*row*** n
+# ***\#row*** n
 英音 rəʊ     美音 roʊ  
 
 | 词频 3 | 口语 2 | 书面 2 |  
@@ -7543,14 +7341,13 @@ D.routine
  > sit in the front row   
  > 坐在前排    
 
- > **a row of**  
- > He said thanks and smiled a row of perfect teeth.   
+ > He said thanks and smiled **a row of** perfect teeth.   
  > 他笑着道谢，露出一排整齐美观的牙齿。    
 
 
 固定搭配
 ---
-## \*in a row 
+## \#in a row 
 1.**排成一排；连续地：**  
 
  > The children were asked to stand in a row.   
@@ -7560,7 +7357,7 @@ D.routine
  > 我已经连续三次打破这一记录了。    
 
 
-# ***\*row*** v
+# ***\#row*** v
 英音 rəʊ     美音 roʊ  
 
 | 词频 2 |  
@@ -7569,12 +7366,11 @@ D.routine
 ---
 ### 1.*高义频：* **划 (船)：**  
 
- > **row across**  
- > She had to row across the bay to reach the other side.    
+ > She had to **row across** the bay to reach the other side.    
  > 她必须划船去海湾的另一边。    
 
 
-# ***\*row*** n
+# ***\#row*** n
 英音 rəʊ     美音 roʊ  
 
 | 词频 2 |  
@@ -7589,7 +7385,7 @@ D.routine
  > 去划船    
 
 
-# ***\*royal*** adj
+# ***\#royal*** adj
 英音 'rɔɪəl     美音 'rɔɪəl  
 
 | 词频 3 | 口语 1 | 书面 3 |  
@@ -7605,7 +7401,7 @@ D.routine
  > 盛大的欢迎    
 
 
-# ***\*rub*** vt
+# ***\#rub*** vt
 英音 rʌb     美音 rʌb  
 
 | 词频 2 | 口语 2 |  
@@ -7628,7 +7424,7 @@ D.routine
  > 我的鞋后跟磨脚。    
 
 
-# ***\*rubber*** n
+# ***\#rubber*** n
 英音 'rʌbə(r)     美音 'rʌbər  
 
 | 词频 1 | 口语 1 |  
@@ -7638,7 +7434,7 @@ D.routine
 ### 1.*高义频：* **[C] 橡皮；黑板擦；[U] 橡胶**  
 
 
-# ***\*rubbish*** n
+# ***\#rubbish*** n
 英音 'rʌbɪʃ     美音 'rʌbɪʃ  
 
 | 词频 4 | 口语 2 |  
@@ -7654,12 +7450,11 @@ D.routine
 
 ### 2.*高义频：* **废话；无聊的想法：**  
 
- > **talk rubbish**  
- > Don’t talk rubbish!   
+ > Don’t **talk rubbish**!   
  > 别说废话！    
 
 
-# ***\*rude*** adj
+# ***\#rude*** adj
 英音 ruːd     美音 ruːd  
 
 | 词频 3 | 口语 1 |  
@@ -7683,7 +7478,7 @@ D.routine
 
 固定搭配
 ---
-## \*be rude to sb 
+## \#be rude to sb 
 1.**对某人无礼：**  
 
  > You mustn’t be rude to teachers.  
@@ -7694,7 +7489,7 @@ D.routine
 ---
 rudely /'ruːdli/ adv   
 
-# ***\*rugby*** n
+# ***\#rugby*** n
 英音 'rʌɡbɪ     美音 'rʌɡbɪ  
 
 | 词频 1 |  
@@ -7706,7 +7501,7 @@ rudely /'ruːdli/ adv
 ### 1.*高义频：* **橄榄球**  
 
 
-# ***\*ruin*** vt
+# ***\#ruin*** vt
 英音 'ruːɪn     美音 'ruːɪn  
 
 | 词频 4 | 口语 1 |  
@@ -7724,6 +7519,13 @@ rudely /'ruːdli/ adv
 
 #### 辨析 damage, destroy, ruin, spoil
 四者都有“破坏”之意。  
+**damage** 通常指部分性的损坏，往往指价值、用途降低或外表损坏等；或表示可以修复的破坏。
+**destroy** 指彻底的毁坏、毁掉或毁灭, 往往无法或很难修复。
+**ruin** 强调“毁坏”，使美好的事物失去优良的特性或特征，不能恢复。与 spoil 同义且常可换用，只是语气比 spoil 稍强。
+**spoil** 强调“损坏”，与 ruin 同义，语气不如 ruin 强；还有“宠坏”、“溺爱”之意。
+ > She spoils those kids of hers.   
+ > 她那几个孩子被她宠坏了。    
+
 
 ### 2.*高义频：* **使破产**  
 英译 to make sb lose all his / her money：
@@ -7732,7 +7534,7 @@ rudely /'ruːdli/ adv
  > 如果败诉，她就倾家荡产了。    
 
 
-# ***\*ruin*** n
+# ***\#ruin*** n
 英音 'ruːɪn     美音 'ruːɪn  
 
 | 词频 4 |  
@@ -7744,12 +7546,10 @@ rudely /'ruːdli/ adv
  > the ruin of civilization   
  > 文明的毁灭    
 
- > **financial ruin**  
- > financial ruin   
+ > **financial ruin**   
  > 破产    
 
- > **fall in / into ruin**  
- > fall in / into ruin   
+ > **fall in / into ruin**   
  > 灭亡；荒废    
 
 ### 2.*高义频：* **[C] [常用复数] 废墟；遗迹；残余：**  
@@ -7760,11 +7560,10 @@ rudely /'ruːdli/ adv
 
 固定搭配
 ---
-## \*in ruins 
+## \#in ruins 
 1.**成废墟；严重受损：**  
 
- > **lay in ruins**  
- > In fifteen terrible seconds a large city lay in ruins.  
+ > In fifteen terrible seconds a large city **lay in ruins**.  
  > 在可怕的15秒内，一座大城市就沦为一片废墟。  （人教① – 4）  
 
 
@@ -7772,7 +7571,7 @@ rudely /'ruːdli/ adv
 ---
 ruined /'ruːɪnd/ adj [只用于名词前]  
 
-# ***\*rule*** n
+# ***\#rule*** n
 英音 ruːl     美音 ruːl  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -7788,13 +7587,12 @@ ruined /'ruːɪnd/ adj [只用于名词前]
  > 校规    
 
  > **follow / break the rules**  
- > follow / break the rules  
  > 遵守/违反规定    
 
 ### 2.*高义频：* **[U] 统治**  
 
 
-# ***\*rule*** v
+# ***\#rule*** v
 英音 ruːl     美音 ruːl  
 
 | 词频 5 |  
@@ -7803,8 +7601,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 ---
 ### 1.*高义频：* **统治；支配：**  
 
- > **rule,over**  
- > rule (over) a country  
+ > **rule** (**over**) a country  
  > 统治国家    
 
  > In the 18th century California was ruled by Spain.   
@@ -7813,7 +7610,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 
 固定搭配
 ---
-## \*rule out 
+## \#rule out 
 1.**排除；取消：**  
 
  > We can’t rule out the possibility that he’ll come after all.   
@@ -7827,7 +7624,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 答案：
 1. ruled out  
 
-# ***\*ruler*** n
+# ***\#ruler*** n
 英音 'ruːlə(r)     美音 'ruːlər  
 
 | 词频 3 |  
@@ -7839,7 +7636,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 ### 1.*高义频：* **尺子；统治者；管理者**  
 
 
-# ***\*rumor*** n
+# ***\#rumor*** n
 英音 'ruːmə     美音 'ruːmə  
 
 | 词频 2 |  
@@ -7853,12 +7650,11 @@ ruined /'ruːɪnd/ adj [只用于名词前]
  > a false rumor   
  > 虚假的传言    
 
- > **rumor about / of**  
- > the rumor about / of his death   
+ > the **rumor about / of** his death   
  > 有关他死亡的传言    
 
 
-# ***\*rumour*** n
+# ***\#rumour*** n
 英音 'ruːmə     美音 'ruːmə  
 
 | 词频 2 |  
@@ -7872,12 +7668,11 @@ ruined /'ruːɪnd/ adj [只用于名词前]
  > a false rumor  
  > 虚假的传言    
 
- > **rumor about / of**  
- > the rumor about / of his death   
+ > the **rumor about / of** his death   
  > 有关他死亡的传言    
 
 
-# ***\*run*** v  重难点词汇
+# ***\#run*** v  重难点词汇
 英音 rʌn     美音 rʌn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -7926,7 +7721,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 
 固定搭配
 ---
-## \*run across 
+## \#run across 
 1.**跑着穿过；偶然碰见：**  
 
  > He ran across the fields.   
@@ -7935,7 +7730,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
  > I ran across him at a conference in Milan.   
  > 我在米兰的一次大会上碰到了他。    
 
-## \*run after 
+## \#run after 
 1.**追赶；追求：**  
 
  > If you run after two hares, you will catch neither.   
@@ -7944,7 +7739,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
  > It is said that John’s always running after younger women.   
  > 据说约翰总是追求年轻女子。    
 
-## \*run away (from) 
+## \#run away (from) 
 1.**逃走；逃避：**  
 
  > The thief heard the noise and ran away quickly.   
@@ -7953,7 +7748,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
  > It’s irresponsible of you to run away from difficulties.  
  > 见了困难就躲是不负责的。    
 
-## \*run into 
+## \#run into 
 1.**撞上；偶然遇见；遇到 (困难等)：**  
 
  > The driver of a large truck, unable to stop in time, ran into our car.   
@@ -7965,7 +7760,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
  > When I first learned to write in English, I ran into many difficulties.   
  > 我刚开始学习用英语写作时，遇到了很多困难。    
 
-## \*run out (of)
+## \#run out (of)
 1.**用完；耗尽：**  
 
  > In the future, care for the environment will become very important as earth’s natural resources run out.  
@@ -7974,7 +7769,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
  > My car broke down on the way to the beach because it had run out of petrol.   
  > 在去海滩的路上，我的车因为汽油耗尽而抛锚了。  （北师大⑥ – 16）  
 
-## \*run over 
+## \#run over 
 1.**碾过；思考：**  
 
  > To the public’s sadness, she was run over and killed by the bus.   
@@ -7983,7 +7778,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
  > Mark’s mind raced, running over all the possibilities.   
  > 马克的脑子飞快地转着，把各种可能都一一作了考虑。    
 
-## \*run through 
+## \#run through 
 1.**跑着穿过；把…匆匆过一遍**  
 
 
@@ -7997,7 +7792,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 答案：
 1. from  2. out  
 
-# ***\*run*** n  重难点词汇
+# ***\#run*** n  重难点词汇
 英音 rʌn     美音 rʌn  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -8006,8 +7801,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 ---
 ### 1.*高义频：* **[C] 跑；跑步：**  
 
- > **go for,run**  
- > go for a run   
+ > **go for** a **run**   
  > 去跑步  （外研⑦ – 2）  
 
  > After every run I feel fitter and happier.   
@@ -8021,7 +7815,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 
 固定搭配
 ---
-## \*in / over the long run 
+## \#in / over the long run 
 1.**从长远看：**  
 
  > A true friend will advise us to do what he thinks is best for us in the long run.   
@@ -8032,7 +7826,7 @@ ruined /'ruːɪnd/ adj [只用于名词前]
 ---
 runner /'rʌnə(r)/ n [C]  
 
-# ***\*running*** adj
+# ***\#running*** adj
 英音 'rʌnɪŋ     美音 'rʌnɪŋ  
 
 | 词频 4 |  
@@ -8049,15 +7843,14 @@ runner /'rʌnə(r)/ n [C]
 
 ### 2.*低义频：* **流动的：**  
 
- > **running water**  
- > running water   
+ > **running water**   
  > 自来水；流水    
 
  > a fast-running river   
  > 湍急的河流    
 
 
-# ***\*running*** n
+# ***\#running*** n
 英音 'rʌnɪŋ     美音 'rʌnɪŋ  
 
 | 词频 4 |  
@@ -8069,7 +7862,7 @@ runner /'rʌnə(r)/ n [C]
 ### 1.*高义频：* **奔跑；赛跑；运行；运转**  
 
 
-# ***\*rural*** adj
+# ***\#rural*** adj
 英音 'rʊərəl     美音 'rʊrəl  
 
 | 词频 3 | 书面 2 | 阅读 2 |  
@@ -8079,7 +7872,7 @@ runner /'rʌnə(r)/ n [C]
 ### 1.*高义频：* **农村的；乡民的：**  
 
 
-# ***\*rush*** v
+# ***\#rush*** v
 英音 rʌʃ     美音 rʌʃ  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -8100,7 +7893,7 @@ runner /'rʌnə(r)/ n [C]
  > 使某人忙得不可开交    
 
 
-# ***\*rush*** n
+# ***\#rush*** n
 英音 rʌʃ     美音 rʌʃ  
 
 | 词频 4 |  
@@ -8114,12 +7907,11 @@ runner /'rʌnə(r)/ n [C]
  > The water came out of the tap at a rush.   
  > 水从龙头中急速流出。    
 
- > **rush hour**  
- > the rush hour   
+ > the **rush hour**   
  > 高峰时间    
 
 
-# ***\*rust*** vi
+# ***\#rust*** vi
 英音 rʌst     美音 rʌst  
 
 | 词频 2 |  
