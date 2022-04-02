@@ -32,4 +32,4 @@
 * [Xx](md/weici_X.md)  
 * [Yy](md/weici_Y.md)  
 * [Zz](md/weici_Z.md)  
-* [词组](md/weici_phrase_2542.md)  
+* [词组](md/weici_phrase.md)  
