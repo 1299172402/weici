@@ -58,6 +58,16 @@
 ### 1.*高义频：* **接种疫苗**  
 
 
+# ***\#vaccine*** n
+英音 ˈvæksiːn     美音 vækˈsiːn  
+
+  
+
+英文释义
+---
+### 1.**疫苗**  
+
+
 # ***\#vacuum*** n
 英音 'vækjuəm     美音 'vækjuəm  
 
@@ -109,6 +119,16 @@
 
 答案：
 1. in  
+
+# ***\#vale*** n
+英音 veɪl     美音 veɪl  
+
+  
+
+英文释义
+---
+### 1.**谷；山谷**  
+
 
 # ***\#valid*** adj
 英音 'vælɪd     美音 'vælɪd  
@@ -243,6 +263,16 @@ invaluable /ɪn'væljuəbl/ adj
 英文释义
 ---
 ### 1.**有价值的**  
+
+
+# ***\#van*** n
+英音 væn     美音 væn  
+
+  
+
+英文释义
+---
+### 1.**小型货车**  
 
 
 # ***\#vanguard*** n
@@ -466,6 +496,26 @@ varied /'veərid/ adj
 ### 1.**(全是) 蔬菜的没有肉类的**  
 
 
+# ***\#vegetarian*** n
+英音 ˌvedʒə'teəriən     美音 ˌvedʒə'teriən  
+
+  
+
+英文释义
+---
+### 1.**素食者**  
+
+
+# ***\#vegetation*** n
+英音 ˌvedʒəˈteɪʃn     美音 ˌvedʒəˈteɪʃn  
+
+  
+
+英文释义
+---
+### 1.**植物，草木（总称）**  
+
+
 # ***\#vehicle*** n
 英音 'viːəkl     美音 'viːəkl  
 
@@ -554,6 +604,16 @@ varied /'veərid/ adj
 ### 1.*高义频：* **口头的**  
 
 
+# ***\#verse*** n
+英音 vɜːs     美音 vɜːrs  
+
+  
+
+英文释义
+---
+### 1.**诗; 韵文; 诗节**  
+
+
 # ***\#version*** n
 英音 'vɜːʃn     美音 'vɜːrʒn  
 
@@ -573,6 +633,16 @@ varied /'veərid/ adj
 
  > The two newspapers gave different **versions of** what happened.  
  > 对所发生的事，两家报纸说法不一。    
+
+
+# ***\#vertebrate*** n
+英音 ˈvɜːtɪbrət     美音 ˈvɜːrtɪbrət  
+
+  
+
+英文释义
+---
+### 1.**脊椎动物**  
 
 
 # ***\#vertical*** adj
@@ -645,6 +715,16 @@ varied /'veərid/ adj
  > 我根本不想去那里。    
 
 
+# ***\#vessel*** n
+英音 'vesl     美音 'vesl  
+
+  
+
+英文释义
+---
+### 1.**[正式用语] 大船；舰**  
+
+
 # ***\#vest*** n
 英音 vest     美音 vest  
 
@@ -669,6 +749,16 @@ varied /'veərid/ adj
 ### 1.*高义频：* **兽医**  
 
 
+# ***\#vexed*** adj
+英音 vekst     美音 vekst  
+
+  
+
+英文释义
+---
+### 1.**恼火的**  
+
+
 # ***\#via*** prep
 英音 'vaɪə     美音 'vaɪə  
 
@@ -683,6 +773,16 @@ varied /'veərid/ adj
 
  > send the letter via airmail  
  > 通过空邮寄信    
+
+
+# ***\#vibrate*** v
+英音 vaɪ'breɪt     美音 vaɪ'breɪt  
+
+  
+
+英文释义
+---
+### 1.**（使）振动**  
 
 
 # ***\#vibration*** n
@@ -710,6 +810,16 @@ varied /'veərid/ adj
 Notes: 前缀vice-意为“副的”。  
  > a **vice-president** (VP)   
  > 副总统/副总裁    
+
+
+# ***\#vice-president*** n
+英音 vaɪs 'prezɪdənt     美音 vaɪs 'prezɪdənt  
+
+  
+
+英文释义
+---
+### 1.**副总统；副总裁**  
 
 
 # ***\#victim*** n
@@ -909,6 +1019,16 @@ viewer /'vjuːə(r)/ n [C]
 ### 1.**电视观众；观看者**  
 
 
+# ***\#vigour*** n
+英音 ˈvɪɡə(r)     美音 ˈvɪɡər  
+
+  
+
+英文释义
+---
+### 1.**精力; 力量; 活力**  
+
+
 # ***\#village*** n
 英音 'vɪlɪdʒ     美音 'vɪlɪdʒ  
 
@@ -931,6 +1051,16 @@ viewer /'vjuːə(r)/ n [C]
 英文释义
 ---
 ### 1.*高义频：* **村民；乡下人**  
+
+
+# ***\#vine*** n
+英音 vaɪn     美音 vaɪn  
+
+  
+
+英文释义
+---
+### 1.**葡萄属植物；葡萄藤**  
 
 
 # ***\#vinegar*** n
@@ -997,6 +1127,16 @@ viewer /'vjuːə(r)/ n [C]
 派生词汇
 ---
 violently /'vaɪələntli/ adv   
+
+# ***\#violently*** adv
+英音 ˈvaɪələntli     美音 ˈvaɪələntli  
+
+  
+
+英文释义
+---
+### 1.**激烈地，剧烈地；凶猛地，暴力地**  
+
 
 # ***\#violet*** n
 英音 'vaɪələt     美音 'vaɪələt  
@@ -1227,6 +1367,16 @@ virtually /'vɜːtʃuəli/ adv
  > 视野    
 
 
+# ***\#visualize*** vt
+英音 ˈvɪʒuəlaɪz     美音 ˈvɪʒuəlaɪz  
+
+  
+
+英文释义
+---
+### 1.**设想，想象**  
+
+
 # ***\#visually*** adv
 英音 'vɪʒuəli     美音 'vɪʒuəli  
 
@@ -1266,6 +1416,16 @@ virtually /'vɜːtʃuəli/ adv
 
 答案：
 1. learning  
+
+# ***\#vitality*** n
+英音 vaɪ'tæləti     美音 vaɪ'tæləti  
+
+  
+
+英文释义
+---
+### 1.**生命力，活力，热情**  
+
 
 # ***\#vitamin*** n
 英音 'vɪtəmɪn     美音 'vaɪtəmɪn  
@@ -1350,6 +1510,16 @@ D.vivid
 ### 1.**嗓音的，与嗓音有关的**  
 
 
+# ***\#vocational*** adj
+英音 vəʊˈkeɪʃənl     美音 vəʊˈkeɪʃənl  
+
+  
+
+英文释义
+---
+### 1.**职业的，业务知识的**  
+
+
 # ***\#voice*** vt
 英音 vɔɪs     美音 vɔɪs  
 
@@ -1418,6 +1588,16 @@ D.Voices
 
 答案：
 1. D  
+
+# ***\#voicemail*** n
+英音 'vɔɪsmeɪl     美音 'vɔɪsmeɪl  
+
+  
+
+英文释义
+---
+### 1.**语音信箱**  
+
 
 # ***\#volcanic*** adj
 英音 vɒl'kænɪk     美音 vɑːl'kænɪk  
@@ -1573,6 +1753,16 @@ volcanic /vɒl'kænɪk/ adj
 ### 1.**志愿的；义务的**  
 
 
+# ***\#vomit*** n
+英音 ˈvɒmɪt     美音 ˈvɑːmɪt  
+
+  
+
+英文释义
+---
+### 1.**呕吐物**  
+
+
 # ***\#vote*** v
 英音 vəʊt     美音 voʊt  
 
@@ -1653,16 +1843,26 @@ voter /'vəʊtə(r)/ n [C]
 
 #### 辨析 voyage, journey, trip, tour
 四者都含“旅行”之意，但具体含义不同。  
-**voyage** 通常指持续一定时间的“水上旅行”，尤指海上旅行，有时也指空中或宇宙旅行。
-**journey** 适用范围最广，对日程、到达地、交通工具等均无明确暗示，尤指长途旅行。通常指陆上旅行，且不一定回到出发地。
-**trip** 侧重指出差或消遣性质的短途旅行，往往回到出发地。
-**tour** 侧重指“观光游览”，往往在旅行过程中参观多个景点，最后回到出发点。
+**voyage** 指长途旅行，通常走海路或乘飞机、飞船等。
+**journey** 指长途旅行或经常性的旅行，强调旅行本身，有时行程较艰难或不含回程的意义。
+**trip** 指短途往返的旅行或不常为之的旅行，强调目的地或出行原因。
+**tour** 侧重指“观光游览”，往往在旅行过程中参观多个景点。
  > We went on a **guided tour** round the castle.  
  > 我们由导游带着参观了城堡。    
 
  > A bus took us on **a sightseeing tour** of the city.  
  > 我们乘坐大巴游览了这座城市。    
 
+
+
+# ***\#voyage*** vi
+英音 'vɔɪɪdʒ     美音 'vɔɪɪdʒ  
+
+| 词频 3 |  
+
+英文释义
+---
+### 1.**航海; 航行**  
 
 
 # ***\#vulnerable*** adj

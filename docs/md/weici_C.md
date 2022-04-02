@@ -101,6 +101,16 @@
 ### 1.*高义频：* **笼；鸟笼**  
 
 
+# ***\#cage*** vt
+英音 keɪdʒ     美音 keɪdʒ  
+
+| 词频 3 |  
+
+英文释义
+---
+### 1.**把（动物）关在笼中**  
+
+
 # ***\#cake*** n
 英音 keɪk     美音 keɪk  
 
@@ -121,6 +131,16 @@
 英文释义
 ---
 ### 1.**钙**  
+
+
+# ***\#calculable*** adj
+英音 ˈkælkjələbl     美音 ˈkælkjələbl  
+
+  
+
+英文释义
+---
+### 1.**可计算的；可估计的**  
 
 
 # ***\#calculate*** v  重难点词汇
@@ -170,6 +190,26 @@ calculator /'kælkjuleɪtə(r)/ n [C]
 
 答案：
 1. calculated  
+
+# ***\#calculated*** adj
+英音 ˈkælkjuleɪtɪd     美音 ˈkælkjuleɪtɪd  
+
+  
+
+英文释义
+---
+### 1.**精心策划的；蓄意的**  
+
+
+# ***\#calculation*** n
+英音 ˌkælkjuˈleɪʃn     美音 ˌkælkjuˈleɪʃn  
+
+  
+
+英文释义
+---
+### 1.**计算**  
+
 
 # ***\#calculator*** n
 英音 'kælkjuleɪtə(r)     美音 'kælkjuleɪtər  
@@ -369,6 +409,16 @@ called /kɔːld/ adj [不用于名词前]
 ### 1.**[U] 书法**  
 
 
+# ***\#calling*** n
+英音 'kɔːlɪŋ     美音 'kɔːlɪŋ  
+
+  
+
+英文释义
+---
+### 1.**职业，事业；使命感**  
+
+
 # ***\#calm*** adj
 英音 kɑːm     美音 kɑːm  
 
@@ -540,6 +590,26 @@ camping /'kæmpɪŋ/ n [U]
 
  > The government is **launching** an advertising **campaign** in order to tell people about the dangers of drugs.  
  > 政府正在开展宣传活动，以告诫人们毒品的危害。    
+
+
+# ***\#campaign*** vt
+英音 kæm'peɪn     美音 kæm'peɪn  
+
+| 词频 3 | 口语 2 | 书面 3 | 阅读 2 |  
+
+英文释义
+---
+### 1.**参加运动; 领导运动**  
+
+
+# ***\#camping*** n
+英音 'kæmpɪŋ     美音 'kæmpɪŋ  
+
+  
+
+英文释义
+---
+### 1.**露营；野营**  
 
 
 # ***\#campus*** n
@@ -848,6 +918,16 @@ D.needn’t
  > 积雪覆盖的大山    
 
 
+# ***\#capability*** n
+英音 ˌkeɪpə'bɪləti     美音 ˌkeɪpə'bɪləti  
+
+  
+
+英文释义
+---
+### 1.**(完成困难事情的) 能力，才能**  
+
+
 # ***\#capable*** adj
 英音 'keɪpəbl     美音 'keɪpəbl  
 
@@ -1020,6 +1100,16 @@ D.needn’t
  > 卧铺车厢    
 
 
+# ***\#carbohydrate*** n
+英音 ˌkɑːbəʊˈhaɪdreɪt     美音 ˌkɑːrbəʊˈhaɪdreɪt  
+
+  
+
+英文释义
+---
+### 1.**碳水化合物，糖类**  
+
+
 # ***\#carbon*** n
 英音 'kɑːbən     美音 'kɑːrbən  
 
@@ -1074,6 +1164,16 @@ D.needn’t
 英文释义
 ---
 ### 1.*高义频：* **硬纸板制的**  
+
+
+# ***\#cardiac*** adj
+英音 'kɑːdiæk     美音 'kɑːdiæk  
+
+  
+
+英文释义
+---
+### 1.**心脏病的；心脏的**  
 
 
 # ***\#care*** n  重难点词汇
@@ -1305,6 +1405,16 @@ carefulness /'keəfəlnəs/ n [U]
 ---
 carelessly /'keələsli/ adv   
 
+# ***\#careworn*** adj
+英音 ˈkeəwɔːn     美音 ˈkerwɔːrn  
+
+  
+
+英文释义
+---
+### 1.**忧虑憔悴的**  
+
+
 # ***\#carnival*** n
 英音 'kɑːnɪvl     美音 'kɑːrnɪvl  
 
@@ -1525,6 +1635,16 @@ the past two years.  （2018 江苏改）
  > 本末倒置；颠倒办事程序    
 
 
+# ***\#carton*** n
+英音 ˈkɑːtn     美音 ˈkɑːrtn  
+
+  
+
+英文释义
+---
+### 1.**硬纸盒；塑料盒**  
+
+
 # ***\#cartoon*** n
 英音 kɑː'tuːn     美音 kɑːr'tuːn  
 
@@ -1736,6 +1856,16 @@ Notes: in no case用于句首时，句子常用部分倒装语序。
 ---
 cashier /kæ'ʃɪə(r)/ n   
 
+# ***\#cashier*** n
+英音 kæˈʃɪə(r)     美音 kæˈʃɪr  
+
+  
+
+英文释义
+---
+### 1.**收银员；收银台**  
+
+
 # ***\#cassette*** n
 英音 kə'set     美音 kə'set  
 
@@ -1801,7 +1931,7 @@ cashier /kæ'ʃɪə(r)/ n
 
 ### 2.*高义频：* **全体演员：**  
 
- > an all-star cast 全明星阵容  
+ > an all-star cast  
  > 全明星阵容    
 
 
@@ -1910,6 +2040,16 @@ casually /'kæʒuəli/ adv
 
  > environmental / nuclear catastrophe   
  > 环境/核灾难    
+
+
+# ***\#catbird*** n
+英音 ˈkætbɜːd     美音 ˈkætbɜːrd  
+
+  
+
+英文释义
+---
+### 1.**猫鹊**  
 
 
 # ***\#catch*** v  重难点词汇
@@ -2050,6 +2190,16 @@ casually /'kæʒuəli/ adv
 英文释义
 ---
 ### 1.**动人的**  
+
+
+# ***\#categorise*** vt
+英音 'kætəgəraɪz     美音 'kætəgəraɪz  
+
+  
+
+英文释义
+---
+### 1.**把……分类(加以归类)**  
 
 
 # ***\#category*** n
@@ -2553,6 +2703,16 @@ celebrated /'selɪbreɪtɪd/ adj
  > 中国中央电视台    
 
 
+# ***\#centralize*** v
+英音 ˈsentrəlaɪz     美音 ˈsentrəlaɪz  
+
+  
+
+英文释义
+---
+### 1.**集权控制；实行集中**  
+
+
 # ***\#centre*** n
 英音 'sentə(r)     美音 'sentər  
 
@@ -2590,6 +2750,26 @@ celebrated /'selɪbreɪtɪd/ adj
 英文释义
 ---
 ### 1.*高义频：* **世纪；百年**  
+
+
+# ***\#ceramic*** n
+英音 səˈræmɪk     美音 səˈræmɪk  
+
+  
+
+英文释义
+---
+### 1.**陶瓷制品; 制陶艺术**  
+
+
+# ***\#ceramics*** n
+英音 sɪ'ræmɪks     美音 sə'ræmɪks  
+
+  
+
+英文释义
+---
+### 1.**陶瓷制品**  
 
 
 # ***\#cereal*** n
@@ -3438,7 +3618,7 @@ health. It may also be good for ________ (良好品格的培养).  （2009 湖�
  > Another unique human characteristic is that we walk upright.  
  > 人类另一个独有的特征是我们人直立行走。  （2019 江苏）  
 
- > key / personal charateristics  
+ > key / personal characteristics  
  > 重要的 / 个人的特征    
 
 
@@ -3453,6 +3633,16 @@ health. It may also be good for ________ (良好品格的培养).  （2009 湖�
 
  > Sunny, hot days are the characteristic weather of the summer months.   
  > 晴朗、炎热是夏季的典型天气。    
+
+
+# ***\#characterize*** vt
+英音 'kærɪktəraɪz     美音 'kærɪktəraɪz  
+
+  
+
+英文释义
+---
+### 1.**是…的特征，以…为典型；使…具有特点；描述，刻画**  
 
 
 # ***\#charge*** v  重难点词汇
@@ -3557,6 +3747,28 @@ charger /'tʃɑːdʒə(r)/ n
  > 正/负电荷    
 
 
+# ***\#chargeable*** adj
+英音 ˈtʃɑːdʒəbl     美音 ˈtʃɑːrdʒəbl  
+
+  
+
+英文释义
+---
+### 1.**应支付的**  
+
+### 2.**应征税的**  
+
+
+# ***\#charger*** n
+英音 'tʃɑːdʒə(r)     美音 'tʃɑːrdʒər  
+
+  
+
+英文释义
+---
+### 1.**充电器**  
+
+
 # ***\#charity*** n
 英音 'tʃærəti     美音 'tʃærəti  
 
@@ -3649,7 +3861,7 @@ charming /'tʃɑːmɪŋ/ adj
 
 英文释义
 ---
-### 1.*高义频：* **绘制...的海图**  
+### 1.*高义频：* **绘制……的地图 (map)；记录；跟踪 (变化或进展)**  
 
 
 # ***\#chase*** v
@@ -3727,6 +3939,16 @@ charming /'tʃɑːmɪŋ/ adj
 
  > I like to **chat with** her now and then **about** school life.  
  > 我喜欢偶尔和她聊一聊我的学校生活。    
+
+
+# ***\#chatter*** vi
+英音 ˈtʃætə(r)     美音 ˈtʃætər  
+
+  
+
+英文释义
+---
+### 1.**唠叨,喋喋不休**  
 
 
 # ***\#cheap*** adj
@@ -3925,6 +4147,16 @@ cheaply /'tʃiːpli/ adv
 英文释义
 ---
 ### 1.*高义频：* **[C] & [U] (在机场、旅馆、医院等办理登记手续的) 登记处；办理登记手续**  
+
+
+# ***\#check-up*** n
+英音 ˈtʃek ʌp     美音 ˈtʃek ʌp  
+
+  
+
+英文释义
+---
+### 1.**体检；健康检查**  
 
 
 # ***\#checkout*** n
@@ -4165,6 +4397,16 @@ cheerfully /'tʃɪəfəli/ adv
 ### 1.*高义频：* **支票 (AmE check)**  
 
 
+# ***\#cherish*** v
+英音 ˈtʃerɪʃ     美音 ˈtʃerɪʃ  
+
+  
+
+英文释义
+---
+### 1.**重视，珍视**  
+
+
 # ***\#cherry*** n
 英音 'tʃeri     美音 'tʃeri  
 
@@ -4175,6 +4417,16 @@ cheerfully /'tʃɪəfəli/ adv
 英文释义
 ---
 ### 1.*高义频：* **樱桃；樱桃树**  
+
+
+# ***\#cherry*** adj
+英音 'tʃeri     美音 'tʃeri  
+
+| 词频 2 |  
+
+英文释义
+---
+### 1.**樱桃色的; 鲜红色的**  
 
 
 # ***\#chess*** n
@@ -4229,6 +4481,16 @@ cheerfully /'tʃɪəfəli/ adv
 
  > Rose **chewed (on)** her lip and stared at the floor.  
  > 罗斯咬着嘴唇，眼睛盯着地板。    
+
+
+# ***\#chew*** n
+英音 tʃuː     美音 tʃuː  
+
+| 词频 2 |  
+
+英文释义
+---
+### 1.**咀嚼**  
 
 
 # ***\#chick*** n
@@ -4341,6 +4603,26 @@ cheerfully /'tʃɪəfəli/ adv
 ### 1.**孩子的, 幼稚的**  
 
 
+# ***\#childlike*** adj
+英音 ˈtʃaɪldlaɪk     美音 ˈtʃaɪldlaɪk  
+
+  
+
+英文释义
+---
+### 1.**孩子般的；天真无邪的**  
+
+
+# ***\#chilli*** n
+英音 'tʃɪli     美音 'tʃɪli  
+
+  
+
+英文释义
+---
+### 1.**辣椒**  
+
+
 # ***\#chimney*** n
 英音 'tʃɪmni     美音 'tʃɪmni  
 
@@ -4440,7 +4722,7 @@ cheerfully /'tʃɪəfəli/ adv
 
 英文释义
 ---
-### 1.*高义频：* **[U] & [C] 选择；选择权：**  
+### 1.*高义频：* **[U]选择； [C] 选择权：**  
 
  > You have to **make** a **choice between** this toy and that toy.  
  > 你得在这个玩具和那个玩具之间作选择。  （2011 全国）  
@@ -4450,7 +4732,7 @@ cheerfully /'tʃɪəfəli/ adv
 
 ### 2.*高义频：* **[C] 被选中的人 / 物：**  
 
- > I’m your perfect choice for the Talent Show.  
+ > I'm your perfect choice for the Talent Show.  
  > 我是才艺表演的最佳人选。  （北师大② – 5）  
 
 ### 3.*高义频：* **可选择的范围；供选择的品种：**  
@@ -4476,10 +4758,10 @@ cheerfully /'tʃɪəfəli/ adv
 
 真题解析
 ---
-1. You have to ________ a choice. Are you going to leave the job or stay?  （2008 四川改）  
+1. You have to ________ (作选择). Are you going to leave the job or stay?  （2008 四川改）  
 
 答案：
-1. make  
+1. make a choice  
 
 # ***\#choir*** n
 英音 'kwaɪə(r)     美音 'kwaɪər  
@@ -4640,6 +4922,16 @@ cheerfully /'tʃɪəfəli/ adv
 ### 1.*高义频：* **[常用复数] 筷子**  
 
 
+# ***\#chopsticks*** n
+英音 ˈtʃɒpstɪks     美音 ˈtʃɑːpstɪks  
+
+  
+
+英文释义
+---
+### 1.**筷子**  
+
+
 # ***\#choral*** adj
 英音 'kɔːrəl     美音 kɔː'rəl  
 
@@ -4696,6 +4988,16 @@ cheerfully /'tʃɪəfəli/ adv
 英文释义
 ---
 ### 1.**好朋友**  
+
+
+# ***\#chunk*** n
+英音 tʃʌŋk     美音 tʃʌŋk  
+
+  
+
+英文释义
+---
+### 1.**语块**  
 
 
 # ***\#church*** n
@@ -4780,7 +5082,7 @@ cheerfully /'tʃɪəfəli/ adv
 ### 1.*高义频：* **五行诗**  
 
 
-# ***\#circle*** 
+# ***\#circle*** v
 英音 'sɜːkl     美音 'sɜːrkl  
 
 | 词频 4 |  
@@ -4851,6 +5153,16 @@ cheerfully /'tʃɪəfəli/ adv
 英文释义
 ---
 ### 1.*高义频：* **圆形的；环形的；循环的**  
+
+
+# ***\#circular*** n
+英音 ˈsɜːkjələ(r)     美音 ˈsɜːrkjələr  
+
+| 词频 1 |  
+
+英文释义
+---
+### 1.**印刷信函**  
 
 
 # ***\#circulate*** v
@@ -4960,6 +5272,18 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > Dikembe became a star in the NBA, and a citizen of the United States.  
  > 迪肯贝成了NBA篮球明星，并成了美国公民。  （2008 辽宁）  
+
+
+# ***\#citizenship*** n
+英音 ˈsɪtɪzənʃɪp     美音 ˈsɪtɪzənʃɪp  
+
+  
+
+英文释义
+---
+### 1.**公民权利（或资格）**  
+
+### 2.**公民身份（或义务）**  
 
 
 # ***\#city*** n
@@ -5178,6 +5502,36 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
  > 研究一下英国历史，你就能够弄明白这个问题。  （人教⑤ – 2）  
 
 
+# ***\#clarity*** n
+英音 ˈklærəti     美音 ˈklærəti  
+
+  
+
+英文释义
+---
+### 1.**清楚,清晰**  
+
+
+# ***\#clasp*** n
+英音 klɑːsp     美音 klæsp  
+
+  
+
+英文释义
+---
+### 1.**紧握，紧抱**  
+
+
+# ***\#clasp*** vt
+英音 klɑːsp     美音 klæsp  
+
+  
+
+英文释义
+---
+### 1.**握紧，抱紧**  
+
+
 # ***\#class*** n
 英音 klɑːs     美音 klæs  
 
@@ -5304,6 +5658,18 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 英文释义
 ---
 ### 1.*高义频：* **归类；分类；分级**  
+
+
+# ***\#classified*** adj
+英音 ˈklæsɪfaɪd     美音 ˈklæsɪfaɪd  
+
+  
+
+英文释义
+---
+### 1.**机密的；保密的**  
+
+### 2.**分类的；归类的**  
 
 
 # ***\#classify*** vt
@@ -5447,6 +5813,16 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > You must **keep** your clothes **clean**.  
  > 你必须保持衣着整洁。    
+
+
+# ***\#clean-burning*** adj
+
+
+  
+
+英文释义
+---
+### 1.**清洁焚烧的**  
 
 
 # ***\#clean-up*** n
@@ -6032,6 +6408,16 @@ climbing /'klaɪmɪŋ/ n [U]
  > 女孩紧紧地抱着小狗。    
 
 
+# ***\#close-fitting*** adj
+
+
+  
+
+英文释义
+---
+### 1.**紧身的**  
+
+
 # ***\#closed*** adj
 英音 kləʊzd     美音 kloʊzd  
 
@@ -6065,6 +6451,16 @@ climbing /'klaɪmɪŋ/ n [U]
  > 把宠物放在室外时要仔细照看他们。  （2012 全国改）  
 
 
+# ***\#closely-knit*** adj
+英音 ˌkləʊs ˈnɪt     美音 ˌkləʊs ˈnɪt  
+
+  
+
+英文释义
+---
+### 1.**紧密连结在一起的**  
+
+
 # ***\#closet*** n
 英音 'klɒzɪt     美音 'klɑːzət  
 
@@ -6073,6 +6469,26 @@ climbing /'klaɪmɪŋ/ n [U]
 英文释义
 ---
 ### 1.*高义频：* **壁橱**  
+
+
+# ***\#closing*** adj
+英音 'kləʊzɪŋ     美音 'kloʊzɪŋ  
+
+  
+
+英文释义
+---
+### 1.**结尾的；结束的**  
+
+
+# ***\#closing*** n
+英音 'kləʊzɪŋ     美音 'kloʊzɪŋ  
+
+  
+
+英文释义
+---
+### 1.**停业；关闭；倒闭**  
 
 
 # ***\#cloth*** n
@@ -6166,6 +6582,36 @@ climbing /'klaɪmɪŋ/ n [U]
 ---
 cloudless /'klaʊdləs/ adj   
 
+# ***\#cloud*** v
+英音 klaʊd     美音 klaʊd  
+
+| 词频 4 | 口语 1 | 书面 1 |  
+
+英文释义
+---
+### 1.**布满云；使模糊**  
+
+
+# ***\#cloud-capped*** adj
+英音 k'laʊdk'æpt     美音 k'laʊdk'æpt  
+
+  
+
+英文释义
+---
+### 1.**高耸入云的，耸入云霄的**  
+
+
+# ***\#cloudburst*** n
+英音 ˈklaʊdbɜːst     美音 ˈklaʊdbɜːrst  
+
+  
+
+英文释义
+---
+### 1.**大暴雨；倾盆大雨**  
+
+
 # ***\#cloudy*** adj
 英音 'klaʊdi     美音 'klaʊdi  
 
@@ -6178,6 +6624,16 @@ cloudless /'klaʊdləs/ adj
 
  > It was cloudy this morning, but it turned out fine.  
  > 今天上午阴天，但后来放晴了。    
+
+
+# ***\#clover*** n
+英音 ˈkləʊvə(r)     美音 ˈkləʊvər  
+
+  
+
+英文释义
+---
+### 1.**三叶草**  
 
 
 # ***\#clown*** n
@@ -6227,6 +6683,16 @@ cloudless /'klaʊdləs/ adj
  > 根据提示编写一段对话。    
 
 
+# ***\#clueless*** adj
+英音 ˈkluːləs     美音 ˈkluːləs  
+
+  
+
+英文释义
+---
+### 1.**一无所知的，一窍不通的**  
+
+
 # ***\#clumsy*** adj
 英音 'klʌmzi     美音 'klʌmzi  
 
@@ -6240,6 +6706,26 @@ cloudless /'klaʊdləs/ adj
  > 有一次，克莱尔想要帮忙，但是太笨手笨脚了。  （人教⑦ – 2）  
 
 
+# ***\#cluster*** n
+英音 ˈklʌstə(r)     美音 ˈklʌstər  
+
+  
+
+英文释义
+---
+### 1.**串，丛，簇**  
+
+
+# ***\#co-discover*** v
+英音 ˈkəʊ dɪˈskʌvə(r)     美音 ˈkəʊ dɪˈskʌvər  
+
+  
+
+英文释义
+---
+### 1.**共同发现**  
+
+
 # ***\#co-operative*** adj
 英音 'kəʊ'ɒpərətɪv     美音 'kəʊ'ɒpərətɪv  
 
@@ -6248,6 +6734,36 @@ cloudless /'klaʊdləs/ adj
 英文释义
 ---
 ### 1.*高义频：* **(= cooperative) 合作的**  
+
+
+# ***\#co-pilot*** n
+英音 ˈkəʊ paɪlət     美音 ˈkəʊ paɪlət  
+
+  
+
+英文释义
+---
+### 1.**（飞机的）副驾驶员**  
+
+
+# ***\#co-renter*** n
+英音 ˌkəʊˈrentə(r)     美音 ˌkəʊˈrentər  
+
+  
+
+英文释义
+---
+### 1.**合租者**  
+
+
+# ***\#co-worker*** n
+英音 ˈkəʊ wɜːkə(r)     美音 ˈkəʊ wɜːrkər  
+
+  
+
+英文释义
+---
+### 1.**同事；同僚**  
 
 
 # ***\#coach*** n
@@ -6299,6 +6815,16 @@ cloudless /'klaʊdləs/ adj
 ### 1.*高义频：* **[C] & [U] 煤；煤块**  
 
 
+# ***\#coarse*** adj
+英音 kɔːs     美音 kɔːrs  
+
+  
+
+英文释义
+---
+### 1.**粗俗的；下等的**  
+
+
 # ***\#coast*** n
 英音 kəʊst     美音 koʊst  
 
@@ -6339,6 +6865,16 @@ coastal /'kəʊstl/ adj
 英文释义
 ---
 ### 1.**沿海的**  
+
+
+# ***\#coastline*** n
+英音 ˈkəʊstlaɪn     美音 ˈkəʊstlaɪn  
+
+  
+
+英文释义
+---
+### 1.**海岸线**  
 
 
 # ***\#coat*** n
@@ -6382,6 +6918,16 @@ coastal /'kəʊstl/ adj
 ### 1.**铺鹅卵石的**  
 
 
+# ***\#cobblestone*** adj
+英音 ˈkɒblstəʊn     美音 ˈkɑːblstəʊn  
+
+  
+
+英文释义
+---
+### 1.**铺有鹅卵石的**  
+
+
 # ***\#cocaine*** n
 英音 kəʊ'keɪn     美音 koʊ'keɪn  
 
@@ -6410,6 +6956,16 @@ coastal /'kəʊstl/ adj
 英文释义
 ---
 ### 1.*高义频：* **[U] 可可粉**  
+
+
+# ***\#coconut*** n
+英音 ˈkəʊkənʌt     美音 ˈkəʊkənʌt  
+
+  
+
+英文释义
+---
+### 1.**椰子**  
 
 
 # ***\#code*** n
@@ -6455,6 +7011,26 @@ coastal /'kəʊstl/ adj
  > 每条命令都单独编码。    
 
 
+# ***\#code-name*** v
+
+
+  
+
+英文释义
+---
+### 1.**代号为**  
+
+
+# ***\#coexist*** v
+英音 ˌkəʊɪɡˈzɪst     美音 ˌkəʊɪɡˈzɪst  
+
+  
+
+英文释义
+---
+### 1.**共存，共处**  
+
+
 # ***\#coffee*** n
 英音 'kɒfi     美音 'kɔːfi  
 
@@ -6489,6 +7065,26 @@ coastal /'kəʊstl/ adj
 ### 1.*高义频：* **棺材**  
 
 
+# ***\#cognition*** n
+英音 kɒɡˈnɪʃn     美音 kɑːɡˈnɪʃn  
+
+  
+
+英文释义
+---
+### 1.**认识，认知**  
+
+
+# ***\#coherent*** adj
+英音 kəʊˈhɪərənt     美音 kəʊˈhɪrənt  
+
+  
+
+英文释义
+---
+### 1.**有条理的; 清楚易懂的**  
+
+
 # ***\#coin*** n
 英音 kɔɪn     美音 kɔɪn  
 
@@ -6506,6 +7102,16 @@ coastal /'kəʊstl/ adj
 
  > **the other / opposite side of the coin**  
  > 事情的另一面    
+
+
+# ***\#coin*** v
+英音 kɔɪn     美音 kɔɪn  
+
+| 词频 4 | 口语 1 |  
+
+英文释义
+---
+### 1.**创造（新词语）**  
 
 
 # ***\#coincidence*** n
@@ -6622,6 +7228,26 @@ coincidental /kəʊˌɪnsɪ'dentl/ adj
 coldly /'kəʊldli/ adv   
 coldness /'kəʊldnəs/ n   
 
+# ***\#coldness*** n
+英音 ˈkəʊldnəs     美音 ˈkəʊldnəs  
+
+  
+
+英文释义
+---
+### 1.**寒冷；冷淡**  
+
+
+# ***\#collaborate*** v
+英音 kəˈlæbəreɪt     美音 kəˈlæbəreɪt  
+
+  
+
+英文释义
+---
+### 1.**合作，协作**  
+
+
 # ***\#collapse*** vi
 英音 kə'læps     美音 kə'læps  
 
@@ -6633,6 +7259,16 @@ coldness /'kəʊldnəs/ n
 
  > Having been attacked by terrorists, the tall building collapsed.   
  > 遭受恐怖分子袭击后，大厦倒塌了。    
+
+
+# ***\#collapse*** n
+英音 kə'læps     美音 kə'læps  
+
+| 词频 2 | 口语 1 |  
+
+英文释义
+---
+### 1.**昏倒；倒塌**  
 
 
 # ***\#collar*** n
@@ -6927,6 +7563,36 @@ colo(u)rfully /'kʌləfəli/ adv
 ### 1.**殖民地**  
 
 
+# ***\#colour-blind*** adj
+英音 ˈkʌlə blaɪnd     美音 ˈkʌlər blaɪnd  
+
+  
+
+英文释义
+---
+### 1.**无种族歧视的；色盲的**  
+
+
+# ***\#coloured*** adj
+英音 ˈkʌləd     美音 ˈkʌlərd  
+
+  
+
+英文释义
+---
+### 1.**有色的**  
+
+
+# ***\#colourless*** adj
+英音 ˈkʌlələs     美音 ˈkʌlərləs  
+
+  
+
+英文释义
+---
+### 1.**无色的；苍白的；无趣的**  
+
+
 # ***\#column*** n
 英音 'kɒləm     美音 'kɑːləm  
 
@@ -6989,6 +7655,16 @@ colo(u)rfully /'kʌləfəli/ adv
  > 他们搜寻旧报纸和其他资料查找线索。  （2009 湖南改）  
 
 
+# ***\#comb-like*** adj
+英音 'kəʊml'aɪk     美音 'kəʊml'aɪk  
+
+  
+
+英文释义
+---
+### 1.**梳状的**  
+
+
 # ***\#combat*** n
 英音 'kɒmbæt     美音 'kɑːmbæt  
 
@@ -7007,6 +7683,16 @@ colo(u)rfully /'kʌləfəli/ adv
 英文释义
 ---
 ### 1.*高义频：* **防止；抑制**  
+
+
+# ***\#combatant*** n
+英音 ˈkɒmbətənt     美音 kəmˈbætnt  
+
+  
+
+英文释义
+---
+### 1.**战斗人员**  
 
 
 # ***\#combination*** n
@@ -7387,6 +8073,16 @@ D.Take it easy
 答案：
 1. C  2. C  3. across  4. along  5.  with  6. down  7. about  
 
+# ***\#comeback*** n
+英音 'kʌmbæk     美音 'kʌmbæk  
+
+  
+
+英文释义
+---
+### 1.**东山再起**  
+
+
 # ***\#comedian*** n
 英音 kə'miːdiən     美音 kə'miːdiən  
 
@@ -7504,6 +8200,16 @@ comfortably /'kʌmftəbli;'kʌmfətəbli/ adv
  > 所有的房间都配有舒适的家具。    
 
 
+# ***\#comfortably*** adv
+英音 ˈkʌmftəbli，ˈkʌmfətəbli     美音 ˈkʌmftəbli，ˈkʌmfərtəbli  
+
+  
+
+英文释义
+---
+### 1.**舒服地,舒适地**  
+
+
 # ***\#comic*** adj
 英音 'kɑːmɪk     美音 'kɑːmɪk  
 
@@ -7610,6 +8316,16 @@ commander /kə'mɑːndə(r)/ n
 ### 1.**指挥官**  
 
 
+# ***\#commemorate*** v
+英音 kəˈmeməreɪt     美音 kəˈmeməreɪt  
+
+  
+
+英文释义
+---
+### 1.**纪念**  
+
+
 # ***\#comment*** n
 英音 'kɒment     美音 'kɑːment  
 
@@ -7709,6 +8425,26 @@ commander /kə'mɑːndə(r)/ n
 
  > a radio / TV commercial  
  > 广播/电视广告    
+
+
+# ***\#commercialisation*** n
+英音 kəˌmɜːʃəlaɪ'zeɪʃn     美音 kəˌmɜːrʃlaɪ'zeɪʃn  
+
+  
+
+英文释义
+---
+### 1.**商业化**  
+
+
+# ***\#commercialise*** vt
+英音 kə'mɜːʃəlaɪz     美音 kə'mɜːrʃəlaɪz  
+
+  
+
+英文释义
+---
+### 1.**使商业化；利用…牟利**  
 
 
 # ***\#commission*** n
@@ -8064,6 +8800,16 @@ D.usual
  > 回馈社会——你在帮助他人的同时，自己也会获益良多。    
 
 
+# ***\#commute*** n
+英音 kəˈmjuːt     美音 kəˈmjuːt  
+
+  
+
+英文释义
+---
+### 1.**通勤**  
+
+
 # ***\#compact*** adj
 英音 'kɒmpækt     美音 'kɑːmpækt  
 
@@ -8092,6 +8838,16 @@ D.usual
 
  > The dog may be a good companion for the old.   
  > 对老人而言，狗也许是很好的伙伴。  （2012 天津）  
+
+
+# ***\#companionship*** n
+英音 kəm'pæniənʃɪp     美音 kəm'pæniənʃɪp  
+
+  
+
+英文释义
+---
+### 1.**友谊；友好交往**  
 
 
 # ***\#company*** n
@@ -8187,6 +8943,16 @@ D.usual
 
  > We live in **comparative comfort**.  
  > 我们过着比较舒适的生活。    
+
+
+# ***\#comparatively*** adv
+英音 kəmˈpærətɪvli     美音 kəmˈpærətɪvli  
+
+  
+
+英文释义
+---
+### 1.**相对地；比较地**  
 
 
 # ***\#compare*** v  重难点词汇
@@ -8820,6 +9586,16 @@ complexity /kəm'pleksəti/ n
  > 不可理解的    
 
 
+# ***\#comprehension*** vi
+英音 ˌkɒmprɪ'henʃn     美音 ˌkɑːmprɪ'henʃn  
+
+| 词频 1 |  
+
+英文释义
+---
+### 1.**感到悲伤**  
+
+
 # ***\#comprehensive*** n
 英音 ˌkɒmprɪ'hensɪv     美音 ˌkɑːmprɪ'hensɪv  
 
@@ -8940,6 +9716,36 @@ D.crucial
 ### 1.*高义频：* **计算机；电脑**  
 
 
+# ***\#comrade*** n
+英音 ˈkɒmreɪd     美音 ˈkɑːmræd  
+
+  
+
+英文释义
+---
+### 1.**同志；朋友**  
+
+
+# ***\#conceivably*** adv
+英音 kənˈsiːvəbli     美音 kənˈsiːvəbli  
+
+  
+
+英文释义
+---
+### 1.**可以相信地；可想象地**  
+
+
+# ***\#conceive*** v
+英音 kənˈsiːv     美音 kənˈsiːv  
+
+  
+
+英文释义
+---
+### 1.**构想，设想**  
+
+
 # ***\#concentrate*** v
 英音 'kɒnsntreɪt     美音 'kɑːnsntreɪt  
 
@@ -8983,6 +9789,16 @@ D.crucial
 派生词汇
 ---
 concentrated ['kɑːnsntreɪtɪd] adj   
+
+# ***\#concentrated*** adj
+英音 ˈkɒnsntreɪtɪd     美音 ˈkɑːnsntreɪtɪd  
+
+  
+
+英文释义
+---
+### 1.**浓缩的；聚集的；全神贯注的**  
+
 
 # ***\#concentration*** n
 英音 ˌkɒnsen'treɪʃn     美音 ˌkɒnsen'treɪʃən  
@@ -9172,6 +9988,16 @@ concentrated ['kɑːnsntreɪtɪd] adj
  > 在音乐会上    
 
 
+# ***\#concerto*** n
+英音 kən'tʃɜːtəʊ     美音 kən'tʃɜːrtoʊ  
+
+  
+
+英文释义
+---
+### 1.**协奏曲**  
+
+
 # ***\#concise*** adj
 英音 kən'saɪs     美音 kən'saɪs  
 
@@ -9180,6 +10006,16 @@ concentrated ['kɑːnsntreɪtɪd] adj
 英文释义
 ---
 ### 1.*高义频：* **简明的；简练的**  
+
+
+# ***\#concisely*** adv
+英音 kənˈsaɪsli     美音 kənˈsaɪsli  
+
+  
+
+英文释义
+---
+### 1.**简明地，简练地，简洁地**  
 
 
 # ***\#conclude*** v
@@ -9507,6 +10343,16 @@ concentrated ['kɑːnsntreɪtɪd] adj
 ### 2.*高义频：* **(BrE) (公共汽车) 售票员；(AmE) 列车长**  
 
 
+# ***\#confederate*** adj
+英音 kənˈfedərət     美音 kənˈfedərət  
+
+  
+
+英文释义
+---
+### 1.**结盟的；联合的**  
+
+
 # ***\#conference*** n
 英音 'kɒnfərəns     美音 'kɒnfərəns  
 
@@ -9682,6 +10528,16 @@ confidently /'kɒnfədəntlɪ/ adv
 英文释义
 ---
 ### 1.**证实，证明**  
+
+
+# ***\#confirmed*** adj
+英音 kənˈfɜːmd     美音 kənˈfɜːrmd  
+
+  
+
+英文释义
+---
+### 1.**成习惯的；根深蒂固的**  
 
 
 # ***\#confiscate*** vt
@@ -10097,6 +10953,16 @@ confidently /'kɒnfədəntlɪ/ adv
  > 民族/阶级意识    
 
 
+# ***\#consecrate*** v
+英音 ˈkɒnsɪkreɪt     美音 ˈkɑːnsɪkreɪt  
+
+  
+
+英文释义
+---
+### 1.**宣布……为神圣之地**  
+
+
 # ***\#consecutive*** adj
 英音 kən'sekjətɪv     美音 kən'sekjətɪv  
 
@@ -10236,6 +11102,16 @@ consequently /'kɒnsɪkwəntli/ adv
  > 古建筑的保护    
 
 
+# ***\#conservationist*** n
+英音 ˌkɒnsə'veɪʃənɪst     美音 ˌkɑːnsər'veɪʃənɪst  
+
+  
+
+英文释义
+---
+### 1.**环境保护主义者**  
+
+
 # ***\#conservative*** adj
 英音 kən'sɜːvətɪv     美音 kən'sɜːrvətɪv  
 
@@ -10262,6 +11138,28 @@ consequently /'kɒnsɪkwəntli/ adv
 英文释义
 ---
 ### 1.**音乐学院**  
+
+
+# ***\#conserve*** v
+英音 kənˈsɜːv     美音 kənˈsɜːrv  
+
+  
+
+英文释义
+---
+### 1.**节省；节约**  
+
+### 2.**保护；保存；保藏**  
+
+
+# ***\#conserve*** n
+英音 kənˈsɜːv     美音 kənˈsɜːrv  
+
+  
+
+英文释义
+---
+### 1.**果酱；蜜饯**  
 
 
 # ***\#consider*** v  重难点词汇
@@ -10535,6 +11433,16 @@ constantly /'kɒnstəntli/ adv
 答案：
 1. a constant stream of visitors / tourists  
 
+# ***\#constant*** n
+英音 'kɒnstənt     美音 'kɑːnstənt  
+
+| 词频 3 | 口语 1 | 书面 1 | 阅读 3 |  
+
+英文释义
+---
+### 1.**常量，恒量**  
+
+
 # ***\#constantly*** adv
 英音 'kɒnstəntli     美音 'kɑːnstəntli  
 
@@ -10606,6 +11514,16 @@ constantly /'kɒnstəntli/ adv
 
  > There are four underground lines in the city, and several lines are under construction.   
  > 这座城市现有4条地铁线路，还有几条正在建设中。    
+
+
+# ***\#consulate*** n
+英音 ˈkɒnsjələt     美音 ˈkɑːnsələt  
+
+  
+
+英文释义
+---
+### 1.**领事馆**  
 
 
 # ***\#consult*** v
@@ -10903,6 +11821,16 @@ contentment /kən'tentmənt/ n
 ---
 contentment /kən'tentmənt/ n   
 
+# ***\#contented*** adj
+英音 kənˈtentɪd     美音 kənˈtentɪd  
+
+  
+
+英文释义
+---
+### 1.**满意的；满足的**  
+
+
 # ***\#contest*** n
 英音 'kɒntest     美音 'kɑːntest  
 
@@ -10917,6 +11845,16 @@ contentment /kən'tentmənt/ n
 
  > I finally came out of the contest as the first prize winner.  
  > 我最终获得比赛一等奖。  （2016 浙江书面表达）  
+
+
+# ***\#contest*** vt
+英音 'kɒntest     美音 'kɑːntest  
+
+| 词频 3 | 书面 1 |  
+
+英文释义
+---
+### 1.**争取赢得 (比赛，选举等) ; 争辩**  
 
 
 # ***\#context*** n
@@ -10956,6 +11894,16 @@ contentment /kən'tentmənt/ n
 英文释义
 ---
 ### 1.**大陆的；大洲的**  
+
+
+# ***\#continuation*** n
+英音 kənˌtɪnjuˈeɪʃn     美音 kənˌtɪnjuˈeɪʃn  
+
+  
+
+英文释义
+---
+### 1.**延续，继续部分**  
 
 
 # ***\#continue*** v
@@ -11067,6 +12015,16 @@ continuously /kən'tɪnjuəsli/ adv
 
  > Being punctual is a contract that is silently agreed.   
  > 守时是默默签订的协议。  （2015 陕西）  
+
+
+# ***\#contractor*** n
+英音 kənˈtræktə(r)     美音 ˈkɑːntræktər  
+
+  
+
+英文释义
+---
+### 1.**承包商**  
 
 
 # ***\#contradict*** v
@@ -11310,6 +12268,18 @@ contributor /kən'trɪbjʊtə/ n
  > 这是一本由著名旅行作家撰稿的杂志。    
 
 
+# ***\#contributor*** n
+英音 kənˈtrɪbjətə(r)     美音 kənˈtrɪbjətər  
+
+  
+
+英文释义
+---
+### 1.**撰稿人；捐款人**  
+
+### 2.**起作用的因素**  
+
+
 # ***\#control*** n
 英音 kən'trəʊl     美音 kən'troʊl  
 
@@ -11551,6 +12521,18 @@ controlled  /kən'trəʊld/ adj
 
  > I **had an** interesting **conversation with** a reporter **about** job hunting recently.  
  > 最近我和一位记者就找工作进行了一次有趣的交谈。  （2010 北京改）  
+
+
+# ***\#conversational*** adj
+英音 ˌkɒnvəˈseɪʃənl     美音 ˌkɑːnvərˈseɪʃənl  
+
+  
+
+英文释义
+---
+### 1.**非正式的；用于交谈的；口语的**  
+
+### 2.**会话（式）的；谈话（式）的**  
 
 
 # ***\#convert*** v
@@ -11854,6 +12836,38 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
  > 与石油公司合作进行过一项研究。    
 
 
+# ***\#cooperative*** adj
+英音 kəʊˈɒpərətɪv     美音 kəʊˈɑːpərətɪv  
+
+  
+
+英文释义
+---
+### 1.**合作的；协作的**  
+
+### 2.**协助的；配合的**  
+
+
+# ***\#cooperative*** n
+英音 kəʊˈɒpərətɪv     美音 kəʊˈɑːpərətɪv  
+
+  
+
+英文释义
+---
+### 1.**合作企业**  
+
+
+# ***\#cooperator*** n
+英音 kəʊ'ɒpəˌreɪtə     美音 koʊ'ɒpəˌreɪtə  
+
+  
+
+英文释义
+---
+### 1.**合作者**  
+
+
 # ***\#cope*** vi
 英音 kəʊp     美音 koʊp  
 
@@ -11945,6 +12959,16 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 英文释义
 ---
 ### 1.**珊瑚**  
+
+
+# ***\#coral*** adj
+英音 'kɒrəl     美音 'kɔːrəl  
+
+| 词频 1 |  
+
+英文释义
+---
+### 1.**珊瑚色的**  
 
 
 # ***\#core*** n
@@ -12165,6 +13189,26 @@ correctly /kə'rektli/ adv
 ### 1.*高义频：* **一致；相似；通信；信件**  
 
 
+# ***\#correspondent*** n
+英音 ˌkɒrəˈspɒndənt     美音 ˌkɔːrəˈspɑːndənt  
+
+  
+
+英文释义
+---
+### 1.**通讯员，记者**  
+
+
+# ***\#corresponding*** adj
+英音 ˌkɒrəˈspɒndɪŋ     美音 ˌkɔːrəˈspɑːndɪŋ  
+
+  
+
+英文释义
+---
+### 1.**相应的；对应的**  
+
+
 # ***\#corridor*** n
 英音 'kɒrɪdɔː(r)     美音 'kɔːrɪdɔːr  
 
@@ -12219,6 +13263,26 @@ correctly /kə'rektli/ adv
 英文释义
 ---
 ### 1.**紧身胸衣**  
+
+
+# ***\#cosmetics*** n
+英音 kɒz'metɪks     美音 kɒz'metɪks  
+
+  
+
+英文释义
+---
+### 1.**化妆品，美容品**  
+
+
+# ***\#cosmic*** adj
+英音 ˈkɒzmɪk     美音 ˈkɑːzmɪk  
+
+  
+
+英文释义
+---
+### 1.**宇宙的**  
 
 
 # ***\#cosmology*** n
@@ -12353,6 +13417,16 @@ costly ['kɒstli] adj
 派生词汇
 ---
 costly /'kɒstli/ adj   
+
+# ***\#costly*** adj
+英音 ˈkɒstli     美音 ˈkɔːstli  
+
+  
+
+英文释义
+---
+### 1.**昂贵的；值钱的；代价高的**  
+
 
 # ***\#costume*** n
 英音 'kɒstjuːm     美音 'kɑːstuːm  
@@ -12627,6 +13701,16 @@ countless /'kaʊntləs/ adj
 答案：
 1. on / upon  2. counts  
 
+# ***\#countdown*** n
+英音 ˈkaʊntdaʊn     美音 ˈkaʊntdaʊn  
+
+  
+
+英文释义
+---
+### 1.**倒数读秒；倒计时**  
+
+
 # ***\#counter*** n
 英音 'kaʊntə(r)     美音 'kaʊntər  
 
@@ -12655,6 +13739,16 @@ countless /'kaʊntləs/ adj
 英文释义
 ---
 ### 1.**反驳，抵制，抵消**  
+
+
+# ***\#countless*** adj
+英音 ˈkaʊntləs     美音 ˈkaʊntləs  
+
+  
+
+英文释义
+---
+### 1.**无数的；不计其数的**  
 
 
 # ***\#country*** n
@@ -12757,6 +13851,16 @@ countless /'kaʊntləs/ adj
  > 我打了几次网球，还看了几场电影。    
 
 
+# ***\#couplet*** n
+英音 ˈkʌplət     美音 ˈkʌplət  
+
+  
+
+英文释义
+---
+### 1.**对联，对句**  
+
+
 # ***\#courage*** n
 英音 'kʌrɪdʒ     美音 'kɜːrɪdʒ  
 
@@ -12777,6 +13881,16 @@ countless /'kaʊntləs/ adj
 
  > He would never walk again but he started a new life with great courage.  
  > 他再也不能走路了，但是他勇敢地开始了新生活。  （北师大② – 2）  
+
+
+# ***\#courageous*** adj
+英音 kəˈreɪdʒəs     美音 kəˈreɪdʒəs  
+
+  
+
+英文释义
+---
+### 1.**勇敢的；有胆量的**  
 
 
 # ***\#course*** n  重难点词汇
@@ -13055,6 +14169,16 @@ B.
 ### 1.*高义频：* **[C] 母牛；(尤指) 奶牛**  
 
 
+# ***\#coward*** n
+英音 ˈkaʊəd     美音 ˈkaʊərd  
+
+  
+
+英文释义
+---
+### 1.**胆小鬼；懦夫**  
+
+
 # ***\#cowboy*** n
 英音 'kaʊbɔɪ     美音 'kaʊbɔɪ  
 
@@ -13151,6 +14275,16 @@ B.
 英文释义
 ---
 ### 1.*高义频：* **技艺；手艺；精工细作**  
+
+
+# ***\#cram*** v
+英音 kræm     美音 kræm  
+
+  
+
+英文释义
+---
+### 1.**挤满**  
 
 
 # ***\#crane*** n
@@ -13300,6 +14434,16 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 ### 1.*高义频：* **奶油；含乳脂食品；乳霜**  
 
 
+# ***\#cream*** adj
+英音 'kriːm     美音 'kriːm  
+
+| 词频 4 |  
+
+英文释义
+---
+### 1.**奶油色的；淡黄色的**  
+
+
 # ***\#creamy*** adj
 英音 'kriːmi     美音 'kriːmi  
 
@@ -13386,6 +14530,16 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 英文释义
 ---
 ### 1.**创造性地；有创造力地**  
+
+
+# ***\#creativity*** n
+英音 ˌkriːeɪ'tɪvəti     美音 ˌkriːeɪ'tɪvəti  
+
+  
+
+英文释义
+---
+### 1.**独创性，创造性，创造力**  
 
 
 # ***\#creator*** n
@@ -13488,6 +14642,16 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
  > 这个团队的成功大部分应归于他们的经理。    
 
 
+# ***\#creep*** vi
+英音 kriːp     美音 kriːp  
+
+  
+
+英文释义
+---
+### 1.**渐渐出现**  
+
+
 # ***\#crew*** n
 英音 kruː     美音 kruː  
 
@@ -13557,6 +14721,16 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 英文释义
 ---
 ### 1.*高义频：* **[C] 罪犯；犯人**  
+
+
+# ***\#crimson*** adj
+英音 ˈkrɪmzn     美音 ˈkrɪmzn  
+
+  
+
+英文释义
+---
+### 1.**深红色的**  
 
 
 # ***\#crisis*** n
@@ -13726,6 +14900,16 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 ### 1.**鳄鱼**  
 
 
+# ***\#crooked*** adj
+英音 ˈkrʊkɪd     美音 ˈkrʊkɪd  
+
+  
+
+英文释义
+---
+### 1.**不直的，弯曲的**  
+
+
 # ***\#crop*** n
 英音 'krɒp     美音 'krɑːp  
 
@@ -13809,6 +14993,26 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
  > 你拼错了。划掉再写一遍。    
 
 
+# ***\#cross*** adj
+英音 krɒs     美音 krɔːs  
+
+| 词频 4 | 口语 2 | 书面 2 |  
+
+英文释义
+---
+### 1.**生气的；恼怒的**  
+
+
+# ***\#cross-eyed*** adj
+
+
+  
+
+英文释义
+---
+### 1.**对眼的；斗鸡眼的**  
+
+
 # ***\#cross-talk*** n
 英音 'krɒstɔːk     美音 'krɔːstɔːk  
 
@@ -13844,6 +15048,8 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 ---
 ### 1.*高义频：* **[C] (pl crossroads) 十字路口；交叉路口**  
 
+### 2.**活动中心，汇集地**  
+
 
 # ***\#crosstalk*** n
 英音 'krɒstɔːk     美音 'krɔːstɔːk  
@@ -13853,6 +15059,26 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 英文释义
 ---
 ### 1.**相声**  
+
+
+# ***\#crossword*** n
+英音 ˈkrɒswɜːd     美音 ˈkrɔːswɜːrd  
+
+  
+
+英文释义
+---
+### 1.**纵横字谜，纵横填字游戏**  
+
+
+# ***\#crouch*** v
+英音 kraʊtʃ     美音 kraʊtʃ  
+
+  
+
+英文释义
+---
+### 1.**蹲下；蹲伏**  
 
 
 # ***\#crowd*** n
@@ -13935,6 +15161,16 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 ### 1.*高义频：* **王冠；冕**  
 
 
+# ***\#crowning*** adj
+英音 ˈkraʊnɪŋ     美音 ˈkraʊnɪŋ  
+
+  
+
+英文释义
+---
+### 1.**最高级别的**  
+
+
 # ***\#crucial*** adj
 英音 'kruːʃl     美音 'kruːʃl  
 
@@ -13995,6 +15231,16 @@ cruelty /'kruːəlti/ n
 英文释义
 ---
 ### 1.**（乘游轮的）漫游；巡航**  
+
+
+# ***\#cruise*** v
+英音 kruːz     美音 kruːz  
+
+| 词频 2 |  
+
+英文释义
+---
+### 1.**乘船游览**  
 
 
 # ***\#crunch*** n
@@ -14128,6 +15374,26 @@ cruelty /'kruːəlti/ n
 英文释义
 ---
 ### 1.*高义频：* **黄瓜**  
+
+
+# ***\#cue*** vt
+英音 kjuː     美音 kjuː  
+
+  
+
+英文释义
+---
+### 1.**给 (某人) 暗示 (或提示)**  
+
+
+# ***\#cue*** n
+英音 kjuː     美音 kjuː  
+
+  
+
+英文释义
+---
+### 1.**提示; 暗示; 信号**  
 
 
 # ***\#cuisine*** n
@@ -14547,6 +15813,16 @@ currently /'kʌrəntli/ adv
 ---
 curved /kɜːvd/ adj   
 
+# ***\#curveball*** n
+英音 ˈkɜːvbɔːl     美音 ˈkɜːrvbɔːl  
+
+  
+
+英文释义
+---
+### 1.**曲线球**  
+
+
 # ***\#cushion*** n
 英音 'kʊʃn     美音 'kʊʃn  
 
@@ -14785,6 +16061,16 @@ curved /kɜːvd/ adj
 ### 1.*高义频：* **漂亮的；逗人喜爱的**  
 
 
+# ***\#cutlery*** n
+英音 ˈkʌtləri     美音 ˈkʌtləri  
+
+  
+
+英文释义
+---
+### 1.**餐具**  
+
+
 # ***\#cutlet*** n
 英音 'kʌtlət     美音 'kʌtlət  
 
@@ -14899,6 +16185,16 @@ cycling /'saɪklɪŋ/ n
 ---
 cycling /'saɪklɪŋ/ n   
 
+# ***\#cycling*** n
+英音 ˈsaɪklɪŋ     美音 ˈsaɪklɪŋ  
+
+  
+
+英文释义
+---
+### 1.**骑自行车**  
+
+
 # ***\#cyclist*** n
 英音 'saɪklɪst     美音 'saɪklɪst  
 
@@ -14907,6 +16203,16 @@ cycling /'saɪklɪŋ/ n
 英文释义
 ---
 ### 1.*高义频：* **[C] 骑自行车 / 摩托车的人**  
+
+
+# ***\#cyclone*** n
+英音 ˈsaɪkləʊn     美音 ˈsaɪkləʊn  
+
+  
+
+英文释义
+---
+### 1.**气旋；旋风**  
 
 
 # ***\#cypress*** n

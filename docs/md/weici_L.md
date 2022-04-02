@@ -11,9 +11,6 @@
 ---
 ### 1.*高义频：* **实验室：**  
 
- > They work not only inside a laboratory, but also out in the field.  
- > 他们不仅在实验室里工作，还要出去进行实地考察。    
-
 
 # ***\#label*** vt
 英音 'leɪbl     美音 'leɪbl  
@@ -94,9 +91,6 @@
 ---
 ### 1.*高义频：* **实验室：**  
 
- > They work not only inside a laboratory, but also out in the field.   
- > 他们不仅在实验室里工作，还要出去进行实地考察。    
-
 
 # ***\#labour*** n
 英音 'leɪbə(r)     美音 'leɪbər  
@@ -113,15 +107,16 @@
  > **Labour Day**  
  > 劳动节    
 
-### 2.*高义频：* **[U] 劳动力；劳工：**  
+### 2.*高义频：* **[U] [统称] 劳动力；劳工：**  
 
  > **skilled labour**  
  > 熟练工人    
 
-### 3.*低义频：* **[常用复数] 工作；活计：**  
+### 3.*低义频：* **[C] [常用复数] [正式用语] 辛勤劳动**  
+英译 a period of hard work：
 
- > the fruits of my labours   
- > 我的劳动成果    
+ > My labors lasted about two weeks.  
+ > 我连续苦干了两周。  （2021浙江）  
 
 
 # ***\#labour*** vi
@@ -135,6 +130,16 @@
 
  > More than 20,000 workers laboured nearly 22 years to complete the construction.  
  > 两万多名工人苦干了近22年才完成这项建筑。    
+
+
+# ***\#labour-saving*** adj
+英音 ˈleɪbə seɪvɪŋ     美音 ˈleɪbər seɪvɪŋ  
+
+  
+
+英文释义
+---
+### 1.**节省劳力的**  
 
 
 # ***\#lace*** n
@@ -158,8 +163,8 @@
 ---
 ### 1.*高义频：* **[不用于被动语态] 缺乏；短少；没有：**  
 
- > At first I lacked confidence.   
- > 起初，我缺乏自信。  （人教⑦ – 5）  
+ > At first I lacked confidence.  
+ > 起初，我缺乏自信。    
 
  > They lacked the money to send him to university.  
  > 他们没钱送他上大学。    
@@ -180,13 +185,6 @@ lacking /'lækɪŋ/ adj
 ## \#be lacking in sth
 1.**缺少某物**  
 
-
-真题解析
----
-1. Though lacking of money, his parents managed to send him to university.  （改错）  
-
-答案：
-1. 去掉 of  
 
 # ***\#lack*** n  重难点词汇
 英音 læk     美音 læk  
@@ -212,8 +210,8 @@ lacking /'lækɪŋ/ adj
  > The tour was cancelled for lack of bookings.   
  > 这次出游因无人预订而取消了。    
 
- > The leaves turned yellow for lack of light.   
- > 由于缺少光照，叶子变黄了。  （2005 全国改）  
+ > The leaves turned yellow for lack of light.  
+ > 由于缺少光照，叶子变黄了。    
 
 
 真题解析
@@ -249,6 +247,16 @@ lacking /'lækɪŋ/ adj
 英文释义
 ---
 ### 1.*高义频：* **女士；夫人；小姐；贵妇人**  
+
+
+# ***\#ladylike*** adj
+英音 ˈleɪdilaɪk     美音 ˈleɪdilaɪk  
+
+  
+
+英文释义
+---
+### 1.**文雅的；淑女式的**  
 
 
 # ***\#lake*** n
@@ -294,8 +302,8 @@ lacking /'lækɪŋ/ adj
 ---
 ### 1.*高义频：* **灯：**  
 
- > a table / desk lamp  
- > 台灯／工作台灯    
+ > a **street / table / desk lamp**  
+ > 路灯/ 台灯／工作台灯    
 
 
 # ***\#land*** n
@@ -307,11 +315,11 @@ lacking /'lækɪŋ/ adj
 ---
 ### 1.*高义频：* **[U] 陆地；土地；地皮：**  
 
- > Are you going **by land** or by sea?   
- > 你走陆路还是海路？    
-
  > a piece of land  
  > 一块地    
+
+ > Are you going **by land** or by sea?   
+ > 你走陆路还是海路？    
 
 ### 2.*低义频：* **[C] 国家；地区**  
 
@@ -348,7 +356,11 @@ lacking /'lækɪŋ/ adj
  > I didn't ask for the name list. Why has it landed on my desk?  
  > 我没有要过名单，它怎么会在我的桌子上？  （2011 安徽）  
 
-### 4.*低义频：* **vt [非正式用语] 得到；谋到：**  
+### 4.*低义频：* **vt [非正式用语] 得到；谋到**  
+英译 to get sth：
+
+ > He landed a number of film roles that finally got him noticed.  
+ > 他得到了许多电影角色，最终使他受到关注。  （2021浙江）  
 
 - land sb / oneself sth:
 
@@ -362,6 +374,10 @@ lacking /'lækɪŋ/ adj
 1.**使 (某人) 陷入 (困境)**  
 
 
+派生词汇
+---
+landing /ˈlændɪŋ/ n   
+
 # ***\#landfill*** n
 英音 'lændfɪl     美音 'lændfɪl  
 
@@ -369,7 +385,17 @@ lacking /'lækɪŋ/ adj
 
 英文释义
 ---
-### 1.**垃圾填埋地**  
+### 1.**[C] 废弃物填埋场；[U] 垃圾填埋**  
+
+
+# ***\#landing*** n
+英音 ˈlændɪŋ     美音 ˈlændɪŋ  
+
+  
+
+英文释义
+---
+### 1.**着陆；降落**  
 
 
 # ***\#landlord*** n
@@ -391,7 +417,7 @@ lacking /'lækɪŋ/ adj
 
 英文释义
 ---
-### 1.**标志性建筑**  
+### 1.**[C] 地标**  
 
 
 # ***\#landmine*** n
@@ -441,7 +467,7 @@ lacking /'lækɪŋ/ adj
 
 英文释义
 ---
-### 1.**(landfall)（山地或悬崖的）崩塌；滑坡**  
+### 1.**[C]（山地或悬崖的）崩塌；滑坡 (landfall)**  
 
 
 # ***\#lane*** n
@@ -482,6 +508,9 @@ lacking /'lækɪŋ/ adj
  > **master a language**   
  > 掌握一门语言    
 
+ > We did not speak the local language.  
+ > 我们不会说当地的语言。  （2020江苏）  
+
 
 # ***\#lantern*** n
 英音 'læntən     美音 'læntərn  
@@ -518,6 +547,16 @@ lacking /'lækɪŋ/ adj
  > 她跑最后一圈时开始超过其他选手。    
 
 
+# ***\#lap*** v
+英音 læp     美音 læp  
+
+| 词频 2 |  
+
+英文释义
+---
+### 1.**vi拍打；vt领先……一圈；（动物）舔食**  
+
+
 # ***\#laptop*** n
 英音 'læptɒp     美音 'læptɑːp  
 
@@ -537,7 +576,7 @@ lacking /'lækɪŋ/ adj
 
 英文释义
 ---
-### 1.*高义频：* **(体积、容积、面积方面) 大的；巨大的：**  
+### 1.*高义频：* **(体积、容积、面积等方面) 大的；巨大的：**  
 
  > a large garden / house   
  > 大花园/房子    
@@ -546,6 +585,15 @@ lacking /'lækɪŋ/ adj
 
  > a large population   
  > 人口众多    
+
+
+固定搭配
+---
+## \#at large
+1.**整个；全部；未被捕获的：**  
+
+ > The chemical pollution has a great effect on the world at large.  
+ > 化学污染对整个世界有很大的影响。    
 
 
 派生词汇
@@ -663,9 +711,9 @@ largely /'lɑːdʒli/ adv
 #### 辨析 finally, eventually, in the end, at last, lastly  
 五者都有“最后”之意。  
 **finally, eventually ** 表示某事在很长一段时间之后发生。 
-**finally, in the end  ** 表示某事的结果。
+**eventually, in the end** 表示某事的结果。
 **at last ** 表示某事在等待或努力了很久之后终于发生，而你为此感到很高兴。
-**lastly, finally ** 引出你想说的最后一点、一系列动作中的最后一个，或清单中的最后一项。
+**lastly, finally** 用于引出你想说的最后一点、一系列动作中的最后一个，或清单中的最后一项。
  > Lastly / Finally, I would like to remind you that smoking is not allowed here.   
  > 最后，我想提醒大家注意的是，这里不准抽烟。    
 
@@ -693,8 +741,8 @@ largely /'lɑːdʒli/ adv
  > The activity will **last** (**for**) ten days, from June 10 to 19.  
  > 这个活动将持续10天，从6月10日到19日。    
 
- > This weather won't last.  
- > 这种天气持续不了多久。    
+ > Cunningham's passion for photography lasted throughout his life.  
+ > 坎宁安对摄影的热情持续了一生。  （外研新选必③ – 2）  
 
  > These shoes should last you till next year.   
  > 你这双鞋应该能穿到明年。    
@@ -711,8 +759,8 @@ largely /'lɑːdʒli/ adv
 ### 3.*高义频：* **维持；够用**  
 英译 to be enough for sb to use, especially for a particular period of time：
 
- > Will the petrol **last** ( **out** ) till we reach London?  
- > 汽油够用到我们到伦敦吗？    
+ > I have downloaded the software to help my phone battery last (out) longer.  
+ > 我下载了这个软件来延长我手机电池的待机时间。  （人教新必修② – 3）  
 
  > enough food to last (us) three days   
  > 足够我们吃3天的食物    
@@ -721,6 +769,9 @@ largely /'lɑːdʒli/ adv
 派生词汇
 ---
 lasting /'lɑːstɪŋ/ adj   
+ > ever-lasting love  
+ > 永恒的爱    
+
 lastly /'læstli/ adv   
 
 真题解析
@@ -729,6 +780,16 @@ lastly /'læstli/ adv
 
 答案：
 1. lasted  
+
+# ***\#lasting*** adj
+英音 ˈlɑːstɪŋ     美音 ˈlæstɪŋ  
+
+  
+
+英文释义
+---
+### 1.**【常用于名词前】持久的；耐久的**  
+
 
 # ***\#late*** adv
 英音 leɪt     美音 leɪt  
@@ -747,9 +808,6 @@ lastly /'læstli/ adv
 
  > Better late than never.   
  > 迟做总比不做好。    
-
- > In some European countries it is rude to arrive late for dinner.   
- > 在有些欧洲国家，赴宴迟到是很不礼貌的。  （外研⑧ – 3）  
 
 
 # ***\#late*** adj
@@ -770,6 +828,9 @@ lastly /'læstli/ adv
 
  > in the late 19th century   
  > 在19世纪末    
+
+ > They're in their late teens.  
+ > 他们快20岁了。    
 
 
 固定搭配
@@ -825,6 +886,7 @@ lastly /'læstli/ adv
 英文释义
 ---
 ### 1.*高义频：* **以后；后来：**  
+反义词 earlier 
 
  > See you later.    
  > 再见。    
@@ -852,17 +914,19 @@ lastly /'læstli/ adv
 
 用法点拨  [U]
 
-固定搭配
+英文释义
 ---
-## \#the latest
-1.**最新事物；最新消息：**  
+### 1.*高义频：* **[the latest] 最新事物；最新消息：**  
 
  > This machine is the latest in video recorder technology.  
  > 这台机器代表着最新的录像技术。    
 
- > Have you heard the latest?   
+ > Have you heard the latest?  
  > 你听到最新消息了吗？    
 
+
+固定搭配
+---
 ## \#at the latest 
 1.**最晚；最迟：**  
 
@@ -952,6 +1016,9 @@ lastly /'læstli/ adv
 
 固定搭配
 ---
+## \#a laughing stock
+1.**笑料；笑柄**  
+
 ## \#laugh at
 1.**嘲笑：**  
 
@@ -1028,8 +1095,8 @@ lastly /'læstli/ adv
  > launch a campaign   
  > 发起一场运动    
 
- > launch a new enterprise   
- > 开办新企业    
+ > launch a new enterprise  
+ > 创办新企业    
 
  > Li Ning decided to launch a new brand of sportswear, competing with global giants like Nike and Adidas.  
  > 李宁决定创办运动服新品牌，与世界级的大品牌如耐克和阿迪达斯竞争。  （外研⑤ – 3改）  
@@ -1066,10 +1133,20 @@ lastly /'læstli/ adv
  > My clothes went to the laundry.   
  > 我的衣物被送到洗衣店去了。  （人教⑧ – 4）  
 
-### 2.*高义频：* **[U] 洗好的衣服；待洗的衣服：**  
+### 2.*高义频：* **[U] 待洗的衣服；洗好的衣服：**  
 
  > She **did the laundry** (= washed the clothes) and hung it out to dry.  
  > 她洗了衣服，然后挂出去晾干。    
+
+
+# ***\#laureate*** n
+英音 'lɒriət     美音 'lɔːriət  
+
+  
+
+英文释义
+---
+### 1.**重要奖项获得者**  
 
 
 # ***\#lava*** n
@@ -1207,6 +1284,12 @@ lawful /'lɔːfl/ adj
 
 固定搭配
 ---
+## \#lay aside
+1.**[正式用语] 把……搁置一边；留存备用(set aside, put aside) :**  
+
+ > As a doctor, you often need to aside your personal feelings.  
+ > 作为一名医生，你常常需要把个人感情放在一边。    
+
 ## \#lay down 
 1.**放下；停止使用 (put down)；规定：**  
 
@@ -1256,6 +1339,16 @@ lawful /'lɔːfl/ adj
 ### 1.*高义频：* **层；层次**  
 
 
+# ***\#layout*** n
+英音 ˈleɪaʊt     美音 ˈleɪaʊt  
+
+  
+
+英文释义
+---
+### 1.**布局；布置；设计；安排**  
+
+
 # ***\#lazy*** adj
 英音 'leɪzi     美音 'leɪzi  
 
@@ -1288,7 +1381,7 @@ laziness /'leɪzinəs/ n [U]
  > Permit me to **lead the way**, sir.   
  > 先生，请让我来带路吧。  （人教③ – 3）  
 
- > This path will **led** you **to** the station.   
+ > This path will lead you **to** the station**led**  
  > 你走这条路可以到火车站。    
 
  > a path leading up the hill  
@@ -1297,11 +1390,8 @@ laziness /'leɪzinəs/ n [U]
 ### 2.*高义频：* **引领；率领**  
 英译 to be in control or the leader in an organization, etc.：
 
- > The captain **led** his team **to victory**.   
- > 队长带领他的团队取得了胜利。    
-
- > Some people say that she is too old to lead the country.  
- > 有人说她年纪太大领导不了国家。    
+ > As a coach, Lang Ping **led** the China women's volleyball team **to** medals at world championships and the Olympics.  
+ > 作为教练，郎平带领中国女排在世界锦标赛和奥运会上屡获殊荣。  （人教新必修① – 3改）  
 
 ### 3.*高义频：* **领先；率先**  
 英译 to be winning or in first place in front of sb：
@@ -1312,17 +1402,10 @@ laziness /'leɪzinəs/ n [U]
  > The country is leading in exporting cars.   
  > 该国在汽车出口方面一直走在前列。    
 
-### 4.*高义频：* **致使；导致**  
-英译 to cause sth to happen or cause sb to do sth：
+### 4.*高义频：* **使得出；引导：**  
 
- > Pain is your body telling you something's wrong, and continuing to exercise could **lead to** serious injury.  
- > 疼痛是你的身体在告诉你出问题了，继续锻炼可能会导致严重的损伤。  （2014 重庆）  
-
- > A lack of confidence can **lead to** a lot of suffering.  
- > 缺乏自信会导致很多痛苦。  （2012 福建）  
-
- > Good habits always lead to high efficiency, while bad ones bring the opposite.  
- > 好习惯总是会带来高效率，而坏习惯则相反。  （2013 四川书面表达）  
+ > Each statue has a different face, **leading researchers to believe** that each one is a copy of a real soldier.  
+ > 每个佣像的相貌都不相同，这让研究人员认为每一座佣像都是一名真实士兵的形象。  （人教新必修① – 2）  
 
 ### 5.*高义频：* **过 (…的生活)：**  
 
@@ -1332,6 +1415,15 @@ laziness /'leɪzinəs/ n [U]
 
 固定搭配
 ---
+## \#lead to
+1.**导致；造成(ressult in) :**  
+
+ > A lack of confidence can lead to a lot of suffering.  
+ > 缺乏自信会导致很多痛苦。  （2012福建）  
+
+ > Good habits always lead to high efficiency,while bad ones bring the opposite.  
+ > 好习惯总是会带来高效率，而坏习惯则相反。  （2013四川书面表达）  
+
 ## \#lead up to
 1.**是…的先导；是导致…的原因：**  
 
@@ -1447,7 +1539,17 @@ laziness /'leɪzinəs/ n [U]
 
 英文释义
 ---
-### 1.**传单；印刷品**  
+### 1.**散页印刷品；传单；小册子**  
+
+
+# ***\#leaflet*** v
+英音 ˈliːflət     美音 ˈliːflət  
+
+| 词频 1 |  
+
+英文释义
+---
+### 1.**（向……）散发传单**  
 
 
 # ***\#league*** n
@@ -1467,6 +1569,14 @@ laziness /'leɪzinəs/ n [U]
 
  > a football league   
  > 足球联赛    
+
+### 2.*低义频：* **里格（旧时长度单位，相当于3英里或4千米）**  
+
+
+固定搭配
+---
+## \#in a league of one's own
+1.**独领风骚**  
 
 
 # ***\#leak*** n
@@ -1506,9 +1616,6 @@ laziness /'leɪzinəs/ n [U]
 
  > leak the news   
  > 走漏消息    
-
- > Details of the plan soon **leaked out**.   
- > 计划的细节很快就泄露出去了。    
 
 
 # ***\#lean*** v
@@ -1659,10 +1766,11 @@ learner /'lɜːnə(r)/ n [C]
 
 真题解析
 ---
-1. __________ (learn) more about Chinese culture, Jack has decided to take Chinese folk music as an elective course.  （2015 福建改）  
+1. ________ (learn) more about Chinese culture, Jack has decided to take Chinese folk music as an elective course.  （2019天津改）  
+2. __________ (learn) more about Chinese culture, Jack has decided to take Chinese folk music as an elective course.  （2015 福建改）  
 
 答案：
-1. To learn  
+1. Learning  2. To learn  
 
 # ***\#learning*** n
 英音 'lɜːnɪŋ     美音 'lɜːrnɪŋ  
@@ -1678,8 +1786,8 @@ learner /'lɜːnə(r)/ n [C]
  > life-long learning  
  > 终身学习    
 
- > High school is a time of discovery, learning and hard work!   
- > 中学阶段是探索、学习和奋斗的时候！  （译 林① – 3）  
+ > High school is a time of discovery, learning and hard work!  
+ > 中学阶段是探索、学习和奋斗的时候！    
 
  > a man of great learning   
  > 学识渊博的人    
@@ -1693,9 +1801,6 @@ learner /'lɜːnə(r)/ n [C]
 英文释义
 ---
 ### 1.*高义频：* **[常与the连用] 最少；最小：**  
-
- > He did **the least** of the work and got the most of the money.   
- > 他活干得最少，钱拿得最多。    
 
  > Price is **the least of my concerns**.   
  > 我一点儿都不关心价格。    
@@ -1727,14 +1832,9 @@ learner /'lɜːnə(r)/ n [C]
 真题解析
 ---
 1. The house still needed a lot of work, but ________ (起码) the kitchen was fi nished.  （2008 全国改）  
-2. David has won the first prize in singing; he is still very excited now and feels ________ desire to go to bed.   （2005 江苏）  
-A.the most   
-B.more  
-C.worse   
-D.the least  
 
 答案：
-1. at least  2. D  
+1. at least  
 
 # ***\#least*** adj
 英音 liːst     美音 liːst  
@@ -1862,7 +1962,7 @@ D.the least
 #### 辨析 forget, leave
   
 **forget** 意为“忘记”，常用forget (about) sth,forget doing sth, “forget + that / wh- 从句” 句型。
-**leave ** 也可表示“忘记”，但常和地点状语搭配使用，表示“把 (某物) 遗留在 (某处)”。
+**leave** 也可表示“忘记”，但常和地点状语搭配使用，意为“把 (某物) 遗留在 (某处)”。
  > As soon as I shut the door, I realized I'd left the keys inside.  
  > 门关上的一瞬间，我意识到我把钥匙落在房间里了。    
 
@@ -1875,8 +1975,8 @@ D.the least
  > Leave your key with a neighbor in case you lock yourself out one day.   
  > 把钥匙交给邻居吧，以防某一天你把自己锁在门外。  （2008 陕西）  
 
- > You can leave the cooking to me.   
- > 你可以把做饭的事交给我。    
+ > Go and join in the party. Leave it to me to do the washing-up.  
+ > 去参加聚会吧。我来洗碗。    
 
 
 固定搭配
@@ -1887,13 +1987,19 @@ D.the least
  > Sarah, with her long legs, soon left the rest of us behind.  
  > 萨拉腿长，很快就把我们中的其他人抛在身后。    
 
+ > By opening a novel, I can leave behind my burdens and enter into a wonderful world.  
+ > 打开小说，我就能放下包袱，进入一个奇妙的世界。  （2019天津改）  
+
 2.*低义频：* **留下；忘带：**  
 
- > leave new problems behind   
- > 留下新的问题  （2011 北京）  
+ > leave new problems behind  
+ > 留下新的问题    
 
  > Don't leave any of your belongings behind.  
  > 不要落下你的任何随身物品。    
+
+ > a left-behind child  
+ > 留守儿童    
 
 3.*低义频：* **永久离开：**  
 
@@ -1931,9 +2037,6 @@ D.the least
  > There were some chairs left over when everyone had sat down.   
  > 当每个人都坐下时，还有一些椅子空着。  （2008 四川）  
 
- > a left-over child  
- > 留守儿童    
-
 ## \#leave room for 
 1.**为…留有余地**  
 
@@ -1944,10 +2047,9 @@ D.the least
 2. Video games can be a poor infl uence if ___________ (leave) in the wrong hands.  （2015 湖南改）  
 3. The teacher stressed again that the students should not leave ________ any important details while retelling the story.  （2008 湖北改）  
 4. Don't leave the water _________ (run) while you brush your teeth.  
-5. Go and join in the party. Leave it ________ me to do the washing-up.  
 
 答案：
-1. to → for  2. left  3. out  4. running  5. to / with  
+1. to → for  2. left  3. out  4. running  
 
 # ***\#leave*** n  重难点词汇
 英音 liːv     美音 liːv  
@@ -1995,7 +2097,7 @@ lecturer /'lektʃərə(r)/ n [C]
 
 英文释义
 ---
-### 1.*高义频：* **(尤指大学中的)讲座；讲课：**  
+### 1.*高义频：* **(尤指大学中的)讲座；讲课；演讲：**  
 
  > **attend / go to a lecture**  
  > 听讲座    
@@ -2056,8 +2158,8 @@ lecturer /'lektʃərə(r)/ n [C]
 ---
 ### 1.*高义频：* **向左；向左边：**  
 
- > Go down this path and turn left at the first crossing.   
- > 沿着这条道走下去，在第一个十字路口左转。  （人教④ – 5）  
+ > Go down this path and turn left at the first crossing.  
+ > 沿着这条道走下去，在第一个十字路口左转。    
 
 
 # ***\#leftover*** n
@@ -2079,7 +2181,7 @@ lecturer /'lektʃərə(r)/ n [C]
 
 英文释义
 ---
-### 1.**剩余的**  
+### 1.**吃剩的；残留的**  
 
 
 # ***\#leg*** n
@@ -2094,6 +2196,26 @@ lecturer /'lektʃərə(r)/ n [C]
 ### 1.*高义频：* **腿**  
 
 
+# ***\#leg*** v
+英音 leɡ     美音 leɡ  
+
+| 词频 4 | 口语 3 | 书面 3 |  
+
+英文释义
+---
+### 1.**leg it【非正式用语】跑；逃跑**  
+
+
+# ***\#legacy*** n
+英音 ˈleɡəsi     美音 ˈleɡəsi  
+
+  
+
+英文释义
+---
+### 1.**遗产**  
+
+
 # ***\#legal*** adj
 英音 'liːɡl     美音 'liːɡl  
 
@@ -2103,8 +2225,8 @@ lecturer /'lektʃərə(r)/ n [C]
 ---
 ### 1.*高义频：* **[只用于名词前] 法律上的：**  
 
- > He offered guidance to poor black people on their legal problems.   
- > 他为穷苦黑人提供法律指导。  （人教① – 5）  
+ > He offered guidance to poor black people on their legal problems.  
+ > 他为穷苦黑人提供法律指导。    
 
 ### 2.*高义频：* **合法的；法定的**  
 反义词 illegal： 
@@ -2163,11 +2285,20 @@ legendary /'ledʒəndri/ adj
 ---
 ### 1.*高义频：* **闲暇；业余时间：**  
 
- > leisure time / activities  
+ > **leisure time / activities**  
  > 闲暇时间/活动    
 
- > the leisure industry  
+ > **the leisure industry**  
  > 休闲娱乐行业    
+
+
+固定搭配
+---
+## \#at one's leisure
+1.**有空时；空闲时：**  
+
+ > Tibetan antelopes are moving under the bridge, with some stopping to eat grass at their leisure.  
+ > 藏羚羊在桥下活动，有的停下来悠闲地吃草。  （外研新选必① – 6）  
 
 
 # ***\#lemon*** n
@@ -2256,8 +2387,8 @@ legendary /'ledʒəndri/ adj
 ---
 ### 1.*高义频：* **长；长度：**  
 
- > The river is 300 miles **in length**.  
- > 这条河长300英里。    
+ > The Amazon River is close to 6,400 kilometres **in length**.  
+ > 亚马孙河长约6 400千米。  （译林新必修③ – 1改）  
 
  > The snake usually reaches **a length of** 100 cm.   
  > 蛇一般可以长到100厘米长。    
@@ -2296,6 +2427,26 @@ lengthen /'leŋθən/ v
 ### 1.**加长；延长**  
 
 
+# ***\#lengthy*** adj
+英音 ˈleŋkθi     美音 ˈleŋkθi  
+
+  
+
+英文释义
+---
+### 1.**长时间的；过长的；冗长的**  
+
+
+# ***\#lens*** n
+英音 lenz     美音 lenz  
+
+  
+
+英文释义
+---
+### 1.**镜头；镜片**  
+
+
 # ***\#leopard*** n
 英音 'lepəd     美音 'lepərd  
 
@@ -2323,7 +2474,7 @@ lengthen /'leŋθən/ v
 
 真题解析
 ---
-1. I used to earn ________ (不到) a pound a week when I first started work.   （2006 陕西改）  
+1. I used to earn ________ (不到) a pound a week when I first started work.  
 
 答案：
 1. less than  
@@ -2355,6 +2506,9 @@ lengthen /'leŋθən/ v
 
  > Flying is **less of** a risk than driving.   
  > 乘飞机比开车风险小。    
+
+ > When it comes to public speaking, **less is** usually **more**.  
+ > 说到公开演讲，通常少即多。  （2020山东）  
 
 
 固定搭配
@@ -2435,6 +2589,9 @@ lessen 'lesn v
  > 第10课    
 
 ### 3.*高义频：* **教训：**  
+
+ > There are no regrets in life, just lessons.  
+ > 人生中没有后悔，只有教训。    
 
  > This experience will be a good **lesson to** you.   
  > 这次经历对你将是个很好的教训。    
@@ -2550,6 +2707,12 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > Many other human activities also let off carbon gases.   
  > 许多其他的人类活动也排放含碳气体。  （译林⑤–2）  
 
+ > Fireworks were being let off across the city, suddenly lighting up the night sky.  
+ > 烟花在城市上空绽放，突然照亮了夜空。  （北师大新必修① – 3）  
+
+## \#let off steam
+1.**[非正式用语] 发泄怒火；宣泄情绪**  
+
 ## \#let out 
 1.**发出 (叫声等)；放出；泄露：**  
 
@@ -2594,6 +2757,16 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > 大/小写字母    
 
 
+# ***\#letter*** v
+英音 'letə(r)     美音 'letər  
+
+| 词频 5 | 口语 3 | 书面 3 |  
+
+英文释义
+---
+### 1.**用字母标明**  
+
+
 # ***\#level*** n
 英音 'levl     美音 'levl  
 
@@ -2606,8 +2779,8 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > The flood rose to a **level of** 60 feet.   
  > 洪水涨到了60英尺高。    
 
- > **sea level**  
- > 海平面    
+ > **ground / sea level**  
+ > 地 / 海平面    
 
 ### 2.*高义频：* **[C] & [U] 水平；水准；级别：**  
 
@@ -2647,6 +2820,16 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > 这个男孩头与他父亲的肩膀齐平。    
 
 
+# ***\#lever*** n
+英音 'liːvə(r)     美音 lever  
+
+  
+
+英文释义
+---
+### 1.**操纵杆；杠杆**  
+
+
 # ***\#liar*** n
 英音 'laɪə(r)     美音 'laɪər  
 
@@ -2679,6 +2862,16 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 ### 1.*高义频：* **自由主义的；开明的**  
 
 
+# ***\#liberate*** v
+英音 ˈlɪbəreɪt     美音 ˈlɪbəreɪt  
+
+  
+
+英文释义
+---
+### 1.**解放；使自由**  
+
+
 # ***\#liberation*** n
 英音 ˌlɪbə'reɪʃn     美音 ˌlɪbə'reɪʃn  
 
@@ -2692,9 +2885,6 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 
  > the Chinese People's Liberation Army  
  > 中国人民解放军    
-
- > When I got to the end of the article, I felt a sense of liberation.   
- > 论文快完成时，我有一种解脱感。    
 
 
 # ***\#liberty*** n
@@ -2719,6 +2909,9 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 
  > You're at liberty to say what you like.  
  > 你尽可畅所欲言。    
+
+## \#take liberties with
+1.**任意篡改**  
 
 
 # ***\#librarian*** n
@@ -2779,6 +2972,35 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 
  > She sells cigarettes **under license**.   
  > 她被特许销售香烟。    
+
+
+# ***\#license*** vt
+英音 'laɪsns     美音 'laɪsns  
+
+| 词频 4 | 阅读 3 |  
+
+英文释义
+---
+### 1.**批准；许可**  
+
+- license sb / sth to do sth:
+
+ > They had licensed the firm to produce the drug.  
+ > 他们批准了那家公司生产这种药物。    
+
+
+派生词汇
+---
+licensed /'laɪsnst/ adj   
+
+# ***\#licensed*** adj
+英音 'laɪsnst     美音 'laɪsnst  
+
+  
+
+英文释义
+---
+### 1.**得到正式许可的**  
 
 
 # ***\#lichen*** n
@@ -2848,8 +3070,8 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 
 ### 3.*低义频：* **[通常不用于进行时态] (指抽象事物) 存在；在于：**  
 
- > The value of diamond **lies in** its hardness.   
- > 钻石的价值在于它质地坚硬。    
+ > Behind every scientific discovery lies a lot of hard work.  
+ > 每一项科学发现的背后都隐藏着许多艰苦的工作。  （译林新必修③ – 4）  
 
  > She told me that happiness **lies in** helping others to be happy.   
  > 她告诉我快乐的真谛在于帮助他人获得快乐。    
@@ -2899,10 +3121,10 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 ---
 ### 1.**n [C] 谎言：**  
 
- > tell (sb) a lie  
+ > **tell (sb) a lie**  
  > (对某人)撒谎    
 
- > a white lie  
+ > **a white lie**  
  > 善意的谎言    
 
 ### 2.**(lied, lied, lying) vi 说谎：**  
@@ -2922,6 +3144,10 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > 她谎报年龄。    
 
 
+
+派生词汇
+---
+liar /'laɪə(r)/ n   
 
 # ***\#life*** n
 英音 laɪf     美音 laɪf  
@@ -2954,9 +3180,6 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > 好朋友是终生的朋友。    
 
 ### 4.*高义频：* **[C] & [U] 生活；人生：**  
-
- > Life is filled with challenges.   
- > 生活充满挑战。    
 
  > city / school / working life  
  > 城市/学校/工作生活    
@@ -3030,6 +3253,32 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 ### 1.**救生船**  
 
 
+# ***\#lifelike*** adj
+英音 ˈlaɪflaɪk     美音 ˈlaɪflaɪk  
+
+  
+
+英文释义
+---
+### 1.**生动的；逼真的；栩栩如生的 (realistic)**  
+
+
+# ***\#lifelong*** adj
+英音 ˈlaɪflɒŋ     美音 ˈlaɪflɔːŋ  
+
+  
+
+英文释义
+---
+### 1.**终身的；毕生的：**  
+
+ > lifelong learning  
+ > 终身学习    
+
+ > a lifelong friend  
+ > 毕生挚友    
+
+
 # ***\#lifespan*** n
 英音 'laɪfspæn     美音 'laɪfspæn  
 
@@ -3072,7 +3321,7 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 ### 1.*高义频：* **一生；终生：**  
 
  > **During his lifetime**, he discovered many amazing things.  
- > 他在一生中发现了很多令人惊奇的事物。  （译林② – 3）  
+ > 他在一生中发现了很多令人惊奇的事物。    
 
 
 # ***\#lift*** n
@@ -3141,6 +3390,16 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
 
  > The fog began to lift.   
  > 雾开始消散。    
+
+
+# ***\#lift-off*** n
+
+
+  
+
+英文释义
+---
+### 1.**（航天器的）发射；起飞；升空**  
 
 
 # ***\#light*** n
@@ -3232,6 +3491,9 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > I didn't eat much for lunch, just a light snack.  
  > 我午饭吃得不多，只吃了一点儿小吃。    
 
+ > a light shower / breakfast  
+ > 小阵雨 / 简单的早餐    
+
 
 # ***\#light*** v
 英音 laɪt     美音 laɪt  
@@ -3250,13 +3512,10 @@ Notes: 在反义疑问句中，陈述部分以Let's开头的祈使句，疑问�
  > The match won't light.  
  > 这火柴划不着。    
 
- > Children then light torches and run through the fields.   
- > 然后孩子们点亮火把，跑着穿过田野。  （外研⑦ – 5）  
-
 ### 2.*高义频：* **照亮：**  
 
- > Almost six hundred candles lit the room.   
- > 近六百根蜡烛照亮了这个房间。  （人教② – 1）  
+ > The painting shows a beautiful house lit by lights from inside , surrounded by the darkness of night.  
+ > 这副画描绘的是一座室内被灯光照亮、室外被夜色笼罩的美丽的房子。  （北师大新必修③ – 7改）  
 
 
 固定搭配
@@ -3319,9 +3578,6 @@ lighter /'laɪtə(r)/ n [C]
 ---
 ### 1.*高义频：* **闪电：**  
 
- > He got out of the water fast as lightning and climbed up a tree.   
- > 他闪电般地上了岸，爬上了一棵树。    
-
 
 # ***\#like*** vt  重难点词汇
 英音 laɪk     美音 laɪk  
@@ -3342,8 +3598,8 @@ lighter /'laɪtə(r)/ n [C]
  > He has never liked talking about people behind their backs.  
  > 他从来不喜欢在背后议论人。    
 
- > I'm easy to get along with and I like to make friends**2011 辽宁书面表达**  
- > 我容易相处并且喜欢交朋友。    
+ > I'm easy to get along with and I like to make friends.  
+ > 我容易相处并且喜欢交朋友。  （2011 辽宁书面表达）  
 
  > I don't like people spitting in public.  
  > 我不喜欢人们在公共场合吐痰。    
@@ -3357,12 +3613,6 @@ lighter /'laɪtə(r)/ n [C]
 
  > I'd like a double room.  
  > 我想要一个双人间。  （2015 湖北）  
-
- > Would you like some coffee or tea?   
- > 你想喝点咖啡还是茶？    
-
- > You can choose anything you like from the menu.   
- > 菜单上的你可以随便点。    
 
 - would / should like to do sth:
 
@@ -3395,11 +3645,11 @@ lighter /'laɪtə(r)/ n [C]
 
 真题解析
 ---
-1. — How about dinner tonight? It’s on me. 
-— Oh, ____________ (我愿意).  （2014 四川改）  
+1. Doing housework gives our parents more time to do what they are like and it improves the family relationship.  （2021全国改 改错）  
+2. I want my cafe to have a special theme such as like"Tang Dynasty".  （2019全国 改错）  
 
 答案：
-1. I’d like / love to  
+1. 去掉are  2. 去掉like  
 
 # ***\#like*** prep  重难点词汇
 英音 laɪk     美音 laɪk  
@@ -3456,6 +3706,26 @@ lighter /'laɪtə(r)/ n [C]
  > 帖子仅发出三天就被分享了184000次，收到了61500个赞  （2 018 全国改）  
 
 
+# ***\#like-minded*** adj
+
+
+  
+
+英文释义
+---
+### 1.**想法相同的，志趣相投的**  
+
+
+# ***\#likelihood*** n
+英音 ˈlaɪklihʊd     美音 ˈlaɪklihʊd  
+
+  
+
+英文释义
+---
+### 1.**可能，可能性 (probability)**  
+
+
 # ***\#likely*** adj  重难点词汇
 英音 'laɪkli     美音 'laɪkli  
 
@@ -3463,7 +3733,7 @@ lighter /'laɪtə(r)/ n [C]
 
 英文释义
 ---
-### 1.*高义频：* **[常与more, most连用] 很可能的**  
+### 1.*高义频：* **[常与more, most连用] 可能的**  
 英译 probable：
 反义词 unlikely 
 
@@ -3544,7 +3814,17 @@ Notes: likely 的主语既可以是人或物，也可以是it。其结构为sb /
 
 英文释义
 ---
-### 1.*高义频：* **百合；百合花**  
+### 1.*高义频：* **百合（花）**  
+
+
+# ***\#limb*** n
+
+
+  
+
+英文释义
+---
+### 1.**肢，臂，腿**  
 
 
 # ***\#limestone*** n
@@ -3609,9 +3889,6 @@ Notes: likely 的主语既可以是人或物，也可以是it。其结构为sb /
 ---
 ### 1.*高义频：* **限制；限定：**  
 
- > Some countries even limit the number of visitors to their country each year.   
- > 一些国家甚至限制每年到他们国家的游客数量。    
-
  > A lack of formal education will limit your job opportunities.   
  > 缺乏正规教育会限制你的就业机会。    
 
@@ -3656,8 +3933,18 @@ limitless /'lɪmɪtləs/ adj
  > This dictionary uses a limited number of words, around 2,000, in its definitions.    
  > 这本词典使用了大约2000个左右的有限的词汇来解释单词的意义。  （2010 辽宁）  
 
- > The amount of money we have is limited.  
- > 我们现有的钱不多。    
+ > A person's life is limited but serving the people is limitless. I want to devote my limited life to serving the people limitlessly.  
+ > 人的生命是有限的，可是，为人民服务是无限的，我要把有限的生命投入到无限的为人民服务之中去。  （雷锋）  
+
+
+# ***\#limiting*** adj
+英音 'lɪmɪtɪŋ     美音 'lɪmɪtɪŋ  
+
+  
+
+英文释义
+---
+### 1.**局限的，限制性的**  
 
 
 # ***\#limitless*** adj
@@ -3668,6 +3955,16 @@ limitless /'lɪmɪtləs/ adj
 英文释义
 ---
 ### 1.**无限的**  
+
+
+# ***\#limp*** vi
+英音 lɪmp     美音 lɪmp  
+
+  
+
+英文释义
+---
+### 1.**跛行；一瘸一拐的走**  
 
 
 # ***\#line*** n
@@ -3752,8 +4049,8 @@ limitless /'lɪmɪtləs/ adj
  > The street is lined with green trees.   
  > 街道两旁绿树成行。    
 
- > One wall in my bedroom is entirely lined with bookshelves.   
- > 我的卧室里有一面墙排满了书架。  （2010 四川改）  
+ > One wall in my bedroom is entirely lined with bookshelves.  
+ > 我的卧室里有一面墙排满了书架。    
 
 ## \#line up 
 1.**(使) 排成行；安排：**  
@@ -3794,7 +4091,7 @@ limitless /'lɪmɪtləs/ adj
 
 英文释义
 ---
-### 1.*高义频：* **环节**  
+### 1.*高义频：* **环；节**  
 
 ### 2.*高义频：* **联系；关联(connection)：**  
 
@@ -3850,6 +4147,16 @@ limitless /'lɪmɪtləs/ adj
  > 宁为犬首，不作狮尾。    
 
 
+# ***\#lioness*** n
+英音 'laɪənes     美音 'laɪənes  
+
+  
+
+英文释义
+---
+### 1.**母狮子**  
+
+
 # ***\#lip*** n
 英音 lɪp     美音 lɪp  
 
@@ -3863,6 +4170,16 @@ limitless /'lɪmɪtləs/ adj
 
  > We are closely related as lips and teeth.   
  > 我们唇齿相依。    
+
+
+# ***\#lipstick*** n
+英音 ˈlɪpstɪk     美音 ˈlɪpstɪk  
+
+  
+
+英文释义
+---
+### 1.**唇膏，口红**  
 
 
 # ***\#liquid*** n
@@ -3968,6 +4285,13 @@ limitless /'lɪmɪtləs/ adj
 ---
 listener /'lɪsənə(r)/ n [C]  
 
+真题解析
+---
+1. We were invited to attend a private concert, ________(listen) to musicians and meeting interesting locals.  （2019全国改）  
+
+答案：
+1. listening  
+
 # ***\#literally*** adv
 英音 'lɪtərəli     美音 'lɪtərəli  
 
@@ -3975,7 +4299,10 @@ listener /'lɪsənə(r)/ n [C]
 
 英文释义
 ---
-### 1.*高义频：* **照字义；根据字面意思**  
+### 1.*高义频：* **照字义；根据字面意思；真正地；确实地：**  
+
+ > Until next payday, I was literally without any money.  
+ > 在下一次发工资之前，我真的是身无分文。    
 
 
 # ***\#literary*** adj
@@ -3985,7 +4312,7 @@ listener /'lɪsənə(r)/ n [C]
 
 英文释义
 ---
-### 1.*高义频：* **[只用于名词前] 文学 (上) 的：**  
+### 1.*高义频：* **[只用于名词前] 文学 (上) 的；爱好文学的：**  
 
  > literary works / reviews   
  > 文学作品/评论    
@@ -4000,10 +4327,13 @@ listener /'lɪsənə(r)/ n [C]
 
 英文释义
 ---
-### 1.*高义频：* **文学：**  
+### 1.*高义频：* **文学；文献资料：**  
 
  > classical / modern literature   
  > 古典/现代文学    
+
+ > **literature on** the history of science  
+ > 科学史的文献资料    
 
 
 # ***\#litre*** n
@@ -4068,9 +4398,6 @@ listener /'lɪsənə(r)/ n [C]
 
 ### 2.*高义频：* **(less, least) [常表否定含义，修饰不可数名词]少的；几乎没有的：**  
 
- > There's little hope of his success.  
- > 他成功的希望很渺茫。    
-
  > There's little cooking oil left in the house. Would you go and get some?  
  > 家里没食用油了，你去买点好吗？    
 
@@ -4085,13 +4412,6 @@ listener /'lɪsənə(r)/ n [C]
  > 没有时间讨论细枝末节了。    
 
 Notes: 形容词的比较级和最高级更常用smaller和 smallest，而littler和littlest很少见。  
-
-真题解析
----
-1. There's ________ cooking oil left in the house. Would you go to the corner store and get some?  （2004 北京改）  
-
-答案：
-1. little  
 
 # ***\#little*** adv
 英音 'lɪtl     美音 'lɪtl  
@@ -4142,8 +4462,8 @@ Notes: little作状语置于句首时，句子往往部分倒装，结构为：l
 ## \#a little 
 1.**[表示肯定含义] 少量；有点儿 (a bit)：**  
 
- > There was only a little applause when I left the stage.   
- > 我离开舞台时，只有稀稀落落的一点儿掌声。  （北师大⑥ – 16）  
+ > There was only a little applause when I left the stage.  
+ > 我离开舞台时，只有稀稀落落的一点儿掌声。    
 
  > Are you sometimes a little tired and sleepy in the early afternoon?   
  > 你是否有时刚到下午就感到有点儿累，并且想睡觉？  （2008 四川）  
@@ -4206,9 +4526,6 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > We were so excited to see **real live** elephants.  
  > 我们看到活生生的大象非常兴奋。    
 
- > The trade also involves live animals.   
- > 这种贸易也涉及到活的动物。  （外研⑤ – 6）  
-
 ### 2.*高义频：* **现场直播的；现场表演的：**  
 
  > We watched the football match on live television.   
@@ -4229,6 +4546,9 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 
  > Without water, plants couldn't live.  
  > 没有水，植物就无法生存。    
+
+ > The aim of living is making better lives for others.  
+ > 自己活着，就是为了使别人过得更美好。  （雷锋）  
 
 ### 2.*高义频：* **居住：**  
 
@@ -4255,6 +4575,12 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
  > He lives by writing / teaching.  
  > 他以写作/教书为生。    
 
+## \#live off
+1.**依靠……生活；以吃……为生：**  
+
+ > The Sami lived off reindeer, moved with them, and accompanied them for hundreds of years.  
+ > 萨米人依靠驯鹿为生，和它们一起迁徙，陪伴它们生活了几百年。  （人教新选必① – 3）  
+
 ## \#live on
 1.*低义频：* **继续活着；继续存在：**  
 
@@ -4268,6 +4594,12 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 
  > He lives on a salary of $500 a month.   
  > 他靠每月500美元的薪水生活。    
+
+## \#live out
+1.**实践（以前想要做的事）：**  
+
+ > I lived out adventures through the books I checked out from the library.  
+ > 我通过从图书馆借出的书来体验冒险。  （2020全国）  
 
 ## \#live through 
 1.**经历…而幸存：**  
@@ -4347,7 +4679,7 @@ Notes: a little可修饰不可数名词、形容词、副词和动词等。
 
 真题解析
 ---
-1. The lessons given by Mr Smith are always ________ (生动的) and interesting.  （2001 上海春改）  
+1. The lessons given by Mr Smith are always ________ (生动的) and interesting.  
 
 答案：
 1. lively  
@@ -4455,9 +4787,17 @@ Notes: the living表示“活着的人”，作主语时，谓语动词用复数
  > She is under great pressure from **heavy** study **loads**.  
  > 面对沉重的学业负担，她压力很大。    
 
+### 3.*低义频：* **负担；压力(burden)**  
+
+ > When someone is depressed, the extra **load of** having financial problems can make the situation worse.  
+ > 当一个人抑郁时，额外的经济负担会使情况变得更糟。    
+
 
 固定搭配
 ---
+## \#get a load of
+1.**[非正式用语] 注意；仔细地看 / 听**  
+
 ## \#loads of / a load of 
 1.**很多：**  
 
@@ -4507,6 +4847,19 @@ Notes: the living表示“活着的人”，作主语时，谓语动词用复数
 ---
 ### 1.*高义频：* **贷款；借款**  
 
+ > Chen **took out a** large **loan** to cure her daughter.  
+ > 陈贷了一大笔钱给女儿治病。  （人教新必修③ – 5）  
+
+
+# ***\#loan*** vt
+英音 ləʊn     美音 loʊn  
+
+| 词频 3 | 口语 2 | 书面 2 |  
+
+英文释义
+---
+### 1.**借出，贷与（尤指钱）**  
+
 
 # ***\#local*** adj
 英音 'ləʊkl     美音 'loʊkl  
@@ -4545,12 +4898,12 @@ locally /'ləʊkəli/ adv
 
 英文释义
 ---
-### 1.*高义频：* **找出…的位置：**  
+### 1.*低义频：* **找出…的位置：**  
 
- > Can you locate Berlin on the map?  
- > 你能在地图上找到柏林吗?    
+ > Because of their small size and sharp sense of smell, dogs can locate survivors much faster than humans can.  
+ > 由于体形小、嗅觉敏锐，狗能比人类更快地找到幸存者。  （译林新必修③ – 2）  
 
-### 2.*高义频：* **把…设置 (在)；使…坐落 (于)：**  
+### 2.*低义频：* **把…设置 (在)；使…坐落 (于)：**  
 
  > The company located its branch office in the suburbs.  
  > 这家公司在郊区设立了办事处。    
@@ -4587,7 +4940,7 @@ locally /'ləʊkəli/ adv
 
 英文释义
 ---
-### 1.*高义频：* **地点；位置：**  
+### 1.*高义频：* **地点；位置；[C]&[U] 外景拍摄地：**  
 
  > The **location of** the factory is close to the railway.  
  > 工厂地处铁路沿线。    
@@ -4646,6 +4999,16 @@ locally /'ləʊkəli/ adv
 1.**锁好 (门窗)；把…锁藏好**  
 
 
+# ***\#lock-up*** n
+英音 ˈlɒk ʌp     美音 ˈlɑːk ʌp  
+
+  
+
+英文释义
+---
+### 1.**拘留所；（短期关押犯人的）监狱**  
+
+
 # ***\#locker*** n
 英音 'lɒkə(r)     美音 'lɑːkər  
 
@@ -4663,7 +5026,12 @@ locally /'ləʊkəli/ adv
 
 英文释义
 ---
-### 1.*高义频：* **vt & vi 记录 (record)**  
+### 1.*高义频：* **伐木**  
+
+### 2.*高义频：* **把……记入航海 / 飞行日志；记录(record):**  
+
+ > Logging new species will improve our understanding of life on the earth.  
+ > 记载新物种将提升我们对地球上的生命的了解。  （人教新选必④ – 3）  
 
 
 固定搭配
@@ -4673,6 +5041,21 @@ locally /'ləʊkəli/ adv
 
  > You need a password to log on.  
  > 你需要密码才能登录。    
+
+## \#log out / off
+1.**使注销；使退出**  
+
+
+# ***\#log*** n
+英音 lɒɡ     美音 lɔːɡ  
+
+| 词频 2 |  
+
+英文释义
+---
+### 1.*低义频：* **原木；（大）木料**  
+
+### 2.*低义频：* **航海 / 飞行日志；（事件的）正式记录**  
 
 
 # ***\#logic*** n
@@ -4695,6 +5078,11 @@ locally /'ləʊkəli/ adv
 英文释义
 ---
 ### 1.*高义频：* **符合逻辑的；合乎情理的**  
+
+- 逻辑思维
+
+ > a logical conclusion  
+ > 合理的结论    
 
 
 # ***\#logically*** adv
@@ -4745,12 +5133,19 @@ locally /'ləʊkəli/ adv
  > 孤寂的乡下生活    
 
  > She felt very lonely because she couldn't meet her friends.  
- > 她因为见不到朋友而感到很孤独。  （人教① – 1）  
+ > 她因为见不到朋友而感到很孤独。    
 
 ### 2.*高义频：* **人迹稀少的；荒凉的 (remote)：**  
 
  > a lonely place / road  
  > 荒凉的地方/偏僻的道路    
+
+
+派生词汇
+---
+loneliness /'ləʊnlinəs/ n   
+ > I experienced years of loneliness as a child.  
+ > 孩提时，我经历了多年的孤独  （2020浙江）  
 
 
 # ***\#long*** adj  重难点词汇
@@ -4893,8 +5288,8 @@ D.ever since
 ---
 ### 1.*高义频：* **长期的：**  
 
- > a long-term plan   
- > 长期计划    
+ > a long-term plan / goal  
+ > 长期计划 / 目标    
 
 
 # ***\#longing*** n
@@ -4952,6 +5347,8 @@ D.ever since
 
  > I saw the young owl in the nest looking healthy and active.  
  > 我看见那只小猫头鹰在窝里，看起来健康、活泼。  （2017 全国）  
+
+- look like sb / sth :
 
  > That looks (like) an interesting book.  
  > 那好像是本有趣的书。    
@@ -5042,9 +5439,6 @@ D.ever since
 ## \#look down on / upon
 1.**轻视；看不起：**  
 
- > Many people look down upon poor people.   
- > 很多人看不起穷人。  （人教④ – 1）  
-
  > Never look down on people who are not superior to you.  
  > 不要轻视不如你的人。    
 
@@ -5064,7 +5458,7 @@ D.ever since
  > 我盼望着下周去参观美术馆。  （ 外研② – 4）  
 
 ## \#look into
-1.**调查：**  
+1.**调查；研究：**  
 
  > The police are looking into the disappearance of two children.  
  > 警方正在调查两个孩子失踪的事件。    
@@ -5093,6 +5487,12 @@ D.ever since
  > This is a great place for camping but you have to look out for snakes.   
  > 这是个野营的好地方，但你要提防蛇出没。    
 
+## \#look over
+1.**检查；查看：**  
+
+ > Each year , an inspector arrived to look over the power station.  
+ > 每年，检察员都会到来检查发电站。  （2015湖南改）  
+
 ## \#look sb up and down
 1.**上下打量某人：**  
 
@@ -5107,6 +5507,14 @@ D.ever since
 
  > I must look through these bills and check them before I pay them.   
  > 我必须在付款前查看并核对一下这些账单。    
+
+## \#look to
+1.*高义频：* **依赖；指望：**  
+
+ > When solving a design problem, you can sometimes **look to** nature **for** a solution.  
+ > 在解决设计问题时，有时可以向大自然寻求解决方案。  （外研新选必③ – 5）  
+
+2.*高义频：* **注意；考虑**  
 
 ## \#look up 
 1.**抬头看；(在词典、计算机等中) 查阅：**  
@@ -5220,7 +5628,19 @@ D.ever since
  > 这条狗一定要拴住。    
 
  > a loose term  
- > 不严密的术语    
+ > 不严谨的术语    
+
+
+固定搭配
+---
+## \#let loose
+1.**释放；放任：**  
+
+ > Just close your eyes and let loose your imagination.  
+ > 闭上眼睛，尽情发挥你的想象力。    
+
+## \#Loose lips sink ships.
+1.**祸从口出。/ 言多必失。**  
 
 
 # ***\#loose*** vt
@@ -5238,7 +5658,7 @@ D.ever since
 loosely /'luːsli/ adv   
 
 # ***\#loosen*** vt
-英音 'luːsn     
+英音 'luːsn     美音 'luːsn  
 
   
 
@@ -5248,7 +5668,7 @@ loosely /'luːsli/ adv
 
 
 # ***\#loosen*** vi
-英音 'luːsn     
+英音 'luːsn     美音 'luːsn  
 
   
 
@@ -5391,7 +5811,7 @@ loser /'luːzə(r)/ n [C]
 
 固定搭配
 ---
-## \#at a loss
+## \#(be) at a loss
 1.*高义频：* **感到迷惑；不知所措：**  
 
  > We are at a loss as to what kind of business to start.  
@@ -5516,6 +5936,32 @@ loser /'luːzə(r)/ n [C]
  > 停车场    
 
 
+# ***\#lottery*** n
+英音 ˈlɒtəri     美音 ˈlɑːtəri  
+
+  
+
+英文释义
+---
+### 1.**抽彩给奖法；碰运气的事**  
+
+ > a lottery ticket  
+ > 彩票    
+
+ > win the lottery  
+ > 中彩票    
+
+
+# ***\#lotus*** n
+英音 ˈləʊtəs     美音 ˈləʊtəs  
+
+  
+
+英文释义
+---
+### 1.**莲花，荷花**  
+
+
 # ***\#loud*** adj
 英音 laʊd     美音 laʊd  
 
@@ -5532,6 +5978,13 @@ loser /'luːzə(r)/ n [C]
  > The noise was so loud that I couldn’t go on studying.   
  > 噪音太大，我无法继续学习。    
 
+
+真题解析
+---
+1. He screams the________(loud) of all.  （2018全国）  
+
+答案：
+1. loudest  
 
 # ***\#loud*** adv
 英音 laʊd     美音 laʊd  
@@ -5550,7 +6003,7 @@ loser /'luːzə(r)/ n [C]
 
 #### 辨析 loud, loudly, aloud
   
-**loud ** 可作形容词和副词，意为“高声的 / 地”，“响亮的 / 地”，指声音强度大，传得远。在用于比较级或最高级时，常用loud，而不用loudly。
+**loud** 可作形容词和副词，意为“高声的 / 地”，“响亮的 / 地”，指声音强度大，传得远。有比较级和最高级。
 **loudly** 只作副词，意为“大声地”。可以放在动词之前或之后，无比较级和最高级。
 **aloud ** 只作副词，意为“出声地”，即将声音发出，以便让人听见。没有比较级和最高级。
  > read / think aloud   
@@ -5575,7 +6028,7 @@ loser /'luːzə(r)/ n [C]
 
 #### 辨析 loud, loudly, aloud
   
-**loud ** 可作形容词和副词，意为“高声的 / 地”，“响亮的 / 地”，指声音强度大，传得远。在用于比较级或最高级时，常用loud，而不用loudly。
+**loud** 可作形容词和副词，意为“高声的 / 地”，“响亮的 / 地”，指声音强度大，传得远。有比较级和最高级。
 **loudly** 只作副词，意为“大声地”。可以放在动词之前或之后，无比较级和最高级。
 **aloud ** 只作副词，意为“出声地”，即将声音发出，以便让人听见。没有比较级和最高级。
  > read / think aloud   
@@ -5617,16 +6070,17 @@ loser /'luːzə(r)/ n [C]
 
 英文释义
 ---
-### 1.*高义频：* **爱；热爱；爱戴**  
+### 1.*高义频：* **[不用于进行时] 爱；热爱**  
 反义词 hate： 
 
- > Dad’s always loved the navy.   
- > 爸爸一直热爱海军事业。    
+ > I love my motherland deeply.  
+ > 我深深地热爱我的祖国。    
 
- > If you love each other, why not get married?   
- > 要是你们彼此相爱，为什么不结婚呢？    
+ > They love each other.  
+ > 他们彼此相爱。    
 
-### 2.*高义频：* **喜欢；爱好：**  
+### 2.*高义频：* **爱好；喜爱**  
+反义词 hate 
 
  > We love sports.   
  > 我们喜爱体育活动。    
@@ -5636,19 +6090,17 @@ loser /'luːzə(r)/ n [C]
  > I love going out to restaurants.   
  > 我喜欢下馆子。    
 
- > People around the world love to laugh.   
- > 全世界的人都喜欢笑。  （译林⑥ – 1）  
+ > They love to travel / traveling.  
+ > 他们喜欢旅游。  （2013湖北）  
 
 ### 3.*高义频：* **[常与would连用，口语中略作’d love] 想；愿意：**  
 
-- would love to do sth:
+- would love (sb/sth) to do sth:
 
  > I’d love to have a part-time job.   
  > 我想做一份兼职工作。  （北师大⑤ – 13）  
 
-- would love sb to do sth:
-
- > I’d love you to come with me.   
+ > I'd love you to come with me.  
  > 我想让你跟我一起去。    
 
 
@@ -5665,7 +6117,7 @@ lover /'lʌvə(r)/ n [C]
 
 英文释义
 ---
-### 1.*高义频：* **爱；热爱；爱戴：**  
+### 1.*高义频：* **爱；热爱：**  
 反义词 hate 
 
  > Without love the world would be a cold, lonely place.   
@@ -5674,15 +6126,21 @@ lover /'lʌvə(r)/ n [C]
  > What struck me most in the movie was the father’s deep love for his son.   
  > 电影中最打动我的是那位父亲对儿子深厚的爱。  （2013 重庆）  
 
-### 2.*高义频：* **[可用a love] 爱好；喜爱：**  
+### 2.*高义频：* **爱情：**  
+
+ > Their love for each other grew deeper every day.   
+ > 他们之间的爱与日俱增。    
+
+### 3.*高义频：* **[可用a love] 爱好；喜爱：**  
+反义词 hate 
 
  > Growing up in a musical family, she developed a love for music at an early age.   
  > 成长于音乐世家，她从小就爱好音乐。    
 
-### 3.*高义频：* **恋爱；爱情：**  
+ > My love of the written word began early as my mother read to me every evening.  
+ > 我对文字的喜爱始于母亲每天晚上给我读故事的时候。  （2020浙江）  
 
- > Their love for each other grew deeper every day.   
- > 他们之间的爱与日俱增。    
+### 4.*高义频：* **心爱之人；喜爱之物**  
 
 
 固定搭配
@@ -5740,9 +6198,6 @@ lover /'lʌvə(r)/ n [C]
 
  > We’re running **low on** gas.   
  > 我们的汽油不多了。    
-
- > In this sort of investment, the risks are fairly low.  
- > 这类投资的风险相当低。    
 
  > low-cost / low-rent housing  
  > 廉价住房/廉租房    
@@ -5818,11 +6273,14 @@ lover /'lʌvə(r)/ n [C]
 
 ### 2.*高义频：* **降低；减低 (价格、声音等)：**  
 
- > lower expenses / one’s voice / pressure   
- > 减少开支/压低嗓门/减轻压力    
+ > lower expenses / one’s voice / pressure / blood sugar levels  
+ > 减少开支/压低嗓门/减轻压力/降低血糖水平    
 
  > This shop has lowered its prices.   
  > 这家商店已降低了价格。    
+
+ > lower public health emergency response level  
+ > 降低公共卫生应急响应级别  （2020江苏）  
 
 
 # ***\#lower*** adj
@@ -5839,6 +6297,16 @@ lover /'lʌvə(r)/ n [C]
 
  > Temperatures will be lower over the weekend.   
  > 周末气温会更低。    
+
+
+# ***\#lower-class*** adj
+英音 ˌləʊə ˈklɑːs     美音 ˌləʊər ˈklæs  
+
+  
+
+英文释义
+---
+### 1.**下层社会的**  
 
 
 # ***\#loyal*** adj
@@ -5900,14 +6368,6 @@ loyalty /'lɔɪəlti/ n [U]
  > 祝你考试成功！    
 
 
-真题解析
----
-1. Tom: Mike, our team will play against the Rockets this weekend. I’m sure we will win.
-Mike: ________(祝你好运)!  
-
-答案：
-1. Good luck  
-
 # ***\#luckily*** adv
 英音 'lʌkɪli     美音 'lʌkɪli  
 
@@ -5943,6 +6403,9 @@ Mike: ________(祝你好运)!
 
  > a lucky charm  
  > 护身符。    
+
+ > luckly money  
+ > 压岁钱    
 
 
 # ***\#luggage*** n
@@ -5982,6 +6445,9 @@ Mike: ________(祝你好运)!
  > the lunar calendar  
  > 阴历    
 
+ > **lunar month**  
+ > 阴历月；农历月    
+
 
 # ***\#lunch*** n
 英音 lʌntʃ     美音 lʌntʃ  
@@ -6013,6 +6479,19 @@ Mike: ________(祝你好运)!
  > 我们到那里时，他们正在吃午饭。    
 
 
+# ***\#lunch*** vi
+英音 lʌntʃ     美音 lʌntʃ  
+
+| 词频 5 | 口语 3 | 书面 2 |  
+
+英文释义
+---
+### 1.**[正式用语] 吃午饭：**  
+
+ > I'll be **lunching with** a friend **at** Maxim's.  
+ > 我要和一个朋友在马克西姆餐厅吃午饭。    
+
+
 # ***\#lung*** n
 英音 lʌŋ     美音 lʌŋ  
 
@@ -6023,6 +6502,9 @@ Mike: ________(祝你好运)!
 英文释义
 ---
 ### 1.*高义频：* **肺**  
+
+ > The Amazon rainforest is often known as the " lungs of the planet ".  
+ > 亚马孙雨林常被称为“地球之肺“。  （译林新必修③ – 1）  
 
 
 # ***\#luxury*** n
@@ -6036,6 +6518,32 @@ Mike: ________(祝你好运)!
 
  > lead a **life of luxury**  
  > 过奢侈的生活    
+
+ > luxury goods  
+ > 奢侈品    
+
+ > Happiness is to be found not in luxuries but in simple things.  
+ > 幸福不存在于奢侈品中，而存在于简单事物中。  （外研新选必④ – 2改）  
+
+
+# ***\#lyric*** n
+英音 'lɪrɪk     美音 'lɪrɪk  
+
+  
+
+英文释义
+---
+### 1.**歌词；抒情诗**  
+
+
+# ***\#lyric*** adj
+英音 'lɪrɪk     美音 'lɪrɪk  
+
+  
+
+英文释义
+---
+### 1.**抒情的；吟唱的**  
 
 
 # ***\#lyrics*** n

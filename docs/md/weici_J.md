@@ -12,6 +12,26 @@
 ### 1.*高义频：* **短上衣；夹克**  
 
 
+# ***\#jade*** n
+英音 dʒeɪd     美音 dʒeɪd  
+
+  
+
+英文释义
+---
+### 1.**玉；翡翠；玉器**  
+
+
+# ***\#jaguar*** n
+英音 ˈdʒæɡjuə(r)     美音 ˈdʒæɡwɑːr  
+
+  
+
+英文释义
+---
+### 1.**美洲豹，美洲虎**  
+
+
 # ***\#jam*** n
 英音 dʒæm     美音 dʒæm  
 
@@ -23,6 +43,29 @@
 
  > Have you ever been stuck in a **traffic jam**?  
  > 你是否碰到过交通阻塞？  （外研④ – 2）  
+
+
+# ***\#jam*** vt
+英音 dʒæm     美音 dʒæm  
+
+| 词频 3 | 口语 1 |  
+
+英文释义
+---
+### 1.**用力挤 / 塞；挤满；挤进：**  
+
+ > Hundreds of fans jammed the airport to greet the Beatles.  
+ > 数百名粉丝挤进机场欢迎披头士乐队。  （2019浙江改）  
+
+
+# ***\#janitor*** n
+英音 ˈdʒænɪtə(r)     美音 ˈdʒænɪtər  
+
+  
+
+英文释义
+---
+### 1.**(学校或大楼的) 看门人，门房，管理员**  
 
 
 # ***\#jar*** n
@@ -47,6 +90,26 @@
 英文释义
 ---
 ### 1.*高义频：* **颌；颚**  
+
+
+# ***\#jawline*** n
+英音 ˈdʒɔːlaɪn     美音 ˈdʒɔːlaɪn  
+
+  
+
+英文释义
+---
+### 1.**下颌轮廓；下巴的形状**  
+
+
+# ***\#jay*** n
+英音 dʒeɪ     美音 dʒeɪ  
+
+  
+
+英文释义
+---
+### 1.**松鸦**  
 
 
 # ***\#jazz*** n
@@ -209,6 +272,23 @@
 ---
 jobless  /'dʒɒbləs/ adj   
 
+真题解析
+---
+1. Since I was a kid, I've considered different job I would like to do.  （2019全国 改错）  
+
+答案：
+1. job→jobs  
+
+# ***\#jocund*** adj
+英音 ˈdʒɒkənd     美音 ˈdʒɑːkənd  
+
+  
+
+英文释义
+---
+### 1.**快活的；高兴的**  
+
+
 # ***\#jog*** vi
 英音 dʒɒɡ     美音 dʒɑːɡ  
 
@@ -233,7 +313,10 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 英文释义
 ---
-### 1.**慢跑**  
+### 1.**[用单数] 慢跑 （尤指锻炼）：**  
+
+ > I like to go for a jog after school.  
+ > 我喜欢放学后去慢跑。    
 
 
 # ***\#jogging*** n
@@ -274,9 +357,6 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > Will you **join us for** lunch?   
  > 你和我们一起去吃午饭吗？    
 
- > Would you like to **join us in** the game?   
- > 你愿意和我们一起玩游戏吗？  （2008 福建）  
-
  > I wonder if it is convenient for you to **join** me **in** visiting the exhibition.  
  > 我想知道你是否方便和我一起去参观展览。  （2017 全国书面表达）  
 
@@ -292,7 +372,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 #### 辨析 join, join in, take part in, attend
 四者都常译为“参加”。  
 **join** 指加入一个团体、组织、群体，成为其中的一员。
-**join in和take part in ** 均指参与某活动，take part in 稍微正式。
+**join in和take part in** 均指参与某活动，take part in 比 join in 稍微正式。
 **attend ** 多指参加、出席会议等。
  > Only 12 people attended the meeting.  
  > 只有12个人参加了这次会议。    
@@ -313,6 +393,11 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > **ankle / knee joints**  
  > 踝/膝关节    
 
+### 2.*低义频：* **[非正式用语] 公共场所（尤指价格低廉的饮食和娱乐场所）：**  
+
+ > **a fast food joint**  
+ > 快餐店    
+
 
 # ***\#joint*** adj
 英音 dʒɔɪnt     美音 dʒɔɪnt  
@@ -325,8 +410,8 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 ---
 ### 1.*高义频：* **联合的；共同的：**  
 
- > The foreign minister calls for **joint efforts** to protect global free trade.  
- > 外交部长呼吁共同努力来保护全球自由贸易。    
+ > The partners agreed to **make a joint effort** to meet the project deadlines.  
+ > 合作伙伴们同意共同努力，在截止日期前完成该项目。  （人教新选必④ – 2）  
 
 
 # ***\#join…to…*** 
@@ -360,6 +445,18 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > 我不希望任何人开我的玩笑！  （译林⑥ – 1）  
 
 
+固定搭配
+---
+## \#a practical joke
+1.**恶作剧**  
+
+## \#play a joke / jokes on
+1.**戏弄；拿……开玩笑：**  
+
+ > They decided to play a joke on their father by hiding his glasses.  
+ > 他们决定把父亲的银镜藏起来和他开个玩笑。    
+
+
 # ***\#joke*** vi
 英音 dʒəʊk     美音 dʒoʊk  
 
@@ -376,21 +473,32 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > 他在这件事上跟我开了个玩笑。    
 
 
-固定搭配
----
-## \#play a joke / jokes on 
-1.**戏弄；拿…开玩笑：**  
-
- > They decided to play a joke on their father by hiding his glasses.   
- > 他们决定把父亲的眼镜藏起来和他开个玩笑。    
-
-
 真题解析
 ---
-1. Everyone thought he was j________, but in fact he was completely serious.  （2006 浙江）  
+1. Everyone thought he was j________, but in fact he was completely serious.  
 
 答案：
 1. joking  
+
+# ***\#jolt*** n
+英音 dʒəʊlt     美音 dʒoʊlt  
+
+  
+
+英文释义
+---
+### 1.**[常用单数]震动；摇晃；颠簸**  
+
+
+# ***\#jolt*** v
+英音 dʒəʊlt     美音 dʒoʊlt  
+
+  
+
+英文释义
+---
+### 1.**（使）震动；（使）摇晃；（使）颠簸**  
+
 
 # ***\#journal*** n
 英音 'dʒɜːnl     美音 'dʒɜːnl  
@@ -451,6 +559,9 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > **go on / make / take a journey**  
  > 去旅行    
 
+ > A journey of a thousand miles begins with a single step.  
+ > 千里之行，始于足下。  （老子）  
+
  > Waving goodbye to them on the platform, I wished them **a safe journey**.  
  > 我在站台上向他们挥手告别，祝他们旅途平安。    
 
@@ -459,16 +570,26 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 #### 辨析 voyage, journey, trip, tour
 四者都含“旅行”之意，但具体含义不同。  
-**voyage** 通常指持续一定时间的“水上旅行”，尤指海上旅行，有时也指空中或宇宙旅行。
-**journey** 适用范围最广，对日程、到达地、交通工具等均无明确暗示，尤指长途旅行。通常指陆上旅行，且不一定回到出发地。
-**trip** 侧重指出差或消遣性质的短途旅行，往往回到出发地。
-**tour** 侧重指“观光游览”，往往在旅行过程中参观多个景点，最后回到出发点。
+**voyage** 指长途旅行，通常走海路或乘飞机、飞船等。
+**journey** 指长途旅行或经常性的旅行，强调旅行本身，有时行程较艰难或不含回程的意义。
+**trip** 指短途往返的旅行或不常为之的旅行，强调目的地或出行原因。
+**tour** 侧重指“观光游览”，往往在旅行过程中参观多个景点。
  > We went on a **guided tour** round the castle.  
  > 我们由导游带着参观了城堡。    
 
  > A bus took us on **a sightseeing tour** of the city.  
  > 我们乘坐大巴游览了这座城市。    
 
+
+
+# ***\#journey*** vi
+英音 'dʒɜːni     美音 'dʒɜːrni  
+
+| 词频 5 | 口语 1 | 书面 2 |  
+
+英文释义
+---
+### 1.**[ 正式用语 ] （尤指长途）旅行**  
 
 
 # ***\#joust*** vi
@@ -505,6 +626,31 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > 听音乐是我的一大乐事。    
 
 
+派生词汇
+---
+joyful /'dʒɔɪfl/ adj   
+joyous /ˈdʒɔɪəs/ adj   
+
+# ***\#joyful*** adj
+英音 'dʒɔɪfl     美音 'dʒɔɪfl  
+
+  
+
+英文释义
+---
+### 1.**高兴的,快乐的**  
+
+
+# ***\#joyous*** adj
+英音 ˈdʒɔɪəs     美音 ˈdʒɔɪəs  
+
+  
+
+英文释义
+---
+### 1.**欢乐的，令人愉快的**  
+
+
 # ***\#judge*** n
 英音 dʒʌdʒ     美音 dʒʌdʒ  
 
@@ -516,11 +662,8 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 ---
 ### 1.*高义频：* **法官；裁判员；鉴定人：**  
 
- > The prisoner was taken before the judge.   
- > 犯人被带到法官面前。    
-
- > Two hours later, the judge read a list of the girls for a second tryout.   
- > 两小时后，裁判宣读了参加第二轮选拔的女孩的名单。  （2008 天津）  
+ > She is a very good judge of character.  
+ > 她善于判断人的性格。    
 
 
 # ***\#judge*** v
@@ -536,8 +679,8 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > **Judging from** her accent, she must be from Sichuan.  
  > 听口音，她准是四川人。    
 
- > **Judging by** his last letter, they are having a wonderful time.   
- > 从他上次的来信看，他们过得很不错。    
+ > **Don't judge a book by its cover**.  
+ > 不要以貌取人。    
 
 ### 2.*高义频：* **估计**  
 英译 to guess the size, amount, etc. of sth：
@@ -558,6 +701,9 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
  > She was asked to judge the English speech competition.  
  > 她应邀担任英语演讲比赛的裁判。    
+
+ > Competitors should be **judged on** their pronunciation,clarity and fluency.  
+ > 将根据发音、清晰度和流畅度对参赛选手进行评判。  （北师大新选必① – 1）  
 
 ### 5.*低义频：* **审判；判决：**  
 
@@ -584,7 +730,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
  > **make a judgement on / about**  
  > 对…作出评价    
 
- > **In her judgment**, it was a wrong thing to give children so much pocket money.   
+ > **In her judgment**, it was a wrong thing to give children so much pocket money.  
  > 在她看来，给孩子们这么多零花钱是不对的。    
 
 ### 3.*低义频：* **审判**  
@@ -627,6 +773,16 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 ### 1.*高义频：* **(水果、蔬菜、肉类等的) 汁、液**  
 
 
+# ***\#juicy*** adj
+英音 ˈdʒuːsi     美音 ˈdʒuːsi  
+
+  
+
+英文释义
+---
+### 1.**多汁的；多液的**  
+
+
 # ***\#jump*** v
 英音 dʒʌmp     美音 dʒʌmp  
 
@@ -641,6 +797,9 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
  > His heart jumped at the news.  
  > 听到这个消息他心里咯噔了一下。    
+
+ > As the final,joyous note signalled the end of the symphony, the audience **jumped to their feet**, clapping and cheering.  
+ > 最后一个欢乐的音符标志着交响乐的结束，观众们跳了起来，鼓掌和欢呼。  （北师大新必修③ – 7改）  
 
 ### 2.*高义频：* **vt 跳过：**  
 
@@ -714,7 +873,7 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 英文释义
 ---
-### 1.*高义频：* **丛林；密林**  
+### 1.*高义频：* **（热带）丛林；密林**  
 
 
 # ***\#junior*** adj
@@ -724,10 +883,13 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 英文释义
 ---
-### 1.*高义频：* **青少年的；初级的 【反 senior】；(高中 / 四年制大学) 三年级 (学生) 的：**  
+### 1.*高义频：* **青少年的；初级的 【反 senior】；( 四年制大学) 三年级 (学生) 的：**  
 
  > a **junior school**   
  > (英国7至11岁的孩子上的)小学    
+
+ > a **junior high school**  
+ > （美国）初级中学    
 
  > She is 4 years **junior to** me.   
  > 她比我小四岁。    
@@ -742,7 +904,17 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 
 英文释义
 ---
-### 1.*高义频：* **青少年；职位较低者；(高中 / 四年制大学中)三年级学生**  
+### 1.*高义频：* **青少年；职位较低者；( 四年制大学中)三年级学生**  
+
+
+# ***\#junk*** n
+英音 dʒʌŋk     美音 dʒʌŋk  
+
+  
+
+英文释义
+---
+### 1.**[U]无用的东西(rubbish, garbage)；垃圾食品(junk food)**  
 
 
 # ***\#just*** adv
@@ -808,15 +980,9 @@ jogging  /'dʒɒɡɪŋ/ n [U]
 真题解析
 ---
 1. ________ (正如) a single word can change the meaning of a sentence, a single sentence can change the meaning of a paragraph.  （2015 浙江改）  
-2. If you can't come tomorrow, we'll ________ have to hold the meeting next week. 
-  （2004 全国）  
-A.yet  
-B.even  
-C.rather  
-D.just  
 
 答案：
-1. Just as  2. D  
+1. Just as  
 
 # ***\#just*** adj
 英音 dʒʌst     美音 dʒʌst  
@@ -829,6 +995,16 @@ D.just
 
  > a just man  
  > 正直的人    
+
+
+# ***\#just-me-ism*** n
+
+
+  
+
+英文释义
+---
+### 1.**[U] 以自我为中心**  
 
 
 # ***\#justice*** n
@@ -855,6 +1031,12 @@ D.just
  > 天网恢恢，疏而不漏。    
 
 
+固定搭配
+---
+## \#do justice to
+1.**恰当处理；公平对待**  
+
+
 # ***\#justifiably*** adv
 英音 dʒʌstɪ'faɪəbli     美音 dʒʌstɪ'faɪəbli  
 
@@ -863,6 +1045,16 @@ D.just
 英文释义
 ---
 ### 1.**有正当理由地**  
+
+
+# ***\#justified*** adj
+英音 ˈdʒʌstɪfaɪd     美音 ˈdʒʌstɪfaɪd  
+
+  
+
+英文释义
+---
+### 1.**合乎情理的，事出有因的；有正当理由的**  
 
 
 # ***\#justify*** vt

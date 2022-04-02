@@ -1,5 +1,35 @@
 # Ee
 
+# ***\#e-book*** n
+
+
+  
+
+英文释义
+---
+### 1.**电子书**  
+
+
+# ***\#e-business*** n
+英音 ˈiː bɪznəs     美音 ˈiː bɪznəs  
+
+  
+
+英文释义
+---
+### 1.**电子商务**  
+
+
+# ***\#e-commerce*** n
+英音 ˈiː kɒmɜːs     美音 ˈiː kɑːmɜːrs  
+
+  
+
+英文释义
+---
+### 1.**电子商务**  
+
+
 # ***\#e-mail*** n
 英音 iː meɪl     美音 iː meɪl  
 
@@ -26,6 +56,26 @@
 
  > Will you e-mail me the document by 3:00 pm?   
  > 你下午3点前把文件用电子邮件发给我好吗？    
+
+
+# ***\#e-shopping*** n
+
+
+  
+
+英文释义
+---
+### 1.**网上购物**  
+
+
+# ***\#e-waste*** n
+
+
+  
+
+英文释义
+---
+### 1.**电子垃圾**  
 
 
 # ***\#each*** adj
@@ -700,6 +750,36 @@ earnings /'ɜːnɪŋz/ n [C] [复数]
  > 雷声在山间回响。    
 
 
+# ***\#echo-location*** n
+
+
+  
+
+英文释义
+---
+### 1.**回声定位**  
+
+
+# ***\#eco-friendly*** adj
+
+
+  
+
+英文释义
+---
+### 1.**对环境无害的**  
+
+
+# ***\#ecological*** adj
+英音 ˌiːkəˈlɒdʒɪkl     美音 ˌiːkəˈlɑːdʒɪkl  
+
+  
+
+英文释义
+---
+### 1.**生态的；生态学的**  
+
+
 # ***\#ecology*** n
 英音 iː'kɒlədʒi     美音 i'kɑːlədʒi  
 
@@ -761,6 +841,16 @@ economically /ˌiːkə'nɒmɪkli;ˌekə'nɒmɪkli/ adv
 
 答案：
 1. economical  
+
+# ***\#economics*** n
+英音 ˌiːkə'nɒmɪks；ˌeːkə'nɒmɪks     美音 ˌeːkə'nɑːmɪks；ˌeːkə'nɑːmɪks  
+
+  
+
+英文释义
+---
+### 1.**经济学**  
+
 
 # ***\#economy*** n
 英音 ɪ'kɒnəmi     美音 ɪ'kɑːnəmi  
@@ -834,6 +924,16 @@ economically /ˌiːkə'nɒmɪkli;ˌekə'nɒmɪkli/ adv
  > 我打网球不如你，但打乒乓球我比你强。    
 
 
+# ***\#edge*** v
+英音 edʒ     美音 edʒ  
+
+| 词频 4 | 口语 2 | 书面 2 |  
+
+英文释义
+---
+### 1.**（使）徐徐移动；给…加边**  
+
+
 # ***\#edit*** vt
 英音 'edɪt     美音 'edɪt  
 
@@ -887,6 +987,26 @@ economically /ˌiːkə'nɒmɪkli;ˌekə'nɒmɪkli/ adv
 ---
 editorial /ˌedɪ'tɔːriəl/ adj   
 editorial /ˌedɪ'tɔːriəl/ n [C]   
+
+# ***\#editorial*** adj
+英音 ˌedɪˈtɔːriəl     美音 ˌedɪˈtɔːriəl  
+
+  
+
+英文释义
+---
+### 1.**编辑的；编者的**  
+
+
+# ***\#editorial*** n
+英音 ˌedɪˈtɔːriəl     美音 ˌedɪˈtɔːriəl  
+
+  
+
+英文释义
+---
+### 1.**（报纸的）社论；社评**  
+
 
 # ***\#educate*** vt
 英音 'edʒukeɪt     美音 'edʒukeɪt  
@@ -986,6 +1106,16 @@ educational /ˌedʒu'keɪʃənl/ adj
 英文释义
 ---
 ### 1.*高义频：* **教育的**  
+
+
+# ***\#educationalist*** n
+英音 ˌedʒuˈkeɪʃənəlɪst     美音 ˌedʒuˈkeɪʃənəlɪst  
+
+  
+
+英文释义
+---
+### 1.**教育（学）家**  
 
 
 # ***\#educator*** n
@@ -1138,6 +1268,16 @@ efficiently /ɪ'fɪʃntli/ adv
 答案：
 1. efficient  
 
+# ***\#efficiently*** adv
+英音 ɪˈfɪʃntli     美音 ɪˈfɪʃntli  
+
+  
+
+英文释义
+---
+### 1.**有效率地，高效能地**  
+
+
 # ***\#effort*** n  重难点词汇
 英音 'efət     美音 'efərt  
 
@@ -1172,7 +1312,7 @@ efficiently /ɪ'fɪʃntli/ adv
  > Hospitals should **make every effort to** treat the sick.  
  > 医院应该尽一切努力为病人治病。    
 
- > Let's start fight now and **spare no effort to** do a little bit every minute!  
+ > Let's start right now and **spare no effort to** do a little bit every minute!  
  > 让我们现在开始努力，每一分钟都不遗余力地做好点滴。    
 
 ### 3.*低义频：* **有组织的活动：**  
@@ -1184,6 +1324,16 @@ efficiently /ɪ'fɪʃntli/ adv
 派生词汇
 ---
 effortless /'efətləs/ adj   
+
+# ***\#effortless*** adj
+英音 'efətləs     美音 'efərtləs  
+
+  
+
+英文释义
+---
+### 1.**不费力的；轻松的**  
+
 
 # ***\#egg*** n
 英音 eɡ     美音 ɛɡ  
@@ -1401,6 +1551,29 @@ affairs.  （2013 上海改）
 答案：
 1. to make  
 
+# ***\#election*** n
+英音 ɪ'lekʃn     美音 ɪ'lekʃn  
+
+  
+
+英文释义
+---
+### 1.*高义频：* **选举；推选：**  
+
+ > a **general election**  
+ > 大选    
+
+
+# ***\#electioneering*** n
+英音 ɪˌlekʃəˈnɪərɪŋ     美音 ɪˌlekʃəˈnɪrɪŋ  
+
+  
+
+英文释义
+---
+### 1.**竞选活动；拉选票**  
+
+
 # ***\#electric*** adj
 英音 ɪ'lektrɪk     美音 ɪ'lektrɪk  
 
@@ -1463,7 +1636,7 @@ affairs.  （2013 上海改）
 
 
 # ***\#electrify*** v
-英音 ɪ'lektrɪfaɪ     
+英音 ɪ'lektrɪfaɪ     美音 ɪ'lektrɪfaɪ  
 
   
 
@@ -1486,6 +1659,16 @@ affairs.  （2013 上海改）
 
  > an electronic dictionary   
  > 电子词典    
+
+
+# ***\#elegance*** n
+英音 ˈelɪɡəns     美音 ˈelɪɡəns  
+
+  
+
+英文释义
+---
+### 1.**优美；简洁**  
 
 
 # ***\#elegant*** adj
@@ -1543,6 +1726,16 @@ affairs.  （2013 上海改）
 ### 1.*高义频：* **象**  
 
 
+# ***\#elevation*** n
+英音 ˌelɪˈveɪʃn     美音 ˌelɪˈveɪʃn  
+
+  
+
+英文释义
+---
+### 1.**提高；提升；海拔**  
+
+
 # ***\#elevator*** n
 英音 'elɪveɪtə(r)     美音 'elɪveɪtər  
 
@@ -1563,6 +1756,16 @@ affairs.  （2013 上海改）
 英文释义
 ---
 ### 1.**小精灵**  
+
+
+# ***\#eliminate*** v
+英音 ɪˈlɪmɪneɪt     美音 ɪˈlɪmɪneɪt  
+
+  
+
+英文释义
+---
+### 1.**消除，根除**  
 
 
 # ***\#else*** adv
@@ -1791,6 +1994,26 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
  > 急诊室    
 
 
+# ***\#emission*** n
+英音 i'mɪʃn     美音 i'mɪʃn  
+
+  
+
+英文释义
+---
+### 1.**散发物；排放物**  
+
+
+# ***\#emoji*** n
+英音 ɪˈməʊdʒi     美音 ɪˈməʊdʒi  
+
+  
+
+英文释义
+---
+### 1.**表情符号**  
+
+
 # ***\#emotion*** n
 英音 ɪ'məʊʃn     美音 ɪ'moʊʃn  
 
@@ -1844,6 +2067,36 @@ Notes: else构成所有格时，-'s加在else之后，构成else's， 如somebod
 派生词汇
 ---
 emotionally /ɪ'məʊʃənəli/ adv   
+
+# ***\#emotive*** adj
+英音 i'məʊtɪv     美音 i'məʊtɪv  
+
+  
+
+英文释义
+---
+### 1.**使情绪激动的**  
+
+
+# ***\#empathize*** vi
+英音 ˈempəθaɪz     美音 ˈempəθaɪz  
+
+  
+
+英文释义
+---
+### 1.**有同感，产生共鸣**  
+
+
+# ***\#empathy*** n
+英音 ˈempəθi     美音 ˈempəθi  
+
+  
+
+英文释义
+---
+### 1.**同感，共鸣，同情**  
+
 
 # ***\#emperor*** n
 英音 'empərə(r)     美音 'empərər  
@@ -1956,6 +2209,16 @@ emotionally /ɪ'məʊʃənəli/ adv
  > 她忙着把要做的所有工作列一个清单。    
 
 
+# ***\#employ*** n  重难点词汇
+英音 ɪm'plɔɪ     美音 ɪm'plɔɪ  
+
+| 词频 4 | 口语 1 | 书面 2 |  
+
+英文释义
+---
+### 1.**雇佣**  
+
+
 # ***\#employe(e)*** n
 英音 ˌemplɔɪ'iː     美音 ɪm'plɔɪiː  
 
@@ -2014,6 +2277,18 @@ emotionally /ɪ'məʊʃənəli/ adv
 
  > **full-time** / **part-time employment**  
  > 全职/兼职工作    
+
+
+# ***\#empower*** v
+英音 ɪm'paʊə(r)     美音 ɪm'paʊər  
+
+  
+
+英文释义
+---
+### 1.*高义频：* **授权；给（某人）权力**  
+
+### 2.*高义频：* **增加（某人的）自主权；使控制局势**  
 
 
 # ***\#empty*** adj
@@ -2099,6 +2374,16 @@ emotionally /ɪ'məʊʃənəli/ adv
 
  > Please enclose a resume with your application letter.  
  > 请在求职信中附上一份简历。    
+
+
+# ***\#encode*** vt
+英音 ɪnˈkəʊd     美音 ɪnˈkəʊd  
+
+  
+
+英文释义
+---
+### 1.**把⋯编码；把⋯译成电码（或密码）**  
 
 
 # ***\#encounter*** vt
@@ -2217,6 +2502,16 @@ encouraging /ɪn'kʌrɪdʒɪŋ/ adj
  > 他们的话对我是极大的鼓励。    
 
 
+# ***\#encyclopaedia*** n
+英音 ɪnˌsaɪkləˈpiːdiə     美音 ɪnˌsaɪkləˈpiːdiə  
+
+  
+
+英文释义
+---
+### 1.**百科全书**  
+
+
 # ***\#encyclopedia*** n
 英音 ɪnˌsaɪklə'piːdiə     美音 ɪnˌsaɪklə'piːdiə  
 
@@ -2301,9 +2596,9 @@ encouraging /ɪn'kʌrɪdʒɪŋ/ adj
 #### 辨析 finally, eventually, in the end, at last, lastly  
 五者都有“最后”之意。  
 **finally, eventually ** 表示某事在很长一段时间之后发生。 
-**finally, in the end  ** 表示某事的结果。
+**eventually, in the end** 表示某事的结果。
 **at last ** 表示某事在等待或努力了很久之后终于发生，而你为此感到很高兴。
-**lastly, finally ** 引出你想说的最后一点、一系列动作中的最后一个，或清单中的最后一项。
+**lastly, finally** 用于引出你想说的最后一点、一系列动作中的最后一个，或清单中的最后一项。
  > Lastly / Finally, I would like to remind you that smoking is not allowed here.   
  > 最后，我想提醒大家注意的是，这里不准抽烟。    
 
@@ -2412,6 +2707,26 @@ encouraging /ɪn'kʌrɪdʒɪŋ/ adj
  > 中国的藏羚羊现在濒临灭绝。    
 
 
+# ***\#endeavour*** vi
+英音 ɪnˈdevə(r)     美音 ɪnˈdevər  
+
+  
+
+英文释义
+---
+### 1.**(AmE endeavor) 努力，尽力**  
+
+
+# ***\#endeavour*** n
+英音 ɪnˈdevə(r)     美音 ɪnˈdevər  
+
+  
+
+英文释义
+---
+### 1.**努力，尝试**  
+
+
 # ***\#ending*** n
 英音 'endɪŋ     美音 'endɪŋ  
 
@@ -2444,6 +2759,26 @@ encouraging /ɪn'kʌrɪdʒɪŋ/ adj
 
  > Online learning resources seem to be endless.   
  > 网上的学习资源似乎无穷无尽。    
+
+
+# ***\#endurance*** n
+英音 ɪn'djʊərəns     美音 ɪn'dʊrəns  
+
+  
+
+英文释义
+---
+### 1.**（忍）耐力**  
+
+
+# ***\#endure*** v
+英音 ɪnˈdjʊə(r)     美音 ɪnˈdʊr  
+
+  
+
+英文释义
+---
+### 1.**忍耐；持续存在**  
 
 
 # ***\#enemy*** n
@@ -2496,6 +2831,16 @@ energetically /ˌenə'dʒetɪkli/ adv
 
 答案：
 1. energetic  2. energetic  
+
+# ***\#energise*** vt
+英音 ˈenədʒaɪz     美音 ˈenərdʒaɪz  
+
+  
+
+英文释义
+---
+### 1.**使充满活力；使增强决心**  
+
 
 # ***\#energy*** n
 英音 'enədʒi     美音 'enərdʒi  
@@ -2639,6 +2984,30 @@ engagement /ɪn'ɡeɪdʒmənt/ n [C]
 
  > If we invest little time in a person, our **engagement with** that person will decline.   
  > 如果我们不在一个人身上投入时间，我们跟那人的亲密关系就会变淡。  （2011 福建）  
+
+
+# ***\#engaged*** adj
+英音 ɪn'ɡeɪdʒd     美音 ɪn'ɡeɪdʒd  
+
+  
+
+英文释义
+---
+### 1.**已订婚的**  
+
+### 2.**忙于；从事于**  
+
+### 3.**被占用的；使用中的**  
+
+
+# ***\#engagement*** n
+英音 ɪnˈɡeɪdʒmənt     美音 ɪnˈɡeɪdʒmənt  
+
+  
+
+英文释义
+---
+### 1.**参与**  
 
 
 # ***\#engine*** n
@@ -2794,6 +3163,16 @@ engineering /ˌendʒɪ'nɪrɪŋ/ n [U]
  > 我们准备将这张照片放大。    
 
 
+# ***\#enlighten*** vt
+英音 ɪnˈlaɪtn     美音 ɪnˈlaɪtn  
+
+  
+
+英文释义
+---
+### 1.**启迪；指导，教导**  
+
+
 # ***\#enormous*** adj
 英音 ɪ'nɔːməs     美音 ɪ'nɔːrməs  
 
@@ -2910,6 +3289,16 @@ Building.  （2006 湖南改）
  > 书籍充实头脑。    
 
 
+# ***\#enrol*** vt
+英音 ɪnˈrəʊl     美音 ɪnˈrəʊl  
+
+  
+
+英文释义
+---
+### 1.**(使) 加入; 注册; 登记**  
+
+
 # ***\#ensure*** vt
 英音 ɪn'ʃʊə(r)     美音 ɪn'ʃʊr  
 
@@ -2992,6 +3381,16 @@ Building.  （2006 湖南改）
  > 国有企业    
 
 ### 2.*低义频：* **事业心；进取心**  
+
+
+# ***\#enterprising*** adj
+英音 ˈentəpraɪzɪŋ     美音 ˈentərpraɪzɪŋ  
+
+  
+
+英文释义
+---
+### 1.**有创业精神的；有事业心的；有进取心的**  
 
 
 # ***\#entertain*** v
@@ -3211,6 +3610,46 @@ enthusiastically /ɪnˌθjuːzi'æstɪkli/ adv
  > 该博物馆免费入场。    
 
 
+# ***\#entrepreneur*** n
+英音 ˌɒntrəprə'nɜː(r)     美音 ˌɒntrəprə'nɜː(r)  
+
+  
+
+英文释义
+---
+### 1.**创业者；企业家**  
+
+
+# ***\#entrepreneurial*** adj
+英音 ˌɒntrəprəˈnɜːriəl     美音 ˌɑːntrəprəˈnɜːriəl  
+
+  
+
+英文释义
+---
+### 1.**创业的，具有创业精神的**  
+
+
+# ***\#entrepreneurial*** n
+英音 ˌɒntrəprəˈnɜːriəl     美音 ˌɑːntrəprəˈnɜːriəl  
+
+  
+
+英文释义
+---
+### 1.**创业者；企业家**  
+
+
+# ***\#entrust*** vt
+英音 ɪn'trʌst     美音 ɪn'trʌst  
+
+  
+
+英文释义
+---
+### 1.**委托；交付**  
+
+
 # ***\#entry*** n
 英音 'entri     美音 'entri  
 
@@ -3249,6 +3688,16 @@ enthusiastically /ɪnˌθjuːzi'æstɪkli/ adv
 
  > This painting is my entry for the art competition.   
  > 这幅画是我参加绘画比赛的作品。    
+
+
+# ***\#envelop*** vt
+英音 ɪn'veləp     美音 ɪn'veləp  
+
+  
+
+英文释义
+---
+### 1.**[正式用语]包住；裹住**  
 
 
 # ***\#envelope*** n
@@ -3327,6 +3776,26 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 英文释义
 ---
 ### 1.*高义频：* **环境保护论者**  
+
+
+# ***\#envision*** vt
+英音 ɪnˈvɪʒn     美音 ɪnˈvɪʒn  
+
+  
+
+英文释义
+---
+### 1.**展望；想象**  
+
+
+# ***\#envoy*** n
+英音 ˈenvɔɪ     美音 ˈenvɔɪ  
+
+  
+
+英文释义
+---
+### 1.**使者，使节**  
 
 
 # ***\#envy*** n
@@ -3422,6 +3891,16 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 英文释义
 ---
 ### 1.**流行病**  
+
+
+# ***\#epidemiology*** n
+英音 ˌepɪˌdiːmiˈɒlədʒi     美音 ˌepɪˌdiːmiˈɑːlədʒi  
+
+  
+
+英文释义
+---
+### 1.**流行病学**  
 
 
 # ***\#episode*** n
@@ -3567,6 +4046,16 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
  > 有些父母把教育和考试成绩优秀等同起来。    
 
 
+# ***\#equation*** n
+英音 ɪ'kweɪʒn     美音 ɪ'kweɪʒn  
+
+  
+
+英文释义
+---
+### 1.**等式；方程式**  
+
+
 # ***\#equator*** n
 英音 ɪ'kweɪt(ə)     美音 ɪ'kweɪtər  
 
@@ -3598,7 +4087,7 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
  > The boys equipped themselves with food, tents and sleeping bags for their journey.   
  > 男孩们为他们的旅行准备好了食物、帐篷和睡袋。    
 
- > The floors of all campus buildings are equipped with fi re alarm systems.  
+ > The floors of all campus buildings are equipped with fire alarm systems.  
  > 所有校园建筑的楼层都装有火灾报警系统。  （2018 天津改）  
 
  > Equipped with new scientific farming methods, they have been able to use less farmland to produce more.   
@@ -3635,6 +4124,16 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 
  > There are a lot of **pieces of equipment** in the gym.  
  > 健身馆里有很多设备。  （译林① – 1）  
+
+
+# ***\#equivalent*** adj
+英音 ɪˈkwɪvələnt     美音 ɪˈkwɪvələnt  
+
+  
+
+英文释义
+---
+### 1.**等同的；等值的；相当的**  
 
 
 # ***\#era*** n
@@ -3713,14 +4212,11 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 
 #### 辨析 error, mistake, fault
   
-**error** 是正式用语，侧重指计算、书写等过程中出 现的“差错”以及计算机系统出现的错误，还可 指道德上的错误。常和介词 in 搭配。
-**mistake** 在日常英语中用得最为广泛。着重强调行 为或观点本身不正确而造成的“错误；失误”。 常和介词by 搭配。
-**fault** 指人性格上的弱点或行动上的“过失，过 错”，往往强调其应负的责任。用于物时指瑕 疵、毛病。
- > It's my fault that we missed the bus**It’s my fault that**  
+**error** 与mistake意义相近，但较为正式。
+**mistake** 在日常英语中用得最为广泛，指用词或数字上的错误、口误、笔误，也可指决定错误，强调“误”。
+**fault** 指对“过失”“过错”应负的责任，强调“过”。
+ > **It's my fault that** we missed the bus.  
  > 我们错过了汽车是我的错。    
-
- > For all its faults we love this city.  
- > 尽管有各种缺点，我们还是热爱这座城市。    
 
 
 
@@ -3758,6 +4254,16 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 英文释义
 ---
 ### 1.**火山爆发；（战争等）爆发**  
+
+
+# ***\#escalator*** n
+英音 ˈeskəleɪtə(r)     美音 ˈeskəleɪtər  
+
+  
+
+英文释义
+---
+### 1.**自动扶梯; 滾梯**  
 
 
 # ***\#escape*** v
@@ -3869,6 +4375,16 @@ environmentalist /ɪnˌvaɪrən'mentəlɪst/ n [C]
 
  > Last week, I even forgot to do / write my English essay.  
  > 上周，我甚至忘了写英语作文。  （译林⑤ – 1）  
+
+
+# ***\#essence*** n
+英音 'esns     美音 'esns  
+
+  
+
+英文释义
+---
+### 1.**本质，精髓；香精，精油**  
 
 
 # ***\#essential*** adj
@@ -4046,6 +4562,16 @@ established /ɪ'stæblɪʃt/ adj
 ### 1.*高义频：* **诸如此类的事物；等等**  
 
 
+# ***\#ethical*** adj
+英音 ˈeθɪkl     美音 ˈeθɪkl  
+
+  
+
+英文释义
+---
+### 1.**关于伦理的；合乎道德的**  
+
+
 # ***\#ethnic*** adj
 英音 'eθnɪk     美音 'eθnɪk  
 
@@ -4054,6 +4580,16 @@ established /ɪ'stæblɪʃt/ adj
 英文释义
 ---
 ### 1.*高义频：* **种族的；民族的**  
+
+
+# ***\#ethnically*** adv
+英音 /ˈeθnɪkli/     美音 /ˈeθnɪkli/  
+
+  
+
+英文释义
+---
+### 1.**种族地**  
 
 
 # ***\#euro*** n
@@ -4113,6 +4649,16 @@ established /ɪ'stæblɪʃt/ adj
 
 答案：
 1. evaluated / assessed  
+
+# ***\#evaluation*** n
+英音 ɪˌvæljuˈeɪʃn     美音 ɪˌvæljuˈeɪʃn  
+
+  
+
+英文释义
+---
+### 1.**评价；估计；估量**  
+
 
 # ***\#eve*** n
 英音 iːv     美音 iːv  
@@ -4341,9 +4887,9 @@ Notes: even可用以强调句子的任何成分，置于被修饰的词语前；
 #### 辨析 finally, eventually, in the end, at last, lastly  
 五者都有“最后”之意。  
 **finally, eventually ** 表示某事在很长一段时间之后发生。 
-**finally, in the end  ** 表示某事的结果。
+**eventually, in the end** 表示某事的结果。
 **at last ** 表示某事在等待或努力了很久之后终于发生，而你为此感到很高兴。
-**lastly, finally ** 引出你想说的最后一点、一系列动作中的最后一个，或清单中的最后一项。
+**lastly, finally** 用于引出你想说的最后一点、一系列动作中的最后一个，或清单中的最后一项。
  > Lastly / Finally, I would like to remind you that smoking is not allowed here.   
  > 最后，我想提醒大家注意的是，这里不准抽烟。    
 
@@ -4638,6 +5184,16 @@ Notes: everywhere可引导地点状语从句。
  > 法官听取证词后才作决定。  （外研⑥ – 7）  
 
 
+# ***\#evidence*** vt
+英音 'evɪdəns     美音 'evɪdəns  
+
+| 词频 4 | 口语 2 | 书面 3 | 阅读 3 |  
+
+英文释义
+---
+### 1.**证明，表明**  
+
+
 # ***\#evident*** adj
 英音 'evɪdənt     美音 'evɪdənt  
 
@@ -4657,6 +5213,16 @@ Notes: everywhere可引导地点状语从句。
 派生词汇
 ---
 evidently /'evɪdəntli/ adv   
+
+# ***\#evidently*** adv
+英音 ˈevɪdəntli     美音 ˈevɪdəntli  
+
+  
+
+英文释义
+---
+### 1.**明显地，显然**  
+
 
 # ***\#evil*** adj
 英音 'iːvl     美音 'iːvl  
@@ -4690,7 +5256,7 @@ evidently /'evɪdəntli/ adv
 
 
 # ***\#evolution*** n
-英音 ˌiːvə'luːʃn     美音 ˌevə'luːʃn  
+英音 ˌiːvə'luːʃn; ˌevə'luːʃn     美音 ˌevə'luːʃn  
 
 | 词频 1 | 阅读 1 |  
 
@@ -4706,6 +5272,16 @@ evidently /'evɪdəntli/ adv
 
  > the evolution of the computer  
  > 计算机的发展    
+
+
+# ***\#evolutionary*** adj
+英音 ˌiːvəˈluːʃənri     美音 ˌevəˈluːʃəneri  
+
+  
+
+英文释义
+---
+### 1.**发展的；渐进的；进化的**  
 
 
 # ***\#evolve*** v
@@ -4734,6 +5310,16 @@ evidently /'evɪdəntli/ adv
 ### 1.*高义频：* **以前的；前任的**  
 
 
+# ***\#ex-boyfriend*** n
+
+
+  
+
+英文释义
+---
+### 1.**前任男友**  
+
+
 # ***\#ex-husband*** n
 英音 'eksh'ʌzbənd     美音 'eksh'ʌzbənd  
 
@@ -4742,6 +5328,26 @@ evidently /'evɪdəntli/ adv
 英文释义
 ---
 ### 1.**前夫**  
+
+
+# ***\#ex-president*** n
+英音 ˈeksˈprezɪdənt     美音 ˈeksˈprezɪdənt  
+
+  
+
+英文释义
+---
+### 1.**前任总统/主席**  
+
+
+# ***\#ex-wife*** n
+英音 'ekswaɪf     美音 'ekswaɪf  
+
+  
+
+英文释义
+---
+### 1.**前妻**  
 
 
 # ***\#exact*** adj
@@ -4839,6 +5445,16 @@ evidently /'evɪdəntli/ adv
 ### 1.**(声音或动作) 夸张的**  
 
 
+# ***\#exaggeration*** n
+英音 ɪɡˌzædʒəˈreɪʃn     美音 ɪɡˌzædʒəˈreɪʃn  
+
+  
+
+英文释义
+---
+### 1.**夸大，夸张**  
+
+
 # ***\#exam*** n
 英音 /ɪɡ'zæm/     美音 /ɪɡ'zæm/  
 
@@ -4907,6 +5523,16 @@ evidently /'evɪdəntli/ adv
 ---
 examinee /ɪɡˌzæmɪ'niː/ n [C]  
 examiner /ɪɡ'zæmɪnə(r)/ n [C]  
+
+# ***\#examinee*** n
+英音 ɪɡˌzæmɪˈniː     美音 ɪɡˌzæmɪˈniː  
+
+  
+
+英文释义
+---
+### 1.**应试者**  
+
 
 # ***\#example*** n
 英音 ɪɡ'zɑːmpl     美音 ɪɡ'zæmpl  
@@ -5355,6 +5981,16 @@ exception /ɪk'sepʃn/ n [C] & [U]
 ### 1.*高义频：* **不包括；除去**  
 
 
+# ***\#excursion*** n
+英音 ɪkˈskɜːʃn     美音 ɪkˈskɜːrʒn  
+
+  
+
+英文释义
+---
+### 1.**(有特定目的的) 短途旅行**  
+
+
 # ***\#excuse*** vt  重难点词汇
 英音 ɪk'skjuːz     美音 ɪk'skjuːz  
 
@@ -5416,6 +6052,16 @@ exception /ɪk'sepʃn/ n [C] & [U]
 
 答案：
 1. for  
+
+# ***\#execution*** n
+英音 ˌeksɪˈkjuːʃn     美音 ˌeksɪˈkjuːʃn  
+
+  
+
+英文释义
+---
+### 1.**（尤指依法的）处死**  
+
 
 # ***\#executive*** n
 英音 ɪɡ'zekjətɪv     美音 ɪg'zekjətɪv  
@@ -5653,6 +6299,16 @@ existing /ɪɡ'zɪstɪŋ/ adj [只用于名词前]
 答案：
 1. existence  
 
+# ***\#existing*** adj
+英音 ɪɡˈzɪstɪŋ     美音 ɪɡˈzɪstɪŋ  
+
+  
+
+英文释义
+---
+### 1.**现存的；正在使用的**  
+
+
 # ***\#exit*** n
 英音 'eksɪt     美音 'eksɪt  
 
@@ -5834,6 +6490,16 @@ D.suppose
 英文释义
 ---
 ### 1.**(根据概率得出的) 预期数额**  
+
+
+# ***\#expectant*** adj
+英音 ɪkˈspektənt     美音 ɪkˈspektənt  
+
+  
+
+英文释义
+---
+### 1.**期待的，期望的**  
 
 
 # ***\#expectation*** n
@@ -6183,6 +6849,16 @@ Notes: explain不可接双宾语。
  > 他未加解释就离开了房间。    
 
 
+# ***\#explanatory*** adj
+英音 ɪkˈsplænətri     美音 ɪkˈsplænətɔːri  
+
+  
+
+英文释义
+---
+### 1.**解释的；说明的**  
+
+
 # ***\#explicit*** adj
 英音 ɪk'splɪsɪt     美音 ɪk'splɪsɪt  
 
@@ -6272,6 +6948,7 @@ Notes: explain不可接双宾语。
 
 派生词汇
 ---
+exploration /ˌeksplə'reɪʃn/ n   
 explorer /ɪk'splɔːrə(r)/ n   
 
 # ***\#explorer*** n
@@ -6312,7 +6989,25 @@ explorer /ɪk'splɔːrə(r)/ n
 
 英文释义
 ---
-### 1.**爆炸 (式)的,爆发的**  
+### 1.*高义频：* **易爆炸的；（可能）引起爆炸的：**  
+
+ > an **explosive device**(=a bomb)  
+ > 爆炸装置（炸弹）    
+
+### 2.*高义频：* **[常用于名词前]爆炸（式）的；（声音）爆发的：**  
+
+ > the **explosive force** of volcanoes  
+ > 火山的爆发力    
+
+
+# ***\#expo*** n
+英音 ˈekspəʊ     美音 ˈekspəʊ  
+
+  
+
+英文释义
+---
+### 1.**展览会，博览会**  
 
 
 # ***\#export*** n
@@ -6346,6 +7041,16 @@ explorer /ɪk'splɔːrə(r)/ n
  > 事实上，澳大利亚是世界上出口钻石和煤炭最多的国家！  （北师大④ – 12）  
 
 
+# ***\#exporter*** n
+英音 ekˈspɔːtə(r)     美音 ekˈspɔːrtər  
+
+  
+
+英文释义
+---
+### 1.**出口商；出口公司；出口国**  
+
+
 # ***\#expose*** vt  重难点词汇
 英音 ɪk'spəʊz     美音 ɪk'spoʊz  
 
@@ -6371,8 +7076,8 @@ explorer /ɪk'splɔːrə(r)/ n
 ### 3.*高义频：* **使面临；使处于...的作用 / 影响之下**  
 英译 to put sb / sth in a situation that could be difficult or dangerous：
 
- > The water companies were instructed not to **expose** people to polluted water any more**to_2**  
- > 自来水公司被命令不得使人们再受污染水的影响。  （人教⑤ – 1）  
+ > He **exposed himself to criticism** by failing to check the facts in the article.  
+ > 他因没有核对文章里的事实而使自己受到批评。    
 
  > The report said that workers had been **exposed to** high levels of radiation.  
  > 报告称工人们遭到了强辐射的影响。    
@@ -6390,8 +7095,8 @@ explorer /ɪk'splɔːrə(r)/ n
 派生词汇
 ---
 exposed /ɪk'spəʊzd/ adj   
- > My heart was beating wildly — I felt very exposed in such deep clear water.  
- > 我心跳得厉害——在这么深而且清的水里我感到很无助。  （人教⑦ – 3）  
+ > Walking deep into the forest,we suddenly felt very exposed.  
+ > 走进森林深处，我们突然感觉到非常孤立无助。    
 
 
 # ***\#exposure*** n
@@ -6403,13 +7108,15 @@ exposed /ɪk'spəʊzd/ adj
 ---
 ### 1.*高义频：* **[U] 暴露；显露：**  
 
- > Scientists worry that exposure to light while sleeping can increase a person's chances of getting cancer.  
+ > Scientists worry that **exposure to** light while sleeping can increase a person's chances of getting cancer.  
  > 科学家们担忧亮着灯睡觉会增加患癌的风险。  （2013 天津改）  
 
 ### 2.*低义频：* **[U] 揭露；揭发：**  
 
  > the **exposure of** illegal deals  
  > 非法交易的揭露    
+
+### 3.*低义频：* **[常用单数]接触；体验**  
 
 
 # ***\#express*** n
@@ -6527,6 +7234,26 @@ expressive /ɪk'spresɪv/ adj
 答案：
 1. expression  
 
+# ***\#expressive*** adj
+英音 ɪkˈspresɪv     美音 ɪkˈspresɪv  
+
+  
+
+英文释义
+---
+### 1.**富于感情的；明确表露想法的**  
+
+
+# ***\#exquisite*** adj
+英音 ɪkˈskwɪzɪt     美音 ɪkˈskwɪzɪt  
+
+  
+
+英文释义
+---
+### 1.**精美的，精致的**  
+
+
 # ***\#extend*** v
 英音 ɪk'stend     美音 ɪk'stend  
 
@@ -6558,6 +7285,14 @@ expressive /ɪk'spresɪv/ adj
  > The company extended its services to Hong Kong.  
  > 该公司将其业务扩展到香港。    
 
+### 4.*低义频：* **vt[正式用语]提供；给予：**  
+
+ > The chairman **extended a** warm **welcome to** the guest speaker.  
+ > 主席向特邀演讲者表示热烈欢迎。    
+
+ > I would like to **extend** my **thanks to** all our teachers,parents and families,who have done so much for us over the years.  
+ > 我要感谢这些年来为我们做了很多的老师、父母和家人们。  （北师大新必修①-3）  
+
 
 # ***\#extension*** n
 英音 ɪk'stenʃn     美音 ɪk'stenʃn  
@@ -6582,10 +7317,21 @@ expressive /ɪk'spresɪv/ adj
  > The pub had an extension on Christmas Eve.  
  > 这家酒吧在圣诞前夜延长营业时间。    
 
-### 2.*高义频：* **电话分机；分机号码：**  
+### 2.*高义频：* **扩建部分：**  
+
+ > The city is building an **extension to** the subway line.  
+ > 这座城市正在扩建地铁线路    
+
+### 3.*低义频：* **电话分机；分机号码：**  
 
  > Extension 326, please!  
  > 请接326分机。    
+
+
+固定搭配
+---
+## \#by extension
+1.**[正式用法]再则**  
 
 
 # ***\#extensive*** adj
@@ -6601,6 +7347,20 @@ expressive /ɪk'spresɪv/ adj
  > 泛读/广泛的研究    
 
 
+派生词汇
+---
+extensively /ɪkˈstensɪvli/ adv   
+
+# ***\#extensively*** adv
+英音 ɪkˈstensɪvli     美音 ɪkˈstensɪvli  
+
+  
+
+英文释义
+---
+### 1.**广泛地；大规模地；全面地**  
+
+
 # ***\#extent*** n
 英音 ɪk'stent     美音 ɪk'stent  
 
@@ -6608,25 +7368,51 @@ expressive /ɪk'spresɪv/ adj
 
 英文释义
 ---
-### 1.*高义频：* **[U] [常用单数] 程度；范围：**  
+### 1.*高义频：* **[U] [常用单数] 程度；范围；长度；面积：**  
 
  > I was amazed at **the extent of** his knowledge.  
  > 我对他知识的渊博感到吃惊。    
+
+ > the extent of forests  
+ > 森林面积    
+
+ > the **full extent** of the beach  
+ > 海滩全貌    
 
 
 固定搭配
 ---
 ## \#to … extent
-1.**在…程度上：**  
+1.**在…程度上**  
 
  > We all **to some extent** remember the good times and forget the bad.  
- > 在某种程度上我们都是记住美好时光，忘掉不愉快的日子。    
+ > 在某种程度上我们都是记住美好的时光，忘掉不愉快的日子。    
 
  > His success depended to a large extent on his family's support.  
  > 他的成功在很大程度上得益于家人的支持。    
 
 
-# ***\#external*** 
+# ***\#exterior*** n
+英音 ɪkˈstɪəriə(r)     美音 ɪkˈstɪriər  
+
+  
+
+英文释义
+---
+### 1.**[常用单数]外部；外观；外表；外貌**  
+
+
+# ***\#exterior*** adj
+英音 ɪkˈstɪəriə(r)     美音 ɪkˈstɪriər  
+
+  
+
+英文释义
+---
+### 1.**[常用于名词前]外面的；外部的；外表的；户外的**  
+
+
+# ***\#external*** adj
 英音 ɪk'stɜːnl     美音 ɪk'stɜːrnl  
 
 | 词频 1 |  
@@ -6634,6 +7420,9 @@ expressive /ɪk'spresɪv/ adj
 英文释义
 ---
 ### 1.**外 (面) 的；外部的**  
+
+ > We should not judge the value of something just based on the external appearance.  
+ > 我们不应该仅仅根据外表来判断事物的价值。  （人教新必修③ – 5）  
 
 
 # ***\#extinct*** adj
@@ -6659,12 +7448,6 @@ expressive /ɪk'spresɪv/ adj
 英文释义
 ---
 ### 1.*高义频：* **灭绝；消亡**  
-
- > species in danger of extinction  
- > 濒临灭绝的物种    
-
- > on the edge of extinction   
- > 濒临灭绝    
 
 
 # ***\#extra*** adv
@@ -6724,7 +7507,47 @@ expressive /ɪk'spresɪv/ adj
 
 英文释义
 ---
-### 1.**课外的；课程以外的**  
+### 1.**[常用于名词前]课外的**  
+
+
+# ***\#extra-large*** adj
+英音 'ekstrə lɑːdʒ     美音 'ekstrə lɑːdʒ  
+
+  
+
+英文释义
+---
+### 1.**非常大的**  
+
+
+# ***\#extra-strong*** adj
+英音 'ekstrə strɒŋ     美音 'ekstrə strɔːŋ  
+
+  
+
+英文释义
+---
+### 1.**特别强壮的**  
+
+
+# ***\#extract*** n
+英音 ˈekstrækt     美音 ˈekstrækt  
+
+  
+
+英文释义
+---
+### 1.**[U]&[C]提取物；摘录**  
+
+
+# ***\#extract*** vt
+英音 ɪk'strækt     美音 ɪk'strækt  
+
+  
+
+英文释义
+---
+### 1.**提取；提炼；摘录；（用力）拔出**  
 
 
 # ***\#extraordinary*** adj
@@ -6769,9 +7592,6 @@ expressive /ɪk'spresɪv/ adj
 ### 2.*高义频：* **极端的；严重的**  
 英译 very unusual and severe or serious：
 
- > The suffering of the people was extreme.   
- > 人们遭受的灾难极为深重。  （ 人教① – 4）  
-
  > extreme weather  
  > 极端天气    
 
@@ -6789,9 +7609,6 @@ expressive /ɪk'spresɪv/ adj
 英文释义
 ---
 ### 1.*高义频：* **极端；极度：**  
-
- > go / run to extremes  
- > 走极端    
 
  > extremes of cold / rain   
  > 严寒/骤雨    
@@ -6814,13 +7631,21 @@ expressive /ɪk'spresɪv/ adj
 英文释义
 ---
 ### 1.*高义频：* **极其；非常：**  
+英译 more than very：
 
- > The book was extremely popular.   
- > 这本书非常受欢迎。  （外研⑤ – 1）  
+ > By mid-1963,the Beatles had been extremely popular in England.  
+ > 到1963年中期，披头士乐队已经在英国非常受欢迎。  （2019浙江）  
 
  > No matter what the season is, it's extremely important to wear sunglasses.  
  > 无论是什么季节，戴太阳镜非常重要。  （2014 辽宁）  
 
+
+真题解析
+---
+1. Landing on the moon's far side is________(extreme) challenging.  （(2020全国））  
+
+答案：
+1. extremely  
 
 # ***\#eye*** n
 英音 aɪ     美音 aɪ  
@@ -6830,6 +7655,9 @@ expressive /ɪk'spresɪv/ adj
 英文释义
 ---
 ### 1.*高义频：* **眼睛：**  
+
+ > the naked eye  
+ > 肉眼    
 
  > I saw it with my own eyes.   
  > 我亲眼目睹了那件事。    
@@ -6883,14 +7711,17 @@ expressive /ɪk'spresɪv/ adj
  > Can you keep an eye on my bag while I go to the bathroom?  
  > 我去卫生间的时候，你可不可以帮我看着包？    
 
- > I know she's here in spirit, keeping an eye on us.  
- > 我知道她的心一直在这里，在关注我们。  （2011 四川）  
+ > I keep a close eye on what's being self-published online by new,young authors.  
+ > 我密切关注着那些年轻的新人作家在网上自行出版的作品。  （外研新选必④ – 3）  
 
-## \#keep an eye out (for) 
+## \#keep an eye open / out (for)
 1.**密切注意；留神：**  
 
  > The lady walked around the shops, keeping an eye out for bargains.   
  > 这位女士在店铺间逛着，留意着便宜商品。  （2010 江西）  
+
+## \#see eye to eye with sb(on sth)
+1.**（在某事上）与某人看法一致**  
 
 ## \#shut / close one's eyes to
 1.**对…视而不见；对… 置若罔闻：**  
@@ -6919,7 +7750,7 @@ expressive /ɪk'spresɪv/ adj
 
 英文释义
 ---
-### 1.**引人注目的**  
+### 1.**惹人注意的；引人注目的**  
 
 
 # ***\#eyebrow*** n

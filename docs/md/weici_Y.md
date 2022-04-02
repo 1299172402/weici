@@ -84,9 +84,9 @@
 ---
 ### 1.*高义频：* **(日历) 年**  
 
-### 2.*低义频：* **年度；学年：**  
+### 2.*低义频：* **年度；学年：年级：**  
 
- > I am in my first year at high school.   
+ > I am in my first year at senior high school.  
  > 我是高中一年级学生。    
 
 ### 3.*高义频：* **...岁**  
@@ -194,6 +194,16 @@
 ### 1.*高义频：* **黄色的；发黄的**  
 
 
+# ***\#yellowish*** adj
+英音 ˈjeləʊɪʃ     美音 ˈjeləʊɪʃ  
+
+  
+
+英文释义
+---
+### 1.**微黄色的；发黄的**  
+
+
 # ***\#yes*** n
 英音 jes     美音 jes  
 
@@ -249,8 +259,8 @@
 ---
 ### 1.*高义频：* **昨天：**  
 
- > He arrived yesterday.   
- > 他昨天到达。    
+ > He arrived yesterday.  
+ > 他昨天到的。    
 
 
 # ***\#yesterday*** n
@@ -338,6 +348,9 @@ Notes: 在肯定句中用still或already。
 
 固定搭配
 ---
+## \#have yet to
+1.**还没有**  
+
 ## \#not yet
 1.**还没：**  
 
@@ -363,7 +376,27 @@ Notes: 在肯定句中用still或already。
 
 英文释义
 ---
-### 1.**产量**  
+### 1.**产量；产出**  
+
+
+# ***\#yield*** vt
+英音 jiːld     美音 jiːld  
+
+| 词频 1 |  
+
+英文释义
+---
+### 1.**出产（作物）；产生（收益、效益等）**  
+
+
+# ***\#yield*** vi
+英音 jiːld     美音 jiːld  
+
+| 词频 1 |  
+
+英文释义
+---
+### 1.**屈服；让步（give way）**  
 
 
 # ***\#yoga*** n
@@ -373,7 +406,7 @@ Notes: 在肯定句中用still或already。
 
 英文释义
 ---
-### 1.**瑜伽术**  
+### 1.**瑜伽**  
 
 
 # ***\#yoghurt*** n
@@ -386,6 +419,16 @@ Notes: 在肯定句中用still或already。
 英文释义
 ---
 ### 1.*高义频：* **酸乳；酸奶**  
+
+
+# ***\#yogurt*** n
+英音 ˈjɒɡət     美音 ˈjəʊɡərt  
+
+  
+
+英文释义
+---
+### 1.**酸奶**  
 
 
 # ***\#you*** pron
@@ -497,8 +540,8 @@ Notes: 在肯定句中用still或already。
 ---
 ### 1.*高义频：* **你自己；你亲自：**  
 
- > Self-image is your own mind’s picture of yourself.    
- > 自我形象是你内心对自己的评价。  （2008 广东）  
+ > Chris, tell us a bit about yourself.  
+ > 克里斯，给我们讲讲你自己吧。  （2016 全国）  
 
  > You yourself told me the news.   
  > 是你亲自把这消息告诉我的。    
@@ -506,7 +549,7 @@ Notes: 在肯定句中用still或already。
 
 真题解析
 ---
-1. Treat ________ (you) to a glass of wine to help you relax at the end of the day.   
+1. Treat ________ (you) to a glass of wine to help you relax at the end of the day.  
 
 答案：
 1. yourself  
@@ -530,7 +573,9 @@ Notes: 在肯定句中用still或already。
  > Her face still kept its youth.   
  > 她的面容青春尤驻。    
 
-### 3.*高义频：* **[集合名词，常与the连用] 年轻人；青年：**  
+### 3.*高义频：* **[C] 青年男子； 小伙子**  
+
+### 4.*高义频：* **[集合名词，常与the连用] 年轻人；青年：**  
 
  > **The youth of today** has / have greater opportunities than ever before.   
  > 现在的年轻人拥有的机会比以往任何时候都要多。    

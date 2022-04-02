@@ -210,6 +210,16 @@ Notes: a large quantity of / large quantities of 后既可以接可数名词也�
  > 她因家务事与丈夫吵了一架。    
 
 
+# ***\#quarry*** n
+英音 ˈkwɒri     美音 ˈkwɑːri  
+
+  
+
+英文释义
+---
+### 1.**采石场**  
+
+
 # ***\#quarter*** n
 英音 'kwɔːtə(r)     美音 'kwɔːrtər  
 
@@ -240,6 +250,16 @@ Notes: a large quantity of / large quantities of 后既可以接可数名词也�
 ### 4.*低义频：* **(美国和加拿大的) 两角五分的硬币**  
 
 
+# ***\#quarter-final*** 
+
+
+  
+
+英文释义
+---
+### 1.**四分之一决赛**  
+
+
 # ***\#queen*** n
 英音 kwiːn     美音 kwiːn  
 
@@ -250,6 +270,16 @@ Notes: a large quantity of / large quantities of 后既可以接可数名词也�
 英文释义
 ---
 ### 1.*高义频：* **女王；王后**  
+
+
+# ***\#queer*** adj
+英音 kwɪə(r)     美音 kwɪr  
+
+  
+
+英文释义
+---
+### 1.**奇怪的，难以解释的**  
 
 
 # ***\#quest*** n
@@ -367,6 +397,16 @@ Notes: a large quantity of / large quantities of 后既可以接可数名词也�
  > 买票队伍中的有些人从天刚亮就开始在排队了。    
 
 
+# ***\#queue-jumping*** n
+
+
+  
+
+英文释义
+---
+### 1.**插队；加塞儿**  
+
+
 # ***\#quick*** adj
 英音 kwɪk     美音 kwɪk  
 
@@ -405,7 +445,7 @@ Notes: a large quantity of / large quantities of 后既可以接可数名词也�
 quicken /'kwɪkən/ v   
 
 # ***\#quicken*** v
-英音 'kwɪkən     
+英音 'kwɪkən     美音 'kwɪkən  
 
   
 
@@ -504,6 +544,16 @@ quietly /'kwaɪətli/ adv
 
 
 
+# ***\#quiet*** v
+英音 ˈkwaɪət     美音 ˈkwaɪət  
+
+| 词频 4 | 口语 2 | 书面 2 |  
+
+英文释义
+---
+### 1.**（使）平静；安静**  
+
+
 # ***\#quilt*** n
 英音 kwɪlt     美音 kwɪlt  
 
@@ -568,13 +618,15 @@ quietly /'kwaɪətli/ adv
 
 Notes: quite修饰与不定冠词连用的形容词时，须放在不定冠词之前。  
 #### 辨析 fairly, quite, rather, pretty
-四者都有“相当”之意。  
-**fairly** 不与动词连用。不与too及比较级连用。
-**quite** 不与too及比较级连用。修饰与不定冠词连用的形容词时须放在不定冠词之前。当修饰无比较级的形容词或副词时，意为“完全”、“十分”。
-**rather** 可与too及比较级连用。修饰与不定冠词连用的形容词时，放在不定冠词前或后都可以。
-**pretty** 不与动词连用，也不与too及比较级连用。
- > pretty good  
- > 相当好    
+四个词都可表示“相当”，但程度不同：fairly＜quite＜rather/pretty,pretty是非正式用语。  
+**rather：** 四个词中，只有rather可以与比较级以及副词too连用。
+**rather和quite** 有时可直接修饰动词，而fairly和pretty一般不这样用。
+**quite, rather** 修饰与不定冠词连用的形容词时，quite要放在不定冠词之前，rather放在不定冠词前或后都可以。
+ > quite a tall man  
+ > 个子相当高的男人    
+
+ > a rather cold day / rather a cold day  
+ > 颇冷的一天    
 
 
 
@@ -634,4 +686,14 @@ D.much
 派生词汇
 ---
 quotation /kwəʊ'teɪʃn/ n [C]  
+
+# ***\#quotient*** n
+英音 ˈkwəʊʃnt     美音 ˈkwəʊʃnt  
+
+  
+
+英文释义
+---
+### 1.**(质量、情感等的) 指数，程度**  
+
 

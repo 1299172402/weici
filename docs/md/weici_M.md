@@ -11,6 +11,9 @@
 ---
 ### 1.*高义频：* **机器；机械 (装置)：**  
 
+ > a machine gun  
+ > 机关枪    
+
  > start a machine   
  > 发动机器    
 
@@ -57,6 +60,9 @@
 
  > Mother got **mad with** me for watching **TV** so much.  
  > 我看电视太多了，惹得妈妈大发脾气。    
+
+ > What are you so **mad about**?  
+ > 什么事让你火气这么大？    
 
 ### 4.*高义频：* **[非正式用语] 狂热的；着迷的 (crazy)：**  
 
@@ -191,7 +197,7 @@ madly  /'mædli/ adv
 
 英文释义
 ---
-### 1.**（地）震级；重大**  
+### 1.**[C]&[U]（地）震级；[U][正式用语] 重大**  
 
 
 # ***\#magpie*** n
@@ -252,8 +258,8 @@ madly  /'mædli/ adv
 ---
 ### 1.*高义频：* **邮寄 (BrE post)：**  
 
- > Don’t forget to **mail** this letter to your mother.**to_2**  
- > 别忘了把这封信寄给你妈妈。    
+ > **Mail** your entry **to** us by October 31 this year.  
+ > 请于今年10月31日前将参赛作品寄给我们。  （2020山东）  
 
 
 # ***\#mailbox*** n
@@ -324,11 +330,11 @@ madly  /'mædli/ adv
 ---
 ### 1.*高义频：* **主要地；大部分地 (chiefly / primarily)：**  
 
- > The visitors were mainly students.  
- > 参观者主要是学生。    
-
  > You are mainly responsible for the trouble.   
  > 你应该对这次事故负主要责任。    
+
+ > The visitors were mainly students.  
+ > 参观者主要是学生。    
 
 
 # ***\#mainstream*** n
@@ -348,11 +354,14 @@ madly  /'mædli/ adv
 
 英文释义
 ---
-### 1.*高义频：* **保持；维持**  
+### 1.*高义频：* **维持；保持**  
 英译 to make sth continue at the same level, standard, etc：
 
- > The two countries have always maintained close relations.   
- > 这两个国家一直保持着密切的关系。    
+ > Social media tools let us see what our friends are up to and maintain friendships.  
+ > 社交媒体工具能让我们知晓朋友的动向，并维持友谊。  （外研新必修① – 4）  
+
+ > The Amazon rainforest plays a significant role in maintaining the fine balance of the Earth's ecosystem.  
+ > 亚马孙雨林在维系地球生态的微妙系统上扮演着举足轻重的角色。  （译林新必修③ – 1改）  
 
 ### 2.*高义频：* **维护；保养**  
 英译 to keep sth in good condition by checking and repairing it：
@@ -368,6 +377,16 @@ madly  /'mædli/ adv
 
  > He **maintained that** such things should never be done again.  
  > 他坚持认为再也不能做这样的事情了。    
+
+
+# ***\#maintenance*** n
+英音 ˈmeɪntənəns     美音 ˈmeɪntənəns  
+
+  
+
+英文释义
+---
+### 1.**维护，保养；维持，保持**  
 
 
 # ***\#maize*** n
@@ -397,7 +416,8 @@ madly  /'mædli/ adv
 
 英文释义
 ---
-### 1.*高义频：* **[常用于名词前] 主要的；重要的 very large or important**  
+### 1.*高义频：* **[常用于名词前] 主要的；重要的**  
+英译 very large or important
 反义词 minor： 
 
  > a major cause   
@@ -540,13 +560,16 @@ Notes: 被动式为be made to do sth
  > This film made him a star.   
  > 这部影片使他成为明星。    
 
- > Make what you’re doing today important, because you’re trading a day of your life for it.   
- > 重视你今天正在做的事，因为你正在为此付出生命中的一天。  （2014 湖南）  
+ > The high-speed train has made it much more convenient for people to go back home.  
+ > 高铁让人们回家更方便了。  （译林新必修② – 3改）  
 
 ### 5.*高义频：* **成为；变成：**  
 
  > You would make an excellent physician.   
  > 你有望成为一名优秀的内科医生。  （北师大④ – 12）  
+
+ > Hearing the news that he had made (= get a place in) the school team, David joyfully bounced the ball against the wall.  
+ > 听到他被选入校队的消息，大卫高兴地把球往墙上弹了一下。  （人教新选必④ – 5）  
 
 
 固定搭配
@@ -563,6 +586,12 @@ Notes: 被动式为be made to do sth
 Notes: be made from通常指从制成品中看不出原料，而be made of通常从成品中能看出原料。  
 ## \#make away with
 1.**[非正式用语] 偷走**  
+
+## \#make for
+1.**促成；使可能：**  
+
+ > He showed us that even a single desire, never given up on, can make for a remarkable life.  
+ > 他向我们证明，即使只是一个愿望，只要不放弃，也可以成就非凡的人生。  （2021浙江）  
 
 ## \#make … into 
 1.**把…变成 (turn ... into)：**  
@@ -597,19 +626,25 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > I’m sorry I didn’t make it to your party last night.  
  > 我很抱歉昨晚没能参加你的聚会。  （2011 浙江）  
 
+## \#make of
+1.**理解；对待：**  
+
+ > It's not what happens to us that determines our lives— it's what we make of what happens.  
+ > 不是发生在我们身上的事情决定了我们的生活——而是我们如何看待发生的事情。  （2020江苏）  
+
 ## \#make out
 1.*高义频：* **勉强看见；听出(distinguish)：**  
 
- > I could barely make out the stage in the darkness.   
- > 黑暗中我几乎看不见舞台。  （2011山东）  
+ > On the plain in front of us, we can just make out a herd of graceful animals.  
+ > 放眼平原，我们隐约看到一群体型优美的动物。  （人教新必修② – 2）  
 
- > I could hear voices but I couldn’t **make out what** they were saying.  
- > 我能听到说话的声音，但听不清他们在说什么。    
+ > Kate heard a man's voice in the background, but she couldn't make out what he was saying.  
+ > 凯特听到背景中有一个男人的声音，但是她听不清他在说什么。  （2019天津）  
 
 2.*高义频：* **理解；弄清：**  
 
- > His writing is so confusing that it’s difficult to make out what he is trying to express.  
- > 他的笔迹模糊不清，很难弄清他到底想表达什么。  （2011 安徽改）  
+ > I couldn't make out what I had done to annoy her.  
+ > 我搞不清自己做了什么惹她不高兴。    
 
 3.*低义频：* **写出；开列：**  
 
@@ -627,8 +662,8 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
  > In some languages, 100 words make up half of all words used in daily conversations.   
  > 在一些语言中，100个词就构成了一半的日常会话用语。  （2013 天津）  
 
- > Astronomy is a scientific subject **made up of** mathematics and physics.   
- > 天文学是一门由数学和物理组成的自然学科。  （人教③ – 4）  
+ > With life being made up of ups and downs, it is not always easy to maintain a good and enthusiastic attitude**make up of**  
+ > 人生起起落落，要保持一个积极向上的态度并不容易。  （外研新选必① – 2）  
 
 2.*高义频：* **编写；编造：**  
 
@@ -669,11 +704,10 @@ D.have
 A.fill up  
 B.bring up  
 D.set up  
-6. Everybody in the village likes Jack because he is good at telling and making ________ jokes.  （2005 江苏）  
-7. The idea puzzled me so much that I stopped for a few seconds to try to make it ________.  （2003 北京春）  
+6. Everybody in the village likes Jack because he is good at telling and making ________ jokes.  
 
 答案：
-1. have made  2. makes up for  3. it  4. A  5. make up  6. up  7. out  
+1. have made  2. makes up for  3. it  4. A  5. make up  6. up  
 
 # ***\#make*** n  重难点词汇
 英音 meɪk     美音 meɪk  
@@ -715,7 +749,7 @@ D.set up
 
 英文释义
 ---
-### 1.**改头换面**  
+### 1.**[C]（以新衣服、新发型等进行的）打扮；装扮**  
 
 
 # ***\#malaria*** n
@@ -929,6 +963,16 @@ D.construct
 ### 1.**鬃毛**  
 
 
+# ***\#mangrove*** 
+英音 'mæŋɡrəʊv     美音 'mæŋɡroʊv  
+
+  
+
+英文释义
+---
+### 1.**红树 (一种热带树木；生于水中或水边；并从树枝上长出新根须)**  
+
+
 # ***\#mankind*** n
 英音 mæn'kaɪnd     美音 mæn'kaɪnd  
 
@@ -939,6 +983,19 @@ D.construct
 英文释义
 ---
 ### 1.**人类 (man)**  
+
+
+# ***\#manned*** adj
+英音 mænd     美音 mænd  
+
+  
+
+英文释义
+---
+### 1.**有人控制的；需人操纵的**  
+
+ > a **manned spaceship**  
+ > 载人宇宙飞船    
 
 
 # ***\#manner*** n
@@ -967,7 +1024,7 @@ D.construct
  > 餐桌礼仪    
 
  > **It’s bad manners to** stare at people.  
- > 瞪着别人看不礼貌。    
+ > 盯着别人看不礼貌。    
 
  > In any case, a lot can be accomplished by a smile and **good manners**.   
  > 在任何情况下，微笑和有礼貌都会让你有很大收获。  （2011 安徽）  
@@ -1066,6 +1123,16 @@ D.construct
 manufacturer /ˌmænju'fæktʃərə(r)/ n [C]  
 manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]  
 
+# ***\#manufacturer*** n
+英音 ˌmænju'fæktʃərə(r)     美音 ˌmænju'fæktʃərər  
+
+  
+
+英文释义
+---
+### 1.**制造商；制造公司，制造厂**  
+
+
 # ***\#manuscript*** n
 英音 'mænjuskrɪpt     美音 'mænjuskrɪpt  
 
@@ -1073,7 +1140,7 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 
 英文释义
 ---
-### 1.**底稿；手稿**  
+### 1.**手稿；底稿；手写本**  
 
 
 # ***\#many*** adj
@@ -1164,6 +1231,16 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
  > 你会看地图吗？    
 
 
+# ***\#map*** vt
+英音 mæp     美音 mæp  
+
+| 词频 4 | 口语 2 | 书面 2 |  
+
+英文释义
+---
+### 1.**绘制……的地图**  
+
+
 # ***\#maple*** n
 英音 'meɪpl     美音 'meɪpl  
 
@@ -1185,7 +1262,7 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 
 英文释义
 ---
-### 1.*高义频：* **马拉松赛跑 (全长 42 195米)**  
+### 1.*高义频：* **马拉松赛跑 (全长 42.195公里)**  
 
 
 # ***\#marble*** n
@@ -1226,6 +1303,9 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
  > **go on a march**  
  > 参加游行    
 
+ > We can't stop the march of progress.  
+ > 我们不能停止前进的步伐。  （外研新选必③ – 4）  
+
 
 派生词汇
 ---
@@ -1244,6 +1324,36 @@ marcher /'mɑːtʃə(r)/ n [C]
 
  > **profit margins**  
  > 毛利润    
+
+
+# ***\#marine*** adj
+英音 məˈriːn     美音 məˈriːn  
+
+  
+
+英文释义
+---
+### 1.**[只用于名词前] 海洋的**  
+
+
+# ***\#marine*** n
+英音 məˈriːn     美音 məˈriːn  
+
+  
+
+英文释义
+---
+### 1.**海军陆战队士兵**  
+
+
+# ***\#maritime*** adj
+英音 'mærɪtaɪm     美音 'mærɪtaɪm  
+
+  
+
+英文释义
+---
+### 1.**海的；海运的；海事的**  
 
 
 # ***\#mark*** n
@@ -1314,8 +1424,8 @@ marcher /'mɑːtʃə(r)/ n [C]
 
 ### 2.*高义频：* **标志 (重要变化或发展阶段)：**  
 
- > This marked the beginning of the slave trade.   
- > 这标志着奴隶贸易的开始。  （外研⑤ – 4）  
+ > In most countries, turning 18 marks the start of adulthood.  
+ > 在大多数国家，18岁标志着成年的开始。  （外研新选必② – 1）  
 
  > The gift marks the deep friendship of the two nations.   
  > 这份礼物是两国深厚友谊的象征。    
@@ -1325,9 +1435,6 @@ marcher /'mɑːtʃə(r)/ n [C]
 
  > A firework display was organised to mark the Queen’s birthday.  
  > 为了庆祝女王的生日，人们举办了烟火表演。  （北师大①–3）  
-
- > As the years passed, many occasions —— birthdays, awards, graduations —— **were marked with** Dad’s flowers.  
- > 随着岁月的流逝，很多时刻，生日、获奖、毕业，都有父亲的鲜花来庆祝。    
 
 ### 4.*高义频：* **(给试卷等) 打分数：**  
 
@@ -1410,6 +1517,18 @@ marcher /'mɑːtʃə(r)/ n [C]
 
 ### 2.*高义频：* **[C] 结婚仪式；婚礼 (wedding)**  
 
+### 3.*低义频：* **[C] 密切结合：**  
+
+ > the perfect marriage of rice and milk  
+ > 米糊和牛奶的完美融合    
+
+
+真题解析
+---
+1. Charles Dresser performed their________ (marry) ceremony in 1824.  （2021浙江改）  
+
+答案：
+1. marriage  
 
 # ***\#married*** adj
 英音 'mærid     美音 'mærid  
@@ -1453,8 +1572,8 @@ marcher /'mɑːtʃə(r)/ n [C]
 
 - marry sb 与某人结婚：
 
- > On returning to the palace, the king marries the woman.   
- > 一回到宫殿，国王就和这位女子结婚了。  （外研⑥ – 2）  
+ > On returning to the palace, the king marries the woman.  
+ > 一回到宫殿，国王就和这位女子结婚了。    
 
 Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更常用get married。  
 - marry sb to sb 把某人嫁给某人；为某人娶亲：
@@ -1466,6 +1585,29 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 
  > My uncle didn’t marry until he was forty-five.   
  > 我叔叔直到45岁才结婚。    
+
+
+# ***\#marsh*** n
+英音 mɑːʃ     美音 mɑːrʃ  
+
+  
+
+英文释义
+---
+### 1.**[C]&[U] 沼泽；湿地**  
+
+
+# ***\#martial*** adj
+英音 ˈmɑːʃl     美音 ˈmɑːrʃl  
+
+  
+
+英文释义
+---
+### 1.**[正式用语] [只用于名词前] 军事的；战争的：**  
+
+ > martial arts  
+ > 武术    
 
 
 # ***\#marvellous*** adj
@@ -1526,6 +1668,9 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 英文释义
 ---
 ### 1.*高义频：* **面罩；口罩；伪装；面膜：**  
+
+ > a disposable **surgical mask**  
+ > 一次性医用口罩    
 
  > put on / **wear a gas mask**   
  > 戴上/戴着防毒面具    
@@ -1594,8 +1739,22 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
  > a mass protest   
  > 群众性的抗议    
 
- > **mass production**  
- > 大量生产    
+ > Since its mass production began in the 1940s, penicillin has saved millions of lives.  
+ > 自从20世纪40年代开始大规模生产以来，青霉素已经拯救了数百万人的生命。  （译林新必修③ – 4）  
+
+
+# ***\#massive*** adj
+英音 'mæsɪv     美音 'mæsɪv  
+
+| 词频 2 |  
+
+英文释义
+---
+### 1.**巨大的；大而重的；大规模的**  
+英译 very big:
+
+ > The artist builds massive sculptures out of plastic garbage.  
+ > 这位艺术家用塑料垃圾制作巨型雕塑。  （2021全国改）  
 
 
 # ***\#master*** n
@@ -1608,6 +1767,9 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 英文释义
 ---
 ### 1.*高义频：* **(男) 主人；(男) 雇主：**  
+
+ > Money is a good servant and a bad master.  
+ > 金钱是善仆，也是恶主。  （弗朗西斯 · 培根）  
 
  > We are the **master of** our own future.  
  > 未来掌握在我们自己的手中。  （2012 浙江书面表达）  
@@ -1654,7 +1816,27 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 
 英文释义
 ---
-### 1.*高义频：* **杰作；名著**  
+### 1.*高义频：* **杰作；名著；代表作（masterwork）**  
+
+
+# ***\#masterwork*** n
+英音 ˈmɑːstəwɜːk     美音 ˈmæstərwɜːrk  
+
+  
+
+英文释义
+---
+### 1.**代表作；杰作；名著（masterpiece）**  
+
+
+# ***\#mastery*** n
+英音 'mɑːstəri     美音 'mæstəri  
+
+  
+
+英文释义
+---
+### 1.**精通；熟练掌握（command）**  
 
 
 # ***\#mat*** n
@@ -1706,9 +1888,6 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 
  > **strike / light a match**   
  > 擦亮火柴    
-
- > a box of matches  
- > 一盒火柴    
 
 
 # ***\#match*** v
@@ -1809,13 +1988,6 @@ C.equipped
  > 她正在为其最新的小说搜集素材。    
 
 
-真题解析
----
-1. When building ________ (材料) cost more, the price of houses increases.   （2008 陕西）  
-
-答案：
-1. materials  
-
 # ***\#material*** adj
 英音 mə'tɪəriəl     美音 mə'tɪriəl  
 
@@ -1909,14 +2081,14 @@ materially /mə'tɪəriəli/ adv
  > Observance of law is a matter of principle for us.   
  > 遵守法律对我们而言是原则问题。    
 
- > Reducing the number of road deaths is not simply a matter of improving roads.   
- > 减少交通事故的死亡人数不单是改善道路状况的问题。    
+ > I can't say which wine is best — it's a matter of personal taste.  
+ > 我不能说哪种酒最好——这是个人口味的问题。    
 
 ## \#no matter 
 1.**[与疑问词连用] 无论；不管：**  
 
  > You and I will always be friends, **no matter what** happens.  
- > 不管发生什么，你我永远是朋友。  （外研⑧ – 7）  
+ > 不管发生什么，你我永远是朋友。    
 
  > **No matter how** hard the rain falls and the wind blows, the police keep to their posts.   
  > 无论雨多急、风多大，警察一直坚守在自己的岗位上。    
@@ -1931,14 +2103,9 @@ materially /mə'tɪəriəli/ adv
 真题解析
 ---
 1. To make matters bad, now I have to share a room with my younger sister, Maggie.  （2013 浙江 改错）  
-2. I can’t say which wine is best — it’s ________ (关乎…的事情) personal taste.  （2007 山东改）  
-A.affair   
-B.event  
-C.matter  
-D.variety  
 
 答案：
-1. bad → worse  2. a matter of  
+1. bad → worse  
 
 # ***\#matter*** vi
 英音 'mætə(r)     美音 'mætər  
@@ -1959,6 +2126,16 @@ D.variety
  > 重要的是你做了什么，而不是你说了什么。    
 
 Notes: matter作动词用时，主要用于疑问句和否定句，并且不用于进行时态。  
+
+# ***\#matter-of-fact*** adj
+
+
+  
+
+英文释义
+---
+### 1.**就事论事的；实事求是的**  
+
 
 # ***\#mature*** adj
 英音 mə'tʃʊə(r)     美音 mə'tʃʊr  
@@ -1983,7 +2160,20 @@ Notes: matter作动词用时，主要用于疑问句和否定句，并且不用�
 
 英文释义
 ---
-### 1.**成熟，使充分发展**  
+### 1.**成熟：**  
+
+ > I have matured and I admit responsibility for my actions.  
+ > 我已经长大成人了，我要为自己的行为负责。  （2021全国改）  
+
+
+# ***\#maturity*** n
+英音 məˈtʃʊərəti,məˈtjʊərəti     美音 məˈtʃʊrəti,məˈtʊrəti  
+
+  
+
+英文释义
+---
+### 1.**成熟**  
 
 
 # ***\#maximum*** n
@@ -2029,8 +2219,8 @@ Notes: matter作动词用时，主要用于疑问句和否定句，并且不用�
 
 - [表示对现在和将来的推测] may do sth:
 
- > Liza **may well** not want to go on the trip — she hates traveling.   
- > 莉萨很可能不愿去旅行，她讨厌旅游。  （2008 全国）  
+ > Liza **may well** not want to go on the trip — she hates traveling.  
+ > 莉萨很可能不愿去旅行，她讨厌旅游。    
 
  > I may be late, so don’t wait for me.   
  > 我可能晚些到，所以不要等我。    
@@ -2074,20 +2264,9 @@ A.should
 B.need  
 C.shall  
 D.may  
-2. — ________ I take the book out?
-— I’m afraid not.   （2010 四川）  
-A.Will  
-B.May  
-C.Must  
-D.Need  
-3. Some people who don’t like to talk much are not necessarily shy; they ________ just be quiet people.   （2009 安徽）  
-A.must  
-B.may  
-C.should  
-D.would  
 
 答案：
-1. D  2. B  3. B  
+1. D  
 
 # ***\#maybe*** adv
 英音 'meɪbi     美音 'meɪbi  
@@ -2142,6 +2321,23 @@ D.would
 英文释义
 ---
 ### 1.*高义频：* **我**  
+
+
+真题解析
+---
+1. "Not that way," my mom tried to stop us but failed. She was right. It didn't turn out as I had wished.  （2020全国 改错）  
+
+答案：
+1. us→ me  
+
+# ***\#me-too*** adj
+
+
+  
+
+英文释义
+---
+### 1.**仿效别人（成功之事）的**  
 
 
 # ***\#meal*** n
@@ -2276,11 +2472,12 @@ D.would
 
 真题解析
 ---
-1. I didn't mean ________ (eat) anything but the ice cream looked so good that I couldn't help ________ (try) it.  （2018 天津改）  
-2. If you think that treating a woman well means always ________ (get) her permission for things, think again.   （2006 湖南）  
+1. New methods________(mean) that fewer people worked in farming.  （2020浙江）  
+2. I didn't mean ________ (eat) anything but the ice cream looked so good that I couldn't help ________ (try) it.  （2018 天津改）  
+3. If you think that treating a woman well means always ________ (get) her permission for things, think again.  
 
 答案：
-1. to eat; trying  2. getting  
+1. meant  2. to eat; trying  3. getting  
 
 # ***\#mean*** adj
 英音 miːn     美音 miːn  
@@ -2299,6 +2496,9 @@ D.would
 
  > It is mean to speak ill of others.   
  > 说别人坏话是卑鄙的行为。    
+
+ > A cyberbully uses the Internet to **be mean to** others.  
+ > 网络恶霸使用互联网来欺负别人。  （人教新必修② – 3）  
 
 
 # ***\#meander*** n
@@ -2337,6 +2537,13 @@ meaningless  /'miːnɪŋləs/ adj
  > 不要让毫无意义的事充斥我们的生活。    
 
 
+真题解析
+---
+1. It's never too early to make necessary preparations for a healthy and________(meaning) college experience.  （2019北京）  
+
+答案：
+1. meaningful  
+
 # ***\#means*** n
 英音 miːnz     美音 miːnz  
 
@@ -2359,7 +2566,7 @@ meaningless  /'miːnɪŋləs/ adj
 固定搭配
 ---
 ## \#by all means 
-1.**尽一切办法；务必；[表示答应] 当然可以：**  
+1.**尽一切办法；务必；[表示答应] 当然可以（of course）：**  
 
  > Please by all means hand in the report on time.   
  > 请务必准时上交报告。    
@@ -2377,7 +2584,8 @@ meaningless  /'miːnɪŋləs/ adj
  > 这是一门为期两年的通过讲座形式教授的课程。    
 
 ## \#by no means / not by any means
-1.**决不；一点也不 not at all：**  
+1.**决不；一点也不**  
+英译 not at all：
 
  > Punishment is by no means a wise choice to help students grow up mentally and physically.  
  > 惩罚绝对不是帮助学生身心成长的明智选择。  （2011 陕西书面表达）  
@@ -2392,11 +2600,11 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 
 真题解析
 ---
-1. — Can I come and have a look at your new house?
-— Yes, ________all means!  （2011 浙江改）  
+1. —Do you know anything about Zhang Zhongjing?
+—By ________ means. He has been honored as a master doctor since the Eastern Han Dynasty.  （2020江苏改）  
 
 答案：
-1. by  
+1. all  
 
 # ***\#meantime*** adv
 英音 'miːntaɪm     美音 'miːntaɪm  
@@ -2493,6 +2701,18 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
  > 是时候我们应该采取措施保护濒危动物了。    
 
 
+固定搭配
+---
+## \#for good measure
+1.**作为额外增添；外加：**  
+
+ > He sold me the car at a cheap price and included the GPS for good measure.  
+ > 他以便宜的价格把汽车卖给了我，另外还赠送了导航仪。    
+
+## \#in full measure
+1.**[正式用语] 最大程度地；最大限度地**  
+
+
 # ***\#measure*** v  重难点词汇
 英音 'meʒə(r)     美音 'meʒər  
 
@@ -2526,13 +2746,6 @@ measurement /'meʒəmənt/ n
  > 给某人量尺寸    
 
 
-真题解析
----
-1. They finished ________ (测量) that piece of land last week.   （2005 全国）  
-
-答案：
-1. measuring  
-
 # ***\#measurement*** n
 英音 'meʒəmənt     美音 'meʒərmənt  
 
@@ -2556,7 +2769,7 @@ measurement /'meʒəmənt/ n
 ---
 ### 1.*高义频：* **肉；有趣 / 重要的内容：**  
 
- > a piece / slice of mea**piece'slice of meat**  
+ > a **piece / slice of meat**  
  > 一块/片肉    
 
  > the meat of an apple  
@@ -2589,6 +2802,9 @@ measurement /'meʒəmənt/ n
 英文释义
 ---
 ### 1.*高义频：* **机械方面的； 用机械的；机械似的：**  
+
+ > a **mechanical device / toy / clock**  
+ > 机械装置 / 玩具 / 钟表    
 
  > **mechanical engineering**  
  > 机械工程    
@@ -2808,6 +3024,9 @@ measurement /'meʒəmənt/ n
  > Whatever problem he meets with, he never gives up.  
  > 无论遇到什么问题，他从不放弃。  （2013 天津）  
 
+## \#meet sb's eye(s)
+1.**（和某人）对视；目光相遇**  
+
 
 # ***\#meet*** n
 英音 miːt     美音 miːt  
@@ -2849,7 +3068,27 @@ measurement /'meʒəmənt/ n
  > The **meeting with** the old friends is a joyful one.   
  > 与老朋友的聚会是欢乐的。    
 
-### 3.*低义频：* **运动会**  
+### 3.*低义频：* **[BrE] 运动会**  
+
+
+# ***\#megadrought*** n
+英音 me'ɡɒdrɔːt     美音 me'ɡɒdrɔːt  
+
+  
+
+英文释义
+---
+### 1.**超级干旱**  
+
+
+# ***\#melancholy*** n
+英音 ˈmelənkəli     美音 ˈmelənkɑːli  
+
+  
+
+英文释义
+---
+### 1.**忧郁，无名的伤感**  
 
 
 # ***\#melodie*** n
@@ -2869,7 +3108,7 @@ measurement /'meʒəmənt/ n
 
 英文释义
 ---
-### 1.**旋律**  
+### 1.**[C]&[U] 歌曲；曲调；旋律**  
 
 
 # ***\#melon*** n
@@ -2892,10 +3131,13 @@ measurement /'meʒəmənt/ n
 
 英文释义
 ---
-### 1.*高义频：* **vi & vt (使) 融化；(使) 熔化：**  
+### 1.*高义频：* **vi & vt (使) 融化；(使) 熔化；(使) 软化：**  
 
  > The ice which covers the South Pole has begun to melt.  
  > 覆盖南极的冰已经开始融化了。  （外研③–7）  
+
+ > a melting pot  
+ > 大熔炉    
 
 
 # ***\#member*** n
@@ -2930,10 +3172,13 @@ measurement /'meʒəmənt/ n
  > membership fees  
  > 会费    
 
-### 2.*高义频：* **会员；会员数：**  
+### 2.*高义频：* **[C] 会员(数)；全体会员：**  
 
  > How large / big is the membership?   
  > 总共有多少会员？    
+
+ > The membership has / have not yet voted.  
+ > 会员还没有投票。    
 
 
 # ***\#memorable*** adj
@@ -2974,8 +3219,18 @@ measurement /'meʒəmənt/ n
  > 这尊塑像是纪念全体阵亡战士的。    
 
 
-# ***\#memorize*** v
-英音 'meməraɪz     
+# ***\#memorisation*** n
+
+
+  
+
+英文释义
+---
+### 1.**记忆**  
+
+
+# ***\#memorise*** v
+英音 'meməraɪz     美音 'meməraɪz  
 
   
 
@@ -2983,6 +3238,24 @@ measurement /'meʒəmənt/ n
 ---
 ### 1.**记住；记录；记下**  
 
+
+派生词汇
+---
+memorisation /ˌmeməraɪ'zeiʃən/ n   
+
+# ***\#memorize*** v
+英音 'meməraɪz     美音 'meməraɪz  
+
+  
+
+英文释义
+---
+### 1.**记住；熟记**  
+
+
+派生词汇
+---
+memorization /ˌmeməraɪ'zeiʃən/ n   
 
 # ***\#memory*** n
 英音 'meməri     美音 'meməri  
@@ -3024,9 +3297,13 @@ measurement /'meʒəmənt/ n
 ## \#in memory of 
 1.**作为对…的纪念；纪念：**  
 
- > A film will be made in memory of those brave fire fighters.   
- > 为了纪念那些勇敢的消防战士，一部电影即将开拍。  （2009 上海）  
+ > After Dr Bethune's death, Chairman Mao Zedong wrote an article in memory of him.  
+ > 白求恩大夫去世后，毛泽东主席写了一篇文章来纪念他。  （人教新必修③ – 2）  
 
+
+派生词汇
+---
+memorable /'memərəbl/ adj   
 
 # ***\#mend*** v
 英音 mend     美音 mend  
@@ -3040,8 +3317,8 @@ measurement /'meʒəmənt/ n
  > mend a bike / road / one's clothes  
  > 修自行车/修路/补衣服    
 
- > Most troubled friendships can be mended.   
- > 大多数受损的友谊是可以修复的。  （2006 全国改）  
+ > Most troubled friendships can be mended.  
+ > 大多数受损的友谊是可以修复的。    
 
 
 # ***\#mental*** adj
@@ -3364,14 +3641,14 @@ mentally /'mentəli/ adv
 
 ### 3.*高义频：* **(书籍、演讲等的)要旨；主题思想：**  
 
- > The message of the film is that good always wins over evil.   
- > 这部影片的要义是正义总能战胜邪恶。    
+ > The message of the film is simple — we want peace; we don't want war.  
+ > 这部电影的主题思想很简单——我们要和平；我们不要战争。  （外研新选必③ – 3）  
 
 
 固定搭配
 ---
 ## \#get the message 
-1.**领悟；理解；明白 (别人的暗示)：**  
+1.**[非正式用语] 领悟；理解；明白 (别人的暗示)：**  
 
  > — Mark, I think you’re the right person for the job.  
  > 马克，我认为你是这个职位的合适人选。    
@@ -3382,7 +3659,7 @@ mentally /'mentəli/ adv
 
 真题解析
 ---
-1. There’s a ________(留言) from Karen on the phone.   （2007 全国）  
+1. There’s a ________(留言) from Karen on the phone.  
 
 答案：
 1. message  
@@ -3488,7 +3765,7 @@ mentally /'mentəli/ adv
 
 英文释义
 ---
-### 1.*高义频：* **甲烷；沼气**  
+### 1.*高义频：* **[符号CH₄] 甲烷；沼气**  
 
 
 # ***\#method*** n
@@ -3525,7 +3802,7 @@ mentally /'mentəli/ adv
 
 英文释义
 ---
-### 1.*高义频：* **米 (AmE meter)：**  
+### 1.*高义频：* **米：**  
 
  > This room is 20 square metres.  
  > 这个房间的面积为20平方米。    
@@ -3539,6 +3816,36 @@ mentally /'mentəli/ adv
 英文释义
 ---
 ### 1.*高义频：* **主要都市的；大城市的**  
+
+
+# ***\#microbiology*** n
+英音 ˌmaɪkrəʊbaɪˈɒlədʒi     美音 ˌmaɪkrəʊbaɪˈɑːlədʒi  
+
+  
+
+英文释义
+---
+### 1.**微生物学**  
+
+
+# ***\#microblogging*** n
+英音 ˈmaɪkrəʊblɒɡɪŋ     美音 ˈmaɪkrəʊblɑːɡɪŋ  
+
+  
+
+英文释义
+---
+### 1.**微博客维护；微博客更新**  
+
+
+# ***\#microorganism*** n
+英音 ˌmaɪkrəʊˈɔːɡənɪzəm     美音 ˌmaɪkrəʊˈɔːrɡənɪzəm  
+
+  
+
+英文释义
+---
+### 1.**微生物**  
 
 
 # ***\#microphone*** n
@@ -3574,7 +3881,7 @@ mentally /'mentəli/ adv
 
 英文释义
 ---
-### 1.*高义频：* **微波：**  
+### 1.*高义频：* **微波；微波炉：**  
 
  > microwave ovens   
  > 微波炉    
@@ -3616,7 +3923,7 @@ mentally /'mentəli/ adv
  > I booked three seats in the middle row.   
  > 我预订了中间那排的3个座位。    
 
- > in sb's middle twenties  
+ > **in sb's middle twenties**  
  > 在某人25岁左右时    
 
 ### 2.*低义频：* **中等的：**  
@@ -3761,6 +4068,30 @@ D. should
 答案：
 1. D  2. A  
 
+# ***\#might*** n
+英音 maɪt     美音 maɪt  
+
+| 词频 5 | 口语 3 | 书面 3 |  
+
+英文释义
+---
+### 1.**[正式用语] 强大力量；威力**  
+
+
+派生词汇
+---
+mighty /'maɪti/ adj   
+
+# ***\#mighty*** adj
+英音 'maɪti     美音 'maɪti  
+
+  
+
+英文释义
+---
+### 1.**强有力的；雄伟的**  
+
+
 # ***\#migrant*** n
 英音 'maɪɡrənt     美音 'maɪɡrənt  
 
@@ -3778,8 +4109,12 @@ D. should
 
 英文释义
 ---
-### 1.**移栖，迁徙**  
+### 1.**迁徙；迁移；移居**  
 
+
+派生词汇
+---
+migratory /ˈmaɪɡrətri/ adj   
 
 # ***\#migration*** n
 英音 maɪ'ɡreɪʃn     美音 maɪ'ɡreɪʃn  
@@ -3794,6 +4129,16 @@ D. should
 
  > The process of urbanization — the migration of people from the countryside to the city — was the result of modernization.  
  > 城市化进程——人们从农村移居到城市——是现代化的结果。  （2013 北京）  
+
+
+# ***\#migratory*** adj
+英音 ˈmaɪɡrətri     美音 ˈmaɪɡrətɔːri  
+
+  
+
+英文释义
+---
+### 1.**（鸟或动物）迁徙的**  
 
 
 # ***\#mild*** adj
@@ -3853,8 +4198,21 @@ D. should
 ---
 ### 1.*高义频：* **英里 (1英里 = 1.6093千米)**  
 
- > go the / that extra mile  
- > 孜孜以求；加倍努力    
+
+固定搭配
+---
+## \#go the / that extra mile
+1.**孜孜以求；加倍努力**  
+
+
+# ***\#milestone*** n
+英音 ˈmaɪlstəʊn     美音 ˈmaɪlstəʊn  
+
+  
+
+英文释义
+---
+### 1.**重大事件，里程碑**  
 
 
 # ***\#military*** adj
@@ -3868,6 +4226,19 @@ D. should
 
  > take **military action**   
  > 采取军事行动    
+
+
+# ***\#military*** n
+英音 'mɪlətri     美音 'mɪləteri  
+
+| 词频 3 | 口语 2 | 书面 3 | 阅读 2 |  
+
+英文释义
+---
+### 1.**军队；军人：**  
+
+ > I wasn't surprised to learn that he'd served **in the military**.  
+ > 得知他曾在军队服役，我并不感到惊讶。    
 
 
 # ***\#milk*** n
@@ -3893,6 +4264,16 @@ D. should
 
  > milk the cows   
  > 挤牛奶    
+
+
+派生词汇
+---
+milky /'mɪlki/ adj   
+ > **milky tea / coffee**  
+ > 奶茶 / 牛奶咖啡    
+
+ > the Milky Way  
+ > 银河系    
 
 
 # ***\#mill*** n
@@ -3976,6 +4357,16 @@ D. should
 ### 1.*高义频：* **哑剧**  
 
 
+# ***\#mimic*** v
+英音 ˈmɪmɪk     美音 ˈmɪmɪk  
+
+  
+
+英文释义
+---
+### 1.**模仿**  
+
+
 # ***\#mind*** n  重难点词汇
 英音 maɪnd     美音 maɪnd  
 
@@ -4030,6 +4421,12 @@ D. should
  > Whenever or however you take notes, keep in mind that note-taking is a selective process.   
  > 不管何时以何种方式记笔记，你都要记住，记笔记是个有选择性的过程。  （ 2008 全国）  
 
+## \#bring / call…to mind
+1.**[正式用语]（使）想起；（使）记起：**  
+
+ > The mooncake is always favourite because of the happy memories it brings to mind.  
+ > 月饼一直是我的最爱，因为它带给我美好的回忆。  （译林新选必① – 1改）  
+
 ## \#change one’s mind 
 1.**改变主意：**  
 
@@ -4041,6 +4438,12 @@ D. should
 
  > Suddenly a terrible thought came into my mind.   
  > 突然一个可怕的念头出现在我的脑海。    
+
+## \#come / spring to mind
+1.**突然被记起 / 想起；**  
+
+ > When you think of a fearsome hunter, image of lions and sharks may spring to mind.  
+ > 当你想到一个可怕的捕猎者，狮子和鲨鱼的形象可能会立刻跃入脑海。  （译林新必修③ – 1）  
 
 ## \#have sb / sth in mind (for sth) 
 1.**(对某事) 心中有合适的人选 / 想做的事：**  
@@ -4134,24 +4537,19 @@ D. should
 
 真题解析
 ---
-1. — Why don’t you consider a trip to, say, Beijing or Hangzhou?
-— _______.  （2015 浙江）  
-A.I wouldn’t mind that  
-B.Then we’ll get there quickly  
-C.Let’s call it a day  
-D.It’s not a requirement  
-2. — Is Peter coming?
+1. — Is Peter coming?
 — No, he ________ (改变了主意) after a phone call at the last minute.  （2015 重庆改）  
-3. — Sorry I’m late. I got stuck in traffic.
+2. — Sorry I’m late. I got stuck in traffic.
 — ________. You’re here now. Come in and sit down.  （2012 山东）  
 A.You are welcome   
 B.That’s right  
 C. I have no idea  
 D.Never mind  
-4. Why don’t you just ________ (别管闲事) and leave me alone?  （2007 全国改）  
+3. Why don’t you just ________ (别管闲事) and leave me alone?  （2007 全国改）  
+4. He and his wife are________ the same mind; they both want their son to go to college.  
 
 答案：
-1. A  2. changed his mind  3. D  4. mind your own business  
+1. changed his mind  2. D  3. mind your own business  4. of  
 
 # ***\#minded*** adj
 英音 'maɪndɪd     美音 'maɪndɪd  
@@ -4165,19 +4563,16 @@ D.Never mind
  > **strong - minded**  
  > 坚持己见的；有主见的    
 
- > **single - minded**   
- > 一心一意的    
-
  > an **open-minded** man  
  > 心胸开阔的人    
+
+ > They want to enjoy relaxed time, with like-minded people.  
+ > 他们想和志同道合的人一起享受轻松的时光。    
 
 ### 2.*低义频：* **对…有兴趣的：**  
 
  > literary-minded children   
  > 对文学感兴趣的孩子    
-
- > They want to enjoy relaxed time, with **like-minded** people.   
- > 他们想和志趣相投的人一起享受轻松的时光。    
 
 
 # ***\#mine*** pron
@@ -4198,6 +4593,13 @@ D.Never mind
  > 那不是他的错，是我的错。    
 
 
+真题解析
+---
+1. This long and winding road "will never disappear", and it will always stick in the visitor's memory. It sure does in________ (I).  （2021新高考改）  
+
+答案：
+1. mine  
+
 # ***\#mine*** n
 英音 maɪn     美音 maɪn  
 
@@ -4209,11 +4611,11 @@ D.Never mind
 ---
 ### 1.*高义频：* **矿山；矿井；(知识等的) 宝库：**  
 
- > a mine of information  
- > 知识宝库    
-
  > a **gold mine**   
  > 金矿    
+
+ > a mine of information  
+ > 知识宝库    
 
 
 # ***\#mine*** v
@@ -4230,6 +4632,10 @@ D.Never mind
  > **mine for** gold   
  > 掘金    
 
+
+派生词汇
+---
+mining /ˈmaɪnɪŋ/ n   
 
 # ***\#miner*** n
 英音 'maɪnə(r)     美音 'maɪnər  
@@ -4266,6 +4672,26 @@ D.Never mind
  > 矿泉水    
 
 
+# ***\#mini-bar*** n
+英音 ˈmɪnibɑː(r)     美音 ˈmɪnibɑːr  
+
+  
+
+英文释义
+---
+### 1.**（旅馆中的）小冰箱**  
+
+
+# ***\#mini-break*** n
+
+
+  
+
+英文释义
+---
+### 1.**短假**  
+
+
 # ***\#mini-skirt*** n
 英音 'mɪniːskɜːt     美音 'mɪniːskɜːrt  
 
@@ -4298,6 +4724,16 @@ D.Never mind
 ### 1.*高义频：* **小型公共汽车**  
 
 
+# ***\#minicomputer*** n
+英音 'mɪnikəmpjuːtə(r)     美音 'mɪnikəmpjuːtər  
+
+  
+
+英文释义
+---
+### 1.**小型计算机；微型电脑**  
+
+
 # ***\#minimum*** n
 英音 'mɪnɪməm     美音 'mɪnɪməm  
 
@@ -4309,6 +4745,9 @@ D.Never mind
 
  > We have **a minimum of** 28 people living here in the winter and a maximum of 125 in the summer.   
  > 冬天我们最少有28人住在这里，夏天最多有125人。  （外研⑧ – 1）  
+
+ > **At a minimum**, we must hire three new teachers.  
+ > 我们最起码应该招三名新教师。    
 
 
 # ***\#minimum*** adj
@@ -4326,6 +4765,26 @@ D.Never mind
  > 最低要求    
 
 
+# ***\#mining*** n
+英音 ˈmaɪnɪŋ     美音 ˈmaɪnɪŋ  
+
+  
+
+英文释义
+---
+### 1.**采矿；采矿业**  
+
+
+# ***\#miniskirt*** n
+英音 'mɪniskɜːt     美音 'mɪniskɜːrt  
+
+  
+
+英文释义
+---
+### 1.**超短裙；迷你裙**  
+
+
 # ***\#minister*** n
 英音 'mɪnɪstə(r)     美音 'mɪnɪstər  
 
@@ -4335,7 +4794,7 @@ D.Never mind
 
 英文释义
 ---
-### 1.*高义频：* **大臣；部长：**  
+### 1.*高义频：* **部长；大臣：**  
 
  > the Prime Minister   
  > 首相；总理    
@@ -4368,7 +4827,7 @@ D.Never mind
 
 英文释义
 ---
-### 1.*高义频：* **较小 / 少的；轻微的**  
+### 1.*高义频：* **较小 / 少的；轻微的；次要的**  
 反义词 major 
 
  > **minor injury** / **illness**   
@@ -4376,6 +4835,18 @@ D.Never mind
 
  > Luckily it was only a minor problem.   
  > 幸运的是，那只是个小问题。    
+
+### 2.*低义频：* **（音乐）小调的；小音阶的**  
+
+
+# ***\#minor*** n
+英音 'maɪnə(r)     美音 'maɪnər  
+
+| 词频 1 | 口语 2 | 书面 2 | 阅读 3 |  
+
+英文释义
+---
+### 1.**（美国大学学科中的）辅修科 目；辅修课程**  
 
 
 # ***\#minority*** n
@@ -4440,7 +4911,7 @@ D.Never mind
 
 英文释义
 ---
-### 1.**减号，负号，缺点**  
+### 1.**负号；减号；缺点**  
 
 
 # ***\#minute*** n
@@ -4511,6 +4982,25 @@ D.Never mind
 1.**等一会儿； 等一下**  
 
 
+# ***\#miracle*** n
+英音 ˈmɪrəkl     美音 ˈmɪrəkl  
+
+  
+
+英文释义
+---
+### 1.**[用单数] [非正式用语] 奇迹；不平凡的事；意外的幸运事(wonder)：**  
+
+ > a **miracle cure / drug**  
+ > 有奇效的疗法 / 特效药    
+
+ > **perform / work miracles**  
+ > 创造奇迹；有奇效    
+
+ > **It's a miracle that** these buildings came through the war undamaged.  
+ > 这些建筑物历经战争却完好无损，真是个奇迹。    
+
+
 # ***\#mirror*** n
 英音 'mɪrə(r)     美音 'mɪrər  
 
@@ -4525,21 +5015,14 @@ D.Never mind
  > look at oneself **in the mirror**  
  > 照镜子    
 
- > a **wing mirror**   
- > 后视镜    
+ > a **wing mirror**  
+ > 后视镜（BrE）    
 
 ### 2.*高义频：* **[用单数] (真实的) 写照 (reflection)：**  
 
  > Dickens’ novels are **a mirror of** his times.  
  > 狄更斯的小说是他那个时代的写照。    
 
-
-真题解析
----
-1. Jenny spends hours in front of the ________ (镜子)!   （2006 全国）  
-
-答案：
-1. mirror  
 
 # ***\#mirror*** vt
 英音 'mɪrə(r)     美音 'mɪrər  
@@ -4557,6 +5040,16 @@ D.Never mind
  > 树木倒映在静静的湖水中。    
 
 
+# ***\#mirror-like*** adj
+英音 'mɪrərl'aɪk     美音 'mɪrərl'aɪk  
+
+  
+
+英文释义
+---
+### 1.**如镜面般的**  
+
+
 # ***\#misadventure*** n
 英音 ˌmɪsəd'ventʃə(r)     美音 ˌmɪsəd'ventʃər  
 
@@ -4564,7 +5057,17 @@ D.Never mind
 
 英文释义
 ---
-### 1.**事故，灾难**  
+### 1.**[C]&[U] [正式用语] 不幸；意外；事故**  
+
+
+# ***\#mischievous*** adj
+英音 'mɪstʃɪvəs     美音 'mɪstʃɪvəs  
+
+  
+
+英文释义
+---
+### 1.**调皮的；淘气的**  
 
 
 # ***\#miserable*** adj
@@ -4608,6 +5111,16 @@ D.Never mind
  > 祸不单行。    
 
 
+# ***\#misjudge*** v
+英音 ˌmɪsˈdʒʌdʒ     美音 ˌmɪsˈdʒʌdʒ  
+
+  
+
+英文释义
+---
+### 1.**对……判断错误；错看**  
+
+
 # ***\#mislead*** vt
 英音 ˌmɪs'liːd     美音 ˌmɪs'liːd  
 
@@ -4621,6 +5134,26 @@ D.Never mind
 
  > Don’t be misled by his words.   
  > 不要被他的话误导。    
+
+
+# ***\#misleading*** adj
+英音 ˌmɪsˈliːdɪŋ     美音 ˌmɪsˈliːdɪŋ  
+
+  
+
+英文释义
+---
+### 1.**使人产生误解的；误导人的**  
+
+
+# ***\#misprint*** n
+英音 ˈmɪsprɪnt     美音 ˈmɪsprɪnt  
+
+  
+
+英文释义
+---
+### 1.**印刷错误**  
 
 
 # ***\#misread*** vt
@@ -4700,7 +5233,7 @@ D.Never mind
 真题解析
 ---
 1. Cecily, I shall ________ (想念) our pleasant talks when you leave.  （2015 陕西）  
-2. We ________ (未赶上) the last bus and didn’t have any money for taxi, so we had to walk home.  （2006 全国改）  
+2. We ________ (未赶上) the last bus and didn’t have any money for taxi, so we had to walk home.  
 
 答案：
 1. miss  2. missed  
@@ -4720,6 +5253,22 @@ D.Never mind
  > 布朗小姐/玛丽·格林小姐    
 
 ### 2.*低义频：* **[对女服务员的称呼] 小姐；[对女老师的称呼] 老师**  
+
+
+# ***\#miss*** n
+英音 mɪs     美音 mɪs  
+
+| 词频 5 | 口语 3 | 书面 2 |  
+
+英文释义
+---
+### 1.**[C] 未击中；未得到；错过：**  
+
+ > He scored two goals and had another two **near misses**.  
+ > 他攻进两球，另有两球也险些破门。    
+
+ > A miss is as good as a mile.  
+ > 失之毫厘，差之千里。    
 
 
 # ***\#missile*** n
@@ -4760,7 +5309,7 @@ Notes: be missing表示状态；get lost表示动作。
 
 真题解析
 ---
-1. Police are now searching for a woman who is reported to ________ (miss) since the flood hit the area last Friday.   （2006 山东）  
+1. Police are now searching for a woman who is reported to ________ (miss) since the flood hit the area last Friday.  
 
 答案：
 1. have been missing  
@@ -4774,15 +5323,24 @@ Notes: be missing表示状态；get lost表示动作。
 
 英文释义
 ---
-### 1.*高义频：* **任务；使命：**  
+### 1.*低义频：* **（外交）使团；代表团；使馆**  
 
- > **a peacekeeping mission**  
- > 维和任务    
+### 2.*高义频：* **任务；使命**  
+英译 a task that sb has been sent to a place to do：
 
-### 2.*低义频：* **职责：**  
+ > a **peacekeeping mission / rescue mission**  
+ > 维和任务 / 救援任务    
+
+ > **mission accomplished**  
+ > 任务已完成    
+
+### 3.*低义频：* **职责**  
+英译 sth that you feel you must do because it is your duty：
 
  > His mission was to help young people in his local community.  
  > 他的职责是帮助当地社区的年轻人。    
+
+### 4.*低义频：* **传教（区）**  
 
 
 # ***\#mist*** n
@@ -4794,7 +5352,7 @@ Notes: be missing表示状态；get lost表示动作。
 
 英文释义
 ---
-### 1.*高义频：* **薄雾；霭：**  
+### 1.*高义频：* **薄雾；霭；水汽：**  
 
  > We could just **see** the outline of the house **through the mist**.  
  > 透过薄雾我们仅能看到房屋的轮廓。    
@@ -4823,14 +5381,11 @@ misty /'mɪsti/ adj
 
 #### 辨析 error, mistake, fault
   
-**error** 是正式用语，侧重指计算、书写等过程中出 现的“差错”以及计算机系统出现的错误，还可 指道德上的错误。常和介词 in 搭配。
-**mistake** 在日常英语中用得最为广泛。着重强调行 为或观点本身不正确而造成的“错误；失误”。 常和介词by 搭配。
-**fault** 指人性格上的弱点或行动上的“过失，过 错”，往往强调其应负的责任。用于物时指瑕 疵、毛病。
- > It's my fault that we missed the bus**It’s my fault that**  
+**error** 与mistake意义相近，但较为正式。
+**mistake** 在日常英语中用得最为广泛，指用词或数字上的错误、口误、笔误，也可指决定错误，强调“误”。
+**fault** 指对“过失”“过错”应负的责任，强调“过”。
+ > **It's my fault that** we missed the bus.  
  > 我们错过了汽车是我的错。    
-
- > For all its faults we love this city.  
- > 尽管有各种缺点，我们还是热爱这座城市。    
 
 
 
@@ -4877,11 +5432,21 @@ misty /'mɪsti/ adj
 ---
 ### 1.*高义频：* **错误的；误会的：**  
 
- > People are often mistaken in thinking that those with high IQs always have high EQs as well.   
- > 人们总是错误地以为智商高的人情商也会高。  （北师大⑤ – 13）  
-
  > **mistaken views** / **ideas**  
  > 错误的观点 / 想法    
+
+ > People are often mistaken in thinking that those with high IQs always have high EQs as well.  
+ > 人们总是错误地以为智商高的人情商也会高。  （北师大新选必③ – 7）  
+
+
+# ***\#mistreat*** v
+英音 ˌmɪsˈtriːt     美音 ˌmɪsˈtriːt  
+
+  
+
+英文释义
+---
+### 1.**虐待**  
 
 
 # ***\#mistress*** n
@@ -4892,6 +5457,26 @@ misty /'mɪsti/ adj
 英文释义
 ---
 ### 1.**女主人**  
+
+
+# ***\#mistrust*** v
+英音 ˌmɪsˈtrʌst     美音 ˌmɪsˈtrʌst  
+
+  
+
+英文释义
+---
+### 1.**不信任；不相信**  
+
+
+# ***\#mistrust*** n
+英音 ˌmɪsˈtrʌst     美音 ˌmɪsˈtrʌst  
+
+  
+
+英文释义
+---
+### 1.**不信任**  
 
 
 # ***\#misty*** adj
@@ -4939,6 +5524,16 @@ misunderstood /ˌmɪsʌndə'stʊd/ adj
 
  > clear up a misunderstanding   
  > 澄清误会    
+
+
+# ***\#misuse*** n
+英音 ˌmɪsˈjuːs     美音 ˌmɪsˈjuːs  
+
+  
+
+英文释义
+---
+### 1.**滥用；误用；错用**  
 
 
 # ***\#mix*** v
@@ -5001,23 +5596,6 @@ misunderstood /ˌmɪsʌndə'stʊd/ adj
  > 他的解释让我更糊涂了。    
 
 
-派生词汇
----
-mixture /'mɪkstʃə(r)/ n [C] & [U]  
- > Canada is a **mixture of** many cultures and races.  
- > 加拿大是一个多文化、多种族融合的国家。  （人教③ – 5）  
-
- > She felt a strange **mixture of** excitement and fear.  
- > 她有一种既兴奋又害怕的奇怪感觉。    
-
-mixed /mɪkst/ adj   
- > a mixed school  
- > 男女同校的学校    
-
- > **mixed feelings** / **emotions**  
- > 复杂的心情    
-
-
 # ***\#mix*** n
 英音 mɪks     美音 mɪks  
 
@@ -5029,18 +5607,18 @@ mixed /mɪkst/ adj
 ---
 ### 1.*高义频：* **混合；混合配料：**  
 
- > a good **mix of** people  
- > 一群形形色色的人    
+ > The UK is **a** fascinating **mix of** history and modern culture, with both new and old traditions.  
+ > 在英国，历史与现代文化交融，新旧传统并存，引人入胜。  （人教新必修② – 4）  
 
 
 派生词汇
 ---
 mixed /mɪkst/ adj   
- > **mixed feelings / emotions**  
- > 复杂的心情    
-
  > a mixed school  
  > 男女同校的学校    
+
+ > **mixed feelings / emotions**  
+ > 复杂的心情    
 
 
 # ***\#mixture*** n
@@ -5124,8 +5702,14 @@ mixed /mɪkst/ adj
 ---
 ### 1.*高义频：* **方式；运行方式；模式：**  
 
- > flight mode  
- > 飞行模式    
+ > a **mode of transport**  
+ > 运输方式    
+
+ > flight / energy-efficient mode  
+ > 飞行 / 节能模式    
+
+ > Devices in stand-by mode still use power, and older devices in this mode can use even more.  
+ > 处于待机模式的设备仍会耗电，而越旧的设备耗电越多。  （外研新必修② – 6）  
 
 
 # ***\#model*** n
@@ -5184,6 +5768,50 @@ mixed /mɪkst/ adj
 ### 1.*高义频：* **调制解调器**  
 
 
+# ***\#moderate*** vt
+英音 ˈmɒdərət     美音 ˈmɑːdərət  
+
+  
+
+英文释义
+---
+### 1.**vi&vt [正式用语] 缓和; 使适中**  
+
+
+派生词汇
+---
+moderation /ˌmɒdəˈreɪʃn/ n   
+
+# ***\#moderate*** adj
+英音 ˈmɒdərət     美音 ˈmɑːdərət  
+
+  
+
+英文释义
+---
+### 1.**适度的; 中等的; 温和的**  
+
+
+# ***\#moderation*** n
+英音 ˌmɒdəˈreɪʃn     美音 ˌmɑːdəˈreɪʃn  
+
+  
+
+英文释义
+---
+### 1.**适度; 合理**  
+
+
+# ***\#moderator*** n
+英音 ˈmɒdəreɪtə(r)     美音 ˈmɑːdəreɪtər  
+
+  
+
+英文释义
+---
+### 1.**主持人**  
+
+
 # ***\#modern*** adj
 英音 'mɒdn     美音 'mɑːdərn  
 
@@ -5215,6 +5843,18 @@ mixed /mɪkst/ adj
 英文释义
 ---
 ### 1.**现代的；当代的**  
+
+
+# ***\#modernism*** n
+英音 ˈmɒdənɪzəm     美音 ˈmɑːdərnɪzəm  
+
+  
+
+英文释义
+---
+### 1.**现代风格；现代派；现代主义**  
+
+### 2.**现代主义；现代思想（或方法）**  
 
 
 # ***\#modernize*** v
@@ -5249,7 +5889,7 @@ mixed /mɪkst/ adj
  > 她攒了一小笔钱。    
 
  > The living quarters are modest, with few luxuries, but cosy.  
- > 住处规模不大，也不奢华，但很舒适。  （外研⑧ – 1）  
+ > 住处规模不大，也不奢华，但很舒适。    
 
 
 # ***\#modify*** vt
@@ -5318,6 +5958,9 @@ mixed /mɪkst/ adj
 
  > I’m waiting for **the right moment** to tell him the bad news.   
  > 我正在等待适当的时机告诉他这个坏消息。    
+
+ > That was one of the happiest moments of my life.  
+ > 那是我一生中最快乐的一段时光。    
 
 
 固定搭配
@@ -5425,12 +6068,6 @@ mixed /mɪkst/ adj
  > 花钱 / 存钱    
 
 
-固定搭配
----
-## \#make money 
-1.**赚钱；获利**  
-
-
 # ***\#monitor*** n
 英音 'mɒnɪtə(r)     美音 'mɑːnɪtər  
 
@@ -5447,7 +6084,7 @@ mixed /mɪkst/ adj
 
 ### 2.*高义频：* **监视器；显示器：**  
 
- > the monitor of the computer   
+ > a computer monitor  
  > 计算机的显示器    
 
 
@@ -5458,10 +6095,13 @@ mixed /mɪkst/ adj
 
 英文释义
 ---
-### 1.*高义频：* **监控；监视：**  
+### 1.*高义频：* **监控；监视；监测；监督：**  
 
  > Scientists may be able to monitor the behaviour of sharks to predict bad weather.   
  > 科学家们也许可以监控鲨鱼的行为来预测坏天气。  （2008 天津）  
+
+ > You can ask your mum or dad to help monitor you and make sure that you are working for two hours after school every day.  
+ > 你可以让你的妈妈或爸爸帮忙监督你，确保你每天放学后学习两个小时。  （北师大新选必④ – 11）  
 
 
 # ***\#monk*** n
@@ -5496,6 +6136,16 @@ mixed /mɪkst/ adj
 英文释义
 ---
 ### 1.*高义频：* **怪兽；怪物；恶人**  
+
+
+# ***\#monstrous*** adj
+英音 ˈmɒnstrəs     美音 ˈmɑːnstrəs  
+
+  
+
+英文释义
+---
+### 1.**丑陋的；骇人的**  
 
 
 # ***\#month*** n
@@ -5578,14 +6228,14 @@ mixed /mɪkst/ adj
 
 英文释义
 ---
-### 1.**心情；情绪；心境 (spirits)：**  
+### 1.*高义频：* **情绪；心情：**  
 
 - in a good / bad mood:
 
  > Having been punished by his teacher, he was in a very bad mood.  
  > 由于受到老师的处罚，他心情很糟糕。    
 
- > Looking at green, growing things can **put** people into / in a better mood** into / in a better mood**  
+ > Looking at green, growing things can **put** people **into / in a better mood**.  
  > 看着绿色，生长的东西能使人心情更好。  （2019 全国改）  
 
 - be / feel in the / no mood for sth:
@@ -5597,6 +6247,13 @@ mixed /mɪkst/ adj
 
  > I’m not in the mood to talk about it now.  
  > 我现在没心情谈论这件事。    
+
+### 2.*高义频：* **[单数] 气氛；氛围：**  
+
+ > There's nothing like candlelight for creating a romantic mood.  
+ > 没有什么比烛光更能营造浪漫氛围了。    
+
+### 3.*低义频：* **[语法] （动词的）语气**  
 
 
 # ***\#moody*** adj
@@ -5667,13 +6324,16 @@ mixed /mɪkst/ adj
 
 英文释义
 ---
-### 1.*高义频：* **道德 (上) 的 【反 immoral】；道义上的：**  
+### 1.*高义频：* **道德 (上) 的 【反 immoral】；道义上的：品行端正的；有道德的：**  
 
  > **moral standards** / **questions**  
  > 道德标准 / 问题    
 
  > a moral victory / support  
  > 道义 / 精神上的胜利 / 支持    
+
+ > a moral person  
+ > 品行端正的人  （2021新高考）  
 
 
 # ***\#moral*** n
@@ -5780,6 +6440,12 @@ morally  /'mɒrəli/ adv
  > More and more people are using smart phones for information and entertainment.  
  > 越来越多的人在用智能手机获取信息和娱乐。    
 
+## \#more like
+1.**更像是；更接近：**  
+
+ > The robot seemed more like a human than a machine.  
+ > 这个机器人看着不太像机器，而更像一个真人。  （人教新选必④ – 1改）  
+
 ## \#more or less 
 1.**或多或少；几乎；差不多：**  
 
@@ -5858,12 +6524,12 @@ morally  /'mɒrəli/ adv
 
 真题解析
 ---
-1. If parents have children help with housework, the children will feel needed. ________ (更为重要的是), they will learn to take care of themselves.  （2013 安徽改）  
+1. What's most, doing housework can be a form of mentally relaxation from study.  （2021全国 改错）  
 2. Many people have donated that type of blood; however, the blood bank needs ________ (much).  （2012 北京改）  
 3. It took ________ (不止) building supplies to construct these energy-saving houses. It took brains, too.  （2009 浙江改）  
 
 答案：
-1. What’s more  2. more  3. more than  
+1. most→more; mentally→mental  2. more  3. more than  
 
 # ***\#moreover*** adv
 英音 mɔːr'əʊvə(r)     美音 mɔːr'oʊvər  
@@ -5880,6 +6546,16 @@ morally  /'mɒrəli/ adv
  > 我不喜欢溜冰；而且，这冰也太薄了。    
 
 
+# ***\#moribund*** adj
+英音 ˈmɒrɪbʌnd     美音 ˈmɔːrɪbʌnd  
+
+  
+
+英文释义
+---
+### 1.**垂死的，奄奄一息的**  
+
+
 # ***\#morning*** n
 英音 'mɔːnɪŋ     美音 'mɔːrnɪŋ  
 
@@ -5890,6 +6566,16 @@ morally  /'mɒrəli/ adv
 英文释义
 ---
 ### 1.*高义频：* **早晨；上午：**  
+
+
+# ***\#morsel*** n
+英音 'mɔːsl     美音 'mɔːrsl  
+
+  
+
+英文释义
+---
+### 1.**(尤指食物的) 一小片；小块**  
 
 
 # ***\#mosquito*** n
@@ -6032,6 +6718,16 @@ morally  /'mɒrəli/ adv
 ### 1.*高义频：* **母亲；妈妈 (mum)**  
 
 
+# ***\#mother*** v
+英音 ˈmʌðə(r)     美音 ˈmʌðər  
+
+| 词频 5 | 口语 3 | 书面 3 |  
+
+英文释义
+---
+### 1.**给以母亲的关爱；像母亲般地照顾**  
+
+
 # ***\#motherland*** n
 英音 'mʌðəlænd     美音 'mʌðərlænd  
 
@@ -6044,6 +6740,16 @@ morally  /'mɒrəli/ adv
 ### 1.*高义频：* **祖国**  
 
 
+# ***\#motherly*** adj
+英音 ˈmʌðəli     美音 ˈmʌðərli  
+
+  
+
+英文释义
+---
+### 1.**慈母般的；母亲的**  
+
+
 # ***\#motion*** n
 英音 'məʊʃn     美音 'moʊʃn  
 
@@ -6053,10 +6759,27 @@ morally  /'mɒrəli/ adv
 
 英文释义
 ---
-### 1.*高义频：* **动；运动；动作：**  
+### 1.*高义频：* **[C]&[U]（物体的）运动；动：**  
 
  > Newton’s laws of motion  
  > 牛顿(三大)运动定律    
+
+ > The doors are not to be used when the train is **in motion**.  
+ > 列车运行时，车门不能使用。    
+
+### 2.*高义频：* **[C]（示意）动作（gesture）**  
+
+ > Doyle glanced back at Bodie, and **made** a slight **motion with** his head.  
+ > 多伊尔回头看了看博迪，微微动了动头做了个示意。    
+
+
+固定搭配
+---
+## \#set / put sth in motion
+1.**使某事物开始：**  
+
+ > I thought a phone call to the right person might set the wheels in motion.  
+ > 我想打个电话给合适的人可能会使事情进展顺利。    
 
 
 # ***\#motivate*** vt
@@ -6080,6 +6803,26 @@ morally  /'mɒrəli/ adv
 motivated /'məʊtɪveɪtɪd/ adj   
  > After every run I feel fitter, happier and motivated to keep progressing.  
  > 每次跑步后，我都感到更健康、更快乐、更有动力继续前进。  （2011 湖南改）  
+
+
+# ***\#motivated*** adj
+英音 ˈməʊtɪveɪtɪd     美音 ˈməʊtɪveɪtɪd  
+
+  
+
+英文释义
+---
+### 1.**积极的; 主动的**  
+
+
+# ***\#motivating*** adj
+英音 məʊtɪveɪtŋ     美音 məʊtɪveɪtŋ  
+
+  
+
+英文释义
+---
+### 1.**起激励作用的；激发（人）的**  
 
 
 # ***\#motivation*** n
@@ -6108,6 +6851,19 @@ motivated /'məʊtɪveɪtɪd/ adj
 
 答案：
 1. for  
+
+# ***\#motive*** n
+英音 'məʊtɪv     美音 'moʊtɪv  
+
+  
+
+英文释义
+---
+### 1.**动机；目的；原因：**  
+
+ > Motivation means that you have a good **motive for** action.  
+ > 动力意味着你有一个好的行动动机。    
+
 
 # ***\#motor*** n
 英音 'məʊtə(r)     美音 'moʊtər  
@@ -6208,6 +6964,26 @@ motivated /'məʊtɪveɪtɪd/ adj
 ### 1.**霉，霉菌**  
 
 
+# ***\#mould*** v
+英音 məʊld     美音 moʊld  
+
+| 词频 1 |  
+
+英文释义
+---
+### 1.**浇铸；塑造**  
+
+
+# ***\#mound*** n
+英音 maʊnd     美音 maʊnd  
+
+  
+
+英文释义
+---
+### 1.**土堆，土丘**  
+
+
 # ***\#mount*** n
 英音 maʊnt     美音 maʊnt  
 
@@ -6287,6 +7063,16 @@ motivated /'məʊtɪveɪtɪd/ adj
  > 我们生活在西北山区。  （外研④ – 5）  
 
 
+# ***\#mountainside*** n
+英音 ˈmaʊntənsaɪd     美音 ˈmaʊntnsaɪd  
+
+  
+
+英文释义
+---
+### 1.**山坡**  
+
+
 # ***\#mountaintop*** n
 英音 'maʊntəntɒp     美音 'maʊntntɑːp  
 
@@ -6318,8 +7104,8 @@ motivated /'məʊtɪveɪtɪd/ adj
 ---
 ### 1.*高义频：* **哀悼；(对...) 感到悲伤：**  
 
- > All of Scotland **mourned Burns’s death**.   
- > 整个苏格兰都对彭斯的去世感到悲伤。  （ 译林⑧ – 1）  
+ > On 18 April 1955, Einstein had passed away, and the whole world mourned the great loss of a brilliant scientist.  
+ > 1955年4月18日，爱因斯坦与世长辞，全世界都在哀悼一代科学巨星的陨落。  （人教新选必① – 1改）  
 
  > London is very different today, and few people **mourn the passing** of the old city.   
  > 如今伦敦焕然一新，很少有人为旧城的消失而感到遗憾。  （外研⑦ – 3）  
@@ -6377,6 +7163,18 @@ mouthful /'maʊθfʊl/ n [C]
  > 他每一口都吃得津津有味。  （人教④ – 3）  
 
 
+# ***\#mouth*** v
+英音 maʊθ     美音 maʊθ  
+
+| 词频 4 | 口语 2 | 书面 3 |  
+
+英文释义
+---
+### 1.**（动嘴唇）不出声地说**  
+
+### 2.**言不由衷地说**  
+
+
 # ***\#mouthful*** n
 英音 'maʊθfʊl     美音 'maʊθfʊl  
 
@@ -6419,8 +7217,8 @@ mouthful /'maʊθfʊl/ n [C]
 
 ### 2.*高义频：* **迁移；搬家：**  
 
- > When are you **moving to** New York?   
- > 你什么时候搬到纽约去？    
+ > When I was 15, my family **moved to** Washington.  
+ > 我15岁的时候，我们全家搬到了华盛顿。  （2021全国）  
 
  > **move house / home**   
  > 搬家    
@@ -6488,6 +7286,16 @@ mov(e)able /'muːvəbl/ adj
 英文释义
 ---
 ### 1.*高义频：* **可移动的；活动的**  
+
+
+# ***\#moved*** adj
+英音 muːvd     美音 muːvd  
+
+  
+
+英文释义
+---
+### 1.**感动的**  
 
 
 # ***\#movement*** n
@@ -6560,19 +7368,12 @@ mov(e)able /'muːvəbl/ adj
 ---
 ### 1.*高义频：* **许多的；大量的：**  
 
- > There was **so much** food that we couldn’t eat it all.  
- > 食物太多了，我们根本吃不完。    
-
  > I hope the change will not cause you **too much** trouble.  
  > 我希望这个变化不会给你带来太多麻烦。  （2016 全国书面表达）  
 
+ > There was **so much** food that we couldn’t eat it all.  
+ > 食物太多了，我们根本吃不完。    
 
-真题解析
----
-1. He doesn’t have many furniture in his room — just an old desk.  （2008 陕西改 改错）  
-
-答案：
-1. many → much  
 
 # ***\#much*** pron
 英音 mʌtʃ     美音 mʌtʃ  
@@ -6688,20 +7489,20 @@ mov(e)able /'muːvəbl/ adj
 
 真题解析
 ---
-1. I wanted to be a teacher because I liked my English teacher too much.  （2019全国  改错）  
-2. — What did you do last weekend?
+1. The data is about the moon's composition, such as how________ ice and other treasures it contains.  （2020全国改）  
+2. I wanted to be a teacher because I liked my English teacher too much.  （2019全国  改错）  
+3. — What did you do last weekend?
 — Oh, ________ (没什么).  （2014 全国改）  
-3. It’s high time you had your hair cut; it’s getting ________. 
+4. It’s high time you had your hair cut; it’s getting ________. 
   （2009 全国）  
 A.too much long  
 B.much too long  
 C.long too much  
 D.too long much  
-4. Usually John would be late for meetings. But this time, ________ (令我非常吃惊的是), he arrived on time.  （2009 北京改）  
-5. He doesn’t have many furniture in his room — just an old desk.  （2008 陕西改  改错）  
+5. Usually John would be late for meetings. But this time, ________ (令我非常吃惊的是), he arrived on time.  （2009 北京改）  
 
 答案：
-1. too → very / so  2. nothing / not much  3. B  4. much to my surprise  5. many → much  
+1. much  2. too → very / so  3. nothing / not much  4. B  5. much to my surprise  
 
 # ***\#mud*** n
 英音 mʌd     美音 mʌd  
@@ -6759,6 +7560,16 @@ D.too long much
 ### 1.*高义频：* **(对...) 行凶抢劫；(拍照时) 做鬼脸**  
 
 
+# ***\#mulberry*** n
+英音 ˈmʌlbəri     美音 ˈmʌlberi  
+
+  
+
+英文释义
+---
+### 1.**桑葚；桑树**  
+
+
 # ***\#multi-cultural*** adj
 英音 ˌmʌltɪ'kʌltʃərəl     美音 ˌmʌltɪ'kʌltʃərəl  
 
@@ -6767,6 +7578,16 @@ D.too long much
 英文释义
 ---
 ### 1.**多种文化的**  
+
+
+# ***\#multi-purpose*** adj
+英音 multi-purpose     美音 ˌmʌltiˈpɜːrpəs  
+
+  
+
+英文释义
+---
+### 1.**多功能的；多用途的**  
 
 
 # ***\#multicultural*** adj
@@ -6779,6 +7600,36 @@ D.too long much
 ### 1.*高义频：* **多元文化的；多文化融合的**  
 
 
+# ***\#multimedia*** adj
+英音 ˌmʌltiˈmiːdiə     美音 ˌmʌltiˈmiːdiə  
+
+  
+
+英文释义
+---
+### 1.**多媒体的**  
+
+
+# ***\#multinational*** adj
+英音 ˌmʌltiˈnæʃnəl     美音 ˌmʌltiˈnæʃnəl  
+
+  
+
+英文释义
+---
+### 1.**跨国公司的；多国的**  
+
+
+# ***\#multinational*** n
+英音 ˌmʌltiˈnæʃnəl     美音 ˌmʌltiˈnæʃnəl  
+
+  
+
+英文释义
+---
+### 1.**跨国公司**  
+
+
 # ***\#multiple*** adj
 英音 'mʌltɪpl     美音 'mʌltɪpl  
 
@@ -6786,7 +7637,7 @@ D.too long much
 
 英文释义
 ---
-### 1.*高义频：* **多个 (人 / 事件 / 物组成) 的**  
+### 1.*高义频：* **多个 (人 / 事件 / 物组成) 的；数量多的**  
 
 
 # ***\#multiple*** n
@@ -6799,6 +7650,16 @@ D.too long much
 英文释义
 ---
 ### 1.*高义频：* **倍数**  
+
+
+# ***\#multiplication*** n
+英音 ˌmʌltɪplɪˈkeɪʃn     美音 ˌmʌltɪplɪˈkeɪʃn  
+
+  
+
+英文释义
+---
+### 1.**乘；相乘；增加**  
 
 
 # ***\#multiply*** v
@@ -6822,6 +7683,16 @@ D.too long much
 
  > Microorganisms multiply rapidly in dirty places and in warm temperatures.  
  > 微生物在肮脏的地方和温暖的环境下繁殖迅速。  （2010 广东）  
+
+
+# ***\#multitask*** v
+英音 ˌmʌltiˈtɑːsk     美音 ˌmʌltiˈtæsk  
+
+  
+
+英文释义
+---
+### 1.**同时执行多项任务**  
 
 
 # ***\#mummy*** n
@@ -6908,16 +7779,26 @@ murderer /'mɜːdərə(r)/ n [C]
 ---
 ### 1.*高义频：* **肌肉：**  
 
- > When you walk you exercise your leg muscles.  
- > 走路能锻炼腿部肌肉。    
-
  > strengthen / build up muscles  
  > 增强肌肉    
+
+ > When you walk you exercise your leg muscles.  
+ > 走路能锻炼腿部肌肉。    
 
 ### 2.*低义频：* **体力；力气：**  
 
  > muscle labour   
  > 力气活    
+
+
+# ***\#muscular*** adj
+英音 ˈmʌskjələ(r)     美音 ˈmʌskjələr  
+
+  
+
+英文释义
+---
+### 1.**肌肉的；强壮的**  
 
 
 # ***\#museum*** n
@@ -6954,6 +7835,16 @@ murderer /'mɜːdərə(r)/ n [C]
 ### 1.*高义频：* **快速成长；迅速发展**  
 
 
+# ***\#mushy*** adj
+英音 ˈmʌʃi     美音 ˈmʌʃi  
+
+  
+
+英文释义
+---
+### 1.**糊状的；软而稠的**  
+
+
 # ***\#music*** n
 英音 'mjuːzɪk     美音 'mjuːzɪk  
 
@@ -6963,13 +7854,16 @@ murderer /'mɜːdərə(r)/ n [C]
 
 英文释义
 ---
-### 1.*高义频：* **音乐；乐曲：**  
+### 1.*高义频：* **音乐；乐曲；乐谱：**  
 
  > **a piece of music**  
  > 一首乐曲    
 
  > turn up / down the music   
  > 调高/低音乐    
+
+ > I'm not a trained musician, but I've learnt to **read music**.  
+ > 我并不是受过训练的音乐家，但我学会了识谱。  （2021新高考）  
 
 
 # ***\#musical*** adj
@@ -6994,7 +7888,7 @@ murderer /'mɜːdərə(r)/ n [C]
 
 英文释义
 ---
-### 1.*高义频：* **音乐喜剧；(电影) 音乐片**  
+### 1.*高义频：* **音乐剧；(电影) 音乐片**  
 
 
 # ***\#musician*** n
@@ -7069,24 +7963,15 @@ Notes: must表示推测时，一般用于肯定句。
 
 真题解析
 ---
-1. — Can’t you stay a little longer?
-— It’s getting late. I really __________ go now. My daughter is home alone.  （2015 北京）  
-A.may  
-B.can  
-C.must  
-D.dare  
-2. You _________ be Carol. You haven’t changed a bit after all these years.  （2015 重庆改）  
-3. — I spent two weeks in London last summer.
+1. While you're in China, Mount Huangshan is________ must to visit !  （2021新高考）  
+2. I like eating fried tomatoes with eggs, and I thought it must to be easy to cook.  （2020全国 改错）  
+3. You _________ be Carol. You haven’t changed a bit after all these years.  （2015 重庆改）  
+4. — I spent two weeks in London last summer.
 — Then you must have visited the British Museum during your stay, ________ you?  （2014 重庆改）  
-4. Since nobody gave him any help, he ________ have done the research on his own.  （2013 全国改）  
-5. Doctors say that exercise is important for health, but it ________ be regular exercise.  （2010 辽宁）  
-A.can  
-B.will  
-C.must  
-D.may  
+5. Since nobody gave him any help, he ________ have done the research on his own.  （2013 全国改）  
 
 答案：
-1. C  2. must  3. didn’t  4. must  5. C  
+1. a  2. 去掉must后的to  3. must  4. didn’t  5. must  
 
 # ***\#must*** n
 英音 mʌst     美音 mʌst  
@@ -7115,6 +8000,16 @@ D.may
 ### 1.*高义频：* **芥末；芥末酱**  
 
 
+# ***\#mutt*** n
+英音 mʌt     美音 mʌt  
+
+  
+
+英文释义
+---
+### 1.**杂种狗**  
+
+
 # ***\#mutton*** n
 英音 'mʌtn     美音 'mʌtn  
 
@@ -7136,7 +8031,7 @@ D.may
 ---
 ### 1.*高义频：* **相互的；共同的：**  
 
- > **mutual** efforts / **support**  
+ > **mutual efforts / support**  
  > 共同的努力/相互的支持    
 
 
@@ -7220,7 +8115,9 @@ D.may
 
 英文释义
 ---
-### 1.**神话；神话故事**  
+### 1.*高义频：* **（古代的）神话(legend)**  
+
+### 2.*高义频：* **虚构的故事 / 理论 / 信念等**  
 
 
 # ***\#mythology*** n
@@ -7230,6 +8127,6 @@ D.may
 
 英文释义
 ---
-### 1.**神话**  
+### 1.**[U]&[C] 神话；虚幻的想法**  
 
 

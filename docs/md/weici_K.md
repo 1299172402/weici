@@ -24,6 +24,16 @@
 ### 1.*高义频：* **卡拉OK录音；自动伴奏录音**  
 
 
+# ***\#kayaking*** n
+英音 'kaɪækɪŋ     美音 'kaɪækɪŋ  
+
+  
+
+英文释义
+---
+### 1.**[U] 皮划艇（运动）**  
+
+
 # ***\#kebab*** n
 英音 kɪ'bæb     美音 kɪ'bæb  
 
@@ -31,7 +41,10 @@
 
 英文释义
 ---
-### 1.*高义频：* **(= kabob) (印度) 烤腌羊肉串；肉串上的肉块**  
+### 1.*高义频：* **[C] 烤肉串**  
+
+ > lamb kebabs  
+ > 烤羊肉串    
 
 
 # ***\#keen*** adj
@@ -77,15 +90,15 @@
 
 英文释义
 ---
-### 1.*高义频：* **(使) 保持：**  
+### 1.*高义频：* **[ 系动词 ] (使) 保持：**  
 
 - keep (sb / sth) + adj / adv / prep:
 
  > The best way to **keep fit** is to get plenty of exercise by doing sports.   
  > 保持健康的最佳方法是通过体育活动获得大量的锻炼。  （2011 福建）  
 
- > We should keep the earth healthy while using its supply of natural resources.   
- > 利用自然资源的同时，我们应该使地球保持健康。  （2011 广东）  
+ > He kept his coat on.  
+ > 他一直穿着大衣。    
 
  > To make it easier to get in touch with us, you'd better keep this card at hand.  
  > 为了更方便联系我们，你最好把这张名片放在手边。  （2016 北京）  
@@ -132,11 +145,17 @@
 
 固定搭配
 ---
+## \#keep away (form)
+1.**避免接近；远离：**  
+
+ > Keep away from the edge of the cliff.  
+ > 切莫靠近悬崖边。    
+
 ## \#keep (on) doing sth 
 1.**持续做某事；反复做某事：**  
 
  > She pretended not to hear, and kept on walking.  
- > 她假装没听见，继续往前走。  （2008 山东）  
+ > 她假装没听见，继续往前走。    
 
 ## \#keep ... from doing sth
 1.**阻止…做某事：**  
@@ -165,9 +184,6 @@
 ## \#keep on 
 1.**继续下去**  
 英译 to continue：
-
- > I'm happy to just keep on until it is finished.  
- > 我乐意继续做下去，直到完成任务。  （2008 上海）  
 
  > The rain kept on for several days.   
  > 雨一连下了好几天。    
@@ -206,13 +222,13 @@
  > 希望我没有耽误你睡觉。    
 
 ## \#keep up with 
-1.**跟上：**  
+1.**跟上；了解（消息 / 形势等）：**  
 
- > Jack has trouble keeping up with the rest of the class.  
- > 杰克很难跟上班里的其他同学。    
+ > I'm a bit worried about keeping up with the other students in my advanced courses.  
+ > 我有点担心在高级课程上无法跟上其他同学。  （人教新必修① – 1）  
 
- > I had to walk fast to keep up with him.  
- > 我要快走才能跟上他。    
+ > I've always kept up with the newspapers which is an invaluable help to me in news reporting.  
+ > 我一直坚持阅读报纸，这对我做新闻报道有莫大的帮助。  （2019全国）  
 
 
 派生词汇
@@ -230,10 +246,20 @@ A.keep
 B.fit  
 C.get  
 D.last  
-4. Would you slow down a bit, please? I can't keep up ________ you.   （2001 京蒙皖春改）  
+4. Would you slow down a bit, please? I can't keep up ________ you.  
 
 答案：
 1. up  2. running  3. A  4. with  
+
+# ***\#keeper*** n
+英音 ˈkiːpə(r)     美音 ˈkiːpər  
+
+  
+
+英文释义
+---
+### 1.**看守者；（动物园等的）管理员；（商店、客栈等的）经营人**  
+
 
 # ***\#kettle*** n
 英音 'ketl     美音 'ketl  
@@ -395,6 +421,16 @@ D.last
 ### 1.*高义频：* **小孩；小伙子**  
 
 
+# ***\#kidnap*** v
+英音 ˈkɪdnæp     美音 ˈkɪdnæp  
+
+  
+
+英文释义
+---
+### 1.**劫持；绑架**  
+
+
 # ***\#kidney*** n
 英音 'kɪdni     美音 'kɪdni  
 
@@ -413,9 +449,6 @@ D.last
 英文释义
 ---
 ### 1.*高义频：* **杀死；致死：**  
-
- > Luckily nobody was killed in that incident.   
- > 幸运的是，那次事件中无人丧生。    
 
  > Kill two birds with one stone.   
  > 一箭双雕。    
@@ -537,7 +570,7 @@ killing /'kɪlɪŋ/ n [C]
 ### 1.*高义频：* **仁慈的；友爱的；好意的：**  
 
  > **It was** really very **kind of you** to give me a lift home.  
- > 你让我搭便车回家，真是太好了。  （ ）  
+ > 你让我搭便车回家，真是太好了。    
 
  > To avoid conflicts, we should be **kind to** one another.  
  > 为了避免冲突，我们应该友好相待。  （2012 江苏书面表达改）  
@@ -563,13 +596,9 @@ killing /'kɪlɪŋ/ n [C]
 ---
 ### 1.*高义频：* **幼儿园**  
 
+ > Callie will start kindergarten in September.  
+ > 凯莉将于九月开始上幼儿园。  （2009全国）  
 
-真题解析
----
-1. Callie will start  ________ ( 幼儿园) in September.   （2009 全国）  
-
-答案：
-1. kindergarten  
 
 # ***\#kindly*** adv
 英音 'kaɪndli     美音 'kaɪndli  
@@ -636,8 +665,8 @@ killing /'kɪlɪŋ/ n [C]
 ---
 ### 1.*高义频：* **vt & vi 吻；亲：**  
 
- > She kissed her baby on the cheek.   
- > 她在宝宝的脸上亲了一下。    
+ > In countries like France and Russia, people may **kiss** their friends **on the cheek** when they meet.  
+ > 在法国、俄罗斯等国，朋友见面时会相互亲吻脸颊。  （人教新选必① – 4）  
 
  > **kiss sb good night / goodbye**   
  > 与某人亲吻道晚安/说再见    
@@ -726,6 +755,16 @@ killing /'kɪlɪŋ/ n [C]
 ### 1.*高义频：* **小猫**  
 
 
+# ***\#kiwi*** n
+英音 'kiːwiː     美音 'kiːwiː  
+
+  
+
+英文释义
+---
+### 1.**几维（新西兰鸟）**  
+
+
 # ***\#knee*** n
 英音 niː     美音 niː  
 
@@ -736,9 +775,6 @@ killing /'kɪlɪŋ/ n [C]
 英文释义
 ---
 ### 1.*高义频：* **膝盖：**  
-
- > **on one's knee**  
- > 在某人膝上    
 
  > be / fall on one's knees  
  > 跪着/跪下    
@@ -776,6 +812,36 @@ killing /'kɪlɪŋ/ n [C]
 英文释义
 ---
 ### 1.**（英国的）爵士封号或头衔**  
+
+
+# ***\#knit*** n
+英音 nɪt     美音 nɪt  
+
+  
+
+英文释义
+---
+### 1.**[C] [ 常用复数 ]编织的衣服；针织衫**  
+
+
+# ***\#knit*** v
+英音 nɪt     美音 nɪt  
+
+  
+
+英文释义
+---
+### 1.**编织；针织；(使)紧密结合**  
+
+
+# ***\#knob*** n
+英音 nɒb     美音 nɑːb  
+
+  
+
+英文释义
+---
+### 1.**旋钮；球形把手**  
 
 
 # ***\#knock*** v
@@ -837,6 +903,12 @@ killing /'kɪlɪŋ/ n [C]
  > Roy’s father was knocked over by a car.   
  > 罗伊的爸爸被车撞倒了。  （外研⑥ – 3）  
 
+## \#knock sb off one's feet
+1.**撞倒某人；使某人双脚离地：**  
+
+ > A car shot past,nearly knocking me off my feet.  
+ > 突然一辆车疾驰而过，差一点把我撞倒。  （译林新必修③ – 3）  
+
 
 # ***\#knock*** n
 英音 nɒk     美音 nɑːk  
@@ -875,7 +947,7 @@ killing /'kɪlɪŋ/ n [C]
 
 英文释义
 ---
-### 1.**[不用于进行时] 知道；懂得：**  
+### 1.*高义频：* **[不用于进行时] 知道；懂得：**  
 
  > **as far as I know**  
  > 据我所知    
@@ -892,7 +964,7 @@ killing /'kɪlɪŋ/ n [C]
  > 我完全理解她的意思。    
 
  > I didn't know what to do, standing on the platform, embarrassed.  
- > 我尴尬地站在台上，不知道该怎么办。  （2009 湖南书面表达改）  
+ > 我尴尬地站在台上，不知道该怎么办。    
 
 - know sb / sth to be:
 
@@ -904,7 +976,7 @@ killing /'kɪlɪŋ/ n [C]
  > It is widely known that books are the source of knowledge.  
  > 众所周知，书籍是知识的来源。    
 
-### 2.**认识：**  
+### 2.*高义频：* **认识：**  
 
  > Sometimes I felt lonely because I hardly knew any people.  
  > 有时我感到孤单，因为我几乎不认识什么人。  （2011 广东书面表达改）  
@@ -915,11 +987,8 @@ killing /'kɪlɪŋ/ n [C]
 ## \#be known as 
 1.**以…而出名；被称作；被认为：**  
 
- > Detroit was known as the automobile capital of the world.   
- > 底特律曾被认为是世界汽车之都。    
-
- > Today he is well known as a writer.   
- > 如今他是一个很有名气的作家。    
+ > Shaanxi History Museum is known as a "Chinese treasure house"!  
+ > 陕西历史博物馆被誉为“中国国库”！  （人教新必修① – 2改）  
 
 ## \#be known for 
 1.**因…而闻名 (be famous for)：**  
@@ -947,6 +1016,36 @@ killing /'kɪlɪŋ/ n [C]
 
  > I don't know him, but I know of him.  
  > 我不认识他，但听说过他。    
+
+
+# ***\#know-all*** n
+英音 ˈnəʊ ɔːl     美音 ˈnəʊ ɔːl  
+
+| 词频 1 |  
+
+英文释义
+---
+### 1.**自以为无所不知的人；百事通**  
+
+
+# ***\#know-how*** n
+
+
+  
+
+英文释义
+---
+### 1.**专门知识；技能；实际经验**  
+
+
+# ***\#knowingly*** adv
+英音 ˈnəʊɪŋli     美音 ˈnəʊɪŋli  
+
+  
+
+英文释义
+---
+### 1.**故意地；蓄意地(deliberately)**  
 
 
 # ***\#knowledge*** n
@@ -982,12 +1081,26 @@ Notes: “学到知识”不说learn / get knowledge，而说 gain / obtain / ac
 1.**据某人所知**  
 
 
+派生词汇
+---
+knowledgeable /'nɒlɪdʒəbl/ adj   
+
 真题解析
 ---
 1. If we go on a trip abroad, we can broaden our view and gain knowledges we cannot get from books.  （2016 全国 改错）  
 
 答案：
 1. knowledges → knowledge  
+
+# ***\#knowledgeable*** adj
+英音 'nɒlɪdʒəbl     美音 'nɑːlɪdʒəbl  
+
+  
+
+英文释义
+---
+### 1.**博学的；有见识的**  
+
 
 # ***\#knuckle*** n
 英音 'nʌkl     美音 'nʌkl  

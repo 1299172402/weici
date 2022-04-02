@@ -1,5 +1,15 @@
 # Gg
 
+# ***\#gable*** n
+英音 'ɡeɪbl     美音 'ɡeɪbl  
+
+  
+
+英文释义
+---
+### 1.**[C]山墙；三角墙**  
+
+
 # ***\#gadget*** n
 英音 'ɡædʒɪt     美音 'ɡædʒɪt  
 
@@ -45,9 +55,6 @@
  > **There's nothing to be gained** by losing your temper.  
  > 发脾气无济于事。    
 
- > Trust is a learned behavior that we **gain from** past experiences.  
- > 信任是一种我们从以往的经历中获得的习得行为。    
-
  > We **gain from** cutting trees but we will suffer much more than we will benefit.  
  > 砍伐树木有利可图，但是我们日后为此付出的代价远大于从中得到的好处。  （2009 安徽）  
 
@@ -89,12 +96,6 @@
  > He will do anything **for gain**.  
  > 为了获利他不择手段。    
 
- > illegal gains  
- > 非法所得    
-
- > personal gain  
- > 个人利益/私利    
-
 ### 2.*高义频：* **增加**  
 反义词 loss 
 
@@ -112,7 +113,10 @@
 
 英文释义
 ---
-### 1.**星系**  
+### 1.**[C]星系：**  
+
+ > **the Galaxy**  
+ > 银河；银河系    
 
 
 # ***\#gallery*** n
@@ -183,6 +187,16 @@
  > 奥林匹克运动会    
 
 
+# ***\#game-changing*** adj
+英音 ˈɡeɪm tʃeɪndʒɪŋ     美音 ˈɡeɪm tʃeɪndʒɪŋ  
+
+  
+
+英文释义
+---
+### 1.**改变游戏规则的(指彻底改变事态发展的)**  
+
+
 # ***\#gang*** n
 英音 ɡæŋ     美音 ɡæŋ  
 
@@ -208,9 +222,6 @@
 英文释义
 ---
 ### 1.*高义频：* **缺口；间隔；差距；分歧：**  
-
- > Today, the **generation gap** has not disappeared, but it is getting narrow in many families.  
- > 如今，代沟并没有消失，但它在许多家庭中正逐渐缩小。  （2008 广东）  
 
  > the **generation gap**  
  > 代沟    
@@ -265,14 +276,21 @@
 ---
 ### 1.*高义频：* **(花、菜、果) 园；庭园；[常用复数] 公园**  
 
- > a **front / back garden**  
- > 前/后花园    
-
 
 派生词汇
 ---
 gardener /'ɡɑːdnə(r)/ n [C]  
 gardening /'ɡɑːdnɪŋ/ n [U]  
+
+# ***\#gardening*** n
+英音 'ɡɑːdnɪŋ     美音 'ɡɑːdnɪŋ  
+
+  
+
+英文释义
+---
+### 1.**园艺（学）**  
+
 
 # ***\#garlic*** n
 英音 'ɡɑːlɪk     美音 'ɡɑːrlɪk  
@@ -343,6 +361,16 @@ Notes: 在日常生活中，表达“一件衣服”用a piece of clothing。
  > 通往成功的大门    
 
 
+# ***\#gateway*** n
+英音 'ɡeɪtweɪ     美音 'ɡeɪtweɪ  
+
+  
+
+英文释义
+---
+### 1.**[C]门口；门道；门户； 途径**  
+
+
 # ***\#gather*** v
 英音 'ɡæðə(r)     美音 'ɡæðər  
 
@@ -358,6 +386,9 @@ Notes: 在日常生活中，表达“一件衣服”用a piece of clothing。
  > He soon **gathered** a crowd **round** him.  
  > 他很快就招拢来一群人。    
 
+ > In the evenings, the whole family would **gather around** the fire.  
+ > 晚上，一家人聚在火炉边。    
+
  > We'll gather at the Students'  Club at 8 p.m. this Friday.  
  > 我们本周五晚上8点在学生俱乐部集合。  （2012 全国书面表达）  
 
@@ -369,10 +400,10 @@ Notes: 在日常生活中，表达“一件衣服”用a piece of clothing。
  > Bees gather honey.  
  > 蜜蜂采蜜。    
 
-### 3.*低义频：* **vt 增加；vi 渐增；积聚：**  
+ > The harvest festival takes place after all the crops have been gathered in.  
+ > 丰收节在所有的庄稼收割完毕后举行。  （人教新必修③ –1改）  
 
- > **gather** one's **strength**  
- > 积蓄力量    
+### 3.*低义频：* **vt 增加；vi 渐增；积聚：**  
 
  > The train was **gathering speed**.  
  > 火车渐渐提速。    
@@ -395,6 +426,16 @@ gathering /'ɡæðərɪŋ/ n [C]
 ### 1.**采集者**  
 
 
+# ***\#gathering*** n
+英音 ˈɡæðərɪŋ     美音 ˈɡæðərɪŋ  
+
+  
+
+英文释义
+---
+### 1.**聚会**  
+
+
 # ***\#gay*** adj
 英音 ɡeɪ     美音 ɡeɪ  
 
@@ -403,6 +444,16 @@ gathering /'ɡæðərɪŋ/ n [C]
 英文释义
 ---
 ### 1.*高义频：* **(男) 同性恋的；[已过时] 快乐的；愉快的**  
+
+
+# ***\#gaze*** vi
+英音 ɡeɪz     美音 ɡeɪz  
+
+  
+
+英文释义
+---
+### 1.**凝视，盯着看；注视**  
 
 
 # ***\#gear*** n
@@ -415,6 +466,16 @@ gathering /'ɡæðərɪŋ/ n [C]
 英文释义
 ---
 ### 1.*高义频：* **(汽车等的) 排挡；挡位**  
+
+
+# ***\#gear*** vt
+英音 ɡiə(r)     美音 ɡɪr  
+
+| 词频 1 | 口语 1 |  
+
+英文释义
+---
+### 1.**使适合于**  
 
 
 # ***\#gem*** n
@@ -488,12 +549,6 @@ gathering /'ɡæðərɪŋ/ n [C]
 
  > a **general hospital**  
  > 综合医院    
-
- > general knowledge  
- > 常识    
-
- > We want the general public to get involved.  
- > 我们希望大众都参与进来。  （外研⑦ – 6）  
 
  > ****The quiz contains 200 questions in 3 classifications — **general knowledge**, sport and history.  
  > 测验含三个类别共200道题，有常识题、有关体育和历史的题。    
@@ -576,7 +631,7 @@ gathering /'ɡæðərɪŋ/ n [C]
 
 真题解析
 ---
-1. ________ (一般来说), the more expensive the camera, the better its quality.  （2005全国改）  
+1. ________ (一般来说), the more expensive the camera, the better its quality.  
 
 答案：
 1. Generally speaking / In general  
@@ -659,13 +714,6 @@ gathering /'ɡæðərɪŋ/ n [C]
 generosity /ˌdʒenə'rɒsəti/ n [U]  
 generously /'dʒenərəsli/ adv   
 
-真题解析
----
-1. He didn't selfishly keep for himself the money inherited from his uncle. Instead, he made a(n) __________ (慷慨的) contribution to help the community.  （2013 湖北改）  
-
-答案：
-1. generous  
-
 # ***\#genetic*** adj
 英音 dʒə'netɪk     美音 dʒə'netɪk  
 
@@ -723,6 +771,29 @@ generously /'dʒenərəsli/ adv
 
 ### 2.*高义频：* **天才人物**  
 
+ > Einstein was not only a genius; he was a courageous and kind figure loved by many people.  
+ > 爱因斯坦不仅是个天才，他还是一个勇敢、善良的人，受到许多人的爱戴。  （人教新选必① – 1）  
+
+
+# ***\#genome*** n
+英音 ˈdʒiːnəʊm     美音 ˈdʒiːnəʊm  
+
+  
+
+英文释义
+---
+### 1.**基因组，染色体组**  
+
+
+# ***\#genre*** n
+英音 ˈʒɒ̃rə,ˈʒɒnrə     美音 ˈʒɑːnrə  
+
+  
+
+英文释义
+---
+### 1.**(艺术、写作、音乐等的) 类型，体裁**  
+
 
 # ***\#gentle*** adj
 英音 'dʒentl     美音 'dʒentl  
@@ -742,7 +813,15 @@ generously /'dʒenərəsli/ adv
 
 派生词汇
 ---
+gentleness /'dʒentlnəs/ n   
 gently /'dʒentli/ adv   
+
+真题解析
+---
+1. As the small boat moved___________ (gentle) along the river he was left speechless by the mountains being silently reflected in the water.  （2020全国）  
+
+答案：
+1. gently  
 
 # ***\#gentleman*** n
 英音 'dʒentlmən     美音 'dʒentlmən  
@@ -756,6 +835,26 @@ gently /'dʒentli/ adv
 ### 1.*高义频：* **绅士；君子；先生**  
 
 
+# ***\#gentleness*** n
+英音 'dʒentlnəs     美音 'dʒentlnəs  
+
+  
+
+英文释义
+---
+### 1.**和蔼；温和**  
+
+
+# ***\#gently*** adv
+英音 'dʒentli     美音 'dʒentli  
+
+  
+
+英文释义
+---
+### 1.**轻柔地；温和地**  
+
+
 # ***\#genuine*** adj
 英音 'dʒenjuɪn     美音 'dʒenjuɪn  
 
@@ -763,7 +862,7 @@ gently /'dʒentli/ adv
 
 英文释义
 ---
-### 1.*高义频：* **真 (实) 的；真诚的：**  
+### 1.*高义频：* **真 (实) 的；真诚的；可信赖的：**  
 
  > a genuine person  
  > 真诚的人    
@@ -775,6 +874,16 @@ gently /'dʒentli/ adv
 派生词汇
 ---
 genuinely /'dʒenjuɪnli/ adv   
+
+# ***\#genuinely*** adv
+英音 ˈdʒenjuɪnli     美音 ˈdʒenjuɪnli  
+
+  
+
+英文释义
+---
+### 1.**真正地**  
+
 
 # ***\#geographical*** adj
 英音 ˌdʒiːə'ɡræfɪkl     美音 ˌdʒiːə'ɡræfɪkl  
@@ -808,7 +917,7 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
 
 真题解析
 ---
-1. In _________ (地理) lessons we learn about countries and people in them.  （2006 陕西）  
+1. In _________ (地理) lessons we learn about countries and people in them.  
 
 答案：
 1. geography  
@@ -847,6 +956,16 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
 ### 1.*高义频：* **几何学；[常用单数] 几何形状**  
 
 
+# ***\#geophysicist*** n
+英音 ˌdʒiːəʊˈfɪzɪsɪst     美音 ˌdʒiːəʊˈfɪzɪsɪst  
+
+  
+
+英文释义
+---
+### 1.**地球物理学家**  
+
+
 # ***\#germ*** n
 英音 dʒɜːrm     美音 dʒɜːrm  
 
@@ -856,7 +975,7 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
 
 英文释义
 ---
-### 1.*高义频：* **微生物；细菌**  
+### 1.*高义频：* **[常用复数]微生物；细菌；病菌**  
 
 
 # ***\#gesture*** v
@@ -874,9 +993,6 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
  > He **gestured to us that** it was time to go.  
  > 他示意我们该走了。    
 
- > She gestured her disappointment by laying her hand on her forehead.  
- > 她把手放在额头上，以表示失望。    
-
 
 # ***\#gesture*** n
 英音 'dʒestʃə(r)     美音 'dʒestʃər  
@@ -893,7 +1009,8 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
  > He made a rude **gesture** at the driver of the other car.  
  > 他向另一辆车的司机做了一个不雅的手势。    
 
-### 2.*低义频：* **表示；姿态 sth that you do that shows others what you think or feel：**  
+### 2.*低义频：* **表示；姿态**  
+英译 sth that you do that shows others what you think or feel：
 
  > Handshake is a **gesture of** friendship.  
  > 握手是一种友好的表示。    
@@ -919,12 +1036,6 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
  > He got little for a hard day's work.  
  > 他辛苦一天挣不到多少钱。    
 
- > She got such nice marks in school.  
- > 她在上学时考过如此高的分数。    
-
- > Did you get the information you needed?  
- > 你得到你需要的资料了吗？  （2008 湖北）  
-
 ### 2.*高义频：* **取来；带来 (fetch)：**  
 
  > Can I get you a drink / get a drink **for** you**get_2**  
@@ -947,9 +1058,6 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
 
  > I don't think she got the joke.  
  > 我想她没听懂这个笑话。    
-
- > He got the grammar lesson without difficulty.  
- > 他毫无困难地掌握了这一课的语法。    
 
  > I didn't **get it** — it doesn't make sense!  
  > 我不明白，这说不通！    
@@ -1066,8 +1174,11 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
  > I spoke slowly, but my meaning didn't get across.  
  > 我讲得很慢，但我的意思还是没有被理解。    
 
- > It's difficult to get across how exciting the trip is!  
- > 很难讲清楚这次旅行多么激动人心！  （北师大③ – 8）  
+## \#get ahead
+1.**取得成功：**  
+
+ > The secret of getting ahead is getting started.  
+ > 成功的秘诀就是行动起来。  （—— 马克吐温）  
 
 ## \#get along / on ( with )
 1.
@@ -1084,7 +1195,7 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
 1.*高义频：* **出行；走动 (get about)：**  
 
  > Public transport provides a cheap way to get around in Beijing.  
- > 在北京，公共交通为人们的出行提供了便宜的方式。  （外研④ – 2）  
+ > 在北京，公共交通为人们的出行提供了便宜的方式。    
 
 2.*高义频：* **(消息等) 传开 (get about)：**  
 
@@ -1095,6 +1206,8 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
 
  > How can he get around his problem?  
  > 他怎样能解决他的问题呢？  （2014 全国）  
+
+4.*低义频：* **回避**  
 
 ## \#get at
 1.*高义频：* **到达；够着**  
@@ -1119,8 +1232,8 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
  > I won't be able to get away from the office before 7.  
  > 7点前我不能离开办公室。    
 
- > We are hoping to get away to Paris for a few days.  
- > 我们想要到巴黎度几天假。    
+ > I had hoped to take a holiday this year but I wasn't able to get away.  
+ > 我本想今年去度假，但没能如愿。  （2013天津）  
 
  > I needed to get away from the pressures of work.  
  > 我需要排遣工作的压力。    
@@ -1136,15 +1249,6 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
 
 ## \#get back
 1.**回来；恢复；取回；拿回：**  
-
- > He **got back to** the office just before lunchtime.  
- > 他恰好在午饭前回到了办公室。    
-
- > Things would soon **get back to** normal.  
- > 情况很快就会恢复正常。    
-
- > He has got back the land his family lost.  
- > 他拿回了他家失去的土地。    
 
  > I'll talk to you when I get back.  
  > 我回去再和你谈。    
@@ -1197,8 +1301,8 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
  > When does the train get in?  
  > 火车几点进站？    
 
- > We have to get in the wheat as soon as possible because a storm is on the way.  
- > 我们必须尽快收小麦，因为暴风雨很快就要来了。    
+ > It's going to rain.Will you please help me get in the clothes on the line?  
+ > 要下雨了，你能帮我把晾衣绳上的衣服收进来吗？    
 
  > She talks so much that it's impossible to get a word in.  
  > 她说起话来滔滔不绝，让人一句话都插不进去。    
@@ -1267,7 +1371,7 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
  > 她通过了考试。    
 
  > Focusing on that goal helps me get through tough times.  
- > 专注于那一目标帮我熬过了艰难时期。  （2009 浙江）  
+ > 专注于那一目标帮我熬过了艰难时期。    
 
  > I tried phoning her office, but I couldn't get through.  
  > 我试过打她办公室电话，但没打通。  （2009 全国）  
@@ -1304,16 +1408,14 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
 ---
 1. I've been trying to phone Charles all evening, but there must be something wrong with the network; I can't seem to get ________.  （2014 湖北改）  
 2. Anyway, we're here now, so let's get down________ some serious work.  （2014 江西改）  
-3. I had hoped to take a holiday this year but I wasn't able to __________(外出度假).  （2013 天津改）  
-4. Team leaders must ensure that all members __________ (克服) their natural desire to avoid the embarrassment associated with making mistakes.  （2013 江苏改）  
-5. I've got __________ the habit of calling in on my grandparents on my way home from school.  （2012 江西改）  
-6. Before driving into the city, you are required to get your car________ (wash).  （2012 四川改）  
-7. After that, he knew he could get________ any emergency by doing what he could to the best of his ability.  （2010 浙江改）  
-8. It's going to rain. Xiao Feng, will you please help me get ________the clothes on the line?  （2008 陕西改）  
-9. I used to quarrel a lot with my parents, but now we get ________fine.  （2008 四川改）  
+3. Team leaders must ensure that all members __________ (克服) their natural desire to avoid the embarrassment associated with making mistakes.  （2013 江苏改）  
+4. I've got __________ the habit of calling in on my grandparents on my way home from school.  （2012 江西改）  
+5. Before driving into the city, you are required to get your car________ (wash).  （2012 四川改）  
+6. After that, he knew he could get________ any emergency by doing what he could to the best of his ability.  （2010 浙江改）  
+7. I used to quarrel a lot with my parents, but now we get ________fine.  （2008 四川改）  
 
 答案：
-1. through  2. down to  3. get away  4. get over  5. into  6. washed  7. through  8. in  9. along / on  
+1. through  2. down to  3. get over  4. into  5. washed  6. through  7. along / on  
 
 # ***\#get-together*** n
 英音 ɡettəˌɡeðə(r)     美音 ɡet tə'ɡeðər  
@@ -1328,6 +1430,29 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
 
  > hold a get-together  
  > 举办一场联欢会    
+
+
+# ***\#getaway*** n
+英音 'ɡetəweɪ     美音 'ɡetəweɪ  
+
+  
+
+英文释义
+---
+### 1.**（尤指 犯罪后的）逃跑；逃走**  
+
+ > make a getaway  
+ > 逃跑    
+
+
+# ***\#geyser*** n
+英音 'ɡiːzə(r)     美音 'ɡaɪzər  
+
+  
+
+英文释义
+---
+### 1.**间歇泉**  
 
 
 # ***\#ghost*** n
@@ -1413,6 +1538,16 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
 
  > gifted children  
  > 天才儿童    
+
+
+# ***\#gigantic*** adj
+英音 dʒaɪˈɡæntɪk     美音 dʒaɪˈɡæntɪk  
+
+  
+
+英文释义
+---
+### 1.**巨大的，庞大的**  
 
 
 # ***\#giggle*** vi
@@ -1523,9 +1658,6 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
  > Sorry to have given you trouble.  
  > 对不起，给你添麻烦了。    
 
- > The course has **given** me a lot more **confidence**.  
- > 这门课使我增加了不少信心。    
-
 ### 6.*高义频：* **[表示做一次动作] 做：**  
 
  > **give a smile / sigh / hug**  
@@ -1596,9 +1728,6 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
  > Bicycles are environmentally friendly because they won't give off waste gas.  
  > 自行车不会排放废气，因此他们是环保的。  （2011 江西书面表达）  
 
- > The stove gives off a lot of heat.  
- > 炉子散发出阵阵热气。    
-
 ## \#give out
 1.*高义频：* **分发 (hand out)；发出 (光、热、信号等)；公布：**  
 
@@ -1621,7 +1750,7 @@ geographic /ˌdʒiːə'ɡræfɪk/ adj
 
 Notes: give out意为“耗尽”时，不用于被动语态。  
 ## \#give up
-1.**让；放弃：**  
+1.**认输；放弃；让：**  
 
  > It is difficult to give up smoking.  
  > 戒烟可不容易。  （人教⑥ – 3）  
@@ -1641,11 +1770,25 @@ Notes: give out意为“耗尽”时，不用于被动语态。
 1. — Did you have difficulty finding Ann's house?
 — Not really. She ________ (give) us clear directions and we were able to find it easily.  （2015 北京改）  
 2. Body language can give ________ a lot about your mood, so standing with your arms folded can send out a signal that you are being defensive.  （2015 浙江改）  
-3. The news of the mayor's coming to our school for a visit was given _________ on the radio yesterday.  （2007 福建改）  
-4. What shall we use for power when all the oil in the world has given__________ ?  （2005 山东改）  
+3. The news of the mayor's coming to our school for a visit was given _________ on the radio yesterday.  
+4. What shall we use for power when all the oil in the world has given__________ ?  
 
 答案：
 1. gave / had given  2. away  3. out  4. out  
+
+# ***\#give*** n  重难点词汇
+英音 ɡɪv     美音 ɡɪv  
+
+| 词频 5 | 口语 3 | 书面 3 |  
+
+固定搭配
+---
+## \#give and take
+1.**交谈；思想交流：**  
+
+ > Reading is a give and take between author and reader.  
+ > 阅读是作者和读者之间的思想交流。  （2020全国）  
+
 
 # ***\#given*** prep
 英音 'ɡɪvn     美音 'ɡɪvn  
@@ -1685,9 +1828,6 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > under a given condition  
  > 在特定条件下    
 
- > He arrived **at the given time**.  
- > 他在规定时间内到达了。    
-
  > Which are you more likely to have with you **at any given moment** — your cell phone or your wallet?  
  > 在任何一个特定的时刻，你更可能随身带手机还是钱包？  （2011 湖北）  
 
@@ -1723,7 +1863,7 @@ Notes: give out意为“耗尽”时，不用于被动语态。
  > I'm glad to see you looking so well.  
  > 很高兴看到你气色这么好。    
 
-- (be) glad + that 从句：
+- (be) glad + (that)/ wh- 从句：
 
  > I'm glad we can be friends now.  
  > 很高兴我们现在成了朋友。    
@@ -1735,12 +1875,6 @@ Notes: give out意为“耗尽”时，不用于被动语态。
 
  > **I'd be glad if** you can consider my recommendation.  
  > 如果您能考虑我的推荐我将非常感激。  （2014 浙江书面表达改）  
-
- > We would be **glad of** his company.  
- > 我们很庆幸有他陪伴。  （2012 福建）  
-
- > I'd be glad if you could help me.  
- > 如果你能帮我，我会很感激。    
 
 
 派生词汇
@@ -1755,9 +1889,6 @@ gladly /'ɡlædli/ adv
 英文释义
 ---
 ### 1.*高义频：* **(粗略地) 看一下；一瞥：**  
-
- > He **glanced** quickly **over** his shoulder to see if he was being followed.  
- > 他匆匆向后瞥了一眼，看看是不是被人跟踪了。    
 
  > I **glanced at** my watch and decided to leave.  
  > 我匆匆看了看表，决定离开。    
@@ -1802,9 +1933,6 @@ gladly /'ɡlædli/ adv
  > 太阳在蔚蓝色的天空中发出耀眼的光芒。    
 
 ### 2.*高义频：* **瞪眼；怒目而视：**  
-
- > She did not look happy but **glared at** him.  
- > 她看上去很不高兴，只是瞪着他。  （人教③ – 2）  
 
  > Noah was annoyed but he didn't shout; he just **glared at** me silently.  
  > 诺亚很恼火，但是他没大喊大叫，只是默默地瞪着我。    
@@ -1854,6 +1982,16 @@ gladly /'ɡlædli/ adv
  > 我必须戴上眼镜读这封信。    
 
 
+# ***\#glass*** v
+英音 ɡlɑːs     美音 ɡlæs  
+
+| 词频 4 | 口语 3 | 书面 3 |  
+
+英文释义
+---
+### 1.**【非正式用语】用玻璃杯击（某人的）脸部**  
+
+
 # ***\#gleam*** n
 英音 ɡliːm     美音 ɡliːm  
 
@@ -1862,6 +2000,16 @@ gladly /'ɡlædli/ adv
 英文释义
 ---
 ### 1.**亮光，反光**  
+
+
+# ***\#glee*** n
+英音 ɡliː     美音 ɡliː  
+
+  
+
+英文释义
+---
+### 1.**高兴，兴奋；幸灾乐祸**  
 
 
 # ***\#global*** adj
@@ -1890,8 +2038,15 @@ gladly /'ɡlædli/ adv
  > 从整体上看    
 
 
+真题解析
+---
+1. According to the World Bank,China accounts for about 30 percent of total__________(globe) fertilizer consumption.  （2018全国）  
+
+答案：
+1. global  
+
 # ***\#globalize*** vt
-英音 'ɡləʊbəlaɪz     
+英音 'ɡləʊbəlaɪz     美音 ˈɡləʊbəlaɪz  
 
   
 
@@ -2213,7 +2368,7 @@ Notes: go意为“变为”时，后接形容词作表语，通常表示情况�
 2.*高义频：* **(经过计划或允许后) 开始做：**  
 
  > The government is planning to **go ahead with** the building next year.  
- > 政府计划明年着手建造大楼。  （北师大④ – 11）  
+ > 政府计划明年着手建造大楼。    
 
 3.*高义频：* **[用于祈使句] 请吧；说吧：**  
 
@@ -2222,6 +2377,12 @@ Notes: go意为“变为”时，后接形容词作表语，通常表示情况�
 
  > — Yes, go ahead.  
  > 好的，问吧。  （2008 广东）  
+
+## \#go all out
+1.**全力以赴；竭尽全力：**  
+
+ > We're **going all out for** victory in this afternoon's game.  
+ > 我们将在今天下午的比赛中全力以赴，争取获胜。    
 
 ## \#go away
 1.**走开；离开；外出 (度假)；消失：**  
@@ -2239,7 +2400,7 @@ Notes: go意为“变为”时，后接形容词作表语，通常表示情况�
 1.**回到；追溯到；回忆起：**  
 
  > Once you have made this decision, there will be **no going back**.  
- > 你一旦做出这个决定，就不能改了。  （2008 上海）  
+ > 你一旦做出这个决定，就不能改了。    
 
  > The friendly contacts between the two peoples go back to the 2nd century.  
  > 这两国人民之间的友好往来可以一直追溯到公元2世纪。    
@@ -2264,8 +2425,8 @@ Notes: go意为“变为”时，后接形容词作表语，通常表示情况�
  > The ship went down by 12 feet.  
  > 船下沉了12英尺。    
 
- > The moon has gone down.  
- > 月亮已落下去了。    
+ > After a long day of study, he likes to watch the sun go down and wait for the stars to come out.  
+ > 一整天的学习后，他喜欢看着太阳落山，等待星星出来。  （人教新必修① – Welcome Unit）  
 
 3.*低义频：* **(风、海面等) 平静下来：**  
 
@@ -2279,7 +2440,7 @@ Notes: go意为“变为”时，后接形容词作表语，通常表示情况�
  > 自2007年以来，青壮年手表的销售额一直在下降。  （2008 湖北）  
 
 ## \#go for
-1.*低义频：* **为...去；努力获取：**  
+1.*低义频：* **为...去；努力获取；选择：**  
 
  > He has gone for some milk / a doctor.  
  > 他买牛奶/请医生去了。    
@@ -2289,6 +2450,9 @@ Notes: go意为“变为”时，后接形容词作表语，通常表示情况�
 
  > — Sounds great! **Go for it**.  
  > 听起来不错，加油。  （2016 天津）  
+
+ > If the monkeys went for the circle,they would be rewarded.  
+ > 如果猴子选择圆圈，他们就会得到奖励。  （2019全国改）  
 
 2.*低义频：* **对...适用：**  
 
@@ -2342,9 +2506,6 @@ Notes: go意为“变为”时，后接形容词作表语，通常表示情况�
 
  > While I was cooking supper, the electricity went off.  
  > 我正在做晚饭时停电了。    
-
- > The pain will go off.  
- > 疼痛将会消失。    
 
 ## \#go on
 1.*高义频：* **发生；进行**  
@@ -2495,7 +2656,7 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
 3.  — Could I use this dictionary?  
  — Just________ (用吧). It's a spare one.  （2014 江西改）  
 4. To get a better grade, you should go _________ the notes again before the test.  （2011 四川改）  
-5. I don't go in ________ rock 'n' roll. It's much too noisy for my taste.  （2004 北京改）  
+5. I don't go in ________ rock 'n' roll. It's much too noisy for my taste.  
 
 答案：
 1. to  2. to thank  3. go ahead  4. over  5. for  
@@ -2509,7 +2670,14 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
 
 英文释义
 ---
-### 1.*高义频：* **目的；目标 (aim)：**  
+### 1.*高义频：* **球门**  
+
+### 2.*高义频：* **射门；进球得分：**  
+
+ > **get / make / score a goal**  
+ > 进球    
+
+### 3.*高义频：* **目的；目标 (aim)：**  
 
  > **achieve / attain / reach one's goal**  
  > 实现目标    
@@ -2519,13 +2687,6 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
 
  > To succeed in life, one first needs to **set a goal** and then gradually make it more practical.   
  > 要想在人生中取得成功，首先需要设定目标，然后逐渐使目标更加切实可行。  （2013 广东）  
-
-### 2.*高义频：* **球门**  
-
-### 3.*高义频：* **射门；进球得分：**  
-
- > **get / make / score a goal**  
- > 进球    
 
 
 # ***\#goat*** n
@@ -2538,6 +2699,9 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
 英文释义
 ---
 ### 1.*高义频：* **山羊**  
+
+ > a bily goat  
+ > 公山羊    
 
 
 # ***\#god*** n
@@ -2753,6 +2917,18 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > 早上好！    
 
 
+固定搭配
+---
+## \#good gor sb
+1.**[口语]干得好；好样的：**  
+
+ > — My son got a full scholarship to his dream university!  
+ > 我儿子获得了他理想大学的全额奖学金。    
+
+ > — Wow, good gor him! What's he going to study?  
+ > 哇，好样的！他打算学什么专业？  （2019天津）  
+
+
 # ***\#good-looking*** adj
 英音 ɡʊd 'lʊkɪŋ     美音 ɡʊd 'lʊkɪŋ  
 
@@ -2761,6 +2937,16 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
 英文释义
 ---
 ### 1.**好看的；漂亮的**  
+
+
+# ***\#good-tempered*** adj
+英音 ˌɡʊd ˈtempəd     美音 ˌɡʊd ˈtempərd  
+
+  
+
+英文释义
+---
+### 1.**脾气好的**  
 
 
 # ***\#goodbye*** n
@@ -2776,6 +2962,9 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
 
  > Murray was at the port to **wave goodbye** to his friend.  
  > 默里在港口向他的朋友挥手告别。  （2012 山东改）  
+
+ > Sweeping the dust out of the house is a way of saying goodbye to old things and welcoming new things.  
+ > 扫除房子的灰尘是辞旧迎新的一种方式。  （人教新必修③ – 1）  
 
 
 # ***\#goodbye*** int
@@ -2818,8 +3007,8 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
  > a large variety of goods  
  > 各种各样的商品    
 
- > In Europe, people paid for goods with gold or silver.  
- > 在欧洲，人们当时用金、银买卖货物。  （北师大③ – 8）  
+ > Without friends, no one would want to live, even if he had all other goods.  
+ > 没人会想过没有朋友的生活，即使其他什么都不缺。  （— 亚里士多德）  
 
 
 # ***\#goodwill*** n
@@ -2843,11 +3032,8 @@ Notes: go on doing sth表示“继续做同一件事”；go on to do sth表示�
 ---
 ### 1.*高义频：* **鹅；雌鹅；[U] 鹅肉：**  
 
- > goose bumps  
- > 鸡皮疙瘩    
-
- > goose-step  
- > 正步    
+ > goose bumps / goose-step  
+ > 鸡皮疙瘩 /  正步    
 
  > Kill the goose that lays the golden egg(s).  
  > 杀鸡取卵。    
@@ -3020,6 +3206,16 @@ Notes: government作主语时，如果作为整体看待，谓语动词用单数
  > 从这一刻开始，你将有自由时间探寻这座城市，吃点儿午餐。  （2011 湖北）  
 
 
+# ***\#grab*** n
+英音 ɡræb     美音 ɡræb  
+
+| 词频 2 | 口语 2 | 书面 1 |  
+
+英文释义
+---
+### 1.**[常用单数]抓取; 抢夺**  
+
+
 # ***\#grace*** n
 英音 ɡreɪs     美音 ɡreɪs  
 
@@ -3135,9 +3331,6 @@ graceful /'ɡreɪsfl/ adj
  > The doctor said her weight loss should be gradual.  
  > 医生说她的体重应该慢慢减轻。  （北师大⑥ – 16）  
 
- > Recently, we have seen a gradual trend towards healthier food.  
- > 近来，我们注意到人们逐渐倾向于更加健康的食品。  （外研⑧ – 3）  
-
 
 # ***\#gradually*** adv
 英音 'ɡrædʒuəli     美音 'ɡrædʒuəli  
@@ -3151,9 +3344,6 @@ graceful /'ɡreɪsfl/ adj
 
  > Gradually, a picture came into view.  
  > 渐渐地，一幅图画映入眼帘。  （2009 湖南）  
-
- > I think cinemas will gradually be replaced by TVs and computers in the next century.  
- > 我认为在下个世纪，电影院将逐渐被电视和电脑所取代。  （北师大④ – 11）  
 
  > In the good care of the nurses, the boy is gradually recovering from his heart operation.  
  > 在护士的精心照料下，这个男孩在心脏手术之后正逐渐恢复。  （2009 浙江）  
@@ -3208,6 +3398,11 @@ graceful /'ɡreɪsfl/ adj
  > The college graduated 500 students last year.  
  > 去年有500名学生从这所学院毕业。    
 
+### 3.*低义频：* **vi逐渐升级为：**  
+
+ > I quickly graduated from typical children's books to ones with fewer pictures and longer chapters.  
+ > 我很快就从读典型的儿童读物升级为读插图少、章节多的书。  （2020浙江）  
+
 
 # ***\#graduation*** n
 英音 ˌɡrædʒu'eɪʃn     美音 ˌɡrædʒu'eɪʃn  
@@ -3237,7 +3432,7 @@ graceful /'ɡreɪsfl/ adj
 
 英文释义
 ---
-### 1.**涂鸦,乱涂乱抹**  
+### 1.**涂鸦，胡写乱画**  
 
 
 # ***\#grain*** n
@@ -3285,6 +3480,16 @@ graceful /'ɡreɪsfl/ adj
 派生词汇
 ---
 grammatical /ɡrə'mætɪkl/ adj   
+
+# ***\#grammatical*** adj
+英音 ɡrəˈmætɪkl     美音 ɡrəˈmætɪkl  
+
+  
+
+英文释义
+---
+### 1.**语法（上）的；符合语法的**  
+
 
 # ***\#gramophone*** n
 英音 'ɡræməfəʊn     美音 'ɡræməfoʊn  
@@ -3462,9 +3667,6 @@ grammatical /ɡrə'mætɪkl/ adj
  > students'  grants (= to pay for their education)  
  > 学生助学金    
 
- > a **grant of** $50,000  
- > 50000美元的补助金    
-
 
 # ***\#grape*** n
 英音 ɡreɪp     美音 ɡreɪp  
@@ -3493,6 +3695,26 @@ grammatical /ɡrə'mætɪkl/ adj
 ### 1.*高义频：* **曲线 (图)；图表**  
 
 
+# ***\#graphic*** adj
+英音 'ɡræfɪk     美音 'ɡræfɪk  
+
+  
+
+英文释义
+---
+### 1.**绘画的；图案的**  
+
+
+# ***\#graphic*** n
+英音 'ɡræfɪk     美音 'ɡræfɪk  
+
+  
+
+英文释义
+---
+### 1.**图表；图形；图画**  
+
+
 # ***\#grasp*** vt
 英音 ɡrɑːsp     美音 ɡræsp  
 
@@ -3508,9 +3730,6 @@ grammatical /ɡrə'mætɪkl/ adj
 
  > He grasped my hand and shook it warmly.  
  > 他热情地抓着我的手握了起来。    
-
- > It's our hope that you will eagerly **grasp** every **opportunity** to do well for yourself and others.  
- > 我们希望你无论为自己还是为他人，都要热切地抓住每一次机会把事情做好。  （2012 湖北）  
 
  > We should **grasp** the **opportunities** of the nation's new round of opening-up.  
  > 我们应该抓住国家新一轮的对外开放的机会。    
@@ -3552,6 +3771,16 @@ Notes: 表示理解语言、词汇或文章等时只能用 understand，不能�
  > 我一直精通英语是由于我妈妈，她在我很小的时候就让我开始读英文。  （2012 湖北）  
 
 
+# ***\#grasping*** adj
+英音 ˈɡrɑːspɪŋ     美音 ˈɡræspɪŋ  
+
+  
+
+英文释义
+---
+### 1.**贪婪的**  
+
+
 # ***\#grass*** n
 英音 ɡrɑːs     美音 ɡræs  
 
@@ -3565,9 +3794,6 @@ Notes: 表示理解语言、词汇或文章等时只能用 understand，不能�
 
  > The grass is always greener on the other side (of the fence).  
  > 这山望着那山高。    
-
- > The grasses need light to grow well.  
- > 草都需要光照才生长得好。    
 
  > Keep off **the grass**.  
  > 请勿践踏草坪。    
@@ -3608,6 +3834,19 @@ Notes: 表示理解语言、词汇或文章等时只能用 understand，不能�
 答案：
 1. to  
 
+# ***\#gratitude*** n
+英音 'ɡrætɪtjuːd     美音 'ɡrætɪtuːd  
+
+  
+
+英文释义
+---
+### 1.**感激之情；感谢**  
+
+ > I would like to express my **gratitude to** everyone **for** their help.  
+ > 我要向所有帮助过我的人表示感谢。    
+
+
 # ***\#grave*** n
 英音 ɡreiv     美音 ɡreiv  
 
@@ -3618,6 +3857,16 @@ Notes: 表示理解语言、词汇或文章等时只能用 understand，不能�
 英文释义
 ---
 ### 1.*高义频：* **坟墓；墓地：**  
+
+
+# ***\#grave*** adj
+英音 ɡreiv     美音 ɡreiv  
+
+| 词频 2 |  
+
+英文释义
+---
+### 1.**严重的；严肃的**  
 
 
 # ***\#gravity*** n
@@ -3712,14 +3961,14 @@ Notes: 表示理解语言、词汇或文章等时只能用 understand，不能�
 
 ### 3.*高义频：* **美妙的；极好的 (wonderful)；崇高的：**  
 
- > great thoughts  
- > 崇高的思想    
-
  > — I've got the use of a car.  
  > 我弄到了一辆小汽车。    
 
  > — That's great!  
  > 好极了！    
+
+ > great thoughts  
+ > 崇高的思想    
 
 
 真题解析
@@ -3824,6 +4073,12 @@ D.Oh, that would be great.
  > 绿色产品    
 
 
+固定搭配
+---
+## \#green fingers
+1.**高超的种植技能**  
+
+
 # ***\#green*** n
 英音 ɡriːn     美音 ɡriːn  
 
@@ -3919,9 +4174,6 @@ D.Oh, that would be great.
  > **Christmas / birthday greetings**  
  > 圣诞/生日贺词    
 
- > offer greetings to sb  
- > 向某人致以问候    
-
  > My mother sends her greetings to you all.  
  > 我母亲向你们大家问好。    
 
@@ -3929,7 +4181,7 @@ D.Oh, that would be great.
 # ***\#grey*** n
 英音 ɡreɪ     美音 ɡreɪ  
 
-| 词频 3 |  
+| 词频 3 | 口语 2 | 书面 2 |  
 
 用法点拨  [C] & [U]
 
@@ -3997,6 +4249,36 @@ D.Oh, that would be great.
 ### 1.*高义频：* **烤架；烧烤的肉类食物；烧烤店**  
 
 
+# ***\#grin*** v
+英音 ɡrɪn     美音 ɡrɪn  
+
+  
+
+英文释义
+---
+### 1.**vi & vt 露齿而笑；咧着嘴笑**  
+
+
+# ***\#grin*** n
+英音 ɡrɪn     美音 ɡrɪn  
+
+  
+
+英文释义
+---
+### 1.**[C] 露齿笑；咧嘴笑**  
+
+
+# ***\#grip*** v
+英音 ɡrɪp     美音 ɡrɪp  
+
+  
+
+英文释义
+---
+### 1.**紧抓；抓紧**  
+
+
 # ***\#grizzly*** n
 英音 'grɪzlɪ     美音 'grɪzlɪ  
 
@@ -4061,6 +4343,16 @@ D.Oh, that would be great.
  > 这些材料大多数都可以在你当地的食品杂货店里找到。  （译林⑧ – 3）  
 
 
+# ***\#grotto*** n
+英音 ˈɡrɒtəʊ     美音 ˈɡrɑːtəʊ  
+
+  
+
+英文释义
+---
+### 1.**小洞穴**  
+
+
 # ***\#ground*** n
 英音 ɡraʊnd     美音 ɡraʊnd  
 
@@ -4103,11 +4395,45 @@ D.Oh, that would be great.
 
 固定搭配
 ---
+## \#break new ground
+1.**开拓创新；有所发现：**  
+
+ > China breaks new ground in the history of human achievement.  
+ > 中国在人类成就的历史上开辟了新天地。  （外研新选必② – 3改）  
+
+## \#get (sth) off the ground
+1.**（使某事物）顺利开始 / 发生：**  
+
+ > Moore used her savings to get her business off the ground.  
+ > 摩尔用自己的积蓄顺利开办了公司。  （2019北京改）  
+
 ## \#give / lose ground
 1.**退让；让步；失利：**  
 
  > The team began to lose ground because Phil's leg was broken.  
  > 由于菲尔的腿骨折了，这个队开始失去优势。    
+
+
+# ***\#ground*** v
+英音 ɡraʊnd     美音 ɡraʊnd  
+
+| 词频 4 | 口语 3 | 书面 3 |  
+
+英文释义
+---
+### 1.**使停飞**  
+
+### 2.**（使）搁浅；触海底**  
+
+
+# ***\#groundwork*** n
+英音 ˈɡraʊndwɜːk     美音 ˈɡraʊndwɜːrk  
+
+  
+
+英文释义
+---
+### 1.**基础工作，准备工作**  
 
 
 # ***\#group*** n
@@ -4202,7 +4528,7 @@ D.Oh, that would be great.
  > 自然形成的友谊才是最好的。  （2012 辽宁）  
 
 
-# ***\#grow*** vt
+# ***\#grow*** v
 英音 ɡrəʊ     美音 ɡroʊ  
 
 | 词频 5 | 口语 3 | 书面 3 |  
@@ -4211,7 +4537,12 @@ D.Oh, that would be great.
 
 英文释义
 ---
-### 1.**种植；留 (须、发等)：**  
+### 1.*高义频：* **vi 生长；成长：**  
+
+ > Rice grows in warm climates.  
+ > 水稻在温暖的气候下生长。    
+
+### 2.*高义频：* **vt 种植；留 (须、发等)：**  
 
  > If I clear more land, I can grow more crops.  
  > 如果我开垦更多的土地，就能种更多的庄稼。  （2013 江西）  
@@ -4219,11 +4550,33 @@ D.Oh, that would be great.
  > grow a beard / moustache  
  > 蓄胡须/胡子    
 
- > I've decide to **grow** my **hair long**.  
+ > I've decided to **grow** my **hair long**.  
  > 我决定留长发。    
 
- > He grows roses in the garden.  
- > 他在花园里种玫瑰。    
+### 3.*高义频：* **vi 增长；增加：**  
+
+ > My uncle hopes that his business will grow steadily.  
+ > 我叔叔希望他的生意稳固发展。  （2016全国改）  
+
+ > The population of this city is growing every year.  
+ > 这个城市的人口每年都在增加。    
+
+### 4.*高义频：* **[用作系动词] 逐渐变得；成为：**  
+英译 grow+adj：
+
+ > Truth never grows old.  
+ > 真理用不过时。    
+
+ > Another 15 minutes passed and I grew bored.  
+ > 又过了15分钟，我开始变得不耐烦了。  （2017天津）  
+
+### 5.*高义频：* **vi 逐渐形成；产生：**  
+
+ > I'm sure you will **grow to like** her in time.  
+ > 我肯定你慢慢就会喜欢她了。    
+
+ > The best friendships are the ones that grow naturally.  
+ > 自然形成的友谊才是最好的。  （2012辽宁）  
 
 
 固定搭配
@@ -4235,7 +4588,7 @@ D.Oh, that would be great.
  > 他已长成一个不错的小伙子。    
 
  > The village where I was born has grown into a town.  
- > 我出生的那个村庄已经发展成为一个城镇。  （2014 陕西）  
+ > 我出生的那个村庄已经发展成为一个城镇。    
 
 ## \#grow out of
 1.**产生于；长大得与…不再相称：**  
@@ -4295,9 +4648,6 @@ D.Oh, that would be great.
  > **economic growth**  
  > 经济增长    
 
- > There are no such things as limits to growth, because there are no limits on the human capacity for intelligence, imagination and wonder.   
- > 成长没有极限，因为人类的智慧、想象力和创造奇迹的能力没有极限。  （——里根）  
-
 
 # ***\#guarantee*** n  重难点词汇
 英音 ˌɡærən'tiː     美音 ˌɡærən'tiː  
@@ -4332,11 +4682,8 @@ D.Oh, that would be great.
 ---
 ### 1.*高义频：* **保证；确保；担保：**  
 
- > This iron is **guaranteed against failure** for two years.  
- > 这个熨斗保修两年。    
-
- > Finding the right spot to camp is the first step to guaranteeing a good night's sleep.  
- > 找到合适的野营地是确保晚上休息好的第一步。  （2009 北京）  
+ > Talent alone isn't enough to guarantee success.  
+ > 只有天赋是不足以保证成功的。  （外研新选必① – 2）  
 
 - guarantee + that 从句：
 
@@ -4361,10 +4708,13 @@ D.Oh, that would be great.
 
 英文释义
 ---
-### 1.*高义频：* **卫兵 (队)；哨兵；警卫员；看守员；(篮球等的) 后卫：**  
+### 1.*高义频：* **卫兵 (队)；警卫员；看守员；(篮球等的) 后卫：**  
 
  > a **security guard**  
  > 安全警卫/保安人员    
+
+ > a **point guard**  
+ > 控球后卫    
 
 ### 2.*高义频：* **守卫；警戒；看守：**  
 
@@ -4477,8 +4827,8 @@ A.Guess what
 B.So what  
 C.Pardon me  
 D.Who cares  
-2. — The boys are not doing a good job at all, are they?
-— ________ .  （2003 北京春）  
+2. — The boys are not doing a good job at all, are they?
+— ________ .  
 A.I guess not so  
 B.I don’t guess  
 C.I don’t guess so  
@@ -4501,11 +4851,24 @@ D.I guess not
  > a **paying guest**  
  > 寄宿客(付费住在私人家里的人)    
 
+ > an uninvited guest  
+ > 不速之客  （2020浙江）  
+
  > He was the **guest of honour**.  
  > 他是贵宾。    
 
  > We have invited David to be one of our **guest speakers**.  
  > 我们已邀请大卫担任我们的发言嘉宾之一。  （译林① – 1）  
+
+
+# ***\#guesthouse*** n
+英音 'gesthaʊs     美音 'gestˌhaʊs  
+
+  
+
+英文释义
+---
+### 1.**小旅馆；客房**  
 
 
 # ***\#guidance*** n
@@ -4564,8 +4927,21 @@ D.I guess not
  > a buying guide  
  > 购物指南    
 
+ > a bird field guide  
+ > 鸟类图鉴    
+
  > a **guide to** grammar  
  > 语法指南    
+
+
+# ***\#guidebook*** n
+英音 ˈɡaɪdbʊk     美音 ˈɡaɪdbʊk  
+
+  
+
+英文释义
+---
+### 1.**旅游指南（或手册）**  
 
 
 # ***\#guideline*** n
@@ -4626,6 +5002,16 @@ D.I guess not
 ### 1.*高义频：* **树胶**  
 
 
+# ***\#gumbo*** n
+英音 'ɡʌmbəʊ     美音 'ɡʌmboʊ  
+
+  
+
+英文释义
+---
+### 1.**秋葵汤（用秋葵荚做的鸡汤或海鲜汤）**  
+
+
 # ***\#gun*** n
 英音 ɡʌn     美音 ɡʌn  
 
@@ -4637,11 +5023,24 @@ D.I guess not
 ---
 ### 1.*高义频：* **枪；炮；手枪：**  
 
+ > a **machine gun**  
+ > 机关枪    
+
  > **fire** a** gun** at sb  
  > 向某人开枪    
 
  > When guns speak it is too late to argue.  
  > 待到炮声响，辩论已莫及。    
+
+
+# ***\#gunfire*** n
+英音 ˈɡʌnfaɪə(r)     美音 ˈɡʌnfaɪər  
+
+  
+
+英文释义
+---
+### 1.**（接连不断的）炮火**  
 
 
 # ***\#gunpowder*** n
@@ -4675,7 +5074,7 @@ D.I guess not
 
 英文释义
 ---
-### 1.*高义频：* **男人；小伙子；家伙；伙计：**  
+### 1.*高义频：* **[非正式用语]男人；小伙子；家伙；伙计：**  
 
  > This guy's a winner, right?  
  > 这个小伙子赢了，对吧？  （2008 全国）  

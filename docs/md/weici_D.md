@@ -78,6 +78,16 @@
 ### 1.**牛奶场**  
 
 
+# ***\#dairy*** adj
+英音 ˈdaɪəri     美音 ˈdaɪəri  
+
+| 词频 1 |  
+
+英文释义
+---
+### 1.**奶制的; 乳品 (业)的**  
+
+
 # ***\#dam*** n
 英音 dæm     美音 dæm  
 
@@ -122,14 +132,11 @@
 #### 辨析 damage, hurt, injure, wound
 四者皆有“伤害”之意。  
 **damage ** 指对物体造成破坏，还指对人的健康或身体部位造成伤害。对人造成伤害一般不用damage，而用hurt, injure或wound。
-**hurt ** 是普通用词。 可指意外事故对人的身体造成伤害， 还指情感等方面受到伤害。
-**injure ** 是正式用词。 通常指意外事故对人的身体造成伤害。
+**hurt** 是普通用词。 指意外事故对人的身体造成伤害， 还指情感等方面受到伤害，强调引起的身体疼痛。
+**injure** 通常指意外事故对人的身体造成伤害，强调身体部位受到损伤。
 **wound ** 通常指受到刀、 枪等武器的伤害。
  > A bullet hit the soldier and he was wounded in the leg.  
  > 子弹击中了那个士兵，他的腿受伤了。    
-
- > a wounded soldier   
- > 伤员    
 
 
 
@@ -265,6 +272,16 @@ dancer /'dɑːnsə(r)/ n
 
 dancing /'dɑːnsɪŋ/ n [U]   
 
+# ***\#dandy*** adj
+英音 ˈdændi     美音 ˈdændi  
+
+  
+
+英文释义
+---
+### 1.**非常好的，极佳的**  
+
+
 # ***\#danger*** n
 英音 'deɪndʒə(r)     美音 'deɪndʒər  
 
@@ -384,6 +401,16 @@ dangerously /'deɪndʒərəsli/ adv
 ### 1.*高义频：* **[C] 激将；挑战**  
 
 
+# ***\#daring*** adj
+英音 ˈdeərɪŋ     美音 ˈderɪŋ  
+
+  
+
+英文释义
+---
+### 1.**勇敢的**  
+
+
 # ***\#dark*** adj
 英音 dɑːk     美音 dɑːrk  
 
@@ -460,7 +487,7 @@ darken /'dɑːkən/ v
 
 
 # ***\#darken*** v
-英音 'dɑːkən     
+英音 'dɑːkən     美音 ˈdɑːrkən  
 
   
 
@@ -676,6 +703,16 @@ darken /'dɑːkən/ v
 ### 1.*高义频：* **[C] 女儿**  
 
 
+# ***\#daunting*** adj
+英音 ˈdɔːntɪŋ     美音 ˈdɔːntɪŋ  
+
+  
+
+英文释义
+---
+### 1.**令人畏惧的**  
+
+
 # ***\#dawn*** vi
 英音 dɔːn     美音 dɔːn  
 
@@ -792,7 +829,7 @@ darken /'dɑːkən/ v
  > 他似乎一天到晚忙个不停。    
 
 ## \#(all) day and (all) night
-1.**整日整夜；日日夜夜地：**  
+1.**整日整夜；日日夜夜地**  
 
  > All day and all night it snowed, and the city began to suffer from a general traffic jam.   
  > 大雪不分昼夜地下，全城陷入交通大拥堵。    
@@ -846,6 +883,26 @@ darken /'dɑːkən/ v
  > 走之前来不及跟你告别，我至今后悔不已。    
 
 
+# ***\#day-to-day*** adj
+
+
+  
+
+英文释义
+---
+### 1.**日常的；逐日的**  
+
+
+# ***\#daybreak*** n
+英音 ˈdeɪbreɪk     美音 ˈdeɪbreɪk  
+
+  
+
+英文释义
+---
+### 1.**黎明，破晓**  
+
+
 # ***\#daylight*** n
 英音 'deɪlaɪt     美音 'deɪlaɪt  
 
@@ -880,6 +937,16 @@ darken /'dɑːkən/ v
 英文释义
 ---
 ### 1.**令人印象深刻的,特别吸引人的**  
+
+
+# ***\#de-ice*** v
+英音 ˌdiː ˈaɪs     美音 ˌdiː ˈaɪs  
+
+  
+
+英文释义
+---
+### 1.**除去……上的冰**  
 
 
 # ***\#dead*** adj
@@ -1032,6 +1099,16 @@ darken /'dɑːkən/ v
 ---
 deafen /'defn/ vt [常用于被动语态]   
 
+# ***\#deafening*** adj
+英音 ˈdefnɪŋ     美音 ˈdefnɪŋ  
+
+  
+
+英文释义
+---
+### 1.**震耳欲聋的**  
+
+
 # ***\#deal*** vi  重难点词汇
 英音 diːl     美音 diːl  
 
@@ -1141,6 +1218,20 @@ dealer /'diːlə(r)/ n [C]
 英文释义
 ---
 ### 1.**（尤指买卖贵重商品的）商人**  
+
+
+# ***\#dealing*** n
+英音 ˈdiːlɪŋ     美音 ˈdiːlɪŋ  
+
+  
+
+英文释义
+---
+### 1.**（商业）活动；往来**  
+
+### 2.**买卖；交易**  
+
+### 3.**经营作风；经营方式**  
 
 
 # ***\#dear*** n
@@ -1316,6 +1407,16 @@ dealer /'diːlə(r)/ n [C]
 1.**还清债务**  
 
 
+# ***\#debug*** v
+英音 ˈdiːbʌɡ     美音 ˈdiːbʌɡ  
+
+  
+
+英文释义
+---
+### 1.**调试（程序）；排错；除错**  
+
+
 # ***\#decade*** n
 英音 'dekeɪd     美音 'dekeɪd  
 
@@ -1340,6 +1441,16 @@ dealer /'diːlə(r)/ n [C]
 
  > decaying teeth / food   
  > 蛀牙/腐烂的食物    
+
+
+# ***\#deceased*** adj
+英音 dɪˈsiːst     美音 dɪˈsiːst  
+
+  
+
+英文释义
+---
+### 1.**已死的；亡故的**  
 
 
 # ***\#deceive*** v
@@ -1465,6 +1576,16 @@ decisive /dɪ'saɪsɪv/ adj
 ### 1.**甲板**  
 
 
+# ***\#declaration*** n
+英音 ˌdeklə'reɪʃn     美音 ˌdeklə'reɪʃn  
+
+  
+
+英文释义
+---
+### 1.**公告；宣言；申报**  
+
+
 # ***\#declare*** v  重难点词汇
 英音 dɪ'kleə(r)     美音 dɪ'kler  
 
@@ -1566,6 +1687,16 @@ D.decline
 答案：
 1. D  
 
+# ***\#decode*** vt
+英音 /diːˈkəʊd     美音 /diːˈkəʊd  
+
+  
+
+英文释义
+---
+### 1.**解（码），破译（尤指密码)**  
+
+
 # ***\#decorate*** v
 英音 'dekəreɪt     美音 'dekəreɪt  
 
@@ -1633,6 +1764,16 @@ D.decline
 
  > People planted trees on the waste hills to decrease water and soil loss.   
  > 人们在荒丘上种植了树木，以减少水土流失。    
+
+
+# ***\#dedicate*** v
+英音 ˈdedɪkeɪt     美音 ˈdedɪkeɪt  
+
+  
+
+英文释义
+---
+### 1.**致力于，献身于**  
 
 
 # ***\#dedicated*** adj
@@ -1784,8 +1925,18 @@ deepen /'diːpən/ v
 ### 1.**深呼吸的**  
 
 
+# ***\#deep-set*** adj
+
+
+  
+
+英文释义
+---
+### 1.**（眼睛）深陷的**  
+
+
 # ***\#deepen*** vt
-英音 'diːpən     
+英音 'diːpən     美音 'diːpən  
 
   
 
@@ -1795,7 +1946,7 @@ deepen /'diːpən/ v
 
 
 # ***\#deepen*** vi
-英音 'diːpən     
+英音 'diːpən     美音 'diːpən  
 
   
 
@@ -1881,6 +2032,16 @@ deepen /'diːpən/ v
  > 不要放松手臂，那样会失去锻炼的效果。    
 
 
+# ***\#defect*** n
+英音 ˈdiːfekt     美音 ˈdiːfekt  
+
+  
+
+英文释义
+---
+### 1.**缺点，缺陷，毛病**  
+
+
 # ***\#defence*** n
 英音 dɪ'fens     美音 dɪ'fens  
 
@@ -1890,7 +2051,7 @@ deepen /'diːpən/ v
 ---
 ### 1.*高义频：* **[U] 防御；保卫；防护：**  
 
- > the Ministry of Defence / the Defense Deparment  
+ > the Ministry of Defence / the Defense Department  
  > 国防部    
 
  > She stepped back appearing surprised and put up her hands, as if in defence.   
@@ -1947,6 +2108,18 @@ deepen /'diːpən/ v
 
 
 
+# ***\#defender*** n
+英音 dɪˈfendə(r)     美音 dɪˈfendər  
+
+  
+
+英文释义
+---
+### 1.**防守队员；后卫**  
+
+### 2.**守卫者；保护人；防御者**  
+
+
 # ***\#defense*** n
 英音 dɪ'fens     美音 dɪ'fens  
 
@@ -1976,6 +2149,16 @@ deepen /'diːpən/ v
  > 我得为她说句话，她之前对此事一无所知。    
 
 ### 4.*低义频：* **[C] (体育运动中) 后卫；防守队员**  
+
+
+# ***\#defensive*** adj
+英音 dɪ'fensɪv     美音 dɪ'fensɪv  
+
+  
+
+英文释义
+---
+### 1.**戒备的；有戒心的**  
 
 
 # ***\#define*** vt
@@ -2044,6 +2227,30 @@ deepen /'diːpən/ v
  > 我对幸福的定义是“快乐的能力”。  （2013 天津）  
 
 
+# ***\#defrost*** v
+英音 diːˈfrɒst     美音 diːˈfrɔːst  
+
+  
+
+英文释义
+---
+### 1.**（使）解冻；（给冰箱、冰柜）除冰**  
+
+
+# ***\#degrade*** v
+英音 dɪˈɡreɪd     美音 dɪˈɡreɪd  
+
+  
+
+英文释义
+---
+### 1.**贬低；羞辱**  
+
+### 2.**使（情况或局面）恶化**  
+
+### 3.**（使）分解；降解**  
+
+
 # ***\#degree*** n
 英音 dɪ'ɡriː     美音 dɪ'ɡriː  
 
@@ -2080,6 +2287,26 @@ deepen /'diːpən/ v
 
  > To a certain degree, it’s a matter of logic.   
  > 在一定程度上，这是个逻辑问题。  （2011 北京）  
+
+
+# ***\#dehydration*** n
+英音 ˌdiːhaɪˈdreɪʃn     美音 ˌdiːhaɪˈdreɪʃn  
+
+  
+
+英文释义
+---
+### 1.**脱水**  
+
+
+# ***\#deindustrialization*** n
+英音 diɪnˌdʌstriəlaɪˈzeɪʃn     美音 diɪnˌdʌstriələˈzeɪʃn  
+
+  
+
+英文释义
+---
+### 1.**去工业化**  
 
 
 # ***\#delay*** v  重难点词汇
@@ -2436,6 +2663,16 @@ Notes: 不能用very修饰delighted。
 ### 1.*高义频：* **三角洲**  
 
 
+# ***\#delve*** v
+英音 delv     美音 delv  
+
+  
+
+英文释义
+---
+### 1.**探索，探究**  
+
+
 # ***\#demand*** n  重难点词汇
 英音 dɪ'mɑːnd     美音 dɪ'mænd  
 
@@ -2750,6 +2987,26 @@ D.It depends
  > 年仅十岁的孩子都开始依赖社交媒体来寻找他们的自我价值感。  （2018 江苏）  
 
 
+# ***\#depict*** v
+英音 dɪˈpɪkt     美音 dɪˈpɪkt  
+
+  
+
+英文释义
+---
+### 1.**描述**  
+
+
+# ***\#deport*** v
+英音 dɪ'pɔːt     美音 dɪ'pɔːrt  
+
+  
+
+英文释义
+---
+### 1.**将……驱逐出境**  
+
+
 # ***\#deposit*** n
 英音 dɪ'pɒzɪt     美音 dɪ'pɑːzɪt  
 
@@ -2876,6 +3133,16 @@ depressing /dɪ'presɪŋ/ adj
  > 他的家族企业毁于20世纪30年代初期的经济大萧条。  （2011 山东）  
 
 
+# ***\#depressive*** adj
+英音 dɪˈpresɪv     美音 dɪˈpresɪv  
+
+  
+
+英文释义
+---
+### 1.**抑郁的**  
+
+
 # ***\#depth*** n
 英音 depθ     美音 depθ  
 
@@ -2942,6 +3209,16 @@ depressing /dɪ'presɪŋ/ adj
  > 他们中许多人都是早期移民的后裔。    
 
 
+# ***\#descent*** n
+英音 dɪˈsent     美音 dɪˈsent  
+
+  
+
+英文释义
+---
+### 1.**下降，下落**  
+
+
 # ***\#describe*** vt
 英音 dɪ'skraɪb     美音 dɪ'skraɪb  
 
@@ -3002,6 +3279,16 @@ descriptive /dɪ'skrɪptɪv/ adj
 
 答案：
 1. description  
+
+# ***\#deselect*** v
+英音 ˌdiːsɪˈlekt     美音 ˌdiːsɪˈlekt  
+
+  
+
+英文释义
+---
+### 1.**（从计算机选单上）撤销选定**  
+
 
 # ***\#desert*** n
 英音 'dezət     美音 'dezərt  
@@ -3173,6 +3460,16 @@ deserving /dɪ'zɜːvɪŋ/ adj
  > 我希望自己在一家电脑公司当一名程序设计师。  （2014 全国书面表达）  
 
 
+# ***\#desirable*** adj
+英音 dɪˈzaɪərəbl     美音 dɪˈzaɪərəbl  
+
+  
+
+英文释义
+---
+### 1.**理想的，值得拥有的；值得做的**  
+
+
 # ***\#desire*** n  重难点词汇
 英音 dɪ'zaɪə(r)     美音 dɪ'zaɪər  
 
@@ -3312,6 +3609,16 @@ deserving /dɪ'zɜːvɪŋ/ adj
 ---
 desperately   /'despərətli/ adv   
 
+# ***\#desperation*** n
+英音 ˌdespəˈreɪʃn     美音 ˌdespəˈreɪʃn  
+
+  
+
+英文释义
+---
+### 1.**绝望；拼命，不顾一切**  
+
+
 # ***\#despite*** prep
 英音 dɪ'spaɪt     美音 dɪ'spaɪt  
 
@@ -3416,6 +3723,16 @@ D.to
 
  > The flood caused serious destruction to the railway.  
  > 洪水严重毁坏了铁路。    
+
+
+# ***\#destructive*** adj
+英音 dɪˈstrʌktɪv     美音 dɪˈstrʌktɪv  
+
+  
+
+英文释义
+---
+### 1.**引起破坏（或毁灭）的，破坏（或毁灭）性的**  
 
 
 # ***\#detail*** n
@@ -3575,6 +3892,26 @@ detailed /'diːteɪld/ adj
 ### 1.**迂路；绕行之路**  
 
 
+# ***\#detox*** n
+英音 ˈdiːtɒks     美音 ˈdiːtɑːks  
+
+  
+
+英文释义
+---
+### 1.**脱瘾**  
+
+
+# ***\#detract*** v
+英音 dɪˈtrækt     美音 dɪˈtrækt  
+
+  
+
+英文释义
+---
+### 1.**破坏，损害**  
+
+
 # ***\#develop*** v  重难点词汇
 英音 dɪ'veləp     美音 dɪ'veləp  
 
@@ -3635,6 +3972,36 @@ developing /dɪ'veləpɪŋ/ adj
 
 答案：
 1. will have developed  
+
+# ***\#developed*** adj
+英音 dɪˈveləpt     美音 dɪˈveləpt  
+
+  
+
+英文释义
+---
+### 1.**发达的；发展的；先进的**  
+
+
+# ***\#developer*** n
+英音 dɪˈveləpə(r)     美音 dɪˈveləpər  
+
+  
+
+英文释义
+---
+### 1.**（房地产）开发商；开发公司**  
+
+
+# ***\#developing*** adj
+英音 dɪˈveləpɪŋ     美音 dɪˈveləpɪŋ  
+
+  
+
+英文释义
+---
+### 1.**发展中的**  
+
 
 # ***\#development*** n
 英音 dɪ'veləpmənt     美音 dɪ'veləpmənt  
@@ -3721,6 +4088,16 @@ developing /dɪ'veləpɪŋ/ adj
  > 她深爱的儿子10年前出国了。    
 
 
+# ***\#devotee*** n
+英音 ˌdevəˈtiː     美音 ˌdevəˈtiː  
+
+  
+
+英文释义
+---
+### 1.**（狂热的）崇拜者；爱好者**  
+
+
 # ***\#devotion*** n
 英音 dɪ'vəʊʃn     美音 dɪ'voʊʃn  
 
@@ -3735,6 +4112,36 @@ developing /dɪ'veləpɪŋ/ adj
 
  > I respected his **devotion to** teaching.   
  > 我敬重他对教学的热爱。    
+
+
+# ***\#dew*** n
+英音 djuː     美音 duː  
+
+  
+
+英文释义
+---
+### 1.**露水**  
+
+
+# ***\#dewater*** v
+英音 diˈwɔːtə(r)     美音 diˈwɔːtər  
+
+  
+
+英文释义
+---
+### 1.**排水；脱水**  
+
+
+# ***\#dewdrop*** n
+英音 ˈdjuːdrɒp     美音 ˈduːdrɑːp  
+
+  
+
+英文释义
+---
+### 1.**露珠; 水珠**  
 
 
 # ***\#diabetes*** n
@@ -3838,6 +4245,16 @@ developing /dɪ'veləpɪŋ/ adj
 ### 2.*高义频：* **[C] 菱形**  
 
 
+# ***\#diarrhoea*** n
+英音 ˌdaɪə'rɪə     美音 ˌdaɪə'rɪə  
+
+  
+
+英文释义
+---
+### 1.**腹泻**  
+
+
 # ***\#diary*** n
 英音 'daɪəri     美音 'daɪəri  
 
@@ -3890,6 +4307,16 @@ developing /dɪ'veləpɪŋ/ adj
 
  > look up a word in a dictionary   
  > 查词典    
+
+
+# ***\#didgeridoo*** n
+英音 ˌdɪdʒəri'duː     美音 ˌdɪdʒəri'duː  
+
+  
+
+英文释义
+---
+### 1.**迪吉里杜管**  
 
 
 # ***\#die*** vi  重难点词汇
@@ -4291,6 +4718,26 @@ difficultly /'dɪfɪkəlt/ adv
 ### 1.*高义频：* **[C] 摘要；文摘**  
 
 
+# ***\#digestion*** n
+英音 daɪˈdʒestʃən     美音 daɪˈdʒestʃən  
+
+  
+
+英文释义
+---
+### 1.**消化（过程）**  
+
+
+# ***\#digit*** n
+英音 ˈdɪdʒɪt     美音 ˈdɪdʒɪt  
+
+  
+
+英文释义
+---
+### 1.**（0-9的任何一个）数字**  
+
+
 # ***\#digital*** adj
 英音 'dɪdʒɪtl     美音 'dɪdʒɪtl  
 
@@ -4302,6 +4749,16 @@ difficultly /'dɪfɪkəlt/ adv
 
  > the digital age / a digital camera  
  > 数字时代/数码相机    
+
+
+# ***\#digitise*** vt
+英音 ˈdɪdʒɪtaɪz     美音 ˈdɪdʒɪtaɪz  
+
+  
+
+英文释义
+---
+### 1.**把……转变成数字形式，使……数字化**  
 
 
 # ***\#dignity*** n
@@ -4428,6 +4885,16 @@ difficultly /'dɪfɪkəlt/ adv
 
  > The couple would **dine out** together once a week.   
  > 这对夫妻每星期一起出去吃顿饭。    
+
+
+# ***\#diner*** n
+英音 ˈdaɪnə(r)     美音 ˈdaɪnər  
+
+  
+
+英文释义
+---
+### 1.**(尤指餐馆的) 就餐者**  
 
 
 # ***\#dining*** n
@@ -4562,6 +5029,16 @@ difficultly /'dɪfɪkəlt/ adv
 派生词汇
 ---
 diplomat /'dɪpləmæt/ n [C]  
+
+# ***\#dire*** adj
+英音 ˈdaɪə(r)     美音 ˈdaɪər  
+
+  
+
+英文释义
+---
+### 1.**极其严重的**  
+
 
 # ***\#direct*** adj
 英音 də'rekt;dɪ'rekt;daɪ'rekt     美音 də'rekt;dɪ'rekt;daɪ'rekt  
@@ -4737,6 +5214,16 @@ diplomat /'dɪpləmæt/ n [C]
 
  > He’s a dirty player.  
  > 他是个没有体育道德的运动员。    
+
+
+# ***\#dirty*** v
+英音 ˈdɜːti     美音 ˈdɜːrti  
+
+| 词频 4 | 口语 2 | 书面 1 |  
+
+英文释义
+---
+### 1.**弄脏；（使）变脏**  
 
 
 # ***\#disability*** n
@@ -5001,6 +5488,16 @@ disappointing /ˌdɪsə'pɔɪntɪŋ/ adj
  disapproval /ˌdɪsə'pruːvl/ n [U]   
 disapproving /ˌdɪsə'pruːvɪŋ/ adj   
 
+# ***\#disarm*** v
+英音 dɪsˈɑːm     美音 dɪsˈɑːrm  
+
+  
+
+英文释义
+---
+### 1.**解除武装**  
+
+
 # ***\#disaster*** n
 英音 dɪ'zɑːstə(r)     美音 dɪ'zæstər  
 
@@ -5020,6 +5517,16 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
  > 由于天气不好，活动彻底搞砸了。    
 
 
+# ***\#disastrous*** adj
+英音 dɪˈzɑːstrəs     美音 dɪˈzæstrəs  
+
+  
+
+英文释义
+---
+### 1.**灾难性的；以失败告终的**  
+
+
 # ***\#disbelief*** n
 英音 ˌdɪsbɪ'liːf     美音 ˌdɪsbɪ'liːf  
 
@@ -5028,6 +5535,16 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 英文释义
 ---
 ### 1.**不信；怀疑；疑惑**  
+
+
+# ***\#disbranch*** v
+英音 dɪs'bræntʃ     美音 dɪs'bræntʃ  
+
+  
+
+英文释义
+---
+### 1.**采折树枝；修剪**  
 
 
 # ***\#disc*** n
@@ -5090,6 +5607,26 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 
  > Studying at home requires a good deal of discipline.  
  > 在家学习需要具备良好的自制力。    
+
+
+# ***\#discipline*** vt
+英音 'dɪsəplɪn     美音 'dɪsəplɪn  
+
+| 词频 3 | 口语 1 | 书面 1 | 阅读 1 |  
+
+英文释义
+---
+### 1.**自我控制; 管教; 处罚**  
+
+
+# ***\#disciplined*** adj
+英音 ˈdɪsəplɪnd     美音 ˈdɪsəplɪnd  
+
+  
+
+英文释义
+---
+### 1.**遵守纪律的**  
 
 
 # ***\#disco*** n
@@ -5172,6 +5709,30 @@ disapproving /ˌdɪsə'pruːvɪŋ/ adj
 discouraged /dɪs'kʌrɪdʒd/ adj   
 discouraging /dɪs'kʌrɪdʒɪŋ/ adj   
 
+# ***\#discouraged*** adj
+英音 dɪsˈkʌrɪdʒd     美音 dɪsˈkɜːrɪdʒd  
+
+  
+
+英文释义
+---
+### 1.**泄气的；失去信心的**  
+
+
+# ***\#discouragement*** n
+英音 dɪsˈkʌrɪdʒmənt     美音 dɪsˈkɜːrɪdʒmənt  
+
+  
+
+英文释义
+---
+### 1.**泄气；灰心**  
+
+### 2.**阻止；阻拦；劝阻**  
+
+### 3.**使人泄气的事物；挫折**  
+
+
 # ***\#discover*** vt
 英音 dɪ'skʌvə(r)     美音 dɪ'skʌvər  
 
@@ -5219,6 +5780,16 @@ discoverer /dɪ'skʌvərə(r)/ n
 
  > The Hubble Telescope has allowed astronomers to **make** significant **discoveries**.   
  > 哈勃望远镜使天文学家有了重大发现。    
+
+
+# ***\#discriminate*** v
+英音 dɪˈskrɪmɪneɪt     美音 dɪˈskrɪmɪneɪt  
+
+  
+
+英文释义
+---
+### 1.**不公正地区别对待，歧视**  
 
 
 # ***\#discrimination*** n
@@ -5297,6 +5868,16 @@ discoverer /dɪ'skʌvərə(r)/ n
 
  > A disease known is half cured.   
  > 病情弄清楚，病根除一半。    
+
+
+# ***\#disgrace*** n
+英音 dɪs'ɡreɪs     美音 dɪs'ɡreɪs  
+
+  
+
+英文释义
+---
+### 1.**丢脸；耻辱**  
 
 
 # ***\#disguise*** n
@@ -5418,6 +5999,26 @@ discoverer /dɪ'skʌvərə(r)/ n
  > 我们的菜单上至少有3种意大利菜。    
 
 
+# ***\#disheartened*** adj
+英音 dɪsˈhɑːtnd     美音 dɪsˈhɑːrtnd  
+
+  
+
+英文释义
+---
+### 1.**沮丧的，灰心的**  
+
+
+# ***\#dishonest*** adj
+英音 dɪsˈɒnɪst     美音 dɪsˈɑːnɪst  
+
+  
+
+英文释义
+---
+### 1.**不诚实的；不老实的**  
+
+
 # ***\#dishwasher*** n
 英音 'dɪʃwɒʃə(r)     美音 'dɪʃwɔːʃər  
 
@@ -5426,6 +6027,16 @@ discoverer /dɪ'skʌvərə(r)/ n
 英文释义
 ---
 ### 1.**洗碗碟机**  
+
+
+# ***\#disinfect*** v
+英音 ˌdɪsɪnˈfekt     美音 ˌdɪsɪnˈfekt  
+
+  
+
+英文释义
+---
+### 1.**为……消毒，给……杀菌**  
 
 
 # ***\#disk*** n
@@ -5608,6 +6219,16 @@ discoverer /dɪ'skʌvərə(r)/ n
  > 必须在饭店外面公示价格。    
 
 
+# ***\#disposable*** adj
+英音 dɪˈspəʊzəbl     美音 dɪˈspəʊzəbl  
+
+  
+
+英文释义
+---
+### 1.**一次性的；用完即丢弃的**  
+
+
 # ***\#disposal*** n
 英音 dɪ'spəʊzl     美音 dɪ'spoʊzl  
 
@@ -5663,6 +6284,16 @@ discoverer /dɪ'skʌvərə(r)/ n
 英文释义
 ---
 ### 1.**（因犯规而）取消……的资格**  
+
+
+# ***\#disrupt*** v
+英音 dɪsˈrʌpt     美音 dɪsˈrʌpt  
+
+  
+
+英文释义
+---
+### 1.**扰乱**  
 
 
 # ***\#dissolve*** v
@@ -5856,6 +6487,26 @@ discoverer /dɪ'skʌvərə(r)/ n
 ---
 distinguished /dɪ'stɪŋɡwɪʃt/ adj   
 
+# ***\#distract*** vt
+英音 dɪˈstrækt     美音 dɪˈstrækt  
+
+  
+
+英文释义
+---
+### 1.**分散（注意力）；使分心**  
+
+
+# ***\#distracted*** adj
+英音 dɪˈstræktɪd     美音 dɪˈstræktɪd  
+
+  
+
+英文释义
+---
+### 1.**心神不定的,精神无法集中的**  
+
+
 # ***\#distraction*** n
 英音 dɪ'strækʃn     美音 dɪ'strækʃn  
 
@@ -5981,6 +6632,16 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 ### 1.*高义频：* **潜水员**  
 
 
+# ***\#diverge*** v
+英音 daɪˈvɜːdʒ     美音 daɪˈvɜːrdʒ  
+
+  
+
+英文释义
+---
+### 1.**(两条路) 岔开，分开**  
+
+
 # ***\#diverse*** adj
 英音 daɪ'vɜːs     美音 daɪ'vɜːrs  
 
@@ -6065,6 +6726,18 @@ distinguished /dɪ'stɪŋɡwɪʃt/ adj
 
 答案：
 1. divide  
+
+# ***\#diving*** n
+英音 ˈdaɪvɪŋ     美音 ˈdaɪvɪŋ  
+
+  
+
+英文释义
+---
+### 1.**跳水**  
+
+### 2.**潜水**  
+
 
 # ***\#division*** n
 英音 dɪ'vɪʒn     美音 dɪ'vɪʒn  
@@ -6358,6 +7031,16 @@ D. haven’t
  > 法学/医学博士    
 
 
+# ***\#doctorate*** n
+英音 ˈdɒktərət     美音 ˈdɑːktərət  
+
+  
+
+英文释义
+---
+### 1.**博士学位**  
+
+
 # ***\#document*** n
 英音 'dɒkjumənt     美音 'dɑːkjumənt  
 
@@ -6388,6 +7071,16 @@ D. haven’t
 ### 1.**纪录片**  
 
 
+# ***\#documentary*** adj
+英音 ˌdɒkju'mentri     美音 ˌdɑːkju'mentri  
+
+  
+
+英文释义
+---
+### 1.**纪录的；纪实的**  
+
+
 # ***\#dog*** n
 英音 dɒɡ     美音 dɔːɡ  
 
@@ -6405,6 +7098,18 @@ D. haven’t
 
  > Dog does not eat dog.  
  > 同类不相残。    
+
+
+# ***\#dog*** v
+英音 dɒɡ     美音 dɔːɡ  
+
+| 词频 5 | 口语 3 | 书面 3 |  
+
+英文释义
+---
+### 1.**（长期）困扰；折磨；纠缠**  
+
+### 2.**跟踪；尾随**  
 
 
 # ***\#doll*** n
@@ -6470,6 +7175,16 @@ D. haven’t
 
  > domestic and foreign news  
  > 国内外新闻    
+
+
+# ***\#dominant*** adj
+英音 ˈdɒmɪnənt     美音 ˈdɑːmɪnənt  
+
+  
+
+英文释义
+---
+### 1.**首要的; 占支配地位的; 显著的**  
 
 
 # ***\#dominate*** v
@@ -6615,6 +7330,16 @@ D. haven’t
 英文释义
 ---
 ### 1.**服兴奋剂**  
+
+
+# ***\#dorm*** n
+英音 dɔːm     美音 dɔːrm  
+
+  
+
+英文释义
+---
+### 1.**寝室,学生宿舍**  
 
 
 # ***\#dormitory*** n
@@ -6856,6 +7581,16 @@ doubtful /'daʊtfl/ adj
 ### 1.**怀疑的, 不肯定的**  
 
 
+# ***\#dough*** n
+英音 dəʊ     美音 dəʊ  
+
+  
+
+英文释义
+---
+### 1.**生面团**  
+
+
 # ***\#dove*** n
 英音 dʌv     美音 dʌv  
 
@@ -6935,6 +7670,26 @@ Notes: 从首都去边远地区、从城市去农村、从北方去南方、从�
  > 请将答案写在纸上。    
 
 
+# ***\#down-to-earth*** adj
+
+
+  
+
+英文释义
+---
+### 1.**务实的；脚踏实地的**  
+
+
+# ***\#downfall*** n
+英音 ˈdaʊnfɔːl     美音 ˈdaʊnfɔːl  
+
+  
+
+英文释义
+---
+### 1.**衰败**  
+
+
 # ***\#downhill*** adj
 英音 ˌdaʊn'hɪl     美音 ˌdaʊn'hɪl  
 
@@ -6985,6 +7740,16 @@ Notes: 从首都去边远地区、从城市去农村、从北方去南方、从�
 ### 1.**下载；已下载的数据资料**  
 
 
+# ***\#downpour*** n
+英音 ˈdaʊnpɔː(r)     美音 ˈdaʊnpɔːr  
+
+  
+
+英文释义
+---
+### 1.**倾盆大雨；暴雨；骤雨**  
+
+
 # ***\#downstairs*** adv
 英音 ˌdaʊn'steəz     美音 ˌdaʊn'sterz  
 
@@ -7016,6 +7781,16 @@ Notes: 从首都去边远地区、从城市去农村、从北方去南方、从�
 
  > a downstairs room  
  > 楼下的房间    
+
+
+# ***\#downstairs*** n
+英音 ˌdaʊn'steəz     美音 ˌdaʊn'sterz  
+
+| 词频 3 | 口语 2 |  
+
+英文释义
+---
+### 1.**楼下**  
 
 
 # ***\#downstream*** adv
@@ -7067,6 +7842,16 @@ Notes: 从首都去边远地区、从城市去农村、从北方去南方、从�
  > 我们今天下午到商业区去购物吧。    
 
 
+# ***\#downtrodden*** adj
+英音 ˈdaʊntrɒdn     美音 ˈdaʊntrɑːdn  
+
+  
+
+英文释义
+---
+### 1.**被践踏的，受压迫的，遭蹂躏的**  
+
+
 # ***\#downward*** adj
 英音 'daʊnwəd     美音 'daʊnwərd  
 
@@ -7096,7 +7881,37 @@ Notes: 从首都去边远地区、从城市去农村、从北方去南方、从�
  > 人往高处走，水往低处流。    
 
 
-# ***\#dozen*** n
+# ***\#downward(s)*** adv
+英音 ˈdaʊnwəd(z)     美音 ˈdaʊnwərd(z)  
+
+  
+
+英文释义
+---
+### 1.**向下；往下**  
+
+
+# ***\#downwind*** adv
+英音 ˌdaʊnˈwɪnd     美音 ˌdaʊnˈwɪnd  
+
+  
+
+英文释义
+---
+### 1.**顺风地；在下风处**  
+
+
+# ***\#downy*** adj
+英音 ˈdaʊni     美音 ˈdaʊni  
+
+  
+
+英文释义
+---
+### 1.**被绒毛覆盖的；充满绒毛的**  
+
+
+# ***\#dozen*** num
 英音 'dʌzn     美音 'dʌzn  
 
 | 词频 4 | 口语 2 | 书面 1 |  
@@ -7226,6 +8041,16 @@ Notes: 从首都去边远地区、从城市去农村、从北方去南方、从�
 英文释义
 ---
 ### 1.*高义频：* **龙**  
+
+
+# ***\#dragonfly*** n
+英音 ˈdræɡənflaɪ     美音 ˈdræɡənflaɪ  
+
+  
+
+英文释义
+---
+### 1.**蜻蜓**  
 
 
 # ***\#drama*** n
@@ -7598,6 +8423,16 @@ dreamer /'driːmə(r)/ n
  > 他穿着白色的制服，看起来不像个医生，倒更像个厨师。    
 
 
+# ***\#dressing*** n
+英音 ˈdresɪŋ     美音 ˈdresɪŋ  
+
+  
+
+英文释义
+---
+### 1.**（拌制色拉用的）调料；调味酱**  
+
+
 # ***\#drift*** v
 英音 drɪft     美音 drɪft  
 
@@ -7657,6 +8492,16 @@ dreamer /'driːmə(r)/ n
 
  > a ﬁre drill  
  > 消防演习    
+
+
+# ***\#drilling*** n
+英音 'drɪlɪŋ     美音 'drɪlɪŋ  
+
+  
+
+英文释义
+---
+### 1.**钻探；勘探**  
 
 
 # ***\#drink*** v
@@ -7790,6 +8635,16 @@ drinker /'drɪŋkə(r)/ n
 ### 1.*高义频：* **[C] 驾驶员；司机**  
 
 
+# ***\#drone*** n
+英音 drəʊn     美音 drəʊn  
+
+  
+
+英文释义
+---
+### 1.**无人遥控飞机**  
+
+
 # ***\#droop*** vi
 英音 druːp     美音 druːp  
 
@@ -7914,6 +8769,16 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 利润急剧/快速下降    
 
 ### 4.*低义频：* **[常用单数] 倾斜或垂直的距离**  
+
+
+# ***\#dropout*** n
+英音 'drɒpaʊt     美音 'drɑːpaʊt  
+
+  
+
+英文释义
+---
+### 1.**辍学者；退学者**  
 
 
 # ***\#drought*** n
@@ -8095,7 +8960,7 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
 ### 1.*高义频：* **[C] 鸭；[U] 鸭肉**  
 
 
-# ***\#duck*** 
+# ***\#duck*** v
 英音 dʌk     美音 dʌk  
 
 | 词频 2 | 口语 1 |  
@@ -8399,6 +9264,16 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
  > 他上午8点上班，下午5点下班。    
 
 
+# ***\#duty-free*** adj
+英音 ˌdjuːti ˈfriː     美音 ˌduːti ˈfriː  
+
+  
+
+英文释义
+---
+### 1.**免税的**  
+
+
 # ***\#dwarf*** n
 英音 dwɔːf     美音 dwɔːrf  
 
@@ -8407,6 +9282,16 @@ Notes: 顺便走访某人为“drop in on sb”；顺便走访 某地为“drop 
 英文释义
 ---
 ### 1.**侏儒，小矮人**  
+
+
+# ***\#dweller*** n
+英音 'dwelə(r)     美音 'dwelər  
+
+  
+
+英文释义
+---
+### 1.**居民，居住者**  
 
 
 # ***\#dye*** v

@@ -69,7 +69,7 @@
 
 英文释义
 ---
-### 1.*高义频：* **vt & vi 拉开拉链；拉上拉链**  
+### 1.*高义频：* **vt & vi 拉开拉链；拉上拉链：**  
 
  > She **zipped up** her dress.   
  > 她拉上了衣服的拉链。    
@@ -98,14 +98,17 @@
 ---
 ### 1.*高义频：* **地区；区域；地带：**  
 
- > residential zones   
- > 住宅区    
+ > a nuclear-free zone  
+ > 无核区    
 
  > a time zone   
  > 时区    
 
  > economic and technological development zones   
  > 经济技术开发区    
+
+ > an earthquake zone  
+ > 地震带    
 
 
 # ***\#zoo*** n

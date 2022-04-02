@@ -22,7 +22,7 @@
 
 英文释义
 ---
-### 1.*高义频：* **工资；报酬：**  
+### 1.*高义频：* **工资；薪金：**  
 
  > high / low wages  
  > 高/低薪    
@@ -41,6 +41,16 @@
  > wage earners  
  > 工薪族    
 
+
+
+# ***\#wage*** vt
+英音 weɪdʒ     美音 weɪdʒ  
+
+| 词频 2 | 口语 2 | 书面 2 |  
+
+英文释义
+---
+### 1.**开始，发动**  
 
 
 # ***\#wagon*** n
@@ -64,7 +74,7 @@
 
 英文释义
 ---
-### 1.*高义频：* **腰；腰部：**  
+### 1.*高义频：* **腰；腰部；（衣服的）腰身部分：**  
 
  > She has a slim waist.  
  > 她腰身纤细。    
@@ -105,6 +115,9 @@
 
 - wait for sb / sth:
 
+ > wait for a chance  
+ > 等待机会    
+
  > We’ll wait for you at the school gate at 9 in the morning.  
  > 我们早上9点会在校门口等你。  （2015 全国）  
 
@@ -119,8 +132,8 @@
  > I’m waiting for my mum to have dinner.  
  > 我正在等妈妈吃饭。    
 
- > I’m eagerly waiting for the phone to ring.  
- > 我正急切地等待着电话铃声响起。  （2014 天津改）  
+ > Aliya waited for the war to end and dreamed of peace.  
+ > 阿利亚等着战争的结束，梦想着和平的到来。  （2017 浙江）  
 
 
 固定搭配
@@ -131,15 +144,22 @@
  > The car **is waiting for** us.  
  > 车已为我们备好。    
 
-## \#can’t wait
+## \#can’t  / can hardly wait
 1.**急切地；迫不及待地：**  
 
- > When winter arrived the kids **couldn’t wait to** go skating.  
- > 到了冬天，孩子们迫不及待地去滑冰。  （2014 湖南）  
+ > I could hardly wait to try this adventure again.  
+ > 我迫不及待地想再次体验这样的冒险。  （2018 天津）  
 
  > I **can't wait for** his return.  
  > 我急切地等他回来。    
 
+
+真题解析
+---
+1. Everyone was silent, wait to see who would be called upon to read his or her paragraph aloud.  （2018 全国 改错）  
+
+答案：
+1. wait→waiting  
 
 # ***\#waiter*** n
 英音 'weɪtə(r)     美音 'weɪtər  
@@ -196,11 +216,20 @@
 
 ### 2.*高义频：* **唤醒；弄醒：**  
 
- > It was the middle of the night when my father woke me up and told me to watch the football game.  
- > 就在半夜，我爸爸把我叫醒，让我去看足球赛。  （2014 江西）  
+ > Very early in the morning, Uncle Paul woke us up to have breakfast.  
+ > 一大清早，保罗叔叔把我们叫起来吃早饭。  （2018 浙江）  
 
  > I was woken by the sound of someone moving around.  
  > 有人来回走动，把我吵醒了。    
+
+
+固定搭配
+---
+## \#wake up to
+1.**意识到；认识到：**  
+
+ > He hasn't yet woken up to the fact that the situation is serious.  
+ > 他还没意识到形势严峻这个事实。    
 
 
 # ***\#walk*** v
@@ -221,6 +250,9 @@
  > It’s dangerous to **walk the streets** alone at night.  
  > 晚上一个人在大街上走很危险。    
 
+ > My mother used to walk 3 kilometers after supper to lose weight.  
+ > 我妈妈以前为了减肥，晚饭后常常走3公里。    
+
 ### 2.*低义频：* **遛 (动物)；陪 (某人) 走：**  
 
  > **walk** a **dog**  
@@ -235,6 +267,11 @@
 ## \#walk up (to)
 1.**走近**  
 
+## \#walk out (on sb)
+1.**遗弃 / 舍弃（某人）**  
+
+## \#walk out (on sth)
+1.
 
 # ***\#walk*** n
 英音 wɔːk     美音 wɔːk  
@@ -334,7 +371,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
 英文释义
 ---
-### 1.*高义频：* **漫游；漫步；闲逛：**  
+### 1.*高义频：* **闲逛；徘徊；漫步；离开（正道）：**  
 
  > wander about / over the world  
  > 周游世界    
@@ -346,6 +383,16 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
  > My mind began to wander. What job would I do?  
  > 我开始天马行空地思考，我应该做什么样的工作呢？  （人教⑤ – 3）  
+
+
+# ***\#wander*** n
+英音 'wɒndə(r)     美音 'wɑːndər  
+
+| 词频 2 | 口语 1 |  
+
+英文释义
+---
+### 1.**游荡；闲逛；流浪**  
 
 
 # ***\#want*** vt  重难点词汇
@@ -362,13 +409,13 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
 - want to do sth:
 
- > I wanted to save up money and buy my own car.  
- > 我想攒钱买一辆属于自己的车。  （2012 湖南）  
+ > I know you've always wanted to do something for environmental protection.  
+ > 我知道你一直想要为环保出一份力。  （2016 全国书面表达改）  
 
-- want sb to do sth:
+- want sb / sth to do sth：
 
- > He wants you to see him in his office tomorrow.  
- > 他要你明天到办公室见他。    
+ > The history teacher wants you to see him in his office tomorrow.  
+ > 历史老师要你明天到办公室见他。    
 
 - [常用于否定句] want sb doing sth:
 
@@ -399,16 +446,13 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
 ### 2.*高义频：* **需要：**  
 
- > Children want plenty of sleep.  
- > 儿童需要足够的睡眠。    
-
  > This sort of work wants patience.  
  > 这种工作需要耐心。    
 
 - want doing / to be done:
 
  > The house wants repairing / to be repaired.  
- > 房子需要修葺。    
+ > 这栋房子需要修缮。    
 
 
 # ***\#war*** n
@@ -424,6 +468,9 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
  > World War II broke out in 1939.  
  > 第二次世界大战爆发于1939年。    
+
+ > a trade war  
+ > 贸易战    
 
 
 固定搭配
@@ -511,10 +558,13 @@ Notes: 带拉链或按扣的女用钱包为purse。
 固定搭配
 ---
 ## \#warm up
-1.**(使) 暖起来；(使) 兴奋起来：**  
+1.**(使) 暖起来；重新加热 (heat up)；作准备动作 / 练习；（使）兴奋起来：**  
 
  > Have a cup of coffee to warm you up.  
  > 喝杯咖啡暖暖身子。    
+
+ > It's important to warm up and cool down properly before and after running, so you do not hurt yourself.  
+ > 适当的跑前热身和跑后放松是很重要的，这样你就不会受伤。  （北师大新必修①-2）  
 
  > He seemed surprised and then his weather-beaten face warmed up with a huge smile.  
  > 他看起来非常惊讶，接着他那沧桑的脸上露出了灿烂的笑容，显得很兴奋。  （2010 全国）  
@@ -529,8 +579,8 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ---
 ### 1.*高义频：* **暖和的；温暖的；保暖的：**  
 
- > Come and get warm by the fire.  
- > 到火堆边来暖和暖和。    
+ > The girls were stamping their feet to **stay / keep warm**.  
+ > 那些女孩在跺脚取暖。    
 
  > Red, yellow and orange are called warm colours.  
  > 红、黄、橙被称为暖色。    
@@ -540,11 +590,11 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
 ### 2.*高义频：* **热烈的；热情的；热心的：**  
 
- > a warm heart / person  
- > 热心肠/人    
-
  > The speaker was given a **warm welcome**.  
  > 发言人受到热烈的欢迎。    
+
+ > a warm heart / person  
+ > 热心肠/人    
 
 
 # ***\#warm-hearted*** adj
@@ -558,6 +608,16 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
  > Li Wei is always warm-hearted and cares a lot about the class.   
  > 李伟总是很热心，并且对同学们关爱有加。  （ 2010 浙江改）  
+
+
+# ***\#warm-up*** 
+
+
+  
+
+英文释义
+---
+### 1.**热身运动，准备活动**  
 
 
 # ***\#warmth*** n
@@ -587,7 +647,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
  > I tried to warn him, but he wouldn’t listen.  
  > 我试图警告过他，但他不听。    
 
-- warn (sb) of / about:
+- warn (sb) about / of sth:
 
  > She warned us about / of the serious situation.  
  > 她提醒我们要注意严峻的局势。    
@@ -604,8 +664,8 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
 - warn sb + that / wh- 从句：
 
- > She was warned that if she was late for work again, she would lose her job.  
- > 她被警告过，如果上班再迟到就会被解雇。    
+ > Scientists **warn that** global warming will cause catastrophic climate changes.  
+ > 科学家警告说全球变暖将导致灾难性的气候变化。  （北师大新必修③-8）  
 
 
 真题解析
@@ -626,11 +686,14 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ---
 ### 1.*高义频：* **警告；告诫：**  
 
- > The government has **issued a warning** that the fish may not be fit to eat.  
+ > The government have **issued a warning** that the fish may not be fit to eat.  
  > 政府发出警告，那种鱼可能不宜食用。    
 
  > She **gave** her children **a warning** not to bite their nails.  
  > 她告诫孩子们不要咬指甲。    
+
+ > a written / verbal warning  
+ > 书面 / 口头警告    
 
 
 # ***\#warrior*** n
@@ -654,14 +717,14 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ---
 ### 1.*高义频：* **洗 (手、脸、身体等)；洗涤：**  
 
- > **wash** clothes / **dishes**  
- > 洗衣服/碗    
+ > **wash** clothes / **dishes** / a car  
+ > 洗衣服 / 碗 / 车    
 
  > Wash your hands before eating.  
  > 吃东西前要先洗手。    
 
- > My husband washes and irons every day.  
- > 我丈夫每天又洗又熨。    
+ > My grandmother washes and irons every day.  
+ > 我奶奶每天又洗又熨。    
 
 ### 2.*低义频：* **耐洗：**  
 
@@ -671,7 +734,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ### 3.*低义频：* **冲走；冲出：**  
 
  > Soil has been washed into the river from the riverbank or from the nearby fields.  
- > 泥土从河岸或者附近的田地被冲进河里。  （2009 江苏改）  
+ > 河岸和附近田间的泥土被冲进了河里。  （2009 江苏改）  
 
 
 固定搭配
@@ -684,6 +747,15 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
 ## \#wash off
 1.**洗掉；洗去**  
+
+## \#wash out
+1.**洗净；清洗**  
+
+## \#wash over
+1.**（感觉）突然袭来：**  
+
+ > A feeling of relief washed over me.  
+ > 我顿时如释重负。    
 
 ## \#wash up
 1.**(BrE) 洗餐具；(AmE) 洗手或洗脸：**  
@@ -703,9 +775,6 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
  > Go to the bathroom and **have a wash**.  
  > 到浴室去洗个澡。    
-
- > The floor needs **a good wash**.  
- > 地板要好好冲洗一下。    
 
 
 # ***\#washing*** n
@@ -735,6 +804,16 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ### 1.*高义频：* **盥洗室；厕所**  
 
 
+# ***\#wasp*** n
+英音 wɒsp     美音 wɑːsp  
+
+  
+
+英文释义
+---
+### 1.**黄蜂**  
+
+
 # ***\#waste*** vt  重难点词汇
 英音 weɪst     美音 weɪst  
 
@@ -742,10 +821,10 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
 英文释义
 ---
-### 1.*高义频：* **浪费；损耗：**  
+### 1.*高义频：* **浪费；未充分利用：**  
 
- > waste food / energy / opportunities  
- > 浪费食物/能源/机会    
+ > waste energy / opportunities  
+ > 浪费能源/机会    
 
  > Experts believe that people can waste less food by shopping only when it is necessary.  
  > 专家们认为，只在需要时购买可以减少食物的浪费。  （2013 北京）  
@@ -760,8 +839,8 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
 - waste sth (in) doing sth:
 
- > She **wasted no time** (in) rejecting the offer(= she rejected the offer immediately).  
- > 她当即拒绝了这个提议。    
+ > She **wasted no time** (in) rejecting the job offer (= she rejected the offer immediately).  
+ > 她当即拒绝了这份工作聘用。    
 
 
 真题解析
@@ -780,9 +859,9 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
 英文释义
 ---
-### 1.*高义频：* **浪费；滥用：**  
+### 1.*高义频：* **浪费；滥用；白费：**  
 
- > It is **a waste of time** to wait any longer  
+ > It is **a waste of time** waiting any longer.  
  > 再等下去是白费时间。    
 
  > I hate to see good food **go to waste** (= be thrown away).  
@@ -790,8 +869,8 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
 ### 2.*高义频：* **废弃物；废料：**  
 
- > poisonous wastes  
- > 有毒废弃物    
+ > household /  industrial / chemical waste  
+ > 生活垃圾 / 工业废料 / 化学废弃物    
 
  > They’re working hard to turn waste into useful materials.  
  > 他们正努力把废物转化为有用的材料。    
@@ -816,6 +895,26 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
  > waste water / paper  
  > 废水/纸    
+
+
+# ***\#waste-to-energy*** adj
+英音 'weɪstt'ə'enədʒɪ     美音 'weɪstt'ə'enədʒɪ  
+
+  
+
+英文释义
+---
+### 1.**以垃圾作为能源的**  
+
+
+# ***\#wasteful*** adj
+英音 ˈweɪstfl     美音 ˈweɪstfl  
+
+  
+
+英文释义
+---
+### 1.**浪费的;挥霍的**  
 
 
 # ***\#watch*** v  重难点词汇
@@ -904,13 +1003,13 @@ Notes: 带拉链或按扣的女用钱包为purse。
 
 英文释义
 ---
-### 1.*低义频：* **守护；观察；注意：**  
+### 1.*低义频：* **注视；监视；观察；值班：**  
 
  > under close watch  
  > 被严密监视着    
 
- > I’ll take the watch from two o’clock till six.  
- > 我将站两点到六点的那班岗。    
+ > He was standing there **on watch**.  
+ > 他正站在那儿值班。    
 
 ### 2.*高义频：* **(手) 表：**  
 
@@ -921,16 +1020,10 @@ Notes: 带拉链或按扣的女用钱包为purse。
 固定搭配
 ---
 ## \#keep watch (for)
-1.**看守；警惕：**  
+1.**注视；监视：**  
 
  > He kept watch for the teacher as the students ran around the room.  
  > 当同学们在教室追逐嬉闹的时候，他总是望风，注意看老师来了没有。    
-
-## \#on watch
-1.**守望；值班：**  
-
- > He was standing there on watch.  
- > 他正站在那儿值班。    
 
 
 # ***\#watchtower*** n
@@ -956,6 +1049,12 @@ Notes: 带拉链或按扣的女用钱包为purse。
  > 浇花    
 
 
+固定搭配
+---
+## \#water down
+1.**缓和（说话、文章等的）语气；使变得轻描淡写**  
+
+
 # ***\#water*** n
 英音 'wɔːtə(r)     美音 'wɔːtər  
 
@@ -970,24 +1069,22 @@ Notes: 带拉链或按扣的女用钱包为purse。
  > **running / fresh water**  
  > 自来水/淡水    
 
-### 2.*高义频：* **水路；水上运输：**  
+### 2.*低义频：* **（某江、河、湖等的）水域；（某国的）领海：**  
 
- > He came to Shanghai **by water**.  
- > 他由水路来到上海。    
+ > the upper waters of the Yangtze River  
+ > 长江上游    
 
-### 3.*低义频：* **水域；领海：**  
-
- > The species is found in **coastal waters** around the Indian Ocean.  
- > 这一物种可在环印度洋沿岸的海域找到。    
-
- > We were still in **British waters**.  
- > 我们仍在英国领海上。    
+ > Chinese territorial waters  
+ > 中国领海    
 
 
 固定搭配
 ---
 ## \#hold water
 1.**(容器等) 盛得住水；(论点等) 站得住脚**  
+
+## \#water lily
+1.**睡莲**  
 
 
 # ***\#watercolour*** n
@@ -1012,6 +1109,16 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ### 1.*高义频：* **瀑布**  
 
 
+# ***\#waterfront*** n
+英音 ˈwɔːtəfrʌnt     美音 ˈwɔːtərfrʌnt  
+
+  
+
+英文释义
+---
+### 1.**滨水地区**  
+
+
 # ***\#watermelon*** n
 英音 'wɔːtəmelən     美音 'wɔːtərmelən  
 
@@ -1032,6 +1139,16 @@ Notes: 带拉链或按扣的女用钱包为purse。
 英文释义
 ---
 ### 1.*高义频：* **不透水的；防水的**  
+
+
+# ***\#waterway*** n
+英音 ˈwɔːtəweɪ     美音 ˈwɔːtərweɪ  
+
+  
+
+英文释义
+---
+### 1.**水道; 航道**  
 
 
 # ***\#watery*** adj
@@ -1059,7 +1176,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ### 2.*高义频：* **挥舞；挥动：**  
 
  > Crowds lined the route, **waving flags** and cheering.  
- > 拥挤的人们站在路线两边，又是挥旗，又是欢呼。    
+ > 人群沿路排成行，又是挥旗，又是欢呼。    
 
 ### 3.*高义频：* **挥手 (表示...)；(向...) 挥手示意：**  
 
@@ -1081,18 +1198,33 @@ Notes: 带拉链或按扣的女用钱包为purse。
 ---
 ### 1.*高义频：* **波 (浪)：**  
 
- > An enormous wave covered our boat and my younger brother fell into the sea.  
- > 巨浪把我们的小船吞噬了，我弟弟掉进了海里。  （北师大③ – 7）  
+ > A huge wave covered our boat and my younger brother fell into the sea.  
+ > 巨浪把我们的小船吞噬了，我弟弟掉进了海里。  （北师大新必修②-5）  
 
 ### 2.*高义频：* **挥手；招手：**  
 
  > He **gave** us **a wave** as the bus drove off.  
  > 公共汽车开走时，他向我们挥了挥手。    
 
-### 3.*高义频：* **(声、光、电等的) 波：**  
+### 3.*高义频：* **（活动或感情的）风潮；浪潮：**  
+
+ > **a wave of** panic / protest  
+ > 一阵恐慌 / 抗议的浪潮    
+
+### 4.*高义频：* **(声、光、电等的) 波：**  
 
  > **sound waves**  
  > 声波    
+
+
+# ***\#wavelength*** n
+英音 ˈweɪvleŋkθ     美音 ˈweɪvleŋkθ  
+
+  
+
+英文释义
+---
+### 1.**波长**  
 
 
 # ***\#wavy*** adj
@@ -1135,7 +1267,7 @@ Notes: 带拉链或按扣的女用钱包为purse。
  > 请问到北海公园怎么走？  （人教③ – 1）  
 
  > Want a lift? It’s **on my way**.  
- > 要搭车吗？你和我同路。    
+ > 要搭车吗？我顺路。    
 
 ### 2.*高义频：* **通道；出入口：**  
 
@@ -1167,19 +1299,19 @@ Notes: 带拉链或按扣的女用钱包为purse。
  > What surprised me was not what he said but the way (that / in which) he said it.  
  > 令我吃惊的不是他说的话而是他说话的方式。    
 
- > **It’s not his way** to wait passively for things to happen.  
- > 被动地等待事情发生不是他的风格。    
-
 Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关系词在定语从句中作方式状语时， 引导定语从句的in which或that可省略。  
 ### 6.*高义频：* **方面：**  
 
- > Ben is a perfectly normal child **in every way**.  
- > 本在各方面都是一个完全正常的孩子。    
+ > A good neighbor is one who likes to help out **in small ways**.  
+ > 一个好邻居就是这样，会在小的事情上伸出援手。  （2018 浙江）  
 
-### 7.*低义频：* **[常用复数] 习惯；习俗：**  
+### 7.*低义频：* **作风；[常用复数] 习惯；习俗：**  
 
- > British ways of living  
- > 英国人的生活方式    
+ > It's not his way to wait passively for things to happen.  
+ > 被动地等待事情发生不是他的作风。    
+
+ > Chinese ways of living  
+ > 中国人的生活方式    
 
 
 固定搭配
@@ -1193,6 +1325,9 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
  > I’m with you all the way.  
  > 我完全支持你。    
 
+## \#along the way
+1.**在这过程中；在这期间**  
+
 ## \#by the way
 1.**顺便说；顺便一提**  
 
@@ -1205,17 +1340,26 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
  > Children often learn reading by way of pictures.  
  > 孩子们通常看图识字。    
 
+## \#give way
+1.**坍塌；倒塌**  
+
 ## \#give way (to)
 1.**让步 (于)；屈服 (于)：**  
 
  > give way to pressure  
  > 在压力下让步    
 
- > He was always honest with us and never gave way to disappointment, even when the ship sank.  
- > 他对我们总是坦诚相待，并且从不灰心丧气，即使船沉的时候也是如此。  （人教⑩ – 1）  
-
  > Cinemas have gradually given way to the rise of the Internet and cellphones.  
  > 电影院逐渐被新兴的网络和手机所取代。  （2017 江苏书面表达）  
+
+## \#go out of one's way (to do sth)
+1.**格外努力（做某事）**  
+
+## \#have a way with
+1.**善于应付；善于处理；有办法对付**  
+
+ > Monkeys seem to have a way with numbers.  
+ > 猴子似乎善于处理数字。  （2019全国）  
 
 ## \#in a way
 1.**在某种程度上：**  
@@ -1232,6 +1376,12 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
  > In no way can we allow this to continue.   
  > 我们决不能容忍这样的事情继续下去。    
 
+## \#in one way or another
+1.**以某种方式；不管怎样：**  
+
+ > Though British and American English are different in one way or another, people have no difficulty in understanding each other.  
+ > 虽然英式英语和美式英语在某种程度上不同，但人们在相互理解方面是没有困难的。  （北师大新必修③-9）  
+
 ## \#in the / sb’s way
 1.**挡某人的道；妨碍某人：**  
 
@@ -1247,6 +1397,12 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
  > Let’s keep out of her way while she is in such a bad mood.  
  > 她心情这样不好的时候咱们避开她吧。    
 
+## \#make one's way (to)
+1.**前往（……）**  
+
+## \#make way (for)
+1.**给（……）让路**  
+
 ## \#no way
 1.**不可能；决不；不行：**  
 
@@ -1256,14 +1412,20 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
  > — No way. It was her fault.  
  > 不可能，都是她的错。    
 
- > **There's no way** we could afford that sort of money.  
- > 我们无论如何都花不起那种钱。    
+ > I'm afraid **there's no way** you'll get there in five minutes!  
+ > 恐怕你五分钟内到不了那里。  （2010 江西）  
+
+## \#on the / its way
+1.**在路上；即将到达 / 发生：**  
+
+ > He told me a helicopter was on its way, but it would be 30minutes before it arrived.  
+ > 他告诉我有一架直升机正在赶来，但要等30分钟才能到。  （2020 浙江）  
 
 ## \#out of the way
 1.**不挡道；不碍事：**  
 
- > As he walked on, Pierre moved out of the way for him to pass.  
- > 当他往前走的时候，皮埃尔让开路让他过去。  （2009 湖南改）  
+ > You have to move out of the way or the truck cannot get past you.  
+ > 你得让一下道，不然那辆卡车没法从你身边过去。  （2009 湖南改）  
 
 #### 辨析 way, road, path, street, avenue
 五者都可作“路”解，但含义有所不同。  
@@ -1275,6 +1437,9 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
  > It’s a hotel on Fifth Avenue.  
  > 这是位于第五大道上的一家旅馆。    
 
+
+## \#the other way around
+1.**相反；相反的情况**  
 
 
 真题解析
@@ -1314,7 +1479,10 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
 ### 1.*高义频：* **虚弱的 反【strong / tough】；微弱的：**  
 
  > The child was weak from hunger and almost fell.  
- > 这孩子因为饥饿很虚弱，差点摔倒。  （外研⑦ – 3）  
+ > 这孩子饿得虚弱无力，差点摔倒。  （外研⑦ – 3）  
+
+ > a weak ray of light  
+ > 一道微弱的光线    
 
 ### 2.*高义频：* **不擅长的；(能力等) 差的：**  
 
@@ -1324,6 +1492,7 @@ Notes: 先行词 way 作“方式”、“方法”或“手段”解，且关�
  > He is **weak in** mathematics, but good at English.  
  > 他数学差，但英语好。    
 
+### 3.*高义频：* 
 
 派生词汇
 ---
@@ -1381,6 +1550,9 @@ weakly /'wiːkli/ adv
  > Good health is worth more than wealth.  
  > 健康比财富更重要。  （人教⑤ – 5）  
 
+ > Oranges are a symbol of good fortune and wealth.  
+ > 橘子是好运和财富的象征。  （2020 全国）  
+
 
 # ***\#wealthy*** adj
 英音 'welθi     美音 'welθi  
@@ -1418,19 +1590,19 @@ weakly /'wiːkli/ adv
 ---
 ### 1.*高义频：* **穿 / 戴着；蓄留着：**  
 
- > wear one’s hair long  
- > 蓄长发    
-
  > She was wearing jeans and a sweater.  
  > 她穿着牛仔裤和毛衣。    
 
  > He is tall and thin, and wears glasses.  
  > 他又高又瘦，戴着眼镜。  （北师大⑤ – 15）  
 
+ > wear one’s hair long  
+ > 蓄长发    
+
 ### 2.*高义频：* **磨损：**  
 
- > This old overcoat is much worn.  
- > 这件旧大衣已穿得很破旧。    
+ > I've worn holes in my long john pants.  
+ > 我的秋裤穿破了。    
 
  > The material **wears well**.  
  > 这种材料很耐用。    
@@ -1449,8 +1621,8 @@ weakly /'wiːkli/ adv
 ## \#wear out
 1.*高义频：* **穿破；磨损：**  
 
- > My old boots are worn out.  
- > 我的旧靴子穿破了。    
+ > I've alrady worn out two pairs of shoes this year.  
+ > 今年我已经穿破两双鞋了。    
 
 2.*低义频：* **(使) 疲乏； (使) 耗尽； (使) 厌倦：**  
 
@@ -1480,6 +1652,32 @@ weakly /'wiːkli/ adv
 答案：
 1. wear out  
 
+# ***\#wear*** n
+英音 weə(r)     美音 wer  
+
+| 词频 5 | 口语 3 | 书面 3 |  
+
+英文释义
+---
+### 1.**穿戴；服装；磨损**  
+
+
+固定搭配
+---
+## \#wear and tear
+1.**磨损；损耗：**  
+
+ > Allowing for normal wear and tear, a washing machine should last at least ten years.  
+ > 考虑到正常的磨损，一台洗衣机至少要用十年。    
+
+
+派生词汇
+---
+wearable wearəbl adj   
+ > wearable technology  
+ > 可穿戴技术    
+
+
 # ***\#weary*** v
 英音 'wɪəri     美音 'wɪri  
 
@@ -1502,12 +1700,40 @@ weakly /'wiːkli/ adv
 ### 1.*高义频：* **天气**  
 
 
+固定搭配
+---
+## \#under the weather
+1.**略有不适；不得劲**  
+
+
 真题解析
 ---
 1. The w________ in the hills can change very quickly, so take suitable clothes.  
 
 答案：
 1. weather  
+
+# ***\#weather*** v
+英音 ˈweðə(r)     美音 ˈweðər  
+
+| 词频 5 | 口语 3 | 书面 2 |  
+
+英文释义
+---
+### 1.**（因受风吹、日晒、雨淋等，使）褪色；变色；变形；（使）饱经风霜**  
+
+### 2.**经受住；平安地渡过（难关）**  
+
+
+# ***\#weathercock*** n
+英音 ˈweðəkɒk     美音 ˈweðərkɑːk  
+
+  
+
+英文释义
+---
+### 1.**（公鸡形）风标**  
+
 
 # ***\#weave*** v
 英音 wiːv     美音 wiːv  
@@ -1518,7 +1744,7 @@ weakly /'wiːkli/ adv
 
 英文释义
 ---
-### 1.*高义频：* **(编) 织；编造；迂回行进**  
+### 1.*高义频：* **编；织；迂回行进**  
 
 
 # ***\#web*** n
@@ -1532,17 +1758,37 @@ weakly /'wiːkli/ adv
 ---
 ### 1.*高义频：* **(蜘蛛等结的) 网；网状物；网络：**  
 
+ > He watched a spider **spinning** its **web**.  
+ > 他看着一只蜘蛛在织网。    
+
  > **the World Wide Web**  
  > 万维网    
 
  > **web pages**  
  > (互联网的)网页    
 
- > He watched a spider **spinning** its **web**.  
- > 他看着一只蜘蛛在织网。    
-
  > I found the information **on the Web**.  
  > 我在网上查到了信息。    
+
+
+# ***\#webcam*** n
+英音 ˈwebkæm     美音 ˈwebkæm  
+
+  
+
+英文释义
+---
+### 1.**网络摄像头**  
+
+
+# ***\#webcast*** n
+英音 ˈwebkɑːst     美音 ˈwebkæst  
+
+  
+
+英文释义
+---
+### 1.**网络直播**  
 
 
 # ***\#website*** n
@@ -1597,7 +1843,7 @@ weakly /'wiːkli/ adv
 
 英文释义
 ---
-### 1.*高义频：* **杂草**  
+### 1.*高义频：* **杂草；海藻**  
 
 
 # ***\#weed*** v
@@ -1748,8 +1994,8 @@ weakly /'wiːkli/ adv
 
 ### 2.*高义频：* **重量为：**  
 
- > She weighs 60 kilos.  
- > 她的体重为60公斤。    
+ > At my heaviest I weighed 370 pounds.  
+ > 我最重时体重达到370磅。  （2017 天津）  
 
  > **What** does this box **weigh**?  
  > 这个箱子有多重?    
@@ -1758,6 +2004,15 @@ weakly /'wiːkli/ adv
 
  > We **weighed** the benefits of the plan **against** the risks involved.  
  > 我们权衡了这个计划的好处和相关的风险。    
+
+
+固定搭配
+---
+## \#weigh up
+1.**仔细考虑；权衡：**  
+
+ > We can weigh up the options and try to come to a decision.  
+ > 我们可以权衡一下各种选择，试着做出决定。  （外研新选必④-1）  
 
 
 # ***\#weight*** n
@@ -1784,6 +2039,28 @@ weakly /'wiːkli/ adv
  > 香蕉按重量出售。    
 
 
+固定搭配
+---
+## \#pull one's weight
+1.**做好分内事；尽责：**  
+
+ > Each has to pull their own weight.  
+ > 每个人都要尽自己的一份力。  （2020 全国）  
+
+
+# ***\#weight*** v
+英音 weɪt     美音 weɪt  
+
+| 词频 4 | 口语 3 | 书面 2 |  
+
+英文释义
+---
+### 1.**在……上加重量；使负重；（用重物）固定**  
+
+ > Weight the sheet's center down with a rock.  
+ > 在薄膜中心压一块石头使它下沉。  （2017 全国）  
+
+
 # ***\#weight-loss*** n
 英音 'weɪtl'ɒs     美音 'weɪtl'ɒs  
 
@@ -1794,14 +2071,34 @@ weakly /'wiːkli/ adv
 ### 1.**减肥，瘦身**  
 
 
+# ***\#weightless*** adj
+英音 ˈweɪtləs     美音 ˈweɪtləs  
+
+  
+
+英文释义
+---
+### 1.**失重的；无重量的**  
+
+
 # ***\#weightlessly*** adv
-英音 'weɪtləs     美音 'weɪtləs  
+英音 'weɪtləsli     美音 'weɪtləsli  
 
 | 词频 1 |  
 
 英文释义
 ---
 ### 1.*高义频：* **失重地**  
+
+
+# ***\#weightlifting*** n
+英音 ˈweɪtlɪftɪŋ     美音 ˈweɪtlɪftɪŋ  
+
+  
+
+英文释义
+---
+### 1.**举重**  
 
 
 # ***\#weird*** adj
@@ -1811,10 +2108,7 @@ weakly /'wiːkli/ adv
 
 英文释义
 ---
-### 1.*高义频：* **古怪的；奇异的：**  
-
- > a weird dream / idea  
- > 离奇的梦/怪异的想法    
+### 1.*高义频：* **古怪的；奇异的**  
 
 
 # ***\#welcome*** n  重难点词汇
@@ -2092,8 +2386,18 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 为了您自身的安全和动物的健康，请不要喂野生动物。  （2008 四川）  
 
 
+# ***\#well-done*** adj
+英音 ˌwel ˈdʌn     美音 ˌwel ˈdʌn  
+
+  
+
+英文释义
+---
+### 1.**（食物，尤指肉）熟透的；煮烂了的**  
+
+
 # ***\#well-dressed*** adj
-英音 well-dressed     美音 'wel'drest  
+英音 ˌwelˈdrest     美音 'wel'drest  
 
   
 
@@ -2134,6 +2438,16 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
  > 他是一个著名的艺术家。    
 
 
+# ***\#well-meaning*** adj
+英音 ˌwel ˈmiːnɪŋ     美音 ˌwel ˈmiːnɪŋ  
+
+  
+
+英文释义
+---
+### 1.**出于好心的，善意的**  
+
+
 # ***\#well-off*** adj
 英音 ˌwel'ɔf     美音 ˌwel'ɔf  
 
@@ -2142,6 +2456,36 @@ Notes: as well as 连接主语时，谓语动词应与as well as前的主语保�
 英文释义
 ---
 ### 1.**富有的**  
+
+
+# ***\#well-paid*** adj
+
+
+  
+
+英文释义
+---
+### 1.**报酬（或薪金）丰厚的**  
+
+
+# ***\#well-rounded*** adj
+
+
+  
+
+英文释义
+---
+### 1.**全面发展的；面面俱到的**  
+
+
+# ***\#wellness*** n
+英音 ˈwelnəs     美音 ˈwelnəs  
+
+  
+
+英文释义
+---
+### 1.**健康**  
 
 
 # ***\#west*** n
@@ -2229,6 +2573,26 @@ westerner /'westənə(r)/ n [C]
  > 飞机向西起飞。    
 
 
+# ***\#westward(s)*** adj
+英音 ˈwestwəd(z)     美音 ˈwestwərd(z)  
+
+  
+
+英文释义
+---
+### 1.**向西的**  
+
+
+# ***\#westward(s)*** adv
+英音 ˈwestwəd(z)     美音 ˈwestwərd(z)  
+
+  
+
+英文释义
+---
+### 1.**向西**  
+
+
 # ***\#westwards*** adj & adv
 英音 'westwədz     美音 'westwərdz  
 
@@ -2259,6 +2623,26 @@ westerner /'westənə(r)/ n [C]
 
  > Generally speaking, I do not like **wet weather**.  
  > 总的来说，我不喜欢下雨天。    
+
+
+# ***\#wet*** v
+英音 wet     美音 wet  
+
+| 词频 4 | 口语 2 | 书面 1 |  
+
+英文释义
+---
+### 1.**使潮湿；把……弄湿**  
+
+
+# ***\#wetland*** n
+英音 'wetlənd     美音 'wetlənd  
+
+  
+
+英文释义
+---
+### 1.**湿地**  
 
 
 # ***\#whale*** n
@@ -2491,6 +2875,20 @@ D.Whatever the weather is like
 英文释义
 ---
 ### 1.*高义频：* **车轮；方向盘**  
+
+
+# ***\#wheel*** v
+英音 wiːl     美音 wiːl  
+
+| 词频 4 | 口语 2 | 书面 1 |  
+
+英文释义
+---
+### 1.**推动**  
+
+### 2.**盘旋**  
+
+### 3.**突然转身**  
 
 
 # ***\#wheelchair*** n
@@ -3224,11 +3622,11 @@ D.while
 ---
 ### 1.*高义频：* **吹口哨；鸣笛：**  
 
- > The train whistled.  
- > 火车鸣响了汽笛。    
-
  > You probably sing or whistle when you are happy.  
  > 当你高兴的时候，很可能会唱歌或吹口哨。    
+
+ > The train whistled.  
+ > 火车鸣响了汽笛。    
 
 
 # ***\#white*** adj
@@ -3238,7 +3636,7 @@ D.while
 
 英文释义
 ---
-### 1.*高义频：* **白色的；苍白的；白种 (人) 的：**  
+### 1.*高义频：* **白色的；苍白的；白种 (人) 的；（咖啡 / 茶）加奶的：**  
 
  > His face was white with fear.  
  > 他吓得脸色苍白。    
@@ -3251,7 +3649,17 @@ D.while
 
 英文释义
 ---
-### 1.*高义频：* **[U] 白色；[C] 白种人**  
+### 1.*高义频：* **[U] 白色；[C] 白种人；蛋白**  
+
+
+# ***\#white-collar*** adj
+
+
+  
+
+英文释义
+---
+### 1.**白领的；脑力劳动的**  
 
 
 # ***\#who*** pron
@@ -3295,12 +3703,13 @@ Notes: who还可用于强调句型 it is / was ... who ...，此时被强调部�
 
 真题解析
 ---
-1. Happiness and success often come to those ________ are good at recognizing their own strengths.  （2013 湖南改）  
-2. After the flooding, people were suffering in that area, ________ urgently needed clean water, medicine and shelter to survive.  （2012 江苏改）  
-3. How much one enjoys himself travelling depends largely on ________ he goes with, whether his friends or relatives.  （2010 四川改）  
+1. They were well trained by their masters _______ had great experience with caring for these animals. （2019 全国）  
+2. Happiness and success often come to those ________ are good at recognizing their own strengths.  （2013 湖南改）  
+3. After the flooding, people were suffering in that area, ________ urgently needed clean water, medicine and shelter to survive.  （2012 江苏改）  
+4. How much one enjoys himself travelling depends largely on ________ he goes with, whether his friends or relatives.  （2010 四川改）  
 
 答案：
-1. who  2. who  3. who / whom  
+1. who / that  2. who  3. who  4. who / whom  
 
 # ***\#whoever*** pron
 英音 huː'evə(r)     美音 huː'evər  
@@ -3319,8 +3728,8 @@ Notes: who还可用于强调句型 it is / was ... who ...，此时被强调部�
  > Whoever wants to go to the Antarctic must be physically strong.  
  > 任何想去南极的人必须身体强壮。  （外研⑧ – 1）  
 
- > Give it to whoever you like.  
- > 你喜欢给谁就给谁。    
+ > The gold medal will be awarded to whoever wins the first place in the bicycle race.  
+ > 自行车比赛得第一名得人会获得金牌。  （2018 北京）  
 
 ### 3.*高义频：* **[连接代词，引导让步状语从句] 无论谁；不管什么人：**  
 
@@ -3330,24 +3739,24 @@ Notes: who还可用于强调句型 it is / was ... who ...，此时被强调部�
 
 真题解析
 ---
-1. We promise ________ attends the party a chance to have a photo taken with the movie star.  （2012 福建）  
+1. Every year, _______ makes the most beautiful kite will win a prize in the Kite Festival. （2017 北京）  （2017 北京）  
+A.whatever  
+B.whoever  
+C.whomever  
+D.whichever  
+2. We promise ________ attends the party a chance to have a photo taken with the movie star.  （2012 福建）  
 A.who  
 B.whom  
 C.whoever  
 D.whomever  
-2. When you are done with the book, just give it to Lucy or Helen or ________.  （2012 山东）  
+3. When you are done with the book, just give it to Lucy or Helen or ________.  （2012 山东）  
 A.whoever  
 B.wherever  
 C.Whatever  
 D.however  
-3. The how-to book can be of help to ________ wants to do the job.  （2009 陕西）  
-A.who  
-B.whomever  
-C.no matter who  
-D.whoever  
 
 答案：
-1. C  2. A  3. D  
+1. B  2. C  3. A  
 
 # ***\#whole*** adj
 英音 həʊl     美音 hoʊl  
@@ -3370,6 +3779,12 @@ D.whoever
  > 整个蛋糕    
 
 
+固定搭配
+---
+## \#a whole lot
+1.**[非正式用语] 许多；大量；非常**  
+
+
 # ***\#whole*** n
 英音 həʊl     美音 hoʊl  
 
@@ -3377,7 +3792,7 @@ D.whoever
 
 英文释义
 ---
-### 1.*高义频：* **[用the whole] 全部；全体；[常用a whole] 统一体：**  
+### 1.*高义频：* **[用the whole] 全部；全体；[常用a whole] 整体：**  
 
  > Some of his ideas are interesting, but **the whole of** it is ridiculous.   
  > 他的一部分想法很有趣，但整体来看很荒谬。    
@@ -3399,6 +3814,16 @@ D.whoever
 
  > On the whole the warming of the earth is a phenomenon that causes great concern.  
  > 总的说来，地球变暖是一个引起极大关注的现象。  （人教⑥ – 4）  
+
+
+# ***\#wholly*** adv
+英音 ˈhəʊlli     美音 ˈhəʊlli  
+
+  
+
+英文释义
+---
+### 1.**完全地**  
 
 
 # ***\#whom*** pron
@@ -3434,8 +3859,8 @@ D.whoever
  > The man with whom I shook hands just now is an artist.  
  > 刚才和我握手的那个人是位画家。    
 
- > She had a daughter, Persephone, whom she loved very much.    
- > 她有个女儿叫珀尔塞福涅，她非常爱她的女儿。    
+ > She had a daughter, whom she loved very much.  
+ > 她有个女儿，她非常爱她的女儿。    
 
  > Many people, some of whom are not overweight, are going on diets.    
  > 许多人在节食，可其中有些人并没有超重。  （译林① – 3）  
@@ -3462,8 +3887,8 @@ D.whoever
 ---
 ### 1.*高义频：* **[疑问代词] 谁的：**  
 
- > Whose picture is it?   
- > 这是谁的画?    
+ > Whose dictionary is it?  
+ > 这是谁的字典?    
 
 ### 2.*高义频：* **[连接代词，引导名词性从句] 谁的：**  
 
@@ -3478,8 +3903,8 @@ D.whoever
 
 ### 3.*高义频：* **[关系代词，引导定语从句] 那个 / 些人的；他 /她 / 它的；他们 / 她们 / 它们的：**  
 
- > Workers built shelters for survivors whose homes had been destroyed.   
- > 救援人员为那些家园被毁的幸存者盖起了避难所。  （人教① – 4）  
+ > Rescue workers built shelters for survivors whose homes had been destroyed.  
+ > 救援人员为那些家园被毁的幸存者盖起了避难所。  （人教① – 4改）  
 
  > The school shop, whose customers are mainly students, is closed for the holidays.  
  > 这个学校商店的顾客主要是学生，它在假期时不营业。  （2011 四川）  
@@ -3487,9 +3912,9 @@ D.whoever
 
 真题解析
 ---
-1. I live next door to a couple ________ children often make a lot of noise.  （2016 北京改）  
-2. The books on the desk, ________ covers are shiny, are prizes for us.  （2015 四川改）  
-3. I wish to thank Professor Smith, without ________ help I would never have got this far.  （2012 天津改）  
+1. Dr. Roman, _______ secretary resigned two weeks ago, has had to do all his typing.  （2020 天津改）  
+2. In ancient China lived an artist _______ paintings were almost lifelike.  （2020 全国）  
+3. In 1963 the UN set up the World Food Programme, one of _______ purposes is to relieve worldwide starvation.  （2017 江苏改）  
 
 答案：
 1. whose  2. whose  3. whose  
@@ -3580,7 +4005,7 @@ D.which
 
 英文释义
 ---
-### 1.**邪恶的**  
+### 1.**邪恶的；缺德的（evil）；极好的；很棒的**  
 
 
 # ***\#wide*** adj
@@ -3662,6 +4087,28 @@ widen /'waɪdn/ v
 英文释义
 ---
 ### 1.**睁大眼睛的；吃惊的；天真的**  
+
+
+# ***\#wide-eyed*** adv
+英音 ˌwaɪd ˈaɪd     美音 ˌwaɪd ˈaɪd  
+
+  
+
+英文释义
+---
+### 1.**睁大眼睛地**  
+
+### 2.**天真地；单纯地**  
+
+
+# ***\#wide-ranging*** adj
+英音 ˌwaɪd ˈreɪndʒɪŋ     美音 ˌwaɪd ˈreɪndʒɪŋ  
+
+  
+
+英文释义
+---
+### 1.**覆盖面广的，内容广泛的**  
 
 
 # ***\#widely*** adv
@@ -3777,6 +4224,16 @@ widen /'waɪdn/ v
 ### 1.*高义频：* **妻子**  
 
 
+# ***\#wig*** n
+英音 wɪɡ     美音 wɪɡ  
+
+  
+
+英文释义
+---
+### 1.**假发**  
+
+
 # ***\#wild*** adj
 英音 waɪld     美音 waɪld  
 
@@ -3797,12 +4254,12 @@ widen /'waɪdn/ v
  > He is abandoned in a wild area and has to find his way out.  
  > 他被丢在野外，必须找到出路。  （2015 北京改）  
 
-### 3.*高义频：* **野蛮的；粗暴的：**  
+### 3.*高义频：* **（行为）无法无天的；放荡的：**  
 
  > The boy is wild and completely out of control.   
  > 这个男孩很野，完全没法管教。    
 
-### 4.*高义频：* **狂热的；疯狂的：**  
+### 4.*高义频：* **（感情）强烈的；疯狂的：**  
 
  > His rock music makes the audience **go wild**.   
  > 他的摇滚乐使听众疯狂。    
@@ -3825,6 +4282,16 @@ wildly /'waɪldli/ adv
 
  > He went to Africa to see lions, giraffes, and elephants **in the wild**.   
  > 他到非洲去看野外的狮子、长颈鹿和大象。    
+
+
+# ***\#wildfire*** n
+英音 ˈwaɪldfaɪə(r)     美音 ˈwaɪldfaɪər  
+
+  
+
+英文释义
+---
+### 1.**野火**  
 
 
 # ***\#wildlife*** n
@@ -3854,20 +4321,22 @@ wildly /'waɪldli/ adv
  > **an iron will / a will of iron**  
  > 钢铁般的意志    
 
+ > In spite of what happened, he never lost the will to fight.  
+ > 尽管有如此遭遇，他从未丧失拼搏的意志。    
+
 ### 2.*高义频：* **[C] 遗嘱：**  
 
  > **make a will**   
  > 立遗嘱    
 
+### 3.*高义频：* **意愿：**  
+
+ > I was forced to sign the agreement **against my will**.  
+ > 我被迫违心地在协议上签了字。    
+
 
 固定搭配
 ---
-## \#against one’s will 
-1.**不情愿地；违心地：**  
-
- > I was forced to sign the agreement against my will.  
- > 我被迫违心地在协议上签了字。    
-
 ## \#at will 
 1.**随意地；随心所欲地：**  
 
@@ -3945,8 +4414,11 @@ D.do
 
 - be willing to do sth:
 
- > Are you willing to do public service work without pay?   
- > 你愿意义务做公共服务工作吗？    
+ > Successful people are always willing to do every little thing well.  
+ > 成功的人总是愿意做好每一件小事。    
+
+ > If we are willing to learn, the opportunities are everywhere.  
+ > 如果我们愿意学习，到处都是机会。  （2019 天津）  
 
 ### 2.*高义频：* **(人、行为等) 自发的；出于自愿的：**  
 
@@ -3999,6 +4471,12 @@ willingness /'wɪlɪŋnəs/ n [U]
  > 他是一名好老师，赢得了学生们的尊重。    
 
 
+固定搭配
+---
+## \#win over
+1.**赢得……的支持**  
+
+
 派生词汇
 ---
 winning /winning/ adj [只用于名词前]  
@@ -4046,11 +4524,30 @@ winning /winning/ adj [只用于名词前]
  > 90号高速公路沿着海岸线蜿蜒而去。    
 
 
+固定搭配
+---
+## \#wind up
+1.**给（机械）上发条；使（活动、会议等）结束：**  
+
+ > Mark wanted to wind the meeting up quickly because he had a plane to catch.  
+ > 马克想快点结束会议，因为他要赶飞机。    
+
+
 派生词汇
 ---
 winding  /winding/ adj   
  > a winding path  
  > 蜿蜒的小路    
+
+
+# ***\#windless*** adj
+英音 ˈwɪndləs     美音 ˈwɪndləs  
+
+  
+
+英文释义
+---
+### 1.**无风的；平静的**  
 
 
 # ***\#window*** n
@@ -4067,6 +4564,16 @@ winding  /winding/ adj
  > The thief entered by / through the window.   
  > 小偷从窗户进来的。    
 
+### 2.*低义频：* **获得信息的渠道：**  
+
+ > Reading those books opened **a window** for me **to** another **world**.  
+ > 读这些书为我打开了一扇通往另一个世界的窗户。  （人教新必修①-5）  
+
+
+# ***\#windscreen*** 
+
+
+  
 
 # ***\#windsurfing*** n
 英音 'wɪndsɜːfɪŋ     美音 'wɪndsɜːfɪŋ  
@@ -4109,7 +4616,19 @@ winding  /winding/ adj
 
 英文释义
 ---
-### 1.*高义频：* **翅膀；机翼**  
+### 1.*高义频：* **翅膀；机翼；侧翼；侧厅**  
+
+
+# ***\#wing*** v
+英音 wɪŋ     美音 wɪŋ  
+
+| 词频 3 | 口语 2 | 书面 2 |  
+
+英文释义
+---
+### 1.**飞；飞行**  
+
+### 2.**被迅速送往**  
 
 
 # ***\#winner*** n
@@ -4158,6 +4677,9 @@ winding  /winding/ adj
 ---
 ### 1.*低义频：* **擦；抹：**  
 
+ > **wipe** one's eyes **with** a tissue  
+ > 用纸巾擦眼睛    
+
  > **wipe** the table **with** a damp cloth   
  > 用一块湿布擦桌子    
 
@@ -4174,19 +4696,24 @@ winding  /winding/ adj
  > They **wiped away** the girls’ tears.   
  > 他们擦掉女孩子们的眼泪。    
 
-### 3.*低义频：* **去除；使消失：**  
-
- > Don’t **wipe** the scales **off** the fish.   
- > 不要把鱼鳞剔除。    
-
 
 固定搭配
 ---
 ## \#wipe out 
 1.**去除；消灭；摧毁：**  
 
- > A volcanic eruption nearly wiped out the small island of Montserrat in 1997.   
- > 1997年的一次火山喷发差点把蒙塞拉特这个小岛给毁灭了。  （北师大⑧ – 22）  
+ > A serious flu outbreak wiped out 99.4% of the world's population.  
+ > 一场严重的流感爆发夺去了全世界99.4%的人口。  （2019全国改）  
+
+
+# ***\#wipeout*** n
+英音 ˈwaɪpaʊt     美音 ˈwaɪpaʊt  
+
+  
+
+英文释义
+---
+### 1.**全部摧毁；彻底失败**  
 
 
 # ***\#wire*** n
@@ -4201,6 +4728,32 @@ winding  /winding/ adj
 ### 1.*高义频：* **金属丝 / 线；电线；电话线**  
 
 
+# ***\#wire*** vt
+英音 'waɪə(r)     美音 'waɪər  
+
+| 词频 3 | 口语 2 | 书面 1 |  
+
+英文释义
+---
+### 1.**给……接上电线 / 接通电源；将……连接到**  
+
+ > The washing machine wasn't working because it hadn't been **wire (up)** properly.  
+ > 洗衣机不转了，因为没有接通电源。    
+
+ > She was **wired (up) to** a heart monitor.  
+ > 她被连上了心脏检测器。    
+
+
+# ***\#wired*** adj
+英音 ˈwaɪəd     美音 ˈwaɪərd  
+
+  
+
+英文释义
+---
+### 1.**联网的；极其兴奋的**  
+
+
 # ***\#wireless*** adj
 英音 'waɪələs     美音 'waɪərləs  
 
@@ -4209,6 +4762,16 @@ winding  /winding/ adj
 英文释义
 ---
 ### 1.*高义频：* **无线的**  
+
+
+# ***\#wiring*** n
+英音 ˈwaɪərɪŋ     美音 ˈwaɪərɪŋ  
+
+  
+
+英文释义
+---
+### 1.**电线线路；线路系统**  
 
 
 # ***\#wisdom*** n
@@ -4225,8 +4788,11 @@ winding  /winding/ adj
  > a man of wisdom   
  > 智者    
 
- > We are inspired by his wisdom and virtue to nobler deed.  
- > 他的智慧和美德激励着我们，使我们的行为更加高尚。  （人教⑨ – 1）  
+ > a wisdom tooth  
+ > 智齿    
+
+ > With your words of wisdom, I suddenly felt unlimited freedom to dream. My whole world opened up.  
+ > 听完你说的至理名言，我突然感到梦想无边界，我的整个世界开启了。  （2011天津）  
 
 
 # ***\#wise*** adj
@@ -4236,7 +4802,7 @@ winding  /winding/ adj
 
 英文释义
 ---
-### 1.*高义频：* **(人) 有智慧的；英明的：**  
+### 1.*高义频：* **(人因阅历丰富而) 有智慧的；英明的：**  
 
  > The older, the wiser.  
  > 越老越聪明。/姜是老的辣。    
@@ -4249,8 +4815,8 @@ winding  /winding/ adj
  > **a wise move** / choice / decision  
  > 明智之举/明智的选择/明智的决定    
 
- > **It is wise to** have some money put away for old age.  
- > 存钱养老是明智之举。    
+ > If you are learning new worlds, **it is wise to** use small cards with the words written on them.  
+ > 如果你学习的是新单词，使用写有这些单词的小卡片是明智之举。  （人教新必修①-Welcome Unit）  
 
 
 # ***\#wisely*** adv
@@ -4291,8 +4857,8 @@ winding  /winding/ adj
 
 - wish to do sth:
 
- > I wish to find some pen friends for my students.   
- > 我想给学生们找一些笔友。  （2012 广东改）  
+ > Anyone wishing to try race walking should first consult a coach.  
+ > 任何想要尝试竞走的人应该首先咨询教练。  （2020全国改）  
 
 - wish sb to do sth:
 
@@ -4311,6 +4877,11 @@ winding  /winding/ adj
 
  > I wish you every success.   
  > 祝你万事如意。    
+
+### 4.*高义频：* **盼望；想要：**  
+
+ > It's no use **wishing for** the impossible.  
+ > 企求不可能的事情是无用的。    
 
 
 真题解析
@@ -4427,8 +4998,8 @@ winding  /winding/ adj
  > 他精心地准备每件事。    
 
 Notes: “with＋名词＋不定式 / 动词-ing / 过去分词 / 介词短语等”结构常作状语，表伴随、原因、条 件等，还可作定语。  
- > With tears of joy in her eyes, she saw her daughter married.  
- > 她眼里噙着高兴的泪水，看着女儿结婚。    
+ > With no other kids of my age in the neighborhood,I had to spend hours by myself.  
+ > 由于邻里没有和我同龄的孩子，我不得不一个人打发时间。    
 
  > With you to help us, we’ll surely succeed.   
  > 有你来帮我们，我们一定会成功。    
@@ -4448,17 +5019,16 @@ Notes: “with＋名词＋不定式 / 动词-ing / 过去分词 / 介词短语�
 
 真题解析
 ---
-1. In India, for example, most people traditionally eat ________ their hands.  （2016 全国）  
-2. The Scottish girl ________ blue eyes won the first prize in the Fifth Chinese Speech Contest.  （2014 陕西改）  
-3. The wine industry in the area has developed in a special way, ________little foreign ownership.   （2009 北京）  
+1. The Scottish girl ________ blue eyes won the first prize in the Fifth Chinese Speech Contest.  （2014 陕西改）  
+2. The wine industry in the area has developed in a special way, ________little foreign ownership.   （2009 北京）  
 A.by   
 B.of   
 C.with   
 D.from  
-4. You have no idea how she finished the relay race ________her foot wounded so much.  （2008 福建改）  
+3. You have no idea how she finished the relay race ________her foot wounded so much.  （2008 福建改）  
 
 答案：
-1. with  2. with  3. C  4. with  
+1. with  2. C  3. with  
 
 # ***\#withdraw*** v
 英音 wɪð'drɔː, wɪθ'drɔː     美音 wɪθ'drɔː, wɪð'drɔː  
@@ -4471,16 +5041,16 @@ D.from
 ---
 ### 1.*高义频：* **提取 (存款等)：**  
 
- > I wanted to **withdraw** $40 **from** our bank account.   
- > 我想从我们的银行账户里取40美元。  （北师大⑥ – 17）  
+ > I wanted to **withdraw** $4,000 **from** our bank account.  
+ > 我想从我们的银行账户里取4000美元。    
 
 ### 2.*高义频：* **收回 (发言、意见等)；退出：**  
 
  > The minister withdrew his statement later.  
  > 后来部长收回了自己的言论。    
 
- > I made the choice to **withdraw from** college to care for her.  
- > 我选择了退学来照顾她。  （ 2011 天津）  
+ > I made the choice to **withdraw from** college to care for my grandma.  
+ > 我选择了退学来照顾奶奶。  （2011 天津改）  
 
 
 # ***\#withdrawal*** n
@@ -4504,8 +5074,8 @@ D.from
 ---
 ### 1.*高义频：* **在...范围 / 时间以内；不超过：**  
 
- > We normally respond to article submissions within six weeks.   
- > 我们通常在6周内对提交的文章作出回应。    
+ > I completed the task within 40 minutes.  
+ > 我在40分钟内完成了任务。  （2015重庆）  
 
  > Put the tools **within** your **reach**.  
  > 把工具放在你能够得着的地方。    
@@ -4547,14 +5117,9 @@ A.against
 B.before  
 C.beyond   
 D.without  
-2. ________passion, people won’t have the motivation or the joy necessary for creative thinking.   （2012 上海）  
-A.For   
-B.Without   
-C.Beneath   
-D.By  
 
 答案：
-1. D  2. B  
+1. D  
 
 # ***\#witness*** n
 英音 'wɪtnəs     美音 'wɪtnəs  
@@ -4587,8 +5152,18 @@ D.By
  > I thought, at the time, that this was just a story but then I witnessed it with my own eyes many times.  
  > 当时，我以为那只不过是个传说而已，但是后来我亲眼目睹了许多次。  （人教⑦ – 3）  
 
- > The year 1849 witnessed a great war in that country.   
- > 1849年那个国家发生了一场大战。    
+ > The late twentieth century witnessed the rapid development of China's economy.  
+ > 20世纪末中国经济迅速发展。  （2016上海）  
+
+
+# ***\#witty*** adj
+英音 'wɪti     美音 'wɪti  
+
+  
+
+英文释义
+---
+### 1.**说话风趣的；妙趣横生的**  
 
 
 # ***\#wizard*** n
@@ -4642,10 +5217,7 @@ D.By
  > He **wondered about** her response, and just to clarify, he asked her another question.   
  > 他对她的回答感到很好奇，为了弄清楚，他又问了她一个问题。  （北师⑥ – 17）  
 
- > I wonder that I was able to survive the terrible accident.   
- > 我对自己能够在那次可怕的事故中幸免于难而感到不可思议。    
-
-### 2.*高义频：* **想知道：**  
+### 2.*高义频：* **想知道：琢磨：**  
 
 - wonder + wh- 从句：
 
@@ -4682,8 +5254,8 @@ D.By
 
 ### 2.*高义频：* **奇迹；奇事；奇才：**  
 
- > the Seven Wonders of the World  
- > 世界七大奇观    
+ > The pyramids were among the Eight  Wonders of the World  
+ > 金字塔是世界八大奇迹之一。    
 
  > **It's a wonder that** you didn’t lose your way in the dark.   
  > 你在黑暗中居然没有迷路，这真是个奇迹。    
@@ -4694,6 +5266,7 @@ D.By
 
 固定搭配
 ---
+## \#do/work wonders
 ## \#(it is) no wonder (that)
 1.**不足为奇：**  
 
@@ -4713,8 +5286,8 @@ D.By
 ---
 ### 1.*高义频：* **极好的；灵验的：**  
 
- > Do you believe that “wonder drugs” will be invented to treat diseases like AIDS in the future?   
- > 你相信未来将会研制出“灵丹妙药”来治疗像艾滋病这样的疾病吗？  （译林⑦ – 2）  
+ > Do you believe that “wonder drugs” will be invented to treat diseases like AIDS in the future?  
+ > 你相信未来会研制出治疗像艾滋病这类疾病的“灵丹妙药“吗？  （译林⑦ – 2）  
 
 
 真题解析
@@ -4734,12 +5307,19 @@ A.
 ---
 ### 1.*高义频：* **奇妙的；精彩的；极好的：**  
 
+ > a wonderful surprise/idea  
+ > 惊喜/妙计    
+
  > The food was wonderful with reasonable prices, and we enjoyed several local dishes.  
  > 食物很棒，价格公道，我们享受了几道当地菜。  （2012 陕西）  
 
- > The human brain is a wonderful organ.   
- > 人的大脑是一个奇妙的器官。    
 
+真题解析
+---
+1. We are so proud of our grandmother's award. It's_______(wonder).  （2019全国改）  
+
+答案：
+1. wonderful  
 
 # ***\#wonderland*** n
 英音 'wʌndəlænd     美音 'wʌndəlænd  
@@ -4748,7 +5328,7 @@ A.
 
 英文释义
 ---
-### 1.**(故事中的) 仙境,奇境**  
+### 1.**(童话中的) 仙境/奇境**  
 
 
 # ***\#wood*** n
@@ -4920,14 +5500,14 @@ A.
 ---
 ### 1.*高义频：* **(使) 工作；(使) 劳动：**  
 
- > After Jack had sent some e-mails, he started **working on** his project.   
- > 杰克发了几封电子邮件后，就开始做他这个项目的工作。  （2012 山东）  
-
  > He **worked** tirelessly **for** the charity throughout his life.   
  > 他毕生为慈善事业孜孜不倦地工作。    
 
  > She **worked herself** too hard.   
  > 她工作起来太努力了。    
+
+ > Her husband worked two jobs to cover the bills.  
+ > 她丈夫做两份工作来支付账单。  （2012 山东）  
 
 ### 2.*高义频：* **从事职业：**  
 
@@ -4947,11 +5527,19 @@ A.
 
 ### 4.*高义频：* **起作用；有效；行得通：**  
 
+ > It takes sunscreen about fifteen minutes to start working.  
+ > 防晒霜大约在（涂抹）15分钟后开始起作用。  （2019全国改）  
+
  > The medicine works more effectively if you drink some hot water after taking it.   
  > 你吃完这种药后再喝点热水，药效会更好。  （2009 浙江）  
 
  > We won’t know how the plan works till we have tried it out.   
  > 直到我们尝试后才能知道这个计划是否行得通。    
+
+### 5.*高义频：* **努力取得：**  
+
+ > Jennifer received great support from her family as she worked to earn her degree.  
+ > 詹妮弗在努力获得学位的过程中得到了家人的大力支持。  （2020山东）  
 
 
 固定搭配
@@ -4959,8 +5547,8 @@ A.
 ## \#work on 
 1.**从事于；致力于：**  
 
- > He has spent the last two years working on a book about childcare.   
- > 两年来他一直致力于撰写一本关于育儿的书。    
+ > After Jack had sent some e-mails,he started working on his project.  
+ > 杰克发了几封电子邮件后，就开始做他这个项目的工作。  （2012山东）  
 
 ## \#work out
 1.*高义频：* **算出 (calculate)；总共达：**  
@@ -4994,6 +5582,12 @@ A.
 
  > I go to the sports club and work out once a week.   
  > 我一周去一次体育馆锻炼。    
+
+## \#work through
+1.**解决（问题）；调整（情绪）：**  
+
+ > How did Ms Yi Jiefang work through her sadness after her son's death?  
+ > 易解放女士在儿子死后是如何调整悲伤情绪的？  （北师大新必修③-8）  
 
 
 真题解析
@@ -5034,22 +5628,28 @@ D.has worked
  > No matter how frequently performed, the works of Beethoven still attract people all over the world.  
  > 不管多么频繁地被演奏，贝多芬的作品依旧吸引着全世界的人们。    
 
-### 4.*低义频：* **工厂：**  
+### 4.*低义频：* **工厂：工程：**  
 
  > a steel works   
  > 钢铁厂    
+
+ > Public works  
+ > 公共/市政工程    
 
 
 固定搭配
 ---
 ## \#at work 
-1.**在工作；在运转：**  
+1.**在工作；在运转；有某种影响；起某种作用；**  
 
  > I was at work when I got a phone call.   
  > 我工作时接到一个电话。    
 
  > The machine is at work.   
  > 这台机器正在运转。    
+
+ > When she came over to my house with her red eyes, I knew there were deeper issues at work.  
+ > 当她红着眼睛来到我家时，我知道这里有更深层次的问题。    
 
 ## \#out of work 
 1.**失业 (unemployed)：**  
@@ -5058,15 +5658,14 @@ D.has worked
  > 我担心自己是否会丢掉工作。    
 
 
-派生词汇
----
-working /'wɜːkɪŋ/ adj [只用于名词前]  
- > **working hours / days**  
- > 工作时间/日    
+# ***\#workaday*** adj
+英音 'wɜːkədeɪ     美音 'wɜːkədeɪ  
 
-working /'wɜːkɪŋ/ n [常用复数]  
- > the **workings of** the human mind  
- > 人大脑的工作方式    
+  
+
+英文释义
+---
+### 1.**[正式用语][常用于名词前]普通的；平凡的（everyday）**  
 
 
 # ***\#workaholic*** n
@@ -5101,6 +5700,18 @@ working /'wɜːkɪŋ/ n [常用复数]
 ### 1.*高义频：* **工人；劳动者；工作者**  
 
 
+# ***\#workforce*** n
+英音 'wɜːkfɔːs     美音 'wɜːrkfɔːrs  
+
+  
+
+英文释义
+---
+### 1.**全体员工**  
+
+### 2.**劳动力**  
+
+
 # ***\#workhouse*** n
 英音 'wɜːkhaʊs     美音 'wɜːrkhaʊs  
 
@@ -5109,6 +5720,42 @@ working /'wɜːkɪŋ/ n [常用复数]
 英文释义
 ---
 ### 1.**（英国昔日的）济贫院；贫民习艺所**  
+
+
+# ***\#working*** adj
+英音 'wɜːkɪŋ     美音 'wɜːrkɪŋ  
+
+  
+
+英文释义
+---
+### 1.**［只用于名词前］工作（用）的：**  
+
+ > working hours / days  
+ > 工作时间 / 日    
+
+
+# ***\#working*** n
+英音 'wɜːkɪŋ     美音 'wɜːrkɪŋ  
+
+  
+
+英文释义
+---
+### 1.**［常用复数］工作方式；运行方式：**  
+
+ > the workings of the human mind  
+ > 人大脑的工作方式    
+
+
+# ***\#workout*** n
+英音 ˈwɜːkaʊt     美音 ˈwɜːrkaʊt  
+
+  
+
+英文释义
+---
+### 1.**锻炼**  
 
 
 # ***\#workplace*** n
@@ -5120,7 +5767,7 @@ working /'wɜːkɪŋ/ n [常用复数]
 
 英文释义
 ---
-### 1.*高义频：* **工作场所；工作地点**  
+### 1.*高义频：* **[常用单数]工作场所**  
 
 
 # ***\#workshop*** n
@@ -5134,6 +5781,9 @@ working /'wɜːkɪŋ/ n [常用复数]
 ---
 ### 1.*高义频：* **车间；研讨会；研习班**  
 
+ > I was conducting a workshop when someone knocked at the classroom door.  
+ > 我正在开研讨会时，有人敲教室的门。  （2017全国）  
+
 
 # ***\#world*** n
 英音 wɜːld     美音 wɜːrld  
@@ -5146,11 +5796,8 @@ working /'wɜːkɪŋ/ n [常用复数]
 ---
 ### 1.*高义频：* **世界；地球：**  
 
- > people **all over the world**   
+ > people all around/over, the worl**all over the world**  
  > 全世界人民    
-
- > a voyage **around the world**   
- > 环球航行    
 
 ### 2.*高义频：* **全世界的人：**  
 
@@ -5160,13 +5807,14 @@ working /'wɜːkɪŋ/ n [常用复数]
 ### 3.*高义频：* **界；领域：**  
 
  > the newspaper / academic world  
- > 报业界/学术界    
+ > 报界/学术界    
 
-### 4.*高义频：* **(个人的) 生活经历；生活圈子；场所：**  
+### 4.*高义频：* **社会；生活；生活圈子：**  
 
  > When she lost her son, her **entire world** changed.   
  > 自从失去儿子以后，她的整个世界完全改变了。    
 
+## \#（be）on top of the world非常快乐/幸福
 
 固定搭配
 ---
@@ -5216,11 +5864,21 @@ working /'wɜːkɪŋ/ n [常用复数]
 
 | 词频 1 |  
 
-用法点拨   [C] 
+用法点拨  [C]
 
 英文释义
 ---
 ### 1.*高义频：* **虫；蠕虫**  
+
+
+# ***\#wormwood*** n
+英音 ˈwɜːmwʊd     美音 ˈwɜːrmwʊd  
+
+  
+
+英文释义
+---
+### 1.**蒿；羊艾**  
 
 
 # ***\#worn*** adj
@@ -5281,8 +5939,8 @@ working /'wɜːkɪŋ/ n [常用复数]
  > She was very **worried about** her sick mother.  
  > 她非常担心生病的母亲。    
 
- > I’m **worried that** something bad has happened to him.   
- > 我担心他遭遇不测。  （译林② – 1）  
+ > Alia was **worried that** the fires of war would destroy the books.  
+ > 阿利亚担心战火会毁掉这些图书。  （2017浙江）  
 
 
 # ***\#worry*** v
@@ -5293,13 +5951,13 @@ working /'wɜːkɪŋ/ n [常用复数]
 英文释义
 ---
 ### 1.*高义频：* **使焦虑；使担忧**  
-英译 to be anxious or unhappy about sb or sth：
+英译 to make sb anxious about sb/sth：
 
- > He worried that he would fail the exam.  
- > 他担心会考试不及格。    
+ > What worries scientists now is that the African elephant has become an endangered species.  
+ > 现在令科学家担心的是非洲象已经成为濒危物种。    
 
- > Her child has a bad cough and it rather worries her.   
- > 孩子咳嗽得很严重，令她十分担忧。    
+ > It worries me that he keeps changing his mind.  
+ > 我发愁的是他一直在改变注意。    
 
 ### 2.*高义频：* **骚扰；烦扰；使不安 (bother)：**  
 
@@ -5311,11 +5969,11 @@ working /'wɜːkɪŋ/ n [常用复数]
 
 ### 3.*高义频：* **担心；发愁：**  
 
- > You have no cause / reason to worry.   
- > 你没有理由担心。    
+ > Don't worry .We still have plenty of time.  
+ > 别担心，我们还有很多时间。    
 
- > Frank doesn’t **worry about** making mistakes.  
- > 弗兰克不担心犯错。    
+ > Stop worrying about the past and live in the present**worry about**  
+ > 别担扰过去，活在当下。    
 
 
 # ***\#worry*** n
@@ -5384,6 +6042,12 @@ worrying /'wʌriɪŋ/ adj
  > The weather is getting worse and worse.   
  > 天气变得越来越坏。    
 
+## \#worse off
+1.**更穷的；更糟的：**  
+
+ > Unfortunately his father died,leaving the family even worse off.  
+ > 很不幸，他的父亲过世了，使得家里更加贫困。  （人教④-3）  
+
 
 # ***\#worse*** n
 英音 wɜːs     美音 wɜːrs  
@@ -5433,13 +6097,13 @@ worrying /'wʌriɪŋ/ adj
 
 英文释义
 ---
-### 1.*高义频：* **最坏的；最差的；病情最重的；最恶劣的：**  
+### 1.*高义频：* **最坏的；最差的；病情严重的；最恶劣的：**  
 
- > It was by far the worst speech he had ever made.   
+ > It was by far the worst speech he had ever made.  
  > 这是迄今为止他发表的最糟糕的演讲。    
 
- > This is the worst accident for years.   
- > 这是多年来最严重的一次事故。    
+ > This is the worst accident for years.  
+ > 这么多年来最严重的一次事故。    
 
 
 # ***\#worst*** adv
@@ -5587,11 +6251,14 @@ worthless /'wɜːθləs/ adj
 ---
 ### 1.*高义频：* **值得花时间 / 精力的：**  
 
- > a **worthwhile** job / **cause**   
- > 值得干的工作/值得为之奋斗的事业    
+ > a **worthwhile** job  
+ > 值得做的工作    
 
  > The smile on her face made it all worthwhile.   
  > 她脸上的笑容使得这一切都很值得。    
+
+ > We decided to give the money to a worthwhile cause(=one that helps people).  
+ > 我们决定把这笔钱投入到高尚的事业中。    
 
 - it is worthwhile doing / to do sth:
 
@@ -5615,8 +6282,8 @@ worthless /'wɜːθləs/ adj
 ---
 ### 1.*低义频：* **值得敬重的：**  
 
- > a worthy man   
- > 高尚的人    
+ > a worthy cause  
+ > 崇高的事业    
 
  > a worthy champion   
  > 当之无愧的冠军    
@@ -5625,20 +6292,18 @@ worthless /'wɜːθləs/ adj
 
 - (be) worthy of sth:
 
- > Her achievements are worthy of the highest praise.  
- > 她的成就值得给予最高奖赏。    
+ > she is a teacher who is worthy of respect  
+ > 她是位值得尊敬的老师。    
 
- > Two points in this report are especially **worthy of note**.  
- > 这个报告中有两个要点特别值得关注。    
+ > He insisted that the problem worthy of attention be discussed at the meeting.  
+ > 他坚持在会上讨论那个值得关注的问题。  （2010湖北改）  
 
 -  (be) worthy to do sth:
 
- > She is worthy to receive such honor.   
+ > She is worthy to receive such honor.  
  > 她应该获得这个荣誉。    
 
-- (be) worthy to be done:
-
- > The young man is worthy to be taught.   
+ > The young man is worthy to be taught.  
  > 孺子可教。    
 
 
@@ -5687,6 +6352,9 @@ worthless /'wɜːθləs/ adj
  > You would have better grades if you studied hard every day.   
  > 如果你每天都努力学习，就会有更好的成绩。    
 
+ > If I hadn't been faced with so many barriers,I wouldn't be where I am.  
+ > 如果我没有面对过那么多的障碍，就不会有今天的我。    
+
  > What would you do if they should disagree?   
  > 万一他们反对，你会怎么办？    
 
@@ -5723,23 +6391,20 @@ D.didn’t she
 ---
 ### 1.*高义频：* **使受伤；伤害：**  
 
- > The shot wounded his arm.   
- > 子弹击伤了他的胳膊。    
-
  > Many of the men were either killed or wounded by machine gun fire.   
  > 许多人被机关枪打死或打伤。  （外研⑥ – 6）  
+
+ > I was deeply wounded by her cruel remarks.  
+ > 她那刻薄的话深深的伤害了我。    
 
 #### 辨析 damage, hurt, injure, wound
 四者皆有“伤害”之意。  
 **damage ** 指对物体造成破坏，还指对人的健康或身体部位造成伤害。对人造成伤害一般不用damage，而用hurt, injure或wound。
-**hurt ** 是普通用词。 可指意外事故对人的身体造成伤害， 还指情感等方面受到伤害。
-**injure ** 是正式用词。 通常指意外事故对人的身体造成伤害。
+**hurt** 是普通用词。 指意外事故对人的身体造成伤害， 还指情感等方面受到伤害，强调引起的身体疼痛。
+**injure** 通常指意外事故对人的身体造成伤害，强调身体部位受到损伤。
 **wound ** 通常指受到刀、 枪等武器的伤害。
  > A bullet hit the soldier and he was wounded in the leg.  
  > 子弹击中了那个士兵，他的腿受伤了。    
-
- > a wounded soldier   
- > 伤员    
 
 
 
@@ -5772,15 +6437,15 @@ wounded /'wuːndɪd/ adj
 
 英文释义
 ---
-### 1.*高义频：* **裹；包：**  
+### 1.*高义频：* **包；裹：**  
 
  > I’d like to **wrap** Christmas presents **in** pretty paper.  
  > 我喜欢用漂亮的纸把圣诞礼物包起来。    
 
- > I saw a boy **wrapped in** a towel on the side of the pool.   
- > 我看到一个男孩裹着毛巾坐在游泳池边。    
+ > Zongzi are **wrapped in** bamboo leaves.  
+ > 粽子是用竹叶包的。    
 
-### 2.*高义频：* **缠绕:**  
+### 2.*高义频：* **缠绕:围住；**  
 
  > He **wrapped** a scarf **around** his neck.   
  > 他在脖子上围了一条围巾。    
@@ -5789,6 +6454,26 @@ wounded /'wuːndɪd/ adj
 派生词汇
 ---
 wrapping /'ræpɪŋ/ n [C] & [U]  
+
+# ***\#wrap*** n
+英音 ræp     美音 ræp  
+
+| 词频 3 | 口语 1 |  
+
+英文释义
+---
+### 1.**披肩，围巾；包裹材料**  
+
+
+# ***\#wrapper*** n
+英音 'ræpə(r)     美音 'ræpər  
+
+  
+
+英文释义
+---
+### 1.**（食品等的）包装材料，包装纸**  
+
 
 # ***\#wreath*** n
 英音 riːθ     美音 riːθ  
@@ -5809,7 +6494,7 @@ wrapping /'ræpɪŋ/ n [C] & [U]
 
 英文释义
 ---
-### 1.*高义频：* **使失事；使遭难；损害：**  
+### 1.*高义频：* **使失事；使遭难；损害：毁坏:**  
 
  > The ship was wrecked on the rocks.   
  > 船撞毁在礁石上。    
@@ -5827,13 +6512,23 @@ wrapping /'ræpɪŋ/ n [C] & [U]
 
 英文释义
 ---
-### 1.*高义频：* **遇难船只；残骸：**  
+### 1.*高义频：* **沉船；遭严重毁坏的车/船等：**  
 
  > Divers discovered the wreck of an old German warship.   
  > 潜水员发现了一艘古老的德国战舰。    
 
  > My car was a total wreck after the accident.   
  > 那次事故后，我的车成了一堆废铁。    
+
+
+# ***\#wren*** n
+英音 ren     美音 ren  
+
+  
+
+英文释义
+---
+### 1.**鹪鹩（一种褐色小鸟）**  
 
 
 # ***\#wrestle*** v
@@ -5849,6 +6544,20 @@ wrapping /'ræpɪŋ/ n [C] & [U]
 派生词汇
 ---
 wrestling  /'reslɪŋ/ n [U]   
+wrestling     
+
+# ***\#wrestler*** n
+英音 'reslə(r)     美音 'reslər  
+
+  
+
+英文释义
+---
+### 1.**摔跤运动员**  
+
+ > From birth to death ,yo  
+ >     
+
 
 # ***\#wrestling*** n
 英音 'reslɪŋ     美音 'reslɪŋ  
@@ -5860,6 +6569,16 @@ wrestling  /'reslɪŋ/ n [U]
 ### 1.**摔跤（运动）**  
 
 
+# ***\#wretch*** n
+英音 retʃ     美音 retʃ  
+
+  
+
+英文释义
+---
+### 1.**可怜的人**  
+
+
 # ***\#wrinkle*** n
 英音 'rɪŋkl     美音 'rɪŋkl  
 
@@ -5869,7 +6588,7 @@ wrestling  /'reslɪŋ/ n [U]
 
 英文释义
 ---
-### 1.*高义频：* **皱纹：**  
+### 1.*高义频：* **皱纹：褶皱**  
 
  > Grandfather has many wrinkles on his face.   
  > 祖父的脸上有许多皱纹。    
@@ -5898,7 +6617,7 @@ wrestling  /'reslɪŋ/ n [U]
 
 英文释义
 ---
-### 1.**（皮肤等）布满皱纹的，具有褶皱的**  
+### 1.**有褶皱的；有皱纹的**  
 
 
 # ***\#wrist*** n
@@ -5911,6 +6630,16 @@ wrestling  /'reslɪŋ/ n [U]
 英文释义
 ---
 ### 1.*高义频：* **腕；腕关节**  
+
+
+# ***\#wristband*** n
+英音 ˈrɪstbænd     美音 ˈrɪstbænd  
+
+  
+
+英文释义
+---
+### 1.**腕带;腕套**  
 
 
 # ***\#write*** v
@@ -5948,14 +6677,13 @@ wrestling  /'reslɪŋ/ n [U]
  > I wrote down new words and added them to my collection.   
  > 我记下新单词，加入到我自己的词汇表里。    
 
+## \#write up
+1.**(根据笔记) 写成文**  
 
-派生词汇
----
-writer  /'raɪtə(r)/ n [C]   
 
 真题解析
 ---
-1. The article was w ________in German and translated into Chinese.   （2005 浙江）  
+1. The article was w ________in German and translated into Chinese.  （2005 浙江）  
 
 答案：
 1. written  
@@ -5989,6 +6717,22 @@ writer  /'raɪtə(r)/ n [C]
 
  > writing paper  
  > 信纸    
+
+
+# ***\#written*** adj
+英音 'rɪtn     美音 'rɪtn  
+
+  
+
+英文释义
+---
+### 1.**书面的;笔头的；**  
+
+ > a written test  
+ > 笔试    
+
+ > the written word  
+ > 书面语    
 
 
 # ***\#wrong*** adj

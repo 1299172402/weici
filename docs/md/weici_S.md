@@ -550,6 +550,16 @@
  > 鸣礼炮21响    
 
 
+# ***\#samba*** n
+英音 'sæmbə     美音 'sæmbə  
+
+  
+
+英文释义
+---
+### 1.**桑巴舞；桑巴舞曲**  
+
+
 # ***\#same*** adj  重难点词汇
 英音 seɪm     美音 seɪm  
 
@@ -720,6 +730,16 @@
 答案：
 1. sandwich  
 
+# ***\#sandwich*** v
+英音 ˈsænwɪtʃ     美音 ˈsænwɪtʃ  
+
+| 词频 4 | 口语 2 |  
+
+英文释义
+---
+### 1.**【常用于被动语态】把……夹（或插）在中间**  
+
+
 # ***\#sandy*** adj
 英音 'sændi     美音 'sændi  
 
@@ -738,6 +758,26 @@
 英文释义
 ---
 ### 1.**讽刺的**  
+
+
+# ***\#sardine*** n
+英音 ˌsɑːˈdiːn     美音 ˌsɑːrˈdiːn  
+
+  
+
+英文释义
+---
+### 1.**沙丁鱼**  
+
+
+# ***\#sari*** n
+英音 ˈsɑːri     美音 ˈsɑːri  
+
+  
+
+英文释义
+---
+### 1.**莎丽（南亚妇女裹在身上的长巾）**  
 
 
 # ***\#satchel*** n
@@ -909,6 +949,16 @@ satisfying /'sætɪsfaɪɪŋ/ adj
 英文释义
 ---
 ### 1.*高义频：* **香肠；腊肠**  
+
+
+# ***\#savage*** adj
+英音 ˈsævɪdʒ     美音 ˈsævɪdʒ  
+
+  
+
+英文释义
+---
+### 1.**野蛮的**  
 
 
 # ***\#save*** v
@@ -1241,6 +1291,16 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 1.**把…吓跑**  
 
 
+# ***\#scare*** n
+英音 skeə(r)     美音 sker  
+
+| 词频 1 |  
+
+英文释义
+---
+### 1.**恐慌；惊吓**  
+
+
 # ***\#scared*** adj
 英音 skeəd     美音 skerd  
 
@@ -1281,6 +1341,16 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **(pl scarves / scarfs) 围巾；披肩**  
 
 
+# ***\#scarfpin*** n
+英音 ˈskɑːfˌpɪn     美音 'skɑ:fpin  
+
+  
+
+英文释义
+---
+### 1.**围巾夹，领带别针**  
+
+
 # ***\#scary*** adj
 英音 'skeəri     美音 'skeri  
 
@@ -1289,6 +1359,16 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 英文释义
 ---
 ### 1.**恐吓的；吓人的**  
+
+
+# ***\#scenario*** n
+英音 sə'nɑːriəʊ     美音 sə'nærioʊ  
+
+  
+
+英文释义
+---
+### 1.**设想；方案；预测**  
 
 
 # ***\#scene*** n
@@ -1546,6 +1626,16 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 英文释义
 ---
 ### 1.*高义频：* **教育；培养**  
+
+
+# ***\#school-leaver*** n
+
+
+  
+
+英文释义
+---
+### 1.**中学毕业生；应届生**  
 
 
 # ***\#schoolbag*** n
@@ -1935,6 +2025,26 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **[C] 剧本；手稿**  
 
 
+# ***\#scroll*** vi
+英音 skrəʊl     美音 skrəʊl  
+
+  
+
+英文释义
+---
+### 1.**上下滚动**  
+
+
+# ***\#scroll*** n
+英音 skrəʊl     美音 skrəʊl  
+
+  
+
+英文释义
+---
+### 1.**纸卷，卷轴**  
+
+
 # ***\#sculpt*** v
 英音 [skʌlpt]     美音 [skʌlpt]  
 
@@ -2118,6 +2228,16 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **海豹**  
 
 
+# ***\#seaman*** n
+英音 ˈsiːmən     美音 ˈsiːmən  
+
+  
+
+英文释义
+---
+### 1.**水手，海员；水兵**  
+
+
 # ***\#search*** v  重难点词汇
 英音 sɜːtʃ     美音 sɜːrtʃ  
 
@@ -2260,6 +2380,16 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ---
 ## \#in / out of season 
 1.**(食物) 当季的 / 不合时令的**  
+
+
+# ***\#season*** v
+英音 ˈsiːzn     美音 ˈsiːzn  
+
+| 词频 4 | 口语 1 | 书面 3 |  
+
+英文释义
+---
+### 1.**加调味料**  
 
 
 # ***\#seasonal*** adj
@@ -2490,6 +2620,16 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 ### 1.*高义频：* **其次；第二**  
 
 
+# ***\#secrecy*** n
+英音 ˈsiːkrəsi     美音 ˈsiːkrəsi  
+
+  
+
+英文释义
+---
+### 1.**保密，秘密**  
+
+
 # ***\#secret*** n
 英音 'siːkrət     美音 'siːkrət  
 
@@ -2665,6 +2805,16 @@ secretly /'siːkrətli/ adv
 
  > A good fire is a security against wild beasts.   
  > 生一大堆火可确保不受野兽的侵扰。    
+
+
+# ***\#sedately*** adv
+英音 sɪˈdeɪtli     美音 sɪˈdeɪtli  
+
+  
+
+英文释义
+---
+### 1.**安静地；慢悠悠地**  
 
 
 # ***\#see*** v  重难点词汇
@@ -3142,6 +3292,26 @@ Notes: self-用于构成复合名词或复合形容词，表示“自身的”�
 ### 1.**自我评估**  
 
 
+# ***\#self-belief*** 
+
+
+  
+
+英文释义
+---
+### 1.**自信**  
+
+
+# ***\#self-centred*** adj
+
+
+  
+
+英文释义
+---
+### 1.**自我中心的；自私的**  
+
+
 # ***\#self-conscious*** adj
 
 
@@ -3150,6 +3320,46 @@ Notes: self-用于构成复合名词或复合形容词，表示“自身的”�
 英文释义
 ---
 ### 1.**自觉的；难为情的；不自然的**  
+
+
+# ***\#self-control*** n
+英音 self kən'trəʊl     美音 self kən'troʊl  
+
+  
+
+英文释义
+---
+### 1.**自制力；自我控制**  
+
+
+# ***\#self-critical*** 
+
+
+  
+
+英文释义
+---
+### 1.**自我批评的，自我批判的**  
+
+
+# ***\#self-discipline*** n
+英音 ˌself ˈdɪsəplɪ     美音 ˌself ˈdɪsəplɪn  
+
+  
+
+英文释义
+---
+### 1.**自律；自我约束力**  
+
+
+# ***\#self-disciplined*** adj
+
+
+  
+
+英文释义
+---
+### 1.**自律的**  
 
 
 # ***\#self-educated*** adj
@@ -3170,6 +3380,56 @@ Notes: self-用于构成复合名词或复合形容词，表示“自身的”�
 英文释义
 ---
 ### 1.**自己经营的**  
+
+
+# ***\#self-evident*** adj
+英音 ˌself ˈevɪdənt     美音 ˌself ˈevɪdənt  
+
+  
+
+英文释义
+---
+### 1.**不证自明的；显而易见的**  
+
+
+# ***\#self-focused*** adj
+
+
+  
+
+英文释义
+---
+### 1.**以自我为中心的；关注自我的**  
+
+
+# ***\#self-made*** adj
+
+
+  
+
+英文释义
+---
+### 1.**靠自己奋斗成功的；白手起家的**  
+
+
+# ***\#self-starter*** n
+
+
+  
+
+英文释义
+---
+### 1.**有主见的人；做事主动的人**  
+
+
+# ***\#self-worth*** n
+
+
+  
+
+英文释义
+---
+### 1.**自我价值感**  
 
 
 # ***\#selfie*** n
@@ -3199,6 +3459,16 @@ Notes: self-用于构成复合名词或复合形容词，表示“自身的”�
 ---
 selfishly /'selfɪʃli/ adv   
 selfishness /'selfɪʃnəs/ n   
+
+# ***\#selfless*** adj
+英音 ˈselfləs     美音 ˈselfləs  
+
+  
+
+英文释义
+---
+### 1.**忘我的；无私的**  
+
 
 # ***\#sell*** v
 英音 sel     美音 sel  
@@ -3254,6 +3524,16 @@ selfishness /'selfɪʃnəs/ n
 ---
 seller /'selə(r)/ n   
 
+# ***\#sell-out*** n
+英音 ˈsel aʊt     美音 ˈsel aʊt  
+
+  
+
+英文释义
+---
+### 1.**满座的演出（或比赛等）**  
+
+
 # ***\#semester*** n
 英音 sɪ'mestə(r)     美音 sɪ'mestər  
 
@@ -3277,6 +3557,16 @@ seller /'selə(r)/ n
 英文释义
 ---
 ### 1.**半圆**  
+
+
+# ***\#semi-final*** 
+
+
+  
+
+英文释义
+---
+### 1.**半决赛**  
 
 
 # ***\#semicircle*** n
@@ -3641,6 +3931,16 @@ Notes: in no sense用于句首时，句子用部分倒装语序。
 答案：
 1. to  
 
+# ***\#sensor*** n
+英音 ˈsensə(r)     美音 ˈsensər  
+
+  
+
+英文释义
+---
+### 1.**传感器；敏感元件**  
+
+
 # ***\#sensory*** adj
 英音 'sensəri     美音 'sensəri  
 
@@ -3823,6 +4123,16 @@ separately /'sepərətli/ adv
 
  > The sequence of events in a story is called the plot.    
  > 故事中的一连串事件称为情节。  （译林③ – 1）  
+
+
+# ***\#sequence*** vt
+英音 'siːkwəns     美音 'siːkwəns  
+
+| 词频 1 | 书面 2 |  
+
+英文释义
+---
+### 1.**按顺序排序**  
 
 
 # ***\#series*** n
@@ -4589,6 +4899,16 @@ sexually /'sekʃəli/ adv
 ---
 shady /'ʃeɪdi/ adj   
 
+# ***\#shade*** vt
+英音 ʃeɪd     美音 ʃeɪd  
+
+| 词频 3 |  
+
+英文释义
+---
+### 1.**给……遮挡（光线）；加灯罩；把……涂暗**  
+
+
 # ***\#shadow*** n
 英音 'ʃædəʊ     美音 'ʃædoʊ  
 
@@ -4834,6 +5154,16 @@ D.Might
 shameful /'ʃeɪmfl/ adj   
 shameless /'ʃeɪmləs/ adj   
 
+# ***\#shameful*** adj
+英音 ˈʃeɪmfl     美音 ˈʃeɪmfl  
+
+  
+
+英文释义
+---
+### 1.**可耻的**  
+
+
 # ***\#shampoo*** n
 英音 ʃæm'puː     美音 ʃæm'puː  
 
@@ -4932,6 +5262,16 @@ shameless /'ʃeɪmləs/ adj
 
 答案：
 1. in  2. out of shape  
+
+# ***\#shapely*** adj
+英音 'ʃeɪpli     美音 'ʃeɪpli  
+
+  
+
+英文释义
+---
+### 1.**有曲线美的；匀称的**  
+
 
 # ***\#share*** n  重难点词汇
 英音 ʃeə(r)     美音 ʃer  
@@ -5112,6 +5452,16 @@ sharpen  v
 答案：
 1. sharply  2. sharp  
 
+# ***\#sharp-tongued*** adj
+
+
+  
+
+英文释义
+---
+### 1.**说话尖酸刻薄的**  
+
+
 # ***\#sharpen*** vt
 英音 'ʃɑːpən     美音 'ʃɑːrpən  
 
@@ -5141,6 +5491,16 @@ sharpen  v
 英文释义
 ---
 ### 1.*高义频：* **[C] 磨具；削具；铅笔刀**  
+
+
+# ***\#sharply*** adv
+英音 ˈʃɑːpli     美音 ˈʃɑːrpli  
+
+  
+
+英文释义
+---
+### 1.**严厉地，毫不客气地**  
 
 
 # ***\#shave*** v
@@ -5190,6 +5550,16 @@ sharpen  v
 英文释义
 ---
 ### 1.*高义频：* **电动剃刀**  
+
+
+# ***\#shaving*** n
+英音 'ʃeɪvɪŋ     美音 'ʃeɪvɪŋ  
+
+  
+
+英文释义
+---
+### 1.**刮胡子**  
 
 
 # ***\#shawl*** n
@@ -5478,6 +5848,16 @@ shiny /'ʃaɪni/ adj
 ### 1.**光亮，光泽**  
 
 
+# ***\#shiny*** adj
+英音 'ʃaɪni     美音 'ʃaɪni  
+
+  
+
+英文释义
+---
+### 1.**光滑发亮的；闪光的**  
+
+
 # ***\#ship*** n
 英音 ʃɪp     美音 ʃɪp  
 
@@ -5503,6 +5883,16 @@ shiny /'ʃaɪni/ adj
  > 上周他们用船把机器从上海运往天津。    
 
 
+# ***\#shipwreck*** n
+英音 ˈʃɪprek     美音 ˈʃɪprek  
+
+  
+
+英文释义
+---
+### 1.**失事的船；沉船**  
+
+
 # ***\#shipyard*** n
 英音 'ʃɪpjɑːd     美音 'ʃɪpjɑːrd  
 
@@ -5511,6 +5901,16 @@ shiny /'ʃaɪni/ adj
 英文释义
 ---
 ### 1.**造（修）船厂；船坞**  
+
+
+# ***\#shirk*** v
+英音 ʃɜːk     美音 ʃɜːrk  
+
+  
+
+英文释义
+---
+### 1.**逃避**  
 
 
 # ***\#shirt*** n
@@ -5523,6 +5923,16 @@ shiny /'ʃaɪni/ adj
 英文释义
 ---
 ### 1.*高义频：* **衬衫**  
+
+
+# ***\#shiver*** vi
+英音 'ʃɪvə(r)     美音 'ʃɪvər  
+
+  
+
+英文释义
+---
+### 1.**颤抖；哆嗦；发抖**  
 
 
 # ***\#shock*** n
@@ -5609,6 +6019,16 @@ shocking /'ʃɒkɪŋ/ adj
 英文释义
 ---
 ### 1.**（感到）震惊的，惊骇的**  
+
+
+# ***\#shocking*** adj
+英音 ˈʃɒkɪŋ     美音 ˈʃɑːkɪŋ  
+
+  
+
+英文释义
+---
+### 1.**令人震惊的；令人憎恶的**  
 
 
 # ***\#shoe*** n
@@ -5707,6 +6127,16 @@ shocking /'ʃɒkɪŋ/ adj
 ---
 shooting /'ʃuːtɪŋ/ n   
 
+# ***\#shooting*** n
+英音 ˈʃuːtɪŋ     美音 ˈʃuːtɪŋ  
+
+  
+
+英文释义
+---
+### 1.**射击；枪杀；（电影）拍摄**  
+
+
 # ***\#shop*** n
 英音 ʃɒp     美音 ʃɑːp  
 
@@ -5736,6 +6166,16 @@ shooting /'ʃuːtɪŋ/ n
 
  > We were excited about **shopping for** our first home.    
  > 要买我们的第一所房子我们感到很兴奋。  （2015 天津改）  
+
+
+# ***\#shopaholic*** n
+英音 ˌʃɒpəˈhɒlɪk     美音 ˌʃɑːpəˈhɑːlɪk  
+
+  
+
+英文释义
+---
+### 1.**购物狂**  
 
 
 # ***\#shopkeeper*** n
@@ -5901,6 +6341,16 @@ shooting /'ʃuːtɪŋ/ n
 
  > overcome shortcomings  
  > 克服缺点    
+
+
+# ***\#shortcut*** n
+英音 ˈʃɔːtkʌt     美音 ˈʃɔːrtkʌt  
+
+  
+
+英文释义
+---
+### 1.**捷径，近路**  
 
 
 # ***\#shorten*** v
@@ -6276,6 +6726,16 @@ D.might
  > 有好几百人到场，一些电视摄影师和记者也来了。    
 
 
+# ***\#showcase*** n
+英音 ˈʃəʊkeɪs     美音 ˈʃəʊkeɪs  
+
+  
+
+英文释义
+---
+### 1.**展示的场合；玻璃柜台**  
+
+
 # ***\#shower*** n
 英音 'ʃaʊə(r)     美音 'ʃaʊər  
 
@@ -6292,6 +6752,40 @@ D.might
 
  > **take** / **have a hot shower**  
  > 淋热水浴    
+
+
+# ***\#shower*** v
+英音 ˈʃaʊə(r)     美音 ˈʃaʊər  
+
+| 词频 3 | 口语 2 |  
+
+英文释义
+---
+### 1.**（洗）淋浴**  
+
+### 2.**大量地给**  
+
+### 3.**（使）洒落；掉落**  
+
+
+# ***\#showery*** adj
+英音 ˈʃaʊəri     美音 ˈʃaʊəri  
+
+  
+
+英文释义
+---
+### 1.**下阵雨的；多阵雨的**  
+
+
+# ***\#showy*** adj
+英音 ˈʃəʊi     美音 ˈʃəʊi  
+
+  
+
+英文释义
+---
+### 1.**显眼的；过分矫饰的；花哨的**  
 
 
 # ***\#shrimp*** n
@@ -6355,6 +6849,16 @@ D.might
 英文释义
 ---
 ### 1.**战栗，发抖**  
+
+
+# ***\#shun*** v
+英音 ʃʌn     美音 ʃʌn  
+
+  
+
+英文释义
+---
+### 1.**（故意）避开，躲开**  
 
 
 # ***\#shut*** v
@@ -6434,6 +6938,16 @@ D.might
 英文释义
 ---
 ### 1.*高义频：* **(织布机的) 梭；短程穿梭运行的车辆、飞机等；航天飞机**  
+
+
+# ***\#shuttle*** vi
+英音 'ʃʌtl     美音 'ʃʌtl  
+
+| 词频 1 |  
+
+英文释义
+---
+### 1.**频繁往来(于两地之间)**  
 
 
 # ***\#shy*** adj
@@ -6927,7 +7441,7 @@ shyly /ʃaɪli/ adv
 
 | 词频 2 | 书面 2 | 阅读 1 |  
 
-用法点拨   [U] &[C]
+用法点拨  [U] &[C]
 
 英文释义
 ---
@@ -6999,6 +7513,16 @@ significantly /sɪɡ'nɪfɪkəntli/ adv
 英文释义
 ---
 ### 1.**表示，表明**  
+
+
+# ***\#signpost*** n
+英音 ˈsaɪnpəʊst     美音 ˈsaɪnpoʊst  
+
+  
+
+英文释义
+---
+### 1.**路标**  
 
 
 # ***\#silence*** vt
@@ -7254,6 +7778,16 @@ similarly /'sɪmələli/ adv
 答案：
 1. simple  
 
+# ***\#simplified*** adj
+
+
+  
+
+英文释义
+---
+### 1.**简化了的**  
+
+
 # ***\#simplify*** vt
 英音 'sɪmplɪfaɪ     美音 'sɪmplɪfaɪ  
 
@@ -7311,6 +7845,26 @@ similarly /'sɪmələli/ adv
 
 答案：
 1. simply  
+
+# ***\#simulated*** adj
+英音 ˈsɪmjuleɪtɪd     美音 ˈsɪmjuleɪtɪd  
+
+  
+
+英文释义
+---
+### 1.**模仿的，模拟的，仿真的**  
+
+
+# ***\#simulator*** n
+英音 ˈsɪmjuleɪtə(r)     美音 ˈsɪmjuleɪtər  
+
+  
+
+英文释义
+---
+### 1.**（用于人员训练的）模拟装置，模拟器**  
+
 
 # ***\#sin*** n
 英音 sɪn     美音 sɪn  
@@ -7431,6 +7985,16 @@ similarly /'sɪmələli/ adv
 ---
 ## \#(yours) sincerely
 1.**[用于正式信件末尾] 敬上； 谨上**  
+
+
+# ***\#sincerity*** n
+英音 sɪnˈserəti     美音 sɪnˈserəti  
+
+  
+
+英文释义
+---
+### 1.**真诚，真挚，诚实**  
 
 
 # ***\#sing*** v
@@ -7621,6 +8185,16 @@ singing /'sɪŋɪŋ/ n [U]
 ### 1.*高义频：* **姐妹**  
 
 
+# ***\#sister-in-law*** n
+
+
+  
+
+英文释义
+---
+### 1.**配偶的姊妹；兄长（弟弟）的妻 子；配偶的兄弟之妻**  
+
+
 # ***\#sit*** v
 英音 sɪt     美音 sɪt  
 
@@ -7675,6 +8249,16 @@ singing /'sɪŋɪŋ/ n [U]
  > 我们熬夜看了场电影。    
 
 
+# ***\#sit-up*** n
+英音 ˈsɪt ʌp     美音 ˈsɪt ʌp  
+
+  
+
+英文释义
+---
+### 1.**仰卧起坐**  
+
+
 # ***\#site*** n
 英音 saɪt     美音 saɪt  
 
@@ -7704,6 +8288,16 @@ singing /'sɪŋɪŋ/ n [U]
 英文释义
 ---
 ### 1.**起居室**  
+
+
+# ***\#situate*** v
+英音 ˈsɪtʃueɪt     美音 ˈsɪtʃueɪt  
+
+  
+
+英文释义
+---
+### 1.**使位于；使坐落于；将……置于**  
 
 
 # ***\#situated*** adj
@@ -7851,11 +8445,37 @@ singing /'sɪŋɪŋ/ n [U]
 
 固定搭配
 ---
-## \#(be) sceptical about / of 
+## \#(be) skeptical about / of
 1.**对…持怀疑态度：**  
 
  > She is skeptical of everything.   
  > 她怀疑一切。    
+
+
+# ***\#sketch*** n
+英音 sketʃ     美音 sketʃ  
+
+  
+
+英文释义
+---
+### 1.**幽默短剧；小品**  
+
+### 2.**素描；速写；草图**  
+
+### 3.**简报；速写；概述**  
+
+
+# ***\#sketch*** v
+英音 sketʃ     美音 sketʃ  
+
+  
+
+英文释义
+---
+### 1.**画素描；画速写**  
+
+### 2.**概述；简述**  
 
 
 # ***\#ski*** n
@@ -7888,6 +8508,16 @@ singing /'sɪŋɪŋ/ n [U]
 英文释义
 ---
 ### 1.**滑雪的**  
+
+
+# ***\#skiing*** n
+英音 'skiːɪŋ     美音 'skiːɪŋ  
+
+  
+
+英文释义
+---
+### 1.**滑雪运动；滑水运动**  
 
 
 # ***\#skilful*** adj
@@ -8067,6 +8697,16 @@ scan, skim和skip是阅读文章时所采取的三种策略。
  > 香蕉皮    
 
 
+# ***\#skinny*** adj
+英音 'skɪni     美音 'skɪni  
+
+  
+
+英文释义
+---
+### 1.**［非正式用语］极瘦的；皮包骨的**  
+
+
 # ***\#skip*** v
 英音 skɪp     美音 skɪp  
 
@@ -8113,6 +8753,16 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 1.**跳级**  
 
 
+# ***\#skip*** n
+英音 skɪp     美音 skɪp  
+
+| 词频 3 |  
+
+英文释义
+---
+### 1.**蹦跳**  
+
+
 # ***\#skirt*** n
 英音 skɜːt     美音 skɜːrt  
 
@@ -8156,6 +8806,26 @@ scan, skim和skip是阅读文章时所采取的三种策略。
 
 Notes: sky 常与定冠词连用；有形容词修饰时，可与不定冠词连用。  
 
+# ***\#skydiving*** n
+英音 'skaɪdaɪvɪŋ     美音 'skaɪdaɪvɪŋ  
+
+  
+
+英文释义
+---
+### 1.**[U]跳伞运动**  
+
+
+# ***\#skylight*** n
+英音 ˈskaɪlaɪt     美音 ˈskaɪlaɪt  
+
+  
+
+英文释义
+---
+### 1.**天窗**  
+
+
 # ***\#skyscraper*** n
 英音 'skaɪskreɪpə(r)     美音 'skaɪskreɪpər  
 
@@ -8194,6 +8864,16 @@ Notes: sky 常与定冠词连用；有形容词修饰时，可与不定冠词连
 
  > Small waves **slapped against** the side of the boat.  
  > 细浪拍击着船舷。    
+
+
+# ***\#slap*** n
+英音 slæp     美音 slæp  
+
+| 词频 1 |  
+
+英文释义
+---
+### 1.**(用手掌) 打、拍; 拍击声**  
 
 
 # ***\#slave*** n
@@ -8355,6 +9035,16 @@ sleepless /'sliːpləs/ adj
 
  > a big / large **slice of** income  
  > 收入中的一大部分    
+
+
+# ***\#slice*** vt
+英音 slaɪs     美音 slaɪs  
+
+| 词频 1 | 口语 1 |  
+
+英文释义
+---
+### 1.**把……切成薄片**  
 
 
 # ***\#slide*** n
@@ -8592,6 +9282,16 @@ sleepless /'sliːpləs/ adj
 ### 1.*高义频：* **斜坡；坡度**  
 
 
+# ***\#slope*** v
+英音 sləʊp     美音 sloʊp  
+
+| 词频 2 | 书面 1 |  
+
+英文释义
+---
+### 1.**有坡度，倾斜**  
+
+
 # ***\#slow*** adj
 英音 sləʊ     美音 sloʊ  
 
@@ -8663,6 +9363,16 @@ slowly /'sləʊli/ adv
  > 如果进入大气中的二氧化碳减少，全球气候变暖的速度就会放慢。  （北师大⑧ – 22）  
 
 
+# ***\#slump*** vi
+英音 slʌmp     美音 slʌmp  
+
+  
+
+英文释义
+---
+### 1.**垂头弯腰地走（或坐等）**  
+
+
 # ***\#small*** adj
 英音 smɔːl     美音 smɔːl  
 
@@ -8724,6 +9434,16 @@ slowly /'sləʊli/ adv
 英文释义
 ---
 ### 1.**潇洒地；漂亮地**  
+
+
+# ***\#smartphone*** n
+英音 'smɑːtfəʊn     美音 'smɑːrtfoʊn  
+
+  
+
+英文释义
+---
+### 1.**智能手机**  
 
 
 # ***\#smell*** n
@@ -8914,6 +9634,16 @@ smelly /'smeli/ adj
  > 抽支烟。    
 
 
+# ***\#smoke-free*** adj
+
+
+  
+
+英文释义
+---
+### 1.**禁止吸烟的**  
+
+
 # ***\#smoker*** n
 英音 'sməʊkə(r)     美音 'smoʊkər  
 
@@ -9028,6 +9758,16 @@ smoothly /'smuːðli/ adv
 ### 1.*高义频：* **蛇**  
 
 
+# ***\#snake*** v
+英音 sneɪk     美音 sneɪk  
+
+| 词频 4 | 口语 1 |  
+
+英文释义
+---
+### 1.**蛇形；蜿蜒伸展**  
+
+
 # ***\#snap*** n
 英音 snæp     美音 snæp  
 
@@ -9095,6 +9835,16 @@ smoothly /'smuːðli/ adv
 
  > He kept sneezing and his nose was running.  
  > 他不停地打喷嚏，流鼻涕。  （2009 重庆）  
+
+
+# ***\#sneeze*** n
+英音 sniːz     美音 sniːz  
+
+| 词频 1 |  
+
+英文释义
+---
+### 1.**打喷嚏**  
 
 
 # ***\#sniff*** v
@@ -9451,6 +10201,16 @@ D.the attack was
 ### 1.*高义频：* **英式足球**  
 
 
+# ***\#sociable*** adj
+英音 ˈsəʊʃəbl     美音 ˈsəʊʃəbl  
+
+  
+
+英文释义
+---
+### 1.**好交际的；合群的；友好的**  
+
+
 # ***\#social*** adj
 英音 'səʊʃl     美音 'soʊʃl  
 
@@ -9470,6 +10230,16 @@ D.the attack was
 派生词汇
 ---
 socially /'səʊʃəli/ adv   
+
+# ***\#socialise*** vi
+英音 ˈsəʊʃəlaɪz     美音 ˈsəʊʃəlaɪz  
+
+  
+
+英文释义
+---
+### 1.**交友;交际;交往**  
+
 
 # ***\#socialism*** n
 英音 'səʊʃəlɪzəm     美音 'soʊʃəlɪzəm  
@@ -9508,6 +10278,30 @@ socially /'səʊʃəli/ adv
 ### 1.*高义频：* **社会主义者**  
 
 
+# ***\#socialization*** n
+英音 ˌsəʊʃəlaɪˈzeɪʃn     美音 ˌsəʊʃələˈzeɪʃn  
+
+  
+
+英文释义
+---
+### 1.**社会化**  
+
+
+# ***\#socialize*** v
+英音 ˈsəʊʃəlaɪz     美音 ˈsəʊʃəlaɪz  
+
+  
+
+英文释义
+---
+### 1.**（和他人）交际；交往**  
+
+### 2.**使适应社会**  
+
+### 3.**使社会主义化**  
+
+
 # ***\#society*** n
 英音 sə'saɪəti     美音 sə'saɪəti  
 
@@ -9527,6 +10321,26 @@ socially /'səʊʃəli/ adv
 
  > the American Cancer Society  
  > 美国癌症学会    
+
+
+# ***\#sociologist*** n
+英音 ˌsəʊsiˈɒlədʒɪst     美音 ˌsəʊsiˈɑːlədʒɪst  
+
+  
+
+英文释义
+---
+### 1.**社会学家**  
+
+
+# ***\#sociology*** n
+英音 ˌsəʊsiˈɒlədʒi     美音 ˌsəʊsiˈɑːlədʒi  
+
+  
+
+英文释义
+---
+### 1.**社会学**  
 
 
 # ***\#sock*** n
@@ -9687,6 +10501,26 @@ softly /'sɒftli/ adv
 ### 1.*高义频：* **(陆军) 军人；士兵**  
 
 
+# ***\#solely*** adv
+英音 ˈsəʊlli     美音 ˈsəʊlli  
+
+  
+
+英文释义
+---
+### 1.**唯一地，仅仅**  
+
+
+# ***\#solemn*** adj
+英音 ˈsɒləm     美音 ˈsɑːləm  
+
+  
+
+英文释义
+---
+### 1.**严肃的，庄重的**  
+
+
 # ***\#solid*** n
 英音 'sɒlɪd     美音 'sɑːlɪd  
 
@@ -9743,6 +10577,26 @@ D.potential
 
 答案：
 1. A  
+
+# ***\#solidarity*** n
+英音 ˌsɒlɪˈdærəti     美音 ˌsɑːlɪˈdærəti  
+
+  
+
+英文释义
+---
+### 1.**团结，齐心协力**  
+
+
+# ***\#solitude*** n
+英音 ˈsɒləɪtjuːd     美音 ˈsɑːlətuːd  
+
+  
+
+英文释义
+---
+### 1.**独处，独居**  
+
 
 # ***\#solo*** n
 英音 'səʊləʊ     美音 'soʊloʊ  
@@ -10081,8 +10935,8 @@ Notes: something, anything, nothing, somebody,anybody, nobody, everyone, anyone,
 
 真题解析
 ---
-1. — Have you figured out how much the trip will cost?
-— $4,000, or something ________ like that.  （2012 福建改）  
+1. — Have you figured out how much the trip will cost?
+— $4,000, or something ________ that.  （2012 福建改）  
 
 答案：
 1. like  
@@ -10337,6 +11191,16 @@ D.Mo Yan has
  > 人生的悲欢    
 
 
+# ***\#sorrow*** vt
+英音 'sɒrəʊ     美音 'sɑːroʊ  
+
+| 词频 2 |  
+
+英文释义
+---
+### 1.**感到悲伤**  
+
+
 # ***\#sorry*** int  重难点词汇
 英音 'sɒri     美音 'sɑːri  
 
@@ -10496,6 +11360,16 @@ D.Mo Yan has
 
  > We had driven ten hours along the road through the jungle without seeing another soul.  
  > 我们在丛林中沿路开了10个小时的车，没见到一个人影。  （外研⑦ – 5）  
+
+
+# ***\#soulmate*** n
+英音 ˈsəʊlmeɪt     美音 ˈsəʊlmeɪt  
+
+  
+
+英文释义
+---
+### 1.**知心朋友；知己**  
 
 
 # ***\#sound*** n  重难点词汇
@@ -10671,6 +11545,26 @@ D.Mo Yan has
 英文释义
 ---
 ### 1.*高义频：* **酸的；酸味的**  
+
+
+# ***\#sour*** v
+英音 'saʊə(r)     美音 'saʊər  
+
+| 词频 1 |  
+
+英文释义
+---
+### 1.**（使）变坏；变味，酸腐**  
+
+
+# ***\#sour-faced*** adj
+
+
+  
+
+英文释义
+---
+### 1.**脸色阴沉的；显得不高兴的**  
 
 
 # ***\#source*** n
@@ -10967,6 +11861,16 @@ southerner /'sʌðənə(r)/ n [C]
 
 Notes: in space表示“在太空中”，space前不用冠词。  
 
+# ***\#spacecraft*** n
+英音 'speɪskrɑːft     美音 'speɪskræft  
+
+  
+
+英文释义
+---
+### 1.**航天器；宇宙飞船**  
+
+
 # ***\#spaceman*** n
 英音 'speɪsmæn     美音 'speɪsmæn  
 
@@ -11002,6 +11906,26 @@ Notes: in space表示“在太空中”，space前不用冠词。
 
  > launch a manned / unmanned spaceship  
  > 发射载人/无人宇宙飞船    
+
+
+# ***\#spacesuit*** n
+英音 ˈspeɪssuːt     美音 ˈspeɪssuːt  
+
+  
+
+英文释义
+---
+### 1.**航天服；宇航服**  
+
+
+# ***\#spacewalk*** n
+英音 'speɪswɔːk     美音 'speɪswɔːk  
+
+  
+
+英文释义
+---
+### 1.**太空行走；太空行走的时间**  
 
 
 # ***\#spade*** n
@@ -11140,6 +12064,26 @@ Notes: in space表示“在太空中”，space前不用冠词。
 
 答案：
 1. spare  
+
+# ***\#sparkle*** n
+英音 ˈspɑːkl     美音 ˈspɑːrkl  
+
+  
+
+英文释义
+---
+### 1.**闪耀，闪光**  
+
+
+# ***\#sparkling*** adj
+英音 ˈspɑːklɪŋ     美音 ˈspɑːrklɪŋ  
+
+  
+
+英文释义
+---
+### 1.**闪亮的，闪光的**  
+
 
 # ***\#sparrow*** n
 英音 'spærəʊ     美音 'spæroʊ  
@@ -11344,6 +12288,16 @@ Notes: speaking常与某些副词连用，作插入语。
  > 军事史专家    
 
 
+# ***\#specialist*** adj
+英音 'speʃəlɪst     美音 'speʃəlɪst  
+
+| 词频 3 | 口语 1 | 书面 1 |  
+
+英文释义
+---
+### 1.**专业的**  
+
+
 # ***\#specialize*** vi
 英音 'speʃəlaɪz     美音 'speʃəlaɪz  
 
@@ -11376,6 +12330,16 @@ Notes: speaking常与某些副词连用，作插入语。
  > I made this cake specially for you.   
  > 我特意为你做的这个蛋糕。    
 
+
+
+# ***\#specialty*** n
+英音 ˈspeʃəlti     美音 ˈspeʃəlti  
+
+  
+
+英文释义
+---
+### 1.**（地方）特产**  
 
 
 # ***\#species*** n
@@ -11429,7 +12393,7 @@ Notes: speaking常与某些副词连用，作插入语。
 
 
 # ***\#specify*** v
-英音 'spesɪfaɪ     
+英音 'spesɪfaɪ     美音 'spesɪfaɪ  
 
   
 
@@ -11446,6 +12410,16 @@ Notes: speaking常与某些副词连用，作插入语。
 英文释义
 ---
 ### 1.*高义频：* **引人入胜的；壮观的**  
+
+
+# ***\#spectacular*** n
+英音 spek'tækjələ(r)     美音 spek'tækjələr  
+
+| 词频 1 |  
+
+英文释义
+---
+### 1.**壮丽的场面; 精彩的表演**  
 
 
 # ***\#speech*** n
@@ -11554,6 +12528,16 @@ Notes: speaking常与某些副词连用，作插入语。
 
  > **How do you spell** your name?  
  > 你的名字是怎么拼写的？    
+
+
+# ***\#spell*** n
+英音 spel     美音 spel  
+
+| 词频 2 | 口语 2 |  
+
+英文释义
+---
+### 1.**一段时间；一阵子**  
 
 
 # ***\#spellbind*** vt
@@ -11666,6 +12650,16 @@ Notes: speaking常与某些副词连用，作插入语。
 ### 1.**蜘蛛**  
 
 
+# ***\#spiker*** n
+英音 s'paɪkər     美音 s'paɪkər  
+
+  
+
+英文释义
+---
+### 1.**(排球队的) 扣球队员；主攻手**  
+
+
 # ***\#spill*** v
 英音 spɪl     美音 spɪl  
 
@@ -11714,6 +12708,26 @@ Notes: speaking常与某些副词连用，作插入语。
 英文释义
 ---
 ### 1.**附带的结果；副产品**  
+
+
+# ***\#spine*** n
+英音 spaɪn     美音 spaɪn  
+
+  
+
+英文释义
+---
+### 1.**(动植物的) 刺；刺毛**  
+
+
+# ***\#spinning*** n
+英音 ˈspɪnɪŋ     美音 ˈspɪnɪŋ  
+
+  
+
+英文释义
+---
+### 1.**动感单车运动**  
 
 
 # ***\#spirit*** n
@@ -11846,6 +12860,16 @@ spiritually /'spɪrɪtʃuəli/ adv
 
  > a splendid idea  
  > 绝妙的主意    
+
+
+# ***\#splendour*** n
+英音 ˈsplendə(r)     美音 ˈsplendər  
+
+  
+
+英文释义
+---
+### 1.**壮丽，雄伟**  
 
 
 # ***\#split*** v
@@ -12048,6 +13072,16 @@ D.plan
 ### 1.*高义频：* **(pl sportsmen)运动员；体育运动者**  
 
 
+# ***\#sportsmanship*** n
+英音 ˈspɔːtsmənʃɪp     美音 ˈspɔːrtsmənʃɪp  
+
+  
+
+英文释义
+---
+### 1.**体育精神**  
+
+
 # ***\#sportswear*** n
 英音 'spɔːtsweə(r)     美音 'spɔːrtswer  
 
@@ -12128,6 +13162,26 @@ spotted /'spɒtɪd/ adj
  > 几分钟内警察就赶到了现场。    
 
 
+# ***\#spotless*** adj
+英音 ˈspɒtləs     美音 ˈspɑːtləs  
+
+  
+
+英文释义
+---
+### 1.**一尘不染的；非常洁净的**  
+
+
+# ***\#spotlight*** n
+英音 ˈspɒtlaɪt     美音 ˈspɑːtlaɪt  
+
+  
+
+英文释义
+---
+### 1.**聚光灯；媒体的关注**  
+
+
 # ***\#spotted*** adj
 英音 'spɒtɪd     美音 'spɑːtɪd  
 
@@ -12146,6 +13200,16 @@ spotted /'spɒtɪd/ adj
 英文释义
 ---
 ### 1.*高义频：* **扭伤**  
+
+
+# ***\#sprain*** n
+英音 spreɪn     美音 spreɪn  
+
+| 词频 1 |  
+
+英文释义
+---
+### 1.**扭伤**  
 
 
 # ***\#sprained*** adj
@@ -12271,6 +13335,16 @@ spotted /'spɒtɪd/ adj
 答案：
 1. spread  
 
+# ***\#sprightly*** adj
+英音 ˈspraɪtli     美音 ˈspraɪtli  
+
+  
+
+英文释义
+---
+### 1.**活跃的，充满活力的**  
+
+
 # ***\#spring*** vi
 英音 sprɪŋ     美音 sprɪŋ  
 
@@ -12305,6 +13379,26 @@ spotted /'spɒtɪd/ adj
 
  > **a hot** / mineral **spring**  
  > 温/矿泉    
+
+
+# ***\#spring-clean*** v
+
+
+  
+
+英文释义
+---
+### 1.**彻底打扫**  
+
+
+# ***\#spring-clean*** n
+
+
+  
+
+英文释义
+---
+### 1.**（通常一年一度对房屋的）彻底 打扫；大扫除**  
 
 
 # ***\#spy*** v
@@ -12392,6 +13486,16 @@ spotted /'spɒtɪd/ adj
  > 5平方公里    
 
 
+# ***\#squeak*** v
+英音 skwiːk     美音 skwiːk  
+
+  
+
+英文释义
+---
+### 1.**发出吱吱声**  
+
+
 # ***\#squeeze*** v
 英音 skwiːz     美音 skwiːz  
 
@@ -12447,6 +13551,16 @@ spotted /'spɒtɪd/ adj
 ### 1.*高义频：* **刺；戳；刺伤**  
 
 
+# ***\#stability*** n
+英音 stəˈbɪləti     美音 stəˈbɪləti  
+
+  
+
+英文释义
+---
+### 1.**稳固，稳定**  
+
+
 # ***\#stable*** adj
 英音 'steɪbl     美音 'steɪbl  
 
@@ -12484,6 +13598,16 @@ spotted /'spɒtɪd/ adj
 ### 1.*高义频：* **马厩；马棚**  
 
 
+# ***\#stack*** v
+英音 stæk     美音 stæk  
+
+  
+
+英文释义
+---
+### 1.**(使) 整齐地堆起；摞起**  
+
+
 # ***\#stadium*** n
 英音 'steɪdiəm     美音 'steɪdiəm  
 
@@ -12514,6 +13638,16 @@ spotted /'spɒtɪd/ adj
  > 员工们对最近一次的加薪不是很满意。    
 
 
+# ***\#staff*** v
+英音 stɑːf     美音 stæf  
+
+| 词频 4 | 口语 2 | 书面 2 |  
+
+英文释义
+---
+### 1.**在……工作，任职于**  
+
+
 # ***\#stage*** n
 英音 steɪdʒ     美音 steɪdʒ  
 
@@ -12538,6 +13672,16 @@ spotted /'spɒtɪd/ adj
 
  > at different stages of development  
  > 在不同的发展时期    
+
+
+# ***\#stage*** v
+英音 steɪdʒ     美音 steɪdʒ  
+
+| 词频 4 | 口语 3 | 书面 3 |  
+
+英文释义
+---
+### 1.**上演；举办；举行**  
 
 
 # ***\#stain*** n
@@ -12609,6 +13753,16 @@ spotted /'spɒtɪd/ adj
 
  > climb **a flight of stairs**  
  > 爬一段楼梯    
+
+
+# ***\#stairway*** n
+英音 ˈsteəweɪ     美音 ˈsteəweɪ  
+
+  
+
+英文释义
+---
+### 1.**楼梯**  
 
 
 # ***\#stall*** n
@@ -12903,6 +14057,36 @@ spotted /'spɒtɪd/ adj
  > 美的标准随着时间和文化群体的不同而有所差异。  （北师大⑥ – 18）  
 
 
+# ***\#standby*** n
+英音 'stændbaɪ     美音 'stændbaɪ  
+
+  
+
+英文释义
+---
+### 1.**【C】后备人员；备用物品**  
+
+
+# ***\#standout*** adj
+英音 ˈstændaʊt     美音 ˈstændaʊt  
+
+  
+
+英文释义
+---
+### 1.**突出的**  
+
+
+# ***\#standout*** n
+英音 ˈstændaʊt     美音 ˈstændaʊt  
+
+  
+
+英文释义
+---
+### 1.**突出的人（或物）**  
+
+
 # ***\#staple*** adj
 英音 'steɪpl     美音 'steɪpl  
 
@@ -12982,6 +14166,16 @@ spotted /'spɒtɪd/ adj
 
  > She **stared at** the painting, wondering where she had seen it.  
  > 她凝视着这幅画，想知道自己曾在哪里见过它。  （2009 重庆）  
+
+
+# ***\#starfish*** n
+英音 ˈstɑːfɪʃ     美音 ˈstɑːrfɪʃ  
+
+  
+
+英文释义
+---
+### 1.**海星，星鱼**  
 
 
 # ***\#starry*** adj
@@ -13200,6 +14394,16 @@ spotted /'spɒtɪd/ adj
 
 
 
+# ***\#state-of-the-art*** adj
+
+
+  
+
+英文释义
+---
+### 1.**使用最先进技术(或方法)的，最先进的**  
+
+
 # ***\#state-owned*** adj
 英音 steɪt'əʊnd     
 
@@ -13236,7 +14440,7 @@ spotted /'spɒtɪd/ adj
 
 | 词频 1 |  
 
-用法点拨  [C] 
+用法点拨  [C]
 
 英文释义
 ---
@@ -13248,7 +14452,7 @@ spotted /'spɒtɪd/ adj
 
 | 词频 1 |  
 
-用法点拨  [C] 
+用法点拨  [C]
 
 英文释义
 ---
@@ -13294,6 +14498,16 @@ spotted /'spɒtɪd/ adj
 ### 1.**使驻扎；派驻**  
 
 
+# ***\#stationery*** n
+英音 ˈsteɪʃənri     美音 ˈsteɪʃəneri  
+
+  
+
+英文释义
+---
+### 1.**文具**  
+
+
 # ***\#statistics*** n
 英音 stə'tɪstɪks     美音 stə'tɪstɪks  
 
@@ -13325,6 +14539,16 @@ spotted /'spɒtɪd/ adj
 
  > the Statue of Liberty  
  > 自由女神像    
+
+
+# ***\#statue*** v
+英音 'stætʃuː     美音 'stætʃuː  
+
+| 词频 2 |  
+
+英文释义
+---
+### 1.**雕刻；雕塑**  
 
 
 # ***\#statuette*** n
@@ -13467,6 +14691,16 @@ D.stay
 
 答案：
 1. D  
+
+# ***\#staying-up*** n
+
+
+  
+
+英文释义
+---
+### 1.**守岁**  
+
 
 # ***\#steadily*** adv
 英音 'stedɪlɪ     美音 'stedəlɪ  
@@ -13627,6 +14861,16 @@ steamer /'stiːmə(r)/ n [C]
  > 钢铁    
 
 
+# ***\#steely*** adj
+英音 'stiːli     美音 'stiːli  
+
+  
+
+英文释义
+---
+### 1.**钢铁般的；坚强的**  
+
+
 # ***\#steep*** adj
 英音 stiːp     美音 stiːp  
 
@@ -13734,6 +14978,16 @@ Notes: steps 常指室外的台阶，stairs 常指屋内的楼梯。
 1.**走路小心；言行小心谨慎**  
 
 
+# ***\#stepfather*** n
+英音 ˈstepfɑːðə(r)     美音 ˈstepfɑːðər  
+
+  
+
+英文释义
+---
+### 1.**继父**  
+
+
 # ***\#stepmother*** n
 英音 'stepmʌðə(r)     美音 'stepmʌðər  
 
@@ -13752,6 +15006,16 @@ Notes: steps 常指室外的台阶，stairs 常指屋内的楼梯。
 英文释义
 ---
 ### 1.**异父（异母）姊妹**  
+
+
+# ***\#stereotype*** n
+英音 ˈsteriətaɪp     美音 ˈsteriətaɪp  
+
+  
+
+英文释义
+---
+### 1.**模式化的思想**  
 
 
 # ***\#sterile*** adj
@@ -14042,6 +15306,26 @@ stillness /'stɪlnəs/ n [U]
 ### 1.**刺激，促使，促进**  
 
 
+# ***\#stimulating*** adj
+英音 ˈstɪmjuleɪtɪŋ     美音 ˈstɪmjuleɪtɪŋ  
+
+  
+
+英文释义
+---
+### 1.**使人兴奋的；饶有趣味的**  
+
+
+# ***\#stimulation*** n
+英音 ˌstɪmjuˈleɪʃn     美音 ˌstɪmjuˈleɪʃn  
+
+  
+
+英文释义
+---
+### 1.**刺激**  
+
+
 # ***\#sting*** v
 英音 stɪŋ     美音 stɪŋ  
 
@@ -14174,6 +15458,16 @@ stillness /'stɪlnəs/ n [U]
 答案：
 1. stomach  
 
+# ***\#stomachache*** n
+英音 'stʌməkeɪk     美音 'stʌməkˌeɪk  
+
+  
+
+英文释义
+---
+### 1.**胃痛；腹痛**  
+
+
 # ***\#stone*** n
 英音 stəʊn     美音 stoʊn  
 
@@ -14302,6 +15596,16 @@ Notes: stop to do 表示停下来去做其他事情；stop doing 表示停止正
  > 他突然停了下来，我们差点撞上他。    
 
 
+# ***\#stopover*** n
+英音 ˈstɒpəʊvə(r)     美音 ˈstɑːpəʊvər  
+
+  
+
+英文释义
+---
+### 1.**中途停留**  
+
+
 # ***\#stor(e)y*** n
 英音 'stɔːri     美音 'stɔːri  
 
@@ -14421,6 +15725,30 @@ Notes: stop to do 表示停下来去做其他事情；stop doing 表示停止正
 ---
 stormy /'stɔːmi/ adj   
 
+# ***\#storm*** v
+英音 stɔːm     美音 stɔːrm  
+
+| 词频 5 | 书面 1 |  
+
+英文释义
+---
+### 1.**突袭；攻占**  
+
+### 2.**气冲冲地走**  
+
+### 3.**怒吼**  
+
+
+# ***\#stormy*** adj
+英音 ˈstɔːmi     美音 ˈstɔːrmi  
+
+  
+
+英文释义
+---
+### 1.**暴风雨的；激烈的**  
+
+
 # ***\#story*** n
 英音 'stɔːri     美音 'stɔːri  
 
@@ -14447,6 +15775,16 @@ stormy /'stɔːmi/ adj
 
  > a front-page story  
  > 头版新闻报道    
+
+
+# ***\#storyline*** n
+英音 ˈstɔːrilaɪn     美音 ˈstɔːrilaɪn  
+
+  
+
+英文释义
+---
+### 1.**（故事）情节**  
 
 
 # ***\#storytelling*** n
@@ -14569,6 +15907,16 @@ stormy /'stɔːmi/ adj
 ---
 straighten /'streɪtn/ vt   
 
+# ***\#straighten*** vt
+英音 ˈstreɪtn     美音 ˈstreɪtn  
+
+  
+
+英文释义
+---
+### 1.**挺直；（使）变直；变正**  
+
+
 # ***\#straightforward*** adv
 英音 ˌstreɪt'fɔːwəd     美音 ˌstreɪt'fɔːrwərd  
 
@@ -14669,6 +16017,16 @@ strangely /'streɪndʒli/ adv
 
  > **be a stranger to** music / art  
  > 对音乐/艺术外行    
+
+
+# ***\#stratagem*** n
+英音 ˈstrætədʒəm     美音 ˈstrætədʒəm  
+
+  
+
+英文释义
+---
+### 1.**计谋，策略**  
 
 
 # ***\#strategy*** n
@@ -14941,6 +16299,16 @@ A.stress
 答案：
 1. stress / pressure  
 
+# ***\#stressed*** adj
+英音 strest     美音 strest  
+
+  
+
+英文释义
+---
+### 1.**焦虑的，紧张的**  
+
+
 # ***\#stressful*** adj
 英音 'stresfl     美音 'stresfl  
 
@@ -15174,6 +16542,26 @@ striking /'straɪkɪŋ/ adj
 ### 1.*高义频：* **细绳；带子；琴弦**  
 
 
+# ***\#string*** vt
+英音 strɪŋ     美音 strɪŋ  
+
+| 词频 3 | 口语 1 | 书面 2 |  
+
+英文释义
+---
+### 1.**(strung, strung) 悬挂;  系**  
+
+
+# ***\#string*** adj
+英音 strɪŋ     美音 strɪŋ  
+
+| 词频 3 | 口语 1 | 书面 2 |  
+
+英文释义
+---
+### 1.**弦乐器的; 线织的**  
+
+
 # ***\#stringed*** adj
 英音 strɪŋd     美音 strɪŋd  
 
@@ -15212,6 +16600,15 @@ striking /'straɪkɪŋ/ adj
 ---
 striped /straɪpt/ adj   
 
+# ***\#strive*** vi
+英音 straɪv     美音 straɪv  
+
+  
+
+英文释义
+---
+### 1.
+
 # ***\#stroke*** n
 英音 strəʊk     美音 stroʊk  
 
@@ -15223,7 +16620,7 @@ striped /straɪpt/ adj
 ---
 ### 1.*高义频：* **击；打：**  
 
- > With one stroke of his ax, he cut the tree down.  
+ > With one stroke of his axe, he cut the tree down.  
  > 他一斧子就砍倒了这棵树。    
 
 ### 2.*低义频：* **中风**  
@@ -15336,6 +16733,16 @@ strongly /strɒŋli/ adv
 ---
 structural /'strʌktʃərəl/ adj   
 structured /'strʌktʃəd/ adj   
+
+# ***\#structure*** vt
+英音 'strʌktʃə(r)     美音 'strʌktʃər  
+
+| 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
+
+英文释义
+---
+### 1.**系统安排；精心组织**  
+
 
 # ***\#struggle*** vi  重难点词汇
 英音 'strʌɡl     美音 'strʌɡl  
@@ -15512,6 +16919,36 @@ structured /'strʌktʃəd/ adj
 ### 1.*高义频：* **东西；物品**  
 
 
+# ***\#stuff*** vt
+英音 stʌf     美音 stʌf  
+
+| 词频 2 | 口语 3 | 书面 1 |  
+
+英文释义
+---
+### 1.**填满; 把……塞进**  
+
+
+# ***\#stun*** vt
+英音 stʌn     美音 stʌn  
+
+  
+
+英文释义
+---
+### 1.**（使）震惊；使昏迷**  
+
+
+# ***\#stunning*** adj
+英音 ˈstʌnɪŋ     美音 ˈstʌnɪŋ  
+
+  
+
+英文释义
+---
+### 1.**极具吸引力的；令人惊奇的**  
+
+
 # ***\#stupefied*** adj
 英音 'stjuːpɪfaɪd     美音 'stjuːpɪfaɪd  
 
@@ -15545,6 +16982,16 @@ stupidly /'stjuːpɪdli/ adv
 
 答案：
 1. stupidly  
+
+# ***\#stutter*** n
+英音 ˈstʌtə(r)     美音 ˈstʌtər  
+
+  
+
+英文释义
+---
+### 1.**结巴，口吃**  
+
 
 # ***\#style*** n
 英音 staɪl     美音 staɪl  
@@ -15597,6 +17044,46 @@ stupidly /'stjuːpɪdli/ adv
  > 那支职业篮球队打得很有气势。    
 
 
+# ***\#sub-health*** n
+
+
+  
+
+英文释义
+---
+### 1.**亚健康**  
+
+
+# ***\#sub-zero*** adj
+英音 ˌsʌb ˈzɪərəʊ     美音 ˌsʌb ˈzɪrəʊ  
+
+  
+
+英文释义
+---
+### 1.**零下的；零度以下的**  
+
+
+# ***\#subatomic*** adj
+英音 ˌsʌbəˈtɒmɪk     美音 ˌsʌbəˈtɑːmɪk  
+
+  
+
+英文释义
+---
+### 1.**亚原子的；原子内的**  
+
+
+# ***\#subdue*** v
+英音 səbˈdjuː     美音 səbˈduː  
+
+  
+
+英文释义
+---
+### 1.**克制，抑制(情绪)**  
+
+
 # ***\#subject*** n
 英音 'sʌbdʒɪkt, 'sʌbdʒekt     美音 'sʌbdʒɪkt, 'sʌbdʒekt  
 
@@ -15632,6 +17119,26 @@ stupidly /'stjuːpɪdli/ adv
 
  > The subject matter of his pomes includes love, nature, history, time and aging.  
  > 他的诗歌的题材包括爱、大自然、历史、时间和衰老。  （2011 重庆改）  
+
+
+# ***\#subject*** adj
+英音 'sʌbdʒɪkt, 'sʌbdʒekt     美音 'sʌbdʒɪkt, 'sʌbdʒekt  
+
+| 词频 5 | 口语 2 | 书面 3 |  
+
+英文释义
+---
+### 1.**受……支配的；服从于……的**  
+
+
+# ***\#subject*** v
+英音 'sʌbdʒɪkt, 'sʌbdʒekt     美音 'sʌbdʒɪkt, 'sʌbdʒekt  
+
+| 词频 5 | 口语 2 | 书面 3 |  
+
+英文释义
+---
+### 1.**使隶属；使顺从**  
 
 
 # ***\#subjective*** adj
@@ -15671,6 +17178,16 @@ stupidly /'stjuːpɪdli/ adv
 英文释义
 ---
 ### 1.**浸入水中; 淹没**  
+
+
+# ***\#submersible*** n
+英音 səb'mɜːsəbl     美音 səb'mɜːrsəbl  
+
+  
+
+英文释义
+---
+### 1.**潜水器；可潜船**  
 
 
 # ***\#submission*** n
@@ -15742,6 +17259,26 @@ stupidly /'stjuːpɪdli/ adv
  > 所有的科学家都赞成这种观点：地球上气温的升高是由燃烧矿物燃料引起的。  （人教⑥ – 4）  
 
 
+# ***\#subsequent*** adj
+英音 ˈsʌbsɪkwənt     美音 ˈsʌbsɪkwənt  
+
+  
+
+英文释义
+---
+### 1.**随后的; 后来的; 之后的**  
+
+
+# ***\#subsequently*** adv
+英音 ˈsʌbsɪkwəntli     美音 ˈsʌbsɪkwəntli  
+
+  
+
+英文释义
+---
+### 1.**后来，随后**  
+
+
 # ***\#substance*** n
 英音 'sʌbstəns     美音 'sʌbstəns  
 
@@ -15756,6 +17293,16 @@ stupidly /'stjuːpɪdli/ adv
 
  > There is some substance in what he says.  
  > 他说的话是有一定根据的。    
+
+
+# ***\#substandard*** adj
+英音 ˌsʌbˈstændəd     美音 ˌsʌbˈstændərd  
+
+  
+
+英文释义
+---
+### 1.**不达标的；不合格的**  
 
 
 # ***\#substantial*** adj
@@ -15809,6 +17356,16 @@ stupidly /'stjuːpɪdli/ adv
 ### 1.*高义频：* **[常用单数] 副标题；小标题；[用复数] (外国电影的) 字幕**  
 
 
+# ***\#subtitle*** v
+英音 ˈsʌbtaɪtl     美音 ˈsʌbtaɪtl  
+
+| 词频 1 |  
+
+英文释义
+---
+### 1.**给（电影等）加字幕**  
+
+
 # ***\#subtle*** adj
 英音 'sʌtl     美音 'sʌtl  
 
@@ -15838,6 +17395,16 @@ D.subtle
 
 答案：
 1. D  
+
+# ***\#subtraction*** n
+英音 səbˈtrækʃn     美音 səbˈtrækʃn  
+
+  
+
+英文释义
+---
+### 1.**减法；扣除**  
+
 
 # ***\#suburb*** n
 英音 'sʌbɜːb     美音 'sʌbɜːrb  
@@ -16301,6 +17868,16 @@ D.no such a
 ### 1.*高义频：* **糖**  
 
 
+# ***\#sugar-coated*** adj
+英音 ˌʃʊɡə ˈkəʊtɪd     美音 ˌʃʊɡər ˈkəʊtɪd  
+
+  
+
+英文释义
+---
+### 1.**裹有糖的；包糖衣的**  
+
+
 # ***\#sugary*** adj
 英音 'ʃʊɡəri     美音 'ʃʊɡəri  
 
@@ -16590,6 +18167,11 @@ suited /'suːtɪd/ adj [不用于名词前，与for / to连用]
 
 用法点拨  vi & vt
 
+英文释义
+---
+### 1.**概括，总结**  
+
+
 固定搭配
 ---
 ## \#sum up 
@@ -16600,6 +18182,16 @@ suited /'suːtɪd/ adj [不用于名词前，与for / to连用]
 
  > **To sum up**, for a healthy heart you must take regular exercise and stop smoking.   
  > 总之，要想心脏健康，你必须经常运动并戒烟。    
+
+
+# ***\#summarise*** v
+英音 ˈsʌməraɪz     美音 ˈsʌməraɪz  
+
+  
+
+英文释义
+---
+### 1.**总结，概括**  
 
 
 # ***\#summary*** adj
@@ -16652,6 +18244,18 @@ summarise / summarize /'sʌməraɪz/ v vi & vt
 ### 1.*高义频：* **夏天；夏季**  
 
 
+# ***\#summit*** n
+英音 ˈsʌmɪt     美音 ˈsʌmɪt  
+
+  
+
+英文释义
+---
+### 1.**山顶；顶点；最高点**  
+
+### 2.**峰会；首脑会议**  
+
+
 # ***\#sun*** n
 英音 sʌn     美音 sʌn  
 
@@ -16688,6 +18292,16 @@ Notes: sun与某一特定形容词连用时，用不定冠词。
 
  > sunburnt shoulders   
  > 晒伤的肩膀    
+
+
+# ***\#sunburst*** n
+英音 ˈsʌnbɜːst     美音 ˈsʌnbɜːrst  
+
+  
+
+英文释义
+---
+### 1.**云开日出；阳光突现**  
 
 
 # ***\#suncream*** n
@@ -16811,6 +18425,11 @@ Notes: sun与某一特定形容词连用时，用不定冠词。
  > 极好的一天/一本书    
 
 
+# ***\#super*** adv
+英音 'suːpə(r), 'sjuːpə(r)     美音 'suːpər  
+
+| 词频 2 | 口语 2 |  
+
 # ***\#superb*** adj
 英音 suː'pɜːb, sjuː'pɜːb     美音 suː'pɜːrb  
 
@@ -16825,6 +18444,16 @@ Notes: sun与某一特定形容词连用时，用不定冠词。
 
  > He commented that her acting was superb.   
  > 他评论说她的演技精湛。    
+
+
+# ***\#superficially*** adv
+英音 ˌsuːpəˈfɪʃəli     美音 ˌsuːpərˈfɪʃəli  
+
+  
+
+英文释义
+---
+### 1.**表面（上）的**  
 
 
 # ***\#superhero*** n
@@ -16870,6 +18499,16 @@ Notes: sun与某一特定形容词连用时，用不定冠词。
 ### 1.**上级；长官**  
 
 
+# ***\#superiority*** n
+英音 suːˌpɪəriˈɒrəti     美音 suːˌpɪriˈɔːrəti  
+
+  
+
+英文释义
+---
+### 1.**优越感；优越性，优势**  
+
+
 # ***\#superman*** n
 英音 'suːpəmæn     美音 'suːpərmæn  
 
@@ -16890,6 +18529,36 @@ Notes: sun与某一特定形容词连用时，用不定冠词。
 英文释义
 ---
 ### 1.*高义频：* **超级市场；超市**  
+
+
+# ***\#superstition*** n
+英音 ˌsuːpəˈstɪʃn     美音 ˌsuːpərˈstɪʃn  
+
+  
+
+英文释义
+---
+### 1.**迷信；迷信观念**  
+
+
+# ***\#supervise*** v
+英音 'suːpəvaɪz     美音 'suːpəvaɪz  
+
+  
+
+英文释义
+---
+### 1.**监督；管理**  
+
+
+# ***\#supervision*** n
+英音 ˌsjuːpə'vɪʒn     美音 ˌsjuːpə'vɪʒn  
+
+  
+
+英文释义
+---
+### 1.**[U]&[C] 监督；管理**  
 
 
 # ***\#supper*** n
@@ -16917,6 +18586,16 @@ Notes: sun与某一特定形容词连用时，用不定冠词。
 英文释义
 ---
 ### 1.*高义频：* **增补的事物；补充；附录；增刊**  
+
+
+# ***\#supplement*** v
+英音 'sʌplɪmənt     美音 'sʌplɪmənt  
+
+| 词频 2 |  
+
+英文释义
+---
+### 1.**补充，增补，增加**  
 
 
 # ***\#supply*** n  重难点词汇
@@ -17051,6 +18730,16 @@ supporter /sə'pɔːtə(r)/ n
  > 他做了一些实验来证明自己的观点。    
 
 
+# ***\#supportable*** adj
+英音 sə'pɔːtəbl     美音 sə'poʊrtəbəl  
+
+  
+
+英文释义
+---
+### 1.**可支持的；可忍耐的；可援助的**  
+
+
 # ***\#supporting*** adj
 英音 sə'pɔːtɪŋ     美音 sə'pɔːrtɪŋ  
 
@@ -17059,6 +18748,16 @@ supporter /sə'pɔːtə(r)/ n
 英文释义
 ---
 ### 1.*高义频：* **支持的；支撑的**  
+
+
+# ***\#supportive*** adj
+英音 səˈpɔːtɪv     美音 səˈpɔːrtɪv  
+
+  
+
+英文释义
+---
+### 1.**支持的；给予帮助和鼓励的**  
 
 
 # ***\#suppose*** vt  重难点词汇
@@ -17310,6 +19009,16 @@ D.You are welcome
 
 答案：
 1. C  
+
+# ***\#sure-fire*** adj
+
+
+  
+
+英文释义
+---
+### 1.**必定成功的；肯定会发生的**  
+
 
 # ***\#surf*** v
 英音 sɜːf     美音 sɜːrf  
@@ -17721,6 +19430,16 @@ survivor /sə'vaɪvə(r)/ n
 ### 1.*高义频：* **幸存者；生还者；残存物**  
 
 
+# ***\#susceptible*** adj
+英音 səˈseptəbl     美音 səˈseptəbl  
+
+  
+
+英文释义
+---
+### 1.**易受影响的**  
+
+
 # ***\#suspect*** vt
 英音 sə'spekt     美音 sə'spekt  
 
@@ -17782,6 +19501,16 @@ survivor /sə'vaɪvə(r)/ n
  > 可疑包裹    
 
 
+# ***\#suspend*** vt
+英音 səˈspend     美音 səˈspend  
+
+  
+
+英文释义
+---
+### 1.**悬挂；暂停；中止**  
+
+
 # ***\#suspension*** n
 英音 sə'spenʃn     美音 sə'spenʃn  
 
@@ -17795,6 +19524,22 @@ survivor /sə'vaɪvə(r)/ n
 
  > The referee interrupted the match, and there was a **suspension of** play.   
  > 裁判中止了比赛，比赛暂停。  （外研⑦ – 1）  
+
+
+# ***\#suspicion*** n
+英音 səˈspɪʃn     美音 səˈspɪʃn  
+
+  
+
+英文释义
+---
+### 1.**怀疑；嫌疑**  
+
+### 2.**感觉；看法**  
+
+### 3.**不信任；猜疑**  
+
+### 4.**少许；一点儿**  
 
 
 # ***\#suspicious*** adj
@@ -18020,6 +19765,16 @@ survivor /sə'vaɪvə(r)/ n
  > 一些可怕的消息在那个国家蔓延。    
 
 
+# ***\#sweep*** n
+英音 swiːp     美音 swiːp  
+
+| 词频 3 | 书面 1 |  
+
+英文释义
+---
+### 1.**打扫，清扫**  
+
+
 # ***\#sweet*** adj
 英音 swiːt     美音 swiːt  
 
@@ -18193,6 +19948,16 @@ swimmer /'swɪmə(r)/ n
 
 答案：
 1. swimming  
+
+# ***\#swimsuit*** n
+英音 ˈswɪmsuːt     美音 ˈswɪmsuːt  
+
+  
+
+英文释义
+---
+### 1.**游泳衣**  
+
 
 # ***\#swing*** v
 英音 swɪŋ     美音 swɪŋ  
@@ -18386,6 +20151,36 @@ D.statue
 英文释义
 ---
 ### 1.**象征的，作为象征的**  
+
+
+# ***\#symbolically*** adv
+英音 sɪmˈbɒlɪkli     美音 sɪmˈbɑːlɪkli  
+
+  
+
+英文释义
+---
+### 1.**象征地；象征性地**  
+
+
+# ***\#symbolism*** n
+英音 ˈsɪmbəlɪzəm     美音 ˈsɪmbəlɪzəm  
+
+  
+
+英文释义
+---
+### 1.**象征主义**  
+
+
+# ***\#symbolize*** v
+英音 ˈsɪmbəlaɪz     美音 ˈsɪmbəlaɪz  
+
+  
+
+英文释义
+---
+### 1.**象征；代表**  
 
 
 # ***\#sympathetic*** adj

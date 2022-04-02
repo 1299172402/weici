@@ -34,6 +34,16 @@
 ### 1.*高义频：* **桨；橹**  
 
 
+# ***\#oasis*** n
+英音 əʊˈeɪsɪs     美音 əʊˈeɪsɪs  
+
+  
+
+英文释义
+---
+### 1.**[C] (pl oases)（沙漠中的）绿洲**  
+
+
 # ***\#obesity*** n
 英音 əʊ'biːsəti     美音 əʊ'biːsəti  
 
@@ -43,7 +53,7 @@
 
 英文释义
 ---
-### 1.*高义频：* **过度肥胖**  
+### 1.*高义频：* **肥胖（症）**  
 
 
 # ***\#obey*** v
@@ -61,6 +71,9 @@
 
  > He refused to obey (her).  
  > 他拒绝服从 (她)。    
+
+ > He cannot command nature except by obeying her.  
+ > 我们不能支配自然，只能顺应自然。  （弗朗西斯 · 培根）  
 
 
 # ***\#object*** n
@@ -147,8 +160,11 @@
  > **set / achieve an objective**  
  > 设定 / 实现目标    
 
- > Another way of setting realistic goals is to analyze your short and long term objectives.  
- > 另一种设定实际目标的方法是分析你的短期和长期目标。  （2019 全国）  
+ > The objective of most speeches is to benefit the audience.  
+ > 大多数演讲的目的都是为了使听众受益。  （2020山东）  
+
+ > A way of setting realistic goals is to analyze your short and long term objectives.  
+ > 一种设定实际目标的方法是分析你的短期和长期目标。  （2019全国）  
 
 
 # ***\#objective*** adj
@@ -163,6 +179,20 @@
 
  > an **objective assessment / analysis**  
  > 客观的评价/分析    
+
+
+派生词汇
+---
+objectively /əbˈdʒektɪvli/ adv   
+
+# ***\#objectively*** adv
+英音 əbˈdʒektɪvli     美音 əbˈdʒektɪvli  
+
+  
+
+英文释义
+---
+### 1.**客观地**  
 
 
 # ***\#obligation*** n
@@ -250,7 +280,7 @@
  > 据观察，成功人士花在阅读上的时间比看电视的时间多得多。    
 
 ### 3.*低义频：* **[正式用语] 说；评论**  
-英译 to say or white what you have noticed about a situation
+英译 to say or write what you have noticed about a situation
 
 ### 4.*低义频：* **遵守 / 奉行 (法律、习俗等)：**  
 
@@ -302,6 +332,36 @@ observer /əb'zɜːvə(r)/ n [C]
 ### 1.**使着迷**  
 
 
+# ***\#obsessive*** adj
+英音 əbˈsesɪv     美音 əbˈsesɪv  
+
+  
+
+英文释义
+---
+### 1.**痴迷的，迷恋的；过度的（含贬义）**  
+
+
+# ***\#obstacle*** n
+英音 'ɒbstəkl     美音 'ɑːbstəkl  
+
+  
+
+英文释义
+---
+### 1.**障碍，阻碍，障碍物**  
+
+
+# ***\#obstruction*** n
+英音 əbˈstrʌkʃn     美音 əbˈstrʌkʃn  
+
+  
+
+英文释义
+---
+### 1.**[U] & [C] 阻碍; 堵塞; 阻塞物**  
+
+
 # ***\#obtain*** vt
 英音 əb'teɪn     美音 əb'teɪn  
 
@@ -315,7 +375,7 @@ observer /əb'zɜːvə(r)/ n [C]
 英译 to get sth, especially by making an effort (get)：
 
  > At Oxford, he obtained his Master’s degree in electrical engineering.  
- > 在牛津大学，他获得了电气工程硕士学位。  （北师大⑥ – 17 ）  
+ > 在牛津大学，他获得了电气工程硕士学位。  （北师大新选必② – 4）  
 
  > These national parks **obtained** financial support **from** tourist companies.  
  > 这些国家公园得到了旅游公司的财力支持。  （2013 江西改）  
@@ -375,6 +435,9 @@ observer /əb'zɜːvə(r)/ n [C]
  > I’ve met him **on several occasions**.  
  > 我见过他几次。    
 
+ > The Mid-Autumn Festival is significant because it is **a special occasion** for a family reunion.  
+ > 中秋节之所以重要是因为这是阖家团聚的特殊日子。    
+
  > **Occasions** are quite rare **when** I have the time to spend a day with my kids.  
  > 我能有一天时间陪孩子们的时候都非常少。  （2008 山东）  
 
@@ -389,9 +452,6 @@ observer /əb'zɜːvə(r)/ n [C]
 
  > **social occasions**  
  > 社交活动    
-
- > The Mid-Autumn Festival is significant because it is **a special occasion** for family reunion.  
- > 中秋节之所以重要是因为这是阖家团聚的特殊日子。    
 
 
 固定搭配
@@ -439,7 +499,7 @@ observer /əb'zɜːvə(r)/ n [C]
 ### 1.*高义频：* **偶尔；间或：**  
 
  > Occasionally, I would read a novel that was assigned, but I didn't enjoy this type of reading.  
- > 偶尔我会读（老师）布置的小说，但我不喜欢这种类型的读物。    
+ > 偶尔我会读（老师）布置的小说，但我不喜欢这种类型的读物。  （2019天津）  
 
 
 真题解析
@@ -461,7 +521,7 @@ observer /əb'zɜːvə(r)/ n [C]
  > a country **under occupation**  
  > 被占领的国家    
 
- > the wildlife in occupation of the island   
+ > the wildlife in **occupation of** the island  
  > 这座岛上的野生动植物    
 
 ### 2.*高义频：* **[C] 工作；职业：**  
@@ -551,7 +611,7 @@ observer /əb'zɜːvə(r)/ n [C]
 固定搭配
 ---
 ## \#occur to sb 
-1.**浮现于脑中；被想起：**  
+1.**被想到，浮现在脑中**  
 
 - it occurs to sb to do sth:
 
@@ -570,9 +630,9 @@ observer /əb'zɜːvə(r)/ n [C]
 派生词汇
 ---
 occurrence /ə'kʌrəns/ n   
-1. *低义频：* **发生的事情：**  
+1. *高义频：* **发生的事情：**  
 
- > everyday occurrences  
+ > **everyday occurrences**  
  > 日常发生的事    
 
 2. *低义频：* **发生；出现**  
@@ -609,6 +669,9 @@ occurrence /ə'kʌrəns/ n
  > an odd way to behave  
  > 古怪的行为    
 
+ > **It's odd that** she didn't phone to say couldn't come.  
+ > 真奇怪，她没有打电话说自己不能来。    
+
 ### 2.*高义频：* **[只用于名词前] 偶尔发生的：**  
 
  > odd jobs  
@@ -618,6 +681,15 @@ occurrence /ə'kʌrəns/ n
 
  > **odd socks / gloves / shoes**  
  > 不配对的短袜 / 手套 / 鞋    
+
+
+固定搭配
+---
+## \#against all (the) odds
+1.**尽管困难重重：**  
+
+ > When we visited the ward the next morning, we were amazed to see that against all odds, both boys were still alive.  
+ > 第二天早上我们去病房探望时，惊奇地发现尽管困难重重，两个孩子仍然活了下来。  （外研新选必② – 4）  
 
 
 # ***\#of*** prep
@@ -816,16 +888,17 @@ occurrence /ə'kʌrəns/ n
  > 要听从你项目主管的指示，否则你会使他生气。    
 
 
-真题解析
----
-1. Please follow your supervisor’s instructions, or you’ll ________ him.  （2002 上海春）  
-A.discourage   
-B.offend  
-C.disturb   
-D.bother  
+# ***\#offender*** n
+英音 əˈfendə(r)     美音 əˈfendər  
 
-答案：
-1. B  
+  
+
+英文释义
+---
+### 1.**犯罪者；罪犯**  
+
+### 2.**妨害……的人（或事物）**  
+
 
 # ***\#offense*** n
 英音 ə'fens     美音 ə'fens  
@@ -852,7 +925,7 @@ D.bother
 
 英文释义
 ---
-### 1.*高义频：* **令人讨厌的；无礼的：**  
+### 1.*高义频：* **无礼的；令人讨厌的：**  
 
  > offensive words  
  > 无礼的话    
@@ -1053,6 +1126,9 @@ D.bother
  > an official announcement  
  > 官方公告    
 
+ > an official day's holiday  
+ > 法定节假日    
+
  > English is one of the official languages used in India.  
  > 英语是印度使用的官方语言之一。  （人教① – 2）  
 
@@ -1131,6 +1207,16 @@ D.bother
  > 风暴向近海移动。    
 
 
+# ***\#oft*** adv
+英音 ɒft     美音 ɔːft  
+
+  
+
+英文释义
+---
+### 1.**经常，时常**  
+
+
 # ***\#often*** adv
 英音 'ɒfn,'ɒftən     美音 'ɔːfn,'ɔftən  
 
@@ -1183,6 +1269,16 @@ D.bother
 ### 1.*高义频：* **油；石油**  
 
 
+# ***\#oil*** v
+英音 ɔɪl     美音 ɔɪl  
+
+| 词频 4 | 口语 2 | 书面 3 |  
+
+英文释义
+---
+### 1.**给……加润滑油；给……涂油/抹油**  
+
+
 # ***\#oilfield*** n
 英音 'ɔɪlfiːld     美音 'ɔɪlfiːld  
 
@@ -1226,6 +1322,9 @@ D.bother
  > **grow old**  
  > 上年纪    
 
+ > The **older I get**, the more I feel time has wings.  
+ > 年纪越大，我越觉得时光如梭。  （2020全国）  
+
  > old customs  
  > 旧风俗    
 
@@ -1267,7 +1366,17 @@ D.bother
 
 英文释义
 ---
-### 1.*高义频：* **橄榄树；橄榄叶；橄榄枝；橄榄色**  
+### 1.*高义频：* **油橄榄；橄榄树**  
+
+
+# ***\#omega*** n
+英音 ˈəʊmɪɡə     美音 əʊˈmeɡə  
+
+  
+
+英文释义
+---
+### 1.**奥米伽 (希腊字母表的最后一个字母，即Ω，ω)**  
 
 
 # ***\#omit*** vt
@@ -1485,6 +1594,9 @@ Notes: never / not once位于句首时，句子用部分倒装语序。
  > I have been there once or twice.  
  > 我去过那儿一两次。    
 
+## \#once too often
+1.**侥幸难再**  
+
 
 真题解析
 ---
@@ -1650,6 +1762,22 @@ D.one
 1.**独自地；独立地**  
 
 
+# ***\#ongoing*** adj
+英音 'ɒnɡəʊɪŋ     美音 'ɑːnɡoʊɪŋ  
+
+  
+
+英文释义
+---
+### 1.**持续存在的；继续进行的；不断发展的**  
+
+ > an ongoing debate / discussion / process  
+ > 持续的辩论 / 讨论 / 过程    
+
+ > It was only due to the ongoing support of his wife, family and friends that he eventually found the will to live again.  
+ > 是在妻子、家人和朋友的不断支持下，他最终才有了继续生活下去的决心。  （北师大新必修② – 6）  
+
+
 # ***\#onion*** n
 英音 'ʌnjən     美音 'ʌnjən  
 
@@ -1660,6 +1788,9 @@ D.one
 英文释义
 ---
 ### 1.*高义频：* **洋葱；葱头**  
+
+ > spring onion  
+ > 小葱；香葱    
 
 
 # ***\#online*** adj
@@ -1718,8 +1849,8 @@ D.one
  > 讲英语时，要考虑你要表达的意思，而不是只关注语法规则。    
 
 Notes: “only + 状语”置于句首时，通常引起部分倒装。句子结构为：only + 状语 + 助动词 / 情态动词 / 系动词be + 主语 + 其他动词…  
- > Only then did she remember what her aunt told her.  
- > 那时她才想起阿姨告诉她的话。  （人教⑤ – 4）  
+ > Only when Lily walked into the office did she realize that she had left the contract at home.  
+ > 莉莉走近办公室时才意识到自己把合同落在家里了。  （2015天津）  
 
  > Only in this way can you make progress in your English.  
  > 只有这样你的英语才能取得进步。    
@@ -1755,11 +1886,10 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 真题解析
 ---
 1. I have grown not only physically, and also mentally in the past few years.  （2017 全国  改错）  
-2. Only when Lily walked into the office ________ (她才意识到) that she had left the contract at home.  （2015 天津改）  
-3. Anxiously, she took the dress out of the package and tried it on, only ________ (find) it didn’t fit.  （2014 天津改）  
+2. Anxiously, she took the dress out of the package and tried it on, only ________ (find) it didn’t fit.  （2014 天津改）  
 
 答案：
-1. and → but  2. did she realize  3. to find  
+1. and → but  2. to find  
 
 # ***\#onto*** prep
 英音 'ɒntə,'ɒntu     美音 'ɑːntə,'ɑːntu  
@@ -1775,6 +1905,12 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 
  > The car rolled over onto its side.  
  > 这辆车侧翻了。    
+
+
+固定搭配
+---
+## \#be onto sth
+1.**了解 / 掌握某事**  
 
 
 # ***\#onwards*** adv
@@ -1832,10 +1968,13 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
  > This course is free and **open to the public**.  
  > 这个课程免费对公众开放。    
 
-### 4.*高义频：* **坦诚的；坦率的：**  
+### 4.*高义频：* **坦诚的；坦率的；思想开明的；不固执己见的：**  
 
  > She is always **open with** her parents.  
  > 她与父母总是无话不谈。    
+
+ > People with high EQs are **open to** new ideas and have positive attitudes towards life.  
+ > 情商高的人容易接纳新思想，对待生活积极乐观。  （北师大新选必③ – 7改）  
 
 ### 5.*高义频：* **[只用于名词前] 无遮盖的；开阔的：**  
 
@@ -1911,13 +2050,16 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 1.**使某人长见识 / 开眼界 / 认清 (事实)**  
 
 ## \#open up
-1.**打开；开辟；直抒胸怀：**  
+1.**打开；开辟；直抒胸怀；（使）开张；开始营业：**  
 
  > Einstein’s theories opened up a new area of study.  
  > 爱因斯坦的理论开创了一个新的研究领域。    
 
  > People have few real friends. And they need to **open up to** each other.  
  > 人们没有几个真正的朋友，他们需要向彼此敞开心扉。  （2015 全国改）  
+
+ > To earn a living, some opened up shops and restaurants in Chinatown.  
+ > 为了谋生，有些人在唐人街开商店、开餐馆。  （人教新必修③ – 3）  
 
 
 # ***\#open*** n
@@ -1931,8 +2073,8 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 ---
 ### 1.*高义频：* **户外；野外；公开：**  
 
- > Children need to play out **in the open**.  
- > 孩子需要在户外玩耍。    
+ > It's still a little too cold for the rhino calves to go out **into the open**.  
+ > 对犀牛幼崽来说，要走出去，外面的天气还是有点太冷了。  （2021全国改）  
 
  > They advised us to keep the formula a secret, but we wanted it **in the open**.  
  > 他们建议我们对配方要保密，但是我们想要公开。    
@@ -1941,8 +2083,25 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 派生词汇
 ---
 openly /'əʊpənli/ adv   
- > cty openly  
+ > cry openly  
  > 当众哭泣    
+
+
+真题解析
+---
+1. I've had many dreams since I was a child. Now my dream is to opens a cafe.  （2019全国 改错）  
+
+答案：
+1. opens→open  
+
+# ***\#open-minded*** adj
+英音 ˌəʊpən ˈmaɪndɪd     美音 ˌəʊpən ˈmaɪndɪd  
+
+  
+
+英文释义
+---
+### 1.**思想开明的**  
 
 
 # ***\#open-mouthed*** adj
@@ -1953,6 +2112,26 @@ openly /'əʊpənli/ adv
 英文释义
 ---
 ### 1.**目瞪口呆的；惊愕得张大嘴的**  
+
+
+# ***\#open-mouthed*** adv
+
+
+  
+
+英文释义
+---
+### 1.**张大嘴地；吃惊地**  
+
+
+# ***\#open-plan*** adj
+英音 ˌəʊpən ˈplæn     美音 ˌəʊpən ˈplæn  
+
+  
+
+英文释义
+---
+### 1.**开放式的；敞开式的；未隔间的**  
 
 
 # ***\#opener*** n
@@ -2082,10 +2261,6 @@ openly /'əʊpənli/ adv
  > operate a restaurant / company  
  > 经营餐馆 / 公司    
 
-
-派生词汇
----
-operator  n   
 
 # ***\#operation*** n
 英音 ˌɒpə'reɪʃn     美音 ˌɑːpə'reɪʃn  
@@ -2233,6 +2408,12 @@ operator  n
 ---
 ### 1.*高义频：* **对手；反对者**  
 
+ > My opponent was much older than I.  
+ > 我的对手年龄比我大得多。    
+
+ > Opponents of factory farming say that it is cruel to the animals.  
+ > 工厂化养殖的反对者说这对动物很残忍。  （北师大新选必① – 3）  
+
 
 # ***\#opportunity*** n
 英音 ˌɒpə'tjuːnəti     美音 ˌɑːpər'tuːnəti  
@@ -2251,8 +2432,8 @@ operator  n
  > **take** / **seize** / **use** / **provide** / **miss an opportunity** (**to do sth**)  
  > 把握 / 抓住 / 利用 / 提供 / 错失 (做某事的) 机会    
 
- > How she wished for an **opportunity to** visit the Great Wall.  
- > 她多么希望能有机会参观长城。    
+ > Orientation Day is a fantastic **opportunity** for new students **to** get to know the school and the other students.  
+ > 迎新日是新生熟悉学校和认识其他同学的好机会。  （外研新必修① – 1）  
 
  > May I **take this opportunity to** thank you for all your hard work.  
  > 我要借此机会对你们的辛勤工作表示感谢。    
@@ -2422,8 +2603,8 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 ---
 ### 1.*高义频：* **乐观的；抱乐观看法的：**  
 
- > have an optimistic attitude towards  
- > 对…持乐观态度    
+ > an optimistic estimate  
+ > 乐观的估计    
 
  > I admire Helen because she is **optimistic about** life.  
  > 我敬佩海伦，因为她对生活积极乐观。  （2008 湖南书面表达）  
@@ -2472,10 +2653,11 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 
 真题解析
 ---
-1. In that school, English is compulsory for all students, but French and Russian are ________ (option).  （2011 江苏改）  
+1. According to Professor Johnson, we don't have to read the book if we don't want to, as it is________ （可选择的）.  （2020天津）  
+2. In that school, English is compulsory for all students, but French and Russian are ________ (option).  （2011 江苏改）  
 
 答案：
-1. optional  
+1. optional  2. optional  
 
 # ***\#or*** conj
 英音 ɔː(r)     美音 ɔːr  
@@ -2512,10 +2694,10 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 
 真题解析
 ---
-1. Don’t turn off the computer before closing all programs, ________ you could have problems.  （2013 北京改）  
+1. They kept their collection at home until it got too big________ until they died.  （2020山东）  
 
 答案：
-1. or   
+1. or  
 
 # ***\#oral*** adj
 英音 'ɔːrəl     美音 'ɔːrəl  
@@ -2595,6 +2777,16 @@ orally /'ɔːrəli/ adv
 
  > The earth takes a year to **orbit** (**around**) the sun.  
  > 地球绕太阳一周需要一年的时间。    
+
+
+# ***\#orchard*** n
+英音 ˈɔːtʃəd     美音 ˈɔːrtʃərd  
+
+  
+
+英文释义
+---
+### 1.**果园**  
 
 
 # ***\#orchestra*** n
@@ -2814,7 +3006,7 @@ ordered /'ɔːdəd/ adj
 
 真题解析
 ---
-1. What I want is not just an ordinarily cafe but a vey special one.  （2006 全国  改错）  
+1. What I want is not just an ordinarily cafe but a very special one.  （2019全国  改错）  
 
 答案：
 1. ordinarily-ordinary  
@@ -2835,6 +3027,9 @@ ordered /'ɔːdəd/ adj
 
  > sense organs  
  > 感觉器官    
+
+ > **organ donation**  
+ > 器官捐献    
 
 ### 2.*低义频：* **风琴；管风琴：**  
 
@@ -2895,16 +3090,16 @@ ordered /'ɔːdəd/ adj
 
 英文释义
 ---
-### 1.*高义频：* **为...作安排 / 准备；筹备**  
+### 1.*高义频：* **组织；筹备**  
 英译 to plan or arrange an event, activity, etc.：
 
  > organize a meeting / party / trip  
- > 安排会议/聚会/旅行    
+ > 组织会议/聚会/旅行    
 
  > I knew nothing about organizing any big event.  
  > 对于筹备大型活动我一无所知。  （2012 天津）  
 
-### 2.*高义频：* **使有序；使有条理**  
+### 2.*高义频：* **安排；处理；分配**  
 英译 to put or arrange things into a system or logical order：
 
  > You should try and organize your time better.  
@@ -2915,17 +3110,17 @@ ordered /'ɔːdəd/ adj
 
 ### 3.*低义频：* **(使) 建立组织：**  
 
- > organize into a union / party  
+ > **organize into** a union / party  
  > 组建工会/政党    
 
- > The scientists need to **organize themselves** into a team.  
+ > The scientists need to **organize themselves into** a team.  
  > 这些科学家需要组成一个团队。    
 
 
 派生词汇
 ---
 organized / organised /'ɔːɡənaɪzd/ adj   
-1. *高义频：* **有组织的；有安排的：**  
+1. *高义频：* **[只用于名词前] 有组织的；有安排的：**  
 
  > **organized crime**  
  > 有组织的犯罪活动    
@@ -2959,6 +3154,16 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
  > a very organized person  
  > 很有条理的人    
+
+
+# ***\#organiser*** n
+英音 ˈɔːɡənaɪzə(r)     美音 ˈɔːrɡənaɪzər  
+
+  
+
+英文释义
+---
+### 1.**组织者；安排者**  
 
 
 # ***\#organism*** n
@@ -3049,6 +3254,26 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
  organizer / organiser  /'ɔːɡənaɪzə(r)/ n [C]   
 
+# ***\#organized*** adj
+英音 'ɔːɡənaɪz     美音 'ɔːrɡənaɪz  
+
+  
+
+英文释义
+---
+### 1.**有条理的；有效率的**  
+
+
+# ***\#orient*** vt
+英音 'ɔːriənt     美音 'ɔːriənt  
+
+  
+
+英文释义
+---
+### 1.**确定方向；使面对；使适应**  
+
+
 # ***\#orientation*** n
 英音 ˌɔːriən'teɪʃn     美音 ˌɔːriən'teɪʃn  
 
@@ -3056,7 +3281,10 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
 英文释义
 ---
-### 1.**（新工作或学习课程开始前一段时间的）培训，迎新**  
+### 1.**（任职等前的）培训；训练；迎新：**  
+
+ > Orientation Day  
+ > 迎新日    
 
 
 # ***\#origin*** n
@@ -3071,15 +3299,15 @@ organized / organised /'ɔːɡənaɪzd/ adj
 ### 1.*高义频：* **出身；血统：**  
 
  > Over 80% of the 3.6 million people are of European **origin****of_2**  
- > 这360万人中有80%的人具有欧洲血统。  （北师大② – 4）  
+ > 这360万人中有80%的人具有欧洲血统。    
 
 ### 2.*高义频：* **起源；起因：**  
 
  > The exact **origin of** table tennis is not known.  
  > 乒乓球的确切起源尚不清楚。  （译林④ – 2）  
 
- > This particular custom **has its origins in** Wales.  
- > 这种特别的习俗源于威尔士。    
+ > The Western festival Halloween **has its origins in** old beliefs about the return of the spirits of dead people.  
+ > 西方节日万圣节源于亡魂回归的古老信仰。  （人教新必修③ – 1）  
 
 
 # ***\#original*** adj  重难点词汇
@@ -3100,7 +3328,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
  > In a word, to read the original work is better than to see the film based on it.  
  > 总之，阅读原著比观看改编的电影更好。    
 
-### 3.*高义频：* **独特的；新颖的；创新的**  
+### 3.*高义频：* **新颖的；创新的；独特的**  
 英译 new and interesting; different from others of its type：
 
  > That’s not a very original suggestion.  
@@ -3122,6 +3350,20 @@ organized / organised /'ɔːɡənaɪzd/ adj
  > 原著    
 
 
+派生词汇
+---
+originality /əˌrɪdʒəˈnæləti/ n   
+
+# ***\#originality*** n
+英音 əˌrɪdʒəˈnæləti     美音 əˌrɪdʒəˈnæləti  
+
+  
+
+英文释义
+---
+### 1.**独创性；创造力**  
+
+
 # ***\#originally*** adv
 英音 ə'rɪdʒənəli     美音 ə'rɪdʒənəli  
 
@@ -3129,13 +3371,23 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
 英文释义
 ---
-### 1.*高义频：* **本来；原来：**  
+### 1.*高义频：* **起初；原来：**  
 
  > The store was originally quite small.  
  > 这家商店原来非常小。    
 
  > Originally, we had planned a tour of Scotland, but we didn’t go in the end.  
  > 起先，我们计划到苏格兰旅游，但最后没有成行。    
+
+
+# ***\#originate*** vt
+英音 əˈrɪdʒɪneɪt     美音 əˈrɪdʒɪneɪt  
+
+  
+
+英文释义
+---
+### 1.**[正式用语] 起源; 发源; 创立**  
 
 
 # ***\#ornate*** adj
@@ -3212,12 +3464,6 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 固定搭配
 ---
-## \#no other than
-1.**正是；恰恰是：**  
-
- > He is no other than the writer I have often talked about.  
- > 他正是我常谈起的那位作家。    
-
 ## \#other than
 1.**除…以外 (except)：**  
 
@@ -3232,10 +3478,9 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 ---
 1. The form cannot be signed by anyone ________ (除了) yourself.  （2011 全国改）  
 2. I’ll spend half of my holiday practising English and ________ half learning drawing.  （2010 全国改）  
-3. I got the story from Tom and ________ (其他的一些) people who had worked with him.  （2004 天津改）  
 
 答案：
-1. other than / except  2. the other  3. some other  
+1. other than / except  2. the other  
 
 # ***\#other*** pron  重难点词汇
 英音 'ʌðə(r)     美音 'ʌðər  
@@ -3249,12 +3494,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > One was happy but the other was disappointed.  
  > 一个感到开心，而另一个却感到失望。  （外研① – 1）  
 
-### 2.*高义频：* **[常与the连用] (多个中) 其余的人 / 物：**  
-
- > If any one of us had any difficulty in our life and study, the others would help him out.  
- > 如果我们当中的任何一个人在生活和学习上遇到困难的话，其余的人都会帮助他。    
-
-### 3.*高义频：* **[常用复数] 另外的人 / 物；其他的人 / 物：**  
+### 2.*高义频：* **[常用复数] 另外的人 / 物；其他的人 / 物：**  
 
  > I don’t like these. Can you show me any others?  
  > 我不喜欢这些，可以给我看看其他的吗？    
@@ -3262,33 +3502,27 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > Three passengers were killed and one other was seriously injured.  
  > 3名乘客死亡，另外1名受重伤。    
 
-### 4.*高义频：* **[常用复数] 他人；别人：**  
-
  > Don’t do to others what you wouldn’t like to be done to yourself.  
  > 己所不欲，勿施于人。  （2015 重庆）  
 
-#### 辨析 other, others, the other, the others
-  
-**other** 只作定语，后接名词泛指没有明确范围的“其他的人或事物”。
-**others** 不作定语，相当于“other＋复数名词”，泛指没有明确范围的“其他的多个人或事物”。
-**the other** 特指两者中的“另一个”；后接名词复数特指一定范围内的“其他所有的人或事物”。
-**the others** 不作定语，相当于“the other＋复数名词”，特指一定范围内的“其他所有的人或事物”。
- > I went swimming while the others played tennis.  
- > 我去游泳了，其余的人去打网球了。    
 
- > This is the last copy. All the others have been sold.  
- > 这是最后一本，其余的都卖完了。    
+固定搭配
+---
+## \#the others
+1.**（多个中）其余的人 / 物**  
 
+ > If any one of us had any difficulty in our life and study, the others would help him out.  
+ > 如果我们当中的任何一个人在生活和学习上遇到困难的话，其余的人都会帮助他。    
 
 
 真题解析
 ---
-1. While one of the twins is being bottle-fed, ________ other is with mum.  （2016 全国改）  
-2. In some countries, people eat with chopsticks, while in ________, knives and forks.  （2014 福建改）  
-3. You are a team star! Working with other is really your cup of tea.  （2010 安徽改 改错）  
+1. They were living in a small house with dogs, ducks and another animals.  （2018全国 改错）  
+2. While one of the twins is being bottle-fed, ________ other is with mum.  （2016 全国改）  
+3. In some countries, people eat with chopsticks, while in ________, knives and forks.  （2014 福建改）  
 
 答案：
-1. the  2. others  3. other → others  
+1. another→other  2. the  3. others  
 
 # ***\#otherwise*** adv  重难点词汇
 英音 'ʌðərwaɪz     美音 'ʌðərwaɪz  
@@ -3468,6 +3702,16 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 用木头做个盒子    
 
 
+# ***\#out*** 
+英音 aʊt     美音 aʊt  
+
+| 词频 5 | 口语 3 | 书面 3 |  
+
+# ***\#out*** adv
+英音 aʊt     美音 aʊt  
+
+| 词频 5 | 口语 3 | 书面 3 |  
+
 # ***\#outbreak*** n
 英音 'aʊtbreɪk     美音 'aʊtbreɪk  
 
@@ -3477,7 +3721,10 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 英文释义
 ---
-### 1.*高义频：* **爆发；发作 (尤指疾病或战争)**  
+### 1.*高义频：* **（暴力、疾病等坏事的）爆发；突然发生：**  
+
+ > the outbreak of disease / war  
+ > 疾病 / 战争的爆发    
 
 
 # ***\#outcome*** n
@@ -3544,7 +3791,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 英文释义
 ---
-### 1.*高义频：* **外部的；外面的：**  
+### 1.*高义频：* **外表的；外部的；外面的：**  
 
  > **outer space**  
  > 外太空    
@@ -3593,18 +3840,18 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 英文释义
 ---
-### 1.*高义频：* **概要；提纲：**  
+### 1.*高义频：* **轮廓；略图：**  
+
+ > an **outline map** of China  
+ > 中国略图    
+
+### 2.*高义频：* **概要；提纲：**  
 
  > make an **outline of** a composition  
  > 拟作文提纲    
 
  > She gave me an **outline of** the lecture.  
  > 她向我大致说了下演讲的要点。    
-
-### 2.*高义频：* **轮廓；略图：**  
-
- > an **outline map** of China  
- > 中国略图    
 
 
 # ***\#outline*** vt
@@ -3614,15 +3861,15 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 英文释义
 ---
-### 1.*高义频：* **概述；提出...的纲要：**  
-
- > The report outlined possible uses for the technology.  
- > 此报告概述了这项技术可能的用途。    
-
-### 2.*高义频：* **[常用于被动语态] 画出...的轮廓：**  
+### 1.*高义频：* **[常用于被动语态] 画出...的轮廓：**  
 
  > They saw the huge building **outlined against** the sky.  
  > 他们看见天空映衬下那座巨型建筑的轮廓。    
+
+### 2.*高义频：* **概述；提出...的纲要：**  
+
+ > The report outlined possible uses for the technology.  
+ > 此报告概述了这项技术可能的用途。    
 
 
 # ***\#outlook*** n
@@ -3684,6 +3931,16 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > She intended to have an output of one book a year.  
  > 她计划每年出一本书。  （外研⑥ – 2）  
+
+
+# ***\#output*** vt
+英音 'aʊtpʊt     美音 'aʊtpʊt  
+
+| 词频 1 | 书面 2 | 阅读 1 |  
+
+英文释义
+---
+### 1.**输出**  
 
 
 # ***\#outside*** adv
@@ -3752,6 +4009,26 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > 房子的外墙需要粉刷。    
 
 
+# ***\#outskirts*** n
+英音 ˈaʊtskɜːts     美音 ˈaʊtskɜːrts  
+
+  
+
+英文释义
+---
+### 1.**[复数] 市郊；郊区；远离城市中心的地区**  
+
+
+# ***\#outsource*** vt
+英音 ˈaʊtsɔːs     美音 ˈaʊtsɔːrs  
+
+  
+
+英文释义
+---
+### 1.**外包，外办**  
+
+
 # ***\#outspoken*** adj
 英音 aʊt'spəʊkən     美音 aʊt'spoʊkən  
 
@@ -3777,8 +4054,21 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
  > an outstanding player / contribution  
  > 杰出的运动员/突出贡献    
 
+ > With the Qingming Scroll, Zhang made an outstanding contribution to Chinese art.  
+ > 张择端的《清明上河图》为中国艺术做出了杰出贡献。  （译林新选必① – 3改）  
+
  > Tsinghua University, founded in 1911, is home to a great number of outstanding figures.  
  > 清华大学，建于1911年，是很多杰出人才的摇篮。  （2011 福建）  
+
+
+# ***\#outstretched*** adj
+英音 ˌaʊtˈstretʃt     美音 ˌaʊtˈstretʃt  
+
+  
+
+英文释义
+---
+### 1.**（身体部位）张开的；伸开的**  
 
 
 # ***\#outward*** adj
@@ -3953,7 +4243,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 真题解析
 ---
 1. I’m sorry I didn’t phone you, but I’ve been very busy ________ the past couple of weeks.  （2011 山东改）  
-2. You can’t wear a blue jacket _________ that shirt — it’ll look terrible.  （2004 湖南）  
+2. You can’t wear a blue jacket _________ that shirt — it’ll look terrible.  
 3. They had a pleasant chat ________ a cup of coffee.  
 
 答案：
@@ -4078,6 +4368,26 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 ### 1.*高义频：* **越过船舷进入水中**  
 
 
+# ***\#overbook*** v
+英音 ˌəʊvəˈbʊk     美音 ˌəʊvərˈbʊk  
+
+  
+
+英文释义
+---
+### 1.**超量售出；超额订出**  
+
+
+# ***\#overbridge*** n
+英音 ˈəʊvəbrɪdʒ     美音 ˈəʊvərbrɪdʒ  
+
+  
+
+英文释义
+---
+### 1.**天桥；上跨桥**  
+
+
 # ***\#overcoat*** n
 英音 'əʊvəkəʊt     美音 'oʊvərkoʊt  
 
@@ -4112,8 +4422,71 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
  > Overcome by curiosity, the boy looked out the window.  
  > 受好奇心驱使，小孩向窗外望去。    
 
- > Her parents were **overcome with** great sadness at the funeral.  
- > 在葬礼上她的父母悲痛欲绝。    
+ > When Boya learnt about Zhong Ziqi 's death, he was overcome with sorrow.  
+ > 伯牙得知钟子期的死讯，悲痛欲绝。  （译林新选必① – 2）  
+
+
+# ***\#overcrowded*** adj
+英音 ˌəʊvəˈkraʊdɪd     美音 ˌəʊvərˈkraʊdɪd  
+
+  
+
+英文释义
+---
+### 1.**过度拥挤的**  
+
+
+# ***\#overdo*** vt
+英音 ˌəʊvəˈduː     美音 ˌəʊvərˈduː  
+
+  
+
+英文释义
+---
+### 1.**把…做得过火**  
+
+ > Training too much can be bad for your health, so you make sure you **do not overdo it**.  
+ > 过多的训练对健康有害，所以要确保不要锻炼过度。  （北师大新必修① – 2）  
+
+
+# ***\#overeat*** v
+英音 ˌəʊvərˈiːt     美音 ˌəʊvərˈiːt  
+
+  
+
+英文释义
+---
+### 1.**暴饮暴食；吃得过量**  
+
+
+# ***\#overeating*** n
+英音 ˌəʊvərˈiːtɪŋ     美音 ˌəʊvərˈiːtɪŋ  
+
+  
+
+英文释义
+---
+### 1.**暴饮暴食**  
+
+
+# ***\#overexcited*** adj
+英音 ˌəʊvərɪkˈsaɪtɪd     美音 ˌəʊvərɪkˈsaɪtɪd  
+
+  
+
+英文释义
+---
+### 1.**过于兴奋的；过于激动的**  
+
+
+# ***\#overflow*** v
+英音 ˌəʊvəˈfləʊ     美音 ˌəʊvərˈfləʊ  
+
+  
+
+英文释义
+---
+### 1.**溢出；泛滥；充满**  
 
 
 # ***\#overhead*** adv
@@ -4143,6 +4516,16 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
  > an overhead projector  
  > 投影仪    
+
+
+# ***\#overjoyed*** adj
+英音 ˌəʊvəˈdʒɔɪd     美音 ˌəʊvərˈdʒɔɪd  
+
+  
+
+英文释义
+---
+### 1.**极为高兴的；十分开心的**  
 
 
 # ***\#overlook*** vt
@@ -4242,6 +4625,16 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
  > 我接到了一个在巴黎的朋友打来的越洋电话。    
 
 
+# ***\#overstatement*** n
+英音 overstatement     美音 overstatement  
+
+  
+
+英文释义
+---
+### 1.**[C]&[U] 夸大；夸张**  
+
+
 # ***\#overtake*** vt
 英音 ˌəʊvə'teɪk     美音 ˌoʊvər'teɪk  
 
@@ -4257,6 +4650,26 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
  > 2010年中国超越日本，成为世界第二大经济体。    
 
 
+# ***\#overthrow*** vt
+英音 'əʊvəθrəʊ     美音 'oʊvərθroʊ  
+
+  
+
+英文释义
+---
+### 1.**推翻；颠覆**  
+
+
+# ***\#overthrow*** n
+英音 'əʊvəθrəʊ     美音 'oʊvərθroʊ  
+
+  
+
+英文释义
+---
+### 1.**[C][ 常用单数 ] 推翻；颠覆**  
+
+
 # ***\#overtime*** n
 英音 'əʊvətaɪm     美音 'oʊvərtaɪm  
 
@@ -4265,6 +4678,16 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 英文释义
 ---
 ### 1.**加时赛**  
+
+
+# ***\#overuse*** vt
+英音 ˌəʊvəˈjuːs     美音 ˌəʊvərˈjuːs  
+
+  
+
+英文释义
+---
+### 1.**过度使用；滥用**  
 
 
 # ***\#overview*** n
@@ -4311,6 +4734,16 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 派生词汇
 ---
 overwhelming /ˌəʊvə'welmɪŋ/ adj   
+
+# ***\#overwhelming*** adj
+英音 ˌəʊvəˈwelmɪŋ     美音 ˌəʊvərˈwelmɪŋ  
+
+  
+
+英文释义
+---
+### 1.**无法抗拒的; 巨大的; 压倒性的**  
+
 
 # ***\#owe*** vt
 英音 əʊ     美音 oʊ  
