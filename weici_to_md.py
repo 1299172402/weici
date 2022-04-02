@@ -81,6 +81,7 @@ def gy_example(t): #18417
     print(' > '+ english +'  ',file=f)
     if t['source']!='' : print(' > '+t['chinese']+'  （'+t['source']+'）  ',file=f)
     if t['source']=='' : print(' > '+t['chinese']+'  '+t['source']+'  ',file=f)
+    if t['sound']!='' : print("<audio src=\"./media/" + t['sound'] + "\"></audio>", file=f)
     print(file=f)
     
 def gy_notes(t): #16597
@@ -157,8 +158,10 @@ def chuli(t):
     print(file=f)
     
     #word_phonetic
-    if a['en_phonetic_symbols']!='':print('英音 ' + a['en_phonetic_symbols'],end='     ',file=f)
-    if a['usa_phonetic_symbols']!='':print('美音 ' + a['usa_phonetic_symbols'],end='  ',file=f)
+    if a['en_phonetic_symbols']!='':print('英音 ' + a['en_phonetic_symbols']+'  ', file=f)
+    if a['en_file']!='': print("英音\n<audio src=\"./media/" + a['en_file'] + "\"></audio>", file=f)
+    if a['usa_phonetic_symbols']!='':print('美音 ' + a['usa_phonetic_symbols']+'  ', file=f)
+    if a['usa_file']!='': print("美音\n<audio src=\"./media/" + a['usa_file'] + "\"></audio>", file=f)
     print(file=f)
     
     #word_level
@@ -277,11 +280,11 @@ if ch.find('2')!=-1: #所有单词输出
     print('%s' % path_save + '\weici_word_7570.md')
         
 if ch.find('3')!=-1: #所有词组输出
-    f = open('%s' % path_save + '\weici_phrase_2542.md','w',encoding='utf-8')
+    f = open('%s' % path_save + '\weici_phrase.md','w',encoding='utf-8')
     cursor = c.execute("select * from fb_word_detail order by word asc")
     for row in cursor:
         if row[6]==0 and row[1].find(' ')!=-1:chuli(row[3])
-    print('%s' % path_save + '\weici_phrase_2542.md')
+    print('%s' % path_save + '\weici_phrase.md')
         
 if ch.find('4')!=-1: #所有词输出
     f = open('%s' % path_save + '\weici_all_10112.md','w',encoding='utf-8')

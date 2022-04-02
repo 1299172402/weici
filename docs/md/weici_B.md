@@ -1,7 +1,13 @@
 # Bb
 
 # ***\#baby*** n
-英音 'beɪbi     美音 'beɪbi  
+英音 'beɪbi  
+英音
+<audio src="./media/baby-B.aac"></audio>
+美音 'beɪbi  
+美音
+<audio src="./media/baby.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -22,6 +28,10 @@
 
 
 # ***\#baby-faced*** adj
+英音
+<audio src="./media/baby-faced1_AAC.aac"></audio>
+美音
+<audio src="./media/baby-faced2_AAC.aac"></audio>
 
 
   
@@ -32,7 +42,13 @@
 
 
 # ***\#bachelor*** n
-英音 'bætʃələ(r)     美音 'bætʃələr  
+英音 'bætʃələ(r)  
+英音
+<audio src="./media/bachelor-B.aac"></audio>
+美音 'bætʃələr  
+美音
+<audio src="./media/bachelor.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -52,7 +68,13 @@
 
 
 # ***\#back*** n
-英音 bæk     美音 bæk  
+英音 bæk  
+英音
+<audio src="./media/back-B.aac"></audio>
+美音 bæk  
+美音
+<audio src="./media/back.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -64,11 +86,13 @@
 
  > He lay **on** his **back**.   
  > 他仰面躺着。    
+<audio src="./media/1-back.aac"></audio>
 
 ### 2.*高义频：* **反面；背面：**  
 
  > She wrote down her ideas on the back of an envelope.  
  > 她把想法记在一个信封的背面。  （外研⑥ – 2）  
+<audio src="./media/2-back.aac"></audio>
 
 ### 3.*高义频：* **后面；后部：**  
 
@@ -77,6 +101,7 @@
 
  > Two men were sitting **in the back of** the car.   
  > 两名男子正坐在汽车的后排。    
+<audio src="./media/3-back.aac"></audio>
 
 
 固定搭配
@@ -86,7 +111,13 @@
 
 
 # ***\#back*** v
-英音 bæk     美音 bæk  
+英音 bæk  
+英音
+<audio src="./media/back-B.aac"></audio>
+美音 bæk  
+美音
+<audio src="./media/back.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 1 |  
 
@@ -96,6 +127,7 @@
 
  > He **backed** the car **into** / **out of** the garage.   
  > 他把汽车倒入/出车库。    
+<audio src="./media/9-back.aac"></audio>
 
 ### 2.*高义频：* **支持：**  
 
@@ -116,13 +148,21 @@
 
  > Go ahead. Take a chance. And I will back you up.  
  > 去吧，碰碰运气，我会支持你的。    
+<audio src="./media/10-back.aac"></audio>
 
  > Reminder: Your computer is not backed up.  
  > 提醒：您的电脑没有备份。    
+<audio src="./media/Reminder Your computer is _AAC.aac"></audio>
 
 
 # ***\#back*** adj
-英音 bæk     美音 bæk  
+英音 bæk  
+英音
+<audio src="./media/back-B.aac"></audio>
+美音 bæk  
+美音
+<audio src="./media/back.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 1 |  
 
@@ -135,10 +175,17 @@
 
  > The magazine is a back number. You can take it out of the reading room.   
  > 这是本过期的杂志，你可以把它带出阅览室。    
+<audio src="./media/back50.aac"></audio>
 
 
 # ***\#back*** adv
-英音 bæk     美音 bæk  
+英音 bæk  
+英音
+<audio src="./media/back-B.aac"></audio>
+美音 bæk  
+美音
+<audio src="./media/back.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -148,14 +195,17 @@
 
  > I stepped back to let them pass.   
  > 我退后让他们通过。    
+<audio src="./media/4-back.aac"></audio>
 
 ### 2.*高义频：* **回原处 / 原状：**  
 
  > It didn’t take me a long time to **get** my confidence **back**.   
  > 没过多久我就重拾自信。    
+<audio src="./media/5-back.aac"></audio>
 
  > I’ll **get back** in no more than 24 hours.   
  > 我24小时之内回来。  （2008 湖南）  
+<audio src="./media/6-back.aac"></audio>
 
 ### 3.*高义频：* **还；回应：**  
 
@@ -169,6 +219,7 @@
 
  > I remember back in high school I spent most of my day at school.  
  > 我记得中学时我一天的大部分时间都是在学校度过的。  （2018 浙江）  
+<audio src="./media/back-101_AAC.aac"></audio>
 
 
 固定搭配
@@ -178,9 +229,14 @@
 
  > They are dressed in beautiful clothes, skipping back and forth to the rhythm of loud drums.  
  > 他们身着亮丽的服装，和着响亮的鼓点扭来扭去。    
+<audio src="./media/8-back.aac"></audio>
 
 
 # ***\#back-breaking*** adj
+英音
+<audio src="./media/back-breaking1_AAC.aac"></audio>
+美音
+<audio src="./media/back-breaking2_AAC.aac"></audio>
 
 
   
@@ -191,7 +247,13 @@
 
 
 # ***\#backboard*** n
-英音 'bækbɔːd     美音 'bækbɔːrd  
+英音 'bækbɔːd  
+英音
+<audio src="./media/backboard1_AAC.aac"></audio>
+美音 'bækbɔːrd  
+美音
+<audio src="./media/backboard1_AAC.aac"></audio>
+
 
   
 
@@ -201,7 +263,13 @@
 
 
 # ***\#backfire*** vi
-英音 ˌbækˈfaɪə(r)     美音 ˌbækˈfaɪər  
+英音 ˌbækˈfaɪə(r)  
+英音
+<audio src="./media/backfire1_AAC.aac"></audio>
+美音 ˌbækˈfaɪər  
+美音
+<audio src="./media/backfire2_AAC.aac"></audio>
+
 
   
 
@@ -211,7 +279,13 @@
 
 
 # ***\#backflip*** n
-英音 'bækfl'ɪp     美音 'bækfl'ɪp  
+英音 'bækfl'ɪp  
+英音
+<audio src="./media/backflip1_AAC.aac"></audio>
+美音 'bækfl'ɪp  
+美音
+<audio src="./media/backflip2_AAC.aac"></audio>
+
 
   
 
@@ -221,7 +295,13 @@
 
 
 # ***\#background*** n
-英音 'bækɡraʊnd     美音 'bækɡraʊnd  
+英音 'bækɡraʊnd  
+英音
+<audio src="./media/background-B.aac"></audio>
+美音 'bækɡraʊnd  
+美音
+<audio src="./media/background.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
 
@@ -234,6 +314,7 @@
 
  > Our students come **from different backgrounds** but have the same desire to learn.   
  > 我们的学生虽然来自不同的背景，但有着相同的学习愿望。  （2015 安徽）  
+<audio src="./media/background50.aac"></audio>
 
 ### 2.*高义频：* **(事态发展等的) 背景：**  
 
@@ -242,6 +323,7 @@
 
  > This book gives the historical **background of** / **to** World War II.   
  > 本书描述了第二次世界大战的历史背景。    
+<audio src="./media/2-background.aac"></audio>
 
 ### 3.*高义频：* **底 (子)； (画等的) 背景；背景音：**  
 
@@ -253,7 +335,13 @@
 
 
 # ***\#backpack*** n
-英音 'bækpæk     美音 'bækpæk  
+英音 'bækpæk  
+英音
+<audio src="./media/backpack-B.aac"></audio>
+美音 'bækpæk  
+美音
+<audio src="./media/backpack.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -263,7 +351,13 @@
 
 
 # ***\#backpack*** vi
-英音 'bækpæk     美音 'bækpæk  
+英音 'bækpæk  
+英音
+<audio src="./media/backpack-B.aac"></audio>
+美音 'bækpæk  
+美音
+<audio src="./media/backpack.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -273,10 +367,17 @@
 
  > Many **go backpacking** in the mountains of the west.  
  > 许多人背包去西部的山上旅行。  （外研⑦ – 2）  
+<audio src="./media/1-backpack.aac"></audio>
 
 
 # ***\#backstage*** adj
-英音 ˌbæk'steɪdʒ     美音 ˌbæk'steɪdʒ  
+英音 ˌbæk'steɪdʒ  
+英音
+<audio src="./media/backstage1.aac"></audio>
+美音 ˌbæk'steɪdʒ  
+美音
+<audio src="./media/backstage2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -286,7 +387,13 @@
 
 
 # ***\#backstage*** adv
-英音 ˌbæk'steɪdʒ     美音 ˌbæk'steɪdʒ  
+英音 ˌbæk'steɪdʒ  
+英音
+<audio src="./media/backstage1.aac"></audio>
+美音 ˌbæk'steɪdʒ  
+美音
+<audio src="./media/backstage2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -296,7 +403,13 @@
 
 
 # ***\#backstory*** n
-英音 ˈbækstɔːri     美音 ˈbækstɔːri  
+英音 ˈbækstɔːri  
+英音
+<audio src="./media/backstory1_AAC.aac"></audio>
+美音 ˈbækstɔːri  
+美音
+<audio src="./media/backstory2_AAC.aac"></audio>
+
 
   
 
@@ -308,7 +421,13 @@
 
 
 # ***\#backward*** adj
-英音 'bækwəd     美音 'bækwərd  
+英音 'bækwəd  
+英音
+<audio src="./media/backward-B.aac"></audio>
+美音 'bækwərd  
+美音
+<audio src="./media/backward.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -326,7 +445,13 @@
 
 
 # ***\#backward*** adv
-英音 'bækwəd     美音 'bækwərd  
+英音 'bækwəd  
+英音
+<audio src="./media/backward-B.aac"></audio>
+美音 'bækwərd  
+美音
+<audio src="./media/backward.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -339,10 +464,17 @@
 
  > I am a slow walker, but I never walk backwards.  
  > 我走得很慢，但是我决不后退。  （——林肯）  
+<audio src="./media/backwards-1.aac"></audio>
 
 
 # ***\#backward(s)*** adv
-英音 ˈbækwəd(z)     美音 ˈbækwərd(z)  
+英音 ˈbækwəd(z)  
+英音
+<audio src="./media/backward(s)1_AAC.aac"></audio>
+美音 ˈbækwərd(z)  
+美音
+<audio src="./media/backward(s)2_AAC.aac"></audio>
+
 
   
 
@@ -352,7 +484,13 @@
 
 
 # ***\#backwards*** adv
-英音 'bækwədz     美音 'bækwərdz  
+英音 'bækwədz  
+英音
+<audio src="./media/backwards-B.aac"></audio>
+美音 'bækwərdz  
+美音
+<audio src="./media/backwards.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -366,12 +504,19 @@
 
  > I am a slow walker, but I never walk backwards.   
  > 我走得很慢，但是我决不后退。  （——林肯）  
+<audio src="./media/backwards-1.aac"></audio>
 
 ### 2.**往回；往前面**  
 
 
 # ***\#backyard*** n
-英音 ˌbækˈjɑːd     美音 ˌbækˈjɑːrd  
+英音 ˌbækˈjɑːd  
+英音
+<audio src="./media/backyard1_AAC.aac"></audio>
+美音 ˌbækˈjɑːrd  
+美音
+<audio src="./media/backyard2_AAC.aac"></audio>
+
 
   
 
@@ -381,7 +526,13 @@
 
 
 # ***\#bacon*** n
-英音 'beɪkən     美音 'beɪkən  
+英音 'beɪkən  
+英音
+<audio src="./media/bacon-B.aac"></audio>
+美音 'beɪkən  
+美音
+<audio src="./media/bacon.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -391,7 +542,13 @@
 
 
 # ***\#bacteria*** n
-英音 bæk'tɪəriə     美音 bæk'tɪriə  
+英音 bæk'tɪəriə  
+英音
+<audio src="./media/bacteria1.aac"></audio>
+美音 bæk'tɪriə  
+美音
+<audio src="./media/bacteria2.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -401,7 +558,13 @@
 
 
 # ***\#bacterium*** n
-英音 bæk'tɪəriəm     美音 bæk'tɪəriəm  
+英音 bæk'tɪəriəm  
+英音
+<audio src="./media/Bacterium1.aac"></audio>
+美音 bæk'tɪəriəm  
+美音
+<audio src="./media/bacterium.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -411,7 +574,13 @@
 
 
 # ***\#bad*** adj
-英音 bæd     美音 bæd  
+英音 bæd  
+英音
+<audio src="./media/bad-B.aac"></audio>
+美音 bæd  
+美音
+<audio src="./media/bad.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -431,24 +600,29 @@
 
  > In my opinion, overprotection and too much care are extremely **bad for** children’s development.  
  > 我认为过度保护和过分关爱对于孩子的成长都极为不利。  （2013 福建书面表达）  
+<audio src="./media/In my opinion_AAC.aac"></audio>
 
 ### 3.*高义频：* **严重的；厉害的：**  
 
  > I’ve got a bad cold.  
  > 我患了重感冒。    
+<audio src="./media/2-bad.aac"></audio>
 
 ### 4.*低义频：* **有病的；不舒服的；愧疚的：**  
 
  > I haven’t been able to do much because of my bad back.  
  > 我因为背不好一直不能做太多的事。    
+<audio src="./media/3-bad.aac"></audio>
 
  > I feel bad about not being able to come yesterday.  
  > 我昨天没能来心里很愧疚。    
+<audio src="./media/P41 bad6.aac"></audio>
 
 ### 5.*低义频：* **(食物等) 腐败的； (气味等) 臭的：**  
 
  > The egg **went bad** and smelt horrible.  
  > 鸡蛋坏了，特别难闻。    
+<audio src="./media/4-bad.aac"></audio>
 
 ### 6.*高义频：* **不擅长的：**  
 
@@ -463,7 +637,13 @@
 
 
 # ***\#bad-tempered*** adj
-英音 bæd 'tempəd     美音 bæd 'tempəd  
+英音 bæd 'tempəd  
+英音
+<audio src="./media/bad-tempered-B.aac"></audio>
+美音 bæd 'tempəd  
+美音
+<audio src="./media/bad-tempered.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -473,7 +653,13 @@
 
 
 # ***\#badge*** n
-英音 bædʒ     美音 bædʒ  
+英音 bædʒ  
+英音
+<audio src="./media/badge1_AAC.aac"></audio>
+美音 bædʒ  
+美音
+<audio src="./media/badge1_AAC.aac"></audio>
+
 
   
 
@@ -483,7 +669,13 @@
 
 
 # ***\#badly*** adv
-英音 'bædli     美音 'bædli  
+英音 'bædli  
+英音
+<audio src="./media/badly-B.aac"></audio>
+美音 'bædli  
+美音
+<audio src="./media/badly.aac"></audio>
+
 
 | 词频 5 | 口语 1 | 书面 1 |  
 
@@ -496,6 +688,7 @@
 
  > Rob **did** very **badly in** the history exam.  
  > 罗布的历史考得很差。    
+<audio src="./media/1-badly.aac"></audio>
 
 ### 2.*高义频：* **严重地；非常：**  
 
@@ -514,6 +707,7 @@
 
  > I've been quite badly off recently.  
  > 最近我经济上很拮据。    
+<audio src="./media/badly-101_AAC.aac"></audio>
 
 
 真题解析
@@ -524,7 +718,13 @@
 1. badly  
 
 # ***\#badminton*** n
-英音 'bædmɪntən     美音 'bædmɪntən  
+英音 'bædmɪntən  
+英音
+<audio src="./media/badminton-B.aac"></audio>
+美音 'bædmɪntən  
+美音
+<audio src="./media/badminton.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -537,7 +737,13 @@
 
 
 # ***\#bag*** n
-英音 bæɡ     美音 bæɡ  
+英音 bæɡ  
+英音
+<audio src="./media/bag-B.aac"></audio>
+美音 bæɡ  
+美音
+<audio src="./media/bag.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -556,10 +762,17 @@
 
  > It was a good interview and I thought the job was in the bag.  
  > 面试很不错，我想得到那份工作是十拿九稳的事。    
+<audio src="./media/1-bag.aac"></audio>
 
 
 # ***\#baggage*** n
-英音 'bæɡɪdʒ     美音 'bæɡɪdʒ  
+英音 'bæɡɪdʒ  
+英音
+<audio src="./media/baggage-B.aac"></audio>
+美音 'bæɡɪdʒ  
+美音
+<audio src="./media/baggage.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -575,7 +788,13 @@
 
 
 # ***\#bagpipes*** n
-英音 'bæɡpaɪps     美音 'bæɡpaɪps  
+英音 'bæɡpaɪps  
+英音
+<audio src="./media/bagpipes1_AAC.aac"></audio>
+美音 'bæɡpaɪps  
+美音
+<audio src="./media/bagpipes2_AAC.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -585,7 +804,13 @@
 
 
 # ***\#baid*** adj
-英音 'beɪd     美音 'beɪd  
+英音 'beɪd  
+英音
+<audio src="./media/baid1_AAC.aac"></audio>
+美音 'beɪd  
+美音
+<audio src="./media/baid2_AAC.aac"></audio>
+
 
   
 
@@ -595,7 +820,13 @@
 
 
 # ***\#bake*** v
-英音 beɪk     美音 beɪk  
+英音 beɪk  
+英音
+<audio src="./media/bake-B.aac"></audio>
+美音 beɪk  
+美音
+<audio src="./media/bake.aac"></audio>
+
 
 | 词频 3 | 口语 1 |  
 
@@ -605,13 +836,20 @@
 
  > Aside from making dinner, she also baked a cake.  
  > 除了做正餐，她还烤了个蛋糕。  （北师大⑤ – 15）  
+<audio src="./media/2-bake.aac"></audio>
 
  > a half-baked idea  
  > 不成熟的想法    
 
 
 # ***\#bakery*** n
-英音 'beɪkəri     美音 'beɪkəri  
+英音 'beɪkəri  
+英音
+<audio src="./media/bakery-B.aac"></audio>
+美音 'beɪkəri  
+美音
+<audio src="./media/bakery.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -621,7 +859,13 @@
 
 
 # ***\#balance*** n  重难点词汇
-英音 'bæləns     美音 'bæləns  
+英音 'bæləns  
+英音
+<audio src="./media/balance-B.aac"></audio>
+美音 'bæləns  
+美音
+<audio src="./media/balance.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
 
@@ -631,6 +875,7 @@
 
  > Weigh it on the balance.   
  > 在秤/天平上称它的重量。    
+<audio src="./media/1-balance.aac"></audio>
 
 ### 2.*高义频：* **[U] [常用单数] 平衡；均衡：**  
 
@@ -639,17 +884,21 @@
 
  > Athletes need a good **sense of balance**.  
  > 运动员要有良好的平衡感。    
+<audio src="./media/2-balance.aac"></audio>
 
  > I think it’s important to have **a balance between** study and a social life, so I’m going to join a few clubs.  
  > 我认为保持学习和社交的平衡很重要，所以打算参加几个俱乐部。  （人教⑦ – 5）  
+<audio src="./media/3-balance.aac"></audio>
 
 ### 3.*高义频：* **[常用单数] 余额；余款：**  
 
  > I have a balance of about $50,000 in my savings account.   
  > 我的存款账户里有五万美元左右的余额。    
+<audio src="./media/4-balance.aac"></audio>
 
  > They were due to pay the balance on delivery.  
  > 他们须将余款在到货时付清。    
+<audio src="./media/5-balance.aac"></audio>
 
 
 固定搭配
@@ -660,6 +909,7 @@
 
  > On balance, I think we made the right decision.  
  > 总的来说，我认为我们做的决定是正确的。    
+<audio src="./media/balance-101_AAC.aac"></audio>
 
 
 真题解析
@@ -672,7 +922,13 @@
 1. balance  2. balance  3. keep a balance   
 
 # ***\#balance*** v  重难点词汇
-英音 'bæləns     美音 'bæləns  
+英音 'bæləns  
+英音
+<audio src="./media/balance-B.aac"></audio>
+美音 'bæləns  
+美音
+<audio src="./media/balance.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 阅读 3 |  
 
@@ -682,13 +938,21 @@
 
  > The hospital needs to **balance the budget** each year.  
  > 医院每年都要使预算保持平衡。    
+<audio src="./media/6-balance.aac"></audio>
 
  > Hobbies help people balance between work **and** play**balance between **  
  > 业余爱好有助于人们平衡工作和娱乐。    
+<audio src="./media/7-balance.aac"></audio>
 
 
 # ***\#balanced*** adj
-英音 ˈbælənst     美音 ˈbælənst  
+英音 ˈbælənst  
+英音
+<audio src="./media/balanced1_AAC.aac"></audio>
+美音 ˈbælənst  
+美音
+<audio src="./media/balanced2_AAC.aac"></audio>
+
 
   
 
@@ -698,7 +962,13 @@
 
 
 # ***\#balcony*** n
-英音 'bælkəni     美音 'bælkəni  
+英音 'bælkəni  
+英音
+<audio src="./media/balcony-B.aac"></audio>
+美音 'bælkəni  
+美音
+<audio src="./media/balcony.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -708,7 +978,13 @@
 
 
 # ***\#bald*** adj
-英音 bɔːld     美音 bɔːld  
+英音 bɔːld  
+英音
+<audio src="./media/bald-B.aac"></audio>
+美音 bɔːld  
+美音
+<audio src="./media/bald.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -718,7 +994,13 @@
 
 
 # ***\#baleen*** n
-英音 bə'liːn     美音 bə'liːn  
+英音 bə'liːn  
+英音
+<audio src="./media/baleen-B.aac"></audio>
+美音 bə'liːn  
+美音
+<audio src="./media/baleen.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -728,7 +1010,13 @@
 
 
 # ***\#ball*** n
-英音 bɔːl     美音 bɔːl  
+英音 bɔːl  
+英音
+<audio src="./media/ball-B.aac"></audio>
+美音 bɔːl  
+美音
+<audio src="./media/ball.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -738,7 +1026,13 @@
 
 
 # ***\#ballad*** n
-英音 'bæləd     美音 'bæləd  
+英音 'bæləd  
+英音
+<audio src="./media/ballad-b.aac"></audio>
+美音 'bæləd  
+美音
+<audio src="./media/ballad.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -750,7 +1044,13 @@
 
 
 # ***\#ballet*** n
-英音 'bæleɪ     美音 'bæleɪ  
+英音 'bæleɪ  
+英音
+<audio src="./media/ballet-B.aac"></audio>
+美音 'bæleɪ  
+美音
+<audio src="./media/ballet.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -762,7 +1062,13 @@
 
 
 # ***\#balloon*** n
-英音 bə'luːn     美音 bə'luːn  
+英音 bə'luːn  
+英音
+<audio src="./media/balloon-B.aac"></audio>
+美音 bə'luːn  
+美音
+<audio src="./media/balloon.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -772,7 +1078,13 @@
 
 
 # ***\#ballpark*** n
-英音 ˈbɔːlpɑːk     美音 ˈbɔːlpɑːrk  
+英音 ˈbɔːlpɑːk  
+英音
+<audio src="./media/ballpark1_AAC.aac"></audio>
+美音 ˈbɔːlpɑːrk  
+美音
+<audio src="./media/ballpark2_AAC.aac"></audio>
+
 
   
 
@@ -782,7 +1094,13 @@
 
 
 # ***\#ballroom*** n
-英音 'bɔːlruːm     美音 'bɔːlruːm  
+英音 'bɔːlruːm  
+英音
+<audio src="./media/ballroom1.aac"></audio>
+美音 'bɔːlruːm  
+美音
+<audio src="./media/ballroom2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -792,7 +1110,13 @@
 
 
 # ***\#bamboo*** n
-英音 ˌbæm'buː     美音 ˌbæm'buː  
+英音 ˌbæm'buː  
+英音
+<audio src="./media/bamboo-B.aac"></audio>
+美音 ˌbæm'buː  
+美音
+<audio src="./media/bamboo.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -802,7 +1126,13 @@
 
 
 # ***\#ban*** vt
-英音 bæn     美音 bæn  
+英音 bæn  
+英音
+<audio src="./media/ban-B.aac"></audio>
+美音 bæn  
+美音
+<audio src="./media/ban.aac"></audio>
+
 
 | 词频 3 | 阅读 2 |  
 
@@ -812,15 +1142,23 @@
 
  > The Government has banned the use of chemical weapons.   
  > 政府已经禁止使用化学武器。    
+<audio src="./media/1-ban.aac"></audio>
 
 - ban sb from (doing) sth:
 
  > She was banned from athletics for two years after failing a drug test.  
  > 她没通过药检，被禁赛两年。    
+<audio src="./media/2-ban.aac"></audio>
 
 
 # ***\#ban*** n
-英音 bæn     美音 bæn  
+英音 bæn  
+英音
+<audio src="./media/ban-B.aac"></audio>
+美音 bæn  
+美音
+<audio src="./media/ban.aac"></audio>
+
 
 | 词频 3 | 书面 1 | 阅读 2 |  
 
@@ -830,10 +1168,17 @@
 
  > They are now protected by an international **ban on** whaling.  
  > 现在它们受到国际鲸鱼禁捕令的保护。  （人教⑦ – 3）  
+<audio src="./media/3-ban.aac"></audio>
 
 
 # ***\#banana*** n
-英音 bə'nɑːnə     美音 bə'nænə  
+英音 bə'nɑːnə  
+英音
+<audio src="./media/banana-B.aac"></audio>
+美音 bə'nænə  
+美音
+<audio src="./media/banana.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -843,7 +1188,13 @@
 
 
 # ***\#band*** n
-英音 bænd     美音 bænd  
+英音 bænd  
+英音
+<audio src="./media/band-B.aac"></audio>
+美音 bænd  
+美音
+<audio src="./media/band.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 2 |  
 
@@ -871,7 +1222,13 @@
 
 
 # ***\#bandage*** n
-英音 'bændɪdʒ     美音 'bændɪdʒ  
+英音 'bændɪdʒ  
+英音
+<audio src="./media/bandage-B.aac"></audio>
+美音 'bændɪdʒ  
+美音
+<audio src="./media/bandage.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -881,7 +1238,13 @@
 
 
 # ***\#bandage*** vt
-英音 'bændɪdʒ     美音 'bændɪdʒ  
+英音 'bændɪdʒ  
+英音
+<audio src="./media/bandage-B.aac"></audio>
+美音 'bændɪdʒ  
+美音
+<audio src="./media/bandage.aac"></audio>
+
 
 | 词频 1 | 阅读 1 |  
 
@@ -891,7 +1254,13 @@
 
 
 # ***\#bang*** v
-英音 bæŋ     美音 bæŋ  
+英音 bæŋ  
+英音
+<audio src="./media/bang-B.aac"></audio>
+美音 bæŋ  
+美音
+<audio src="./media/bang.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -901,6 +1270,7 @@
 
  > He banged the window shut.   
  > 他砰的一声关上了窗户。    
+<audio src="./media/1-bang.aac"></audio>
 
 ### 2.*低义频：* **猛敲；猛撞：**  
 
@@ -909,10 +1279,17 @@
 
  > She walked so far back that she **banged into** another painting on the wall.   
  > 她向后退得很远，撞到墙上的另一张画作上。  （译林③ – 1）  
+<audio src="./media/2-bang.aac"></audio>
 
 
 # ***\#bang*** n
-英音 bæŋ     美音 bæŋ  
+英音 bæŋ  
+英音
+<audio src="./media/bang-B.aac"></audio>
+美音 bæŋ  
+美音
+<audio src="./media/bang.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -924,15 +1301,23 @@
 
  > The firework exploded **with a** loud **bang**.   
  > 烟火砰的一声爆开了。    
+<audio src="./media/3-bang.aac"></audio>
 
 ### 2.*低义频：* **猛击；猛撞：**  
 
  > He gave the drum a bang.   
  > 他用力敲了一下鼓。    
+<audio src="./media/4-bang.aac"></audio>
 
 
 # ***\#banjo*** n
-英音 ˈbændʒəʊ     美音 ˈbændʒəʊ  
+英音 ˈbændʒəʊ  
+英音
+<audio src="./media/banjo1_AAC.aac"></audio>
+美音 ˈbændʒəʊ  
+美音
+<audio src="./media/banjo2_AAC.aac"></audio>
+
 
   
 
@@ -942,7 +1327,13 @@
 
 
 # ***\#bank*** n
-英音 bæŋk     美音 bæŋk  
+英音 bæŋk  
+英音
+<audio src="./media/bank-B.aac"></audio>
+美音 bæŋk  
+美音
+<audio src="./media/bank.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -967,7 +1358,13 @@
 
 
 # ***\#banking*** n
-英音 ˈbæŋkɪŋ     美音 ˈbæŋkɪŋ  
+英音 ˈbæŋkɪŋ  
+英音
+<audio src="./media/banking1_AAC.aac"></audio>
+美音 ˈbæŋkɪŋ  
+美音
+<audio src="./media/banking2_AAC.aac"></audio>
+
 
   
 
@@ -977,7 +1374,13 @@
 
 
 # ***\#banknote*** n
-英音 ˈbæŋknəʊt     美音 ˈbæŋknəʊt  
+英音 ˈbæŋknəʊt  
+英音
+<audio src="./media/banknote1_AAC.aac"></audio>
+美音 ˈbæŋknəʊt  
+美音
+<audio src="./media/banknote2_AAC.aac"></audio>
+
 
   
 
@@ -987,7 +1390,13 @@
 
 
 # ***\#bankrupt*** adj
-英音 'bæŋkrʌpt     美音 'bæŋkrʌpt  
+英音 'bæŋkrʌpt  
+英音
+<audio src="./media/bankrupt-B.aac"></audio>
+美音 'bæŋkrʌpt  
+美音
+<audio src="./media/bankrupt.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -997,10 +1406,17 @@
 
  > They get deep in debt, and they can even **go bankrupt** and get sent to prison.  
  > 他们会债台高筑，甚至可能破产并被捕入狱。  （2008 山东）  
+<audio src="./media/1-bankrupt.aac"></audio>
 
 
 # ***\#banquet*** n
-英音 'bæŋkwɪt     美音 'bæŋkwɪt  
+英音 'bæŋkwɪt  
+英音
+<audio src="./media/Banquet-B.aac"></audio>
+美音 'bæŋkwɪt  
+美音
+<audio src="./media/banquet.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1010,7 +1426,13 @@
 
 
 # ***\#bar*** n
-英音 bɑː(r)     美音 bɑːr  
+英音 bɑː(r)  
+英音
+<audio src="./media/bar-B.aac"></audio>
+美音 bɑːr  
+美音
+<audio src="./media/bar.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 |  
 
@@ -1025,6 +1447,7 @@
 
  > As the sun went down, there was **a bar of** red over the western hills.   
  > 日落时分，一道红霞笼罩在西山上。    
+<audio src="./media/1-bar.aac"></audio>
 
 ### 2.*高义频：* **酒吧；柜台：**  
 
@@ -1039,7 +1462,13 @@
 
 
 # ***\#bar*** v
-英音 bɑː(r)     美音 bɑːr  
+英音 bɑː(r)  
+英音
+<audio src="./media/bar-B.aac"></audio>
+美音 bɑːr  
+美音
+<audio src="./media/bar.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -1049,7 +1478,13 @@
 
 
 # ***\#barbecue*** n
-英音 'bɑːbɪkjuː     美音 'bɑːrbɪkjuː  
+英音 'bɑːbɪkjuː  
+英音
+<audio src="./media/barbecue-B.aac"></audio>
+美音 'bɑːrbɪkjuː  
+美音
+<audio src="./media/barbecue.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1061,7 +1496,13 @@
 
 
 # ***\#barber*** n
-英音 'bɑːbə(r)     美音 'bɑːrbər  
+英音 'bɑːbə(r)  
+英音
+<audio src="./media/barber-B.aac"></audio>
+美音 'bɑːrbər  
+美音
+<audio src="./media/barber.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1074,7 +1515,13 @@
 
 
 # ***\#barbershop*** n
-英音 'bɑːbəʃɒp     美音 'bɑːrbərʃɑːp  
+英音 'bɑːbəʃɒp  
+英音
+<audio src="./media/barbershop-B.aac"></audio>
+美音 'bɑːrbərʃɑːp  
+美音
+<audio src="./media/barbershop.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1085,7 +1532,13 @@
 Notes: 英式英语中理发店为the barber’s。  
 
 # ***\#barcode*** n
-英音 ˈbɑːkəʊd     美音 ˈbɑːrkəʊd  
+英音 ˈbɑːkəʊd  
+英音
+<audio src="./media/barcode1_AAC.aac"></audio>
+美音 ˈbɑːrkəʊd  
+美音
+<audio src="./media/barcode2_AAC.aac"></audio>
+
 
   
 
@@ -1095,7 +1548,13 @@ Notes: 英式英语中理发店为the barber’s。
 
 
 # ***\#bare*** adj
-英音 beə(r)     美音 ber  
+英音 beə(r)  
+英音
+<audio src="./media/bare-B.aac"></audio>
+美音 ber  
+美音
+<audio src="./media/bare.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1111,6 +1570,7 @@ Notes: 英式英语中理发店为the barber’s。
 
  > The man in the photo was bare to the waist.   
  > 照片上的男子赤裸着上身。  （外研⑦ – 5）  
+<audio src="./media/bare-1.aac"></audio>
 
 ### 2.*低义频：* **仅有的；最低限度的**  
 英译 just enough; the most basic or simple：
@@ -1120,7 +1580,13 @@ Notes: 英式英语中理发店为the barber’s。
 
 
 # ***\#bare*** n
-英音 beə(r)     美音 ber  
+英音 beə(r)  
+英音
+<audio src="./media/bare-B.aac"></audio>
+美音 ber  
+美音
+<audio src="./media/bare.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1130,7 +1596,13 @@ Notes: 英式英语中理发店为the barber’s。
 
 
 # ***\#bare*** v
-英音 beə(r)     美音 ber  
+英音 beə(r)  
+英音
+<audio src="./media/bare-B.aac"></audio>
+美音 ber  
+美音
+<audio src="./media/bare.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1140,7 +1612,13 @@ Notes: 英式英语中理发店为the barber’s。
 
 
 # ***\#barely*** adv
-英音 'beəli     美音 'berli  
+英音 'beəli  
+英音
+<audio src="./media/barely-B.aac"></audio>
+美音 'berli  
+美音
+<audio src="./media/barely.aac"></audio>
+
 
 | 词频 1 | 阅读 1 |  
 
@@ -1150,13 +1628,21 @@ Notes: 英式英语中理发店为the barber’s。
 
  > These film stars are barely in their twenties and are already multimillionaires.   
  > 这些电影明星年仅二十几岁就已经身价数百万了。  （2010 广东改）  
+<audio src="./media/1-barely.aac"></audio>
 
  > In fact, I barely slept the night before.   
  > 事实上前一天晚上我几乎没睡觉。    
+<audio src="./media/2-barely.aac"></audio>
 
 
 # ***\#bargain*** n  重难点词汇
-英音 'bɑːgən     美音 'bɑːrɡən  
+英音 'bɑːgən  
+英音
+<audio src="./media/bargain-B.aac"></audio>
+美音 'bɑːrɡən  
+美音
+<audio src="./media/bargain.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -1168,6 +1654,7 @@ Notes: 英式英语中理发店为the barber’s。
 
  > This coat was half-price, a **real bargain**.   
  > 这件外套半价出售，真便宜。    
+<audio src="./media/1-bargain.aac"></audio>
 
 ### 2.*低义频：* **协议；交易；成交条件：**  
 
@@ -1176,6 +1663,7 @@ Notes: 英式英语中理发店为the barber’s。
 
  > He **made a bargain** with his wife, “You take care of the children and I’ll cook.”  
  > 他跟妻子讲条件：“你看孩子，我做饭。”    
+<audio src="./media/2-bargain.aac"></audio>
 
 
 真题解析
@@ -1187,7 +1675,13 @@ Notes: 英式英语中理发店为the barber’s。
 1. bargain  2.  a real bargain  
 
 # ***\#bargain*** vi  重难点词汇
-英音 'bɑːgən     美音 'bɑːrɡən  
+英音 'bɑːgən  
+英音
+<audio src="./media/bargain-B.aac"></audio>
+美音 'bɑːrɡən  
+美音
+<audio src="./media/bargain.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -1200,7 +1694,13 @@ Notes: 英式英语中理发店为the barber’s。
 
 
 # ***\#bargaining*** n
-英音 ˈbɑːɡənɪŋ     美音 ˈbɑːrɡənɪŋ  
+英音 ˈbɑːɡənɪŋ  
+英音
+<audio src="./media/bargaining1_AAC.aac"></audio>
+美音 ˈbɑːrɡənɪŋ  
+美音
+<audio src="./media/bargaining2_AAC.aac"></audio>
+
 
   
 
@@ -1210,7 +1710,13 @@ Notes: 英式英语中理发店为the barber’s。
 
 
 # ***\#bark*** v
-英音 bɑːk     美音 bɑːrk  
+英音 bɑːk  
+英音
+<audio src="./media/bark-B.aac"></audio>
+美音 bɑːrk  
+美音
+<audio src="./media/bark.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1220,10 +1726,17 @@ Notes: 英式英语中理发店为the barber’s。
 
  > The dog **barked** madly **at** her.  
  > 那只狗对着她狂叫。  （2014 山东改）  
+<audio src="./media/bark-101_AAC.aac"></audio>
 
 
 # ***\#bark*** n
-英音 bɑːk     美音 bɑːrk  
+英音 bɑːk  
+英音
+<audio src="./media/bark-B.aac"></audio>
+美音 bɑːrk  
+美音
+<audio src="./media/bark.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1235,7 +1748,13 @@ Notes: 英式英语中理发店为the barber’s。
 
 
 # ***\#barrel*** n
-英音 'bærəl     美音 'bærəl  
+英音 'bærəl  
+英音
+<audio src="./media/barrel1.aac"></audio>
+美音 'bærəl  
+美音
+<audio src="./media/barrel2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1245,7 +1764,13 @@ Notes: 英式英语中理发店为the barber’s。
 
 
 # ***\#barreleye*** n
-英音 ˈbærəlaɪ     美音 ˈbærəlaɪ  
+英音 ˈbærəlaɪ  
+英音
+<audio src="./media/barreleye1_AAC.aac"></audio>
+美音 ˈbærəlaɪ  
+美音
+<audio src="./media/barreleye2_AAC.aac"></audio>
+
 
   
 
@@ -1255,7 +1780,13 @@ Notes: 英式英语中理发店为the barber’s。
 
 
 # ***\#barren*** adj
-英音 ˈbærən     美音 ˈbærən  
+英音 ˈbærən  
+英音
+<audio src="./media/barren1_AAC.aac"></audio>
+美音 ˈbærən  
+美音
+<audio src="./media/barren2_AAC.aac"></audio>
+
 
   
 
@@ -1265,7 +1796,13 @@ Notes: 英式英语中理发店为the barber’s。
 
 
 # ***\#barrier*** n
-英音 'bæriə(r)     美音 'bæriər  
+英音 'bæriə(r)  
+英音
+<audio src="./media/barrier-B.aac"></audio>
+美音 'bæriər  
+美音
+<audio src="./media/barrier.aac"></audio>
+
 
 | 词频 3 | 书面 1 | 阅读 2 |  
 
@@ -1275,9 +1812,11 @@ Notes: 英式英语中理发店为the barber’s。
 
  > The mountains form a natural **barrier between** the two countries.  
  > 群山构成了两国之间天然的屏障。    
+<audio src="./media/barrier-101_AAC.aac"></audio>
 
  > The skin acts as a **barrier against** disease, poisons and the sun’s harmful rays.   
  > 皮肤是抵御疾病、毒物和有害太阳射线的屏障。  （人教⑤ – 5）  
+<audio src="./media/2-barrier.aac"></audio>
 
  > a ticket barrier   
  > 检票口    
@@ -1287,6 +1826,7 @@ Notes: 英式英语中理发店为the barber’s。
 
  > He overcame the **language barrier**.   
  > 他克服了语言障碍。    
+<audio src="./media/1-barrier.aac"></audio>
 
 
 真题解析
@@ -1301,7 +1841,13 @@ D.barrier
 1. D  
 
 # ***\#base*** n
-英音 beɪs     美音 beɪs  
+英音 beɪs  
+英音
+<audio src="./media/base-B.aac"></audio>
+美音 beɪs  
+美音
+<audio src="./media/base.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 2 |  
 
@@ -1311,16 +1857,24 @@ D.barrier
 
  > Plants are the base of the food chain.   
  > 植物处于食物链的最底层。  （2012 四川改）  
+<audio src="./media/1-base.aac"></audio>
 
  > He used the house as a **base for** his printing business.  
  > 他把这所房子作为他印刷生意的总部。    
+<audio src="./media/2-base.aac"></audio>
 
  > revolutionary bases   
  > 革命根据地    
 
 
 # ***\#base*** vt
-英音 beɪs     美音 beɪs  
+英音 beɪs  
+英音
+<audio src="./media/base-B.aac"></audio>
+美音 beɪs  
+美音
+<audio src="./media/base.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1336,12 +1890,15 @@ D.barrier
 
  > The book is based on a true story.   
  > 这本书以一个真实的故事为原型。    
+<audio src="./media/3-base.aac"></audio>
 
  > You’ll be able to choose a room based on your own personal tastes.   
  > 你可以按照自己的喜好选择房间。  （2010 全国）  
+<audio src="./media/4-base.aac"></audio>
 
  > Basing an important decision more on emotion than on reason, you will regret it sooner or later.   
  > 依据情感而不是理智作出重要决定的话，你迟早会为此后悔。  （2012 江苏）  
+<audio src="./media/P44 base-1.aac"></audio>
 
 
 派生词汇
@@ -1359,7 +1916,13 @@ based /beɪst/ adj
 
 
 # ***\#baseball*** n
-英音 'beɪsbɔːl     美音 'beɪsbɔːl  
+英音 'beɪsbɔːl  
+英音
+<audio src="./media/baseball-B.aac"></audio>
+美音 'beɪsbɔːl  
+美音
+<audio src="./media/baseball.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -1369,7 +1932,13 @@ based /beɪst/ adj
 
 
 # ***\#based*** adj
-英音 beɪst     美音 beɪst  
+英音 beɪst  
+英音
+<audio src="./media/based1_AAC.aac"></audio>
+美音 beɪst  
+美音
+<audio src="./media/based2_AAC.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -1379,7 +1948,13 @@ based /beɪst/ adj
 
 
 # ***\#baseline*** n
-英音 ˈbeɪslaɪn     美音 ˈbeɪslaɪn  
+英音 ˈbeɪslaɪn  
+英音
+<audio src="./media/baseline1_AAC.aac"></audio>
+美音 ˈbeɪslaɪn  
+美音
+<audio src="./media/baseline2_AAC.aac"></audio>
+
 
   
 
@@ -1389,7 +1964,13 @@ based /beɪst/ adj
 
 
 # ***\#basement*** n
-英音 'beɪsmənt     美音 'beɪsmənt  
+英音 'beɪsmənt  
+英音
+<audio src="./media/basement-B.aac"></audio>
+美音 'beɪsmənt  
+美音
+<audio src="./media/basement.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1399,7 +1980,13 @@ based /beɪst/ adj
 
 
 # ***\#basic*** adj
-英音 'beɪsɪk     美音 'beɪsɪk  
+英音 'beɪsɪk  
+英音
+<audio src="./media/basic-B.aac"></audio>
+美音 'beɪsɪk  
+美音
+<audio src="./media/basic.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 |  
 
@@ -1418,7 +2005,13 @@ based /beɪst/ adj
 
 
 # ***\#basically*** adv
-英音 beɪsɪkli     美音 beɪsɪkli  
+英音 beɪsɪkli  
+英音
+<audio src="./media/basically-B.aac"></audio>
+美音 beɪsɪkli  
+美音
+<audio src="./media/basically.aac"></audio>
+
 
 | 词频 3 | 口语 3 |  
 
@@ -1428,10 +2021,17 @@ based /beɪst/ adj
 
  > Critics say these programmes are basically bad television, but people watch them.   
  > 评论说这些电视节目基本上不怎么样，可人们还在看。  （2008 上海春）  
+<audio src="./media/1-basically.aac"></audio>
 
 
 # ***\#basin*** n
-英音 'beɪsn     美音 'beɪsn  
+英音 'beɪsn  
+英音
+<audio src="./media/basin-B.aac"></audio>
+美音 'beɪsn  
+美音
+<audio src="./media/basin.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1441,7 +2041,13 @@ based /beɪst/ adj
 
 
 # ***\#basis*** n
-英音 'beɪsɪs     美音 'beɪsɪs  
+英音 'beɪsɪs  
+英音
+<audio src="./media/basis-B.aac"></audio>
+美音 'beɪsɪs  
+美音
+<audio src="./media/basis.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 3 |  
 
@@ -1454,13 +2060,21 @@ based /beɪst/ adj
 
  > Naismith later wrote 13 rules which are the basis of modern basketball rules.   
  > 奈史密斯后来定了13条规则，这些规定成为现代篮球规则的基础。  （外研⑦ – 1）  
+<audio src="./media/1-basis.aac"></audio>
 
  > **On the basis of** those facts, we can reach the following conclusion.   
  > 根据那些事实，我们可以得出以下结论。    
+<audio src="./media/2-basis.aac"></audio>
 
 
 # ***\#basket*** n
-英音 'bɑːskɪt     美音 'bæskɪt  
+英音 'bɑːskɪt  
+英音
+<audio src="./media/basket-B.aac"></audio>
+美音 'bæskɪt  
+美音
+<audio src="./media/basket.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -1470,6 +2084,7 @@ based /beɪst/ adj
 
  > Don’t put all your eggs in one basket.   
  > 不要把所有的鸡蛋放在一个篮子里。/不要孤注一掷。    
+<audio src="./media/1-basket.aac"></audio>
 
 
 真题解析
@@ -1480,7 +2095,13 @@ based /beɪst/ adj
 1.  basket  
 
 # ***\#basketball*** n
-英音 'bɑːskɪtbɔːl     美音 'bæskɪtbɔːl  
+英音 'bɑːskɪtbɔːl  
+英音
+<audio src="./media/basketball-B.aac"></audio>
+美音 'bæskɪtbɔːl  
+美音
+<audio src="./media/basketball.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -1490,7 +2111,13 @@ based /beɪst/ adj
 
 
 # ***\#bat*** n
-英音 bæt     美音 bæt  
+英音 bæt  
+英音
+<audio src="./media/bat-B.aac"></audio>
+美音 bæt  
+美音
+<audio src="./media/bat.aac"></audio>
+
 
 | 词频 3 | 口语 1 |  
 
@@ -1510,7 +2137,13 @@ based /beɪst/ adj
 
 
 # ***\#bat*** vt
-英音 bæt     美音 bæt  
+英音 bæt  
+英音
+<audio src="./media/bat-B.aac"></audio>
+美音 bæt  
+美音
+<audio src="./media/bat.aac"></audio>
+
 
 | 词频 3 | 口语 1 |  
 
@@ -1520,7 +2153,13 @@ based /beɪst/ adj
 
 
 # ***\#bath*** n
-英音 bɑːθ     美音 bæθ  
+英音 bɑːθ  
+英音
+<audio src="./media/bath-B.aac"></audio>
+美音 bæθ  
+美音
+<audio src="./media/bath.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -1537,7 +2176,13 @@ based /beɪst/ adj
 
 
 # ***\#bath*** vt
-英音 bɑːθ     美音 bæθ  
+英音 bɑːθ  
+英音
+<audio src="./media/bath-B.aac"></audio>
+美音 bæθ  
+美音
+<audio src="./media/bath.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -1547,7 +2192,13 @@ based /beɪst/ adj
 
 
 # ***\#bathe*** v
-英音 beɪð     美音 beɪð  
+英音 beɪð  
+英音
+<audio src="./media/bathe-B.aac"></audio>
+美音 beɪð  
+美音
+<audio src="./media/bathe.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1557,9 +2208,11 @@ based /beɪst/ adj
 
  > He bathed the children and put them to bed.   
  > 他给孩子们洗了澡，然后安顿他们上床睡觉。    
+<audio src="./media/1-bathe.aac"></audio>
 
  > I bathe every day in summer.  
  > 夏天我每天都洗澡。    
+<audio src="./media/bathe-101_AAC.aac"></audio>
 
 Notes: 表示“洗澡”常用have / take a bath。  
 ### 2.*低义频：* **(用水、药水等) 浸洗：**  
@@ -1571,13 +2224,20 @@ Notes: 表示“洗澡”常用have / take a bath。
 
  > The small village is **bathed in** brilliant sunshine.   
  > 小村庄沐浴在灿烂的阳光里。    
+<audio src="./media/3-bathe.aac"></audio>
 
  > a city bathed in a festival atmosphere   
  > 沉浸在节日气氛里的城市    
 
 
 # ***\#bathroom*** n
-英音 'bɑːθruːm     美音 'bæθruːm  
+英音 'bɑːθruːm  
+英音
+<audio src="./media/bathroom-B.aac"></audio>
+美音 'bæθruːm  
+美音
+<audio src="./media/bathroom.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 1 |  
 
@@ -1589,7 +2249,13 @@ Notes: 表示“洗澡”常用have / take a bath。
 
 
 # ***\#bathtub*** n
-英音 'bɑːθtʌb     美音 bæθtʌb  
+英音 'bɑːθtʌb  
+英音
+<audio src="./media/bathtub-B.aac"></audio>
+美音 bæθtʌb  
+美音
+<audio src="./media/bathtub.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1599,7 +2265,13 @@ Notes: 表示“洗澡”常用have / take a bath。
 
 
 # ***\#bathwater*** n
-英音 'bɑːθwɔːtə(r)     美音 'bæθwɔːtər  
+英音 'bɑːθwɔːtə(r)  
+英音
+<audio src="./media/bathwater1_AAC.aac"></audio>
+美音 'bæθwɔːtər  
+美音
+<audio src="./media/bathwater2_AAC.aac"></audio>
+
 
   
 
@@ -1609,7 +2281,13 @@ Notes: 表示“洗澡”常用have / take a bath。
 
 
 # ***\#battery*** n
-英音 'bætəri     美音 'bætəri  
+英音 'bætəri  
+英音
+<audio src="./media/battery-B.aac"></audio>
+美音 'bætəri  
+美音
+<audio src="./media/battery.aac"></audio>
+
 
 | 词频 4 | 阅读 3 |  
 
@@ -1619,7 +2297,13 @@ Notes: 表示“洗澡”常用have / take a bath。
 
 
 # ***\#battle*** n
-英音 'bætl     美音 'bætl  
+英音 'bætl  
+英音
+<audio src="./media/battle-B.aac"></audio>
+美音 'bætl  
+美音
+<audio src="./media/battle.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -1635,13 +2319,21 @@ Notes: 表示“洗澡”常用have / take a bath。
 
  > A good beginning is half the battle.   
  > 良好的开始是成功的一半。    
+<audio src="./media/1-battle.aac"></audio>
 
  > I realized running was a **battle against** myself.  
  > 我意识到跑步是一场与自己的较量。  （2018 北京）  
+<audio src="./media/battle-101_AAC.aac"></audio>
 
 
 # ***\#battle*** v
-英音 'bætl     美音 'bætl  
+英音 'bætl  
+英音
+<audio src="./media/battle-B.aac"></audio>
+美音 'bætl  
+美音
+<audio src="./media/battle.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -1654,13 +2346,21 @@ Notes: 表示“洗澡”常用have / take a bath。
 
  > They **battled with** / **against** the winds and waves.   
  > 他们与风浪搏斗。    
+<audio src="./media/2-battle.aac"></audio>
 
  > How did our ancestors battle nature with the basic tools they had?  
  > 我们的祖先是如何用他们的简单工具与大自然抗争的？    
+<audio src="./media/battle-102_AAC.aac"></audio>
 
 
 # ***\#battlefield*** n
-英音 ˈbætlfiːld     美音 ˈbætlfiːld  
+英音 ˈbætlfiːld  
+英音
+<audio src="./media/battlefield1_AAC.aac"></audio>
+美音 ˈbætlfiːld  
+美音
+<audio src="./media/battlefield2_AAC.aac"></audio>
+
 
   
 
@@ -1670,7 +2370,13 @@ Notes: 表示“洗澡”常用have / take a bath。
 
 
 # ***\#bay*** n
-英音 beɪ     美音 beɪ  
+英音 beɪ  
+英音
+<audio src="./media/bay-B.aac"></audio>
+美音 beɪ  
+美音
+<audio src="./media/bay.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -1680,7 +2386,13 @@ Notes: 表示“洗澡”常用have / take a bath。
 
 
 # ***\#be*** vi
-英音 bi;biː     美音 bi  
+英音 bi;biː  
+英音
+<audio src="./media/be-B.aac"></audio>
+美音 bi  
+美音
+<audio src="./media/be.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1692,9 +2404,11 @@ Notes: 表示“洗澡”常用have / take a bath。
 
  > The world is round.   
  > 地球是圆的。    
+<audio src="./media/1-be.aac"></audio>
 
  > What are you going to be when you grow up?   
  > 你长大后打算干什么？    
+<audio src="./media/1-2-be.aac"></audio>
 
 ### 2.*高义频：* **有：**  
 
@@ -1702,37 +2416,45 @@ Notes: 表示“洗澡”常用have / take a bath。
 
  > Where there is a will, there is a way.  
  > 有志者事竟成。    
+<audio src="./media/2-be.aac"></audio>
 
  > There must be something wrong.  
  > 肯定出事了。    
+<audio src="./media/3-be.aac"></audio>
 
 ### 3.*高义频：* **[表示时间] 是；于：**  
 
  > The next match will be at 3 o’clock.   
  > 下一场比赛将于3点钟开始。    
+<audio src="./media/5-be.aac"></audio>
 
 ### 4.*高义频：* **在；存在：**  
 
  > The lamp is on the table.   
  > 灯在桌子上。    
+<audio src="./media/6-be.aac"></audio>
 
 ### 5.*高义频：* **停留；逗留；保持…状态：**  
 
  > They’re here till Christmas.   
  > 他们在这里一直逗留到圣诞节。    
+<audio src="./media/7-be.aac"></audio>
 
  > The economy is in a terrible condition.   
  > 经济非常不景气。    
+<audio src="./media/8-be.aac"></audio>
 
 ### 6.*高义频：* **出席；到场：**  
 
  > Were you at the party yesterday?   
  > 昨天你去参加聚会了吗?    
+<audio src="./media/9-be.aac"></audio>
 
 ### 7.*高义频：* **[用于完成时] 前往；造访：**  
 
  > Have you ever been to Beijing?   
  > 你去过北京吗？    
+<audio src="./media/10-be.aac"></audio>
 
 
 真题解析
@@ -1746,7 +2468,13 @@ Notes: 表示“洗澡”常用have / take a bath。
 1. is  2. was  3. were  4.  was going to / would be  
 
 # ***\#be*** aux v
-英音 bi;biː     美音 bi  
+英音 bi;biː  
+英音
+<audio src="./media/be-B.aac"></audio>
+美音 bi  
+美音
+<audio src="./media/be.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1757,34 +2485,47 @@ Notes: 表示“洗澡”常用have / take a bath。
 
  > They are reading.  
  > 他们在读书。    
+<audio src="./media/11-be.aac"></audio>
 
  > What have you been doing this week?  
  > 这周你在忙些什么？    
+<audio src="./media/13-be.aac"></audio>
 
 - 构成被动语态：
 
  > He was killed in the war.  
  > 他在战争中牺牲了。    
+<audio src="./media/14-be.aac"></audio>
 
  > Smoking is not permitted here.  
  > 此处禁止吸烟。    
+<audio src="./media/15-be.aac"></audio>
 
 - 表示动作完成的状态：
 
  > Winter is gone and spring has come.  
  > 冬天已去，春天来了。    
+<audio src="./media/16-be.aac"></audio>
 
 - 与不定式连用，表示安排、命令、指责、义务、可能性等：
 
  > I am to see him today at 6 o’clock.  
  > 今天6点我要去看他。    
+<audio src="./media/17-be.aac"></audio>
 
  > All these things are to be done.  
  > 所有这些事情都得做完。    
+<audio src="./media/18-be.aac"></audio>
 
 
 # ***\#beach*** n
-英音 biːtʃ     美音 biːtʃ  
+英音 biːtʃ  
+英音
+<audio src="./media/beach-B.aac"></audio>
+美音 biːtʃ  
+美音
+<audio src="./media/beach.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -1797,7 +2538,13 @@ Notes: 表示“洗澡”常用have / take a bath。
 
 
 # ***\#bead*** n
-英音 biːd     美音 biːd  
+英音 biːd  
+英音
+<audio src="./media/bead-B.aac"></audio>
+美音 biːd  
+美音
+<audio src="./media/bead.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1809,7 +2556,13 @@ Notes: 表示“洗澡”常用have / take a bath。
 
 
 # ***\#beak*** n
-英音 biːk     美音 biːk  
+英音 biːk  
+英音
+<audio src="./media/beak1_AAC.aac"></audio>
+美音 biːk  
+美音
+<audio src="./media/beak1_AAC.aac"></audio>
+
 
   
 
@@ -1819,7 +2572,13 @@ Notes: 表示“洗澡”常用have / take a bath。
 
 
 # ***\#bean*** n
-英音 biːn     美音 biːn  
+英音 biːn  
+英音
+<audio src="./media/bean-B.aac"></audio>
+美音 biːn  
+美音
+<audio src="./media/bean.aac"></audio>
+
 
 | 词频 3 | 口语 1 |  
 
@@ -1835,7 +2594,13 @@ Notes: 表示“洗澡”常用have / take a bath。
 
 
 # ***\#bear*** n
-英音 beə(r)     美音 ber  
+英音 beə(r)  
+英音
+<audio src="./media/bear-B.aac"></audio>
+美音 ber  
+美音
+<audio src="./media/bear.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -1845,7 +2610,13 @@ Notes: 表示“洗澡”常用have / take a bath。
 
 
 # ***\#bear*** vt
-英音 beə(r)     美音 ber  
+英音 beə(r)  
+英音
+<audio src="./media/bear-B.aac"></audio>
+美音 ber  
+美音
+<audio src="./media/bear.aac"></audio>
+
 
 | 词频 5 | 书面 3 |  
 
@@ -1857,25 +2628,30 @@ Notes: 表示“洗澡”常用have / take a bath。
 
  > He turned up at the hospital bearing gifts for the new mother and her baby boy.  
  > 他带着给新妈妈和男婴的礼物，来到了医院。  （2018 全国改）  
+<audio src="./media/bear-101_AAC.aac"></audio>
 
 ### 2.*高义频：* **忍受；容忍**  
 英译 to be able to accept and deal with sth unpleasant (stand)：
 
  > I **could not bear the thought of** never hearing again the program to which I listened every morning.   
  > 一想到再也听不到每天早晨都听的那个节目，我就受不了。  （2009 北京）  
+<audio src="./media/1-bear.aac"></audio>
 
 - bear doing / to do sth:
 
  > She can’t bear being laughed at.   
  > 她不能容忍被人嘲笑。    
+<audio src="./media/2-bear.aac"></audio>
 
  > Shaw, an animal lover, said he couldn’t bear to part with his dog.   
  > 肖是一个喜爱动物的人，他说他舍不得与他的爱犬分离。  （2010 天津改）  
+<audio src="./media/3-bear.aac"></audio>
 
 - bear sb doing sth:
 
  > He can’t bear people smoking while he’s eating.   
  > 他受不了有人在他吃饭的时候吸烟。    
+<audio src="./media/4-bear.aac"></audio>
 
 ### 3.*高义频：* **[正式用语] 承担；负担**  
 英译 to be responsible for or accept sth：
@@ -1888,26 +2664,31 @@ Notes: 表示“洗澡”常用have / take a bath。
 
  > Who will bear the losses caused by the accident?   
  > 谁来负担事故造成的损失？    
+<audio src="./media/6-bear.aac"></audio>
 
 ### 4.*高义频：* **支撑；承受 (重量)**  
 英译 to be under sth and support it(hold)：
 
  > The ice is too thin to bear your weight.   
  > 冰太薄，承受不了你的重量。    
+<audio src="./media/7-bear.aac"></audio>
 
 ### 5.*低义频：* **带有 (某种标记或外观特征) (have)：**  
 
  > The letter bore no signature.   
  > 这封信上没有署名。    
+<audio src="./media/bear-The letter bore no signature.aac"></audio>
 
  > Approximately 75 buildings still bear these unique characteristics.    
  > 大约有75座建筑仍带有这些独一无二的特征。  （2015 湖北改）  
+<audio src="./media/bear50.aac"></audio>
 
 ### 6.*低义频：* **生育**  
 英译 to give birth to：
 
  > She has **borne him 3 children**.   
  > 她已经给他生了3个孩子。    
+<audio src="./media/11-bear.aac"></audio>
 
 
 固定搭配
@@ -1917,25 +2698,35 @@ Notes: 表示“洗澡”常用have / take a bath。
 
  > He’ll bear the beautiful girl in mind forever.   
  > 他将永远记住那位美丽的姑娘。    
+<audio src="./media/12-bear.aac"></audio>
 
  > Bear in mind that nothing is impossible.  
  > 记住没有什么是不可能的。    
+<audio src="./media/13-bear.aac"></audio>
 
 ## \#bear with
 1.**忍耐；容忍：**  
 
  > We learn to bear with the things we can't change.  
  > 我们学会容忍自己无法改变的事情。  （2019 天津）  
+<audio src="./media/We learn to bear with the2_AAC.aac"></audio>
 
 ## \#bear with me
 1.**等我一会儿；请你稍等：**  
 
  > Could you bear with me a moment, please?   
  > 请你稍等片刻，行吗？  （2010 北京）  
+<audio src="./media/14-bear.aac"></audio>
 
 
 # ***\#beard*** n
-英音 bɪəd     美音 bɪrd  
+英音 bɪəd  
+英音
+<audio src="./media/beard-B.aac"></audio>
+美音 bɪrd  
+美音
+<audio src="./media/beard.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -1945,7 +2736,13 @@ Notes: 表示“洗澡”常用have / take a bath。
 
 
 # ***\#beast*** n
-英音 biːst     美音 biːst  
+英音 biːst  
+英音
+<audio src="./media/beast-B.aac"></audio>
+美音 biːst  
+美音
+<audio src="./media/beast.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1955,7 +2752,13 @@ Notes: 表示“洗澡”常用have / take a bath。
 
 
 # ***\#beat*** v
-英音 biːt     美音 biːt  
+英音 biːt  
+英音
+<audio src="./media/beat-B.aac"></audio>
+美音 biːt  
+美音
+<audio src="./media/beat.aac"></audio>
+
 
 | 词频 4 | 口语 2 |  
 
@@ -1973,22 +2776,27 @@ Notes: 表示“洗澡”常用have / take a bath。
 
  > The boy was beaten until he was black and blue.   
  > 那孩子被打得青一块紫一块。    
+<audio src="./media/1-beat.aac"></audio>
 
  > The rain was **beating against** the window.   
  > 雨水正敲打着窗户。    
+<audio src="./media/2-beat.aac"></audio>
 
 ### 2.*高义频：* **(心脏等) 跳动：**  
 
  > My panic was rising and I could feel my heart beating wildly.  
  > 我越来越恐慌，能感觉到心在狂跳。  （2015 湖南）  
+<audio src="./media/P45 beat-2.aac"></audio>
 
 ### 3.*高义频：* **打败；战胜(defeat)：**  
 
  > Will anyone **beat the record** this year?  
  > 今年会有人打破纪录吗？    
+<audio src="./media/3-beat.aac"></audio>
 
  > Last night Liverpool beat Barcelona 3 to 1.  
  > 昨晚利物浦队三比一战胜了巴塞罗那队。  （2009 湖北）  
+<audio src="./media/bear-102_AAC.aac"></audio>
 
 
 固定搭配
@@ -2007,6 +2815,7 @@ Notes: 表示“洗澡”常用have / take a bath。
 
  > He was badly beaten up by a gang of youths.   
  > 他被一伙年轻人狠狠打了一顿。    
+<audio src="./media/P46 beat1.aac"></audio>
 
 #### 辨析 beat, hit, strike
 三个词都有“打”、“击”的意思，但用法不完全相同。  
@@ -2015,17 +2824,26 @@ Notes: 表示“洗澡”常用have / take a bath。
 **strike** 指用力地“打击”，表示短暂的动作，含有急速的或突然的一次性的殴打、打击或敲击， 是普通用词；还可表示敲钟、报时。有时与hit通用，指灾难侵袭。
  > He hit / struck her hard in the face.  
  > 他重重地打了她一耳光。    
+<audio src="./media/10-beat.aac"></audio>
 
  > The car ran out of control and hit / struck a tree.  
  > 汽车失去控制，撞在树上。    
+<audio src="./media/11-beat.aac"></audio>
 
  > The clock struck noon.  
  > 时钟敲响中午十二点。    
+<audio src="./media/12-beat.aac"></audio>
 
 
 
 # ***\#beat*** n
-英音 biːt     美音 biːt  
+英音 biːt  
+英音
+<audio src="./media/beat-B.aac"></audio>
+美音 biːt  
+美音
+<audio src="./media/beat.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -2035,13 +2853,21 @@ Notes: 表示“洗澡”常用have / take a bath。
 
  > The beat of a song makes you want to dance!   
  > 歌曲的节拍让人想跳舞！  （外研⑦ – 4）  
+<audio src="./media/14-beat.aac"></audio>
 
  > My heart missed a beat.   
  > 我的心跳顿了一下。    
+<audio src="./media/15-beat.aac"></audio>
 
 
 # ***\#beautiful*** adj
-英音 'bjuːtɪfl     美音 'bjuːtɪfl  
+英音 'bjuːtɪfl  
+英音
+<audio src="./media/beautiful-B.aac"></audio>
+美音 'bjuːtɪfl  
+美音
+<audio src="./media/beautiful.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -2054,9 +2880,11 @@ Notes: 表示“洗澡”常用have / take a bath。
 
  > She is beautiful.   
  > 她很漂亮。    
+<audio src="./media/1-beautiful.aac"></audio>
 
  > — How was the game?   
  > 比赛怎么样？    
+<audio src="./media/2-beautiful.aac"></audio>
 
  > — Beautiful!  
  > 棒极了！    
@@ -2067,15 +2895,28 @@ Notes: 表示“洗澡”常用have / take a bath。
 beautifully /'bju:tɪfli/ adv   
  > You play the piano beautifully.   
  > 你钢琴弹得好极了。    
+<audio src="./media/beautiful-3.aac"></audio>
 
 
 # ***\#beautify*** v
-英音 'bjuːtɪfaɪ     美音 'bjuːtɪfaɪ  
+英音 'bjuːtɪfaɪ  
+英音
+<audio src="./media/beautify1_AAC.aac"></audio>
+美音 'bjuːtɪfaɪ  
+美音
+<audio src="./media/beautify2_AAC.aac"></audio>
+
 
   
 
 # ***\#beauty*** n
-英音 'bjuːti     美音 'bjuːti  
+英音 'bjuːti  
+英音
+<audio src="./media/beauty-B.aac"></audio>
+美音 'bjuːti  
+美音
+<audio src="./media/beauty.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -2096,13 +2937,21 @@ beautifully /'bju:tɪfli/ adv
 
  > He regarded his wife as a beauty.  
  > 他觉得自己的妻子是个美人。    
+<audio src="./media/2-beauty.aac"></audio>
 
  > Photos record the beauties of nature.   
  > 照片记录了大自然的美景。  （2008 陕西）  
+<audio src="./media/3-beauty.aac"></audio>
 
 
 # ***\#beaver*** n
-英音 'biːvə(r)     美音 'biːvər  
+英音 'biːvə(r)  
+英音
+<audio src="./media/beaver-B.aac"></audio>
+美音 'biːvər  
+美音
+<audio src="./media/beaver.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2114,7 +2963,13 @@ beautifully /'bju:tɪfli/ adv
 
 
 # ***\#because*** conj
-英音 bɪ'kɒz; bɪ'kəz     美音 bɪ'kɔːz  
+英音 bɪ'kɒz; bɪ'kəz  
+英音
+<audio src="./media/because-B.aac"></audio>
+美音 bɪ'kɔːz  
+美音
+<audio src="./media/because.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2126,9 +2981,11 @@ beautifully /'bju:tɪfli/ adv
 
  > Many exam candidates lose marks **simply because** they do not read the questions properly.  
  > 许多应试者失分只是因为没有好好地读题。    
+<audio src="./media/1-because.aac"></audio>
 
  > They say this is because when you laugh, your brain sends chemicals around your body that are good for you.  
  > 他们说这是因为，笑的时候大脑会向全身发送有益的化学物质。  （译林⑥ – 1）  
+<audio src="./media/2-because.aac"></audio>
 
 
 固定搭配
@@ -2138,6 +2995,7 @@ beautifully /'bju:tɪfli/ adv
 
  > There are many homeless people because of the earthquake.  
  > 因为地震，很多人无家可归。  （外研⑦ – 7）  
+<audio src="./media/3-because.aac"></audio>
 
 #### 辨析 because, since, as, for
   
@@ -2147,6 +3005,7 @@ beautifully /'bju:tɪfli/ adv
 **for** 为并列连词，连接的不是从句，而是分句。 表示对已发生情况的补充说明，不表示直接的原因，语气较弱。
  > It must have rained last night, for the ground is wet.  
  > 昨晚准是下过雨，因为地面是湿的。    
+<audio src="./media/7-because.aac"></audio>
 
 
 
@@ -2159,7 +3018,13 @@ beautifully /'bju:tɪfli/ adv
 1. because  2. of  
 
 # ***\#become*** vi
-英音 bɪ'kʌm     美音 bɪ'kʌm  
+英音 bɪ'kʌm  
+英音
+<audio src="./media/become-B.aac"></audio>
+美音 bɪ'kʌm  
+美音
+<audio src="./media/become.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2171,15 +3036,19 @@ beautifully /'bju:tɪfli/ adv
 
  > At his words she became angrier.   
  > 听了他的话，她更生气了。    
+<audio src="./media/1-become.aac"></audio>
 
  > At last the truth became known.   
  > 最后真相大白了。    
+<audio src="./media/2-become.aac"></audio>
 
  > Pollution from cars has become a major problem.  
  > 汽车造成的污染已成主要问题。    
+<audio src="./media/3-become.aac"></audio>
 
  > He loved experimenting and his aim was to become a scientist like his father.   
  > 他热爱做实验，他的目标就是要成为一个像父亲那样的科学家。  （2012 江西）  
+<audio src="./media/4-become.aac"></audio>
 
 
 固定搭配
@@ -2189,9 +3058,11 @@ beautifully /'bju:tɪfli/ adv
 
  > What has become of him?   
  > 他后来情况怎样？    
+<audio src="./media/5-become.aac"></audio>
 
  > What will become of you if you lose the game?  
  > 比赛要是输了，你会怎么样？    
+<audio src="./media/become-What will become.aac"></audio>
 
 
 真题解析
@@ -2203,7 +3074,13 @@ beautifully /'bju:tɪfli/ adv
 1. have become  2. had become  
 
 # ***\#bed*** n
-英音 bed     美音 bed  
+英音 bed  
+英音
+<audio src="./media/bed-B.aac"></audio>
+美音 bed  
+美音
+<audio src="./media/bed.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2221,7 +3098,13 @@ beautifully /'bju:tɪfli/ adv
 
 
 # ***\#bedding*** n
-英音 'bedɪŋ     美音 'bedɪŋ  
+英音 'bedɪŋ  
+英音
+<audio src="./media/bedding-B.aac"></audio>
+美音 'bedɪŋ  
+美音
+<audio src="./media/bedding.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2233,10 +3116,17 @@ beautifully /'bju:tɪfli/ adv
 
  > The bedding was a pillow, a sheet, and a thin quilt.   
  > 寝具包括一个枕头、一张床单和一床薄被。  （外研⑦ – 2）  
+<audio src="./media/bedding-1.aac"></audio>
 
 
 # ***\#bedroom*** n
-英音 'bedruːm     美音 'bedruːm  
+英音 'bedruːm  
+英音
+<audio src="./media/bedroom-B.aac"></audio>
+美音 'bedruːm  
+美音
+<audio src="./media/bedroom.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -2248,7 +3138,13 @@ beautifully /'bju:tɪfli/ adv
 
 
 # ***\#bee*** n
-英音 biː     美音 biː  
+英音 biː  
+英音
+<audio src="./media/bee-B.aac"></audio>
+美音 biː  
+美音
+<audio src="./media/bee.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -2260,7 +3156,13 @@ beautifully /'bju:tɪfli/ adv
 
 
 # ***\#beef*** n
-英音 biːf     美音 biːf  
+英音 biːf  
+英音
+<audio src="./media/beef-B.aac"></audio>
+美音 biːf  
+美音
+<audio src="./media/beef.aac"></audio>
+
 
 | 词频 3 | 口语 1 |  
 
@@ -2272,7 +3174,13 @@ beautifully /'bju:tɪfli/ adv
 
 
 # ***\#beehive*** n
-英音 ˈbiːhaɪv     美音 ˈbiːhaɪv  
+英音 ˈbiːhaɪv  
+英音
+<audio src="./media/beehive1_AAC.aac"></audio>
+美音 ˈbiːhaɪv  
+美音
+<audio src="./media/beehive2_AAC.aac"></audio>
+
 
   
 
@@ -2282,7 +3190,13 @@ beautifully /'bju:tɪfli/ adv
 
 
 # ***\#beer*** n
-英音 bɪə(r)     美音 bɪr  
+英音 bɪə(r)  
+英音
+<audio src="./media/beer-B.aac"></audio>
+美音 bɪr  
+美音
+<audio src="./media/beer.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 1 |  
 
@@ -2294,7 +3208,13 @@ beautifully /'bju:tɪfli/ adv
 
 
 # ***\#before*** prep
-英音 bɪ'fɔː(r)     美音 bɪ'fɔːr  
+英音 bɪ'fɔː(r)  
+英音
+<audio src="./media/before-B.aac"></audio>
+美音 bɪ'fɔːr  
+美音
+<audio src="./media/before.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2308,29 +3228,41 @@ beautifully /'bju:tɪfli/ adv
 
  > **Before long** a large crowd had gathered outside the building.  
  > 不久大楼外面就聚集了一大群人。    
+<audio src="./media/6-before.aac"></audio>
 
 ### 2.*低义频：* **[表示位置] 在...前面；在...面前：**  
 
  > She is afraid to speak before a large audience.   
  > 她不敢在大庭广众面前讲话。    
+<audio src="./media/1-before.aac"></audio>
 
  > Never bow before difficulties.   
  > 决不要向困难低头。    
+<audio src="./media/2-before.aac"></audio>
 
 ### 3.*高义频：* **[表示顺序、重要性等] 先于：**  
 
  > She got into the bus before others.   
  > 她比别人先上了汽车。    
+<audio src="./media/4-before.aac"></audio>
 
  > We must put quality before quantity.   
  > 我们应该重视质量胜过数量。    
+<audio src="./media/5-before.aac"></audio>
 
  > Business before pleasure.   
  > 正事要紧。    
+<audio src="./media/3-before.aac"></audio>
 
 
 # ***\#before*** adv
-英音 bɪ'fɔː(r)     美音 bɪ'fɔːr  
+英音 bɪ'fɔː(r)  
+英音
+<audio src="./media/before-B.aac"></audio>
+美音 bɪ'fɔːr  
+美音
+<audio src="./media/before.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2343,30 +3275,42 @@ beautifully /'bju:tɪfli/ adv
 
  > She had the impression that she had seen most of the guests before.   
  > 她感觉大部分客人都是她以前见过的。  （2014 浙江改）  
+<audio src="./media/P47 before1.aac"></audio>
 
  > Never before have I had such a special drink!   
  > 我以前从未喝过这样特别的饮料！  （2011 福建）  
+<audio src="./media/P47 before2.aac"></audio>
 
 #### 辨析 ago, before
 二者都可作副词，表示“(某段时间) 以前”。 ago 表示从现在算起某段时间以前，before 表示从过去的某个时候算起某段时间以前。ago 常与一般过去时连用，before 常与过去完成时连用。  
  > I don’t know where he is, but he was here a minute ago.  
  > 我不知道他现在在哪儿，但是刚才他在这儿。    
+<audio src="./media/2-ago.aac"></audio>
 
  > I called him up yesterday, but his wife told me that he had left for Wuhan three days before.  
  > 我昨天给他打过电话，但他妻子说他三天前去武汉了。    
+<audio src="./media/3-ago.aac"></audio>
 
 
 ### 2.*高义频：* **[表示位置、方向等] 在前面；向前：**  
 
  > You walk before and I will walk after.   
  > 你在前面走，我在后面跟着。    
+<audio src="./media/8-before.aac"></audio>
 
  > She said that she had heard of it **long before**.  
  > 她说她很早以前就听说过此事。    
+<audio src="./media/P47 before3.aac"></audio>
 
 
 # ***\#before*** conj
-英音 bɪ'fɔː(r)     美音 bɪ'fɔːr  
+英音 bɪ'fɔː(r)  
+英音
+<audio src="./media/before-B.aac"></audio>
+美音 bɪ'fɔːr  
+美音
+<audio src="./media/before.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2376,15 +3320,19 @@ beautifully /'bju:tɪfli/ adv
 
  > Think twice before you decide.   
  > 作决定前要再三考虑。    
+<audio src="./media/10-before.aac"></audio>
 
  > Some time passed before my stepfather and I got used to each other.  
  > 继父和我相处一段时间后才彼此习惯。  （2009 北京）  
+<audio src="./media/11-before.aac"></audio>
 
  > It wasn’t long before he returned from abroad.  
  > 不久他就从国外回来了。    
+<audio src="./media/12-before.aac"></audio>
 
  > The young couple, who returned my lost wallet, left before I could ask for their names.  
  > 那对年轻的夫妇归还了我丢失的钱包，我还没有来得及问他们的名字他们就走了。  （2014 陕西）  
+<audio src="./media/The young couple, who_AAC.aac"></audio>
 
 Notes: before 的译法很灵活，在不同的语境下可译为：(没过多久) 就…”，“(过… ) 才…”，“还没来得及… 就…”，“趁… (还没有) 时”。  
 
@@ -2402,7 +3350,13 @@ D.as
 1. C  2. before  3. before  
 
 # ***\#befriend*** vt
-英音 bɪ'frend     美音 bɪ'frend  
+英音 bɪ'frend  
+英音
+<audio src="./media/befriend-B.aac"></audio>
+美音 bɪ'frend  
+美音
+<audio src="./media/befriend.aac"></audio>
+
 
 | 词频 1 | 阅读 1 |  
 
@@ -2412,10 +3366,17 @@ D.as
 
  > Nigel decided to befriend Alicia.   
  > 尼格尔决定把艾丽西亚当朋友看待。  （2008 江西）  
+<audio src="./media/1-befriend.aac"></audio>
 
 
 # ***\#beg*** v
-英音 beɡ     美音 beɡ  
+英音 beɡ  
+英音
+<audio src="./media/beg-B.aac"></audio>
+美音 beɡ  
+美音
+<audio src="./media/beg.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -2427,29 +3388,35 @@ D.as
 
  > They begged a lift in our car.   
  > 他们请求搭我们的车。    
+<audio src="./media/1-beg.aac"></audio>
 
 - beg (sb) for sth:
 
  > He begged them for help.   
  > 他请求他们帮忙。    
+<audio src="./media/2-beg.aac"></audio>
 
 - beg (sb) to do sth:
 
  > We begged him to let the children go free.  
  > 我们恳求他放了孩子们。    
+<audio src="./media/beg-7.aac"></audio>
 
  > I beg to suggest a different plan.   
  > 我恳请提出一个不同的计划。    
+<audio src="./media/4-beg.aac"></audio>
 
 - beg + that 从句：
 
  > I beg that neither of you will say anything more.   
  > 我恳求你们俩都别再说了。    
+<audio src="./media/5-beg.aac"></audio>
 
 ### 2.*低义频：* **乞讨：**  
 
  > He was so poor that he had to **beg ( for ) food** from passers-by.  
  > 他穷得要向过路人乞讨食物。    
+<audio src="./media/6-beg.aac"></audio>
 
 
 固定搭配
@@ -2459,7 +3426,13 @@ D.as
 
 
 # ***\#beggar*** n
-英音 'beɡə(r)     美音 'beɡər  
+英音 'beɡə(r)  
+英音
+<audio src="./media/beggar-B.aac"></audio>
+美音 'beɡər  
+美音
+<audio src="./media/beggar.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -2471,7 +3444,13 @@ D.as
 
 
 # ***\#begin*** v
-英音 bɪ'ɡɪn     美音 bɪ'ɡɪn  
+英音 bɪ'ɡɪn  
+英音
+<audio src="./media/begin-B.aac"></audio>
+美音 bɪ'ɡɪn  
+美音
+<audio src="./media/begin.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2483,20 +3462,25 @@ D.as
 
  > The show will **begin at** two o’clock this afternoon at the Student Centre.  
  > 表演将于今天下午2点在学生中心开始。  （2014 陕西书面表达）  
+<audio src="./media/The show will begin _AAC.aac"></audio>
 
  > He is beginning a new business.   
  > 他正在开展新的业务。    
+<audio src="./media/2-begin.aac"></audio>
 
  > The invention of the steam engine began a great revolution.   
  > 蒸汽机的发明引发了一场伟大的革命。    
+<audio src="./media/3-begin.aac"></audio>
 
  > Knowledge **begins with** practice.   
  > 知识来源于实践。    
+<audio src="./media/5-begin.aac"></audio>
 
 - begin doing / to do sth:
 
  > When did you begin learning / to learn French?  
  > 你是什么时候开始学法语的？    
+<audio src="./media/6-begin.aac"></audio>
 
 
 固定搭配
@@ -2506,6 +3490,7 @@ D.as
 
  > To begin with, it is important to create a positive attitude.  
  > 首先，要有积极的态度，这点很重要  （人教③ – 12）  
+<audio src="./media/7-begin.aac"></audio>
 
 
 真题解析
@@ -2516,7 +3501,13 @@ D.as
 1. begin → begun  
 
 # ***\#beginner*** n
-英音 bɪ'ɡɪnə(r)     美音 bɪ'ɡɪnər  
+英音 bɪ'ɡɪnə(r)  
+英音
+<audio src="./media/beginner-B.aac"></audio>
+美音 bɪ'ɡɪnər  
+美音
+<audio src="./media/beginner.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -2528,7 +3519,13 @@ D.as
 
 
 # ***\#beginning*** n
-英音 bɪ'ɡɪnɪŋ     美音 bɪ'ɡɪnɪŋ  
+英音 bɪ'ɡɪnɪŋ  
+英音
+<audio src="./media/beginning-B.aac"></audio>
+美音 bɪ'ɡɪnɪŋ  
+美音
+<audio src="./media/beginning.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -2546,13 +3543,21 @@ D.as
 
  > A good beginning makes a good ending.   
  > 善始者善终。    
+<audio src="./media/1-beginning.aac"></audio>
 
  > John became a football coach in a middle school **at the beginning of** March.  
  > 三月初，约翰成为一所中学的足球教练。    
+<audio src="./media/John became a football _AAC.aac"></audio>
 
 
 # ***\#behalf*** n
-英音 bɪ'hɑːf     美音 bɪ'hæf  
+英音 bɪ'hɑːf  
+英音
+<audio src="./media/behalf-B.aac"></audio>
+美音 bɪ'hæf  
+美音
+<audio src="./media/behalf.aac"></audio>
+
 
 | 词频 1 | 阅读 1 |  
 
@@ -2567,20 +3572,24 @@ D.as
 
  > We collect money in behalf of the homeless.   
  > 我们为无家可归的人筹钱。    
+<audio src="./media/1-behalf.aac"></audio>
 
 ## \#on behalf of sb / on sb’s behalf
 1.*高义频：* **代表：**  
 
  > I, on behalf of our class, welcome you warmly and sincerely.  
  > 我代表我们班级，真诚、热情地欢迎你。  （2014 天津书面表达）  
+<audio src="./media/behalf-101_AAC.aac"></audio>
 
 2.*高义频：* **为了某人；因为某人：**  
 
  > They write letters of recommendation on behalf of students.  
  > 他们为学生写推荐信。  （北师大⑧ – 23）  
+<audio src="./media/They write letters of recommendation_AAC.aac"></audio>
 
  > Don’t worry on my behalf.  
  > 别为我担心。    
+<audio src="./media/P48 behalf-1.aac"></audio>
 
 
 真题解析
@@ -2591,7 +3600,13 @@ D.as
 1. On behalf of  
 
 # ***\#behave*** v  重难点词汇
-英音 bɪ'heɪv     美音 bɪ'heɪv  
+英音 bɪ'heɪv  
+英音
+<audio src="./media/behave-B.aac"></audio>
+美音 bɪ'heɪv  
+美音
+<audio src="./media/behave.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 | 阅读 2 |  
 
@@ -2602,6 +3617,7 @@ D.as
 
  > He was a little boy, but he **behaved as if / though** he was an adult.  
  > 他是一个小男孩，但却表现得像个大人。    
+<audio src="./media/1-behave.aac"></audio>
 
 ### 2.*高义频：* **(使) 举止规矩；(使) 表现得体**  
 英译 to act in a correct or appropriate way：
@@ -2613,6 +3629,7 @@ D.as
 
  > Students should be encouraged to develop good habits and better behave themselves.   
  > 应当鼓励学生养成良好的习惯，行为更加规矩。  （2011 浙江）  
+<audio src="./media/3-behave.aac"></audio>
 
 
 真题解析
@@ -2623,7 +3640,13 @@ D.as
 1. behave yourself  
 
 # ***\#behavior*** n
-英音 bɪ'heɪvjər     美音 bɪ'heɪvjə(r)  
+英音 bɪ'heɪvjər  
+英音
+<audio src="./media/behavior-B.aac"></audio>
+美音 bɪ'heɪvjə(r)  
+美音
+<audio src="./media/behavior.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 1 |  
 
@@ -2633,9 +3656,11 @@ D.as
 
  > This is not a family where **bad behavior** goes unpunished.   
  > 在这个家庭，举止不良逃不过惩罚。  （译林① – 2）  
+<audio src="./media/1-behavior.aac"></audio>
 
  > I think all of us should mind our behavior in public places.  
  > 我认为我们大家都应该注意在公共场所的行为举止。  （2012 福建书面表达）  
+<audio src="./media/2-behavior.aac"></audio>
 
 ### 2.*高义频：* **(物体等) 反应；性能；行为方式；习性：**  
 
@@ -2644,10 +3669,17 @@ D.as
 
  > Nobody before Jane fully understood chimp behaviour.   
  > 在简之前没有人能够全面了解大猩猩的行为。  （人教④ – 1）  
+<audio src="./media/3-behavior.aac"></audio>
 
 
 # ***\#behaviour*** n
-英音 bɪ'heɪvjə(r)     美音 bɪ'heɪvjə(r)  
+英音 bɪ'heɪvjə(r)  
+英音
+<audio src="./media/behavior-B.aac"></audio>
+美音 bɪ'heɪvjə(r)  
+美音
+<audio src="./media/behavior.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 3 | 阅读 1 |  
 
@@ -2657,9 +3689,11 @@ D.as
 
  > This is not a family where **bad behavior** goes unpunished.   
  > 在这个家庭，举止不良逃不过惩罚。  （译林① – 2）  
+<audio src="./media/1-behavior.aac"></audio>
 
  > I think all of us should mind our behavior in public places.  
  > 我认为我们大家都应该注意在公共场所的行为举止。  （2012 福建书面表达）  
+<audio src="./media/2-behavior.aac"></audio>
 
 ### 2.*高义频：* **(物体等) 反应；性能；行为方式；习性：**  
 
@@ -2668,10 +3702,17 @@ D.as
 
  > Nobody before Jane fully understood chimp behaviour.  
  > 在简之前没有人能够全面了解大猩猩的行为。  （人教④ – 1）  
+<audio src="./media/3-behavior.aac"></audio>
 
 
 # ***\#behind*** adv
-英音 bɪ'haɪnd     美音 bɪ'haɪnd  
+英音 bɪ'haɪnd  
+英音
+<audio src="./media/behind-B.aac"></audio>
+美音 bɪ'haɪnd  
+美音
+<audio src="./media/behind.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2681,18 +3722,27 @@ D.as
 
  > My brother went in front and I walked behind.   
  > 弟弟在前面走，我在他后面跟着。    
+<audio src="./media/5-behind.aac"></audio>
 
 ### 2.*高义频：* **落后；慢；迟：**  
 
  > I’ve got behind with my homework.   
  > 我的家庭作业落下了。    
+<audio src="./media/6-behind.aac"></audio>
 
  > They are three weeks behind with the rent.   
  > 他们已经拖欠了3个星期的房租。    
+<audio src="./media/7-behind.aac"></audio>
 
 
 # ***\#behind*** prep
-英音 bɪ'haɪnd     美音 bɪ'haɪnd  
+英音 bɪ'haɪnd  
+英音
+<audio src="./media/behind-B.aac"></audio>
+美音 bɪ'haɪnd  
+美音
+<audio src="./media/behind.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2702,9 +3752,11 @@ D.as
 
  > Close the door of fear behind you, and you will see the door of faith open before you.   
  > 把恐惧之门关在你的身后，你将会看见信念之门在你面前打开。  （2012 湖南）  
+<audio src="./media/P48 behind1.aac"></audio>
 
  > We’re always behind you.  
  > 我们永远支持你。    
+<audio src="./media/2-behind.aac"></audio>
 
 ### 2.*高义频：* **落后于；不如：**  
 
@@ -2713,15 +3765,23 @@ D.as
 
  > Japan is behind the United States in e-business.   
  > 在电子商务方面日本不如美国。    
+<audio src="./media/3-behind.aac"></audio>
 
 ### 3.*高义频：* **(时间、进度等) 迟于：**  
 
  > New York is 12 hours behind Beijing.   
  > 纽约时间比北京晚12个小时。    
+<audio src="./media/4-behind.aac"></audio>
 
 
 # ***\#behold*** vt
-英音 bɪ'həʊld     美音 bɪ'hoʊld  
+英音 bɪ'həʊld  
+英音
+<audio src="./media/behold1_AAC.aac"></audio>
+美音 bɪ'hoʊld  
+美音
+<audio src="./media/behold2_AAC.aac"></audio>
+
 
   
 
@@ -2731,7 +3791,13 @@ D.as
 
 
 # ***\#beholder*** n
-英音 bɪ'həʊldə(r)     美音 bɪ'hoʊldər  
+英音 bɪ'həʊldə(r)  
+英音
+<audio src="./media/beholder1.aac"></audio>
+美音 bɪ'hoʊldər  
+美音
+<audio src="./media/beholder2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2741,7 +3807,13 @@ D.as
 
 
 # ***\#being*** n
-英音 'biːɪŋ     美音 'biːɪŋ  
+英音 'biːɪŋ  
+英音
+<audio src="./media/being-B.aac"></audio>
+美音 'biːɪŋ  
+美音
+<audio src="./media/being.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 1 |  
 
@@ -2759,16 +3831,25 @@ D.as
 
  > A new era was **brought into being** by the Internet.   
  > 互联网带来了一个新时代的诞生。    
+<audio src="./media/1-being.aac"></audio>
 
  > They don’t know how this world **came into being**.   
  > 他们不知道这个世界是如何形成的。    
+<audio src="./media/2-being.aac"></audio>
 
  > I am staying at a friend’s house **for the time being**.   
  > 我暂时寄住在一个朋友家里。    
+<audio src="./media/3-being.aac"></audio>
 
 
 # ***\#being*** vi
-英音 'biːɪŋ     美音 'biːɪŋ  
+英音 'biːɪŋ  
+英音
+<audio src="./media/being-B.aac"></audio>
+美音 'biːɪŋ  
+美音
+<audio src="./media/being.aac"></audio>
+
 
 | 词频 5 | 口语 1 | 书面 2 |  
 
@@ -2780,26 +3861,37 @@ D.as
 
  > Being badly wounded, the whale soon died.   
  > 由于受伤严重，那条鲸鱼很快就死了。  （人教⑦ – 3）  
+<audio src="./media/4-being.aac"></audio>
 
  > There being no buses, we had to take a taxi.  
  > 没有公交车了，我们只好乘出租车。    
+<audio src="./media/5-being.aac"></audio>
 
 - 用作动名词：
 
  > Being happy is the key to a fun-filled life.   
  > 保持快乐是生活充满乐趣的关键。  （北师大① – 1）  
+<audio src="./media/6-being.aac"></audio>
 
  > She hated being in front of other people.   
  > 她不喜欢抛头露面。    
+<audio src="./media/7-being.aac"></audio>
 
 - 用于进行时的被动语态：
 
  > The matter was being discussed.   
  > 当时正在讨论这件事。    
+<audio src="./media/8-being.aac"></audio>
 
 
 # ***\#belief*** n
-英音 bɪ'liːf     美音 bɪ'liːf  
+英音 bɪ'liːf  
+英音
+<audio src="./media/belief-B.aac"></audio>
+美音 bɪ'liːf  
+美音
+<audio src="./media/belief.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -2809,14 +3901,17 @@ D.as
 
  > I haven’t much **belief in** his honesty.   
  > 我不大相信他是诚实的。    
+<audio src="./media/1-belief.aac"></audio>
 
 ### 2.*高义频：* **[U] [可用单数] 信念；看法：**  
 
  > One traditional belief about television is that it reduces a child’s ability to think.   
  > 关于电视的一个传统看法是它降低了儿童的思维能力。  （2015 广东）  
+<audio src="./media/P49 belief2.aac"></audio>
 
  > Many people hold **a firm / strong belief that** the cure for cancer will be found one day.  
  > 很多人坚信总有一天能找到治愈癌症的方法。    
+<audio src="./media/belief-Many people hold a firm.aac"></audio>
 
 ### 3.*高义频：* **[C] [常用复数] 信仰；信条：**  
 
@@ -2832,7 +3927,13 @@ D.as
 1. belief  
 
 # ***\#believe*** v  重难点词汇
-英音 bɪ'liːv     美音 bɪ'liːv  
+英音 bɪ'liːv  
+英音
+<audio src="./media/believe-B.aac"></audio>
+美音 bɪ'liːv  
+美音
+<audio src="./media/believe.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2844,22 +3945,27 @@ D.as
 
  > Don’t believe everything you read in the newspaper.  
  > 不要完全相信在报纸上读到的东西。  （2011 上海）  
+<audio src="./media/1-believe.aac"></audio>
 
  > I find that very **hard to believe**.  
  > 我觉得那很难相信。  （北师大⑤ – 13）  
+<audio src="./media/2-believe.aac"></audio>
 
  > I couldn’t **believe my eyes** when she walked in.   
  > 当她走进来的时候，我简直不敢相信自己的眼睛。    
+<audio src="./media/3-believe.aac"></audio>
 
 - believe + (that)从句：
 
  > I firmly believe that our future is in our own hands.  
  > 我坚信我们的未来掌握在自己手中。  （2012 浙江书面表达）  
+<audio src="./media/believe-I firmly believe that.aac"></audio>
 
 ### 2.*高义频：* **认为；猜想：**  
 
  > — Does he still work there?   
  > 他还在那里工作吗？    
+<audio src="./media/5-believe.aac"></audio>
 
  > — I **believe so / not**.   
  > 我想是的/不是。    
@@ -2868,24 +3974,29 @@ D.as
 
  > Some people believe that they can’t help putting on weight as they get older.   
  > 有些人认为随着年龄的增长，体重会不由自主地增加。  （2014 重庆）  
+<audio src="./media/P49 believe6.aac"></audio>
 
 -  it is believed + (that) 从句：
 
  > It is generally believed that IT has both advantages and disadvantages.   
  > 人们普遍认为信息技术既有优点又有缺点。    
+<audio src="./media/7-believe.aac"></audio>
 
 - believe ... to be / have:
 
  > Education is believed to be the most important issue facing the government.  
  > 教育被认为是政府面临的最重要的问题。    
+<audio src="./media/8-believe.aac"></audio>
 
  > A number of paintings in this castle are believed to have been destroyed in a fire in 2009.  
  > 人们认为这座城堡里的大量画作已在2009年的大火中烧毁。  （2011 湖北）  
+<audio src="./media/believe-101_AAC.aac"></audio>
 
 - believe sb / sth + adj:
 
  > They believe it necessary to plant more trees in some areas.  
  > 他们认为在某些地区多种树是有必要的。    
+<audio src="./media/believe-102_AAC.aac"></audio>
 
 
 固定搭配
@@ -2895,14 +4006,17 @@ D.as
 
  > They need a leader they can believe in.   
  > 他们需要一个能够信任的领导者。    
+<audio src="./media/11-believe.aac"></audio>
 
  > Believe in what we do and who we are if we want to succeed.   
  > 要想成功，就要相信我们所做的事并相信我们自己。  （2011 四川）  
+<audio src="./media/P49 believe in2.aac"></audio>
 
 2.*高义频：* **相信…的存在：**  
 
  > Do you believe in God?   
  > 你相信有上帝吗？    
+<audio src="./media/13-believe.aac"></audio>
 
 Notes: believe sb表示相信某人所说的话，believe in sb表示相信某人是好人，信任某人。  
 ## \#believe it or not
@@ -2910,6 +4024,7 @@ Notes: believe sb表示相信某人所说的话，believe in sb表示相信某�
 
  > Believe it or not, there is no such thing as standard English.  
  > 信不信由你，并没有标准英语这回事。  （人教① – 2）  
+<audio src="./media/14-believe.aac"></audio>
 
 
 真题解析
@@ -2921,7 +4036,13 @@ Notes: believe sb表示相信某人所说的话，believe in sb表示相信某�
 1. Believe it or not  
 
 # ***\#believer*** n
-英音 bɪ'liːvə(r)     美音 bɪ'liːvər  
+英音 bɪ'liːvə(r)  
+英音
+<audio src="./media/believer-B.aac"></audio>
+美音 bɪ'liːvər  
+美音
+<audio src="./media/believer.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -2933,7 +4054,13 @@ Notes: believe sb表示相信某人所说的话，believe in sb表示相信某�
 
 
 # ***\#belittle*** v
-英音 bɪ'lɪtl     美音 bɪ'lɪtl  
+英音 bɪ'lɪtl  
+英音
+<audio src="./media/belittle1_AAC.aac"></audio>
+美音 bɪ'lɪtl  
+美音
+<audio src="./media/belittle1_AAC.aac"></audio>
+
 
   
 
@@ -2943,7 +4070,13 @@ Notes: believe sb表示相信某人所说的话，believe in sb表示相信某�
 
 
 # ***\#bell*** n
-英音 bel     美音 bel  
+英音 bel  
+英音
+<audio src="./media/bell-B.aac"></audio>
+美音 bel  
+美音
+<audio src="./media/bell.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 1 |  
 
@@ -2958,7 +4091,13 @@ Notes: believe sb表示相信某人所说的话，believe in sb表示相信某�
 
 
 # ***\#belly*** n
-英音 'beli     美音 'beli  
+英音 'beli  
+英音
+<audio src="./media/belly-B.aac"></audio>
+美音 'beli  
+美音
+<audio src="./media/belly.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2973,10 +4112,17 @@ Notes: believe sb表示相信某人所说的话，believe in sb表示相信某�
 
  > She was lying on her belly.   
  > 她正趴着。    
+<audio src="./media/1-belly.aac"></audio>
 
 
 # ***\#belong*** vi  重难点词汇
-英音 bɪ'lɔŋ     美音 bɪ'lɔːŋ  
+英音 bɪ'lɔŋ  
+英音
+<audio src="./media/belong-B.aac"></audio>
+美音 bɪ'lɔːŋ  
+美音
+<audio src="./media/belong.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -2986,6 +4132,7 @@ Notes: believe sb表示相信某人所说的话，believe in sb表示相信某�
 
  > Put the chair back where it belongs.  
  > 把椅子放回原处。    
+<audio src="./media/1-belong.aac"></audio>
 
 
 固定搭配
@@ -2995,15 +4142,19 @@ Notes: believe sb表示相信某人所说的话，believe in sb表示相信某�
 
  > Some of the stamps belong to me, while the rest are his and hers.  
  > 这些邮票中有些是我的，其余的是他和她的。    
+<audio src="./media/Some of the stamps _AAC.aac"></audio>
 
  > The future belongs to those who believe in the beauty of their dreams.  
  > 未来属于那些相信梦想之美的人。    
+<audio src="./media/belong-103_AAC.aac"></audio>
 
  > Mike belongs to the English club.  
  > 迈克是英语俱乐部的成员。    
+<audio src="./media/belong-102_AAC.aac"></audio>
 
  > Lions and tigers belong to the cat family.  
  > 狮子和老虎属于猫科动物。    
+<audio src="./media/belong-101_AAC.aac"></audio>
 
 Notes: belong to不能用于进行时态和被动语态。  
 
@@ -3022,7 +4173,13 @@ belonging /bɪ'lɒŋɪŋ/ n
 1. belongs  
 
 # ***\#belong*** vt  重难点词汇
-英音 bɪ'lɔŋ     美音 bɪ'lɔːŋ  
+英音 bɪ'lɔŋ  
+英音
+<audio src="./media/belong-B.aac"></audio>
+美音 bɪ'lɔːŋ  
+美音
+<audio src="./media/belong.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -3032,7 +4189,13 @@ belonging /bɪ'lɒŋɪŋ/ n
 
 
 # ***\#belongings*** n
-英音 bɪ'lɒŋɪŋz     美音 bɪ'lɒŋɪŋz  
+英音 bɪ'lɒŋɪŋz  
+英音
+<audio src="./media/belongings-B.aac"></audio>
+美音 bɪ'lɒŋɪŋz  
+美音
+<audio src="./media/belongings.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -3044,10 +4207,17 @@ belonging /bɪ'lɒŋɪŋ/ n
 
  > Look after your **personal belongings**.   
  > 照看好你的个人财物。  （2008 四川）  
+<audio src="./media/P50 belongings.aac"></audio>
 
 
 # ***\#below*** adv
-英音 bɪ'ləʊ     美音 bɪ'ləʊ  
+英音 bɪ'ləʊ  
+英音
+<audio src="./media/below-B.aac"></audio>
+美音 bɪ'ləʊ  
+美音
+<audio src="./media/below.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -3057,13 +4227,21 @@ belonging /bɪ'lɒŋɪŋ/ n
 
  > From the hill top we saw the blue ocean below.   
  > 从山顶上我们看见了下面蔚蓝的大海。    
+<audio src="./media/3-below.aac"></audio>
 
  > Below is a housing guide for students going to London.   
  > 下面是一则住房指南，供前往伦敦的学生参考。  （2010 浙江）  
+<audio src="./media/4-below.aac"></audio>
 
 
 # ***\#below*** prep
-英音 bɪ'ləʊ     美音 bɪ'ləʊ  
+英音 bɪ'ləʊ  
+英音
+<audio src="./media/below-B.aac"></audio>
+美音 bɪ'ləʊ  
+美音
+<audio src="./media/below.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -3075,6 +4253,7 @@ belonging /bɪ'lɒŋɪŋ/ n
 
  > There stands a chair below the window.   
  > 窗户下面放着一把椅子。    
+<audio src="./media/1-below.aac"></audio>
 
 #### 辨析 above, on, over
 三者都含有“在…上”之意。  
@@ -3086,10 +4265,17 @@ belonging /bɪ'lɒŋɪŋ/ n
 
  > The temperature was five degrees **below freezing**.  
  > 气温是零下5度。    
+<audio src="./media/2-below.aac"></audio>
 
 
 # ***\#belt*** n
-英音 belt     美音 belt  
+英音 belt  
+英音
+<audio src="./media/belt-B.aac"></audio>
+美音 belt  
+美音
+<audio src="./media/belt.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 1 |  
 
@@ -3120,7 +4306,13 @@ belonging /bɪ'lɒŋɪŋ/ n
 belted /'beltɪd/ adj   
 
 # ***\#bench*** n
-英音 bentʃ     美音 bentʃ  
+英音 bentʃ  
+英音
+<audio src="./media/bench-B.aac"></audio>
+美音 bentʃ  
+美音
+<audio src="./media/bench.aac"></audio>
+
 
 | 词频 2 | 口语 2 | 书面 1 |  
 
@@ -3135,7 +4327,13 @@ belted /'beltɪd/ adj
 
 
 # ***\#bend*** v
-英音 bend     美音 bend  
+英音 bend  
+英音
+<audio src="./media/bend-B.aac"></audio>
+美音 bend  
+美音
+<audio src="./media/bend.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 |  
 
@@ -3147,16 +4345,19 @@ belted /'beltɪd/ adj
 
  > You have to bend your knees to sit down.   
  > 你得屈膝才能坐下。  （外研④ – 3）  
+<audio src="./media/3-bend.aac"></audio>
 
 ### 2.*高义频：* **(使) 弯腰：**  
 
  > He **bent down / over** and picked up a book from the floor.   
  > 他俯身从地上捡起一本书。    
+<audio src="./media/bend-He bent down.aac"></audio>
 
 ### 3.*高义频：* **(路) 转弯：**  
 
  > The road bends to the right after a few yards.   
  > 这条路在几码远的地方转向右方。    
+<audio src="./media/P50 bend-1.aac"></audio>
 
 
 固定搭配
@@ -3166,7 +4367,13 @@ belted /'beltɪd/ adj
 
 
 # ***\#bend*** n
-英音 bend     美音 bend  
+英音 bend  
+英音
+<audio src="./media/bend-B.aac"></audio>
+美音 bend  
+美音
+<audio src="./media/bend.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -3181,7 +4388,13 @@ belted /'beltɪd/ adj
 
 
 # ***\#beneath*** adv
-英音 bɪ'niːθ     美音 bɪ'niːθ  
+英音 bɪ'niːθ  
+英音
+<audio src="./media/beneath-B.aac"></audio>
+美音 bɪ'niːθ  
+美音
+<audio src="./media/beneath.aac"></audio>
+
 
 | 词频 2 | 书面 2 | 阅读 1 |  
 
@@ -3193,10 +4406,17 @@ belted /'beltɪd/ adj
 
  > He was standing on the bridge looking at the river beneath.  
  > 他站在桥上，看着下面的河水。    
+<audio src="./media/3-beneath.aac"></audio>
 
 
 # ***\#beneath*** prep
-英音 bɪ'niːθ     美音 bɪ'niːθ  
+英音 bɪ'niːθ  
+英音
+<audio src="./media/beneath-B.aac"></audio>
+美音 bɪ'niːθ  
+美音
+<audio src="./media/beneath.aac"></audio>
+
 
 | 词频 2 | 书面 2 | 阅读 1 |  
 
@@ -3211,6 +4431,7 @@ belted /'beltɪd/ adj
 
  > She enjoyed feeling the warm sand beneath her feet.  
  > 她喜欢脚下踩着暖暖的沙子的感觉。    
+<audio src="./media/1-beneath.aac"></audio>
 
 #### 辨析 above, on, over
 三者都含有“在…上”之意。  
@@ -3220,7 +4441,13 @@ belted /'beltɪd/ adj
 
 
 # ***\#beneficial*** adj
-英音 ˌbenɪ'fɪʃl     美音 ˌbenɪ'fɪʃl  
+英音 ˌbenɪ'fɪʃl  
+英音
+<audio src="./media/beneficial-B.aac"></audio>
+美音 ˌbenɪ'fɪʃl  
+美音
+<audio src="./media/beneficial.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -3231,13 +4458,21 @@ belted /'beltɪd/ adj
 
  > Exercise is **highly beneficial to** health.  
  > 锻炼对健康极为有益。    
+<audio src="./media/beneficial3.aac"></audio>
 
  > In fact, music education is **beneficial** and important **for** all students.   
  > 事实上，音乐教育对于所有的学生都是有益而且重要的。  （2009 北京）  
+<audio src="./media/2-beneficial.aac"></audio>
 
 
 # ***\#benefit*** v
-英音 'benɪfɪt     美音 'benɪfɪt  
+英音 'benɪfɪt  
+英音
+<audio src="./media/benefit-B.aac"></audio>
+美音 'benɪfɪt  
+美音
+<audio src="./media/benefit.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 1 |  
 
@@ -3247,16 +4482,25 @@ belted /'beltɪd/ adj
 
  > The rain will **benefit** the crops **greatly**.  
  > 这场雨对庄稼大有好处。    
+<audio src="./media/1-benefit.aac"></audio>
 
  > Today we **benefit from** countless inventions and innovations.   
  > 今天我们受益于无数的创造和发明。  （2011 江苏）  
+<audio src="./media/2-benefit.aac"></audio>
 
  > I am sure everyone will **benefit **a lot **from** this activity.  
  > 我相信大家都会从这个活动中获益良多。  （2008 陕西书面表达）  
+<audio src="./media/3-benefit.aac"></audio>
 
 
 # ***\#benefit*** n
-英音 'benɪfɪt     美音 'benɪfɪt  
+英音 'benɪfɪt  
+英音
+<audio src="./media/benefit-B.aac"></audio>
+美音 'benɪfɪt  
+美音
+<audio src="./media/benefit.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 3 |  
 
@@ -3272,9 +4516,11 @@ belted /'beltɪd/ adj
 
  > There are certainly **benefits of** using a star in a film.   
  > 在电影中起用明星肯定是有益处的。  （2010 广东）  
+<audio src="./media/4-benefit.aac"></audio>
 
  > He has **had the benefit of** a first-class education.   
  > 他得益于一流的教育。    
+<audio src="./media/5-benefit.aac"></audio>
 
 ### 2.*低义频：* **津贴；救济金(welfare)**  
 
@@ -3286,12 +4532,14 @@ belted /'beltɪd/ adj
 
  > Scientific research is of great benefit to mankind.  
  > 科学研究对人类非常有益。    
+<audio src="./media/6-benefit.aac"></audio>
 
 ## \#for sb’s benefit / for the benefit of sb
 1.**为了某人 (的利益)：**  
 
  > The money is to be used for the benefit of the poor.  
  > 该款项将用于救助穷人。    
+<audio src="./media/7-benefit.aac"></audio>
 
 
 真题解析
@@ -3302,7 +4550,13 @@ belted /'beltɪd/ adj
 1. for the benefit of  
 
 # ***\#bent*** n
-英音 bent     美音 bent  
+英音 bent  
+英音
+<audio src="./media/bent-B.aac"></audio>
+美音 bent  
+美音
+<audio src="./media/bent.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3312,10 +4566,17 @@ belted /'beltɪd/ adj
 
  > She has **a** natural **bent for** music.   
  > 她有音乐天赋。    
+<audio src="./media/2-bent.aac"></audio>
 
 
 # ***\#bent*** adj
-英音 bent     美音 bent  
+英音 bent  
+英音
+<audio src="./media/bent-B.aac"></audio>
+美音 bent  
+美音
+<audio src="./media/bent.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3337,7 +4598,13 @@ belted /'beltɪd/ adj
 
 
 # ***\#beside*** prep
-英音 bɪ'saɪd     美音 bɪ'saɪd  
+英音 bɪ'saɪd  
+英音
+<audio src="./media/beside-B.aac"></audio>
+美音 bɪ'saɪd  
+美音
+<audio src="./media/beside.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 2 |  
 
@@ -3347,6 +4614,7 @@ belted /'beltɪd/ adj
 
  > She sat beside me.   
  > 她坐在我旁边。    
+<audio src="./media/1-beside.aac"></audio>
 
 
 固定搭配
@@ -3356,7 +4624,13 @@ belted /'beltɪd/ adj
 
 
 # ***\#besides*** adv
-英音 bɪ'saɪdz     美音 bɪ'saɪdz  
+英音 bɪ'saɪdz  
+英音
+<audio src="./media/besides-B.aac"></audio>
+美音 bɪ'saɪdz  
+美音
+<audio src="./media/besides.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -3366,6 +4640,7 @@ belted /'beltɪd/ adj
 
  > I’m too busy to go for a walk; besides, it is too late.  
  > 我太忙了，没时间散步，况且天也太晚了。    
+<audio src="./media/4-except.aac"></audio>
 
 
 真题解析
@@ -3376,7 +4651,13 @@ belted /'beltɪd/ adj
 1. except → besides  
 
 # ***\#besides*** prep
-英音 bɪ'saɪdz     美音 bɪ'saɪdz  
+英音 bɪ'saɪdz  
+英音
+<audio src="./media/besides-B.aac"></audio>
+美音 bɪ'saɪdz  
+美音
+<audio src="./media/besides.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -3386,6 +4667,7 @@ belted /'beltɪd/ adj
 
  > Besides the works of da Vinci, the Louvre Museum has more than 6,000 other European paintings.   
  > 除了达·芬奇的作品，卢浮宫还拥有6000多幅其他欧洲绘画作品。  （译林⑧ – 1）  
+<audio src="./media/1-besides.aac"></audio>
 
 #### 辨析 besides, except
 二者都可用作介词；都含有“除…之外”之意。  
@@ -3393,6 +4675,7 @@ belted /'beltɪd/ adj
 **except ** 是“除…之外 (不包括在内)”的意思。
  > All are present except Helen.  
  > 除海伦外，大家都到了。(海伦未到)    
+<audio src="./media/3-except.aac"></audio>
 
 
 
@@ -3404,7 +4687,13 @@ belted /'beltɪd/ adj
 1. besides  
 
 # ***\#best*** n
-英音 best     美音 best  
+英音 best  
+英音
+<audio src="./media/best-B.aac"></audio>
+美音 best  
+美音
+<audio src="./media/best.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -3416,6 +4705,7 @@ belted /'beltɪd/ adj
 
  > One day, you will do something great that will set you among **the very best**.   
  > 有一天，你会大有作为，令你跻身于最优秀者的行列。  （2010 安徽）  
+<audio src="./media/P51 best n-1.aac"></audio>
 
 
 固定搭配
@@ -3428,6 +4718,7 @@ belted /'beltɪd/ adj
 
  > The movie was at best ordinary, and at worst boring.  
  > 这部电影顶多算是一般，说不中听点，很无聊。    
+<audio src="./media/7-best.aac"></audio>
 
 ## \#best of all
 1.**最好的是**  
@@ -3437,12 +4728,14 @@ belted /'beltɪd/ adj
 
  > I don’t think I can finish it within this week, but I’ll try my best.   
  > 我看这星期之内完不成，但我会尽最大的努力。    
+<audio src="./media/8-best.aac"></audio>
 
 ## \#make the best of
 1.**充分利用；尽情享用**  
 
  > If you cannot have the best, make the best of what you have.  
  > 如果没有最好的，就充分利用现有的。    
+<audio src="./media/Best-1_AAC.aac"></audio>
 
 
 真题解析
@@ -3454,7 +4747,13 @@ belted /'beltɪd/ adj
 1. the best  2. make the best of  
 
 # ***\#best*** adv
-英音 best     美音 best  
+英音 best  
+英音
+<audio src="./media/best-B.aac"></audio>
+美音 best  
+美音
+<audio src="./media/best.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3464,9 +4763,11 @@ belted /'beltɪd/ adj
 
  > Which do you like best?   
  > 你最喜欢哪一个？    
+<audio src="./media/5-best.aac"></audio>
 
  > Let me know what time suits you best.  
  > 告诉我什么时间你最方便。  （2016 全国书面表达）  
+<audio src="./media/best50.aac"></audio>
 
 
 真题解析
@@ -3477,7 +4778,13 @@ belted /'beltɪd/ adj
 1. like physics best  
 
 # ***\#best*** adj
-英音 best     美音 best  
+英音 best  
+英音
+<audio src="./media/best-B.aac"></audio>
+美音 best  
+美音
+<audio src="./media/best.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3487,16 +4794,25 @@ belted /'beltɪd/ adj
 
  > Reading is **the best way** to pass time on the train.  
  > 阅读是在火车上打发时间的最好方式。  （2014 安徽改）  
+<audio src="./media/P51 best1.aac"></audio>
 
  > He is the best person for the job.   
  > 他是最适合这项工作的人。    
+<audio src="./media/1-best.aac"></audio>
 
  > The Godfather is popularly regarded as one of the best American films ever made.  
  > 《教父》被普遍认为是美国有史以来最好的影片之一。  （2012 湖北改）  
+<audio src="./media/2-best.aac"></audio>
 
 
 # ***\#best-seller*** n
-英音 ˌbest'selə(r)     美音 ˌbest'selər  
+英音 ˌbest'selə(r)  
+英音
+<audio src="./media/best-seller-B.aac"></audio>
+美音 ˌbest'selər  
+美音
+<audio src="./media/best-seller-A.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -3512,7 +4828,13 @@ belted /'beltɪd/ adj
 best-selling /best 'selɪŋ/ adj [只用于名词前]  
 
 # ***\#best-selling*** adj
-英音 best 'selɪŋ     美音 best 'selɪŋ  
+英音 best 'selɪŋ  
+英音
+<audio src="./media/best-selling1.aac"></audio>
+美音 best 'selɪŋ  
+美音
+<audio src="./media/best-selling2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -3522,7 +4844,13 @@ best-selling /best 'selɪŋ/ adj [只用于名词前]
 
 
 # ***\#bet*** v
-英音 bet     美音 bet  
+英音 bet  
+英音
+<audio src="./media/bet-B.aac"></audio>
+美音 bet  
+美音
+<audio src="./media/bet.aac"></audio>
+
 
 | 词频 2 | 口语 3 |  
 
@@ -3537,11 +4865,13 @@ best-selling /best 'selɪŋ/ adj [只用于名词前]
 
  > He **bet** me ten dollars **that** John would come.   
  > 他跟我赌10美元，认定约翰会来。    
+<audio src="./media/1-bet.aac"></audio>
 
 ### 2.*高义频：* **敢说；确信：**  
 
  > **I bet** it will rain tomorrow.   
  > 我相信明天一定会下雨。    
+<audio src="./media/2-bet.aac"></audio>
 
 
 固定搭配
@@ -3551,6 +4881,7 @@ best-selling /best 'selɪŋ/ adj [只用于名词前]
 
  > — Going to watch the Women's Volleyball Match on Wednesday?  
  > 去看周三的女排比赛吗？    
+<audio src="./media/Bet-101_AAC.aac"></audio>
 
  > — You bet! Will you go with me?  
  > 当然去！你跟我一起去吗？  （2017 江苏）  
@@ -3570,7 +4901,13 @@ D.No kidding
 1. A  
 
 # ***\#bet*** n
-英音 bet     美音 bet  
+英音 bet  
+英音
+<audio src="./media/bet-B.aac"></audio>
+美音 bet  
+美音
+<audio src="./media/bet.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -3582,6 +4919,7 @@ D.No kidding
 
  > Have you ever **made a bet** with a friend?   
  > 你曾经和朋友打过赌吗？    
+<audio src="./media/4-bet.aac"></audio>
 
 
 派生词汇
@@ -3589,7 +4927,13 @@ D.No kidding
 betting /'betɪŋ/ n [U]   
 
 # ***\#betray*** vt
-英音 bɪ'treɪ     美音 bɪ'treɪ  
+英音 bɪ'treɪ  
+英音
+<audio src="./media/betray-B.aac"></audio>
+美音 bɪ'treɪ  
+美音
+<audio src="./media/betray.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3599,13 +4943,21 @@ betting /'betɪŋ/ n [U]
 
  > I feel betrayed by my friend, Hannah.  
  > 我感觉自己被朋友汉纳出卖了。  （译林⑤ – 1）  
+<audio src="./media/1-betray.aac"></audio>
 
  > They **betray themselves** every time they open their mouths.   
  > 他们一张嘴就会露出马脚。  （人教⑧ – 4）  
+<audio src="./media/2-betray.aac"></audio>
 
 
 # ***\#better*** n
-英音 'betə(r)     美音 'betər  
+英音 'betə(r)  
+英音
+<audio src="./media/better-B.aac"></audio>
+美音 'betər  
+美音
+<audio src="./media/better.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -3629,6 +4981,7 @@ betting /'betɪŋ/ n [U]
 
  > If they can do them both at the same time, then so much the better.   
  > 如果他们可以同时做这两件事，那当然更好。    
+<audio src="./media/15-better.aac"></audio>
 
 
 真题解析
@@ -3639,7 +4992,13 @@ betting /'betɪŋ/ n [U]
 1. the  
 
 # ***\#better*** v
-英音 'betə(r)     美音 'betər  
+英音 'betə(r)  
+英音
+<audio src="./media/better-B.aac"></audio>
+美音 'betər  
+美音
+<audio src="./media/better.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -3649,13 +5008,21 @@ betting /'betɪŋ/ n [U]
 
  > This achievement cannot be bettered.   
  > 这一成就好得不能再好了。    
+<audio src="./media/12-better.aac"></audio>
 
  > Immediate actions should be taken to better the environment.  
  > 应当立即采取行动来改善环境。  （2013 江苏书面表达改）  
+<audio src="./media/13-better.aac"></audio>
 
 
 # ***\#better*** adv
-英音 'betə(r)     美音 'betər  
+英音 'betə(r)  
+英音
+<audio src="./media/better-B.aac"></audio>
+美音 'betər  
+美音
+<audio src="./media/better.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3665,9 +5032,11 @@ betting /'betɪŋ/ n [U]
 
  > This cap fits you better.   
  > 这顶帽子更适合你。    
+<audio src="./media/7-better.aac"></audio>
 
  > You play the piano better than your sister.   
  > 你钢琴弹得比你姐姐好。    
+<audio src="./media/8-better.aac"></audio>
 
 
 固定搭配
@@ -3678,12 +5047,14 @@ betting /'betɪŋ/ n [U]
 
  > The president hopes that the people will be better off when he quits than when he started.   
  > 总统希望他离任的时候人民会比他就职时更富裕。  （2012 江苏）  
+<audio src="./media/9-better.aac"></audio>
 
 ## \#(be) better off doing sth 
 1.**最好做某事：**  
 
  > — We are planning to go to London by train.   
  > 我们计划乘火车去伦敦。    
+<audio src="./media/10-better.aac"></audio>
 
  > — I think you would be better off taking the plane.   
  > 我觉得你们乘飞机比较好。    
@@ -3693,11 +5064,18 @@ betting /'betɪŋ/ n [U]
 
  > You’d better store the fish in the refrigerator if you don’t cook it immediately.  
  > 如果你不立刻烹饪的话，最好把鱼储藏在冰箱里。  （2016 全国）  
+<audio src="./media/better55.aac"></audio>
 
 Notes: had better常缩写成’d better，后接动词原形。  
 
 # ***\#better*** adj
-英音 'betə(r)     美音 'betər  
+英音 'betə(r)  
+英音
+<audio src="./media/better-B.aac"></audio>
+美音 'betər  
+美音
+<audio src="./media/better.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3707,17 +5085,21 @@ Notes: had better常缩写成’d better，后接动词原形。
 
  > His idea is better than mine.   
  > 他的主意比我的好。    
+<audio src="./media/1-better.aac"></audio>
 
  > You will **feel better** after a night’s sleep.   
  > 睡上一晚，你会感觉好些。    
+<audio src="./media/2-better.aac"></audio>
 
 - it is / would be better:
 
  > It’s better for the doer to undo what he has done.  
  > 解铃还需系铃人。    
+<audio src="./media/It's better for the doer to_AAC.aac"></audio>
 
  > **It is better that **you (**should**) reserve your flight ticket early if you’re planning your trip over Christmas holiday.  
  > 如果你计划圣诞假期旅行，最好提早预订机票。    
+<audio src="./media/4-better.aac"></audio>
 
 
 固定搭配
@@ -3727,9 +5109,11 @@ Notes: had better常缩写成’d better，后接动词原形。
 
  > I stood by my window overlooking the parking lot, having nothing better to do.  
  > 没有更好的事可做，我就站在窗边俯视着停车场。  （2012 江西）  
+<audio src="./media/Better-102_AAC.aac"></audio>
 
  > As a student, there is nothing better than being praised by my teacher before my classmates.  
  > 作为一名学生，没有什么比在同学面前被老师表扬更好的了。  （2015 湖南书面表达）  
+<audio src="./media/better50.aac"></audio>
 
 ## \#the sooner / bigger / smaller, the better 
 1.**越 (快 / 大 / 小) 越好**  
@@ -3748,7 +5132,13 @@ Notes: had better常缩写成’d better，后接动词原形。
 1. better  2. better  3. better; better  
 
 # ***\#betterment*** n
-英音 ˈbetəmənt     美音 ˈbetərmənt  
+英音 ˈbetəmənt  
+英音
+<audio src="./media/betterment1_AAC.aac"></audio>
+美音 ˈbetərmənt  
+美音
+<audio src="./media/betterment2_AAC.aac"></audio>
+
 
   
 
@@ -3758,7 +5148,13 @@ Notes: had better常缩写成’d better，后接动词原形。
 
 
 # ***\#between*** prep
-英音 bɪ'twiːn     美音 bɪ'twiːn  
+英音 bɪ'twiːn  
+英音
+<audio src="./media/between-B.aac"></audio>
+美音 bɪ'twiːn  
+美音
+<audio src="./media/between.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3768,12 +5164,15 @@ Notes: had better常缩写成’d better，后接动词原形。
 
  > Laos lies between China, Burma, Thailand, Cambodia and Vietnam.   
  > 老挝位于中国、缅甸、泰国、柬埔寨和越南中间。    
+<audio src="./media/1-between.aac"></audio>
 
  > I will come between five and six o’clock.   
  > 我会在5点到6点之间来。    
+<audio src="./media/2-between.aac"></audio>
 
  > Keep the close relationship between teachers and students.   
  > 保持亲密的师生关系。    
+<audio src="./media/4-between.aac"></audio>
 
 ### 2.*高义频：* **由…合力；在…之间共同：**  
 
@@ -3791,6 +5190,7 @@ Notes: had better常缩写成’d better，后接动词原形。
 
  > We have two lessons this morning, and there’s some free time in between.   
  > 今天上午我们有两节课，课间有休息时间。    
+<audio src="./media/5-between.aac"></audio>
 
 
 真题解析
@@ -3807,7 +5207,13 @@ D.during
 1. A  2. between  
 
 # ***\#beyond*** prep  重难点词汇
-英音 bɪ'jɒnd     美音 bɪ'jɑːnd  
+英音 bɪ'jɒnd  
+英音
+<audio src="./media/beyond-B.aac"></audio>
+美音 bɪ'jɑːnd  
+美音
+<audio src="./media/beyond.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 3 |  
 
@@ -3817,19 +5223,23 @@ D.during
 
  > It is the only place beyond the Earth to have been visited by humans.    
  > 这是人类到过的地球以外的唯一地方。  （外研⑧ – 7）  
+<audio src="./media/1-beyond.aac"></audio>
 
 ### 2.*高义频：* **[表示时间] 在…以后；迟于：**  
 
  > The party went on until beyond midnight.  
  > 这次聚会一直持续到午夜以后。    
+<audio src="./media/P52 beyond2.aac"></audio>
 
 ### 3.*高义频：* **[表示数量、水平、限度] 超出：**  
 
  > I spent my childhood working, with responsibilities beyond my age.   
  > 我的童年是在工作中度过的，承担着与年龄不相符的责任。  （2010 重庆）  
+<audio src="./media/3-beyond.aac"></audio>
 
  > Any driver found drinking beyond the limit will be charged.    
  > 任何司机如被发现饮酒超限都会被指控。  （2011 福建）  
+<audio src="./media/4-beyond.aac"></audio>
 
 ### 4.*高义频：* **[表示范围] 超出…的范围；非…所及：**  
 
@@ -3841,11 +5251,13 @@ D.during
 
  > Such test is **far beyond** the ability of the average schoolkid.   
  > 这样的测试远远超过了普通学童的能力。    
+<audio src="./media/5-beyond.aac"></audio>
 
 ### 5.*高义频：* **[常用于否定句和疑问句] 除…以外：**  
 
  > I know nothing of it beyond what he told me.   
  > 除了他告诉我的以外，别的我什么都不知道。    
+<audio src="./media/6-beyond.aac"></audio>
 
 
 固定搭配
@@ -3855,6 +5267,7 @@ D.during
 
  > The whole problem was quite beyond him.   
  > 他根本无法理解这个问题。    
+<audio src="./media/7-beyond.aac"></audio>
 
 
 真题解析
@@ -3872,7 +5285,13 @@ D.upon
 1. beyond words  2. B  3. beyond  4. beyond me  
 
 # ***\#beyond*** adv  重难点词汇
-英音 bɪ'jɒnd     美音 bɪ'jɑːnd  
+英音 bɪ'jɒnd  
+英音
+<audio src="./media/beyond-B.aac"></audio>
+美音 bɪ'jɑːnd  
+美音
+<audio src="./media/beyond.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 3 |  
 
@@ -3885,7 +5304,13 @@ D.upon
 
 
 # ***\#biannual*** adj
-英音 baɪ'ænjuəl     美音 baɪ'ænjuəl  
+英音 baɪ'ænjuəl  
+英音
+<audio src="./media/biannual1_AAC.aac"></audio>
+美音 baɪ'ænjuəl  
+美音
+<audio src="./media/biannual1_AAC.aac"></audio>
+
 
   
 
@@ -3895,7 +5320,13 @@ D.upon
 
 
 # ***\#bicycle*** n
-英音 'baɪsɪkl     美音 'baɪsɪkl  
+英音 'baɪsɪkl  
+英音
+<audio src="./media/bicycle-B.aac"></audio>
+美音 'baɪsɪkl  
+美音
+<audio src="./media/bicycle.aac"></audio>
+
 
 | 词频 4 | 书面 1 |  
 
@@ -3907,7 +5338,13 @@ D.upon
 
 
 # ***\#bicycle*** vi
-英音 'baɪsɪkl     美音 'baɪsɪkl  
+英音 'baɪsɪkl  
+英音
+<audio src="./media/bicycle-B.aac"></audio>
+美音 'baɪsɪkl  
+美音
+<audio src="./media/bicycle.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -3917,10 +5354,17 @@ D.upon
 
  > In the morning, we bicycled to the suburbs to plant trees.  
  > 早上我们骑自行车去郊区种树。  （2009 北京书面表达）  
+<audio src="./media/In the morning_AAC.aac"></audio>
 
 
 # ***\#bid*** n
-英音 bɪd     美音 bɪd  
+英音 bɪd  
+英音
+<audio src="./media/bid-B.aac"></audio>
+美音 bɪd  
+美音
+<audio src="./media/bid.aac"></audio>
+
 
 | 词频 3 | 书面 1 | 阅读 1 |  
 
@@ -3932,13 +5376,21 @@ D.upon
 
  > We’ve **made a bid** of nearly £400,000,000 **for** the company.  
  > 我们出价近四亿英镑收购那家公司。    
+<audio src="./media/P53 bid1.aac"></audio>
 
  > If a city has plenty of parks, this could help its bid to be an Olympic city.   
  > 如果一个城市拥有众多公园，这将有助于它申请成为奥运会的主办城市。  （译林④ – 2）  
+<audio src="./media/1-bid.aac"></audio>
 
 
 # ***\#bid*** v
-英音 bɪd     美音 bɪd  
+英音 bɪd  
+英音
+<audio src="./media/bid-B.aac"></audio>
+美音 bɪd  
+美音
+<audio src="./media/bid.aac"></audio>
+
 
 | 词频 3 | 阅读 1 |  
 
@@ -3948,13 +5400,21 @@ D.upon
 
  > He **bid** $100,000 **for** an old painting.   
  > 他出价10万美元买一幅古画。    
+<audio src="./media/2-bid.aac"></audio>
 
  > They **bid against** each other **on / for** a new project.  
  > 他们为一个新项目相互竞标。    
+<audio src="./media/3-bid.aac"></audio>
 
 
 # ***\#big*** adj
-英音 bɪɡ     美音 bɪɡ  
+英音 bɪɡ  
+英音
+<audio src="./media/big-B.aac"></audio>
+美音 bɪɡ  
+美音
+<audio src="./media/big.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3964,6 +5424,7 @@ D.upon
 
  > The shirt is too big for me.   
  > 这衬衣我穿太大了。    
+<audio src="./media/1-big.aac"></audio>
 
  > my big brother   
  > 我哥哥    
@@ -3972,9 +5433,14 @@ D.upon
 
  > He is a big man.   
  > 他是个大人物。    
+<audio src="./media/2-big.aac"></audio>
 
 
 # ***\#big-headed*** adj
+英音
+<audio src="./media/big-headed1_AAC.aac"></audio>
+美音
+<audio src="./media/big-headed2_AAC.aac"></audio>
 
 
   
@@ -3985,7 +5451,13 @@ D.upon
 
 
 # ***\#bike*** n
-英音 baɪk     美音 baɪk  
+英音 baɪk  
+英音
+<audio src="./media/bike-B.aac"></audio>
+美音 baɪk  
+美音
+<audio src="./media/bike.aac"></audio>
+
 
 | 词频 4 | 口语 2 |  
 
@@ -3997,7 +5469,13 @@ D.upon
 
 
 # ***\#bilingual*** adj
-英音 ˌbaɪ'lɪŋɡwəl     美音 ˌbaɪ'lɪŋɡwəl  
+英音 ˌbaɪ'lɪŋɡwəl  
+英音
+<audio src="./media/bilingual1.aac"></audio>
+美音 ˌbaɪ'lɪŋɡwəl  
+美音
+<audio src="./media/bilingual2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4007,7 +5485,13 @@ D.upon
 
 
 # ***\#bill*** n
-英音 bɪl     美音 bɪl  
+英音 bɪl  
+英音
+<audio src="./media/bill-B.aac"></audio>
+美音 bɪl  
+美音
+<audio src="./media/bill.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -4019,11 +5503,13 @@ D.upon
 
  > Have you paid your **phone / credit card bill**?  
  > 你付电话费/信用卡账单了吗？    
+<audio src="./media/Bill-101_AAC.aac"></audio>
 
 ### 2.*高义频：* **钞票；纸币 (BrE note)：**  
 
  > I have several ten dollar bills.   
  > 我有几张10美元的钞票。    
+<audio src="./media/2-bill.aac"></audio>
 
 ### 3.*高义频：* **法案；议案：**  
 
@@ -4040,7 +5526,13 @@ D.upon
 
 
 # ***\#billboard*** n
-英音 'bɪlbɔːd     美音 'bɪlbɔːrd  
+英音 'bɪlbɔːd  
+英音
+<audio src="./media/billboard-B.aac"></audio>
+美音 'bɪlbɔːrd  
+美音
+<audio src="./media/billboard.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4052,7 +5544,13 @@ D.upon
 
 
 # ***\#billion*** num
-英音 'bɪljən     美音 'bɪljən  
+英音 'bɪljən  
+英音
+<audio src="./media/billion-B.aac"></audio>
+美音 'bɪljən  
+美音
+<audio src="./media/billion.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -4068,10 +5566,17 @@ D.upon
 
  > The government is spending billions of dollars on new urban rail projects.  
  > 政府正把数十亿美元花在新城市轨道交通项目上。    
+<audio src="./media/billion50.aac"></audio>
 
 
 # ***\#billionaire*** n
-英音 ˌbɪljə'neə(r)     美音 ˌbɪljə'ner  
+英音 ˌbɪljə'neə(r)  
+英音
+<audio src="./media/billionaire1.aac"></audio>
+美音 ˌbɪljə'ner  
+美音
+<audio src="./media/billionaire2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4081,7 +5586,13 @@ D.upon
 
 
 # ***\#billy-goat*** n
-英音 'bɪli ɡəʊt     美音 'bɪli ɡəʊt  
+英音 'bɪli ɡəʊt  
+英音
+<audio src="./media/billy-goat-B.aac"></audio>
+美音 'bɪli ɡəʊt  
+美音
+<audio src="./media/billy-goat.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4093,7 +5604,13 @@ D.upon
 
 
 # ***\#bimonthly*** adj
-英音 ˌbaɪˈmʌnθli     美音 ˌbaɪˈmʌnθli  
+英音 ˌbaɪˈmʌnθli  
+英音
+<audio src="./media/bimonthly1_AAC.aac"></audio>
+美音 ˌbaɪˈmʌnθli  
+美音
+<audio src="./media/bimonthly2_AAC.aac"></audio>
+
 
   
 
@@ -4103,7 +5620,13 @@ D.upon
 
 
 # ***\#bin*** n
-英音 bɪn     美音 bɪn  
+英音 bɪn  
+英音
+<audio src="./media/bin-B.aac"></audio>
+美音 bɪn  
+美音
+<audio src="./media/bin.aac"></audio>
+
 
 | 词频 2 | 口语 2 |  
 
@@ -4115,7 +5638,13 @@ D.upon
 
 
 # ***\#bind*** vt
-英音 baɪnd     美音 baɪnd  
+英音 baɪnd  
+英音
+<audio src="./media/bind-B.aac"></audio>
+美音 baɪnd  
+美音
+<audio src="./media/bind.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4127,13 +5656,21 @@ D.upon
 
  > She **bound up** her hair.   
  > 她把头发扎了起来。    
+<audio src="./media/1-bind.aac"></audio>
 
  > He is binding a book.   
  > 他正在装订一本书。    
+<audio src="./media/2-bind.aac"></audio>
 
 
 # ***\#bingo*** int
-英音 'bɪŋɡəʊ     美音 'bɪŋɡəʊ  
+英音 'bɪŋɡəʊ  
+英音
+<audio src="./media/bingo-B.aac"></audio>
+美音 'bɪŋɡəʊ  
+美音
+<audio src="./media/bingo.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4143,7 +5680,13 @@ D.upon
 
 
 # ***\#bingo*** n
-英音 'bɪŋɡəʊ     美音 'bɪŋɡəʊ  
+英音 'bɪŋɡəʊ  
+英音
+<audio src="./media/bingo-B.aac"></audio>
+美音 'bɪŋɡəʊ  
+美音
+<audio src="./media/bingo.aac"></audio>
+
 
   
 
@@ -4155,7 +5698,13 @@ D.upon
 
 
 # ***\#binoculars*** n
-英音 [bɪ'nɒkjələz     美音 bɪ'nɑːkjələrz  
+英音 [bɪ'nɒkjələz  
+英音
+<audio src="./media/binoculars1_AAC.aac"></audio>
+美音 bɪ'nɑːkjələrz  
+美音
+<audio src="./media/binoculars2_AAC.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4168,7 +5717,13 @@ D.upon
 
 
 # ***\#bio-technology*** n
-英音 'biːəʊtekn'ɒlədʒɪ     美音 'biːəʊtekn'ɒlədʒɪ  
+英音 'biːəʊtekn'ɒlədʒɪ  
+英音
+<audio src="./media/bio-technology1_AAC.aac"></audio>
+美音 'biːəʊtekn'ɒlədʒɪ  
+美音
+<audio src="./media/bio-technology2_AAC.aac"></audio>
+
 
   
 
@@ -4178,7 +5733,13 @@ D.upon
 
 
 # ***\#biochemist*** n
-英音 ˌbaɪəʊ'kemɪst     美音 ˌbaɪoʊ'kemɪst  
+英音 ˌbaɪəʊ'kemɪst  
+英音
+<audio src="./media/biochemist1.aac"></audio>
+美音 ˌbaɪoʊ'kemɪst  
+美音
+<audio src="./media/biochemist2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4188,7 +5749,13 @@ D.upon
 
 
 # ***\#biochemistry*** n
-英音 ˌbaɪəʊ'kemɪstri     美音 ˌbaɪoʊ'kemɪstri  
+英音 ˌbaɪəʊ'kemɪstri  
+英音
+<audio src="./media/biochemistry-B.aac"></audio>
+美音 ˌbaɪoʊ'kemɪstri  
+美音
+<audio src="./media/biochemistry.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4200,7 +5767,13 @@ D.upon
 
 
 # ***\#biodiversity*** n
-英音 ˌbaɪəʊdaɪ'vɜːsəti     美音 ˌbaɪoʊdaɪ'vɜːrsəti  
+英音 ˌbaɪəʊdaɪ'vɜːsəti  
+英音
+<audio src="./media/biodiversity1.aac"></audio>
+美音 ˌbaɪoʊdaɪ'vɜːrsəti  
+美音
+<audio src="./media/biodiversity2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -4210,7 +5783,13 @@ D.upon
 
 
 # ***\#biography*** n
-英音 baɪ'ɒɡrəfi     美音 baɪ'ɑːɡrəfi  
+英音 baɪ'ɒɡrəfi  
+英音
+<audio src="./media/biography-B.aac"></audio>
+美音 baɪ'ɑːɡrəfi  
+美音
+<audio src="./media/biography.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4222,7 +5801,13 @@ D.upon
 
 
 # ***\#bioinformatician*** n
-英音 biːəʊɪn'fɔːmətɪʃn     美音 biːəʊɪn'fɔːmətɪʃn  
+英音 biːəʊɪn'fɔːmətɪʃn  
+英音
+<audio src="./media/bioinformatician1.aac"></audio>
+美音 biːəʊɪn'fɔːmətɪʃn  
+美音
+<audio src="./media/bioinformatician2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4232,7 +5817,13 @@ D.upon
 
 
 # ***\#biological*** adj
-英音 ˌbaɪəˈlɒdʒɪkl     美音 ˌbaɪəˈlɑːdʒɪkl  
+英音 ˌbaɪəˈlɒdʒɪkl  
+英音
+<audio src="./media/biological1_AAC.aac"></audio>
+美音 ˌbaɪəˈlɑːdʒɪkl  
+美音
+<audio src="./media/biological2_AAC.aac"></audio>
+
 
   
 
@@ -4242,7 +5833,13 @@ D.upon
 
 
 # ***\#biologist*** n
-英音 baɪ'ɒlədʒɪst     美音 baɪ'ɑːlədʒɪst  
+英音 baɪ'ɒlədʒɪst  
+英音
+<audio src="./media/biologist-B.aac"></audio>
+美音 baɪ'ɑːlədʒɪst  
+美音
+<audio src="./media/biologist.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -4252,7 +5849,13 @@ D.upon
 
 
 # ***\#biology*** n
-英音 baɪ'ɒlədʒi     美音 baɪ'ɑːlədʒi  
+英音 baɪ'ɒlədʒi  
+英音
+<audio src="./media/biology-B.aac"></audio>
+美音 baɪ'ɑːlədʒi  
+美音
+<audio src="./media/biology.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -4264,7 +5867,13 @@ D.upon
 
 
 # ***\#biomimicry*** n
-英音 ˌbaiəʊ'mɪmɪkri     美音 ˌbaiəʊ'mɪmɪkri  
+英音 ˌbaiəʊ'mɪmɪkri  
+英音
+<audio src="./media/biomimicry1_AAC.aac"></audio>
+美音 ˌbaiəʊ'mɪmɪkri  
+美音
+<audio src="./media/biomimicry2_AAC.aac"></audio>
+
 
   
 
@@ -4274,7 +5883,13 @@ D.upon
 
 
 # ***\#biotechnology*** n
-英音 ˌbaɪəʊtek'nɒlədʒi     美音 ˌbaɪoʊtek'nɑːlədʒi  
+英音 ˌbaɪəʊtek'nɒlədʒi  
+英音
+<audio src="./media/biotechnology1_AAC.aac"></audio>
+美音 ˌbaɪoʊtek'nɑːlədʒi  
+美音
+<audio src="./media/biotechnology2_AAC.aac"></audio>
+
 
   
 
@@ -4284,7 +5899,13 @@ D.upon
 
 
 # ***\#bird*** n
-英音 bɜːd     美音 bɜːrd  
+英音 bɜːd  
+英音
+<audio src="./media/bird-B.aac"></audio>
+美音 bɜːrd  
+美音
+<audio src="./media/bird.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 2 |  
 
@@ -4296,7 +5917,13 @@ D.upon
 
 
 # ***\#birth*** n
-英音 bɜːθ     美音 bɜːrθ  
+英音 bɜːθ  
+英音
+<audio src="./media/birth-B.aac"></audio>
+美音 bɜːrθ  
+美音
+<audio src="./media/birth.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -4308,6 +5935,7 @@ D.upon
 
  > Birth is much, but breeding is more.   
  > 出身重要，教养更重要。    
+<audio src="./media/1-birth.aac"></audio>
 
  > birthmark  
  > 胎记    
@@ -4332,13 +5960,21 @@ D.upon
 
  > She gave birth to a son.   
  > 她生了个儿子。    
+<audio src="./media/2-birth.aac"></audio>
 
  > The endless choice gives birth to anxiety in people’s lives.  
  > 无休止的选择引发了人们生活中的焦虑情绪。  （2008 重庆）  
+<audio src="./media/3-birth.aac"></audio>
 
 
 # ***\#birthday*** n
-英音 'bɜːθdeɪ     美音 'bɜːrθdeɪ  
+英音 'bɜːθdeɪ  
+英音
+<audio src="./media/birthday-B.aac"></audio>
+美音 'bɜːrθdeɪ  
+美音
+<audio src="./media/birthday.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 1 |  
 
@@ -4350,7 +5986,13 @@ D.upon
 
 
 # ***\#birthplace*** n
-英音 'bɜːθpleɪs     美音 'bɜːrθpleɪ  
+英音 'bɜːθpleɪs  
+英音
+<audio src="./media/birthplace-B.aac"></audio>
+美音 'bɜːrθpleɪ  
+美音
+<audio src="./media/birthplace.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -4362,7 +6004,13 @@ D.upon
 
 
 # ***\#biscuit*** n
-英音 'bɪskɪt     美音 'bɪskɪt  
+英音 'bɪskɪt  
+英音
+<audio src="./media/biscuit-B.aac"></audio>
+美音 'bɪskɪt  
+美音
+<audio src="./media/biscuit.aac"></audio>
+
 
 | 词频 3 | 口语 2 |  
 
@@ -4374,7 +6022,13 @@ D.upon
 
 
 # ***\#bishop*** n
-英音 'bɪʃəp     美音 'bɪʃəp  
+英音 'bɪʃəp  
+英音
+<audio src="./media/bishop-B.aac"></audio>
+美音 'bɪʃəp  
+美音
+<audio src="./media/bishop.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4386,7 +6040,13 @@ D.upon
 
 
 # ***\#bison*** n
-英音 'baɪsn     美音 'baɪsn  
+英音 'baɪsn  
+英音
+<audio src="./media/bison-B.aac"></audio>
+美音 'baɪsn  
+美音
+<audio src="./media/bison.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4398,7 +6058,13 @@ D.upon
 
 
 # ***\#bit*** n
-英音 bɪt     美音 bɪt  
+英音 bɪt  
+英音
+<audio src="./media/bit-B.aac"></audio>
+美音 bɪt  
+美音
+<audio src="./media/bit-60.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -4413,6 +6079,7 @@ D.upon
 
  > He ate every bit of his dinner.   
  > 他把饭吃得精光。    
+<audio src="./media/1-bit.aac"></audio>
 
 
 固定搭配
@@ -4422,15 +6089,19 @@ D.upon
 
  > Could you turn the TV down a little bit?  
  > 你能把电视声音调小一点吗？    
+<audio src="./media/Bit-101_AAC.aac"></audio>
 
  > He felt **a bit better** after taking the medicine.   
  > 吃了药，觉得好一点儿了。    
+<audio src="./media/4-bit.aac"></audio>
 
  > I wish you’d do a bit less talking and some more work.  
  > 希望你少说点话多干点活。    
+<audio src="./media/bit-05.aac"></audio>
 
  > There’s only a bit of water left.   
  > 只剩下一点儿水。    
+<audio src="./media/3-bit.aac"></audio>
 
 Notes: a bit常用作副词，相当于a little。修饰名词时， 需加of。  
 ## \#bit by bit 
@@ -4438,12 +6109,14 @@ Notes: a bit常用作副词，相当于a little。修饰名词时， 需加of。
 
  > Bit by bit, the group accepted the idea.  
  > 渐渐地,大家接受了这个想法。    
+<audio src="./media/5-bit.aac"></audio>
 
 ## \#do one’s bit 
 1.**[非正式用语] 尽自己的本分：**  
 
  > Everyone should do their bit for the environment.   
  > 每个人都应该尽自己的本分保护环境。    
+<audio src="./media/P54 bit-2.aac"></audio>
 
 ## \#every bit as good / bad (as sb / sth)
 1.**和（某人 / 某事物）同样好 / 糟糕**  
@@ -4453,6 +6126,7 @@ Notes: a bit常用作副词，相当于a little。修饰名词时， 需加of。
 
  > He is not a bit better.   
  > 他一点也没见好。    
+<audio src="./media/6-bit.aac"></audio>
 
 Notes: not a little意为“非常” 、 “很多”。  
 
@@ -4464,7 +6138,13 @@ Notes: not a little意为“非常” 、 “很多”。
 1. a bit / a little more slowly  
 
 # ***\#bite*** n
-英音 baɪt     美音 baɪt  
+英音 baɪt  
+英音
+<audio src="./media/bite-B.aac"></audio>
+美音 baɪt  
+美音
+<audio src="./media/bite.aac"></audio>
+
 
 | 词频 3 | 口语 1 |  
 
@@ -4476,16 +6156,24 @@ Notes: not a little意为“非常” 、 “很多”。
 
  > The man **took a bite of** his sandwich.  
  > 那位男士咬了一口三明治。  （2013 陕西改）  
+<audio src="./media/Bite-101_AAC.aac"></audio>
 
  > The dog gave him a bite.   
  > 狗咬了他一口。    
+<audio src="./media/2-bite.aac"></audio>
 
  > insect bites   
  > 虫子叮咬的伤    
 
 
 # ***\#bite*** v
-英音 baɪt     美音 baɪt  
+英音 baɪt  
+英音
+<audio src="./media/bite-B.aac"></audio>
+美音 baɪt  
+美音
+<audio src="./media/bite.aac"></audio>
+
 
 | 词频 3 | 口语 2 |  
 
@@ -4497,10 +6185,17 @@ Notes: not a little意为“非常” 、 “很多”。
 
  > Bitten by the snake in the bush, Susan was sent back to the camp.    
  > 由于被灌木丛中的蛇咬伤，苏珊被送回了营地。  （人教⑧ – 4）  
+<audio src="./media/1-bite.aac"></audio>
 
 
 # ***\#bitter*** adj
-英音 'bɪtə(r)     美音 'bɪtər  
+英音 'bɪtə(r)  
+英音
+<audio src="./media/bitter-B.aac"></audio>
+美音 'bɪtər  
+美音
+<audio src="./media/bitter.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 1 |  
 
@@ -4510,9 +6205,11 @@ Notes: not a little意为“非常” 、 “很多”。
 
  > Good medicine is bitter in the mouth.   
  > 良药苦口。    
+<audio src="./media/1-bitter.aac"></audio>
 
  > ㊔ The roots of education are bitter, but the fruit is sweet.  
  > 教育的根是苦涩的，但其果实是香甜的。  （——亚里士多德）  
+<audio src="./media/Bitter-101_AAC.aac"></audio>
 
 ### 2.*高义频：* **[只用于名词前] 辛酸的；痛苦的：**  
 
@@ -4526,6 +6223,7 @@ Notes: not a little意为“非常” 、 “很多”。
 
  > He **was bitter about** losing the job.   
  > 他丢掉了工作，心里愤愤不平。    
+<audio src="./media/2-bitter.aac"></audio>
 
 
 派生词汇
@@ -4533,7 +6231,13 @@ Notes: not a little意为“非常” 、 “很多”。
 bitterly  /'bɪtərli/ adv   
 
 # ***\#bitterly*** adv
-英音 'bɪtəli     美音 'bɪtərli  
+英音 'bɪtəli  
+英音
+<audio src="./media/bitterly1_AAC.aac"></audio>
+美音 'bɪtərli  
+美音
+<audio src="./media/bitterly2_AAC.aac"></audio>
+
 
   
 
@@ -4543,7 +6247,13 @@ bitterly  /'bɪtərli/ adv
 
 
 # ***\#bittersweet*** adj
-英音 ˌbɪtəˈswiːt     美音 ˌbɪtərˈswiːt  
+英音 ˌbɪtəˈswiːt  
+英音
+<audio src="./media/bittersweet1_AAC.aac"></audio>
+美音 ˌbɪtərˈswiːt  
+美音
+<audio src="./media/bittersweet2_AAC.aac"></audio>
+
 
   
 
@@ -4553,7 +6263,13 @@ bitterly  /'bɪtərli/ adv
 
 
 # ***\#bizarre*** adj
-英音 bɪˈzɑː(r)     美音 bɪˈzɑːr  
+英音 bɪˈzɑː(r)  
+英音
+<audio src="./media/bizarre1_AAC.aac"></audio>
+美音 bɪˈzɑːr  
+美音
+<audio src="./media/bizarre2_AAC.aac"></audio>
+
 
   
 
@@ -4563,7 +6279,13 @@ bitterly  /'bɪtərli/ adv
 
 
 # ***\#black*** vt
-英音 blæk     美音 blæk  
+英音 blæk  
+英音
+<audio src="./media/black-B.aac"></audio>
+美音 blæk  
+美音
+<audio src="./media/black.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -4577,7 +6299,13 @@ bitterly  /'bɪtərli/ adv
 blacken /'blækən/    
 
 # ***\#black*** adj
-英音 blæk     美音 blæk  
+英音 blæk  
+英音
+<audio src="./media/black-B.aac"></audio>
+美音 blæk  
+美音
+<audio src="./media/black.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -4587,9 +6315,11 @@ blacken /'blækən/
 
  > The sky grew black with clouds.   
  > 乌云密布，天色灰暗。    
+<audio src="./media/1-black.aac"></audio>
 
  > It was a cold and black night.   
  > 那是一个寒冷、漆黑的夜晚。    
+<audio src="./media/2-black.aac"></audio>
 
 ### 2.*高义频：* **黑人的：**  
 
@@ -4600,6 +6330,7 @@ blacken /'blækən/
 
  > I like my coffee black.   
  > 我喜欢喝不加牛奶的咖啡。    
+<audio src="./media/3-black.aac"></audio>
 
 
 固定搭配
@@ -4609,7 +6340,13 @@ blacken /'blækən/
 
 
 # ***\#black*** n
-英音 blæk     美音 blæk  
+英音 blæk  
+英音
+<audio src="./media/black-B.aac"></audio>
+美音 blæk  
+美音
+<audio src="./media/black.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -4619,12 +6356,19 @@ blacken /'blækən/
 
  > He was dressed in black.   
  > 他穿着黑衣服。    
+<audio src="./media/4-black.aac"></audio>
 
 ### 2.*高义频：* **[C] (亦作Black) 黑人**  
 
 
 # ***\#black-and-white*** adj
-英音 ˌblækənd'waɪt     美音 ˌblækənd'waɪt  
+英音 ˌblækənd'waɪt  
+英音
+<audio src="./media/black-and-white1.aac"></audio>
+美音 ˌblækənd'waɪt  
+美音
+<audio src="./media/black-and-white2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -4634,7 +6378,13 @@ blacken /'blækən/
 
 
 # ***\#blackboard*** n
-英音 'blækbɔːd     美音 'blækbɔːrd  
+英音 'blækbɔːd  
+英音
+<audio src="./media/blackboard-B.aac"></audio>
+美音 'blækbɔːrd  
+美音
+<audio src="./media/blackboard.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -4646,7 +6396,13 @@ blacken /'blækən/
 
 
 # ***\#blackout*** n
-英音 'blækaʊt     美音 'blækaʊt  
+英音 'blækaʊt  
+英音
+<audio src="./media/blackout-B.aac"></audio>
+美音 'blækaʊt  
+美音
+<audio src="./media/blackout.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4658,10 +6414,17 @@ blacken /'blækən/
 
  > Solar storms may cause a communications blackout.   
  > 太阳风暴可能导致通讯中断。  （2010 上海改）  
+<audio src="./media/1-blackout.aac"></audio>
 
 
 # ***\#blade*** n
-英音 bleɪd     美音 bleɪd  
+英音 bleɪd  
+英音
+<audio src="./media/blade-B.aac"></audio>
+美音 bleɪd  
+美音
+<audio src="./media/blade2.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -4673,7 +6436,13 @@ blacken /'blækən/
 
 
 # ***\#blame*** n  重难点词汇
-英音 bleɪm     美音 bleɪm  
+英音 bleɪm  
+英音
+<audio src="./media/blame-B.aac"></audio>
+美音 bleɪm  
+美音
+<audio src="./media/blame.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 | 阅读 3 |  
 
@@ -4689,13 +6458,21 @@ blacken /'blækən/
 
  > Where does the **blame for** our failure lie?   
  > 我们失败的症结在哪里？    
+<audio src="./media/7-blame.aac"></audio>
 
  > Lots of people find it hard to get up in the morning, and **put the blame on** the alarm clock.  
  > 很多人发现早上起床很难，就把责任推到闹钟上。  （2017 全国）  
+<audio src="./media/Blame-101_AAC.aac"></audio>
 
 
 # ***\#blame*** vt  重难点词汇
-英音 bleɪm     美音 bleɪm  
+英音 bleɪm  
+英音
+<audio src="./media/blame-B.aac"></audio>
+美音 bleɪm  
+美音
+<audio src="./media/blame.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 | 阅读 3 |  
 
@@ -4706,19 +6483,23 @@ blacken /'blækən/
 
  > You’ve failed to do what you were expected to and I’m afraid the teacher will blame you.   
  > 你没做成期望你做的事，我恐怕老师会责备你。  （2010 四川）  
+<audio src="./media/P54 blame1.aac"></audio>
 
 - blame sb / sth for (doing) sth:
 
  > While we can’t change the body type we are born with, we can’t blame our genes for making us fat.  
  > 尽管我们无法改变与生俱来的体型，但也不能把肥胖归咎于自己的基因。  （2014 重庆）  
+<audio src="./media/P54 blame2.aac"></audio>
 
  > Once you form the habit of blaming somebody or something else for a bad situation, you are a loser.   
  > 一旦养成把不好的情况归咎于其他人或事的习惯，你就是一个失败者。  （2010 广东）  
+<audio src="./media/2-blame.aac"></audio>
 
 - blame sth on sb / sth:
 
  > Police are blaming the accident on dangerous driving.   
  > 警方把事故归咎于危险驾驶。    
+<audio src="./media/3-blame.aac"></audio>
 
 
 固定搭配
@@ -4728,9 +6509,11 @@ blacken /'blækən/
 
  > It’s all my fault. I’m to blame.   
  > 这都是我的错，都怪我。    
+<audio src="./media/5-6-blame.aac"></audio>
 
  > Who is to blame for the fire?   
  > 着火是谁的责任？    
+<audio src="./media/4-blame.aac"></audio>
 
 
 真题解析
@@ -4741,7 +6524,13 @@ blacken /'blækən/
 1. to blame  
 
 # ***\#blank*** n
-英音 blæŋk     美音 blæŋk  
+英音 blæŋk  
+英音
+<audio src="./media/blank-B.aac"></audio>
+美音 blæŋk  
+美音
+<audio src="./media/blank.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -4751,13 +6540,20 @@ blacken /'blækən/
 
  > **Fill in** the **blanks** with proper words.  
  > 在空白处填上适当的单词。    
+<audio src="./media/1-blank.aac"></audio>
 
  > a blank in one’s memory  
  > 记忆中的空白    
 
 
 # ***\#blank*** adj
-英音 blæŋk     美音 blæŋk  
+英音 blæŋk  
+英音
+<audio src="./media/blank-B.aac"></audio>
+美音 blæŋk  
+美音
+<audio src="./media/blank.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -4773,6 +6569,7 @@ blacken /'blækən/
 
  > If your mind **goes blank**, try not to panic.   
  > 如果你头脑中一片空白，尽量不要恐慌。  （外研④ – 3）  
+<audio src="./media/2-blank.aac"></audio>
 
 ### 2.**无表情的**  
 
@@ -4785,7 +6582,13 @@ blacken /'blækən/
 1. blank  
 
 # ***\#blanket*** n
-英音 'blæŋkɪt     美音 'blæŋkɪt  
+英音 'blæŋkɪt  
+英音
+<audio src="./media/blanket-B.aac"></audio>
+美音 'blæŋkɪt  
+美音
+<audio src="./media/blanket.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -4795,6 +6598,7 @@ blacken /'blækən/
 
  > I took a thick blanket and wrapped it around her.  
  > 我拿了一条厚毯子裹在她身上。    
+<audio src="./media/1-blanket.aac"></audio>
 
  > a blanket of snow / fog  
  > 厚厚的一层雪/雾    
@@ -4814,7 +6618,13 @@ blacken /'blækən/
 1. blanket  
 
 # ***\#blaze*** n
-英音 bleɪz     美音 bleɪz  
+英音 bleɪz  
+英音
+<audio src="./media/blaze1_AAC.aac"></audio>
+美音 bleɪz  
+美音
+<audio src="./media/blaze1_AAC.aac"></audio>
+
 
   
 
@@ -4824,7 +6634,13 @@ blacken /'blækən/
 
 
 # ***\#bleak*** adj
-英音 bliːk     美音 bliːk  
+英音 bliːk  
+英音
+<audio src="./media/bleak1_AAC.aac"></audio>
+美音 bliːk  
+美音
+<audio src="./media/bleak2_AAC.aac"></audio>
+
 
   
 
@@ -4834,7 +6650,13 @@ blacken /'blækən/
 
 
 # ***\#bleed*** v
-英音 bliːd     美音 bliːd  
+英音 bliːd  
+英音
+<audio src="./media/bleed-B.aac"></audio>
+美音 bliːd  
+美音
+<audio src="./media/bleed.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4849,12 +6671,19 @@ blacken /'blækən/
 
  > The knife cut her finger and made it bleed.  
  > 刀割破了她的手指，出血了。    
+<audio src="./media/1-bleed.aac"></audio>
 
 ### 2.*低义频：* **榨取 (钱财)：**  
 
 
 # ***\#bleeding*** n
-英音 'bliːdɪŋ     美音 'bliːdɪŋ  
+英音 'bliːdɪŋ  
+英音
+<audio src="./media/bleeding1_AAC.aac"></audio>
+美音 'bliːdɪŋ  
+美音
+<audio src="./media/bleeding2_AAC.aac"></audio>
+
 
   
 
@@ -4864,7 +6693,13 @@ blacken /'blækən/
 
 
 # ***\#blend*** v
-英音 blend     美音 blend  
+英音 blend  
+英音
+<audio src="./media/blend-B.aac"></audio>
+美音 blend  
+美音
+<audio src="./media/blend.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4874,13 +6709,21 @@ blacken /'blækən/
 
  > **Blend** the banana **and** yogurt.   
  > 把香蕉和酸奶混合在一起。    
+<audio src="./media/1-blend.aac"></audio>
 
  > Oil does not **blend with** water.  
  > 油不溶于水。    
+<audio src="./media/2-blend.aac"></audio>
 
 
 # ***\#blend*** n
-英音 blend     美音 blend  
+英音 blend  
+英音
+<audio src="./media/blend-B.aac"></audio>
+美音 blend  
+美音
+<audio src="./media/blend.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4890,7 +6733,13 @@ blacken /'blækən/
 
 
 # ***\#bless*** vt
-英音 bles     美音 bles  
+英音 bles  
+英音
+<audio src="./media/bless-B.aac"></audio>
+美音 bles  
+美音
+<audio src="./media/bless.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -4900,11 +6749,13 @@ blacken /'blækən/
 
  > The bishop blessed the ship before it left the port.   
  > 在那艘船离港前，主教祈神保佑它。    
+<audio src="./media/1-bless.aac"></audio>
 
 ### 2.*低义频：* **(神) 赋予；赐予：**  
 
  > Fortune blessed him with success.   
  > 命运之神赐予他成功。    
+<audio src="./media/2-bless.aac"></audio>
 
 
 固定搭配
@@ -4914,6 +6765,7 @@ blacken /'blækən/
 
  > I was blessed with a happy childhood, one that most people would want to have.  
  > 我有幸拥有一个幸福的童年，一个多数人想拥有的童年。  （外研⑥ – 3）  
+<audio src="./media/4-bless.aac"></audio>
 
 
 派生词汇
@@ -4921,10 +6773,17 @@ blacken /'blækən/
 blessing /'blesɪŋ/ n   
  > He went **with** his parents’ **blessing**.  
  > 他是得到父母的同意才去的。    
+<audio src="./media/He went with his_AAC.aac"></audio>
 
 
 # ***\#blessing*** n
-英音 'blesɪŋ     美音 'blesɪŋ  
+英音 'blesɪŋ  
+英音
+<audio src="./media/blessing1_AAC.aac"></audio>
+美音 'blesɪŋ  
+美音
+<audio src="./media/blessing1_AAC.aac"></audio>
+
 
   
 
@@ -4934,7 +6793,13 @@ blessing /'blesɪŋ/ n
 
 
 # ***\#blind*** adj
-英音 blaɪnd     美音 blaɪnd  
+英音 blaɪnd  
+英音
+<audio src="./media/blind-B.aac"></audio>
+美音 blaɪnd  
+美音
+<audio src="./media/blind.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -4950,11 +6815,13 @@ blessing /'blesɪŋ/ n
 
  > He is blind in the right eye.  
  > 他右眼失明。    
+<audio src="./media/1-blind.aac"></audio>
 
 ### 2.*低义频：* **视而不见的；盲目的：**  
 
  > Mothers **are** sometimes **blind to** the faults of their children.   
  > 母亲们有时觉察不到自己孩子的过错。    
+<audio src="./media/2-blind.aac"></audio>
 
 
 固定搭配
@@ -4976,7 +6843,13 @@ blindness /'blaɪndnəs/ n
 1. blindly  
 
 # ***\#blind*** vt
-英音 blaɪnd     美音 blaɪnd  
+英音 blaɪnd  
+英音
+<audio src="./media/blind-B.aac"></audio>
+美音 blaɪnd  
+美音
+<audio src="./media/blind.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -4986,10 +6859,17 @@ blindness /'blaɪndnəs/ n
 
  > The thick fog blinds us.   
  > 大雾使我们看不见。    
+<audio src="./media/3-blind.aac"></audio>
 
 
 # ***\#blind*** n
-英音 blaɪnd     美音 blaɪnd  
+英音 blaɪnd  
+英音
+<audio src="./media/blind-B.aac"></audio>
+美音 blaɪnd  
+美音
+<audio src="./media/blind.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -4999,7 +6879,13 @@ blindness /'blaɪndnəs/ n
 
 
 # ***\#blink*** v
-英音 blɪŋk     美音 blɪŋk  
+英音 blɪŋk  
+英音
+<audio src="./media/blink1.aac"></audio>
+美音 blɪŋk  
+美音
+<audio src="./media/blink2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5009,7 +6895,13 @@ blindness /'blaɪndnəs/ n
 
 
 # ***\#bliss*** n
-英音 blɪs     美音 blɪs  
+英音 blɪs  
+英音
+<audio src="./media/bliss1_AAC.aac"></audio>
+美音 blɪs  
+美音
+<audio src="./media/bliss2_AAC.aac"></audio>
+
 
   
 
@@ -5019,7 +6911,13 @@ blindness /'blaɪndnəs/ n
 
 
 # ***\#blister*** n
-英音 'blɪstə(r)     美音 'blɪstər  
+英音 'blɪstə(r)  
+英音
+<audio src="./media/blister-B.aac"></audio>
+美音 'blɪstər  
+美音
+<audio src="./media/blister.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5031,7 +6929,13 @@ blindness /'blaɪndnəs/ n
 
 
 # ***\#blister*** v
-英音 'blɪstə(r)     美音 'blɪstər  
+英音 'blɪstə(r)  
+英音
+<audio src="./media/blister-B.aac"></audio>
+美音 'blɪstər  
+美音
+<audio src="./media/blister.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5041,7 +6945,13 @@ blindness /'blaɪndnəs/ n
 
 
 # ***\#blizzard*** n
-英音 'blɪzəd     美音 'blɪzərd  
+英音 'blɪzəd  
+英音
+<audio src="./media/blizzard1_AAC.aac"></audio>
+美音 'blɪzərd  
+美音
+<audio src="./media/blizzard2_AAC.aac"></audio>
+
 
   
 
@@ -5051,7 +6961,13 @@ blindness /'blaɪndnəs/ n
 
 
 # ***\#block*** n
-英音 blɒk     美音 blɑːk  
+英音 blɒk  
+英音
+<audio src="./media/block-B.aac"></audio>
+美音 blɑːk  
+美音
+<audio src="./media/block.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -5066,11 +6982,13 @@ blindness /'blaɪndnəs/ n
 
  > The floor was made of wooden blocks.  
  > 地板是由木块拼制而成的。    
+<audio src="./media/1-block.aac"></audio>
 
 ### 2.*高义频：* **街区：**  
 
  > She told us to go around the corner on the left and keep going straight for two blocks.   
  > 她告诉我们向左转过这个拐角，一直向前走两个街区。  （ 人教① – 2）  
+<audio src="./media/3-block.aac"></audio>
 
 ### 3.*高义频：* **大楼；大厦：**  
 
@@ -5084,15 +7002,23 @@ blindness /'blaɪndnəs/ n
 
  > There was a block in the pipe and the water couldn’t flow.   
  > 管内有阻塞物，水无法流动。    
+<audio src="./media/2-block.aac"></audio>
 
 ### 5.*低义频：* **一组；一批；一套：**  
 
  > Allow your children to study in blocks of time, such as for half an hour with a five-minute break in the middle.   
  > 允许孩子用成组的时间学习，比如每学习半小时中间休息5分钟。  （2009 全国）  
+<audio src="./media/P55 block4.aac"></audio>
 
 
 # ***\#block*** vt
-英音 blɒk     美音 blɑːk  
+英音 blɒk  
+英音
+<audio src="./media/block-B.aac"></audio>
+美音 blɑːk  
+美音
+<audio src="./media/block.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -5102,16 +7028,25 @@ blindness /'blaɪndnəs/ n
 
  > When we saw the road blocked with snow, we decided to spend the holiday at home.   
  > 当我们看到大雪堵塞道路时，就决定在家过这个假期了。  （ 2013 北京）  
+<audio src="./media/5-block.aac"></audio>
 
  > The building has windows with a coating that blocks heat while letting in light.  
  > 这座大厦的窗户有一种涂层，可以让光线进来而把热量阻挡在外。    
+<audio src="./media/6-block.aac"></audio>
 
  > Someone is blocking our plan.   
  > 有人在妨碍我们的计划。    
+<audio src="./media/4-block.aac"></audio>
 
 
 # ***\#blog*** n
-英音 blɒɡ     美音 blɑːɡ  
+英音 blɒɡ  
+英音
+<audio src="./media/blog-B.aac"></audio>
+美音 blɑːɡ  
+美音
+<audio src="./media/blog.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -5124,7 +7059,13 @@ blindness /'blaɪndnəs/ n
 
 
 # ***\#blog*** vi
-英音 blɒɡ     美音 blɑːɡ  
+英音 blɒɡ  
+英音
+<audio src="./media/blog-B.aac"></audio>
+美音 blɑːɡ  
+美音
+<audio src="./media/blog.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -5134,6 +7075,7 @@ blindness /'blaɪndnəs/ n
 
  > I was encouraged to **blog about** the whole experience.  
  > 我被鼓励写下这次经历。    
+<audio src="./media/I was encouraged to blog_AAC.aac"></audio>
 
 
 派生词汇
@@ -5141,7 +7083,13 @@ blindness /'blaɪndnəs/ n
 blogger /'blɒɡə(r)/ n [C]  
 
 # ***\#blogger*** n
-英音 'blɒɡə(r)     美音 'blɑːɡər  
+英音 'blɒɡə(r)  
+英音
+<audio src="./media/blogger1_AAC.aac"></audio>
+美音 'blɑːɡər  
+美音
+<audio src="./media/blogger2_AAC.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5151,7 +7099,13 @@ blogger /'blɒɡə(r)/ n [C]
 
 
 # ***\#blond(e)*** adj
-英音 blɒnd     美音 blɑːnd  
+英音 blɒnd  
+英音
+<audio src="./media/blonde1.aac"></audio>
+美音 blɑːnd  
+美音
+<audio src="./media/blonde.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -5161,7 +7115,13 @@ blogger /'blɒɡə(r)/ n [C]
 
 
 # ***\#blond(e)*** n
-英音 blɒnd     美音 blɑːnd  
+英音 blɒnd  
+英音
+<audio src="./media/blonde1.aac"></audio>
+美音 blɑːnd  
+美音
+<audio src="./media/blonde.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -5173,7 +7133,13 @@ blogger /'blɒɡə(r)/ n [C]
 
 
 # ***\#blood*** n
-英音 blʌd     美音 blʌd  
+英音 blʌd  
+英音
+<audio src="./media/blood-B.aac"></audio>
+美音 blʌd  
+美音
+<audio src="./media/blood.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 3 |  
 
@@ -5194,14 +7160,17 @@ blogger /'blɒɡə(r)/ n [C]
 
  > Lying in a **pool of blood**, Kruger felt himself going into shock.  
  > 倒在一片血泊中，克鲁格感觉自己要休克了。  （ 2012 辽宁改）  
+<audio src="./media/1-blood.aac"></audio>
 
 ### 2.*低义频：* **血统；家族；门第：**  
 
  > **Blood is thicker than water**.   
  > 血浓于水。    
+<audio src="./media/blood-Blood is thicker .aac"></audio>
 
  > He is of the noble blood.   
  > 他出身贵族。    
+<audio src="./media/2-blood.aac"></audio>
 
 
 固定搭配
@@ -5211,6 +7180,7 @@ blogger /'blɒɡə(r)/ n [C]
 
  > The way he treats his parents really makes my blood boil.   
  > 他这样对待父母真的让我非常气愤。    
+<audio src="./media/3-blood.aac"></audio>
 
 
 派生词汇
@@ -5221,7 +7191,13 @@ bloody /'blʌdi/ adj
 
 
 # ***\#bloom*** n
-英音 bluːm     美音 bluːm  
+英音 bluːm  
+英音
+<audio src="./media/bloom-B.aac"></audio>
+美音 bluːm  
+美音
+<audio src="./media/bloom.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -5233,6 +7209,7 @@ bloody /'blʌdi/ adj
 
  > What beautiful blooms!   
  > 多漂亮的花啊！    
+<audio src="./media/1-bloom.aac"></audio>
 
  > come into bloom   
  > 开花    
@@ -5245,10 +7222,17 @@ bloody /'blʌdi/ adj
 
  > The roses are in full bloom now.   
  > 玫瑰盛开着。    
+<audio src="./media/2-bloom.aac"></audio>
 
 
 # ***\#bloom*** vi
-英音 bluːm     美音 bluːm  
+英音 bluːm  
+英音
+<audio src="./media/bloom-B.aac"></audio>
+美音 bluːm  
+美音
+<audio src="./media/bloom.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -5258,10 +7242,17 @@ bloody /'blʌdi/ adj
 
  > Many plants bloom in the spring.   
  > 许多植物春天开花。    
+<audio src="./media/3-bloom.aac"></audio>
 
 
 # ***\#blooming*** adj
-英音 /ˈbluːmɪŋ/     美音 /ˈbluːmɪŋ/  
+英音 /ˈbluːmɪŋ/  
+英音
+<audio src="./media/blooming1_AAC.aac"></audio>
+美音 /ˈbluːmɪŋ/  
+美音
+<audio src="./media/blooming2_AAC.aac"></audio>
+
 
   
 
@@ -5271,7 +7262,13 @@ bloody /'blʌdi/ adj
 
 
 # ***\#blossom*** n
-英音 'blɒsəm     美音 'blɑːsəm  
+英音 'blɒsəm  
+英音
+<audio src="./media/blossom-B.aac"></audio>
+美音 'blɑːsəm  
+美音
+<audio src="./media/blossom.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5283,7 +7280,13 @@ bloody /'blʌdi/ adj
 
 
 # ***\#blossom*** vi
-英音 'blɒsəm     美音 'blɑːsəm  
+英音 'blɒsəm  
+英音
+<audio src="./media/blossom-B.aac"></audio>
+美音 'blɑːsəm  
+美音
+<audio src="./media/blossom.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5293,7 +7296,13 @@ bloody /'blʌdi/ adj
 
 
 # ***\#blouse*** n
-英音 blaʊz     美音 blaʊs  
+英音 blaʊz  
+英音
+<audio src="./media/blouse-B.aac"></audio>
+美音 blaʊs  
+美音
+<audio src="./media/blouse.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -5305,7 +7314,13 @@ bloody /'blʌdi/ adj
 
 
 # ***\#blow*** v
-英音 bləʊ     美音 bloʊ  
+英音 bləʊ  
+英音
+<audio src="./media/blow-B.aac"></audio>
+美音 bloʊ  
+美音
+<audio src="./media/blow.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -5317,27 +7332,33 @@ bloody /'blʌdi/ adj
 
  > The wind is **blowing hard** tonight.  
  > 今晚刮着大风。    
+<audio src="./media/1-blow.aac"></audio>
 
 ### 2.*高义频：* **吹（气）：**  
 
  > The policeman asked the driver to **blow into** an electronic device.  
  > 警察要求司机朝一个电子仪器吹气。    
+<audio src="./media/2-blow.aac"></audio>
 
 ### 3.*高义频：* **（被）吹动；（被）刮走：**  
 
  > The door **blew open**.  
  > 门被吹开了。    
+<audio src="./media/3-blow.aac"></audio>
 
  > Her hair was blowing in the breeze.   
  > 她的头发在微风中摇曳    
+<audio src="./media/5-blow.aac"></audio>
 
 ### 4.*高义频：* **吹响；吹奏；鸣响：**  
 
  > Blow your horn.   
  > 鸣响你的喇叭。    
+<audio src="./media/6-blow.aac"></audio>
 
  > The whistle blew for the end of the game.   
  > 比赛结束的哨声吹响了。    
+<audio src="./media/7-blow.aac"></audio>
 
 ### 5.*低义频：* **(使) 爆炸；(使) 破裂：**  
 
@@ -5346,6 +7367,7 @@ bloody /'blʌdi/ adj
 
  > The tire blew.   
  > 轮胎爆了。    
+<audio src="./media/8-blow.aac"></audio>
 
 
 固定搭配
@@ -5355,28 +7377,39 @@ bloody /'blʌdi/ adj
 
  > The trees blown down in the storm have been moved off the road.   
  > 在暴风雨中刮倒的树木已被移出路面。  （2008 湖南）  
+<audio src="./media/9-blow.aac"></audio>
 
 ## \#blow out
 1.**吹灭：**  
 
  > Blow the candle out.   
  > 把蜡烛吹灭。    
+<audio src="./media/10-blow.aac"></audio>
 
 ## \#blow up 
 1.**给…充气；炸毁；爆炸 (explode)：**  
 
  > I blew up lots of balloons.   
  > 我吹了很多气球。  （北师大① – 3）  
+<audio src="./media/11-blow.aac"></audio>
 
  > The terrorists are threatening to blow up the building.  
  > 恐怖分子扬言要炸毁这座大楼。    
+<audio src="./media/12-blow.aac"></audio>
 
  > A police officer was killed when his car blew up.   
  > 一名警察在其汽车爆炸时遇难。    
+<audio src="./media/blow50.aac"></audio>
 
 
 # ***\#blow*** n
-英音 bləʊ     美音 bloʊ  
+英音 bləʊ  
+英音
+<audio src="./media/blow-B.aac"></audio>
+美音 bloʊ  
+美音
+<audio src="./media/blow.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 |  
 
@@ -5388,19 +7421,23 @@ bloody /'blʌdi/ adj
 
  > I killed two flies at one blow.   
  > 我一下子打死了两只苍蝇。    
+<audio src="./media/13-blow.aac"></audio>
 
  > He **struck** his enemy **a** heavy **blow** on the head.   
  > 他在敌人头上重重一击。    
+<audio src="./media/14-blow.aac"></audio>
 
 ### 2.*高义频：* **(精神上的) 打击：**  
 
  > His wife’s death was a great **blow to** him.   
  > 妻子的离世对他打击很大。    
+<audio src="./media/15-blow.aac"></audio>
 
 ### 3.*高义频：* **吹：**  
 
  > Try to put the candles out in one blow.   
  > 用力一口气把蜡烛都吹灭。    
+<audio src="./media/17-blow.aac"></audio>
 
 
 真题解析
@@ -5411,7 +7448,13 @@ bloody /'blʌdi/ adj
 1. to  
 
 # ***\#blow-hole*** n
-英音 'bləʊhəʊl     美音 'bloʊhoʊl  
+英音 'bləʊhəʊl  
+英音
+<audio src="./media/blow-hole-B.aac"></audio>
+美音 'bloʊhoʊl  
+美音
+<audio src="./media/blow-hole.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5423,7 +7466,13 @@ bloody /'blʌdi/ adj
 
 
 # ***\#blowout*** n
-英音 ˈbləʊaʊt     美音 ˈbləʊaʊt  
+英音 ˈbləʊaʊt  
+英音
+<audio src="./media/blowout1_AAC.aac"></audio>
+美音 ˈbləʊaʊt  
+美音
+<audio src="./media/blowout2_AAC.aac"></audio>
+
 
   
 
@@ -5433,7 +7482,13 @@ bloody /'blʌdi/ adj
 
 
 # ***\#blue*** adj
-英音 bluː     美音 bluː  
+英音 bluː  
+英音
+<audio src="./media/blue-B.aac"></audio>
+美音 bluː  
+美音
+<audio src="./media/blue.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -5443,14 +7498,17 @@ bloody /'blʌdi/ adj
 
  > The sky is deep blue.   
  > 天空湛蓝。    
+<audio src="./media/1-blue.aac"></audio>
 
  > His face was **blue with cold**.   
  > 他脸冻得发青。    
+<audio src="./media/2-blue.aac"></audio>
 
 ### 2.*低义频：* **悲伤的；沮丧的；忧郁的：**  
 
  > I’m **feeling** rather **blue** today.   
  > 我今天心情很差。    
+<audio src="./media/4-blue.aac"></audio>
 
 
 固定搭配
@@ -5460,7 +7518,13 @@ bloody /'blʌdi/ adj
 
 
 # ***\#blue*** n
-英音 bluː     美音 bluː  
+英音 bluː  
+英音
+<audio src="./media/blue-B.aac"></audio>
+美音 bluː  
+美音
+<audio src="./media/blue.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -5475,6 +7539,10 @@ bloody /'blʌdi/ adj
 
 
 # ***\#blue-collar*** adj
+英音
+<audio src="./media/blue-collar1_AAC.aac"></audio>
+美音
+<audio src="./media/blue-collar2_AAC.aac"></audio>
 
 
   
@@ -5485,7 +7553,13 @@ bloody /'blʌdi/ adj
 
 
 # ***\#blueprint*** n
-英音 ˈbluːprɪnt     美音 ˈbluːprɪnt  
+英音 ˈbluːprɪnt  
+英音
+<audio src="./media/blueprint1_AAC.aac"></audio>
+美音 ˈbluːprɪnt  
+美音
+<audio src="./media/blueprint2_AAC.aac"></audio>
+
 
   
 
@@ -5495,7 +7569,13 @@ bloody /'blʌdi/ adj
 
 
 # ***\#blues*** n
-英音 bluːz     美音 bluːz  
+英音 bluːz  
+英音
+<audio src="./media/blues-B.aac"></audio>
+美音 bluːz  
+美音
+<audio src="./media/blues.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -5507,7 +7587,13 @@ bloody /'blʌdi/ adj
 
 
 # ***\#blurred*** adj
-英音 blɜːd     美音 blɜːrd  
+英音 blɜːd  
+英音
+<audio src="./media/blurred1_AAC.aac"></audio>
+美音 blɜːrd  
+美音
+<audio src="./media/blurred2_AAC.aac"></audio>
+
 
   
 
@@ -5517,7 +7603,13 @@ bloody /'blʌdi/ adj
 
 
 # ***\#blush*** vi
-英音 blʌʃ     美音 blʌʃ  
+英音 blʌʃ  
+英音
+<audio src="./media/blush1_AAC.aac"></audio>
+美音 blʌʃ  
+美音
+<audio src="./media/blush2_AAC.aac"></audio>
+
 
   
 
@@ -5527,7 +7619,13 @@ bloody /'blʌdi/ adj
 
 
 # ***\#board*** n
-英音 bɔːd     美音 bɔːrd  
+英音 bɔːd  
+英音
+<audio src="./media/board-B.aac"></audio>
+美音 bɔːrd  
+美音
+<audio src="./media/board.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 |  
 
@@ -5553,6 +7651,7 @@ bloody /'blʌdi/ adj
 
  > When his family fell on hard times, he was offered free **room and board**.  
  > 艰难的时候他家里接济不上，有人给他提供了免费食宿。    
+<audio src="./media/1-board.aac"></audio>
 
 
 固定搭配
@@ -5562,10 +7661,17 @@ bloody /'blʌdi/ adj
 
  > On board the ship, you will be well taken care of.   
  > 你在船上会受到很好的照顾。  （2008 全国）  
+<audio src="./media/2-board.aac"></audio>
 
 
 # ***\#board*** v
-英音 bɔːd     美音 bɔːrd  
+英音 bɔːd  
+英音
+<audio src="./media/board-B.aac"></audio>
+美音 bɔːrd  
+美音
+<audio src="./media/board.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -5578,9 +7684,11 @@ bloody /'blʌdi/ adj
 
  > Your plane **is** now **boarding** at Gate 7.   
  > 您乘坐的航班正在7号登机口登机。    
+<audio src="./media/3-board.aac"></audio>
 
  > Six months ago Xie Lei said goodbye to her family and friends in China and boarded a plane for London.   
  > 6个月前，谢蕾告别了中国的家人和朋友，登上了前往伦敦的飞机。  （人教⑦ – 5）  
+<audio src="./media/4-board.aac"></audio>
 
 ### 2.*低义频：* **寄宿：**  
 
@@ -5589,7 +7697,13 @@ bloody /'blʌdi/ adj
 
 
 # ***\#boarder*** n
-英音 ˈbɔːdə(r)     美音 ˈbɔːrdər  
+英音 ˈbɔːdə(r)  
+英音
+<audio src="./media/boarder1_AAC.aac"></audio>
+美音 ˈbɔːrdər  
+美音
+<audio src="./media/boarder2_AAC.aac"></audio>
+
 
   
 
@@ -5599,7 +7713,13 @@ bloody /'blʌdi/ adj
 
 
 # ***\#boarding*** adj
-英音 'bɔːdɪŋ     美音 'bɔːrdɪŋ  
+英音 'bɔːdɪŋ  
+英音
+<audio src="./media/boarding1.aac"></audio>
+美音 'bɔːrdɪŋ  
+美音
+<audio src="./media/boarding2.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -5609,7 +7729,13 @@ bloody /'blʌdi/ adj
 
 
 # ***\#boast*** v
-英音 bəʊst     美音 boʊst  
+英音 bəʊst  
+英音
+<audio src="./media/boast-B.aac"></audio>
+美音 boʊst  
+美音
+<audio src="./media/boast.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5619,12 +7745,19 @@ bloody /'blʌdi/ adj
 
  > He **boasts that** he is one of the best singers in the country.   
  > 他吹嘘自己是全国最好的歌手之一。    
+<audio src="./media/1-boast.aac"></audio>
 
 ### 2.**（地方、机构等）自豪地拥有（好的事物）**  
 
 
 # ***\#boat*** n
-英音 bəʊt     美音 boʊt  
+英音 bəʊt  
+英音
+<audio src="./media/boat-B.aac"></audio>
+美音 boʊt  
+美音
+<audio src="./media/boat.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -5645,10 +7778,17 @@ bloody /'blʌdi/ adj
 
  > She and I are in the same boat: we both failed the exam.   
  > 我和她同病相怜,考试都没及格。    
+<audio src="./media/1-boat.aac"></audio>
 
 
 # ***\#boat*** vi
-英音 bəʊt     美音 boʊt  
+英音 bəʊt  
+英音
+<audio src="./media/boat-B.aac"></audio>
+美音 boʊt  
+美音
+<audio src="./media/boat.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -5662,7 +7802,13 @@ bloody /'blʌdi/ adj
 boating /'boʊtɪŋ/ n [U]   
 
 # ***\#bobsleigh*** n
-英音 ˈbɒbsleɪ     美音 ˈbɑːbsleɪ  
+英音 ˈbɒbsleɪ  
+英音
+<audio src="./media/bobsleigh1_AAC.aac"></audio>
+美音 ˈbɑːbsleɪ  
+美音
+<audio src="./media/bobsleigh2_AAC.aac"></audio>
+
 
   
 
@@ -5672,7 +7818,13 @@ boating /'boʊtɪŋ/ n [U]
 
 
 # ***\#body*** n
-英音 'bɒdi     美音 'bɑːdi  
+英音 'bɒdi  
+英音
+<audio src="./media/body-B.aac"></audio>
+美音 'bɑːdi  
+美音
+<audio src="./media/body.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -5705,11 +7857,13 @@ boating /'boʊtɪŋ/ n [U]
 
  > Keep the caps on the bottles to prevent **foreign bodies** entering them.    
  > 瓶子要盖好盖子，以免异物进入。    
+<audio src="./media/2-body.aac"></audio>
 
 ### 5.*高义频：* **团体：机构：**  
 
  > The **governing body** of the school is / are concerned about discipline.   
  > 学校行政部门很关心纪律问题。    
+<audio src="./media/3-body.aac"></audio>
 
 
 固定搭配
@@ -5722,10 +7876,17 @@ boating /'boʊtɪŋ/ n [U]
 
  > She hardly earns enough to keep body and soul together.   
  > 她几乎挣不够维持温饱的钱。    
+<audio src="./media/4-body.aac"></audio>
 
 
 # ***\#bodybuilding*** n
-英音 ˈbɒdibɪldɪŋ     美音 ˈbɑːdibɪldɪŋ  
+英音 ˈbɒdibɪldɪŋ  
+英音
+<audio src="./media/bodybuilding1_AAC.aac"></audio>
+美音 ˈbɑːdibɪldɪŋ  
+美音
+<audio src="./media/bodybuilding2_AAC.aac"></audio>
+
 
   
 
@@ -5735,7 +7896,13 @@ boating /'boʊtɪŋ/ n [U]
 
 
 # ***\#boil*** v
-英音 bɔɪl     美音 bɔɪl  
+英音 bɔɪl  
+英音
+<audio src="./media/boil-B.aac"></audio>
+美音 bɔɪl  
+美音
+<audio src="./media/boil.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -5751,11 +7918,13 @@ boating /'boʊtɪŋ/ n [U]
 
  > Water **boils at** 100℃.   
  > 水温达到100℃时沸腾。    
+<audio src="./media/1-boil.aac"></audio>
 
 ### 2.*低义频：* **发怒；发火：**  
 
  > His rudeness made her **boil with** anger.   
  > 他的无礼使她怒不可遏。    
+<audio src="./media/2-boil.aac"></audio>
 
 
 真题解析
@@ -5766,7 +7935,13 @@ boating /'boʊtɪŋ/ n [U]
 1. at  
 
 # ***\#boil*** n
-英音 bɔɪl     美音 bɔɪl  
+英音 bɔɪl  
+英音
+<audio src="./media/boil-B.aac"></audio>
+美音 bɔɪl  
+美音
+<audio src="./media/boil.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -5776,7 +7951,13 @@ boating /'boʊtɪŋ/ n [U]
 
 
 # ***\#boiled*** adj
-英音 bɔɪld     美音 bɔɪld  
+英音 bɔɪld  
+英音
+<audio src="./media/boiled1_AAC.aac"></audio>
+美音 bɔɪld  
+美音
+<audio src="./media/boiled2_AAC.aac"></audio>
+
 
   
 
@@ -5786,7 +7967,13 @@ boating /'boʊtɪŋ/ n [U]
 
 
 # ***\#boiling*** adj
-英音 ˈbɔɪlɪŋ     美音 ˈbɔɪlɪŋ  
+英音 ˈbɔɪlɪŋ  
+英音
+<audio src="./media/boiling1_AAC.aac"></audio>
+美音 ˈbɔɪlɪŋ  
+美音
+<audio src="./media/boiling2_AAC.aac"></audio>
+
 
   
 
@@ -5796,7 +7983,13 @@ boating /'boʊtɪŋ/ n [U]
 
 
 # ***\#bold*** n
-英音 bəʊld     美音 boʊld  
+英音 bəʊld  
+英音
+<audio src="./media/bold-B.aac"></audio>
+美音 boʊld  
+美音
+<audio src="./media/bold.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5808,10 +8001,17 @@ boating /'boʊtɪŋ/ n [U]
 
  > Highlight the important words **in bold**.   
  > 用粗体字突出重要的词语。    
+<audio src="./media/1-bold.aac"></audio>
 
 
 # ***\#bold*** adj
-英音 bəʊld     美音 boʊld  
+英音 bəʊld  
+英音
+<audio src="./media/bold-B.aac"></audio>
+美音 boʊld  
+美音
+<audio src="./media/bold.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5824,7 +8024,13 @@ boating /'boʊtɪŋ/ n [U]
 
 
 # ***\#bomb*** n
-英音 bɒm     美音 bɑːm  
+英音 bɒm  
+英音
+<audio src="./media/bomb-B.aac"></audio>
+美音 bɑːm  
+美音
+<audio src="./media/bomb.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 1 |  
 
@@ -5834,10 +8040,17 @@ boating /'boʊtɪŋ/ n [U]
 
  > The **bomb exploded / went off**.   
  > 炸弹爆炸了。    
+<audio src="./media/1-bomb.aac"></audio>
 
 
 # ***\#bomb*** vt
-英音 bɒm     美音 bɑːm  
+英音 bɒm  
+英音
+<audio src="./media/bomb-B.aac"></audio>
+美音 bɑːm  
+美音
+<audio src="./media/bomb.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -5847,10 +8060,17 @@ boating /'boʊtɪŋ/ n [U]
 
  > The houses of Martin Luther King, Jr and the other leaders were bombed.   
  > 马丁·路德·金和其他领导人的房屋被炸了。  （人教⑩ – 3）  
+<audio src="./media/2-bomb.aac"></audio>
 
 
 # ***\#bond*** n
-英音 bɒnd     美音 bɑːnd  
+英音 bɒnd  
+英音
+<audio src="./media/bond-B.aac"></audio>
+美音 bɑːnd  
+美音
+<audio src="./media/bond.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -5862,16 +8082,24 @@ boating /'boʊtɪŋ/ n [U]
 
  > This new glue makes a firmer bond.   
  > 这种新胶水粘得更牢固。    
+<audio src="./media/1-bond.aac"></audio>
 
  > a close / an emotional bond   
  > 紧密的关系/情感纽带    
 
  > In some cultures friendship means a strong lifelong **bond between** two people.   
  > 在有些文化中友谊就是两个人之间终生的深厚关系。    
+<audio src="./media/2-bond.aac"></audio>
 
 
 # ***\#bond*** v
-英音 bɒnd     美音 bɑːnd  
+英音 bɒnd  
+英音
+<audio src="./media/bond-B.aac"></audio>
+美音 bɑːnd  
+美音
+<audio src="./media/bond.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -5883,10 +8111,17 @@ boating /'boʊtɪŋ/ n [U]
 
  > These two different materials won’t bond together.  
  > 这两种不同的材料无法黏合起来。    
+<audio src="./media/3-bond.aac"></audio>
 
 
 # ***\#bone*** n
-英音 bəʊn     美音 boʊn  
+英音 bəʊn  
+英音
+<audio src="./media/bone-B.aac"></audio>
+美音 boʊn  
+美音
+<audio src="./media/bone.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -5898,13 +8133,21 @@ boating /'boʊtɪŋ/ n [U]
 
  > He broke a bone in his leg.   
  > 他的一条腿骨折了。    
+<audio src="./media/1-bone.aac"></audio>
 
  > The poor horse looked **all skin and bone**.   
  > 这匹可怜的马瘦得皮包骨。    
+<audio src="./media/2-bone.aac"></audio>
 
 
 # ***\#bonfire*** n
-英音 'bɒnfaɪə(r)     美音 'bɑːnfaɪər  
+英音 'bɒnfaɪə(r)  
+英音
+<audio src="./media/bonfire1.aac"></audio>
+美音 'bɑːnfaɪər  
+美音
+<audio src="./media/bonfire2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5914,7 +8157,13 @@ boating /'boʊtɪŋ/ n [U]
 
 
 # ***\#bonnie*** adj
-英音 'bɒnɪ     美音 'bɒnɪ  
+英音 'bɒnɪ  
+英音
+<audio src="./media/bonnie1.aac"></audio>
+美音 'bɒnɪ  
+美音
+<audio src="./media/bonnie2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5924,7 +8173,13 @@ boating /'boʊtɪŋ/ n [U]
 
 
 # ***\#bonus*** n
-英音 'bəʊnəs     美音 'boʊnəs  
+英音 'bəʊnəs  
+英音
+<audio src="./media/bonus-B.aac"></audio>
+美音 'boʊnəs  
+美音
+<audio src="./media/bonus.aac"></audio>
+
 
 | 词频 1 | 口语 2 |  
 
@@ -5936,13 +8191,21 @@ boating /'boʊtɪŋ/ n [U]
 
  > The workers got a Christmas bonus.   
  > 工人得到了圣诞节奖金。    
+<audio src="./media/1-bonus.aac"></audio>
 
  > As a **bonus for** their fans, nearly every Cantopop singer also acts in the movies, from Jackie Cheung to Faye Wong.   
  > 让歌迷感到意外惊喜的是，从张学友到王菲，几乎每个粤语歌手也会出演电影。  （外研⑦ – 4）  
+<audio src="./media/2-bonus.aac"></audio>
 
 
 # ***\#book*** n
-英音 bʊk     美音 bʊk  
+英音 bʊk  
+英音
+<audio src="./media/book-B.aac"></audio>
+美音 bʊk  
+美音
+<audio src="./media/book.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -5960,7 +8223,13 @@ boating /'boʊtɪŋ/ n [U]
 
 
 # ***\#book*** vt
-英音 bʊk     美音 bʊk  
+英音 bʊk  
+英音
+<audio src="./media/book-B.aac"></audio>
+美音 bʊk  
+美音
+<audio src="./media/book.aac"></audio>
+
 
 | 词频 5 | 口语 2 |  
 
@@ -5970,15 +8239,18 @@ boating /'boʊtɪŋ/ n [U]
 
  > Have you booked the flight?  
  > 您预订航班了吗？    
+<audio src="./media/1-book.aac"></audio>
 
  > a booking office (BrE)   
  > 订票处；售票处(ticketoffice)    
 
  > To get tickets, you have to **book in advance**.   
  > 要想买到票，你必须提前预订。    
+<audio src="./media/2-book.aac"></audio>
 
  > Group bookers benefit from a direct free telephone booking line, and don’t pay booking fees.   
  > 团体订票可以享受直接拨打免费电话订票热线，无须支付预订费用。  （2011 陕西）  
+<audio src="./media/3-book.aac"></audio>
 
 
 派生词汇
@@ -5986,7 +8258,13 @@ boating /'boʊtɪŋ/ n [U]
 booking     
 
 # ***\#bookcase*** n
-英音 'bʊkkeɪs     美音 'bʊkkeɪs  
+英音 'bʊkkeɪs  
+英音
+<audio src="./media/bookcase-B.aac"></audio>
+美音 'bʊkkeɪs  
+美音
+<audio src="./media/bookcase.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5998,7 +8276,13 @@ booking
 
 
 # ***\#bookish*** adj
-英音 ˈbʊkɪʃ     美音 ˈbʊkɪʃ  
+英音 ˈbʊkɪʃ  
+英音
+<audio src="./media/bookish1_AAC.aac"></audio>
+美音 ˈbʊkɪʃ  
+美音
+<audio src="./media/bookish2_AAC.aac"></audio>
+
 
   
 
@@ -6008,7 +8292,13 @@ booking
 
 
 # ***\#booklet*** n
-英音 'bʊklət     美音 'bʊklət  
+英音 'bʊklət  
+英音
+<audio src="./media/booklet-B.aac"></audio>
+美音 'bʊklət  
+美音
+<audio src="./media/booklet.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -6020,7 +8310,13 @@ booking
 
 
 # ***\#bookseller*** n
-英音 'bʊkselə(r)     美音 bʊkselər  
+英音 'bʊkselə(r)  
+英音
+<audio src="./media/bookseller-B.aac"></audio>
+美音 bʊkselər  
+美音
+<audio src="./media/bookseller.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -6032,7 +8328,13 @@ booking
 
 
 # ***\#bookshelf*** n
-英音 'bʊkʃelf     美音 'bʊkʃelf  
+英音 'bʊkʃelf  
+英音
+<audio src="./media/bookshelf-B.aac"></audio>
+美音 'bʊkʃelf  
+美音
+<audio src="./media/bookshelf.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -6051,7 +8353,13 @@ booking
 1. bookshelves / bookcases  
 
 # ***\#bookshop*** n
-英音 'bʊkʃɒp     美音 'bʊkʃɑːp  
+英音 'bʊkʃɒp  
+英音
+<audio src="./media/bookshop-B.aac"></audio>
+美音 'bʊkʃɑːp  
+美音
+<audio src="./media/bookshop.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -6063,7 +8371,13 @@ booking
 
 
 # ***\#bookworm*** n
-英音 'bʊkwɜːm     美音 'bʊkwɜːrm  
+英音 'bʊkwɜːm  
+英音
+<audio src="./media/bookworm1.aac"></audio>
+美音 'bʊkwɜːrm  
+美音
+<audio src="./media/bookworm2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6073,7 +8387,13 @@ booking
 
 
 # ***\#boom*** n
-英音 buːm     美音 buːm  
+英音 buːm  
+英音
+<audio src="./media/boom-B.aac"></audio>
+美音 buːm  
+美音
+<audio src="./media/boom.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -6091,10 +8411,17 @@ booking
 
  > The **economic boom** in recent years has created more job opportunities.   
  > 近年的经济繁荣创造了更多的就业机会。  （人教⑧ – 1）  
+<audio src="./media/1-boom.aac"></audio>
 
 
 # ***\#boom*** vi
-英音 buːm     美音 buːm  
+英音 buːm  
+英音
+<audio src="./media/boom-B.aac"></audio>
+美音 buːm  
+美音
+<audio src="./media/boom.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -6104,10 +8431,17 @@ booking
 
  > Bike-sharing is booming in China.  
  > 共享单车在中国很火爆。    
+<audio src="./media/Boom-101_AAC.aac"></audio>
 
 
 # ***\#boomerang*** n
-英音 'buːməræŋ     美音 'buːməræŋ  
+英音 'buːməræŋ  
+英音
+<audio src="./media/boomerang1.aac"></audio>
+美音 'buːməræŋ  
+美音
+<audio src="./media/boomerang2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6117,7 +8451,13 @@ booking
 
 
 # ***\#boost*** vt
-英音 buːst     美音 buːst  
+英音 buːst  
+英音
+<audio src="./media/boost-B.aac"></audio>
+美音 buːst  
+美音
+<audio src="./media/boost.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -6130,10 +8470,17 @@ booking
 
  > Researches have shown that smiling can lower blood pressure, reduce stress and boost happiness.   
  > 研究表明微笑可以降低血压、舒缓压力、增进快乐。  （2009 山东改）  
+<audio src="./media/1-boost.aac"></audio>
 
 
 # ***\#boost*** n
-英音 buːst     美音 buːst  
+英音 buːst  
+英音
+<audio src="./media/boost-B.aac"></audio>
+美音 buːst  
+美音
+<audio src="./media/boost.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -6143,7 +8490,13 @@ booking
 
 
 # ***\#boot*** n
-英音 buːt     美音 buːt  
+英音 buːt  
+英音
+<audio src="./media/boot-B.aac"></audio>
+美音 buːt  
+美音
+<audio src="./media/boot.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -6155,7 +8508,13 @@ booking
 
 
 # ***\#booth*** n
-英音 buːð;buːθ     美音 buːθ  
+英音 buːð;buːθ  
+英音
+<audio src="./media/booth-B.aac"></audio>
+美音 buːθ  
+美音
+<audio src="./media/booth.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6170,7 +8529,13 @@ booking
 
 
 # ***\#booze*** n
-英音 buːz     美音 buːz  
+英音 buːz  
+英音
+<audio src="./media/booze1_AAC.aac"></audio>
+美音 buːz  
+美音
+<audio src="./media/booze2_AAC.aac"></audio>
+
 
   
 
@@ -6180,7 +8545,13 @@ booking
 
 
 # ***\#border*** n
-英音 'bɔːdə(r)     美音 bɔːrdər  
+英音 'bɔːdə(r)  
+英音
+<audio src="./media/border-B.aac"></audio>
+美音 bɔːrdər  
+美音
+<audio src="./media/border.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 2 |  
 
@@ -6192,6 +8563,7 @@ booking
 
  > His handkerchief has a white border.   
  > 他的手帕有一条白边。    
+<audio src="./media/1-border.aac"></audio>
 
 ### 2.*高义频：* **国界；边界；边境（地区）：**  
 
@@ -6206,7 +8578,13 @@ booking
 
 
 # ***\#border*** vt
-英音 'bɔːdə(r)     美音 bɔːrdər  
+英音 'bɔːdə(r)  
+英音
+<audio src="./media/border-B.aac"></audio>
+美音 bɔːrdər  
+美音
+<audio src="./media/border.aac"></audio>
+
 
 | 词频 3 | 阅读 2 |  
 
@@ -6216,7 +8594,13 @@ booking
 
 
 # ***\#bore*** vt
-英音 bɔː(r)     美音 bɔːr  
+英音 bɔː(r)  
+英音
+<audio src="./media/bore-B.aac"></audio>
+美音 bɔːr  
+美音
+<audio src="./media/bore.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6226,10 +8610,17 @@ booking
 
  > Will it bore you to hear the story again?   
  > 再听一遍这个故事你会烦吗？    
+<audio src="./media/1-bore.aac"></audio>
 
 
 # ***\#bored*** adj
-英音 bɔːrd     美音 bɔːd  
+英音 bɔːrd  
+英音
+<audio src="./media/bored-B.aac"></audio>
+美音 bɔːd  
+美音
+<audio src="./media/bored.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -6239,6 +8630,7 @@ booking
 
  > There was a bored expression on her face.   
  > 她脸上有一种厌倦的表情。    
+<audio src="./media/1-bored.aac"></audio>
 
 
 固定搭配
@@ -6248,10 +8640,17 @@ booking
 
  > Bored with life in the city, he moved to a remote village.  
  > 因为厌倦了城市的生活，他搬到了一个偏远的村庄。  （译林 ⑦-1）  
+<audio src="./media/Bored with life in the city, he moved to a remote_AAC.aac"></audio>
 
 
 # ***\#boredom*** n
-英音 ˈbɔːdəm     美音 ˈbɔːrdəm  
+英音 ˈbɔːdəm  
+英音
+<audio src="./media/boredom1_AAC.aac"></audio>
+美音 ˈbɔːrdəm  
+美音
+<audio src="./media/boredom2_AAC.aac"></audio>
+
 
   
 
@@ -6261,7 +8660,13 @@ booking
 
 
 # ***\#boring*** adj
-英音 'bɔːrɪŋ     美音 'bɔːrɪŋ  
+英音 'bɔːrɪŋ  
+英音
+<audio src="./media/boring-B.aac"></audio>
+美音 'bɔːrɪŋ  
+美音
+<audio src="./media/boring.aac"></audio>
+
 
 | 词频 4 | 口语 2 |  
 
@@ -6274,6 +8679,7 @@ booking
 
  > They say it’s boring to hear the same songs all the time.  
  > 他们说总是听相同的歌曲令人感到厌烦。  （2010 北京）  
+<audio src="./media/1-boring.aac"></audio>
 
 
 真题解析
@@ -6284,7 +8690,13 @@ booking
 1. tired; boring  
 
 # ***\#born*** vt
-英音 bɔːn     美音 bɔːrn  
+英音 bɔːn  
+英音
+<audio src="./media/born-B.aac"></audio>
+美音 bɔːrn  
+美音
+<audio src="./media/born.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -6296,20 +8708,24 @@ booking
 
  > She **was born into** a musical family.  
  > 她生于一个音乐世家。    
+<audio src="./media/1-born.aac"></audio>
 
  > They **were born with** some rare talent.   
  > 他们生来就具有某种罕见的才能。  （ 2013 广东）  
+<audio src="./media/2-born.aac"></audio>
 
 ### 2.*高义频：* **产生；出现；形成**  
 英译 to start to exist：
 
  > His wish to become a doctor **was born (out) of** a desire to help sick people.   
  > 他想当医生的愿望源于他想帮助病人。    
+<audio src="./media/3-born.aac"></audio>
 
 ### 3.*高义频：* **…出生的；…产生的：**  
 
  > My parents have raised twelve kids and I am their **first-born** son.   
  > 我父母养育了12个孩子，我是他们的长子。  （2014 广东改）  
+<audio src="./media/P58 born-2.aac"></audio>
 
 
 固定搭配
@@ -6319,10 +8735,17 @@ booking
 
  > He was born to be a politician.   
  > 他天生就是个政治家。    
+<audio src="./media/4-born.aac"></audio>
 
 
 # ***\#born*** adj
-英音 bɔːn     美音 bɔːrn  
+英音 bɔːn  
+英音
+<audio src="./media/born-B.aac"></audio>
+美音 bɔːrn  
+美音
+<audio src="./media/born.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -6332,10 +8755,17 @@ booking
 
  > He was a **born leader**.   
  > 他天生就是当领袖的料。    
+<audio src="./media/5-born.aac"></audio>
 
 
 # ***\#borough*** n
-英音 'bʌrə     美音 'bɜːroʊ  
+英音 'bʌrə  
+英音
+<audio src="./media/borough1.aac"></audio>
+美音 'bɜːroʊ  
+美音
+<audio src="./media/borough2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6345,7 +8775,13 @@ booking
 
 
 # ***\#borrow*** v
-英音 'bɒrəʊ     美音 'bɑːroʊ  
+英音 'bɒrəʊ  
+英音
+<audio src="./media/borrow-B.aac"></audio>
+美音 'bɑːroʊ  
+美音
+<audio src="./media/borrow.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -6357,28 +8793,39 @@ booking
 
  > How many books can I borrow at a time?  
  > 我一次能借几本书？  （2015 北京）  
+<audio src="./media/Borrow-101_AAC.aac"></audio>
 
  > I don't like to borrow (money) **from** my friends**borrowed**  
  > 我不喜欢向朋友借钱。    
+<audio src="./media/Borrow-102_AAC.aac"></audio>
 
 #### 辨析 lend, borrow
   
 **二者都译为“借”，但意义不同。** 
  > You mustn't **lend** the book **to** others.  
  > 不许你把这本书借给别人。    
+<audio src="./media/lend-517-1_AAC.aac"></audio>
 
  > He decided to **borrow** some money **from** the bank.  
  > 他决定到银行贷点款。    
+<audio src="./media/He decided to borrow some _AAC.aac"></audio>
 
 
 ### 2.*高义频：* **引用；借用（思想、文字等）：**  
 
  > English has **borrowed** many words **from** French.  
  > 英语借用了许多法语单词。    
+<audio src="./media/Borrow-103_AAC.aac"></audio>
 
 
 # ***\#boss*** n
-英音 bɒs     美音 bɔːs  
+英音 bɒs  
+英音
+<audio src="./media/boss-B.aac"></audio>
+美音 bɔːs  
+美音
+<audio src="./media/boss.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -6394,7 +8841,13 @@ booking
 bossy /'bɒsi/ adj   
 
 # ***\#boss*** vt
-英音 bɒs     美音 bɔːs  
+英音 bɒs  
+英音
+<audio src="./media/boss-B.aac"></audio>
+美音 bɔːs  
+美音
+<audio src="./media/boss.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -6404,10 +8857,17 @@ bossy /'bɒsi/ adj
 
  > I’m sick of you bossing me around!   
  > 我讨厌你对我呼来喝去的！    
+<audio src="./media/1-boss.aac"></audio>
 
 
 # ***\#botanical*** adj
-英音 bə'tænɪkl     美音 bə'tænɪkl  
+英音 bə'tænɪkl  
+英音
+<audio src="./media/botanical-B.aac"></audio>
+美音 bə'tænɪkl  
+美音
+<audio src="./media/botanical.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6420,7 +8880,13 @@ bossy /'bɒsi/ adj
 
 
 # ***\#botany*** n
-英音 'bɒtəni     美音 'bɑːtəni  
+英音 'bɒtəni  
+英音
+<audio src="./media/botany-B.aac"></audio>
+美音 'bɑːtəni  
+美音
+<audio src="./media/botany.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -6432,7 +8898,13 @@ bossy /'bɒsi/ adj
 
 
 # ***\#both*** adj
-英音 bəʊθ     美音 boʊθ  
+英音 bəʊθ  
+英音
+<audio src="./media/both-B.aac"></audio>
+美音 boʊθ  
+美音
+<audio src="./media/both.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -6442,10 +8914,17 @@ bossy /'bɒsi/ adj
 
  > Both his younger brothers are in the army.   
  > 他的两个弟弟都在服兵役。    
+<audio src="./media/1-both.aac"></audio>
 
 
 # ***\#both*** pron
-英音 bəʊθ     美音 boʊθ  
+英音 bəʊθ  
+英音
+<audio src="./media/both-B.aac"></audio>
+美音 boʊθ  
+美音
+<audio src="./media/both.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -6455,9 +8934,11 @@ bossy /'bɒsi/ adj
 
  > Both of them are pretty. / They are both pretty.   
  > 他们两个都漂亮。    
+<audio src="./media/2-both.aac"></audio>
 
  > He likes John and Mary both.   
  > 约翰和玛丽他都喜欢。    
+<audio src="./media/3-both.aac"></audio>
 
 
 固定搭配
@@ -6467,39 +8948,48 @@ bossy /'bɒsi/ adj
 
  > She plays both the piano and the guitar.   
  > 她既能弹钢琴又能弹吉他。    
+<audio src="./media/4-both.aac"></audio>
 
  > Both he and his father are doctors.   
  > 他父亲和他都是医生。    
+<audio src="./media/5-both.aac"></audio>
 
 Notes: both 的用法：  
 - 用作形容词修饰复数名词时，名词前可用定冠词、物主代词等修饰：
 
  > Both (the / his) children have been to Greece.  
  > （那/他的）两个孩子都去过希腊。    
+<audio src="./media/Both-101_AAC.aac"></audio>
 
 -  与代词连用或用作代词时， 人称代词前常加 of：
 
  > Both of us were born on July 2nd.  
  > 我们俩都是7月2日出生的。    
+<audio src="./media/7-both.aac"></audio>
 
 - 与动词连用时：
 
  > The children were both too young.  
  > 两个孩子都太小了。    
+<audio src="./media/8-both.aac"></audio>
 
  > We both like football.   
  > 我们俩都喜欢足球。    
+<audio src="./media/9-both.aac"></audio>
 
  > My parents have both been invited.   
  > 我父母都受到了邀请。    
+<audio src="./media/10-both.aac"></audio>
 
  > They must both have been caught in the rain.  
  > 他们俩肯定都被雨淋了。    
+<audio src="./media/Both-102_AAC.aac"></audio>
 
 - 与 not 连用时表示部分否定：
 
  > Both the women were not French.  
  > 这两位女士不都是法国人。    
+<audio src="./media/12-both.aac"></audio>
 
 
 真题解析
@@ -6511,7 +9001,13 @@ Notes: both 的用法：
 1. all → both  2. or → and  
 
 # ***\#bother*** v
-英音 'bɒðə(r)     美音 'bɑːðər  
+英音 'bɒðə(r)  
+英音
+<audio src="./media/bother-B.aac"></audio>
+美音 'bɑːðər  
+美音
+<audio src="./media/bother.aac"></audio>
+
 
 | 词频 3 | 口语 3 | 书面 1 |  
 
@@ -6522,9 +9018,11 @@ Notes: both 的用法：
 
  > He **didn’t bother to** answer the question.  
  > 他懒得回答这个问题。    
+<audio src="./media/1-bother.aac"></audio>
 
  > — I’ll go to the post office to mail this parcel to Ann**Why bother**  
  > 我要去邮局给安寄这个包裹。    
+<audio src="./media/2-bother.aac"></audio>
 
  > — **Why bother**? I’ll see her at dinner this evening.  
  > 不必麻烦了吧？今晚吃饭我能见到她。    
@@ -6534,18 +9032,22 @@ Notes: both 的用法：
 
  > You needn’t **bother** yourself **about** / **with** small things.  
  > 你用不着为琐事烦恼。    
+<audio src="./media/3-bother.aac"></audio>
 
  > My wrist has been bothering me.   
  > 我手腕一直痛。    
+<audio src="./media/P59 bother.aac"></audio>
 
 ### 3.*高义频：* **打扰**  
 英译  to interrupt sb (trouble)：
 
  > Don’t bother me while I’m reading.  
  > 我看书的时候别打扰我。    
+<audio src="./media/4-bother.aac"></audio>
 
  > **Sorry to bother you**, but the manager is on the line.  
  > 对不起，打扰一下，经理打电话找你。    
+<audio src="./media/5-bother.aac"></audio>
 
 
 真题解析
@@ -6561,7 +9063,13 @@ D.What for
 1. A  
 
 # ***\#bother*** n
-英音 'bɒðə(r)     美音 'bɑːðər  
+英音 'bɒðə(r)  
+英音
+<audio src="./media/bother-B.aac"></audio>
+美音 'bɑːðər  
+美音
+<audio src="./media/bother.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -6571,6 +9079,10 @@ D.What for
 
 
 # ***\#bothered*** adj
+英音
+<audio src="./media/bothered1_AAC.aac"></audio>
+美音
+<audio src="./media/bothered2_AAC.aac"></audio>
 
 
   
@@ -6581,7 +9093,13 @@ D.What for
 
 
 # ***\#bottle*** n
-英音 'bɒtl     美音 'bɑːtl  
+英音 'bɒtl  
+英音
+<audio src="./media/bottle-B.aac"></audio>
+美音 'bɑːtl  
+美音
+<audio src="./media/bottle.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -6591,7 +9109,13 @@ D.What for
 
 
 # ***\#bottle*** v
-英音 'bɒtl     美音 'bɑːtl  
+英音 'bɒtl  
+英音
+<audio src="./media/bottle-B.aac"></audio>
+美音 'bɑːtl  
+美音
+<audio src="./media/bottle.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -6608,7 +9132,13 @@ bottled /'bɒtld/ adj
 
 
 # ***\#bottom*** n
-英音 'bɒtəm     美音 'bɑːtəm  
+英音 'bɒtəm  
+英音
+<audio src="./media/bottom-B.aac"></audio>
+美音 'bɑːtəm  
+美音
+<audio src="./media/bottom.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 1 |  
 
@@ -6624,9 +9154,11 @@ bottled /'bɒtld/ adj
 
  > **Bottoms up**!  
  > 干杯！    
+<audio src="./media/1-bottom.aac"></audio>
 
  > There are some tea leaves **at / in the bottom of** the cup.  
  > 杯底有一些茶叶    
+<audio src="./media/There are some tea leaves _AAC.aac"></audio>
 
 ### 2.*高义频：* **［单数］尽头；末端；底层：**  
 
@@ -6635,9 +9167,11 @@ bottled /'bɒtld/ adj
 
  > He is always **at the bottom of** the class.  
  > 他在班上总是倒数第一。    
+<audio src="./media/3-bottom.aac"></audio>
 
  > He **started at the bottom of** the career.   
  > 他从这项事业的最基层干起。    
+<audio src="./media/4-bottom.aac"></audio>
 
 
 固定搭配
@@ -6647,10 +9181,17 @@ bottled /'bɒtld/ adj
 
  > From the bottom of my heart, thank you.   
  > 我从心底里感激你。  （外研⑥ – 3）  
+<audio src="./media/5-bottom.aac"></audio>
 
 
 # ***\#bottom*** adj
-英音 'bɒtəm     美音 'bɑːtəm  
+英音 'bɒtəm  
+英音
+<audio src="./media/bottom-B.aac"></audio>
+美音 'bɑːtəm  
+美音
+<audio src="./media/bottom.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 1 |  
 
@@ -6663,18 +9204,27 @@ bottled /'bɒtld/ adj
 
  > Put your clothes in the **bottom drawer**.   
  > 把你的衣服放在最下面的抽屉里。    
+<audio src="./media/6-bottom.aac"></audio>
 
 ### 2.*高义频：* **最末的；最差的：**  
 
  > I was **bottom of the class** in Spanish.   
  > 我的西班牙语在班上是最差的。    
+<audio src="./media/7-bottom.aac"></audio>
 
  > We **came bottom** with 12 points.   
  > 我们以12分垫底。    
+<audio src="./media/8-bottom.aac"></audio>
 
 
 # ***\#boulevard*** n
-英音 'buːləvɑːd     美音 'buːləvɑːrd  
+英音 'buːləvɑːd  
+英音
+<audio src="./media/boulevard1.aac"></audio>
+美音 'buːləvɑːrd  
+美音
+<audio src="./media/boulevard2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6684,7 +9234,13 @@ bottled /'bɒtld/ adj
 
 
 # ***\#bounce*** v
-英音 baʊns     美音 baʊns  
+英音 baʊns  
+英音
+<audio src="./media/bounce-B.aac"></audio>
+美音 baʊns  
+美音
+<audio src="./media/bounce.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -6694,10 +9250,17 @@ bottled /'bɒtld/ adj
 
  > The children were bouncing a ball.   
  > 孩子们在拍球。    
+<audio src="./media/1-bounce.aac"></audio>
 
 
 # ***\#bounce*** n
-英音 baʊns     美音 baʊns  
+英音 baʊns  
+英音
+<audio src="./media/bounce-B.aac"></audio>
+美音 baʊns  
+美音
+<audio src="./media/bounce.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6707,7 +9270,13 @@ bottled /'bɒtld/ adj
 
 
 # ***\#bound*** adj
-英音 baʊnd     美音 baʊnd  
+英音 baʊnd  
+英音
+<audio src="./media/bound-B.aac"></audio>
+美音 baʊnd  
+美音
+<audio src="./media/bound.aac"></audio>
+
 
 | 词频 2 | 口语 2 | 书面 1 |  
 
@@ -6722,6 +9291,7 @@ bottled /'bɒtld/ adj
 
  > You’ve done so much work that you’re bound to pass the exam.  
  > 你下了这么大功夫，一定能考及格。    
+<audio src="./media/1-bound.aac"></audio>
 
 ### 2.*低义频：* **准备 / 正在到...去的；(车、船等) 开往...的：**  
 
@@ -6732,10 +9302,17 @@ bottled /'bɒtld/ adj
 
  > The train is bound for Shanghai.   
  > 这列火车开往上海。    
+<audio src="./media/3-bound.aac"></audio>
 
 
 # ***\#bound*** vi
-英音 baʊnd     美音 baʊnd  
+英音 baʊnd  
+英音
+<audio src="./media/bound-B.aac"></audio>
+美音 baʊnd  
+美音
+<audio src="./media/bound.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -6745,10 +9322,17 @@ bottled /'bɒtld/ adj
 
  > Polly came bounding into the room holding a letter.  
  > 波利拿着一封信蹦蹦跳跳地进入了房间。    
+<audio src="./media/Bound-101_AAC.aac"></audio>
 
 
 # ***\#bound*** n
-英音 baʊnd     美音 baʊnd  
+英音 baʊnd  
+英音
+<audio src="./media/bound-B.aac"></audio>
+美音 baʊnd  
+美音
+<audio src="./media/bound.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -6763,10 +9347,17 @@ bottled /'bɒtld/ adj
 
  > Julie’s reading is improving **in leaps and bounds**.   
  > 朱莉的阅读能力提高得很快。    
+<audio src="./media/6-bound.aac"></audio>
 
 
 # ***\#boundary*** n
-英音 'baʊndri     美音 'baʊndri  
+英音 'baʊndri  
+英音
+<audio src="./media/boundary-B.aac"></audio>
+美音 'baʊndri  
+美音
+<audio src="./media/boundary.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6781,7 +9372,13 @@ bottled /'bɒtld/ adj
 
 
 # ***\#bow*** v
-英音 baʊ     美音 baʊ  
+英音 baʊ  
+英音
+<audio src="./media/bow-B.aac"></audio>
+美音 baʊ  
+美音
+<audio src="./media/bow.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -6791,13 +9388,20 @@ bottled /'bɒtld/ adj
 
  > In Japan, the more respect you want to show, the deeper you should bow.  
  > 在日本，你越想表示尊敬，越要深鞠躬。  （2012 安徽改）  
+<audio src="./media/In Japan_AAC.aac"></audio>
 
  > bow one’s head  
  > 低头    
 
 
 # ***\#bow*** n
-英音 baʊ     美音 baʊ  
+英音 baʊ  
+英音
+<audio src="./media/bow-B.aac"></audio>
+美音 baʊ  
+美音
+<audio src="./media/bow.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -6809,18 +9413,27 @@ bottled /'bɒtld/ adj
 
  > He moved aside for her with a polite bow.   
  > 他礼貌地躬身给她让道。    
+<audio src="./media/3-bow.aac"></audio>
 
 ### 2.*高义频：* **/bəʊ/ 弓；弓形物；蝴蝶结：**  
 
  > A violin is played with a bow.   
  > 小提琴是用弓拉的。    
+<audio src="./media/4-bow.aac"></audio>
 
  > Ella wore a bow in her hair.   
  > 埃拉头上戴着一个蝴蝶结。    
+<audio src="./media/5-bow.aac"></audio>
 
 
 # ***\#bowl*** n
-英音 bəʊl     美音 boʊl  
+英音 bəʊl  
+英音
+<audio src="./media/bowl-B.aac"></audio>
+美音 boʊl  
+美音
+<audio src="./media/bowl.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 1 |  
 
@@ -6832,7 +9445,13 @@ bottled /'bɒtld/ adj
 
 
 # ***\#bowling*** n
-英音 'bəʊlɪŋ     美音 'boʊlɪŋ  
+英音 'bəʊlɪŋ  
+英音
+<audio src="./media/bowling-B.aac"></audio>
+美音 'boʊlɪŋ  
+美音
+<audio src="./media/bowling.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6847,7 +9466,13 @@ bottled /'bɒtld/ adj
 
 
 # ***\#box*** n
-英音 bɒks     美音 bɑːks  
+英音 bɒks  
+英音
+<audio src="./media/box-B.aac"></audio>
+美音 bɑːks  
+美音
+<audio src="./media/box.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -6870,7 +9495,13 @@ bottled /'bɒtld/ adj
 
 
 # ***\#boxer*** n
-英音 'bɒksə(r)     美音 'bɑːksər  
+英音 'bɒksə(r)  
+英音
+<audio src="./media/boxer1.aac"></audio>
+美音 'bɑːksər  
+美音
+<audio src="./media/boxer2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6880,7 +9511,13 @@ bottled /'bɒtld/ adj
 
 
 # ***\#boxing*** n
-英音 'bɒksɪŋ     美音 'bɑːksɪŋ  
+英音 'bɒksɪŋ  
+英音
+<audio src="./media/boxing-B.aac"></audio>
+美音 'bɑːksɪŋ  
+美音
+<audio src="./media/boxing.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6892,7 +9529,13 @@ bottled /'bɒtld/ adj
 
 
 # ***\#boy*** n
-英音 bɔɪ     美音 bɔɪ  
+英音 bɔɪ  
+英音
+<audio src="./media/boy-B.aac"></audio>
+美音 bɔɪ  
+美音
+<audio src="./media/boy.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -6909,7 +9552,13 @@ bottled /'bɒtld/ adj
 
 
 # ***\#boy*** int
-英音 bɔɪ     美音 bɔɪ  
+英音 bɔɪ  
+英音
+<audio src="./media/boy-B.aac"></audio>
+美音 bɔɪ  
+美音
+<audio src="./media/boy.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -6919,15 +9568,23 @@ bottled /'bɒtld/ adj
 
  > Oh boy! That’s great!   
  > 哦好家伙！那太棒了！    
+<audio src="./media/1-boy.aac"></audio>
 
 ### 2.*高义频：* **哎：**  
 
  > Oh boy! Betty’s sick again.   
  > 哎！贝蒂又病了。    
+<audio src="./media/2-boy.aac"></audio>
 
 
 # ***\#boycott*** vt
-英音 'bɔɪkɒt     美音 'bɔɪkɑːt  
+英音 'bɔɪkɒt  
+英音
+<audio src="./media/boycott-B.aac"></audio>
+美音 'bɔɪkɑːt  
+美音
+<audio src="./media/boycott.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6937,10 +9594,17 @@ bottled /'bɒtld/ adj
 
  > We boycott all products tested on animals.   
  > 我们抵制所有拿动物做试验的产品。    
+<audio src="./media/1-boycott.aac"></audio>
 
 
 # ***\#boycott*** n
-英音 'bɔɪkɒt     美音 'bɔɪkɑːt  
+英音 'bɔɪkɒt  
+英音
+<audio src="./media/boycott-B.aac"></audio>
+美音 'bɔɪkɑːt  
+美音
+<audio src="./media/boycott.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6950,7 +9614,13 @@ bottled /'bɒtld/ adj
 
 
 # ***\#boyfriend*** n
-英音 'bɔɪfrend     美音 'bɔɪfrend  
+英音 'bɔɪfrend  
+英音
+<audio src="./media/boyfriend-B.aac"></audio>
+美音 'bɔɪfrend  
+美音
+<audio src="./media/boyfriend.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -6960,7 +9630,13 @@ bottled /'bɒtld/ adj
 
 
 # ***\#boyhood*** n
-英音 'bɔɪhʊd     美音 'bɔɪhʊd  
+英音 'bɔɪhʊd  
+英音
+<audio src="./media/boyhood-B.aac"></audio>
+美音 'bɔɪhʊd  
+美音
+<audio src="./media/boyhood.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6972,7 +9648,13 @@ bottled /'bɒtld/ adj
 
 
 # ***\#brain*** n
-英音 breɪn     美音 breɪn  
+英音 breɪn  
+英音
+<audio src="./media/brain-B.aac"></audio>
+美音 breɪn  
+美音
+<audio src="./media/brain.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 2 |  
 
@@ -6982,23 +9664,33 @@ bottled /'bɒtld/ adj
 
  > The left half of the brain controls the right side of the body.   
  > 左脑支配身体的右半部。    
+<audio src="./media/1-brain.aac"></audio>
 
 ### 2.*低义频：* **头脑；智力；智慧：**  
 
  > The job requires brains.  
  > 这工作需要动脑筋。    
+<audio src="./media/Brain-101_AAC.aac"></audio>
 
  > Teachers spotted that he had a good brain at an early age.   
  > 老师们发现他从小就很聪明。    
+<audio src="./media/4-brain.aac"></audio>
 
 ### 3.*低义频：* **聪明的人；智囊：**  
 
  > Some of the best brains in our company are here tonight.   
  > 今晚我们公司的一些智囊人物云集于此。    
+<audio src="./media/5-brain.aac"></audio>
 
 
 # ***\#brainstorm*** v
-英音 ˈbreɪnstɔːm     美音 ˈbreɪnstɔːrm  
+英音 ˈbreɪnstɔːm  
+英音
+<audio src="./media/brainstorm1_AAC.aac"></audio>
+美音 ˈbreɪnstɔːrm  
+美音
+<audio src="./media/brainstorm2_AAC.aac"></audio>
+
 
   
 
@@ -7008,7 +9700,13 @@ bottled /'bɒtld/ adj
 
 
 # ***\#brainstorm*** n
-英音 ˈbreɪnstɔːm     美音 ˈbreɪnstɔːrm  
+英音 ˈbreɪnstɔːm  
+英音
+<audio src="./media/brainstorm1_AAC.aac"></audio>
+美音 ˈbreɪnstɔːrm  
+美音
+<audio src="./media/brainstorm2_AAC.aac"></audio>
+
 
   
 
@@ -7018,7 +9716,13 @@ bottled /'bɒtld/ adj
 
 
 # ***\#brake*** n
-英音 breɪk     美音 breɪk  
+英音 breɪk  
+英音
+<audio src="./media/brake-B.aac"></audio>
+美音 breɪk  
+美音
+<audio src="./media/brake.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -7036,7 +9740,13 @@ bottled /'bɒtld/ adj
 
 
 # ***\#brake*** v
-英音 breɪk     美音 breɪk  
+英音 breɪk  
+英音
+<audio src="./media/brake-B.aac"></audio>
+美音 breɪk  
+美音
+<audio src="./media/brake.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -7048,10 +9758,17 @@ bottled /'bɒtld/ adj
 
  > The driver **braked** (the bus) **sharply** / **hard**.  
  > (公共汽车)司机突然急刹车。    
+<audio src="./media/brake17.aac"></audio>
 
 
 # ***\#branch*** n
-英音 brɑːntʃ     美音 bræntʃ  
+英音 brɑːntʃ  
+英音
+<audio src="./media/branch-B.aac"></audio>
+美音 bræntʃ  
+美音
+<audio src="./media/branch.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
 
@@ -7071,9 +9788,11 @@ bottled /'bɒtld/ adj
 
  > Today the organisation has branches in 90 countries in all five continents.   
  > 今天该组织在五大洲的90个国家都设有分支机构。  （外研⑤ – 6）  
+<audio src="./media/1-branch.aac"></audio>
 
  > English is a branch of the Germanic family of languages.   
  > 英语是日耳曼语系的一支。    
+<audio src="./media/2-branch.aac"></audio>
 
  > a branch of the Rhine  
  > 莱茵河的支流    
@@ -7088,7 +9807,13 @@ bottled /'bɒtld/ adj
 1. branches  
 
 # ***\#brand*** n
-英音 brænd     美音 brænd  
+英音 brænd  
+英音
+<audio src="./media/brand-B.aac"></audio>
+美音 brænd  
+美音
+<audio src="./media/brand.aac"></audio>
+
 
 | 词频 3 | 阅读 2 |  
 
@@ -7103,10 +9828,17 @@ bottled /'bɒtld/ adj
 
  > Being the cautious type, I fancied a reliable brand.   
  > 作为一个谨慎的人，我喜欢可靠的品牌。  （2010 浙江）  
+<audio src="./media/1-brand.aac"></audio>
 
 
 # ***\#brand-new*** adj
-英音 ˌbrænd'njuː     美音 ˌbrænd'nuː  
+英音 ˌbrænd'njuː  
+英音
+<audio src="./media/brand-new-B.aac"></audio>
+美音 ˌbrænd'nuː  
+美音
+<audio src="./media/brand-new.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7119,7 +9851,13 @@ bottled /'bɒtld/ adj
 
 
 # ***\#brass*** n
-英音 brɑːs     美音 bræs  
+英音 brɑːs  
+英音
+<audio src="./media/brass-B.aac"></audio>
+美音 bræs  
+美音
+<audio src="./media/brass.aac"></audio>
+
 
 | 阅读 1 |  
 
@@ -7131,7 +9869,13 @@ bottled /'bɒtld/ adj
 
 
 # ***\#brave*** adj
-英音 breɪv     美音 breɪv  
+英音 breɪv  
+英音
+<audio src="./media/brave-B.aac"></audio>
+美音 breɪv  
+美音
+<audio src="./media/brave.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -7144,6 +9888,7 @@ bottled /'bɒtld/ adj
 
  > **It was brave of** you **to** speak in front of all those people.   
  > 能在那些人面前讲话，你很勇敢。    
+<audio src="./media/1-brave.aac"></audio>
 
 
 派生词汇
@@ -7158,7 +9903,13 @@ bravely   /'breɪvli/ adv
 1. brave  
 
 # ***\#brave*** vt
-英音 breɪv     美音 breɪv  
+英音 breɪv  
+英音
+<audio src="./media/brave-B.aac"></audio>
+美音 breɪv  
+美音
+<audio src="./media/brave.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -7168,10 +9919,17 @@ bravely   /'breɪvli/ adv
 
  > Thousands braved the rain to attend the flag-raising ceremony (= attended the flag-raising ceremony even though it’s raining).  
  > 数千人冒雨参加了这次升旗仪式。    
+<audio src="./media/Brave-101_AAC.aac"></audio>
 
 
 # ***\#bravery*** n
-英音 'breɪvəri     美音 'breɪvəri  
+英音 'breɪvəri  
+英音
+<audio src="./media/bravery-B.aac"></audio>
+美音 'breɪvəri  
+美音
+<audio src="./media/bravery.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7183,10 +9941,17 @@ bravely   /'breɪvli/ adv
 
  > The man of true bravery is not frightened by death.  
  > 真正的勇士是不畏惧死亡的。    
+<audio src="./media/2-bravery.aac"></audio>
 
 
 # ***\#bread*** n
-英音 bred     美音 bred  
+英音 bred  
+英音
+<audio src="./media/bread-B.aac"></audio>
+美音 bred  
+美音
+<audio src="./media/bread.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -7213,7 +9978,13 @@ bravely   /'breɪvli/ adv
 
 
 # ***\#breadth*** n
-英音 bredθ     美音 bredθ  
+英音 bredθ  
+英音
+<audio src="./media/breadth1_AAC.aac"></audio>
+美音 bredθ  
+美音
+<audio src="./media/breadth2_AAC.aac"></audio>
+
 
   
 
@@ -7223,7 +9994,13 @@ bravely   /'breɪvli/ adv
 
 
 # ***\#break*** v  重难点词汇
-英音 breɪk     美音 breɪk  
+英音 breɪk  
+英音
+<audio src="./media/break-B.aac"></audio>
+美音 breɪk  
+美音
+<audio src="./media/break.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -7238,20 +10015,25 @@ bravely   /'breɪvli/ adv
 
  > The plate dropped and **broke into pieces**.  
  > 盘子掉下来摔碎了。    
+<audio src="./media/Break-101_AAC.aac"></audio>
 
  > His words deeply broke her heart.   
  > 他的话很使她伤心。    
+<audio src="./media/2-break.aac"></audio>
 
  > The boy fell off the tree and broke his leg.  
  > 那男孩从树上跌下摔断了腿。    
+<audio src="./media/3-break.aac"></audio>
 
 ### 2.*高义频：* **(使) 坏掉；损坏：**  
 
  > I think we’ve broken the washing machine.   
  > 我认为我们把洗衣机弄坏了。    
+<audio src="./media/4-break.aac"></audio>
 
  > My watch has broken.   
  > 我的手表坏了。    
+<audio src="./media/5-break.aac"></audio>
 
 ### 3.*高义频：* **违反；违背：**  
 
@@ -7265,9 +10047,11 @@ bravely   /'breɪvli/ adv
 
  > We **broke our journey** in Oxford (= stopped in Oxford on the way to the place we were going to).   
  > 旅途中我们在牛津稍作停顿。    
+<audio src="./media/6-break.aac"></audio>
 
  > Shall we **break for** lunch now?   
  > 我们停下来吃午饭好吗？    
+<audio src="./media/7-break.aac"></audio>
 
 ### 5.*低义频：* **打断；中止；结束：**  
 
@@ -7276,9 +10060,11 @@ bravely   /'breɪvli/ adv
 
  > I broke their conversation.   
  > 我打断了他们的谈话。    
+<audio src="./media/8-break.aac"></audio>
 
  > He broke all ties with his parents.   
  > 他断绝了与父母的一切联系。    
+<audio src="./media/9-break.aac"></audio>
 
 ### 6.*高义频：* **放弃 (习惯)：**  
 
@@ -7289,22 +10075,27 @@ bravely   /'breɪvli/ adv
 
  > He finally managed to break free from his attacker.   
  > 他最终设法逃脱了攻击者。    
+<audio src="./media/10-break.aac"></audio>
 
 ### 8.*低义频：* **(使) 垮掉；(使) 崩溃：**  
 
  > Losing his bussiness nearly broke him.   
  > 生意亏本几乎将他击垮。    
+<audio src="./media/11-break.aac"></audio>
 
  > His spirit never broke throughout the hardship.   
  > 历经苦难，他的精神不垮。    
+<audio src="./media/12-break.aac"></audio>
 
 ### 9.*低义频：* **破晓；(天气) 突变：**  
 
  > Dawn is breaking.   
  > 天将破晓。    
+<audio src="./media/13-break.aac"></audio>
 
  > No sooner had we set out than a thunderstorm broke.   
  > 我们刚动身突然雷雨大作。    
+<audio src="./media/14-break.aac"></audio>
 
 
 固定搭配
@@ -7314,56 +10105,68 @@ bravely   /'breɪvli/ adv
 
  > When Abraham Lincoln was elected President, the southern states broke away and formed a new nation.   
  > 当亚伯拉罕·林肯当选为总统时，南部州脱离出去，成立了一个新的国家。    
+<audio src="./media/P61 break away from.aac"></audio>
 
  > He decided to break away from home after graduation.   
  > 毕业后，他决定离开家。    
+<audio src="./media/15-break.aac"></audio>
 
  > He grabbed her, but she managed to break away from him.  
  > 他抓住了她，可她设法挣脱了。    
+<audio src="./media/Break-102_AAC.aac"></audio>
 
 ## \#break down
 1.*高义频：* **（机器等）出故障；（身体等）垮掉；（情感等）失控：**  
 
  > On my way to the station my car broke down.   
  > 去车站的路上，我的车坏了。  （人教⑤ – 2）  
+<audio src="./media/17-break.aac"></audio>
 
  > Her health broke down under the pressure of work.  
  > 她的身体在工作压力下垮掉了。    
+<audio src="./media/18-break.aac"></audio>
 
  > He broke down as he thought of his failure to sell all his newspapers.  
  > 想到没卖掉所有的报纸，他禁不住哭了起来。  （2015 湖北）  
+<audio src="./media/Break-103_AAC.aac"></audio>
 
 2.*高义频：* **(谈判等) 失败：**  
 
  > Talks between the two sides have broken down.   
  > 双方的谈判破裂了。    
+<audio src="./media/19-break.aac"></audio>
 
 3.*高义频：* **把…分若干部分 (以方便做或理解)：**  
 
  > Each lesson is broken down into several units.   
  > 每一课都分成几部分。    
+<audio src="./media/20-break.aac"></audio>
 
 4.*低义频：* **打破；消除：**  
 
  > Getting young people together will help to **break down** the **barriers** between them.  
  > 把年轻人聚集起来可以帮助他们消除彼此之间的隔阂。    
+<audio src="./media/break-Getting young people together will help.aac"></audio>
 
 ## \#break in
 1.*低义频：* **打断；插嘴：**  
 
  > “I didn’t do it!” she broke in.  
  > 她插嘴说：“我没干那事！”    
+<audio src="./media/21-break.aac"></audio>
 
 2.*高义频：* **破门而入(break into)：**  
 
  > Burglars had broken in when we were away.   
  > 我们外出的时候，窃贼闯进了家中。    
+<audio src="./media/22-break.aac"></audio>
 
 ## \#break into
 1.*高义频：* **破门而入 (break in)：**  
 
  > His house was broken into last night.  
  > 昨晚有人闯入他的房子。    
+<audio src="./media/23-break.aac"></audio>
 
 2.*低义频：* **突然...起来：**  
 
@@ -7375,47 +10178,58 @@ bravely   /'breɪvli/ adv
 
  > He broke off speaking to answer the telephone.   
  > 他中断了谈话去接电话。    
+<audio src="./media/24-break.aac"></audio>
 
  > The back part of the plane broke off.   
  > 飞机的后部折断了。    
+<audio src="./media/25-break.aac"></audio>
 
  > Wesley broke off with his girlfriend.   
  > 卫斯理和他的女朋友断绝了关系。    
+<audio src="./media/26-break.aac"></audio>
 
 ## \#break out 
 1.**(火灾、战争等) 突然爆发：**  
 
  > Does everyone know what to do if a fire breaks out?  
  > 大家都知道发生火灾时该怎么办吗？    
+<audio src="./media/27-break.aac"></audio>
 
  > When World War I broke out, he seemed to have become another man, downhearted.  
  > 第一次世界大战爆发时，他似乎变成了另一个人，变得非常消沉。  （2009 湖北）  
+<audio src="./media/28-break.aac"></audio>
 
 ## \#break through 
 1.**冲破；突破：**  
 
  > The sun broke through at around lunchtime.  
  > 午饭时分，太阳破云而出。    
+<audio src="./media/29-break.aac"></audio>
 
  > Our soldiers quickly broke through the enemy’s defence works.   
  > 我军战士很快突破了敌军的防御工事。    
+<audio src="./media/30-break.aac"></audio>
 
 ## \#break up
 1.*高义频：* **(使) 破碎：**  
 
  > The water was covered with ice, which could sometimes break up without warning.  
  > 水面上覆盖着冰，这些冰有时会突然破碎。  （2016 北京）  
+<audio src="./media/break55.aac"></audio>
 
 2.*高义频：* **(使) (关系等) 破裂：**  
 
  > I'm surprised to hear that Sue and Paul have broken up.  
  > 听到苏和保罗分手了我很惊讶。  （2009 江苏）  
+<audio src="./media/Break-104_AAC.aac"></audio>
 
  > They decided to break up the partnership.   
  > 他们决定结束合作关系。    
+<audio src="./media/33-break.aac"></audio>
 
  > The band broke up (in) about 1970, but happily they reunited in the mid-1980s.  
  > 乐队在1970年前后解散了，但幸运的是，到20世纪80年代中期他们又组合起来。  （人教② – 5 改）  
+<audio src="./media/The band broke up _AAC.aac"></audio>
 
 3.*高义频：* **分解；分拆：**  
 
@@ -7426,6 +10240,7 @@ bravely   /'breɪvli/ adv
 
  > The police came running and broke up the crowd.  
  > 警察跑过来把人群驱散了。    
+<audio src="./media/34-break.aac"></audio>
 
 
 真题解析
@@ -7438,7 +10253,13 @@ bravely   /'breɪvli/ adv
 1. down  2. down  3. out  
 
 # ***\#break*** n  重难点词汇
-英音 breɪk     美音 breɪk  
+英音 breɪk  
+英音
+<audio src="./media/break-B.aac"></audio>
+美音 breɪk  
+美音
+<audio src="./media/break.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 2 |  
 
@@ -7454,6 +10275,7 @@ bravely   /'breɪvli/ adv
 
  > More news after the break.   
  > 广告之后继续报道新闻。    
+<audio src="./media/37-break.aac"></audio>
 
 ### 2.*高义频：* **短暂的假期；休假：**  
 
@@ -7464,6 +10286,7 @@ bravely   /'breɪvli/ adv
 
  > The sun shone through a break in the clouds.   
  > 阳光透过云层的缝隙照下来。    
+<audio src="./media/38-break.aac"></audio>
 
 ### 4.*高义频：* **天亮；拂晓：**  
 
@@ -7472,7 +10295,13 @@ bravely   /'breɪvli/ adv
 
 
 # ***\#break*** vt  重难点词汇
-英音 breɪk     美音 breɪk  
+英音 breɪk  
+英音
+<audio src="./media/break-B.aac"></audio>
+美音 breɪk  
+美音
+<audio src="./media/break.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -7482,6 +10311,10 @@ bravely   /'breɪvli/ adv
 
 
 # ***\#break-in*** n
+英音
+<audio src="./media/break in1_AAC.aac"></audio>
+美音
+<audio src="./media/break-in2_AAC.aac"></audio>
 
 
   
@@ -7492,7 +10325,13 @@ bravely   /'breɪvli/ adv
 
 
 # ***\#breakdance*** n
-英音 b'reɪkdæns     美音 b'reɪkdæns  
+英音 b'reɪkdæns  
+英音
+<audio src="./media/breakdance1.aac"></audio>
+美音 b'reɪkdæns  
+美音
+<audio src="./media/breakdance2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7502,7 +10341,13 @@ bravely   /'breɪvli/ adv
 
 
 # ***\#breakdown*** n
-英音 'breɪkdaʊn     美音 'breɪkdaʊn  
+英音 'breɪkdaʊn  
+英音
+<audio src="./media/breakdown1.aac"></audio>
+美音 'breɪkdaʊn  
+美音
+<audio src="./media/breakdown2.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -7512,7 +10357,13 @@ bravely   /'breɪvli/ adv
 
 
 # ***\#breakfast*** n
-英音 'brekfəst     美音 'brekfəst  
+英音 'brekfəst  
+英音
+<audio src="./media/breakfast-B.aac"></audio>
+美音 'brekfəst  
+美音
+<audio src="./media/breakfast.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -7530,10 +10381,17 @@ bravely   /'breɪvli/ adv
 
  > She likes eggs **for breakfast**.   
  > 她早餐喜欢吃鸡蛋。    
+<audio src="./media/1-breakfast.aac"></audio>
 
 
 # ***\#breakthrough*** n
-英音 'breɪkθruː     美音 'breɪkθruː  
+英音 'breɪkθruː  
+英音
+<audio src="./media/breakthrough-B.aac"></audio>
+美音 'breɪkθruː  
+美音
+<audio src="./media/breakthrough.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -7548,7 +10406,13 @@ bravely   /'breɪvli/ adv
 
 
 # ***\#breakthrough*** adj
-英音 'breɪkθruː     美音 'breɪkθruː  
+英音 'breɪkθruː  
+英音
+<audio src="./media/breakthrough-B.aac"></audio>
+美音 'breɪkθruː  
+美音
+<audio src="./media/breakthrough.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -7558,7 +10422,13 @@ bravely   /'breɪvli/ adv
 
 
 # ***\#breast*** n
-英音 brest     美音 brest  
+英音 brest  
+英音
+<audio src="./media/breast-B.aac"></audio>
+美音 brest  
+美音
+<audio src="./media/breast.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -7570,7 +10440,13 @@ bravely   /'breɪvli/ adv
 
 
 # ***\#breath*** n
-英音 breθ     美音 breθ  
+英音 breθ  
+英音
+<audio src="./media/breath-B.aac"></audio>
+美音 breθ  
+美音
+<audio src="./media/breath.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -7600,6 +10476,7 @@ bravely   /'breɪvli/ adv
 
  > Reaching the top of the tower, he was out of breath.  
  > 到了塔顶他就上气不接下气了。    
+<audio src="./media/1-breath.aac"></audio>
 
 
 真题解析
@@ -7611,7 +10488,13 @@ bravely   /'breɪvli/ adv
 1. breath  2. breath  
 
 # ***\#breathe*** v
-英音 briːð     美音 briːð  
+英音 briːð  
+英音
+<audio src="./media/breathe-B.aac"></audio>
+美音 briːð  
+美音
+<audio src="./media/breathe.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 |  
 
@@ -7623,9 +10506,11 @@ bravely   /'breɪvli/ adv
 
  > When we breathe, the air goes into our lungs.  
  > 吸气时，空气就进入了我们的肺部。  （ 外研② – 1）  
+<audio src="./media/1-breathe.aac"></audio>
 
  > People are concerned about the air quality they breathe.  
  > 人们很担心他们所呼吸的空气的质量。    
+<audio src="./media/Breathe-101_AAC.aac"></audio>
 
 
 固定搭配
@@ -7635,15 +10520,18 @@ bravely   /'breɪvli/ adv
 
  > Breathe in and hold your breath for as long as possible.   
  > 吸气，并尽可能长时间地屏住呼吸。    
+<audio src="./media/3-breathe.aac"></audio>
 
 ## \#breathe out 
 1.**呼气；呼出：**  
 
  > Take a deep breath and then breathe out when I tell you to.  
  > 深深吸口气，我告诉你时再呼气。    
+<audio src="./media/Breathe-102_AAC.aac"></audio>
 
  > Humans take in oxygen and breathe out carbon dioxide.   
  > 人吸入氧气，呼出二氧化碳。    
+<audio src="./media/5-breathe.aac"></audio>
 
 
 派生词汇
@@ -7658,7 +10546,13 @@ breathing  /'briːðɪŋ/ n [U]
 1. breathing  
 
 # ***\#breathless*** adj
-英音 'breθləs     美音 'breθləs  
+英音 'breθləs  
+英音
+<audio src="./media/breathless-B.aac"></audio>
+美音 'breθləs  
+美音
+<audio src="./media/breathless.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7668,6 +10562,7 @@ breathing  /'briːðɪŋ/ n [U]
 
  > I was breathless after climbing the stairs.   
  > 爬上楼梯后我气喘吁吁。    
+<audio src="./media/1-breathless.aac"></audio>
 
 
 派生词汇
@@ -7675,7 +10570,13 @@ breathing  /'briːðɪŋ/ n [U]
 breathlessly /'breθləsli/ adv   
 
 # ***\#breathtaking*** adj
-英音 'breθteɪkɪŋ     美音 'breθteɪkɪŋ  
+英音 'breθteɪkɪŋ  
+英音
+<audio src="./media/breathtaking1_AAC.aac"></audio>
+美音 'breθteɪkɪŋ  
+美音
+<audio src="./media/breathtaking2_AAC.aac"></audio>
+
 
   
 
@@ -7685,7 +10586,13 @@ breathlessly /'breθləsli/ adv
 
 
 # ***\#breed*** v
-英音 briːd     美音 briːd  
+英音 briːd  
+英音
+<audio src="./media/breed-B.aac"></audio>
+美音 briːd  
+美音
+<audio src="./media/breed.aac"></audio>
+
 
 | 词频 3 | 口语 1 |  
 
@@ -7697,6 +10604,7 @@ breathlessly /'breθləsli/ adv
 
  > Rabbits breed quickly.   
  > 兔子繁殖很快。    
+<audio src="./media/1-breed.aac"></audio>
 
 ### 2.*高义频：* **饲养；培育：**  
 
@@ -7705,10 +10613,17 @@ breathlessly /'breθləsli/ adv
 
  > He was bred to be a doctor.   
  > 他被培养成了一名医生。    
+<audio src="./media/2-breed.aac"></audio>
 
 
 # ***\#breed*** n
-英音 briːd     美音 briːd  
+英音 briːd  
+英音
+<audio src="./media/breed-B.aac"></audio>
+美音 briːd  
+美音
+<audio src="./media/breed.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -7724,7 +10639,13 @@ breathlessly /'breθləsli/ adv
 breeding /'briːdɪŋ/ n [U]  
 
 # ***\#breeding*** n
-英音 'briːdɪŋ     美音 'briːdɪŋ  
+英音 'briːdɪŋ  
+英音
+<audio src="./media/breeding1.aac"></audio>
+美音 'briːdɪŋ  
+美音
+<audio src="./media/breeding2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -7734,7 +10655,13 @@ breeding /'briːdɪŋ/ n [U]
 
 
 # ***\#breeze*** n
-英音 briːz     美音 briːz  
+英音 briːz  
+英音
+<audio src="./media/breeze-B.aac"></audio>
+美音 briːz  
+美音
+<audio src="./media/breeze.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7749,10 +10676,17 @@ breeding /'briːdɪŋ/ n [U]
 
  > Studying **was a breeze** for Nigel.   
  > 对于尼格尔来说学习是小菜一碟。  （2008 江西）  
+<audio src="./media/1-breeze.aac"></audio>
 
 
 # ***\#brewery*** n
-英音 'bruːəri     美音 'bruːəri  
+英音 'bruːəri  
+英音
+<audio src="./media/brewery-B.aac"></audio>
+美音 'bruːəri  
+美音
+<audio src="./media/brewery.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7764,7 +10698,13 @@ breeding /'briːdɪŋ/ n [U]
 
 
 # ***\#brick*** n
-英音 brɪk     美音 brɪk  
+英音 brɪk  
+英音
+<audio src="./media/brick-B.aac"></audio>
+美音 brɪk  
+美音
+<audio src="./media/brick.aac"></audio>
+
 
 | 词频 2 | 口语 2 | 书面 1 |  
 
@@ -7776,7 +10716,13 @@ breeding /'briːdɪŋ/ n [U]
 
 
 # ***\#bridal*** adj
-英音 ˈbraɪdl     美音 ˈbraɪdl  
+英音 ˈbraɪdl  
+英音
+<audio src="./media/bridal1_AAC.aac"></audio>
+美音 ˈbraɪdl  
+美音
+<audio src="./media/bridal2_AAC.aac"></audio>
+
 
   
 
@@ -7786,7 +10732,13 @@ breeding /'briːdɪŋ/ n [U]
 
 
 # ***\#bride*** n
-英音 braɪd     美音 braɪd  
+英音 braɪd  
+英音
+<audio src="./media/bride-B.aac"></audio>
+美音 braɪd  
+美音
+<audio src="./media/bride.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -7798,7 +10750,13 @@ breeding /'briːdɪŋ/ n [U]
 
 
 # ***\#bridegroom*** n
-英音 'braɪdɡruːm     美音 'braɪdɡruːm  
+英音 'braɪdɡruːm  
+英音
+<audio src="./media/bridegroom-B.aac"></audio>
+美音 'braɪdɡruːm  
+美音
+<audio src="./media/bridegroom.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7810,7 +10768,13 @@ breeding /'briːdɪŋ/ n [U]
 
 
 # ***\#bridesmaid*** n
-英音 ˈbraɪdzmeɪd     美音 ˈbraɪdzmeɪd  
+英音 ˈbraɪdzmeɪd  
+英音
+<audio src="./media/bridesmaid1_AAC.aac"></audio>
+美音 ˈbraɪdzmeɪd  
+美音
+<audio src="./media/bridesmaid2_AAC.aac"></audio>
+
 
   
 
@@ -7820,7 +10784,13 @@ breeding /'briːdɪŋ/ n [U]
 
 
 # ***\#bridge*** n
-英音 brɪdʒ     美音 brɪdʒ  
+英音 brɪdʒ  
+英音
+<audio src="./media/bridge-B.aac"></audio>
+美音 brɪdʒ  
+美音
+<audio src="./media/bridge.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -7843,7 +10813,13 @@ breeding /'briːdɪŋ/ n [U]
 
 
 # ***\#bridge*** vt
-英音 brɪdʒ     美音 brɪdʒ  
+英音 brɪdʒ  
+英音
+<audio src="./media/bridge-B.aac"></audio>
+美音 brɪdʒ  
+美音
+<audio src="./media/bridge.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -7853,10 +10829,17 @@ breeding /'briːdɪŋ/ n [U]
 
  > A snack in the afternoon **bridges the gap between** lunch **and** supper.  
  > 在午餐和晚餐之间，下午吃些点心补充一下。    
+<audio src="./media/1-bridge.aac"></audio>
 
 
 # ***\#brief*** adj
-英音 briːf     美音 briːf  
+英音 briːf  
+英音
+<audio src="./media/brief-B.aac"></audio>
+美音 briːf  
+美音
+<audio src="./media/brief.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 2 | 阅读 3 |  
 
@@ -7869,6 +10852,7 @@ breeding /'briːdɪŋ/ n [U]
 
  > We’re running out of time, so let’s **be brief**.  
  > 我们时间不多了，所以长话短说吧。    
+<audio src="./media/1-brief.aac"></audio>
 
 
 固定搭配
@@ -7878,6 +10862,7 @@ breeding /'briːdɪŋ/ n [U]
 
  > His success was a long story, but in brief, he succeeded after many failures.  
  > 他的成功说来话长。但简单地说，经历多次失败后，他成功了。    
+<audio src="./media/2-brief.aac"></audio>
 
 
 派生词汇
@@ -7885,7 +10870,13 @@ breeding /'briːdɪŋ/ n [U]
 briefly /'briːfli/ adv   
 
 # ***\#briefly*** adv
-英音 'briːfli     美音 'briːfli  
+英音 'briːfli  
+英音
+<audio src="./media/briefly-B.aac"></audio>
+美音 'briːfli  
+美音
+<audio src="./media/briefly.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 1 |  
 
@@ -7895,7 +10886,13 @@ briefly /'briːfli/ adv
 
 
 # ***\#bright*** adj
-英音 braɪt     美音 braɪt  
+英音 braɪt  
+英音
+<audio src="./media/bright-B.aac"></audio>
+美音 braɪt  
+美音
+<audio src="./media/bright.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -7908,26 +10905,31 @@ briefly /'briːfli/ adv
 
  > The weather is bright and sunny.   
  > 天气晴朗，阳光明媚。    
+<audio src="./media/1-bright.aac"></audio>
 
 ### 2.*高义频：* **(颜色) 鲜艳的；鲜亮的：**  
 
  > I never wear bright colours.   
  > 我从来不穿鲜艳的衣服。    
+<audio src="./media/2-bright.aac"></audio>
 
 ### 3.*高义频：* **欢快的；生气勃勃的：**  
 
  > Her face was **bright with** happiness.   
  > 她的脸上洋溢着幸福的笑容。    
+<audio src="./media/3-bright.aac"></audio>
 
 ### 4.*高义频：* **聪明的；伶俐的：**  
 
  > He was bright and curious about the world outside his hometown.   
  > 他天资聪颖，对家乡以外的世界很好奇。  （译林② – 3）  
+<audio src="./media/4-bright.aac"></audio>
 
 ### 5.*低义频：* **(前途) 光明的 (promising)：**  
 
  > You **have a bright future**.   
  > 你前途光明。    
+<audio src="./media/5-bright.aac"></audio>
 
 
 派生词汇
@@ -7936,7 +10938,13 @@ brighten /'braɪtn/ v
 brightly /brightly/ adv   
 
 # ***\#bright-coloured*** adj
-英音 braɪt'kʌləd     美音 braɪt'kʌlərd  
+英音 braɪt'kʌləd  
+英音
+<audio src="./media/bright-coloured1.aac"></audio>
+美音 braɪt'kʌlərd  
+美音
+<audio src="./media/bright-coloured2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7946,7 +10954,13 @@ brightly /brightly/ adv
 
 
 # ***\#brighten*** vt
-英音 'braɪtn     美音 'braɪtn  
+英音 'braɪtn  
+英音
+<audio src="./media/brighten-B.aac"></audio>
+美音 'braɪtn  
+美音
+<audio src="./media/brighten.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -7956,7 +10970,13 @@ brightly /brightly/ adv
 
 
 # ***\#brightness*** n
-英音 'braɪtnəs     美音 'braɪtnəs  
+英音 'braɪtnəs  
+英音
+<audio src="./media/brightness-B.aac"></audio>
+美音 'braɪtnəs  
+美音
+<audio src="./media/brightness.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7968,7 +10988,13 @@ brightly /brightly/ adv
 
 
 # ***\#brilliant*** adj
-英音 'brɪljənt     美音 'brɪljənt  
+英音 'brɪljənt  
+英音
+<audio src="./media/brilliant-B.aac"></audio>
+美音 'brɪljənt  
+美音
+<audio src="./media/brilliant.aac"></audio>
+
 
 | 词频 2 | 口语 2 | 书面 1 | 阅读 2 |  
 
@@ -7991,6 +11017,7 @@ brightly /brightly/ adv
 
  > That’s quite brilliant! How did you do that, may I ask?   
  > 太棒了！请问你是怎么做到的？  （人教⑧ – 4）  
+<audio src="./media/1-brilliant.aac"></audio>
 
 
 派生词汇
@@ -7998,7 +11025,13 @@ brightly /brightly/ adv
 brilliantly /'brɪliəntli/ adv   
 
 # ***\#brimful*** adj
-英音 'brɪmfʊl     美音 'brɪmfʊl  
+英音 'brɪmfʊl  
+英音
+<audio src="./media/brimful-B.aac"></audio>
+美音 'brɪmfʊl  
+美音
+<audio src="./media/brimful.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8010,7 +11043,13 @@ brilliantly /'brɪliəntli/ adv
 
 
 # ***\#bring*** vt  重难点词汇
-英音 brɪŋ     美音 brɪŋ  
+英音 brɪŋ  
+英音
+<audio src="./media/bring-B.aac"></audio>
+美音 brɪŋ  
+美音
+<audio src="./media/bring.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -8023,43 +11062,53 @@ brilliantly /'brɪliəntli/ adv
 
  > Please bring your student card if you want a cheaper ticket.  
  > 如果想买到便宜票，请把你的学生证带来。  （2010 湖南）  
+<audio src="./media/Bring-101_AAC.aac"></audio>
 
 - bring sb sth / bring sth for sb:
 
  > Bring Helen a present. / Bring a present for Helen.  
  > 给海伦带件礼物来。    
+<audio src="./media/Bring-102_AAC.aac"></audio>
 
  > We’re bringing you an exciting evening of live rock and pop music from the best local bands.  
  > 我们将给您带来一个令人激动的夜晚，由当地最好的乐队现场演奏摇滚乐和流行音乐。  （2016 全国）  
+<audio src="./media/bring50.aac"></audio>
 
 - bring sb / sth to sb / sth:
 
  > The discovery brought fame and fortune to scientists.  
  > 这一发现给科学家们带来了名誉和财富。  （2009 浙江）  
+<audio src="./media/Bring-103_AAC.aac"></audio>
 
 - bring sb / sth with sb:
 
  > She brought her kids with her wherever she went.  
  > 她无论去哪儿都带着孩子。    
+<audio src="./media/Bring-104_AAC.aac"></audio>
 
  > Don't forget to bring some money with you.  
  > 别忘记随身带些钱。    
+<audio src="./media/Bring-105_AAC.aac"></audio>
 
 ### 2.*高义频：* **把…引来；引起；导致：**  
 
  > Her cries brought the neighbours.  
  > 听到她的叫声，邻居们跑了过来。    
+<audio src="./media/5-bring.aac"></audio>
 
  > The sad news **brought tears to her eyes** (= made her cry).  
  > 听到噩耗，她的双眼充满了泪水。    
+<audio src="./media/Bring-106_AAC.aac"></audio>
 
 ### 3.*高义频：* **使处于某种状况：**  
 
  > The firefighters brought the fire under control.   
  > 消防员控制了火势。    
+<audio src="./media/7-bring.aac"></audio>
 
  > The teacher **brought** the discussion **to an end**.   
  > 老师终止了讨论。    
+<audio src="./media/8-bring.aac"></audio>
 
 
 固定搭配
@@ -8070,110 +11119,132 @@ brilliantly /'brɪliəntli/ adv
 
  > Science has brought about many changes in our lives.   
  > 科学给我们的生活带来了诸多变化。    
+<audio src="./media/9-bring.aac"></audio>
 
 ## \#bring along 
 1.**带来；带上：**  
 
  > Students must bring along two bottles of water to prevent thirst.  
  > 同学们必须带上两瓶水以防口渴。  （2010 福建）  
+<audio src="./media/11-bring.aac"></audio>
 
 ## \#bring back
 1.**把…带回来；使回忆起来；使恢复：**  
 
  > Could you bring my calculator back?  
  > 你能把我的计算器带回来吗？  （2015 上海）  
+<audio src="./media/Bring-107_AAC.aac"></audio>
 
  > The trip brought back a lot of happy memories.   
  > 这次旅行唤起了许多美好的回忆。    
+<audio src="./media/13-bring.aac"></audio>
 
  > The kindness of strangers has done much to bring back my faith in humanity.  
  > 陌生人的善举使我恢复了对人性的信心。    
+<audio src="./media/14-bring.aac"></audio>
 
 ## \#bring down 
 1.**降低；使倒下；使（飞机）降落 (land)：**  
 
  > The government has taken measures to bring down the high prices of daily goods to keep the market stable.  
  > 为了保持市场稳定，政府已经采取措施降低日用品的高价格。  （2011 湖北）  
+<audio src="./media/Bring-108_AAC.aac"></audio>
 
  > The hurricane brought down thousands of trees and electricity poles.   
  > 飓风刮倒了数以千计的树和电线杆。    
+<audio src="./media/15-bring.aac"></audio>
 
  > The pilot managed to bring the plane down in a field.   
  > 飞行员成功地把飞机降落在田野上。    
+<audio src="./media/16-bring.aac"></audio>
 
 ## \#bring forward
 1.*高义频：* **把…提前：**  
 
  > The meeting has been brought forward from 10 May to 3 May.   
  > 会议从5月10日提前到5月3日。    
+<audio src="./media/17-bring.aac"></audio>
 
 2.*高义频：* **提出 (建议、论据等)：**  
 
  > The young engineer brought forward a new design.   
  > 年轻的工程师提出了一个新的设计方案。    
+<audio src="./media/18-bring.aac"></audio>
 
 ## \#bring in
 1.*高义频：* **推行；引入；引进 (新的法律)：**  
 
  > The government plans to bring in new laws forcing parents to take more responsibility for the education of their children.   
  > 政府计划推行新法，强制父母对子女的教育承担更多责任。  （2009 江西）  
+<audio src="./media/19-bring.aac"></audio>
 
 2.*低义频：* **请...做；让...参与：**  
 
  > Researchers were brought in from all over China to develop the new system.   
  > 中国各地的专家都被请来研发这个新系统。  （外研④ – 4）  
+<audio src="./media/20-bring.aac"></audio>
 
 3.*低义频：* **赚得；挣得：**  
 
  > His work brings (him) in 1,000 dollars a month.  
  > 他每月有1000美元的工作收入。    
+<audio src="./media/21-bring.aac"></audio>
 
 ## \#bring on
 1.*低义频：* **使提高；使进步：**  
 
  > More study should bring on your English.   
  > 努力学习会提高你的英语水平。    
+<audio src="./media/22-bring.aac"></audio>
 
 2.*低义频：* **引起；导致**  
 英译 to make sth bad or unpleasant happen：
 
  > Stress can bring on illness.   
  > 压力会引起疾病。    
+<audio src="./media/23-bring.aac"></audio>
 
 ## \#bring out
 1.*高义频：* **使表现出：**  
 
  > He never criticized us, but used praise to **bring out our best**.   
  > 他从不批评我们，而是用称赞使我们表现出最好的一面。    
+<audio src="./media/24-bring.aac"></audio>
 
 2.*低义频：* **说出；阐明：**  
 
  > Most of us can forgive each other when differences are brought out in the open.   
  > 当公开说明分歧时，我们大都能彼此原谅。    
+<audio src="./media/25-bring.aac"></audio>
 
  > Can you make a sentence to bring out the meaning of the phrase?   
  > 你能造个句子说明这个短语的意思吗？    
+<audio src="./media/26-bring.aac"></audio>
 
 3.*高义频：* **出版：**  
 
  > They brought out a set of children’s books.   
  > 他们出版了一套儿童读物。    
+<audio src="./media/27-bring.aac"></audio>
 
 ## \#bring up
 1.*高义频：* **抚养；养育；教养 (raise)：**  
 
  > His father died when he was young, and he was brought up by his mother.  
  > 在他年幼时父亲就去世了，他是由母亲抚养长大的。  （外研③-5）  
+<audio src="./media/Bring-109_AAC.aac"></audio>
 
 2.*高义频：* **提出 (讨论等)(raise)：**  
 
  > Every time I bring the matter up, he changes the subject.   
  > 每当我提起这件事，他就会转移话题。    
+<audio src="./media/29-bring.aac"></audio>
 
 3.*低义频：* **呕吐：**  
 
  > He brought up all his dinner.   
  > 他把吃的饭全都吐出来了。    
+<audio src="./media/30-bring.aac"></audio>
 
 
 真题解析
@@ -8186,7 +11257,13 @@ brilliantly /'brɪliəntli/ adv
 1. out  2. up  3. about  
 
 # ***\#brink*** n
-英音 brɪŋk     美音 brɪŋk  
+英音 brɪŋk  
+英音
+<audio src="./media/brink1.aac"></audio>
+美音 brɪŋk  
+美音
+<audio src="./media/brink2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8196,7 +11273,13 @@ brilliantly /'brɪliəntli/ adv
 
 
 # ***\#broad*** adj
-英音 brɔːd     美音 brɔːd  
+英音 brɔːd  
+英音
+<audio src="./media/broad-B.aac"></audio>
+美音 brɔːd  
+美音
+<audio src="./media/broad.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 2 |  
 
@@ -8213,17 +11296,20 @@ brilliantly /'brɪliəntli/ adv
 
  > He was tall, with broad shoulders and a beard.   
  > 他高个、肩宽，留着胡子。  （ 2013 全国）  
+<audio src="./media/1-broad.aac"></audio>
 
 ### 2.*低义频：* **广泛的：**  
 反义词 narrow 
 
  > Students here study a **broad range** of subjects.   
  > 这里的学生所学的科目范围很广。    
+<audio src="./media/2-broad.aac"></audio>
 
 ### 3.*高义频：* **概括性的；粗略的：**  
 
  > She showed us the **broad outline** of a new project.   
  > 她向我们介绍了新项目的概况。    
+<audio src="./media/3-broad.aac"></audio>
 
 
 固定搭配
@@ -8237,6 +11323,7 @@ brilliantly /'brɪliəntli/ adv
 **wide** 着重指从一边到另一边的距离，可以丈量。 但也可修饰身体部位如口、眼。
  > Sam has a wide mouth.  
  > 萨姆嘴很大。    
+<audio src="./media/5-broad.aac"></audio>
 
 
 
@@ -8245,6 +11332,7 @@ brilliantly /'brɪliəntli/ adv
 broaden  /'brɔːdn/ v   
  > Some people prefer to go out for traveling since it can increase their knowledge and **broaden their horizons**.   
  > 一些人更喜欢外出旅游，因为能增长知识、开阔眼界。　　　    
+<audio src="./media/6-broad.aac"></audio>
 
 broadly /'brɔːdli/ adv   
  > **broadly speaking**  
@@ -8255,7 +11343,13 @@ broadly /'brɔːdli/ adv
 
 
 # ***\#broadcast*** v
-英音 'brɔːdkɑːst     美音 'brɔːdkæst  
+英音 'brɔːdkɑːst  
+英音
+<audio src="./media/broadcast-B.aac"></audio>
+美音 'brɔːdkæst  
+美音
+<audio src="./media/broadcast.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -8265,6 +11359,7 @@ broadly /'brɔːdli/ adv
 
  > The concert was **broadcast live** and attracted the largest audience in the history.  
  > 演唱会现场直播，并吸引了有史以来最多的观众。  （2019 浙江改）  
+<audio src="./media/The concert was broadcast_AAC.aac"></audio>
 
 
 真题解析
@@ -8275,7 +11370,13 @@ broadly /'brɔːdli/ adv
 1. broadcast / broadcasted  
 
 # ***\#broadcast*** n
-英音 'brɔːdkɑːst     美音 'brɔːdkæst  
+英音 'brɔːdkɑːst  
+英音
+<audio src="./media/broadcast-B.aac"></audio>
+美音 'brɔːdkæst  
+美音
+<audio src="./media/broadcast.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -8290,10 +11391,17 @@ broadly /'brɔːdli/ adv
 
  > I missed the **live broadcast** of the Olympics.   
  > 我没赶上看奥运会的直播。    
+<audio src="./media/2-broadcast.aac"></audio>
 
 
 # ***\#broadcasting*** n
-英音 'brɔːdkɑːstɪŋ     美音 'brɔːdkæstɪŋ  
+英音 'brɔːdkɑːstɪŋ  
+英音
+<audio src="./media/broadcasting1.aac"></audio>
+美音 'brɔːdkæstɪŋ  
+美音
+<audio src="./media/broadcasting2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -8303,7 +11411,13 @@ broadly /'brɔːdli/ adv
 
 
 # ***\#broaden*** v
-英音 'brɔːdn     美音 'brɔːdn  
+英音 'brɔːdn  
+英音
+<audio src="./media/broaden1_AAC.aac"></audio>
+美音 'brɔːdn  
+美音
+<audio src="./media/broaden2_AAC.aac"></audio>
+
 
   
 
@@ -8313,7 +11427,13 @@ broadly /'brɔːdli/ adv
 
 
 # ***\#brochure*** n
-英音 'brəʊʃə(r)     美音 broʊ'ʃʊr  
+英音 'brəʊʃə(r)  
+英音
+<audio src="./media/brochure-B.aac"></audio>
+美音 broʊ'ʃʊr  
+美音
+<audio src="./media/brochure.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -8325,7 +11445,13 @@ broadly /'brɔːdli/ adv
 
 
 # ***\#broken*** adj
-英音 'brəʊkən     美音 'broʊkən  
+英音 'brəʊkən  
+英音
+<audio src="./media/broken-B.aac"></audio>
+美音 'broʊkən  
+美音
+<audio src="./media/broken.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -8338,12 +11464,15 @@ broadly /'brɔːdli/ adv
 
  > The glass is broken.  
  > 玻璃(杯)碎了。    
+<audio src="./media/1-broken.aac"></audio>
 
  > The copy machine is broken again.   
  > 复印机又出毛病了。  （ 2008 上海）  
+<audio src="./media/3-broken.aac"></audio>
 
  > His leg was broken.   
  > 他的腿断了。    
+<audio src="./media/His leg was broken.aac"></audio>
 
 ### 2.*高义频：* **(关系) 破裂的：**  
 
@@ -8367,7 +11496,13 @@ broadly /'brɔːdli/ adv
 
 
 # ***\#bronchitis*** n
-英音 brɒŋ'kaɪtɪs     美音 brɑːŋ'kaɪtɪs  
+英音 brɒŋ'kaɪtɪs  
+英音
+<audio src="./media/bronchitis1.aac"></audio>
+美音 brɑːŋ'kaɪtɪs  
+美音
+<audio src="./media/bronchitis2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8377,7 +11512,13 @@ broadly /'brɔːdli/ adv
 
 
 # ***\#bronze*** n
-英音 brɒnz     美音 brɑːnz  
+英音 brɒnz  
+英音
+<audio src="./media/bronze-B.aac"></audio>
+美音 brɑːnz  
+美音
+<audio src="./media/bronze.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8387,7 +11528,13 @@ broadly /'brɔːdli/ adv
 
 
 # ***\#bronze*** adj
-英音 brɒnz     美音 brɑːnz  
+英音 brɒnz  
+英音
+<audio src="./media/bronze-B.aac"></audio>
+美音 brɑːnz  
+美音
+<audio src="./media/bronze.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8397,7 +11544,13 @@ broadly /'brɔːdli/ adv
 
 
 # ***\#bronzed*** adj
-英音 brɒnzd     美音 brɑːnzd  
+英音 brɒnzd  
+英音
+<audio src="./media/bronzed1_AAC.aac"></audio>
+美音 brɑːnzd  
+美音
+<audio src="./media/bronzed2_AAC.aac"></audio>
+
 
   
 
@@ -8407,7 +11560,13 @@ broadly /'brɔːdli/ adv
 
 
 # ***\#broom*** n
-英音 bruːm     美音 bruːm  
+英音 bruːm  
+英音
+<audio src="./media/broom-B.aac"></audio>
+美音 bruːm  
+美音
+<audio src="./media/broom.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -8419,10 +11578,17 @@ broadly /'brɔːdli/ adv
 
  > A new broom sweeps clean.   
  > 新官上任三把火。    
+<audio src="./media/broom-1.aac"></audio>
 
 
 # ***\#brother*** n
-英音 'brʌðə(r)     美音 'brʌðər  
+英音 'brʌðə(r)  
+英音
+<audio src="./media/brother-B.aac"></audio>
+美音 'brʌðər  
+美音
+<audio src="./media/brother.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -8438,7 +11604,13 @@ broadly /'brɔːdli/ adv
 brotherhood /'brʌðərhʊd/ n [U]   
 
 # ***\#brotherhood*** n
-英音 ˈbrʌðəhʊd     美音 ˈbrʌðəhʊd  
+英音 ˈbrʌðəhʊd  
+英音
+<audio src="./media/brotherhood1_AAC.aac"></audio>
+美音 ˈbrʌðəhʊd  
+美音
+<audio src="./media/brotherhood2_AAC.aac"></audio>
+
 
   
 
@@ -8448,7 +11620,13 @@ brotherhood /'brʌðərhʊd/ n [U]
 
 
 # ***\#brotherly*** adj
-英音 ˈbrʌðəli     美音 ˈbrʌðərli  
+英音 ˈbrʌðəli  
+英音
+<audio src="./media/brotherly1_AAC.aac"></audio>
+美音 ˈbrʌðərli  
+美音
+<audio src="./media/brotherly2_AAC.aac"></audio>
+
 
   
 
@@ -8458,7 +11636,13 @@ brotherhood /'brʌðərhʊd/ n [U]
 
 
 # ***\#brown*** adj
-英音 braʊn     美音 braʊn  
+英音 braʊn  
+英音
+<audio src="./media/brown-B.aac"></audio>
+美音 braʊn  
+美音
+<audio src="./media/brown.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -8468,7 +11652,13 @@ brotherhood /'brʌðərhʊd/ n [U]
 
 
 # ***\#brown*** n
-英音 braʊn     美音 braʊn  
+英音 braʊn  
+英音
+<audio src="./media/brown-B.aac"></audio>
+美音 braʊn  
+美音
+<audio src="./media/brown.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -8480,7 +11670,13 @@ brotherhood /'brʌðərhʊd/ n [U]
 
 
 # ***\#bruise*** n
-英音 bruːz     美音 bruːz  
+英音 bruːz  
+英音
+<audio src="./media/bruise-B.aac"></audio>
+美音 bruːz  
+美音
+<audio src="./media/bruise.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8492,7 +11688,13 @@ brotherhood /'brʌðərhʊd/ n [U]
 
 
 # ***\#bruise*** vi
-英音 bruːz     美音 bruːz  
+英音 bruːz  
+英音
+<audio src="./media/bruise-B.aac"></audio>
+美音 bruːz  
+美音
+<audio src="./media/bruise.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8502,7 +11704,13 @@ brotherhood /'brʌðərhʊd/ n [U]
 
 
 # ***\#brunch*** n
-英音 brʌntʃ     美音 brʌntʃ  
+英音 brʌntʃ  
+英音
+<audio src="./media/brunch-B.aac"></audio>
+美音 brʌntʃ  
+美音
+<audio src="./media/brunch.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8514,7 +11722,13 @@ brotherhood /'brʌðərhʊd/ n [U]
 
 
 # ***\#brush*** n
-英音 brʌʃ     美音 brʌʃ  
+英音 brʌʃ  
+英音
+<audio src="./media/brush-B.aac"></audio>
+美音 brʌʃ  
+美音
+<audio src="./media/brush.aac"></audio>
+
 
 | 词频 3 | 口语 1 |  
 
@@ -8529,7 +11743,13 @@ brotherhood /'brʌðərhʊd/ n [U]
 
 
 # ***\#brush*** v
-英音 brʌʃ     美音 brʌʃ  
+英音 brʌʃ  
+英音
+<audio src="./media/brush-B.aac"></audio>
+美音 brʌʃ  
+美音
+<audio src="./media/brush.aac"></audio>
+
 
 | 词频 3 | 口语 1 |  
 
@@ -8539,21 +11759,31 @@ brotherhood /'brʌðərhʊd/ n [U]
 
  > Brush your teeth / shoes.  
  > 刷牙/刷刷你的鞋子。    
+<audio src="./media/Brush your shoes_AAC.aac"></audio>
 
  > They use small brooms to **brush off** snow caught in tiny holes.  
  > 他们用小扫帚扫去落到小洞里的雪。  （ 2008 湖南）  
+<audio src="./media/2-brush.aac"></audio>
 
 ### 2.*低义频：* **擦过；掠过：**  
 
  > The light wind gently brushed my cheeks.   
  > 微风轻拂着我的面颊。    
+<audio src="./media/3-brush.aac"></audio>
 
  > He **brushed past / by** me in the street.   
  > 他和我在街上擦肩而过。    
+<audio src="./media/4-brush.aac"></audio>
 
 
 # ***\#brushwork*** n
-英音 'brʌʃwɜːk     美音 'brʌʃwɜːrk  
+英音 'brʌʃwɜːk  
+英音
+<audio src="./media/brushwork1_AAC.aac"></audio>
+美音 'brʌʃwɜːrk  
+美音
+<audio src="./media/brushwork2_AAC.aac"></audio>
+
 
   
 
@@ -8563,7 +11793,13 @@ brotherhood /'brʌðərhʊd/ n [U]
 
 
 # ***\#bubble*** n
-英音 'bʌbl     美音 'bʌbl  
+英音 'bʌbl  
+英音
+<audio src="./media/bubble-B.aac"></audio>
+美音 'bʌbl  
+美音
+<audio src="./media/bubble.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8575,7 +11811,13 @@ brotherhood /'brʌðərhʊd/ n [U]
 
 
 # ***\#bubble*** v
-英音 'bʌbl     美音 'bʌbl  
+英音 'bʌbl  
+英音
+<audio src="./media/bubble-B.aac"></audio>
+美音 'bʌbl  
+美音
+<audio src="./media/bubble.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8585,7 +11827,13 @@ brotherhood /'brʌðərhʊd/ n [U]
 
 
 # ***\#bucket*** n
-英音 'bʌkɪt     美音 'bʌkɪt  
+英音 'bʌkɪt  
+英音
+<audio src="./media/bucket-B.aac"></audio>
+美音 'bʌkɪt  
+美音
+<audio src="./media/bucket.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 阅读 1 |  
 
@@ -8600,7 +11848,13 @@ brotherhood /'brʌðərhʊd/ n [U]
 
 
 # ***\#bud*** n
-英音 bʌd     美音 bʌd  
+英音 bʌd  
+英音
+<audio src="./media/bud1.aac"></audio>
+美音 bʌd  
+美音
+<audio src="./media/bud2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8610,7 +11864,13 @@ brotherhood /'brʌðərhʊd/ n [U]
 
 
 # ***\#budget*** n
-英音 'bʌdʒɪt     美音 'bʌdʒɪt  
+英音 'bʌdʒɪt  
+英音
+<audio src="./media/budget-B.aac"></audio>
+美音 'bʌdʒɪt  
+美音
+<audio src="./media/budget.aac"></audio>
+
 
 | 词频 3 | 口语 3 | 书面 2 | 阅读 2 |  
 
@@ -8628,10 +11888,17 @@ brotherhood /'brʌðərhʊd/ n [U]
 
  > Travellers **on a tight budget** might prefer to backpack.  
  > 预算紧张的旅行者可能更喜欢背包游。    
+<audio src="./media/1-budget.aac"></audio>
 
 
 # ***\#budget*** v
-英音 'bʌdʒɪt     美音 'bʌdʒɪt  
+英音 'bʌdʒɪt  
+英音
+<audio src="./media/budget-B.aac"></audio>
+美音 'bʌdʒɪt  
+美音
+<audio src="./media/budget.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -8641,7 +11908,13 @@ brotherhood /'brʌðərhʊd/ n [U]
 
 
 # ***\#buffet*** n
-英音 'bʊfeɪ; 'bʌfeɪ     美音 bə'feɪ  
+英音 'bʊfeɪ; 'bʌfeɪ  
+英音
+<audio src="./media/Buffet1.aac"></audio>
+美音 bə'feɪ  
+美音
+<audio src="./media/buffet.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8656,12 +11929,24 @@ brotherhood /'brʌðərhʊd/ n [U]
 
 
 # ***\#buffet*** vt
-英音 'bʊfeɪ; 'bʌfeɪ     美音 bə'feɪ  
+英音 'bʊfeɪ; 'bʌfeɪ  
+英音
+<audio src="./media/Buffet1.aac"></audio>
+美音 bə'feɪ  
+美音
+<audio src="./media/buffet.aac"></audio>
+
 
 | 词频 1 |  
 
 # ***\#bug*** n
-英音 bʌɡ     美音 bʌɡ  
+英音 bʌɡ  
+英音
+<audio src="./media/bug-B.aac"></audio>
+美音 bʌɡ  
+美音
+<audio src="./media/bug.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -8682,7 +11967,13 @@ brotherhood /'brʌðərhʊd/ n [U]
 
 
 # ***\#build*** v
-英音 bɪld     美音 bɪld  
+英音 bɪld  
+英音
+<audio src="./media/build-B.aac"></audio>
+美音 bɪld  
+美音
+<audio src="./media/build.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -8694,6 +11985,7 @@ brotherhood /'brʌðərhʊd/ n [U]
 
  > The house **is built of** bricks.   
  > 那是座砖砌的房子。    
+<audio src="./media/1-build.aac"></audio>
 
 ### 2.*高义频：* **创建 (事业)；树立 (名声)；培养：**  
 英译 to create or develop sth：
@@ -8703,20 +11995,25 @@ brotherhood /'brʌðərhʊd/ n [U]
 
  > Hard work builds character.  
  > 勤劳塑造性格。    
+<audio src="./media/2-build.aac"></audio>
 
  > Research suggests that small talk can build new friendships.   
  > 研究表明闲聊可以建立新的友谊。  （2015 安徽）  
+<audio src="./media/P65 build 3.aac"></audio>
 
  > By giving kids a lot of praise, parents think they're building their children's confidence.  
  > 父母认为大量表扬可以培养孩子的自信心。  （2019 浙江）  
+<audio src="./media/By giving kids a lot of praise_AAC.aac"></audio>
 
 ### 3.*低义频：* **vi & vt 发展；加强 (build up)：**  
 
  > The wind began to build.  
  > 风力开始增强    
+<audio src="./media/Build-101_AAC.aac"></audio>
 
  > Lifting weights will build arm and shoulder muscles.  
  > 举重会使手臂和肩部的肌肉发达。    
+<audio src="./media/Build-102_AAC.aac"></audio>
 
 
 固定搭配
@@ -8726,18 +12023,22 @@ brotherhood /'brʌðərhʊd/ n [U]
 
  > The future builds on the past.  
  > 未来立足于过去。    
+<audio src="./media/6-build.aac"></audio>
 
  > Good relationships are built on mutual trust and considerations.   
  > 良好的关系建立在互信和体谅的基础之上。    
+<audio src="./media/7-build.aac"></audio>
 
 ## \#build up
 1.**树立；逐步建立；增强：**  
 
  > He has built (up) his business over the years.  
  > 这些年来他逐步建立起了自己的生意。    
+<audio src="./media/8-build.aac"></audio>
 
  > Outdoor activities are really helpful in building up my body and enrich my school life.  
  > 户外活动确实对我增强体质和丰富学校生活有益。  （2014 江西书面表达改）  
+<audio src="./media/build55.aac"></audio>
 
 
 派生词汇
@@ -8753,7 +12054,13 @@ builder /'bɪldə(r)/ n [C]
 1. will be built  2. up  
 
 # ***\#build*** n
-英音 bɪld     美音 bɪld  
+英音 bɪld  
+英音
+<audio src="./media/build-B.aac"></audio>
+美音 bɪld  
+美音
+<audio src="./media/build.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -8768,6 +12075,10 @@ builder /'bɪldə(r)/ n [C]
 
 
 # ***\#build-up*** n
+英音
+<audio src="./media/build-up1_AAC.aac"></audio>
+美音
+<audio src="./media/build-up2_AAC.aac"></audio>
 
 
   
@@ -8778,7 +12089,13 @@ builder /'bɪldə(r)/ n [C]
 
 
 # ***\#builder*** n
-英音 ˈbɪldə(r)     美音 ˈbɪldər  
+英音 ˈbɪldə(r)  
+英音
+<audio src="./media/builder1_AAC.aac"></audio>
+美音 ˈbɪldər  
+美音
+<audio src="./media/builder2_AAC.aac"></audio>
+
 
   
 
@@ -8788,7 +12105,13 @@ builder /'bɪldə(r)/ n [C]
 
 
 # ***\#building*** n
-英音 'bɪldɪŋ     美音 'bɪldɪŋ  
+英音 'bɪldɪŋ  
+英音
+<audio src="./media/building-B.aac"></audio>
+美音 'bɪldɪŋ  
+美音
+<audio src="./media/building.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -8801,15 +12124,23 @@ builder /'bɪldə(r)/ n [C]
 
  > The Pyramid was a stone building.   
  > 金字塔是用石头建成的。    
+<audio src="./media/1-building.aac"></audio>
 
 ### 2.*高义频：* **建造；建筑术：**  
 
  > The building of the hotel took seven months.   
  > 这家宾馆的修建耗时7个月。    
+<audio src="./media/2-building.aac"></audio>
 
 
 # ***\#built-in*** adj
-英音 ˌbɪlt'ɪn     美音 ˌbɪlt'ɪn  
+英音 ˌbɪlt'ɪn  
+英音
+<audio src="./media/built-in1.aac"></audio>
+美音 ˌbɪlt'ɪn  
+美音
+<audio src="./media/built-in2.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -8819,7 +12150,13 @@ builder /'bɪldə(r)/ n [C]
 
 
 # ***\#bulb*** n
-英音 bʌlb     美音 bʌlb  
+英音 bʌlb  
+英音
+<audio src="./media/bulb-B.aac"></audio>
+美音 bʌlb  
+美音
+<audio src="./media/bulb.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -8831,7 +12168,13 @@ builder /'bɪldə(r)/ n [C]
 
 
 # ***\#bull*** n
-英音 bʊl     美音 bʊl  
+英音 bʊl  
+英音
+<audio src="./media/bull-B.aac"></audio>
+美音 bʊl  
+美音
+<audio src="./media/bull.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -8843,7 +12186,13 @@ builder /'bɪldə(r)/ n [C]
 
 
 # ***\#bullet*** n
-英音 'bʊlɪt     美音 'bʊlɪt  
+英音 'bʊlɪt  
+英音
+<audio src="./media/bullet-B.aac"></audio>
+美音 'bʊlɪt  
+美音
+<audio src="./media/bullet.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -8855,7 +12204,13 @@ builder /'bɪldə(r)/ n [C]
 
 
 # ***\#bulletin*** n
-英音 'bʊlətɪn     美音 'bʊlətɪn  
+英音 'bʊlətɪn  
+英音
+<audio src="./media/bulletin1.aac"></audio>
+美音 'bʊlətɪn  
+美音
+<audio src="./media/bulletin2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8865,7 +12220,13 @@ builder /'bɪldə(r)/ n [C]
 
 
 # ***\#bullfighting*** n
-英音 ˈbʊlfaɪtɪŋ     美音 ˈbʊlfaɪtɪŋ  
+英音 ˈbʊlfaɪtɪŋ  
+英音
+<audio src="./media/bullfighting1_AAC.aac"></audio>
+美音 ˈbʊlfaɪtɪŋ  
+美音
+<audio src="./media/bullfighting2_AAC.aac"></audio>
+
 
   
 
@@ -8875,7 +12236,13 @@ builder /'bɪldə(r)/ n [C]
 
 
 # ***\#bully*** v
-英音 'bʊli     美音 'bʊli  
+英音 'bʊli  
+英音
+<audio src="./media/bully1_AAC.aac"></audio>
+美音 'bʊli  
+美音
+<audio src="./media/bully2_AAC.aac"></audio>
+
 
   
 
@@ -8885,7 +12252,13 @@ builder /'bɪldə(r)/ n [C]
 
 
 # ***\#bump*** v
-英音 bʌmp     美音 bʌmp  
+英音 bʌmp  
+英音
+<audio src="./media/bump-B.aac"></audio>
+美音 bʌmp  
+美音
+<audio src="./media/bump.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -8897,9 +12270,11 @@ builder /'bɪldə(r)/ n [C]
 
  > Be careful not to **bump** your head **on** the low roof.  
  > 屋顶低，小心别碰头。    
+<audio src="./media/1-bump.aac"></audio>
 
  > Su Hua and Li Jiang **bumped into** each other, trying to catch the ball.  
  > 苏华和李江在抢球的时候，撞到了一起。  （2012 江苏书面表达）  
+<audio src="./media/2-bump.aac"></audio>
 
 
 固定搭配
@@ -8909,10 +12284,17 @@ builder /'bɪldə(r)/ n [C]
 
  > Guess who I bumped into this afternoon?  
  > 你猜今天下午我撞见了谁？    
+<audio src="./media/3-bump.aac"></audio>
 
 
 # ***\#bump*** n
-英音 bʌmp     美音 bʌmp  
+英音 bʌmp  
+英音
+<audio src="./media/bump-B.aac"></audio>
+美音 bʌmp  
+美音
+<audio src="./media/bump.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -8927,7 +12309,13 @@ builder /'bɪldə(r)/ n [C]
 
 
 # ***\#bun*** n
-英音 bʌn     美音 bʌn  
+英音 bʌn  
+英音
+<audio src="./media/bun1_AAC.aac"></audio>
+美音 bʌn  
+美音
+<audio src="./media/bun2_AAC.aac"></audio>
+
 
   
 
@@ -8937,7 +12325,13 @@ builder /'bɪldə(r)/ n [C]
 
 
 # ***\#bunch*** n
-英音 bʌntʃ     美音 bʌntʃ  
+英音 bʌntʃ  
+英音
+<audio src="./media/bunch-B.aac"></audio>
+美音 bʌntʃ  
+美音
+<audio src="./media/bunch.aac"></audio>
+
 
 | 词频 2 | 口语 2 |  
 
@@ -8952,7 +12346,13 @@ builder /'bɪldə(r)/ n [C]
 
 
 # ***\#bungalow*** n
-英音 'bʌŋɡələʊ     美音 'bʌŋɡəloʊ  
+英音 'bʌŋɡələʊ  
+英音
+<audio src="./media/bungalow-B.aac"></audio>
+美音 'bʌŋɡəloʊ  
+美音
+<audio src="./media/bungalow.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8964,7 +12364,13 @@ builder /'bɪldə(r)/ n [C]
 
 
 # ***\#burden*** n
-英音 'bɜːdn     美音 'bɜːrdn  
+英音 'bɜːdn  
+英音
+<audio src="./media/burden-B.aac"></audio>
+美音 'bɜːrdn  
+美音
+<audio src="./media/burden.aac"></audio>
+
 
   
 
@@ -8979,10 +12385,17 @@ builder /'bɪldə(r)/ n [C]
 
  > The burden of government sits heavily on my shoulders.  
  > 治理国家的重担落在我的肩上。  （人教⑩ – 2）  
+<audio src="./media/2-burden.aac"></audio>
 
 
 # ***\#burden*** vt
-英音 'bɜːdn     美音 'bɜːrdn  
+英音 'bɜːdn  
+英音
+<audio src="./media/burden-B.aac"></audio>
+美音 'bɜːrdn  
+美音
+<audio src="./media/burden.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -8995,7 +12408,13 @@ builder /'bɪldə(r)/ n [C]
 
 
 # ***\#bureaucracy*** n
-英音 bjʊəˈrɒkrəsi     美音 bjʊˈrɑːkrəsi  
+英音 bjʊəˈrɒkrəsi  
+英音
+<audio src="./media/bureaucracy1_AAC.aac"></audio>
+美音 bjʊˈrɑːkrəsi  
+美音
+<audio src="./media/bureaucracy2_AAC.aac"></audio>
+
 
   
 
@@ -9005,7 +12424,13 @@ builder /'bɪldə(r)/ n [C]
 
 
 # ***\#bureaucratic*** adj
-英音 ˌbjʊərə'krætɪk     美音 ˌbjʊərə'krætɪk  
+英音 ˌbjʊərə'krætɪk  
+英音
+<audio src="./media/bureaucratic-B.aac"></audio>
+美音 ˌbjʊərə'krætɪk  
+美音
+<audio src="./media/bureaucratic.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -9019,7 +12444,13 @@ builder /'bɪldə(r)/ n [C]
 bureaucracy /bjʊ'rɑːkrəsi/ n [U]  
 
 # ***\#burglar*** n
-英音 'bɜːɡlə(r)     美音 'bɜːrɡlər  
+英音 'bɜːɡlə(r)  
+英音
+<audio src="./media/burglar-B.aac"></audio>
+美音 'bɜːrɡlər  
+美音
+<audio src="./media/burglar.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -9034,7 +12465,13 @@ bureaucracy /bjʊ'rɑːkrəsi/ n [U]
 
 
 # ***\#burglary*** n
-英音 'bɜːɡləri     美音 'bɜːrɡləri  
+英音 'bɜːɡləri  
+英音
+<audio src="./media/burglary1.aac"></audio>
+美音 'bɜːrɡləri  
+美音
+<audio src="./media/burglary2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -9044,7 +12481,13 @@ bureaucracy /bjʊ'rɑːkrəsi/ n [U]
 
 
 # ***\#burn*** v
-英音 bɜːn     美音 bɜːrn  
+英音 bɜːn  
+英音
+<audio src="./media/burn-B.aac"></audio>
+美音 bɜːrn  
+美音
+<audio src="./media/burn.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -9056,44 +12499,55 @@ bureaucracy /bjʊ'rɑːkrəsi/ n [U]
 
  > The wood is wet, so it won’t burn.  
  > 木头潮湿，所以点不着。    
+<audio src="./media/1-burn.aac"></audio>
 
  > Most large ships now burn oil instead of coal.  
  > 现在大多数的轮船都烧油而不烧煤。    
+<audio src="./media/2-burn.aac"></audio>
 
  > After you exercise, you continue to burn calories throughout the day.  
  > 运动之后，你的热量消耗会持续一天。  （2018 全国）  
+<audio src="./media/Burn-101_AAC.aac"></audio>
 
 ### 2.*高义频：* **烧毁；烧坏；烧死：**  
 
  > A fire **burned** the library **to the ground**.  
  > 一场火把图书馆夷为平地。  （2017 浙江）  
+<audio src="./media/Burn-102_AAC.aac"></audio>
 
 ### 3.*高义频：* **烧糊；烧焦：**  
 
  > I can smell something burning in the kitchen.   
  > 我闻到厨房里有东西烧焦了。    
+<audio src="./media/4-burn.aac"></audio>
 
  > Unfortunately, while I was talking to a friend I burnt the sausages!  
  > 不幸的是，我在和朋友谈话时把香肠烤糊了。  （北师大① – 3）  
+<audio src="./media/5-burn.aac"></audio>
 
 ### 4.*高义频：* **(使) 烧伤；(使) 烫伤；(使) 晒伤：**  
 
  > Some household chemicals can burn your skin.  
  > 一些家用化学品能烧伤皮肤。    
+<audio src="./media/Burn-103_AAC.aac"></audio>
 
  > The coffee is hot. Be careful not to burn your mouth.  
  > 咖啡很热，小心烫嘴。    
+<audio src="./media/7-burn.aac"></audio>
 
  > Don’t forget you can still **get burnt** when you’re swimming.  
  > 别忘了，游泳时你还是有可能晒伤的。    
+<audio src="./media/8-burn.aac"></audio>
 
 ### 5.*低义频：* **发热；放光；发烫：**  
 
  > All the lights were burning.  
  > 所有的灯都亮着。    
+<audio src="./media/9-burn.aac"></audio>
 
  > His face burned with shame.  
  > 他因羞愧而感到脸上发烫。    
+<audio src="./media/His face burned with shame_AAC.aac"></audio>
 
 
 固定搭配
@@ -9103,19 +12557,27 @@ bureaucracy /bjʊ'rɑːkrəsi/ n [U]
 
  > If you forgot to turn off the iron when you went away, you might burn down the house.  
  > 如果你走开时忘了关掉熨斗，那么你有可能烧毁房子。  （2014 湖南改）  
+<audio src="./media/burn-If you forgot to turn off the iron.aac"></audio>
 
 ## \#burn out
 1.**烧坏；燃尽：**  
 
  > My candle was almost burnt out.  
  > 我的蜡烛就要燃尽了。    
+<audio src="./media/My candle was almost burnt out_AAC.aac"></audio>
 
 ## \#burn the midnight oil 
 1.**挑灯夜战；开夜车**  
 
 
 # ***\#burn*** n
-英音 bɜːn     美音 bɜːrn  
+英音 bɜːn  
+英音
+<audio src="./media/burn-B.aac"></audio>
+美音 bɜːrn  
+美音
+<audio src="./media/burn.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -9131,7 +12593,13 @@ bureaucracy /bjʊ'rɑːkrəsi/ n [U]
 burnt /bɜːrnt/ adj   
 
 # ***\#burning*** adj
-英音 ˈbɜːnɪŋ     美音 ˈbɜːrnɪŋ  
+英音 ˈbɜːnɪŋ  
+英音
+<audio src="./media/burning1_AAC.aac"></audio>
+美音 ˈbɜːrnɪŋ  
+美音
+<audio src="./media/burning2_AAC.aac"></audio>
+
 
   
 
@@ -9141,7 +12609,13 @@ burnt /bɜːrnt/ adj
 
 
 # ***\#burnout*** n
-英音 ˈbɜːnaʊt     美音 ˈbɜːrnaʊt  
+英音 ˈbɜːnaʊt  
+英音
+<audio src="./media/burnout1_AAC.aac"></audio>
+美音 ˈbɜːrnaʊt  
+美音
+<audio src="./media/burnout2_AAC.aac"></audio>
+
 
   
 
@@ -9151,7 +12625,13 @@ burnt /bɜːrnt/ adj
 
 
 # ***\#burst*** v
-英音 bɜːst     美音 bɜːrst  
+英音 bɜːst  
+英音
+<audio src="./media/burst-B.aac"></audio>
+美音 bɜːrst  
+美音
+<audio src="./media/burst.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -9163,20 +12643,25 @@ burnt /bɜːrnt/ adj
 
  > In the city, the water pipes in some buildings cracked and burst.  
  > 在市内，有些楼里的水管爆裂开来。  （人教① – 4）  
+<audio src="./media/1-burst.aac"></audio>
 
  > Don’t burst that balloon.  
  > 别把那个气球弄炸了。    
+<audio src="./media/2-burst.aac"></audio>
 
  > He burst the chains that held him.   
  > 他挣断了束缚自己的锁链。    
+<audio src="./media/3-burst.aac"></audio>
 
 ### 2.*高义频：* **突然出现：**  
 
  > The police **burst into** the house and arrested the gang.  
  > 警察突然闯进房子逮捕了那帮人。    
+<audio src="./media/Burst-101_AAC.aac"></audio>
 
  > The storm burst and we all got wet.  
  > 突然下起暴雨，我们都淋湿了。    
+<audio src="./media/5-burst.aac"></audio>
 
 
 固定搭配
@@ -9192,6 +12677,7 @@ burnt /bɜːrnt/ adj
 
  > They **burst into tears / laughter / cheers**.  
  > 他们突然大哭/大笑/欢呼起来。    
+<audio src="./media/6-burst.aac"></audio>
 
 ## \#burst out
 1.**突然大声喊叫；突然……起来：**  
@@ -9201,7 +12687,13 @@ burnt /bɜːrnt/ adj
 
 
 # ***\#burst*** n
-英音 bɜːst     美音 bɜːrst  
+英音 bɜːst  
+英音
+<audio src="./media/burst-B.aac"></audio>
+美音 bɜːrst  
+美音
+<audio src="./media/burst.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -9219,7 +12711,13 @@ burnt /bɜːrnt/ adj
 
 
 # ***\#bury*** vt
-英音 'beri     美音 'beri  
+英音 'beri  
+英音
+<audio src="./media/bury-B.aac"></audio>
+美音 'beri  
+美音
+<audio src="./media/bury.aac"></audio>
+
 
 | 词频 4 | 书面 1 |  
 
@@ -9229,14 +12727,17 @@ burnt /bɜːrnt/ adj
 
  > We needed to bury the dead bodies as quickly as possible to stop disease spreading.  
  > 我们需要尽快将尸体埋葬，以防止疾病扩散。  （译林⑥ – 4）  
+<audio src="./media/1-bury.aac"></audio>
 
 ### 2.*高义频：* **埋藏；掩藏；遮盖：**  
 
  > The dog **buried** the bone **in** the ground.   
  > 狗把骨头埋进了地里。    
+<audio src="./media/3-bury.aac"></audio>
 
  > He **buried** his face **in** his hands.   
  > 他双手掩面。    
+<audio src="./media/2-bury.aac"></audio>
 
 
 固定搭配
@@ -9246,10 +12747,17 @@ burnt /bɜːrnt/ adj
 
  > As you know, I’m still buried in books at the school you are so familiar with.   
  > 如你所知，我还在你所熟悉的那所学校埋头读书。    
+<audio src="./media/bury-4.aac"></audio>
 
 
 # ***\#bus*** n
-英音 bʌs     美音 bʌs  
+英音 bʌs  
+英音
+<audio src="./media/bus-B.aac"></audio>
+美音 bʌs  
+美音
+<audio src="./media/bus.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -9261,7 +12769,13 @@ burnt /bɜːrnt/ adj
 
 
 # ***\#bus*** v
-英音 bʌs     美音 bʌs  
+英音 bʌs  
+英音
+<audio src="./media/bus-B.aac"></audio>
+美音 bʌs  
+美音
+<audio src="./media/bus.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -9273,7 +12787,13 @@ burnt /bɜːrnt/ adj
 
 
 # ***\#bush*** n
-英音 bʊʃ     美音 bʊʃ  
+英音 bʊʃ  
+英音
+<audio src="./media/bush-B.aac"></audio>
+美音 bʊʃ  
+美音
+<audio src="./media/bush.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -9285,7 +12805,13 @@ burnt /bɜːrnt/ adj
 
 
 # ***\#business*** n
-英音 'bɪznəs     美音 'bɪznəs  
+英音 'bɪznəs  
+英音
+<audio src="./media/business-B.aac"></audio>
+美音 'bɪznəs  
+美音
+<audio src="./media/business.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -9302,48 +12828,59 @@ burnt /bɜːrnt/ adj
 
  > We do not do much business with them.  
  > 我们和他们没有多少生意来往。    
+<audio src="./media/1-business.aac"></audio>
 
  > **Business cards** should be offered and received with two hands.  
  > 呈递和接收商务名片应用双手。  （2014 浙江）  
+<audio src="./media/Business-Business cards should be.aac"></audio>
 
 ### 2.*高义频：* **营业额；生意额：**  
 
  > **Business is slow** during the third quarter.  
  > 第三季度生意清淡。    
+<audio src="./media/3-business.aac"></audio>
 
 ### 3.*高义频：* **商务；公事**  
 英译  the work you do as your job：
 
  > We discussed the idea over a **business lunch**.   
  > 我们在一次商务午餐时讨论了这一想法。    
+<audio src="./media/4-business.aac"></audio>
 
  > Father had left for London **on business** upon my arrival, so I didn’t see him.   
  > 我回来时，父亲已去伦敦出差了，所以我没能见到他。    
+<audio src="./media/5-business.aac"></audio>
 
 ### 4.*高义频：* **职责；事务：**  
 
  > A teacher’s business is to teach.   
  > 老师的职责是教学。    
+<audio src="./media/6-business.aac"></audio>
 
  > It is **none of your business** what other people think about you.  
  > 别人怎么看你与你无关。    
+<audio src="./media/7-business.aac"></audio>
 
  > **Mind your own business**.  
  > 别管闲事。    
+<audio src="./media/8-business.aac"></audio>
 
  > She **made it her business to** take care of her younger sister after her mother died.  
  > 母亲去世后，她把照顾妹妹当作自己的责任。    
+<audio src="./media/Business-101_AAC.aac"></audio>
 
 ### 5.*低义频：* **事情：**  
 
  > Leon regards keeping fit as **a serious business**.  
  > 莱昂认为保持健康很重要。    
+<audio src="./media/9-business.aac"></audio>
 
 ### 6.*高义频：* **公司；店铺；企业**  
 英译  (firm / company)：
 
  > The book is about how to design a website and **start a business**.  
  > 这是一本关于如何设计网站并创业的书。  （2012 山东）  
+<audio src="./media/Business-102_AAC.aac"></audio>
 
  > **run a family business**  
  > 经营家族企业    
@@ -9356,6 +12893,7 @@ burnt /bɜːrnt/ adj
 
  > English and German cultures share similar values; however, Germans prefer to get down to business more quickly.   
  > 英德文化有相似的价值观，然而，德国人更喜欢尽快办正事。    
+<audio src="./media/10-business.aac"></audio>
 
 ## \#mean business
 1.**［非正式用语］是认真的；是当真的**  
@@ -9365,10 +12903,17 @@ burnt /bɜːrnt/ adj
 
  > One day, the boss told us that the company was out of business.   
  > 一天，老板告诉我们公司倒闭了。    
+<audio src="./media/11-business.aac"></audio>
 
 
 # ***\#businessman*** n
-英音 'bɪznəsmæn; 'bɪznəsmən     美音 'bɪznəsmæn; 'bɪznəsmən  
+英音 'bɪznəsmæn; 'bɪznəsmən  
+英音
+<audio src="./media/businessman1.aac"></audio>
+美音 'bɪznəsmæn; 'bɪznəsmən  
+美音
+<audio src="./media/businessman2.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -9380,7 +12925,13 @@ burnt /bɜːrnt/ adj
 
 
 # ***\#businesswoman*** n
-英音 'bɪznəswʊmən     美音 'bɪznəswʊmən  
+英音 'bɪznəswʊmən  
+英音
+<audio src="./media/businesswoman-B.aac"></audio>
+美音 'bɪznəswʊmən  
+美音
+<audio src="./media/businesswoman.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -9392,7 +12943,13 @@ burnt /bɜːrnt/ adj
 
 
 # ***\#busy*** adj
-英音 'bɪzi     美音 'bɪzi  
+英音 'bɪzi  
+英音
+<audio src="./media/busy-B.aac"></audio>
+美音 'bɪzi  
+美音
+<audio src="./media/busy.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -9402,16 +12959,19 @@ burnt /bɜːrnt/ adj
 
  > Could I have a word with you, if you’re not too busy?  
  > 你若不太忙的话，我跟你说句话行吗?    
+<audio src="./media/1-busy.aac"></audio>
 
 - (be) busy with sth / sb:
 
  > I am so busy with my classes that I just don’t have time to exercise.   
  > 我课业太忙，所以没时间锻炼。    
+<audio src="./media/2-busy.aac"></audio>
 
 - (be) busy doing sth:
 
  > Right now, I’m busy preparing for the National College Entrance Examination.  
  > 目前，我正忙着准备高考。  （北师大⑤ – 13）  
+<audio src="./media/3-busy.aac"></audio>
 
 ### 2.*高义频：* **繁忙的 (一段时间)； 热闹的 (地点)：**  
 
@@ -9420,18 +12980,27 @@ burnt /bɜːrnt/ adj
 
  > The shops are very busy before Christmas.   
  > 圣诞节前商店里很热闹。    
+<audio src="./media/4-busy.aac"></audio>
 
 ### 3.*高义频：* **(尤指电话线) 被占用的；没空的：**  
 
  > I’m sorry, sir. The line is busy.  
  > 对不起，先生，电话占线。    
+<audio src="./media/5-busy.aac"></audio>
 
  > Every time I call the number, I get a **busy signal**.   
  > 我每次拨打那个号码都会听到忙音。    
+<audio src="./media/P67 busy-1.aac"></audio>
 
 
 # ***\#busy*** v
-英音 'bɪzi     美音 'bɪzi  
+英音 'bɪzi  
+英音
+<audio src="./media/busy-B.aac"></audio>
+美音 'bɪzi  
+美音
+<audio src="./media/busy.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -9441,7 +13010,13 @@ burnt /bɜːrnt/ adj
 
 
 # ***\#but*** conj
-英音 bət; bʌt     美音 bət; bʌt  
+英音 bət; bʌt  
+英音
+<audio src="./media/but1.aac"></audio>
+美音 bət; bʌt  
+美音
+<audio src="./media/but2.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -9451,14 +13026,17 @@ burnt /bɜːrnt/ adj
 
  > At the end of the day, we were tired but happy.  
  > 那天结束时，我们很累，但很快乐。    
+<audio src="./media/But-101_AAC.aac"></audio>
 
  > **Excuse me**, **but** may I use your phone?  
  > 对不起，我可以借用你的电话吗？    
+<audio src="./media/But-102_AAC.aac"></audio>
 
 ### 2.*高义频：* **除……外：**  
 
  > I had no other choice but to eat out.  
  > 我没有别的选择，只能在外面吃饭。  （2013 全国）  
+<audio src="./media/But-103_AAC.aac"></audio>
 
 
 真题解析
@@ -9469,7 +13047,13 @@ burnt /bɜːrnt/ adj
 1. but  
 
 # ***\#but*** prep
-英音 bət; bʌt     美音 bət; bʌt  
+英音 bət; bʌt  
+英音
+<audio src="./media/but1.aac"></audio>
+美音 bət; bʌt  
+美音
+<audio src="./media/but2.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 1 |  
 
@@ -9479,10 +13063,17 @@ burnt /bɜːrnt/ adj
 
  > There’s no one here but me.  
  > 这里除了我没别人。    
+<audio src="./media/5-but.aac"></audio>
 
 
 # ***\#but*** adv
-英音 bət; bʌt     美音 bət; bʌt  
+英音 bət; bʌt  
+英音
+<audio src="./media/but1.aac"></audio>
+美音 bət; bʌt  
+美音
+<audio src="./media/but2.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 1 |  
 
@@ -9492,9 +13083,11 @@ burnt /bɜːrnt/ adj
 
  > He is but a child.  
  > 他只是个孩子。    
+<audio src="./media/6-but.aac"></audio>
 
  > He left but an hour ago.  
  > 他一小时前才离去。    
+<audio src="./media/7-but.aac"></audio>
 
 
 固定搭配
@@ -9504,12 +13097,14 @@ burnt /bɜːrnt/ adj
 
  > But for your help, I could not have succeeded.  
  > 如果没有你的帮助，我不可能成功。    
+<audio src="./media/8-but.aac"></audio>
 
 ## \#but then (again)
 1.**不过；另一方面：**  
 
  > She speaks very good English. But then she did live in London for two years.  
  > 她英语讲得很好，不过她毕竟在伦敦生活过两年。    
+<audio src="./media/She speaks very good _AAC.aac"></audio>
 
 
 真题解析
@@ -9524,7 +13119,13 @@ D.but for
 1. D  
 
 # ***\#butcher*** n
-英音 'bʊtʃə(r)     美音 'bʊtʃər  
+英音 'bʊtʃə(r)  
+英音
+<audio src="./media/butcher-B.aac"></audio>
+美音 'bʊtʃər  
+美音
+<audio src="./media/butcher.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -9536,7 +13137,13 @@ D.but for
 
 
 # ***\#butcher*** vt
-英音 'bʊtʃə(r)     美音 'bʊtʃər  
+英音 'bʊtʃə(r)  
+英音
+<audio src="./media/butcher-B.aac"></audio>
+美音 'bʊtʃər  
+美音
+<audio src="./media/butcher.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -9546,7 +13153,13 @@ D.but for
 
 
 # ***\#butter*** n
-英音 'bʌtə(r)     美音 'bʌtər  
+英音 'bʌtə(r)  
+英音
+<audio src="./media/butter-B.aac"></audio>
+美音 'bʌtər  
+美音
+<audio src="./media/butter.aac"></audio>
+
 
 | 词频 2 | 口语 2 |  
 
@@ -9558,7 +13171,13 @@ D.but for
 
 
 # ***\#butter*** vt
-英音 'bʌtə(r)     美音 'bʌtər  
+英音 'bʌtə(r)  
+英音
+<audio src="./media/butter-B.aac"></audio>
+美音 'bʌtər  
+美音
+<audio src="./media/butter.aac"></audio>
+
 
 | 词频 2 | 口语 2 |  
 
@@ -9568,7 +13187,13 @@ D.but for
 
 
 # ***\#butterfly*** n
-英音 'bʌtəflaɪ     美音 'bʌtərflaɪ  
+英音 'bʌtəflaɪ  
+英音
+<audio src="./media/butterfly-B.aac"></audio>
+美音 'bʌtərflaɪ  
+美音
+<audio src="./media/butterfly.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -9580,7 +13205,13 @@ D.but for
 
 
 # ***\#button*** n
-英音 'bʌtn     美音 'bʌtn  
+英音 'bʌtn  
+英音
+<audio src="./media/button-B.aac"></audio>
+美音 'bʌtn  
+美音
+<audio src="./media/button.aac"></audio>
+
 
 | 词频 4 | 口语 2 |  
 
@@ -9592,6 +13223,7 @@ D.but for
 
  > A button has come off.  
  > 掉了一颗纽扣。    
+<audio src="./media/1-button.aac"></audio>
 
 ### 2.*高义频：* **按钮 / 开关：**  
 
@@ -9600,7 +13232,13 @@ D.but for
 
 
 # ***\#button*** v
-英音 'bʌtn     美音 'bʌtn  
+英音 'bʌtn  
+英音
+<audio src="./media/button-B.aac"></audio>
+美音 'bʌtn  
+美音
+<audio src="./media/button.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -9613,10 +13251,17 @@ D.but for
 
  > Men’s clothes tend to button from the right, and women’s from the left.  
  > 男装通常是从右边扣的，而女装则是从左边。  （2010 重庆）  
+<audio src="./media/2-button.aac"></audio>
 
 
 # ***\#buy*** v
-英音 baɪ     美音 baɪ  
+英音 baɪ  
+英音
+<audio src="./media/buy-B.aac"></audio>
+美音 baɪ  
+美音
+<audio src="./media/buy.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -9629,6 +13274,7 @@ D.but for
 
  > When prices are low, he buys.  
  > 一降价，他就去购物。    
+<audio src="./media/2-buy.aac"></audio>
 
  > **buy sb sth / buy sth for sb / sth**:  
  >     
@@ -9638,16 +13284,19 @@ D.but for
 
  > He **bought** the car **for** $2,000.  
  > 他花2000美元买了那辆车。    
+<audio src="./media/1-buy.aac"></audio>
 
 ### 2.*低义频：* **（付出一定代价）获得：**  
 
  > He bought fame at the cost of his health and happiness.  
  > 他牺牲健康和幸福换来了名声。    
+<audio src="./media/Buy-101_AAC.aac"></audio>
 
 ### 3.*低义频：* **［非正式用语］相信：**  
 
  > He said it was a mistake, but I don’t **buy it**.  
  > 他说那是个失误，但我不相信。    
+<audio src="./media/He said it was a mistake_AAC.aac"></audio>
 
 
 固定搭配
@@ -9661,7 +13310,13 @@ D.but for
 buyer /baɪər/ n [C]  
 
 # ***\#buzz*** vi
-英音 bʌz     美音 bʌz  
+英音 bʌz  
+英音
+<audio src="./media/buzz-B.aac"></audio>
+美音 bʌz  
+美音
+<audio src="./media/buzz.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -9671,10 +13326,17 @@ buyer /baɪər/ n [C]
 
  > Bees were buzzing around the picnic tables.  
  > 蜜蜂嗡嗡地围着野餐桌。    
+<audio src="./media/1-buzz.aac"></audio>
 
 
 # ***\#buzz*** n
-英音 bʌz     美音 bʌz  
+英音 bʌz  
+英音
+<audio src="./media/buzz-B.aac"></audio>
+美音 bʌz  
+美音
+<audio src="./media/buzz.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -9686,7 +13348,13 @@ buyer /baɪər/ n [C]
 
 
 # ***\#by*** prep
-英音 baɪ     美音 baɪ  
+英音 baɪ  
+英音
+<audio src="./media/by-B.aac"></audio>
+美音 baɪ  
+美音
+<audio src="./media/by.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -9696,6 +13364,7 @@ buyer /baɪər/ n [C]
 
  > Come and sit by me.   
  > 过来坐在我身旁。    
+<audio src="./media/1-by.aac"></audio>
 
 #### 辨析 by, near
 二者都可作介词，表示“在附近”，但也有细微差别。  
@@ -9703,6 +13372,7 @@ buyer /baɪər/ n [C]
 **near** 有时表示距离较远。
  > We live near the sea.  
  > 我们住得离海很近。(通常看不到海)    
+<audio src="./media/3-by.aac"></audio>
 
 
 ### 2.*高义频：* **在…之前；在…期间：**  
@@ -9712,17 +13382,21 @@ buyer /baɪər/ n [C]
 
  > By this time tomorrow, I’ll be there.  
  > 明天这个时候，我会到那儿。    
+<audio src="./media/4-by.aac"></audio>
 
  > By the end of last year, my vocabulary had grown to 3,000 words.   
  > 到去年末，我的词汇量已达到了3000。    
+<audio src="./media/5-by.aac"></audio>
 
 ### 3.*高义频：* **被；由：**  
 
  > The play was written by Shakespeare.   
  > 此剧为莎士比亚所著。    
+<audio src="./media/6-by.aac"></audio>
 
  > Washing hands often is one of the effective ways to avoid being infected by diseases.   
  > 勤洗手是避免疾病传染的有效方法之一。    
+<audio src="./media/7-by.aac"></audio>
 
 ### 4.*高义频：* **用；凭借；通过：**  
 
@@ -9731,27 +13405,33 @@ buyer /baɪər/ n [C]
 
  > He saluted us by raising his hat.  
  > 他举帽向我们敬礼。    
+<audio src="./media/8-by.aac"></audio>
 
 ### 5.*高义频：* **抓着 (物体或身体的某个部位)：**  
 
  > I caught him by the arm.  
  > 我抓住了他的胳膊。    
+<audio src="./media/9-by.aac"></audio>
 
 ### 6.*高义频：* **由于：**  
 
  > We met by chance at the airport.  
  > 我们在机场不期而遇。    
+<audio src="./media/10-by.aac"></audio>
 
  > I’ve taken someone else’s bag by mistake.  
  > 我误拿了别人的包。    
+<audio src="./media/11-by.aac"></audio>
 
 ### 7.*高义频：* **经由；经过：**  
 
  > I’ll go to Japan by Canada.  
  > 我将经加拿大去日本。    
+<audio src="./media/12-by.aac"></audio>
 
  > He walked by me without noticing me.  
  > 他从我身旁走过，没注意到我。    
+<audio src="./media/13-by.aac"></audio>
 
 ### 8.*高义频：* **相差：**  
 
@@ -9765,11 +13445,13 @@ buyer /baɪər/ n [C]
 
  > We are paid by the hour.  
  > 我们按小时计酬。    
+<audio src="./media/14-by.aac"></audio>
 
 ### 10.*高义频：* **长…宽；用…乘 / 除：**  
 
  > The box is 40 cm by 60 cm.  
  > 这个盒子40厘米宽，60厘米长。    
+<audio src="./media/15-by.aac"></audio>
 
  > multiply 10 by 2  
  > 10乘以2    
@@ -9798,7 +13480,13 @@ D.out
 1. wear → wearing  2. by  3. B  4. by  
 
 # ***\#by*** adv
-英音 baɪ     美音 baɪ  
+英音 baɪ  
+英音
+<audio src="./media/by-B.aac"></audio>
+美音 baɪ  
+美音
+<audio src="./media/by.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -9808,14 +13496,17 @@ D.out
 
  > Don’t stand by.  
  > 不要袖手旁观。    
+<audio src="./media/16-by.aac"></audio>
 
  > A group of children passed by.  
  > 一群孩子从旁边过去。    
+<audio src="./media/17-by.aac"></audio>
 
 ### 2.*高义频：* **过去地；已往：**  
 
  > The happy days went by.  
  > 那些快乐的日子过去了。    
+<audio src="./media/18-by.aac"></audio>
 
 
 固定搭配
@@ -9828,7 +13519,13 @@ D.out
 
 
 # ***\#by-election*** n
-英音 ˈbaɪ ɪlekʃn     美音 ˈbaɪ ɪlekʃn  
+英音 ˈbaɪ ɪlekʃn  
+英音
+<audio src="./media/by-election1_AAC.aac"></audio>
+美音 ˈbaɪ ɪlekʃn  
+美音
+<audio src="./media/by-election2_AAC.aac"></audio>
+
 
   
 
@@ -9838,7 +13535,13 @@ D.out
 
 
 # ***\#bye*** int
-英音 baɪ     美音 baɪ  
+英音 baɪ  
+英音
+<audio src="./media/bye-B.aac"></audio>
+美音 baɪ  
+美音
+<audio src="./media/bye.aac"></audio>
+
 
 | 词频 3 | 口语 3 |  
 
@@ -9848,7 +13551,13 @@ D.out
 
 
 # ***\#byproduct*** n
-英音 'baɪˌprɒdʌkt     美音 'baɪˌprɒdəkt  
+英音 'baɪˌprɒdʌkt  
+英音
+<audio src="./media/byproduct-B.aac"></audio>
+美音 'baɪˌprɒdəkt  
+美音
+<audio src="./media/byproduct.aac"></audio>
+
 
 | 词频 1 |  
 

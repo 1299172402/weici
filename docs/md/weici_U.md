@@ -1,7 +1,13 @@
 # Uu
 
 # ***\#ugly*** adj
-英音 'ʌɡli     美音 'ʌɡli  
+英音 'ʌɡli  
+英音
+<audio src="./media/ugly-B.aac"></audio>
+美音 'ʌɡli  
+美音
+<audio src="./media/ugly.aac"></audio>
+
 
 | 词频 3 | 口语 1 |  
 
@@ -23,7 +29,13 @@
 
 
 # ***\#ultimate*** adj
-英音 'ʌltɪmət     美音 'ʌltɪmət  
+英音 'ʌltɪmət  
+英音
+<audio src="./media/ultimate1.aac"></audio>
+美音 'ʌltɪmət  
+美音
+<audio src="./media/ultimate2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -40,6 +52,7 @@
 
  > This race will be the ultimate test of your skill.  
  > 这次竞赛将是对你的技能的最大考验。    
+<audio src="./media/ultimate4.aac"></audio>
 
 
 派生词汇
@@ -47,7 +60,13 @@
 ultimately /'ʌltɪmətli/ adv [句子副词]  
 
 # ***\#ultimately*** adv
-英音 ˈʌltɪmətli     美音 ˈʌltɪmətli  
+英音 ˈʌltɪmətli  
+英音
+<audio src="./media/ultimately1_AAC.aac"></audio>
+美音 ˈʌltɪmətli  
+美音
+<audio src="./media/ultimately1_AAC.aac"></audio>
+
 
   
 
@@ -57,7 +76,13 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 
 
 # ***\#ultraviolet*** adj
-英音 ˌʌltrə'vaɪələt     美音 ˌʌltrə'vaɪələt  
+英音 ˌʌltrə'vaɪələt  
+英音
+<audio src="./media/ultraviolet1.aac"></audio>
+美音 ˌʌltrə'vaɪələt  
+美音
+<audio src="./media/ultraviolet2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -67,7 +92,13 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 
 
 # ***\#umbrella*** n
-英音 ʌm'brelə     美音 ʌm'brelə  
+英音 ʌm'brelə  
+英音
+<audio src="./media/umbrella-B.aac"></audio>
+美音 ʌm'brelə  
+美音
+<audio src="./media/umbrella.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -85,7 +116,13 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 
 
 # ***\#unable*** adj
-英音 ʌn'eɪbl     美音 ʌn'eɪbl  
+英音 ʌn'eɪbl  
+英音
+<audio src="./media/unable-B.aac"></audio>
+美音 ʌn'eɪbl  
+美音
+<audio src="./media/unable.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -100,10 +137,17 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 
  > He tried to make a telephone call, but was unable to get through.   
  > 他试图打电话，但没能打通。    
+<audio src="./media/unable-1.aac"></audio>
 
 
 # ***\#unaccompanied*** adj
-英音 ˌʌnəˈkʌmpənid     美音 ˌʌnəˈkʌmpənid  
+英音 ˌʌnəˈkʌmpənid  
+英音
+<audio src="./media/unaccompanied1_AAC.aac"></audio>
+美音 ˌʌnəˈkʌmpənid  
+美音
+<audio src="./media/unaccompanied2_AAC.aac"></audio>
+
 
   
 
@@ -113,7 +157,13 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 
 
 # ***\#unaware*** adj
-英音 ˌʌnə'weə(r)     美音 ˌʌnə'weə(r)  
+英音 ˌʌnə'weə(r)  
+英音
+<audio src="./media/unaware1_AAC.aac"></audio>
+美音 ˌʌnə'weə(r)  
+美音
+<audio src="./media/unaware2_AAC.aac"></audio>
+
 
   
 
@@ -123,7 +173,13 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 
 
 # ***\#unbalanced*** adj
-英音 ˌʌnˈbælənst     美音 ˌʌnˈbælənst  
+英音 ˌʌnˈbælənst  
+英音
+<audio src="./media/unbalanced1_AAC.aac"></audio>
+美音 ˌʌnˈbælənst  
+美音
+<audio src="./media/unbalanced2_AAC.aac"></audio>
+
 
   
 
@@ -133,7 +189,13 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 
 
 # ***\#unbearable*** adj
-英音 ʌn'beərəbl     美音 ʌn'berəbl  
+英音 ʌn'beərəbl  
+英音
+<audio src="./media/unbearable-B.aac"></audio>
+美音 ʌn'berəbl  
+美音
+<audio src="./media/unbearable.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -143,10 +205,17 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 
  > A toothache can be really unbearable.   
  > 牙痛确实难以忍受。    
+<audio src="./media/unbearable-1.aac"></audio>
 
 
 # ***\#unbelievable*** adj
-英音 ˌʌnbɪ'liːvəbl     美音 ˌʌnbɪ'liːvəbl  
+英音 ˌʌnbɪ'liːvəbl  
+英音
+<audio src="./media/unbelievable-B.aac"></audio>
+美音 ˌʌnbɪ'liːvəbl  
+美音
+<audio src="./media/unbelievable.aac"></audio>
+
 
 | 词频 3 | 口语 1 |  
 
@@ -156,10 +225,17 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 
  > She eats an unbelievable amount of food.   
  > 她的饭量大得惊人。    
+<audio src="./media/unbelievable-1.aac"></audio>
 
 
 # ***\#uncertain*** adj
-英音 ʌn'sɜːtn     美音 ʌn'sɜːrtn  
+英音 ʌn'sɜːtn  
+英音
+<audio src="./media/uncertain-B.aac"></audio>
+美音 ʌn'sɜːrtn  
+美音
+<audio src="./media/uncertain.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -170,27 +246,32 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 
  > The date of his arrival is still uncertain.   
  > 他到达的日期还不确定。    
+<audio src="./media/uncertain-1.aac"></audio>
 
 - (be) uncertain wh- to do:
 
  > We’re uncertain whether to stay or not.   
  > 我们拿不准是否要留下来。    
+<audio src="./media/uncertain-2.aac"></audio>
 
 - (be) uncertain of / about:
 
  > We feel uncertain about the future.   
  > 我们对未来没有把握。    
+<audio src="./media/uncertain-3.aac"></audio>
 
 - (be) uncertain + wh- 从句：
 
  > **It is uncertain what** his role in the company will be.  
  > 他将在公司担任什么职务尚未确定。    
+<audio src="./media/uncertain-4.aac"></audio>
 
 ### 2.*高义频：* **易变的；捉摸不定的**  
 英译 likely to change and become worse：
 
  > The uncertain weather delayed our journey.   
  > 天气变化不定，延误了我们的行程。    
+<audio src="./media/uncertain-5.aac"></audio>
 
 
 派生词汇
@@ -198,7 +279,13 @@ ultimately /'ʌltɪmətli/ adv [句子副词]
 uncertainty /ʌn'sɜːtnti/ n   
 
 # ***\#unchanged*** adj
-英音 ʌnˈtʃeɪndʒd     美音 ʌnˈtʃeɪndʒd  
+英音 ʌnˈtʃeɪndʒd  
+英音
+<audio src="./media/unchanged1_AAC.aac"></audio>
+美音 ʌnˈtʃeɪndʒd  
+美音
+<audio src="./media/unchanged2_AAC.aac"></audio>
+
 
   
 
@@ -208,7 +295,13 @@ uncertainty /ʌn'sɜːtnti/ n
 
 
 # ***\#uncharted*** adj
-英音 ˌʌn'tʃɑːtɪd     美音 ˌʌn'tʃɑːtɪd  
+英音 ˌʌn'tʃɑːtɪd  
+英音
+<audio src="./media/uncharted1_AAC.aac"></audio>
+美音 ˌʌn'tʃɑːtɪd  
+美音
+<audio src="./media/uncharted2_AAC.aac"></audio>
+
 
   
 
@@ -218,7 +311,13 @@ uncertainty /ʌn'sɜːtnti/ n
 
 
 # ***\#uncle*** n
-英音 'ʌŋkl     美音 'ʌŋkl  
+英音 'ʌŋkl  
+英音
+<audio src="./media/uncle-B.aac"></audio>
+美音 'ʌŋkl  
+美音
+<audio src="./media/uncle.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -232,7 +331,13 @@ uncertainty /ʌn'sɜːtnti/ n
 
 
 # ***\#unclear*** adj
-英音 ˌʌn'klɪə(r)     美音 ˌʌn'klɪr  
+英音 ˌʌn'klɪə(r)  
+英音
+<audio src="./media/unclear1.aac"></audio>
+美音 ˌʌn'klɪr  
+美音
+<audio src="./media/unclear2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -242,7 +347,13 @@ uncertainty /ʌn'sɜːtnti/ n
 
 
 # ***\#uncomfortable*** adj
-英音 ʌn'kʌmftəbl, ʌn'kʌmfətəbl     美音 ʌn'kʌmftəbl, ʌn'kʌmfərtəbl  
+英音 ʌn'kʌmftəbl, ʌn'kʌmfətəbl  
+英音
+<audio src="./media/uncomfortable1.aac"></audio>
+美音 ʌn'kʌmftəbl, ʌn'kʌmfərtəbl  
+美音
+<audio src="./media/uncomfortable.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -252,9 +363,11 @@ uncertainty /ʌn'sɜːtnti/ n
 
  > Having taken a drink, I felt rather uncomfortable and got a headache.   
  > 喝了一杯酒后，我感觉非常不舒服，而且还头疼。  （人教⑥ – 5）  
+<audio src="./media/uncomfortable-1.aac"></audio>
 
  > I feel uncomfortable with strangers.  
  > 我和陌生人在一起时会感到不自在。    
+<audio src="./media/uncomfortable4.aac"></audio>
 
 ### 2.*高义频：* **(物) 令人不舒服的：**  
 
@@ -263,7 +376,13 @@ uncertainty /ʌn'sɜːtnti/ n
 
 
 # ***\#uncomfortably*** adv
-英音 ʌn'kʌmftəbli     美音 ʌn'kʌmftəbli  
+英音 ʌn'kʌmftəbli  
+英音
+<audio src="./media/uncomfortably-B.aac"></audio>
+美音 ʌn'kʌmftəbli  
+美音
+<audio src="./media/uncomfortably.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -273,7 +392,13 @@ uncertainty /ʌn'sɜːtnti/ n
 
 
 # ***\#uncomplicated*** adj
-英音 ʌnˈkɒmplɪkeɪtɪd     美音 ʌnˈkɑːmplɪkeɪtɪd  
+英音 ʌnˈkɒmplɪkeɪtɪd  
+英音
+<audio src="./media/uncomplicated1_AAC.aac"></audio>
+美音 ʌnˈkɑːmplɪkeɪtɪd  
+美音
+<audio src="./media/uncomplicated2_AAC.aac"></audio>
+
 
   
 
@@ -283,7 +408,13 @@ uncertainty /ʌn'sɜːtnti/ n
 
 
 # ***\#unconditional*** adj
-英音 ˌʌnkən'dɪʃənl     美音 ˌʌnkən'dɪʃənl  
+英音 ˌʌnkən'dɪʃənl  
+英音
+<audio src="./media/unconditional-B.aac"></audio>
+美音 ˌʌnkən'dɪʃənl  
+美音
+<audio src="./media/unconditional.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -296,7 +427,13 @@ uncertainty /ʌn'sɜːtnti/ n
 
 
 # ***\#unconditionally*** adv
-英音 ˌʌnkən'dɪʃənəli     美音 ˌʌnkən'dɪʃənəli  
+英音 ˌʌnkən'dɪʃənəli  
+英音
+<audio src="./media/unconditionally1.aac"></audio>
+美音 ˌʌnkən'dɪʃənəli  
+美音
+<audio src="./media/unconditionally2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -306,7 +443,13 @@ uncertainty /ʌn'sɜːtnti/ n
 
 
 # ***\#unconscious*** adj
-英音 ʌn'kɒnʃəs     美音 ʌn'kɑːnʃəs  
+英音 ʌn'kɒnʃəs  
+英音
+<audio src="./media/unconscious-B.aac"></audio>
+美音 ʌn'kɑːnʃəs  
+美音
+<audio src="./media/unconscious.aac"></audio>
+
 
 | 词频 2 | 阅读 2 |  
 
@@ -316,20 +459,29 @@ uncertainty /ʌn'sɜːtnti/ n
 
  > She was unconscious for two days after the accident.  
  > 事故发生之后，她昏迷了两天。    
+<audio src="./media/unconscious-1.aac"></audio>
 
 ### 2.*高义频：* **不知道的；未发觉的：**  
 
  > He **is unconscious of** his mistake.   
  > 他没有意识到自己的错误。    
+<audio src="./media/unconscious-2.aac"></audio>
 
 ### 3.*高义频：* **无意识的；不知不觉的：**  
 
  > We see examples of unconscious body language very often.   
  > 我们经常看到无意识的身势语。  （外研④ – 3）  
+<audio src="./media/unconscious-3.aac"></audio>
 
 
 # ***\#unconstrained*** adj
-英音 ˌʌnkən'streɪnd     美音 ˌʌnkən'streɪnd  
+英音 ˌʌnkən'streɪnd  
+英音
+<audio src="./media/unconstrained1_AAC.aac"></audio>
+美音 ˌʌnkən'streɪnd  
+美音
+<audio src="./media/unconstrained2_AAC.aac"></audio>
+
 
   
 
@@ -339,7 +491,13 @@ uncertainty /ʌn'sɜːtnti/ n
 
 
 # ***\#uncontrolled*** adj
-英音 ˌʌnkən'trəʊld     美音 ˌʌnkən'trəʊld  
+英音 ˌʌnkən'trəʊld  
+英音
+<audio src="./media/uncontrolled-B.aac"></audio>
+美音 ˌʌnkən'trəʊld  
+美音
+<audio src="./media/uncontrolled2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -349,7 +507,13 @@ uncertainty /ʌn'sɜːtnti/ n
 
 
 # ***\#uncover*** vt
-英音 ʌn'kʌvə(r)     美音 ʌn'kʌvər  
+英音 ʌn'kʌvə(r)  
+英音
+<audio src="./media/uncover-B.aac"></audio>
+美音 ʌn'kʌvər  
+美音
+<audio src="./media/uncover.aac"></audio>
+
 
 | 词频 3 | 阅读 2 |  
 
@@ -364,13 +528,20 @@ uncertainty /ʌn'sɜːtnti/ n
 
  > Although the causes of cancer are being uncovered, we do not yet have any practical way to prevent it.  
  > 尽管致癌的原因已经被查明，我们还是没有行之有效的预防方法。  （2006 山东）  
+<audio src="./media/uncover-1.aac"></audio>
 
  > uncover their tricks   
  > 揭露他们的阴谋诡计    
 
 
 # ***\#uncritically*** adv
-英音 ˌʌnˈkrɪtɪkli     美音 ˌʌnˈkrɪtɪkli  
+英音 ˌʌnˈkrɪtɪkli  
+英音
+<audio src="./media/uncritically1_AAC.aac"></audio>
+美音 ˌʌnˈkrɪtɪkli  
+美音
+<audio src="./media/uncritically2_AAC.aac"></audio>
+
 
   
 
@@ -380,7 +551,13 @@ uncertainty /ʌn'sɜːtnti/ n
 
 
 # ***\#under*** prep
-英音 'ʌndə(r)     美音 'ʌndər  
+英音 'ʌndə(r)  
+英音
+<audio src="./media/under-B.aac"></audio>
+美音 'ʌndər  
+美音
+<audio src="./media/under.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -391,15 +568,18 @@ uncertainty /ʌn'sɜːtnti/ n
 
  > Don’t stand under a tree during a thunderstorm.  
  > 雷雨时不要站在树下。    
+<audio src="./media/under-1.aac"></audio>
 
  > He got out from under the bed.   
  > 他从床底下钻出来了。    
+<audio src="./media/under-2.aac"></audio>
 
 ### 2.*高义频：* **低于；少于；在...以下：**  
 反义词 over 
 
  > Nearly l8 million children **under the age of** five around the world are estimated to be overweight.  
  > 估计全世界有近1800万5岁以下的儿童超重。  （2013 湖北改）  
+<audio src="./media/under-3.aac"></audio>
 
 ### 3.*高义频：* **在...之下：**  
 
@@ -416,15 +596,23 @@ uncertainty /ʌn'sɜːtnti/ n
 
  > It is still **under discussion** (= being discussed) whether the old bus station should be replaced with a modern hotel or not.   
  > 是否应拆掉旧车站建一个现代化的宾馆还在讨论中。    
+<audio src="./media/under-4.aac"></audio>
 
 ### 5.*低义频：* **用；凭借：**  
 
  > Mary Ann Evans wrote **under** **the** **name** **of** George Eliot.   
  > 玛丽·安·埃文斯用乔治·艾略特作笔名进行创作。    
+<audio src="./media/under-5.aac"></audio>
 
 
 # ***\#under*** adv
-英音 'ʌndə(r)     美音 'ʌndər  
+英音 'ʌndə(r)  
+英音
+<audio src="./media/under-B.aac"></audio>
+美音 'ʌndər  
+美音
+<audio src="./media/under.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -434,10 +622,17 @@ uncertainty /ʌn'sɜːtnti/ n
 
  > The ship went under.  
  > 船沉了。    
+<audio src="./media/under-6.aac"></audio>
 
 
 # ***\#underdeveloped*** adj
-英音 ˌʌndədɪˈveləpt     美音 ˌʌndərdɪˈveləpt  
+英音 ˌʌndədɪˈveləpt  
+英音
+<audio src="./media/underdeveloped1_AAC.aac"></audio>
+美音 ˌʌndərdɪˈveləpt  
+美音
+<audio src="./media/underdeveloped2_AAC.aac"></audio>
+
 
   
 
@@ -447,7 +642,13 @@ uncertainty /ʌn'sɜːtnti/ n
 
 
 # ***\#underdog*** n
-英音 'ʌndədɒɡ     美音 'ʌndərdɔːɡ  
+英音 'ʌndədɒɡ  
+英音
+<audio src="./media/underdog-B.aac"></audio>
+美音 'ʌndərdɔːɡ  
+美音
+<audio src="./media/underdog.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -459,7 +660,13 @@ uncertainty /ʌn'sɜːtnti/ n
 
 
 # ***\#undergo*** vt
-英音 ˌʌndə'ɡəʊ     美音 ˌʌndər'ɡoʊ  
+英音 ˌʌndə'ɡəʊ  
+英音
+<audio src="./media/undergo-B.aac"></audio>
+美音 ˌʌndər'ɡoʊ  
+美音
+<audio src="./media/undergo.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -471,10 +678,17 @@ uncertainty /ʌn'sɜːtnti/ n
 
  > Our astronauts undergo a long period of testing and training.  
  > 我们的宇航员要经历长时间的考验和训练。    
+<audio src="./media/undergo-1.aac"></audio>
 
 
 # ***\#undergraduate*** n
-英音 ˌʌndə'ɡrædʒuət     美音 ˌʌndər'ɡrædʒuət  
+英音 ˌʌndə'ɡrædʒuət  
+英音
+<audio src="./media/undergraduate1_AAC.aac"></audio>
+美音 ˌʌndər'ɡrædʒuət  
+美音
+<audio src="./media/undergraduate2_AAC.aac"></audio>
+
 
   
 
@@ -484,7 +698,13 @@ uncertainty /ʌn'sɜːtnti/ n
 
 
 # ***\#underground*** adj
-英音 ˌʌndə'ɡraʊnd     美音 ˌʌndə'ɡraʊnd  
+英音 ˌʌndə'ɡraʊnd  
+英音
+<audio src="./media/underground1.aac"></audio>
+美音 ˌʌndə'ɡraʊnd  
+美音
+<audio src="./media/underground1-x.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -500,7 +720,13 @@ uncertainty /ʌn'sɜːtnti/ n
 
 
 # ***\#underground*** n
-英音 'ʌndəɡraʊnd     美音 'ʌndəɡraʊnd  
+英音 'ʌndəɡraʊnd  
+英音
+<audio src="./media/underground-B.aac"></audio>
+美音 'ʌndəɡraʊnd  
+美音
+<audio src="./media/underground1-2.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -516,7 +742,13 @@ uncertainty /ʌn'sɜːtnti/ n
 
 
 # ***\#undergrowth*** n
-英音 'ʌndəɡrəʊθ     美音 'ʌndərɡroʊθ  
+英音 'ʌndəɡrəʊθ  
+英音
+<audio src="./media/undergrowth1_AAC.aac"></audio>
+美音 'ʌndərɡroʊθ  
+美音
+<audio src="./media/undergrowth2_AAC.aac"></audio>
+
 
   
 
@@ -526,7 +758,13 @@ uncertainty /ʌn'sɜːtnti/ n
 
 
 # ***\#underline*** vt
-英音 ˌʌndə'laɪn     美音 ˌʌndər'laɪn  
+英音 ˌʌndə'laɪn  
+英音
+<audio src="./media/underline-B.aac"></audio>
+美音 ˌʌndər'laɪn  
+美音
+<audio src="./media/underline.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -536,6 +774,7 @@ uncertainty /ʌn'sɜːtnti/ n
 
  > Find and underline the topic sentence of each paragraph.   
  > 找出每段的主题句并在其下画线。  （人教④ – 2）  
+<audio src="./media/underline-1.aac"></audio>
 
 
 派生词汇
@@ -543,7 +782,13 @@ uncertainty /ʌn'sɜːtnti/ n
 underlined /ˌʌndə'laɪnd/ adj   
 
 # ***\#underneath*** adv & prep
-英音 ˌʌndə'niːθ     美音 ˌʌndər'niːθ  
+英音 ˌʌndə'niːθ  
+英音
+<audio src="./media/underneath-B.aac"></audio>
+美音 ˌʌndər'niːθ  
+美音
+<audio src="./media/underneath.aac"></audio>
+
 
 | 词频 1 | 口语 2 |  
 
@@ -553,10 +798,17 @@ underlined /ˌʌndə'laɪnd/ adj
 
  > He went to his desk to look for some papers and found them underneath some books.   
  > 他走向桌子想找些报纸，发现它们放在一堆书下面。  （外研⑥ – 3）  
+<audio src="./media/underneath-1.aac"></audio>
 
 
 # ***\#underpants*** n
-英音 'ʌndəpænts     美音 'ʌndəpænts  
+英音 'ʌndəpænts  
+英音
+<audio src="./media/underpants1.aac"></audio>
+美音 'ʌndəpænts  
+美音
+<audio src="./media/underpants2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -566,7 +818,13 @@ underlined /ˌʌndə'laɪnd/ adj
 
 
 # ***\#understand*** v
-英音 ˌʌndə'stænd     美音 ˌʌndər'stænd  
+英音 ˌʌndə'stænd  
+英音
+<audio src="./media/understand-B.aac"></audio>
+美音 ˌʌndər'stænd  
+美音
+<audio src="./media/understand.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -578,12 +836,15 @@ underlined /ˌʌndə'laɪnd/ adj
 
  > You don’t need to understand how computers work to be able to use them.   
  > 你不一定非要懂计算机运作原理才会使用电脑。    
+<audio src="./media/understand-3.aac"></audio>
 
  > Just tell your parents how you feel — I’m sure they’ll understand.   
  > 只管把你的感受告诉父母——我敢肯定他们会理解的。    
+<audio src="./media/understand-4.aac"></audio>
 
  > Doctors still don’t understand much about the disease.   
  > 医生们对这种疾病了解得还不多。    
+<audio src="./media/understand-1.aac"></audio>
 
 ### 2.*低义频：* **得知；据信；认为：**  
 
@@ -591,6 +852,7 @@ underlined /ˌʌndə'laɪnd/ adj
 
  > We understand him to be our new monitor.   
  > 我们得知他将成为我们的新班长。    
+<audio src="./media/understand-5.aac"></audio>
 
 
 固定搭配
@@ -600,6 +862,7 @@ underlined /ˌʌndə'laɪnd/ adj
 
  > Can you make yourself understood in English?  
  > 你能用英语说清楚自己的意思吗？    
+<audio src="./media/understand-6.aac"></audio>
 
 
 派生词汇
@@ -607,7 +870,13 @@ underlined /ˌʌndə'laɪnd/ adj
 understandable /ˌʌndə'stændəbl/ adj   
 
 # ***\#understanding*** n
-英音 ˌʌndə'stændɪŋ     美音 ˌʌndər'stændɪŋ  
+英音 ˌʌndə'stændɪŋ  
+英音
+<audio src="./media/understanding-B.aac"></audio>
+美音 ˌʌndər'stændɪŋ  
+美音
+<audio src="./media/understanding.aac"></audio>
+
 
 | 词频 4 | 书面 1 |  
 
@@ -620,6 +889,7 @@ understandable /ˌʌndə'stændəbl/ adj
 
  > Our understanding of education, work and society is different from that of the earlier generation.  
  > 我们对教育、工作和社会的认识和我们上一代人不同。  （2012 湖北）  
+<audio src="./media/understanding51.aac"></audio>
 
 ### 2.*高义频：* **(非正式的) 协定：**  
 
@@ -628,7 +898,13 @@ understandable /ˌʌndə'stændəbl/ adj
 
 
 # ***\#understanding*** adj
-英音 ˌʌndə'stændɪŋ     美音 ˌʌndər'stændɪŋ  
+英音 ˌʌndə'stændɪŋ  
+英音
+<audio src="./media/understanding-B.aac"></audio>
+美音 ˌʌndər'stændɪŋ  
+美音
+<audio src="./media/understanding.aac"></audio>
+
 
 | 词频 4 | 书面 1 |  
 
@@ -638,7 +914,13 @@ understandable /ˌʌndə'stændəbl/ adj
 
 
 # ***\#undertake*** vt
-英音 ˌʌndə'teɪk     美音 ˌʌndər'teɪk  
+英音 ˌʌndə'teɪk  
+英音
+<audio src="./media/undertake-B.aac"></audio>
+美音 ˌʌndər'teɪk  
+美音
+<audio src="./media/undertake.aac"></audio>
+
 
 | 词频 2 | 书面 1 | 阅读 1 |  
 
@@ -654,6 +936,7 @@ understandable /ˌʌndə'stændəbl/ adj
 
  > He **undertook** the difficult **task** willingly.   
  > 他欣然承担起了这一艰巨任务。    
+<audio src="./media/undertake-1.aac"></audio>
 
 ### 2.*低义频：* **接受；同意**  
 英译 to agree or promise to do sth：
@@ -662,10 +945,17 @@ understandable /ˌʌndə'stændəbl/ adj
 
  > He undertook to finish the job by Friday.   
  > 他同意星期五之前完成这项工作。    
+<audio src="./media/undertake-2.aac"></audio>
 
 
 # ***\#underwater*** adj
-英音 ˌʌndə'wɔːtə(r)     美音 ˌʌndər'wɔːtər  
+英音 ˌʌndə'wɔːtə(r)  
+英音
+<audio src="./media/underwater-B.aac"></audio>
+美音 ˌʌndər'wɔːtər  
+美音
+<audio src="./media/underwater.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -675,7 +965,13 @@ understandable /ˌʌndə'stændəbl/ adj
 
 
 # ***\#underwater*** adv
-英音 ˌʌndə'wɔːtə(r)     美音 ˌʌndər'wɔːtər  
+英音 ˌʌndə'wɔːtə(r)  
+英音
+<audio src="./media/underwater-B.aac"></audio>
+美音 ˌʌndər'wɔːtər  
+美音
+<audio src="./media/underwater.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -685,7 +981,13 @@ understandable /ˌʌndə'stændəbl/ adj
 
 
 # ***\#underway*** adj
-英音 ˌʌndə'weɪ     美音 ˌʌndər'weɪ  
+英音 ˌʌndə'weɪ  
+英音
+<audio src="./media/underway1.aac"></audio>
+美音 ˌʌndər'weɪ  
+美音
+<audio src="./media/underway2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -695,7 +997,13 @@ understandable /ˌʌndə'stændəbl/ adj
 
 
 # ***\#underwear*** n
-英音 'ʌndəweə(r)     美音 'ʌndərwer  
+英音 'ʌndəweə(r)  
+英音
+<audio src="./media/underwear-B.aac"></audio>
+美音 'ʌndərwer  
+美音
+<audio src="./media/underwear.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -707,7 +1015,13 @@ understandable /ˌʌndə'stændəbl/ adj
 
 
 # ***\#undo*** vt
-英音 ʌn'duː     美音 ʌn'duː  
+英音 ʌn'duː  
+英音
+<audio src="./media/undo-B.aac"></audio>
+美音 ʌn'duː  
+美音
+<audio src="./media/undo.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -724,13 +1038,20 @@ understandable /ˌʌndə'stændəbl/ adj
 
  > What is done cannot be undone.   
  > 覆水难收。    
+<audio src="./media/undo-1.aac"></audio>
 
  > undo his post   
  > 撤销他的职位    
 
 
 # ***\#undoubtedly*** adv
-英音 ʌn'daʊtɪdli     美音 ʌn'daʊtɪdli  
+英音 ʌn'daʊtɪdli  
+英音
+<audio src="./media/undoubtedly-B.aac"></audio>
+美音 ʌn'daʊtɪdli  
+美音
+<audio src="./media/undoubtedly.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -740,10 +1061,17 @@ understandable /ˌʌndə'stændəbl/ adj
 
  > Undoubtedly, technology is an important development, and it will have an even bigger impact on our lives.  
  > 毫无疑问，科技的发展非常重要，它甚至会对我们的生活产生更大的影响。  （ 2011 上海）  
+<audio src="./media/undoubtedly-1.aac"></audio>
 
 
 # ***\#undress*** v
-英音 ʌnˈdres     美音 ʌnˈdres  
+英音 ʌnˈdres  
+英音
+<audio src="./media/undress1_AAC.aac"></audio>
+美音 ʌnˈdres  
+美音
+<audio src="./media/undress2_AAC.aac"></audio>
+
 
   
 
@@ -753,7 +1081,13 @@ understandable /ˌʌndə'stændəbl/ adj
 
 
 # ***\#unearth*** vt
-英音 ʌn'ɜːθ     美音 ʌn'ɜːrθ  
+英音 ʌn'ɜːθ  
+英音
+<audio src="./media/unearth1_AAC.aac"></audio>
+美音 ʌn'ɜːrθ  
+美音
+<audio src="./media/unearth2_AAC.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -763,7 +1097,13 @@ understandable /ˌʌndə'stændəbl/ adj
 
 
 # ***\#uneasy*** adj
-英音 ʌn'iːzi     美音 ʌn'iːzi  
+英音 ʌn'iːzi  
+英音
+<audio src="./media/uneasy-B.aac"></audio>
+美音 ʌn'iːzi  
+美音
+<audio src="./media/uneasy.aac"></audio>
+
 
 | 词频 2 | 阅读 2 |  
 
@@ -779,7 +1119,13 @@ understandable /ˌʌndə'stændəbl/ adj
 
 
 # ***\#unemployed*** adj
-英音 ˌʌnɪm'plɔɪd     美音 ˌʌnɪm'plɔɪd  
+英音 ˌʌnɪm'plɔɪd  
+英音
+<audio src="./media/unemployed-B.aac"></audio>
+美音 ˌʌnɪm'plɔɪd  
+美音
+<audio src="./media/unemployed.aac"></audio>
+
 
 | 词频 2 | 口语 2 | 书面 1 | 阅读 2 |  
 
@@ -789,10 +1135,17 @@ understandable /ˌʌndə'stændəbl/ adj
 
  > The unemployed hunger for jobs.  
  > 失业者渴望得到工作。    
+<audio src="./media/unemployed3.aac"></audio>
 
 
 # ***\#unemployment*** n
-英音 ˌʌnɪm'plɔɪmənt     美音 ˌʌnɪm'plɔɪmənt  
+英音 ˌʌnɪm'plɔɪmənt  
+英音
+<audio src="./media/unemployment-B.aac"></audio>
+美音 ˌʌnɪm'plɔɪmənt  
+美音
+<audio src="./media/unemployment.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 2 |  
 
@@ -810,7 +1163,13 @@ understandable /ˌʌndə'stændəbl/ adj
 
 
 # ***\#unexceptional*** adj
-英音 ˌʌnɪk'sepʃənl     美音 ˌʌnɪk'sepʃənl  
+英音 ˌʌnɪk'sepʃənl  
+英音
+<audio src="./media/unexceptional1_AAC.aac"></audio>
+美音 ˌʌnɪk'sepʃənl  
+美音
+<audio src="./media/unexceptional2_AAC.aac"></audio>
+
 
   
 
@@ -820,7 +1179,13 @@ understandable /ˌʌndə'stændəbl/ adj
 
 
 # ***\#unexpected*** adj
-英音 ˌʌnɪk'spektɪd     美音 ˌʌnɪk'spektɪd  
+英音 ˌʌnɪk'spektɪd  
+英音
+<audio src="./media/unexpected-B.aac"></audio>
+美音 ˌʌnɪk'spektɪd  
+美音
+<audio src="./media/unexpected.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -833,6 +1198,7 @@ understandable /ˌʌndə'stændəbl/ adj
 
  > Police officers must be prepared for **the unexpected**.  
  > 警察必须为意外情况做好准备。    
+<audio src="./media/unexpected4.aac"></audio>
 
 
 派生词汇
@@ -851,7 +1217,13 @@ D.unbelievable
 1. B  
 
 # ***\#unexplained*** adj
-英音 ˌʌnɪk'spleɪnd     美音 ˌʌnɪk'spleɪnd  
+英音 ˌʌnɪk'spleɪnd  
+英音
+<audio src="./media/unexplained1.aac"></audio>
+美音 ˌʌnɪk'spleɪnd  
+美音
+<audio src="./media/unexplained2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -861,7 +1233,13 @@ D.unbelievable
 
 
 # ***\#unfair*** adj
-英音 ˌʌn'feə(r)     美音 ˌʌn'fer  
+英音 ˌʌn'feə(r)  
+英音
+<audio src="./media/unfair-B.aac"></audio>
+美音 ˌʌn'fer  
+美音
+<audio src="./media/unfair.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -875,6 +1253,7 @@ D.unbelievable
 
  > It seems **unfair on** / to him to make him pay for everything.**to_1**  
  > 让他承担一切费用似乎对他不公平。    
+<audio src="./media/unfair-1.aac"></audio>
 
  > by unfair means   
  > 用不正当的手段    
@@ -886,7 +1265,13 @@ unfairly /ˌʌn'feə(r)li/ adv
 unfairness /ˌʌn'feə(r)nes/ n   
 
 # ***\#unfamiliar*** adj
-英音 ˌʌnfə'mɪliə(r)     美音 ˌʌnfə'mɪliər  
+英音 ˌʌnfə'mɪliə(r)  
+英音
+<audio src="./media/unfamiliar1_AAC.aac"></audio>
+美音 ˌʌnfə'mɪliər  
+美音
+<audio src="./media/unfamiliar2_AAC.aac"></audio>
+
 
   
 
@@ -896,7 +1281,13 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 
 # ***\#unfavourable*** adj
-英音 ʌnˈfeɪvərəbl     美音 ʌnˈfeɪvərəbl  
+英音 ʌnˈfeɪvərəbl  
+英音
+<audio src="./media/unfavourable1_AAC.aac"></audio>
+美音 ʌnˈfeɪvərəbl  
+美音
+<audio src="./media/unfavourable2_AAC.aac"></audio>
+
 
   
 
@@ -906,7 +1297,13 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 
 # ***\#unfit*** adj
-英音 ʌn'fɪt     美音 ʌn'fɪt  
+英音 ʌn'fɪt  
+英音
+<audio src="./media/unfit-B.aac"></audio>
+美音 ʌn'fɪt  
+美音
+<audio src="./media/unfit.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -920,13 +1317,21 @@ unfairness /ˌʌn'feə(r)nes/ n
 
  > He is drunk and **unfit to** drive.   
  > 他喝醉了，不适合开车。    
+<audio src="./media/unfit-1.aac"></audio>
 
  > As a child he was very unfit and was not at all interested in sports**人教⑨ – 1**  
  > 他小时候身体很不好，一点儿也不喜欢运动。    
+<audio src="./media/unfit-2.aac"></audio>
 
 
 # ***\#unfold*** vt
-英音 ʌn'fəʊld     美音 ʌn'foʊld  
+英音 ʌn'fəʊld  
+英音
+<audio src="./media/unfold1_AAC.aac"></audio>
+美音 ʌn'foʊld  
+美音
+<audio src="./media/unfold2_AAC.aac"></audio>
+
 
   
 
@@ -936,7 +1341,13 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 
 # ***\#unforgettable*** adj
-英音 ˌʌnfə'ɡetəbl     美音 ˌʌnfər'ɡetəbl  
+英音 ˌʌnfə'ɡetəbl  
+英音
+<audio src="./media/unforgettable-B.aac"></audio>
+美音 ˌʌnfər'ɡetəbl  
+美音
+<audio src="./media/unforgettable.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -949,7 +1360,13 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 
 # ***\#unforgiving*** adj
-英音 ˌʌnfə'ɡɪvɪŋ     美音 ˌʌnfə'ɡɪvɪŋ  
+英音 ˌʌnfə'ɡɪvɪŋ  
+英音
+<audio src="./media/unforgiving1_AAC.aac"></audio>
+美音 ˌʌnfə'ɡɪvɪŋ  
+美音
+<audio src="./media/unforgiving2_AAC.aac"></audio>
+
 
   
 
@@ -959,7 +1376,13 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 
 # ***\#unfortunate*** adj
-英音 ʌn'fɔːtʃənət     美音 ʌn'fɔːrtʃənət  
+英音 ʌn'fɔːtʃənət  
+英音
+<audio src="./media/unfortunate-B.aac"></audio>
+美音 ʌn'fɔːrtʃənət  
+美音
+<audio src="./media/unfortunate.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -972,7 +1395,13 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 
 # ***\#unfortunately*** adv
-英音 ʌn'fɔːtʃənətli     美音 ʌn'fɔːrtʃənətli  
+英音 ʌn'fɔːtʃənətli  
+英音
+<audio src="./media/unfortunately-B.aac"></audio>
+美音 ʌn'fɔːrtʃənətli  
+美音
+<audio src="./media/unfortunately.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 1 |  
 
@@ -984,10 +1413,17 @@ unfairness /ˌʌn'feə(r)nes/ n
 
  > Unfortunately, instead of hitting the ball, he hit his own false teeth!   
  > 不幸的是，他没打到球，反而打到了自己的假牙!  （北师大⑥ – 17）  
+<audio src="./media/unfortunately-1.aac"></audio>
 
 
 # ***\#unhappy*** adj
-英音 ʌn'hæpi     美音 ʌn'hæpi  
+英音 ʌn'hæpi  
+英音
+<audio src="./media/unhappy-B.aac"></audio>
+美音 ʌn'hæpi  
+美音
+<audio src="./media/unhappy.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -998,10 +1434,17 @@ unfairness /ˌʌn'feə(r)nes/ n
 
  > He **was unhappy at / with / about** being left out of the school team.  
  > 他因未能入选校队而闷闷不乐。    
+<audio src="./media/unhappy-He was unhappy.aac"></audio>
 
 
 # ***\#unhealthy*** adj
-英音 ʌn'helθi     美音 ʌn'helθi  
+英音 ʌn'helθi  
+英音
+<audio src="./media/unhealthy-B.aac"></audio>
+美音 ʌn'helθi  
+美音
+<audio src="./media/unhealthy.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -1012,7 +1455,13 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 
 # ***\#uniform*** n
-英音 'juːnɪfɔːm     美音 'juːnɪfɔːrm  
+英音 'juːnɪfɔːm  
+英音
+<audio src="./media/uniform-B.aac"></audio>
+美音 'juːnɪfɔːrm  
+美音
+<audio src="./media/uniform.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 阅读 2 |  
 
@@ -1030,7 +1479,13 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 
 # ***\#uniform*** adj
-英音 'juːnɪfɔːm     美音 'juːnɪfɔːrm  
+英音 'juːnɪfɔːm  
+英音
+<audio src="./media/uniform-B.aac"></audio>
+美音 'juːnɪfɔːrm  
+美音
+<audio src="./media/uniform.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 阅读 2 |  
 
@@ -1040,7 +1495,13 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 
 # ***\#uniformed*** adj
-英音 ˈjuːnɪfɔːmd     美音 ˈjuːnɪfɔːrmd  
+英音 ˈjuːnɪfɔːmd  
+英音
+<audio src="./media/uniformed1_AAC.aac"></audio>
+美音 ˈjuːnɪfɔːrmd  
+美音
+<audio src="./media/uniformed2_AAC.aac"></audio>
+
 
   
 
@@ -1050,7 +1511,13 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 
 # ***\#unify*** v
-英音 'juːnɪfaɪ     美音 'juːnɪfaɪ  
+英音 'juːnɪfaɪ  
+英音
+<audio src="./media/unify1_AAC.aac"></audio>
+美音 'juːnɪfaɪ  
+美音
+<audio src="./media/unify2_AAC.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1060,7 +1527,13 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 
 # ***\#unintentionally*** adv
-英音 ˌʌnɪnˈtenʃənəli     美音 ˌʌnɪnˈtenʃənəli  
+英音 ˌʌnɪnˈtenʃənəli  
+英音
+<audio src="./media/unintentionally1_AAC.aac"></audio>
+美音 ˌʌnɪnˈtenʃənəli  
+美音
+<audio src="./media/unintentionally2_AAC.aac"></audio>
+
 
   
 
@@ -1070,7 +1543,13 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 
 # ***\#union*** n
-英音 'juːniən     美音 'juːniən  
+英音 'juːniən  
+英音
+<audio src="./media/union-B.aac"></audio>
+美音 'juːniən  
+美音
+<audio src="./media/union.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 |  
 
@@ -1090,13 +1569,21 @@ unfairness /ˌʌn'feə(r)nes/ n
 
  > The union of the different lines makes traveling on the London Underground much more convenient.   
  > 伦敦不同地铁线路的贯通使人们乘地铁出行更加方便。  （译林⑦ – 4）  
+<audio src="./media/union-1.aac"></audio>
 
  > Union gives strength.   
  > 团结就是力量。    
+<audio src="./media/union-2.aac"></audio>
 
 
 # ***\#unique*** adj
-英音 ju'niːk     美音 ju'niːk  
+英音 ju'niːk  
+英音
+<audio src="./media/unique-B.aac"></audio>
+美音 ju'niːk  
+美音
+<audio src="./media/unique.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
 
@@ -1106,13 +1593,21 @@ unfairness /ˌʌn'feə(r)nes/ n
 
  > Everyone’s fingerprints are unique.   
  > 每个人的指纹都是独一无二的。    
+<audio src="./media/unique-1.aac"></audio>
 
  > The koala is **unique to** Australia.   
  > 树袋熊是澳大利亚独有的动物。    
+<audio src="./media/unique-2.aac"></audio>
 
 
 # ***\#unit*** n
-英音 'juːnɪt     美音 'juːnɪt  
+英音 'juːnɪt  
+英音
+<audio src="./media/unit-B.aac"></audio>
+美音 'juːnɪt  
+美音
+<audio src="./media/unit.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 2 |  
 
@@ -1124,9 +1619,11 @@ unfairness /ˌʌn'feə(r)nes/ n
 
  > A cell is the smallest **unit of** living things.   
  > 细胞是生物体的最小构成单位。    
+<audio src="./media/unit-1.aac"></audio>
 
  > The family is the basic **unit of** society.   
  > 家庭是社会的基本单位。    
+<audio src="./media/unit-2.aac"></audio>
 
 ### 2.*低义频：* **(计量) 单位：**  
 
@@ -1139,7 +1636,13 @@ unfairness /ˌʌn'feə(r)nes/ n
 
 
 # ***\#unite*** v
-英音 ju'naɪt     美音 ju'naɪt  
+英音 ju'naɪt  
+英音
+<audio src="./media/unite-B.aac"></audio>
+美音 ju'naɪt  
+美音
+<audio src="./media/unite.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -1149,9 +1652,11 @@ unfairness /ˌʌn'feə(r)nes/ n
 
  > We should **unite with** all the forces that can be united.   
  > 我们应该团结一切可以团结的力量。    
+<audio src="./media/unite-1.aac"></audio>
 
  > England and Scotland united in 1706.   
  > 英格兰和苏格兰于1706年合并。    
+<audio src="./media/unite-2.aac"></audio>
 
 
 派生词汇
@@ -1159,7 +1664,13 @@ unfairness /ˌʌn'feə(r)nes/ n
 unity /'juːnəti/ n   
 
 # ***\#united*** adj
-英音 ju'naɪtɪd     美音 ju'naɪtɪd  
+英音 ju'naɪtɪd  
+英音
+<audio src="./media/united-B.aac"></audio>
+美音 ju'naɪtɪd  
+美音
+<audio src="./media/united.aac"></audio>
+
 
 | 词频 5 | 书面 1 |  
 
@@ -1175,7 +1686,13 @@ unity /'juːnəti/ n
 
 
 # ***\#unity*** n
-英音 'juːnəti     美音 'juːnəti  
+英音 'juːnəti  
+英音
+<audio src="./media/unity1_AAC.aac"></audio>
+美音 'juːnəti  
+美音
+<audio src="./media/unity2_AAC.aac"></audio>
+
 
   
 
@@ -1185,7 +1702,13 @@ unity /'juːnəti/ n
 
 
 # ***\#universal*** adj
-英音 ˌjuːnɪ'vɜːsl     美音 ˌjuːnɪ'vɜːrsl  
+英音 ˌjuːnɪ'vɜːsl  
+英音
+<audio src="./media/universal-B.aac"></audio>
+美音 ˌjuːnɪ'vɜːrsl  
+美音
+<audio src="./media/universal.aac"></audio>
+
 
 | 词频 3 | 书面 1 |  
 
@@ -1203,10 +1726,17 @@ unity /'juːnəti/ n
 
  > Envy is a universal weakness of people.   
  > 嫉妒是人们共同的弱点。    
+<audio src="./media/universal-1.aac"></audio>
 
 
 # ***\#universe*** n
-英音 'juːnɪvɜːs     美音 'juːnɪvɜːrs  
+英音 'juːnɪvɜːs  
+英音
+<audio src="./media/universe-B.aac"></audio>
+美音 'juːnɪvɜːrs  
+美音
+<audio src="./media/universe.aac"></audio>
+
 
 | 词频 2 | 书面 1 |  
 
@@ -1218,10 +1748,17 @@ unity /'juːnəti/ n
 
  > Our world is but a small part of the universe.  
  > 我们的世界只是宇宙的一小部分。    
+<audio src="./media/universe-1.aac"></audio>
 
 
 # ***\#university*** n
-英音 ˌjuːnɪ'vɜːsəti     美音 ˌjuːnɪ'vɜːrsəti  
+英音 ˌjuːnɪ'vɜːsəti  
+英音
+<audio src="./media/university-B.aac"></audio>
+美音 ˌjuːnɪ'vɜːrsəti  
+美音
+<audio src="./media/university.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 3 |  
 
@@ -1239,7 +1776,13 @@ unity /'juːnəti/ n
 
 
 # ***\#unknown*** adj
-英音 ˌʌn'nəʊn     美音 ˌʌn'noʊn  
+英音 ˌʌn'nəʊn  
+英音
+<audio src="./media/unknown-B.aac"></audio>
+美音 ˌʌn'noʊn  
+美音
+<audio src="./media/unknown.aac"></audio>
+
 
 | 词频 4 | 口语 2 |  
 
@@ -1252,7 +1795,13 @@ unity /'juːnəti/ n
 
 
 # ***\#unless*** conj
-英音 ən'les     美音 ən'les  
+英音 ən'les  
+英音
+<audio src="./media/unless-B.aac"></audio>
+美音 ən'les  
+美音
+<audio src="./media/unless.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1262,9 +1811,11 @@ unity /'juːnəti/ n
 
  > Unless the weather gets better, I’ll stay at home.  
  > 如果天气没有好转，我就待在家里。  （外研④ – 3）  
+<audio src="./media/unless-1.aac"></audio>
 
  > He told me that I’d probably have a heart attack unless I started eating less.    
  > 他告诉我，如果我再不减少食量，就有可能患心脏病。  （2005 广东）  
+<audio src="./media/unless-2.aac"></audio>
 
 
 真题解析
@@ -1285,7 +1836,13 @@ D. if
 1. B  2. if → unless  3. A  
 
 # ***\#unlike*** prep
-英音 ˌʌn'laɪk     美音 ˌʌn'laɪk  
+英音 ˌʌn'laɪk  
+英音
+<audio src="./media/unlike-B.aac"></audio>
+美音 ˌʌn'laɪk  
+美音
+<audio src="./media/unlike.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -1296,13 +1853,21 @@ D. if
 
  > It’s unlike him to be late; he is usually on time.  
  > 迟到可不像他的风格，他总是很准时的。    
+<audio src="./media/unlike-1.aac"></audio>
 
  > Many, unlike their parents, want to live in the cities.  
  > 跟自己的父母不同，很多人想住在城市里。  （2010 安徽）  
+<audio src="./media/unlike-2.aac"></audio>
 
 
 # ***\#unlike*** adj
-英音 ˌʌn'laɪk     美音 ˌʌn'laɪk  
+英音 ˌʌn'laɪk  
+英音
+<audio src="./media/unlike-B.aac"></audio>
+美音 ˌʌn'laɪk  
+美音
+<audio src="./media/unlike.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -1314,10 +1879,17 @@ D. if
 
  > I never saw twins who were unlike.   
  > 之前我从未见过长得不像的双胞胎。    
+<audio src="./media/unlike-3.aac"></audio>
 
 
 # ***\#unlikely*** adj
-英音 ʌn'laɪkli     美音 ʌn'laɪkli  
+英音 ʌn'laɪkli  
+英音
+<audio src="./media/unlikely-B.aac"></audio>
+美音 ʌn'laɪkli  
+美音
+<audio src="./media/unlikely.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 2 |  
 
@@ -1328,20 +1900,29 @@ D. if
 
  > I met him at the most unlikely place.   
  > 我在最意想不到的地方遇到了他。    
+<audio src="./media/unlikely-1.aac"></audio>
 
 - (be) unlikely to do sth:
 
  > Someone who lacks staying power and perseverance is unlikely to make a good researcher.   
  > 缺乏耐力和毅力的人不大可能成为优秀的研究人员。  （ 2006 山东）  
+<audio src="./media/unlikely-2.aac"></audio>
 
 - it is unlikely + that 从句:
 
  > It’s unlikely that she’ll arrive before seven.   
  > 她不大可能在七点前到达。    
+<audio src="./media/unlikely-3.aac"></audio>
 
 
 # ***\#unload*** v
-英音 ˌʌn'ləʊd     美音 ˌʌn'loʊd  
+英音 ˌʌn'ləʊd  
+英音
+<audio src="./media/unload1.aac"></audio>
+美音 ˌʌn'loʊd  
+美音
+<audio src="./media/unload2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1351,7 +1932,13 @@ D. if
 
 
 # ***\#unmanned*** adj
-英音 ˌʌnˈmænd     美音 ˌʌnˈmænd  
+英音 ˌʌnˈmænd  
+英音
+<audio src="./media/unmanned1_AAC.aac"></audio>
+美音 ˌʌnˈmænd  
+美音
+<audio src="./media/unmanned2_AAC.aac"></audio>
+
 
   
 
@@ -1361,7 +1948,13 @@ D. if
 
 
 # ***\#unmotivated*** adj
-英音 ˌʌnˈməʊtɪveɪtɪd     美音 ˌʌnˈməʊtɪveɪtɪd  
+英音 ˌʌnˈməʊtɪveɪtɪd  
+英音
+<audio src="./media/unmotivated1_AAC.aac"></audio>
+美音 ˌʌnˈməʊtɪveɪtɪd  
+美音
+<audio src="./media/unmotivated2_AAC.aac"></audio>
+
 
   
 
@@ -1371,7 +1964,13 @@ D. if
 
 
 # ***\#unnecessary*** adj
-英音 ʌn'nesəsəri     美音 ʌn'nesəseri  
+英音 ʌn'nesəsəri  
+英音
+<audio src="./media/unnecessary-B.aac"></audio>
+美音 ʌn'nesəseri  
+美音
+<audio src="./media/unnecessary.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -1382,13 +1981,21 @@ D. if
 
  > Don’t make unnecessary noise particularly at night.  
  > 别无必要地大吵大闹，尤其在晚上。    
+<audio src="./media/unnecessary-1.aac"></audio>
 
  > It is unnecessary that you (should) do so.  
  > 你不必这样做。    
+<audio src="./media/unnecessary-2.aac"></audio>
 
 
 # ***\#unpack*** v
-英音 ˌʌnˈpæk     美音 ˌʌnˈpæk  
+英音 ˌʌnˈpæk  
+英音
+<audio src="./media/unpack1_AAC.aac"></audio>
+美音 ˌʌnˈpæk  
+美音
+<audio src="./media/unpack2_AAC.aac"></audio>
+
 
   
 
@@ -1398,7 +2005,13 @@ D. if
 
 
 # ***\#unpaid*** adj
-英音 ˌʌn'peɪd     美音 ˌʌn'peɪd  
+英音 ˌʌn'peɪd  
+英音
+<audio src="./media/unpaid-B.aac"></audio>
+美音 ˌʌn'peɪd  
+美音
+<audio src="./media/unpaid.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1408,7 +2021,13 @@ D. if
 
 
 # ***\#unpleasant*** adj
-英音 ʌn'pleznt     美音 ʌn'pleznt  
+英音 ʌn'pleznt  
+英音
+<audio src="./media/unpleasant-B.aac"></audio>
+美音 ʌn'pleznt  
+美音
+<audio src="./media/unpleasant.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -1422,10 +2041,17 @@ D. if
 
  > The minerals in the water made it unpleasant to drink.   
  > 水里的矿物质弄得这水很难喝。    
+<audio src="./media/unpleasant-1.aac"></audio>
 
 
 # ***\#unprecedentedly*** adv
-英音 ʌnˈpresɪdentɪdli     美音 ʌnˈpresɪdentɪdli  
+英音 ʌnˈpresɪdentɪdli  
+英音
+<audio src="./media/unprecedentedly1_AAC.aac"></audio>
+美音 ʌnˈpresɪdentɪdli  
+美音
+<audio src="./media/unprecedentedly2_AAC.aac"></audio>
+
 
   
 
@@ -1435,7 +2061,13 @@ D. if
 
 
 # ***\#unpredictable*** adj
-英音 ˌʌnprɪ'dɪktəbl     美音 ˌʌnprɪ'dɪktəbl  
+英音 ˌʌnprɪ'dɪktəbl  
+英音
+<audio src="./media/unpredictable1.aac"></audio>
+美音 ˌʌnprɪ'dɪktəbl  
+美音
+<audio src="./media/unpredictable2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1445,7 +2077,13 @@ D. if
 
 
 # ***\#unrecognisable*** adj
-英音 ʌnrekəɡ'naɪzəbl     美音 ʌnrekəɡ'naɪzəbl  
+英音 ʌnrekəɡ'naɪzəbl  
+英音
+<audio src="./media/unrecognisable1.aac"></audio>
+美音 ʌnrekəɡ'naɪzəbl  
+美音
+<audio src="./media/unrecognisable2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1455,7 +2093,13 @@ D. if
 
 
 # ***\#unrecyclable*** adj
-英音 ˌʌnriːˈsaɪkləbəl     美音 ˌʌnriːˈsaɪkləbəl  
+英音 ˌʌnriːˈsaɪkləbəl  
+英音
+<audio src="./media/unrecyclable1_AAC.aac"></audio>
+美音 ˌʌnriːˈsaɪkləbəl  
+美音
+<audio src="./media/unrecyclable2_AAC.aac"></audio>
+
 
   
 
@@ -1465,7 +2109,13 @@ D. if
 
 
 # ***\#unrest*** n
-英音 ʌn'rest     美音 ʌn'rest  
+英音 ʌn'rest  
+英音
+<audio src="./media/unrest-B.aac"></audio>
+美音 ʌn'rest  
+美音
+<audio src="./media/unrest.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1483,7 +2133,13 @@ D. if
 
 
 # ***\#unseen*** adj
-英音 ˌʌnˈsiːn     美音 ˌʌnˈsiːn  
+英音 ˌʌnˈsiːn  
+英音
+<audio src="./media/unseen1_AAC.aac"></audio>
+美音 ˌʌnˈsiːn  
+美音
+<audio src="./media/unseen2_AAC.aac"></audio>
+
 
   
 
@@ -1493,7 +2149,13 @@ D. if
 
 
 # ***\#unselfish*** adj
-英音 ʌnˈselfɪʃ     美音 ʌnˈselfɪʃ  
+英音 ʌnˈselfɪʃ  
+英音
+<audio src="./media/unselfish1_AAC.aac"></audio>
+美音 ʌnˈselfɪʃ  
+美音
+<audio src="./media/unselfish2_AAC.aac"></audio>
+
 
   
 
@@ -1503,7 +2165,13 @@ D. if
 
 
 # ***\#unspoken*** adj
-英音 ˌʌn'spəʊkən     美音 ˌʌn'spoʊkən  
+英音 ˌʌn'spəʊkən  
+英音
+<audio src="./media/unspoken-B.aac"></audio>
+美音 ˌʌn'spoʊkən  
+美音
+<audio src="./media/unspoken.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1513,7 +2181,13 @@ D. if
 
 
 # ***\#unstable*** adj
-英音 ʌnˈsteɪbl     美音 ʌnˈsteɪbl  
+英音 ʌnˈsteɪbl  
+英音
+<audio src="./media/unstable1_AAC.aac"></audio>
+美音 ʌnˈsteɪbl  
+美音
+<audio src="./media/unstable2_AAC.aac"></audio>
+
 
   
 
@@ -1523,7 +2197,13 @@ D. if
 
 
 # ***\#unsuspecting*** adj
-英音 ˌʌnsə'spektɪŋ     美音 ˌʌnsə'spektɪŋ  
+英音 ˌʌnsə'spektɪŋ  
+英音
+<audio src="./media/unsuspecting1_AAC.aac"></audio>
+美音 ˌʌnsə'spektɪŋ  
+美音
+<audio src="./media/unsuspecting2_AAC.aac"></audio>
+
 
   
 
@@ -1533,7 +2213,13 @@ D. if
 
 
 # ***\#until*** conj
-英音 ən'tɪl     美音 ən'tɪl  
+英音 ən'tɪl  
+英音
+<audio src="./media/until-B.aac"></audio>
+美音 ən'tɪl  
+美音
+<audio src="./media/until.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1546,17 +2232,21 @@ D. if
 
  > The result of the game was unknown until the last minute.  
  > 直到最后一刻人们才知道比赛的结果。    
+<audio src="./media/until-1.aac"></audio>
 
  > When she fell ill her daughter looked after her until she was better.   
  > 她生病的时候，女儿一直照顾她，直到好转。    
+<audio src="./media/until-2.aac"></audio>
 
 ### 2.*高义频：* **[用于否定句] 在...以前；直到...才：**  
 
  > **Not until** the film had begun did she arrive.   
  > 直到电影开始她才到。    
+<audio src="./media/until-3.aac"></audio>
 
  > Not until recently did they encourage the development of tourist-related activities in the rural areas.  
  > 直到最近他们才鼓励在农村开展与旅游相关的活动。  （2016 江苏）  
+<audio src="./media/until50.aac"></audio>
 
 Notes: not until 放在句首时，主句的主语和谓语通常要用部分倒装语序。  
 
@@ -1567,6 +2257,7 @@ Notes: not until 放在句首时，主句的主语和谓语通常要用部分倒
 
  > It was not until he was thirty that he started to paint.  
  > 直到30岁，他才开始画画。    
+<audio src="./media/until-5.aac"></audio>
 
 
 真题解析
@@ -1587,7 +2278,13 @@ D.when
 1. that  2. D  3. A  
 
 # ***\#until*** prep
-英音 ən'tɪl     美音 ən'tɪl  
+英音 ən'tɪl  
+英音
+<audio src="./media/until-B.aac"></audio>
+美音 ən'tɪl  
+美音
+<audio src="./media/until.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1600,17 +2297,21 @@ D.when
 
  > The result of the game was unknown until the last minute.   
  > 直到最后一刻人们才知道比赛的结果。    
+<audio src="./media/until-1.aac"></audio>
 
  > When she fell ill her daughter looked after her until she was better.   
  > 她生病的时候，女儿一直照顾她，直到好转。    
+<audio src="./media/until-2.aac"></audio>
 
 ### 2.*高义频：* **[用于否定句] 在...以前；直到...才：**  
 
  > **Not until** the film had begun did she arrive.   
  > 直到电影开始她才到。    
+<audio src="./media/until-3.aac"></audio>
 
  > Not until recently did they encourage the development of tourist-related activities in the rural areas.  
  > 直到最近他们才鼓励在农村开展与旅游相关的活动。  （2016 江苏）  
+<audio src="./media/until50.aac"></audio>
 
 Notes: not until 放在句首时，主句的主语和谓语通常要用部分倒装语序。  
 
@@ -1621,6 +2322,7 @@ Notes: not until 放在句首时，主句的主语和谓语通常要用部分倒
 
  > It was not until he was thirty that he started to paint.  
  > 直到30岁，他才开始画画。    
+<audio src="./media/until-5.aac"></audio>
 
 
 真题解析
@@ -1641,7 +2343,13 @@ D.when
 1. that  2. D  3. A  
 
 # ***\#unusual*** adj
-英音 ʌn'juːʒuəl     美音 ʌn'juːʒuəl  
+英音 ʌn'juːʒuəl  
+英音
+<audio src="./media/unusual-B.aac"></audio>
+美音 ʌn'juːʒuəl  
+美音
+<audio src="./media/unusual.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -1655,6 +2363,7 @@ D.when
 
  > **It is unusual for** you to catch a cold on hot days.   
  > 你在大热天感冒实在少见。    
+<audio src="./media/unusual-1.aac"></audio>
 
 
 派生词汇
@@ -1662,7 +2371,13 @@ D.when
 unusually /ʌn'juːʒuəli; ʌn'juːʒəli/ adv   
 
 # ***\#unwilling*** adj
-英音 ʌn'wɪlɪŋ     美音 ʌn'wɪlɪŋ  
+英音 ʌn'wɪlɪŋ  
+英音
+<audio src="./media/unwilling-B.aac"></audio>
+美音 ʌn'wɪlɪŋ  
+美音
+<audio src="./media/unwilling.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1673,6 +2388,7 @@ unusually /ʌn'juːʒuəli; ʌn'juːʒəli/ adv
 
  > If your child is unwilling to discuss something, don’t insist he tell you what’s on his mind.   
  > 如果你的孩子不愿说，就别强求他告诉你他的想法。  （2009 全国）  
+<audio src="./media/unwilling-2.aac"></audio>
 
 
 派生词汇
@@ -1680,7 +2396,13 @@ unusually /ʌn'juːʒuəli; ʌn'juːʒəli/ adv
 unwillingly /ʌn'wɪlɪŋli/ adv   
 
 # ***\#unzip*** v
-英音 ˌʌn'zɪp     美音 ˌʌn'zɪp  
+英音 ˌʌn'zɪp  
+英音
+<audio src="./media/unzip1.aac"></audio>
+美音 ˌʌn'zɪp  
+美音
+<audio src="./media/unzip2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1690,7 +2412,13 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 
 
 # ***\#up*** adv
-英音 ʌp     美音 ʌp  
+英音 ʌp  
+英音
+<audio src="./media/up-B.aac"></audio>
+美音 ʌp  
+美音
+<audio src="./media/up.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1706,32 +2434,39 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 
  > Look at the picture up on the wall.   
  > 看墙上挂着的那幅画。    
+<audio src="./media/up-1.aac"></audio>
 
  > If you are up, just come down to the kitchen.   
  > 如果你起来了，就下楼到厨房来。    
+<audio src="./media/up-2.aac"></audio>
 
 ### 2.*高义频：* **接近：**  
 
  > He moved **up to** the end of the line.   
  > 他挪到了队尾。    
+<audio src="./media/up-3.aac"></audio>
 
 ### 3.*高义频：* **(数量、价格、程度等) 上升：**  
 
  > The fever is usually up in the night.  
  > 夜间发烧症状通常会加重。    
+<audio src="./media/up-4.aac"></audio>
 
 ### 4.*高义频：* **结束：**  
 
  > Time’s up. Stop writing and hand in your papers.   
  > 时间到了，不要再写了，把试卷交上来。    
+<audio src="./media/up-5.aac"></audio>
 
 ### 5.*高义频：* **发生；出现；(作为话题) 提出来：**  
 
  > What’s up?   
  > 怎么了？    
+<audio src="./media/up-6.aac"></audio>
 
  > I could tell something was up by the looks on their faces.   
  > 从他们的脸色我就能看出一定是出事了。    
+<audio src="./media/up-7.aac"></audio>
 
 ### 6.*高义频：* **[与某些动词连用，强调完成] 完全地；彻底地：**  
 
@@ -1742,6 +2477,7 @@ unwillingly /ʌn'wɪlɪŋli/ adv
 
  > We’re going up to New York for the day.   
  > 我们要到纽约待一天。    
+<audio src="./media/up-8.aac"></audio>
 
 Notes: 从边远地区、农村、南方、下游、海边去首都、城市、北方、上游、大学等地用up。  
 
@@ -1752,46 +2488,56 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 
  > It’s up to you what kind of life you will lead in the future.  
  > 将来过怎样的生活取决于你自己。  （2014 上海）  
+<audio src="./media/up14.aac"></audio>
 
  > It’s up to you to find out what your goals really are.  
  > 你真正的目标是什么，只能由你来决定。    
+<audio src="./media/up15.aac"></audio>
 
  > It’s up to the travel companies to warn customers of any possible dangers.  
  > 旅游公司有义务提醒顾客任何可能的危险。    
+<audio src="./media/up16.aac"></audio>
 
 ## \#up and down 
 1.**上上下下；前前后后：**  
 
  > A butterfly is flying up and down among the flowers.  
  > 有一只蝴蝶正在花丛里飞来飞去。    
+<audio src="./media/up-9.aac"></audio>
 
  > Ralph paced up and down the room, looking worried.  
  > 拉夫在房间里走来走去，看起来很着急。    
+<audio src="./media/up-10.aac"></audio>
 
 ## \#up to
 1.*高义频：* **达到；最多有：**  
 
  > She has treated many patients who wash their hands up to 30 times a day.  
  > 她曾经治疗过很多每天要洗30次手的病人。    
+<audio src="./media/up-11.aac"></audio>
 
  > I can take up to four people in my car  
  > 我最多能带4个人坐我的车。    
+<audio src="./media/up-12.aac"></audio>
 
 2.*高义频：* **直到 (up till / until)：**  
 
  > Up to now, I’ve understood everything the teacher’s said.  
  > 到现在，我已经理解了老师所讲的全部内容。  （外研① – 4）  
+<audio src="./media/up-13.aac"></audio>
 
 3.*低义频：* **从事于；忙于：**  
 
  > What are you up to this weekend?  
  > 这周末你打算做什么?  （北师大② – 4）  
+<audio src="./media/up-16.aac"></audio>
 
 ## \#up until
 1.**直到 (up to)：**  
 
  > They are only allowed to play music up until 10:30 on week nights, and it’s already 11:30.   
  > 平时只允许他们在晚上10点半之前放音乐，可是现在已经11点半了。  （2008 湖南）  
+<audio src="./media/up-17.aac"></audio>
 
 
 真题解析
@@ -1805,7 +2551,13 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 1. What’s up  2. It’s up to you / Up to you  
 
 # ***\#up*** n
-英音 ʌp     美音 ʌp  
+英音 ʌp  
+英音
+<audio src="./media/up-B.aac"></audio>
+美音 ʌp  
+美音
+<audio src="./media/up.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -1818,10 +2570,17 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 
  > In spite of ups and downs, she never takes her fate lying down.  
  > 尽管起起伏伏，但她从不甘心任凭命运摆布。  （2008 福建）  
+<audio src="./media/up-18.aac"></audio>
 
 
 # ***\#up*** prep
-英音 ʌp     美音 ʌp  
+英音 ʌp  
+英音
+<audio src="./media/up-B.aac"></audio>
+美音 ʌp  
+美音
+<audio src="./media/up.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1839,7 +2598,13 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 
 
 # ***\#up*** adj
-英音 ʌp     美音 ʌp  
+英音 ʌp  
+英音
+<audio src="./media/up-B.aac"></audio>
+美音 ʌp  
+美音
+<audio src="./media/up.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1857,10 +2622,17 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 
  > His blood is up.   
  > 他怒火中烧。    
+<audio src="./media/up-19.aac"></audio>
 
 
 # ***\#up-to-date*** adj
-英音 'ʌptə'deɪt     美音 'ʌptə'deɪt  
+英音 'ʌptə'deɪt  
+英音
+<audio src="./media/up-to-date-B.aac"></audio>
+美音 'ʌptə'deɪt  
+美音
+<audio src="./media/up-to-date.aac"></audio>
+
 
 | 词频 2 | 阅读 2 |  
 
@@ -1876,7 +2648,13 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 
 
 # ***\#upbringing*** n
-英音 'ʌpbrɪŋɪŋ     美音 'ʌpbrɪŋɪŋ  
+英音 'ʌpbrɪŋɪŋ  
+英音
+<audio src="./media/upbringing1.aac"></audio>
+美音 'ʌpbrɪŋɪŋ  
+美音
+<audio src="./media/upbringing2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1886,7 +2664,13 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 
 
 # ***\#update*** vt
-英音 ˌʌp'deɪt     美音 ˌʌp'deɪt  
+英音 ˌʌp'deɪt  
+英音
+<audio src="./media/update-B.aac"></audio>
+美音 ˌʌp'deɪt  
+美音
+<audio src="./media/update1-v.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -1896,13 +2680,21 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 
  > We must update our packaging in order to attract more young customers.    
  > 为了吸引更多的年轻消费者，我们必须更新产品的包装。  （译林④ – 1）  
+<audio src="./media/update-1.aac"></audio>
 
  > It’s important for the figures to be updated regularly.  
  > 定期更新数据很重要。  （2011 北京）  
+<audio src="./media/update-2.aac"></audio>
 
 
 # ***\#update*** n
-英音 'ʌpdeɪt     美音 'ʌpdeɪt  
+英音 'ʌpdeɪt  
+英音
+<audio src="./media/update1-n.aac"></audio>
+美音 'ʌpdeɪt  
+美音
+<audio src="./media/update.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -1914,7 +2706,13 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 
 
 # ***\#upgrade*** vt
-英音 ˌʌp'ɡreɪd     美音 ˌʌp'ɡreɪd  
+英音 ˌʌp'ɡreɪd  
+英音
+<audio src="./media/upgrade-B.aac"></audio>
+美音 ˌʌp'ɡreɪd  
+美音
+<audio src="./media/upgrade.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1924,13 +2722,21 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 
  > You’ll need to **upgrade** your hard drive to 320GB before running this software.**to_2**  
  > 运行这个软件之前，你需要把硬盘升级到320GB。    
+<audio src="./media/upgrade-1.aac"></audio>
 
  > On the flight back, we were **upgraded to** business class.  
  > 返航时，我们被升级到公务舱。    
+<audio src="./media/upgrade-2.aac"></audio>
 
 
 # ***\#uplifting*** adj
-英音 ˌʌp'lɪftɪŋ     美音 ˌʌp'lɪftɪŋ  
+英音 ˌʌp'lɪftɪŋ  
+英音
+<audio src="./media/uplifting1_AAC.aac"></audio>
+美音 ˌʌp'lɪftɪŋ  
+美音
+<audio src="./media/uplifting2_AAC.aac"></audio>
+
 
   
 
@@ -1940,7 +2746,13 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 
 
 # ***\#upload*** v
-英音 ˌʌpˈləʊd     美音 ˌʌpˈləʊd  
+英音 ˌʌpˈləʊd  
+英音
+<audio src="./media/upload v1_AAC.aac"></audio>
+美音 ˌʌpˈləʊd  
+美音
+<audio src="./media/upload v2_AAC.aac"></audio>
+
 
   
 
@@ -1950,7 +2762,13 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 
 
 # ***\#upload*** n
-英音 ˌʌpˈləʊd     美音 ˌʌpˈləʊd  
+英音 ˌʌpˈləʊd  
+英音
+<audio src="./media/upload n1_AAC.aac"></audio>
+美音 ˌʌpˈləʊd  
+美音
+<audio src="./media/upload n2_AAC.aac"></audio>
+
 
   
 
@@ -1960,7 +2778,13 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 
 
 # ***\#upon*** prep
-英音 ə'pɒn     美音 ə'pɑːn, ə'pɔːn  
+英音 ə'pɒn  
+英音
+<audio src="./media/upon-B.aac"></audio>
+美音 ə'pɑːn, ə'pɔːn  
+美音
+<audio src="./media/upon-m.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 3 |  
 
@@ -1972,20 +2796,29 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 
  > He sat upon the grass.   
  > 他坐在草地上。    
+<audio src="./media/upon-1.aac"></audio>
 
 ### 2.*低义频：* **对于；关于：**  
 
  > I’d like to comment upon your opinion.  
  > 我想就你的观点谈谈我的看法。    
+<audio src="./media/upon-2.aac"></audio>
 
 ### 3.*低义频：* **[与动名词连用] ...之后 (立即)：**  
 
  > Upon learning the word “volunteer”, what comes to your mind?   
  > 听到“志愿者”这个词，你会想到什么？    
+<audio src="./media/upon-3.aac"></audio>
 
 
 # ***\#upper*** adj
-英音 'ʌpə(r)     美音 'ʌpər  
+英音 'ʌpə(r)  
+英音
+<audio src="./media/upper-B.aac"></audio>
+美音 'ʌpər  
+美音
+<audio src="./media/upper.aac"></audio>
+
 
 | 词频 4 | 书面 2 |  
 
@@ -1995,13 +2828,20 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 
  > His room is on the upper floor.   
  > 他的房间在上层。    
+<audio src="./media/upper-1.aac"></audio>
 
  > the upper class  
  > 上流社会  （人教⑧ – 4）  
 
 
 # ***\#upper-class*** adj
-英音 ʌpə ˈklɑːs     美音 ʌpər ˈklæs  
+英音 ʌpə ˈklɑːs  
+英音
+<audio src="./media/upper-class1_AAC.aac"></audio>
+美音 ʌpər ˈklæs  
+美音
+<audio src="./media/upper-class1_AAC.aac"></audio>
+
 
   
 
@@ -2011,7 +2851,13 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 
 
 # ***\#upset*** vt
-英音 ʌp'set     美音 ʌp'set  
+英音 ʌp'set  
+英音
+<audio src="./media/upset1.aac"></audio>
+美音 ʌp'set  
+美音
+<audio src="./media/upset(vt).aac"></audio>
+
 
 | 词频 4 | 口语 2 |  
 
@@ -2026,17 +2872,20 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 
  > The life boat was upset by the waves.  
  > 救生船被大浪打翻了。    
+<audio src="./media/upset-5.aac"></audio>
 
 ### 2.*低义频：* **打乱；搅乱 (计划、安排等)：**  
 
  > He arrived an hour late and upset our plan.   
  > 他迟到了一个小时，打乱了我们的计划。    
+<audio src="./media/upset-6.aac"></audio>
 
 ### 3.*高义频：* **使生气；使心烦意乱**  
 英译 to make sb worry or feel unhappy：
 
  > This decision is likely to upset a lot of people.   
  > 这项决定很可能会使许多人不快。    
+<audio src="./media/upset-7.aac"></audio>
 
 ### 4.*低义频：* **使 (肠胃) 不适**  
 
@@ -2046,7 +2895,13 @@ Notes: 从边远地区、农村、南方、下游、海边去首都、城市、�
 upsetting /ʌp'setɪŋ/ adj   
 
 # ***\#upset*** adj
-英音 ˌʌp'set     美音 ˌʌp'set  
+英音 ˌʌp'set  
+英音
+<audio src="./media/upset1.aac"></audio>
+美音 ˌʌp'set  
+美音
+<audio src="./media/upset(adj).aac"></audio>
+
 
 | 词频 4 | 口语 2 |  
 
@@ -2062,30 +2917,41 @@ upsetting /ʌp'setɪŋ/ adj
 
  > Then the friend moved away and the writer was extremely upset.   
  > 后来这个朋友搬走了，作者感到特别难过。  （ 外研⑥ – 3）  
+<audio src="./media/upset-1.aac"></audio>
 
 - (be) upset to do sth:
 
  > She was very upset to hear that the holiday had been cancelled.   
  > 听说假期取消了，她感到非常失望。    
+<audio src="./media/upset-2.aac"></audio>
 
 - (be) upset + that 从句：
 
  > Anne’s sister Margot was very upset that the family had to move.   
  > 安妮的妹妹玛戈特因为她们不得不搬家而感到很烦恼。  （人教① – 1）  
+<audio src="./media/upset-3.aac"></audio>
 
 - (be) upset about / at / by / over sth:
 
  > My parents were in a huge argument, and I was really upset about it.   
  > 我的父母在激烈地争吵，为此我感到非常心烦。  （2005 重庆）  
+<audio src="./media/upset-4.aac"></audio>
 
 - be upset with sb:
 
  > You’re not still upset with me, are you?  
  > 你不再生我的气了，对吧？    
+<audio src="./media/upset8.aac"></audio>
 
 
 # ***\#upstairs*** adv
-英音 ˌʌp'steəz     美音 ˌʌp'sterz  
+英音 ˌʌp'steəz  
+英音
+<audio src="./media/upstairs-B.aac"></audio>
+美音 ˌʌp'sterz  
+美音
+<audio src="./media/upstairs.aac"></audio>
+
 
 | 词频 3 | 口语 2 |  
 
@@ -2095,10 +2961,17 @@ upsetting /ʌp'setɪŋ/ adj
 
  > I ran upstairs and found her in the bedroom, crying.   
  > 我跑到了楼上，发现她正在卧室里哭泣。  （2005 广东）  
+<audio src="./media/upstairs-1.aac"></audio>
 
 
 # ***\#upstairs*** adj
-英音 ˌʌp'steəz     美音 ˌʌp'sterz  
+英音 ˌʌp'steəz  
+英音
+<audio src="./media/upstairs-B.aac"></audio>
+美音 ˌʌp'sterz  
+美音
+<audio src="./media/upstairs.aac"></audio>
+
 
 | 词频 3 | 口语 2 |  
 
@@ -2111,7 +2984,13 @@ upsetting /ʌp'setɪŋ/ adj
 
 
 # ***\#upstanding*** adj
-英音 ˌʌpˈstændɪŋ     美音 ˌʌpˈstændɪŋ  
+英音 ˌʌpˈstændɪŋ  
+英音
+<audio src="./media/upstanding1_AAC.aac"></audio>
+美音 ˌʌpˈstændɪŋ  
+美音
+<audio src="./media/upstanding2_AAC.aac"></audio>
+
 
   
 
@@ -2121,7 +3000,13 @@ upsetting /ʌp'setɪŋ/ adj
 
 
 # ***\#upward*** adj & adv
-英音 'ʌpwəd     美音 'ʌpwərd  
+英音 'ʌpwəd  
+英音
+<audio src="./media/upward-B.aac"></audio>
+美音 'ʌpwərd  
+美音
+<audio src="./media/upward.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -2131,7 +3016,13 @@ upsetting /ʌp'setɪŋ/ adj
 
 
 # ***\#upward(s)*** adv
-英音 ˈʌpwəd(z)     美音 ˈʌpwərd(z)  
+英音 ˈʌpwəd(z)  
+英音
+<audio src="./media/upward(s)1_AAC.aac"></audio>
+美音 ˈʌpwərd(z)  
+美音
+<audio src="./media/upward(s)2_AAC.aac"></audio>
+
 
   
 
@@ -2141,7 +3032,13 @@ upsetting /ʌp'setɪŋ/ adj
 
 
 # ***\#upwards*** adj & adv
-英音 'ʌpwədz     美音 'ʌpwərdz  
+英音 'ʌpwədz  
+英音
+<audio src="./media/upwards-B.aac"></audio>
+美音 'ʌpwərdz  
+美音
+<audio src="./media/upwards.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -2152,10 +3049,17 @@ upsetting /ʌp'setɪŋ/ adj
 
  > I climbed upwards until I reached the top of the mountain.   
  > 我向上一直爬到山顶。    
+<audio src="./media/upwards-1.aac"></audio>
 
 
 # ***\#upwards*** adv
-英音 'ʌpwədz     美音 'ʌpwərdz  
+英音 'ʌpwədz  
+英音
+<audio src="./media/upwards-B.aac"></audio>
+美音 'ʌpwərdz  
+美音
+<audio src="./media/upwards.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -2165,7 +3069,13 @@ upsetting /ʌp'setɪŋ/ adj
 
 
 # ***\#upwind*** adv
-英音 ˌʌpˈwɪnd     美音 ˌʌpˈwɪnd  
+英音 ˌʌpˈwɪnd  
+英音
+<audio src="./media/upwind1_AAC.aac"></audio>
+美音 ˌʌpˈwɪnd  
+美音
+<audio src="./media/upwind2_AAC.aac"></audio>
+
 
   
 
@@ -2175,7 +3085,13 @@ upsetting /ʌp'setɪŋ/ adj
 
 
 # ***\#urban*** adj
-英音 'ɜːbən     美音 'ɜːrbən  
+英音 'ɜːbən  
+英音
+<audio src="./media/urban-B.aac"></audio>
+美音 'ɜːrbən  
+美音
+<audio src="./media/urban.aac"></audio>
+
 
 | 词频 3 | 书面 2 |  
 
@@ -2191,10 +3107,17 @@ upsetting /ʌp'setɪŋ/ adj
 
  > 67% of urban residents use the Internet.   
  > 67%的城市居民使用互联网。  （2007 上海）  
+<audio src="./media/urban-1.aac"></audio>
 
 
 # ***\#urge*** vt
-英音 ɜːdʒ     美音 ɜːrdʒ  
+英音 ɜːdʒ  
+英音
+<audio src="./media/urge-B.aac"></audio>
+美音 ɜːrdʒ  
+美音
+<audio src="./media/urge.aac"></audio>
+
 
 | 词频 3 | 书面 1 |  
 
@@ -2204,6 +3127,7 @@ upsetting /ʌp'setɪŋ/ adj
 
  > I urged the elephant deeper into the forest.  
  > 我赶着大象进到森林的更深之处。  （2014 重庆）  
+<audio src="./media/urge5.aac"></audio>
 
 ### 2.*高义频：* **催促；力劝**  
 英译 to advise or try hard to persuade sb to do sth：
@@ -2212,6 +3136,7 @@ upsetting /ʌp'setɪŋ/ adj
 
  > They urged me to eat the strange food.   
  > 他们怂恿我吃那种奇怪的食物。    
+<audio src="./media/urge-1.aac"></audio>
 
 ### 3.*高义频：* **极力主张**  
 英译 to recommend sth strongly：
@@ -2220,10 +3145,17 @@ upsetting /ʌp'setɪŋ/ adj
 
  > He urged that we (should) take such steps.   
  > 他极力主张我们采取这些措施。    
+<audio src="./media/urge-2.aac"></audio>
 
 
 # ***\#urge*** n
-英音 ɜːdʒ     美音 ɜːrdʒ  
+英音 ɜːdʒ  
+英音
+<audio src="./media/urge-B.aac"></audio>
+美音 ɜːrdʒ  
+美音
+<audio src="./media/urge.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -2235,10 +3167,17 @@ upsetting /ʌp'setɪŋ/ adj
 
  > I was embarrassed, but I fought the **urge to** run off the stage.   
  > 我感到很尴尬，但是我抑制住了想跑下台的冲动。  （2010 山东）  
+<audio src="./media/urge-3.aac"></audio>
 
 
 # ***\#urgent*** adj
-英音 'ɜːdʒənt     美音 'ɜːrdʒənt  
+英音 'ɜːdʒənt  
+英音
+<audio src="./media/urgent-B.aac"></audio>
+美音 'ɜːrdʒənt  
+美音
+<audio src="./media/urgent.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 阅读 2 |  
 
@@ -2251,10 +3190,17 @@ upsetting /ʌp'setɪŋ/ adj
 
  > Every minute of the day is filled with urgent matters.  
  > 一天中的每分钟都排满了亟待解决的事情。  （北师大① – 1）  
+<audio src="./media/urgent-1.aac"></audio>
 
 
 # ***\#urgently*** adv
-英音 ˈɜːdʒəntli     美音 ˈɜːrdʒəntli  
+英音 ˈɜːdʒəntli  
+英音
+<audio src="./media/urgently1_AAC.aac"></audio>
+美音 ˈɜːrdʒəntli  
+美音
+<audio src="./media/urgently2_AAC.aac"></audio>
+
 
   
 
@@ -2264,7 +3210,13 @@ upsetting /ʌp'setɪŋ/ adj
 
 
 # ***\#us*** pron
-英音 əs, ʌs     美音 ʌs, əs  
+英音 əs, ʌs  
+英音
+<audio src="./media/us1.aac"></audio>
+美音 ʌs, əs  
+美音
+<audio src="./media/us-m.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2283,7 +3235,13 @@ upsetting /ʌp'setɪŋ/ adj
 1. us  
 
 # ***\#usage*** n
-英音 'juːsɪdʒ     美音 'juːsɪdʒ  
+英音 'juːsɪdʒ  
+英音
+<audio src="./media/usage-B.aac"></audio>
+美音 'juːsɪdʒ  
+美音
+<audio src="./media/usage.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -2295,7 +3253,13 @@ upsetting /ʌp'setɪŋ/ adj
 
 
 # ***\#use*** vt
-英音 juːz     美音 juːz  
+英音 juːz  
+英音
+<audio src="./media/use1-v.aac"></audio>
+美音 juːz  
+美音
+<audio src="./media/use.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2305,19 +3269,23 @@ upsetting /ʌp'setɪŋ/ adj
 
  > Time, used correctly, is money in the bank.   
  > 时间，如果使用合理的话，就像银行中的存款。  （2012 湖南）  
+<audio src="./media/use-1.aac"></audio>
 
 - use sth for / as:
 
  > Poets use language as a way of expressing their feelings.  
  > 诗人用语言作为表达情感的一种方式。  （外研⑧ – 6）  
+<audio src="./media/use-2.aac"></audio>
 
  > They were using animals for scientific experiments.  
  > 他们正在使用动物做科学实验。    
+<audio src="./media/use-3.aac"></audio>
 
 - use sth to do sth:
 
  > A code uses symbols to replace words, phrases, or sentences.  
  > 密码使用符号来替代单词、短语或句子。  （2016 全国）  
+<audio src="./media/use50.aac"></audio>
 
 ### 2.*低义频：* **发挥；运用：**  
 
@@ -2331,6 +3299,7 @@ upsetting /ʌp'setɪŋ/ adj
 
  > This type of heater uses a lot of electricity.  
  > 这种热水器很费电。    
+<audio src="./media/use-5.aac"></audio>
 
 
 固定搭配
@@ -2340,13 +3309,21 @@ upsetting /ʌp'setɪŋ/ adj
 
  > The human race is using up Earth’s resources.   
  > 人类正在耗尽地球上的资源。  （译林⑤ – 3）  
+<audio src="./media/use-6.aac"></audio>
 
  > Don’t let yesterday use up too much of today.   
  > 今日事，今日毕。    
+<audio src="./media/use-7.aac"></audio>
 
 
 # ***\#use*** n
-英音 juːs     美音 juːs  
+英音 juːs  
+英音
+<audio src="./media/use1-n.aac"></audio>
+美音 juːs  
+美音
+<audio src="./media/use2-n.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2356,19 +3333,23 @@ upsetting /ʌp'setɪŋ/ adj
 
  > The software is designed for use in schools.  
  > 这个软件是为学校使用而设计的。    
+<audio src="./media/use-8.aac"></audio>
 
 ### 2.*高义频：* **[C] & [U] 用途；用法：**  
 
  > This chemical has a wide range of industrial **uses**.  
  > 这种化学品在工业上用途广泛。    
+<audio src="./media/use-9.aac"></audio>
 
 ### 3.*低义频：* **[U] 使用权；运用能力：**  
 
  > I have the **use of** the car this week.   
  > 这辆车本周归我用。    
+<audio src="./media/use-10.aac"></audio>
 
  > I believe I will recover the use of my hand fully in the near future.   
  > 我相信,要不了多久我这只手的功能就会完全恢复了。  （译林③ – 1）  
+<audio src="./media/use-11.aac"></audio>
 
 
 固定搭配
@@ -2378,45 +3359,53 @@ upsetting /ʌp'setɪŋ/ adj
 
  > When did the umbrella come into use?  
  > 雨伞是什么时候开始使用的？    
+<audio src="./media/use-12.aac"></audio>
 
 ## \#have no use for 
 1.**不需要；不喜欢：**  
 
  > People may have no use for your gift, but the effort is appreciated.   
  > 人们可能用不上你的礼物，但还是会感激你送礼。    
+<audio src="./media/use-13.aac"></audio>
 
  > I have no use for novels like that.   
  > 我不喜欢那样的小说。    
+<audio src="./media/use-14.aac"></audio>
 
 ## \#in use 
 1.**在使用着：**  
 
  > Turn off everything not in use: lights, TVs, computers.   
  > 关掉所有不用的电器：灯、电视和电脑。  （2008 福建）  
+<audio src="./media/use-15.aac"></audio>
 
 ## \#it is no use doing sth 
 1.**做某事没有用 / 意义：**  
 
  > I think it is no use crying about your exam results now.   
  > 我想现在为考试成绩哭泣没什么意义了。  （译林⑤ – 1）  
+<audio src="./media/use-16.aac"></audio>
 
 ## \#make use of 
 1.**利用：**  
 
  > To be a good learner, you must make full use of library books, newspapers and magazines.   
  > 要成为善于学习的人，你必须充分利用图书馆里的图书、报纸和杂志。  （人教② – 3）  
+<audio src="./media/use-17.aac"></audio>
 
 ## \#of use 
 1.**有用的 (useful)：**  
 
  > I hope this information will be of use to you.   
  > 希望这些信息对你有用。  （译林④ – 2）  
+<audio src="./media/use-18.aac"></audio>
 
 ## \#put sth to use
 1.**利用某事物：**  
 
  > It was time to put the tips he had learned to use.  
  > 到了运用他所学到的窍门的时候了。  （2015 北京）  
+<audio src="./media/use19.aac"></audio>
 
 
 真题解析
@@ -2429,7 +3418,13 @@ upsetting /ʌp'setɪŋ/ adj
 1. using → used  2. using  3. complaining  
 
 # ***\#used*** adj
-英音 juːst     美音 juːst  
+英音 juːst  
+英音
+<audio src="./media/used-B.aac"></audio>
+美音 juːst  
+美音
+<audio src="./media/used.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -2441,6 +3436,7 @@ upsetting /ʌp'setɪŋ/ adj
 
  > Travellers are used to / get used to living in different climates and conditions.   
  > 旅行者习惯在不同的气候和条件下生活。  （北师大⑦ – LP）  
+<audio src="./media/used-1.aac"></audio>
 
 ### 2.*低义频：* **用过的；二手的 (secondhand)：**  
 
@@ -2452,7 +3448,13 @@ upsetting /ʌp'setɪŋ/ adj
 
 
 # ***\#useful*** adj
-英音 'juːsfl     美音 'juːsfl  
+英音 'juːsfl  
+英音
+<audio src="./media/useful-B.aac"></audio>
+美音 'juːsfl  
+美音
+<audio src="./media/useful.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 |  
 
@@ -2466,6 +3468,7 @@ upsetting /ʌp'setɪŋ/ adj
 
  > These activities are useful in helping them prepare for their future.   
  > 这些活动有助于他们为将来做好准备。  （2008 湖北）  
+<audio src="./media/useful-1.aac"></audio>
 
 
 派生词汇
@@ -2473,7 +3476,13 @@ upsetting /ʌp'setɪŋ/ adj
 usefully /'juːsfəli/ adv   
 
 # ***\#useless*** adj
-英音 'juːsləs     美音 'juːsləs  
+英音 'juːsləs  
+英音
+<audio src="./media/useless-B.aac"></audio>
+美音 'juːsləs  
+美音
+<audio src="./media/useless.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -2484,13 +3493,21 @@ usefully /'juːsfəli/ adv
 
  > The railway tracks were now useless pieces of steel.  
  > 铁轨如今变成了一条条废钢材。  （人教① – 4）  
+<audio src="./media/useless-1.aac"></audio>
 
  > It’s useless worrying about it.   
  > 为这件事担心无济于事。    
+<audio src="./media/useless-2.aac"></audio>
 
 
 # ***\#user*** n
-英音 'juːzə(r)     美音 'juːzər  
+英音 'juːzə(r)  
+英音
+<audio src="./media/user-B.aac"></audio>
+美音 'juːzər  
+美音
+<audio src="./media/user.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 3 |  
 
@@ -2502,7 +3519,13 @@ usefully /'juːsfəli/ adv
 
 
 # ***\#user-friendly*** adj
-英音 'juːzə 'frendli     美音 'juːzər 'frendli  
+英音 'juːzə 'frendli  
+英音
+<audio src="./media/user-friendly1.aac"></audio>
+美音 'juːzər 'frendli  
+美音
+<audio src="./media/user-friendly2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2512,7 +3535,13 @@ usefully /'juːsfəli/ adv
 
 
 # ***\#username*** n
-英音 ˈjuːzəneɪm     美音 ˈjuːzərneɪm  
+英音 ˈjuːzəneɪm  
+英音
+<audio src="./media/username1_AAC.aac"></audio>
+美音 ˈjuːzərneɪm  
+美音
+<audio src="./media/username2_AAC.aac"></audio>
+
 
   
 
@@ -2522,7 +3551,13 @@ usefully /'juːsfəli/ adv
 
 
 # ***\#usual*** adj
-英音 'juːʒuəl, 'juːʒəl     美音 'juːʒuəl, 'juːʒəl  
+英音 'juːʒuəl, 'juːʒəl  
+英音
+<audio src="./media/usual1.aac"></audio>
+美音 'juːʒuəl, 'juːʒəl  
+美音
+<audio src="./media/usual-m.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -2533,6 +3568,7 @@ usefully /'juːsfəli/ adv
 
  > She sat in her usual seat at the back.   
  > 她坐在平常坐的后排的位子上。    
+<audio src="./media/usual-1.aac"></audio>
 
 #### 辨析 common, normal, ordinary, usual
   
@@ -2542,9 +3578,11 @@ usefully /'juːsfəli/ adv
 **usual** 表示由于长时间没有变化而形成了一种习惯或制度，强调习惯性。
  > He arrived later than usual.   
  > 他到得比平时晚。    
+<audio src="./media/5-common.aac"></audio>
 
  > It is usual for him to sit up late at night.   
  > 他熬夜已成习惯。    
+<audio src="./media/It is usual for.aac"></audio>
 
 
 
@@ -2555,10 +3593,17 @@ usefully /'juːsfəli/ adv
 
  > Wang Wei rode in front of me as usual.   
  > 像平时那样，王薇骑车在我的前面。  （人教① – 3）  
+<audio src="./media/usual-2.aac"></audio>
 
 
 # ***\#usually*** adv
-英音 'juːʒuəli, 'juːʒəli     美音 'juːʒuəli, 'juːʒəli  
+英音 'juːʒuəli, 'juːʒəli  
+英音
+<audio src="./media/usually1-2.aac"></audio>
+美音 'juːʒuəli, 'juːʒəli  
+美音
+<audio src="./media/usually-2.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2568,6 +3613,7 @@ usefully /'juːsfəli/ adv
 
  > In communication, a smile is usually a strong sign of a friendly and open attitude.   
  > 在交流时，微笑通常是一个友好和开放态度的明显信号。  （2011 重庆）  
+<audio src="./media/usually-1.aac"></audio>
 
 
 真题解析
@@ -2578,7 +3624,13 @@ usefully /'juːsfəli/ adv
 1. usually  
 
 # ***\#utter*** vt
-英音 'ʌtə(r)     美音 utter  
+英音 'ʌtə(r)  
+英音
+<audio src="./media/utter-B.aac"></audio>
+美音 utter  
+美音
+<audio src="./media/utter.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2590,7 +3642,13 @@ usefully /'juːsfəli/ adv
 
 
 # ***\#utter*** adj
-英音 'ʌtə(r)     美音 utter  
+英音 'ʌtə(r)  
+英音
+<audio src="./media/utter-B.aac"></audio>
+美音 utter  
+美音
+<audio src="./media/utter.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2600,7 +3658,13 @@ usefully /'juːsfəli/ adv
 
 
 # ***\#utterly*** adv
-英音 'ʌtəli:     美音 'ʌtəli:  
+英音 'ʌtəli:  
+英音
+<audio src="./media/utterly1.aac"></audio>
+美音 'ʌtəli:  
+美音
+<audio src="./media/utterly2.aac"></audio>
+
 
 | 词频 1 |  
 

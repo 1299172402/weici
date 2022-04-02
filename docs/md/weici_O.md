@@ -1,7 +1,13 @@
 # Oo
 
 # ***\#o'clock*** adv
-英音 ə'klɒk     美音 ə'klɑːk  
+英音 ə'klɒk  
+英音
+<audio src="./media/o_clock-B.aac"></audio>
+美音 ə'klɑːk  
+美音
+<audio src="./media/o_clock.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -11,7 +17,13 @@
 
 
 # ***\#o'clock*** adv
-英音 ə'klɒk     美音 ə'klɑːk  
+英音 ə'klɒk  
+英音
+<audio src="./media/o_clock-B.aac"></audio>
+美音 ə'klɑːk  
+美音
+<audio src="./media/o_clock.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -23,7 +35,13 @@
 
 
 # ***\#oar*** n
-英音 ɔː(r)     美音 ɔːr  
+英音 ɔː(r)  
+英音
+<audio src="./media/oar-B.aac"></audio>
+美音 ɔːr  
+美音
+<audio src="./media/oar.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -35,7 +53,13 @@
 
 
 # ***\#oasis*** n
-英音 əʊˈeɪsɪs     美音 əʊˈeɪsɪs  
+英音 əʊˈeɪsɪs  
+英音
+<audio src="./media/oasis1_AAC.aac"></audio>
+美音 əʊˈeɪsɪs  
+美音
+<audio src="./media/oasis2_AAC.aac"></audio>
+
 
   
 
@@ -45,7 +69,13 @@
 
 
 # ***\#obesity*** n
-英音 əʊ'biːsəti     美音 əʊ'biːsəti  
+英音 əʊ'biːsəti  
+英音
+<audio src="./media/obesity-B.aac"></audio>
+美音 əʊ'biːsəti  
+美音
+<audio src="./media/obesity.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -57,7 +87,13 @@
 
 
 # ***\#obey*** v
-英音 ə'beɪ     美音 ə'beɪ  
+英音 ə'beɪ  
+英音
+<audio src="./media/obey-B.aac"></audio>
+美音 ə'beɪ  
+美音
+<audio src="./media/obey.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -71,13 +107,21 @@
 
  > He refused to obey (her).  
  > 他拒绝服从 (她)。    
+<audio src="./media/He refused to obey her_AAC.aac"></audio>
 
  > He cannot command nature except by obeying her.  
  > 我们不能支配自然，只能顺应自然。  （弗朗西斯 · 培根）  
+<audio src="./media/He cannot command nature except by obeying her2_AAC.aac"></audio>
 
 
 # ***\#object*** n
-英音 'ɒbdʒɪkt     美音 'ɑːbdʒekt  
+英音 'ɒbdʒɪkt  
+英音
+<audio src="./media/object1.aac"></audio>
+美音 'ɑːbdʒekt  
+美音
+<audio src="./media/object(n.).aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -89,6 +133,7 @@
 
  > Signs in the zoo warn people not to feed the animals or throw objects.  
  > 动物园里的告示牌告诫人们不要给动物喂食或向它们扔东西。    
+<audio src="./media/Signs in the zoo warn_AAC.aac"></audio>
 
 ### 2.*低义频：* **对象：**  
 
@@ -99,12 +144,19 @@
 
  > The **object of** the game is to improve children’s language skills.  
  > 这项游戏的目的在于提高儿童的语言技能。    
+<audio src="./media/The object of the game is to_AAC.aac"></audio>
 
 ### 4.*低义频：* **[语法] 宾语**  
 
 
 # ***\#object*** v
-英音 əb'dʒekt     美音 əb'dʒekt  
+英音 əb'dʒekt  
+英音
+<audio src="./media/object-B V.aac"></audio>
+美音 əb'dʒekt  
+美音
+<audio src="./media/object-v.aac"></audio>
+
 
 | 词频 4 | 口语 2 |  
 
@@ -114,14 +166,17 @@
 
  > If nobody objects, we’ll put off the meeting till next week.  
  > 如果没人反对，我们就把会议推迟到下周。    
+<audio src="./media/If nobody objects_AAC.aac"></audio>
 
 - object to (doing) sth:
 
  > Why do some people **strongly object to** human cloning?  
  > 为什么有些人强烈反对克隆人类？  （人教⑧ – 2改）  
+<audio src="./media/Why do some people_AAC.aac"></audio>
 
  > We object to leaving him alone.  
  > 我们不赞成留下他一个人。    
+<audio src="./media/object(v)-2.aac"></audio>
 
 ### 2.*低义频：* **提出…作为反对的理由：**  
 
@@ -129,10 +184,17 @@
 
  > They objected that the schedule was too tight.  
  > 他们表示反对，说日程安排得太紧。    
+<audio src="./media/object(v)-3.aac"></audio>
 
 
 # ***\#objection*** n
-英音 əb'dʒekʃn     美音 əb'dʒekʃn  
+英音 əb'dʒekʃn  
+英音
+<audio src="./media/objection-B.aac"></audio>
+美音 əb'dʒekʃn  
+美音
+<audio src="./media/objection.aac"></audio>
+
 
 | 词频 1 | 口语 1 | 阅读 1 |  
 
@@ -144,10 +206,17 @@
 
  > Grey decided to move to the countryside and his wife **made** no **objections to** it.  
  > 格雷决定搬到乡下，他的妻子没有反对。  （人教⑧ – 2）  
+<audio src="./media/objection-1.aac"></audio>
 
 
 # ***\#objective*** n
-英音 əb'dʒektɪv     美音 əb'dʒektɪv  
+英音 əb'dʒektɪv  
+英音
+<audio src="./media/objective-B.aac"></audio>
+美音 əb'dʒektɪv  
+美音
+<audio src="./media/objective.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 1 |  
 
@@ -162,13 +231,21 @@
 
  > The objective of most speeches is to benefit the audience.  
  > 大多数演讲的目的都是为了使听众受益。  （2020山东）  
+<audio src="./media/The objective of most speeches is to benefit the audience2_AAC.aac"></audio>
 
  > A way of setting realistic goals is to analyze your short and long term objectives.  
  > 一种设定实际目标的方法是分析你的短期和长期目标。  （2019全国）  
+<audio src="./media/A way of setting realistic goals is to analyze your short and long term objectives2_AAC.aac"></audio>
 
 
 # ***\#objective*** adj
-英音 əb'dʒektɪv     美音 əb'dʒektɪv  
+英音 əb'dʒektɪv  
+英音
+<audio src="./media/objective-B.aac"></audio>
+美音 əb'dʒektɪv  
+美音
+<audio src="./media/objective.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 1 |  
 
@@ -186,7 +263,13 @@
 objectively /əbˈdʒektɪvli/ adv   
 
 # ***\#objectively*** adv
-英音 əbˈdʒektɪvli     美音 əbˈdʒektɪvli  
+英音 əbˈdʒektɪvli  
+英音
+<audio src="./media/objectively1_AAC.aac"></audio>
+美音 əbˈdʒektɪvli  
+美音
+<audio src="./media/objectively2_AAC.aac"></audio>
+
 
   
 
@@ -196,7 +279,13 @@ objectively /əbˈdʒektɪvli/ adv
 
 
 # ***\#obligation*** n
-英音 ˌɒblɪ'ɡeɪʃn     美音 ˌɑːblɪ'ɡeɪʃn  
+英音 ˌɒblɪ'ɡeɪʃn  
+英音
+<audio src="./media/obligation-B.aac"></audio>
+美音 ˌɑːblɪ'ɡeɪʃn  
+美音
+<audio src="./media/obligation.aac"></audio>
+
 
 | 词频 1 | 书面 1 |  
 
@@ -208,7 +297,13 @@ objectively /əbˈdʒektɪvli/ adv
 
 
 # ***\#obscure*** adj
-英音 əb'skjʊə(r)     美音 əb'skjʊər  
+英音 əb'skjʊə(r)  
+英音
+<audio src="./media/obscure1.aac"></audio>
+美音 əb'skjʊər  
+美音
+<audio src="./media/obscure2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -218,7 +313,13 @@ objectively /əbˈdʒektɪvli/ adv
 
 
 # ***\#observation*** n
-英音 ˌɒbzə'veɪʃn     美音 ˌɑːbzər'veɪʃn  
+英音 ˌɒbzə'veɪʃn  
+英音
+<audio src="./media/observation-B.aac"></audio>
+美音 ˌɑːbzər'veɪʃn  
+美音
+<audio src="./media/observation.aac"></audio>
+
 
 | 词频 3 | 书面 1 |  
 
@@ -228,7 +329,13 @@ objectively /əbˈdʒektɪvli/ adv
 
 
 # ***\#observatory*** n
-英音 əb'zɜːvətri     美音 əb'zɜːrvətɔːri  
+英音 əb'zɜːvətri  
+英音
+<audio src="./media/observatory-B.aac"></audio>
+美音 əb'zɜːrvətɔːri  
+美音
+<audio src="./media/observatory.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -240,7 +347,13 @@ objectively /əbˈdʒektɪvli/ adv
 
 
 # ***\#observe*** v  重难点词汇
-英音 əb'zɜːv     美音 əb'zɜːrv  
+英音 əb'zɜːv  
+英音
+<audio src="./media/observe-B.aac"></audio>
+美音 əb'zɜːrv  
+美音
+<audio src="./media/observe.aac"></audio>
+
 
 | 词频 4 | 书面 2 |  
 
@@ -254,30 +367,36 @@ objectively /əbˈdʒektɪvli/ adv
 
  > Observe carefully if any change occurs when doing experiments in the lab.  
  > 在实验室里做实验时要仔细观察是否会发生变化。  （2014 北京）  
+<audio src="./media/Observe carefully if any _AAC.aac"></audio>
 
 - observe + wh- 从句:
 
  > The teacher required the students to observe how the people in the group interacted.  
  > 老师让学生们观察这个组内的人是如何交流互动的。    
+<audio src="./media/observe-6.aac"></audio>
 
 ### 2.*高义频：* **[不用于进行时] [正式用语] 察觉到；注意到**  
 英译 to see or notice sb / sth：
 
  > In homes with cats and dogs living peacefully, researchers observed a surprising behaviour.  
  > 在猫和狗和平共处的家庭中，研究者们观察到一个出人意料的行为。  （2011 广东）  
+<audio src="./media/P300 observe1.aac"></audio>
 
 - observe … doing / do sth:
 
  > The police officer observed him driving at 100 miles per hour.  
  > 警察发现他正以100英里的时速驾车行驶。    
+<audio src="./media/observe-2.aac"></audio>
 
  > The police observed the man enter the bank.  
  > 警方注意到那名男子进入了银行。    
+<audio src="./media/P300 observe2.aac"></audio>
 
 - observe + that 从句:
 
  > It was observed that successful people spent a lot more time reading than they did watching TV.  
  > 据观察，成功人士花在阅读上的时间比看电视的时间多得多。    
+<audio src="./media/P300 observe3.aac"></audio>
 
 ### 3.*低义频：* **[正式用语] 说；评论**  
 英译 to say or write what you have noticed about a situation
@@ -292,11 +411,13 @@ objectively /əbˈdʒektɪvli/ adv
 
  > Rules of online voting should be worked out and strictly observed.  
  > 应该制定网络投票的规则并严格遵守。  （2016 江苏书面表达改）  
+<audio src="./media/observe50.aac"></audio>
 
 ### 5.*低义频：* **[正式用语] 举行 (仪式)；庆祝 (节日)：**  
 
  > Do you observe Christmas in your country?  
  > 你们国家庆祝圣诞节吗？    
+<audio src="./media/observe-7.aac"></audio>
 
 
 派生词汇
@@ -313,7 +434,13 @@ observer /əb'zɜːvə(r)/ n [C]
 1. observe  
 
 # ***\#obsess*** v
-英音 əb'ses     美音 əb'ses  
+英音 əb'ses  
+英音
+<audio src="./media/obsess1.aac"></audio>
+美音 əb'ses  
+美音
+<audio src="./media/obsess2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -323,7 +450,13 @@ observer /əb'zɜːvə(r)/ n [C]
 
 
 # ***\#obsess*** vt
-英音 əb'ses     美音 əb'ses  
+英音 əb'ses  
+英音
+<audio src="./media/obsess1.aac"></audio>
+美音 əb'ses  
+美音
+<audio src="./media/obsess2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -333,7 +466,13 @@ observer /əb'zɜːvə(r)/ n [C]
 
 
 # ***\#obsessive*** adj
-英音 əbˈsesɪv     美音 əbˈsesɪv  
+英音 əbˈsesɪv  
+英音
+<audio src="./media/obsessive1_AAC.aac"></audio>
+美音 əbˈsesɪv  
+美音
+<audio src="./media/obsessive2_AAC.aac"></audio>
+
 
   
 
@@ -343,7 +482,13 @@ observer /əb'zɜːvə(r)/ n [C]
 
 
 # ***\#obstacle*** n
-英音 'ɒbstəkl     美音 'ɑːbstəkl  
+英音 'ɒbstəkl  
+英音
+<audio src="./media/obstacle1_AAC.aac"></audio>
+美音 'ɑːbstəkl  
+美音
+<audio src="./media/obstacle2_AAC.aac"></audio>
+
 
   
 
@@ -353,7 +498,13 @@ observer /əb'zɜːvə(r)/ n [C]
 
 
 # ***\#obstruction*** n
-英音 əbˈstrʌkʃn     美音 əbˈstrʌkʃn  
+英音 əbˈstrʌkʃn  
+英音
+<audio src="./media/obstruction1_AAC.aac"></audio>
+美音 əbˈstrʌkʃn  
+美音
+<audio src="./media/obstruction2_AAC.aac"></audio>
+
 
   
 
@@ -363,7 +514,13 @@ observer /əb'zɜːvə(r)/ n [C]
 
 
 # ***\#obtain*** vt
-英音 əb'teɪn     美音 əb'teɪn  
+英音 əb'teɪn  
+英音
+<audio src="./media/obtain-B.aac"></audio>
+美音 əb'teɪn  
+美音
+<audio src="./media/obtain.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 3 |  
 
@@ -376,13 +533,21 @@ observer /əb'zɜːvə(r)/ n [C]
 
  > At Oxford, he obtained his Master’s degree in electrical engineering.  
  > 在牛津大学，他获得了电气工程硕士学位。  （北师大新选必② – 4）  
+<audio src="./media/obtain-1.aac"></audio>
 
  > These national parks **obtained** financial support **from** tourist companies.  
  > 这些国家公园得到了旅游公司的财力支持。  （2013 江西改）  
+<audio src="./media/These national parks obtained_AAC.aac"></audio>
 
 
 # ***\#obvious*** adj
-英音 'ɒbviəs     美音 'ɑːbviəs  
+英音 'ɒbviəs  
+英音
+<audio src="./media/obvious-B.aac"></audio>
+美音 'ɑːbviəs  
+美音
+<audio src="./media/obvious.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -395,10 +560,17 @@ observer /əb'zɜːvə(r)/ n [C]
 
  > **It is obvious to** the students **that** they should get well prepared for their future.  
  > 学生们很清楚他们应该为将来做好充分的准备。  （2009 天津）  
+<audio src="./media/It is obvious to the students_AAC.aac"></audio>
 
 
 # ***\#obviously*** adv
-英音 'ɒbviəsli     美音 'ɑːbviəsli  
+英音 'ɒbviəsli  
+英音
+<audio src="./media/obviously-B.aac"></audio>
+美音 'ɑːbviəsli  
+美音
+<audio src="./media/obviously.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -408,6 +580,7 @@ observer /əb'zɜːvə(r)/ n [C]
 
  > Obviously, the ability to talk is something that marks humans off from animals.  
  > 显然，说话的能力把人类和动物区分开来。  （2010 江西）  
+<audio src="./media/obviously-1.aac"></audio>
 
 
 真题解析
@@ -418,7 +591,13 @@ observer /əb'zɜːvə(r)/ n [C]
 1. obviously  
 
 # ***\#occasion*** n
-英音 ə'keɪʒn     美音 ə'keɪʒn  
+英音 ə'keɪʒn  
+英音
+<audio src="./media/occasion-B.aac"></audio>
+美音 ə'keɪʒn  
+美音
+<audio src="./media/occasion.aac"></audio>
+
 
 | 词频 3 | 口语 3 | 书面 2 | 阅读 3 |  
 
@@ -434,18 +613,22 @@ observer /əb'zɜːvə(r)/ n [C]
 
  > I’ve met him **on several occasions**.  
  > 我见过他几次。    
+<audio src="./media/P300 occasion1.aac"></audio>
 
  > The Mid-Autumn Festival is significant because it is **a special occasion** for a family reunion.  
  > 中秋节之所以重要是因为这是阖家团聚的特殊日子。    
+<audio src="./media/The Mid-Autumn Festival is significant2_AAC.aac"></audio>
 
  > **Occasions** are quite rare **when** I have the time to spend a day with my kids.  
  > 我能有一天时间陪孩子们的时候都非常少。  （2008 山东）  
+<audio src="./media/occasion-1.aac"></audio>
 
 ### 2.*高义频：* **[常用单数] 时机；机会**  
 英译 a suitable or favourable time：
 
  > I saw them at the funeral, but it was not a suitable **occasion for** discussing holiday plans.  
  > 我在葬礼上看到了他们，但那时不是讨论度假计划的时候。    
+<audio src="./media/P300 occasion2.aac"></audio>
 
 ### 3.*高义频：* **重大 / 特殊活动；盛会**  
 英译 a special event, ceremony, celebration, etc：
@@ -461,12 +644,14 @@ observer /əb'zɜːvə(r)/ n [C]
 
  > It is said that on occasion Byron swam by moonlight in the lake.  
  > 据说，有时拜伦借着月光在湖里游泳。  （2012 湖南改）  
+<audio src="./media/P300 occasion4.aac"></audio>
 
 ## \#on the occasion of
 1.**在…之际：**  
 
  > I traveled back to my hometown **on the** sad **occasion of** Dad’s death.  
  > 在父亲去世的悲痛时刻我回到了家乡。  （2012浙江）  
+<audio src="./media/P300 occasion5.aac"></audio>
 
 
 真题解析
@@ -477,7 +662,13 @@ observer /əb'zɜːvə(r)/ n [C]
 1. on  
 
 # ***\#occasional*** adj
-英音 ə'keɪʒənl     美音 ə'keɪʒənl  
+英音 ə'keɪʒənl  
+英音
+<audio src="./media/occasional-B.aac"></audio>
+美音 ə'keɪʒənl  
+美音
+<audio src="./media/occasional.aac"></audio>
+
 
 | 词频 1 | 口语 1 | 书面 1 |  
 
@@ -487,10 +678,17 @@ observer /əb'zɜːvə(r)/ n [C]
 
  > He is only an occasional workman.  
  > 他只是个临时工。    
+<audio src="./media/occasional-1.aac"></audio>
 
 
 # ***\#occasionally*** adv
-英音 ə'keɪʒnəli     美音 ə'keɪʒnəli  
+英音 ə'keɪʒnəli  
+英音
+<audio src="./media/occasionally-B.aac"></audio>
+美音 ə'keɪʒnəli  
+美音
+<audio src="./media/occasionally.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 1 |  
 
@@ -500,6 +698,7 @@ observer /əb'zɜːvə(r)/ n [C]
 
  > Occasionally, I would read a novel that was assigned, but I didn't enjoy this type of reading.  
  > 偶尔我会读（老师）布置的小说，但我不喜欢这种类型的读物。  （2019天津）  
+<audio src="./media/Occasionally, I would read a novel _AAC.aac"></audio>
 
 
 真题解析
@@ -510,7 +709,13 @@ observer /əb'zɜːvə(r)/ n [C]
 1. occasionally  
 
 # ***\#occupation*** n
-英音 ˌɒkju'peɪʃn     美音 ˌɑːkju'peɪʃn  
+英音 ˌɒkju'peɪʃn  
+英音
+<audio src="./media/occupation-B.aac"></audio>
+美音 ˌɑːkju'peɪʃn  
+美音
+<audio src="./media/occupation.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 3 |  
 
@@ -528,10 +733,17 @@ observer /əb'zɜːvə(r)/ n [C]
 
  > What do you imagine will be your future occupation?  
  > 你认为自己将来会从事什么职业呢？  （人教⑤ – 4）  
+<audio src="./media/occupation-1.aac"></audio>
 
 
 # ***\#occupied*** adj
-英音 'ɒkjupaɪd     美音 'ɑːkjupaɪd  
+英音 'ɒkjupaɪd  
+英音
+<audio src="./media/occupied-B.aac"></audio>
+美音 'ɑːkjupaɪd  
+美音
+<audio src="./media/occupied.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -544,23 +756,33 @@ observer /əb'zɜːvə(r)/ n [C]
 
  > Sorry, this seat is occupied.  
  > 抱歉，这个座位有人了。    
+<audio src="./media/P301 occupied1.aac"></audio>
 
 ### 3.*高义频：* **[不用于名词前] 忙于...的：**  
 
  > You can imagine how **fully occupied** I became, raising four boys under the age of 8!  
  > 你能想象我抚养四个不到八岁的小男孩会有多忙了吧！  （2011 天津）  
+<audio src="./media/P301 occupied2.aac"></audio>
 
 - be occupied with (doing) sth / (in) doing sth:
 
  > I have been so occupied with work that I haven’t had time for social activities.  
  > 工作太忙，我一直没有时间参加社交活动。  （人教⑦ – 5）  
+<audio src="./media/occupied3.aac"></audio>
 
  > He’s fully occupied looking after three small children.  
  > 照顾三个小孩把他忙得不可开交。    
+<audio src="./media/He’s fully occupied looking_AAC.aac"></audio>
 
 
 # ***\#occupy*** vt
-英音 'ɒkjupaɪ     美音 'ɑːkjupaɪ  
+英音 'ɒkjupaɪ  
+英音
+<audio src="./media/occupy-B.aac"></audio>
+美音 'ɑːkjupaɪ  
+美音
+<audio src="./media/occupy.aac"></audio>
+
 
 | 词频 2 | 书面 2 | 阅读 2 |  
 
@@ -570,23 +792,33 @@ observer /əb'zɜːvə(r)/ n [C]
 
  > During the war, Germany occupied many countries, including France.  
  > 战争期间，德国占领了很多国家，包括法国。  （外研⑥ – 6）  
+<audio src="./media/occupy-1.aac"></audio>
 
 ### 2.*高义频：* **占用 / 占去 (时间、空间) (take up)：**  
 
  > His speech occupied only three minutes.  
  > 他的演讲仅用了三分钟。    
+<audio src="./media/occupy-2.aac"></audio>
 
  > The bed seemed to occupy most of the room.  
  > 床似乎占据了大半个房间。    
+<audio src="./media/occupy-3.aac"></audio>
 
 ### 3.*高义频：* **使忙碌：**  
 
  > His work occupies him for the whole day.  
  > 工作使他忙了一整天。    
+<audio src="./media/occupy-4.aac"></audio>
 
 
 # ***\#occur*** vi  重难点词汇
-英音 ə'kɜː(r)     美音 ə'kɜːr  
+英音 ə'kɜː(r)  
+英音
+<audio src="./media/occur-B.aac"></audio>
+美音 ə'kɜːr  
+美音
+<audio src="./media/occur.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
 
@@ -597,15 +829,18 @@ observer /əb'zɜːvə(r)/ n [C]
 
  > A great decline in young work force is likely to occur in China.  
  > 年轻劳动力骤减的情况可能会在中国发生。  （2017 江苏）  
+<audio src="./media/A great decline in young_AAC.aac"></audio>
 
 ### 2.*高义频：* **出现；存在**  
 英译 to exist or be found somewhere：
 
  > Sugar **occurs** naturally **in** fruit.  
  > 水果天然含有糖分。    
+<audio src="./media/occur-2.aac"></audio>
 
  > Cultural differences occur wherever you go.  
  > 无论你到哪儿都存在着文化差异。  （2014 重庆）  
+<audio src="./media/occur-Cultural differences occur.aac"></audio>
 
 
 固定搭配
@@ -617,14 +852,17 @@ observer /əb'zɜːvə(r)/ n [C]
 
  > It occurred to her to phone the police.  
  > 她想到了给警察打电话。    
+<audio src="./media/occur-3.aac"></audio>
 
 - it occurs to sb + (that) 从句:
 
  > It occurred to him that he had an important conference to attend the next morning.  
  > 他突然想到第二天早上要参加一个重要会议。  （2011 湖北）  
+<audio src="./media/occur-4.aac"></audio>
 
  > Not once did it occur to Michael that he could one day become a top student in his class.  
  > 迈克尔从未想到过有一天他能成为班上的优等生。  （2013 湖南）  
+<audio src="./media/occur-5.aac"></audio>
 
 
 派生词汇
@@ -646,7 +884,13 @@ occurrence /ə'kʌrəns/ n
 1. that  
 
 # ***\#ocean*** n
-英音 'əʊʃn     美音 'oʊʃn  
+英音 'əʊʃn  
+英音
+<audio src="./media/ocean-B.aac"></audio>
+美音 'oʊʃn  
+美音
+<audio src="./media/ocean.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -658,7 +902,13 @@ occurrence /ə'kʌrəns/ n
 
 
 # ***\#odd*** adj
-英音 ɒd     美音 ɑːd  
+英音 ɒd  
+英音
+<audio src="./media/odd1.aac"></audio>
+美音 ɑːd  
+美音
+<audio src="./media/odd.aac"></audio>
+
 
 | 词频 2 | 口语 3 | 书面 1 |  
 
@@ -671,6 +921,7 @@ occurrence /ə'kʌrəns/ n
 
  > **It's odd that** she didn't phone to say couldn't come.  
  > 真奇怪，她没有打电话说自己不能来。    
+<audio src="./media/It's odd that she didn't phone to say couldn't come2_AAC.aac"></audio>
 
 ### 2.*高义频：* **[只用于名词前] 偶尔发生的：**  
 
@@ -690,10 +941,17 @@ occurrence /ə'kʌrəns/ n
 
  > When we visited the ward the next morning, we were amazed to see that against all odds, both boys were still alive.  
  > 第二天早上我们去病房探望时，惊奇地发现尽管困难重重，两个孩子仍然活了下来。  （外研新选必② – 4）  
+<audio src="./media/When we visited the ward the next morning, we were amazed to see that against all odds2_AAC.aac"></audio>
 
 
 # ***\#of*** prep
-英音 əv,ɒv     美音 əv,ʌv  
+英音 əv,ɒv  
+英音
+<audio src="./media/of1-.aac"></audio>
+美音 əv,ʌv  
+美音
+<audio src="./media/of2--.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -703,6 +961,7 @@ occurrence /ə'kʌrəns/ n
 
  > This is the house of my younger sister.  
  > 这是我妹妹的房子。    
+<audio src="./media/of-1.aac"></audio>
 
 ### 2.*高义频：* **由…组成的：**  
 
@@ -768,7 +1027,13 @@ occurrence /ə'kʌrəns/ n
 1. of  2. Of  
 
 # ***\#off*** adv
-英音 ɒf     美音 ɔːf  
+英音 ɒf  
+英音
+<audio src="./media/off-B.aac"></audio>
+美音 ɔːf  
+美音
+<audio src="./media/off.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -781,14 +1046,17 @@ occurrence /ə'kʌrəns/ n
 
  > I must be off now.  
  > 我得走了。    
+<audio src="./media/off-1.aac"></audio>
 
 ### 2.*高义频：* **离；距：**  
 
  > The city is 20 miles off.  
  > 那座城市在20英里以外。    
+<audio src="./media/off-2.aac"></audio>
 
  > May Day is only a week off.  
  > 离五一劳动节只有一个星期了。    
+<audio src="./media/off-3.aac"></audio>
 
 ### 3.*高义频：* **脱离掉；去掉；减掉：**  
 
@@ -797,6 +1065,7 @@ occurrence /ə'kʌrəns/ n
 
  > The paint came off.  
  > 油漆脱落了。    
+<audio src="./media/off-4.aac"></audio>
 
 ### 4.*高义频：* **不工作；休息：**  
 
@@ -810,6 +1079,7 @@ occurrence /ə'kʌrəns/ n
 
  > Don’t put off your work.  
  > 不要拖延工作。    
+<audio src="./media/off-5.aac"></audio>
 
 
 真题解析
@@ -820,7 +1090,13 @@ occurrence /ə'kʌrəns/ n
 1. off  
 
 # ***\#off*** prep
-英音 ɒf     美音 ɔːf  
+英音 ɒf  
+英音
+<audio src="./media/off-B.aac"></audio>
+美音 ɔːf  
+美音
+<audio src="./media/off.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -830,19 +1106,23 @@ occurrence /ə'kʌrəns/ n
 
  > Can you get the lid off this box?  
  > 你能把这个盒子的盖子打开吗？    
+<audio src="./media/off-6.aac"></audio>
 
 ### 2.*高义频：* **离；距；偏离：**  
 
  > The ship sank 10 miles off the coast.  
  > 那艘船在离海岸10英里处沉没了。    
+<audio src="./media/off-7.aac"></audio>
 
  > There’s a small bathroom off the main bedroom.  
  > 有一个小浴室与主卧相连。    
+<audio src="./media/P302 off1.aac"></audio>
 
 ### 3.*高义频：* **(因病等) 不工作；不上学：**  
 
  > I got off work at 10.  
  > 我10点钟下班。    
+<audio src="./media/off-9.aac"></audio>
 
 ### 4.*高义频：* **从…减掉：**  
 
@@ -858,7 +1138,13 @@ occurrence /ə'kʌrəns/ n
 1. off  
 
 # ***\#offence*** n
-英音 ə'fens     美音 ə'fens  
+英音 ə'fens  
+英音
+<audio src="./media/offence-B.aac"></audio>
+美音 ə'fens  
+美音
+<audio src="./media/offence.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 1 |  
 
@@ -873,10 +1159,17 @@ occurrence /ə'kʌrəns/ n
 
  > Don’t be upset by what he said; he **meant no offense**.  
  > 不要为他的话感到不快，他没有冒犯你的意思。    
+<audio src="./media/offence-1.aac"></audio>
 
 
 # ***\#offend*** v
-英音 ə'fend     美音 ə'fend  
+英音 ə'fend  
+英音
+<audio src="./media/offend-B.aac"></audio>
+美音 ə'fend  
+美音
+<audio src="./media/offend.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -886,10 +1179,17 @@ occurrence /ə'kʌrəns/ n
 
  > Please follow your project supervisor’s instructions, or you’ll offend him.  
  > 要听从你项目主管的指示，否则你会使他生气。    
+<audio src="./media/Please follow your project_AAC.aac"></audio>
 
 
 # ***\#offender*** n
-英音 əˈfendə(r)     美音 əˈfendər  
+英音 əˈfendə(r)  
+英音
+<audio src="./media/offender1_AAC.aac"></audio>
+美音 əˈfendər  
+美音
+<audio src="./media/offender2_AAC.aac"></audio>
+
 
   
 
@@ -901,7 +1201,13 @@ occurrence /ə'kʌrəns/ n
 
 
 # ***\#offense*** n
-英音 ə'fens     美音 ə'fens  
+英音 ə'fens  
+英音
+<audio src="./media/offence-B.aac"></audio>
+美音 ə'fens  
+美音
+<audio src="./media/offence.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 1 |  
 
@@ -916,10 +1222,17 @@ occurrence /ə'kʌrəns/ n
 
  > Don’t be upset by what he said; he **meant no offense**.  
  > 不要为他的话感到不快，他没有冒犯你的意思。    
+<audio src="./media/offence-1.aac"></audio>
 
 
 # ***\#offensive*** adj
-英音 ə'fensɪv     美音 ə'fensɪv  
+英音 ə'fensɪv  
+英音
+<audio src="./media/offensive-B.aac"></audio>
+美音 ə'fensɪv  
+美音
+<audio src="./media/offensive.aac"></audio>
+
 
 | 词频 1 | 阅读 1 |  
 
@@ -932,7 +1245,13 @@ occurrence /ə'kʌrəns/ n
 
 
 # ***\#offer*** vt  重难点词汇
-英音 'ɒfə(r)     美音 'ɔːfər  
+英音 'ɒfə(r)  
+英音
+<audio src="./media/offer-B.aac"></audio>
+美音 'ɔːfər  
+美音
+<audio src="./media/offer.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -943,31 +1262,37 @@ occurrence /ə'kʌrəns/ n
 
  > The word “volunteer” usually means “one who **offers** his or her **services**”.  
  > “志愿者”通常意为“自愿提供服务的人”。  （2008 四川改）  
+<audio src="./media/offer-1.aac"></audio>
 
 - offer sb sth / offer sth to sb:
 
  > She offered me a cup of coffee. / She offered a cup of coffee to me.  
  > 她给我端上了一杯咖啡。    
+<audio src="./media/offer-2.aac"></audio>
 
  > A kind person will offer his seat to the old.  
  > 好心的人会给老人让座。  （2014 重庆）  
+<audio src="./media/A kind person will offer_AAC.aac"></audio>
 
 - offer to do sth:
 
  > The newspaper offered to apologize for the article.  
  > 这家报纸主动为那篇文章道歉。    
+<audio src="./media/offer-3.aac"></audio>
 
 ### 2.*高义频：* **提供 (东西 / 机会)；供应**  
 英译 to make sth available or to provide the opportunity for sth：
 
  > — Why did you leave that position?  
  > 你为什么要离职？    
+<audio src="./media/offer-4.aac"></audio>
 
  > — I was offered a better position at IBM.  
  > IBM给我提供了更好的职位。    
 
  > Working in a team **offers** me **a chance** to learn how to get along with others.  
  > 团队工作给我提供了一个学习如何与他人相处的机会。  （2008 浙江书面表达改）  
+<audio src="./media/offer-5.aac"></audio>
 
 #### 辨析 provide, offer, supply
 三者都有“供给、提供”的意思，但用法不同。  
@@ -976,6 +1301,7 @@ occurrence /ə'kʌrəns/ n
 **supply** 通常指定期“供应”，强调替代或补充所需物品，常用supply sb with sth或supply sth to sb结构。
  > The butcher **supplies** us **with** meat.  
  > 这个卖肉的给我们供应肉。    
+<audio src="./media/provide-13.aac"></audio>
 
 
 ### 3.*高义频：* **出 (价)；出售：**  
@@ -984,6 +1310,7 @@ occurrence /ə'kʌrəns/ n
 
  > They offered (him) 8,000 dollars for the house.  
  > 他们(向他) 出价8 000美元买这栋房子。    
+<audio src="./media/They offered (him) 8,000_AAC.aac"></audio>
 
 
 真题解析
@@ -994,7 +1321,13 @@ occurrence /ə'kʌrəns/ n
 1. offering  
 
 # ***\#offer*** n  重难点词汇
-英音 'ɒfə(r)     美音 'ɔːfər  
+英音 'ɒfə(r)  
+英音
+<audio src="./media/offer-B.aac"></audio>
+美音 'ɔːfər  
+美音
+<audio src="./media/offer.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1007,14 +1340,17 @@ occurrence /ə'kʌrəns/ n
 
  > He **made an offer** of help.  
  > 他主动提供帮助。    
+<audio src="./media/offer-9.aac"></audio>
 
  > Have you got any **job offers**?  
  > 有公司愿意聘用你吗？  （2008 辽宁）  
+<audio src="./media/Have you got any_AAC.aac"></audio>
 
 ### 2.*高义频：* **开价；报价：**  
 
  > He asked the crowd in the auction-room to **make offers**, or “bids” for the items on sale.  
  > 他让拍卖厅里的人开价或竞拍在售物品。    
+<audio src="./media/He asked the crowd in_AAC.aac"></audio>
 
 ### 3.*高义频：* **减价；特价：**  
 
@@ -1029,9 +1365,11 @@ occurrence /ə'kʌrəns/ n
 
  > This computer was on special offer.  
  > 这款电脑正特价出售。  （2010 浙江改）  
+<audio src="./media/This computer was _AAC.aac"></audio>
 
  > Come down to our restaurant to enjoy the special dishes on offer.  
  > 来我们餐馆享受提供的特价菜吧。  （2008 江西改）  
+<audio src="./media/offer-12.aac"></audio>
 
 
 真题解析
@@ -1043,7 +1381,13 @@ occurrence /ə'kʌrəns/ n
 1. offer  
 
 # ***\#offer*** vi  重难点词汇
-英音 'ɒfə(r)     美音 'ɔːfər  
+英音 'ɒfə(r)  
+英音
+<audio src="./media/offer-B.aac"></audio>
+美音 'ɔːfər  
+美音
+<audio src="./media/offer.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -1053,7 +1397,13 @@ occurrence /ə'kʌrəns/ n
 
 
 # ***\#offering*** n
-英音 'ɒfərɪŋ     美音 'ɔːfərɪŋ  
+英音 'ɒfərɪŋ  
+英音
+<audio src="./media/offering1.aac"></audio>
+美音 'ɔːfərɪŋ  
+美音
+<audio src="./media/offering2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1063,7 +1413,13 @@ occurrence /ə'kʌrəns/ n
 
 
 # ***\#office*** n
-英音 'ɒfɪs     美音 'ɔːfɪs  
+英音 'ɒfɪs  
+英音
+<audio src="./media/office-B.aac"></audio>
+美音 'ɔːfɪs  
+美音
+<audio src="./media/office.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1092,7 +1448,13 @@ occurrence /ə'kʌrəns/ n
 
 
 # ***\#officer*** n
-英音 'ɒfɪsə(r)     美音 'ɔːfɪsər  
+英音 'ɒfɪsə(r)  
+英音
+<audio src="./media/officer-B.aac"></audio>
+美音 'ɔːfɪsər  
+美音
+<audio src="./media/officer.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 |  
 
@@ -1107,7 +1469,13 @@ occurrence /ə'kʌrəns/ n
 
 
 # ***\#official*** adj
-英音 ə'fɪʃl     美音 ə'fɪʃl  
+英音 ə'fɪʃl  
+英音
+<audio src="./media/official-B.aac"></audio>
+美音 ə'fɪʃl  
+美音
+<audio src="./media/official.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -1120,6 +1488,7 @@ occurrence /ə'kʌrəns/ n
 
  > The foreign minister will make **an official visit** to Tokyo.   
  > 外交部长将前往东京进行正式访问。    
+<audio src="./media/official-1.aac"></audio>
 
 ### 2.*高义频：* **[常用于名词前] 官方的；正式的：**  
 
@@ -1131,10 +1500,17 @@ occurrence /ə'kʌrəns/ n
 
  > English is one of the official languages used in India.  
  > 英语是印度使用的官方语言之一。  （人教① – 2）  
+<audio src="./media/official-2.aac"></audio>
 
 
 # ***\#official*** n
-英音 ə'fɪʃl     美音 ə'fɪʃl  
+英音 ə'fɪʃl  
+英音
+<audio src="./media/official-B.aac"></audio>
+美音 ə'fɪʃl  
+美音
+<audio src="./media/official.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 3 |  
 
@@ -1152,7 +1528,13 @@ occurrence /ə'kʌrəns/ n
 
 
 # ***\#official-looking*** adj
-英音 əˌfɪʃl'lʊkɪŋ     美音 əˌfɪʃl'lʊkɪŋ  
+英音 əˌfɪʃl'lʊkɪŋ  
+英音
+<audio src="./media/official-looking1.aac"></audio>
+美音 əˌfɪʃl'lʊkɪŋ  
+美音
+<audio src="./media/official-looking2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1162,7 +1544,13 @@ occurrence /ə'kʌrəns/ n
 
 
 # ***\#officially*** adv
-英音 ə'fɪʃəli     美音 ə'fɪʃəli  
+英音 ə'fɪʃəli  
+英音
+<audio src="./media/officially-B.aac"></audio>
+美音 ə'fɪʃəli  
+美音
+<audio src="./media/officially.aac"></audio>
+
 
 | 词频 2 | 阅读 2 |  
 
@@ -1172,6 +1560,7 @@ occurrence /ə'kʌrəns/ n
 
  > Shooting became an Olympic event officially in 1896.  
  > 射击于1896年正式成为奥运会比赛项目。  （2008 广东书面表达）  
+<audio src="./media/officially-1.aac"></audio>
 
 
 真题解析
@@ -1182,7 +1571,13 @@ occurrence /ə'kʌrəns/ n
 1. officially  
 
 # ***\#offshore*** adj
-英音 ˌɒf'ʃɔː(r)     美音 ˌɒf'ʃɔːr  
+英音 ˌɒf'ʃɔː(r)  
+英音
+<audio src="./media/offshore-B.aac"></audio>
+美音 ˌɒf'ʃɔːr  
+美音
+<audio src="./media/offshore.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1195,7 +1590,13 @@ occurrence /ə'kʌrəns/ n
 
 
 # ***\#offshore*** adv
-英音 ˌɒf'ʃɔː(r)     美音 ˌɒf'ʃɔːr  
+英音 ˌɒf'ʃɔː(r)  
+英音
+<audio src="./media/offshore-B.aac"></audio>
+美音 ˌɒf'ʃɔːr  
+美音
+<audio src="./media/offshore.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1205,10 +1606,17 @@ occurrence /ə'kʌrəns/ n
 
  > The storm moved offshore.   
  > 风暴向近海移动。    
+<audio src="./media/offshore-1.aac"></audio>
 
 
 # ***\#oft*** adv
-英音 ɒft     美音 ɔːft  
+英音 ɒft  
+英音
+<audio src="./media/oft1_AAC.aac"></audio>
+美音 ɔːft  
+美音
+<audio src="./media/oft2_AAC.aac"></audio>
+
 
   
 
@@ -1218,7 +1626,13 @@ occurrence /ə'kʌrəns/ n
 
 
 # ***\#often*** adv
-英音 'ɒfn,'ɒftən     美音 'ɔːfn,'ɔftən  
+英音 'ɒfn,'ɒftən  
+英音
+<audio src="./media/often1--.aac"></audio>
+美音 'ɔːfn,'ɔftən  
+美音
+<audio src="./media/often-2-.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1228,9 +1642,11 @@ occurrence /ə'kʌrəns/ n
 
  > **How often** do you listen to live music?  
  > 你多久听一次现场音乐？  （外研⑥ – 4）  
+<audio src="./media/often-2.aac"></audio>
 
  > Do you fly **quite / very often** for your job?  
  > 你的工作需要经常坐飞机吗？  （2010 广东）  
+<audio src="./media/Do you fly quite often_AAC.aac"></audio>
 
 
 固定搭配
@@ -1248,7 +1664,13 @@ occurrence /ə'kʌrəns/ n
 1. often  
 
 # ***\#oh*** int
-英音 əʊ     美音 oʊ  
+英音 əʊ  
+英音
+<audio src="./media/oh-B.aac"></audio>
+美音 oʊ  
+美音
+<audio src="./media/oh.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -1258,7 +1680,13 @@ occurrence /ə'kʌrəns/ n
 
 
 # ***\#oil*** n
-英音 ɔɪl     美音 ɔɪl  
+英音 ɔɪl  
+英音
+<audio src="./media/oil-B.aac"></audio>
+美音 ɔɪl  
+美音
+<audio src="./media/oil.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 3 |  
 
@@ -1270,7 +1698,13 @@ occurrence /ə'kʌrəns/ n
 
 
 # ***\#oil*** v
-英音 ɔɪl     美音 ɔɪl  
+英音 ɔɪl  
+英音
+<audio src="./media/oil-B.aac"></audio>
+美音 ɔɪl  
+美音
+<audio src="./media/oil.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 3 |  
 
@@ -1280,7 +1714,13 @@ occurrence /ə'kʌrəns/ n
 
 
 # ***\#oilfield*** n
-英音 'ɔɪlfiːld     美音 'ɔɪlfiːld  
+英音 'ɔɪlfiːld  
+英音
+<audio src="./media/oilfield-B.aac"></audio>
+美音 'ɔɪlfiːld  
+美音
+<audio src="./media/oilfield.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1292,7 +1732,13 @@ occurrence /ə'kʌrəns/ n
 
 
 # ***\#ointment*** n
-英音 'ɔɪntmənt     美音 'ɔɪntmənt  
+英音 'ɔɪntmənt  
+英音
+<audio src="./media/ointment-B.aac"></audio>
+美音 'ɔɪntmənt  
+美音
+<audio src="./media/ointment.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1304,7 +1750,13 @@ occurrence /ə'kʌrəns/ n
 
 
 # ***\#old*** adj
-英音 əʊld     美音 oʊld  
+英音 əʊld  
+英音
+<audio src="./media/old-B.aac"></audio>
+美音 oʊld  
+美音
+<audio src="./media/old.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1316,6 +1768,7 @@ occurrence /ə'kʌrəns/ n
 
  > The boy is eight years old.  
  > 这个男孩8岁了。    
+<audio src="./media/old-1.aac"></audio>
 
 ### 2.*高义频：* **年老的【反:young】；陈旧的【反:new】：**  
 
@@ -1324,6 +1777,7 @@ occurrence /ə'kʌrəns/ n
 
  > The **older I get**, the more I feel time has wings.  
  > 年纪越大，我越觉得时光如梭。  （2020全国）  
+<audio src="./media/The older I get, the more I feel time has wings2_AAC.aac"></audio>
 
  > old customs  
  > 旧风俗    
@@ -1334,6 +1788,7 @@ occurrence /ə'kʌrəns/ n
 **elder** elder只用于指人，多指兄弟姐妹之间年龄较大的， 口语中已不常用，只作定语。elder不能和than连用。
  > My elder daughter is at university now.  
  > 我大女儿现在已上大学了。    
+<audio src="./media/My elder daughter is at university now_AAC.aac"></audio>
 
 
 ### 3.*高义频：* **结识久的：**  
@@ -1348,7 +1803,13 @@ occurrence /ə'kʌrəns/ n
 
 
 # ***\#old-fashioned*** adj
-英音 'əuld'fæʃənd     美音 'əuld'fæʃənd  
+英音 'əuld'fæʃənd  
+英音
+<audio src="./media/old-fashioned-B.aac"></audio>
+美音 'əuld'fæʃənd  
+美音
+<audio src="./media/old-fashioned.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1358,7 +1819,13 @@ occurrence /ə'kʌrəns/ n
 
 
 # ***\#olive*** n
-英音 'ɒlɪv     美音 'ɑːlɪv  
+英音 'ɒlɪv  
+英音
+<audio src="./media/olive-b.aac"></audio>
+美音 'ɑːlɪv  
+美音
+<audio src="./media/olive.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1370,7 +1837,13 @@ occurrence /ə'kʌrəns/ n
 
 
 # ***\#omega*** n
-英音 ˈəʊmɪɡə     美音 əʊˈmeɡə  
+英音 ˈəʊmɪɡə  
+英音
+<audio src="./media/omega1_AAC.aac"></audio>
+美音 əʊˈmeɡə  
+美音
+<audio src="./media/omega2_AAC.aac"></audio>
+
 
   
 
@@ -1380,7 +1853,13 @@ occurrence /ə'kʌrəns/ n
 
 
 # ***\#omit*** vt
-英音 ə'mɪt     美音 ə'mɪt  
+英音 ə'mɪt  
+英音
+<audio src="./media/omit-B.aac"></audio>
+美音 ə'mɪt  
+美音
+<audio src="./media/omit.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1392,7 +1871,13 @@ occurrence /ə'kʌrəns/ n
 
 
 # ***\#on*** prep
-英音 ɒn     美音 ɑːn  
+英音 ɒn  
+英音
+<audio src="./media/on-B.aac"></audio>
+美音 ɑːn  
+美音
+<audio src="./media/on.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1402,6 +1887,7 @@ occurrence /ə'kʌrəns/ n
 
  > Put your book on the desk.   
  > 把你的书放在课桌上。    
+<audio src="./media/on-1.aac"></audio>
 
 #### 辨析 above, on, over
 三者都含有“在…上”之意。  
@@ -1413,6 +1899,7 @@ occurrence /ə'kʌrəns/ n
 
  > He sat on my right.  
  > 他坐在我右边。    
+<audio src="./media/on-2.aac"></audio>
 
 ### 3.*高义频：* **[表示在特定的日期、时间、机会等] 在…的时候：**  
 
@@ -1423,6 +1910,7 @@ occurrence /ə'kʌrəns/ n
 
  > On arriving home I discovered they had gone.  
  > 我一到家就发现他们已经离开了。    
+<audio src="./media/On arriving home I discovered_AAC.aac"></audio>
 
 ### 5.*高义频：* **关于：**  
 
@@ -1439,11 +1927,13 @@ occurrence /ə'kʌrəns/ n
 
  > I heard the happy news on the radio.  
  > 我从收音机里听到了这个喜讯。    
+<audio src="./media/on-4.aac"></audio>
 
 ### 7.*低义频：* **带在...身上；有：**  
 
  > Have you got any money on you?  
  > 你带钱了没有？    
+<audio src="./media/on-5.aac"></audio>
 
 ### 8.*高义频：* **在...里：**  
 
@@ -1454,9 +1944,11 @@ occurrence /ə'kʌrəns/ n
 
  > She is on the city basketball team.  
  > 她是市篮球队的队员。    
+<audio src="./media/on-6.aac"></audio>
 
  > The man is on the Newsweek.  
  > 那名男子在《新闻周刊》社工作。    
+<audio src="./media/on-7.aac"></audio>
 
 ### 10.*高义频：* **[与某些名词或形容词连用，表示影响到]：**  
 
@@ -1481,7 +1973,13 @@ occurrence /ə'kʌrəns/ n
 1. on / about  2. on  
 
 # ***\#on*** adv
-英音 ɒn     美音 ɑːn  
+英音 ɒn  
+英音
+<audio src="./media/on-B.aac"></audio>
+美音 ɑːn  
+美音
+<audio src="./media/on.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1491,36 +1989,49 @@ occurrence /ə'kʌrəns/ n
 
  > Make sure the lid is on.  
  > 要注意盖上盖子。    
+<audio src="./media/on-8.aac"></audio>
 
 ### 2.*高义频：* **穿着；戴着：**  
 
  > Put your coat on.  
  > 把外衣穿上。    
+<audio src="./media/on-9.aac"></audio>
 
 ### 3.*高义频：* **继续地；向前地：**  
 
  > We walked on without speaking.  
  > 我们默默地向前走。    
+<audio src="./media/on-11.aac"></audio>
 
 ### 4.*高义频：* **(电、水等) 通着；开着：**  
 
  > The light is still on.  
  > 灯还亮着。    
+<audio src="./media/on-12.aac"></audio>
 
  > Don’t leave the tap on.  
  > 别让水龙头开着。    
+<audio src="./media/on-13.aac"></audio>
 
 ### 5.*高义频：* **进行中；在上演：**  
 
  > What’s going on?  
  > 出什么事了？    
+<audio src="./media/on-14.aac"></audio>
 
  > What’s on at the movie?  
  > 电影院在上演什么片子？    
+<audio src="./media/on-15.aac"></audio>
 
 
 # ***\#once*** adv  重难点词汇
-英音 wʌns     美音 wʌns  
+英音 wʌns  
+英音
+<audio src="./media/once-B.aac"></audio>
+美音 wʌns  
+美音
+<audio src="./media/once.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1533,11 +2044,13 @@ occurrence /ə'kʌrəns/ n
 
  > I saw him once and never again.  
  > 我见过他一回，以后再也没见过。    
+<audio src="./media/once-1.aac"></audio>
 
 ### 2.*高义频：* **曾经；从前：**  
 
  > I once lived in London.  
  > 我曾经在伦敦住过。    
+<audio src="./media/once-2.aac"></audio>
 
 
 固定搭配
@@ -1547,33 +2060,39 @@ occurrence /ə'kʌrəns/ n
 
  > All at once the answer came to him.  
  > 他突然想到了答案。    
+<audio src="./media/once-3.aac"></audio>
 
 ## \#at once
 1.**立刻；马上：**  
 
  > I have to go home at once.  
  > 我必须马上回家。  （人教③ – 2）  
+<audio src="./media/once-4.aac"></audio>
 
 ## \#(every) once in a while
 1.**偶尔；间或：**  
 
  > He was busy writing a story, only stopping once in a while to smoke a cigarette.  
  > 他忙着写故事，只是偶尔停下来抽根烟。  （2008 辽宁）  
+<audio src="./media/He was busy writing a story_AAC.aac"></audio>
 
 ## \#(just) for once / just this once
 1.**(与通常情况对比而言) 仅此一次：**  
 
  > Just for once let me make my own decision.  
  > 这一次就让我自己做决定吧。    
+<audio src="./media/Just for once let me_AAC.aac"></audio>
 
  > Go on, lend me the bicycle, just this once.  
  > 好啦，把自行车借给我，就这一次。    
+<audio src="./media/Go on, lend me _AAC.aac"></audio>
 
 ## \#never / not once
 1.**从未：**  
 
  > The old couple have been married for 40 years and never once have they quarreled with each other.  
  > 那对老夫妇已经结婚40年了，彼此从未吵过架。    
+<audio src="./media/The old couple have been _AAC.aac"></audio>
 
 Notes: never / not once位于句首时，句子用部分倒装语序。  
 ## \#once again / once more
@@ -1581,18 +2100,21 @@ Notes: never / not once位于句首时，句子用部分倒装语序。
 
  > Tell me just once again.  
  > 你就再告诉我一次吧。    
+<audio src="./media/Tell me just once _AAC.aac"></audio>
 
 ## \#once and for all
 1.**彻底地；一劳永逸地：**  
 
  > Let’s settle this matter once and for all.  
  > 我们把这个问题彻底解决了吧。    
+<audio src="./media/Let’s settle this matter_AAC.aac"></audio>
 
 ## \#once or twice
 1.**一两次；几次：**  
 
  > I have been there once or twice.  
  > 我去过那儿一两次。    
+<audio src="./media/I have been there once _AAC.aac"></audio>
 
 ## \#once too often
 1.**侥幸难再**  
@@ -1606,7 +2128,13 @@ Notes: never / not once位于句首时，句子用部分倒装语序。
 1. once in a while  
 
 # ***\#once*** conj  重难点词汇
-英音 wʌns     美音 wʌns  
+英音 wʌns  
+英音
+<audio src="./media/once-B.aac"></audio>
+美音 wʌns  
+美音
+<audio src="./media/once.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1616,6 +2144,7 @@ Notes: never / not once位于句首时，句子用部分倒装语序。
 
  > Once you form a bad habit, it’s very difficult to get rid of it.  
  > 一旦养成了坏习惯，你就很难改掉它。    
+<audio src="./media/once-8.aac"></audio>
 
 
 真题解析
@@ -1626,7 +2155,13 @@ Notes: never / not once位于句首时，句子用部分倒装语序。
 1. Once  
 
 # ***\#one*** adj
-英音 wʌn     美音 wʌn  
+英音 wʌn  
+英音
+<audio src="./media/one-B.aac"></audio>
+美音 wʌn  
+美音
+<audio src="./media/one.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -1641,11 +2176,13 @@ Notes: never / not once位于句首时，句子用部分倒装语序。
 
  > To make plans is one thing, but to carry them out is another.  
  > 制订计划是一回事，执行计划则是另一回事。    
+<audio src="./media/one-1.aac"></audio>
 
 ### 3.*高义频：* **唯一的；仅有一个的：**  
 
  > The one thing you have to do is to apologize to him.  
  > 你唯一要做的就是向他道歉。    
+<audio src="./media/one-2.aac"></audio>
 
 ### 4.*高义频：* **某一的；某个时候的：**  
 
@@ -1654,7 +2191,13 @@ Notes: never / not once位于句首时，句子用部分倒装语序。
 
 
 # ***\#one*** pron
-英音 wʌn     美音 wʌn  
+英音 wʌn  
+英音
+<audio src="./media/one-B.aac"></audio>
+美音 wʌn  
+美音
+<audio src="./media/one.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1667,33 +2210,40 @@ Notes: never / not once位于句首时，句子用部分倒装语序。
 
  > I want a car, but I can’t afford to buy one.  
  > 我想要辆车，但又买不起。    
+<audio src="./media/one-3.aac"></audio>
 
  > Here are some oranges. Do you want big ones or small ones?  
  > 这儿有些橘子，你要大的还是小的?    
+<audio src="./media/one-4.aac"></audio>
 
 Notes:  one 代替前面出现过的可数名词，表示同种类中的一个。  
 - one of + 复数名词：
 
  > Christie was one of my best friends at high school.  
  > 克里斯蒂是我中学时期最好的朋友之一。  （2010 全国）  
+<audio src="./media/one-5.aac"></audio>
 
 - any / some / no / every + one:
 
  > Every one of us likes our head teacher.  
  > 我们每个人都喜欢我们的老师。    
+<audio src="./media/one-6.aac"></audio>
 
  > No one knows the effects of global warming.  
  > 没有人知道全球变暖会带来什么影响。  （人教⑥ – 4）  
+<audio src="./media/one-7.aac"></audio>
 
 - the one(s) who / that:
 
  > I was the one who had been attacked, not Adam.  
  > 受到袭击的那个人是我，不是亚当。    
+<audio src="./media/one-8.aac"></audio>
 
 ### 2.*高义频：* **任何人：**  
 
  > To be happy, one must keep busy and think about positive things.  
  > 想要快乐，就必须忙碌起来并且想想积极的事情。    
+<audio src="./media/one-9.aac"></audio>
 
 
 固定搭配
@@ -1703,18 +2253,21 @@ Notes:  one 代替前面出现过的可数名词，表示同种类中的一个�
 
  > One after another, people stood up and shared their own stories.  
  > 人们一个接一个地站了起来，分享自己的故事。    
+<audio src="./media/one-10.aac"></audio>
 
 ## \#one another
 1.**[两者或多者之间] 相互；彼此：**  
 
  > They gave presents to one another at the graduation ceremony.  
  > 毕业典礼上他们互赠礼物。    
+<audio src="./media/They gave presents to one_AAC.aac"></audio>
 
 ## \#one by one
 1.**逐个地；依次地：**  
 
  > As the bell rang, the students went out one by one.  
  > 铃声响了，学生们鱼贯而出。    
+<audio src="./media/one-12.aac"></audio>
 
 
 真题解析
@@ -1731,7 +2284,13 @@ D.one
 1. one  2. D  3. one  
 
 # ***\#oneself*** pron
-英音 wʌn'self     美音 wʌn'self  
+英音 wʌn'self  
+英音
+<audio src="./media/oneself-B.aac"></audio>
+美音 wʌn'self  
+美音
+<audio src="./media/oneself.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1746,11 +2305,13 @@ D.one
 
  > One has to ask oneself what the purpose of the exercise is.  
  > 大家必须问一问自己锻炼的目的是什么。    
+<audio src="./media/oneself50.aac"></audio>
 
 ### 2.*低义频：* **[用于加强语气] 亲自：**  
 
  > One likes to do it oneself.  
  > 人都喜欢亲自去做。    
+<audio src="./media/oneself51.aac"></audio>
 
 
 固定搭配
@@ -1763,7 +2324,13 @@ D.one
 
 
 # ***\#ongoing*** adj
-英音 'ɒnɡəʊɪŋ     美音 'ɑːnɡoʊɪŋ  
+英音 'ɒnɡəʊɪŋ  
+英音
+<audio src="./media/ongoing1_AAC.aac"></audio>
+美音 'ɑːnɡoʊɪŋ  
+美音
+<audio src="./media/ongoing1_AAC.aac"></audio>
+
 
   
 
@@ -1776,10 +2343,17 @@ D.one
 
  > It was only due to the ongoing support of his wife, family and friends that he eventually found the will to live again.  
  > 是在妻子、家人和朋友的不断支持下，他最终才有了继续生活下去的决心。  （北师大新必修② – 6）  
+<audio src="./media/It was only due to the ongoing support of his wife2_AAC.aac"></audio>
 
 
 # ***\#onion*** n
-英音 'ʌnjən     美音 'ʌnjən  
+英音 'ʌnjən  
+英音
+<audio src="./media/onion-B.aac"></audio>
+美音 'ʌnjən  
+美音
+<audio src="./media/onion.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -1794,7 +2368,13 @@ D.one
 
 
 # ***\#online*** adj
-英音 ˌɒn'laɪn     美音 ˌɑːn'laɪn  
+英音 ˌɒn'laɪn  
+英音
+<audio src="./media/online-B.aac"></audio>
+美音 ˌɑːn'laɪn  
+美音
+<audio src="./media/online.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -1804,7 +2384,13 @@ D.one
 
 
 # ***\#online*** adv
-英音 ˌɒn'laɪn     美音 ˌɑːn'laɪn  
+英音 ˌɒn'laɪn  
+英音
+<audio src="./media/online-B.aac"></audio>
+美音 ˌɑːn'laɪn  
+美音
+<audio src="./media/online.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -1814,7 +2400,13 @@ D.one
 
 
 # ***\#only*** adj  重难点词汇
-英音 'əʊnli     美音 'oʊnli  
+英音 'əʊnli  
+英音
+<audio src="./media/only-B.aac"></audio>
+美音 'oʊnli  
+美音
+<audio src="./media/only.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1831,10 +2423,17 @@ D.one
 
  > She’s the only person for the job.  
  > 她是这项工作的最佳人选。    
+<audio src="./media/only-2.aac"></audio>
 
 
 # ***\#only*** adv  重难点词汇
-英音 'əʊnli     美音 'oʊnli  
+英音 'əʊnli  
+英音
+<audio src="./media/only-B.aac"></audio>
+美音 'oʊnli  
+美音
+<audio src="./media/only.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1844,16 +2443,20 @@ D.one
 
  > Don’t be defending. I was only joking.  
  > 别紧张，我只是在开玩笑。    
+<audio src="./media/only-3.aac"></audio>
 
  > When speaking English, you should think about the message and don’t focus on the grammar rules only.  
  > 讲英语时，要考虑你要表达的意思，而不是只关注语法规则。    
+<audio src="./media/only-4.aac"></audio>
 
 Notes: “only + 状语”置于句首时，通常引起部分倒装。句子结构为：only + 状语 + 助动词 / 情态动词 / 系动词be + 主语 + 其他动词…  
  > Only when Lily walked into the office did she realize that she had left the contract at home.  
  > 莉莉走近办公室时才意识到自己把合同落在家里了。  （2015天津）  
+<audio src="./media/Only when Lily walked into the office did she realize that she had left the contract at home2_AAC.aac"></audio>
 
  > Only in this way can you make progress in your English.  
  > 只有这样你的英语才能取得进步。    
+<audio src="./media/only-6.aac"></audio>
 
 ### 2.*低义频：* **反而；结果却；不料：**  
 
@@ -1861,6 +2464,7 @@ Notes: “only + 状语”置于句首时，通常引起部分倒装。句子结
 
  > After school we went to the reading-room to do some reading, only to be told that it was being decorated.  
  > 放学后我们去阅览室读书，结果却被告知阅览室正在装修。  （2012 安徽）  
+<audio src="./media/only-7.aac"></audio>
 
 
 固定搭配
@@ -1870,6 +2474,7 @@ Notes: “only + 状语”置于句首时，通常引起部分倒装。句子结
 
  > If only I knew her name.  
  > 我要是知道她的名字就好了。    
+<audio src="./media/only-8.aac"></audio>
 
 ## \#not only ... but (also)
 1.**不但…而且：**  
@@ -1877,10 +2482,12 @@ Notes: “only + 状语”置于句首时，通常引起部分倒装。句子结
 Notes: not only … but (also) 可以连接并列成分。连接主语时，谓语与靠近它的主语一致。  
  > Not only the students but also their teacher is enjoying the film.  
  > 不仅学生们在欣赏这部影片，他们的老师也在欣赏。    
+<audio src="./media/only-9.aac"></audio>
 
 Notes: not only … but (also) 连接两个并列分句时，not only所在的句子要用部分倒装语序。  
  > Not only can a beautiful smile make ourselves happy, but also it enables others to feel delighted.  
  > 一个灿烂的笑容不仅能使我们自己高兴，而且能使他人感到愉快。  （2010 湖北书面表达）  
+<audio src="./media/only-10.aac"></audio>
 
 
 真题解析
@@ -1892,7 +2499,13 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 1. and → but  2. to find  
 
 # ***\#onto*** prep
-英音 'ɒntə,'ɒntu     美音 'ɑːntə,'ɑːntu  
+英音 'ɒntə,'ɒntu  
+英音
+<audio src="./media/onto1--.aac"></audio>
+美音 'ɑːntə,'ɑːntu  
+美音
+<audio src="./media/onto-prep.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -1902,9 +2515,11 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 
  > Don’t jump onto the bus while it’s moving.  
  > 公共汽车在开动时别急着上车。    
+<audio src="./media/onto-1.aac"></audio>
 
  > The car rolled over onto its side.  
  > 这辆车侧翻了。    
+<audio src="./media/onto-2.aac"></audio>
 
 
 固定搭配
@@ -1914,7 +2529,13 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 
 
 # ***\#onwards*** adv
-英音 onwards     美音 'ɒnwədz  
+英音 onwards  
+英音
+<audio src="./media/onwards-B.aac"></audio>
+美音 'ɒnwədz  
+美音
+<audio src="./media/onwards.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1924,7 +2545,13 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 
 
 # ***\#oolong*** n
-英音 'uːlɒŋ     美音 'uːlɒŋ  
+英音 'uːlɒŋ  
+英音
+<audio src="./media/oolong1_AAC.aac"></audio>
+美音 'uːlɒŋ  
+美音
+<audio src="./media/oolong2_AAC.aac"></audio>
+
 
   
 
@@ -1934,7 +2561,13 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 
 
 # ***\#open*** adj
-英音 'əʊpən     美音 'oʊpən  
+英音 'əʊpən  
+英音
+<audio src="./media/open-B.aac"></audio>
+美音 'oʊpən  
+美音
+<audio src="./media/open.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1945,15 +2578,18 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 
  > Leave the door open.  
  > 让门开着。    
+<audio src="./media/open-1.aac"></audio>
 
  > He stood there with his mouth **wide open**.  
  > 他张大嘴巴站在那里。    
+<audio src="./media/open-2.aac"></audio>
 
 ### 2.*高义频：* **[通常不用于名词前] 营业的；开门的**  
 反义词 closed: 
 
  > The new store will be open in the spring.  
  > 新商店将在春季开业。    
+<audio src="./media/open-3.aac"></audio>
 
 ### 3.*高义频：* **公开的；开放的：**  
 
@@ -1967,14 +2603,17 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 
  > This course is free and **open to the public**.  
  > 这个课程免费对公众开放。    
+<audio src="./media/open-4.aac"></audio>
 
 ### 4.*高义频：* **坦诚的；坦率的；思想开明的；不固执己见的：**  
 
  > She is always **open with** her parents.  
  > 她与父母总是无话不谈。    
+<audio src="./media/open-5.aac"></audio>
 
  > People with high EQs are **open to** new ideas and have positive attitudes towards life.  
  > 情商高的人容易接纳新思想，对待生活积极乐观。  （北师大新选必③ – 7改）  
+<audio src="./media/People with high EQs are open to new ideas and have positive attitudes towards life2_AAC.aac"></audio>
 
 ### 5.*高义频：* **[只用于名词前] 无遮盖的；开阔的：**  
 
@@ -1983,6 +2622,7 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 
  > It’s not a good idea to camp in the middle of an open field.  
  > 在旷野之中宿营不是个好主意。    
+<audio src="./media/open-6.aac"></audio>
 
 
 固定搭配
@@ -1992,7 +2632,13 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 
 
 # ***\#open*** v
-英音 'əʊpən     美音 'oʊpən  
+英音 'əʊpən  
+英音
+<audio src="./media/open-B.aac"></audio>
+美音 'oʊpən  
+美音
+<audio src="./media/open.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2006,12 +2652,15 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 
  > He opened his arms wide to give her a hug.  
  > 他张开双臂拥抱她。    
+<audio src="./media/open-7.aac"></audio>
 
  > The door opened and in came Mr Smith, the artist.  
  > 门开了，艺术家史密斯先生走了进来。  （ 译林⑧ – 3）  
+<audio src="./media/open-8.aac"></audio>
 
  > She only **opens** her **heart to** her mother.  
  > 她只对自己的母亲说心里话。    
+<audio src="./media/open-9.aac"></audio>
 
 ### 2.*高义频：* **开创；开设：**  
 
@@ -2020,28 +2669,34 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 
  > I **opened an account** at the bank downstairs.  
  > 我在楼下的银行开了一个账户。  （人教③ – 3）  
+<audio src="./media/open-10.aac"></audio>
 
 ### 3.*高义频：* **使通行；开放**  
 反义词 close ： 
 
  > The road will be opened again in a few hours.  
  > 道路在几小时内就会重新开放。    
+<audio src="./media/open-11.aac"></audio>
 
 ### 4.*高义频：* **开业；开幕；(向…) 开放【反:close】；开始公演 / 公映：**  
 
  > In 1863 the first underground passenger railway in the world opened in London.  
  > 世界上第一条地铁客运线于1863年在伦敦开始运营。  （2017 全国）  
+<audio src="./media/In 1863 the first underground passenger_AAC.aac"></audio>
 
  > This museum first opened to the public in 1873.  
  > 这家博物馆于1873年首次向公众开放。    
+<audio src="./media/open-13.aac"></audio>
 
  > A Midsummer Night’s Dream opens at the Theatre Royal on 19th June.  
  > 《仲夏夜之梦》于6月19日在皇家剧院公演。  （2013 重庆）  
+<audio src="./media/P306 open1.aac"></audio>
 
 ### 5.*高义频：* **(花) 开放：**  
 
  > Cherry blossoms were opening everywhere over the country.  
  > 全国各地的樱花都开了。    
+<audio src="./media/open-14.aac"></audio>
 
 
 固定搭配
@@ -2054,16 +2709,25 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 
  > Einstein’s theories opened up a new area of study.  
  > 爱因斯坦的理论开创了一个新的研究领域。    
+<audio src="./media/open-15.aac"></audio>
 
  > People have few real friends. And they need to **open up to** each other.  
  > 人们没有几个真正的朋友，他们需要向彼此敞开心扉。  （2015 全国改）  
+<audio src="./media/P306 open2.aac"></audio>
 
  > To earn a living, some opened up shops and restaurants in Chinatown.  
  > 为了谋生，有些人在唐人街开商店、开餐馆。  （人教新必修③ – 3）  
+<audio src="./media/To earn a living, some opened up shops and restaurants in Chinatown2_AAC.aac"></audio>
 
 
 # ***\#open*** n
-英音 'əʊpən     美音 'oʊpən  
+英音 'əʊpən  
+英音
+<audio src="./media/open-B.aac"></audio>
+美音 'oʊpən  
+美音
+<audio src="./media/open.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2075,9 +2739,11 @@ Notes: not only … but (also) 连接两个并列分句时，not only所在的�
 
  > It's still a little too cold for the rhino calves to go out **into the open**.  
  > 对犀牛幼崽来说，要走出去，外面的天气还是有点太冷了。  （2021全国改）  
+<audio src="./media/It's still a little too cold for the rhino calves to go out into the open2_AAC.aac"></audio>
 
  > They advised us to keep the formula a secret, but we wanted it **in the open**.  
  > 他们建议我们对配方要保密，但是我们想要公开。    
+<audio src="./media/open-18.aac"></audio>
 
 
 派生词汇
@@ -2095,7 +2761,13 @@ openly /'əʊpənli/ adv
 1. opens→open  
 
 # ***\#open-minded*** adj
-英音 ˌəʊpən ˈmaɪndɪd     美音 ˌəʊpən ˈmaɪndɪd  
+英音 ˌəʊpən ˈmaɪndɪd  
+英音
+<audio src="./media/open-minded1_AAC.aac"></audio>
+美音 ˌəʊpən ˈmaɪndɪd  
+美音
+<audio src="./media/open-minded2_AAC.aac"></audio>
+
 
   
 
@@ -2105,6 +2777,10 @@ openly /'əʊpənli/ adv
 
 
 # ***\#open-mouthed*** adj
+英音
+<audio src="./media/open-mouthed1_AAC.aac"></audio>
+美音
+<audio src="./media/open-mouthed2_AAC.aac"></audio>
 
 
   
@@ -2115,6 +2791,10 @@ openly /'əʊpənli/ adv
 
 
 # ***\#open-mouthed*** adv
+英音
+<audio src="./media/open-mouthed1_AAC.aac"></audio>
+美音
+<audio src="./media/open-mouthed2_AAC.aac"></audio>
 
 
   
@@ -2125,7 +2805,13 @@ openly /'əʊpənli/ adv
 
 
 # ***\#open-plan*** adj
-英音 ˌəʊpən ˈplæn     美音 ˌəʊpən ˈplæn  
+英音 ˌəʊpən ˈplæn  
+英音
+<audio src="./media/open-plan1_AAC.aac"></audio>
+美音 ˌəʊpən ˈplæn  
+美音
+<audio src="./media/open-plan2_AAC.aac"></audio>
+
 
   
 
@@ -2135,7 +2821,13 @@ openly /'əʊpənli/ adv
 
 
 # ***\#opener*** n
-英音 'əʊpnə(r)     美音 'oʊpnər  
+英音 'əʊpnə(r)  
+英音
+<audio src="./media/opener-B.aac"></audio>
+美音 'oʊpnər  
+美音
+<audio src="./media/opener.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2150,7 +2842,13 @@ openly /'əʊpənli/ adv
 
 
 # ***\#opening*** n
-英音 'əʊpnɪŋ     美音 'oʊpnɪŋ  
+英音 'əʊpnɪŋ  
+英音
+<audio src="./media/opening-B.aac"></audio>
+美音 'oʊpnɪŋ  
+美音
+<audio src="./media/opening.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -2165,6 +2863,7 @@ openly /'əʊpənli/ adv
 
  > The movie has an exciting opening.  
  > 电影的开头非常令人兴奋。    
+<audio src="./media/opening-2.aac"></audio>
 
 ### 3.*高义频：* **[C] & [U] 开；开放：**  
 
@@ -2178,7 +2877,13 @@ openly /'əʊpənli/ adv
 
 
 # ***\#opening*** adj
-英音 'əʊpnɪŋ     美音 'oʊpnɪŋ  
+英音 'əʊpnɪŋ  
+英音
+<audio src="./media/opening-B.aac"></audio>
+美音 'oʊpnɪŋ  
+美音
+<audio src="./media/opening.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -2194,7 +2899,13 @@ openly /'əʊpənli/ adv
 
 
 # ***\#opera*** n
-英音 'ɒpər     美音 'ɑːpər  
+英音 'ɒpər  
+英音
+<audio src="./media/opera-B.aac"></audio>
+美音 'ɑːpər  
+美音
+<audio src="./media/opera.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -2218,7 +2929,13 @@ openly /'əʊpənli/ adv
 
 
 # ***\#operate*** v  重难点词汇
-英音 'ɒpəreɪt     美音 'ɑːpəreɪt  
+英音 'ɒpəreɪt  
+英音
+<audio src="./media/operate-B.aac"></audio>
+美音 'ɑːpəreɪt  
+美音
+<audio src="./media/operate.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -2229,9 +2946,11 @@ openly /'əʊpənli/ adv
 
  > Subway trains operate 24 hours a day in New York.  
  > 纽约的地铁24小时不间断运行。    
+<audio src="./media/P307 operate1.aac"></audio>
 
  > Can you explain how the machine operates?  
  > 你能解释一下这台机器是如何运转的吗？    
+<audio src="./media/P307 operate2.aac"></audio>
 
 ### 2.*高义频：* **操作；使用：**  
 英译 to use and control a machine or equipment：
@@ -2241,17 +2960,20 @@ openly /'əʊpənli/ adv
 
  > This machine is very easy to operate.  
  > 这台机器非常易于操作。  （2012 辽宁）  
+<audio src="./media/operate-2.aac"></audio>
 
 ### 3.*高义频：* **起作用；奏效**  
 英译 to act or have an effect：
 
  > The medicine began to operate at once.  
  > 药效立竿见影。    
+<audio src="./media/operate-3.aac"></audio>
 
 ### 4.*高义频：* **动手术；开刀：**  
 
  > Having seen the X-ray, the doctor decided to **operate on** the patient.  
  > 看过X光片后，医生决定为病人做手术。  （外研⑥ – 7）  
+<audio src="./media/operate-4.aac"></audio>
 
 ### 5.*低义频：* **经营；管理：**  
 
@@ -2263,7 +2985,13 @@ openly /'əʊpənli/ adv
 
 
 # ***\#operation*** n
-英音 ˌɒpə'reɪʃn     美音 ˌɑːpə'reɪʃn  
+英音 ˌɒpə'reɪʃn  
+英音
+<audio src="./media/operation-B.aac"></audio>
+美音 ˌɑːpə'reɪʃn  
+美音
+<audio src="./media/operation.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 |  
 
@@ -2273,9 +3001,11 @@ openly /'əʊpənli/ adv
 
  > There are three lifts **in operation**.  
  > 有3部电梯在运行。    
+<audio src="./media/operation-1.aac"></audio>
 
  > You must read the operation instructions before using this machine.  
  > 在使用这台机器之前你必须阅读操作说明书。    
+<audio src="./media/operation-2.aac"></audio>
 
 ### 2.*高义频：* **[C] & [U] 经营；运营：**  
 
@@ -2284,6 +3014,7 @@ openly /'əʊpənli/ adv
 
  > The new plant is scheduled to **go / come into operation** in May this year.  
  > 新工厂计划今年5月投入运营。    
+<audio src="./media/operation-3.aac"></audio>
 
 ### 3.*低义频：* **[C] 企业；团体：**  
 英译 a business company：
@@ -2295,9 +3026,11 @@ openly /'əʊpənli/ adv
 
  > He’s recovering from an **operation on** his shoulder.  
  > 他肩膀动了手术，正在恢复中。    
+<audio src="./media/operation-4.aac"></audio>
 
  > Often, if a person is in an accident, or **has an operation**, he will lose a lot of blood.  
  > 通常来说，如果一个人出事故或者动手术，会大量失血。    
+<audio src="./media/operation-5.aac"></audio>
 
 ### 5.*高义频：* **[C] 行动：**  
 英译 an activity, often highly organized, that involves many people, actions, days, etc.：
@@ -2307,6 +3040,7 @@ openly /'əʊpənli/ adv
 
  > The police have launched a major operation against drug.  
  > 警方发起了一场大规模的缉毒行动。    
+<audio src="./media/operation-6.aac"></audio>
 
 ### 6.*高义频：* **[C] (计算机的) 运算；操作：**  
 
@@ -2321,10 +3055,17 @@ openly /'əʊpənli/ adv
 
  > It’s time to put our plan into operation.  
  > 现在应该实施我们的计划了。    
+<audio src="./media/operation-7.aac"></audio>
 
 
 # ***\#operational*** adj
-英音 ˌɒpə'reɪʃənl     美音 ˌɑːpə'reɪʃənl  
+英音 ˌɒpə'reɪʃənl  
+英音
+<audio src="./media/operational1.aac"></audio>
+美音 ˌɑːpə'reɪʃənl  
+美音
+<audio src="./media/operational2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -2334,7 +3075,13 @@ openly /'əʊpənli/ adv
 
 
 # ***\#operator*** n
-英音 'ɒpəreɪtə(r)     美音 'ɑːpəreɪtər  
+英音 'ɒpəreɪtə(r)  
+英音
+<audio src="./media/operator-B.aac"></audio>
+美音 'ɑːpəreɪtər  
+美音
+<audio src="./media/operator.aac"></audio>
+
 
 | 词频 2 | 书面 1 |  
 
@@ -2346,7 +3093,13 @@ openly /'əʊpənli/ adv
 
 
 # ***\#opinion*** n  重难点词汇
-英音 ə'pɪnjən     美音 ə'pɪnjən  
+英音 ə'pɪnjən  
+英音
+<audio src="./media/opinion-B.aac"></audio>
+美音 ə'pɪnjən  
+美音
+<audio src="./media/opinion.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -2366,12 +3119,15 @@ openly /'əʊpənli/ adv
 
  > **In my opinion**, learning English is a step-by-step process.   
  > 在我看来，学习英语是一个循序渐进的过程。    
+<audio src="./media/opinion-1.aac"></audio>
 
  > I was wondering if you could share your **opinion about / on** this topic.  
  > 我想知道您是否能就该话题谈谈您的看法。  （2017 浙江）  
+<audio src="./media/I was wondering if you could share_AAC.aac"></audio>
 
  > I’ve changed my **opinion of** her.  
  > 我改变了对她的看法。    
+<audio src="./media/opinion-3.aac"></audio>
 
 ### 2.*高义频：* **[U] (群体的) 观点；舆论：**  
 英译 what people in general think about sth：
@@ -2381,6 +3137,7 @@ openly /'əʊpənli/ adv
 
  > **Public opinion** is in favour of change.  
  > 公众舆论支持改革。    
+<audio src="./media/opinion-5.aac"></audio>
 
 ### 3.*高义频：* **[C] 专家意见；专业意见：**  
 
@@ -2389,6 +3146,7 @@ openly /'əʊpənli/ adv
 
  > I’d like a **second opinion** (= advice from another person) before I make a decision.  
  > 在作决定前我想再听听别人的意见。    
+<audio src="./media/opinion-6.aac"></audio>
 
 
 固定搭配
@@ -2398,7 +3156,13 @@ openly /'əʊpənli/ adv
 
 
 # ***\#opponent*** n
-英音 ə'pəʊnənt     美音 ə'poʊnənt  
+英音 ə'pəʊnənt  
+英音
+<audio src="./media/opponent-B.aac"></audio>
+美音 ə'poʊnənt  
+美音
+<audio src="./media/opponent.aac"></audio>
+
 
 | 词频 2 | 书面 1 |  
 
@@ -2410,13 +3174,21 @@ openly /'əʊpənli/ adv
 
  > My opponent was much older than I.  
  > 我的对手年龄比我大得多。    
+<audio src="./media/My opponent was much older than I2_AAC.aac"></audio>
 
  > Opponents of factory farming say that it is cruel to the animals.  
  > 工厂化养殖的反对者说这对动物很残忍。  （北师大新选必① – 3）  
+<audio src="./media/Opponents of factory farming say that it is cruel to the animals2_AAC.aac"></audio>
 
 
 # ***\#opportunity*** n
-英音 ˌɒpə'tjuːnəti     美音 ˌɑːpər'tuːnəti  
+英音 ˌɒpə'tjuːnəti  
+英音
+<audio src="./media/opportunity-B.aac"></audio>
+美音 ˌɑːpər'tuːnəti  
+美音
+<audio src="./media/opportunity.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
 
@@ -2434,22 +3206,33 @@ openly /'əʊpənli/ adv
 
  > Orientation Day is a fantastic **opportunity** for new students **to** get to know the school and the other students.  
  > 迎新日是新生熟悉学校和认识其他同学的好机会。  （外研新必修① – 1）  
+<audio src="./media/Orientation Day is a fantastic opportunity for new students to get to know the school and the other students2_AAC.aac"></audio>
 
  > May I **take this opportunity to** thank you for all your hard work.  
  > 我要借此机会对你们的辛勤工作表示感谢。    
+<audio src="./media/May I take this opportunity_AAC.aac"></audio>
 
  > To learn English well, we should **find opportunities to** hear English spoken as much as we can.  
  > 为了学好英语，我们应该找机会尽量多听英语。  （2008 江苏）  
+<audio src="./media/To learn English well, we_AAC.aac"></audio>
 
  > Mealtimes are an excellent **opportunity for** conversation.  
  > 吃饭的时候是谈话的好机会。    
+<audio src="./media/Mealtimes are an excellent_AAC.aac"></audio>
 
  > There’ll be plenty of **opportunity for** relaxing / **to** relax once the work is done.  
  > 工作一旦完成，就有很多放松的机会。    
+<audio src="./media/There’ll be plenty of opportunity_AAC.aac"></audio>
 
 
 # ***\#oppose*** vt
-英音 ə'pəʊz     美音 ə'poʊz  
+英音 ə'pəʊz  
+英音
+<audio src="./media/oppose-B.aac"></audio>
+美音 ə'poʊz  
+美音
+<audio src="./media/oppose.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 2 |  
 
@@ -2459,11 +3242,13 @@ openly /'əʊpənli/ adv
 
  > All the members present opposed the plan bitterly.  
  > 所有与会的成员都坚决反对这个计划。    
+<audio src="./media/oppose-1.aac"></audio>
 
 - oppose doing sth:
 
  > I would oppose changing the law.  
  > 我反对改变这项法律。    
+<audio src="./media/oppose-2.aac"></audio>
 
 
 派生词汇
@@ -2471,20 +3256,29 @@ openly /'əʊpənli/ adv
 opposed /ə'pəʊzd/ adj [不用于名词前]  
  > His parents are **opposed to** the marriage.  
  > 他的父母反对这桩婚事。    
+<audio src="./media/oppose-3.aac"></audio>
 
 ## \#as opposed to
 1.**而；而非：**  
 
  > Two hundred people attended the meeting, as opposed to 300 the previous year.  
  > 200人出席了这次会议，而前一年是300人。    
+<audio src="./media/oppose-4.aac"></audio>
 
  > We employ you to work as opposed to (= rather than) just sitting.  
  > 我们雇你是让你干活的，而不是让你光坐着。    
+<audio src="./media/oppose-5.aac"></audio>
 
 opposing /ə'pəʊzɪŋ/ adj [只用于名词前]  
 
 # ***\#opposed*** adj
-英音 ə'pəʊzd     美音 ə'poʊzd  
+英音 ə'pəʊzd  
+英音
+<audio src="./media/opposed1.aac"></audio>
+美音 ə'poʊzd  
+美音
+<audio src="./media/opposed2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -2494,7 +3288,13 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 
 
 # ***\#opposing*** adj
-英音 ə'pəʊzɪŋ     美音 ə'poʊzɪŋ  
+英音 ə'pəʊzɪŋ  
+英音
+<audio src="./media/opposing1_AAC.aac"></audio>
+美音 ə'poʊzɪŋ  
+美音
+<audio src="./media/opposing2_AAC.aac"></audio>
+
 
   
 
@@ -2504,7 +3304,13 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 
 
 # ***\#opposite*** adj  重难点词汇
-英音 'ɒpəzɪt     美音 'ɑːpəzət  
+英音 'ɒpəzɪt  
+英音
+<audio src="./media/opposite-B.aac"></audio>
+美音 'ɑːpəzət  
+美音
+<audio src="./media/opposite.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -2516,6 +3322,7 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 
  > His parents work **at opposite ends of the country**, (= a long distance apart) so they only see each other at weekends.  
  > 他的父母在这个国家相距很远的两个地方工作，因此只能周末见面。    
+<audio src="./media/His parents work at opposite ends_AAC.aac"></audio>
 
 ### 2.*高义频：* **相反的；完全不同的：**  
 
@@ -2527,6 +3334,7 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 
  > I thought this medicine would make me sleep, but it **had the opposite effect**.  
  > 我以为这种药能让我睡着，但效果却恰恰相反。    
+<audio src="./media/opposite-3.aac"></audio>
 
 
 真题解析
@@ -2537,7 +3345,13 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 1. opposite  
 
 # ***\#opposite*** prep  重难点词汇
-英音 'ɒpəzɪt     美音 'ɑːpəzət  
+英音 'ɒpəzɪt  
+英音
+<audio src="./media/opposite-B.aac"></audio>
+美音 'ɑːpəzət  
+美音
+<audio src="./media/opposite.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -2547,10 +3361,17 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 
  > The hotel is only 5 blocks away opposite the bank.  
  > 那家宾馆离这里只有5个街区，在银行的对面。  （2011 全国改）  
+<audio src="./media/opposite-4.aac"></audio>
 
 
 # ***\#opposite*** n  重难点词汇
-英音 'ɒpəzɪt     美音 'ɑːpəzət  
+英音 'ɒpəzɪt  
+英音
+<audio src="./media/opposite-B.aac"></audio>
+美音 'ɑːpəzət  
+美音
+<audio src="./media/opposite.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -2562,13 +3383,21 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 
  > Long is **the opposite of** short.  
  > 长是短的反义词。    
+<audio src="./media/opposite-5-1.aac"></audio>
 
  > I didn’t feel sleepy at all — **just the opposite**, in fact.  
  > 我一点儿都不困，事实上正好相反。    
+<audio src="./media/opposite-6.aac"></audio>
 
 
 # ***\#opposition*** n
-英音 ˌɒpə'zɪʃn     美音 ˌɑːpə'zɪʃn  
+英音 ˌɒpə'zɪʃn  
+英音
+<audio src="./media/opposition-B.aac"></audio>
+美音 ˌɑːpə'zɪʃn  
+美音
+<audio src="./media/opposition.aac"></audio>
+
 
 | 词频 1 | 口语 1 | 书面 1 |  
 
@@ -2580,10 +3409,17 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 
  > There was a great deal of **opposition to** the decision.  
  > 对这个决定有很多反对意见。    
+<audio src="./media/opposition-1.aac"></audio>
 
 
 # ***\#optimism*** n
-英音 'ɒptɪmɪzəm     美音 'ɑːptɪmɪzəm  
+英音 'ɒptɪmɪzəm  
+英音
+<audio src="./media/optimism-B.aac"></audio>
+美音 'ɑːptɪmɪzəm  
+美音
+<audio src="./media/optimism.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -2595,7 +3431,13 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 
 
 # ***\#optimistic*** adj
-英音 ˌɒptɪ'mɪstɪk     美音 ˌɑːptɪ'mɪstɪk  
+英音 ˌɒptɪ'mɪstɪk  
+英音
+<audio src="./media/optimistic-B.aac"></audio>
+美音 ˌɑːptɪ'mɪstɪk  
+美音
+<audio src="./media/optimistic.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -2608,6 +3450,7 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 
  > I admire Helen because she is **optimistic about** life.  
  > 我敬佩海伦，因为她对生活积极乐观。  （2008 湖南书面表达）  
+<audio src="./media/optimistic-1.aac"></audio>
 
 
 真题解析
@@ -2618,7 +3461,13 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 1. about  
 
 # ***\#option*** n
-英音 'ɒpʃn     美音 'ɑːpʃn  
+英音 'ɒpʃn  
+英音
+<audio src="./media/option-B.aac"></audio>
+美音 'ɑːpʃn  
+美音
+<audio src="./media/option.aac"></audio>
+
 
 | 词频 1 | 口语 3 | 书面 2 | 阅读 2 |  
 
@@ -2630,13 +3479,21 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 
  > The Internet increased options of movie lovers.  
  > 互联网增加了电影爱好者的选择。  （2017 江苏书面表达）  
+<audio src="./media/The Internet increased options _AAC.aac"></audio>
 
  > You **have no option but to** (= have to) refuse his proposal.  
  > 你别无选择，只能拒绝他的提议。    
+<audio src="./media/You have no option but to_AAC.aac"></audio>
 
 
 # ***\#optional*** adj
-英音 'ɒpʃənl     美音 'ɑːpʃənl  
+英音 'ɒpʃənl  
+英音
+<audio src="./media/optional-B.aac"></audio>
+美音 'ɑːpʃənl  
+美音
+<audio src="./media/optional.aac"></audio>
+
 
 | 词频 1 | 阅读 1 |  
 
@@ -2646,9 +3503,11 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 
  > Taking **optional subjects** will enrich our mind.  
  > 上选修课可以充实我们的头脑。  （2015 湖南）  
+<audio src="./media/P208 optional1.aac"></audio>
 
  > The service would be optional for cell phone users.  
  > 手机用户可以自由选择这项服务。  （2008 山东改）  
+<audio src="./media/optional-1.aac"></audio>
 
 
 真题解析
@@ -2660,7 +3519,13 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 1. optional  2. optional  
 
 # ***\#or*** conj
-英音 ɔː(r)     美音 ɔːr  
+英音 ɔː(r)  
+英音
+<audio src="./media/or-B.aac"></audio>
+美音 ɔːr  
+美音
+<audio src="./media/or.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2670,6 +3535,7 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 
  > Which do you prefer, white, grey or brown?  
  > 你喜欢哪种颜色，白色、灰色还是褐色?    
+<audio src="./media/or-1.aac"></audio>
 
 ### 2.*高义频：* **[表示不明确] 大约：**  
 
@@ -2680,16 +3546,19 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 
  > Hurry up, **or** ( **else** ) you’ll be late for school.  
  > 快点，否则你上学会迟到的。    
+<audio src="./media/or-2.aac"></audio>
 
 ### 4.*高义频：* **[用以引导同义词或同义语] 或者说；即：**  
 
  > It’s 10 kilometres, or 20 li, from here to the city.  
  > 从这儿到城里有10公里，也就是20里。    
+<audio src="./media/or-3.aac"></audio>
 
 ### 5.*高义频：* **[用于否定句] 也不：**  
 
  > He never smokes or drinks.  
  > 他从不吸烟，也从不喝酒。    
+<audio src="./media/or-4.aac"></audio>
 
 
 真题解析
@@ -2700,7 +3569,13 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 1. or  
 
 # ***\#oral*** adj
-英音 'ɔːrəl     美音 'ɔːrəl  
+英音 'ɔːrəl  
+英音
+<audio src="./media/oral-B.aac"></audio>
+美音 'ɔːrəl  
+美音
+<audio src="./media/oral.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -2713,6 +3588,7 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 
  > An oral agreement is not enough; we must have a written promise.  
  > 口头协议是不够的，我们必须有书面承诺。    
+<audio src="./media/oral-1.aac"></audio>
 
 
 派生词汇
@@ -2720,7 +3596,13 @@ opposing /ə'pəʊzɪŋ/ adj [只用于名词前]
 orally /'ɔːrəli/ adv   
 
 # ***\#orange*** n
-英音 'ɒrɪndʒ     美音 'ɔːrɪndʒ  
+英音 'ɒrɪndʒ  
+英音
+<audio src="./media/orange-B.aac"></audio>
+美音 'ɔːrɪndʒ  
+美音
+<audio src="./media/orange.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -2730,7 +3612,13 @@ orally /'ɔːrəli/ adv
 
 
 # ***\#orange*** adj
-英音 'ɒrɪndʒ     美音 'ɔːrɪndʒ  
+英音 'ɒrɪndʒ  
+英音
+<audio src="./media/orange-B.aac"></audio>
+美音 'ɔːrɪndʒ  
+美音
+<audio src="./media/orange.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -2742,7 +3630,13 @@ orally /'ɔːrəli/ adv
 
 
 # ***\#orangutan*** n
-英音 ɔːˌræŋuː'tæn     美音 ə'ræŋətæn  
+英音 ɔːˌræŋuː'tæn  
+英音
+<audio src="./media/orangutan1.aac"></audio>
+美音 ə'ræŋətæn  
+美音
+<audio src="./media/orangutan2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2752,7 +3646,13 @@ orally /'ɔːrəli/ adv
 
 
 # ***\#orbit*** n
-英音 'ɔːbɪt     美音 'ɔːrbɪt  
+英音 'ɔːbɪt  
+英音
+<audio src="./media/orbit-B.aac"></audio>
+美音 'ɔːrbɪt  
+美音
+<audio src="./media/orbit.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -2764,10 +3664,17 @@ orally /'ɔːrəli/ adv
 
  > The man-made satellite has been **put into orbit** around the earth.   
  > 这颗人造卫星已被送入环绕地球运行的轨道。    
+<audio src="./media/orbit-1.aac"></audio>
 
 
 # ***\#orbit*** v
-英音 'ɔːbɪt     美音 'ɔːrbɪt  
+英音 'ɔːbɪt  
+英音
+<audio src="./media/orbit-B.aac"></audio>
+美音 'ɔːrbɪt  
+美音
+<audio src="./media/orbit.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -2777,10 +3684,17 @@ orally /'ɔːrəli/ adv
 
  > The earth takes a year to **orbit** (**around**) the sun.  
  > 地球绕太阳一周需要一年的时间。    
+<audio src="./media/The earth takes a year to _AAC.aac"></audio>
 
 
 # ***\#orchard*** n
-英音 ˈɔːtʃəd     美音 ˈɔːrtʃərd  
+英音 ˈɔːtʃəd  
+英音
+<audio src="./media/orchard1_AAC.aac"></audio>
+美音 ˈɔːrtʃərd  
+美音
+<audio src="./media/orchard2_AAC.aac"></audio>
+
 
   
 
@@ -2790,7 +3704,13 @@ orally /'ɔːrəli/ adv
 
 
 # ***\#orchestra*** n
-英音 'ɔːkɪstrə     美音 'ɔːrkɪstrə  
+英音 'ɔːkɪstrə  
+英音
+<audio src="./media/orchestra-b.aac"></audio>
+美音 'ɔːrkɪstrə  
+美音
+<audio src="./media/orchestra.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -2802,7 +3722,13 @@ orally /'ɔːrəli/ adv
 
 
 # ***\#order*** n  重难点词汇
-英音 'ɔːdə(r)     美音 'ɔːrdər  
+英音 'ɔːdə(r)  
+英音
+<audio src="./media/order-B.aac"></audio>
+美音 'ɔːrdər  
+美音
+<audio src="./media/order.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2815,12 +3741,14 @@ orally /'ɔːrəli/ adv
 
  > The events are listed **in order of** importance.  
  > 这些事件是按重要性排列先后顺序的。    
+<audio src="./media/order-2.aac"></audio>
 
 ### 2.*高义频：* **[U] 条理；秩序**  
 反义词 disorder： 
 
  > Get your ideas into some sort of order before beginning to write.   
  > 在开始写之前先理清你的思路。    
+<audio src="./media/order-3.aac"></audio>
 
  > social / public order  
  > 社会 / 公共秩序    
@@ -2832,27 +3760,33 @@ orally /'ɔːrəli/ adv
 
  > I’m not **taking orders from** him!  
  > 我才不听他发号施令呢！    
+<audio src="./media/I’m not taking orders_AAC.aac"></audio>
 
 - order (for sb / sth) to do sth:
 
  > He **gave orders** for the work to be started.  
  > 他下令开始干活。    
+<audio src="./media/order-4.aac"></audio>
 
  > The general **gave the order** to advance.  
  > 将军下令前进。    
+<audio src="./media/order-5.aac"></audio>
 
 - order that … (should) do sth:
 
  > He gave orders that his men (should) start immediately.  
  > 他命令他的部下马上出发。    
+<audio src="./media/order-6.aac"></audio>
 
 ### 4.*高义频：* **[C] 订购；订单；点菜：**  
 
  > He **placed an order for** a coat online.  
  > 他在网上订购了一件大衣。    
+<audio src="./media/order-7.aac"></audio>
 
  > May I **take your order**?  
  > 您现在点菜吗？    
+<audio src="./media/order-8.aac"></audio>
 
 ### 5.*低义频：* **[C] 汇票；汇单：**  
 
@@ -2870,29 +3804,35 @@ orally /'ɔːrəli/ adv
 
  > Careful people usually put everything in good order.  
  > 细心的人总是把每样东西都放得很整齐。    
+<audio src="./media/order-9.aac"></audio>
 
  > Some teachers find it difficult to keep their classes in order.   
  > 有些老师发现维持课堂秩序很困难。    
+<audio src="./media/order-10.aac"></audio>
 
 ## \#in order that
 1.**为了；以便：**  
 
  > Leave your telephone number in order that we might contact you.  
  > 请留下你的电话号码，以便于我们跟你联系。  （北师大⑦ – 20）  
+<audio src="./media/order-11.aac"></audio>
 
 ## \#in order to
 1.**为了；以便：**  
 
  > In order to find a better job, he decided to study a second foreign language.  
  > 为了能找个更好的工作，他决定再学一门外语。  （2009 四川）  
+<audio src="./media/order-12.aac"></audio>
 
 #### 辨析 in order to, so as to
 二者都有“以便”、“为了”之意，in order to 可用于句首或句中，so as to 一般不用于句首。  
  > We’ll have to save as much as possible in order to pay for the new house.  
  > 为了买新房子，我们不得不尽量节俭。    
+<audio src="./media/order-13.aac"></audio>
 
  > Go in quietly so as not to wake your mother.  
  > 悄悄地进去，别把你的妈妈吵醒了。    
+<audio src="./media/order-14.aac"></audio>
 
 
 ## \#in the order of 
@@ -2900,15 +3840,18 @@ orally /'ɔːrəli/ adv
 
  > She earns something in the order of £80,000 a year.  
  > 她的年收入约为8万英镑。    
+<audio src="./media/order-15.aac"></audio>
 
 ## \#out of order
 1.**次序颠倒；发生故障：**  
 
  > The newspaper pages were out of order.  
  > 报纸的版面顺序乱了。    
+<audio src="./media/order-16.aac"></audio>
 
  > I’m sorry, but this phone is out of order.  
  > 很抱歉，这部电话出故障了。  （人教⑧ – 3）  
+<audio src="./media/order-17.aac"></audio>
 
 
 真题解析
@@ -2920,7 +3863,13 @@ orally /'ɔːrəli/ adv
 1. Ordered  2. in order that / so that  
 
 # ***\#order*** v  重难点词汇
-英音 'ɔːdə(r)     美音 'ɔːrdər  
+英音 'ɔːdə(r)  
+英音
+<audio src="./media/order-B.aac"></audio>
+美音 'ɔːrdər  
+美音
+<audio src="./media/order.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 2 |  
 
@@ -2930,32 +3879,39 @@ orally /'ɔːrəli/ adv
 
  > The list is ordered alphabetically.  
  > 这张清单是按字母顺序排列的。    
+<audio src="./media/order-24.aac"></audio>
 
 ### 2.*高义频：* **命令；指示：**  
 
  > She ordered him back.  
  > 她命令他回去。    
+<audio src="./media/order-18.aac"></audio>
 
 - order sb to do sth:
 
  > The policeman ordered him to stand up.  
  > 警察命令他站起来。    
+<audio src="./media/order-19.aac"></audio>
 
 - order + that ... (should) do sth:
 
  > He ordered that the house (should) be sold.  
  > 他吩咐把房子卖了。    
+<audio src="./media/order-20.aac"></audio>
 
 ### 3.*高义频：* **订购；点(饭菜等)：**  
 
  > The day before yesterday we ordered twenty washing machines.  
  > 前天我们订购了20台洗衣机。    
+<audio src="./media/order-21.aac"></audio>
 
  > I would like to order some food for dinner.  
  > 我想点餐。  （2012 四川）  
+<audio src="./media/order-22.aac"></audio>
 
  > Are you ready to order?  
  > 您可以点菜了吗？    
+<audio src="./media/order-23.aac"></audio>
 
 
 派生词汇
@@ -2966,7 +3922,13 @@ ordered /'ɔːdəd/ adj
 
 
 # ***\#orderly*** adj
-英音 'ɔːdəli     美音 'ɔːrdərli  
+英音 'ɔːdəli  
+英音
+<audio src="./media/orderly-B.aac"></audio>
+美音 'ɔːrdərli  
+美音
+<audio src="./media/orderly.aac"></audio>
+
 
 | 词频 1 | 阅读 1 |  
 
@@ -2976,10 +3938,17 @@ ordered /'ɔːdəd/ adj
 
  > Traffic lights are there to guide traffic **in an orderly way**.  
  > 红绿灯的存在是为了有序地引导交通。  （译林⑦ – 4）  
+<audio src="./media/orderly-1.aac"></audio>
 
 
 # ***\#ordinary*** adj
-英音 'ɔːdnri     美音 'ɔːrdneri  
+英音 'ɔːdnri  
+英音
+<audio src="./media/ordinary-B.aac"></audio>
+美音 'ɔːrdneri  
+美音
+<audio src="./media/ordinary.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -2989,6 +3958,7 @@ ordered /'ɔːdəd/ adj
 
  > Strange things sometimes happen to **ordinary people**.   
  > 怪事有时会发生在普通人身上。  （译林② – 1）  
+<audio src="./media/ordinary-1.aac"></audio>
 
 #### 辨析 common, normal, ordinary, usual
   
@@ -2998,9 +3968,11 @@ ordered /'ɔːdəd/ adj
 **usual** 表示由于长时间没有变化而形成了一种习惯或制度，强调习惯性。
  > He arrived later than usual.   
  > 他到得比平时晚。    
+<audio src="./media/5-common.aac"></audio>
 
  > It is usual for him to sit up late at night.   
  > 他熬夜已成习惯。    
+<audio src="./media/It is usual for.aac"></audio>
 
 
 
@@ -3012,7 +3984,13 @@ ordered /'ɔːdəd/ adj
 1. ordinarily-ordinary  
 
 # ***\#organ*** n
-英音 'ɔːɡən     美音 'ɔːrɡən  
+英音 'ɔːɡən  
+英音
+<audio src="./media/organ-B.aac"></audio>
+美音 'ɔːrɡən  
+美音
+<audio src="./media/organ.aac"></audio>
+
 
 | 词频 2 | 书面 1 |  
 
@@ -3038,7 +4016,13 @@ ordered /'ɔːdəd/ adj
 
 
 # ***\#organic*** adj
-英音 ɔː'ɡænɪk     美音 ɔːr'ɡænɪk  
+英音 ɔː'ɡænɪk  
+英音
+<audio src="./media/organic-B.aac"></audio>
+美音 ɔːr'ɡænɪk  
+美音
+<audio src="./media/organic.aac"></audio>
+
 
 | 词频 3 | 书面 1 | 阅读 1 |  
 
@@ -3053,7 +4037,13 @@ ordered /'ɔːdəd/ adj
 
 
 # ***\#organisation*** n
-英音 ˌɔːɡənaɪ'zeɪʃn     美音 ˌɔːrɡənə'zeɪʃn  
+英音 ˌɔːɡənaɪ'zeɪʃn  
+英音
+<audio src="./media/organization-B.aac"></audio>
+美音 ˌɔːrɡənə'zeɪʃn  
+美音
+<audio src="./media/organization.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 3 |  
 
@@ -3071,10 +4061,17 @@ ordered /'ɔːdəd/ adj
 
  > He is engaged in the organization of a new club.  
  > 他正忙于筹建一个新的俱乐部。    
+<audio src="./media/organization-1.aac"></audio>
 
 
 # ***\#organisational*** adj
-英音 ˌɔːgənaɪ'zeɪʃənl     美音 ˌɔːrgənə'zeɪʃənl  
+英音 ˌɔːgənaɪ'zeɪʃənl  
+英音
+<audio src="./media/organisational1.aac"></audio>
+美音 ˌɔːrgənə'zeɪʃənl  
+美音
+<audio src="./media/organisational2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3084,7 +4081,13 @@ ordered /'ɔːdəd/ adj
 
 
 # ***\#organise*** v
-英音 'ɔːɡənaɪz     美音 'ɔːrɡənaɪz  
+英音 'ɔːɡənaɪz  
+英音
+<audio src="./media/organize-B.aac"></audio>
+美音 'ɔːrɡənaɪz  
+美音
+<audio src="./media/organize.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -3098,15 +4101,18 @@ ordered /'ɔːdəd/ adj
 
  > I knew nothing about organizing any big event.  
  > 对于筹备大型活动我一无所知。  （2012 天津）  
+<audio src="./media/organize-1.aac"></audio>
 
 ### 2.*高义频：* **安排；处理；分配**  
 英译 to put or arrange things into a system or logical order：
 
  > You should try and organize your time better.  
  > 你应该更好地安排时间。    
+<audio src="./media/organize-2.aac"></audio>
 
  > When writing an article, we should read the topic carefully and organize our ideas.  
  > 写文章时我们要仔细阅读题目并理清思路。  （2009 福建改）  
+<audio src="./media/organize-bu When writing.aac"></audio>
 
 ### 3.*低义频：* **(使) 建立组织：**  
 
@@ -3115,6 +4121,7 @@ ordered /'ɔːdəd/ adj
 
  > The scientists need to **organize themselves into** a team.  
  > 这些科学家需要组成一个团队。    
+<audio src="./media/organize-3.aac"></audio>
 
 
 派生词汇
@@ -3127,6 +4134,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
  > I want to work with a **well organized** team.  
  > 我想和组织良好的团队一起工作。    
+<audio src="./media/organize-4.aac"></audio>
 
 2. *高义频：* **有序的；有条理的：**  
 
@@ -3136,7 +4144,13 @@ organized / organised /'ɔːɡənaɪzd/ adj
  organizer / organiser  /'ɔːgənaɪzə/ n  [C]   
 
 # ***\#organised*** adj
-英音 'ɔːɡənaɪzd     美音 'ɔːɡənaɪzd  
+英音 'ɔːɡənaɪzd  
+英音
+<audio src="./media/organised1.aac"></audio>
+美音 'ɔːɡənaɪzd  
+美音
+<audio src="./media/organised2.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -3149,6 +4163,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
  > I want to work with a **well organized** team.  
  > 我想和组织良好的团队一起工作。    
+<audio src="./media/I want to work with a well_AAC.aac"></audio>
 
 ### 2.*高义频：* **有序的；有条理的：**  
 
@@ -3157,7 +4172,13 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
 
 # ***\#organiser*** n
-英音 ˈɔːɡənaɪzə(r)     美音 ˈɔːrɡənaɪzər  
+英音 ˈɔːɡənaɪzə(r)  
+英音
+<audio src="./media/organiser1_AAC.aac"></audio>
+美音 ˈɔːrɡənaɪzər  
+美音
+<audio src="./media/organiser2_AAC.aac"></audio>
+
 
   
 
@@ -3167,7 +4188,13 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
 
 # ***\#organism*** n
-英音 'ɔːɡənɪzəm     美音 'ɔːrɡənɪzəm  
+英音 'ɔːɡənɪzəm  
+英音
+<audio src="./media/organism-B.aac"></audio>
+美音 'ɔːrɡənɪzəm  
+美音
+<audio src="./media/organism.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -3179,10 +4206,17 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
  > Plants let out oxygen which is needed by nearly every organism on earth.  
  > 植物会释放出几乎地球上所有生物都需要的氧气。  （2012 四川改）  
+<audio src="./media/Plants let out oxygen which_AAC.aac"></audio>
 
 
 # ***\#organization*** n
-英音 ˌɔːɡənaɪ'zeɪʃn     美音 ˌɔːrɡənə'zeɪʃn  
+英音 ˌɔːɡənaɪ'zeɪʃn  
+英音
+<audio src="./media/organization-B.aac"></audio>
+美音 ˌɔːrɡənə'zeɪʃn  
+美音
+<audio src="./media/organization.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 3 |  
 
@@ -3200,10 +4234,17 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
  > He is engaged in the organization of a new club.  
  > 他正忙于筹建一个新的俱乐部。    
+<audio src="./media/organization-1.aac"></audio>
 
 
 # ***\#organize*** v
-英音 'ɔːɡənaɪz     美音 'ɔːrɡənaɪz  
+英音 'ɔːɡənaɪz  
+英音
+<audio src="./media/organize-B.aac"></audio>
+美音 'ɔːrɡənaɪz  
+美音
+<audio src="./media/organize.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -3217,15 +4258,18 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
  > I knew nothing about organizing any big event.  
  > 对于筹备大型活动我一无所知。  （2012 天津）  
+<audio src="./media/organize-1.aac"></audio>
 
 ### 2.*高义频：* **安排；处理；分配**  
 英译 to put or arrange things into order, or into a system or logical order：
 
  > You should try and organize your time better.  
  > 你应该更好地安排时间。    
+<audio src="./media/organize-2.aac"></audio>
 
  > When writing an article, we should read the topic carefully and organize our ideas.  
  > 写文章时我们要仔细阅读题目并理清思路。  （2009 福建改）  
+<audio src="./media/organize-bu When writing.aac"></audio>
 
 ### 3.*低义频：* **(使) 建立组织：**  
 
@@ -3234,6 +4278,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
  > The scientists need to **organize themselves into** a team.  
  > 这些科学家需要组成一个团队。    
+<audio src="./media/organize-3.aac"></audio>
 
 
 派生词汇
@@ -3246,6 +4291,7 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
  > I want to work with a **well organized** team.  
  > 我想和组织良好的团队一起工作。    
+<audio src="./media/organize-4.aac"></audio>
 
 2. *高义频：* **有序的；有条理的：**  
 
@@ -3255,7 +4301,13 @@ organized / organised /'ɔːɡənaɪzd/ adj
  organizer / organiser  /'ɔːɡənaɪzə(r)/ n [C]   
 
 # ***\#organized*** adj
-英音 'ɔːɡənaɪz     美音 'ɔːrɡənaɪz  
+英音 'ɔːɡənaɪz  
+英音
+<audio src="./media/organized1_AAC.aac"></audio>
+美音 'ɔːrɡənaɪz  
+美音
+<audio src="./media/organized2_AAC.aac"></audio>
+
 
   
 
@@ -3265,7 +4317,13 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
 
 # ***\#orient*** vt
-英音 'ɔːriənt     美音 'ɔːriənt  
+英音 'ɔːriənt  
+英音
+<audio src="./media/orient1_AAC.aac"></audio>
+美音 'ɔːriənt  
+美音
+<audio src="./media/orient2_AAC.aac"></audio>
+
 
   
 
@@ -3275,7 +4333,13 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
 
 # ***\#orientation*** n
-英音 ˌɔːriən'teɪʃn     美音 ˌɔːriən'teɪʃn  
+英音 ˌɔːriən'teɪʃn  
+英音
+<audio src="./media/orientation1_AAC.aac"></audio>
+美音 ˌɔːriən'teɪʃn  
+美音
+<audio src="./media/orientation2_AAC.aac"></audio>
+
 
   
 
@@ -3288,7 +4352,13 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
 
 # ***\#origin*** n
-英音 'ɒrɪdʒɪn     美音 'ɔːrɪdʒɪn  
+英音 'ɒrɪdʒɪn  
+英音
+<audio src="./media/origin-B.aac"></audio>
+美音 'ɔːrɪdʒɪn  
+美音
+<audio src="./media/origin.aac"></audio>
+
 
 | 词频 2 | 书面 2 |  
 
@@ -3300,18 +4370,27 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
  > Over 80% of the 3.6 million people are of European **origin****of_2**  
  > 这360万人中有80%的人具有欧洲血统。    
+<audio src="./media/origin-3.aac"></audio>
 
 ### 2.*高义频：* **起源；起因：**  
 
  > The exact **origin of** table tennis is not known.  
  > 乒乓球的确切起源尚不清楚。  （译林④ – 2）  
+<audio src="./media/origin-1.aac"></audio>
 
  > The Western festival Halloween **has its origins in** old beliefs about the return of the spirits of dead people.  
  > 西方节日万圣节源于亡魂回归的古老信仰。  （人教新必修③ – 1）  
+<audio src="./media/The Western festival Halloween has its origins2_AAC.aac"></audio>
 
 
 # ***\#original*** adj  重难点词汇
-英音 ə'rɪdʒənl     美音 ə'rɪdʒənl  
+英音 ə'rɪdʒənl  
+英音
+<audio src="./media/original1.aac"></audio>
+美音 ə'rɪdʒənl  
+美音
+<audio src="./media/original.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
 
@@ -3322,21 +4401,30 @@ organized / organised /'ɔːɡənaɪzd/ adj
 
  > Sadly the library had moved from its original place into another building.  
  > 遗憾的是，这个图书馆已经从原来的地方搬到另一座大楼里去了。  （人教⑤ – 2）  
+<audio src="./media/original-1.aac"></audio>
 
 ### 2.*高义频：* **[只用于名词前] 原创的；原作的：**  
 
  > In a word, to read the original work is better than to see the film based on it.  
  > 总之，阅读原著比观看改编的电影更好。    
+<audio src="./media/original-2.aac"></audio>
 
 ### 3.*高义频：* **新颖的；创新的；独特的**  
 英译 new and interesting; different from others of its type：
 
  > That’s not a very original suggestion.  
  > 那个建议没什么新意。    
+<audio src="./media/original-3.aac"></audio>
 
 
 # ***\#original*** n  重难点词汇
-英音 ə'rɪdʒənl     美音 ə'rɪdʒənl  
+英音 ə'rɪdʒənl  
+英音
+<audio src="./media/original1.aac"></audio>
+美音 ə'rɪdʒənl  
+美音
+<audio src="./media/original.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
 
@@ -3355,7 +4443,13 @@ organized / organised /'ɔːɡənaɪzd/ adj
 originality /əˌrɪdʒəˈnæləti/ n   
 
 # ***\#originality*** n
-英音 əˌrɪdʒəˈnæləti     美音 əˌrɪdʒəˈnæləti  
+英音 əˌrɪdʒəˈnæləti  
+英音
+<audio src="./media/originality1_AAC.aac"></audio>
+美音 əˌrɪdʒəˈnæləti  
+美音
+<audio src="./media/originality2_AAC.aac"></audio>
+
 
   
 
@@ -3365,7 +4459,13 @@ originality /əˌrɪdʒəˈnæləti/ n
 
 
 # ***\#originally*** adv
-英音 ə'rɪdʒənəli     美音 ə'rɪdʒənəli  
+英音 ə'rɪdʒənəli  
+英音
+<audio src="./media/originally-B.aac"></audio>
+美音 ə'rɪdʒənəli  
+美音
+<audio src="./media/originally.aac"></audio>
+
 
 | 词频 2 | 口语 2 | 书面 2 | 阅读 2 |  
 
@@ -3375,13 +4475,21 @@ originality /əˌrɪdʒəˈnæləti/ n
 
  > The store was originally quite small.  
  > 这家商店原来非常小。    
+<audio src="./media/originally-1.aac"></audio>
 
  > Originally, we had planned a tour of Scotland, but we didn’t go in the end.  
  > 起先，我们计划到苏格兰旅游，但最后没有成行。    
+<audio src="./media/originally-2.aac"></audio>
 
 
 # ***\#originate*** vt
-英音 əˈrɪdʒɪneɪt     美音 əˈrɪdʒɪneɪt  
+英音 əˈrɪdʒɪneɪt  
+英音
+<audio src="./media/originate1_AAC.aac"></audio>
+美音 əˈrɪdʒɪneɪt  
+美音
+<audio src="./media/originate2_AAC.aac"></audio>
+
 
   
 
@@ -3391,7 +4499,13 @@ originality /əˌrɪdʒəˈnæləti/ n
 
 
 # ***\#ornate*** adj
-英音 ɔː'neɪt     美音 ɔːr'neɪt  
+英音 ɔː'neɪt  
+英音
+<audio src="./media/ornate1.aac"></audio>
+美音 ɔːr'neɪt  
+美音
+<audio src="./media/ornate2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3401,7 +4515,13 @@ originality /əˌrɪdʒəˈnæləti/ n
 
 
 # ***\#orphan*** n
-英音 'ɔːfn     美音 'ɔːrfn  
+英音 'ɔːfn  
+英音
+<audio src="./media/orphan-B.aac"></audio>
+美音 'ɔːrfn  
+美音
+<audio src="./media/orphan.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3413,7 +4533,13 @@ originality /əˌrɪdʒəˈnæləti/ n
 
 
 # ***\#orphan*** adj
-英音 'ɔːfn     美音 'ɔːrfn  
+英音 'ɔːfn  
+英音
+<audio src="./media/orphan-B.aac"></audio>
+美音 'ɔːrfn  
+美音
+<audio src="./media/orphan.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3423,7 +4549,13 @@ originality /əˌrɪdʒəˈnæləti/ n
 
 
 # ***\#other*** adj  重难点词汇
-英音 'ʌðə(r)     美音 'ʌðər  
+英音 'ʌðə(r)  
+英音
+<audio src="./media/other-B.aac"></audio>
+美音 'ʌðər  
+美音
+<audio src="./media/other.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3435,25 +4567,31 @@ originality /əˌrɪdʒəˈnæləti/ n
 
  > He walked to the other side of the street.  
  > 他走向街对面。    
+<audio src="./media/other-1.aac"></audio>
 
  > Where’s my other shoe?  
  > 我的另一只鞋在哪儿？    
+<audio src="./media/other-2.aac"></audio>
 
 ### 2.*高义频：* **(多个中) 另外的；其他的：**  
 
  > I still have other problems to solve.  
  > 我还有另外一些问题要解决。    
+<audio src="./media/other-4.aac"></audio>
 
  > I have no **other** choice **than** this.  
  > 除此之外我别无选择。    
+<audio src="./media/other-5.aac"></audio>
 
  > I like dogs better than any other animal(s).  
  > 我喜欢狗胜过其他任何动物。    
+<audio src="./media/other-6.aac"></audio>
 
 - the other + 复数名词：
 
  > Mary is much brighter than all the other students in her class.  
  > 玛丽比她班上其他的同学聪明得多。    
+<audio src="./media/Mary is much brighter than_AAC.aac"></audio>
 
 Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰，口语中也可用复数名词。  
 ### 3.*低义频：* **隔一个的：**  
@@ -3469,9 +4607,11 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > I don’t know any French people other than you.  
  > 除了你，我不认识别的法国人。    
+<audio src="./media/other-8.aac"></audio>
 
  > We are going away in June but other than that I’ll be here all summer.  
  > 我们六月份外出，除此之外，我整个夏天都会在这里。    
+<audio src="./media/other-9.aac"></audio>
 
 
 真题解析
@@ -3483,7 +4623,13 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 1. other than / except  2. the other  
 
 # ***\#other*** pron  重难点词汇
-英音 'ʌðə(r)     美音 'ʌðər  
+英音 'ʌðə(r)  
+英音
+<audio src="./media/other-B.aac"></audio>
+美音 'ʌðər  
+美音
+<audio src="./media/other.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3493,17 +4639,21 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > One was happy but the other was disappointed.  
  > 一个感到开心，而另一个却感到失望。  （外研① – 1）  
+<audio src="./media/other-10.aac"></audio>
 
 ### 2.*高义频：* **[常用复数] 另外的人 / 物；其他的人 / 物：**  
 
  > I don’t like these. Can you show me any others?  
  > 我不喜欢这些，可以给我看看其他的吗？    
+<audio src="./media/other-12.aac"></audio>
 
  > Three passengers were killed and one other was seriously injured.  
  > 3名乘客死亡，另外1名受重伤。    
+<audio src="./media/other-13.aac"></audio>
 
  > Don’t do to others what you wouldn’t like to be done to yourself.  
  > 己所不欲，勿施于人。  （2015 重庆）  
+<audio src="./media/Don’t do to others what you wouldn’t like to be done to yourself2_AAC.aac"></audio>
 
 
 固定搭配
@@ -3525,7 +4675,13 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 1. another→other  2. the  3. others  
 
 # ***\#otherwise*** adv  重难点词汇
-英音 'ʌðərwaɪz     美音 'ʌðərwaɪz  
+英音 'ʌðərwaɪz  
+英音
+<audio src="./media/otherwise-B.aac"></audio>
+美音 'ʌðərwaɪz  
+美音
+<audio src="./media/otherwise.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -3535,27 +4691,38 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > You’ll have to go now, otherwise you’ll miss your bus.  
  > 你现在得走了，否则就赶不上公共汽车了。    
+<audio src="./media/otherwise-1.aac"></audio>
 
  > Thanks for your directions to the house; we wouldn’t have found it otherwise.  
  > 谢谢你为我们指明去那所房子的路，否则我们是找不到的。  （2014 江西）  
+<audio src="./media/otherwise-Thanks for your directions.aac"></audio>
 
 ### 2.*低义频：* **[句子副词] 除此以外：**  
 
  > There was some music playing upstairs. Otherwise the house was silent.  
  > 楼上有音乐声，除此之外房子里很安静。    
+<audio src="./media/otherwise-3.aac"></audio>
 
 ### 3.*低义频：* **以另外方式；别样**  
 英译  in a different way to the way mentioned; differently： 
 
  > Unless otherwise assigned a seat by the teacher, I always chose to sit at the back of the classroom.  
  > 除非老师另外指定一个座位，否则我总是坐在教室的后面。  （2011 北京）  
+<audio src="./media/otherwise-4.aac"></audio>
 
  > I can’t meet you on Sunday. I’ll be **otherwise occupied / engaged** (= doing sth else).  
  > 我星期日不能见你了，我有别的事要忙。  （2014 江苏改）  
+<audio src="./media/I can’t meet you on Sunday_AAC.aac"></audio>
 
 
 # ***\#ouch*** int
-英音 aʊtʃ     美音 aʊtʃ  
+英音 aʊtʃ  
+英音
+<audio src="./media/ouch-B.aac"></audio>
+美音 aʊtʃ  
+美音
+<audio src="./media/ouch.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3565,7 +4732,13 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 
 # ***\#ought*** aux v
-英音 ɔːt     美音 ɔːt  
+英音 ɔːt  
+英音
+<audio src="./media/ought1.aac"></audio>
+美音 ɔːt  
+美音
+<audio src="./media/ought2.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -3575,7 +4748,13 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 
 # ***\#our*** pron
-英音 ɑː(r), 'aʊə(r)     美音 'aʊər  
+英音 ɑː(r), 'aʊə(r)  
+英音
+<audio src="./media/our-b.aac"></audio>
+美音 'aʊər  
+美音
+<audio src="./media/our.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3585,7 +4764,13 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 
 # ***\#ours*** pron
-英音 ɑːz, 'aʊəz     美音 'aʊərz  
+英音 ɑːz, 'aʊəz  
+英音
+<audio src="./media/ours-B.aac"></audio>
+美音 'aʊərz  
+美音
+<audio src="./media/ours.aac"></audio>
+
 
 | 词频 3 | 口语 3 |  
 
@@ -3595,16 +4780,25 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > This is ours.  
  > 这是我们的。    
+<audio src="./media/ours-1.aac"></audio>
 
  > I like ours better.  
  > 我更喜欢我们的。    
+<audio src="./media/ours-2.aac"></audio>
 
  > Ours is a large family.  
  > 我们的家是一个大家庭。    
+<audio src="./media/ours-3.aac"></audio>
 
 
 # ***\#ourselves*** pron
-英音 ɑː'selvz     美音 ɑːr'selvz  
+英音 ɑː'selvz  
+英音
+<audio src="./media/ourselves-B.aac"></audio>
+美音 ɑːr'selvz  
+美音
+<audio src="./media/ourselves.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 1 |  
 
@@ -3614,15 +4808,23 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > We prepared ourselves for the long journey ahead.  
  > 我们为将要开始的长途旅行做了准备。    
+<audio src="./media/ourselves-1.aac"></audio>
 
 ### 2.*高义频：* **[用以加强语气] 我们亲自；我们本人：**  
 
  > We saw it ourselves.  
  > 我们亲眼看到的。    
+<audio src="./media/ourselves-2.aac"></audio>
 
 
 # ***\#out*** adv & prep
-英音 aʊt     美音 aʊt  
+英音 aʊt  
+英音
+<audio src="./media/out-B.aac"></audio>
+美音 aʊt  
+美音
+<audio src="./media/out.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3632,9 +4834,11 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > Let’s eat out tonight.  
  > 我们今晚出去吃吧。    
+<audio src="./media/out-1.aac"></audio>
 
  > — Is Mr Smith in?  
  > 史密斯先生在家吗？    
+<audio src="./media/out-2.aac"></audio>
 
  > — No, he is out.  
  > 不，他出去了。    
@@ -3643,22 +4847,27 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > The fire is out.  
  > 火灭了。    
+<audio src="./media/out-3.aac"></audio>
 
  > The tickets for the concert are all **sold out**.  
  > 音乐会的门票已全部售完。    
+<audio src="./media/out-4.aac"></audio>
 
 ### 3.*低义频：* **出现；盛开：**  
 
  > The stars are out.  
  > 星星出来了。    
+<audio src="./media/out-5.aac"></audio>
 
  > The flowers are out.  
  > 花开了。    
+<audio src="./media/out-6.aac"></audio>
 
 ### 4.*高义频：* **大声地：**  
 
  > Speak out!  
  > 大声说！    
+<audio src="./media/out-7.aac"></audio>
 
 
 固定搭配
@@ -3668,9 +4877,11 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > She went **out of the room**.  
  > 她走出了房间。    
+<audio src="./media/out-8.aac"></audio>
 
  > Six out of ten people worldwide use mobile phones.  
  > 全世界10个人中就有6个使用手机。    
+<audio src="./media/out-9.aac"></audio>
 
 2.*高义频：* **在... (范围) 之外；脱离 (某状态)：**  
 
@@ -3679,6 +4890,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > The plane is **out of sight** now.  
  > 飞机已飞出了视线。    
+<audio src="./media/out-10.aac"></audio>
 
 3.*低义频：* **出于；由于：**  
 
@@ -3687,6 +4899,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > I ran away **out of fear** of the dog.  
  > 我怕狗，于是跑开了。    
+<audio src="./media/out-11.aac"></audio>
 
 4.*高义频：* **缺乏；没有：**  
 
@@ -3695,6 +4908,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > I am feeling completely **out of practice**.  
  > 我感觉自己太疏于练习了。  （2008 广东）  
+<audio src="./media/out-12.aac"></audio>
 
 5.*高义频：* **凭借；用… (制成)：**  
 
@@ -3703,17 +4917,35 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 
 # ***\#out*** 
-英音 aʊt     美音 aʊt  
+英音 aʊt  
+英音
+<audio src="./media/out-B.aac"></audio>
+美音 aʊt  
+美音
+<audio src="./media/out.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
 # ***\#out*** adv
-英音 aʊt     美音 aʊt  
+英音 aʊt  
+英音
+<audio src="./media/out-B.aac"></audio>
+美音 aʊt  
+美音
+<audio src="./media/out.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
 # ***\#outbreak*** n
-英音 'aʊtbreɪk     美音 'aʊtbreɪk  
+英音 'aʊtbreɪk  
+英音
+<audio src="./media/outbreak-B.aac"></audio>
+美音 'aʊtbreɪk  
+美音
+<audio src="./media/outbreak.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3728,7 +4960,13 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 
 # ***\#outcome*** n
-英音 'aʊtkʌm     美音 'aʊtkʌm  
+英音 'aʊtkʌm  
+英音
+<audio src="./media/outcome-B.aac"></audio>
+美音 'aʊtkʌm  
+美音
+<audio src="./media/outcome.aac"></audio>
+
 
 | 词频 2 | 书面 1 | 阅读 1 |  
 
@@ -3741,10 +4979,17 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > We were both happy with the **outcome of** the debate.  
  > 我们双方对辩论的结果都很满意。  （译林⑦ – 3）  
+<audio src="./media/outcome-1.aac"></audio>
 
 
 # ***\#outdoor*** adj
-英音 'aʊtdɔː(r)     美音 'aʊtdɔːr  
+英音 'aʊtdɔː(r)  
+英音
+<audio src="./media/outdoor-B.aac"></audio>
+美音 'aʊtdɔːr  
+美音
+<audio src="./media/outdoor.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -3757,7 +5002,13 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 
 # ***\#outdoors*** adv
-英音 ˌaʊt'dɔːz     美音 ˌaʊt'dɔːrz  
+英音 ˌaʊt'dɔːz  
+英音
+<audio src="./media/outdoors-B.aac"></audio>
+美音 ˌaʊt'dɔːrz  
+美音
+<audio src="./media/outdoors.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -3767,10 +5018,17 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > The Impressionists were the first painters to work outdoors.  
  > 印象派是最先到户外作画的画家。  （人教⑥ – 1）  
+<audio src="./media/outdoors-1.aac"></audio>
 
 
 # ***\#outdoors*** n
-英音 ˌaʊt'dɔːz     美音 ˌaʊt'dɔːrz  
+英音 ˌaʊt'dɔːz  
+英音
+<audio src="./media/outdoors-B.aac"></audio>
+美音 ˌaʊt'dɔːrz  
+美音
+<audio src="./media/outdoors.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -3782,10 +5040,17 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > Tom is a sports fan and a lover of the outdoors.  
  > 汤姆是个运动迷，并且热爱户外运动。    
+<audio src="./media/outdoors-2.aac"></audio>
 
 
 # ***\#outer*** adj
-英音 'aʊtə(r)     美音 'aʊtər  
+英音 'aʊtə(r)  
+英音
+<audio src="./media/outer-B.aac"></audio>
+美音 'aʊtər  
+美音
+<audio src="./media/outer.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -3798,10 +5063,17 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > The outer door was wide open, but the inner one was locked.  
  > 外面的门大开着，但里面的门却紧锁着。    
+<audio src="./media/outer-1.aac"></audio>
 
 
 # ***\#outgoing*** adj
-英音 'aʊtɡəʊɪŋ     美音 'aʊtɡoʊɪŋ  
+英音 'aʊtɡəʊɪŋ  
+英音
+<audio src="./media/outgoing-B.aac"></audio>
+美音 'aʊtɡoʊɪŋ  
+美音
+<audio src="./media/outgoing.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -3811,10 +5083,17 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > He is usually cheerful and outgoing, but he has been really quiet and looks sad.  
  > 他通常乐观外向，但近来很安静，看起来很悲伤。  （译林⑤ – 1）  
+<audio src="./media/outgoing-1.aac"></audio>
 
 
 # ***\#outing*** n
-英音 'aʊtɪŋ     美音 'aʊtɪŋ  
+英音 'aʊtɪŋ  
+英音
+<audio src="./media/outing-B.aac"></audio>
+美音 'aʊtɪŋ  
+美音
+<audio src="./media/outing.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -3832,7 +5111,13 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 
 # ***\#outline*** n
-英音 'aʊtlaɪn     美音 'aʊtlaɪn  
+英音 'aʊtlaɪn  
+英音
+<audio src="./media/outline-B.aac"></audio>
+美音 'aʊtlaɪn  
+美音
+<audio src="./media/outline.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -3852,10 +5137,17 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > She gave me an **outline of** the lecture.  
  > 她向我大致说了下演讲的要点。    
+<audio src="./media/outline-1.aac"></audio>
 
 
 # ***\#outline*** vt
-英音 'aʊtlaɪn     美音 'aʊtlaɪn  
+英音 'aʊtlaɪn  
+英音
+<audio src="./media/outline-B.aac"></audio>
+美音 'aʊtlaɪn  
+美音
+<audio src="./media/outline.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -3865,15 +5157,23 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > They saw the huge building **outlined against** the sky.  
  > 他们看见天空映衬下那座巨型建筑的轮廓。    
+<audio src="./media/outline-3.aac"></audio>
 
 ### 2.*高义频：* **概述；提出...的纲要：**  
 
  > The report outlined possible uses for the technology.  
  > 此报告概述了这项技术可能的用途。    
+<audio src="./media/outline-2.aac"></audio>
 
 
 # ***\#outlook*** n
-英音 'aʊtlʊk     美音 'aʊtlʊk  
+英音 'aʊtlʊk  
+英音
+<audio src="./media/outlook-B.aac"></audio>
+美音 'aʊtlʊk  
+美音
+<audio src="./media/outlook.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -3886,16 +5186,24 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > He is a man with an optimistic **outlook on** life.  
  > 他是个对生活乐观的人。    
+<audio src="./media/outlook-1.aac"></audio>
 
 ### 2.*低义频：* **[常用单数] 展望；前景**  
 英译 what will probably happen：
 
  > The **outlook for** world peace is bright.  
  > 世界和平的前景是光明的。    
+<audio src="./media/outlook-2.aac"></audio>
 
 
 # ***\#outnumber*** v
-英音 ˌaʊt'nʌmbə(r)     美音 ˌaʊt'nʌmbər  
+英音 ˌaʊt'nʌmbə(r)  
+英音
+<audio src="./media/outnumber1.aac"></audio>
+美音 ˌaʊt'nʌmbər  
+美音
+<audio src="./media/outnumber2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3905,7 +5213,13 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 
 # ***\#outpatient*** n
-英音 'aʊtpeɪʃnt     美音 'aʊtpeɪʃnt  
+英音 'aʊtpeɪʃnt  
+英音
+<audio src="./media/outpatient1.aac"></audio>
+美音 'aʊtpeɪʃnt  
+美音
+<audio src="./media/outpatient2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3915,7 +5229,13 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 
 # ***\#output*** n
-英音 'aʊtpʊt     美音 'aʊtpʊt  
+英音 'aʊtpʊt  
+英音
+<audio src="./media/output-B.aac"></audio>
+美音 'aʊtpʊt  
+美音
+<audio src="./media/output.aac"></audio>
+
 
 | 词频 1 | 书面 2 | 阅读 1 |  
 
@@ -3931,10 +5251,17 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > She intended to have an output of one book a year.  
  > 她计划每年出一本书。  （外研⑥ – 2）  
+<audio src="./media/output-1.aac"></audio>
 
 
 # ***\#output*** vt
-英音 'aʊtpʊt     美音 'aʊtpʊt  
+英音 'aʊtpʊt  
+英音
+<audio src="./media/output-B.aac"></audio>
+美音 'aʊtpʊt  
+美音
+<audio src="./media/output.aac"></audio>
+
 
 | 词频 1 | 书面 2 | 阅读 1 |  
 
@@ -3944,7 +5271,13 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 
 # ***\#outside*** adv
-英音 ˌaʊt'saɪd     美音 ˌaʊt'saɪd  
+英音 ˌaʊt'saɪd  
+英音
+<audio src="./media/Outside-adv-B.aac"></audio>
+美音 ˌaʊt'saɪd  
+美音
+<audio src="./media/outside.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3954,13 +5287,21 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > It’s quite noisy outside.  
  > 外边很吵闹。    
+<audio src="./media/outside-1.aac"></audio>
 
  > He went outside for a smoke.  
  > 他到外面抽了支烟。    
+<audio src="./media/outside-2.aac"></audio>
 
 
 # ***\#outside*** prep
-英音 ˌaʊt'saɪd     美音 ˌaʊt'saɪd  
+英音 ˌaʊt'saɪd  
+英音
+<audio src="./media/outside-B.aac"></audio>
+美音 ˌaʊt'saɪd  
+美音
+<audio src="./media/outside.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3970,13 +5311,21 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > He was standing just outside the door.  
  > 他就站在门外。    
+<audio src="./media/outside-3.aac"></audio>
 
  > He achieved a lot in life outside school.  
  > 他的校外生活收获颇丰。  （2008 浙江改）  
+<audio src="./media/He achieved a lot_AAC.aac"></audio>
 
 
 # ***\#outside*** adj
-英音 'aʊtsaɪd     美音 'aʊtsaɪd  
+英音 'aʊtsaɪd  
+英音
+<audio src="./media/outside-B.aac"></audio>
+美音 'aʊtsaɪd  
+美音
+<audio src="./media/outside.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3989,10 +5338,17 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > We must get outside help.  
  > 我们必须寻求外援。    
+<audio src="./media/outside-5.aac"></audio>
 
 
 # ***\#outside*** n
-英音 ˌaʊt'saɪd     美音 ˌaʊt'saɪd  
+英音 ˌaʊt'saɪd  
+英音
+<audio src="./media/outside-B.aac"></audio>
+美音 ˌaʊt'saɪd  
+美音
+<audio src="./media/outside.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -4004,13 +5360,21 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > You can’t open the door **from the outside**.  
  > 你从外边打不开这个门。    
+<audio src="./media/outside-6.aac"></audio>
 
  > The outside of the house needs painting.  
  > 房子的外墙需要粉刷。    
+<audio src="./media/outside-7.aac"></audio>
 
 
 # ***\#outskirts*** n
-英音 ˈaʊtskɜːts     美音 ˈaʊtskɜːrts  
+英音 ˈaʊtskɜːts  
+英音
+<audio src="./media/outskirts1_AAC.aac"></audio>
+美音 ˈaʊtskɜːrts  
+美音
+<audio src="./media/outskirts2_AAC.aac"></audio>
+
 
   
 
@@ -4020,7 +5384,13 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 
 # ***\#outsource*** vt
-英音 ˈaʊtsɔːs     美音 ˈaʊtsɔːrs  
+英音 ˈaʊtsɔːs  
+英音
+<audio src="./media/outsource1_AAC.aac"></audio>
+美音 ˈaʊtsɔːrs  
+美音
+<audio src="./media/outsource2_AAC.aac"></audio>
+
 
   
 
@@ -4030,7 +5400,13 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 
 # ***\#outspoken*** adj
-英音 aʊt'spəʊkən     美音 aʊt'spoʊkən  
+英音 aʊt'spəʊkən  
+英音
+<audio src="./media/outspoken-B.aac"></audio>
+美音 aʊt'spoʊkən  
+美音
+<audio src="./media/outspoken.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4043,7 +5419,13 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 
 # ***\#outstanding*** adj
-英音 aʊt'stændɪŋ     美音 aʊt'stændɪŋ  
+英音 aʊt'stændɪŋ  
+英音
+<audio src="./media/outstanding-B.aac"></audio>
+美音 aʊt'stændɪŋ  
+美音
+<audio src="./media/outstanding.aac"></audio>
+
 
 | 词频 3 | 书面 1 | 阅读 2 |  
 
@@ -4056,13 +5438,21 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > With the Qingming Scroll, Zhang made an outstanding contribution to Chinese art.  
  > 张择端的《清明上河图》为中国艺术做出了杰出贡献。  （译林新选必① – 3改）  
+<audio src="./media/With the Qingming Scroll, Zhang made an outstanding2_AAC.aac"></audio>
 
  > Tsinghua University, founded in 1911, is home to a great number of outstanding figures.  
  > 清华大学，建于1911年，是很多杰出人才的摇篮。  （2011 福建）  
+<audio src="./media/outstanding-1.aac"></audio>
 
 
 # ***\#outstretched*** adj
-英音 ˌaʊtˈstretʃt     美音 ˌaʊtˈstretʃt  
+英音 ˌaʊtˈstretʃt  
+英音
+<audio src="./media/outstretched1_AAC.aac"></audio>
+美音 ˌaʊtˈstretʃt  
+美音
+<audio src="./media/outstretched2_AAC.aac"></audio>
+
 
   
 
@@ -4072,7 +5462,13 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 
 # ***\#outward*** adj
-英音 'aʊtwəd     美音 'aʊtwərd  
+英音 'aʊtwəd  
+英音
+<audio src="./media/outward-B.aac"></audio>
+美音 'aʊtwərd  
+美音
+<audio src="./media/Outward-A.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4087,10 +5483,17 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > She gives no **outward sign** of the sadness she must feel.  
  > 她一定很难过，但没表现出来。    
+<audio src="./media/outward-1new.aac"></audio>
 
 
 # ***\#outward(s)*** adv
-英音 'aʊtwədz     美音 'aʊtwərdz  
+英音 'aʊtwədz  
+英音
+<audio src="./media/outwards-B.aac"></audio>
+美音 'aʊtwərdz  
+美音
+<audio src="./media/outward.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4100,13 +5503,21 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > The door opens outward not inward.  
  > 这扇门是向外开的，不是向里开的。    
+<audio src="./media/outward-1.aac"></audio>
 
  > He put on his raincoat and went outwards.  
  > 他穿上雨衣向外走去。    
+<audio src="./media/outward-2.aac"></audio>
 
 
 # ***\#outwards*** adv
-英音 'aʊtwədz     美音 'aʊtwərdz  
+英音 'aʊtwədz  
+英音
+<audio src="./media/outwards1.aac"></audio>
+美音 'aʊtwərdz  
+美音
+<audio src="./media/outwards2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4116,7 +5527,13 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 
 # ***\#oval*** adj
-英音 'əʊvl     美音 'oʊvl  
+英音 'əʊvl  
+英音
+<audio src="./media/oval-B.aac"></audio>
+美音 'oʊvl  
+美音
+<audio src="./media/oval.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4126,7 +5543,13 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 
 # ***\#oval*** n
-英音 'əʊvl     美音 'oʊvl  
+英音 'əʊvl  
+英音
+<audio src="./media/oval-B.aac"></audio>
+美音 'oʊvl  
+美音
+<audio src="./media/oval.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4138,7 +5561,13 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 
 # ***\#oven*** n
-英音 'ʌvn     美音 'ʌvn  
+英音 'ʌvn  
+英音
+<audio src="./media/oven-B.aac"></audio>
+美音 'ʌvn  
+美音
+<audio src="./media/oven.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -4150,7 +5579,13 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
 
 # ***\#over*** prep
-英音 'əʊvə(r)     美音 'oʊvər  
+英音 'əʊvə(r)  
+英音
+<audio src="./media/over-B.aac"></audio>
+美音 'oʊvər  
+美音
+<audio src="./media/over.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -4162,6 +5597,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > The moon rose over the hills, and the stars appeared in the sky.  
  > 月亮从山坡上升起，天空中出现了点点繁星。  （2012 四川改）  
+<audio src="./media/The moon rose .aac"></audio>
 
 #### 辨析 above, on, over
 三者都含有“在…上”之意。  
@@ -4178,17 +5614,21 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > The headmaster is over 50.  
  > 校长五十开外。    
+<audio src="./media/over-2.aac"></audio>
 
  > The speech lasted over an hour.  
  > 演讲持续了一个多小时。    
+<audio src="./media/over-3.aac"></audio>
 
 - (在地位、职权、势力等方面) 在…之上：
 
  > He ruled over a great empire.  
  > 他统治着一个伟大的帝国。    
+<audio src="./media/over-4.aac"></audio>
 
  > He is over me in the office.  
  > 他的职务比我高。    
+<audio src="./media/over-5.aac"></audio>
 
 ### 2.*高义频：* **[表示在空间或时间上从一点到另一点]：**  
 
@@ -4196,27 +5636,33 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 
  > The dog jumped over some bushes and saw the little stream.  
  > 狗跳过灌木丛看到了小溪。  （2012 陕西）  
+<audio src="./media/over-6.aac"></audio>
 
  > There’s a bus stop just over the road.  
  > 路对面就有一个公共汽车站。    
+<audio src="./media/over-7.aac"></audio>
 
 - 通过; 凭借：
 
  > I booked my train ticket over the phone / Internet.  
  > 我通过电话 / 在网上订了火车票。    
+<audio src="./media/I booked my train _AAC.aac"></audio>
 
 - 在…期间：
 
  > Shakespeare’s play Hamlet has been made into at least ten different films over the past years.  
  > 在过去这些年中，莎士比亚的戏剧《哈姆雷特》至少被翻拍成10部不同的电影。  （2013 北京）  
+<audio src="./media/over-10.aac"></audio>
 
  > In Britain, it’s not unusual to have a business meeting over breakfast.  
  > 在英国，边吃早餐边开商务会议并不稀奇。  （2012 安徽）  
+<audio src="./media/over-11.aac"></audio>
 
 - 度过…阶段：
 
  > The Greek government can’t **get over** the present difficulties unless it gets more financial support.  
  > 除非得到更多的财政援助，否则希腊政府不可能度过目前的困境。  （2012 福建）  
+<audio src="./media/over-12.aac"></audio>
 
 ### 3.*高义频：* **关于；由于：**  
 
@@ -4226,6 +5672,7 @@ Notes: “other + 单数名词” 之前必须有one, any, some, no等词修饰�
 Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原因。  
  > He would laugh the loudest over fun and be the saddest over anyone’s misfortune.  
  > 他会因为有趣的事而放声大笑，也会为任何人的不幸而极度悲伤。  （2017 全国）  
+<audio src="./media/He would laugh the loudest over_AAC.aac"></audio>
 
 
 固定搭配
@@ -4235,9 +5682,11 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
  > Countries all over the world name places in similar ways.  
  > 全世界的国家都用相似的方式给地方命名。  （2009 天津）  
+<audio src="./media/over-15.aac"></audio>
 
  > He made speeches all over the USA about his experiences.  
  > 他在美国各地发表演说讲述自己的经历。  （北师大① – 2）  
+<audio src="./media/over-16.aac"></audio>
 
 
 真题解析
@@ -4250,7 +5699,13 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 1. over  2. over  3. over  
 
 # ***\#over*** adv
-英音 'əʊvə(r)     美音 'oʊvər  
+英音 'əʊvə(r)  
+英音
+<audio src="./media/over-B.aac"></audio>
+美音 'oʊvər  
+美音
+<audio src="./media/over.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -4262,27 +5717,33 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
  > Try not to knock that vase over.  
  > 小心别把花瓶碰倒了。    
+<audio src="./media/over-17.aac"></audio>
 
  > He rolled over and went back to sleep.  
  > 他翻了个身又睡着了。    
+<audio src="./media/over-18.aac"></audio>
 
 - 越过；穿过：
 
  > Let me row you over to the other side of the lake.  
  > 我把你摆渡到湖对岸去吧。    
+<audio src="./media/over-19.aac"></audio>
 
 - 在那边；在另一处：
 
  > Did you see that building **over there**?  
  > 你看到那边的那幢建筑了吗？    
+<audio src="./media/over-20.aac"></audio>
 
 - 完全地；整个地：
 
  > The lake was frozen over.  
  > 湖面完全封冻了。    
+<audio src="./media/over-21.aac"></audio>
 
  > Cover her over with a blanket.  
  > 用毯子把她裹住。    
+<audio src="./media/over22.aac"></audio>
 
 ### 2.*高义频：* **超过；剩下来：**  
 
@@ -4291,16 +5752,19 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
  > If there is any food **left over**, put it in the fridge.  
  > 如果有剩余的食物，放到冰箱里。    
+<audio src="./media/over-23.aac"></audio>
 
 ### 3.*高义频：* **再一次；又：**  
 
  > He repeated the text several times over until he could remember it.  
  > 他把课文重复了几遍，直到能记住为止。    
+<audio src="./media/over-24.aac"></audio>
 
 ### 4.*高义频：* **结束：**  
 
  > The birthday party is over and we don’t need the cake any more.  
  > 生日聚会已经结束，我们不再需要蛋糕了。  （2012 全国）  
+<audio src="./media/over-25.aac"></audio>
 
 
 固定搭配
@@ -4310,16 +5774,24 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
  > He did the work so badly that I had to do it all over again myself.  
  > 他工作做得太差劲了,我只好亲自重做。    
+<audio src="./media/over-26.aac"></audio>
 
 ## \#over and over (again)
 1.**反复；再三：**  
 
  > As you know, if you do the same thing over and over again, you begin to do it automatically.  
  > 你知道，如果反反复复地做同样的事，动作就会变得自如起来。  （人教⑥ – 3）  
+<audio src="./media/over-27.aac"></audio>
 
 
 # ***\#over-fishing*** n
-英音 ˌəʊvəfɪʃɪŋ     美音 ˌoʊvərfɪʃɪŋ  
+英音 ˌəʊvəfɪʃɪŋ  
+英音
+<audio src="./media/over-fishing1.aac"></audio>
+美音 ˌoʊvərfɪʃɪŋ  
+美音
+<audio src="./media/over-fishing2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4329,7 +5801,13 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 
 # ***\#overall*** adj
-英音 ˌəʊvər'ɔːl     美音 ˌoʊvər'ɔːl  
+英音 ˌəʊvər'ɔːl  
+英音
+<audio src="./media/overall-B.aac"></audio>
+美音 ˌoʊvər'ɔːl  
+美音
+<audio src="./media/overall.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 2 |  
 
@@ -4345,7 +5823,13 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 
 # ***\#overall*** adv
-英音 ˌəʊvər'ɔːl     美音 ˌoʊvər'ɔːl  
+英音 ˌəʊvər'ɔːl  
+英音
+<audio src="./media/overall-B.aac"></audio>
+美音 ˌoʊvər'ɔːl  
+美音
+<audio src="./media/overall.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 2 |  
 
@@ -4356,10 +5840,17 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
  > Overall, this is a very useful book.  
  > 总的来说，这是一本很有用的书。    
+<audio src="./media/Overall, this is a very useful book_AAC.aac"></audio>
 
 
 # ***\#overboard*** adv
-英音 'əʊvəbɔːd     美音 'əʊvəbɔːd  
+英音 'əʊvəbɔːd  
+英音
+<audio src="./media/overboard-B.aac"></audio>
+美音 'əʊvəbɔːd  
+美音
+<audio src="./media/overboard.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4369,7 +5860,13 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 
 # ***\#overbook*** v
-英音 ˌəʊvəˈbʊk     美音 ˌəʊvərˈbʊk  
+英音 ˌəʊvəˈbʊk  
+英音
+<audio src="./media/overbook1_AAC.aac"></audio>
+美音 ˌəʊvərˈbʊk  
+美音
+<audio src="./media/overbook2_AAC.aac"></audio>
+
 
   
 
@@ -4379,7 +5876,13 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 
 # ***\#overbridge*** n
-英音 ˈəʊvəbrɪdʒ     美音 ˈəʊvərbrɪdʒ  
+英音 ˈəʊvəbrɪdʒ  
+英音
+<audio src="./media/overbridge1_AAC.aac"></audio>
+美音 ˈəʊvərbrɪdʒ  
+美音
+<audio src="./media/overbridge2_AAC.aac"></audio>
+
 
   
 
@@ -4389,7 +5892,13 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 
 # ***\#overcoat*** n
-英音 'əʊvəkəʊt     美音 'oʊvərkoʊt  
+英音 'əʊvəkəʊt  
+英音
+<audio src="./media/overcoat-B.aac"></audio>
+美音 'oʊvərkoʊt  
+美音
+<audio src="./media/overcoat.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -4401,7 +5910,13 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 
 # ***\#overcome*** vt
-英音 ˌəʊvə'kʌm     美音 ˌoʊvər'kʌm  
+英音 ˌəʊvə'kʌm  
+英音
+<audio src="./media/overcome-B.aac"></audio>
+美音 ˌoʊvər'kʌm  
+美音
+<audio src="./media/overcome.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 | 阅读 3 |  
 
@@ -4416,18 +5931,27 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
  > If you work hard, you will overcome this problem.  
  > 如果你努力的话，就会克服这个困难。  （北师大⑤ – 14）  
+<audio src="./media/overcome-1.aac"></audio>
 
 ### 2.*高义频：* **[常用于被动语态] 受到…的极大影响：**  
 
  > Overcome by curiosity, the boy looked out the window.  
  > 受好奇心驱使，小孩向窗外望去。    
+<audio src="./media/overcome-2.aac"></audio>
 
  > When Boya learnt about Zhong Ziqi 's death, he was overcome with sorrow.  
  > 伯牙得知钟子期的死讯，悲痛欲绝。  （译林新选必① – 2）  
+<audio src="./media/When Boya learnt about Zhong Ziqi 's death2_AAC.aac"></audio>
 
 
 # ***\#overcrowded*** adj
-英音 ˌəʊvəˈkraʊdɪd     美音 ˌəʊvərˈkraʊdɪd  
+英音 ˌəʊvəˈkraʊdɪd  
+英音
+<audio src="./media/overcrowded1_AAC.aac"></audio>
+美音 ˌəʊvərˈkraʊdɪd  
+美音
+<audio src="./media/overcrowded2_AAC.aac"></audio>
+
 
   
 
@@ -4437,7 +5961,13 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 
 # ***\#overdo*** vt
-英音 ˌəʊvəˈduː     美音 ˌəʊvərˈduː  
+英音 ˌəʊvəˈduː  
+英音
+<audio src="./media/overdo1_AAC.aac"></audio>
+美音 ˌəʊvərˈduː  
+美音
+<audio src="./media/overdo2_AAC.aac"></audio>
+
 
   
 
@@ -4447,10 +5977,17 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
  > Training too much can be bad for your health, so you make sure you **do not overdo it**.  
  > 过多的训练对健康有害，所以要确保不要锻炼过度。  （北师大新必修① – 2）  
+<audio src="./media/Training too much can be bad for your health2_AAC.aac"></audio>
 
 
 # ***\#overeat*** v
-英音 ˌəʊvərˈiːt     美音 ˌəʊvərˈiːt  
+英音 ˌəʊvərˈiːt  
+英音
+<audio src="./media/overeat1_AAC.aac"></audio>
+美音 ˌəʊvərˈiːt  
+美音
+<audio src="./media/overeat2_AAC.aac"></audio>
+
 
   
 
@@ -4460,7 +5997,13 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 
 # ***\#overeating*** n
-英音 ˌəʊvərˈiːtɪŋ     美音 ˌəʊvərˈiːtɪŋ  
+英音 ˌəʊvərˈiːtɪŋ  
+英音
+<audio src="./media/overeating1_AAC.aac"></audio>
+美音 ˌəʊvərˈiːtɪŋ  
+美音
+<audio src="./media/overeating2_AAC.aac"></audio>
+
 
   
 
@@ -4470,7 +6013,13 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 
 # ***\#overexcited*** adj
-英音 ˌəʊvərɪkˈsaɪtɪd     美音 ˌəʊvərɪkˈsaɪtɪd  
+英音 ˌəʊvərɪkˈsaɪtɪd  
+英音
+<audio src="./media/overexcited1_AAC.aac"></audio>
+美音 ˌəʊvərɪkˈsaɪtɪd  
+美音
+<audio src="./media/overexcited2_AAC.aac"></audio>
+
 
   
 
@@ -4480,7 +6029,13 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 
 # ***\#overflow*** v
-英音 ˌəʊvəˈfləʊ     美音 ˌəʊvərˈfləʊ  
+英音 ˌəʊvəˈfləʊ  
+英音
+<audio src="./media/overflow1_AAC.aac"></audio>
+美音 ˌəʊvərˈfləʊ  
+美音
+<audio src="./media/overflow2_AAC.aac"></audio>
+
 
   
 
@@ -4490,7 +6045,13 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 
 # ***\#overhead*** adv
-英音 ˌəʊvə'hed     美音 ˌoʊvər'hed  
+英音 ˌəʊvə'hed  
+英音
+<audio src="./media/overhead-B.aac"></audio>
+美音 ˌoʊvər'hed  
+美音
+<audio src="./media/overhead.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -4500,10 +6061,17 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
  > Birds flew overhead and cried out in joy.  
  > 鸟儿在空中飞过，发出欢快的叫声。    
+<audio src="./media/overhead-1.aac"></audio>
 
 
 # ***\#overhead*** adj
-英音 ˌəʊvə'hed     美音 ˌoʊvər'hed  
+英音 ˌəʊvə'hed  
+英音
+<audio src="./media/overhead-B.aac"></audio>
+美音 ˌoʊvər'hed  
+美音
+<audio src="./media/overhead.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -4519,7 +6087,13 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 
 # ***\#overjoyed*** adj
-英音 ˌəʊvəˈdʒɔɪd     美音 ˌəʊvərˈdʒɔɪd  
+英音 ˌəʊvəˈdʒɔɪd  
+英音
+<audio src="./media/overjoyed1_AAC.aac"></audio>
+美音 ˌəʊvərˈdʒɔɪd  
+美音
+<audio src="./media/overjoyed2_AAC.aac"></audio>
+
 
   
 
@@ -4529,7 +6103,13 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 
 # ***\#overlook*** vt
-英音 ˌəʊvə'lʊk     美音 ˌoʊvər'lʊk  
+英音 ˌəʊvə'lʊk  
+英音
+<audio src="./media/overlook-B.aac"></audio>
+美音 ˌoʊvər'lʊk  
+美音
+<audio src="./media/overlook.aac"></audio>
+
 
 | 词频 3 | 阅读 3 |  
 
@@ -4539,20 +6119,29 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
  > The house was small and charming, overlooking a quiet lake.  
  > 房子小而迷人，俯瞰一个平静的湖。  （2015 天津改）  
+<audio src="./media/P314 overlook1.aac"></audio>
 
 ### 2.*高义频：* **忽略；未注意 (miss)：**  
 
  > It is easy to overlook a small detail like that.  
  > 那样的小细节很容易被忽略。    
+<audio src="./media/overlook-1.aac"></audio>
 
 ### 3.*低义频：* **不追究 (过失等) ：**  
 
  > I overlooked his fault.  
  > 我没有追究他的过错。    
+<audio src="./media/overlook-2.aac"></audio>
 
 
 # ***\#overnight*** adv
-英音 ˌəʊvə'naɪt     美音 ˌoʊvər'naɪt  
+英音 ˌəʊvə'naɪt  
+英音
+<audio src="./media/Overnight-adv-B.aac"></audio>
+美音 ˌoʊvər'naɪt  
+美音
+<audio src="./media/overnight.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -4562,6 +6151,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
  > After **staying overnight** in London, we traveled to northern France.  
  > 在伦敦住了一晚后，我们去了法国北部。  （2018 全国改）  
+<audio src="./media/After staying overnight in London_AAC.aac"></audio>
 
 ### 2.*低义频：* **一下子；突然：**  
 
@@ -4570,7 +6160,13 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 
 # ***\#overnight*** adj
-英音 'əʊvənaɪt     美音 'oʊvərnaɪt  
+英音 'əʊvənaɪt  
+英音
+<audio src="./media/overnight-B.aac"></audio>
+美音 'oʊvərnaɪt  
+美音
+<audio src="./media/overnight---1.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -4580,15 +6176,23 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
  > We have overnight business service.  
  > 我们提供通宵服务。    
+<audio src="./media/overnight-2.aac"></audio>
 
 ### 2.*低义频：* **突然的：**  
 
  > The show was an overnight success.  
  > 这场演出一举成功。    
+<audio src="./media/overnight-3.aac"></audio>
 
 
 # ***\#overpass*** n
-英音 'əʊvəpɑːs     美音 'oʊvərpæs  
+英音 'əʊvəpɑːs  
+英音
+<audio src="./media/overpass-B.aac"></audio>
+美音 'oʊvərpæs  
+美音
+<audio src="./media/overpass.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4600,7 +6204,13 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 
 # ***\#overseas*** adv
-英音 ˌəʊvə'siːz     美音 ˌoʊvər'siːz  
+英音 ˌəʊvə'siːz  
+英音
+<audio src="./media/overseas-B.aac"></audio>
+美音 ˌoʊvər'siːz  
+美音
+<audio src="./media/overseas.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 1 |  
 
@@ -4610,10 +6220,17 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
  > He is going to **work overseas**.  
  > 他将去国外工作。    
+<audio src="./media/overseas-1.aac"></audio>
 
 
 # ***\#overseas*** adj
-英音 ˌəʊvə'siːz     美音 ˌoʊvər'siːz  
+英音 ˌəʊvə'siːz  
+英音
+<audio src="./media/overseas-B.aac"></audio>
+美音 ˌoʊvər'siːz  
+美音
+<audio src="./media/overseas.aac"></audio>
+
 
 | 词频 3 | 书面 1 |  
 
@@ -4623,10 +6240,17 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
  > I received an overseas phone call from my friend in Paris.  
  > 我接到了一个在巴黎的朋友打来的越洋电话。    
+<audio src="./media/overseas-2.aac"></audio>
 
 
 # ***\#overstatement*** n
-英音 overstatement     美音 overstatement  
+英音 overstatement  
+英音
+<audio src="./media/overstatement1_AAC.aac"></audio>
+美音 overstatement  
+美音
+<audio src="./media/overstatement2_AAC.aac"></audio>
+
 
   
 
@@ -4636,7 +6260,13 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 
 # ***\#overtake*** vt
-英音 ˌəʊvə'teɪk     美音 ˌoʊvər'teɪk  
+英音 ˌəʊvə'teɪk  
+英音
+<audio src="./media/overtake-B.aac"></audio>
+美音 ˌoʊvər'teɪk  
+美音
+<audio src="./media/overtake.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -4648,10 +6278,17 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
  > China overtook Japan and became the world’s second largest economy in 2010.  
  > 2010年中国超越日本，成为世界第二大经济体。    
+<audio src="./media/overtake-1.aac"></audio>
 
 
 # ***\#overthrow*** vt
-英音 'əʊvəθrəʊ     美音 'oʊvərθroʊ  
+英音 'əʊvəθrəʊ  
+英音
+<audio src="./media/overthrow1_AAC.aac"></audio>
+美音 'oʊvərθroʊ  
+美音
+<audio src="./media/overthrow2_AAC.aac"></audio>
+
 
   
 
@@ -4661,7 +6298,13 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 
 # ***\#overthrow*** n
-英音 'əʊvəθrəʊ     美音 'oʊvərθroʊ  
+英音 'əʊvəθrəʊ  
+英音
+<audio src="./media/overthrow1_AAC.aac"></audio>
+美音 'oʊvərθroʊ  
+美音
+<audio src="./media/overthrow2_AAC.aac"></audio>
+
 
   
 
@@ -4671,7 +6314,13 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 
 # ***\#overtime*** n
-英音 'əʊvətaɪm     美音 'oʊvərtaɪm  
+英音 'əʊvətaɪm  
+英音
+<audio src="./media/overtime1.aac"></audio>
+美音 'oʊvərtaɪm  
+美音
+<audio src="./media/overtime2.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -4681,7 +6330,13 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 
 # ***\#overuse*** vt
-英音 ˌəʊvəˈjuːs     美音 ˌəʊvərˈjuːs  
+英音 ˌəʊvəˈjuːs  
+英音
+<audio src="./media/overuse1_AAC.aac"></audio>
+美音 ˌəʊvərˈjuːs  
+美音
+<audio src="./media/overuse2_AAC.aac"></audio>
+
 
   
 
@@ -4691,7 +6346,13 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 
 # ***\#overview*** n
-英音 'əʊvəvjuː     美音 'oʊvərvjuː  
+英音 'əʊvəvjuː  
+英音
+<audio src="./media/overview1.aac"></audio>
+美音 'oʊvərvjuː  
+美音
+<audio src="./media/overview2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4701,7 +6362,13 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
 
 # ***\#overweight*** adj
-英音 ˌəʊvə'weɪt     美音 ˌoʊvər'weɪt  
+英音 ˌəʊvə'weɪt  
+英音
+<audio src="./media/overweight-B.aac"></audio>
+美音 ˌoʊvər'weɪt  
+美音
+<audio src="./media/overweight.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -4711,13 +6378,21 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
  > Fifteen percent of American children aged between 6 to 18 are overweight.  
  > 6至18岁的美国孩子中，15%的人超重。  （2010 上海改）  
+<audio src="./media/Fifteen percent of American_AAC.aac"></audio>
 
  > This parcel is overweight by two kilos.  
  > 这个包裹超重两公斤。    
+<audio src="./media/overweight-2.aac"></audio>
 
 
 # ***\#overwhelm*** vt
-英音 ˌəʊvə'welm     美音 ˌoʊvər'welm  
+英音 ˌəʊvə'welm  
+英音
+<audio src="./media/Overwhelm-B.aac"></audio>
+美音 ˌoʊvər'welm  
+美音
+<audio src="./media/overwhelm.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4729,6 +6404,7 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 
  > I **was overwhelmed by** all the flowers and letters of support I received.  
  > 收到那么多的鲜花和支持信，我激动得不知如何是好。    
+<audio src="./media/overwhelm-1.aac"></audio>
 
 
 派生词汇
@@ -4736,7 +6412,13 @@ Notes: over常与感情动词cry, weep, laugh, mourn, sigh 等连用，表示原
 overwhelming /ˌəʊvə'welmɪŋ/ adj   
 
 # ***\#overwhelming*** adj
-英音 ˌəʊvəˈwelmɪŋ     美音 ˌəʊvərˈwelmɪŋ  
+英音 ˌəʊvəˈwelmɪŋ  
+英音
+<audio src="./media/overwhelming1_AAC.aac"></audio>
+美音 ˌəʊvərˈwelmɪŋ  
+美音
+<audio src="./media/overwhelming2_AAC.aac"></audio>
+
 
   
 
@@ -4746,7 +6428,13 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 
 
 # ***\#owe*** vt
-英音 əʊ     美音 oʊ  
+英音 əʊ  
+英音
+<audio src="./media/owe-B.aac"></audio>
+美音 oʊ  
+美音
+<audio src="./media/owe.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 1 | 阅读 2 |  
 
@@ -4758,6 +6446,7 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 
  > She still owes her father $5,000. / She still owes $5,000 to her father.  
  > 她还欠她父亲5000美元。    
+<audio src="./media/owe-1.aac"></audio>
 
 ### 2.*高义频：* **应给予：**  
 
@@ -4765,6 +6454,7 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 
  > I owe him an apology. / I owe an apology to him.  
  > 我得向他道歉。    
+<audio src="./media/owe-2.aac"></audio>
 
 ### 3.*低义频：* **应该把...归功于：**  
 
@@ -4772,13 +6462,21 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 
  > He owes his good health to his regular life.  
  > 他把自身的健康归功于生活有规律。    
+<audio src="./media/owe-4.aac"></audio>
 
  > These early settlers owed their survival to hard work and determination to succeed.   
  > 这些早期的移民把他们的幸存归功于艰苦的劳动和必胜的决心。  （人教⑨ – 3）  
+<audio src="./media/owe-5.aac"></audio>
 
 
 # ***\#own*** adj
-英音 əʊn     美音 oʊn  
+英音 əʊn  
+英音
+<audio src="./media/own-B.aac"></audio>
+美音 oʊn  
+美音
+<audio src="./media/own.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -4790,10 +6488,17 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 
  > I won’t believe you until I’ve seen it with my own eyes.  
  > 直到我亲眼看到我才会相信你的话。    
+<audio src="./media/own-1.aac"></audio>
 
 
 # ***\#own*** pron
-英音 əʊn     美音 oʊn  
+英音 əʊn  
+英音
+<audio src="./media/own-B.aac"></audio>
+美音 oʊn  
+美音
+<audio src="./media/own.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -4805,12 +6510,15 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 
  > I only borrowed it; it’s not my own.  
  > 这只是我借来的，不是我自己的。    
+<audio src="./media/own-2.aac"></audio>
 
  > He has a mind of his own.  
  > 他有自己的想法    
+<audio src="./media/own-3.aac"></audio>
 
  > I’d like to have a house **of my own**.  
  > 我想有一套自己的房子。    
+<audio src="./media/own-4.aac"></audio>
 
 
 固定搭配
@@ -4820,13 +6528,21 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 
  > My grandmother lives all on her own.  
  > 我祖母独自一个人生活。    
+<audio src="./media/own-5.aac"></audio>
 
  > It is working in teams instead of on my own that has made my work more efficient.  
  > 是团队协作而不是自己独自工作使我的工作效率更高。  （2011 湖北书面表达）  
+<audio src="./media/It is working in teams instead_AAC.aac"></audio>
 
 
 # ***\#own*** vt
-英音 əʊn     美音 oʊn  
+英音 əʊn  
+英音
+<audio src="./media/own-B.aac"></audio>
+美音 oʊn  
+美音
+<audio src="./media/own.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -4836,10 +6552,17 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 
  > A hundred years ago, very few people owned cars.  
  > 一百年前，很少有人拥有汽车。  （外研① – 7）  
+<audio src="./media/own-7.aac"></audio>
 
 
 # ***\#owner*** n
-英音 'əʊnə(r)     美音 'oʊnər  
+英音 'əʊnə(r)  
+英音
+<audio src="./media/owner-B.aac"></audio>
+美音 'oʊnər  
+美音
+<audio src="./media/owner.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -4851,7 +6574,13 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 
 
 # ***\#ownership*** n
-英音 'əʊnəʃɪp     美音 'oʊnərʃɪp  
+英音 'əʊnəʃɪp  
+英音
+<audio src="./media/ownership-B.aac"></audio>
+美音 'oʊnərʃɪp  
+美音
+<audio src="./media/ownership.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 1 |  
 
@@ -4863,10 +6592,17 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 
  > The property remained in the ownership of Shakespeare’s family until 1806.  
  > 此房产在1806年之前一直归莎士比亚家族所有。  （2010 全国）  
+<audio src="./media/ownership-1.aac"></audio>
 
 
 # ***\#ox*** n
-英音 ɒks     美音 ɑːks  
+英音 ɒks  
+英音
+<audio src="./media/ox-B.aac"></audio>
+美音 ɑːks  
+美音
+<audio src="./media/ox.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -4878,7 +6614,13 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 
 
 # ***\#oxide*** n
-英音 'ɒksaɪd     美音 'ɑːksaɪd  
+英音 'ɒksaɪd  
+英音
+<audio src="./media/oxide1.aac"></audio>
+美音 'ɑːksaɪd  
+美音
+<audio src="./media/oxide2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4888,7 +6630,13 @@ overwhelming /ˌəʊvə'welmɪŋ/ adj
 
 
 # ***\#oxygen*** n
-英音 'ɒksɪdʒən     美音 'ɑːksɪdʒən  
+英音 'ɒksɪdʒən  
+英音
+<audio src="./media/oxygen-B.aac"></audio>
+美音 'ɑːksɪdʒən  
+美音
+<audio src="./media/oxygen.aac"></audio>
+
 
 | 词频 3 |  
 
