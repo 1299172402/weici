@@ -1,7 +1,13 @@
 # Vv
 
 # ***\#vacant*** adj
-英音 'veɪkənt     美音 'veɪkənt  
+英音 'veɪkənt  
+英音
+<audio src="./media/vacant-B.aac"></audio>
+美音 'veɪkənt  
+美音
+<audio src="./media/vacant.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -14,10 +20,17 @@
 
  > The house had been vacant for a long time and so it was very dusty.   
  > 这所房子空置了很久，布满了灰尘。  （人教⑩ – 2）  
+<audio src="./media/1-vacant.aac"></audio>
 
 
 # ***\#vacation*** n
-英音 və'keɪʃn, veɪ'keɪʃn     美音 veɪ'keɪʃn, və'keɪʃn  
+英音 və'keɪʃn, veɪ'keɪʃn  
+英音
+<audio src="./media/vacation1.aac"></audio>
+美音 veɪ'keɪʃn, və'keɪʃn  
+美音
+<audio src="./media/vacation-m.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -38,16 +51,24 @@
 
  > The first thing I’m going to do is to take a long vacation!   
  > 我要做的第一件事是休一个长假。  （外研⑦ – 2）  
+<audio src="./media/1-vacation.aac"></audio>
 
 ## \#on vacation 
 1.**在度假：**  
 
  > Some people write postcards while they are on vacation and send them to friends.   
  > 一些人在度假的时候写明信片并寄给朋友。  （2012 湖南改）  
+<audio src="./media/2-vacation.aac"></audio>
 
 
 # ***\#vaccination*** n
-英音 ˌvæksɪ'neɪʃn     美音 ˌvæksɪ'neɪʃn  
+英音 ˌvæksɪ'neɪʃn  
+英音
+<audio src="./media/vaccination-B.aac"></audio>
+美音 ˌvæksɪ'neɪʃn  
+美音
+<audio src="./media/vaccination.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -59,7 +80,13 @@
 
 
 # ***\#vaccine*** n
-英音 ˈvæksiːn     美音 vækˈsiːn  
+英音 ˈvæksiːn  
+英音
+<audio src="./media/vaccine1_AAC.aac"></audio>
+美音 vækˈsiːn  
+美音
+<audio src="./media/vaccine2_AAC.aac"></audio>
+
 
   
 
@@ -69,7 +96,13 @@
 
 
 # ***\#vacuum*** n
-英音 'vækjuəm     美音 'vækjuəm  
+英音 'vækjuəm  
+英音
+<audio src="./media/vacuum1.aac"></audio>
+美音 'vækjuəm  
+美音
+<audio src="./media/vacuum2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -79,7 +112,13 @@
 
 
 # ***\#vague*** adj
-英音 veɪɡ     美音 veɪɡ  
+英音 veɪɡ  
+英音
+<audio src="./media/vague-B.aac"></audio>
+美音 veɪɡ  
+美音
+<audio src="./media/vague.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -92,10 +131,17 @@
 
  > I usually remember people’s faces but I am often **vague about** their names.   
  > 我通常能记住人们的面孔，但经常记不清他们的名字。  （人教⑩ – 4）  
+<audio src="./media/1-vague.aac"></audio>
 
 
 # ***\#vain*** adj
-英音 veɪn     美音 veɪn  
+英音 veɪn  
+英音
+<audio src="./media/vain-B.aac"></audio>
+美音 veɪn  
+美音
+<audio src="./media/vain.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -111,6 +157,7 @@
 
  > I have tried very hard to find a solution to the problem, but in vain.   
  > 我曾苦苦地探求解决问题的办法，但都是徒劳。  （2010 江苏）  
+<audio src="./media/1-vain.aac"></audio>
 
 
 真题解析
@@ -121,7 +168,13 @@
 1. in  
 
 # ***\#vale*** n
-英音 veɪl     美音 veɪl  
+英音 veɪl  
+英音
+<audio src="./media/vale1_AAC.aac"></audio>
+美音 veɪl  
+美音
+<audio src="./media/vale2_AAC.aac"></audio>
+
 
   
 
@@ -131,7 +184,13 @@
 
 
 # ***\#valid*** adj
-英音 'vælɪd     美音 'vælɪd  
+英音 'vælɪd  
+英音
+<audio src="./media/valid-B.aac"></audio>
+美音 'vælɪd  
+美音
+<audio src="./media/valid.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -144,10 +203,17 @@
 
  > Oversleeping is not a valid excuse for being late for school.   
  > 睡过头并不是上学迟到的正当理由。    
+<audio src="./media/1-valid.aac"></audio>
 
 
 # ***\#valley*** n
-英音 'væli     美音 'væli  
+英音 'væli  
+英音
+<audio src="./media/valley-B.aac"></audio>
+美音 'væli  
+美音
+<audio src="./media/valley.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 |  
 
@@ -159,7 +225,13 @@
 
 
 # ***\#valuable*** adj
-英音 'væljuəbl     美音 'væljuəbl  
+英音 'væljuəbl  
+英音
+<audio src="./media/valuable-B.aac"></audio>
+美音 'væljuəbl  
+美音
+<audio src="./media/valuable.aac"></audio>
+
 
 | 词频 4 | 书面 1 |  
 
@@ -170,15 +242,18 @@
 
  > Her grandfather left her a valuable ring.   
  > 她的祖父留给她一枚贵重的戒指。    
+<audio src="./media/3-valuable.aac"></audio>
 
 ### 2.*高义频：* **宝贵的；有价值的**  
 英译 very useful or important：
 
  > Although skills and talents bring great success, the most valuable thing one can hold is the heart.  
  > 尽管技能和天赋会带来极大的成功，但一个人所拥有的最宝贵的东西是心灵。  （2016 天津）  
+<audio src="./media/valuable50.aac"></audio>
 
  > This gave him a valuable clue about the cause of the disease.   
  > 这为他查明病因提供了一条很有价值的线索。  （人教⑤ – 1）  
+<audio src="./media/2-valuable.aac"></audio>
 
 
 派生词汇
@@ -186,7 +261,13 @@
 invaluable /ɪn'væljuəbl/ adj   
 
 # ***\#value*** n
-英音 'væljuː     美音 'væljuː  
+英音 'væljuː  
+英音
+<audio src="./media/value-B.aac"></audio>
+美音 'væljuː  
+美音
+<audio src="./media/value.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 3 |  
 
@@ -197,6 +278,7 @@ invaluable /ɪn'væljuəbl/ adj
 
  > As a big-time bargain hunter, I know the **value of** a dollar.   
  > 作为一位顶级的淘便宜货的人，我知道1美元的价值。  （2013 全国改）  
+<audio src="./media/value-1.aac"></audio>
 
  > **market value**    
  > 市场价格  （2010 全国）  
@@ -209,18 +291,21 @@ invaluable /ɪn'væljuəbl/ adj
 
  > Every customer is looking for **value for money** (= good value).   
  > 每位顾客都想买到划算的东西。    
+<audio src="./media/value-2.aac"></audio>
 
 ### 3.*高义频：* **[U] 重要性；用处；益处**  
 英译 the importance of sth (benefit)：
 
  > Most people know the **value of** a good education.   
  > 大多数人都知道良好教育的重要性。    
+<audio src="./media/value-3.aac"></audio>
 
 ### 4.*高义频：* **[用复数] 价值观念；社会准则**  
 英译 mor a l or professional standards of behaviour; principles：
 
  > During the Renaissance, new ideas and values gradually replaced those held in the Middle Ages.  
  > 文艺复兴时期，新思想和新观念逐渐取代了中世纪的思想和观念。  （人教⑥ – 1）  
+<audio src="./media/value-4.aac"></audio>
 
 
 固定搭配
@@ -230,10 +315,17 @@ invaluable /ɪn'væljuəbl/ adj
 
  > Sports can be **of great value**, especially to people who work with their brains most of the day.   
  > 体育运动很有益处，对那些每天大部分时间都在从事脑力劳动的人来说更是如此。    
+<audio src="./media/value-5.aac"></audio>
 
 
 # ***\#value*** vt
-英音 'væljuː     美音 'væljuː  
+英音 'væljuː  
+英音
+<audio src="./media/value-B.aac"></audio>
+美音 'væljuː  
+美音
+<audio src="./media/value.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -245,18 +337,27 @@ invaluable /ɪn'væljuəbl/ adj
 
  > How do you **value** him **as** a writer?  
  > 他作为作家，你如何评价他？    
+<audio src="./media/value-6.aac"></audio>
 
  > He **valued** the painting **at** $2,000.   
  > 他给这幅画估价2000美元。    
+<audio src="./media/value-7.aac"></audio>
 
 ### 2.*高义频：* **重视；珍惜：**  
 
  > We should value what we have and try our best to overcome any difficulty in life.  
  > 我们应该珍惜我们所拥有的，并尽最大努力克服生活中的困难。  （2008 湖南书面表达）  
+<audio src="./media/value-8.aac"></audio>
 
 
 # ***\#valued*** adj
-英音 'væljuːd     美音 'væljuːd  
+英音 'væljuːd  
+英音
+<audio src="./media/valued1.aac"></audio>
+美音 'væljuːd  
+美音
+<audio src="./media/valued2.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -266,7 +367,13 @@ invaluable /ɪn'væljuəbl/ adj
 
 
 # ***\#van*** n
-英音 væn     美音 væn  
+英音 væn  
+英音
+<audio src="./media/van1_AAC.aac"></audio>
+美音 væn  
+美音
+<audio src="./media/van2_AAC.aac"></audio>
+
 
   
 
@@ -276,7 +383,13 @@ invaluable /ɪn'væljuəbl/ adj
 
 
 # ***\#vanguard*** n
-英音 'vænɡɑːd     美音 'vænɡɑːrd  
+英音 'vænɡɑːd  
+英音
+<audio src="./media/vanguard1.aac"></audio>
+美音 'vænɡɑːrd  
+美音
+<audio src="./media/vanguard2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -286,7 +399,13 @@ invaluable /ɪn'væljuəbl/ adj
 
 
 # ***\#vanish*** vi
-英音 'vænɪʃ     美音 'vænɪʃ  
+英音 'vænɪʃ  
+英音
+<audio src="./media/vanish-B.aac"></audio>
+美音 'vænɪʃ  
+美音
+<audio src="./media/vanish.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -296,13 +415,21 @@ invaluable /ɪn'væljuəbl/ adj
 
  > The cat stepped forward, and vanished.   
  > 那只猫向前走了几步，不见了。  （外研⑥ – 2）  
+<audio src="./media/1-vanish.aac"></audio>
 
  > Many kinds of animals have **vanished from** the earth.   
  > 许多种动物已在地球上绝迹。    
+<audio src="./media/3-vanish.aac"></audio>
 
 
 # ***\#vapour*** n
-英音 'veɪpə(r)     美音 'veɪpər  
+英音 'veɪpə(r)  
+英音
+<audio src="./media/vapour-B.aac"></audio>
+美音 'veɪpər  
+美音
+<audio src="./media/vapour.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -314,7 +441,13 @@ invaluable /ɪn'væljuəbl/ adj
 
 
 # ***\#variation*** n
-英音 ˌveəri'eɪʃn     美音 ˌveri'eɪʃn  
+英音 ˌveəri'eɪʃn  
+英音
+<audio src="./media/variation-B.aac"></audio>
+美音 ˌveri'eɪʃn  
+美音
+<audio src="./media/variation.aac"></audio>
+
 
 | 词频 1 | 书面 2 |  
 
@@ -329,10 +462,17 @@ invaluable /ɪn'væljuəbl/ adj
 
  > After all, there is probably as much **variation of** pronunciation within the two countries as between them.   
  > 毕竟，两个国家各自内部的口音差别可能跟两国之间的口音差别一样大。  （外研⑤-1）  
+<audio src="./media/1-variation.aac"></audio>
 
 
 # ***\#varied*** adj
-英音 'veərid     美音 'verid  
+英音 'veərid  
+英音
+<audio src="./media/varied1.aac"></audio>
+美音 'verid  
+美音
+<audio src="./media/varied2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -342,7 +482,13 @@ invaluable /ɪn'væljuəbl/ adj
 
 
 # ***\#variety*** n
-英音 və'raɪəti     美音 və'raɪəti  
+英音 və'raɪəti  
+英音
+<audio src="./media/variety-B.aac"></audio>
+美音 və'raɪəti  
+美音
+<audio src="./media/variety.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 3 |  
 
@@ -352,9 +498,11 @@ invaluable /ɪn'væljuəbl/ adj
 
  > Chinese food is famous for its **wide variety**.  
  > 中餐以菜系多样而闻名。  （2009 重庆）  
+<audio src="./media/1-variety.aac"></audio>
 
  > Variety is the spice of life.  
  > 变化是生活的调味品。    
+<audio src="./media/Variety4.aac"></audio>
 
 ### 2.*高义频：* **(同类物品的) 种类：**  
 
@@ -369,6 +517,7 @@ invaluable /ɪn'væljuəbl/ adj
 
  > The club offers **a wide variety of** games to the local teenagers.  
  > 俱乐部给当地的青少年提供丰富多样的游戏。    
+<audio src="./media/3-variety.aac"></audio>
 
 
 真题解析
@@ -379,7 +528,13 @@ invaluable /ɪn'væljuəbl/ adj
 1. a great / wide variety of  
 
 # ***\#various*** adj
-英音 'veəriəs     美音 'veriəs  
+英音 'veəriəs  
+英音
+<audio src="./media/various-B.aac"></audio>
+美音 'veriəs  
+美音
+<audio src="./media/various.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 |  
 
@@ -392,9 +547,11 @@ invaluable /ɪn'væljuəbl/ adj
 
  > As a child, Chamberlain had various health problems.  
  > 孩童时的张伯伦有着各种各样的健康问题。  （外研⑦ – 1）  
+<audio src="./media/1-various.aac"></audio>
 
  > We may have various ways to deal with such a situation.  
  > 也许我们有各种各样的方法来应对这一情况。  （2015 湖北书面表达）  
+<audio src="./media/We may have various_AAC.aac"></audio>
 
 
 派生词汇
@@ -402,7 +559,13 @@ invaluable /ɪn'væljuəbl/ adj
 variously /'veəriəsli/ adv   
 
 # ***\#vary*** v
-英音 'veəri     美音 'veri  
+英音 'veəri  
+英音
+<audio src="./media/vary-B.aac"></audio>
+美音 'veri  
+美音
+<audio src="./media/vary.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 2 |  
 
@@ -415,14 +578,17 @@ variously /'veəriəsli/ adv
 
  > Test scores **vary from** school **to** school.  
  > 测验成绩各校不同。    
+<audio src="./media/vary51.aac"></audio>
 
 ### 2.*高义频：* **vi & vt 变化；改变：**  
 
  > The weather here **varies from** hour **to** hour.  
  > 这儿的天气时刻都在变化。    
+<audio src="./media/2-vary.aac"></audio>
 
  > My doctor said I should vary my diet more.  
  > 医生说我的日常饮食应该更多样化。    
+<audio src="./media/vary52.aac"></audio>
 
 
 派生词汇
@@ -430,7 +596,13 @@ variously /'veəriəsli/ adv
 varied /'veərid/ adj   
 
 # ***\#vase*** n
-英音 vɑːz     美音 veɪs  
+英音 vɑːz  
+英音
+<audio src="./media/vase-B.aac"></audio>
+美音 veɪs  
+美音
+<audio src="./media/vase.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -442,7 +614,13 @@ varied /'veərid/ adj
 
 
 # ***\#vast*** adj
-英音 vɑːst     美音 væst  
+英音 vɑːst  
+英音
+<audio src="./media/vast-B.aac"></audio>
+美音 væst  
+美音
+<audio src="./media/vast.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 2 |  
 
@@ -458,7 +636,13 @@ varied /'veərid/ adj
 
 
 # ***\#vault*** n
-英音 vɔːlt     美音 vɔːlt  
+英音 vɔːlt  
+英音
+<audio src="./media/vault1.aac"></audio>
+美音 vɔːlt  
+美音
+<audio src="./media/vault2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -468,7 +652,13 @@ varied /'veərid/ adj
 
 
 # ***\#vegetable*** n
-英音 'vedʒtəbl     美音 'vedʒtəbl  
+英音 'vedʒtəbl  
+英音
+<audio src="./media/vegetable-B.aac"></audio>
+美音 'vedʒtəbl  
+美音
+<audio src="./media/vegetable.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 |  
 
@@ -487,7 +677,13 @@ varied /'veərid/ adj
 1. vegetables  
 
 # ***\#vegetarian*** adj
-英音 ˌvedʒə'teəriən     美音 ˌvedʒə'teriən  
+英音 ˌvedʒə'teəriən  
+英音
+<audio src="./media/vegetarian1_AAC.aac"></audio>
+美音 ˌvedʒə'teriən  
+美音
+<audio src="./media/vegetarian2_AAC.aac"></audio>
+
 
   
 
@@ -497,7 +693,13 @@ varied /'veərid/ adj
 
 
 # ***\#vegetarian*** n
-英音 ˌvedʒə'teəriən     美音 ˌvedʒə'teriən  
+英音 ˌvedʒə'teəriən  
+英音
+<audio src="./media/vegetarian1_AAC.aac"></audio>
+美音 ˌvedʒə'teriən  
+美音
+<audio src="./media/vegetarian2_AAC.aac"></audio>
+
 
   
 
@@ -507,7 +709,13 @@ varied /'veərid/ adj
 
 
 # ***\#vegetation*** n
-英音 ˌvedʒəˈteɪʃn     美音 ˌvedʒəˈteɪʃn  
+英音 ˌvedʒəˈteɪʃn  
+英音
+<audio src="./media/vegetation1_AAC.aac"></audio>
+美音 ˌvedʒəˈteɪʃn  
+美音
+<audio src="./media/vegetation2_AAC.aac"></audio>
+
 
   
 
@@ -517,7 +725,13 @@ varied /'veərid/ adj
 
 
 # ***\#vehicle*** n
-英音 'viːəkl     美音 'viːəkl  
+英音 'viːəkl  
+英音
+<audio src="./media/vehicle-B.aac"></audio>
+美音 'viːəkl  
+美音
+<audio src="./media/vehicle.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -529,10 +743,17 @@ varied /'veərid/ adj
 
  > Cars and trucks are vehicles.  
  > 小汽车和大卡车都是运载工具。    
+<audio src="./media/1-vehicle.aac"></audio>
 
 
 # ***\#vein*** n
-英音 veɪn     美音 veɪn  
+英音 veɪn  
+英音
+<audio src="./media/vein-B.aac"></audio>
+美音 veɪn  
+美音
+<audio src="./media/vein.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -544,7 +765,13 @@ varied /'veərid/ adj
 
 
 # ***\#vengeful*** adj
-英音 'vendʒfl     美音 'vendʒfl  
+英音 'vendʒfl  
+英音
+<audio src="./media/vengeful1.aac"></audio>
+美音 'vendʒfl  
+美音
+<audio src="./media/vengeful2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -554,7 +781,13 @@ varied /'veərid/ adj
 
 
 # ***\#venture*** vt
-英音 'ventʃə(r)     美音 'ventʃər  
+英音 'ventʃə(r)  
+英音
+<audio src="./media/venture1.aac"></audio>
+美音 'ventʃər  
+美音
+<audio src="./media/venture.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -564,10 +797,17 @@ varied /'veərid/ adj
 
  > **Nothing ventured**, **nothing gained**.  
  > 不入虎穴，焉得虎子。  （人教⑩ – 1）  
+<audio src="./media/1-venture.aac"></audio>
 
 
 # ***\#venture*** n
-英音 'ventʃə(r)     美音 'ventʃər  
+英音 'ventʃə(r)  
+英音
+<audio src="./media/venture1.aac"></audio>
+美音 'ventʃər  
+美音
+<audio src="./media/venture.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -585,7 +825,13 @@ varied /'veərid/ adj
 
 
 # ***\#venue*** n
-英音 'venjuː     美音 'venjuː  
+英音 'venjuː  
+英音
+<audio src="./media/venue1.aac"></audio>
+美音 'venjuː  
+美音
+<audio src="./media/venue2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -595,7 +841,13 @@ varied /'veərid/ adj
 
 
 # ***\#verbal*** adj
-英音 'vɜːbl     美音 'vɜːbl  
+英音 'vɜːbl  
+英音
+<audio src="./media/verbal-B.aac"></audio>
+美音 'vɜːbl  
+美音
+<audio src="./media/verbal.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -605,7 +857,13 @@ varied /'veərid/ adj
 
 
 # ***\#verse*** n
-英音 vɜːs     美音 vɜːrs  
+英音 vɜːs  
+英音
+<audio src="./media/verse1_AAC.aac"></audio>
+美音 vɜːrs  
+美音
+<audio src="./media/verse2_AAC.aac"></audio>
+
 
   
 
@@ -615,7 +873,13 @@ varied /'veərid/ adj
 
 
 # ***\#version*** n
-英音 'vɜːʃn     美音 'vɜːrʒn  
+英音 'vɜːʃn  
+英音
+<audio src="./media/version1.aac"></audio>
+美音 'vɜːrʒn  
+美音
+<audio src="./media/version.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
 
@@ -627,16 +891,24 @@ varied /'veərid/ adj
 
  > This dictionary is available in an **electronic version**.  
  > 这本词典有电子版。    
+<audio src="./media/1-version.aac"></audio>
 
 ### 2.*高义频：* **(从特定立场对事物的) 说明；意见；描述**  
 英译 sb’s description of sth that has happened：
 
  > The two newspapers gave different **versions of** what happened.  
  > 对所发生的事，两家报纸说法不一。    
+<audio src="./media/2-version.aac"></audio>
 
 
 # ***\#vertebrate*** n
-英音 ˈvɜːtɪbrət     美音 ˈvɜːrtɪbrət  
+英音 ˈvɜːtɪbrət  
+英音
+<audio src="./media/vertebrate1_AAC.aac"></audio>
+美音 ˈvɜːrtɪbrət  
+美音
+<audio src="./media/vertebrate2_AAC.aac"></audio>
+
 
   
 
@@ -646,7 +918,13 @@ varied /'veərid/ adj
 
 
 # ***\#vertical*** adj
-英音 'vɜːtɪkl     美音 'vɜːrtɪkl  
+英音 'vɜːtɪkl  
+英音
+<audio src="./media/version-B.aac"></audio>
+美音 'vɜːrtɪkl  
+美音
+<audio src="./media/vertical.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -662,7 +940,13 @@ varied /'veərid/ adj
 
 
 # ***\#very*** adj
-英音 'veri     美音 'veri  
+英音 'veri  
+英音
+<audio src="./media/vertical-B.aac"></audio>
+美音 'veri  
+美音
+<audio src="./media/very.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 3 |  
 
@@ -672,18 +956,27 @@ varied /'veərid/ adj
 
  > He might be phoning her **at this very moment**.  
  > 他这会儿也许正在给她打电话呢。    
+<audio src="./media/3-very.aac"></audio>
 
  > That’s **the very thing** that I need.  
  > 那正是我需要的东西。    
+<audio src="./media/4-very.aac"></audio>
 
 ### 2.*低义频：* **仅仅的；唯独的：**  
 
  > The **very thought of** speaking before many people frightens me.  
  > 一想到要在许多人面前讲话，我就发怵。    
+<audio src="./media/5-very.aac"></audio>
 
 
 # ***\#very*** adv
-英音 'veri     美音 'veri  
+英音 'veri  
+英音
+<audio src="./media/vertical-B.aac"></audio>
+美音 'veri  
+美音
+<audio src="./media/very.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -710,13 +1003,21 @@ varied /'veərid/ adj
 
  > It is **not very** warm today.  
  > 今天不是很暖和。    
+<audio src="./media/1-very.aac"></audio>
 
  > I am **not very** keen on going there.  
  > 我根本不想去那里。    
+<audio src="./media/2-very.aac"></audio>
 
 
 # ***\#vessel*** n
-英音 'vesl     美音 'vesl  
+英音 'vesl  
+英音
+<audio src="./media/vessel1_AAC.aac"></audio>
+美音 'vesl  
+美音
+<audio src="./media/vessel2_AAC.aac"></audio>
+
 
   
 
@@ -726,7 +1027,13 @@ varied /'veərid/ adj
 
 
 # ***\#vest*** n
-英音 vest     美音 vest  
+英音 vest  
+英音
+<audio src="./media/vest-B.aac"></audio>
+美音 vest  
+美音
+<audio src="./media/vest.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -738,7 +1045,13 @@ varied /'veərid/ adj
 
 
 # ***\#vet*** n
-英音 vet     美音 vet  
+英音 vet  
+英音
+<audio src="./media/vet-b.aac"></audio>
+美音 vet  
+美音
+<audio src="./media/vet.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -750,7 +1063,13 @@ varied /'veərid/ adj
 
 
 # ***\#vexed*** adj
-英音 vekst     美音 vekst  
+英音 vekst  
+英音
+<audio src="./media/vexed1_AAC.aac"></audio>
+美音 vekst  
+美音
+<audio src="./media/vexed2_AAC.aac"></audio>
+
 
   
 
@@ -760,7 +1079,13 @@ varied /'veərid/ adj
 
 
 # ***\#via*** prep
-英音 'vaɪə     美音 'vaɪə  
+英音 'vaɪə  
+英音
+<audio src="./media/via-B.aac"></audio>
+美音 'vaɪə  
+美音
+<audio src="./media/via.aac"></audio>
+
 
 | 词频 2 | 书面 2 |  
 
@@ -776,7 +1101,13 @@ varied /'veərid/ adj
 
 
 # ***\#vibrate*** v
-英音 vaɪ'breɪt     美音 vaɪ'breɪt  
+英音 vaɪ'breɪt  
+英音
+<audio src="./media/vibrate1_AAC.aac"></audio>
+美音 vaɪ'breɪt  
+美音
+<audio src="./media/vibrate2_AAC.aac"></audio>
+
 
   
 
@@ -786,7 +1117,13 @@ varied /'veərid/ adj
 
 
 # ***\#vibration*** n
-英音 vaɪ'breɪʃn     美音 vaɪ'breɪʃn  
+英音 vaɪ'breɪʃn  
+英音
+<audio src="./media/vibration1_AAC.aac"></audio>
+美音 vaɪ'breɪʃn  
+美音
+<audio src="./media/vibration2_AAC.aac"></audio>
+
 
   
 
@@ -796,7 +1133,13 @@ varied /'veərid/ adj
 
 
 # ***\#vice*** n
-英音 vaɪs     美音 vaɪs  
+英音 vaɪs  
+英音
+<audio src="./media/vice-B.aac"></audio>
+美音 vaɪs  
+美音
+<audio src="./media/vice.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -813,7 +1156,13 @@ Notes: 前缀vice-意为“副的”。
 
 
 # ***\#vice-president*** n
-英音 vaɪs 'prezɪdənt     美音 vaɪs 'prezɪdənt  
+英音 vaɪs 'prezɪdənt  
+英音
+<audio src="./media/vice-president1_AAC.aac"></audio>
+美音 vaɪs 'prezɪdənt  
+美音
+<audio src="./media/vice-president2_AAC.aac"></audio>
+
 
   
 
@@ -823,7 +1172,13 @@ Notes: 前缀vice-意为“副的”。
 
 
 # ***\#victim*** n
-英音 'vɪktɪm     美音 'vɪktɪm  
+英音 'vɪktɪm  
+英音
+<audio src="./media/victim-B.aac"></audio>
+美音 'vɪktɪm  
+美音
+<audio src="./media/victim.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -835,6 +1190,7 @@ Notes: 前缀vice-意为“副的”。
 
  > She was the **victim of** a road accident.  
  > 她是一场交通事故的受害者。    
+<audio src="./media/1-victim.aac"></audio>
 
 
 固定搭配
@@ -844,7 +1200,13 @@ Notes: 前缀vice-意为“副的”。
 
 
 # ***\#victory*** n
-英音 'vɪktəri     美音 'vɪktəri  
+英音 'vɪktəri  
+英音
+<audio src="./media/victory-B.aac"></audio>
+美音 'vɪktəri  
+美音
+<audio src="./media/victory.aac"></audio>
+
 
 | 词频 3 | 书面 2 |  
 
@@ -859,7 +1221,13 @@ Notes: 前缀vice-意为“副的”。
 
 
 # ***\#video*** n
-英音 'vɪdiəʊ     美音 'vɪdioʊ  
+英音 'vɪdiəʊ  
+英音
+<audio src="./media/video-B.aac"></audio>
+美音 'vɪdioʊ  
+美音
+<audio src="./media/video.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -871,7 +1239,13 @@ Notes: 前缀vice-意为“副的”。
 
 
 # ***\#video*** adj
-英音 'vɪdiəʊ     美音 'vɪdioʊ  
+英音 'vɪdiəʊ  
+英音
+<audio src="./media/video-B.aac"></audio>
+美音 'vɪdioʊ  
+美音
+<audio src="./media/video.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -886,7 +1260,13 @@ Notes: 前缀vice-意为“副的”。
 
 
 # ***\#video*** vt
-英音 'vɪdiəʊ     美音 'vɪdioʊ  
+英音 'vɪdiəʊ  
+英音
+<audio src="./media/video-B.aac"></audio>
+美音 'vɪdioʊ  
+美音
+<audio src="./media/video.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -896,10 +1276,17 @@ Notes: 前缀vice-意为“副的”。
 
  > A friend videoed the wedding.   
  > 一位朋友把婚礼录了下来。    
+<audio src="./media/video001.aac"></audio>
 
 
 # ***\#videophone*** n
-英音 'vɪdiəʊfəʊn     美音 'vɪdioʊfoʊn  
+英音 'vɪdiəʊfəʊn  
+英音
+<audio src="./media/videophone-B.aac"></audio>
+美音 'vɪdioʊfoʊn  
+美音
+<audio src="./media/videophone.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -911,7 +1298,13 @@ Notes: 前缀vice-意为“副的”。
 
 
 # ***\#view*** vt  重难点词汇
-英音 vjuː     美音 vjuː  
+英音 vjuː  
+英音
+<audio src="./media/view-B.aac"></audio>
+美音 vjuː  
+美音
+<audio src="./media/view.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -921,11 +1314,13 @@ Notes: 前缀vice-意为“副的”。
 
  > These mountains are a splendid sight when **viewed from** the valley floor.  
  > 从谷底看上去，群山壮丽。  （2005 山东）  
+<audio src="./media/19-view.aac"></audio>
 
 ### 2.*高义频：* **看待(see)：**  
 
  > We **view** film **as** a type of contemporary art.  
  > 我们把电影视作一种当代艺术。  （译林⑧ – 4）  
+<audio src="./media/20-view.aac"></audio>
 
 
 派生词汇
@@ -933,7 +1328,13 @@ Notes: 前缀vice-意为“副的”。
 viewer /'vjuːə(r)/ n [C]  
 
 # ***\#view*** n  重难点词汇
-英音 vjuː     美音 vjuː  
+英音 vjuː  
+英音
+<audio src="./media/view-B.aac"></audio>
+美音 vjuː  
+美音
+<audio src="./media/view.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -944,21 +1345,26 @@ viewer /'vjuːə(r)/ n [C]
 
  > There was usually nobody **in view** except some sheep in the grassland.  
  > 在草原上常常看不到一个人，只能看到一些羊。    
+<audio src="./media/1-view.aac"></audio>
 
  > The lake **came into view** as we turned the corner.  
  > 转过弯，我们就看见那个湖了。    
+<audio src="./media/2-view.aac"></audio>
 
  > Sit down — you’re **blocking** my **view**.  
  > 坐下，你挡住我的视线了。    
+<audio src="./media/3-view.aac"></audio>
 
 ### 2.*高义频：* **风景；景色**  
 英译 what you can see from a particular place：
 
  > While climbing the mountain, we enjoyed the warm sunshine and a beautiful view.  
  > 爬山时，我们沐浴着温暖的阳光，欣赏着美丽的风景。  （2008 北京书面表达）  
+<audio src="./media/4-view.aac"></audio>
 
  > I’d like a room with a **sea** **view**.  
  > 我想要一间海景房。    
+<audio src="./media/5-view.aac"></audio>
 
 #### 辨析 view, scene, scenery, sight
 四者都有“风景”之意。  
@@ -968,6 +1374,7 @@ viewer /'vjuːə(r)/ n [C]
 **sight** 指收入眼帘的景色。当指名胜、风景时用复数形式，尤指城里的名胜、风景。
  > They will see the sights of the West Lake.  
  > 他们就要看到西湖的美景了。    
+<audio src="./media/11-view.aac"></audio>
 
 
 ### 3.*高义频：* **观点；看法：**  
@@ -975,15 +1382,19 @@ viewer /'vjuːə(r)/ n [C]
 
  > Each person may believe that he is correct and that the other person’s view is wrong.  
  > 每个人都可能会认为自己是对的，而对方的观点是错的。  （2009 江苏）  
+<audio src="./media/12-view.aac"></audio>
 
  > Jill and I **have different views on / about** the subject.  
  > 吉尔和我在这个话题上的观点不同。    
+<audio src="./media/13-view.aac"></audio>
 
  > **In my view**, playing computer games is a waste of time.  
  > 在我看来，玩电脑游戏浪费时间。    
+<audio src="./media/14-view.aac"></audio>
 
  > Can’t you see things **from** my **point of view**?  
  > 你就不能从我的角度看待事物吗？  （2013 重庆）  
+<audio src="./media/15-view.aac"></audio>
 
 ### 4.*高义频：* **理解或思维的方法；方式：**  
 
@@ -992,6 +1403,7 @@ viewer /'vjuːə(r)/ n [C]
 
  > Your **view of** life is different from mine.  
  > 你的人生观跟我的不同。    
+<audio src="./media/16-view.aac"></audio>
 
 
 固定搭配
@@ -1001,16 +1413,24 @@ viewer /'vjuːə(r)/ n [C]
 
  > In view of the weather, the event will be held indoors.  
  > 由于天气的缘故，这项比赛将在室内进行。    
+<audio src="./media/17-view.aac"></audio>
 
 ## \#on view
 1.**在展出；展览着：**  
 
  > The painting is currently on view at the gallery.  
  > 那幅画目前在美术馆展出。    
+<audio src="./media/18-view.aac"></audio>
 
 
 # ***\#viewer*** n
-英音 'vjuːə(r)     美音 'vjuːər  
+英音 'vjuːə(r)  
+英音
+<audio src="./media/viewer1.aac"></audio>
+美音 'vjuːər  
+美音
+<audio src="./media/viewer2.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -1020,7 +1440,13 @@ viewer /'vjuːə(r)/ n [C]
 
 
 # ***\#vigour*** n
-英音 ˈvɪɡə(r)     美音 ˈvɪɡər  
+英音 ˈvɪɡə(r)  
+英音
+<audio src="./media/vigour1_AAC.aac"></audio>
+美音 ˈvɪɡər  
+美音
+<audio src="./media/vigour2_AAC.aac"></audio>
+
 
   
 
@@ -1030,7 +1456,13 @@ viewer /'vjuːə(r)/ n [C]
 
 
 # ***\#village*** n
-英音 'vɪlɪdʒ     美音 'vɪlɪdʒ  
+英音 'vɪlɪdʒ  
+英音
+<audio src="./media/village-B.aac"></audio>
+美音 'vɪlɪdʒ  
+美音
+<audio src="./media/village.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1042,7 +1474,13 @@ viewer /'vjuːə(r)/ n [C]
 
 
 # ***\#villager*** n
-英音 'vɪlɪdʒə(r)     美音 'vɪlɪdʒər  
+英音 'vɪlɪdʒə(r)  
+英音
+<audio src="./media/villager-B.aac"></audio>
+美音 'vɪlɪdʒər  
+美音
+<audio src="./media/villager.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -1054,7 +1492,13 @@ viewer /'vjuːə(r)/ n [C]
 
 
 # ***\#vine*** n
-英音 vaɪn     美音 vaɪn  
+英音 vaɪn  
+英音
+<audio src="./media/vine1_AAC.aac"></audio>
+美音 vaɪn  
+美音
+<audio src="./media/vine2_AAC.aac"></audio>
+
 
   
 
@@ -1064,7 +1508,13 @@ viewer /'vjuːə(r)/ n [C]
 
 
 # ***\#vinegar*** n
-英音 'vɪnɪɡə(r)     美音 'vɪnɪɡər  
+英音 'vɪnɪɡə(r)  
+英音
+<audio src="./media/vinegar-B.aac"></audio>
+美音 'vɪnɪɡər  
+美音
+<audio src="./media/vinegar.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1076,7 +1526,13 @@ viewer /'vjuːə(r)/ n [C]
 
 
 # ***\#violate*** vt
-英音 'vaɪəleɪt     美音 'vaɪəleɪt  
+英音 'vaɪəleɪt  
+英音
+<audio src="./media/violate-B.aac"></audio>
+美音 'vaɪəleɪt  
+美音
+<audio src="./media/violate.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1089,10 +1545,17 @@ viewer /'vjuːə(r)/ n [C]
 
  > The sound of guns violated the usual calm of Sunday morning.  
  > 枪炮声打破了星期日早晨一贯的宁静。    
+<audio src="./media/1-violate.aac"></audio>
 
 
 # ***\#violence*** n
-英音 'vaɪələns     美音 'vaɪələns  
+英音 'vaɪələns  
+英音
+<audio src="./media/violence-B.aac"></audio>
+美音 'vaɪələns  
+美音
+<audio src="./media/violence.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 2 |  
 
@@ -1107,7 +1570,13 @@ viewer /'vjuːə(r)/ n [C]
 
 
 # ***\#violent*** adj
-英音 'vaɪələnt     美音 'vaɪələnt  
+英音 'vaɪələnt  
+英音
+<audio src="./media/violent-B.aac"></audio>
+美音 'vaɪələnt  
+美音
+<audio src="./media/violent.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 1 |  
 
@@ -1129,7 +1598,13 @@ viewer /'vjuːə(r)/ n [C]
 violently /'vaɪələntli/ adv   
 
 # ***\#violently*** adv
-英音 ˈvaɪələntli     美音 ˈvaɪələntli  
+英音 ˈvaɪələntli  
+英音
+<audio src="./media/violently1_AAC.aac"></audio>
+美音 ˈvaɪələntli  
+美音
+<audio src="./media/violently2_AAC.aac"></audio>
+
 
   
 
@@ -1139,7 +1614,13 @@ violently /'vaɪələntli/ adv
 
 
 # ***\#violet*** n
-英音 'vaɪələt     美音 'vaɪələt  
+英音 'vaɪələt  
+英音
+<audio src="./media/violet1.aac"></audio>
+美音 'vaɪələt  
+美音
+<audio src="./media/violet2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1149,7 +1630,13 @@ violently /'vaɪələntli/ adv
 
 
 # ***\#violin*** n
-英音 ˌvaɪə'lɪn     美音 ˌvaɪə'lɪn  
+英音 ˌvaɪə'lɪn  
+英音
+<audio src="./media/violin-B.aac"></audio>
+美音 ˌvaɪə'lɪn  
+美音
+<audio src="./media/violin.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1164,7 +1651,13 @@ violently /'vaɪələntli/ adv
 
 
 # ***\#violinist*** n
-英音 ˌvaɪə'lɪnɪst     美音 ˌvaɪə'lɪnɪst  
+英音 ˌvaɪə'lɪnɪst  
+英音
+<audio src="./media/violinist-B.aac"></audio>
+美音 ˌvaɪə'lɪnɪst  
+美音
+<audio src="./media/violinist.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1176,7 +1669,13 @@ violently /'vaɪələntli/ adv
 
 
 # ***\#virtual*** adj
-英音 'vɜːtʃuəl     美音 'vɜːrtʃuəl  
+英音 'vɜːtʃuəl  
+英音
+<audio src="./media/virtual-B.aac"></audio>
+美音 'vɜːrtʃuəl  
+美音
+<audio src="./media/virtual.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -1186,6 +1685,7 @@ violently /'vaɪələntli/ adv
 
  > Finding a cheap place to rent is a virtual impossibility in this area.  
  > 在这个地区几乎租不到便宜的房子。    
+<audio src="./media/virtual3.aac"></audio>
 
 ### 2.*高义频：* **虚拟的：**  
 
@@ -1198,7 +1698,13 @@ violently /'vaɪələntli/ adv
 virtually /'vɜːtʃuəli/ adv   
 
 # ***\#virtue*** n
-英音 'vɜːtʃuː     美音 'vɜːrtʃuː  
+英音 'vɜːtʃuː  
+英音
+<audio src="./media/virtue-B.aac"></audio>
+美音 'vɜːrtʃuː  
+美音
+<audio src="./media/virtue.aac"></audio>
+
 
 | 词频 1 | 书面 1 |  
 
@@ -1211,15 +1717,23 @@ virtually /'vɜːtʃuəli/ adv
 
  > In modern society, punctuality is a necessary virtue.  
  > 在现代社会，守时是必不可少的美德。  （2015 陕西）  
+<audio src="./media/virtue3.aac"></audio>
 
 ### 2.*低义频：* **优点；长处(advantage)：**  
 
  > One of his virtues is that he never gets angry.  
  > 他的一个优点是从不生气。    
+<audio src="./media/2-virtue.aac"></audio>
 
 
 # ***\#virus*** n
-英音 'vaɪrəs     美音 'vaɪrəs  
+英音 'vaɪrəs  
+英音
+<audio src="./media/virus-B.aac"></audio>
+美音 'vaɪrəs  
+美音
+<audio src="./media/virus.aac"></audio>
+
 
 | 词频 3 | 书面 1 |  
 
@@ -1231,13 +1745,21 @@ virtually /'vɜːtʃuəli/ adv
 
  > There are many different viruses, for example, the flu virus or the SARS virus.  
  > 病毒种类繁多，如流感病毒和SARS病毒。  （人教⑥ – 3）  
+<audio src="./media/1-virus.aac"></audio>
 
  > An unknown virus has just attacked my computer.  
  > 一种未知的病毒刚刚攻击了我的电脑。  （人教② – 3）  
+<audio src="./media/2-virus.aac"></audio>
 
 
 # ***\#visa*** n
-英音 'viːzə     美音 'viːzə  
+英音 'viːzə  
+英音
+<audio src="./media/visa-B.aac"></audio>
+美音 'viːzə  
+美音
+<audio src="./media/visa.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1249,7 +1771,13 @@ virtually /'vɜːtʃuəli/ adv
 
 
 # ***\#visible*** adj
-英音 'vɪzəbl     美音 'vɪzəbl  
+英音 'vɪzəbl  
+英音
+<audio src="./media/visible-B.aac"></audio>
+美音 'vɪzəbl  
+美音
+<audio src="./media/visible.aac"></audio>
+
 
 | 词频 2 | 书面 1 | 阅读 2 |  
 
@@ -1259,13 +1787,21 @@ virtually /'vɜːtʃuəli/ adv
 
  > The fish are visible below the surface of the lake.  
  > 鱼在湖面下清晰可见。    
+<audio src="./media/1-visible.aac"></audio>
 
  > For several hours I made myself **highly visible**, making sure everyone could see me.  
  > 我在非常显眼的地方站了几个小时，确保每个人都能看见我。    
+<audio src="./media/2-visible.aac"></audio>
 
 
 # ***\#vision*** n
-英音 'vɪʒn     美音 'vɪʒn  
+英音 'vɪʒn  
+英音
+<audio src="./media/vision-B.aac"></audio>
+美音 'vɪʒn  
+美音
+<audio src="./media/vision.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 1 |  
 
@@ -1289,7 +1825,13 @@ virtually /'vɜːtʃuəli/ adv
 
 
 # ***\#visit*** n
-英音 'vɪzɪt     美音 'vɪzɪt  
+英音 'vɪzɪt  
+英音
+<audio src="./media/visit-B.aac"></audio>
+美音 'vɪzɪt  
+美音
+<audio src="./media/visit.aac"></audio>
+
 
 | 词频 5 | 口语 1 | 书面 2 |  
 
@@ -1310,10 +1852,17 @@ virtually /'vɜːtʃuəli/ adv
 
  > If you have time, pay a visit to the local museum.  
  > 你若有空，参观一下当地的这家博物馆。    
+<audio src="./media/4-visit.aac"></audio>
 
 
 # ***\#visit*** vt
-英音 'vɪzɪt     美音 'vɪzɪt  
+英音 'vɪzɪt  
+英音
+<audio src="./media/visit-B.aac"></audio>
+美音 'vɪzɪt  
+美音
+<audio src="./media/visit.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 3 |  
 
@@ -1326,21 +1875,31 @@ virtually /'vɜːtʃuəli/ adv
 
  > I’ll look after the kids, and you can go to visit your mom.  
  > 我来照看孩子，你去看望你的母亲。  （2012 陕西改）  
+<audio src="./media/1-visit.aac"></audio>
 
  > I’m going to visit my aunt for a week.  
  > 我打算到我姑妈家住一个星期。    
+<audio src="./media/2-visit.aac"></audio>
 
  > The Prime Minister is visiting France at the moment.  
  > 首相现在正在法国访问。    
+<audio src="./media/3-visit.aac"></audio>
 
 ### 2.*高义频：* **访问 (网站)：**  
 
  > To find out more information, visit this website.  
  > 预知详情，请访问这个网站。  （2014 四川改）  
+<audio src="./media/visit51.aac"></audio>
 
 
 # ***\#visitor*** n
-英音 'vɪzɪtə(r)     美音 'vɪzɪtər  
+英音 'vɪzɪtə(r)  
+英音
+<audio src="./media/visitor-B.aac"></audio>
+美音 'vɪzɪtər  
+美音
+<audio src="./media/visitor.aac"></audio>
+
 
 | 词频 5 | 口语 1 | 书面 2 |  
 
@@ -1352,7 +1911,13 @@ virtually /'vɜːtʃuəli/ adv
 
 
 # ***\#visual*** adj
-英音 'vɪʒuəl     美音 'vɪʒuəl  
+英音 'vɪʒuəl  
+英音
+<audio src="./media/visual-B.aac"></audio>
+美音 'vɪʒuəl  
+美音
+<audio src="./media/visual.aac"></audio>
+
 
 | 词频 2 | 书面 1 |  
 
@@ -1368,7 +1933,13 @@ virtually /'vɜːtʃuəli/ adv
 
 
 # ***\#visualize*** vt
-英音 ˈvɪʒuəlaɪz     美音 ˈvɪʒuəlaɪz  
+英音 ˈvɪʒuəlaɪz  
+英音
+<audio src="./media/visualize1_AAC.aac"></audio>
+美音 ˈvɪʒuəlaɪz  
+美音
+<audio src="./media/visualize2_AAC.aac"></audio>
+
 
   
 
@@ -1378,7 +1949,13 @@ virtually /'vɜːtʃuəli/ adv
 
 
 # ***\#visually*** adv
-英音 'vɪʒuəli     美音 'vɪʒuəli  
+英音 'vɪʒuəli  
+英音
+<audio src="./media/visually1.aac"></audio>
+美音 'vɪʒuəli  
+美音
+<audio src="./media/visually2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1388,7 +1965,13 @@ virtually /'vɜːtʃuəli/ adv
 
 
 # ***\#vital*** adj
-英音 'vaɪtl     美音 'vaɪtl  
+英音 'vaɪtl  
+英音
+<audio src="./media/vital-B.aac"></audio>
+美音 'vaɪtl  
+美音
+<audio src="./media/vital.aac"></audio>
+
 
 | 词频 2 | 书面 2 | 阅读 2 |  
 
@@ -1399,15 +1982,18 @@ virtually /'vɜːtʃuəli/ adv
 
  > What’s worse, some drivers do not think it vital to obey traffi c rules.  
  > 更糟糕的是，一些司机不认为遵守交通规则是极为重要的。  （2015 江苏书面表达改）  
+<audio src="./media/What's worse, some drivers_AAC.aac"></audio>
 
  > **of vital importance**(= very important)  
  > 至关重要    
 
  > Consideration for other people is **vital to** all of us.  
  > 对我们所有人来说，体谅他人至关重要。    
+<audio src="./media/1-vital.aac"></audio>
 
  > If the injuries are second or third degree burns, **it is vital to get** the victim to the doctor or hospital at once.  
  > 如果是二级或三级烧伤，那么立刻带伤者去看医生或者去医院是性命攸关的事。  （人教⑤ – 5）  
+<audio src="./media/2-vital.aac"></audio>
 
 
 真题解析
@@ -1418,7 +2004,13 @@ virtually /'vɜːtʃuəli/ adv
 1. learning  
 
 # ***\#vitality*** n
-英音 vaɪ'tæləti     美音 vaɪ'tæləti  
+英音 vaɪ'tæləti  
+英音
+<audio src="./media/vitality1_AAC.aac"></audio>
+美音 vaɪ'tæləti  
+美音
+<audio src="./media/vitality2_AAC.aac"></audio>
+
 
   
 
@@ -1428,7 +2020,13 @@ virtually /'vɜːtʃuəli/ adv
 
 
 # ***\#vitamin*** n
-英音 'vɪtəmɪn     美音 'vaɪtəmɪn  
+英音 'vɪtəmɪn  
+英音
+<audio src="./media/vitamin-B.aac"></audio>
+美音 'vaɪtəmɪn  
+美音
+<audio src="./media/vitamin.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1440,7 +2038,13 @@ virtually /'vɜːtʃuəli/ adv
 
 
 # ***\#vivid*** adj
-英音 'vɪvɪd     美音 'vɪvɪd  
+英音 'vɪvɪd  
+英音
+<audio src="./media/vivid-B.aac"></audio>
+美音 'vɪvɪd  
+美音
+<audio src="./media/vivid.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -1450,6 +2054,7 @@ virtually /'vɜːtʃuəli/ adv
 
  > She is wearing a vivid red coat.  
  > 她穿着一件鲜红色的外套。    
+<audio src="./media/1-vivid.aac"></audio>
 
 ### 2.*高义频：* **(表现、描述等) 逼真的；(想象力) 丰富的：**  
 反义词 vague 
@@ -1459,6 +2064,7 @@ virtually /'vɜːtʃuəli/ adv
 
  > I’ve got vivid memories of my happy childhood.  
  > 我对自己快乐的童年记忆犹新。    
+<audio src="./media/2-vivid.aac"></audio>
 
 
 真题解析
@@ -1473,7 +2079,13 @@ D.vivid
 1. vivid  
 
 # ***\#vividly*** adv
-英音 'vɪvɪdli     美音 'vɪvɪdli  
+英音 'vɪvɪdli  
+英音
+<audio src="./media/vividly1_AAC.aac"></audio>
+美音 'vɪvɪdli  
+美音
+<audio src="./media/vividly2_AAC.aac"></audio>
+
 
   
 
@@ -1483,7 +2095,13 @@ D.vivid
 
 
 # ***\#vocabulary*** n
-英音 və'kæbjələri     美音 və'kæbjəleri  
+英音 və'kæbjələri  
+英音
+<audio src="./media/vocabulary-B.aac"></audio>
+美音 və'kæbjəleri  
+美音
+<audio src="./media/vocabulary.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1496,12 +2114,19 @@ D.vivid
 
  > As everybody knows vocabulary is an important part of language, just like bricks in a building.  
  > 众所周知，词汇是语言的重要组成部分，就像砖块对于楼房一样。  （2010 江苏）  
+<audio src="./media/vocabulary-As everybody knows.aac"></audio>
 
 ### 2.*高义频：* **词汇表**  
 
 
 # ***\#vocal*** adj
-英音 'vəʊkl     美音 'voʊkl  
+英音 'vəʊkl  
+英音
+<audio src="./media/vocal1.aac"></audio>
+美音 'voʊkl  
+美音
+<audio src="./media/vocal2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1511,7 +2136,13 @@ D.vivid
 
 
 # ***\#vocational*** adj
-英音 vəʊˈkeɪʃənl     美音 vəʊˈkeɪʃənl  
+英音 vəʊˈkeɪʃənl  
+英音
+<audio src="./media/vocational1_AAC.aac"></audio>
+美音 vəʊˈkeɪʃənl  
+美音
+<audio src="./media/vocational2_AAC.aac"></audio>
+
 
   
 
@@ -1521,7 +2152,13 @@ D.vivid
 
 
 # ***\#voice*** vt
-英音 vɔɪs     美音 vɔɪs  
+英音 vɔɪs  
+英音
+<audio src="./media/voice-B.aac"></audio>
+美音 vɔɪs  
+美音
+<audio src="./media/voice.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -1531,10 +2168,17 @@ D.vivid
 
  > I am writing to you to voice my opinions.  
  > 此刻我正给你写信来表达我的看法。  （译林④ – 3）  
+<audio src="./media/4-voice.aac"></audio>
 
 
 # ***\#voice*** n
-英音 vɔɪs     美音 vɔɪs  
+英音 vɔɪs  
+英音
+<audio src="./media/voice-B.aac"></audio>
+美音 vɔɪs  
+美音
+<audio src="./media/voice.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 3 |  
 
@@ -1547,9 +2191,11 @@ D.vivid
 
  > I didn’t recognize her voice on the telephone.  
  > 在电话里我没有听出她的声音。    
+<audio src="./media/1-voice.aac"></audio>
 
  > They were shouting **at the top of their voices**.  
  > 他们正在扯着嗓子大声喊叫。    
+<audio src="./media/2-voice.aac"></audio>
 
 #### 辨析 noise, sound, voice
   
@@ -1558,9 +2204,11 @@ D.vivid
 **voice ** 指人说话或唱歌时发出的声音。
  > You’ll have to **raise your voice** if you want to be heard in here.   
  > 在这里，如果想让别人听见你说话，你必须大点儿声。    
+<audio src="./media/noise-5.aac"></audio>
 
  > I could hear angry voices in the next room.   
  > 我能听到隔壁房间的怒吼声。    
+<audio src="./media/noise-6.aac"></audio>
 
 
 ### 2.*高义频：* **意见；心声**  
@@ -1568,9 +2216,11 @@ D.vivid
 
  > This programme gives ordinary viewers a chance to **make** their **voice heard** (= express their opinion sothat people notice it).  
  > 这个节目给了普通观众一个表达心声的机会。    
+<audio src="./media/3-voice.aac"></audio>
 
  > Mary was silent during the early part of the discussion but finally she **gave voice to** her opinion on the subject.  
  > 在讨论的前期，玛丽很沉默，但最后她还是表达了对这个话题的看法。  （2016 天津）  
+<audio src="./media/voice50.aac"></audio>
 
 ### 3.*低义频：* **语态：**  
 
@@ -1590,7 +2240,13 @@ D.Voices
 1. D  
 
 # ***\#voicemail*** n
-英音 'vɔɪsmeɪl     美音 'vɔɪsmeɪl  
+英音 'vɔɪsmeɪl  
+英音
+<audio src="./media/voicemail1_AAC.aac"></audio>
+美音 'vɔɪsmeɪl  
+美音
+<audio src="./media/voicemail1_AAC.aac"></audio>
+
 
   
 
@@ -1600,7 +2256,13 @@ D.Voices
 
 
 # ***\#volcanic*** adj
-英音 vɒl'kænɪk     美音 vɑːl'kænɪk  
+英音 vɒl'kænɪk  
+英音
+<audio src="./media/volcanic-B.aac"></audio>
+美音 vɑːl'kænɪk  
+美音
+<audio src="./media/volcanic.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1610,7 +2272,13 @@ D.Voices
 
 
 # ***\#volcano*** n
-英音 vɒl'keɪnəʊ     美音 vɑːl'keɪnoʊ  
+英音 vɒl'keɪnəʊ  
+英音
+<audio src="./media/volcano-B.aac"></audio>
+美音 vɑːl'keɪnoʊ  
+美音
+<audio src="./media/volcano.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -1626,7 +2294,13 @@ D.Voices
 volcanic /vɒl'kænɪk/ adj   
 
 # ***\#volcanologist*** n
-英音 ˌvɒlkən'ɒlədʒɪst     美音 ˌvɒlkən'ɒlədʒɪst  
+英音 ˌvɒlkən'ɒlədʒɪst  
+英音
+<audio src="./media/volcanologist-B.aac"></audio>
+美音 ˌvɒlkən'ɒlədʒɪst  
+美音
+<audio src="./media/volcanologist.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1638,7 +2312,13 @@ volcanic /vɒl'kænɪk/ adj
 
 
 # ***\#volcanology*** n
-英音 ˌvɒlkə'nɒlədʒi     美音 ˌvɑːlkə'nɑːlədʒi  
+英音 ˌvɒlkə'nɒlədʒi  
+英音
+<audio src="./media/volcanology-B.aac"></audio>
+美音 ˌvɑːlkə'nɑːlədʒi  
+美音
+<audio src="./media/volcanology.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1648,7 +2328,13 @@ volcanic /vɒl'kænɪk/ adj
 
 
 # ***\#volleyball*** n
-英音 'vɒlibɔːl     美音 'vɑːlibɔːl  
+英音 'vɒlibɔːl  
+英音
+<audio src="./media/volleyball-B.aac"></audio>
+美音 'vɑːlibɔːl  
+美音
+<audio src="./media/volleyball.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1663,7 +2349,13 @@ volcanic /vɒl'kænɪk/ adj
 
 
 # ***\#volume*** n
-英音 'vɒljuːm     美音 'vɑːljuːm  
+英音 'vɒljuːm  
+英音
+<audio src="./media/volume-B.aac"></audio>
+美音 'vɑːljuːm  
+美音
+<audio src="./media/volume.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 2 |  
 
@@ -1681,6 +2373,7 @@ volcanic /vɒl'kænɪk/ adj
 
  > The **volume of** traffic on the roads has sharply increased in recent years.  
  > 近年来公路运输量急剧增加。    
+<audio src="./media/1-volume.aac"></audio>
 
 ### 3.*高义频：* **音量；声量：**  
 
@@ -1689,10 +2382,17 @@ volcanic /vɒl'kænɪk/ adj
 
  > The television is too loud; **turn the volume down**.  
  > 电视声音太大了,把音量调低点。    
+<audio src="./media/2-volume.aac"></audio>
 
 
 # ***\#voluntary*** adj
-英音 'vɒləntri     美音 'vɑːlənteri  
+英音 'vɒləntri  
+英音
+<audio src="./media/voluntary-B.aac"></audio>
+美音 'vɑːlənteri  
+美音
+<audio src="./media/voluntary.aac"></audio>
+
 
 | 词频 2 | 书面 1 | 阅读 1 |  
 
@@ -1702,13 +2402,21 @@ volcanic /vɒl'kænɪk/ adj
 
  > All contributions are voluntary.  
  > 所有捐赠都是自愿的。  （外研⑥ – 4）  
+<audio src="./media/1-voluntary.aac"></audio>
 
  > She is a voluntary worker at the hospital.  
  > 她是这家医院的志愿者。    
+<audio src="./media/2-voluntary.aac"></audio>
 
 
 # ***\#volunteer*** v
-英音 ˌvɒlən'tɪə(r)     美音 ˌvɑːlən'tɪr  
+英音 ˌvɒlən'tɪə(r)  
+英音
+<audio src="./media/volunteer-B.aac"></audio>
+美音 ˌvɑːlən'tɪr  
+美音
+<audio src="./media/volunteer.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -1718,18 +2426,27 @@ volcanic /vɒl'kænɪk/ adj
 
  > She has been volunteering her time and talents to the work for more than 40 years.  
  > 四十多年来她一直自愿将时间和才能倾注在这项工作上。  （2014 天津改）  
+<audio src="./media/volunteer-She has been volunteering her time.aac"></audio>
 
  > Volunteering gives you a chance to change lives, including your own.  
  > 当志愿者为你提供了改变生活的机会，包括你自己的生活。  （2013 北京）  
+<audio src="./media/2-volunteer.aac"></audio>
 
 - volunteer to do sth:
 
  > Tang Ling volunteered to help the welfare house.  
  > 唐玲自愿去福利院帮忙。  （人教⑦ – 5）  
+<audio src="./media/3-volunteer.aac"></audio>
 
 
 # ***\#volunteer*** n
-英音 ˌvɒlən'tɪə(r)     美音 ˌvɑːlən'tɪr  
+英音 ˌvɒlən'tɪə(r)  
+英音
+<audio src="./media/volunteer-B.aac"></audio>
+美音 ˌvɑːlən'tɪr  
+美音
+<audio src="./media/volunteer.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -1741,10 +2458,17 @@ volcanic /vɒl'kænɪk/ adj
 
  > Volunteers don’t expect any kind of pay.  
  > 志愿者不期待任何报酬。  （2008 四川）  
+<audio src="./media/1-volunteer.aac"></audio>
 
 
 # ***\#volunteer*** adj
-英音 ˌvɒlən'tɪə(r)     美音 ˌvɑːlən'tɪr  
+英音 ˌvɒlən'tɪə(r)  
+英音
+<audio src="./media/volunteer-B.aac"></audio>
+美音 ˌvɑːlən'tɪr  
+美音
+<audio src="./media/volunteer.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -1754,7 +2478,13 @@ volcanic /vɒl'kænɪk/ adj
 
 
 # ***\#vomit*** n
-英音 ˈvɒmɪt     美音 ˈvɑːmɪt  
+英音 ˈvɒmɪt  
+英音
+<audio src="./media/vomit1_AAC.aac"></audio>
+美音 ˈvɑːmɪt  
+美音
+<audio src="./media/vomit2_AAC.aac"></audio>
+
 
   
 
@@ -1764,7 +2494,13 @@ volcanic /vɒl'kænɪk/ adj
 
 
 # ***\#vote*** v
-英音 vəʊt     美音 voʊt  
+英音 vəʊt  
+英音
+<audio src="./media/vote-B.aac"></audio>
+美音 voʊt  
+美音
+<audio src="./media/vote.aac"></audio>
+
 
 | 词频 2 | 口语 2 | 书面 2 |  
 
@@ -1774,15 +2510,18 @@ volcanic /vɒl'kænɪk/ adj
 
  > Black people could not vote or choose their leaders.  
  > 黑人不能参加选举，也不能选择自己的领导人。  （人教① – 5）  
+<audio src="./media/3-vote.aac"></audio>
 
  > TV viewers **vote for** their favorite person on the show.  
  > 节目过程中，电视观众可以给他们最喜欢的选手投票。    
+<audio src="./media/4-vote.aac"></audio>
 
 ### 2.*高义频：* **投票评选**  
 英译 to choose sb for a particular position or prize：
 
  > Six of Zindel’s books have been voted the Best Books for Young Adults.  
  > 金代尔有6本书已被选为“最佳青少年读物”。    
+<audio src="./media/2-vote.aac"></audio>
 
 
 派生词汇
@@ -1790,7 +2529,13 @@ volcanic /vɒl'kænɪk/ adj
 voter /'vəʊtə(r)/ n [C]  
 
 # ***\#vote*** n
-英音 vəʊt     美音 voʊt  
+英音 vəʊt  
+英音
+<audio src="./media/vote-B.aac"></audio>
+美音 voʊt  
+美音
+<audio src="./media/vote.aac"></audio>
+
 
 | 词频 2 | 口语 2 | 书面 2 |  
 
@@ -1805,10 +2550,17 @@ voter /'vəʊtə(r)/ n [C]
 
  > New Zealand was the first country in the world to give the vote to women in 1893.  
  > 1893年新西兰成为世界上第一个赋予妇女选举权的国家。  （北师大② – 4）  
+<audio src="./media/1-vote.aac"></audio>
 
 
 # ***\#vowel*** n
-英音 'vaʊəl     美音 'vaʊəl  
+英音 'vaʊəl  
+英音
+<audio src="./media/vowel-B.aac"></audio>
+美音 'vaʊəl  
+美音
+<audio src="./media/vowel.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1820,7 +2572,13 @@ voter /'vəʊtə(r)/ n [C]
 
 
 # ***\#voyage*** n
-英音 'vɔɪɪdʒ     美音 'vɔɪɪdʒ  
+英音 'vɔɪɪdʒ  
+英音
+<audio src="./media/voyage-B.aac"></audio>
+美音 'vɔɪɪdʒ  
+美音
+<audio src="./media/voyage.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -1835,6 +2593,7 @@ voter /'vəʊtə(r)/ n [C]
 
  > Zheng He completed seven famous voyages between 1405 and 1433.  
  > 1405至1433年间，郑和完成了7次著名的航海壮举。  （北师大③ – 7）  
+<audio src="./media/1-voyage.aac"></audio>
 
 ### 2.*高义频：* **发现之旅：**  
 
@@ -1849,14 +2608,22 @@ voter /'vəʊtə(r)/ n [C]
 **tour** 侧重指“观光游览”，往往在旅行过程中参观多个景点。
  > We went on a **guided tour** round the castle.  
  > 我们由导游带着参观了城堡。    
+<audio src="./media/6-voyage.aac"></audio>
 
  > A bus took us on **a sightseeing tour** of the city.  
  > 我们乘坐大巴游览了这座城市。    
+<audio src="./media/7-voyage.aac"></audio>
 
 
 
 # ***\#voyage*** vi
-英音 'vɔɪɪdʒ     美音 'vɔɪɪdʒ  
+英音 'vɔɪɪdʒ  
+英音
+<audio src="./media/voyage-B.aac"></audio>
+美音 'vɔɪɪdʒ  
+美音
+<audio src="./media/voyage.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -1866,7 +2633,13 @@ voter /'vəʊtə(r)/ n [C]
 
 
 # ***\#vulnerable*** adj
-英音 'vʌlnərəbl     美音 'vʌlnərəbl  
+英音 'vʌlnərəbl  
+英音
+<audio src="./media/vulnerable-B.aac"></audio>
+美音 'vʌlnərəbl  
+美音
+<audio src="./media/vulnerable.aac"></audio>
+
 
 | 词频 1 |  
 

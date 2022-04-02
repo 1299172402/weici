@@ -1,7 +1,13 @@
 # Yy
 
 # ***\#yak*** n
-英音 jæk     美音 jæk  
+英音 jæk  
+英音
+<audio src="./media/yak-b.aac"></audio>
+美音 jæk  
+美音
+<audio src="./media/yak.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -13,7 +19,13 @@
 
 
 # ***\#yard*** n
-英音 jɑːd     美音 jɑːrd  
+英音 jɑːd  
+英音
+<audio src="./media/yard-B.aac"></audio>
+美音 jɑːrd  
+美音
+<audio src="./media/yard.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -31,12 +43,19 @@
 
  > We cleaned up the yard and painted the house.   
  > 我们打扫了院子，粉刷了房子。    
+<audio src="./media/1-yard.aac"></audio>
 
 ### 2.*高义频：* **[长度单位，=0.914米] 码**  
 
 
 # ***\#yawn*** n
-英音 jɔːn     美音 jɔːn  
+英音 jɔːn  
+英音
+<audio src="./media/yawn-B.aac"></audio>
+美音 jɔːn  
+美音
+<audio src="./media/yawn.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -48,10 +67,17 @@
 
  > He gave a yawn and then fell asleep.  
  > 他打了个哈欠，然后就睡着了。    
+<audio src="./media/2-yawn.aac"></audio>
 
 
 # ***\#yawn*** vi
-英音 jɔːn     美音 jɔːn  
+英音 jɔːn  
+英音
+<audio src="./media/yawn-B.aac"></audio>
+美音 jɔːn  
+美音
+<audio src="./media/yawn.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -61,10 +87,17 @@
 
  > His speech made the audience yawn.   
  > 他的演讲令听众直打哈欠。    
+<audio src="./media/1-yawn.aac"></audio>
 
 
 # ***\#yeah*** adv
-英音 jeə     美音 jeə  
+英音 jeə  
+英音
+<audio src="./media/yeah-B.aac"></audio>
+美音 jeə  
+美音
+<audio src="./media/yeah.aac"></audio>
+
 
 | 词频 4 | 口语 3 |  
 
@@ -74,7 +107,13 @@
 
 
 # ***\#year*** n
-英音 jɪə(r), jɜ:(r)     美音 jɪr  
+英音 jɪə(r), jɜ:(r)  
+英音
+<audio src="./media/year1.aac"></audio>
+美音 jɪr  
+美音
+<audio src="./media/year.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -88,6 +127,7 @@
 
  > I am in my first year at senior high school.  
  > 我是高中一年级学生。    
+<audio src="./media/1-year.aac"></audio>
 
 ### 3.*高义频：* **...岁**  
 
@@ -95,6 +135,7 @@
 
  > I haven’t played the piano for years.   
  > 我很久没弹钢琴了。  （2012 湖南）  
+<audio src="./media/P494 year1.aac"></audio>
 
 
 固定搭配
@@ -104,22 +145,31 @@
 
  > The Antarctic is covered with snow and ice all year round.   
  > 南极地区终年被冰雪覆盖。  （北师大③ – 7）  
+<audio src="./media/2-year.aac"></audio>
 
 ## \#year after year 
 1.**年复一年：**  
 
  > Year after year he had to work hard to get out of debt.   
  > 年复一年，为了还债他不得不拼命工作。    
+<audio src="./media/3-year.aac"></audio>
 
 ## \#year by year 
 1.**年年；逐年：**  
 
  > Year by year my father became weaker.   
  > 我父亲的身体一年比一年差。    
+<audio src="./media/4-year.aac"></audio>
 
 
 # ***\#yearly*** adj
-英音 'jɜ:li, 'jɪəli     美音 'jɪrli  
+英音 'jɜ:li, 'jɪəli  
+英音
+<audio src="./media/yearly1.aac"></audio>
+美音 'jɪrli  
+美音
+<audio src="./media/yearly.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -129,10 +179,17 @@
 
  > Mr Davis takes a yearly trip to Europe.   
  > 戴维斯先生每年去欧洲旅行一次。    
+<audio src="./media/1-yearly.aac"></audio>
 
 
 # ***\#yearly*** adv
-英音  'jɜ:li, 'jɪəli     美音 'jɪrli  
+英音  'jɜ:li, 'jɪəli  
+英音
+<audio src="./media/yearly1.aac"></audio>
+美音 'jɪrli  
+美音
+<audio src="./media/yearly.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -142,10 +199,17 @@
 
  > Interest is paid yearly.   
  > 利息每年支付一次。    
+<audio src="./media/2-yearly.aac"></audio>
 
 
 # ***\#yell*** v
-英音 jel     美音 jel  
+英音 jel  
+英音
+<audio src="./media/yell-B.aac"></audio>
+美音 jel  
+美音
+<audio src="./media/yell.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -155,15 +219,23 @@
 
  > “Help me!”she **yelled at the top of** her **voice** (= very loudly).  
  > “救救我！”她声嘶力竭地喊道。    
+<audio src="./media/1-yell.aac"></audio>
 
 - yell (sth) at sb to do sth:
 
  > He yelled at her to be careful.   
  > 他大声叫她小心。    
+<audio src="./media/2-yell.aac"></audio>
 
 
 # ***\#yell*** n
-英音 jel     美音 jel  
+英音 jel  
+英音
+<audio src="./media/yell-B.aac"></audio>
+美音 jel  
+美音
+<audio src="./media/yell.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -173,7 +245,13 @@
 
 
 # ***\#yellow*** n
-英音 'jeləʊ     美音 'jeloʊ  
+英音 'jeləʊ  
+英音
+<audio src="./media/yellow-B.aac"></audio>
+美音 'jeloʊ  
+美音
+<audio src="./media/yellow.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -185,7 +263,13 @@
 
 
 # ***\#yellow*** adj
-英音 'jeləʊ     美音 'jeloʊ  
+英音 'jeləʊ  
+英音
+<audio src="./media/yellow-B.aac"></audio>
+美音 'jeloʊ  
+美音
+<audio src="./media/yellow.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -195,7 +279,13 @@
 
 
 # ***\#yellowish*** adj
-英音 ˈjeləʊɪʃ     美音 ˈjeləʊɪʃ  
+英音 ˈjeləʊɪʃ  
+英音
+<audio src="./media/yellowish1_AAC.aac"></audio>
+美音 ˈjeləʊɪʃ  
+美音
+<audio src="./media/yellowish2_AAC.aac"></audio>
+
 
   
 
@@ -205,7 +295,13 @@
 
 
 # ***\#yes*** n
-英音 jes     美音 jes  
+英音 jes  
+英音
+<audio src="./media/yes-B.aac"></audio>
+美音 jes  
+美音
+<audio src="./media/yes.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -217,10 +313,17 @@
 
  > Answer with a yes or a no.   
  > 回答是或不是。    
+<audio src="./media/4-yes.aac"></audio>
 
 
 # ***\#yes*** adv
-英音 jes     美音 jes  
+英音 jes  
+英音
+<audio src="./media/yes-B.aac"></audio>
+美音 jes  
+美音
+<audio src="./media/yes.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -230,6 +333,7 @@
 
  > — Will you come?   
  > 你要来吗?    
+<audio src="./media/1-yes.aac"></audio>
 
  > — Yes, I will.   
  > 对，我要来。    
@@ -238,6 +342,7 @@
 
  > — You weren’t invited, were you?   
  > 没有邀请您，是吗？    
+<audio src="./media/2-yes.aac"></audio>
 
  > — Yes, I was.   
  > 不，邀请了。    
@@ -246,10 +351,17 @@
 
  > Your work is good, yes, very good.   
  > 你的工作干得很好，对，干得很好。    
+<audio src="./media/3-yes.aac"></audio>
 
 
 # ***\#yesterday*** adv
-英音 'jestədeɪ, 'jestədi     美音 'jestərdeɪ, 'jestərdi  
+英音 'jestədeɪ, 'jestədi  
+英音
+<audio src="./media/yesterday-B.aac"></audio>
+美音 'jestərdeɪ, 'jestərdi  
+美音
+<audio src="./media/yesterday-m.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -261,10 +373,17 @@
 
  > He arrived yesterday.  
  > 他昨天到的。    
+<audio src="./media/1-yesterday.aac"></audio>
 
 
 # ***\#yesterday*** n
-英音 'jestədeɪ, 'jestədi     美音 'jestərdeɪ, 'jestərdi  
+英音 'jestədeɪ, 'jestədi  
+英音
+<audio src="./media/yesterday-B.aac"></audio>
+美音 'jestərdeɪ, 'jestərdi  
+美音
+<audio src="./media/yesterday-m.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -282,10 +401,17 @@
 
  > Yesterday will not be called again.   
  > 昨日一去不复返。    
+<audio src="./media/2-yesterday.aac"></audio>
 
 
 # ***\#yet*** conj
-英音 jet     美音 jet  
+英音 jet  
+英音
+<audio src="./media/yet-B.aac"></audio>
+美音 jet  
+美音
+<audio src="./media/yet.aac"></audio>
+
 
 | 词频 5 | 书面 2 |  
 
@@ -295,9 +421,11 @@
 
  > The story is simple yet interesting.   
  > 这个故事简单但很有趣。    
+<audio src="./media/8-yet.aac"></audio>
 
  > She is a funny girl, and yet you can’t help liking her.  
  > 她是个滑稽的姑娘，可你会禁不住喜欢她。    
+<audio src="./media/9-yet.aac"></audio>
 
 
 真题解析
@@ -312,7 +440,13 @@ D.thus
 1. A  
 
 # ***\#yet*** adv
-英音 jet     美音 jet  
+英音 jet  
+英音
+<audio src="./media/yet-B.aac"></audio>
+美音 jet  
+美音
+<audio src="./media/yet.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -322,28 +456,34 @@ D.thus
 
  > We haven’t finished the work yet.   
  > 我们还没有完成这项工作。    
+<audio src="./media/1-yet.aac"></audio>
 
 Notes: 在肯定句中用still或already。  
  > She is still young.   
  > 她还年轻。    
+<audio src="./media/2-yet.aac"></audio>
 
  > He has already come back. 他已经回来了 。  
  >     
+<audio src="./media/3-yet.aac"></audio>
 
 ### 2.*高义频：* **[用于表示肯定的疑问句] 已经：**  
 
  > Have you seen the film yet?   
  > 你看过那部电影了吗？    
+<audio src="./media/4-yet.aac"></audio>
 
 ### 3.*低义频：* **[与if, whether从句连用] 已经：**  
 
  > I doubt if she has written the paper yet.   
  > 我怀疑她是否已经写了论文。    
+<audio src="./media/5-yet.aac"></audio>
 
 ### 4.*低义频：* **[用于肯定句中等于still，但有较强的感情色彩] 甚至；更：**  
 
  > I have yet more exciting news to tell you.   
  > 我还有更令人激动的消息告诉你。    
+<audio src="./media/6-yet.aac"></audio>
 
 
 固定搭配
@@ -356,6 +496,7 @@ Notes: 在肯定句中用still或already。
 
  > — Are you ready?   
  > 准备好了吗？    
+<audio src="./media/7-yet.aac"></audio>
 
  > — Not yet.  
  > 还没有。    
@@ -370,7 +511,13 @@ Notes: 在肯定句中用still或already。
 1. Not yet  
 
 # ***\#yield*** n
-英音 jiːld     美音 jiːld  
+英音 jiːld  
+英音
+<audio src="./media/yield1.aac"></audio>
+美音 jiːld  
+美音
+<audio src="./media/yield2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -380,7 +527,13 @@ Notes: 在肯定句中用still或already。
 
 
 # ***\#yield*** vt
-英音 jiːld     美音 jiːld  
+英音 jiːld  
+英音
+<audio src="./media/yield1.aac"></audio>
+美音 jiːld  
+美音
+<audio src="./media/yield2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -390,7 +543,13 @@ Notes: 在肯定句中用still或already。
 
 
 # ***\#yield*** vi
-英音 jiːld     美音 jiːld  
+英音 jiːld  
+英音
+<audio src="./media/yield1.aac"></audio>
+美音 jiːld  
+美音
+<audio src="./media/yield2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -400,7 +559,13 @@ Notes: 在肯定句中用still或already。
 
 
 # ***\#yoga*** n
-英音 'jəʊɡə     美音 'joʊɡə  
+英音 'jəʊɡə  
+英音
+<audio src="./media/yoga1.aac"></audio>
+美音 'joʊɡə  
+美音
+<audio src="./media/yoga2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -410,7 +575,13 @@ Notes: 在肯定句中用still或already。
 
 
 # ***\#yoghurt*** n
-英音 'jɒɡət     美音 'joʊɡərt  
+英音 'jɒɡət  
+英音
+<audio src="./media/yoghurt-B.aac"></audio>
+美音 'joʊɡərt  
+美音
+<audio src="./media/yoghurt.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -422,7 +593,13 @@ Notes: 在肯定句中用still或already。
 
 
 # ***\#yogurt*** n
-英音 ˈjɒɡət     美音 ˈjəʊɡərt  
+英音 ˈjɒɡət  
+英音
+<audio src="./media/yogurt1_AAC.aac"></audio>
+美音 ˈjəʊɡərt  
+美音
+<audio src="./media/yogurt2_AAC.aac"></audio>
+
 
   
 
@@ -432,7 +609,13 @@ Notes: 在肯定句中用still或already。
 
 
 # ***\#you*** pron
-英音 juː, ju     美音 juː, jə  
+英音 juː, ju  
+英音
+<audio src="./media/you1.aac"></audio>
+美音 juː, jə  
+美音
+<audio src="./media/you.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -444,10 +627,17 @@ Notes: 在肯定句中用still或already。
 
  > You have to be careful with people you don’t know.  
  > 对不认识的人要小心。    
+<audio src="./media/1-you.aac"></audio>
 
 
 # ***\#young*** n
-英音 jʌŋ     美音 jʌŋ  
+英音 jʌŋ  
+英音
+<audio src="./media/young-B.aac"></audio>
+美音 jʌŋ  
+美音
+<audio src="./media/young.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -457,12 +647,19 @@ Notes: 在肯定句中用still或already。
 
  > Microbloging is popular with the young.   
  > 年轻人很喜欢发微博。    
+<audio src="./media/3-young.aac"></audio>
 
 ### 2.*高义频：* **幼小动物；崽**  
 
 
 # ***\#young*** adj
-英音 jʌŋ     美音 jʌŋ  
+英音 jʌŋ  
+英音
+<audio src="./media/young-B.aac"></audio>
+美音 jʌŋ  
+美音
+<audio src="./media/young.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -476,6 +673,7 @@ Notes: 在肯定句中用still或already。
 
  > Young babies sleep a great deal.   
  > 幼儿睡的时间长。    
+<audio src="./media/1-young.aac"></audio>
 
 ### 2.*高义频：* **新兴的；新的：**  
 
@@ -486,10 +684,17 @@ Notes: 在肯定句中用still或already。
 
  > She looks young for her age.   
  > 她看起来比实际年龄小。    
+<audio src="./media/2-young.aac"></audio>
 
 
 # ***\#youngster*** n
-英音 'jʌŋstə(r)     美音 'jʌŋstər  
+英音 'jʌŋstə(r)  
+英音
+<audio src="./media/youngster1.aac"></audio>
+美音 'jʌŋstər  
+美音
+<audio src="./media/youngster2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -499,7 +704,13 @@ Notes: 在肯定句中用still或already。
 
 
 # ***\#your*** pron
-英音 jɔː(r)     美音 jʊr  
+英音 jɔː(r)  
+英音
+<audio src="./media/your-B.aac"></audio>
+美音 jʊr  
+美音
+<audio src="./media/your.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -509,7 +720,13 @@ Notes: 在肯定句中用still或already。
 
 
 # ***\#yours*** pron
-英音 jɔːz     美音 jərz  
+英音 jɔːz  
+英音
+<audio src="./media/yours-B.aac"></audio>
+美音 jərz  
+美音
+<audio src="./media/yours.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 1 |  
 
@@ -519,18 +736,27 @@ Notes: 在肯定句中用still或already。
 
  > My hands are clean, but yours are dirty.  
  > 我的手干净，但你的(手)很脏。    
+<audio src="./media/1-yours.aac"></audio>
 
  > I like my toy. I don’t like yours.   
  > 我喜欢我的玩具，我不喜欢你的(玩具)。    
+<audio src="./media/2-yours.aac"></audio>
 
  > That book is yours.   
  > 那本书是你的。    
+<audio src="./media/3-yours.aac"></audio>
 
 ### 2.*高义频：* **[在信末署名前与truly, faithfully, sincerely等连用] 敬上**  
 
 
 # ***\#yourself*** pron
-英音 jɔː'self     美音 jɔːr'self  
+英音 jɔː'self  
+英音
+<audio src="./media/yourself-B.aac"></audio>
+美音 jɔːr'self  
+美音
+<audio src="./media/yourself.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -542,9 +768,11 @@ Notes: 在肯定句中用still或already。
 
  > Chris, tell us a bit about yourself.  
  > 克里斯，给我们讲讲你自己吧。  （2016 全国）  
+<audio src="./media/Chris, tell us a bit about yourself2_AAC.aac"></audio>
 
  > You yourself told me the news.   
  > 是你亲自把这消息告诉我的。    
+<audio src="./media/2-yourself.aac"></audio>
 
 
 真题解析
@@ -555,7 +783,13 @@ Notes: 在肯定句中用still或already。
 1. yourself  
 
 # ***\#youth*** n
-英音 juːθ     美音 juːθ  
+英音 juːθ  
+英音
+<audio src="./media/youth-B.aac"></audio>
+美音 juːθ  
+美音
+<audio src="./media/youth.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -567,11 +801,13 @@ Notes: 在肯定句中用still或already。
 
  > He worked with wood during his early youth. 年轻时，他做过木匠。   
  >   （北师大② – 6）  
+<audio src="./media/1-youth.aac"></audio>
 
 ### 2.*高义频：* **[U] 青春；朝气：**  
 
  > Her face still kept its youth.   
  > 她的面容青春尤驻。    
+<audio src="./media/2-youth.aac"></audio>
 
 ### 3.*高义频：* **[C] 青年男子； 小伙子**  
 
@@ -579,10 +815,17 @@ Notes: 在肯定句中用still或already。
 
  > **The youth of today** has / have greater opportunities than ever before.   
  > 现在的年轻人拥有的机会比以往任何时候都要多。    
+<audio src="./media/3-youth.aac"></audio>
 
 
 # ***\#yummy*** adj
-英音 'jʌmi     美音 'jʌmi  
+英音 'jʌmi  
+英音
+<audio src="./media/yummy-B.aac"></audio>
+美音 'jʌmi  
+美音
+<audio src="./media/yummy.aac"></audio>
+
 
 | 词频 1 |  
 

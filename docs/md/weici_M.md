@@ -1,7 +1,13 @@
 # Mm
 
 # ***\#machine*** n
-英音 mə'ʃiːn     美音 mə'ʃiːn  
+英音 mə'ʃiːn  
+英音
+<audio src="./media/machine-B.aac"></audio>
+美音 mə'ʃiːn  
+美音
+<audio src="./media/machine.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -22,10 +28,17 @@
 
  > The machine works well.   
  > 这台机器运转良好。    
+<audio src="./media/machine-1.aac"></audio>
 
 
 # ***\#machinery*** n
-英音 mə'ʃiːnəri     美音 mə'ʃiːnəri  
+英音 mə'ʃiːnəri  
+英音
+<audio src="./media/machinery-B.aac"></audio>
+美音 mə'ʃiːnəri  
+美音
+<audio src="./media/machinery.aac"></audio>
+
 
 | 词频 2 | 书面 1 | 阅读 1 |  
 
@@ -40,7 +53,13 @@
 
 
 # ***\#mad*** adj
-英音 mæd     美音 mæd  
+英音 mæd  
+英音
+<audio src="./media/mad-B.aac"></audio>
+美音 mæd  
+美音
+<audio src="./media/mad.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 1 |  
 
@@ -50,19 +69,23 @@
 
  > The fans **went mad with joy** because, in their mind, the right team had won.   
  > 球迷们欣喜若狂，因为在他们看来，应获胜的队赢了。    
+<audio src="./media/mad-2.aac"></audio>
 
 ### 2.*高义频：* **[非正式用语] 愚蠢的；狂妄的：**  
 
  > Surely no one would be mad enough to fly in this weather.   
  > 肯定没有人会这么疯狂，敢在这样的天气飞行。    
+<audio src="./media/mad-3.aac"></audio>
 
 ### 3.*高义频：* **[非正式用语] [不用于名词前] 很生气的：**  
 
  > Mother got **mad with** me for watching **TV** so much.  
  > 我看电视太多了，惹得妈妈大发脾气。    
+<audio src="./media/mad-517_AAC.aac"></audio>
 
  > What are you so **mad about**?  
  > 什么事让你火气这么大？    
+<audio src="./media/What are you so mad about2_AAC.aac"></audio>
 
 ### 4.*高义频：* **[非正式用语] 狂热的；着迷的 (crazy)：**  
 
@@ -70,9 +93,11 @@
 
  > My daughter is mad on Robbie Williams.  
  > 我女儿对罗比·威廉姆斯非常着迷。    
+<audio src="./media/mad-517-1_AAC.aac"></audio>
 
  > He is mad about computer games.  
  > 他迷上了电脑游戏。    
+<audio src="./media/mad-517-2_AAC.aac"></audio>
 
 
 派生词汇
@@ -80,7 +105,13 @@
 madly  /'mædli/ adv   
 
 # ***\#madam*** n
-英音 'mædəm     美音 'mædəm  
+英音 'mædəm  
+英音
+<audio src="./media/madam-B.aac"></audio>
+美音 'mædəm  
+美音
+<audio src="./media/madam.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -92,7 +123,13 @@ madly  /'mædli/ adv
 
 
 # ***\#magazine*** n
-英音 ˌmæɡə'ziːn     美音 'mæɡəziːn  
+英音 ˌmæɡə'ziːn  
+英音
+<audio src="./media/magazine-B.aac"></audio>
+美音 'mæɡəziːn  
+美音
+<audio src="./media/magazine.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 2 |  
 
@@ -104,10 +141,17 @@ madly  /'mædli/ adv
 
  > She has written many articles for a popular women's magazine.  
  > 她为一家妇女杂志写过很多文章。    
+<audio src="./media/magazine-517_AAC.aac"></audio>
 
 
 # ***\#magic*** n
-英音 'mædʒɪk     美音 'mædʒɪk  
+英音 'mædʒɪk  
+英音
+<audio src="./media/magic-B.aac"></audio>
+美音 'mædʒɪk  
+美音
+<audio src="./media/magic.aac"></audio>
+
 
 | 词频 3 | 书面 1 |  
 
@@ -122,6 +166,7 @@ madly  /'mædli/ adv
 
  > The prince was turned by magic into a frog.   
  > 王子被魔法变成了一只青蛙。    
+<audio src="./media/magic-1.aac"></audio>
 
 ### 2.*高义频：* **魔力；魅力：**  
 
@@ -130,7 +175,13 @@ madly  /'mædli/ adv
 
 
 # ***\#magic*** adj
-英音 'mædʒɪk     美音 'mædʒɪk  
+英音 'mædʒɪk  
+英音
+<audio src="./media/magic-B.aac"></audio>
+美音 'mædʒɪk  
+美音
+<audio src="./media/magic.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -148,7 +199,13 @@ madly  /'mædli/ adv
 
 
 # ***\#magical*** adj
-英音 'mædʒɪkl     美音 'mædʒɪkl  
+英音 'mædʒɪkl  
+英音
+<audio src="./media/magical-B.aac"></audio>
+美音 'mædʒɪkl  
+美音
+<audio src="./media/magical.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -158,7 +215,13 @@ madly  /'mædli/ adv
 
 
 # ***\#magnesium*** n
-英音 mæɡ'niːziəm     美音 mæɡ'niːziəm  
+英音 mæɡ'niːziəm  
+英音
+<audio src="./media/magnesium1.aac"></audio>
+美音 mæɡ'niːziəm  
+美音
+<audio src="./media/magnesium2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -168,7 +231,13 @@ madly  /'mædli/ adv
 
 
 # ***\#magnetic*** adj
-英音 mæɡ'netɪk     美音 mæɡ'netɪk  
+英音 mæɡ'netɪk  
+英音
+<audio src="./media/magnetic1.aac"></audio>
+美音 mæɡ'netɪk  
+美音
+<audio src="./media/magnetic2.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -178,7 +247,13 @@ madly  /'mædli/ adv
 
 
 # ***\#magnificent*** adj
-英音 mæɡ'nɪfɪsnt     美音 mæɡ'nɪfɪsnt  
+英音 mæɡ'nɪfɪsnt  
+英音
+<audio src="./media/magnificent-B.aac"></audio>
+美音 mæɡ'nɪfɪsnt  
+美音
+<audio src="./media/magnificent.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -191,7 +266,13 @@ madly  /'mædli/ adv
 
 
 # ***\#magnitude*** n
-英音 'mæɡnɪtjuːd     美音 'mæɡnɪtuːd  
+英音 'mæɡnɪtjuːd  
+英音
+<audio src="./media/Magnitude1_AAC.aac"></audio>
+美音 'mæɡnɪtuːd  
+美音
+<audio src="./media/Magnitude2_AAC.aac"></audio>
+
 
   
 
@@ -201,7 +282,13 @@ madly  /'mædli/ adv
 
 
 # ***\#magpie*** n
-英音 'mæɡpaɪ     美音 'mæɡpaɪ  
+英音 'mæɡpaɪ  
+英音
+<audio src="./media/magpie-B.aac"></audio>
+美音 'mæɡpaɪ  
+美音
+<audio src="./media/magpie.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -213,7 +300,13 @@ madly  /'mædli/ adv
 
 
 # ***\#maid*** n
-英音 meɪd     美音 meɪd  
+英音 meɪd  
+英音
+<audio src="./media/maid-B.aac"></audio>
+美音 meɪd  
+美音
+<audio src="./media/maid.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -225,7 +318,13 @@ madly  /'mædli/ adv
 
 
 # ***\#mail*** n
-英音 meɪl     美音 meɪl  
+英音 meɪl  
+英音
+<audio src="./media/mail-B.aac"></audio>
+美音 meɪl  
+美音
+<audio src="./media/mail.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 |  
 
@@ -237,6 +336,7 @@ madly  /'mædli/ adv
 
  > Is there any mail for me today?   
  > 今天有我的邮件吗?    
+<audio src="./media/mail-1.aac"></audio>
 
 ### 2.*高义频：* **邮政；邮递 (系统) (BrE post)：**  
 
@@ -245,12 +345,19 @@ madly  /'mædli/ adv
 
  > Advance booking can be received **by mail**.  
  > 可以通过邮件提前预订。  （2008 四川）  
+<audio src="./media/mail-517_AAC.aac"></audio>
 
 ### 3.*高义频：* **电子邮件 (e-mail)**  
 
 
 # ***\#mail*** vt
-英音 meɪl     美音 meɪl  
+英音 meɪl  
+英音
+<audio src="./media/mail-B.aac"></audio>
+美音 meɪl  
+美音
+<audio src="./media/mail.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -260,10 +367,17 @@ madly  /'mædli/ adv
 
  > **Mail** your entry **to** us by October 31 this year.  
  > 请于今年10月31日前将参赛作品寄给我们。  （2020山东）  
+<audio src="./media/Mail your entry to us by October 31 this year2_AAC.aac"></audio>
 
 
 # ***\#mailbox*** n
-英音 'meɪlbɒks     美音 'meɪlbɑːks  
+英音 'meɪlbɒks  
+英音
+<audio src="./media/mailbox-B.aac"></audio>
+美音 'meɪlbɑːks  
+美音
+<audio src="./media/mailbox.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -275,7 +389,13 @@ madly  /'mædli/ adv
 
 
 # ***\#main*** adj
-英音 meɪn     美音 meɪn  
+英音 meɪn  
+英音
+<audio src="./media/main-B.aac"></audio>
+美音 meɪn  
+美音
+<audio src="./media/main.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -289,10 +409,17 @@ madly  /'mædli/ adv
 
  > I took notes of the main points of his lecture.   
  > 我把他讲座的要点记了笔记。    
+<audio src="./media/main-1.aac"></audio>
 
 
 # ***\#main*** n
-英音 meɪn     美音 meɪn  
+英音 meɪn  
+英音
+<audio src="./media/main-B.aac"></audio>
+美音 meɪn  
+美音
+<audio src="./media/main.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -304,10 +431,17 @@ madly  /'mædli/ adv
 
  > The new house is not yet connected to the mains.  
  > 新房子(的水电)还没有与总管道接通。    
+<audio src="./media/main-2.aac"></audio>
 
 
 # ***\#mainland*** n
-英音 'meɪnlænd     美音 'meɪnlænd  
+英音 'meɪnlænd  
+英音
+<audio src="./media/mainland-B.aac"></audio>
+美音 'meɪnlænd  
+美音
+<audio src="./media/mainland.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -322,7 +456,13 @@ madly  /'mædli/ adv
 
 
 # ***\#mainly*** adv
-英音 'meɪnli     美音 'meɪnli  
+英音 'meɪnli  
+英音
+<audio src="./media/mainly-B.aac"></audio>
+美音 'meɪnli  
+美音
+<audio src="./media/mainly.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 2 |  
 
@@ -332,13 +472,21 @@ madly  /'mædli/ adv
 
  > You are mainly responsible for the trouble.   
  > 你应该对这次事故负主要责任。    
+<audio src="./media/mainly-2.aac"></audio>
 
  > The visitors were mainly students.  
  > 参观者主要是学生。    
+<audio src="./media/mainly-1.aac"></audio>
 
 
 # ***\#mainstream*** n
-英音 'meɪnstriːm     美音 'meɪnstriːm  
+英音 'meɪnstriːm  
+英音
+<audio src="./media/mainstream-B.aac"></audio>
+美音 'meɪnstriːm  
+美音
+<audio src="./media/mainstream.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -348,7 +496,13 @@ madly  /'mædli/ adv
 
 
 # ***\#maintain*** vt
-英音 meɪn'teɪn     美音 meɪn'teɪn  
+英音 meɪn'teɪn  
+英音
+<audio src="./media/maintain-B.aac"></audio>
+美音 meɪn'teɪn  
+美音
+<audio src="./media/maintain.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 3 | 阅读 3 |  
 
@@ -359,9 +513,11 @@ madly  /'mædli/ adv
 
  > Social media tools let us see what our friends are up to and maintain friendships.  
  > 社交媒体工具能让我们知晓朋友的动向，并维持友谊。  （外研新必修① – 4）  
+<audio src="./media/Social media tools let us see what our friends2_AAC.aac"></audio>
 
  > The Amazon rainforest plays a significant role in maintaining the fine balance of the Earth's ecosystem.  
  > 亚马孙雨林在维系地球生态的微妙系统上扮演着举足轻重的角色。  （译林新必修③ – 1改）  
+<audio src="./media/The Amazon rainforest plays a significant role2_AAC.aac"></audio>
 
 ### 2.*高义频：* **维护；保养**  
 英译 to keep sth in good condition by checking and repairing it：
@@ -371,16 +527,24 @@ madly  /'mædli/ adv
 
  > He is responsible for maintaining all the buildings.   
  > 他负责维护所有大楼。    
+<audio src="./media/maintain-2.aac"></audio>
 
 ### 3.*高义频：* **坚持认为**  
 英译 to keep saying that sth is true even when others disagree or do not believe it (insist)：
 
  > He **maintained that** such things should never be done again.  
  > 他坚持认为再也不能做这样的事情了。    
+<audio src="./media/maintain-3.aac"></audio>
 
 
 # ***\#maintenance*** n
-英音 ˈmeɪntənəns     美音 ˈmeɪntənəns  
+英音 ˈmeɪntənəns  
+英音
+<audio src="./media/maintenance1_AAC.aac"></audio>
+美音 ˈmeɪntənəns  
+美音
+<audio src="./media/maintenance2_AAC.aac"></audio>
+
 
   
 
@@ -390,7 +554,13 @@ madly  /'mædli/ adv
 
 
 # ***\#maize*** n
-英音 meɪz     美音 meɪz  
+英音 meɪz  
+英音
+<audio src="./media/maize1.aac"></audio>
+美音 meɪz  
+美音
+<audio src="./media/maize2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -400,7 +570,13 @@ madly  /'mædli/ adv
 
 
 # ***\#majesty*** n
-英音 'mædʒəsti     美音 'mædʒəsti  
+英音 'mædʒəsti  
+英音
+<audio src="./media/majesty1_AAC.aac"></audio>
+美音 'mædʒəsti  
+美音
+<audio src="./media/majesty2_AAC.aac"></audio>
+
 
   
 
@@ -410,7 +586,13 @@ madly  /'mædli/ adv
 
 
 # ***\#major*** adj
-英音 'meɪdʒə(r)     美音 'meɪdʒər  
+英音 'meɪdʒə(r)  
+英音
+<audio src="./media/major-B.aac"></audio>
+美音 'meɪdʒər  
+美音
+<audio src="./media/major.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -425,11 +607,13 @@ madly  /'mædli/ adv
 
  > The major challenge of this century is to find ways to meet the needs of a growing population.  
  > 本世纪主要的挑战是寻求能满足日益增长的人口的需求的途径。  （2011 广东）  
+<audio src="./media/major-1.aac"></audio>
 
 ### 2.*高义频：* **严重的 (serious)：**  
 
  > There is a major problem with parking in many cities.  
  > 在许多城市停车都是个大问题。    
+<audio src="./media/There is a major problem_AAC.aac"></audio>
 
 ### 3.*低义频：* **(AmE) (课程) 主修的：**  
 
@@ -438,7 +622,13 @@ madly  /'mædli/ adv
 
 
 # ***\#major*** n
-英音 'meɪdʒə(r)     美音 'meɪdʒər  
+英音 'meɪdʒə(r)  
+英音
+<audio src="./media/major-B.aac"></audio>
+美音 'meɪdʒər  
+美音
+<audio src="./media/major.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -450,13 +640,21 @@ madly  /'mædli/ adv
 
  > I think I should change my major to art history.   
  > 我想把专业改成艺术史。  （2008 天津）  
+<audio src="./media/major-2.aac"></audio>
 
  > Are most of you English majors?   
  > 你们大多数是英语专业的学生吗？    
+<audio src="./media/major-3.aac"></audio>
 
 
 # ***\#major*** vi
-英音 'meɪdʒə(r)     美音 'meɪdʒər  
+英音 'meɪdʒə(r)  
+英音
+<audio src="./media/major-B.aac"></audio>
+美音 'meɪdʒər  
+美音
+<audio src="./media/major.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -466,10 +664,17 @@ madly  /'mædli/ adv
 
  > He inspires me to major in English in college, to be a bridge between China and the world.  
  > 他鼓励我在大学主修英语，在中国和世界之间起沟通作用。  （2016 北京书面表达）  
+<audio src="./media/major50.aac"></audio>
 
 
 # ***\#majority*** n
-英音 mə'dʒɒrəti     美音 mə'dʒɔːrəti  
+英音 mə'dʒɒrəti  
+英音
+<audio src="./media/majority-B.aac"></audio>
+美音 mə'dʒɔːrəti  
+美音
+<audio src="./media/majority.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 3 | 阅读 3 |  
 
@@ -482,20 +687,25 @@ madly  /'mædli/ adv
 
  > We live in a country where women **are in the majority**.   
  > 在我们居住的国家里，妇女占大多数。    
+<audio src="./media/majority-1.aac"></audio>
 
 Notes: majority 常与of连用，后接复数可数名词。 当“majority of + 复数名词”作主语时，谓语动词一般用复数。当“majority of + 集体名词”作主语时，谓语动词用单、复数均可。  
  > **The majority of** students find it quite hard to learn German.  
  > 大部分学生认为学德语很难。    
+<audio src="./media/The majority of students _AAC.aac"></audio>
 
  > **The majority of** the population lives / live in the north of the island.  
  > 大部分人口住在岛屿北部。    
+<audio src="./media/majority-517-1_AAC.aac"></audio>
 
 Notes: 当majority后不接of短语时，如强调整体，谓语动词用单数；如强调众多个体，谓语动词用复数。  
  > The majority was / were in favour of the proposal.  
  > 大多数人赞成这个提议。    
+<audio src="./media/majority-517-2_AAC.aac"></audio>
 
  > Who says the majority is always able to make the minority agree with their idea?  
  > 谁说多数人总能使少数人同意他们的想法？    
+<audio src="./media/majority-517-3_AAC.aac"></audio>
 
 
 真题解析
@@ -507,7 +717,13 @@ Notes: 当majority后不接of短语时，如强调整体，谓语动词用单数
 1. is; are  
 
 # ***\#make*** vt  重难点词汇
-英音 meɪk     美音 meɪk  
+英音 meɪk  
+英音
+<audio src="./media/make-B.aac"></audio>
+美音 meɪk  
+美音
+<audio src="./media/make1.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -525,6 +741,7 @@ Notes: 当majority后不接of短语时，如强调整体，谓语动词用单数
 
  > The decision to be made at the meeting will influence the future of our company.   
  > 会议上要作出的决定将会影响公司的未来。  （ 2012 重庆）  
+<audio src="./media/make1-1.aac"></audio>
 
 ### 2.*高义频：* **制定；写：**  
 
@@ -545,31 +762,38 @@ Notes: 当majority后不接of短语时，如强调整体，谓语动词用单数
 
  > She let me see that making others feel good made me feel good, too.   
  > 她让我明白了使他人开心也会使自己开心。  （2013 山东）  
+<audio src="./media/make1-2.aac"></audio>
 
 Notes: 被动式为be made to do sth  
  > They were made to work for long hours.  
  > 他们被迫工作很长时间。    
+<audio src="./media/make1-They were made.aac"></audio>
 
 - make sb / sth done:
 
  > She tried to make herself understood while giving her talk.   
  > 演讲时，她尽量表达清楚自己的意思。    
+<audio src="./media/make1-4.aac"></audio>
 
 - make sb / sth + adj / prep / n:
 
  > This film made him a star.   
  > 这部影片使他成为明星。    
+<audio src="./media/make1-5.aac"></audio>
 
  > The high-speed train has made it much more convenient for people to go back home.  
  > 高铁让人们回家更方便了。  （译林新必修② – 3改）  
+<audio src="./media/The high-speed train has made it much more convenient2_AAC.aac"></audio>
 
 ### 5.*高义频：* **成为；变成：**  
 
  > You would make an excellent physician.   
  > 你有望成为一名优秀的内科医生。  （北师大④ – 12）  
+<audio src="./media/make1-7.aac"></audio>
 
  > Hearing the news that he had made (= get a place in) the school team, David joyfully bounced the ball against the wall.  
  > 听到他被选入校队的消息，大卫高兴地把球往墙上弹了一下。  （人教新选必④ – 5）  
+<audio src="./media/Hearing the news that he had made the school team2_AAC.aac"></audio>
 
 
 固定搭配
@@ -579,9 +803,11 @@ Notes: 被动式为be made to do sth
 
  > Early paper in China was made from bamboo fibre.   
  > 中国早期的纸是由竹子纤维制成的。  （北师大⑦ – 12）  
+<audio src="./media/make1-8.aac"></audio>
 
  > In the Middle Ages the houses were made of wood.  
  > 在中世纪时，房子是由木头建造的。  （外研⑧ – 2）  
+<audio src="./media/make1-9.aac"></audio>
 
 Notes: be made from通常指从制成品中看不出原料，而be made of通常从成品中能看出原料。  
 ## \#make away with
@@ -592,78 +818,94 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 
  > He showed us that even a single desire, never given up on, can make for a remarkable life.  
  > 他向我们证明，即使只是一个愿望，只要不放弃，也可以成就非凡的人生。  （2021浙江）  
+<audio src="./media/He showed us that even a single desire2_AAC.aac"></audio>
 
 ## \#make … into 
 1.**把…变成 (turn ... into)：**  
 
  > We can make your room into a study.   
  > 我们可以把你的房间改成书房。    
+<audio src="./media/make1-10.aac"></audio>
 
  > People make themselves into winners by their own efforts.  
  > 人们靠自己的努力使自己成为赢家。  （2018 天津）  
+<audio src="./media/make1-517_AAC.aac"></audio>
 
 ## \#make it
 1.*高义频：* **做到；成功：**  
 
  > As long as you have a dream, keep trying and you’ll make it.  
  > 只要你有梦想，不断努力就一定会成功。  （2014 山东书面表达）  
+<audio src="./media/make50.aac"></audio>
 
  > How many of you made it to the top of the mountain in the end?  
  > 你们中有多少人最终爬到了山顶？    
+<audio src="./media/P268 make2.aac"></audio>
 
 2.*高义频：* **(尤指在困难情况下) 准时到达；赶上：**  
 
  > The flight leaves in twenty minutes — we’ll never make it.   
  > 再过20分钟飞机就要起飞，我们无论如何也赶不上了。    
+<audio src="./media/make1-12.aac"></audio>
 
 3.*高义频：* **渡过难关：**  
 
  > Shay didn’t make it to another summer and died that winter.   
  > 谢伊没有熬到第二年夏天，他在那个冬天就去世了。  （2011 江苏）  
+<audio src="./media/make1-13.aac"></audio>
 
 4.*高义频：* **[口语] 能参加；能出席：**  
 
  > I’m sorry I didn’t make it to your party last night.  
  > 我很抱歉昨晚没能参加你的聚会。  （2011 浙江）  
+<audio src="./media/P268 make3.aac"></audio>
 
 ## \#make of
 1.**理解；对待：**  
 
  > It's not what happens to us that determines our lives— it's what we make of what happens.  
  > 不是发生在我们身上的事情决定了我们的生活——而是我们如何看待发生的事情。  （2020江苏）  
+<audio src="./media/It's not what happens to us that determines our lives2_AAC.aac"></audio>
 
 ## \#make out
 1.*高义频：* **勉强看见；听出(distinguish)：**  
 
  > On the plain in front of us, we can just make out a herd of graceful animals.  
  > 放眼平原，我们隐约看到一群体型优美的动物。  （人教新必修② – 2）  
+<audio src="./media/On the plain in front of us, we can just make out a herd of graceful animals2_AAC.aac"></audio>
 
  > Kate heard a man's voice in the background, but she couldn't make out what he was saying.  
  > 凯特听到背景中有一个男人的声音，但是她听不清他在说什么。  （2019天津）  
+<audio src="./media/Kate heard a man's voice in the background2_AAC.aac"></audio>
 
 2.*高义频：* **理解；弄清：**  
 
  > I couldn't make out what I had done to annoy her.  
  > 我搞不清自己做了什么惹她不高兴。    
+<audio src="./media/I couldn't make out what I had done to annoy her2_AAC.aac"></audio>
 
 3.*低义频：* **写出；开列：**  
 
  > She was making out a list of people to invite.   
  > 她正在写一份邀请名单。    
+<audio src="./media/make1-18.aac"></audio>
 
 4.*低义频：* **装作；假装：**  
 
  > He made out that he was a famous doctor.   
  > 他假装自己是一名知名医生。  （ 译林⑦ – 2）  
+<audio src="./media/make-He made out.aac"></audio>
 
 ## \#make up
 1.*高义频：* **[不用于进行时] 组成；构成：**  
 
  > In some languages, 100 words make up half of all words used in daily conversations.   
  > 在一些语言中，100个词就构成了一半的日常会话用语。  （2013 天津）  
+<audio src="./media/make1-19.aac"></audio>
 
  > With life being made up of ups and downs, it is not always easy to maintain a good and enthusiastic attitude**make up of**  
  > 人生起起落落，要保持一个积极向上的态度并不容易。  （外研新选必① – 2）  
+<audio src="./media/With life being made up of ups and downs2_AAC.aac"></audio>
 
 2.*高义频：* **编写；编造：**  
 
@@ -672,22 +914,26 @@ Notes: be made from通常指从制成品中看不出原料，而be made of通常
 
  > At your first meeting you should make up a rule book.   
  > 在第一次会议上，你要编写出一个规章手册。    
+<audio src="./media/make1-21.aac"></audio>
 
 3.*低义频：* **为…化妆：**  
 
  > They made him up as an old man for the last act of the play.   
  > 在演这出戏的最后一幕时，他们把他打扮成一个老头。    
+<audio src="./media/make1-22.aac"></audio>
 
 4.*低义频：* **[非正式用语] 和解：**  
 
  > They have quarreled seriously three times but each time they have made up and become best friends gain.  
  > 她们之间发生过3次激烈的争吵，但每次都重归于好。  （外研⑥ – 3）  
+<audio src="./media/make1-23.aac"></audio>
 
 ## \#make up for 
 1.**弥补：**  
 
  > Westerners should take advantage of the ancient Chinese wisdom to make up for the drawbacks of Western philosophy.  
  > 西方人应当利用古老的中国智慧弥补西方哲学的不足。  （2012 辽宁）  
+<audio src="./media/Westerners should take advantage _AAC.aac"></audio>
 
 
 真题解析
@@ -710,7 +956,13 @@ D.set up
 1. have made  2. makes up for  3. it  4. A  5. make up  6. up  
 
 # ***\#make*** n  重难点词汇
-英音 meɪk     美音 meɪk  
+英音 meɪk  
+英音
+<audio src="./media/make-B.aac"></audio>
+美音 meɪk  
+美音
+<audio src="./media/make1.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -722,13 +974,21 @@ D.set up
 
  > What make is your car?   
  > 你的车是什么牌子的？    
+<audio src="./media/make2-1.aac"></audio>
 
  > There are so many different **makes of** computers to choose from.  
  > 有很多不同的型号的电脑可供选择。    
+<audio src="./media/make2-517_AAC.aac"></audio>
 
 
 # ***\#make-up*** n
-英音 'meɪkʌp     美音 'meɪkˌʌp  
+英音 'meɪkʌp  
+英音
+<audio src="./media/makeup-B.aac"></audio>
+美音 'meɪkˌʌp  
+美音
+<audio src="./media/makeup.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -740,10 +1000,17 @@ D.set up
 
  > She seldom **wears make-up**.  
  > 她很少化妆。    
+<audio src="./media/make-up-517_AAC.aac"></audio>
 
 
 # ***\#makeover*** n
-英音 'meɪkəʊvə(r)     美音 'meɪkoʊvər  
+英音 'meɪkəʊvə(r)  
+英音
+<audio src="./media/makeover1.aac"></audio>
+美音 'meɪkoʊvər  
+美音
+<audio src="./media/makeover2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -753,7 +1020,13 @@ D.set up
 
 
 # ***\#malaria*** n
-英音 mə'leəriə     美音 mə'leriə  
+英音 mə'leəriə  
+英音
+<audio src="./media/malaria1.aac"></audio>
+美音 mə'leriə  
+美音
+<audio src="./media/malaria2.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -763,7 +1036,13 @@ D.set up
 
 
 # ***\#male*** adj
-英音 meɪl     美音 meɪl  
+英音 meɪl  
+英音
+<audio src="./media/male-B.aac"></audio>
+美音 meɪl  
+美音
+<audio src="./media/male.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -773,10 +1052,17 @@ D.set up
 
  > Male animals are often larger than the females.   
  > 雄性动物常常比雌性动物大。    
+<audio src="./media/male-1.aac"></audio>
 
 
 # ***\#male*** n
-英音 meɪl     美音 meɪl  
+英音 meɪl  
+英音
+<audio src="./media/male-B.aac"></audio>
+美音 meɪl  
+美音
+<audio src="./media/male.aac"></audio>
+
 
 | 词频 4 | 书面 1 |  
 
@@ -788,7 +1074,13 @@ D.set up
 
 
 # ***\#mall*** n
-英音 mɔːl; mæl     美音 mɔːl  
+英音 mɔːl; mæl  
+英音
+<audio src="./media/mall-B.aac"></audio>
+美音 mɔːl  
+美音
+<audio src="./media/mall.aac"></audio>
+
 
 | 词频 1 | 口语 1 | 书面 1 |  
 
@@ -803,7 +1095,13 @@ D.set up
 
 
 # ***\#mammal*** n
-英音 'mæml     美音 'mæml  
+英音 'mæml  
+英音
+<audio src="./media/mammal-B.aac"></audio>
+美音 'mæml  
+美音
+<audio src="./media/mammal.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -815,7 +1113,13 @@ D.set up
 
 
 # ***\#man*** n
-英音 mæn     美音 mæn  
+英音 mæn  
+英音
+<audio src="./media/man-B.aac"></audio>
+美音 mæn  
+美音
+<audio src="./media/man.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -827,20 +1131,29 @@ D.set up
 
  > Come on, **be a man** now. No more crying.   
  > 好啦，做个男子汉，不要再哭了。    
+<audio src="./media/man-1.aac"></audio>
 
 ### 2.*低义频：* **(不论性别的) 人：**  
 
  > Any man could do it.   
  > 这事儿任何人都能做。    
+<audio src="./media/man-2.aac"></audio>
 
 ### 3.*高义频：* **人类：**  
 
  > Man has caused much damage to the environment.  
  > 人类已对环境造成了很大的破坏。    
+<audio src="./media/man-3.aac"></audio>
 
 
 # ***\#man-made*** adj
-英音 ˌmæn'meɪd     美音 ˌmæn'meɪd  
+英音 ˌmæn'meɪd  
+英音
+<audio src="./media/man-made-B.aac"></audio>
+美音 ˌmæn'meɪd  
+美音
+<audio src="./media/man-made.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -854,7 +1167,13 @@ D.set up
 
 
 # ***\#manage*** v  重难点词汇
-英音 'mænɪdʒ     美音 'mænɪdʒ  
+英音 'mænɪdʒ  
+英音
+<audio src="./media/manage-B.aac"></audio>
+美音 'mænɪdʒ  
+美音
+<audio src="./media/manage.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -865,9 +1184,11 @@ D.set up
 
  > Small sailboats can easily turn over in the water if they are not managed carefully.   
  > 如果掌控不够小心，小帆船极易侧翻。    
+<audio src="./media/manage-4.aac"></audio>
 
  > It’s hard to manage so naughty a child.   
  > 对付这样淘气的孩子不容易。    
+<audio src="./media/manage-5.aac"></audio>
 
 ### 2.*高义频：* **管理；经营**  
 英译 to be in charge or control of sth：
@@ -877,29 +1198,34 @@ D.set up
 
  > We need people who are good at managing.   
  > 我们需要擅长管理的人。    
+<audio src="./media/manage-1.aac"></audio>
 
 ### 3.*高义频：* **设法做成；努力完成**  
 英译 to succeed in doing or dealing with sth difficult：
 
  > I don’t know how she **manages** on her own **with** four kids.   
  > 我真不知道她一个人是怎么养活四个孩子的。    
+<audio src="./media/manage-2.aac"></audio>
 
 - manage to do sth:
 
  > After countless interviews, I managed to stand out among the candidates and survive the test alone.  
  > 在无数次面试后，我成功地从众多应征者中脱颖而出，仅我一个人在测试中过关。  （2014 广东改）  
+<audio src="./media/manage-After countless interviews.aac"></audio>
 
 ### 4.*高义频：* **合理地利用 (金钱、时间等)**  
 英译 to use your time, money etc. sensibly：
 
  > You need to learn to manage your time more effectively.  
  > 你应该学会更有效地利用自己的时间。    
+<audio src="./media/You need to learn to _AAC.aac"></audio>
 
 ### 5.*高义频：* **支撑；凑合着活下去**  
 英译 to be able to live without having much money：
 
  > He has to **manage on** less than $100 a week.   
  > 他只好靠每周不到100美元来维持生活。    
+<audio src="./media/manage-7.aac"></audio>
 
 #### 辨析 manage, try
   
@@ -907,6 +1233,7 @@ D.set up
 **try ** 强调动作，不表示结果如何。
  > I’ll try to get downtown this afternoon but I don’t know if I can make it.   
  > 今天下午我想去市中心，但不知是否能去成。    
+<audio src="./media/manage-11.aac"></audio>
 
 
 
@@ -921,7 +1248,13 @@ D.construct
 1. manage  
 
 # ***\#management*** n
-英音 'mænɪdʒmənt     美音 'mænɪdʒmənt  
+英音 'mænɪdʒmənt  
+英音
+<audio src="./media/management-B.aac"></audio>
+美音 'mænɪdʒmənt  
+美音
+<audio src="./media/management.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 |  
 
@@ -933,13 +1266,20 @@ D.construct
 
  > A business can’t do well without **good management**.  
  > 没有好的管理生意就做不好。    
+<audio src="./media/management-1.aac"></audio>
 
  > **top** / **senior management**  
  > 高层 / 高级管理人员    
 
 
 # ***\#manager*** n
-英音 'mænɪdʒə(r)     美音 'mænɪdʒər  
+英音 'mænɪdʒə(r)  
+英音
+<audio src="./media/manager-B.aac"></audio>
+美音 'mænɪdʒər  
+美音
+<audio src="./media/manager.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -954,7 +1294,13 @@ D.construct
 
 
 # ***\#mane*** n
-英音 meɪn     美音 meɪn  
+英音 meɪn  
+英音
+<audio src="./media/mane1.aac"></audio>
+美音 meɪn  
+美音
+<audio src="./media/mane2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -964,7 +1310,13 @@ D.construct
 
 
 # ***\#mangrove*** 
-英音 'mæŋɡrəʊv     美音 'mæŋɡroʊv  
+英音 'mæŋɡrəʊv  
+英音
+<audio src="./media/mangrove1_AAC.aac"></audio>
+美音 'mæŋɡroʊv  
+美音
+<audio src="./media/mangrove1_AAC.aac"></audio>
+
 
   
 
@@ -974,7 +1326,13 @@ D.construct
 
 
 # ***\#mankind*** n
-英音 mæn'kaɪnd     美音 mæn'kaɪnd  
+英音 mæn'kaɪnd  
+英音
+<audio src="./media/mankind-B.aac"></audio>
+美音 mæn'kaɪnd  
+美音
+<audio src="./media/mankind.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -986,7 +1344,13 @@ D.construct
 
 
 # ***\#manned*** adj
-英音 mænd     美音 mænd  
+英音 mænd  
+英音
+<audio src="./media/manned1_AAC.aac"></audio>
+美音 mænd  
+美音
+<audio src="./media/manned2_AAC.aac"></audio>
+
 
   
 
@@ -999,7 +1363,13 @@ D.construct
 
 
 # ***\#manner*** n
-英音 'mænə(r)     美音 'mænər  
+英音 'mænə(r)  
+英音
+<audio src="./media/manner-B.aac"></audio>
+美音 'mænər  
+美音
+<audio src="./media/manner.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -1010,12 +1380,14 @@ D.construct
 
  > My father disapproves of my **manner of** living.  
  > 我父亲不赞同我的生活方式。    
+<audio src="./media/manner-1.aac"></audio>
 
 ### 2.*高义频：* **举止；态度**  
 英译 the way that sb behaves towards other people：
 
  > His manner was polite but cool.   
  > 他举止彬彬有礼但显冷淡。    
+<audio src="./media/manner-2.aac"></audio>
 
 ### 3.*高义频：* **礼貌；礼仪**  
 英译 polite ways of behaving in social situations：
@@ -1025,9 +1397,11 @@ D.construct
 
  > **It’s bad manners to** stare at people.  
  > 盯着别人看不礼貌。    
+<audio src="./media/manner-3.aac"></audio>
 
  > In any case, a lot can be accomplished by a smile and **good manners**.   
  > 在任何情况下，微笑和有礼貌都会让你有很大收获。  （2011 安徽）  
+<audio src="./media/manner-4.aac"></audio>
 
 
 固定搭配
@@ -1037,19 +1411,28 @@ D.construct
 
  > The problem can be solved in all manner of ways.   
  > 这个问题可以用多种方式解决。    
+<audio src="./media/manner-5.aac"></audio>
 
 ## \#in a ... manner 
 1.**用…的方式 / 态度：**  
 
  > They worked in an orderly manner.   
  > 他们有条不紊地工作。    
+<audio src="./media/manner-6.aac"></audio>
 
  > She greeted me in a friendly manner.   
  > 她友好地和我打招呼。    
+<audio src="./media/manner-7.aac"></audio>
 
 
 # ***\#manners*** n
-英音 'mænəz     美音 'mænəz  
+英音 'mænəz  
+英音
+<audio src="./media/manners1.aac"></audio>
+美音 'mænəz  
+美音
+<audio src="./media/manners2.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -1059,7 +1442,13 @@ D.construct
 
 
 # ***\#mansion*** n
-英音 'mænʃn     美音 'mænʃn  
+英音 'mænʃn  
+英音
+<audio src="./media/mansion1_AAC.aac"></audio>
+美音 'mænʃn  
+美音
+<audio src="./media/mansion2_AAC.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1069,7 +1458,13 @@ D.construct
 
 
 # ***\#manual*** n
-英音 'mænjuəl     美音 'mænjuəl  
+英音 'mænjuəl  
+英音
+<audio src="./media/manual-B.aac"></audio>
+美音 'mænjuəl  
+美音
+<audio src="./media/manual.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1084,7 +1479,13 @@ D.construct
 
 
 # ***\#manual*** adj
-英音 'mænjuəl     美音 'mænjuəl  
+英音 'mænjuəl  
+英音
+<audio src="./media/manual-B.aac"></audio>
+美音 'mænjuəl  
+美音
+<audio src="./media/manual.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1097,7 +1498,13 @@ D.construct
 
 
 # ***\#manufacture*** vt
-英音 ˌmænju'fæktʃə(r)     美音 ˌmænju'fæktʃər  
+英音 ˌmænju'fæktʃə(r)  
+英音
+<audio src="./media/manufacture-B.aac"></audio>
+美音 ˌmænju'fæktʃər  
+美音
+<audio src="./media/manufacture.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1107,7 +1514,13 @@ D.construct
 
 
 # ***\#manufacture*** n
-英音 ˌmænju'fæktʃə(r)     美音 ˌmænju'fæktʃər  
+英音 ˌmænju'fæktʃə(r)  
+英音
+<audio src="./media/manufacture-B.aac"></audio>
+美音 ˌmænju'fæktʃər  
+美音
+<audio src="./media/manufacture.aac"></audio>
+
 
 | 词频 2 | 书面 2 |  
 
@@ -1124,7 +1537,13 @@ manufacturer /ˌmænju'fæktʃərə(r)/ n [C]
 manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]  
 
 # ***\#manufacturer*** n
-英音 ˌmænju'fæktʃərə(r)     美音 ˌmænju'fæktʃərər  
+英音 ˌmænju'fæktʃərə(r)  
+英音
+<audio src="./media/manufacturer1_AAC.aac"></audio>
+美音 ˌmænju'fæktʃərər  
+美音
+<audio src="./media/manufacturer2_AAC.aac"></audio>
+
 
   
 
@@ -1134,7 +1553,13 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 
 
 # ***\#manuscript*** n
-英音 'mænjuskrɪpt     美音 'mænjuskrɪpt  
+英音 'mænjuskrɪpt  
+英音
+<audio src="./media/manuscript1.aac"></audio>
+美音 'mænjuskrɪpt  
+美音
+<audio src="./media/manuscript2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1144,7 +1569,13 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 
 
 # ***\#many*** adj
-英音 'meni     美音 'meni  
+英音 'meni  
+英音
+<audio src="./media/many-B.aac"></audio>
+美音 'meni  
+美音
+<audio src="./media/many.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1156,10 +1587,17 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 
  > I don't have many friends.  
  > 我的朋友不多。    
+<audio src="./media/many-517_AAC.aac"></audio>
 
 
 # ***\#many*** pron
-英音 'meni     美音 'meni  
+英音 'meni  
+英音
+<audio src="./media/many-B.aac"></audio>
+美音 'meni  
+美音
+<audio src="./media/many.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1171,6 +1609,7 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 
  > Many of us did not know him.  
  > 我们之中很多人不认识他。    
+<audio src="./media/many-517-1_AAC.aac"></audio>
 
 
 固定搭配
@@ -1180,21 +1619,25 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 
  > This book contains a good many nice pictures.**2005 江苏**  
  > 这本书包含很多不错的图片。    
+<audio src="./media/many-4.aac"></audio>
 
  > Most of the young men went off to the war, and a great many never came back.   
  > 大部分年轻人上了战场，其中很多人再也没有回来。    
+<audio src="./media/many-5.aac"></audio>
 
 ## \#as many as 
 1.**多达：**  
 
  > In the 1980s, as many as one million elephants were killed throughout Africa.   
  > 在20世纪80年代，整个非洲有多达100万头大象被杀。    
+<audio src="./media/many-6.aac"></audio>
 
 ## \#many a 
 1.**[正式用语] [接可数名词单数作主语时，谓语动词用单数] 许多的；非常多的：**  
 
  > Many a student has attended the lecture.   
  > 很多学生听了这场演讲。    
+<audio src="./media/many-7.aac"></audio>
 
 #### 辨析 much more, many more
 二者意义相同，意为“多得多的”，但搭配不同。  
@@ -1202,6 +1645,7 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 **many more** 接可数名词复数。
  > Some students are against the plan, but many more (students) support it.  
  > 部分同学反对这项计划，但是更多的人支持它。    
+<audio src="./media/Some students are against the_AAC.aac"></audio>
 
 
 
@@ -1214,7 +1658,13 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 1. 去掉much 或 much → many  2. is  
 
 # ***\#map*** n
-英音 mæp     美音 mæp  
+英音 mæp  
+英音
+<audio src="./media/map-B.aac"></audio>
+美音 mæp  
+美音
+<audio src="./media/map.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -1226,13 +1676,21 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 
  > I'm just trying to find my home **on the map**.  
  > 我只是想在地图上找到我的家。    
+<audio src="./media/map-517_AAC.aac"></audio>
 
  > Do you know how to **read a map** (= understand the information it gives)?  
  > 你会看地图吗？    
+<audio src="./media/map-517-1_AAC.aac"></audio>
 
 
 # ***\#map*** vt
-英音 mæp     美音 mæp  
+英音 mæp  
+英音
+<audio src="./media/map-B.aac"></audio>
+美音 mæp  
+美音
+<audio src="./media/map.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -1242,7 +1700,13 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 
 
 # ***\#maple*** n
-英音 'meɪpl     美音 'meɪpl  
+英音 'meɪpl  
+英音
+<audio src="./media/maple-B.aac"></audio>
+美音 'meɪpl  
+美音
+<audio src="./media/maple.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1254,7 +1718,13 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 
 
 # ***\#marathon*** n
-英音 'mærəθən     美音 'mærəθɑːn  
+英音 'mærəθən  
+英音
+<audio src="./media/marathon-B.aac"></audio>
+美音 'mærəθɑːn  
+美音
+<audio src="./media/marathon.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -1266,7 +1736,13 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 
 
 # ***\#marble*** n
-英音 'mɑːbl     美音 'mɑːrbl  
+英音 'mɑːbl  
+英音
+<audio src="./media/marble-B.aac"></audio>
+美音 'mɑːrbl  
+美音
+<audio src="./media/marble.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1276,7 +1752,13 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 
 
 # ***\#march*** vi
-英音 mɑːtʃ     美音 mɑːrtʃ  
+英音 mɑːtʃ  
+英音
+<audio src="./media/march-B.aac"></audio>
+美音 mɑːrtʃ  
+美音
+<audio src="./media/march.aac"></audio>
+
 
 | 词频 2 | 书面 2 |  
 
@@ -1286,10 +1768,17 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 
  > The troops are **marching along** the street.   
  > 军队正在街上行进。    
+<audio src="./media/march-1.aac"></audio>
 
 
 # ***\#march*** n
-英音 mɑːtʃ     美音 mɑːrtʃ  
+英音 mɑːtʃ  
+英音
+<audio src="./media/march-B.aac"></audio>
+美音 mɑːrtʃ  
+美音
+<audio src="./media/march.aac"></audio>
+
 
 | 词频 2 | 书面 1 |  
 
@@ -1305,6 +1794,7 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 
  > We can't stop the march of progress.  
  > 我们不能停止前进的步伐。  （外研新选必③ – 4）  
+<audio src="./media/We can't stop the march of progress2_AAC.aac"></audio>
 
 
 派生词汇
@@ -1312,7 +1802,13 @@ manufacturing /ˌmænju'fæktʃərɪŋ/ n [U]
 marcher /'mɑːtʃə(r)/ n [C]  
 
 # ***\#margin*** n
-英音 'mɑːdʒɪn     美音 'mɑːrdʒən  
+英音 'mɑːdʒɪn  
+英音
+<audio src="./media/margin-B.aac"></audio>
+美音 'mɑːrdʒən  
+美音
+<audio src="./media/margin.aac"></audio>
+
 
 | 词频 1 | 书面 1 |  
 
@@ -1327,7 +1823,13 @@ marcher /'mɑːtʃə(r)/ n [C]
 
 
 # ***\#marine*** adj
-英音 məˈriːn     美音 məˈriːn  
+英音 məˈriːn  
+英音
+<audio src="./media/marine1_AAC.aac"></audio>
+美音 məˈriːn  
+美音
+<audio src="./media/marine2_AAC.aac"></audio>
+
 
   
 
@@ -1337,7 +1839,13 @@ marcher /'mɑːtʃə(r)/ n [C]
 
 
 # ***\#marine*** n
-英音 məˈriːn     美音 məˈriːn  
+英音 məˈriːn  
+英音
+<audio src="./media/marine1_AAC.aac"></audio>
+美音 məˈriːn  
+美音
+<audio src="./media/marine2_AAC.aac"></audio>
+
 
   
 
@@ -1347,7 +1855,13 @@ marcher /'mɑːtʃə(r)/ n [C]
 
 
 # ***\#maritime*** adj
-英音 'mærɪtaɪm     美音 'mærɪtaɪm  
+英音 'mærɪtaɪm  
+英音
+<audio src="./media/maritime1_AAC.aac"></audio>
+美音 'mærɪtaɪm  
+美音
+<audio src="./media/maritime2_AAC.aac"></audio>
+
 
   
 
@@ -1357,7 +1871,13 @@ marcher /'mɑːtʃə(r)/ n [C]
 
 
 # ***\#mark*** n
-英音 mɑːk     美音 mɑːrk  
+英音 mɑːk  
+英音
+<audio src="./media/mark-B.aac"></audio>
+美音 mɑːrk  
+美音
+<audio src="./media/mark.aac"></audio>
+
 
 | 词频 5 | 口语 1 | 书面 2 |  
 
@@ -1372,6 +1892,7 @@ marcher /'mɑːtʃə(r)/ n [C]
 
  > We followed the marks that the car had left in the grass.   
  > 我们沿着汽车留在草地上的痕迹走去。    
+<audio src="./media/mark-1.aac"></audio>
 
 ### 2.*高义频：* **符号；记号；(品质、感情等的) 标志：**  
 
@@ -1383,6 +1904,7 @@ marcher /'mɑːtʃə(r)/ n [C]
 
  > Politeness **is a mark of** civilization.  
  > 礼貌是文明的标志。  （2011 安徽）  
+<audio src="./media/mark-2.aac"></audio>
 
 ### 3.*高义频：* **成绩；分数 (grade)：**  
 
@@ -1391,6 +1913,7 @@ marcher /'mɑːtʃə(r)/ n [C]
 
  > She scored the **lowest mark** in her class.  
  > 她的得分全班最低。  （译林⑤ – 1）  
+<audio src="./media/mark-3.aac"></audio>
 
 ### 4.*低义频：* **靶子；目标：**  
 
@@ -1405,10 +1928,17 @@ marcher /'mɑːtʃə(r)/ n [C]
 
  > Winston Churchill has surely left his mark on world history.  
  > 温斯顿 · 丘吉尔已然在世界历史上留下了大名。    
+<audio src="./media/mark-4.aac"></audio>
 
 
 # ***\#mark*** vt
-英音 mɑːk     美音 mɑːrk  
+英音 mɑːk  
+英音
+<audio src="./media/mark-B.aac"></audio>
+美音 mɑːrk  
+美音
+<audio src="./media/mark.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 2 |  
 
@@ -1418,32 +1948,44 @@ marcher /'mɑːtʃə(r)/ n [C]
 
  > **Mark** the place **with** a circle **on** the map.   
  > 在地图上圈出这个地方。    
+<audio src="./media/mark-5.aac"></audio>
 
  > When you get the paper back, pay special attention to what have been marked.   
  > 拿回试卷后，要特别注意作了标记的地方。    
+<audio src="./media/mark-6.aac"></audio>
 
 ### 2.*高义频：* **标志 (重要变化或发展阶段)：**  
 
  > In most countries, turning 18 marks the start of adulthood.  
  > 在大多数国家，18岁标志着成年的开始。  （外研新选必② – 1）  
+<audio src="./media/In most countries, turning 18 marks the start of adulthood2_AAC.aac"></audio>
 
  > The gift marks the deep friendship of the two nations.   
  > 这份礼物是两国深厚友谊的象征。    
+<audio src="./media/mark-8.aac"></audio>
 
 ### 3.*高义频：* **庆祝；纪念**  
 英译 to celebrate an important event：
 
  > A firework display was organised to mark the Queen’s birthday.  
  > 为了庆祝女王的生日，人们举办了烟火表演。  （北师大①–3）  
+<audio src="./media/P271 mark1.aac"></audio>
 
 ### 4.*高义频：* **(给试卷等) 打分数：**  
 
  > I have fifty exam papers to mark tonight.   
  > 我今晚有50份考卷要评分。    
+<audio src="./media/mark-9.aac"></audio>
 
 
 # ***\#market*** n
-英音 'mɑːkɪt     美音 'mɑːrkɪt  
+英音 'mɑːkɪt  
+英音
+<audio src="./media/market-B.aac"></audio>
+美音 'mɑːrkɪt  
+美音
+<audio src="./media/market.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1456,11 +1998,13 @@ marcher /'mɑːtʃə(r)/ n [C]
 
  > We buy our fruit and vegetables **at the market**.  
  > 我们在市场上买水果和蔬菜。    
+<audio src="./media/market-517_AAC.aac"></audio>
 
 ### 2.*高义频：* **(对商品而言的) 市场；销路；行情：**  
 
  > The product will find a good market in Asia.   
  > 这种产品会在亚洲畅销。    
+<audio src="./media/market-2.aac"></audio>
 
 
 固定搭配
@@ -1470,10 +2014,17 @@ marcher /'mɑːtʃə(r)/ n [C]
 
  > There are several new models on the market.   
  > 市面上有好几种新型号在售。  （译林⑦ – 1）  
+<audio src="./media/market-4.aac"></audio>
 
 
 # ***\#market*** vt
-英音 'mɑːkɪt     美音 'mɑːrkɪt  
+英音 'mɑːkɪt  
+英音
+<audio src="./media/market-B.aac"></audio>
+美音 'mɑːrkɪt  
+美音
+<audio src="./media/market.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -1483,10 +2034,17 @@ marcher /'mɑːtʃə(r)/ n [C]
 
  > These toys were among the first to be marketed primarily through TV cartoons.  
  > 这些玩具是首批主要通过电视动画片来推销的产品之一。    
+<audio src="./media/market-5.aac"></audio>
 
 
 # ***\#marketing*** n
-英音 'mɑːkɪtɪŋ     美音 'mɑːrkɪtɪŋ  
+英音 'mɑːkɪtɪŋ  
+英音
+<audio src="./media/marketing1-B.aac"></audio>
+美音 'mɑːrkɪtɪŋ  
+美音
+<audio src="./media/marketing.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 1 |  
 
@@ -1501,7 +2059,13 @@ marcher /'mɑːtʃə(r)/ n [C]
 
 
 # ***\#marriage*** n
-英音 'mærɪdʒ     美音 'mærɪdʒ  
+英音 'mærɪdʒ  
+英音
+<audio src="./media/marriage-B.aac"></audio>
+美音 'mærɪdʒ  
+美音
+<audio src="./media/marriage.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -1514,6 +2078,7 @@ marcher /'mɑːtʃə(r)/ n [C]
 
  > Their marriage lasted 31 years.   
  > 他们的婚姻持续了31年。  （人教⑦ – 2）  
+<audio src="./media/marriage-1.aac"></audio>
 
 ### 2.*高义频：* **[C] 结婚仪式；婚礼 (wedding)**  
 
@@ -1531,7 +2096,13 @@ marcher /'mɑːtʃə(r)/ n [C]
 1. marriage  
 
 # ***\#married*** adj
-英音 'mærid     美音 'mærid  
+英音 'mærid  
+英音
+<audio src="./media/married-B.aac"></audio>
+美音 'mærid  
+美音
+<audio src="./media/married.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -1541,9 +2112,11 @@ marcher /'mɑːtʃə(r)/ n [C]
 
  > Please state whether you are single, married, or divorced in the form.  
  > 请在表格中注明您是单身、已婚还是离异。    
+<audio src="./media/married-1.aac"></audio>
 
  > How do you like married life?   
  > 你认为婚后的生活怎样？    
+<audio src="./media/married-2.aac"></audio>
 
 
 固定搭配
@@ -1553,16 +2126,24 @@ marcher /'mɑːtʃə(r)/ n [C]
 
  > They have been married to each other for 20 years.   
  > 他们已经结婚20年了。    
+<audio src="./media/married-3.aac"></audio>
 
 ## \#get married to 
 1.**[表示动作] 与…结婚：**  
 
  > Jane got married to her husband immediately after graduation.   
  > 简一毕业就嫁给了她丈夫。    
+<audio src="./media/married-4.aac"></audio>
 
 
 # ***\#marry*** v
-英音 'mæri     美音 'mæri  
+英音 'mæri  
+英音
+<audio src="./media/marry-B.aac"></audio>
+美音 'mæri  
+美音
+<audio src="./media/marry.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -1574,21 +2155,30 @@ marcher /'mɑːtʃə(r)/ n [C]
 
  > On returning to the palace, the king marries the woman.  
  > 一回到宫殿，国王就和这位女子结婚了。    
+<audio src="./media/marry-1.aac"></audio>
 
 Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更常用get married。  
 - marry sb to sb 把某人嫁给某人；为某人娶亲：
 
  > My father’s trying to marry me to his accountant’s daughter.  
  > 我父亲想让我娶他会计的女儿。    
+<audio src="./media/marry-2.aac"></audio>
 
 ### 2.*高义频：* **vi 结婚；结合：**  
 
  > My uncle didn’t marry until he was forty-five.   
  > 我叔叔直到45岁才结婚。    
+<audio src="./media/marry-3.aac"></audio>
 
 
 # ***\#marsh*** n
-英音 mɑːʃ     美音 mɑːrʃ  
+英音 mɑːʃ  
+英音
+<audio src="./media/marsh1_AAC.aac"></audio>
+美音 mɑːrʃ  
+美音
+<audio src="./media/marsh2_AAC.aac"></audio>
+
 
   
 
@@ -1598,7 +2188,13 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 
 
 # ***\#martial*** adj
-英音 ˈmɑːʃl     美音 ˈmɑːrʃl  
+英音 ˈmɑːʃl  
+英音
+<audio src="./media/martial1_AAC.aac"></audio>
+美音 ˈmɑːrʃl  
+美音
+<audio src="./media/martial2_AAC.aac"></audio>
+
 
   
 
@@ -1611,7 +2207,13 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 
 
 # ***\#marvellous*** adj
-英音 'mɑːvələs     美音 'mɑːrvələs  
+英音 'mɑːvələs  
+英音
+<audio src="./media/marvelous-B.aac"></audio>
+美音 'mɑːrvələs  
+美音
+<audio src="./media/marvel(l)ous.aac"></audio>
+
 
 | 词频 1 | 口语 2 |  
 
@@ -1621,10 +2223,17 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 
  > No matter what happens, you’re going to have a marvelous time.   
  > 无论发生什么，你都会度过一段精彩的时光。  （外研⑦ – 6）  
+<audio src="./media/marvel(l)ous-1.aac"></audio>
 
 
 # ***\#marvelous*** adj
-英音 'mɑːvələs     美音 'mɑːrvələs  
+英音 'mɑːvələs  
+英音
+<audio src="./media/marvelous-B.aac"></audio>
+美音 'mɑːrvələs  
+美音
+<audio src="./media/marvel(l)ous.aac"></audio>
+
 
 | 词频 1 | 口语 2 |  
 
@@ -1634,10 +2243,17 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 
  > No matter what happens, you’re going to have a marvelous time.  
  > 无论发生什么，你都会度过一段精彩的时光。  （外研⑦ – 6）  
+<audio src="./media/marvel(l)ous-1.aac"></audio>
 
 
 # ***\#mascot*** n
-英音 'mæskət     美音 'mæskɑːt  
+英音 'mæskət  
+英音
+<audio src="./media/mascot-b.aac"></audio>
+美音 'mæskɑːt  
+美音
+<audio src="./media/mascot.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1649,7 +2265,13 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 
 
 # ***\#mash*** v
-英音 mæʃ     美音 mæʃ  
+英音 mæʃ  
+英音
+<audio src="./media/mash1.aac"></audio>
+美音 mæʃ  
+美音
+<audio src="./media/mash2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1659,7 +2281,13 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 
 
 # ***\#mask*** n
-英音 mɑːsk     美音 mæsk  
+英音 mɑːsk  
+英音
+<audio src="./media/mask-B.aac"></audio>
+美音 mæsk  
+美音
+<audio src="./media/mask.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1680,7 +2308,13 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 
 
 # ***\#mask*** vt
-英音 mɑːsk     美音 mæsk  
+英音 mɑːsk  
+英音
+<audio src="./media/mask-B.aac"></audio>
+美音 mæsk  
+美音
+<audio src="./media/mask.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1690,10 +2324,17 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 
  > She masked her anger with a smile.   
  > 她用微笑掩饰愤怒。    
+<audio src="./media/mask-1.aac"></audio>
 
 
 # ***\#mass*** n
-英音 mæs     美音 mæs  
+英音 mæs  
+英音
+<audio src="./media/mass-B.aac"></audio>
+美音 mæs  
+美音
+<audio src="./media/mass.aac"></audio>
+
 
 | 词频 4 | 书面 2 | 阅读 3 |  
 
@@ -1715,20 +2356,29 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 
  > I’ve got a mass of things to do this morning.   
  > 今天上午我有许多事要做。    
+<audio src="./media/mass-1.aac"></audio>
 
  > Wherever the Beatles went, masses of fans would welcome them at the airport.   
  > 无论甲壳虫乐队去哪儿，都会有大量的歌迷在机场欢迎他们。  （译林⑧ – 2）  
+<audio src="./media/mass-2.aac"></audio>
 
 ### 3.*低义频：* **[the masses] 群众；民众：**  
 
  > The trains provide cheap travel for the masses.   
  > 火车给大众提供了便宜的出行方式。    
+<audio src="./media/mass-3.aac"></audio>
 
 ### 4.*低义频：* **(物理学) 质量**  
 
 
 # ***\#mass*** adj
-英音 mæs     美音 mæs  
+英音 mæs  
+英音
+<audio src="./media/mass-B.aac"></audio>
+美音 mæs  
+美音
+<audio src="./media/mass.aac"></audio>
+
 
 | 词频 4 | 书面 1 | 阅读 3 |  
 
@@ -1741,10 +2391,17 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 
  > Since its mass production began in the 1940s, penicillin has saved millions of lives.  
  > 自从20世纪40年代开始大规模生产以来，青霉素已经拯救了数百万人的生命。  （译林新必修③ – 4）  
+<audio src="./media/Since its mass production began in the 1940s2_AAC.aac"></audio>
 
 
 # ***\#massive*** adj
-英音 'mæsɪv     美音 'mæsɪv  
+英音 'mæsɪv  
+英音
+<audio src="./media/massive1_AAC.aac"></audio>
+美音 'mæsɪv  
+美音
+<audio src="./media/massive2_AAC.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1755,10 +2412,17 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 
  > The artist builds massive sculptures out of plastic garbage.  
  > 这位艺术家用塑料垃圾制作巨型雕塑。  （2021全国改）  
+<audio src="./media/The artist builds massive sculptures out of plastic garbage2_AAC.aac"></audio>
 
 
 # ***\#master*** n
-英音 'mɑːstə(r)     美音 'mæstər  
+英音 'mɑːstə(r)  
+英音
+<audio src="./media/master-B.aac"></audio>
+美音 'mæstər  
+美音
+<audio src="./media/master.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -1770,17 +2434,21 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 
  > Money is a good servant and a bad master.  
  > 金钱是善仆，也是恶主。  （弗朗西斯 · 培根）  
+<audio src="./media/Mondy is a good servant and a bad master2_AAC.aac"></audio>
 
  > We are the **master of** our own future.  
  > 未来掌握在我们自己的手中。  （2012 浙江书面表达）  
+<audio src="./media/master-517_AAC.aac"></audio>
 
 ### 2.*高义频：* **能手；大师：**  
 
  > My grandmother was a **master at** making quilts.   
  > 我外婆是做被子的能手。  （2008 重庆）  
+<audio src="./media/master-2.aac"></audio>
 
  > This painting is clearly the work of a master.   
  > 这幅画显然出自名家之手。    
+<audio src="./media/master-3.aac"></audio>
 
 ### 3.*高义频：* **硕士：**  
 
@@ -1792,7 +2460,13 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 
 
 # ***\#master*** vt
-英音 'mɑːstə(r)     美音 'mæstər  
+英音 'mɑːstə(r)  
+英音
+<audio src="./media/master-B.aac"></audio>
+美音 'mæstər  
+美音
+<audio src="./media/master.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -1802,13 +2476,21 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 
  > It is hard to master a foreign language.  
  > 精通一门外语可不容易。  （译林③ – 2）  
+<audio src="./media/master-4.aac"></audio>
 
  > She struggled to master her fear of heights.   
  > 她努力克服自己的恐高症。    
+<audio src="./media/master-5.aac"></audio>
 
 
 # ***\#masterpiece*** n
-英音 'mɑːstəpiːs     美音 'mæstərpiːs  
+英音 'mɑːstəpiːs  
+英音
+<audio src="./media/masterpiece-B.aac"></audio>
+美音 'mæstərpiːs  
+美音
+<audio src="./media/masterpiece.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1820,7 +2502,13 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 
 
 # ***\#masterwork*** n
-英音 ˈmɑːstəwɜːk     美音 ˈmæstərwɜːrk  
+英音 ˈmɑːstəwɜːk  
+英音
+<audio src="./media/masterwork1_AAC.aac"></audio>
+美音 ˈmæstərwɜːrk  
+美音
+<audio src="./media/masterwork2_AAC.aac"></audio>
+
 
   
 
@@ -1830,7 +2518,13 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 
 
 # ***\#mastery*** n
-英音 'mɑːstəri     美音 'mæstəri  
+英音 'mɑːstəri  
+英音
+<audio src="./media/mastery1_AAC.aac"></audio>
+美音 'mæstəri  
+美音
+<audio src="./media/mastery2_AAC.aac"></audio>
+
 
   
 
@@ -1840,7 +2534,13 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 
 
 # ***\#mat*** n
-英音 mæt     美音 mæt  
+英音 mæt  
+英音
+<audio src="./media/mat-B.aac"></audio>
+美音 mæt  
+美音
+<audio src="./media/mat.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1852,7 +2552,13 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 
 
 # ***\#match*** n
-英音 mætʃ     美音 mætʃ  
+英音 mætʃ  
+英音
+<audio src="./media/match-B.aac"></audio>
+美音 mætʃ  
+美音
+<audio src="./media/match.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -1864,14 +2570,17 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 
  > The cap is a **good match for** your coat.  
  > 这帽子和你的外套很相称。    
+<audio src="./media/match-2.aac"></audio>
 
  > Jo and Ian are a **perfect match for** each other.  
  > 乔和伊恩真是天造地设的一对。    
+<audio src="./media/match-3.aac"></audio>
 
 ### 2.*低义频：* **对手；敌手：**  
 
  > I was **no match for** him at table tennis.   
  > 打乒乓球，我不是他的对手。    
+<audio src="./media/match-1.aac"></audio>
 
  > **meet** one’s **match**   
  > 遇到对手    
@@ -1891,7 +2600,13 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 
 
 # ***\#match*** v
-英音 mætʃ     美音 mætʃ  
+英音 mætʃ  
+英音
+<audio src="./media/match-B.aac"></audio>
+美音 mætʃ  
+美音
+<audio src="./media/match.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -1901,9 +2616,11 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 
  > That sweater **matches** your trousers **perfectly**.   
  > 那件毛衣和你的裤子很相配。    
+<audio src="./media/match-5.aac"></audio>
 
  > Your shirt and tie just don’t match.   
  > 你的衬衣和领带不搭配。    
+<audio src="./media/match-6.aac"></audio>
 
 #### 辨析 fit, match, suit
 三者都可用作动词，表“适合”之意。  
@@ -1912,28 +2629,34 @@ Notes: 和某人结婚，直接表达为marry sb，不用介词。口语中更�
 **suit ** 主要指款式、颜色或花样等适合。也可指合乎需要、口味、性格、条件、身份等。
  > Red and black are colours that suit me very well.  
  > 红色和黑色都是适合我的颜色。    
+<audio src="./media/fit-7.aac"></audio>
 
  > The seven o'clock train will suit us very well.  
  > 7点钟那班火车很适合我们。    
+<audio src="./media/fit-8-8 The seven.aac"></audio>
 
  > Very spicy food doesn’t suit my stomach.  
  > 我吃太辣的东西胃不舒服。    
+<audio src="./media/fit-9-9 Very.aac"></audio>
 
 
 ### 2.*高义频：* **找到相似 / 相配之物：**  
 
  > **Match** the phrases **with** the correct meanings.  
  > 把词组和确切的意思对应起来。  （外研⑧ – 2）  
+<audio src="./media/match-7.aac"></audio>
 
 ### 3.*高义频：* **(与…) 一致：**  
 
  > Her fingerprints matched those found at the scene of the crime.   
  > 她的指纹与在犯罪现场发现的指纹相吻合。    
+<audio src="./media/match-4.aac"></audio>
 
 ### 4.*低义频：* **与…相匹敌；比得上 (equal)：**  
 
  > When it comes to speaking in public, no one can match him.  
  > 提到在公开场合演讲，没人能比得上他。  （2014 江西）  
+<audio src="./media/When it comes to speaking_AAC.aac"></audio>
 
 
 派生词汇
@@ -1951,7 +2674,13 @@ C.equipped
 1. matched / matches  
 
 # ***\#mate*** n
-英音 meɪt     美音 meɪt  
+英音 meɪt  
+英音
+<audio src="./media/mate-B.aac"></audio>
+美音 meɪt  
+美音
+<audio src="./media/mate.aac"></audio>
+
 
 | 词频 1 | 口语 2 |  
 
@@ -1963,7 +2692,13 @@ C.equipped
 
 
 # ***\#material*** n
-英音 mə'tɪəriəl     美音 mə'tɪriəl  
+英音 mə'tɪəriəl  
+英音
+<audio src="./media/material-B.aac"></audio>
+美音 mə'tɪriəl  
+美音
+<audio src="./media/material.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1976,6 +2711,7 @@ C.equipped
 
  > He is a good soldier, but not really **officer material**.   
  > 他是个好士兵，但不太是当军官的料。    
+<audio src="./media/material-1.aac"></audio>
 
 ### 2.*高义频：* **布料：**  
 
@@ -1986,10 +2722,17 @@ C.equipped
 
  > She’s collecting material for her latest novel.   
  > 她正在为其最新的小说搜集素材。    
+<audio src="./media/material-2.aac"></audio>
 
 
 # ***\#material*** adj
-英音 mə'tɪəriəl     美音 mə'tɪriəl  
+英音 mə'tɪəriəl  
+英音
+<audio src="./media/material-B.aac"></audio>
+美音 mə'tɪriəl  
+美音
+<audio src="./media/material.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2005,7 +2748,13 @@ C.equipped
 materially /mə'tɪəriəli/ adv   
 
 # ***\#mathematical*** adj
-英音 ˌmæθə'mætɪkl     美音 ˌmæθə'mætɪkl  
+英音 ˌmæθə'mætɪkl  
+英音
+<audio src="./media/mathematical-b.aac"></audio>
+美音 ˌmæθə'mætɪkl  
+美音
+<audio src="./media/mathematical.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -2015,7 +2764,13 @@ materially /mə'tɪəriəli/ adv
 
 
 # ***\#mathematics*** n
-英音 ˌmæθə'mætɪks     美音 ˌmæθə'mætɪks  
+英音 ˌmæθə'mætɪks  
+英音
+<audio src="./media/mathematics-B.aac"></audio>
+美音 ˌmæθə'mætɪks  
+美音
+<audio src="./media/mathematics.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -2027,7 +2782,13 @@ materially /mə'tɪəriəli/ adv
 
 
 # ***\#matter*** n
-英音 'mætə(r)     美音 'mætər  
+英音 'mætə(r)  
+英音
+<audio src="./media/matter-B.aac"></audio>
+美音 'mætər  
+美音
+<audio src="./media/matter.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2041,6 +2802,7 @@ materially /mə'tɪəriəli/ adv
 
  > I have **a serious** / **an important matter** to talk about.  
  > 我有件重要的事情要谈。    
+<audio src="./media/matter-517_AAC.aac"></audio>
 
 #### 辨析 matter, affair, event
 三者都有“事情”之意。  
@@ -2049,15 +2811,18 @@ materially /mə'tɪəriəli/ adv
 **event ** 通常指“重要事件”、“大事”。
  > The election was the main event of 2016.  
  > 那次选举是2016年的大事。    
+<audio src="./media/The election was the_AAC.aac"></audio>
 
 
 ### 2.*高义频：* **毛病；麻烦事：**  
 
  > **What is the matter** (**with you**)?  
  > (你)怎么了？    
+<audio src="./media/What is the matter with_AAC.aac"></audio>
 
  > There is **nothing the matter** with the machine.   
  > 这台机器没有毛病。    
+<audio src="./media/matter-6.aac"></audio>
 
 ### 3.*高义频：* **事态；情况(things)：**  
 
@@ -2066,11 +2831,13 @@ materially /mə'tɪəriəli/ adv
 
  > Matters were made worse by a fire in the factory.   
  > 工厂失火使得事态更为严重。    
+<audio src="./media/matter-7.aac"></audio>
 
 ### 4.*低义频：* **物质：**  
 
  > You can improve the soil by adding **organic matter**.  
  > 你可以通过施用有机肥料来改良土壤。    
+<audio src="./media/matter-8.aac"></audio>
 
 
 固定搭配
@@ -2080,24 +2847,29 @@ materially /mə'tɪəriəli/ adv
 
  > Observance of law is a matter of principle for us.   
  > 遵守法律对我们而言是原则问题。    
+<audio src="./media/matter-9.aac"></audio>
 
  > I can't say which wine is best — it's a matter of personal taste.  
  > 我不能说哪种酒最好——这是个人口味的问题。    
+<audio src="./media/I can't say which wine is best2_AAC.aac"></audio>
 
 ## \#no matter 
 1.**[与疑问词连用] 无论；不管：**  
 
  > You and I will always be friends, **no matter what** happens.  
  > 不管发生什么，你我永远是朋友。    
+<audio src="./media/matter-12.aac"></audio>
 
  > **No matter how** hard the rain falls and the wind blows, the police keep to their posts.   
  > 无论雨多急、风多大，警察一直坚守在自己的岗位上。    
+<audio src="./media/matter-13.aac"></audio>
 
 ## \#take matters in to one's own hands
 1.**亲自处理**  
 
  > Alia took matters into her own hands.  
  > 阿利亚把事情揽过来自己处理。  （2017 浙江）  
+<audio src="./media/matter-517-1_AAC.aac"></audio>
 
 
 真题解析
@@ -2108,7 +2880,13 @@ materially /mə'tɪəriəli/ adv
 1. bad → worse  
 
 # ***\#matter*** vi
-英音 'mætə(r)     美音 'mætər  
+英音 'mætə(r)  
+英音
+<audio src="./media/matter-B.aac"></audio>
+美音 'mætər  
+美音
+<audio src="./media/matter.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 1 |  
 
@@ -2118,16 +2896,23 @@ materially /mə'tɪəriəli/ adv
 
  > **It doesn't matter** to me which way you take.  
  > 你走哪条路我无所谓。    
+<audio src="./media/matter-14.aac"></audio>
 
  > **What matters** most in learning English **is** enough practice.   
  > 学英语最重要的就是要有足够的练习。    
+<audio src="./media/matter-15.aac"></audio>
 
  > It is what you do rather than what you say that matters.  
  > 重要的是你做了什么，而不是你说了什么。    
+<audio src="./media/matter-517-2_AAC.aac"></audio>
 
 Notes: matter作动词用时，主要用于疑问句和否定句，并且不用于进行时态。  
 
 # ***\#matter-of-fact*** adj
+英音
+<audio src="./media/matter-of-fact1_AAC.aac"></audio>
+美音
+<audio src="./media/matter-of-fact2_AAC.aac"></audio>
 
 
   
@@ -2138,7 +2923,13 @@ Notes: matter作动词用时，主要用于疑问句和否定句，并且不用�
 
 
 # ***\#mature*** adj
-英音 mə'tʃʊə(r)     美音 mə'tʃʊr  
+英音 mə'tʃʊə(r)  
+英音
+<audio src="./media/mature-B.aac"></audio>
+美音 mə'tʃʊr  
+美音
+<audio src="./media/mature.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -2148,13 +2939,20 @@ Notes: matter作动词用时，主要用于疑问句和否定句，并且不用�
 
  > She is very **mature for her age**.  
  > 就她的年龄来说她很成熟。    
+<audio src="./media/mature-517_AAC.aac"></audio>
 
  > a mature peach   
  > 成熟的桃子    
 
 
 # ***\#mature*** v
-英音 mə'tʃʊə(r)     美音 mə'tʃʊr  
+英音 mə'tʃʊə(r)  
+英音
+<audio src="./media/mature-B.aac"></audio>
+美音 mə'tʃʊr  
+美音
+<audio src="./media/mature.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -2164,10 +2962,17 @@ Notes: matter作动词用时，主要用于疑问句和否定句，并且不用�
 
  > I have matured and I admit responsibility for my actions.  
  > 我已经长大成人了，我要为自己的行为负责。  （2021全国改）  
+<audio src="./media/I have matured and I admit responsibility for my actions2_AAC.aac"></audio>
 
 
 # ***\#maturity*** n
-英音 məˈtʃʊərəti,məˈtjʊərəti     美音 məˈtʃʊrəti,məˈtʊrəti  
+英音 məˈtʃʊərəti,məˈtjʊərəti  
+英音
+<audio src="./media/maturity1_AAC.aac"></audio>
+美音 məˈtʃʊrəti,məˈtʊrəti  
+美音
+<audio src="./media/maturity2_AAC.aac"></audio>
+
 
   
 
@@ -2177,7 +2982,13 @@ Notes: matter作动词用时，主要用于疑问句和否定句，并且不用�
 
 
 # ***\#maximum*** n
-英音 'mæksɪməm     美音 'mæksɪməm  
+英音 'mæksɪməm  
+英音
+<audio src="./media/maximum-B.aac"></audio>
+美音 'mæksɪməm  
+美音
+<audio src="./media/maximum.aac"></audio>
+
 
 | 词频 2 | 阅读 2 |  
 
@@ -2189,10 +3000,17 @@ Notes: matter作动词用时，主要用于疑问句和否定句，并且不用�
 
  > You can borrow **a maximum of** ten books from the library.   
  > 你最多可从图书馆借10本书。    
+<audio src="./media/maximum-1.aac"></audio>
 
 
 # ***\#maximum*** adj
-英音 'mæksɪməm     美音 'mæksɪməm  
+英音 'mæksɪməm  
+英音
+<audio src="./media/maximum-B.aac"></audio>
+美音 'mæksɪməm  
+美音
+<audio src="./media/maximum.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 2 |  
 
@@ -2207,7 +3025,13 @@ Notes: matter作动词用时，主要用于疑问句和否定句，并且不用�
 
 
 # ***\#may*** modal v
-英音 meɪ     美音 meɪ  
+英音 meɪ  
+英音
+<audio src="./media/may-B.aac"></audio>
+美音 meɪ  
+美音
+<audio src="./media/may.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2221,19 +3045,23 @@ Notes: matter作动词用时，主要用于疑问句和否定句，并且不用�
 
  > Liza **may well** not want to go on the trip — she hates traveling.  
  > 莉萨很可能不愿去旅行，她讨厌旅游。    
+<audio src="./media/may-1.aac"></audio>
 
  > I may be late, so don’t wait for me.   
  > 我可能晚些到，所以不要等我。    
+<audio src="./media/may-2.aac"></audio>
 
 - [表示对过去的推测，意为“可能做过”] may have done sth：
 
  > I’m not sure, but he may have got married last year.  
  > 我不太确定，但他可能去年就结婚了。    
+<audio src="./media/may-3.aac"></audio>
 
 ### 2.*高义频：* **可以：**  
 
  > May we use your office for a few minutes?  
  > 我们可以用一下你的办公室吗？就几分钟。    
+<audio src="./media/may-5.aac"></audio>
 
 ### 3.*低义频：* **祝；愿：**  
 
@@ -2241,11 +3069,13 @@ Notes: matter作动词用时，主要用于疑问句和否定句，并且不用�
 
  > May you succeed!   
  > 祝你马到成功！    
+<audio src="./media/may-6.aac"></audio>
 
 ### 4.*低义频：* **可以；能够：**  
 
  > Hold the flag higher so that all may see.   
  > 把旗子举得高一点儿，好让大家都能看到。    
+<audio src="./media/may-7.aac"></audio>
 
 
 固定搭配
@@ -2255,6 +3085,7 @@ Notes: matter作动词用时，主要用于疑问句和否定句，并且不用�
 
  > You may as well go home. He isn’t coming.   
  > 你还是回家去吧，他不来了。    
+<audio src="./media/may-8.aac"></audio>
 
 
 真题解析
@@ -2269,7 +3100,13 @@ D.may
 1. D  
 
 # ***\#maybe*** adv
-英音 'meɪbi     美音 'meɪbi  
+英音 'meɪbi  
+英音
+<audio src="./media/maybe-B.aac"></audio>
+美音 'meɪbi  
+美音
+<audio src="./media/maybe.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 |  
 
@@ -2281,16 +3118,24 @@ D.may
 
  > Maybe she is working at the lab.   
  > 她也许正在实验室工作。    
+<audio src="./media/maybe-1.aac"></audio>
 
  > — Do you think he will come on time?   
  > 你认为他会准时到吗？    
+<audio src="./media/maybe-2.aac"></audio>
 
  > — Maybe. / **Maybe not**.  
  > 也许会吧。/可能不会。    
 
 
 # ***\#mayor*** n
-英音 meə(r)     美音 'meɪər  
+英音 meə(r)  
+英音
+<audio src="./media/mayor-B.aac"></audio>
+美音 'meɪər  
+美音
+<audio src="./media/mayor.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -2302,7 +3147,13 @@ D.may
 
 
 # ***\#maze*** n
-英音 meɪz     美音 meɪz  
+英音 meɪz  
+英音
+<audio src="./media/maze1.aac"></audio>
+美音 meɪz  
+美音
+<audio src="./media/maze2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2312,7 +3163,13 @@ D.may
 
 
 # ***\#me*** pron
-英音 mi, mi:     美音 mi, mi:  
+英音 mi, mi:  
+英音
+<audio src="./media/me1-b.aac"></audio>
+美音 mi, mi:  
+美音
+<audio src="./media/me2-2-.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2331,6 +3188,10 @@ D.may
 1. us→ me  
 
 # ***\#me-too*** adj
+英音
+<audio src="./media/me-too1_AAC.aac"></audio>
+美音
+<audio src="./media/me-too2_AAC.aac"></audio>
 
 
   
@@ -2341,7 +3202,13 @@ D.may
 
 
 # ***\#meal*** n
-英音 miːl     美音 miːl  
+英音 miːl  
+英音
+<audio src="./media/meal-B.aac"></audio>
+美音 miːl  
+美音
+<audio src="./media/meal.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 2 |  
 
@@ -2359,7 +3226,13 @@ D.may
 
 
 # ***\#mean*** v
-英音 miːn     美音 miːn  
+英音 miːn  
+英音
+<audio src="./media/mean-B.aac"></audio>
+美音 miːn  
+美音
+<audio src="./media/mean1.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2372,68 +3245,85 @@ D.may
 
  > The red light means “Stop”.   
  > 红灯表示“停”。    
+<audio src="./media/mean1-1.aac"></audio>
 
  > The flashing red light means there is a paper jam.   
  > 红灯闪烁表示卡纸了。    
+<audio src="./media/mean1-2.aac"></audio>
 
 ### 2.*高义频：* **意思是 (说)**  
 英译 to want or intend to say sth：
 
  > If you nod your head you usually mean yes.   
  > 如果你点头，通常表示你同意。  （外研④ – 3）  
+<audio src="./media/mean1-3.aac"></audio>
 
  > I want to buy her something really special, **if you know what I mean**.   
  > 我想给她买个真正特别的东西，你明白我的意思吧？    
+<audio src="./media/mean1-4.aac"></audio>
 
 ### 3.*高义频：* **意味着：**  
 
  > Spending too much now will mean a shortage of cash next year.   
  > 现在花费太多会导致明年现金短缺。    
+<audio src="./media/mean1-5.aac"></audio>
 
 - mean (sb / sth) doing sth:
 
  > Sometimes giving up a little can mean getting more.  
  > 有时放弃一点点可能意味着得到更多。  （2015 浙江书面表达）  
+<audio src="./media/Sometimes giving up a_AAC.aac"></audio>
 
  > Reading means taking in the information, digesting it and incorporating it into oneself.   
  > 读书就是要摄取信息、消化理解并内化成为自己的东西。  （2010 湖北改）  
+<audio src="./media/mean1-8.aac"></audio>
 
  > The injury could mean him missing next week’s game.   
  > 这次受伤可能使他无法参加下周的比赛。    
+<audio src="./media/mean1-9.aac"></audio>
 
 - mean sth to sb:
 
  > Her children **mean the world to her**.  
  > 孩子就是她的一切。    
+<audio src="./media/mean1-10.aac"></audio>
 
  > Your friendship means a great deal to me.   
  > 你的友谊对我来说很珍贵。    
+<audio src="./media/mean1-11.aac"></audio>
 
 ### 4.*高义频：* **意欲；打算**  
 英译 to intend to do sth or intend that sb should do sth：
 
  > I **didn’t mean any harm**. I was trying to drive a rat out.  
  > 我并没有恶意，我只是想把老鼠赶出去。    
+<audio src="./media/mean1-12.aac"></audio>
 
  > **What did she mean by** leaving so early?   
  > 她为什么这么早就走了？    
+<audio src="./media/mean1-13.aac"></audio>
 
  > The chair **was** clearly **meant for** a child.   
  > 这椅子显然是专门为儿童预备的。    
+<audio src="./media/mean1-14.aac"></audio>
 
  > This is the last time I’m waiting for you. **I mean it** (= I’m serious).  
  > 这是我最后一次等你。我说到做到！  （2009 湖南）  
+<audio src="./media/This is the last time I’m_AAC.aac"></audio>
 
 - mean (sb / sth) to do sth:
 
  > I’ve been meaning to ask you if you want to come for a meal next week.  
  > 我一直想要问你，下个星期你来不来吃顿饭。    
+<audio src="./media/mean1-16.aac"></audio>
 
  > Festivals **are meant to celebrate** important times of year.   
  > 节日旨在庆祝一年中的重要日子。  （人教③ – 1）  
+<audio src="./media/mean1-17.aac"></audio>
 
  > I didn’t mean you to read the letter.   
  > 我没打算让你看这封信。    
+<audio src="./media/mean1-18.aac"></audio>
 
 
 固定搭配
@@ -2443,12 +3333,14 @@ D.may
 
  > The restaurant is meant to be excellent.   
  > 大家都说这家饭店很棒。    
+<audio src="./media/mean1-19.aac"></audio>
 
 ## \#I mean 
 1.**[用于解释或更正刚说过的话] 我 (的意思) 是说：**  
 
  > — What do you think is the matter with your car?  
  > 你认为你的车有什么毛病？    
+<audio src="./media/mean1-20.aac"></audio>
 
  > — Well, it wouldn’t start at all. I mean, I turned the key and nothing happened.   
  > 唉，它根本发动不起来，我是说，我转动了钥匙，结果什么反应也没有。    
@@ -2460,6 +3352,7 @@ D.may
 
  > — Perhaps we should try another approach.  
  > 也许我们应该试试另一种方法。    
+<audio src="./media/mean51.aac"></audio>
 
  > — What do you mean?  
  > 你指的是什么方法？    
@@ -2468,6 +3361,7 @@ D.may
 
  > What do you mean, you thought I don’t mind?  
  > 你这是什么意思？你以为我会不在意吗？    
+<audio src="./media/mean52.aac"></audio>
 
 
 真题解析
@@ -2480,7 +3374,13 @@ D.may
 1. meant  2. to eat; trying  3. getting  
 
 # ***\#mean*** adj
-英音 miːn     美音 miːn  
+英音 miːn  
+英音
+<audio src="./media/mean-B.aac"></audio>
+美音 miːn  
+美音
+<audio src="./media/mean1.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2491,18 +3391,27 @@ D.may
 
  > He has always been **mean with** his money.   
  > 他向来花钱小气。    
+<audio src="./media/mean2-1.aac"></audio>
 
 ### 2.*高义频：* **卑鄙的；刻薄的：**  
 
  > It is mean to speak ill of others.   
  > 说别人坏话是卑鄙的行为。    
+<audio src="./media/mean2-2.aac"></audio>
 
  > A cyberbully uses the Internet to **be mean to** others.  
  > 网络恶霸使用互联网来欺负别人。  （人教新必修② – 3）  
+<audio src="./media/A cyberbully uses the Internet to be mean to others2_AAC.aac"></audio>
 
 
 # ***\#meander*** n
-英音 mi'ændə(r)     美音 mi'ændər  
+英音 mi'ændə(r)  
+英音
+<audio src="./media/meander-b.aac"></audio>
+美音 mi'ændər  
+美音
+<audio src="./media/meander.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2512,7 +3421,13 @@ D.may
 
 
 # ***\#meaning*** n
-英音 'miːnɪŋ     美音 'miːnɪŋ  
+英音 'miːnɪŋ  
+英音
+<audio src="./media/meaning-B.aac"></audio>
+美音 'miːnɪŋ  
+美音
+<audio src="./media/meaning.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 3 |  
 
@@ -2522,6 +3437,7 @@ D.may
 
  > This word has many meanings.   
  > 这个单词有多种意思。    
+<audio src="./media/meaning-1.aac"></audio>
 
 ### 2.*高义频：* **意义；重要性：**  
 
@@ -2535,6 +3451,7 @@ meaningful /'miːnɪŋfl/ adj
 meaningless  /'miːnɪŋləs/ adj   
  > Never fill our lives with meaningless tasks.  
  > 不要让毫无意义的事充斥我们的生活。    
+<audio src="./media/meaning-517_AAC.aac"></audio>
 
 
 真题解析
@@ -2545,7 +3462,13 @@ meaningless  /'miːnɪŋləs/ adj
 1. meaningful  
 
 # ***\#means*** n
-英音 miːnz     美音 miːnz  
+英音 miːnz  
+英音
+<audio src="./media/means-B.aac"></audio>
+美音 miːnz  
+美音
+<audio src="./media/means.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -2561,6 +3484,7 @@ meaningless  /'miːnɪŋləs/ adj
 
  > Watching films is regarded as a good means of entertainment.  
  > 看电影被视为一种很好的娱乐方式。  （2017 江苏书面表达）  
+<audio src="./media/Watching films is regarded_AAC.aac"></audio>
 
 
 固定搭配
@@ -2570,9 +3494,11 @@ meaningless  /'miːnɪŋləs/ adj
 
  > Please by all means hand in the report on time.   
  > 请务必准时上交报告。    
+<audio src="./media/means-2.aac"></audio>
 
  > — Can I use your car?   
  > 我能用你的汽车吗？    
+<audio src="./media/means-3.aac"></audio>
 
  > — By all means.   
  > 当然。    
@@ -2582,6 +3508,7 @@ meaningless  /'miːnɪŋləs/ adj
 
  > This is a two-year course taught by means of lectures.  
  > 这是一门为期两年的通过讲座形式教授的课程。    
+<audio src="./media/means-4.aac"></audio>
 
 ## \#by no means / not by any means
 1.**决不；一点也不**  
@@ -2589,13 +3516,16 @@ meaningless  /'miːnɪŋləs/ adj
 
  > Punishment is by no means a wise choice to help students grow up mentally and physically.  
  > 惩罚绝对不是帮助学生身心成长的明智选择。  （2011 陕西书面表达）  
+<audio src="./media/means-5.aac"></audio>
 
  > We haven’t won yet, not by any means.   
  > 我们离成功还远着呢。    
+<audio src="./media/means-6.aac"></audio>
 
 Notes: by no means位于句首时，句子多用部分倒装语序。  
  > I’ve tried very hard to improve my English. But by no means is the teacher satisfied with my progress.  
  > 我已很努力来提高英语水平，但老师对我的进步根本不满意。    
+<audio src="./media/means50.aac"></audio>
 
 
 真题解析
@@ -2607,7 +3537,13 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1. all  
 
 # ***\#meantime*** adv
-英音 'miːntaɪm     美音 'miːntaɪm  
+英音 'miːntaɪm  
+英音
+<audio src="./media/meantime-B.aac"></audio>
+美音 'miːntaɪm  
+美音
+<audio src="./media/meantime.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -2623,10 +3559,17 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 
  > The doctor will be here soon. In the meantime, try and relax.  
  > 医生很快就来。现在尽量放松一下吧。    
+<audio src="./media/in the meantime-1.aac"></audio>
 
 
 # ***\#meanwhile*** adv
-英音 'miːnwaɪl     美音 'miːnwaɪl  
+英音 'miːnwaɪl  
+英音
+<audio src="./media/meanwhile-B.aac"></audio>
+美音 'miːnwaɪl  
+美音
+<audio src="./media/meanwhile.aac"></audio>
+
 
 | 词频 4 | 书面 2 | 阅读 3 |  
 
@@ -2638,10 +3581,17 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 
  > Mother went shopping; meanwhile, I cleaned the house.   
  > 妈妈去买东西，与此同时，我打扫房间。    
+<audio src="./media/meanwhile-1.aac"></audio>
 
 
 # ***\#meanwhile*** n
-英音 'miːnwaɪl     美音 'miːnwaɪl  
+英音 'miːnwaɪl  
+英音
+<audio src="./media/meanwhile-B.aac"></audio>
+美音 'miːnwaɪl  
+美音
+<audio src="./media/meanwhile.aac"></audio>
+
 
 | 词频 4 | 书面 2 | 阅读 3 |  
 
@@ -2659,6 +3609,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 
  > Please find a taxi, and in the meanwhile I’ll pack some food.   
  > 你去叫辆出租车，趁这工夫我打包点吃的。    
+<audio src="./media/meanwhile-2.aac"></audio>
 
 
 真题解析
@@ -2669,7 +3620,13 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 1. In  
 
 # ***\#measure*** n  重难点词汇
-英音 'meʒə(r)     美音 'meʒər  
+英音 'meʒə(r)  
+英音
+<audio src="./media/measure-B.aac"></audio>
+美音 'meʒər  
+美音
+<audio src="./media/measure.aac"></audio>
+
 
 | 词频 4 | 书面 2 |  
 
@@ -2685,11 +3642,13 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 
  > Speed is **a** good **measure of** work performance in this setting.   
  > 在这种环境下，速度是衡量工作绩效的好办法。    
+<audio src="./media/measure-1.aac"></audio>
 
 ### 3.*低义频：* **(一定的) 量；程度 (degree)：**  
 
  > No matter how unpredictable the future, there’s almost always **some measure of** joy to be got from the moment.  
  > 无论未来多么不可预测，几乎总会有从当下获得的一些快乐。  （2015 浙江改）  
+<audio src="./media/measure50.aac"></audio>
 
 ### 4.*高义频：* **措施；办法**  
 英译 an official action (step)：
@@ -2699,6 +3658,7 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 
  > It is high time that we should **take some measures** to protect endangered animals.  
  > 是时候我们应该采取措施保护濒危动物了。    
+<audio src="./media/measure-517_AAC.aac"></audio>
 
 
 固定搭配
@@ -2708,13 +3668,20 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 
  > He sold me the car at a cheap price and included the GPS for good measure.  
  > 他以便宜的价格把汽车卖给了我，另外还赠送了导航仪。    
+<audio src="./media/He sold me the car at a cheap price and included the GPS2_AAC.aac"></audio>
 
 ## \#in full measure
 1.**[正式用语] 最大程度地；最大限度地**  
 
 
 # ***\#measure*** v  重难点词汇
-英音 'meʒə(r)     美音 'meʒər  
+英音 'meʒə(r)  
+英音
+<audio src="./media/measure-B.aac"></audio>
+美音 'meʒər  
+美音
+<audio src="./media/measure.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -2727,16 +3694,19 @@ Notes: by no means位于句首时，句子多用部分倒装语序。
 
  > The doctor weighed the baby and measured its height.   
  > 大夫给婴儿称体重，量身高。    
+<audio src="./media/measure-3.aac"></audio>
 
 ### 2.*高义频：* **(尺寸、数量等) 量度为：**  
 
  > The room measures 10 meters across.   
  > 这个房间宽10米。    
+<audio src="./media/measure-5.aac"></audio>
 
 ### 3.*高义频：* **估量；衡量 (assess)：**  
 
  > Scientists haven’t measured the positive effects of laughter on children.   
  > 笑对孩子们的正面影响有多大，科学家还没有对此作出评估。  （北师大⑥ – 17）  
+<audio src="./media/measure-4.aac"></audio>
 
 
 派生词汇
@@ -2747,7 +3717,13 @@ measurement /'meʒəmənt/ n
 
 
 # ***\#measurement*** n
-英音 'meʒəmənt     美音 'meʒərmənt  
+英音 'meʒəmənt  
+英音
+<audio src="./media/measurement-B.aac"></audio>
+美音 'meʒərmənt  
+美音
+<audio src="./media/measurement.aac"></audio>
+
 
 | 词频 1 | 书面 1 |  
 
@@ -2759,7 +3735,13 @@ measurement /'meʒəmənt/ n
 
 
 # ***\#meat*** n
-英音 miːt     美音 miːt  
+英音 miːt  
+英音
+<audio src="./media/meat-B.aac"></audio>
+美音 miːt  
+美音
+<audio src="./media/meat.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -2777,10 +3759,17 @@ measurement /'meʒəmənt/ n
 
  > We then got down to **the** real **meat of** the debate.  
  > 我们接下来进入了辩论的最精彩部分。    
+<audio src="./media/meat-517_AAC.aac"></audio>
 
 
 # ***\#mechanic*** n
-英音 mə'kænɪk     美音 mə'kænɪk  
+英音 mə'kænɪk  
+英音
+<audio src="./media/mechanic-B.aac"></audio>
+美音 mə'kænɪk  
+美音
+<audio src="./media/mechanic.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -2795,7 +3784,13 @@ measurement /'meʒəmənt/ n
 
 
 # ***\#mechanical*** adj
-英音 mə'kænɪkl     美音 mə'kænɪkl  
+英音 mə'kænɪkl  
+英音
+<audio src="./media/mechanical-B.aac"></audio>
+美音 mə'kænɪkl  
+美音
+<audio src="./media/mechanical.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -2811,10 +3806,17 @@ measurement /'meʒəmənt/ n
 
  > He was asked the same question so many times that the answer became mechanical.  
  > 被问过无数次同样的问题，他的回答变得十分机械。    
+<audio src="./media/mechanical-1.aac"></audio>
 
 
 # ***\#medal*** n
-英音 'medl     美音 'medl  
+英音 'medl  
+英音
+<audio src="./media/medal-B.aac"></audio>
+美音 'medl  
+美音
+<audio src="./media/medal.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -2826,10 +3828,17 @@ measurement /'meʒəmənt/ n
 
  > I’ll never forget **winning** my first **gold medal**.   
  > 我永远不会忘记夺得第一枚金牌时的情景。  （译林⑤ – 1）  
+<audio src="./media/medal-1.aac"></audio>
 
 
 # ***\#media*** n
-英音 'miːdiə     美音 'miːdiə  
+英音 'miːdiə  
+英音
+<audio src="./media/media-B.aac"></audio>
+美音 'miːdiə  
+美音
+<audio src="./media/media.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -2841,10 +3850,17 @@ measurement /'meʒəmənt/ n
 
  > The **mass media** was / were accused of influencing the final decision.  
  > 人们指责大众传媒影响了最终的决定。    
+<audio src="./media/media01.aac"></audio>
 
 
 # ***\#mediator*** n
-英音 'miːdieɪtə(r)     美音 'miːdieɪtər  
+英音 'miːdieɪtə(r)  
+英音
+<audio src="./media/mediator1.aac"></audio>
+美音 'miːdieɪtər  
+美音
+<audio src="./media/mediator2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2854,7 +3870,13 @@ measurement /'meʒəmənt/ n
 
 
 # ***\#medical*** adj
-英音 'medɪkl     美音 'medɪkl  
+英音 'medɪkl  
+英音
+<audio src="./media/medical-B.aac"></audio>
+美音 'medɪkl  
+美音
+<audio src="./media/medical.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 2 | 阅读 3 |  
 
@@ -2870,7 +3892,13 @@ measurement /'meʒəmənt/ n
 
 
 # ***\#medicine*** n
-英音 'medsn,'medɪsn     美音 'medsn,'medɪsn  
+英音 'medsn,'medɪsn  
+英音
+<audio src="./media/medicine1-b.aac"></audio>
+美音 'medsn,'medɪsn  
+美音
+<audio src="./media/medicine-1-.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -2880,14 +3908,17 @@ measurement /'meʒəmənt/ n
 
  > I **took medicine** twice a day.   
  > 我一天服药两次。    
+<audio src="./media/medicine01.aac"></audio>
 
  > Laughter is the best medicine.   
  > 欢笑是副良药。    
+<audio src="./media/medicine-1.aac"></audio>
 
 ### 2.*高义频：* **医学；医术：**  
 
  > My daughter has decided to study medicine.   
  > 我女儿决定学医。  （外研② – 1）  
+<audio src="./media/medicine-2.aac"></audio>
 
 
 真题解析
@@ -2898,7 +3929,13 @@ measurement /'meʒəmənt/ n
 1. medicine  
 
 # ***\#medieval*** adj
-英音 ˌmedi'iːvl     美音 ˌmedi'iːvl  
+英音 ˌmedi'iːvl  
+英音
+<audio src="./media/medieval1.aac"></audio>
+美音 ˌmedi'iːvl  
+美音
+<audio src="./media/medieval2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2908,7 +3945,13 @@ measurement /'meʒəmənt/ n
 
 
 # ***\#medium*** n
-英音 'miːdiəm     美音 'miːdiəm  
+英音 'miːdiəm  
+英音
+<audio src="./media/medium-B.aac"></audio>
+美音 'miːdiəm  
+美音
+<audio src="./media/medium.aac"></audio>
+
 
 | 词频 2 | 阅读 2 |  
 
@@ -2920,6 +3963,7 @@ measurement /'meʒəmənt/ n
 
  > Sound travels through the medium of air.   
  > 声音通过空气这一媒介传播。    
+<audio src="./media/medium-1.aac"></audio>
 
 ### 2.*高义频：* **新闻媒体；传媒**  
 
@@ -2927,10 +3971,17 @@ measurement /'meʒəmənt/ n
 
  > Television can be an excellent **medium for** education.  
  > 电视会是一种绝好的教育手段。    
+<audio src="./media/medium-2.aac"></audio>
 
 
 # ***\#medium*** adj
-英音 'miːdiəm     美音 'miːdiəm  
+英音 'miːdiəm  
+英音
+<audio src="./media/medium-B.aac"></audio>
+美音 'miːdiəm  
+美音
+<audio src="./media/medium.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -2943,7 +3994,13 @@ measurement /'meʒəmənt/ n
 
 
 # ***\#meet*** v
-英音 miːt     美音 miːt  
+英音 miːt  
+英音
+<audio src="./media/meet-B.aac"></audio>
+美音 miːt  
+美音
+<audio src="./media/meet.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2955,43 +4012,53 @@ measurement /'meʒəmənt/ n
 
  > You’ll never guess who I met in town.   
  > 你绝对猜不到我在城里遇到谁了。    
+<audio src="./media/meet-1.aac"></audio>
 
  > I met many new friends and my life became very busy.   
  > 我结识了许多新朋友，我的生活因此变得忙碌起来。  （译林① – 2）  
+<audio src="./media/meet-2.aac"></audio>
 
  > Why don’t we **meet for** lunch on Friday?   
  > 我们星期五一起吃午饭怎么样？    
+<audio src="./media/meet-3.aac"></audio>
 
 ### 2.*高义频：* **集合；开会：**  
 
  > The committee meets once a month.   
  > 委员们每个月开一次会。    
+<audio src="./media/meet-4.aac"></audio>
 
 ### 3.*高义频：* **迎接：**  
 
  > I’ll send my friend Charlie to meet you at the airport when you arrive.  
  > 你一到达，我就会让我的朋友查理去机场接你。    
+<audio src="./media/meet-5.aac"></audio>
 
 ### 4.*低义频：* **经历；遭遇 (come across)：**  
 
  > If he takes on this work, he will have no choice but to **meet an** even greater **challenge**.   
  > 如果他接受这项工作，将别无选择，只能应对更大的挑战。  （2012 陕西）  
+<audio src="./media/meet-6.aac"></audio>
 
 ### 5.*低义频：* **[不用于被动语态] (与...) 交锋；(与...) 交手：**  
 
  > The Heat will meet the Lakers in the NBA Finals.   
  > 热火队将在NBA总决赛上对阵湖人队。    
+<audio src="./media/meet-7.aac"></audio>
 
  > The defending champion and the challenger will meet next week.   
  > 卫冕冠军将在下周迎战挑战者。    
+<audio src="./media/meet-8.aac"></audio>
 
 ### 6.*低义频：* **[不用于被动语态] 接触；会合：**  
 
  > The two roads meet just north of the city.   
  > 这两条路在城北不远处会合。    
+<audio src="./media/meet-9.aac"></audio>
 
  > That’s where the river meets the sea.   
  > 这条河就在这里汇入大海。    
+<audio src="./media/meet-10.aac"></audio>
 
 ### 7.*低义频：* **满足；达到 (目标等)：**  
 
@@ -3000,6 +4067,7 @@ measurement /'meʒəmənt/ n
 
  > This new smartphone will **meet** almost all our **requirements**.  
  > 这种新的智能手机几乎能满足我们所有的需求。    
+<audio src="./media/meet-517_AAC.aac"></audio>
 
 
 固定搭配
@@ -3009,12 +4077,14 @@ measurement /'meʒəmənt/ n
 
  > I’ve got to go now, but I’ll **meet up with** you later.  
  > 我现在要走了，但是以后我们还会再见。    
+<audio src="./media/P276 meet1.aac"></audio>
 
 ## \#meet with
 1.*高义频：* **会见；会晤：**  
 
  > I'm going to meet with Professor Smith at ten past two.  
  > 我两点十分要和史密斯教授会面。  （2016全国）  
+<audio src="./media/meet-517-1_AAC.aac"></audio>
 
 2.*高义频：* **遭受；遭遇；获得：**  
 
@@ -3023,13 +4093,20 @@ measurement /'meʒəmənt/ n
 
  > Whatever problem he meets with, he never gives up.  
  > 无论遇到什么问题，他从不放弃。  （2013 天津）  
+<audio src="./media/P276 meet3.aac"></audio>
 
 ## \#meet sb's eye(s)
 1.**（和某人）对视；目光相遇**  
 
 
 # ***\#meet*** n
-英音 miːt     美音 miːt  
+英音 miːt  
+英音
+<audio src="./media/meet-B.aac"></audio>
+美音 miːt  
+美音
+<audio src="./media/meet.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -3041,10 +4118,17 @@ measurement /'meʒəmənt/ n
 
  > There is going to be a sports meet next week.   
  > 下周要举行运动会。    
+<audio src="./media/meet-12.aac"></audio>
 
 
 # ***\#meeting*** n
-英音 'miːtɪŋ     美音 'miːtɪŋ  
+英音 'miːtɪŋ  
+英音
+<audio src="./media/meeting-B.aac"></audio>
+美音 'miːtɪŋ  
+美音
+<audio src="./media/meeting.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3067,12 +4151,19 @@ measurement /'meʒəmənt/ n
 
  > The **meeting with** the old friends is a joyful one.   
  > 与老朋友的聚会是欢乐的。    
+<audio src="./media/meeting-1.aac"></audio>
 
 ### 3.*低义频：* **[BrE] 运动会**  
 
 
 # ***\#megadrought*** n
-英音 me'ɡɒdrɔːt     美音 me'ɡɒdrɔːt  
+英音 me'ɡɒdrɔːt  
+英音
+<audio src="./media/megadrought1_AAC.aac"></audio>
+美音 me'ɡɒdrɔːt  
+美音
+<audio src="./media/megadrought2_AAC.aac"></audio>
+
 
   
 
@@ -3082,7 +4173,13 @@ measurement /'meʒəmənt/ n
 
 
 # ***\#melancholy*** n
-英音 ˈmelənkəli     美音 ˈmelənkɑːli  
+英音 ˈmelənkəli  
+英音
+<audio src="./media/melancholy1_AAC.aac"></audio>
+美音 ˈmelənkɑːli  
+美音
+<audio src="./media/melancholy2_AAC.aac"></audio>
+
 
   
 
@@ -3092,7 +4189,13 @@ measurement /'meʒəmənt/ n
 
 
 # ***\#melodie*** n
-英音 melə'di     美音 'melədi  
+英音 melə'di  
+英音
+<audio src="./media/melodie1.aac"></audio>
+美音 'melədi  
+美音
+<audio src="./media/melodie2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3102,7 +4205,13 @@ measurement /'meʒəmənt/ n
 
 
 # ***\#melody*** n
-英音 'melədi     美音 'melədi  
+英音 'melədi  
+英音
+<audio src="./media/melody1.aac"></audio>
+美音 'melədi  
+美音
+<audio src="./media/melody2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3112,7 +4221,13 @@ measurement /'meʒəmənt/ n
 
 
 # ***\#melon*** n
-英音 'melən     美音 'melən  
+英音 'melən  
+英音
+<audio src="./media/melon-B.aac"></audio>
+美音 'melən  
+美音
+<audio src="./media/melon.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3125,7 +4240,13 @@ measurement /'meʒəmənt/ n
 
 
 # ***\#melt*** v
-英音 melt     美音 melt  
+英音 melt  
+英音
+<audio src="./media/melt-B.aac"></audio>
+美音 melt  
+美音
+<audio src="./media/melt.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -3135,13 +4256,20 @@ measurement /'meʒəmənt/ n
 
  > The ice which covers the South Pole has begun to melt.  
  > 覆盖南极的冰已经开始融化了。  （外研③–7）  
+<audio src="./media/melt-1.aac"></audio>
 
  > a melting pot  
  > 大熔炉    
 
 
 # ***\#member*** n
-英音 'membə(r)     美音 'membər  
+英音 'membə(r)  
+英音
+<audio src="./media/member-B.aac"></audio>
+美音 'membər  
+美音
+<audio src="./media/member.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3156,7 +4284,13 @@ measurement /'meʒəmənt/ n
 
 
 # ***\#membership*** n
-英音 'membəʃɪp     美音 'membərʃɪp  
+英音 'membəʃɪp  
+英音
+<audio src="./media/membership-B.aac"></audio>
+美音 'membərʃɪp  
+美音
+<audio src="./media/membership.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 2 | 阅读 2 |  
 
@@ -3176,13 +4310,21 @@ measurement /'meʒəmənt/ n
 
  > How large / big is the membership?   
  > 总共有多少会员？    
+<audio src="./media/membership-1.aac"></audio>
 
  > The membership has / have not yet voted.  
  > 会员还没有投票。    
+<audio src="./media/The membership has not yet voted2_AAC.aac"></audio>
 
 
 # ***\#memorable*** adj
-英音 'memərəbl     美音 'memərəbl  
+英音 'memərəbl  
+英音
+<audio src="./media/memorable1.aac"></audio>
+美音 'memərəbl  
+美音
+<audio src="./media/memorable2.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -3192,7 +4334,13 @@ measurement /'meʒəmənt/ n
 
 
 # ***\#memorial*** adj
-英音 mə'mɔːriəl     美音 mə'mɔːriəl  
+英音 mə'mɔːriəl  
+英音
+<audio src="./media/memorial-B.aac"></audio>
+美音 mə'mɔːriəl  
+美音
+<audio src="./media/memorial.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -3205,7 +4353,13 @@ measurement /'meʒəmənt/ n
 
 
 # ***\#memorial*** n
-英音 mə'mɔːriəl     美音 mə'mɔːriəl  
+英音 mə'mɔːriəl  
+英音
+<audio src="./media/memorial-B.aac"></audio>
+美音 mə'mɔːriəl  
+美音
+<audio src="./media/memorial.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -3217,9 +4371,14 @@ measurement /'meʒəmənt/ n
 
  > The statue is a **memorial to** all the soldiers who died in the wars.   
  > 这尊塑像是纪念全体阵亡战士的。    
+<audio src="./media/memorial-1.aac"></audio>
 
 
 # ***\#memorisation*** n
+英音
+<audio src="./media/memorisation1_AAC.aac"></audio>
+美音
+<audio src="./media/memorisation2_AAC.aac"></audio>
 
 
   
@@ -3230,7 +4389,13 @@ measurement /'meʒəmənt/ n
 
 
 # ***\#memorise*** v
-英音 'meməraɪz     美音 'meməraɪz  
+英音 'meməraɪz  
+英音
+<audio src="./media/memorize1_AAC.aac"></audio>
+美音 'meməraɪz  
+美音
+<audio src="./media/memorize2_AAC.aac"></audio>
+
 
   
 
@@ -3244,7 +4409,13 @@ measurement /'meʒəmənt/ n
 memorisation /ˌmeməraɪ'zeiʃən/ n   
 
 # ***\#memorize*** v
-英音 'meməraɪz     美音 'meməraɪz  
+英音 'meməraɪz  
+英音
+<audio src="./media/memorize1_AAC.aac"></audio>
+美音 'meməraɪz  
+美音
+<audio src="./media/memorize2_AAC.aac"></audio>
+
 
   
 
@@ -3258,7 +4429,13 @@ memorisation /ˌmeməraɪ'zeiʃən/ n
 memorization /ˌmeməraɪ'zeiʃən/ n   
 
 # ***\#memory*** n
-英音 'meməri     美音 'meməri  
+英音 'meməri  
+英音
+<audio src="./media/memory-B.aac"></audio>
+美音 'meməri  
+美音
+<audio src="./media/memory.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 3 |  
 
@@ -3271,6 +4448,7 @@ memorization /ˌmeməraɪ'zeiʃən/ n
 
  > She **has an excellent memory** for names, which helps her quite a lot in her work.   
  > 她对名字有极佳的记忆力，这对她的工作很有帮助。    
+<audio src="./media/memory-1.aac"></audio>
 
 ### 2.*高义频：* **记忆；回忆：**  
 
@@ -3279,6 +4457,7 @@ memorization /ˌmeməraɪ'zeiʃən/ n
 
  > Those songs **bring back** lots of **good memories**.  
  > 那些歌曲唤起许多美好的回忆    
+<audio src="./media/memory-517_AAC.aac"></audio>
 
 ### 3.*高义频：* **[计算机] [C] 存储器；[U] 存储量：**  
 
@@ -3290,6 +4469,7 @@ memorization /ˌmeməraɪ'zeiʃən/ n
 
  > Personal computers now have much increased memory capacity.   
  > 现在个人计算机的存储量已经得到了很大的提高。    
+<audio src="./media/memory-2.aac"></audio>
 
 
 固定搭配
@@ -3299,6 +4479,7 @@ memorization /ˌmeməraɪ'zeiʃən/ n
 
  > After Dr Bethune's death, Chairman Mao Zedong wrote an article in memory of him.  
  > 白求恩大夫去世后，毛泽东主席写了一篇文章来纪念他。  （人教新必修③ – 2）  
+<audio src="./media/After Dr Bethune's death, Chairman Mao Zedong2_AAC.aac"></audio>
 
 
 派生词汇
@@ -3306,7 +4487,13 @@ memorization /ˌmeməraɪ'zeiʃən/ n
 memorable /'memərəbl/ adj   
 
 # ***\#mend*** v
-英音 mend     美音 mend  
+英音 mend  
+英音
+<audio src="./media/mend-B.aac"></audio>
+美音 mend  
+美音
+<audio src="./media/mend.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -3319,10 +4506,17 @@ memorable /'memərəbl/ adj
 
  > Most troubled friendships can be mended.  
  > 大多数受损的友谊是可以修复的。    
+<audio src="./media/mend-1.aac"></audio>
 
 
 # ***\#mental*** adj
-英音 'mentl     美音 'mentl  
+英音 'mentl  
+英音
+<audio src="./media/mental-B.aac"></audio>
+美音 'mentl  
+美音
+<audio src="./media/mental.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
 
@@ -3337,6 +4531,7 @@ memorable /'memərəbl/ adj
 
  > It's important to maintain good **mental health**.  
  > 保持心理健康很重要。    
+<audio src="./media/mental-1.aac"></audio>
 
 
 派生词汇
@@ -3344,10 +4539,17 @@ memorable /'memərəbl/ adj
 mentally /'mentəli/ adv   
  > Mentally, I began making a list of things I had to do.  
  > 我开始在脑子里盘算我该做哪些事情。    
+<audio src="./media/mental-517_AAC.aac"></audio>
 
 
 # ***\#mentally*** adv
-英音 'mentəli     美音 'mentəli  
+英音 'mentəli  
+英音
+<audio src="./media/mentally-B.aac"></audio>
+美音 'mentəli  
+美音
+<audio src="./media/mentally.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -3357,7 +4559,13 @@ mentally /'mentəli/ adv
 
 
 # ***\#mention*** vt
-英音 'menʃn     美音 'menʃn  
+英音 'menʃn  
+英音
+<audio src="./media/mention-B.aac"></audio>
+美音 'menʃn  
+美音
+<audio src="./media/mention.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3369,19 +4577,23 @@ mentally /'mentəli/ adv
 
  > He mentioned the plan to me at dinner.  
  > 吃饭时他跟我提起了那个计划。    
+<audio src="./media/mention-517-1_AAC.aac"></audio>
 
 - mention doing sth:
 
  > She mentioned hearing from Jack lately.  
  > 她提到了她最近收到了杰克的来信。    
+<audio src="./media/mention-517-2_AAC.aac"></audio>
 
 - mention + (that) / wh- 从句：
 
  > Jennifer mentioned that she was going to Hawaii on holiday.  
  > 詹妮弗说起她要去夏威夷度假。    
+<audio src="./media/mention-517-3_AAC.aac"></audio>
 
  > Did she mention where she was going?  
  > 她说过她要去哪儿吗？    
+<audio src="./media/mention-517-4_AAC.aac"></audio>
 
 
 固定搭配
@@ -3394,6 +4606,7 @@ mentally /'mentəli/ adv
 
  > When starting your own business, you shouldn’t think of a free day, not to mention flying off for a month’s vacation.   
  > 创业期间，你别想有一天的空闲时间，更别说乘飞机去度一个月的假了。    
+<audio src="./media/mention-5.aac"></audio>
 
 
 真题解析
@@ -3404,7 +4617,13 @@ mentally /'mentəli/ adv
 1. being / having been promoted  
 
 # ***\#mention*** n
-英音 'menʃn     美音 'menʃn  
+英音 'menʃn  
+英音
+<audio src="./media/mention-B.aac"></audio>
+美音 'menʃn  
+美音
+<audio src="./media/mention.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -3416,10 +4635,17 @@ mentally /'mentəli/ adv
 
  > She **made no mention of** her mother’s illness.  
  > 她没有提到她母亲的病。    
+<audio src="./media/mention-517_AAC.aac"></audio>
 
 
 # ***\#menu*** n
-英音 'menjuː     美音 'menjuː  
+英音 'menjuː  
+英音
+<audio src="./media/menu-B.aac"></audio>
+美音 'menjuː  
+美音
+<audio src="./media/menu.aac"></audio>
+
 
 | 词频 3 | 口语 1 |  
 
@@ -3431,13 +4657,20 @@ mentally /'mentəli/ adv
 
  > Let us see what is **on the menu** today.   
  > 让我们看看今天菜单上有什么。    
+<audio src="./media/menu-1.aac"></audio>
 
  > a pull-down menu  
  > 下拉式菜单    
 
 
 # ***\#merchant*** n
-英音 'mɜːtʃənt     美音 'mɜːrtʃənt  
+英音 'mɜːtʃənt  
+英音
+<audio src="./media/merchant-B.aac"></audio>
+美音 'mɜːrtʃənt  
+美音
+<audio src="./media/merchant.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -3449,7 +4682,13 @@ mentally /'mentəli/ adv
 
 
 # ***\#merchant*** adj
-英音 'mɜːtʃənt     美音 'mɜːrtʃənt  
+英音 'mɜːtʃənt  
+英音
+<audio src="./media/merchant-B.aac"></audio>
+美音 'mɜːrtʃənt  
+美音
+<audio src="./media/merchant.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -3464,7 +4703,13 @@ mentally /'mentəli/ adv
 
 
 # ***\#merciful*** adj
-英音 'mɜːsɪfl     美音 'mɜːrsɪfl  
+英音 'mɜːsɪfl  
+英音
+<audio src="./media/merciful-B.aac"></audio>
+美音 'mɜːrsɪfl  
+美音
+<audio src="./media/merciful.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3474,10 +4719,17 @@ mentally /'mentəli/ adv
 
  > The merciful king saved him from death.   
  > 仁慈的国王救了他一命。    
+<audio src="./media/merciful-1.aac"></audio>
 
 
 # ***\#mercy*** n
-英音 'mɜːsi     美音 'mɜːrsi  
+英音 'mɜːsi  
+英音
+<audio src="./media/mercy-B.aac"></audio>
+美音 'mɜːrsi  
+美音
+<audio src="./media/mercy.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3492,6 +4744,7 @@ mentally /'mentəli/ adv
 
  > They **showed little mercy to** the prisoners.   
  > 他们对囚犯毫不留情。    
+<audio src="./media/mercy-1.aac"></audio>
 
 
 固定搭配
@@ -3501,10 +4754,17 @@ mentally /'mentəli/ adv
 
  > The little ship was at the mercy of the storm.   
  > 小船在暴风雨中失去控制。    
+<audio src="./media/mercy-2.aac"></audio>
 
 
 # ***\#mere*** adj
-英音 mɪə(r)     美音 mɪr  
+英音 mɪə(r)  
+英音
+<audio src="./media/mere-B.aac"></audio>
+美音 mɪr  
+美音
+<audio src="./media/mere.aac"></audio>
+
 
 | 词频 2 | 书面 1 |  
 
@@ -3516,15 +4776,23 @@ mentally /'mentəli/ adv
 
  > He lost the election by a mere 2 votes.  
  > 他只以两票之差落选。    
+<audio src="./media/P277 mere1.aac"></audio>
 
 ### 2.*高义频：* **[强调事物虽小但却有很大的影响] 极小的；极不重要的：**  
 
  > The merest mention of snake makes her feel sick.  
  > 仅仅一提到蛇都会使她恶心。    
+<audio src="./media/P277 mere2.aac"></audio>
 
 
 # ***\#merely*** adv
-英音 'mɪəli     美音 'mɪrli  
+英音 'mɪəli  
+英音
+<audio src="./media/merely-B.aac"></audio>
+美音 'mɪrli  
+美音
+<audio src="./media/merely.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 2 |  
 
@@ -3534,9 +4802,11 @@ mentally /'mentəli/ adv
 
  > I asked it merely out of curiosity.   
  > 我只不过出于好奇问问而已。    
+<audio src="./media/merely-1.aac"></audio>
 
  > It is **not merely** a job, but a way of life.  
  > 这不仅仅是一份工作，而是一种生活方式。    
+<audio src="./media/It is not merely a job,_AAC.aac"></audio>
 
 
 真题解析
@@ -3547,7 +4817,13 @@ mentally /'mentəli/ adv
 1. merely  
 
 # ***\#merrily*** adv
-英音 'merəli     美音 'merəli  
+英音 'merəli  
+英音
+<audio src="./media/merrily-B.aac"></audio>
+美音 'merəli  
+美音
+<audio src="./media/merrily-A.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3557,7 +4833,13 @@ mentally /'mentəli/ adv
 
 
 # ***\#merry*** adj
-英音 'meri     美音 'meri  
+英音 'meri  
+英音
+<audio src="./media/merry-B.aac"></audio>
+美音 'meri  
+美音
+<audio src="./media/merry.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3567,13 +4849,21 @@ mentally /'mentəli/ adv
 
  > **Merry Christmas** to you!   
  > 祝你圣诞快乐!    
+<audio src="./media/merry-1.aac"></audio>
 
  > Every family in the village is living a merry life.   
  > 村子里家家都过着快乐的生活。    
+<audio src="./media/merry-2.aac"></audio>
 
 
 # ***\#mess*** n
-英音 mes     美音 mes  
+英音 mes  
+英音
+<audio src="./media/mess-B.aac"></audio>
+美音 mes  
+美音
+<audio src="./media/mess.aac"></audio>
+
 
 | 词频 2 | 口语 2 |  
 
@@ -3585,18 +4875,27 @@ mentally /'mentəli/ adv
 
  > The room was **in a mess**.   
  > 房间又脏又乱。    
+<audio src="./media/mess-1.aac"></audio>
 
  > **What a mess**! Just look at all this litter.   
  > 真是乱七八糟！看看这些垃圾。    
+<audio src="./media/mess-2.aac"></audio>
 
 ### 2.*高义频：* **困境；麻烦；混乱：**  
 
  > I feel I’ve **made a mess of** things.   
  > 我觉得我把事情弄得一团糟。    
+<audio src="./media/mess-3.aac"></audio>
 
 
 # ***\#mess*** vt
-英音 mes     美音 mes  
+英音 mes  
+英音
+<audio src="./media/mess-B.aac"></audio>
+美音 mes  
+美音
+<audio src="./media/mess.aac"></audio>
+
 
 | 词频 2 | 口语 2 |  
 
@@ -3612,16 +4911,24 @@ mentally /'mentəli/ adv
 
  > Don’t mess up the house while I’m gone.   
  > 我不在的时候别把房子弄得乱糟糟的。    
+<audio src="./media/mess-4.aac"></audio>
 
  > It doesn't matter if you mess it up; you can always try again.  
  > 要是搞砸了也没关系，你总是可以再来一次的。    
+<audio src="./media/It doesn't matter if you_AAC.aac"></audio>
 
 ## \#mess with
 1.**与…有牵连；欺骗；试图改变**  
 
 
 # ***\#message*** n
-英音 'mesɪdʒ     美音 'mesɪdʒ  
+英音 'mesɪdʒ  
+英音
+<audio src="./media/message-B.aac"></audio>
+美音 'mesɪdʒ  
+美音
+<audio src="./media/message.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -3643,6 +4950,7 @@ mentally /'mentəli/ adv
 
  > The message of the film is simple — we want peace; we don't want war.  
  > 这部电影的主题思想很简单——我们要和平；我们不要战争。  （外研新选必③ – 3）  
+<audio src="./media/The message of the film is simple2_AAC.aac"></audio>
 
 
 固定搭配
@@ -3652,6 +4960,7 @@ mentally /'mentəli/ adv
 
  > — Mark, I think you’re the right person for the job.  
  > 马克，我认为你是这个职位的合适人选。    
+<audio src="./media/message-5.aac"></audio>
 
  > — I get the message.   
  > 我明白了。    
@@ -3665,7 +4974,13 @@ mentally /'mentəli/ adv
 1. message  
 
 # ***\#messenger*** n
-英音 'mesɪndʒə(r)     美音 'mesɪndʒər  
+英音 'mesɪndʒə(r)  
+英音
+<audio src="./media/Messenger-B.aac"></audio>
+美音 'mesɪndʒər  
+美音
+<audio src="./media/messenger.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3677,7 +4992,13 @@ mentally /'mentəli/ adv
 
 
 # ***\#messy*** adj
-英音 'mesi     美音 'mesi  
+英音 'mesi  
+英音
+<audio src="./media/messy-B.aac"></audio>
+美音 'mesi  
+美音
+<audio src="./media/messy.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -3690,15 +5011,23 @@ mentally /'mentəli/ adv
 
  > The room was always messy.  
  > 这个房间总是乱糟糟的。    
+<audio src="./media/The room was always messy_AAC.aac"></audio>
 
 ### 2.*低义频：* **棘手的；难办的：**  
 
  > Quite a difficult and messy task!   
  > 真是相当棘手的任务！  （人教⑧ – 5）  
+<audio src="./media/messy-2.aac"></audio>
 
 
 # ***\#metal*** n
-英音 'metl     美音 'metl  
+英音 'metl  
+英音
+<audio src="./media/metal-B.aac"></audio>
+美音 'metl  
+美音
+<audio src="./media/metal.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 2 |  
 
@@ -3710,7 +5039,13 @@ mentally /'mentəli/ adv
 
 
 # ***\#metaphor*** n
-英音 'metəfə(r)     美音 'metəfər  
+英音 'metəfə(r)  
+英音
+<audio src="./media/metaphor1_AAC.aac"></audio>
+美音 'metəfər  
+美音
+<audio src="./media/metaphor2_AAC.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3722,7 +5057,13 @@ mentally /'mentəli/ adv
 
 
 # ***\#metaphorical*** adj
-英音 ˌmetə'fɒrɪkl     美音 ˌmetə'fɔːrɪkl  
+英音 ˌmetə'fɒrɪkl  
+英音
+<audio src="./media/metaphorical1.aac"></audio>
+美音 ˌmetə'fɔːrɪkl  
+美音
+<audio src="./media/metaphorical2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3732,7 +5073,13 @@ mentally /'mentəli/ adv
 
 
 # ***\#meteorite*** n
-英音 'miːtiəraɪt     美音 'miːtiəraɪt  
+英音 'miːtiəraɪt  
+英音
+<audio src="./media/meteorite1.aac"></audio>
+美音 'miːtiəraɪt  
+美音
+<audio src="./media/meteorite2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3742,7 +5089,13 @@ mentally /'mentəli/ adv
 
 
 # ***\#meter*** n
-英音 'miːtə(r)     美音 'miːtər  
+英音 'miːtə(r)  
+英音
+<audio src="./media/meter-B.aac"></audio>
+美音 'miːtər  
+美音
+<audio src="./media/meter.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3757,7 +5110,13 @@ mentally /'mentəli/ adv
 
 
 # ***\#methane*** n
-英音 'miːθeɪn     美音 'mɛθeɪn  
+英音 'miːθeɪn  
+英音
+<audio src="./media/methane-B.aac"></audio>
+美音 'mɛθeɪn  
+美音
+<audio src="./media/methane.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3769,7 +5128,13 @@ mentally /'mentəli/ adv
 
 
 # ***\#method*** n
-英音 'meθəd     美音 'meθəd  
+英音 'meθəd  
+英音
+<audio src="./media/method-B.aac"></audio>
+美音 'meθəd  
+美音
+<audio src="./media/method.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 |  
 
@@ -3794,7 +5159,13 @@ mentally /'mentəli/ adv
 1. of/for  
 
 # ***\#metre*** n
-英音 'miːtə(r)     美音 'miːtər  
+英音 'miːtə(r)  
+英音
+<audio src="./media/metre-B.aac"></audio>
+美音 'miːtər  
+美音
+<audio src="./media/metre.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -3806,10 +5177,17 @@ mentally /'mentəli/ adv
 
  > This room is 20 square metres.  
  > 这个房间的面积为20平方米。    
+<audio src="./media/This room is 20 square metres_AAC.aac"></audio>
 
 
 # ***\#metropolitan*** adj
-英音 ˌmetrə'pɒlɪtən     美音 ˌmetrə'pɑːlɪtən  
+英音 ˌmetrə'pɒlɪtən  
+英音
+<audio src="./media/metropolitan-B.aac"></audio>
+美音 ˌmetrə'pɑːlɪtən  
+美音
+<audio src="./media/metropolitan.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3819,7 +5197,13 @@ mentally /'mentəli/ adv
 
 
 # ***\#microbiology*** n
-英音 ˌmaɪkrəʊbaɪˈɒlədʒi     美音 ˌmaɪkrəʊbaɪˈɑːlədʒi  
+英音 ˌmaɪkrəʊbaɪˈɒlədʒi  
+英音
+<audio src="./media/microbiology1_AAC.aac"></audio>
+美音 ˌmaɪkrəʊbaɪˈɑːlədʒi  
+美音
+<audio src="./media/microbiology2_AAC.aac"></audio>
+
 
   
 
@@ -3829,7 +5213,13 @@ mentally /'mentəli/ adv
 
 
 # ***\#microblogging*** n
-英音 ˈmaɪkrəʊblɒɡɪŋ     美音 ˈmaɪkrəʊblɑːɡɪŋ  
+英音 ˈmaɪkrəʊblɒɡɪŋ  
+英音
+<audio src="./media/microblogging1_AAC.aac"></audio>
+美音 ˈmaɪkrəʊblɑːɡɪŋ  
+美音
+<audio src="./media/microblogging2_AAC.aac"></audio>
+
 
   
 
@@ -3839,7 +5229,13 @@ mentally /'mentəli/ adv
 
 
 # ***\#microorganism*** n
-英音 ˌmaɪkrəʊˈɔːɡənɪzəm     美音 ˌmaɪkrəʊˈɔːrɡənɪzəm  
+英音 ˌmaɪkrəʊˈɔːɡənɪzəm  
+英音
+<audio src="./media/microorganism1_AAC.aac"></audio>
+美音 ˌmaɪkrəʊˈɔːrɡənɪzəm  
+美音
+<audio src="./media/microorganism2_AAC.aac"></audio>
+
 
   
 
@@ -3849,7 +5245,13 @@ mentally /'mentəli/ adv
 
 
 # ***\#microphone*** n
-英音 'maɪkrəfəʊn     美音 'maɪkrəfoʊn  
+英音 'maɪkrəfəʊn  
+英音
+<audio src="./media/microphone-B.aac"></audio>
+美音 'maɪkrəfoʊn  
+美音
+<audio src="./media/microphone.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3861,7 +5263,13 @@ mentally /'mentəli/ adv
 
 
 # ***\#microscope*** n
-英音 'maɪkrəskəʊp     美音 'maɪkrəskoʊp  
+英音 'maɪkrəskəʊp  
+英音
+<audio src="./media/microscope-B.aac"></audio>
+美音 'maɪkrəskoʊp  
+美音
+<audio src="./media/microscope.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3873,7 +5281,13 @@ mentally /'mentəli/ adv
 
 
 # ***\#microwave*** n
-英音 'maɪkrəweɪv     美音 'maɪkrəweɪv  
+英音 'maɪkrəweɪv  
+英音
+<audio src="./media/microwave-B.aac"></audio>
+美音 'maɪkrəweɪv  
+美音
+<audio src="./media/microwave.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3888,7 +5302,13 @@ mentally /'mentəli/ adv
 
 
 # ***\#mid-*** prefix
-英音 mɪd     美音 mɪd  
+英音 mɪd  
+英音
+<audio src="./media/mid-B.aac"></audio>
+美音 mɪd  
+美音
+<audio src="./media/mid-.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -3898,7 +5318,13 @@ mentally /'mentəli/ adv
 
 
 # ***\#midday*** n
-英音 ˌmɪd'deɪ     美音 ˌmɪd'deɪ  
+英音 ˌmɪd'deɪ  
+英音
+<audio src="./media/midday-B.aac"></audio>
+美音 ˌmɪd'deɪ  
+美音
+<audio src="./media/midday.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -3910,7 +5336,13 @@ mentally /'mentəli/ adv
 
 
 # ***\#middle*** adj
-英音 'mɪdl     美音 'mɪdl  
+英音 'mɪdl  
+英音
+<audio src="./media/middle-B.aac"></audio>
+美音 'mɪdl  
+美音
+<audio src="./media/middle.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -3922,6 +5354,7 @@ mentally /'mentəli/ adv
 
  > I booked three seats in the middle row.   
  > 我预订了中间那排的3个座位。    
+<audio src="./media/middle-1.aac"></audio>
 
  > **in sb's middle twenties**  
  > 在某人25岁左右时    
@@ -3940,7 +5373,13 @@ mentally /'mentəli/ adv
 1. on → of  
 
 # ***\#middle*** n
-英音 'mɪdl     美音 'mɪdl  
+英音 'mɪdl  
+英音
+<audio src="./media/middle-B.aac"></audio>
+美音 'mɪdl  
+美音
+<audio src="./media/middle.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -3952,9 +5391,11 @@ mentally /'mentəli/ adv
 
  > That dress has a dirty spot right **in the middle**.   
  > 那件衣服的正中间有个污点。  （人教 – 3）  
+<audio src="./media/middle-2.aac"></audio>
 
  > Switzerland is a small but beautiful country **in the middle of** Europe.  
  > 瑞士位于欧洲中部，很小却很美。    
+<audio src="./media/Switzerland is a small but beautiful_AAC.aac"></audio>
 
 ### 2.*高义频：* **(时间的) 中点；(事件的) 中途**  
 
@@ -3962,13 +5403,21 @@ mentally /'mentəli/ adv
 
  > In many parts of the world, people take naps in the middle of the day.  
  > 在世界上许多地方，人们中午会小睡一会儿。  （2008 四川）  
+<audio src="./media/In many parts of the world_AAC.aac"></audio>
 
  > I was in the middle of packing up my things when suddenly the power went out in the neighborhood.  
  > 我正在收拾东西，突然整个街区都停电了。    
+<audio src="./media/I was in the middle of packing_AAC.aac"></audio>
 
 
 # ***\#middle-aged*** adj
-英音 middle-aged     美音 'mɪdl eɪdʒd  
+英音 middle-aged  
+英音
+<audio src="./media/middle-aged1_AAC.aac"></audio>
+美音 'mɪdl eɪdʒd  
+美音
+<audio src="./media/middle-aged2_AAC.aac"></audio>
+
 
   
 
@@ -3978,7 +5427,13 @@ mentally /'mentəli/ adv
 
 
 # ***\#midnight*** n
-英音 'mɪdnaɪt     美音 'mɪdnaɪt  
+英音 'mɪdnaɪt  
+英音
+<audio src="./media/midnigh-B.aac"></audio>
+美音 'mɪdnaɪt  
+美音
+<audio src="./media/midnight.aac"></audio>
+
 
 | 词频 3 | 口语 1 |  
 
@@ -3996,7 +5451,13 @@ mentally /'mentəli/ adv
 
 
 # ***\#midwestern*** adj
-英音 ˌmɪd'westən     美音 ˌmɪd'westən  
+英音 ˌmɪd'westən  
+英音
+<audio src="./media/midwestern-b.aac"></audio>
+美音 ˌmɪd'westən  
+美音
+<audio src="./media/midwestern.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4006,7 +5467,13 @@ mentally /'mentəli/ adv
 
 
 # ***\#might*** modal v
-英音 maɪt     美音 maɪt  
+英音 maɪt  
+英音
+<audio src="./media/might-B.aac"></audio>
+美音 maɪt  
+美音
+<audio src="./media/might.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -4018,16 +5485,19 @@ mentally /'mentəli/ adv
 
  > I’m afraid it might rain tonight.   
  > 我看今晚恐怕要下雨。    
+<audio src="./media/might-1.aac"></audio>
 
 - [表示对过去的推测] might have done sth：
 
  > I don’t know why the manager didn’t reply. He might not have received our letter.   
  > 我不知道经理为什么不回复。他可能没有收到我们的信。  （外研⑤ – 2）  
+<audio src="./media/might-2.aac"></audio>
 
 ### 2.*高义频：* **[用于礼貌地提出建议、表示许可] 可以：**  
 
  > I asked the teacher if I might go home.   
  > 我问老师我是否可以回家了。    
+<audio src="./media/might-3.aac"></audio>
 
 ### 3.*低义频：* **也许会：**  
 
@@ -4035,19 +5505,23 @@ mentally /'mentəli/ adv
 
  > If he were older, he might understand.  
  > 他要是年龄大一些的话，也许会明白。    
+<audio src="./media/might-4.aac"></audio>
 
 - [表示与过去事实相反的假设] might have done sth：
 
  > Had they known what was coming next, they might have had second thoughts.   
  > 要是他们知道接下来发生的事，他们也许会再考虑一下。  （2012 浙江）  
+<audio src="./media/might-5.aac"></audio>
 
 ### 4.*高义频：* **请；应该：**  
 
  > I wonder if I might ask your address.   
  > 可否告诉我您的地址？    
+<audio src="./media/might-6.aac"></audio>
 
  > You might take exercise more frequently.  
  > 你该多经常锻炼才是。    
+<audio src="./media/You might take exercise more_AAC.aac"></audio>
 
 Notes: might相当于may，但更带迟疑、婉转、谦逊等色彩。  
 
@@ -4069,7 +5543,13 @@ D. should
 1. D  2. A  
 
 # ***\#might*** n
-英音 maɪt     美音 maɪt  
+英音 maɪt  
+英音
+<audio src="./media/might-B.aac"></audio>
+美音 maɪt  
+美音
+<audio src="./media/might.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -4083,7 +5563,13 @@ D. should
 mighty /'maɪti/ adj   
 
 # ***\#mighty*** adj
-英音 'maɪti     美音 'maɪti  
+英音 'maɪti  
+英音
+<audio src="./media/mighty1_AAC.aac"></audio>
+美音 'maɪti  
+美音
+<audio src="./media/mighty1_AAC.aac"></audio>
+
 
   
 
@@ -4093,7 +5579,13 @@ mighty /'maɪti/ adj
 
 
 # ***\#migrant*** n
-英音 'maɪɡrənt     美音 'maɪɡrənt  
+英音 'maɪɡrənt  
+英音
+<audio src="./media/migrant1.aac"></audio>
+美音 'maɪɡrənt  
+美音
+<audio src="./media/migrant2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4103,7 +5595,13 @@ mighty /'maɪti/ adj
 
 
 # ***\#migrate*** v
-英音 maɪ'ɡreɪt     美音 'maɪɡreɪt  
+英音 maɪ'ɡreɪt  
+英音
+<audio src="./media/migrate1_AAC.aac"></audio>
+美音 'maɪɡreɪt  
+美音
+<audio src="./media/migrate2_AAC.aac"></audio>
+
 
   
 
@@ -4117,7 +5615,13 @@ mighty /'maɪti/ adj
 migratory /ˈmaɪɡrətri/ adj   
 
 # ***\#migration*** n
-英音 maɪ'ɡreɪʃn     美音 maɪ'ɡreɪʃn  
+英音 maɪ'ɡreɪʃn  
+英音
+<audio src="./media/Migration-B.aac"></audio>
+美音 maɪ'ɡreɪʃn  
+美音
+<audio src="./media/migration.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -4129,10 +5633,17 @@ migratory /ˈmaɪɡrətri/ adj
 
  > The process of urbanization — the migration of people from the countryside to the city — was the result of modernization.  
  > 城市化进程——人们从农村移居到城市——是现代化的结果。  （2013 北京）  
+<audio src="./media/migration-1.aac"></audio>
 
 
 # ***\#migratory*** adj
-英音 ˈmaɪɡrətri     美音 ˈmaɪɡrətɔːri  
+英音 ˈmaɪɡrətri  
+英音
+<audio src="./media/migratory1_AAC.aac"></audio>
+美音 ˈmaɪɡrətɔːri  
+美音
+<audio src="./media/migratory2_AAC.aac"></audio>
+
 
   
 
@@ -4142,7 +5653,13 @@ migratory /ˈmaɪɡrətri/ adj
 
 
 # ***\#mild*** adj
-英音 maɪld     美音 maɪld  
+英音 maɪld  
+英音
+<audio src="./media/mild-B.aac"></audio>
+美音 maɪld  
+美音
+<audio src="./media/mild.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -4152,6 +5669,7 @@ migratory /ˈmaɪɡrətri/ adj
 
  > He has too mild a nature to get angry, even if he has good cause.   
  > 他性情十分温和，即使有充分的理由，他也不会动怒。    
+<audio src="./media/mild01.aac"></audio>
 
 ### 2.*高义频：* **(天气) 温暖的；暖和的**  
 反义词 cold 
@@ -4166,9 +5684,11 @@ migratory /ˈmaɪɡrətri/ adj
 
  > He looked at her in mild surprise.   
  > 他略显吃惊地看着她。    
+<audio src="./media/mild-2.aac"></audio>
 
  > He suffered from a mild heart attack.   
  > 他患有轻度心脏病。    
+<audio src="./media/mild-3.aac"></audio>
 
 ### 4.*低义频：* **味淡的；不浓的：**  
 反义词 hot 
@@ -4178,7 +5698,13 @@ migratory /ˈmaɪɡrətri/ adj
 
 
 # ***\#mildly*** adv
-英音 'maɪldli     美音 'maɪldli  
+英音 'maɪldli  
+英音
+<audio src="./media/mildly-B.aac"></audio>
+美音 'maɪldli  
+美音
+<audio src="./media/mildly.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4188,7 +5714,13 @@ migratory /ˈmaɪɡrətri/ adj
 
 
 # ***\#mile*** n
-英音 maɪl     美音 maɪl  
+英音 maɪl  
+英音
+<audio src="./media/mile-B.aac"></audio>
+美音 maɪl  
+美音
+<audio src="./media/mile.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -4206,7 +5738,13 @@ migratory /ˈmaɪɡrətri/ adj
 
 
 # ***\#milestone*** n
-英音 ˈmaɪlstəʊn     美音 ˈmaɪlstəʊn  
+英音 ˈmaɪlstəʊn  
+英音
+<audio src="./media/milestone1_AAC.aac"></audio>
+美音 ˈmaɪlstəʊn  
+美音
+<audio src="./media/milestone2_AAC.aac"></audio>
+
 
   
 
@@ -4216,7 +5754,13 @@ migratory /ˈmaɪɡrətri/ adj
 
 
 # ***\#military*** adj
-英音 'mɪlətri     美音 'mɪləteri  
+英音 'mɪlətri  
+英音
+<audio src="./media/military-B.aac"></audio>
+美音 'mɪləteri  
+美音
+<audio src="./media/military.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 3 | 阅读 2 |  
 
@@ -4229,7 +5773,13 @@ migratory /ˈmaɪɡrətri/ adj
 
 
 # ***\#military*** n
-英音 'mɪlətri     美音 'mɪləteri  
+英音 'mɪlətri  
+英音
+<audio src="./media/military-B.aac"></audio>
+美音 'mɪləteri  
+美音
+<audio src="./media/military.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 3 | 阅读 2 |  
 
@@ -4239,10 +5789,17 @@ migratory /ˈmaɪɡrətri/ adj
 
  > I wasn't surprised to learn that he'd served **in the military**.  
  > 得知他曾在军队服役，我并不感到惊讶。    
+<audio src="./media/I wasn't surprised to learn that he'd served in the military2_AAC.aac"></audio>
 
 
 # ***\#milk*** n
-英音 mɪlk     美音 mɪlk  
+英音 mɪlk  
+英音
+<audio src="./media/milk-B.aac"></audio>
+美音 mɪlk  
+美音
+<audio src="./media/milk.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -4254,7 +5811,13 @@ migratory /ˈmaɪɡrətri/ adj
 
 
 # ***\#milk*** vt
-英音 mɪlk     美音 mɪlk  
+英音 mɪlk  
+英音
+<audio src="./media/milk-B.aac"></audio>
+美音 mɪlk  
+美音
+<audio src="./media/milk.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -4277,7 +5840,13 @@ milky /'mɪlki/ adj
 
 
 # ***\#mill*** n
-英音 mɪl     美音 mɪl  
+英音 mɪl  
+英音
+<audio src="./media/mill1.aac"></audio>
+美音 mɪl  
+美音
+<audio src="./media/mill2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4287,7 +5856,13 @@ milky /'mɪlki/ adj
 
 
 # ***\#millennium*** n
-英音 mɪ'leniəm     美音 mɪ'leniəm  
+英音 mɪ'leniəm  
+英音
+<audio src="./media/millennium1.aac"></audio>
+美音 mɪ'leniəm  
+美音
+<audio src="./media/millennium2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4297,7 +5872,13 @@ milky /'mɪlki/ adj
 
 
 # ***\#millimetre*** n
-英音 'mɪlimiːtə(r)     美音 'mɪlimiːtər  
+英音 'mɪlimiːtə(r)  
+英音
+<audio src="./media/Millimetre-B.aac"></audio>
+美音 'mɪlimiːtər  
+美音
+<audio src="./media/mm.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -4309,7 +5890,13 @@ milky /'mɪlki/ adj
 
 
 # ***\#million*** num
-英音 'mɪljən     美音 'mɪljən  
+英音 'mɪljən  
+英音
+<audio src="./media/million1.aac"></audio>
+美音 'mɪljən  
+美音
+<audio src="./media/million2.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -4319,10 +5906,17 @@ milky /'mɪlki/ adj
 
  > Tens of thousands of cows would never give milk again. **Half a million** pigs and **millions of** chickens were dead.  
  > 成千上万的奶牛不再产奶，五十万头猪和千百万只小鸡全都死了。  （人教① – 4）  
+<audio src="./media/million50.aac"></audio>
 
 
 # ***\#millionaire*** n
-英音 ˌmɪljə'neə(r)     美音 ˌmɪljə'ner  
+英音 ˌmɪljə'neə(r)  
+英音
+<audio src="./media/millionaire-B.aac"></audio>
+美音 ˌmɪljə'ner  
+美音
+<audio src="./media/millionaire.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -4334,7 +5928,13 @@ milky /'mɪlki/ adj
 
 
 # ***\#millipede*** n
-英音 'mɪlɪpiːd     美音 'mɪləˌpiːd  
+英音 'mɪlɪpiːd  
+英音
+<audio src="./media/millipede-b.aac"></audio>
+美音 'mɪləˌpiːd  
+美音
+<audio src="./media/millipede.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4346,7 +5946,13 @@ milky /'mɪlki/ adj
 
 
 # ***\#mime*** n
-英音 maɪm     美音 maɪm  
+英音 maɪm  
+英音
+<audio src="./media/mime-B.aac"></audio>
+美音 maɪm  
+美音
+<audio src="./media/mime.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4358,7 +5964,13 @@ milky /'mɪlki/ adj
 
 
 # ***\#mimic*** v
-英音 ˈmɪmɪk     美音 ˈmɪmɪk  
+英音 ˈmɪmɪk  
+英音
+<audio src="./media/mimic1_AAC.aac"></audio>
+美音 ˈmɪmɪk  
+美音
+<audio src="./media/mimic2_AAC.aac"></audio>
+
 
   
 
@@ -4368,7 +5980,13 @@ milky /'mɪlki/ adj
 
 
 # ***\#mind*** n  重难点词汇
-英音 maɪnd     美音 maɪnd  
+英音 maɪnd  
+英音
+<audio src="./media/mind-B.aac"></audio>
+美音 maɪnd  
+美音
+<audio src="./media/mind.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -4378,30 +5996,37 @@ milky /'mɪlki/ adj
 
  > A good idea formed **in his mind**.  
  > 他脑子里有了一个好主意。    
+<audio src="./media/mind-1.aac"></audio>
 
  > There were all kinds of thoughts running through my mind.  
  > 各种念头在我脑海中闪过。    
+<audio src="./media/There were all kinds of thoughts_AAC.aac"></audio>
 
 ### 2.*高义频：* **思考方式；思维；心智：**  
 
  > He had the body of a man and the mind of a child.  
  > 他四肢发达，头脑简单。    
+<audio src="./media/mind-3.aac"></audio>
 
  > His mind is as sharp as ever.   
  > 他的思维一如既往的敏锐。    
+<audio src="./media/mind-4.aac"></audio>
 
 ### 3.*高义频：* **心思；注意力：**  
 
  > Don’t let your mind wander!   
  > 别走神!    
+<audio src="./media/mind-5.aac"></audio>
 
  > **Keep your mind on** your work!  
  > 专心地干你的活吧！    
+<audio src="./media/mind-6.aac"></audio>
 
 ### 4.*低义频：* **富有才智的人：**  
 
  > Great minds think alike.   
  > 英雄所见略同。    
+<audio src="./media/mind-7.aac"></audio>
 
 
 固定搭配
@@ -4411,66 +6036,78 @@ milky /'mɪlki/ adj
 
  > We are all of the same mind about this issue.   
  > 我们在这个问题上意见一致。    
+<audio src="./media/mind-8.aac"></audio>
 
 ## \#bear / keep … in mind 
 1.**将…记在心中；记起 (bear / keep in mind that)：**  
 
  > It’s a good idea — I’ll bear it in mind.   
  > 这是个好主意，我会记在心里的。    
+<audio src="./media/mind-9.aac"></audio>
 
  > Whenever or however you take notes, keep in mind that note-taking is a selective process.   
  > 不管何时以何种方式记笔记，你都要记住，记笔记是个有选择性的过程。  （ 2008 全国）  
+<audio src="./media/mind-10.aac"></audio>
 
 ## \#bring / call…to mind
 1.**[正式用语]（使）想起；（使）记起：**  
 
  > The mooncake is always favourite because of the happy memories it brings to mind.  
  > 月饼一直是我的最爱，因为它带给我美好的回忆。  （译林新选必① – 1改）  
+<audio src="./media/The mooncake is always favourite because of the happy memories it brings to mind2_AAC.aac"></audio>
 
 ## \#change one’s mind 
 1.**改变主意：**  
 
  > When I first met Bryan I didn’t like him, but I have changed my mind.   
  > 我第一次见到布赖恩时并不喜欢他，但是现在我的看法变了。  （2013 全国）  
+<audio src="./media/mind-11.aac"></audio>
 
 ## \#come into one’s mind 
 1.**掠过 / 进入某人的脑海：**  
 
  > Suddenly a terrible thought came into my mind.   
  > 突然一个可怕的念头出现在我的脑海。    
+<audio src="./media/mind-12.aac"></audio>
 
 ## \#come / spring to mind
 1.**突然被记起 / 想起；**  
 
  > When you think of a fearsome hunter, image of lions and sharks may spring to mind.  
  > 当你想到一个可怕的捕猎者，狮子和鲨鱼的形象可能会立刻跃入脑海。  （译林新必修③ – 1）  
+<audio src="./media/When you think of a fearsome hunter2_AAC.aac"></audio>
 
 ## \#have sb / sth in mind (for sth) 
 1.**(对某事) 心中有合适的人选 / 想做的事：**  
 
  > Do you have anyone in mind for the job?   
  > 你心目中有做这项工作的合适人选吗？    
+<audio src="./media/mind-13.aac"></audio>
 
 ## \#make up one’s mind 
 1.**拿定主意；下定决心：**  
 
  > Once she has made up her mind, nothing can change it.  
  > 她一旦拿定主意就不会改变主意。  （人教① – 3）  
+<audio src="./media/mind-14.aac"></audio>
 
  > He has **made up his mind to** overcome his shortcomings.  
  > 他已经下决心要克服自己的缺点。    
+<audio src="./media/mind-15.aac"></audio>
 
 ## \#on sb’s mind 
 1.**在某人心上：**  
 
  > There are many problems on his mind.   
  > 他心事重重。    
+<audio src="./media/mind-16.aac"></audio>
 
 ## \#put / set / turn one’s mind to / set one’s mind on
 1.**集中精力做：**  
 
  > She could have been a brilliant pianist if she’d put her mind to it.   
  > 如果她专心致志，本可以成为一名杰出的钢琴家。    
+<audio src="./media/mind-17.aac"></audio>
 
 
 真题解析
@@ -4481,7 +6118,13 @@ milky /'mɪlki/ adj
 1. of  
 
 # ***\#mind*** v  重难点词汇
-英音 maɪnd     美音 maɪnd  
+英音 maɪnd  
+英音
+<audio src="./media/mind-B.aac"></audio>
+美音 maɪnd  
+美音
+<audio src="./media/mind.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -4491,36 +6134,44 @@ milky /'mɪlki/ adj
 
  > — Would you like tea or coffee?   
  > 你是喜欢喝茶还是咖啡？    
+<audio src="./media/mind-18.aac"></audio>
 
  > — I don’t mind — either is fine.   
  > 我无所谓，什么都行。    
 
  > **Would you mind if** I opened the window?   
  > 我打开窗户你介意吗？    
+<audio src="./media/mind-20.aac"></audio>
 
 - mind (sb / sth) doing sth:
 
  > I don’t mind letting you read my poem.    
  > 我不介意让你读读我的诗。  （外研⑧ – 6）  
+<audio src="./media/mind-19.aac"></audio>
 
  > — Do you mind me / my smoking here?   
  > 我在这儿抽烟，你介意吗？    
+<audio src="./media/P279 mind1.aac"></audio>
 
  > — Yes, I do mind. / No, go ahead.  
  > 是的，我很介意。/不介意，你抽吧。    
+<audio src="./media/P279 mind2.aac"></audio>
 
 - mind + that / wh- 从句：
 
  > My parents don’t mind what job I do as long as I am happy.   
  > 我父母不介意我做什么工作，只要我高兴就行。  （2009 湖北）  
+<audio src="./media/mind-23.aac"></audio>
 
 ### 2.*低义频：* **注意；小心 (watch)；照看 (look after)：**  
 
  > The restaurant was full of people, I moved slowly minding every step.   
  > 餐馆里到处都是人，我小心翼翼地挪动着步子。  （ 2008 全国改）  
+<audio src="./media/mind-24.aac"></audio>
 
  > Could you mind my bag for a moment?   
  > 你介意帮我看一会儿包吗？    
+<audio src="./media/mind-25.aac"></audio>
 
 
 固定搭配
@@ -4530,6 +6181,7 @@ milky /'mɪlki/ adj
 
  > Why don’t you just mind your own business and leave me in peace?  
  > 你为什么就不能别管闲事，让我清静一下呢？    
+<audio src="./media/mind-26.aac"></audio>
 
 ## \#Never mind.
 1.**不要紧。/ 没关系。**  
@@ -4552,7 +6204,13 @@ D.Never mind
 1. changed his mind  2. D  3. mind your own business  4. of  
 
 # ***\#minded*** adj
-英音 'maɪndɪd     美音 'maɪndɪd  
+英音 'maɪndɪd  
+英音
+<audio src="./media/Minded-B.aac"></audio>
+美音 'maɪndɪd  
+美音
+<audio src="./media/minded.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -4568,6 +6226,7 @@ D.Never mind
 
  > They want to enjoy relaxed time, with like-minded people.  
  > 他们想和志同道合的人一起享受轻松的时光。    
+<audio src="./media/They want to enjoy relaxed time2_AAC.aac"></audio>
 
 ### 2.*低义频：* **对…有兴趣的：**  
 
@@ -4576,7 +6235,13 @@ D.Never mind
 
 
 # ***\#mine*** pron
-英音 maɪn     美音 maɪn  
+英音 maɪn  
+英音
+<audio src="./media/mine-B.aac"></audio>
+美音 maɪn  
+美音
+<audio src="./media/mine1.aac"></audio>
+
 
 | 词频 4 | 口语 3 |  
 
@@ -4588,9 +6253,11 @@ D.Never mind
 
  > He’s a **friend of mine**.   
  > 他是我的一个朋友。    
+<audio src="./media/mine1-1.aac"></audio>
 
  > That wasn’t his fault; it was mine.   
  > 那不是他的错，是我的错。    
+<audio src="./media/mine1-2.aac"></audio>
 
 
 真题解析
@@ -4601,7 +6268,13 @@ D.Never mind
 1. mine  
 
 # ***\#mine*** n
-英音 maɪn     美音 maɪn  
+英音 maɪn  
+英音
+<audio src="./media/mine-B.aac"></audio>
+美音 maɪn  
+美音
+<audio src="./media/mine2.aac"></audio>
+
 
 | 词频 2 | 口语 2 | 书面 1 |  
 
@@ -4619,7 +6292,13 @@ D.Never mind
 
 
 # ***\#mine*** v
-英音 maɪn     美音 maɪn  
+英音 maɪn  
+英音
+<audio src="./media/mine-B.aac"></audio>
+美音 maɪn  
+美音
+<audio src="./media/mine2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -4638,7 +6317,13 @@ D.Never mind
 mining /ˈmaɪnɪŋ/ n   
 
 # ***\#miner*** n
-英音 'maɪnə(r)     美音 'maɪnər  
+英音 'maɪnə(r)  
+英音
+<audio src="./media/miner1.aac"></audio>
+美音 'maɪnər  
+美音
+<audio src="./media/miner2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -4648,7 +6333,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#mineral*** n
-英音 'mɪnərəl     美音 'mɪnərəl  
+英音 'mɪnərəl  
+英音
+<audio src="./media/mineral-B.aac"></audio>
+美音 'mɪnərəl  
+美音
+<audio src="./media/mineral.aac"></audio>
+
 
 | 词频 2 | 书面 1 |  
 
@@ -4660,7 +6351,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#mineral*** adj
-英音 'mɪnərəl     美音 'mɪnərəl  
+英音 'mɪnərəl  
+英音
+<audio src="./media/mineral-B.aac"></audio>
+美音 'mɪnərəl  
+美音
+<audio src="./media/mineral.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -4673,7 +6370,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#mini-bar*** n
-英音 ˈmɪnibɑː(r)     美音 ˈmɪnibɑːr  
+英音 ˈmɪnibɑː(r)  
+英音
+<audio src="./media/mini-bar1_AAC.aac"></audio>
+美音 ˈmɪnibɑːr  
+美音
+<audio src="./media/mini-bar2_AAC.aac"></audio>
+
 
   
 
@@ -4683,6 +6386,10 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#mini-break*** n
+英音
+<audio src="./media/mini-break1_AAC.aac"></audio>
+美音
+<audio src="./media/mini-break2_AAC.aac"></audio>
 
 
   
@@ -4693,7 +6400,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#mini-skirt*** n
-英音 'mɪniːskɜːt     美音 'mɪniːskɜːrt  
+英音 'mɪniːskɜːt  
+英音
+<audio src="./media/mini-skirt1.aac"></audio>
+美音 'mɪniːskɜːrt  
+美音
+<audio src="./media/mini-skirt2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4703,7 +6416,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#miniature*** n
-英音 'mɪnətʃə(r)     美音 'mɪnətʃər  
+英音 'mɪnətʃə(r)  
+英音
+<audio src="./media/miniature1.aac"></audio>
+美音 'mɪnətʃər  
+美音
+<audio src="./media/miniature2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4713,7 +6432,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#minibus*** n
-英音 'mɪnibʌs     美音 'mɪnibʌs  
+英音 'mɪnibʌs  
+英音
+<audio src="./media/minibus-B.aac"></audio>
+美音 'mɪnibʌs  
+美音
+<audio src="./media/minibus.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4725,7 +6450,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#minicomputer*** n
-英音 'mɪnikəmpjuːtə(r)     美音 'mɪnikəmpjuːtər  
+英音 'mɪnikəmpjuːtə(r)  
+英音
+<audio src="./media/minicomputer1_AAC.aac"></audio>
+美音 'mɪnikəmpjuːtər  
+美音
+<audio src="./media/minicomputer2_AAC.aac"></audio>
+
 
   
 
@@ -4735,7 +6466,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#minimum*** n
-英音 'mɪnɪməm     美音 'mɪnɪməm  
+英音 'mɪnɪməm  
+英音
+<audio src="./media/minimum-B.aac"></audio>
+美音 'mɪnɪməm  
+美音
+<audio src="./media/minimum.aac"></audio>
+
 
 | 词频 1 | 阅读 1 |  
 
@@ -4745,13 +6482,21 @@ mining /ˈmaɪnɪŋ/ n
 
  > We have **a minimum of** 28 people living here in the winter and a maximum of 125 in the summer.   
  > 冬天我们最少有28人住在这里，夏天最多有125人。  （外研⑧ – 1）  
+<audio src="./media/minimum-1.aac"></audio>
 
  > **At a minimum**, we must hire three new teachers.  
  > 我们最起码应该招三名新教师。    
+<audio src="./media/At a minimum, we must hire three new teachers2_AAC.aac"></audio>
 
 
 # ***\#minimum*** adj
-英音 'mɪnɪməm     美音 'mɪnɪməm  
+英音 'mɪnɪməm  
+英音
+<audio src="./media/minimum-B.aac"></audio>
+美音 'mɪnɪməm  
+美音
+<audio src="./media/minimum.aac"></audio>
+
 
 | 词频 1 | 口语 2 | 书面 1 | 阅读 1 |  
 
@@ -4766,7 +6511,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#mining*** n
-英音 ˈmaɪnɪŋ     美音 ˈmaɪnɪŋ  
+英音 ˈmaɪnɪŋ  
+英音
+<audio src="./media/mining1_AAC.aac"></audio>
+美音 ˈmaɪnɪŋ  
+美音
+<audio src="./media/mining1_AAC.aac"></audio>
+
 
   
 
@@ -4776,7 +6527,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#miniskirt*** n
-英音 'mɪniskɜːt     美音 'mɪniskɜːrt  
+英音 'mɪniskɜːt  
+英音
+<audio src="./media/miniskirt1_AAC.aac"></audio>
+美音 'mɪniskɜːrt  
+美音
+<audio src="./media/miniskirt2_AAC.aac"></audio>
+
 
   
 
@@ -4786,7 +6543,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#minister*** n
-英音 'mɪnɪstə(r)     美音 'mɪnɪstər  
+英音 'mɪnɪstə(r)  
+英音
+<audio src="./media/minister-B.aac"></audio>
+美音 'mɪnɪstər  
+美音
+<audio src="./media/minister.aac"></audio>
+
 
 | 词频 3 | 口语 3 | 书面 3 |  
 
@@ -4804,7 +6567,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#ministry*** n
-英音 'mɪnɪstri     美音 'mɪnɪstri  
+英音 'mɪnɪstri  
+英音
+<audio src="./media/ministry-B.aac"></audio>
+美音 'mɪnɪstri  
+美音
+<audio src="./media/ministry.aac"></audio>
+
 
 | 词频 2 | 书面 2 |  
 
@@ -4819,7 +6588,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#minor*** adj
-英音 'maɪnə(r)     美音 'maɪnər  
+英音 'maɪnə(r)  
+英音
+<audio src="./media/minor-B.aac"></audio>
+美音 'maɪnər  
+美音
+<audio src="./media/minor.aac"></audio>
+
 
 | 词频 1 | 口语 2 | 书面 2 | 阅读 3 |  
 
@@ -4835,12 +6610,19 @@ mining /ˈmaɪnɪŋ/ n
 
  > Luckily it was only a minor problem.   
  > 幸运的是，那只是个小问题。    
+<audio src="./media/minor-1.aac"></audio>
 
 ### 2.*低义频：* **（音乐）小调的；小音阶的**  
 
 
 # ***\#minor*** n
-英音 'maɪnə(r)     美音 'maɪnər  
+英音 'maɪnə(r)  
+英音
+<audio src="./media/minor-B.aac"></audio>
+美音 'maɪnər  
+美音
+<audio src="./media/minor.aac"></audio>
+
 
 | 词频 1 | 口语 2 | 书面 2 | 阅读 3 |  
 
@@ -4850,7 +6632,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#minority*** n
-英音 maɪ'nɒrəti     美音 maɪ'nɔːrəti  
+英音 maɪ'nɒrəti  
+英音
+<audio src="./media/minority-B.aac"></audio>
+美音 maɪ'nɔːrəti  
+美音
+<audio src="./media/minority.aac"></audio>
+
 
 | 词频 1 | 口语 1 | 书面 2 | 阅读 1 |  
 
@@ -4863,6 +6651,7 @@ mining /ˈmaɪnɪŋ/ n
 
  > Only a **minority of** people support these new laws.  
  > 只有少数人拥护这些新法令。    
+<audio src="./media/minority-1.aac"></audio>
 
 ### 2.*高义频：* **少数民族：**  
 
@@ -4871,7 +6660,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#minus*** prep
-英音 'maɪnəs     美音 'maɪnəs  
+英音 'maɪnəs  
+英音
+<audio src="./media/minus-B.aac"></audio>
+美音 'maɪnəs  
+美音
+<audio src="./media/minus.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4881,10 +6676,17 @@ mining /ˈmaɪnɪŋ/ n
 
  > Four minus two is two.  
  > 4减去2等于2。    
+<audio src="./media/minus-1.aac"></audio>
 
 
 # ***\#minus*** adj
-英音 'maɪnəs     美音 'maɪnəs  
+英音 'maɪnəs  
+英音
+<audio src="./media/minus-B.aac"></audio>
+美音 'maɪnəs  
+美音
+<audio src="./media/minus.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4903,7 +6705,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#minus*** n
-英音 'maɪnəs     美音 'maɪnəs  
+英音 'maɪnəs  
+英音
+<audio src="./media/minus-B.aac"></audio>
+美音 'maɪnəs  
+美音
+<audio src="./media/minus.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4915,7 +6723,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#minute*** n
-英音 'mɪnɪt     美音 'mɪnɪt  
+英音 'mɪnɪt  
+英音
+<audio src="./media/minute1.aac"></audio>
+美音 'mɪnɪt  
+美音
+<audio src="./media/minute.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -4930,14 +6744,17 @@ mining /ˈmaɪnɪŋ/ n
 
  > It is ten minutes’ walk from here to the bus station.   
  > 从这里步行到公共汽车站需要10分钟。    
+<audio src="./media/minute-1.aac"></audio>
 
  > He was getting colder **by the minute**.  
  > 他越来越冷。  （2015 北京）  
+<audio src="./media/P280 minute1.aac"></audio>
 
 ### 2.*高义频：* **一会儿；片刻 (moment)：**  
 
  > **Do you have a minute**? I’ve got something to tell you.   
  > 你有时间吗？我有事要告诉你。  （2008 安徽）  
+<audio src="./media/minute-2.aac"></audio>
 
 
 固定搭配
@@ -4947,43 +6764,55 @@ mining /ˈmaɪnɪŋ/ n
 
  > Hurry up! He’ll be back at any minute.   
  > 快点儿！他随时会回来。    
+<audio src="./media/minute-3.aac"></audio>
 
 ## \#in a minute 
 1.**马上；立刻：**  
 
  > I’ll take your order in a minute.   
  > 我马上过来请您点餐。  （人教③ – 3）  
+<audio src="./media/minute-4.aac"></audio>
 
 ## \#just a minute / moment / second 
 1.**等一下：**  
 
  > Just a minute, Margaret, I want to introduce you to Betty.   
  > 等一下，玛格丽特，我想把你介绍给贝蒂。    
+<audio src="./media/minute-5.aac"></audio>
 
 ## \#the last minute 
 1.**最后一刻：**  
 
  > You really like leaving things to the last minute.   
  > 你就是喜欢把事情拖到最后一刻。  （2010 湖北）  
+<audio src="./media/minute-6.aac"></audio>
 
 ## \#the minute / moment (that) 
 1.**一…就：**  
 
  > The minute he saw me he turned red.   
  > 他一看到我脸就红了。    
+<audio src="./media/minute-7.aac"></audio>
 
 ## \#this minute 
 1.**立刻；马上：**  
 
  > Come down this minute.   
  > 马上下来。    
+<audio src="./media/minute-8.aac"></audio>
 
 ## \#wait a minute / moment / second 
 1.**等一会儿； 等一下**  
 
 
 # ***\#miracle*** n
-英音 ˈmɪrəkl     美音 ˈmɪrəkl  
+英音 ˈmɪrəkl  
+英音
+<audio src="./media/miracle1_AAC.aac"></audio>
+美音 ˈmɪrəkl  
+美音
+<audio src="./media/miracle2_AAC.aac"></audio>
+
 
   
 
@@ -4999,10 +6828,17 @@ mining /ˈmaɪnɪŋ/ n
 
  > **It's a miracle that** these buildings came through the war undamaged.  
  > 这些建筑物历经战争却完好无损，真是个奇迹。    
+<audio src="./media/It's a miracle that these buildings came through the war undamaged2_AAC.aac"></audio>
 
 
 # ***\#mirror*** n
-英音 'mɪrə(r)     美音 'mɪrər  
+英音 'mɪrə(r)  
+英音
+<audio src="./media/mirror-B.aac"></audio>
+美音 'mɪrər  
+美音
+<audio src="./media/mirror.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 |  
 
@@ -5022,10 +6858,17 @@ mining /ˈmaɪnɪŋ/ n
 
  > Dickens’ novels are **a mirror of** his times.  
  > 狄更斯的小说是他那个时代的写照。    
+<audio src="./media/mirror-2.aac"></audio>
 
 
 # ***\#mirror*** vt
-英音 'mɪrə(r)     美音 'mɪrər  
+英音 'mɪrə(r)  
+英音
+<audio src="./media/mirror-B.aac"></audio>
+美音 'mɪrər  
+美音
+<audio src="./media/mirror.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -5038,10 +6881,17 @@ mining /ˈmaɪnɪŋ/ n
 
  > The trees were mirrored in the still water of the lake.  
  > 树木倒映在静静的湖水中。    
+<audio src="./media/mirror-3.aac"></audio>
 
 
 # ***\#mirror-like*** adj
-英音 'mɪrərl'aɪk     美音 'mɪrərl'aɪk  
+英音 'mɪrərl'aɪk  
+英音
+<audio src="./media/mirror-like1_AAC.aac"></audio>
+美音 'mɪrərl'aɪk  
+美音
+<audio src="./media/mirror-like1_AAC.aac"></audio>
+
 
   
 
@@ -5051,7 +6901,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#misadventure*** n
-英音 ˌmɪsəd'ventʃə(r)     美音 ˌmɪsəd'ventʃər  
+英音 ˌmɪsəd'ventʃə(r)  
+英音
+<audio src="./media/misadventure1_AAC.aac"></audio>
+美音 ˌmɪsəd'ventʃər  
+美音
+<audio src="./media/misadventure2_AAC.aac"></audio>
+
 
   
 
@@ -5061,7 +6917,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#mischievous*** adj
-英音 'mɪstʃɪvəs     美音 'mɪstʃɪvəs  
+英音 'mɪstʃɪvəs  
+英音
+<audio src="./media/mischievous1_AAC.aac"></audio>
+美音 'mɪstʃɪvəs  
+美音
+<audio src="./media/mischievous1_AAC.aac"></audio>
+
 
   
 
@@ -5071,7 +6933,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#miserable*** adj
-英音 'mɪzrəbl     美音 'mɪzrəbl  
+英音 'mɪzrəbl  
+英音
+<audio src="./media/miserable-B.aac"></audio>
+美音 'mɪzrəbl  
+美音
+<audio src="./media/miserable.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -5084,7 +6952,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#misery*** n
-英音 'mɪzəri     美音 'mɪzəri  
+英音 'mɪzəri  
+英音
+<audio src="./media/misery-B.aac"></audio>
+美音 'mɪzəri  
+美音
+<audio src="./media/misery.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -5099,7 +6973,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#misfortune*** n
-英音 ˌmɪs'fɔːtʃuːn     美音 ˌmɪs'fɔːrtʃuːn  
+英音 ˌmɪs'fɔːtʃuːn  
+英音
+<audio src="./media/misfortune-B.aac"></audio>
+美音 ˌmɪs'fɔːrtʃuːn  
+美音
+<audio src="./media/misfortune.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -5109,10 +6989,17 @@ mining /ˈmaɪnɪŋ/ n
 
  > Misfortunes never come singly.   
  > 祸不单行。    
+<audio src="./media/misfortune-1.aac"></audio>
 
 
 # ***\#misjudge*** v
-英音 ˌmɪsˈdʒʌdʒ     美音 ˌmɪsˈdʒʌdʒ  
+英音 ˌmɪsˈdʒʌdʒ  
+英音
+<audio src="./media/misjudge1_AAC.aac"></audio>
+美音 ˌmɪsˈdʒʌdʒ  
+美音
+<audio src="./media/misjudge2_AAC.aac"></audio>
+
 
   
 
@@ -5122,7 +7009,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#mislead*** vt
-英音 ˌmɪs'liːd     美音 ˌmɪs'liːd  
+英音 ˌmɪs'liːd  
+英音
+<audio src="./media/mislead-B.aac"></audio>
+美音 ˌmɪs'liːd  
+美音
+<audio src="./media/mislead.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -5134,10 +7027,17 @@ mining /ˈmaɪnɪŋ/ n
 
  > Don’t be misled by his words.   
  > 不要被他的话误导。    
+<audio src="./media/mislead-1.aac"></audio>
 
 
 # ***\#misleading*** adj
-英音 ˌmɪsˈliːdɪŋ     美音 ˌmɪsˈliːdɪŋ  
+英音 ˌmɪsˈliːdɪŋ  
+英音
+<audio src="./media/misleading1_AAC.aac"></audio>
+美音 ˌmɪsˈliːdɪŋ  
+美音
+<audio src="./media/misleading2_AAC.aac"></audio>
+
 
   
 
@@ -5147,7 +7047,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#misprint*** n
-英音 ˈmɪsprɪnt     美音 ˈmɪsprɪnt  
+英音 ˈmɪsprɪnt  
+英音
+<audio src="./media/misprint1_AAC.aac"></audio>
+美音 ˈmɪsprɪnt  
+美音
+<audio src="./media/misprint2_AAC.aac"></audio>
+
 
   
 
@@ -5157,7 +7063,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#misread*** vt
-英音 ˌmɪs'riːd     美音 ˌmɪs'riːd  
+英音 ˌmɪs'riːd  
+英音
+<audio src="./media/misread-B.aac"></audio>
+美音 ˌmɪs'riːd  
+美音
+<audio src="./media/misread.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5169,7 +7081,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#miss*** v
-英音 mɪs     美音 mɪs  
+英音 mɪs  
+英音
+<audio src="./media/miss-B.aac"></audio>
+美音 mɪs  
+美音
+<audio src="./media/miss1.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -5179,43 +7097,53 @@ mining /ˈmaɪnɪŋ/ n
 
  > I hit the ball, but missed it.  
  > 我击球，但未击中。    
+<audio src="./media/I hit the ball, but missed it_AAC.aac"></audio>
 
  > She threw a plate at him angrily and only **narrowly missed**.   
  > 她生气地朝他扔出一个盘子，差一点打中他。    
+<audio src="./media/miss1-2.aac"></audio>
 
 ### 2.*高义频：* **未看到；未听到；未察觉；未领会：**  
 
  > Having been asked to work overtime that evening, I missed a wonderful film.   
  > 那天晚上我被要求加班，因此错过了一场精彩的电影。  （2012 重庆）  
+<audio src="./media/miss1-4.aac"></audio>
 
  > It’s a huge hotel on the corner. **You can’t miss it**.   
  > 它在拐角处，是个大酒店。你不会找不到的。    
+<audio src="./media/miss1-5.aac"></audio>
 
  > You are **missing the point** of what I’m saying.   
  > 你们没有明白我的意思。    
+<audio src="./media/miss1-6.aac"></audio>
 
 ### 3.*高义频：* **未出席；未赶上：**  
 
  > Because of this injury, I had to miss school for a week.   
  > 因为这个伤，我只好缺课一周。  （外研② – 1）  
+<audio src="./media/miss1-7.aac"></audio>
 
  > We have **missed the bus**, so we’ll have to walk.  
  > 我们没赶上公交车，只得步行。    
+<audio src="./media/miss1-3.aac"></audio>
 
 ### 4.*高义频：* **避开；躲开 (不好的事) (escape)：**  
 
  > She jumped back just in time to miss being hit by a speeding car.   
  > 她幸亏及时向后一跳，否则就被超速行驶的车撞到。    
+<audio src="./media/miss1-8.aac"></audio>
 
 ### 5.*低义频：* **发觉遗失；感到…不在：**  
 
  > She missed her watch on the way to work.  
  > 她在上班的路上把表弄丢了。    
+<audio src="./media/miss1-9.aac"></audio>
 
 ### 6.*高义频：* **想念；怀念；留恋：**  
 
  > I still miss the days when she was with us.   
  > 我仍然怀念她和我们在一起的日子。  （ 2010 全国）  
+<audio src="./media/miss1-10.aac"></audio>
 
 
 固定搭配
@@ -5225,9 +7153,11 @@ mining /ˈmaɪnɪŋ/ n
 
  > I’ll read through the guest list again to make sure I haven’t missed anybody out.   
  > 我要再看一遍宾客名单，以免漏掉谁。    
+<audio src="./media/miss1-11.aac"></audio>
 
  > Some children miss out because their parents worry about the safety of school trips.  
  > 一些孩子由于父母担心学校组织的旅行的安全问题而失去了参加的机会。    
+<audio src="./media/Some children miss out_AAC.aac"></audio>
 
 
 真题解析
@@ -5239,7 +7169,13 @@ mining /ˈmaɪnɪŋ/ n
 1. miss  2. missed  
 
 # ***\#miss*** n
-英音 mɪs     美音 mɪs  
+英音 mɪs  
+英音
+<audio src="./media/miss-B.aac"></audio>
+美音 mɪs  
+美音
+<audio src="./media/miss1.aac"></audio>
+
 
 | 词频 4 | 口语 2 |  
 
@@ -5256,7 +7192,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#miss*** n
-英音 mɪs     美音 mɪs  
+英音 mɪs  
+英音
+<audio src="./media/miss-B.aac"></audio>
+美音 mɪs  
+美音
+<audio src="./media/miss1.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -5266,13 +7208,21 @@ mining /ˈmaɪnɪŋ/ n
 
  > He scored two goals and had another two **near misses**.  
  > 他攻进两球，另有两球也险些破门。    
+<audio src="./media/He scored two goals and had another two near misses2_AAC.aac"></audio>
 
  > A miss is as good as a mile.  
  > 失之毫厘，差之千里。    
+<audio src="./media/A miss is as good as a mile2_AAC.aac"></audio>
 
 
 # ***\#missile*** n
-英音 'mɪsaɪl     美音 'mɪsl  
+英音 'mɪsaɪl  
+英音
+<audio src="./media/missile-B.aac"></audio>
+美音 'mɪsl  
+美音
+<audio src="./media/missile.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5284,7 +7234,13 @@ mining /ˈmaɪnɪŋ/ n
 
 
 # ***\#missing*** adj
-英音 'mɪsɪŋ     美音 'mɪsɪŋ  
+英音 'mɪsɪŋ  
+英音
+<audio src="./media/missing-B.aac"></audio>
+美音 'mɪsɪŋ  
+美音
+<audio src="./media/missing.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -5297,13 +7253,16 @@ mining /ˈmaɪnɪŋ/ n
 
  > My gloves have been missing for ages.   
  > 我的手套已经丢了很久了。    
+<audio src="./media/missing-1.aac"></audio>
 
 Notes: 表示“丢失的”、“失踪的”可用missing或lost。  
  > The missing boy was finally found.   
  > 失踪的男孩终于找到了。    
+<audio src="./media/missing-2.aac"></audio>
 
  > The library charged me a fine for the lost book.   
  > 书丢了，图书馆罚了我款。    
+<audio src="./media/missing-3.aac"></audio>
 
 Notes: be missing表示状态；get lost表示动作。  
 
@@ -5315,7 +7274,13 @@ Notes: be missing表示状态；get lost表示动作。
 1. have been missing  
 
 # ***\#mission*** n
-英音 'mɪʃn     美音 'mɪʃn  
+英音 'mɪʃn  
+英音
+<audio src="./media/mission1.aac"></audio>
+美音 'mɪʃn  
+美音
+<audio src="./media/mission2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -5339,12 +7304,19 @@ Notes: be missing表示状态；get lost表示动作。
 
  > His mission was to help young people in his local community.  
  > 他的职责是帮助当地社区的年轻人。    
+<audio src="./media/His mission was to help_AAC.aac"></audio>
 
 ### 4.*低义频：* **传教（区）**  
 
 
 # ***\#mist*** n
-英音 mɪst     美音 mɪst  
+英音 mɪst  
+英音
+<audio src="./media/mist-B.aac"></audio>
+美音 mɪst  
+美音
+<audio src="./media/mist.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -5356,6 +7328,7 @@ Notes: be missing表示状态；get lost表示动作。
 
  > We could just **see** the outline of the house **through the mist**.  
  > 透过薄雾我们仅能看到房屋的轮廓。    
+<audio src="./media/mist-1.aac"></audio>
 
 
 派生词汇
@@ -5363,7 +7336,13 @@ Notes: be missing表示状态；get lost表示动作。
 misty /'mɪsti/ adj   
 
 # ***\#mistake*** n
-英音 mɪ'steɪk     美音 mɪ'steɪk  
+英音 mɪ'steɪk  
+英音
+<audio src="./media/mistake-B.aac"></audio>
+美音 mɪ'steɪk  
+美音
+<audio src="./media/mistake.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 2 |  
 
@@ -5386,6 +7365,7 @@ misty /'mɪsti/ adj
 **fault** 指对“过失”“过错”应负的责任，强调“过”。
  > **It's my fault that** we missed the bus.  
  > 我们错过了汽车是我的错。    
+<audio src="./media/error-8.aac"></audio>
 
 
 
@@ -5397,10 +7377,17 @@ misty /'mɪsti/ adj
 
  > Someone has taken my dictionary by mistake.  
  > 有人错拿了我的字典。    
+<audio src="./media/mistake-1.aac"></audio>
 
 
 # ***\#mistake*** vt
-英音 mɪ'steɪk     美音 mɪ'steɪk  
+英音 mɪ'steɪk  
+英音
+<audio src="./media/mistake-B.aac"></audio>
+美音 mɪ'steɪk  
+美音
+<audio src="./media/mistake.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -5412,6 +7399,7 @@ misty /'mɪsti/ adj
 
  > The headmaster has mistaken her idea.   
  > 校长误会了她的意思。    
+<audio src="./media/mistake-2.aac"></audio>
 
 
 固定搭配
@@ -5421,10 +7409,17 @@ misty /'mɪsti/ adj
 
  > Perhaps he had mistaken me for someone else.   
  > 他可能误把我当成其他人了。  （ 2009 天津）  
+<audio src="./media/mistake-3.aac"></audio>
 
 
 # ***\#mistaken*** adj
-英音 mɪ'steɪkən     美音 mɪ'steɪkən  
+英音 mɪ'steɪkən  
+英音
+<audio src="./media/mistaken-B.aac"></audio>
+美音 mɪ'steɪkən  
+美音
+<audio src="./media/mistaken.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -5437,10 +7432,17 @@ misty /'mɪsti/ adj
 
  > People are often mistaken in thinking that those with high IQs always have high EQs as well.  
  > 人们总是错误地以为智商高的人情商也会高。  （北师大新选必③ – 7）  
+<audio src="./media/mistaken-1.aac"></audio>
 
 
 # ***\#mistreat*** v
-英音 ˌmɪsˈtriːt     美音 ˌmɪsˈtriːt  
+英音 ˌmɪsˈtriːt  
+英音
+<audio src="./media/mistreat1_AAC.aac"></audio>
+美音 ˌmɪsˈtriːt  
+美音
+<audio src="./media/mistreat2_AAC.aac"></audio>
+
 
   
 
@@ -5450,7 +7452,13 @@ misty /'mɪsti/ adj
 
 
 # ***\#mistress*** n
-英音 'mɪstrəs     美音 'mɪstrəs  
+英音 'mɪstrəs  
+英音
+<audio src="./media/mistress1.aac"></audio>
+美音 'mɪstrəs  
+美音
+<audio src="./media/mistress2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -5460,7 +7468,13 @@ misty /'mɪsti/ adj
 
 
 # ***\#mistrust*** v
-英音 ˌmɪsˈtrʌst     美音 ˌmɪsˈtrʌst  
+英音 ˌmɪsˈtrʌst  
+英音
+<audio src="./media/mistrust v1_AAC.aac"></audio>
+美音 ˌmɪsˈtrʌst  
+美音
+<audio src="./media/mistrust v2_AAC.aac"></audio>
+
 
   
 
@@ -5470,7 +7484,13 @@ misty /'mɪsti/ adj
 
 
 # ***\#mistrust*** n
-英音 ˌmɪsˈtrʌst     美音 ˌmɪsˈtrʌst  
+英音 ˌmɪsˈtrʌst  
+英音
+<audio src="./media/mistrust n1_AAC.aac"></audio>
+美音 ˌmɪsˈtrʌst  
+美音
+<audio src="./media/mistrust n2_AAC.aac"></audio>
+
 
   
 
@@ -5480,7 +7500,13 @@ misty /'mɪsti/ adj
 
 
 # ***\#misty*** adj
-英音 'mɪsti     美音 'mɪsti  
+英音 'mɪsti  
+英音
+<audio src="./media/misty-B.aac"></audio>
+美音 'mɪsti  
+美音
+<audio src="./media/misty.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5490,7 +7516,13 @@ misty /'mɪsti/ adj
 
 
 # ***\#misunderstand*** v
-英音 ˌmɪsʌndə'stænd     美音 ˌmɪsʌndər'stænd  
+英音 ˌmɪsʌndə'stænd  
+英音
+<audio src="./media/misunderstand-B.aac"></audio>
+美音 ˌmɪsʌndər'stænd  
+美音
+<audio src="./media/misunderstand.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -5502,9 +7534,11 @@ misty /'mɪsti/ adj
 
  > You must have misunderstood my meaning.   
  > 你一定误解了我的意思。    
+<audio src="./media/misunderstand-1.aac"></audio>
 
  > Don’t misunderstand. My job isn’t always easy.   
  > 别误会，我的工作并不总是轻松的。    
+<audio src="./media/misunderstand-2.aac"></audio>
 
 
 派生词汇
@@ -5512,7 +7546,13 @@ misty /'mɪsti/ adj
 misunderstood /ˌmɪsʌndə'stʊd/ adj   
 
 # ***\#misunderstanding*** n
-英音 ˌmɪsʌndə'stændɪŋ     美音 ˌmɪsʌndər'stændɪŋ  
+英音 ˌmɪsʌndə'stændɪŋ  
+英音
+<audio src="./media/misunderstanding-B.aac"></audio>
+美音 ˌmɪsʌndər'stændɪŋ  
+美音
+<audio src="./media/misunderstanding.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -5527,7 +7567,13 @@ misunderstood /ˌmɪsʌndə'stʊd/ adj
 
 
 # ***\#misuse*** n
-英音 ˌmɪsˈjuːs     美音 ˌmɪsˈjuːs  
+英音 ˌmɪsˈjuːs  
+英音
+<audio src="./media/misuse n1_AAC.aac"></audio>
+美音 ˌmɪsˈjuːs  
+美音
+<audio src="./media/misuse n2_AAC.aac"></audio>
+
 
   
 
@@ -5537,7 +7583,13 @@ misunderstood /ˌmɪsʌndə'stʊd/ adj
 
 
 # ***\#mix*** v
-英音 mɪks     美音 mɪks  
+英音 mɪks  
+英音
+<audio src="./media/mix-B.aac"></audio>
+美音 mɪks  
+美音
+<audio src="./media/mix.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -5547,31 +7599,39 @@ misunderstood /ˌmɪsʌndə'stʊd/ adj
 
  > Oil and water don’t mix. / Oil does not **mix with** water  
  > 油水不相溶。    
+<audio src="./media/mix-1.aac"></audio>
 
  > **Mix** the yoghurt **in** / **into** the vegetables.   
  > 把酸奶和蔬菜混合在一起。    
+<audio src="./media/mix-3.aac"></audio>
 
  > I don’t like to **mix business with pleasure** (= combine social events with doing business).  
  > 我不喜欢把工作和娱乐混在一起。    
+<audio src="./media/I don’t like to mix_AAC.aac"></audio>
 
  > First **mix** the butter and sugar **together**, and then add the milk.   
  > 首先把黄油和糖混合在一起，然后加入牛奶。    
+<audio src="./media/mix-5.aac"></audio>
 
 ### 2.*高义频：* **调制；调配：**  
 
  > With this range of paints, you can mix your own colours.   
  > 用这一组颜料可以调配出你自己的颜色。    
+<audio src="./media/mix-6.aac"></audio>
 
  > He can bake while mixing drinks for dozens of friends.   
  > 他能一边烤食物，一边为许多朋友调制饮料。    
+<audio src="./media/mix-7.aac"></audio>
 
 ### 3.*高义频：* **交往；相处；交际：**  
 
  > They don’t **mix** much **with** the neighbours.  
  > 他们和邻居不怎么来往。    
+<audio src="./media/mix-8.aac"></audio>
 
  > In his job, he often **mixes with** all sorts of people.  
  > 他的工作使他经常与各种人打交道。    
+<audio src="./media/In his job, he often mixes _AAC.aac"></audio>
 
 
 固定搭配
@@ -5581,23 +7641,33 @@ misunderstood /ˌmɪsʌndə'stʊd/ adj
 
  > Dashan, who has been learning crosstalk, the Chinese comedic tradition, for decades, wants to mix it up with the Western stand-up tradition.  
  > 几十年来，大山一直在学习相声这一中国传统的喜剧形式，想把它与西方单口相声结合起来。  （2016 江苏）  
+<audio src="./media/mix50.aac"></audio>
 
 2.*高义频：* **混淆；弄混；弄乱 (confuse)：**  
 
  > He was so nervous that he got the speech pages all mixed up.  
  > 他太紧张了，把演讲稿都弄乱了。    
+<audio src="./media/He was so nervous that _AAC.aac"></audio>
 
  > Miss Xu mixed up my results with someone else’s!  
  > 徐老师把我的成绩与别人的搞混了。  （译林① – 2）  
+<audio src="./media/mix-12.aac"></audio>
 
 3.*低义频：* **使糊涂：**  
 
  > His explanation mixed me up more.  
  > 他的解释让我更糊涂了。    
+<audio src="./media/His explanation mixed_AAC.aac"></audio>
 
 
 # ***\#mix*** n
-英音 mɪks     美音 mɪks  
+英音 mɪks  
+英音
+<audio src="./media/mix-B.aac"></audio>
+美音 mɪks  
+美音
+<audio src="./media/mix.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -5609,6 +7679,7 @@ misunderstood /ˌmɪsʌndə'stʊd/ adj
 
  > The UK is **a** fascinating **mix of** history and modern culture, with both new and old traditions.  
  > 在英国，历史与现代文化交融，新旧传统并存，引人入胜。  （人教新必修② – 4）  
+<audio src="./media/The UK is a fascinating mix of history and modern culture2_AAC.aac"></audio>
 
 
 派生词汇
@@ -5622,7 +7693,13 @@ mixed /mɪkst/ adj
 
 
 # ***\#mixture*** n
-英音 'mɪkstʃə(r)     美音 'mɪkstʃər  
+英音 'mɪkstʃə(r)  
+英音
+<audio src="./media/mixture-B.aac"></audio>
+美音 'mɪkstʃər  
+美音
+<audio src="./media/mixture.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 1 |  
 
@@ -5634,13 +7711,21 @@ mixed /mɪkst/ adj
 
  > Canada is a **mixture of** many cultures and races.  
  > 加拿大是一个多文化、多种族融合的国家。  （人教③ – 5）  
+<audio src="./media/mixture-1.aac"></audio>
 
  > She felt a strange **mixture of** excitement and fear.  
  > 她有一种既兴奋又害怕的奇怪感觉。    
+<audio src="./media/mixture-2.aac"></audio>
 
 
 # ***\#mm*** n
-英音 'mɪlimiːtə(r)     美音 'mɪlimiːtər  
+英音 'mɪlimiːtə(r)  
+英音
+<audio src="./media/Millimetre-B.aac"></audio>
+美音 'mɪlimiːtər  
+美音
+<audio src="./media/mm.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -5652,7 +7737,13 @@ mixed /mɪkst/ adj
 
 
 # ***\#mobile*** adj
-英音 'məʊbaɪl     美音 'moʊbl  
+英音 'məʊbaɪl  
+英音
+<audio src="./media/mobile-B.aac"></audio>
+美音 'moʊbl  
+美音
+<audio src="./media/mobile.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -5665,7 +7756,13 @@ mixed /mɪkst/ adj
 
 
 # ***\#mobile*** n
-英音 'məʊbaɪl     美音 'moʊbl  
+英音 'məʊbaɪl  
+英音
+<audio src="./media/mobile-B.aac"></audio>
+美音 'moʊbl  
+美音
+<audio src="./media/mobile.aac"></audio>
+
 
 | 词频 4 | 口语 2 |  
 
@@ -5677,10 +7774,17 @@ mixed /mɪkst/ adj
 
  > Have you tried phoning her on her mobile?   
  > 你试着打过她的手机了吗？  （2010 江西）  
+<audio src="./media/mobile-1.aac"></audio>
 
 
 # ***\#mockingbird*** n
-英音 'mɒkɪŋ.bɜː(r)d     美音 'mɑkɪŋ .bɜrd  
+英音 'mɒkɪŋ.bɜː(r)d  
+英音
+<audio src="./media/mockingbird-B.aac"></audio>
+美音 'mɑkɪŋ .bɜrd  
+美音
+<audio src="./media/mockingbird.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5692,7 +7796,13 @@ mixed /mɪkst/ adj
 
 
 # ***\#mode*** n
-英音 məʊd     美音 moʊd  
+英音 məʊd  
+英音
+<audio src="./media/mode1.aac"></audio>
+美音 moʊd  
+美音
+<audio src="./media/mode-2.aac"></audio>
+
 
 | 词频 1 | 书面 1 |  
 
@@ -5710,10 +7820,17 @@ mixed /mɪkst/ adj
 
  > Devices in stand-by mode still use power, and older devices in this mode can use even more.  
  > 处于待机模式的设备仍会耗电，而越旧的设备耗电越多。  （外研新必修② – 6）  
+<audio src="./media/Devices in stand-by mode still use power, and older devices in this mode can use even more2_AAC.aac"></audio>
 
 
 # ***\#model*** n
-英音 'mɒdl     美音 'mɑːdl  
+英音 'mɒdl  
+英音
+<audio src="./media/model-B.aac"></audio>
+美音 'mɑːdl  
+美音
+<audio src="./media/model.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 3 |  
 
@@ -5738,10 +7855,17 @@ mixed /mɪkst/ adj
 
  > Don’t compare yourself with the models and actors in the media.  
  > 不要把自己和媒体上的模特、演员作比较。  （2008 上海）  
+<audio src="./media/model-1.aac"></audio>
 
 
 # ***\#model*** v
-英音 'mɒdl     美音 'mɑːdl  
+英音 'mɒdl  
+英音
+<audio src="./media/model-B.aac"></audio>
+美音 'mɑːdl  
+美音
+<audio src="./media/model.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -5757,7 +7881,13 @@ mixed /mɪkst/ adj
 
 
 # ***\#modem*** n
-英音 'məʊdem     美音 'moʊdem  
+英音 'məʊdem  
+英音
+<audio src="./media/modem-B.aac"></audio>
+美音 'moʊdem  
+美音
+<audio src="./media/modem.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -5769,7 +7899,13 @@ mixed /mɪkst/ adj
 
 
 # ***\#moderate*** vt
-英音 ˈmɒdərət     美音 ˈmɑːdərət  
+英音 ˈmɒdərət  
+英音
+<audio src="./media/moderate1_AAC.aac"></audio>
+美音 ˈmɑːdərət  
+美音
+<audio src="./media/moderate2_AAC.aac"></audio>
+
 
   
 
@@ -5783,7 +7919,13 @@ mixed /mɪkst/ adj
 moderation /ˌmɒdəˈreɪʃn/ n   
 
 # ***\#moderate*** adj
-英音 ˈmɒdərət     美音 ˈmɑːdərət  
+英音 ˈmɒdərət  
+英音
+<audio src="./media/moderate adj1_AAC.aac"></audio>
+美音 ˈmɑːdərət  
+美音
+<audio src="./media/moderate adj2_AAC.aac"></audio>
+
 
   
 
@@ -5793,7 +7935,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
 
 # ***\#moderation*** n
-英音 ˌmɒdəˈreɪʃn     美音 ˌmɑːdəˈreɪʃn  
+英音 ˌmɒdəˈreɪʃn  
+英音
+<audio src="./media/moderation1_AAC.aac"></audio>
+美音 ˌmɑːdəˈreɪʃn  
+美音
+<audio src="./media/moderation2_AAC.aac"></audio>
+
 
   
 
@@ -5803,7 +7951,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
 
 # ***\#moderator*** n
-英音 ˈmɒdəreɪtə(r)     美音 ˈmɑːdəreɪtər  
+英音 ˈmɒdəreɪtə(r)  
+英音
+<audio src="./media/moderator1_AAC.aac"></audio>
+美音 ˈmɑːdəreɪtər  
+美音
+<audio src="./media/moderator2_AAC.aac"></audio>
+
 
   
 
@@ -5813,7 +7967,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
 
 # ***\#modern*** adj
-英音 'mɒdn     美音 'mɑːdərn  
+英音 'mɒdn  
+英音
+<audio src="./media/modern-B.aac"></audio>
+美音 'mɑːdərn  
+美音
+<audio src="./media/modern.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -5836,7 +7996,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 1. modern  
 
 # ***\#modern-day*** adj
-英音 ˌmɒdn'deɪ     美音 ˌmɑːdərn'deɪ  
+英音 ˌmɒdn'deɪ  
+英音
+<audio src="./media/modern-day1.aac"></audio>
+美音 ˌmɑːdərn'deɪ  
+美音
+<audio src="./media/modern-day2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5846,7 +8012,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
 
 # ***\#modernism*** n
-英音 ˈmɒdənɪzəm     美音 ˈmɑːdərnɪzəm  
+英音 ˈmɒdənɪzəm  
+英音
+<audio src="./media/modernism1_AAC.aac"></audio>
+美音 ˈmɑːdərnɪzəm  
+美音
+<audio src="./media/modernism2_AAC.aac"></audio>
+
 
   
 
@@ -5858,7 +8030,12 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
 
 # ***\#modernize*** v
-英音 'mɒdənaɪz     
+英音 'mɒdənaɪz  
+英音
+<audio src="./media/modernize1_AAC.aac"></audio>
+美音
+<audio src="./media/modernize2_AAC.aac"></audio>
+
 
   
 
@@ -5868,7 +8045,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
 
 # ***\#modest*** adj
-英音 'mɒdɪst     美音 'mɑːdɪst  
+英音 'mɒdɪst  
+英音
+<audio src="./media/modest-B.aac"></audio>
+美音 'mɑːdɪst  
+美音
+<audio src="./media/modest.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -5878,6 +8061,7 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
  > Wherever you go, do be modest and honest.  
  > 无论到哪里，务必要谦虚、诚实。    
+<audio src="./media/modest-1.aac"></audio>
 
 ### 2.*低义频：* **不太大的；不太贵的**  
 英译 not very great, big or expensive：
@@ -5887,13 +8071,21 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
  > She has saved a modest amount of money.   
  > 她攒了一小笔钱。    
+<audio src="./media/modest-2.aac"></audio>
 
  > The living quarters are modest, with few luxuries, but cosy.  
  > 住处规模不大，也不奢华，但很舒适。    
+<audio src="./media/The living quarters are modest_AAC.aac"></audio>
 
 
 # ***\#modify*** vt
-英音 'mɒdɪfaɪ     美音 'mɑːdɪfaɪ  
+英音 'mɒdɪfaɪ  
+英音
+<audio src="./media/modify1.aac"></audio>
+美音 'mɑːdɪfaɪ  
+美音
+<audio src="./media/modify2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5903,7 +8095,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
 
 # ***\#molten*** adj
-英音 'məʊltən     美音 'moʊltən  
+英音 'məʊltən  
+英音
+<audio src="./media/molten-B.aac"></audio>
+美音 'moʊltən  
+美音
+<audio src="./media/molten.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5915,7 +8113,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
 
 # ***\#mom*** n
-英音 mɒm     美音 mɑːm  
+英音 mɒm  
+英音
+<audio src="./media/mom-B.aac"></audio>
+美音 mɑːm  
+美音
+<audio src="./media/mom.aac"></audio>
+
 
 | 词频 5 | 口语 3 |  
 
@@ -5927,7 +8131,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
 
 # ***\#moment*** n  重难点词汇
-英音 'məʊmənt     美音 'moʊmənt  
+英音 'məʊmənt  
+英音
+<audio src="./media/moment-B.aac"></audio>
+美音 'moʊmənt  
+美音
+<audio src="./media/moment.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -5946,21 +8156,25 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
  > The best moment for the football star was when he scored the winning goal.    
  > 那个足球明星最精彩的一刻就是他射入致胜一球的时候。  （2014 北京）  
+<audio src="./media/P283 moment1.aac"></audio>
 
 ### 2.*高义频：* **片刻；瞬间**  
 英译 a very short period of time：
 
  > Could I use your computer for a few moments, please?   
  > 我能用一会儿你的电脑吗？    
+<audio src="./media/P283 moment2.aac"></audio>
 
 ### 3.*高义频：* **时机**  
 英译 a particular time for doing sth：
 
  > I’m waiting for **the right moment** to tell him the bad news.   
  > 我正在等待适当的时机告诉他这个坏消息。    
+<audio src="./media/P283 moment3.aac"></audio>
 
  > That was one of the happiest moments of my life.  
  > 那是我一生中最快乐的一段时光。    
+<audio src="./media/That was one of the happiest moments of my life2_AAC.aac"></audio>
 
 
 固定搭配
@@ -5970,51 +8184,60 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
  > Hurry up! He’ll be back any moment now.   
  > 快点儿！他马上就会回来。    
+<audio src="./media/P283 moment4.aac"></audio>
 
 ## \#(at) the last moment 
 1.**(在) 最后一刻：**  
 
  > They changed the plans at the last moment.   
  > 他们在最后一刻改变了计划。    
+<audio src="./media/P283 moment5.aac"></audio>
 
 ## \#at the moment 
 1.**此刻；目前：**  
 
  > I’m terribly busy at the moment.   
  > 我目前忙得很。    
+<audio src="./media/moment-2.aac"></audio>
 
 ## \#for a moment 
 1.**片刻；一会儿：**  
 
  > He was silent for a moment.   
  > 他沉默了一会儿。    
+<audio src="./media/moment-3.aac"></audio>
 
 ## \#for the moment 
 1.**暂时；目前 (for the present)：**  
 
  > I’m not very happy at work, but I’ll stay there for the moment.   
  > 我工作得不太开心，但暂时还会留在那里。    
+<audio src="./media/P283 moment6.aac"></audio>
 
 ## \#in a moment 
 1.**马上；立即：**  
 
  > I’ll be ready in a moment.   
  > 我马上就准备好。    
+<audio src="./media/moment-5.aac"></audio>
 
 ## \#one moment … the next 
 1.**一会儿…过一会儿：**  
 
  > One moment it was quiet and calm in the forest, the next, the air was charged with tension.    
  > 一会儿森林里寂静无声，过一会儿，空气中弥漫着紧张的气氛。  （2014 重庆）  
+<audio src="./media/moment-One moment it was.aac"></audio>
 
 ## \#the moment (that) 
 1.**[引导时间状语从句，相当于连词as soon as] 一… (就…)：**  
 
  > Alisha fell asleep the moment she got into bed.   
  > 艾丽莎一上床就睡着了。  （译林⑦ – 3）  
+<audio src="./media/moment-6.aac"></audio>
 
  > Be careful! The machine starts the moment you press the button.    
  > 小心！这台机器一按按钮就会启动。  （2011 湖北）  
+<audio src="./media/moment-7.aac"></audio>
 
 
 真题解析
@@ -6026,7 +8249,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 1. the right moment  
 
 # ***\#mommy*** n
-英音 'mɒmi     美音 'mɑːmi  
+英音 'mɒmi  
+英音
+<audio src="./media/mommy-B.aac"></audio>
+美音 'mɑːmi  
+美音
+<audio src="./media/mommy.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -6038,7 +8267,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
 
 # ***\#monarch*** n
-英音 'mɒnək     美音 'mɑːnərk  
+英音 'mɒnək  
+英音
+<audio src="./media/monarch1_AAC.aac"></audio>
+美音 'mɑːnərk  
+美音
+<audio src="./media/monarch2_AAC.aac"></audio>
+
 
   
 
@@ -6048,7 +8283,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
 
 # ***\#money*** n
-英音 'mʌni     美音 'mʌni  
+英音 'mʌni  
+英音
+<audio src="./media/money-B.aac"></audio>
+美音 'mʌni  
+美音
+<audio src="./media/money.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -6069,7 +8310,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
 
 # ***\#monitor*** n
-英音 'mɒnɪtə(r)     美音 'mɑːnɪtər  
+英音 'mɒnɪtə(r)  
+英音
+<audio src="./media/monitor-B.aac"></audio>
+美音 'mɑːnɪtər  
+美音
+<audio src="./media/monitor.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -6081,6 +8328,7 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
  > We made Jack monitor.   
  > 我们选了杰克当班长。    
+<audio src="./media/monitor-1.aac"></audio>
 
 ### 2.*高义频：* **监视器；显示器：**  
 
@@ -6089,7 +8337,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
 
 # ***\#monitor*** vt
-英音 'mɒnɪtə(r)     美音 'mɑːnɪtər  
+英音 'mɒnɪtə(r)  
+英音
+<audio src="./media/monitor-B.aac"></audio>
+美音 'mɑːnɪtər  
+美音
+<audio src="./media/monitor.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 1 |  
 
@@ -6099,13 +8353,21 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
  > Scientists may be able to monitor the behaviour of sharks to predict bad weather.   
  > 科学家们也许可以监控鲨鱼的行为来预测坏天气。  （2008 天津）  
+<audio src="./media/monitor-2.aac"></audio>
 
  > You can ask your mum or dad to help monitor you and make sure that you are working for two hours after school every day.  
  > 你可以让你的妈妈或爸爸帮忙监督你，确保你每天放学后学习两个小时。  （北师大新选必④ – 11）  
+<audio src="./media/You can ask your mum or dad to help monitor you2_AAC.aac"></audio>
 
 
 # ***\#monk*** n
-英音 mʌŋk     美音 mʌŋk  
+英音 mʌŋk  
+英音
+<audio src="./media/monk1.aac"></audio>
+美音 mʌŋk  
+美音
+<audio src="./media/monk2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6115,7 +8377,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
 
 # ***\#monkey*** n
-英音 'mʌŋki     美音 'mʌŋki  
+英音 'mʌŋki  
+英音
+<audio src="./media/monkey-B.aac"></audio>
+美音 'mʌŋki  
+美音
+<audio src="./media/monkey.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -6127,7 +8395,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
 
 # ***\#monster*** n
-英音 'mɒnstə(r)     美音 'mɑːnstər  
+英音 'mɒnstə(r)  
+英音
+<audio src="./media/Monster-B.aac"></audio>
+美音 'mɑːnstər  
+美音
+<audio src="./media/monster.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6139,7 +8413,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
 
 # ***\#monstrous*** adj
-英音 ˈmɒnstrəs     美音 ˈmɑːnstrəs  
+英音 ˈmɒnstrəs  
+英音
+<audio src="./media/monstrous1_AAC.aac"></audio>
+美音 ˈmɑːnstrəs  
+美音
+<audio src="./media/monstrous2_AAC.aac"></audio>
+
 
   
 
@@ -6149,7 +8429,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
 
 # ***\#month*** n
-英音 mʌnθ     美音 mʌnθ  
+英音 mʌnθ  
+英音
+<audio src="./media/month-B.aac"></audio>
+美音 mʌnθ  
+美音
+<audio src="./media/month.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -6164,10 +8450,17 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
  > All employees are paid by the month.   
  > 所有员工都是按月发工资。    
+<audio src="./media/month-1.aac"></audio>
 
 
 # ***\#monthly*** adj
-英音 'mʌnθli     美音 'mʌnθli  
+英音 'mʌnθli  
+英音
+<audio src="./media/monthly-B.aac"></audio>
+美音 'mʌnθli  
+美音
+<audio src="./media/monthly.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -6180,7 +8473,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
 
 # ***\#monthly*** adv
-英音 'mʌnθli     美音 'mʌnθli  
+英音 'mʌnθli  
+英音
+<audio src="./media/monthly-B.aac"></audio>
+美音 'mʌnθli  
+美音
+<audio src="./media/monthly.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -6190,10 +8489,17 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
  > These machines have to be checked monthly.   
  > 这些机器必须每月检查一次。    
+<audio src="./media/monthly-1.aac"></audio>
 
 
 # ***\#monthly*** n
-英音 'mʌnθli     美音 'mʌnθli  
+英音 'mʌnθli  
+英音
+<audio src="./media/monthly-B.aac"></audio>
+美音 'mʌnθli  
+美音
+<audio src="./media/monthly.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -6205,10 +8511,17 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
  > This magazine is a monthly.   
  > 这本杂志是月刊。    
+<audio src="./media/monthly-2.aac"></audio>
 
 
 # ***\#monument*** n
-英音 'mɒnjumənt     美音 'mɑːnjumənt  
+英音 'mɒnjumənt  
+英音
+<audio src="./media/monument-B.aac"></audio>
+美音 'mɑːnjumənt  
+美音
+<audio src="./media/monument.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -6220,7 +8533,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
 
 # ***\#mood*** n
-英音 muːd     美音 muːd  
+英音 muːd  
+英音
+<audio src="./media/mood-B.aac"></audio>
+美音 muːd  
+美音
+<audio src="./media/mood.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 |  
 
@@ -6234,30 +8553,41 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
  > Having been punished by his teacher, he was in a very bad mood.  
  > 由于受到老师的处罚，他心情很糟糕。    
+<audio src="./media/Having been punished by his teacher_AAC.aac"></audio>
 
  > Looking at green, growing things can **put** people **into / in a better mood**.  
  > 看着绿色，生长的东西能使人心情更好。  （2019 全国改）  
+<audio src="./media/Looking at green, growing _AAC.aac"></audio>
 
 - be / feel in the / no mood for sth:
 
  > I was in no mood for a joke.  
  > 我没心情开玩笑。    
+<audio src="./media/mood-2.aac"></audio>
 
 - be / feel in the / no mood to do sth:
 
  > I’m not in the mood to talk about it now.  
  > 我现在没心情谈论这件事。    
+<audio src="./media/mood-3.aac"></audio>
 
 ### 2.*高义频：* **[单数] 气氛；氛围：**  
 
  > There's nothing like candlelight for creating a romantic mood.  
  > 没有什么比烛光更能营造浪漫氛围了。    
+<audio src="./media/There's nothing like candlelight for creating a romantic mood2_AAC.aac"></audio>
 
 ### 3.*低义频：* **[语法] （动词的）语气**  
 
 
 # ***\#moody*** adj
-英音 'muːdi     美音 'muːdi  
+英音 'muːdi  
+英音
+<audio src="./media/moody1.aac"></audio>
+美音 'muːdi  
+美音
+<audio src="./media/moody2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -6267,7 +8597,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
 
 # ***\#moon*** n
-英音 muːn     美音 muːn  
+英音 muːn  
+英音
+<audio src="./media/moon-B.aac"></audio>
+美音 muːn  
+美音
+<audio src="./media/moon.aac"></audio>
+
 
 | 词频 4 | 书面 1 |  
 
@@ -6279,7 +8615,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
 
 # ***\#mop*** n
-英音 mɒp     美音 mɑːp  
+英音 mɒp  
+英音
+<audio src="./media/mop-B.aac"></audio>
+美音 mɑːp  
+美音
+<audio src="./media/mop.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -6291,7 +8633,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
 
 # ***\#mop*** vt
-英音 mɒp     美音 mɑːp  
+英音 mɒp  
+英音
+<audio src="./media/mop-B.aac"></audio>
+美音 mɑːp  
+美音
+<audio src="./media/mop.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -6310,13 +8658,21 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
  > He mopped up the spilt milk.  
  > 他擦干了洒出来的牛奶。    
+<audio src="./media/mop-1.aac"></audio>
 
  > Rainforests are important for mopping up CO2 from the atmosphere and helping to slow global warming.  
  > 雨林很重要，它们能吸收大气中的二氧化碳，有助于减缓全球变暖。    
+<audio src="./media/mop-2.aac"></audio>
 
 
 # ***\#moral*** adj
-英音 'mɒrəl     美音 'mɔːrəl  
+英音 'mɒrəl  
+英音
+<audio src="./media/moral-B.aac"></audio>
+美音 'mɔːrəl  
+美音
+<audio src="./media/moral.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 2 |  
 
@@ -6337,7 +8693,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
 
 # ***\#moral*** n
-英音 'mɒrəl     美音 'mɔːrəl  
+英音 'mɒrəl  
+英音
+<audio src="./media/moral-B.aac"></audio>
+美音 'mɔːrəl  
+美音
+<audio src="./media/moral.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -6354,6 +8716,7 @@ moderation /ˌmɒdəˈreɪʃn/ n
 
  > There are traditional proverbs which express a moral or a piece of advice.   
  > 有许多传统谚语含有寓意或忠告。  （ 外研⑧ – 4）  
+<audio src="./media/moral-2.aac"></audio>
 
 
 派生词汇
@@ -6361,7 +8724,13 @@ moderation /ˌmɒdəˈreɪʃn/ n
 morally  /'mɒrəli/ adv   
 
 # ***\#more*** adj  重难点词汇
-英音 mɔː(r)     美音 mɔːr  
+英音 mɔː(r)  
+英音
+<audio src="./media/more-B.aac"></audio>
+美音 mɔːr  
+美音
+<audio src="./media/more.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -6372,19 +8741,28 @@ morally  /'mɒrəli/ adv
 
  > Drink more water and have more sleep.   
  > 多喝水，多睡觉。    
+<audio src="./media/Drink more.aac"></audio>
 
  > A cough is usually nothing to worry about unless it lasts for ten days or more.  
  > 咳嗽通常不用担心，除非它持续十天或更长时间。  （2008 四川）  
+<audio src="./media/more-A cough is usually.aac"></audio>
 
 ### 2.*高义频：* **另外的；附加的：**  
 反义词 less 
 
  > Would you like to have **some more** cake?  
  > 要不要再吃点蛋糕？    
+<audio src="./media/more-2.aac"></audio>
 
 
 # ***\#more*** pron  重难点词汇
-英音 mɔː(r)     美音 mɔːr  
+英音 mɔː(r)  
+英音
+<audio src="./media/more-B.aac"></audio>
+美音 mɔːr  
+美音
+<audio src="./media/more.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -6395,13 +8773,21 @@ morally  /'mɒrəli/ adv
 
  > I want to learn more.   
  > 我想学更多的东西。    
+<audio src="./media/more-3.aac"></audio>
 
  > Give me **a little more**.   
  > 再给我一些。    
+<audio src="./media/more-4.aac"></audio>
 
 
 # ***\#more*** adv  重难点词汇
-英音 mɔː(r)     美音 mɔːr  
+英音 mɔː(r)  
+英音
+<audio src="./media/more-B.aac"></audio>
+美音 mɔːr  
+美音
+<audio src="./media/more.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -6423,6 +8809,7 @@ morally  /'mɒrəli/ adv
 
  > The boy **was more** frightened **than** hurt.   
  > 这个男孩的伤倒不算什么，只是受惊不小。    
+<audio src="./media/more-5.aac"></audio>
 
 
 固定搭配
@@ -6432,6 +8819,7 @@ morally  /'mɒrəli/ adv
 
  > His mother asked him to stop teasing the cat, but he only did it all the more.   
  > 他妈妈叫他不要再逗这只猫，他反而更起劲了。    
+<audio src="./media/more-7.aac"></audio>
 
 ## \#more and more 
 1.**越来越 (多的 / 地) (increasingly)**  
@@ -6439,56 +8827,67 @@ morally  /'mɒrəli/ adv
 
  > More and more people are using smart phones for information and entertainment.  
  > 越来越多的人在用智能手机获取信息和娱乐。    
+<audio src="./media/More and more people are using_AAC.aac"></audio>
 
 ## \#more like
 1.**更像是；更接近：**  
 
  > The robot seemed more like a human than a machine.  
  > 这个机器人看着不太像机器，而更像一个真人。  （人教新选必④ – 1改）  
+<audio src="./media/The robot seemed more like a human than a machine2_AAC.aac"></audio>
 
 ## \#more or less 
 1.**或多或少；几乎；差不多：**  
 
  > Her health has more or less improved.   
  > 她的身体状况多少有点好转了。    
+<audio src="./media/more-10.aac"></audio>
 
  > The work is more or less finished.  
  > 工作基本上完成了。    
+<audio src="./media/more-The work is more.aac"></audio>
 
 ## \#more than
 1.*高义频：* **多于...的；不止：**  
 
  > For many, fishing is more than a sport; it is an art.  
  > 对很多人来说，钓鱼不只是一项运动，它是一门艺术。  （2012 重庆）  
+<audio src="./media/more-12.aac"></audio>
 
  > The chess class was free. More than that, I always wanted to learn chess.  
  > 象棋课免费，而且，我也总想学象棋。  （2018 全国改）  
+<audio src="./media/The chess class was free_AAC.aac"></audio>
 
 2.*高义频：* **非常：**  
 
  > I’d be more than happy to help.  
  > 我非常乐意帮忙。  （2010 全国书面表达）  
+<audio src="./media/more-13.aac"></audio>
 
 ## \#no more 
 1.**不再 (not ... any more)：**  
 
  > He works in a shop and is no more a student.   
  > 他现在在商店工作，已经不再是学生了。    
+<audio src="./media/more-14.aac"></audio>
 
  > Don’t waste your time and money any more.   
  > 别再浪费时间和金钱了。  （ 2009 湖南）  
+<audio src="./media/more-15.aac"></audio>
 
 ## \#no more than 
 1.**仅仅：**  
 
  > His whole school education added up to no more than three years.   
  > 他所受的学校教育全部加起来不过3年。    
+<audio src="./media/more-16.aac"></audio>
 
 ## \#not more than 
 1.**不超过：**  
 
  > He earns not more than 2,000 dollars a month.    
  > 他每月所赚的钱不超过2000美元。    
+<audio src="./media/more-17.aac"></audio>
 
 #### 辨析 no more (…) than, not more (…) than
   
@@ -6498,6 +8897,7 @@ morally  /'mɒrəli/ adv
 **“not more ... than”** 意为“不比…更”，对比较双方进行客观比较，且持肯定态度。
  > The new book is not more expensive than the old one.  
  > 这本新书不比那本旧书更贵。    
+<audio src="./media/The new book is not _AAC.aac"></audio>
 
 
 ## \#once more 
@@ -6505,21 +8905,25 @@ morally  /'mɒrəli/ adv
 
  > Once more the soldiers attacked and once more they were defeated.   
  > 士兵们又发起了进攻，但又一次被打败了。    
+<audio src="./media/more-24.aac"></audio>
 
 ## \#the more ..., the more ... 
 1.**愈…，愈…：**  
 
  > The more learned a man is, the more modest he usually becomes.  
  > 一个人学识越渊博，通常也会越谦虚。  （2015 陕西）  
+<audio src="./media/The more learned a man_AAC.aac"></audio>
 
  > The more books I read, the more information I learn.  
  > 我读的书越多，学到的知识也越多。  （外研① – 5）  
+<audio src="./media/more-23.aac"></audio>
 
 ## \#what is more 
 1.**更为重要的是；更有甚者：**  
 
  > He studies very hard, and what’s more, he is ready to help others.   
  > 他学习非常刻苦，更重要的是他乐于助人。    
+<audio src="./media/more-25.aac"></audio>
 
 
 真题解析
@@ -6532,7 +8936,13 @@ morally  /'mɒrəli/ adv
 1. most→more; mentally→mental  2. more  3. more than  
 
 # ***\#moreover*** adv
-英音 mɔːr'əʊvə(r)     美音 mɔːr'oʊvər  
+英音 mɔːr'əʊvə(r)  
+英音
+<audio src="./media/moreove-B.aac"></audio>
+美音 mɔːr'oʊvər  
+美音
+<audio src="./media/moreover.aac"></audio>
+
 
 | 词频 2 | 书面 2 | 阅读 1 |  
 
@@ -6544,10 +8954,17 @@ morally  /'mɒrəli/ adv
 
  > I don’t like skating; moreover, the ice is too thin.   
  > 我不喜欢溜冰；而且，这冰也太薄了。    
+<audio src="./media/moreover-1.aac"></audio>
 
 
 # ***\#moribund*** adj
-英音 ˈmɒrɪbʌnd     美音 ˈmɔːrɪbʌnd  
+英音 ˈmɒrɪbʌnd  
+英音
+<audio src="./media/moribund1_AAC.aac"></audio>
+美音 ˈmɔːrɪbʌnd  
+美音
+<audio src="./media/moribund2_AAC.aac"></audio>
+
 
   
 
@@ -6557,7 +8974,13 @@ morally  /'mɒrəli/ adv
 
 
 # ***\#morning*** n
-英音 'mɔːnɪŋ     美音 'mɔːrnɪŋ  
+英音 'mɔːnɪŋ  
+英音
+<audio src="./media/morning-B.aac"></audio>
+美音 'mɔːrnɪŋ  
+美音
+<audio src="./media/morning.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -6569,7 +8992,13 @@ morally  /'mɒrəli/ adv
 
 
 # ***\#morsel*** n
-英音 'mɔːsl     美音 'mɔːrsl  
+英音 'mɔːsl  
+英音
+<audio src="./media/morsel1_AAC.aac"></audio>
+美音 'mɔːrsl  
+美音
+<audio src="./media/morsel1_AAC.aac"></audio>
+
 
   
 
@@ -6579,7 +9008,13 @@ morally  /'mɒrəli/ adv
 
 
 # ***\#mosquito*** n
-英音 mə'skiːtəʊ     美音 mə'skiːtoʊ  
+英音 mə'skiːtəʊ  
+英音
+<audio src="./media/mosquito-B.aac"></audio>
+美音 mə'skiːtoʊ  
+美音
+<audio src="./media/mosquito.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -6591,7 +9026,13 @@ morally  /'mɒrəli/ adv
 
 
 # ***\#moss*** n
-英音 mɒs     美音 mɔːs  
+英音 mɒs  
+英音
+<audio src="./media/moss1.aac"></audio>
+美音 mɔːs  
+美音
+<audio src="./media/moss2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6601,7 +9042,13 @@ morally  /'mɒrəli/ adv
 
 
 # ***\#most*** adj  重难点词汇
-英音 məʊst     美音 moʊst  
+英音 məʊst  
+英音
+<audio src="./media/most-B.aac"></audio>
+美音 moʊst  
+美音
+<audio src="./media/most.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -6612,18 +9059,27 @@ morally  /'mɒrəli/ adv
 
  > Which class has the most children in it?   
  > 哪个班学生最多？    
+<audio src="./media/most-1.aac"></audio>
 
  > The animal that caused most trouble was a little dog.  
  > 惹麻烦最多的是一条小狗。    
+<audio src="./media/The animal tha_AAC.aac"></audio>
 
 ### 2.*高义频：* **大多数的：**  
 
  > In India, most people traditionally eat with their hands.  
  > 在印度，大多数人历来是用手吃饭。  （2016 全国）  
+<audio src="./media/In India, most people _AAC.aac"></audio>
 
 
 # ***\#most*** pron  重难点词汇
-英音 məʊst     美音 moʊst  
+英音 məʊst  
+英音
+<audio src="./media/most-B.aac"></audio>
+美音 moʊst  
+美音
+<audio src="./media/most.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -6633,11 +9089,13 @@ morally  /'mɒrəli/ adv
 
  > Do the most that you can.   
  > 尽你最大努力去做。    
+<audio src="./media/most-4.aac"></audio>
 
 ### 2.*高义频：* **大多数；大部分 (the majority)：**  
 
  > About 150,000 bicycles are stolen every year and most are never found.   
  > 每年大约有15万辆自行车被偷，大多数都找不回来。    
+<audio src="./media/most-5.aac"></audio>
 
 
 固定搭配
@@ -6647,16 +9105,24 @@ morally  /'mɒrəli/ adv
 
  > The railway will be completed in six months at (the) most.   
  > 这条铁路至多6个月就会完工。    
+<audio src="./media/most-6.aac"></audio>
 
 ## \#make the most of
 1.**充分利用 (get the most out of)：**  
 
  > I hope you will all make the most of this chance to share information and opinions.   
  > 我希望你们大家都充分利用这个机会分享信息、交流意见。    
+<audio src="./media/most-7.aac"></audio>
 
 
 # ***\#most*** adv  重难点词汇
-英音 məʊst     美音 moʊst  
+英音 məʊst  
+英音
+<audio src="./media/most-B.aac"></audio>
+美音 moʊst  
+美音
+<audio src="./media/most.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -6667,11 +9133,13 @@ morally  /'mɒrəli/ adv
 
  > Green is said to be the most restful color.   
  > 据说绿色是最令人放松的颜色。  （2012 安徽）  
+<audio src="./media/most-8.aac"></audio>
 
 ### 2.*低义频：* **很；非常：**  
 
  > I was most surprised to hear of your engagement.   
  > 听说你订婚了，我特别惊讶。    
+<audio src="./media/most-adv-I was most.aac"></audio>
 
 
 固定搭配
@@ -6681,6 +9149,7 @@ morally  /'mɒrəli/ adv
 
  > — Why don’t you just take the plane? It’s much faster.   
  > 你为什么不乘飞机？那样会快得多。    
+<audio src="./media/most-11.aac"></audio>
 
  > — Most of all, I don’t have enough money.   
  > 最主要是因为我没有足够的钱。    
@@ -6694,7 +9163,13 @@ morally  /'mɒrəli/ adv
 1. most  
 
 # ***\#mostly*** adv
-英音 'məʊstli     美音 'moʊstli  
+英音 'məʊstli  
+英音
+<audio src="./media/mostly-B.aac"></audio>
+美音 'moʊstli  
+美音
+<audio src="./media/mostly.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -6704,10 +9179,17 @@ morally  /'mɒrəli/ adv
 
  > Those who came to dance were mostly young.   
  > 来跳舞的多半是年轻人。    
+<audio src="./media/mostly-1.aac"></audio>
 
 
 # ***\#mother*** n
-英音 'mʌðə(r)     美音 'mʌðər  
+英音 'mʌðə(r)  
+英音
+<audio src="./media/mother-B.aac"></audio>
+美音 'mʌðər  
+美音
+<audio src="./media/mother.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -6719,7 +9201,13 @@ morally  /'mɒrəli/ adv
 
 
 # ***\#mother*** v
-英音 ˈmʌðə(r)     美音 ˈmʌðər  
+英音 ˈmʌðə(r)  
+英音
+<audio src="./media/mother-B.aac"></audio>
+美音 ˈmʌðər  
+美音
+<audio src="./media/mother.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -6729,7 +9217,13 @@ morally  /'mɒrəli/ adv
 
 
 # ***\#motherland*** n
-英音 'mʌðəlænd     美音 'mʌðərlænd  
+英音 'mʌðəlænd  
+英音
+<audio src="./media/motherland-B.aac"></audio>
+美音 'mʌðərlænd  
+美音
+<audio src="./media/motherland.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -6741,7 +9235,13 @@ morally  /'mɒrəli/ adv
 
 
 # ***\#motherly*** adj
-英音 ˈmʌðəli     美音 ˈmʌðərli  
+英音 ˈmʌðəli  
+英音
+<audio src="./media/motherly1_AAC.aac"></audio>
+美音 ˈmʌðərli  
+美音
+<audio src="./media/motherly2_AAC.aac"></audio>
+
 
   
 
@@ -6751,7 +9251,13 @@ morally  /'mɒrəli/ adv
 
 
 # ***\#motion*** n
-英音 'məʊʃn     美音 'moʊʃn  
+英音 'məʊʃn  
+英音
+<audio src="./media/motion-B.aac"></audio>
+美音 'moʊʃn  
+美音
+<audio src="./media/motion.aac"></audio>
+
 
 | 词频 2 | 书面 1 |  
 
@@ -6766,11 +9272,13 @@ morally  /'mɒrəli/ adv
 
  > The doors are not to be used when the train is **in motion**.  
  > 列车运行时，车门不能使用。    
+<audio src="./media/The doors are not to be used when the train is in motion2_AAC.aac"></audio>
 
 ### 2.*高义频：* **[C]（示意）动作（gesture）**  
 
  > Doyle glanced back at Bodie, and **made** a slight **motion with** his head.  
  > 多伊尔回头看了看博迪，微微动了动头做了个示意。    
+<audio src="./media/Doyle glanced back at Bodie, and made a slight motion with his head2_AAC.aac"></audio>
 
 
 固定搭配
@@ -6780,10 +9288,17 @@ morally  /'mɒrəli/ adv
 
  > I thought a phone call to the right person might set the wheels in motion.  
  > 我想打个电话给合适的人可能会使事情进展顺利。    
+<audio src="./media/I thought a phone call to the right person might set the wheels in motion2_AAC.aac"></audio>
 
 
 # ***\#motivate*** vt
-英音 'məʊtɪveɪt     美音 'moʊtɪveɪt  
+英音 'məʊtɪveɪt  
+英音
+<audio src="./media/motivate-B.aac"></audio>
+美音 'moʊtɪveɪt  
+美音
+<audio src="./media/motivate.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -6793,9 +9308,11 @@ morally  /'mɒrəli/ adv
 
  > Researchers have identified several factors that **motivate** people **to** get involved in voluntary work.  
  > 研究者已经发现促使人们参与志愿者工作的一些因素。  （2015 江苏改）  
+<audio src="./media/Researchers have identified_AAC.aac"></audio>
 
  > While some people are motivated by a need for success, others are motivated by a fear of failure.  
  > 有些人的动力源于对成功的渴望，而另一些人则源于害怕失败。  （2016 江苏）  
+<audio src="./media/motivate50.aac"></audio>
 
 
 派生词汇
@@ -6803,10 +9320,17 @@ morally  /'mɒrəli/ adv
 motivated /'məʊtɪveɪtɪd/ adj   
  > After every run I feel fitter, happier and motivated to keep progressing.  
  > 每次跑步后，我都感到更健康、更快乐、更有动力继续前进。  （2011 湖南改）  
+<audio src="./media/P285 motivate2.aac"></audio>
 
 
 # ***\#motivated*** adj
-英音 ˈməʊtɪveɪtɪd     美音 ˈməʊtɪveɪtɪd  
+英音 ˈməʊtɪveɪtɪd  
+英音
+<audio src="./media/motivated1_AAC.aac"></audio>
+美音 ˈməʊtɪveɪtɪd  
+美音
+<audio src="./media/motivated2_AAC.aac"></audio>
+
 
   
 
@@ -6816,7 +9340,13 @@ motivated /'məʊtɪveɪtɪd/ adj
 
 
 # ***\#motivating*** adj
-英音 məʊtɪveɪtŋ     美音 məʊtɪveɪtŋ  
+英音 məʊtɪveɪtŋ  
+英音
+<audio src="./media/motivating1_AAC.aac"></audio>
+美音 məʊtɪveɪtŋ  
+美音
+<audio src="./media/motivating2_AAC.aac"></audio>
+
 
   
 
@@ -6826,7 +9356,13 @@ motivated /'məʊtɪveɪtɪd/ adj
 
 
 # ***\#motivation*** n
-英音 ˌməʊtɪ'veɪʃn     美音 ˌmoʊtɪ'veɪʃn  
+英音 ˌməʊtɪ'veɪʃn  
+英音
+<audio src="./media/motivation-B.aac"></audio>
+美音 ˌmoʊtɪ'veɪʃn  
+美音
+<audio src="./media/motivation.aac"></audio>
+
 
 | 词频 3 | 阅读 2 |  
 
@@ -6837,12 +9373,14 @@ motivated /'məʊtɪveɪtɪd/ adj
 
  > These methods can help **improve** / **increase** students’ **motivation** and interest.  
  > 这些方法能帮助增强学生的积极性和兴趣。    
+<audio src="./media/P285 motivation4.aac"></audio>
 
 ### 2.*低义频：* **动机；诱因**  
 英译 the need or reason for doing sth：
 
  > Escape can be a strong **motivation for** travel.  
  > 逃避现实可以成为旅游的一种强烈动机。    
+<audio src="./media/P285 motivation5.aac"></audio>
 
 
 真题解析
@@ -6853,7 +9391,13 @@ motivated /'məʊtɪveɪtɪd/ adj
 1. for  
 
 # ***\#motive*** n
-英音 'məʊtɪv     美音 'moʊtɪv  
+英音 'məʊtɪv  
+英音
+<audio src="./media/motive1_AAC.aac"></audio>
+美音 'moʊtɪv  
+美音
+<audio src="./media/motive2_AAC.aac"></audio>
+
 
   
 
@@ -6863,10 +9407,17 @@ motivated /'məʊtɪveɪtɪd/ adj
 
  > Motivation means that you have a good **motive for** action.  
  > 动力意味着你有一个好的行动动机。    
+<audio src="./media/Motivation means that you have a good motive for action2_AAC.aac"></audio>
 
 
 # ***\#motor*** n
-英音 'məʊtə(r)     美音 'moʊtər  
+英音 'məʊtə(r)  
+英音
+<audio src="./media/motor-B.aac"></audio>
+美音 'moʊtər  
+美音
+<audio src="./media/motor.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 1 |  
 
@@ -6878,10 +9429,17 @@ motivated /'məʊtɪveɪtɪd/ adj
 
  > The machine is driven by an electric motor.   
  > 这部机器是用电动马达驱动的。    
+<audio src="./media/motor-1.aac"></audio>
 
 
 # ***\#motor*** adj
-英音 'məʊtə(r)     美音 'moʊtər  
+英音 'məʊtə(r)  
+英音
+<audio src="./media/motor-B.aac"></audio>
+美音 'moʊtər  
+美音
+<audio src="./media/motor.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -6894,7 +9452,13 @@ motivated /'məʊtɪveɪtɪd/ adj
 
 
 # ***\#motorbike*** n
-英音 'məʊtəbaɪk     美音 'moʊtərbaɪk  
+英音 'məʊtəbaɪk  
+英音
+<audio src="./media/motorbike-B.aac"></audio>
+美音 'moʊtərbaɪk  
+美音
+<audio src="./media/motorbike.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -6906,7 +9470,13 @@ motivated /'məʊtɪveɪtɪd/ adj
 
 
 # ***\#motorcycle*** n
-英音 'məʊtəsaɪkl     美音 'moʊtərsaɪkl  
+英音 'məʊtəsaɪkl  
+英音
+<audio src="./media/motorcycle-B.aac"></audio>
+美音 'moʊtərsaɪkl  
+美音
+<audio src="./media/motorcycle.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -6918,7 +9488,13 @@ motivated /'məʊtɪveɪtɪd/ adj
 
 
 # ***\#motorist*** n
-英音 'məʊtərɪst     美音 'moʊtərɪst  
+英音 'məʊtərɪst  
+英音
+<audio src="./media/motorist1.aac"></audio>
+美音 'moʊtərɪst  
+美音
+<audio src="./media/motorist2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6928,7 +9504,13 @@ motivated /'məʊtɪveɪtɪd/ adj
 
 
 # ***\#motorway*** n
-英音 'məʊtəweɪ     美音 'moʊtərweɪ  
+英音 'məʊtəweɪ  
+英音
+<audio src="./media/motorway1.aac"></audio>
+美音 'moʊtərweɪ  
+美音
+<audio src="./media/motorway2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6940,7 +9522,13 @@ motivated /'məʊtɪveɪtɪd/ adj
 
 
 # ***\#motto*** n
-英音 'mɒtəʊ     美音 'mɑːtoʊ  
+英音 'mɒtəʊ  
+英音
+<audio src="./media/motto-B.aac"></audio>
+美音 'mɑːtoʊ  
+美音
+<audio src="./media/motto.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6952,10 +9540,17 @@ motivated /'məʊtɪveɪtɪd/ adj
 
  > My motto is: live one day at a time.   
  > 我的座右铭是：过好每一天。  （人教⑦ – 1）  
+<audio src="./media/motto-1.aac"></audio>
 
 
 # ***\#mould*** n
-英音 məʊld     美音 moʊld  
+英音 məʊld  
+英音
+<audio src="./media/mould1.aac"></audio>
+美音 moʊld  
+美音
+<audio src="./media/mould2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6965,7 +9560,13 @@ motivated /'məʊtɪveɪtɪd/ adj
 
 
 # ***\#mould*** v
-英音 məʊld     美音 moʊld  
+英音 məʊld  
+英音
+<audio src="./media/mould1.aac"></audio>
+美音 moʊld  
+美音
+<audio src="./media/mould2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6975,7 +9576,13 @@ motivated /'məʊtɪveɪtɪd/ adj
 
 
 # ***\#mound*** n
-英音 maʊnd     美音 maʊnd  
+英音 maʊnd  
+英音
+<audio src="./media/mound1_AAC.aac"></audio>
+美音 maʊnd  
+美音
+<audio src="./media/mound2_AAC.aac"></audio>
+
 
   
 
@@ -6985,7 +9592,13 @@ motivated /'məʊtɪveɪtɪd/ adj
 
 
 # ***\#mount*** n
-英音 maʊnt     美音 maʊnt  
+英音 maʊnt  
+英音
+<audio src="./media/mount-B.aac"></audio>
+美音 maʊnt  
+美音
+<audio src="./media/mount.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -6998,7 +9611,13 @@ motivated /'məʊtɪveɪtɪd/ adj
 
 
 # ***\#mount*** v
-英音 maʊnt     美音 maʊnt  
+英音 maʊnt  
+英音
+<audio src="./media/mount-B.aac"></audio>
+美音 maʊnt  
+美音
+<audio src="./media/mount.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -7008,6 +9627,7 @@ motivated /'məʊtɪveɪtɪd/ adj
 
  > I mounted the steps and looked around me slowly.  
  > 我爬上台阶，慢慢环顾四周。    
+<audio src="./media/I mounted the steps_AAC.aac"></audio>
 
 ### 2.*高义频：* **组织；安排（arrange）**  
 
@@ -7018,7 +9638,13 @@ motivated /'məʊtɪveɪtɪd/ adj
 
 
 # ***\#mountain*** n
-英音 'maʊntən     美音 'maʊntn  
+英音 'maʊntən  
+英音
+<audio src="./media/mountain-B.aac"></audio>
+美音 'maʊntn  
+美音
+<audio src="./media/mountain.aac"></audio>
+
 
 | 词频 5 | 口语 1 | 书面 1 |  
 
@@ -7036,6 +9662,7 @@ motivated /'məʊtɪveɪtɪd/ adj
 
  > I’m going to go camping **in the mountains**.  
  > 我要去山里露营。  （2013 北京）  
+<audio src="./media/I’m going to go camping_AAC.aac"></audio>
 
 
 固定搭配
@@ -7048,10 +9675,17 @@ motivated /'məʊtɪveɪtɪd/ adj
 
  > The books are more precious to her than mountains of gold.  
  > 这些书对她来说比金山还珍贵。  （2017 浙江改）  
+<audio src="./media/The books are more _AAC.aac"></audio>
 
 
 # ***\#mountainous*** adj
-英音 'maʊntənəs     美音 'maʊntənəs  
+英音 'maʊntənəs  
+英音
+<audio src="./media/mountainous-B.aac"></audio>
+美音 'maʊntənəs  
+美音
+<audio src="./media/mountainous.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -7061,10 +9695,17 @@ motivated /'məʊtɪveɪtɪd/ adj
 
  > We live in a mountainous area in the northwest.   
  > 我们生活在西北山区。  （外研④ – 5）  
+<audio src="./media/mountainous-1.aac"></audio>
 
 
 # ***\#mountainside*** n
-英音 ˈmaʊntənsaɪd     美音 ˈmaʊntnsaɪd  
+英音 ˈmaʊntənsaɪd  
+英音
+<audio src="./media/mountainside1_AAC.aac"></audio>
+美音 ˈmaʊntnsaɪd  
+美音
+<audio src="./media/mountainside2_AAC.aac"></audio>
+
 
   
 
@@ -7074,7 +9715,13 @@ motivated /'məʊtɪveɪtɪd/ adj
 
 
 # ***\#mountaintop*** n
-英音 'maʊntəntɒp     美音 'maʊntntɑːp  
+英音 'maʊntəntɒp  
+英音
+<audio src="./media/mountaintop1.aac"></audio>
+美音 'maʊntntɑːp  
+美音
+<audio src="./media/mountaintop2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7084,7 +9731,13 @@ motivated /'məʊtɪveɪtɪd/ adj
 
 
 # ***\#mounting*** adj
-英音 'maʊntɪŋ     美音 'maʊntɪŋ  
+英音 'maʊntɪŋ  
+英音
+<audio src="./media/mounting1.aac"></audio>
+美音 'maʊntɪŋ  
+美音
+<audio src="./media/mounting2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7094,7 +9747,13 @@ motivated /'məʊtɪveɪtɪd/ adj
 
 
 # ***\#mourn*** v
-英音 mɔːn     美音 mɔːrn  
+英音 mɔːn  
+英音
+<audio src="./media/mourn-B.aac"></audio>
+美音 mɔːrn  
+美音
+<audio src="./media/mourn.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7106,13 +9765,21 @@ motivated /'məʊtɪveɪtɪd/ adj
 
  > On 18 April 1955, Einstein had passed away, and the whole world mourned the great loss of a brilliant scientist.  
  > 1955年4月18日，爱因斯坦与世长辞，全世界都在哀悼一代科学巨星的陨落。  （人教新选必① – 1改）  
+<audio src="./media/On 18 April 1955, Einstein had passed away2_AAC.aac"></audio>
 
  > London is very different today, and few people **mourn the passing** of the old city.   
  > 如今伦敦焕然一新，很少有人为旧城的消失而感到遗憾。  （外研⑦ – 3）  
+<audio src="./media/mourn-2.aac"></audio>
 
 
 # ***\#mouse*** n
-英音 maʊs     美音 maʊs  
+英音 maʊs  
+英音
+<audio src="./media/mouse-B.aac"></audio>
+美音 maʊs  
+美音
+<audio src="./media/mouse.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 1 |  
 
@@ -7124,7 +9791,13 @@ motivated /'məʊtɪveɪtɪd/ adj
 
 
 # ***\#moustache*** n
-英音 mə'stɑːʃ     美音 mə'stɑːʃ  
+英音 mə'stɑːʃ  
+英音
+<audio src="./media/moustache-B.aac"></audio>
+美音 mə'stɑːʃ  
+美音
+<audio src="./media/moustache.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7136,7 +9809,13 @@ motivated /'məʊtɪveɪtɪd/ adj
 
 
 # ***\#mouth*** n
-英音 maʊθ     美音 maʊθ  
+英音 maʊθ  
+英音
+<audio src="./media/mouth-B.aac"></audio>
+美音 maʊθ  
+美音
+<audio src="./media/mouth.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 3 |  
 
@@ -7161,10 +9840,17 @@ mouthful /'maʊθfʊl/ n [C]
 
  > He eats each mouthful with great enjoyment.  
  > 他每一口都吃得津津有味。  （人教④ – 3）  
+<audio src="./media/mouth-1.aac"></audio>
 
 
 # ***\#mouth*** v
-英音 maʊθ     美音 maʊθ  
+英音 maʊθ  
+英音
+<audio src="./media/mouth-B.aac"></audio>
+美音 maʊθ  
+美音
+<audio src="./media/mouth.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 3 |  
 
@@ -7176,7 +9862,13 @@ mouthful /'maʊθfʊl/ n [C]
 
 
 # ***\#mouthful*** n
-英音 'maʊθfʊl     美音 'maʊθfʊl  
+英音 'maʊθfʊl  
+英音
+<audio src="./media/mouthful-B.aac"></audio>
+美音 'maʊθfʊl  
+美音
+<audio src="./media/mouthful.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7188,7 +9880,13 @@ mouthful /'maʊθfʊl/ n [C]
 
 
 # ***\#movable*** adj
-英音 'muːvəbl     美音 'muːvəbl  
+英音 'muːvəbl  
+英音
+<audio src="./media/movable1.aac"></audio>
+美音 'muːvəbl  
+美音
+<audio src="./media/movable2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7198,7 +9896,13 @@ mouthful /'maʊθfʊl/ n [C]
 
 
 # ***\#move*** v
-英音 muːv     美音 muːv  
+英音 muːv  
+英音
+<audio src="./media/move-B.aac"></audio>
+美音 muːv  
+美音
+<audio src="./media/move.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -7208,17 +9912,21 @@ mouthful /'maʊθfʊl/ n [C]
 
  > Could you move your car, please?   
  > 把您的车挪一下好吗？    
+<audio src="./media/move-1.aac"></audio>
 
  > The dog moved its tail gently.  
  > 狗轻轻摇动了尾巴。    
+<audio src="./media/move-2.aac"></audio>
 
  > Move back! The roof is falling!   
  > 往后退！房顶要塌了！    
+<audio src="./media/move-3.aac"></audio>
 
 ### 2.*高义频：* **迁移；搬家：**  
 
  > When I was 15, my family **moved to** Washington.  
  > 我15岁的时候，我们全家搬到了华盛顿。  （2021全国）  
+<audio src="./media/When I was 15, my family moved to Washington2_AAC.aac"></audio>
 
  > **move house / home**   
  > 搬家    
@@ -7230,9 +9938,11 @@ mouthful /'maʊθfʊl/ n [C]
 
  > I was **deeply moved** by the story Cart told us.   
  > 我被卡特讲的故事深深地打动了。    
+<audio src="./media/move-5.aac"></audio>
 
  > His speech **moved** the audience **to tears**.   
  > 他的演讲感动得听众都流泪了。    
+<audio src="./media/move-6.aac"></audio>
 
 
 固定搭配
@@ -7242,19 +9952,28 @@ mouthful /'maʊθfʊl/ n [C]
 
  > He became very ill and it was difficult for him to even move around.   
  > 他病得很重，甚至连走动都很困难。    
+<audio src="./media/move-7.aac"></audio>
 
 ## \#move on 
 1.**继续前进；转换 (话题)：**  
 
  > After a few minutes, the bus moved on again.  
  > 几分钟后，公共汽车又继续往前开了。    
+<audio src="./media/move-8.aac"></audio>
 
  > I think we’ve talked enough about that subject; let’s move on.   
  > 我认为这个话题我们已经谈得够多了，咱们换个话题吧。    
+<audio src="./media/move-9.aac"></audio>
 
 
 # ***\#move*** n
-英音 muːv     美音 muːv  
+英音 muːv  
+英音
+<audio src="./media/move-B.aac"></audio>
+美音 muːv  
+美音
+<audio src="./media/move.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 3 |  
 
@@ -7266,12 +9985,15 @@ mouthful /'maʊθfʊl/ n [C]
 
  > Martin **made a move** towards the door.  
  > 马丁朝门口动了动。    
+<audio src="./media/move-10.aac"></audio>
 
  > What’s your **next move**?   
  > 你们下一步有什么举措？    
+<audio src="./media/move-11.aac"></audio>
 
  > An elephant group **is on the move** in the national park.   
  > 一群大象在国家公园里活动着。    
+<audio src="./media/move-12.aac"></audio>
 
 
 派生词汇
@@ -7279,7 +10001,13 @@ mouthful /'maʊθfʊl/ n [C]
 mov(e)able /'muːvəbl/ adj   
 
 # ***\#moveable*** adj
-英音 'muːvəbl     美音 'mʊvəbəl  
+英音 'muːvəbl  
+英音
+<audio src="./media/moveable-B.aac"></audio>
+美音 'mʊvəbəl  
+美音
+<audio src="./media/moveable.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7289,7 +10017,13 @@ mov(e)able /'muːvəbl/ adj
 
 
 # ***\#moved*** adj
-英音 muːvd     美音 muːvd  
+英音 muːvd  
+英音
+<audio src="./media/moved1_AAC.aac"></audio>
+美音 muːvd  
+美音
+<audio src="./media/moved2_AAC.aac"></audio>
+
 
   
 
@@ -7299,7 +10033,13 @@ mov(e)able /'muːvəbl/ adj
 
 
 # ***\#movement*** n
-英音 'muːvmənt     美音 'muːvmənt  
+英音 'muːvmənt  
+英音
+<audio src="./media/movement-B.aac"></audio>
+美音 'muːvmənt  
+美音
+<audio src="./media/movement.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 |  
 
@@ -7314,10 +10054,17 @@ mov(e)able /'muːvəbl/ adj
 
  > The artistic movement called the Renaissance began in Florence.   
  > 这场被称为文艺复兴的运动开始于佛罗伦萨。  （ 外研③ – 1）  
+<audio src="./media/movement-1.aac"></audio>
 
 
 # ***\#movie*** n
-英音 'muːvi     美音 'muːvi  
+英音 'muːvi  
+英音
+<audio src="./media/movie-B.aac"></audio>
+美音 'muːvi  
+美音
+<audio src="./media/movie.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -7334,10 +10081,17 @@ mov(e)able /'muːvəbl/ adj
 
  > I’ve always wanted to work in the movies.   
  > 我一直想投身电影业。    
+<audio src="./media/movie-1.aac"></audio>
 
 
 # ***\#moving*** adj
-英音 'muːvɪŋ     美音 'muːvɪŋ  
+英音 'muːvɪŋ  
+英音
+<audio src="./media/moving-B.aac"></audio>
+美音 'muːvɪŋ  
+美音
+<audio src="./media/moving.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -7347,6 +10101,7 @@ mov(e)able /'muːvəbl/ adj
 
  > His letter was deeply moving.   
  > 他的信非常感人。    
+<audio src="./media/moving-1.aac"></audio>
 
  > a **moving speech**   
  > 感人的演说    
@@ -7355,10 +10110,17 @@ mov(e)able /'muːvəbl/ adj
 
  > Reading in a moving car is harmful to your eyes.   
  > 在行驶的车上阅读对眼睛有害。    
+<audio src="./media/moving-2.aac"></audio>
 
 
 # ***\#much*** adj
-英音 mʌtʃ     美音 mʌtʃ  
+英音 mʌtʃ  
+英音
+<audio src="./media/much-B.aac"></audio>
+美音 mʌtʃ  
+美音
+<audio src="./media/much.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -7370,13 +10132,21 @@ mov(e)able /'muːvəbl/ adj
 
  > I hope the change will not cause you **too much** trouble.  
  > 我希望这个变化不会给你带来太多麻烦。  （2016 全国书面表达）  
+<audio src="./media/I hope the change will not cause_AAC.aac"></audio>
 
  > There was **so much** food that we couldn’t eat it all.  
  > 食物太多了，我们根本吃不完。    
+<audio src="./media/much-1.aac"></audio>
 
 
 # ***\#much*** pron
-英音 mʌtʃ     美音 mʌtʃ  
+英音 mʌtʃ  
+英音
+<audio src="./media/much-B.aac"></audio>
+美音 mʌtʃ  
+美音
+<audio src="./media/much.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -7386,10 +10156,17 @@ mov(e)able /'muːvəbl/ adj
 
  > The two girls are getting on very well and share much with each other.  
  > 这两个女孩相处融洽，彼此分享很多东西。  （2008 安徽）  
+<audio src="./media/much50.aac"></audio>
 
 
 # ***\#much*** adv
-英音 mʌtʃ     美音 mʌtʃ  
+英音 mʌtʃ  
+英音
+<audio src="./media/much-B.aac"></audio>
+美音 mʌtʃ  
+美音
+<audio src="./media/much.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -7401,6 +10178,7 @@ mov(e)able /'muːvəbl/ adj
 
  > He doesn’t swim much.   
  > 他不常游泳。    
+<audio src="./media/much-3.aac"></audio>
 
 ### 2.*高义频：* **很；非常：**  
 
@@ -7409,9 +10187,11 @@ mov(e)able /'muːvəbl/ adj
 
  > Thank you **very much** for your coming.   
  > 非常感谢您的光临。    
+<audio src="./media/much-4.aac"></audio>
 
  > I’m much pleased with it.  
  > 我对此非常满意。    
+<audio src="./media/I’m much pleased with it_AAC.aac"></audio>
 
 #### 辨析 much too, too much
   
@@ -7419,21 +10199,26 @@ mov(e)able /'muːvəbl/ adj
 **too much ** 意为“太多”，可用作形容词词组，后接不可数名词；也可用作名词词组或副词词组。
  > A neighbor complained the kids were making too much noise.   
  > 有位邻居抱怨孩子们太吵了。    
+<audio src="./media/much-7.aac"></audio>
 
  > I have eaten too much (food) today.   
  > 我今天吃得太多了。    
+<audio src="./media/much-8.aac"></audio>
 
  > You worry too much.   
  > 你过于担心了。    
+<audio src="./media/much-9.aac"></audio>
 
 
 ### 3.*高义频：* **...多；更：**  
 
  > The crop was growing much slower than he expected.   
  > 庄稼比他预期的长得慢多了。  （2008 广东）  
+<audio src="./media/much-10.aac"></audio>
 
  > This is much the best way to do it.   
  > 这是做这件事最好的方法。    
+<audio src="./media/much-11.aac"></audio>
 
 
 固定搭配
@@ -7443,48 +10228,57 @@ mov(e)able /'muːvəbl/ adj
 
  > Tony lent me the money, hoping that I’d do as much for him.  
  > 托尼借给我钱，希望我以后也会为他做同样的事。  （2012 全国）  
+<audio src="./media/P287 much1.aac"></audio>
 
 ## \#as much as 
 1.**像…那么多；多达：**  
 
  > She spends as much as $2,000 on clothes every month.   
  > 她每月买衣服的开销高达2000美元。    
+<audio src="./media/much-13.aac"></audio>
 
 ## \#as much … as 
 1.**和…同样多的；和…一样：**  
 
  > We didn’t spend as much time at the museum as I had hoped.  
  > 我们在博物馆花的时间没有我期望的那么长。    
+<audio src="./media/We didn’t spend as_AAC.aac"></audio>
 
 ## \#as much as sb can / could (do)
 1.**尽某人最大努力 (as much as possible)：**  
 
  > I have done as much as I could do to help him.   
  > 我已尽力去帮助他了。    
+<audio src="./media/much-16.aac"></audio>
 
  > Students are encouraged to read as much as possible outside school.   
  > 我们鼓励学生在课外尽量多阅读。    
+<audio src="./media/much-17.aac"></audio>
 
 ## \#how much 
 1.**多少；什么价钱：**  
 
  > Any owner will tell you how much joy a pet brings.  
  > 任何一位宠物的主人都会告诉你宠物会带来多少欢乐。  （ 2010 全国）  
+<audio src="./media/much-18.aac"></audio>
 
 ## \#not / nothing much
 1.**没什么：**  
 
  > — Is there anything wrong, Bob? You look sad.  
  > 鲍勃，怎么了？你看起来很难过。    
+<audio src="./media/P287 much2.aac"></audio>
 
  > — Oh, nothing much. In fact, I was just thinking of my friends back home.  
  > 哦，没什么。事实上我刚才在想念家乡的朋友们。    
+<audio src="./media/much050.aac"></audio>
 
 ## \#so much for 
 1.**[用于结束某个话题] 到此为止：**  
 
  > So much for all those introductions. It’s time to get down to business.   
  > 就介绍这么多吧，该开始工作了。    
+<audio src="./media/much-19.aac"></audio>
 
 
 真题解析
@@ -7505,7 +10299,13 @@ D.too long much
 1. much  2. too → very / so  3. nothing / not much  4. B  5. much to my surprise  
 
 # ***\#mud*** n
-英音 mʌd     美音 mʌd  
+英音 mʌd  
+英音
+<audio src="./media/mud-B.aac"></audio>
+美音 mʌd  
+美音
+<audio src="./media/mud.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -7517,7 +10317,13 @@ D.too long much
 
 
 # ***\#muddy*** adj
-英音 'mʌdi     美音 'mʌdi  
+英音 'mʌdi  
+英音
+<audio src="./media/muddy-B.aac"></audio>
+美音 'mʌdi  
+美音
+<audio src="./media/muddy.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7527,7 +10333,13 @@ D.too long much
 
 
 # ***\#muffler*** n
-英音 'mʌflə(r)     美音 'mʌflər  
+英音 'mʌflə(r)  
+英音
+<audio src="./media/muffler1.aac"></audio>
+美音 'mʌflər  
+美音
+<audio src="./media/muffler2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7537,7 +10349,13 @@ D.too long much
 
 
 # ***\#mug*** n
-英音 mʌɡ     美音 mʌɡ  
+英音 mʌɡ  
+英音
+<audio src="./media/Mug-B.aac"></audio>
+美音 mʌɡ  
+美音
+<audio src="./media/mug.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7549,7 +10367,13 @@ D.too long much
 
 
 # ***\#mug*** v
-英音 mʌɡ     美音 mʌɡ  
+英音 mʌɡ  
+英音
+<audio src="./media/Mug-B.aac"></audio>
+美音 mʌɡ  
+美音
+<audio src="./media/mug.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7561,7 +10385,13 @@ D.too long much
 
 
 # ***\#mulberry*** n
-英音 ˈmʌlbəri     美音 ˈmʌlberi  
+英音 ˈmʌlbəri  
+英音
+<audio src="./media/mulberry1_AAC.aac"></audio>
+美音 ˈmʌlberi  
+美音
+<audio src="./media/mulberry2_AAC.aac"></audio>
+
 
   
 
@@ -7571,7 +10401,13 @@ D.too long much
 
 
 # ***\#multi-cultural*** adj
-英音 ˌmʌltɪ'kʌltʃərəl     美音 ˌmʌltɪ'kʌltʃərəl  
+英音 ˌmʌltɪ'kʌltʃərəl  
+英音
+<audio src="./media/multi-cultural1.aac"></audio>
+美音 ˌmʌltɪ'kʌltʃərəl  
+美音
+<audio src="./media/multi-cultural2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7581,7 +10417,13 @@ D.too long much
 
 
 # ***\#multi-purpose*** adj
-英音 multi-purpose     美音 ˌmʌltiˈpɜːrpəs  
+英音 multi-purpose  
+英音
+<audio src="./media/multi-purpose1_AAC.aac"></audio>
+美音 ˌmʌltiˈpɜːrpəs  
+美音
+<audio src="./media/multi-purpose2_AAC.aac"></audio>
+
 
   
 
@@ -7591,7 +10433,13 @@ D.too long much
 
 
 # ***\#multicultural*** adj
-英音 ˌmʌlti'kʌltʃərəl     美音 ˌmʌlti'kʌltʃərəl  
+英音 ˌmʌlti'kʌltʃərəl  
+英音
+<audio src="./media/multicultural-B.aac"></audio>
+美音 ˌmʌlti'kʌltʃərəl  
+美音
+<audio src="./media/multicultural.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -7601,7 +10449,13 @@ D.too long much
 
 
 # ***\#multimedia*** adj
-英音 ˌmʌltiˈmiːdiə     美音 ˌmʌltiˈmiːdiə  
+英音 ˌmʌltiˈmiːdiə  
+英音
+<audio src="./media/multimedia1_AAC.aac"></audio>
+美音 ˌmʌltiˈmiːdiə  
+美音
+<audio src="./media/multimedia2_AAC.aac"></audio>
+
 
   
 
@@ -7611,7 +10465,13 @@ D.too long much
 
 
 # ***\#multinational*** adj
-英音 ˌmʌltiˈnæʃnəl     美音 ˌmʌltiˈnæʃnəl  
+英音 ˌmʌltiˈnæʃnəl  
+英音
+<audio src="./media/multinational adj1_AAC.aac"></audio>
+美音 ˌmʌltiˈnæʃnəl  
+美音
+<audio src="./media/multinational adj2_AAC.aac"></audio>
+
 
   
 
@@ -7621,7 +10481,13 @@ D.too long much
 
 
 # ***\#multinational*** n
-英音 ˌmʌltiˈnæʃnəl     美音 ˌmʌltiˈnæʃnəl  
+英音 ˌmʌltiˈnæʃnəl  
+英音
+<audio src="./media/multinational n1_AAC.aac"></audio>
+美音 ˌmʌltiˈnæʃnəl  
+美音
+<audio src="./media/multinational n2_AAC.aac"></audio>
+
 
   
 
@@ -7631,7 +10497,13 @@ D.too long much
 
 
 # ***\#multiple*** adj
-英音 'mʌltɪpl     美音 'mʌltɪpl  
+英音 'mʌltɪpl  
+英音
+<audio src="./media/multiple-B.aac"></audio>
+美音 'mʌltɪpl  
+美音
+<audio src="./media/multiple.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -7641,7 +10513,13 @@ D.too long much
 
 
 # ***\#multiple*** n
-英音 'mʌltɪpl     美音 'mʌltɪpl  
+英音 'mʌltɪpl  
+英音
+<audio src="./media/multiple-B.aac"></audio>
+美音 'mʌltɪpl  
+美音
+<audio src="./media/multiple.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -7653,7 +10531,13 @@ D.too long much
 
 
 # ***\#multiplication*** n
-英音 ˌmʌltɪplɪˈkeɪʃn     美音 ˌmʌltɪplɪˈkeɪʃn  
+英音 ˌmʌltɪplɪˈkeɪʃn  
+英音
+<audio src="./media/multiplication1_AAC.aac"></audio>
+美音 ˌmʌltɪplɪˈkeɪʃn  
+美音
+<audio src="./media/multiplication2_AAC.aac"></audio>
+
 
   
 
@@ -7663,7 +10547,13 @@ D.too long much
 
 
 # ***\#multiply*** v
-英音 'mʌltɪplaɪ     美音 'mʌltɪplaɪ  
+英音 'mʌltɪplaɪ  
+英音
+<audio src="./media/multiply-B.aac"></audio>
+美音 'mʌltɪplaɪ  
+美音
+<audio src="./media/multiply.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7675,6 +10565,7 @@ D.too long much
 
  > The children are already learning to multiply and divide.   
  > 孩子们已经开始学习乘法和除法了。    
+<audio src="./media/multiply-1.aac"></audio>
 
  > **multiply** seven **by** three   
  > 7乘以3    
@@ -7683,10 +10574,17 @@ D.too long much
 
  > Microorganisms multiply rapidly in dirty places and in warm temperatures.  
  > 微生物在肮脏的地方和温暖的环境下繁殖迅速。  （2010 广东）  
+<audio src="./media/multiply-2.aac"></audio>
 
 
 # ***\#multitask*** v
-英音 ˌmʌltiˈtɑːsk     美音 ˌmʌltiˈtæsk  
+英音 ˌmʌltiˈtɑːsk  
+英音
+<audio src="./media/multitask1_AAC.aac"></audio>
+美音 ˌmʌltiˈtæsk  
+美音
+<audio src="./media/multitask2_AAC.aac"></audio>
+
 
   
 
@@ -7696,7 +10594,13 @@ D.too long much
 
 
 # ***\#mummy*** n
-英音 'mʌmi     美音 'mʌmi  
+英音 'mʌmi  
+英音
+<audio src="./media/mummy1.aac"></audio>
+美音 'mʌmi  
+美音
+<audio src="./media/mummy2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -7706,7 +10610,13 @@ D.too long much
 
 
 # ***\#mural*** n
-英音 'mjʊərəl     美音 'mjʊrəl  
+英音 'mjʊərəl  
+英音
+<audio src="./media/mural1.aac"></audio>
+美音 'mjʊrəl  
+美音
+<audio src="./media/mural2.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -7716,7 +10626,13 @@ D.too long much
 
 
 # ***\#murder*** n
-英音 'mɜːdə(r)     美音 'mɜːrdər  
+英音 'mɜːdə(r)  
+英音
+<audio src="./media/murder-B.aac"></audio>
+美音 'mɜːrdər  
+美音
+<audio src="./media/murder.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 2 |  
 
@@ -7726,13 +10642,21 @@ D.too long much
 
  > Death will come mainly from accidents, murder and war.   
  > 死亡将主要来自事故、谋杀和战争。    
+<audio src="./media/murder-1.aac"></audio>
 
  > There occurred two murders this month in the town.  
  > 本月镇上发生了两起谋杀案。    
+<audio src="./media/murder-2.aac"></audio>
 
 
 # ***\#murder*** vt
-英音 'mɜːdə(r)     美音 'mɜːrdər  
+英音 'mɜːdə(r)  
+英音
+<audio src="./media/murder-B.aac"></audio>
+美音 'mɜːrdər  
+美音
+<audio src="./media/murder.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -7742,6 +10666,7 @@ D.too long much
 
  > He was accused of murdering a policeman.   
  > 他被控谋杀了一名警员。    
+<audio src="./media/murder-3.aac"></audio>
 
 
 派生词汇
@@ -7749,7 +10674,13 @@ D.too long much
 murderer /'mɜːdərə(r)/ n [C]   
 
 # ***\#murderer*** n
-英音 'mɜːdərə(r)     美音 'mɜːrdərər  
+英音 'mɜːdərə(r)  
+英音
+<audio src="./media/murderer1.aac"></audio>
+美音 'mɜːrdərər  
+美音
+<audio src="./media/murderer2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7759,7 +10690,13 @@ murderer /'mɜːdərə(r)/ n [C]
 
 
 # ***\#murmur*** v
-英音 'mɜːmə(r)     美音 'mɜːrmər  
+英音 'mɜːmə(r)  
+英音
+<audio src="./media/murmur-B.aac"></audio>
+美音 'mɜːrmər  
+美音
+<audio src="./media/murmur.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7771,7 +10708,13 @@ murderer /'mɜːdərə(r)/ n [C]
 
 
 # ***\#muscle*** n
-英音 'mʌsl     美音 'mʌsl  
+英音 'mʌsl  
+英音
+<audio src="./media/muscle-B.aac"></audio>
+美音 'mʌsl  
+美音
+<audio src="./media/muscle.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 1 |  
 
@@ -7784,6 +10727,7 @@ murderer /'mɜːdərə(r)/ n [C]
 
  > When you walk you exercise your leg muscles.  
  > 走路能锻炼腿部肌肉。    
+<audio src="./media/muscle-1.aac"></audio>
 
 ### 2.*低义频：* **体力；力气：**  
 
@@ -7792,7 +10736,13 @@ murderer /'mɜːdərə(r)/ n [C]
 
 
 # ***\#muscular*** adj
-英音 ˈmʌskjələ(r)     美音 ˈmʌskjələr  
+英音 ˈmʌskjələ(r)  
+英音
+<audio src="./media/muscular1_AAC.aac"></audio>
+美音 ˈmʌskjələr  
+美音
+<audio src="./media/muscular2_AAC.aac"></audio>
+
 
   
 
@@ -7802,7 +10752,13 @@ murderer /'mɜːdərə(r)/ n [C]
 
 
 # ***\#museum*** n
-英音 mju'ziːəm     美音 mju'ziːəm  
+英音 mju'ziːəm  
+英音
+<audio src="./media/museum-B.aac"></audio>
+美音 mju'ziːəm  
+美音
+<audio src="./media/museum.aac"></audio>
+
 
 | 词频 5 | 口语 1 | 书面 2 |  
 
@@ -7814,7 +10770,13 @@ murderer /'mɜːdərə(r)/ n [C]
 
 
 # ***\#mushroom*** n
-英音 'mʌʃrʊm     美音 'mʌʃrʊm  
+英音 'mʌʃrʊm  
+英音
+<audio src="./media/mushroom-B.aac"></audio>
+美音 'mʌʃrʊm  
+美音
+<audio src="./media/mushroom.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -7826,7 +10788,13 @@ murderer /'mɜːdərə(r)/ n [C]
 
 
 # ***\#mushroom*** vi
-英音 'mʌʃrʊm     美音 'mʌʃrʊm  
+英音 'mʌʃrʊm  
+英音
+<audio src="./media/mushroom-B.aac"></audio>
+美音 'mʌʃrʊm  
+美音
+<audio src="./media/mushroom.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7836,7 +10804,13 @@ murderer /'mɜːdərə(r)/ n [C]
 
 
 # ***\#mushy*** adj
-英音 ˈmʌʃi     美音 ˈmʌʃi  
+英音 ˈmʌʃi  
+英音
+<audio src="./media/mushy1_AAC.aac"></audio>
+美音 ˈmʌʃi  
+美音
+<audio src="./media/mushy2_AAC.aac"></audio>
+
 
   
 
@@ -7846,7 +10820,13 @@ murderer /'mɜːdərə(r)/ n [C]
 
 
 # ***\#music*** n
-英音 'mjuːzɪk     美音 'mjuːzɪk  
+英音 'mjuːzɪk  
+英音
+<audio src="./media/music-B.aac"></audio>
+美音 'mjuːzɪk  
+美音
+<audio src="./media/music.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -7864,10 +10844,17 @@ murderer /'mɜːdərə(r)/ n [C]
 
  > I'm not a trained musician, but I've learnt to **read music**.  
  > 我并不是受过训练的音乐家，但我学会了识谱。  （2021新高考）  
+<audio src="./media/I'm very familiar with the history of my home city2_AAC.aac"></audio>
 
 
 # ***\#musical*** adj
-英音 'mjuːzɪkl     美音 'mjuːzɪkl  
+英音 'mjuːzɪkl  
+英音
+<audio src="./media/musical-B.aac"></audio>
+美音 'mjuːzɪkl  
+美音
+<audio src="./media/musical.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 |  
 
@@ -7880,7 +10867,13 @@ murderer /'mɜːdərə(r)/ n [C]
 
 
 # ***\#musical*** n
-英音 'mjuːzɪkl     美音 'mjuːzɪkl  
+英音 'mjuːzɪkl  
+英音
+<audio src="./media/musical-B.aac"></audio>
+美音 'mjuːzɪkl  
+美音
+<audio src="./media/musical.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -7892,7 +10885,13 @@ murderer /'mɜːdərə(r)/ n [C]
 
 
 # ***\#musician*** n
-英音 mju'zɪʃn     美音 mju'zɪʃn  
+英音 mju'zɪʃn  
+英音
+<audio src="./media/musician-B.aac"></audio>
+美音 mju'zɪʃn  
+美音
+<audio src="./media/musician.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -7904,7 +10903,13 @@ murderer /'mɜːdərə(r)/ n [C]
 
 
 # ***\#must*** modal v
-英音 məst,mʌst     美音 məst,mʌst  
+英音 məst,mʌst  
+英音
+<audio src="./media/must1-b.aac"></audio>
+美音 məst,mʌst  
+美音
+<audio src="./media/must---.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -7914,12 +10919,15 @@ murderer /'mɜːdərə(r)/ n [C]
 
  > I must finish the task before dark.   
  > 我必须在天黑以前完成任务。    
+<audio src="./media/must-1.aac"></audio>
 
  > You mustn’t lend my book to others.  
  > 你不许把我的书借给别人。    
+<audio src="./media/You mustn’t lend _AAC.aac"></audio>
 
  > — Must I do the cleaning right now?   
  > 我现在就必须打扫吗？    
+<audio src="./media/must-3.aac"></audio>
 
  > — Oh, no, you needn’t. You may do it in the afternoon.   
  > 不必。你可以下午打扫。    
@@ -7931,25 +10939,30 @@ Notes: 回答Must ...? 疑问句时，肯定回答用：Yes, ... must. 否定回
 
  > You must be very tired after your long journey.   
  > 长途劳顿，你一定很累吧。  （外研⑧ – 7）  
+<audio src="./media/must-4.aac"></audio>
 
 - [表示对过去的推测，意为“一定做过”] must have done：
 
  > Harry is feeling uncomfortable. He must have drunk too much at the party last night.   
  > 哈里不舒服。他昨晚在聚会上肯定喝多了。  （2013 辽宁）  
+<audio src="./media/must-5.aac"></audio>
 
 Notes: must表示推测时，一般用于肯定句。  
 ### 3.*高义频：* **必然要；必定会：**  
 
  > All men must die.   
  > 人总有一死。    
+<audio src="./media/must-6.aac"></audio>
 
 ### 4.*高义频：* **一定要；坚持要：**  
 
  > He must always have his own way.   
  > 他总是自行其是。    
+<audio src="./media/must-7.aac"></audio>
 
  > He said he must see you.   
  > 他说一定要见你。    
+<audio src="./media/must-8.aac"></audio>
 
 
 固定搭配
@@ -7959,6 +10972,7 @@ Notes: must表示推测时，一般用于肯定句。
 
  > If you must smoke, please go outside.  
  > 如果你一定要抽烟的话，请去外面抽。  （2011 全国）  
+<audio src="./media/P288 must1.aac"></audio>
 
 
 真题解析
@@ -7974,7 +10988,13 @@ Notes: must表示推测时，一般用于肯定句。
 1. a  2. 去掉must后的to  3. must  4. didn’t  5. must  
 
 # ***\#must*** n
-英音 mʌst     美音 mʌst  
+英音 mʌst  
+英音
+<audio src="./media/must-B.aac"></audio>
+美音 mʌst  
+美音
+<audio src="./media/must.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -7986,10 +11006,17 @@ Notes: must表示推测时，一般用于肯定句。
 
  > His new novel is a must for all lovers of crime fiction.  
  > 他的新作是所有侦探小说爱好者的必读书。    
+<audio src="./media/must-9.aac"></audio>
 
 
 # ***\#mustard*** n
-英音 'mʌstəd     美音 'mʌstərd  
+英音 'mʌstəd  
+英音
+<audio src="./media/mustard-B.aac"></audio>
+美音 'mʌstərd  
+美音
+<audio src="./media/mustard.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8001,7 +11028,13 @@ Notes: must表示推测时，一般用于肯定句。
 
 
 # ***\#mutt*** n
-英音 mʌt     美音 mʌt  
+英音 mʌt  
+英音
+<audio src="./media/mutt1_AAC.aac"></audio>
+美音 mʌt  
+美音
+<audio src="./media/mutt2_AAC.aac"></audio>
+
 
   
 
@@ -8011,7 +11044,13 @@ Notes: must表示推测时，一般用于肯定句。
 
 
 # ***\#mutton*** n
-英音 'mʌtn     美音 'mʌtn  
+英音 'mʌtn  
+英音
+<audio src="./media/mutton-B.aac"></audio>
+美音 'mʌtn  
+美音
+<audio src="./media/mutton.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8023,7 +11062,13 @@ Notes: must表示推测时，一般用于肯定句。
 
 
 # ***\#mutual*** adj
-英音 'mjuːtʃuəl     美音 'mjuːtʃuəl  
+英音 'mjuːtʃuəl  
+英音
+<audio src="./media/mutual-B.aac"></audio>
+美音 'mjuːtʃuəl  
+美音
+<audio src="./media/mutual.aac"></audio>
+
 
 | 词频 1 | 阅读 2 |  
 
@@ -8036,7 +11081,13 @@ Notes: must表示推测时，一般用于肯定句。
 
 
 # ***\#my*** pron
-英音 maɪ     美音 maɪ  
+英音 maɪ  
+英音
+<audio src="./media/my-B.aac"></audio>
+美音 maɪ  
+美音
+<audio src="./media/my.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -8046,6 +11097,7 @@ Notes: must表示推测时，一般用于肯定句。
 
  > I washed my face as soon as I brushed my teeth.   
  > 我刷完牙后，紧接着洗脸。    
+<audio src="./media/my-1.aac"></audio>
 
 
 真题解析
@@ -8056,7 +11108,13 @@ Notes: must表示推测时，一般用于肯定句。
 1. your → my  
 
 # ***\#myself*** pron
-英音 maɪ'self     美音 maɪ'self  
+英音 maɪ'self  
+英音
+<audio src="./media/myself-B.aac"></audio>
+美音 maɪ'self  
+美音
+<audio src="./media/myself.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -8066,11 +11124,13 @@ Notes: must表示推测时，一般用于肯定句。
 
  > I’m teaching myself Latin.   
  > 我在自学拉丁语。    
+<audio src="./media/myself-1.aac"></audio>
 
 ### 2.*高义频：* **我亲自；我本人：**  
 
  > Well, you’ve given me a great preview of Australia. Now I need to see it myself!   
  > 你们已预先让我见识了澳大利亚。现在我要亲自去看看。  （北师大④ – 12）  
+<audio src="./media/myself-2new.aac"></audio>
 
 
 真题解析
@@ -8081,7 +11141,13 @@ Notes: must表示推测时，一般用于肯定句。
 1. myself  
 
 # ***\#mysterious*** adj
-英音 mɪ'stɪəriəs     美音 mɪ'stɪriəs  
+英音 mɪ'stɪəriəs  
+英音
+<audio src="./media/mysterious-B.aac"></audio>
+美音 mɪ'stɪriəs  
+美音
+<audio src="./media/mysterious.aac"></audio>
+
 
 | 词频 2 | 阅读 2 |  
 
@@ -8091,7 +11157,13 @@ Notes: must表示推测时，一般用于肯定句。
 
 
 # ***\#mystery*** n
-英音 'mɪstri     美音 'mɪstri  
+英音 'mɪstri  
+英音
+<audio src="./media/mystery-B.aac"></audio>
+美音 'mɪstri  
+美音
+<audio src="./media/Mystery-1--.aac"></audio>
+
 
 | 词频 4 | 书面 1 | 阅读 3 |  
 
@@ -8109,7 +11181,13 @@ Notes: must表示推测时，一般用于肯定句。
 
 
 # ***\#myth*** n
-英音 mɪθ     美音 mɪθ  
+英音 mɪθ  
+英音
+<audio src="./media/myth1.aac"></audio>
+美音 mɪθ  
+美音
+<audio src="./media/myth2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -8121,7 +11199,13 @@ Notes: must表示推测时，一般用于肯定句。
 
 
 # ***\#mythology*** n
-英音 mɪ'θɒlədʒi     美音 mɪ'θɑːlədʒi  
+英音 mɪ'θɒlədʒi  
+英音
+<audio src="./media/mythology1.aac"></audio>
+美音 mɪ'θɑːlədʒi  
+美音
+<audio src="./media/mythology2.aac"></audio>
+
 
 | 词频 1 |  
 

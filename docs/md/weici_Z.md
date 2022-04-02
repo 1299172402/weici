@@ -1,7 +1,13 @@
 # Zz
 
 # ***\#zebra*** n
-英音 'zi:brə, 'zebrə     美音 'zi:brə, 'zebrə  
+英音 'zi:brə, 'zebrə  
+英音
+<audio src="./media/zebra1.aac"></audio>
+美音 'zi:brə, 'zebrə  
+美音
+<audio src="./media/zebra-m.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -13,7 +19,13 @@
 
 
 # ***\#zero*** n
-英音 'zɪərəʊ     美音 'zɪroʊ  
+英音 'zɪərəʊ  
+英音
+<audio src="./media/zero-B.aac"></audio>
+美音 'zɪroʊ  
+美音
+<audio src="./media/zero.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -25,7 +37,13 @@
 
 
 # ***\#zero*** num
-英音 'zɪərəʊ     美音 'zɪroʊ  
+英音 'zɪərəʊ  
+英音
+<audio src="./media/zero-B.aac"></audio>
+美音 'zɪroʊ  
+美音
+<audio src="./media/zero.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -41,7 +59,13 @@
 
 
 # ***\#zinc*** n
-英音 zɪŋk     美音 zɪŋk  
+英音 zɪŋk  
+英音
+<audio src="./media/zinc1.aac"></audio>
+美音 zɪŋk  
+美音
+<audio src="./media/zinc2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -51,7 +75,13 @@
 
 
 # ***\#zip*** n
-英音 zɪp     美音 zɪp  
+英音 zɪp  
+英音
+<audio src="./media/zip-B.aac"></audio>
+美音 zɪp  
+美音
+<audio src="./media/zip.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -63,7 +93,13 @@
 
 
 # ***\#zip*** v
-英音 zɪp     美音 zɪp  
+英音 zɪp  
+英音
+<audio src="./media/zip-B.aac"></audio>
+美音 zɪp  
+美音
+<audio src="./media/zip.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -73,10 +109,17 @@
 
  > She **zipped up** her dress.   
  > 她拉上了衣服的拉链。    
+<audio src="./media/1-zip.aac"></audio>
 
 
 # ***\#zipper*** n
-英音 'zɪpə(r)     美音 'zɪpər  
+英音 'zɪpə(r)  
+英音
+<audio src="./media/zipper-B.aac"></audio>
+美音 'zɪpər  
+美音
+<audio src="./media/zipper.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -88,7 +131,13 @@
 
 
 # ***\#zone*** n
-英音 zəʊn     美音 zoʊn  
+英音 zəʊn  
+英音
+<audio src="./media/zone-B.aac"></audio>
+美音 zoʊn  
+美音
+<audio src="./media/zone.aac"></audio>
+
 
 | 词频 3 | 书面 1 |  
 
@@ -112,7 +161,13 @@
 
 
 # ***\#zoo*** n
-英音 zuː     美音 zuː  
+英音 zuː  
+英音
+<audio src="./media/zoo-B.aac"></audio>
+美音 zuː  
+美音
+<audio src="./media/zoo.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -124,7 +179,13 @@
 
 
 # ***\#zoology*** n
-英音 zəʊ'ɒlədʒi     美音 zoʊ'ɑːlədʒi  
+英音 zəʊ'ɒlədʒi  
+英音
+<audio src="./media/zoology1.aac"></audio>
+美音 zoʊ'ɑːlədʒi  
+美音
+<audio src="./media/zoology2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -134,7 +195,13 @@
 
 
 # ***\#zoom*** vi
-英音 zuːm     美音 zuːm  
+英音 zuːm  
+英音
+<audio src="./media/zoom-B.aac"></audio>
+美音 zuːm  
+美音
+<audio src="./media/zoom.aac"></audio>
+
 
 | 词频 1 |  
 

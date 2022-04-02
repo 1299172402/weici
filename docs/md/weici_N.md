@@ -1,7 +1,13 @@
 # Nn
 
 # ***\#nachos*** n
-英音 'nætʃəʊz     美音 'nætʃoʊz  
+英音 'nætʃəʊz  
+英音
+<audio src="./media/nachos1_AAC.aac"></audio>
+美音 'nætʃoʊz  
+美音
+<audio src="./media/nachos1_AAC.aac"></audio>
+
 
   
 
@@ -11,7 +17,13 @@
 
 
 # ***\#nail*** n
-英音 neɪl     美音 neɪl  
+英音 neɪl  
+英音
+<audio src="./media/nail-B.aac"></audio>
+美音 neɪl  
+美音
+<audio src="./media/nail.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -21,7 +33,13 @@
 
 
 # ***\#nail*** v
-英音 neɪl     美音 neɪl  
+英音 neɪl  
+英音
+<audio src="./media/nail-B.aac"></audio>
+美音 neɪl  
+美音
+<audio src="./media/nail.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -37,7 +55,13 @@
 
 
 # ***\#naked*** adj
-英音 'neɪkɪd     美音 'neɪkɪd  
+英音 'neɪkɪd  
+英音
+<audio src="./media/naked-B.aac"></audio>
+美音 'neɪkɪd  
+美音
+<audio src="./media/naked.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -47,7 +71,13 @@
 
 
 # ***\#name*** vt
-英音 neɪm     美音 neɪm  
+英音 neɪm  
+英音
+<audio src="./media/name-B.aac"></audio>
+美音 neɪm  
+美音
+<audio src="./media/name.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -57,19 +87,23 @@
 
  > I have a new roommate named Louis.   
  > 我有位新室友，名叫路易斯。  （2008 浙江）  
+<audio src="./media/name-7.aac"></audio>
 
 ### 2.*高义频：* **说出...的名字；列举；选中：**  
 
  > He knows most of the kids at the school, but can't name each one.  
  > 他认识学校里的大多数孩子，但是叫不出每个人的名字。  （2019 天津）  
+<audio src="./media/He knows most of the_AAC.aac"></audio>
 
  > We went 10-1 and I was named most valuable player.  
  > 我们队以10:1取胜，我也被评选为最有价值球员。  （2016全国）  
+<audio src="./media/name50.aac"></audio>
 
 ### 3.*低义频：* **任命**  
 
  > Within six months, she was named a chief resident physician, a position that usually took four years to achieve.  
  > 不到六个月，她被任命为住院主任医师，而升任这一职位通常需要四年时间。  （人教新必修③ – 2）  
+<audio src="./media/Within six months, she was named a chief resident physician2_AAC.aac"></audio>
 
 
 固定搭配
@@ -79,19 +113,28 @@
 
  > Being a huge basketball fan, he wanted to name his son after Jordan.   
  > 他是个狂热的篮球迷，想给儿子取名为乔丹。    
+<audio src="./media/name-9.aac"></audio>
 
  > Jack studied in a village school, which is named after his grandfather.   
  > 杰克曾在一所乡村学校读书，该校是以他爷爷的名字命名的。  （2010 全国）  
+<audio src="./media/name-10.aac"></audio>
 
 ## \#to name but a few
 1.**不一而足；略举几例：**  
 
  > Activities available include cooking, swimming and fishing, to name but a few.  
  > 可进行的活动包括烹饪，游泳和钓鱼，略举几例。    
+<audio src="./media/Activities available_AAC.aac"></audio>
 
 
 # ***\#name*** n
-英音 neɪm     美音 neɪm  
+英音 neɪm  
+英音
+<audio src="./media/name-B.aac"></audio>
+美音 neɪm  
+美音
+<audio src="./media/name.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -103,16 +146,19 @@
 
  > **Sign** your **name** here, please.   
  > 请在这里签上你的名字。    
+<audio src="./media/name-1.aac"></audio>
 
 ### 2.*低义频：* **名声 (reputation)：**  
 
  > The college **has a good name for** teaching languages.  
  > 这个学院的语言教学颇有名气。    
+<audio src="./media/name-2.aac"></audio>
 
 ### 3.*低义频：* **名人：**  
 
  > Some of the **biggest names** in the show business were at the party.  
  > 演艺界的一些大牌明星参加了聚会。    
+<audio src="./media/name51.aac"></audio>
 
 
 固定搭配
@@ -122,28 +168,38 @@
 
  > She is a British athlete by the name of Tanni Grey Thompson.   
  > 她是一名英国运动员，名叫坦妮·格雷·汤普森。  （2008 福建）  
+<audio src="./media/name-3.aac"></audio>
 
 ## \#in the name of 
 1.**在…名下；以…的名义；代表 (in sb’s / sth’s name)：**  
 
  > I’ve booked a table in your name.   
  > 我已经用你的名字预订了一张桌子。    
+<audio src="./media/name-5.aac"></audio>
 
  > I arrest you in the name of the law.   
  > 我依法逮捕你。    
+<audio src="./media/name-4.aac"></audio>
 
 ## \#make a name (for oneself) / make one’s name 
 1.**成名；出名：**  
 
  > She first made her name as a writer of children’s books.   
  > 她最初以写儿童读物成名。    
+<audio src="./media/name-6.aac"></audio>
 
 ## \#under the name of 
 1.**以…为别名**  
 
 
 # ***\#namely*** adv
-英音 'neɪmli     美音 'neɪmli  
+英音 'neɪmli  
+英音
+<audio src="./media/namely-B.aac"></audio>
+美音 'neɪmli  
+美音
+<audio src="./media/namely.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -153,10 +209,17 @@
 
  > Only one person can do the job, namely you.   
  > 只有一个人能做这项工作，那就是你。    
+<audio src="./media/namely-Only one person.aac"></audio>
 
 
 # ***\#nanobot*** n
-英音 'nænəʊbət     美音 'nænəʊbət  
+英音 'nænəʊbət  
+英音
+<audio src="./media/nanobot1_AAC.aac"></audio>
+美音 'nænəʊbət  
+美音
+<audio src="./media/nanobot1_AAC.aac"></audio>
+
 
   
 
@@ -166,7 +229,13 @@
 
 
 # ***\#nap*** n
-英音 næp     美音 næp  
+英音 næp  
+英音
+<audio src="./media/nap1.aac"></audio>
+美音 næp  
+美音
+<audio src="./media/nap2.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -176,7 +245,13 @@
 
 
 # ***\#narcissist*** n
-英音 ˈnɑːsɪsɪst     美音 ˈnɑːrsɪsɪst  
+英音 ˈnɑːsɪsɪst  
+英音
+<audio src="./media/narcissist1_AAC.aac"></audio>
+美音 ˈnɑːrsɪsɪst  
+美音
+<audio src="./media/narcissist2_AAC.aac"></audio>
+
 
   
 
@@ -186,7 +261,13 @@
 
 
 # ***\#narration*** n
-英音 nəˈreɪʃn     美音 nəˈreɪʃn  
+英音 nəˈreɪʃn  
+英音
+<audio src="./media/narration1_AAC.aac"></audio>
+美音 nəˈreɪʃn  
+美音
+<audio src="./media/narration 2_AAC.aac"></audio>
+
 
   
 
@@ -196,7 +277,13 @@
 
 
 # ***\#narrator*** n
-英音 nə'reɪtə(r)     美音 nə'reɪtər  
+英音 nə'reɪtə(r)  
+英音
+<audio src="./media/narrator-B.aac"></audio>
+美音 nə'reɪtər  
+美音
+<audio src="./media/narrator.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -208,7 +295,13 @@
 
 
 # ***\#narrow*** adj
-英音 'nærəʊ     美音 'næroʊ  
+英音 'nærəʊ  
+英音
+<audio src="./media/narrow-B.aac"></audio>
+美音 'næroʊ  
+美音
+<audio src="./media/narrow.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -219,6 +312,7 @@
 
  > As we set out, I was shocked at how narrow the path was.   
  > 出发后，我吃惊地发现这条小路是多么狭窄！  （2008 陕西）  
+<audio src="./media/narrow-1.aac"></audio>
 
 ### 2.*高义频：* **(心胸、视野等) 狭隘的 / 狭窄的：**  
 反义词 broad  
@@ -228,6 +322,7 @@
 
  > She has a very **narrow view** of the world.   
  > 她的世界观非常狭隘。    
+<audio src="./media/narrow-2.aac"></audio>
 
 ### 3.*高义频：* **[常用于名词前] 勉强的；好不容易的：**  
 
@@ -236,7 +331,13 @@
 
 
 # ***\#narrow*** v
-英音 'nærəʊ     美音 'næroʊ  
+英音 'nærəʊ  
+英音
+<audio src="./media/narrow-B.aac"></audio>
+美音 'næroʊ  
+美音
+<audio src="./media/narrow.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -246,9 +347,11 @@
 
  > He had to **narrow** his **eyes** in the strong light of the sun.   
  > 在强烈的阳光下，他只得眯着眼睛。    
+<audio src="./media/narrow-3.aac"></audio>
 
  > The gorge **narrows to** 350 feet as the river rushes through the two-mile-high mountains.  
  > 江水在两英里高的峰峦间奔流，峡谷最窄处只有350英尺。    
+<audio src="./media/narrow-4.aac"></audio>
 
  > narrow the generation gap  
  > 缩小代沟    
@@ -262,7 +365,13 @@
 1. narrow  
 
 # ***\#narrowly*** adv
-英音 'nærəʊli     美音 'næroʊli  
+英音 'nærəʊli  
+英音
+<audio src="./media/narrowly-B.aac"></audio>
+美音 'næroʊli  
+美音
+<audio src="./media/narrowly.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -272,6 +381,7 @@
 
  > The car narrowly missed a cyclist.   
  > 汽车差点儿撞上一位骑自行车的人。    
+<audio src="./media/narrowly-1.aac"></audio>
 
 
 真题解析
@@ -282,7 +392,13 @@
 1. narrowly  
 
 # ***\#nasty*** adj
-英音 'nɑːsti     美音 'næsti  
+英音 'nɑːsti  
+英音
+<audio src="./media/Nasty-B.aac"></audio>
+美音 'næsti  
+美音
+<audio src="./media/nasty.aac"></audio>
+
 
 | 词频 1 | 口语 2 |  
 
@@ -292,7 +408,13 @@
 
 
 # ***\#nation*** n
-英音 'neɪʃn     美音 'neɪʃn  
+英音 'neɪʃn  
+英音
+<audio src="./media/nation-B.aac"></audio>
+美音 'neɪʃn  
+美音
+<audio src="./media/nation.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -315,12 +437,14 @@
 
  > The state provides free education.  
  > 政府提供免费教育。    
+<audio src="./media/5-country.aac"></audio>
 
 
 ### 2.*高义频：* **[总称，谓语动词常用单数] 国民：**  
 
  > The entire nation was watching the developments of the incident.   
  > 全国人民都在关注这一事件的进展。    
+<audio src="./media/nation-1.aac"></audio>
 
 ### 3.*低义频：* **民族：**  
 
@@ -329,7 +453,13 @@
 
 
 # ***\#national*** adj
-英音 'næʃnəl     美音 'næʃnəl  
+英音 'næʃnəl  
+英音
+<audio src="./media/national-B.aac"></audio>
+美音 'næʃnəl  
+美音
+<audio src="./media/national.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -350,7 +480,13 @@
 
 
 # ***\#nationalism*** n
-英音 'næʃnəlɪzəm     美音 'næʃnəlɪzəm  
+英音 'næʃnəlɪzəm  
+英音
+<audio src="./media/nationalism-b.aac"></audio>
+美音 'næʃnəlɪzəm  
+美音
+<audio src="./media/nationalism.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -360,7 +496,13 @@
 
 
 # ***\#nationality*** n
-英音 ˌnæʃə'næləti     美音 ˌnæʃə'næləti  
+英音 ˌnæʃə'næləti  
+英音
+<audio src="./media/nationality-B.aac"></audio>
+美音 ˌnæʃə'næləti  
+美音
+<audio src="./media/nationality.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -370,6 +512,7 @@
 
  > She lives in France but has **British nationality**.  
  > 她住在法国，但有英国国籍。    
+<audio src="./media/nationality-1.aac"></audio>
 
 ### 2.*低义频：* **[C] 民族：**  
 
@@ -385,7 +528,13 @@
 1. nationality  
 
 # ***\#nationwide*** adj
-英音 ˌneɪʃn'waɪd     美音 ˌneɪʃn'waɪd  
+英音 ˌneɪʃn'waɪd  
+英音
+<audio src="./media/nationwide-B.aac"></audio>
+美音 ˌneɪʃn'waɪd  
+美音
+<audio src="./media/nationwide.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -395,10 +544,17 @@
 
  > China began a nationwide public service advertising campaign in 1996.   
  > 1996年中国开展了一次全国性的公益广告活动。  （译林④ – 1）  
+<audio src="./media/nationwide-1.aac"></audio>
 
 
 # ***\#nationwide*** adv
-英音 ˌneɪʃn'waɪd     美音 ˌneɪʃn'waɪd  
+英音 ˌneɪʃn'waɪd  
+英音
+<audio src="./media/nationwide-B.aac"></audio>
+美音 ˌneɪʃn'waɪd  
+美音
+<audio src="./media/nationwide.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -408,10 +564,17 @@
 
  > The company has over 500 chain stores nationwide.  
  > 这个公司在全国有500多家连锁店。    
+<audio src="./media/nationwide-2.aac"></audio>
 
 
 # ***\#native*** adj
-英音 'neɪtɪv     美音 'neɪtɪv  
+英音 'neɪtɪv  
+英音
+<audio src="./media/native-B.aac"></audio>
+美音 'neɪtɪv  
+美音
+<audio src="./media/native.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 |  
 
@@ -421,9 +584,11 @@
 
  > You speak English like a **native speaker**.   
  > 你英语讲得就像以英语为母语的人似的。    
+<audio src="./media/native-1.aac"></audio>
 
  > My wife’s a **native New Yorker**, but I’m from Atlanta.  
  > 我妻子是纽约本地人，而我来自亚特兰大。    
+<audio src="./media/native-2.aac"></audio>
 
 
 固定搭配
@@ -433,10 +598,17 @@
 
  > Moa birds were native to New Zealand, but are now extinct.  
  > 恐鸟原产于新西兰，但现在已经灭绝了。  （北师大新必修② – 5）  
+<audio src="./media/Moa birds were native to New Zealand, but are now extinct2_AAC.aac"></audio>
 
 
 # ***\#native*** n
-英音 'neɪtɪv     美音 'neɪtɪv  
+英音 'neɪtɪv  
+英音
+<audio src="./media/native-B.aac"></audio>
+美音 'neɪtɪv  
+美音
+<audio src="./media/native.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -451,7 +623,13 @@
 
 
 # ***\#natural*** adj
-英音 'nætʃrəl     美音 'nætʃrəl  
+英音 'nætʃrəl  
+英音
+<audio src="./media/natural-B.aac"></audio>
+美音 'nætʃrəl  
+美音
+<audio src="./media/natural.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 3 |  
 
@@ -466,15 +644,23 @@
 
  > **It is natural to** laugh when you are happy.  
  > 高兴时大笑是很自然的。    
+<audio src="./media/natural-1.aac"></audio>
 
 ### 3.*高义频：* **天生的：**  
 
  > She has a natural talent for music.  
  > 她有音乐天赋。    
+<audio src="./media/natural-2.aac"></audio>
 
 
 # ***\#naturally*** adv
-英音 'nætʃrəli     美音 'nætʃrəli  
+英音 'nætʃrəli  
+英音
+<audio src="./media/naturally-B.aac"></audio>
+美音 'nætʃrəli  
+美音
+<audio src="./media/naturally.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 |  
 
@@ -484,9 +670,11 @@
 
  > **Naturally enough**, she wanted her child to grow up fit and strong.   
  > 很自然，她希望自己的孩子健康茁壮地成长。  （外研④ – 5）  
+<audio src="./media/naturally-1.aac"></audio>
 
  > My hair is naturally curly.  
  > 我的头发天生就是卷曲的。    
+<audio src="./media/naturally51.aac"></audio>
 
 
 真题解析
@@ -497,7 +685,13 @@
 1. naturally  
 
 # ***\#nature*** n
-英音 'neɪtʃə(r)     美音 'neɪtʃər  
+英音 'neɪtʃə(r)  
+英音
+<audio src="./media/nature-B.aac"></audio>
+美音 'neɪtʃər  
+美音
+<audio src="./media/nature.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -507,12 +701,14 @@
 
  > Not only did the mountain-climbing get us close to nature, it also promoted friendship between us.   
  > 爬山不仅让我们接近大自然，也增进了我们之间的友谊。  （2013 江西改）  
+<audio src="./media/nature-1-1.aac"></audio>
 
 Notes: nature意为“大自然”时，其前不加冠词。  
 ### 2.*高义频：* **天性；本性：**  
 
  > Being naughty is children’s nature.  
  > 顽皮是孩子们的天性。    
+<audio src="./media/nature-2.aac"></audio>
 
 ### 3.*低义频：* **特点；性质**  
 
@@ -524,22 +720,31 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
  > City workers want to get back to nature in their holidays.  
  > 城市上班族希望休假时可以回归自然。    
+<audio src="./media/City workers want to _AAC.aac"></audio>
 
 ## \#by nature 
 1.**天生地；出于本性地：**  
 
  > Children are curious by nature.   
  > 孩子生性好奇。    
+<audio src="./media/nature-3.aac"></audio>
 
 ## \#in sb’s nature 
 1.**本性如此：**  
 
  > It is not in his nature to be “selfish” and “rude”.  
  > “自私”和“粗鲁”不是他的本性。  （外研⑦ – 1）  
+<audio src="./media/nature-4.aac"></audio>
 
 
 # ***\#naughty*** adj
-英音 'nɔːti     美音 'nɔːti  
+英音 'nɔːti  
+英音
+<audio src="./media/naughty-B.aac"></audio>
+美音 'nɔːti  
+美音
+<audio src="./media/naughty.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -549,7 +754,13 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 
 # ***\#navigate*** vt
-英音 ˈnævɪɡeɪt     美音 ˈnævɪɡeɪt  
+英音 ˈnævɪɡeɪt  
+英音
+<audio src="./media/navigate1_AAC.aac"></audio>
+美音 ˈnævɪɡeɪt  
+美音
+<audio src="./media/navigate2_AAC.aac"></audio>
+
 
   
 
@@ -559,7 +770,13 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 
 # ***\#navigate*** vi
-英音 ˈnævɪɡeɪt     美音 ˈnævɪɡeɪt  
+英音 ˈnævɪɡeɪt  
+英音
+<audio src="./media/navigate1_AAC.aac"></audio>
+美音 ˈnævɪɡeɪt  
+美音
+<audio src="./media/navigate2_AAC.aac"></audio>
+
 
   
 
@@ -569,7 +786,13 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 
 # ***\#navigation*** n
-英音 ˌnævɪ'ɡeɪʃn     美音 ˌnævɪ'ɡeɪʃn  
+英音 ˌnævɪ'ɡeɪʃn  
+英音
+<audio src="./media/navigation-B.aac"></audio>
+美音 ˌnævɪ'ɡeɪʃn  
+美音
+<audio src="./media/navigation.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -581,7 +804,13 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 
 # ***\#navigator*** n
-英音 'nævɪɡeɪtə(r)     美音 'nævɪɡeɪtər  
+英音 'nævɪɡeɪtə(r)  
+英音
+<audio src="./media/navigator1.aac"></audio>
+美音 'nævɪɡeɪtər  
+美音
+<audio src="./media/navigator2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -591,7 +820,13 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 
 # ***\#navy*** n
-英音 'neɪvi     美音 'neɪvi  
+英音 'neɪvi  
+英音
+<audio src="./media/navy-B.aac"></audio>
+美音 'neɪvi  
+美音
+<audio src="./media/navy.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -606,7 +841,13 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 
 # ***\#near*** prep
-英音 nɪə(r)     美音 nɪr  
+英音 nɪə(r)  
+英音
+<audio src="./media/near-B.aac"></audio>
+美音 nɪr  
+美音
+<audio src="./media/near.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -616,9 +857,11 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
  > She sits near the window in the classroom.   
  > 她坐在教室里靠窗户的地方。    
+<audio src="./media/near-1.aac"></audio>
 
  > It’s near Christmas.  
  > 圣诞节快到了。    
+<audio src="./media/It’s near Christmas_AAC.aac"></audio>
 
 #### 辨析 by, near
 二者都可作介词，表示“在附近”，但也有细微差别。  
@@ -626,11 +869,18 @@ Notes: nature意为“大自然”时，其前不加冠词。
 **near** 有时表示距离较远。
  > We live near the sea.  
  > 我们住得离海很近。(通常看不到海)    
+<audio src="./media/3-by.aac"></audio>
 
 
 
 # ***\#near*** adj
-英音 nɪə(r)     美音 nɪr  
+英音 nɪə(r)  
+英音
+<audio src="./media/near-B.aac"></audio>
+美音 nɪr  
+美音
+<audio src="./media/near.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 1 |  
 
@@ -640,6 +890,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
  > We could have walked to the station; it was so near.  
  > 我们本来可以步行去车站的，很近。    
+<audio src="./media/near-2.aac"></audio>
 
  > come by the nearest route   
  > 从最近的路线来    
@@ -649,7 +900,13 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 
 # ***\#near*** adv
-英音 nɪə(r)     美音 nɪr  
+英音 nɪə(r)  
+英音
+<audio src="./media/near-B.aac"></audio>
+美音 nɪr  
+美音
+<audio src="./media/near.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -659,13 +916,21 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
  > A train is **coming near** quickly.   
  > 一列火车飞速驶来。    
+<audio src="./media/near-3.aac"></audio>
 
  > The exams are **drawing near**.   
  > 考试越来越近了。    
+<audio src="./media/near-4.aac"></audio>
 
 
 # ***\#near*** v
-英音 nɪə(r)     美音 nɪr  
+英音 nɪə(r)  
+英音
+<audio src="./media/near-B.aac"></audio>
+美音 nɪr  
+美音
+<audio src="./media/near.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 1 |  
 
@@ -677,9 +942,14 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
  > As the wedding day neared, I started to have second thoughts about getting married.  
  > 随着结婚日期的临近，我开始重新考虑结婚的事。    
+<audio src="./media/P290 near1.aac"></audio>
 
 
 # ***\#near-surface*** adj
+英音
+<audio src="./media/near-surface1_AAC.aac"></audio>
+美音
+<audio src="./media/near-surface2_AAC.aac"></audio>
 
 
   
@@ -690,7 +960,13 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 
 # ***\#nearby*** adv
-英音 ˌnɪə'baɪ     美音 ˌnɪr'baɪ  
+英音 ˌnɪə'baɪ  
+英音
+<audio src="./media/nearby-B.aac"></audio>
+美音 ˌnɪr'baɪ  
+美音
+<audio src="./media/nearby.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -700,13 +976,21 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
  > The plane landed nearby.  
  > 飞机在不远处着陆。    
+<audio src="./media/nearby-2.aac"></audio>
 
  > There was an old man sitting quietly on a bench nearby.   
  > 有位老人静静地坐在旁边的长凳上。    
+<audio src="./media/nearby-1.aac"></audio>
 
 
 # ***\#nearby*** adj
-英音 ˌnɪə'baɪ     美音 ˌnɪr'baɪ  
+英音 ˌnɪə'baɪ  
+英音
+<audio src="./media/nearby-B.aac"></audio>
+美音 ˌnɪr'baɪ  
+美音
+<audio src="./media/nearby.aac"></audio>
+
 
 | 词频 4 | 书面 1 |  
 
@@ -719,7 +1003,13 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
 
 # ***\#nearly*** adv
-英音 'nɪəli     美音 'nɪəli  
+英音 'nɪəli  
+英音
+<audio src="./media/nearly-B.aac"></audio>
+美音 'nɪəli  
+美音
+<audio src="./media/nearly.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -729,9 +1019,11 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
  > I stayed there for nearly three months.  
  > 我在那里待了将近三个月。  （人教⑦ – 1）  
+<audio src="./media/nearly-1.aac"></audio>
 
  > The building is nearly completed.   
  > 这幢大楼即将竣工。    
+<audio src="./media/nearly-2.aac"></audio>
 
 #### 辨析 almost, nearly
 二者都是副词，在肯定句中常可换用。区别如下：  
@@ -739,6 +1031,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
 **nearly** 可与 not 连用，但 almost 不可。not nearly 意为“一点也不”、“远非”。
  > He’s not nearly as good-looking as his brother.  
  > 他远不如他哥哥长得好看。    
+<audio src="./media/almost-4.aac"></audio>
 
 
 
@@ -749,10 +1042,17 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
  > It’s not nearly as hot as last year.   
  > 天气远没有去年那么热。    
+<audio src="./media/nearly-3.aac"></audio>
 
 
 # ***\#neat*** adj
-英音 niːt     美音 niːt  
+英音 niːt  
+英音
+<audio src="./media/neat-B.aac"></audio>
+美音 niːt  
+美音
+<audio src="./media/neat.aac"></audio>
+
 
 | 词频 2 | 口语 2 |  
 
@@ -762,9 +1062,11 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
  > He always keeps his desk neat.  
  > 他总是保持桌子整洁。    
+<audio src="./media/He always keeps his desk neat2_AAC.aac"></audio>
 
  > I arranged all the books in a neat row.  
  > 我把所有的书整整齐齐地排好。  （人教新必修③ – 3改）  
+<audio src="./media/I arranged all the books in a neat row2_AAC.aac"></audio>
 
 ### 2.*高义频：* **(人) (爱) 整洁的：**  
 
@@ -775,6 +1077,7 @@ Notes: nature意为“大自然”时，其前不加冠词。
 
  > We had a great time yesterday— it was pretty neat.  
  > 我们昨天玩得很愉快，棒极了。    
+<audio src="./media/We had a great time yesterday— it was pretty neat2_AAC.aac"></audio>
 
 
 派生词汇
@@ -782,7 +1085,13 @@ Notes: nature意为“大自然”时，其前不加冠词。
 neatly /niːtli/ adv   
 
 # ***\#necessarily*** adv
-英音 ˌnesə'serəli,'nesəsərəli     美音 ˌnesə'serəli  
+英音 ˌnesə'serəli,'nesəsərəli  
+英音
+<audio src="./media/necessarily1--.aac"></audio>
+美音 ˌnesə'serəli  
+美音
+<audio src="./media/necessarily.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 2 |  
 
@@ -792,10 +1101,17 @@ neatly /niːtli/ adv
 
  > Expensive restaurants are **not necessarily** the best.  
  > 贵的饭店未必是最好的。    
+<audio src="./media/necessarily-1.aac"></audio>
 
 
 # ***\#necessary*** adj
-英音 'nesəsəri     美音 'nesəseri  
+英音 'nesəsəri  
+英音
+<audio src="./media/necessary-B.aac"></audio>
+美音 'nesəseri  
+美音
+<audio src="./media/necessary.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 3 |  
 
@@ -805,34 +1121,41 @@ neatly /niːtli/ adv
 
  > The booklet provides all the necessary information about the college.   
  > 这本手册提供有关这所大学的所有必要信息。    
+<audio src="./media/necessary-1.aac"></audio>
 
 - it is necessary (for sb) to do sth:
 
  > It is necessary for me to learn to live on my own.   
  > 我有必要学会独立生活。    
+<audio src="./media/necessary-2.aac"></audio>
 
 - it is necessary that … (should) do sth:
 
  > It’s necessary that you (should) trust each other.   
  > 你们必须互相信任。    
+<audio src="./media/necessary-3.aac"></audio>
 
 - make it necessary (for sb) to do sth:
 
  > Her mother’s death made it necessary for her to work.   
  > 母亲去世，她不得不去工作。    
+<audio src="./media/necessary-4.aac"></audio>
 
 - (be) necessary for (doing) sth:
 
  > Nutrition is necessary for life.  
  > 营养是生命所必需的。  （2015 安徽）  
+<audio src="./media/P291 necessary1.aac"></audio>
 
  > A good diet is necessary for maintaining a healthy body.  
  > 想保持身体健康，合理的饮食必不可少。    
+<audio src="./media/P291 necessary2.aac"></audio>
 
 ### 2.*高义频：* **[只用于名词前] 必然的；不可避免的：**  
 
  > Some don’t agree that environmental pollution is a necessary consequence of development.  
  > 有些人认为环境污染并不是发展的必然结果。    
+<audio src="./media/Some don’t agree that_AAC.aac"></audio>
 
 
 固定搭配
@@ -845,16 +1168,24 @@ neatly /niːtli/ adv
 
  > We should help those who are in great need if necessary.  
  > 必要的话，我们应该帮助那些非常需要帮助的人。  （2012 湖南书面表达）  
+<audio src="./media/necessary-6.aac"></audio>
 
 ## \#when necessary 
 1.**必要时：**  
 
  > The army needs men who are willing to fight, when necessary.  
  > 军队需要必要时愿意投入战斗的人。    
+<audio src="./media/The army needs men_AAC.aac"></audio>
 
 
 # ***\#necessity*** n
-英音 nə'sesəti     美音 nə'sesəti  
+英音 nə'sesəti  
+英音
+<audio src="./media/necessity-B.aac"></audio>
+美音 nə'sesəti  
+美音
+<audio src="./media/necessity.aac"></audio>
+
 
 | 词频 2 | 阅读 2 |  
 
@@ -864,18 +1195,27 @@ neatly /niːtli/ adv
 
  > We were discussing **the necessity of** employing more staff.   
  > 当时我们正在讨论是否有必要雇佣更多的员工。    
+<audio src="./media/necessity-2.aac"></audio>
 
  > We took the country road **out of necessity**.  
  > 出于需要我们走了乡间小路。  （2013 天津）  
+<audio src="./media/P291 necessity1.aac"></audio>
 
 ### 2.*低义频：* **[C] 必需品；必要之物：**  
 
  > For many Americans the automobile is a necessity.  
  > 对于很多美国人来说，汽车是必需品。    
+<audio src="./media/necessity-3.aac"></audio>
 
 
 # ***\#neck*** n
-英音 nek     美音 nek  
+英音 nek  
+英音
+<audio src="./media/neck-B.aac"></audio>
+美音 nek  
+美音
+<audio src="./media/neck.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 2 |  
 
@@ -890,10 +1230,17 @@ neatly /niːtli/ adv
 
  > She wears a gold necklace **around her neck**.   
  > 她脖子上戴着金项链。    
+<audio src="./media/neck-1.aac"></audio>
 
 
 # ***\#necklace*** n
-英音 'nekləs     美音 'nekləs  
+英音 'nekləs  
+英音
+<audio src="./media/necklace-B.aac"></audio>
+美音 'nekləs  
+美音
+<audio src="./media/necklace.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -905,7 +1252,13 @@ neatly /niːtli/ adv
 
 
 # ***\#necktie*** n
-英音 ˈnektaɪ     美音 ˈnektaɪ  
+英音 ˈnektaɪ  
+英音
+<audio src="./media/necktie1_AAC.aac"></audio>
+美音 ˈnektaɪ  
+美音
+<audio src="./media/necktie2_AAC.aac"></audio>
+
 
   
 
@@ -915,7 +1268,13 @@ neatly /niːtli/ adv
 
 
 # ***\#need*** n  重难点词汇
-英音 niːd     美音 niːd  
+英音 niːd  
+英音
+<audio src="./media/need-B.aac"></audio>
+美音 niːd  
+美音
+<audio src="./media/need.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -925,14 +1284,17 @@ neatly /niːtli/ adv
 
  > There is **a need for** more communication between parents and children.   
  > 父母和孩子之间需要更多的交流。    
+<audio src="./media/need-11.aac"></audio>
 
 - (there’s) no need (for sb) to do sth:
 
  > There is no need to regret what has happened.   
  > 没必要为已经发生的事感到后悔。    
+<audio src="./media/need-12.aac"></audio>
 
  > Everything is fine with me; there is no need for you to be concerned.   
  > 我一切都好，你不必挂念。    
+<audio src="./media/need-13.aac"></audio>
 
 ### 2.*高义频：* **[C] [常用复数] 需求；需用的东西：**  
 
@@ -947,15 +1309,18 @@ neatly /niːtli/ adv
 
  > A friend in need is a friend indeed.   
  > 患难见真情。    
+<audio src="./media/need-14.aac"></audio>
 
  > Everyone in our society should help those in need.  
  > 我们社会上的每个人都应该帮助那些有困难的人。  （2016 江苏书面表达）  
+<audio src="./media/need50.aac"></audio>
 
 ## \#in need of
 1.**需要：**  
 
  > The gentleman never fails to help whoever is in need of help.  
  > 这位先生总是帮助任何需要帮助的人。    
+<audio src="./media/The gentleman never fails_AAC.aac"></audio>
 
 
 派生词汇
@@ -970,7 +1335,13 @@ needy /'niːdi/ adj
 1. in  
 
 # ***\#need*** vt  重难点词汇
-英音 niːd     美音 niːd  
+英音 niːd  
+英音
+<audio src="./media/need-B.aac"></audio>
+美音 niːd  
+美音
+<audio src="./media/need.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -980,27 +1351,33 @@ needy /'niːdi/ adj
 
  > These students **badly needed** an improvement in confidence.   
  > 这些学生迫切需要增强自信心。    
+<audio src="./media/need-1.aac"></audio>
 
 - need ... for sth:
 
  > They need another player for a basketball game.  
  > 他们还需要一名球员参加篮球比赛。  （2013 全国）  
+<audio src="./media/They need another player_AAC.aac"></audio>
 
  > A lot of skills are needed for the job.  
  > 这项工作需要很多技能。  （2021新高考）  
+<audio src="./media/A lot of skills are needed for the job2_AAC.aac"></audio>
 
 - need (sb) to do sth:
 
  > Since you know it already, we don’t need to keep it a secret.   
  > 既然你已经知道了，我们就没有必要保密了。    
+<audio src="./media/need-2.aac"></audio>
 
  > I need you to help me with the cooking.  
  > 我需要你帮我做饭。    
+<audio src="./media/I need you to help _AAC.aac"></audio>
 
 - need doing / need to be done:
 
  > My windows need cleaning and my car needs washing. / My windows need to be cleaned and my car needs to be washed.   
  > 我的窗户需要擦干净，我的车子需要冲洗。  （2009 北京改）  
+<audio src="./media/need-4.aac"></audio>
 
 Notes: need后接动词-ing时，用主动形式表示被动含义。  
 
@@ -1013,7 +1390,13 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 1. was needed  2. to be done / doing  
 
 # ***\#need*** modal v  重难点词汇
-英音 niːd     美音 niːd  
+英音 niːd  
+英音
+<audio src="./media/need-B.aac"></audio>
+美音 niːd  
+美音
+<audio src="./media/need.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1023,9 +1406,11 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 
  > My room is a mess, but I needn’t clean it before I go out tonight.  
  > 我的房间很脏乱，但是我今晚出去前不需要打扫。  （2017 天津）  
+<audio src="./media/My room is a mess_AAC.aac"></audio>
 
  > — Need we come?   
  > 我们需要来吗?    
+<audio src="./media/need-7.aac"></audio>
 
  > — Yes, you must. / No, you needn’t.   
  > 是的，你们必须来。/不，你们不必来。    
@@ -1038,6 +1423,7 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 
  > As you worked late yesterday, you needn’t have come this morning.  
  > 你昨天工作到很晚，今天早上你原本可以不来。    
+<audio src="./media/As you worked late yesterday_AAC.aac"></audio>
 
 
 真题解析
@@ -1048,7 +1434,13 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 1. needn’t have worried  
 
 # ***\#needle*** n
-英音 'niːdl     美音 'niːdl  
+英音 'niːdl  
+英音
+<audio src="./media/needle-B.aac"></audio>
+美音 'niːdl  
+美音
+<audio src="./media/needle.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1066,7 +1458,13 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 
 
 # ***\#negate*** vt
-英音 nɪˈɡeɪt     美音 nɪˈɡeɪt  
+英音 nɪˈɡeɪt  
+英音
+<audio src="./media/negate1_AAC.aac"></audio>
+美音 nɪˈɡeɪt  
+美音
+<audio src="./media/negate1_AAC.aac"></audio>
+
 
   
 
@@ -1076,7 +1474,13 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 
 
 # ***\#negative*** adj
-英音 'neɡətɪv     美音 'neɡətɪv  
+英音 'neɡətɪv  
+英音
+<audio src="./media/negative-B.aac"></audio>
+美音 'neɡətɪv  
+美音
+<audio src="./media/negative.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
 
@@ -1089,15 +1493,18 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 
  > I have a negative opinion on the value of this idea while others are positive about it.  
  > 我对这个想法的价值持否定观点，而其他人持肯定观点。    
+<audio src="./media/I have a negative opinion on the value _AAC.aac"></audio>
 
 ### 2.*高义频：* **负面的；消极的：**  
 反义词 positive 
 
  > In my opinion, the Internet has **negative effects on** our lives.   
  > 在我看来，互联网对我们的生活有负面影响。  （译林⑦ – 3）  
+<audio src="./media/negative-1.aac"></audio>
 
  > A **negative attitude** will never give you a positive life.  
  > 消极的态度永远不会带来美好的人生。    
+<audio src="./media/A negative attitude will_AAC.aac"></audio>
 
 ### 3.*高义频：* **(电 / 数字) 负的；(医) 阴性的**  
 反义词 positive 
@@ -1107,7 +1514,13 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 
 
 # ***\#negative*** n
-英音 'neɡətɪv     美音 'neɡətɪv  
+英音 'neɡətɪv  
+英音
+<audio src="./media/negative-B.aac"></audio>
+美音 'neɡətɪv  
+美音
+<audio src="./media/negative.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -1117,7 +1530,13 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 
 
 # ***\#neglect*** vt
-英音 nɪ'ɡlekt     美音 nɪ'ɡlekt  
+英音 nɪ'ɡlekt  
+英音
+<audio src="./media/neglect-B.aac"></audio>
+美音 nɪ'ɡlekt  
+美音
+<audio src="./media/neglect.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -1130,13 +1549,21 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 
  > When an opportunity is neglected, it never comes back to you.   
  > 机不可失，时不再来。    
+<audio src="./media/neglect-1.aac"></audio>
 
  > I **neglected to** lock the door.   
  > 我忘了锁门。    
+<audio src="./media/neglect-2.aac"></audio>
 
 
 # ***\#negotiable*** adj
-英音 nɪ'ɡəʊʃiəbl     美音 nɪ'ɡoʊʃiəbl  
+英音 nɪ'ɡəʊʃiəbl  
+英音
+<audio src="./media/negotiable1_AAC.aac"></audio>
+美音 nɪ'ɡoʊʃiəbl  
+美音
+<audio src="./media/negotiable1_AAC.aac"></audio>
+
 
   
 
@@ -1146,7 +1573,13 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 
 
 # ***\#negotiate*** v
-英音 nɪ'ɡəʊʃieɪt     美音 nɪ'ɡoʊʃieɪt  
+英音 nɪ'ɡəʊʃieɪt  
+英音
+<audio src="./media/negotiate-B.aac"></audio>
+美音 nɪ'ɡoʊʃieɪt  
+美音
+<audio src="./media/negotiate.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 1 |  
 
@@ -1157,9 +1590,11 @@ Notes: need后接动词-ing时，用主动形式表示被动含义。
 
  > The government refused to **negotiate with** terrorists.  
  > 政府拒绝与恐怖分子谈判。    
+<audio src="./media/The government refused_AAC.aac"></audio>
 
  > We have been **negotiating for** more pay.  
  > 我们一直在为增加工资进行协商。    
+<audio src="./media/We have been negotiating_AAC.aac"></audio>
 
 ### 2.*高义频：* **vt 商定；达成 (协议)：**  
 
@@ -1179,7 +1614,13 @@ negotiable /nɪ'ɡəʊʃiəbl/ adj
 1. with  
 
 # ***\#negotiation*** n
-英音 nɪˌɡəʊʃiˈeɪʃn     美音 nɪˌɡəʊʃiˈeɪʃn  
+英音 nɪˌɡəʊʃiˈeɪʃn  
+英音
+<audio src="./media/negotiation1_AAC.aac"></audio>
+美音 nɪˌɡəʊʃiˈeɪʃn  
+美音
+<audio src="./media/negotiation2_AAC.aac"></audio>
+
 
   
 
@@ -1189,7 +1630,13 @@ negotiable /nɪ'ɡəʊʃiəbl/ adj
 
 
 # ***\#neigh*** n
-英音 neɪ     美音 neɪ  
+英音 neɪ  
+英音
+<audio src="./media/neigh1.aac"></audio>
+美音 neɪ  
+美音
+<audio src="./media/neigh2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1199,7 +1646,13 @@ negotiable /nɪ'ɡəʊʃiəbl/ adj
 
 
 # ***\#neigh*** v
-英音 neɪ     美音 neɪ  
+英音 neɪ  
+英音
+<audio src="./media/neigh1.aac"></audio>
+美音 neɪ  
+美音
+<audio src="./media/neigh2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1209,7 +1662,13 @@ negotiable /nɪ'ɡəʊʃiəbl/ adj
 
 
 # ***\#neighbo(u)r*** n
-英音 'neɪbə(r)     美音 'neɪbər  
+英音 'neɪbə(r)  
+英音
+<audio src="./media/neighbor-B.aac"></audio>
+美音 'neɪbər  
+美音
+<audio src="./media/neighbo(u)r.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 2 |  
 
@@ -1227,6 +1686,7 @@ negotiable /nɪ'ɡəʊʃiəbl/ adj
 
  > A good neighbour is better than a brother far off.   
  > 远亲不如近邻。    
+<audio src="./media/neighbo(u)r-1.aac"></audio>
 
 
 真题解析
@@ -1237,7 +1697,13 @@ negotiable /nɪ'ɡəʊʃiəbl/ adj
 1. neighbo(u)rs  
 
 # ***\#neighbo(u)rhood*** n
-英音 'neɪbəhʊd     美音 'neɪbərhʊd  
+英音 'neɪbəhʊd  
+英音
+<audio src="./media/neighborhood-B.aac"></audio>
+美音 'neɪbərhʊd  
+美音
+<audio src="./media/neighbo(u)rhood.aac"></audio>
+
 
 | 词频 4 | 书面 1 |  
 
@@ -1247,21 +1713,31 @@ negotiable /nɪ'ɡəʊʃiəbl/ adj
 
  > I live in a quiet neighbourhood.   
  > 我居住的社区很安静。    
+<audio src="./media/neighbo(u)rhood-1.aac"></audio>
 
  > The houses in that neighbourhood are expensive.   
  > 那个地段的房子很贵。    
+<audio src="./media/neighbo(u)rhood-2.aac"></audio>
 
 ### 2.*高义频：* **[集体名词，用the neighbourhood，谓语动词用单数] 附近地区 (的居民)：**  
 
  > **All the neighbourhood** is aware of it.   
  > 所有邻居都知道这件事。    
+<audio src="./media/neighbo(u)rhood-3.aac"></audio>
 
  > I want to live **in the neighbourhood of** my office.   
  > 我想住在公司附近。    
+<audio src="./media/neighbo(u)rhood-4.aac"></audio>
 
 
 # ***\#neighbour*** n
-英音 ˈneɪbə(r)     美音 ˈneɪbər  
+英音 ˈneɪbə(r)  
+英音
+<audio src="./media/neighbor-B.aac"></audio>
+美音 ˈneɪbər  
+美音
+<audio src="./media/neighbo(u)r.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -1271,7 +1747,13 @@ negotiable /nɪ'ɡəʊʃiəbl/ adj
 
 
 # ***\#neighbourhood*** n
-英音 'neɪbəhʊd     美音 'neɪbərhʊd  
+英音 'neɪbəhʊd  
+英音
+<audio src="./media/neighbourhood1.aac"></audio>
+美音 'neɪbərhʊd  
+美音
+<audio src="./media/neighbourhood2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1281,7 +1763,13 @@ negotiable /nɪ'ɡəʊʃiəbl/ adj
 
 
 # ***\#neighbourly*** adj
-英音 ˈneɪbəli     美音 ˈneɪbərli  
+英音 ˈneɪbəli  
+英音
+<audio src="./media/neighbourly1_AAC.aac"></audio>
+美音 ˈneɪbərli  
+美音
+<audio src="./media/neighbourly2_AAC.aac"></audio>
+
 
   
 
@@ -1291,7 +1779,13 @@ negotiable /nɪ'ɡəʊʃiəbl/ adj
 
 
 # ***\#neither*** pron
-英音 'naɪðə(r),'niːðə(r)     美音 'naɪðər,'niːðər  
+英音 'naɪðə(r),'niːðə(r)  
+英音
+<audio src="./media/neither1.aac"></audio>
+美音 'naɪðər,'niːðər  
+美音
+<audio src="./media/neither.aac"></audio>
+
 
 | 词频 4 | 书面 1 |  
 
@@ -1301,9 +1795,11 @@ negotiable /nɪ'ɡəʊʃiəbl/ adj
 
  > Now neither of my parents give me money.   
  > 现在，父母都不给我钱了。  （北师大④ – 11）  
+<audio src="./media/neither-2.aac"></audio>
 
  > **Neither of them** has / have a car.   
  > 他们两个都没车。    
+<audio src="./media/neither-3.aac"></audio>
 
 Notes: “neither of + 复数名词 / 代词”作主语时，谓语动词既可以用单数，也可以用复数。  
 
@@ -1317,7 +1813,13 @@ Notes: “neither of + 复数名词 / 代词”作主语时，谓语动词既可
 1. neither  2. neither  3. neither   
 
 # ***\#neither*** adv
-英音 'naɪðə(r),'niːðə(r)     美音 'naɪðər,'niːðər  
+英音 'naɪðə(r),'niːðə(r)  
+英音
+<audio src="./media/neither1.aac"></audio>
+美音 'naɪðər,'niːðər  
+美音
+<audio src="./media/neither.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -1327,9 +1829,11 @@ Notes: “neither of + 复数名词 / 代词”作主语时，谓语动词既可
 
  > He didn’t remember and **neither did I**.   
  > 他没记住，我也忘了。    
+<audio src="./media/neither-4.aac"></audio>
 
  > I hadn’t been to New York before and **neither had Jane**.   
  > 我以前没去过纽约，简也没去过。    
+<audio src="./media/neither-5.aac"></audio>
 
 Notes: neither意为“也不”时，承接在否定句后面,表示与前面提到的情况一样，常引起部分倒装。其结构为“neither＋助动词 / 情态动词 / be动词 ＋主语”。  
 
@@ -1343,15 +1847,19 @@ Notes: neither意为“也不”时，承接在否定句后面,表示与前面�
 
  > Neither you nor I am wrong.   
  > 你没错，我也没错。    
+<audio src="./media/neither-6.aac"></audio>
 
  > I have neither time nor money for the ball.   
  > 我既没时间也没钱参加舞会。    
+<audio src="./media/neither-7.aac"></audio>
 
  > He neither drinks nor smokes.   
  > 他既不喝酒也不吸烟。    
+<audio src="./media/neither-8.aac"></audio>
 
  > It is neither hot nor cold.   
  > 天气不冷不热。    
+<audio src="./media/neither-9.aac"></audio>
 
 Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。连接并列主语时，谓语与靠近它的主语一致。  
 
@@ -1363,7 +1871,13 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
 1. neither  
 
 # ***\#neither*** adj
-英音 'naɪðə(r),'niːðə(r)     美音 'naɪðər,'niːðər  
+英音 'naɪðə(r),'niːðə(r)  
+英音
+<audio src="./media/neither1.aac"></audio>
+美音 'naɪðər,'niːðər  
+美音
+<audio src="./media/neither.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -1373,11 +1887,18 @@ Notes: neither ... nor可连接并列的主语、宾语、谓语、表语等。�
 
  > Neither answer is correct.   
  > 两个答案都不对。    
+<audio src="./media/neither-1.aac"></audio>
 
 Notes: neither与单数名词连用时，谓语动词用单数。  
 
 # ***\#nephew*** n
-英音 'nefjuː, 'nevjuː     美音 'nefjuː, 'nevjuː  
+英音 'nefjuː, 'nevjuː  
+英音
+<audio src="./media/nephew1.aac"></audio>
+美音 'nefjuː, 'nevjuː  
+美音
+<audio src="./media/nephew---.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1396,7 +1917,13 @@ Notes: neither与单数名词连用时，谓语动词用单数。
 1. nephew  
 
 # ***\#nerve*** n
-英音 nɜːv     美音 nɜːrv  
+英音 nɜːv  
+英音
+<audio src="./media/nerve-B.aac"></audio>
+美音 nɜːrv  
+美音
+<audio src="./media/nerve.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 1 |  
 
@@ -1421,10 +1948,17 @@ Notes: neither与单数名词连用时，谓语动词用单数。
 
  > Stop whistling! It’s getting on my nerves!  
  > 别吹口哨了!扰得我心烦!    
+<audio src="./media/nerve-1.aac"></audio>
 
 
 # ***\#nervous*** adj
-英音 'nɜːvəs     美音 'nɜːrvəs  
+英音 'nɜːvəs  
+英音
+<audio src="./media/nervous-B.aac"></audio>
+美音 'nɜːrvəs  
+美音
+<audio src="./media/nervous.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 |  
 
@@ -1434,14 +1968,17 @@ Notes: neither与单数名词连用时，谓语动词用单数。
 
  > The brain is the centre of the nervous system and controls most of the body's activities.  
  > 大脑是神经系统的中枢，控制着身体的大部分活动。  （外研新选必④ – 5）  
+<audio src="./media/The brain is the centre of the nervous system and controls most of the body's activities2_AAC.aac"></audio>
 
 ### 2.*高义频：* **神经质的；紧张的；不安的：**  
 
  > We were all **nervous about** the approaching examinations.  
  > 我们当时都对即将到来的考试感到紧张不安。  （人教④ – 4）  
+<audio src="./media/nervous-1.aac"></audio>
 
  > I'm worried I'll **get nervous** and freeze on stage.  
  > 我担心自己会在舞台上紧张得僵住。  （2021全国）  
+<audio src="./media/If any one of us had any difficulty in our life2_AAC.aac"></audio>
 
 
 派生词汇
@@ -1449,7 +1986,13 @@ Notes: neither与单数名词连用时，谓语动词用单数。
 nervously /'nɜːvəsli/ adv   
 
 # ***\#nest*** n
-英音 nest     美音 nest  
+英音 nest  
+英音
+<audio src="./media/nest-B.aac"></audio>
+美音 nest  
+美音
+<audio src="./media/nest.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -1464,7 +2007,13 @@ nervously /'nɜːvəsli/ adv
 
 
 # ***\#nest*** v
-英音 nest     美音 nest  
+英音 nest  
+英音
+<audio src="./media/nest-B.aac"></audio>
+美音 nest  
+美音
+<audio src="./media/nest.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -1474,7 +2023,13 @@ nervously /'nɜːvəsli/ adv
 
 
 # ***\#net*** n
-英音 net     美音 net  
+英音 net  
+英音
+<audio src="./media/net-B.aac"></audio>
+美音 net  
+美音
+<audio src="./media/net.aac"></audio>
+
 
 | 词频 3 | 书面 1 |  
 
@@ -1492,7 +2047,13 @@ nervously /'nɜːvəsli/ adv
 
 
 # ***\#net*** adj
-英音 net     美音 net  
+英音 net  
+英音
+<audio src="./media/net-B.aac"></audio>
+美音 net  
+美音
+<audio src="./media/net.aac"></audio>
+
 
 | 词频 3 | 书面 1 |  
 
@@ -1505,7 +2066,13 @@ nervously /'nɜːvəsli/ adv
 
 
 # ***\#network*** n
-英音 'netwɜːk     美音 'netwɜːrk  
+英音 'netwɜːk  
+英音
+<audio src="./media/network-B.aac"></audio>
+美音 'netwɜːrk  
+美音
+<audio src="./media/network.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -1523,6 +2090,7 @@ nervously /'nɜːvəsli/ adv
 
  > Tim had a strong **network of** contacts in his hometown.  
  > 蒂姆在家乡人脉很广。    
+<audio src="./media/Tim had a strong network of contacts in his hometown2_AAC.aac"></audio>
 
 ### 2.*高义频：* **广播网；电视网；互联网：**  
 
@@ -1531,7 +2099,13 @@ nervously /'nɜːvəsli/ adv
 
 
 # ***\#network*** v
-英音 'netwɜːk     美音 'netwɜːrk  
+英音 'netwɜːk  
+英音
+<audio src="./media/network-B.aac"></audio>
+美音 'netwɜːrk  
+美音
+<audio src="./media/network.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -1543,7 +2117,13 @@ nervously /'nɜːvəsli/ adv
 
 
 # ***\#neutral*** n
-英音 'njuːtrəl     美音 'nuːtrəl  
+英音 'njuːtrəl  
+英音
+<audio src="./media/neutral-B.aac"></audio>
+美音 'nuːtrəl  
+美音
+<audio src="./media/neutral.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1555,7 +2135,13 @@ nervously /'nɜːvəsli/ adv
 
 
 # ***\#neutral*** adj
-英音 'njuːtrəl     美音 'nuːtrəl  
+英音 'njuːtrəl  
+英音
+<audio src="./media/neutral-B.aac"></audio>
+美音 'nuːtrəl  
+美音
+<audio src="./media/neutral.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1565,7 +2151,13 @@ nervously /'nɜːvəsli/ adv
 
 
 # ***\#never*** adv
-英音 'nevə(r)     美音 'nevər  
+英音 'nevə(r)  
+英音
+<audio src="./media/never-B.aac"></audio>
+美音 'nevər  
+美音
+<audio src="./media/never.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1575,27 +2167,33 @@ nervously /'nɜːvəsli/ adv
 
  > **Never say die**.   
  > 永不言败。    
+<audio src="./media/never-1.aac"></audio>
 
  > Never put off till tomorrow what you can do today.  
  > 今天能做的事绝不要拖到明天。/今日事，今日毕。    
+<audio src="./media/P293 never1.aac"></audio>
 
 Notes: never在句首时，句子要用部分倒装结构，即“Never + 助动词 / 情态动词 / be 动词 + 主语…”。  
  > Never have I heard anything like it!   
  > 我从未听说过这样的事！  （外研⑦ – 3）  
+<audio src="./media/never-3.aac"></audio>
 
  > I finally got the job I dreamed about. **Never in all my life** had I felt so happy!   
  > 我终于得到了自己梦寐以求的工作，我这辈子从没这么高兴过。    
+<audio src="./media/never-4.aac"></audio>
 
 ### 2.*高义频：* **[用于加强语气] 不；没有；不要：**  
 
  > — I told my boss exactly what I thought of her.   
  > 我对老板说了我对她的真实看法。    
+<audio src="./media/never-5.aac"></audio>
 
  > — You never did.   
  > 你肯定没说过。    
 
  > For the safety of yourself and other road users, never drive after consuming alcohol.   
  > 为了你自己和其他行人的安全，切勿酒后驾车。  （2011 福建）  
+<audio src="./media/never-6.aac"></audio>
 
 
 真题解析
@@ -1617,7 +2215,13 @@ D.Never mind.
 1. C  2. C  3. never  
 
 # ***\#nevertheless*** adv
-英音 ˌnevəðə'les     美音 ˌnevərðə'les  
+英音 ˌnevəðə'les  
+英音
+<audio src="./media/nevertheless-B.aac"></audio>
+美音 ˌnevərðə'les  
+美音
+<audio src="./media/nevertheless.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 1 |  
 
@@ -1627,13 +2231,21 @@ D.Never mind.
 
  > There is little chance that we will win the match. Nevertheless it is important that we try.  
  > 我们赢得比赛的可能性不大。不过，重要的是我们要努力争取。    
+<audio src="./media/There is little chance that we will _AAC.aac"></audio>
 
  > The weather turned bad, but the music festival was a great success nevertheless.  
  > 天气变糟了，但是尽管如此，音乐节办得很成功。    
+<audio src="./media/The weather turned bad_AAC.aac"></audio>
 
 
 # ***\#new*** adj
-英音 njuː     美音 nuː  
+英音 njuː  
+英音
+<audio src="./media/new-B.aac"></audio>
+美音 nuː  
+美音
+<audio src="./media/new.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -1646,11 +2258,13 @@ D.Never mind.
 
  > Let’s make a new start.   
  > 我们重新开始吧。    
+<audio src="./media/new-1.aac"></audio>
 
 ### 2.*高义频：* **不熟悉的；新接触的：**  
 
  > He is **new to** the job.  
  > 他对这项工作不熟悉。    
+<audio src="./media/new-2.aac"></audio>
 
 
 派生词汇
@@ -1658,7 +2272,13 @@ D.Never mind.
 newly /'njuːli/ adv   
 
 # ***\#newcomer*** n
-英音 ˈnjuːkʌmə(r)     美音 ˈnuːkʌmər  
+英音 ˈnjuːkʌmə(r)  
+英音
+<audio src="./media/newcomer1_AAC.aac"></audio>
+美音 ˈnuːkʌmər  
+美音
+<audio src="./media/newcomer2_AAC.aac"></audio>
+
 
   
 
@@ -1668,6 +2288,10 @@ newly /'njuːli/ adv
 
 
 # ***\#newly-wed*** n
+英音
+<audio src="./media/newly-wed n1_AAC.aac"></audio>
+美音
+<audio src="./media/newly-wed n2_AAC.aac"></audio>
 
 
   
@@ -1678,6 +2302,10 @@ newly /'njuːli/ adv
 
 
 # ***\#newly-wed*** adj
+英音
+<audio src="./media/newly-wed adj1_AAC.aac"></audio>
+美音
+<audio src="./media/newly-wed adj2_AAC.aac"></audio>
 
 
   
@@ -1688,7 +2316,13 @@ newly /'njuːli/ adv
 
 
 # ***\#news*** n
-英音 njuːz     美音 nuːz  
+英音 njuːz  
+英音
+<audio src="./media/news-B.aac"></audio>
+美音 nuːz  
+美音
+<audio src="./media/news.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1706,10 +2340,17 @@ newly /'njuːli/ adv
 
  > **No news is good news**.   
  > 没有消息就是好消息。    
+<audio src="./media/news-1.aac"></audio>
 
 
 # ***\#newsflash*** n
-英音 'njuːzflæʃ     美音 'nuːzflæʃ  
+英音 'njuːzflæʃ  
+英音
+<audio src="./media/newsflash1.aac"></audio>
+美音 'nuːzflæʃ  
+美音
+<audio src="./media/newsflash2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1719,7 +2360,13 @@ newly /'njuːli/ adv
 
 
 # ***\#newsletter*** n
-英音 'njuːzletə(r)     美音 'nuːzletər  
+英音 'njuːzletə(r)  
+英音
+<audio src="./media/newsletter-B.aac"></audio>
+美音 'nuːzletər  
+美音
+<audio src="./media/newsletter.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1731,7 +2378,13 @@ newly /'njuːli/ adv
 
 
 # ***\#newspaper*** n
-英音 'njuːzpeɪpə(r)     美音 'nuːzpeɪpər  
+英音 'njuːzpeɪpə(r)  
+英音
+<audio src="./media/newspaper-B.aac"></audio>
+美音 'nuːzpeɪpər  
+美音
+<audio src="./media/newspaper.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 2 |  
 
@@ -1749,10 +2402,17 @@ newly /'njuːli/ adv
 
  > She works for a **local newspaper**.   
  > 她在当地的一家报社工作。    
+<audio src="./media/newspaper-1.aac"></audio>
 
 
 # ***\#next*** n & pron
-英音 nekst     美音 nekst  
+英音 nekst  
+英音
+<audio src="./media/next-B.aac"></audio>
+美音 nekst  
+美音
+<audio src="./media/next.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -1765,6 +2425,7 @@ newly /'njuːli/ adv
 
  > Who will be the next to choose a gift?   
  > 谁是下一个选礼物的人？    
+<audio src="./media/next-8.aac"></audio>
 
 
 固定搭配
@@ -1774,13 +2435,21 @@ newly /'njuːli/ adv
 
  > He sits down at a table next to the front window.   
  > 他在靠近前窗的桌子旁坐下来。  （人教③ – 3）  
+<audio src="./media/next-9.aac"></audio>
 
  > Next to biology, I like physics best.   
  > 除生物外，我最喜欢物理。  （2012 全国）  
+<audio src="./media/next-10.aac"></audio>
 
 
 # ***\#next*** adj
-英音 nekst     美音 nekst  
+英音 nekst  
+英音
+<audio src="./media/next-B.aac"></audio>
+美音 nekst  
+美音
+<audio src="./media/next.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1790,23 +2459,34 @@ newly /'njuːli/ adv
 
  > Drop me at the next corner, please.   
  > 请让我在下一个拐角处下车。    
+<audio src="./media/next-1.aac"></audio>
 
  > **Next time** I go skiing, I’ll wear warmer clothes.   
  > 下次去滑雪的时候，我要穿得更暖和一些。    
+<audio src="./media/next-2.aac"></audio>
 
  > The next thing you need to decide is what you are going to paint, a portrait, a landscape or a still life.  
  > 接下来你要决定的是画什么——是一幅肖像画，一幅风景画，还是一幅静物画。  （译林⑧ – 3）  
+<audio src="./media/next-3.aac"></audio>
 
 Notes: 在时间上，指以现在为基准的“下一个”时，不加the。指以过去或未来某时间为基准的“下一个”时，加the。  
  > I’m going on vacation **next week / month**.   
  > 下周/下月，我要去度假。    
+<audio src="./media/next-4.aac"></audio>
 
  > I was sick during the night but felt better **the next day**.  
  > 我那天晚上生病了，不过第二天感觉好些了。    
+<audio src="./media/next-5.aac"></audio>
 
 
 # ***\#next*** adv
-英音 nekst     美音 nekst  
+英音 nekst  
+英音
+<audio src="./media/next-B.aac"></audio>
+美音 nekst  
+美音
+<audio src="./media/next.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1816,16 +2496,25 @@ Notes: 在时间上，指以现在为基准的“下一个”时，不加the。�
 
  > We’ve had a good idea. Next, we’ll try it out.  
  > 我们已经有了好的想法，接下来我们要验证它。    
+<audio src="./media/We’ve had a good idea_AAC.aac"></audio>
 
  > When I next saw her she completely ignored me.   
  > 我再次见到她时，她根本不理我。    
+<audio src="./media/next-7.aac"></audio>
 
  > For me, **the next best thing after / to** playing football is listening to music.  
  > 对我来说，最好玩的是踢足球，其次是听音乐。    
+<audio src="./media/For me, the next best thing_AAC.aac"></audio>
 
 
 # ***\#nice*** adj
-英音 naɪs     美音 naɪs  
+英音 naɪs  
+英音
+<audio src="./media/nice-B.aac"></audio>
+美音 naɪs  
+美音
+<audio src="./media/nice.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -1835,9 +2524,11 @@ Notes: 在时间上，指以现在为基准的“下一个”时，不加the。�
 
  > What **a nice day**, isn’t it?  
  > 天气真好，对吧？    
+<audio src="./media/nice-1.aac"></audio>
 
  > You did a good job today. **Nice work**, James!   
  > 你今天干得不错。好样的，詹姆斯！    
+<audio src="./media/nice-2.aac"></audio>
 
 ### 2.*高义频：* **宜人的；愉快的：**  
 
@@ -1856,6 +2547,7 @@ Notes: 在时间上，指以现在为基准的“下一个”时，不加the。�
 
  > It is nice of you to help me.   
  > 你真好，帮了我的忙。    
+<audio src="./media/nice-3.aac"></audio>
 
 
 派生词汇
@@ -1863,7 +2555,13 @@ Notes: 在时间上，指以现在为基准的“下一个”时，不加the。�
 nicely /'naɪsli/ adv   
 
 # ***\#nickname*** n
-英音 'nɪkneɪm     美音 'nɪkneɪm  
+英音 'nɪkneɪm  
+英音
+<audio src="./media/nickname-B.aac"></audio>
+美音 'nɪkneɪm  
+美音
+<audio src="./media/nickname.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1875,13 +2573,21 @@ nicely /'naɪsli/ adv
 
  > Einstein was given the nickname, “the student who asks questions”.  
  > 爱因斯坦得了个绰号叫“问问题的学生”。  （外研④ – 4改）  
+<audio src="./media/Einstein was given the nickname_AAC.aac"></audio>
 
  > We had cute **nicknames for** some of our classmates.  
  > 我们给一些同学起了有意思的外号。    
+<audio src="./media/We had cute nicknames _AAC.aac"></audio>
 
 
 # ***\#nicotine*** n
-英音 'nɪkətiːn     美音 'nɪkətiːn  
+英音 'nɪkətiːn  
+英音
+<audio src="./media/nicotine-B.aac"></audio>
+美音 'nɪkətiːn  
+美音
+<audio src="./media/nicotine.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1893,7 +2599,13 @@ nicely /'naɪsli/ adv
 
 
 # ***\#niece*** n
-英音 niːs     美音 niːs  
+英音 niːs  
+英音
+<audio src="./media/niece-B.aac"></audio>
+美音 niːs  
+美音
+<audio src="./media/niece.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1905,7 +2617,13 @@ nicely /'naɪsli/ adv
 
 
 # ***\#night*** n
-英音 naɪt     美音 naɪt  
+英音 naɪt  
+英音
+<audio src="./media/night-B.aac"></audio>
+美音 naɪt  
+美音
+<audio src="./media/night.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1923,6 +2641,7 @@ nicely /'naɪsli/ adv
 
  > I advise that you watch less TV **at night**.    
  > 我建议你晚上少看点儿电视。  （译林④ – 2）  
+<audio src="./media/night-1.aac"></audio>
 
 
 固定搭配
@@ -1932,16 +2651,24 @@ nicely /'naɪsli/ adv
 
  > I lay awake all night (long).  
  > 我整夜没睡着。    
+<audio src="./media/I lay awake all night long_AAC.aac"></audio>
 
 ## \#night and day / day and night 
 1.**日日夜夜；夜以继日：**  
 
  > He was so diligent that he worked day and night.  
  > 他非常勤奋，夜以继日地工作。  （2008 湖南书面表达）  
+<audio src="./media/night-3.aac"></audio>
 
 
 # ***\#nightfall*** n
-英音 'naɪtfɔːl     美音 'naɪtfɔːl  
+英音 'naɪtfɔːl  
+英音
+<audio src="./media/nightfall-B.aac"></audio>
+美音 'naɪtfɔːl  
+美音
+<audio src="./media/nightfall.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1953,7 +2680,13 @@ nicely /'naɪsli/ adv
 
 
 # ***\#nightmare*** n
-英音 'naɪtmeə(r)     美音 'naɪtmer  
+英音 'naɪtmeə(r)  
+英音
+<audio src="./media/nightmare1.aac"></audio>
+美音 'naɪtmer  
+美音
+<audio src="./media/nightmare2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1963,7 +2696,13 @@ nicely /'naɪsli/ adv
 
 
 # ***\#nitrogen*** n
-英音 'naɪtrədʒən     美音 'naɪtrədʒən  
+英音 'naɪtrədʒən  
+英音
+<audio src="./media/nitrogen-B.aac"></audio>
+美音 'naɪtrədʒən  
+美音
+<audio src="./media/nitrogen.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1975,7 +2714,13 @@ nicely /'naɪsli/ adv
 
 
 # ***\#no*** adv
-英音 nəʊ     美音 noʊ  
+英音 nəʊ  
+英音
+<audio src="./media/no-B.aac"></audio>
+美音 noʊ  
+美音
+<audio src="./media/no.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1985,12 +2730,14 @@ nicely /'naɪsli/ adv
 
  > — Do you smoke?   
  > 你抽烟吗？    
+<audio src="./media/no-8.aac"></audio>
 
  > — No, I don’t.   
  > 不，我不抽。    
 
  > — They shouldn’t drive so fast.  
  > 他们开车不该那么快。    
+<audio src="./media/no50.aac"></audio>
 
  > — No, it’s really dangerous.  
  > 是啊，那样真的很危险。    
@@ -1999,13 +2746,21 @@ nicely /'naɪsli/ adv
 
  > She’s feeling no better this morning.   
  > 她今天早晨还是不见好转。    
+<audio src="./media/no-9.aac"></audio>
 
  > We went no further than the bridge.   
  > 我们走到桥边就不再往前了。    
+<audio src="./media/no-10.aac"></audio>
 
 
 # ***\#no*** adj
-英音 nəʊ     美音 noʊ  
+英音 nəʊ  
+英音
+<audio src="./media/no-B.aac"></audio>
+美音 noʊ  
+美音
+<audio src="./media/no.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2015,19 +2770,23 @@ nicely /'naɪsli/ adv
 
  > Time waits for no man.  
  > 时间不等人。/ 时不我待。    
+<audio src="./media/Time waits for no man_AAC.aac"></audio>
 
 ### 2.*高义频：* **[强调与所说的事截然相反] 不是；并不：**  
 
  > That girl’s no fool.   
  > 那个女孩一点儿也不傻。    
+<audio src="./media/no-2.aac"></audio>
 
  > She was wearing no ordinary hat.   
  > 她戴的那顶帽子可不一般。    
+<audio src="./media/no-3.aac"></audio>
 
 ### 3.*高义频：* **不许的；禁止的：**  
 
  > No smoking!   
  > 禁止吸烟！    
+<audio src="./media/no-4.aac"></audio>
 
 
 固定搭配
@@ -2037,13 +2796,21 @@ nicely /'naɪsli/ adv
 
  > There’s no knowing which team will win.   
  > 无法预知哪个队会赢。    
+<audio src="./media/no-5.aac"></audio>
 
  > One thing is certain about globalization — there is no turning back.   
  > 关于全球化有一点是可以确定的，那就是它不可逆转。  （2013 上海）  
+<audio src="./media/no-6.aac"></audio>
 
 
 # ***\#noble*** adj
-英音 'nəʊbl     美音 'noʊbl  
+英音 'nəʊbl  
+英音
+<audio src="./media/noble-B.aac"></audio>
+美音 'noʊbl  
+美音
+<audio src="./media/noble.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -2062,7 +2829,13 @@ nicely /'naɪsli/ adv
 
 
 # ***\#noble*** n
-英音 'nəʊbl     美音 'noʊbl  
+英音 'nəʊbl  
+英音
+<audio src="./media/noble-B.aac"></audio>
+美音 'noʊbl  
+美音
+<audio src="./media/noble.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -2078,7 +2851,13 @@ nicely /'naɪsli/ adv
 nobly /ˈnəʊbli/ adv   
 
 # ***\#nobly*** adv
-英音 ˈnəʊbli     美音 ˈnəʊbli  
+英音 ˈnəʊbli  
+英音
+<audio src="./media/nobly1_AAC.aac"></audio>
+美音 ˈnəʊbli  
+美音
+<audio src="./media/nobly2_AAC.aac"></audio>
+
 
   
 
@@ -2088,7 +2867,13 @@ nobly /ˈnəʊbli/ adv
 
 
 # ***\#nobody*** n
-英音 'nəʊbədi     美音 'noʊbədi  
+英音 'nəʊbədi  
+英音
+<audio src="./media/nobody-B.aac"></audio>
+美音 'noʊbədi  
+美音
+<audio src="./media/nobody.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -2100,10 +2885,17 @@ nobly /ˈnəʊbli/ adv
 
  > I want to be somebody, and I’m tired of being a nobody.   
  > 我想成为大人物，不愿做无名小卒。    
+<audio src="./media/nobody-2.aac"></audio>
 
 
 # ***\#nobody*** pron
-英音 'nəʊbədi     美音 'noʊbədi  
+英音 'nəʊbədi  
+英音
+<audio src="./media/nobody-B.aac"></audio>
+美音 'noʊbədi  
+美音
+<audio src="./media/nobody.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -2114,6 +2906,7 @@ nobly /ˈnəʊbli/ adv
 
  > Luckily nobody was injured in that incident.    
  > 很幸运，那次事件中没人受伤。    
+<audio src="./media/nobody--.aac"></audio>
 
 Notes: 在英语口语中，nobody比no one更常用。  
 
@@ -2126,7 +2919,13 @@ Notes: 在英语口语中，nobody比no one更常用。
 1. has / will have  2. nobody / no one  
 
 # ***\#nod*** n
-英音 nɒd     美音 nɑːd  
+英音 nɒd  
+英音
+<audio src="./media/nod-B.aac"></audio>
+美音 nɑːd  
+美音
+<audio src="./media/nod.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -2141,10 +2940,17 @@ Notes: 在英语口语中，nobody比no one更常用。
 
  > He **gave me a** friendly **nod** as he came in.   
  > 他进来时向我友好地点了点头。    
+<audio src="./media/nod-3.aac"></audio>
 
 
 # ***\#nod*** v
-英音 nɒd     美音 nɑːd  
+英音 nɒd  
+英音
+<audio src="./media/nod-B.aac"></audio>
+美音 nɑːd  
+美音
+<audio src="./media/nod.aac"></audio>
+
 
 | 词频 3 | 书面 2 |  
 
@@ -2154,16 +2960,25 @@ Notes: 在英语口语中，nobody比no one更常用。
 
  > I asked him if he would help me and he nodded.  
  > 我问他能否帮帮我，他点了点头。    
+<audio src="./media/I asked him if he would_AAC.aac"></audio>
 
  > My mother **nodded (her) approval**.  
  > 我妈妈点头表示赞同。    
+<audio src="./media/My mother nodded her _AAC.aac"></audio>
 
  > She was phoning someone, so I **nodded to / at** her and went away.  
  > 她正在给人打电话，所以我向她点头示意后就离开了。  （2014 四川改）  
+<audio src="./media/She was phoning someone_AAC.aac"></audio>
 
 
 # ***\#noise*** n
-英音 nɔɪz     美音 nɔɪz  
+英音 nɔɪz  
+英音
+<audio src="./media/noise-B.aac"></audio>
+美音 nɔɪz  
+美音
+<audio src="./media/noise.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -2175,9 +2990,11 @@ Notes: 在英语口语中，nobody比no one更常用。
 
  > Don’t **make** so much **noise**.   
  > 别吵吵嚷嚷。    
+<audio src="./media/noise-1.aac"></audio>
 
  > I covered my ears, trying to keep the noises out, but failed.  
  > 我捂上耳朵尽力阻止噪音，但这并不起作用。    
+<audio src="./media/noise-2.aac"></audio>
 
 #### 辨析 noise, sound, voice
   
@@ -2186,14 +3003,22 @@ Notes: 在英语口语中，nobody比no one更常用。
 **voice ** 指人说话或唱歌时发出的声音。
  > You’ll have to **raise your voice** if you want to be heard in here.   
  > 在这里，如果想让别人听见你说话，你必须大点儿声。    
+<audio src="./media/noise-5.aac"></audio>
 
  > I could hear angry voices in the next room.   
  > 我能听到隔壁房间的怒吼声。    
+<audio src="./media/noise-6.aac"></audio>
 
 
 
 # ***\#noisy*** adj
-英音 'nɔɪzi     美音 'nɔɪzi  
+英音 'nɔɪzi  
+英音
+<audio src="./media/noisy-B.aac"></audio>
+美音 'nɔɪzi  
+美音
+<audio src="./media/noisy.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -2216,7 +3041,13 @@ Notes: 在英语口语中，nobody比no one更常用。
 noisily  /'nɔɪzɪli/ adv   
 
 # ***\#non-commercial*** adj
-英音 'nɒnkəˈmɜːʃl     美音 'nɑːnkəˈmɜːrʃl  
+英音 'nɒnkəˈmɜːʃl  
+英音
+<audio src="./media/non-commercial1_AAC.aac"></audio>
+美音 'nɑːnkəˈmɜːrʃl  
+美音
+<audio src="./media/non-commercial2_AAC.aac"></audio>
+
 
   
 
@@ -2226,6 +3057,10 @@ noisily  /'nɔɪzɪli/ adv
 
 
 # ***\#non-fiction*** n
+英音
+<audio src="./media/non-fiction1_AAC.aac"></audio>
+美音
+<audio src="./media/non-fiction2_AAC.aac"></audio>
 
 
   
@@ -2237,7 +3072,13 @@ noisily  /'nɔɪzɪli/ adv
 
 
 # ***\#non-official*** adj
-英音 'nɒnəˈfɪʃl     美音 'nɑːnəˈfɪʃl  
+英音 'nɒnəˈfɪʃl  
+英音
+<audio src="./media/non-official 1_AAC.aac"></audio>
+美音 'nɑːnəˈfɪʃl  
+美音
+<audio src="./media/non-official 2_AAC.aac"></audio>
+
 
   
 
@@ -2247,7 +3088,13 @@ noisily  /'nɔɪzɪli/ adv
 
 
 # ***\#non-recycling*** adj
-英音 ˌnɒnriːˈsaɪklɪŋ     美音 ˌnɑːnriːˈsaɪklɪŋ  
+英音 ˌnɒnriːˈsaɪklɪŋ  
+英音
+<audio src="./media/non-recycling1_AAC.aac"></audio>
+美音 ˌnɑːnriːˈsaɪklɪŋ  
+美音
+<audio src="./media/non-recycling2_AAC.aac"></audio>
+
 
   
 
@@ -2257,7 +3104,13 @@ noisily  /'nɔɪzɪli/ adv
 
 
 # ***\#non-smoker*** n
-英音 nɒn'sməʊkə(r)     美音 nɒn'smoʊkər  
+英音 nɒn'sməʊkə(r)  
+英音
+<audio src="./media/non-smoker-B.aac"></audio>
+美音 nɒn'smoʊkər  
+美音
+<audio src="./media/non-smoker.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2269,7 +3122,13 @@ noisily  /'nɔɪzɪli/ adv
 
 
 # ***\#non-smoking*** adj
-英音 ˌnɒn 'sməʊkɪŋ     美音 ˌnɒn 'smoʊkɪŋ  
+英音 ˌnɒn 'sməʊkɪŋ  
+英音
+<audio src="./media/non-smoking1.aac"></audio>
+美音 ˌnɒn 'smoʊkɪŋ  
+美音
+<audio src="./media/non-smoking2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2279,6 +3138,10 @@ noisily  /'nɔɪzɪli/ adv
 
 
 # ***\#non-starter*** n
+英音
+<audio src="./media/non-starter1_AAC.aac"></audio>
+美音
+<audio src="./media/non-starter2_AAC.aac"></audio>
 
 
   
@@ -2289,7 +3152,13 @@ noisily  /'nɔɪzɪli/ adv
 
 
 # ***\#none*** pron
-英音 nʌn     美音 nʌn  
+英音 nʌn  
+英音
+<audio src="./media/none-B.aac"></audio>
+美音 nʌn  
+美音
+<audio src="./media/none.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -2299,6 +3168,7 @@ noisily  /'nɔɪzɪli/ adv
 
  > — Do you have any questions?   
  > 你有问题吗？    
+<audio src="./media/none-1.aac"></audio>
 
  > — No, I have none.   
  > 不，没有。    
@@ -2306,12 +3176,15 @@ noisily  /'nɔɪzɪli/ adv
 Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语动词用单数；当none与复数名词或代词连用，或者指的是复数名词时，谓语动词可用单数或复数。  
  > He told me all the news but **none of** it was very exciting.  
  > 他告诉我所有的新闻，但没有一条让人兴奋。    
+<audio src="./media/none-2.aac"></audio>
 
  > None have / has arrived yet.   
  > 还没有人来。    
+<audio src="./media/none-3.aac"></audio>
 
  > We have many friends but **none of** them live / lives nearby.  
  > 我们有许多朋友，但他们都不住在附近。    
+<audio src="./media/none-4.aac"></audio>
 
 
 固定搭配
@@ -2321,6 +3194,7 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
 
  > None but he knew the truth.  
  > 只有他知道真相。    
+<audio src="./media/none-5.aac"></audio>
 
 
 真题解析
@@ -2334,7 +3208,13 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
 1. none  2. none  3. None  
 
 # ***\#nonetheless*** adv
-英音 ˌnʌnðəˈles     美音 ˌnʌnðəˈles  
+英音 ˌnʌnðəˈles  
+英音
+<audio src="./media/nonetheless1_AAC.aac"></audio>
+美音 ˌnʌnðəˈles  
+美音
+<audio src="./media/nonetheless2_AAC.aac"></audio>
+
 
   
 
@@ -2344,7 +3224,13 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
 
 
 # ***\#nonprofit*** adj
-英音 ˌnɒnˈprɒfɪt     美音 ˌnɑːnˈprɑːfɪt  
+英音 ˌnɒnˈprɒfɪt  
+英音
+<audio src="./media/nonprofit1_AAC.aac"></audio>
+美音 ˌnɑːnˈprɑːfɪt  
+美音
+<audio src="./media/nonprofit2_AAC.aac"></audio>
+
 
   
 
@@ -2354,7 +3240,13 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
 
 
 # ***\#nonsense*** n
-英音 'nɒnsns     美音 'nɑːnsens  
+英音 'nɒnsns  
+英音
+<audio src="./media/nonsense-B.aac"></audio>
+美音 'nɑːnsens  
+美音
+<audio src="./media/nonsense.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -2366,10 +3258,17 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
 
  > They are **talking nonsense** again.   
  > 他们又在胡说。    
+<audio src="./media/nonsense-1.aac"></audio>
 
 
 # ***\#nonstop*** adv
-英音 ˌnɒn'stɒp     美音 ˌnɒn'stɒp  
+英音 ˌnɒn'stɒp  
+英音
+<audio src="./media/nonstop-B.aac"></audio>
+美音 ˌnɒn'stɒp  
+美音
+<audio src="./media/nonstop.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -2379,10 +3278,17 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
 
  > The train goes from Beijing to Shenyang nonstop.   
  > 这列火车从北京直达沈阳。    
+<audio src="./media/nonstop-2.aac"></audio>
 
 
 # ***\#nonstop*** adj
-英音 ˌnɒn'stɒp     美音 ˌnɒn'stɒp  
+英音 ˌnɒn'stɒp  
+英音
+<audio src="./media/nonstop-B.aac"></audio>
+美音 ˌnɒn'stɒp  
+美音
+<audio src="./media/nonstop.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -2392,13 +3298,20 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
 
  > He is on a long and nonstop journey.   
  > 他在进行一次不间断的长途旅行。    
+<audio src="./media/nonstop-1.aac"></audio>
 
  > a nonstop train   
  > 直达列车    
 
 
 # ***\#nonverbal*** adj
-英音 ˌnɒn'vɜːbl     美音 ˌnɒn'vɜːbəl  
+英音 ˌnɒn'vɜːbl  
+英音
+<audio src="./media/nonverbal-B.aac"></audio>
+美音 ˌnɒn'vɜːbəl  
+美音
+<audio src="./media/nonverbal.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2411,7 +3324,13 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
 
 
 # ***\#noodle*** n
-英音 'nuːdl     美音 'nuːdl  
+英音 'nuːdl  
+英音
+<audio src="./media/noodle-B.aac"></audio>
+美音 'nuːdl  
+美音
+<audio src="./media/noodle.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2423,7 +3342,13 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
 
 
 # ***\#noon*** n
-英音 nuːn     美音 nuːn  
+英音 nuːn  
+英音
+<audio src="./media/noon-B.aac"></audio>
+美音 nuːn  
+美音
+<audio src="./media/noon.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -2438,7 +3363,13 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
 
 
 # ***\#nor*** conj
-英音 nɔː(r)     美音 nɔːr  
+英音 nɔː(r)  
+英音
+<audio src="./media/nor-B.aac"></audio>
+美音 nɔːr  
+美音
+<audio src="./media/nor.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 3 |  
 
@@ -2450,13 +3381,16 @@ Notes: 当none与不可数名词连用或者指的是不可数名词时，谓语
 
  > He’s not at work nor at home.   
  > 他没有上班，也没有在家。    
+<audio src="./media/nor-1.aac"></audio>
 
 Notes: nor承接在否定句后面表示与前面提到的情况一样时，常引起部分倒装。其结构为“nor＋助动词 / 情态动词 / be动词＋主语 …”。  
  > He can’t do it, nor can I, nor can anybody.   
  > 他做不来，我也做不来，谁也做不来。    
+<audio src="./media/nor-2.aac"></audio>
 
  > I never saw him again, nor did I hear from him.   
  > 我再也没见过他，也没有收到他的信。    
+<audio src="./media/nor-3.aac"></audio>
 
 
 真题解析
@@ -2471,7 +3405,13 @@ D.it is
 1. C  
 
 # ***\#normal*** n
-英音 'nɔːml     美音 'nɔːrml  
+英音 'nɔːml  
+英音
+<audio src="./media/normal-B.aac"></audio>
+美音 'nɔːrml  
+美音
+<audio src="./media/normal.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -2492,10 +3432,17 @@ D.it is
 
  > The crisis has passed and life will go back to normal soon.   
  > 危机已经过去，生活很快就会恢复正常。    
+<audio src="./media/normal-2.aac"></audio>
 
 
 # ***\#normal*** adj
-英音 'nɔːml     美音 'nɔːrml  
+英音 'nɔːml  
+英音
+<audio src="./media/normal-B.aac"></audio>
+美音 'nɔːrml  
+美音
+<audio src="./media/normal.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 |  
 
@@ -2511,6 +3458,7 @@ D.it is
 
  > It’s normal for students to feel nervous before an exam.  
  > 学生在考试之前感到紧张是正常的。    
+<audio src="./media/normal-1.aac"></audio>
 
 #### 辨析 common, normal, ordinary, usual
   
@@ -2520,9 +3468,11 @@ D.it is
 **usual** 表示由于长时间没有变化而形成了一种习惯或制度，强调习惯性。
  > He arrived later than usual.   
  > 他到得比平时晚。    
+<audio src="./media/5-common.aac"></audio>
 
  > It is usual for him to sit up late at night.   
  > 他熬夜已成习惯。    
+<audio src="./media/It is usual for.aac"></audio>
 
 
 ### 2.*高义频：* **智力正常的；精神健全的**  
@@ -2537,7 +3487,13 @@ D.it is
 1. normal  
 
 # ***\#normally*** adv
-英音 'nɔːməli     美音 'nɔːrməli  
+英音 'nɔːməli  
+英音
+<audio src="./media/normally-B.aac"></audio>
+美音 'nɔːrməli  
+美音
+<audio src="./media/normally.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 | 阅读 3 |  
 
@@ -2547,16 +3503,24 @@ D.it is
 
  > We do not normally look into someone’s eyes for long.   
  > 通常情况下，我们不会盯着别人的眼睛看很久。    
+<audio src="./media/normally-1.aac"></audio>
 
 ### 2.*高义频：* **正常地：**  
 反义词 abnormally 
 
  > When we’re happy, our body works normally and we feel relaxed and positive.  
  > 开心时，我们的身体运作正常，我们感觉轻松、积极乐观。  （2008 湖南改）  
+<audio src="./media/normally-2.aac"></audio>
 
 
 # ***\#north*** n
-英音 nɔːθ     美音 nɔːrθ  
+英音 nɔːθ  
+英音
+<audio src="./media/north-B.aac"></audio>
+美音 nɔːrθ  
+美音
+<audio src="./media/north.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -2574,7 +3538,13 @@ D.it is
 
 
 # ***\#north*** adj
-英音 nɔːθ     美音 nɔːrθ  
+英音 nɔːθ  
+英音
+<audio src="./media/north-B.aac"></audio>
+美音 nɔːrθ  
+美音
+<audio src="./media/north.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -2590,7 +3560,13 @@ D.it is
 
 
 # ***\#north*** adv
-英音 nɔːθ     美音 nɔːrθ  
+英音 nɔːθ  
+英音
+<audio src="./media/north-B.aac"></audio>
+美音 nɔːrθ  
+美音
+<audio src="./media/north.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -2600,13 +3576,21 @@ D.it is
 
  > They walked north.   
  > 他们向北走。    
+<audio src="./media/north-1.aac"></audio>
 
  > Fengning is about 180 km **north of** Beijing.  
  > 丰宁在北京以北约180公里处。    
+<audio src="./media/north-2.aac"></audio>
 
 
 # ***\#north-east*** n
-英音 ˌnɔ:θˈi:st     美音 ˌnɔrθˈist  
+英音 ˌnɔ:θˈi:st  
+英音
+<audio src="./media/north-east1.aac"></audio>
+美音 ˌnɔrθˈist  
+美音
+<audio src="./media/north-east2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2616,7 +3600,13 @@ D.it is
 
 
 # ***\#north-west*** n
-英音 ˌnɔ:θˈwest     美音 ˌnɔrθˈwɛst  
+英音 ˌnɔ:θˈwest  
+英音
+<audio src="./media/north-west1.aac"></audio>
+美音 ˌnɔrθˈwɛst  
+美音
+<audio src="./media/north-west2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2626,7 +3616,13 @@ D.it is
 
 
 # ***\#northeast*** adj
-英音 .nɔːθ'iːst     美音 .nɔːθr'iːst  
+英音 .nɔːθ'iːst  
+英音
+<audio src="./media/northeast-B.aac"></audio>
+美音 .nɔːθr'iːst  
+美音
+<audio src="./media/northeast.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2642,7 +3638,13 @@ D.it is
 
 
 # ***\#northeast*** n
-英音 ˌnɔːθ'iːst     美音 ˌnɔːθr'iːst  
+英音 ˌnɔːθ'iːst  
+英音
+<audio src="./media/northeast-B.aac"></audio>
+美音 ˌnɔːθr'iːst  
+美音
+<audio src="./media/northeast.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2654,10 +3656,17 @@ D.it is
 
  > Jilin Province lies in the northeast of China.   
  > 吉林省位于中国东北。    
+<audio src="./media/northeast-1.aac"></audio>
 
 
 # ***\#northeast*** adv
-英音 ˌnɔːθ'iːst     美音 ˌnɔːθr'iːst  
+英音 ˌnɔːθ'iːst  
+英音
+<audio src="./media/northeast-B.aac"></audio>
+美音 ˌnɔːθr'iːst  
+美音
+<audio src="./media/northeast.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2667,10 +3676,17 @@ D.it is
 
  > At this point the road turns northeast.   
  > 这条路在这里转向东北。    
+<audio src="./media/northeast-2.aac"></audio>
 
 
 # ***\#northern*** adj
-英音 'nɔːðən     美音 'nɔːrðərn  
+英音 'nɔːðən  
+英音
+<audio src="./media/northern-B.aac"></audio>
+美音 'nɔːrðərn  
+美音
+<audio src="./media/northern.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -2690,7 +3706,13 @@ D.it is
 northerner /'nɔːðənə(r)/ n [C]  
 
 # ***\#northwest*** adv
-英音 ˌnɔːθ'west     美音 ˌnɔːθr'west  
+英音 ˌnɔːθ'west  
+英音
+<audio src="./media/northwest-B.aac"></audio>
+美音 ˌnɔːθr'west  
+美音
+<audio src="./media/northwest.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2700,10 +3722,17 @@ northerner /'nɔːðənə(r)/ n [C]
 
  > The road runs northwest.  
  > 道路向西北延伸。    
+<audio src="./media/northwest-2.aac"></audio>
 
 
 # ***\#northwest*** adj
-英音 ˌnɔːθ'west     美音 ˌnɔːθr'west  
+英音 ˌnɔːθ'west  
+英音
+<audio src="./media/northwest-B.aac"></audio>
+美音 ˌnɔːθr'west  
+美音
+<audio src="./media/northwest.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2716,7 +3745,13 @@ northerner /'nɔːðənə(r)/ n [C]
 
 
 # ***\#northwest*** n
-英音 ˌnɔːθ'west     美音 ˌnɔːθr'west  
+英音 ˌnɔːθ'west  
+英音
+<audio src="./media/northwest-B.aac"></audio>
+美音 ˌnɔːθr'west  
+美音
+<audio src="./media/northwest.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2728,10 +3763,17 @@ northerner /'nɔːðənə(r)/ n [C]
 
  > Xinjiang lies in the northwest of China.  
  > 新疆位于中国西北地区。    
+<audio src="./media/northwest-1.aac"></audio>
 
 
 # ***\#northwestern*** adj
-英音 'nɔːθ'westən     美音 'nɔːθ'westən  
+英音 'nɔːθ'westən  
+英音
+<audio src="./media/northwestern-b.aac"></audio>
+美音 'nɔːθ'westən  
+美音
+<audio src="./media/northwestern-A.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2741,7 +3783,13 @@ northerner /'nɔːðənə(r)/ n [C]
 
 
 # ***\#nose*** n
-英音 nəʊz     美音 noʊz  
+英音 nəʊz  
+英音
+<audio src="./media/nose-B.aac"></audio>
+美音 noʊz  
+美音
+<audio src="./media/nose.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -2756,14 +3804,17 @@ northerner /'nɔːðənə(r)/ n [C]
 
  > I thought I had flu because I had a **runny nose** and a bit of a temperature.  
  > 我以为自己患了流感，因为我流鼻涕而且有点儿发烧。  （2009 北京改）  
+<audio src="./media/nose-1.aac"></audio>
 
 ### 2.*低义频：* **嗅觉；发现 / 辨别事物的能力：**  
 
  > Dogs have good noses.   
  > 狗嗅觉灵敏。    
+<audio src="./media/nose-2.aac"></audio>
 
  > We say a good journalist must **have a** good “ **nose** ” **for** a story.   
  > 我们说，一个好记者必须对新闻具有敏锐的“嗅觉”。  （人教⑤ – 4）  
+<audio src="./media/nose-3.aac"></audio>
 
 
 固定搭配
@@ -2773,7 +3824,13 @@ northerner /'nɔːðənə(r)/ n [C]
 
 
 # ***\#nose*** v
-英音 nəʊz     美音 nəʊz  
+英音 nəʊz  
+英音
+<audio src="./media/nose-B.aac"></audio>
+美音 nəʊz  
+美音
+<audio src="./media/nose.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -2785,7 +3842,13 @@ northerner /'nɔːðənə(r)/ n [C]
 
 
 # ***\#nosebleed*** n
-英音 'nəʊzbliːd     美音 'noʊzbliːd  
+英音 'nəʊzbliːd  
+英音
+<audio src="./media/nosebleed-B.aac"></audio>
+美音 'noʊzbliːd  
+美音
+<audio src="./media/nosebleed.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2797,7 +3860,13 @@ northerner /'nɔːðənə(r)/ n [C]
 
 
 # ***\#not*** adv
-英音 nɒt     美音 nɑːt  
+英音 nɒt  
+英音
+<audio src="./media/not-B.aac"></audio>
+美音 nɑːt  
+美音
+<audio src="./media/not.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2809,25 +3878,31 @@ northerner /'nɔːðənə(r)/ n [C]
 
  > He wasn’t listening at all.   
  > 他根本没在听。    
+<audio src="./media/not-1.aac"></audio>
 
  > We won’t have time to visit her.   
  > 我们没时间去看她了。    
+<audio src="./media/not-2.aac"></audio>
 
 - 否定后面的副词、形容词、不定式、现在分词、过去分词等。
 
  > Not surprisingly, he disagreed with us.   
  > 他和我们意见不同，这并不奇怪。    
+<audio src="./media/not-3.aac"></audio>
 
  > He warned me not to be late.   
  > 他提醒我不要迟到。    
+<audio src="./media/not-4.aac"></audio>
 
  > Would you mind not smoking here?   
  > 请不要在这里吸烟，好吗？    
+<audio src="./media/not-5.aac"></audio>
 
 - 用在动词think, suppose, believe, expect, hope, seem, appear等的后面，副词perhaps, probably, absolutely等和词组be afraid等的后面，代替否定的从句。
 
  > — Will she be there?   
  > 她会在那儿吗？    
+<audio src="./media/not-6.aac"></audio>
 
  > — **I hope not**.   
  > 但愿不会。    
@@ -2842,9 +3917,11 @@ northerner /'nɔːðənə(r)/ n [C]
 
  > If it clears up, we will go out; if not, not.   
  > 如果天放晴，我们就出去；要不，就不出去。    
+<audio src="./media/not-7.aac"></audio>
 
  > — What did you do at school?   
  > 你在学校做什么了？    
+<audio src="./media/not-8.aac"></audio>
 
  > — Not a lot.   
  > 没做多少事。    
@@ -2853,9 +3930,11 @@ northerner /'nɔːðənə(r)/ n [C]
 
  > Not all men are wise.   
  > 并非所有的人都聪明。    
+<audio src="./media/not-9.aac"></audio>
 
  > He is not always here.   
  > 他并不总在这儿。    
+<audio src="./media/not-10.aac"></audio>
 
 Notes: 与all, both, every等词连用时，常表示部分否定。  
 ### 3.*高义频：* **[常与very, too, much, really等连用] 不太：**  
@@ -2865,6 +3944,7 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 
  > There’s **not much** I can do about that.   
  > 关于那件事，我能做的不多。    
+<audio src="./media/not-11.aac"></audio>
 
 
 固定搭配
@@ -2874,12 +3954,14 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 
  > Not a man was killed in the accident.   
  > 那次事故中没有人员死亡。    
+<audio src="./media/not-12.aac"></audio>
 
 ## \#not…anymore
 1.**不再：**  
 
  > I don't think I can play basketball anymore.  
  > 我想我再也不能打篮球了。  （北师大新必修① – 2改）  
+<audio src="./media/I don't think I can play basketball anymore2_AAC.aac"></audio>
 
 ## \#not at all 
 1.**根本不；别客气**  
@@ -2889,12 +3971,14 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 
  > Life is not a competition, but a trip, step by step.  
  > 生活不是竞赛，而是一场一步接着一步的旅行。    
+<audio src="./media/Life is not a competition_AAC.aac"></audio>
 
 ## \#not that 
 1.**倒不是：**  
 
  > She didn’t attend the meeting; not that she was busy.  
  > 她没有参加会议，倒不是因为忙。    
+<audio src="./media/not-14.aac"></audio>
 
 
 真题解析
@@ -2905,7 +3989,13 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 1. but  
 
 # ***\#notable*** adj
-英音 ˈnəʊtəbl     美音 ˈnəʊtəbl  
+英音 ˈnəʊtəbl  
+英音
+<audio src="./media/notable1_AAC.aac"></audio>
+美音 ˈnəʊtəbl  
+美音
+<audio src="./media/notable2_AAC.aac"></audio>
+
 
   
 
@@ -2915,7 +4005,13 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 
 
 # ***\#note*** n
-英音 nəʊt     美音 noʊt  
+英音 nəʊt  
+英音
+<audio src="./media/note-B.aac"></audio>
+美音 noʊt  
+美音
+<audio src="./media/note.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2927,17 +4023,21 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 
  > She has a good voice but has trouble hitting the **high notes**.  
  > 她嗓音很好，但唱高音有困难。    
+<audio src="./media/note-6.aac"></audio>
 
 ### 2.*高义频：* **记录；[复数] 笔记：**  
 
  > Dave **made a note of** her address.   
  > 戴夫记下了她的地址。    
+<audio src="./media/note-1.aac"></audio>
 
  > She always lets me borrow her Maths notes.   
  > 她总是允许我借她的数学笔记。  （译林⑤ – 1）  
+<audio src="./media/note-2.aac"></audio>
 
  > She **made a mental note** (= decided that she must remember) to ask Alan about it.  
  > 她提醒自己要向艾伦问问这件事。    
+<audio src="./media/She made a mental note _AAC.aac"></audio>
 
 ### 3.*高义频：* **注释；评注：**  
 
@@ -2946,11 +4046,13 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 
  > See the notes at the end of the book.   
  > 参看书后的注释。    
+<audio src="./media/note-4.aac"></audio>
 
 ### 4.*高义频：* **便条；短笺：**  
 
  > She left me a note to say my supper was in the fridge.  
  > 她给我留了个便条，告诉我晚饭在冰箱里。    
+<audio src="./media/note-5.aac"></audio>
 
 ### 5.*高义频：* **纸币 (AmE bill)：**  
 
@@ -2965,22 +4067,31 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 
  > We saw the play separately and compared notes afterwards.  
  > 我们分别观看了那出戏，随后交换了意见。    
+<audio src="./media/note-7.aac"></audio>
 
 ## \#make / take notes 
 1.**记笔记：**  
 
  > Mary is really good at taking / making notes in class.  
  > 玛丽很会记课堂笔记。  （2012 全国）  
+<audio src="./media/Mary is really good at_AAC.aac"></audio>
 
 ## \#take note of 
 1.**注意 (notice)：**  
 
  > Next time you chat with a friend, take note of how you’re sitting.    
  > 下次你和朋友聊天时，注意一下你的坐姿。  （2008 湖南改）  
+<audio src="./media/note-10.aac"></audio>
 
 
 # ***\#note*** vt
-英音 nəʊt     美音 noʊt  
+英音 nəʊt  
+英音
+<audio src="./media/note-B.aac"></audio>
+美音 noʊt  
+美音
+<audio src="./media/note.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2992,9 +4103,11 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 
  > Please **note** (that) food and fruit are forbidden in the library.  
  > 请注意，图书馆内禁止带食品和水果。  （2013 天津）  
+<audio src="./media/P297 note1.aac"></audio>
 
  > Please note how the computer is operated.   
  > 请注意计算机的操作方法。    
+<audio src="./media/note-12.aac"></audio>
 
 ### 2.*低义频：* **特别提到；指出：**  
 
@@ -3003,6 +4116,7 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 
  > The speaker **noted that** it was very important to set a goal for our life.   
  > 演说者指出为我们的生活设定目标是非常重要的。    
+<audio src="./media/note-13.aac"></audio>
 
 
 固定搭配
@@ -3012,6 +4126,7 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 
  > The policeman noted down what I said.  
  > 警察记下了我说的话。    
+<audio src="./media/note-11.aac"></audio>
 
 
 派生词汇
@@ -3019,6 +4134,7 @@ Notes: 与all, both, every等词连用时，常表示部分否定。
 noted /nəʊtɪd/ adj   
  > Tu Youyou  was **noted for** her bravery for being a scientist during a difficult time for science in China.  
  > 屠呦呦因她在中国科学发展困难时期作为一名科学家的勇气而闻名。  （北师大新必修② – 6）  
+<audio src="./media/Tu Youyou was noted for her bravery for being a scientist2_AAC.aac"></audio>
 
 
 真题解析
@@ -3029,7 +4145,13 @@ noted /nəʊtɪd/ adj
 1. noting  
 
 # ***\#notebook*** n
-英音 'nəʊtbʊk     美音 'noʊtbʊk  
+英音 'nəʊtbʊk  
+英音
+<audio src="./media/notebook-B.aac"></audio>
+美音 'noʊtbʊk  
+美音
+<audio src="./media/notebook.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -3041,7 +4163,13 @@ noted /nəʊtɪd/ adj
 
 
 # ***\#notepad*** n
-英音 'nəʊtpæd     美音 'noʊtpæd  
+英音 'nəʊtpæd  
+英音
+<audio src="./media/notepad-B.aac"></audio>
+美音 'noʊtpæd  
+美音
+<audio src="./media/notepad.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3053,7 +4181,13 @@ noted /nəʊtɪd/ adj
 
 
 # ***\#nothing*** pron
-英音 'nʌθɪŋ     美音 'nʌθɪŋ  
+英音 'nʌθɪŋ  
+英音
+<audio src="./media/nothing-B.aac"></audio>
+美音 'nʌθɪŋ  
+美音
+<audio src="./media/nothing.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3063,20 +4197,25 @@ noted /nəʊtɪd/ adj
 
  > **Nothing else** matters to him apart from his job.  
  > 除工作以外，别的什么对他都不重要。    
+<audio src="./media/nothing-1.aac"></audio>
 
  > A smile costs nothing, but gives much.  
  > 微笑不费分文，受者得益良多。  （2014 重庆）  
+<audio src="./media/nothing-A smile costs nothing.aac"></audio>
 
 ### 2.*高义频：* **微不足道的人 / 事物：**  
 
  > She is **nothing to** me.  
  > 她对我而言无足轻重    
+<audio src="./media/nothing-3.aac"></audio>
 
  > — Thank you so much.  
  > 太感谢你了。    
+<audio src="./media/P297 nothing1.aac"></audio>
 
  > — Oh, **it was nothing**.  
  > 噢，没什么。    
+<audio src="./media/P297 nothing2.aac"></audio>
 
 
 固定搭配
@@ -3086,36 +4225,43 @@ noted /nəʊtɪd/ adj
 
  > They repaired my bike for nothing.  
  > 他们免费为我修了自行车。    
+<audio src="./media/nothing-4.aac"></audio>
 
  > When I arrived, he had left. I’d made the journey for nothing.  
  > 我到达时，他已经离开。我白跑了一趟。    
+<audio src="./media/nothing-5.aac"></audio>
 
 ## \#have nothing to do with
 1.**和…无关：**  
 
  > John’s success has nothing to do with good luck. It is years of hard work that has made him what he is today.  
  > 约翰的成功跟好运无关，而是多年的努力成就了如今的他。  （2010 湖南）  
+<audio src="./media/nothing-6.aac"></audio>
 
 ## \#nothing but
 1.**只有；仅仅：**  
 
  > Sandy could do nothing but admit to his teacher that he was wrong.  
  > 山迪只能向老师承认自己错了。    
+<audio src="./media/nothing-8.aac"></audio>
 
  > Don’t worry; it is nothing but a joke.  
  > 别担心，这只不过是个玩笑。    
+<audio src="./media/nothing-9.aac"></audio>
 
 ## \#nothing like
 1.**完全不像；完全不：**  
 
  > It looks nothing like a horse.  
  > 它看上去根本不像一匹马。    
+<audio src="./media/nothing-10.aac"></audio>
 
 ## \#there’s nothing like
 1.**什么都比不上…；…非常好：**  
 
  > There’s nothing like an ice-cold drink on a hot day.  
  > 炎热的日子里，什么都比不上喝杯冰镇饮料。    
+<audio src="./media/nothing-11.aac"></audio>
 
 ## \#(there's) nothing to it
 1.**[口语] (这事) 轻而易举；非常简单**  
@@ -3135,7 +4281,13 @@ D.Everything
 1. A  2. like  3. for  
 
 # ***\#nothing*** n
-英音 'nʌθɪŋ     美音 'nʌθɪŋ  
+英音 'nʌθɪŋ  
+英音
+<audio src="./media/nothing-B.aac"></audio>
+美音 'nʌθɪŋ  
+美音
+<audio src="./media/nothing.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3147,12 +4299,15 @@ D.Everything
 
  > She **is nothing to** me.   
  > 她对我而言无足轻重。    
+<audio src="./media/nothing-3.aac"></audio>
 
  > — Thank you so much.   
  > 太感谢你了。    
+<audio src="./media/P297 nothing1.aac"></audio>
 
  > — Oh, **it was nothing**.   
  > 噢，没什么。    
+<audio src="./media/P297 nothing2.aac"></audio>
 
 
 固定搭配
@@ -3162,39 +4317,47 @@ D.Everything
 
  > They repaired my bike for nothing.   
  > 他们免费为我修了自行车。    
+<audio src="./media/nothing-4.aac"></audio>
 
  > When I arrived, he had left. I’d made the journey for nothing.   
  > 我到达时，他已经离开。我白跑了一趟。    
+<audio src="./media/nothing-5.aac"></audio>
 
 ## \#have nothing to do with 
 1.**和…无关：**  
 
  > John’s success has nothing to do with good luck. It is years of hard work that has made him what he is today.  
  > 约翰的成功跟好运无关，而是多年的努力成就了如今的他。  （2010 湖南）  
+<audio src="./media/nothing-6.aac"></audio>
 
 ## \#nothing but / except 
 1.**除…以外什么也不；只有；只不过：**  
 
  > I heard a confused noise around me, but could see nothing except the sky.   
  > 我隐约听到身边有模糊的噪音，但是除了天空什么也没看到。  （北师大⑥ – 17）  
+<audio src="./media/nothing-7.aac"></audio>
 
  > Sandy could do nothing but admit to his teacher that he was wrong.   
  > 山迪只能向老师承认自己错了。    
+<audio src="./media/nothing-8.aac"></audio>
 
  > Don’t worry; it is nothing but a joke.   
  > 别担心，这只不过是个玩笑。    
+<audio src="./media/nothing-9.aac"></audio>
 
 ## \#nothing like 
 1.**完全不像；完全不：**  
 
  > It looks nothing like a horse.   
  > 它看上去根本不像一匹马。    
+<audio src="./media/nothing-10.aac"></audio>
 
 ## \#there’s nothing like 
 1.**什么都比不上…；…非常好：**  
 
  > There’s nothing like an ice-cold drink on a hot day.  
  > 炎热的日子里，什么都比不上喝杯冰镇饮料。    
+<audio src="./media/nothing-11.aac"></audio>
 
 
 真题解析
@@ -3211,7 +4374,13 @@ D.Everything
 1. A.  2. like  3. nothing  
 
 # ***\#notice*** n
-英音 'nəʊtɪs     美音 'noʊtɪs  
+英音 'nəʊtɪs  
+英音
+<audio src="./media/notice-B.aac"></audio>
+美音 'noʊtɪs  
+美音
+<audio src="./media/notice.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 2 |  
 
@@ -3221,29 +4390,41 @@ D.Everything
 
  > It was Jenny who **brought** the problem **to my notice**.  
  > 是詹妮让我注意到这个问题的。    
+<audio src="./media/notice-1.aac"></audio>
 
  > It has **come to my notice** that he was poor in health.  
  > 我开始注意到他身体不好。    
+<audio src="./media/notice-2.aac"></audio>
 
  > The boss **took no notice of the** suggestion given by the clerk.  
  > 老板没理会员工提出的建议。    
+<audio src="./media/The boss took no notice _AAC.aac"></audio>
 
 ### 2.*高义频：* **[C] 布告 (牌)；通告：**  
 
  > A notice was put up in order to remind the students of the changed lecture time.  
  > 为了提醒学生们讲座时间有变动，张贴了一张通告。  （2009 陕西）  
+<audio src="./media/P298 notice1.aac"></audio>
 
 ### 3.*高义频：* **[U] 通知；预告：**  
 
  > Thanks for agreeing to see me **at such short notice**.  
  > 谢谢你一接到通知就同意见我。    
+<audio src="./media/P298 notice2.aac"></audio>
 
  > This shop will be closed for repairs **until further notice**.    
  > 本店因修缮停止营业，开业时间另行通知。  （2011 全国）  
+<audio src="./media/notice-5.aac"></audio>
 
 
 # ***\#notice*** v
-英音 'nəʊtɪs     美音 'noʊtɪs  
+英音 'nəʊtɪs  
+英音
+<audio src="./media/notice-B.aac"></audio>
+美音 'noʊtɪs  
+美音
+<audio src="./media/notice.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -3253,25 +4434,31 @@ D.Everything
 
  > He must have been working too hard to notice!  
  > 他一定是工作得太投了入而没有注意到！  （译林⑤ – 3）  
+<audio src="./media/notice-6.aac"></audio>
 
  > When he came back, he noticed something strange.  
  > 回来后，他注意到情况有些异常。  （北师大⑦ – 20）  
+<audio src="./media/notice-7.aac"></audio>
 
 - notice + that / wh- 从句：
 
  > I noticed (that) Jane was absent from class today.  
  > 我注意到简今天没来上课。    
+<audio src="./media/I noticed that Jane was _AAC.aac"></audio>
 
  > She hadn’t noticed before how grey her mother’s hair was.  
  > 她以前没注意到她妈妈的头发是那么的花白。    
+<audio src="./media/She hadn’t noticed _AAC.aac"></audio>
 
 - notice sb do / doing sth:
 
  > I noticed him look at me a few times.   
  > 我注意到他看了我好几次。    
+<audio src="./media/notice-11.aac"></audio>
 
  > Jeff noticed steam shooting out of the pot and the lid starting to shake.  
  > 杰夫注意到水蒸气从锅里喷出，锅盖开始晃动。  （2021新高考）  
+<audio src="./media/Jeff noticed steam shooting out of the pot and the lid starting to shake2_AAC.aac"></audio>
 
 
 派生词汇
@@ -3286,7 +4473,13 @@ noticeable /'nəʊtɪsəbl/ adj
 1. winding  
 
 # ***\#notion*** n
-英音 ˈnəʊʃn     美音 ˈnəʊʃn  
+英音 ˈnəʊʃn  
+英音
+<audio src="./media/notion1_AAC.aac"></audio>
+美音 ˈnəʊʃn  
+美音
+<audio src="./media/notion2_AAC.aac"></audio>
+
 
   
 
@@ -3296,9 +4489,14 @@ noticeable /'nəʊtɪsəbl/ adj
 
  > We each have a **notion of** just what kind of person we'd like to be.  
  > 我们每个人都对自己要做个什么样的人有各自的想法。    
+<audio src="./media/We each have a notion of just what kind of person we'd like to be2_AAC.aac"></audio>
 
 
 # ***\#not…anymore*** 
+英音
+<audio src="./media/not…anymore1_AAC.aac"></audio>
+美音
+<audio src="./media/not…anymore2_AAC.aac"></audio>
 
 
   
@@ -3309,7 +4507,13 @@ noticeable /'nəʊtɪsəbl/ adj
 
 
 # ***\#nourish*** vt
-英音 'nʌrɪʃ     美音 'nɜːrɪʃ  
+英音 'nʌrɪʃ  
+英音
+<audio src="./media/nourish1_AAC.aac"></audio>
+美音 'nɜːrɪʃ  
+美音
+<audio src="./media/nourish2_AAC.aac"></audio>
+
 
   
 
@@ -3319,10 +4523,17 @@ noticeable /'nəʊtɪsəbl/ adj
 
  > The travelling experiences nourished his love of nature.  
  > 这些旅行经历培养了他对自然的热爱。  （译林新选必① – 4）  
+<audio src="./media/The travelling experiences nourished his love of nature2_AAC.aac"></audio>
 
 
 # ***\#novel*** n
-英音 'nɒvl     美音 'nɑːvl  
+英音 'nɒvl  
+英音
+<audio src="./media/novel-B.aac"></audio>
+美音 'nɑːvl  
+美音
+<audio src="./media/novel.aac"></audio>
+
 
 | 词频 4 | 书面 1 |  
 
@@ -3334,7 +4545,13 @@ noticeable /'nəʊtɪsəbl/ adj
 
 
 # ***\#novel*** adj
-英音 'nɒvl     美音 'nɑːvl  
+英音 'nɒvl  
+英音
+<audio src="./media/novel-B.aac"></audio>
+美音 'nɑːvl  
+美音
+<audio src="./media/novel.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -3344,7 +4561,13 @@ noticeable /'nəʊtɪsəbl/ adj
 
 
 # ***\#novelist*** n
-英音 'nɒvəlɪst     美音 'nɑːvəlɪst  
+英音 'nɒvəlɪst  
+英音
+<audio src="./media/novelist-B.aac"></audio>
+美音 'nɑːvəlɪst  
+美音
+<audio src="./media/novelist.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -3356,10 +4579,17 @@ noticeable /'nəʊtɪsəbl/ adj
 
  > Charles Dickens is one of England’s most famous novelists.   
  > 查尔斯·狄更斯是英国最著名的小说家之一。  （人教⑦ – 3）  
+<audio src="./media/novelist-1.aac"></audio>
 
 
 # ***\#novelty*** n
-英音 'nɒvlti     美音 'nɒvlti  
+英音 'nɒvlti  
+英音
+<audio src="./media/novelty1_AAC.aac"></audio>
+美音 'nɒvlti  
+美音
+<audio src="./media/novelty 2_AAC.aac"></audio>
+
 
   
 
@@ -3371,7 +4601,13 @@ noticeable /'nəʊtɪsəbl/ adj
 
 
 # ***\#now*** adv
-英音 naʊ     美音 naʊ  
+英音 naʊ  
+英音
+<audio src="./media/now-B.aac"></audio>
+美音 naʊ  
+美音
+<audio src="./media/now.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3381,19 +4617,23 @@ noticeable /'nəʊtɪsəbl/ adj
 
  > I suppose he has arrived in Beijing **by now**.  
  > 我想他现在已经到北京了。    
+<audio src="./media/I suppose he has_AAC.aac"></audio>
 
  > It is quite difficult now to find a person without a cell phone.   
  > 现在很难找到没有手机的人。    
+<audio src="./media/now-2.aac"></audio>
 
 ### 2.*高义频：* **[表示时间点] 立刻；马上：**  
 
  > Start writing now.   
  > 马上开始写吧。    
+<audio src="./media/now-3.aac"></audio>
 
 ### 3.*高义频：* **[表示话题转换]：**  
 
  > Now, open your books to page 15.   
  > 现在，打开书翻到15页。    
+<audio src="./media/now-4.aac"></audio>
 
 
 固定搭配
@@ -3403,40 +4643,53 @@ noticeable /'nəʊtɪsəbl/ adj
 
  > Snakes come near the house now and then.   
  > 时不时会有蛇爬到房子附近。  （人教⑧ – 3）  
+<audio src="./media/now-5.aac"></audio>
 
  > Now and again he still visits me.   
  > 他偶尔还来看我。    
+<audio src="./media/now-6.aac"></audio>
 
 ## \#for now
 1.**目前；暂时：**  
 
  > Although these measures are not effective forever, they are vital for now.  
  > 尽管这些措施不会永远有效，但目前还是极为重要的。  （2016 北京）  
+<audio src="./media/Although these measures are _AAC.aac"></audio>
 
 ## \#from now on
 1.**从现在起：**  
 
  > From now on, I'll pay more attention to my health father than my weight.  
  > 从现在开始，我会更注重我的健康而不是体重。  （译林新必修① – 4）  
+<audio src="./media/From now on, I'll pay more attention to my health father than my weight2_AAC.aac"></audio>
 
 ## \#just now 
 1.**刚才；现在：**  
 
  > Tom was here just now.   
  > 汤姆刚才在这儿的。    
+<audio src="./media/now-7.aac"></audio>
 
  > Do not talk about it just now.   
  > 现在别讨论这件事。    
+<audio src="./media/now-8.aac"></audio>
 
 ## \#up to now / until now / till now
 1.**迄今为止：**  
 
  > Up to / Until now, the program has saved thousands of children who would otherwise have died.  
  > 到目前为止，这项计划已经挽救了成千上万名原本会死亡的那些孩子。  （2010 山东）  
+<audio src="./media/Up to now, the program_AAC.aac"></audio>
 
 
 # ***\#now*** n
-英音 naʊ     美音 naʊ  
+英音 naʊ  
+英音
+<audio src="./media/now-B.aac"></audio>
+美音 naʊ  
+美音
+<audio src="./media/now.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3448,19 +4701,29 @@ noticeable /'nəʊtɪsəbl/ adj
 
  > That’s all **for now**.   
  > 眼下就这些。    
+<audio src="./media/now-9.aac"></audio>
 
  > I suppose he has arrived in Beijing **by now**.   
  > 我想他现在已经到北京了。    
+<audio src="./media/now-10.aac"></audio>
 
  > **Up to / until now**, the program has saved thousands of children who would otherwise have died.   
  > 到目前为止，这项计划已经挽救了成千上万原本没救的孩子的生命。  （2010 山东）  
+<audio src="./media/now-11.aac"></audio>
 
  > **From now on** I will try to do better.   
  > 从现在起我要争取做得更好。    
+<audio src="./media/now-12.aac"></audio>
 
 
 # ***\#now*** conj
-英音 naʊ     美音 naʊ  
+英音 naʊ  
+英音
+<audio src="./media/now-B.aac"></audio>
+美音 naʊ  
+美音
+<audio src="./media/now.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 1 |  
 
@@ -3470,13 +4733,21 @@ noticeable /'nəʊtɪsəbl/ adj
 
  > Now (that) I’m well again, I can go on with my work.   
  > 我既然恢复了健康，就可以继续工作了。    
+<audio src="./media/now-13.aac"></audio>
 
  > Now that I have made this first visit, I hope I can come many more times.    
  > 既然有了第一次的造访，我希望以后能常来。  （外研② – 5）  
+<audio src="./media/now-14.aac"></audio>
 
 
 # ***\#nowadays*** adv
-英音 'naʊədeɪz     美音 'naʊədeɪz  
+英音 'naʊədeɪz  
+英音
+<audio src="./media/nowadays-B.aac"></audio>
+美音 'naʊədeɪz  
+美音
+<audio src="./media/nowadays.aac"></audio>
+
 
 | 词频 4 | 口语 2 |  
 
@@ -3486,10 +4757,17 @@ noticeable /'nəʊtɪsəbl/ adj
 
  > Nowadays people separate their waste to make it easier for it to be reused.   
  > 现在人们把垃圾分类，以便于废物再利用。  （ 2009 湖南改）  
+<audio src="./media/nowadays-1.aac"></audio>
 
 
 # ***\#noway*** adv
-英音 ˌnəʊ'weɪ     美音 ˌnoʊ'weɪ  
+英音 ˌnəʊ'weɪ  
+英音
+<audio src="./media/noway-B.aac"></audio>
+美音 ˌnoʊ'weɪ  
+美音
+<audio src="./media/noway.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3499,7 +4777,13 @@ noticeable /'nəʊtɪsəbl/ adj
 
 
 # ***\#nowhere*** adv
-英音 'nəʊweə(r)     美音 'noʊwer  
+英音 'nəʊweə(r)  
+英音
+<audio src="./media/nowhere-B.aac"></audio>
+美音 'noʊwer  
+美音
+<audio src="./media/nowhere.aac"></audio>
+
 
 | 词频 3 | 口语 2 |  
 
@@ -3509,9 +4793,11 @@ noticeable /'nəʊtɪsəbl/ adj
 
  > I’m going nowhere until you are back.   
  > 你回来之前我哪儿都不去。    
+<audio src="./media/nowhere-1.aac"></audio>
 
  > We destroy animal habitats and leave many animals with **nowhere to live**.  
  > 我们破坏了动物的栖息地，使许多动物无处居住。  （译林新必修③ – 1）  
+<audio src="./media/We destroy animal habitats and leave many animals with nowhere to live2_AAC.aac"></audio>
 
 
 固定搭配
@@ -3521,12 +4807,14 @@ noticeable /'nəʊtɪsəbl/ adj
 
  > Our budget is nowhere near enough.   
  > 我们的预算远远不够。    
+<audio src="./media/nowhere-2.aac"></audio>
 
 ## \#nowhere to be found / seen
 1.**哪儿也找不到 / 看不到：**  
 
  > I left my necklace on the table by the bed, but it is just **nowhere to be found**.  
  > 我把项链放在床边的桌子上了，但是现在哪儿也找不到。  （2009 湖南）  
+<audio src="./media/I left my necklace on the table_AAC.aac"></audio>
 
 
 真题解析
@@ -3541,7 +4829,13 @@ D.near nowhere enough
 1. A.  
 
 # ***\#nuclear*** adj
-英音 'njuːkliə(r)     美音 'nuːkliər  
+英音 'njuːkliə(r)  
+英音
+<audio src="./media/nuclear-B.aac"></audio>
+美音 'nuːkliər  
+美音
+<audio src="./media/nuclear.aac"></audio>
+
 
 | 词频 3 | 书面 1 | 阅读 2 |  
 
@@ -3557,7 +4851,13 @@ D.near nowhere enough
 
 
 # ***\#nucleus*** n
-英音 'njuːkliəs     美音 'nuːkliəs  
+英音 'njuːkliəs  
+英音
+<audio src="./media/nucleus-B.aac"></audio>
+美音 'nuːkliəs  
+美音
+<audio src="./media/nucleus.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3569,7 +4869,13 @@ D.near nowhere enough
 
 
 # ***\#nudge*** v
-英音 nʌdʒ     美音 nʌdʒ  
+英音 nʌdʒ  
+英音
+<audio src="./media/nudge1.aac"></audio>
+美音 nʌdʒ  
+美音
+<audio src="./media/nudge2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3579,7 +4885,13 @@ D.near nowhere enough
 
 
 # ***\#nudge*** n
-英音 nʌdʒ     美音 nʌdʒ  
+英音 nʌdʒ  
+英音
+<audio src="./media/nudge1.aac"></audio>
+美音 nʌdʒ  
+美音
+<audio src="./media/nudge2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3589,7 +4901,13 @@ D.near nowhere enough
 
 
 # ***\#nuisance*** n
-英音 'njuːsns     美音 'nuːsns  
+英音 'njuːsns  
+英音
+<audio src="./media/nuisance1.aac"></audio>
+美音 'nuːsns  
+美音
+<audio src="./media/nuisance2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3599,7 +4917,13 @@ D.near nowhere enough
 
 
 # ***\#numb*** adj
-英音 nʌm     美音 nʌm  
+英音 nʌm  
+英音
+<audio src="./media/numb-B.aac"></audio>
+美音 nʌm  
+美音
+<audio src="./media/numb.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3609,13 +4933,21 @@ D.near nowhere enough
 
  > I was **numb with shock**!  
  > 我惊呆了!  （人教⑦ – 5）  
+<audio src="./media/I was numb with shock_AAC.aac"></audio>
 
  > Our hands and feet became numb from the cold weather.  
  > 天气寒冷，我们的手脚都冻僵了。    
+<audio src="./media/numb-2.aac"></audio>
 
 
 # ***\#number*** n
-英音 'nʌmbə(r)     美音 'nʌmbər  
+英音 'nʌmbə(r)  
+英音
+<audio src="./media/number-B.aac"></audio>
+美音 'nʌmbər  
+美音
+<audio src="./media/number.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3635,22 +4967,32 @@ D.near nowhere enough
 
  > My room is No. 6.  
  > 我的房间是6号。    
+<audio src="./media/number-1.aac"></audio>
 
 ### 3.*高义频：* **数目；数量：**  
 
  > Visitors came **in large / great numbers**.  
  > 参观者蜂拥而至。    
+<audio src="./media/Visitors came in large numbers_AAC.aac"></audio>
 
  > **A** growing **number of** cities do not allow plastic shopping bags at checkouts.  
  > 越来越多的城市禁止在收银台出售塑料购物袋。  （2018 浙江改）  
+<audio src="./media/A growing number of cities do not _AAC.aac"></audio>
 
  > Today **the number of** people learning Chinese is increasing rapidly.  
  > 目前学习中文的人数正在迅速增加。    
+<audio src="./media/Today the number of people learning_AAC.aac"></audio>
 
 Notes: a number of后接复数名词，作主语时，谓语动词用复数。the number of后接复数名词，作主语时，谓语动词用单数。  
 
 # ***\#number*** vi
-英音 'nʌmbə(r)     美音 'nʌmbər  
+英音 'nʌmbə(r)  
+英音
+<audio src="./media/number-B.aac"></audio>
+美音 'nʌmbər  
+美音
+<audio src="./media/number.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3660,10 +5002,17 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
 
  > The Bajau number in the hundreds of thousands in Southeastern Asia.  
  > 巴瑶人在东南亚有数十万。  （2020全国改）  
+<audio src="./media/The Bajau number in the hundreds of thousands in Southeastern Asia2_AAC.aac"></audio>
 
 
 # ***\#numerology*** n
-英音 ˌnjuːmə'rɒlədʒi     美音 ˌnuːmə'rɑːlədʒi  
+英音 ˌnjuːmə'rɒlədʒi  
+英音
+<audio src="./media/numerology1.aac"></audio>
+美音 ˌnuːmə'rɑːlədʒi  
+美音
+<audio src="./media/numerology2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3673,7 +5022,13 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
 
 
 # ***\#numerous*** adj
-英音 'njuːmərəs     美音 'nuːmərəs  
+英音 'njuːmərəs  
+英音
+<audio src="./media/numerous-B.aac"></audio>
+美音 'nuːmərəs  
+美音
+<audio src="./media/numerous.aac"></audio>
+
 
 | 词频 2 | 书面 1 | 阅读 2 |  
 
@@ -3683,10 +5038,17 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
 
  > The individuals who have contributed to this book are far **too numerous to mention**.   
  > 为本书做过贡献的人数不胜数。    
+<audio src="./media/numerous-1.aac"></audio>
 
 
 # ***\#nurse*** n
-英音 nɜːs     美音 nɜːrs  
+英音 nɜːs  
+英音
+<audio src="./media/nurse-B.aac"></audio>
+美音 nɜːrs  
+美音
+<audio src="./media/nurse.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -3698,7 +5060,13 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
 
 
 # ***\#nurse*** v
-英音 nɜːs     美音 nɜːrs  
+英音 nɜːs  
+英音
+<audio src="./media/nurse-B.aac"></audio>
+美音 nɜːrs  
+美音
+<audio src="./media/nurse.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -3710,7 +5078,13 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
 
 
 # ***\#nursery*** n
-英音 'nɜːsəri     美音 'nɜːrsəri  
+英音 'nɜːsəri  
+英音
+<audio src="./media/nursery-B.aac"></audio>
+美音 'nɜːrsəri  
+美音
+<audio src="./media/nursery.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3725,7 +5099,13 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
 
 
 # ***\#nursery*** adj
-英音 'nɜːsəri     美音 'nɜːrsəri  
+英音 'nɜːsəri  
+英音
+<audio src="./media/nursery-B.aac"></audio>
+美音 'nɜːrsəri  
+美音
+<audio src="./media/nursery.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3741,7 +5121,13 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
 
 
 # ***\#nut*** n
-英音 nʌt     美音 nʌt  
+英音 nʌt  
+英音
+<audio src="./media/nut-B.aac"></audio>
+美音 nʌt  
+美音
+<audio src="./media/nut.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -3756,7 +5142,13 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
 
 
 # ***\#nutrient*** n
-英音 ˈnjuːtriənt     美音 ˈnuːtriənt  
+英音 ˈnjuːtriənt  
+英音
+<audio src="./media/nutrient1_AAC.aac"></audio>
+美音 ˈnuːtriənt  
+美音
+<audio src="./media/nutrient2_AAC.aac"></audio>
+
 
   
 
@@ -3766,7 +5158,13 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
 
 
 # ***\#nutrition*** n
-英音 nju'trɪʃn     美音 nu'trɪʃn  
+英音 nju'trɪʃn  
+英音
+<audio src="./media/nutrition-B.aac"></audio>
+美音 nu'trɪʃn  
+美音
+<audio src="./media/nutrition.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -3781,6 +5179,7 @@ Notes: a number of后接复数名词，作主语时，谓语动词用复数。th
 
  > A balanced diet provides nutrition for your body.   
  > 均衡的饮食为身体提供营养。    
+<audio src="./media/nutrition-1.aac"></audio>
 
 
 派生词汇
@@ -3792,7 +5191,13 @@ nutritional /njuˈtrɪʃənl/ adj
 nutritious /njuˈtrɪʃəs/ adj   
 
 # ***\#nutritional*** adj
-英音 njuˈtrɪʃənl     美音 nuˈtrɪʃənl  
+英音 njuˈtrɪʃənl  
+英音
+<audio src="./media/nutritional1_AAC.aac"></audio>
+美音 nuˈtrɪʃənl  
+美音
+<audio src="./media/nutritional1_AAC.aac"></audio>
+
 
   
 
@@ -3802,7 +5207,13 @@ nutritious /njuˈtrɪʃəs/ adj
 
 
 # ***\#nutritious*** adj
-英音 njuˈtrɪʃəs     美音 njuˈtrɪʃəs  
+英音 njuˈtrɪʃəs  
+英音
+<audio src="./media/nutritious1_AAC.aac"></audio>
+美音 njuˈtrɪʃəs  
+美音
+<audio src="./media/nutritious1_AAC.aac"></audio>
+
 
   
 
@@ -3812,7 +5223,13 @@ nutritious /njuˈtrɪʃəs/ adj
 
 
 # ***\#nutshell*** n
-英音 'nʌtʃel     美音 'nʌtʃel  
+英音 'nʌtʃel  
+英音
+<audio src="./media/nutshell1.aac"></audio>
+美音 'nʌtʃel  
+美音
+<audio src="./media/nutshell2.aac"></audio>
+
 
 | 词频 1 |  
 

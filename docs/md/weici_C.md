@@ -1,7 +1,13 @@
 # Cc
 
 # ***\#cab*** n
-英音 kæb     美音 kæb  
+英音 kæb  
+英音
+<audio src="./media/cab-B.aac"></audio>
+美音 kæb  
+美音
+<audio src="./media/cab.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -13,7 +19,13 @@
 
 
 # ***\#cabbage*** n
-英音 'kæbɪdʒ     美音 'kæbɪdʒ  
+英音 'kæbɪdʒ  
+英音
+<audio src="./media/cabbage-B.aac"></audio>
+美音 'kæbɪdʒ  
+美音
+<audio src="./media/cabbage.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -25,7 +37,13 @@
 
 
 # ***\#cabin*** n
-英音 'kæbɪn     美音 'kæbɪn  
+英音 'kæbɪn  
+英音
+<audio src="./media/cabin-B.aac"></audio>
+美音 'kæbɪn  
+美音
+<audio src="./media/cabin.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -37,7 +55,13 @@
 
 
 # ***\#cabinet*** n
-英音 'kæbɪnət     美音 'kæbɪnət  
+英音 'kæbɪnət  
+英音
+<audio src="./media/cabinet-B.aac"></audio>
+美音 'kæbɪnət  
+美音
+<audio src="./media/cabinet.aac"></audio>
+
 
 | 词频 1 | 口语 2 | 书面 2 |  
 
@@ -47,7 +71,13 @@
 
 
 # ***\#cable*** n
-英音 'keɪbl     美音 'keɪbl  
+英音 'keɪbl  
+英音
+<audio src="./media/cable-B.aac"></audio>
+美音 'keɪbl  
+美音
+<audio src="./media/cable.aac"></audio>
+
 
 | 词频 1 | 书面 1 |  
 
@@ -63,7 +93,13 @@
 
 
 # ***\#cafe*** n
-英音 'kæfeɪ     美音 kæ'feɪ  
+英音 'kæfeɪ  
+英音
+<audio src="./media/cafe-B.aac"></audio>
+美音 kæ'feɪ  
+美音
+<audio src="./media/cafe.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -78,7 +114,13 @@
 
 
 # ***\#cafeteria*** n
-英音 ˌkæfə'tɪəriə     美音 ˌkæfə'tɪriə  
+英音 ˌkæfə'tɪəriə  
+英音
+<audio src="./media/cafeteria-B.aac"></audio>
+美音 ˌkæfə'tɪriə  
+美音
+<audio src="./media/cafeteria.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -90,7 +132,13 @@
 
 
 # ***\#cage*** n
-英音 keɪdʒ     美音 keɪdʒ  
+英音 keɪdʒ  
+英音
+<audio src="./media/cage-B.aac"></audio>
+美音 keɪdʒ  
+美音
+<audio src="./media/cage.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -102,7 +150,13 @@
 
 
 # ***\#cage*** vt
-英音 keɪdʒ     美音 keɪdʒ  
+英音 keɪdʒ  
+英音
+<audio src="./media/cage-B.aac"></audio>
+美音 keɪdʒ  
+美音
+<audio src="./media/cage.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -112,7 +166,13 @@
 
 
 # ***\#cake*** n
-英音 keɪk     美音 keɪk  
+英音 keɪk  
+英音
+<audio src="./media/cake-B.aac"></audio>
+美音 keɪk  
+美音
+<audio src="./media/cake.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -124,7 +184,13 @@
 
 
 # ***\#calcium*** n
-英音 'kælsiəm     美音 'kælsiəm  
+英音 'kælsiəm  
+英音
+<audio src="./media/calcium1.aac"></audio>
+美音 'kælsiəm  
+美音
+<audio src="./media/calcium2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -134,7 +200,13 @@
 
 
 # ***\#calculable*** adj
-英音 ˈkælkjələbl     美音 ˈkælkjələbl  
+英音 ˈkælkjələbl  
+英音
+<audio src="./media/calculable1_AAC.aac"></audio>
+美音 ˈkælkjələbl  
+美音
+<audio src="./media/calculable2_AAC.aac"></audio>
+
 
   
 
@@ -144,7 +216,13 @@
 
 
 # ***\#calculate*** v  重难点词汇
-英音 'kælkjuleɪt     美音 'kælkjuleɪt  
+英音 'kælkjuleɪt  
+英音
+<audio src="./media/calculate-B.aac"></audio>
+美音 'kælkjuleɪt  
+美音
+<audio src="./media/calculate.aac"></audio>
+
 
 | 词频 2 | 口语 2 | 书面 1 | 阅读 1 |  
 
@@ -154,19 +232,23 @@
 
  > The teacher calculated the average mark of the class.   
  > 老师计算了全班的平均分。    
+<audio src="./media/1-calculate.aac"></audio>
 
 - calculate + that / wh- 从句：
 
  > Sally calculated that she’d have about $100 left.  
  > 萨莉算了一下，自己还剩下大约100美元。    
+<audio src="./media/2-calculate.aac"></audio>
 
  > At some stage we need to calculate when the project will be finished.   
  > 在某个阶段，我们需要算算该项目何时才能完工。    
+<audio src="./media/P69 calculate2.aac"></audio>
 
 - it is calculated + that 从句：
 
  > It is roughly calculated that in 1997 alone, about 2.3 million people died of HIV.  
  > 据粗略计算，仅1997年就有约230万人死于艾滋病。    
+<audio src="./media/4-calculate.aac"></audio>
 
 ### 2.*高义频：* **预测；估计（estimate）：**  
 
@@ -174,9 +256,11 @@
 
  > I calculated that we would arrive at 6:00 pm.  
  > 我估计我们下午6点到。    
+<audio src="./media/5-calculate.aac"></audio>
 
  > This painting is so valuable that it is difficult to calculate what its price would be.  
  > 这幅画非常珍贵，很难估算出它的价格。  （译林⑧ – 3改）  
+<audio src="./media/6-calculate.aac"></audio>
 
 
 派生词汇
@@ -192,7 +276,13 @@ calculator /'kælkjuleɪtə(r)/ n [C]
 1. calculated  
 
 # ***\#calculated*** adj
-英音 ˈkælkjuleɪtɪd     美音 ˈkælkjuleɪtɪd  
+英音 ˈkælkjuleɪtɪd  
+英音
+<audio src="./media/calculated1_AAC.aac"></audio>
+美音 ˈkælkjuleɪtɪd  
+美音
+<audio src="./media/calculated2_AAC.aac"></audio>
+
 
   
 
@@ -202,7 +292,13 @@ calculator /'kælkjuleɪtə(r)/ n [C]
 
 
 # ***\#calculation*** n
-英音 ˌkælkjuˈleɪʃn     美音 ˌkælkjuˈleɪʃn  
+英音 ˌkælkjuˈleɪʃn  
+英音
+<audio src="./media/calculation1_AAC.aac"></audio>
+美音 ˌkælkjuˈleɪʃn  
+美音
+<audio src="./media/calculation2_AAC.aac"></audio>
+
 
   
 
@@ -212,7 +308,13 @@ calculator /'kælkjuleɪtə(r)/ n [C]
 
 
 # ***\#calculator*** n
-英音 'kælkjuleɪtə(r)     美音 'kælkjuleɪtər  
+英音 'kælkjuleɪtə(r)  
+英音
+<audio src="./media/calculator-b.aac"></audio>
+美音 'kælkjuleɪtər  
+美音
+<audio src="./media/calculator.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -224,7 +326,13 @@ calculator /'kælkjuleɪtə(r)/ n [C]
 
 
 # ***\#calendar*** n
-英音 'kælɪndə(r)     美音 'kælɪndər  
+英音 'kælɪndə(r)  
+英音
+<audio src="./media/calendar-B.aac"></audio>
+美音 'kælɪndər  
+美音
+<audio src="./media/calendar.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -236,7 +344,13 @@ calculator /'kælkjuleɪtə(r)/ n [C]
 
 
 # ***\#calf*** n
-英音 kɑːf     美音 kæf  
+英音 kɑːf  
+英音
+<audio src="./media/calf-B.aac"></audio>
+美音 kæf  
+美音
+<audio src="./media/calf.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -248,7 +362,13 @@ calculator /'kælkjuleɪtə(r)/ n [C]
 
 
 # ***\#call*** v  重难点词汇
-英音 kɔːl     美音 kɔːl  
+英音 kɔːl  
+英音
+<audio src="./media/call-B.aac"></audio>
+美音 kɔːl  
+美音
+<audio src="./media/call.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -258,19 +378,23 @@ calculator /'kælkjuleɪtə(r)/ n [C]
 
  > Will you call the kids in for lunch?   
  > 把孩子们叫进来吃午饭好吗？    
+<audio src="./media/2-call.aac"></audio>
 
  > Listen! Do you hear someone **calling (out) for** help?  
  > 听！你听到有人在（大声）呼救吗？    
+<audio src="./media/3-call.aac"></audio>
 
 ### 2.*高义频：* **命名；把...叫做(name)：**  
 
  > They’ve decided to call the baby Anna.   
  > 他们决定给宝宝取名为安娜。    
+<audio src="./media/P69 call1.aac"></audio>
 
 ### 3.*高义频：* **认为……是：**  
 
  > I wouldn't call Chinese an easy language.  
  > 我不认为中文是一门容易学的语言。    
+<audio src="./media/Call-101_AAC.aac"></audio>
 
 ### 4.*高义频：* **召开；召集：**  
 
@@ -281,9 +405,11 @@ calculator /'kælkjuleɪtə(r)/ n [C]
 
  > For further information please call 0161 245 6609.  
  > 欲知详情，请致电01612456609。  （2011 陕西）  
+<audio src="./media/4-call.aac"></audio>
 
  > Please call again later.   
  > 请稍后再打电话。    
+<audio src="./media/5-call.aac"></audio>
 
 
 固定搭配
@@ -296,29 +422,34 @@ calculator /'kælkjuleɪtə(r)/ n [C]
 
  > She wants you to call her back as soon as you are home.  
  > 她要你一到家就给她回电话。  （2009 全国）  
+<audio src="./media/Call-102_AAC.aac"></audio>
 
 ## \#call for
 1.*高义频：* **需要；要求：**  
 
  > Sometimes situations call for us to act strong and brave.  
  > 有时形势要求我们表现得强大、勇敢。  （2011 广东）  
+<audio src="./media/Call-103_AAC.aac"></audio>
 
 2.*高义频：* **去 (某处) 接人 / 物：**  
 
  > I’ll call for you at your home.   
  > 我会到你家接你。    
+<audio src="./media/11-call.aac"></audio>
 
 ## \#call in
 1.**召来；找来：**  
 
  > Your mother is very ill. Call in a doctor at once.   
  > 你妈妈病得很严重，马上找个医生来。    
+<audio src="./media/13-call.aac"></audio>
 
 ## \#call it a day
 1.**［非正式用语］结束；到此为止：**  
 
  > Let’s call it a day and go and have a bite.  
  > 咱们到此为止，去吃点东西吧。  （2009 浙江）  
+<audio src="./media/Let's call it a day_AAC.aac"></audio>
 
 ## \#call off
 1.**取消 (cancel)；停止进行：**  
@@ -331,20 +462,24 @@ calculator /'kælkjuleɪtə(r)/ n [C]
 
  > I’ll take a walk and then call on some friends.  
  > 我要去散步，然后拜访一些朋友。    
+<audio src="./media/I’ll take a walk _AAC.aac"></audio>
 
 2.*低义频：* **号召；要求：**  
 
  > The Ministry of Education calls on students to exercise for an hour every day.   
  > 教育部要求学生每天锻炼一个小时。    
+<audio src="./media/15-call.aac"></audio>
 
 ## \#call up 
 1.**打电话给；使人想起：**  
 
  > I’ll call you up when I need your help.   
  > 我需要你帮助的时候会给你打电话。    
+<audio src="./media/16-call.aac"></audio>
 
  > This picture called up memories of our class trip.   
  > 这张照片使我想起我们班的那次旅行。    
+<audio src="./media/17-call.aac"></audio>
 
 
 真题解析
@@ -359,7 +494,13 @@ calculator /'kælkjuleɪtə(r)/ n [C]
 1. for  2. will call  3. on / upon  4. up  
 
 # ***\#call*** n  重难点词汇
-英音 kɔːl     美音 kɔːl  
+英音 kɔːl  
+英音
+<audio src="./media/call-B.aac"></audio>
+美音 kɔːl  
+美音
+<audio src="./media/call.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -387,9 +528,11 @@ calculator /'kælkjuleɪtə(r)/ n [C]
 
  > There are pressing **calls on** the resources of the government.  
  > 目前对政府资源有迫切的需求。  （2010 北京）  
+<audio src="./media/18-call.aac"></audio>
 
  > There have been **calls for** national unity.  
  > 一直有国家统一的呼声。    
+<audio src="./media/Call-104_AAC.aac"></audio>
 
 
 派生词汇
@@ -400,7 +543,13 @@ called /kɔːld/ adj [不用于名词前]
 
 
 # ***\#calligraphy*** n
-英音 kə'lɪɡrəfi     美音 kə'lɪɡrəfi  
+英音 kə'lɪɡrəfi  
+英音
+<audio src="./media/calligraphy1_AAC.aac"></audio>
+美音 kə'lɪɡrəfi  
+美音
+<audio src="./media/calligraphy2_AAC.aac"></audio>
+
 
   
 
@@ -410,7 +559,13 @@ called /kɔːld/ adj [不用于名词前]
 
 
 # ***\#calling*** n
-英音 'kɔːlɪŋ     美音 'kɔːlɪŋ  
+英音 'kɔːlɪŋ  
+英音
+<audio src="./media/calling1_AAC.aac"></audio>
+美音 'kɔːlɪŋ  
+美音
+<audio src="./media/calling2_AAC.aac"></audio>
+
 
   
 
@@ -420,7 +575,13 @@ called /kɔːld/ adj [不用于名词前]
 
 
 # ***\#calm*** adj
-英音 kɑːm     美音 kɑːm  
+英音 kɑːm  
+英音
+<audio src="./media/calm-B.aac"></audio>
+美音 kɑːm  
+美音
+<audio src="./media/calm.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 |  
 
@@ -430,11 +591,13 @@ called /kɔːld/ adj [不用于名词前]
 
  > The weather was fine and the lake was calm.  
  > 天气很好，湖面很平静。  （外研④ – 6）  
+<audio src="./media/1-calm.aac"></audio>
 
 ### 2.*高义频：* **(人) 镇静的；沉着的：**  
 
  > If you are lost in the mountains, **stay** / **keep calm** in the face of darkness, loneliness, and the unknown..  
  > 如果在深山里迷路了，面对黑暗、孤独和未知的情况，要保持镇静。    
+<audio src="./media/calm55.aac"></audio>
 
 #### 辨析 quiet, calm, still, silent
 四者均可用作形容词，均含有“静”的意思。  
@@ -444,9 +607,11 @@ called /kɔːld/ adj [不用于名词前]
 **silent** 用于指事物时，侧重没有声响；用于指人时，强调少言寡语。
  > The house was silent because everyone was asleep.  
  > 所有的人都睡着了，房子里很安静。    
+<audio src="./media/quiet-8.aac"></audio>
 
  > John is a silent, thoughtful boy.  
  > 约翰是个不爱讲话，喜欢思考的孩子。    
+<audio src="./media/quiet-9.aac"></audio>
 
 
 
@@ -455,7 +620,13 @@ called /kɔːld/ adj [不用于名词前]
 calmly /'kɑːmli/ adv   
 
 # ***\#calm*** v
-英音 kɑːm     美音 kɑːm  
+英音 kɑːm  
+英音
+<audio src="./media/calm-B.aac"></audio>
+美音 kɑːm  
+美音
+<audio src="./media/calm.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -471,13 +642,21 @@ calmly /'kɑːmli/ adv
 
  > I placed the chick in the nest, and it quickly calmed down.  
  > 我把小鸟放到窝里，它很快平静了下来。  （2017 全国）  
+<audio src="./media/Calm-101_AAC.aac"></audio>
 
  > When he gets upset, he will take a few deep breaths to **calm himself down**.  
  > 心烦时，他会深深地吸几口气以使自己平静下来。    
+<audio src="./media/When he gets upset_AAC.aac"></audio>
 
 
 # ***\#calm*** n
-英音 kɑːm     美音 kɑːm  
+英音 kɑːm  
+英音
+<audio src="./media/calm-B.aac"></audio>
+美音 kɑːm  
+美音
+<audio src="./media/calm.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -489,10 +668,17 @@ calmly /'kɑːmli/ adv
 
  > After a storm comes a calm.  
  > 暴风雨之后是平静。    
+<audio src="./media/5-calm.aac"></audio>
 
 
 # ***\#calorie*** n
-英音 'kæləri     美音 'kæləri  
+英音 'kæləri  
+英音
+<audio src="./media/calorie-B.aac"></audio>
+美音 'kæləri  
+美音
+<audio src="./media/calorie.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -504,7 +690,13 @@ calmly /'kɑːmli/ adv
 
 
 # ***\#camel*** n
-英音 'kæml     美音 'kæml  
+英音 'kæml  
+英音
+<audio src="./media/camel-B.aac"></audio>
+美音 'kæml  
+美音
+<audio src="./media/camel.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -516,7 +708,13 @@ calmly /'kɑːmli/ adv
 
 
 # ***\#camera*** n
-英音 'kæmərə     美音 'kæmərə  
+英音 'kæmərə  
+英音
+<audio src="./media/camera-B.aac"></audio>
+美音 'kæmərə  
+美音
+<audio src="./media/camera.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -531,7 +729,13 @@ calmly /'kɑːmli/ adv
 
 
 # ***\#camp*** n
-英音 kæmp     美音 kæmp  
+英音 kæmp  
+英音
+<audio src="./media/camp-B.aac"></audio>
+美音 kæmp  
+美音
+<audio src="./media/camp.aac"></audio>
+
 
 | 词频 5 | 口语 1 | 书面 1 |  
 
@@ -549,10 +753,17 @@ calmly /'kɑːmli/ adv
 
  > They belong to different political camps.  
  > 他们属于不同的政治阵营。    
+<audio src="./media/1-camp.aac"></audio>
 
 
 # ***\#camp*** vi
-英音 kæmp     美音 kæmp  
+英音 kæmp  
+英音
+<audio src="./media/camp-B.aac"></audio>
+美音 kæmp  
+美音
+<audio src="./media/camp.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -568,6 +779,7 @@ calmly /'kɑːmli/ adv
 
  > He planned to camp out in the wild.  
  > 他计划在野外露营。    
+<audio src="./media/2-camp.aac"></audio>
 
 
 派生词汇
@@ -578,7 +790,13 @@ camping /'kæmpɪŋ/ n [U]
 
 
 # ***\#campaign*** n
-英音 kæm'peɪn     美音 kæm'peɪn  
+英音 kæm'peɪn  
+英音
+<audio src="./media/campaign-B.aac"></audio>
+美音 kæm'peɪn  
+美音
+<audio src="./media/campaign.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 3 | 阅读 2 |  
 
@@ -590,10 +808,17 @@ camping /'kæmpɪŋ/ n [U]
 
  > The government is **launching** an advertising **campaign** in order to tell people about the dangers of drugs.  
  > 政府正在开展宣传活动，以告诫人们毒品的危害。    
+<audio src="./media/P70 campaign.aac"></audio>
 
 
 # ***\#campaign*** vt
-英音 kæm'peɪn     美音 kæm'peɪn  
+英音 kæm'peɪn  
+英音
+<audio src="./media/campaign-B.aac"></audio>
+美音 kæm'peɪn  
+美音
+<audio src="./media/campaign.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 3 | 阅读 2 |  
 
@@ -603,7 +828,13 @@ camping /'kæmpɪŋ/ n [U]
 
 
 # ***\#camping*** n
-英音 'kæmpɪŋ     美音 'kæmpɪŋ  
+英音 'kæmpɪŋ  
+英音
+<audio src="./media/camping1_AAC.aac"></audio>
+美音 'kæmpɪŋ  
+美音
+<audio src="./media/camping2_AAC.aac"></audio>
+
 
   
 
@@ -613,7 +844,13 @@ camping /'kæmpɪŋ/ n [U]
 
 
 # ***\#campus*** n
-英音 'kæmpəs     美音 'kæmpəs  
+英音 'kæmpəs  
+英音
+<audio src="./media/campus-B.aac"></audio>
+美音 'kæmpəs  
+美音
+<audio src="./media/campus.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -628,7 +865,13 @@ camping /'kæmpɪŋ/ n [U]
 
 
 # ***\#can*** modal v
-英音 kən; kæn     美音 kən; kæn  
+英音 kən; kæn  
+英音
+<audio src="./media/Can01.aac"></audio>
+美音 kən; kæn  
+美音
+<audio src="./media/Can02.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -640,40 +883,49 @@ camping /'kæmpɪŋ/ n [U]
 
  > “Help! Help! I can’t swim,” screamed the frightened boy.  
  > “救命！救命！我不会游泳。”那个惊恐的男孩大声喊叫。  （人教⑤ – 2）  
+<audio src="./media/1-can.aac"></audio>
 
 ### 2.*高义频：* **［表示可能性］可能会；会：**  
 
  > Even an experienced teacher can make a mistake.  
  > 即使是经验丰富的老师也可能犯错。    
+<audio src="./media/3-can.aac"></audio>
 
  > It can be quite cold here at night.  
  > 这里晚上有时会很冷。    
+<audio src="./media/Can-101_AAC.aac"></audio>
 
 Notes: cannot和can’t都是can的否定形式。  
 Notes: can表示推测时常用于否定句和疑问句。对现在和将来的推测，其后接动词原形 (can’t do不可能做)；对过去的推测，其后接动词的完成式 (can’t have done不可能做过)。  
  > That can’t be Mary — she is in London now.  
  > 那不可能是玛丽——现在她在伦敦。    
+<audio src="./media/4-can.aac"></audio>
 
  > George can’t have gone too far. His coffee is still warm.   
  > 乔治不可能走很远，他的咖啡还是温的。  （2016 浙江）  
+<audio src="./media/can55.aac"></audio>
 
 ### 3.*高义频：* **［表示请求、许可］可以；能：**  
 
  > Stop, you can’t play ball on the street!  
  > 快停，街道上不准玩球！    
+<audio src="./media/8-can.aac"></audio>
 
  > Can you help me lift this box?  
  > 你能帮我抬一下这个箱子吗？    
+<audio src="./media/Can you help me lift_AAC.aac"></audio>
 
 ### 4.*高义频：* **[表示建议] 可以：**  
 
  > We can go running, play ball games or simply take a walk after a day’s study.  
  > 学习了一天，我们可以去跑步、打球或者就散散步。  （2008 辽宁）  
+<audio src="./media/can-9.aac"></audio>
 
 ### 5.*高义频：* **[表示惊讶或疑惑] 究竟能；难道会；到底是：**  
 
  > How can so many bad things happen to one person?  
  > 一个人怎么能碰上那么多倒霉事呢？    
+<audio src="./media/10-can.aac"></audio>
 
 
 固定搭配
@@ -683,12 +935,14 @@ Notes: can表示推测时常用于否定句和疑问句。对现在和将来的�
 
  > He cannot but walk home because his car broke down on the way.   
  > 他只能步行回家，因为他的车半路抛锚了。    
+<audio src="./media/can-He cannot but walk.aac"></audio>
 
 ## \#cannot ... too / over 
 1.**越…越好；再…也不嫌过分：**  
 
  > One cannot be too careful in choosing friends.   
  > 择友越谨慎越好。    
+<audio src="./media/12-can.aac"></audio>
 
 
 真题解析
@@ -718,7 +972,13 @@ D.needn’t
 1. C  2. C  3. B  4. B  
 
 # ***\#can*** n
-英音 kæn     美音 kæn  
+英音 kæn  
+英音
+<audio src="./media/can001.aac"></audio>
+美音 kæn  
+美音
+<audio src="./media/can002.aac"></audio>
+
 
 | 词频 2 | 口语 2 |  
 
@@ -733,10 +993,17 @@ D.needn’t
 
  > He drank a **can of** beer.  
  > 他喝了一听啤酒。    
+<audio src="./media/can4.aac"></audio>
 
 
 # ***\#canal*** n
-英音 kə'næl     美音 kə'næl  
+英音 kə'næl  
+英音
+<audio src="./media/canal-B.aac"></audio>
+美音 kə'næl  
+美音
+<audio src="./media/canal.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -751,7 +1018,13 @@ D.needn’t
 
 
 # ***\#cancel*** v
-英音 'kænsl     美音 'kænsl  
+英音 'kænsl  
+英音
+<audio src="./media/cancel-B.aac"></audio>
+美音 'kænsl  
+美音
+<audio src="./media/cancel.aac"></audio>
+
 
 | 词频 2 | 口语 2 |  
 
@@ -761,12 +1034,14 @@ D.needn’t
 
  > She cancel(l)ed her appointment with her friends.  
  > 她取消了和朋友的约会。    
+<audio src="./media/1-cancel.aac"></audio>
 
 ### 2.*低义频：* **撤销；使作废**  
 英译 to end an agreement or arrangement that you don’t want any more：
 
  > Is it too late to cancel my order?  
  > 我现在撤销订单是不是太晚了？    
+<audio src="./media/Cancel-101_AAC.aac"></audio>
 
 
 固定搭配
@@ -776,7 +1051,13 @@ D.needn’t
 
 
 # ***\#cancer*** n
-英音 'kænsə(r)     美音 'kænsər  
+英音 'kænsə(r)  
+英音
+<audio src="./media/cancer-B.aac"></audio>
+美音 'kænsər  
+美音
+<audio src="./media/cancer.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -788,7 +1069,13 @@ D.needn’t
 
 
 # ***\#candidate*** n
-英音 'kændɪdət; 'kændɪdeɪt     美音 'kændɪdət; 'kændɪdeɪt  
+英音 'kændɪdət; 'kændɪdeɪt  
+英音
+<audio src="./media/Candidate1.aac"></audio>
+美音 'kændɪdət; 'kændɪdeɪt  
+美音
+<audio src="./media/Candidate2.aac"></audio>
+
 
 | 词频 2 | 书面 2 | 阅读 1 |  
 
@@ -800,10 +1087,17 @@ D.needn’t
 
  > Please send us all the information about the **candidate for** the position.  
  > 请你把申请这个职位的候选人的全部信息发给我们。  （2014 陕西改）  
+<audio src="./media/Cancel-102_AAC.aac"></audio>
 
 
 # ***\#candle*** n
-英音 'kændl     美音 'kændl  
+英音 'kændl  
+英音
+<audio src="./media/candle-B.aac"></audio>
+美音 'kændl  
+美音
+<audio src="./media/candle.aac"></audio>
+
 
 | 词频 3 | 口语 1 |  
 
@@ -815,10 +1109,17 @@ D.needn’t
 
  > A candle lights others and consumes itself.  
  > 蜡烛照亮别人，燃烧自己。    
+<audio src="./media/1-candle.aac"></audio>
 
 
 # ***\#candy*** n
-英音 'kændi     美音 'kændi  
+英音 'kændi  
+英音
+<audio src="./media/candy-B.aac"></audio>
+美音 'kændi  
+美音
+<audio src="./media/candy.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -830,7 +1131,13 @@ D.needn’t
 
 
 # ***\#cannabis*** n
-英音 'kænəbɪs     美音 'kænəbɪs  
+英音 'kænəbɪs  
+英音
+<audio src="./media/cannabis1.aac"></audio>
+美音 'kænəbɪs  
+美音
+<audio src="./media/cannabis2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -840,7 +1147,13 @@ D.needn’t
 
 
 # ***\#canoe*** vi
-英音 kə'nuː     美音 kə'nuː  
+英音 kə'nuː  
+英音
+<audio src="./media/canoe1.aac"></audio>
+美音 kə'nuː  
+美音
+<audio src="./media/canoe2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -850,7 +1163,13 @@ D.needn’t
 
 
 # ***\#canoe*** n
-英音 kə'nuː     美音 kə'nuː  
+英音 kə'nuː  
+英音
+<audio src="./media/canoe1.aac"></audio>
+美音 kə'nuː  
+美音
+<audio src="./media/canoe2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -860,7 +1179,13 @@ D.needn’t
 
 
 # ***\#canteen*** n
-英音 kæn'tiːn     美音 kæn'tiːn  
+英音 kæn'tiːn  
+英音
+<audio src="./media/canteen-B.aac"></audio>
+美音 kæn'tiːn  
+美音
+<audio src="./media/canteen.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -872,7 +1197,13 @@ D.needn’t
 
 
 # ***\#canvas*** n
-英音 'kænvəs     美音 'kænvəs  
+英音 'kænvəs  
+英音
+<audio src="./media/canvas-B.aac"></audio>
+美音 'kænvəs  
+美音
+<audio src="./media/canvas.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -884,7 +1215,13 @@ D.needn’t
 
 
 # ***\#canyon*** n
-英音 'kænjən     美音 'kænjən  
+英音 'kænjən  
+英音
+<audio src="./media/canyon1_AAC.aac"></audio>
+美音 'kænjən  
+美音
+<audio src="./media/canyon2_AAC.aac"></audio>
+
 
   
 
@@ -894,7 +1231,13 @@ D.needn’t
 
 
 # ***\#cap*** n
-英音 kæp     美音 kæp  
+英音 kæp  
+英音
+<audio src="./media/cap-B.aac"></audio>
+美音 kæp  
+美音
+<audio src="./media/cap.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -906,7 +1249,13 @@ D.needn’t
 
 
 # ***\#cap*** vt
-英音 kæp     美音 kæp  
+英音 kæp  
+英音
+<audio src="./media/cap-B.aac"></audio>
+美音 kæp  
+美音
+<audio src="./media/cap.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -919,7 +1268,13 @@ D.needn’t
 
 
 # ***\#capability*** n
-英音 ˌkeɪpə'bɪləti     美音 ˌkeɪpə'bɪləti  
+英音 ˌkeɪpə'bɪləti  
+英音
+<audio src="./media/capability1_AAC.aac"></audio>
+美音 ˌkeɪpə'bɪləti  
+美音
+<audio src="./media/capability2_AAC.aac"></audio>
+
 
   
 
@@ -929,7 +1284,13 @@ D.needn’t
 
 
 # ***\#capable*** adj
-英音 'keɪpəbl     美音 'keɪpəbl  
+英音 'keɪpəbl  
+英音
+<audio src="./media/capable-B.aac"></audio>
+美音 'keɪpəbl  
+美音
+<audio src="./media/capable.aac"></audio>
+
 
 | 词频 2 | 口语 2 | 书面 2 | 阅读 2 |  
 
@@ -940,13 +1301,21 @@ D.needn’t
 
  > Napoleon was one of the most capable generals in history.  
  > 拿破仑是历史上最有能力的将军之一。    
+<audio src="./media/1-capable.aac"></audio>
 
  > The program is **capable of** calculating our budget for the year.  
  > 这个程序能计算出我们的年度预算。    
+<audio src="./media/2-capable.aac"></audio>
 
 
 # ***\#capacity*** n
-英音 kə'pæsəti     美音 kə'pæsəti  
+英音 kə'pæsəti  
+英音
+<audio src="./media/capacity-B.aac"></audio>
+美音 kə'pæsəti  
+美音
+<audio src="./media/capacity.aac"></audio>
+
 
 | 词频 1 | 口语 1 | 书面 2 | 阅读 1 |  
 
@@ -958,13 +1327,20 @@ D.needn’t
 
  > The fuel tank has a **capacity of** 40 litres.  
  > 这个油箱能装40升油。    
+<audio src="./media/Capacity-101_AAC.aac"></audio>
 
  > a **capacity to** learn / **for** learning languages  
  > 学习语言的能力    
 
 
 # ***\#capital*** n
-英音 'kæpɪtl     美音 'kæpɪtl  
+英音 'kæpɪtl  
+英音
+<audio src="./media/capital-B.aac"></audio>
+美音 'kæpɪtl  
+美音
+<audio src="./media/capital.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 3 | 阅读 3 |  
 
@@ -982,10 +1358,17 @@ D.needn’t
 
  > You’ll need more capital if you want to open your own business.  
  > 要创办自己的企业，你还需要更多的资金。    
+<audio src="./media/1-capital.aac"></audio>
 
 
 # ***\#capital*** adj
-英音 'kæpɪtl     美音 'kæpɪtl  
+英音 'kæpɪtl  
+英音
+<audio src="./media/capital-B.aac"></audio>
+美音 'kæpɪtl  
+美音
+<audio src="./media/capital.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 | 阅读 3 |  
 
@@ -1003,7 +1386,13 @@ D.needn’t
 
 
 # ***\#capitalized*** adj
-英音 'kæpɪtəlɑɪzd     美音 'kæpɪtəlɑɪzd  
+英音 'kæpɪtəlɑɪzd  
+英音
+<audio src="./media/capitalized1_AAC.aac"></audio>
+美音 'kæpɪtəlɑɪzd  
+美音
+<audio src="./media/capitalized2_AAC.aac"></audio>
+
 
   
 
@@ -1013,7 +1402,13 @@ D.needn’t
 
 
 # ***\#capsule*** n
-英音 'kæpsjuːl     美音 'kæpsjuːl  
+英音 'kæpsjuːl  
+英音
+<audio src="./media/capsule-B.aac"></audio>
+美音 'kæpsjuːl  
+美音
+<audio src="./media/capsule.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1025,13 +1420,20 @@ D.needn’t
 
  > Pain killers come in tablets and capsules.  
  > 止痛药有片剂也有胶囊。    
+<audio src="./media/1-capsule.aac"></audio>
 
  > a space capsule   
  > 太空舱    
 
 
 # ***\#captain*** n
-英音 'kæptɪn     美音 'kæptɪn  
+英音 'kæptɪn  
+英音
+<audio src="./media/captain-B.aac"></audio>
+美音 'kæptɪn  
+美音
+<audio src="./media/captain.aac"></audio>
+
 
 | 词频 2 | 书面 1 |  
 
@@ -1047,7 +1449,13 @@ D.needn’t
 
 
 # ***\#caption*** n
-英音 'kæpʃn     美音 'kæpʃn  
+英音 'kæpʃn  
+英音
+<audio src="./media/caption-B.aac"></audio>
+美音 'kæpʃn  
+美音
+<audio src="./media/caption.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1059,10 +1467,17 @@ D.needn’t
 
  > I am not sure whether I should write captions for these pictures or not.  
  > 我不确定是否应该给这些图片配上文字说明。  （北师大⑦ – 19）  
+<audio src="./media/1-caption.aac"></audio>
 
 
 # ***\#capture*** vt
-英音 'kæptʃə(r)     美音 'kæptʃər  
+英音 'kæptʃə(r)  
+英音
+<audio src="./media/capture-B.aac"></audio>
+美音 'kæptʃər  
+美音
+<audio src="./media/capture.aac"></audio>
+
 
 | 词频 2 | 书面 1 | 阅读 1 |  
 
@@ -1072,15 +1487,23 @@ D.needn’t
 
  > The police captured the criminal.  
  > 警察抓住了那个罪犯。    
+<audio src="./media/1-capture.aac"></audio>
 
 ### 2.*低义频：* **记录下；描述；捕捉：**  
 
  > The robbery was **captured on** police video cameras.  
  > 抢劫过程被警方的摄像机拍了下来。    
+<audio src="./media/2-capture.aac"></audio>
 
 
 # ***\#car*** n
-英音 kɑː(r)     美音 kɑːr  
+英音 kɑː(r)  
+英音
+<audio src="./media/car-B.aac"></audio>
+美音 kɑːr  
+美音
+<audio src="./media/car.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1101,7 +1524,13 @@ D.needn’t
 
 
 # ***\#carbohydrate*** n
-英音 ˌkɑːbəʊˈhaɪdreɪt     美音 ˌkɑːrbəʊˈhaɪdreɪt  
+英音 ˌkɑːbəʊˈhaɪdreɪt  
+英音
+<audio src="./media/carbohydrate1_AAC.aac"></audio>
+美音 ˌkɑːrbəʊˈhaɪdreɪt  
+美音
+<audio src="./media/carbohydrate2_AAC.aac"></audio>
+
 
   
 
@@ -1111,7 +1540,13 @@ D.needn’t
 
 
 # ***\#carbon*** n
-英音 'kɑːbən     美音 'kɑːrbən  
+英音 'kɑːbən  
+英音
+<audio src="./media/carbon-B.aac"></audio>
+美音 'kɑːrbən  
+美音
+<audio src="./media/carbon.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -1123,10 +1558,17 @@ D.needn’t
 
  > As long as everyone can adopt a low-carbon lifestyle from now on, the environment will greatly change.  
  > 只要每个人能够从现在起采取低碳的生活方式，环境将会得到很大改善。    
+<audio src="./media/Carbon-101_AAC.aac"></audio>
 
 
 # ***\#card*** n
-英音 kɑːd     美音 kɑːrd  
+英音 kɑːd  
+英音
+<audio src="./media/card-B.aac"></audio>
+美音 kɑːrd  
+美音
+<audio src="./media/card.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -1147,7 +1589,13 @@ D.needn’t
 
 
 # ***\#cardboard*** n
-英音 'kɑːdbɔːd     美音 'kɑːrdbɔːrd  
+英音 'kɑːdbɔːd  
+英音
+<audio src="./media/cardboard-B.aac"></audio>
+美音 'kɑːrdbɔːrd  
+美音
+<audio src="./media/cardboard2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1157,7 +1605,13 @@ D.needn’t
 
 
 # ***\#cardboard*** adj
-英音 'kɑːdbɔːd     美音 'kɑːrdbɔːrd  
+英音 'kɑːdbɔːd  
+英音
+<audio src="./media/cardboard-B.aac"></audio>
+美音 'kɑːrdbɔːrd  
+美音
+<audio src="./media/cardboard2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1167,7 +1621,13 @@ D.needn’t
 
 
 # ***\#cardiac*** adj
-英音 'kɑːdiæk     美音 'kɑːdiæk  
+英音 'kɑːdiæk  
+英音
+<audio src="./media/cardiac1_AAC.aac"></audio>
+美音 'kɑːdiæk  
+美音
+<audio src="./media/cardiac2_AAC.aac"></audio>
+
 
   
 
@@ -1177,7 +1637,13 @@ D.needn’t
 
 
 # ***\#care*** n  重难点词汇
-英音 keə(r)     美音 ker  
+英音 keə(r)  
+英音
+<audio src="./media/care-B.aac"></audio>
+美音 ker  
+美音
+<audio src="./media/care.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1193,19 +1659,23 @@ D.needn’t
 
  > We have some of the best **hair care** products.  
  > 我们有一些最好的护发产品。  （ 2011 湖北）  
+<audio src="./media/1-care.aac"></audio>
 
 ### 2.*高义频：* **[U] 当心；谨慎：**  
 
  > The note on the box said “**handle with care**”.  
  > 箱子上写着“小心轻放”。    
+<audio src="./media/2-care.aac"></audio>
 
  > There was a gardener who looked after his garden with **great care**.   
  > 从前有个花匠，精心照料着他的花园。  （2011 重庆）  
+<audio src="./media/3-care.aac"></audio>
 
 ### 3.*低义频：* **[U] & [C] 忧虑；烦恼；令人烦恼的事：**  
 
  > He still can’t understand the cares of his parents.  
  > 他始终不理解那些让父母烦心的事。    
+<audio src="./media/5-care.aac"></audio>
 
 
 固定搭配
@@ -1215,33 +1685,46 @@ D.needn’t
 
  > Take care! You may get lost.  
  > 当心！你会迷路的。    
+<audio src="./media/6-care.aac"></audio>
 
  > Take care not to wake the boy.  
  > 当心别弄醒那个男孩。    
+<audio src="./media/7-care.aac"></audio>
 
  > Take care that you don’t slip on the icy roads.  
  > 注意不要在结了冰的路上滑倒。    
+<audio src="./media/8-care.aac"></audio>
 
 2.*高义频：* **[告别用语] 珍重；保重：**  
 
  > Bye! Take care!  
  > 再见，多保重！    
+<audio src="./media/9-care.aac"></audio>
 
 ## \#take care of
 1.**照顾；照料 (care for / look after)； 处理：**  
 
  > It has been my duty to help my mom take care of my little brothers and sisters.   
  > 帮妈妈照顾弟弟妹妹已经成了我的职责。  （2014 广东）  
+<audio src="./media/P72 take care of.aac"></audio>
 
  > A man too busy to take care of his health is like a mechanic too busy to take care of his tools.  
  > 人忙得无暇爱惜自己的身体就如机械师忙得无暇爱护自己的工具一样。  （人教⑤ – 5）  
+<audio src="./media/11-care.aac"></audio>
 
  > Will you take care of buying fruit for tonight's party?  
  > 你负责为今晚的聚会买水果好吗？    
+<audio src="./media/Care-101_AAC.aac"></audio>
 
 
 # ***\#care*** v  重难点词汇
-英音 keə(r)     美音 ker  
+英音 keə(r)  
+英音
+<audio src="./media/care-B.aac"></audio>
+美音 ker  
+美音
+<audio src="./media/care.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -1253,9 +1736,11 @@ D.needn’t
 
  > He threatened to fire me, **as if I cared**.  
  > 他威胁要解雇我，我才不在乎呢。    
+<audio src="./media/13-care.aac"></audio>
 
  > — Linda didn't invite us to the party.  
  > 琳达没有邀请我们去参加聚会。    
+<audio src="./media/P72 care V.aac"></audio>
 
  > — So what? **I don’t care**.  
  > 那又如何？我不在乎。    
@@ -1264,22 +1749,27 @@ D.needn’t
 
  > You shouldn't care too much about your appearance.  
  > 你用不着太在意自己的外表。    
+<audio src="./media/Care-102_AAC.aac"></audio>
 
 - care + that / wh- 从句：
 
  > Don’t you care that he’s calling you a liar?  
  > 你难道不在乎他说你是个骗子吗？    
+<audio src="./media/15-care.aac"></audio>
 
  > She taught me not to care what others think I should do.  
  > 她教导我不要在乎别人认为我该怎么做。    
+<audio src="./media/Care-103_AAC.aac"></audio>
 
 ### 2.*高义频：* **关心；关怀：**  
 
  > Li Yue is always warm-hearted and **cares** a lot **about** the class.  
  > 李月总是很热心，非常关心班集体。  （2010 浙江书面表达）  
+<audio src="./media/17-care.aac"></audio>
 
  > They have taught me to **care about** other people more than about myself** about**  
  > 他们一直教导我要多关心他人而不是自己。  （2013 山东）  
+<audio src="./media/19-care.aac"></audio>
 
 
 固定搭配
@@ -1290,11 +1780,13 @@ D.needn’t
 
  > My dear father, you brought me into this world, you cared for me and loved me.  
  > 亲爱的父亲，您把我带到了这个世界上，照顾我，疼爱我。  （人教⑩ – 2）  
+<audio src="./media/20-care.aac"></audio>
 
 2.*低义频：* **非常喜欢：**  
 
  > I think George **doesn’t** really **care for** TV plays.  
  > 我以为乔治不怎么喜欢电视剧。    
+<audio src="./media/22-care.aac"></audio>
 
 ## \#Would you care for sth?
 1.**［口语］［正式用语］您想要某物吗？**  
@@ -1305,7 +1797,13 @@ D.needn’t
 caring /'kerɪŋ/ adj   
 
 # ***\#career*** n
-英音 kə'rɪə(r)     美音 kə'rɪr  
+英音 kə'rɪə(r)  
+英音
+<audio src="./media/career-B.aac"></audio>
+美音 kə'rɪr  
+美音
+<audio src="./media/career.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -1318,6 +1816,7 @@ caring /'kerɪŋ/ adj
 
  > I have a successful career as an educational consultant.  
  > 作为一名教育咨询师，我事业有成。  （2016 天津改）  
+<audio src="./media/Career-101_AAC.aac"></audio>
 
 ### 2.*高义频：* **生涯；(一段) 工作经历**  
 英译 the time in your life that you spend working：
@@ -1327,7 +1826,13 @@ caring /'kerɪŋ/ adj
 
 
 # ***\#careful*** adj
-英音 'keəfl     美音 'kerfl  
+英音 'keəfl  
+英音
+<audio src="./media/careful-B.aac"></audio>
+美音 'kerfl  
+美音
+<audio src="./media/careful.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -1338,25 +1843,31 @@ caring /'kerɪŋ/ adj
 
  > **You can’t be too careful**.  
  > 越小心越好。    
+<audio src="./media/1-careful.aac"></audio>
 
  > He’s a careful driver.  
  > 他开车很小心。    
+<audio src="./media/2-careful.aac"></audio>
 
 - (be) careful about / of / with sth:
 
  > Be careful about / of your health.  
  > 保重你的身体。    
+<audio src="./media/3-careful.aac"></audio>
 
  > You should be more careful with your work.  
  > 你工作应该要更细心些。    
+<audio src="./media/4-careful.aac"></audio>
 
 - (be) careful (not) to do sth / be careful + (that) / wh- 从句：
 
  > He is careful enough to check up every detail.  
  > 他非常仔细，把每一个细节都核对过了。    
+<audio src="./media/5-careful.aac"></audio>
 
  > Be careful not to break the vase. / Be careful that you don’t break the vase.  
  > 当心别打碎花瓶。    
+<audio src="./media/6-careful.aac"></audio>
 
 
 固定搭配
@@ -1371,7 +1882,13 @@ carefully /'keəfəli/ adv
 carefulness /'keəfəlnəs/ n [U]  
 
 # ***\#careless*** adj
-英音 'keələs     美音 'kerləs  
+英音 'keələs  
+英音
+<audio src="./media/careless-B.aac"></audio>
+美音 'kerləs  
+美音
+<audio src="./media/careless.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -1386,11 +1903,13 @@ carefulness /'keəfəlnəs/ n [U]
 
  > You are careless about / with your pronunciation.  
  > 你太不注意自己的发音了。    
+<audio src="./media/1-careless.aac"></audio>
 
 - it is careless of sb to do sth / sb is careless to do sth:
 
  > It was careless of you to leave the door unlocked. / You were careless to leave the door unlocked.  
  > 你没把门锁上实在是太粗心了。    
+<audio src="./media/2-careless.aac"></audio>
 
 ### 2.*低义频：* **对...不在意的**  
 英译 not at all worried about sth：
@@ -1399,6 +1918,7 @@ carefulness /'keəfəlnəs/ n [U]
 
  > He is careless about / of his appearance.  
  > 他不修边幅。    
+<audio src="./media/3-careless.aac"></audio>
 
 
 派生词汇
@@ -1406,7 +1926,13 @@ carefulness /'keəfəlnəs/ n [U]
 carelessly /'keələsli/ adv   
 
 # ***\#careworn*** adj
-英音 ˈkeəwɔːn     美音 ˈkerwɔːrn  
+英音 ˈkeəwɔːn  
+英音
+<audio src="./media/careworn1_AAC.aac"></audio>
+美音 ˈkerwɔːrn  
+美音
+<audio src="./media/careworn2_AAC.aac"></audio>
+
 
   
 
@@ -1416,7 +1942,13 @@ carelessly /'keələsli/ adv
 
 
 # ***\#carnival*** n
-英音 'kɑːnɪvl     美音 'kɑːrnɪvl  
+英音 'kɑːnɪvl  
+英音
+<audio src="./media/carnival-B.aac"></audio>
+美音 'kɑːrnɪvl  
+美音
+<audio src="./media/carnival.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1428,7 +1960,13 @@ carelessly /'keələsli/ adv
 
 
 # ***\#carol*** n
-英音 'kærəl     美音 'kærəl  
+英音 'kærəl  
+英音
+<audio src="./media/carol1.aac"></audio>
+美音 'kærəl  
+美音
+<audio src="./media/carol2.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -1438,7 +1976,13 @@ carelessly /'keələsli/ adv
 
 
 # ***\#carpenter*** n
-英音 'kɑːpəntə(r)     美音 'kɑːrpəntər  
+英音 'kɑːpəntə(r)  
+英音
+<audio src="./media/carpenter-B.aac"></audio>
+美音 'kɑːrpəntər  
+美音
+<audio src="./media/carpenter.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -1450,7 +1994,13 @@ carelessly /'keələsli/ adv
 
 
 # ***\#carpet*** n
-英音 'kɑːpɪt     美音 'kɑːrpɪt  
+英音 'kɑːpɪt  
+英音
+<audio src="./media/carpet-B.aac"></audio>
+美音 'kɑːrpɪt  
+美音
+<audio src="./media/carpet.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 1 |  
 
@@ -1462,7 +2012,13 @@ carelessly /'keələsli/ adv
 
 
 # ***\#carriage*** n
-英音 'kærɪdʒ     美音 'kærɪdʒ  
+英音 'kærɪdʒ  
+英音
+<audio src="./media/carriage-B.aac"></audio>
+美音 'kærɪdʒ  
+美音
+<audio src="./media/carriage.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -1474,7 +2030,13 @@ carelessly /'keələsli/ adv
 
 
 # ***\#carrier*** n
-英音 'kæriə(r)     美音 'kæriər  
+英音 'kæriə(r)  
+英音
+<audio src="./media/carrier-B.aac"></audio>
+美音 'kæriər  
+美音
+<audio src="./media/carrier.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -1492,7 +2054,13 @@ carelessly /'keələsli/ adv
 
 
 # ***\#carrot*** n
-英音 'kærət     美音 'kærət  
+英音 'kærət  
+英音
+<audio src="./media/carrot-B.aac"></audio>
+美音 'kærət  
+美音
+<audio src="./media/carrot.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -1504,7 +2072,13 @@ carelessly /'keələsli/ adv
 
 
 # ***\#carry*** vt  重难点词汇
-英音 'kæri     美音 'kæri  
+英音 'kæri  
+英音
+<audio src="./media/carry-B.aac"></audio>
+美音 'kæri  
+美音
+<audio src="./media/carry.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1514,43 +2088,53 @@ carelessly /'keələsli/ adv
 
  > He was carrying a box on his shoulder.  
  > 他正扛着个箱子。    
+<audio src="./media/1-carry.aac"></audio>
 
  > The monkey carried her baby on her back.  
  > 母猴背着她的孩子。    
+<audio src="./media/2-carry.aac"></audio>
 
 ### 2.*高义频：* **携带；带着：**  
 
  > How many kilograms of luggage can I carry with me?   
  > 我随身可以带多少公斤的行李？    
+<audio src="./media/3-carry.aac"></audio>
 
 ### 3.*高义频：* **运送；运载；传送：**  
 
  > The bus that was involved in the accident was carrying children to school.   
  > 牵涉这次事故的公交车当时正送孩子们去学校。    
+<audio src="./media/P73 carry1.aac"></audio>
 
 ### 4.*低义频：* **(疾病) 传播；广播；刊登：**  
 
  > Many diseases are carried by insects.  
  > 许多疾病都是由昆虫传播的。    
+<audio src="./media/4-carry.aac"></audio>
 
  > The radio carried the announcement all the time.  
  > 收音机一直在广播这个通知。    
+<audio src="./media/5-carry.aac"></audio>
 
  > The “Foreign Cultures” section carries articles written by foreign friends about the cultures of their home countries.  
  > “异域文化”专栏刊登外国友人写的关于他们国家文化的文章。  （2015 全国书面表达改）  
+<audio src="./media/P73 carry.aac"></audio>
 
 ### 5.*低义频：* **支撑；承载：**  
 
  > These stone posts carry the weight of the roof.  
  > 这些石柱支撑着屋顶的重量。    
+<audio src="./media/7-carry.aac"></audio>
 
 ### 6.*低义频：* **贴有 (标签)；附有 (信息) ：**  
 
  > Cigarettes must carry a health warning.  
  > 香烟必须标注有害健康的警告。    
+<audio src="./media/8-carry.aac"></audio>
 
  > Letters to the editor must carry the writer’s full name, address and telephone number.  
  > 给编辑的信一定要附有作者的全名、地址和电话号码。  （2009 江西）  
+<audio src="./media/9-carry.aac"></audio>
 
 
 固定搭配
@@ -1560,30 +2144,37 @@ carelessly /'keələsli/ adv
 
  > He tends to get carried away when watching table tennis on TV.  
  > 他一看电视中的乒乓球比赛就很容易兴奋。    
+<audio src="./media/10-carry.aac"></audio>
 
 ## \#carry on (with)
 1.**继续进行；开展：**  
 
  > We’ll **carry on** our **conversation** tomorrow.  
  > 我们明天接着谈。    
+<audio src="./media/11-carry.aac"></audio>
 
  > We must carry on till success in spite of the extremely difficult conditions.  
  > 尽管条件极其困难，我们必须坚持下去，直到成功。    
+<audio src="./media/12-carry.aac"></audio>
 
  > If you carry on working like that, you’ll make yourself ill.   
  > 如果你继续那样工作下去，你会生病的。  （2008 全国）  
+<audio src="./media/P73 carry-5.aac"></audio>
 
  > I want to carry on with my course.  
  > 我想继续我的课程。    
+<audio src="./media/carry50.aac"></audio>
 
 ## \#carry out 
 1.**实行；执行：**  
 
  > I had some difficulty in carrying out the plan.   
  > 实施这个计划我有些困难。    
+<audio src="./media/13-carry.aac"></audio>
 
  > They just carried out the order as told.   
  > 他们只是按命令行事。  （2008 福建）  
+<audio src="./media/14-carry.aac"></audio>
 
 ## \#carry over
 1.**（情况变化时）继续下去**  
@@ -1593,9 +2184,11 @@ carelessly /'keələsli/ adv
 
  > His courage will carry him through.   
  > 他的勇气会帮他渡过难关。    
+<audio src="./media/15-carry.aac"></audio>
 
  > He asked us to assist him in carrying through his plan.   
  > 他请求我们帮他完成计划。    
+<audio src="./media/16-carry.aac"></audio>
 
 
 真题解析
@@ -1608,7 +2201,13 @@ the past two years.  （2018 江苏改）
 1. out  2. on  
 
 # ***\#carsick*** adj
-英音 'kɑːsɪk     美音 'kɑːrsɪk  
+英音 'kɑːsɪk  
+英音
+<audio src="./media/carsick1_AAC.aac"></audio>
+美音 'kɑːrsɪk  
+美音
+<audio src="./media/carsick2_AAC.aac"></audio>
+
 
   
 
@@ -1618,7 +2217,13 @@ the past two years.  （2018 江苏改）
 
 
 # ***\#cart*** n
-英音 kɑːt     美音 kɑːrt  
+英音 kɑːt  
+英音
+<audio src="./media/cart-B.aac"></audio>
+美音 kɑːrt  
+美音
+<audio src="./media/cart.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -1636,7 +2241,13 @@ the past two years.  （2018 江苏改）
 
 
 # ***\#carton*** n
-英音 ˈkɑːtn     美音 ˈkɑːrtn  
+英音 ˈkɑːtn  
+英音
+<audio src="./media/carton1_AAC.aac"></audio>
+美音 ˈkɑːrtn  
+美音
+<audio src="./media/carton2_AAC.aac"></audio>
+
 
   
 
@@ -1646,7 +2257,13 @@ the past two years.  （2018 江苏改）
 
 
 # ***\#cartoon*** n
-英音 kɑː'tuːn     美音 kɑːr'tuːn  
+英音 kɑː'tuːn  
+英音
+<audio src="./media/cartoon-B.aac"></audio>
+美音 kɑːr'tuːn  
+美音
+<audio src="./media/cartoon.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -1658,7 +2275,13 @@ the past two years.  （2018 江苏改）
 
 
 # ***\#carve*** vt
-英音 kɑːv     美音 kɑːrv  
+英音 kɑːv  
+英音
+<audio src="./media/carve-B.aac"></audio>
+美音 kɑːrv  
+美音
+<audio src="./media/carve.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1671,7 +2294,13 @@ the past two years.  （2018 江苏改）
 
 
 # ***\#carving*** n
-英音 'kɑːvɪŋ     美音 'kɑːrvɪŋ  
+英音 'kɑːvɪŋ  
+英音
+<audio src="./media/carving1.aac"></audio>
+美音 'kɑːrvɪŋ  
+美音
+<audio src="./media/carving2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -1681,7 +2310,13 @@ the past two years.  （2018 江苏改）
 
 
 # ***\#case*** n  重难点词汇
-英音 keɪs     美音 keɪs  
+英音 keɪs  
+英音
+<audio src="./media/case-B.aac"></audio>
+美音 keɪs  
+美音
+<audio src="./media/case.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -1695,17 +2330,21 @@ the past two years.  （2018 江苏改）
 
  > It was a **classic case** (= a very typical case) of bad management.  
  > 这是一个典型的管理不善的案例。    
+<audio src="./media/1-case.aac"></audio>
 
  > My experience in the English speech contest last October is **a case in point** (= a clear example of sth that you are discussing or explaining).  
  > 去年十月我参加英语演讲比赛的经历就是一个明显的例子。    
+<audio src="./media/My experience in the English speech contest last2_AAC.aac"></audio>
 
 - 病例
 
  > There are thousands of new cases of AIDS in Africa every year.  
  > 非洲每年都会出现许多艾滋病的新病例。    
+<audio src="./media/3-case.aac"></audio>
 
  > Medical students study the **case histories** of many patients.  
  > 医学院学生要学习许多患者的病历。    
+<audio src="./media/4-case.aac"></audio>
 
 - 案件：
 
@@ -1714,6 +2353,7 @@ the past two years.  （2018 江苏改）
 
  > Around 50 police officers are **on the case**.  
  > 约有50名警官在处理此案。    
+<audio src="./media/5-case.aac"></audio>
 
 - 诉讼案；官司
 
@@ -1722,6 +2362,7 @@ the past two years.  （2018 江苏改）
 
  > Marshall has **dropped the case against** us.  
  > 马歇尔已经撤回了对我们的起诉。    
+<audio src="./media/6-case.aac"></audio>
 
 ### 2.*高义频：* **情况**  
 英译 a particular situation or a situation of a particular type
@@ -1731,26 +2372,31 @@ the past two years.  （2018 江苏改）
 
  > I am ready to help in any case.  
  > 在任何情况下我都乐意帮忙。    
+<audio src="./media/7-case.aac"></audio>
 
  > I don’t see why I couldn’t do it. In any case, I’m going to try.  
  > 我不明白为什么我不能做这件事。不管怎样，我要试一试。    
+<audio src="./media/8-case.aac"></audio>
 
 ## \#in case of
 1.
  > In case of emergency, please call the Help Desk at 926-3736.  
  > 如遇紧急情况，请拨打救助台的电话926-3736。    
+<audio src="./media/22-case.aac"></audio>
 
 ## \#in … case(s)
 1.**在…情况下：**  
 
  > These ideas can be true in certain cases, but very wrong in others.  
  > 在某种情况下这些说法是正确的，但是在其他情况下就是非常错误的。    
+<audio src="./media/13-case.aac"></audio>
 
 ## \#in no case
 1.**在任何情况下都不；决不：**  
 
  > In no case should you leave your post.  
  > 在任何情况下你都不应离开岗位。    
+<audio src="./media/9-case.aac"></audio>
 
 Notes: in no case用于句首时，句子常用部分倒装语序。  
 ## \#in this case
@@ -1758,12 +2404,14 @@ Notes: in no case用于句首时，句子常用部分倒装语序。
 
  > You may think of giving up study. In this case, just think it over before making the decision.  
  > 你可能会想要放弃学习。在这种情况下，你要认真思考一下再作决定。    
+<audio src="./media/10-case.aac"></audio>
 
 ## \#in that case
 1.**既然如此；那样的话：**  
 
  > —He didn’t want to talk to Sally.  
  > 他不想和萨利说话。    
+<audio src="./media/11-case.aac"></audio>
 
  > — In that case why did he agree to meet her?  
  > 既然那样，为什么他还同意和她见面？    
@@ -1773,37 +2421,45 @@ Notes: in no case用于句首时，句子常用部分倒装语序。
 
  > They say God rewards those who work hard and in my case it was ture.  
  > 他们说天道酬勤，就我的个人情况而言确实如此。    
+<audio src="./media/They say God rewards those2_AAC.aac"></audio>
 
 ## \#in the case of
 1.
  > The amount of fruit in fruit juices must be 6% in the case of oranges.  
  > 就橙子而言，果汁中的水果含量应占6%    
+<audio src="./media/24-case.aac"></audio>
 
 ## \#(just) in case
 1.
  > I took my driving license with me on holiday, in case I wanted to hire a car.  
  > 度假时我随身带了驾照，以防我想要租车。  （2013 北京）  
+<audio src="./media/P74 just in case.aac"></audio>
 
  > I guess we’ve already talked about this but I’ll ask you again just in case.  
  > 我记得我们已经讨论过这个了，但是我再问问你，以防万一。    
+<audio src="./media/19-case.aac"></audio>
 
 ## \#the case
 1.**事实；实情：**  
 
  > There is no simple answer, as is often the case in science.  
  > 没有简单的答案，这是科学中常有的事。  （2013 山东）  
+<audio src="./media/There is no simple answer2_AAC.aac"></audio>
 
  > There is a misbelief that popcorn is calorie-free, but that is not the case.  
  > 有一种误解是爆米花不含热量，然而事实并非如此。  （2012 上海）  
+<audio src="./media/15-case.aac"></audio>
 
 ### 3.*高义频：* **证据；理由**  
 英译 a set of reasons why sth should happen or be done：
 
  > Our lawyer didn’t think we had a case.  
  > 我们的律师认为我们没有证据。    
+<audio src="./media/16-case.aac"></audio>
 
  > There is a strong case for getting parents more involved in the school’s activities.  
  > 有充分的理由让家长更多地参与学校的活动。    
+<audio src="./media/17-case.aac"></audio>
 
 ### 4.*高义频：* **箱子；盒子：**  
 
@@ -1825,7 +2481,13 @@ Notes: in no case用于句首时，句子常用部分倒装语序。
 1. In  2. in  3. It’s not the case  4. In case of  5. in that case  
 
 # ***\#cash*** n
-英音 kæʃ     美音 kæʃ  
+英音 kæʃ  
+英音
+<audio src="./media/cash-B.aac"></audio>
+美音 kæʃ  
+美音
+<audio src="./media/cash.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -1837,10 +2499,17 @@ Notes: in no case用于句首时，句子常用部分倒装语序。
 
  > You can pay either **in cash** or by cheque.  
  > 你可用现金或支票付款。    
+<audio src="./media/1-cash.aac"></audio>
 
 
 # ***\#cash*** vt
-英音 kæʃ     美音 kæʃ  
+英音 kæʃ  
+英音
+<audio src="./media/cash-B.aac"></audio>
+美音 kæʃ  
+美音
+<audio src="./media/cash.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -1850,6 +2519,7 @@ Notes: in no case用于句首时，句子常用部分倒装语序。
 
  > Before you **cash a cheque**, make sure it has the correct signature.  
  > 在你兑现支票之前，要先确认署名正确。    
+<audio src="./media/2-cash.aac"></audio>
 
 
 派生词汇
@@ -1857,7 +2527,13 @@ Notes: in no case用于句首时，句子常用部分倒装语序。
 cashier /kæ'ʃɪə(r)/ n   
 
 # ***\#cashier*** n
-英音 kæˈʃɪə(r)     美音 kæˈʃɪr  
+英音 kæˈʃɪə(r)  
+英音
+<audio src="./media/cashier1_AAC.aac"></audio>
+美音 kæˈʃɪr  
+美音
+<audio src="./media/cashier2_AAC.aac"></audio>
+
 
   
 
@@ -1867,7 +2543,13 @@ cashier /kæ'ʃɪə(r)/ n
 
 
 # ***\#cassette*** n
-英音 kə'set     美音 kə'set  
+英音 kə'set  
+英音
+<audio src="./media/cassette-B.aac"></audio>
+美音 kə'set  
+美音
+<audio src="./media/cassette.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1879,7 +2561,13 @@ cashier /kæ'ʃɪə(r)/ n
 
 
 # ***\#cast*** vt
-英音 kɑːst     美音 kæst  
+英音 kɑːst  
+英音
+<audio src="./media/cast-B.aac"></audio>
+美音 kæst  
+美音
+<audio src="./media/cast.aac"></audio>
+
 
 | 词频 2 | 书面 1 | 阅读 1 |  
 
@@ -1891,6 +2579,7 @@ cashier /kæ'ʃɪə(r)/ n
 
  > The fisherman cast his net into the water.  
  > 渔夫把网撒到水里。    
+<audio src="./media/1-cast.aac"></audio>
 
 ### 2.*高义频：* **投射（光、影、视线等）：**  
 
@@ -1899,14 +2588,17 @@ cashier /kæ'ʃɪə(r)/ n
 
  > He **cast a look at** the woman.  
  > 他向那女人看了一眼。    
+<audio src="./media/cast6.aac"></audio>
 
 ### 3.*低义频：* **为 (戏剧、角色) 选派演员；投票：**  
 
  > Music talents from many different countries were cast.  
  > 来自不同国家的音乐人才被选中出演。  （译林⑧ – 2）  
+<audio src="./media/3-cast.aac"></audio>
 
  > People not only **cast** on-line **votes** themselves, but also urge others to vote for competitions.  
  > 人们不仅自己在网上投票，还劝别人也为比赛投票。  （2016 江苏书面表达）  
+<audio src="./media/cast50.aac"></audio>
 
 
 固定搭配
@@ -1916,7 +2608,13 @@ cashier /kæ'ʃɪə(r)/ n
 
 
 # ***\#cast*** n
-英音 kɑːst     美音 kæst  
+英音 kɑːst  
+英音
+<audio src="./media/cast-B.aac"></audio>
+美音 kæst  
+美音
+<audio src="./media/cast.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -1928,6 +2626,7 @@ cashier /kæ'ʃɪə(r)/ n
 
  > He caught a fish at his second cast.  
  > 他第二次撒网后捕到一条鱼。    
+<audio src="./media/5-cast.aac"></audio>
 
 ### 2.*高义频：* **全体演员：**  
 
@@ -1936,7 +2635,13 @@ cashier /kæ'ʃɪə(r)/ n
 
 
 # ***\#castle*** n
-英音 'kɑːsl     美音 'kæsl  
+英音 'kɑːsl  
+英音
+<audio src="./media/castle-B.aac"></audio>
+美音 'kæsl  
+美音
+<audio src="./media/castle.aac"></audio>
+
 
 | 词频 3 | 书面 1 |  
 
@@ -1948,7 +2653,13 @@ cashier /kæ'ʃɪə(r)/ n
 
 
 # ***\#casual*** adj
-英音 'kæʒuəl     美音 'kæʒuəl  
+英音 'kæʒuəl  
+英音
+<audio src="./media/casua-B.aac"></audio>
+美音 'kæʒuəl  
+美音
+<audio src="./media/casual.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -1963,6 +2674,7 @@ cashier /kæ'ʃɪə(r)/ n
 
  > John was dismissed last week because of his casual attitude towards his job.  
  > 因为对待工作漫不经心，约翰在上周被解雇了。    
+<audio src="./media/Casual-101_AAC.aac"></audio>
 
 ### 3.*高义频：* **非正式的：随便的：**  
 反义词 formal 
@@ -1972,6 +2684,7 @@ cashier /kæ'ʃɪə(r)/ n
 
  > Jean felt more comfortable in **casual clothes**.  
  > 琼穿便装感到更加舒服。    
+<audio src="./media/2-casual.aac"></audio>
 
 ### 4.*低义频：* **[只用于名词前] 临时的；不定期的：**  
 
@@ -1984,7 +2697,13 @@ cashier /kæ'ʃɪə(r)/ n
 casually /'kæʒuəli/ adv   
 
 # ***\#casually*** adv
-英音 'kæʒuəli     美音 'kæʒuəli  
+英音 'kæʒuəli  
+英音
+<audio src="./media/casually1.aac"></audio>
+美音 'kæʒuəli  
+美音
+<audio src="./media/casually2.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -1994,7 +2713,13 @@ casually /'kæʒuəli/ adv
 
 
 # ***\#cat*** n
-英音 kæt     美音 kæt  
+英音 kæt  
+英音
+<audio src="./media/cat-B.aac"></audio>
+美音 kæt  
+美音
+<audio src="./media/cat.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 1 |  
 
@@ -2004,7 +2729,13 @@ casually /'kæʒuəli/ adv
 
 
 # ***\#catalog*** n
-英音 'kætəlɒg     美音 'kætəlɒg  
+英音 'kætəlɒg  
+英音
+<audio src="./media/catalog-B.aac"></audio>
+美音 'kætəlɒg  
+美音
+<audio src="./media/catalog.aac"></audio>
+
 
 | 词频 2 | 书面 1 | 阅读 1 |  
 
@@ -2014,10 +2745,17 @@ casually /'kæʒuəli/ adv
 
  > Please send me your catalog and information on the service you offer.   
  > 请把你们所提供的这项服务的目录和相关信息寄给我。    
+<audio src="./media/1-catalog.aac"></audio>
 
 
 # ***\#catalogue*** n
-英音 'kætəlɒg     美音 'kætəlɒg  
+英音 'kætəlɒg  
+英音
+<audio src="./media/catalogue-B.aac"></audio>
+美音 'kætəlɒg  
+美音
+<audio src="./media/catalog.aac"></audio>
+
 
 | 词频 2 | 书面 1 | 阅读 1 |  
 
@@ -2027,10 +2765,17 @@ casually /'kæʒuəli/ adv
 
  > Please send me your catalog and information on the service you offer.  
  > 请把你们所提供的这项服务的目录和相关信息寄给我。    
+<audio src="./media/1-catalog.aac"></audio>
 
 
 # ***\#catastrophe*** n
-英音 kə'tæstrəfi     美音 kə'tæstrəfi  
+英音 kə'tæstrəfi  
+英音
+<audio src="./media/catastrophe-B.aac"></audio>
+美音 kə'tæstrəfi  
+美音
+<audio src="./media/catastrophe.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2043,7 +2788,13 @@ casually /'kæʒuəli/ adv
 
 
 # ***\#catbird*** n
-英音 ˈkætbɜːd     美音 ˈkætbɜːrd  
+英音 ˈkætbɜːd  
+英音
+<audio src="./media/catbird1_AAC.aac"></audio>
+美音 ˈkætbɜːrd  
+美音
+<audio src="./media/catbird2_AAC.aac"></audio>
+
 
   
 
@@ -2053,7 +2804,13 @@ casually /'kæʒuəli/ adv
 
 
 # ***\#catch*** v  重难点词汇
-英音 kætʃ     美音 kætʃ  
+英音 kætʃ  
+英音
+<audio src="./media/catch-B.aac"></audio>
+美音 kætʃ  
+美音
+<audio src="./media/catch.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2068,9 +2825,11 @@ casually /'kæʒuəli/ adv
 
  > I **got caught in** the rain and my suit was ruined.  
  > 我遇上了大雨，整套衣服都被淋得不成样子。    
+<audio src="./media/Catch-101_AAC.aac"></audio>
 
  > — Throw me that towel.   
  > 把那条毛巾扔给我。    
+<audio src="./media/2-catch.aac"></audio>
 
  > — OK. Catch.   
  > 好的，接住。    
@@ -2079,6 +2838,7 @@ casually /'kæʒuəli/ adv
 
  > The police have launched an operation to catch the murderer.  
  > 警方已展开行动抓捕凶手。    
+<audio src="./media/4-catch.aac"></audio>
 
 ### 3.*高义频：* **撞见；当场发现：**  
 
@@ -2086,20 +2846,24 @@ casually /'kæʒuəli/ adv
 
  > Anyone caught doing something ungreen will be punished.  
  > 任何人被发现做不环保事情的人都将受到惩罚。  （2013 辽宁改）  
+<audio src="./media/Catch-102_AAC.aac"></audio>
 
 - catch sb + adj / prep:
 
  > We knew he had been cheating, but we had never caught him at it before.  
  > 我们知道他一直在做手脚，但以前没有当场发现过。    
+<audio src="./media/We knew he had been cheating2_AAC.aac"></audio>
 
 ### 4.*高义频：* **赶上；追上 (车、船等)：**  
 反义词 miss 
 
  > They caught us before we reached town.   
  > 我们还没进城，他们就赶上我们了。    
+<audio src="./media/9-catch.aac"></audio>
 
  > There was no way I was going to **catch** the **plane**.   
  > 我怎么也赶不上飞机了。  （外研④ – 2）  
+<audio src="./media/10-catch.aac"></audio>
 
 ### 5.*高义频：* **感染上：**  
 
@@ -2110,38 +2874,47 @@ casually /'kæʒuəli/ adv
 
  > Did you catch my idea?   
  > 你懂我的意思吗？    
+<audio src="./media/7-catch.aac"></audio>
 
  > I didn’t catch what you said. Please repeat it.   
  > 我没有听清你说什么，请再重复一遍。    
+<audio src="./media/8-catch.aac"></audio>
 
 ### 7.*高义频：* **吸引住；引起 (注意、想象等)：**  
 
  > The return address **caught his attention**.   
  > 回信的地址引起了他的注意。  （2008 江苏）  
+<audio src="./media/11-catch.aac"></audio>
 
  > This is a story that will **catch the imagination** of every child.   
  > 这个故事会激发每个孩子的想象力。    
+<audio src="./media/12-catch.aac"></audio>
 
 ### 8.*高义频：* **卡住；(使) 挂住；(使) 进退两难：**  
 
  > An Australian farmer found a kangaroo caught in the fence around his farm.  
  > 一位澳大利亚农场主发现一只袋鼠卡在了自家农场周围的篱笆里。    
+<audio src="./media/14-catch.aac"></audio>
 
  > I feel caught between what I want and what my parents want.  
  > 在自己和父母的愿望之间我感到左右为难。    
+<audio src="./media/15-catch.aac"></audio>
 
 ### 9.*低义频：* **着 (火)：**  
 
  > The match won’t catch.  
  > 火柴点不着。    
+<audio src="./media/16-catch.aac"></audio>
 
  > The building around the corner **caught fire** last night.    
  > 拐角处的楼昨晚着火了。    
+<audio src="./media/17-catch.aac"></audio>
 
 ### 10.*低义频：* **注意到；听到；看到：**  
 
  > She **caught sight of** a car in the distance.   
  > 她看到远处有辆汽车。    
+<audio src="./media/18-catch.aac"></audio>
 
 
 固定搭配
@@ -2151,15 +2924,18 @@ casually /'kæʒuəli/ adv
 
  > It is a nice song and I think it will catch on quickly.  
  > 这首歌很好，我想它很快就会流行起来。    
+<audio src="./media/20-catch.aac"></audio>
 
  > The lady repeated her question several times but I still couldn’t catch on.   
  > 那位女士重复了几遍她的问题，但我仍没有理解。    
+<audio src="./media/19-catch.aac"></audio>
 
 ## \#catch sb’s eye
 1.**引起某人注意：**  
 
  > When I opened the door, a parcel on the floor caught my eye.  
  > 我打开门，地上的一个包裹引起了我的注意。    
+<audio src="./media/Catch-103_AAC.aac"></audio>
 
 ## \#catch up on
 1.**了解**  
@@ -2169,9 +2945,11 @@ casually /'kæʒuəli/ adv
 
  > If you miss a lot of classes, it’s difficult to catch up.  
  > 如果你缺了很多课，就很难赶上。    
+<audio src="./media/21-catch.aac"></audio>
 
  > I ran faster and faster till I caught up with all the other runners.    
  > 我越跑越快，直到追上其他所有选手。    
+<audio src="./media/22-catch.aac"></audio>
 
 
 真题解析
@@ -2183,7 +2961,13 @@ casually /'kæʒuəli/ adv
 1. To catch  2. with  
 
 # ***\#catchy*** adj
-英音 'kætʃi     美音 'kætʃi  
+英音 'kætʃi  
+英音
+<audio src="./media/catchy1.aac"></audio>
+美音 'kætʃi  
+美音
+<audio src="./media/catchy2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2193,7 +2977,13 @@ casually /'kæʒuəli/ adv
 
 
 # ***\#categorise*** vt
-英音 'kætəgəraɪz     美音 'kætəgəraɪz  
+英音 'kætəgəraɪz  
+英音
+<audio src="./media/categorise1_AAC.aac"></audio>
+美音 'kætəgəraɪz  
+美音
+<audio src="./media/categorise2_AAC.aac"></audio>
+
 
   
 
@@ -2203,7 +2993,13 @@ casually /'kæʒuəli/ adv
 
 
 # ***\#category*** n
-英音 'kætəɡəri     美音 'kætəɡɔːri  
+英音 'kætəɡəri  
+英音
+<audio src="./media/category-B.aac"></audio>
+美音 'kætəɡɔːri  
+美音
+<audio src="./media/category.aac"></audio>
+
 
 | 词频 2 | 口语 2 | 书面 2 | 阅读 2 |  
 
@@ -2213,10 +3009,17 @@ casually /'kæʒuəli/ adv
 
  > Literature can be divided into two main categories: fiction and non-fiction.   
  > 文学可分为两大类：小说和纪实文学。  （译林⑧ – 1）  
+<audio src="./media/1-category.aac"></audio>
 
 
 # ***\#cater*** vi
-英音 'keɪtə(r)     美音 'keɪtər  
+英音 'keɪtə(r)  
+英音
+<audio src="./media/cater-B.aac"></audio>
+美音 'keɪtər  
+美音
+<audio src="./media/cater.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2226,9 +3029,11 @@ casually /'kæʒuəli/ adv
 
  > We **cater for** weddings.   
  > 我们承办婚宴。    
+<audio src="./media/1-cater.aac"></audio>
 
  > Children are well **catered for** with apple-themed games.  
  > 苹果主题的游戏让孩子们感到非常满足。  （2016 全国改）  
+<audio src="./media/cater50.aac"></audio>
 
 
 真题解析
@@ -2240,7 +3045,13 @@ casually /'kæʒuəli/ adv
 1. for  
 
 # ***\#caterpillar*** n
-英音 'kætəpɪlə(r)     美音 'kætərpɪlər  
+英音 'kætəpɪlə(r)  
+英音
+<audio src="./media/caterpillar1_AAC.aac"></audio>
+美音 'kætərpɪlər  
+美音
+<audio src="./media/caterpillar2_AAC.aac"></audio>
+
 
   
 
@@ -2250,7 +3061,13 @@ casually /'kæʒuəli/ adv
 
 
 # ***\#catfish*** n
-英音 'kætfɪʃ     美音 'kætfɪʃ  
+英音 'kætfɪʃ  
+英音
+<audio src="./media/catfish-b.aac"></audio>
+美音 'kætfɪʃ  
+美音
+<audio src="./media/catfish.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2262,7 +3079,13 @@ casually /'kæʒuəli/ adv
 
 
 # ***\#cathedral*** n
-英音 kə'θiːdrəl     美音 kə'θiːdrəl  
+英音 kə'θiːdrəl  
+英音
+<audio src="./media/cathedral1.aac"></audio>
+美音 kə'θiːdrəl  
+美音
+<audio src="./media/cathedral2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2272,7 +3095,13 @@ casually /'kæʒuəli/ adv
 
 
 # ***\#cattle*** n
-英音 'kætl     美音 'kætl  
+英音 'kætl  
+英音
+<audio src="./media/cattle-B.aac"></audio>
+美音 'kætl  
+美音
+<audio src="./media/cattle.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -2288,7 +3117,13 @@ casually /'kæʒuəli/ adv
 Notes: cattle 指牛的总称，不能说a cattle。  
 
 # ***\#cause*** n  重难点词汇
-英音 kɔːz     美音 kɔːz  
+英音 kɔːz  
+英音
+<audio src="./media/cause-B.aac"></audio>
+美音 kɔːz  
+美音
+<audio src="./media/cause.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 3 |  
 
@@ -2302,6 +3137,7 @@ Notes: cattle 指牛的总称，不能说a cattle。
 
  > Cars are one of the leading **causes of** air pollution in the world today.   
  > 汽车是当今世界空气污染的主要原因之一。  （译林⑦ – 4）  
+<audio src="./media/1-cause.aac"></audio>
 
 #### 辨析 cause, reason
 二者都可用作名词，都含“原因”之意。  
@@ -2309,9 +3145,11 @@ Notes: cattle 指牛的总称，不能说a cattle。
 **reason** 多指做某事或解释某事的“理由”、 “借口”。常用 reason for, reason why 结构。
  > She gave no **reasons for** her decision.   
  > 她没有解释自己为什么作出这个决定。    
+<audio src="./media/3-cause.aac"></audio>
 
  > We’d like to know the **reason why** she didn’t accept the job.   
  > 我们想知道她为什么拒绝了这份工作。    
+<audio src="./media/4-cause.aac"></audio>
 
 
 ### 2.*高义频：* **[U] 理由；缘故**  
@@ -2322,15 +3160,18 @@ Notes: cattle 指牛的总称，不能说a cattle。
 
  > The patient’s condition is **giving cause for concern**.  
  > 病人的状况令人担忧。    
+<audio src="./media/5-cause.aac"></audio>
 
 ### 3.*高义频：* **[C] 事业；理想；目标**  
 英译 an organization, belief, or aim that people support or fight for：
 
  > The Nobel prizes would be awarded to people who made great contributions to the causes of peace, literature, and the sciences.  
  > 诺贝尔奖将颁发给为和平、文学和科学事业做出巨大贡献的人。  （2009 广东改）  
+<audio src="./media/6-cause.aac"></audio>
 
  > The club is raising a fund in support of this **good cause**.  
  > 该俱乐部正在为赞助这项有益的事业集资。    
+<audio src="./media/P76 cause5.aac"></audio>
 
 
 真题解析
@@ -2342,7 +3183,13 @@ Notes: cattle 指牛的总称，不能说a cattle。
 1. causes  2. cause and effect  
 
 # ***\#cause*** vt  重难点词汇
-英音 kɔːz     美音 kɔːz  
+英音 kɔːz  
+英音
+<audio src="./media/cause-B.aac"></audio>
+美音 kɔːz  
+美音
+<audio src="./media/cause.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2353,29 +3200,41 @@ Notes: cattle 指牛的总称，不能说a cattle。
 
  > Unpunctual people seldom realise that their habit causes problems to others.   
  > 不守时的人很少会意识到他们的习惯给别人带来不便。  （ 2015 陕西）  
+<audio src="./media/P76 cause6.aac"></audio>
 
  > Everyone believes that global warming is caused by human activities.  
  > 人们普遍认为全球变暖是由人类活动所导致的。  （人教⑥ – 4改）  
+<audio src="./media/Cause-101_AAC.aac"></audio>
 
 - cause sb sth / cause sth for sb:
 
  > His wound caused him great suffering.   
  > 他的伤让他深受痛苦。    
+<audio src="./media/12-cause.aac"></audio>
 
  > The bad weather is causing problems for many farmers.   
  > 坏天气给很多农民带来麻烦。    
+<audio src="./media/13-cause.aac"></audio>
 
 - cause sb / sth to do sth:
 
  > What caused you to change your mind?   
  > 是什么让你改变了主意？    
+<audio src="./media/10-cause.aac"></audio>
 
  > The heavy rain caused the river to rise.   
  > 大雨引起河水上涨。    
+<audio src="./media/11-cause.aac"></audio>
 
 
 # ***\#caution*** n
-英音 'kɔːʃn     美音 'kɔːʃn  
+英音 'kɔːʃn  
+英音
+<audio src="./media/caution-B.aac"></audio>
+美音 'kɔːʃn  
+美音
+<audio src="./media/caution.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2388,6 +3247,7 @@ Notes: cattle 指牛的总称，不能说a cattle。
 
  > Caution is the parent of safety.  
  > 小心驶得万年船。    
+<audio src="./media/Caution-101_AAC.aac"></audio>
 
 ### 2.*低义频：* **[C] & [U] 警告；告诫：**  
 
@@ -2396,10 +3256,17 @@ Notes: cattle 指牛的总称，不能说a cattle。
 
  > Just a  **word of caution**— these glasses are very delicate so handle them with care.  
  > 提醒一句，这些玻璃杯很容易打碎，所以要小心放置。    
+<audio src="./media/1-caution.aac"></audio>
 
 
 # ***\#caution*** vt
-英音 'kɔːʃn     美音 'kɔːʃn  
+英音 'kɔːʃn  
+英音
+<audio src="./media/caution-B.aac"></audio>
+美音 'kɔːʃn  
+美音
+<audio src="./media/caution.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2409,13 +3276,21 @@ Notes: cattle 指牛的总称，不能说a cattle。
 
  > A friend **cautioned** her **against** / **about** taking risks.  
  > 朋友警告她不要冒险。    
+<audio src="./media/3-caution.aac"></audio>
 
  > She **cautioned** Tom not **to** drive too fast.  
  > 她提醒汤姆开车不要太快。    
+<audio src="./media/2-caution.aac"></audio>
 
 
 # ***\#cautious*** adj
-英音 'kɔːʃəs     美音 'kɔːʃəs  
+英音 'kɔːʃəs  
+英音
+<audio src="./media/cautious-B.aac"></audio>
+美音 'kɔːʃəs  
+美音
+<audio src="./media/cautious.aac"></audio>
+
 
 | 词频 2 | 阅读 2 |  
 
@@ -2425,9 +3300,11 @@ Notes: cattle 指牛的总称，不能说a cattle。
 
  > Doctors are **cautious about** the new treatment.   
  > 医生们对于这种新疗法很谨慎。    
+<audio src="./media/1-cautious.aac"></audio>
 
  > She is very **cautious about** hurting his feelings.  
  > 她小心翼翼，唯恐伤了他的感情。    
+<audio src="./media/She is very cautious about hurting his feelings2_AAC.aac"></audio>
 
 
 派生词汇
@@ -2435,7 +3312,13 @@ Notes: cattle 指牛的总称，不能说a cattle。
 cautiously /'kɔːʃəsli/ adv   
 
 # ***\#cave*** n
-英音 keɪv     美音 keɪv  
+英音 keɪv  
+英音
+<audio src="./media/cave-B.aac"></audio>
+美音 keɪv  
+美音
+<audio src="./media/cave.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -2445,7 +3328,13 @@ cautiously /'kɔːʃəsli/ adv
 
 
 # ***\#caveman*** n
-英音 'keɪvmæn     美音 'keɪvmæn  
+英音 'keɪvmæn  
+英音
+<audio src="./media/caveman1.aac"></audio>
+美音 'keɪvmæn  
+美音
+<audio src="./media/caveman2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2455,7 +3344,13 @@ cautiously /'kɔːʃəsli/ adv
 
 
 # ***\#cease*** v
-英音 siːs     美音 siːs  
+英音 siːs  
+英音
+<audio src="./media/cease-B.aac"></audio>
+美音 siːs  
+美音
+<audio src="./media/cease.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2468,7 +3363,13 @@ cautiously /'kɔːʃəsli/ adv
 
 
 # ***\#ceiling*** n
-英音 'siːlɪŋ     美音 'siːlɪŋ  
+英音 'siːlɪŋ  
+英音
+<audio src="./media/ceiling-B.aac"></audio>
+美音 'siːlɪŋ  
+美音
+<audio src="./media/ceiling.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 1 |  
 
@@ -2485,7 +3386,13 @@ cautiously /'kɔːʃəsli/ adv
 1. ceiling  
 
 # ***\#celebrate*** v
-英音 'selɪbreɪt     美音 'selɪbreɪt  
+英音 'selɪbreɪt  
+英音
+<audio src="./media/celebrate-B.aac"></audio>
+美音 'selɪbreɪt  
+美音
+<audio src="./media/celebrate.aac"></audio>
+
 
 | 词频 4 | 书面 1 |  
 
@@ -2495,14 +3402,17 @@ cautiously /'kɔːʃəsli/ adv
 
  > To celebrate the end of our exams, my friends and I went to a fast food restaurant.  
  > 为庆祝考试结束，我和朋友们去了一家快餐店。  （2013 陕西）  
+<audio src="./media/1-celebrate.aac"></audio>
 
  > Jack’s passed his exam. We are going out to celebrate.  
  > 杰克通过了考试，我们要出去庆祝一下。    
+<audio src="./media/2-celebrate.aac"></audio>
 
 ### 2.*低义频：* **赞扬；歌颂：**  
 
  > His work celebrates the energy and enthusiasm of the young.  
  > 他的作品歌颂了年轻人的朝气和热情。    
+<audio src="./media/3-celebrate.aac"></audio>
 
 
 派生词汇
@@ -2517,7 +3427,13 @@ celebrated /'selɪbreɪtɪd/ adj
 1. celebrate  
 
 # ***\#celebration*** n
-英音 ˌselɪ'breɪʃn     美音 ˌselɪ'breɪʃn  
+英音 ˌselɪ'breɪʃn  
+英音
+<audio src="./media/celebration-B.aac"></audio>
+美音 ˌselɪ'breɪʃn  
+美音
+<audio src="./media/celebration.aac"></audio>
+
 
 | 词频 3 | 口语 1 |  
 
@@ -2538,7 +3454,13 @@ celebrated /'selɪbreɪtɪd/ adj
 
 
 # ***\#celebrity*** n
-英音 sə'lebrəti     美音 sə'lebrəti  
+英音 sə'lebrəti  
+英音
+<audio src="./media/celebrity-B.aac"></audio>
+美音 sə'lebrəti  
+美音
+<audio src="./media/celebrity.aac"></audio>
+
 
 | 词频 2 | 阅读 2 |  
 
@@ -2548,10 +3470,17 @@ celebrated /'selɪbreɪtɪd/ adj
 
  > If fame is so troublesome, why aren’t all celebrities running away from it?   
  > 如果名气让人如此烦恼，名人们为何不远离它呢？  （2013 北京）  
+<audio src="./media/1-celebrity.aac"></audio>
 
 
 # ***\#cell*** n
-英音 sel     美音 sel  
+英音 sel  
+英音
+<audio src="./media/cell-B.aac"></audio>
+美音 sel  
+美音
+<audio src="./media/cell.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -2567,7 +3496,13 @@ celebrated /'selɪbreɪtɪd/ adj
 
 
 # ***\#cement*** n
-英音 sɪ'ment     美音 sɪ'ment  
+英音 sɪ'ment  
+英音
+<audio src="./media/cement-B.aac"></audio>
+美音 sɪ'ment  
+美音
+<audio src="./media/cement.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2577,7 +3512,13 @@ celebrated /'selɪbreɪtɪd/ adj
 
 
 # ***\#cemetery*** n
-英音 'semətri     美音 'seməteri  
+英音 'semətri  
+英音
+<audio src="./media/cemetery1.aac"></audio>
+美音 'seməteri  
+美音
+<audio src="./media/cemetery2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2589,7 +3530,13 @@ celebrated /'selɪbreɪtɪd/ adj
 
 
 # ***\#cent*** n
-英音 sent     美音 sent  
+英音 sent  
+英音
+<audio src="./media/cent-B.aac"></audio>
+美音 sent  
+美音
+<audio src="./media/cent.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 |  
 
@@ -2606,7 +3553,13 @@ celebrated /'selɪbreɪtɪd/ adj
 
 
 # ***\#center*** n
-英音 'sentə(r)     美音 'sentər  
+英音 'sentə(r)  
+英音
+<audio src="./media/centre-B.aac"></audio>
+美音 'sentər  
+美音
+<audio src="./media/centre  .aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 |  
 
@@ -2619,13 +3572,21 @@ celebrated /'selɪbreɪtɪd/ adj
 
  > Beijing is the political, economic and cultural centre of China.   
  > 北京是中国的政治、经济和文化中心。    
+<audio src="./media/1-centre  .aac"></audio>
 
  > My number is nine, **in the centre of** the front row.   
  > 我是9号，在前排中间。    
+<audio src="./media/2-centre  .aac"></audio>
 
 
 # ***\#center*** vt
-英音 'sentə(r)     美音 'sentər  
+英音 'sentə(r)  
+英音
+<audio src="./media/center1_AAC.aac"></audio>
+美音 'sentər  
+美音
+<audio src="./media/center2_AAC.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 |  
 
@@ -2635,7 +3596,13 @@ celebrated /'selɪbreɪtɪd/ adj
 
 
 # ***\#centigrade*** adj
-英音 'sentɪɡreɪd     美音 'sentɪɡreɪd  
+英音 'sentɪɡreɪd  
+英音
+<audio src="./media/centigrade-B.aac"></audio>
+美音 'sentɪɡreɪd  
+美音
+<audio src="./media/centigrade.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2648,7 +3615,13 @@ celebrated /'selɪbreɪtɪd/ adj
 
 
 # ***\#centigrade*** n
-英音 'sentɪɡreɪd     美音 'sentɪɡreɪd  
+英音 'sentɪɡreɪd  
+英音
+<audio src="./media/centigrade-B.aac"></audio>
+美音 'sentɪɡreɪd  
+美音
+<audio src="./media/centigrade.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2661,7 +3634,13 @@ celebrated /'selɪbreɪtɪd/ adj
 
 
 # ***\#centimeter*** n
-英音 'sentɪmiːtə(r)     美音 'sentɪmiːtər  
+英音 'sentɪmiːtə(r)  
+英音
+<audio src="./media/centimetre-B.aac"></audio>
+美音 'sentɪmiːtər  
+美音
+<audio src="./media/centimetre.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -2673,7 +3652,13 @@ celebrated /'selɪbreɪtɪd/ adj
 
 
 # ***\#centimetre*** n
-英音 'sentɪmiːtə(r)     美音 'sentɪmiːtər  
+英音 'sentɪmiːtə(r)  
+英音
+<audio src="./media/centimetre-B.aac"></audio>
+美音 'sentɪmiːtər  
+美音
+<audio src="./media/centimetre.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -2685,7 +3670,13 @@ celebrated /'selɪbreɪtɪd/ adj
 
 
 # ***\#central*** adj
-英音 'sentrəl     美音 'sentrəl  
+英音 'sentrəl  
+英音
+<audio src="./media/central-B.aac"></audio>
+美音 'sentrəl  
+美音
+<audio src="./media/central.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 |  
 
@@ -2698,13 +3689,20 @@ celebrated /'selɪbreɪtɪd/ adj
 
  > Apples traveled from **Central Asia** to Rome.    
  > 苹果从中亚传到了罗马。  （2008 陕西）  
+<audio src="./media/1-central.aac"></audio>
 
  > China Central Television (CCTV)  
  > 中国中央电视台    
 
 
 # ***\#centralize*** v
-英音 ˈsentrəlaɪz     美音 ˈsentrəlaɪz  
+英音 ˈsentrəlaɪz  
+英音
+<audio src="./media/centralize1_AAC.aac"></audio>
+美音 ˈsentrəlaɪz  
+美音
+<audio src="./media/centralize2_AAC.aac"></audio>
+
 
   
 
@@ -2714,7 +3712,13 @@ celebrated /'selɪbreɪtɪd/ adj
 
 
 # ***\#centre*** n
-英音 'sentə(r)     美音 'sentər  
+英音 'sentə(r)  
+英音
+<audio src="./media/centre-B.aac"></audio>
+美音 'sentər  
+美音
+<audio src="./media/centre  .aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 |  
 
@@ -2727,13 +3731,21 @@ celebrated /'selɪbreɪtɪd/ adj
 
  > Beijing is the political, economic and cultural centre of China.   
  > 北京是中国的政治、经济和文化中心。    
+<audio src="./media/1-centre  .aac"></audio>
 
  > My number is nine, **in the centre of** the front row.   
  > 我是9号，在前排中间。    
+<audio src="./media/2-centre  .aac"></audio>
 
 
 # ***\#centre*** vt
-英音 'sentə(r)     美音 'sentər  
+英音 'sentə(r)  
+英音
+<audio src="./media/centre-B.aac"></audio>
+美音 'sentər  
+美音
+<audio src="./media/centre  .aac"></audio>
+
 
   
 
@@ -2743,7 +3755,13 @@ celebrated /'selɪbreɪtɪd/ adj
 
 
 # ***\#century*** n
-英音 'sentʃəri     美音 'sentʃəri  
+英音 'sentʃəri  
+英音
+<audio src="./media/century-B.aac"></audio>
+美音 'sentʃəri  
+美音
+<audio src="./media/century.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 3 |  
 
@@ -2753,7 +3771,13 @@ celebrated /'selɪbreɪtɪd/ adj
 
 
 # ***\#ceramic*** n
-英音 səˈræmɪk     美音 səˈræmɪk  
+英音 səˈræmɪk  
+英音
+<audio src="./media/ceramic1_AAC.aac"></audio>
+美音 səˈræmɪk  
+美音
+<audio src="./media/ceramic2_AAC.aac"></audio>
+
 
   
 
@@ -2763,7 +3787,13 @@ celebrated /'selɪbreɪtɪd/ adj
 
 
 # ***\#ceramics*** n
-英音 sɪ'ræmɪks     美音 sə'ræmɪks  
+英音 sɪ'ræmɪks  
+英音
+<audio src="./media/ceramics1_AAC.aac"></audio>
+美音 sə'ræmɪks  
+美音
+<audio src="./media/ceramics2_AAC.aac"></audio>
+
 
   
 
@@ -2773,7 +3803,13 @@ celebrated /'selɪbreɪtɪd/ adj
 
 
 # ***\#cereal*** n
-英音 'sɪəriəl     美音 'sɪriəl  
+英音 'sɪəriəl  
+英音
+<audio src="./media/cereal1.aac"></audio>
+美音 'sɪriəl  
+美音
+<audio src="./media/cereal2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -2783,7 +3819,13 @@ celebrated /'selɪbreɪtɪd/ adj
 
 
 # ***\#ceremonial*** adj
-英音 ˌserɪ'məʊniəl     美音 ˌserɪ'moʊniəl  
+英音 ˌserɪ'məʊniəl  
+英音
+<audio src="./media/ceremonial1.aac"></audio>
+美音 ˌserɪ'moʊniəl  
+美音
+<audio src="./media/ceremonial2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -2793,7 +3835,13 @@ celebrated /'selɪbreɪtɪd/ adj
 
 
 # ***\#ceremony*** n
-英音 'serəməni     美音 'serəmoʊni  
+英音 'serəməni  
+英音
+<audio src="./media/ceremony-B.aac"></audio>
+美音 'serəmoʊni  
+美音
+<audio src="./media/ceremony.aac"></audio>
+
 
 | 词频 4 | 阅读 3 |  
 
@@ -2811,10 +3859,17 @@ celebrated /'selɪbreɪtɪd/ adj
 
  > There is too much ceremony at official dinners.  
  > 正式宴会上礼节太多。    
+<audio src="./media/1-ceremony.aac"></audio>
 
 
 # ***\#certain*** adj
-英音 'sɜːtn     美音 'sɜːrtn  
+英音 'sɜːtn  
+英音
+<audio src="./media/certain-B.aac"></audio>
+美音 'sɜːrtn  
+美音
+<audio src="./media/certain.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -2825,25 +3880,31 @@ celebrated /'selɪbreɪtɪd/ adj
 
  > One thing is certain: I’ll never let you down.   
  > 有一点是肯定的，那就是我绝不会让你失望。    
+<audio src="./media/1-certain.aac"></audio>
 
  > The climbers face **certain death** if the rescue today is unsuccessful.  
  > 如果今天的救援行动不成功，登山队员将必死无疑。    
+<audio src="./media/2-certain.aac"></audio>
 
 - it is certain + (that) / wh- 从句：
 
  > It is certain that the typhoon will hit this area.   
  > 台风将袭击这个地区，这一点是肯定的。    
+<audio src="./media/3-certain.aac"></audio>
 
  > It is not certain whether it will rain tomorrow.   
  > 还不确定明天是否会下雨。    
+<audio src="./media/4-certain.aac"></audio>
 
 - (be) certain to do sth:
 
  > Something good is certain to happen in the end when you do not give up, and just wait a little!  
  > 如果你不放弃，就一定会有好的结果，再坚持一下  （2009 北京）  
+<audio src="./media/Certain-101_AAC.aac"></audio>
 
  > This complete but brief historical collection is certain to entertain readers.  
  > 这本完整而简约的历史集一定会取悦读者。  （2017 江苏）  
+<audio src="./media/Certain-102_AAC.aac"></audio>
 
 ### 2.*高义频：* **确信的；有把握的**  
 英译 completely sure; without doubts：
@@ -2852,14 +3913,17 @@ celebrated /'selɪbreɪtɪd/ adj
 
  > Are you absolutely certain about this?  
  > 你对这事绝对肯定吗？    
+<audio src="./media/Are you absolutely_AAC.aac"></audio>
 
 - (be) certain + (that) / wh-从句：
 
  > I’m not certain that I’ll get my high school diploma, but I’m hopeful.  
  > 我不确信能否拿到高中毕业证，但我还是满怀希望。  （外研⑦ – 7）  
+<audio src="./media/I'm not certain that_AAC.aac"></audio>
 
  > The task is challenging. I’m not certain when it will be finished.  
  > 这个任务颇具挑战性，我不知道什么时候能完成。    
+<audio src="./media/The task is challenging_AAC.aac"></audio>
 
 Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，常可互换。但当it作形式主语 或宾语时，只能用certain。  
 ### 3.*高义频：* **某个；某些； 某种：**  
@@ -2881,7 +3945,13 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
 
 # ***\#certain*** pron
-英音 'sɜːtn     美音 'sɜːrtn  
+英音 'sɜːtn  
+英音
+<audio src="./media/certain-B.aac"></audio>
+美音 'sɜːrtn  
+美音
+<audio src="./media/certain.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -2891,7 +3961,13 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
 
 # ***\#certainly*** adv
-英音 'sɜːtnli     美音 'sɜːrtnli  
+英音 'sɜːtnli  
+英音
+<audio src="./media/certainly-B.aac"></audio>
+美音 'sɜːrtnli  
+美音
+<audio src="./media/certainly.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 |  
 
@@ -2901,20 +3977,24 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > Something was certainly wrong with him.   
  > 他肯定出问题了。    
+<audio src="./media/1-certainly.aac"></audio>
 
  > If I had time, I would certainly go for outing with you.   
  > 如果有时间，我肯定会跟你去远足。  （2012 湖南）  
+<audio src="./media/P78 certainly2.aac"></audio>
 
 ### 2.*高义频：* **当然；没问题：**  
 
  > — Will you help me?  
  > 你愿意帮我的忙吗？    
+<audio src="./media/3-certainly.aac"></audio>
 
  > — Certainly I will.  
  > 当然愿意。    
 
  > — Do you mind if I sit here?  
  > 我坐这儿你介意吗？    
+<audio src="./media/P78 certainly3.aac"></audio>
 
  > — **Certainly not**.   
  > 当然不会。    
@@ -2929,7 +4009,13 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 1. Certainly  
 
 # ***\#certainty*** n
-英音 'sɜːtnti     美音 'sɜːrtnt  
+英音 'sɜːtnti  
+英音
+<audio src="./media/certainty-B.aac"></audio>
+美音 'sɜːrtnt  
+美音
+<audio src="./media/certainty.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -2941,7 +4027,13 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
 
 # ***\#certificate*** n
-英音 sə'tɪfɪkət     美音 sər'tɪfɪkət  
+英音 sə'tɪfɪkət  
+英音
+<audio src="./media/certificate-B.aac"></audio>
+美音 sər'tɪfɪkət  
+美音
+<audio src="./media/certificate.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 3 |  
 
@@ -2951,13 +4043,20 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > Student A has just received her graduation certificate.  
  > 学生甲刚获得毕业证书。  （人教⑦ – 1）  
+<audio src="./media/certificate-Student A.aac"></audio>
 
  > a birth / marriage certificate  
  > 出生证明/结婚证    
 
 
 # ***\#chain*** n
-英音 tʃeɪn     美音 tʃeɪn  
+英音 tʃeɪn  
+英音
+<audio src="./media/chain-B.aac"></audio>
+美音 tʃeɪn  
+美音
+<audio src="./media/chain.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
 
@@ -2970,9 +4069,11 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > A chain is no stronger than its weakest link.   
  > 一环薄弱，全局必垮。    
+<audio src="./media/2-chain.aac"></audio>
 
  > The prisoners are **in chains**.  
  > 囚犯戴着镣铐。    
+<audio src="./media/3-chain.aac"></audio>
 
 ### 2.*高义频：* **[C] 一系列；一连串：**  
 
@@ -2989,7 +4090,13 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
 
 # ***\#chain*** vt
-英音 tʃeɪn     美音 tʃeɪn  
+英音 tʃeɪn  
+英音
+<audio src="./media/chain-B.aac"></audio>
+美音 tʃeɪn  
+美音
+<audio src="./media/chain.aac"></audio>
+
 
 | 词频 4 | 阅读 3 |  
 
@@ -2999,10 +4106,17 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > Chain the horse to the tree.  
  > 把马拴在树上。    
+<audio src="./media/4-chain.aac"></audio>
 
 
 # ***\#chair*** n
-英音 tʃeə(r)     美音 tʃer  
+英音 tʃeə(r)  
+英音
+<audio src="./media/chair-B.aac"></audio>
+美音 tʃer  
+美音
+<audio src="./media/chair.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -3021,7 +4135,13 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
 
 # ***\#chair*** vt
-英音 tʃeə(r)     美音 tʃer  
+英音 tʃeə(r)  
+英音
+<audio src="./media/chair-B.aac"></audio>
+美音 tʃer  
+美音
+<audio src="./media/chair.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -3031,10 +4151,17 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > He chairs the committee.  
  > 他担任委员会主席。    
+<audio src="./media/1-chair.aac"></audio>
 
 
 # ***\#chairman*** n
-英音 'tʃeəmən     美音 'tʃermən  
+英音 'tʃeəmən  
+英音
+<audio src="./media/chairman-B.aac"></audio>
+美音 'tʃermən  
+美音
+<audio src="./media/chairman.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 3 |  
 
@@ -3046,7 +4173,13 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
 
 # ***\#chairwoman*** n
-英音 'tʃeəwʊmən     美音 'tʃerwʊmən  
+英音 'tʃeəwʊmən  
+英音
+<audio src="./media/chairwoman-B.aac"></audio>
+美音 'tʃerwʊmən  
+美音
+<audio src="./media/chairwoman.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3058,7 +4191,13 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
 
 # ***\#chalk*** n
-英音 tʃɔːk     美音 tʃɔːk  
+英音 tʃɔːk  
+英音
+<audio src="./media/chalk-B.aac"></audio>
+美音 tʃɔːk  
+美音
+<audio src="./media/chalk.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3071,7 +4210,13 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
 
 # ***\#challenge*** vt  重难点词汇
-英音 'tʃælɪndʒ     美音 'tʃælɪndʒ  
+英音 'tʃælɪndʒ  
+英音
+<audio src="./media/challenge-B.aac"></audio>
+美音 'tʃælɪndʒ  
+美音
+<audio src="./media/challenge.aac"></audio>
+
 
 | 词频 5 | 口语 1 | 书面 1 |  
 
@@ -3083,9 +4228,11 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > I kept practising until I became confident enough to challenge the good players.  
  > 我一直不断练习，直至我有足够的信心向优秀选手挑战。  （2013 浙江书面表达）  
+<audio src="./media/challenge51.aac"></audio>
 
  > I challenged him to a game of chess.  
  > 我邀请他跟我下一盘棋。    
+<audio src="./media/challenge52.aac"></audio>
 
 ### 2.*高义频：* **对...质疑**  
 英译 to question whether sth is right, legal, etc.：
@@ -3098,10 +4245,17 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > The job doesn’t really challenge her.  
  > 这项工作对她并不难。    
+<audio src="./media/5-challenge.aac"></audio>
 
 
 # ***\#challenge*** n  重难点词汇
-英音 'tʃælɪndʒ     美音 'tʃælɪndʒ  
+英音 'tʃælɪndʒ  
+英音
+<audio src="./media/challenge-B.aac"></audio>
+美音 'tʃælɪndʒ  
+美音
+<audio src="./media/challenge.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 2 |  
 
@@ -3118,24 +4272,34 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > Life is filled with challenges.   
  > 生活充满挑战。    
+<audio src="./media/1-challenge.aac"></audio>
 
  > The government will have to **meet** / **rise to the challenge of** (= deal with it successfully) rising unemployment.  
  > 政府将不得不迎接失业率上升的挑战。    
+<audio src="./media/2-challenge.aac"></audio>
 
 ### 2.*高义频：* **[C] 质疑：**  
 
  > It was a direct **challenge to** the president’s authority.  
  > 这是对主席权威的直接挑战。    
+<audio src="./media/challenge50.aac"></audio>
 
 ### 3.*高义频：* **(比赛、打斗等的) 邀请 / 提议**  
 英译 an invitation or a suggestion from sb to fight, play, argue etc.：
 
  > They **threw down** the **challenge** that he couldn’t wash 40 cars in one hour.  
  > 他们向他发出挑战，说他不可能在一小时内洗40辆车。    
+<audio src="./media/P78 challenge3.aac"></audio>
 
 
 # ***\#challenging*** adj
-英音 'tʃælɪndʒɪŋ     美音 'tʃælɪndʒɪŋ  
+英音 'tʃælɪndʒɪŋ  
+英音
+<audio src="./media/challenging-B.aac"></audio>
+美音 'tʃælɪndʒɪŋ  
+美音
+<audio src="./media/challenging.aac"></audio>
+
 
 | 词频 3 | 阅读 2 |  
 
@@ -3148,7 +4312,13 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
 
 # ***\#chamber*** n
-英音 'tʃeɪmbə(r)     美音 'tʃeɪmbər  
+英音 'tʃeɪmbə(r)  
+英音
+<audio src="./media/chamber-B.aac"></audio>
+美音 'tʃeɪmbər  
+美音
+<audio src="./media/chamber2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3160,7 +4330,13 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
 
 # ***\#chamber*** adj
-英音 'tʃeɪmbə(r)     美音 'tʃeɪmbər  
+英音 'tʃeɪmbə(r)  
+英音
+<audio src="./media/chamber-B.aac"></audio>
+美音 'tʃeɪmbər  
+美音
+<audio src="./media/chamber2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3170,7 +4346,13 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
 
 # ***\#champion*** n
-英音 'tʃæmpiən     美音 'tʃæmpiən  
+英音 'tʃæmpiən  
+英音
+<audio src="./media/champion-B.aac"></audio>
+美音 'tʃæmpiən  
+美音
+<audio src="./media/champion.aac"></audio>
+
 
 | 词频 2 | 书面 1 |  
 
@@ -3180,7 +4362,13 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
 
 # ***\#championship*** n
-英音 'tʃæmpiənʃɪp     美音 'tʃæmpiənʃɪp  
+英音 'tʃæmpiənʃɪp  
+英音
+<audio src="./media/championship-B.aac"></audio>
+美音 'tʃæmpiənʃɪp  
+美音
+<audio src="./media/championship.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -3190,7 +4378,13 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
 
 # ***\#chance*** adj
-英音 tʃɑːns     美音 tʃæns  
+英音 tʃɑːns  
+英音
+<audio src="./media/chance-B.aac"></audio>
+美音 tʃæns  
+美音
+<audio src="./media/chance.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -3203,7 +4397,13 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
 
 # ***\#chance*** n
-英音 tʃɑːns     美音 tʃæns  
+英音 tʃɑːns  
+英音
+<audio src="./media/chance-B.aac"></audio>
+美音 tʃæns  
+美音
+<audio src="./media/chance.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3214,9 +4414,11 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > The wider the spread of a species, the better its **chance of** survival.   
  > 一个物种分布得越广，其生存下来的可能性就越大。  （2011 江西）  
+<audio src="./media/2-chance.aac"></audio>
 
  > There’s **no chance** of rain today. / There is no chance that it will rain today.   
  > 今天不可能下雨。    
+<audio src="./media/3-chance.aac"></audio>
 
 ### 2.*高义频：* **机会；机遇(opportunity)：**  
 
@@ -3228,25 +4430,31 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > Don’t **miss the chance** to lend your warm hands to help others!  
  > 不要错过伸出你热情的双手来帮助他人的机会！  （2014 四川）  
+<audio src="./media/Chance-101_AAC.aac"></audio>
 
  > This is surely a good **chance for** more people **to** see your works.  
  > 这无疑是一个好机会，可以让更多人看到你的作品。  （2016 全国书面表达改）  
+<audio src="./media/chance50.aac"></audio>
 
  > He missed the gold in the high jump, but will **get a second chance** in the long jump.   
  > 他错失了跳高比赛的金牌，但是在跳远比赛中还有一次机会。  （2012 全国）  
+<audio src="./media/P79 chance5.aac"></audio>
 
 ### 3.*高义频：* **[C] 风险；冒险：**  
 
  > The car might break down but that’s **a chance** we’ll have to **take**.   
  > 车有可能抛锚，但我们不得不冒这个险。    
+<audio src="./media/6-chance.aac"></audio>
 
 ### 4.*高义频：* **[U] 偶然；巧合；运气：**  
 
  > Chance led him to find the new facts.   
  > 在偶然的情况下他发现了那些新的事实。    
+<audio src="./media/7-chance.aac"></audio>
 
  > Chance plays an important part in many card games.   
  > 在许多纸牌游戏中运气很重要。    
+<audio src="./media/8-chance.aac"></audio>
 
 
 固定搭配
@@ -3256,27 +4464,32 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > If, by chance, he won, he would spend the prize money on a computer.   
  > 如果他意外获奖，他会用奖金买一台电脑。  （人教⑥ – 2）  
+<audio src="./media/9-chance.aac"></audio>
 
 ## \#stand / have a chance (of doing sth)
 1.**有可能 （做某事）成功：**  
 
  > I think you stand a chance of winning first place.  
  > 我觉得你有可能拿第一名。    
+<audio src="./media/I think you stand a chance_AAC.aac"></audio>
 
 ## \#take chances / a chance
 1.**冒险一试；碰运气：**  
 
  > She taught me to take chances and not be afraid.   
  > 她教导我要敢于冒险一试，不要害怕。  （2010 北京）  
+<audio src="./media/11-chance.aac"></audio>
 
  > I’m not sure of beating him, but let me take a chance.   
  > 我虽没有把握打败他，但还是要碰碰运气。    
+<audio src="./media/12-chance.aac"></audio>
 
 ## \#the chances are (that)
 1.**很可能：**  
 
  > If you invite her, the chances are she'll say no.  
  > 如果你邀请她，很可能她会拒绝。    
+<audio src="./media/Chance-102_AAC.aac"></audio>
 
 
 真题解析
@@ -3289,7 +4502,13 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 1. chance  2. by chance / accident  3. to change  
 
 # ***\#change*** n  重难点词汇
-英音 tʃeɪndʒ     美音 tʃeɪndʒ  
+英音 tʃeɪndʒ  
+英音
+<audio src="./media/change-B.aac"></audio>
+美音 tʃeɪndʒ  
+美音
+<audio src="./media/change.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3302,14 +4521,17 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > People are not satisfied with their lives, and they want to **make changes**.  
  > 人们对生活不太满意，想改变。  （2015 上海）  
+<audio src="./media/Change-105_AAC.aac"></audio>
 
  > How about dinner out **for a change**?   
  > 我们出去吃换换口味如何？    
+<audio src="./media/13-change.aac"></audio>
 
 ### 2.*高义频：* **[U] 零钱；找回的零钱：**  
 
  > Here’s your change, sir.   
  > 先生，这是找给您的钱。    
+<audio src="./media/14-change.aac"></audio>
 
  > **make change** (AmE)  
  > 找零；换零钱    
@@ -3318,6 +4540,7 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > The journey involved three changes.   
  > 这次旅程要换乘三次。    
+<audio src="./media/16-change.aac"></audio>
 
 
 固定搭配
@@ -3327,10 +4550,17 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > There was a change for the better in the patient’s condition.   
  > 病人的情况有所好转。    
+<audio src="./media/change-There was a change.aac"></audio>
 
 
 # ***\#change*** v  重难点词汇
-英音 tʃeɪndʒ     美音 tʃeɪndʒ  
+英音 tʃeɪndʒ  
+英音
+<audio src="./media/change-B.aac"></audio>
+美音 tʃeɪndʒ  
+美音
+<audio src="./media/change.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3340,33 +4570,40 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > The two things that **change** your **life** are the people you meet and books you read.  
  > 有两种东西可以改变你的生活：你遇到的人和你读的书。  （2016 全国）  
+<audio src="./media/change50.aac"></audio>
 
  > The neighborhood which I used to live in has changed a lot.  
  > 我曾住过的那个居民区变化很大。  （2009 全国）  
+<audio src="./media/1-change.aac"></audio>
 
 - change (from sth) to / into sth:
 
  > The driver of the car didn’t see his traffic light had changed from orange to red.  
  > 小车司机没看到交通信号灯由黄变红了。  （2010 全国改）  
+<audio src="./media/2-change.aac"></audio>
 
 - change sb / sth into / to sth:
 
  > With a wave of her magic stick, she changed the prince into a frog.  
  > 她魔杖一挥，把王子变成了一只青蛙。    
+<audio src="./media/With a wave of her magic_AAC.aac"></audio>
 
 ### 2.*高义频：* **更换；替换；(给…) 换 (衣服)：**  
 
  > The time of the meeting has been **changed from** 10 a.m. **to** 9 a.m.   
  > 开会时间由上午10点改到了9点。    
+<audio src="./media/4-change.aac"></audio>
 
  > change a tyre / the sheets / jobs  
  > 换轮胎/床单/工作    
 
  > The three boys were fed, bathed and **changed into** their nightclothes.  
  > 给3个男孩子喂了饭，洗了澡，再给他们换上睡衣。  （2011 江西）  
+<audio src="./media/5-change.aac"></audio>
 
  > Sarah, hurry up. I'm afraid you won't have time to **get changed** before the party.  
  > 萨拉，快点！恐怕聚会开始前你没有时间换衣服了。    
+<audio src="./media/Change-101_AAC.aac"></audio>
 
 ### 3.*高义频：* **交换；互换：**  
 
@@ -3374,14 +4611,17 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > Can I change seats with you?  
  > 我能跟你换座位吗？    
+<audio src="./media/Can I change seats with _AAC.aac"></audio>
 
  > She may be rich, but I wouldn’t want to change places with her.  
  > 她也许很有钱，但是我也不愿意和她交换位置。    
+<audio src="./media/She may be rich,_AAC.aac"></audio>
 
 ### 4.*高义频：* **把 (钱) 换成 (零钱)；兑换：**  
 
  > Can you **change** a £20 note **for** me?   
  > 你能帮我把这20英镑换成零钱吗？    
+<audio src="./media/9-change.aac"></audio>
 
  > **change** dollars **into** yen  
  > 把美元兑换成日元    
@@ -3390,12 +4630,14 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > **All change**!   
  > 全部下车！    
+<audio src="./media/10-change.aac"></audio>
 
  > **change at** Paris for London  
  > 在巴黎中转去伦敦    
 
  > I stopped in Moscow only to **change planes**.  
  > 我在莫斯科停留只是为了转机。    
+<audio src="./media/11-change.aac"></audio>
 
 ### 6.*高义频：* **退换；调换(AmE exchange)：**  
 
@@ -3403,10 +4645,17 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > Madam, I want to change this shirt for a larger size.  
  > 女士，我想把这件衬衣换成大一号的。    
+<audio src="./media/Change-104_AAC.aac"></audio>
 
 
 # ***\#changeable*** adj
-英音 'tʃeɪndʒəbl     美音 'tʃeɪndʒəbl  
+英音 'tʃeɪndʒəbl  
+英音
+<audio src="./media/changeable-B.aac"></audio>
+美音 'tʃeɪndʒəbl  
+美音
+<audio src="./media/changeable.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -3422,7 +4671,13 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
 
 # ***\#channel*** vt
-英音 'tʃænl     美音 'tʃænl  
+英音 'tʃænl  
+英音
+<audio src="./media/channel-B.aac"></audio>
+美音 'tʃænl  
+美音
+<audio src="./media/channel.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -3432,10 +4687,17 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > Most of his energy was **channeled into** writing.   
  > 他把大部分精力都放到了写作上。    
+<audio src="./media/4-channel.aac"></audio>
 
 
 # ***\#channel*** n
-英音 'tʃænl     美音 'tʃænl  
+英音 'tʃænl  
+英音
+<audio src="./media/channel-B.aac"></audio>
+美音 'tʃænl  
+美音
+<audio src="./media/channel.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -3447,6 +4709,7 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > He **changed** / **switched channels** to watch the basketball game.  
  > 他转换频道要看篮球比赛。    
+<audio src="./media/channel56.aac"></audio>
 
 ### 2.*高义频：* **途径；渠道：**  
 
@@ -3458,9 +4721,11 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > Complaints must be made **through the proper channels**.   
  > 投诉必须通过正当的途径。    
+<audio src="./media/2-channel.aac"></audio>
 
  > Our school BBS is a useful **channel of communication** between teachers and students.   
  > 我们学校的BBS为师生交流提供了有用的平台。    
+<audio src="./media/3-channel.aac"></audio>
 
 ### 3.*低义频：* **海峡；水渠；航道：**  
 
@@ -3469,7 +4734,13 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
 
 # ***\#chant*** n
-英音 tʃɑːnt     美音 tʃænt  
+英音 tʃɑːnt  
+英音
+<audio src="./media/chant-B.aac"></audio>
+美音 tʃænt  
+美音
+<audio src="./media/chant.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3479,7 +4750,13 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
 
 # ***\#chant*** v
-英音 tʃɑːnt     美音 tʃænt  
+英音 tʃɑːnt  
+英音
+<audio src="./media/chant-B.aac"></audio>
+美音 tʃænt  
+美音
+<audio src="./media/chant.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3489,7 +4766,13 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
 
 # ***\#chaos*** n
-英音 'keɪɒs     美音 'keɪɑːs  
+英音 'keɪɒs  
+英音
+<audio src="./media/chaos-B.aac"></audio>
+美音 'keɪɑːs  
+美音
+<audio src="./media/chaos.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3499,10 +4782,17 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > The city was **in chaos** after the earthquake.   
  > 地震后城市陷入一片混乱。    
+<audio src="./media/1-chaos.aac"></audio>
 
 
 # ***\#chap*** n
-英音 tʃæp     美音 tʃæp  
+英音 tʃæp  
+英音
+<audio src="./media/chap1_AAC.aac"></audio>
+美音 tʃæp  
+美音
+<audio src="./media/chap2_AAC.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3512,7 +4802,13 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
 
 # ***\#chapter*** n
-英音 'tʃæptə(r)     美音 'tʃæptər  
+英音 'tʃæptə(r)  
+英音
+<audio src="./media/chapter-B.aac"></audio>
+美音 'tʃæptər  
+美音
+<audio src="./media/chapter.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 3 |  
 
@@ -3525,10 +4821,17 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > Steamboat travel opened a new chapter in America’s exploration of the West.   
  > 汽船旅行为开发美国西部翻开了新的篇章。    
+<audio src="./media/1-chapter.aac"></audio>
 
 
 # ***\#char*** vi
-英音 tʃɑː(r)     美音 tʃɑːr  
+英音 tʃɑː(r)  
+英音
+<audio src="./media/char-B.aac"></audio>
+美音 tʃɑːr  
+美音
+<audio src="./media/char.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -3538,7 +4841,13 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
 
 # ***\#character*** n  重难点词汇
-英音 'kærəktə(r)     美音 'kærəktər  
+英音 'kærəktə(r)  
+英音
+<audio src="./media/character-B.aac"></audio>
+美音 'kærəktər  
+美音
+<audio src="./media/character.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
 
@@ -3548,18 +4857,22 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > She has a cheerful but quiet character.   
  > 她的性格乐观文静。    
+<audio src="./media/1-character.aac"></audio>
 
  > Weakness of attitude becomes weakness of character.  
  > 态度上的弱点会变成性格上的弱点。  （——爱因斯坦）  
+<audio src="./media/2-character.aac"></audio>
 
 ### 2.*高义频：* **[U] 特色；特性**  
 英译 the qualities that make sb / sth different from others (nature)：
 
  > The whole **character of** the school has changed since he became the president.   
  > 自从他担任校长以来，这所学校的整体特色已经改变了。    
+<audio src="./media/3-character.aac"></audio>
 
  > The city invested 6 billion yuan to preserve the **character of** the old town.    
  > 该城市投资60亿元用于保护古城的特色。  （外研⑦ – 6）  
+<audio src="./media/4-character.aac"></audio>
 
 ### 3.*高义频：* **[U] (好的) 品性；道德品质：**  
 英译 strong personal qualities：
@@ -3569,6 +4882,7 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 
  > Sports can be good for **character building**.   
  > 体育运动有益于培养良好的品格。    
+<audio src="./media/5-character.aac"></audio>
 
 ### 4.*高义频：* **[C] 人物；角色：**  
 
@@ -3595,6 +4909,7 @@ Notes: certain和sure作表语时， 均译为“确信 的”“肯定的”，
 characterize / characterise  /'kærɪktəraɪz/ vt   
  > An elephant is characterized by a long trunk.   
  > 大象的特征是鼻子长。    
+<audio src="./media/6-character.aac"></audio>
 
 
 真题解析
@@ -3607,7 +4922,13 @@ health. It may also be good for ________ (良好品格的培养).  （2009 湖�
 1. character building  2. character  
 
 # ***\#characteristic*** n
-英音 ˌkærəktə'rɪstɪk     美音 ˌkærəktə'rɪstɪk  
+英音 ˌkærəktə'rɪstɪk  
+英音
+<audio src="./media/characteristic-B.aac"></audio>
+美音 ˌkærəktə'rɪstɪk  
+美音
+<audio src="./media/characteristic.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 2 |  
 
@@ -3617,13 +4938,20 @@ health. It may also be good for ________ (良好品格的培养).  （2009 湖�
 
  > Another unique human characteristic is that we walk upright.  
  > 人类另一个独有的特征是我们人直立行走。  （2019 江苏）  
+<audio src="./media/Another unique human characteristic2_AAC.aac"></audio>
 
  > key / personal characteristics  
  > 重要的 / 个人的特征    
 
 
 # ***\#characteristic*** adj
-英音 kærəktə'rɪstɪk     美音 kærəktə'rɪstɪk  
+英音 kærəktə'rɪstɪk  
+英音
+<audio src="./media/characteristic-B.aac"></audio>
+美音 kærəktə'rɪstɪk  
+美音
+<audio src="./media/characteristic.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -3633,10 +4961,17 @@ health. It may also be good for ________ (良好品格的培养).  （2009 湖�
 
  > Sunny, hot days are the characteristic weather of the summer months.   
  > 晴朗、炎热是夏季的典型天气。    
+<audio src="./media/2-characteristic.aac"></audio>
 
 
 # ***\#characterize*** vt
-英音 'kærɪktəraɪz     美音 'kærɪktəraɪz  
+英音 'kærɪktəraɪz  
+英音
+<audio src="./media/characterize1_AAC.aac"></audio>
+美音 'kærɪktəraɪz  
+美音
+<audio src="./media/characterize2_AAC.aac"></audio>
+
 
   
 
@@ -3646,7 +4981,13 @@ health. It may also be good for ________ (良好品格的培养).  （2009 湖�
 
 
 # ***\#charge*** v  重难点词汇
-英音 tʃɑːdʒ     美音 tʃɑːrdʒ  
+英音 tʃɑːdʒ  
+英音
+<audio src="./media/charge-B.aac"></audio>
+美音 tʃɑːrdʒ  
+美音
+<audio src="./media/charge.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -3658,17 +4999,21 @@ health. It may also be good for ________ (良好品格的培养).  （2009 湖�
 
  > We won’t charge you for delivery.   
  > 我们免费送货。    
+<audio src="./media/9-charge.aac"></audio>
 
  > Do you think museums should charge for admission?  
  > 你认为博物馆该收入场费吗？    
+<audio src="./media/10-charge.aac"></audio>
 
  > I wonder how much you charge for your services.  
  > 我想知道你们收取多少服务费。  （2009 安徽）  
+<audio src="./media/11-charge.aac"></audio>
 
 - charge sb sth (for sth):
 
  > The restaurant only charged me $40 (for wine).  
  > 餐馆仅收了我40美元（的酒水钱）。    
+<audio src="./media/The restaurant only charged_AAC.aac"></audio>
 
 ### 2.*高义频：* **指控；控告：**  
 
@@ -3676,16 +5021,19 @@ health. It may also be good for ________ (良好品格的培养).  （2009 湖�
 
  > She is charged with murdering her husband.   
  > 她被控谋害其夫。    
+<audio src="./media/13-charge.aac"></audio>
 
 ### 3.*高义频：* **(给…) 充电：**  
 
  > He had forgotten to charge his phone.  
  > 他忘记了给手机充电。    
+<audio src="./media/He had forgotten to charge his phone2_AAC.aac"></audio>
 
 ### 4.*低义频：* **(向...) 冲；进攻：**  
 
  > When lions are hiding for an attack by a water hole, they wait patiently and can charge at any second.  
  > 当狮子隐藏在水坑边上准备攻击时，它们会耐心地等待着，随时都会发起攻击。    
+<audio src="./media/15-charge.aac"></audio>
 
 
 派生词汇
@@ -3693,7 +5041,13 @@ health. It may also be good for ________ (良好品格的培养).  （2009 湖�
 charger /'tʃɑːdʒə(r)/ n   
 
 # ***\#charge*** n  重难点词汇
-英音 tʃɑːdʒ     美音 tʃɑːrdʒ  
+英音 tʃɑːdʒ  
+英音
+<audio src="./media/charge-B.aac"></audio>
+美音 tʃɑːrdʒ  
+美音
+<audio src="./media/charge.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -3705,19 +5059,23 @@ charger /'tʃɑːdʒə(r)/ n
 
  > I’d like to speak to the person in charge.   
  > 我想跟负责人谈谈。    
+<audio src="./media/1-charge.aac"></audio>
 
  > Could I speak to whoever is in charge of International Sales please?   
  > 我能同国际销售部的负责人谈谈吗？  （2009 全国）  
+<audio src="./media/2-charge.aac"></audio>
 
 - in / under sb’s charge:
 
  > The files were left in your charge.   
  > 这些文件由你负责处理。    
+<audio src="./media/3-charge.aac"></audio>
 
 - take charge of:
 
  > Do you know if Linda is willing to take charge of the program?  
  > 你知道琳达是否愿意负责这个项目吗？  （2010 安徽）  
+<audio src="./media/4-charge.aac"></audio>
 
 ### 2.*高义频：* **[C] & [U] 费用；价钱：**  
 
@@ -3726,17 +5084,21 @@ charger /'tʃɑːdʒə(r)/ n
 
  > Delivery is **free of charge**.  
  > 免费送货。    
+<audio src="./media/Delivery is free of charg_AAC.aac"></audio>
 
  > The monthly **charge for** this service is only $29.  
  > 这项服务的收费每月仅为29美元。  （2012 全国）  
+<audio src="./media/6-charge.aac"></audio>
 
 ### 3.*高义频：* **[C] 指控；罪名：**  
 
  > She was arrested **on the charge of** theft.  
  > 她因被指控偷盗而被捕。    
+<audio src="./media/7-charge.aac"></audio>
 
  > Police **dropped the charges** against him because of insufficient evidence.  
  > 由于证据不足，警方放弃了对他的起诉。    
+<audio src="./media/8-charge.aac"></audio>
 
 ### 4.*低义频：* **[C] & [U] 电荷；电量：**  
 
@@ -3748,7 +5110,13 @@ charger /'tʃɑːdʒə(r)/ n
 
 
 # ***\#chargeable*** adj
-英音 ˈtʃɑːdʒəbl     美音 ˈtʃɑːrdʒəbl  
+英音 ˈtʃɑːdʒəbl  
+英音
+<audio src="./media/chargeable1_AAC.aac"></audio>
+美音 ˈtʃɑːrdʒəbl  
+美音
+<audio src="./media/chargeable2_AAC.aac"></audio>
+
 
   
 
@@ -3760,7 +5128,13 @@ charger /'tʃɑːdʒə(r)/ n
 
 
 # ***\#charger*** n
-英音 'tʃɑːdʒə(r)     美音 'tʃɑːrdʒər  
+英音 'tʃɑːdʒə(r)  
+英音
+<audio src="./media/charger1_AAC.aac"></audio>
+美音 'tʃɑːrdʒər  
+美音
+<audio src="./media/charger 2_AAC.aac"></audio>
+
 
   
 
@@ -3770,7 +5144,13 @@ charger /'tʃɑːdʒə(r)/ n
 
 
 # ***\#charity*** n
-英音 'tʃærəti     美音 'tʃærəti  
+英音 'tʃærəti  
+英音
+<audio src="./media/charity-B.aac"></audio>
+美音 'tʃærəti  
+美音
+<audio src="./media/charity.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 | 阅读 2 |  
 
@@ -3786,15 +5166,23 @@ charger /'tʃɑːdʒə(r)/ n
 
  > Some companies find it not enough to simply donate money to charities.  
  > 有些公司发现仅仅向慈善机构捐钱是不够的。  （2014 上海改）  
+<audio src="./media/Charity-101_AAC.aac"></audio>
 
 ### 2.*低义频：* **[U]［正式用语］慈悲；宽容：**  
 
  > Newspaper reports **showed** him little **charity**.  
  > 报纸的报道对他毫不宽容。    
+<audio src="./media/Charity-102_AAC.aac"></audio>
 
 
 # ***\#charm*** n
-英音 tʃɑːm     美音 tʃɑːrm  
+英音 tʃɑːm  
+英音
+<audio src="./media/charm-B.aac"></audio>
+美音 tʃɑːrm  
+美音
+<audio src="./media/charm.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -3804,15 +5192,23 @@ charger /'tʃɑːdʒə(r)/ n
 
  > This town, clean and quiet, has a charm you couldn’t find in a big city.   
  > 这个小镇一尘不染，宁静祥和，有一种大城市所没有的魅力。    
+<audio src="./media/1-charm.aac"></audio>
 
 ### 2.*高义频：* **[C] 护身符：**  
 
  > He always carries a **lucky charm** with him.  
  > 他总是随身带着一个护身符。    
+<audio src="./media/2-charm.aac"></audio>
 
 
 # ***\#charm*** vt
-英音 tʃɑːm     美音 tʃɑːrm  
+英音 tʃɑːm  
+英音
+<audio src="./media/charm-B.aac"></audio>
+美音 tʃɑːrm  
+美音
+<audio src="./media/charm.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -3822,6 +5218,7 @@ charger /'tʃɑːdʒə(r)/ n
 
  > As they build a musical bridge between east and west, Twelve Girls Band charms the people of many nations around the world.  
  > 由于她们架起了中西方音乐的桥梁，女子十二乐坊吸引了世界各地许多国家的人。  （外研⑥ – 4）  
+<audio src="./media/3-charm.aac"></audio>
 
 
 派生词汇
@@ -3829,7 +5226,13 @@ charger /'tʃɑːdʒə(r)/ n
 charming /'tʃɑːmɪŋ/ adj   
 
 # ***\#charming*** adj
-英音 'tʃɑːmɪŋ     美音 'tʃɑːrmɪŋ  
+英音 'tʃɑːmɪŋ  
+英音
+<audio src="./media/charming-B.aac"></audio>
+美音 'tʃɑːrmɪŋ  
+美音
+<audio src="./media/charming.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -3839,10 +5242,17 @@ charming /'tʃɑːmɪŋ/ adj
 
  > It’s a charming small French clock, made of brass and dating from the nineteenth century.   
  > 这是一个漂亮的19世纪铜制法式小闹钟。  （2013 上海）  
+<audio src="./media/charming-1.aac"></audio>
 
 
 # ***\#chart*** n
-英音 tʃɑːt     美音 tʃɑːrt  
+英音 tʃɑːt  
+英音
+<audio src="./media/chart-B.aac"></audio>
+美音 tʃɑːrt  
+美音
+<audio src="./media/chart.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 1 |  
 
@@ -3852,10 +5262,17 @@ charming /'tʃɑːmɪŋ/ adj
 
  > As is shown on chart 2, only 10% of the time is taken up with sports activities.  
  > 如图表2所示，只有10%的时间被用于体育活动。    
+<audio src="./media/1-chart.aac"></audio>
 
 
 # ***\#chart*** vt
-英音 tʃɑːt     美音 tʃɑːrt  
+英音 tʃɑːt  
+英音
+<audio src="./media/chart-B.aac"></audio>
+美音 tʃɑːrt  
+美音
+<audio src="./media/chart.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -3865,7 +5282,13 @@ charming /'tʃɑːmɪŋ/ adj
 
 
 # ***\#chase*** v
-英音 tʃeɪs     美音 tʃeɪs  
+英音 tʃeɪs  
+英音
+<audio src="./media/chase-B.aac"></audio>
+美音 tʃeɪs  
+美音
+<audio src="./media/chase.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 阅读 2 |  
 
@@ -3875,9 +5298,11 @@ charming /'tʃɑːmɪŋ/ adj
 
  > Kids are chasing around the house.  
  > 孩子们在房子周围相互追逐。    
+<audio src="./media/1-chase.aac"></audio>
 
  > In the dream Peter saw himself chased by a fierce wolf, and he woke suddenly with a start.  
  > 彼得梦见被一只恶狼追赶，突然间惊醒了。    
+<audio src="./media/2-chase.aac"></audio>
 
 ### 2.*高义频：* **驱逐；赶走：**  
 
@@ -3891,10 +5316,17 @@ charming /'tʃɑːmɪŋ/ adj
 
  > Top graduates from universities are chased by major companies.  
  > 优秀的大学毕业生受到大公司的青睐。  （2014 江苏）  
+<audio src="./media/Chase-101_AAC.aac"></audio>
 
 
 # ***\#chase*** n
-英音 tʃeɪs     美音 tʃeɪs  
+英音 tʃeɪs  
+英音
+<audio src="./media/chase-B.aac"></audio>
+美音 tʃeɪs  
+美音
+<audio src="./media/chase.aac"></audio>
+
 
 | 词频 3 | 阅读 2 |  
 
@@ -3904,10 +5336,17 @@ charming /'tʃɑːmɪŋ/ adj
 
  > Catching elephants is an adventure and the excitement lasts for days after the chase.  
  > 捕象是种冒险经历，那种兴奋在追逐过后几天都不会消失。  （2010 上海）  
+<audio src="./media/3-chase.aac"></audio>
 
 
 # ***\#chat*** n
-英音 tʃæt     美音 tʃæt  
+英音 tʃæt  
+英音
+<audio src="./media/chat-B.aac"></audio>
+美音 tʃæt  
+美音
+<audio src="./media/chat.aac"></audio>
+
 
 | 词频 4 | 口语 2 |  
 
@@ -3923,13 +5362,21 @@ charming /'tʃɑːmɪŋ/ adj
 
  > I enjoy a **chat with** a friend **about** football.  
  > 我喜欢与朋友聊足球。    
+<audio src="./media/1-chat.aac"></audio>
 
  > I like to chat online and to meet new people in **chat rooms**.  
  > 我喜欢网上聊天，在聊天室结识新朋友。  （译林⑦ – 3）  
+<audio src="./media/2-chat.aac"></audio>
 
 
 # ***\#chat*** vi
-英音 tʃæt     美音 tʃæt  
+英音 tʃæt  
+英音
+<audio src="./media/chat-B.aac"></audio>
+美音 tʃæt  
+美音
+<audio src="./media/chat.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -3939,10 +5386,17 @@ charming /'tʃɑːmɪŋ/ adj
 
  > I like to **chat with** her now and then **about** school life.  
  > 我喜欢偶尔和她聊一聊我的学校生活。    
+<audio src="./media/Chat-101_AAC.aac"></audio>
 
 
 # ***\#chatter*** vi
-英音 ˈtʃætə(r)     美音 ˈtʃætər  
+英音 ˈtʃætə(r)  
+英音
+<audio src="./media/chatter1_AAC.aac"></audio>
+美音 ˈtʃætər  
+美音
+<audio src="./media/chatter2_AAC.aac"></audio>
+
 
   
 
@@ -3952,7 +5406,13 @@ charming /'tʃɑːmɪŋ/ adj
 
 
 # ***\#cheap*** adj
-英音 tʃiːp     美音 tʃiːp  
+英音 tʃiːp  
+英音
+<audio src="./media/cheap-B.aac"></audio>
+美音 tʃiːp  
+美音
+<audio src="./media/cheap.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -3966,6 +5426,7 @@ charming /'tʃɑːmɪŋ/ adj
 
  > For many, riding a bicycle is the easiest and cheapest way to travel today.   
  > 对很多人来说，骑自行车是如今最便捷、最便宜的出行方式。  （2013 辽宁改）  
+<audio src="./media/P81 cheap1.aac"></audio>
 
 ### 2.*高义频：* **廉价质劣的；低档的：**  
 
@@ -3974,7 +5435,13 @@ charming /'tʃɑːmɪŋ/ adj
 
 
 # ***\#cheap*** adv
-英音 tʃiːp     美音 tʃiːp  
+英音 tʃiːp  
+英音
+<audio src="./media/cheap-B.aac"></audio>
+美音 tʃiːp  
+美音
+<audio src="./media/cheap.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -3984,9 +5451,11 @@ charming /'tʃɑːmɪŋ/ adj
 
  > Look in the paper to see if there are any computers **going cheap**.  
  > 看看宣传单上是否有电脑在降价出售。    
+<audio src="./media/3-cheap.aac"></audio>
 
  > Violins like this **don’t come cheap**.  
  > 像这样的小提琴不会便宜。    
+<audio src="./media/4-cheap.aac"></audio>
 
 
 派生词汇
@@ -4001,7 +5470,13 @@ cheaply /'tʃiːpli/ adv
 1. cheap / cheaper  
 
 # ***\#cheat*** v
-英音 tʃiːt     美音 tʃiːt  
+英音 tʃiːt  
+英音
+<audio src="./media/cheat-B.aac"></audio>
+美音 tʃiːt  
+美音
+<audio src="./media/cheat.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -4011,20 +5486,29 @@ cheaply /'tʃiːpli/ adv
 
  > People making friends online are afraid of getting cheated.  
  > 网上交友的人害怕被骗。    
+<audio src="./media/Cheat-101_AAC.aac"></audio>
 
 - cheat sb (out) of
 
  > He cheated the old woman out of her money.   
  > 他骗了老太太的钱。    
+<audio src="./media/1-cheat.aac"></audio>
 
 ### 2.*高义频：* **(尤指在竞赛、游戏或考试中) 作弊：**  
 
  > It is wrong to cheat in examinations.  
  > 考试作弊是不对的。    
+<audio src="./media/Cheat-102_AAC.aac"></audio>
 
 
 # ***\#cheat*** n
-英音 tʃiːt     美音 tʃiːt  
+英音 tʃiːt  
+英音
+<audio src="./media/cheat-B.aac"></audio>
+美音 tʃiːt  
+美音
+<audio src="./media/cheat.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -4034,7 +5518,13 @@ cheaply /'tʃiːpli/ adv
 
 
 # ***\#check*** v  重难点词汇
-英音 tʃek     美音 tʃek  
+英音 tʃek  
+英音
+<audio src="./media/check-B.aac"></audio>
+美音 tʃek  
+美音
+<audio src="./media/check.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -4050,6 +5540,7 @@ cheaply /'tʃiːpli/ adv
 
  > Check a used car thoroughly before buying it.  
  > 买二手车前把它彻底检查一下。    
+<audio src="./media/1-check.aac"></audio>
 
 ### 2.*高义频：* **查明；核实：**  
 
@@ -4057,6 +5548,7 @@ cheaply /'tʃiːpli/ adv
 
  > You’d better **check with** Jane what time she’ll arrive in Beijing.  
  > 你最好和简确认下她什么时候到达北京。    
+<audio src="./media/2-check.aac"></audio>
 
 #### 辨析 check, examine, inspect, test
   
@@ -4066,12 +5558,14 @@ cheaply /'tʃiːpli/ adv
 **inspect ** 侧重于为了发现问题而进行的仔细而挑剔的检查。 
  > I got out of the car to inspect the damage.   
  > 我下车查看损坏情况。    
+<audio src="./media/6-check.aac"></audio>
 
 
 ### 3.*低义频：* **寄放；托运(BrE check in)：**  
 
  > Claire had her luggage checked an hour before her plane left.  
  > 克莱尔在飞机起飞前一小时把行李托运了。  （2011 陕西）  
+<audio src="./media/7-check.aac"></audio>
 
 
 固定搭配
@@ -4081,6 +5575,7 @@ cheaply /'tʃiːpli/ adv
 
  > Brian needed to meet a man named Tony before he checked in for his flight.  
  > 布莱恩在办理登机手续前需要见一个叫托尼的人。  （2009 陕西）  
+<audio src="./media/8-check.aac"></audio>
 
 ## \#check into
 1.**登记入住（旅馆或私立医院）**  
@@ -4090,15 +5585,18 @@ cheaply /'tʃiːpli/ adv
 
  > We’ll check on the plane before it leaves.  
  > 飞机起飞前我们要进行检查。    
+<audio src="./media/9-check.aac"></audio>
 
 ## \#check out
 1.**结账离开；核实：**  
 
  > Would you check out these names and numbers, please?  
  > 请核实一下这些名字和号码好吗？    
+<audio src="./media/11-check.aac"></audio>
 
  > There’s your room key and you should check out at 12:00.  
  > 这是你的房间钥匙，你应该在12点结账离开。  （2011 上海改）  
+<audio src="./media/10-check.aac"></audio>
 
 ## \#check up on sb
 1.**督促某人**  
@@ -4116,7 +5614,13 @@ cheaply /'tʃiːpli/ adv
 1. checked  
 
 # ***\#check*** n  重难点词汇
-英音 tʃek     美音 tʃek  
+英音 tʃek  
+英音
+<audio src="./media/check-B.aac"></audio>
+美音 tʃek  
+美音
+<audio src="./media/check.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 1 |  
 
@@ -4129,9 +5633,11 @@ cheaply /'tʃiːpli/ adv
 
  > The doctor in charge **made regular checks of** her pulse and blood pressure.  
  > 主治医生定期给她测脉搏和血压。    
+<audio src="./media/check83.aac"></audio>
 
  > He **ran** / **carried out a** careful **check of** all the names on the list, so that no one would be left out.  
  > 他仔细地核对了名单上所有的名字，以防遗漏。    
+<audio src="./media/P82 check-1.aac"></audio>
 
 ### 2.*低义频：* **支票 (BrE cheque):**  
 
@@ -4140,7 +5646,13 @@ cheaply /'tʃiːpli/ adv
 
 
 # ***\#check-in*** n
-英音 'tʃekˌɪn     美音 'tʃekˌɪn  
+英音 'tʃekˌɪn  
+英音
+<audio src="./media/check-in-B.aac"></audio>
+美音 'tʃekˌɪn  
+美音
+<audio src="./media/check-in.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4150,7 +5662,13 @@ cheaply /'tʃiːpli/ adv
 
 
 # ***\#check-up*** n
-英音 ˈtʃek ʌp     美音 ˈtʃek ʌp  
+英音 ˈtʃek ʌp  
+英音
+<audio src="./media/check-up1_AAC.aac"></audio>
+美音 ˈtʃek ʌp  
+美音
+<audio src="./media/check-up2_AAC.aac"></audio>
+
 
   
 
@@ -4160,7 +5678,13 @@ cheaply /'tʃiːpli/ adv
 
 
 # ***\#checkout*** n
-英音 'tʃekaʊt     美音 'tʃekaʊt  
+英音 'tʃekaʊt  
+英音
+<audio src="./media/checkout.aac"></audio>
+美音 'tʃekaʊt  
+美音
+<audio src="./media/checkout.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4172,7 +5696,13 @@ cheaply /'tʃiːpli/ adv
 
 
 # ***\#cheek*** n
-英音 tʃiːk     美音 tʃiːk  
+英音 tʃiːk  
+英音
+<audio src="./media/cheek-B.aac"></audio>
+美音 tʃiːk  
+美音
+<audio src="./media/cheek.aac"></audio>
+
 
 | 词频 1 | 书面 1 |  
 
@@ -4182,7 +5712,13 @@ cheaply /'tʃiːpli/ adv
 
 
 # ***\#cheekbone*** n
-英音 'tʃiːkbəʊn     美音 'tʃiːkboʊn  
+英音 'tʃiːkbəʊn  
+英音
+<audio src="./media/cheekbone-B.aac"></audio>
+美音 'tʃiːkboʊn  
+美音
+<audio src="./media/cheekbone.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4194,7 +5730,13 @@ cheaply /'tʃiːpli/ adv
 
 
 # ***\#cheer*** n
-英音 tʃɪə(r)     美音 tʃɪr  
+英音 tʃɪə(r)  
+英音
+<audio src="./media/cheer-B.aac"></audio>
+美音 tʃɪr  
+美音
+<audio src="./media/cheer.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -4207,7 +5749,13 @@ cheaply /'tʃiːpli/ adv
 
 
 # ***\#cheer*** v
-英音 tʃɪə(r)     美音 tʃɪr  
+英音 tʃɪə(r)  
+英音
+<audio src="./media/cheer-B.aac"></audio>
+美音 tʃɪr  
+美音
+<audio src="./media/cheer.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -4217,6 +5765,7 @@ cheaply /'tʃiːpli/ adv
 
  > The fans cheer (for) their team.  
  > 粉丝们为自己的队欢呼加油。    
+<audio src="./media/Cheer-101_AAC.aac"></audio>
 
 
 固定搭配
@@ -4226,15 +5775,18 @@ cheaply /'tʃiːpli/ adv
 
  > My father never fails to cheer me on at my sports games.  
  > 父亲总是在我参加体育比赛时为我加油。  （2013 天津改）  
+<audio src="./media/My father never fails_AAC.aac"></audio>
 
 ## \#cheer up
 1.**(使) 振作起来；(使) 高兴起来：**  
 
  > She tried to cheer him up.  
  > 她努力让他高兴起来。  （外研⑥ – 1）  
+<audio src="./media/4-cheer.aac"></audio>
 
  > Cheer up! Things will work out for the best.  
  > 高兴点儿！事情会圆满解决的。    
+<audio src="./media/5-cheer.aac"></audio>
 
 
 真题解析
@@ -4246,7 +5798,13 @@ cheaply /'tʃiːpli/ adv
 1. Cheer up  
 
 # ***\#cheerful*** adj
-英音 'tʃɪəfl     美音 'tʃɪrfl  
+英音 'tʃɪəfl  
+英音
+<audio src="./media/cheerful-B.aac"></audio>
+美音 'tʃɪrfl  
+美音
+<audio src="./media/cheerful.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -4256,6 +5814,7 @@ cheaply /'tʃiːpli/ adv
 
  > She told me to be cheerful and look on the bright side.  
  > 她劝我高兴点儿，要看到乐观的一面。  （译林⑤ – 1）  
+<audio src="./media/1-cheerful.aac"></audio>
 
  > a bright, cheerful restaurant  
  > 明亮宜人的餐馆    
@@ -4266,7 +5825,13 @@ cheaply /'tʃiːpli/ adv
 cheerfully /'tʃɪəfəli/ adv   
 
 # ***\#cheerleader*** n
-英音 'tʃɪəliːdə(r)     美音 'tʃɪrliːdər  
+英音 'tʃɪəliːdə(r)  
+英音
+<audio src="./media/cheerleader1.aac"></audio>
+美音 'tʃɪrliːdər  
+美音
+<audio src="./media/cheerleader2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4276,7 +5841,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#cheerleading*** n
-英音 'tʃɪəliːdɪŋ     美音 'tʃɪəliːdɪŋ  
+英音 'tʃɪəliːdɪŋ  
+英音
+<audio src="./media/cheerleading1.aac"></audio>
+美音 'tʃɪəliːdɪŋ  
+美音
+<audio src="./media/cheerleading2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4286,7 +5857,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#cheers*** int
-英音 tʃɪəz     美音 tʃɪrz  
+英音 tʃɪəz  
+英音
+<audio src="./media/cheers-B.aac"></audio>
+美音 tʃɪrz  
+美音
+<audio src="./media/cheers.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -4296,7 +5873,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#cheese*** n
-英音 tʃiːz     美音 tʃiːz  
+英音 tʃiːz  
+英音
+<audio src="./media/cheese-B.aac"></audio>
+美音 tʃiːz  
+美音
+<audio src="./media/cheese.aac"></audio>
+
 
 | 词频 2 | 口语 2 | 书面 1 |  
 
@@ -4306,7 +5889,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#cheesecake*** n
-英音 'tʃiːzkeɪk     美音 'tʃiːzkeɪk  
+英音 'tʃiːzkeɪk  
+英音
+<audio src="./media/cheesecake1_AAC.aac"></audio>
+美音 'tʃiːzkeɪk  
+美音
+<audio src="./media/cheesecake2_AAC.aac"></audio>
+
 
   
 
@@ -4316,7 +5905,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#chef*** n
-英音 ʃef     美音 ʃef  
+英音 ʃef  
+英音
+<audio src="./media/chef-B.aac"></audio>
+美音 ʃef  
+美音
+<audio src="./media/chef.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4326,7 +5921,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#chemical*** adj
-英音 'kemɪkl     美音 'kemɪkl  
+英音 'kemɪkl  
+英音
+<audio src="./media/chemical-B.aac"></audio>
+美音 'kemɪkl  
+美音
+<audio src="./media/chemical.aac"></audio>
+
 
 | 词频 4 | 书面 1 | 阅读 3 |  
 
@@ -4342,7 +5943,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#chemical*** n
-英音 'kemɪkl     美音 'kemɪkl  
+英音 'kemɪkl  
+英音
+<audio src="./media/chemical-B.aac"></audio>
+美音 'kemɪkl  
+美音
+<audio src="./media/chemical.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 | 阅读 3 |  
 
@@ -4352,10 +5959,17 @@ cheerfully /'tʃɪəfəli/ adv
 
  > Often, chemicals used for industrial production cause dangerous forms of waste.  
  > 用于工业生产的化学物质通常会产生危险的废弃物。    
+<audio src="./media/1-chemical.aac"></audio>
 
 
 # ***\#chemist*** n
-英音 'kemɪst     美音 'kemɪst  
+英音 'kemɪst  
+英音
+<audio src="./media/chemist-B.aac"></audio>
+美音 'kemɪst  
+美音
+<audio src="./media/chemist.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -4367,7 +5981,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#chemistry*** n
-英音 'kemɪstri     美音 'kemɪstri  
+英音 'kemɪstri  
+英音
+<audio src="./media/chemistry-B.aac"></audio>
+美音 'kemɪstri  
+美音
+<audio src="./media/chemistry.aac"></audio>
+
 
 | 词频 3 | 口语 2 |  
 
@@ -4386,7 +6006,13 @@ cheerfully /'tʃɪəfəli/ adv
 1. chemistry  
 
 # ***\#cheque*** n
-英音 tʃek     美音 tʃek  
+英音 tʃek  
+英音
+<audio src="./media/cheque-B.aac"></audio>
+美音 tʃek  
+美音
+<audio src="./media/cheque.aac"></audio>
+
 
 | 词频 3 | 口语 2 |  
 
@@ -4398,7 +6024,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#cherish*** v
-英音 ˈtʃerɪʃ     美音 ˈtʃerɪʃ  
+英音 ˈtʃerɪʃ  
+英音
+<audio src="./media/cherish1_AAC.aac"></audio>
+美音 ˈtʃerɪʃ  
+美音
+<audio src="./media/cherish2_AAC.aac"></audio>
+
 
   
 
@@ -4408,7 +6040,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#cherry*** n
-英音 'tʃeri     美音 'tʃeri  
+英音 'tʃeri  
+英音
+<audio src="./media/cherry-B.aac"></audio>
+美音 'tʃeri  
+美音
+<audio src="./media/cherry.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -4420,7 +6058,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#cherry*** adj
-英音 'tʃeri     美音 'tʃeri  
+英音 'tʃeri  
+英音
+<audio src="./media/cherry-B.aac"></audio>
+美音 'tʃeri  
+美音
+<audio src="./media/cherry.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -4430,7 +6074,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#chess*** n
-英音 tʃes     美音 tʃes  
+英音 tʃes  
+英音
+<audio src="./media/chess-B.aac"></audio>
+美音 tʃes  
+美音
+<audio src="./media/chess.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -4445,7 +6095,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#chest*** n
-英音 tʃest     美音 tʃest  
+英音 tʃest  
+英音
+<audio src="./media/chest-B.aac"></audio>
+美音 tʃest  
+美音
+<audio src="./media/chest.aac"></audio>
+
 
 | 词频 2 | 口语 2 | 书面 1 |  
 
@@ -4457,6 +6113,7 @@ cheerfully /'tʃɪəfəli/ adv
 
  > My chest hurts when I breathe.  
  > 我呼吸时胸部会痛。  （外研② – 1）  
+<audio src="./media/1-chest.aac"></audio>
 
 ### 2.*低义频：* **箱；大箱子：**  
 
@@ -4465,7 +6122,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#chew*** v
-英音 tʃuː     美音 tʃuː  
+英音 tʃuː  
+英音
+<audio src="./media/chew-B.aac"></audio>
+美音 tʃuː  
+美音
+<audio src="./media/chew.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -4478,13 +6141,21 @@ cheerfully /'tʃɪəfəli/ adv
 
  > Chew your food well before you swallow it.  
  > 食物要细细咀嚼后再咽下去。    
+<audio src="./media/1-chew.aac"></audio>
 
  > Rose **chewed (on)** her lip and stared at the floor.  
  > 罗斯咬着嘴唇，眼睛盯着地板。    
+<audio src="./media/2-chew.aac"></audio>
 
 
 # ***\#chew*** n
-英音 tʃuː     美音 tʃuː  
+英音 tʃuː  
+英音
+<audio src="./media/chew-B.aac"></audio>
+美音 tʃuː  
+美音
+<audio src="./media/chew.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -4494,7 +6165,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#chick*** n
-英音 tʃɪk     美音 tʃɪk  
+英音 tʃɪk  
+英音
+<audio src="./media/chick-B.aac"></audio>
+美音 tʃɪk  
+美音
+<audio src="./media/chick.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4506,7 +6183,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#chicken*** n
-英音 'tʃɪkɪn     美音 'tʃɪkɪn  
+英音 'tʃɪkɪn  
+英音
+<audio src="./media/chicken-B.aac"></audio>
+美音 'tʃɪkɪn  
+美音
+<audio src="./media/chicken.aac"></audio>
+
 
 | 词频 4 | 口语 2 |  
 
@@ -4523,7 +6206,13 @@ cheerfully /'tʃɪəfəli/ adv
 1. chicken → chickens  
 
 # ***\#chief*** n
-英音 tʃiːf     美音 tʃiːf  
+英音 tʃiːf  
+英音
+<audio src="./media/chief-B.aac"></audio>
+美音 tʃiːf  
+美音
+<audio src="./media/chief.aac"></audio>
+
 
 | 词频 3 | 书面 1 |  
 
@@ -4544,7 +6233,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#chief*** adj
-英音 tʃiːf     美音 tʃiːf  
+英音 tʃiːf  
+英音
+<audio src="./media/chief-B.aac"></audio>
+美音 tʃiːf  
+美音
+<audio src="./media/chief.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 2 |  
 
@@ -4566,7 +6261,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#child*** n
-英音 tʃaɪld     美音 tʃaɪld  
+英音 tʃaɪld  
+英音
+<audio src="./media/child-B.aac"></audio>
+美音 tʃaɪld  
+美音
+<audio src="./media/child.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -4579,7 +6280,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#childhood*** n
-英音 'tʃaɪldhʊd     美音 'tʃaɪldhʊd  
+英音 'tʃaɪldhʊd  
+英音
+<audio src="./media/childhood-B.aac"></audio>
+美音 'tʃaɪldhʊd  
+美音
+<audio src="./media/childhood.aac"></audio>
+
 
 | 词频 5 | 书面 1 |  
 
@@ -4591,10 +6298,17 @@ cheerfully /'tʃɪəfəli/ adv
 
  > Abraham Lincoln only received a limited education **in / during his childhood**.  
  > 亚伯拉罕·林肯童年时仅受过很少的教育。  （2012 浙江书面表达改）  
+<audio src="./media/Abraham Lincoln only received a limited_AAC.aac"></audio>
 
 
 # ***\#childish*** adj
-英音 'tʃaɪldɪʃ     美音 'tʃaɪldɪʃ  
+英音 'tʃaɪldɪʃ  
+英音
+<audio src="./media/childish1.aac"></audio>
+美音 'tʃaɪldɪʃ  
+美音
+<audio src="./media/childish2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4604,7 +6318,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#childlike*** adj
-英音 ˈtʃaɪldlaɪk     美音 ˈtʃaɪldlaɪk  
+英音 ˈtʃaɪldlaɪk  
+英音
+<audio src="./media/childlike1_AAC.aac"></audio>
+美音 ˈtʃaɪldlaɪk  
+美音
+<audio src="./media/childlike2_AAC.aac"></audio>
+
 
   
 
@@ -4614,7 +6334,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#chilli*** n
-英音 'tʃɪli     美音 'tʃɪli  
+英音 'tʃɪli  
+英音
+<audio src="./media/chilli1_AAC.aac"></audio>
+美音 'tʃɪli  
+美音
+<audio src="./media/chilli1_AAC.aac"></audio>
+
 
   
 
@@ -4624,7 +6350,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#chimney*** n
-英音 'tʃɪmni     美音 'tʃɪmni  
+英音 'tʃɪmni  
+英音
+<audio src="./media/chimney-B.aac"></audio>
+美音 'tʃɪmni  
+美音
+<audio src="./media/chimney.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4636,7 +6368,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#chimp*** n
-英音 tʃɪmp     美音 tʃɪmp  
+英音 tʃɪmp  
+英音
+<audio src="./media/chimp-B.aac"></audio>
+美音 tʃɪmp  
+美音
+<audio src="./media/chimp.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -4648,7 +6386,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#chimpanzee*** n
-英音 ˌtʃɪmpæn'ziː     美音 ˌtʃɪmpæn'ziː  
+英音 ˌtʃɪmpæn'ziː  
+英音
+<audio src="./media/chimpanzee1.aac"></audio>
+美音 ˌtʃɪmpæn'ziː  
+美音
+<audio src="./media/chimpanzee2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4658,7 +6402,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#chin*** n
-英音 tʃɪn     美音 tʃɪn  
+英音 tʃɪn  
+英音
+<audio src="./media/chin1.aac"></audio>
+美音 tʃɪn  
+美音
+<audio src="./media/chin2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4668,7 +6418,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#china*** n
-英音 'tʃaɪnə     美音 'tʃaɪnə  
+英音 'tʃaɪnə  
+英音
+<audio src="./media/China1.aac"></audio>
+美音 'tʃaɪnə  
+美音
+<audio src="./media/china2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4681,7 +6437,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#chip*** n
-英音 tʃɪp     美音 tʃɪp  
+英音 tʃɪp  
+英音
+<audio src="./media/chip-b.aac"></audio>
+美音 tʃɪp  
+美音
+<audio src="./media/chip.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 1 |  
 
@@ -4693,7 +6455,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#chocolate*** n
-英音 'tʃɒklət     美音 'tʃɑːklət  
+英音 'tʃɒklət  
+英音
+<audio src="./media/chocolate-B.aac"></audio>
+美音 'tʃɑːklət  
+美音
+<audio src="./media/chocolate.aac"></audio>
+
 
 | 词频 4 | 口语 2 |  
 
@@ -4714,7 +6482,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#choice*** n
-英音 tʃɔɪs     美音 tʃɔɪs  
+英音 tʃɔɪs  
+英音
+<audio src="./media/choice-B.aac"></audio>
+美音 tʃɔɪs  
+美音
+<audio src="./media/choice.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -4726,19 +6500,23 @@ cheerfully /'tʃɪəfəli/ adv
 
  > You have to **make** a **choice between** this toy and that toy.  
  > 你得在这个玩具和那个玩具之间作选择。  （2011 全国）  
+<audio src="./media/P83 choice2.aac"></audio>
 
  > I don’t **have** much **choice**; I’ll have to do it.  
  > 我没有多少选择的余地，只能做这件事了。    
+<audio src="./media/1-choice.aac"></audio>
 
 ### 2.*高义频：* **[C] 被选中的人 / 物：**  
 
  > I'm your perfect choice for the Talent Show.  
  > 我是才艺表演的最佳人选。  （北师大② – 5）  
+<audio src="./media/3-choice.aac"></audio>
 
 ### 3.*高义频：* **可选择的范围；供选择的品种：**  
 
  > We offer a **wide choice of** courses for students.  
  > 我们有各种各样的课程供学生们选择。    
+<audio src="./media/Choice-101_AAC.aac"></audio>
 
 
 固定搭配
@@ -4748,12 +6526,14 @@ cheerfully /'tʃɪəfəli/ adv
 
  > At that time the taxi driver had no choice but to turn to the tourist for help.  
  > 当时，那位出租车司机别无选择，只能求助于游客。    
+<audio src="./media/4-choice.aac"></audio>
 
 ## \#of choice for
 1.**[用于名词后] (为…) 首选的…：**  
 
  > It is the drug of choice for this type of illness.  
  > 这是治疗这种病的首选药。    
+<audio src="./media/6-choice.aac"></audio>
 
 
 真题解析
@@ -4764,7 +6544,13 @@ cheerfully /'tʃɪəfəli/ adv
 1. make a choice  
 
 # ***\#choir*** n
-英音 'kwaɪə(r)     美音 'kwaɪər  
+英音 'kwaɪə(r)  
+英音
+<audio src="./media/choir-B.aac"></audio>
+美音 'kwaɪər  
+美音
+<audio src="./media/choir.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4776,7 +6562,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#choke*** v
-英音 tʃəʊk     美音 tʃoʊk  
+英音 tʃəʊk  
+英音
+<audio src="./media/choke-B.aac"></audio>
+美音 tʃoʊk  
+美音
+<audio src="./media/choke.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4788,14 +6580,17 @@ cheerfully /'tʃɪəfəli/ adv
 
  > The smoke choked me.  
  > 烟呛得我喘不过气来。    
+<audio src="./media/1-choke.aac"></audio>
 
  > He choked when he ate his food too quickly.  
  > 他吃东西太快，噎住了。    
+<audio src="./media/2-choke.aac"></audio>
 
 ### 2.*低义频：* **（管子，渠道等）堵塞：**  
 
  > The pipe was choked up with leaves.  
  > 这条管子被树叶堵塞了。    
+<audio src="./media/The pipe was choked up with leaves2_AAC.aac"></audio>
 
 
 固定搭配
@@ -4805,16 +6600,24 @@ cheerfully /'tʃɪəfəli/ adv
 
  > Their story was so sad that I had to choke back sobs.  
  > 他们的故事是那么悲伤，我强忍住不抽泣。  （译林⑩-3）  
+<audio src="./media/Their story was so sad that I had2_AAC.aac"></audio>
 
 ## \#choke off
 1.**阻塞**  
 
  > Unfortunately, the increased number of vehicles on the road choked off traffic.  
  > 不幸的是，马路上增加的车辆把道路堵得水泄不通。  （译林⑦-4）  
+<audio src="./media/Unfortunately, the increased number2_AAC.aac"></audio>
 
 
 # ***\#cholera*** n
-英音 'kɒlərə     美音 'kɑːlərə  
+英音 'kɒlərə  
+英音
+<audio src="./media/cholera-B.aac"></audio>
+美音 'kɑːlərə  
+美音
+<audio src="./media/cholera.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4826,7 +6629,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#choose*** v  重难点词汇
-英音 tʃuːz     美音 tʃuːz  
+英音 tʃuːz  
+英音
+<audio src="./media/choose-B.aac"></audio>
+美音 tʃuːz  
+美音
+<audio src="./media/choose.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -4838,21 +6647,25 @@ cheerfully /'tʃɪəfəli/ adv
 
  > He had to **choose between** death and dishonour.  
  > 他必须在丢掉性命和忍受屈辱之间作出选择。    
+<audio src="./media/He had to choose between death2_AAC.aac"></audio>
 
 - choose sb to do sth / choose sth for sb:
 
  > I chose her a present. / I chose a present for her.  
  > 我为她挑选了一份礼物。    
+<audio src="./media/I chose her a present2_AAC.aac"></audio>
 
 - choose sb to do sth:
 
  > We choose John to represent our club.  
  > 我们选约翰来代表我们俱乐部。    
+<audio src="./media/We choose John to represent our club2_AAC.aac"></audio>
 
 - choose sb as / for / to be:
 
  > We chose her as / for / to be president.  
  > 我们选她当总裁。    
+<audio src="./media/We chose her as2_AAC.aac"></audio>
 
 #### 辨析 select, choose, pick
 三者都有“选择”之意。  
@@ -4861,6 +6674,7 @@ cheerfully /'tʃɪəfəli/ adv
 **pick ** 表示随意挑选，通常所指的事项不很重大，是不太正式的用词。
  > She picked a piece of cake for herself.   
  > 她为自己挑了一块蛋糕。    
+<audio src="./media/select-8.aac"></audio>
 
 
 ### 2.*高义频：* **宁愿；决定**  
@@ -4868,14 +6682,17 @@ cheerfully /'tʃɪəfəli/ adv
 
  > You can drop in on me if you choose.  
  > 如果你愿意可以顺便来我家坐坐。    
+<audio src="./media/5-choose.aac"></audio>
 
 - choose + (wh-) to do:
 
  > She let him choose which restaurant to eat at.  
  > 她让他来选在哪家餐厅吃饭。    
+<audio src="./media/6-choose.aac"></audio>
 
  > I became interested in biology and chose to learn it when I entered the college.   
  > 我开始对生物感兴趣，并在上大学的时候选择学生物。  （2012 重庆）  
+<audio src="./media/P84 choose-2.aac"></audio>
 
 
 固定搭配
@@ -4885,6 +6702,7 @@ cheerfully /'tʃɪəfəli/ adv
 
  > He cannot choose but attend the party.  
  > 他只好去参加这次聚会。    
+<audio src="./media/9-choose.aac"></audio>
 
 
 真题解析
@@ -4895,7 +6713,13 @@ cheerfully /'tʃɪəfəli/ adv
 1. was chosen  
 
 # ***\#chop*** vt
-英音 tʃɒp     美音 tʃɑːp  
+英音 tʃɒp  
+英音
+<audio src="./media/chop-B.aac"></audio>
+美音 tʃɑːp  
+美音
+<audio src="./media/chop.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -4911,7 +6735,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#chopstick*** n
-英音 'tʃɒpstɪk     美音 'tʃɑːpstɪk  
+英音 'tʃɒpstɪk  
+英音
+<audio src="./media/chopstick-B.aac"></audio>
+美音 'tʃɑːpstɪk  
+美音
+<audio src="./media/chopstick.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4923,7 +6753,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#chopsticks*** n
-英音 ˈtʃɒpstɪks     美音 ˈtʃɑːpstɪks  
+英音 ˈtʃɒpstɪks  
+英音
+<audio src="./media/chopsticks1_AAC.aac"></audio>
+美音 ˈtʃɑːpstɪks  
+美音
+<audio src="./media/chopsticks2_AAC.aac"></audio>
+
 
   
 
@@ -4933,7 +6769,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#choral*** adj
-英音 'kɔːrəl     美音 kɔː'rəl  
+英音 'kɔːrəl  
+英音
+<audio src="./media/choral-b.aac"></audio>
+美音 kɔː'rəl  
+美音
+<audio src="./media/choral.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -4943,7 +6785,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#chorus*** n
-英音 'kɔːrəs     美音 'kɔːrəs  
+英音 'kɔːrəs  
+英音
+<audio src="./media/chorus-B.aac"></audio>
+美音 'kɔːrəs  
+美音
+<audio src="./media/chorus.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -4955,6 +6803,7 @@ cheerfully /'tʃɪəfəli/ adv
 
  > There will be music groups and children’s chorus.  
  > 届时会有乐队和儿童合唱队表演。    
+<audio src="./media/1-chorus.aac"></audio>
 
  > a chorus of complaints  
  > 一片抱怨声  （北师大⑧ – 23）  
@@ -4967,10 +6816,17 @@ cheerfully /'tʃɪəfəli/ adv
 
  > “Thank you,” they said in chorus.  
  > “谢谢。”他们齐声说道。    
+<audio src="./media/2-chorus.aac"></audio>
 
 
 # ***\#chorus*** v
-英音 'kɔːrəs     美音 'kɔːrəs  
+英音 'kɔːrəs  
+英音
+<audio src="./media/chorus-B.aac"></audio>
+美音 'kɔːrəs  
+美音
+<audio src="./media/chorus.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -4981,7 +6837,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#chum*** n
-英音 tʃʌm     美音 tʃʌm  
+英音 tʃʌm  
+英音
+<audio src="./media/chum1_AAC.aac"></audio>
+美音 tʃʌm  
+美音
+<audio src="./media/chum2_AAC.aac"></audio>
+
 
   
 
@@ -4991,7 +6853,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#chunk*** n
-英音 tʃʌŋk     美音 tʃʌŋk  
+英音 tʃʌŋk  
+英音
+<audio src="./media/chunk1_AAC.aac"></audio>
+美音 tʃʌŋk  
+美音
+<audio src="./media/chunk2_AAC.aac"></audio>
+
 
   
 
@@ -5001,7 +6869,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#church*** n
-英音 tʃɜːtʃ     美音 tʃɜːrtʃ  
+英音 tʃɜːtʃ  
+英音
+<audio src="./media/church-B.aac"></audio>
+美音 tʃɜːrtʃ  
+美音
+<audio src="./media/church.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 |  
 
@@ -5024,7 +6898,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#cigar*** n
-英音 sɪ'ɡɑː(r)     美音 sɪ'ɡɑːr  
+英音 sɪ'ɡɑː(r)  
+英音
+<audio src="./media/cigar-B.aac"></audio>
+美音 sɪ'ɡɑːr  
+美音
+<audio src="./media/cigar.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -5036,7 +6916,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#cigarette*** n
-英音 ˌsɪɡə'ret     美音 'sɪɡəret  
+英音 ˌsɪɡə'ret  
+英音
+<audio src="./media/cigarette-B.aac"></audio>
+美音 'sɪɡəret  
+美音
+<audio src="./media/cigarette.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 1 |  
 
@@ -5048,7 +6934,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#cinema*** n
-英音 'sɪnəmə     美音 'sɪnəmə  
+英音 'sɪnəmə  
+英音
+<audio src="./media/cinema-B.aac"></audio>
+美音 'sɪnəmə  
+美音
+<audio src="./media/cinema.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -5063,7 +6955,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#cinematic*** adj
-英音 ˌsɪnə'mætɪk     美音 ˌsɪnə'mætɪk  
+英音 ˌsɪnə'mætɪk  
+英音
+<audio src="./media/cinematic1_AAC.aac"></audio>
+美音 ˌsɪnə'mætɪk  
+美音
+<audio src="./media/cinematic2_AAC.aac"></audio>
+
 
   
 
@@ -5073,7 +6971,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#cinquain*** n
-英音 sɪŋ'keɪn     美音 sɪŋ'keɪn  
+英音 sɪŋ'keɪn  
+英音
+<audio src="./media/cinquain-B.aac"></audio>
+美音 sɪŋ'keɪn  
+美音
+<audio src="./media/cinquain.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5083,7 +6987,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#circle*** v
-英音 'sɜːkl     美音 'sɜːrkl  
+英音 'sɜːkl  
+英音
+<audio src="./media/circle-B.aac"></audio>
+美音 'sɜːrkl  
+美音
+<audio src="./media/circle.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -5093,13 +7003,21 @@ cheerfully /'tʃɪəfəli/ adv
 
  > The children **circled around** their teacher, singing and dancing.  
  > 孩子们围着老师，又唱又跳。    
+<audio src="./media/4-circle.aac"></audio>
 
  > Our plane circled the airport for an hour before landing.  
  > 我们乘坐的飞机着陆前在机场上空盘旋了一个小时。    
+<audio src="./media/5-circle.aac"></audio>
 
 
 # ***\#circle*** n
-英音 'sɜːkl     美音 'sɜːrkl  
+英音 'sɜːkl  
+英音
+<audio src="./media/circle-B.aac"></audio>
+美音 'sɜːrkl  
+美音
+<audio src="./media/circle.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -5111,27 +7029,37 @@ cheerfully /'tʃɪəfəli/ adv
 
  > Draw a circle.  
  > 画一个圆。    
+<audio src="./media/1-circle.aac"></audio>
 
  > Everyone sits around **in a circle**, singing and playing music.   
  > 大家围坐成一圈，唱歌和弹奏音乐。  （2010 上海）  
+<audio src="./media/P84 circle2.aac"></audio>
 
 ## \#come / go full circle 
 1.**兜一圈回到原处：**  
 
  > Sooner or later, fashion comes full circle.  
  > 时尚兜一个圈子回到原处是迟早的事。    
+<audio src="./media/P84 circle3.aac"></audio>
 
 ### 2.*高义频：* **圈子；团体；界：**  
 
  > I have **a** large **circle of friends**.  
  > 我有一大群朋友。    
+<audio src="./media/3-circle.aac"></audio>
 
  > **business / political circle**  
  > 商/政界    
 
 
 # ***\#circuit*** n
-英音 'sɜːkɪt     美音 'sɜːrkɪt  
+英音 'sɜːkɪt  
+英音
+<audio src="./media/circuit-B.aac"></audio>
+美音 'sɜːrkɪt  
+美音
+<audio src="./media/circuit.aac"></audio>
+
 
 | 词频 1 | 书面 1 |  
 
@@ -5143,10 +7071,17 @@ cheerfully /'tʃɪəfəli/ adv
 
  > We made a circuit of the lake.  
  > 我们绕湖走了一圈。    
+<audio src="./media/1-circuit.aac"></audio>
 
 
 # ***\#circular*** adj
-英音 'sɜːkjələ(r)     美音 'sɜːrkjələr  
+英音 'sɜːkjələ(r)  
+英音
+<audio src="./media/circular-B.aac"></audio>
+美音 'sɜːrkjələr  
+美音
+<audio src="./media/circular.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5156,7 +7091,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#circular*** n
-英音 ˈsɜːkjələ(r)     美音 ˈsɜːrkjələr  
+英音 ˈsɜːkjələ(r)  
+英音
+<audio src="./media/circular-B.aac"></audio>
+美音 ˈsɜːrkjələr  
+美音
+<audio src="./media/circular.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5166,7 +7107,13 @@ cheerfully /'tʃɪəfəli/ adv
 
 
 # ***\#circulate*** v
-英音 'sɜːkjəleɪt     美音 'sɜːrkjəleɪt  
+英音 'sɜːkjəleɪt  
+英音
+<audio src="./media/circulate-B.aac"></audio>
+美音 'sɜːrkjəleɪt  
+美音
+<audio src="./media/circulate.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5176,18 +7123,27 @@ cheerfully /'tʃɪəfəli/ adv
 
  > Blood circulates through the body.  
  > 血液在全身循环。    
+<audio src="./media/1-circulate.aac"></audio>
 
  > Ceiling fans do a great job of circulating air.  
  > 吊扇可以很好地使空气流通起来。  （2008 福建）  
+<audio src="./media/2-circulate.aac"></audio>
 
 ### 2.*低义频：* **(使) 传播；(使) 流传：**  
 
  > People who circulate false news are to blame.  
  > 散布流言者应负责任。    
+<audio src="./media/3-circulate.aac"></audio>
 
 
 # ***\#circumstance*** n
-英音 'sɜːkəmstəns     美音 'sɜːrkəmstæns  
+英音 'sɜːkəmstəns  
+英音
+<audio src="./media/circumstance-B.aac"></audio>
+美音 'sɜːrkəmstæns  
+美音
+<audio src="./media/circumstance.aac"></audio>
+
 
 | 词频 2 | 口语 2 | 书面 3 | 阅读 2 |  
 
@@ -5200,6 +7156,7 @@ cheerfully /'tʃɪəfəli/ adv
 
  > Our circumstances are so desperate that it is uncertain whether we will ever return alive.   
  > 我们身陷绝境，都不知道自己能不能活着回去。  （人教⑩ – 1）  
+<audio src="./media/1-circumstance.aac"></audio>
 
 ### 2.*高义频：* **境况；状况 (尤指经济状况)**  
 英译 the conditions of a person’s life, especially the money they have：
@@ -5215,20 +7172,29 @@ cheerfully /'tʃɪəfəli/ adv
 
  > Under the circumstances, it seems better not to tell him about the accident.  
  > 在这种情况下，不告诉他有关这次事故的情况似乎更好。    
+<audio src="./media/2-circumstance.aac"></audio>
 
  > It’s an experimental model, so don’t touch it under any circumstances.  
  > 这是一个实验模型，因此在任何情况下都不要碰它。  （2012 江西改）  
+<audio src="./media/circumstance-It_s an experimental model.aac"></audio>
 
 ## \#in / under no circumstances
 1.**决不；无论如何不：**  
 
  > Under no circumstances should you lend Paul any money.  
  > 在任何情况下，你都不能借钱给保罗。    
+<audio src="./media/3-circumstance.aac"></audio>
 
 Notes: in / under no circumstances置于句首，句子要用部分倒装语序。   
 
 # ***\#circus*** n
-英音 'sɜːkəs     美音 'sɜːrkəs  
+英音 'sɜːkəs  
+英音
+<audio src="./media/circus-B.aac"></audio>
+美音 'sɜːrkəs  
+美音
+<audio src="./media/circus.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5245,7 +7211,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 
 # ***\#cite*** vt
-英音 [saɪt]     美音 [saɪt]  
+英音 [saɪt]  
+英音
+<audio src="./media/cite1_AAC.aac"></audio>
+美音 [saɪt]  
+美音
+<audio src="./media/cite2_AAC.aac"></audio>
+
 
 | 词频 1 | 阅读 1 |  
 
@@ -5257,7 +7229,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 
 # ***\#citizen*** n
-英音 'sɪtɪzn     美音 'sɪtɪzn  
+英音 'sɪtɪzn  
+英音
+<audio src="./media/citizen-B.aac"></audio>
+美音 'sɪtɪzn  
+美音
+<audio src="./media/citizen.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -5272,10 +7250,17 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > Dikembe became a star in the NBA, and a citizen of the United States.  
  > 迪肯贝成了NBA篮球明星，并成了美国公民。  （2008 辽宁）  
+<audio src="./media/1-citizen.aac"></audio>
 
 
 # ***\#citizenship*** n
-英音 ˈsɪtɪzənʃɪp     美音 ˈsɪtɪzənʃɪp  
+英音 ˈsɪtɪzənʃɪp  
+英音
+<audio src="./media/citizenship1_AAC.aac"></audio>
+美音 ˈsɪtɪzənʃɪp  
+美音
+<audio src="./media/citizenship2_AAC.aac"></audio>
+
 
   
 
@@ -5287,7 +7272,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 
 # ***\#city*** n
-英音 'sɪti     美音 'sɪti  
+英音 'sɪti  
+英音
+<audio src="./media/city-B.aac"></audio>
+美音 'sɪti  
+美音
+<audio src="./media/city.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -5299,7 +7290,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 
 # ***\#civil*** adj
-英音 'sɪvl     美音 'sɪvl  
+英音 'sɪvl  
+英音
+<audio src="./media/civil-B.aac"></audio>
+美音 'sɪvl  
+美音
+<audio src="./media/civil.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 2 |  
 
@@ -5320,10 +7317,17 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > His manner was civil, though not particularly friendly.  
  > 他有礼貌，尽管并不怎么友好。    
+<audio src="./media/1-civil.aac"></audio>
 
 
 # ***\#civilian*** n
-英音 sə'vɪliən     美音 sə'vɪliən  
+英音 sə'vɪliən  
+英音
+<audio src="./media/civilian-B.aac"></audio>
+美音 sə'vɪliən  
+美音
+<audio src="./media/civilian.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5338,7 +7342,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 
 # ***\#civilian*** adj
-英音 sə'vɪliən     美音 sə'vɪliən  
+英音 sə'vɪliən  
+英音
+<audio src="./media/civilian-B.aac"></audio>
+美音 sə'vɪliən  
+美音
+<audio src="./media/civilian.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5354,7 +7364,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 
 # ***\#civilisation*** n
-英音 ˌsɪvəlaɪ'zeɪʃn     美音 ˌsɪvələ'zeɪʃn  
+英音 ˌsɪvəlaɪ'zeɪʃn  
+英音
+<audio src="./media/civilisation1.aac"></audio>
+美音 ˌsɪvələ'zeɪʃn  
+美音
+<audio src="./media/civilisation2.aac"></audio>
+
 
 | 词频 3 | 阅读 3 |  
 
@@ -5367,10 +7383,17 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > Athens, the capital of Greece, is known as the birthplace of western civilisation.  
  > 希腊首都雅典作为西方文明的发源地而闻名遐迩。  （外研③ – 1）  
+<audio src="./media/Athens, the capital of Greece_AAC.aac"></audio>
 
 
 # ***\#claim*** n  重难点词汇
-英音 kleɪm     美音 kleɪm  
+英音 kleɪm  
+英音
+<audio src="./media/claim-B.aac"></audio>
+美音 kleɪm  
+美音
+<audio src="./media/claim.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 3 | 阅读 3 |  
 
@@ -5382,23 +7405,33 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > What false **claims** did the advertisement **make**?  
  > 这则广告做了哪些虚假陈述？  （北师大⑧ – 23）  
+<audio src="./media/8-claim.aac"></audio>
 
  > They **made claims** they couldn’t live up to.  
  > 他们给出了自己无法兑现的说法。    
+<audio src="./media/9-claim.aac"></audio>
 
 ### 2.*高义频：* **(对事物的) 权利；所有权：**  
 
  > There are a large number of patent examiners, too, whose only job is to examine whether your claim is valid or not.  
  > 有一大批专利审查人员，专门负责审查你的专利申请是否有效。  （人教⑧ – 3）  
+<audio src="./media/10-claim.aac"></audio>
 
 ### 3.*高义频：* **要求；索赔：**  
 
  > You can **make a claim** on insurance policy.  
  > 你可以按保险单索赔。    
+<audio src="./media/11-claim.aac"></audio>
 
 
 # ***\#claim*** v  重难点词汇
-英音 kleɪm     美音 kleɪm  
+英音 kleɪm  
+英音
+<audio src="./media/claim-B.aac"></audio>
+美音 kleɪm  
+美音
+<audio src="./media/claim.aac"></audio>
+
 
 | 词频 3 | 口语 3 | 书面 3 | 阅读 3 |  
 
@@ -5409,38 +7442,51 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > Scientists are claiming a major breakthrough in the fighting against cancer.  
  > 科学家称在抗癌领域取得了重大突破。    
+<audio src="./media/1-claim.aac"></audio>
 
 - claim to be / do sth:
 
  > Don't claim to know what you don't know.  
  > 不要不懂装懂。    
+<audio src="./media/Claim-101_AAC.aac"></audio>
 
 - claim + (that) 从句：
 
  > Some people claim that surfing the Internet is a waste of time.  
  > 有些人声称上网就是浪费时间。  （译林⑦ – 3）  
+<audio src="./media/Some people claim that surfing th2_AAC.aac"></audio>
 
 ### 2.*高义频：* **(根据权利) 要求；索要；认领：**  
 英译 to ask for sth or money because you think it’s your legal right to have it：
 
  > He should be able to **claim back** the price of the ticket.  
  > 他应该可以要回票款。    
+<audio src="./media/4-claim.aac"></audio>
 
  > You can **claim on** the insurance if you have an accident while on holiday.  
  > 如果你在度假期间遭遇事故，可以向保险公司索赔。    
+<audio src="./media/5-claim.aac"></audio>
 
  > So far nobody has claimed the money discovered in the library.  
  > 迄今为止，还没有人来认领在图书馆捡到的那些钱。  （2010 湖南）  
+<audio src="./media/6-claim.aac"></audio>
 
 ### 3.*低义频：* **夺去 (生命)：**  
 英译 to cause sb’s death：
 
  > Earthquakes have claimed more than 1.6 million lives in the last hundred years.  
  > 在过去的100年中，地震夺去了超过160万人的生命。  （北师大⑧ – 22）  
+<audio src="./media/7-claim.aac"></audio>
 
 
 # ***\#clam*** n
-英音 klæm     美音 klæm  
+英音 klæm  
+英音
+<audio src="./media/clam-B.aac"></audio>
+美音 klæm  
+美音
+<audio src="./media/clam.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5450,7 +7496,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 
 # ***\#clap*** v
-英音 klæp     美音 klæp  
+英音 klæp  
+英音
+<audio src="./media/clap-B.aac"></audio>
+美音 klæp  
+美音
+<audio src="./media/clap.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5460,13 +7512,21 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > As the president ended his speech, we clapped politely.  
  > 校长演讲完毕，我们礼貌地鼓掌。    
+<audio src="./media/As the president ended his speech2_AAC.aac"></audio>
 
  > They were **clapping their hands** to the music.  
  > 他们随着音乐的节奏拍起手来。    
+<audio src="./media/They were clapping their hands to the music2_AAC.aac"></audio>
 
 
 # ***\#clap*** n
-英音 klæp     美音 klæp  
+英音 klæp  
+英音
+<audio src="./media/clap-B.aac"></audio>
+美音 klæp  
+美音
+<audio src="./media/clap.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5483,10 +7543,17 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > Sibson was shaken by a clap of thunder.  
  > 辛伯森被雷声吓得哆嗦了一下。  （2012 四川）  
+<audio src="./media/3-clap.aac"></audio>
 
 
 # ***\#clarify*** vt
-英音 'klærəfaɪ     美音 'klærəfaɪ  
+英音 'klærəfaɪ  
+英音
+<audio src="./media/clarify-B.aac"></audio>
+美音 'klærəfaɪ  
+美音
+<audio src="./media/clarify.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -5500,10 +7567,17 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > You can clarify this question if you study British history.  
  > 研究一下英国历史，你就能够弄明白这个问题。  （人教⑤ – 2）  
+<audio src="./media/1-clarify.aac"></audio>
 
 
 # ***\#clarity*** n
-英音 ˈklærəti     美音 ˈklærəti  
+英音 ˈklærəti  
+英音
+<audio src="./media/clarity1_AAC.aac"></audio>
+美音 ˈklærəti  
+美音
+<audio src="./media/clarity2_AAC.aac"></audio>
+
 
   
 
@@ -5513,7 +7587,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 
 # ***\#clasp*** n
-英音 klɑːsp     美音 klæsp  
+英音 klɑːsp  
+英音
+<audio src="./media/clasp1_AAC.aac"></audio>
+美音 klæsp  
+美音
+<audio src="./media/clasp2_AAC.aac"></audio>
+
 
   
 
@@ -5523,7 +7603,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 
 # ***\#clasp*** vt
-英音 klɑːsp     美音 klæsp  
+英音 klɑːsp  
+英音
+<audio src="./media/clasp1_AAC.aac"></audio>
+美音 klæsp  
+美音
+<audio src="./media/clasp2_AAC.aac"></audio>
+
 
   
 
@@ -5533,7 +7619,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 
 # ***\#class*** n
-英音 klɑːs     美音 klæs  
+英音 klɑːs  
+英音
+<audio src="./media/class-B.aac"></audio>
+美音 klæs  
+美音
+<audio src="./media/class.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -5543,6 +7635,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > I graduated **at the top of the class** with full honours.   
  > 我以优异的成绩毕业，在班上名列前茅。    
+<audio src="./media/class1.aac"></audio>
 
 ### 2.*高义频：* **(一节) 课 (lesson)；课程(course)；上课：**  
 
@@ -5551,6 +7644,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > We were expected to write an in-class essay about the topic.   
  > 我们被要求写一篇关于这个话题的课上作文。  （2009 湖北改）  
+<audio src="./media/P85 class3.aac"></audio>
 
 ### 3.*高义频：* **阶级；社会等级：**  
 
@@ -5559,9 +7653,11 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > Class means a person’s economic position in society.  
  > 阶级意味着一个人在社会中的经济地位。  （2013 陕西）  
+<audio src="./media/2-class.aac"></audio>
 
  > Members of the **working class** have blue-collar jobs.  
  > 工人阶级做“蓝领”工作。    
+<audio src="./media/3-class.aac"></audio>
 
 ### 4.*高义频：* **等级：**  
 
@@ -5570,13 +7666,21 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > Lang Lang is a **world-class** pianist who grew up in Shenyang.  
  > 郎朗在沈阳长大，是一位世界级的青年钢琴家。    
+<audio src="./media/Lang Lang is a world-class 2_AAC.aac"></audio>
 
  > Given time, he’ll make a first-class tennis player.   
  > 假以时日，他会成为一名一流的网球选手。    
+<audio src="./media/P86 class-1.aac"></audio>
 
 
 # ***\#class*** vt
-英音 klɑːs     美音 klæs  
+英音 klɑːs  
+英音
+<audio src="./media/class-B.aac"></audio>
+美音 klæs  
+美音
+<audio src="./media/class.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -5586,10 +7690,17 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > Whales are **classed as** mammals.  
  > 鲸被归入哺乳动物。    
+<audio src="./media/5-class.aac"></audio>
 
 
 # ***\#classic*** n
-英音 'klæsɪk     美音 'klæsɪk  
+英音 'klæsɪk  
+英音
+<audio src="./media/classic-B.aac"></audio>
+美音 'klæsɪk  
+美音
+<audio src="./media/classic.aac"></audio>
+
 
 | 词频 4 | 阅读 3 |  
 
@@ -5607,7 +7718,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 
 # ***\#classic*** adj
-英音 'klæsɪk     美音 'klæsɪk  
+英音 'klæsɪk  
+英音
+<audio src="./media/classic-B.aac"></audio>
+美音 'klæsɪk  
+美音
+<audio src="./media/classic.aac"></audio>
+
 
 | 词频 4 | 书面 1 | 阅读 3 |  
 
@@ -5623,7 +7740,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 
 # ***\#classical*** adj
-英音 'klæsɪkl     美音 'klæsɪkl  
+英音 'klæsɪkl  
+英音
+<audio src="./media/classical-B.aac"></audio>
+美音 'klæsɪkl  
+美音
+<audio src="./media/classical.aac"></audio>
+
 
 | 词频 2 | 书面 1 | 阅读 1 |  
 
@@ -5636,10 +7759,17 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > Susan enjoys **classical music** while her little brother likes pop music.  
  > 苏珊喜爱古典音乐而她的弟弟喜欢流行音乐。    
+<audio src="./media/1-classical.aac"></audio>
 
 
 # ***\#classical*** n
-英音 'klæsɪkl     美音 'klæsɪkl  
+英音 'klæsɪkl  
+英音
+<audio src="./media/classical-B.aac"></audio>
+美音 'klæsɪkl  
+美音
+<audio src="./media/classical.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5649,7 +7779,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 
 # ***\#classification*** n
-英音 ˌklæsɪfɪ'keɪʃn     美音 ˌklæsɪfɪ'keɪʃn  
+英音 ˌklæsɪfɪ'keɪʃn  
+英音
+<audio src="./media/classification-B.aac"></audio>
+美音 ˌklæsɪfɪ'keɪʃn  
+美音
+<audio src="./media/classification.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -5661,7 +7797,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 
 # ***\#classified*** adj
-英音 ˈklæsɪfaɪd     美音 ˈklæsɪfaɪd  
+英音 ˈklæsɪfaɪd  
+英音
+<audio src="./media/classified1_AAC.aac"></audio>
+美音 ˈklæsɪfaɪd  
+美音
+<audio src="./media/classified 2_AAC.aac"></audio>
+
 
   
 
@@ -5673,7 +7815,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 
 # ***\#classify*** vt
-英音 'klæsɪfaɪ     美音 'klæsɪfaɪ  
+英音 'klæsɪfaɪ  
+英音
+<audio src="./media/classify-B.aac"></audio>
+美音 'klæsɪfaɪ  
+美音
+<audio src="./media/classify.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -5683,13 +7831,21 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > The computer classifies questions by level of difficulty.  
  > 电脑按照难易程度将问题分类。  （2008 上海春）  
+<audio src="./media/1-classify.aac"></audio>
 
  > We can **classify** these expressions **into** four types.  
  > 我们可以把这些表达方法分为四种类型。  （外研⑧ – 4）  
+<audio src="./media/2-classify.aac"></audio>
 
 
 # ***\#classmate*** n
-英音 'klɑːsmeɪt     美音 'klæsmeɪt  
+英音 'klɑːsmeɪt  
+英音
+<audio src="./media/classmate-B.aac"></audio>
+美音 'klæsmeɪt  
+美音
+<audio src="./media/classmate.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -5701,7 +7857,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 
 # ***\#classroom*** n
-英音 'klɑːsruːm     美音 'klæsruːm  
+英音 'klɑːsruːm  
+英音
+<audio src="./media/classroom-B.aac"></audio>
+美音 'klæsruːm  
+美音
+<audio src="./media/classroom.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 |  
 
@@ -5713,7 +7875,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 
 # ***\#clause*** n
-英音 klɔːz     美音 klɔːz  
+英音 klɔːz  
+英音
+<audio src="./media/clause-B.aac"></audio>
+美音 klɔːz  
+美音
+<audio src="./media/clause.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5725,7 +7893,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 
 # ***\#claw*** vt
-英音 klɔː     美音 klɔː  
+英音 klɔː  
+英音
+<audio src="./media/claw-B.aac"></audio>
+美音 klɔː  
+美音
+<audio src="./media/claw.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -5735,10 +7909,17 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > The cat clawed the chair.  
  > 猫抓挠椅子。    
+<audio src="./media/1-claw.aac"></audio>
 
 
 # ***\#claw*** n
-英音 klɔː     美音 klɔː  
+英音 klɔː  
+英音
+<audio src="./media/claw-B.aac"></audio>
+美音 klɔː  
+美音
+<audio src="./media/claw.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -5750,7 +7931,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 
 # ***\#clay*** n
-英音 kleɪ     美音 kleɪ  
+英音 kleɪ  
+英音
+<audio src="./media/clay-B.aac"></audio>
+美音 kleɪ  
+美音
+<audio src="./media/clay.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -5762,7 +7949,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 
 # ***\#clean*** v
-英音 kliːn     美音 kliːn  
+英音 kliːn  
+英音
+<audio src="./media/clean-B.aac"></audio>
+美音 kliːn  
+美音
+<audio src="./media/clean.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 1 |  
 
@@ -5772,9 +7965,11 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > This oven cleans easily.  
  > 这个烤箱容易清理。    
+<audio src="./media/3-clean.aac"></audio>
 
  > Fresh air cleans our lungs.  
  > 新鲜空气能清洁我们的肺部。  （2019 全国）  
+<audio src="./media/Fresh air cleans our lungs. _AAC.aac"></audio>
 
 
 固定搭配
@@ -5784,22 +7979,32 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > We’d better clean out the room this week.  
  > 我们这周最好把房间打扫干净。    
+<audio src="./media/5-clean.aac"></audio>
 
 ## \#clean up
 1.**(把…) 打扫干净；(使) 梳洗整齐；使净化：**  
 
  > You may use the room as you like so long as you clean it up afterwards.   
  > 你喜欢的话可以使用这个房间，只是要在用完后打扫干净。    
+<audio src="./media/P86 clean-3.aac"></audio>
 
  > I need to change and clean up.  
  > 我需要换洗一下。    
+<audio src="./media/7-clean.aac"></audio>
 
  > It may now be too late to clean up the river after such heavy pollution.  
  > 这条河遭到如此严重的污染，现在净化它可能太迟了。    
+<audio src="./media/It may now be too late to_AAC.aac"></audio>
 
 
 # ***\#clean*** adj
-英音 kliːn     美音 kliːn  
+英音 kliːn  
+英音
+<audio src="./media/clean-B.aac"></audio>
+美音 kliːn  
+美音
+<audio src="./media/clean.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 2 |  
 
@@ -5810,12 +8015,18 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > There the air is clean and the mountains are green.  
  > 那里空气干净，山野翠绿。  （2015 全国）  
+<audio src="./media/clean50.aac"></audio>
 
  > You must **keep** your clothes **clean**.  
  > 你必须保持衣着整洁。    
+<audio src="./media/2-clean.aac"></audio>
 
 
 # ***\#clean-burning*** adj
+英音
+<audio src="./media/clean-burning1_AAC.aac"></audio>
+美音
+<audio src="./media/clean-burning2_AAC.aac"></audio>
 
 
   
@@ -5826,7 +8037,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 
 # ***\#clean-up*** n
-英音 klinʌp     美音 klinˌʌp  
+英音 klinʌp  
+英音
+<audio src="./media/clean-up-B.aac"></audio>
+美音 klinˌʌp  
+美音
+<audio src="./media/clean-up.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -5838,7 +8055,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 
 # ***\#cleaner*** n
-英音 'kliːnə(r)     美音 'kliːnər  
+英音 'kliːnə(r)  
+英音
+<audio src="./media/cleaner-B.aac"></audio>
+美音 'kliːnər  
+美音
+<audio src="./media/cleaner.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -5850,7 +8073,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 
 # ***\#clear*** v  重难点词汇
-英音 klɪə(r)     美音 klɪr  
+英音 klɪə(r)  
+英音
+<audio src="./media/clear-B.aac"></audio>
+美音 klɪr  
+美音
+<audio src="./media/clear.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -5860,9 +8089,11 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > The sky cleared after the storm.  
  > 暴风雨过后，天转晴了。    
+<audio src="./media/6-clear.aac"></audio>
 
  > The fog usually clears by midday.  
  > 雾一般在中午前散去。    
+<audio src="./media/The fog usually clear_AAC.aac"></audio>
 
 ### 2.*高义频：* **清理；清除；疏散：**  
 
@@ -5871,14 +8102,17 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > After three years, Dennis cleared several fields and planted crops.  
  > 三年后，丹尼斯开垦了几块田地并种上了庄稼。  （2013 江西改）  
+<audio src="./media/After three years 2_AAC.aac"></audio>
 
  > After the bomb warning, police cleared the streets.  
  > 接到有炸弹的警告后，警察疏散了街上的行人。    
+<audio src="./media/9-clear.aac"></audio>
 
 ### 3.*高义频：* **恢复畅通：**  
 
  > The traffic took a long time to clear after the accident.  
  > 事故发生后很长时间交通才恢复畅通。    
+<audio src="./media/10-clear.aac"></audio>
 
 ### 4.*低义频：* **(使) 变清晰；(使) 变清醒：**  
 
@@ -5887,6 +8121,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > As my mind cleared, I remembered what had happened.  
  > 头脑清醒后，我想起了所发生的一切。    
+<audio src="./media/11-clear.aac"></audio>
 
 
 固定搭配
@@ -5902,6 +8137,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > He suddenly cleared off when a nurse asked who he was.  
  > 当护士询问他是谁时，他突然离开了。    
+<audio src="./media/12-clear.aac"></audio>
 
 ## \#clear one’s throat
 1.**清清嗓子**  
@@ -5917,6 +8153,7 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > Our conversation was filled with arguments; and efforts to clear the air seemed to deepen our misunderstanding.  
  > 我们的谈话充满了争论；为缓解紧张气氛所作出的努力似乎都在加深误会。  （2010 全国改）  
+<audio src="./media/13-clear.aac"></audio>
 
 ## \#clear up
 1.**(天气) 转晴；清理；解决：**  
@@ -5929,7 +8166,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
 
 # ***\#clear*** adj  重难点词汇
-英音 klɪə(r)     美音 klɪr  
+英音 klɪə(r)  
+英音
+<audio src="./media/clear-B.aac"></audio>
+美音 klɪr  
+美音
+<audio src="./media/clear.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -5960,19 +8203,23 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 
  > Ladies and gentlemen, have I **made myself clear**?  
  > 女士们、先生们，我讲清楚了吗？  （2009 湖北书面表达改）  
+<audio src="./media/1-clear.aac"></audio>
 
 - be clear about / on:
 
  > If you’re clear about where you want to go, the rest of the world will either help you get there or get out of the way.   
  > 如果你清楚自己想去哪儿，世界上其余的一切都会帮你到达那里或为你让路。  （2014 全国）  
+<audio src="./media/P86 clear adj-3.aac"></audio>
 
 - it is clear + (that) / wh- 从句：
 
  > It is clear that your life in your country is quite different from mine.  
  > 很显然，你们国家的生活方式与我的大不相同。    
+<audio src="./media/4-clear.aac"></audio>
 
  > It was not clear why the man hadn’t reported the accident sooner.  
  > 人们尚不清楚那个人为什么没有早一点报告这起事故。  （2011 江苏）  
+<audio src="./media/5-clear.aac"></audio>
 
 ### 3.*高义频：* **无障碍的：**  
 
@@ -5990,7 +8237,13 @@ Notes: in / under no circumstances置于句首，句子要用部分倒装语序�
 clearly /ˈklɪəli/ adv   
 
 # ***\#clear*** adv  重难点词汇
-英音 klɪə(r)     美音 klɪr  
+英音 klɪə(r)  
+英音
+<audio src="./media/clear1_AAC.aac"></audio>
+美音 klɪr  
+美音
+<audio src="./media/clear2_AAC.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -6000,10 +8253,17 @@ clearly /ˈklɪəli/ adv
 
  > Please stand clear of the train doors.  
  > 请不要靠近列车车门站立。    
+<audio src="./media/Clear-101_AAC.aac"></audio>
 
 
 # ***\#clerk*** n
-英音 klɑːk     美音 klɜːrk  
+英音 klɑːk  
+英音
+<audio src="./media/clerk-B.aac"></audio>
+美音 klɜːrk  
+美音
+<audio src="./media/Clerk.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -6013,7 +8273,13 @@ clearly /ˈklɪəli/ adv
 
 
 # ***\#clever*** adj
-英音 'klevə(r)     美音 'klevər  
+英音 'klevə(r)  
+英音
+<audio src="./media/clever-B.aac"></audio>
+美音 'klevər  
+美音
+<audio src="./media/clever.aac"></audio>
+
 
 | 词频 4 | 口语 2 |  
 
@@ -6023,11 +8289,13 @@ clearly /ˈklɪəli/ adv
 
  > It was clever of him to find his way here.  
  > 他能找到这儿来真是聪明。    
+<audio src="./media/1-clever.aac"></audio>
 
 ### 2.*高义频：* **巧妙的；机敏的：**  
 
  > What a clever idea!   
  > 多么聪明的想法！    
+<audio src="./media/P87 clever2.aac"></audio>
 
 
 固定搭配
@@ -6037,6 +8305,7 @@ clearly /ˈklɪəli/ adv
 
  > The Germans were very clever at inventing things.  
  > 德国人非常善于发明东西。  （译林⑥ – 3）  
+<audio src="./media/2-clever.aac"></audio>
 
 
 派生词汇
@@ -6045,7 +8314,13 @@ cleverly /'klevəli/ adv
 cleverness /'klevənəs/ n   
 
 # ***\#click*** v
-英音 klɪk     美音 klɪk  
+英音 klɪk  
+英音
+<audio src="./media/click-B.aac"></audio>
+美音 klɪk  
+美音
+<audio src="./media/click.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -6058,20 +8333,29 @@ cleverness /'klevənəs/ n
 
  > The door clicked shut.  
  > 门喀嚓一声关上了。    
+<audio src="./media/1-click.aac"></audio>
 
 ### 2.*高义频：* **点击：**  
 
  > **Click on** the links below to find out more.  
  > 点击以下链接以获取更多的信息。  （译林⑦ – 4）  
+<audio src="./media/2-click.aac"></audio>
 
 ### 3.*低义频：* **喜爱；配合默契：**  
 
  > To **click with** someone means to like each other and understand each other.  
  > “click with someone”的意思是情投意合。    
+<audio src="./media/To click with someone    each other_AAC.aac"></audio>
 
 
 # ***\#click*** n
-英音 klɪk     美音 klɪk  
+英音 klɪk  
+英音
+<audio src="./media/click-B.aac"></audio>
+美音 klɪk  
+美音
+<audio src="./media/click.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -6081,13 +8365,21 @@ cleverness /'klevənəs/ n
 
  > The key turned with a click.  
  > 钥匙旋转时，喀嚓响了一声。    
+<audio src="./media/4-click.aac"></audio>
 
  > Students can answer with a tap of the keyboard or **a click of the mouse**.  
  > 学生可轻敲键盘或点击鼠标来作答。  （2008 上海春）  
+<audio src="./media/6-click.aac"></audio>
 
 
 # ***\#client*** n
-英音 'klaɪənt     美音 'klaɪənt  
+英音 'klaɪənt  
+英音
+<audio src="./media/client-B.aac"></audio>
+美音 'klaɪənt  
+美音
+<audio src="./media/client.aac"></audio>
+
 
 | 词频 1 | 口语 2 | 书面 3 |  
 
@@ -6097,7 +8389,13 @@ cleverness /'klevənəs/ n
 
 
 # ***\#cliff*** n
-英音 klɪf     美音 klɪf  
+英音 klɪf  
+英音
+<audio src="./media/cliff1.aac"></audio>
+美音 klɪf  
+美音
+<audio src="./media/cliff2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -6107,7 +8405,13 @@ cleverness /'klevənəs/ n
 
 
 # ***\#climate*** n
-英音 'klaɪmət     美音 'klaɪmət  
+英音 'klaɪmət  
+英音
+<audio src="./media/climate-B.aac"></audio>
+美音 'klaɪmət  
+美音
+<audio src="./media/climate.aac"></audio>
+
 
 | 词频 4 | 书面 1 |  
 
@@ -6120,15 +8424,23 @@ cleverness /'klevənəs/ n
 
  > The island has a warm climate.  
  > 这个岛上气候温暖。    
+<audio src="./media/The island has a warm climate2_AAC.aac"></audio>
 
  > These flowers will not grow in cold climates.  
  > 这些花在气候寒冷的地方无法生长。    
+<audio src="./media/Climate-101_AAC.aac"></audio>
 
 ### 2.*高义频：* **风气；环境气氛**  
 
 
 # ***\#climb*** v
-英音 klaɪm     美音 klaɪm  
+英音 klaɪm  
+英音
+<audio src="./media/climb-B.aac"></audio>
+美音 klaɪm  
+美音
+<audio src="./media/climb.aac"></audio>
+
 
 | 词频 5 | 书面 2 |  
 
@@ -6138,9 +8450,11 @@ cleverness /'klevənəs/ n
 
  > The cat climbed that tree quickly.  
  > 猫很快就爬上了那棵树。    
+<audio src="./media/1-climb.aac"></audio>
 
  > The plane climbed to 40,000 feet.  
  > 飞机上升到4万英尺的高空。    
+<audio src="./media/2-climb.aac"></audio>
 
 
 真题解析
@@ -6151,7 +8465,13 @@ cleverness /'klevənəs/ n
 1. climbed  
 
 # ***\#climb*** n
-英音 klaɪm     美音 klaɪm  
+英音 klaɪm  
+英音
+<audio src="./media/climb-B.aac"></audio>
+美音 klaɪm  
+美音
+<audio src="./media/climb.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -6164,6 +8484,7 @@ cleverness /'klevənəs/ n
 
  > After a rest we continued our climb.  
  > 休息了一会儿，我们继续攀登。    
+<audio src="./media/3-climb.aac"></audio>
 
 
 派生词汇
@@ -6171,7 +8492,13 @@ cleverness /'klevənəs/ n
 climbing /'klaɪmɪŋ/ n [U]   
 
 # ***\#clinic*** n
-英音 'klɪnɪk     美音 'klɪnɪk  
+英音 'klɪnɪk  
+英音
+<audio src="./media/clinic-B.aac"></audio>
+美音 'klɪnɪk  
+美音
+<audio src="./media/clinic.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -6181,7 +8508,13 @@ climbing /'klaɪmɪŋ/ n [U]
 
 
 # ***\#clip*** n
-英音 klɪp     美音 klɪp  
+英音 klɪp  
+英音
+<audio src="./media/clip-B.aac"></audio>
+美音 klɪp  
+美音
+<audio src="./media/clip.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6191,7 +8524,13 @@ climbing /'klaɪmɪŋ/ n [U]
 
 
 # ***\#clip*** vi
-英音 klɪp     美音 klɪp  
+英音 klɪp  
+英音
+<audio src="./media/clip-B.aac"></audio>
+美音 klɪp  
+美音
+<audio src="./media/clip.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6201,7 +8540,13 @@ climbing /'klaɪmɪŋ/ n [U]
 
 
 # ***\#cloakroom*** n
-英音 'kləʊkruːm     美音 'kloʊkruːm  
+英音 'kləʊkruːm  
+英音
+<audio src="./media/cloakroom1.aac"></audio>
+美音 'kloʊkruːm  
+美音
+<audio src="./media/cloakroom2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6211,7 +8556,13 @@ climbing /'klaɪmɪŋ/ n [U]
 
 
 # ***\#clock*** n
-英音 klɒk     美音 klɑːk  
+英音 klɒk  
+英音
+<audio src="./media/clock-B.aac"></audio>
+美音 klɑːk  
+美音
+<audio src="./media/clock.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 1 |  
 
@@ -6221,6 +8572,7 @@ climbing /'klaɪmɪŋ/ n [U]
 
  > The clock gains / loses.  
  > 钟快/慢了。    
+<audio src="./media/1-clock.aac"></audio>
 
  > an **alarm clock / a wall clock**  
  > 闹钟/挂钟    
@@ -6231,7 +8583,13 @@ climbing /'klaɪmɪŋ/ n [U]
 ## \#around the clock
 
 # ***\#clone*** n
-英音 kləʊn     美音 kloʊn  
+英音 kləʊn  
+英音
+<audio src="./media/clone-B.aac"></audio>
+美音 kloʊn  
+美音
+<audio src="./media/clone.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6241,7 +8599,13 @@ climbing /'klaɪmɪŋ/ n [U]
 
 
 # ***\#clone*** vt
-英音 kləʊn     美音 kloʊn  
+英音 kləʊn  
+英音
+<audio src="./media/clone-B.aac"></audio>
+美音 kloʊn  
+美音
+<audio src="./media/clone.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6251,7 +8615,13 @@ climbing /'klaɪmɪŋ/ n [U]
 
 
 # ***\#close*** v  重难点词汇
-英音 kləʊz     美音 kloʊz  
+英音 kləʊz  
+英音
+<audio src="./media/close-B.aac"></audio>
+美音 kloʊz  
+美音
+<audio src="./media/close.aac"></audio>
+
 
 | 词频 5 | 口语 3 |  
 
@@ -6265,6 +8635,7 @@ climbing /'klaɪmɪŋ/ n [U]
 
  > Beth **closed** her **eyes** and tried to sleep.  
  > 贝丝闭上眼睛想睡觉。    
+<audio src="./media/1-close.aac"></audio>
 
  > close a book / an umbrella  
  > 合上书/收起伞    
@@ -6274,26 +8645,32 @@ climbing /'klaɪmɪŋ/ n [U]
 
  > What time does this bank close?  
  > 这家银行什么时候关门？    
+<audio src="./media/2-close.aac"></audio>
 
  > We close for lunch between twelve and two.  
  > 我们十二点到两点歇业用午餐。    
+<audio src="./media/3-close.aac"></audio>
 
  > Many factories have closed in the economic crisis.  
  > 很多工厂在经济危机中倒闭了。    
+<audio src="./media/4-close.aac"></audio>
 
 ### 3.*高义频：* **结束；停止：**  
 反义词 open 
 
  > The match closed at ten o’clock.  
  > 10点整比赛结束了。    
+<audio src="./media/The match closed at ten o’clock2_AAC.aac"></audio>
 
  > The manager **closed** the meeting **with** a short speech.  
  > 经理以简短的讲话结束了会议。    
+<audio src="./media/6-close.aac"></audio>
 
 ### 4.*低义频：* **接近；缩小：**  
 
  > These measures are aimed at **closing the gap** between the rich and poor.  
  > 这些措施旨在缩小贫富差距。    
+<audio src="./media/7-close.aac"></audio>
 
 
 固定搭配
@@ -6303,10 +8680,17 @@ climbing /'klaɪmɪŋ/ n [U]
 
  > If I had stayed in this business just for the money, I would have closed down years ago.  
  > 从事这个行业如果只是为了钱，那么多年前我就不干了。  （2009 浙江）  
+<audio src="./media/13-close.aac"></audio>
 
 
 # ***\#close*** n  重难点词汇
-英音 kləʊz     美音 kloʊz  
+英音 kləʊz  
+英音
+<audio src="./media/close-B.aac"></audio>
+美音 kloʊz  
+美音
+<audio src="./media/close.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -6316,9 +8700,11 @@ climbing /'klaɪmɪŋ/ n [U]
 
  > The crowd began to leave before the close of the game.   
  > 比赛结束前人群开始离去。    
+<audio src="./media/9-close.aac"></audio>
 
  > **At the close of** the journey, he said, “This was a really wonderful week.”   
  > 旅行结束时，他说：“这真是美妙的一周。“    
+<audio src="./media/10-close.aac"></audio>
 
 
 固定搭配
@@ -6328,16 +8714,24 @@ climbing /'klaɪmɪŋ/ n [U]
 
  > They tried hard to bring the war to a close.   
  > 他们竭力结束这场战争。    
+<audio src="./media/11-close.aac"></audio>
 
 ## \#come / draw to a close 
 1.**渐近结束：**  
 
  > Most of the volunteers breathe a sigh of relif when the season comes to a close.  
  > 当这一赛季结束时，大多数的志愿者松了一口气。  （2019 全国改）  
+<audio src="./media/Most of the volunteers breathe a sigh of relif when the2_AAC.aac"></audio>
 
 
 # ***\#close*** adj
-英音 kləʊs     美音 kloʊs  
+英音 kləʊs  
+英音
+<audio src="./media/close-B.aac"></audio>
+美音 kloʊs  
+美音
+<audio src="./media/close.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -6348,24 +8742,30 @@ climbing /'klaɪmɪŋ/ n [U]
 
  > Their birthdays are very **close together**.  
  > 他们的生日挨得很近。    
+<audio src="./media/1-close-adj.aac"></audio>
 
  > **Close to** the school there was a beautiful park with many trees around it.  
  > 离学校很近的地方有一个美丽的公园，四周树木环绕。  （2015 浙江）  
+<audio src="./media/close50.aac"></audio>
 
  > First **get close to** him and then make friends with him.   
  > 先接近他，再跟他交朋友。    
+<audio src="./media/3-close-adj.aac"></audio>
 
  > It’s never a good idea to exercise too **close to** bedtime.   
  > 睡前运动并不好。  （2011 天津）  
+<audio src="./media/P88 close2-4.aac"></audio>
 
 ### 2.*高义频：* **可能要...；几乎要...**  
 英译 almost in a particular state; likely to do sth soon：
 
  > He was **close to** tears.  
  > 他几乎要掉眼泪了。    
+<audio src="./media/4-close-adj.aac"></audio>
 
  > Lauren is **close to completing** her study on shark’s ability to sense pressure.  
  > 劳伦很快就要完成她对鲨鱼感压能力的研究了。  （2008 天津）  
+<audio src="./media/5-close-adj.aac"></audio>
 
 ### 3.*高义频：* **亲密的；亲近的；密切的：**  
 
@@ -6374,14 +8774,17 @@ climbing /'klaɪmɪŋ/ n [U]
 
  > Research suggests that there is a close relationship between retaining customers and making profits.  
  > 研究表明维系客户和赚取利润之间有着密切的关系。  （2011 上海）  
+<audio src="./media/6-close-adj.aac"></audio>
 
 ### 4.*高义频：* **仔细的；周密的；严密的：**  
 
  > All of them wanted to be the first to **get a close look at** the famous painting.  
  > 他们所有人都想第一个仔细看看这幅名画。    
+<audio src="./media/All of them wanted to be the first to get_AAC.aac"></audio>
 
  > We **kept a close watch / eye on** the prisoners.  
  > 我们严密监视犯人的行动。    
+<audio src="./media/close55.aac"></audio>
 
 ### 5.*高义频：* **相差无几的；均势的：**  
 
@@ -6393,7 +8796,13 @@ climbing /'klaɪmɪŋ/ n [U]
 
 
 # ***\#close*** adv
-英音 kləʊs     美音 kloʊs  
+英音 kləʊs  
+英音
+<audio src="./media/close-B.aac"></audio>
+美音 kloʊs  
+美音
+<audio src="./media/close.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 2 |  
 
@@ -6403,12 +8812,18 @@ climbing /'klaɪmɪŋ/ n [U]
 
  > As they got closer, they realized that the dog was a wolf.  
  > 当他们离得更近时才意识到那不是狗，而是只狼。  （2017 浙江）  
+<audio src="./media/Close-101_AAC.aac"></audio>
 
  > The girl **held** the puppy **close**.  
  > 女孩紧紧地抱着小狗。    
+<audio src="./media/9-close-adv.aac"></audio>
 
 
 # ***\#close-fitting*** adj
+英音
+<audio src="./media/close-fitting1_AAC.aac"></audio>
+美音
+<audio src="./media/close-fitting2_AAC.aac"></audio>
 
 
   
@@ -6419,7 +8834,13 @@ climbing /'klaɪmɪŋ/ n [U]
 
 
 # ***\#closed*** adj
-英音 kləʊzd     美音 kloʊzd  
+英音 kləʊzd  
+英音
+<audio src="./media/closed-B.aac"></audio>
+美音 kloʊzd  
+美音
+<audio src="./media/closed.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -6433,10 +8854,17 @@ climbing /'klaɪmɪŋ/ n [U]
 
  > He has a closed mind.  
  > 他思想僵化。    
+<audio src="./media/1-closed.aac"></audio>
 
 
 # ***\#closely*** adv
-英音 'kləʊsli     美音 'kloʊsli  
+英音 'kləʊsli  
+英音
+<audio src="./media/closely-B.aac"></audio>
+美音 'kloʊsli  
+美音
+<audio src="./media/closely.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 2 |  
 
@@ -6446,13 +8874,21 @@ climbing /'klaɪmɪŋ/ n [U]
 
  > The students were sitting closely together and whispering.   
  > 学生们紧挨着坐在一起窃窃私语。    
+<audio src="./media/1-closely.aac"></audio>
 
  > **Watch** the pets **closely** when they are left outdoors.  
  > 把宠物放在室外时要仔细照看他们。  （2012 全国改）  
+<audio src="./media/2-closely.aac"></audio>
 
 
 # ***\#closely-knit*** adj
-英音 ˌkləʊs ˈnɪt     美音 ˌkləʊs ˈnɪt  
+英音 ˌkləʊs ˈnɪt  
+英音
+<audio src="./media/closely-knit1_AAC.aac"></audio>
+美音 ˌkləʊs ˈnɪt  
+美音
+<audio src="./media/closely-knit2_AAC.aac"></audio>
+
 
   
 
@@ -6462,7 +8898,13 @@ climbing /'klaɪmɪŋ/ n [U]
 
 
 # ***\#closet*** n
-英音 'klɒzɪt     美音 'klɑːzət  
+英音 'klɒzɪt  
+英音
+<audio src="./media/closet-B.aac"></audio>
+美音 'klɑːzət  
+美音
+<audio src="./media/closet2.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -6472,7 +8914,13 @@ climbing /'klaɪmɪŋ/ n [U]
 
 
 # ***\#closing*** adj
-英音 'kləʊzɪŋ     美音 'kloʊzɪŋ  
+英音 'kləʊzɪŋ  
+英音
+<audio src="./media/closing1_AAC.aac"></audio>
+美音 'kloʊzɪŋ  
+美音
+<audio src="./media/closing1_AAC.aac"></audio>
+
 
   
 
@@ -6482,7 +8930,13 @@ climbing /'klaɪmɪŋ/ n [U]
 
 
 # ***\#closing*** n
-英音 'kləʊzɪŋ     美音 'kloʊzɪŋ  
+英音 'kləʊzɪŋ  
+英音
+<audio src="./media/closing1_AAC.aac"></audio>
+美音 'kloʊzɪŋ  
+美音
+<audio src="./media/closing1_AAC.aac"></audio>
+
 
   
 
@@ -6492,7 +8946,13 @@ climbing /'klaɪmɪŋ/ n [U]
 
 
 # ***\#cloth*** n
-英音 klɒθ     美音 klɔːθ  
+英音 klɒθ  
+英音
+<audio src="./media/cloth-B.aac"></audio>
+美音 klɔːθ  
+美音
+<audio src="./media/cloth.aac"></audio>
+
 
 | 词频 3 | 口语 1 |  
 
@@ -6502,18 +8962,27 @@ climbing /'klaɪmɪŋ/ n [U]
 
  > Cut the coat according to the cloth.  
  > 量体裁衣。    
+<audio src="./media/1-cloth.aac"></audio>
 
  > You’d better wrap it in a piece of clean cloth.  
  > 你最好用一块干净的布将它包好。    
+<audio src="./media/cloth-02.aac"></audio>
 
 ### 2.*高义频：* **[C] （一块）布：**  
 
  > They handed each of us a hot wet cloth to wipe our hands.  
  > 他们递给我们每个人一块温热的湿布擦手。    
+<audio src="./media/3-cloth.aac"></audio>
 
 
 # ***\#clothes*** n
-英音 kləʊðz     美音 kloʊðz  
+英音 kləʊðz  
+英音
+<audio src="./media/clothes-B.aac"></audio>
+美音 kloʊðz  
+美音
+<audio src="./media/clothes.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 2 |  
 
@@ -6534,7 +9003,13 @@ climbing /'klaɪmɪŋ/ n [U]
 
 
 # ***\#clothing*** n
-英音 'kləʊðɪŋ     美音 'kloʊðɪŋ  
+英音 'kləʊðɪŋ  
+英音
+<audio src="./media/clothing-B.aac"></audio>
+美音 'kloʊðɪŋ  
+美音
+<audio src="./media/clothing.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -6546,6 +9021,7 @@ climbing /'klaɪmɪŋ/ n [U]
 
  > No matter where we are, we always have food, clothing, and shelter as well as people who love us.  
  > 无论身在何处，我们都能得到食物、衣服和住处，还有关爱我们的人。    
+<audio src="./media/P88 clothing1.aac"></audio>
 
 #### 辨析 clothing, clothes
 二者都指“衣服”。  
@@ -6557,7 +9033,13 @@ climbing /'klaɪmɪŋ/ n [U]
 
 
 # ***\#cloud*** n
-英音 klaʊd     美音 klaʊd  
+英音 klaʊd  
+英音
+<audio src="./media/cloud-B.aac"></audio>
+美音 klaʊd  
+美音
+<audio src="./media/cloud.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 |  
 
@@ -6567,6 +9049,7 @@ climbing /'klaɪmɪŋ/ n [U]
 
  > The clouds soon cleared away  
  > 云很快散去了。    
+<audio src="./media/1-cloud.aac"></audio>
 
  > clouds of dust  
  > 一团团的灰尘    
@@ -6583,7 +9066,13 @@ climbing /'klaɪmɪŋ/ n [U]
 cloudless /'klaʊdləs/ adj   
 
 # ***\#cloud*** v
-英音 klaʊd     美音 klaʊd  
+英音 klaʊd  
+英音
+<audio src="./media/cloud-B.aac"></audio>
+美音 klaʊd  
+美音
+<audio src="./media/cloud.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 |  
 
@@ -6593,7 +9082,13 @@ cloudless /'klaʊdləs/ adj
 
 
 # ***\#cloud-capped*** adj
-英音 k'laʊdk'æpt     美音 k'laʊdk'æpt  
+英音 k'laʊdk'æpt  
+英音
+<audio src="./media/cloud-capped1_AAC.aac"></audio>
+美音 k'laʊdk'æpt  
+美音
+<audio src="./media/cloud-capped1_AAC.aac"></audio>
+
 
   
 
@@ -6603,7 +9098,13 @@ cloudless /'klaʊdləs/ adj
 
 
 # ***\#cloudburst*** n
-英音 ˈklaʊdbɜːst     美音 ˈklaʊdbɜːrst  
+英音 ˈklaʊdbɜːst  
+英音
+<audio src="./media/cloudburst1_AAC.aac"></audio>
+美音 ˈklaʊdbɜːrst  
+美音
+<audio src="./media/cloudburst2_AAC.aac"></audio>
+
 
   
 
@@ -6613,7 +9114,13 @@ cloudless /'klaʊdləs/ adj
 
 
 # ***\#cloudy*** adj
-英音 'klaʊdi     美音 'klaʊdi  
+英音 'klaʊdi  
+英音
+<audio src="./media/cloudy-B.aac"></audio>
+美音 'klaʊdi  
+美音
+<audio src="./media/cloudy.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -6624,10 +9131,17 @@ cloudless /'klaʊdləs/ adj
 
  > It was cloudy this morning, but it turned out fine.  
  > 今天上午阴天，但后来放晴了。    
+<audio src="./media/1-cloudy.aac"></audio>
 
 
 # ***\#clover*** n
-英音 ˈkləʊvə(r)     美音 ˈkləʊvər  
+英音 ˈkləʊvə(r)  
+英音
+<audio src="./media/clover1_AAC.aac"></audio>
+美音 ˈkləʊvər  
+美音
+<audio src="./media/clover2_AAC.aac"></audio>
+
 
   
 
@@ -6637,7 +9151,13 @@ cloudless /'klaʊdləs/ adj
 
 
 # ***\#clown*** n
-英音 klaʊn     美音 klaʊn  
+英音 klaʊn  
+英音
+<audio src="./media/clown1.aac"></audio>
+美音 klaʊn  
+美音
+<audio src="./media/clown2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6647,7 +9167,13 @@ cloudless /'klaʊdləs/ adj
 
 
 # ***\#club*** n
-英音 klʌb     美音 klʌb  
+英音 klʌb  
+英音
+<audio src="./media/club-B.aac"></audio>
+美音 klʌb  
+美音
+<audio src="./media/club.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -6665,7 +9191,13 @@ cloudless /'klaʊdləs/ adj
 
 
 # ***\#clue*** n
-英音 kluː     美音 kluː  
+英音 kluː  
+英音
+<audio src="./media/clue-B.aac"></audio>
+美音 kluː  
+美音
+<audio src="./media/clue.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 阅读 2 |  
 
@@ -6681,10 +9213,17 @@ cloudless /'klaʊdləs/ adj
 
  > Write a conversation with the help of the clues.  
  > 根据提示编写一段对话。    
+<audio src="./media/1-clue.aac"></audio>
 
 
 # ***\#clueless*** adj
-英音 ˈkluːləs     美音 ˈkluːləs  
+英音 ˈkluːləs  
+英音
+<audio src="./media/clueless1_AAC.aac"></audio>
+美音 ˈkluːləs  
+美音
+<audio src="./media/clueless2_AAC.aac"></audio>
+
 
   
 
@@ -6694,7 +9233,13 @@ cloudless /'klaʊdləs/ adj
 
 
 # ***\#clumsy*** adj
-英音 'klʌmzi     美音 'klʌmzi  
+英音 'klʌmzi  
+英音
+<audio src="./media/clumsy-B.aac"></audio>
+美音 'klʌmzi  
+美音
+<audio src="./media/clumsy.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6704,10 +9249,17 @@ cloudless /'klaʊdləs/ adj
 
  > Claire tried to help once but was too clumsy.  
  > 有一次，克莱尔想要帮忙，但是太笨手笨脚了。  （人教⑦ – 2）  
+<audio src="./media/1-clumsy.aac"></audio>
 
 
 # ***\#cluster*** n
-英音 ˈklʌstə(r)     美音 ˈklʌstər  
+英音 ˈklʌstə(r)  
+英音
+<audio src="./media/cluster1_AAC.aac"></audio>
+美音 ˈklʌstər  
+美音
+<audio src="./media/cluster2_AAC.aac"></audio>
+
 
   
 
@@ -6717,7 +9269,13 @@ cloudless /'klaʊdləs/ adj
 
 
 # ***\#co-discover*** v
-英音 ˈkəʊ dɪˈskʌvə(r)     美音 ˈkəʊ dɪˈskʌvər  
+英音 ˈkəʊ dɪˈskʌvə(r)  
+英音
+<audio src="./media/co-discover1_AAC.aac"></audio>
+美音 ˈkəʊ dɪˈskʌvər  
+美音
+<audio src="./media/co-discover2_AAC.aac"></audio>
+
 
   
 
@@ -6727,7 +9285,13 @@ cloudless /'klaʊdləs/ adj
 
 
 # ***\#co-operative*** adj
-英音 'kəʊ'ɒpərətɪv     美音 'kəʊ'ɒpərətɪv  
+英音 'kəʊ'ɒpərətɪv  
+英音
+<audio src="./media/co-operative-B.aac"></audio>
+美音 'kəʊ'ɒpərətɪv  
+美音
+<audio src="./media/co-operative.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6737,7 +9301,13 @@ cloudless /'klaʊdləs/ adj
 
 
 # ***\#co-pilot*** n
-英音 ˈkəʊ paɪlət     美音 ˈkəʊ paɪlət  
+英音 ˈkəʊ paɪlət  
+英音
+<audio src="./media/co-pilot1_AAC.aac"></audio>
+美音 ˈkəʊ paɪlət  
+美音
+<audio src="./media/co-pilot2_AAC.aac"></audio>
+
 
   
 
@@ -6747,7 +9317,13 @@ cloudless /'klaʊdləs/ adj
 
 
 # ***\#co-renter*** n
-英音 ˌkəʊˈrentə(r)     美音 ˌkəʊˈrentər  
+英音 ˌkəʊˈrentə(r)  
+英音
+<audio src="./media/co-renter1_AAC.aac"></audio>
+美音 ˌkəʊˈrentər  
+美音
+<audio src="./media/co-renter2_AAC.aac"></audio>
+
 
   
 
@@ -6757,7 +9333,13 @@ cloudless /'klaʊdləs/ adj
 
 
 # ***\#co-worker*** n
-英音 ˈkəʊ wɜːkə(r)     美音 ˈkəʊ wɜːrkər  
+英音 ˈkəʊ wɜːkə(r)  
+英音
+<audio src="./media/co-worker1_AAC.aac"></audio>
+美音 ˈkəʊ wɜːrkər  
+美音
+<audio src="./media/co-worker2_AAC.aac"></audio>
+
 
   
 
@@ -6767,7 +9349,13 @@ cloudless /'klaʊdləs/ adj
 
 
 # ***\#coach*** n
-英音 kəʊtʃ     美音 koʊtʃ  
+英音 kəʊtʃ  
+英音
+<audio src="./media/coach-B.aac"></audio>
+美音 koʊtʃ  
+美音
+<audio src="./media/coach.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -6789,7 +9377,13 @@ cloudless /'klaʊdləs/ adj
 
 
 # ***\#coach*** vt
-英音 kəʊtʃ     美音 koʊtʃ  
+英音 kəʊtʃ  
+英音
+<audio src="./media/coach-B.aac"></audio>
+美音 koʊtʃ  
+美音
+<audio src="./media/coach.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -6800,13 +9394,21 @@ cloudless /'klaʊdləs/ adj
 
  > I joined a private football team coached by my school coach.  
  > 我加入一个由我校教练辅导的私人足球队。    
+<audio src="./media/1-coach.aac"></audio>
 
  > He **coached** her **for** English examinations.  
  > 他辅导她准备英语考试。    
+<audio src="./media/2-coach.aac"></audio>
 
 
 # ***\#coal*** n
-英音 kəʊl     美音 koʊl  
+英音 kəʊl  
+英音
+<audio src="./media/coal-B.aac"></audio>
+美音 koʊl  
+美音
+<audio src="./media/coal.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 2 |  
 
@@ -6816,7 +9418,13 @@ cloudless /'klaʊdləs/ adj
 
 
 # ***\#coarse*** adj
-英音 kɔːs     美音 kɔːrs  
+英音 kɔːs  
+英音
+<audio src="./media/coarse1_AAC.aac"></audio>
+美音 kɔːrs  
+美音
+<audio src="./media/coarse2_AAC.aac"></audio>
+
 
   
 
@@ -6826,7 +9434,13 @@ cloudless /'klaʊdləs/ adj
 
 
 # ***\#coast*** n
-英音 kəʊst     美音 koʊst  
+英音 kəʊst  
+英音
+<audio src="./media/coast-B.aac"></audio>
+美音 koʊst  
+美音
+<audio src="./media/coast.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -6836,6 +9450,7 @@ cloudless /'klaʊdləs/ adj
 
  > Why not take them for a walk along the coast?  
  > 为什么不带他们沿着海边散散步呢？    
+<audio src="./media/1-coast.aac"></audio>
 
 
 固定搭配
@@ -6845,12 +9460,14 @@ cloudless /'klaʊdləs/ adj
 
  > Barcelona is a city on the coast of Spain.  
  > 巴塞罗那是一座西班牙的海滨城市。  （外研③ – 1）  
+<audio src="./media/2-coast.aac"></audio>
 
 ## \#off the coast
 1.**在沿岸的海面上：**  
 
  > There are many islands off the coast.  
  > 沿海有许多岛屿。    
+<audio src="./media/3-coast.aac"></audio>
 
 
 派生词汇
@@ -6858,7 +9475,13 @@ cloudless /'klaʊdləs/ adj
 coastal /'kəʊstl/ adj   
 
 # ***\#coastal*** adj
-英音 'kəʊstl     美音 'koʊstl  
+英音 'kəʊstl  
+英音
+<audio src="./media/coastal1.aac"></audio>
+美音 'koʊstl  
+美音
+<audio src="./media/coastal2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -6868,7 +9491,13 @@ coastal /'kəʊstl/ adj
 
 
 # ***\#coastline*** n
-英音 ˈkəʊstlaɪn     美音 ˈkəʊstlaɪn  
+英音 ˈkəʊstlaɪn  
+英音
+<audio src="./media/coastline1_AAC.aac"></audio>
+美音 ˈkəʊstlaɪn  
+美音
+<audio src="./media/coastline2_AAC.aac"></audio>
+
 
   
 
@@ -6878,7 +9507,13 @@ coastal /'kəʊstl/ adj
 
 
 # ***\#coat*** n
-英音 kəʊt     美音 koʊt  
+英音 kəʊt  
+英音
+<audio src="./media/coat-B.aac"></audio>
+美音 koʊt  
+美音
+<audio src="./media/coat.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -6896,7 +9531,13 @@ coastal /'kəʊstl/ adj
 
 
 # ***\#coat*** vt
-英音 kəʊt     美音 koʊt  
+英音 kəʊt  
+英音
+<audio src="./media/coat-B.aac"></audio>
+美音 koʊt  
+美音
+<audio src="./media/coat.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -6906,10 +9547,17 @@ coastal /'kəʊstl/ adj
 
  > **Coat** the fish **with** flour.  
  > 给鱼裹上一层面粉。    
+<audio src="./media/1-coat.aac"></audio>
 
 
 # ***\#cobbled*** adj
-英音 'kɒbld     美音 'kɑːbld  
+英音 'kɒbld  
+英音
+<audio src="./media/cobbled1.aac"></audio>
+美音 'kɑːbld  
+美音
+<audio src="./media/cobbled2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6919,7 +9567,13 @@ coastal /'kəʊstl/ adj
 
 
 # ***\#cobblestone*** adj
-英音 ˈkɒblstəʊn     美音 ˈkɑːblstəʊn  
+英音 ˈkɒblstəʊn  
+英音
+<audio src="./media/cobblestone1_AAC.aac"></audio>
+美音 ˈkɑːblstəʊn  
+美音
+<audio src="./media/cobblestone2_AAC.aac"></audio>
+
 
   
 
@@ -6929,7 +9583,13 @@ coastal /'kəʊstl/ adj
 
 
 # ***\#cocaine*** n
-英音 kəʊ'keɪn     美音 koʊ'keɪn  
+英音 kəʊ'keɪn  
+英音
+<audio src="./media/cocaine1.aac"></audio>
+美音 koʊ'keɪn  
+美音
+<audio src="./media/cocaine2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6939,7 +9599,13 @@ coastal /'kəʊstl/ adj
 
 
 # ***\#cockney*** n
-英音 'kɒkni     美音 'kɑːkni  
+英音 'kɒkni  
+英音
+<audio src="./media/cockney1.aac"></audio>
+美音 'kɑːkni  
+美音
+<audio src="./media/cockney2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6949,7 +9615,13 @@ coastal /'kəʊstl/ adj
 
 
 # ***\#cocoa*** n
-英音 'kəʊkəʊ     美音 'koʊkoʊ  
+英音 'kəʊkəʊ  
+英音
+<audio src="./media/cocoa-B.aac"></audio>
+美音 'koʊkoʊ  
+美音
+<audio src="./media/cocoa.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -6959,7 +9631,13 @@ coastal /'kəʊstl/ adj
 
 
 # ***\#coconut*** n
-英音 ˈkəʊkənʌt     美音 ˈkəʊkənʌt  
+英音 ˈkəʊkənʌt  
+英音
+<audio src="./media/coconut1_AAC.aac"></audio>
+美音 ˈkəʊkənʌt  
+美音
+<audio src="./media/coconut2_AAC.aac"></audio>
+
 
   
 
@@ -6969,7 +9647,13 @@ coastal /'kəʊstl/ adj
 
 
 # ***\#code*** n
-英音 kəʊd     美音 koʊd  
+英音 kəʊd  
+英音
+<audio src="./media/code-B.aac"></audio>
+美音 koʊd  
+美音
+<audio src="./media/code.aac"></audio>
+
 
 | 词频 2 | 口语 2 | 书面 2 |  
 
@@ -6999,7 +9683,13 @@ coastal /'kəʊstl/ adj
 
 
 # ***\#code*** vt
-英音 kəʊd     美音 koʊd  
+英音 kəʊd  
+英音
+<audio src="./media/code-B.aac"></audio>
+美音 koʊd  
+美音
+<audio src="./media/code.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -7009,9 +9699,14 @@ coastal /'kəʊstl/ adj
 
  > Each order is coded separately  
  > 每条命令都单独编码。    
+<audio src="./media/1-code.aac"></audio>
 
 
 # ***\#code-name*** v
+英音
+<audio src="./media/code-name1_AAC.aac"></audio>
+美音
+<audio src="./media/code-name2_AAC.aac"></audio>
 
 
   
@@ -7022,7 +9717,13 @@ coastal /'kəʊstl/ adj
 
 
 # ***\#coexist*** v
-英音 ˌkəʊɪɡˈzɪst     美音 ˌkəʊɪɡˈzɪst  
+英音 ˌkəʊɪɡˈzɪst  
+英音
+<audio src="./media/coexist1_AAC.aac"></audio>
+美音 ˌkəʊɪɡˈzɪst  
+美音
+<audio src="./media/coexist2_AAC.aac"></audio>
+
 
   
 
@@ -7032,7 +9733,13 @@ coastal /'kəʊstl/ adj
 
 
 # ***\#coffee*** n
-英音 'kɒfi     美音 'kɔːfi  
+英音 'kɒfi  
+英音
+<audio src="./media/coffee-B.aac"></audio>
+美音 'kɔːfi  
+美音
+<audio src="./media/coffee.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -7045,16 +9752,24 @@ coastal /'kəʊstl/ adj
 
  > Take / Have a cup of coffee.  
  > 喝杯咖啡吧。    
+<audio src="./media/1-coffee.aac"></audio>
 
  > — Bill, can I get you anything to drink?  
  > 比尔，我给你弄点儿什么喝呢？    
+<audio src="./media/2-coffee.aac"></audio>
 
  > —I wouldn’t mind a coffee.  
  > 一杯咖啡就好。  （2009 江苏）  
 
 
 # ***\#coffin*** n
-英音 'kɒfɪn     美音 'kɔːfɪn  
+英音 'kɒfɪn  
+英音
+<audio src="./media/coffin-B.aac"></audio>
+美音 'kɔːfɪn  
+美音
+<audio src="./media/coffin.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7066,7 +9781,13 @@ coastal /'kəʊstl/ adj
 
 
 # ***\#cognition*** n
-英音 kɒɡˈnɪʃn     美音 kɑːɡˈnɪʃn  
+英音 kɒɡˈnɪʃn  
+英音
+<audio src="./media/cognition1_AAC.aac"></audio>
+美音 kɑːɡˈnɪʃn  
+美音
+<audio src="./media/cognition2_AAC.aac"></audio>
+
 
   
 
@@ -7076,7 +9797,13 @@ coastal /'kəʊstl/ adj
 
 
 # ***\#coherent*** adj
-英音 kəʊˈhɪərənt     美音 kəʊˈhɪrənt  
+英音 kəʊˈhɪərənt  
+英音
+<audio src="./media/coherent1_AAC.aac"></audio>
+美音 kəʊˈhɪrənt  
+美音
+<audio src="./media/coherent2_AAC.aac"></audio>
+
 
   
 
@@ -7086,7 +9813,13 @@ coastal /'kəʊstl/ adj
 
 
 # ***\#coin*** n
-英音 kɔɪn     美音 kɔɪn  
+英音 kɔɪn  
+英音
+<audio src="./media/coin-B.aac"></audio>
+美音 kɔɪn  
+美音
+<audio src="./media/coin.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -7096,16 +9829,24 @@ coastal /'kəʊstl/ adj
 
  > Could you change the dollar bill for coin(s)?  
  > 你能把这张一美元的纸钞换成硬币吗？    
+<audio src="./media/1-coin.aac"></audio>
 
  > Every coin has two sides.  
  > 事物都有两面性。    
+<audio src="./media/P89 coin1.aac"></audio>
 
  > **the other / opposite side of the coin**  
  > 事情的另一面    
 
 
 # ***\#coin*** v
-英音 kɔɪn     美音 kɔɪn  
+英音 kɔɪn  
+英音
+<audio src="./media/coin-B.aac"></audio>
+美音 kɔɪn  
+美音
+<audio src="./media/coin.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -7115,7 +9856,13 @@ coastal /'kəʊstl/ adj
 
 
 # ***\#coincidence*** n
-英音 kəʊ'ɪnsɪdəns     美音 koʊ'ɪnsɪdəns  
+英音 kəʊ'ɪnsɪdəns  
+英音
+<audio src="./media/coincidence1_AAC.aac"></audio>
+美音 koʊ'ɪnsɪdəns  
+美音
+<audio src="./media/Coincidence2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7125,6 +9872,7 @@ coastal /'kəʊstl/ adj
 
  > **What a coincidence**!  
  > 多么巧合的事啊！/真巧啊！    
+<audio src="./media/1-coincidence.aac"></audio>
 
 
 固定搭配
@@ -7134,6 +9882,7 @@ coastal /'kəʊstl/ adj
 
  > By coincidence a bus arrived as we reached the empty bus stop.  
  > 碰巧的是，当我们到达空荡荡的公交车站时，一辆公交车过来了。  （人教⑩ – 3）  
+<audio src="./media/3-coincidence-1.mp3"></audio>
 
 
 派生词汇
@@ -7149,7 +9898,13 @@ coincidental /kəʊˌɪnsɪ'dentl/ adj
 1. coincidence  
 
 # ***\#coke*** n
-英音 kəʊk     美音 koʊk  
+英音 kəʊk  
+英音
+<audio src="./media/coke-B.aac"></audio>
+美音 koʊk  
+美音
+<audio src="./media/coke.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -7159,7 +9914,13 @@ coincidental /kəʊˌɪnsɪ'dentl/ adj
 
 
 # ***\#cola*** n
-英音 'kəʊlə     美音 'koʊlə  
+英音 'kəʊlə  
+英音
+<audio src="./media/cola-B.aac"></audio>
+美音 'koʊlə  
+美音
+<audio src="./media/cola.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7171,7 +9932,13 @@ coincidental /kəʊˌɪnsɪ'dentl/ adj
 
 
 # ***\#cold*** adj
-英音 kəʊld     美音 koʊld  
+英音 kəʊld  
+英音
+<audio src="./media/cold-B.aac"></audio>
+美音 koʊld  
+美音
+<audio src="./media/cold.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -7185,9 +9952,11 @@ coincidental /kəʊˌɪnsɪ'dentl/ adj
 
  > It **turned cold** that night.  
  > 那天夜里天变冷了。    
+<audio src="./media/1-cold.aac"></audio>
 
  > The room **felt ice / freezing cold**. Would you please turn on the heating?   
  > 屋里感觉冷极了，把暖气打开好吗？    
+<audio src="./media/P89 cold2.aac"></audio>
 
 ### 2.*高义频：* **冷淡的；冷漠的：**  
 反义词 warm 
@@ -7197,10 +9966,17 @@ coincidental /kəʊˌɪnsɪ'dentl/ adj
 
  > A few minutes later, the headmaster walked towards the couple with a cold face.  
  > 几分钟后，校长一脸冷漠地走向那对夫妇。    
+<audio src="./media/2-cold.aac"></audio>
 
 
 # ***\#cold*** n
-英音 kəʊld     美音 koʊld  
+英音 kəʊld  
+英音
+<audio src="./media/cold-B.aac"></audio>
+美音 koʊld  
+美音
+<audio src="./media/cold.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -7210,17 +9986,21 @@ coincidental /kəʊˌɪnsɪ'dentl/ adj
 
  > I couldn’t move my legs because of the cold.  
  > 因为天气很冷，我的脚都冻僵了。    
+<audio src="./media/3-cold.aac"></audio>
 
  > He suffered a great deal from cold and hunger.  
  > 他饥寒交迫。    
+<audio src="./media/4-cold.aac"></audio>
 
 ### 2.*高义频：* **[C] 伤风；感冒：**  
 
  > **I’ve got** a heavy / bad **cold**.   
  > 我患了重感冒。    
+<audio src="./media/P90 cold-2.aac"></audio>
 
  > If you take more physical exercises, you will not **catch a cold** so easily.  
  > 多参加些体育锻炼，你就不那么容易感冒了。    
+<audio src="./media/7-cold.aac"></audio>
 
 
 派生词汇
@@ -7229,7 +10009,13 @@ coldly /'kəʊldli/ adv
 coldness /'kəʊldnəs/ n   
 
 # ***\#coldness*** n
-英音 ˈkəʊldnəs     美音 ˈkəʊldnəs  
+英音 ˈkəʊldnəs  
+英音
+<audio src="./media/coldness1_AAC.aac"></audio>
+美音 ˈkəʊldnəs  
+美音
+<audio src="./media/coldness2_AAC.aac"></audio>
+
 
   
 
@@ -7239,7 +10025,13 @@ coldness /'kəʊldnəs/ n
 
 
 # ***\#collaborate*** v
-英音 kəˈlæbəreɪt     美音 kəˈlæbəreɪt  
+英音 kəˈlæbəreɪt  
+英音
+<audio src="./media/collaborate1_AAC.aac"></audio>
+美音 kəˈlæbəreɪt  
+美音
+<audio src="./media/collaborate2_AAC.aac"></audio>
+
 
   
 
@@ -7249,7 +10041,13 @@ coldness /'kəʊldnəs/ n
 
 
 # ***\#collapse*** vi
-英音 kə'læps     美音 kə'læps  
+英音 kə'læps  
+英音
+<audio src="./media/collapse-B.aac"></audio>
+美音 kə'læps  
+美音
+<audio src="./media/collapse.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -7259,10 +10057,17 @@ coldness /'kəʊldnəs/ n
 
  > Having been attacked by terrorists, the tall building collapsed.   
  > 遭受恐怖分子袭击后，大厦倒塌了。    
+<audio src="./media/2-collapse.aac"></audio>
 
 
 # ***\#collapse*** n
-英音 kə'læps     美音 kə'læps  
+英音 kə'læps  
+英音
+<audio src="./media/collapse-B.aac"></audio>
+美音 kə'læps  
+美音
+<audio src="./media/collapse.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -7272,7 +10077,13 @@ coldness /'kəʊldnəs/ n
 
 
 # ***\#collar*** n
-英音 'kɒlə(r)     美音 'kɑːlər  
+英音 'kɒlə(r)  
+英音
+<audio src="./media/collar-B.aac"></audio>
+美音 'kɑːlər  
+美音
+<audio src="./media/collar.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -7282,7 +10093,13 @@ coldness /'kəʊldnəs/ n
 
 
 # ***\#colleague*** n
-英音 'kɒliːɡ     美音 'kɑːliːɡ  
+英音 'kɒliːɡ  
+英音
+<audio src="./media/colleague-B.aac"></audio>
+美音 'kɑːliːɡ  
+美音
+<audio src="./media/colleague.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -7292,7 +10109,13 @@ coldness /'kəʊldnəs/ n
 
 
 # ***\#collect*** v
-英音 kə'lekt     美音 kə'lekt  
+英音 kə'lekt  
+英音
+<audio src="./media/collect-B.aac"></audio>
+美音 kə'lekt  
+美音
+<audio src="./media/collect.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -7307,30 +10130,37 @@ coldness /'kəʊldnəs/ n
 
  > Stamp collectors usually collect stamps only from certain countries or regions.   
  > 集邮者通常只收集某些国家或地区的邮票。  （2012 江西）  
+<audio src="./media/P90 collect2.aac"></audio>
 
 ### 3.*高义频：* **募集；收取 (租金、税等)：**  
 
  > We volunteered to collect money to help the victims of the earthquake.   
  > 我们主动筹钱帮助这次地震中的受害者。    
+<audio src="./media/P90 collect3.aac"></audio>
 
  > The conductor began to collect fares.  
  > 售票员开始收车费了。  （2008 重庆）  
+<audio src="./media/3-collect.aac"></audio>
 
 ### 4.*高义频：* **积聚 (accumulate)；聚集 (gather)：**  
 
  > Dirt has collected in the corners of the room.  
  > 屋子的角落里积满了灰尘。    
+<audio src="./media/4-collect.aac"></audio>
 
  > A crowd collects when there’s a traffic accident.  
  > 出车祸时有许多人围观。    
+<audio src="./media/6-collect.aac"></audio>
 
 ### 5.*高义频：* **取走 (某物)；领走 (某人)(pick up)：**  
 
  > After the rubbish is sorted, it needs to be collected and then taken to the recycling center.  
  > 垃圾分类后需被收运到回收处理中心。    
+<audio src="./media/7-collect.aac"></audio>
 
  > I’ve got to collect the children from school  
  > 我得去学校接孩子。    
+<audio src="./media/8-collect.aac"></audio>
 
 
 固定搭配
@@ -7340,10 +10170,17 @@ coldness /'kəʊldnəs/ n
 
  > I collected my thoughts, took a deep breath, and entered the interview room.  
  > 我镇定了一下，深吸一口气，走进面试的房间。    
+<audio src="./media/9-collect.aac"></audio>
 
 
 # ***\#collection*** n
-英音 kə'lekʃn     美音 kə'lekʃn  
+英音 kə'lekʃn  
+英音
+<audio src="./media/collection-B.aac"></audio>
+美音 kə'lekʃn  
+美音
+<audio src="./media/collection.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 3 |  
 
@@ -7353,6 +10190,7 @@ coldness /'kəʊldnəs/ n
 
  > The first stage in research is data collection.  
  > 研究工作的第一个阶段是收集资料。    
+<audio src="./media/Collection-101_AAC.aac"></audio>
 
  > rubbish collection  
  > 垃圾收取    
@@ -7382,10 +10220,17 @@ coldness /'kəʊldnəs/ n
 
  > The library has **a collection of** 80,000 books and 90 kinds of newspapers and magazines.  
  > 图书馆有8万册藏书和90种报刊杂志。  （2012 湖南）  
+<audio src="./media/Collection-102_AAC.aac"></audio>
 
 
 # ***\#collective*** adj
-英音 kə'lektɪv     美音 kə'lektɪv  
+英音 kə'lektɪv  
+英音
+<audio src="./media/collective-B.aac"></audio>
+美音 kə'lektɪv  
+美音
+<audio src="./media/collective.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -7401,7 +10246,13 @@ coldness /'kəʊldnəs/ n
 
 
 # ***\#college*** n
-英音 'kɒlɪdʒ     美音 'kɑːlɪdʒ  
+英音 'kɒlɪdʒ  
+英音
+<audio src="./media/college-B.aac"></audio>
+美音 'kɑːlɪdʒ  
+美音
+<audio src="./media/college.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -7417,7 +10268,13 @@ coldness /'kəʊldnəs/ n
 
 
 # ***\#collide*** vi
-英音 kə'laɪd     美音 kə'laɪd  
+英音 kə'laɪd  
+英音
+<audio src="./media/collide-B.aac"></audio>
+美音 kə'laɪd  
+美音
+<audio src="./media/collide.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7427,13 +10284,21 @@ coldness /'kəʊldnəs/ n
 
  > The car **collided with** a bus.  
  > 那辆汽车与一辆公共汽车相撞了。    
+<audio src="./media/1-collide.aac"></audio>
 
  > Our opinions **collided over** the matter.  
  > 在那件事上我们的意见不一致。    
+<audio src="./media/2-collide.aac"></audio>
 
 
 # ***\#collision*** n
-英音 kə'lɪʒn     美音 kə'lɪʒn  
+英音 kə'lɪʒn  
+英音
+<audio src="./media/collision-B.aac"></audio>
+美音 kə'lɪʒn  
+美音
+<audio src="./media/collision.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7446,10 +10311,17 @@ coldness /'kəʊldnəs/ n
 
  > He was injured **in** a **collision with** another player.  
  > 他和另外一名选手撞在一起受了伤。    
+<audio src="./media/1-collision.aac"></audio>
 
 
 # ***\#colo(u)r*** n
-英音 'kʌlə(r)     美音 'kʌlər  
+英音 'kʌlə(r)  
+英音
+<audio src="./media/colo(u)r-B.aac"></audio>
+美音 'kʌlər  
+美音
+<audio src="./media/colo(u)r.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -7466,6 +10338,7 @@ coldness /'kəʊldnəs/ n
 
  > Do you want to print the photo **in colour** or black and white?  
  > 你想把照片打印成彩色的还是黑白的？    
+<audio src="./media/P90 colo(u)r2.aac"></audio>
 
 ### 3.*高义频：* **[C] & [U] 肤色；脸色；血色：**  
 
@@ -7474,9 +10347,11 @@ coldness /'kəʊldnəs/ n
 
  > A glass of wine brought some colour to her cheeks.  
  > 喝了杯葡萄酒，让她的脸颊泛起红晕。    
+<audio src="./media/2-colo(u)r.aac"></audio>
 
  > As her illness got worse she lost more and more colour.  
  > 随着病情加重，她的脸色越来越苍白。    
+<audio src="./media/colour-101_AAC.aac"></audio>
 
 
 真题解析
@@ -7487,7 +10362,13 @@ coldness /'kəʊldnəs/ n
 1. in  
 
 # ***\#colo(u)r*** v
-英音 'kʌlə(r)     美音 'kʌlər  
+英音 'kʌlə(r)  
+英音
+<audio src="./media/colo(u)r-B.aac"></audio>
+美音 'kʌlər  
+美音
+<audio src="./media/colo(u)r.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -7500,6 +10381,7 @@ coldness /'kəʊldnəs/ n
 
  > They coloured the wall white.  
  > 他们把墙刷白了。    
+<audio src="./media/4-colo(u)r.aac"></audio>
 
 ### 2.*低义频：* **变色；脸红**  
 
@@ -7510,7 +10392,13 @@ colo(u)red /'kʌləd/ adj
 colo(u)rless /'kʌlələs/ adj   
 
 # ***\#colo(u)rful*** adj
-英音 'kʌləfl     美音 'kʌləfl  
+英音 'kʌləfl  
+英音
+<audio src="./media/colo(u)rful-B.aac"></audio>
+美音 'kʌləfl  
+美音
+<audio src="./media/colo(u)rful.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -7523,6 +10411,7 @@ colo(u)rless /'kʌlələs/ adj
 
  > My life will be much richer and more colourful.  
  > 我的生活将会更加富裕、更加丰富多彩。  （2014 全国书面表达）  
+<audio src="./media/colourful50.aac"></audio>
 
 
 派生词汇
@@ -7530,7 +10419,13 @@ colo(u)rless /'kʌlələs/ adj
 colo(u)rfully /'kʌləfəli/ adv   
 
 # ***\#colo(u)ring*** n
-英音 'kʌlərɪŋ     美音 'kʌlərɪŋ  
+英音 'kʌlərɪŋ  
+英音
+<audio src="./media/colo(u)ring-B.aac"></audio>
+美音 'kʌlərɪŋ  
+美音
+<audio src="./media/colo(u)ring.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7542,7 +10437,13 @@ colo(u)rfully /'kʌləfəli/ adv
 
 
 # ***\#colonel*** n
-英音 'kɜːnl     美音 'kɜːrnl  
+英音 'kɜːnl  
+英音
+<audio src="./media/colonel-B.aac"></audio>
+美音 'kɜːrnl  
+美音
+<audio src="./media/colonel.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7554,7 +10455,13 @@ colo(u)rfully /'kʌləfəli/ adv
 
 
 # ***\#colony*** n
-英音 'kɒləni     美音 'kɑːləni  
+英音 'kɒləni  
+英音
+<audio src="./media/colony1.aac"></audio>
+美音 'kɑːləni  
+美音
+<audio src="./media/colony2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -7564,7 +10471,13 @@ colo(u)rfully /'kʌləfəli/ adv
 
 
 # ***\#colour-blind*** adj
-英音 ˈkʌlə blaɪnd     美音 ˈkʌlər blaɪnd  
+英音 ˈkʌlə blaɪnd  
+英音
+<audio src="./media/colour-blind1_AAC.aac"></audio>
+美音 ˈkʌlər blaɪnd  
+美音
+<audio src="./media/colour-blind2_AAC.aac"></audio>
+
 
   
 
@@ -7574,7 +10487,13 @@ colo(u)rfully /'kʌləfəli/ adv
 
 
 # ***\#coloured*** adj
-英音 ˈkʌləd     美音 ˈkʌlərd  
+英音 ˈkʌləd  
+英音
+<audio src="./media/coloured1_AAC.aac"></audio>
+美音 ˈkʌlərd  
+美音
+<audio src="./media/coloured2_AAC.aac"></audio>
+
 
   
 
@@ -7584,7 +10503,13 @@ colo(u)rfully /'kʌləfəli/ adv
 
 
 # ***\#colourless*** adj
-英音 ˈkʌlələs     美音 ˈkʌlərləs  
+英音 ˈkʌlələs  
+英音
+<audio src="./media/colourless1_AAC.aac"></audio>
+美音 ˈkʌlərləs  
+美音
+<audio src="./media/colourless2_AAC.aac"></audio>
+
 
   
 
@@ -7594,7 +10519,13 @@ colo(u)rfully /'kʌləfəli/ adv
 
 
 # ***\#column*** n
-英音 'kɒləm     美音 'kɑːləm  
+英音 'kɒləm  
+英音
+<audio src="./media/column-B.aac"></audio>
+美音 'kɑːləm  
+美音
+<audio src="./media/column.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 1 |  
 
@@ -7612,15 +10543,23 @@ colo(u)rfully /'kʌləfəli/ adv
 
  > In the first two columns list your sources of income.  
  > 在前两列写出收入来源。    
+<audio src="./media/1-column.aac"></audio>
 
 ### 3.*高义频：* **(报刊等的) 专栏：**  
 
  > I would like the magazine to have three columns: News, Teachers’ Advice and Students’ Voice.  
  > 我希望这份杂志有三个栏目：“新闻”、“教师指导”和“学生之声”。    
+<audio src="./media/2-column.aac"></audio>
 
 
 # ***\#coma*** vi
-英音 'kəʊmə     美音 'koʊmə  
+英音 'kəʊmə  
+英音
+<audio src="./media/coma1.aac"></audio>
+美音 'koʊmə  
+美音
+<audio src="./media/coma2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7630,7 +10569,13 @@ colo(u)rfully /'kʌləfəli/ adv
 
 
 # ***\#comb*** n
-英音 kəʊm     美音 koʊm  
+英音 kəʊm  
+英音
+<audio src="./media/comb-B.aac"></audio>
+美音 koʊm  
+美音
+<audio src="./media/comb.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7640,7 +10585,13 @@ colo(u)rfully /'kʌləfəli/ adv
 
 
 # ***\#comb*** v
-英音 kəʊm     美音 koʊm  
+英音 kəʊm  
+英音
+<audio src="./media/comb-B.aac"></audio>
+美音 koʊm  
+美音
+<audio src="./media/comb.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7650,13 +10601,21 @@ colo(u)rfully /'kʌləfəli/ adv
 
  > Her mother was **combing** her **hair** carefully.  
  > 她母亲正仔细地给她梳头。    
+<audio src="./media/1-comb.aac"></audio>
 
  > They **combed** (through) old newspapers and other materials **for** clues.  
  > 他们搜寻旧报纸和其他资料查找线索。  （2009 湖南改）  
+<audio src="./media/comb18.aac"></audio>
 
 
 # ***\#comb-like*** adj
-英音 'kəʊml'aɪk     美音 'kəʊml'aɪk  
+英音 'kəʊml'aɪk  
+英音
+<audio src="./media/comb-like1_AAC.aac"></audio>
+美音 'kəʊml'aɪk  
+美音
+<audio src="./media/comb-like1_AAC.aac"></audio>
+
 
   
 
@@ -7666,7 +10625,13 @@ colo(u)rfully /'kʌləfəli/ adv
 
 
 # ***\#combat*** n
-英音 'kɒmbæt     美音 'kɑːmbæt  
+英音 'kɒmbæt  
+英音
+<audio src="./media/combat-B.aac"></audio>
+美音 'kɑːmbæt  
+美音
+<audio src="./media/combat.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7676,7 +10641,13 @@ colo(u)rfully /'kʌləfəli/ adv
 
 
 # ***\#combat*** vt
-英音 'kɒmbæt     美音 'kɑːmbæt  
+英音 'kɒmbæt  
+英音
+<audio src="./media/combat-B.aac"></audio>
+美音 'kɑːmbæt  
+美音
+<audio src="./media/combat.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -7686,7 +10657,13 @@ colo(u)rfully /'kʌləfəli/ adv
 
 
 # ***\#combatant*** n
-英音 ˈkɒmbətənt     美音 kəmˈbætnt  
+英音 ˈkɒmbətənt  
+英音
+<audio src="./media/combatant1_AAC.aac"></audio>
+美音 kəmˈbætnt  
+美音
+<audio src="./media/combatant2_AAC.aac"></audio>
+
 
   
 
@@ -7696,7 +10673,13 @@ colo(u)rfully /'kʌləfəli/ adv
 
 
 # ***\#combination*** n
-英音 ˌkɒmbɪ'neɪʃn     美音 ˌkɑːmbɪ'neɪʃn  
+英音 ˌkɒmbɪ'neɪʃn  
+英音
+<audio src="./media/combination-B.aac"></audio>
+美音 ˌkɑːmbɪ'neɪʃn  
+美音
+<audio src="./media/combination.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 2 |  
 
@@ -7708,10 +10691,17 @@ colo(u)rfully /'kʌləfəli/ adv
 
  > Some drugs which are safe when taken separately are dangerous **in combination**.   
  > 某些药品在分开服用时是安全的，但在混合服用时则很危险。    
+<audio src="./media/combination-1.aac"></audio>
 
 
 # ***\#combine*** v
-英音 kəm'baɪn     美音 kəm'baɪn  
+英音 kəm'baɪn  
+英音
+<audio src="./media/combine-B.aac"></audio>
+美音 kəm'baɪn  
+美音
+<audio src="./media/combine.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 2 |  
 
@@ -7721,22 +10711,27 @@ colo(u)rfully /'kʌləfəli/ adv
 
  > Theory must be **combined with** practice.   
  > 理论必须同实践相结合。    
+<audio src="./media/1-combine.aac"></audio>
 
  > The idea of garden city was to **combine** the best of town **and** country in a new kind of settlement.  
  > 花园城市的概念就是在一种新的居住形式中把城市和乡村的优点结合起来。  （2011 江西改）  
+<audio src="./media/2-combine.aac"></audio>
 
 ### 2.*高义频：* **(使) 化合；(使) 混合：**  
 
  > Steel is produced by **combining** iron **with** carbon.  
  > 钢是把铁加碳混合炼制而成的。    
+<audio src="./media/3-combine.aac"></audio>
 
 ### 3.*高义频：* **兼备；兼顾：**  
 
  > The hotel **combines** comfort **and** convenience.  
  > 这家宾馆既舒适又方便。    
+<audio src="./media/4-combine.aac"></audio>
 
  > Like her mother Marie Curie, Irene **combined** family **and** career.  
  > 像她的母亲居里夫人一样，艾琳也兼顾了家庭与事业。  （2011 陕西改）  
+<audio src="./media/5-combine.aac"></audio>
 
 
 派生词汇
@@ -7753,7 +10748,13 @@ combination /ˌkɒmbɪ'neɪʃn/ n [C]
 1. combining  2. combined  
 
 # ***\#come*** vi  重难点词汇
-英音 kʌm     美音 kʌm  
+英音 kʌm  
+英音
+<audio src="./media/come-B.aac"></audio>
+美音 kʌm  
+美音
+<audio src="./media/come.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -7766,14 +10767,17 @@ combination /ˌkɒmbɪ'neɪʃn/ n [C]
 
  > The National Day is coming soon.  
  > 国庆节很快就要到了。    
+<audio src="./media/1-come.aac"></audio>
 
  > The lovely pupils **came running** to meet their teacher.   
  > 可爱的小学生们跑来迎接他们的老师。    
+<audio src="./media/2-come.aac"></audio>
 
 ### 2.*高义频：* **达到；处于 (某一位置或状态)：**  
 
  > I **came last** in the competition.  
  > 这次比赛我排最后一名。    
+<audio src="./media/3-come.aac"></audio>
 
  > **come to / into**:  
  >     
@@ -7789,6 +10793,7 @@ combination /ˌkɒmbɪ'neɪʃn/ n [C]
 
  > In the 1990s the shawls came into fashion among rich people.  
  > 20世纪90年代，披巾在富人中流行起来。  （外研⑤ – 6）  
+<audio src="./media/4-come.aac"></audio>
 
 ### 3.*高义频：* **变为；变成：**  
 
@@ -7796,6 +10801,7 @@ combination /ˌkɒmbɪ'neɪʃn/ n [C]
 
  > May all your dreams **come true**!  
  > 祝你们梦想成真！    
+<audio src="./media/May all your dreams come true2_AAC.aac"></audio>
 
 ### 4.*高义频：* **渐渐开始：**  
 
@@ -7804,14 +10810,17 @@ combination /ˌkɒmbɪ'neɪʃn/ n [C]
 
  > Now I am in college, and have come to realize how important it is to read fiction.  
  > 我现在在上大学，开始认识到读小说是多么重要。  （2010 四川）  
+<audio src="./media/Now I am in college2_AAC.aac"></audio>
 
 ### 5.*高义频：* **(货物、产品等) 有生产；有供应：**  
 
  > Bicycles come in different colors — silver, green, red, blue, yellow, whatever you want.  
  > 有各种颜色的自行车——银色、绿色、蓝色、黄色，你想要什么颜色的都有。  （2013 辽宁改）  
+<audio src="./media/7-come.aac"></audio>
 
  > When do strawberries **come in**?  
  > 草莓什么时候上市？    
+<audio src="./media/8-come.aac"></audio>
 
 
 固定搭配
@@ -7821,37 +10830,45 @@ combination /ˌkɒmbɪ'neɪʃn/ n [C]
 
  > Please tell me how the accident came about.  
  > 请告诉我事故是怎么发生的。    
+<audio src="./media/1-come-.aac"></audio>
 
  > The flood came about as a result of the heavy rain.  
  > 大雨引发了洪水。    
+<audio src="./media/2-come-.aac"></audio>
 
 ## \#come across
 1.*高义频：* **偶然遇到；碰见 (meet)：**  
 
  > When reading articles related to science, we often come across difficult or unfamiliar words.  
  > 读与科学相关的文章时，我们常常碰到难词或生词。  （译林⑤ – 3）  
+<audio src="./media/3-come-.aac"></audio>
 
 2.*低义频：* **被理解：**  
 
  > He spoke for a long time, but his meaning did not come across.  
  > 他讲了很久，但还是没有把意思讲明白。    
+<audio src="./media/4-come-.aac"></audio>
 
 3.*高义频：* **给人以…印象 (come over)**  
 
  > He came across as a sympathetic person.  
  > 他给人的印象是一个富有同情心的人。    
+<audio src="./media/He came across as a sympathetic person2_AAC.aac"></audio>
 
 ## \#come along
 1.**一起来；出现；（非正式用语）进展：**  
 
  > Are you sure you really want all our friends to come along?  
  > 你确定你真想让我们的朋友都一起来吗？    
+<audio src="./media/5-come-.aac"></audio>
 
  > When the right opportunity comes along, take it.  
  > 好机会出现时要抓住它。    
+<audio src="./media/6-come-.aac"></audio>
 
  > The patient is coming along well after the operation.  
  > 手术后病人的状况良好。    
+<audio src="./media/7-come-.aac"></audio>
 
 ## \#come and go
 1.**来来去去；时有时无**  
@@ -7861,64 +10878,77 @@ combination /ˌkɒmbɪ'neɪʃn/ n [C]
 
  > Come around when you have time.  
  > 有空时过来玩吧。    
+<audio src="./media/8-come-.aac"></audio>
 
 2.*高义频：* **发生；降临：**  
 
  > With the summer vacation coming around, some students begin to make plans for it.  
  > 随着暑假的到来，一些学生开始为之做打算。    
+<audio src="./media/Come-101_AAC.aac"></audio>
 
 3.*低义频：* **改变观点：**  
 
  > It took him a while to come around to the idea.  
  > 他过了一会才改变观点，接受这个主意。    
+<audio src="./media/Come-102_AAC.aac"></audio>
 
 ## \#come back 
 1.**回来 (return)；再度流行：**  
 
  > Long skirts have been out of fashion for a long time, but they are coming back.   
  > 长裙已经过时很长时间，但又要流行起来。    
+<audio src="./media/P92 come back.aac"></audio>
 
 ## \#come by 
 1.**顺路看望；获得 (稀有或很难得到的事物)：**  
 
  > She said she’d come by later.   
  > 她说晚些时候再过来。    
+<audio src="./media/p92 come by1.aac"></audio>
 
  > Jobs are hard to come by these days.  
  > 如今找工作很难。    
+<audio src="./media/p92 come by2.aac"></audio>
 
 ## \#come down
 1.**下来；下降；倒塌：**  
 
  > House prices are coming down soon.   
  > 房价很快就要降了。    
+<audio src="./media/P92 come down.aac"></audio>
 
  > That old building came down on a rainy morning.  
  > 那座老楼房在一个雨天的早晨倒塌了。    
+<audio src="./media/11-come-.aac"></audio>
 
 ## \#come down to
 1.**归结为；传到…手里：**  
 
  > Their quarrel comes down to money.   
  > 他们吵架说到底是因为钱。    
+<audio src="./media/12-come-.aac"></audio>
 
  > The custom has come down to us from our old generations.  
  > 这个习俗是从祖辈传下来的。    
+<audio src="./media/13-come-.aac"></audio>
 
 ## \#come from 
 1.**出生于；来自；产自；源自于：**  
 
  > My success came from good planning and better doing combined.  
  > 我的成功源自良好的计划和更好的行动相结合。  （2016 浙江书面表达改）  
+<audio src="./media/come51.aac"></audio>
 
 ## \#come in 
 1.**到达；被收到；取得 (名次)：**  
 
  > What time does your train come in?   
  > 你的那趟火车什么时候到达？    
+<audio src="./media/P92 come in1.aac"></audio>
 
  > His horse came in second.   
  > 他的马跑了第二名。    
+<audio src="./media/P92 come in2.aac"></audio>
 
 ## \#come off
 1.*高义频：* **(从…) 离开：**  
@@ -7928,124 +10958,151 @@ combination /ˌkɒmbɪ'neɪʃn/ n [C]
 
  > People coming off a busy spring and summer have a moment of relaxation.  
  > 人们度过了繁忙的春夏，有了片刻的清闲。  （2011 福建）  
+<audio src="./media/14-come-.aac"></audio>
 
 2.*高义频：* **脱落；掉下：**  
 
  > A wheel had come off.  
  > 车轮脱落了。    
+<audio src="./media/Come-103_AAC.aac"></audio>
 
 3.*低义频：* **结果是；成为：**  
 
  > If you check your e-mail while on the phone with a friend, you may come off as absent-minded.  
  > 如果在跟朋友通电话时查看电子邮件，你可能会显得心不在焉。  （2010 浙江改）  
+<audio src="./media/16-come-.aac"></audio>
 
 ## \#come on
 1.**快点；进展；算了吧：**  
 
  > Come on! We don’t have much time.  
  > 快点！我们时间不多了。    
+<audio src="./media/17-come-.aac"></audio>
 
  > The knee’s coming on fine; I’m walking comfortably already.  
  > 我的膝盖恢复得很好，现在走路已经不疼了。    
+<audio src="./media/18-come-.aac"></audio>
 
  > Oh, come on — you know that isn’t true!  
  > 哦，得了吧——你知道那不是真的！    
+<audio src="./media/19-come-.aac"></audio>
 
 ## \#come out
 1.*高义频：* **出来：**  
 
  > The rain stopped and the sun came out.  
  > 雨停了，太阳出来了。    
+<audio src="./media/20-come-.aac"></audio>
 
  > The neighbors **came out of** their houses to see if we had a gas leak.  
  > 邻居们走出家门看我们家是否发生了煤气泄漏。  （2015 四川）  
+<audio src="./media/P92 come out2.aac"></audio>
 
 2.*高义频：* **出版；发行；面市：**  
 
  > My first novel came out while I was at college.  
  > 我在上大学时出版了我的第一部小说。    
+<audio src="./media/Come-104_AAC.aac"></audio>
 
 3.*高义频：* **显现；结果是；（照片）清楚地冲洗出来：**  
 
  > Let me know how the voting comes out.  
  > 告诉我投票结果。    
+<audio src="./media/22-come-.aac"></audio>
 
  > **It came out that** some government officials received money from the company.  
  > 真相是一些政府官员收了那家公司的钱。  （北师大⑦ – 20）  
+<audio src="./media/23-come-.aac"></audio>
 
 ## \#come over
 1.*低义频：* **来访；拜访 (come around)：**  
 
  > My aunt came over for a visit yesterday.  
  > 昨天我姑姑来访。    
+<audio src="./media/24-come-.aac"></audio>
 
 2.*低义频：* **(使) 某人突然感觉到：**  
 
  > I came over all shy whenever I saw her.  
  > 无论何时见到她我都很害羞。    
+<audio src="./media/25-come-.aac"></audio>
 
  > A wave of sleepiness came over him.  
  > 他突然犯困了。    
+<audio src="./media/26-come-.aac"></audio>
 
 ## \#come to sb 
 1.**被某人想到：**  
 
  > The answer came to me in a flash.   
  > 我突然想到了答案。    
+<audio src="./media/P92 come to sb.aac"></audio>
 
 ## \#come up
 1.*高义频：* **上来；上升 (rise)：**  
 
  > Come up! I’m upstairs!  
  > 上来！我在楼上！    
+<audio src="./media/27-come-.aac"></audio>
 
  > We watched the sun come up.  
  > 我们看着太阳升了起来。    
+<audio src="./media/28-come-.aac"></audio>
 
  > I planted some lily seeds in the yard. But they failed to come up.  
  > 我在院子里种了些百合花种子，但它们没有发芽。  （2012 重庆）  
+<audio src="./media/Come-105_AAC.aac"></audio>
 
 2.*高义频：* **走近；靠近：**  
 
  > He **came up to** me and asked me the way to the station.  
  > 他走近我，问我去车站的路怎么走。    
+<audio src="./media/29-come-.aac"></audio>
 
 3.*高义频：* **被提出；被提及 (arise)：**  
 
  > The “air pollution” topic comes up every year.  
  > 空气污染这个话题每年都会被提及。    
+<audio src="./media/Come-106_AAC.aac"></audio>
 
 4.*高义频：* **发生；即将到来：**  
 
  > I’m afraid I can’t go — something’s come up.  
  > 恐怕我不能去了——出了点事情。    
+<audio src="./media/32-come-.aac"></audio>
 
  > Danny, I heard your birthday is coming up.  
  > 丹尼，我听说你的生日快到了。    
+<audio src="./media/30-come-.aac"></audio>
 
 ## \#come up with
 1.**想出；提出；提供：**  
 
  > Our class came up with the idea to make better use of used materials.  
  > 我们班的同学提出了这一想法，以更好利用废旧材料。  （2016 北京书面表达）  
+<audio src="./media/come52.aac"></audio>
 
  > They want to buy the house, but they couldn’t come up with the cash.  
  > 他们想买房，但是拿不出这笔现金。    
+<audio src="./media/34-come-.aac"></audio>
 
 ## \#to come 
 1.**将来；未来：**  
 
  > When you sleep, your body prepares you for the day to come.  
  > 在睡眠时，你的身体在为迎接新的一天做着准备。  （译林① – 3）  
+<audio src="./media/35-come-.aac"></audio>
 
 ## \#when it comes to (doing) sth
 1.**在某方面；说到 (做) 某事：**  
 
  > Both groups scored similarly when it came to memorizing facts.   
  > 在记忆事实方面两组得分差不多。  （2014 辽宁）  
+<audio src="./media/P92 when it comes to1.aac"></audio>
 
  > When it comes to friends, I desire those who will share my happiness.   
  > 说到朋友，我渴望那些会分享我的快乐的人。  （2008 北京）  
+<audio src="./media/P92 when it comes to2.aac"></audio>
 
 
 真题解析
@@ -8074,7 +11131,13 @@ D.Take it easy
 1. C  2. C  3. across  4. along  5.  with  6. down  7. about  
 
 # ***\#comeback*** n
-英音 'kʌmbæk     美音 'kʌmbæk  
+英音 'kʌmbæk  
+英音
+<audio src="./media/comeback1_AAC.aac"></audio>
+美音 'kʌmbæk  
+美音
+<audio src="./media/comeback2_AAC.aac"></audio>
+
 
   
 
@@ -8084,7 +11147,13 @@ D.Take it easy
 
 
 # ***\#comedian*** n
-英音 kə'miːdiən     美音 kə'miːdiən  
+英音 kə'miːdiən  
+英音
+<audio src="./media/comedian1.aac"></audio>
+美音 kə'miːdiən  
+美音
+<audio src="./media/comedian2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8094,7 +11163,13 @@ D.Take it easy
 
 
 # ***\#comedy*** n
-英音 'kɒmədi     美音 'kɑːmədi  
+英音 'kɒmədi  
+英音
+<audio src="./media/comedy-B.aac"></audio>
+美音 'kɑːmədi  
+美音
+<audio src="./media/comedy.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -8106,10 +11181,17 @@ D.Take it easy
 
  > The Big Bang Theory is a highly successfully TV comedy.  
  > 《生活大爆炸》是一部极为成功的电视喜剧。    
+<audio src="./media/1-comedy.aac"></audio>
 
 
 # ***\#comet*** n
-英音 'kɒmɪt     美音 'kɑːmət  
+英音 'kɒmɪt  
+英音
+<audio src="./media/comet-B.aac"></audio>
+美音 'kɑːmət  
+美音
+<audio src="./media/comet.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -8121,7 +11203,13 @@ D.Take it easy
 
 
 # ***\#comfort*** n
-英音 'kʌmfət     美音 'kʌmfərt  
+英音 'kʌmfət  
+英音
+<audio src="./media/comfort-B.aac"></audio>
+美音 'kʌmfərt  
+美音
+<audio src="./media/comfort.aac"></audio>
+
 
 | 词频 4 | 书面 1 |  
 
@@ -8131,29 +11219,41 @@ D.Take it easy
 
  > Walk out of our **comfort zone** and try new things!   
  > 走出我们的舒适地带，尝试新事物！  （2015 湖南）  
+<audio src="./media/P93 comfort1.aac"></audio>
 
  > Teenagers can write and make music using a computer programme **in the comfort of** their own bedroom.   
  > 青少年可以舒舒服服地在自己的卧室里用计算机程序作曲和制作音乐。  （2014 安徽）  
+<audio src="./media/P93 comfort2.aac"></audio>
 
  > When Dad died, he left me enough to **live in comfort** the rest of my life.  
  > 父亲去世后，留给我的钱财足够我舒适地过完这辈子。    
+<audio src="./media/2-comfort.aac"></audio>
 
 ### 2.*高义频：* **[U] 安慰；慰藉：**  
 
  > We **find comfort in** giving care and receiving care in return.  
  > 我们在给予关怀和得到关怀中找到安慰。  （2013 陕西）  
+<audio src="./media/3-comfort.aac"></audio>
 
  > For some people, an animal **provides** more **comfort** than a husband or wife.  
  > 对于有些人来说，动物比配偶更能给自己带来安慰。  （2010 全国改）  
+<audio src="./media/4-comfort.aac"></audio>
 
 ### 3.*高义频：* **[C] 令人感到安慰的人或物：**  
 
  > A hot cup of milk on a cold night is a real comfort.  
  > 在寒冷的夜晚喝杯热牛奶真舒服。    
+<audio src="./media/5-comfort.aac"></audio>
 
 
 # ***\#comfort*** vt
-英音 'kʌmfət     美音 'kʌmfərt  
+英音 'kʌmfət  
+英音
+<audio src="./media/comfort-B.aac"></audio>
+美音 'kʌmfərt  
+美音
+<audio src="./media/comfort.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -8163,10 +11263,17 @@ D.Take it easy
 
  > My teacher comforted me, saying “Don’t worry. You can do better next time.”  
  > 老师安慰我说：“别担心，下次你会做得更好。”  （2008 浙江）  
+<audio src="./media/6-comfort.aac"></audio>
 
 
 # ***\#comfortable*** adj
-英音 'kʌmftəbl     美音 'kʌmftəbl  
+英音 'kʌmftəbl  
+英音
+<audio src="./media/comfortable-B.aac"></audio>
+美音 'kʌmftəbl  
+美音
+<audio src="./media/comfortable.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -8183,14 +11290,17 @@ D.Take it easy
 
  > Please **make yourself comfortable**.  
  > 请别客气。    
+<audio src="./media/1-comfortable.aac"></audio>
 
  > Leaning back, she put her feet onto the sofa to get comfortable.  
  > 为了舒服，她向后靠了靠，把脚放在沙发上。  （2011 江西）  
+<audio src="./media/2-comfortable.aac"></audio>
 
 ### 3.*高义频：* **宽裕的；小康的：**  
 
  > My parents are not wealthy but they’re quite comfortable.   
  > 我的父母虽不富有，但他们生活还算宽裕。    
+<audio src="./media/P93 comfortable-2.aac"></audio>
 
 
 派生词汇
@@ -8198,10 +11308,17 @@ D.Take it easy
 comfortably /'kʌmftəbli;'kʌmfətəbli/ adv   
  > All the rooms were comfortably furnished.  
  > 所有的房间都配有舒适的家具。    
+<audio src="./media/3-comfortable.aac"></audio>
 
 
 # ***\#comfortably*** adv
-英音 ˈkʌmftəbli，ˈkʌmfətəbli     美音 ˈkʌmftəbli，ˈkʌmfərtəbli  
+英音 ˈkʌmftəbli，ˈkʌmfətəbli  
+英音
+<audio src="./media/comfortably1_AAC.aac"></audio>
+美音 ˈkʌmftəbli，ˈkʌmfərtəbli  
+美音
+<audio src="./media/comfortably2_AAC.aac"></audio>
+
 
   
 
@@ -8211,7 +11328,13 @@ comfortably /'kʌmftəbli;'kʌmfətəbli/ adv
 
 
 # ***\#comic*** adj
-英音 'kɑːmɪk     美音 'kɑːmɪk  
+英音 'kɑːmɪk  
+英音
+<audio src="./media/comic1_AAC.aac"></audio>
+美音 'kɑːmɪk  
+美音
+<audio src="./media/comic2_AAC.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8221,7 +11344,13 @@ comfortably /'kʌmftəbli;'kʌmfətəbli/ adv
 
 
 # ***\#comic*** n
-英音 'kɑːmɪk     美音 'kɑːmɪk  
+英音 'kɑːmɪk  
+英音
+<audio src="./media/comic1_AAC.aac"></audio>
+美音 'kɑːmɪk  
+美音
+<audio src="./media/comic2_AAC.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8231,7 +11360,13 @@ comfortably /'kʌmftəbli;'kʌmfətəbli/ adv
 
 
 # ***\#coming*** adj
-英音 'kʌmɪŋ     美音 'kʌmɪŋ  
+英音 'kʌmɪŋ  
+英音
+<audio src="./media/coming-B.aac"></audio>
+美音 'kʌmɪŋ  
+美音
+<audio src="./media/coming.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -8244,7 +11379,13 @@ comfortably /'kʌmftəbli;'kʌmfətəbli/ adv
 
 
 # ***\#command*** n  重难点词汇
-英音 kə'mɑːnd     美音 kə'mænd  
+英音 kə'mɑːnd  
+英音
+<audio src="./media/command-B.aac"></audio>
+美音 kə'mænd  
+美音
+<audio src="./media/command.aac"></audio>
+
 
 | 词频 3 | 书面 1 | 阅读 2 |  
 
@@ -8255,27 +11396,37 @@ comfortably /'kʌmftəbli;'kʌmfətəbli/ adv
 
  > A soldier should obey commands.  
  > 士兵应服从命令。    
+<audio src="./media/1-command.aac"></audio>
 
 ### 2.*高义频：* **[U] 指挥；控制**  
 英译 the control of a group of people or a situation：
 
  > The fire officer **took command**, ordering everyone to leave the building.  
  > 消防员开始指挥，命令所有人都要离开大楼。    
+<audio src="./media/2-command.aac"></audio>
 
  > He has 500 men **under his command**.  
  > 他管着500人。    
+<audio src="./media/3-command.aac"></audio>
 
 ### 3.*低义频：* **[U] [常用单数](尤指对语言的) 掌握；运用能力**  
 英译 the knowledge of sth or ability to use sth, especially a language：
 
  > I **have** such **a good command of** English that I am elected as assistant to my English teacher.  
  > 我英语学得很好，因此被选为英语老师的助手。  （2015 陕西书面表达）  
+<audio src="./media/command50.aac"></audio>
 
 ### 4.*高义频：* **[C] (计算机的) 指令**  
 
 
 # ***\#command*** vt  重难点词汇
-英音 kə'mɑːnd     美音 kə'mænd  
+英音 kə'mɑːnd  
+英音
+<audio src="./media/command-B.aac"></audio>
+美音 kə'mænd  
+美音
+<audio src="./media/command.aac"></audio>
+
 
 | 词频 3 | 阅读 2 |  
 
@@ -8285,21 +11436,25 @@ comfortably /'kʌmftəbli;'kʌmfətəbli/ adv
 
  > The judge commanded silence.  
  > 法官命令大家安静。    
+<audio src="./media/5-command.aac"></audio>
 
 - command sb to do sth:
 
  > The captain commanded his men to fire.  
  > 上尉命令他的士兵开火。    
+<audio src="./media/9-command.aac"></audio>
 
 - command + that ... (should) do sth:
 
  > He commanded that the troops (should) cross the water.  
  > 他命令军队渡河。    
+<audio src="./media/Command-101_AAC.aac"></audio>
 
 ### 2.*低义频：* **获得；赢得：**  
 
  > Large football clubs benefit financially from TV income and the top players can **command** very large **salaries**.  
  > 大型足球俱乐部从电视收入中获得利润，顶尖的运动员也能得到高额的薪水。  （2011 江西）  
+<audio src="./media/P93 command-1.aac"></audio>
 
 
 派生词汇
@@ -8307,7 +11462,13 @@ comfortably /'kʌmftəbli;'kʌmfətəbli/ adv
 commander /kə'mɑːndə(r)/ n   
 
 # ***\#commander*** n
-英音 kə'mɑːndə(r)     美音 kə'mændər  
+英音 kə'mɑːndə(r)  
+英音
+<audio src="./media/commander1.aac"></audio>
+美音 kə'mændər  
+美音
+<audio src="./media/commander2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8317,7 +11478,13 @@ commander /kə'mɑːndə(r)/ n
 
 
 # ***\#commemorate*** v
-英音 kəˈmeməreɪt     美音 kəˈmeməreɪt  
+英音 kəˈmeməreɪt  
+英音
+<audio src="./media/commemorate1_AAC.aac"></audio>
+美音 kəˈmeməreɪt  
+美音
+<audio src="./media/commemorate2_AAC.aac"></audio>
+
 
   
 
@@ -8327,7 +11494,13 @@ commander /kə'mɑːndə(r)/ n
 
 
 # ***\#comment*** n
-英音 'kɒment     美音 'kɑːment  
+英音 'kɒment  
+英音
+<audio src="./media/comment-B.aac"></audio>
+美音 'kɑːment  
+美音
+<audio src="./media/comment.aac"></audio>
+
 
 | 词频 3 | 口语 3 | 书面 2 | 阅读 3 |  
 
@@ -8342,10 +11515,17 @@ commander /kə'mɑːndə(r)/ n
 
  > It is impolite to **make** unfavourable **comments on** a person’s appearance.   
  > 对他人的外貌作负面评价是不礼貌的。  （人教⑦ – 2）  
+<audio src="./media/1-comment.aac"></audio>
 
 
 # ***\#comment*** v
-英音 'kɒment     美音 'kɑːment  
+英音 'kɒment  
+英音
+<audio src="./media/comment-B.aac"></audio>
+美音 'kɑːment  
+美音
+<audio src="./media/comment.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 3 |  
 
@@ -8357,13 +11537,21 @@ commander /kə'mɑːndə(r)/ n
 
  > They are always **commenting on / upon** what I’m wearing.  
  > 他们总是对我的穿着评头论足。    
+<audio src="./media/2-comment.aac"></audio>
 
  > The discovery is hardly commented by the press.  
  > 这个发现新闻界几乎未作评论。    
+<audio src="./media/3-comment.aac"></audio>
 
 
 # ***\#commentary*** n
-英音 'kɒməntri     美音 'kɑːmənteri  
+英音 'kɒməntri  
+英音
+<audio src="./media/commentary1.aac"></audio>
+美音 'kɑːmənteri  
+美音
+<audio src="./media/commentary2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8373,7 +11561,13 @@ commander /kə'mɑːndə(r)/ n
 
 
 # ***\#commentator*** n
-英音 'kɒmənteɪtə(r)     美音 'kɑːmənteɪtər  
+英音 'kɒmənteɪtə(r)  
+英音
+<audio src="./media/commentator1.aac"></audio>
+美音 'kɑːmənteɪtər  
+美音
+<audio src="./media/commentator2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -8383,7 +11577,13 @@ commander /kə'mɑːndə(r)/ n
 
 
 # ***\#commerce*** n
-英音 'kɒmɜːs     美音 'kɑːmɜːrs  
+英音 'kɒmɜːs  
+英音
+<audio src="./media/commerce-B.aac"></audio>
+美音 'kɑːmɜːrs  
+美音
+<audio src="./media/commerce.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8396,7 +11596,13 @@ commander /kə'mɑːndə(r)/ n
 
 
 # ***\#commercial*** adj
-英音 kə'mɜːʃl     美音 kə'mɜːrʃl  
+英音 kə'mɜːʃl  
+英音
+<audio src="./media/commercial-B.aac"></audio>
+美音 kə'mɜːrʃl  
+美音
+<audio src="./media/commercial.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 3 |  
 
@@ -8409,13 +11615,21 @@ commander /kə'mɑːndə(r)/ n
 
  > The movie was not a commercial success.  
  > 这部电影票房收入不佳。    
+<audio src="./media/Commercial-101_AAC.aac"></audio>
 
  > Intellectual property is a product of the mind that has commercial value.   
  > 知识产权是具有商业价值的脑力劳动产品。  （2008 江西）  
+<audio src="./media/2-commercial.aac"></audio>
 
 
 # ***\#commercial*** n
-英音 kə'mɜːʃl     美音 kə'mɜːrʃl  
+英音 kə'mɜːʃl  
+英音
+<audio src="./media/commercial-B.aac"></audio>
+美音 kə'mɜːrʃl  
+美音
+<audio src="./media/commercial.aac"></audio>
+
 
 | 词频 3 | 阅读 3 |  
 
@@ -8428,7 +11642,13 @@ commander /kə'mɑːndə(r)/ n
 
 
 # ***\#commercialisation*** n
-英音 kəˌmɜːʃəlaɪ'zeɪʃn     美音 kəˌmɜːrʃlaɪ'zeɪʃn  
+英音 kəˌmɜːʃəlaɪ'zeɪʃn  
+英音
+<audio src="./media/commercialisation1_AAC.aac"></audio>
+美音 kəˌmɜːrʃlaɪ'zeɪʃn  
+美音
+<audio src="./media/commercialisation2_AAC.aac"></audio>
+
 
   
 
@@ -8438,7 +11658,13 @@ commander /kə'mɑːndə(r)/ n
 
 
 # ***\#commercialise*** vt
-英音 kə'mɜːʃəlaɪz     美音 kə'mɜːrʃəlaɪz  
+英音 kə'mɜːʃəlaɪz  
+英音
+<audio src="./media/commercialise1_AAC.aac"></audio>
+美音 kə'mɜːrʃəlaɪz  
+美音
+<audio src="./media/commercialise1_AAC.aac"></audio>
+
 
   
 
@@ -8448,7 +11674,13 @@ commander /kə'mɑːndə(r)/ n
 
 
 # ***\#commission*** n
-英音 kə'mɪʃn     美音 kə'mɪʃn  
+英音 kə'mɪʃn  
+英音
+<audio src="./media/commission-B.aac"></audio>
+美音 kə'mɪʃn  
+美音
+<audio src="./media/commission.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 1 |  
 
@@ -8464,10 +11696,17 @@ commander /kə'mɑːndə(r)/ n
 
  > We take a commission charge of 2.25% of each cash withdrawal you make.  
  > 对你提取的每笔现金，我们都收取2.25%的手续费。  （2008 福建）  
+<audio src="./media/1-commission.aac"></audio>
 
 
 # ***\#commit*** vt  重难点词汇
-英音 kə'mɪt     美音 kə'mɪt  
+英音 kə'mɪt  
+英音
+<audio src="./media/commit-B.aac"></audio>
+美音 kə'mɪt  
+美音
+<audio src="./media/commit.aac"></audio>
+
 
 | 词频 2 | 口语 2 | 书面 2 | 阅读 2 |  
 
@@ -8481,12 +11720,14 @@ commander /kə'mɑːndə(r)/ n
 
  > Smoking is **committing suicide** slowly.   
  > 吸烟等于慢性自杀。  （译林④ – 1）  
+<audio src="./media/1-commit.aac"></audio>
 
 ### 2.*高义频：* **(使) 承担义务；(使) 作出保证**  
 英译 to make a definite agreement or promise to do sth：
 
  > The world has already **committed to establishing** a Climate Adaptation Fund.   
  > 世界各国已承诺建立气候应对基金。  （2008 上海改）  
+<audio src="./media/2-commit.aac"></audio>
 
 ### 3.*低义频：* **投入**  
 英译 to spend money or time on sth / sb：
@@ -8505,10 +11746,17 @@ committed /kə'mɪtɪd/ adj
 
  > He loved playing this instrument, and was **committed to** practicing it.  
  > 他喜欢演奏这种乐器并坚持练习。  （2017 江苏）  
+<audio src="./media/Commit-101_AAC.aac"></audio>
 
 
 # ***\#commitment*** n
-英音 kə'mɪtmənt     美音 kə'mɪtmənt  
+英音 kə'mɪtmənt  
+英音
+<audio src="./media/commitment-B.aac"></audio>
+美音 kə'mɪtmənt  
+美音
+<audio src="./media/commitment.aac"></audio>
+
 
 | 词频 2 | 口语 2 | 书面 2 | 阅读 2 |  
 
@@ -8519,17 +11767,20 @@ committed /kə'mɪtɪd/ adj
 
  > A career as an actor requires one hundred percent commitment.   
  > 演员这一行需要百分之百的投入。    
+<audio src="./media/1-commitment.aac"></audio>
 
 ### 2.*高义频：* **[C] 承诺；许诺；保证**  
 英译 a promise or agreement to do sth; a responsibility：
 
  > She has **made a commitment to going** bottle free.   
  > 她承诺不饮用瓶装水。  （2008 湖北）  
+<audio src="./media/2-commitment.aac"></audio>
 
 ### 3.*高义频：* **[C] 承诺的事 / 责任：**  
 
  > I’m overworked at the moment — I’ve taken on too many commitments.  
  > 我目前劳累过度，承担的事情太多了。    
+<audio src="./media/3-commitment.aac"></audio>
 
 
 真题解析
@@ -8544,7 +11795,13 @@ D.ambition
 1. B  
 
 # ***\#committed*** adj
-英音 kə'mɪtɪd     美音 kə'mɪtɪd  
+英音 kə'mɪtɪd  
+英音
+<audio src="./media/committed1.aac"></audio>
+美音 kə'mɪtɪd  
+美音
+<audio src="./media/committed2.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -8554,7 +11811,13 @@ D.ambition
 
 
 # ***\#committee*** n
-英音 kə'mɪti     美音 kə'mɪti  
+英音 kə'mɪti  
+英音
+<audio src="./media/committee-B.aac"></audio>
+美音 kə'mɪti  
+美音
+<audio src="./media/committee.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 3 |  
 
@@ -8565,10 +11828,17 @@ D.ambition
 
  > The committee has / have decided to dismiss him.   
  > 委员会已决定辞退他。    
+<audio src="./media/1-committee.aac"></audio>
 
 
 # ***\#commodity*** n
-英音 kə'mɒdəti     美音 kə'mɑːdəti  
+英音 kə'mɒdəti  
+英音
+<audio src="./media/commodity2.aac"></audio>
+美音 kə'mɑːdəti  
+美音
+<audio src="./media/commodity2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8578,7 +11848,13 @@ D.ambition
 
 
 # ***\#common*** adj
-英音 'kɒmən     美音 'kɑːmən  
+英音 'kɒmən  
+英音
+<audio src="./media/common-B.aac"></audio>
+美音 'kɑːmən  
+美音
+<audio src="./media/common.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -8594,6 +11870,7 @@ D.ambition
 
  > **It’s common for** people **to** wear masks in foggy days.   
  > 在雾天人们戴口罩很常见。    
+<audio src="./media/1-common.aac"></audio>
 
 Notes: common的比较级和最高级有两种形式： commoner / commonest和more common / most common，后者更常用。  
 ### 2.*高义频：* **共同的；共有的：**  
@@ -8603,6 +11880,7 @@ Notes: common的比较级和最高级有两种形式： commoner / commonest和m
 
  > Choosing friends with common interests is important in building friendship.   
  > 选择志趣相投的朋友对建立友谊很重要。  （2012 辽宁改）  
+<audio src="./media/2-common.aac"></audio>
 
 ### 3.*高义频：* **普通的；寻常的：**  
 
@@ -8617,9 +11895,11 @@ Notes: common的比较级和最高级有两种形式： commoner / commonest和m
 **usual** 表示由于长时间没有变化而形成了一种习惯或制度，强调习惯性。
  > He arrived later than usual.   
  > 他到得比平时晚。    
+<audio src="./media/5-common.aac"></audio>
 
  > It is usual for him to sit up late at night.   
  > 他熬夜已成习惯。    
+<audio src="./media/It is usual for.aac"></audio>
 
 
 
@@ -8628,7 +11908,13 @@ Notes: common的比较级和最高级有两种形式： commoner / commonest和m
 commonly /'kɑːmənli/ adv   
 
 # ***\#common*** n
-英音 'kɒmən     美音 'kɑːmən  
+英音 'kɒmən  
+英音
+<audio src="./media/common-B.aac"></audio>
+美音 'kɑːmən  
+美音
+<audio src="./media/common.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -8641,15 +11927,18 @@ commonly /'kɑːmənli/ adv
 
  > We have a lot in common and have a lot to talk about.  
  > 我们有许多共同点，因此有很多话题可聊。    
+<audio src="./media/7-common.aac"></audio>
 
  > I have nothing in common with Jane.   
  > 我和简毫无共同之处。    
+<audio src="./media/8-common.aac"></audio>
 
 ## \#in common with
 1.**与…一样：**  
 
  > In common with other students, Tom is seldom late for school.   
  > 和其他学生一样，汤姆很少上学迟到。    
+<audio src="./media/9-common.aac"></audio>
 
 
 派生词汇
@@ -8668,7 +11957,13 @@ D.usual
 1. A  
 
 # ***\#communicate*** v
-英音 kə'mjuːnɪkeɪt     美音 kə'mjuːnɪkeɪt  
+英音 kə'mjuːnɪkeɪt  
+英音
+<audio src="./media/communicate-B.aac"></audio>
+美音 kə'mjuːnɪkeɪt  
+美音
+<audio src="./media/communicate.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 |  
 
@@ -8682,33 +11977,45 @@ D.usual
 
  > People began to **communicate with** distant tribes.  
  > 人们开始和远处的部落通讯。    
+<audio src="./media/0-communicate.aac"></audio>
 
 ### 2.*高义频：* **传达；表达**  
 英译 to express your thoughts and feelings clearly to make them understood：
 
  > A teacher must be able to **communicate effectively to** students.   
  > 教师必须能够有效地向学生传达思想。    
+<audio src="./media/2-communicate.aac"></audio>
 
  > You can **communicate** the power of enthusiasm **to** anyone who needs it.   
  > 你可以把热情的力量传达给每一个需要的人。  （2010 江苏改）  
+<audio src="./media/3-communicate.aac"></audio>
 
 ### 3.*高义频：* **沟通 (情感等)**  
 英译 to let sb know your feelings and desires so that you can have a good relationship：
 
  > Many couples make themselves miserable by not communicating.   
  > 许多夫妻因缺乏沟通而生活痛苦。    
+<audio src="./media/4-communicate.aac"></audio>
 
  > He refused to **communicate with** others, even the family members.   
  > 他拒绝与他人交流，即使是家庭成员也不例外。  （2010 重庆）  
+<audio src="./media/5-communicate.aac"></audio>
 
 ### 4.*低义频：* **传染 (疾病)：**  
 
  > The disease is communicated through dirty drinking water.   
  > 这种疾病通过不干净的饮用水传染。    
+<audio src="./media/6-communicate.aac"></audio>
 
 
 # ***\#communication*** n
-英音 kəˌmjuːnɪ'keɪʃn     美音 kəˌmjuːnɪ'keɪʃn  
+英音 kəˌmjuːnɪ'keɪʃn  
+英音
+<audio src="./media/communication-B.aac"></audio>
+美音 kəˌmjuːnɪ'keɪʃn  
+美音
+<audio src="./media/communication.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 3 |  
 
@@ -8718,9 +12025,11 @@ D.usual
 
  > Good **communication skills** include learning body language.   
  > 良好的沟通技巧包括学会使用身势语。  （人教④ – 4）  
+<audio src="./media/1-communication.aac"></audio>
 
  > The telephone is a **means of communication**.   
  > 电话是一种通讯方式。  （北师大⑧ – 22）  
+<audio src="./media/2-communication.aac"></audio>
 
 ### 2.*高义频：* **通讯系统；交通 (网)：**  
 
@@ -8729,10 +12038,17 @@ D.usual
 
  > Big cities usually have excellent rail and road communications.   
  > 大城市通常有完备的铁路和公路交通网。    
+<audio src="./media/3-communication.aac"></audio>
 
 
 # ***\#communism*** n
-英音 'kɒmjunɪzəm     美音 'kɑːmjunɪzəm  
+英音 'kɒmjunɪzəm  
+英音
+<audio src="./media/communism-B.aac"></audio>
+美音 'kɑːmjunɪzəm  
+美音
+<audio src="./media/communism.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8744,7 +12060,13 @@ D.usual
 
 
 # ***\#communist*** n
-英音 'kɒmjənɪst     美音 'kɑːmjənɪst  
+英音 'kɒmjənɪst  
+英音
+<audio src="./media/communist-B.aac"></audio>
+美音 'kɑːmjənɪst  
+美音
+<audio src="./media/communist.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8754,7 +12076,13 @@ D.usual
 
 
 # ***\#communist*** adj
-英音 'kɒmjənɪst     美音 'kɑːmjənɪst  
+英音 'kɒmjənɪst  
+英音
+<audio src="./media/communist-B.aac"></audio>
+美音 'kɑːmjənɪst  
+美音
+<audio src="./media/communist.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8767,7 +12095,13 @@ D.usual
 
 
 # ***\#community*** n
-英音 kə'mjuːnəti     美音 kə'mjuːnəti  
+英音 kə'mjuːnəti  
+英音
+<audio src="./media/community-B.aac"></audio>
+美音 kə'mjuːnəti  
+美音
+<audio src="./media/community.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
 
@@ -8784,6 +12118,7 @@ D.usual
 
  > Worrying about community safety, I prefer to secure my house with new technology.  
  > 由于担心社区安全，我更喜欢用新技术保护我的房子。  （2013 广东）  
+<audio src="./media/1-community.aac"></audio>
 
 ### 2.*高义频：* **[C] 群体；团体；界**  
 英译 a group of people who have the same interests, religion, etc.：
@@ -8795,13 +12130,21 @@ D.usual
 
  > As students, there are many ways in which you can serve the community.   
  > 作为学生，你们有很多服务社会的方式。  （2013 福建）  
+<audio src="./media/2-community.aac"></audio>
 
  > Give back to the community — it can be just as rewarding for you as those you choose to help.   
  > 回馈社会——你在帮助他人的同时，自己也会获益良多。    
+<audio src="./media/3-community.aac"></audio>
 
 
 # ***\#commute*** n
-英音 kəˈmjuːt     美音 kəˈmjuːt  
+英音 kəˈmjuːt  
+英音
+<audio src="./media/commute1_AAC.aac"></audio>
+美音 kəˈmjuːt  
+美音
+<audio src="./media/commute2_AAC.aac"></audio>
+
 
   
 
@@ -8811,7 +12154,13 @@ D.usual
 
 
 # ***\#compact*** adj
-英音 'kɒmpækt     美音 'kɑːmpækt  
+英音 'kɒmpækt  
+英音
+<audio src="./media/compact-B.aac"></audio>
+美音 'kɑːmpækt  
+美音
+<audio src="./media/compact.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8824,7 +12173,13 @@ D.usual
 
 
 # ***\#companion*** n
-英音 kəm'pæniən     美音 kəm'pæniən  
+英音 kəm'pæniən  
+英音
+<audio src="./media/companion-B.aac"></audio>
+美音 kəm'pæniən  
+美音
+<audio src="./media/companion.aac"></audio>
+
 
 | 词频 3 | 阅读 2 |  
 
@@ -8838,10 +12193,17 @@ D.usual
 
  > The dog may be a good companion for the old.   
  > 对老人而言，狗也许是很好的伙伴。  （2012 天津）  
+<audio src="./media/1-companion.aac"></audio>
 
 
 # ***\#companionship*** n
-英音 kəm'pæniənʃɪp     美音 kəm'pæniənʃɪp  
+英音 kəm'pæniənʃɪp  
+英音
+<audio src="./media/companionship1_AAC.aac"></audio>
+美音 kəm'pæniənʃɪp  
+美音
+<audio src="./media/companionship1_AAC.aac"></audio>
+
 
   
 
@@ -8851,7 +12213,13 @@ D.usual
 
 
 # ***\#company*** n
-英音 'kʌmpəni     美音 'kʌmpəni  
+英音 'kʌmpəni  
+英音
+<audio src="./media/company-B.aac"></audio>
+美音 'kʌmpəni  
+美音
+<audio src="./media/company.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -8869,17 +12237,21 @@ D.usual
 
  > I felt nervous **in the company of** such an important man.  
  > 和这么一个重要人物在一起，我感到很紧张。    
+<audio src="./media/1-company.aac"></audio>
 
  > I’m sure we’ll have a wonderful time and **enjoy each other’s company**.   
  > 我相信我们会享受彼此的陪伴，度过愉快的时光。    
+<audio src="./media/2-company.aac"></audio>
 
 ### 3.*低义频：* **[U] 宾客；朋友；同伴：**  
 
  > I have company this evening.   
  > 今晚我有客人。    
+<audio src="./media/3-company.aac"></audio>
 
  > A man is known by the company he keeps.  
  > 什么人交什么朋友。/观其友，知其人。    
+<audio src="./media/4-company.aac"></audio>
 
 
 固定搭配
@@ -8889,12 +12261,14 @@ D.usual
 
  > There was almost no wind — only the flames of our fire for company.  
  > 几乎没有风，只有篝火的火焰与我们作伴。  （人教① – 3）  
+<audio src="./media/5-company.aac"></audio>
 
 ## \#in company with 
 1.**与…一起：**  
 
  > My friend Bill is coming to see me in company with his new friend.   
  > 我的朋友比尔将和他的新朋友一道来看我。    
+<audio src="./media/6-company.aac"></audio>
 
 ## \#keep company (with) 
 1.**(和…) 经常交往**  
@@ -8904,6 +12278,7 @@ D.usual
 
  > I’ve promised to keep my sister company when her husband is away.   
  > 我答应妹妹在她丈夫不在的时候陪伴她。    
+<audio src="./media/7-company.aac"></audio>
 
 
 真题解析
@@ -8914,7 +12289,13 @@ D.usual
 1. keep you company  
 
 # ***\#comparable*** adj
-英音 'kɒmpərəbl     美音 'kɑːmpərəbl  
+英音 'kɒmpərəbl  
+英音
+<audio src="./media/comparable-B.aac"></audio>
+美音 'kɑːmpərəbl  
+美音
+<audio src="./media/comparable2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8927,13 +12308,21 @@ D.usual
 
  > A heart is **comparable with** a pump.  
  > 心脏(的功能)和水泵类似。    
+<audio src="./media/comparable-A heart is comparable.aac"></audio>
 
  > His handwriting is not bad, but it’s hardly **comparable with / to** yours.  
  > 他的书法不错，但是很难和你的相比。    
+<audio src="./media/comparable-His handwriting.aac"></audio>
 
 
 # ***\#comparative*** adj
-英音 kəm'pærətɪv     美音 kəm'pærətɪv  
+英音 kəm'pærətɪv  
+英音
+<audio src="./media/comparative-B.aac"></audio>
+美音 kəm'pærətɪv  
+美音
+<audio src="./media/comparative.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -8943,10 +12332,17 @@ D.usual
 
  > We live in **comparative comfort**.  
  > 我们过着比较舒适的生活。    
+<audio src="./media/1-comparative.aac"></audio>
 
 
 # ***\#comparatively*** adv
-英音 kəmˈpærətɪvli     美音 kəmˈpærətɪvli  
+英音 kəmˈpærətɪvli  
+英音
+<audio src="./media/comparatively1_AAC.aac"></audio>
+美音 kəmˈpærətɪvli  
+美音
+<audio src="./media/comparatively2_AAC.aac"></audio>
+
 
   
 
@@ -8956,7 +12352,13 @@ D.usual
 
 
 # ***\#compare*** v  重难点词汇
-英音 kəm'peə(r)     美音 kəm'per  
+英音 kəm'peə(r)  
+英音
+<audio src="./media/compare-B.aac"></audio>
+美音 kəm'per  
+美音
+<audio src="./media/compare.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -8967,28 +12369,34 @@ D.usual
 
  > We often make decisions by comparing information.  
  > 我们经常通过对比信息来作出决定。  （译林① – 1）  
+<audio src="./media/1-compare.aac"></audio>
 
 - compare A to / with B 把A同B作比较：
 
  > I regularly compare what I think with what others have thought  
  > 我经常把自己的想法和别人的想法作比较。  （2016 江苏改）  
+<audio src="./media/compare50.aac"></audio>
 
  > Michael’s new house is like a huge palace, **compared to / with** his old one.  
  > 与旧房子比起来，迈克的新房子像个大宫殿。  （2009 重庆改）  
+<audio src="./media/3-compare.aac"></audio>
 
 - compare A and B 对比A和B：
 
  > It’s easier to compare British and American English now that we have the Internet.   
  > 有了互联网，我们就更容易比较英式英语和美式英语了。  （外研⑤ – 1）  
+<audio src="./media/4-compare.aac"></audio>
 
 ### 2.*高义频：* **比得上；相比：**  
 英译 to be similar to sb / sth else, either better or worse than sb / sth else：
 
  > Nothing can **compare with** a mother’s love.  
  > 没有什么能与母爱相提并论。    
+<audio src="./media/7-compare.aac"></audio>
 
  > This house doesn’t **compare with** our previous one.  
  > 这所房子不如我们以前的那个好。    
+<audio src="./media/8-compare.aac"></audio>
 
 ### 3.*高义频：* **比喻；比拟**  
 
@@ -8996,9 +12404,11 @@ D.usual
 
  > We compared the brave man to a lion.   
  > 我们把勇敢的人比作雄狮。    
+<audio src="./media/5-compare.aac"></audio>
 
  > Young people are often compared to the rising sun.  
  > 年轻人常被比作冉冉升起的太阳。    
+<audio src="./media/6-compare.aac"></audio>
 
 
 固定搭配
@@ -9008,6 +12418,7 @@ D.usual
 
  > I intended to compare notes with my friends on current affairs.  
  > 我想跟朋友们就时事交换意见。    
+<audio src="./media/Compare-101_AAC.aac"></audio>
 
 
 真题解析
@@ -9019,6 +12430,10 @@ D.usual
 1. compared  2. compared  
 
 # ***\#compare…with/to…*** 
+英音
+<audio src="./media/compare…with; compare…to1_AAC.aac"></audio>
+美音
+<audio src="./media/compare…with; compare…to2_AAC.aac"></audio>
 
 
   
@@ -9029,7 +12444,13 @@ D.usual
 
 
 # ***\#comparison*** n
-英音 kəm'pærɪsn     美音 kəm'pærɪsn  
+英音 kəm'pærɪsn  
+英音
+<audio src="./media/comparison1_AAC.aac"></audio>
+美音 kəm'pærɪsn  
+美音
+<audio src="./media/comparison2_AAC.aac"></audio>
+
 
   
 
@@ -9042,10 +12463,17 @@ D.usual
 
  > **By / In comparison with** last year, the price of beef has increased.  
  > 与去年相比，牛肉的价格上涨了。    
+<audio src="./media/Comparison-101_AAC.aac"></audio>
 
 
 # ***\#compass*** n
-英音 'kʌmpəs     美音 'kʌmpəs  
+英音 'kʌmpəs  
+英音
+<audio src="./media/compass-B.aac"></audio>
+美音 'kʌmpəs  
+美音
+<audio src="./media/compass.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -9055,6 +12483,7 @@ D.usual
 
  > The Four Great Inventions of the Chinese people in ancient times are papermaking, printing, the compass and gunpowder.   
  > 中国古代的四大发明是造纸术、印刷术、指南针和火药。    
+<audio src="./media/1-compass.aac"></audio>
 
 ### 2.*低义频：* **[常用复数] 圆规；两脚规：**  
 
@@ -9063,7 +12492,13 @@ D.usual
 
 
 # ***\#compassion*** n
-英音 kəm'pæʃn     美音 kəm'pæʃn  
+英音 kəm'pæʃn  
+英音
+<audio src="./media/compassion-B.aac"></audio>
+美音 kəm'pæʃn  
+美音
+<audio src="./media/compassion.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -9073,10 +12508,17 @@ D.usual
 
  > I was shocked by his **lack of compassion**.  
  > 他如此缺乏同情心，让我很震惊。    
+<audio src="./media/compassion50.aac"></audio>
 
 
 # ***\#compensate*** v
-英音 'kɒmpenseɪt     美音 'kɑːmpenseɪt  
+英音 'kɒmpenseɪt  
+英音
+<audio src="./media/compensate-B.aac"></audio>
+美音 'kɑːmpenseɪt  
+美音
+<audio src="./media/compensate.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -9086,13 +12528,21 @@ D.usual
 
  > Nothing can **compensate for** the loss of time.   
  > 光阴一去不复返。    
+<audio src="./media/1-compensate.aac"></audio>
 
  > I suggest that you also **compensate me for** the injuries that I have received.   
  > 我认为你还要对我所受的伤害进行赔偿。  （北师大⑧ – 23）  
+<audio src="./media/2-compensate.aac"></audio>
 
 
 # ***\#compete*** vi
-英音 kəm'piːt     美音 kəm'piːt  
+英音 kəm'piːt  
+英音
+<audio src="./media/compete-B.aac"></audio>
+美音 kəm'piːt  
+美音
+<audio src="./media/compete.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 3 |  
 
@@ -9103,17 +12553,21 @@ D.usual
 
  > Animals in the wild have to **compete for** food.   
  > 野生动物不得不争夺食物。    
+<audio src="./media/1-compete.aac"></audio>
 
  > I have to **compete against** 19 other people for the job.   
  > 我得和另外19个人竞争这份工作。    
+<audio src="./media/2-compete.aac"></audio>
 
  > Life is like a long race where we **compete with** others to go beyond ourselves.   
  > 生活就像长跑，我们要与别人竞争来超越自己。  （2009 重庆）  
+<audio src="./media/3-compete.aac"></audio>
 
 ### 2.*高义频：* **参加比赛：**  
 
  > Women were first allowed to **compete in** the Olympic shooting in 1968.  
  > 1968年，妇女首次被允许参加奥运射击比赛。  （2008 广东书面表达）  
+<audio src="./media/4-compete.aac"></audio>
 
 
 真题解析
@@ -9124,7 +12578,13 @@ D.usual
 1. compete  
 
 # ***\#competence*** n
-英音 'kɒmpɪtəns     美音 'kɑːmpɪtəns  
+英音 'kɒmpɪtəns  
+英音
+<audio src="./media/competence-B.aac"></audio>
+美音 'kɑːmpɪtəns  
+美音
+<audio src="./media/competence.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -9135,10 +12595,17 @@ D.usual
 
  > Teachers have to constantly update their knowledge in order to maintain their professional competence.  
  > 教师必须不断更新知识以保持他们的专业能力。  （2011 江苏）  
+<audio src="./media/Competence-101_AAC.aac"></audio>
 
 
 # ***\#competent*** adj
-英音 'kɒmpɪtənt     美音 'kɑːmpɪtənt  
+英音 'kɒmpɪtənt  
+英音
+<audio src="./media/competent-B.aac"></audio>
+美音 'kɑːmpɪtənt  
+美音
+<audio src="./media/competent.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -9148,7 +12615,13 @@ D.usual
 
 
 # ***\#competition*** n
-英音 ˌkɒmpə'tɪʃn     美音 ˌkɑːmpə'tɪʃn  
+英音 ˌkɒmpə'tɪʃn  
+英音
+<audio src="./media/competition-B.aac"></audio>
+美音 ˌkɑːmpə'tɪʃn  
+美音
+<audio src="./media/competition.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 3 |  
 
@@ -9158,21 +12631,31 @@ D.usual
 
  > They're **in competition with** each other **for** the prize.  
  > 他们相互竞争这个奖项。    
+<audio src="./media/Competition-101_AAC.aac"></audio>
 
 ### 2.*高义频：* **[C] & [U] 比赛； 竞赛：**  
 
  > Without her, he would never have **won the competition**.  
  > 没有她，他绝不可能赢得这场比赛。  （2008 江西）  
+<audio src="./media/1-competition.aac"></audio>
 
  > One hundred teams from high schools all over the country have **entered the competition**.  
  > 来自全国各地中学的100支队伍参加了这次比赛。    
+<audio src="./media/One hundred teams from_AAC.aac"></audio>
 
  > Last week we held an English story-telling competition.  
  > 我们在上星期举办了一场用英语讲故事的比赛。  （2010 湖南书面表达）  
+<audio src="./media/Last week we held an English_AAC.aac"></audio>
 
 
 # ***\#competitive*** adj
-英音 kəm'petətɪv     美音 kəm'petətɪv  
+英音 kəm'petətɪv  
+英音
+<audio src="./media/competitive-B.aac"></audio>
+美音 kəm'petətɪv  
+美音
+<audio src="./media/competitive.aac"></audio>
+
 
 | 词频 3 | 书面 1 | 阅读 2 |  
 
@@ -9188,10 +12671,17 @@ D.usual
 
  > Competitive people want to be the best at everything.  
  > 要强的人什么事都想是最好的。  （外研⑦ – 2）  
+<audio src="./media/1-competitive.aac"></audio>
 
 
 # ***\#competitor*** n
-英音 kəm'petɪtə(r)     美音 kəm'petɪtər  
+英音 kəm'petɪtə(r)  
+英音
+<audio src="./media/competitor-B.aac"></audio>
+美音 kəm'petɪtər  
+美音
+<audio src="./media/competitor.aac"></audio>
+
 
 | 词频 3 | 阅读 3 |  
 
@@ -9201,10 +12691,17 @@ D.usual
 
  > In the long jump, competitors try to jump as far forward as possible.   
  > 跳远比赛时，选手们尽可能往前跳。  （译林④ – 2）  
+<audio src="./media/1-competitor.aac"></audio>
 
 
 # ***\#compile*** vt
-英音 kəm'paɪl     美音 kəm'paɪl  
+英音 kəm'paɪl  
+英音
+<audio src="./media/compile-B.aac"></audio>
+美音 kəm'paɪl  
+美音
+<audio src="./media/compile2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -9214,7 +12711,13 @@ D.usual
 
 
 # ***\#complain*** v  重难点词汇
-英音 kəm'pleɪn     美音 kəm'pleɪn  
+英音 kəm'pleɪn  
+英音
+<audio src="./media/complain-B.aac"></audio>
+美音 kəm'pleɪn  
+美音
+<audio src="./media/complain.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -9224,26 +12727,37 @@ D.usual
 
  > “I didn't like that meal at all,” complained the customer.  
  > 顾客抱怨说：“我一点儿也不喜欢那饭菜。”    
+<audio src="./media/Complain-101_AAC.aac"></audio>
 
 - complain (to sb) about / of:
 
  > I’ve really got nothing to complain of.   
  > 我确实没什么可抱怨的。    
+<audio src="./media/2-complain.aac"></audio>
 
  > Young people now don’t look for jobs, but just complain about unemployment.   
  > 现在的年轻人不去找工作，就会一味地抱怨失业。    
+<audio src="./media/3-complain.aac"></audio>
 
  > We should strictly follow traffic rules rather than complain about traffic jams.  
  > 我们应该严格遵守交通规则，而不是抱怨交通堵塞。  （2013 江苏书面表达改）  
+<audio src="./media/We should strictly follow _AAC.aac"></audio>
 
 -  complain (to sb) + (that) 从句：
 
  > Betty complained to Steve that Sara never gave her a chance to talk.   
  > 贝蒂向史蒂夫抱怨说萨拉从不给她说话的机会。  （2010 北京）  
+<audio src="./media/4-complain.aac"></audio>
 
 
 # ***\#complaint*** n
-英音 kəm'pleɪnt     美音 kəm'pleɪnt  
+英音 kəm'pleɪnt  
+英音
+<audio src="./media/complaint-B.aac"></audio>
+美音 kəm'pleɪnt  
+美音
+<audio src="./media/complaint.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 1 |  
 
@@ -9256,21 +12770,31 @@ D.usual
 
  > I have no **complaint about** my pay.   
  > 关于薪水我没有什么不满。    
+<audio src="./media/1-complaint.aac"></audio>
 
  > Why don’t you **make a complaint against** your noisy neighbours?   
  > 你为什么不投诉吵闹的邻居呢？    
+<audio src="./media/2-complaint.aac"></audio>
 
  > In time of difficulty, what we need is not **complaint to** each other but understanding of each other.   
  > 困难的时候，我们需要的不是相互抱怨而是互相理解。    
+<audio src="./media/3-complaint.aac"></audio>
 
 ### 2.*高义频：* **[C] 抱怨 / 投诉的事：**  
 
  > I have a number of complaints about the hotel room you’ve given me.   
  > 我对你给我的旅馆房间有许多不满。    
+<audio src="./media/4-complaint.aac"></audio>
 
 
 # ***\#complete*** vt  重难点词汇
-英音 kəm'pliːt     美音 kəm'pliːt  
+英音 kəm'pliːt  
+英音
+<audio src="./media/complete-B.aac"></audio>
+美音 kəm'pliːt  
+美音
+<audio src="./media/complete.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 3 |  
 
@@ -9281,15 +12805,18 @@ D.usual
 
  > It took three years to complete the first underground passenger railway in the world.  
  > 世界上第一条地铁客运专线历时三年建成。  （2017 全国改）  
+<audio src="./media/Complete-101_AAC.aac"></audio>
 
  > The work on the house needs to be completed by the end of the week.   
  > 房屋施工需在周末前结束。  （外研③ – 4）  
+<audio src="./media/2-complete.aac"></audio>
 
 ### 2.*高义频：* **使完整：**  
 英译 to make sth whole or perfect：
 
  > I need one more stamp before my collection is completed.   
  > 再有一张邮票我的收藏就完整了。    
+<audio src="./media/3-complete.aac"></audio>
 
 ### 3.*高义频：* **填写 (表格等) (fill in / out)：**  
 
@@ -9298,7 +12825,13 @@ D.usual
 
 
 # ***\#complete*** adj  重难点词汇
-英音 kəm'pliːt     美音 kəm'pliːt  
+英音 kəm'pliːt  
+英音
+<audio src="./media/complete-B.aac"></audio>
+美音 kəm'pliːt  
+美音
+<audio src="./media/complete.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 3 |  
 
@@ -9314,6 +12847,7 @@ D.usual
 
  > The dinner party was a complete success.   
  > 晚宴非常成功。  （外研⑧ – 3）  
+<audio src="./media/5-complete.aac"></audio>
 
 ### 2.*高义频：* **完整的；全部的 (whole)：**  
 
@@ -9322,11 +12856,13 @@ D.usual
 
  > Please keep a complete account of the money we have spent.   
  > 请记下我们花销的全部账目。  （人教③ – 3）  
+<audio src="./media/7-complete.aac"></audio>
 
 ### 3.*高义频：* **完成的；结束的：**  
 
  > Work on the new building is nearly complete.   
  > 新大楼快要竣工了。    
+<audio src="./media/8-complete.aac"></audio>
 
 ### 4.*低义频：* **装备有某物的；具有某特点的：**  
 
@@ -9334,6 +12870,7 @@ D.usual
 
  > The book, complete with CD, costs $35.   
  > 这本书配有光盘，售价35美元。    
+<audio src="./media/9-complete.aac"></audio>
 
 
 派生词汇
@@ -9341,13 +12878,21 @@ D.usual
 completely /kəm'pliːtli/ adv   
  > I was completely at a loss what to do.   
  > 我完全不知道该怎么办才好。    
+<audio src="./media/10-complete.aac"></audio>
 
  > I like my English classes to be taught completely in English.   
  > 我希望英语课完全用英语授课。    
+<audio src="./media/11-complete.aac"></audio>
 
 
 # ***\#completely*** adv
-英音 kəm'pliːtli     美音 kəm'pliːtli  
+英音 kəm'pliːtli  
+英音
+<audio src="./media/completely1.aac"></audio>
+美音 kəm'pliːtli  
+美音
+<audio src="./media/completely2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -9357,7 +12902,13 @@ completely /kəm'pliːtli/ adv
 
 
 # ***\#completion*** n
-英音 kəm'pliːʃn     美音 kəm'pliːʃn  
+英音 kəm'pliːʃn  
+英音
+<audio src="./media/completion1_AAC.aac"></audio>
+美音 kəm'pliːʃn  
+美音
+<audio src="./media/completion2_AAC.aac"></audio>
+
 
   
 
@@ -9367,7 +12918,13 @@ completely /kəm'pliːtli/ adv
 
 
 # ***\#complex*** adj
-英音 'kɒmpleks     美音 'kɑːmpleks  
+英音 'kɒmpleks  
+英音
+<audio src="./media/complex-B.aac"></audio>
+美音 'kɑːmpleks  
+美音
+<audio src="./media/complex.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
 
@@ -9380,10 +12937,17 @@ completely /kəm'pliːtli/ adv
 
  > The link between money and happiness is complex.   
  > 金钱与幸福之间关系复杂。    
+<audio src="./media/1-complex.aac"></audio>
 
 
 # ***\#complex*** n
-英音 'kɒmpleks     美音 'kɑːmpleks  
+英音 'kɒmpleks  
+英音
+<audio src="./media/complex-B.aac"></audio>
+美音 'kɑːmpleks  
+美音
+<audio src="./media/complex.aac"></audio>
+
 
 | 词频 4 | 阅读 3 |  
 
@@ -9403,7 +12967,13 @@ completely /kəm'pliːtli/ adv
 complexity /kəm'pleksəti/ n   
 
 # ***\#complexity*** n
-英音 kəm'pleksəti     美音 kəm'pleksəti  
+英音 kəm'pleksəti  
+英音
+<audio src="./media/complexity1_AAC.aac"></audio>
+美音 kəm'pleksəti  
+美音
+<audio src="./media/complexity2_AAC.aac"></audio>
+
 
   
 
@@ -9413,7 +12983,13 @@ complexity /kəm'pleksəti/ n
 
 
 # ***\#complicate*** vt
-英音 'kɒmplɪkeɪt     美音 'kɑːmplɪkeɪt  
+英音 'kɒmplɪkeɪt  
+英音
+<audio src="./media/complicate-B.aac"></audio>
+美音 'kɑːmplɪkeɪt  
+美音
+<audio src="./media/complicate.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -9423,10 +12999,17 @@ complexity /kəm'pleksəti/ n
 
  > The issue **is complicated by the fact that** a vital document is missing.   
  > 一份重要文件的遗失使得这个问题变得更加复杂。    
+<audio src="./media/1-complicate.aac"></audio>
 
 
 # ***\#complicated*** adj
-英音 'kɒmplɪkeɪtɪd     美音 'kɑːmplɪkeɪtɪd  
+英音 'kɒmplɪkeɪtɪd  
+英音
+<audio src="./media/complicated-B.aac"></audio>
+美音 'kɑːmplɪkeɪtɪd  
+美音
+<audio src="./media/complicated.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 阅读 2 |  
 
@@ -9436,10 +13019,17 @@ complexity /kəm'pleksəti/ n
 
  > The rules of the game are too complicated to explain in a few words.   
  > 这个游戏的规则太复杂，三言两语解释不清楚。    
+<audio src="./media/1-complicated.aac"></audio>
 
 
 # ***\#compliment*** n
-英音 'kɒmplɪmənt     美音 'kɑːmplɪmənt  
+英音 'kɒmplɪmənt  
+英音
+<audio src="./media/compliment1.aac"></audio>
+美音 'kɑːmplɪmənt  
+美音
+<audio src="./media/compliment2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -9451,6 +13041,7 @@ complexity /kəm'pleksəti/ n
 
  > My deskmate admires my fluent English very much and I usually feel encouraged by his compliments.  
  > 我同桌非常欣赏我流利的英语，他的称赞也经常使我很受鼓舞。  （2013 湖北书面表达）  
+<audio src="./media/compliment-My deskmate admires my fluent English.aac"></audio>
 
 
 真题解析
@@ -9461,7 +13052,13 @@ complexity /kəm'pleksəti/ n
 1. compliment  
 
 # ***\#component*** n
-英音 kəm'pəʊnənt     美音 kəm'poʊnənt  
+英音 kəm'pəʊnənt  
+英音
+<audio src="./media/component-B.aac"></audio>
+美音 kəm'poʊnənt  
+美音
+<audio src="./media/component.aac"></audio>
+
 
 | 词频 1 | 书面 2 | 阅读 1 |  
 
@@ -9471,13 +13068,21 @@ complexity /kəm'pleksəti/ n
 
  > A computer consists of thousands of components.   
  > 一台电脑由成千上万个部件组成。    
+<audio src="./media/1-component.aac"></audio>
 
  > Exercise is one of the **key components** of a healthy lifestyle.   
  > 锻炼是健康生活方式的重要组成部分之一。    
+<audio src="./media/2-component.aac"></audio>
 
 
 # ***\#component*** adj
-英音 kəm'pəʊnənt     美音 kəm'poʊnənt  
+英音 kəm'pəʊnənt  
+英音
+<audio src="./media/component-B.aac"></audio>
+美音 kəm'poʊnənt  
+美音
+<audio src="./media/component.aac"></audio>
+
 
 | 词频 1 | 阅读 1 |  
 
@@ -9490,7 +13095,13 @@ complexity /kəm'pleksəti/ n
 
 
 # ***\#compose*** v
-英音 kəm'pəʊz     美音 kəm'poʊz  
+英音 kəm'pəʊz  
+英音
+<audio src="./media/compose-B.aac"></audio>
+美音 kəm'poʊz  
+美音
+<audio src="./media/compose.aac"></audio>
+
 
 | 词频 2 | 阅读 2 |  
 
@@ -9500,17 +13111,20 @@ complexity /kəm'pleksəti/ n
 
  > England, Scotland, and Wales compose the island of Great Britain.   
  > 英格兰、苏格兰和威尔士组成了大不列颠岛。    
+<audio src="./media/1-compose.aac"></audio>
 
 ### 2.*高义频：* **创作 (乐曲、诗歌等)；撰写：**  
 
  > Mozart composed his last opera shortly before his death.  
  > 莫扎特去世前不久创作了他的最后一部歌剧。    
+<audio src="./media/2-compose.aac"></audio>
 
  > compose a speech   
  > 写讲稿    
 
  > What I have in my heart must come out; that is the reason why I compose.   
  > 我心里所想的一定要表达出来，这就是我创作的原因。    
+<audio src="./media/3-compose.aac"></audio>
 
 
 固定搭配
@@ -9520,10 +13134,17 @@ complexity /kəm'pleksəti/ n
 
  > What is water composed of ?   
  > 水是由什么构成的？    
+<audio src="./media/5-compose.aac"></audio>
 
 
 # ***\#composer*** n
-英音 kəm'pəʊzə(r)     美音 kəm'poʊzər  
+英音 kəm'pəʊzə(r)  
+英音
+<audio src="./media/composer1.aac"></audio>
+美音 kəm'poʊzər  
+美音
+<audio src="./media/composer2.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -9533,7 +13154,13 @@ complexity /kəm'pleksəti/ n
 
 
 # ***\#composition*** n
-英音 ˌkɒmpə'zɪʃn     美音 ˌkɑːmpə'zɪʃn  
+英音 ˌkɒmpə'zɪʃn  
+英音
+<audio src="./media/composition-B.aac"></audio>
+美音 ˌkɑːmpə'zɪʃn  
+美音
+<audio src="./media/composition.aac"></audio>
+
 
 | 词频 3 | 阅读 2 |  
 
@@ -9548,6 +13175,7 @@ complexity /kəm'pleksəti/ n
 
  > He is good at the composition of short stories.  
  > 他擅长写短篇小说。    
+<audio src="./media/1-composition.aac"></audio>
 
 ### 3.*高义频：* **[C] 作文；乐曲；作品：**  
 
@@ -9556,10 +13184,17 @@ complexity /kəm'pleksəti/ n
 
  > He is writing a composition.   
  > 他正在写作文。  （2008 天津）  
+<audio src="./media/2-composition.aac"></audio>
 
 
 # ***\#compound*** n
-英音 'kɒmpaʊnd     美音 'kɑːmpaʊnd  
+英音 'kɒmpaʊnd  
+英音
+<audio src="./media/compound-B.aac"></audio>
+美音 'kɑːmpaʊnd  
+美音
+<audio src="./media/compound2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -9571,7 +13206,13 @@ complexity /kəm'pleksəti/ n
 
 
 # ***\#comprehension*** n
-英音 ˌkɒmprɪ'henʃn     美音 ˌkɑːmprɪ'henʃn  
+英音 ˌkɒmprɪ'henʃn  
+英音
+<audio src="./media/comprehension-B.aac"></audio>
+美音 ˌkɑːmprɪ'henʃn  
+美音
+<audio src="./media/comprehension.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -9587,7 +13228,13 @@ complexity /kəm'pleksəti/ n
 
 
 # ***\#comprehension*** vi
-英音 ˌkɒmprɪ'henʃn     美音 ˌkɑːmprɪ'henʃn  
+英音 ˌkɒmprɪ'henʃn  
+英音
+<audio src="./media/comprehension-B.aac"></audio>
+美音 ˌkɑːmprɪ'henʃn  
+美音
+<audio src="./media/comprehension.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -9597,7 +13244,13 @@ complexity /kəm'pleksəti/ n
 
 
 # ***\#comprehensive*** n
-英音 ˌkɒmprɪ'hensɪv     美音 ˌkɑːmprɪ'hensɪv  
+英音 ˌkɒmprɪ'hensɪv  
+英音
+<audio src="./media/comprehensive-B.aac"></audio>
+美音 ˌkɑːmprɪ'hensɪv  
+美音
+<audio src="./media/comprehensive2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -9609,7 +13262,13 @@ complexity /kəm'pleksəti/ n
 
 
 # ***\#comprehensive*** adj
-英音 ˌkɒmprɪ'hensɪv     美音 ˌkɑːmprɪ'hensɪv  
+英音 ˌkɒmprɪ'hensɪv  
+英音
+<audio src="./media/comprehensive-B.aac"></audio>
+美音 ˌkɑːmprɪ'hensɪv  
+美音
+<audio src="./media/comprehensive2.aac"></audio>
+
 
 | 词频 1 | 书面 1 |  
 
@@ -9633,7 +13292,13 @@ D.crucial
 1. A  
 
 # ***\#comprise*** vt
-英音 kəm'praɪz     美音 kəm'praɪz  
+英音 kəm'praɪz  
+英音
+<audio src="./media/comprise1_AAC.aac"></audio>
+美音 kəm'praɪz  
+美音
+<audio src="./media/comprise2_AAC.aac"></audio>
+
 
 | 词频 1 | 阅读 1 |  
 
@@ -9643,7 +13308,13 @@ D.crucial
 
 
 # ***\#compromise*** n
-英音 'kɒmprəmaɪz     美音 'kɑːmprəmaɪz  
+英音 'kɒmprəmaɪz  
+英音
+<audio src="./media/compromise-B.aac"></audio>
+美音 'kɑːmprəmaɪz  
+美音
+<audio src="./media/compromise.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -9659,10 +13330,17 @@ D.crucial
 
  > Most important of all, it is always wise to make decisions by compromise and agreement.   
  > 最重要的是，通过相互妥协、相互协商来作决定总是明智的。  （2008 江苏）  
+<audio src="./media/1-compromise.aac"></audio>
 
 
 # ***\#compromise*** vi
-英音 'kɒmprəmaɪz     美音 'kɑːmprəmaɪz  
+英音 'kɒmprəmaɪz  
+英音
+<audio src="./media/compromise-B.aac"></audio>
+美音 'kɑːmprəmaɪz  
+美音
+<audio src="./media/compromise.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -9672,13 +13350,21 @@ D.crucial
 
  > He did not compromise easily, but was willing to accept any constructive advice for a worthy cause.  
  > 他不会轻易妥协，但是愿意为崇高的事业接受任何有建设性的建议。  （2016 江苏）  
+<audio src="./media/compromise50.aac"></audio>
 
  > I had to **compromise with** him **on** this point.  
  > 在这一点上我不得不对他让步。    
+<audio src="./media/2-compromise.aac"></audio>
 
 
 # ***\#compulsory*** adj
-英音 kəm'pʌlsəri     美音 kəm'pʌlsəri  
+英音 kəm'pʌlsəri  
+英音
+<audio src="./media/compulsory-B.aac"></audio>
+美音 kəm'pʌlsəri  
+美音
+<audio src="./media/compulsory.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -9694,10 +13380,17 @@ D.crucial
 
  > **It is compulsory for** winners to be tested but other players are only tested at random.   
  > 获胜者是必须要检测的，而其他选手则是抽检。    
+<audio src="./media/1-compulsory.aac"></audio>
 
 
 # ***\#compute*** vt
-英音 kəm'pjuːt     美音 kəm'pjuːt  
+英音 kəm'pjuːt  
+英音
+<audio src="./media/compute-B.aac"></audio>
+美音 kəm'pjuːt  
+美音
+<audio src="./media/compute.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -9707,7 +13400,13 @@ D.crucial
 
 
 # ***\#computer*** n
-英音 kəm'pjuːtə(r)     美音 kəm'pjuːtər  
+英音 kəm'pjuːtə(r)  
+英音
+<audio src="./media/computer-B.aac"></audio>
+美音 kəm'pjuːtər  
+美音
+<audio src="./media/computer.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -9717,7 +13416,13 @@ D.crucial
 
 
 # ***\#comrade*** n
-英音 ˈkɒmreɪd     美音 ˈkɑːmræd  
+英音 ˈkɒmreɪd  
+英音
+<audio src="./media/comrade1_AAC.aac"></audio>
+美音 ˈkɑːmræd  
+美音
+<audio src="./media/comrade2_AAC.aac"></audio>
+
 
   
 
@@ -9727,7 +13432,13 @@ D.crucial
 
 
 # ***\#conceivably*** adv
-英音 kənˈsiːvəbli     美音 kənˈsiːvəbli  
+英音 kənˈsiːvəbli  
+英音
+<audio src="./media/conceivably1_AAC.aac"></audio>
+美音 kənˈsiːvəbli  
+美音
+<audio src="./media/conceivably2_AAC.aac"></audio>
+
 
   
 
@@ -9737,7 +13448,13 @@ D.crucial
 
 
 # ***\#conceive*** v
-英音 kənˈsiːv     美音 kənˈsiːv  
+英音 kənˈsiːv  
+英音
+<audio src="./media/conceive1_AAC.aac"></audio>
+美音 kənˈsiːv  
+美音
+<audio src="./media/conceive2_AAC.aac"></audio>
+
 
   
 
@@ -9747,7 +13464,13 @@ D.crucial
 
 
 # ***\#concentrate*** v
-英音 'kɒnsntreɪt     美音 'kɑːnsntreɪt  
+英音 'kɒnsntreɪt  
+英音
+<audio src="./media/concentrate-B.aac"></audio>
+美音 'kɑːnsntreɪt  
+美音
+<audio src="./media/concentrate.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 2 | 阅读 3 |  
 
@@ -9757,24 +13480,34 @@ D.crucial
 
  > Italian industry is **concentrated** mainly **in** the north.  
  > 意大利的工业主要集中在北部。    
+<audio src="./media/2-concentrate.aac"></audio>
 
 ### 2.*高义频：* **专心；集中 (注意力、思想等)：**  
 
  > When we miss a night’s sleep, we find it hard the next day to concentrate and learn new information.  
  > 当我们一晚上没睡觉时，就会发现第二天很难集中精力学习新的知识。  （2017 北京）  
+<audio src="./media/When we miss a night's sleep,_AAC.aac"></audio>
 
 ## \#concentrate (sth) on (doing) sth:
 1.**专心于；全神贯注于：**  
 
  > We must concentrate our efforts on improving education.  
  > 我们必须集中精力改进教育工作。    
+<audio src="./media/3-concentrate.aac"></audio>
 
  > When you concentrate on one task you can get it done faster and better.  
  > 当你全神贯注于一项任务时，你会完成得又快又好。    
+<audio src="./media/4-concentrate.aac"></audio>
 
 
 # ***\#concentrate*** n
-英音 'kɒnsntreɪt     美音 'kɑːnsntreɪt  
+英音 'kɒnsntreɪt  
+英音
+<audio src="./media/concentrate-B.aac"></audio>
+美音 'kɑːnsntreɪt  
+美音
+<audio src="./media/concentrate.aac"></audio>
+
 
 | 词频 5 | 阅读 3 |  
 
@@ -9791,7 +13524,13 @@ D.crucial
 concentrated ['kɑːnsntreɪtɪd] adj   
 
 # ***\#concentrated*** adj
-英音 ˈkɒnsntreɪtɪd     美音 ˈkɑːnsntreɪtɪd  
+英音 ˈkɒnsntreɪtɪd  
+英音
+<audio src="./media/concentrated1_AAC.aac"></audio>
+美音 ˈkɑːnsntreɪtɪd  
+美音
+<audio src="./media/concentrated2_AAC.aac"></audio>
+
 
   
 
@@ -9801,7 +13540,13 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
 
 # ***\#concentration*** n
-英音 ˌkɒnsen'treɪʃn     美音 ˌkɒnsen'treɪʃən  
+英音 ˌkɒnsen'treɪʃn  
+英音
+<audio src="./media/concentration-B.aac"></audio>
+美音 ˌkɒnsen'treɪʃən  
+美音
+<audio src="./media/concentration.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 2 | 阅读 2 |  
 
@@ -9811,13 +13556,21 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
  > **Concentration on** your studies will result in good grades.  
  > 专心学习就能取得优异的成绩。    
+<audio src="./media/1-concentration.aac"></audio>
 
  > Driving requires total concentration.  
  > 开车时需要全神贯注。    
+<audio src="./media/Concentration-101_AAC.aac"></audio>
 
 
 # ***\#concept*** n
-英音 'kɒnsept     美音 'kɑːnsept  
+英音 'kɒnsept  
+英音
+<audio src="./media/concept-B.aac"></audio>
+美音 'kɑːnsept  
+美音
+<audio src="./media/concept.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
 
@@ -9830,10 +13583,17 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
  > The **concept of** happiness changes as we grow.  
  > 随着我们的成长，对幸福的看法也在发生着变化。    
+<audio src="./media/Concept-101_AAC.aac"></audio>
 
 
 # ***\#concern*** vt  重难点词汇
-英音 kən'sɜːn     美音 kən'sɜːrn  
+英音 kən'sɜːn  
+英音
+<audio src="./media/concern-B.aac"></audio>
+美音 kən'sɜːrn  
+美音
+<audio src="./media/concern.aac"></audio>
+
 
 | 词频 4 | 书面 1 |  
 
@@ -9843,21 +13603,26 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
  > This article concerns some studying methods.   
  > 这篇文章是关于学习方法的。    
+<audio src="./media/2-concern.aac"></audio>
 
  > The film concerns a girl who goes to Africa as a volunteer.   
  > 这部电影讲的是一个女孩到非洲当志愿者的故事。    
+<audio src="./media/3-concern.aac"></audio>
 
  > Please pay attention because this information concerns all of you.   
  > 请注意，因为这条消息涉及你们每一个人。    
+<audio src="./media/4-concern.aac"></audio>
 
 ### 2.*高义频：* **使担心**  
 英译  to worry sb：
 
  > My father’s illness concerns us greatly.   
  > 父亲的病情使我们很担心。    
+<audio src="./media/5-concern.aac"></audio>
 
  > **It concerned her that** her son hadn’t been back home.  
  > 儿子还没回家让她很担心。    
+<audio src="./media/6-concern.aac"></audio>
 
 
 固定搭配
@@ -9867,10 +13632,17 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
  > A good doctor should always concern himself with his patients.   
  > 好医生应当时时刻刻关心他的病人。    
+<audio src="./media/8-concern.aac"></audio>
 
 
 # ***\#concern*** n  重难点词汇
-英音 kən'sɜːn     美音 kən'sɜːrn  
+英音 kən'sɜːn  
+英音
+<audio src="./media/concern-B.aac"></audio>
+美音 kən'sɜːrn  
+美音
+<audio src="./media/concern.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 |  
 
@@ -9887,22 +13659,32 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
  > Thank you for your concern.  
  > 谢谢你的关心。  （2014 四川书面表达）  
+<audio src="./media/9-concern.aac"></audio>
 
  > I appreciate everyone’s concern and help at this difficult time.   
  > 在此困难时刻，我很感激每个人对我的关心和帮助。    
+<audio src="./media/10-concern.aac"></audio>
 
 ### 3.*高义频：* **[C] 担心的事；关心的事**  
 英译 sth that worries you or that is important to you：
 
  > The quality of books is a main concern to editors.  
  > 编辑们主要关心书的质量。    
+<audio src="./media/11-concern.aac"></audio>
 
  > What are your main concerns as a student?  
  > 作为学生，你最关心什么？    
+<audio src="./media/What are your main concerns _AAC.aac"></audio>
 
 
 # ***\#concerned*** adj
-英音 kən'sɜːnd     美音 kən'sɜːrnd  
+英音 kən'sɜːnd  
+英音
+<audio src="./media/concerned-B.aac"></audio>
+美音 kən'sɜːrnd  
+美音
+<audio src="./media/concerned.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 |  
 
@@ -9914,9 +13696,11 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
  > Her job is something concerned with computers.   
  > 她的工作跟计算机有关。    
+<audio src="./media/1-concerned.aac"></audio>
 
  > People concerned in the event were all punished.   
  > 跟此事有牵连的人都受到了惩罚。    
+<audio src="./media/2-concerned.aac"></audio>
 
 ### 2.*高义频：* **担忧的；关心的**  
 英译  worried about sth, or caring about sb：
@@ -9925,9 +13709,11 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
  > I’m a bit concerned about / for her safety.   
  > 我有点担心她的安全。    
+<audio src="./media/3-concerned.aac"></audio>
 
  > Parents are all concerned about / for their children.  
  > 父母都关心孩子。    
+<audio src="./media/4-concerned.aac"></audio>
 
 ### 3.*高义频：* **关注的；关切的**  
 英译  believing that sth is important：
@@ -9936,9 +13722,11 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
  > More people are concerned with the protection of endangered animals.   
  > 更多的人关注濒危动物的保护工作。    
+<audio src="./media/5-concerned.aac"></audio>
 
  > Many of my students were more concerned with their grades than with the knowledge they gained.  
  > 我的很多学生更关注成绩，而不是学到的知识。    
+<audio src="./media/Concerned-101_AAC.aac"></audio>
 
 
 固定搭配
@@ -9948,16 +13736,25 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
  > As far as I’m concerned, riding bicycles is a good solution to air pollution.  
  > 就我个人而言，骑自行车是一个解决空气污染的好办法。  （2011 江西书面表达改）  
+<audio src="./media/As far as I'm concerned, riding bicycles_AAC.aac"></audio>
 
  > I’m doing fine as far as history is concerned, but my math is not good.   
  > 就历史而言，我学得还不错，但是数学就不行了。    
+<audio src="./media/8-concerned.aac"></audio>
 
  > As far as I’m concerned, you can do what you like.  
  > 就我个人而言，你想做什么都可以。    
+<audio src="./media/7-concerned.aac"></audio>
 
 
 # ***\#concerning*** prep
-英音 kən'sɜːnɪŋ     美音 kən'sɜːnɪŋ  
+英音 kən'sɜːnɪŋ  
+英音
+<audio src="./media/concerning-B.aac"></audio>
+美音 kən'sɜːnɪŋ  
+美音
+<audio src="./media/concerning.aac"></audio>
+
 
 | 词频 2 | 书面 1 | 阅读 1 |  
 
@@ -9970,7 +13767,13 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
 
 # ***\#concert*** n
-英音 'kɒnsət     美音 'kɑːnsərt  
+英音 'kɒnsət  
+英音
+<audio src="./media/concert-B.aac"></audio>
+美音 'kɑːnsərt  
+美音
+<audio src="./media/concert.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 |  
 
@@ -9989,7 +13792,13 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
 
 # ***\#concerto*** n
-英音 kən'tʃɜːtəʊ     美音 kən'tʃɜːrtoʊ  
+英音 kən'tʃɜːtəʊ  
+英音
+<audio src="./media/concerto1_AAC.aac"></audio>
+美音 kən'tʃɜːrtoʊ  
+美音
+<audio src="./media/concerto2_AAC.aac"></audio>
+
 
   
 
@@ -9999,7 +13808,13 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
 
 # ***\#concise*** adj
-英音 kən'saɪs     美音 kən'saɪs  
+英音 kən'saɪs  
+英音
+<audio src="./media/concise-B.aac"></audio>
+美音 kən'saɪs  
+美音
+<audio src="./media/concise.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -10009,7 +13824,13 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
 
 # ***\#concisely*** adv
-英音 kənˈsaɪsli     美音 kənˈsaɪsli  
+英音 kənˈsaɪsli  
+英音
+<audio src="./media/concisely1_AAC.aac"></audio>
+美音 kənˈsaɪsli  
+美音
+<audio src="./media/concisely2_AAC.aac"></audio>
+
 
   
 
@@ -10019,7 +13840,13 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
 
 # ***\#conclude*** v
-英音 kən'kluːd     美音 kən'kluːd  
+英音 kən'kluːd  
+英音
+<audio src="./media/conclude-B.aac"></audio>
+美音 kən'kluːd  
+美音
+<audio src="./media/conclude.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
 
@@ -10030,26 +13857,32 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
  > What can be **concluded from** the last paragraph?  
  > 从最后一段能得出什么结论？  （2014 江西）  
+<audio src="./media/Conclude-101_AAC.aac"></audio>
 
  > Aristotle **concluded that** heavy objects always fell faster than light ones.   
  > 亚里士多德推断出重物总比轻物下落得快。    
+<audio src="./media/1-conclude.aac"></audio>
 
 ### 2.*高义频：* **[正式用语]结束；终止：**  
 英译 to end or to bring sth to an end：
 
  > The story **concluded with** a happy ending.   
  > 这个故事有一个大团圆的结局。    
+<audio src="./media/2-conclude.aac"></audio>
 
  > **To conclude**, I’d like to express my thanks to my family.   
  > 最后，我要对我的家人表示感谢。    
+<audio src="./media/3-conclude.aac"></audio>
 
 - conclude sth with / by doing sth:
 
  > Dad concluded our phone conversation with the words, “Paul, I love you. ”   
  > 爸爸说了一句“保罗，我爱你。”结束了我们的通话。    
+<audio src="./media/4-conclude.aac"></audio>
 
  > He concluded his speech by wishing everyone a safe trip home.   
  > 他以祝大家归途平安结束了讲话。    
+<audio src="./media/5-conclude.aac"></audio>
 
 
 真题解析
@@ -10060,7 +13893,13 @@ concentrated ['kɑːnsntreɪtɪd] adj
 1. with  
 
 # ***\#conclusion*** n  重难点词汇
-英音 kən'kluːʒn     美音 kən'kluːʒn  
+英音 kən'kluːʒn  
+英音
+<audio src="./media/conclusion-B.aac"></audio>
+美音 kən'kluːʒn  
+美音
+<audio src="./media/conclusion.aac"></audio>
+
 
 | 词频 4 | 书面 2 | 阅读 3 |  
 
@@ -10076,6 +13915,7 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
  > The judge’s conclusion was that Mr Smith was innocent.  
  > 法官判决史密斯先生无罪。    
+<audio src="./media/1-conclusion.aac"></audio>
 
 ### 2.*高义频：* **[常用单数][正式用语]结束；结尾（end）：**  
 
@@ -10090,22 +13930,32 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
  > They came to a conclusion that it was a thief who had stolen their diamond necklace.   
  > 他们断定是小偷偷走了他们的钻石项链。    
+<audio src="./media/2-conclusion.aac"></audio>
 
  > We will have a further discussion before we draw a final conclusion.  
  > 在得出最终结论之前，我们还需要作进一步的讨论。    
+<audio src="./media/3-conclusion.aac"></audio>
 
 ## \#in conclusion
 1.**[正式用语] 最后；总之(finally)：**  
 
  > In conclusion, I would like to thank everyone who has helped us.     
  > 最后，我要感谢所有帮助过我们的人。    
+<audio src="./media/4-conclusion.aac"></audio>
 
  > In conclusion, people around the world should protect the water resources.  
  > 总之，全世界的人都应当保护水资源。  （2010 福建书面表达改）  
+<audio src="./media/5-conclusion.aac"></audio>
 
 
 # ***\#concrete*** adj
-英音 'kɒŋkriːt     美音 'kɑːŋkriːt  
+英音 'kɒŋkriːt  
+英音
+<audio src="./media/concrete-B.aac"></audio>
+美音 'kɑːŋkriːt  
+美音
+<audio src="./media/concrete.aac"></audio>
+
 
 | 词频 2 | 口语 2 |  
 
@@ -10122,7 +13972,13 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
 
 # ***\#concrete*** n
-英音 'kɒŋkriːt     美音 'kɑːŋkriːt  
+英音 'kɒŋkriːt  
+英音
+<audio src="./media/concrete-B.aac"></audio>
+美音 'kɑːŋkriːt  
+美音
+<audio src="./media/concrete.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -10132,7 +13988,13 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
 
 # ***\#concubine*** n
-英音 'kɒŋkjubaɪn     美音 'kɑːŋkjubaɪn  
+英音 'kɒŋkjubaɪn  
+英音
+<audio src="./media/concubine1.aac"></audio>
+美音 'kɑːŋkjubaɪn  
+美音
+<audio src="./media/concubine2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -10142,7 +14004,13 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
 
 # ***\#condemn*** vt
-英音 kən'dem     美音 kən'dem  
+英音 kən'dem  
+英音
+<audio src="./media/condemn-B.aac"></audio>
+美音 kən'dem  
+美音
+<audio src="./media/condemn.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -10152,15 +14020,23 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
  > She knew that society would **condemn** her **for** leaving her children.   
  > 她知道社会会谴责她遗弃自己的孩子。    
+<audio src="./media/1-condemn.aac"></audio>
 
 ### 2.*低义频：* **[常用于被动语态]宣判 (某人) 有罪；判 (某人) 刑(sentence)：**  
 
  > He was found guilty and **condemned to death**.   
  > 他被裁定有罪，判了死刑。    
+<audio src="./media/2-condemn.aac"></audio>
 
 
 # ***\#condition*** n  重难点词汇
-英音 kən'dɪʃn     美音 kən'dɪʃn  
+英音 kən'dɪʃn  
+英音
+<audio src="./media/condition-B.aac"></audio>
+美音 kən'dɪʃn  
+美音
+<audio src="./media/condition.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 3 |  
 
@@ -10175,6 +14051,7 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
  > We were astonished to find the temple still **in its original condition**.  
  > 我们惊奇地发现这座庙宇依然保存着原貌。  （2010 辽宁）  
+<audio src="./media/1-condition.aac"></audio>
 
 - [U] [常用单数] 表示健康状况：
 
@@ -10183,9 +14060,11 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
  > You are **in no condition** to go anywhere.   
  > 你身体欠佳，哪儿也不能去。    
+<audio src="./media/2-condition.aac"></audio>
 
  > When I was 12, his condition worsened.  
  > 我12岁的时候，他的健康状况(病情)恶化了。    
+<audio src="./media/3-condition.aac"></audio>
 
 - [C] 表示疾病：
 
@@ -10214,11 +14093,13 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
  > The plants grow best in **cool**, **damp conditions**.  
  > 这些植物在凉爽、潮湿的环境下生长得最好。    
+<audio src="./media/4-condition.aac"></audio>
 
 - [C] (必要) 条件：
 
  > Peace is a **necessary condition** for economic growth.   
  > 和平是经济增长的必要条件。    
+<audio src="./media/5-condition.aac"></audio>
 
 ### 3.*高义频：* **条约；条款：**  
 
@@ -10236,15 +14117,18 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
  > You must on no condition tell them what happened.  
  > 你绝不能告诉他们发生了什么事。    
+<audio src="./media/6-condition.aac"></audio>
 
 ## \#on (the) condition that
 1.**在…条件下；倘若：**  
 
  > They agreed to lend us the car on condition that we returned it before the weekend.   
  > 他们同意把车借给我们，条件是我们必须在周末前归还。    
+<audio src="./media/7-condition.aac"></audio>
 
  > I would consider studying abroad, on the condition that I get a scholarship.   
  > 倘若获得奖学金，我会考虑出国学习。    
+<audio src="./media/8-condition.aac"></audio>
 
 
 真题解析
@@ -10255,7 +14139,13 @@ concentrated ['kɑːnsntreɪtɪd] adj
 1. on   
 
 # ***\#condom*** n
-英音 'kɒndɒm     美音 'kɑːndəm  
+英音 'kɒndɒm  
+英音
+<audio src="./media/condom-B.aac"></audio>
+美音 'kɑːndəm  
+美音
+<audio src="./media/condom.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -10267,7 +14157,13 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
 
 # ***\#conduct*** vt  重难点词汇
-英音 kən'dʌkt     美音 kən'dʌkt  
+英音 kən'dʌkt  
+英音
+<audio src="./media/conduct-B.aac"></audio>
+美音 kən'dʌkt  
+美音
+<audio src="./media/conduct.aac"></audio>
+
 
 | 词频 4 | 书面 2 | 阅读 3 |  
 
@@ -10278,11 +14174,13 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
  > The guide conducted us around the West Lake.   
  > 导游带领我们游览了西湖。    
+<audio src="./media/4-conduct.aac"></audio>
 
 ### 2.*高义频：* **指挥 (军队、乐队等)：**  
 
  > My friend went home, leaving me to conduct the band.  
  > 我朋友回家了，留下我指挥乐队。  （北师大④ – 12）  
+<audio src="./media/2-conduct.aac"></audio>
 
 ### 3.*高义频：* **实施；管理；进行**  
 英译 to organize or do a particular activity：
@@ -10292,18 +14190,27 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
  > A lot of research is being conducted in this area.  
  > 很多研究工作正在这个领域内展开。  （2010 陕西）  
+<audio src="./media/1-conduct.aac"></audio>
 
  > So far we have conducted a variety of activities on English learning.  
  > 目前我们已经开展了各种各样的英语学习活动。  （2010 湖南书面表达）  
+<audio src="./media/So far we have conducted _AAC.aac"></audio>
 
 ### 4.*低义频：* **举止；表现：**  
 
  > Make sure you **conduct yourself** as a good neighbor should.  
  > 确保你的行为举止是一个好邻居应该有的。  （2018 浙江）  
+<audio src="./media/Conduct-101_AAC.aac"></audio>
 
 
 # ***\#conduct*** n  重难点词汇
-英音 'kɒndʌkt     美音 'kɒndʌkt  
+英音 'kɒndʌkt  
+英音
+<audio src="./media/Conduct-n-B.aac"></audio>
+美音 'kɒndʌkt  
+美音
+<audio src="./media/conduct(n).aac"></audio>
+
 
 | 词频 4 | 书面 1 | 阅读 3 |  
 
@@ -10315,11 +14222,13 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
  > Confucius suggested a principle for the **conduct of** life: “Do not do to others what you would not want others to do to you.”  
  > 孔子提供了一条人生的行为准则：“己所不欲，勿施于人。”  （2010 江西改）  
+<audio src="./media/5-conduct.aac"></audio>
 
 ### 2.*低义频：* **经营方式；管理方式；组织方式：**  
 
  > His **conduct of** the business was very successful.   
  > 他经商非常成功。    
+<audio src="./media/7-conduct.aac"></audio>
 
 
 真题解析
@@ -10330,7 +14239,13 @@ concentrated ['kɑːnsntreɪtɪd] adj
 1. conducted  
 
 # ***\#conductor*** n
-英音 kən'dʌktə(r)     美音 kən'dʌktər  
+英音 kən'dʌktə(r)  
+英音
+<audio src="./media/conductor-B.aac"></audio>
+美音 kən'dʌktər  
+美音
+<audio src="./media/conductor.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -10344,7 +14259,13 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
 
 # ***\#confederate*** adj
-英音 kənˈfedərət     美音 kənˈfedərət  
+英音 kənˈfedərət  
+英音
+<audio src="./media/confederate1_AAC.aac"></audio>
+美音 kənˈfedərət  
+美音
+<audio src="./media/confederate2_AAC.aac"></audio>
+
 
   
 
@@ -10354,7 +14275,13 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
 
 # ***\#conference*** n
-英音 'kɒnfərəns     美音 'kɒnfərəns  
+英音 'kɒnfərəns  
+英音
+<audio src="./media/conference-B.aac"></audio>
+美音 'kɒnfərəns  
+美音
+<audio src="./media/conference.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 3 |  
 
@@ -10369,18 +14296,27 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
  > I’d like to book a meeting room for our international conference.   
  > 我要为我们的国际会议预订个会议室。    
+<audio src="./media/1-conference.aac"></audio>
 
 ### 2.*高义频：* **(几个人的) 商谈；会谈：**  
 
  > He **had a** brief **conference with** his assistants.   
  > 他和助手进行了简短的商谈。    
+<audio src="./media/2-conference.aac"></audio>
 
  > The director is **in conference** with his secretary now.  
  > 主管正在与他的秘书开会。    
+<audio src="./media/3-conference.aac"></audio>
 
 
 # ***\#confidence*** n
-英音 'kɒnfɪdəns     美音 'kɑːnfɪdəns  
+英音 'kɒnfɪdəns  
+英音
+<audio src="./media/confidence-B.aac"></audio>
+美音 'kɑːnfɪdəns  
+美音
+<audio src="./media/confidence.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
 
@@ -10411,9 +14347,11 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
  > I **gained** so much **confidence** that I went back to school as a new person.  
  > 我获得了极大的自信，回到学校后像换了个人似的。    
+<audio src="./media/1-confidence.aac"></audio>
 
  > Naturally, shy people might not **have** enough **confidence** to start up conversations with strangers.  
  > 很自然，害羞的人可能没有足够的自信和陌生人开始交谈。  （2015 安徽）  
+<audio src="./media/confidence50.aac"></audio>
 
 ### 3.*高义频：* **确信；把握：**  
 英译 the feeling that sth will happen or is true：
@@ -10425,10 +14363,17 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
  > We have full confidence that we shall succeed.   
  > 我们完全有把握取得成功。    
+<audio src="./media/3-confidence.aac"></audio>
 
 
 # ***\#confident*** adj
-英音 'kɒnfɪdənt     美音 'kɒnfədənt  
+英音 'kɒnfɪdənt  
+英音
+<audio src="./media/confident-B.aac"></audio>
+美音 'kɒnfədənt  
+美音
+<audio src="./media/confident.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 | 阅读 2 |  
 
@@ -10445,19 +14390,23 @@ concentrated ['kɑːnsntreɪtɪd] adj
 
  > I feel conﬁdent about the interview.  
  > 我对面试很有把握。    
+<audio src="./media/confident-I feel confident.aac"></audio>
 
  > We should not mind what others say so long as we are confident about what we have done.  
  > 只要我们对自己所做的事有信心，就不该在意别人说什么。  （2012 北京书面表达）  
+<audio src="./media/1-confident.aac"></audio>
 
 - (be) conﬁdent of (doing) sth:
 
  > We are confident of our success.  
  > 我们对成功坚信不疑。    
+<audio src="./media/2-confident.aac"></audio>
 
 - (be) conﬁdent + that 从句：
 
  > We are confident that the environment will be improved by our further efforts.  
  > 我们相信，通过我们进一步的努力环境将会得到改善。  （2013 辽宁改）  
+<audio src="./media/P100 confident-1.aac"></audio>
 
 
 派生词汇
@@ -10472,7 +14421,13 @@ confidently /'kɒnfədəntlɪ/ adv
 1. confidently  
 
 # ***\#confidential*** adj
-英音 ˌkɒnfɪ'denʃl     美音 ˌkɑːnfɪ'denʃl  
+英音 ˌkɒnfɪ'denʃl  
+英音
+<audio src="./media/confidential-B.aac"></audio>
+美音 ˌkɑːnfɪ'denʃl  
+美音
+<audio src="./media/confidential.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -10485,7 +14440,13 @@ confidently /'kɒnfədəntlɪ/ adv
 
 
 # ***\#confidently*** adv
-英音 'kɒnfədəntlɪ     美音 'kɒnfədəntlɪ  
+英音 'kɒnfədəntlɪ  
+英音
+<audio src="./media/confidently1.aac"></audio>
+美音 'kɒnfədəntlɪ  
+美音
+<audio src="./media/confidently2.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -10495,7 +14456,13 @@ confidently /'kɒnfədəntlɪ/ adv
 
 
 # ***\#confirm*** vt
-英音 kən'fɜːm     美音 kən'fɜːrm  
+英音 kən'fɜːm  
+英音
+<audio src="./media/confirm-B.aac"></audio>
+美音 kən'fɜːrm  
+美音
+<audio src="./media/confirm.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 2 |  
 
@@ -10505,11 +14472,13 @@ confidently /'kɒnfədəntlɪ/ adv
 
  > The experiment confirmed his theory.  
  > 这个实验证实了他的理论。    
+<audio src="./media/1-confirm.aac"></audio>
 
 - confirm + (that) / wh- 从句：
 
  > Research has confirmed that the risk is higher for women.  
  > 研究已经证实，这种风险在女性中的比例更高。    
+<audio src="./media/confirm51.aac"></audio>
 
 ### 2.*高义频：* **确认 (安排、日期或情况)：**  
 
@@ -10518,10 +14487,17 @@ confidently /'kɒnfədəntlɪ/ adv
 
  > Six people have **confirmed that** they will be attending the conference.   
  > 已经有6人确定要参加这次会议。    
+<audio src="./media/3-confirm.aac"></audio>
 
 
 # ***\#confirmation*** n
-英音 ˌkɒnfə'meɪʃn     美音 ˌkɑːnfər'meɪʃn  
+英音 ˌkɒnfə'meɪʃn  
+英音
+<audio src="./media/confirmation1_AAC.aac"></audio>
+美音 ˌkɑːnfər'meɪʃn  
+美音
+<audio src="./media/confirmation2_AAC.aac"></audio>
+
 
   
 
@@ -10531,7 +14507,13 @@ confidently /'kɒnfədəntlɪ/ adv
 
 
 # ***\#confirmed*** adj
-英音 kənˈfɜːmd     美音 kənˈfɜːrmd  
+英音 kənˈfɜːmd  
+英音
+<audio src="./media/confirmed1_AAC.aac"></audio>
+美音 kənˈfɜːrmd  
+美音
+<audio src="./media/confirmed 2_AAC.aac"></audio>
+
 
   
 
@@ -10541,7 +14523,13 @@ confidently /'kɒnfədəntlɪ/ adv
 
 
 # ***\#confiscate*** vt
-英音 'kɒnfɪskeɪt     美音 'kɑːnfɪskeɪt  
+英音 'kɒnfɪskeɪt  
+英音
+<audio src="./media/confiscate1.aac"></audio>
+美音 'kɑːnfɪskeɪt  
+美音
+<audio src="./media/confiscate2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -10551,7 +14539,13 @@ confidently /'kɒnfədəntlɪ/ adv
 
 
 # ***\#conflict*** n
-英音 'kɒnflɪkt     美音 'kɑːnflɪkt  
+英音 'kɒnflɪkt  
+英音
+<audio src="./media/conflict-B.aac"></audio>
+美音 'kɑːnflɪkt  
+美音
+<audio src="./media/conflict.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 2 |  
 
@@ -10563,6 +14557,7 @@ confidently /'kɒnfədəntlɪ/ adv
 
  > The **conflict between** Greece **and** Troy lasted ten years.  
  > 希腊和特洛伊之间的战争持续了10年之久。    
+<audio src="./media/2-conflict.aac"></audio>
 
 ### 2.*高义频：* **分歧；矛盾；冲突：**  
 
@@ -10577,13 +14572,21 @@ confidently /'kɒnfədəntlɪ/ adv
 
  > She found herself **in conflict with** her parents **over** her future career.  
  > 她发现自己与父母在将来择业的问题上存在分歧。    
+<audio src="./media/1-conflict.aac"></audio>
 
  > Her diary was a record of her inner conflict.  
  > 她的日记记录了自己内心的矛盾。    
+<audio src="./media/conflict50.aac"></audio>
 
 
 # ***\#conflict*** vi
-英音 'kɒnflɪkt     美音 'kɑːnflɪkt  
+英音 'kɒnflɪkt  
+英音
+<audio src="./media/conflict-B.aac"></audio>
+美音 'kɑːnflɪkt  
+美音
+<audio src="./media/conflict.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 2 |  
 
@@ -10593,13 +14596,21 @@ confidently /'kɒnfədəntlɪ/ adv
 
  > My mother and I conflicted countless times over the years.   
  > 那些年我与母亲争吵了无数次。  （2014 江苏）  
+<audio src="./media/conflict18.aac"></audio>
 
  > His opinions **conflicted with** mine.   
  > 他的意见和我的不一致。    
+<audio src="./media/conflict17.aac"></audio>
 
 
 # ***\#confront*** v
-英音 kən'frʌnt     美音 kən'frʌnt  
+英音 kən'frʌnt  
+英音
+<audio src="./media/confront1.aac"></audio>
+美音 kən'frʌnt  
+美音
+<audio src="./media/confront2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -10609,7 +14620,13 @@ confidently /'kɒnfədəntlɪ/ adv
 
 
 # ***\#confucianism*** n
-英音 kən'fju:ʃənizm     美音 kən'fju:ʃənizm  
+英音 kən'fju:ʃənizm  
+英音
+<audio src="./media/confucianism1_AAC.aac"></audio>
+美音 kən'fju:ʃənizm  
+美音
+<audio src="./media/confucianism2_AAC.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -10619,7 +14636,13 @@ confidently /'kɒnfədəntlɪ/ adv
 
 
 # ***\#confuse*** vt
-英音 kən'fjuːz     美音 kən'fjuːz  
+英音 kən'fjuːz  
+英音
+<audio src="./media/confuse-B.aac"></audio>
+美音 kən'fjuːz  
+美音
+<audio src="./media/confuse.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -10629,18 +14652,27 @@ confidently /'kɒnfədəntlɪ/ adv
 
  > It is important to explain this again or we will confuse the students.  
  > 再解释一遍这个问题很重要，否则我们会让学生感到困惑。  （人教④ – 2）  
+<audio src="./media/1-confuse.aac"></audio>
 
 ### 2.*高义频：* **混淆；弄错(mix up)：**  
 
  > Don’t **confuse** Austria **with** Australia.   
  > 别把Austria和Australia弄混了。    
+<audio src="./media/2-confuse.aac"></audio>
 
  > I always **confuse** her **with** her twin sister: they look so alike.   
  > 我总分不清这对双胞胎姐妹，她们长得太像了。    
+<audio src="./media/3-confuse.aac"></audio>
 
 
 # ***\#confused*** adj
-英音 kən'fjuːzd     美音 kən'fjuːzd  
+英音 kən'fjuːzd  
+英音
+<audio src="./media/confused-B.aac"></audio>
+美音 kən'fjuːzd  
+美音
+<audio src="./media/confused.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -10651,16 +14683,24 @@ confidently /'kɒnfədəntlɪ/ adv
 
  > If you have questions or are **confused about** anything, email me.   
  > 如果你有问题或是对什么事有疑问，发邮件给我。    
+<audio src="./media/P101 confused1.aac"></audio>
 
 ### 2.*高义频：* **混乱的；难懂的**  
 英译 not clear or not easy to understand：
 
  > The children gave a confused account of what had happened.   
  > 孩子们把发生的事描述得颠三倒四。    
+<audio src="./media/2-confused.aac"></audio>
 
 
 # ***\#confusing*** adj
-英音 kən'fjuːzɪŋ     美音 kən'fjuːzɪŋ  
+英音 kən'fjuːzɪŋ  
+英音
+<audio src="./media/confusing-B.aac"></audio>
+美音 kən'fjuːzɪŋ  
+美音
+<audio src="./media/confusing.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -10670,7 +14710,13 @@ confidently /'kɒnfədəntlɪ/ adv
 
 
 # ***\#confusion*** n
-英音 kən'fjuːʒən     美音 kən'fjuːʒən  
+英音 kən'fjuːʒən  
+英音
+<audio src="./media/confusion-B.aac"></audio>
+美音 kən'fjuːʒən  
+美音
+<audio src="./media/confusion.aac"></audio>
+
 
 | 词频 1 | 口语 1 | 书面 1 |  
 
@@ -10688,10 +14734,17 @@ confidently /'kɒnfədəntlɪ/ adv
 
  > To avoid confusion, the teams wore different colours.  
  > 为避免混淆，各队都穿了不同颜色的服装。    
+<audio src="./media/1-confusion.aac"></audio>
 
 
 # ***\#congestion*** n
-英音 kən'dʒestʃən     美音 kən'dʒestʃən  
+英音 kən'dʒestʃən  
+英音
+<audio src="./media/congestion1.aac"></audio>
+美音 kən'dʒestʃən  
+美音
+<audio src="./media/congestion2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -10701,7 +14754,13 @@ confidently /'kɒnfədəntlɪ/ adv
 
 
 # ***\#congratulate*** vt
-英音 kən'grætʃuleɪt     美音 kən'grætʃuleɪt  
+英音 kən'grætʃuleɪt  
+英音
+<audio src="./media/congratulate-B.aac"></audio>
+美音 kən'grætʃuleɪt  
+美音
+<audio src="./media/congratulate.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -10711,13 +14770,21 @@ confidently /'kɒnfədəntlɪ/ adv
 
  > The two sportsmen **congratulated** each other **on** winning the match by shaking hands.  
  > 两位运动员相互握手祝贺对方赢得比赛。  （2008 上海）  
+<audio src="./media/1-congratulate.aac"></audio>
 
  > I’d like to **congratulate** you **on** your wonderful performance.  
  > 我对您的精彩表演表示祝贺。    
+<audio src="./media/2-congratulate.aac"></audio>
 
 
 # ***\#congratulation*** n
-英音 kənˌgrætʃu'leɪʃn     美音 kənˌgrætʃu'leɪʃn  
+英音 kənˌgrætʃu'leɪʃn  
+英音
+<audio src="./media/congratulation-B.aac"></audio>
+美音 kənˌgrætʃu'leɪʃn  
+美音
+<audio src="./media/congratulation.aac"></audio>
+
 
 | 词频 3 | 口语 1 |  
 
@@ -10729,9 +14796,11 @@ confidently /'kɒnfədəntlɪ/ adv
 
  > You’ve passed your driving test? Congratulations!  
  > 你通过驾照考试了？祝贺你！    
+<audio src="./media/1-congratulation.aac"></audio>
 
  > I want to express my **congratulations on** your success.  
  > 我对你的成功表示祝贺。    
+<audio src="./media/2-congratulation.aac"></audio>
 
 
 真题解析
@@ -10744,7 +14813,13 @@ confidently /'kɒnfədəntlɪ/ adv
 1. Congratulations  2. congratulations  
 
 # ***\#congress*** n
-英音 'kɒŋɡres     美音 'kɑːŋɡrəs  
+英音 'kɒŋɡres  
+英音
+<audio src="./media/congress-B.aac"></audio>
+美音 'kɑːŋɡrəs  
+美音
+<audio src="./media/congress.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -10756,7 +14831,13 @@ confidently /'kɒnfədəntlɪ/ adv
 
 
 # ***\#connect*** v
-英音 kə'nekt     美音 kə'nekt  
+英音 kə'nekt  
+英音
+<audio src="./media/connect-B.aac"></audio>
+美音 kə'nekt  
+美音
+<audio src="./media/connect.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -10766,30 +14847,37 @@ confidently /'kɒnfədəntlɪ/ adv
 
  > The two cities are connected by a railway.   
  > 这两个城市由铁路相连。    
+<audio src="./media/1-connect.aac"></audio>
 
  > A USB port is a place where you can **connect** other machines **to** a computer.   
  > 在USB接口处你可以将外部设备连接到电脑上。    
+<audio src="./media/2-connect.aac"></audio>
 
 - connect … to / with / and …:
 
  > A USB port is a place where you can connect other machines to a computer.  
  > USB端口是将其他设备连接到电脑的地方。    
+<audio src="./media/2-connect.aac"></audio>
 
  > China has an even greater high-speed railway plan — to connect the country with Southeast Asia, and eventually Eastern Europe.  
  > 中国甚至还有更伟大的高铁计划，把中国和东南亚，最后是东欧连接起来。  （2010 江苏）  
+<audio src="./media/Connect-101_AAC.aac"></audio>
 
 ### 2.*低义频：* **给...接通电话(put through)：**  
 
  > The operator **connected** her **to** the police station.   
  > 接线员把她的电话转接到了警察局。    
+<audio src="./media/3-connect.aac"></audio>
 
 ### 3.*高义频：* **把...联系起来(associate)：**  
 
  > I didn’t connect the two events in my mind.   
  > 我心里没把这两件事联系起来。    
+<audio src="./media/4-connect.aac"></audio>
 
  > There is no evidence to **connect** them **with** the attack.   
  > 没有证据把他们和这次袭击联系在一起。    
+<audio src="./media/5-connect.aac"></audio>
 
 ### 4.*低义频：* **(火车、航班等) 衔接：**  
 
@@ -10800,10 +14888,17 @@ confidently /'kɒnfədəntlɪ/ adv
 
  > The key to successful small talk is learning how to **connect with** others.  
  > 成功的闲聊的关键在于要学会如何与他人沟通交流。  （2018 全国）  
+<audio src="./media/Connect-102_AAC.aac"></audio>
 
 
 # ***\#connected*** adj
-英音 kə'nektɪd     美音 kə'nektɪd  
+英音 kə'nektɪd  
+英音
+<audio src="./media/connected-B.aac"></audio>
+美音 kə'nektɪd  
+美音
+<audio src="./media/connected.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -10818,10 +14913,17 @@ confidently /'kɒnfədəntlɪ/ adv
 
  > The discussion **is connected with** the incident.  
  > 这次讨论与这件事有关。    
+<audio src="./media/1-connected.aac"></audio>
 
 
 # ***\#connection*** n
-英音 kə'nekʃn     美音 kə'nekʃn  
+英音 kə'nekʃn  
+英音
+<audio src="./media/connection-B.aac"></audio>
+美音 kə'nekʃn  
+美音
+<audio src="./media/connection.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -10834,19 +14936,23 @@ confidently /'kɒnfədəntlɪ/ adv
 
  > The light goes on and off. Is there a **loose connection**?  
  > 灯忽明忽暗，是不是接触不良？    
+<audio src="./media/3-connection.aac"></audio>
 
 ### 2.*高义频：* **联系；关联 (link)：**  
 
  > **Is there a connection between** smoking **and** lung cancer?  
  > 吸烟与肺癌是否有关？    
+<audio src="./media/1-connection.aac"></audio>
 
  > I **have** no **connection with** that case.  
  > 我和那起案件没有什么关系。    
+<audio src="./media/Connection-101_AAC.aac"></audio>
 
 ### 3.*高义频：* **[C] 转机；转车：**  
 
  > If this train gets delayed we'll miss our **connection to** Beijing.  
  > 如果这列火车晚点，我们就赶不上转乘去北京的车了。    
+<audio src="./media/Connection-102_AAC.aac"></audio>
 
 ### 4.*低义频：* **人际关系；人脉：**  
 
@@ -10861,10 +14967,17 @@ confidently /'kɒnfədəntlɪ/ adv
 
  > I’m writing to you in connection with your job application.   
  > 我写此信是想谈一谈你找工作的事。    
+<audio src="./media/4-connection.aac"></audio>
 
 
 # ***\#conquer*** vt
-英音 'kɒŋkə(r)     美音 'kɑːŋkər  
+英音 'kɒŋkə(r)  
+英音
+<audio src="./media/conquer-B.aac"></audio>
+美音 'kɑːŋkər  
+美音
+<audio src="./media/conquer.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -10874,18 +14987,27 @@ confidently /'kɒnfədəntlɪ/ adv
 
  > In 1066, the Normans conquered England and took control of the country.  
  > 1066年，诺曼人征服了英格兰，开始了在这个国家的统治。  （译林③ – 2）  
+<audio src="./media/1-conquer.aac"></audio>
 
  > Modern medical science has conquered many diseases.  
  > 现代医学已攻克了许多疾病。    
+<audio src="./media/2-conquer.aac"></audio>
 
 ### 2.*低义频：* **克服 (困难等)；破除 (坏习惯等)：**  
 
  > The only way to **conquer** a **fear** is to face it.  
  > 克服恐惧的唯一方法就是正视它。    
+<audio src="./media/3-conquer.aac"></audio>
 
 
 # ***\#conscience*** n
-英音 'kɒnʃəns     美音 'kɑːnʃəns  
+英音 'kɒnʃəns  
+英音
+<audio src="./media/conscience-B.aac"></audio>
+美音 'kɑːnʃəns  
+美音
+<audio src="./media/conscience.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -10901,7 +15023,13 @@ confidently /'kɒnfədəntlɪ/ adv
 
 
 # ***\#conscious*** adj
-英音 'kɒnʃəs     美音 'kɑːnʃəs  
+英音 'kɒnʃəs  
+英音
+<audio src="./media/conscious-B.aac"></audio>
+美音 'kɑːnʃəs  
+美音
+<audio src="./media/conscious.aac"></audio>
+
 
 | 词频 2 | 口语 2 | 书面 1 | 阅读 2 |  
 
@@ -10913,29 +15041,39 @@ confidently /'kɒnfədəntlɪ/ adv
 
  > The greatest of faults is to be conscious of none.  
  > 最大的错误是没有意识到错误。  （——托马斯·卡莱尔）  
+<audio src="./media/1-conscious.aac"></audio>
 
 - (be) conscious + that 从句：
 
  > To be conscious that you are ignorant is a great step to knowledge.   
  > 意识到自己无知等于向知识迈出了一大步。  （——狄斯雷利）  
+<audio src="./media/3-conscious.aac"></audio>
 
 ### 2.*高义频：* **有知觉的；神志清醒的：**  
 反义词 unconscious 
 
  > After he became conscious, he remembered having been attacked and hit on the head.  
  > 醒过来后，他记起自己被人袭击了头部。    
+<audio src="./media/4-conscious.aac"></audio>
 
 ### 3.*高义频：* **有意识的；关注的；注重的：**  
 
  > Not all body language is conscious.  
  > 不是所有的肢体语言都是有意识的。  （外研④ – 3）  
+<audio src="./media/5-conscious.aac"></audio>
 
  > environmentally conscious consumers   
  > 有环保意识的消费者    
 
 
 # ***\#consciousness*** n
-英音 'kɒnʃəsnəs     美音 'kɑːnʃəsnəs  
+英音 'kɒnʃəsnəs  
+英音
+<audio src="./media/consciousness-B.aac"></audio>
+美音 'kɑːnʃəsnəs  
+美音
+<audio src="./media/consciousness.aac"></audio>
+
 
 | 词频 2 | 书面 1 | 阅读 1 |  
 
@@ -10954,7 +15092,13 @@ confidently /'kɒnfədəntlɪ/ adv
 
 
 # ***\#consecrate*** v
-英音 ˈkɒnsɪkreɪt     美音 ˈkɑːnsɪkreɪt  
+英音 ˈkɒnsɪkreɪt  
+英音
+<audio src="./media/consecrate1_AAC.aac"></audio>
+美音 ˈkɑːnsɪkreɪt  
+美音
+<audio src="./media/consecrate2_AAC.aac"></audio>
+
 
   
 
@@ -10964,7 +15108,13 @@ confidently /'kɒnfədəntlɪ/ adv
 
 
 # ***\#consecutive*** adj
-英音 kən'sekjətɪv     美音 kən'sekjətɪv  
+英音 kən'sekjətɪv  
+英音
+<audio src="./media/consecutive1.aac"></audio>
+美音 kən'sekjətɪv  
+美音
+<audio src="./media/consecutive2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -10974,7 +15124,13 @@ confidently /'kɒnfədəntlɪ/ adv
 
 
 # ***\#consensus*** n
-英音 kən'sensəs     美音 kən'sensəs  
+英音 kən'sensəs  
+英音
+<audio src="./media/consensus-B.aac"></audio>
+美音 kən'sensəs  
+美音
+<audio src="./media/consensus.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -10987,10 +15143,17 @@ confidently /'kɒnfədəntlɪ/ adv
 
  > The consensus of most people is that the music is very good.   
  > 大多数人一致认为这些音乐非常好听。  （外研⑦ – 4）  
+<audio src="./media/1-consensus.aac"></audio>
 
 
 # ***\#consent*** n
-英音 kən'sent     美音 kən'sent  
+英音 kən'sent  
+英音
+<audio src="./media/consent-B.aac"></audio>
+美音 kən'sent  
+美音
+<audio src="./media/consent2.aac"></audio>
+
 
 | 词频 1 | 书面 1 |  
 
@@ -11002,7 +15165,13 @@ confidently /'kɒnfədəntlɪ/ adv
 
 
 # ***\#consent*** vi
-英音 kən'sent     美音 kən'sent  
+英音 kən'sent  
+英音
+<audio src="./media/consent-B.aac"></audio>
+美音 kən'sent  
+美音
+<audio src="./media/consent2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -11012,7 +15181,13 @@ confidently /'kɒnfədəntlɪ/ adv
 
 
 # ***\#consequence*** n  重难点词汇
-英音 'kɒnsɪkwəns     美音 'kɑːnsəkwens  
+英音 'kɒnsɪkwəns  
+英音
+<audio src="./media/consequence-B.aac"></audio>
+美音 'kɑːnsəkwens  
+美音
+<audio src="./media/consequence.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 2 |  
 
@@ -11026,12 +15201,14 @@ confidently /'kɒnfədəntlɪ/ adv
 
  > The **consequence of** a rising sea level would be widespread flooding.  
  > 海平面升高的后果将是洪水泛滥。  （人教⑥ – 4）  
+<audio src="./media/1-consequence.aac"></audio>
 
 ### 2.*低义频：* **重要 (性)；重大**  
 英译 importance：
 
  > Don't worry. It's **of little consequence**.  
  > 别担心，这并不重要。    
+<audio src="./media/Consequence-101_AAC.aac"></audio>
 
 
 固定搭配
@@ -11042,19 +15219,28 @@ confidently /'kɒnfədəntlɪ/ adv
 
  > It rained yesterday and as a consequence the match was canceled.  
  > 昨天的比赛因下雨而被取消。    
+<audio src="./media/3-consequence.aac"></audio>
 
  > She was over the age limit and, in consequence, her application was rejected.  
  > 她超龄了，结果她的申请被拒绝了。    
+<audio src="./media/4-consequence.aac"></audio>
 
 ## \#as a consequence of sth / in consequence of sth
 1.**[正式用语] 由于…的缘故 as a result of sth：**  
 
  > My father coughs frequently as a consequence of / in consequence of smoking.  
  > 因为吸烟，我父亲经常咳嗽。    
+<audio src="./media/consequence-My father coughs.aac"></audio>
 
 
 # ***\#consequent*** adj
-英音 'kɒnsɪkwənt     美音 'kɑːnsəkwent  
+英音 'kɒnsɪkwənt  
+英音
+<audio src="./media/consequent-B.aac"></audio>
+美音 'kɑːnsəkwent  
+美音
+<audio src="./media/consequent2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -11070,7 +15256,13 @@ confidently /'kɒnfədəntlɪ/ adv
 consequently /'kɒnsɪkwəntli/ adv   
 
 # ***\#consequently*** adv
-英音 'kɒnsɪkwəntli     美音 'kɑːnsəkwentli  
+英音 'kɒnsɪkwəntli  
+英音
+<audio src="./media/consequently-B.aac"></audio>
+美音 'kɑːnsəkwentli  
+美音
+<audio src="./media/consequently.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -11080,7 +15272,13 @@ consequently /'kɒnsɪkwəntli/ adv
 
 
 # ***\#conservation*** n
-英音 ˌkɒnsə'veɪʃn     美音 ˌkɑːnsər'veɪʃn  
+英音 ˌkɒnsə'veɪʃn  
+英音
+<audio src="./media/conservation-B.aac"></audio>
+美音 ˌkɑːnsər'veɪʃn  
+美音
+<audio src="./media/conservation.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -11092,9 +15290,11 @@ consequently /'kɒnsɪkwəntli/ adv
 
  > There is a need for the **conservation of** trees, or there will soon be no forests.  
  > 保护树木大有必要，否则不用多久所有的森林就会消失。    
+<audio src="./media/1-conservation.aac"></audio>
 
  > **Conservation of** water is of great importance.  
  > 节约用水至关重要。    
+<audio src="./media/2-conservation.aac"></audio>
 
 ### 2.*低义频：* **(艺术品、历史遗迹等的) 保存；保全：**  
 
@@ -11103,7 +15303,13 @@ consequently /'kɒnsɪkwəntli/ adv
 
 
 # ***\#conservationist*** n
-英音 ˌkɒnsə'veɪʃənɪst     美音 ˌkɑːnsər'veɪʃənɪst  
+英音 ˌkɒnsə'veɪʃənɪst  
+英音
+<audio src="./media/conservationist1_AAC.aac"></audio>
+美音 ˌkɑːnsər'veɪʃənɪst  
+美音
+<audio src="./media/conservationist1_AAC.aac"></audio>
+
 
   
 
@@ -11113,7 +15319,13 @@ consequently /'kɒnsɪkwəntli/ adv
 
 
 # ***\#conservative*** adj
-英音 kən'sɜːvətɪv     美音 kən'sɜːrvətɪv  
+英音 kən'sɜːvətɪv  
+英音
+<audio src="./media/conservative-B.aac"></audio>
+美音 kən'sɜːrvətɪv  
+美音
+<audio src="./media/conservative.aac"></audio>
+
 
 | 词频 1 | 口语 1 | 书面 1 |  
 
@@ -11123,6 +15335,7 @@ consequently /'kɒnsɪkwəntli/ adv
 
  > People are naturally conservative and do not like change.   
  > 人天性保守，不喜欢改变。  （2014 安徽）  
+<audio src="./media/conservative1.aac"></audio>
 
 ### 2.*高义频：* **(预测等) 保守的；慎重的：**  
 
@@ -11131,7 +15344,13 @@ consequently /'kɒnsɪkwəntli/ adv
 
 
 # ***\#conservatory*** n
-英音 kən'sɜːvətri     美音 kən'sɜːrvətɔːri  
+英音 kən'sɜːvətri  
+英音
+<audio src="./media/conservatory1.aac"></audio>
+美音 kən'sɜːrvətɔːri  
+美音
+<audio src="./media/conservatory2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -11141,7 +15360,13 @@ consequently /'kɒnsɪkwəntli/ adv
 
 
 # ***\#conserve*** v
-英音 kənˈsɜːv     美音 kənˈsɜːrv  
+英音 kənˈsɜːv  
+英音
+<audio src="./media/conserve v1_AAC.aac"></audio>
+美音 kənˈsɜːrv  
+美音
+<audio src="./media/conserve v2_AAC.aac"></audio>
+
 
   
 
@@ -11153,7 +15378,13 @@ consequently /'kɒnsɪkwəntli/ adv
 
 
 # ***\#conserve*** n
-英音 kənˈsɜːv     美音 kənˈsɜːrv  
+英音 kənˈsɜːv  
+英音
+<audio src="./media/conserve n1_AAC.aac"></audio>
+美音 kənˈsɜːrv  
+美音
+<audio src="./media/conserve n2_AAC.aac"></audio>
+
 
   
 
@@ -11163,7 +15394,13 @@ consequently /'kɒnsɪkwəntli/ adv
 
 
 # ***\#consider*** v  重难点词汇
-英音 kən'sɪdə(r)     美音 kən'sɪdər  
+英音 kən'sɪdə(r)  
+英音
+<audio src="./media/consider-B.aac"></audio>
+美音 kən'sɪdər  
+美音
+<audio src="./media/consider.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -11173,25 +15410,31 @@ consequently /'kɒnsɪkwəntli/ adv
 
  > Consider carefully before you decide.  
  > 慎重考虑后再作决定。    
+<audio src="./media/1-consider.aac"></audio>
 
  > We have considered your application carefully, but cannot offer you the job.  
  > 我们已经认真地考虑了你的申请，认为不能聘请你做这份工作。    
+<audio src="./media/2-consider.aac"></audio>
 
 - consider doing sth:
 
  > As early as 1966, biologists asked the government to consider reintroducing wolves to Yellowstone Park.  
  > 早在1966年，生物学家就请求政府考虑让狼回归黄石公园。  （2017 全国）  
+<audio src="./media/Consider-101_AAC.aac"></audio>
 
  > To turn your weakness into strength, consider taking hands-on learning or training.  
  > 要把弱项变为强项，可以考虑参加实践性学习或培训。  （2009 浙江）  
+<audio src="./media/4-consider.aac"></audio>
 
 - consider + wh- 从句 / wh- to do sth:
 
  > Consider what you really need.  
  > 好好考虑你到底需要什么。    
+<audio src="./media/6-consider.aac"></audio>
 
  > We must consider what to do next.  
  > 我们必须考虑下一步做什么。    
+<audio src="./media/5-consider.aac"></audio>
 
 ### 2.*高义频：* **认为；觉得：**  
 
@@ -11199,32 +15442,39 @@ consequently /'kɒnsɪkwəntli/ adv
 
  > I do not consider him as / to be the best person for the work.   
  > 我认为他不是这项工作的最佳人选。    
+<audio src="./media/consider-I do not consider.aac"></audio>
 
  > Neilson considers herself lucky though she suffered injuries.  
  > 尽管受了伤，尼尔森还是认为自己很幸运。  （2008 湖北）  
+<audio src="./media/9-consider.aac"></audio>
 
 - consider it + adj / n + to do sth：
 
  > If you invite people to a party at 7 o'clock your guests will consider it polite to turn up exactly on time in Germany.  
  > 在德国，如果你邀请人们参加7点钟的聚会，客人会认为准时到场是礼貌的。  （2011 全国）  
+<audio src="./media/Consider-102_AAC.aac"></audio>
 
  > He considered it a great honour to be invited to the party.  
  > 受邀参加聚会，他感到非常荣幸。    
+<audio src="./media/12-consider.aac"></audio>
 
 - consider sb to do sth:
 
  > Charles Babbage is generally considered to have invented the first computer.  
  > 人们普遍认为，是查尔斯•巴比奇发明了第一台电脑。    
+<audio src="./media/13-consider.aac"></audio>
 
 - consider + (that) 从句：
 
  > They consider that the danger was not over.  
  > 他们认为危险还没有过去。    
+<audio src="./media/14-consider.aac"></audio>
 
 ### 3.*高义频：* **体谅；顾及：**  
 
  > You’ve got to learn to consider other people.  
  > 你得学会体谅别人。    
+<audio src="./media/15-consider.aac"></audio>
 
 
 固定搭配
@@ -11234,6 +15484,7 @@ consequently /'kɒnsɪkwəntli/ adv
 
  > All things considered, the planned trip will have to be called off.  
  > 考虑到所有情况，计划好的旅行不得不取消了。    
+<audio src="./media/17-consider.aac"></audio>
 
 
 派生词汇
@@ -11245,10 +15496,17 @@ considered /kən'sɪdəd/ adj
 considering /kən'sɪdərɪŋ/ prep   
  > Considering his ability and experience, he might have done better.  
  > 考虑到他的能力和经验，他本可以做得更好。  （2008 江西）  
+<audio src="./media/16-consider.aac"></audio>
 
 
 # ***\#considerable*** adj
-英音 kən'sɪdərəbl     美音 kən'sɪdərəbl  
+英音 kən'sɪdərəbl  
+英音
+<audio src="./media/considerable-B.aac"></audio>
+美音 kən'sɪdərəbl  
+美音
+<audio src="./media/considerable.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 3 | 阅读 2 |  
 
@@ -11265,7 +15523,13 @@ considering /kən'sɪdərɪŋ/ prep
 
 
 # ***\#considerate*** adj
-英音 kən'sɪdərət     美音 kən'sɪdərət  
+英音 kən'sɪdərət  
+英音
+<audio src="./media/considerate-B.aac"></audio>
+美音 kən'sɪdərət  
+美音
+<audio src="./media/considerate2_AAC.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -11275,9 +15539,11 @@ considering /kən'sɪdərɪŋ/ prep
 
  > He is **considerate of / to / toward** old people.   
  > 他对老人很体贴。    
+<audio src="./media/1-considerate.aac"></audio>
 
  > **It was** very **considerate of** you to let us know you were going to be late**to_1**  
  > 你告知我们你会迟到，真是考虑周到。    
+<audio src="./media/P103 considerate2.aac"></audio>
 
 
 派生词汇
@@ -11292,7 +15558,13 @@ considerately /kən'sɪdərətli/ adv
 1. of  
 
 # ***\#consideration*** n
-英音 kənˌsɪdə'reɪʃn     美音 kənˌsɪdə'reɪʃn  
+英音 kənˌsɪdə'reɪʃn  
+英音
+<audio src="./media/consideration-B.aac"></audio>
+美音 kənˌsɪdə'reɪʃn  
+美音
+<audio src="./media/consideration.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 2 | 阅读 3 |  
 
@@ -11305,6 +15577,7 @@ considerately /kən'sɪdərətli/ adv
 
  > Please **give careful consideration to** this question.  
  > 请仔细考虑这个问题。    
+<audio src="./media/1-consideration.aac"></audio>
 
 ### 2.*高义频：* **[U] 体贴；体谅；关心：**  
 
@@ -11313,11 +15586,13 @@ considerately /kən'sɪdərətli/ adv
 
  > Thank you for your consideration.  
  > 谢谢你的关心。  （2008 湖北书面表达）  
+<audio src="./media/2-consideration.aac"></audio>
 
 ### 3.*高义频：* **[C] 要考虑的事 / 因素：**  
 
  > The price and condition are two considerations in / for buying a used car.  
  > 价格和车况是购买二手车时应考虑的两个因素。    
+<audio src="./media/4-consideration.aac"></audio>
 
 
 固定搭配
@@ -11327,19 +15602,28 @@ considerately /kən'sɪdərətli/ adv
 
  > Mobile phones must be switched off inside the castle in consideration of other visitors.  
  > 考虑到其他游客，在城堡内要关闭手机。  （2010 天津改）  
+<audio src="./media/Mobile phones must be switched off_AAC.aac"></audio>
 
 ## \#take sth into consideration
 1.**考虑到某事；顾及某事：**  
 
  > We will take your recent illness into consideration when marking your exams.  
  > 在给你的考卷打分时，我们会考虑到你近期生病的因素。    
+<audio src="./media/6-consideration.aac"></audio>
 
  > I would appreciate it if you could take my proposal into consideration.  
  > 如果您能考虑我的建议，我将不胜感激。  （2015 上海书面表达）  
+<audio src="./media/I would appreciate it if_AAC.aac"></audio>
 
 
 # ***\#consist*** vi
-英音 kən'sɪst     美音 kən'sɪst  
+英音 kən'sɪst  
+英音
+<audio src="./media/consist-B.aac"></audio>
+美音 kən'sɪst  
+美音
+<audio src="./media/consist.aac"></audio>
+
 
 | 词频 3 | 书面 1 | 阅读 2 |  
 
@@ -11352,22 +15636,32 @@ considerately /kən'sɪdərətli/ adv
 
  > Happiness consists in contentment.  
  > 知足常乐。    
+<audio src="./media/1-consist.aac"></audio>
 
  > Success consists in the ability to continue efforts through failures.  
  > 成功在于百折不挠。  （2014 福建书面表达）  
+<audio src="./media/consist-Success consists in the ability.aac"></audio>
 
 ## \#consist of
 1.**由…构成；由…组成：**  
 
  > How many countries does the UK consist of?  
  > 大不列颠联合王国由多少个国家组成？  （人教⑤ – 2）  
+<audio src="./media/3-consist.aac"></audio>
 
  > Life consists of not only sunshine but also storms.  
  > 生活不仅有阳光，还有风雨。  （2008 辽宁书面表达改）  
+<audio src="./media/Life consists of not only_AAC.aac"></audio>
 
 
 # ***\#consistent*** adj
-英音 kən'sɪstənt     美音 kən'sɪstənt  
+英音 kən'sɪstənt  
+英音
+<audio src="./media/consistent-B.aac"></audio>
+美音 kən'sɪstənt  
+美音
+<audio src="./media/consistent.aac"></audio>
+
 
 | 词频 1 | 口语 1 | 书面 1 | 阅读 1 |  
 
@@ -11377,9 +15671,11 @@ considerately /kən'sɪdərətli/ adv
 
  > Make sure that the tenses are consistent.  
  > 确保时态一致。  （人教⑤ – 2）  
+<audio src="./media/1-consistent.aac"></audio>
 
  > You’re not very consistent: first you condemn me, then you praise me.  
  > 你前后矛盾：先是责备我，接着又夸奖我。    
+<audio src="./media/2-consistent.aac"></audio>
 
 
 固定搭配
@@ -11389,6 +15685,7 @@ considerately /kən'sɪdərətli/ adv
 
  > The pattern of injuries is consistent with an attack with a knife.  
  > 这些伤口的类型与刀伤吻合。    
+<audio src="./media/3-consistent.aac"></audio>
 
 
 派生词汇
@@ -11396,7 +15693,13 @@ considerately /kən'sɪdərətli/ adv
 consistently /kən'sɪstəntlɪ/ adv   
 
 # ***\#constant*** adj
-英音 'kɒnstənt     美音 'kɑːnstənt  
+英音 'kɒnstənt  
+英音
+<audio src="./media/constant-B.aac"></audio>
+美音 'kɑːnstənt  
+美音
+<audio src="./media/constant.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 3 |  
 
@@ -11417,9 +15720,11 @@ consistently /kən'sɪstəntlɪ/ adv
 
  > A constant dropping wears the stone.  
  > 滴水穿石。    
+<audio src="./media/1-constant.aac"></audio>
 
  > She needed constant medical attention.  
  > 她需要不间断的医疗护理。    
+<audio src="./media/3-constant.aac"></audio>
 
 
 派生词汇
@@ -11434,7 +15739,13 @@ constantly /'kɒnstəntli/ adv
 1. a constant stream of visitors / tourists  
 
 # ***\#constant*** n
-英音 'kɒnstənt     美音 'kɑːnstənt  
+英音 'kɒnstənt  
+英音
+<audio src="./media/constant-B.aac"></audio>
+美音 'kɑːnstənt  
+美音
+<audio src="./media/constant.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 3 |  
 
@@ -11444,7 +15755,13 @@ constantly /'kɒnstəntli/ adv
 
 
 # ***\#constantly*** adv
-英音 'kɒnstəntli     美音 'kɑːnstəntli  
+英音 'kɒnstəntli  
+英音
+<audio src="./media/constantly1.aac"></audio>
+美音 'kɑːnstəntli  
+美音
+<audio src="./media/constantly.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -11454,7 +15771,13 @@ constantly /'kɒnstəntli/ adv
 
 
 # ***\#constitution*** n
-英音 ˌkɒnstɪ'tjuːʃn     美音 ˌkɑːnstə'tuːʃn  
+英音 ˌkɒnstɪ'tjuːʃn  
+英音
+<audio src="./media/constitution-B.aac"></audio>
+美音 ˌkɑːnstə'tuːʃn  
+美音
+<audio src="./media/constitution.aac"></audio>
+
 
 | 词频 1 | 书面 2 |  
 
@@ -11466,15 +15789,23 @@ constantly /'kɒnstəntli/ adv
 
  > According to the American Constitution, presidential elections are held every four years.   
  > 依据美国宪法，总统大选每4年举行一次。    
+<audio src="./media/1-constitution.aac"></audio>
 
 ### 2.*高义频：* **体质；体格：**  
 
  > A hard life and **a weak constitution** shortened Robert Burn’s life.   
  > 艰辛的生活和虚弱的体质缩短了罗伯特·彭斯的寿命。  （译林⑧ – 1）  
+<audio src="./media/2-constitution.aac"></audio>
 
 
 # ***\#construct*** vt
-英音 kən'strʌkt     美音 kən'strʌkt  
+英音 kən'strʌkt  
+英音
+<audio src="./media/construct-B.aac"></audio>
+美音 kən'strʌkt  
+美音
+<audio src="./media/construct.aac"></audio>
+
 
 | 词频 3 | 书面 1 | 阅读 2 |  
 
@@ -11484,13 +15815,20 @@ constantly /'kɒnstəntli/ adv
 
  > This great stone castle was constructed five hundred years ago.  
  > 这座宏伟的石头城堡建于500年前。  （人教⑤ – 2）  
+<audio src="./media/This great stone castle .aac"></audio>
 
  > a well-constructed novel  
  > 构思巧妙的小说    
 
 
 # ***\#construction*** n
-英音 kən'strʌkʃn     美音 kən'strʌkʃn  
+英音 kən'strʌkʃn  
+英音
+<audio src="./media/construction-B.aac"></audio>
+美音 kən'strʌkʃn  
+美音
+<audio src="./media/construction.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
 
@@ -11500,11 +15838,13 @@ constantly /'kɒnstəntli/ adv
 
  > The **construction of** the tower took about 2 years.  
  > 建这座塔花了大约两年时间。    
+<audio src="./media/1-construction.aac"></audio>
 
 ### 2.*高义频：* **建筑物；构造物：**  
 
  > The shelter is a brick construction.  
  > 这个避难所是砖结构的。    
+<audio src="./media/P104 construction-2.aac"></audio>
 
 
 固定搭配
@@ -11514,10 +15854,17 @@ constantly /'kɒnstəntli/ adv
 
  > There are four underground lines in the city, and several lines are under construction.   
  > 这座城市现有4条地铁线路，还有几条正在建设中。    
+<audio src="./media/3-construction.aac"></audio>
 
 
 # ***\#consulate*** n
-英音 ˈkɒnsjələt     美音 ˈkɑːnsələt  
+英音 ˈkɒnsjələt  
+英音
+<audio src="./media/consulate1_AAC.aac"></audio>
+美音 ˈkɑːnsələt  
+美音
+<audio src="./media/consulate1_AAC.aac"></audio>
+
 
   
 
@@ -11527,7 +15874,13 @@ constantly /'kɒnstəntli/ adv
 
 
 # ***\#consult*** v
-英音 kən'sʌlt     美音 kən'sʌlt  
+英音 kən'sʌlt  
+英音
+<audio src="./media/consult-B.aac"></audio>
+美音 kən'sʌlt  
+美音
+<audio src="./media/consult.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 1 | 阅读 2 |  
 
@@ -11540,6 +15893,7 @@ constantly /'kɒnstəntli/ adv
 
  > You should **consult with** your parents **about** your future plans.   
  > 你应该与父母商量你的未来计划。    
+<audio src="./media/P104 consult2.aac"></audio>
 
 ### 2.*高义频：* **查阅；参考(refer to)：**  
 
@@ -11555,7 +15909,13 @@ constantly /'kɒnstəntli/ adv
 1. consult  
 
 # ***\#consultant*** n
-英音 kən'sʌltənt     美音 kən'sʌltənt  
+英音 kən'sʌltənt  
+英音
+<audio src="./media/consultant-B.aac"></audio>
+美音 kən'sʌltənt  
+美音
+<audio src="./media/consultant.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -11565,7 +15925,13 @@ constantly /'kɒnstəntli/ adv
 
 
 # ***\#consultation*** n
-英音 ˌkɒnsl'teɪʃn     美音 ˌkɑːnsl'teɪʃn  
+英音 ˌkɒnsl'teɪʃn  
+英音
+<audio src="./media/consultation1_AAC.aac"></audio>
+美音 ˌkɑːnsl'teɪʃn  
+美音
+<audio src="./media/consultation2_AAC.aac"></audio>
+
 
 | 词频 1 | 阅读 1 |  
 
@@ -11575,7 +15941,13 @@ constantly /'kɒnstəntli/ adv
 
 
 # ***\#consume*** vt
-英音 kən'sjuːm     美音 kən'suːm  
+英音 kən'sjuːm  
+英音
+<audio src="./media/consume-B.aac"></audio>
+美音 kən'suːm  
+美音
+<audio src="./media/consume.aac"></audio>
+
 
 | 词频 2 | 阅读 2 |  
 
@@ -11585,18 +15957,27 @@ constantly /'kɒnstəntli/ adv
 
  > The developed countries consume the most energy in the world.   
  > 发达国家消耗了世界上最多的能源。  （人教⑥ – 4）  
+<audio src="./media/1-consume.aac"></audio>
 
  > Looking after the children, cooking and cleaning are **time-consuming**.  
  > 看孩子、做饭、打扫房间很费时间。  （2008 四川改）  
+<audio src="./media/2-consume.aac"></audio>
 
 ### 2.*低义频：* **吃；喝：**  
 
  > He consumed all the cookies.  
  > 他吃光了所有的饼干。    
+<audio src="./media/3-consume.aac"></audio>
 
 
 # ***\#consumer*** n
-英音 kən'sjuːmə(r)     美音 kən'suːmər  
+英音 kən'sjuːmə(r)  
+英音
+<audio src="./media/consumer-B.aac"></audio>
+美音 kən'suːmər  
+美音
+<audio src="./media/consumer.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -11606,7 +15987,13 @@ constantly /'kɒnstəntli/ adv
 
 
 # ***\#consumption*** n
-英音 kən'sʌmpʃn     美音 kən'sʌmpʃn  
+英音 kən'sʌmpʃn  
+英音
+<audio src="./media/consumption1.aac"></audio>
+美音 kən'sʌmpʃn  
+美音
+<audio src="./media/consumption2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -11616,7 +16003,13 @@ constantly /'kɒnstəntli/ adv
 
 
 # ***\#contact*** n
-英音 'kɒntækt     美音 'kɑːntækt  
+英音 'kɒntækt  
+英音
+<audio src="./media/contact-B.aac"></audio>
+美音 'kɑːntækt  
+美音
+<audio src="./media/contact.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -11629,32 +16022,45 @@ constantly /'kɒnstəntli/ adv
 
  > Keep **eye contact** in conversation to build trust.  
  > 谈话中保持目光接触以建立信任。  （2015 安徽）  
+<audio src="./media/contact50.aac"></audio>
 
  > The bomb explodes **on contact**.  
  > 那枚炸弹一碰就会爆炸。    
+<audio src="./media/5-contact.aac"></audio>
 
 ### 2.*高义频：* **[U] 联系；联络；交往：**  
 
  > My only **contact with** my parents now is through the phone.  
  > 现在我与父母唯一的联系就是通电话。  （2010 重庆）  
+<audio src="./media/1-contact.aac"></audio>
 
  > The pilot **lost contact with** the control tower.  
  > 飞行员与指挥塔失去了联络。    
+<audio src="./media/2-contact.aac"></audio>
 
  > The Internet helps me to **get / keep / stay in contact** with my friends.  
  > 互联网便于我与朋友们保持联系。    
+<audio src="./media/contact-The Internet helps.aac"></audio>
 
  > I have managed to **make contact with** an old friend.   
  > 我设法与一位老朋友取得了联系。    
+<audio src="./media/P104 contact4.aac"></audio>
 
 ### 3.*高义频：* **[C] [常用复数] 社会关系；门路；熟人：**  
 
  > In the past, it was always easy to get a job if you **had** friends and **contacts**.  
  > 过去，如果你有朋友和关系，找工作往往很容易。    
+<audio src="./media/6-contact.aac"></audio>
 
 
 # ***\#contact*** vt
-英音 'kɒntækt     美音 'kɑːntækt  
+英音 'kɒntækt  
+英音
+<audio src="./media/contact-B.aac"></audio>
+美音 'kɑːntækt  
+美音
+<audio src="./media/contact.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -11664,10 +16070,17 @@ constantly /'kɒnstəntli/ adv
 
  > Please contact me by e-mail if you are interested.  
  > 如有兴趣，请发电邮与我联系。    
+<audio src="./media/8-contact.aac"></audio>
 
 
 # ***\#contain*** vt
-英音 kən'teɪn     美音 kən'teɪn  
+英音 kən'teɪn  
+英音
+<audio src="./media/contain-B.aac"></audio>
+美音 kən'teɪn  
+美音
+<audio src="./media/contain.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 3 |  
 
@@ -11679,14 +16092,17 @@ constantly /'kɒnstəntli/ adv
 
  > Some plants and animals contain natural poisons that are harmful to people.  
  > 有些动植物体内含有对人类有害的天然毒素。  （2010 广东）  
+<audio src="./media/1-contain.aac"></audio>
 
  > I lost a file containing a lot of important documents.  
  > 我丢失了一个存有大量重要文件的文件夹。    
+<audio src="./media/Contain-101_AAC.aac"></audio>
 
 ### 2.*低义频：* **抑制；控制：**  
 
  > My father could hardly contain his pride in me.  
  > 父亲无法抑制以我为傲的心情。  （2011 陕西）  
+<audio src="./media/3-contain.aac"></audio>
 
 
 真题解析
@@ -11697,7 +16113,13 @@ constantly /'kɒnstəntli/ adv
 1. contained  
 
 # ***\#container*** n
-英音 kən'teɪnə(r)     美音 kən'teɪnər  
+英音 kən'teɪnə(r)  
+英音
+<audio src="./media/container-B.aac"></audio>
+美音 kən'teɪnər  
+美音
+<audio src="./media/container.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -11707,7 +16129,13 @@ constantly /'kɒnstəntli/ adv
 
 
 # ***\#contemporary*** adj
-英音 kən'temprəri     美音 kən'tempəreri  
+英音 kən'temprəri  
+英音
+<audio src="./media/contemporary-B.aac"></audio>
+美音 kən'tempəreri  
+美音
+<audio src="./media/contemporary.aac"></audio>
+
 
 | 词频 2 | 书面 2 | 阅读 2 |  
 
@@ -11725,10 +16153,17 @@ constantly /'kɒnstəntli/ adv
 
  > Dickens was **contemporary with** Thackeray.  
  > 狄更斯和萨克雷是同时代的人。    
+<audio src="./media/1-contemporary.aac"></audio>
 
 
 # ***\#contemporary*** n
-英音 kən'temprəri     美音 kən'tempəreri  
+英音 kən'temprəri  
+英音
+<audio src="./media/contemporary-B.aac"></audio>
+美音 kən'tempəreri  
+美音
+<audio src="./media/contemporary.aac"></audio>
+
 
 | 词频 2 | 阅读 2 |  
 
@@ -11738,7 +16173,13 @@ constantly /'kɒnstəntli/ adv
 
 
 # ***\#content*** n
-英音 'kɒntent     美音 'kɑːntent  
+英音 'kɒntent  
+英音
+<audio src="./media/content1-B.aac"></audio>
+美音 'kɑːntent  
+美音
+<audio src="./media/content 2.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -11750,16 +16191,19 @@ constantly /'kɒnstəntli/ adv
 
  > She dropped her handbag and the contents fell out on the floor.  
  > 她的手提袋掉在了地上，东西掉了一地。    
+<audio src="./media/1-content 2.aac"></audio>
 
 ### 2.*高义频：* **(书刊等的) 目录：**  
 
  > It is advisable to look at the **contents page** of a book before buying it.  
  > 买书前最好先看一看目录页。    
+<audio src="./media/2-content 2.aac"></audio>
 
 ### 3.*高义频：* **(书籍、文章、演讲等的) 主要内容：**  
 
  > The content of your essay is excellent, but it’s not very well expressed.  
  > 你的那篇文章内容非常好，但没有非常好地表述出来。    
+<audio src="./media/3-content 2.aac"></audio>
 
 ### 4.*高义频：* **含量：**  
 
@@ -11768,7 +16212,13 @@ constantly /'kɒnstəntli/ adv
 
 
 # ***\#content*** vt
-英音 kən'tent     美音 kən'tent  
+英音 kən'tent  
+英音
+<audio src="./media/content2-B.aac"></audio>
+美音 kən'tent  
+美音
+<audio src="./media/content.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -11778,6 +16228,7 @@ constantly /'kɒnstəntli/ adv
 
  > We should never **content ourselves with** book knowledge only.  
  > 我们切不可仅仅满足于书本知识。    
+<audio src="./media/5-content.aac"></audio>
 
 
 派生词汇
@@ -11785,7 +16236,13 @@ constantly /'kɒnstəntli/ adv
 contentment /kən'tentmənt/ n   
 
 # ***\#content*** adj
-英音 kən'tent     美音 kən'tent  
+英音 kən'tent  
+英音
+<audio src="./media/content2-B.aac"></audio>
+美音 kən'tent  
+美音
+<audio src="./media/content.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -11798,14 +16255,17 @@ contentment /kən'tentmənt/ n
 
  > Happy is he who is content.  
  > 知足者常乐。  （2013 天津）  
+<audio src="./media/content50.aac"></audio>
 
 - (be) content with:
 
  > I am content with second place, because I know that I tried my hardest.  
  > 得第二名我就知足了，因为我知道自己已经尽最大努力了。  （译林⑥ – 2）  
+<audio src="./media/1-content.aac"></audio>
 
  > Not content with a big house, a loving family, Selina still tries to build her own career.  
  > 赛琳娜不满足于有个大房子还有其乐融融的家庭，她仍然努力创建自己的事业。    
+<audio src="./media/2-content.aac"></audio>
 
 
 固定搭配
@@ -11815,6 +16275,7 @@ contentment /kən'tentmənt/ n
 
  > She is content to live quietly by herself.  
  > 她愿意独自安静地生活。    
+<audio src="./media/Content-101_AAC.aac"></audio>
 
 
 派生词汇
@@ -11822,7 +16283,13 @@ contentment /kən'tentmənt/ n
 contentment /kən'tentmənt/ n   
 
 # ***\#contented*** adj
-英音 kənˈtentɪd     美音 kənˈtentɪd  
+英音 kənˈtentɪd  
+英音
+<audio src="./media/contented1_AAC.aac"></audio>
+美音 kənˈtentɪd  
+美音
+<audio src="./media/contented2_AAC.aac"></audio>
+
 
   
 
@@ -11832,7 +16299,13 @@ contentment /kən'tentmənt/ n
 
 
 # ***\#contest*** n
-英音 'kɒntest     美音 'kɑːntest  
+英音 'kɒntest  
+英音
+<audio src="./media/contest-B.aac"></audio>
+美音 'kɑːntest  
+美音
+<audio src="./media/contest.aac"></audio>
+
 
 | 词频 3 | 书面 1 |  
 
@@ -11842,13 +16315,21 @@ contentment /kən'tentmənt/ n
 
  > I heard you won the first prize at the speech contest.  
  > 听说你在演讲比赛中获得了一等奖。    
+<audio src="./media/1-contest.aac"></audio>
 
  > I finally came out of the contest as the first prize winner.  
  > 我最终获得比赛一等奖。  （2016 浙江书面表达）  
+<audio src="./media/I finally came out_AAC.aac"></audio>
 
 
 # ***\#contest*** vt
-英音 'kɒntest     美音 'kɑːntest  
+英音 'kɒntest  
+英音
+<audio src="./media/contest-B.aac"></audio>
+美音 'kɑːntest  
+美音
+<audio src="./media/contest.aac"></audio>
+
 
 | 词频 3 | 书面 1 |  
 
@@ -11858,7 +16339,13 @@ contentment /kən'tentmənt/ n
 
 
 # ***\#context*** n
-英音 'kɒntekst     美音 'kɒntekst  
+英音 'kɒntekst  
+英音
+<audio src="./media/context-B.aac"></audio>
+美音 'kɒntekst  
+美音
+<audio src="./media/context.aac"></audio>
+
 
 | 词频 2 | 口语 2 |  
 
@@ -11874,7 +16361,13 @@ contentment /kən'tentmənt/ n
 
 
 # ***\#continent*** n
-英音 'kɒntɪnənt     美音 'kɒntɪnənt  
+英音 'kɒntɪnənt  
+英音
+<audio src="./media/continent-B.aac"></audio>
+美音 'kɒntɪnənt  
+美音
+<audio src="./media/continent.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -11887,7 +16380,13 @@ contentment /kən'tentmənt/ n
 
 
 # ***\#continental*** adj
-英音 ˌkɒntɪ'nentl     美音 ˌkɑːntɪ'nentl  
+英音 ˌkɒntɪ'nentl  
+英音
+<audio src="./media/continental1.aac"></audio>
+美音 ˌkɑːntɪ'nentl  
+美音
+<audio src="./media/continental2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -11897,7 +16396,13 @@ contentment /kən'tentmənt/ n
 
 
 # ***\#continuation*** n
-英音 kənˌtɪnjuˈeɪʃn     美音 kənˌtɪnjuˈeɪʃn  
+英音 kənˌtɪnjuˈeɪʃn  
+英音
+<audio src="./media/continuation1_AAC.aac"></audio>
+美音 kənˌtɪnjuˈeɪʃn  
+美音
+<audio src="./media/continuation2_AAC.aac"></audio>
+
 
   
 
@@ -11907,7 +16412,13 @@ contentment /kən'tentmənt/ n
 
 
 # ***\#continue*** v
-英音 kən'tɪnjuː     美音 kən'tɪnjuː  
+英音 kən'tɪnjuː  
+英音
+<audio src="./media/continue-B.aac"></audio>
+美音 kən'tɪnjuː  
+美音
+<audio src="./media/continue.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -11917,30 +16428,37 @@ contentment /kən'tentmənt/ n
 
  > I hope that this kind of activity will continue in the future.  
  > 我希望这种活动今后能继续办下去。    
+<audio src="./media/1-continue.aac"></audio>
 
  > The children asked the old man to **continue with** his story.  
  > 孩子们让老人继续讲故事。    
+<audio src="./media/2-continue.aac"></audio>
 
  > Babbage continued his work in London for four years.  
  > 巴比奇继续在伦敦工作了四年。    
+<audio src="./media/3-continue.aac"></audio>
 
 - continue doing sth:
 
  > Though wounded, they continued fighting.  
  > 虽然负了伤，但他们仍然坚持战斗。    
+<audio src="./media/4-continue.aac"></audio>
 
 - continue to do sth:
 
  > She continued to work after her long vacation.  
  > 长假过后她又继续工作了。    
+<audio src="./media/5-continue.aac"></audio>
 
 ### 2.*高义频：* **维持…的情况：**  
 
  > The winter continued (to be) cold and wet.  
  > 冬天依旧寒冷、潮湿。    
+<audio src="./media/6-continue.aac"></audio>
 
  > She continues in good health.  
  > 她身体依然很好。    
+<audio src="./media/7-continue.aac"></audio>
 
 
 固定搭配
@@ -11964,7 +16482,13 @@ continued /kən'tɪnjuːd/ adj [只用于名词前]
 1. continued  
 
 # ***\#continuous*** adj
-英音 kən'tɪnjuəs     美音 kən'tɪnjuəs  
+英音 kən'tɪnjuəs  
+英音
+<audio src="./media/continuous-B.aac"></audio>
+美音 kən'tɪnjuəs  
+美音
+<audio src="./media/continuous.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 3 |  
 
@@ -11977,6 +16501,7 @@ continued /kən'tɪnjuːd/ adj [只用于名词前]
 
  > The rain has been continuous since this morning.  
  > 从今天早上开始到现在雨一直下个不停。    
+<audio src="./media/Continuous-101_AAC.aac"></audio>
 
 
 派生词汇
@@ -11984,7 +16509,13 @@ continued /kən'tɪnjuːd/ adj [只用于名词前]
 continuously /kən'tɪnjuəsli/ adv   
 
 # ***\#contract*** v
-英音 kən'trækt     美音 kən'trækt  
+英音 kən'trækt  
+英音
+<audio src="./media/contract-v-B.aac"></audio>
+美音 kən'trækt  
+美音
+<audio src="./media/contract.aac"></audio>
+
 
 | 词频 2 | 阅读 2 |  
 
@@ -11994,12 +16525,19 @@ continuously /kən'tɪnjuəsli/ adv
 
  > Metal contracts as it cools.  
  > 金属遇冷收缩。    
+<audio src="./media/1-contract.aac"></audio>
 
 ### 2.*低义频：* **签 (合同)**  
 
 
 # ***\#contract*** n
-英音 'kɒntrækt     美音 'kɑːntrækt  
+英音 'kɒntrækt  
+英音
+<audio src="./media/contract-B.aac"></audio>
+美音 'kɑːntrækt  
+美音
+<audio src="./media/contract-A.aac"></audio>
+
 
 | 词频 2 | 口语 3 | 书面 3 | 阅读 2 |  
 
@@ -12015,10 +16553,17 @@ continuously /kən'tɪnjuəsli/ adv
 
  > Being punctual is a contract that is silently agreed.   
  > 守时是默默签订的协议。  （2015 陕西）  
+<audio src="./media/P105 contract3.aac"></audio>
 
 
 # ***\#contractor*** n
-英音 kənˈtræktə(r)     美音 ˈkɑːntræktər  
+英音 kənˈtræktə(r)  
+英音
+<audio src="./media/contractor1_AAC.aac"></audio>
+美音 ˈkɑːntræktər  
+美音
+<audio src="./media/contractor2_AAC.aac"></audio>
+
 
   
 
@@ -12028,7 +16573,13 @@ continuously /kən'tɪnjuəsli/ adv
 
 
 # ***\#contradict*** v
-英音 ˌkɒntrə'dɪkt     美音 ˌkɒntrə'dɪkt  
+英音 ˌkɒntrə'dɪkt  
+英音
+<audio src="./media/contradict-B.aac"></audio>
+美音 ˌkɒntrə'dɪkt  
+美音
+<audio src="./media/contradict.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -12038,15 +16589,23 @@ continuously /kən'tɪnjuəsli/ adv
 
  > That’s true, and don’t you dare contradict me.  
  > 这是事实，你还敢跟我顶嘴。    
+<audio src="./media/1-contradict.aac"></audio>
 
 ### 2.*低义频：* **(陈述、行动) 同…矛盾；同…抵触：**  
 
  > Your actions contradicted your principles.  
  > 你的行为违背了自己的原则。    
+<audio src="./media/2-contradict.aac"></audio>
 
 
 # ***\#contradictory*** adj
-英音 ˌkɒntrə'dɪktəri     美音 ˌkɑːntrə'dɪktəri  
+英音 ˌkɒntrə'dɪktəri  
+英音
+<audio src="./media/contradictory-B.aac"></audio>
+美音 ˌkɑːntrə'dɪktəri  
+美音
+<audio src="./media/contradictory.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -12056,10 +16615,17 @@ continuously /kən'tɪnjuəsli/ adv
 
  > Harry has contradictory feelings about his new life.  
  > 哈利对新生活有一种矛盾的心情。  （译林⑧ – 4）  
+<audio src="./media/1-contradictory.aac"></audio>
 
 
 # ***\#contrary*** n
-英音 'kɒntrəri     美音 'kɑːntreri  
+英音 'kɒntrəri  
+英音
+<audio src="./media/contrary-B.aac"></audio>
+美音 'kɑːntreri  
+美音
+<audio src="./media/contrary.aac"></audio>
+
 
 | 词频 3 | 阅读 2 |  
 
@@ -12069,6 +16635,7 @@ continuously /kən'tɪnjuəsli/ adv
 
  > Being too anxious to help an event develop often results in the contrary to our intention.  
  > “拔苗助长”往往会事与愿违。  （2008 广东）  
+<audio src="./media/1-contrary.aac"></audio>
 
 
 固定搭配
@@ -12078,12 +16645,14 @@ continuously /kən'tɪnjuəsli/ adv
 
  > He thought his marketing plan was perfect, but on the contrary, it was not and it failed.  
  > 他以为自己的营销计划完美无缺，而事实恰恰相反，这个计划不仅不完美，还徒劳无功。  （人教③ – 3）  
+<audio src="./media/2-contrary.aac"></audio>
 
 ## \#to the contrary
 1.**相反的；相反地：**  
 
  > Unless I hear anything to the contrary, I shall assume the meeting will be held on time.  
  > 除非有人反对，否则我会认为会议将准时召开。    
+<audio src="./media/3-contrary.aac"></audio>
 
 
 真题解析
@@ -12094,7 +16663,13 @@ continuously /kən'tɪnjuəsli/ adv
 1. On the contrary  
 
 # ***\#contrary*** adj
-英音 'kɒntrəri     美音 'kɑːntreri  
+英音 'kɒntrəri  
+英音
+<audio src="./media/contrary-B.aac"></audio>
+美音 'kɑːntreri  
+美音
+<audio src="./media/contrary.aac"></audio>
+
 
 | 词频 3 | 阅读 2 |  
 
@@ -12109,9 +16684,11 @@ continuously /kən'tɪnjuəsli/ adv
 
  > Contrary to popular belief, many cats dislike milk.  
  > 与普遍的看法相反，许多猫并不喜欢牛奶。    
+<audio src="./media/4-contrary.aac"></audio>
 
  > The results were contrary to my expectation.  
  > 结果与我的预期相反。    
+<audio src="./media/5-contrary.aac"></audio>
 
 
 真题解析
@@ -12122,7 +16699,13 @@ continuously /kən'tɪnjuəsli/ adv
 1. On the contrary  
 
 # ***\#contrast*** v
-英音 kən'trɑːst     美音 kən'trɑːst  
+英音 kən'trɑːst  
+英音
+<audio src="./media/Contrast-vt-vi-B.aac"></audio>
+美音 kən'trɑːst  
+美音
+<audio src="./media/contrast-v.aac"></audio>
+
 
 | 词频 2 | 阅读 2 |  
 
@@ -12132,13 +16715,21 @@ continuously /kən'tɪnjuəsli/ adv
 
  > In this book, the writer **contrasts** good **with** evil.  
  > 在这本书里，作者对善与恶进行了对比。    
+<audio src="./media/1-contrast.aac"></audio>
 
  > His actions **contrast sharply with** his promises.  
  > 他的行动与诺言形成鲜明对比。    
+<audio src="./media/2-contrast.aac"></audio>
 
 
 # ***\#contrast*** n
-英音 'kɒntrɑːst     美音 'kɑːntræst  
+英音 'kɒntrɑːst  
+英音
+<audio src="./media/contrast-B.aac"></audio>
+美音 'kɑːntræst  
+美音
+<audio src="./media/contrast.aac"></audio>
+
 
 | 词频 2 | 书面 2 | 阅读 2 |  
 
@@ -12151,6 +16742,7 @@ continuously /kən'tɪnjuəsli/ adv
 
  > Careful contrast of the two plans shows up some key differences.  
  > 把这两个计划仔细地加以对比就可以看出一些关键性的差异。    
+<audio src="./media/3-contrast.aac"></audio>
 
 
 固定搭配
@@ -12160,18 +16752,21 @@ continuously /kən'tɪnjuəsli/ adv
 
  > By contrast, Mrs Young was much more outspoken.  
  > 相比之下，杨夫人坦率多了。    
+<audio src="./media/4-contrast.aac"></audio>
 
 ## \#in contrast with / to
 1.**与…对比；与…相反：**  
 
  > In contrast to his wife, Bush has little appetite for foreign travel.  
  > 与他的妻子不同，布什对出国旅游没什么兴趣。    
+<audio src="./media/Contrast-101_AAC.aac"></audio>
 
 ## \#make a contrast with
 1.**与…形成对比：**  
 
  > The white walls make a contrast with the black carpet.  
  > 白色的墙壁与黑色的地毯形成了鲜明的对比。    
+<audio src="./media/6-contrast.aac"></audio>
 
 
 真题解析
@@ -12182,7 +16777,13 @@ continuously /kən'tɪnjuəsli/ adv
 1. By / In contrast  
 
 # ***\#contribute*** v  重难点词汇
-英音 kən'trɪbjuːt     美音 kən'trɪbjuːt  
+英音 kən'trɪbjuːt  
+英音
+<audio src="./media/contribute-B.aac"></audio>
+美音 kən'trɪbjuːt  
+美音
+<audio src="./media/contribute.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 | 阅读 3 |  
 
@@ -12192,36 +16793,44 @@ continuously /kən'tɪnjuəsli/ adv
 
  > Immigrants have **contributed to** the British culture in many ways.  
  > 移民在许多方面都对英国文化有所贡献。    
+<audio src="./media/1-contribute.aac"></audio>
 
  > It was generous of her to contribute such a large sum of money.  
  > 她很大方，捐了这么一大笔钱。    
+<audio src="./media/2-contribute.aac"></audio>
 
 - contribute (sth) to sth:
 
  > Immigrants have contributed to American culture in many ways.  
  > 移民在许多方面都对美国文化有所贡献。    
+<audio src="./media/1-contribute.aac"></audio>
 
  > contribute (money) to the Red Cross  
  > 向红十字会捐钱    
 
  > He never contributes (ideas) to the discussion.  
  > 他在讨论时从不发表意见。    
+<audio src="./media/3-contribute.aac"></audio>
 
 #### 辨析 donate, contribute
 二者均可表示“捐献”，后面均可接to。表示捐钱或衣物时，二者可互换使用。  
  > It is more meaningful **to** **donate / contribute** books and sports goods to children in need.  
  > 把书和体育用品捐给需要的孩子们更有意义。  （2013 江苏改）  
+<audio src="./media/donate-It is more meaningful.aac"></audio>
 
 **donate** 一般表示捐钱和献血。只作及物动词。
 **contribute** 主要指“贡献”，通常指贡献财力、物力、智力等。此外，contribute 还可表示“促成”、“起作用”、“投稿”的意思。
  > I believe that each of us can **contribute to** the future of the world.  
  > 我相信我们每一个人都能够对世界的未来有所贡献。    
+<audio src="./media/donate-4.aac"></audio>
 
  > Honesty and hard work **contribute to** success and happiness.  
  > 诚实加苦干有助于成功和幸福。    
+<audio src="./media/donate-5.aac"></audio>
 
  > The scientist often **contributes to** an academic journal.  
  > 这位科学家常常给一家学术期刊撰稿。    
+<audio src="./media/donate-6.aac"></audio>
 
 
 ### 2.*高义频：* **造成 / 促使 (某事发生)**  
@@ -12229,14 +16838,17 @@ continuously /kən'tɪnjuəsli/ adv
 
  > Alcohol **contributes to** 100, 000 deaths a year in the US.  
  > 在美国，饮酒每年导致10万人死亡。    
+<audio src="./media/4-contribute.aac"></audio>
 
  > Stress is a **contributing factor** in many illnesses.  
  > 压力是诸多疾病的致病因素。    
+<audio src="./media/5-contribute.aac"></audio>
 
 ### 3.*高义频：* **投 (稿)；撰 (稿)：**  
 
  > She **contributed** a number of articles **to** the magazine.  
  > 她给这家杂志撰写了多篇文章。    
+<audio src="./media/6-contribute.aac"></audio>
 
 
 派生词汇
@@ -12244,7 +16856,13 @@ continuously /kən'tɪnjuəsli/ adv
 contributor /kən'trɪbjʊtə/ n   
 
 # ***\#contribution*** n
-英音 ˌkɒntrɪ'bjuːʃn     美音 ˌkɑːntrɪ'bjuːʃn  
+英音 ˌkɒntrɪ'bjuːʃn  
+英音
+<audio src="./media/contribution-B.aac"></audio>
+美音 ˌkɑːntrɪ'bjuːʃn  
+美音
+<audio src="./media/contribution.aac"></audio>
+
 
 | 词频 3 | 口语 2 | 书面 2 | 阅读 3 |  
 
@@ -12256,20 +16874,29 @@ contributor /kən'trɪbjʊtə/ n
 
  > I admire Edison a lot because he **made a great contribution to** the world.  
  > 我很敬佩爱迪生，因为他为世界作出了巨大贡献。  （2008 湖南书面表达改）  
+<audio src="./media/I admire Edison a lot_AAC.aac"></audio>
 
 ### 2.*高义频：* **捐款；捐献物：**  
 
  > I gave a **contribution** of $100 **to** / **toward** the church.  
  > 我给教堂捐了100美元。    
+<audio src="./media/contribution-I gave a contribution.aac"></audio>
 
 ### 3.*高义频：* **稿件；作品：**  
 
  > This is a magazine with contributions from well-known travel writers.  
  > 这是一本由著名旅行作家撰稿的杂志。    
+<audio src="./media/4-contribution.aac"></audio>
 
 
 # ***\#contributor*** n
-英音 kənˈtrɪbjətə(r)     美音 kənˈtrɪbjətər  
+英音 kənˈtrɪbjətə(r)  
+英音
+<audio src="./media/contributor1_AAC.aac"></audio>
+美音 kənˈtrɪbjətər  
+美音
+<audio src="./media/contributor2_AAC.aac"></audio>
+
 
   
 
@@ -12281,7 +16908,13 @@ contributor /kən'trɪbjʊtə/ n
 
 
 # ***\#control*** n
-英音 kən'trəʊl     美音 kən'troʊl  
+英音 kən'trəʊl  
+英音
+<audio src="./media/control-B.aac"></audio>
+美音 kən'troʊl  
+美音
+<audio src="./media/control.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -12291,9 +16924,11 @@ contributor /kən'trɪbjʊtə/ n
 
  > The city is **under** enemy **control**.  
  > 那座城市在敌人控制之下。    
+<audio src="./media/8-control.aac"></audio>
 
  > The disease robs you of muscle control.  
  > 这种疾病会使你的肌肉失去控制。    
+<audio src="./media/9-control.aac"></audio>
 
 ### 2.*高义频：* **[U] & [C] 限制；管制；约束：**  
 
@@ -12316,48 +16951,56 @@ contributor /kən'trɪbjʊtə/ n
 
  > There was nothing we could do about it — the situation was beyond our control.  
  > 形势已经无法控制，我们束手无策。    
+<audio src="./media/10-control.aac"></audio>
 
 ## \#have control (of / over)
 1.**(对…) 有控制权 / 有控制能力：**  
 
  > She’s a good teacher who has control of her class.  
  > 她是个优秀的教师，能够有效地管理课堂。    
+<audio src="./media/control50.aac"></audio>
 
 ## \#in control of
 1.**控制；支配；管理：**  
 
  > Who’s in control of that house?  
  > 那栋房子归谁管？    
+<audio src="./media/11-control.aac"></audio>
 
 ## \#lose control (of / over)
 1.**(对…) 失去控制；无法控制 (住…)：**  
 
  > She lost total control of the car.  
  > 她完全失去了对车的控制。    
+<audio src="./media/12-control.aac"></audio>
 
 ## \#out of control
 1.**不受控制；失去控制：**  
 
  > Everyone was too afraid to go in because the fire was out of control.  
  > 火势已经失去了控制，大家都不敢进去。    
+<audio src="./media/13-control.aac"></audio>
 
 ## \#take / gain / get control (of / over)
 1.**控制；支配；管理：**  
 
  > She realized she should take control of her illness, not let it control her.  
  > 她意识到自己应该控制疾病，而不是受疾病的控制。  （2010 湖南改）  
+<audio src="./media/Control-101_AAC.aac"></audio>
 
 ## \#under control
 1.**受支配；受控制：**  
 
  > She used diet and exercise to **bring / get / keep** her weight under control.  
  > 她通过节食和锻炼来控制体重。    
+<audio src="./media/She used diet and_AAC.aac"></audio>
 
 ## \#under the control of
 1.**受…的控制 / 管理 / 支配：**  
 
  > All schools are under the control of the Ministry of Education.  
  > 所有的学校都归教育部管辖。    
+<audio src="./media/16-control.aac"></audio>
 
 
 派生词汇
@@ -12365,7 +17008,13 @@ contributor /kən'trɪbjʊtə/ n
 controlled  /kən'trəʊld/ adj   
 
 # ***\#control*** vt
-英音 kən'trəʊl     美音 kən'troʊl  
+英音 kən'trəʊl  
+英音
+<audio src="./media/control-B.aac"></audio>
+美音 kən'troʊl  
+美音
+<audio src="./media/control.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 3 |  
 
@@ -12375,31 +17024,43 @@ controlled  /kən'trəʊld/ adj
 
  > This company controls half of the world’s coffee trade.  
  > 这家公司控制着全球一半的咖啡贸易。    
+<audio src="./media/1-control.aac"></audio>
 
 ### 2.*高义频：* **限制；限定；阻止蔓延 / 恶化：**  
 
  > Parents should control what their kids watch on TV.  
  > 父母应该限定孩子看什么样的电视节目。    
+<audio src="./media/3-control.aac"></audio>
 
  > Strict measures were taken to control the spread of foot and mouth disease.  
  > 采取了严格的措施来控制口蹄疫的传播。    
+<audio src="./media/4-control.aac"></audio>
 
 ### 3.*高义频：* **操纵；控制 (机器等)：**  
 
  > The traffic lights are controlled by a central computer.  
  > 交通信号灯是由中央计算机控制的。    
+<audio src="./media/5-control.aac"></audio>
 
 ### 4.*高义频：* **抑制；克制：**  
 
  > I was too excited to **control myself**.  
  > 我太兴奋了，控制不住自己。    
+<audio src="./media/6-control.aac"></audio>
 
  > He couldn’t control his anger.  
  > 他抑制不住愤怒。    
+<audio src="./media/7-control.aac"></audio>
 
 
 # ***\#controversial*** adj
-英音 ˌkɒntrə'vɜːʃl     美音 ˌkɑːntrə'vɜːrʃl  
+英音 ˌkɒntrə'vɜːʃl  
+英音
+<audio src="./media/controversial-B.aac"></audio>
+美音 ˌkɑːntrə'vɜːrʃl  
+美音
+<audio src="./media/controversial.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -12416,7 +17077,13 @@ controlled  /kən'trəʊld/ adj
 1. controversial  
 
 # ***\#convenience*** n
-英音 kən'viːniəns     美音 kən'viːniəns  
+英音 kən'viːniəns  
+英音
+<audio src="./media/convenience-B.aac"></audio>
+美音 kən'viːniəns  
+美音
+<audio src="./media/convenience.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -12432,14 +17099,17 @@ controlled  /kən'trəʊld/ adj
 
  > The convenience of city life is one of its main attractions.  
  > 便利是城市生活主要的诱人处之一。    
+<audio src="./media/1-convenience.aac"></audio>
 
  > England is the largest of the four countries, and **for convenience** it is divided roughly into three zones.  
  > 在四个国家中，英格兰是最大的。为方便起见，它被大致划分为三个区。  （人教⑤ – 2）  
+<audio src="./media/2-convenience.aac"></audio>
 
 ### 2.*低义频：* **[C] 便利的事物；便利设施：**  
 
  > It was a great convenience to live near my school.  
  > 住在学校附近对我是一大便利。    
+<audio src="./media/It was a great convenience_AAC.aac"></audio>
 
 
 固定搭配
@@ -12449,16 +17119,24 @@ controlled  /kən'trəʊld/ adj
 
  > Please come at your convenience.  
  > 请在你方便的时候过来。    
+<audio src="./media/4-convenience.aac"></audio>
 
 ## \#at your earliest convenience
 1.**尽早；尽快**  
 
  > We would appreciate it if you could reply at your earliest convenience.  
  > 如果您能尽早回复，我们将不胜感激。  （2011 上海书面表达改）  
+<audio src="./media/We would appreciate it _AAC.aac"></audio>
 
 
 # ***\#convenient*** adj  重难点词汇
-英音 kən'viːniənt     美音 kən'viːniənt  
+英音 kən'viːniənt  
+英音
+<audio src="./media/convenient-B.aac"></audio>
+美音 kən'viːniənt  
+美音
+<audio src="./media/convenient.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -12468,9 +17146,11 @@ controlled  /kən'trəʊld/ adj
 
  > It is very **convenient to** travel in London by underground.  
  > 在伦敦乘坐地铁出游很方便。  （2011 天津）  
+<audio src="./media/1-convenient.aac"></audio>
 
  > If it’s **convenient for** you, let’s meet at 8:30 outside the school gate.  
  > 如果你方便的话，我们8点半在学校门口碰面吧。  （2016 全国书面表达）  
+<audio src="./media/convenient50.aac"></audio>
 
 ### 2.*高义频：* **就近的；近便的：**  
 
@@ -12487,7 +17167,13 @@ controlled  /kən'trəʊld/ adj
 1. convenient  2.  be convenient for  
 
 # ***\#conventional*** adj
-英音 kən'venʃənl     美音 kən'venʃənl  
+英音 kən'venʃənl  
+英音
+<audio src="./media/conventional-B.aac"></audio>
+美音 kən'venʃənl  
+美音
+<audio src="./media/conventional.aac"></audio>
+
 
 | 词频 1 | 书面 1 |  
 
@@ -12497,9 +17183,11 @@ controlled  /kən'trəʊld/ adj
 
  > She’s very conventional in her views.  
  > 她的观念很传统。    
+<audio src="./media/conventional-1.aac"></audio>
 
  > Only five years after Steve Jobs’death, smart-phones defeated conventional PCs in sales.  
  > 史蒂夫·乔布斯去世仅5年后，智能手机的销量就超过了传统的个人电脑。  （2017 江苏）  
+<audio src="./media/Conventional-101_AAC.aac"></audio>
 
 ### 2.*低义频：* **(尤指武器) 非核的；常规的：**  
 
@@ -12508,7 +17196,13 @@ controlled  /kən'trəʊld/ adj
 
 
 # ***\#conversation*** n
-英音 ˌkɒnvə'seɪʃn     美音 ˌkɑːnvər'seɪʃn  
+英音 ˌkɒnvə'seɪʃn  
+英音
+<audio src="./media/conversation-B.aac"></audio>
+美音 ˌkɑːnvər'seɪʃn  
+美音
+<audio src="./media/conversation.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -12521,10 +17215,17 @@ controlled  /kən'trəʊld/ adj
 
  > I **had an** interesting **conversation with** a reporter **about** job hunting recently.  
  > 最近我和一位记者就找工作进行了一次有趣的交谈。  （2010 北京改）  
+<audio src="./media/1-conversation.aac"></audio>
 
 
 # ***\#conversational*** adj
-英音 ˌkɒnvəˈseɪʃənl     美音 ˌkɑːnvərˈseɪʃənl  
+英音 ˌkɒnvəˈseɪʃənl  
+英音
+<audio src="./media/conversational1_AAC.aac"></audio>
+美音 ˌkɑːnvərˈseɪʃənl  
+美音
+<audio src="./media/conversational2_AAC.aac"></audio>
+
 
   
 
@@ -12536,7 +17237,13 @@ controlled  /kən'trəʊld/ adj
 
 
 # ***\#convert*** v
-英音 kən'vɜːt     美音 kən'vɜːrt  
+英音 kən'vɜːt  
+英音
+<audio src="./media/convert-B.aac"></audio>
+美音 kən'vɜːrt  
+美音
+<audio src="./media/convert2.aac"></audio>
+
 
 | 词频 1 | 书面 1 |  
 
@@ -12546,12 +17253,19 @@ controlled  /kən'trəʊld/ adj
 
  > The room was converted from a kitchen to a storeroom.   
  > 这间房由厨房改成了储物间。    
+<audio src="./media/P107 convert1.aac"></audio>
 
 ### 2.*高义频：* **(使) 改变信仰**  
 
 
 # ***\#convey*** vt
-英音 kən'veɪ     美音 kən'veɪ  
+英音 kən'veɪ  
+英音
+<audio src="./media/convey-B.aac"></audio>
+美音 kən'veɪ  
+美音
+<audio src="./media/convey.aac"></audio>
+
 
 | 词频 3 | 阅读 2 |  
 
@@ -12561,6 +17275,7 @@ controlled  /kən'trəʊld/ adj
 
  > This train conveys both passengers and goods.  
  > 这列火车既载人又运货。    
+<audio src="./media/1-convey.aac"></audio>
 
 ### 2.*高义频：* **表达；传递 (思想、感情等)(communicate)：**  
 
@@ -12569,18 +17284,27 @@ controlled  /kən'trəʊld/ adj
 
  > If you see James, do **convey** my apologies **to** him.  
  > 见到詹姆斯，一定要向他转达我的歉意。    
+<audio src="./media/2-convey.aac"></audio>
 
 - convey + that / wh- 从句：
 
  > Her letter clearly conveyed that she was determined to go to court over the matter.  
  > 她在信中清楚表明她会就此事告上法庭。    
+<audio src="./media/3-convey.aac"></audio>
 
  > His music conveys how he feels about the world.  
  > 他的音乐表达了他对世界的感受。  （北师大⑦ – 19）  
+<audio src="./media/4-convey.aac"></audio>
 
 
 # ***\#convict*** n
-英音 'kɒnvɪkt     美音 'kɑːnvɪkt  
+英音 'kɒnvɪkt  
+英音
+<audio src="./media/convict1.aac"></audio>
+美音 'kɑːnvɪkt  
+美音
+<audio src="./media/convict2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -12590,7 +17314,13 @@ controlled  /kən'trəʊld/ adj
 
 
 # ***\#convince*** vt
-英音 kən'vɪns     美音 kən'vɪns  
+英音 kən'vɪns  
+英音
+<audio src="./media/convince-B.aac"></audio>
+美音 kən'vɪns  
+美音
+<audio src="./media/convince.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 1 | 阅读 3 |  
 
@@ -12601,16 +17331,19 @@ controlled  /kən'trəʊld/ adj
 
  > How can I convince you?  
  > 我怎样才能让你相信呢？    
+<audio src="./media/1-convince.aac"></audio>
 
 - convince sb of sth:
 
  > You’ll need to convince them of your enthusiasm for the job.  
  > 你要让他们相信你对这份工作的热情。    
+<audio src="./media/2-convince.aac"></audio>
 
 - convince sb + (that) 从句：
 
  > I’d convinced myself that I was right.  
  > 我确信自己就是对的。    
+<audio src="./media/3-convince.aac"></audio>
 
 ### 2.*高义频：* **说服 (persuade)：**  
 
@@ -12618,6 +17351,7 @@ controlled  /kən'trəʊld/ adj
 
  > Oscar convinced the manager to look in the record of advance ticket sales.  
  > 奥斯卡说服了经理查看预售票记录。  （2012 浙江）  
+<audio src="./media/P108 convince-1.aac"></audio>
 
 
 真题解析
@@ -12628,7 +17362,13 @@ controlled  /kən'trəʊld/ adj
 1. convince me  
 
 # ***\#convinced*** adj
-英音 kən'vɪnst     美音 kən'vɪnst  
+英音 kən'vɪnst  
+英音
+<audio src="./media/convinced-B.aac"></audio>
+美音 kən'vɪnst  
+美音
+<audio src="./media/convinced.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -12638,13 +17378,21 @@ controlled  /kən'trəʊld/ adj
 
  > Sam nodded but he didn’t look convinced.  
  > 山姆点了点头，但似乎半信半疑。    
+<audio src="./media/1-convinced.aac"></audio>
 
  > I am **convinced of** her innocence.  
  > 我坚信她是无辜的。    
+<audio src="./media/2-convinced.aac"></audio>
 
 
 # ***\#convincing*** adj
-英音 kən'vɪnsɪŋ     美音 kən'vɪnsɪŋ  
+英音 kən'vɪnsɪŋ  
+英音
+<audio src="./media/convincing-B.aac"></audio>
+美音 kən'vɪnsɪŋ  
+美音
+<audio src="./media/convincing.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -12657,7 +17405,13 @@ controlled  /kən'trəʊld/ adj
 
 
 # ***\#cook*** v
-英音 kʊk     美音 kʊk  
+英音 kʊk  
+英音
+<audio src="./media/cook-B.aac"></audio>
+美音 kʊk  
+美音
+<audio src="./media/cook.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 1 |  
 
@@ -12667,13 +17421,21 @@ controlled  /kən'trəʊld/ adj
 
  > My father sometimes cooks (dinner) on Sunday.  
  > 我爸爸有时星期天会下厨做饭。    
+<audio src="./media/1-cook.aac"></audio>
 
  > Don’t let the potatoes cook too long.  
  > 别把土豆烧得太久。    
+<audio src="./media/2-cook.aac"></audio>
 
 
 # ***\#cook*** n
-英音 kʊk     美音 kʊk  
+英音 kʊk  
+英音
+<audio src="./media/cook-B.aac"></audio>
+美音 kʊk  
+美音
+<audio src="./media/cook.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -12683,10 +17445,17 @@ controlled  /kən'trəʊld/ adj
 
  > His wife is **a good cook**.  
  > 他太太很会做饭。    
+<audio src="./media/3-cook.aac"></audio>
 
 
 # ***\#cooker*** n
-英音 'kʊkə(r)     美音 'kʊkər  
+英音 'kʊkə(r)  
+英音
+<audio src="./media/cooker-B.aac"></audio>
+美音 'kʊkər  
+美音
+<audio src="./media/cooker.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -12696,7 +17465,13 @@ controlled  /kən'trəʊld/ adj
 
 
 # ***\#cookery*** n
-英音 'kʊkəri     美音 'kʊkəri  
+英音 'kʊkəri  
+英音
+<audio src="./media/cookery-B.aac"></audio>
+美音 'kʊkəri  
+美音
+<audio src="./media/cookery.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -12706,7 +17481,13 @@ controlled  /kən'trəʊld/ adj
 
 
 # ***\#cookie*** n
-英音 'kʊki     美音 'kʊki  
+英音 'kʊki  
+英音
+<audio src="./media/cookie-B.aac"></audio>
+美音 'kʊki  
+美音
+<audio src="./media/cookie.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -12719,7 +17500,13 @@ controlled  /kən'trəʊld/ adj
 
 
 # ***\#cooking*** adj
-英音 'kʊkɪŋ     美音 'kʊkɪŋ  
+英音 'kʊkɪŋ  
+英音
+<audio src="./media/cooking-B.aac"></audio>
+美音 'kʊkɪŋ  
+美音
+<audio src="./media/cooking.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -12729,7 +17516,13 @@ controlled  /kən'trəʊld/ adj
 
 
 # ***\#cooking*** n
-英音 'kʊkɪŋ     美音 'kʊkɪŋ  
+英音 'kʊkɪŋ  
+英音
+<audio src="./media/cooking-B.aac"></audio>
+美音 'kʊkɪŋ  
+美音
+<audio src="./media/cooking.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -12739,7 +17532,13 @@ controlled  /kən'trəʊld/ adj
 
 
 # ***\#cool*** adj
-英音 kuːl     美音 kuːl  
+英音 kuːl  
+英音
+<audio src="./media/cool-B.aac"></audio>
+美音 kuːl  
+美音
+<audio src="./media/cool.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -12749,6 +17548,7 @@ controlled  /kən'trəʊld/ adj
 
  > The cool air feels good on a hot summer day.  
  > 炎炎夏日，凉爽的空气让人感到很舒服。    
+<audio src="./media/1-cool.aac"></audio>
 
 ### 2.*高义频：* **冷静的；沉着的：**  
 
@@ -12757,28 +17557,38 @@ controlled  /kən'trəʊld/ adj
 
  > More importantly, you can **stay cool** under pressure.  
  > 更重要的是，面对压力时你能保持冷静。  （2008 安徽）  
+<audio src="./media/2-cool.aac"></audio>
 
 ### 3.*高义频：* **冷漠的；冷淡的：**  
 
  > He has been cool towards me ever since we had a quarrel.  
  > 自从我们争吵以后他对我一直很冷淡。    
+<audio src="./media/3-cool.aac"></audio>
 
 ### 4.*低义频：* **极好的；绝妙的；酷的：**  
 
  > Her guy’s really cool.  
  > 她男朋友真帅。    
+<audio src="./media/4-cool.aac"></audio>
 
 ### 5.*低义频：* **没问题；好：**  
 
  > — Can you come at eight tomorrow morning?   
  > 你能明天早上8点过来吗？    
+<audio src="./media/P108 cool5.aac"></audio>
 
  > — **Cool**. / **That’s cool**.  
  > 没问题。    
 
 
 # ***\#cool*** v
-英音 kuːl     美音 kuːl  
+英音 kuːl  
+英音
+<audio src="./media/cool-B.aac"></audio>
+美音 kuːl  
+美音
+<audio src="./media/cool.aac"></audio>
+
 
 | 词频 4 | 口语 2 |  
 
@@ -12794,18 +17604,27 @@ controlled  /kən'trəʊld/ adj
 
  > The temperature will cool off in the early evening.  
  > 入夜时，气温会变低。  （2010 北京）  
+<audio src="./media/6-cool.aac"></audio>
 
 2.*高义频：* **(使) 冷静；(使) 平静：**  
 
  > Her enthusiasm never cooled down.   
  > 她的热忱从未消退。  （2013 湖南）  
+<audio src="./media/5-cool.aac"></audio>
 
  > She went for a walk to cool herself down / off.  
  > 她出去走走，让自己冷静一下。    
+<audio src="./media/cool-7.aac"></audio>
 
 
 # ***\#cooperate*** vi
-英音 kəʊ'ɒpəreɪt     美音 koʊ'ɑːpəreɪt  
+英音 kəʊ'ɒpəreɪt  
+英音
+<audio src="./media/cooperate-B.aac"></audio>
+美音 koʊ'ɑːpəreɪt  
+美音
+<audio src="./media/cooperate.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -12815,6 +17634,7 @@ controlled  /kən'trəʊld/ adj
 
  > I find it hard to **cooperate with** those who always stick to their own opinions.  
  > 我发现很难与那些一贯固执己见的人合作。    
+<audio src="./media/1-cooperate.aac"></audio>
 
 
 派生词汇
@@ -12822,7 +17642,13 @@ controlled  /kən'trəʊld/ adj
 cooperation /kəʊˌɒpə'reɪʃn/ n   
 
 # ***\#cooperation*** n
-英音 kəʊˌɒpə'reɪʃn     美音 koʊˌɑːpə'reɪʃn  
+英音 kəʊˌɒpə'reɪʃn  
+英音
+<audio src="./media/cooperation-B.aac"></audio>
+美音 koʊˌɑːpə'reɪʃn  
+美音
+<audio src="./media/cooperation.aac"></audio>
+
 
 | 词频 2 | 口语 1 | 书面 1 |  
 
@@ -12834,10 +17660,17 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 
  > A study was undertaken **in cooperation with** oil companies.   
  > 与石油公司合作进行过一项研究。    
+<audio src="./media/cooperation-1.aac"></audio>
 
 
 # ***\#cooperative*** adj
-英音 kəʊˈɒpərətɪv     美音 kəʊˈɑːpərətɪv  
+英音 kəʊˈɒpərətɪv  
+英音
+<audio src="./media/cooperativeadj1_AAC.aac"></audio>
+美音 kəʊˈɑːpərətɪv  
+美音
+<audio src="./media/cooperative adj2_AAC.aac"></audio>
+
 
   
 
@@ -12849,7 +17682,13 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 
 
 # ***\#cooperative*** n
-英音 kəʊˈɒpərətɪv     美音 kəʊˈɑːpərətɪv  
+英音 kəʊˈɒpərətɪv  
+英音
+<audio src="./media/cooperative n1_AAC.aac"></audio>
+美音 kəʊˈɑːpərətɪv  
+美音
+<audio src="./media/cooperative n2_AAC.aac"></audio>
+
 
   
 
@@ -12859,7 +17698,13 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 
 
 # ***\#cooperator*** n
-英音 kəʊ'ɒpəˌreɪtə     美音 koʊ'ɒpəˌreɪtə  
+英音 kəʊ'ɒpəˌreɪtə  
+英音
+<audio src="./media/cooperator1_AAC.aac"></audio>
+美音 koʊ'ɒpəˌreɪtə  
+美音
+<audio src="./media/cooperator2_AAC.aac"></audio>
+
 
   
 
@@ -12869,7 +17714,13 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 
 
 # ***\#cope*** vi
-英音 kəʊp     美音 koʊp  
+英音 kəʊp  
+英音
+<audio src="./media/cope-B.aac"></audio>
+美音 koʊp  
+美音
+<audio src="./media/cope.aac"></audio>
+
 
 | 词频 1 | 口语 2 | 书面 1 | 阅读 1 |  
 
@@ -12879,10 +17730,17 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 
  > He’ll **cope with** all the work.  
  > 他会妥善处理所有的工作。    
+<audio src="./media/1-cope.aac"></audio>
 
 
 # ***\#copper*** n
-英音 'kɒpə(r)     美音 'kɑːpər  
+英音 'kɒpə(r)  
+英音
+<audio src="./media/copper1.aac"></audio>
+美音 'kɑːpər  
+美音
+<audio src="./media/copper2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -12892,7 +17750,13 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 
 
 # ***\#copy*** v
-英音 'kɒpi     美音 'kɑːpi  
+英音 'kɒpi  
+英音
+<audio src="./media/copy-B.aac"></audio>
+美音 'kɑːpi  
+美音
+<audio src="./media/copy.aac"></audio>
+
 
 | 词频 4 | 口语 2 |  
 
@@ -12902,18 +17766,27 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 
  > Copy these sentences in your notebook.  
  > 把这些句子抄在笔记本上。    
+<audio src="./media/3-copy.aac"></audio>
 
  > A parrot can copy human speech.  
  > 鹦鹉可以模仿人讲话。    
+<audio src="./media/4-copy.aac"></audio>
 
 ### 2.*高义频：* **抄袭：**  
 
  > Jeremy had copied from the girl next to him.  
  > 杰里米曾抄袭他邻座的女孩。    
+<audio src="./media/5-copy.aac"></audio>
 
 
 # ***\#copy*** n
-英音 'kɒpi     美音 'kɑːpi  
+英音 'kɒpi  
+英音
+<audio src="./media/copy-B.aac"></audio>
+美音 'kɑːpi  
+美音
+<audio src="./media/copy.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -12925,11 +17798,13 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 
  > Please **make** five **copies of** the test paper.  
  > 请将这份试卷复印五份。    
+<audio src="./media/1-copy.aac"></audio>
 
 ### 2.*高义频：* **(书报等) 本；份；册：**  
 
  > He took **a copy of** the newspaper and began to read.  
  > 他拿了一份报纸读了起来。    
+<audio src="./media/2-copy.aac"></audio>
 
 
 固定搭配
@@ -12942,7 +17817,13 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 
 
 # ***\#copyright*** n
-英音 'kɒpiraɪt     美音 'kɑːpiraɪt  
+英音 'kɒpiraɪt  
+英音
+<audio src="./media/copyright-B.aac"></audio>
+美音 'kɑːpiraɪt  
+美音
+<audio src="./media/copyright.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -12952,7 +17833,13 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 
 
 # ***\#coral*** n
-英音 'kɒrəl     美音 'kɔːrəl  
+英音 'kɒrəl  
+英音
+<audio src="./media/coral1.aac"></audio>
+美音 'kɔːrəl  
+美音
+<audio src="./media/coral2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -12962,7 +17849,13 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 
 
 # ***\#coral*** adj
-英音 'kɒrəl     美音 'kɔːrəl  
+英音 'kɒrəl  
+英音
+<audio src="./media/coral1.aac"></audio>
+美音 'kɔːrəl  
+美音
+<audio src="./media/coral2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -12972,7 +17865,13 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 
 
 # ***\#core*** n
-英音 kɔː(r)     美音 kɔːr  
+英音 kɔː(r)  
+英音
+<audio src="./media/core-B.aac"></audio>
+美音 kɔːr  
+美音
+<audio src="./media/core2.aac"></audio>
+
 
 | 词频 2 | 书面 1 |  
 
@@ -12984,7 +17883,13 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 
 
 # ***\#core*** adj
-英音 kɔː(r)     美音 kɔːr  
+英音 kɔː(r)  
+英音
+<audio src="./media/core-B.aac"></audio>
+美音 kɔːr  
+美音
+<audio src="./media/core2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -12997,7 +17902,13 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 
 
 # ***\#corn*** n
-英音 'kɔːn     美音 'kɔːrn  
+英音 'kɔːn  
+英音
+<audio src="./media/corn-B.aac"></audio>
+美音 'kɔːrn  
+美音
+<audio src="./media/corn.aac"></audio>
+
 
 | 词频 2 | 口语 1 |  
 
@@ -13007,7 +17918,13 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 
 
 # ***\#corner*** vt
-英音 'kɔːnə(r)     美音 'kɔːrnər  
+英音 'kɔːnə(r)  
+英音
+<audio src="./media/corner-B.aac"></audio>
+美音 'kɔːrnər  
+美音
+<audio src="./media/corner.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -13017,10 +17934,17 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 
  > If cornered, the snake will defend itself.  
  > 蛇被逼得走投无路时会自卫的。    
+<audio src="./media/6-corner.aac"></audio>
 
 
 # ***\#corner*** n
-英音 'kɔːnə(r)     美音 'kɔːrnər  
+英音 'kɔːnə(r)  
+英音
+<audio src="./media/corner-B.aac"></audio>
+美音 'kɔːrnər  
+美音
+<audio src="./media/corner.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -13032,21 +17956,25 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 
  > When you finish viewing a page, you can click on this icon at the top right hand corner to exit the page.  
  > 当你浏览完网页时，点击右上角的这个图标就可以退出页面。  （译林⑦ – 3）  
+<audio src="./media/P109 corner2.aac"></audio>
 
 ### 2.*高义频：* **(房间等的) 角；角落：**  
 
  > The teacher made the boy sit **in the corner**.  
  > 老师让那个男孩坐在角落里。    
+<audio src="./media/2-corner.aac"></audio>
 
 ### 3.*高义频：* **拐角；转角：**  
 
  > Please turn right **at the** second **corner**.  
  > 请在第二个拐角处向右转。    
+<audio src="./media/1-corner.aac"></audio>
 
 ### 4.*低义频：* **远方；天涯海角：**  
 
  > Traveling to all **corners of the world** gets easier and easier.  
  > 去世界各地旅游变得越来越容易。  （2012 安徽）  
+<audio src="./media/3-corner.aac"></audio>
 
 
 固定搭配
@@ -13056,9 +17984,11 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 
  > He lives just round the corner.  
  > 他就住在附近。    
+<audio src="./media/4-corner.aac"></audio>
 
  > Victory is just around the corner.  
  > 胜利在望。    
+<audio src="./media/5-corner.aac"></audio>
 
 
 真题解析
@@ -13069,7 +17999,13 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 1. around / round  
 
 # ***\#corporate*** adj
-英音 'kɔːpərət     美音 'kɔːpərət  
+英音 'kɔːpərət  
+英音
+<audio src="./media/corporate1_AAC.aac"></audio>
+美音 'kɔːpərət  
+美音
+<audio src="./media/corporate2_AAC.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -13079,7 +18015,13 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 
 
 # ***\#corporation*** n
-英音 ˌkɔːpə'reɪʃn     美音 ˌkɔːpə'reɪʃn  
+英音 ˌkɔːpə'reɪʃn  
+英音
+<audio src="./media/corporation-B.aac"></audio>
+美音 ˌkɔːpə'reɪʃn  
+美音
+<audio src="./media/corporation.aac"></audio>
+
 
 | 词频 1 | 阅读 1 |  
 
@@ -13089,7 +18031,13 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 
 
 # ***\#correct*** vt
-英音 kə'rekt     美音 kə'rekt  
+英音 kə'rekt  
+英音
+<audio src="./media/correct-B.aac"></audio>
+美音 kə'rekt  
+美音
+<audio src="./media/correct.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -13099,9 +18047,11 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 
  > One learns a language by making mistakes and correcting them.  
  > 人们通过不断犯错误并改正错误来学习语言。  （2012 北京）  
+<audio src="./media/5-correct.aac"></audio>
 
  > The new glasses will correct your sight.  
  > 这副新眼镜会矫正你的视力。    
+<audio src="./media/6-correct.aac"></audio>
 
 
 派生词汇
@@ -13109,7 +18059,13 @@ cooperation /kəʊˌɒpə'reɪʃn/ n
 correctly /kə'rektli/ adv   
 
 # ***\#correct*** adj
-英音 kə'rekt     美音 kə'rekt  
+英音 kə'rekt  
+英音
+<audio src="./media/correct-B.aac"></audio>
+美音 kə'rekt  
+美音
+<audio src="./media/correct.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 2 |  
 
@@ -13120,12 +18076,14 @@ correctly /kə'rektli/ adv
 
  > Everyone gives a different answer, but everyone is correct.   
  > 每个人的答案都不相同，但是大家都是正确的。  （2010 江苏）  
+<audio src="./media/1-correct.aac"></audio>
 
 ### 2.*高义频：* **恰当的；正当的**  
 英译 suitable：
 
  > Only if you eat the correct foods will you be able to keep fit and stay healthy.  
  > 只有恰当饮食，才能保持身体健康。  （2008 江苏）  
+<audio src="./media/3-correct.aac"></audio>
 
 ### 3.*低义频：* **得体的；合乎礼节的**  
 英译 formal and polite
@@ -13136,10 +18094,17 @@ correctly /kə'rektli/ adv
 
  > It’s not correct to speak like that.  
  > 那样说话不妥。    
+<audio src="./media/4-correct.aac"></audio>
 
 
 # ***\#correction*** n
-英音 kə'rekʃn     美音 kə'rekʃn  
+英音 kə'rekʃn  
+英音
+<audio src="./media/correction-B.aac"></audio>
+美音 kə'rekʃn  
+美音
+<audio src="./media/correction.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -13149,10 +18114,17 @@ correctly /kə'rektli/ adv
 
  > I’ve **made** a few small **corrections** to your report.  
  > 我对你的报告作了几处小的修改。    
+<audio src="./media/1-correction.aac"></audio>
 
 
 # ***\#correspond*** vi
-英音 ˌkɒrə'spɒnd     美音 ˌkɔːrə'spɑːnd  
+英音 ˌkɒrə'spɒnd  
+英音
+<audio src="./media/correspond-B.aac"></audio>
+美音 ˌkɔːrə'spɑːnd  
+美音
+<audio src="./media/correspond.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -13163,24 +18135,34 @@ correctly /kə'rektli/ adv
 
  > Your account of the events does not **correspond with** hers.  
  > 你对事情的描述与她说的不相符。    
+<audio src="./media/1-correspond.aac"></audio>
 
  > Let your actions **correspond to** your words.  
  > 你要言行一致。    
+<audio src="./media/2-correspond.aac"></audio>
 
 ### 2.*低义频：* **相当；相类似**  
 英译 to be similar to：
 
  > The American Congress **corresponds to** the British Parliament.  
  > 美国国会相当于英国议会。    
+<audio src="./media/3-correspond.aac"></audio>
 
 ### 3.*高义频：* **[正式用语]通信：**  
 
  > She corresponds regularly with her former teacher.  
  > 她和以前的老师定期通信。    
+<audio src="./media/Correspond-101_AAC.aac"></audio>
 
 
 # ***\#correspondence*** n
-英音 ˌkɒrə'spɒndəns     美音 ˌkɔːrə'spɑːndəns  
+英音 ˌkɒrə'spɒndəns  
+英音
+<audio src="./media/correspondence-B.aac"></audio>
+美音 ˌkɔːrə'spɑːndəns  
+美音
+<audio src="./media/correspondence.aac"></audio>
+
 
 | 词频 2 | 阅读 1 |  
 
@@ -13190,7 +18172,13 @@ correctly /kə'rektli/ adv
 
 
 # ***\#correspondent*** n
-英音 ˌkɒrəˈspɒndənt     美音 ˌkɔːrəˈspɑːndənt  
+英音 ˌkɒrəˈspɒndənt  
+英音
+<audio src="./media/correspondent1_AAC.aac"></audio>
+美音 ˌkɔːrəˈspɑːndənt  
+美音
+<audio src="./media/correspondent2_AAC.aac"></audio>
+
 
   
 
@@ -13200,7 +18188,13 @@ correctly /kə'rektli/ adv
 
 
 # ***\#corresponding*** adj
-英音 ˌkɒrəˈspɒndɪŋ     美音 ˌkɔːrəˈspɑːndɪŋ  
+英音 ˌkɒrəˈspɒndɪŋ  
+英音
+<audio src="./media/corresponding1_AAC.aac"></audio>
+美音 ˌkɔːrəˈspɑːndɪŋ  
+美音
+<audio src="./media/corresponding2_AAC.aac"></audio>
+
 
   
 
@@ -13210,7 +18204,13 @@ correctly /kə'rektli/ adv
 
 
 # ***\#corridor*** n
-英音 'kɒrɪdɔː(r)     美音 'kɔːrɪdɔːr  
+英音 'kɒrɪdɔː(r)  
+英音
+<audio src="./media/corridor-B.aac"></audio>
+美音 'kɔːrɪdɔːr  
+美音
+<audio src="./media/corridor.aac"></audio>
+
 
 | 词频 1 | 口语 2 | 书面 1 |  
 
@@ -13220,7 +18220,13 @@ correctly /kə'rektli/ adv
 
 
 # ***\#corrupt*** vt
-英音 kə'rʌpt     美音 kə'rʌpt  
+英音 kə'rʌpt  
+英音
+<audio src="./media/corrupt-B.aac"></audio>
+美音 kə'rʌpt  
+美音
+<audio src="./media/corrupt.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -13230,10 +18236,17 @@ correctly /kə'rektli/ adv
 
  > He was corrupted by power and ambition.  
  > 权力和野心使他腐化堕落。    
+<audio src="./media/1-corrupt.aac"></audio>
 
 
 # ***\#corrupt*** adj
-英音 kə'rʌpt     美音 kə'rʌpt  
+英音 kə'rʌpt  
+英音
+<audio src="./media/corrupt-B.aac"></audio>
+美音 kə'rʌpt  
+美音
+<audio src="./media/corrupt.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -13246,7 +18259,13 @@ correctly /kə'rektli/ adv
 
 
 # ***\#corruption*** n
-英音 kə'rʌpʃn     美音 kə'rʌpʃn  
+英音 kə'rʌpʃn  
+英音
+<audio src="./media/corruption1.aac"></audio>
+美音 kə'rʌpʃn  
+美音
+<audio src="./media/corruption2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -13256,7 +18275,13 @@ correctly /kə'rektli/ adv
 
 
 # ***\#corset*** n
-英音 'kɔːsɪt     美音 'kɔːrsɪt  
+英音 'kɔːsɪt  
+英音
+<audio src="./media/corset1.aac"></audio>
+美音 'kɔːrsɪt  
+美音
+<audio src="./media/corset2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -13266,7 +18291,13 @@ correctly /kə'rektli/ adv
 
 
 # ***\#cosmetics*** n
-英音 kɒz'metɪks     美音 kɒz'metɪks  
+英音 kɒz'metɪks  
+英音
+<audio src="./media/cosmetics1_AAC.aac"></audio>
+美音 kɒz'metɪks  
+美音
+<audio src="./media/cosmetics2_AAC.aac"></audio>
+
 
   
 
@@ -13276,7 +18307,13 @@ correctly /kə'rektli/ adv
 
 
 # ***\#cosmic*** adj
-英音 ˈkɒzmɪk     美音 ˈkɑːzmɪk  
+英音 ˈkɒzmɪk  
+英音
+<audio src="./media/cosmic1_AAC.aac"></audio>
+美音 ˈkɑːzmɪk  
+美音
+<audio src="./media/cosmic2_AAC.aac"></audio>
+
 
   
 
@@ -13286,7 +18323,13 @@ correctly /kə'rektli/ adv
 
 
 # ***\#cosmology*** n
-英音 kɒz'mɒlədʒi     美音 kɑːz'mɑːlədʒi  
+英音 kɒz'mɒlədʒi  
+英音
+<audio src="./media/cosmology1.aac"></audio>
+美音 kɑːz'mɑːlədʒi  
+美音
+<audio src="./media/cosmology2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -13296,7 +18339,13 @@ correctly /kə'rektli/ adv
 
 
 # ***\#cosmonaut*** n
-英音 'kɒzmənɔːt     美音 'kɑːzmənɔːt  
+英音 'kɒzmənɔːt  
+英音
+<audio src="./media/cosmonaut1.aac"></audio>
+美音 'kɑːzmənɔːt  
+美音
+<audio src="./media/cosmonaut2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -13306,7 +18355,13 @@ correctly /kə'rektli/ adv
 
 
 # ***\#cosmopolitan*** adj
-英音 ˌkɒzmə'pɒlɪtən     美音 ˌkɑːzmə'pɑːlɪtən  
+英音 ˌkɒzmə'pɒlɪtən  
+英音
+<audio src="./media/cosmopolitan1.aac"></audio>
+美音 ˌkɑːzmə'pɑːlɪtən  
+美音
+<audio src="./media/cosmopolitan2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -13316,7 +18371,13 @@ correctly /kə'rektli/ adv
 
 
 # ***\#cost*** n
-英音 kɒst     美音 kɔːst  
+英音 kɒst  
+英音
+<audio src="./media/cost-B.aac"></audio>
+美音 kɔːst  
+美音
+<audio src="./media/cost.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -13334,14 +18395,17 @@ correctly /kə'rektli/ adv
 
  > The **cost of** the ticket is 5 pounds.  
  > 票价是5英镑。    
+<audio src="./media/12-cost.aac"></audio>
 
  > We have to **reduce costs** in order to remain competitive.  
  > 我们不得不降低成本以保持竞争优势。    
+<audio src="./media/13-cost.aac"></audio>
 
 ### 2.*高义频：* **代价；损失：**  
 
  > He’s determined to win, **whatever the cost**.  
  > 他决心不惜一切代价也要获胜。    
+<audio src="./media/14-cost.aac"></audio>
 
 
 固定搭配
@@ -13351,12 +18415,14 @@ correctly /kə'rektli/ adv
 
  > I decided to try at all costs to rid my students of their fear and dislike of books.   
  > 我决定不惜一切代价尽力使学生们摆脱对书籍的恐惧和反感。  （2015 浙江改）  
+<audio src="./media/P110 cost-1.aac"></audio>
 
 ## \#at the cost of
 1.**以…为代价：**  
 
  > He succeeded at the cost of his health.  
  > 他获得了成功，但损害了身体。    
+<audio src="./media/15-cost.aac"></audio>
 
 
 派生词汇
@@ -13364,7 +18430,13 @@ correctly /kə'rektli/ adv
 costly ['kɒstli] adj   
 
 # ***\#cost*** vt
-英音 kɒst     美音 kɔːst  
+英音 kɒst  
+英音
+<audio src="./media/cost-B.aac"></audio>
+美音 kɔːst  
+美音
+<audio src="./media/cost.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -13378,30 +18450,37 @@ costly ['kɒstli] adj
 
  > Good words cost nothing, but are worth much.  
  > 良言不费钱，价值万万千。    
+<audio src="./media/2-cost.aac"></audio>
 
  > The book cost me 15 yuan.  
  > 这本书花了我15元。    
+<audio src="./media/The book cost me_AAC.aac"></audio>
 
  > It will cost you $500 to repair the car.  
  > 修理这部汽车要花500美元。    
+<audio src="./media/3-cost.aac"></audio>
 
 - it costs sth to do sth:
 
  > It costs a lot to buy all the furniture.  
  > 买下所有家具会花很多钱。  （2015 全国）  
+<audio src="./media/Cost-101_AAC.aac"></audio>
 
 ### 2.*高义频：* **使付出 (代价)；使失去 (生命、健康等)：**  
 
  > Such a difficult job costs a lot of time and effort.  
  > 这么艰巨的任务要耗费大量的时间和精力。    
+<audio src="./media/4-cost.aac"></audio>
 
 - cost sb sth:
 
  > The search has cost them a lot of time and money.  
  > 搜寻工作已经耗去了他们大量的时间和金钱。  （人教② – 1）  
+<audio src="./media/5-cost.aac"></audio>
 
  > Careless driving will cost you your life.  
  > 开车粗心大意会让你付出生命的代价。    
+<audio src="./media/6-cost.aac"></audio>
 
 #### 辨析 cost, spend, pay, take
 这四个词都经常译为“花费”，但用法各不相同。  
@@ -13411,6 +18490,7 @@ costly ['kɒstli] adj
 **take** 用于“it takes + 人 + 时间 + to do ”结构。
  > It takes us 3 months to finish the job.  
  > 我们花了3个月的时间才完成这个项目。    
+<audio src="./media/11-cost.aac"></audio>
 
 
 
@@ -13419,7 +18499,13 @@ costly ['kɒstli] adj
 costly /'kɒstli/ adj   
 
 # ***\#costly*** adj
-英音 ˈkɒstli     美音 ˈkɔːstli  
+英音 ˈkɒstli  
+英音
+<audio src="./media/costly1_AAC.aac"></audio>
+美音 ˈkɔːstli  
+美音
+<audio src="./media/costly2_AAC.aac"></audio>
+
 
   
 
@@ -13429,7 +18515,13 @@ costly /'kɒstli/ adj
 
 
 # ***\#costume*** n
-英音 'kɒstjuːm     美音 'kɑːstuːm  
+英音 'kɒstjuːm  
+英音
+<audio src="./media/costume-B.aac"></audio>
+美音 'kɑːstuːm  
+美音
+<audio src="./media/costume.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -13444,7 +18536,13 @@ costly /'kɒstli/ adj
 
 
 # ***\#cosy*** adj
-英音 'kəʊzi     美音 'koʊzi  
+英音 'kəʊzi  
+英音
+<audio src="./media/cosy-B.aac"></audio>
+美音 'koʊzi  
+美音
+<audio src="./media/cosy.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -13454,7 +18552,13 @@ costly /'kɒstli/ adj
 
 
 # ***\#cottage*** n
-英音 'kɒtɪdʒ     美音 'kɑːtɪdʒ  
+英音 'kɒtɪdʒ  
+英音
+<audio src="./media/cottage-B.aac"></audio>
+美音 'kɑːtɪdʒ  
+美音
+<audio src="./media/cottage.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 1 |  
 
@@ -13464,7 +18568,13 @@ costly /'kɒstli/ adj
 
 
 # ***\#cotton*** n
-英音 'kɒtn     美音 'kɑːtn  
+英音 'kɒtn  
+英音
+<audio src="./media/cotton-B.aac"></audio>
+美音 'kɑːtn  
+美音
+<audio src="./media/cotton.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -13474,7 +18584,13 @@ costly /'kɒstli/ adj
 
 
 # ***\#couch*** n
-英音 kaʊtʃ     美音 kaʊtʃ  
+英音 kaʊtʃ  
+英音
+<audio src="./media/couch1.aac"></audio>
+美音 kaʊtʃ  
+美音
+<audio src="./media/couch2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -13484,7 +18600,13 @@ costly /'kɒstli/ adj
 
 
 # ***\#cough*** v
-英音 kɒf     美音 kɔːf  
+英音 kɒf  
+英音
+<audio src="./media/cough-B.aac"></audio>
+美音 kɔːf  
+美音
+<audio src="./media/cough.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -13494,9 +18616,11 @@ costly /'kɒstli/ adj
 
  > He coughed day and night.  
  > 他日夜咳嗽。    
+<audio src="./media/1-cough.aac"></audio>
 
  > Sometimes she **coughed** ( **up** ) blood.  
  > 她有时咳血。    
+<audio src="./media/2-cough.aac"></audio>
 
 
 派生词汇
@@ -13511,7 +18635,13 @@ coughing   /kɒfɪŋ/ n [U]
 1. cough  
 
 # ***\#cough*** n
-英音 kɒf     美音 kɔːf  
+英音 kɒf  
+英音
+<audio src="./media/cough-B.aac"></audio>
+美音 kɔːf  
+美音
+<audio src="./media/cough.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -13521,10 +18651,17 @@ coughing   /kɒfɪŋ/ n [U]
 
  > I had a bad cough.  
  > 我咳得厉害。    
+<audio src="./media/3-cough.aac"></audio>
 
 
 # ***\#could*** modal v
-英音 kəd;kʊd     美音 kəd;kʊd  
+英音 kəd;kʊd  
+英音
+<audio src="./media/Could1.aac"></audio>
+美音 kəd;kʊd  
+美音
+<audio src="./media/Could2.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -13536,22 +18673,27 @@ coughing   /kɒfɪŋ/ n [U]
 
  > The weather in Shanghai could be very cold in winter.  
  > 上海的冬季有时会很冷。    
+<audio src="./media/1-could.aac"></audio>
 
 ### 3.*高义频：* **能；可以：**  
 
  > Could you do something for me?  
  > 你能帮帮我吗？    
+<audio src="./media/2-could.aac"></audio>
 
  > You could ask your doctor for a check-up.  
  > 你可以让医生做个检查。    
+<audio src="./media/3-could.aac"></audio>
 
 ### 4.*高义频：* **能； 可以：**  
 
  > I wish it could clear up.  
  > 天要是放晴该多好啊。    
+<audio src="./media/4-could.aac"></audio>
 
  > If I could have gone with you, I should have felt very glad.  
  > 要是我当时能同你们一起去，我会非常开心。    
+<audio src="./media/5-could.aac"></audio>
 
 
 真题解析
@@ -13582,7 +18724,13 @@ D.could have wished
 1. D  2. A  3. B  4. D  
 
 # ***\#council*** n
-英音 'kaʊnsl     美音 'kaʊnsl  
+英音 'kaʊnsl  
+英音
+<audio src="./media/Council-B.aac"></audio>
+美音 'kaʊnsl  
+美音
+<audio src="./media/council.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -13595,7 +18743,13 @@ D.could have wished
 
 
 # ***\#count*** n  重难点词汇
-英音 kaʊnt     美音 kaʊnt  
+英音 kaʊnt  
+英音
+<audio src="./media/count-B.aac"></audio>
+美音 kaʊnt  
+美音
+<audio src="./media/count.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -13610,10 +18764,17 @@ D.could have wished
 
  > He **lost count of** the number of cars he had washed.  
  > 他数不清自己洗过多少辆车。  （2009 北京改）  
+<audio src="./media/P111 count-1.aac"></audio>
 
 
 # ***\#count*** v  重难点词汇
-英音 kaʊnt     美音 kaʊnt  
+英音 kaʊnt  
+英音
+<audio src="./media/count-B.aac"></audio>
+美音 kaʊnt  
+美音
+<audio src="./media/count.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -13631,9 +18792,11 @@ D.could have wished
 
  > There are 12 weeks to go, **counting from** today.  
  > 从今天算起还有12个星期。    
+<audio src="./media/1-count.aac"></audio>
 
  > — How much money have you got exactly?  
  > 你到底挣了多少钱？    
+<audio src="./media/2-count.aac"></audio>
 
  > — Well, I’ve got no time to count it.  
  > 哎，我还没时间算呢。    
@@ -13643,30 +18806,37 @@ D.could have wished
 
  > There are more than 380 of us on the plane, **not counting** the crew.  
  > 不算机组人员，飞机上有380多人。    
+<audio src="./media/4-count.aac"></audio>
 
 ### 4.*高义频：* **[不用于进行时] 重要(matter)；有价值**  
 英译 to be important or valuable:
 
  > First impressions really do count.  
  > 第一印象真的很重要。    
+<audio src="./media/5-count.aac"></audio>
 
  > I’ve always believed that happiness counts more than money.  
  > 我一直认为幸福比金钱更重要。    
+<audio src="./media/6-count.aac"></audio>
 
  > **It is** not how much you read but what you read **that counts**.  
  > 重要的不是你读了多少，而是你读了什么。  （2009 浙江）  
+<audio src="./media/7-count.aac"></audio>
 
  > His promises **count for** nothing.  
  > 他的承诺一点价值也没有。    
+<audio src="./media/8-count.aac"></audio>
 
 ### 5.*低义频：* **看作；认为**  
 英译 to consider：
 
  > I **count myself lucky** to have a job.  
  > 我有工作，实在很幸运。    
+<audio src="./media/9-count.aac"></audio>
 
  > I **count** her **as** one of my best friends.  
  > 我把她视为我最好的一个朋友。    
+<audio src="./media/10-count.aac"></audio>
 
 
 固定搭配
@@ -13677,12 +18847,14 @@ D.could have wished
 
  > That was the first time Dad had counted on me in a moment of emergency.  
  > 这是父亲第一次在危急时刻依赖我。  （2011 重庆）  
+<audio src="./media/11-count.aac"></audio>
 
 ## \#count down
 1.**(某一特殊时刻之前) 倒计时；倒数：**  
 
  > She has been counting down to the big day.   
  > 她已经在对这个重大的日子倒计时了。    
+<audio src="./media/--1count.aac"></audio>
 
 
 派生词汇
@@ -13691,6 +18863,7 @@ countable /'kaʊntəbl/ adj
 countless /'kaʊntləs/ adj   
  > My mother and I conflicted **countless times** over the years.  
  > 这些年来我和母亲发生了无数次冲突。  （2014 江苏）  
+<audio src="./media/countless50.aac"></audio>
 
 
 真题解析
@@ -13702,7 +18875,13 @@ countless /'kaʊntləs/ adj
 1. on / upon  2. counts  
 
 # ***\#countdown*** n
-英音 ˈkaʊntdaʊn     美音 ˈkaʊntdaʊn  
+英音 ˈkaʊntdaʊn  
+英音
+<audio src="./media/countdown1_AAC.aac"></audio>
+美音 ˈkaʊntdaʊn  
+美音
+<audio src="./media/countdown2_AAC.aac"></audio>
+
 
   
 
@@ -13712,7 +18891,13 @@ countless /'kaʊntləs/ adj
 
 
 # ***\#counter*** n
-英音 'kaʊntə(r)     美音 'kaʊntər  
+英音 'kaʊntə(r)  
+英音
+<audio src="./media/counter-B.aac"></audio>
+美音 'kaʊntər  
+美音
+<audio src="./media/counter.aac"></audio>
+
 
 | 词频 3 | 口语 1 |  
 
@@ -13724,6 +18909,7 @@ countless /'kaʊntləs/ adj
 
  > We ordered hamburgers and Coca Cola at the counter.  
  > 我们在柜台处点了汉堡和可口可乐。  （2013 陕西）  
+<audio src="./media/counter-101_AAC.aac"></audio>
 
  > over-the-counter (OTC)  
  > （药）非处方的    
@@ -13732,7 +18918,13 @@ countless /'kaʊntləs/ adj
 
 
 # ***\#counter*** v
-英音 'kaʊntə(r)     美音 'kaʊntər  
+英音 'kaʊntə(r)  
+英音
+<audio src="./media/counter-B.aac"></audio>
+美音 'kaʊntər  
+美音
+<audio src="./media/counter.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -13742,7 +18934,13 @@ countless /'kaʊntləs/ adj
 
 
 # ***\#countless*** adj
-英音 ˈkaʊntləs     美音 ˈkaʊntləs  
+英音 ˈkaʊntləs  
+英音
+<audio src="./media/countless1_AAC.aac"></audio>
+美音 ˈkaʊntləs  
+美音
+<audio src="./media/countless2_AAC.aac"></audio>
+
 
   
 
@@ -13752,7 +18950,13 @@ countless /'kaʊntləs/ adj
 
 
 # ***\#country*** n
-英音 'kʌntri     美音 'kʌntri  
+英音 'kʌntri  
+英音
+<audio src="./media/country-B.aac"></audio>
+美音 'kʌntri  
+美音
+<audio src="./media/country.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -13762,6 +18966,7 @@ countless /'kaʊntləs/ adj
 
  > Every country has its customs.  
  > 每个国家都有自己的风俗。    
+<audio src="./media/1-country.aac"></audio>
 
 #### 辨析 country, nation, state
 三者都含有“国家”的意思。  
@@ -13773,21 +18978,30 @@ countless /'kaʊntləs/ adj
 
  > The state provides free education.  
  > 政府提供免费教育。    
+<audio src="./media/5-country.aac"></audio>
 
 
 ### 2.*高义频：* **农村；乡下 (the countryside)：**  
 
  > I went camping **in the country**.  
  > 我去乡下野营了。    
+<audio src="./media/2-country.aac"></audio>
 
 ### 3.*高义频：* **[与the连用] 全体人民；全国人民：**  
 
  > They have the support of most of the country.  
  > 他们得到了大多数国民的支持。    
+<audio src="./media/3-country.aac"></audio>
 
 
 # ***\#country*** adj
-英音 'kʌntri     美音 'kʌntri  
+英音 'kʌntri  
+英音
+<audio src="./media/country-B.aac"></audio>
+美音 'kʌntri  
+美音
+<audio src="./media/country.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -13803,7 +19017,13 @@ countless /'kaʊntləs/ adj
 
 
 # ***\#countryside*** n
-英音 'kʌntrisaɪd     美音 'kʌntrisaɪd  
+英音 'kʌntrisaɪd  
+英音
+<audio src="./media/countryside-B.aac"></audio>
+美音 'kʌntrisaɪd  
+美音
+<audio src="./media/countryside.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 |  
 
@@ -13813,7 +19033,13 @@ countless /'kaʊntləs/ adj
 
 
 # ***\#county*** n
-英音 'kaʊnti     美音 'kaʊnti  
+英音 'kaʊnti  
+英音
+<audio src="./media/County-B.aac"></audio>
+美音 'kaʊnti  
+美音
+<audio src="./media/county.aac"></audio>
+
 
 | 词频 2 | 书面 2 |  
 
@@ -13825,7 +19051,13 @@ countless /'kaʊntləs/ adj
 
 
 # ***\#couple*** n
-英音 'kʌpl     美音 'kʌpl  
+英音 'kʌpl  
+英音
+<audio src="./media/couple-B.aac"></audio>
+美音 'kʌpl  
+美音
+<audio src="./media/couple.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -13837,6 +19069,7 @@ countless /'kaʊntləs/ adj
 
  > We rent this house to a married couple.  
  > 我们把这套房子租给了一对夫妇。    
+<audio src="./media/2-couple.aac"></audio>
 
 
 固定搭配
@@ -13846,13 +19079,21 @@ countless /'kaʊntləs/ adj
 
  > A couple of boys were playing chess.  
  > 两个少年在下棋。    
+<audio src="./media/3-couple.aac"></audio>
 
  > I played tennis a couple of times and watched several movies.  
  > 我打了几次网球，还看了几场电影。    
+<audio src="./media/4-couple.aac"></audio>
 
 
 # ***\#couplet*** n
-英音 ˈkʌplət     美音 ˈkʌplət  
+英音 ˈkʌplət  
+英音
+<audio src="./media/couplet1_AAC.aac"></audio>
+美音 ˈkʌplət  
+美音
+<audio src="./media/couplet2_AAC.aac"></audio>
+
 
   
 
@@ -13862,7 +19103,13 @@ countless /'kaʊntləs/ adj
 
 
 # ***\#courage*** n
-英音 'kʌrɪdʒ     美音 'kɜːrɪdʒ  
+英音 'kʌrɪdʒ  
+英音
+<audio src="./media/courage-B.aac"></audio>
+美音 'kɜːrɪdʒ  
+美音
+<audio src="./media/courage.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -13878,13 +19125,21 @@ countless /'kaʊntləs/ adj
 
  > Saving Private Ryan is an unforgettable anti-war film and also a story of courage and sacrifice.  
  > 《拯救大兵瑞恩》是一部令人难忘的反战影片，同时也是一部弘扬大无畏和牺牲精神的故事片。  （外研⑥ – 6）  
+<audio src="./media/1-courage.aac"></audio>
 
  > He would never walk again but he started a new life with great courage.  
  > 他再也不能走路了，但是他勇敢地开始了新生活。  （北师大② – 2）  
+<audio src="./media/2-courage.aac"></audio>
 
 
 # ***\#courageous*** adj
-英音 kəˈreɪdʒəs     美音 kəˈreɪdʒəs  
+英音 kəˈreɪdʒəs  
+英音
+<audio src="./media/courageous1_AAC.aac"></audio>
+美音 kəˈreɪdʒəs  
+美音
+<audio src="./media/courageous2_AAC.aac"></audio>
+
 
   
 
@@ -13894,7 +19149,13 @@ countless /'kaʊntləs/ adj
 
 
 # ***\#course*** n  重难点词汇
-英音 'kɔːs     美音 'kɔːrs  
+英音 'kɔːs  
+英音
+<audio src="./media/course-B.aac"></audio>
+美音 'kɔːrs  
+美音
+<audio src="./media/course.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -13910,6 +19171,7 @@ countless /'kaʊntləs/ adj
 
  > The whole new language course is three terms.  
  > 整个新语言课程需要三个学期。    
+<audio src="./media/1-course.aac"></audio>
 
 ### 2.*低义频：* **过程；历程；进程：**  
 
@@ -13929,11 +19191,13 @@ countless /'kaʊntləs/ adj
 
  > The plane was **on** / **off course**.  
  > 飞机沿着航线飞行/偏离了航线。    
+<audio src="./media/2-course.aac"></audio>
 
 ### 4.*低义频：* **[C] 行动方式；处理方式：**  
 
  > Duty is an act or a **course of action** that people expect you to take.  
  > 责任是一种人们期望你能承担的行为或行为方式。  （2010 湖北改）  
+<audio src="./media/3-course.aac"></audio>
 
 ### 5.*高义频：* **[C] 跑道；(高尔夫) 球场：**  
 
@@ -13944,6 +19208,7 @@ countless /'kaʊntləs/ adj
 
  > Choose four **main courses** from the menu.  
  > 从菜单上选四道主菜。  （2011 四川）  
+<audio src="./media/4-course.aac"></audio>
 
 
 固定搭配
@@ -13953,22 +19218,31 @@ countless /'kaʊntləs/ adj
 
  > In the course of space exploration, astronauts have made the journey into space.  
  > 在太空探索的过程中，宇航员已经到达了太空。  （北师大① – 2）  
+<audio src="./media/5-course.aac"></audio>
 
  > Through the course of my schooling, I met many teachers, two of whom have influenced me greatly.  
  > 上学时我遇到过很多老师，其中有两位对我影响很大。  （2013 湖北）  
+<audio src="./media/P111 course-2.aac"></audio>
 
 ## \#of course (not)
 1.**当然 (不)：**  
 
  > — Bob, I’m sure you know about second-hand smoke.  
  > 鲍勃，我确信你对二手烟有所了解。    
+<audio src="./media/6-course.aac"></audio>
 
  > — Of course I do.  
  > 我当然知道。  （2011 全国）  
 
 
 # ***\#court*** n
-英音 'kɔːt     美音 'kɔːrt  
+英音 'kɔːt  
+英音
+<audio src="./media/court-B.aac"></audio>
+美音 'kɔːrt  
+美音
+<audio src="./media/court.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -13993,7 +19267,13 @@ countless /'kaʊntləs/ adj
 
 
 # ***\#courtroom*** n
-英音 'kɔːtruːm     美音 'kɔːrtruːm  
+英音 'kɔːtruːm  
+英音
+<audio src="./media/courtroom-B.aac"></audio>
+美音 'kɔːrtruːm  
+美音
+<audio src="./media/courtroom.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -14005,7 +19285,13 @@ countless /'kaʊntləs/ adj
 
 
 # ***\#courtyard*** n
-英音 'kɔːtjɑːd     美音 'kɔːrtjɑːrd  
+英音 'kɔːtjɑːd  
+英音
+<audio src="./media/courtyard-B.aac"></audio>
+美音 'kɔːrtjɑːrd  
+美音
+<audio src="./media/courtyard.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -14015,7 +19301,13 @@ countless /'kaʊntləs/ adj
 
 
 # ***\#cousin*** n
-英音 'kʌzn     美音 'kʌzn  
+英音 'kʌzn  
+英音
+<audio src="./media/cousin-B.aac"></audio>
+美音 'kʌzn  
+美音
+<audio src="./media/cousin .aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -14025,7 +19317,13 @@ countless /'kaʊntləs/ adj
 
 
 # ***\#cover*** n  重难点词汇
-英音 'kʌvə(r)     美音 'kʌvər  
+英音 'kʌvə(r)  
+英音
+<audio src="./media/cover-B.aac"></audio>
+美音 'kʌvər  
+美音
+<audio src="./media/cover.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 2 |  
 
@@ -14054,7 +19352,13 @@ countless /'kaʊntləs/ adj
 
 
 # ***\#cover*** vt  重难点词汇
-英音 'kʌvə(r)     美音 'kʌvər  
+英音 'kʌvə(r)  
+英音
+<audio src="./media/cover-B.aac"></audio>
+美音 'kʌvər  
+美音
+<audio src="./media/cover.aac"></audio>
+
 
 | 词频 5 |  
 
@@ -14064,44 +19368,54 @@ countless /'kaʊntləs/ adj
 
  > The ground is **covered with** snow and ice, which makes driving very dangerous.  
  > 地上满是冰雪，开车很危险。  （北师大⑧ – 3）  
+<audio src="./media/cover-1.aac"></audio>
 
  > I **covered** my face **with** my hands.  
  > 我双手遮面。    
+<audio src="./media/cover-2.aac"></audio>
 
  > In Southeast Asian cultures, a smile is frequently used to cover painful feelings.  
  > 在东南亚国家的文化中，微笑常常被用来掩饰痛苦的感情。  （2012 全国）  
+<audio src="./media/cover-101_AAC.aac"></audio>
 
 ### 2.*高义频：* **涵盖；包括；涉及；处理**  
 英译 to include or deal with sth：
 
  > Does the fee cover the charge for visiting the place?  
  > 这项费用包括参观该景点的门票吗？    
+<audio src="./media/cover-4.aac"></audio>
 
  > Journalism is a course for seniors, in which we will cover how to gather, write, and report the news.  
  > 新闻课是为高年级学生设立的，课程涉及如何搜集、撰写和报道新闻。    
+<audio src="./media/cover-6.aac"></audio>
 
  > We need some time to cover so many things.  
  > 我们需要一些时间来处理这么多的事情。    
+<audio src="./media/cover-5.aac"></audio>
 
 ### 3.*低义频：* **走完 (一段路程)；占地：**  
 
  > This simple vehicle could let me cover long distances in a fairly short time.  
  > 这个简单的交通工具能让我在相当短的时间内走很远的路程。  （2012 湖北）  
+<audio src="./media/cover-7.aac"></audio>
 
  > They went through a wheat-growing province and saw farms that covered thousands of acres.  
  > 他们经过了一个小麦种植区，看到占地数千英亩的一片片农场。  （人教③ – 5）  
+<audio src="./media/cover-8.aac"></audio>
 
 ### 4.*低义频：* **采访；报道**  
 英译 to report the details of an event：
 
  > A journalist was sent to cover the conference.  
  > 一名记者被派去报道这次会议。    
+<audio src="./media/cover-9.aac"></audio>
 
 ### 5.*高义频：* **足以支付；够付**  
 英译 to provide enough money for sth：
 
  > To cover the cost of hiring a bus, each student will have to pay $10 each time.  
  > 为了能够支付租车的费用，每个学生每次要付10美元。  （2010 福建）  
+<audio src="./media/cover-10.aac"></audio>
 
 
 固定搭配
@@ -14111,15 +19425,18 @@ countless /'kaʊntləs/ adj
 
  > I usually wore a scarf to cover my scars up.  
  > 我通常戴围巾把伤疤遮住。  （2013 四川改）  
+<audio src="./media/cover-102_AAC.aac"></audio>
 
  > Mum’s worried, but she covers it up by joking.  
  > 妈妈非常担心，但她还是用笑话来掩饰。    
+<audio src="./media/cover-12.aac"></audio>
 
 ## \#cover up for sb
 1.**为某人掩盖错误；包庇某人：**  
 
  > He got his powerful friends to cover up for him.  
  > 他让他那些有权有势的朋友来包庇自己。    
+<audio src="./media/cover-13.aac"></audio>
 
 
 派生词汇
@@ -14131,6 +19448,7 @@ covered /'kʌvəd/ adj
 covering /'kʌvərɪŋ/ n   
  > The wall includes a waterproof covering.   
  > 这道墙有防水层。    
+<audio src="./media/cover-14.aac"></audio>
 
 
 真题解析
@@ -14150,7 +19468,13 @@ B.
 1. C  2. cover  3. covered  
 
 # ***\#coverage*** n
-英音 'kʌvərɪdʒ     美音 'kʌvərɪdʒ  
+英音 'kʌvərɪdʒ  
+英音
+<audio src="./media/coverage1_AAC.aac"></audio>
+美音 'kʌvərɪdʒ  
+美音
+<audio src="./media/coverage2_AAC.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -14160,7 +19484,13 @@ B.
 
 
 # ***\#cow*** n
-英音 kaʊ     美音 kaʊ  
+英音 kaʊ  
+英音
+<audio src="./media/cow-B.aac"></audio>
+美音 kaʊ  
+美音
+<audio src="./media/cow.aac"></audio>
+
 
 | 词频 3 | 口语 2 |  
 
@@ -14170,7 +19500,13 @@ B.
 
 
 # ***\#coward*** n
-英音 ˈkaʊəd     美音 ˈkaʊərd  
+英音 ˈkaʊəd  
+英音
+<audio src="./media/coward1_AAC.aac"></audio>
+美音 ˈkaʊərd  
+美音
+<audio src="./media/coward2_AAC.aac"></audio>
+
 
   
 
@@ -14180,7 +19516,13 @@ B.
 
 
 # ***\#cowboy*** n
-英音 'kaʊbɔɪ     美音 'kaʊbɔɪ  
+英音 'kaʊbɔɪ  
+英音
+<audio src="./media/cowboy-B.aac"></audio>
+美音 'kaʊbɔɪ  
+美音
+<audio src="./media/cowboy .aac"></audio>
+
 
 | 词频 1 |  
 
@@ -14190,7 +19532,13 @@ B.
 
 
 # ***\#cozy*** adj
-英音 'kəʊzi     美音 'koʊzi  
+英音 'kəʊzi  
+英音
+<audio src="./media/cozy1.aac"></audio>
+美音 'koʊzi  
+美音
+<audio src="./media/cozy2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -14200,7 +19548,13 @@ B.
 
 
 # ***\#crab*** n
-英音 kræb     美音 kræb  
+英音 kræb  
+英音
+<audio src="./media/crab1.aac"></audio>
+美音 kræb  
+美音
+<audio src="./media/crab2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -14210,7 +19564,13 @@ B.
 
 
 # ***\#crack*** v
-英音 kræk     美音 kræk  
+英音 kræk  
+英音
+<audio src="./media/Crack-B.aac"></audio>
+美音 kræk  
+美音
+<audio src="./media/crack .aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -14220,10 +19580,17 @@ B.
 
  > Don’t put boiling water in the glass or it will crack.  
  > 不要把沸水倒进这个玻璃杯里，否则它会破裂。    
+<audio src="./media/crack-1 .aac"></audio>
 
 
 # ***\#crack*** n
-英音 kræk     美音 kræk  
+英音 kræk  
+英音
+<audio src="./media/Crack-B.aac"></audio>
+美音 kræk  
+美音
+<audio src="./media/crack .aac"></audio>
+
 
 | 词频 1 |  
 
@@ -14236,7 +19603,13 @@ B.
 
 
 # ***\#craft*** n
-英音 'krɑːft     美音 'kræft  
+英音 'krɑːft  
+英音
+<audio src="./media/craft-B.aac"></audio>
+美音 'kræft  
+美音
+<audio src="./media/craft.aac"></audio>
+
 
 | 词频 3 | 书面 1 | 阅读 1 |  
 
@@ -14246,6 +19619,7 @@ B.
 
  > The old craftsman takes pride in his craft.  
  > 老工匠以他的手艺自豪。    
+<audio src="./media/craft-1.aac"></audio>
 
 ### 2.*低义频：* **[C] [单复数同] 船；航天器：**  
 
@@ -14254,7 +19628,13 @@ B.
 
 
 # ***\#craftsman*** n
-英音 'krɑːftsmən     美音 'kræftsmən  
+英音 'krɑːftsmən  
+英音
+<audio src="./media/craftsman-B.aac"></audio>
+美音 'kræftsmən  
+美音
+<audio src="./media/craftsman.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -14266,7 +19646,13 @@ B.
 
 
 # ***\#craftsmanship*** n
-英音 'krɑːftsmənʃɪp     美音 'kræftsmənʃɪp  
+英音 'krɑːftsmənʃɪp  
+英音
+<audio src="./media/craftsmanship-B-new.aac"></audio>
+美音 'kræftsmənʃɪp  
+美音
+<audio src="./media/craftsmanship.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -14278,7 +19664,13 @@ B.
 
 
 # ***\#cram*** v
-英音 kræm     美音 kræm  
+英音 kræm  
+英音
+<audio src="./media/cram1_AAC.aac"></audio>
+美音 kræm  
+美音
+<audio src="./media/cram2_AAC.aac"></audio>
+
 
   
 
@@ -14288,7 +19680,13 @@ B.
 
 
 # ***\#crane*** n
-英音 kreɪn     美音 kreɪn  
+英音 kreɪn  
+英音
+<audio src="./media/crane-B.aac"></audio>
+美音 kreɪn  
+美音
+<audio src="./media/crane.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -14300,7 +19698,13 @@ B.
 
 
 # ***\#crash*** n
-英音 kræʃ     美音 kræʃ  
+英音 kræʃ  
+英音
+<audio src="./media/crash-B.aac"></audio>
+美音 kræʃ  
+美音
+<audio src="./media/crash .aac"></audio>
+
 
 | 词频 3 | 口语 1 |  
 
@@ -14312,14 +19716,17 @@ B.
 
  > At that moment, we hear a huge crash and then silence.  
  > 就在那时，我们听到哗啦一声，随后一片寂静。    
+<audio src="./media/crash-2.aac"></audio>
 
  > The tall chimney fell with a great crash.  
  > 高高的烟囱轰然倒塌。    
+<audio src="./media/crash-3.aac"></audio>
 
 ### 2.*高义频：* **碰撞 (事件)；(飞机) 坠毁：**  
 
  > All the passengers were killed in the **plane crash**.  
  > 这次飞机失事，所有乘客无一幸免。    
+<audio src="./media/crash-1 .aac"></audio>
 
 ### 3.*高义频：* **暴跌；(计算机等的) 崩溃：**  
 
@@ -14328,7 +19735,13 @@ B.
 
 
 # ***\#crash*** v
-英音 kræʃ     美音 kræʃ  
+英音 kræʃ  
+英音
+<audio src="./media/crash-B.aac"></audio>
+美音 kræʃ  
+美音
+<audio src="./media/crash .aac"></audio>
+
 
 | 词频 3 | 口语 1 |  
 
@@ -14338,33 +19751,46 @@ B.
 
  > The plates crashed to the floor.  
  > 盘子哗啦一声摔碎在地上。    
+<audio src="./media/crash-8 .aac"></audio>
 
  > She stormed out of the room and crashed the door shut behind her.  
  > 她愤怒地冲出房间，砰的一声把门关上了。    
+<audio src="./media/crash-9 .aac"></audio>
 
 Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”。  
 ### 2.*高义频：* **vi & vt (使飞机) 坠毁；(使汽车等) 猛撞：**  
 
  > The news that the plane had crashed made us sad.  
  > 飞机失事的消息让我们非常难过。  （译林③ – 1）  
+<audio src="./media/crash-6.aac"></audio>
 
  > He **crashed** his car **into** a wall.  
  > 他开车撞到了墙上。    
+<audio src="./media/crash-5.aac"></audio>
 
  > He **crashed into** the other youth and they both landed on the ground.  
  > 他撞上了另一个年轻人，两个人都摔在地上。  （2008 上海春）  
+<audio src="./media/crash-7 .aac"></audio>
 
 ### 3.*高义频：* **vi (公司等) 倒闭；(股票) 暴跌；(计算机等) 死机；崩溃：**  
 
  > The company crashed with debts of £2 million.  
  > 那家公司倒闭了，留下两百万英镑的债务。    
+<audio src="./media/crash-10 .aac"></audio>
 
  > The computers that we use at the moment are old and slow, and they often crash.  
  > 我们现在使用的计算机又旧又慢，还经常死机。    
+<audio src="./media/crash-11 .aac"></audio>
 
 
 # ***\#crater*** n
-英音 'kreɪtə(r)     美音 'kreɪtər  
+英音 'kreɪtə(r)  
+英音
+<audio src="./media/crater-B.aac"></audio>
+美音 'kreɪtər  
+美音
+<audio src="./media/crater.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -14376,7 +19802,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#crawl*** vi
-英音 krɔːl     美音 krɔːl  
+英音 krɔːl  
+英音
+<audio src="./media/crawl1.aac"></audio>
+美音 krɔːl  
+美音
+<audio src="./media/crawl2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -14386,7 +19818,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#crayon*** n
-英音 'kreɪən     美音 'kreɪən  
+英音 'kreɪən  
+英音
+<audio src="./media/crayon-B.aac"></audio>
+美音 'kreɪən  
+美音
+<audio src="./media/crayon.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -14396,7 +19834,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#crazy*** adj
-英音 'kreɪzi     美音 'kreɪzi  
+英音 'kreɪzi  
+英音
+<audio src="./media/crazy-B.aac"></audio>
+美音 'kreɪzi  
+美音
+<audio src="./media/crazy.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -14408,24 +19852,35 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > **It is crazy of** you **to** buy the car at such a high price.  
  > 以这么高的价钱买这辆汽车，你真是疯了。    
+<audio src="./media/crazy-1.aac"></audio>
 
  > What a **crazy idea**!  
  > 这个想法真是荒唐。    
+<audio src="./media/crazy-2.aac"></audio>
 
  > She **went crazy** with fear.  
  > 她害怕得发狂。    
+<audio src="./media/crazy-3.aac"></audio>
 
  > The sound is **driving me crazy** (= really annoying me).  
  > 那种声音快让我发疯了。    
+<audio src="./media/crazy-4.aac"></audio>
 
 ### 2.*高义频：* **狂热的；热衷的：**  
 
  > **I’m crazy about** football.  
  > 我很痴迷足球。    
+<audio src="./media/crazy-5.aac"></audio>
 
 
 # ***\#cream*** n
-英音 'kriːm     美音 'kriːm  
+英音 'kriːm  
+英音
+<audio src="./media/cream-B.aac"></audio>
+美音 'kriːm  
+美音
+<audio src="./media/cream.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -14435,7 +19890,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#cream*** adj
-英音 'kriːm     美音 'kriːm  
+英音 'kriːm  
+英音
+<audio src="./media/cream-B.aac"></audio>
+美音 'kriːm  
+美音
+<audio src="./media/cream.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -14445,7 +19906,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#creamy*** adj
-英音 'kriːmi     美音 'kriːmi  
+英音 'kriːmi  
+英音
+<audio src="./media/creamy1_AAC.aac"></audio>
+美音 'kriːmi  
+美音
+<audio src="./media/creamy2_AAC.aac"></audio>
+
 
   
 
@@ -14455,7 +19922,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#create*** vt
-英音 kri'eɪt     美音 kri'eɪt  
+英音 kri'eɪt  
+英音
+<audio src="./media/create-B.aac"></audio>
+美音 kri'eɪt  
+美音
+<audio src="./media/create.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 3 |  
 
@@ -14466,21 +19939,26 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > All men are created equal.  
  > 人人生而平等。    
+<audio src="./media/create-1.aac"></audio>
 
  > The writer created a very exciting story.  
  > 作者创作了一个激动人心的故事。  （外研⑥ – 5）  
+<audio src="./media/create-2.aac"></audio>
 
  > We are determined to create an even better system.  
  > 我们决心研发一个更好的系统。  （人教② – 3）  
+<audio src="./media/create-3.aac"></audio>
 
 ### 2.*高义频：* **造成；引起；产生**  
 英译 to produce a particular feeling or impression ：
 
  > The company is trying to create a young energetic image.  
  > 这家公司正努力塑造一个充满活力的年轻形象。    
+<audio src="./media/create-4.aac"></audio>
 
  > It was with faithfulness that we created a harmonious atmosphere.  
  > 正是因为真诚，我们才创造了一个和谐的氛围。  （2014 江西书面表达改）  
+<audio src="./media/create-It was with faithfulness.aac"></audio>
 
 
 真题解析
@@ -14491,7 +19969,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 1. to create  
 
 # ***\#creation*** n
-英音 kri'eɪʃn     美音 kri'eɪʃn  
+英音 kri'eɪʃn  
+英音
+<audio src="./media/creation-B.aac"></audio>
+美音 kri'eɪʃn  
+美音
+<audio src="./media/creation .aac"></audio>
+
 
 | 词频 3 | 书面 2 | 阅读 3 |  
 
@@ -14507,7 +19991,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#creative*** adj
-英音 kri'eɪtɪv     美音 kri'eɪtɪv  
+英音 kri'eɪtɪv  
+英音
+<audio src="./media/creative-B.aac"></audio>
+美音 kri'eɪtɪv  
+美音
+<audio src="./media/creative.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 | 阅读 3 |  
 
@@ -14520,10 +20010,17 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > The idea for the advertisement is creative.  
  > 这个广告的构思很有创意。  （北师大④ – 11）  
+<audio src="./media/creative-1.aac"></audio>
 
 
 # ***\#creatively*** adv
-英音 kri'eɪtɪvli     美音 kri'eɪtɪvli  
+英音 kri'eɪtɪvli  
+英音
+<audio src="./media/creatively1_AAC.aac"></audio>
+美音 kri'eɪtɪvli  
+美音
+<audio src="./media/creatively2_AAC.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -14533,7 +20030,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#creativity*** n
-英音 ˌkriːeɪ'tɪvəti     美音 ˌkriːeɪ'tɪvəti  
+英音 ˌkriːeɪ'tɪvəti  
+英音
+<audio src="./media/creativity1_AAC.aac"></audio>
+美音 ˌkriːeɪ'tɪvəti  
+美音
+<audio src="./media/creativity2_AAC.aac"></audio>
+
 
   
 
@@ -14543,7 +20046,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#creator*** n
-英音 kri'eɪtə(r)     美音 kri'eɪtər  
+英音 kri'eɪtə(r)  
+英音
+<audio src="./media/creator1.aac"></audio>
+美音 kri'eɪtər  
+美音
+<audio src="./media/creator2.aac"></audio>
+
 
 | 词频 3 |  
 
@@ -14553,7 +20062,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#creature*** n
-英音 'kriːtʃə(r)     美音 'kriːtʃər  
+英音 'kriːtʃə(r)  
+英音
+<audio src="./media/creature-B.aac"></audio>
+美音 'kriːtʃər  
+美音
+<audio src="./media/creature.aac"></audio>
+
 
 | 词频 4 | 书面 1 | 阅读 3 |  
 
@@ -14566,10 +20081,17 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > He always goes to bed at ten — he’s **a creature of habit**.  
  > 他总是10点钟上床睡觉，是个严守生活习惯的人。    
+<audio src="./media/creature-2.aac"></audio>
 
 
 # ***\#credit*** n  重难点词汇
-英音 'kredɪt     美音 'kredɪt  
+英音 'kredɪt  
+英音
+<audio src="./media/credit-B.aac"></audio>
+美音 'kredɪt  
+美音
+<audio src="./media/credit.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
 
@@ -14582,39 +20104,48 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > He is a man of great credit in our school.  
  > 他在我们学校是一位极有信誉的人。    
+<audio src="./media/credit-1.aac"></audio>
 
  > It is important to pay your electricity bill on time, as late payments may affect your credit.  
  > 准时付电费很重要，因为晚缴费可能会影响你的信用。  （2016 浙江）  
+<audio src="./media/credit50.aac"></audio>
 
 ### 2.*高义频：* **赊账；信贷：**  
 
  > My father had told me I’d have to ask for credit at the store.  
  > 父亲说，我只能到店里赊账购买了。    
+<audio src="./media/credit-2.aac"></audio>
 
  > It doesn’t matter whether you pay by cash or **credit card** in this store.  
  > 在这家商店里你用现金或信用卡支付都可以。  （2012 山东）  
+<audio src="./media/credit-3.aac"></audio>
 
  > Most new cars are bought **on credit**.  
  > 大多数新汽车都是贷款买的。    
+<audio src="./media/credit-4.aac"></audio>
 
 ### 3.*高义频：* **[C] & [U] 存款额：**  
 
  > I’ll put a 300-dollar credit on your account.  
  > 我会在你的账户里存上300美元。  （2010 北京）  
+<audio src="./media/credit-5.aac"></audio>
 
 ### 4.*高义频：* **[U] 赞扬；功劳：**  
 英译 praise or approval that you give to sb for sth they have done well：
 
  > I can’t **take** all the **credit for** the show’s success — it was a team effort.   
  > 演出成功不能都算作我一个人的功劳，这是集体努力的结果。    
+<audio src="./media/P113 credit6.aac"></audio>
 
  > They never **give** me any **credit for** all the extra work I do.  
  > 我做了那么多分外的事，他们从来不说一句好话。    
+<audio src="./media/credit-7.aac"></audio>
 
 ### 5.*低义频：* **[C] 学分：**  
 
  > The teacher made it clear that our credits would be hard-earned.  
  > 老师明确说明，我们的学分将来之不易。  （2018 全国）  
+<audio src="./media/credit-101_AAC.aac"></audio>
 
 
 固定搭配
@@ -14624,10 +20155,17 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > To their credit the four countries do work together in some areas, but they still have very different institutions.  
  > 值得赞扬的是这四个国家在很多领域共同协作，但在制度上它们还是大不相同。  （人教⑤ – 2）  
+<audio src="./media/credit-10.aac"></audio>
 
 
 # ***\#credit*** vt  重难点词汇
-英音 'kredɪt     美音 'kredɪt  
+英音 'kredɪt  
+英音
+<audio src="./media/credit-B.aac"></audio>
+美音 'kredɪt  
+美音
+<audio src="./media/credit.aac"></audio>
+
 
 | 词频 4 | 阅读 3 |  
 
@@ -14637,13 +20175,21 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > The company is **credited with** inventing the industrial robot.  
  > 发明工业机器人是那家公司的功劳。    
+<audio src="./media/credit-11.aac"></audio>
 
  > Much of the team’s success can be **credited to** their manager.  
  > 这个团队的成功大部分应归于他们的经理。    
+<audio src="./media/credit-12.aac"></audio>
 
 
 # ***\#creep*** vi
-英音 kriːp     美音 kriːp  
+英音 kriːp  
+英音
+<audio src="./media/creep1_AAC.aac"></audio>
+美音 kriːp  
+美音
+<audio src="./media/creep2_AAC.aac"></audio>
+
 
   
 
@@ -14653,7 +20199,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#crew*** n
-英音 kruː     美音 kruː  
+英音 kruː  
+英音
+<audio src="./media/crew-B.aac"></audio>
+美音 kruː  
+美音
+<audio src="./media/crew.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 1 |  
 
@@ -14663,6 +20215,7 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > The plane crashed, killing two of the crew and four passengers.  
  > 飞机撞毁了，造成两名机组人员和四名乘客遇难。    
+<audio src="./media/crew-1.aac"></audio>
 
 ### 2.*低义频：* **一队工作人员**  
 英译 a group of people with special skills working together：
@@ -14672,7 +20225,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#crime*** n
-英音 kraɪm     美音 kraɪm  
+英音 kraɪm  
+英音
+<audio src="./media/crime-B.aac"></audio>
+美音 kraɪm  
+美音
+<audio src="./media/crime.aac"></audio>
+
 
 | 词频 4 | 书面 2 | 阅读 3 |  
 
@@ -14686,22 +20245,31 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > A lot of crime is against bicycles.  
  > 针对自行车的（盗窃）犯罪很多。    
+<audio src="./media/crime-1.aac"></audio>
 
 ### 2.*高义频：* **[C] 罪；罪行**  
 英译 an illegal action (offence)：
 
  > **Crimes against** the elderly are becoming more common.  
  > 危害老年人的犯罪活动越来越常见。    
+<audio src="./media/crime-2.aac"></audio>
 
 ### 3.*低义频：* **不道德的行为；罪过**  
 英译 sth that is to blame：
 
  > **It’s a crime** to waste food.  
  > 浪费食物是可耻的行为。    
+<audio src="./media/crime-3.aac"></audio>
 
 
 # ***\#criminal*** adj
-英音 'krɪmɪnl     美音 'krɪmɪnl  
+英音 'krɪmɪnl  
+英音
+<audio src="./media/criminal-B.aac"></audio>
+美音 'krɪmɪnl  
+美音
+<audio src="./media/criminal.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 2 | 阅读 2 |  
 
@@ -14711,10 +20279,17 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > You’ve got a criminal record.  
  > 你有犯罪记录了。    
+<audio src="./media/criminal-1.aac"></audio>
 
 
 # ***\#criminal*** n
-英音 'krɪmɪnl     美音 'krɪmɪnl  
+英音 'krɪmɪnl  
+英音
+<audio src="./media/criminal-B.aac"></audio>
+美音 'krɪmɪnl  
+美音
+<audio src="./media/criminal.aac"></audio>
+
 
 | 词频 3 | 阅读 2 |  
 
@@ -14724,7 +20299,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#crimson*** adj
-英音 ˈkrɪmzn     美音 ˈkrɪmzn  
+英音 ˈkrɪmzn  
+英音
+<audio src="./media/crimson1_AAC.aac"></audio>
+美音 ˈkrɪmzn  
+美音
+<audio src="./media/crimson2_AAC.aac"></audio>
+
 
   
 
@@ -14734,7 +20315,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#crisis*** n
-英音 'kraɪsɪs     美音 'kraɪsɪs  
+英音 'kraɪsɪs  
+英音
+<audio src="./media/Crisis-B.aac"></audio>
+美音 'kraɪsɪs  
+美音
+<audio src="./media/crisis .aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 2 |  
 
@@ -14753,7 +20340,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#crisp*** adj
-英音 krisp     美音 krɪsp  
+英音 krisp  
+英音
+<audio src="./media/crisp-B.aac"></audio>
+美音 krɪsp  
+美音
+<audio src="./media/crisp.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -14763,7 +20356,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#crisp*** n
-英音 krisp     美音 krɪsp  
+英音 krisp  
+英音
+<audio src="./media/crisp-B.aac"></audio>
+美音 krɪsp  
+美音
+<audio src="./media/crisp.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -14773,7 +20372,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#criteria*** n
-英音 kraɪ'tɪəriə     美音 kraɪ'tɪəriə  
+英音 kraɪ'tɪəriə  
+英音
+<audio src="./media/criteria1.aac"></audio>
+美音 kraɪ'tɪəriə  
+美音
+<audio src="./media/criteria2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -14785,7 +20390,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#criterion*** n
-英音 kraɪ'tɪəriən     美音 kraɪ'tɪriən  
+英音 kraɪ'tɪəriən  
+英音
+<audio src="./media/criterion-B.aac"></audio>
+美音 kraɪ'tɪriən  
+美音
+<audio src="./media/criterion.aac"></audio>
+
 
 | 词频 1 | 书面 2 |  
 
@@ -14795,10 +20406,17 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > To qualify for a grant, students must **satisfy** certain **criteria**.  
  > 要获得领取助学金的资格，学生必须满足某些标准。    
+<audio src="./media/criterion-1.aac"></audio>
 
 
 # ***\#critic*** n
-英音 'krɪtɪk     美音 'krɪtɪk  
+英音 'krɪtɪk  
+英音
+<audio src="./media/critic-B.aac"></audio>
+美音 'krɪtɪk  
+美音
+<audio src="./media/critic.aac"></audio>
+
 
 | 词频 3 | 书面 1 |  
 
@@ -14808,7 +20426,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#critical*** adj
-英音 'krɪtɪkl     美音 'krɪtɪkl  
+英音 'krɪtɪkl  
+英音
+<audio src="./media/critical-B.aac"></audio>
+美音 'krɪtɪkl  
+美音
+<audio src="./media/critical.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 | 阅读 3 |  
 
@@ -14818,19 +20442,28 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > Students are encouraged to develop critical thinking instead of accepting everything they are told without questioning it.  
  > 鼓励学生们养成批判性思维而不是毫无置疑地接受被告诉的一切。    
+<audio src="./media/critical-2.aac"></audio>
 
 ### 2.*高义频：* **紧要的；关键的**  
 英译 extremely important：
 
  > The first 24 hours after the operation are the most critical.  
  > 术后24小时是最关键的。    
+<audio src="./media/critical-3.aac"></audio>
 
  > These talks are **critical to** the future of the peace process.  
  > 这些谈判对和平进程的前景至关重要。    
+<audio src="./media/critical-4.aac"></audio>
 
 
 # ***\#criticise*** v
-英音 'krɪtɪsaɪz     美音 'krɪtɪsaɪz  
+英音 'krɪtɪsaɪz  
+英音
+<audio src="./media/criticize-B.aac"></audio>
+美音 'krɪtɪsaɪz  
+美音
+<audio src="./media/criticize  criticise.aac"></audio>
+
 
 | 词频 3 | 书面 1 |  
 
@@ -14841,20 +20474,29 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > She does nothing but criticize and complain all the time.  
  > 她什么也不做，只是一味指责和抱怨。    
+<audio src="./media/criticize  criticise-1.aac"></audio>
 
 - criticize sb for:
 
  > She’s always criticizing her friends for being selfish.  
  > 她总是批评她的朋友自私。    
+<audio src="./media/criticize  criticise-2.aac"></audio>
 
 ### 2.*高义频：* **vt 评价；评论 (艺术作品等)：**  
 
  > He criticized the American film favorably.  
  > 他对那部美国电影给予了好评。    
+<audio src="./media/criticize  criticise-3.aac"></audio>
 
 
 # ***\#criticism*** n
-英音 'krɪtɪsɪzəm     美音 'krɪtɪsɪzəm  
+英音 'krɪtɪsɪzəm  
+英音
+<audio src="./media/criticism-B.aac"></audio>
+美音 'krɪtɪsɪzəm  
+美音
+<audio src="./media/criticism.aac"></audio>
+
 
 | 词频 2 | 书面 2 |  
 
@@ -14867,7 +20509,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#criticize*** v
-英音 'krɪtɪsaɪz     美音 'krɪtɪsaɪz  
+英音 'krɪtɪsaɪz  
+英音
+<audio src="./media/criticize-B.aac"></audio>
+美音 'krɪtɪsaɪz  
+美音
+<audio src="./media/criticize  criticise.aac"></audio>
+
 
 | 词频 3 | 口语 1 | 书面 1 |  
 
@@ -14878,20 +20526,29 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > She does nothing but criticize and complain all the time.  
  > 她什么也不做，只是一味指责和抱怨。    
+<audio src="./media/criticize  criticise-1.aac"></audio>
 
 - criticize sb for sth:
 
  > She’s always criticizing her friends for being selfish.  
  > 她总是批评她的朋友自私。    
+<audio src="./media/criticize  criticise-2.aac"></audio>
 
 ### 2.*高义频：* **vt 评价；评论 (艺术作品等)：**  
 
  > He criticized the American film favorably.  
  > 他对那部美国电影给予了好评。    
+<audio src="./media/criticize  criticise-3.aac"></audio>
 
 
 # ***\#crocodile*** n
-英音 'krɒkədaɪl     美音 'krɑːkədaɪl  
+英音 'krɒkədaɪl  
+英音
+<audio src="./media/crocodile1_AAC.aac"></audio>
+美音 'krɑːkədaɪl  
+美音
+<audio src="./media/crocodile2_AAC.aac"></audio>
+
 
   
 
@@ -14901,7 +20558,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#crooked*** adj
-英音 ˈkrʊkɪd     美音 ˈkrʊkɪd  
+英音 ˈkrʊkɪd  
+英音
+<audio src="./media/crooked1_AAC.aac"></audio>
+美音 ˈkrʊkɪd  
+美音
+<audio src="./media/crooked2_AAC.aac"></audio>
+
 
   
 
@@ -14911,7 +20574,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#crop*** n
-英音 'krɒp     美音 'krɑːp  
+英音 'krɒp  
+英音
+<audio src="./media/crop-B.aac"></audio>
+美音 'krɑːp  
+美音
+<audio src="./media/crop.aac"></audio>
+
 
 | 词频 4 | 书面 1 |  
 
@@ -14921,15 +20590,23 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > The Bai have an agricultural economy, their main crops being rice, wheat, beans and cotton.  
  > 白族人以农业经济为主，他们的主要作物有水稻、小麦、豆类和棉花。  （外研⑦ – 5）  
+<audio src="./media/crop-1.aac"></audio>
 
 ### 2.*高义频：* **收获；收成：**  
 
  > I had a poor **crop of** apples.  
  > 我的苹果收成不好。    
+<audio src="./media/crop-I had a poor.aac"></audio>
 
 
 # ***\#crop*** vt
-英音 krɒp     美音 krɑːp  
+英音 krɒp  
+英音
+<audio src="./media/crop1_AAC.aac"></audio>
+美音 krɑːp  
+美音
+<audio src="./media/crop2_AAC.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -14939,10 +20616,17 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > The land has been too wet for cropping.  
  > 这块土地太湿，不适合种庄稼。  （2017 江苏）  
+<audio src="./media/crop-101_AAC.aac"></audio>
 
 
 # ***\#cross*** n
-英音 krɒs     美音 krɔːs  
+英音 krɒs  
+英音
+<audio src="./media/cross-B.aac"></audio>
+美音 krɔːs  
+美音
+<audio src="./media/cross .aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 |  
 
@@ -14955,13 +20639,21 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > Put a cross after each wrong answer.  
  > 在每个错误的答案后划叉号。    
+<audio src="./media/cross-5 .aac"></audio>
 
  > She wore a small gold cross on a chain around her neck.  
  > 她脖子上戴着一条项链，上面挂着一个小的金质十字架。    
+<audio src="./media/cross-6 .aac"></audio>
 
 
 # ***\#cross*** v
-英音 krɒs     美音 krɔːs  
+英音 krɒs  
+英音
+<audio src="./media/cross-B.aac"></audio>
+美音 krɔːs  
+美音
+<audio src="./media/cross .aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -14971,9 +20663,11 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > The roads cross just outside the town.  
  > 这些道路正好在城外交叉。    
+<audio src="./media/cross-2 .aac"></audio>
 
  > She sat down and **crossed her legs**.  
  > 她坐下来，跷起了二郎腿。    
+<audio src="./media/cross-3 .aac"></audio>
 
 ### 2.*高义频：* **越过；横过；渡过：**  
 
@@ -14982,6 +20676,7 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > Don’t cross. The light is red.  
  > 别过去，现在是红灯。    
+<audio src="./media/cross-1 .aac"></audio>
 
 
 固定搭配
@@ -14991,10 +20686,17 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > You’ve spelt it wrong. Cross it out and try again.  
  > 你拼错了。划掉再写一遍。    
+<audio src="./media/cross-4 .aac"></audio>
 
 
 # ***\#cross*** adj
-英音 krɒs     美音 krɔːs  
+英音 krɒs  
+英音
+<audio src="./media/cross-B.aac"></audio>
+美音 krɔːs  
+美音
+<audio src="./media/cross .aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -15004,6 +20706,10 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#cross-eyed*** adj
+英音
+<audio src="./media/cross-eyed1_AAC.aac"></audio>
+美音
+<audio src="./media/cross-eyed2_AAC.aac"></audio>
 
 
   
@@ -15014,7 +20720,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#cross-talk*** n
-英音 'krɒstɔːk     美音 'krɔːstɔːk  
+英音 'krɒstɔːk  
+英音
+<audio src="./media/cross-talk1.aac"></audio>
+美音 'krɔːstɔːk  
+美音
+<audio src="./media/cross-talk2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -15024,7 +20736,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#crossing*** n
-英音 'krɒsɪŋ     美音 'krɔːsɪŋ  
+英音 'krɒsɪŋ  
+英音
+<audio src="./media/crossing-B.aac"></audio>
+美音 'krɔːsɪŋ  
+美音
+<audio src="./media/crossing.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -15040,7 +20758,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#crossroads*** n
-英音 'krɒsrəʊdz     美音 'krɔːsroʊdz  
+英音 'krɒsrəʊdz  
+英音
+<audio src="./media/crossroads-B.aac"></audio>
+美音 'krɔːsroʊdz  
+美音
+<audio src="./media/crossroads.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -15052,7 +20776,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#crosstalk*** n
-英音 'krɒstɔːk     美音 'krɔːstɔːk  
+英音 'krɒstɔːk  
+英音
+<audio src="./media/crosstalk1.aac"></audio>
+美音 'krɔːstɔːk  
+美音
+<audio src="./media/crosstalk2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -15062,7 +20792,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#crossword*** n
-英音 ˈkrɒswɜːd     美音 ˈkrɔːswɜːrd  
+英音 ˈkrɒswɜːd  
+英音
+<audio src="./media/crossword1_AAC.aac"></audio>
+美音 ˈkrɔːswɜːrd  
+美音
+<audio src="./media/crossword2_AAC.aac"></audio>
+
 
   
 
@@ -15072,7 +20808,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#crouch*** v
-英音 kraʊtʃ     美音 kraʊtʃ  
+英音 kraʊtʃ  
+英音
+<audio src="./media/crouch1_AAC.aac"></audio>
+美音 kraʊtʃ  
+美音
+<audio src="./media/crouch1_AAC.aac"></audio>
+
 
   
 
@@ -15082,7 +20824,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#crowd*** n
-英音 kraʊd     美音 kraʊd  
+英音 kraʊd  
+英音
+<audio src="./media/crowd-B.aac"></audio>
+美音 kraʊd  
+美音
+<audio src="./media/crowd .aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 2 |  
 
@@ -15092,9 +20840,11 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > The crowd erupted into laughter.  
  > 人群中爆发出一阵笑声。  （2010 福建）  
+<audio src="./media/crowd-1 .aac"></audio>
 
  > The band played and the crowd cheered.  
  > 乐队表演，观众欢呼。  （2009 湖北）  
+<audio src="./media/crowd-2 .aac"></audio>
 
 
 固定搭配
@@ -15104,10 +20854,17 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > After making my way through crowds of people, I finally found a subway line that was operating.  
  > 从一大群人中间挤过去之后，我终于看到了一条还在运营的地铁线路。  （2008 山东）  
+<audio src="./media/crowd-3 .aac"></audio>
 
 
 # ***\#crowd*** v
-英音 kraʊd     美音 kraʊd  
+英音 kraʊd  
+英音
+<audio src="./media/crowd-B.aac"></audio>
+美音 kraʊd  
+美音
+<audio src="./media/crowd .aac"></audio>
+
 
 | 词频 4 |  
 
@@ -15117,24 +20874,34 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > Onlookers crowded the street.  
  > 街上挤满了围观者。    
+<audio src="./media/crowd-4 .aac"></audio>
 
  > crowd a room with furniture  
  > 把房间摆满家具    
 
  > Memories from high school crowded his mind.  
  > 他满脑子都是中学时的回忆。    
+<audio src="./media/crowd-101_AAC.aac"></audio>
 
 ### 2.*低义频：* **vi 聚集；拥进；蜂拥而至：**  
 
  > Pupils **crowded round** (their teacher) to ask questions.  
  > 小学生们围着(老师)提问题。    
+<audio src="./media/crowd-6 .aac"></audio>
 
  > Thousands of people have **crowded into** the small town.  
  > 成千上万的人涌入了这个小镇。    
+<audio src="./media/crowd-7 .aac"></audio>
 
 
 # ***\#crowded*** adj
-英音 'kraʊdɪd     美音 'kraʊdɪd  
+英音 'kraʊdɪd  
+英音
+<audio src="./media/crowded-B.aac"></audio>
+美音 'kraʊdɪd  
+美音
+<audio src="./media/crowded.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -15147,10 +20914,17 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > The restaurant **is** always **crowded with** customers at meal times.  
  > 这家餐馆在用餐时间总是客满。  （2016 全国）  
+<audio src="./media/crowded55.aac"></audio>
 
 
 # ***\#crown*** n
-英音 kraʊn     美音 kraʊn  
+英音 kraʊn  
+英音
+<audio src="./media/crown-B.aac"></audio>
+美音 kraʊn  
+美音
+<audio src="./media/crown2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -15162,7 +20936,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#crowning*** adj
-英音 ˈkraʊnɪŋ     美音 ˈkraʊnɪŋ  
+英音 ˈkraʊnɪŋ  
+英音
+<audio src="./media/crowning1_AAC.aac"></audio>
+美音 ˈkraʊnɪŋ  
+美音
+<audio src="./media/crowning2_AAC.aac"></audio>
+
 
   
 
@@ -15172,7 +20952,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#crucial*** adj
-英音 'kruːʃl     美音 'kruːʃl  
+英音 'kruːʃl  
+英音
+<audio src="./media/crucial-B.aac"></audio>
+美音 'kruːʃl  
+美音
+<audio src="./media/crucial2.aac"></audio>
+
 
 | 词频 1 | 书面 2 |  
 
@@ -15182,7 +20968,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#crucible*** n
-英音 'kruːsɪbl     美音 'kruːsɪbl  
+英音 'kruːsɪbl  
+英音
+<audio src="./media/crucible1.aac"></audio>
+美音 'kruːsɪbl  
+美音
+<audio src="./media/crucible2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -15192,7 +20984,13 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
 
 # ***\#cruel*** adj
-英音 'kruːəl     美音 'kruːəl  
+英音 'kruːəl  
+英音
+<audio src="./media/cruel-B.aac"></audio>
+美音 'kruːəl  
+美音
+<audio src="./media/cruel.aac"></audio>
+
 
 | 词频 3 | 口语 1 |  
 
@@ -15203,9 +21001,11 @@ Notes: crash最初是一个象声词，模仿断裂的声音， “哗啦…”�
 
  > Some people choose not to eat meat because they believe that it is **cruel to** eat animals.  
  > 有些人不吃肉，因为他们觉得吃动物太残忍。  （2012 广东）  
+<audio src="./media/cruel-1.aac"></audio>
 
  > It was cruel of Jim to ignore her.  
  > 吉姆存心不理会她，真是无情。    
+<audio src="./media/cruel-2.aac"></audio>
 
 
 派生词汇
@@ -15214,7 +21014,13 @@ cruelly /'kruːəli/ adv
 cruelty /'kruːəlti/ n   
 
 # ***\#cruelty*** n
-英音 'kruːəlti     美音 'kruːəlti  
+英音 'kruːəlti  
+英音
+<audio src="./media/cruelty-B.aac"></audio>
+美音 'kruːəlti  
+美音
+<audio src="./media/cruelty.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -15224,7 +21030,13 @@ cruelty /'kruːəlti/ n
 
 
 # ***\#cruise*** n
-英音 kruːz     美音 kruːz  
+英音 kruːz  
+英音
+<audio src="./media/cruise1.aac"></audio>
+美音 kruːz  
+美音
+<audio src="./media/cruise2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -15234,7 +21046,13 @@ cruelty /'kruːəlti/ n
 
 
 # ***\#cruise*** v
-英音 kruːz     美音 kruːz  
+英音 kruːz  
+英音
+<audio src="./media/cruise1.aac"></audio>
+美音 kruːz  
+美音
+<audio src="./media/cruise2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -15244,7 +21062,13 @@ cruelty /'kruːəlti/ n
 
 
 # ***\#crunch*** n
-英音 krʌntʃ     美音 krʌntʃ  
+英音 krʌntʃ  
+英音
+<audio src="./media/crunch1.aac"></audio>
+美音 krʌntʃ  
+美音
+<audio src="./media/crunch2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -15254,7 +21078,13 @@ cruelty /'kruːəlti/ n
 
 
 # ***\#crush*** n
-英音 krʌʃ     美音 krʌʃ  
+英音 krʌʃ  
+英音
+<audio src="./media/crush-B.aac"></audio>
+美音 krʌʃ  
+美音
+<audio src="./media/crush2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -15266,7 +21096,13 @@ cruelty /'kruːəlti/ n
 
 
 # ***\#crush*** vt
-英音 krʌʃ     美音 krʌʃ  
+英音 krʌʃ  
+英音
+<audio src="./media/crush-B.aac"></audio>
+美音 krʌʃ  
+美音
+<audio src="./media/crush2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -15276,7 +21112,13 @@ cruelty /'kruːəlti/ n
 
 
 # ***\#cry*** v
-英音 kraɪ     美音 kraɪ  
+英音 kraɪ  
+英音
+<audio src="./media/cry-B.aac"></audio>
+美音 kraɪ  
+美音
+<audio src="./media/cry.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 2 |  
 
@@ -15286,17 +21128,21 @@ cruelty /'kruːəlti/ n
 
  > The child is **crying for** her mother.  
  > 孩子哭着要妈妈。    
+<audio src="./media/cry-101_AAC.aac"></audio>
 
  > It is no good crying over spilt milk.  
  > 覆水难收。    
+<audio src="./media/cry-102_AAC.aac"></audio>
 
 ### 2.*高义频：* **[书面用语] 喊叫 (cry out)；大声地说：**  
 
  > “Look out!” I cried.  
  > 我大喊道：“小心！”    
+<audio src="./media/cry4.aac"></audio>
 
  > She cried the news all over the neighborhood.  
  > 她在街坊邻里大肆宣扬这个消息。    
+<audio src="./media/cry-5.aac"></audio>
 
 
 固定搭配
@@ -15306,19 +21152,28 @@ cruelty /'kruːəlti/ n
 
  > She **cried out in / with** pain when her tooth was pulled out.  
  > 她拔牙时痛得大叫。    
+<audio src="./media/cry-6.aac"></audio>
 
  > “Why are you doing this?”she cried out suddenly.  
  > “你为什么要这么做？”她突然大声喊道。    
+<audio src="./media/cry-7.aac"></audio>
 
 ## \#cry out for
 1.**[非正式用语] 急需：**  
 
  > The company is crying out for fresh new talent.  
  > 这家公司急需新的人才。    
+<audio src="./media/cry-8.aac"></audio>
 
 
 # ***\#cry*** n
-英音 kraɪ     美音 kraɪ  
+英音 kraɪ  
+英音
+<audio src="./media/cry-B.aac"></audio>
+美音 kraɪ  
+美音
+<audio src="./media/cry.aac"></audio>
+
 
 | 词频 4 | 口语 2 | 书面 1 |  
 
@@ -15330,11 +21185,13 @@ cruelty /'kruːəlti/ n
 
  > On hearing about her mother’s death, she had a good cry.  
  > 听到母亲去世的消息，她哭得死去活来。    
+<audio src="./media/cry-9.aac"></audio>
 
 ### 2.*高义频：* **叫喊声；呼喊声；(鸟兽的) 叫鸣声：**  
 
  > We heard a **cry for help**.  
  > 我们听到了呼救声。    
+<audio src="./media/cry-10.aac"></audio>
 
 
 真题解析
@@ -15345,7 +21202,13 @@ cruelty /'kruːəlti/ n
 1. for  
 
 # ***\#cube*** n
-英音 kjuːb     美音 kjuːb  
+英音 kjuːb  
+英音
+<audio src="./media/cube-B.aac"></audio>
+美音 kjuːb  
+美音
+<audio src="./media/cube.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -15355,7 +21218,13 @@ cruelty /'kruːəlti/ n
 
 
 # ***\#cubic*** adj
-英音 'kjuːbɪk     美音 'kjuːbɪk  
+英音 'kjuːbɪk  
+英音
+<audio src="./media/cubic-B.aac"></audio>
+美音 'kjuːbɪk  
+美音
+<audio src="./media/cubic.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -15365,7 +21234,13 @@ cruelty /'kruːəlti/ n
 
 
 # ***\#cucumber*** n
-英音 'kjuːkʌmbə(r)     美音 'kjuːkʌmbər  
+英音 'kjuːkʌmbə(r)  
+英音
+<audio src="./media/cucumber-B.aac"></audio>
+美音 'kjuːkʌmbər  
+美音
+<audio src="./media/cucumber.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -15377,7 +21252,13 @@ cruelty /'kruːəlti/ n
 
 
 # ***\#cue*** vt
-英音 kjuː     美音 kjuː  
+英音 kjuː  
+英音
+<audio src="./media/cue v1_AAC.aac"></audio>
+美音 kjuː  
+美音
+<audio src="./media/cue v2_AAC.aac"></audio>
+
 
   
 
@@ -15387,7 +21268,13 @@ cruelty /'kruːəlti/ n
 
 
 # ***\#cue*** n
-英音 kjuː     美音 kjuː  
+英音 kjuː  
+英音
+<audio src="./media/cue n1_AAC.aac"></audio>
+美音 kjuː  
+美音
+<audio src="./media/cue n2_AAC.aac"></audio>
+
 
   
 
@@ -15397,7 +21284,13 @@ cruelty /'kruːəlti/ n
 
 
 # ***\#cuisine*** n
-英音 kwɪ'ziːn     美音 kwɪ'ziːn  
+英音 kwɪ'ziːn  
+英音
+<audio src="./media/cuisine-B.aac"></audio>
+美音 kwɪ'ziːn  
+美音
+<audio src="./media/cuisine.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -15407,7 +21300,13 @@ cruelty /'kruːəlti/ n
 
 
 # ***\#cultivate*** vt
-英音 'kʌltɪveɪt     美音 'kʌltɪveɪt  
+英音 'kʌltɪveɪt  
+英音
+<audio src="./media/cultivate-B.aac"></audio>
+美音 'kʌltɪveɪt  
+美音
+<audio src="./media/cultivate.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -15421,13 +21320,21 @@ cruelty /'kruːəlti/ n
 
  > She reads the best authors in an attempt to cultivate her mind.  
  > 她阅读最优秀作家的作品陶冶情操    
+<audio src="./media/cultivate-1.aac"></audio>
 
  > You will benefit a lot from cultivating a positive mental attitude.  
  > 养成积极的心态你会受益匪浅。    
+<audio src="./media/cultivate-2.aac"></audio>
 
 
 # ***\#cultural*** adj
-英音 'kʌltʃərəl     美音 'kʌltʃərəl  
+英音 'kʌltʃərəl  
+英音
+<audio src="./media/cultural-B.aac"></audio>
+美音 'kʌltʃərəl  
+美音
+<audio src="./media/cultural.aac"></audio>
+
 
 | 词频 4 | 书面 2 |  
 
@@ -15440,13 +21347,21 @@ cruelty /'kruːəlti/ n
 
  > Shaanxi Province is a place with many **cultural relics**.  
  > 陕西是一个拥有许多文化遗迹的省份。  （人教② – 1）  
+<audio src="./media/cultural-1.aac"></audio>
 
  > The city has rich and varied **cultural life**.  
  > 这个城市有丰富多彩的文化生活。    
+<audio src="./media/cultural-2.aac"></audio>
 
 
 # ***\#culture*** n
-英音 'kʌltʃə(r)     美音 'kʌltʃər  
+英音 'kʌltʃə(r)  
+英音
+<audio src="./media/culture-B.aac"></audio>
+美音 'kʌltʃər  
+美音
+<audio src="./media/culture.aac"></audio>
+
 
 | 词频 5 | 口语 2 | 书面 3 |  
 
@@ -15459,6 +21374,7 @@ cruelty /'kruːəlti/ n
 
  > Body language is particularly important when we attempt to communicate across cultures.  
  > 当我们试图进行跨文化交际的时候，身势语尤为重要。  （2012 全国）  
+<audio src="./media/culture-101_AAC.aac"></audio>
 
 ### 2.*高义频：* **[U] 教养；教化；教育：**  
 
@@ -15470,7 +21386,13 @@ cruelty /'kruːəlti/ n
 
 
 # ***\#cup*** n
-英音 kʌp     美音 kʌp  
+英音 kʌp  
+英音
+<audio src="./media/cup-B.aac"></audio>
+美音 kʌp  
+美音
+<audio src="./media/cup .aac"></audio>
+
 
 | 词频 4 |  
 
@@ -15480,7 +21402,13 @@ cruelty /'kruːəlti/ n
 
 
 # ***\#cupboard*** n
-英音 'kʌbəd     美音 'kʌbərd  
+英音 'kʌbəd  
+英音
+<audio src="./media/cupboard-B.aac"></audio>
+美音 'kʌbərd  
+美音
+<audio src="./media/cupboard.aac"></audio>
+
 
 | 词频 3 | 口语 2 |  
 
@@ -15490,7 +21418,13 @@ cruelty /'kruːəlti/ n
 
 
 # ***\#cure*** vt
-英音 kjʊə(r)     美音 kjʊr  
+英音 kjʊə(r)  
+英音
+<audio src="./media/cure-B.aac"></audio>
+美音 kjʊr  
+美音
+<audio src="./media/cure.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -15501,21 +21435,30 @@ cruelty /'kruːəlti/ n
 
  > We could use cloning to cure illness.  
  > 我们可以用克隆技术治疗疾病。  （外研⑥ – 5）  
+<audio src="./media/cure-1.aac"></audio>
 
 ### 2.*高义频：* **治愈 (病人)**  
 英译 to make sb well again after he has been ill：
 
  > Moving to the country **cured her of** the disease.  
  > 搬到乡下后，她的病就好了。    
+<audio src="./media/cure-2.aac"></audio>
 
 ### 3.*低义频：* **纠正；矫正；消除 (弊病等)：**  
 
  > Many bad habits can be especially difficult to cure.  
  > 许多坏习惯特别难以纠正。  （2015 湖北）  
+<audio src="./media/P115 cure3.aac"></audio>
 
 
 # ***\#cure*** n
-英音 kjʊə(r)     美音 kjʊr  
+英音 kjʊə(r)  
+英音
+<audio src="./media/cure-B.aac"></audio>
+美音 kjʊr  
+美音
+<audio src="./media/cure.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -15527,14 +21470,17 @@ cruelty /'kruːəlti/ n
 
  > Prevention is better than cure.  
  > 预防胜于治疗。    
+<audio src="./media/cure-4.aac"></audio>
 
  > His complete cure can’t be expected.  
  > 他完全恢复健康遥不可期。    
+<audio src="./media/cure-5.aac"></audio>
 
 ### 2.*高义频：* **疗法；药物：**  
 
  > One day scientists will find a **cure for** AIDS.  
  > 总有一天科学家会找到治疗艾滋病的方法。  （人教⑥ – 3）  
+<audio src="./media/cure-6.aac"></audio>
 
 ### 3.*低义频：* **对策：**  
 
@@ -15543,10 +21489,17 @@ cruelty /'kruːəlti/ n
 
  > Empathy can be a **cure for** loneliness, sadness, anxiety, and fear.  
  > 同情是应付孤独、悲伤、焦虑和恐惧的对策。    
+<audio src="./media/cure-7.aac"></audio>
 
 
 # ***\#curiosity*** n
-英音 ˌkjʊəri'ɒsəti     美音 ˌkjʊri'ɑːsəti  
+英音 ˌkjʊəri'ɒsəti  
+英音
+<audio src="./media/curiosity-B.aac"></audio>
+美音 ˌkjʊri'ɑːsəti  
+美音
+<audio src="./media/curiosity.aac"></audio>
+
 
 | 词频 4 | 阅读 2 |  
 
@@ -15562,15 +21515,23 @@ cruelty /'kruːəlti/ n
 
  > **Curiosity killed the cat**.  
  > 好奇害死猫(告诫人不要过多打听)。    
+<audio src="./media/curiosity-1.aac"></audio>
 
 ### 2.*低义频：* **[C] 罕有的事物；古玩；珍品：**  
 
  > The museum is full of historical curiosities.  
  > 这座博物馆有许多珍奇的历史文物。    
+<audio src="./media/curiosity-2.aac"></audio>
 
 
 # ***\#curious*** adj
-英音 'kjʊəriəs     美音 'kjʊriəs  
+英音 'kjʊəriəs  
+英音
+<audio src="./media/curious-B.aac"></audio>
+美音 'kjʊriəs  
+美音
+<audio src="./media/curious.aac"></audio>
+
 
 | 词频 4 | 口语 1 |  
 
@@ -15580,16 +21541,19 @@ cruelty /'kruːəlti/ n
 
  > He’s such a curious boy, always asking questions.  
  > 他是个好奇心很强的孩子，总爱问问题。    
+<audio src="./media/curious-1.aac"></audio>
 
 - (be) curious about:
 
  > In high school, I became curious about the computer, and built my first website.  
  > 上高中时，我对电脑产生了好奇心，创办了自己的第一个网站。  （2016 北京）  
+<audio src="./media/curious55.aac"></audio>
 
 - (be) curious to do sth:
 
  > We were curious to know where she’s gone.  
  > 我们很想知道她去哪里了。    
+<audio src="./media/curious-3.aac"></audio>
 
 ### 2.*高义频：* **奇异的；奇怪的：**  
 英译 strange or unusual：
@@ -15601,6 +21565,7 @@ cruelty /'kruːəlti/ n
 
  > It is curious that she left without saying goodbye.  
  > 很奇怪她不辞而别了。    
+<audio src="./media/curious-4.aac"></audio>
 
 
 派生词汇
@@ -15616,7 +21581,13 @@ curiously /'kjʊəriəsli/ adv
 1. curious  2. about  
 
 # ***\#curiously*** adv
-英音 'kjʊəriəsli     美音 'kjʊriəsli  
+英音 'kjʊəriəsli  
+英音
+<audio src="./media/curiously1.aac"></audio>
+美音 'kjʊriəsli  
+美音
+<audio src="./media/curiously2.aac"></audio>
+
 
 | 词频 2 |  
 
@@ -15626,7 +21597,13 @@ curiously /'kjʊəriəsli/ adv
 
 
 # ***\#curl*** v
-英音 kɜːl     美音 kɜːrl  
+英音 kɜːl  
+英音
+<audio src="./media/curl-B.aac"></audio>
+美音 kɜːrl  
+美音
+<audio src="./media/curl2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -15636,7 +21613,13 @@ curiously /'kjʊəriəsli/ adv
 
 
 # ***\#curly*** adj
-英音 'kɜːli     美音 'kɜːrli  
+英音 'kɜːli  
+英音
+<audio src="./media/curly-B.aac"></audio>
+美音 'kɜːrli  
+美音
+<audio src="./media/curly2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -15646,7 +21629,13 @@ curiously /'kjʊəriəsli/ adv
 
 
 # ***\#currency*** n
-英音 'kʌrənsi     美音 'kɜːrənsi  
+英音 'kʌrənsi  
+英音
+<audio src="./media/currency-B.aac"></audio>
+美音 'kɜːrənsi  
+美音
+<audio src="./media/currency.aac"></audio>
+
 
 | 词频 1 | 书面 3 |  
 
@@ -15656,7 +21645,13 @@ curiously /'kjʊəriəsli/ adv
 
 
 # ***\#current*** n
-英音 'kʌrənt     美音 'kɜːrənt  
+英音 'kʌrənt  
+英音
+<audio src="./media/current-B.aac"></audio>
+美音 'kɜːrənt  
+美音
+<audio src="./media/current.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
 
@@ -15674,6 +21669,7 @@ curiously /'kjʊəriəsli/ adv
 
  > Some birds use warm **air currents** to help them fly.  
  > 有些鸟利用热气流帮助它们飞行。    
+<audio src="./media/current-2.aac"></audio>
 
 ### 2.*低义频：* **(事件、时代等) 趋势；潮流：**  
 
@@ -15682,7 +21678,13 @@ curiously /'kjʊəriəsli/ adv
 
 
 # ***\#current*** adj
-英音 'kʌrənt     美音 'kɜːrənt  
+英音 'kʌrənt  
+英音
+<audio src="./media/current-B.aac"></audio>
+美音 'kɜːrənt  
+美音
+<audio src="./media/current.aac"></audio>
+
 
 | 词频 4 | 口语 3 | 书面 3 | 阅读 3 |  
 
@@ -15695,6 +21697,7 @@ curiously /'kjʊəriəsli/ adv
 
  > Students are placed into classes according to their current language skills.  
  > 根据学生当前的语言技能来分班。  （2016 天津）  
+<audio src="./media/current50.aac"></audio>
 
 ### 2.*高义频：* **通用的；流通的；流行的：**  
 
@@ -15710,7 +21713,13 @@ curiously /'kjʊəriəsli/ adv
 currently /'kʌrəntli/ adv   
 
 # ***\#currently*** adv
-英音 'kʌrəntli     美音 'kɜːrəntli  
+英音 'kʌrəntli  
+英音
+<audio src="./media/currently1_AAC.aac"></audio>
+美音 'kɜːrəntli  
+美音
+<audio src="./media/currently2_AAC.aac"></audio>
+
 
   
 
@@ -15720,7 +21729,13 @@ currently /'kʌrəntli/ adv
 
 
 # ***\#curriculum*** n
-英音 kə'rɪkjələm     美音 kə'rɪkjələm  
+英音 kə'rɪkjələm  
+英音
+<audio src="./media/curriculum-B.aac"></audio>
+美音 kə'rɪkjələm  
+美音
+<audio src="./media/curriculum .aac"></audio>
+
 
 | 词频 2 | 书面 2 |  
 
@@ -15730,7 +21745,13 @@ currently /'kʌrəntli/ adv
 
 
 # ***\#curse*** vt
-英音 kɜːs     美音 kɜːrs  
+英音 kɜːs  
+英音
+<audio src="./media/curse-B.aac"></audio>
+美音 kɜːrs  
+美音
+<audio src="./media/curse .aac"></audio>
+
 
 | 词频 1 |  
 
@@ -15740,7 +21761,13 @@ currently /'kʌrəntli/ adv
 
 
 # ***\#curse*** n
-英音 kɜːs     美音 kɜːrs  
+英音 kɜːs  
+英音
+<audio src="./media/curse-B.aac"></audio>
+美音 kɜːrs  
+美音
+<audio src="./media/curse .aac"></audio>
+
 
 | 词频 1 |  
 
@@ -15750,7 +21777,13 @@ currently /'kʌrəntli/ adv
 
 
 # ***\#curtain*** n
-英音 'kɜːtn     美音 'kɜːrtn  
+英音 'kɜːtn  
+英音
+<audio src="./media/curtain-B.aac"></audio>
+美音 'kɜːrtn  
+美音
+<audio src="./media/curtain.aac"></audio>
+
 
 | 词频 2 | 口语 2 | 书面 1 |  
 
@@ -15760,15 +21793,23 @@ currently /'kʌrəntli/ adv
 
  > Please **draw the curtains**; the sunlight is too bright.  
  > 请拉上窗帘，阳光太强了。  （人教① – 1）  
+<audio src="./media/curtain-1.aac"></audio>
 
 ### 2.*高义频：* **(剧院的) 幕；帷幕：**  
 
  > As **the curtain rises**, a cottage is seen on the stage.  
  > 幕布升起时，舞台上出现了一所农舍。    
+<audio src="./media/curtain-2.aac"></audio>
 
 
 # ***\#curtsy*** vi
-英音 'kɜːtsi     美音 'kɜːrtsi  
+英音 'kɜːtsi  
+英音
+<audio src="./media/curtsy-B.aac"></audio>
+美音 'kɜːrtsi  
+美音
+<audio src="./media/curtsy.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -15778,7 +21819,13 @@ currently /'kʌrəntli/ adv
 
 
 # ***\#curtsy*** n
-英音 'kɜːtsi     美音 'kɜːrtsi  
+英音 'kɜːtsi  
+英音
+<audio src="./media/curtsy-B.aac"></audio>
+美音 'kɜːrtsi  
+美音
+<audio src="./media/curtsy.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -15788,7 +21835,13 @@ currently /'kʌrəntli/ adv
 
 
 # ***\#curve*** n
-英音 kɜːv     美音 kɜːrv  
+英音 kɜːv  
+英音
+<audio src="./media/curve-B.aac"></audio>
+美音 kɜːrv  
+美音
+<audio src="./media/curve2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -15800,7 +21853,13 @@ currently /'kʌrəntli/ adv
 
 
 # ***\#curve*** v
-英音 kɜːv     美音 kɜːrv  
+英音 kɜːv  
+英音
+<audio src="./media/curve-B.aac"></audio>
+美音 kɜːrv  
+美音
+<audio src="./media/curve2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -15814,7 +21873,13 @@ currently /'kʌrəntli/ adv
 curved /kɜːvd/ adj   
 
 # ***\#curveball*** n
-英音 ˈkɜːvbɔːl     美音 ˈkɜːrvbɔːl  
+英音 ˈkɜːvbɔːl  
+英音
+<audio src="./media/curveball1_AAC.aac"></audio>
+美音 ˈkɜːrvbɔːl  
+美音
+<audio src="./media/curveball2_AAC.aac"></audio>
+
 
   
 
@@ -15824,7 +21889,13 @@ curved /kɜːvd/ adj
 
 
 # ***\#cushion*** n
-英音 'kʊʃn     美音 'kʊʃn  
+英音 'kʊʃn  
+英音
+<audio src="./media/cushion-B.aac"></audio>
+美音 'kʊʃn  
+美音
+<audio src="./media/cushion.aac"></audio>
+
 
 | 词频 1 | 口语 1 |  
 
@@ -15834,7 +21905,13 @@ curved /kɜːvd/ adj
 
 
 # ***\#custom*** n
-英音 'kʌstəm     美音 'kʌstəm  
+英音 'kʌstəm  
+英音
+<audio src="./media/custom-B.aac"></audio>
+美音 'kʌstəm  
+美音
+<audio src="./media/custom.aac"></audio>
+
 
 | 词频 4 | 书面 1 |  
 
@@ -15844,18 +21921,27 @@ curved /kɜːvd/ adj
 
  > Different ethnic groups have different cultures and customs.  
  > 不同的种族拥有不同的文化习俗。  （译林⑥ – 3）  
+<audio src="./media/custom-1.aac"></audio>
 
  > Naxi women have the **custom of playing** cards on card tables in the middle of the street.  
  > 纳西族妇女有在街中央围着牌桌打扑克的风俗习惯。  （外研⑦ – 5改）  
+<audio src="./media/custom-101_AAC.aac"></audio>
 
 ### 2.*低义频：* **（个人的）日常习惯 (habit)：**  
 
  > It was her custom to rise early.  
  > 她有早起的习惯。    
+<audio src="./media/custom-3.aac"></audio>
 
 
 # ***\#customer*** n
-英音 'kʌstəmə(r)     美音 'kʌstəmər  
+英音 'kʌstəmə(r)  
+英音
+<audio src="./media/customer-B.aac"></audio>
+美音 'kʌstəmər  
+美音
+<audio src="./media/customer.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -15868,7 +21954,13 @@ curved /kɜːvd/ adj
 
 
 # ***\#customs*** n
-英音 'kʌstəmz     美音 'kʌstəmz  
+英音 'kʌstəmz  
+英音
+<audio src="./media/customs-B.aac"></audio>
+美音 'kʌstəmz  
+美音
+<audio src="./media/customs .aac"></audio>
+
 
 | 词频 2 |  
 
@@ -15881,13 +21973,21 @@ curved /kɜːvd/ adj
 
  > It took us only a few minutes to get through the customs.  
  > 海关检查只花了我们几分钟的时间。    
+<audio src="./media/customs-1 .aac"></audio>
 
  > I paid 40 dollars in customs on the Swiss watch.  
  > 我为这块瑞士表付了40美元关税。    
+<audio src="./media/customs-2 .aac"></audio>
 
 
 # ***\#cut*** v  重难点词汇
-英音 kʌt     美音 kʌt  
+英音 kʌt  
+英音
+<audio src="./media/cut-B.aac"></audio>
+美音 kʌt  
+美音
+<audio src="./media/cut.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -15902,49 +22002,61 @@ curved /kɜːvd/ adj
 
  > She cut the apple in half.  
  > 她把苹果切成两半。    
+<audio src="./media/cut-1.aac"></audio>
 
  > The material **cuts** easily **with** scissors.  
  > 那种材料用剪刀很容易剪断。    
+<audio src="./media/cut-3.aac"></audio>
 
  > He **cut** some fur **from** the family cat to make a brush.  
  > 他从家猫身上剪下了一些毛做画笔。  （2017 浙江）  
+<audio src="./media/cut-101_AAC.aac"></audio>
 
 ### 2.*高义频：* **vt & vi 割伤；割破；划破：**  
 
  > She cut her finger on a piece of glass.  
  > 一块玻璃把她的手指割伤了。。    
+<audio src="./media/cut-102_AAC.aac"></audio>
 
  > The knife is extremely sharp! Mind you don’t **cut yourself**.  
  > 那把刀非常锋利，当心别把自己划伤了。    
+<audio src="./media/cut-6.aac"></audio>
 
 ### 3.*高义频：* **vt 剪短；修剪：**  
 
  > I **had my hair cut** short.  
  > 我把头发剪短了。    
+<audio src="./media/cut-7.aac"></audio>
 
  > I was just going to cut my rose bushes but someone had done it.  
  > 我正打算修剪我的玫瑰丛，但发现已经有人修剪完了。  （2010 湖南）  
+<audio src="./media/cut-8.aac"></audio>
 
 ### 4.*低义频：* **vt 雕刻；凿出：**  
 
  > She cut the carrot to look like a flower.  
  > 她把胡萝卜雕成花的形状。    
+<audio src="./media/cut-9.aac"></audio>
 
  > The chair is **cut from** the trunk of a tree.  
  > 这把椅子是用一根树干凿成的。    
+<audio src="./media/cut-10.aac"></audio>
 
 ### 5.*低义频：* **vt 打断；停止；和...绝交：**  
 
  > Japan cut diplomatic ties with the country.  
  > 日本与那个国家断绝了外交关系。    
+<audio src="./media/cut-11.aac"></audio>
 
 ### 6.*高义频：* **vt 削减；缩减；减少 (reduce)：**  
 
  > The store cut the price of winter clothing by 20%.  
  > 那家商店冬装降价20%。    
+<audio src="./media/cut-12.aac"></audio>
 
  > Cutting carbon has an immediate effect as costs drop.  
  > 减少碳排放量的直接效果就是降低成本。    
+<audio src="./media/cut-13.aac"></audio>
 
 
 固定搭配
@@ -15955,65 +22067,79 @@ curved /kɜːvd/ adj
 
  > Several companies are **cutting back on** staff at the moment.   
  > 目前，有几家公司正在裁员。    
+<audio src="./media/P117 cut back.aac"></audio>
 
 ## \#cut down
 1.*高义频：* **砍倒：**  
 
  > Deserts are also created because people cut down trees and dig up grass.  
  > 人们伐树掘草，也会造成土壤沙化。  （外研③ – 4）  
+<audio src="./media/cut-15.aac"></audio>
 
 2.*高义频：* **减少；缩减**  
 英译 to reduce the amount of sth：
 
  > The car industry cut down production.  
  > 汽车制造商减少了产量。    
+<audio src="./media/cut-16.aac"></audio>
 
  > If you want to lose weight you have to **cut down on** fatty foods.  
  > 如果你想减肥就得少吃高脂食物。    
+<audio src="./media/cut-17.aac"></audio>
 
  > We need to **cut** the article **down to** 1,000 words.  
  > 我们需要把这篇文章缩减至1000词。    
+<audio src="./media/cut-18.aac"></audio>
 
 ## \#cut in
 1.*低义频：* **插嘴；打断：**  
 
  > I’m sorry to **cut in on** you, but there are one or two things I don’t understand.  
  > 抱歉打断你的话，但是我有一两处不大明白。    
+<audio src="./media/cut-19.aac"></audio>
 
 2.*低义频：* **强行超车：**  
 
  > She cut in a red car, forcing the driver to brake heavily.  
  > 她强行超到一辆红色的车的前面，迫使那位司机急刹车。    
+<audio src="./media/cut-20.aac"></audio>
 
 ## \#cut off
 1.**切掉；切断；[常用于被动语态] 使隔绝：**  
 
  > One of his fingers was cut off in the accident.  
  > 他的一根手指在事故中被切掉了。    
+<audio src="./media/cut-22.aac"></audio>
 
  > The water supply has been cut off temporarily because the workers are repairing one of the main pipes.   
  > 由于工人们正在维修其中一条主管道，供水暂时被切断。  （2013 天津）  
+<audio src="./media/cut50.aac"></audio>
 
  > Finally he reached a lonely island which was completely cut off from the outside world.   
  > 最终，他到达一个完全与外界隔绝的孤岛。  （2013 山东）  
+<audio src="./media/cut-23.aac"></audio>
 
 ## \#cut out
 1.**剪下；(从文字作品、文章中) 删掉；剪出：**  
 
  > I cut this article out of the newspaper.  
  > 我从报纸上剪下了这篇文章。    
+<audio src="./media/cut-24.aac"></audio>
 
  > Cut out the part about racial prejudice.  
  > 删掉有关种族歧视的那部分内容。    
+<audio src="./media/cut-103_AAC.aac"></audio>
 
  > She cut out a dress of some old material for me.  
  > 她用旧布料为我裁出一件连衣裙。    
+<audio src="./media/cut-25.aac"></audio>
 
 ## \#cut up
 1.**切碎；割碎；剪碎：**  
 
  > Cut up the carrots before you put them into the pot.  
  > 把胡萝卜切碎后放入锅内。    
+<audio src="./media/Cut up the carrots before you put_AAC.aac"></audio>
 
 
 真题解析
@@ -16026,7 +22152,13 @@ curved /kɜːvd/ adj
 1. off  2. down  3. in  
 
 # ***\#cut*** n  重难点词汇
-英音 kʌt     美音 kʌt  
+英音 kʌt  
+英音
+<audio src="./media/cut-B.aac"></audio>
+美音 kʌt  
+美音
+<audio src="./media/cut.aac"></audio>
+
 
 | 词频 5 | 口语 3 | 书面 3 |  
 
@@ -16036,9 +22168,11 @@ curved /kɜːvd/ adj
 
  > Blood poured from the deep cut on his arm.  
  > 鲜血从他手臂上深深的伤口中涌出。    
+<audio src="./media/cut-28.aac"></audio>
 
  > Using sharp scissors, make a small cut in the material.  
  > 用锋利的剪刀在这块布料上剪一个小口。    
+<audio src="./media/cut-29new.aac"></audio>
 
 ### 2.*高义频：* **理发 (haircut)**  
 
@@ -16046,13 +22180,21 @@ curved /kɜːvd/ adj
 
  > Big **cuts** have been made **in** the prices of medicine.  
  > 药品价格有了大幅度的下降。    
+<audio src="./media/cut-30.aac"></audio>
 
  > The government are planning further **cuts in** income tax.  
  > 政府正计划进一步削减所得税。    
+<audio src="./media/cut-31.aac"></audio>
 
 
 # ***\#cute*** adj
-英音 kjuːt     美音 kjuːt  
+英音 kjuːt  
+英音
+<audio src="./media/cute-B.aac"></audio>
+美音 kjuːt  
+美音
+<audio src="./media/cute.aac"></audio>
+
 
 | 词频 1 | 口语 2 |  
 
@@ -16062,7 +22204,13 @@ curved /kɜːvd/ adj
 
 
 # ***\#cutlery*** n
-英音 ˈkʌtləri     美音 ˈkʌtləri  
+英音 ˈkʌtləri  
+英音
+<audio src="./media/cutlery1_AAC.aac"></audio>
+美音 ˈkʌtləri  
+美音
+<audio src="./media/cutlery2_AAC.aac"></audio>
+
 
   
 
@@ -16072,7 +22220,13 @@ curved /kɜːvd/ adj
 
 
 # ***\#cutlet*** n
-英音 'kʌtlət     美音 'kʌtlət  
+英音 'kʌtlət  
+英音
+<audio src="./media/cutlet1.aac"></audio>
+美音 'kʌtlət  
+美音
+<audio src="./media/cutlet2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -16082,7 +22236,13 @@ curved /kɜːvd/ adj
 
 
 # ***\#cutting*** n
-英音 'kʌtɪŋ     美音 'kʌtɪŋ  
+英音 'kʌtɪŋ  
+英音
+<audio src="./media/cutting-B.aac"></audio>
+美音 'kʌtɪŋ  
+美音
+<audio src="./media/cutting.aac"></audio>
+
 
 | 词频 4 |  
 
@@ -16094,6 +22254,10 @@ curved /kɜːvd/ adj
 
 
 # ***\#cyberbully*** n
+英音
+<audio src="./media/cyberbully1_AAC.aac"></audio>
+美音
+<audio src="./media/cyberbully2_AAC.aac"></audio>
 
 
 | 词频 1 |  
@@ -16104,6 +22268,10 @@ curved /kɜːvd/ adj
 
 
 # ***\#cyberbully*** v
+英音
+<audio src="./media/cyberbully1_AAC.aac"></audio>
+美音
+<audio src="./media/cyberbully2_AAC.aac"></audio>
 
 
 | 词频 1 |  
@@ -16114,7 +22282,13 @@ curved /kɜːvd/ adj
 
 
 # ***\#cybercrime*** n
-英音 'saɪbəkraɪm     美音 'saɪbərkraɪm  
+英音 'saɪbəkraɪm  
+英音
+<audio src="./media/cybercrime-B.aac"></audio>
+美音 'saɪbərkraɪm  
+美音
+<audio src="./media/cybercrime.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -16124,7 +22298,13 @@ curved /kɜːvd/ adj
 
 
 # ***\#cyberspace*** n
-英音 'saɪbəspeɪs     美音 'saɪbərspeɪs  
+英音 'saɪbəspeɪs  
+英音
+<audio src="./media/cyberspace1.aac"></audio>
+美音 'saɪbərspeɪs  
+美音
+<audio src="./media/cyberspace2.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -16134,7 +22314,13 @@ curved /kɜːvd/ adj
 
 
 # ***\#cycle*** n
-英音 'saɪkl     美音 'saɪkl  
+英音 'saɪkl  
+英音
+<audio src="./media/cycle-B.aac"></audio>
+美音 'saɪkl  
+美音
+<audio src="./media/cycle.aac"></audio>
+
 
 | 词频 4 | 口语 1 | 书面 1 | 阅读 3 |  
 
@@ -16152,11 +22338,13 @@ curved /kɜːvd/ adj
 
  > We went for a cycle ride on Sunday.  
  > 我们星期天骑自行车去兜风了。    
+<audio src="./media/cycle-3.aac"></audio>
 
 ### 2.*高义频：* **周期；循环：**  
 
  > The seasons of a year make a cycle.  
  > 一年四季构成一个周期。    
+<audio src="./media/cycle-4.aac"></audio>
 
 
 派生词汇
@@ -16164,7 +22352,13 @@ curved /kɜːvd/ adj
 cycling /'saɪklɪŋ/ n   
 
 # ***\#cycle*** v
-英音 'saɪkl     美音 'saɪkl  
+英音 'saɪkl  
+英音
+<audio src="./media/cycle-B.aac"></audio>
+美音 'saɪkl  
+美音
+<audio src="./media/cycle.aac"></audio>
+
 
 | 词频 4 | 阅读 3 |  
 
@@ -16174,11 +22368,13 @@ cycling /'saɪklɪŋ/ n
 
  > The water is cycled through the machine and reused.  
  > 这些水通过机器循环后再使用。    
+<audio src="./media/cycle-1.aac"></audio>
 
 ### 2.*高义频：* **(BrE) 骑自行车 / 摩托车：**  
 
  > It’s frightening to be cycling to work in a sandstorm.  
  > 在沙尘暴天气里骑车去上班很可怕。  （外研③ – 4）  
+<audio src="./media/cycle-2.aac"></audio>
 
 
 派生词汇
@@ -16186,7 +22382,13 @@ cycling /'saɪklɪŋ/ n
 cycling /'saɪklɪŋ/ n   
 
 # ***\#cycling*** n
-英音 ˈsaɪklɪŋ     美音 ˈsaɪklɪŋ  
+英音 ˈsaɪklɪŋ  
+英音
+<audio src="./media/cycling1_AAC.aac"></audio>
+美音 ˈsaɪklɪŋ  
+美音
+<audio src="./media/cycling2_AAC.aac"></audio>
+
 
   
 
@@ -16196,7 +22398,13 @@ cycling /'saɪklɪŋ/ n
 
 
 # ***\#cyclist*** n
-英音 'saɪklɪst     美音 'saɪklɪst  
+英音 'saɪklɪst  
+英音
+<audio src="./media/cyclist-B.aac"></audio>
+美音 'saɪklɪst  
+美音
+<audio src="./media/cyclist.aac"></audio>
+
 
 | 词频 1 |  
 
@@ -16206,7 +22414,13 @@ cycling /'saɪklɪŋ/ n
 
 
 # ***\#cyclone*** n
-英音 ˈsaɪkləʊn     美音 ˈsaɪkləʊn  
+英音 ˈsaɪkləʊn  
+英音
+<audio src="./media/cyclone1_AAC.aac"></audio>
+美音 ˈsaɪkləʊn  
+美音
+<audio src="./media/cyclone2_AAC.aac"></audio>
+
 
   
 
@@ -16216,7 +22430,13 @@ cycling /'saɪklɪŋ/ n
 
 
 # ***\#cypress*** n
-英音 'saɪprəs     美音 'saɪprəs  
+英音 'saɪprəs  
+英音
+<audio src="./media/cypress1_AAC.aac"></audio>
+美音 'saɪprəs  
+美音
+<audio src="./media/cypress2_AAC.aac"></audio>
+
 
 | 词频 1 |  
 
