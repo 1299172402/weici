@@ -1,14 +1,11 @@
-这里是高中英语维克多词汇电子版
+# 高中英语维克多词汇电子版
 
-txt导出版 https://www.lanzous.com/i9hjn0d
+蓝奏云：https://zhiyuyu.lanzout.com/b098xjaid 密码:6mnk
 
-weici_ext.db https://www.lanzous.com/i9hjewb
+维词（20220402）.zip 为最新版导出
+
+.db 文件为提取的文件 （使用sqlite可用）
+
+victory.zip为旧版
 
 网页版 https://1299172402.github.io/weici/
-
-weici_to_txt.exe https://www.lanzous.com/i9hnh1c
-
-weici_to_md.exe https://www.lanzous.com/i9hnh7i
-
-fb_word_detail.json https://zhiyuyu.lanzous.com/ibwa7vg
-
