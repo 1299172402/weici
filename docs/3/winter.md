@@ -1,0 +1,23 @@
+# ***\#winter*** n
+英音 'wɪntə(r)  
+英音
+<audio src="./media/winter-B.aac" controls="controls"></audio>
+
+美音 'wɪntər  
+美音
+<audio src="./media/winter.aac" controls="controls"></audio>
+
+
+
+| 词频 4 | 口语 2 | 书面 2 |  
+
+用法点拨  [C] & [U]
+
+英文释义
+---
+### 1.*高义频：* **冬；冬季：**  
+
+ > **in ( the ) winter**   
+ > 在冬季    
+
+

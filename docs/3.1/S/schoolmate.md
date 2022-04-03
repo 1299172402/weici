@@ -1,0 +1,20 @@
+# ***\#schoolmate*** n
+英音 'skuːlmeɪt  
+英音
+<audio src="./media/schoolmate-B.aac" controls="controls"></audio>
+
+美音 'skuːlmeɪt  
+美音
+<audio src="./media/schoolmate.aac" controls="controls"></audio>
+
+
+
+| 词频 2 |  
+
+用法点拨  [C]
+
+英文释义
+---
+### 1.*高义频：* **同学**  
+
+

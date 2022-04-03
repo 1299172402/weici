@@ -81,7 +81,7 @@ def gy_example(t): #18417
     print(' > '+ english +'  ',file=f)
     if t['source']!='' : print(' > '+t['chinese']+'  （'+t['source']+'）  ',file=f)
     if t['source']=='' : print(' > '+t['chinese']+'  '+t['source']+'  ',file=f)
-    if t['sound']!='' : print("<audio src=\"./media/" + t['sound'] + "\"></audio>", file=f)
+    if t['sound']!='' : print("<audio src=\"./media/" + t['sound'] + "\" controls=\"controls\"></audio>", file=f)
     print(file=f)
     
 def gy_notes(t): #16597
@@ -159,9 +159,9 @@ def chuli(t):
     
     #word_phonetic
     if a['en_phonetic_symbols']!='':print('英音 ' + a['en_phonetic_symbols']+'  ', file=f)
-    if a['en_file']!='': print("英音\n<audio src=\"./media/" + a['en_file'] + "\"></audio>", file=f)
+    if a['en_file']!='': print("英音\n<audio src=\"./media/" + a['en_file'] + "\" controls=\"controls\"></audio>\n", file=f)
     if a['usa_phonetic_symbols']!='':print('美音 ' + a['usa_phonetic_symbols']+'  ', file=f)
-    if a['usa_file']!='': print("美音\n<audio src=\"./media/" + a['usa_file'] + "\"></audio>", file=f)
+    if a['usa_file']!='': print("美音\n<audio src=\"./media/" + a['usa_file'] + "\" controls=\"controls\"></audio>\n", file=f)
     print(file=f)
     
     #word_level
@@ -251,6 +251,7 @@ print('1.所有单词按小写字母输出到文件')
 print('2.所有单词输出')
 print('3.所有词组输出')
 print('4.所有词输出')
+print('5.所有词独立输出')
 print()
 ch = input('请输入数字：')
 if ch=='':ch='1234'
@@ -292,8 +293,30 @@ if ch.find('4')!=-1: #所有词输出
     for row in cursor:
         if row[6]==0 : chuli(row[3])
     print('%s' % path_save + '\weici_all_10112.md')
+
+if ch.find('5')!=-1: #所有词独立输出
+    f_sidebar = open('%s' % path_save + '\\'+'_sidebar.md','w',encoding='utf-8')
+    cursor = c.execute("select * from fb_word_detail order by word asc")
+    for row in cursor:
+        if row[6]==0 : 
+            a=json.loads(row[3])
+            b=a['word']
+            while b[0]==' ':
+                b=b[1:]
+            while b[-1]==' ':
+                b=b[:-1]
+            f_sidebar.write(f"[{b}]")
+            b=b.replace("/", "")
+            b=b.replace("?", "")
+            b=b.replace(" ", "_")
+            b=b.replace("(", "")
+            b=b.replace(")", "")
+            f_sidebar.write(f"({b})\n\n")
+            f = open('%s' % path_save + '\\'+b+'.md','a',encoding='utf-8')
+            chuli(row[3])
+            f.close()
         
-if ch.find('1')==-1 and ch.find('2')==-1 and ch.find('3')==-1 and ch.find('4')==-1:
+if ch.find('1')==-1 and ch.find('2')==-1 and ch.find('3')==-1 and ch.find('4')==-1 and ch.find('5')==-1:
     print('输入错误，请重试')
 
 #Finish
