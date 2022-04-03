@@ -8,7 +8,7 @@
 
 > Uptate: 2022.04.02
 
-* [Aa](./2/weici_A.md)  
+* [Aa](./weici_A.md)  
 * [Bb](./2/weici_B.md)  
 * [Cc](./2/weici_C.md)  
 * [Dd](./2/weici_D.md)  
