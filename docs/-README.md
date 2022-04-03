@@ -1,6 +1,3 @@
-# Headline
-
-> An awesome project.
 # 高中英语维克多词汇电子版
 
 > An awesome project.
