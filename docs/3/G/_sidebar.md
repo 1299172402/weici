@@ -1,410 +1,410 @@
 * Gg
 
-* [gable](./3/G/gable.md)
+* [gable](3/G/gable.md)
 
-* [gadget](./3/G/gadget.md)
+* [gadget](3/G/gadget.md)
 
-* [gaily](./3/G/gaily.md)
+* [gaily](3/G/gaily.md)
 
-* [gain](./3/G/gain.md)
+* [gain](3/G/gain.md)
 
-* [galaxy](./3/G/galaxy.md)
+* [galaxy](3/G/galaxy.md)
 
-* [gallery](./3/G/gallery.md)
+* [gallery](3/G/gallery.md)
 
-* [gallon](./3/G/gallon.md)
+* [gallon](3/G/gallon.md)
 
-* [gallop](./3/G/gallop.md)
+* [gallop](3/G/gallop.md)
 
-* [game-changing](./3/G/game-changing.md)
+* [game-changing](3/G/game-changing.md)
 
-* [game](./3/G/game.md)
+* [game](3/G/game.md)
 
-* [gang](./3/G/gang.md)
+* [gang](3/G/gang.md)
 
-* [gap](./3/G/gap.md)
+* [gap](3/G/gap.md)
 
-* [garage](./3/G/garage.md)
+* [garage](3/G/garage.md)
 
-* [garbage](./3/G/garbage.md)
+* [garbage](3/G/garbage.md)
 
-* [garden](./3/G/garden.md)
+* [garden](3/G/garden.md)
 
-* [gardening](./3/G/gardening.md)
+* [gardening](3/G/gardening.md)
 
-* [garlic](./3/G/garlic.md)
+* [garlic](3/G/garlic.md)
 
-* [garment](./3/G/garment.md)
+* [garment](3/G/garment.md)
 
-* [gas](./3/G/gas.md)
+* [gas](3/G/gas.md)
 
-* [gate](./3/G/gate.md)
+* [gate](3/G/gate.md)
 
-* [gateway](./3/G/gateway.md)
+* [gateway](3/G/gateway.md)
 
-* [gather](./3/G/gather.md)
+* [gather](3/G/gather.md)
 
-* [gatherer](./3/G/gatherer.md)
+* [gatherer](3/G/gatherer.md)
 
-* [gathering](./3/G/gathering.md)
+* [gathering](3/G/gathering.md)
 
-* [gay](./3/G/gay.md)
+* [gay](3/G/gay.md)
 
-* [gaze](./3/G/gaze.md)
+* [gaze](3/G/gaze.md)
 
-* [gear](./3/G/gear.md)
+* [gear](3/G/gear.md)
 
-* [gem](./3/G/gem.md)
+* [gem](3/G/gem.md)
 
-* [gender](./3/G/gender.md)
+* [gender](3/G/gender.md)
 
-* [gene-therapy](./3/G/gene-therapy.md)
+* [gene-therapy](3/G/gene-therapy.md)
 
-* [gene](./3/G/gene.md)
+* [gene](3/G/gene.md)
 
-* [general](./3/G/general.md)
+* [general](3/G/general.md)
 
-* [generally](./3/G/generally.md)
+* [generally](3/G/generally.md)
 
-* [generate](./3/G/generate.md)
+* [generate](3/G/generate.md)
 
-* [generation](./3/G/generation.md)
+* [generation](3/G/generation.md)
 
-* [generosity](./3/G/generosity.md)
+* [generosity](3/G/generosity.md)
 
-* [generous](./3/G/generous.md)
+* [generous](3/G/generous.md)
 
-* [genetic](./3/G/genetic.md)
+* [genetic](3/G/genetic.md)
 
-* [genetically](./3/G/genetically.md)
+* [genetically](3/G/genetically.md)
 
-* [genetics](./3/G/genetics.md)
+* [genetics](3/G/genetics.md)
 
-* [genius](./3/G/genius.md)
+* [genius](3/G/genius.md)
 
-* [genome](./3/G/genome.md)
+* [genome](3/G/genome.md)
 
-* [genre](./3/G/genre.md)
+* [genre](3/G/genre.md)
 
-* [gentle](./3/G/gentle.md)
+* [gentle](3/G/gentle.md)
 
-* [gentleman](./3/G/gentleman.md)
+* [gentleman](3/G/gentleman.md)
 
-* [gentleness](./3/G/gentleness.md)
+* [gentleness](3/G/gentleness.md)
 
-* [gently](./3/G/gently.md)
+* [gently](3/G/gently.md)
 
-* [genuine](./3/G/genuine.md)
+* [genuine](3/G/genuine.md)
 
-* [genuinely](./3/G/genuinely.md)
+* [genuinely](3/G/genuinely.md)
 
-* [geographical](./3/G/geographical.md)
+* [geographical](3/G/geographical.md)
 
-* [geography](./3/G/geography.md)
+* [geography](3/G/geography.md)
 
-* [geologist](./3/G/geologist.md)
+* [geologist](3/G/geologist.md)
 
-* [geology](./3/G/geology.md)
+* [geology](3/G/geology.md)
 
-* [geometry](./3/G/geometry.md)
+* [geometry](3/G/geometry.md)
 
-* [geophysicist](./3/G/geophysicist.md)
+* [geophysicist](3/G/geophysicist.md)
 
-* [germ](./3/G/germ.md)
+* [germ](3/G/germ.md)
 
-* [gesture](./3/G/gesture.md)
+* [gesture](3/G/gesture.md)
 
-* [get-together](./3/G/get-together.md)
+* [get-together](3/G/get-together.md)
 
-* [get](./3/G/get.md)
+* [get](3/G/get.md)
 
-* [getaway](./3/G/getaway.md)
+* [getaway](3/G/getaway.md)
 
-* [geyser](./3/G/geyser.md)
+* [geyser](3/G/geyser.md)
 
-* [ghost](./3/G/ghost.md)
+* [ghost](3/G/ghost.md)
 
-* [giant](./3/G/giant.md)
+* [giant](3/G/giant.md)
 
-* [gift](./3/G/gift.md)
+* [gift](3/G/gift.md)
 
-* [gifted](./3/G/gifted.md)
+* [gifted](3/G/gifted.md)
 
-* [gigantic](./3/G/gigantic.md)
+* [gigantic](3/G/gigantic.md)
 
-* [giggle](./3/G/giggle.md)
+* [giggle](3/G/giggle.md)
 
-* [giraffe](./3/G/giraffe.md)
+* [giraffe](3/G/giraffe.md)
 
-* [gird](./3/G/gird.md)
+* [gird](3/G/gird.md)
 
-* [girl](./3/G/girl.md)
+* [girl](3/G/girl.md)
 
-* [girlfriend](./3/G/girlfriend.md)
+* [girlfriend](3/G/girlfriend.md)
 
-* [give](./3/G/give.md)
+* [give](3/G/give.md)
 
-* [given](./3/G/given.md)
+* [given](3/G/given.md)
 
-* [glacier](./3/G/glacier.md)
+* [glacier](3/G/glacier.md)
 
-* [glad](./3/G/glad.md)
+* [glad](3/G/glad.md)
 
-* [glance](./3/G/glance.md)
+* [glance](3/G/glance.md)
 
-* [glare](./3/G/glare.md)
+* [glare](3/G/glare.md)
 
-* [glass](./3/G/glass.md)
+* [glass](3/G/glass.md)
 
-* [gleam](./3/G/gleam.md)
+* [gleam](3/G/gleam.md)
 
-* [glee](./3/G/glee.md)
+* [glee](3/G/glee.md)
 
-* [global](./3/G/global.md)
+* [global](3/G/global.md)
 
-* [globalize](./3/G/globalize.md)
+* [globalize](3/G/globalize.md)
 
-* [globe](./3/G/globe.md)
+* [globe](3/G/globe.md)
 
-* [glorious](./3/G/glorious.md)
+* [glorious](3/G/glorious.md)
 
-* [glory](./3/G/glory.md)
+* [glory](3/G/glory.md)
 
-* [glossy](./3/G/glossy.md)
+* [glossy](3/G/glossy.md)
 
-* [glove](./3/G/glove.md)
+* [glove](3/G/glove.md)
 
-* [glow](./3/G/glow.md)
+* [glow](3/G/glow.md)
 
-* [glowing](./3/G/glowing.md)
+* [glowing](3/G/glowing.md)
 
-* [glue](./3/G/glue.md)
+* [glue](3/G/glue.md)
 
-* [go](./3/G/go.md)
+* [go](3/G/go.md)
 
-* [goal](./3/G/goal.md)
+* [goal](3/G/goal.md)
 
-* [goat](./3/G/goat.md)
+* [goat](3/G/goat.md)
 
-* [god](./3/G/god.md)
+* [god](3/G/god.md)
 
-* [goddess](./3/G/goddess.md)
+* [goddess](3/G/goddess.md)
 
-* [gold](./3/G/gold.md)
+* [gold](3/G/gold.md)
 
-* [golden](./3/G/golden.md)
+* [golden](3/G/golden.md)
 
-* [golf](./3/G/golf.md)
+* [golf](3/G/golf.md)
 
-* [good-looking](./3/G/good-looking.md)
+* [good-looking](3/G/good-looking.md)
 
-* [good-tempered](./3/G/good-tempered.md)
+* [good-tempered](3/G/good-tempered.md)
 
-* [good](./3/G/good.md)
+* [good](3/G/good.md)
 
-* [goodbye](./3/G/goodbye.md)
+* [goodbye](3/G/goodbye.md)
 
-* [goodness](./3/G/goodness.md)
+* [goodness](3/G/goodness.md)
 
-* [goods](./3/G/goods.md)
+* [goods](3/G/goods.md)
 
-* [goodwill](./3/G/goodwill.md)
+* [goodwill](3/G/goodwill.md)
 
-* [goose](./3/G/goose.md)
+* [goose](3/G/goose.md)
 
-* [gorge](./3/G/gorge.md)
+* [gorge](3/G/gorge.md)
 
-* [gorgeous](./3/G/gorgeous.md)
+* [gorgeous](3/G/gorgeous.md)
 
-* [gorilla](./3/G/gorilla.md)
+* [gorilla](3/G/gorilla.md)
 
-* [gosh](./3/G/gosh.md)
+* [gosh](3/G/gosh.md)
 
-* [gospel](./3/G/gospel.md)
+* [gospel](3/G/gospel.md)
 
-* [gossip](./3/G/gossip.md)
+* [gossip](3/G/gossip.md)
 
-* [govern](./3/G/govern.md)
+* [govern](3/G/govern.md)
 
-* [government](./3/G/government.md)
+* [government](3/G/government.md)
 
-* [governor](./3/G/governor.md)
+* [governor](3/G/governor.md)
 
-* [grab](./3/G/grab.md)
+* [grab](3/G/grab.md)
 
-* [grace](./3/G/grace.md)
+* [grace](3/G/grace.md)
 
-* [graceful](./3/G/graceful.md)
+* [graceful](3/G/graceful.md)
 
-* [gracious](./3/G/gracious.md)
+* [gracious](3/G/gracious.md)
 
-* [graciously](./3/G/graciously.md)
+* [graciously](3/G/graciously.md)
 
-* [grade](./3/G/grade.md)
+* [grade](3/G/grade.md)
 
-* [gradual](./3/G/gradual.md)
+* [gradual](3/G/gradual.md)
 
-* [gradually](./3/G/gradually.md)
+* [gradually](3/G/gradually.md)
 
-* [graduate](./3/G/graduate.md)
+* [graduate](3/G/graduate.md)
 
-* [graduation](./3/G/graduation.md)
+* [graduation](3/G/graduation.md)
 
-* [graffiti](./3/G/graffiti.md)
+* [graffiti](3/G/graffiti.md)
 
-* [grain](./3/G/grain.md)
+* [grain](3/G/grain.md)
 
-* [gram](./3/G/gram.md)
+* [gram](3/G/gram.md)
 
-* [grammar](./3/G/grammar.md)
+* [grammar](3/G/grammar.md)
 
-* [grammatical](./3/G/grammatical.md)
+* [grammatical](3/G/grammatical.md)
 
-* [gramophone](./3/G/gramophone.md)
+* [gramophone](3/G/gramophone.md)
 
-* [grand](./3/G/grand.md)
+* [grand](3/G/grand.md)
 
-* [grandchild](./3/G/grandchild.md)
+* [grandchild](3/G/grandchild.md)
 
-* [granddaughter](./3/G/granddaughter.md)
+* [granddaughter](3/G/granddaughter.md)
 
-* [grandma](./3/G/grandma.md)
+* [grandma](3/G/grandma.md)
 
-* [grandpa](./3/G/grandpa.md)
+* [grandpa](3/G/grandpa.md)
 
-* [grandparent](./3/G/grandparent.md)
+* [grandparent](3/G/grandparent.md)
 
-* [grandson](./3/G/grandson.md)
+* [grandson](3/G/grandson.md)
 
-* [granite](./3/G/granite.md)
+* [granite](3/G/granite.md)
 
-* [granny](./3/G/granny.md)
+* [granny](3/G/granny.md)
 
-* [grant](./3/G/grant.md)
+* [grant](3/G/grant.md)
 
-* [grape](./3/G/grape.md)
+* [grape](3/G/grape.md)
 
-* [graph](./3/G/graph.md)
+* [graph](3/G/graph.md)
 
-* [graphic](./3/G/graphic.md)
+* [graphic](3/G/graphic.md)
 
-* [grasp](./3/G/grasp.md)
+* [grasp](3/G/grasp.md)
 
-* [grasping](./3/G/grasping.md)
+* [grasping](3/G/grasping.md)
 
-* [grass](./3/G/grass.md)
+* [grass](3/G/grass.md)
 
-* [grassland](./3/G/grassland.md)
+* [grassland](3/G/grassland.md)
 
-* [grateful](./3/G/grateful.md)
+* [grateful](3/G/grateful.md)
 
-* [gratitude](./3/G/gratitude.md)
+* [gratitude](3/G/gratitude.md)
 
-* [grave](./3/G/grave.md)
+* [grave](3/G/grave.md)
 
-* [gravity](./3/G/gravity.md)
+* [gravity](3/G/gravity.md)
 
-* [gravy](./3/G/gravy.md)
+* [gravy](3/G/gravy.md)
 
-* [gray](./3/G/gray.md)
+* [gray](3/G/gray.md)
 
-* [great](./3/G/great.md)
+* [great](3/G/great.md)
 
-* [greatly](./3/G/greatly.md)
+* [greatly](3/G/greatly.md)
 
-* [greed](./3/G/greed.md)
+* [greed](3/G/greed.md)
 
-* [greedily](./3/G/greedily.md)
+* [greedily](3/G/greedily.md)
 
-* [greedy](./3/G/greedy.md)
+* [greedy](3/G/greedy.md)
 
-* [green](./3/G/green.md)
+* [green](3/G/green.md)
 
-* [greengrocer](./3/G/greengrocer.md)
+* [greengrocer](3/G/greengrocer.md)
 
-* [greenhouse](./3/G/greenhouse.md)
+* [greenhouse](3/G/greenhouse.md)
 
-* [greet](./3/G/greet.md)
+* [greet](3/G/greet.md)
 
-* [greeting](./3/G/greeting.md)
+* [greeting](3/G/greeting.md)
 
-* [grey](./3/G/grey.md)
+* [grey](3/G/grey.md)
 
-* [grief](./3/G/grief.md)
+* [grief](3/G/grief.md)
 
-* [grill](./3/G/grill.md)
+* [grill](3/G/grill.md)
 
-* [grin](./3/G/grin.md)
+* [grin](3/G/grin.md)
 
-* [grip](./3/G/grip.md)
+* [grip](3/G/grip.md)
 
-* [grizzly](./3/G/grizzly.md)
+* [grizzly](3/G/grizzly.md)
 
-* [grocer](./3/G/grocer.md)
+* [grocer](3/G/grocer.md)
 
-* [groceries](./3/G/groceries.md)
+* [groceries](3/G/groceries.md)
 
-* [grocery](./3/G/grocery.md)
+* [grocery](3/G/grocery.md)
 
-* [grotto](./3/G/grotto.md)
+* [grotto](3/G/grotto.md)
 
-* [ground](./3/G/ground.md)
+* [ground](3/G/ground.md)
 
-* [groundwork](./3/G/groundwork.md)
+* [groundwork](3/G/groundwork.md)
 
-* [group](./3/G/group.md)
+* [group](3/G/group.md)
 
-* [grove](./3/G/grove.md)
+* [grove](3/G/grove.md)
 
-* [grow](./3/G/grow.md)
+* [grow](3/G/grow.md)
 
-* [grown-up](./3/G/grown-up.md)
+* [grown-up](3/G/grown-up.md)
 
-* [growth](./3/G/growth.md)
+* [growth](3/G/growth.md)
 
-* [guarantee](./3/G/guarantee.md)
+* [guarantee](3/G/guarantee.md)
 
-* [guard](./3/G/guard.md)
+* [guard](3/G/guard.md)
 
-* [guess](./3/G/guess.md)
+* [guess](3/G/guess.md)
 
-* [guest](./3/G/guest.md)
+* [guest](3/G/guest.md)
 
-* [guesthouse](./3/G/guesthouse.md)
+* [guesthouse](3/G/guesthouse.md)
 
-* [guidance](./3/G/guidance.md)
+* [guidance](3/G/guidance.md)
 
-* [guide](./3/G/guide.md)
+* [guide](3/G/guide.md)
 
-* [guidebook](./3/G/guidebook.md)
+* [guidebook](3/G/guidebook.md)
 
-* [guideline](./3/G/guideline.md)
+* [guideline](3/G/guideline.md)
 
-* [guilty](./3/G/guilty.md)
+* [guilty](3/G/guilty.md)
 
-* [guitar](./3/G/guitar.md)
+* [guitar](3/G/guitar.md)
 
-* [gum](./3/G/gum.md)
+* [gum](3/G/gum.md)
 
-* [gumbo](./3/G/gumbo.md)
+* [gumbo](3/G/gumbo.md)
 
-* [gun](./3/G/gun.md)
+* [gun](3/G/gun.md)
 
-* [gunfire](./3/G/gunfire.md)
+* [gunfire](3/G/gunfire.md)
 
-* [gunpowder](./3/G/gunpowder.md)
+* [gunpowder](3/G/gunpowder.md)
 
-* [gutter](./3/G/gutter.md)
+* [gutter](3/G/gutter.md)
 
-* [guy](./3/G/guy.md)
+* [guy](3/G/guy.md)
 
-* [gym](./3/G/gym.md)
+* [gym](3/G/gym.md)
 
-* [gymnasium](./3/G/gymnasium.md)
+* [gymnasium](3/G/gymnasium.md)
 
-* [gymnast](./3/G/gymnast.md)
+* [gymnast](3/G/gymnast.md)
 
-* [gymnastic](./3/G/gymnastic.md)
+* [gymnastic](3/G/gymnastic.md)
 
-* [gymnastics](./3/G/gymnastics.md)
+* [gymnastics](3/G/gymnastics.md)
 
